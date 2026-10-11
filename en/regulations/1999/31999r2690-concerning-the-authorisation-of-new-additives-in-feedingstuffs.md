@@ -1,0 +1,89 @@
+---
+title: "Commission Regulation (EC) No 2690/1999 of 17 December 1999 concerning the authorisation of new additives in feedingstuffs"
+identifier: "31999R2690"
+eli: "http://data.europa.eu/eli/reg/1999/2690/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1999-12-17
+entry_into_force: 1999-05-27
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R2690"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2690/1999 of 17 December 1999 concerning the authorisation of new additives in feedingstuffs
+
+COMMISSION REGULATION (EC) No 2690/1999
+
+of 17 December 1999
+
+concerning the authorisation of new additives in feedingstuffs
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Commission Regulation (EC) No 2562/1999(2), and in particular Article 3, thereof,
+
+Whereas:
+
+(1) Directive 70/524/EEC provides that new additives shall be authorised, taking account of advances in scientific and technical knowledge.
+
+(2) Council Directive 93/113/EC of 14 December 1993 concerning the use and the marketing of enzymes, micro-organisms and their preparations in animal nutrition(3), as last amended by Directive 97/40/EC(4), by derogation from Directive 70/524/EEC, authorised Member States to permit provisionally the use and marketing of enzymes, micro-organisms and their preparations.
+
+(3) A provisional authorisation of new additives or uses of additives shall be given if, at the level permitted in feedingstuffs, it does not adversely affect human or animal health or the environment, nor harm the consumer by altering the characteristics of livestock product, if its presence in feedingstuffs can be controlled, and it is reasonabe to assume, in view of the available results, that it has a favourable effect on the characteristics of those feedingstuffs or on livestock production when incorporated in such feedingstuffs.
+
+(4) Council Directive 89/391/EEC(5) on the introduction of measures to encourage improvements in the safety and health of workers at work and its relevant individual directives, in particular Council Directive 90/679/EEC(6) as last amended by Commission Directive 97/65/CE(7) on the protection of workers from risks related to exposure to biological agents at work, are fully applicable to the use and manipulation by workers of the additives in feedingstuffs.
+
+(5) The examination of the dossiers, submitted by the Member States in accordance with Article 3 of Directive 93/113/EC, indicates that a certain number of preparations belonging to the groups of enzymes and micro-organisms can be provisonally authorised.
+
+(6) The Scientific Committee for Animal Nutrition has delivered a favourable opinion with regard to the harmlessness of these preparations.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Feedingstuffs,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The preparations belonging to the group "Enzymes" listed in Annex I to the present Regulation shall be authorised according to Directive 70/524/EEC as additives in animal nutrition under the conditions laid down in the said Annex.
+
+## Article 2
+
+The preparation belonging to the group "Micro-organisms" listed in Annex II to the present Regulation shall be authorised according to Directive 70/524/EEC as additives in animal nutriton under the conditions laid down in the said Annex.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 17 December 1999.
+
+For the Commission
+
+David BYRNE
+
+Member of the Commission
+
+(1) OJ L 270, 14.12.1970, p. 1.
+
+(2) OJ L 310, 4.12.1999, p. 11.
+
+(3) OJ L 334, 31.12.1993, p. 17.
+
+(4) OJ L 180, 9.7.1997, p. 21.
+
+(5) OJ L 183, 29.6.1989, p. 1.
+
+(6) OJ L 374, 31.12.1990, p. 1.
+
+(7) OJ L 335, 6.12.1997, p. 17.
+
+## ANNEX I
+
+>TABLE>
+
+## ANNEX II
+
+>TABLE>

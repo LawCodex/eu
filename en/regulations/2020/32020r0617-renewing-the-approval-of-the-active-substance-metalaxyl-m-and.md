@@ -1,0 +1,88 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/617 of 5 May 2020 renewing the approval of the active substance metalaxyl-M, and restricting the use of seeds treated with plant protection products containing it, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance)"
+identifier: "32020R0617"
+eli: "http://data.europa.eu/eli/reg_impl/2020/617/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-05-05
+entry_into_force: 2020-11-01
+last_amended: 2026-07-06
+consolidated_version: "02020R0617-20260706"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R0617-20260706"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/617 of 5 May 2020 renewing the approval of the active substance metalaxyl-M, and restricting the use of seeds treated with plant protection products containing it, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/617**
+
+**of 5 May 2020**
+
+**renewing the approval of the active substance metalaxyl-M, and restricting the use of seeds treated with plant protection products containing it, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1718 of 19 June 2024 </td><td> L 1718</td><td>1</td><td>20.6.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1353 of 15 June 2026 </td><td> L 1353</td><td>1</td><td>16.6.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/617**
+
+**of 5 May 2020**
+
+**renewing the approval of the active substance metalaxyl-M, and restricting the use of seeds treated with plant protection products containing it, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Renewal of the approval of the active substance
+
+The approval of the active substance metalaxyl-M is renewed as set out in Annex I.
+
+## Article 2 — Amendments to Implementing Regulation (EU) No 540/2011
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended in accordance with Annex II to this Regulation.
+
+## Article 3 — Restriction to the use of treated seeds
+
+Seeds treated with plant protection products containing metalaxyl-M shall only be sown in greenhouses.
+
+## Article 4 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 June 2020.
+
+However, Article 3 shall apply as of 1 June 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+<table>
+<tbody><tr><td>Common Name, Identification Numbers </td><td>IUPAC Name</td><td>Purity (1)</td><td>Date of approval</td><td>Expiration of approval</td><td>Specific provisions</td></tr>
+<tr><td>Metalaxyl-M CAS No 70630-17-0 (R)  CIPAC No 580 </td><td>methyl N-(methoxyacetyl)-N-(2,6-xylyl)-D-alaninate</td><td>≥ 920 g/kg The following impurities are of toxicological concern and must not exceed the following levels in the technical material:  2,6-dimethylphenylamine:  max. content ≤ 0,5 g/kg  4-methoxy-5-methyl-5H-[1,2]oxathiole 2,2-dioxide:  max. content ≤ 1 g/kg  2-[(2,6-dimethyl-phenyl)-(2-methoxyacetyl)-amino]-propionic acid 1-methoxycarbonyl-ethyl ester:  max. content &lt; 10 g/kg </td><td>1 June 2020</td><td>31 May 2035</td><td>When used for seed treatment where treated seeds are to be sown outdoors, Member States shall, impose appropriate restrictions concerning the sowing density and require the use of precision drilling equipment. A sowing density above 2 000 000 seeds/ha shall not be exceeded unless the outcome of the risk assessment undertaken for the specific uses for which authorisation is applied for demonstrates that a higher rate does not lead to any unacceptable effects on birds and mammals. For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on metalaxyl-M, and in particular Appendices I and II thereto, shall be taken into account.  In this overall assessment Member States shall pay particular attention to:  — the specification of the technical material as commercially manufactured;  — the protection of operators and workers, ensuring that the conditions of use prescribe the use of adequate personal protective equipment, where appropriate;  — the protection of groundwater, when the substance is applied in regions with vulnerable soil and/or climatic conditions;  — the protection of non-target arthropods, birds and mammals.  Conditions of use shall include risk mitigation measures, where appropriate.  The applicant shall submit to the Commission, the Member States and the Authority confirmatory information as regards the effect of water treatment processes on the nature of residues present in drinking water, by 10 July 2026. </td></tr>
+<tr><td colspan="6">(1)  Further details on the identity and the specification of the active substance are provided in the review report. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended as follows:
+
+(1) in Part A, entry 37 on metalaxyl-M is deleted;
+
+(2) in Part B, the following entry is added:
+
+<table>
+<tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Date of approval</td><td>Expiration of approval</td><td>Specific provisions</td></tr>
+<tr><td>‘140</td><td>Metalaxyl-M</td><td>methyl N-(methoxyacetyl)-N-(2,6-xylyl)-D-alaninate</td><td>≥ 920 g/kg</td><td>1 June 2020</td><td>31 May 2035</td><td>When used for seed treatment, only the treatment of seeds intended to be sown in greenhouses may be authorised.</td></tr>
+<tr><td>  </td><td>CAS No 70630-17-0 (R) CIPAC No 580 </td><td>  </td><td>The following impurities are of toxicological concern and must not exceed the following levels in the technical material: 2,6-dimethylphenylamine: max. content 0,5 g/kg  4-methoxy-5-methyl-5H-[1,2]oxathiole 2,2-dioxide: max. content 1 g/kg  2-[(2,6-dimethyl-phenyl)-(2-methoxyacetyl)-amino]-propionic acid 1-methoxycarbonyl-ethyl ester: max. content 0,18 g/kg </td><td>  </td><td>  </td><td>For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on metalaxyl-M, and in particular Appendices I and II thereto, shall be taken into account. In this overall assessment Member States shall pay particular attention to:  — the specification of the technical material as commercially manufactured;  — the protection of operators and workers, ensuring that the conditions of use prescribe the use of adequate personal protective equipment, where appropriate;  — the protection of groundwater, when the substance is applied in regions with vulnerable soil and/or climatic conditions;  — the protection of non-target arthropods, birds and mammals.  Conditions of use shall include risk mitigation measures, where appropriate.  The applicant shall submit to the Commission, the Member States and the Authority an updated assessment of the information submitted and, where relevant, further information to confirm the absence of endocrine activity in accordance with points 3.6.5 and 3.8.2 of Annex II to Regulation (EC) No 1107/2009, as amended by Regulation (EU) 2018/605 by 26 May 2022. </td></tr>
+<tr><td colspan="7">(1)  Further details on the identity and the specification of the active substance are provided in the review report.’ </td></tr>
+</tbody>
+</table>

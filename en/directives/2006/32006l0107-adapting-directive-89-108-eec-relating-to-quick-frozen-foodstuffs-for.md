@@ -78,6 +78,7 @@ J. KORKEAOJA
 
 **FOODSTUFFS**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>31989 L 0108: Council Directive 89/108/EEC of 21 December 1988 on the approximation of the laws of the Member States relating to quick-frozen foodstuffs for human consumption (OJ L 40, 11.2.1989, p. 34) as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties — Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21), 12003 T: Act concerning the conditions of accession and the adjustments to the Treaties — Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33), </td></tr>
 </tbody>
 </table>
@@ -90,7 +91,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>32000 L 0013: Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs (OJ L 109, 6.5.2000, p. 29), as amended by:<table><tbody><tr><td>—</td><td>32001 L 0101: Commission Directive 2001/101/EC of 26.11.2001 (OJ L 310, 28.11.2001, p. 19),</td></tr>
 </tbody>
 </table>
@@ -240,3 +243,4 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>

@@ -1,0 +1,581 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/34 of 17 October 2018 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks"
+identifier: "32019R0034"
+eli: "http://data.europa.eu/eli/reg_impl/2019/34/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-10-17
+entry_into_force: 2019-06-12
+last_amended: 2025-01-18
+consolidated_version: "02019R0034-20250118"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0034-20250118"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/34 of 17 October 2018 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/34**
+
+**of 17 October 2018**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards checks related to protected designations of origin and protected geographical indications and applications for protection, the objection procedure, the registration, modification and cancellation of traditional terms in the wine sector**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1607 of 30 May 2023 </td><td> L 198</td><td>14</td><td>8.8.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/26 of 30 October 2024 </td><td> L 26</td><td>1</td><td>15.1.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/34**
+
+**of 17 October 2018**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards checks related to protected designations of origin and protected geographical indications and applications for protection, the objection procedure, the registration, modification and cancellation of traditional terms in the wine sector**
+
+## CHAPTER I — INTRODUCTORY PROVISION
+
+#### Article 1 — Subject matter
+
+This Regulation lays down rules for the application of Regulation (EU) No 1308/2013, concerning protected designations of origin and protected geographical indications in the wine sector as regards checks and concerning traditional terms in the wine sector, as regards:
+
+(a) applications for protection;
+
+(b) the objection procedure;
+
+(c) registration;
+
+(d) enforcement of the protection;
+
+(e) modification;
+
+(f) cancellation of the protection;
+
+(g) communications.
+
+## CHAPTER II — PROTECTED DESIGNATIONS OF ORIGIN AND GEOGRAPHICAL INDICATIONS
+
+### SECTION 1 — Application for protection
+
+### SECTION 2 — Objection procedure
+
+### SECTION 3 — Amendments to the product specification
+
+### SECTION 4 — Register
+
+### SECTION 5 — Cancellation
+
+### SECTION 6 — Use of the Union symbol
+
+### SECTION 7 — Checks
+
+#### Article 15 — Authorities responsible for verifying compliance with the product specification
+
+1\. When performing the checks provided for in this Section, the responsible competent authorities and delegated bodies shall comply with the requirements laid down in Regulation (EU) 2017/625 of the European Parliament and of the Council ( 1 ).
+
+2\. In respect of protected designations of origin and protected geographical indications relating to a geographical area in a third country, annual verification of compliance with the product specification, during the production phase and during or after conditioning of the wine, shall be performed by:
+
+(a) one or more public authorities designated by the third country; or
+
+(b) one or more certification bodies.
+
+3\. The delegated bodies referred to in Article 116a(3) of Regulation (EU) No 1308/2013 and the one or more certification bodies referred to in paragraph 2, point (b), of this Article shall comply with, and be accredited in accordance with, either of the following standards as relevant for the delegated tasks:
+
+(a) Standard EN ISO/IEC 17065 “Conformity assessment – Requirements for bodies certifying products, processes and services”;
+
+(b) Standard EN ISO/IEC 17020 “Conformity assessment – Requirements for the operation of various types of bodies performing inspection”.
+
+4\. Where the authority referred to in Article 116a(2) of Regulation (EU) No 1308/2013 and the one or more authorities referred to in paragraph 2, point (a), of this Article verify compliance with the product specification, they shall offer adequate guarantees of objectivity and impartiality, and have at their disposal the qualified staff and resources needed to carry out their tasks.
+
+5\. Member States shall be authorised to impose a fee on operators subject to the controls in order to cover the costs incurred for the establishment and operation of the control system.
+
+#### Article 17 — Communication between Member States and the Commission
+
+Member States shall communicate to the Commission the details of the competent authority referred to in Article 116a(2) of Regulation (EU) No 1308/2013, including the authorities referred to in Article 42(1) of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 2 ) and, where applicable, the delegated bodies referred to in Article 116a(3) of Regulation (EU) No 1308/2013. The Commission shall make public the names and addresses of the competent authority or authorities or delegated bodies.
+
+#### Article 18 — Communication between third countries and the Commission
+
+Where wines from a third country benefit from a protected designation of origin or geographical indication, the third country concerned shall send the Commission, at its request:
+
+(a) information on the designated authorities or certification bodies which perform the annual verification of compliance with the product specification, during the production and during or after conditioning of the wine;
+
+(b) information setting out what aspects are covered by the checks;
+
+(c) proof that the wine in question fulfils the conditions of the relevant designation of origin or geographical indication.
+
+#### Article 19 — Annual verification
+
+1\. The annual verification carried out by the competent authority or delegated bodies referred to in Article 116a(3) of Regulation (EU) No 1308/2013 shall consist of:
+
+(a) an organoleptic and analytical testing for products bearing a designation of origin;
+
+(b) either analytical testing only or both organoleptic and analytical testing for products bearing a geographical indication;
+
+(c) checking compliance with the other conditions set out in the product specification.
+
+The annual verification shall be conducted in the Member State in which production takes place in accordance with the product specification and shall be carried out through one or more of the following methods:
+
+(a) through random checks based on a risk analysis;
+
+(b) through sampling;
+
+(c) systematic checks.
+
+Where Member States opt to conduct random checks referred to in point (a) of the second subparagraph, they shall select the minimum number of operators to be subjected to those checks.
+
+Where Member States opt to conduct sampling referred to in point (b) of the second subparagraph, they shall ensure that by the number, nature and frequency of controls, the sampling is representative of the whole of the demarcated geographical area in question and corresponds to the volume of wine-sector products marketed or held with a view to their marketing.
+
+2\. The testing referred to in points (a) and (b) of the first subparagraph of paragraph 1 shall be performed on anonymous samples and shall demonstrate that the product tested complies with the characteristics and qualities described in the product specification for the relevant designation of origin or geographical indication.
+
+The testing shall be carried out at any stage in the production process, and at the packaging stage, where relevant. Each sample taken shall be representative of the relevant wines held by the operator.
+
+3\. For the purposes of checking compliance with the product specification referred to in point (c) of the first subparagraph of paragraph 1, the control authority shall:
+
+(a) conduct an on-site check at the premises of operators to verify that the operators are actually able to meet the conditions laid down in the product specification;
+
+(b) conduct a check on the products at any stage of the production process, and at the packaging stage, where relevant, on the basis of an inspection plan covering every stage of production of the product, drawn up in advance by the control authority and of which operators are aware.
+
+4\. The annual verification shall ensure that a product cannot use the protected designation of origin or geographical indication relating to it unless:
+
+(a) the results of the testing referred to in points (a) and (b) of the first subparagraph of paragraph 1 and in paragraph 2 prove that the product in question complies with the conditions in the product specification and possesses all the appropriate characteristics of the designation of origin or geographical indication concerned;
+
+(b) the checks carried out in accordance with paragraph 3 confirm that the other conditions listed in the product specification are met.
+
+5\. In the case of a protected trans-border designation of origin or geographical indication, the verification may be performed by a control authority of either of the Member States concerned.
+
+6\. Any product failing to meet the conditions set out in paragraphs 1 to 5 may be placed on the market, but without the relevant designation of origin or geographical indication, provided that the other legal requirements are satisfied.
+
+7\. By way of derogation from paragraph 1, annual verification may be carried out at the packaging stage of the product, in the territory of a Member State other than the Member State in which the production took place, in which case Article 43 of Delegated Regulation (EU) 2018/273 applies.
+
+Competent authorities or delegated bodies of different Member States responsible for carrying out checks on a protected designation of origin or protected geographical indication shall cooperate among them, in particular to ensure that, as regards packaging obligations, the operators established in a Member State other than the Member State in which the production of the wine whose name is registered as a protected designation of origin or protected geographical indication takes place comply with the control obligations of the product specification in question.
+
+8\. Paragraphs 1 to 5 shall apply to wines benefitting from transitional national protection under Article 11 of Regulation (EU) 2024/1143.
+
+#### Article 20 — Analytical and organoleptic testing
+
+The analytical and organoleptic testing referred to in points (a) and (b) of the first subparagraph of paragraph 1 of Article 19 shall consist of:
+
+(a) a physical and chemical analysis of the wine in question, measuring the following characteristic properties:
+
+(i) total and actual alcoholic strength,
+
+(ii) total sugars expressed in terms of fructose and glucose (including any sucrose, in the case of semi-sparkling and sparkling wines),
+
+(iii) total acidity,
+
+(iv) volatile acidity,
+
+(v) total sulphur dioxide;
+
+(b) an additional analysis of the wine in question, measuring the following characteristic properties:
+
+(i) carbon dioxide (semi-sparkling and sparkling wines, excess pressure in bar at 20 °C),
+
+(ii) any other characteristic properties provided for in Member States legislation or product specifications of protected designations of origin and geographical indications concerned;
+
+(c) an organoleptic test covering visual appearance, odour and taste.
+
+## CHAPTER III — TRADITIONAL TERMS
+
+### SECTION 1 — Applications for protection
+
+#### Article 21 — Application for protection
+
+1\. The application for protection of a traditional term shall be communicated to the Commission by the competent authorities of the Member States or those of the third countries or by the representative professional organisations established in third countries in accordance with Article 30(3).
+
+2\. In the case of a request submitted by a representative professional organisation established in a third country, the applicant shall communicate the information regarding the representative professional organisation and its members to the Commission in accordance with Article 30(3). The Commission shall make this information public.
+
+### SECTION 2 — Objection procedure
+
+#### Article 22 — Submission of an objection
+
+1\. A Member State, third country, or any natural or legal person having a legitimate interest may submit an objection to the application for protection of a traditional term within two months of the date of publication, in the Official Journal of the European Union, of the implementing act referred to in Article 28(3) of Delegated Regulation (EU) 2019/33.
+
+2\. An objection shall be communicated to the Commission in accordance with Article 30(3).
+
+#### Article 23 — Documents supporting an objection
+
+1\. A duly substantiated objection shall contain details of the facts, evidence and comments submitted in support of the objection, accompanied by the relevant supporting documents.
+
+2\. If the objection is based on the existence of an earlier trade mark of reputation and renown, the objection shall be accompanied by:
+
+(a) proof of the filing or the registration of the earlier trade mark or proof of its use; and
+
+(b) proof of its reputation and renown.
+
+The information and evidence to be produced in support of the use of an earlier trade mark shall comprise particulars of the location, duration, extent and nature of the use made of the earlier trade mark, and of its reputation and renown.
+
+3\. If the details of the prior right(s) claimed, ground(s), facts, evidence or comments, or the supporting documents, referred to in paragraphs 1 and 2, have not been produced at the date of submission of the objection or if details or documents are missing, the Commission shall inform the authority or person that lodged the objection accordingly and shall invite them to remedy the deficiencies noted within a period of two months. If the deficiencies are not remedied before the time limit expires, the Commission shall reject the objection as inadmissible. The decision to reject the objection as inadmissible shall be notified to the authority or person that lodged the objection and to the Member State or the third-country authorities or the representative professional organisation established in the third country in question.
+
+#### Article 24 — Submission of observations by the parties
+
+1\. Where the Commission communicates an objection which is not rejected in accordance with Article 23(3) to the applicant that submitted the application for protection, the applicant shall file observations within a period of two months from the issuance date of such communication.
+
+2\. Where so requested by the Commission in the course of its scrutiny of an objection, the parties shall provide comments on the communications received from the other parties, if appropriate, within a period of two months from the issuance date of such request.
+
+### SECTION 3 — Protection of traditional terms
+
+#### Article 25 — Registration
+
+1\. Upon the entry into force of a decision conferring protection over a traditional term, the Commission shall record the following data in the electronic register of protected traditional terms:
+
+(a) the name to be protected as a traditional term;
+
+(b) the type of traditional term according to Article 112 of Regulation (EU) No 1308/2013;
+
+(c) the language referred to in Article 24 of Delegated Regulation (EU) 2019/33;
+
+(d) the grapevine product category or categories concerned by the protection;
+
+(e) a reference to the national legislation of the Member State or third country in which the traditional term is defined and regulated, or to the rules applicable to wine producers in the third country, including those originating from representative trade organisations, in the absence of national legislation in those third countries;
+
+(f) a summary of the definition or conditions of use;
+
+(g) the name of the country or countries of origin;
+
+(h) the date of inclusion in the register.
+
+2\. The electronic register of protected traditional terms shall be made available to the public.
+
+#### Article 26 — Enforcement of the protection
+
+For the purposes of the application of Article 113 of Regulation (EU) No 1308/2013, where there is unlawful use of protected traditional terms, competent national authorities, on their own initiative or at the request of a party, shall take all measures to prevent or stop the marketing, including any export, of the products in question.
+
+### SECTION 4 — Modification and cancellation
+
+#### Article 27 — Modification request
+
+1\. Articles 21 to 24 shall apply mutatis mutandis to a request to modify a protected traditional term.
+
+2\. Where the Commission approves a modification to a traditional term, it shall record the new specifications with effect from the date of entry into force of the implementing act approving the modification.
+
+#### Article 28 — Cancellation request
+
+1\. A request to cancel the protection of a traditional term shall contain:
+
+(a) the reference to the traditional term it refers to;
+
+(b) the name and contact details of the natural or legal person seeking cancellation;
+
+(c) a description of the legitimate interest of the natural or legal person that lodged the cancelation request;
+
+(d) an indication of the grounds for cancellation, referred to in Article 36 of Delegated Regulation (EU) 2019/33;
+
+(e) the details of the facts, evidence and comments in support of the cancellation request.
+
+It may be accompanied by supporting documents, where relevant.
+
+2\. If detailed information concerning the grounds, facts, evidence and comments, as well as the supporting documents referred to in paragraph 1, have not been furnished at the same time as the cancellation request, the Commission shall inform the author of the cancellation request accordingly and shall invite him to remedy the deficiencies noted within a period of two months.
+
+If the deficiencies are not remedied before the time limit expires, the Commission shall deem the cancellation request inadmissible and shall reject it. The decision deeming the request inadmissible shall be notified to the author of the cancellation request.
+
+#### Article 29 — Scrutiny of a cancellation request
+
+1\. If the Commission does not deem the cancellation request to be inadmissible in accordance with Article 28(2), it shall communicate the cancellation request to the Member State or the third-country authorities or the applicant established in the third country in question and shall invite him to file observations within two months from the issuance date of such invitation. Any observations received within this two months period shall be communicated to the author of the request.
+
+In the course of the examination of a cancellation request, the Commission shall invite the parties to submit comments on the communications received from the other parties within a period of two months from the issuance date of such request.
+
+2\. If the Member State or the third-country authorities or the applicant established in the third country in question or the author of a cancellation request does not file any comments in response, or does not respect the time periods, the Commission shall rule on the request.
+
+3\. A decision to cancel the protection of the traditional term concerned shall be taken by the Commission on the basis of the evidence available to it. It shall consider whether the grounds referred to in Article 36 of Delegated Regulation (EU) 2019/33 are fulfilled.
+
+The decision to cancel the protection of the traditional term shall be notified to the author of the cancellation request and to the Member State or the third-country authorities in question.
+
+4\. Where multiple cancellation requests are lodged in respect of a traditional term and where it can be concluded from a preliminary examination of one or more such requests that it is no longer possible to continue to protect a traditional term, the Commission may suspend the other cancellation procedures. The Commission shall notify the parties that submitted the other cancellation requests of any decision affecting them which was taken in the course of the procedure.
+
+Where a decision cancelling a traditional term is adopted, cancellation procedures which have been suspended shall be deemed to be closed and the authors of the cancellation requests in question shall be duly informed.
+
+5\. When a decision cancelling a traditional term takes effect, the Commission shall remove the name from the register, while maintaining a record of the cancellation.
+
+## CHAPTER IV — COMMUNICATIONS, PUBLICATION AND FINAL PROVISIONS
+
+#### Article 30 — Communications between the Commission, the Member States, third countries and other operators
+
+3\. The documents and information required for the implementation of Chapter III shall be communicated to the Commission, via electronic mail, using the forms set out in Annexes VIII to XI.
+
+4\. Member States, the competent authorities and representative professional organisations of third countries, as well as natural or legal persons who have a legitimate interest under this Regulation may contact the Commission, via the electronic mail address indicated in Annex XII, Part B, in order to obtain information on the methods of communication and on how information required for the implementation of Chapter III is to be made available.
+
+#### Article 31 — Submission and receipt of communications
+
+1\. The communications and submissions referred to in Article 30 shall be deemed to have been made on the date on which they are received by the Commission.
+
+3\. For communications and submissions of files made via electronic mail, the Commission shall confirm receipt via electronic mail.
+
+It shall attribute a file number to each new application for protection, for a Union amendment, communications concerning applications for standard amendments and communications concerning applications for temporary amendments.
+
+The confirmation of receipt shall include at least the following elements:
+
+(a) the file number;
+
+(b) the name concerned;
+
+(c) the date of receipt.
+
+The Commission shall notify and make available information and remarks regarding such communications and submission via electronic mail.
+
+4\. Article 4 of Delegated Regulation (EU) 2017/1183 and Articles 1 to 5 of Implementing Regulation (EU) 2017/1185 shall apply mutatis mutandis to the notification and the submission of information, as referred to in paragraph 1 of this Article.
+
+#### Article 33 — Publication of the decision
+
+Decisions conferring or rejecting protection and decisions approving or rejecting modifications, as referred to in Chapter III, shall be published in the Official Journal of the European Union, L series.
+
+#### Article 34 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX VIII
+
+**APPLICATION FOR PROTECTION OF A TRADITIONAL TERM**
+
+Date of receipt (DD/MM/YYYY) …
+
+[to be completed by the Commission]
+
+Number of pages (including this page) …
+
+Language of the application …
+
+File number …
+
+[to be completed by the Commission]
+
+**Applicant**
+
+Competent authority of the Member State (*)
+
+Competent authority of the third country (*)
+
+Representative professional organisation (*)
+
+[(*) delete as appropriate]
+
+Address (street number and name, town/city and postal code, country) …
+
+Legal entity (to be completed for representative professional organisations) …
+
+Nationality …
+
+Telephone, fax, email …
+
+**Traditional term for which the protection is requested …**
+
+Traditional term under Article 112(a) of Regulation (EU) No 1308/2013 (*)
+
+Traditional term under Article 112(b) of Regulation (EU) No 1308/2013 (*)
+
+[(*) delete as appropriate]
+
+Language …
+
+List of protected designations of origin or geographical indications concerned …
+
+Grapevine products categories …
+
+Definition …
+
+**Copy of the rules**
+
+[to be attached]
+
+Name of the signatory …
+
+Signature …
+
+## ANNEX IX
+
+**OBJECTION TO AN APPLICATION FOR THE PROTECTION OF A TRADITIONAL TERM**
+
+Date of receipt (DD/MM/YYYY) …
+
+[to be completed by the Commission]
+
+Number of pages (including this page) …
+
+Language of the objection …
+
+File number …
+
+[to be completed by the Commission]
+
+Traditional term objected to …
+
+**Objector**
+
+Name of the objector (Member State or third country, or any legal or natural person having a legitimate interest)
+
+Full address (street number and name, town/city and postal code, country) …
+
+Nationality …
+
+Telephone, fax, email …
+
+**Intermediary**
+
+— Member State(s) (*)
+
+— Third-country authority (optional) (*)
+
+[(*) delete as appropriate]
+
+Name(s) of intermediary(ies) …
+
+Full address(es) (street number and name, town/city and postal code, country) …
+
+**Prior rights**
+
+— Protected designation of origin (*)
+
+— Protected geographical indication (*)
+
+— National geographical indication (*)
+
+[(*) delete as appropriate]
+
+Name …
+
+Registration number …
+
+Date of registration (DD/MM/YYYY) …
+
+— Trademark
+
+Sign …
+
+List of products and services …
+
+Registration number …
+
+Date of registration …
+
+Country of origin …
+
+Reputation/renown (*) …
+
+[(*) delete as appropriate]
+
+**Grounds for objection**
+
+— Article 27 of Delegated Regulation (*)
+
+— Article 32(2) of Delegated Regulation (*)
+
+— Article 33(1) of Delegated Regulation (*)
+
+— Article 33(2) of Delegated Regulation (*)
+
+[(*) delete as appropriate]
+
+**Explanation of ground(s) …**
+
+[Provide duly substantiated reasons and justification, details of the facts, evidence and comments in support of the objection. Provide the necessary documents in case of an objection based on the existence of an earlier trademark of reputation and renown].
+
+Name of signatory …
+
+Signature …
+
+## ANNEX X
+
+**MODIFICATION REQUEST CONCERNING A TRADITIONAL TERM**
+
+Date of receipt (DD/MM/YYYY) …
+
+[to be completed by the Commission]
+
+Number of pages (including this page) …
+
+Language of request of modification …
+
+File number …
+
+[to be completed by the Commission]
+
+Traditional term for which the modification is requested …
+
+Name of the legal or natural person requesting the modification …
+
+Full address (street number and name, town/city and postal code, country) …
+
+Nationality …
+
+Telephone, fax, email …
+
+Description of the modification …
+
+**Explanation of grounds for modification**
+
+[Provide duly substantiated reasons and justification, details of the facts, evidence and comments in support of the modification].
+
+Name of signatory …
+
+Signature …
+
+## ANNEX XI
+
+**CANCELLATION REQUEST CONCERNING A TRADITIONAL TERM**
+
+Date of receipt (DD/MM/YYYY) …
+
+[to be completed by the Commission]
+
+Number of pages (including this page) …
+
+Language of request of cancellation …
+
+File number …
+
+[to be completed by the Commission]
+
+Traditional term for which the cancellation is requested …
+
+**Author of the cancellation request**
+
+Name of the legal or natural person requesting the cancellation …
+
+Full address (street number and name, town/city and postal code, country) …
+
+Nationality …
+
+Tel., fax, email …
+
+Legitimate interest of the author of the request …
+
+**Grounds for cancellation**
+
+— Article 27 of Delegated Regulation (*)
+
+— Article 32(2) of Delegated Regulation (*)
+
+— Article 33(1) of Delegated Regulation (*)
+
+— Article 33(2) of Delegated Regulation (*)
+
+— Article 36(b) of Delegated Regulation (*)
+
+[(*) delete as appropriate]
+
+**Explanation of ground(s) for cancellation …**
+
+[Provide duly substantiated reasons and justification, details of the facts, evidence and comments in support of the cancellation. Provide the necessary documents in case of a cancellation based on the existence of an earlier trademark of reputation and renown].
+
+Name of signatory …
+
+Signature …
+
+## ANNEX XII
+
+**PART B**
+
+**PRACTICALITIES OF COMMUNICATION AND PUBLICATION RELATED TO THE IMPLEMENTATION OF CHAPTER III, AS REFERRED TO IN THE SECOND SUBPARAGRAPH OF ARTICLE 30(4)**
+
+In order to obtain information as to the practicalities of accessing information systems, on the methods of communication and of how information required for the implementation of Chapter III is to be made available, as referred to in the second subparagraph of Article 30(4), the authorities and persons affected by this Regulation shall contact the Commission at the following email address:
+
+Functional mailbox: AGRI-CONTACT-EBACCHUS@ec.europa.eu
+
+( 1 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1, ELI: http://data.europa.eu/eli/reg/2017/625/oj).
+
+( 2 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).

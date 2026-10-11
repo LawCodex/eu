@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on preventing and combating trafficking in human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JHA**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1712 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1712</td><td>1</td><td>24.6.2024</td></tr>
+</table>
 
 **DIRECTIVE 2011/36/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

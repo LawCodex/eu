@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2007/29/EC of 30 May 2007 </td><td> L 139</td><td>22</td><td>31.5.2007</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 96/8/EC**
 
@@ -183,6 +185,7 @@ The dietary fibre content of products mentioned in Article 1 (2) (a) shall not b
 
 **AMINO ACID REQUIREMENT PATTERN (1)**
 
+<table>
 <tbody><tr><td>  </td><td>g/100 g protein</td></tr>
 <tr><td>Cystine + methionine</td><td>1,7 </td></tr>
 <tr><td>Histidine</td><td>1,6 </td></tr>
@@ -195,6 +198,7 @@ The dietary fibre content of products mentioned in Article 1 (2) (a) shall not b
 <tr><td>Valine</td><td>1,3 </td></tr>
 <tr><td colspan="2">(1)  World Health Organisation. Energy and protein requirements. Report of a Joint FAO/WHO/UNU Meeting. Geneva: World Health Organisation, 1985. (WHO Technical Report Series, 724). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 186, 30.6.1989, p. 27.
 

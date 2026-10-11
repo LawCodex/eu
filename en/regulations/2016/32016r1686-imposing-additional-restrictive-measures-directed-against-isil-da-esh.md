@@ -1,0 +1,454 @@
+---
+title: "Council Regulation (EU) 2016/1686 of 20 September 2016 imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Qaeda and natural and legal persons, entities or bodies associated with them"
+identifier: "32016R1686"
+eli: "http://data.europa.eu/eli/reg/2016/1686/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-09-20
+entry_into_force: 2016-09-14
+last_amended: 2025-11-24
+consolidated_version: "02016R1686-20251124"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1686-20251124"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2016/1686 of 20 September 2016 imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Qaeda and natural and legal persons, entities or bodies associated with them
+
+**COUNCIL REGULATION (EU) 2016/1686**
+
+**of 20 September 2016**
+
+**imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Qaeda and natural and legal persons, entities or bodies associated with them**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/281 of 26 February 2018 </td><td> L 54I</td><td>1</td><td>26.2.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/999 of 16 July 2018 </td><td> L 178I</td><td>1</td><td>16.7.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1539 of 15 October 2018 </td><td> L 257I</td><td>1</td><td>15.10.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/270 of 18 February 2019 </td><td> L 46I</td><td>1</td><td>18.2.2019</td></tr>
+<tr><td> M5</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1717 of 14 October 2019 </td><td> L 262</td><td>11</td><td>15.10.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1943 of 25 November 2019 </td><td> L 303I</td><td>1</td><td>25.11.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1124 of 30 July 2020 </td><td> L 246</td><td>1</td><td>30.7.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/612 of 15 April 2021 </td><td> L 129I</td><td>1</td><td>15.4.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/235 of 21 February 2022 </td><td> L 40</td><td>1</td><td>21.2.2022</td></tr>
+<tr><td> M11</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/836 of 30 May 2022 </td><td> L 147I</td><td>1</td><td>30.5.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/949 of 20 June 2022 </td><td> L 164I</td><td>1</td><td>20.6.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/845 of 24 April 2023 </td><td> L 109I</td><td>13</td><td>24.4.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/1126 of 8 June 2023 </td><td> L 149</td><td>13</td><td>9.6.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/338 of 16 January 2024 </td><td> L 338</td><td>1</td><td>16.1.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/954 of 25 March 2024 </td><td> L 954</td><td>1</td><td>25.3.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/515 of 17 March 2025 </td><td> L 515</td><td>1</td><td>17.3.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/2397 of 24 November 2025 </td><td> L 2397</td><td>1</td><td>24.11.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2401 of 24 November 2025 </td><td> L 2401</td><td>1</td><td>24.11.2025</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) 2016/1686**
+
+**of 20 September 2016**
+
+**imposing additional restrictive measures directed against ISIL (Da'esh) and Al-Qaeda and natural and legal persons, entities or bodies associated with them**
+
+## Article 1
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+(a) ‘funds’ means financial assets and economic benefits of every kind, including but not limited to cash, cheques, claims on money, drafts, money orders and other payment instruments; deposits with financial institutions or other entities, balances on accounts, debts and debt obligations; publicly and privately traded securities and debt instruments, including stocks and shares, certificates presenting securities, bonds, notes, warrants, debentures, derivatives contracts; interest, dividends or other income on or value accruing from or generated by assets; credit, right of set-off, guarantees, performance bonds or other financial commitments; letters of credit, bills of lading, bills of sale; documents evidencing an interest in funds or financial resources, and any other instrument of export-financing;
+
+(b) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds but can be used to obtain funds, goods or services;
+
+(c) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(d) ‘freezing of economic resources’ means preventing their use to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(e) ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(f) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date on which a person, entity or body has been listed in Annex I, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled, either directly or indirectly, by a natural or legal person, entity or body listed in Annex I including by a third party acting on their behalf or at their direction, shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to, or for the benefit of, natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Paragraphs 1 and 2 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Council as regards Annex I.
+
+## Article 3
+
+1\. Annex I shall consist of natural and legal persons, entities and bodies who, in accordance with Article 3(3) of Decision (CFSP) 2016/1693, have been identified by the Council as being:
+
+(a) associated with ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) participating in the financing of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, or in the financing of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of them;
+
+(ii) participating in the planning, facilitating, preparing, or perpetrating of acts or activities or providing or receiving of terrorist training such as instruction related to arms, explosive devices or other methods or technologies with the purpose of committing terrorist acts by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(iii) engaging in trade with ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, in particular of oil, oil products, modular refineries and related material, as well as trade in other natural resources and trade in cultural property;
+
+(iv) supplying, selling or transferring arms and related materiel to ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(b) travelling or seeking to travel outside of the Union for the purpose of:
+
+(i) the perpetration, planning, or preparation of, or participation in, terrorist acts on behalf of or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof, or
+
+(ii) the providing or receiving of terrorist training, on behalf of or in support of, ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, or
+
+(iii) otherwise supporting ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(c) seeking to travel into the Union for the same purpose as referred to in paragraph (b) or to participate in acts or activities in conjunction with, under the name of, on behalf of or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(d) recruiting for or otherwise supporting acts or activities of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) providing or collecting, by any means, directly or indirectly, funds in order to finance the travelling of individuals, for the purpose referred to in paragraphs (b) and (c); organising the travel of individuals for the purpose referred to in paragraphs (b) and (c), or otherwise facilitating it for that purpose;
+
+(ii) soliciting another person to participate in acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(e) inciting or publicly provoking acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by encouraging or glorifying such acts or activities thereby causing a danger that terrorist acts may be committed;
+
+(f) being involved or complicit in ordering or committing serious abuses of human rights, including abduction, rape, sexual violence, forced marriage and enslavement of persons, outside the territory of the Union, on behalf of or in the name of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof.
+
+2\. Annex I shall include, where available, information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 4
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Articles 2 and 9 it shall amend Annex I accordingly.
+
+2\. The Council shall communicate its decision, including the grounds for listing, to the natural or legal person, entity or body referred to in paragraph 1, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body accordingly.
+
+4\. The list in Annex I shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The measures referred to in Article 2(1) and (2), insofar as they apply to the ‘Allied Democratic Forces’, shall be suspended for as long as the measures laid down in Article 2(1) and (2) of Council Regulation (EC) No 1183/2005 ( 1 ) apply to that entity.
+
+## Article 5
+
+By way of derogation from Article 2, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annex I, and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources; or
+
+(d) necessary for extraordinary expenses.
+
+## Article 6
+
+By way of derogation from Article 2, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources provided the following conditions are met:
+
+(a) the funds or economic resources are subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to, on or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I;
+
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+## Article 7
+
+By way of derogation from Article 2 and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or under an obligation that arose for the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources shall be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 2(2).
+
+## Article 8
+
+Article 2(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions in the Union, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the competent authorities about such transactions without delay.
+
+## Article 9
+
+It shall be prohibited:
+
+(a) to provide technical assistance, brokering services and other services related to military activities and to the provision, manufacture, maintenance and use of goods and technology listed in the Common Military List ( 2 ), including weapons and ammunition, military vehicles and equipment, paramilitary equipment, and spare parts for the aforementioned, directly or indirectly to any natural or legal person, entity or body in Annex I;
+
+(b) to provide financing or financial assistance related to military activities, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance for any sale, supply, transfer or export of arms and related materiel, or for the provision of related technical assistance, brokering services and other services directly or indirectly to any person, entity or body in Annex I.
+
+## Article 10
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy and to Article 337 of the Treaty, natural and legal persons, entities and bodies shall:
+
+(a) provide immediately any information which would facilitate compliance with this Regulation, such as information about funds and economic resources held or controlled while acting on behalf of, or at the direction of, any natural or legal person, entity or body listed in Annex I, or about accounts and amounts frozen in accordance with Article 2, to the competent authorities of the Member States where they are resident or located, and, directly or through those competent authorities, to the Commission;
+
+(b) cooperate with the competent authorities in any verification of this information.
+
+2\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+3\. Any additional information directly received by the Commission shall be made available to the competent authorities of the Member States concerned.
+
+## Article 11
+
+1\. It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibitions established in this Regulation.
+
+2\. Any information that the provisions of this Regulation are being, or have been, circumvented shall be notified to the competent authorities of the Member States and, directly or through these competent authorities, to the Commission.
+
+## Article 12
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available pursuant to Article 2, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to liability of any kind on their part, if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 13
+
+No claims, including for compensation or any other claim of this kind, such as a claim of set-off or a claim under a guarantee, in connection with any contract or transaction the performance of which was affected, directly or indirectly, wholly or in part, by reason of measures covered by this Regulation, shall be granted to the designated persons or entities listed in Annex I or any person or entity claiming through or for the benefit of any such person or entity.
+
+## Article 14
+
+1\. The Commission and the Member States shall immediately inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen pursuant to Article 2 and authorisations granted pursuant to Articles 5, 6 and 7;
+
+(b) matters relating to the violation and enforcement of the provisions of this Regulation and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the implementation of this Regulation.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the rules referred to in paragraph 1 to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 16
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 17
+
+The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 18
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 19
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of natural and legal persons, entities and bodies referred to in Article 3**
+
+**A. Natural persons referred to in Article 3**
+
+2\. Rabah TAHARI (a.k.a. Abu Musab); date of birth: 28 August 1971; place of birth: Oran (Algeria); Nationality: Algerian.
+
+3\. Hocine BOUGUETOF; date of birth: 1 July 1959; place of birth: Tebessa (Algeria); nationality: Algerian.
+
+4\. Brahim el KHAYARI; date of birth: 7 May 1992; place of birth: Nîmes (France); nationality: French.
+
+5\. Guillaume PIROTTE; date of birth: 7 June 1994; place of birth: Grasse (France); nationality: French.
+
+6\. Bryan D’ANCONA; date of birth: 26 January 1997; place of birth: Nice (France); nationality: French.
+
+7\. Mesut SEKERCI; date of birth: 22 July 1995; place of birth: Evreux (France); nationality: French, Turkish.
+
+8\. Osama MAHMOOD (a.k.a. Ustadh Usama Mahmood, Ousama Mahmood); nationality: Pakistani (presumed).
+
+10\. Faruq AL-SURI (a.k.a. Samir Hijazi, Samir 'Abd al-Latif Hijazi, Abu Hammam Al-Shami, Abu Humam Al-Shami, Abu Hammam Al-'Askari); date of birth: 1977; place of birth: Damascus, Syria; gender: male; nationality: Syrian (presumed).
+
+11\. Sami AL-ARIDI (a.k.a. Abu Mohammad Al-Shami, Abu Mahmud Al-Sham, Abu Mahmud Al-Shami, Sami Al-Oride, Sami Al-Oraidi, Sami Al-Oraydi, Sheikh Dr. Sami Al-Uraydi); date of birth: 1973; gender: male; nationality: Jordanian (presumed).
+
+12\. Sidan Ag HITTA (a.k.a. Asidan Ag Hitta, Abu ’Abd al-Hakim, Abu Abdelhakim al-Kidali, Abu Qarwani, Al Qaïrawani, Abou Abdel Hamid Al Kidali); date of birth: 1976; place of birth: Kidal, Mali; gender: male; nationality: Malian.
+
+13\. Salem ould BREIHMATT (a.k.a. OULD ABED Cheikh ould Mohamed Salec, Abu Hamza al-Shanqiti, Abu Hamza al-Shinqiti, Hamza al-Mauritani, NITRIK Hamza, Abu Hamza al-Chinguetti); date of birth: 1978 or 1984; place of birth: Mauritania; gender: male; nationality: Mauritanian.
+
+14\. Jafar DICKO (a.k.a. Jaffar Dicko, Abdoul Salam Dicko, Amadou Boucary, Amadou Boucary Dicko); date of birth: 1980 (presumed); gender: male; nationality: Burkinabe.
+
+15\. Abu Yasir HASSAN (a.k.a. Sheikh Hassan, Ahmed Mahmoud Hassan, Yaseer Hassan, Abu Qasim); date of birth: 1981 to 1983; place of birth: Pwani Region, Tanzania; gender: male; nationality: Tanzanian.
+
+17\. Andreas Martin MÜLLER (a.k.a. Ahmed Khaled Müller, Abu Nusaibah, Abu Nusaiba, Abu Nussaiba, Miqdad, Abu Miqdad, Yasser Murat, Mr Akam, Abu Shahid, Nigeri); date of birth: 15 February 1972; place of birth: Cochem, Rhineland-Palatinate, Germany; gender: male; nationality: German; passport number: C73TV06C9; identity card number: 5210375966.
+
+18\. Mohamed Ibrahim al-Shafi’i AL-SALEM (a.k.a. also known as Aba Al-Sahraoui, Aba al-Sahrawi, Abba al-Saharawi); gender: male.
+
+**B. Legal persons, entities and bodies referred to in Article 3**
+
+1\. Al-Qaeda in the Indian Subcontinent (AQIS) (a.k.a. Al-Qa’ida in the Indian Subcontinent, Qaedat al-Jihad in the Indian Subcontinent).
+
+2\. Da’esh – Hind Province (a.k.a. Wilayah of Hind, Islamic State’s Hind Province (ISHP), IS-Wilayat al-Hind, Da’esh – Wilayat al-Hind).
+
+3\. Hurras AL-DIN (HaD) (a.k.a. Hurras al-Deen, Huras-al-Din, Guardians of Religion, Tanzim Hurras Al-Din, Tandhim Hurras Al-Deen, Sham Al-Ribat, Al-Qaida in Syria, AQ-S).
+
+4\. Ansarul Islam (a.k.a. Ansar al-Islam, Ansarour Islam, Ansaroul Islam, Defenders of Islam, Ansar-ul-islam lil-ichad wal jihad, IRSAD, Ansar ul Islam of Malam Boureima Dicko).
+
+5\. ISIS-Mozambique (a.k.a. Islamic State of Iraq and Syria – Mozambique, Islamic State -Mozambique, ISIL-M, Ansar Al-Sunna, Al-Shabaab, Al-Shabaab in Mozambique, Mozambique Wilaya of the Islamic State, Ahlu Sunna wa Jamaah (ASwJ), Ahl al-Sunna wa al-Jamaa, Ahlu al-Sunnah wal-Jamaah, Ahlu Sunnah Wajamo, Swahili Sunna).
+
+6\. Katiba Macina (a.k.a. Macina Liberation Front, Katiba Macina of Jama’a Nusrat ul-Islam wa al-Muslimin, FLM, MLF, MLM, Massina Liberation Front, Katiba Massina, Massina Brigade, Macina Brigade, Ansar Dine Macina, Harakat Ansar al-Din Macina Brigade, Ansar al-Din South, Macina Battalion, Macina Liberation Movement, La Force de Libération du Macina, ML Movement, Massina Liberation Movement, Ansar al-Din Macina Brigade, Katiba Macina – Ansar Dine, Ansar al-Din Macina).
+
+7\. Al-Azaim Media Foundation.
+
+8\. Allied Democratic Forces.
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notification to the European Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+( 1 ) Council Regulation (EC) No 1183/2005 of 18 July 2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo (OJ L 193, 23.7.2005, p. 1, ELI: http://data.europa.eu/eli/reg/2005/1183/oj).
+
+( 2 ) Latest version published in OJ C 122, 6.4.2016, p. 1.

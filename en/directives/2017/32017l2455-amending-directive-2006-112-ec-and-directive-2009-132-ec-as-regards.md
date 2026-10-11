@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **amending Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax obligations for supplies of services and distance sales of goods**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COUNCIL DECISION (EU) 2020/1109 of 20 July 2020</td><td> L 244</td><td>3</td><td>29.7.2020</td></tr>
+</table>
 
 C1
 

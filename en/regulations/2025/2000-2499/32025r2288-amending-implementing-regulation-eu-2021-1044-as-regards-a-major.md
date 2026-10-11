@@ -1,0 +1,303 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/2288 of 13 November 2025 amending Implementing Regulation (EU) 2021/1044 as regards a major change to the Union authorisation of the single biocidal product Pesguard® Gel in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council"
+identifier: "32025R2288"
+eli: "http://data.europa.eu/eli/reg_impl/2025/2288/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-11-13
+entry_into_force: 2026-01-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2288"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/2288 of 13 November 2025 amending Implementing Regulation (EU) 2021/1044 as regards a major change to the Union authorisation of the single biocidal product Pesguard® Gel in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/2288**
+
+**of 13 November 2025**
+
+**amending Implementing Regulation (EU) 2021/1044 as regards a major change to the Union authorisation of the single biocidal product ‘Pesguard® Gel’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (1), and in particular Article 50(2) thereof,
+
+Whereas:
+
+(1) On 22 June 2021, the Commission by means of its Implementing Regulation (EU) 2021/1044 (2) granted a Union authorisation, under number EU-0024951-0000, to Sumitomo Chemical Agro Europe SAS for the making available on the market and use of the single biocidal product ‘Pesguard® Gel’. The Annex to that Implementing Regulation provides a summary of biocidal product characteristics for that single biocidal product
+
+(2) On 21 March 2023, Sumitomo Chemical Agro Europe SAS submitted to the European Chemicals Agency (‘the Agency’), in accordance with Article 13(1) of Commission Implementing Regulation (EU) No 354/2013 (3), an application for a major change to the Union authorisation for the single biocidal product ‘Pesguard® Gel’, as referred to in Title 3 of the Annex to that Regulation. The proposed change to that authorisation concerns a change to the composition of the non-active ingredients.
+
+(3) On 5 March 2025, the evaluating competent authority submitted, in accordance with Article 13(5), first subparagraph, of Implementing Regulation (EU) No 354/2013, an assessment report and the conclusions of its evaluation to the Agency.
+
+(4) On 5 June 2025, the Agency submitted to the Commission, in accordance with Article 13(7) of Implementing Regulation (EU) No 354/2013, an opinion (4) on the major change to the Union authorisation of the single biocidal product ‘Pesguard® Gel’, together with a revised summary of the biocidal product characteristics and a revised assessment report. In the opinion, the Agency concludes that the proposed change is a major change as referred to in Article 50(3), point (c), of Regulation (EU) No 528/2012 and as specified in Title 3 of the Annex to Implementing Regulation (EU) No 354/2013, and that, after the implementation of the change, the conditions of Article 19 of Regulation (EU) No 528/2012 will still be met.
+
+(5) On 26 June 2025, the Agency transmitted to the Commission the revised summary of the biocidal product characteristics of the Union authorisation for the single biocidal product ‘Pesguard® Gel’, in all official languages of the Union, covering the major change applied for, in accordance with Article 13(8) of Implementing Regulation (EU) No 354/2013.
+
+(6) The Commission concurs with the opinion of the Agency that the conditions of Article 19 of Regulation (EU) No 528/2012 will still be met if the major change is implemented and therefore considers it appropriate to amend the Union authorisation for the single biocidal product ‘Pesguard® Gel’ to introduce the major change requested by Sumitomo Chemical Agro Europe SAS.
+
+(7) Except for the amendments regarding the major change, all other information included in the summary of the biocidal product characteristics of ‘Pesguard® Gel’, as set out in the Annex to Implementing Regulation (EU) 2021/1044, remains unchanged.
+
+(8) In order to enhance clarity and to ease the access of users and interested parties to the final consolidated version of the summary of the biocidal product characteristics which is to be published by the Agency, the Annex to Implementing Regulation (EU) 2021/1044 should be replaced in its entirety. Due to a change in the format used for the generation of the summary of biocidal product characteristics in the register for biocidal products in February 2024, that summary as it is to appear in that Annex should also include some minor editorial and layout changes.
+
+(9) Implementing Regulation (EU) 2021/1044 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Annex to Implementing Regulation (EU) 2021/1044 is replaced by the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 November 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 167, 27.6.2012, p. 1; ELI: http://data.europa.eu/eli/reg/2012/528/oj.
+
+(2) Commission Implementing Regulation (EU) 2021/1044 of 22 June 2021 granting a Union authorisation for the single biocidal product ‘Pesguard® Gel’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 225, 25.6.2021, p. 54, ELI: http://data.europa.eu/eli/reg_impl/2021/1044/oj).
+
+(3) Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 109, 19.4.2013, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2013/354/oj).
+
+(4) Biocidal Products Committee (BPC) opinion of 15 May 2025 on the major change of the Union authorisation of the biocidal product Pesguard® Gel (ECHA/BPC/480/2025). Available online: https://echa.europa.eu/de/opinions-on-union-authorisation.
+
+## ANNEX — Summary of product characteristics for a biocidal product
+
+Pesguard® Gel
+
+Product type(s)
+
+PT18: Insecticides, acaricides and products to control other arthropods
+
+Authorisation number: EU-0024951-0000
+
+R4BP asset number: EU-0024951-0000
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+**1.1. Trade name(s) of the product**
+
+| Trade name(s) | Pesguard® Gel GOLIATH® GEL NEW |
+| --- | --- |
+
+**1.2. Authorisation holder**
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>Sumitomo Chemical Agro Europe SAS</td></tr>
+<tr><td>Address</td><td>10A, rue de la Voie Lactée 69370 Saint Didier au Mont d’Or FR</td></tr>
+<tr><td>Authorisation number</td><td></td><td>EU-0024951-0000</td></tr>
+<tr><td>R4BP asset number</td><td></td><td>EU-0024951-0000</td></tr>
+<tr><td>Date of the authorisation</td><td></td><td>15.7.2021</td></tr>
+<tr><td>Expiry date of the authorisation</td><td></td><td>30.6.2026</td></tr>
+</tbody>
+</table>
+
+**1.3. Manufacturer(s) of the product**
+
+| Name of manufacturer | McLaughlin Gormley King Company (MGK) |
+| --- | --- |
+| Address of manufacturer | 7325 Aspen Lane North MN 55428 Minneapolis United States (the) |
+| Location of manufacturing sites | McLaughlin Gormley King Company (MGK) site 1 4001 Peavey Road MN 55318 Chaska United States (the) |
+
+| Name of manufacturer | McLaughlin Gormley King Company (MGK) |
+| --- | --- |
+| Address of manufacturer | 7325 Aspen Lane North MN 55428 Minneapolis Unites States (the) |
+| Location of manufacturing sites | McLaughlin Gormley King Company (MGK) site 2 7325 Aspen Lane North MN 55428 Minneapolis United States (the) |
+
+**1.4. Manufacturer(s) of the active substance(s)**
+
+<table>
+<tbody><tr><td>Active substance</td><td>(E)-1-(2-Chloro-1,3-thiazol-5-ylmethyl)-3-methyl-2-nitroguanidine (Clothianidin)</td></tr>
+<tr><td>Name of manufacturer</td><td>Sumitomo Chemical Co. Ltd.</td></tr>
+<tr><td>Address of manufacturer</td><td>7-1, Nihonbashi 2-chome, Chuo-ku 103-6020 Tokyo Japan</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Sumitomo Chemical Co. Ltd. site 1</td></tr>
+<tr><td>Sumitomo Chemical Company LTD, Oita Works, 2200, Tsurusaki, Oita City, 870-0106 Oita Japan</td></tr>
+<tr><td>Sumitomo Chemical Co. Ltd. site 2 Jiangsu Flag Chemical Industry Co., Ltd., No.309, Changfenghe Road, Nanjing Chemical, Industry Park 210047 Nanjing China</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+| Active substance | pyriproxyfen |
+| --- | --- |
+| Name of manufacturer | Sumitomo Chemical Co. Ltd. |
+| Address of manufacturer | 7-1, Nihonbashi 2-chome, Chuo-ku 103-6020 Tokyo Japan |
+| Location of manufacturing sites | Sumitomo Chemical Co. Ltd. site 1 Sumitomo Chemical Company LTD, Misawa Works, Aza-Sabishirotaira, Oaza-Misawa, Misawa, 033-0022 Aomori Japan |
+
+**2\. PRODUCT COMPOSITION AND FORMULATION**
+
+**2.1. Qualitative and quantitative information on the composition of the product**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| (E)-1-(2-Chloro-1,3-thiazol-5-ylmethyl)-3- methyl-2-nitroguanidine (Clothianidin) |  | Active substance | 210880-92-5 | 433-460-1 | 0,526 % (w/w) |
+| pyriproxyfen | 4-phenoxyphenyl (RS)-2-(2-pyridyloxy)propyl ether | Active substance | 95737-68-1 | 429-800-1 | 0,515 % (w/w) |
+| Acetic acid | Ethanoic acid | Non-active substance | 64-19-7 | 200-580-7 | 0,3 % (w/w) |
+| Potassium sorbate | potassium (E,E)-hexa-2,4-dienoate | Non-active substance | 24634-61-5 | 246-376-1 | 0,506 % (w/w) |
+| C(M)IT/MIT (3:1) | Reaction mass of 5-chloro-2-methyl-2h-isothiazol-3-one and 2-methyl-2h-isothiazol-3-one (3:1) | Non-active substance | 55965-84-9 |  | 0,00224 % (w/w) |
+
+**2.2. Type(s) of formulation**
+
+RB Bait (ready for use)
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS**
+
+| Hazard statements | H317: May cause an allergic skin reaction. H410: Very toxic to aquatic life with long lasting effects. |
+| --- | --- |
+| Precautionary statements | P302+P352: IF ON SKIN: Wash with plenty of water. P333+P313: If skin irritation or rash occurs: Get medical advice. P280: Wear protective gloves. P273: Avoid release to the environment. P501: Dispose of contents to a hazardous waste disposal service in accordance with the statutory regulations. P501: Dispose of container to a hazardous waste disposal service in accordance with the statutory regulations. P391: Collect spillage. |
+
+**4\. AUTHORISED USE(S)**
+
+**4.1. Use description**
+
+**Table 1**
+
+**Professional use – RTU bait**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT18: Insecticides, acaricides and products to control other arthropods</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Insecticide</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: Blattella germanica Common name: German cockroach  Development stage: nymphs  Scientific name: Blattella germanica  Common name: German cockroach  Development stage: adults  Scientific name: Supella longipalpa  Common name: brown-banded cockroach  Development stage: nymphs  Scientific name: Supella longipalpa  Common name: brown-banded cockroach  Development stage: adults  Scientific name: Blatta orientalis  Common name: Oriental Cockroach  Development stage: nymphs  Scientific name: Blatta orientalis  Common name: Oriental Cockroach  Development stage: adults  Scientific name: Periplaneta americana  Common name: American Cockroach  Development stage: nymphs  Scientific name: Periplaneta americana  Common name: American Cockroach  Development stage: adults </td></tr>
+<tr><td>Field(s) of use</td><td>indoor use In cracks and crevices, or in concealed locations inaccessible to humans or domestic animals:  behind refrigerators cupboards and shelves, under kitchen appliances, in electrical control boxes, voids and ducting and under bathroom fixtures etc. </td></tr>
+<tr><td>Application method(s)</td><td>Method: bait application Detailed description:  A ready to use (RTU) insecticidal gel bait for the control of cockroaches in public hygiene </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Pesguard® Gel should be applied as a number of spots of approximately 4 mm diameter (each spot comprising approximately 0,032 g of bait). Number and timing of application:  In cases of severe infestation, where larger cockroach species are present (B. orientalis or P. americana), in areas that are particularly dirty or cluttered or where alternative sources of food cannot be entirely eliminated the higher application rate (e.g. 2 instead of 1 spot per m2 in case of a light infestation) should be used. <table><tbody><tr><td>—</td><td>Light infestation 1 - 2 (0,032 - 0,064 g) spots per m2</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Medium infestation 3 - 6 (0,096 - 0,192 g) spots per m2</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Heavy infestation 6 - 10 (0,192 - 0,320 g) spots per m2</td></tr>
+</tbody>
+</table>
+ The maximum number of annual applications is 11. </td></tr>
+<tr><td>Category(ies) of users</td><td>professional</td></tr>
+<tr><td>Pack sizes and packaging material</td><td>30 g Polypropylene (PP) syringe Screw top cap High Density Poly Ethylene (HDPE) </td></tr>
+</tbody>
+</table>
+
+**4.1.1. Use-specific instructions for use**
+
+See the general directions for use.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+See the general directions for use.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See the general directions for use.
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See the general directions for use.
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See the general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE (1)**
+
+**5.1. Instructions for use**
+
+Always read the label or leaflet before use and respect and follow all the instructions provided.
+
+Do not expose bait drops to sunlight or heat (e.g. radiator).
+
+The pre-filled plastic reservoir containing Pesguard® Gel is intended for use with the plunger provided or a specific bait application device common to the pest control industry. Refer to the manufacturer’s instructions for directions on the use of the applicator.
+
+Inject the bait into cracks and crevices, void spaces, or in concealed locations inaccessible to humans or domestic animals where insects may live, feed and breed. Such areas are generally warm, damp and dark (behind refrigerators, cupboards and shelves, under kitchen appliances, in electrical control boxes, voids and ducting and under bathroom fixtures etc.). Inspection or trapping to confirm infestation is recommended prior to treatment. Ensure that any alternative food sources are removed and concentrate the bait placements as individual spots at cockroach activity sites. The product should only be applied to areas inaccessible to children and pets.
+
+Do not apply Pesguard® Gel where it will come into contact with water or in areas that are routinely cleaned. Typically cockroaches will die a few hours after a single feed on Pesguard® Gel. In infested premises, dead cockroaches will normally be seen within 24 hours of treatment.
+
+Remove the cap from the nozzle, touch the top to the surface to be treated, and push down on the plunger. Replace the cap on the dispenser after treatment is completed.
+
+The bait will adhere to non-greasy or non-dusty surfaces and will remain pliable and palatable to cockroaches as long as it is visibly present.
+
+Treated area’s should be visually inspected after 1–2 weeks. Where initial infestation was heavy a second Pesguard® Gel application may be required if the first treatment has been consumed and live cockroaches are still present.
+
+A second visual inspection of bait placements is recommended 2-4 weeks after the initial treatment. Reapply when bait is no longer visibly present, according to the level of infestation (light, medium or heavy). Replace bait before it is completely consumed to keep cockroaches from returning.
+
+Inform the registration holder if the treatment is ineffective.
+
+Spills and residues containing the product need to be removed as chemical waste.
+
+Care should be taken to avoid depositing gel onto exposed surfaces. If gel contacts an exposed surface, remove gel with a paper towel and clean the area with disposable wet wipes.
+
+During follow-up visits, inspect bait placements and re-apply when necessary.
+
+Do not place bait in locations that are routinely washed, as bait will be removed by washing. Do not use this product in or on electrical equipment where a possibility of shock hazard exists. Avoid contact with textiles and clothing, as bait may stain.
+
+**5.2. Risk mitigation measures**
+
+Wear protective chemical resistant gloves during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Do not apply bait in area’s where repellent insecticides have been used without thoroughly cleaning the surface with disposable wet wipes. Do not apply repellent insecticides after application of the bait.
+
+Do not apply directly on or near food, feed or drinks, or on surfaces or utensils likely to be in direct contact with food, feed, drinks and animals.
+
+Avoid placing gel on fabrics or carpets since it may stain some absorbent materials. To prevent staining, exposed bait should be cleaned up immediately with disposable wet wipes.
+
+Cleaning materials must be disposed of as solid waste.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+This biocidal product contains clothianidin, which is dangerous to bees
+
+**Likely direct or indirect effects**
+
+No adverse effects expected when used as directed.
+
+**Description of first aid measures**
+
+Skin contact: Remove contaminated clothing immediately and wash skin with soap and water. Get medical attention if irritation persists after washing.
+
+Eye contact: If symptoms occur; rinse with water. Remove contact lenses, if present and easy to do. Call a POISON CENTRE or a doctor.
+
+Ingestion: If swallowed: If symptons occur call a POISON CENTRE or a doctor.
+
+If inhaled: not applicable.
+
+**Most important symptoms and effects, both acute and delayed**
+
+Eyes: May cause temporary eye irritation.
+
+**Emergency measures to protect the environment**
+
+Avoid release of the product to the environment.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+Only pass on empty containers and packaging for recycling.
+
+Disposal of this packaging should at all times comply with the waste disposal legislation and any regional local authority requirements.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Protect from frost. Store away from direct sunlight.
+
+Shelf life: 2 years.
+
+**6\. OTHER INFORMATION**
+
+(1) Instructions for use, risk mitigation measures and other directions for use under this section are valid for any authorised uses.
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/2288/oj
+
+ISSN 1977-0677 (electronic edition)

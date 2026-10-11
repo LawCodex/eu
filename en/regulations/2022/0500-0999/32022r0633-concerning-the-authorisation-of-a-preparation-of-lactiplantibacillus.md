@@ -1,0 +1,97 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/633 of 13 April 2022 concerning the authorisation of a preparation of Lactiplantibacillus plantarum DSM 26571 as a silage additive for all animal species (Text with EEA relevance)"
+identifier: "32022R0633"
+eli: "http://data.europa.eu/eli/reg_impl/2022/633/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-04-13
+entry_into_force: 2022-10-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0633"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/633 of 13 April 2022 concerning the authorisation of a preparation of Lactiplantibacillus plantarum DSM 26571 as a silage additive for all animal species (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/633**
+
+**of 13 April 2022**
+
+**concerning the authorisation of a preparation of Lactiplantibacillus plantarum DSM 26571 as a silage additive for all animal species**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the grounds and procedures for granting such an authorisation.
+
+(2) In accordance with Article 7 of Regulation (EC) No 1831/2003, an application was submitted for the authorisation of a preparation of Lactiplantibacillus plantarum DSM 26571. That application was accompanied by the particulars and documents required under Article 7(3) of Regulation (EC) No 1831/2003.
+
+(3) The application concerns the authorisation of the preparation of Lactiplantibacillus plantarum DSM 26571 as a feed additive for all animal species, to be classified in the additive category ‘technological additives’.
+
+(4) The European Food Safety Authority (‘the Authority’) concluded in its opinion of 29 September 2021 (2) that, under the proposed conditions of use, the preparation of Lactiplantibacillus plantarum DSM 26571 does not have an adverse effect on animal health, consumer safety or the environment. It also concluded that the additive should be considered a respiratory sensitiser. Therefore, the Commission considers that appropriate protective measures should be taken to prevent adverse effects on human health, in particular as regards the users of the additive. The Authority also concluded that the preparation concerned has the potential to improve the preservation of nutrients in silage prepared with easy, moderately difficult and difficult to ensile material. It also verified the report on the method of analysis of the feed additives in feed submitted by the Reference Laboratory set up by Regulation (EC) No 1831/2003.
+
+(5) The assessment of the preparation of Lactiplantibacillus plantarum DSM 26571 shows that the conditions for authorisation, as provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. Accordingly, the use of the preparation should be authorised as specified in the Annex to this Regulation.
+
+(6) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The preparation specified in the Annex, belonging to the additive category ‘technological additives’ and to the functional group ‘silage additives’, is authorised as an additive in animal nutrition, subject to the conditions laid down in that Annex.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 April 2022.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 268, 18.10.2003, p. 29.
+
+(2) EFSA Journal 2021;19(10):6898.
+
+## ANNEX
+
+<table>
+<tbody><tr><td rowspan="2">Identification number of the additive</td><td rowspan="2">Additive</td><td rowspan="2">Composition, chemical formula, description, analytical method</td><td rowspan="2">Species or category of animal</td><td rowspan="2">Maximum age</td><td>Minimum content</td><td>Maximum content</td><td rowspan="2">Other provisions</td><td rowspan="2">End of period of authorisation</td></tr>
+<tr><td colspan="2">CFU of additive/kg of fresh material</td></tr>
+<tr><td colspan="9">Category: technological additives Functional group: silage additives </td></tr>
+<tr><td rowspan="3">1k1604</td><td rowspan="3">Lactiplantibacillus plantarum DSM 26571</td><td>Additive composition Preparation of Lactiplantibacillus plantarum DSM 26571 containing a minimum of 1 × 1011 CFU/g additive.  Solid form </td><td rowspan="3">All animal species</td><td rowspan="3">-</td><td rowspan="3">-</td><td rowspan="3">-</td><td rowspan="3"><table><tbody><tr><td>1.</td><td>In the directions for use of the additive and premixtures, the storage conditions shall be indicated.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>Minimum content of the additive when used without combination with other micro-organisms as silage additives: 1 × 108 CFU/kg.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>For users of the additive and premixtures, feed business operators shall establish operational procedures and organisational measures to address potential risks resulting from its use. Where those risks cannot be eliminated or reduced to a minimum by such procedures and measures, the additive and premixtures shall be used with personal protective equipment, including breathing protection.</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3">9 May 2032</td></tr>
+<tr><td>Characterisation of the active substance Viable cells of Lactiplantibacillus plantarum DSM 26571. </td></tr>
+<tr><td>Analytical method (1)<table><tbody><tr><td>—</td><td>Identification: Pulsed-Field Gel Electrophoresis (PFGE)</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Enumeration in the feed additive: Spread plate method on MRS agar (EN 15787)</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+(1) Details of the analytical methods are available at the following address of the Reference Laboratory: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports.

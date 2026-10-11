@@ -85,6 +85,7 @@ Note 2 In some instances chemicals are listed by name and CAS number. The list a
 
 Note 3 ‘EU Dual-Use list’ refers to Annex I to Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (recast).
 
+<table>
 <tbody><tr><td>ML1</td><td></td><td>Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12,7 mm (calibre 0,50 inches) or less and accessories, as follows, and specially designed components therefor:<table><tbody><tr><td>Note</td><td>ML1 does not apply to:<table><tbody><tr><td>a.</td><td>Firearms specially designed for dummy ammunition and which are incapable of discharging a projectile;</td></tr>
 </tbody>
 </table>
@@ -2442,6 +2443,7 @@ Note 3 ‘EU Dual-Use list’ refers to Annex I to Regulation (EU) 2021/821 of t
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **DEFINITIONS OF TERMS USED IN THIS LIST**
 
@@ -2451,6 +2453,7 @@ Note 1 Definitions apply throughout the List. The references are purely advisory
 
 Note 2 Words and terms contained in this List of Definitions only take the defined meaning where this is indicated by their being enclosed in “double quotations marks”. Elsewhere, words and terms take their commonly accepted (dictionary) meanings, unless a local definition for a particular control is given.
 
+<table>
 <tbody><tr><td>ML1, 8, 10, 14</td><td></td><td>“Aircraft” A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. </td></tr>
 <tr><td>ML22</td><td></td><td>“Basic scientific research” Experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective. </td></tr>
 <tr><td>ML7, 22</td><td></td><td>“Biocatalysts” ‘Enzymes’ for specific chemical or biochemical reactions or other biological compounds which bind to and accelerate the degradation of CW agents.  Technical Note  ‘Enzymes’ means ‘biocatalysts’ for specific chemical or biochemical reactions. </td></tr>
@@ -2583,6 +2586,7 @@ Note 2 Words and terms contained in this List of Definitions only take the defin
 <tr><td>ML10</td><td></td><td>“Unmanned aerial vehicle” (“UAV”) Any “aircraft” capable of initiating flight and sustaining controlled flight and navigation without any human presence on board. </td></tr>
 <tr><td>ML21</td><td></td><td>“Vulnerability disclosure” The process of identifying, reporting or communicating a vulnerability to, or analysing a vulnerability with, individuals or organisations responsible for conducting or coordinating remediation for the purpose of resolving the vulnerability. </td></tr>
 </tbody>
+</table>
 
 ’
 

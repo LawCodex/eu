@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
 <tr><td> M2</td><td> DIRECTIVE 2014/59/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 173</td><td>190</td><td>12.6.2014</td></tr>
 <tr><td></td><td> REGULATION (EU) 2021/23 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2020 </td><td> L 22</td><td>1</td><td>22.1.2021</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+</table>
 
 **DIRECTIVE 2004/25/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

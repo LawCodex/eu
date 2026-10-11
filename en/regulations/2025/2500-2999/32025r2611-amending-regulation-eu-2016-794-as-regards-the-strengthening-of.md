@@ -1,0 +1,283 @@
+---
+title: "Regulation (EU) 2025/2611 of the European Parliament and of the Council of 16 December 2025 amending Regulation (EU) 2016/794 as regards the strengthening of Europol’s support and enhancing police cooperation, for preventing and combating migrant smuggling and trafficking in human beings"
+identifier: "32025R2611"
+eli: "http://data.europa.eu/eli/reg/2025/2611/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2025-12-16
+entry_into_force: 2025-11-27
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2611"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2025/2611 of the European Parliament and of the Council of 16 December 2025 amending Regulation (EU) 2016/794 as regards the strengthening of Europol’s support and enhancing police cooperation, for preventing and combating migrant smuggling and trafficking in human beings
+
+**REGULATION (EU) 2025/2611 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2025**
+
+**amending Regulation (EU) 2016/794 as regards the strengthening of Europol’s support and enhancing police cooperation, for preventing and combating migrant smuggling and trafficking in human beings**
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 88(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee (1),
+
+Acting in accordance with the ordinary legislative procedure (2),
+
+Whereas:
+
+(1) The European Union Agency for Law Enforcement Cooperation (Europol) was established by Regulation (EU) 2016/794 of the European Parliament and of the Council (3).
+
+(2) Europol’s mission is to support and strengthen actions by the competent authorities of the Member States as defined in Regulation (EU) 2016/794 (the ‘competent authorities of the Member States’) and their mutual cooperation in preventing and combating serious crime affecting two or more Member States, terrorism and forms of crime which affect a common interest covered by a Union policy, to act as the Union’s criminal information hub, and to deliver agile operational support by being at the forefront of law enforcement innovation and research and by providing European policing solutions. In performing its core tasks of analysing and exchanging information and providing operational and technical support, Europol provides genuine added value for the security of the Union.
+
+(3) Migrant smuggling is a criminal activity that disrespects human life and dignity in the pursuit of profit, undermining the fundamental rights of the people concerned as well as the migration management objectives of the Union. In its conclusions of 9 February 2023, the European Council affirmed the importance of the fight against smugglers and its willingness to step up its action to prevent irregular departures and loss of life by intensifying cooperation with countries of origin and transit. Trafficking in human beings is a serious crime, often committed within the framework of organised crime, constitutes a gross violation of fundamental rights and is explicitly prohibited by the Charter of Fundamental Rights of the European Union (the ‘Charter’). Preventing and combating trafficking in human beings and supporting the victims of trafficking, regardless of their country of origin, remains a priority for the Union and the Member States. To that effect, it is important to strengthen the response of law enforcement to migrant smuggling and trafficking in human beings by reinforcing the overall capabilities of Europol, and in particular its Union centre of specialised expertise for combating migrant smuggling and trafficking in human beings.
+
+(4) To prevent, detect and investigate cross-border serious organised crime and terrorism, coordination and concerted action is necessary. The role of Europol in supporting Member States’ criminal intelligence exchange activities and investigations has evolved significantly through the development of innovative concepts targeting criminal actors that constitute a high risk for security. Such support and cooperation has become increasingly complex and requires specific expertise and resources in which both Member States and Europol need to invest. In view of that, the use of operational task forces enables Member States, with the support of Europol, to conduct joint, coordinated and prioritised criminal intelligence exchange activities, which include exchanging criminal intelligence, the discovery of links and conducting analyses and investigations, notably of criminal networks and groups, as well as of individual criminal actors who constitute a high risk for security. When supporting this flexible, operational and temporary form of cooperation, Europol should be able to make available its analytical, operational, technical, forensic and financial support to the participating Member States. The operational task forces should, as far as possible, be integrated within the European Multidisciplinary Platform Against Criminal Threats (EMPACT).
+
+(5) Criminal intelligence exchange activities carried out in the context of operational task forces can be accompanied by the opening of criminal investigations in one or more Member States which, as a complementary approach, can benefit from setting up a joint investigation team in order to gather evidence. In accordance with Regulation (EU) 2016/794, Europol is able to propose to the Member States concerned to set up such a joint investigation team.
+
+(6) A ‘European Migrant Smuggling Centre’ was created in 2016 by the Management Board of Europol (the ‘Management Board’) in accordance with Regulation (EU) 2016/794 as a Union centre of specialised expertise. The increase in the criminal activities of migrant smugglers and human traffickers involved in the facilitation of irregular arrivals into, and unauthorised movements within, the Union, the rapid adaptability of criminal organised groups, as well as the development of new modi operandi and sophisticated methods, urgently require a significant reinforcement of the role of that centre by establishing it as a permanent structure within Europol. Its name should be the ‘European Centre Against Migrant Smuggling’.
+
+(7) The European Centre Against Migrant Smuggling should provide strategic, operational and technical support to Member States to prevent and combat migrant smuggling and trafficking in human beings. In that context, the European Centre Against Migrant Smuggling should also support the identification of victims of trafficking or other vulnerable individuals, ensuring necessary cooperation with the EU anti-trafficking coordinator referred to in Directive 2011/36/EU of the European Parliament and of the Council (4).
+
+(8) In order to maximise the effectiveness of the European Centre Against Migrant Smuggling and ensure the timely and systematic coordination and exchange of information to counter migrant smuggling and trafficking in human beings at Union level, the European Centre Against Migrant Smuggling should include representatives of the European Union Agency for Criminal Justice Cooperation (Eurojust) and the European Border and Coast Guard Agency, in accordance with their respective mandates. The European Centre Against Migrant Smuggling should also be able to invite the Commission and the main actors of EMPACT, as well as other relevant Union bodies or agencies, such as the European Union Agency for Asylum, to assist in its activities, where the actions required fall within their respective mandates. Furthermore, the European Centre Against Migrant Smuggling should be able to cooperate with immigration liaison officers deployed in third countries and, where strictly necessary and proportionate, with the European External Action Service and the relevant Common Security and Defence Policy missions, in accordance with their respective mandates and the mandate of Europol.
+
+(9) In order to ensure the effective and efficient functioning of the European Centre Against Migrant Smuggling, the Management Board should decide on how the European Centre Against Migrant Smuggling operates, including its tasks and composition, in accordance with this Regulation.
+
+(10) The creation of the European Centre Against Migrant Smuggling is without prejudice to the role and functions of the Management Board, in particular when deciding, taking into consideration both business and financial requirements, upon the establishment of Europol’s internal structures, including other Union centres of specialised expertise upon a proposal of the Executive Director.
+
+(11) EMPACT brings together a wide range of competent authorities in a partnership approach and constitutes both the framework for a coordinated response against organised and serious international crime and a catalyst to operationalise Union security policies and strategies. To strengthen the Union’s response with regard to preventing and combating serious and organised crime, including migrant smuggling and trafficking in human beings, Europol and all competent authorities concerned under this Regulation should increase their connection within EMPACT and their operational support to the activities developed by that platform. To that end, Europol should be able to reinforce its strategic, operational and financial support to operational activities implemented within EMPACT, including by involving the core actors of EMPACT whenever relevant. The competent authorities of the Member States involved in the implementation of operational activities within EMPACT should provide Europol with all relevant information.
+
+(12) Europol should provide the competent authorities of the Member States with non-personal data regarding operational task forces. Such data include, for instance, the relevant crime areas, the modi operandi of the criminal actors involved and the competent authorities participating in the operational task forces. Europol should also facilitate the communication flow between Member States leading operational task forces and those leading EMPACT operational actions.
+
+(13) The collection and further processing of personal data, in the context of preventing, detecting and investigating migrant smuggling and trafficking in human beings, should be carried out by Europol in accordance with Regulation (EU) 2016/794 and Regulation (EU) 2018/1725 of the European Parliament and of the Council (5) and in compliance with applicable Union data protection standards, including the principles of purpose limitation and necessity and proportionality.
+
+(14) In duly justified cases, the transfer of personal data by Europol to third countries can, in the absence of an adequacy decision or of adequate or appropriate data protection safeguards, be carried out in accordance with Article 25(5) of Regulation (EU) 2016/794.
+
+(15) Europol should be the Union’s criminal information hub and act as a service provider, in particular by providing a secure network for the exchange of data, such as the Secure Information Exchange Network Application (SIENA), aimed at facilitating the exchange of information between Member States, Europol, other Union bodies, third countries and international organisations, in accordance with this Regulation and Directive (EU) 2023/977 of the European Parliament and of the Council (6).
+
+(16) Effective law enforcement information exchange includes exchanging biometric data, for example fingerprints or facial images, as defined in Directive (EU) 2016/680 of the European Parliament and of the Council (7). The effective use of biometric data is key to closing the gaps and blind spots that terrorists and other criminals seek to exploit by hiding behind false or multiple identities. Europol’s legal framework already enables Europol to process biometric data for operational purposes and for preventing or combating crime that falls within its objectives, as provided for in Article 30(2) of Regulation (EU) 2016/794. However, as highlighted by the European Court of Auditors’ special report of 2021 on Europol’s support to fighting migrant smuggling, there is a need to enable Europol to use biometric data effectively. Europol should therefore be enabled to effectively and efficiently process biometric data in order to better support Member States, including in combatting migrant smuggling and trafficking in human beings.
+
+(17) Any processing of biometric data should be in line with the existing safeguards set out in Regulations (EU) 2016/794 and (EU) 2018/1725, and should be strictly necessary and proportionate to the objective pursued. Particular attention should be given to the establishment of appropriate quality standards applicable to the processing and storage of biometric data. These quality standards should be consistent with the relevant minimum quality standards laid down in Union law in respect of comparable biometric data processing to ensure an equivalent quality level, including the minimum quality standards established by the Commission pursuant to Regulation (EU) 2024/982 of the European Parliament and of the Council (8).
+
+(18) Member States’ active involvement and sharing of all relevant information with Europol are essential to provide a comprehensive and coordinated Union approach to the fight against migrant smuggling and trafficking in human beings. To that end, Member States are encouraged to set up central services specialised in the fight against migrant smuggling and trafficking in human beings, ensuring synergies with national anti-trafficking coordinators or equivalent mechanisms established in accordance with Directive 2011/36/EU, and provide that those central services have sufficient resources to prevent and combat migrant smuggling and trafficking in human beings, and can share information on criminal investigations with Europol efficiently using SIENA.
+
+(19) Member States should ensure that all relevant information for preventing and combating migrant smuggling and trafficking in human beings, including information from immigration liaison officers deployed in third countries which has been assessed as falling within the scope of Europol’s legal framework, is shared with Europol in a timely and effective manner, using SIENA.
+
+(20) Immigration liaison officers designated and deployed to third countries by the competent authorities of the Member States should be connected to and use SIENA in order to share relevant information on migrant smuggling and trafficking in human beings with Europol directly or indirectly via their national competent authorities. If a connection to SIENA is not possible due to legal, organisational or technical reasons, immigration liaison officers designated and deployed by the competent authorities of the Member States should share relevant information with Europol via a national competent authority through other secure channels. Immigration liaison officers designated and deployed by national authorities other than the competent authorities of the Member States should share relevant information with a national competent authority, with a view to providing that information to Europol.
+
+(21) Europol and the competent authorities of the Member States should be encouraged to cooperate in investigations on migrant smuggling and trafficking in human beings, including when those criminal offences are committed using the internet, for example through social media platforms.
+
+(22) To prevent, detect and investigate migrant smuggling and trafficking in human beings, coordination and concerted action is necessary. For this purpose, Member States can set up a joint investigation team in accordance with the Council Framework Decision of 13 June 2002 (9), including with the support of Europol. Where Europol has reason to believe that setting up a joint investigation team would add value to an investigation into migrant smuggling and trafficking in human beings, it is able to propose this to the Member States concerned and take measures to assist them in setting up the joint investigation team, in accordance with Regulation (EU) 2016/794. In such cases, Europol should closely liaise with Eurojust.
+
+(23) To support and strengthen actions by the competent authorities of the Member States, Europol should be able to temporarily deploy staff, including seconded national experts, to provide analytical, operational, technical and forensic support. Such deployments should notably take place in the context of complex, large-scale and high-profile investigations and criminal intelligence exchange activities requiring Europol’s support. Those deployments should also support further security checks against Europol or national databases in order to facilitate rapid information exchange to strengthen controls at the Union’s external borders (secondary security checks), or migration management support teams in accordance with Regulation (EU) 2019/1896 of the European Parliament and of the Council (10). Europol should also make use of such deployments to support Member States in relation to major international events.
+
+(24) Europol deployments in the territory of a Member State should take place upon the request of and in liaison and agreement with the competent authorities of the Member State concerned. For the purposes of Europol deployments in the territory of a Member State, the Member States concerned should provide, without delay, all relevant information to Europol, as the Union’s criminal information hub, in order to support and strengthen action by Member States.
+
+(25) The reinforcement of Europol’s legal framework provides an opportunity to clarify that Europol’s objectives should also expressly cover violations of Union restrictive measures in accordance with Directive (EU) 2024/1226 of the European Parliament and of the Council (11). Union restrictive measures are an essential tool for safeguarding the Union’s values, security, independence and integrity, consolidating and supporting democracy, the rule of law, human rights and the principles of international law and maintaining international peace, preventing conflicts and strengthening international security in line with the aims and principles of the United Nations Charter. Where such a violation of Union restrictive measures also constitutes another form of crime listed in Annex I to Regulation (EU) 2016/794, Europol has supported Member States’ investigations in targeting criminal assets owned by individuals and legal entities subject to Union sanctions or criminal investigations linked to the circumvention of trade and economic sanctions imposed by the Union. Since violations of Union restrictive measures constitute a form of crime which affects a common interest covered by Union policy and constitute a form of crime with which Member States are increasingly confronted, Europol should be competent to act in order to support and strengthen the Member States’ action in this regard. That competence supports Member States in their mutual cooperation and in their cooperation with Europol, Eurojust and the European Public Prosecutor’s Office, within their respective competences and in accordance with the applicable legal framework, to ensure the effective investigation and prosecution of violations of Union restrictive measures.
+
+(26) In accordance with Article 3 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU), Ireland has notified its wish to take part in the adoption and application of this Regulation.
+
+(27) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to TEU and to TFEU, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application.
+
+(28) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725, and delivered an opinion on 23 January 2024.
+
+(29) Since the objective of this Regulation, namely to reinforce the prevention, detection and investigation of migrant smuggling and trafficking in human beings, cannot be sufficiently achieved by the Member States acting alone given the cross-border nature of these crimes, but can rather, by reason of the effects of cooperation and information sharing, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 TEU. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.
+
+(30) This Regulation fully respects the fundamental rights and safeguards, and observes the principles recognised in particular by the Charter, in particular the right to respect for private and family life and the right to the protection of personal data as provided for by Articles 7 and 8 of the Charter, as well as by Article 16 TFEU.
+
+(31) Regulation (EU) 2016/794 should therefore be amended accordingly,
+
+HAVE ADOPTED THIS REGULATION:
+
+## Article 1 — Amendments to Regulation (EU) 2016/794
+
+Regulation (EU) 2016/794 is amended as follows:
+
+(1) in Article 2, the following points are added:
+
+‘(w) “SIENA” means the Secure Information Exchange Network Application, managed by Europol, which facilitates the exchange of information;
+
+(x) “immigration liaison officer” means an immigration liaison officer as defined in Article 2, point (1) of Regulation (EU) 2019/1240 of the European Parliament and of the Council (*1).
+
+(*1) Regulation (EU) 2019/1240 of the European Parliament and of the Council of 20 June 2019 on the creation of a European network of immigration liaison officers (OJ L 198, 25.7.2019, p. 88, ELI: http://data.europa.eu/eli/reg/2019/1240/oj).’;"
+
+(2) Article 4 is amended as follows:
+
+(a) paragraph 1 is amended as follows:
+
+(i) point (c) is replaced by the following:
+
+‘(c) coordinate, organise and implement investigative and operational actions to support and strengthen actions by the competent authorities of the Member States, that are carried out:
+
+(i) jointly with the competent authorities of the Member States;
+
+(ii) in the context of joint investigation teams in accordance with Article 5 and, where appropriate, in liaison with Eurojust;
+
+(iii) in the context of operational task forces; or
+
+(iv) in the context of Europol deployments for operational support;’
+
+;
+
+(ii) point (h) is replaced by the following:
+
+‘(h) support Member States’ cross-border information exchange activities, operations and investigations, as well as joint investigation teams, including by providing analytical, operational, technical, forensic and financial support;’
+
+;
+
+(iii) point (l) is replaced by the following:
+
+‘(l) develop Union centres of specialised expertise for combating certain types of crime falling within the scope of Europol’s objectives, including the European Centre Against Migrant Smuggling established pursuant to Article 9a and the European Cybercrime Centre;’
+
+;
+
+(iv) point (s) is replaced by the following:
+
+‘(s) facilitate joint, coordinated and prioritised criminal intelligence exchange activities and investigations, including with regard to persons referred to in point (r);’
+
+;
+
+(v) the following point is inserted:
+
+‘(ya) pay particular attention, when supporting the competent authorities of the Member States in the context of investigations, to migrant smuggling and trafficking in human beings, including when those criminal offences involve activities carried out over the internet;’
+
+;
+
+(vi) the following point is added:
+
+‘(za) support Member States, including through the development of specific tools, with the effective and efficient processing of biometric data for preventing or combating crime that falls within Europol’s objectives as set out in Article 3; processing of biometric data shall satisfy applicable minimum quality standards and be carried out in compliance with Articles 18 and 18a and the safeguards set out in this Regulation, in particular the principles of strict necessity and proportionality as set out in Article 30.’
+
+;
+
+(b) paragraph 2 is replaced by the following:
+
+‘2. Europol shall provide strategic analyses and threat assessments to assist the Council and the Commission in laying down strategic and operational priorities of the Union for fighting crime. Europol shall also assist in the operational implementation of those priorities, in particular by supporting the competent authorities of the Member States in further strengthening the European Multidisciplinary Platform Against Criminal Threats (EMPACT) as a coherent framework to prevent and tackle the threats posed by criminal networks, including by facilitating and providing administrative, logistical, financial and operational support to operational and strategic activities led by Member States, including related exchange of information.’
+
+;
+
+(c) paragraph 5 is replaced by the following:
+
+‘5. Europol shall not apply coercive measures in carrying out its tasks.
+
+Europol staff may provide operational support to the competent authorities of the Member States during the execution of investigative measures by those authorities, at their request and in accordance with their national law, in particular by facilitating cross-border information exchange and other forms of data processing, by providing analytical, operational, technical and forensic support, and by being present during the execution of those measures. Europol staff shall not, themselves, have the power to execute investigative measures.’
+
+;
+
+(3) Article 7 is amended as follows:
+
+(a) in paragraph 6, point (a) is replaced by the following:
+
+‘(a) supply Europol with the information necessary for it to fulfil its objectives, including information relating to forms of crime the prevention or combating of which is considered a priority by the Union, such as migrant smuggling and trafficking in human beings;’
+
+;
+
+(b) the following paragraphs are inserted:
+
+‘6a. Each Member State setting up, participating in, or supporting an operational task force shall, without delay, provide all relevant information to Europol and the other Member States setting up, participating in, or supporting that operational task force, using SIENA and, where appropriate, make information directly accessible in accordance with Article 20(2a), including information related to parallel financial investigations to identify and seize criminal assets.
+
+6b. Each Member State setting up or participating in an EMPACT operational action supported by Europol shall, whenever feasible, use SIENA to provide all relevant information without delay to Europol and to other Member States.
+
+6c. Each Member State in whose territory a Europol deployment for operational support takes place shall, without delay, provide all relevant information to Europol, using SIENA and, where possible and in accordance with its national law, by making information in national databases accessible to Europol staff and seconded national experts deployed in its territory.’
+
+;
+
+(c) in paragraph 7, first subparagraph, the introductory part is replaced by the following:
+
+‘Without prejudice to the discharge by Member States of their responsibilities with regard to the maintenance of law and order and the safeguarding of internal security, Member States shall not in any particular case be obliged to supply information in accordance with paragraph 6, point (a), paragraph 6a, paragraph 6b, or paragraph 6c that would:’
+
+;
+
+(d) the following paragraphs are inserted:
+
+‘7a. Each Member State shall connect its immigration liaison officers, designated by the competent authorities of the Member States, to SIENA in order to submit relevant information to Europol directly or through national competent authorities in accordance with paragraph 5 and paragraph 6, point (a). Where it is not possible to connect an immigration liaison officer to SIENA due to legal, organisational or technical reasons, that immigration liaison officer shall submit the relevant information to a national competent authority through other secure channels. That competent authority shall provide the information to Europol, in accordance with paragraph 5 and paragraph 6, point (a).
+
+7b. Immigration liaison officers not designated by competent authorities of the Member States shall submit the relevant information to such a national competent authority, using secure channels. After assessing the information in accordance with paragraph 5 and paragraph 6, point (a), that competent authority shall provide it to Europol.’
+
+;
+
+(4) the following Article is inserted:
+
+## ‘Article 9a — Tasks and composition of the European Centre Against Migrant Smuggling
+
+1\. The European Centre Against Migrant Smuggling is established within Europol as a Union centre of specialised expertise as referred to in Article 4(1), point (l).
+
+2\. The European Centre Against Migrant Smuggling shall support Member States in the prevention and combating of migrant smuggling and trafficking in human beings.
+
+3\. The European Centre Against Migrant Smuggling shall include Europol staff and representatives of Eurojust and the European Border and Coast Guard Agency, in accordance with their respective mandates. Europol may invite other participants to be involved in carrying out the tasks of the European Centre Against Migrant Smuggling.
+
+4\. Upon a proposal from the Executive Director, the Management Board shall adopt implementing rules on how the European Centre Against Migrant Smuggling operates, including on its tasks and composition. Union bodies or agencies involved shall participate in accordance with their respective mandates.’
+
+;
+
+(5) in Article 18(2), point (d) is replaced by the following:
+
+‘(d) facilitating, including through SIENA, the exchange of information between Member States, Europol, other Union bodies, third countries, international organisations and private parties;’
+
+;
+
+(6) Annex I is amended as follows:
+
+(a) the sixth indent (‘immigrant smuggling’) is replaced by the following:
+
+‘— migrant smuggling;’
+
+;
+
+(b) the following indent is added:
+
+‘— violation of Union restrictive measures.’.
+
+## Article 2 — Entry into force and applicability
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+Done at Strasbourg, 16 December 2025.
+
+For the European Parliament
+
+The President
+
+R. METSOLA
+
+For the Council
+
+The President
+
+M. BJERRE
+
+(1) OJ C, C/2024/6024, 23.10.2024, ELI: http://data.europa.eu/eli/C/2024/6024/oj.
+
+(2) Position of the European Parliament of 25 November 2025 (not yet published in the Official Journal) and decision of the Council of 8 December 2025.
+
+(3) Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA (OJ L 135, 24.5.2016, p. 53, ELI: http://data.europa.eu/eli/reg/2016/794/oj).
+
+(4) Directive 2011/36/EU of the European Parliament and of the Council of 5 April 2011 on preventing and combating trafficking in human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JHA (OJ L 101, 15.4.2011, p. 1, ELI: http://data.europa.eu/eli/dir/2011/36/oj).
+
+(5) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+
+(6) Directive (EU) 2023/977 of the European Parliament and of the Council of 10 May 2023 on the exchange of information between the law enforcement authorities of Member States and repealing Council Framework Decision 2006/960/JHA (OJ L 134, 22.5.2023, p. 1, ELI: http://data.europa.eu/eli/dir/2023/977/oj).
+
+(7) Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89, ELI: http://data.europa.eu/eli/dir/2016/680/oj).
+
+(8) Regulation (EU) 2024/982 of the European Parliament and of the Council of 13 March 2024 on the automated search and exchange of data for police cooperation, and amending Council Decisions 2008/615/JHA and 2008/616/JHA and Regulations (EU) 2018/1726, (EU) 2019/817 and (EU) 2019/818 of the European Parliament and of the Council (the Prüm II Regulation) (OJ L, 2024/982, 5.4.2024, ELI: http://data.europa.eu/eli/reg/2024/982/oj).
+
+(9) Council Framework Decision of 13 June 2002 on joint investigation teams (OJ L 162, 20.6.2002, p. 1, ELI: http://data.europa.eu/eli/dec_framw/2002/465/oj).
+
+(10) Regulation (EU) 2019/1896 of the European Parliament and of the Council of 13 November 2019 on the European Border and Coast Guard and repealing Regulations (EU) No 1052/2013 and (EU) 2016/1624 (OJ L 295, 14.11.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/1896/oj).
+
+(11) Directive (EU) 2024/1226 of the European Parliament and of the Council of 24 April 2024 on the definition of criminal offences and penalties for the violation of Union restrictive measures and amending Directive (EU) 2018/1673 (OJ L, 2024/1226, 29.4.2024, ELI: http://data.europa.eu/eli/dir/2024/1226/oj).
+
+ELI: http://data.europa.eu/eli/reg/2025/2611/oj
+
+ISSN 1977-0677 (electronic edition)

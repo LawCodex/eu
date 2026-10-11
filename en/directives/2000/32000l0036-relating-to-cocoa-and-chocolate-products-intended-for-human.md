@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **relating to cocoa and chocolate products intended for human consumption**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> REGULATION (EU) No 1021/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2013 </td><td> L 287</td><td>1</td><td>29.10.2013</td></tr>
+</table>
 
 |  | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
 | --- | --- | --- | --- | --- |

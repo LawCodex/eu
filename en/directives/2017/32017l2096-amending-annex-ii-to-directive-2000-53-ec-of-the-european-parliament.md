@@ -84,6 +84,7 @@ A maximum concentration value up to 0,1 % by weight in homogeneous material for 
 
 Spare parts put on the market after 1 July 2003 which are used for vehicles put on the market before 1 July 2003, except for wheel balance weights, carbon brushes for electric motors and brake linings, shall be exempted from the provisions of Article 4(2)(a) of Directive 2000/53/EC.
 
+<table>
 <tbody><tr><td>Materials and components</td><td>Scope and expiry date of the exemption</td><td>To be labelled or made identifiable in accordance with Article 4(2)(b)(iv)</td></tr>
 <tr><td colspan="3">Lead as an alloying element</td></tr>
 <tr></tr>
@@ -258,6 +259,7 @@ Spare parts put on the market after 1 July 2003 which are used for vehicles put 
 </table>
 </td><td>As spare parts for vehicles put on the market before 31 December 2008</td><td></td></tr>
 </tbody>
+</table>
 
 ’
 

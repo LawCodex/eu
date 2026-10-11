@@ -1,0 +1,1674 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/583 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of bonds, structured finance products, emission allowances and derivatives (Text with EEA relevance. )"
+identifier: "32017R0583"
+eli: "http://data.europa.eu/eli/reg_del/2017/583/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2016-07-14
+entry_into_force: 2017-12-01
+last_amended: 2026-03-02
+consolidated_version: "02017R0583-20260302"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0583-20260302"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/583 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of bonds, structured finance products, emission allowances and derivatives (Text with EEA relevance. )
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/583**
+
+**of 14 July 2016**
+
+**supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of bonds, structured finance products, emission allowances and derivatives**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/529 of 18 December 2020 </td><td> L 106</td><td>47</td><td>26.3.2021</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/629 of 12 January 2022 </td><td> L 115I</td><td>1</td><td>13.4.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/945 of 17 January 2023 </td><td> L 131</td><td>17</td><td>16.5.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1246 of 18 June 2025 </td><td> L 1246</td><td>1</td><td>3.11.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/583**
+
+**of 14 July 2016**
+
+**supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of bonds, structured finance products, emission allowances and derivatives**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — DEFINITIONS
+
+### Article 1
+
+Definitions
+
+(Article 9(5), point (f), of Regulation (EU) No 600/2014)
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘central limit order book trading system’ means any of the following:
+
+(a) a continuous order book trading system that by means of an order book and a trading algorithm operated without human intervention matches sell orders with buy orders on the basis of the best available price on a continuous basis;
+
+(b) a trading system combining elements of a continuous order book trading system, as referred to in point (a), and of a periodic auction trading system, as defined in point (2);
+
+(2) ‘periodic auction trading system’ means a trading system that matches orders on the basis of a periodic auction and a trading algorithm operated without human intervention.
+
+### Article 1a — Scope of application of Articles 3, 6, 8, 9, 10, 11 and 13
+
+1\. Articles 3, 6, 9, 10, 11 and 13 shall apply only in respect of derivatives. Article 8 shall apply only in respect of derivatives and package transactions.
+
+2\. References to Article 11 of Regulation (EU) No 600/2014 in Articles 8 and 11 of this Regulation shall be construed as references to Article 11 of Regulation (EU) No 600/2014 as applicable before 28 March 2024.
+
+## CHAPTER II — PRE-TRADE TRANSPARENCY FOR REGULATED MARKETS, MULTILATERAL TRADING FACILITIES AND ORGANISED TRADING FACILITIES
+
+### Article 2
+
+Pre-trade transparency obligations
+
+(Article 8(1) and (2) of Regulation (EU) No 600/2014)
+
+Market operators and investment firms operating a trading venue shall make public the range of bid and offer prices and the depth of trading interest at those prices, in accordance with the type of trading system they operate and the information requirements set out in Annex I
+
+### Article 3
+
+Orders which are large in scale
+
+(Article 9(1)(a) of Regulation (EU) No 600/2014)
+
+An order is large in scale compared with normal market size where, at the point of entry of the order or following any amendment to the order, it is equal to or larger than the minimum size of order which shall be determined in accordance with the methodology set out in Article 13.
+
+### Article 3a
+
+Orders which are large in scale for bonds, structured finance products and emission allowances
+
+(Article 9(1), point (a), of Regulation (EU) No 600/2014)
+
+An order in bonds, structured finance products or emission allowances shall be large in scale compared with normal market size where, at the point of entry of the order or following any amendment to the order, that order is equal to or larger than the following thresholds:
+
+(a) for all bond types, except Exchange Traded Commodities (‘ETCs’) and Exchange Traded Notes (‘ETNs’), the thresholds set out in Table 2.3 of Annex III;
+
+(b) for ETCs and ETNs, the thresholds set out in Table 2.5 of Annex III;
+
+(c) for structured finance products, the thresholds set out in Table 3.2 of Annex III;
+
+(d) for emission allowances, the thresholds set out in Table 12.2 of Annex III.
+
+### Article 4
+
+Type and minimum size of orders held in an order management facility
+
+(Article 9(1)(a) of Regulation (EU) No 600/2014)
+
+1\. The type of order held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived is an order which:
+
+(a) is intended to be disclosed to the order book operated by the trading venue and is contingent on objective conditions that are defined in advance by the system's protocol;
+
+(b) does not interact with other trading interest prior to disclosure to the order book operated by the trading venue;
+
+(c) once disclosed to the order book it interacts with other orders in accordance with the rules applicable to orders of that kind at the time of disclosure.
+
+2\. The minimum size of orders held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived shall, at the point of entry and following any amendment, be one of the following:
+
+(a) in the case of a reserve order, greater than or equal to EUR 10 000 ;
+
+(b) for all other orders, a size that is greater than or equal to the minimum tradable quantity set in advance by the system operator under its rules and protocols.
+
+3\. A reserve order referred to in paragraph 2(a) shall be considered a limit order consisting of a disclosed order relating to a portion of the quantity and a non-disclosed order relating to the remainder of the quantity, where the non-disclosed quantity is capable of execution only after its release to the order book as a new disclosed order.
+
+4\. For the purposes of paragraph 2, point (a), the size of orders held in an order management facility shall be measured by the notional amount of the traded contracts as referred to in Annex II, table 2, field 10.
+
+### Article 6
+
+The classes of financial instruments for which there is not a liquid market
+
+(Article 9(1)(c) of Regulation (EU) No 600/2014)
+
+A financial instrument or a class of financial instruments shall be considered not to have a liquid market if so specified in accordance with the methodology set out in Article 13.
+
+### Article 6a
+
+The classes of bonds, structured finance products and emission allowances for which there is not a liquid market
+
+(Article 9(1), point (c), of Regulation (EU) No 600/2014)
+
+To determine whether a bond, structured finance product or emission allowance is to be considered not to have a liquid market, competent authorities shall apply the following static determination of liquidity:
+
+(a) for all bond types, except ETCs and ETNs, the determination set out in Table 2.2 of Annex III;
+
+(b) for ETCs and ETNs, the determination set out in Table 2.4 of Annex III;
+
+(c) for structured finance products, the determination set out in Table 3.1 of Annex III;
+
+(d) for emission allowances, the determination set out in Table 12.1 of Annex III.
+
+## CHAPTER III — POST-TRADE TRANSPARENCY FOR TRADING VENUES AND INVESTMENT FIRMS TRADING OUTSIDE A TRADING VENUE
+
+### Article 7
+
+Post-trade transparency obligations
+
+(Article 10(1) and Article 21(1) and (5) of Regulation (EU) No 600/2014)
+
+1\. Investment firms trading outside the rules of a trading venue and market operators and investment firms operating a trading venue shall make public by reference to each transaction the details set out in Tables 1 and 2 of Annex II and use each applicable flag listed in Table 3 of Annex II.
+
+The field names set out in Table 2 of Annex II shall be made public using the same naming conventions as set out in the field identifier of that table.
+
+2\. Where a previously published trade report is cancelled, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make public a new trade report which contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II.
+
+3\. Where a previously published trade report is amended, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make the following information public:
+
+(a) a new trade report that contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II;
+
+(b) a new trade report that contains all the details of the original trade report with all necessary details corrected and the amendment flag as specified in Table 3 of Annex II.
+
+4\. Post-trade information shall be made available as close to real time as is technically possible and in any case within five minutes after the execution of the relevant transaction.
+
+7\. Investment firms shall take all reasonable steps to ensure that the transaction is made public as a single transaction. For that purpose, two matching trades entered at the same time and for the same price with a single party interposed shall be considered to be a single transaction.
+
+8\. Information relating to a package transaction shall include the package transaction flag or the exchange for physicals transaction flag as specified in Table 3 of Annex II. Where the package transaction is eligible for deferred publication pursuant to Article 8, information on all components shall be made available after the deferral period for the transaction has lapsed.
+
+### Article 8
+
+Deferred publication of transactions
+
+(Article 11(1) and (3) and Article 21(4) of Regulation (EU) No 600/2014)
+
+1\. Where a competent authority authorises the deferred publication of the details of transactions pursuant to Article 11(1) of Regulation (EU) No 600/2014, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make public each transaction no later than 19.00 local time on the second working day after the date of the transaction, provided one of the following conditions is satisfied:
+
+(a) the transaction is large in scale compared with the normal market size as specified in Article 9;
+
+(b) the transaction is in a financial instrument or a class of financial instruments for which there is not a liquid market as specified in accordance with the methodology set out in Article 13;
+
+(c) the transaction is executed between an investment firm dealing on own account other than on a matched principal basis as per Article 4(1)(38) of Directive 2014/65/EU of the European Parliament and of the Council ( 1 ) and another counterparty and is above a size specific to the instrument as specified in Article 10;
+
+(d) the transaction is a package transaction which meets one of the following criteria:
+
+(i) one or more of its components are transactions in financial instruments which do not have a liquid market;
+
+(ii) one or more of its components are transactions in financial instruments that are large in scale compared with the normal market size as determined by Article 9;
+
+(iii) the transaction is executed between an investment firm dealing on own account other than on a matched principal basis as per Article 4(1)(38) of Directive 2014/65/EU and another counterparty, and one or more of its components are transactions in financial instruments that are above the size specific to the instrument as determined by Article 10.
+
+2\. When the time limit of deferral set out in paragraph 1 has lapsed, all the details of the transaction shall be published unless an extended or an indefinite time period of deferral is granted in accordance with Article 11.
+
+3\. Where a transaction between two investment firms, either on own account or on behalf of clients, is executed outside the rules of a trading venue, the relevant competent authority for the purposes of determining the applicable deferral regime shall be the competent authority of the investment firm responsible for making the trade public through an APA in accordance with paragraphs 5, 6 and 7 of Article 7.
+
+### Article 8a
+
+Deferred publication of transactions for bonds, structured finance products and emission allowances
+
+(Article 11 of Regulation (EU) No 600/2014)
+
+1\. Market operators and investment firms operating a trading venue and investment firms trading outside a trading venue may defer the publication of the details of transactions in respect of bonds, except ETCs and ETNs, in accordance with the following:
+
+(a) a price deferral and a volume deferral not exceeding 15 minutes, for transactions in category 1 as referred to in Table 2.6 of Annex III;
+
+(b) a price deferral and a volume deferral not exceeding the end of the trading day, for transactions in category 2 as referred to in Table 2.6 of Annex III;
+
+(c) a price deferral not exceeding the end of the first trading day after the transaction date and a volume deferral not exceeding one week after the transaction date, for transactions in category 3 as referred to in Table 2.6 of Annex III;
+
+(d) a price deferral not exceeding the end of the second trading day after the transaction date and a volume deferral not exceeding two weeks after the transaction date, for transactions in category 4 as referred to in Table 2.6 of Annex III;
+
+(e) a price deferral and a volume deferral not exceeding four weeks after the transaction date, for transactions in category 5 as referred to in Table 2.6 of Annex III.
+
+2\. Market operators and investment firms operating a trading venue and investment firms trading outside a trading venue may defer the publication of the details of transactions in respect of ETCs, ETNs and structured finance products in accordance with the following:
+
+(a) a price deferral not exceeding the end of the second trading day after the transaction date, for transactions of any size; and
+
+(b) a volume deferral not exceeding two weeks after the transaction date, for transactions of any size.
+
+3\. Market operators and investment firms operating a trading venue and investment firms trading outside a trading venue shall make public each transaction in respect of emission allowances no later than 19:00 local time on the second working day after the date of the transaction, provided that the transaction is above the post-trade size for emission allowances as referred to in Table 12.2 of Annex III.
+
+### Article 9
+
+Transactions which are large in scale
+
+(Article 11(1)(a) of Regulation (EU) No 600/2014)
+
+A transaction shall be considered large in scale compared with normal market size where it is equal to or larger than the minimum size of transaction, which shall be calculated in accordance with the methodology set out in Article 13.
+
+### Article 10
+
+The size specific to the financial instrument
+
+(Article 11(1)(c) of Regulation (EU) No 600/2014)
+
+A transaction shall be considered above a size specific to the financial instrument where it is equal to or larger than the minimum size of transaction, which shall be calculated in accordance with the methodology set out in Article 13.
+
+### Article 11
+
+Transparency requirements in conjunction with deferred publication at the discretion of the competent authorities
+
+(Article 11(3) of Regulation (EU) No 600/2014)
+
+1\. Where competent authorities exercise their powers in conjunction with an authorisation of deferred publication pursuant to Article 11(3) of Regulation (EU) No 600/2014, the following shall apply:
+
+(a) where Article 11(3)(a) of Regulation (EU) No 600/2014 applies, competent authorities shall request the publication of either of the following information during the full period of deferral as set out in Article 8:
+
+(i) all the details of a transaction laid down in Tables 1 and 2 of Annex II with the exception of details relating to volume;
+
+(ii) transactions in a daily aggregated form for a minimum number of 5 transactions executed on the same day, to be made public the following working day before 9.00 local time;
+
+(b) where Article 11(3)(b) of Regulation (EU) No 600/2014 applies, competent authorities shall allow the omission of the publication of the volume of an individual transaction for an extended time period of four weeks;
+
+(c) in respect of non-equity instruments that are not sovereign debt and where Article 11(3)(c) of Regulation (EU) No 600/2014 applies, competent authorities shall allow, for an extended time period of deferral of four weeks, the publication of the aggregation of several transactions executed over the course of one calendar week on the following Tuesday before 9.00 local time.
+
+2\. Where the extended period of deferral set out in paragraph 1(b) has lapsed, the following requirements shall apply:
+
+(a) in respect of all instruments that are not sovereign debt, the publication of the full details of all individual transactions, on the next working day before 9.00 local time.
+
+3\. In respect of all instruments that are not sovereign debt, all the details of the transactions on an individual basis shall be published four weeks after the publication of the aggregated details in accordance with paragraph 1(c) before 9.00 local time.
+
+4\. The aggregated daily or weekly data referred to in paragraphs 1 and 2 shall contain the following information about derivatives in respect of each day or week of the calendar period concerned:
+
+(a) the weighted average price;
+
+(b) the total volume traded as referred to in Table 4 of Annex II;
+
+(c) the total number of transactions.
+
+5\. Transactions shall be aggregated per ISIN-code. Where the ISIN code is not available, transactions shall be aggregated at the level of the class of financial instruments to which the liquidity test set out in Article 13 applies.
+
+6\. Where the weekday for the publications set out in paragraph 1, point (c), and paragraphs 2 and 3, is not a working day, the publications shall be made on the following working day before 09:00 local time.
+
+### Article 11a
+
+Transparency requirements for sovereign debt instruments in conjunction with deferred publication at the discretion of competent authorities
+
+(Article 11(3) of Regulation (EU) No 600/2014)
+
+1\. The publication of the details of several transactions in an aggregated form as referred to in Article 11(3), point (b), of Regulation (EU) No 600/2014 shall cover transactions that have been executed over the course of one calendar week and shall be made on the following Tuesday before 09:00 local time.
+
+2\. The aggregated weekly data referred to in paragraph 1 shall contain the following information in respect of each week of the calendar period concerned:
+
+(a) the weighted average price;
+
+(b) the total volume traded as referred to in Table 4 of Annex II;
+
+(c) the total number of transactions.
+
+3\. Transactions shall be aggregated per ISIN-code.
+
+4\. Where the weekday for the publications set out in paragraph 1 is not a working day, the publications shall be made on the following working day before 09:00 local time.
+
+### Article 12
+
+Application of post-trade transparency to certain transactions executed outside a trading venue
+
+(Article 21(1) of Regulation (EU) No 600/2014)
+
+The obligations set out in Article 21(1) of Regulation (EU) No 600/2014 shall not apply to transactions listed in Article 2(5) of Commission Delegated Regulation (EU) 2017/590 ( 2 ).
+
+## CHAPTER IV — PROVISIONS COMMON TO PRE-TRADE AND POST-TRADE TRANSPARENCY
+
+### Article 13
+
+Methodology to perform the transparency calculations
+
+(Article 9(1) and (2), Article 11(1) and Article 22(1) of Regulation (EU) No 600/2014)
+
+1\. For determining financial instruments or classes of financial instruments for which there is not a liquid market for the purposes of Article 6 and point (b) of paragraph 1 of Article 8, the following methodologies shall be applied across asset classes:
+
+(a) Static determination of liquidity for:
+
+(i) the asset class of securitised derivatives as defined in Table 4.1 of Annex III;
+
+(ii) the following sub-asset classes of equity derivatives: stock index options, stock index futures/forwards, stock options, stock futures/forwards, stock dividend options, stock dividend futures/forwards, dividend index options, dividend index futures/forwards, volatility index options, volatility index futures/forwards, ETF options, ETF futures/forwards and other equity derivatives as defined in Table 6.1 of Annex III;
+
+(iii) the asset class of foreign exchange derivatives as defined in Table 8.1 of Annex III;
+
+(iv) the sub-asset classes of other interest rate derivatives, other commodity derivatives, other credit derivatives, other C10 derivatives, other contracts for difference (CFDs), and other emission allowance derivatives as referred to in Tables 5.1, 7.1, 9.1, 10.1, 11.1 and 13.1 of Annex III.
+
+(b) Periodic assessment based on quantitative and, where applicable, qualitative liquidity criteria for:
+
+(iii) the asset-class of interest rate derivatives except the sub-asset class of other interest rate derivatives as defined in Table 5.1of Annex III;
+
+(iv) the following sub-asset classes of equity derivatives: swaps and portfolio swaps as defined in Table 6.1 of Annex III;
+
+(v) the asset-class of commodity derivatives except the sub-asset class of other commodity derivatives as defined in Table 7.1 of Annex III;
+
+(vi) the following sub-asset classes of credit derivatives: index credit default swaps and single name credit default swaps as defined in Table 9.1 of Annex III;
+
+(vii) the asset-class of C10 derivatives except the sub-asset class of other C10 derivatives as defined in Table 10.1 of Annex III;
+
+(viii) the following sub-asset classes of contracts for difference (CFDs): currency CFDs and commodity CFDs as defined in Table 11.1 of Annex III;
+
+(x) the asset-class of emission allowance derivatives except the sub-asset class of other emission allowance derivatives as defined in Table 13.1 of Annex III.
+
+(c) Periodic assessment based on qualitative liquidity criteria for:
+
+(i) the following sub-asset classes of credit derivatives: CDS index options and single name CDS options as defined in Table 9.1 of Annex III;
+
+(ii) the following sub-asset classes of contracts for difference (CFDs): equity CFDs, bond CFDs, CFDs on an equity future/forward and CFDs on an equity option as defined in Table 11.1 of Annex III.
+
+2\. For determining the orders that are large in scale compared with normal market size as referred to in Article 3, the following methodologies shall be applied:
+
+(a) the threshold value for:
+
+(ii) the asset class of securitised derivatives as defined in Table 4.2 of Annex III;
+
+(iii) each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III;
+
+(iv) each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III;
+
+(v) each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III;
+
+(vi) each sub-asset class considered not to have a liquid market for the asset classes of emission allowance derivatives as referred to in Table 13.3 of Annex III.
+
+(b) the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile and the threshold floor for:
+
+(ii) each sub-class having a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and CFDs as defined in Tables 5.2, 7.2, 9.2, 10.2 and 11.2 of Annex III;
+
+(iii) each sub-asset class having a liquid market for the asset classes of emission allowance derivatives as referred to in Table 13.2 of Annex III;
+
+3\. For the determination of the size specific to the financial instrument referred to in Article 8(1)(c) and transactions that are large in scale compared with normal market size referred to in Article 8(1)(a), the following methodologies shall be applied:
+
+(a) the threshold value for:
+
+(ii) the asset class of securitised derivatives as defined in Table 4.2 of Annex III;
+
+(iii) each sub-class of equity derivatives as defined in Tables 6.2 and 6.3 of Annex III;
+
+(iv) each sub-class of foreign exchange derivatives as defined in Table 8.2 of Annex III;
+
+(v) each sub-class considered not to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and contracts for difference (CFDs) as defined in Tables 5.3, 7.3, 9.3, 10.3 and 11.3 of Annex III;
+
+(vi) each sub-asset class considered not to have a liquid market for the asset class of emission allowance derivatives as referred to in Table 13.3 of Annex III;
+
+(c) the greatest of the trade size below which lies the percentage of the transactions corresponding to the trade percentile, the trade size below which lies the percentage of volume corresponding to the volume percentile and the threshold floor for each sub-class considered to have a liquid market for the asset classes of interest rate derivatives, commodity derivatives, credit derivatives, C10 derivatives and CFDs as provided in Tables 5.2, 7.2, 9.2, 10.2 and 11.2 of Annex III;
+
+(d) the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile and the threshold floor for each sub-asset class considered to have a liquid market for emission allowance derivatives as provided for in Table 13.2 of Annex III.
+
+4\. For the purpose of paragraph 3(c) where the trade size corresponding to the volume percentile for the determination of the transaction that is large in scale compared with normal market size is higher than the 97,5 trade percentile, the trade volume shall not be taken into consideration and the size specific to the financial instrument referred to in Article 8(1)(c) and the size of transactions large in scale compared with normal market size referred to in Article 8(1)(a) shall be determined as the greater of the trade size below which lies the percentage of the transactions corresponding to the trade percentile and the threshold floor.
+
+5\. In accordance with Delegated Regulations (EU) 2017/590 and (EU) 2017/577 competent authorities shall collect on a daily basis the data from trading venues, APAs and CTPs which is necessary to perform the calculations to determine:
+
+(a) the financial instruments and classes of financial instruments not having a liquid market as set out in paragraph 1;
+
+(b) the sizes large in scale compared to normal market size and the size specific to the instrument as set out in paragraph 3.
+
+The data referred to in the first subparagraph shall be collected in accordance with Annex V.
+
+6\. Competent authorities performing the calculations for a class of financial instruments shall establish cooperation arrangements between each other as to ensure the aggregation of the data across the Union necessary for the calculations.
+
+7\. For the purposes of paragraph 1, point (b), paragraph 2, point (b), and paragraph 3, points (c) and (d), competent authorities shall take into account transactions executed in the Union between 1 January and 31 December of the preceding year.
+
+8\. The trade size for the purpose of paragraph 2, point (b), and paragraph 3, points (c) and (d), shall be determined on the basis of the measure of volume as specified in Table 4 of Annex II. Where the trade size specified for the purposes of paragraphs 2 and 3 is expressed in monetary value and the financial instrument is not denominated in euros, the trade size shall be converted to the currency in which that financial instrument is denominated by applying the European Central Bank euro foreign exchange reference rate as of 31 December of the preceding year.
+
+9\. Market operators and investment firms operating a trading venue may convert the trade sizes determined according to paragraphs 2 and 3 to the corresponding number of lots as defined in advance by that trading venue for the respective sub-class or sub-asset class. Market operators and investment firms operating a trading venue may maintain such trade sizes until application of the results of the next calculations performed in accordance to paragraph 17.
+
+11\. For the determinations referred to in paragraphs 2 and 3, whenever the number of transactions considered for calculations is smaller than 1 000 , paragraph 2, point (b), and paragraph 3, points (c) and (d), shall not apply. In those cases, the threshold values specified in paragraph 2, point (a), and paragraph 3, point (a), shall instead apply.
+
+12\. Except when they refer to emission allowance derivatives, the calculations referred to in paragraph 2, point (b), and paragraph 3, point (c), shall be rounded up to the next:
+
+(a) 100 000 where the threshold value is smaller than 1 million;
+
+(b) 500 000 where the threshold value is equal to or greater than 1 million but smaller than 10 million;
+
+(c) 5 million where the threshold value is equal to or greater than 10 million but smaller than 100 million;
+
+(d) 25 million where the threshold value is equal to or greater than 100 million.
+
+13\. For the purpose of paragraph 1, the quantitative liquidity criteria specified for each asset class in Annex III shall be determined according to Section 1 of Annex III.
+
+14\. For equity derivatives that are admitted to trading or first traded on a trading venue, that do not belong to a sub-class for which the size specific to the financial instrument referred to in Article 8(1)(c) and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1)(a) have been published, and which belong to one of the sub-asset classes specified in paragraph 1(a)(ii), the size specific to the financial instrument and the size of orders and transactions large in scale compared with normal market size shall be those applicable to the smallest average daily notional amount (ADNA) band of the sub-asset class to which the equity derivative belongs.
+
+15\. Financial instruments admitted to trading or first traded on a trading venue which do not belong to any sub-class for which the size specific to the financial instrument referred to in Article 8(1), point (c), and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1), point (a), have been published shall be considered not to have a liquid market until application of the results of the calculations performed in accordance with paragraph 17. The applicable size specific to the financial instrument referred to in Article 8(1), point (c), and the size of orders and transactions large in scale compared with normal market size referred to in Article 3 and Article 8(1), point (a), shall be those of the sub-classes determined not to have a liquid market belonging to the same sub-asset class.
+
+16\. After the end of the trading day but before the end of that day, trading venues shall submit to competent authorities the details included in Annex IV for performing the calculations referred to in paragraph 5 whenever the financial instrument is admitted to trading or first traded on that trading venue or whenever the details previously provided have changed.
+
+17\. Competent authorities shall ensure the publication of the results of the calculations referred to under paragraph 5 for each financial instrument and class of financial instrument by 30 April of the year following the date of application of Regulation (EU) No 600/2014 and by 30 April of each year thereafter. The results of the calculations shall apply from the first Monday of June each year following publication until the day before the first Monday of June of the subsequent year.
+
+### Article 14
+
+Transactions to which the exemption in Article 1(6) of Regulation (EU) No 600/2014 applies
+
+(Article 1(6) of Regulation (EU) No 600/2014)
+
+A transaction shall be considered to be entered into by a member of the European System of Central Banks (ESCB) in performance of monetary, foreign exchange and financial stability policy where that transaction meets any of the following requirements:
+
+(a) the transaction is carried out for the purposes of monetary policy, including an operation carried out in accordance with Articles 18 and 20 of the Statute of the European System of Central Banks and of the European Central Bank annexed to the Treaty on European Union or an operation carried out under equivalent national provisions for members of the ESCB in Member States whose currency is not the euro;
+
+(b) the transaction is a foreign-exchange operation, including operations carried out to hold or manage official foreign reserves of the Member States or the reserve management service provided by a member of the ESCB to central banks in other countries to which the exemption has been extended in accordance with Article 1(9) of Regulation (EU) No 600/2014;
+
+(c) the transaction is carried out for the purposes of financial stability policy.
+
+### Article 15
+
+Transactions to which the exemption in Article 1(6) of Regulation (EU) No 600/2014 does not apply
+
+(Article 1(7) of Regulation (EU) No 600/2014)
+
+Article 1(6) of Regulation (EU) No 600/2014 shall not apply to the following types of transactions entered into by a member of the ESCB for the performance of an investment operation that is unconnected with that member's performance of one of the tasks referred to in Article 14:
+
+(a) transactions entered into for the management of its own funds;
+
+(b) transactions entered into for administrative purposes or for the staff of the member of the ESCB which include transactions conducted in the capacity as administrator of a pension scheme for its staff;
+
+(c) transactions entered into for its investment portfolio pursuant to obligations under national law.
+
+### Article 16
+
+Temporary suspension of transparency obligations
+
+(Article 9(4) of Regulation (EU) No 600/2014)
+
+1\. For financial instruments for which there is a liquid market, as determined on the basis of the methodology set out in Article 6a for bonds, structured finance products and emission allowances, and in Article 13 for derivatives, competent authorities may temporarily suspend the obligations set out in Articles 8, 8a and 10 of Regulation (EU) No 600/2014 where for a class of bonds, structured finance products, emission allowances or derivatives, the total volume as referred to in Table 4 of Annex II calculated for the previous 30 calendar days represents less than 40 % of the average monthly volume calculated for the 12 full calendar months preceding those 30 calendar days.
+
+2\. For financial instruments for which there is not a liquid market, as determined on the basis of the methodology set out in Article 6a for bonds, structured finance products and emission allowances, and in Article 13 for derivatives, competent authorities may temporarily suspend the obligations referred to in Articles 8, 8a and 10 of Regulation (EU) No 600/2014 where for a class of bonds, structured finance products, emission allowances or derivatives, the total volume as referred to in Table 4 of Annex II calculated for the previous 30 calendar days represents less than 20 % of the average monthly volume calculated for the 12 full calendar months preceding those 30 calendar days.
+
+3\. Competent authorities shall take into account the transactions executed on all venues in the Union for the class of bonds, structured finance products, emission allowances or derivatives concerned when performing the calculations referred to in paragraphs 1 and 2. Competent authorities shall perform those calculations at the level of the class of financial instruments to which the liquidity test set out in Article 6a for bonds, structured finance products and emission allowances, and Article 13 for derivatives is applied.
+
+4\. Competent authorities, shall, before they suspend transparency obligations, verify that the significant decline in liquidity across all venues is not the result of seasonal effects of the relevant class of financial instruments on liquidity.
+
+### Article 19 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 3 January 2018. However, Article 18 shall apply from the date of the entry of force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Types of system and the related information to be made public in accordance with Article 2
+
+| Type of system | Information to be made public |
+| --- | --- |
+| Continuous order book trading system | For each financial instrument, the aggregate number of orders and the volume they represent at each price level, for at least the five best bid and offer price levels. |
+| Periodic auction trading system | For each financial instrument, the price at which the auction trading system would best satisfy its trading algorithm and the volume that would potentially be executable at that price by participants in that system. |
+
+## ANNEX II
+
+**Details of transactions to be made available to the public**
+
+**Table 1**
+
+**Symbol table for Table 2**
+
+| SYMBOL | DATA TYPE | DEFINITION |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field. |
+| {CURRENCYCODE_3} | 3 alphanumerical characters | 3 letter currency code, as defined by ISO 4217 currency codes |
+| {DATE_TIME_FORMAT} | ISO 8601 date and time format | Date and time in the following format: YYYY-MM-DDThh:mm:ss.ddddddZ. Where: — ‘YYYY’ is the year; — ‘MM’ is the month; — ‘DD’ is the day; — ‘T’ — means that the letter ‘T’ shall be used — ‘hh’ is the hour; — ‘mm’ is the minute; — ‘ss.dddddd’ is the second and its fraction of a second; — Z is UTC time. Dates and times shall be reported in UTC. |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total of which up to m digits can be fraction digits | Numerical field for both positive and negative values: — decimal separator is ‘.’ (full stop); — negative numbers are prefixed with ‘-’ (minus). Where applicable, values shall be rounded and not truncated. |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+
+**Table 2**
+
+**List of details for the purpose of post-trade transparency**
+
+The field names (column headers) as published shall be identical to the field identifier provided in Table 2.
+
+<table>
+<tbody><tr><td>#</td><td>Field identifier</td><td>Financial instruments</td><td>Description and details to be published</td><td>Type of execution or publication venue</td><td>Format to be populated as specified in Table 1</td></tr>
+<tr><td>1</td><td>Trading date and time</td><td>For all financial instruments</td><td>Date and time when the transaction was executed. For transactions executed on a trading venue, the level of granularity shall be in accordance with the requirements set out in Article 12 of Commission Delegated Regulation (EU) 2025/1155 (1).  For transactions not executed on a trading venue, the date and time shall be when the parties agree the content of the following fields: quantity, price, currencies, as specified in fields 31, 34 and 44 of Table 2 of Annex I to Delegated Regulation (EU) 2017/590, instrument identification code, instrument classification and underlying instrument code, where applicable. For transactions not executed on a trading venue the time reported shall be granular to at least the nearest second.  Where the transaction results from an order transmitted by the executing firm on behalf of a client to a third party where the conditions for transmission set out in Article 4 of Delegated Regulation (EU) 2017/590 were not satisfied, this shall be the date and time of the transaction rather than the time of the order transmission. </td><td>Regulated Market (RM) Multilateral Trading Facility (MTF),  Organised Trading Facility (OTF)  Approved Publication Arrangement (APA) </td><td>{DATE_TIME_FORMAT}</td></tr>
+<tr><td>2</td><td>Instrument identification code</td><td>For all financial instruments</td><td>Code used to identify the financial instrument</td><td>RM, MTF, OTF, APA</td><td>{ISIN}</td></tr>
+<tr><td>3</td><td>Price</td><td>For all financial instruments</td><td>Traded price of the transaction excluding, where applicable, commission and accrued interest. The traded price shall be reported in accordance with standard market convention. The value provided in this field shall be consistent with the value provided in the field ‘Price Notation’.  Where price is currently not available but pending (‘PNDG’) or not applicable (‘NOAP’), this field shall not be populated. </td><td>RM, MTF, OTF, APA</td><td>{DECIMAL-18/13} in case the price is expressed as monetary value {DECIMAL-11/10} in case the price is expressed as percentage or yield  {DECIMAL-18/17} in case the price is expressed as basis points </td></tr>
+<tr><td>4</td><td>Missing Price</td><td>For all financial instruments</td><td>Where price is currently not available but pending, the value shall be ‘PNDG’. Where price is not applicable the value shall be ‘NOAP’. </td><td>RM, MTF, OTF, APA</td><td>‘PNDG’ in case the price is not available ‘NOAP’ in case the price is not applicable </td></tr>
+<tr><td>5</td><td>Price currency</td><td>For all financial instruments</td><td>Major currency in which the price is expressed (applicable if the price is expressed as monetary value).</td><td>RM, MTF, OTF, APA</td><td>{CURRENCY CODE_3}</td></tr>
+<tr><td>6</td><td>Price notation</td><td>For all financial instruments</td><td>Indication as to whether the price is expressed in monetary value, in percentage, in basis points or in yield The price notation shall be reported in accordance with standard market convention.  For credit default swaps, this field shall be populated with ‘BAPO’.  For bonds (other than ETNs and ETCs) this field shall be populated with percentage (PERC) of the notional amount. Where a price in percentage is not the standard market convention, it shall be populated with YIEL, BAPO or MONE, in accordance with the standard market convention.  The value provided in this field shall be consistent with the value provided in the field ‘Price’.  Where the price is reported in monetary terms, it shall be provided in the major currency unit.  Where the price is currently not available but pending (‘PNDG’) or not applicable (‘NOAP’), this field shall not be populated. </td><td>RM, MTF, OTF, APA</td><td>‘MONE’ – Monetary value ‘PERC’ – Percentage  ‘YIEL’ – Yield  ‘BAPO’ – Basis points </td></tr>
+<tr><td>7</td><td>Quantity</td><td>For all financial instruments except in the cases described under Article 11(1), points (a) and (b) of this Regulation.</td><td>For financial instruments traded in units, the number of units of the financial instrument. Empty otherwise.</td><td>RM, MTF, OTF, APA</td><td>{DECIMAL-18/17}</td></tr>
+<tr><td>8</td><td>Quantity in measurement unit</td><td>For contracts designated in units in commodity derivatives, C10 derivatives, emission allowance derivatives and emission allowances except in the cases described under Article 11(1), points (a) and (b), of this Regulation.</td><td>The equivalent amount of commodity or emission allowance traded expressed in measurement unit.</td><td>RM, MTF, OTF, APA</td><td>{DECIMAL-18/17}</td></tr>
+<tr><td>9</td><td>Notation of the quantity in measurement unit</td><td>For contracts designated in units in commodity derivatives, C10 derivatives, emission allowance derivatives and emission allowances except in the cases described under Article 11(1), points (a) and (b), of this Regulation</td><td>Indication of the notation in which the quantity in measurement unit is expressed.</td><td>RM, MTF, OTF, APA</td><td>‘TOCD’ – tonnes of carbon dioxide equivalent, for any contract related to emission allowances ‘TONE’ – metric tonnes  ‘MWHO’ – megawatt hours  ‘MBTU’ – one million British thermal units  ‘THMS’ – Therms  ‘DAYS’– days or  {ALPHANUM-4}  otherwise </td></tr>
+<tr><td>10</td><td>Notional amount</td><td>For all financial instruments except in the cases described under Article 11(1), points (a) and (b), of this Regulation.</td><td>This field shall be populated: (i) for bonds (excluding ETCs and ETNs), with the face value, which is the amount repaid at redemption to the investor;  (ii) for ETCs and ETNs and securitised derivatives, with the number of instruments exchanged between the buyers and sellers multiplied by the price of the instrument exchanged for that specific transaction. Equivalently, with the price field multiplied by the quantity field;  (iii) for structured finance products (SFPs), with the nominal value per unit multiplied by the number of instruments at the time of the transaction;  (iv) for credit default swaps, with the notional amount for which the protection is acquired or disposed of;  (v) for options, swaptions, swaps other than those in (iv), futures and forwards, with the notional amount of the contract;  (vi) for emission allowances, with the resulting amount of the quantity at the relevant price set in the contract at the time of the transaction. Equivalently, with the price field multiplied by the quantity in measurement unit field;  (vii) for spread bets, with the monetary value wagered per point movement in the underlying financial instrument at the time of the transaction;  (viii) for contracts for difference, with the number of instruments exchanged between the buyers and sellers multiplied by the price of the instrument exchanged for that specific transaction. Equivalently, with the price field multiplied by the quantity field. </td><td>RM, MTF, OTF, APA</td><td>{DECIMAL-18/5}</td></tr>
+<tr><td>11</td><td>Notional currency</td><td>For all financial instruments except in the cases described under Article 11(1), points (a) and (b), of this Regulation.</td><td>Major currency in which the notional amount is denominated. In the case of an FX derivative contract or a multi-currency swap or a swaption where the underlying swap is multi-currency or a currency CFD or spread-betting contract, this will be the notional currency of leg 1. </td><td>RM, MTF, OTF, APA</td><td>{CURRENCY CODE_3}</td></tr>
+<tr><td>12</td><td>[deleted]</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>13</td><td>Venue of execution</td><td>For all financial instruments</td><td>Identification of the venue where the transaction was executed. Use the ISO 10383 segment MIC for transactions executed on an EU trading venue. Where the segment MIC does not exist, use the operating MIC.  Use ‘SINT’ for financial instruments admitted to trading or traded on a trading venue, where the transaction on that financial instrument is executed on a Systematic Internaliser.  Use MIC code ‘XOFF’ for financial instruments admitted to trading or traded on a trading venue, where the transaction on that financial instrument is neither executed on an EU trading venue nor executed by a systematic internaliser. If the transaction is executed on an organised trading platform outside of the EU then in addition to ‘XOFF’ also the population of the field ‘Third-country trading venue of execution’ is required. </td><td>RM, MTF, OTF, APA</td><td>{MIC} – EU trading venues or ‘SINT’ – systematic internaliser  ‘XOFF’ – otherwise </td></tr>
+<tr><td>14</td><td>Third-country trading venue of execution</td><td>For all financial instruments</td><td>Identification of the third-country trading venue where the transaction was executed. Use the ISO 10383 segment MIC. Where the segment MIC does not exist, use the operating MIC.  Where the transaction is not executed on a third- country trading venue, the field shall not be populated. </td><td>APA</td><td>{MIC}</td></tr>
+<tr><td>15</td><td>Publication Date and Time</td><td>For all financial instruments</td><td>Date and time when the transaction was published by a trading venue or APA. For transactions executed on a trading venue, the level of granularity shall be in accordance with the requirements set out in Article 12 of Delegated Regulation (EU) 2025/1155.  For transactions not executed on a trading venue, the time reported shall be granular to at least the nearest second. </td><td>RM, MTF, OTF, APA</td><td>{DATE_TIME_FORMAT}</td></tr>
+<tr><td>16</td><td>Venue of publication</td><td>For all financial instruments</td><td>Code used to identify the trading venue and APA publishing the transaction.</td><td>RM, MTF, OTF, APA</td><td>{MIC}</td></tr>
+<tr><td>17</td><td>Transaction Identification Code</td><td>For all financial instruments</td><td>Alphanumerical code assigned by trading venues (pursuant to Article 12 of Commission Delegated Regulation (EU) 2017/580 (2) and APAs and used in any subsequent reference to the specific trade.</td><td>RM, MTF, OTF, APA</td><td>{ALPHANUMERICAL-52}</td></tr>
+<tr><td>18</td><td>Transaction to be cleared</td><td>For derivatives</td><td>Code to identify whether the transaction will be cleared.</td><td>RM, MTF, OTF, APA</td><td>‘TRUE’ – transaction to be cleared ‘FALSE’ – transaction not to be cleared </td></tr>
+<tr><td>19</td><td>Flags</td><td>For all financial instruments</td><td>One or multiple fields should be populated with the applicable flags as described in Table 3 of Annex II. Where none of the specified circumstances apply, the transaction should be published without a flag.  Where a combination of flags is possible and reported in one field, the flags should be reported separated by commas. </td><td>RM, MTF, OTF, APA</td><td>As specified in Table 3 of Annex II</td></tr>
+<tr><td>20</td><td>Trading System</td><td>For all financial instruments</td><td>Type of trading system on which the transaction was executed. When the field ‘Venue of execution’ is populated with ‘SINT’ or ‘XOFF’, this field shall not be populated. </td><td>RM, MTF, OTF</td><td>‘CLOB’ – central limit order book trading system. ‘QDTS’ – quote driven trading systems, meaning a system where transactions are concluded on the basis of firm quotes that are continuously made available to participants, which requires the market makers to maintain quotes in a size that balances the needs of members and participants to deal in a commercial size and the risk to which the market maker exposes itself.  ‘PATS’ – periodic auction trading systems.  ‘RFQT’ – request for quote trading systems, meaning a trading system where a quote or quotes are provided in response to a request for a quote submitted by one or more other members or participants. The quote is executable exclusively by the requesting member or market participant. The requesting member or participant may conclude a transaction by accepting the quote or quotes provided to it on request.  ‘VOIC’ – voice trading system, meaning a trading system where transactions between members are arranged through voice negotiation.  ‘HYBR’ – hybrid trading system meaning a system falling into two or more of the types of trading systems referred to above.  ‘OTHR’ – any other trading system, meaning any other type of trading system not covered above. </td></tr>
+<tr><td>21</td><td>Number of transactions</td><td>For sovereign debt instruments</td><td>This field should be populated with the number of transactions executed when deferred publication of details of several tpransactions in an aggregated form is required under Article 11(3)(b) of Regulation (EU) No 600/2014.</td><td>RM, MTF, OTF, APA</td><td>{DECIMAL-18/17}</td></tr>
+<tr><td colspan="6">(1)  Commission Delegated Regulation (EU) 2025/1155 of 12 June 2025 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards specifying the input and output data of consolidated tapes, the synchronisation of business clocks and the revenue redistribution by the consolidated tape provider for shares and ETFs, and repealing Commission Delegated Regulation (EU) 2017/574 (OJ L, 2025/1155, 3.11.2025, ELI: http://data.europa.eu/eli/reg_del/2025/1155/oj).  (2)  Commission Delegated Regulation (EU) 2017/580 of 24 June 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the maintenance of relevant data relating to orders in financial instruments (OJ L 87, 31.3.2017, p. 193, ELI: http://data.europa.eu/eli/reg_del/2017/580/oj). </td></tr>
+</tbody>
+</table>
+
+**Table 3**
+
+**List of flags for the purpose of post-trade transparency**
+
+<table>
+<tbody><tr><td colspan="4">POST-TRADE DEFERRAL FLAGS FOR DERIVATIVES</td></tr>
+<tr><td>Flag</td><td>Name</td><td>Type of execution or publication venue</td><td>Description</td></tr>
+<tr><td>‘LRGS’</td><td>Post-trade LIS transaction flag</td><td>RM, MTF, OTF, APA</td><td>Transactions executed under the post-trade large in scale deferral</td></tr>
+<tr><td>‘ILQD’</td><td>Illiquid instrument transaction flag</td><td>RM, MTF, OTF, APA</td><td>Transactions executed under the deferral for instruments for which there is not a liquid market</td></tr>
+<tr><td>‘SIZE’</td><td>Post-trade SSTI transaction flag</td><td>RM, MTF, OTF, APA</td><td>Transactions executed under the post-trade size specific to the instrument deferral</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">POST-TRADE DEFERRAL FLAGS FOR BONDS (EXCEPT ETCs AND ETNs)</td></tr>
+<tr><td>Flag</td><td>Name</td><td>Type of execution or publication venue</td><td>Description</td></tr>
+<tr><td>‘MLF1’</td><td>Medium Liquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a medium size in a financial instrument for which there is a liquid market in accordance with Article 8a(1)(a) of this Regulation.</td></tr>
+<tr><td>‘MIF2’</td><td>Medium Illiquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a medium size in a financial instrument for which there is not a liquid market in accordance with Article 8a(1)(b) of this Regulation.</td></tr>
+<tr><td>‘LLF3’</td><td>Large Liquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a large size in a financial instrument for which there is a liquid market in accordance with Article 8a(1)(c) of this Regulation.</td></tr>
+<tr><td>‘LIF4’</td><td>Large Illiquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a large size in a financial instrument for which there is not a liquid market in accordance with Article 8a(1)(d) of this Regulation.</td></tr>
+<tr><td>‘VLF5’</td><td>Very Large Liquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a very large size in a financial instrument for which there is a liquid market in accordance with Article 8a(1)(e) of this Regulation.</td></tr>
+<tr><td>‘VIF5’</td><td>Very Large Illiquid Flag</td><td>RM, MTF, OTF, APA</td><td>Transactions in bonds benefiting from a deferral applicable to transactions of a very large size in a financial instrument for which there is not a liquid market in accordance with Article 8a(1)(e) of this Regulation.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">POST-TRADE DEFERRAL FLAGS FOR ETCs, ETNs, SFPs AND EMISSION ALLOWANCES</td></tr>
+<tr><td>Flag</td><td>Name</td><td>Type of execution or publication venue</td><td>Description</td></tr>
+<tr><td>‘DEFF’</td><td>Deferral for ETCs, ETNs, SFPs and emission allowances</td><td>RM, MTF, OTF, APA</td><td>Transactions in ETCs, ETNs, SFPs and emission allowances, which benefit from a deferral as specified under Article 8a(2) and (3) of this Regulation.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="5">SUPPLEMENTARY DEFERRAL FLAGS FOR DERIVATIVES</td></tr>
+<tr><td rowspan="2">Article 11(1), point (a)(i)</td><td>‘LMTF’</td><td>Limited details flag</td><td>RM, MTF, OTF, APA</td><td>First report with publication of limited details in accordance with Article 11(1), point (a)(i).</td></tr>
+<tr><td>‘FULF’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Transaction for which limited details have been previously published in accordance with Article 11(1), point (a)(i).</td></tr>
+<tr><td rowspan="2">Article 11(1), point (a)(ii)</td><td>‘DATF’</td><td>Daily aggregated transaction flag</td><td>RM, MTF, OTF, APA</td><td>Publication of daily aggregated transaction in accordance with Article 11(1), point (a)(ii).</td></tr>
+<tr><td>‘FULA’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Individual transactions for which aggregated details have been previously published in accordance with Article 11(1), point (a)(ii).</td></tr>
+<tr><td rowspan="2">Article 11(1), point (b)</td><td>‘VOLO’</td><td>Volume omission flag</td><td>RM, MTF, OTF, APA</td><td>Transaction for which limited details are published in accordance with Article 11(1), point (b).</td></tr>
+<tr><td>‘FULV’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Transaction for which limited details have been previously published in accordance with Article 11(1), point (b).</td></tr>
+<tr><td rowspan="2">Article 11(1), point (c)</td><td>‘FWAF’</td><td>Four weeks aggregation flag</td><td>RM, MTF, OTF, APA</td><td>Publication of aggregated transactions in accordance with Article 11(1), point (c).</td></tr>
+<tr><td>‘FULJ’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Individual transactions which have previously benefited from aggregated publication in accordance with Article 11(1), point (c).</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="5">SUPPLEMENTARY DEFERRAL FLAGS FOR SOVEREIGN BONDS</td></tr>
+<tr><td rowspan="2">Article 11(3)(a)</td><td>‘OMIS’</td><td>Volume omission flag</td><td>RM, MTF, OTF, APA</td><td>Transaction for which limited details are published in accordance with Article 11(3), point (a) of Regulation (EU) No 600/2014.</td></tr>
+<tr><td>‘FULO’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Transaction for which limited details have been previously published in accordance with Article 11(3), point (a) of Regulation (EU) No 600/2014.</td></tr>
+<tr><td rowspan="2">Article 11(3)(b)</td><td>‘AGFW’</td><td>Four weeks aggregation flag</td><td>RM, MTF, OTF, APA</td><td>Publication of aggregated transactions in accordance with Article 11(3), point (b) of Regulation (EU) No 600/2014.</td></tr>
+<tr><td>‘FULG’</td><td>Full details flag</td><td>RM, MTF, OTF, APA</td><td>Individual transactions which have previously benefited from aggregated publication in accordance with Article 11(3), point (b) of Regulation (EU) No 600/2014.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">OTHER FLAGS</td></tr>
+<tr><td>Flag</td><td>Name</td><td>Type of execution or publication venue</td><td>Description</td></tr>
+<tr><td>‘BENC’</td><td>Benchmark transaction flag</td><td>RM, MTF, OTF, APA</td><td>Transactions executed in reference to a price that is calculated over multiple time instances according to a given benchmark, such as volume-weighted average price or time-weighted average price.</td></tr>
+<tr><td>‘NPFT’</td><td>Non-price forming transaction flag</td><td>RM, MTF, OTF, APA</td><td>Non-price forming transactions as set out in Article 2(5) of Delegated Regulation (EU) 2017/590.</td></tr>
+<tr><td>‘TPAC’</td><td>Package transaction flag</td><td>RM, MTF, OTF, APA</td><td>Package transactions, which are not exchange for physicals, as defined in Article 2(1)(50), point (b) of Regulation (EU) No 600/2014.</td></tr>
+<tr><td>‘XFPH’</td><td>Exchange for physicals transaction flag</td><td>RM, MTF, OTF, APA</td><td>Exchange for physicals as defined in Article 2(1), point (48), of Regulation (EU) No 600/2014.</td></tr>
+<tr><td>‘CANC’</td><td>Cancellation flag</td><td>RM, MTF, OTF, APA</td><td>When a previously published transaction is cancelled.</td></tr>
+<tr><td>‘AMND’</td><td>Amendment flag</td><td>RM, MTF, OTF, APA</td><td>When a previously published transaction is amended.</td></tr>
+<tr><td>‘PORT’</td><td>Portfolio trade flag</td><td>RM, MTF, OTF, APA</td><td>Transaction in five or more different financial instruments where those transactions are traded at the same time by the same client and against a single lot price and that is not a ‘package transaction’ as defined in Article 2(1), point (50), of Regulation (EU) No 600/2014.</td></tr>
+<tr><td>‘MTCH’</td><td>Matched principal trading flag</td><td>OTF</td><td>Matched principal transactions as set out in Article 4(1)(38) of Directive 2014/65/EU.</td></tr>
+<tr><td>‘NEGO’</td><td>Negotiated transaction flag</td><td>RM, MTF, OTF</td><td>Transactions which are negotiated privately but reported under the rules of a trading venue.</td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Measure of volume**
+
+| Type of instrument | Volume |
+| --- | --- |
+| All bonds except ETCs and ETNs and structured finance products | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| ETCs and ETNs bond types | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Securitised derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Interest rate derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Foreign Exchange Derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Equity derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Commodity derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Credit derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Contract for differences | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| C10 derivatives | ‘Notional amount’ of the traded contract as per field 10 of Table 2 of Annex II of this Regulation. |
+| Emission allowance derivatives | ‘Quantity in measurement unit’ as per field 8 of Table 2 of Annex II of this Regulation. |
+| Emission allowances | ‘Quantity in measurement unit’ as per field 8 of Table 2 of Annex II of this Regulation. |
+
+## ANNEX III
+
+**Liquidity assessment, LIS and SSTI thresholds for non-equity financial instruments**
+
+**1\. Instructions for the purpose of this annex**
+
+1\. The reference to outstanding bond issuance size in Table 2.2 refers to the total value of bonds that have been issued and are currently held by investors.
+
+2\. A reference to an ‘asset class’ means a reference to the following classes of financial instruments: bonds, structured finance products, securitised derivatives, interest rate derivatives, equity derivatives, commodity derivatives, foreign exchange derivatives, credit derivatives, C10 derivatives, CFDs, emission allowances and emission allowance derivatives.
+
+3\. A reference to a ‘sub-asset class’ means a reference to an asset class segmented to a more granular level on the basis of the contract type and/or the type of underlying.
+
+4\. A reference to a ‘sub-class’ means a reference to a sub-asset class segmented to a more granular level on basis of further qualitative segmentation criteria as set out in Tables 2.2 to 13.3 of this Annex.
+
+5\. ‘Average daily notional amount (ADNA)’ means the total notional amount for a particular financial instrument determined according to the volume measure set out in Table 4 of Annex II and executed in the period set out in Article 13(7), divided by the number of trading days in that period or, where applicable, that part of the year during which the financial instrument was admitted to trading or traded on a trading venue and was not suspended from trading.
+
+6\. ‘Average daily number of trades’ means the total number of transactions executed for a particular financial instrument in the period set out in Article 13(7), divided by the number of trading days in that period or, where applicable, that part of the year during which the financial instrument was admitted to trading or traded on a trading venue and was not suspended from trading.
+
+7\. ‘Future’ means a contract to buy or sell a commodity or financial instrument at a designated future date at a price agreed upon at the initiation of the contract by the buyer and seller. Every futures contract has standard terms that dictate the minimum quantity and quality that can be bought or sold, the smallest amount by which the price may change, delivery procedures, maturity date and other characteristics related to the contract.
+
+8\. ‘Option’ means a contract that gives the owner the right, but not the obligation, to buy (call) or sell (put) a specific financial instrument or commodity at a predetermined price, strike or exercise price, at or up to a certain future date or exercise date.
+
+9\. ‘Swap’ means a contract in which two parties agree to exchange cash flows in one financial instrument for those of another financial instrument at a certain future date.
+
+10\. ‘Portfolio Swap’ means a contract by which end-users can trade multiple swaps.
+
+11\. ‘Forward’ or ‘Forward agreement’ means a private agreement between two parties to buy or sell a commodity or financial instrument at a designated future date at a price agreed upon at the initiation of the contract by the buyer and seller.
+
+12\. ‘Swaption’ or ‘Option on a swap’ means a contract that gives the owner the right, but not the obligation, to enter a swap at or up to a certain future date or exercise date.
+
+13\. ‘Future on a swap’ means a future contract that gives the owner the obligation, to enter a swap at or up to a certain future date.
+
+14\. ‘Forward on a swap’ means a forward contract that gives the owner the obligation, to enter a swap at or up to a certain future date.
+
+**2\. Bonds**
+
+**Table 2.2**
+
+**Bonds (all bond types except ETCs and ETNs) – classes not having a liquid market**
+
+Each individual bond shall be determined not to have a liquid market as per Article 6a if it is characterised by a specific combination of bond characteristics as specified in each row of the tables below.
+
+<table>
+<tbody><tr><td colspan="7">Sovereign and Other Public Bonds</td></tr>
+<tr><td>Group ID</td><td>MiFIR ID</td><td>Bond Type</td><td>Issuer or Issuer country</td><td>Remaining maturity</td><td>Type of coupon</td><td>Outstanding issuance size</td></tr>
+<tr><td>  </td><td>RTS2#3</td><td>RTS2#9</td><td>The country of the issuer reported under Commission Delegated Regulation (EU) 2017/585 (1) (‘RTS23’) field ‘Issuer or operator of the trading venue identifier’</td><td>The time remaining until the maturity date reported under RTS23 field ‘Maturity date’</td><td>The third letter of the CFI code reported under RTS23 field ‘Instrument classification’</td><td>RTS23 field ‘Total issued nominal amount’ converted to EUR</td></tr>
+<tr><td>G1</td><td>BOND</td><td>EUSB EUSB means a bond which is neither a convertible nor a covered bond and is issued by a sovereign issuer: (a) the Union; (b) a Member State including a government department, an agency or a special purpose vehicle of a Member State; (c) in the case of a federal Member State, a member of the federation; (d) a special purpose vehicle for several Member States; (e) an international financial institution established by two or more Member States which have the purpose of mobilising funding and providing financial assistance to the benefit of its members that are experiencing or are threatened by severe financial problems; (f) the European Investment Bank; (g) a sovereign entity of a third country. </td><td>The issuer country is a Member State, the United States of America or the United Kingdom; OR  The issuer is the Union. </td><td>Up to and including 10 years</td><td>F (fixed coupon)</td><td>Less than EUR 5 000 000 000 </td></tr>
+<tr><td>G2</td><td>BOND</td><td>EUSB or OEPB OEPB means a bond which is neither a convertible nor a covered bond and is issued by a public entity which is not a sovereign issuer. </td><td colspan="3">Any instrument not in G1</td><td>Less than EUR 1 000 000 000 </td></tr>
+<tr><td colspan="7">(1)  Commission Delegated Regulation (EU) 2017/585 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the data standards and formats for financial instrument reference data and technical measures in relation to arrangements to be made by the European Securities and Markets Authority and competent authorities (OJ L 87, 31.3.2017, p. 368, ELI: http://data.europa.eu/eli/reg_del/2017/585/oj). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="6">Corporate, Convertible and Other Bonds</td></tr>
+<tr><td>Group ID</td><td>MiFIR ID</td><td>Bond Type</td><td>Currency</td><td>Credit Rating</td><td>Outstanding issuance size</td></tr>
+<tr><td>  </td><td>RTS2#3</td><td>RTS2#9</td><td>The currency of the instrument reported under RTS23 field ‘Notional Currency 1’</td><td>  </td><td>RTS23 field ‘Total issued nominal amount’ converted to EUR</td></tr>
+<tr><td>G3</td><td>BOND</td><td>CRPB, CVTB or OTHR CRPB means a bond which is neither a convertible nor a covered bond and that is issued by a Societas Europaea established in accordance with Council Regulation (EC) No 2157/2001 (1) or a type of company listed in Annex I or Annex II of Directive 2013/34/EU of the European Parliament and of the Council (2) or equivalent in third countries.  CVTB means an instrument consisting of a bond or a securitised debt instrument with an embedded derivative, such as an option to buy the underlying equity. </td><td>EUR, GBP, USD</td><td>Investment Grade</td><td>Less than EUR 500 000 000 </td></tr>
+<tr><td>G4</td><td>BOND</td><td>CRPB, CVTB or OTHR</td><td colspan="2">Any instrument not in G3</td><td>Less than EUR 500 000 000 </td></tr>
+<tr><td colspan="6">(1)  Council Regulation (EC) No 2157/2001 of 8 October 2001 on the Statute for a European company (SE) (OJ L 294, 10.11.2001, p. 1, ELI: http://data.europa.eu/eli/reg/2001/2157/oj).  (2)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19, ELI: http://data.europa.eu/eli/dir/2013/34/oj). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">Covered bonds</td></tr>
+<tr><td>Group ID</td><td>MiFIR ID</td><td>Bond Type</td><td>Outstanding issuance size</td></tr>
+<tr><td>  </td><td>RTS2#3</td><td>RTS2#9</td><td>RTS23 field ‘Total issued nominal amount’ converted to EUR</td></tr>
+<tr><td>G5</td><td>BOND</td><td>CVDB CVDB means bonds as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the Council (1) </td><td>Less than EUR 500 000 000 </td></tr>
+<tr><td colspan="4">(1)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32, ELI: http://data.europa.eu/eli/dir/2009/65/oj). </td></tr>
+</tbody>
+</table>
+
+**Table 2.3**
+
+**Bonds (all bond types except ETCs and ETNs) – pre-trade LIS thresholds**
+
+<table>
+<tbody><tr><td colspan="2">Asset class – Bonds (all bond types except ETCs and ETNs)</td></tr>
+<tr><td>Bond type</td><td>Pre-trade LIS</td></tr>
+<tr><td>Sovereign Bond and Other Public Bond</td><td>EUR 5 000 000 </td></tr>
+<tr><td>Corporate Bond, Convertible Bond and Other Bond</td><td>EUR 1 000 000 </td></tr>
+<tr><td>Covered Bond</td><td>EUR 5 000 000 </td></tr>
+</tbody>
+</table>
+
+**Table 2.4**
+
+**Bonds (ETC and ETN bond types) – classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="2">Asset class – Bonds (ETC and ETN bond type)</td></tr>
+<tr><td colspan="2">For the purpose of determining the classes of financial instruments considered not to have a liquid market as per Article 6a the following methodology shall apply:</td></tr>
+<tr><td>Exchange Traded Commodities (ETCs) – RTS2#3 = ETCS: a debt instrument issued against a direct investment by the issuer in commodities or commodities derivative contracts. The price of an ETC is directly or indirectly linked to the performance of the underlying. An ETC passively tracks the performance of the commodity or commodity indices to which it refers.</td><td>All ETCs are considered not to have a liquid market</td></tr>
+<tr><td>Exchange Traded Notes (ETNs) – RTS2#3 = ETNS: a debt instrument issued against a direct investment by the issuer in the underlying or underlying derivative contracts. The price of an ETN is directly or indirectly linked to the performance of the underlying. An ETN passively tracks the performance of the underlying to which it refers.</td><td>All ETNs are considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 2.5**
+
+**Bonds (ETC and ETN bond types) – pre-trade LIS threshold**
+
+<table>
+<tbody><tr><td colspan="2">Asset class – Bonds (ETC and ETN bond type)</td></tr>
+<tr><td>Bond type</td><td>Pre-trade LIS</td></tr>
+<tr><td>ETCs</td><td>EUR 1 000 000 </td></tr>
+<tr><td>ETNs</td><td>EUR 1 000 000 </td></tr>
+</tbody>
+</table>
+
+**Table 2.6**
+
+**Bonds (all bond types except ETCs and ETNs) – deferral regime**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Bonds (all bond types except ETCs and ETNs)</td></tr>
+<tr><td>Bond type</td><td>Category</td><td>Liquidity</td><td>Size (Above or equal to)</td></tr>
+<tr><td rowspan="6">Sovereign Bond in G1 as per Table 2.2</td><td>1</td><td>Considered to have a liquid market</td><td>EUR 15 000 000 </td></tr>
+<tr><td>2</td><td>Considered not to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td>3</td><td>Considered to have a liquid market</td><td>EUR 50 000 000 </td></tr>
+<tr><td>4</td><td>Considered not to have a liquid market</td><td>EUR 15 000 000 </td></tr>
+<tr><td>5</td><td>Considered to have a liquid market</td><td>EUR 100 000 000 </td></tr>
+<tr><td>5</td><td>Considered not to have a liquid market</td><td>EUR 50 000 000 </td></tr>
+<tr><td rowspan="6">Sovereign Bond and Other Public Bond in G2 as per Table 2.2</td><td>1</td><td>Considered to have a liquid market</td><td>EUR 10 000 000 </td></tr>
+<tr><td>2</td><td>Considered not to have a liquid market</td><td>EUR 1 000 000 </td></tr>
+<tr><td>3</td><td>Considered to have a liquid market</td><td>EUR 20 000 000 </td></tr>
+<tr><td>4</td><td>Considered not to have a liquid market</td><td>EUR 2 000 000 </td></tr>
+<tr><td>5</td><td>Considered to have a liquid market</td><td>EUR 50 000 000 </td></tr>
+<tr><td>5</td><td>Considered not to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td rowspan="6">Corporate Bond, Convertible Bond and Other Bond in G3 as per Table 2.2</td><td>1</td><td>Considered to have a liquid market</td><td>EUR 1 500 000 </td></tr>
+<tr><td>2</td><td>Considered not to have a liquid market</td><td>EUR 500 000 </td></tr>
+<tr><td>3</td><td>Considered to have a liquid market</td><td>EUR 7 500 000 </td></tr>
+<tr><td>4</td><td>Considered not to have a liquid market</td><td>EUR 2 000 000 </td></tr>
+<tr><td>5</td><td>Considered to have a liquid market</td><td>EUR 15 000 000 </td></tr>
+<tr><td>5</td><td>Considered not to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td rowspan="6">Corporate Bond, Convertible Bond and Other Bond in G4 as per Table 2.2</td><td>1</td><td>Considered to have a liquid market</td><td>EUR 1 000 000 </td></tr>
+<tr><td>2</td><td>Considered not to have a liquid market</td><td>EUR 500 000 </td></tr>
+<tr><td>3</td><td>Considered to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td>4</td><td>Considered not to have a liquid market</td><td>EUR 2 000 000 </td></tr>
+<tr><td>5</td><td>Considered to have a liquid market</td><td>EUR 10 000 000 </td></tr>
+<tr><td>5</td><td>Considered not to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td rowspan="6">Covered Bonds in G5 as per Table 2.2</td><td>1</td><td>Considered to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td>2</td><td>Considered not to have a liquid market</td><td>EUR 1 000 000 </td></tr>
+<tr><td>3</td><td>Considered to have a liquid market</td><td>EUR 20 000 000 </td></tr>
+<tr><td>4</td><td>Considered not to have a liquid market</td><td>EUR 5 000 000 </td></tr>
+<tr><td>5</td><td>Considered to have a liquid market</td><td>EUR 50 000 000 </td></tr>
+<tr><td>5</td><td>Considered not to have a liquid market</td><td>EUR 10 000 000 </td></tr>
+</tbody>
+</table>
+
+**3\. Structured Finance Products (SFPs)**
+
+**Table 3.1**
+
+**SFPs – classes not having a liquid market**
+
+Asset class – Structured Finance Products (SFPs)
+
+SFPs asset-class assessment for the purpose of the determination of the financial instruments considered not to have a liquid market as per Article 6a – RTS2#3 = SFPS.
+
+All SFPs are considered not to have a liquid market
+
+**Table 3.2**
+
+**SFPs – pre-trade LIS threshold**
+
+Asset class – Structured Finance Products (SFPs)
+
+Pre-trade LIS
+
+EUR 250 000
+
+**4\. Securitised derivatives**
+
+**Table 4.1**
+
+**Securitised derivatives — classes not having a liquid market**
+
+Asset class – Securitised Derivatives
+
+means a transferable security as defined in Article 4(1)(44)(c) of Directive 2014/65/EU different from structured finance products and shall include at least:
+
+(a.1) plain vanilla covered warrants which mean securities issued by a financial institution giving the holder the right, but not the obligation, to
+
+(a) purchase, at or by the expiry date, a specific amount of the underlying asset at a predetermined strike price or, in case cash settlement has been fixed, receive the payment of the positive difference between the current market price and the strike price from the seller; or
+
+(b) sell, at or by the expiry date, a specific amount of the underlying asset at a predetermined strike price, or in case cash settlement has been fixed, receive the payment of the positive difference between the strike price and the current market price from the buyer;
+
+(a.2) warrants which mean securities issued by the same issuer of the underlying asset giving the holder the right, but not the obligation, to
+
+(a) purchase, at or by the expiry date, a specific amount of the underlying asset at a predetermined strike price or, in case cash settlement has been fixed, receive the payment of the positive difference between the current market price and the strike price from the seller; or
+
+(b) sell, at or by the expiry date, a specific amount of the underlying asset at a predetermined strike price, or in case cash settlement has been fixed, receive the payment of the positive difference between the strike price and the current market price from the buyer;
+
+(b) leverage certificates means certificates that track the performance of the underlying asset with leverage effect;
+
+(c) exotic covered warrants means covered warrants whose main component is a combination of options;
+
+(d) negotiable rights whose underlying is a non-equity instrument;
+
+(e) investment certificates means certificates that track the performance of the underlying asset without leverage effect.
+
+RTS2#3 = SDRV
+
+For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied
+
+all securitised derivatives are considered to have a liquid market
+
+**Table 4.2**
+
+**Securitised derivatives – pre- and post-trade SSTI and LIS thresholds**
+
+<table>
+<tbody><tr><td colspan="3">Asset class – Securitised Derivatives</td></tr>
+<tr><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+</tbody>
+</table>
+
+**5\. Interest rate derivatives**
+
+**Table 5.1**
+
+**Interest rate derivatives — classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="5">Asset class – Interest Rate Derivatives</td></tr>
+<tr><td colspan="5">any contract as defined in Annex I, Section C(4) of Directive 2014/65/EU whose ultimate underlying is an interest rate, a bond, a loan, any basket, portfolio or index including an interest rate, a bond, a loan or any other product representing the performance of an interest rate, a bond, a loan.</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="3">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1), point (b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria. For sub-classes determined to have a liquid market the additional qualitative liquidity criterion, where applicable, shall be applied</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td><td>Additional qualitative liquidity criterion</td></tr>
+<tr><td>Bond futures/forwards / Future on a bond future  / Forward on a bond future  Future on a bond  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FUTR  RTS2#16 = BOND  or  Forward on a bond  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FORW  RTS2#16 = BOND  or  Future on a bond future  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FUTR  RTS2#16 = BNFD  or  Forward on a bond future  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FORW  RTS2#16 = BNFD </td><td>a bond future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#17) — issuer of the underlying  Segmentation criterion 2 (RTS2#18) — term of the underlying deliverable bond defined as follows: Short-term: the underlying deliverable bond with a term up to 4 years shall be considered to have a short-term  Medium-term: the underlying deliverable bond with a term between 4 and 8 years shall be considered to have a medium-term  Long-term: the underlying deliverable bond with a term between 8 and 15 years shall be considered to have a long-term  Ultra-long-term: the underlying deliverable bond with a term longer than 15 years shall be considered to have an ultra-long-term  Segmentation criterion 3 — time to maturity bucket of the future defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 5 000 000 </td><td>10</td><td>whenever a sub-class is determined to have a liquid market with respect to a specific time to maturity bucket and the sub-class defined by the next time to maturity bucket is determined not to have a liquid market, the first back month contract is determined to have a liquid market 2 weeks before expiration of the front month</td></tr>
+<tr><td>Bond Option / Option on a bond option  / Option on a bond future  Bond Option  Option on a bond option  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OPTN  RTS2#16 = BOND  or  Option on a bond option  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OPTN  RTS2#16 = BOND  or  Option on a bond future  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OPTN  RTS2#16 = BNFD </td><td>a bond option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#22) — ultimate underlying bond  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 5 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>IR futures and FRA/ Future on an interest rate future/ Forward rate agreement on an interest rate future Future on an interest rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FUTR  RTS2#16 = INTR  or  Forward rate agreement  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FRAS  RTS2#16 = INTR  or  Future on an interest rate future  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FUTR  RTS2#16 = IFUT  or  Forward rate agreement on an interest rate future  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = FRAS  RTS2#16 = IFUT </td><td>an interest rate future sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#24) — underlying interest rate  Segmentation criterion 2 (RTS2#25) — term of the underlying interest rate  Segmentation criterion 3 (RTS2#8) — time to maturity bucket of the future defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 500 000 000 </td><td>10</td><td>whenever a sub-class is determined to have a liquid market with respect to a specific time to maturity bucket and the sub-class defined by the next time to maturity bucket is determined not to have a liquid market, the first back month contract is determined to have a liquid market 2 weeks before expiration of the front month</td></tr>
+<tr><td>IR options /Option on an interest rate future/FRA  /Option on an interest rate option  /Option on an option on an interest rate future/FRA  Option on an interest rate future/FRA//'Option on an interest rate option  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OPTN  RTS2#16 = IFUT  or  IR Option //'Option on an option on an interest rate future/FRA  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OPTN  RTS2#16 = INTR </td><td>an interest rate option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#24) —underlying interest rate  Segmentation criterion 2 (RTS2#25) — term of the underlying interest rate  Segmentation criterion 3 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 500 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Swaptions RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWPT </td><td>a swaption sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#16) — underlying swap type defined as follows: fixed-to-fixed single currency swap, futures/forwards on fixed-to-fixed single currency swap [RTS2#16 = XXSC] fixed-to-float single currency swap, futures/forwards on fixed-to-float single currency swap [RTS2#16 = XFSC]  float-to-float single currency swap, futures/forwards on float-to-float single currency swap [RTS2#16 = FFSC]  inflation single currency swap, futures/forwards on inflation single currency swap [RTS2#16 = IFSC]  OIS single currency swap, futures/forwards on OIS single currency swap [RTS2#16 = OSSC]  fixed-to-fixed multi-currency swap, futures/forwards on fixed-to-fixed multi-currency swap [RTS2#16 = XXMC]  fixed-to-float multi-currency swap, futures/forwards on fixed-to-float multi-currency swap [RTS2#16 = XFMC]  float-to-float multi-currency swap, futures/forwards on float-to-float multi-currency swap [RTS2#16 = FFMC]  inflation multi-currency swap, futures/forwards on inflation multi-currency swap [RTS2#16 = IFMC]  OIS multi-currency swap, futures/forwards on OIS multi-currency swap [RTS2#16 = OSMC]  Segmentation criterion 2 (RTS2#20) — notional currency defined as the currency in which the notional amount of the option is denominated  Segmentation criterion 3 (RTS2#22 or RTS2#23) — inflation index if the underlying swap type is either an inflation single currency swap or an inflation multi-currency swap  Segmentation criterion 4 (RTS2#21) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years  Segmentation criterion 5 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months  Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 4: 2 years &lt; time to maturity ≤ 5 years  Maturity bucket 5: 5 years &lt; time to maturity ≤ 10 years  Maturity bucket 6: over 10 years </td><td>EUR 500 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Fixed-to-Float ‘multi-currency swaps’ or ‘cross-currency swaps’ and futures/forwards/ options on Fixed-to-Float ‘multi-currency swaps’ or ‘cross-currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in different currencies and the cash flows of one leg are determined by a fixed interest rate and the cash flows of the other leg are determined by a floating interest rate.  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = XFMC </td><td>a fixed-to-float multi-currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#42) — notional currency pair defined as combination of the two currencies in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Float-to-Float ‘multi-currency swaps’ or ‘cross-currency swaps’ and futures/forwards/ options on Float-to-Float ‘multi-currency swaps’ or ‘cross-currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in different currencies and where the cash flows of both legs are determined by floating interest rates  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = FFMC </td><td>a float-to-float multi-currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#42) — notional currency pair defined as combination of the two currencies in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Fixed-to-Fixed ‘multi-currency swaps’ or ‘cross-currency swaps’ and futures/forwards/ options on Fixed-to-Fixed ‘multi-currency swaps’ or ‘cross-currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in different currencies and where the cash flows of both legs are determined by fixed interest rates  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = XXMC </td><td>a fixed-to-fixed multi-currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#42) — notional currency pair defined as combination of the two currencies in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘multi-currency swaps’ or ‘cross-currency swaps’ and futures/forwards/options on Overnight Index Swap (OIS) ‘multi-currency swaps’ or ‘cross-currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in different currencies and where the cash flows of at least one leg are determined by an Overnight Index Swap (OIS) rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = OSMC </td><td>an overnight index swap (OIS) multi-currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#42) — notional currency pair defined as combination of the two currencies in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Inflation ‘multi-currency swaps’ or ‘cross-currency swaps’ and futures/forwards/ options on Inflation ‘multi-currency swaps’ or ‘cross-currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in different currencies and where the cash flows of at least one leg are determined by an inflation rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = IFMC </td><td>an inflation multi-currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#42) — notional currency pair defined as combination of the two currencies in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Fixed-to-Float ‘single currency swaps’ and futures/forwards/ options on Fixed-to-Float ‘single currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in the same currency and the cash flows of one leg are determined by a fixed interest rate while those of the other leg are determined by a floating interest rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = XFSC </td><td>a fixed-to-float single currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13) — notional currency in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8)— time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Float-to-Float ‘single currency swaps’ and futures/forwards/ options on Float-to-Float ‘single currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in the same currency and where the cash flows of both legs are determined by floating interest rates  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = FFSC </td><td>a float-to-float single currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13) — notional currency in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Fixed-to-Fixed ‘single currency swaps’ and futures/forwards/ options on Fixed-to-Fixed ‘single currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in the same currency and where the cash flows of both legs are determined by fixed interest rates  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = XXSC </td><td>a fixed-to-fixed single currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13) — notional currency in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘single currency swaps’ and futures/forwards/ options on Overnight Index Swap (OIS) ‘single currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in the same currency and where the cash flows of at least one leg are determined by an Overnight Index Swap (OIS) rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = OSSC </td><td>an overnight index swap (OIS) single currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13) — notional currency in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Inflation ‘single currency swaps’ and futures/forwards/ options on Inflation ‘single currency swaps’ a swap or a future/forward/option on a swap where two parties exchange cash flows denominated in the same currency and where the cash flows of at least one leg are determined by an inflation rate  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = SWAP or FONS or FWOS or OPTS  RTS2#16 = IFSC </td><td>an inflation single currency sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13) — notional currency in which the two legs of the swap are denominated  Segmentation criterion 2 (RTS2#8)— time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td colspan="5">Asset class — Interest Rate Derivatives</td></tr>
+<tr><td>Sub-asset class</td><td colspan="4">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), the following methodology shall be applied</td></tr>
+<tr><td>Other Interest Rate Derivatives an interest rate derivative that does not belong to any of the above sub-asset classes  RTS2#3 = DERV  RTS2#4 = INTR  RTS2#5 = OTHR </td><td colspan="4">any other interest rate derivative is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 5.2**
+
+**Interest rate derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="10">Asset class – Interest Rate Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="9">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for each sub-class determined to have a liquid market</td></tr>
+<tr><td rowspan="2">Transactions to be considered for the calculations of the thresholds</td><td colspan="2">LIS pre-trade</td><td colspan="3">SSTI post-trade</td><td colspan="3">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Bond futures/forwards</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 20 000 000 </td><td>90 </td><td>70 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Bond options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 20 000 000 </td><td>90 </td><td>70 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>IR futures and FRA</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 10 000 000 </td><td>80 </td><td>60 </td><td>EUR 20 000 000 </td><td>90 </td><td>70 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>IR options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 10 000 000 </td><td>80 </td><td>60 </td><td>EUR 20 000 000 </td><td>90 </td><td>70 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Swaptions</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Fixed-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Float-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Float-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Fixed ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Fixed-to-Fixed ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Overnight Index Swap (OIS) ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Inflation ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Inflation ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Float ‘single currency swaps’ and futures/forwards on Fixed-to-Float ‘single currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Float-to-Float ‘single currency swaps’ and futures/forwards on Float-to-Float ‘single currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Fixed ‘single currency swaps’ and futures/forwards on Fixed-to-Fixed ‘single currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘single currency swaps’ and futures/forwards on Overnight Index Swap (OIS) ‘single currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Inflation ‘single currency swaps’ and futures/forwards on Inflation ‘single currency swaps’</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 9 000 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+</tbody>
+</table>
+
+**Table 5.3**
+
+**Interest rate derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Interest Rate Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for each sub-class determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Bond futures/forwards</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Bond options</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>IR futures and FRA</td><td>EUR 10 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>IR options</td><td>EUR 10 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Swaptions</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Fixed-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Float-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Float-to-Float ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Fixed ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Fixed-to-Fixed ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Overnight Index Swap (OIS) ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Inflation ‘multi currency swaps’ or ‘cross-currency swaps’ and futures/forwards on Inflation ‘multi currency swaps’ or ‘cross-currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Float ‘single currency swaps’ and futures/forwards on Fixed-to-Float ‘single currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Float-to-Float ‘single currency swaps’ and futures/forwards on Float-to-Float ‘single currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Fixed-to-Fixed ‘single currency swaps’ and futures/forwards on Fixed-to-Fixed ‘single currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Overnight Index Swap (OIS) ‘single currency swaps’ and futures/forwards on Overnight Index Swap (OIS) ‘single currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Inflation ‘single currency swaps’ and futures/forwards on Inflation ‘single currency swaps’</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Other Interest Rate Derivatives</td><td>EUR 5 000 000 </td><td>EUR 9 000 000 </td><td>EUR 10 000 000 </td></tr>
+</tbody>
+</table>
+
+**6\. Equity derivatives**
+
+**Table 6.1**
+
+**Equity derivatives — classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="6">Asset class – Equity Derivatives</td></tr>
+<tr><td colspan="6">any contract as defined Annex I, Section C(4) of Directive 2014/65/EU related to: (a) one or more shares, depositary receipts, ETFs, certificates, other similar financial instruments, cash-flows or other products related to the performance of one or more shares, depositary receipts, ETFs, certificates, or other similar financial instruments;  (b) an index of shares, depositary receipts, ETFs, certificates, other similar financial instruments, cash-flows or other products related to the performance of one or more shares, depositary receipts, ETFs, certificates, or other similar financial instruments </td></tr>
+<tr><td colspan="3">Sub-asset class</td><td colspan="3">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td colspan="3">Stock index options an option whose underlying is an index composed of shares  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = STIX  RTS23#26 or if null RTS23#28 </td><td colspan="3">all index options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Stock index futures/forwards a future/forward whose underlying is an index composed of shares  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = STIX  RTS23#26 or if null RTS23#28 </td><td colspan="3">all index futures/forwards are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Stock options an option whose underlying is a share or a basket of shares resulting from a corporate action  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = SHRS  RTS23#26 or if null RTS23#28 </td><td colspan="3">all stock options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Stock futures/forwards a future/forward whose underlying is a share or a basket of shares resulting from a corporate action  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = SHRS  RTS23#26 or if null RTS23#28 </td><td colspan="3">all stock futures/forwards are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Stock dividend options an option on the dividend of a specific share  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = DVSE  RTS23#26 or if null RTS23#28 </td><td colspan="3">all stock dividend options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Stock dividend futures/forwards a future/forward on the dividend of a specific share  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = DVSE  RTS23#26 or if null RTS23#28 </td><td colspan="3">all stock dividend futures/forwards are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Dividend index options an option on an index composed of dividends of more than one share  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = DIVI  RTS23#26 or if null RTS23#28 </td><td colspan="3">all dividend index options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Dividend index futures/forwards a future/forward on an index composed of dividends of more than one share  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = DIVI  RTS23#26 or if null RTS23#28 </td><td colspan="3">all dividend index futures/forwards are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Volatility index options an option whose underlying is a volatility index defined as an index relating to the volatility of a specific underlying index of equity instruments  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = VOLI  RTS23#26 or if null RTS23#28 </td><td colspan="3">all volatility index options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">Volatility index futures/forwards a future/forward whose underlying is a volatility index defined as an index relating to the volatility of a specific underlying index of equity instruments  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = VOLI  RTS23#26 or if null RTS23#28 </td><td colspan="3">all volatility index futures/forwards are considered to have a liquid market</td></tr>
+<tr><td colspan="3">ETF options an option whose underlying is an ETF  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = OPTN  RTS2#27 = ETFS  RTS23#26 or if null RTS23#28 </td><td colspan="3">all ETF options are considered to have a liquid market</td></tr>
+<tr><td colspan="3">ETF futures/forwards a future/forward whose underlying is an ETF  RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = FUTR or FORW  RTS2#27 = ETFS  RTS23#26 or if null RTS23#28 </td><td colspan="3">all ETF futures/forwards are considered to have a liquid market</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td colspan="3" rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="2">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td rowspan="10">Swaps RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = SWAP </td><td colspan="3">a swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#27) — underlying type: single name, index, basket  Segmentation criterion 2 RTS23#26 or if null RTS23#28) — underlying single name, index, basket  Segmentation criterion 3 (RTS2#28) — parameter: price return basic performance parameter, parameter return dividend, parameter return variance, parameter return volatility  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the swap defined as follows: </td><td rowspan="10">EUR 50 000 000 </td><td rowspan="10">  </td></tr>
+<tr><td>Price return basic performance parameter</td><td>Parameter return variance/volatility</td><td>Parameter return dividend</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months</td><td>Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years</td></tr>
+<tr><td>Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years</td><td>…</td></tr>
+<tr><td>Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years</td><td>Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years</td><td>…</td><td>  </td></tr>
+<tr><td>…</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td><td>  </td></tr>
+<tr><td>Portfolio Swaps RTS2#3 = DERV  RTS2#4 = EQUI’  RTS2#5 = PSWP </td><td colspan="3">a portfolio swap sub-class is defined by a specific combination of: Segmentation criterion 1 (RTS2#27) — underlying type: single name, index, basket  Segmentation criterion 2 (RTS23#26 or if null RTS23#28) — underlying single name, index, basket  Segmentation criterion 3 (RTS2#28) — parameter: price return basic performance parameter, parameter return dividend, parameter return variance, parameter return volatility  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the portfolio swap defined as follows:  Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 50 000 000 </td><td>15</td></tr>
+<tr><td>Sub-asset class</td><td colspan="5">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td>Other equity derivatives an equity derivative that does not belong to any of the above sub-asset classes RTS2#3 = DERV  RTS2#4 = EQUI  RTS2#5 = OTHR’ </td><td colspan="5">any other equity derivative is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 6.2**
+
+**Equity derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="9">Asset class – Equity Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3" rowspan="3">For the purpose of the determination of the pre-trade and post-trade SSTI and LIS thresholds each sub-asset class shall be further segmented into sub-classes as defined below</td><td rowspan="3">Transactions to be considered for the calculations of the thresholds</td><td colspan="4">Pre-trade and post-trade SSTI and LIS threshold values determined for the sub-classes determined to have a liquid market on the basis of the average daily notional amount (ADNA) band to which the sub-class belongs</td></tr>
+<tr><td rowspan="2">Average daily notional amount (ADNA)</td><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td rowspan="4">Stock index options</td><td colspan="3" rowspan="4">a stock index option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying stock index </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 200 m</td><td>EUR 3 000 000 </td><td>EUR 25 000 000 </td><td>EUR 30 000 000 </td></tr>
+<tr><td>EUR 200 m ≤ ADNA &lt; EUR 600 m</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 600 m</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td rowspan="5">Stock index futures/forwards</td><td colspan="3" rowspan="5">a stock index future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying stock index </td><td rowspan="5">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 1 bn</td><td>EUR 550 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td>EUR 1 bn ≤ ADNA &lt; EUR 3 bn</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>EUR 3 bn ≤ ADNA &lt; EUR 5 bn</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 5 bn</td><td>EUR 30 000 000 </td><td>EUR 250 000 000 </td><td>EUR 260 000 000 </td></tr>
+<tr><td rowspan="4">Stock options</td><td colspan="3" rowspan="4">a stock option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying share </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 250 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td rowspan="4">Stock futures/forwards</td><td colspan="3" rowspan="4">a stock future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying share </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 250 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td rowspan="4">Stock dividend options</td><td colspan="3" rowspan="4">a stock dividend option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying share entitling to dividends </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 400 000 </td><td>EUR 450 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 30 000 </td><td>EUR 500 000 </td><td>EUR 550 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 100 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 150 000 </td><td>EUR 2 000 000 </td><td>EUR 2 500 000 </td></tr>
+<tr><td rowspan="4">Stock dividend futures/forwards</td><td colspan="3" rowspan="4">a stock dividend future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying share entitling to dividends </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 400 000 </td><td>EUR 450 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 30 000 </td><td>EUR 500 000 </td><td>EUR 550 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 100 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 150 000 </td><td>EUR 2 000 000 </td><td>EUR 2 500 000 </td></tr>
+<tr><td rowspan="4">Dividend index options</td><td colspan="3" rowspan="4">a dividend index option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying dividend index </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 200 m</td><td>EUR 3 000 000 </td><td>EUR 25 000 000 </td><td>EUR 30 000 000 </td></tr>
+<tr><td>EUR 200 m ≤ ADNA &lt; EUR 600 m</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 600 m</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td rowspan="5">Dividend index futures/forwards</td><td colspan="3" rowspan="5">a dividend index future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying dividend index </td><td rowspan="5">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 1 bn</td><td>EUR 550 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td>EUR 1 bn ≤ ADNA &lt; EUR 3 bn</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>EUR 3 bn ≤ ADNA &lt; EUR 5 bn</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 5 bn</td><td>EUR 30 000 000 </td><td>EUR 250 000 000 </td><td>EUR 260 000 000 </td></tr>
+<tr><td rowspan="4">Volatility index options</td><td colspan="3" rowspan="4">a volatility index option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying volatility index </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 200 m</td><td>EUR 3 000 000 </td><td>EUR 25 000 000 </td><td>EUR 30 000 000 </td></tr>
+<tr><td>EUR 200 m ≤ ADNA &lt; EUR 600 m</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 600 m</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td rowspan="5">Volatility index futures/forwards</td><td colspan="3" rowspan="5">a volatility index future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying volatility index </td><td rowspan="5">calculation of thresholds should be performed for each sub-class considering the transactions executed on instruments belonging to the sub-class</td><td>&lt; EUR 100 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 1 bn</td><td>EUR 550 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td>EUR 1 bn ≤ ADNA &lt; EUR 3 bn</td><td>EUR 5 500 000 </td><td>EUR 50 000 000 </td><td>EUR 55 000 000 </td></tr>
+<tr><td>EUR 3 bn ≤ ADNA &lt; EUR 5 bn</td><td>EUR 20 000 000 </td><td>EUR 150 000 000 </td><td>EUR 160 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 5 bn</td><td>EUR 30 000 000 </td><td>EUR 250 000 000 </td><td>EUR 260 000 000 </td></tr>
+<tr><td rowspan="4">ETF options</td><td colspan="3" rowspan="4">an ETF option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying ETF </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 250 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td rowspan="4">ETF futures/forwards</td><td colspan="3" rowspan="4">an ETF future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying ETF </td><td rowspan="4">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>&lt; EUR 5 m ADNA</td><td>EUR 25 000 </td><td>EUR 1 000 000 </td><td>EUR 1 250 000 </td></tr>
+<tr><td>EUR 5 m ≤ ADNA &lt; EUR 10 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 10 m ≤ ADNA &lt; EUR 20 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 20 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td rowspan="12">Swaps</td><td colspan="3" rowspan="3">a swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 – underlying type: single name, index, basket  Segmentation criterion 2 – underlying single name, index, basket  Segmentation criterion 3 – parameter: price return basic performance parameter, parameter return dividend, parameter return variance, parameter return volatility  Segmentation criterion 4 – time to maturity bucket of the swap defined as follows: </td><td rowspan="3">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>EUR 50 m ≤ ADNA &lt; EUR 100 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 200 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 200 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td>Price return basic performance parameter</td><td>Parameter return variance/volatility</td><td>Parameter return dividend</td><td colspan="5" rowspan="9">  </td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months</td><td>Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years</td></tr>
+<tr><td>Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years</td><td>…</td></tr>
+<tr><td>Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years</td><td>Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years</td><td>…</td><td>  </td></tr>
+<tr><td>…</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Portfolio Swaps</td><td colspan="3" rowspan="4">a portfolio swap sub-class is defined by a specific combination of: Segmentation criterion 1 – underlying type: single name, index, basket  Segmentation criterion 2 – underlying single name, index, basket  Segmentation criterion 3 – parameter: price return basic performance parameter, parameter return dividend, parameter return variance, parameter return volatility  Segmentation criterion 4 – time to maturity bucket of the portfolio swap defined as follows:  Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 5: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 6: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td rowspan="3">calculation of thresholds should be performed for each sub-class considering the transactions executed on financial instruments belonging to the sub-class</td><td>EUR 50 m ≤ ADNA &lt; EUR 100 m</td><td>EUR 300 000 </td><td>EUR 1 250 000 </td><td>EUR 1 500 000 </td></tr>
+<tr><td>EUR 100 m ≤ ADNA &lt; EUR 200 m</td><td>EUR 550 000 </td><td>EUR 2 500 000 </td><td>EUR 3 000 000 </td></tr>
+<tr><td>ADNA ≥ EUR 200 m</td><td>EUR 1 500 000 </td><td>EUR 5 000 000 </td><td>EUR 5 500 000 </td></tr>
+<tr><td colspan="5">  </td></tr>
+</tbody>
+</table>
+
+**Table 6.3**
+
+**Equity derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Equity Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Swaps</td><td>EUR 25 000 </td><td>EUR 100 000 </td><td>EUR 150 000 </td></tr>
+<tr><td>Portfolio Swaps</td><td>EUR 25 000 </td><td>EUR 100 000 </td><td>EUR 150 000 </td></tr>
+<tr><td>Other equity derivatives</td><td>EUR 25 000 </td><td>EUR 100 000 </td><td>EUR 150 000 </td></tr>
+</tbody>
+</table>
+
+**7\. Commodity derivatives**
+
+**Table 7.1**
+
+**Commodity derivatives – classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="6">Asset class — Commodity Derivatives</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td colspan="3" rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="2">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td rowspan="8">Metal commodity futures/forwards RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘METL’ and [RTS2#5 = ‘FUTR’ or ‘FORW’] </td><td colspan="3">a metal commodity future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — metal type: precious metal, non-precious metal  Segmentation criterion 2 (RTS23#37) — underlying metal  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the future/forward is denominated  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the future/forward defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Precious metals</td><td colspan="2">Non-precious metals</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months</td><td colspan="2">Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 2: 3 months &lt; time to maturity ≤ 1 year</td><td colspan="2">Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td colspan="2">Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years</td></tr>
+<tr><td>Maturity bucket 4: 2 years &lt; time to maturity ≤ 3 years</td><td colspan="2">…</td></tr>
+<tr><td>…</td><td colspan="2">Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td colspan="2">  </td></tr>
+<tr><td rowspan="8">Metal commodity options RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘METL’ and RTS2#5 = ‘OPTN’ </td><td colspan="3">a metal commodity option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — metal type: precious metal, non-precious metal  Segmentation criterion 2 (RTS23#37) — underlying metal  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the option is denominated  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the option defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Precious metals</td><td colspan="2">Non-precious metals</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months</td><td colspan="2">Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 2: 3 months &lt; time to maturity ≤ 1 year</td><td colspan="2">Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td colspan="2">Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years</td></tr>
+<tr><td>Maturity bucket 4: 2 years &lt; time to maturity ≤ 3 years</td><td colspan="2">…</td></tr>
+<tr><td>…</td><td colspan="2">Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td colspan="2">  </td></tr>
+<tr><td rowspan="8">Metal commodity swaps RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘METL’ and RTS2#5 = ‘SWAP’ </td><td colspan="3">a metal commodity swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — metal type: precious metal, non-precious metal  Segmentation criterion 2 (RTS23#37) — underlying metal  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the swap is denominated  Segmentation criterion 4 (RTS23#34) —delivery type defined as cash, physical or optional  Segmentation criterion 5 (RTS2#8) — time to maturity bucket of the swap defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Precious metals</td><td colspan="2">Non-precious metals</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months</td><td colspan="2">Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 2: 3 months &lt; time to maturity ≤ 1 year</td><td colspan="2">Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td colspan="2">Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years</td></tr>
+<tr><td>Maturity bucket 4: 2 years &lt; time to maturity ≤ 3 years</td><td colspan="2">…</td></tr>
+<tr><td>…</td><td colspan="2">Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td colspan="2">  </td></tr>
+<tr><td rowspan="8">Energy commodity futures/forwards RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘NRGY’ and [RTS2#5 = ‘FUTR’ or ‘FORW’] </td><td colspan="3">an energy commodity future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — energy type: oil, distillates, coal, light ends, natural gas, electricity, inter energy  Segmentation criterion 2 (RTS23#37) — underlying energy  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the future/forward is denominated  Segmentation criterion 4 — [deleted]  Segmentation criterion 5 (RTS2#14) — delivery/cash settlement location applicable to all energy types  Segmentation criterion 6 (RTS2#8) — time to maturity bucket of the future/forward defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Oil/ Distillates/ Light ends</td><td>Coal</td><td>Natural Gas/Electricity/Inter-energy</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 4 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month</td></tr>
+<tr><td>Maturity bucket 2: 4 months &lt; time to maturity ≤ 8 months</td><td>Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 2: 1 month &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 3: 8 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years</td><td>…</td><td>…</td></tr>
+<tr><td>…</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">Energy commodity options RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘NRGY’ and RTS2#5 = ‘OPTN’ </td><td colspan="3">an energy commodity option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — energy type: oil, distillates, coal, light ends, natural gas, electricity, inter-energy  Segmentation criterion 2 (RTS23#37) — underlying energy  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the option is denominated  Segmentation criterion 4 — [deleted]  Segmentation criterion 5 (RTS2#14) — delivery/cash settlement location applicable to all energy types  Segmentation criterion 6 (RTS2#8) — time to maturity bucket of the option defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Oil/Distillates/Light ends</td><td>Coal</td><td>Natural Gas/Electricity/Inter-energy</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 4 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month</td></tr>
+<tr><td>Maturity bucket 2: 4 months &lt; time to maturity ≤ 8 months</td><td>Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 2: 1 month &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 3: 8 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years</td><td>…</td><td>…</td></tr>
+<tr><td>…</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">Energy commodity swaps RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘NRGY’ and RTS2#5 = ‘SWAP’ </td><td colspan="3">an energy commodity swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36) — energy type: oil, distillates, coal, light ends, natural gas, electricity, inter-energy  Segmentation criterion 2 (RTS23#37) — underlying energy  Segmentation criterion 3 (RTS2#15) — notional currency defined as the currency in which the notional amount of the swap is denominated  Segmentation criterion 4 (RTS23#34) —delivery type defined as cash, physical or optional  Segmentation criterion 5 — [deleted]  Segmentation criterion 6 (RTS2#14) — delivery/cash settlement location applicable to all energy types  Segmentation criterion 7 (RTS2#8) — time to maturity bucket of the swap defined as follows: </td><td rowspan="8">EUR 10 000 000 </td><td rowspan="8">10</td></tr>
+<tr><td>Oil/Distillates/Light ends</td><td>Coal</td><td>Natural Gas/'Electricity/Inter-energy</td></tr>
+<tr><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 4 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months</td><td>Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month</td></tr>
+<tr><td>Maturity bucket 2: 4 months &lt; time to maturity ≤ 8 months</td><td>Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 2: 1 month &lt; time to maturity ≤ 1 year</td></tr>
+<tr><td>Maturity bucket 3: 8 months &lt; time to maturity ≤ 1 year</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td><td>Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years</td></tr>
+<tr><td>Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years</td><td>…</td><td>…</td></tr>
+<tr><td>…</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td></tr>
+<tr><td>Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years</td><td>  </td><td>  </td></tr>
+<tr><td>Agricultural commodity futures/forwards RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘AGRI’ and [RTS2#5 = ‘FUTR’ or ‘FORW’] </td><td colspan="3">an agricultural commodity future/forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36 and RTS23#37) — underlying agricultural commodity (sub-product and further sub product)  Segmentation criterion 2 (RTS2#15) — notional currency defined as the currency in which the notional amount of the future/forward is denominated  Segmentation criterion 3 (RTS2#8) — time to maturity bucket of the future/forward defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 10 000 000 </td><td>10</td></tr>
+<tr><td>Agricultural commodity options RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘AGRI’ and RTS2#5 = ‘OPTN’ </td><td colspan="3">an agricultural commodity option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36 and RTS23#37) — underlying agricultural commodity (sub-product and further sub product)  Segmentation criterion 2 (RTS2#15) — notional currency defined as the currency in which the notional amount of the option is denominated  Segmentation criterion 3 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 10 000 000 </td><td>10</td></tr>
+<tr><td>Agricultural commodity swaps RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘AGRI’ and RTS2#5 = ‘SWAP’ </td><td colspan="3">an agricultural commodity swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#36 and RTS23#37) — underlying agricultural commodity (sub-product and further sub product)  Segmentation criterion 2 (RTS2#15) — notional currency defined as the currency in which the notional amount of the swap is denominated  Segmentation criterion 3 (RTS23#34) —delivery type defined as cash, physical or optional  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 3 months  Maturity bucket 2: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 3: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 10 000 000 </td><td>10</td></tr>
+<tr><td>Sub-asset class</td><td colspan="5">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td>Other commodity derivatives</td><td colspan="5">  </td></tr>
+<tr><td>a commodity derivative that does not belong to any of the above sub-asset classes</td><td colspan="5">any other commodity derivative is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 7.2**
+
+**Commodity derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="10">Asset class – Commodity Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="9">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined to have a liquid market</td></tr>
+<tr><td rowspan="2">Transactions to be considered for the calculations of the thresholds</td><td colspan="2">LIS pre-trade</td><td colspan="3">SSTI post-trade</td><td colspan="3">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Metal commodity futures/forwards</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Metal commodity options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Metal commodity swaps</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity futures/forwards</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity swaps</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity futures/forwards</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity swaps</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 500 000 </td><td>80 </td><td>60 </td><td>EUR 750 000 </td><td>90 </td><td>70 </td><td>EUR 1 000 000 </td></tr>
+</tbody>
+</table>
+
+**Table 7.3**
+
+**Commodity derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Commodity Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Metal commodity futures/forwards</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Metal commodity options</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Metal commodity swaps</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity futures/forwards</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity options</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Energy commodity swaps</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity futures/forwards</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity options</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Agricultural commodity swaps</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+<tr><td>Other commodity derivatives</td><td>EUR 500 000 </td><td>EUR 750 000 </td><td>EUR 1 000 000 </td></tr>
+</tbody>
+</table>
+
+**8\. Foreign exchange derivatives**
+
+**Table 8.1**
+
+**Foreign exchange derivatives – classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class — Foreign Exchange Derivatives</td></tr>
+<tr><td colspan="4">a financial instrument relating to currencies as defined in Section C(4) of Annex I of Directive 2014/65/EU</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="2">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td>Non-deliverable forward (NDF) means a forward that, by its terms, is cash-settled between its counterparties, where the settlement amount is determined by the difference in the exchange rate of two currencies as between the trade date and the valuation date. On the settlement date, one party will owe the other party the net difference between (i) the exchange rate set at the trade date; and (ii) the exchange rate on the valuation date, based upon the notional amount, with such net amount payable in the settlement currency stipulated in the contract.  RTS2#3 = DERV  RTS2#4 = CURR  RTS2#5 = FORW  RTS2#26 = NDLV </td><td>a non-deliverable FX forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the forward defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Non-deliverable forward (NDF) are considered not to have a liquid market</td></tr>
+<tr><td>Deliverable forward (DF) means a forward that solely involves the exchange of two different currencies on a specific future contracted settlement date at a fixed rate agreed upon on the inception of the contract covering the exchange.  RTS2#3 = DERV  RTS2#4 = CURR’  RTS2#5 = FORW  RTS2#26 = DLVB </td><td>a deliverable FX forward sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8)— time to maturity bucket of the forward defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Deliverable forward (DF) are considered not to have a liquid market</td></tr>
+<tr><td>Non-Deliverable FX options (NDO) means an option that, by its terms, is cash-settled between its counterparties, where the settlement amount is determined by the difference in the exchange rate of two currencies as between the trade date and the valuation date. On the settlement date, one party will owe the other party the net difference between (i) the exchange rate set at the trade date; and (ii) the exchange rate on the valuation date, based upon the notional amount, with such net amount payable in the settlement currency stipulated in the contract.  RTS2#3 = DERV  RTS2#4 = CURR’  RTS2#5 = OPTN  RTS2#26 = NDLV </td><td>a non-deliverable FX option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Non-Deliverable FX options (NDO) are considered not to have a liquid market</td></tr>
+<tr><td>Deliverable FX options (DO) means an option that solely involves the exchange of two different currencies on a specific future contracted settlement date at a fixed rate agreed upon on the inception of the contract covering the exchange.  RTS2#3 = DERV  RTS2#4 = CURR  RTS2#5 = OPTN  RTS2#26 = DLVB </td><td>a deliverable FX option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47)— underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Deliverable FX options (DO) are considered not to have a liquid market</td></tr>
+<tr><td>Non-Deliverable FX swaps (NDS) means a swap that, by its terms, is cash-settled between its counterparties, where the settlement amount is determined by the difference in the exchange rate of two currencies as between the trade date and the valuation date. On the settlement date, one party will owe the other party the net difference between (i) the exchange rate set at the trade date; and (ii) the exchange rate on the valuation date, based upon the notional amount, with such net amount payable in the settlement currency stipulated in the contract.  RTS2#3 = DERV  RTS2#4 = CURR’  RTS2#5 = SWAP  RTS2#26 = NDLV </td><td>a non-deliverable FX swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Non-Deliverable FX swaps (NDS) are considered not to have a liquid market</td></tr>
+<tr><td>Deliverable FX swaps (DS) means a swap that solely involves the exchange of two different currencies on a specific future contracted settlement date at a fixed rate agreed upon on the inception of the contract covering the exchange.  RTS2#3 = DERV  RTS2#4 = CURR  RTS2#5 = SWAP  RTS2#26 = DLVB </td><td>a deliverable FX swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the swap defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">Deliverable FX swaps (DS) are considered not to have a liquid market</td></tr>
+<tr><td>FX futures RTS2#3 = DERV  RTS2#4 = CURR’  RTS2#5 = FUTR </td><td>an FX future sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#13 and RTS23#47) — underlying currency pair defined as combination of the two currencies underlying the derivative contract  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the future defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 week  Maturity bucket 2: 1 week &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 1 year  Maturity bucket 4: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 5: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="2">FX futures are considered not to have a liquid market</td></tr>
+<tr><td colspan="4">Asset class — Foreign Exchange Derivatives</td></tr>
+<tr><td>Sub-asset class</td><td colspan="3">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td>Other Foreign Exchange Derivatives an FX derivative that does not belong to any of the above sub-asset classes  RTS2#3 = DERV  RTS2#4 = CURR  RTS2#5 = OTHR </td><td colspan="3">any other FX derivative is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 8.2**
+
+**Foreign exchange derivatives – pre-trade and pot-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Foreign Exchange Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Non-deliverable forward (NDF)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Deliverable forward (DF)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Non-Deliverable FX options (NDO)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Deliverable FX options (DO)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Non-Deliverable FX swaps (NDS)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Deliverable FX swaps (DS)</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>FX futures</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+<tr><td>Other Foreign Exchange Derivatives</td><td>EUR 5 000 000 </td><td>EUR 20 000 000 </td><td>EUR 25 000 000 </td></tr>
+</tbody>
+</table>
+
+**9\. Credit derivatives**
+
+**Table 9.1**
+
+**Credit derivatives — classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="5">Asset class — Credit Derivatives</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="3">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria. For sub-classes determined to have a liquid market the additional qualitative liquidity criterion, where applicable, shall be applied</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td><td>On-the-run status of the index [Additional qualitative liquidity criterion] </td></tr>
+<tr><td>Index credit default swap (CDS) a swap whose exchange of cash flows is linked to the creditworthiness of several issuers of financial instruments composing an index and the occurrence of credit events RTS2#3 = DERV  RTS2#4 = CRDT </td><td>an index credit default swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#34) — underlying index  Segmentation criterion 2 (RTS2#42) — notional currency defined as the currency in which the notional amount of the derivative is denominated  Segmentation criterion 3 ( RTS2#8)— time to maturity bucket of the CDS defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year  Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 200 000 000 </td><td>10</td><td>The underlying index is considered to have a liquid market: (1) during the whole period of its ‘on-the-run status’  (2) for the first 30 working days of its ‘1x off-the-run status’  ‘on-the-run’ index means the rolling most recent version (series) of the index created on the date on which the composition of the index is effective and ending one day prior to the date on which the composition of the next version (series) of the index is effective.  ‘1x off-the-run status’ means the version (series) of the index which is immediately prior to the current ‘on-the-run’ version (series) at a certain point in time. A version (series) ceases being ‘on-the-run’ and acquires its ‘1x off-the-run’ status when the latest version (series) of the index is created. </td></tr>
+<tr><td>Single name credit default swap (CDS) a swap whose exchange of cash flows is linked to the creditworthiness of one issuer of financial instruments and the occurrence of credit events RTS2#3 = DERV  RTS2#4 = CRDT </td><td>a single name credit default swap sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#41) — underlying reference entity  Segmentation criterion 2 (RTS2#39) — underlying reference entity type defined as follows: ‘Issuer of sovereign and public type’ means an issuer entity which is either: (a) the Union;  (b) a Member State including a government department, an agency or a special purpose vehicle of a Member State;  (c) a sovereign entity which is not listed under points (a) and (b);  (d) in the case of a federal Member State, a member of that federation;  (e) a special purpose vehicle for several Member States;  (f) an international financial institution established by two or more Member States which have the purpose of mobilising funding and providing financial assistance to the benefit of its members that are experiencing or are threatened by severe financial problems;  (g) the European Investment Bank;  (h) a public entity which is not a sovereign issuer as specified in the points (a) to (c).  ‘Issuer of corporate type’ means an issuer entity which is not an issuer of sovereign and public type.  Segmentation criterion 3 (RTS2#42) — notional currency defined as the currency in which the notional amount of the derivative is denominated  Segmentation criterion 4 (RTS2#8) — time to maturity bucket of the CDS defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 1 year  Maturity bucket 2: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 3: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 10 000 000 </td><td>10</td><td>  </td></tr>
+<tr><td>Sub-asset class</td><td>For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="3">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet the following qualitative liquidity criterion</td></tr>
+<tr><td>CDS index options an option whose underlying is a CDS index RTS2#3 = DERV  RTS2#4 = CRDT </td><td>a CDS index option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#26) — CDS index sub-class as specified for the sub-asset class of index credit default swap (CDS)  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months  Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 4: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="3">a CDS index option whose underlying CDS index is a sub-class determined to have a liquid market and whose time to maturity bucket is 0-6 months is considered to have a liquid market a CDS index option whose underlying CDS index is a sub-class determined to have a liquid market and whose time to maturity bucket is not 0-6 months is not considered to have a liquid market  a CDS index option whose underlying CDS index is a sub-class determined not to have a liquid market is not considered to have a liquid market for any given time to maturity bucket </td></tr>
+<tr><td>Single name CDS options an option whose underly-ing is a single name CDS RTS2#3 = DERV  RTS2#4 = CRDT </td><td>a single name CDS option sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS23#26) — single name CDS sub-class as specified for the sub-asset class of single name CDS  Segmentation criterion 2 (RTS2#8) — time to maturity bucket of the option defined as follows: Maturity bucket 1: 0 &lt; time to maturity ≤ 6 months  Maturity bucket 2: 6 months &lt; time to maturity ≤ 1 year  Maturity bucket 3: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 4: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td colspan="3">a single name CDS option whose underlying single name CDS is a sub-class determined to have a liquid market and whose time to maturity bucket is 0-6 months is considered to have a liquid market a single name CDS option whose underlying single name CDS is a sub-class determined to have a liquid market and whose time to maturity bucket is not 0-6 months is not considered to have a liquid market  a single name CDS option whose underlying single name CDS is a sub-class determined not to have a liquid market is not considered to have a liquid market for any given time to maturity bucket </td></tr>
+<tr><td colspan="5">Asset class — Credit Derivatives</td></tr>
+<tr><td>Sub-asset class</td><td colspan="4">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall apply</td></tr>
+<tr><td>Other credit derivatives a credit derivative that does not belong to any of the above sub-asset classes RTS2#3 = DERV  RTS2#4 = CRDT RTS2#5 = OTHR </td><td colspan="4">any other credit derivatives is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 9.2**
+
+**Credit Derivatives – pre- and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="10">Asset class – Credit Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="9">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined to have a liquid market</td></tr>
+<tr><td rowspan="2">Transactions to be considered for the calculations of the thresholds</td><td colspan="2">LIS pre-trade</td><td colspan="3">SSTI post-trade</td><td colspan="3">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Index credit default swap (CDS)</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 7 500 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Single name credit default swap (CDS)</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 7 500 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>CDS index options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 7 500 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Single name CDS options</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 5 000 000 </td><td>80 </td><td>60 </td><td>EUR 7 500 000 </td><td>90 </td><td>70 </td><td>EUR 10 000 000 </td></tr>
+</tbody>
+</table>
+
+**Table 9.3**
+
+**Credit derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Credit Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Index credit default swap (CDS)</td><td>EUR 5 000 000 </td><td>EUR 7 500 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Single name credit default swap (CDS)</td><td>EUR 5 000 000 </td><td>EUR 7 500 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>CDS index options</td><td>EUR 5 000 000 </td><td>EUR 7 500 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Single name CDS options</td><td>EUR 5 000 000 </td><td>EUR 7 500 000 </td><td>EUR 10 000 000 </td></tr>
+<tr><td>Other credit derivatives</td><td>EUR 5 000 000 </td><td>EUR 7 500 000 </td><td>EUR 10 000 000 </td></tr>
+</tbody>
+</table>
+
+**10\. C10 derivatives**
+
+**Table 10.1**
+
+**C10 derivatives – classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class — C10 Derivatives</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td rowspan="2">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td colspan="2">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria</td></tr>
+<tr><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td>Freight derivatives a financial instrument relating to freight rates as defined in Section C(10) of Annex I of Directive 2014/65/EU  RTS2#3 = ‘DERV’ and RTS2#4 = ‘COMM’ and RTS23#35 = ‘FRGT’ </td><td>a freight derivative sub-class is defined by the following segmentation criteria: Segmentation criterion 1 (RTS2#5) — contract type: futures or options  Segmentation criterion 2 (RTS23#36) — freight type  Segmentation criterion 3 (RTS2#37) — freight sub-type  Segmentation criterion 4 (RTS2#12) —specification of the size related to the freight sub-type  Segmentation criterion 5 (RTS2#13) — specific route or time charter average  Segmentation criterion 6 (RTS2#8) — time to maturity bucket of the derivative defined as follows:  Maturity bucket 1: 0 &lt; time to maturity ≤ 1 month  Maturity bucket 2: 1 month &lt; time to maturity ≤ 3 months  Maturity bucket 3: 3 months &lt; time to maturity ≤ 6 months  Maturity bucket 4: 6 months &lt; time to maturity ≤ 9 months  Maturity bucket 5: 9 months &lt; time to maturity ≤ 1 year  Maturity bucket 6: 1 year &lt; time to maturity ≤ 2 years  Maturity bucket 7: 2 years &lt; time to maturity ≤ 3 years  …  Maturity bucket m: (n-1) years &lt; time to maturity ≤ n years </td><td>EUR 10 000 000 </td><td>10</td></tr>
+<tr><td colspan="4">Asset class — C10 Derivatives</td></tr>
+<tr><td>Sub-asset class</td><td colspan="3">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td>Other C10 derivatives a financial instrument as defined in Section C(10) of Annex I of Directive 2014/65/EU which is not a ‘Freight derivative’, any of the following interest rate derivatives sub-asset classes: ‘Inflation multi-currency swap or cross-currency swap’, a ‘Future/forward on inflation multi-currency swaps or cross-currency swaps’, an ‘Inflation single currency swap’, a ‘Future/forward on inflation single currency swap’ and any of the following equity derivatives sub-asset classes: a ‘Volatility index option’, a ‘Volatility index future/forward’, a swap with parameter return variance, a swap with parameter return volatility, a portfolio swap with parameter return variance, a portfolio swap with parameter return volatility </td><td colspan="3">any other C10 derivatives is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 10.2**
+
+**C10 derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="10">Asset class – C10 Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="9">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined to have a liquid market</td></tr>
+<tr><td rowspan="2">Transactions to be considered for the calculations of the thresholds</td><td colspan="2">LIS pre-trade</td><td colspan="3">SSTI post-trade</td><td colspan="3">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Freight derivatives</td><td>calculation of thresholds should be performed for each sub-class of the sub-asset class considering the transactions executed on financial instruments belonging to the sub-class</td><td>70 </td><td>EUR 50 000 </td><td>80 </td><td>60 </td><td>EUR 75 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+</tbody>
+</table>
+
+**Table 10.3**
+
+**C10 derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – C10 Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Freight derivatives</td><td>EUR 50 000 </td><td>EUR 75 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>Other C10 derivatives</td><td>EUR 50 000 </td><td>EUR 75 000 </td><td>EUR 100 000 </td></tr>
+</tbody>
+</table>
+
+**11\. Financial contracts for differences (CFDs)**
+
+**Table 11.1**
+
+**CFDs – classes not having a liquid market**
+
+<table>
+<tbody><tr><td>Sub-asset class</td><td>For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b), each sub-asset class shall be further segmented into sub-classes as defined below</td><td>Qualitative liquidity criterion</td><td>Average daily notional amount (ADNA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td>Currency CFDs RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = CURR </td><td>a currency CFD sub-class is defined by the underlying currency pair defined as combination of the two currencies underlying the CFD/spread betting contract. RTS2#30 and RTS2#31 </td><td>  </td><td>EUR 50 000 000 </td><td>100</td></tr>
+<tr><td>Commodity CFDs RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = COMM </td><td>a commodity CFD sub-class is defined by the underlying commodity of the CFD/spread betting contract RTS23#35 and RTS23#36 and RTS23#37 </td><td>  </td><td>EUR 50 000 000 </td><td>100</td></tr>
+<tr><td>Equity CFDs RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = EQUI </td><td>an equity CFD sub-class is defined by the underlying equity security of the CFD/spread betting contract RTS23#26 </td><td>an equity CFD sub-class is considered to have a liquid market if the underlying is an equity security for which there is a liquid market as determined in accordance with Article 2(1)(17)(b) of Regulation (EU) No 600/2014</td><td>  </td><td>  </td></tr>
+<tr><td>Bond CFDs RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = BOND </td><td>a bond CFD sub-class is defined by the underlying bond or bond future of the CFD/spread betting contract RTS23#26 </td><td>a bond CFD sub-class is considered to have a liquid market if the underlying is a bond or bond future for which there is a liquid market as determined in accordance with Articles 6 and 8(1)(b).</td><td>  </td><td>  </td></tr>
+<tr><td>CFDs on an equity future/forward RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = FTEQ </td><td>a CFD on an equity future/forward sub-class is defined by the underlying future/forward on an equity of the CFD/spread betting contract RTS23#26 </td><td>a CFD on an equity future/forward sub-class is considered to have a liquid market if the underlying is an equity future/forward for which there is a liquid market as determined in accordance with Articles 6 and 8(1)(b).</td><td>  </td><td>  </td></tr>
+<tr><td>CFDs on an equity option RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = OPEQ </td><td>a CFD on an equity option sub-class is defined by the underlying option on an equity of the CFD/spread betting contract RTS23#26 </td><td>a CFD on an equity option sub-class is considered to have a liquid market if the underlying is an equity option for which there is a liquid market as determined in accordance with Articles 6 and 8(1)(b).</td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">Asset class – Financial contracts for differences (CFDs)</td></tr>
+<tr><td>Sub-asset class</td><td colspan="4">For the purpose of the determination of the classes of financial instruments considered not to have a liquid market as per Articles 6 and 8(1)(b) the following methodology shall be applied</td></tr>
+<tr><td>Other CFDs</td><td colspan="4">  </td></tr>
+<tr><td>a CFD/spread betting that does not belong to any of the above sub-asset classes RTS2#3 = DERV  RTS2#5 = CFDS  RTS2#29 = OTHR </td><td colspan="4">any other CFD/spread betting is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 11.2**
+
+**CFDs – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="10">Asset class – Financial contracts for differences (CFDs)</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="9">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined to have a liquid market</td></tr>
+<tr><td rowspan="2">Transactions to be considered for the calculations of the thresholds</td><td colspan="2">LIS pre-trade</td><td colspan="3">SSTI post-trade</td><td colspan="3">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Volume – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Currency CFDs</td><td>transactions executed on currency CFDs considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+<tr><td>Commodity CFDs</td><td>transactions executed on commodity CFDs considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+<tr><td>Equity CFDs</td><td>transactions executed on equity CFDs considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+<tr><td>Bond CFDs</td><td>transactions executed on equity CFDs considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+<tr><td>CFDs on an equity future/forward</td><td>transactions executed on CFDs on future on an equity considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+<tr><td>CFDs on an equity option</td><td>transactions executed on CFDs on option on an equity considered to have a liquid market as per Articles 6 and 8(1)(b)</td><td>70 </td><td>EUR 60 000 </td><td>80 </td><td>60 </td><td>EUR 90 000 </td><td>90 </td><td>70 </td><td>EUR 100 000 </td></tr>
+</tbody>
+</table>
+
+**Table 11.3**
+
+**CFDs – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Financial contracts for differences (CFDs)</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Currency CFDs</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>Commodity CFDs</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>Equity CFDs</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>Bond CFDs</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>CFDs on an equity future/forward</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>CFDs on an equity option</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+<tr><td>Other CFDs/spread betting</td><td>EUR 60 000 </td><td>EUR 90 000 </td><td>EUR 100 000 </td></tr>
+</tbody>
+</table>
+
+**12\. Emission allowances**
+
+**Table 12.1**
+
+**Emission allowances – classes not having a liquid market**
+
+<table>
+<tbody><tr><td colspan="2">Asset class – Emission allowances</td></tr>
+<tr><td colspan="2">For the purpose of determining the sub-asset classes not having a liquid market as per Article 6a the following methodology shall apply:</td></tr>
+<tr><td>Sub-asset class</td><td>Liquidity determination</td></tr>
+<tr><td>European Union Allowances (EUA) any unit recognised for compliance with the requirements of Directive 2003/87/EC of the European Parliament and of the Council (1) (Emissions Trading Scheme) which represents the right to emit the equivalent to 1 tonne of carbon dioxide equivalent (tCO2e) RTS2#3 = EMAL and RTS23#37 = EUAE </td><td>European Union Allowances (EUA) are considered to have a liquid market</td></tr>
+<tr><td>Any other emission allowances RTS2#3 = EMAL and RTS23#37 &lt;&gt; EUAE </td><td>Any other emission allowances are considered not to have a liquid market</td></tr>
+<tr><td colspan="2">(1)  Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32, ELI: http://data.europa.eu/eli/dir/2003/87/oj). </td></tr>
+</tbody>
+</table>
+
+**Table 12.2**
+
+**Emission allowances – pre-trade LIS threshold and post-trade size threshold**
+
+<table>
+<tbody><tr><td colspan="3">Asset class – Emission allowances</td></tr>
+<tr><td>Sub-asset class</td><td>Pre-trade LIS</td><td>Post-trade size threshold</td></tr>
+<tr><td>European Union Allowances (EUA)</td><td>5 000 tons of Carbon Dioxide Equivalent</td><td>25 000 tons of Carbon Dioxide Equivalent</td></tr>
+<tr><td>Any other emission allowances</td><td>Any size</td><td>Any size</td></tr>
+</tbody>
+</table>
+
+**13\. Emission allowance derivatives**
+
+**Table 13.1**
+
+**Emission allowance derivatives — classes not having a liquid market**
+
+<table>
+<tbody><tr><td>  </td><td colspan="2">Asset class — Emission Allowance Derivatives</td></tr>
+<tr><td rowspan="2">Sub-asset class</td><td colspan="2">Each sub-class shall be determined not to have a liquid market as per Articles 6 and 8(1)(b) if it does not meet one or all of the following thresholds of the quantitative liquidity criteria</td></tr>
+<tr><td>Average Daily Amount (ADA) [quantitative liquidity criterion 1] </td><td>Average daily number of trades [quantitative liquidity criterion 2] </td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Allowances (EUA) a financial instrument relating to emission allowances of the type European Union Allowances (EUA) as defined in Section C(4) of Annex I of Directive 2014/65/EU  RTS2#3 = DERV and RTS2#4 = EMAL and RTS2#43 = EUAE </td><td>150 000 tonnes of Carbon Dioxide Equivalent</td><td>5</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Aviation Allowances (EUAA) a financial instrument relating to emission allowances of the type European Union Aviation Allowances (EUAA) as defined in Section C(4) of Annex I of Directive 2014/65/EU  RTS2#3 = DERV and RTS2#4 = EMAL and RTS2#43 = EUAA </td><td>150 000 tonnes of Carbon Dioxide Equivalent</td><td>5</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Certified Emission Reductions (CER) a financial instrument relating to emission allowances of the type Certified Emission Reductions (CER) as defined in Section C(4) of Annex I of Directive 2014/65/EU  RTS2#3 = DERV and RTS2#4 = EMAL and RTS2#43 = CERE </td><td>150 000 tonnes of Carbon Dioxide Equivalent</td><td>5</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Emission Reduction Units (ERU) a financial instrument relating to emission allowances of the type Emission Reduction Units (ERU) as defined in Section C(4) of Annex I of Directive 2014/65/EU  RTS2#3 = DERV and RTS2#4 = EMAL and RTS2#43 = ERUE </td><td>150 000 tonnes of Carbon Dioxide Equivalent</td><td>5</td></tr>
+<tr><td>Other Emission allowance derivatives an emission allowance derivative whose underlying is an emission allowances recognised for compliance with the requirements of Directive 2003/87/EC (Emissions Trading Scheme) and is not a European Union Allowances (EUA), a European Union Aviation Allowances (EUAA), a Certified Emission Reductions (CER) and an Emission Reduction Units (ERU)  RTS2#3 = DERV and RTS2#4 = EMAL and RTS2#43 = OTHR </td><td colspan="2">any other emission allowance derivative is considered not to have a liquid market</td></tr>
+</tbody>
+</table>
+
+**Table 13.2**
+
+**Emission allowance derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="8">Asset class – Emission Allowance Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td rowspan="3">Transactions to be considered for the calculation of the thresholds</td><td colspan="6">Percentiles and threshold floors to be applied for the calculation of the pre-trade and post-trade SSTI and LIS thresholds for the sub-asset classes determined to have a liquid market</td></tr>
+<tr><td colspan="2">LIS pre-trade</td><td colspan="2">SSTI post-trade</td><td colspan="2">LIS post-trade</td></tr>
+<tr><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Threshold floor</td><td>Trade – percentile</td><td>Threshold floor</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Allowances (EUA)</td><td>transactions executed on all emission allowance derivatives whose underlying is of the type European Union Allowances (EUA)</td><td>70 </td><td>50 000 tons of Carbon Dioxide</td><td>80 </td><td>90 000 tons of Carbon Dioxide</td><td>90 </td><td>100 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Aviation Allowances (EUAA)</td><td>transactions executed on all emission allowance derivatives whose underlying is of the type European Union Aviation Allowances (EUAA)</td><td>70 </td><td>25 000 tons of Carbon Dioxide</td><td>80 </td><td>40 000 tons of Carbon Dioxide</td><td>90 </td><td>50 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Certified Emission Reductions (CER)</td><td>transactions executed on all emission allowance derivatives whose underlying is of the type Certified Emission Reductions (CER)</td><td>70 </td><td>25 000 tons of Carbon Dioxide</td><td>80 </td><td>40 000 tons of Carbon Dioxide</td><td>90 </td><td>50 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Emission Reduction Units (ERU)</td><td>transactions executed on all emission allowance derivatives whose underlying is of the type Emission Reduction Units (ERU)</td><td>70 </td><td>25 000 tons of Carbon Dioxide</td><td>80 </td><td>40 000 tons of Carbon Dioxide</td><td>90 </td><td>50 000 tons of Carbon Dioxide</td></tr>
+</tbody>
+</table>
+
+**Table 13.3**
+
+**Emission allowance derivatives – pre-trade and post-trade SSTI and LIS thresholds for sub-classes determined not to have a liquid market**
+
+<table>
+<tbody><tr><td colspan="4">Asset class – Emission Allowance Derivatives</td></tr>
+<tr><td rowspan="3">Sub-asset class</td><td colspan="3">Pre-trade and post-trade SSTI and LIS thresholds for the sub-asset classes determined not to have a liquid market</td></tr>
+<tr><td>LIS pre-trade</td><td>SSTI post-trade</td><td>LIS post-trade</td></tr>
+<tr><td>Threshold value</td><td>Threshold value</td><td>Threshold value</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Allowances (EUA)</td><td>50 000 tons of Carbon Dioxide</td><td>90 000 tons of Carbon Dioxide</td><td>100 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type European Union Aviation Allowances (EUAA)</td><td>25 000 tons of Carbon Dioxide</td><td>40 000 tons of Carbon Dioxide</td><td>50 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Certified Emission Reductions (CER)</td><td>25 000 tons of Carbon Dioxide</td><td>40 000 tons of Carbon Dioxide</td><td>50 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Emission allowance derivatives whose underlying is of the type Emission Reduction Units (ERU)</td><td>25 000 tons of Carbon Dioxide</td><td>40 000 tons of Carbon Dioxide</td><td>50 000 tons of Carbon Dioxide</td></tr>
+<tr><td>Other Emission allowance derivatives</td><td>25 000 tons of Carbon Dioxide</td><td>40 000 tons of Carbon Dioxide</td><td>50 000 tons of Carbon Dioxide</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Reference data to be provided for the purpose of transparency calculations**
+
+**Table 1**
+
+**Symbol table for Table 2**
+
+| SYMBOL | DATA TYPE | DEFINITION |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field |
+| {DECIMAL-n/m} | Decimal number of up to n digits, of which up to m digits can be fraction digits | Numerical field for both positive and negative values: 1. decimal separator is ‘.’ (full stop); 2. the number may be prefixed with ‘-’ (minus) to indicate negative numbers. Where applicable, values shall be rounded and not truncated. |
+| {COUNTRYCODE_2} | 2 alphanumerical characters | 2-letter country code, as defined by ISO 3166-1 alpha-2 country code |
+| {CURRENCYCODE_3} | 3 alphanumerical characters | 3-letter currency code, as defined by ISO 4217 currency codes |
+| {DATEFORMAT} | ISO 8601 date format | Dates shall be presented in the following format: YYYY-MM-DD |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {LEI} | 20 alphanumerical characters | Legal entity identifier as defined in ISO 17442 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+| {EIC} | 16 alphanumerical characters | an EIC code pertaining to a delivery point within or outside the European Union |
+| {INDEX} | 4 alphabetic characters | ‘EONA’ — EONIA ‘EONS’ — EONIA SWAP ‘EURI’ — EURIBOR ‘EUUS’ — EURODOLLAR ‘EUCH’ — EuroSwiss ‘GCFR’ — GCF REPO ‘ISDA’ — ISDAFIX ‘LIBI’ — LIBID ‘LIBO’ — LIBOR ‘MAAA’ — Muni AAA ‘PFAN’ — Pfandbriefe ‘TIBO’ — TIBOR ‘STBO’ — STIBOR ‘BBSW’ — BBSW ‘JIBA’ — JIBAR ‘BUBO’ — BUBOR ‘CDOR’ — CDOR ‘CIBO’ — CIBOR ‘MOSP’ — MOSPRIM ‘NIBO’ — NIBOR ‘PRBO’ — PRIBOR ‘TLBO’ — TELBOR ‘WIBO’ — WIBOR ‘TREA’ — Treasury ‘SWAP’ — SWAP ‘FUSW’ — Future SWAP |
+
+**Table 2**
+
+**Details of the reference data to be provided for the purpose of transparency calculations**
+
+| # | FIELD | DETAILS TO BE REPORTED | FORMAT FOR REPORTING |
+| --- | --- | --- | --- |
+| 1 | Instrument identification code | Code used to identify the financial instrument | {ISIN} |
+| 2 | Instrument full name | Full name of the financial instrument | {ALPHANUM-350} |
+| 3 | MiFIR identifier | Identification of non-equity financial instruments: Securitised derivatives as defined in Table 4.1 in Section 4 of Annex III Structured Finance Products (SFPs) as defined in Article 2(1)(28) of Regulation (EU) No 600/2014 Bonds (for all bonds except ETCs and ETNs) as defined in Article 4(1)(44)(b) of Directive 2014/65/EU ETCs as defined in Article 4(1)(44)(b) of Directive 2014/65/EU and further specified in Table 2.4 of Section 2 of Annex III ETNs as defined in Article 4(1)(44)(b) of Directive 2014/65/EU and further specified in Table 2.4 of Section 2 of Annex III Emission allowances as defined in Table 12.1 of Section 12 of Annex III Derivative as defined in Annex I, Section C (4) to (10) of Directive 2014/65/EU | Non-equity financial instruments: ‘SDRV’ — Securitised derivatives ‘SFPS’ — Structured Finance Products (SFPs) ‘BOND’ — Bonds ‘ETCS’ — ETCs ‘ETNS’ — ETNs ‘EMAL’ — Emission Allowances ‘DERV’ — Derivative |
+| 4 | Asset class of the underlying | To be populated when the MiFIR identifier is a securitised derivative or a derivative. | ‘INTR’ — Interest rate ‘EQUI’ — Equity ‘COMM’ — Commodity ‘CRDT’ — Credit ‘CURR’ — Currency ‘EMAL’ — Emission Allowances ‘OCTN’ — Other C10 |
+| 5 | Contract type | To be populated when the MiFIR identifier is a derivative. | ‘OPTN’ — Options ‘FUTR’ — Futures (including — Forward Freight Agreements (FFAs)) ‘FRAS’ — Forward Rate Agreement (FRA) ‘FORW’ — Forwards ‘SWAP’ — Swaps ‘PSWP’ — Portfolio Swaps ‘SWPT’ — Swaptions ‘OPTS’ — Option on a swap ‘FONS’ — Futures on a swap ‘FWOS’ — Forwards on a swap ‘SPDB’ — Spread betting ‘CFDS’ — CFD ‘OTHR’ — Other |
+| 6 | Reporting day | Day for which the reference data is provided | {DATEFORMAT} |
+| 7 | Trading venue | Segment MIC for the trading venue, where available, otherwise operating MIC. | {MIC} |
+| 8 | Maturity | Defined maturity of the financial instrument. Field applicable for the asset classes of bonds, Interest rate derivatives, equity derivatives, commodity derivatives, foreign exchange derivatives, credit derivatives C10 derivatives and derivatives on emission allowances. | {DATEFORMAT} |
+
+**Bonds (all bond types except ETCs and ETNs) related fields**
+
+The fields in this section shall only be populated for Bonds as defined in Table 2.1 of Section 2 of Annex III
+
+| 9 | Bond type | Bond type as specified in Table 2.2 of Section 2 of Annex III. To be populated only when the MiFIR identifier is equal to bonds. | ‘EUSB’ — Sovereign Bond ‘OEPB’ — Other Public Bond ‘CVTB’ — Convertible Bond ‘CVDB’ — Covered Bond ‘CRPB’ — Corporate Bond ‘OTHR’ — Other |
+| --- | --- | --- | --- |
+| 10 | Issuance date | Date on which a bond is issued and begins to accrue interest. | {DATEFORMAT} |
+
+**Emission Allowances related fields**
+
+The fields in this section shall only be populated for emission allowances as defined in Table 12.1 of Section 12 of Annex III
+
+| 11 | Emissions Allowances sub type | Emissions Allowances | ‘CERE’ — CER ‘ERUE’ — ERU ‘EUAE’ — EUA ‘EUAA’ — EUAA ‘OTHR’ — Other |
+| --- | --- | --- | --- |
+
+**Derivatives related fields**
+
+**Commodity derivatives and C10 derivatives**
+
+The fields in this section shall only be populated for commodity derivatives as defined in Table 7.1 of Section 7 of Annex III and for C10 derivatives as defined in Table 10.1 of Section 10 of Annex III
+
+| 12 | Specification of the size related to the freight sub-type | To be populated when the base product specified in field 35 in Table 2 of the Annex in Delegated Regulation (EU) 2017/585 is equal to freight. | For dry freight: ‘CAPE’ — Capesize ‘PNMX’ — Panamax ‘SPMX’ — Supramax ‘HAND’ — Handysize For wet freight: ‘CLAN’ — Clean ‘DRTY’ — Dirty {ALPHANUM-4} otherwise |
+| --- | --- | --- | --- |
+| 13 | Specific route or time charter average | To be populated when the base product specified in field 35 in Table 2 of the Annex in Delegated Regulation (EU) 2017/585 is equal to freight. | For wet freight: ‘TD7’ — TD7 ‘TD8’ — TD8 ‘TD17’ — TD17 ‘TD19’ — TD19 ‘TD20’ — TD20 ‘BLPG1’ — BLPG1 ‘TD3C’ — TD3C ‘TC2’ — TC2 ‘TC2_37’ — TC2_37 ‘TD3’ — TD3 ‘TC5’ — TC5 ‘TC6’ — TC6 ‘TC7’ — TC7 ‘TC9’ — TC9 ‘TC12’ — TC12 ‘TC14’ — TC14 ‘TC15’ — TC15 For dry freight: ‘4TC’ — 4TC ‘5TC’ — 5TC ‘6TC’ — 6TC ‘10TC’ — 10TC ‘C3’ — C3 ‘C5’ — C5 ‘C7’ — C7 ‘P1A’ — P1A ‘P2A’ — P2A ‘P3A’ — P3A ‘P1E’ — P1E ‘P2E’ — P2E ‘P3E’— P3E {ALPHANUM-6} otherwise |
+| 14 | Delivery/cash settlement location | To be populated when the base product specified in field 35 in Table 2 of the Annex in Delegated Regulation (EU) 2017/585 is equal to energy. | {EIC} for electricity or natural gas ‘OTHR’ — Other |
+| 15 | Notional currency | Currency in which the notional is denominated. | {CURRENCYCODE_3} |
+
+**Interest rate derivatives**
+
+The fields in this section shall only be populated for interest rate derivatives as defined in Table 5.1 of Section 5 of Annex III
+
+| 16 | Underlying type | To be populated for contract type different from swaps, swaptions, futures on a swap and forwards on a swap with one of the following alternatives *********************************************************** To be populated for the contract types of swaps, swaptions, options on a swap, futures on a swap and forwards on a swap with regard to the underlying swap with one of the following alternatives | ‘BOND’ — Bond ‘BNDF’ — Bond Futures ‘INTR’ — Interest rate ‘IFUT’ — Interest rate Futures ***************************** ‘FFMC’ — FLOAT TO FLOAT MULTI-CURRENCY SWAPS ‘XFMC’ — FIXED TO FLOAT MULTI-CURRENCY SWAPS ‘XXMC’ — FIXED TO FIXED MULTI-CURRENCY SWAPS ‘OSMC’ — OIS MULTI-CURRENCY SWAPS ‘IFMC’ — INFLATION MULTI- CURRENCY SWAPS ‘FFSC’ — FLOAT TO FLOAT SINGLE-CURRENCY SWAPS ‘XFSC’ — FIXED TO FLOAT SINGLE-CURRENCY SWAPS ‘XXSC’ — FIXED TO FIXED SINGLE-CURRENCY SWAPS ‘OSSC’ — OIS SINGLE-CUR- RENCY SWAPS ‘IFSC’ — INFLATION SINGLE- CURRENCY SWAPS |
+| --- | --- | --- | --- |
+| 17 | Issuer of the underlying bond | To be populated when the underlying type is a bond or a bond future with the legal entity identifier code (LEI) of the issuer of the direct or ultimate underlying bond. | {LEI} |
+| 18 | Maturity date of the underlying bond | To be populated with the date of the defined maturity of the underlying bond. | {DATEFORMAT} |
+| 19 | Issuance date of the under- lying bond | To be populated with the issuance date of the underlying bond. | {DATEFORMAT} |
+| 20 | Notional currency of the swaption | To be populated for swaptions only. | {CURRENCYCODE_3} |
+| 21 | Maturity of the underlying swap | To be populated for swaptions, options on swaps, futures on swaps and for- wards on a swap only. | {DATEFORMAT} |
+| 22 | Inflation index ISIN code/ISIN code of the underlying bond | In case of swaptions on one of the following underlying swap types: inflation single currency swap, futures/forwards on inflation single currency swap, inflation multi-currency swap, futures/forwards on inflation multi-currency swap; whenever the inflation index has an ISIN, the field has to be populated with the ISIN code for that index. ********************************************************** In case of Bond Options/ Options on a bond option/ Options on a bond future, the field has to be populated with the ISIN code of the ultimate underlying bond. | {ISIN} ***************** {ISIN} |
+| 23 | Inflation index name | To be populated with standardised name of the index in case of swaptions on one of the following underlying swap types: inflation single currency swap, futures/forwards on inflation single currency swap, inflation multi-currency swap, futures/ forwards on inflation multi-currency swap. | {ALPHANUM-25} |
+| 24 | Reference rate | Name of the reference rate. | {INDEX} or {ALPHANUM-25}- if the reference rate is not included in the {INDEX} list |
+| 25 | Term of the underlying interest rate | This field states the term of the interest rate underlying the contract. The term shall be expressed in days, weeks, months or years. Starting with the largest term unit (years) and working downwards, if the term of the interest rate is an integer number, such standard term shall be populated in this field. | {INTEGER-3}+‘DAYS’ — days {INTEGER-3}+‘WEEK’ — weeks {INTEGER-3}+‘MNTH’ — months {INTEGER-3}+‘YEAR’ — years |
+
+**Foreign exchange derivatives**
+
+The fields in this section shall only be populated for foreign exchange derivatives as defined in Table 8.1 of Section 8 of Annex III
+
+| 26 | Contract sub-type | To be populated so as to differentiate deliverable and non-deliverable forwards, options and swaps as defined in Table 8.1 of Section 8 of Annex III. | ‘DLVB’ — Deliverable ‘NDLV’ — Non-deliverable |
+| --- | --- | --- | --- |
+
+**Equity derivatives**
+
+The fields shall only be populated for equity derivatives as defined in Table 6.1 of Section 6 of Annex III
+
+| 27 | Underlying type | To be populated when the MiFIR identifier is a derivative, the asset class of the underlying is equity and the sub-asset class is neither swaps nor portfolio swaps. | ‘STIX’ — Stock Index ‘SHRS’ — Share/Stock ‘DIVI’ — Dividend Index ‘DVSE’ — Stock dividend ‘BSKT’ — Basket of shares resulting from a corporate action ‘ETFS’ — ETFs ‘VOLI’ — Volatility Index ‘OTHR’ — Other (including depositary receipts, certificates and other equity like financial instrument) |
+| --- | --- | --- | --- |
+|  |  | ******************************************* To be populated when the MiFIR identifier is a derivative, the asset class of the underlying is equity, the sub-asset class is either swaps or portfolio swaps and the segmentation criterion 2 as defined in Table 6.1 of Section 6 of Annex III is a single name. | ************* ‘SHRS’ — Share/Stock ‘DVSE’ — Stock dividend ‘ETFS’ — ETFs ‘OTHR’ — Other (including depositary receipts, certificates and other equity like financial instrument) |
+|  |  | ******************************************* To be populated when the MiFIR identifier is a derivative, the asset class of the underlying is equity, the sub-asset class is either swaps or portfolio swaps and the segmentation criterion 2 as defined in Table 6.1 of Section 6 of Annex III is an index. | ************* ‘STIX’ — Stock Index ‘DIVI’ — Dividend Index ‘VOLI’ — Volatility Index ‘OTHR’ — Other |
+|  |  | ******************************************* To be populated when the MiFIR identifier is a derivative, the asset class of the underlying is equity, the sub-asset class is either swaps or portfolio swaps and the segmentation criterion 2 as defined in Table 6.1 of Section 6 of Annex III is a basket. | ************* ‘BSKT’ — Basket |
+| 28 | Parameter | To be populated when the MiFIR identifier is a derivative, the asset class of the underlying is equity and the sub-asset class is one of the following: swaps, portfolio swaps. | ‘PRBP’ — Price return basic performance parameter ‘PRDV’ — Parameter return dividend ‘PRVA’ — Parameter return variance ‘PRVO’ — Parameter return volatility |
+
+**Contracts for difference (CFDs)**
+
+The fields shall only be populated when the contract type is equal to contract for difference or spread betting
+
+| 29 | Underlying type | To be populated when the MiFIR identifier is a derivative and ‘the contract type is equal to contract for difference or spread betting | ‘CURR’ — Currency ‘EQUI’ — Equity ‘BOND’ — Bonds ‘FTEQ’ — Futures/Forward on an equity ‘OPEQ’ — Options on an equity ‘COMM’ — Commodity ‘EMAL’ — Emission Allowances ‘OTHR’ — Other |
+| --- | --- | --- | --- |
+| 30 | Notional currency 1 | Currency 1 of the underlying currency pair. This field is applicable when the underlying type is currency. | {CURRENCYCODE_3} |
+| 31 | Notional currency 2 | Currency 2 of the underlying currency pair. This field is applicable when the underlying type is currency. | {CURRENCYCODE_3} |
+
+**Credit derivatives**
+
+The fields in this section shall only be populated for credit derivatives as defined in Table 9.1 of Section 9 of Annex III
+
+| 32 | ISIN code of the underlying credit default swap | To be populated for derivatives on a credit default swaps with the ISIN code of the underlying swap. | {ISIN} |
+| --- | --- | --- | --- |
+| 33 | Underlying Index code | To be populated for derivatives on a CDS index with the ISIN code of the index. | {ISIN} |
+| 34 | Underlying Index name | To be populated for derivatives on a CDS index with the standardised name of the index. | {ALPHANUM-25} |
+| 35 | Series | The series number of the composition of the index if applicable. To be populated for a CDS Index or a derivative on a CDS Index with the series of the CDS Index. | {DECIMAL-18/17} |
+| 36 | Version | A new version of a series is issued if one of the constituents defaults and the index has to be re-weighted to account for the new number of total constituents within the index. To be populated for a CDS Index or a derivative on a CDS Index with the version of the CDS Index. | {DECIMAL-18/17} |
+| 37 | Roll months | All months when the roll is expected as established by the index provider for a given year. Field shall be repeated for each month in the roll. To be populated for a CDS Index or a derivative on a CDS Index. | ‘01’, ‘02’, ‘03’, ‘04’, ‘05’, ‘06’, ‘07’, ‘08’, ‘09’, ‘10’, ‘11’, ‘12’ |
+| 38 | Next roll date | To be populated in the case of a CDS Index or a derivative on a CDS Index with the next roll date of the index as established by the index provider. | {DATEFORMAT} |
+| 39 | Issuer of sovereign and public type | To be populated when the reference entity of a single name CDS or a derivative on single name CDS is a sovereign issuer as defined in Table 9.1 Section 9 of Annex III. | ‘TRUE’ — the reference entity is an issuer of sovereign and public type ‘FALSE’ — the reference entity is not an issuer of sovereign and public type |
+| 40 | Reference obligation | To be populated for a derivative on a single name credit de- fault swap with the ISIN of the reference obligation. | {ISIN} |
+| 41 | Reference entity | To be populated with the reference entity of a single name CDS or a derivative on single name CDS. | {COUNTRYCODE_2} or ISO 3166-2 — 2 character country code followed by dash ‘-’ and up to 3 alphanumeric character country subdivision code or {LEI} |
+| 42 | Notional currency | Currency in which the notional is denominated. | {CURRENCYCODE_3} |
+
+**Emission allowance derivatives**
+
+The fields in this section shall only be populated for emission allowance derivatives as defined in Table 13.1 of Section 13 of Annex III
+
+| 43 | Emission Allowances derivative sub type | To be populated when variable #3 ‘MiFIR identifier’ is ‘DERV’-derivative and variable #4 ‘asset class of the underlying’ is ‘EMAL’-emission allowance | ‘CERE’ — CER ‘ERUE’ —ERU ‘EUAE’ — EUA ‘EUAA’ —EUAA ‘OTHR’ — Other |
+| --- | --- | --- | --- |
+
+## ANNEX V
+
+**Quantitative data to be provided for the purpose of transparency calculations**
+
+**Table 1**
+
+**Symbol table for Table 2**
+
+| Symbol | Data Type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field. |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+| {DATEFORMAT} | ISO 8601 date format | Dates shall be formatted by the following format: YYYY-MM-DD. |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total of which up to m digits can be fraction digits | Numerical field for both positive and negative values. Decimal separator is ‘.’ (full stop); negative numbers are prefixed with ‘–’ (minus); values are rounded and not truncated. |
+| {INTEGER-n} | Integer number of up to n digits | Numerical field for both positive and negative integer values. |
+
+**Table 2**
+
+**Details of the data to be provided for the purpose of determining a liquid market, the LIS and SSTI thresholds for non-equity financial instruments**
+
+| # | Field | Details to be reported | Type of execution or publication venue | Format and standards for reporting |
+| --- | --- | --- | --- | --- |
+| 1 | Instrument identification code | Code used to identify the financial instrument | Regulated Market (RM) Multilateral Trading Facility (MTF) Organised Traded Facility (OTF) Approved Publication Arrangement (APA) Consolidated tape provider (CTP) | {ISIN} |
+| 2 | Execution date | Date on which the trades are executed. | RM, MTF, OTF, APA, CTP | {DATEFORMAT} |
+| 3 | Execution venue | Segment MIC of the EU trading venue or systematic internaliser, where available, otherwise operating MIC. Segment MIC of the systematic internaliser where available, otherwise the operating MIC. The MIC code XOFF for OTC transactions. For a given ISIN and execution date, APAs shall sum all OTC trading activity for that instrument in a single record (ISIN, XOFF, execution date). | RM, MTF, OTF, APA, CTP | {MIC} of the trading venue or systematic internaliser or ‘XOFF’ |
+| 4 | Suspended instrument flag | Indicator of whether the instrument was suspended during the whole day for trading on the respective TV on the execution date. As a consequence, Fields 5 shall be reported with a value of zero. | RM, MTF, OTF | ‘TRUE’ – if the instrument was suspended for the whole trading day or ‘FALSE’ – if the instrument was not suspended for the whole trading day |
+| 5 | Total number of transactions | The total number of transactions executed on the execution date. Transactions that have been cancelled shall be excluded from the reported figures. Transactions that benefit from deferred publication shall be counted in the aggregates provided by the submitting entities on the basis of the execution date. In all cases, the field has to be populated with a value greater than or equal to zero. For instruments that are suspended for the whole day, the field shall have zero value. | RM, MTF, OTF, APA, CTP | {INTEGER-18} |
+| 6 | Total volume | The total volume executed on the execution date. The volume shall be measured in accordance with Table 4 of Annex II of this Regulation. Monetary amounts shall be reported in Euros. Transactions that have been cancelled shall be excluded from the reported figures. Transactions that benefit from deferred publication shall be counted in the aggregates provided by the submitting entities on the basis of the execution date. | RM, MTF, OTF, APA, CTP | {DECIMAL-18/5} |
+| 7 | ‘Size of transaction’ bin range | This field shall be populated with the values as provided in Tables 3 and 4 of this Annex. The size of transaction bin range as defined: in Table 4 of this Annex for emission allowances and derivatives thereof; In Table 3 of this Annex for the other instruments. For instruments that are suspended for the whole day, data related to this field and to fields 8 and 9 shall not be reported. | RM, MTF, OTF, APA, CTP | {ALPHANUM - -140} |
+| 8 | Total number of transactions executed for that bin | Total number of transactions executed on the execution date which size lies in the bin’s range. Transactions that have been cancelled shall be excluded from the reported figures. Transactions that benefit from deferred publication shall be counted in the aggregates provided by the submitting entities on the basis of the execution date. | RM, MTF, OTF, APA, CTP | {INTEGER-18} |
+| 9 | Total volume traded for that bin | Total volume traded represented by all transactions executed on the reporting day which size lies in the bin’s range. The volume shall be measured in accordance with Table 4 of Annex II of this Regulation. Monetary amounts shall be reported in Euros. Transactions that have been cancelled shall be excluded from the reported figures. Transactions that benefit from deferred publication shall be counted in the aggregates provided by the submitting entities on the basis of the execution date. | RM, MTF, OTF, APA, CTP | {DECIMAL-18/5} |
+
+**Table 3**
+
+**Trade-size bins for bonds, SFPs, securitised derivatives, interest rate derivatives, equity derivatives, foreign exchange derivatives, credit derivatives, commodity derivatives, C10 derivatives and CFDs**
+
+<table>
+<tbody><tr><td>Scope</td><td>Size of transaction bin</td><td>Definition</td></tr>
+<tr><td rowspan="7">Transactions with a size between 0 and 1,000,000 (excluded)</td><td>]0 – 100,000[</td><td>Transactions with a trade size smaller than EUR 100,000</td></tr>
+<tr><td>[100,000 – 100,000]</td><td>Transactions with a trade size equal to EUR 100,000</td></tr>
+<tr><td>]100,000 – 200,000[</td><td>Transactions with a trade size greater than EUR 100,000 and smaller than EUR 200,000</td></tr>
+<tr><td>[200,000 – 300,000[</td><td>Transactions with a trade size greater than or equal to EUR 200,000 and smaller than EUR 300,000</td></tr>
+<tr><td>[300,000 – 400,000[</td><td>Transactions with a trade size greater than or equal to EUR 300,000 and smaller than EUR 400,000</td></tr>
+<tr><td>[Y– Y+100,000[</td><td>Transactions with a trade size greater than or equal to EUR Y and smaller than EUR Y + 100,000 (EUR 100,000 step)</td></tr>
+<tr><td>[900,000 – 1,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 900,000 and smaller than EUR 1,000,000</td></tr>
+<tr><td rowspan="4">Transactions with a size between 1,000,000 (included) and 10,000,000 (excluded)</td><td>[1,000,000 – 1,500,000[</td><td>Transactions with a trade size greater than or equal to EUR 1,000,000 and smaller than EUR 1,500,000</td></tr>
+<tr><td>[1,500,000 – 2,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 1,500,000 and smaller than EUR 2,000,000</td></tr>
+<tr><td>[Z– Z+500,000[</td><td>Transactions with a trade size greater than or equal to EUR Z and smaller than EUR Z + 500,000 (EUR 500,000 step)</td></tr>
+<tr><td>[9,500,000 – 10,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 9,500,000 and smaller than EUR 10,000,000</td></tr>
+<tr><td rowspan="4">Transactions with a size between 10,000,000 (included) and 100,000,000 (excluded)</td><td>[10,000,000 – 15,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 10,000,000 and smaller than EUR 15,000,000</td></tr>
+<tr><td>[15,000,000 – 20,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 15,000,000 and smaller than EUR 20,000,000</td></tr>
+<tr><td>[W– W+5,000,000[</td><td>Transactions with a trade size greater than or equal to EUR W and smaller than EUR W + 5,000,000 (EUR 5,000,000 step)</td></tr>
+<tr><td>[95,000,000 – 100,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 95,000,000 and smaller than EUR 100,000,000</td></tr>
+<tr><td rowspan="3">Transactions with a size greater than or equal to 100,000,000</td><td>[100,000,000 – 125,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 100,000,000 and smaller than EUR 125,000,000</td></tr>
+<tr><td>[125,000,000 – 150,000,000[</td><td>Transactions with a trade size greater than or equal to EUR 125,000,000 and smaller than EUR 150,000,000</td></tr>
+<tr><td>[X– X+25,000,000[</td><td>Transactions with a trade size greater than or equal to EUR X and smaller than EUR X + 25,000,000 (EUR 25,000,000 step)</td></tr>
+<tr><td>…</td><td>…</td><td>…</td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Size of transaction bin ranges for emission allowances and derivatives on emission allowances**
+
+<table>
+<tbody><tr><td>Scope</td><td>Size of transaction bin</td><td>Definition</td></tr>
+<tr><td rowspan="7">Transactions with a size between 0 and 1,000,000 (excluded)</td><td>]0 – 100,000[</td><td>Transactions with a trade size smaller than 100,000 tonnes of carbon dioxide equivalent (tCO2e)</td></tr>
+<tr><td>[100,000 – 100,000]</td><td>Transactions with a trade size equal to 100,000 tCO2e</td></tr>
+<tr><td>]100,000 – 200,000[</td><td>Transactions with a trade size greater than 100,000 tCO2e and smaller than 200,000 tCO2e</td></tr>
+<tr><td>[200,000 – 300,000[</td><td>Transactions with a trade size greater than or equal to 200,000 tCO2e and smaller than 300,000 tCO2e</td></tr>
+<tr><td>[300,000 – 400,000[</td><td>Transactions with a trade size greater than or equal to 300,000 tCO2e and smaller than 400,000 tCO2e</td></tr>
+<tr><td>[Y– Y+100,000[</td><td>Transactions with a trade size greater than or equal to Y tCO2e and smaller than Y tCO2e + 100,000 (100,000 tCO2e step)</td></tr>
+<tr><td>[900,000 – 1,000,000[</td><td>Transactions with a trade size greater than or equal to 900,000 tCO2e and smaller than 1,000,000 tCO2e</td></tr>
+<tr><td rowspan="4">Transactions with a size between 1,000,000 (included) and 10,000,000 (excluded)</td><td>[1,000,000 – 1,500,000[</td><td>Transactions with a trade size greater than or equal to 1,000,000 tCO2e and smaller than 1,500,000 tCO2e</td></tr>
+<tr><td>[1,500,000 – 2,000,000[</td><td>Transactions with a trade size greater than or equal to 1,500,000 tCO2e and smaller than 2,000,000 tCO2e</td></tr>
+<tr><td>[Z– Z+500,000[</td><td>Transactions with a trade size greater than or equal to Z tCO2e and smaller than Z tCO2e + 500,000 (500,000 tCO2e step)</td></tr>
+<tr><td>[9,500,000 – 10,000,000[</td><td>Transactions with a trade size greater than or equal to 9,500,000 tCO2e and smaller than 10,000,000 tCO2e</td></tr>
+<tr><td rowspan="4">Transactions with a size between 10,000,000 (included) and 100,000,000 (excluded)</td><td>[10,000,000 – 15,000,000[</td><td>Transactions with a trade size greater than or equal to 10,000,000 tCO2e and smaller than 15,000,000 tCO2e</td></tr>
+<tr><td>[15,000,000 – 20,000,000[</td><td>Transactions with a trade size greater than or equal to 15,000,000 tCO2e and smaller than 20,000,000 tCO2e</td></tr>
+<tr><td>[W– W+5,000,000[</td><td>Transactions with a trade size greater than or equal to W tCO2e and smaller than W tCO2e + 5,000,000 (5,000,000 tCO2e step)</td></tr>
+<tr><td>[95,000,000 – 100,000,000[</td><td>Transactions with a trade size greater than or equal to 95,000,000 tCO2e and smaller than 100,000,000 tCO2e</td></tr>
+<tr><td rowspan="3">Transactions with a size greater than or equal to 100,000,000</td><td>[100,000,000 – 125,000,000[</td><td>Transactions with a trade size greater than or equal to 100,000,000 tCO2e and smaller than 125,000,000 tCO2e</td></tr>
+<tr><td>[125,000,000 – 150,000,000[</td><td>Transactions with a trade size greater than or equal to 125,000,000 tCO2e and smaller than 150,000,000 tCO2e</td></tr>
+<tr><td>[X– X+25,000,000[</td><td>Transactions with a trade size greater than or equal to X tCO2e and smaller than X tCO2e + 25,000,000 (25,000,000 tCO2e step)</td></tr>
+<tr><td>…</td><td>…</td><td>…</td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 2 ) Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the reporting of transactions to competent authorities (OJ L 87, 31.3.2017, p. 449).

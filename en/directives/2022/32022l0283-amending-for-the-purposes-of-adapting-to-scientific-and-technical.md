@@ -95,9 +95,11 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entries 4(b), 4(b)-I, 4 (b)-II and 4(b)-III are replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘ 4(b)</td><td>Mercury in High Pressure Sodium (vapour) lamps for general lighting purposes not exceeding (per burner) in lamps with improved colour rendering index Ra &gt; 80: P ≤ 105 W: 16 mg may be used per burner</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>4(b)-I</td><td>Mercury in High Pressure Sodium (vapour) lamps for general lighting purposes not exceeding (per burner) in lamps with improved colour rendering index Ra &gt; 60: P ≤ 155 W: 30 mg may be used per burner</td><td>Expires on 24 February 2023</td></tr>
 <tr><td>4(b)-II</td><td>Mercury in High Pressure Sodium (vapour) lamps for general lighting purposes not exceeding (per burner) in lamps with improved colour rendering index Ra &gt; 60: 155 W &lt; P ≤ 405 W: 40 mg may be used per burner</td><td>Expires on 24 February 2023</td></tr>
 <tr><td>4(b)-III</td><td>Mercury in High Pressure Sodium (vapour) lamps for general lighting purposes not exceeding (per burner) in lamps with improved colour rendering index Ra &gt; 60: P &gt; 405 W: 40 mg may be used per burner</td><td>Expires on 24 February 2023’</td></tr>
 </tbody>
+</table>

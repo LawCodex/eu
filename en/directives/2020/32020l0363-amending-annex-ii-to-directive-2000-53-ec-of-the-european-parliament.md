@@ -93,6 +93,7 @@ Annex II to Directive 2000/53/EC is amended as follows:
 
 (3) entry 8(g) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘8(g)(i). Lead in solders to complete a viable electrical connection between semiconductor die and carrier within integrated circuit flip chip packages</td><td>Vehicles type approved before 1 October 2022 and spare parts for these vehicles</td><td>X</td></tr>
 <tr><td>8(g)(ii). Lead in solders to complete a viable electrical connection between the semiconductor die and the carrier within integrated circuit flip chip packages where that electrical connection consists of any of the following:<table><tbody><tr><td>(i)</td><td>a semiconductor technology node of 90 nm or larger;</td></tr>
 </tbody>
@@ -105,6 +106,7 @@ Annex II to Directive 2000/53/EC is amended as follows:
 </table>
 </td><td>(2) Valid for vehicles type-approved from 1 October 2022 and spare parts for these vehicles </td><td>X’</td></tr>
 </tbody>
+</table>
 
 (4) the following entry 8(k) is inserted:
 

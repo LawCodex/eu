@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **adapting certain Directives in the field of transport policy, by reason of the accession of Bulgaria and Romania**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2012/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 21 November 2012</td><td> L 343</td><td>32</td><td>14.12.2012</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2006/103/EC**
 

@@ -1,0 +1,413 @@
+---
+title: "Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70"
+identifier: "32007R1370"
+eli: "http://data.europa.eu/eli/reg/2007/1370/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-10-23
+entry_into_force: 2007-07-11
+last_amended: 2017-12-24
+consolidated_version: "02007R1370-20171224"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007R1370-20171224"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70
+
+**REGULATION (EC) No 1370/2007 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2007**
+
+**on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2016/2338 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 </td><td> L 354</td><td>22</td><td>23.12.2016</td></tr>
+</table>
+
+**REGULATION (EC) No 1370/2007 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2007**
+
+**on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70**
+
+## Article 1 — Purpose and scope
+
+1\. The purpose of this Regulation is to define how, in accordance with the rules of Community law, competent authorities may act in the field of public passenger transport to guarantee the provision of services of general interest which are among other things more numerous, safer, of a higher quality or provided at lower cost than those that market forces alone would have allowed.
+
+To this end, this Regulation lays down the conditions under which competent authorities, when imposing or contracting for public service obligations, compensate public service operators for costs incurred and/or grant exclusive rights in return for the discharge of public service obligations.
+
+2\. This Regulation shall apply to the national and international operation of public passenger transport services by rail and other track-based modes and by road, except for services which are operated mainly for their historical interest or their tourist value. Member States may apply this Regulation to public passenger transport by inland waterways and, without prejudice to Council Regulation (EEC) No 3577/92 of 7 December 1992 applying the principle of freedom to provide services to maritime transport within Member States (maritime cabotage) ( 1 ), national sea waters.
+
+Subject to agreement of the competent authorities of the Member States on whose territory the services are provided, public service obligations may concern public transport services at cross-border level, including those covering local and regional transport needs.
+
+3\. This Regulation shall not apply to public works concessions within the meaning of Article 1(3)(a) of Directive 2004/17/EC or of Article 1(3) of Directive 2004/18/EC.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation:
+
+(a) ‘public passenger transport’ means passenger transport services of general economic interest provided to the public on a non-discriminatory and continuous basis;
+
+(b) ‘competent authority’ means any public authority or group of public authorities of a Member State or Member States which has the power to intervene in public passenger transport in a given geographical area or any body vested with such authority;
+
+(c) ‘competent local authority’ means any competent authority whose geographical area of competence is not national;
+
+(d) ‘public service operator’ means any public or private undertaking or group of such undertakings which operates public passenger transport services or any public body which provides public passenger transport services;
+
+(e) ‘public service obligation’ means a requirement defined or determined by a competent authority in order to ensure public passenger transport services in the general interest that an operator, if it were considering its own commercial interests, would not assume or would not assume to the same extent or under the same conditions without reward;
+
+(f) ‘exclusive right’ means a right entitling a public service operator to operate certain public passenger transport services on a particular route or network or in a particular area, to the exclusion of any other such operator;
+
+(g) ‘public service compensation’ means any benefit, particularly financial, granted directly or indirectly by a competent authority from public funds during the period of implementation of a public service obligation or in connection with that period;
+
+(h) ‘direct award’ means the award of a public service contract to a given public service operator without any prior competitive tendering procedure;
+
+(i) ‘public service contract’ means one or more legally binding acts confirming the agreement between a competent authority and a public service operator to entrust to that public service operator the management and operation of public passenger transport services subject to public service obligations; depending on the law of the Member State, the contract may also consist of a decision adopted by the competent authority:
+
+— taking the form of an individual legislative or regulatory act, or
+
+— containing conditions under which the competent authority itself provides the services or entrusts the provision of such services to an internal operator;
+
+(j) ‘internal operator’ means a legally distinct entity over which a competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments;
+
+(k) ‘value’ means the value of a service, a route, a public service contract, or a compensation scheme for public passenger transport corresponding to the total remuneration, before VAT, of the public service operator or operators, including compensation of whatever kind paid by the public authorities and revenue from the sale of tickets which is not repaid to the competent authority in question;
+
+(l) ‘general rule’ means a measure which applies without discrimination to all public passenger transport services of the same type in a given geographical area for which a competent authority is responsible;
+
+(m) ‘integrated public passenger transport services’ means interconnected transport services within a determined geographical area with a single information service, ticketing scheme and timetable;
+
+(aa) ‘public passenger transport services by rail’ means public passenger transport by rail, excluding passenger transport by other track-based modes, such as metros or tramways.
+
+## Article 2a — Specification of public service obligations
+
+1\. The competent authority shall lay down specifications for public service obligations in the provision of public passenger transport services and the scope of their application in accordance with Article 2(e). This includes the possibility to group cost-covering services with non-cost-covering services.
+
+When laying down those specifications and the scope of their application, the competent authority shall duly respect the principle of proportionality, in accordance with Union law.
+
+The specifications shall be consistent with the policy objectives stated in public transport policy documents in the Member States.
+
+The content and format of public transport policy documents and the procedures for consulting relevant stakeholders shall be determined in accordance with national law.
+
+2\. The specifications of the public service obligations and the related compensation of the net financial effect of public service obligations shall:
+
+(a) achieve the objectives of the public transport policy in a cost-effective manner; and
+
+(b) financially sustain the provision of public passenger transport, in accordance with the requirements laid down in the public transport policy in the long term.
+
+## Article 3 — Public service contracts and general rules
+
+1\. Where a competent authority decides to grant the operator of its choice an exclusive right and/or compensation, of whatever nature, in return for the discharge of public service obligations, it shall do so within the framework of a public service contract.
+
+2\. By way of derogation from paragraph 1, public service obligations which aim at establishing maximum tariffs for all passengers or for certain categories of passenger may also be the subject of general rules. In accordance with the principles set out in Articles 4 and 6 and in the Annex, the competent authority shall compensate the public service operators for the net financial effect, positive or negative, on costs incurred and revenues generated in complying with the tariff obligations established through general rules in a way that prevents overcompensation. This shall be so notwithstanding the right of competent authorities to integrate public service obligations establishing maximum tariffs in public service contracts.
+
+3\. Without prejudice to the provisions of Articles 73, 86, 87 and 88 of the Treaty, Member States may exclude from the scope of this Regulation general rules on financial compensation for public service obligations which establish maximum tariffs for pupils, students, apprentices and persons with reduced mobility. These general rules shall be notified in accordance with Article 88 of the Treaty. Any such notification shall contain complete information on the measure and, in particular, details on the calculation method.
+
+## Article 4 — Mandatory content of public service contracts and general rules
+
+1\. Public service contracts and general rules shall:
+
+(a) clearly set out the public service obligations, defined in this Regulation and specified in accordance with Article 2a thereof, with which the public service operator is to comply, and the geographical areas concerned;
+
+(b) establish in advance, in an objective and transparent manner:
+
+(i) the parameters on the basis of which the compensation payment, if any, is to be calculated; and
+
+(ii) the nature and extent of any exclusive rights granted, in a way that prevents overcompensation.
+
+In the case of public service contracts not awarded according to Article 5(1), (3) or (3b), these parameters shall be determined in such a way that no compensation payment may exceed the amount required to cover the net financial effect on costs incurred and revenues generated in discharging the public service obligations, taking account of revenue relating thereto kept by the public service operator and a reasonable profit;
+
+(c) determine the arrangements for the allocation of costs connected with the provision of services. These costs may include in particular the costs of staff, energy, infrastructure charges, maintenance and repair of public transport vehicles, rolling stock and installations necessary for operating the passenger transport services, fixed costs and a suitable return on capital.
+
+2\. Public service contracts and general rules shall determine the arrangements for the allocation of revenue from the sale of tickets which may be kept by the public service operator, repaid to the competent authority or shared between the two.
+
+3\. The duration of public service contracts shall be limited and shall not exceed 10 years for coach and bus services and 15 years for passenger transport services by rail or other track-based modes. The duration of public service contracts relating to several modes of transport shall be limited to 15 years if transport by rail or other track-based modes represents more than 50 % of the value of the services in question.
+
+4\. If necessary, having regard to the conditions of asset depreciation, the duration of the public service contract may be extended by a maximum of 50 % if the public service operator provides assets which are both significant in relation to the overall assets needed to carry out the passenger transport services covered by the public service contract and linked predominantly to the passenger transport services covered by the contract.
+
+If justified by costs deriving from the particular geographical situation, the duration of public service contracts specified in paragraph 3 in the outermost regions may be extended by a maximum of 50 %.
+
+If justified by the amortisation of capital in relation to exceptional infrastructure, rolling stock or vehicular investment and if the public service contract is awarded in a fair competitive tendering procedure, a public service contract may have a longer duration. In order to ensure transparency in this case, the competent authority shall transmit to the Commission within one year of the conclusion of the contract the public service contract and elements justifying its longer duration.
+
+4a. In the performance of public service contracts, public service operators shall comply with obligations applicable in the field of social and labour law established by Union law, national law or collective agreements.
+
+4b. Directive 2001/23/EC shall apply to a change of public service operator where such a change constitutes a transfer of undertaking within the meaning of that Directive.
+
+5\. Without prejudice to national and Community law, including collective agreements between social partners, competent authorities may require the selected public service operator to grant staff previously taken on to provide services the rights to which they would have been entitled if there had been a transfer within the meaning of Directive 2001/23/EC. Where competent authorities require public service operators to comply with certain social standards, tender documents and public service contracts shall list the staff concerned and give transparent details of their contractual rights and the conditions under which employees are deemed to be linked to the services.
+
+6\. Where competent authorities, in accordance with national law, require public service operators to comply with certain quality and social standards, or establish social and qualitative criteria, those standards and criteria shall be included in the tender documents and in the public service contracts. While respecting Directive 2001/23/EC, such tender documents and public service contracts shall, where applicable, also contain information on the rights and obligations relating to the transfer of staff taken on by the previous operator.
+
+7\. Tender documents and public service contracts shall indicate, in a transparent manner, whether, and if so to what extent, subcontracting may be considered. If subcontracting takes place, the operator entrusted with the administration and performance of public passenger transport services in accordance with this Regulation shall be required to perform a major part of the public passenger transport services itself. A public service contract covering at the same time design, construction and operation of public passenger transport services may allow full subcontracting for the operation of those services. The public service contract shall, in accordance with national and Community law, determine the conditions applicable to subcontracting.
+
+8\. Public service contracts shall require the operator to provide the competent authority with the information essential for the award of public service contracts, while ensuring the legitimate protection of confidential business information. Competent authorities shall make available to all interested parties relevant information for the preparation of an offer under a competitive tendering procedure, while ensuring the legitimate protection of confidential business information. This shall include information on passenger demand, fares, costs and revenues related to the public passenger transport covered by the competitive tendering procedure and details of the infrastructure specifications relevant for the operation of the required vehicles or rolling stock to enable interested parties to draft well informed business plans. Rail infrastructure managers shall support competent authorities in providing all relevant infrastructure specifications. Non-compliance with the provisions set out above shall be subject to the legal review provided for in Article 5(7).
+
+## Article 5 — Award of public service contracts
+
+1\. Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. However, service contracts or public service contracts as defined in Directives 2004/17/EC or 2004/18/EC for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives. Where contracts are to be awarded in accordance with Directives 2004/17/EC or 2004/18/EC, the provisions of paragraphs 2 to 6 of this Article shall not apply.
+
+2\. Unless prohibited by national law, any competent local authority, whether or not it is an individual authority or a group of authorities providing integrated public passenger transport services may decide to provide public passenger transport services itself or to award public service contracts directly to a legally distinct entity over which the competent local authority, or, in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments.
+
+In the case of public passenger transport services by rail, the group of authorities referred to in the first subparagraph may be composed only of local competent authorities whose geographical area of competence is not national. The public passenger transport service or the public service contract referred to in the first subparagraph may only cover the transport needs of urban agglomerations or rural areas, or both.
+
+Where a competent local authority takes such a decision, the following shall apply:
+
+(a) for the purposes of determining whether the competent local authority exercises control, factors such as the degree of representation on administrative, management or supervisory bodies, specifications relating thereto in the articles of association, ownership, effective influence and control over strategic decisions and individual management decisions shall be taken into consideration. In accordance with Community law, 100 % ownership by the competent public authority, in particular in the case of public-private partnerships, is not a mandatory requirement for establishing control within the meaning of this paragraph, provided that there is a dominant public influence and that control can be established on the basis of other criteria;
+
+(b) the condition for applying this paragraph is that the internal operator and any entity over which this operator exerts even a minimal influence perform their public passenger transport activity within the territory of the competent local authority, notwithstanding any outgoing lines or other ancillary elements of that activity which enter the territory of neighbouring competent local authorities, and do not take part in competitive tenders concerning the provision of public passenger transport services organised outside the territory of the competent local authority;
+
+(c) notwithstanding point (b), an internal operator may participate in fair competitive tenders as from two years before the end of its directly awarded public service contract under the condition that a final decision has been taken to submit the public passenger transport services covered by the internal operator contract to fair competitive tender and that the internal operator has not concluded any other directly awarded public service contract;
+
+(d) in the absence of a competent local authority, points (a), (b) and (c) shall apply to a national authority for the benefit of a geographical area which is not national, provided that the internal operator does not take part in competitive tenders concerning the provision of public passenger transport services organised outside the area for which the public service contract has been granted;
+
+(e) if subcontracting under Article 4(7) is being considered, the internal operator shall be required to perform the major part of the public passenger transport service itself.
+
+3\. Any competent authority which has recourse to a third party other than an internal operator, shall award public service contracts on the basis of a competitive tendering procedure, except in the cases specified in paragraphs 3a, 4, 4a, 4b, 5 and 6. The procedure adopted for competitive tendering shall be open to all operators, shall be fair and shall observe the principles of transparency and non-discrimination. Following the submission of tenders and any preselection, the procedure may involve negotiations in accordance with these principles in order to determine how best to meet specific or complex requirements.
+
+3a. Unless prohibited by national law, as regards public service contracts for public passenger transport services by rail awarded on the basis of a competitive tendering procedure, the competent authority may decide to temporarily award new contracts directly where the competent authority considers that the direct award is justified by exceptional circumstances. Such exceptional circumstances shall include situations where:
+
+— there are a number of competitive tendering procedures that are already being run by the competent authority or other competent authorities which could affect the number and quality of bids likely to be received if the contract is the subject of a competitive tendering procedure, or
+
+— changes to the scope of one or more public service contracts are required in order to optimise the provision of public services.
+
+The competent authority shall issue a substantiated decision and shall inform the Commission thereof without undue delay.
+
+The duration of contracts awarded pursuant to this paragraph shall be proportionate to the exceptional circumstance concerned and in any case shall not exceed 5 years.
+
+The competent authority shall publish such contracts. In doing so, it shall take into consideration the legitimate protection of confidential business information and commercial interests.
+
+The subsequent contract that concerns the same public service obligations shall not be awarded on the basis of this provision.
+
+3b. In application of paragraph 3, competent authorities may decide to apply the following procedure:
+
+Competent authorities may make public their intentions to award a public service contract for public passenger transport services by rail by publishing an information notice in the Official Journal of the European Union.
+
+That information notice shall contain a detailed description of the services that are the subject of the contract to be awarded, as well as the type and the duration of the contract.
+
+Operators may express their interest within a period fixed by the competent authority which shall not be less than 60 days following the publication of the information notice.
+
+If after the expiration of that period:
+
+(a) only one operator has expressed its interest in participating in the procedure to award the public service contract;
+
+(b) that operator has duly proved that it will in fact be able to provide the transport service complying with the obligations established in the public service contract;
+
+(c) the absence of competition is not the result of an artificial narrowing of the parameters of the procurement; and
+
+(d) no reasonable alternative exists;
+
+the competent authorities may start negotiations with this operator in order to award the contract without further publication of an open tendering procedure.
+
+4\. Unless prohibited by national law, the competent authority may decide to award public service contracts directly:
+
+(a) where their average annual value is estimated at less than EUR 1 000 000 or, in the case of a public service contract including public passenger transport services by rail, less than EUR 7 500 000 ; or
+
+(b) where they concern the annual provision of less than 300 000 kilometres of public passenger transport services or, in the case of a public service contract including public passenger transport services by rail, less than 500 000 kilometres.
+
+In the case of a public service contract directly awarded to a small or medium-sized enterprise operating not more than 23 road vehicles, those thresholds may be increased to either an average annual value estimated at less than EUR 2 000 000 or to an annual provision of less than 600 000 kilometres of public passenger transport services.
+
+4a. Unless prohibited by national law, the competent authority may decide to award public service contracts for public passenger transport services by rail directly:
+
+(a) where it considers that the direct award is justified by the relevant structural and geographical characteristics of the market and network concerned, and in particular size, demand characteristics, network complexity, technical and geographical isolation and the services covered by the contract, and
+
+(b) where such a contract would result in an improvement in quality of services or cost-efficiency, or both, compared to the previously awarded public service contract.
+
+On that basis, the competent authority shall publish a substantiated decision and shall inform the Commission thereof within one month of its publication. The competent authority may proceed with the award of the contract.
+
+Member States for which on 24 December 2017 the maximum annual market volume is less than 23 million train-km and which have only one competent authority at national level and one public service contract covering the entire network shall be deemed to fulfil the condition set out in point (a). Where a competent authority of one of those Member States decides to award a public service contract directly, the Member State concerned shall inform the Commission thereof. The United Kingdom may decide to apply this subparagraph to Northern Ireland.
+
+Where the competent authority decides to award a public service contract directly, it shall lay down measurable, transparent and verifiable performance requirements. Such requirements shall be included in the contract.
+
+The performance requirements shall in particular cover punctuality of services, frequency of train operations, quality of rolling stock and transport capacity for passengers.
+
+The contract shall include specific performance indicators enabling the competent authority to carry out periodic assessments. The contract shall also include effective and deterrent measures to be imposed in case the railway undertaking fails to meet the performance requirements.
+
+The competent authority shall periodically assess whether the railway undertaking has achieved its targets for meeting the performance requirements as set in the contract and shall make its findings public. Such periodic assessments shall take place at least every 5 years. The competent authority shall take appropriate and timely measures, including the imposition of effective and deterrent contractual penalties if the required improvements in quality of services or cost-efficiency, or both, are not achieved. The competent authority may at any time wholly or partially suspend or terminate the contract awarded under this provision if the operator fails to meet the performance requirements.
+
+4b. Unless prohibited by national law, the competent authority may decide to award public service contracts for public passenger transport services by rail directly where they concern operating only passenger rail services by an operator which manages simultaneously the entire or the major part of the railway infrastructure on which the services are provided, where that railway infrastructure is excluded from the application of Articles 7, 7a, 7b, 7c, 7d, 8, 13 and Chapter IV of Directive 2012/34/EU of the European Parliament and of the Council ( 2 ) in accordance with Article 2(3)(a) or (b) of that Directive.
+
+By way of derogation from Article 4(3), the duration of directly awarded contracts pursuant to this paragraph and paragraph 4a of this Article shall not exceed 10 years, except where Article 4(4) applies.
+
+Contracts awarded in accordance with this paragraph and paragraph 4a shall be published, while taking into consideration the legitimate protection of confidential business information and commercial interests.
+
+5\. In the event of a disruption of services or the immediate risk of such a situation, the competent authority may take emergency measures.
+
+The emergency measures shall take the form of a direct award or a formal agreement to extend a public service contract or a requirement to provide certain public service obligations. The public service operator shall have the right to appeal against the decision to impose the provision of certain public service obligations. The period for which a public service contract is awarded, extended or imposed by emergency measures shall not exceed 2 years.
+
+6\. Unless prohibited by national law, competent authorities may decide to make direct awards of public service contracts where they concern transport by rail, with the exception of other track-based modes such as metro or tramways. In derogation from Article 4(3), such contracts shall not exceed 10 years, except where Article 4(4) applies.
+
+6a. In order to increase competition between railway undertakings, competent authorities may decide that contracts for public passenger transport services by rail covering parts of the same network or package of routes are to be awarded to different railway undertakings. To this end, the competent authorities may, before launching the competitive tendering procedure, decide to limit the number of contracts to be awarded to the same railway undertaking.
+
+7\. Member States shall take the necessary measures to ensure that decisions taken in accordance with paragraphs 2 to 6 may be reviewed effectively and rapidly, at the request of any person having or having had an interest in obtaining a particular contract and who has been or risks being harmed by an alleged infringement, on the grounds that such decisions have infringed Community law or national rules implementing that law.
+
+For cases covered by paragraphs 4a and 4b, such measures shall include the possibility to request an assessment of the substantiated decision taken by the competent authority by an independent body designated by the Member State concerned. The outcome of such assessment shall be made publicly available in accordance with national law.
+
+Where bodies responsible for review procedures are not judicial in character, written reasons for their decisions shall always be given. Furthermore, in such a case, provision must be made so that any alleged illegal measure taken by the review body or any alleged defect in the exercise of the powers conferred on it may be the subject of judicial review or review by another body which is a court or tribunal within the meaning of Article 234 of the Treaty and independent of both the contracting authority and the review body.
+
+## Article 5a — Rail rolling stock
+
+1\. With a view to launching a competitive tendering procedure, competent authorities shall assess whether measures are necessary to ensure effective and non-discriminatory access to suitable rolling stock. This assessment shall take into account the presence of rolling-stock leasing companies, or of other market actors providing for the leasing of rolling stock, in the relevant market. The assessment report shall be made publicly available.
+
+2\. Competent authorities may decide, in accordance with national law and in compliance with State aid rules, to take appropriate measures to ensure effective and non-discriminatory access to suitable rolling stock. Such measures may include:
+
+(a) the acquisition by the competent authority of the rolling stock used for the execution of the public service contract with a view to making it available to the selected public service operator at market price or as part of the public service contract pursuant to Article 4(1)(b), Article 6 and, if applicable, to the Annex;
+
+(b) the provision by the competent authority of a guarantee for the financing of the rolling stock used for the execution of the public service contract at market price or as part of the public service contract pursuant to Article 4(1)(b), Article 6 and, if applicable, to the Annex, including a guarantee covering the residual value risk;
+
+(c) a commitment by the competent authority in the public service contract to take over the rolling stock at predefined financial conditions at the end of the contract at market price; or
+
+(d) cooperation with other competent authorities in order to create a larger pool of rolling stock.
+
+3\. If the rolling stock is made available to a new public transport operator, the competent authority shall include in the tender documents any available information about the cost of maintenance of the rolling stock and about its physical condition.
+
+## Article 6 — Public service compensation
+
+1\. All compensation connected with a general rule or a public service contract shall comply with Article 4, irrespective of how the contract was awarded. All compensation of whatever nature connected with a public service contract not awarded according to Article 5(1), (3) or (3b) or connected with a general rule shall also comply with the provisions laid down in the Annex.
+
+2\. At the written request of the Commission, Member States shall communicate, within a period of three months or any longer period as may be fixed in that request, all the information that the Commission considers necessary to determine whether the compensation granted is compatible with this Regulation.
+
+## Article 7 — Publication
+
+1\. Each competent authority shall make public once a year an aggregated report on the public service obligations for which it is responsible. That report shall include the starting date and duration of the public service contracts, the selected public service operators and the compensation payments and exclusive rights granted to those public service operators by way of reimbursement. The report shall distinguish between bus transport and rail transport, enable the performance, quality and financing of the public transport network to be monitored and assessed and, if appropriate, provide information on the nature and extent of any exclusive rights granted. The report shall also take into consideration the policy objectives as stated in public transport policy documents in the Member State concerned. Member States shall facilitate central access to these reports, for instance through a common web portal.
+
+2\. Each competent authority shall take the necessary measures to ensure that, at least one year before the launch of the invitation to tender procedure or one year before the direct award, the following information at least is published in the Official Journal of the European Union:
+
+(a) the name and address of the competent authority;
+
+(b) the type of award envisaged;
+
+(c) the services and areas potentially covered by the award;
+
+(d) the envisaged starting date and duration of the public service contract.
+
+Competent authorities may decide not to publish this information where a public service contract concerns an annual provision of less than 50 000 kilometres of public passenger transport services.
+
+Should this information change after its publication, the competent authority shall publish a rectification accordingly as soon as possible. This rectification shall be without prejudice to the launching date of the direct award or of the invitation to tender.
+
+This paragraph shall not apply to Article 5(5).
+
+3\. In the case of a direct award of public service contracts for transport by rail, as provided for in Article 5(6), the competent authority shall make public the following information within one year of granting the award:
+
+(a) name of the contracting entity, its ownership and, if appropriate, the name of the party or parties exercising legal control;
+
+(b) duration of the public service contract;
+
+(c) description of the passenger transport services to be performed;
+
+(d) description of the parameters of the financial compensation;
+
+(e) quality targets, such as punctuality and reliability and rewards and penalties applicable;
+
+(f) conditions relating to essential assets.
+
+4\. When so requested by an interested party, a competent authority shall forward to it the reasons for its decision for directly awarding a public service contract.
+
+## Article 8 — Transition
+
+1\. Public service contracts shall be awarded in accordance with the rules laid down in this Regulation. However, service contracts or public service contracts as defined in Directive 2004/17/EC or 2004/18/EC for public passenger transport services by bus or tram shall be awarded in accordance with the procedures provided for under those Directives where such contracts do not take the form of service concessions contracts as defined in those Directives. Where contracts are to be awarded in accordance with Directives 2004/17/EC or 2004/18/EC, the provisions of paragraphs 2 to 4 of this Article shall not apply.
+
+2\. Without prejudice to paragraph 3,
+
+(i) Article 5 shall apply to the award of public service contracts for passenger transport services by road and by track-based modes other than rail such as metro or tramways from 3 December 2019.
+
+(ii) Article 5 shall apply to public passenger transport services by rail from 3 December 2019.
+
+(iii) Article 5(6) and Article 7(3) shall cease to apply from 25 December 2023.
+
+The duration of contracts awarded in accordance with Article 5(6) between 3 December 2019 and 24 December 2023 shall not exceed 10 years.
+
+Until 2 December 2019, Member States shall take measures to gradually comply with Article 5 in order to avoid serious structural problems in particular relating to transport capacity.
+
+Within six months after 25 December 2020, Member States shall provide the Commission with a progress report, highlighting the implementation of any award of public service contracts that comply with Article 5. On the basis of the Member States' progress reports, the Commission shall carry out a review and, if appropriate, submit legislative proposals.
+
+2a. Public service contracts for public passenger transport services by rail directly awarded on the basis of a procedure other than a fair competitive procedure as of 24 December 2017 until 2 December 2019 may continue until their expiry date. In derogation from Article 4(3), the duration of such contracts shall not exceed 10 years, except where Article 4(4) applies.
+
+3\. In the application of paragraph 2, no account shall be taken of public service contracts awarded in accordance with Community and national law:
+
+(a) before 26 July 2000 on the basis of a fair competitive tendering procedure;
+
+(b) before 26 July 2000 on the basis of a procedure other than a fair competitive tendering procedure;
+
+(c) as from 26 July 2000 and before 3 December 2009 on the basis of a fair competitive tendering procedure;
+
+(d) as from 26 July 2000 and before 24 December 2017 on the basis of a procedure other than a fair competitive tendering procedure.
+
+The contracts referred to in (a) may continue until they expire. The contracts referred to in (b) and (c) may continue until they expire, but for no longer than 30 years. The contracts referred to in (d) may continue until they expire, provided they are of limited duration comparable to the durations specified in Article 4.
+
+Public service contracts may continue until they expire where their termination would entail undue legal or economic consequences and provided that the Commission has given its approval.
+
+4\. Without prejudice to paragraph 3, the competent authorities may opt, in the second half of the transitional period specified in paragraph 2, to exclude from participation in the award of contracts by invitation to tender those public service operators which cannot provide evidence that the value of the public transport services for which they are receiving compensation or enjoy an exclusive right granted in accordance with this Regulation represents at least half the value of all the public transport services for which they are receiving compensation or enjoy an exclusive right. Such exclusion shall not apply to public service operators running the services which are to be tendered. For the application of this criterion, no account shall be taken of public service contracts awarded by emergency measure as referred to in Article 5(5).
+
+Where competent authorities make use of the option referred to in the first subparagraph, they shall do so without discrimination, exclude all potential public service operators meeting this criterion and inform the potential operators of their decision at the beginning of the procedure for the award of public service contracts.
+
+The competent authorities concerned shall inform the Commission of their intention to apply this provision at least two months before the publication of the invitation to tender.
+
+## Article 9 — Compatibility with the Treaty
+
+1\. Public service compensation for the operation of public passenger transport services or for complying with tariff obligations established through general rules paid in accordance with this Regulation shall be compatible with the common market. Such compensation shall be exempt from the prior notification requirement laid down in Article 88(3) of the Treaty.
+
+2\. Without prejudice to Articles 73, 86, 87 and 88 of the Treaty, Member States may continue to grant aid for the transport sector pursuant to Article 73 of the Treaty which meets transport coordination needs or which represents reimbursement for the discharge of certain obligations inherent in the concept of a public service, other than those covered by this Regulation, and in particular:
+
+(a) until the entry into force of common rules on the allocation of infrastructure costs, where aid is granted to undertakings which have to bear expenditure relating to the infrastructure used by them, while other undertakings are not subject to a like burden. In determining the amount of aid thus granted, account shall be taken of the infrastructure costs which competing modes of transport do not have to bear;
+
+(b) where the purpose of the aid is to promote either research into, or development of, transport systems and technologies which are more economic for the Community in general.
+
+Such aid shall be restricted to the research and development stage and may not cover the commercial exploitation of such transport systems and technologies.
+
+## Article 10 — Repeal
+
+1\. Regulation (EEC) No 1191/69 is hereby repealed. Its provisions shall however continue to apply to freight transport services for a period of three years after the entry into force of this Regulation.
+
+2\. Regulation (EEC) No 1107/70 is hereby repealed.
+
+## Article 11 — Reports
+
+After the end of the transitional period specified in Article 8(2), the Commission shall present a report on the implementation of this Regulation and on the developments in the provision of public passenger transport in the Community, assessing in particular the development of the quality of public passenger transport services and the effects of direct awards, accompanied, if necessary, by appropriate proposals for the amendment of this Regulation.
+
+## Article 12 — Entry into force
+
+This Regulation shall enter into force on 3 December 2009.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — Rules applicable to compensation in the cases referred to in Article 6(1)
+
+1\. The compensation connected with public service contracts awarded directly in accordance with Article 5(2), (4), (5) or (6) or with a general rule must be calculated in accordance with the rules laid down in this Annex.
+
+2\. The compensation may not exceed an amount corresponding to the net financial effect equivalent to the total of the effects, positive or negative, of compliance with the public service obligation on the costs and revenue of the public service operator. The effects shall be assessed by comparing the situation where the public service obligation is met with the situation which would have existed if the obligation had not been met. In order to calculate the net financial effect, the competent authority shall be guided by the following scheme:
+
+costs incurred in relation to a public service obligation or a bundle of public service obligations imposed by the competent authority/authorities, contained in a public service contract and/or in a general rule,
+
+minus any positive financial effects generated within the network operated under the public service obligation(s) in question,
+
+minus receipts from tariff or any other revenue generated while fulfilling the public service obligation(s) in question,
+
+plus a reasonable profit,
+
+equals net financial effect.
+
+3\. Compliance with the public service obligation may have an impact on possible transport activities of an operator beyond the public service obligation(s) in question. In order to avoid overcompensation or lack of compensation, quantifiable financial effects on the operator’s networks concerned shall therefore be taken into account when calculating the net financial effect.
+
+4\. Costs and revenue must be calculated in accordance with the accounting and tax rules in force.
+
+5\. In order to increase transparency and avoid cross-subsidies, where a public service operator not only operates compensated services subject to public transport service obligations, but also engages in other activities, the accounts of the said public services must be separated so as to meet at least the following conditions:
+
+— the operating accounts corresponding to each of these activities must be separate and the proportion of the corresponding assets and the fixed costs must be allocated in accordance with the accounting and tax rules in force,
+
+— all variable costs, an appropriate contribution to the fixed costs and a reasonable profit connected with any other activity of the public service operator may under no circumstances be charged to the public service in question,
+
+— the costs of the public service must be balanced by operating revenue and payments from public authorities, without any possibility of transfer of revenue to another sector of the public service operator’s activity.
+
+6\. ‘Reasonable profit’ must be taken to mean a rate of return on capital that is normal for the sector in a given Member State and that takes account of the risk, or absence of risk, incurred by the public service operator by virtue of public authority intervention.
+
+7\. The method of compensation must promote the maintenance or development of:
+
+— effective management by the public service operator, which can be the subject of an objective assessment, and
+
+— the provision of passenger transport services of a sufficiently high standard.
+
+( 1 ) OJ L 364, 12.12.1992, p. 7.
+
+( 2 ) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).

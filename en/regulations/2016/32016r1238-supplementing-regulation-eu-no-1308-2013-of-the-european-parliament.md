@@ -1,0 +1,738 @@
+---
+title: "Commission Delegated Regulation (EU) 2016/1238 of 18 May 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage (Text with EEA relevance)"
+identifier: "32016R1238"
+eli: "http://data.europa.eu/eli/reg_del/2016/1238/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2016-05-18
+entry_into_force: 2016-09-14
+last_amended: 2018-02-07
+consolidated_version: "02016R1238-20180207"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1238-20180207"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2016/1238 of 18 May 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/1238**
+
+**of 18 May 2016**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2018/149 of 15 November 2017 </td><td> L 26</td><td>11</td><td>31.1.2018</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/1238**
+
+**of 18 May 2016**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — INTRODUCTORY PROVISION
+
+### Article 1 — Scope
+
+This Regulation lays down rules supplementing Regulation (EU) No 1308/2013 as regards:
+
+(a) the buying-in and selling from public intervention of products listed in Article 11 of that Regulation; and
+
+(b) the granting of aid for private storage for products listed in Article 17 of that Regulation.
+
+## CHAPTER II — GENERAL RULES
+
+### Article 2 — Eligibility of operators
+
+1\. Operators shall be established and registered for VAT purposes in the Union in order to submit:
+
+(a) an offer or a tender for the buying-in, or a tender for the selling, of products under public intervention; or
+
+(b) a tender for aid for private storage or an application for aid for private storage fixed in advance.
+
+2\. In the case of buying-in of beef, only the following operators referred to in paragraph 1 may submit tenders:
+
+(a) slaughterhouses for bovine animals approved in accordance with Article 4 of Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 1 );
+
+(b) livestock or meat traders who have slaughtering undertaken therein on their own account.
+
+3\. In the case of aid for private storage, only the following operators referred to in paragraph 1 may apply or submit tenders:
+
+(a) in the olive oil sector, operators who fulfil the requirements laid down in Annex VII;
+
+(b) in the sugar sector, operators who are sugar manufacturers.
+
+### Article 3 — Eligibility of products
+
+1\. Products shall be of sound, fair and marketable quality and meet the requirements laid down in Regulation (EU) No 1308/2013.
+
+2\. In the case of buying-in, products shall fulfil the requirements laid down as follows:
+
+(a) for cereals: in Annex I to this Regulation;
+
+(b) for rice: in Annex II to this Regulation;
+
+(c) for beef: in Annex III to this Regulation;
+
+(d) for butter: in Parts I and II of Annex IV to this Regulation and Article 21 of Commission Implementing Regulation (EU) 2016/1240 ( 2 );
+
+(e) for skimmed milk powder: in Parts I and II of Annex V to this Regulation and Article 21 of Implementing Regulation (EU) 2016/1240.
+
+In addition, butter and skimmed milk powder must have been produced in an undertaking approved in accordance with Part III of Annex IV or Part III of Annex V to this Regulation, respectively.
+
+3\. In the case of aid for private storage, products shall fulfil the requirements laid down in Annex VI to this Regulation.
+
+### Article 4 — Security
+
+Operators shall lodge a security in favour of the relevant paying agency in accordance with Section 2 of Chapter IV of Delegated Regulation (EU) No 907/2014 when:
+
+(a) submitting an offer or a tender for the buying-in or sale of intervention products, or the disposal of such products under the scheme for food distribution for the most deprived in accordance with Article 16(2) of Regulation (EU) No 1308/2013;
+
+(b) submitting a tender or an application for aid for private storage unless an Implementing Regulation opening the tendering procedure or fixing the amount of aid in advance as referred to in Implementing Regulation (EU) 2016/1240 provides otherwise.
+
+### Article 5 — Release and forfeiture of security
+
+1\. The security provided for in Article 4 shall be released where a tender, offer or application is inadmissible or has not been accepted.
+
+2\. In the case of intervention buying-in, the security shall be released when:
+
+(a) the operator has delivered the quantity indicated by the final date for delivery set out in the delivery order referred to in Article 17 of Implementing Regulation (EU) 2016/1240; and
+
+(b) conformity with the product eligibility requirements referred to in Article 3 of this Regulation has been established; or
+
+(c) an allocation coefficient as referred to in Article 11(1)(b) of Implementing Regulation (EU) 2016/1240 is applied. In that case, the amount of the released security shall correspond to the quantity not accepted; or
+
+(d) the offer is withdrawn by an operator to whom an allocation coefficient as referred to Article 11(1)(b) of Implementing Regulation (EU) 2016/1240 applies.
+
+3\. In the case of sale of intervention products, the security shall be released:
+
+(a) for unsuccessful operators, after the decision referred to in Article 32(1) or 36(2) of Implementing Regulation (EU) 2016/1240 has been taken;
+
+(b) for successful operators, in respect of the quantities for which payment has been made in accordance with Article 35 of Implementing Regulation (EU) 2016/1240;
+
+(c) where the obligations relating to the disposal of products under the scheme for food distribution for the most deprived have been met.
+
+4\. In the case of aid for private storage, the security shall be released when:
+
+(a) an allocation coefficient as referred to in the first subparagraph of Article 43(2) of Implementing Regulation (EU) 2016/1240 is applied. In that case, the amount of the released security shall correspond to the quantity not accepted;
+
+(b) the tender is withdrawn by the reason of fixing of an allocation coefficient as referred to in the second subparagraph of Article 43(2) of Implementing Regulation (EU) 2016/1240;
+
+(c) the contractual obligations in respect of the contractual quantity have been fulfilled.
+
+5\. The security referred shall be forfeit where the offer, tender or application is:
+
+(a) withdrawn by reasons other than fixing of an allocation coefficient pursuant to Article 11(1)(b) or the first subparagraph of Article 43(2) of Implementing Regulation (EU) 2016/1240; or
+
+(b) amended after submission.
+
+6\. In the case of intervention buying-in, the security shall be forfeit where:
+
+(a) the products do not conform with the requirements referred to in Article 3 in respect of the quantities not accepted;
+
+(b) except in cases of force majeure, the operator fails to deliver the products by the final date set out in the delivery order, in proportion to the quantities not delivered and buying-in shall be cancelled in respect of those quantities.
+
+However, in the case of cereals, rice and beef, if the quantity actually delivered and accepted is less than the quantity specified in the delivery order, the security shall be released in full where the difference is not more than 5 %.
+
+7\. In the case of sale of intervention products, except in cases of force majeure, the security shall be forfeit:
+
+(a) in respect of quantities for which payment has not been made in accordance with Article 35 of Implementing Regulation (EU) 2016/1240 and the sale shall be cancelled in respect of those quantities;
+
+(b) where the obligations relating to the disposal of products under the scheme for food distribution for the most deprived have not been fulfilled.
+
+8\. In the case of aid for private storage, the security shall be forfeit where:
+
+(a) less than 95 % of the quantities specified in the tender or application are placed in storage under the conditions provided for in Article 52(1)(a) of Implementing Regulation (EU) 2016/1240;
+
+(b) less than the percentage of the contractual quantity referred to in Article 8(1) is kept in storage, including in the case of sugar stored in bulk in the silo designated by the operator, for the period laid down in the Implementing Regulation opening the tendering procedure or fixing the amount of aid for private storage in advance;
+
+(c) the time limit for placing the products into storage as referred to in Article 47(1) of Implementing Regulation (EU) 2016/1240 is not complied with;
+
+(d) the checks provided for Chapter I of Title IV of Implementing Regulation (EU) 2016/1240 show that the products stored do not correspond to the quality requirements referred to in Article 3 of this Regulation;
+
+(e) the requirement laid down in Article 53(3) of Implementing Regulation (EU) 2016/1240 is not complied with.
+
+## CHAPTER III — SPECIFIC RULES RELATED TO PUBLIC INTERVENTION
+
+### Article 6 — Intervention storage places
+
+1\. Paying agencies shall ensure that intervention storage places (‘storage places’) are suitable for the storage and keeping in good condition of the products bought-in, including storage temperature, and meet the requirements referred to in Article 7.
+
+2\. During the periods when intervention buying-in is taking place, paying agencies shall publish and keep updated information concerning the storage places available in their territories.
+
+### Article 7 — Requirements for storage places
+
+1\. Each storage place shall fulfil the following requirements:
+
+(a) it has available the necessary technical equipment to take over the products;
+
+(b) it is able to remove quantities in order to comply with the removal period indicated in Article 37(2) of Implementing Regulation (EU) 2016/1240;
+
+(c) in the case of cereals, rice, butter and skimmed milk powder, it has a minimum storage capacity as laid down in Article 3(1) of Implementing Regulation (EU) 2016/1240.
+
+2\. The paying agencies may lay down technical standards for storage places and shall take any other measures necessary to ensure that products taken into storage are properly conserved.
+
+3\. In the case of the beef sector, the storage places shall permit:
+
+(a) storage of carcasses, half carcasses and carcasses cut into quarters taken over and deboned;
+
+(b) freezing of all deboned meat to be stored without further processing.
+
+However, where deboning is not a condition of the tender, the storage place shall permit bone-in meat to be taken over.
+
+When the cutting plant and refrigeration plant of a storage place are connected with the slaughterhouse or the operator, the paying agency shall carry out the appropriate checks in order to ensure that beef subject to intervention is handled and stored in accordance with this Regulation.
+
+The cold stores located in the Member State exercising jurisdiction over the paying agency shall be capable of holding all beef allocated by the paying agency for at least three months under technically satisfactory conditions.
+
+However, where there is insufficient cold storage capacity in a Member State for the allocated beef, the paying agency concerned may arrange for such beef to be stored in another Member State and notify the Commission accordingly.
+
+## CHAPTER IV — SPECIFIC RULES RELATED TO AID FOR PRIVATE STORAGE
+
+### Article 8 — Payment of aid for private storage
+
+1\. The aid for private storage shall be paid for the contractual quantity if the quantity stored during the contractual storage period represents at least 99 % of the contractual quantity.
+
+However, in respect of the following products, the aid shall be paid for the contractual quantity if the quantity stored during the contractual storage period represents at least 97 % of the contractual quantity:
+
+(a) sugar that is stored separately from other sugar in the silo designated by the operator;
+
+(b) olive oil;
+
+(c) flax fibre;
+
+(d) beef, pigmeat, sheepmeat and goatmeat, whereas the contractual quantity relates to the fresh meat entering the store;
+
+(e) cheese;
+
+(f) skimmed milk powder in ‘big bags’ as referred to in point (c) of Part VI of Annex VI.
+
+2\. Except in cases of force majeure, if the quantity stored during the contractual storage period, including in the case of sugar stored in bulk in the silo designated by the operator, is less than the percentage of the contractual quantity referred to in paragraph 1, no aid shall be paid. Nevertheless, in the case of cheese, if the paying agency deems that the cheese in question was subject to natural weight loss during the storage period, this weight loss shall not lead to a reduction of the aid or the forfeiture of the security.
+
+3\. Aid shall only be paid where the contractual storage period respects the storage period laid down in the Implementing Regulation opening the tendering procedure or fixing the amount of aid in advance.
+
+4\. If checks during storage or on removal reveal that the products are defective, no aid shall be paid for the quantities concerned. The remainder of the storage lot eligible for aid shall be not less than the minimum quantity provided for in the Implementing Regulation opening the tendering procedure or fixing the amount of aid in advance.
+
+The same rule shall apply where part of a storage lot or batch is removed from storage for reasons of defectiveness before the end of the minimum storage period or before the first date allowed for removal operations, where such a date is provided for in the Implementing Regulation opening the tendering procedure or fixing the amount of aid in advance.
+
+Defective products shall not be included in the calculation of the quantity stored referred to in paragraph 1.
+
+5\. Except in cases of force majeure, where in respect of the total quantity stored the operator fails to respect the end of the contractual storage period, which has been fixed in accordance with Article 48(2) of Implementing Regulation (EU) 2016/1240, the aid for the contract in question shall be reduced by 10 % for each calendar day of non-compliance.
+
+However, this reduction shall not exceed 100 % of the aid.
+
+6\. No aid for private storage shall be paid in respect of the contract concerned where the requirement laid down in Article 53(3) of Implementing Regulation (EU) 2016/1240 is not complied with.
+
+## CHAPTER V — COMMON AND FINAL PROVISIONS
+
+### Article 9 — Notifications
+
+Member States shall notify the Commission of the approved paying agencies and quantities under the detailed conditions laid down in Chapter I of Title V of Implementing Regulation (EU) 2016/1240.
+
+### Article 10 — Repeal and transitional provisions
+
+Regulations (EEC) No 3427/87, (EEC) No 2351/91, (EC) No 720/2008, (EC) No 826/2008, (EC) No 1130/2009, (EU) No 1272/2009 and (EU) No 807/2010 are repealed.
+
+Articles 56(3) and 56(4) of Regulation (EU) No 1272/2009 and Part A to Annex III of Regulation (EC) No 826/2008 shall continue to apply until acts replacing Commission Regulation (EC) No 792/2009 ( 3 ) have become applicable.
+
+Part II, Table IV of Part IX and point (h) of Part XI of Annex I to Regulation (EU) No 1272/2009 shall continue to apply until 30 June 2017.
+
+Regulation (EU) No 1272/2009 shall continue to apply in respect of offers or tenders received under that Regulation before the date of entry into force of this Regulation.
+
+Regulation (EC) No 826/2008 shall continue to apply in respect of tenders or applications received under that Regulation before the date of entry into force of this Regulation.
+
+### Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply as from 1 October 2016. However, as regards buying-in to public intervention, Part II of Annex I shall apply from 1 July 2017.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**BUYING-IN OF CEREALS**
+
+**PART I**
+
+**Eligibility criteria for cereals**
+
+1\. The requirements referred to in Article 3 as regards cereals shall be, in particular, the following:
+
+(a) cereals are of the typical colour of the cereal in question;
+
+(b) cereals are free from abnormal smell and live pests (including mites) at every stage of their development;
+
+(c) cereals meet the minimum quality requirements set out in Part II; and
+
+(d) the levels of contaminants, including radioactivity, do not exceed the maximum levels permitted under Union legislation.
+
+2\. The maximum levels of contaminants, as referred to in point 1(d), shall be as follows:
+
+(a) for common wheat and durum wheat, those permitted under Council Regulation (EEC) No 315/93 ( 4 ), including the requirements regarding the Fusarium-toxin level for common wheat and durum wheat laid down in points 2.4 to 2.7 of the Annex to Commission Regulation (EC) No 1881/2006 ( 5 );
+
+(b) for barley and maize, those set by Directive 2002/32/EC of the European Parliament and of the Council ( 6 ).
+
+3\. Member States shall check levels of contaminants, including radioactivity, on the basis of a risk analysis, taking account in particular of the information supplied by the operator and the commitments of the latter regarding compliance with the standards set, especially in the light of the results of the analyses.
+
+In addition, in cases where analyses indicate that the Zeleny index of a batch of common wheat is between 22 and 30, for this wheat to be deemed sound, fair and of marketable quality, the dough obtained from it must be judged to be non-sticky and machinable.
+
+**PART II**
+
+**Minimum quality requirements referred to in Part I**
+
+<table>
+<tbody><tr><td>  </td><td>Durum wheat</td><td>Common wheat</td><td>Barley</td><td>Maize</td></tr>
+<tr><td>A. Maximum moisture content</td><td>14,5 %</td><td>14,5 %</td><td>14,5 %</td><td>13,5 %</td></tr>
+<tr><td>B. Maximum percentage of matter which is not basic cereal of unimpaired quality:</td><td>12 %</td><td>12 %</td><td>12 %</td><td>12 %</td></tr>
+<tr><td>1. Broken grains</td><td>6 %</td><td>5 %</td><td>5 %</td><td>5 %</td></tr>
+<tr><td>2. Grain impurities</td><td>8,5 %</td><td>7 %</td><td>12 %</td><td>5 %</td></tr>
+<tr><td>2.1. Impurities other than mottled grains</td><td>5 %</td><td>7 %</td><td>12 %</td><td>5 %</td></tr>
+<tr><td>(a) shrivelled grains</td><td>X</td><td>X</td><td>X</td><td>n.a.</td></tr>
+<tr><td>(b) other cereals</td><td>3 %</td><td>X</td><td>5 %</td><td>X</td></tr>
+<tr><td>(c) grains damaged by pests</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(d) grains in which the germ is discoloured</td><td>X</td><td>X</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>(e) grains overheated during drying</td><td>0,50 %</td><td>0,50 %</td><td>3 %</td><td>0,50 %</td></tr>
+<tr><td>2.2. Mottled grains</td><td>3,5 %</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>3. Sprouted grains</td><td>4 %</td><td>4 %</td><td>6 %</td><td>6 %</td></tr>
+<tr><td>4. Miscellaneous impurities</td><td>4,5 % (*1)</td><td>3 %</td><td>3 %</td><td>3 %</td></tr>
+<tr><td>of which:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) extraneous seeds:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>— noxious</td><td>0,10 %</td><td>0,10 %</td><td>0,10 %</td><td>0,10 %</td></tr>
+<tr><td>— other</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(b) damaged grains:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>— grains damaged by spontaneous heating or too extreme heating during drying</td><td>0,05 %</td><td>0,05 %</td><td>X</td><td>X</td></tr>
+<tr><td>— grains affected with fusariosis</td><td>1,5 %</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>— other</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(c) extraneous matter</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(d) husks (cob fragments in the case of maize)</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(e) ergot</td><td>0,05 %</td><td>0,05 %</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>(f) decayed grains</td><td>X</td><td>X</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>(g) impurities of animal origin</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>C. Maximum percentage of wholly or partially mitadiné grains</td><td>27 %</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>D. Minimum specific weight (kg/hl)</td><td>78</td><td>73</td><td>62</td><td>n.a.</td></tr>
+<tr><td>E. Minimum protein content (*2)</td><td>11,5 %</td><td>11,0 %</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>F. Hagberg falling number (seconds)</td><td>220</td><td>220</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>G. Minimum Zeleny index (ml)</td><td>n.a.</td><td>22</td><td>n.a.</td><td>n.a</td></tr>
+<tr><td colspan="5">(*1)  Of which maximum 3 % for impurities other than grains affected by fusariosis.  (*2)  As a percentage of dry matter.  ‘X’ Indicates analysis required without specific limit but content to be taken into account for maximum limits set in points 2 and 4 of the table.  ‘n.a.’ Not applicable, not requiring analysis. </td></tr>
+</tbody>
+</table>
+
+Matter other than basic cereals of unimpaired quality is defined in Part I of Annex I to Implementing Regulation (EU) 2016/1240.
+
+Grains of basic cereals and other cereals which are damaged or decayed shall be classified as ‘miscellaneous impurities’ even if they have defects which belong to other categories.
+
+## ANNEX II
+
+**BUYING-IN OF RICE**
+
+**PART I**
+
+**Eligibility criteria for paddy rice**
+
+1\. The requirements referred to in Article 3 as regards rice shall be, in particular, the following:
+
+(a) the paddy rice is free of odour and does not contain live insects;
+
+(b) the moisture content does not exceed 14,5 %;
+
+(c) the milling yield is not more than five points below the basic yields listed in Part II;
+
+(d) the percentage of miscellaneous impurities, the percentage of rice grains of other varieties and the percentage of grains which do not comply with the standard quality as defined in Part A of Annex III to Regulation (EU) No 1308/2013, do not exceed the maximum percentages set out in Part III of this Annex, by type of rice;
+
+(e) the level of radioactivity does not exceed the maximum levels permitted by Union legislation.
+
+2\. For the purposes of this Annex, ‘miscellaneous impurities’ means foreign matter other than rice.
+
+**PART II**
+
+**Criteria for milling yield**
+
+**Basic milling yield**
+
+| Description of variety | Whole-grain yield (%) | Overall yield (%) |
+| --- | --- | --- |
+| Argo, Selenio, Couachi | 66 | 73 |
+| Alpe, Arco, Balilla, Balilla Sollana, Bomba, Elio, Flipper, Lido, Sara, Thainato, Thaiperla, Veta, Guadiamar | 65 | 73 |
+| Ispaniki A, Makedonia | 64 | 73 |
+| Bravo, Europa, Loto, Riva, Rosa Marchetti, Savio, Veneria | 63 | 72 |
+| Ariete, Bahia, Carola, Cigalon, Cripto, Drago, Eolo, Gladio, Graldo, Koral, Mercurio, Niva, Onda, Padano, Panda, Ribe, S. Andrea, Saturno, Senia, Smeraldo, Dion, Zeus | 62 | 72 |
+| Strymonas | 62 | 71 |
+| Baldo, Redi, Roma, Tebre, Volano | 61 | 72 |
+| Thaibonnet, Puntal | 60 | 72 |
+| Evropi | 60 | 70 |
+| Arborio, Rea | 58 | 72 |
+| Carnaroli, Elba, Vialone Nano | 57 | 72 |
+| Axios | 57 | 67 |
+| Roxani | 57 | 66 |
+| Unnamed varieties | 64 | 72 |
+
+**PART III**
+
+**Maximum percentages**
+
+| Grain defects | Round-grain rice CN code 1006 10 92 | Medium and long-grain A CN codes 1006 10 94 and 1006 10 96 | Long-grain B CN code 1006 10 98 |
+| --- | --- | --- | --- |
+| Chalky grains | 6 | 4 | 4 |
+| Grains striated with red | 10 | 5 | 5 |
+| Spotted and stained grains | 4 | 2,75 | 2,75 |
+| Amber grains | 1 | 0,50 | 0,50 |
+| Yellow grains | 0,175 | 0,175 | 0,175 |
+| Miscellaneous impurities | 1 | 1 | 1 |
+| Rice grains of other varieties | 5 | 5 | 5 |
+
+## ANNEX III
+
+**BUYING-IN OF BEEF**
+
+**PART I**
+
+**Eligibility criteria for beef**
+
+1\. Carcasses, half-carcasses and carcasses cut into quarters, fresh or chilled (CN code 0201 ) as listed in Part II of this Annex falling within the following categories defined in Part A of Annex IV to Regulation (EU) No 1308/2013 may be bought in:
+
+(a) meat of uncastrated male animals aged from 12 months to less than 24 months (category A);
+
+(b) meat of castrated male animals aged from 12 months (category C);
+
+(c) meat of male animals aged from 8 months to less than 12 months (category Z).
+
+2\. Products referred to in point 1 may be bought in only under the following conditions:
+
+(a) they have been slaughtered in accordance with Regulation (EC) No 853/2004 and Regulation (EC) No 854/2004 of the European Parliament and of the Council ( 7 );
+
+(b) they have been classified, presented and identified in accordance with Commission Regulation (EC) No 1249/2008 ( 8 );
+
+(c) they have been labelled in accordance with Regulation (EC) No 1760/2000 of the European Parliament and of the Council ( 9 );
+
+(d) they come from animals slaughtered not more than six days and not less than two days previously.
+
+**PART II**
+
+**Classification of products**
+
+For the purpose of this Part, category Z refers only to male animals as described in point 1(c) of Part I.
+
+| BELGIQUE/BELGIË Carcasses, demi-carcasses: Hele dieren, halve dieren: Catégorie A, classe S2/Categorie A, klasse S2 Catégorie A, classe S3/Categorie A, klasse S3 Catégorie A, classe E2/Categorie A, klasse E2 Catégorie A, classe E3/Categorie A, klasse E3 Catégorie A, classe U2/Categorie A, klasse U2 Catégorie A, classe U3/Categorie A, klasse U3 Catégorie A, classe R2/Categorie A, klasse R2 Catégorie A, classe R3/Categorie A, klasse R3 Catégorie Z, classe S2/Categorie Z, klasse S2 Catégorie Z, classe S3/Categorie Z, klasse S3 Catégorie Z, classe E2/Categorie Z, klasse E2 Catégorie Z, classe U2/Categorie Z, klasse U2 Catégorie Z, classe U3/Categorie Z, klasse U3 Catégorie Z, classe R2/Categorie Z, klasse R2 Catégorie Z, classe R3/Categorie Z, klasse R3 | БЪЛГАРИЯ Tрупове, половинки трупове: категория А, клас R2 категория А, клас R3 категория Z, клас R2 категория Z, клас R3 |
+| --- | --- |
+| ČESKÁ REPUBLIKA Jatečně upravená těla, půlky jatečně upravených těl: Kategorie A, třída R2 Kategorie A, třída R3 Kategorie A, třídaO2 Kategorie A, třída U2 Kategorie Z, třída R2 Kategorie Z, třída R3 Kategorie Z, třída O2 | DANMARK Hele og halve kroppe: Kategori A, klasse R2 Kategori A, klasse R3 Kategori A, klasse O2 Kategori A, klasse O3 Kategori Z, klasse R2 Kategori Z, klasse R3 Kategori Z, klasse O2 Kategori Z, klasse O3 |
+| DEUTSCHLAND Ganze oder halbe Tierkörper: Kategorie A, Klasse U2 Kategorie A, Klasse U3 Kategorie A, Klasse R2 Kategorie A, Klasse R3 Kategorie Z, Klasse U2 Kategorie Z, Klasse U3 Kategorie Z, Klasse R2 Kategorie Z, Klasse R3 | EESTI Rümbad, poolrümbad: Kategooria A, klass R2 Kategooria A, klass R3 Kategooria Z, klass R2 Kategooria Z, klass R3 |
+| EIRE/IRELAND Carcases, half-carcases: Category C, class U3 Category C, class U4 Category C, class R3 Category C, class R4 Category C, class O3 Category C, class O4 | ΕΛΛΑΔΑ Ολόκληρα ή μισά σφάγια: Κατηγορία A, κλάση R2 Κατηγορία A, κλάση R3 Κατηγορία A, κλάση O2 Κατηγορία A, κλάση O3 Κατηγορία Z, κλάση R2 Κατηγορία Z, κλάση R3 Κατηγορία Z, κλάση O2 Κατηγορία Z, κλάση O3 |
+| ESPAÑA Canales o medias canales: Categoría A, clase U2 Categoría A, clase U3 Categoría A, clase R2 Categoría A, clase R3 Categoría Z, clase U2 Categoría Z, clase U3 Categoría Z, clase R2 Categoría Z, clase R3 | FRANCE Carcasses, demi-carcasses: Catégorie A, classe U2 Catégorie A, classe U3 Catégorie A, classe R2 Catégorie A, classe R3 Catégorie A, classe O2 Catégorie A, classe O3 Catégorie Z, classe U2 Catégorie Z, classe U3 Catégorie Z, classe R2 Catégorie Z, classe R3 Catégorie C, classe U2 Catégorie C, classe U3 Catégorie C, classe U4 Catégorie C, classe R3 Catégorie C, classe R4 Catégorie C, classe O3 |
+| HRVATSKA Trupovi, polovice trupova: Kategorija A, klasa U2 Kategorija A, klasa U3 Kategorija A, klasa R2 Kategorija A, klasa R3 Kategorija Z, klasa U2 Kategorija Z, klasa U3 Kategorija Z, klasa R2 Kategorija Z, klasa R3 Kategorija Z, klasa O2 | ITALIA Carcasse e mezzene: Categoria A, classe U2 Categoria A, classe U3 Categoria A, classe R2 Categoria A, classe R3 Categoria A, classe O2 Categoria A, classe O3 Categoria Z, classe U2 Categoria Z, classe U3 Categoria Z, classe R2 Categoria Z, classe R3 Categoria Z, classe O2 Categoria Z, classe O3 |
+| ΚΥΠΡΟΣ Ολόκληρα ή μισά σφάγια: Κατηγορία A, κλάση R2 Κατηγορία Z, κλάση R2 | LATVIJA Liemeņi, pusliemeņi: A kategorija, R2 klase A kategorija, R3 klase Z kategorija, R2 klase Z kategorija, R3 klase |
+| LIETUVA Skerdenos ir skerdenų pusės: A kategorija, R2 klasė A kategorija, R3 klasė A kategorija, O2 klasė A kategorija, O3 klasė Z kategorija, R2 klasė Z kategorija, R3 klasė | LUXEMBOURG Carcasses, demi-carcasses: Catégorie A, classe U2 Catégorie A, classe U3 Catégorie A, classe R2 Catégorie A, classe R3 |
+| MAGYARORSZÁG Hasított test vagy hasított féltest: A kategória, R2 osztály A kategória, R3 osztály Z kategória, R2 osztály Z kategória, R3 osztály | MALTA Karkassi, nofs karkassi: Kategorija A, klassi R3 Kategorija Z, klassi R3 |
+| NEDERLAND Hele dieren, halve dieren: Categorie A, klasse R2 Categorie A, klasse R3 Categorie A, klasse O2 Categorie A, klasse O3 Categorie Z, klasse R2 Categorie Z, klasse R3 Categorie Z, klasse O2 Categorie Z, klasse O3 | ÖSTERREICH Ganze oder halbe Tierkörper: Kategorie A, Klasse U2 Kategorie A, Klasse U3 Kategorie A, Klasse R2 Kategorie A, Klasse R3 Kategorie Z, Klasse U2 Kategorie Z, Klasse U3 Kategorie Z, Klasse R2 Kategorie Z, Klasse R3 |
+| POLSKA Tusze, półtusze: Kategoria A, klasa R2 Kategoria A, klasa R3 Kategoria A, klasa O2 Kategoria A, klasa O3 Kategoria Z, klasa R2 Kategoria Z, klasa R3 Kategoria Z, klasa O2 Kategoria Z, klasa O3 | PORTUGAL Carcaças ou meias-carcaças: Categoria A, classe U2 Categoria A, classe U3 Categoria A, classe R2 Categoria A, classe R3 Categoria Z, classe U2 Categoria Z, classe U3 Categoria Z, classe R2 Categoria Z, classe R3 |
+| ROMÂNIA Carcase, jumătăți de carcase Categoria A, clasa U2 Categoria A, clasa U3 Categoria A, clasa R2 Categoria A, clasa R3 Categoria A, clasa O2 Categoria A, clasa O3 Categoria Z, clasa U2 Categoria Z, clasa U3 Categoria Z, clasa R2 Categoria Z, clasa R3 Categoria Z, clasa O2 Categoria Z, clasa O3 | SLOVENIJA Trupi, polovice trupov: Kategorija A, razred U2 Kategorija A, razred U3 Kategorija A, razred R2 Kategorija A, razred R3 Kategorija A, razred O2 Kategorija Z, razred U2 Kategorija Z, razred R2 Kategorija Z, razred R3 Kategorija Z, razred O2 |
+| SLOVENSKO Jatočné telá, jatočné polovice: kategória A, trieda kvality R2 kategória A, trieda kvality R3 kategória A, trieda kvality O2 kategória A, trieda kvality O3 kategória Z, trieda kvality R2 kategória Z, trieda kvality R3 kategória Z, trieda kvality O2 kategória Z, trieda kvality O3 | SUOMI/FINLAND Ruhot, puoliruhot/Slaktkroppar, halva slaktkroppar: Kategoria A, luokka R2/Kategori A, klass R2 Kategoria A, luokka R3/Kategori A, klass R3 Kategoria A, luokka O2/Kategori A, klass O2 Kategoria A, luokka O3/Kategori A, klass O3 Kategoria Z, luokka R2/Kategori Z, klass R2 Kategoria Z, luokka R3/Kategori Z, klass R3 |
+| SVERIGE Slaktkroppar, halva slaktkroppar: Kategori A, klass R2 Kategori A, klass R3 Kategori A, klass O2 Kategori A, klass O3 Kategori Z, klass R2 Kategori Z, klass R3 | UNITED KINGDOM I. Great Britain Carcases, half-carcases: Category C, class U3 Category C, class U4 Category C, class R3 Category C, class R4 Category C, class O3 Category C, class O4 Category A, class U2 Category A, class U3 Category A, class R2 Category A, class R3 Category A, class O2 Category A, class O3 Category Z, class U2 Category Z, class U3 Category Z, class R2 Category Z, class R3 Category Z, class O2 Category Z, class O3 II. Northern Ireland Carcases, half-carcases: Category C, class U3 Category C, class U4 Category C, class R3 Category C, class R4 Category C, class O3 Category C, class O4 Category A, class U2 Category A, class U3 Category A, class R2 Category A, class R3 Category A, class O2 Category A, class O3 Category Z, class U2 Category Z, class U3 Category Z, class R2 Category Z, class R3 Category Z, class O2 Category Z, class O3 |
+
+## ANNEX IV
+
+**BUYING-IN OF BUTTER**
+
+**PART I**
+
+**Eligibility criteria for butter**
+
+1\. The paying agency shall only buy-in butter which complies with Article 11(d) of Regulation (EU) No 1308/2013, with points 2 to 6 of this Part of this Annex and with Part II of Annex IV to Implementing Regulation (EU) 2016/1240.
+
+2\. The paying agency shall check the quality of butter using the methods referred to in Article 4 of Implementing Regulation (EU) 2016/1240, and on the basis of samples taken in accordance with the rules set out in Part I of Annex IV to that Regulation. However, paying agencies may, subject to written agreement of the Commission, set up a system of self checking under their own supervision in respect of certain quality requirements and for certain approved undertakings.
+
+3\. Levels of radioactivity in butter may not exceed the maximum levels permitted under Union legislation and shall be monitored only if the situation so requires.
+
+4\. The butter shall have been made during the 31 days preceding the day on which the paying agency receives the offer to sell at fixed price or, in the case of tenders, during the 31 days preceding the closing date of the tendering sub-period.
+
+5\. Where butter is offered or tendered for intervention in a Member State other than that in which it was produced, buying-in shall be subject to the presentation of a certificate supplied by the competent body of the Member State of production.
+
+The certificate shall be presented to the competent body of the purchasing Member State not later than 35 days after the day on which the offer is received or after the closing date of the tender and shall contain the information referred to in points (a), (b) and (c) of paragraph 2 of Part II of Annex IV to Implementing Regulation (EU) 2016/1240, and a confirmation that the butter has been produced directly and exclusively from pasteurised cream within the meaning of Article 11(d) of Regulation (EU) No 1308/2013 in an approved undertaking in the Union.
+
+6\. Where the Member State of production has performed the checks referred to in point 2, the certificate referred to in point 5 shall also contain the results of those checks and confirm that the product concerned is butter fulfilling the requirements of Article 11(d) of Regulation (EU) No 1308/2013. In that case, the packaging shall be sealed by means of a numbered label issued by the competent body of the Member State of production. The certificate shall contain the number of the label.
+
+**PART II**
+
+**Compositional requirements and quality characteristics**
+
+Butter is a solid emulsion, mainly of the water-in-oil type, with the following compositional and quality characteristics:
+
+| Parameters | Content and quality characteristics |
+| --- | --- |
+| Fat | Minimum 82 % |
+| Water | Maximum 16 % |
+| Non-fat solids | Maximum 2 % |
+| Fat acidity | Maximum 1,2 mmole/100 g fat |
+| Peroxide value | Maximum 0,3 meq oxygen/1 000 g fat |
+| Non-milk fat | Not detectable by triglyceride analysis |
+| Sensory characteristics | At least four out of five points for appearance, flavour and consistency |
+
+**PART III**
+
+**Criteria for the approval of undertakings referred to in Article 11(d) of Regulation (EU) No 1308/2013**
+
+1\. Undertakings referred to in Article 11(d) of Regulation (EU) No 1308/2013 shall be approved only if they:
+
+(a) are approved in accordance with Article 4 of Regulation (EC) No 853/2004 and have the appropriate technical equipment;
+
+(b) undertake to keep permanent records in the form determined by the competent body of each Member State, listing the supplier and origin of the raw materials, the quantities of butter obtained and the packaging, identification and exit date of each production batch intended for public intervention;
+
+(c) agree to submit their production of butter liable to be offered for intervention to a specific official inspection;
+
+(d) undertake to inform the competent body, at least two working days in advance, of their intention to produce butter for public intervention; however, the Member State may set a shorter time limit.
+
+2\. To ensure compliance with this Regulation, the competent bodies shall carry out unannounced on-the-spot inspections, on the basis of the intervention butter production schedule of the undertakings concerned.
+
+They shall carry out at least:
+
+(a) one inspection per period of 28 days of production for intervention with at least one inspection every year, to examine the records referred to in point 1(b);
+
+(b) one inspection every year when butter is produced for intervention, to verify compliance with the other conditions for approval referred to in point 1.
+
+3\. Approval shall be withdrawn if the conditions laid down in point 1(a) are no longer satisfied. Approval may be re-granted at the request of the undertaking concerned after a period of at least six months, following a thorough inspection.
+
+Except in cases of force majeure, where an undertaking is found not to have complied with one of its commitments as referred to in point 1(b), (c) and (d), approval shall be suspended for a period of between one month and 12 months depending on the seriousness of the irregularity.
+
+The Member State shall not impose suspension where it is established that the irregularity was not committed deliberately or as a result of serious negligence and that it is of minor importance with regard to the effectiveness of the inspections provided for in point 2.
+
+4\. A report shall be drawn up on the inspections carried out pursuant to points 2 and 3, specifying:
+
+(a) the date of the inspection;
+
+(b) the duration of the inspection;
+
+(c) the operations carried out.
+
+The report shall be signed by the inspector responsible.
+
+## ANNEX V
+
+**BUYING-IN OF SKIMMED MILK POWDER**
+
+**PART I**
+
+**Eligibility criteria for skimmed milk powder**
+
+1\. The paying agency shall only buy-in skimmed milk powder which complies with Article 11(e) of Regulation (EU) No 1308/2013, with points 2 to 6 of this Part of this Annex and with Part II of Annex V to Implementing Regulation (EU) 2016/1240.
+
+2\. The paying agency shall check the quality of skimmed-milk powder using the methods referred to in Article 4 of Implementing Regulation (EU) 2016/1240, and on the basis of samples taken in accordance with the rules set out in Part I of Annex V to that Regulation. The checks must establish that, except authorised raw materials used for protein adjustment as referred to in point (4)(b) of Annex I to Council Directive 2001/114/EC ( 10 ), the skimmed milk powder does not contain other products, in particular buttermilk and whey, as defined in Part II of this Annex.
+
+Protein adjustment, if applicable, shall occur in the liquid phase. Material used for protein adjustment shall be of Union origin.
+
+However, paying agencies may, subject to written agreement of the Commission, set up a system of self-checking under their own supervision in respect of certain quality requirements and for certain approved undertakings.
+
+3\. Levels of radioactivity in skimmed-milk powder may not exceed the maximum levels permitted under Union legislation and shall be monitored only if the situation so requires.
+
+4\. The skimmed-milk powder must have been produced during the 31 days preceding the day on which the paying agency receives the offer to sell at fixed price or, in the case of tenders, during the 31 days preceding the closing date of the tendering sub-period. If the skimmed-milk powder is stored in silos containing the production of more than one day, it must have been produced during the three weeks preceding the week during which the offer to sell at fixed price is received or, in the case of tenders, during the four weeks preceding the closing date of the tendering sub-period.
+
+5\. Where skimmed-milk powder is offered or tendered for intervention in a Member State other than that in which it was produced, buying-in shall be subject to the presentation of a certificate supplied by the competent body of the Member State of production.
+
+The certificate shall be presented to the competent body of the purchasing Member State not later than 35 days after the day on which the offer is received or after the closing date of the tender and shall contain the information referred to in points (a), (b) and (c) of paragraph 2 of Part II of Annex V to Implementing Regulation (EU) 2016/1240, and a confirmation that the skimmed-milk powder has been produced from milk in an approved undertaking in the Union in accordance with Article 11(e) of Regulation (EU) No 1308/2013 and that protein adjustment, if applicable, occurred in the liquid phase.
+
+6\. Where the Member State of production has performed the checks referred to in point 2, the certificate referred to in point 5 shall also contain the results of those checks and confirm that the product concerned is skimmed-milk powder fulfilling the requirements of Article 11(e) of Regulation (EU) No 1308/2013. In that case, the bags referred to in Article 21(2) of Implementing Regulation (EU) 2016/1240 shall be sealed with a numbered label issued by the competent body of the Member State of production. The certificate shall contain the number of the label.
+
+**PART II**
+
+**Compositional requirements and quality characteristics**
+
+<table>
+<tbody><tr><td>Parameters</td><td>Content and quality characteristics</td></tr>
+<tr><td>Protein</td><td>Minimum 34,0 % of the non-fat dry matter</td></tr>
+<tr><td>Fat</td><td>Maximum 1,00 %</td></tr>
+<tr><td>Water</td><td>Maximum 3,5 %</td></tr>
+<tr><td>Titratable acidity in ml of decinormal sodium hydroxide solution</td><td>Maximum 19,5 ml</td></tr>
+<tr><td>Lactates</td><td>Maximum 150 mg/100 g</td></tr>
+<tr><td>Phosphatase test</td><td>Negative, i.e., not more than 350 mU of phosphatasic activity per litre of reconstituted milk</td></tr>
+<tr><td>Insolubility index</td><td>Maximum 0,5 ml (24 °C)</td></tr>
+<tr><td>Scorched particles</td><td>Maximum 15,0 mg, i.e. disc B minimum</td></tr>
+<tr><td>Micro-organisms</td><td>Maximum 40 000 CFU per gram</td></tr>
+<tr><td>Buttermilk (1)</td><td>None (2)</td></tr>
+<tr><td>Rennet whey (3)</td><td>None</td></tr>
+<tr><td>Acid whey (3)</td><td>None (4) or maximum 150 mg/100 g (5)</td></tr>
+<tr><td>Taste and smell</td><td>Clean</td></tr>
+<tr><td>Appearance</td><td>White or slightly yellowish colour, free from impurities and coloured particles</td></tr>
+<tr><td colspan="2">(1)  ‘Buttermilk’ means the by-product of butter production obtained after churning of the cream and separation of the solid fat.  (2)  The absence of buttermilk can be established either by an on-the-spot inspection of the production plant carried out without prior notice at least once a week, or by a laboratory analysis of the end product indicating a maximum of 69,31 mg of PEDP phosphatidylethanolamine dipalmitoyl per 100 g.  (3)  ‘Whey’ means the by-product of cheese or casein production obtained by the action of acids, rennet and/or chemico-physical processes.  (4)  When on-the-spot inspections are carried out.  (5)  When ISO 8069 is applied. </td></tr>
+</tbody>
+</table>
+
+**PART III**
+
+**Criteria for the approval of undertakings referred to in Article 11(e) of Regulation (EU) No 1308/2013**
+
+1\. Undertakings referred to in Article 11(e) of Regulation (EU) No 1308/2013 shall be approved only if they:
+
+(a) are approved in accordance with Article 4 of Regulation (EC) No 853/2004 and have the appropriate technical equipment;
+
+(b) undertake to keep permanent records in the form determined by the competent body of each Member State, listing the supplier and origin of the raw materials, the quantities of skimmed-milk powder, buttermilk and whey obtained and the packaging, identification and exit date of each production batch intended for public intervention;
+
+(c) agree to submit their production of skimmed milk powder liable to be offered for intervention to a specific official inspection;
+
+(d) undertake to inform the competent body, at least two working days in advance, of their intention to produce skimmed milk powder for public intervention; however, the Member State may set a shorter time limit.
+
+2\. To ensure compliance with this Regulation, the competent bodies shall carry out unannounced on-the-spot inspections, on the basis of the intervention skimmed milk powder production schedule of the undertakings concerned.
+
+They shall carry out at least:
+
+(a) one inspection per period of 28 days of production for intervention with at least one inspection every year, to examine the records referred to in point 1(b);
+
+(b) one inspection every year when skimmed milk powder is produced for intervention, to verify compliance with the other conditions for approval referred to in point 1.
+
+3\. Approval shall be withdrawn if the conditions laid down in point 1(a) are no longer satisfied. Approval may be re-granted at the request of the undertaking concerned after a period of at least six months, following a thorough inspection.
+
+Except in cases of force majeure, where an undertaking is found not to have complied with one of its commitments as referred to in point 1(b), (c) and (d), approval shall be suspended for a period of between one month and 12 months depending on the seriousness of the irregularity.
+
+The Member State shall not impose suspension where it is established that the irregularity was not committed deliberately or as a result of serious negligence and that it is of minor importance with regard to the effectiveness of the inspections provided for in point 2.
+
+4\. A report shall be drawn up on the inspections carried out pursuant to points 2 and 3, specifying:
+
+(a) the date of the inspection;
+
+(b) the duration of the inspection;
+
+(c) the operations carried out.
+
+The report shall be signed by the inspector responsible.
+
+## ANNEX VI
+
+**QUALITY REQUIREMENTS FOR AID FOR PRIVATE STORAGE**
+
+Levels of radioactivity in the products eligible for aid for private storage may not exceed the maximum levels permitted, where applicable, under Union legislation. The level of radioactive contamination of the products shall be monitored only if the situation so requires, and during the requisite period.
+
+**I. Sugar**
+
+Sugar for which a tender or application is presented shall:
+
+(a) be white sugar in crystal form in bulk, or in big bags of 800 kg or more showing the net weight;
+
+(b) have a moisture content not exceeding 0,06 %.
+
+Until the end of the 2016/2017 marketing year for sugar, it must have been produced within a quota of the marketing year in which the tender or application is made with the exclusion of white sugar withdrawn or carried forward.
+
+**II. Flax fibre**
+
+Aid shall only be granted for long flax fibre obtained by complete separation of the fibres and the woody parts of the stalk that are at least 50 cm long on average after scutching and are arranged in parallel strands in bundles, sheets or slivers and for which the minimum quantity for applications or tenders for aid is of 2 000 kg.
+
+Long flax fibres shall be stored in bales on which may be encoded, where appropriate:
+
+(a) the number identifying the factory and the Member State of production;
+
+(b) the date of entry into storage;
+
+(c) the net weight.
+
+**III. Meat**
+
+Aid shall only be granted for:
+
+(a) beef classified in accordance with the Union scale for the classification of carcasses laid down in Commission Regulation (EC) No 1249/2008 ( 11 ), and identified in accordance with Article 6(3) of that Regulation;
+
+(b) carcasses of lambs less than 12 months old and cuts thereof;
+
+(c) meat from animals raised in the Union for a minimum period of the last three months in case of beef, two months in case of pigmeat and sheepmeat and goatmeat and slaughtered not more than 10 days before being placed in storage. In the case of pigs slaughtered younger than two months of age, the meat shall come from animals raised in the Union since their birth;
+
+(d) meat from animals that have been slaughtered in accordance with Regulation (EC) No 853/2004 and Regulation (EC) No 854/2004 of the European Parliament and of the Council;
+
+(e) meat from animals with no characteristics rendering them unfit for storage or subsequent use;
+
+(f) meat from animals not slaughtered as a result of emergency measures;
+
+(g) meat in the fresh state and stored in the frozen state.
+
+**IV. Butter**
+
+Aid shall only be granted for butter:
+
+(a) with a minimum milkfat content, by weight, of 80 %, a maximum milk solids-non-fat content, by weight, of 2 % and a maximum water content, by weight, of 16 %;
+
+(b) produced during the 60 days preceding the day of application or the day of submission of the tender.
+
+The packaging of the butter shall show the net weight. In addition, the rules on packaging of butter in Part II of Annex IV to Implementing Regulation (EU) 2016/1240 shall apply, with the exception of the obligation to indicate the term ‘sweet cream’ where the butter has a pH of 6,2 or higher.
+
+Compliance with the origin requirement can be substantiated by proof that the butter was produced in an undertaking approved in accordance with point 1(a), (b) and (c) of Part III of Annex IV to this Regulation, or by another appropriate proof issued by the competent authority of the Member State of production testifying compliance with that requirement.
+
+Where the butter has been produced in a Member State other than the one in which the storage contract is concluded, the Member State of production shall provide such assistance as may be requested by the Member State in which the contract is concluded in order to verify the origin of the product.
+
+**V. Cheese**
+
+Aid shall only be granted for cheese benefiting from a protected designation of origin (PDO) or from a protected geographical indication (PGI) which on the day when the storage contract commences has a minimum age corresponding to the period of maturation laid down in the product specification referred to in Article 7 of Regulation (EU) No 1151/2012 of the European Parliament and of the Council ( 12 ) for that cheese as it will be marketed after the storage under contract increased by the maturing period beyond this period that contributes to increasing the value of the cheese.
+
+Where a period of maturation is not laid down in the product specification referred to in Article 7 of Regulation (EU) No 1151/2012, the cheese shall on the day when the storage contract starts have a minimum age corresponding to any period of maturation that contributes to increasing the value of the cheese.
+
+Furthermore, the cheese shall comply with the following requirements:
+
+(a) it is indelibly marked with an indication, which may be encoded, of the undertaking in which it was manufactured and with the date of manufacture;
+
+(b) it is stored as whole cheese in the Member State where the cheese is produced and in which it qualifies to bear the PDO or PGI under Regulation (EU) No 1151/2012; and
+
+(c) it has not been the subject of a previous storage contract.
+
+The storekeeper shall keep a register in which the particulars referred to in point (a) of the third paragraph are entered on the date of entry into store.
+
+**VI. Skimmed milk powder**
+
+Aid shall only be granted for skimmed milk powder:
+
+(a) which contains no more than 1,5 % fat and 5 % water and has a protein content of the non-fat dry matter of at least 34 %;
+
+(b) has been produced during the 60 days preceding the day of application or the day of submission of the tender;
+
+(c) which is stored in bags with a net weight of 25 kg or in ‘big bags’ weighing no more than 1 500 kg.
+
+The bags shall show the net weight. In addition, the rules in points 2 and 3 of Part II of Annex V to Implementing Regulation (EU) 2016/1240 on the delivery and packaging of skimmed milk powder shall apply, with the exception of the obligation to indicate the term ‘spray skimmed milk powder’ on the bags.
+
+Compliance with the origin requirement can be substantiated by proof that the skimmed milk powder was produced in an undertaking approved in accordance with point 1(a), (b) and (c) of Part III of Annex V to this Regulation, or by another appropriate proof issued by the competent authority of the Member State of production testifying compliance with that requirement.
+
+Where the skimmed milk powder has been produced in a Member State other than the one in which the storage contract is concluded, the Member State of production shall provide such assistance as may be requested by the Member State in which the contract is concluded in order to verify the origin of the product.
+
+## ANNEX VII
+
+**CONDITIONS APPLICABLE TO OPERATORS SUBMITTING A TENDER FOR AID FOR PRIVATE STORAGE OR AN APPLICATION FOR AID FOR PRIVATE STORAGE IN THE OLIVE OIL SECTOR**
+
+Olive oil operators shall fall into one of the following categories:
+
+(a) a producer organisation or an association of producer organisations that has been recognised under the national legislation in force of the Member State concerned;
+
+(b) a mill extracting olive oil that fulfils the requirements laid down by the Member State concerned;
+
+(c) an olive oil packaging firm that fulfils the requirements laid down by the Member State concerned.
+
+If an olive oil operator fails to comply with the obligations set out in this Regulation or in Regulations (EU) No 1305/2013 of the European Parliament and of the Council ( 13 ), (EU) No 1307/2013 of the European Parliament and of the Council ( 14 ) or (EU) No 1308/2013, it shall not be eligible to submit a tender or an application for aid for private storage within 12 months from the date on which the reasons for such non-compliance have been remedied.
+
+Such action shall not be taken in cases referred to in points (a) to (d) of Article 64(2) of Regulation (EU) No 1306/2013 or if the non-compliance was of a minor nature.
+
+( 1 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 2 ) Commission Implementing Regulation (EU) 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage (see page 71 of this Official Journal).
+
+( 3 ) Commission Regulation (EC) No 792/2009 of 31 August 2009 laying down detailed rules for the Member States' notification to the Commission of information and documents in implementation of the common organisation of the markets, the direct payments' regime, the promotion of agricultural products and the regimes applicable to the outermost regions and the smaller Aegean islands (OJ L 228, 1.9.2009, p. 3).
+
+( 4 ) Council Regulation (EEC) No 315/93 of 8 February 1993 laying down Community procedures for contaminants in food (OJ L 37, 13.2.1993, p. 1).
+
+( 5 ) Commission Regulation (EC) No 1881/2006 of 19 December 2006 setting maximum levels for certain contaminants in foodstuffs (OJ L 364, 20.12.2006, p. 5).
+
+( 6 ) Directive 2002/32/EC of the European Parliament and of the Council of 7 May 2002 on undesirable substances in animal feed (OJ L 140, 30.5.2002, p. 10).
+
+( 7 ) Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ L 139, 30.4.2004, p. 206).
+
+( 8 ) Commission Regulation (EC) No 1249/2008 of 10 December 2008 laying down detailed rules on the implementation of the Community scales for the classification of beef, pig and sheep carcases and the reporting of prices thereof (OJ L 337, 16.12.2008, p. 3).
+
+( 9 ) Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97 (OJ L 204, 11.8.2000, p. 1).
+
+( 10 ) Council Directive 2001/114/EC of 20 December 2001 relating to certain partly or wholly dehydrated preserved milk for human consumption (OJ L 15, 17.1.2002, p. 19).
+
+( 11 ) Commission Regulation (EC) No 1249/2008 of 10 December 2008 laying down detailed rules on the implementation of the Community scales for the classification of beef, pig and sheep carcases and the reporting of prices thereof (OJ L 337, 16.12.2008, p. 3).
+
+( 12 ) Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (OJ L 343, 14.12.2012, p. 1).
+
+( 13 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+
+( 14 ) Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009 (OJ L 347, 20.12.2013, p. 608).

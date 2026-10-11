@@ -1,0 +1,265 @@
+---
+title: "Commission Delegated Regulation (EU) 2022/1172 of 4 May 2022 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy and the application and calculation of administrative penalties for conditionality"
+identifier: "32022R1172"
+eli: "http://data.europa.eu/eli/reg_del/2022/1172/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2022-05-04
+entry_into_force: 2023-01-01
+last_amended: 2026-01-01
+consolidated_version: "02022R1172-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1172-20260101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2022/1172 of 4 May 2022 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy and the application and calculation of administrative penalties for conditionality
+
+**COMMISSION DELEGATED REGULATION (EU) 2022/1172**
+
+**of 4 May 2022**
+
+**supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy and the application and calculation of administrative penalties for conditionality**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/744 of 2 February 2023 </td><td> L 99</td><td>1</td><td>12.4.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/149 of 21 January 2026 </td><td> L 149</td><td>1</td><td>26.3.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2022/1172**
+
+**of 4 May 2022**
+
+**supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy and the application and calculation of administrative penalties for conditionality**
+
+## CHAPTER I — SCOPE
+
+### Article 1 — Scope
+
+This Regulation lays down provisions supplementing certain non-essential elements of Regulation (EU) 2021/2116 in relation to:
+
+(a) the quality assessment of the identification system for agricultural parcels, of the geo-spatial application system and of the area monitoring system referred to in Article 70a of that Regulation;
+
+(b) the identification system for agricultural parcels referred to in Article 68 of that Regulation;
+
+(c) the application and calculation of administrative penalties for conditionality referred to in Article 85 of that Regulation.
+
+## CHAPTER II — INTEGRATED SYSTEM
+
+### Article 2 — Identification system for agricultural parcels
+
+1\. The identification system for agricultural parcels referred to in Article 68 of Regulation (EU) 2021/2116 shall operate at reference parcel level and include information allowing the exchange of data with the geo-spatial aid application referred to in Article 69 of that Regulation and the area monitoring system referred to in Article 70 of that Regulation.
+
+2\. For the purposes of this Regulation, ‘reference parcel’ means a geographically delimited area retaining a unique identification as registered in the identification system for agricultural parcels referred to in Article 68 of Regulation (EU) 2021/2116. A reference parcel shall contain a unit of land representing agricultural area, as referred to in Article 4(3) of Regulation (EU) 2021/2115. Where appropriate, a reference parcel shall also contain non-agricultural areas considered eligible by Member States for receiving the support for area-based interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116.
+
+3\. The reference parcels shall serve as basis to support beneficiaries in submitting geo-spatial applications for area-based interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116.
+
+4\. Member States shall delimit the reference parcels in such a way as to ensure that each parcel is stable in time, measurable, enables the unique and unambiguous localisation of each agricultural parcel and unit of land of non-agricultural areas considered eligible by the Member States for receiving the support for the area-based interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116 declared annually.
+
+5\. Member States shall ensure the update of information for all reference parcels in the identification system at least once every 3 years. In addition, Member States shall each year take into account all information available from the geo-spatial application, the area monitoring system or any other reliable source.
+
+6\. Member States shall ensure that the identification system for agricultural parcels contains the necessary information to extract data relevant for the correct reporting on indicators referred to in Article 66(2) of Regulation (EU) 2021/2116.
+
+7\. In the identification system, for each reference parcel Member States shall at least:
+
+(a) determine a maximum eligible area for the purpose of the area-based interventions under the integrated system. In order to determine the maximum eligible area Member States shall deduct ineligible elements from the parcel by delineation, where possible. Member States shall define beforehand the criteria and procedures used to assess, quantify and where appropriate delineate the eligible and ineligible parts of the parcel. In determining the maximum eligible area, Member States may set a reasonable margin for correct quantification, to take account of the outline and condition of the parcel;
+
+(b) identify the agricultural area, as referred to in Article 4(3) of Regulation (EU) 2021/2115. Where applicable, Member States shall ensure the distinction of agricultural area in arable land, permanent crops and permanent grassland, including when they form agroforestry systems on that area, as determined in accordance with Article 4(3) of that Regulation by delineation;
+
+(c) as regards permanent grassland with scattered ineligible features and when Member States decide to apply a fixed reduction coefficients to determine the area considered eligible, as provided for in Article 4(4), point (b), third subparagraph of Regulation (EU) 2021/2115, register all relevant information;
+
+(d) include features and/or commitments that are relevant for the eligibility of area-based interventions and for conditionality requirements, and are stable in time. This information shall be recorded as attributes or layers in the identification system for agricultural parcels and at least the following shall be indicated:
+
+(i) the location of peatland or wetland area, where relevant, in accordance with GAEC standard 2 listed in Annex III to Regulation (EU) 2021/2115;
+
+(ii) the type and location of landscape features on the parcel relevant for conditionality or interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116;
+
+(e) where applicable, locate and determine the size of the landscape features under GAEC standard 8 listed in Annex III to Regulation (EU) 2021/2115 relevant for the minimum share of agricultural area devoted to non-productive areas or features.
+
+(f) determine whether parcels are located in areas facing natural or other area-specific constraints as referred to in Article 71 of Regulation (EU) 2021/2115, or whether area-specific disadvantages resulting from certain mandatory requirements apply as referred to in Article 72 of that Regulation,
+
+(g) determine whether parcels are located in Natura 2000 areas, in areas covered by Directive 2000/60/EC of the European Parliament and of the Council ( 1 ), whether they are located on agricultural land authorised for cotton production pursuant to Article 37(1) of Regulation (EU) 2021/2115, on areas forming part of established local practices referred to in Article 4(3), point (c), second subparagraph, point (i), of that Regulation, on areas covered with permanent grasslands designated as environmentally sensitive pursuant to GAEC standard 9 listed in Annex III to Regulation (EU) 2021/2115, or in areas covered by Council Directive 92/43/EEC ( 2 ) or Directive 2009/147/EC of the European Parliament and of the Council ( 3 ).
+
+8\. For forestry related interventions supported under Articles 70 and 72 of Regulation (EU) 2021/2115, Member States may establish appropriate alternative systems to uniquely identify the land subject to support where that land is covered by forest.
+
+9\. The geographic information system shall operate on the basis of a national coordinate reference system as defined in Directive 2007/2/EC of the European Parliament and of the Council ( 4 ) which permits standardised measurement and unique identification of agricultural parcels throughout the Member State concerned. Where different coordinate reference systems are used, they shall be mutually exclusive and each of them shall ensure the consistency between items of information which refer to the same location.
+
+### Article 3 — Quality assessment of the identification system for agricultural parcels
+
+1\. Member States shall annually carry out the quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 for the purpose of the basic income support for sustainability. That quality assessment shall cover the following elements:
+
+(a) the correct quantification of the maximum eligible area;
+
+(b) the proportion and distribution of reference parcels where the maximum eligible area takes ineligible areas into account or where it does not take agricultural area into account;
+
+(c) the occurrence of reference parcels with critical defects;
+
+(d) the correct classification of agricultural area as arable land, permanent grassland or permanent crop in each reference parcel;
+
+(e) the ratio of area declarations per reference parcel;
+
+(f) the categorisation of reference parcels where the maximum eligible area takes ineligible areas into account, where it does not take agricultural area into account or reveals a critical defect;
+
+(g) the percentage of reference parcels which have been subject to change, accumulated over the regular update cycle.
+
+Member States shall also ensure that all requests for the update of the identification system for agricultural parcels are carried out in a way that it is possible to trace whether they resulted from the area monitoring system, action of the beneficiary or from any other source.
+
+2\. Member States shall perform the assessment referred to in paragraph 1 on the basis of a sample of reference parcels. They shall use data allowing to assess the actual situation on the ground.
+
+3\. In case the results of the quality assessment reveal deficiencies, Member State shall propose adequate remedial actions.
+
+### Article 4 — Quality assessment of the geo-spatial application system
+
+1\. The annual quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 shall assess the reliability of information in the geo-spatial application and the correctness of the information used for the reporting on the indicators referred to in Article 7 of Regulation (EU) 2021/2115. In particular, the quality assessment shall assess the completeness and correctness of the information pre-filled in the geo-spatial application, the completeness and correctness of the guiding alerts provided to the beneficiaries during the application process and the traceability of all changes registered in the geo-spatial applications after its submission.
+
+2\. The quality assessment shall comprise the following:
+
+(a) verification that the information used by the Member State to pre-fill the geo-spatial application was complete, correct and up-to-date;
+
+(b) verification by the Member State that the area declared by the beneficiary for an area-based intervention was correctly established in relation to the applicable eligibility conditions;
+
+(c) verification that, to the extent possible, eligibility conditions of interventions and, where relevant, conditionality requirements were taken into account for the issuing of guiding alerts by the Member State to beneficiaries during the application process;
+
+(d) verification that all amendments of the geo-spatial application after its submission were registered by the Member State in a way that it is possible to trace if they resulted from either an area monitoring system warning, an action of the beneficiary or from any other source.
+
+3\. The quality assessment provided for in paragraph 2, points (a), (c) and (d), shall be carried out by means of IT testing and reperformance of the application process on a representative sample of aid applications.
+
+4\. For the verification under paragraph 2, point (b), the quality assessment shall be carried out by means of an analysis of imagery of the same calendar year and of at least the same quality as required for the quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 or, when needed, in situ visits. That verification shall be performed by the measurement of the area declared in respect of an intervention on the sample selected for the quality assessment of the area monitoring system referred to in Article 5 of this Regulation.
+
+5\. Member States shall ensure that all area-based interventions managed by the integrated system that entail at least one monitorable eligibility condition are included in the samples referred to in paragraphs 3 and 4 and are verified in the quality assessment exercise. An intervention that entails only non-monitorable eligibility conditions is not subject to the quality assessment exercise.
+
+6\. In case the results of the quality assessment reveal deficiencies, the Member State shall propose adequate remedial actions.
+
+### Article 5 — Quality assessment of the area monitoring system
+
+1\. The annual quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 shall assess the reliability of the implementation of the area monitoring system, provide diagnostic information on the sources of incorrect decisions at the level of interventions and monitorable eligibility conditions and in particular assess the correctness of the information provided for the reporting on the indicators referred to in Article 7 of Regulation (EU) 2021/2115.
+
+2\. The quality assessment shall be carried out by means of an analysis of imagery of the same calendar year and, where relevant, with at least the same quality as required for the quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 or, when needed, in situ visits. In situ visits can be carried out at any time during the year and shall, to the extent possible, cover all monitorable eligibility conditions relevant for a given beneficiary during the same visit. The imagery used by the Member States for the quality assessment shall be able to provide conclusive and reliable results in respect of the actual situation on the ground. Where Member States use geo-tagged photos for observation, tracking and assessment of agricultural activities as data with at least equivalent value to Copernicus Sentinels satellite data, Member States may carry out the quality assessment of the decisions based on geo-tagged photos by means of a non-automated analysis of the geo-tagged photos, provided they offer conclusive and reliable results.
+
+3\. At the level of interventions, the quality assessment shall comprise the following:
+
+(a) quantification of errors due to incorrect decisions on monitorable eligibility conditions on parcels under an area-based intervention. The result shall be expressed in hectares;
+
+(b) quantification of the number of parcels where the area monitoring system found non-compliance with the eligibility conditions and of the number of parcels not meeting the eligibility conditions after the latest date for amendments of aid applications.
+
+4\. The reports due by 15 February 2025 and 15 February 2027 shall also comprise verification that all eligibility conditions of area-based interventions that are considered monitorable, were subject to area monitoring system in years 2024 and 2026, respectively. Remedial actions may be necessary following the assessment of the results of these reports.
+
+5\. The quality assessment shall be carried out by checking the monitorable eligibility conditions of all the interventions applied for on a representative sample of parcels.
+
+6\. For simplification purposes and given that the sample of the quality assessment of the area monitoring system provides an adequate level of assurance in respect of the fulfilment of eligibility conditions per intervention, Member States may decide to take the quality assessment referred in Articles 4 and 5 of this Regulation into account in respect of the obligation to set up a control system laid down in Article 72 of Regulation (EU) 2021/2116.
+
+7\. Member States shall ensure that all area-based interventions managed by the integrated system that entail at least one monitorable eligibility condition, are included in the sample of parcels and verified in the quality assessment exercise.
+
+8\. In case the results of the quantifications referred to in paragraph 3, points (a) and (b), reveal deficiencies, Member States shall propose adequate remedial actions.
+
+9\. Remedial actions for non-conclusively monitored eligibility conditions may include the performance of in situ visits. In cases where remedial actions are necessary following the results of the quality assessment for the calendar year concerned, additional details may have to be included in the quality assessment report of the following year as regards the deficiencies to be remedied.
+
+## CHAPTER III — APPLICATION AND CALCULATION OF ADMINISTRATIVE PENALTIES FOR CONDITIONALITY
+
+### Article 6 — Definitions
+
+For the purposes of this Chapter, the definitions in Title IV, Chapter IV of Regulation (EU) 2021/2116 shall apply.
+
+The following definitions shall also apply:
+
+(a) ‘non-compliance’ means: non-compliance with the statutory management requirements under Union legislation referred to in Article 12(4) of Regulation (EU) 2021/2115, or with the standards for good agricultural and environmental condition of land set by the Member States in accordance with Article 13 of that Regulation;
+
+(b) ‘standards’ means any of the standards as set by the Member States in accordance with Article 13 of Regulation (EU) 2021/2115;
+
+(c) ‘year of the finding’ means the calendar year in which the administrative or on-the-spot check was carried out;
+
+(d) ‘areas of conditionality’ means any of the three different areas referred to in Article 12(1) of Regulation (EU) 2021/2115.
+
+### Article 7 — General principles concerning non-compliances
+
+1\. For the purpose of determining the reoccurrence of a non-compliance, non-compliances with the rules of cross-compliance determined in accordance with Delegated Regulation (EU) No 640/2014 shall be taken into account.
+
+2\. The ‘extent’ of a non-compliance shall be determined taking account, in particular, whether the non-compliance has a far-reaching impact or whether it is limited to the farm itself.
+
+3\. The ‘severity’ of a non-compliance shall depend, in particular, on the importance of the consequences of the non-compliance taking account of the aims of the requirement or standard concerned.
+
+4\. Whether a non-compliance is of ‘permanence’ shall depend, in particular, on the length of time for which the effect lasts or the potential for terminating those effects by reasonable means.
+
+5\. For the purposes of this Chapter, non-compliances shall be deemed to be ‘determined’ if they are established as a consequence of any kind of controls carried out in accordance with Regulation (EU) 2021/2116 or after having been brought to the attention of the competent control authority or, where applicable, the paying agency, in whatever other way.
+
+### Article 8 — General principles of administrative penalties
+
+1\. The administrative penalty provided for in Article 84(1) of Regulation (EU) 2021/2116 shall only be imposed if a non-compliance is found within 3 consecutive calendar years calculated from and including the year where the non-compliance occurred.
+
+2\. Where the same non-compliance is occurring continuously throughout several calendar years, an administrative penalty shall be applied for each calendar year in which the non-compliance occurred. The administrative penalties shall be calculated on the basis of the payments granted or to be granted to the beneficiary concerned in respect of aid applications or payments claims that have been submitted or will be submitted in the course of the calendar years in which the non-compliance occurred.
+
+3\. Where in the calendar year of the finding the beneficiary does not submit an aid application or the administrative penalty exceeds the total amount of the payments granted or to be granted to the beneficiary in respect of aid applications that the beneficiary has submitted or will submit in the course of the calendar year of the finding, the administrative penalty shall be recovered in accordance with Article 30 of Commission Implementing Regulation (EU) 2022/128 ( 5 ).
+
+### Article 9 — Percentages of reductions in the case of non-intentional non-compliance
+
+1\. For determined non-intentional non-compliances the paying agency may decide, on the basis of the assessment of the non-compliance provided by the competent control authority taking into account the criteria referred to in Article 85(1), second subparagraph, of Regulation (EU) 2021/2116, to decrease the percentage laid down in Article 85(2) of that Regulation to up to 1 %.
+
+2\. Where a determined non-intentional non-compliance has grave consequences for the achievement of the objective of the standard or requirement concerned or constitutes a direct risk to public or animal health, the paying agency may decide, on the basis of the assessment of the non-compliance provided by the competent control authority taking into account the criteria referred to in Article 85(1), second subparagraph, of Regulation (EU) 2021/2116, to increase the percentage referred to in Article 85(5) of that Regulation to up to 10 %.
+
+3\. Where a determined non-intentional non-compliance with the same requirement or standard persists within 3 consecutive calendar years, the percentage of reduction laid down in Article 85(6), first subparagraph, of Regulation (EU) 2021/2116 shall apply only where the beneficiary has been informed of the previous determined non-compliance. Where the same non-compliance further persists without justified reason by the beneficiary it shall be considered to be a case of intentional non-compliance.
+
+4\. Where a determined non-compliance has no or only insignificant consequences for the achievement of the objective of the standard or requirement concerned and no administrative penalty is imposed in accordance with Article 85(3), first subparagraph, of Regulation (EU) 2021/2116, the non-compliance shall not be considered for the purpose of determining the reoccurrence or persistence of a non-compliance.
+
+5\. Where a Member State uses the area monitoring system referred to in Article 66(1), point (c), of Regulation (EU) 2021/2116 to detect cases of non-compliance, the reduction to be imposed for determined non-intentional non-compliances may be lower than the reduction provided for in paragraph 1 of this Article, but at least 0,5 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of that Regulation.
+
+### Article 10 — Percentages of reductions in the case of intentional non-compliance
+
+The percentage reduction for a determined intentional non-compliance shall be at least 15 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116. On the basis of the assessment of the non-compliance provided by the competent control authority taking into account the criteria referred to in Article 85(1), second subparagraph, of that Regulation the paying agency may decide to increase that percentage to up to 100 %.
+
+### Article 11 — Calculation of reductions for several non-compliances in the same calendar year of occurrence
+
+1\. Where a determined non-compliance with a standard also constitutes a non-compliance with a requirement, the non-compliance shall be considered to be one single non-compliance. For the purpose of the calculation of reductions, the non-compliance shall be considered as part of the area of conditionality of the requirement.
+
+2\. Where more than one determined non-recurring non-intentional non-compliances have occurred in the same calendar year, the procedure for the fixing of the reduction shall be applied individually to each non-compliance and the resulting percentages shall be added together. However the total reduction shall not exceed:
+
+(a) 5 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116 where none of the non-compliances has grave consequences for the achievement of the objective of the standard or requirement concerned or constitutes a direct risk to public or animal health; or,
+
+(b) 10 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116 where at least one non-compliance has grave consequences for the achievement of the objective of the standard or requirement concerned or constitutes a direct risk to public or animal health.
+
+3\. Where more than one determined recurring non-intentional non-compliance has occurred in the same calendar year, the procedure for the fixing of the reduction shall be applied individually to each non-compliance and the resulting percentages of reductions shall be added together. However, the reduction shall not exceed 20 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116.
+
+4\. Where more than one determined intentional non-compliance have occurred in the same calendar year the procedure for the fixing of the reduction shall be applied individually to each non-compliance and the resulting percentages of reductions shall be added together. However, the reduction shall not exceed 100 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116.
+
+5\. Where multiple instances of non-intentional, recurring and intentional non-compliance have occurred in the same calendar year, the resulting percentages of reductions, and where relevant after the application of paragraphs 2, 3 and 4 of this Article, shall be added together. However, the reduction shall not exceed 100 % of the total amount resulting from the payments and support referred to in Article 83(1), points (a), (b) and (c), of Regulation (EU) 2021/2116.
+
+## CHAPTER IV — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 12 — Transitional provisions
+
+By way of derogation from Article 104(1), second subparagraph, point (a)(iv), of Regulation (EU) 2021/2116, checks on compliance with the rules on conditionality, as referred to in Article 83 of that Regulation, shall be carried out on areas supported on the basis of Article 21(1), points (a) and (b), and Articles 28, 29, 30, 31 and 34 of Regulation (EU) No 1305/2013 through rural development programmes implemented until 31 December 2025 under that Regulation, when the beneficiary concerned receives area-based payments also under the CAP Strategic Plan pursuant to Regulation (EU) 2021/2115.
+
+The conditionality checks referred to in the first paragraph shall be deemed to cover the checks on cross-compliance referred to in Article 96 of Regulation (EU) No 1306/2013, unless they reveal non-compliances with conditionality rules. If the rules on conditionality are not complied with, the Member State shall carry out checks in accordance with that Article to area-based measures in the rural development programmes and, where irregularities are found, apply the rules on calculation and application of administrative penalties laid down in Regulation (EU) No 1306/2013.
+
+### Article 13 — Repeal
+
+Delegated Regulation (EU) No 640/2014 is repealed with effect from 1 January 2023.
+
+However, it shall continue to apply to:
+
+(a) aid applications for direct payments lodged before 1 January 2023;
+
+(b) payment claims made in relation to support measures implemented under Regulation (EU) No 1305/2013;
+
+(c) the control system and administrative penalties as regards rules on cross-compliance.
+
+### Article 14 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2023.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+
+( 2 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 3 ) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7).
+
+( 4 ) Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.4.2007, p. 1).
+
+( 5 ) Commission Implementing Regulation (EU) 2022/128 of 21 December 2021 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council on paying agencies and other bodies, financial management, clearance of accounts, checks, securities and transparency (OJ L 20, 31.1.2022, p. 131).

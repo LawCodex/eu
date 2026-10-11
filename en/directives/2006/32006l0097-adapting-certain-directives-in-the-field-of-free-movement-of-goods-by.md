@@ -80,6 +80,7 @@ J. KORKEAOJA
 
 **PUBLIC PROCUREMENT**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>31992 L 0013: Council Directive 92/13/EEC of 25 February 1992 coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 76, 23.3.1992, p. 14), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties — Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -88,7 +89,9 @@ J. KORKEAOJA
 </table>
  In the Annex, the following is added:  ‘BULGARIA  Агенция по обществени поръчки (Public Procurement Agency)  ROMANIA  Autoritatea Naţională pentru Reglementarea şi Monitorizarea Achiziţiilor Publice (National Authority for Regulating and Monitoring Public Procurement)’. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>32004 L 0017: Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, 30.4.2004, p. 1), as amended by:<table><tbody><tr><td>—</td><td>32004 R 1874: Commission Regulation (EC) No 1874/2004 of 28.10.2004 (OJ L 326, 29.10.2004, p. 17),</td></tr>
 </tbody>
 </table>
@@ -1063,7 +1066,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>32004 L 0018: Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, 30.4.2004, p. 114), as amended by:<table><tbody><tr><td>—</td><td>32004 R 1874: Commission Regulation (EC) No 1874/2004 of 28.10.2004 (OJ L 326, 29.10.2004, p. 17),</td></tr>
 </tbody>
 </table>
@@ -2254,3 +2259,4 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>

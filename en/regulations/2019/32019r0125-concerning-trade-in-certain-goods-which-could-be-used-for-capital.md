@@ -1,0 +1,2096 @@
+---
+title: "Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (codification)"
+identifier: "32019R0125"
+eli: "http://data.europa.eu/eli/reg/2019/125/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-01-16
+entry_into_force: 2019-12-19
+last_amended: 2025-08-20
+consolidated_version: "02019R0125-20250820"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0125-20250820"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (codification)
+
+**REGULATION (EU) 2019/125 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 January 2019**
+
+**concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment**
+
+**(codification)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/621 of 18 February 2020 </td><td> L 144</td><td>1</td><td>7.5.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/139 of 4 December 2020 </td><td> L 43</td><td>5</td><td>8.2.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/928 of 21 May 2025 </td><td> L 928</td><td>1</td><td>31.7.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2019/125 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 January 2019**
+
+**concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment**
+
+**(codification)**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down Union rules governing trade with third countries in goods that could be used for the purpose of capital punishment or for the purpose of torture or other cruel, inhuman or degrading treatment or punishment, and rules governing the supply of brokering services, technical assistance, training and advertising related to such goods.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(a) ‘torture’ means any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from that person or from a third person information or a confession, punishing that person for an act that either that person or a third person has committed or is suspected of having committed, or intimidating or coercing that person or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted either by or at the instigation of, or with the consent or acquiescence of, a public official or other person acting in an official capacity. It does not, however, include pain or suffering arising only from, inherent in or incidental to, lawful penalties. Capital punishment is not deemed a lawful penalty under any circumstances;
+
+(b) ‘other cruel, inhuman or degrading treatment or punishment’ means any act by which pain or suffering attaining a minimum level of severity, whether physical or mental, is inflicted on a person, when such pain or suffering is inflicted either by or at the instigation of, or with the consent or acquiescence of, a public official or other person acting in an official capacity. It does not, however, include pain or suffering arising only from, inherent in or incidental to, lawful penalties. Capital punishment is not deemed a lawful penalty under any circumstances;
+
+(c) ‘law enforcement authority’ means any authority responsible for preventing, detecting, investigating, combating and punishing criminal offences, including, but not limited to, the police, any prosecutor, any judicial authority, any public or private prison authority and, where appropriate, any of the state security forces and military authorities;
+
+(d) ‘export’ means any departure of goods from the customs territory of the Union, including the departure of goods that requires a customs declaration and the departure of goods after their storage in a free zone within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 1 );
+
+(e) ‘import’ means any entry of goods into the customs territory of the Union, including temporary storage, the placing in a free zone, the placing under a special procedure and the release for free circulation within the meaning of Regulation (EU) No 952/2013;
+
+(f) ‘technical assistance’ means any technical support related to repairs, development, manufacture, testing, maintenance, assembly or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services. Technical assistance includes verbal forms of assistance and assistance provided by electronic means;
+
+(g) ‘museum’ means a non-profit making, permanent institution in the service of society and of its development, and open to the public, which acquires, conserves, researches, communicates and exhibits, for purposes of study, education and enjoyment, material evidence of people and their environment;
+
+(h) ‘competent authority’ means an authority of one of the Member States, as listed in Annex I, which is, in accordance with Article 20, entitled to make a decision on an application for an authorisation or to prohibit an exporter from using the Union general export authorisation;
+
+(i) ‘applicant’ means:
+
+(1) the exporter, in the case of exports referred to in Article 3, 11 or 16;
+
+(2) the natural or legal person, entity or body transporting the goods within the customs territory of the Union, in the case of transit referred to in Article 5;
+
+(3) the supplier of technical assistance, in the case of supplies of technical assistance referred to in Article 3;
+
+(4) the museum that will display the goods, in the case of imports and supplies of technical assistance referred to in Article 4;
+
+(5) the supplier of technical assistance or the broker, in the case of supplies of technical assistance referred to in Article 15 or brokering services referred to in Article 19;
+
+(j) ‘customs territory of the Union’ means the territory as laid down in Article 4 of Regulation (EU) No 952/2013;
+
+(k) ‘brokering services’ means:
+
+(1) the negotiation or arrangement of transactions for the purchase, sale or supply of relevant goods from a third country to any other third country, or
+
+(2) the selling or buying of relevant goods that are located in a third country for their transfer to another third country.
+
+For the purposes of this Regulation, the sole provision of ancillary services is excluded from this definition. Ancillary services are transportation, financial services, insurance or re-insurance, or general advertising or promotion;
+
+(l) ‘broker’ means any natural or legal person, entity or body, including a partnership, resident or established in a Member State that supplies services defined under point (k) from within the Union; any natural person having the nationality of a Member State, wherever resident, who supplies such services from within the Union; and any legal person, entity or body incorporated or constituted under the law of a Member State, wherever established, that supplies such services from within the Union;
+
+(m) ‘supplier of technical assistance’ means any natural or legal person, entity or body, including a partnership, resident or established in a Member State that supplies technical assistance defined under point (f) from within the Union; any natural person having the nationality of a Member State, wherever resident, who supplies such assistance from within the Union; and any legal person, entity or body incorporated or constituted under the law of a Member State, wherever established, that supplies such assistance from within the Union;
+
+(n) ‘exporter’ means any natural or legal person, entity or body, including a partnership, on whose behalf an export declaration is made, that is to say the person, entity or body, who, at the time when the export declaration is accepted, holds a contract with the consignee in the third country concerned and has the necessary power for determining the sending of the goods out of the customs territory of the Union. If no such contract has been concluded or if the holder of that contract does not act on its own behalf, the exporter means the person, entity or body who has the necessary power for determining the sending of the goods out of the customs territory of the Union. Where the benefit of a right to dispose of the goods belongs to a person, entity or body resident or established outside the Union pursuant to that contract, the exporter shall be considered to be the contracting party resident or established in the Union;
+
+(o) ‘Union General Export Authorisation’ means an authorisation for exports as defined under point (d) to certain countries which is available to all exporters who respect conditions and requirements for its use as listed in Annex V;
+
+(p) ‘individual authorisation’ means an authorisation granted to:
+
+(1) one specific exporter for exports as defined under point (d) to one end-user or consignee in a third country and covering one or more goods;
+
+(2) one specific broker for the supply of brokering services as defined under point (k) to one end-user or consignee in a third country and covering one or more goods; or
+
+(3) a natural or legal person, entity or body transporting goods within the customs territory of the Union for transit as defined under point (s);
+
+(q) ‘global authorisation’ means an authorisation granted to one specific exporter or broker in respect of a type of goods listed in Annex III or in Annex IV, which may be valid for:
+
+(1) exports as defined under point (d) to one or more specified end-users in one or more specified third countries;
+
+(2) exports as defined under point (d) to one or more specified distributors in one or more specified third countries, where the exporter is a manufacturer of goods included in point 3.2 or 3.3. of Annex III or in Section 1 of Annex IV;
+
+(3) the supply of brokering services related to transfers of goods which are located in a third country, to one or more specified end-users in one or more specified third countries;
+
+(4) the supply of brokering services related to transfers of goods which are located in a third country, to one or more specified distributors in one or more specified third countries, where the broker is a manufacturer of goods included in point 3.2 or 3.3. of Annex III or in Section 1 of Annex IV;
+
+(r) ‘distributor’ means an economic operator performing wholesale activities in relation to goods listed in point 3.2 or 3.3 of Annex III or in Section 1 of Annex IV, such as procuring such goods from manufacturers or holding, supplying or exporting such goods; wholesale activities of such goods do not include procurement by either a hospital, a pharmacist or a medical professional for the sole purpose of supplying such goods to the public;
+
+(s) ‘transit’ means a transport within the customs territory of the Union of non-Union goods which pass through the customs territory of the Union with a destination outside the customs territory of the Union.
+
+## CHAPTER II — GOODS WHICH HAVE NO PRACTICAL USE OTHER THAN FOR THE PURPOSES OF CAPITAL PUNISHMENT, TORTURE AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT
+
+### Article 3 — Export prohibition
+
+1\. Any export of goods listed in Annex II shall be prohibited, irrespective of the origin of such goods.
+
+Annex II shall comprise goods which have no practical use other than for the purpose of capital punishment or for the purpose of torture and other cruel, inhuman or degrading treatment or punishment.
+
+A supplier of technical assistance shall be prohibited from supplying technical assistance related to goods listed in Annex II to any person, entity or body in a third country, whether for consideration or not.
+
+2\. By way of derogation from paragraph 1, the competent authority may authorise an export of goods listed in Annex II, and the supply of related technical assistance, if it is demonstrated that, in the country to which the goods will be exported, such goods will be used for the exclusive purpose of public display in a museum in view of their historic significance.
+
+### Article 4 — Import prohibition
+
+1\. Any import of goods listed in Annex II shall be prohibited, irrespective of the origin of such goods.
+
+The acceptance by a person, entity or body in the Union of technical assistance related to goods listed in Annex II supplied from a third country, whether for consideration or not, by any person, entity or body shall be prohibited.
+
+2\. By way of derogation from paragraph 1, the competent authority may authorise an import of goods listed in Annex II, and the supply of related technical assistance, if it is demonstrated that, in the Member State of destination, such goods will be used for the exclusive purpose of public display in a museum in view of their historic significance.
+
+### Article 5 — Prohibition of transit
+
+1\. Any transit of goods listed in Annex II shall be prohibited.
+
+2\. By way of derogation from paragraph 1, the competent authority may authorise a transit of goods listed in Annex II, if it is demonstrated that, in the country of destination, such goods will be used for the exclusive purpose of public display in a museum in view of their historic significance.
+
+### Article 6 — Prohibition of brokering services
+
+A broker shall be prohibited from supplying to any person, entity or body in a third country, brokering services in relation to goods listed in Annex II, irrespective of the origin of such goods.
+
+### Article 7 — Prohibition of training
+
+A supplier of technical assistance or a broker shall be prohibited from supplying or offering to any person, entity or body in a third country, training on the use of goods listed in Annex II.
+
+### Article 8 — Trade fairs
+
+It shall be prohibited for any natural or legal person, entity or body, including a partnership, whether resident or established in a Member State or not, to display or offer for sale any of the goods listed in Annex II in an exhibition or fair taking place in the Union, unless it is demonstrated that, given the nature of the exhibition or fair, such display or offering for sale is neither instrumental in nor promotes the sale or supply of the relevant goods to any person, entity or body in a third country.
+
+### Article 9 — Advertising
+
+It shall be prohibited for any natural or legal person, entity or body, including a partnership, that is resident or established in a Member State and sells or purchases advertising space or advertising time from within the Union, for any natural person who has the nationality of a Member State and sells or purchases advertising space or advertising time from within the Union, and for any legal person, entity or body incorporated or constituted under the law of a Member State, that sells or purchases advertising space or advertising time from within the Union, to sell to or purchase from any person, entity or body in a third country advertising space in print media or on the Internet or advertising time on television or radio in relation to goods listed in Annex II.
+
+### Article 10 — National measures
+
+1\. Without prejudice to the applicable Union rules, including the prohibition of discrimination on grounds of nationality, Member States may adopt or maintain national measures restricting transportation, financial services, insurance or re-insurance, or general advertising or promotion in relation to goods listed in Annex II.
+
+2\. Member States shall notify the Commission of any measures adopted pursuant to paragraph 1, or amendments and repeals thereof, before they enter into force.
+
+## CHAPTER III — GOODS THAT COULD BE USED FOR THE PURPOSE OF TORTURE OR OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT
+
+### Article 11 — Export authorisation requirement
+
+1\. For any export of goods listed in Annex III, an authorisation shall be required, irrespective of the origin of such goods. However, no authorisation shall be required for goods which only pass through the customs territory of the Union, namely those which are not assigned a customs approved treatment or use other than the external transit procedure under Article 226 of Regulation (EU) No 952/2013, including storage of non-Union goods in a free zone.
+
+Annex III shall only comprise the following goods that could be used for the purpose of torture or other cruel, inhuman or degrading treatment or punishment:
+
+(a) goods which are primarily used for law enforcement purposes;
+
+(b) goods which, taking into account their design and technical features, present a material risk of use for torture or other cruel, inhuman or degrading treatment or punishment.
+
+Annex III shall not include:
+
+(a) firearms controlled by Regulation (EU) No 258/2012;
+
+(b) dual-use items controlled by Regulation (EC) No 428/2009;
+
+(c) goods controlled in accordance with Common Position 2008/944/CFSP.
+
+2\. Paragraph 1 shall not apply to exports to those territories of Member States which are both listed in Annex VI and are not part of the customs territory of the Union, provided that the goods are used by an authority in charge of law enforcement in both the country or territory of destination and the metropolitan part of the Member State to which that territory belongs. Customs or other relevant authorities shall have the right to verify whether this condition is met and may decide that, pending such verification, the export shall not take place.
+
+3\. Paragraph 1 shall not apply to exports to third countries, provided that the goods are used by military or civil personnel of a Member State, if such personnel is taking part in an EU or UN peace keeping or crisis management operation in the third country concerned or in an operation based on agreements between Member States and third countries in the field of defence. Customs and other relevant authorities shall have the right to verify whether this condition is met. Pending such verification, the export shall not take place.
+
+### Article 12 — Criteria for granting export authorisations
+
+1\. Decisions on applications for authorisations in respect of the export of goods listed in Annex III shall be taken by the competent authorities, taking into account all relevant considerations, including in particular whether an application in respect of an essentially identical export has been dismissed by another Member State in the preceding three years and considerations about intended end-use and the risk of diversion.
+
+2\. The competent authority shall not grant any authorisation when there are reasonable grounds to believe that goods listed in Annex III might be used for torture or other cruel, inhuman or degrading treatment or punishment, including judicial corporal punishment, by a law enforcement authority or any natural or legal person in a third country.
+
+The competent authority shall take into account:
+
+(a) available international court judgements;
+
+(b) findings of the competent bodies of the UN, the Council of Europe and the EU, and reports of the Council of Europe's European Committee for the Prevention of Torture and Inhuman or Degrading Treatment and Punishment and of the UN Special Rapporteur on Torture and other cruel, inhuman or degrading treatment or punishment.
+
+Other relevant information, including available national court judgements, reports or other information prepared by civil society organisations and information on restrictions on exports of goods listed in Annexes II and III applied by the country of destination, may be taken into account.
+
+3\. The rules laid down in the second and third subparagraphs shall apply to the verification of the intended end-use and the risk of diversion.
+
+If the manufacturer of goods listed in point 3.2 or 3.3 of Annex III requests an authorisation for exporting such goods to a distributor, the competent authority shall make an assessment of the contractual arrangements made by the manufacturer and the distributor and of the measures that they are taking to ensure that these goods and, if applicable, the products in which they will be incorporated will not be used for torture or other cruel, inhuman or degrading treatment or punishment.
+
+If an authorisation is requested for exporting goods listed in point 3.2 or 3.3 of Annex III to an end-user, the competent authority may, when assessing the risk of diversion, take into account the contractual arrangements that apply and the end-use statement signed by the end-user, if such a statement is provided. If no end-use statement is provided, it shall be up to the exporter to demonstrate who will be the end-user and what use will be made of the goods. If the exporter fails to provide sufficient information on the end-user and the end-use, the competent authority shall be deemed to have reasonable grounds to believe that the goods might be used for torture or other cruel, inhuman or degrading treatment or punishment.
+
+4\. In addition to the criteria set out in paragraph 1, when assessing an application for a global authorisation, the competent authority shall take into consideration the application by the exporter of proportionate and adequate means and procedures to ensure compliance with the provisions and objectives of this Regulation and with the terms and conditions of the authorisation.
+
+### Article 13 — Prohibition of transit
+
+A natural or legal person, entity or body, including a partnership, whether resident or established in a Member State or not, shall be prohibited from executing the transit of goods listed in Annex III, if he, she or it knows that any part of a shipment of such goods is intended to be used for torture or other cruel, inhuman or degrading treatment or punishment in a third country.
+
+### Article 14 — National measures
+
+1\. Notwithstanding Articles 11 and 12, a Member State may adopt or maintain a prohibition on the export and import of leg irons, gang chains and portable electric shock devices.
+
+2\. A Member State may impose an authorisation requirement on the export of handcuffs which have an overall dimension including chains, measured from the outer edge of one cuff to the outer edge of the other cuff, exceeding 240 mm when locked. The Member State concerned shall apply Chapters III and V to such handcuffs.
+
+3\. Member States shall notify the Commission of any measures adopted pursuant to paragraphs 1 and 2 before they enter into force.
+
+### Article 15 — Authorisation requirement for certain services
+
+1\. An authorisation shall be required for any supply, by a supplier of technical assistance or a broker, respectively, of one of the following services to any person, entity or body in a third country, whether for consideration or not:
+
+(a) technical assistance related to goods listed in Annex III, irrespective of the origin of such goods; and
+
+(b) brokering services related to goods listed in Annex III, irrespective of the origin of such goods.
+
+2\. When deciding on applications for an authorisation for the supply of brokering services concerning goods listed in Annex III, Article 12 shall apply mutatis mutandis.
+
+When deciding on applications for an authorisation for the supply of technical assistance related to goods listed in Annex III, the criteria set out in Article 12 shall be taken into account to assess:
+
+(a) whether the technical assistance would be supplied to a person, entity or body that might use the goods to which the technical assistance relates for torture or other cruel, inhuman or degrading treatment or punishment; and
+
+(b) whether the technical assistance would be used to repair, develop, manufacture, test, maintain or assemble goods listed in Annex III for, or to supply technical assistance to, a person, entity or body that might use the goods to which the technical assistance relates for torture or other cruel, inhuman or degrading treatment or punishment.
+
+3\. Paragraph 1 shall not apply to the supply of technical assistance, if
+
+(a) the technical assistance is supplied to a law enforcement authority of a Member State or to military or civil personnel of a Member State as described in the first sentence of Article 11(3);
+
+(b) the technical assistance consists of providing information that is in the public domain; or
+
+(c) the technical assistance is the minimum necessary for the installation, operation, maintenance or repair of those goods listed in Annex III whose export has been authorised by a competent authority in accordance with this Regulation.
+
+4\. Notwithstanding paragraph 1, a Member State may maintain a prohibition on the supply of brokering services related to leg irons, gang chains and portable electric shock devices. Where a Member State maintains such a prohibition, it shall inform the Commission if measures previously adopted and notified in accordance with Article 7a(4) of Regulation (EC) No 1236/2005 are amended or repealed.
+
+## CHAPTER IV — GOODS THAT COULD BE USED FOR THE PURPOSE OF CAPITAL PUNISHMENT
+
+### Article 16 — Export authorisation requirement
+
+1\. For any export of goods listed in Annex IV, an authorisation shall be required irrespective of the origin of such goods. However, no authorisation shall be required for goods which only pass through the customs territory of the Union, namely those which are not assigned a customs approved treatment or use other than the external transit procedure under Article 226 of Regulation (EU) No 952/2013, including storage of non-Union goods in a free zone.
+
+Annex IV shall only comprise goods that could be used for the purpose of capital punishment and have been approved or actually used for capital punishment by one or more third countries that have not abolished capital punishment. It shall not include:
+
+(a) firearms controlled by Regulation (EU) No 258/2012;
+
+(b) dual-use items controlled by Regulation (EC) No 428/2009 and
+
+(c) goods controlled in accordance with Common Position 2008/944/CFSP.
+
+2\. Where the export of medicinal products requires an export authorisation pursuant to this Regulation and the export is also subject to authorisation requirements in accordance with international conventions controlling narcotic drugs and psychotropic substances, such as the 1971 Convention on Psychotropic Substances, Member States may use a single procedure to carry out the obligations imposed on them by this Regulation and by the relevant convention.
+
+### Article 17 — Criteria for granting export authorisations
+
+1\. Decisions on applications for authorisations in respect of the export of goods listed in Annex IV shall be taken by the competent authorities, taking into account all relevant considerations, including in particular whether an application in respect of an essentially identical export has been dismissed by another Member State in the preceding three years and considerations about intended end-use and the risk of diversion.
+
+2\. The competent authority shall not grant any authorisation when there are reasonable grounds to believe that the goods listed in Annex IV might be used for capital punishment in a third country.
+
+3\. The rules in the second, third and fourth subparagraphs shall apply to the verification of the intended end-use and the risk of diversion.
+
+If the manufacturer of goods listed in Section 1 of Annex IV requests an authorisation for exporting such products to a distributor, the competent authority shall make an assessment of the contractual arrangements made by the manufacturer and the distributor and of the measures that they are taking to ensure that the goods will not be used for capital punishment.
+
+If an authorisation is requested for exporting goods listed in Section 1 of Annex IV to an end-user, the competent authority may, when assessing the risk of diversion, take into account the contractual arrangements that apply and the end-use statement signed by the end-user, if such a statement is provided. If no end-use statement is provided, it shall be up to the exporter to demonstrate who will be the end-user and what use will be made of the goods. If the exporter fails to provide sufficient information on the end-user and the end-use, the competent authority shall be deemed to have reasonable grounds to believe that the goods might be used for capital punishment.
+
+The Commission, in cooperation with competent authorities of the Member States, may adopt best practice guidelines on the assessment of end-use and of the purpose for which technical assistance would be used.
+
+4\. In addition to the criteria set out in paragraph 1, when assessing an application for a global authorisation the competent authority shall take into consideration the application by the exporter of proportionate and adequate means and procedures to ensure compliance with the provisions and objectives of this Regulation and with the terms and conditions of the authorisation.
+
+### Article 18 — Prohibition of transit
+
+A natural or legal person, entity or body, including a partnership, whether resident or established in a Member State or not, shall be prohibited from executing the transit of goods listed in Annex IV, if he, she or it knows that any part of a shipment of such goods is intended to be used for capital punishment in a third country.
+
+### Article 19 — Authorisation requirement for certain services
+
+1\. An authorisation shall be required for any supply, by a supplier of technical assistance or a broker, respectively, of one of the following services to any person, entity or body in a third country whether for consideration or not:
+
+(a) technical assistance related to goods listed in Annex IV, irrespective of the origin of such goods; and
+
+(b) brokering services related to goods listed in Annex IV, irrespective of the origin of such goods.
+
+2\. When deciding on applications for an authorisation for the supply of brokering services concerning goods listed in Annex IV Article 17 shall apply mutatis mutandis.
+
+When deciding on applications for an authorisation for the supply of technical assistance related to goods listed in Annex IV, the criteria set out in Article 17 shall be taken into account to assess:
+
+(a) whether the technical assistance would be supplied to a person, entity or body that might use the goods to which the technical assistance relates for capital punishment; and
+
+(b) whether the technical assistance would be used to repair, develop, manufacture, test, maintain or assemble goods listed in Annex IV for, or supply technical assistance to, a person, entity or body that might use the goods to which the technical assistance relates for capital punishment.
+
+3\. Paragraph 1 shall not apply to the supply of technical assistance, if
+
+(a) the technical assistance consists of providing information that is in the public domain; or
+
+(b) the technical assistance is the minimum necessary for the installation, operation, maintenance or repair of those goods listed in Annex IV whose export has been authorised by a competent authority in accordance with this Regulation.
+
+## CHAPTER V — AUTHORISATION PROCEDURES
+
+### Article 20 — Types of authorisations and issuing authorities
+
+1\. A Union General Export Authorisation for certain exports as set out in Annex V is established by this Regulation.
+
+The competent authority of the Member State where the exporter is resident or established may prohibit the exporter from using this authorisation, if there is reasonable suspicion about the exporter's ability to comply with the terms of this authorisation or with a provision of the export control legislation.
+
+The competent authorities of the Member States shall exchange information on all exporters deprived of the right to use the Union General Export Authorisation, unless they determine that a specific exporter will not attempt to export goods listed in Annex IV through another Member State. A secure and encrypted system for exchange of information shall be used for this purpose.
+
+2\. An authorisation for exports other than those referred to in paragraph 1 for which an authorisation is required under this Regulation shall be granted by the competent authority of the Member State where the exporter is resident or established, as listed in Annex I. Such authorisation may be an individual or a global authorisation, if it concerns goods listed in Annex III or in Annex IV. An authorisation concerning goods listed in Annex II shall be an individual authorisation.
+
+3\. An authorisation for transit of goods listed in Annex II shall be granted by the competent authority of the Member State where the natural or legal person, entity or body transporting the goods within the customs territory of the Union is resident or established, as listed in Annex I. If that person, entity or body is not resident or established in a Member State, an authorisation shall be granted by the competent authority of the Member State in which the entry of goods into the customs territory of the Union takes place. Such an authorisation shall be an individual authorisation.
+
+4\. An authorisation for imports for which an authorisation is required under this Regulation shall be granted by the competent authority of the Member State where the museum is established, as listed in Annex I. An authorisation concerning goods listed in Annex II shall be an individual authorisation.
+
+5\. An authorisation for the supply of technical assistance related to goods listed in Annex II shall be granted by:
+
+(a) the competent authority of the Member State where the supplier of technical assistance is resident or established, as listed in Annex I, or, if there is no such Member State, the competent authority of the Member State of which the supplier of technical assistance is a national or under whose law it has been incorporated or constituted, if the assistance is to be supplied to a museum in a third country; or
+
+(b) the competent authority of the Member State where the museum is established, as listed in Annex I, if the assistance is to be supplied to a museum in the Union.
+
+6\. An authorisation for the supply of technical assistance related to goods listed in Annex III or in Annex IV shall be granted by the competent authority of the Member State where the supplier of technical assistance is resident or established, as listed in Annex I, or, if there is no such Member State, the competent authority of the Member State of which the supplier of technical assistance is a national or under whose law it has been incorporated or constituted.
+
+7\. An authorisation for the supply of brokering services related to goods listed in Annex III or in Annex IV shall be granted by the competent authority of the Member State where the broker is resident or established, as listed in Annex I, or, if there is no such Member State, the competent authority of the Member State of which the broker is a national or under whose law it has been incorporated or constituted. Such an authorisation shall be granted for a set quantity of specific goods moving between two or more third countries. The location of the goods in the originating third country, the end-user and its exact location shall be clearly identified.
+
+8\. Applicants shall supply the competent authority with all relevant information required for their applications for an individual or global authorisation for exports or for brokering services, for an authorisation for technical assistance, for an individual import authorisation or for an individual authorisation for transit.
+
+As regards exports, the competent authorities shall receive complete information in particular on the end-user, the country of destination and the end-use of the goods.
+
+As regards brokering services the competent authorities shall in particular receive details of the location of the goods in the originating third country, a clear description of the goods and the quantity involved, third parties involved in the transaction, the third country of destination, the end-user in that country and its exact location.
+
+The granting of an authorisation may be subject to an end-use statement, if appropriate.
+
+9\. By way of derogation from paragraph 8, where a manufacturer or a manufacturer's representative is to export or to sell and transfer goods included in point 3.2 or 3.3 of Annex III or in Section 1 of Annex IV to a distributor in a third country, the manufacturer shall provide information on the arrangements made and the measures taken to prevent the goods included in point 3.2 or 3.3 of Annex III from being used for torture or other cruel, inhuman or degrading treatment or punishment or to prevent the goods included in Section 1 of Annex IV from being used for capital punishment, on the country of destination and, if available, information on the end-use and the end-users of the goods.
+
+10\. Upon request of a national preventive mechanism established under the Optional Protocol to the 1984 United Nations Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the competent authorities may decide to make the information they have received from an applicant on the country of destination, the consignee, the end-use and the end-users or, where relevant, the distributor and the arrangements and measures referred to in paragraph 9, available to the requesting national preventive mechanism. The competent authorities shall hear the applicant before the information is made available and may impose restrictions on the use that can be made of the information. The competent authorities shall make their decisions in accordance with national laws and practice.
+
+11\. Member States shall process requests for individual or global authorisations within a period of time to be determined by national law or practice.
+
+### Article 21 — Authorisations
+
+1\. Authorisations for export, import or transit shall be issued on a form consistent with the model set out in Annex VII. Authorisations concerning brokering services shall be issued on a form consistent with the model set out in Annex VIII. Authorisations concerning technical assistance shall be issued on a form consistent with the model set out in Annex IX. Such authorisations shall be valid throughout the Union. The period of validity of an authorisation shall be from three to twelve months, with a possible extension of up to twelve months. The period of validity of a global authorisation shall be from one year to three years with a possible extension of up to two years.
+
+2\. An authorisation for export granted in accordance with Article 12 or with Article 17 implies an authorisation for the exporter to supply technical assistance to the end-user to the extent that such assistance is necessary for the installation, operation, maintenance or repair of those goods whose export is authorised.
+
+3\. Authorisations may be issued by electronic means. The specific procedures shall be established on a national basis. Member States availing themselves of this option shall inform the Commission.
+
+4\. Authorisations for export, import, transit, the supply of technical assistance or the supply of brokering services shall be subject to any requirements and conditions the competent authority deems appropriate.
+
+5\. The competent authorities, acting in accordance with this Regulation, may refuse to grant an authorisation and may annul, suspend, modify or revoke an authorisation which they have already granted.
+
+### Article 22 — Customs formalities
+
+1\. When completing customs formalities, the exporter or importer shall submit the duly completed form set out in Annex VII as proof that the necessary authorisation for the export or import concerned has been obtained. If the document is not filled out in an official language of the Member State where the customs formalities are being completed, the exporter or importer may be required to provide a translation into such official language.
+
+2\. If a customs declaration is made concerning goods listed in Annex II, III or IV and it is confirmed that no authorisation has been granted pursuant to this Regulation for the intended export or import, the customs authorities shall detain the goods declared and shall make the exporter or importer aware of the possibility to apply for an authorisation pursuant to this Regulation. If no application for an authorisation is made within six months of the detention, or if the competent authority dismisses such an application, the customs authorities shall dispose of the detained goods in accordance with applicable national law.
+
+### Article 23 — Notification and consultation requirement
+
+1\. A Member State shall notify the other Member States and the Commission if its competent authorities, as listed in Annex I, take a decision dismissing an application for an authorisation under this Regulation or if they annul an authorisation they have granted. Such notification shall be made not later than 30 days following the date of the decision or annulment.
+
+2\. The competent authority shall, through diplomatic channels where required or appropriate, consult the authority or authorities which, in the preceding three years, dismissed an application for authorisation of an export, a transit, the supply of technical assistance to a person, entity or body in a third country or the supply of brokering services under this Regulation, if it receives an application concerning an export, a transit, the supply of technical assistance to a person, entity or body in a third country or the supply of brokering services involving an essentially identical transaction referred to in such earlier application and considers that an authorisation should, nevertheless, be granted.
+
+3\. If, after the consultations referred to in paragraph 2, the competent authority decides to grant an authorisation, the relevant Member State shall immediately inform the other Member States and the Commission of its decision and explain the reasons for its decision, submitting supporting information as appropriate.
+
+4\. Where a refusal to grant an authorisation is based on a national prohibition in accordance with Article 14(1) or Article 15(4), it shall not constitute a decision dismissing an application within the meaning of paragraph 1 of this Article.
+
+5\. All notifications required under this Article shall be made via a secure and encrypted system for exchange of information.
+
+## CHAPTER VI — GENERAL AND FINAL PROVISIONS
+
+### Article 24 — Amendment of Annexes
+
+The Commission is empowered to adopt delegated acts in accordance with Article 29, to amend Annexes I, II, III, IV, V, VI, VII, VIII and IX. The data in Annex I regarding competent authorities of the Member States shall be amended on the basis of information supplied by the Member States.
+
+Where, in the case of amendment of Annex II, III, IV or V, imperative grounds of urgency so require, the procedure provided for in Article 30 shall apply to delegated acts adopted pursuant to this Article.
+
+### Article 25 — Requests for adding goods to one of the lists of goods
+
+1\. Each Member State may address a duly substantiated request to the Commission to add goods designed or marketed for law enforcement to Annex II, Annex III or Annex IV. Such a request shall include information on:
+
+(a) the design and characteristics of the goods;
+
+(b) all the purposes for which they can be used; and
+
+(c) the international or domestic rules that would be broken if the goods were to be used for law enforcement.
+
+When addressing its request to the Commission, the requesting Member State shall also forward that request to the other Member States.
+
+2\. The Commission may, within three months of the receipt of the request, ask the requesting Member State to provide supplementary information, if it considers that the request fails to address one or more relevant points or that additional information on one or more relevant points is necessary. It shall communicate the points on which supplementary information needs to be provided. The Commission shall forward its questions to the other Member States. The other Member States may also provide the Commission with further information for the assessment of the request.
+
+3\. If it considers that there is no need to ask for supplementary information or, where applicable, upon receipt of the supplementary information it has requested, the Commission shall, within 20 weeks of the receipt of the request or the receipt of supplementary information, respectively, commence the procedure for the adoption of the requested amendment or inform the requesting Member State of the reasons for not doing so.
+
+### Article 26 — Exchange of information between Member States' authorities and the Commission
+
+1\. Without prejudice to Article 23, the Commission and the Member States shall, upon request, inform each other of the measures taken under this Regulation and supply each other with any relevant information at their disposal in connection with this Regulation, in particular information on authorisations granted and refused.
+
+2\. Relevant information on authorisations granted and refused shall comprise at least the type of decision, the grounds for the decision or a summary thereof, the names of the consignees and, if they are not the same, of the end-users as well as the goods concerned.
+
+3\. Member States, if possible in cooperation with the Commission, shall make a public, annual activity report, providing information on the number of applications received, on the goods and countries concerned by these applications, and on the decisions they have taken on these applications. This report shall not include information the disclosure of which a Member State considers to be contrary to the essential interests of its security.
+
+4\. The Commission shall prepare an annual report comprised of the annual activity reports referred to in paragraph 3. That annual report shall be made publicly available.
+
+5\. Except for the supply of information mentioned in paragraph 2 to the authorities of the other Member State and to the Commission, this Article shall be without prejudice to applicable national rules concerning confidentiality and professional secrecy.
+
+6\. The refusal to grant an authorisation, if it is based on a national prohibition adopted in accordance with Article 14(1), shall not constitute an authorisation refused within the meaning of paragraphs 1, 2 and 3 of this Article.
+
+### Article 27 — Processing of personal data
+
+Personal data shall be processed and exchanged in accordance with the rules laid down in Regulation (EU) 2016/679 and Regulation (EU) 2018/1725.
+
+### Article 28 — Use of information
+
+Without prejudice to Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 2 ) and national legislation on public access to documents, information received pursuant to this Regulation shall be used only for the purpose for which it was requested.
+
+### Article 29 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 24 shall be conferred on the Commission for a period of five years from 16 December 2016. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 24 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 24 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 30 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 29(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+### Article 31 — Anti-Torture Coordination Group
+
+1\. An Anti-Torture Coordination Group chaired by a representative of the Commission shall be established. Each Member State shall appoint a representative to that group.
+
+2\. The Anti-Torture Coordination Group shall examine any questions concerning the application of this Regulation, including, without limitation, the exchange of information on administrative practices and any questions which may be raised either by the chair or by a representative of a Member State.
+
+3\. The Anti-Torture Coordination Group may, whenever it considers it to be necessary, consult exporters, brokers, suppliers of technical assistance and other relevant stakeholders concerned by this Regulation.
+
+4\. The Commission shall submit an annual report in writing to the European Parliament on the activities, examinations and consultations of the Anti-Torture Coordination Group.
+
+The annual report shall be drawn up paying due regard to the need not to undermine the commercial interests of natural or legal persons. The discussions in the Anti-Torture Coordination Group shall be kept confidential.
+
+### Article 32 — Review
+
+1\. By 31 July 2020, and every five years thereafter, the Commission shall review the implementation of this Regulation and present a comprehensive implementation and impact assessment report to the European Parliament and to the Council, which may include proposals for its amendment. The review will assess the need to include the activities of Union nationals abroad. Member States shall provide to the Commission all appropriate information for the preparation of the report.
+
+2\. Special sections of the report shall deal with:
+
+(a) the Anti-Torture Coordination Group and its activities. The report shall be drawn up paying due regard to the need not to undermine the commercial interests of natural or legal persons. The discussions in the group shall be kept confidential;
+
+(b) information on the measures taken by the Member States pursuant to Article 33(1) and notified to the Commission pursuant to Article 33(2).
+
+### Article 33 — Penalties
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission without delay of any amendment affecting rules on penalties notified in accordance with Article 17(2) of Regulation (EC) No 1236/2005.
+
+### Article 34 — Territorial scope
+
+1\. This Regulation shall have the same territorial scope of application as the Treaties, except for the first subparagraph of Article 3(1), the first subparagraph of Article 4(1), Articles 5, 11, 13, 14, 16 and 18, Article 20(1) to (4) and Article 22, which shall apply to:
+
+— the customs territory of the Union;
+
+— the Spanish territories of Ceuta and Melilla;
+
+— the German territory of Helgoland.
+
+2\. For the purpose of this Regulation Ceuta, Helgoland and Melilla shall be treated as part of the customs territory of the Union.
+
+### Article 35 — Repeal
+
+Regulation (EC) No 1236/2005 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex XI.
+
+### Article 36 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF AUTHORITIES REFERRED TO IN ARTICLES 20 AND 23, AND ADDRESS FOR NOTIFICATIONS TO THE EUROPEAN COMMISSION**
+
+**A. Authorities of the Member States**
+
+**BELGIUM**
+
+Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie
+
+Algemene Directie Economische Analyses en Internationale Economie
+
+Dienst Vergunningen
+
+Vooruitgangstraat 50
+
+B-1210 Brussel
+
+BELGIË
+
+Service public fédéral économie, PME, classes moyennes et énergie
+
+Direction générale des analyses économiques et de l’économie nationale
+
+Service licences
+
+Rue du Progrès 50
+
+B-1210 Bruxelles
+
+BELGIQUE
+
+Tel. +32 22776512
+
+Email: vincent.wuyts@economie.fgov.be
+
+**BULGARIA**
+
+Министерство на икономиката
+
+ул. ‘Славянска’ № 8
+
+1052 София/Sofia
+
+БЪЛГАРИЯ/BULGARIA
+
+Ministry of Economy
+
+8, Slavyanska Str.
+
+1052 Sofia
+
+BULGARIA
+
+Tel. +359 29407771
+
+Fax +359 29880727
+
+E-mail: exportcontrol@mi.government.bg
+
+**CZECH REPUBLIC**
+
+Ministerstvo průmyslu a obchodu
+
+Licenční správa
+
+Na Františku 32
+
+110 15 Praha 1
+
+ČESKÁ REPUBLIKA
+
+Tel. +420 224907638
+
+Fax +420 224214558
+
+E-mail: dual@mpo.cz
+
+**DENMARK**
+
+Annex III, No 2 and 3
+
+Justitsministeriet
+
+Slotsholmsgade 10
+
+DK-1216 København K
+
+DANMARK
+
+Tel. +45 72268400
+
+Fax +45 33933510
+
+E-mail: jm@jm.dk
+
+Annex II and Annex III, No 1
+
+Erhvervs- og Vækstministeriet
+
+Erhvervsstyrelsen
+
+Eksportkontrol
+
+Langelinie Allé 17
+
+DK-2100 København Ø
+
+DANMARK
+
+Tel. +45 35291000
+
+Fax +45 35291001
+
+E-mail: eksportkontrol@erst.dk
+
+**GERMANY**
+
+Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+
+Frankfurter Straße 29—35
+
+D-65760 Eschborn
+
+DEUTSCHLAND
+
+Tel. +49 6196 908 2217
+
+Fax +49 6196 908 1800
+
+E-mail: ausfuhrkontrolle@bafa.bund.de
+
+**ESTONIA**
+
+Strateegilise kauba komisjon
+
+Islandi väljak 1
+
+15049 Tallinn
+
+EESTI/ESTONIA
+
+Tel. +372 6377192
+
+Fax +372 6377199
+
+E-mail: stratkom@vm.ee
+
+**IRELAND**
+
+Ceadúnú agus Rialú Trádála
+
+An Rionn Gnó, Fiontar agus Nuálaíochta
+
+Ionad Phort an Iarla
+
+Sráid Haiste Íochtarach
+
+Baile Átha Cliath 2
+
+D02 PW01
+
+ÉIRE
+
+Tel. +353 16312121
+
+Email: exportcontrol@dbei.gov.ie
+
+Trade Licensing and Control
+
+Department of Business, Enterprise and Innovation
+
+Earlsfort Centre
+
+Lower Hatch Street
+
+Dublin 2
+
+D02 PW01
+
+Ireland
+
+Tel. +353 16312121
+
+Email: exportcontrol@dbei.gov.ie
+
+**GREECE**
+
+Υπουργείο Ανάπτυξης, Ανταγωνιστικότητας, Υποδομών, Μεταφορών και Δικτύων
+
+Γενική Διεύθυνση Διεθνούς Οικονομικής Πολιτικής
+
+Διεύθυνση Καθεστώτων Εισαγωγών-Εξαγωγών, Εμπορικής Άμυνας
+
+Ερμού και Κορνάρου 1,
+
+GR-105 63 Αθήνα/Athens
+
+ΕΛΛΑΔΑ/GREECE
+
+Ministry of Development, Competitiveness, Infrastructure, Transport and Networks
+
+General Directorate for International Economic Policy
+
+Directorate of Import-Export Regimes, Trade Defence Instruments
+
+Ermou and Kornarou 1,
+
+GR-105 63 Athens
+
+GREECE
+
+Tel. +30 2103286021-22, +30 2103286051-47
+
+Fax +30 2103286094
+
+E-mail: e3a@mnec.gr, e3c@mnec.gr
+
+**SPAIN**
+
+Subdirección General de Comercio Internacional de Material de Defensa y Doble Uso
+
+Secretaría de Estado de Comercio
+
+Ministerio de Economía y Competitividad
+
+Paseo de la Castellana 162, planta 7
+
+E-28046 Madrid
+
+ESPAÑA
+
+Tel. +34 913492587
+
+Fax +34 913492470
+
+E-mail: sgdefensa.sscc@comercio.mineco.es
+
+**FRANCE**
+
+Service des biens à double usage (SBDU)
+
+67, rue Barbès – BP 8000
+
+194201 IVRY-SUR-SEINE Cedex
+
+FRANCE
+
+Tél.: +33 179843419
+
+Email: doublusage@finances.gouv.fr
+
+**CROATIA**
+
+Ministarstvo vanjskih i europskih poslova
+
+Uprava za gospodarske poslove i razvojnu suradnju
+
+Služba za izvoznu kontrolu
+
+Trg Nikole Šubića Zrinskog 7-8
+
+10000 Zagreb
+
+HRVATSKA
+
+Tel. +385 14598135(137)
+
+Fax +385 16474553
+
+Adresa e-pošte: kontrola.izvoza@mvep.hr
+
+**ITALY**
+
+Divisione Materiali a duplice uso
+
+Autorità nazionale – Unità per le autorizzazioni dei materiali di armamento (UAMA)
+
+Ministero degli affari esteri e della cooperazione internazionale
+
+Viale Boston, 25 – 00144 Roma
+
+ITALY
+
+Tel. +39 0659932439
+
+Fax +39 0659647506
+
+Email: uama.dualuse@cert.esteri.it
+
+**CYPRUS**
+
+Yπουργείο Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+
+Υπηρεσία Εμπορίου
+
+Κλάδος Έκδοσης Αδειών Εισαγωγών/Εξαγωγών
+
+Ανδρέα Αραούζου 6
+
+CY-1421 Λευκωσία
+
+ΚΥΠΡΟΣ/CYPRUS
+
+Ministry of Energy, Commerce, Industry and Tourism
+
+Trade Service
+
+Import/Export Licensing Section
+
+6 Andreas Araouzos Street
+
+CY-1421 Nicosia
+
+CYPRUS
+
+Tel. +357 22867100, +357 22867197, +357 22867332
+
+Fax +357 22375443
+
+E-mail: ts@mcit.gov.cy, pevgeniou@mcit.gov.cy
+
+**LATVIA**
+
+Ārlietu ministrija
+
+K. Valdemāra iela 3
+
+LV-1395 Rīga
+
+LATVIJA
+
+Tel. +371 67016426
+
+Fax +371 67828121
+
+E-mail: mfa.cha@mfa.gov.lv
+
+**LITHUANIA**
+
+Policijos departamento prie Vidaus reikalų ministerijos
+
+Viešosios policijos valdybos Licencijavimo skyrius
+
+Saltoniškių g. 19
+
+LT-08105 Vilnius
+
+LIETUVA/LITHUANIA
+
+Tel. +370 82719767
+
+Fax +370 52719976
+
+E-mail: leidimai.pd@policija.lt
+
+**LUXEMBOURG**
+
+Ministère de l'Économie
+
+Office des Licences
+
+19-21, boulevard Royal
+
+L-2449 Luxembourg
+
+BP 113/L-2011 Luxembourg
+
+LUXEMBOURG
+
+Tel. +352 22 61 62
+
+Fax +352 46 61 38
+
+E-mail: office.licences@eco.etat.lu
+
+**HUNGARY**
+
+Budapest Főváros Kormányhivatala
+
+Kereskedelmi, Haditechnikai, Exportellenőrzési és Nemesfémhitelesítési Főosztálya
+
+Németvölgyi út 37–39.
+
+H-1124 Budapest
+
+MAGYARORSZÁG
+
+Tel. +36 14585599
+
+Fax +36 14585885
+
+Email: armstrade@bfkh.gov.hu
+
+**MALTA**
+
+Dipartiment tal-Kummerċ
+
+Servizzi ta' Kummerċ
+
+Lascaris
+
+Valletta VLT2000
+
+MALTA
+
+Commerce Department
+
+Trade Services
+
+Lascaris
+
+Valletta VLT2000
+
+MALTA
+
+Tel. +356 21242270
+
+Fax +356 25690286
+
+**NETHERLANDS**
+
+Ministerie van Buitenlandse Zaken
+
+Directoraat-Generaal Buitenlandse Economische Betrekkingen
+
+Directie Internationale Marktordening en Handelspolitiek
+
+Rijnstraat 8
+
+Postbus 20061
+
+2500 EB Den Haag
+
+NEDERLAND
+
+Tel. +31 703485954
+
+**AUSTRIA**
+
+Bundesministerium für Digitalisierung und Wirtschaftsstandort
+
+Abteilung ‘Außenwirtschaftskontrollen’ III/2
+
+Stubenring 1
+
+A-1010 Wien
+
+ÖSTERREICH
+
+Tel. +43 171100802067
+
+Fax +43 171100808386
+
+Email: aussenwirtschaftskontrollen@bmdw.gv.at
+
+**POLAND**
+
+Minister właściwy do spraw gospodarki
+
+Ministerstwo Rozwoju
+
+Departament Obrotu Towarami Wrażliwymi i Bezpieczeństwa Technicznego
+
+Plac Trzech Krzyży 3/5
+
+00-507 Warszawa
+
+POLSKA
+
+Tel. +48 224119665
+
+Faks +48 224119140
+
+Email: SekretariatDOT@mr.gov.pl
+
+**PORTUGAL**
+
+Ministério das Finanças
+
+AT- Autoridade Tributária e Aduaneira
+
+Direcção de Serviços de Licenciamento
+
+Rua da Alfândega, n. 5, r/c
+
+P-1149-006 Lisboa
+
+PORTUGAL
+
+Tel. +351 218813843
+
+Fax +351 218813986
+
+E-mail: dsl@at.gov.pt
+
+**ROMANIA**
+
+Ministerul Economiei, Energiei și Mediului de Afaceri
+
+Direcția Politici Comerciale
+
+Calea Victoriei nr. 152
+
+București, sector 1
+
+Cod poștal 010096
+
+ROMÂNIA
+
+Tel. +40 214010596, +40 214010523
+
+Email: dgre@dce.gov.ro, miruna.popescu@dce.gov.ro
+
+**SLOVENIA**
+
+Ministrstvo za gospodarski razvoj in tehnologijo
+
+Direktorat za notranji trg, Sektor za trgovinsko politiko
+
+Kotnikova 5
+
+1000 Ljubljana
+
+REPUBLIKA SLOVENIJA
+
+Tel. +386 1 400 3564;
+
+Fax +386 1 400 3588
+
+Ministry for Economic Development and Technology
+
+Directorate for Internal Market, Trade Policy Division
+
+Kotnikova 5
+
+1000 Ljubljana
+
+THE REPUBLIC OF SLOVENIA
+
+Tel. +386 1 400 3564;
+
+Fax +386 1 400 3588
+
+**SLOVAKIA**
+
+Ministerstvo hospodárstva Slovenskej republiky
+
+Odbor výkonu obchodných opatrení
+
+Mlynské nivy 44/a
+
+827 15 Bratislava
+
+Slovensko
+
+Tel. +421 248542172
+
+Fax +421 243423915
+
+email: patricia.monosiova@mhsr.sk
+
+**FINLAND**
+
+Sisäministeriö
+
+Poliisiosasto
+
+PL 26
+
+FI-00023 Valtioneuvosto
+
+FINLAND
+
+Inrikesministeriet
+
+Polisavdelningen
+
+PB 26
+
+FI-00023 Statsrådet
+
+SUOMI/FINLAND
+
+Tel. +358 295 480 171
+
+Fax +358 9 160 44635
+
+E-mail: kirjaamo@intermin.fi
+
+**SWEDEN**
+
+Kommerskollegium
+
+PO Box 6803
+
+SE-113 86 Stockholm
+
+SVERIGE
+
+Tel. +46 86904800
+
+Fax +46 8306759
+
+E-mail: registrator@kommers.se
+
+**B. Address for notifications to the European Commission**
+
+European Commission
+
+Service for Foreign Policy Instruments
+
+EEAS 02/290
+
+B-1049 Bruxelles/Brussel
+
+BELGIUM
+
+Email: FPI-ANTI-TORTURE@ec.europa.eu
+
+**C. Authority of the United Kingdom in respect of Northern Ireland**
+
+UNITED KINGDOM, subject to the application of this Regulation to and in the United Kingdom in respect of Northern Ireland, in accordance with Article 5(4), read in conjunction with Annex 2, point 47, of the Protocol on Ireland/Northern Ireland to the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and from the European Atomic Energy Community, as of 1 January 2021
+
+Import of goods listed in Annex II:
+
+Department for International Trade (DIT)
+
+Import Licensing Branch (ILB)
+
+Email: enquiries.ilb@trade.gov.uk
+
+Export of goods and supply of assistance related to goods listed in Annexes II, III or IV:
+
+Department for International Trade
+
+Export Control Joint Unit
+
+3 Whitehall Place
+
+London
+
+SW1A 2AW
+
+UNITED KINGDOM
+
+Tel. +44 2072154594
+
+Email: eco.help@trade.gov.uk
+
+## ANNEX II — LIST OF GOODS REFERRED TO IN ARTICLES 3 AND 4
+
+Introductory Notes:
+
+The ‘ ‘CN codes’ ’ in this Annex refer to codes specified in Part Two of Annex I to Council Regulation (EEC) No 2658/87 ( 3 ).
+
+Where ‘ ‘ex’ ’ precedes the CN code, the goods covered by this Regulation constitute only a part of the scope of the CN code and are determined by both the description given in this Annex and the scope of the CN code.
+
+Notes:
+
+1\. Items 1.3 and 1.4 in Section 1 concerning goods designed for the execution of human beings do not cover medical-technical goods.
+
+2\. The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plants) containing one or more controlled components when the controlled component or components are the principal element of the goods and can feasibly be removed or used for other purposes.
+
+NB: In judging whether the controlled component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured.
+
+| CN code | Description |
+| --- | --- |
+|  | 1. Goods designed for the execution of human beings, as follows: |
+| ex 4421 99 ex 8208 90 00 | 1.1. Gallows, guillotines, and blades for guillotines |
+| ex 8543 70 90 ex 9401 79 00 ex 9401 80 00 ex 9402 10 00 | 1.2. Electric chairs for the purpose of execution of human beings |
+| ex 9406 20 00 ex 9406 90 38 ex 9406 90 90 | 1.3. Airtight vaults, made of e.g., steel and glass, designed for the purpose of execution of human beings by the administration of a lethal gas or substance. |
+| ex 8413 81 00 ex 9018 90 50 ex 9018 90 60 ex 9018 90 84 | 1.4. Automatic drug injection systems designed for the purpose of execution of human beings by the administration of a lethal chemical substance |
+|  | 2. Goods which are not suitable for use by law enforcement authorities to restrain human beings, as follows: |
+| ex 8543 70 90 | 2.1. Electric shock devices which are intended to be worn on the body by a restrained individual, such as belts, sleeves, and cuffs, designed for restraining human beings by the administration of electric shocks. |
+| ex 7326 90 98 ex 7616 99 90 ex 8301 50 00 ex 3926 90 97 ex 4203 30 00 ex 4203 40 00 ex 4205 00 90 ex 4017 00 00 | 2.2. Thumb-cuffs, finger-cuffs, thumbscrews, and finger-screws. Note: This item includes both serrated and non-serrated cuffs and screws. |
+| ex 7326 90 98 ex 7616 99 90 ex 8301 50 00 ex 3926 90 97 ex 4203 30 00 ex 4203 40 00 ex 4205 00 90 ex 6217 10 00 ex 6307 90 98 ex 4017 00 00 | 2.3. Bar fetters, weighted leg restraints and gang chains comprising bar fetters or weighted leg restraints. Notes: 1. Bar fetters are shackles or ankle rings fitted with a locking mechanism, linked by a rigid bar which is typically made of metal. 2. This item includes bar fetters and weighted leg restraints which are linked to ordinary handcuff by means of a chain. |
+| ex 7326 90 98 ex 7616 99 90 ex 8301 50 00 ex 3926 90 97 ex 4203 30 00 ex 4203 40 00 ex 4205 00 90 ex 6217 10 00 ex 6307 90 98 ex 7315 81 00 ex 7315 82 00 ex 7315 89 00 ex 4017 00 00 | 2.4. Gang chains Note: Gang chains comprise multiple pairs of handcuffs, leg cuffs, belly chains, or a combination of these, attached to a single chain (often made of metal), restraining several people together in a chain. |
+| ex 7326 90 98 ex 7616 99 90 ex 7315 81 00 ex 7315 82 00 ex 7315 89 00 | 2.5. Leg irons Note: Leg irons are non-adjustable metal rings or other non-adjustable metal restraints that are fixed around a prisoner’s ankles, normally by means of a bolt or screw arrangement. They can be hinged or unhinged and are normally linked with a chain. (They are distinct from leg cuffs which can be adjusted on a detainee’s ankle (Annex III, 1.3)). |
+| ex 7326 90 98 ex 7616 99 90 ex 8301 50 00 ex 3926 90 97 ex 4203 30 00 ex 4203 40 00 ex 4205 00 90 ex 6217 10 00 ex 6307 90 98 ex 4017 00 00 | 2.6. Cuffs for restraining human beings, designed to be anchored to a wall, floor or ceiling |
+| ex 9401 61 00 ex 9401 69 00 ex 9401 71 00 ex 9401 79 00 ex 9401 80 00 ex 9402 10 00 | 2.7. Restraint chairs: chairs fitted with shackles or other devices to restrain a human being. Note: This item does not prohibit chairs only fitted with straps or belts |
+| ex 9402 90 00 ex 9403 20 80 ex 9403 50 00 ex 9403 60 00 ex 9403 89 00 | 2.8. Shackle boards and shackle beds: boards and beds fitted with shackles or other devices to restrain a human being. Note: This item does not prohibit boards and beds only fitted with straps or belts |
+| ex 9402 90 00 ex 9403 50 00 ex 9403 60 00 ex 9403 70 00 ex 9403 89 00 | 2.9. Cage beds: beds comprising a cage (four sides and a ceiling) or similar structure enclosing a human being within the confines of the bed, the ceiling or one or more of the sides of which are fitted with metal or other bars, and which can only be opened from outside |
+| ex 9402 90 00 ex 9403 20 20 ex 9403 50 00 ex 9403 60 90 ex 9403 70 00 ex 9403 89 00 | 2.10. Net beds: beds comprising a cage (four sides and a ceiling) or similar structure enclosing a human being within the confines of the bed, the ceiling or one or more sides of which are fitted with nets, and which can only be opened from outside |
+| ex 6505 00 10 ex 6505 00 90 ex 6506 91 00 ex 6506 99 10 ex 6506 99 90 ex 6217 10 00 ex 6307 90 98 | 2.11. Hoods and blindfolds solely designed for law enforcement purposes to block the vision and/or enclose the face of a person/detainee, including such hoods and blindfolds when linked by a chain to ordinary handcuffs or other restraints. Note: This item does not include spit hoods which are controlled in Annex III 1.4. |
+|  | 3. Portable devices which are not suitable for use by law enforcement authorities for the purpose of riot control or self-protection, as follows: |
+| ex 9304 00 00 | 3.1. Batons or truncheons made of metal or other material having a shaft with metal spikes |
+| ex 7326 90 98 ex 4205 00 90 ex 6602 00 00 ex 7326 90 98 ex 7806 00 80 ex 4203 29 90 ex 4015 19 00 | 3.2. Weighted batons or batons encased in thick leather or rubber with additional weighting designed to increase kinetic impact to the target and weighted gloves or other similar devices Notes: 1. Weighted baton: A flat device consisting of metal (spring steel) encased in thick leather or rubber and used for slapping or striking a person; or a short baton consisting of spring steel encased in leather, sometimes weighted at one end with lead shot, and used for striking a person. 2. Weighted gloves are usually made of leather and have powdered steel or lead sewn into the material over the knuckle, fingers, or back of the hand. |
+| ex 4421 91 00 ex 4421 99 99 ex 3926 90 97 ex 6602 00 00 | 3.3. Lathis Note: Lathis are long flexible batons (over 1m long), traditionally made of wood or bamboo but also polycarbonate of the kind used as a weapon by police officers. |
+| ex 3926 90 97 ex 7326 90 98 | 3.4. Shields with metal spikes |
+| ex 3926 20 00 ex 7326 90 98 ex 7616 99 90 ex 4017 00 00 | 3.5. Body armour with spikes or serrations made of metal or other hard material. Note: This item does not control body armours with load-bearing systems featuring parts made of metal or other hard material used to attach or carry equipment. |
+|  | 4. Whips as follows: |
+| ex 6602 00 00 | 4.1. Whips comprising multiple lashes or thongs, such as knouts or cats o’nine tails. |
+| ex 6602 00 00 | 4.2. Whips having one or more lashes or thongs fitted with barbs, hooks, spikes, metal wire or similar objects enhancing the impact of the lash or thong. |
+| ex 6602 00 00 | 4.3. ‘‘Sjamboks’’ Note: This item alludes to a type of heavy whip, traditionally made of leather, or of other materials, such as plastic. This item does not cover instruments traditionally used for herding animals. |
+|  | 5. Weapons and equipment disseminating incapacitating or irritating chemicals or impact projectiles and related ammunition which are not suitable for use by law enforcement authorities for the purpose of riot control or self-protection. |
+| ex 8424 20 00 ex 8424 89 70 ex 9304 00 00 | 5.1. Fixed equipment for the dissemination of incapacitating or irritating chemical substances in enclosed spaces, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote-control system. Note: This item alludes to equipment or devices of the kind used in prisons and other places of detention. It does not prohibit fixed equipment designed for the dissemination of blinding substances (such as water vapour or fog), that do not cause direct physical harm, used in commercial or private enclosed spaces for the purpose of burglary prevention. |
+| ex 9301 10 00 ex 9301 20 00 ex 9301 90 00 ex 9302 00 00 ex 9303 10 00 ex 9303 20 10 ex 9303 20 95 ex 9303 30 00 ex 9303 90 00 ex 9304 00 00 ex 9306 21 00 ex 9306 29 00 ex 9306 30 10 ex 9306 30 30 ex 9306 30 90 ex 9306 90 10 ex 9306 90 90 | 5.2. Equipment and explosive projectiles for dispensing injurious quantities of riot control agents from aerial platforms. Note: This item does not control smoke grenades and does not control aerial platforms as such. This item includes equipment where the mode of dispersal is inherently inaccurate, or the equipment or projectiles are able to disperse amounts of riot control agent that are injurious. |
+
+## ANNEX III — LIST OF GOODS REFERRED TO IN ARTICLE 11
+
+Introductory Notes:
+
+The CN codes in this Annex refer to codes specified in Part Two of Annex I to Regulation (EEC) No 2658/87.
+
+Where ‘ ‘ex’ ’ precedes the CN code, the goods covered by this Regulation constitute only a part of the scope of the CN code and are determined by both the description given in this Annex and the scope of the CN code.
+
+Notes:
+
+1\. The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components are the principal element of the goods and can feasibly be removed or used for other purposes.
+
+NB: In judging whether the controlled component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured.
+
+2\. In some instances, chemicals are listed by name and CAS number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>  </td><td>1. Goods designed for restraining human beings, as follows:</td></tr>
+<tr><td>ex 7326 90 98  ex 7616 99 90  ex 8301 50 00  ex 3926 90 97  ex 4203 30 00  ex 4203 40 00  ex 4205 00 90  ex 6217 10 00  ex 6307 90 98  ex 7315 81 00  ex 7315 82 00  ex 7315 89 00  ex 4017 00 00 </td><td>1.1. Shackles Notes:  1. Shackles are restraints consisting of two cuffs or rings fitted with a locking mechanism, with a connecting chain or bar.  2. This item does not control the leg restraints and gang chains prohibited by item 2.3 and 2.4 of Annex II.  3. This item does not control ‘ordinary handcuffs’. Ordinary handcuffs are handcuffs which meet all the following conditions:  — their overall dimension including chain, measured from the outer edge of one cuff to the outer edge of the other cuff, is between 150 and 280 mm when both cuffs are locked;  — the inside circumference of each cuff is a maximum of 165 mm when the ratchet is engaged at the last notch entering the locking mechanism;  — the inside circumference of each cuff is a minimum of 200 mm when the ratchet is engaged at the first notch entering the locking mechanism; and  — the cuffs have not been modified to cause physical pain or suffering. </td></tr>
+<tr><td>ex 7326 90 98  ex 7616 99 90  ex 8301 50 00  ex 3926 90 97  ex 4203 30 00  ex 4203 40 00  ex 4205 00 90  ex 6217 10 00  ex 6307 90 98  ex 4017 00 00 </td><td>1.2. Individual cuffs or rings fitted with a locking mechanism, having an inside circumference exceeding 165 mm when the ratchet is engaged at the last notch entering the locking mechanism. Note:  This item includes neck restraints and other individual cuffs or rings fitted with a locking mechanism, which are linked to ordinary handcuffs by means of a chain. </td></tr>
+<tr><td>ex 7326 90 98  ex 7616 99 90  ex 8301 50 00  ex 3926 90 97  ex 4203 30 00  ex 4203 40 00  ex 4205 00 90  ex 6217 10 00  ex 6307 90 98  ex 7315 81 00  ex 7315 82 00  ex 7315 89 00  ex 4017 00 00 </td><td>1.3. Leg cuffs Notes:  1. Leg cuffs are restraints consisting of two cuffs, usually made of metal, fastened around the ankles, and attached by a chain to allow the detainee some movement. The cuff size is usually larger than those ordinary handcuffs and is adjustable.  2. This item does not control leg restraints and gang chains prohibited by items 2.3, 2.4, 2.5 and 2.6 of Annex II. </td></tr>
+<tr><td>ex 6505 00 10  ex 6505 00 90  ex 6506 91 00  ex 6506 99 10  ex 6506 99 90 </td><td>1.4. Spit hoods: hoods, including hoods made of netting, comprising a cover of the mouth which prevents spitting. Note:  This item includes spit hoods which are linked to ordinary handcuffs by means of a chain. </td></tr>
+<tr><td>  </td><td>2. Weapons and devices designed for the purpose of law enforcement including riot control or self-protection, as follows:</td></tr>
+<tr><td>ex 8543 70 90  ex 9304 00 00 </td><td>2.1. Portable electric discharge weapons that can target only one individual each time an electric shock is administered, including but not limited to electric shock batons, electric shock shields, stun guns and electric shock dart guns Notes:  1. This item does not control electric shock belts and other devices falling within item 2.1 of Annex II.  2. This item does not control individual electronic shock devices when accompanying their user for the user’s own personal protection. </td></tr>
+<tr><td>ex 8543 90 00  ex 9305 99 00 </td><td>2.2. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item 2.1. Note:  The following goods are considered to be essential components:  — the unit producing an electric shock,  — the switch, whether or not on a remote control, and  — the electrodes or, where applicable, the wires through which the electrical shock is to be administered. </td></tr>
+<tr><td>ex 8543 70 90  ex 9304 00 00 </td><td>2.3. Fixed or mountable electric discharge weapons that cover a wide area and can target multiple individuals with electrical shocks</td></tr>
+<tr><td>ex 9303 90 00  ex 9304 00 00  ex 9306 30 90  ex 9306 90 90 </td><td>2.4. Single shot kinetic impact projectile (KIP) launchers and associated kinetic impact projectiles Note:  This item includes projectiles commonly known as rubber or plastic bullets or impact rounds, chemical irritant impact projectiles and beanbags. They come in different shapes and sizes include large and small balls or cylinders, and can be made of rubber, PVC, dense foam, or wood. This item does not control equipment controlled by items ML1, 2 and 12 of the Common Military List of the European Union. </td></tr>
+<tr><td>ex 9301 10 00  ex 9301 20 00  ex 9301 90 00  ex 9302 00 00  ex 9303 10 00  ex 9303 20 10  ex 9303 20 95  ex 9303 30 00  ex 9303 90 00  ex 9304 00 00 </td><td>2.5. Launchers and dissemination devices including multiple barrel launchers Note:  This item includes multiple-barrel launchers that typically have between 2 and 36 barrels, and can be stand-alone or mounted onto vehicles, unmanned ground vehicles, or seafaring vessels. The launchers can be manually operated or operated by remote control, allowing for individual, sequential, or simultaneous firing of kinetic impact munitions or chemical irritants, resulting in rapid fire or bursts of fire. This item does not control equipment controlled by items ML1 and ML 2 of the Common Military List of the European Union. </td></tr>
+<tr><td>ex 9306 21 00  ex 9306 29 00  ex 9306 30 10  ex 9306 30 30  ex 9306 30 90  ex 9306 90 10  ex 9306 90 90 </td><td>2.6. Ammunition containing multiple kinetic impact projectiles Note:  This item includes ammunition that can be made from rubber, plastic, or wood, and can vary in terms of their size, number, and shape. The number included in each can range from a small number of large balls or blocks to hundreds of small pellets. This item does not control equipment controlled by items ML1 and ML 2 of the Common Military List of the European Union. </td></tr>
+<tr><td>  </td><td>3. Weapons and equipment disseminating incapacitating or irritating chemicals for use by law enforcement authorities for the purpose of riot control or self-protection, as follows:</td></tr>
+<tr><td>ex 8424 20 00  ex 8424 89 70  ex 9304 00 00 </td><td>3.1. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated. Notes:  1. This item does not control equipment controlled by item ML7(e) of the Common Military List of the European Union (1).  2. This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user’s own personal protection.  3. In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items 3.3, 3.4 and 3.7 shall be deemed to be incapacitating or irritating chemical substances. </td></tr>
+<tr><td>ex 2939 79 90 </td><td>3.2. Pelargonic acid vanillylamide (PAVA) (CAS RN 2444-46-4) Note:  This item does not control equipment controlled by item ML7(e) of the Common Military List of the European Union. </td></tr>
+<tr><td>ex 3301 90 30  ex 1302 19 70 </td><td>3.3. Oleoresin capsicum (OC) (CAS RN 8023-77-6) Note:  This item does not control equipment controlled by item ML7(e) of the Common Military List of the European Union. </td></tr>
+<tr><td>ex 3301 90 30  ex 3302 10 90  ex 3302 90 10  ex 3302 90 90  ex 3824 99 92 </td><td>3.4. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol,1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents Notes:  1. This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.  2. This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law (2) </td></tr>
+<tr><td>ex 8424 20 00  ex 8424 89 70  ex 9304 00 00 </td><td>3.5. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building. Notes:  1. This item does not control equipment controlled by item ML7(e) of the Common Military List of the European Union.  2. This item also controls water cannons.  3. In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items 3.3 and 3.4 shall be deemed to be incapacitating or irritating chemical substances. </td></tr>
+<tr><td>ex 9306 21 00  ex 9306 29 00  ex 9306 30 10  ex 9306 30 30  ex 9306 30 90  ex 9306 90 10  ex 9306 90 90 </td><td>3.6. Large calibre projectiles containing riot control agents. Note:  This item includes projectiles containing riot control agents, notably OC and PAVA with a calibre above 56mm. The use of such items must be consistent with relevant provisions of the Chemical Weapons Convention, notably Article 2.1 and 2.9.d. </td></tr>
+<tr><td>ex 2934 99 90  ex 2930 90 95  ex 2933 99 20  ex 2921 29 00  ex 2830 90 85  ex 3824 99 92 ex 3824 99 93 ex 3824 99 96 </td><td>3.7. Malodorant chemical mixtures formulated to produce a foul and deeply unpleasant smell for riot control purposes provided they are non-injurious and have no long-lasting health effects. Notes:  1. This item is defined as being a mixture solely designed for law enforcement purposes containing at least one of the following range of chemicals formulated to produce a foul and deeply unpleasant smell and that can be dispersed by hand-held spray, grenades, launched projectiles, drones, and water cannon:  1. Thioacetone (CAS code 4756-05-2)  2. Allicin (CAS code 539-86-6)  3. Skatole (CAS code 83-34-1)  4. Cadaverine (CAS code 462-94-2)  5. Putrescine (CAS code 110-60-1)  6. Ammonium hydrosulfide (CAS code 12124-99-1)  7. Ethanethiol (CAS code 75-08-1)  8. Propanethiol (CAS code 107-03-9)  9. Isobutylthiol (CAS code 513-44-0)  10. Butanethiol (CAS code 109-79-5)  2. This item does not control malodorant chemical mixtures that are not intended for law enforcement purposes. </td></tr>
+<tr><td colspan="2">(1)  Last version adopted by the Council on 19 February 2024 (OJ C, C/2024/1945, 1.3.2024, ELI: http://data.europa.eu/eli/C/2024/1945/oj).  (2)  See in particular Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ L 136, 30.4.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/726/oj) and Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67, http://data.europa.eu/eli/dir/2001/83/oj). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**GOODS THAT COULD BE USED FOR THE PURPOSE OF CAPITAL PUNISHMENT REFERRED TO IN ARTICLE 16**
+
+| CN code | Description |
+| --- | --- |
+|  | 1. Products which could be used for the execution of human beings by means of lethal injection, as follows: |
+|  | 1.1. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to: |
+| ex 2933 53 90 [(a) to (f)] ex 2933 59 95 [(g) and (h)] | (a) amobarbital (CAS RN 57-43-2) (b) amobarbital sodium salt (CAS RN 64-43-7) (c) pentobarbital (CAS RN 76-74-4) (d) pentobarbital sodium salt (CAS 57-33-0) (e) secobarbital (CAS RN 76-73-3) (f) secobarbital sodium salt (CAS RN 309-43-3) (g) thiopental (CAS RN 76-75-5) (h) thiopental sodium salt (CAS RN 71-73-8), also known as thiopentone sodium |
+| ex 3003 90 00 ex 3004 90 00 ex 3824 90 96 | Note: This item also controls products containing one of the anaesthetic agents listed under short or intermediate acting barbiturate anaesthetic agents. |
+
+## ANNEX V
+
+**UNION GENERAL EXPORT AUTHORISATION EU GEA 2019/125**
+
+**PART 1**
+
+**Goods**
+
+This general export authorisation covers the goods listed in any entry in Annex IV to Regulation (EU) 2019/125 of the European Parliament and of the Council ( 4 ).
+
+It also covers supplies of technical assistance to the end-user to the extent that such assistance is necessary for the installation, operation, maintenance or repair of those goods whose export is authorised, if such assistance is provided by the exporter.
+
+**PART 2**
+
+**Destinations**
+
+An export authorisation under Regulation (EU) 2019/125 is not required for supplies to a country or territory that is part of the customs territory of the Union, which for the purpose of this Regulation includes Ceuta, Helgoland and Melilla (Article 34(2)).
+
+This general export authorisation is valid throughout the Union for exports to the following destinations:
+
+Danish territories not included in the customs territory:
+
+— Faroe Islands,
+
+— Greenland
+
+French territories not included in the customs territory:
+
+— French Polynesia,
+
+— French Southern and Antarctic Territories,
+
+— New Caledonia and Dependencies,
+
+— Saint-Barthélemy,
+
+— Saint Pierre and Miquelon,
+
+— Wallis and Futuna Islands
+
+Dutch territories not included in the customs territory:
+
+— Aruba,
+
+— Bonaire,
+
+— Curaçao,
+
+— Saba,
+
+— Sint Eustatius,
+
+— Sint Maarten
+
+Relevant British territories not included in the customs territory:
+
+— Anguilla,
+
+— Bermuda,
+
+— Falkland Islands,
+
+— Gibraltar,
+
+— Montserrat,
+
+— Saint Helena and Dependencies,
+
+— South Georgia and the South Sandwich Islands,
+
+— Turks and Caicos Islands
+
+Albania
+
+Andorra
+
+Argentina
+
+Australia
+
+Benin
+
+Bolivia
+
+Bosnia and Herzegovina
+
+Canada
+
+Cape Verde
+
+Colombia
+
+Costa Rica
+
+Djibouti
+
+Dominican Republic
+
+Ecuador
+
+Gabon
+
+The Gambia
+
+Georgia
+
+Guinea-Bissau
+
+Honduras
+
+Iceland
+
+Kyrgyzstan
+
+Liberia
+
+Liechtenstein
+
+Madagascar
+
+Mexico
+
+Moldova
+
+Mongolia
+
+Montenegro
+
+Mozambique
+
+Namibia
+
+Nepal
+
+New Zealand
+
+Nicaragua
+
+North Macedonia
+
+Norway
+
+Panama
+
+Paraguay
+
+Philippines
+
+Rwanda
+
+San Marino
+
+Sao Tome and Principe
+
+Serbia
+
+Seychelles
+
+South Africa
+
+Switzerland (including Büsingen and Campione d'Italia)
+
+Timor-Leste
+
+Togo
+
+Turkey
+
+Turkmenistan
+
+Ukraine
+
+United Kingdom, without prejudice to the application of Regulation (EU) 2019/125 to and in the United Kingdom in respect of Northern Ireland, in accordance with Article 5(4), read in conjunction with Annex 2, point 47, of the Protocol on Ireland/Northern Ireland annexed to the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and from the European Atomic Energy Community, as of 1 January 2021
+
+Uruguay
+
+Uzbekistan
+
+Venezuela
+
+**PART 3**
+
+**Conditions and requirements for using this general export authorisation**
+
+(1) This general export authorisation may not be used if:
+
+(a) the exporter has been prohibited from using this general export authorisation in accordance with Article 20(1) of Regulation (EU) 2019/125;
+
+(b) the competent authorities of the Member State in which the exporter is resident or established have informed the exporter that the goods in question are or may be intended, in their entirety or in part, either for re-export to a third country or to be used for the purpose of capital punishment in a third country;
+
+(c) the exporter knows or has reasonable grounds to believe that the goods in question are intended, in their entirety or in part, either for re-export to a third country or to be used for the purpose of capital punishment in a third country;
+
+(d) the relevant goods are exported to a customs free zone or free warehouse which is located in a destination covered by this general export authorisation;
+
+(e) the exporter is the manufacturer of the medicinal products in question and has not concluded a legally binding agreement with the distributor requiring the latter to make all supplies and transfers subject to the conclusion of a legally binding agreement requiring, preferably subject to a dissuasive contractual penalty, the customer
+
+(i) not to use any of the goods received from the distributor for capital punishment;
+
+(ii) not to supply or transfer any of these goods to a third party, if the customer knows or has reasonable grounds to believe that the goods are intended to be used for the purpose of capital punishment; and
+
+(iii) to impose the same requirements on any third party to which the customer might supply or transfer any of these goods;
+
+(f) the exporter is not the manufacturer of the medicinal products in question and has not obtained a signed end-user declaration from the end-user in the country of destination;
+
+(g) the exporter of medicinal products has not concluded a legally binding agreement with the distributor or end-user requiring, preferably subject to a dissuasive contractual penalty, the distributor or, if the agreement was concluded by the end-user, the end-user to obtain prior authorisation from the exporter for
+
+(i) any transfer or supply of any part of the shipment to a law enforcement authority in a country or territory that has not abolished capital punishment;
+
+(ii) any transfer or supply of any part of the shipment to a natural or legal person, entity or body procuring relevant goods for or providing services involving use of such goods to such a law enforcement authority, and
+
+(iii) any re-export or transfer of any part of the shipment to a country or territory that has not abolished capital punishment; or
+
+(h) the exporter of goods other than medicinal products has not concluded a legally binding agreement referred to in point (g), with the end-user.
+
+(2) Exporters that use this general export authorisation EU GEA 2019/125 shall notify the competent authorities of the Member State where they are resident or established of their first use of this general export authorisation no later than 30 days after the date when the first export took place.
+
+Exporters shall also report in the customs declaration the fact that they are using this general export authorisation EU GEA 2019/125 by indicating in box 44 the relevant code found in the TARIC database.
+
+(3) Reporting requirements attached to the use of this general export authorisation and any additional information that the Member State from which the export is made might require on items exported under this general export authorisation are defined by Member States.
+
+A Member State may require exporters resident or established in that Member State to register prior to the first use of this general export authorisation. Without prejudice to Article 20(1) of Regulation (EU) 2019/125, registration shall be automatic and acknowledged by the competent authorities to the exporter without delay and in any case within ten working days of receipt.
+
+## ANNEX VI
+
+**LIST OF TERRITORIES OF MEMBER STATES REFERRED TO IN ARTICLE 11(2)**
+
+**DENMARK:**
+
+— Greenland
+
+**FRANCE:**
+
+— New Caledonia and Dependencies,
+
+— French Polynesia,
+
+— French Southern and Antarctic Territories,
+
+— Wallis and Futuna Islands,
+
+— St Pierre and Miquelon
+
+**GERMANY:**
+
+— Büsingen
+
+## ANNEX VII
+
+**EXPORT OR IMPORT AUTHORISATION FORM REFERRED TO IN ARTICLE 21(1)**
+
+Technical specification:
+
+The following form shall measure 210 × 297 mm with a maximum tolerance of 5 mm less and 8 mm more. The boxes are based on a unit of measurement of one tenth of an inch horizontally and one sixth of an inch vertically. The subdivisions are based on a unit of measurement of one tenth of an inch horizontally.
+
+Text of image
+
+EUROPEAN UNION
+
+AUTHORISATION EXPORT/IMPORT TORTURE EQUIPMENT
+
+1 Applicant (full name, address, customs number) Type
+
+AUTHORISATION FOREXPORT OR IMPORT OF GOODS THAT COULD BEUSED FOR TORTURE(REGULATION (EU) 2019/125)
+
+2 Consignee (full name and address)
+
+3 Authorisation No
+
+Export Import
+
+4 Expiry date
+
+5 Agent/Representative (if different from applicant)
+
+6 Country where the goods are located
+
+Code
+
+7 Country of destination
+
+Code
+
+8 Member State where a Customs procedure will take place
+
+9 End-user (full name and address)
+
+Issuing authority
+
+10 Description of Item
+
+11 ItemNo 1
+
+12 CN Code
+
+13 Quantity
+
+14 Specific requirements and conditions
+
+10 Description of item
+
+11 ItemNo 2
+
+12 CN Code
+
+13 Quantity
+
+14 Specific requirements and conditions
+
+10 Description of item
+
+11 ItemNo 3
+
+12 HS Code
+
+13 Quantity
+
+14 Specific requirements and conditions
+
+15 The undersigned certifies that, pursuant to Article 9(1) of Regulation (EU) 2019/125 and subject to the requirements, conditions and procedures setout in this form and the attachment(s) to which it refers, the competent authority has authorised [an export] [an import] (delete as not appropriate) concerning the goods described in box 10.
+
+16 Number of attachments
+
+Done at (place, date)
+
+Name (typed or capitals)
+
+Signature: Stamp of issuing authority
+
+Text of image
+
+Note: In part of column 17, write the quantity still available and in part 2 of column 17, write the quantity deducted on this occasion
+
+3 Autorisation No
+
+11 Item No
+
+17 Net quantity (Net mass/ other unit with indication of unit)
+
+18 Customs Document (Type and number) and date of deduction
+
+19 Member State, name and signature, stamp of deduction
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+**Explanatory notes to the form**
+
+‘Authorisation for export or import of goods that could be used for torture (Regulation (EU) 2019/125)’.
+
+This authorisation form shall be used to issue an authorisation for an export or import of goods in accordance with Regulation (EU) 2019/125 of the European Parliament and of the Council ( 5 ). It should not be used to authorise the supply of technical assistance.
+
+The issuing authority is the authority defined in point h of Article 2 of Regulation (EU) 2019/125 which is set out in Annex I to that Regulation.
+
+Authorisations shall be issued on this single page form, which should be printed on both sides. The competent customs office deducts the exported quantities from the total quantity available. It has to make sure that the different items subject to the authorisation are clearly separated for this purpose.
+
+Where national procedures of the Member States require additional copies of the form (as for example for the application) this authorisation form may be included in a form set containing the necessary copies following the national rules applicable. In the box above box 3 of each specimen and in the margin on the left, it should be clearly indicated for which purpose (e.g. application, copy for applicant) the relevant copies are intended. One specimen only shall be the authorisation form set out in Annex VII to Regulation (EU) 2019/125.
+
+<table>
+<tbody><tr><td>Box 1</td><td>Applicant:</td><td>Please indicate the applicant's name and the full address. The applicant's customs number may also be indicated (optional in most cases).  The type of applicant should be indicated (optional) in the relevant box, using the numbers 1, 2 or 4 referring to the points set out in the definition in Article 2(i) of Regulation (EU) 2019/125. </td></tr>
+<tr><td>Box 3</td><td>Authorisation No:</td><td>Please fill out the number and tick either the export or the import box. See Article 2(d) and (e) and Article 34 of Regulation (EU) 2019/125 for the definitions of the terms ‘export’ and ‘import’.</td></tr>
+<tr><td>Box 4</td><td>Expiry date:</td><td>Please state day (two digits), month (two digits) and year (four digits).</td></tr>
+<tr><td>Box 5</td><td>Agent/representative:</td><td>Please indicate the name of a duly authorised representative or (customs) agent acting on behalf of the applicant, if the application is not presented by the applicant. See also Article 18 of Regulation (EU) No 952/2013.</td></tr>
+<tr><td>Box 6</td><td>Country where the goods are located:</td><td>Please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009 of the European Parliament and of the Council (1). See Commission Regulation (EU) No 1106/2012 (2).</td></tr>
+<tr><td>Box 7</td><td>Country of destination:</td><td>Please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009. See Regulation (EU) No 1106/2012.</td></tr>
+<tr><td>Box 10</td><td>Description of item:</td><td>Please consider including data on packaging of the goods concerned. Note that the value of the goods may also be indicated in box 10. If there is not sufficient space in box 10, please continue on an attached blank sheet, mentioning the authorisation number. Please indicate the number of attachments in box 16.  This form is designed for use for up to three different types of goods (see Annexes II and III to Regulation (EU) 2019/125). If it is necessary to authorise the export or import of more than three types of goods, please grant two authorisations. </td></tr>
+<tr><td>Box 11</td><td>Item No:</td><td>This box needs to be completed on the back of the form only. Please ensure that the Item No corresponds to the printed item number in box 11 found next to the description of the relevant item on the view side.</td></tr>
+<tr><td>Box 14</td><td>Specific requirements and conditions:</td><td>If there is not sufficient space in box 14, please continue on an attached blank sheet, mentioning the authorisation number. Please indicate the number of attachments in box 16.</td></tr>
+<tr><td>Box 16</td><td>Number of attachments:</td><td>Please indicate the number of attachments, if any (see explanations to boxes 10 and 14).</td></tr>
+<tr><td colspan="3">(1)  Regulation (EC) No 471/2009 of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries and repealing Council Regulation (EC) No 1172/95 (OJ L 152, 16.6.2009, p. 23).  (2)  Commission Regulation (EU) No 1106/2012 of 27 November 2012 implementing Regulation (EC) No 471/2009 of the European Parliament on Community statistics relating to external trade with non-member countries, as regards the update of the nomenclature of countries of countries and territories (OJ L 328, 28.11.2012, p. 7). </td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII
+
+**AUTHORISATION FORM FOR THE SUPPLY OF BROKERING SERVICES REFERRED TO IN ARTICLE 21(1)**
+
+Technical specification:
+
+The following form shall measure 210 × 297 mm with a maximum tolerance of 5 mm less and 8 mm more. The boxes are based on a unit of measurement of one tenth of an inch horizontally and one sixth of an inch vertically. The subdivisions are based on a unit of measurement of one tenth of an inch horizontally.
+
+Text of image
+
+EUROPEAN UNION
+
+1
+
+1 Applying broker (full name and address)
+
+AUTHORISATION FOR THE SUPPLY OF BROKERINGSERVICES RELATED TO GOODS THAT COULD BE USEDFOR TORTURE OR FOR CAPITAL PUNISHMENT(REGULATION (EU) 2019/125)
+
+Authorisation Brokering Services (Regulation (EU) 2019/125)
+
+2 Natural person or legal person, entity or body exporting the goods from the relevant third country to thethird country of destination (full name and address)
+
+3 Authorisation No
+
+Individual authorisation Global authorisation
+
+4 Expiry date
+
+5 Consingnee in third country of destination (full name and address)
+
+End user Distributor Other
+
+6 Third country where goods are located
+
+Country code
+
+7 Third country of destination
+
+Country code
+
+8 End user of distributor in third country of destination (full name and address) if different from consignee
+
+End user Distributor
+
+9 Member State in which the broker is resident or established
+
+If there is no such Member State, Member State of which the broker is a national or incorporated legal person, entity or body
+
+1
+
+10 Third parties involved (e.g. agent)
+
+Issuing authority
+
+11 End use (where appropriate)
+
+12 Precise information on the location of the goods in the third country where the goods are located
+
+13 Description of item
+
+14 ItemNo 1
+
+15 HS Code
+
+16 Quantity
+
+17 Currency and value
+
+13 Description of item
+
+14 ItemNo 2
+
+15 HS Code
+
+16 Quantity
+
+17 Currency and value
+
+13 Description of item
+
+14 ItemNo 3
+
+15 HS Code
+
+16 Quantity
+
+17 Currency and value
+
+18 Specific requirements and conditions
+
+19 The undersigned certifies that pursuant to Article 9(1) of Regulation (EU) 2019/125 and subject to the requirements, conditions and procedures set out in this form and the attachement(s) to which it refers, the competent authority has authorised brokering services concerning the goods described in box 13.
+
+20 Number of attachments
+
+Done at (place, date)
+
+Name (typed or capitals)
+
+Signature: Stamp of issuing authority
+
+Text of image
+
+EUROPEAN UNION
+
+Report on use of authorised quantities
+
+AUTHORISATION FOR THE SUPPLY OF BROKERINGSERVICES RELATED TO GOODS THAT COULD BE USEDFOR TORTURE OR FOR CAPITAL PUNISHMENT(REGULATION (EU) 2019/125)
+
+Note: In column 21 write the quantity still available in part 1 and the quantity deducted on this occasion in part 2
+
+3 Authorisation No
+
+14 Item No
+
+21 Net quantity (Net mass or other unit) with indication of unit
+
+22 Date of deduction
+
+23 Reference document (State, type, number)
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+1.
+
+2.
+
+**Explanatory notes to the form**
+
+‘Authorisation for the supply of brokering services related to goods that could be used for capital punishment or for torture (Regulation (EU) 2019/125 of the European Parliament and of the Council ( 6 ))’.
+
+This authorisation form shall be used to issue an authorisation for brokering services in accordance with Regulation (EU) 2019/125.
+
+The issuing authority is the authority defined in point (h) of Article 2 of Regulation (EU) 2019/125. It is an authority that is included in the list of competent authorities in Annex I to that Regulation.
+
+<table>
+<tbody><tr><td>Box 1</td><td>Applying broker</td><td>Please indicate the name and full address of the applying broker. Broker is defined in point (l) of Article 2 of Regulation (EU) 2019/125.</td></tr>
+<tr><td>Box 3</td><td>Authorisation No</td><td>Please fill out the number and tick the appropriate box indicating whether the authorisation is an individual or global one (see points (p) and (q) of Article 2 of Regulation (EU) 2019/125 for the definitions).</td></tr>
+<tr><td>Box 4</td><td>Expiry date</td><td>Please state day (two digits), month (two digits) and year (four digits). The period of validity of an individual authorisation is from three months to twelve months and that of a global authorisation from one year to three years. When the period of validity comes to an end, an extension can be requested, if necessary.</td></tr>
+<tr><td>Box 5</td><td>Consignee</td><td>Please indicate, in addition to the name and address, whether the consignee in the third country of destination is an end-user, a distributor as referred to in point (r) of Article 2 of Regulation (EU) 2019/125 or a party having another role in the transaction. If the consignee is a distributor but also uses part of the shipment for a specific end-use, please tick both ‘Distributor’ and ‘End-user’ and mention the end-use in box 11. </td></tr>
+<tr><td>Box 6</td><td>Third country where the goods are located</td><td>Please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009 of the European Parliament and of the Council (1). See Commission Regulation (EU) No 1106/2012 (2).</td></tr>
+<tr><td>Box 7</td><td>Third country of destination</td><td>Please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009. See Regulation (EU) No 1106/2012.</td></tr>
+<tr><td>Box 9</td><td>Issuing Member State</td><td>Please state in the appropriate line both the name of the Member State concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009. See Regulation (EU) No 1106/2012.</td></tr>
+<tr><td>Box 11</td><td>End use</td><td>Please give a precise description of the use that will be made of the goods and also indicate whether the end user is a law enforcement authority as defined in point (c) of Article 2 of Regulation (EU) 2019/125 or a supplier of training on the use of the brokered goods. Leave blank if the brokering services are supplied to a distributor, unless the distributor itself uses part of the goods for a specific end-use. </td></tr>
+<tr><td>Box 12</td><td>Precise location of the goods in the third country from which they will be exported</td><td>Please describe the whereabouts of the goods in the third country from which they will be supplied to the person, entity or body mentioned in box 2. The location must be an address in the country mentioned in box 6 or similar information describing the whereabouts of the goods. Note that indicating a post office box number or similar postal address is not allowed.</td></tr>
+<tr><td>Box 13</td><td>Description of item</td><td>The description of the goods should include a reference to a specific item of Annex III or IV to Regulation (EU) 2019/125. Please consider including data on packaging of the goods concerned. If there is not sufficient space in box 13, please continue on an attached blank sheet, mentioning the authorisation number. Please indicate the number of attachments in box 20. </td></tr>
+<tr><td>Box 14</td><td>Item No</td><td>This box needs to be completed on the back of the form only. Please ensure that the Item No corresponds to the printed item number in box 14 found next to the description of the relevant item on the view side.</td></tr>
+<tr><td>Box 15</td><td>HS code</td><td>The HS code is a customs code assigned to the goods in the Harmonised System. Where the code from the EU Combined Nomenclature is known, that code may be used instead. See Commission Implementing Regulation (EU) 2016/1821 (3) for the current version of the Combined Nomenclature.</td></tr>
+<tr><td>Box 17</td><td>Currency and value</td><td>Please indicate the value and currency using the price that is payable (without converting it). If that price is not known, the estimated value should be stated, preceded by the mention EV. The currency has to be indicated using the alphabetic code (ISO 4217:2015).</td></tr>
+<tr><td>Box 18</td><td>Specific requirements and conditions</td><td>Box 18 concerns the item 1, 2 or 3 (please specify where appropriate) described in the boxes 14 to 16 preceding it. If there is not sufficient space in box 18, please continue on an attached blank sheet, mentioning the authorisation number. Please indicate the number of attachments in box 20.</td></tr>
+<tr><td>Box 20</td><td>Number of attachments</td><td>Please indicate the number of attachments, if any (see explanations to boxes 13 and 18).</td></tr>
+<tr><td colspan="3">(1)  Regulation (EC) No 471/2009 of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries and repealing Council Regulation (EC) No 1172/95 (OJ L 152, 16.6.2009, p. 23).  (2)  Commission Regulation (EU) No 1106/2012 of 27 November 2012 implementing Regulation (EC) No 471/2009 of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards the update of the nomenclature of countries of countries and territories (OJ L 328, 28.11.2012, p. 7).  (3)  Commission Implementing Regulation (EU) 2016/1821 of 6 October 2016 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 294, 28.10.2016, p. 1). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX
+
+**AUTHORISATION FORM FOR THE SUPPLY OF TECHNICAL ASSISTANCE REFERRED TO IN ARTICLE 21(1)**
+
+Technical specification:
+
+The following form shall measure 210 × 297 mm with a maximum tolerance of 5 mm less and 8 mm more. The boxes are based on a unit of measurement of one tenth of an inch horizontally and one sixth of an inch vertically. The subdivisions are based on a unit of measurement of one tenth of an inch horizontally.
+
+Text of image
+
+EUROPEAN UNION
+
+1
+
+1 Applying supplier of technical assistance (full name and address)
+
+AUTHORISATION FOR THE SUPPLY OF TECHNICALASSISTANCE RELATED TO GOODS THAT COULD BEUSED FOR TORTURE OR FOR CAPITAL PUNISHMENT(REGULATION (EU) 2019/125)
+
+Authorisation technical Assistance (Regulation (EU) 2019/125)
+
+2 Natural person or legal person, entity or body to whom the technical assistance will be supplied (full name and address)
+
+3 Authorisation No
+
+Based on Article 3 4 7a 7d
+
+4 Expiry date
+
+5 The natural or legal person, entity or body mentioned at 2 is
+
+A museum
+
+A law enforcement agency
+
+An institution providing education or training
+
+A supplier of repair services, maintanace or other technical services related to the goods to which the technical assistance relates
+
+A manufacturer of the goods to which
+
+None of the above. Please specify the activity of the natural or legal person, entity or body at 2:
+
+6 Third country or Member State to which the technical assistance will be supplied (name and code)
+
+7 This authorisation applies to
+
+A single supply of technical assistance
+
+Technical assistance provided during a period of time. Please specify the period concerned:
+
+8 Member State in which the supplier of technical assistance is resident or established
+
+If there is no such Member State, Member State of which the supplier of technical assistance is a national or incorporated legal person, entity or body
+
+1
+
+9 Description of the type of googd to which the technical assistance relates
+
+Issuing authority
+
+10 Description of the technical assistance that is authorised
+
+11 If the person, entity or body mentioned at 2 is a person, entity or body in a third country, the technical assistance will be supplied
+
+from the EU to that third country by staff in that third country from another third country (please specify)
+
+12 Description of any training on the use of the goods to which the technical assistance relates, which will be supplied to the natural or legal person, entity or body mentioned at 2
+
+13 The training on the use of goods mentioned at 9 will be supplied by:
+
+The supplier of technical assistance mentioned at 1
+
+A third country acting on behalf of or in association with the supplier of technical assistance (full name and address)
+
+14 Specific requirements and conditions
+
+15 The undersigned certifies that pursuant to Article 9(1) of Regulation (EU) 2019/125 and subject to the requirements, conditions and procedures set out in this form and the attachment(s) to which it refers, the competent authority has authorised the supply of technical assistance concerning the goods described in box 9.
+
+16 Number of attachments
+
+Done at (place, date)
+
+Name (typed or capitals)
+
+Signature: (Stamp of issuing authority)
+
+**Explanatory notes to the form**
+
+‘Authorisation for the supply of technical assistance related to goods that could be used for capital punishment or for torture (Regulation (EU) 2019/125 of the European Parliament and of the Council ( 7 ))’.
+
+This authorisation form shall be used to authorise a supply of technical assistance in accordance with Regulation (EU) 2019/125. If the technical assistance accompanies an export for which an authorisation is granted by or in accordance with Regulation (EU) 2019/125, this form should not be used, except in the following cases:
+
+— the technical assistance relates to goods listed in Annex II to Regulation (EU) 2019/125 (see Article 3(2)); or
+
+— the technical assistance relating to goods listed in Annex III or in Annex IV to Regulation (EU) 2019/125 goes beyond what is necessary for the installation, operation, maintenance or repair of the exported goods (see Article 21(2) and, as regards goods listed in Annex IV, Part 1 of the Union General Export Authorisation EU GEA 2019/125 in Annex V to Regulation (EU) 2019/125).
+
+The issuing authority is the authority defined in point (h) of Article 2 of Regulation (EU) 2019/125. It is an authority that is included in the list of competent authorities in Annex I to that Regulation.
+
+Authorisations shall be issued on this single page form with attachments as necessary.
+
+<table>
+<tbody><tr><td>Box 1</td><td>Applying supplier of technical assistance</td><td>Please indicate the applicant's name and full address. Supplier of technical assistance is defined in point (m) of Article 2 of Regulation (EU) 2019/125. If the technical assistance accompanies an export for which an authorisation is granted, please also indicate the applicant's customs number, if possible, and indicate the number of the related export authorisation in box 14. </td></tr>
+<tr><td>Box 3</td><td>Authorisation No</td><td>Please fill out the number and tick the appropriate box indicating the Article of Regulation (EU) 2019/125 on which the authorisation is based.</td></tr>
+<tr><td>Box 4</td><td>Expiry date</td><td>Please state day (two digits), month (two digits) and year (four digits). The period of validity of an authorisation is from three months to twelve months. When the period of validity comes to an end, an extension can be requested, if necessary.</td></tr>
+<tr><td>Box 5</td><td>Activity of the natural or legal person, entity or body mentioned at 2</td><td>Please indicate the main activity of the person, entity or body to which the technical assistance will be supplied. The term law enforcement authority is defined in point (c) of Article 2 of Regulation (EU) 2019/125. If the main activity is not in the list, tick ‘None of the above’ and describe the main activity using generic words (e.g. wholesaler, retailer, hospital). </td></tr>
+<tr><td>Box 6</td><td>Third country or Member State to which the technical assistance will be supplied</td><td>Please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009 (1) of the European Parliament and of the Council. See Commission Regulation (EU) No 1106/2012 (2). Note that in box 6 a Member State should only be mentioned, if the authorisation is based on Article 4 of Regulation (EU) 2019/125. </td></tr>
+<tr><td>Box 7</td><td>Type of authorisation</td><td>Please indicate whether the supply of technical assistance is provided during a particular period and, if so, state the period in days, weeks or months during which the supplier of technical assistance has to respond to requests for advice, support or training. A single supply of technical assistance concerns one specific request for advice or support or a specific training (even if it concerns a course given during several days).</td></tr>
+<tr><td>Box 8</td><td>Issuing Member State</td><td>Please state in the appropriate line both the name of the Member State concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009. See Regulation (EU) No 1106/2012.</td></tr>
+<tr><td>Box 9</td><td>Description of the type of goods to which the technical assistance relates</td><td>Please describe the type of goods concerned by the technical assistance. The description should include a reference to a specific item of Annex II, III or IV to Regulation (EU) 2019/125.</td></tr>
+<tr><td>Box 10</td><td>Description of the technical assistance that is authorised</td><td>Please describe the technical assistance in a clear and precise manner. Insert a reference to the date and number of an agreement concluded by the supplier of technical assistance or attach such an agreement, where appropriate.</td></tr>
+<tr><td>Box 11</td><td>Mode of supply</td><td>Box 11 should not be filled out if the authorisation is based on Article 4 of Regulation (EU) 2019/125. If the technical assistance is supplied from a third country other than the third country where the recipient is resident or established, please state both the name of the country concerned and the relevant country code taken from the codes established pursuant to Regulation (EC) No 471/2009. See Regulation (EU) No 1106/2012. </td></tr>
+<tr><td>Box 12</td><td>Description of training on the use of goods to which the technical assistance relates</td><td>Please indicate whether the technical support or technical service covered by the definition of technical assistance in point (f) of Article 2 of Regulation (EU) 2019/125 is accompanied by training for users of the relevant goods. Please state which type of users will receive such training and specify the objectives and contents of the training programme.</td></tr>
+<tr><td>Box 14</td><td>Specific requirements and conditions</td><td>If there is not sufficient space in box 14, please continue on an attached blank sheet, mentioning the authorisation number. Please indicate the number of attachments in box 16.</td></tr>
+<tr><td>Box 16</td><td>Number of attachments</td><td>Please indicate the number of attachments, if any (see explanations to boxes 10 and 14).</td></tr>
+<tr><td colspan="3">(1)  Regulation (EC) No 471/2009 of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries and repealing Council Regulation (EC) No 1172/95 (OJ L 152, 16.6.2009, p. 23).  (2)  Commission Regulation (EU) No 1106/2012 of 27 November 2012 implementing Regulation (EC) No 471/2009 of the European Parliament and of the Council on Community statistics relating to external trade with non-member countries, as regards the update of the nomenclature of countries of countries and territories (OJ L 328, 28.11.2012, p. 7). </td></tr>
+</tbody>
+</table>
+
+## ANNEX X
+
+**REPEALED REGULATION WITH LIST OF ITS SUCCESSIVE AMENDMENTS**
+
+| Council Regulation (EC) No 1236/2005 (OJ L 200, 30.7.2005, p. 1) |  |
+| --- | --- |
+| Commission Regulation (EC) No 1377/2006 (OJ L 255, 19.9.2006, p. 3) |  |
+| Council Regulation (EC) No 1791/2006 (OJ L 363, 20.12.2006, p. 1) | Only the thirteenth indent of Article 1(1) as regards Regulation (EC) No 1236/2005, and point 13(5) of the Annex |
+| Commission Regulation (EC) No 675/2008 (OJ L 189, 17.7.2008, p. 14) |  |
+| Commission Regulation (EU) No 1226/2010 (OJ L 336, 21.12.2010, p. 13) |  |
+| Commission Implementing Regulation (EU) No 1352/2011 (OJ L 338, 21.12.2011, p. 31) |  |
+| Council Regulation (EU) No 517/2013 (OJ L 158, 10.6.2013, p. 1) | Only Article 1(1)(n), fourth indent, and point 16(4) of the Annex |
+| Commission Regulation (EU) No 585/2013 (OJ L 169, 21.6.2013, p. 46) |  |
+| Regulation (EU) No 37/2014 of the European Parliament and of the Council (OJ L 18, 21.1.2014, p. 1) | Only point 12 of the Annex |
+| Commission Implementing Regulation (EU) No 775/2014 (OJ L 210, 17.7.2014, p. 1) |  |
+| Commission Delegated Regulation (EU) 2015/1113 (OJ L 182, 10.7.2015, p. 10) |  |
+| Regulation (EU) 2016/2134 of the European Parliament and of the Council (OJ L 338, 13.12.2016, p. 1) |  |
+| Commission Delegated Regulation (EU) 2018/181 (OJ L 40, 13.2.2018, p. 1) |  |
+
+## ANNEX XI
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 1236/2005 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | Article 2 |
+| Article 3 | Article 3 |
+| Article 4 | Article 4 |
+| Article 4a | Article 5 |
+| Article 4b | Article 6 |
+| Article 4c | Article 7 |
+| Article 4d | Article 8 |
+| Article 4e | Article 9 |
+| Article 4f | Article 10 |
+| Article 5 | Article 11 |
+| Article 6(1) | Article 12(1) |
+| Article 6(2), first subparagraph | Article 12(2), first subparagraph |
+| Article 6(2), second subparagraph, introductory wording | Article 12(2), second subparagraph, introductory wording |
+| Article 6(2), second subparagraph, first indent | Article 12(2), second subparagraph, point (a) |
+| Article 6(2), second subparagraph, second indent | Article 12(2), second subparagraph, point (b) |
+| Article 6(2), third subparagraph | Article 12(2), third subparagraph |
+| Article 6(3), introductory wording | Article 12(3), first subparagraph |
+| Article 6(3), point 3.1 | Article 12(3), second subparagraph |
+| Article 6(3), point 3.2 | Article 12(3), third subparagraph |
+| Article 6a | Article 13 |
+| Article 7 | Article 14 |
+| Article 7a | Article 15 |
+| Article 7b | Article 16 |
+| Article 7c(1) | Article 17(1) |
+| Article 7c(2) | Article 17(2) |
+| Article 7c(3), introductory wording | Article 17(3), first subparagraph |
+| Article 7c(3), point 3.1 | Article 17(3), second subparagraph |
+| Article 7c(3), point 3.2 | Article 17(3), third subparagraph |
+| Article 7c(3), point 3.3 | Article 17(3), fourth subparagraph |
+| Article 7c(4) | Article 17(4) |
+| Article 7d | Article 18 |
+| Article 7e | Article 19 |
+| Article 8 | Article 20 |
+| Article 9 | Article 21 |
+| Article 10 | Article 22 |
+| Article 11 | Article 23 |
+| Article 12 | Article 24 |
+| Article 12a | Article 25 |
+| Article 13(1), (2) and (3) | Article 26(1), (2) and (3) |
+| Article 13(3a) | Article 26(4) |
+| Article 13(4) | Article 26(5) |
+| Article 13(5) | Article 26(6) |
+| Article 13a | Article 27 |
+| Article 14 | Article 28 |
+| Article 15a | Article 29 |
+| Article 15b | Article 30 |
+| Article 15c | Article 31 |
+| Article 15d | Article 32 |
+| Article 17 | Article 33 |
+| Article 18 | Article 34 |
+| — | Article 35 |
+| Article 19 | Article 36 |
+| Annex I | Annex I |
+| Annex II | Annex II |
+| Annex III | Annex III |
+| Annex IIIa | Annex IV |
+| Annex IIIb | Annex V |
+| Annex IV | Annex VI |
+| Annex V | Annex VII |
+| Annex VI | Annex VIII |
+| Annex VII | Annex IX |
+| — | Annex X |
+| — | Annex XI |
+
+( 1 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 2 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 3 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1, ELI: http://data.europa.eu/eli/reg/1987/2658/oj).
+
+( 4 ) Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (see page 1 of this Official Journal).
+
+( 5 ) Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (OJ L 30, 31.1.2019, p. 1).
+
+( 6 ) Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (OJ L 30, 31.1.2019, p. 1).
+
+( 7 ) Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment (OJ L 30, 31.1.2019, p. 1).

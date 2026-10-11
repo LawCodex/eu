@@ -1,0 +1,169 @@
+---
+title: "Commission Delegated Regulation (EU) 2015/98 of 18 November 2014 on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the International Convention for the Conservation of Atlantic Tunas and the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries"
+identifier: "32015R0098"
+eli: "http://data.europa.eu/eli/reg_del/2015/98/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-11-18
+entry_into_force: 2015-07-15
+last_amended: 2026-08-25
+consolidated_version: "02015R0098-20260825"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0098-20260825"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2015/98 of 18 November 2014 on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the International Convention for the Conservation of Atlantic Tunas and the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/98**
+
+**of 18 November 2014**
+
+**on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the International Convention for the Conservation of Atlantic Tunas and the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/171 of 20 November 2015 </td><td> L 33</td><td>1</td><td>10.2.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2017/1352 of 18 April 2017 </td><td> L 190</td><td>1</td><td>21.7.2017</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2018/191 of 30 November 2017 </td><td> L 36</td><td>13</td><td>9.2.2018</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/2200 of 10 July 2019 </td><td> L 332</td><td>1</td><td>23.12.2019</td></tr>
+<tr><td> M5</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/824 of 15 March 2022 </td><td> L 147</td><td>1</td><td>30.5.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1342 of 17 June 2026 </td><td> L 1342</td><td>1</td><td>24.8.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/98**
+
+**of 18 November 2014**
+
+**on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the International Convention for the Conservation of Atlantic Tunas and the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+This Regulation establishes derogations from the landing obligation set out in Article 15 of Regulation (EU) No 1380/2013 for the purpose of implementing Union's international obligations under the International Convention for the Conservation of Atlantic Tunas and the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries. It applies to fishing activities in Union waters or by Union fishing vessels outside Union waters in waters not subject to third countries' sovereignty or jurisdiction.
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(1) ‘NAFO Regulatory Area’ means the Area defined in Article I(2) of the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries (NAFO Convention);
+
+(3) ‘North Atlantic Ocean’ means the area of the Atlantic Ocean north of 5° N;
+
+(4) ‘Recreational fisheries’ means a non-commercial fishery whose participants do not adhere to a national sport organisation or are not issued with a national sport licence;
+
+(5) ‘Sport fishery’ means a non-commercial fishery whose participants adhere to a national sport organisation or are issued with a national sport licence.
+
+## CHAPTER II — ICCAT CONVENTION AREA
+
+### Article 3 — Bigeye and yellowfin tuna
+
+1\. This Article shall apply to bigeye tuna (Thunnus obesus) and yellowfin tuna (Thunnus albacares) in the Atlantic Ocean.
+
+2\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, fishing vessels 20 metres length overall or greater not entered into the ICCAT record of authorised bigeye and yellowfin tunas vessels shall not target, retain on board, tranship, transport, transfer, process or land bigeye and yellowfin tunas in the Atlantic Ocean.
+
+### Article 4 — Bluefin tuna
+
+1\. This Article shall apply to bluefin tuna (Thunnus thynnus) in the eastern Atlantic and the Mediterranean.
+
+2\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to target, retain on board, tranship, transfer, land, transport, store, sell, display or offer for sale bluefin tuna:
+
+(a) below the minimum size set out in Article 9(1) of Regulation (EC) No 302/2009; or,
+
+(b) in situations referred to in Article 9(2) and (8) of Regulation (EC) No 302/2009, below the minimum sizes set out in that Article 9(2) and (8).
+
+3\. By way of derogation from paragraph 2 of this Article and from Article 15(1) of Regulation (EU) No 1380/2013, incidental catches of maximum 5 % of bluefin tuna between 8 kg or 75 cm and minimum size set out in Article 9(1) of Regulation (EC) No 302/2009 in kg or cm by catching vessels and traps fishing actively for bluefin tuna may be retained on board, transhipped, transferred, landed, transported, stored, sold, displayed or offered for sale.
+
+4\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, the catching vessels and traps fishing actively for bluefin tuna shall not retain bluefin tuna weighing between 8 and 30kg or with a fork length between 75 and 115 cm exceeding 5 % of bluefin tuna.
+
+5\. The percentage of 5 % referred to in paragraphs 3 and 4 shall be calculated on the basis of the total incidental catches of bluefin tuna in number of fish of the total catches of bluefin tuna retained on board the vessel at any time after each fishing operation.
+
+6\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, catching vessels not fishing actively bluefin tuna shall not retain on board bluefin tuna exceeding 20 % of the total catch by weight or number of pieces. The level of authorised by-catches of bluefin tuna shall be specified by Member States in the annual fishing plan referred to in Article 7 of Regulation (EU) 2016/1627 of the European Parliament and of the Council ( 1 ) and shall never exceed that percentage. The calculation based on the number of pieces shall only apply to tuna and tuna-like species managed by ICCAT.
+
+7\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, if the quota allocated to the Member State of the fishing vessel or trap concerned has already been consumed:
+
+(a) by-catches of bluefin tuna shall be avoided; and
+
+(b) the bluefin tuna caught alive as by-catch shall be released.
+
+8\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to catch, retain on board, tranship or land more than one bluefin tuna per vessel per day in recreational fisheries. Member States shall take the necessary measures to ensure and facilitate the release of bluefin tuna caught alive in the framework of recreational fishing.
+
+9\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to catch, retain on board, tranship or land more than one bluefin tuna per vessel per day in sport fisheries. Member States shall take the necessary measures to ensure and facilitate the release of bluefin tuna caught alive in the framework of sport fisheries.
+
+### Article 5 — Swordfish in the Atlantic Ocean
+
+2\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to target, retain on board or tranship, land, transport, store, display or offer for sale, sell or market swordfish (Xiphias gladius) below the minimum size, as set out in Annex IV to Regulation (EC) No 520/2007.
+
+3\. By way of derogation from paragraph 2 of this Article and from Article 15(1) of Regulation (EU) No 1380/2013, incidental catches of maximum 15 % of swordfish weighing less than 25 kg live weight or 125 cm lower jaw fork length may be retained on board, transhipped, transferred, landed, transported, stored, sold, displayed or offered for sale.
+
+4\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, vessels shall not retain swordfish weighing less than 25 kg live weight or 125 cm lower jaw fork length exceeding 15 % of swordfish.
+
+5\. The percentage of 15 % referred to in paragraphs 3 and 4 shall be calculated on the basis of the number of swordfish of the vessel's total swordfish catch per landing.
+
+### Article 5a — Mediterranean swordfish
+
+1\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to target, retain on board, tranship, land, transport, store, sell, display or offer for sale catches and by-catches of swordfish (Xiphias gladius), including from sport and recreational fisheries:
+
+(a) measuring less than 100 cm lower jaw fork length; or
+
+(b) weighing less than 11,4 kg of round weight or 10,2 kg of gilled and gutted weight.
+
+2\. Notwithstanding paragraph 1, catching vessels fishing actively for swordfish may retain on board, tranship, transfer, land, transport, store, sell, display or offer for sale incidental catches of swordfish below the minimum size, provided such catches do not exceed 5 % by weight or number of pieces of the total swordfish catch of such vessels.
+
+3\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, catching vessels not fishing actively for swordfish shall not retain on board swordfish exceeding the by-catch limit that Member States establish in their annual fishing plans for the total catch on board by weight or number of pieces.
+
+4\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, it shall be prohibited to catch, retain on board, tranship or land of more than one swordfish per vessel per day for sport and recreational fisheries. Member States shall take the necessary measures to ensure and facilitate the release of swordfish caught alive in the framework of sport and recreational fishing.
+
+### Article 5b — Blue marlin and white marlin/roundscale spearfish
+
+By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, once Member States have reached their quotas, all catches of blue marlin and white marlin/roundscale spearfish shall be discarded.
+
+## CHAPTER III — NAFO REGULATORY AREA
+
+### Article 6 — Calculation of by-catch limits
+
+1\. The bycatch limits referred to in this Regulation apply to stocks (combination of species and Division) listed in Annex I.A of the NAFO Conservation and Enforcement Measures.
+
+2\. For each stock, the calculation of bycatch percentage referred to in this Regulation is based on the ratio between the catch of that stock retained on board and the total catch of all stocks retained on board.
+
+3\. Limits and percentages referred to in this Regulation refer to catch weights retained on board at the time of inspection, and are calculated by Division on the basis of the fishing logbook figures. By derogation, the calculation of groundfish by-catch levels shall not include the catches of northern prawn in the total catch on board.
+
+### Article 6a — General derogations for the NAFO Regulatory area
+
+1\. By way of derogation from Article 15(1) of Regulation (EU) No 1380/2013, fish caught in the NAFO Regulatory Area above catch limits allocated by a legally binding Union act shall not be retained on-board.
+
+2\. Article 4(2) of Regulation (EC) No 1386/2007, which prohibits to retain on board by-catch above 1 250 kg or 5 %, whichever is greater, of species for which the catch limit is set to 0 by a legally binding Union act, shall apply by way of derogation from Article 15(1) of Regulation (EU) No 1380/2013.
+
+3\. Article 10 of Regulation (EC) No 1386/2007, which requires returning immediately to the sea any fish below the minimum sizes set out in Annex III of that Regulation, shall apply by way of derogation from Article 15(1) of Regulation (EU) No 1380/2013.
+
+### Article 6b — Cod in NAFO Divisions 3NO
+
+By way of derogation from Article 4(2) of Regulation (EC) No 1386/2007, as long as the catch limit is set to 0 by a legally binding Union act, cod caught as by-catch in NAFO Divisions 3NO above 1 000 kg or 4 %, whichever is greater, shall not be retained on-board.
+
+### Article 6c — American plaice in NAFO Divisions 3LNO
+
+By way of derogation from Article 4(2) of Regulation (EC) No 1386/2007, as long as the catch limit is set to 0 by a legally binding Union act, American plaice caught as by-catch in NAFO Divisions 3LNO in a directed fishery for yellowtail flounder above 15 %, shall not be retained on board.
+
+### Article 6d — Yellowtail flounder in NAFO Divisions 3LNO
+
+1\. By way of derogation from Article 4(2) of Regulation (EC) No 1386/2007, as long as the catch limit is set to 0 by a legally binding Union act, yellowtail flounder caught as by-catch in NAFO Divisions 3LNO above 2 500 kg or 10 %, whichever is greater, shall not be retained on-board.
+
+2\. When the yellowtail flounder catch limit, assigned by NAFO to the Contracting Parties without a specific share of the stock, is exhausted, yellowtail flounder caught as by-catch above 1 250 kg or 5 %, whichever is greater, shall not be retained on-board.
+
+### Article 6e — Redfish in NAFO Division 3M
+
+While the directed fishery for redfish in NAFO Division 3M is temporarily closed because 50 % of the annual catch limit has been reached, redfish caught as by-catch in NAFO Division 3M above 1 250 kg or 5 %, whichever is greater, shall not be retained on-board.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 7 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2016/1627 of the European Parliament and of the Council of 14 September 2016 on a multiannual recovery plan for bluefin tuna in the eastern Atlantic and the Mediterranean, and repealing Council Regulation (EC) No 302/2009 (OJ L 252, 16.9.2016, p. 1).

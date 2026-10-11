@@ -1,0 +1,57 @@
+---
+title: "Commission Regulation (EC) No 2284/94 of 20 September 1994 amending Regulation (EEC) No 2839/93 on the special sale of intervention butter for export to the Republics of the former Soviet Union"
+identifier: "31994R2284"
+eli: "http://data.europa.eu/eli/reg/1994/2284/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1994-09-20
+entry_into_force: 1994-02-18
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994R2284"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2284/94 of 20 September 1994 amending Regulation (EEC) No 2839/93 on the special sale of intervention butter for export to the Republics of the former Soviet Union
+
+COMMISSION REGULATION (EC) No 2284/94 of 20 September 1994 amending Regulation (EEC) No 2839/93 on the special sale of intervention butter for export to the Republics of the former Soviet Union
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organization of the market in milk and milk products (1), as last amended by Regulation (EC) No 1880/94 (2), and in particular Article 6 (7) thereof,
+
+Whereas Commission Regulation (EEC) No 2839/93 (3), as last amended by Regulation (EC) No 1653/94 (4), provides for butter in public storage to be made available to operators and the opening of invitations to tender in order, in particular, to fix the minimum price for that butter intended to be exported in the unaltered state to the Republics created after the dissolution of the Soviet Union; whereas Article 1 of that Regulation lays down that the butter sold must have been placed in stock by the intervention agency before 1 January 1992;
+
+Whereas, given developments in butter stocks and the quantities available these sales should be extended to butter which entered into storage before 1 February 1992;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In Article 1 (1) of Regulation (EEC) No 2839/93, '1 January 1992' is replaced by '1 February 1992'.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 20 September 1994.
+
+For the Commission
+
+René STEICHEN
+
+Member of the Commission
+
+(1) OJ No L 148, 28. 6. 1968, p. 13.
+
+(2) OJ No L 197, 30. 7. 1994, p. 21.
+
+(3) OJ No L 260, 19. 10. 1993, p. 8.
+
+(4) OJ No L 174, 8. 7. 1994, p. 17.

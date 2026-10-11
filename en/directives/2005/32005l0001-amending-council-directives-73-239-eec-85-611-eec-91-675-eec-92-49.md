@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2006/48/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 14 June 2006</td><td> L 177</td><td>1</td><td>30.6.2006</td></tr>
 <tr><td></td><td>DIRECTIVE 2009/65/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 13 July 2009</td><td> L 302</td><td>32</td><td>17.11.2009</td></tr>
+</table>
 
 **DIRECTIVE 2005/1/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

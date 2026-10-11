@@ -1,0 +1,113 @@
+---
+title: "Commission Regulation (EU) 2021/1917 of 3 November 2021 amending Annex I to Regulation (EC) No 1334/2008 of the European Parliament and of the Council as regards the inclusion of 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide in the Union list of flavourings (Text with EEA relevance)"
+identifier: "32021R1917"
+eli: "http://data.europa.eu/eli/reg/2021/1917/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-11-03
+entry_into_force: 2021-04-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1917"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2021/1917 of 3 November 2021 amending Annex I to Regulation (EC) No 1334/2008 of the European Parliament and of the Council as regards the inclusion of 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide in the Union list of flavourings (Text with EEA relevance)
+
+**COMMISSION REGULATION (EU) 2021/1917**
+
+**of 3 November 2021**
+
+**amending Annex I to Regulation (EC) No 1334/2008 of the European Parliament and of the Council as regards the inclusion of 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide in the Union list of flavourings**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods and amending Council Regulation (EEC) No 1601/91, Regulations (EC) No 2232/96 and (EC) No 110/2008 and Directive 2000/13/EC (1), and in particular Article 11(3) thereof,
+
+Having regard to Regulation (EC) No 1331/2008 of the European Parliament and of the Council of 16 December 2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings (2), and in particular Article 7(5) thereof,
+
+Whereas:
+
+(1) Annex I to Regulation (EC) No 1334/2008 lays down a Union list of flavourings and source materials approved for use in and on foods and their conditions of use.
+
+(2) Commission Implementing Regulation (EU) No 872/2012 (3) adopted the list of flavouring substances and introduced that list in Part A of Annex I to Regulation (EC) No 1334/2008.
+
+(3) That list may be updated in accordance with the common procedure referred to in Article 3(1) of Regulation (EC) No 1331/2008, either on the initiative of the Commission or following an application submitted by a Member State or by an interested party.
+
+(4) On 7 December 2015, an application was submitted to the Commission for the authorisation of the use of 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide (FL No 16.133), as a flavouring substance in various foods falling, in substance, under a number of food categories referred to in the Union list of flavourings and source materials. The application was notified to the European Food Safety Authority (‘the Authority’) for its opinion. The Commission also made the application available to the Member States pursuant to Article 4 of Regulation (EC) No 1331/2008.
+
+(5) The Authority in its opinion, adopted on 12 September 2018 (4), evaluated the safety of the substance FL No 16.133 when used as a flavouring substance and concluded that its use does not give rise to safety concerns when limited to levels up to those specified for various foods in different food categories. The Authority also indicated that its conclusion on the safety of the substance does not apply to the potential addition of the substance to non-opaque beverages where the substance can be subject to photo-transformation. This flavouring should only be added to opaque foods and packed in containers protected from light.
+
+(6) In accordance with Article 15(1), point (c), of Regulation (EC) No 1334/2008, the information on the special conditions for storage and of use should be provided in the labelling to the customer of the flavouring substance and/or preparations to which that flavouring substance has been added. An indication on the containers such as ‘keep away from light’ should be included in the labelling.
+
+(7) The Authority also noted that substance FL No 16.133 is a substance with flavouring modifying properties.
+
+(8) This flavouring substance is not intended for sale to the final consumer and therefore it should be placed on the market ensuring that this purpose is avoided.
+
+(9) In light of the opinion of the Authority, since the use of the substance FL No 16.133 as a flavouring substance does not give rise to safety concerns with the specified conditions of use and it is not expected to mislead the consumer, it is appropriate to authorise such use.
+
+(10) Part A of Annex I to Regulation (EC) No 1334/2008 should therefore be amended accordingly to include 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide in the Union list of flavourings.
+
+(11) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex I, Part A to Regulation (EC) No 1334/2008 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+The flavouring substance 2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide is not authorised for sale to the final consumer.
+
+## Article 3
+
+In addition to the labelling requirements for flavourings not intended for sale to the final consumer in accordance with Article 15(1), point (c), of Regulation (EC) No 1334/2008, the following additional information shall be provided in the labelling of the packages or containers:
+
+— ‘Contains substance FL 16.133. Protect from light to avoid its photo-transformation.’,
+
+— an indication such as ‘keep away from light’.
+
+## Article 4
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 3 November 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 354, 31.12.2008, p. 34.
+
+(2) OJ L 354, 31.12.2008, p. 1.
+
+(3) Commission Implementing Regulation (EU) No 872/2012 of 1 October 2012 adopting the list of flavouring substances provided for by Regulation (EC) No 2232/96 of the European Parliament and of the Council, introducing it in Annex I to Regulation (EC) No 1334/2008 of the European Parliament and of the Council and repealing Commission Regulation (EC) No 1565/2000 and Commission Decision 1999/217/EC (OJ L 267, 2.10.2012, p. 1).
+
+(4) EFSA Journal 2018;16(10):5421.
+
+## ANNEX
+
+In Annex I, Part A, Section 2, Table 1 to Regulation (EC) No 1334/2008 the following entry concerning FL No 16.133 is inserted:
+
+<table>
+<tbody><tr><td>‘16.133</td><td>2-(4-methylphenoxy)-N-(1H-pyrazol-3-yl)-N-(thiophen-2-ylmethyl)acetamide</td><td>1374760-95-8</td><td>2237</td><td></td><td>At least 99 %, peak area (UPLC-UV, 254 nm)</td><td><table><tbody><tr><td>1.</td><td>Restrictions of use as a flavouring substance, in the following food categories: In category 1.4.: Opaque flavoured fermented milk products including heat treated products and packaged in opaque packaging/containers – not more than 3 mg/kg  In category 3.0.: opaque edible ices, including sherbet and sorbet, and packaged in opaque packaging/containers – not more than 3 mg/kg  In category 5.1.: opaque cocoa products and chocolate products, including imitations and chocolate substitutes, and pacakaged in opaque packaging/containers – not more than 15 mg/kg  In category 5.2.: opaque confectionery, including hard and soft candy, nougats, etc., other than products falling in categories 05.1., 05.3. and 05.4, and packaged in opaque packaging/containers – not more than 15 mg/kg  In category 5.3: opaque chewing gum, and packaged in opaque packaging/containers – not more than 150 mg/kg  In category 5.4.: opaque decorations (e.g. for fine bakery wares), toppings (non¬fruit) and sweet sauces), and packaged in opaque packaging/containers – not more than 15 mg/kg  In category 12.5.: opaque soups and broths, and packaged in opaque packaging/containers – not more than 3 mg/kg  In category 12.6.: opaque sauces and like products, and packaged in opaque packaging/containers – not more than 15 mg/kg  In category 14.1.4.: opaque flavoured drinks, only for dairy based drinks, and packaged in opaque packaging/containers – not more than 3 mg/kg  In category 16.: opaque desserts excluding products covered in categories 1., 3. and 4., and packaged in opaque packaging/containers – not more than 3 mg/kg </td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>This flavouring substance is not authorised for sale to the final consumer.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>The following information shall be provided “contains substance FL 16.133. Protect from light to avoid its photo-transformation”. Containers shall be opaque. An indication on the containers such as “keep away from light” shall also be included in the labelling.</td></tr>
+</tbody>
+</table>
+</td><td></td><td>EFSA’</td></tr>
+</tbody>
+</table>

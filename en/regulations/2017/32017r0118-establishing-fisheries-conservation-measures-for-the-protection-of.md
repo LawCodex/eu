@@ -1,0 +1,2355 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/118 of 5 September 2016 establishing fisheries conservation measures for the protection of the marine environment in the North Sea"
+identifier: "32017R0118"
+eli: "http://data.europa.eu/eli/reg_del/2017/118/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2016-09-05
+entry_into_force: 2018-01-09
+last_amended: 2026-07-06
+consolidated_version: "02017R0118-20260706"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0118-20260706"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/118 of 5 September 2016 establishing fisheries conservation measures for the protection of the marine environment in the North Sea
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/118**
+
+**of 5 September 2016**
+
+**establishing fisheries conservation measures for the protection of the marine environment in the North Sea**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2017/1180 of 24 February 2017 </td><td> L 171</td><td>1</td><td>4.7.2017</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/952 of 9 February 2022 </td><td> L 165</td><td>1</td><td>21.6.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/340 of 8 December 2022 </td><td> L 48</td><td>1</td><td>16.2.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/1609 of 1 June 2023 </td><td> L 198</td><td>27</td><td>8.8.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2191 of 16 July 2025 </td><td> L 2191</td><td>1</td><td>29.10.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/785 of 7 April 2026 </td><td> L 785</td><td>1</td><td>16.6.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/118**
+
+**of 5 September 2016**
+
+**establishing fisheries conservation measures for the protection of the marine environment in the North Sea**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes fisheries conservation measures necessary for compliance with obligations under Article 6 of Directive 92/43/EEC, Article 4 of Directive 2009/147/EC and Article 13(4) of Directive 2008/56/EC.
+
+2\. This Regulation applies to fishing vessels in the North Sea.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply in addition to those laid down in Article 4 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, Article 4 of Regulation (EC) No 1224/2009, Article 2 of Commission Implementing Regulation (EU) No 404/2011 ( 1 ) and Annex III of Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( 2 ):
+
+(a) ‘mobile bottom contacting gear’ means any of the following gears: bottom trawl (TB), beam trawl (TBB), bottom otter trawl (OTB), otter twin trawl (OTT), bottom pair trawl (PTB), nephrops trawl (TBN), shrimp trawl (TBS), seine (SX), Danish anchor seine (SDN), Scottish seine (SSC), Scottish pair seine (SPR), boat or vessel seine (SV), beach seine (SB), boat dredge (DRB), hand dredge used on board a vessel (DRH) and mechanised dredge including suction dredge (HMD);
+
+(b) ‘gillnets and entangling nets’ means any of the following gears: gillnets (GN), set (anchored) gillnets (GNS), driftnets (GND), encircling gillnets (GNC), trammel nets (GTR) and combined trammel and gillnets (GTN);
+
+(c) ‘Areas 1’ mean the geographical areas enclosed by sequentially joining with rhumb lines the positions listed in Annex I to this Regulation, measured according to the WGS84 coordinate system, or by separation lines between two Exclusive Economic Zones or the delimitation line of the territorial sea as set out in Annex I;
+
+(d) ‘Areas 2’ mean the geographical areas enclosed by sequentially joining with rhumb lines the positions listed in Annex II to this Regulation, measured according to the WGS84 coordinate system, or by the delimitation line of the territorial sea as set out in Annex II;
+
+(e) ‘Areas 3’ mean the geographical areas enclosed by sequentially joining with rhumb lines the positions listed in Annex IV to this Regulation, measured according to the WGS84 coordinate system;
+
+(f) ‘Areas 4’ mean the geographical areas enclosed by sequentially joining with rhumb lines the positions listed in Annex VI to this Regulation, measured according to the WGS84 coordinate system, or by separation lines between two Exclusive Economic Zones or the delimitation line of the territorial sea as set out in Annex VI;
+
+(g) ‘Bratten’ means the geographical area enclosed by sequentially joining with rhumb lines the positions listed in Annex III to this Regulation, measured according to the WGS84 coordinate system;
+
+(h) ‘AIS zones’ means the geographical areas enclosed by sequentially joining with rhumb lines the positions listed in Annex V to this Regulation, measured according to the WGS84 coordinate system;
+
+(i) ‘Alert zones’ mean the geographical areas listed as alert zones in Annex I, II and VI to this Regulation of 4 nautical miles surrounding each management zone, established only to alert the competent authorities to fishing vessels approaching certain protected areas, and where fishing activities are not prohibited;
+
+(j) ‘Member States concerned’ means Belgium, Denmark, France, Germany, the Netherlands and Sweden.
+
+## Article 3 — Fishing prohibition
+
+1\. It shall be prohibited to carry out any fishing activity with mobile bottom contacting gears in the following corresponding parts of Areas 1 referred to in Annex I:
+
+(a) in areas 1(1) to 1(17), except for the respective alert zones 1(10.az), 1(11.az), 1(12.az), 1(13.az), 1(14.az) and 1(15.az), the following gears shall be prohibited: bottom trawl (TB), beam trawl (TBB), bottom otter trawl (OTB), otter twin trawl (OTT), bottom pair trawl (PTB), nephrops trawl (TBN), shrimp trawl (TBS), seine (SX), Danish anchor seine (SDN), Scottish seine (SSC), Scottish pair seine (SPR), boat or vessel seine (SV), except for fishing activities with beam trawls and bobbin ropes with mesh size between 16 and 31 mm (TBB_CRU_16-31) in the traditional fishery targeting brown shrimp (Crangon spp.) in area 1(10)(b);
+
+(b) in addition, in areas 1(10) to 1(17), except for the respective alert zones 1(10.az), 1(11.az), 1(12.az), 1(13.az), 1(14.az) and 1(15.az) the following gears shall be prohibited: boat dredge (DRB) and mechanised dredge including suction dredge (HMD);
+
+(c) in addition, in areas 1(10) and 1(11), except for the respective alert zones 1(10.az) and 1(11.az), the following gears shall be prohibited: beach seine (SB) and hand dredge used on board a vessel (DRH);
+
+(d) in areas 1(10), fisheries conservation measures shall take effect on 1 May 2023.
+
+2\. It shall be prohibited to carry out:
+
+(a) fishing activities in areas 2(1) to 2(24) and 2(28) of Areas 2, except for the respective alert zone 2(28.az),
+
+(b) fishing operations in areas 2(25) to 2(27) and 2(29) of Areas 2.
+
+3\. Fishing shall be permitted in Areas 3 only with the following fishing gears and under the following conditions:
+
+(a) handheld gears like rod and line (LHP),
+
+(b) pelagic trawls (OTM and PTM),
+
+(c) pots and traps (FPO and FIX), when fishing for crustaceans.
+
+4\. Paragraph 2(b) and paragraph 3 shall also apply to recreational fisheries.
+
+5\. It shall be prohibited to carry out any fishing activity with gillnets (GN, GNS, GND and GNC) and entangling nets (GTR and GTN) in the following corresponding parts of Areas 4 referred to in Annex VI:
+
+(a) in area 4(1), except for the respective alert zone 4(1.az), any fishing activity with gillnets and entangling nets shall be prohibited all year round;
+
+(b) in area 4(2), except for the respective alert zone 4(2.az), any fishing activity with gillnets and entangling nets shall be prohibited during the seasonal closure from 1 March to 31 October;
+
+(c) in area 4(3), except for the respective alert zone 4(3.az), the annual total number of days of fishing activity with gillnets and entangling nets shall not exceed the annual average number of fishing days during which such gears were used in that area in the last 6 years before 8 March 2023;
+
+(d) in area 4(4), during the seasonal closure from 1 June to 30 November, the annual total number of days of fishing activity with gillnets and entangling nets shall not exceed the annual average number of fishing days during which such gears were used in that area between 1 June and 30 November in the period 2012-2016.
+
+6\. Where fishing activities are allowed with other gears than those prohibited under paragraphs 1, 3 and 5, the prohibited gears shall be lashed and stowed in accordance with the conditions laid down in Article 47 of Regulation (EC) No 1224/2009.
+
+7\. It shall be prohibited to fish with gillnets and entangling nets, fyke nets (FYK) and longlines (LL, LLD and LLS), as follows:
+
+(a) in area 1(16), in the period between 15 November to 15 March each year. In the period between 16 March to 14 November each year, fishing with gillnets and entangling nets shall be prohibited without the simultaneous use of acoustic deterrent devices that should fulfil the technical specifications and conditions of use laid down in Commission Implementing Regulation (EU) 2020/967 ( 3 );
+
+(b) in area 1(17), in the period between 1 January to 31 December each year. By way of derogation from this prohibition, commercial fisheries may be allowed by the Swedish authorities provided that the fishing activity is compatible with the conservation objectives of this fishing restricted zone. These licences shall be linked to specific requirements, such as the use of acoustic deterrent devices, data collection through cameras or observers on board, and/or geographical restrictions;
+
+(c) recreational fisheries with a maximum number of six fyke nets fitted with two circular escape openings with a diameter of at least 75 mm which are situated on each side of the codend shall be permitted throughout the year in areas 1(16) and 1(17).
+
+The Member States concerned shall review the data on incidental catches of harbour porpoise annually and shall assess it by 31 December 2027 at the latest. The data on incidental catches or any relevant information, including scientific evidence on the use of acoustic deterrent devices in relation to harbour porpoise, shall be used in order to adjust the conservation measure referred to in this paragraph, pursuant to the procedure laid down in Articles 11 and 18 of Regulation (EU) No 1380/2013.
+
+## Article 4 — Transit
+
+1\. Fishing vessels carrying on board any mobile bottom contacting gear that are not authorised to fish in areas 1(1) to 1(15), including the respective alert zones 1(12.az), 1(13.az), 1(14.az) and 1(15.az), and fishing vessels carrying on board gillnets and entangling nets that are not authorised to fish in areas 4(1) to 4(4), may transit across those respective areas provided that these gears be lashed and stowed during the transit in accordance with the conditions laid down in Article 47 of Regulation (EC) No 1224/2009.
+
+2\. Fishing vessels may transit across areas 1(16), 1(17), 2(1) to 2(29), provided that any gear carried on board be lashed and stowed in accordance with the conditions laid down in Article 47 of Regulation (EC) No 1224/2009.
+
+3\. The speed during transit for all fishing vessels that are not authorised to fish in areas 1(10) to 1(17), including the respective alert zones 1(12.az), 1(13.az), 1(14.az) and 1(15.az), area 2(28), 2(29) and areas 4(1) to 4(3), shall not be less than six knots except in case of force majeure, in accordance with Article 50(3)(b) of Regulation (EC) No 1224/2009.
+
+## Article 5 — Automatic identification system and vessel monitoring system
+
+1\. The following fishing vessels shall be fitted with and maintain in operation an automatic identification system (AIS) which meets the performance standards set out in Article 10(1) of Regulation (EC) No 1224/2009:
+
+(a) all fishing vessels present in the marine protected area Bratten and in areas 1(16), 1(17) and 2(29);
+
+(b) all fishing vessels operating with mobile bottom contacting gears within the AIS-zones as specified in point 1 of Annex V to this Regulation;
+
+(c) all fishing vessels present in the AIS-zones as specified in point 2 of Annex V to this Regulation.
+
+2\. Fishing vessels of 12 m length overall or more shall increase the transmission frequency of the vessel monitoring system (VMS) to once every 10 minutes, whenever:
+
+(a) intending to enter or transit through areas 1(10) to 1(13) (Annex I), area 2(28) (Annex II) and areas 4(1) to 4(4) (Annex VI), including the respective alert zones 1(10.az) to 1(13.az), 2(28.az), 4(1.az) to 4(3.az);
+
+(b) carrying on board any prohibited gear during the closure period (1 June to 30 November) in area 4(4) (Annex VI);
+
+(c) carrying on board any prohibited gear and travelling under six knots in areas 1(12) to 1(15) (Annex I), including the respective alert zones 1(12.az), 1(13.az), 1(14.az) and 1(15.az). In areas 1(14), 1(15) and the alert zones 1(14.az) and 1(15.az), VMS data can also be transmitted via GPRS (General Packet Radio Service) or GSM (Global System for Mobile Communication).
+
+3\. Fishing vessels of 12 m length overall or more entering the alert zones shall record both the fishing gear carried on board and the fishing gear used in the electronic logbook, in accordance with Articles 14(2) and 15(1) of Regulation (EC) No 1224/2009.
+
+## Article 6 — Review
+
+From 8 March 2023, Member States concerned shall monitor, assess and report on the implementation of the measures set out in Articles 3, 4 and 5, every three years for measures in areas 4(1) and 4(4) (Annex VI) under the Birds Directive, and every six years for measures in areas 1(10) to 1(13) (Annex I), area 2(28) (Annex II) and areas 4(2) and 4(3) (Annex VI) under the Habitats Directive and the Marine Strategy Framework Directive.
+
+Member States shall review the measures in areas 1(14) and 1(15) six years after their entry into force.
+
+## Article 7 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Coordinates of Areas 1**
+
+**Area 1(1): Habitat No 166, Natura 2000 site No 191, (EU code: DK00VA248) Herthas Flak**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1S | 57°39.422′ | 10°49.118′ |
+| 2S | 57°39.508′ | 10°49.602′ |
+| 3S | 57°39.476′ | 10°49.672′ |
+| 4S | 57°39.680′ | 10°50.132′ |
+| 5S | 57°39.312′ | 10°50.813′ |
+| 6S | 57°39.301′ | 10°51.290′ |
+| 7S | 57°38.793′ | 10°52.365′ |
+| 8S | 57°38.334′ | 10°53.201′ |
+| 9S | 57°38.150′ | 10°52.931′ |
+| 10S | 57°38.253′ | 10°52.640′ |
+| 11S | 57°37.897′ | 10°51.936′ |
+| 12S | 57°38.284′ | 10°51.115′ |
+| 13S | 57°38.253′ | 10°50.952′ |
+| 14S | 57°38.631′ | 10°50.129′ |
+| 15S | 57°39.142′ | 10°49.201′ |
+| 16S | 57°39.301′ | 10°49.052′ |
+| 17S | 57°39.422′ | 10°49.118′ |
+
+**Area 1(2): Habitat No 168, Natura 2000 site No 192, (EU code: DK00VA249) Læsø Trindel & Tønneberg Banke**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1S | 57°25.045′ | 11°6.757′ |
+| 2S | 57°26.362′ | 11°6.858′ |
+| 3S | 57°27.224′ | 11°9.239′ |
+| 4S | 57°26.934′ | 11°10.026′ |
+| 5S | 57°27.611′ | 11°10.938′ |
+| 6S | 57°28.053′ | 11°11.000′ |
+| 7S | 57°28.184′ | 11°11.547′ |
+| 8S | 57°28.064′ | 11°11.808′ |
+| 9S | 57°28.843′ | 11°13.844′ |
+| 10S | 57°29.158′ | 11°15.252′ |
+| 11S | 57°29.164′ | 11°16.861′ |
+| 12S | 57°29.017′ | 11°17.266′ |
+| 13S | 57°29.080′ | 11°17.597′ |
+| 14S | 57°28.729′ | 11°18.494′ |
+| 15S | 57°28.486′ | 11°18.037′ |
+| 16S | 57°28.258′ | 11°18.269′ |
+| 17S | 57°27.950′ | 11°18.239′ |
+| 18S | 57°27.686′ | 11°18.665′ |
+| 19S | 57°27.577′ | 11°18.691′ |
+| 20S | 57°27.525′ | 11°18.808′ |
+| 21S | 57°27.452′ | 11°18.837′ |
+| 22S | 57°27.359′ | 11°18.818′ |
+| 23S | 57°26.793′ | 11°17.929′ |
+| 24S | 57°27.984′ | 11°15.500′ |
+| 25S | 57°27.676′ | 11°14.758′ |
+| 26S | 57°25.998′ | 11°17.309′ |
+| 27S | 57°25.946′ | 11°17.488′ |
+| 28S | 57°26.028′ | 11°17.555′ |
+| 29S | 57°26.060′ | 11°17.819′ |
+| 30S | 57°26.011′ | 11°18.360′ |
+| 31S | 57°25.874′ | 11°18.666′ |
+| 32S | 57°25.683′ | 11°18.646′ |
+| 33S | 57°25.417′ | 11°18.524′ |
+| 34S | 57°25.377′ | 11°18.408′ |
+| 35S | 57°25.330′ | 11°18.039′ |
+| 36S | 57°25.175′ | 11°17.481′ |
+| 37S | 57°24.928 | 11°17.579′ |
+| 38S | 57°24.828′ | 11°17.366′ |
+| 39S | 57°24.891′ | 11°17.049′ |
+| 40S | 57°25.128′ | 11°17.118′ |
+| 41S | 57°25.249′ | 11°16.721′ |
+| 42S | 57°25.211′ | 11°16.592′ |
+| 43S | 57°25.265′ | 11°16.162′ |
+| 44S | 57°25.170′ | 11°15.843′ |
+| 45S | 57°25.245′ | 11°15.562′ |
+| 46S | 57°25.208′ | 11°15.435′ |
+| 47S | 57°25.278′ | 11°15.083′ |
+| 48S | 57°25.462′ | 11°15.059′ |
+| 49S | 57°25.517′ | 11°15.007′ |
+| 50S | 57°25.441′ | 11°14.613′ |
+| 51S | 57°25.610′ | 11°14.340′ |
+| 52S | 57°25.630′ | 11°14.119′ |
+| 53S | 57°25.629′ | 11°13.827′ |
+| 54S | 57°25.738′ | 11°13.658′ |
+| 55S | 57°25.610′ | 11°13.392′ |
+| 56S | 57°25.625′ | 11°13.176′ |
+| 57S | 57°25.933′ | 11°12.379′ |
+| 58S | 57°25.846′ | 11°11.959′ |
+| 59S | 57°25.482′ | 11°12.956′ |
+| 60S | 57°25.389′ | 11°13.083′ |
+| 61S | 57°25.221′ | 11°13.212′ |
+| 62S | 57°25.134′ | 11°13.221′ |
+| 63S | 57°25.031′ | 11°13.077′ |
+| 64S | 57°25.075′ | 11°12.751′ |
+| 65S | 57°24.817′ | 11°12.907′ |
+| 66S | 57°24.747′ | 11°12.862′ |
+| 67S | 57°24.616′ | 11°13.229′ |
+| 68S | 57°24.549′ | 11°13.240′ |
+| 69S | 57°24.347′ | 11°13.093′ |
+| 70S | 57°24.256′ | 11°13.288′ |
+| 71S | 57°24.145′ | 11°13.306′ |
+| 72S | 57°24.051′ | 11°13.138′ |
+| 73S | 57°23.818′ | 11°13.360′ |
+| 74S | 57°23.649′ | 11°13.280′ |
+| 75S | 57°23.553′ | 11°13.260′ |
+| 76S | 57°23.432′ | 11°13.088′ |
+| 77S | 57°23.416′ | 11°12.861′ |
+| 78S | 57°23.984′ | 11°9.081′ |
+| 79S | 57°25.045′ | 11°6.757′ |
+
+**Area 1(3): Habitat No 167, Natura 2000 site No 207, (EU code: DK00VA299) Lysegrund**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1S | 56°19.367′ | 11°46.017′ |
+| 2S | 56°18.794′ | 11°48.153′ |
+| 3S | 56°17.625′ | 11°48.541′ |
+| 4S | 56°17.424′ | 11°48.117′ |
+| 5S | 56°17.864′ | 11°47.554′ |
+| 6S | 56°17.828′ | 11°47.265′ |
+| 7S | 56°17.552′ | 11°47.523′ |
+| 8S | 56°17.316′ | 11°47.305′ |
+| 9S | 56°17.134′ | 11°47.260′ |
+| 10S | 56°16.787′ | 11°46.753′ |
+| 11S | 56°16.462′ | 11°46.085′ |
+| 12S | 56°16.455′ | 11°43.620′ |
+| 13S | 56°17.354′ | 11°42.671′ |
+| 14S | 56°18.492′ | 11°42.689′ |
+| 15S | 56°18.950′ | 11°41.823′ |
+| 16S | 56°19.263′ | 11°41.870′ |
+| 17S | 56°19.802′ | 11°40.939′ |
+| 18S | 56°19.989′ | 11°41.516′ |
+| 19S | 56°18.967′ | 11°43.600′ |
+| 20S | 56°19.460′ | 11°44.951′ |
+| 21S | 56°19.367′ | 11°46.017′ |
+
+**Area 1(4): Habitat No 169, Natura 2000 Site No 193 (EU Code: DK00VA250) Store Middelgrund**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°34.52′ | 12°2.208′ |
+| 1 | 56°34.612′ | 12°2.136′ |
+| 1 | 56°35.19′ | 12°2.285′ |
+| 1 | 56°35.474′ | 12°2.817′ |
+| 1 | 56°35.465′ | 12°4.468′ |
+| 1 | 56°35.233′ | 12°5.415′ |
+| 1 | 56°33.428′ | 12°6.808′ |
+| 1 | 56°32.915′ | 12°5.233′ |
+| 1 | 56°31.324′ | 12°4.355′ |
+| 1 | 56°31.318′ | 12°2.235′ |
+
+**Area 1(5): Habitat No 204, Natura 2000 Site No 204 (EU Code: DK00VA303) Schultz og Hastens Grund samt Briseis Flak**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°11.54′ | 11°11.308′ |
+| 1 | 56°12.748′ | 11°11.412′ |
+| 1 | 56°12.977′ | 11°11.076′ |
+| 1 | 56°13.812′ | 11°11.019′ |
+| 1 | 56°14.318′ | 11°11.153′ |
+| 1 | 56°16.409′ | 11°12.95′ |
+| 1 | 56°16.553′ | 11°13.137′ |
+| 1 | 56°16.645′ | 11°13.574′ |
+| 1 | 56°17.029′ | 11°14.117′ |
+| 1 | 56°17.401′ | 11°14.234′ |
+| 1 | 56°17.495′ | 11°14.355′ |
+| 1 | 56°17.543′ | 11°15.095′ |
+| 1 | 56°17.511′ | 11°15.328′ |
+| 1 | 56°17.047′ | 11°15.456′ |
+| 1 | 56°16.571′ | 11°14.971′ |
+| 1 | 56°16.555′ | 11°14.611′ |
+| 1 | 56°15.931′ | 11°14.504′ |
+| 1 | 56°15.479′ | 11°14.11′ |
+| 1 | 56°14.679′ | 11°14.013′ |
+| 1 | 56°14.193′ | 11°14.207′ |
+| 1 | 56°12.565′ | 11°13.067′ |
+| 1 | 56°11.523′ | 11°13.443′ |
+| 1 | 56°11.247′ | 11°14.042′ |
+| 1 | 56°10.105′ | 11°13.247′ |
+| 1 | 56°9.516′ | 11°11.983′ |
+| 1 | 56°9.417′ | 11°11.258′ |
+| 1 | 56°9.476′ | 11°10.556′ |
+| 1 | 56°8.737′ | 11°8.954′ |
+| 1 | 56°8.756′ | 11°8.568′ |
+| 1 | 56°9.334′ | 11°8.269′ |
+| 1 | 56°9.907′ | 11°8.446′ |
+| 1 | 56°9.914′ | 11°9.319′ |
+| 1 | 56°10.4′ | 11°10.654′ |
+| 1 | 56°10.362′ | 11°11.298′ |
+| 1 | 56°10.805′ | 11°11.88′ |
+| 1 | 56°11.184′ | 11°11.956′ |
+| 2 | 56°20.985′ | 11°22.005′ |
+| 2 | 56°20.367′ | 11°19.136′ |
+| 2 | 56°19.547′ | 11°17.294′ |
+| 2 | 56°18.7′ | 11°15.982′ |
+| 2 | 56°18.724′ | 11°18.399′ |
+| 2 | 56°20.817′ | 11°20.511′ |
+| 2 | 56°18.27′ | 11°17.204′ |
+| 2 | 56°18.629′ | 11°17.695′ |
+| 2 | 56°18.078′ | 11°16.411′ |
+| 2 | 56°18.7′ | 11°15.982′ |
+| 2 | 56°20.257′ | 11°22.733′ |
+| 2 | 56°20.13′ | 11°22.319′ |
+| 2 | 56°19.134′ | 11°18.983′ |
+
+**Area 1(6): Habitat No 09, Natura 2000 Site No 09 (EU Code: DK00FX010) Strandenge på Læsø og havet syd herfor**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 57°16.590′ | 11°14.495′ |
+| 1 | 57°16.256′ | 11°14.59′ |
+| 1 | 57°16.169′ | 11°14.409′ |
+| 1 | 57°16.169′ | 11°14.209′ |
+| 1 | 57°16.677′ | 11°12.483′ |
+| 1 | 57°17.116′ | 11°12.001′ |
+| 1 | 57°16.556′ | 11°13.269′ |
+| 1 | 57°17.591′ | 11°12.392′ |
+| 1 | 57°17.86′ | 11°13.122′ |
+| 1 | 57°17.55′ | 11°13.861′ |
+| 7 | 57°5.371′ | 11°20.659′ |
+| 7 | 57°6.381′ | 11°21.944′ |
+| 7 | 57°5.91′ | 11°22.787′ |
+| 7 | 57°5.18′ | 11°22.809′ |
+| 7 | 57°8.174′ | 11°16.527′ |
+| 7 | 57°8.68′ | 11°18.549′ |
+| 7 | 57°7.534′ | 11°20.441′ |
+| 7 | 57°6.804′ | 11°20.398′ |
+| 7 | 57°5.816′ | 11°19.63′ |
+| 7 | 57°6.634′ | 11°17.078′ |
+| 7 | 57°8.174′ | 11°16.527′ |
+| 7 | 57°4.903′ | 11°22.463′ |
+| 8 | 57°9.615′ | 11°17.231′ |
+| 8 | 57°10.129′ | 11°13.882′ |
+| 8 | 57°2.822′ | 11°17.65′ |
+| 8 | 57°11.948′ | 11°12.687′ |
+| 8 | 57°12.088′ | 11°11.741′ |
+| 8 | 57°10.658′ | 11°12.883′ |
+| 8 | 57°3.599′ | 11°17.885′ |
+| 8 | 57°5.012′ | 11°16.909′ |
+| 8 | 57°8.004′ | 11°13.522′ |
+| 8 | 57°9.202′ | 11°17.358′ |
+| 8 | 57°1.939′ | 11°16.417′ |
+| 8 | 57°1.962′ | 11°14.827′ |
+| 8 | 57°0.983′ | 11°14.342′ |
+| 8 | 57°1.274′ | 11°10.035′ |
+| 8 | 57°2.903′ | 11°6.783′ |
+| 8 | 57°9.434′ | 11°17.472′ |
+| 8 | 57°3.496′ | 11°7.083′ |
+| 8 | 57°2.717′ | 11°11.757′ |
+| 8 | 57°4.945′ | 11°9.468′ |
+| 8 | 57°6.501′ | 11°10.111′ |
+| 8 | 57°10.612′ | 11°11.461′ |
+| 8 | 57°11.716′ | 11°11.244′ |
+| 8 | 57°12.088′ | 11°11.741′ |
+| 8 | 57°3.177′ | 11°6.659′ |
+| 10 | 57°6.231′ | 11°8.031′ |
+| 10 | 57°5.661′ | 11°7.912′ |
+| 10 | 57°6.118′ | 11°6.363′ |
+| 10 | 57°5.32′ | 11°6.254′ |
+| 10 | 57°4.912′ | 11°6.315′ |
+| 10 | 57°4.942′ | 11°7.2′ |
+| 10 | 57°7.305′ | 11°6.688′ |
+| 10 | 57°7.293′ | 11°5.893′ |
+| 10 | 57°7.147′ | 11°7.866′ |
+| 10 | 57°7.293′ | 11°5.893′ |
+| 10 | 57°6.946′ | 11°5.845′ |
+| 11 | 57°5.31′ | 10°59.197′ |
+| 11 | 57°4.371′ | 10°56.279′ |
+| 11 | 57°3.443′ | 10°58.93′ |
+| 11 | 57°6.547′ | 11°1.968′ |
+| 11 | 57°1.808′ | 10°58.496′ |
+| 11 | 57°1.597′ | 10°57.823′ |
+| 11 | 57°2.366′ | 10°53.025′ |
+| 11 | 57°4.236′ | 11°5.614′ |
+| 11 | 57°2.764′ | 10°51.91′ |
+| 11 | 57°7.571′ | 11°4.806′ |
+| 11 | 57°7.936′ | 11°3.651′ |
+| 11 | 57°7.953′ | 11°2.667′ |
+| 11 | 57°7.198′ | 11°5.634′ |
+| 11 | 57°6.366′ | 10°52.893′ |
+| 11 | 57°4.98′ | 10°50.473′ |
+| 11 | 57°3.356′ | 10°51.401′ |
+| 11 | 57°7.443′ | 10°58.998′ |
+| 11 | 57°7.198′ | 11°5.634′ |
+| 11 | 57°6.471′ | 11°5.125′ |
+| 11 | 57°6.751′ | 11°2.224′ |
+| 11 | 57°3.535′ | 11°5.08′ |
+| 11 | 57°4.354′ | 10°59.94′ |
+
+**Area 1(7): Habitat No 20, Natura 2000 Site No 20 (EU Code: DK00FX257) Havet omkring Nordre Rønner**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 57°25.564′ | 11°1.008′ |
+| 1 | 57°25.474′ | 11°1.727′ |
+| 1 | 57°25.29′ | 11°1.947′ |
+| 1 | 57°24.992′ | 11°1.863′ |
+| 1 | 57°24.724′ | 11°1.233′ |
+| 1 | 57°24.785′ | 11°0.981′ |
+| 1 | 57°25.008′ | 11°0.467′ |
+| 1 | 57°24.837′ | 11°0.331′ |
+| 1 | 57°24.813′ | 11°0.153′ |
+| 1 | 57°24.837′ | 10°59.992′ |
+| 1 | 57°24.927′ | 10°59.909′ |
+| 1 | 57°25.004′ | 10°59.935′ |
+| 1 | 57°25.223′ | 11°0.27′ |
+| 1 | 57°25.564′ | 11°1.008′ |
+| 1 | 57°25.12′ | 11°1.924′ |
+| 17 | 57°20.061′ | 11°2.851′ |
+| 17 | 57°19.734′ | 11°0.84′ |
+| 17 | 57°19.812′ | 11°0.697′ |
+| 17 | 57°19.891′ | 11°0.335′ |
+| 17 | 57°19.621′ | 10°59.763′ |
+| 17 | 57°19.398′ | 10°59.772′ |
+| 17 | 57°19.174′ | 11°0.903′ |
+| 17 | 57°19.579′ | 11°3.014′ |
+| 17 | 57°19.776′ | 11°3.182′ |
+| 17 | 57°19.912′ | 11°3.156′ |
+| 17 | 57°20.061′ | 11°2.851′ |
+| 18 | 57°22.145′ | 10°57.371′ |
+| 18 | 57°20.103′ | 10°55.273′ |
+| 18 | 57°22.57′ | 10°57.338′ |
+| 18 | 57°22.66′ | 10°56.892′ |
+| 18 | 57°21.115′ | 10°55.086′ |
+| 18 | 57°22.634′ | 10°56.392′ |
+| 18 | 57°19.757′ | 10°54.713′ |
+| 18 | 57°20.042′ | 10°54.207′ |
+| 18 | 57°22.512′ | 10°55.648′ |
+| 18 | 57°21.238′ | 10°53.014′ |
+| 18 | 57°21.634′ | 10°53.434′ |
+| 18 | 57°22.151′ | 10°54.627′ |
+| 18 | 57°21.263′ | 10°55.473′ |
+| 18 | 57°21.169′ | 10°56.585′ |
+| 18 | 57°20.831′ | 10°53.127′ |
+| 19 | 57°22.957′ | 11°4.239′ |
+| 19 | 57°22.64′ | 11°4.987′ |
+| 19 | 57°21.687′ | 11°5.546′ |
+| 19 | 57°21.85′ | 11°6.385′ |
+| 19 | 57°21.559′ | 11°6.792′ |
+| 19 | 57°21.026′ | 11°6.641′ |
+| 19 | 57°20.663′ | 11°6.423′ |
+| 19 | 57°20.435′ | 11°6.035′ |
+| 19 | 57°20.219′ | 11°4.913′ |
+| 19 | 57°20.173′ | 11°3.355′ |
+| 19 | 57°20.351′ | 11°1.386′ |
+| 19 | 57°20.676′ | 10°59.222′ |
+| 19 | 57°20.968′ | 10°59.072′ |
+| 19 | 57°21.64′ | 10°59.792′ |
+| 19 | 57°22.075′ | 10°58.079′ |
+| 19 | 57°22.814′ | 10°57.873′ |
+| 19 | 57°23.349′ | 10°58.116′ |
+| 19 | 57°23.44′ | 10°59.169′ |
+| 19 | 57°23.291′ | 11°1.892′ |
+| 19 | 57°23.44′ | 10°59.169′ |
+
+**1(8): Kims Top og den Kinesiske Mur (DK00VA247)**
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 0 | 0 | 57°6.775 | 11°38.736 |
+| 0 | 1 | 57°6.22 | 11°39.218 |
+| 0 | 2 | 57°5.38 | 11°39.223 |
+| 0 | 3 | 57°5.04 | 11°38.842 |
+| 0 | 4 | 57°4.949 | 11°38.657 |
+| 0 | 5 | 57°4.73 | 11°38.213 |
+| 0 | 6 | 57°4.554 | 11°37.653 |
+| 0 | 7 | 57°4.548 | 11°37.222 |
+| 0 | 8 | 57°4.477 | 11°36.915 |
+| 0 | 9 | 57°4.216 | 11°35.833 |
+| 0 | 10 | 57°3.759 | 11°35.869 |
+| 0 | 11 | 57°3.711 | 11°35.774 |
+| 0 | 12 | 57°3.614 | 11°35.202 |
+| 0 | 13 | 57°3.617 | 11°34.427 |
+| 0 | 14 | 57°3.656 | 11°33.601 |
+| 0 | 15 | 57°4.247 | 11°32.264 |
+| 0 | 16 | 57°4.919 | 11°32.632 |
+| 0 | 17 | 57°5.11 | 11°32.689 |
+| 0 | 18 | 57°5.311 | 11°33.047 |
+| 0 | 19 | 57°5.385 | 11°34.028 |
+| 0 | 20 | 57°5.592 | 11°34.987 |
+| 0 | 21 | 57°5.974 | 11°36.491 |
+| 0 | 22 | 57°6.42 | 11°36.53 |
+| 0 | 23 | 57°6.798 | 11°37.603 |
+| 0 | 24 | 57°6.72 | 11°38.352 |
+| 0 | 25 | 57°6.775 | 11°38.736 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 2 | 0 | 57°2.396 | 11°29.401 |
+| 2 | 1 | 57°2.284 | 11°29.562 |
+| 2 | 2 | 57°2.176 | 11°29.618 |
+| 2 | 3 | 57°2.113 | 11°29.743 |
+| 2 | 4 | 57°2.019 | 11°29.741 |
+| 2 | 5 | 57°1.961 | 11°29.613 |
+| 2 | 6 | 57°1.943 | 11°29.452 |
+| 2 | 7 | 57°1.823 | 11°29.284 |
+| 2 | 8 | 57°1.718 | 11°29.04 |
+| 2 | 9 | 57°1.725 | 11°28.346 |
+| 2 | 10 | 57°2.526 | 11°27.918 |
+| 2 | 11 | 57°3.006 | 11°27.048 |
+| 2 | 12 | 57°3.973 | 11°27.133 |
+| 2 | 13 | 57°4.439 | 11°27.94 |
+| 2 | 14 | 57°4.455 | 11°28.804 |
+| 2 | 15 | 57°4.417 | 11°29.443 |
+| 2 | 16 | 57°4.305 | 11°29.615 |
+| 2 | 17 | 57°3.353 | 11°29.799 |
+| 2 | 18 | 57°3.169 | 11°29.657 |
+| 2 | 19 | 57°3.051 | 11°29.769 |
+| 2 | 20 | 57°2.913 | 11°29.64 |
+| 2 | 21 | 57°2.774 | 11°29.459 |
+| 2 | 22 | 57°2.648 | 11°29.383 |
+| 2 | 23 | 57°2.383 | 11°29.105 |
+| 2 | 24 | 57°2.396 | 11°29.401 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 3 | 0 | 57°1.544 | 11°31.142 |
+| 3 | 1 | 57°1.588 | 11°31.386 |
+| 3 | 2 | 57°1.383 | 11°33.166 |
+| 3 | 3 | 57°1.286 | 11°33.267 |
+| 3 | 4 | 57°0.971 | 11°33.189 |
+| 3 | 5 | 57°1.028 | 11°31.046 |
+| 3 | 6 | 57°1.117 | 11°30.919 |
+| 3 | 7 | 57°1.36 | 11°30.955 |
+| 3 | 8 | 57°1.544 | 11°31.142 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 4 | 0 | 57°1.824 | 11°27.187 |
+| 4 | 1 | 57°1.747 | 11°27.824 |
+| 4 | 2 | 57°1.413 | 11°27.824 |
+| 4 | 3 | 57°1.371 | 11°28.067 |
+| 4 | 4 | 57°0.609 | 11°27.863 |
+| 4 | 5 | 57°0.002 | 11°29.025 |
+| 4 | 6 | 56°59.622 | 11°28.775 |
+| 4 | 7 | 56°59.615 | 11°28.408 |
+| 4 | 8 | 56°58.469 | 11°28.237 |
+| 4 | 9 | 56°58.164 | 11°27.601 |
+| 4 | 10 | 56°58.44 | 11°27.153 |
+| 4 | 11 | 56°58.934 | 11°27.044 |
+| 4 | 12 | 56°59.853 | 11°27.035 |
+| 4 | 13 | 57°0.344 | 11°27.071 |
+| 4 | 14 | 57°0.664 | 11°27.048 |
+| 4 | 15 | 57°1.564 | 11°27.065 |
+| 4 | 16 | 57°1.824 | 11°27.187 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 5 | 0 | 57°0.059 | 11°31.148 |
+| 5 | 1 | 56°59.997 | 11°33.767 |
+| 5 | 2 | 56°59.705 | 11°33.788 |
+| 5 | 3 | 56°59.192 | 11°31.861 |
+| 5 | 4 | 56°59.472 | 11°31.319 |
+| 5 | 5 | 57°0.059 | 11°31.148 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 6 | 0 | 56°59.256 | 11°30.359 |
+| 6 | 1 | 56°58.434 | 11°30.746 |
+| 6 | 2 | 56°58.046 | 11°30.63 |
+| 6 | 3 | 56°58.042 | 11°29.611 |
+| 6 | 4 | 56°57.836 | 11°29.365 |
+| 6 | 5 | 56°57.836 | 11°28.938 |
+| 6 | 6 | 56°58.121 | 11°28.765 |
+| 6 | 7 | 56°59.141 | 11°29.625 |
+| 6 | 8 | 56°59.256 | 11°30.359 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 7 | 0 | 57°1.691 | 11°35.419 |
+| 7 | 1 | 57°1.757 | 11°36.356 |
+| 7 | 2 | 57°1.369 | 11°36.746 |
+| 7 | 3 | 57°0.757 | 11°36.606 |
+| 7 | 4 | 57°0.623 | 11°38.218 |
+| 7 | 5 | 57°0.608 | 11°38.286 |
+| 7 | 6 | 57°0.345 | 11°38.796 |
+| 7 | 7 | 57°0.25 | 11°38.897 |
+| 7 | 8 | 57°0.175 | 11°38.867 |
+| 7 | 9 | 57°0.207 | 11°37.727 |
+| 7 | 10 | 57°0.341 | 11°36.414 |
+| 7 | 11 | 56°59.432 | 11°37.405 |
+| 7 | 12 | 56°59.354 | 11°37.403 |
+| 7 | 13 | 56°59.293 | 11°37.323 |
+| 7 | 14 | 56°59.237 | 11°37.152 |
+| 7 | 15 | 56°59.238 | 11°36.752 |
+| 7 | 16 | 56°59.092 | 11°36.709 |
+| 7 | 17 | 56°59.037 | 11°36.643 |
+| 7 | 18 | 56°58.855 | 11°36.102 |
+| 7 | 19 | 56°58.792 | 11°35.767 |
+| 7 | 20 | 56°58.785 | 11°35.623 |
+| 7 | 21 | 56°58.694 | 11°35.487 |
+| 7 | 22 | 56°58.674 | 11°35.312 |
+| 7 | 23 | 56°58.716 | 11°35.158 |
+| 7 | 24 | 56°59.467 | 11°34.555 |
+| 7 | 25 | 56°59.693 | 11°34.552 |
+| 7 | 26 | 57°0.217 | 11°34.706 |
+| 7 | 27 | 57°0.741 | 11°34.714 |
+| 7 | 28 | 57°1.051 | 11°34.592 |
+| 7 | 29 | 57°1.338 | 11°34.483 |
+| 7 | 30 | 57°1.691 | 11°35.419 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 8 | 0 | 57°0.278 | 11°42.342 |
+| 8 | 1 | 57°0.27 | 11°42.99 |
+| 8 | 2 | 57°0.162 | 11°43.138 |
+| 8 | 3 | 56°59.977 | 11°43.066 |
+| 8 | 4 | 56°59.945 | 11°42.621 |
+| 8 | 5 | 56°59.977 | 11°42.004 |
+| 8 | 6 | 57°0.034 | 11°41.944 |
+| 8 | 7 | 57°0.085 | 11°41.925 |
+| 8 | 8 | 57°0.144 | 11°41.936 |
+| 8 | 9 | 57°0.225 | 11°42.037 |
+| 8 | 10 | 57°0.278 | 11°42.342 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 9 | 0 | 56°58.272 | 11°41.462 |
+| 9 | 1 | 56°58.321 | 11°41.642 |
+| 9 | 2 | 56°58.338 | 11°41.8 |
+| 9 | 3 | 56°58.307 | 11°43.046 |
+| 9 | 4 | 56°57.984 | 11°42.996 |
+| 9 | 5 | 56°57.719 | 11°42.269 |
+| 9 | 6 | 56°57.734 | 11°39.667 |
+| 9 | 7 | 56°58.108 | 11°39.681 |
+| 9 | 8 | 56°58.142 | 11°40.603 |
+| 9 | 9 | 56°57.97 | 11°40.96 |
+| 9 | 10 | 56°57.933 | 11°41.139 |
+| 9 | 11 | 56°58.167 | 11°41.264 |
+| 9 | 12 | 56°58.272 | 11°41.462 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 10 | 0 | 57°1.404 | 11°30.882 |
+| 10 | 1 | 57°1.304 | 11°30.889 |
+| 10 | 2 | 57°1.26 | 11°30.852 |
+| 10 | 3 | 57°1.15 | 11°30.696 |
+| 10 | 4 | 57°1.076 | 11°30.533 |
+| 10 | 5 | 57°1.133 | 11°30.131 |
+| 10 | 6 | 57°1.415 | 11°30.158 |
+| 10 | 7 | 57°1.482 | 11°30.661 |
+| 10 | 8 | 57°1.404 | 11°30.882 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| 11 | 0 | 57°2.574 | 11°29.607 |
+| 11 | 1 | 57°2.781 | 11°29.759 |
+| 11 | 2 | 57°2.871 | 11°29.913 |
+| 11 | 3 | 57°2.909 | 11°30.075 |
+| 11 | 4 | 57°3.007 | 11°30.265 |
+| 11 | 5 | 57°3.088 | 11°30.496 |
+| 11 | 6 | 57°3.166 | 11°30.599 |
+| 11 | 7 | 57°3.27 | 11°30.788 |
+| 11 | 8 | 57°3.325 | 11°31.79 |
+| 11 | 9 | 57°3.297 | 11°32.063 |
+| 11 | 10 | 57°3.04 | 11°32.7 |
+| 11 | 11 | 57°2.98 | 11°32.707 |
+| 11 | 12 | 57°2.891 | 11°32.607 |
+| 11 | 13 | 57°2.847 | 11°32.497 |
+| 11 | 14 | 57°2.847 | 11°32.373 |
+| 11 | 15 | 57°2.958 | 11°31.733 |
+| 11 | 16 | 57°2.892 | 11°31.59 |
+| 11 | 17 | 57°2.851 | 11°31.422 |
+| 11 | 18 | 57°2.857 | 11°31.317 |
+| 11 | 19 | 57°2.891 | 11°31.143 |
+| 11 | 20 | 57°2.737 | 11°31.031 |
+| 11 | 21 | 57°2.559 | 11°30.872 |
+| 11 | 22 | 57°2.399 | 11°30.607 |
+| 11 | 23 | 57°2.39 | 11°30.299 |
+| 11 | 24 | 57°2.25 | 11°30.055 |
+| 11 | 25 | 57°2.239 | 11°29.976 |
+| 11 | 26 | 57°2.412 | 11°29.623 |
+| 11 | 27 | 57°2.574 | 11°29.607 |
+
+**1(9): Marine Strategy Framework Directive areas**
+
+a) MSFD Area A
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| A | 0 | 57°01.805′ | 10°40.61′ |
+| A | 1 | 57°15.855′ | 10°37.688′ |
+| A | 2 | 57°16.812′ | 10°40.258′ |
+| A | 3 | 57°22.753′ | 10°40.844′ |
+| A | 4 | 57°22.67′ | 10°41.177′ |
+| A | 5 | 57°16.005′ | 10°43.465′ |
+| A | 6 | 57°14.709′ | 10°42.491′ |
+| A | 7 | 57°12.874′ | 10°43.04′ |
+| A | 8 | 57°10.521′ | 10°43.876′ |
+| A | 9 | 57°10.013′ | 10°45.51′ |
+| A | 10 | 57°07.807′ | 10°46.26′ |
+| A | 11 | 57°06.255′ | 10°44.799′ |
+| A | 12 | 57°01.997′ | 10°45.825′ |
+| A | 13 | 57°01.805′ | 10°40.61′ |
+
+b) MSFD Area B
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| B | 0 | 57°16.654′ | 11°24.312′ |
+| B | 1 | 57°16.849′ | 11°23.921′ |
+| B | 2 | 57°16.974′ | 11°23.282′ |
+| B | 3 | 57°17.521′ | 11°23.305′ |
+| B | 4 | 57°18.287′ | 11°22.807′ |
+| B | 5 | 57°18.827′ | 11°22.27′ |
+| B | 6 | 57°19.265′ | 11°22.546′ |
+| B | 7 | 57°18.908′ | 11°24.134′ |
+| B | 8 | 57°18.114′ | 11°24.229′ |
+| B | 9 | 57°18.092′ | 11°23.693′ |
+| B | 10 | 57°16.996′ | 11°23.747′ |
+| B | 11 | 57°16.823′ | 11°24.173′ |
+| B | 12 | 57°16.751′ | 11°24.683′ |
+| B | 13 | 57°16.654′ | 11°24.312′ |
+
+c) MSFD Area C
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| C2 | 0 | 57°12.192′ | 11°25.28′ |
+| C2 | 1 | 57°11.285′ | 11°25.145′ |
+| C2 | 2 | 57°11.318′ | 11°23.744′ |
+| C2 | 3 | 57°12.291′ | 11°21.799′ |
+| C2 | 4 | 57°12.656′ | 11°21.614′ |
+| C2 | 5 | 57°13.225′ | 11°21.585′ |
+| C2 | 6 | 57°13.204′ | 11°22.243′ |
+| C2 | 7 | 57°12.937′ | 11°22.295′ |
+| C2 | 8 | 57°12.548′ | 11°22.53′ |
+| C2 | 9 | 57°12.255′ | 11°23.275′ |
+| C2 | 10 | 57°12.192′ | 11°25.28′ |
+| C1 | 0 | 57°12.752′ | 11°24.051′ |
+| C1 | 1 | 57°12.543′ | 11°24.437′ |
+| C1 | 2 | 57°12.62′ | 11°23.653′ |
+| C1 | 3 | 57°12.803′ | 11°23.332′ |
+| C1 | 4 | 57°13.108′ | 11°23.216′ |
+| C1 | 5 | 57°13.321′ | 11°23.289′ |
+| C1 | 6 | 57°14.053′ | 11°24.597′ |
+| C1 | 7 | 57°14.06′ | 11°24.884′ |
+| C1 | 8 | 57°13.783′ | 11°25.328′ |
+| C1 | 9 | 57°13.66′ | 11°25.328′ |
+| C1 | 10 | 57°12.752′ | 11°24.051′ |
+
+d) MSFD Area D
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| D1 | 0 | 57°04.583′ | 11°30.511′ |
+| D1 | 1 | 57°04.583′ | 11°30.294′ |
+| D1 | 2 | 57°04.694′ | 11°29.86′ |
+| D1 | 3 | 57°04.835′ | 11°29.589′ |
+| D1 | 4 | 57°05.545′ | 11°28.944′ |
+| D1 | 5 | 57°05.817′ | 11°29.035′ |
+| D1 | 6 | 57°05.959′ | 11°29.944′ |
+| D1 | 7 | 57°05.071′ | 11°30.542′ |
+| D1 | 8 | 57°04.824′ | 11°31.024′ |
+| D1 | 9 | 57°04.736′ | 11°30.998′ |
+| D1 | 10 | 57 4.583’ | 11 30.511’ |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| D2 | 0 | 57°8.264 | 11°35.94 |
+| D2 | 1 | 57°7.746 | 11°35.887 |
+| D2 | 2 | 57°7.77 | 11°37.062 |
+| D2 | 3 | 57°8.394 | 11°38.925 |
+| D2 | 4 | 57°7.16 | 11°39.914 |
+| D2 | 5 | 57°6.81 | 11°39.376 |
+| D2 | 6 | 57°6.257 | 11°39.54 |
+| D2 | 7 | 57°5.99 | 11°39.867 |
+| D2 | 8 | 57°5.725 | 11°40.463 |
+| D2 | 9 | 57°5.628 | 11°41.06 |
+| D2 | 10 | 57°5.581 | 11°41.18 |
+| D2 | 11 | 57°5.191 | 11°41.492 |
+| D2 | 12 | 57°5.182 | 11°41.477 |
+| D2 | 13 | 57°5.075 | 11°41.365 |
+| D2 | 14 | 57°4.857 | 11°41.132 |
+| D2 | 15 | 57°4.622 | 11°41.134 |
+| D2 | 16 | 57°4.191 | 11°41.866 |
+| D2 | 17 | 57°4.148 | 11°42.326 |
+| D2 | 18 | 57°2.98 | 11°43.259 |
+| D2 | 19 | 57°2.806 | 11°41.852 |
+| D2 | 20 | 57°3.209 | 11°40.518 |
+| D2 | 21 | 57°3.304 | 11°39.29 |
+| D2 | 22 | 57°3.758 | 11°38.938 |
+| D2 | 23 | 57°3.975 | 11°36.3 |
+| D2 | 24 | 57°3.711 | 11°35.774 |
+| D2 | 25 | 57°3.614 | 11°35.202 |
+| D2 | 26 | 57°3.617 | 11°34.427 |
+| D2 | 27 | 57°3.314 | 11°33.866 |
+| D2 | 28 | 57°3.089 | 11°33.923 |
+| D2 | 29 | 57°2.854 | 11°34.319 |
+| D2 | 30 | 57°2.804 | 11°34.954 |
+| D2 | 31 | 57°2.621 | 11°36.229 |
+| D2 | 32 | 57°2.495 | 11°36.405 |
+| D2 | 33 | 57°2.088 | 11°36.225 |
+| D2 | 34 | 57°2.367 | 11°34.371 |
+| D2 | 35 | 57°2.549 | 11°34.37 |
+| D2 | 36 | 57°2.78 | 11°33.348 |
+| D2 | 37 | 57°3.592 | 11°31.329 |
+| D2 | 38 | 57°4.179 | 11°30.455 |
+| D2 | 39 | 57°4.237 | 11°30.529 |
+| D2 | 40 | 57°4.494 | 11°31.254 |
+| D2 | 41 | 57°4.489 | 11°31.353 |
+| D2 | 42 | 57°4.218 | 11°31.838 |
+| D2 | 43 | 57°4.247 | 11°32.264 |
+| D2 | 44 | 57°4.919 | 11°32.632 |
+| D2 | 45 | 57°4.543 | 11°34.496 |
+| D2 | 46 | 57°4.477 | 11°36.915 |
+| D2 | 47 | 57°4.548 | 11°37.222 |
+| D2 | 48 | 57°4.554 | 11°37.653 |
+| D2 | 49 | 57°4.73 | 11°38.213 |
+| D2 | 50 | 57°4.949 | 11°38.657 |
+| D2 | 51 | 57°5.04 | 11°38.842 |
+| D2 | 52 | 57°5.38 | 11°39.223 |
+| D2 | 53 | 57°6.22 | 11°39.218 |
+| D2 | 54 | 57°6.954 | 11°38.581 |
+| D2 | 55 | 57°7.26 | 11°38.007 |
+| D2 | 56 | 57°6.486 | 11°33.188 |
+| D2 | 57 | 57°7.544 | 11°33.222 |
+| D2 | 58 | 57°7.909 | 11°33.296 |
+| D2 | 59 | 57°8.179 | 11°33.391 |
+| D2 | 60 | 57°9.431 | 11°33.87 |
+| D2 | 61 | 57°10.72 | 11°33.563 |
+| D2 | 62 | 57°9.58 | 11°36.494 |
+| D2 | 63 | 57°8.653 | 11°35.967 |
+| D2 | 64 | 57°8.264 | 11°35.94 |
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| D3 | 0 | 57° 02.544′ | 11°39.187 |
+| D3 | 1 | 57°01.6′ | 11°38.839 |
+| D3 | 2 | 57°01.878′ | 11°38.249 |
+| D3 | 3 | 57°02.298′ | 11°37.962 |
+| D3 | 4 | 57°02.357′ | 11°37.41 |
+| D3 | 5 | 57°02.656′ | 11°37.35 |
+| D3 | 6 | 57°02.899′ | 11°39.749 |
+| D3 | 7 | 57°02.66′ | 11°39.75′ |
+| D3 | 8 | 57°02.544′ | 11°39.187′ |
+
+e) MSFD Area E
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| E | 0 | 56°35.127′ | 12°05.206′ |
+| E | 1 | 56°32.944′ | 12°06.901′ |
+| E | 2 | 56°32.569′ | 12°04.735′ |
+| E | 3 | 56°28.129′ | 12°04.782′ |
+| E | 4 | 56°29.34′ | 11°59.16′ |
+| E | 5 | 56°35.101′ | 11°58.672′ |
+| E | 6 | 56°35.127′ | 12°05.206′ |
+
+f) MSFD Area F
+
+| Area | Point | Latitude N | Longitude E |
+| --- | --- | --- | --- |
+| F | 0 | 56°13.468′ | 11°26.457′ |
+| F | 1 | 56°10.173′ | 11°35.112′ |
+| F | 2 | 56°02.724′ | 11°28.758′ |
+| F | 3 | 55°59.343′ | 11°22.12′ |
+| F | 4 | 55°59.168′ | 11°20.053′ |
+| F | 5 | 56°00.095′ | 11°18.065′ |
+| F | 6 | 56°02.625′ | 11°15.682′ |
+| F | 7 | 56°13.468′ | 11°26.457′ |
+
+**1(10.a): Central area of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+**Management zone A in the central area of Sylter Aussenriff**
+
+The geographical area enclosed by:
+
+a) seaward separation line between the German and Danish Exclusive Economic Zones from 55,234408° N 7,210530° E to 55,141825° N 7,735990° E;
+
+b) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M1a-A01 | 55,141825 ° | 7,735990 ° |
+| M1a-A02 | 54,945932 ° | 7,791085 ° |
+| M1a-A03 | 54,945951 ° | 7,726601 ° |
+| M1a-A04 | 55,029500 ° | 7,519153 ° |
+| M1a-A05 | 55,029500 ° | 7,190752 ° |
+| M1a-A06 | 55,048333 ° | 7,256667 ° |
+| M1a-A07 | 55,234408 ° | 7,210530 ° |
+
+**Management zone B in the central area of Sylter Aussenriff**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M1a-B01 | 55,042270 ° | 6,700000 ° |
+| M1a-B02 | 54,957222 ° | 6,938056 ° |
+| M1a-B03 | 54,993919 ° | 7,066298 ° |
+| M1a-B04 | 54,979165 ° | 7,207458 ° |
+| M1a-B05 | 54,898781 ° | 7,443912 ° |
+| M1a-B06 | 54,898779 ° | 7,630254 ° |
+| M1a-B07 | 54,538889 ° | 7,778333 ° |
+| M1a-B08 | 54,538889 ° | 7,020278 ° |
+| M1a-B09 | 54,727328 ° | 6,700000 ° |
+| M1a-B01 | 55,042270 ° | 6,700000 ° |
+
+**1(10.b): Eastern area of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+**Management zone C in the eastern area of Sylter Aussenriff**
+
+The geographical area enclosed by:
+
+a) seaward separation line between the German and Danish Exclusive Economic Zones from 55,141825° N 7,735990° E to 55,099172° N 8,044370° E;
+
+b) seaward delimitation line of the German territorial sea from 55,099172° N 8,044370° E to 54,906728° N 7,944550° E;
+
+c) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M1b-C01 | 54,906728 ° | 7,944550 ° |
+| M1b-C02 | 54,906673 ° | 7,853855 ° |
+| M1b-C03 | 54,945913 ° | 7,853922 ° |
+| M1b-C04 | 54,945932 ° | 7,791085 ° |
+| M1b-C05 | 55,141825 ° | 7,735990 ° |
+
+**Management zone D in the eastern area of Sylter Aussenriff**
+
+The geographical area enclosed by:
+
+a) seaward delimitation line of the German territorial sea from 54,800580° N 7,936317° E to 54,498738° N 8,038533° E;
+
+b) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M1b-D01 | 54,498738 ° | 8,038533 ° |
+| M1b-D02 | 54,538889 ° | 7,778333 ° |
+| M1b-D03 | 54,898779 ° | 7,630254 ° |
+| M1b-D04 | 54,898779 ° | 7,710663 ° |
+| M1b-D05 | 54,800568 ° | 7,806460 ° |
+| M1b-D06 | 54,800580 ° | 7,936317 ° |
+
+**1(10.az): Alert zones of 4 nautical miles surrounding the four management zones in the central and eastern areas of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+**1(11): Natura 2000 site DE2104-301 Borkum-Riffgrund (Borkum Reef Ground)**
+
+The geographical area enclosed by:
+
+a) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M5-01 | 54,016833 ° | 6,095963 ° |
+| M5-02 | 54,016389 ° | 6,351944 ° |
+| M5-03 | 53,914722 ° | 6,490000 ° |
+| M5-04 | 53,914722 ° | 6,673611 ° |
+| M5-05 | 53,863476 ° | 6,731941 ° |
+
+b) seaward delimitation line of the German territorial sea from 53,863476° N 6,731941° E to 53,724495° N 6,345843° E;
+
+c) seaward separation line between the German and Dutch Exclusive Economic Zones from 53,724495° N 6,345843° E to 54,016833° N 6,095963° E.
+
+**1(11.az): Alert zone of 4 nautical miles surrounding the Natura 2000 site DE2104-301 Borkum-Riffgrund (Borkum Reef Ground)**
+
+**1(12): Natura 2000 site NL2008002 Klaverbank (Cleaver Bank)**
+
+The geographical areas enclosed by rhumb lines sequentially joining the following coordinates:
+
+**Management zone 1 in Klaverbank**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1-01 | 54°16.428′ | 2°58.813′ |
+| 1-02 | 54°16.237′ | 3°09.634′ |
+| 1-03 | 54°17.609′ | 3°19.076′ |
+| 1-04 | 54°15.828′ | 3°19.060′ |
+| 1-05 | 54°12.399′ | 3°03.013′ |
+| 1-06 | 54°12.330′ | 2°59.445′ |
+
+**Management zone 2 in Klaverbank**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 2-01 | 54°12.717′ | 3°17.402′ |
+| 2-02 | 54°02.162′ | 3°16.451′ |
+| 2-03 | 53°56.917′ | 3°12.180′ |
+| 2-04 | 53°57.077′ | 3°08.453′ |
+| 2-05 | 54°00.109′ | 3°05.336′ |
+| 2-06 | 54°11.148′ | 3°06.759′ |
+
+**Management zone 3 in Klaverbank**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 3-01 | 54°11.259′ | 2°48.729′ |
+| 3-02 | 54°09.725′ | 2°58.211′ |
+| 3-03 | 54°05.298′ | 2°59.430′ |
+| 3-04 | 53°59.037′ | 2°59.598′ |
+| 3-05 | 53°59.085′ | 2°55.967′ |
+| 3-06 | 54°05.252′ | 2°50.152′ |
+
+**Management zone 4 in Klaverbank**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 4-01 | 53°59.302′ | 2°51.534′ |
+| 4-02 | 53°56.072′ | 2°57.737′ |
+| 4-03 | 53°53.177′ | 3°03.056′ |
+| 4-04 | 53°51.095′ | 3°03.775′ |
+| 4-05 | 53°51.186′ | 2°53.928′ |
+| 4-06 | 53°58.168′ | 2°51.813′ |
+
+**1(12.az): Alert zone of 4 nautical miles surrounding the 4 management zones in the Natura 2000 site NL2008002 Klaverbank (Cleaver Bank)**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| AZ-01 | 54°22.717′ | 3°25.970′ |
+| AZ-02 | 54°17.585′ | 3°25.910′ |
+| AZ-03 | 54°15.804′ | 3°25.889′ |
+| AZ-04 | 54°13.017′ | 3°25.856′ |
+| AZ-05 | 54°12.673′ | 3°24.228′ |
+| AZ-06 | 54°12.502′ | 3°24.212′ |
+| AZ-07 | 54°01.948′ | 3°23.232′ |
+| AZ-08 | 54°01.149′ | 3°23.159′ |
+| AZ-09 | 54°00.428′ | 3°22.568′ |
+| AZ-10 | 53°55.187′ | 3°18.287′ |
+| AZ-11 | 53°52.730′ | 3°16.288′ |
+| AZ-12 | 53°52.930′ | 3°11.687′ |
+| AZ-13 | 53°53.001′ | 3°10.022′ |
+| AZ-14 | 53°51.891′ | 3°10.402′ |
+| AZ-15 | 53°47.009′ | 3°12.069′ |
+| AZ-16 | 53°47.098′ | 3°03.661′ |
+| AZ-17 | 53°47.189′ | 2°53.829′ |
+| AZ-18 | 53°47.235′ | 2°48.260′ |
+| AZ-19 | 53°50.481′ | 2°47.273′ |
+| AZ-20 | 53°57.460′ | 2°45.141′ |
+| AZ-21 | 53°57.525′ | 2°45.121′ |
+| AZ-22 | 53°57.590′ | 2°45.105′ |
+| AZ-23 | 53°58.725′ | 2°44.822′ |
+| AZ-24 | 54°09.495′ | 2°42.127′ |
+| AZ-25 | 54°09.411′ | 2°42.289′ |
+| AZ-26 | 54°10.704′ | 2°41.979′ |
+| AZ-27 | 54°16.716′ | 2°40.532′ |
+| AZ-28 | 54°15.113′ | 2°50.536′ |
+| AZ-29 | 54°14.845′ | 2°52.203′ |
+| AZ-30 | 54°16.065′ | 2°52.011′ |
+| AZ-31 | 54°20.550′ | 2°51.304′ |
+| AZ-32 | 54°20.424′ | 2°59.010′ |
+| AZ-33 | 54°20.250′ | 3°08.899′ |
+| AZ-34 | 54°21.489′ | 3°17.435′ |
+| AZ-35 | 54°22.717′ | 3°25.970′ |
+| AZ-36 | 54°17.609′ | 3°19.076′ |
+| AZ-37 | 54°16.237′ | 3°09.634′ |
+| AZ-38 | 54°16.428′ | 2°58.813′ |
+| AZ-39 | 54°12.330′ | 2°59.445′ |
+| AZ-40 | 54°12.399′ | 3°03.013′ |
+| AZ-41 | 54°15.828′ | 3°19.060′ |
+| AZ-42 | 54°17.609′ | 3°19.076′ |
+| AZ-43 | 54°12.717′ | 3°17.402′ |
+| AZ-44 | 54°11.148′ | 3°06.759′ |
+| AZ-45 | 54°00.109′ | 3°05.336′ |
+| AZ-46 | 53°57.077′ | 3°08.453′ |
+| AZ-47 | 53°56.917′ | 3°12.180′ |
+| AZ-48 | 54°02.162′ | 3°16.451′ |
+| AZ-49 | 54°12.717′ | 3°17.402′ |
+| AZ-50 | 53°56.072′ | 2°57.737′ |
+| AZ-51 | 53°59.302′ | 2°51.534′ |
+| AZ-52 | 53°58.168′ | 2°51.813′ |
+| AZ-53 | 53°51.186′ | 2°53.928′ |
+| AZ-54 | 53°51.095′ | 3°03.775′ |
+| AZ-55 | 53°53.177′ | 3°03.056′ |
+| AZ-56 | 53°56.072′ | 2°57.737′ |
+| AZ-57 | 53°59.085′ | 2°55.967′ |
+| AZ-58 | 53°59.037′ | 2°59.598′ |
+| AZ-59 | 54°05.298′ | 2°59.430′ |
+| AZ-60 | 54°09.725′ | 2°58.211′ |
+| AZ-61 | 54°11.259′ | 2°48.729′ |
+| AZ-62 | 54°05.252′ | 2°50.152′ |
+| AZ-63 | 53°59.085′ | 2°55.967′ |
+
+**1(13): Friese Front (Frisian Front) and Centrale Oestergronden (Central Oyster Grounds) marine protected areas**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+**Management zone 1 in Friese Front:**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1-01 | 53°48.229′ | 4°59.978′ |
+| 1-02 | 53°48.216′ | 5°18.190′ |
+| 1-03 | 53°37.436′ | 5°18.130′ |
+| 1-04 | 53°37.449′ | 4°59.995′ |
+
+**Management zone 2 in Friese Front:**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 2-01 | 53°35.227′ | 4°38.324′ |
+| 2-02 | 53°48.525′ | 4°22.820′ |
+| 2-03 | 53°54.659 | 4°37.815′ |
+| 2-04 | 53°41.330′ | 4°53.278′ |
+
+**Management zone in Centrale Oestergronden:**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 3-01 | 54°56.921′ | 4°14.985′ |
+| 3-02 | 54°35.372′ | 4°14.985′ |
+| 3-03 | 54°35.335′ | 3°51.791′ |
+| 3-04 | 54°56.884′ | 3°51.589′ |
+
+**1(13.az): Alert zone of 4 nautical miles surrounding the 3 management zones in Friese Front (Frisian Front) and in Centrale Oestergronden (Central Oyster Grounds) marine protected areas.**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| AZ-01 | 53°56.926′ | 4°43.393′ |
+| AZ-02 | 53°48.455′ | 4°53.224′ |
+| AZ-03 | 53°52.219′ | 4°53.209′ |
+| AZ-04 | 53°52.226′ | 4°59.971′ |
+| AZ-05 | 53°52.213′ | 5°18.212′ |
+| AZ-06 | 53°52.196′ | 5°24.975′ |
+| AZ-07 | 53°48.200′ | 5°24.941′ |
+| AZ-08 | 53°37.420′ | 5°24.853′ |
+| AZ-09 | 53°33.423′ | 5°24.820′ |
+| AZ-10 | 53°33.439′ | 5°18.107′ |
+| AZ-11 | 53°33.451′ | 5°00.001′ |
+| AZ-12 | 53°33.444′ | 4°53.288′ |
+| AZ-13 | 53°36.485′ | 4°53.275′ |
+| AZ-14 | 53°31.935′ | 4°42.132′ |
+| AZ-15 | 53°29.667′ | 4°36.609′ |
+| AZ-16 | 53°32.956′ | 4°32.797′ |
+| AZ-17 | 53°46.242′ | 4°17.277′ |
+| AZ-18 | 53°49.521′ | 4°13.416′ |
+| AZ-19 | 53°51.807′ | 4°18.961′ |
+| AZ-20 | 53°57.949′ | 4°33.967′ |
+| AZ-21 | 54°00.218′ | 4°39.550′ |
+| AZ-22 | 53°56.926′ | 4°43.393′ |
+| AZ-23 | 53°48.525′ | 4°22.820′ |
+| AZ-24 | 53°35.227′ | 4°38.324′ |
+| AZ-25 | 53°41.330′ | 4°53.278′ |
+| AZ-26 | 53°54.659′ | 4°37.815′ |
+| AZ-27 | 53°48.525′ | 4°22.820′ |
+| AZ-28 | 53°48.229′ | 4°59.978′ |
+| AZ-29 | 53°37.449′ | 4°59.995′ |
+| AZ-30 | 53°37.436′ | 5°18.130′ |
+| AZ-31 | 53°48.216′ | 5°18.190′ |
+| AZ-32 | 53°48.229′ | 4°59.978′ |
+| AZ-33 | 54°56.918′ | 4°21.929′ |
+| AZ-34 | 54°35.368′ | 4°21.867′ |
+| AZ-35 | 54°31.371′ | 4°21.856′ |
+| AZ-36 | 54°31.375′ | 4°14.984′ |
+| AZ-37 | 54°31.338′ | 3°51.829′ |
+| AZ-38 | 54°31.313′ | 3°44.957′ |
+| AZ-39 | 54°35.310′ | 3°44.909′ |
+| AZ-40 | 54°56.859′ | 3°44.645′ |
+| AZ-41 | 55°00.856′ | 3°44.596′ |
+| AZ-42 | 55°00.881′ | 3°51.550′ |
+| AZ-43 | 55°00.918′ | 4°14.986′ |
+| AZ-44 | 55°00.914′ | 4°21.941′ |
+| AZ-45 | 54°56.918′ | 4°21.929′ |
+| AZ-46 | 54°56.884′ | 3°51.589′ |
+| AZ-47 | 54°35.335′ | 3°51.791′ |
+| AZ-48 | 54°35.372′ | 4°14.985′ |
+| AZ-49 | 54°56.921′ | 4°14.985′ |
+| AZ-50 | 54°56.884′ | 3°51.589′ |
+
+**1(14): Management zone located in the Southern part of the Dutch Natura 2000 site Dogger Bank (NL2008001).**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N (y) | Longitude E (x) |
+| --- | --- | --- |
+| A01 | 55,219539 ° | 4,032589 ° |
+| A02 | 54,399216 ° | 2,793136 ° |
+| A03 | 54,380169 ° | 2,763327 ° |
+| A04 | 54,399905 ° | 2,773361 ° |
+| A05 | 54,566153 ° | 2,866138 ° |
+| A06 | 54,600000 ° | 2,900000 ° |
+| A07 | 54,600000 ° | 3,000000 ° |
+| A08 | 54,900000 ° | 3,300000 ° |
+| A09 | 54,900000 ° | 3,450000 ° |
+| A10 | 55,200000 ° | 3,750000 ° |
+| A11 | 55,250000 ° | 3,700000 ° |
+| A12 | 55,300000 ° | 3,700000 ° |
+| A13 | 55,350000 ° | 3,750000 ° |
+| A14 | 55,350098 ° | 3,900085 ° |
+
+**1(14.az): Alert zone of 4nm surrounding the management zone located in the Southern part of the Dutch Natura 2000 site Dogger Bank (NL2008001).**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N (y) | Longitude E (x) |
+| --- | --- | --- |
+| AAZ01 | 55,398662 ° | 3,985798 ° |
+| AAZ02 | 55,244121 ° | 4,142261 ° |
+| AAZ03 | 55,223544 ° | 4,150326 ° |
+| AAZ04 | 55,202652 ° | 4,146567 ° |
+| AAZ05 | 55,183685 ° | 4,132361 ° |
+| AAZ06 | 54,323936 ° | 2,831891 ° |
+| AAZ07 | 54,312857 ° | 2,779999 ° |
+| AAZ08 | 54,314559 ° | 2,733106 ° |
+| AAZ09 | 54,326877 ° | 2,690952 ° |
+| AAZ10 | 54,348385 ° | 2,660469 ° |
+| AAZ11 | 54,374488 ° | 2,647378 ° |
+| AAZ12 | 54,397131 ° | 2,651871 ° |
+| AAZ13 | 54,593427 ° | 2,760873 ° |
+| AAZ14 | 54,648790 ° | 2,816134 ° |
+| AAZ15 | 54,666567 ° | 2,869256 ° |
+| AAZ16 | 54,666585 ° | 2,933614 ° |
+| AAZ17 | 54,948760 ° | 3,215421 ° |
+| AAZ18 | 54,966563 ° | 3,269037 ° |
+| AAZ19 | 54,966595 ° | 3,382883 ° |
+| AAZ20 | 55,200096 ° | 3,615802 ° |
+| AAZ21 | 55,224445 ° | 3,591366 ° |
+| AAZ22 | 55,241259 ° | 3,583495 ° |
+| AAZ23 | 55,308592 ° | 3,583298 ° |
+| AAZ24 | 55,325405 ° | 3,591057 ° |
+| AAZ25 | 55,398486 ° | 3,663960 ° |
+| AAZ26 | 55,416545 ° | 3,718386 ° |
+| AAZ27 | 55,416683 ° | 3,931697 ° |
+| AAZ28 | 55,398662 ° | 3,985798 ° |
+
+**1(15): Management zone located in Northern part of the German and Dutch Natura 2000 sites Dogger Bank (NL2008001 and DE1003301).**
+
+The geographical area enclosed by:
+
+(a) seaward separation line between the German and Danish Exclusive Economic Zones from coordinates of point B01 55,810118° N 4,019211° E to latitude 55,685000° N;
+
+(b) rhumb line between the intersection of the seaward separation line between the German and Danish Exclusive Economic Zones with latitude 55,685000° N to coordinates of point B02 55,685000° N 4,000000° E in the German Exclusive Economic Zone;
+
+(c) rhumb lines sequentially joining the following coordinates in the German Exclusive Economic Zone:
+
+| Point | Latitude N (y) | Longitude E (x) |
+| --- | --- | --- |
+| B02 | 55,685000 ° | 4,000000 ° |
+| B03 | 55,650000 ° | 4,000000 ° |
+| B04 | 55,650000 ° | 4,100000 ° |
+| B05 | 55,550000 ° | 4,200000 ° |
+| B06 | 55,550000 ° | 4,250000 ° |
+| B07 | 55,450000 ° | 4,250000 ° |
+
+(d) rhumb line from coordinates of point B07 55,450000° N 4,250000° E westwards along latitude 55,450000° N to the seaward separation line between the German and Dutch Exclusive Economic Zones;
+
+(e) seaward separation line between the German and Dutch Exclusive Economic Zones from latitude 55,450000° N northwards to latitude 55,550000° N;
+
+(f) rhumb line between the intersection of the seaward separation line between the German and Dutch Exclusive Economic Zones with latitude 55,550000° N westwards to coordinates of point B08 55,550000° N 3,700000° E in the Dutch Exclusive Economic Zone;
+
+(g) rhumb lines sequentially joining the following coordinates in the Dutch Exclusive Economic Zone
+
+| Point | Latitude N (y) | Longitude E (x) |
+| --- | --- | --- |
+| B08 | 55,550000 ° | 3,700000 ° |
+| B09 | 55,500000 ° | 3,650000 ° |
+| B10 | 55,500000 ° | 3,500000 ° |
+| B11 | 55,586973 ° | 3,500000 ° |
+| B12 | 55,645090 ° | 3,635784 ° |
+
+(h) rhumb line between coordinates of point B12 55,645090° N 3,635784° E in the Dutch Exclusive Economic Zone to coordinates of point B13 55,645643°N 3,637786° E in the German Exclusive Economic Zone;
+
+(i) rhumb line between coordinates of point B13 55,645643°N 3,637786° E and point B01(14) 55,810118° N 4,019211° E in the German Exclusive Economic Zone, so that the management zone ends again at the seaward separation line between the German and Danish Exclusive Economic Zones;
+
+(j) the seaward separation line between the German and Danish Exclusive Economic Zones divides the management zone in its Dutch and German part.
+
+**1(15.az): Alert zone of 4nm surrounding the management zone in the Northern part of the German and Dutch Natura 2000 sites Dogger Bank (NL2008001 and DE1003301).**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N (y) | Longitude E (x) |
+| --- | --- | --- |
+| BAZ01 | 55,433416 ° | 3,476653 ° |
+| BAZ02 | 55,443556 ° | 3,433622 ° |
+| BAZ03 | 55,462242 ° | 3,400651 ° |
+| BAZ04 | 55,486706 ° | 3,382738 ° |
+| BAZ05 | 55,602823 ° | 3,382392 ° |
+| BAZ06 | 55,630758 ° | 3,407319 ° |
+| BAZ07 | 55,698214 ° | 3,564762 ° |
+| BAZ08 | 55,701245 ° | 3,572502 ° |
+| BAZ09 | 55,872807 ° | 3,970108 ° |
+| BAZ10 | 55,878430 ° | 4,025862 ° |
+| BAZ11 | 55,832928 ° | 4,299922 ° |
+| BAZ12 | 55,821027 ° | 4,330757 ° |
+| BAZ13 | 55,710591 ° | 4,481739 ° |
+| BAZ14 | 55,672619 ° | 4,488346 ° |
+| BAZ15 | 55,638451 ° | 4,458485 ° |
+| BAZ16 | 55,618418 ° | 4,401279 ° |
+| BAZ17 | 55,618418 ° | 4,266729 ° |
+| BAZ18 | 55,615659 ° | 4,269480 ° |
+| BAZ19 | 55,613795 ° | 4,289388 ° |
+| BAZ20 | 55,602241 ° | 4,325939 ° |
+| BAZ21 | 55,584202 ° | 4,352839 ° |
+| BAZ22 | 55,562052 ° | 4,367487 ° |
+| BAZ23 | 55,436703 ° | 4,367114 ° |
+| BAZ24 | 55,412262 ° | 4,349244 ° |
+| BAZ25 | 55,393541 ° | 4,316288 ° |
+| BAZ26 | 55,383415 ° | 4,273270 ° |
+| BAZ27 | 55,383415 ° | 4,054121 ° |
+| BAZ28 | 55,390787 ° | 4,016721 ° |
+| BAZ29 | 55,483416 ° | 3,810961 ° |
+| BAZ30 | 55,483416 ° | 3,768298 ° |
+| BAZ31 | 55,450665 ° | 3,735463 ° |
+| BAZ32 | 55,433416 ° | 3,679988 ° |
+| BAZ33 | 55,433416 ° | 3,476653 ° |
+
+1(16): Nordvästra Skånes havsområde (SE0420360). Fishing restricted zone – North:
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 1 | 56 33,291 | 12 32,194 | 56,55485 | 12,53657 |
+| 2 | 56 31,500 | 12 30,750 | 56,52500 | 12,51250 |
+| 3 | 56 31,505 | 12 27,014 | 56,52508 | 12,45023 |
+| 4 | 56 31,509 | 12 21,800 | 56,52515 | 12,36333 |
+| 5 | 56 31,510 | 12 16,883 | 56,52517 | 12,28138 |
+| 6 | 56 31,508 | 12 13,080 | 56,52513 | 12,21800 |
+| 7 | 56 30,588 | 12 08,729 | 56,50980 | 12,14548 |
+| 8 | 56 32,981 | 12 11,006 | 56,54968 | 12,18343 |
+| 9 | 56 36,172 | 12 10,967 | 56,60287 | 12,18278 |
+| 10 | 56 34,348 | 12 15,104 | 56,57247 | 12,25173 |
+| 11 | 56 33,433 | 12 14,451 | 56,55722 | 12,24085 |
+| 12 | 56 33,407 | 12 18,118 | 56,55678 | 12,30197 |
+| 13 | 56 33,370 | 12 23,042 | 56,55617 | 12,38403 |
+| 14 | 56 33,327 | 12 28,116 | 56,55545 | 12,46860 |
+| 15 | 56 33,291 | 12 32,194 | 56,55485 | 12,53657 |
+
+1(17): Nordvästra Skånes havsområde (SE0420360). Fishing restricted zone – South:
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 1 | 56 08,516 | 12 34,553 | 56,14193 | 12,57588 |
+| 2 | 56 08,380 | 12 34,141 | 56,13967 | 12,56902 |
+| 3 | 56 08,664 | 12 33,725 | 56,14440 | 12,56208 |
+| 4 | 56 11,052 | 12 32,463 | 56,18420 | 12,54105 |
+| 5 | 56 12,474 | 12 31,451 | 56,20790 | 12,52418 |
+| 6 | 56 13,139 | 12 31,512 | 56,21898 | 12,52520 |
+| 7 | 56 13,976 | 12 30,877 | 56,23293 | 12,51462 |
+| 8 | 56 13,959 | 12 32,169 | 56,23265 | 12,53615 |
+| 9 | 56 14,250 | 12 32,214 | 56,23750 | 12,53690 |
+| 10 | 56 14,254 | 12 31,420 | 56,23757 | 12,52367 |
+| 11 | 56 14,790 | 12 31,323 | 56,24650 | 12,52205 |
+| 12 | 56 15,174 | 12 30,757 | 56,25290 | 12,51262 |
+| 13 | 56 15,534 | 12 30,618 | 56,25890 | 12,51030 |
+| 14 | 56 15,770 | 12 30,311 | 56,26283 | 12,50518 |
+| 15 | 56 16,033 | 12 30,567 | 56,26722 | 12,50945 |
+| 16 | 56 16,231 | 12 30,230 | 56,27052 | 12,50383 |
+| 17 | 56 16,009 | 12 30,013 | 56,26682 | 12,50022 |
+| 18 | 56 17,216 | 12 28,913 | 56,28693 | 12,48188 |
+| 19 | 56 17,397 | 12 27,727 | 56,28995 | 12,46212 |
+| 20 | 56 17,785 | 12 26,785 | 56,29642 | 12,44642 |
+| 21 | 56 15,326 | 12 24,326 | 56,25543 | 12,40543 |
+| 22 | 56 14,411 | 12 23,304 | 56,24018 | 12,38840 |
+| 23 | 56 12,888 | 12 21,912 | 56,21480 | 12,36520 |
+| 24 | 56 10,868 | 12 24,947 | 56,18113 | 12,41578 |
+| 25 | 56 08,791 | 12 28,199 | 56,14652 | 12,46998 |
+| 26 | 56 07,201 | 12 31,770 | 56,12002 | 12,52950 |
+| 27 | 56 08,333 | 12 34,239 | 56,13888 | 12,57065 |
+| 28 | 56 08,370 | 12 34,641 | 56,13950 | 12,57735 |
+| 29 | 56 08,359 | 12 35,180 | 56,13932 | 12,58633 |
+| 30 | 56 08,582 | 12 34,955 | 56,14303 | 12,58258 |
+| 31 | 56 08,583 | 12 34,630 | 56,14305 | 12,57717 |
+| 32 | 56 08,516 | 12 34,553 | 56,14193 | 12,57588 |
+
+## ANNEX II
+
+**Coordinates of Areas 2**
+
+**Area 2(1): Habitat No 166, Natura 2000 site No 191, (EU code: DK00VA248) Herthas Flak bubbling reef zone**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1B | 57°38.334′ | 10°53.201′ |
+| 2B | 57°38.15′ | 10°52.931′ |
+| 3B | 57°38.253′ | 10°52.64′ |
+| 4B | 57°38.237′ | 10°52.15′ |
+| 5B | 57°38.32′ | 10°51.974′ |
+| 6B | 57°38.632′ | 10°51.82′ |
+| 7B | 57°38.839′ | 10°52.261′ |
+| 8B | 57°38.794′ | 10°52.36′ |
+| 9B | 57°38.334′ | 10°53.201′ |
+
+**Area 2(2): Habitat No 168, Natura 2000 site No 192, (EU code: DK00VA249) Læsø Trindel & Tønneberg Banke bubbling reef zone**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1B | 57°27.496′ | 11°15.033′ |
+| 2B | 57°25.988′ | 11°17.323′ |
+| 3B | 57°25.946′ | 11°17.488′ |
+| 4B | 57°25.417′ | 11°18.524′ |
+| 5B | 57°25.377′ | 11°18.408′ |
+| 6B | 57°25.346′ | 11°18.172′ |
+| 7B | 57°25.330′ | 11°18.039′ |
+| 8B | 57°25.175′ | 11°17.481′ |
+| 9B | 57°24.928′ | 11°17.579′ |
+| 10B | 57°24.828′ | 11°17.366′ |
+| 11B | 57°24.891′ | 11°17.049′ |
+| 12B | 57°25.128′ | 11°17.118′ |
+| 13B | 57°25.249′ | 11°16.721′ |
+| 14B | 57°25.211′ | 11°16.592′ |
+| 15B | 57°25.263′ | 11°16.177′ |
+| 16B | 57°25.170′ | 11°15.843′ |
+| 17B | 57°25.240′ | 11°15.549′ |
+| 18B | 57°26.861′ | 11°15.517′ |
+| 19B | 57°26.883′ | 11°14.998′ |
+| 20B | 57°27.496′ | 11°15.033′ |
+
+**Area 2(3): BRATTEN 1.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 1.1 | 58.54797 | 10.61234 | 58°32.87790′ | 10°36.74060′ |
+| 1.2 | 58.54242 | 10.59708 | 58°32.54500′ | 10°35.82450′ |
+| 1.3 | 58.57086 | 10.57829 | 58°34.25170′ | 10°34.69750′ |
+| 1.4 | 58.57113 | 10.58584 | 58°34.26810′ | 10°35.15060′ |
+
+**Area 2(4): BRATTEN 2.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 2.1 | 58.58333 | 10.70000 | 58°35.00000′ | 10°42.00000′ |
+| 2.2 | 58.56370 | 10.70000 | 58°33.82200′ | 10°42.00000′ |
+| 2.3 | 58.56834 | 10.68500 | 58°34.10000′ | 10°41.10000′ |
+| 2.4 | 58.58333 | 10.67333 | 58°35.00000′ | 10°40.40000′ |
+
+**Area 2(5): BRATTEN 3.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 3.1 | 58.55448 | 10.66622 | 58°33.26910′ | 10°39.97320′ |
+| 3.2 | 58.53817 | 10.65876 | 58°32.29020′ | 10°39.52570′ |
+| 3.3 | 58.56064 | 10.62589 | 58°33.63840′ | 10°37.55310′ |
+| 3.4 | 58.58333 | 10.60196 | 58°35.00000′ | 10°36.11730′ |
+| 3.5 | 58.58333 | 10.64007 | 58°35.00000′ | 10°38.40390′ |
+
+**Area 2(6): BRATTEN 4.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 4.1 | 58.41829 | 10.56322 | 58°25.09750′ | 10°33.79350′ |
+| 4.2 | 58.44104 | 10.54711 | 58°26.46240′ | 10°32.82670′ |
+| 4.3 | 58.46111 | 10.53893 | 58°27.66680′ | 10°32.33610′ |
+| 4.4 | 58.49248 | 10.55864 | 58°29.54890′ | 10°33.51860′ |
+| 4.5 | 58.47846 | 10.58575 | 58°28.70790′ | 10°35.14500′ |
+| 4.6 | 58.45570 | 10.60806 | 58°27.34200′ | 10°36.48350′ |
+| 4.7 | 58.42942 | 10.58963 | 58°25.76550′ | 10°35.37770′ |
+
+**Area 2(7): BRATTEN 5.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 5.1 | 58.46216 | 10.62166 | 58°27.72940′ | 10°37.29940′ |
+| 5.2 | 58.48256 | 10.59473 | 58°28.95350′ | 10°35.68400′ |
+| 5.3 | 58.50248 | 10.58245 | 58°30.14850′ | 10°34.94690′ |
+| 5.4 | 58.50213 | 10.61104 | 58°30.12770′ | 10°36.66250′ |
+| 5.5 | 58.47972 | 10.63392 | 58°28.78320′ | 10°38.03540′ |
+
+**Area 2(8): BRATTEN 6.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 6.1 | 58.45450 | 10.49373 | 58°27.26970′ | 10°29.62370′ |
+| 6.2 | 58.46727 | 10.47881 | 58°28.03640′ | 10°28.72850′ |
+| 6.3 | 58.48976 | 10.46582 | 58°29.38550′ | 10°27.94900′ |
+| 6.4 | 58.49126 | 10.47395 | 58°29.47550′ | 10°28.43730′ |
+| 6.5 | 58.47369 | 10.50004 | 58°28.42150′ | 10°30.00260′ |
+| 6.6 | 58.45435 | 10.49995 | 58°27.26080′ | 10°29.99710′ |
+
+**Area 2(9): BRATTEN 7A.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 7A.1 | 58.42132 | 10.53168 | 58°25.27900′ | 10°31.90080′ |
+| 7A.2 | 58.41075 | 10.51853 | 58°24.64520′ | 10°31.11190′ |
+| 7A.3 | 58.41982 | 10.50999 | 58°25.18910′ | 10°30.59960′ |
+| 7A.4 | 58.44487 | 10.51291 | 58°26.69240′ | 10°30.77450′ |
+| 7A.5 | 58.45257 | 10.52057 | 58°27.15410′ | 10°31.23410′ |
+| 7A.6 | 58.44918 | 10.52936 | 58°26.95050′ | 10°31.76140′ |
+| 7A.7 | 58.42423 | 10.52271 | 58°25.45370′ | 10°31.36260′ |
+
+**Area 2(10): BRATTEN 7B.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 7B.1 | 58.38556 | 10.51815 | 58°23.13340′ | 10°31.08930′ |
+| 7B.2 | 58.39907 | 10.50486 | 58°23.94410′ | 10°30.29150′ |
+| 7B.3 | 58.41075 | 10.51853 | 58°24.64520′ | 10°31.11190′ |
+| 7B.4 | 58.42132 | 10.53168 | 58°25.27900′ | 10°31.90080′ |
+| 7B.5 | 58.41613 | 10.54764 | 58°24.96810′ | 10°32.85830′ |
+| 7B.6 | 58.38776 | 10.53394 | 58°23.26560′ | 10°32.03650′ |
+
+**Area 2(11): BRATTEN 7C.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 7C.1 | 58.32839 | 10.44780 | 58°19.70320′ | 10°26.86790′ |
+| 7C.2 | 58.33196 | 10.43976 | 58°19.91750′ | 10°26.38560′ |
+| 7C.3 | 58.34390 | 10.44579 | 58°20.63390′ | 10°26.74760′ |
+| 7C.4 | 58.36412 | 10.46309 | 58°21.84690′ | 10°27.78530′ |
+| 7C.5 | 58.39907 | 10.50486 | 58°23.94410′ | 10°30.29150′ |
+| 7C.6 | 58.38556 | 10.51815 | 58°23.13340′ | 10°31.08930′ |
+| 7C.7 | 58.38172 | 10.50243 | 58°22.90310′ | 10°30.14580′ |
+| 7C.8 | 58.34934 | 10.46503 | 58°20.96020′ | 10°27.90180′ |
+| 7C.9 | 58.33436 | 10.45233 | 58°20.06130′ | 10°27.13950′ |
+
+**Area 2(12): BRATTEN 7D.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 7D.1 | 58.32839 | 10.44780 | 58°19.70320′ | 10°26.86790′ |
+| 7D.2 | 58.30802 | 10.43235 | 58°18.48120′ | 10°25.94100′ |
+| 7D.3 | 58.31273 | 10.42636 | 58°18.76400′ | 10°25.58170′ |
+| 7D.4 | 58.32300 | 10.43560 | 58°19.38030′ | 10°26.13580′ |
+| 7D.5 | 58.33196 | 10.43976 | 58°19.91750′ | 10°26.38560′ |
+
+**Area 2(13): BRATTEN 7E.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 7E.1 | 58.30802 | 10.43235 | 58°18.48120′ | 10°25.94100′ |
+| 7E.2 | 58.30260 | 10.42276 | 58°18.15610′ | 10°25.36540′ |
+| 7E.3 | 58.30642 | 10.41908 | 58°18.38510′ | 10°25.14470′ |
+| 7E.4 | 58.31273 | 10.42636 | 58°18.76400′ | 10°25.58170′ |
+
+**Area 2(14): BRATTEN 8.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 8.1 | 58.35013 | 10.56697 | 58°21.00780′ | 10°34.01820′ |
+| 8.2 | 58.35000 | 10.54678 | 58°21.00000′ | 10°32.80660′ |
+| 8.3 | 58.36596 | 10.54941 | 58°21.95780′ | 10°32.96480′ |
+| 8.4 | 58.36329 | 10.56736 | 58°21.79740′ | 10°34.04160′ |
+
+**Area 2(15): BRATTEN 9A.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 9A.1 | 58.28254 | 10.48633 | 58°16.95260′ | 10°29.17970′ |
+| 9A.2 | 58.28185 | 10.46037 | 58°16.91100′ | 10°27.62230′ |
+| 9A.3 | 58.32814 | 10.47828 | 58°19.68840′ | 10°28.69670′ |
+| 9A.4 | 58.32314 | 10.49764 | 58°19.38860′ | 10°29.85840′ |
+
+**Area 2(16): BRATTEN 9B.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 9B.1 | 58.28254 | 10.49986 | 58°16.95260′ | 10°29.99170′ |
+| 9B.2 | 58.30184 | 10.50257 | 58°18.11030′ | 10°30.15410′ |
+| 9B.3 | 58.30128 | 10.51117 | 58°18.07690′ | 10°30.67040′ |
+| 9B.4 | 58.28560 | 10.51374 | 58°17.13590′ | 10°30.82450′ |
+
+**Area 2(17): BRATTEN 10.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 10.1 | 58.40548 | 10.47122 | 58°24.32870′ | 10°28.27330′ |
+| 10.2 | 58.39710 | 10.45111 | 58°23.82620′ | 10°27.06670′ |
+| 10.3 | 58.41923 | 10.45140 | 58°25.15390′ | 10°27.08390′ |
+| 10.4 | 58.43279 | 10.45575 | 58°25.96770′ | 10°27.34510′ |
+| 10.5 | 58.41816 | 10.46972 | 58°25.08960′ | 10°28.18310′ |
+
+**Area 2(18): BRATTEN 11.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 11.1 | 58.44546 | 10.48585 | 58°26.72760′ | 10°29.15080′ |
+| 11.2 | 58.43201 | 10.48224 | 58°25.92060′ | 10°28.93410′ |
+| 11.3 | 58.44293 | 10.46981 | 58°26.57590′ | 10°28.18890′ |
+| 11.4 | 58.46009 | 10.46709 | 58°27.60540′ | 10°28.02550′ |
+
+**Area 2(19): BRATTEN 12.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 12.1 | 58.31923 | 10.39146 | 58°19.15400′ | 10°23.48740′ |
+| 12.2 | 58.33421 | 10.41007 | 58°20.05280′ | 10°24.60400′ |
+| 12.3 | 58.32229 | 10.41228 | 58°19.33750′ | 10°24.73680′ |
+| 12.4 | 58.30894 | 10.39258 | 58°18.53660′ | 10°23.55460′ |
+
+**Area 2(20): BRATTEN 13.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 13.1 | 58.53667 | 10.41500 | 58°32.20000′ | 10°24.90020′ |
+| 13.2 | 58.55302 | 10.40684 | 58°33.18120′ | 10°24.41050′ |
+| 13.3 | 58.55827 | 10.41840 | 58°33.49610′ | 10°25.10420′ |
+| 13.4 | 58.54551 | 10.42903 | 58°32.73030′ | 10°25.74190′ |
+
+**Area 2(21): BRATTEN 14.**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 14.1 | 58.26667 | 10.02858 | 58°16.00000′ | 10°1.71510′ |
+| 14.2 | 58.51269 | 10.14490 | 58°30.76120′ | 10°8.69400′ |
+| 14.3 | 58.53608 | 10.18669 | 58°32.16510′ | 10°11.20140′ |
+| 14.4 | 58.46886 | 10.23659 | 58°28.13140′ | 10°14.19520′ |
+| 14.5 | 58.31137 | 10.26041 | 58°18.68210′ | 10°15.62490′ |
+| 14.6 | 58.26667 | 10.16996 | 58°16.00000′ | 10°10.19740′ |
+
+**Area 2(22): Habitat No 169, Natura 2000 Site No 193 (EU Code: DK00VA250) Store Middelgrund bubbling reef zone**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| B-2 | 56°33.544′ | 12°6.298′ |
+| B-2 | 56°33.409′ | 12°5.528′ |
+| B-2 | 56°33.335′ | 12°5.519′ |
+| B-2 | 56°33.265′ | 12°5.575′ |
+| B-2 | 56°33.383′ | 12°6.519′ |
+| B-2 | 56°33.476′ | 12°5.629′ |
+| B-2 | 56°33.544′ | 12°6.298′ |
+| B-2 | 56°33.517′ | 12°6.446′ |
+| B-2 | 56°33.443′ | 12°6.52′ |
+| B-2 | 56°33.331′ | 12°6.476′ |
+| B-2 | 56°33.292′ | 12°6.396′ |
+| B-2 | 56°33.224′ | 12°5.717′ |
+
+**Area 2(23): Habitat No 09, Natura 2000 Site No 09 (EU Code: DK00FX010) Strandenge på Læsø og havet syd herfor bubbling reef zone**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| B-2 | 57°15.542′ | 10°45.194′ |
+| B-2 | 57°15.604′ | 10°45.344′ |
+| B-2 | 57°15.614′ | 10°45.557′ |
+| B-2 | 57°15.446′ | 10°45.761′ |
+| B-2 | 57°15.124′ | 10°45.67′ |
+| B-2 | 57°15.04′ | 10°45.438′ |
+| B-2 | 57°15.139′ | 10°45.208′ |
+| B-2 | 57°15.542′ | 10°45.194′ |
+| B-3 | 57°13.714′ | 10°46.124′ |
+| B-3 | 57°13.788′ | 10°46.399′ |
+| B-3 | 57°13.53′ | 10°46.837′ |
+| B-3 | 57°13.421′ | 10°46.821′ |
+| B-3 | 57°13.233′ | 10°46.369′ |
+| B-3 | 57°13.225′ | 10°46.199′ |
+| B-3 | 57°13.305′ | 10°46.023′ |
+| B-3 | 57°13.714′ | 10°46.124′ |
+| B-4 | 57°13.175′ | 10°46.559′ |
+| B-4 | 57°13.298′ | 10°46.613′ |
+| B-4 | 57°13.37′ | 10°46.818′ |
+| B-4 | 57°13.286′ | 10°47.075′ |
+| B-4 | 57°13.115′ | 10°47.045′ |
+| B-4 | 57°13.069′ | 10°46.751′ |
+| B-5 | 57°15.382′ | 10°51.675′ |
+| B-5 | 57°15.132′ | 10°52.02′ |
+| B-5 | 57°15.382′ | 10°51.675′ |
+| B-5 | 57°15.401′ | 10°51.986′ |
+| B-5 | 57°15.271′ | 10°52.139′ |
+| B-5 | 57°15.13′ | 10°51.715′ |
+| B-5 | 57°15.246′ | 10°51.612′ |
+| B-6 | 57°15.146′ | 10°51.413′ |
+| B-6 | 57°15.265′ | 10°51.276′ |
+| B-6 | 57°15.276′ | 10°50.991′ |
+| B-6 | 57°15.007′ | 10°51.29′ |
+| B-6 | 57°15.276′ | 10°50.991′ |
+| B-6 | 57°15.123′ | 10°50.862′ |
+| B-6 | 57°15.011′ | 10°51.016′ |
+| B-9 | 57°7.285′ | 11°8.669′ |
+| B-9 | 57°7.256′ | 11°9.263′ |
+| B-9 | 57°6.929′ | 11°9.478′ |
+| B-9 | 57°6.675′ | 11°9.137′ |
+| B-9 | 57°6.707′ | 11°8.498′ |
+| B-9 | 57°7.285′ | 11°8.669′ |
+| B-9 | 57°7.046′ | 11°8.343′ |
+| B-12 | 57°2.207′ | 10°57.537′ |
+| B-12 | 57°2.081′ | 10°57.168′ |
+| B-12 | 57°1.881′ | 10°57.05′ |
+| B-12 | 57°1.799′ | 10°57.111′ |
+| B-12 | 57°1.656′ | 10°57.457′ |
+| B-12 | 57°1.649′ | 10°57.5′ |
+| B-12 | 57°1.889′ | 10°58.494′ |
+| B-12 | 57°1.752′ | 10°58.311′ |
+| B-12 | 57°1.633′ | 10°57.929′ |
+| B-12 | 57°2.207′ | 10°57.537′ |
+| B-12 | 57°2.244′ | 10°58.141′ |
+| B-12 | 57°2.201′ | 10°58.248′ |
+| B-12 | 57°1.972′ | 10°58.528′ |
+| B-13 | 57°7.65′ | 11°2.894′ |
+| B-13 | 57°7.501′ | 11°3.03′ |
+| B-13 | 57°7.409′ | 11°3.539′ |
+| B-13 | 57°7.453′ | 11°3.718′ |
+| B-13 | 57°7.707′ | 11°3.935′ |
+| B-13 | 57°7.838′ | 11°3.837′ |
+| B-13 | 57°7.93′ | 11°3.614′ |
+| B-13 | 57°7.941′ | 11°3.373′ |
+| B-13 | 57°7.942′ | 11°3.31′ |
+| B-13 | 57°7.877′ | 11°3.093′ |
+| B-13 | 57°7.872′ | 11°3.077′ |
+| B-13 | 57°7.409′ | 11°3.258′ |
+| B-13 | 57°7.549′ | 11°3.894′ |
+| B-13 | 57°7.872′ | 11°3.077′ |
+| B-13 | 57°7.783′ | 11°2.965′ |
+| B-14 | 57°9.651′ | 11°16.75′ |
+| B-14 | 57°9.202′ | 11°17.358′ |
+| B-14 | 57°9.528′ | 11°16.459′ |
+| B-14 | 57°9.348′ | 11°16.415′ |
+| B-14 | 57°9.528′ | 11°16.459′ |
+| B-14 | 57°9.649′ | 11°17.006′ |
+| B-14 | 57°9.434′ | 11°17.472′ |
+| B-14 | 57°9.615′ | 11°17.231′ |
+| B-14 | 57°9.182′ | 11°16.531′ |
+| B-14 | 57°9.094′ | 11°16.95′ |
+| B-15 | 57°7.089′ | 11°17.532′ |
+| B-15 | 57°7.014′ | 11°17.903′ |
+| B-15 | 57°6.837′ | 11°18.035′ |
+| B-15 | 57°6.683′ | 11°17.999′ |
+| B-15 | 57°6.522′ | 11°17.479′ |
+| B-15 | 57°6.605′ | 11°17.172′ |
+| B-15 | 57°6.698′ | 11°17.063′ |
+| B-15 | 57°6.778′ | 11°17.027′ |
+| B-15 | 57°6.793′ | 11°17.021′ |
+| B-15 | 57°6.905′ | 11°17.047′ |
+| B-15 | 57°7.033′ | 11°17.211′ |
+| B-15 | 57°6.57′ | 11°17.784′ |
+
+**Area 2(24): Habitat No 20, Natura 2000 Site No 20 (EU Code: DK00FX257) Havet omkring Nordre Rønner bubbling reef zone**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| B-3 | 57°26.016′ | 10°59.043′ |
+| B-3 | 57°25.683′ | 10°58.337′ |
+| B-3 | 57°25.906′ | 10°58.09′ |
+| B-3 | 57°26.191′ | 10°58.652′ |
+| B-4 | 57°26.23′ | 10°59.318′ |
+| B-4 | 57°26.357′ | 10°59.266′ |
+| B-4 | 57°26.375′ | 10°58.909′ |
+| B-4 | 57°26.097′ | 10°59.228′ |
+| B-4 | 57°26.375′ | 10°58.909′ |
+| B-4 | 57°26.225′ | 10°58.796′ |
+| B-4 | 57°26.113′ | 10°58.93′ |
+| B-5 | 57°25.681′ | 10°58.575′ |
+| B-5 | 57°25.545′ | 10°58.468′ |
+| B-5 | 57°25.39′ | 10°58.583′ |
+| B-5 | 57°25.364′ | 10°58.894′ |
+| B-5 | 57°25.515′ | 10°59.05′ |
+| B-5 | 57°25.659′ | 10°58.968′ |
+| B-5 | 57°25.681′ | 10°58.575′ |
+| B-6 | 57°25.441′ | 10°57.453′ |
+| B-6 | 57°25.608′ | 10°57.415′ |
+| B-6 | 57°25.688′ | 10°57.605′ |
+| B-6 | 57°25.523′ | 10°57.957′ |
+| B-6 | 57°25.408′ | 10°57.813′ |
+| B-6 | 57°25.608′ | 10°57.415′ |
+| B-6 | 57°25.663′ | 10°57.895′ |
+| B-10 | 57°24.973′ | 10°53.21′ |
+| B-10 | 57°24.54′ | 10°53.719′ |
+| B-10 | 57°24.973′ | 10°53.21′ |
+| B-10 | 57°24.988′ | 10°53.482′ |
+| B-10 | 57°24.733′ | 10°54.043′ |
+| B-10 | 57°24.581′ | 10°53.99′ |
+| B-10 | 57°24.804′ | 10°53.132′ |
+| B-11 | 57°25.064′ | 10°54.588′ |
+| B-11 | 57°24.852′ | 10°54.493′ |
+| B-11 | 57°24.781′ | 10°54.874′ |
+| B-11 | 57°24.924′ | 10°55.053′ |
+| B-11 | 57°25.068′ | 10°54.936′ |
+| B-11 | 57°25.064′ | 10°54.588′ |
+| B-12 | 57°24.739′ | 10°58.133′ |
+| B-12 | 57°24.878′ | 10°58.216′ |
+| B-12 | 57°24.992′ | 10°57.798′ |
+| B-12 | 57°24.996′ | 10°58.095′ |
+| B-12 | 57°24.85′ | 10°57.68′ |
+| B-12 | 57°24.732′ | 10°57.833′ |
+| B-13 | 57°23.058′ | 10°56.857′ |
+| B-13 | 57°23.205′ | 10°56.485′ |
+| B-13 | 57°22.944′ | 10°56.445′ |
+| B-13 | 57°23.205′ | 10°56.485′ |
+| B-13 | 57°23.089′ | 10°56.289′ |
+| B-13 | 57°22.94′ | 10°56.712′ |
+| B-13 | 57°23.197′ | 10°56.754′ |
+| B-14 | 57°23.821′ | 10°56.317′ |
+| B-14 | 57°23.538′ | 10°56.582′ |
+| B-14 | 57°23.821′ | 10°56.317′ |
+| B-14 | 57°23.59′ | 10°56.302′ |
+| B-14 | 57°23.694′ | 10°56.23′ |
+| B-14 | 57°23.675′ | 10°56.756′ |
+| B-14 | 57°23.828′ | 10°56.661′ |
+| B-15 | 57°23.393′ | 10°51.3′ |
+| B-15 | 57°23.455′ | 10°51.039′ |
+| B-15 | 57°23.561′ | 10°50.998′ |
+| B-15 | 57°23.684′ | 10°51.09′ |
+| B-15 | 57°23.514′ | 10°51.538′ |
+| B-15 | 57°23.677′ | 10°51.428′ |
+| B-16 | 57°22.969′ | 10°49.591′ |
+| B-16 | 57°22.921′ | 10°49.501′ |
+| B-16 | 57°22.816′ | 10°49.487′ |
+| B-16 | 57°22.735′ | 10°49.619′ |
+| B-16 | 57°22.722′ | 10°49.734′ |
+| B-16 | 57°22.761′ | 10°49.938′ |
+| B-16 | 57°22.919′ | 10°49.988′ |
+| B-16 | 57°22.971′ | 10°49.841′ |
+| B-16 | 57°22.993′ | 10°49.718′ |
+| B-16 | 57°22.866′ | 10°49.475′ |
+| B-16 | 57°22.768′ | 10°49.538′ |
+| B-16 | 57°22.993′ | 10°49.718′ |
+| B-20 | 57°26.397′ | 10°56.392′ |
+| B-20 | 57°26.404′ | 10°56.415′ |
+| B-20 | 57°26.413′ | 10°56.446′ |
+| B-20 | 57°26.618′ | 10°57.292′ |
+| B-20 | 57°26.555′ | 10°57.383′ |
+| B-20 | 57°26.344′ | 10°56.29′ |
+| B-20 | 57°26.379′ | 10°56.352′ |
+| B-20 | 57°26.184′ | 10°56.277′ |
+| B-20 | 57°26.582′ | 10°56.907′ |
+| B-20 | 57°26.085′ | 10°57.231′ |
+| B-20 | 57°26.413′ | 10°56.446′ |
+| B-20 | 57°26.645′ | 10°57.215′ |
+| B-20 | 57°26.652′ | 10°57.129′ |
+| B-20 | 57°26.648′ | 10°57.08′ |
+| B-20 | 57°26.64′ | 10°57.025′ |
+| B-20 | 57°26.621′ | 10°56.973′ |
+| B-20 | 57°26.422′ | 10°56.555′ |
+| B-20 | 57°26.355′ | 10°56.912′ |
+| B-20 | 57°26.527′ | 10°56.881′ |
+| B-20 | 57°26.418′ | 10°56.49′ |
+| B-20 | 57°26.388′ | 10°56.369′ |
+| B-21 | 57°23.075′ | 11°2.044′ |
+| B-21 | 57°23.243′ | 11°1.61′ |
+| B-21 | 57°23.295′ | 11°1.816′ |
+| B-21 | 57°23.298′ | 11°1.827′ |
+| B-21 | 57°23.293′ | 11°1.849′ |
+| B-21 | 57°23.256′ | 11°2.034′ |
+| B-21 | 57°23.163′ | 11°2.085′ |
+| B-21 | 57°23.023′ | 11°1.885′ |
+| B-21 | 57°23.037′ | 11°1.684′ |
+| B-21 | 57°23.132′ | 11°1.592′ |
+| B-21 | 57°23.243′ | 11°1.61′ |
+| B-22 | 57°25.491′ | 11°0.852′ |
+| B-22 | 57°25.562′ | 11°1.005′ |
+| B-22 | 57°25.564′ | 11°1.008′ |
+| B-22 | 57°25.541′ | 11°1.188′ |
+| B-22 | 57°25.298′ | 11°1.417′ |
+| B-22 | 57°25.54′ | 11°1.198′ |
+| B-22 | 57°25.232′ | 11°1.019′ |
+| B-22 | 57°25.383′ | 11°0.818′ |
+| B-22 | 57°25.424′ | 11°1.389′ |
+| B-22 | 57°25.202′ | 11°1.239′ |
+| B-23 | 57°25.302′ | 11°0.479′ |
+| B-23 | 57°25.254′ | 11°0.698′ |
+| B-23 | 57°25.165′ | 11°0.746′ |
+| B-23 | 57°24.837′ | 10°59.992′ |
+| B-23 | 57°25.302′ | 11°0.479′ |
+| B-23 | 57°25.241′ | 11°0.31′ |
+| B-23 | 57°25.223′ | 11°0.27′ |
+| B-23 | 57°25.004′ | 10°59.935′ |
+| B-23 | 57°24.927′ | 10°59.909′ |
+| B-23 | 57°24.813′ | 11°0.153′ |
+| B-23 | 57°24.837′ | 11°0.331′ |
+| B-23 | 57°25.008′ | 11°0.467′ |
+| B-23 | 57°25.075′ | 11°0.729′ |
+
+**2(25): The marine protected area Stora Middelgrund och Röde bank (SE0510186)**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°35.823′ | 12°04.669′ |
+| 2 | 56°37.185′ | 12°10.253′ |
+| 3 | 56°36.001′ | 12°11.145′ |
+| 4 | 56°32.976′ | 12°11.109′ |
+| 5 | 56°30.518′ | 12°08.785′ |
+| 6 | 56°31.138′ | 12°08.305′ |
+| 7 | 56°32.056′ | 12°07.594′ |
+| 8 | 56°32.973′ | 12°06.883′ |
+| 9 | 56°33.890′ | 12°06.171′ |
+| 10 | 56°34.808′ | 12°05.459′ |
+| 11 | 56°35.725′ | 12°04.746′ |
+
+**2(26): The marine protected area Fladen (SE0510127)**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 57°08.482′ | 11°38.859′ |
+| 2 | 57°09.262′ | 11°39.140′ |
+| 3 | 57°09.406′ | 11°40.244′ |
+| 4 | 57°10.451′ | 11°41.133′ |
+| 5 | 57°10.867′ | 11°41.288′ |
+| 6 | 57°12.105′ | 11°41.252′ |
+| 7 | 57°13.466′ | 11°42.649′ |
+| 8 | 57°14.006′ | 11°44.422′ |
+| 9 | 57°13.832′ | 11°47.763′ |
+| 10 | 57°08.476′ | 11°44.410′ |
+| 11 | 57°06.119′ | 11°40.755′ |
+| 12 | 57°06.864′ | 11°40.158′ |
+| 13 | 57°07.778′ | 11°39.425′ |
+
+**2(27): The marine protected area Lilla Middelgrund (SE0510126)**
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°57.150′ | 11°47.907′ |
+| 2 | 57°02.068′ | 11°52.818′ |
+| 3 | 57°02.192′ | 11°55.441′ |
+| 4 | 56°55.588′ | 11°55.959′ |
+| 5 | 56°54.230′ | 11°50.223′ |
+| 6 | 56°54.967′ | 11°49.640′ |
+| 7 | 56°55.883′ | 11°48.914′ |
+| 8 | 56°56.798′ | 11°48.188′ |
+
+**2(28): Amrum Bank (55 % of the area in central and northern parts of the bank) in the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+The geographical area enclosed by:
+
+a) seaward delimitation line of the German territorial sea from 54,666667° N 7,943486° E to 54,583333° N 7,976132° E;
+
+b) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M2-01 | 54,583333 ° | 7,976132 ° |
+| M2-02 | 54,583333 ° | 7,875000 ° |
+| M2-03 | 54,666667 ° | 7,875000 ° |
+| M2-04 | 54,666667 ° | 7,943486 ° |
+
+**2(28.az): Alert zone of 4 nautical miles surrounding the Amrum Bank (55 % of the area in central and northern parts of the bank) in the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef).**
+
+2(29): Nordvästra Skånes havsområde (SE0420360). No-take zone:
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 1 | 56 18,050 | 12 21,600 | 56,30083 | 12,36000 |
+| 2 | 56 15,326 | 12 24,326 | 56,25543 | 12,40543 |
+| 3 | 56 14,411 | 12 23,304 | 56,24018 | 12,38840 |
+| 4 | 56 12,888 | 12 21,912 | 56,21480 | 12,36520 |
+| 5 | 56 14,587 | 12 16,584 | 56,24312 | 12,27640 |
+| 6 | 56 16,370 | 12 10,972 | 56,27283 | 12,18287 |
+| 7 | 56 18,200 | 12 05,191 | 56,30333 | 12,08652 |
+| 8 | 56 21,489 | 12 06,151 | 56,35815 | 12,10252 |
+| 9 | 56 24,337 | 12 06,984 | 56,40562 | 12,11640 |
+| 10 | 56 27,310 | 12 07,855 | 56,45517 | 12,13092 |
+| 11 | 56 30,504 | 12 08,794 | 56,50840 | 12,14657 |
+| 12 | 56 30,588 | 12 08,729 | 56,50980 | 12,14548 |
+| 13 | 56 31,508 | 12 13,080 | 56,52513 | 12,21800 |
+| 14 | 56 31,510 | 12 16,883 | 56,52517 | 12,28138 |
+| 15 | 56 31,509 | 12 21,800 | 56,52515 | 12,36333 |
+| 16 | 56 31,505 | 12 27,014 | 56,52508 | 12,45023 |
+| 17 | 56 31,500 | 12 30,750 | 56,52500 | 12,51250 |
+| 18 | 56 27,100 | 12 27,200 | 56,45167 | 12,45333 |
+| 19 | 56 24,200 | 12 28,650 | 56,40333 | 12,47750 |
+| 20 | 56 21,100 | 12 25,091 | 56,35167 | 12,41818 |
+| 21 | 56 18,050 | 12 21,600 | 56,30083 | 12,36000 |
+
+## ANNEX III
+
+**Coordinates of the marine protected area Bratten**
+
+| Point | Latitude N | Longitude E | Latitude N | Longitude E |
+| --- | --- | --- | --- | --- |
+| 1 NV | 58.58333 | 10.27120 | 58°35.00000′ | 10°16.27200′ |
+| 2 NO | 58.58333 | 10.70000 | 58°35.00000′ | 10°42.00000′ |
+| 3 SO | 58.26667 | 10.70000 | 58°16.00000′ | 10°42.00000′ |
+| 4 SV | 58.26667 | 10.02860 | 58°16.00000′ | 10°1.71600′ |
+| 5 V | 58.5127 | 10.14490 | 58°30.76200′ | 10°8.69400′ |
+
+## ANNEX IV — Coordinates of ‘Areas 3’
+
+1\. the marine protected area Stora Middelgrund och Röde bank (SE0510186)
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°40.045′ | 12°01.378′ |
+| 2 | 56°44.151′ | 12°04.982′ |
+| 3 | 56°37.185′ | 12°10.253′ |
+| 4 | 56°35.823′ | 12°04.669′ |
+| 5 | 56°36.642′ | 12°04.032′ |
+| 6 | 56°37.559′ | 12°03.318′ |
+| 7 | 56°38.475′ | 12°02.604′ |
+| 8 | 56°39.392′ | 12°01.888′ |
+
+2\. the marine protected area Fladen (SE0510127)
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 57°06.119′ | 11°40.755′ |
+| 2 | 57°08.476′ | 11°44.410′ |
+| 3 | 57°13.832′ | 11°47.763′ |
+| 4 | 57°13.636′ | 11°51.486′ |
+| 5 | 57°12.988′ | 11°50.973′ |
+| 6 | 57°12.672′ | 11°50.628′ |
+| 7 | 57°12.190′ | 11°50.508′ |
+| 8 | 57°11.669′ | 11°49.840′ |
+| 9 | 57°08.987′ | 11°48.722′ |
+| 10 | 57°08.580′ | 11°48.039′ |
+| 11 | 57°06.116′ | 11°47.683′ |
+| 12 | 57°03.810′ | 11°42.601′ |
+| 13 | 57°04.119′ | 11°42.355′ |
+| 14 | 57°05.034′ | 11°41.624′ |
+| 15 | 57°05.949′ | 11°40.891′ |
+
+3\. the marine protected area Lilla Middelgrund (SE0510126)
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°54.230′ | 11°50.223′ |
+| 2 | 56°55.588′ | 11°55.959′ |
+| 3 | 57°02.192′ | 11°55.441′ |
+| 4 | 57°00.544′ | 12°01.298′ |
+| 5 | 56°57.373′ | 12°01.502′ |
+| 6 | 56°53.475′ | 11°59.929′ |
+| 7 | 56°52.309′ | 11°53.628′ |
+| 8 | 56°52.475′ | 11°51.612′ |
+| 9 | 56°53.136′ | 11°51.090′ |
+| 10 | 56°54.052′ | 11°50.365′ |
+
+4\. the marine protected area Morups bank (SE0510187)
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 56°53.067′ | 12°11.872′ |
+| 2 | 56°53.065′ | 12°14.118′ |
+| 3 | 56°51.436′ | 12°14.123′ |
+| 4 | 56°51.438′ | 12°11.884′ |
+
+## ANNEX V — Coordinates of AIS zones
+
+1\. AIS zones MSFD areas A-F and the Natura 2000 area Kims Top og Den Kinesiske Mur (DK00VA247).
+
+1(1) Area A
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 0 | 57° 27.305′ N | 10° 49.692′ E |
+| 1 | 56° 58.560′ N | 10° 55.505′ E |
+| 2 | 56° 57.259′ N | 10° 34.190′ E |
+| 3 | 57° 12.253′ N | 10° 31.032′ E |
+| 4 | 57° 12.914′ N | 10° 32.832′ E |
+| 5 | 57° 26.350′ N | 10° 33.935′ E |
+
+1(2) Areas B, C, D
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 0 | 57° 23.600′ N | 11° 26.629′ E |
+| 1 | 56° 58.768′ N | 11° 46.616′ E |
+| 2 | 56° 54.689′ N | 11° 41.068′ E |
+| 3 | 57° 04.671′ N | 11° 16.259′ E |
+| 4 | 57° 22.641′ N | 11° 13.827′ E |
+
+1(3) Area E
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 0 | 56° 39.110′ N | 12° 02.106′ E |
+| 1 | 56° 30.505′ N | 12° 08.795′ E |
+| 2 | 56° 24.142′ N | 12° 06.927′ E |
+| 3 | 56° 24.076′ N | 11° 51.626′ E |
+| 4 | 56° 39.061′ N | 11° 51.365′ E |
+
+1(4) Area F
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 0 | 56° 04.482′ N | 11° 09.358′ E |
+| 1 | 56° 18.901′ N | 11° 23.673′ E |
+| 2 | 56° 11.900′ N | 11° 46.156′ E |
+| 3 | 55° 57.289′ N | 11° 31.512′ E |
+| 4 | 55° 58.928′ N | 11° 19.782′ E |
+
+2\. AIS zones of marine protected areas Fladen, Lilla Middelgrund, Stora Middelgrund och Röde bank and Morups bank.
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 1 | 57°30.000′ | 11°21.010′ |
+| 2 | 57°30.000′ | 11°38.810′ |
+| 3 | 57°29.470′ | 11°38.930′ |
+| 4 | 57°28.270′ | 11°40.850′ |
+| 5 | 57°27.670′ | 11°44.830′ |
+| 6 | 57°25.950′ | 11°45.040′ |
+| 7 | 57°24.970′ | 11°44.400′ |
+| 8 | 57°22.760′ | 11°46.040′ |
+| 9 | 57°20.660′ | 11°47.050′ |
+| 10 | 57°19.670′ | 11°49.500′ |
+| 11 | 57°19.646′ | 11°56.209′ |
+| 12 | 57°15.730′ | 11°57.790′ |
+| 13 | 57°13.480′ | 11°59.500′ |
+| 14 | 57°12.040′ | 12°00.200′ |
+| 15 | 57°10.660′ | 12°01.880′ |
+| 16 | 57°09.140′ | 12°01.110′ |
+| 17 | 57°07.640′ | 12°01.940′ |
+| 18 | 57°06.200′ | 12°04.340′ |
+| 19 | 57°05.050′ | 12°07.370′ |
+| 20 | 57°03.960′ | 12°09.470′ |
+| 21 | 57°02.510′ | 12°09.840′ |
+| 22 | 57°00.250′ | 12°13.430′ |
+| 23 | 56°58.160′ | 12°15.440′ |
+| 24 | 56°55.660′ | 12°15.630′ |
+| 25 | 56°54.500′ | 12°16.280′ |
+| 26 | 56°52.530′ | 12°19.070′ |
+| 27 | 56°51.030′ | 12°22.830′ |
+| 28 | 56°50.480′ | 12°25.970′ |
+| 29 | 56°48.930′ | 12°26.110′ |
+| 30 | 56°47.490′ | 12°27.880′ |
+| 31 | 56°46.870′ | 12°31.310′ |
+| 32 | 56°43.440′ | 12°32.310′ |
+| 33 | 56°41.610′ | 12°35.200′ |
+| 34 | 56°39.000′ | 12°36.800′ |
+| 35 | 56°27.100′ | 12°27.200′ |
+| 36 | 56°24.200′ | 12°28.650′ |
+| 37 | 56°18.050′ | 12°21.600′ |
+| 38 | 56°15.800′ | 12°23.850′ |
+| 39 | 56°15.318′ | 12°24.332′ |
+| 40 | 56°12.893′ | 12°21.897′ |
+| 41 | 56°12.947′ | 12°21.728′ |
+| 42 | 56°13.254′ | 12°20.766′ |
+| 43 | 56°13.750′ | 12°19.212′ |
+| 44 | 56°14.246′ | 12°17.657′ |
+| 45 | 56°14.741′ | 12°16.101′ |
+| 46 | 56°15.236′ | 12°14.545′ |
+| 47 | 56°15.731′ | 12°12.988′ |
+| 48 | 56°16.226′ | 12°11.430′ |
+| 49 | 56°16.720′ | 12°09.872′ |
+| 50 | 56°17.214′ | 12°08.313′ |
+| 51 | 56°17.707′ | 12°06.753′ |
+| 52 | 56°18.200′ | 12°05.192′ |
+| 53 | 56°18.684′ | 12°05.333′ |
+| 54 | 56°19.669′ | 12°05.621′ |
+| 55 | 56°20.654′ | 12°05.908′ |
+| 56 | 56°21.639′ | 12°06.196′ |
+| 57 | 56°22.624′ | 12°06.484′ |
+| 58 | 56°23.609′ | 12°06.772′ |
+| 59 | 56°24.594′ | 12°07.060′ |
+| 60 | 56°25.579′ | 12°07.349′ |
+| 61 | 56°26.564′ | 12°07.638′ |
+| 62 | 56°27.549′ | 12°07.927′ |
+| 63 | 56°28.534′ | 12°08.216′ |
+| 64 | 56°29.519′ | 12°08.506′ |
+| 65 | 56°30.504′ | 12°08.796′ |
+| 66 | 56°31.138′ | 12°08.305′ |
+| 67 | 56°32.056′ | 12°07.594′ |
+| 68 | 56°32.973′ | 12°06.883′ |
+| 69 | 56°33.890′ | 12°06.171′ |
+| 70 | 56°34.808′ | 12°05.459′ |
+| 71 | 56°35.725′ | 12°04.746′ |
+| 72 | 56°36.642′ | 12°04.032′ |
+| 73 | 56°37.559′ | 12°03.318′ |
+| 74 | 56°38.475′ | 12°02.604′ |
+| 75 | 56°39.392′ | 12°01.888′ |
+| 76 | 56°40.309′ | 12°01.173′ |
+| 77 | 56°41.226′ | 12°00.456′ |
+| 78 | 56°42.142′ | 11°59.739′ |
+| 79 | 56°43.059′ | 11°59.022′ |
+| 80 | 56°43.975′ | 11°58.304′ |
+| 81 | 56°44.892′ | 11°57.585′ |
+| 82 | 56°45.808′ | 11°56.865′ |
+| 83 | 56°46.724′ | 11°56.146′ |
+| 84 | 56°47.641′ | 11°55.425′ |
+| 85 | 56°48.557′ | 11°54.704′ |
+| 86 | 56°49.473′ | 11°53.982′ |
+| 87 | 56°50.389′ | 11°53.260′ |
+| 88 | 56°51.304′ | 11°52.537′ |
+| 89 | 56°52.220′ | 11°51.814′ |
+| 90 | 56°53.136′ | 11°51.090′ |
+| 91 | 56°54.052′ | 11°50.365′ |
+| 92 | 56°54.967′ | 11°49.640′ |
+| 93 | 56°55.883′ | 11°48.914′ |
+| 94 | 56°56.798′ | 11°48.188′ |
+| 95 | 56°57.714′ | 11°47.461′ |
+| 96 | 56°58.629′ | 11°46.733′ |
+| 97 | 56°59.544′ | 11°46.005′ |
+| 98 | 57°00.459′ | 11°45.276′ |
+| 99 | 57°01.374′ | 11°44.547′ |
+| 100 | 57°02.290′ | 11°43.817′ |
+| 101 | 57°03.204′ | 11°43.087′ |
+| 102 | 57°04.119′ | 11°42.355′ |
+| 103 | 57°05.034′ | 11°41.624′ |
+| 104 | 57°05.949′ | 11°40.891′ |
+| 105 | 57°06.864′ | 11°40.158′ |
+| 106 | 57°07.778′ | 11°39.425′ |
+| 107 | 57°08.693′ | 11°38.691′ |
+| 108 | 57°09.607′ | 11°37.956′ |
+| 109 | 57°10.521′ | 11°37.220′ |
+| 110 | 57°11.436′ | 11°36.484′ |
+| 111 | 57°12.350′ | 11°35.748′ |
+| 112 | 57°13.264′ | 11°35.011′ |
+| 113 | 57°14.178′ | 11°34.273′ |
+| 114 | 57°15.092′ | 11°33.535′ |
+| 115 | 57°16.006′ | 11°32.795′ |
+| 116 | 57°16.920′ | 11°32.056′ |
+| 117 | 57°17.834′ | 11°31.316′ |
+| 118 | 57°18.747′ | 11°30.575′ |
+| 119 | 57°19.661′ | 11°29.833′ |
+| 120 | 57°20.574′ | 11°29.091′ |
+| 121 | 57°21.488′ | 11°28.349′ |
+| 122 | 57°22.401′ | 11°27.605′ |
+| 123 | 57°23.315′ | 11°26.861′ |
+| 124 | 57°24.228′ | 11°26.117′ |
+| 125 | 57°25.141′ | 11°25.372′ |
+| 126 | 57°26.054′ | 11°24.626′ |
+| 127 | 57°26.967′ | 11°23.880′ |
+| 128 | 57°27.668′ | 11°23.217′ |
+| 129 | 57°28.557′ | 11°22.376′ |
+| 130 | 57°29.446′ | 11°21.535′ |
+
+## ANNEX VI — Coordinates of ‘Areas 4’
+
+**Areas 4(1): Natura 2000 site DE1011-401 Östliche Deutsche Bucht (Eastern German Bight) and eastern parts of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+The geographical area enclosed by:
+
+a) seaward separation line between the German and Danish Exclusive Economic Zones from 55,234408° N 7,210530° E to 55,099172° N 8,044370° E;
+
+b) seaward delimitation line of the German territorial sea from 55,099172° N 8,044370° E to 54,389485° N 7,796776° E;
+
+c) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M3-01 | 54,389485 ° | 7,796776 ° |
+| M3-02 | 54,538889 ° | 7,778333 ° |
+| M3-03 | 54,538889 ° | 7,500000 ° |
+| M3-04 | 54,590341 ° | 7,500000 ° |
+| M3-05 | 54,733056 ° | 7,334722 ° |
+| M3-06 | 55,048333 ° | 7,256667 ° |
+| M3-07 | 55,234408 ° | 7,210530 ° |
+
+**4(1.az): Alert zone of 4 nautical miles surrounding the Natura 2000 site DE1011-401 Östliche Deutsche Bucht (Eastern German Bight) and eastern parts of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+**Area 4(2): Western part of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M4-01 | 54,947500 ° | 6,323889 ° |
+| M4-02 | 55,068333 ° | 6,626944 ° |
+| M4-03 | 54,957222 ° | 6,938056 ° |
+| M4-04 | 55,048333 ° | 7,256667 ° |
+| M4-05 | 54,733056 ° | 7,334722 ° |
+| M4-06 | 54,590341 ° | 7,500000 ° |
+| M4-07 | 54,538889 ° | 7,500000 ° |
+| M4-08 | 54,538889 ° | 7,020278 ° |
+| M4-01 | 54,947500 ° | 6,323889 ° |
+
+**4(2.az): Alert zone of 4 nautical miles surrounding the western part of the Natura 2000 site DE1209-301 Sylter Aussenriff (Sylt Outer Reef)**
+
+**Areas 4(3): Natura 2000 site DE2104-301 Borkum-Riffgrund (Borkum Reef Ground) and Natura 2000 site DE1003-301 Doggerbank (Dogger Bank)**
+
+**Management zone A in Borkum-Riffgrund**
+
+The geographical area enclosed by:
+
+a) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| M7-A01 | 54,016833 ° | 6,095963 ° |
+| M7-A02 | 54,016389 ° | 6,351944 ° |
+| M7-A03 | 53,914722 ° | 6,490000 ° |
+| M7-A04 | 53,914722 ° | 6,673611 ° |
+| M7-A05 | 53,863476 ° | 6,731941 ° |
+
+b) seaward delimitation line of the German territorial sea from 53,863476° N 6,731941° E to 53,724495° N 6,345843° E;
+
+c) seaward separation line between the German and Dutch Exclusive Economic Zones from 53,724495° N 6,345843° E to 54,016833° N 6,095963° E.
+
+**Management zone B in Doggerbank**
+
+The geographical area enclosed by:
+
+a) seaward separation line between the German and Danish Exclusive Economic Zones from 55,810118° N 4,019211° E to 55,439805° N 4,699856° E;
+
+b) rhumb line sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| M7-B01 | 55,439805 ° | 4,699856 ° |
+| M7-B02 | 55,365081 ° | 4,260850 ° |
+
+c) seaward separation line between the German and Dutch Exclusive Economic Zones from 55,365081° N 4,260850° E to 55,645558° N 3,637590° E;
+
+d) rhumb line sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| M7-B03 | 55,645558 ° | 3,637590 ° |
+| M7-B04 | 55,810118 ° | 4,019211 ° |
+
+**4(3.az): Alert zones of 4 nautical miles surrounding the Natura 2000 site DE2104-301 Borkum-Riffgrund (Borkum Reef Ground) and the Natura 2000 site DE1003-301 Doggerbank (Dogger Bank)**
+
+**Area 4(4): Natura 2000 site NL2016166 Friese Front (Frisian Front)**
+
+The geographical area enclosed by rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude N | Longitude E |
+| --- | --- | --- |
+| 4-01 | 53°49.712′ | 5°13.602′ |
+| 4-02 | 53°24.922′ | 4°12.963′ |
+| 4-03 | 53°47.936′ | 4°12.890′ |
+| 4-04 | 54°13.337′ | 5°13.998′ |
+
+( 1 ) Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy (OJ L 112, 30.4.2011, p. 1).
+
+( 2 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).
+
+( 3 ) Commission Implementing Regulation (EU) 2020/967 of 3 July 2020 laying down the detailed rules on the signal and implementation characteristics of acoustic deterrent devices as referred to in Part A of Annex XIII of Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fisheries resources and the protection of marine ecosystems through technical measures (OJ L 213, 6.7.2020, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2020/967/oj).

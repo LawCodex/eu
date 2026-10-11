@@ -1,0 +1,702 @@
+---
+title: "Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 Text with EEA relevance"
+identifier: "32012R0260"
+eli: "http://data.europa.eu/eli/reg/2012/260/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-03-14
+entry_into_force: 2012-12-21
+last_amended: 2024-04-08
+consolidated_version: "02012R0260-20240408"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0260-20240408"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 Text with EEA relevance
+
+**REGULATION (EU) No 260/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2012**
+
+**establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 248/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 84</td><td>1</td><td>20.3.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/886 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 886</td><td>1</td><td>19.3.2024</td></tr>
+</table>
+
+**REGULATION (EU) No 260/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2012**
+
+**establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules for credit transfer and direct debit transactions denominated in euro within the Union where both the payer’s payment service provider and the payee’s payment service provider are located in the Union, or where the sole payment service provider (PSP) involved in the payment transaction is located in the Union.
+
+2\. This Regulation does not apply to the following:
+
+(a) payment transactions carried out between and within PSPs, including their agents or branches, for their own account;
+
+(b) payment transactions processed and settled through large-value payment systems, excluding direct debit payment transactions which the payer has not explicitly requested be routed via a large-value payment system;
+
+(c) payment transactions through a payment card or similar device, including cash withdrawals, unless the payment card or similar device is used only to generate the information required to directly make a credit transfer or direct debit to and from a payment account identified by BBAN or IBAN;
+
+(d) payment transactions by means of any telecommunication, digital or IT device, if such payment transactions do not result in a credit transfer or direct debit to and from a payment account identified by BBAN or IBAN;
+
+(e) transactions of money remittance as defined in point (13) of Article 4 of Directive 2007/64/EC;
+
+(f) payment transactions transferring electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions ( 1 ), unless such transactions result in a credit transfer or direct debit to and from a payment account identified by BBAN or IBAN.
+
+3\. Where payment schemes are based on payment transactions by credit transfers or direct debits but have additional optional features or services, this Regulation applies only to the underlying credit transfers or direct debits.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘credit transfer’ means a national or cross-border payment service for crediting a payee’s payment account with a payment transaction or a series of payment transactions from a payer’s payment account by the PSP which holds the payer’s payment account, based on an instruction given by the payer;
+
+(1a) ‘instant credit transfer’ means a credit transfer which is executed immediately, 24 hours a day and on any calendar day;
+
+(1b) ‘payment initiation channel’ means any method, device or procedure through which payers can place payment orders with their PSP for a credit transfer, including online banking, a mobile banking application, an automated teller machine, or in any other way on the premises of the PSP;
+
+(1c) ‘payment initiation service provider’ means a payment initiation service provider as defined in Article 4, point (18), of Directive (EU) 2015/2366 of the European Parliament and of the Council ( 2 );
+
+(1d) ‘name of the payee’ means, in respect of a natural person, the name and surname and, in respect of a legal person, the commercial or legal name;
+
+(1e) ‘targeted financial restrictive measure’ means an asset freeze imposed on a person, body or entity or a prohibition on making funds or economic resources available to a person, body or entity, or for its benefit, either directly or indirectly, pursuant to restrictive measures adopted in accordance with Article 215 TFEU;
+
+(1f) ‘Legal Entity Identifier’ or ‘LEI’ means a unique alphanumeric reference code based on the ISO 17442 standard assigned to a legal entity;
+
+(2) ‘direct debit’ means a national or cross-border payment service for debiting a payer’s payment account, where a payment transaction is initiated by the payee on the basis of the payer’s consent;
+
+(3) ‘payer’ means a natural or legal person who holds a payment account and allows a payment order from that payment account or, where there is no payer’s payment account, a natural or legal person who makes a payment order to a payee’s payment account;
+
+(4) ‘payee’ means a natural or legal person who holds a payment account and who is the intended recipient of funds which have been the subject of a payment transaction;
+
+(5) ‘payment account’ means a payment account as defined in Article 4, point (12), of Directive (EU) 2015/2366;
+
+(6) ‘payment system’ means a funds transfer system with formal and standardised arrangements and common rules for the processing, clearing or settlement of payment transactions;
+
+(7) ‘payment scheme’ means a single set of rules, practices, standards and/or implementation guidelines agreed between PSPs for the execution of payment transactions across the Union and within Member States, and which is separated from any infrastructure or payment system that supports its operation;
+
+(8) ‘PSP’ means a payment service provider falling under any of the categories referred to in Article 1(1) of Directive 2007/64/EC and the legal and natural persons referred to in Article 26 of Directive 2007/64/EC, but excludes the bodies listed in Article 2 of Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions ( 3 ) benefiting from a waiver under Article 2(3) of Directive 2007/64/EC;
+
+(9) ‘PSU’ means a natural or legal person making use of a payment service in the capacity of payer or payee;
+
+(10) ‘payment transaction’ means an act, initiated by the payer or by the payee of transferring funds between payment accounts in the Union, irrespective of any underlying obligations between the payer and the payee;
+
+(11) ‘payment order’ means an instruction by a payer or payee to his PSP requesting the execution of a payment transaction;
+
+(12) ‘interchange fee’ means a fee paid between the payer’s PSP and the payee’s PSP for direct debit transactions;
+
+(13) ‘MIF’ means a multilateral interchange fee which is subject to an arrangement between more than two PSPs;
+
+(14) ‘BBAN’ means a payment account number identifier, which unambiguously identifies an individual payment account with a PSP in a Member State and which can only be used for national payment transactions while the same payment account is identified by IBAN for cross-border payment transactions;
+
+(15) ‘IBAN’ means an international payment account number identifier, which unambiguously identifies an individual payment account in a Member State, the elements of which are specified by the International Organisation for Standardisation (ISO);
+
+(16) ‘BIC’ means a business identifier code that unambiguously identifies a PSP, the elements of which are specified by the ISO;
+
+(17) ‘ISO 20022 XML standard’ means a standard for the development of electronic financial messages as defined by the ISO, encompassing the physical representation of the payment transactions in XML syntax, in accordance with business rules and implementation guidelines of Union-wide schemes for payment transactions falling within the scope of this Regulation;
+
+(18) ‘large-value payment system’ means a payment system the main purpose of which is to process, clear or settle single payment transactions of high priority and urgency, and primarily of large amount;
+
+(19) ‘settlement date’ means a date on which obligations with respect to the transfer of funds are discharged between the payer’s PSP and the payee’s PSP;
+
+(20) ‘collection’ means a part of a direct debit transaction starting from its initiation by the payee until its end through the normal debiting of the payer’s payment account;
+
+(21) ‘mandate’ means the expression of consent and authorisation given by the payer to the payee and (directly or indirectly via the payee) to the payer’s PSP to allow the payee to initiate a collection for debiting the payer’s specified payment account and to allow the payer’s PSP to comply with such instructions;
+
+(22) ‘retail payment system’ means a payment system the main purpose of which is to process, clear or settle credit transfers or direct debits which are primarily of small amount, and that is not a large-value payment system;
+
+(23) ‘microenterprise’ means an enterprise, which at the time of conclusion of the payment service contract, is an enterprise as defined in Article 1 and Article 2(1) and (3) of the Annex to Commission Recommendation 2003/361/EC ( 4 );
+
+(24) ‘consumer’ means a natural person acting for purposes other than trade, business or profession in payment service contracts;
+
+(25) ‘R-transaction’ means a payment transaction which cannot be properly executed by a PSP or which results in exception processing, inter alia, because of a lack of funds, revocation, a wrong amount or a wrong date, a lack of mandate or wrong or closed account;
+
+(26) ‘cross-border payment transaction’ means a payment transaction initiated by a payer or by a payee where the payer’s PSP and the payee’s PSP are located in different Member States;
+
+(27) ‘national payment transaction’ means a payment transaction initiated by a payer or by a payee, where the payer’s PSP and the payee’s PSP are located in the same Member State;
+
+(28) ‘reference party’ means a natural or legal person on behalf of whom a payer makes a payment or a payee receives a payment.
+
+## Article 3 — Reachability
+
+1\. A payee’s PSP which is reachable for a national credit transfer under a payment scheme shall be reachable, in accordance with the rules of a Union-wide payment scheme, for credit transfers initiated by a payer through a PSP located in any Member State.
+
+2\. A payer’s PSP which is reachable for a national direct debit under a payment scheme shall be reachable, in accordance with the rules of a Union-wide payment scheme, for direct debits initiated by a payee through a PSP located in any Member State.
+
+3\. Paragraph 2 shall apply only to direct debits which are available to consumers as payers under the payment scheme.
+
+## Article 4 — Interoperability
+
+1\. Payment schemes to be used by PSPs for the purposes of carrying out credit transfers and direct debits shall comply with the following conditions:
+
+(a) their rules are the same for national and cross-border credit transfer transactions within the Union and similarly for national and cross-border direct debit transactions within the Union; and
+
+(b) the participants in the payment scheme represent a majority of PSPs within a majority of Member States, and constitute a majority of PSPs within the Union, taking into account only PSPs that provide credit transfers or direct debits respectively.
+
+For the purposes of point (b) of the first subparagraph, where neither the payer nor the payee is a consumer, only Member States where such services are made available by PSPs and only PSPs providing such services shall be taken into account.
+
+2\. The operator or, in the absence of a formal operator, the participants of a retail payment system within the Union shall ensure that their payment system is technically interoperable with other retail payment systems within the Union through the use of standards developed by international or European standardisation bodies. In addition, they shall not adopt business rules that restrict interoperability with other retail payment systems within the Union. Payment systems designated under Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems ( 5 ) shall only be obliged to ensure technical interoperability with other payment systems designated under the same Directive.
+
+3\. The processing of credit transfers and direct debits shall not be hindered by technical obstacles.
+
+4\. The payment scheme owner or, where there is no formal payment scheme owner, the leading participant of a new entrant retail payment scheme which has participants in at least eight Member States, may apply to the competent authorities in the Member State where the payment scheme owner or leading participant is located for a temporary exemption from the conditions set out in point (b) of the first subparagraph of paragraph 1. Those competent authorities may grant, after consulting the competent authorities in the other Member States where the new entrant payment scheme has a participant, the Commission and the ECB, such an exemption for a maximum of 3 years. Those competent authorities shall base their decision on the potential of the new entrant payment scheme to develop into a fully fledged pan-European payment scheme and its contribution to improving competition or promoting innovation.
+
+5\. With the exception of payment services benefiting from a waiver under Article 16(4), this Article shall be effective by 1 February 2014.
+
+## Article 5 — Requirements for credit transfer and direct debit transactions
+
+1\. PSPs shall carry out credit transfer and direct debit transactions in accordance with the following requirements:
+
+(a) they must use the payment account identifier specified in point (1)(a) of the Annex for the identification of payment accounts regardless of the location of the PSPs concerned;
+
+(b) they must use the message formats specified in point (1)(b) of the Annex, when transmitting payment transactions to another PSP or via a retail payment system;
+
+(c) they must ensure that PSUs use the payment account identifier specified in point (1)(a) of the Annex for the identification of payment accounts, whether the payer’s PSP and the payee’s PSP or the sole PSP in the payment transaction are located in the same Member State or in different Member States;
+
+(d) they must ensure that where a PSU that is not a consumer or a microenterprise, initiates or receives individual credit transfers or individual direct debits which are not transmitted individually, but are bundled together for transmission, the message formats specified in point (1)(b) of the Annex are used.
+
+Without prejudice to point (b) of the first subparagraph, PSPs shall, upon the specific request of a PSU, use the message formats specified in point (1)(b) of the Annex in relation to that PSU.
+
+2\. PSPs shall carry out credit transfers in accordance with the following requirements, subject to any obligation laid down in the national law implementing Directive 95/46/EC:
+
+(a) the payer’s PSP must ensure that the payer provides the data elements specified in point (2)(a) of the Annex;
+
+(b) the payer’s PSP must provide the data elements specified in point (2)(b) of the Annex to the payee’s PSP;
+
+(c) the payee’s PSP must provide or make available to the payee the data elements specified in point (2)(d) of the Annex.
+
+3\. PSPs shall carry out direct debits in accordance with the following requirements, subject to any obligation laid down in national law implementing Directive 95/46/EC:
+
+(a) the payee’s PSP must ensure that:
+
+(i) the payee provides the data elements specified in point (3)(a) of the Annex with the first direct debit and one-off direct debit and with each subsequent payment transaction,
+
+(ii) the payer gives consent both to the payee and to the payer’s PSP (directly or indirectly via the payee), the mandates, together with later modifications or cancellation, are stored by the payee or by a third party on behalf of the payee and the payee is informed of this obligation by the PSP in accordance with Articles 41 and 42 of Directive 2007/64/EC;
+
+(b) the payee’s PSP must provide the payer’s PSP with the data elements specified in point (3)(b) of the Annex;
+
+(c) the payer’s PSP must provide or make available to the payer the data elements specified in point (3)(c) of the Annex;
+
+(d) the payer must have the right to instruct its PSP:
+
+(i) to limit a direct debit collection to a certain amount or periodicity or both,
+
+(ii) where a mandate under a payment scheme does not provide for the right to a refund, to verify each direct debit transaction, and to check whether the amount and periodicity of the submitted direct debit transaction is equal to the amount and periodicity agreed in the mandate, before debiting their payment account, based on the mandate-related information,
+
+(iii) to block any direct debits to the payer’s payment account or to block any direct debits initiated by one or more specified payees or to authorise direct debits only initiated by one or more specified payees;
+
+Where neither the payer nor the payee is a consumer, PSPs shall not be required to comply with point (d)(i), (ii) or (iii).
+
+The payer’s PSP shall inform the payer of the rights referred to in point (d) in accordance with Articles 41 and 42 of Directive 2007/64/EC.
+
+Upon the first direct debit transaction or a one-off direct debit transaction and upon each subsequent direct debit transaction, the payee shall send the mandate-related information to his or her PSP and the payee’s PSP shall transmit that mandate-related information to the payer’s PSP with each direct debit transaction.
+
+4\. In addition to the requirements referred to in paragraph 1, the payee accepting credit transfers shall communicate its payment account identifier specified in point (1)(a) of the Annex and, until 1 February 2014 for national payment transactions and until 1 February 2016 for cross-border payment transactions, but only where necessary, its PSP’s BIC to its payers, when a credit transfer is requested.
+
+5\. Before the first direct debit transaction, a payer shall communicate its payment account identifier specified in point (1)(a) of the Annex. The BIC of a payer’s PSP shall be communicated until 1 February 2014 for national payment transactions and until 1 February 2016 for cross-border payment transactions by the payer but only where necessary.
+
+6\. Where the framework agreement between the payer and the payer’s PSP does not provide for the right to a refund, the payer’s PSP shall, without prejudice to paragraph (3)(a)(ii), verify each direct debit transaction to check whether the amount of the submitted direct debit transaction is equal to the amount and periodicity agreed in the mandate before debiting the payer’s payment account, based on the mandate-related information.
+
+7\. After 1 February 2014 for national payment transactions and after 1 February 2016 for cross-border payment transactions PSPs shall not require PSUs to indicate the BIC of the PSP of a payer or of the PSP of a payee.
+
+8\. The payer’s PSP and the payee’s PSP shall not levy additional charges or other fees on the read-out process to automatically generate a mandate for those payment transactions initiated through or by means of a payment card at the point of sale, which result in direct debit.
+
+## Article 5a — Instant credit transfer transactions
+
+1\. PSPs that offer to their PSUs a payment service of sending and receiving credit transfers shall offer to all of their PSUs a payment service of sending and receiving instant credit transfers.
+
+PSPs as referred to in the first subparagraph shall ensure that all payment accounts that are reachable for credit transfers are also reachable for instant credit transfers 24 hours a day and on any calendar day.
+
+2\. By way of derogation from paragraph 1, and subject to having obtained the prior permission of its competent authorities based on those authorities’ assessment of its access to liquidity in euro, a PSP located in a Member State whose currency is not the euro shall not be obliged to offer PSUs the payment service of sending instant credit transfers in euro beyond a limit per transaction, from payment accounts denominated in the national currency of that Member State, during the time when that PSP neither sends nor receives non-instant credit transfer transactions in euro with respect to such payment accounts. That limit shall be set by the competent authorities and shall not be lower than EUR 25 000 . Competent authorities may grant prior permission at the request of the PSP for a period of one year. At the request of the PSP, competent authorities may extend that prior permission by further periods of one year following a reassessment by the competent authorities of the PSP’s access to liquidity in euro. Competent authorities shall inform the Commission on an annual basis of prior permissions and extensions granted in accordance with this paragraph.
+
+The ECB and any national central bank, when not acting in its capacity as monetary authority or other public authority, may limit its offer of a payment service of sending instant credit transfers to the period of time during which it offers a payment service of sending and receiving non-instant credit transfers.
+
+3\. Notwithstanding Article 78(1), second subparagraph, of Directive (EU) 2015/2366, the time of receipt of a payment order for an instant credit transfer shall be the moment it has been received by the payer’s PSP, regardless of the hour or calendar day.
+
+Notwithstanding Article 78(2) of Directive (EU) 2015/2366, if the payer and the payer’s PSP agree that execution of the payment order for an instant credit transfer is to take place at a specific time on a specific day or at the moment when the payer has put funds at the disposal of the PSP, the time of receipt of the payment order for an instant credit transfer shall be deemed to be the agreed time, regardless of the hour or calendar day.
+
+By way of derogation from the first and second subparagraphs of this paragraph, the time of receipt of the payment order for an instant credit transfer shall be:
+
+(a) for a non-electronic payment order for an instant credit transfer, the moment when the payer’s PSP has introduced the payment order information into its internal system, which shall occur as soon as possible after the non-electronic payment order for an instant credit transfer has been placed by the payer with the payer’s PSP;
+
+(b) for an individual payment order for an instant credit transfer belonging to a package as referred to in paragraph 7 of this Article, where the conversion of that package into individual payment transactions is carried out by the payer’s PSP, the moment when the ensuing payment transaction has been unpacked by the payer’s PSP; the payer’s PSP shall start the conversion of the package immediately after it has been placed by the payer with the payer’s PSP and complete that conversion as soon as possible;
+
+(c) for a payment order for an instant credit transfer from payment accounts that are not denominated in euro, the moment when the amount of the payment transaction has been converted into euro; such currency conversion shall take place immediately after the payment order for an instant credit transfer has been placed by the payer with the payer’s PSP.
+
+4\. When carrying out instant credit transfers, PSPs shall, in addition to the requirements set out in Article 5, comply with the following requirements:
+
+(a) PSPs shall ensure that payers are able to place a payment order for an instant credit transfer through all of the same payment initiation channels as the ones through which those payers are able to place a payment order for other credit transfers;
+
+(b) notwithstanding Article 83 of Directive (EU) 2015/2366, immediately after the time of receipt of a payment order for an instant credit transfer, the payer’s PSP shall verify whether all of the necessary conditions for processing the payment transaction are met and whether the necessary funds are available, reserve or debit the amount of the payment transaction from the account of the payer, and immediately send the payment transaction to the payee’s PSP;
+
+(c) notwithstanding Article 83 and Article 87(2) of Directive (EU) 2015/2366, the payee’s PSP shall, within 10 seconds of the time of receipt of the payment order for an instant credit transfer by the payer’s PSP, make the amount of the payment transaction available on the payee’s payment account in the currency in which the payee’s account is denominated and confirm the completion of the payment transaction to the payer’s PSP;
+
+(d) notwithstanding Article 87(1) of Directive (EU) 2015/2366, the payee’s PSP shall ensure that the credit value date for the payee’s payment account is the same date as the date on which the payee’s payment account is credited by the payee’s PSP with the amount of the payment transaction; and
+
+(e) immediately upon receiving the confirmation of completion referred to in point (c), or where no such confirmation of completion is received by the payer’s PSP within 10 seconds of the time of receipt of the payment order for an instant credit transfer, the payer’s PSP shall, free of charge, inform the payer, as well as, where applicable, the payment initiation service provider, whether the amount of the payment transaction has been made available on the payee’s payment account.
+
+5\. Notwithstanding Article 89 of Directive (EU) 2015/2366, where the payer’s PSP has not received a message from the payee’s PSP confirming that the funds were made available on the payee’s payment account within 10 seconds of the time of receipt, the payer’s PSP shall immediately restore the payment account of the payer to the state in which it would have been had the transaction not taken place.
+
+6\. Upon the request of the PSU, a PSP shall offer a PSU the possibility of setting a limit fixing a maximum amount that can be sent by means of instant credit transfer. That limit may be either on a per day or per transaction basis, at the sole discretion of the PSU. PSPs shall ensure that PSUs are able to modify that maximum amount at any time prior to the placing of a payment order for an instant credit transfer. Where a PSU’s payment order for an instant credit transfer exceeds, or leads to exceeding of, the maximum amount, the payer’s PSP shall not execute the payment order for the instant credit transfer, shall notify the PSU thereof and shall inform the PSU as to how to modify the maximum amount.
+
+7\. When offering the payment service of sending and receiving instant credit transfers, PSPs shall offer their PSUs the possibility of submitting multiple payment orders as a package if PSPs offer such possibility to their PSUs for other credit transfers.
+
+PSPs shall not impose limits on the number of payment orders that can be submitted in a package of instant credit transfers which are lower than the limits they impose in respect of packages of other credit transfers.
+
+8\. PSPs as referred to in paragraph 1 that are located in a Member State whose currency is the euro shall offer PSUs the payment service of receiving instant credit transfers in euro as laid down in this Article by 9 January 2025, and the payment service of sending instant credit transfers in euro as laid down in this Article by 9 October 2025.
+
+PSPs as referred to in paragraph 1 that are located in a Member State whose currency is not the euro shall offer PSUs the payment service of receiving instant credit transfers in euro as laid down in this Article by 9 January 2027, and the payment service of sending instant credit transfers in euro as laid down in this Article by 9 July 2027.
+
+By way of derogation from the second subparagraph of this paragraph, until 9 June 2028 PSPs as referred to in paragraph 1 of this Article that are located in a Member State whose currency is not the euro shall not be obliged to offer PSUs the payment service of sending instant credit transfers in euro from payment accounts denominated in the national currency of that Member State, during the time when those PSPs neither send nor receive non-instant credit transfer transactions in euro with respect to such accounts.
+
+Notwithstanding the first subparagraph of this paragraph, PSPs that are electronic money institutions as defined in Article 2, point (1), of Directive 2009/110/EC or payment institutions as defined in Article 4, point (4), of Directive (EU) 2015/2366 and that are located in a Member State whose currency is the euro shall offer PSUs the payment service of sending and receiving instant credit transfers in euro as laid down in this Article by 9 April 2027.
+
+Notwithstanding the second subparagraph of this paragraph, PSPs that are electronic money institutions as defined in Article 2, point (1), of Directive 2009/110/EC or payment institutions as defined in Article 4, point (4), of Directive (EU) 2015/2366 and that are located in a Member State whose currency is not the euro shall offer PSUs the payment service of receiving instant credit transfers in euro as laid down in this Article by 9 April 2027 and the payment service of sending instant credit transfers in euro as laid down in this Article by 9 July 2027.
+
+## Article 5b — Charges in respect of credit transfers and verification of the payee
+
+1\. Any charges levied by a PSP on payers and payees in respect of sending and receiving instant credit transfers shall not be higher than the charges levied by that PSP in respect of sending and receiving other credit transfers of corresponding type.
+
+2\. The services referred to in Article 5c shall be provided to all PSUs free of charge.
+
+3\. PSPs located in a Member State whose currency is the euro shall comply with this Article by 9 January 2025.
+
+PSPs located in a Member State whose currency is not the euro shall comply with this Article by 9 January 2027.
+
+## Article 5c — Verification of the payee in the case of credit transfers
+
+1\. A payer’s PSP shall offer the payer a service ensuring verification of the payee to whom the payer intends to send a credit transfer (service ensuring verification). The payer’s PSP shall perform the service ensuring verification immediately after the payer provides relevant information about the payee and before the payer is offered the possibility of authorising that credit transfer. The payer’s PSP shall offer the service ensuring verification regardless of the payment initiation channel used by the payer to place a payment order for the credit transfer. The service ensuring verification shall be provided in accordance with the following:
+
+(a) where the payment account identifier specified in point (1)(a) of the Annex and the name of the payee have been inserted in the payment order for the credit transfer by the payer, the payer’s PSP shall provide a service for matching the payment account identifier specified in point (1)(a) of the Annex with the name of the payee. Upon the request of the payer’s PSP, the payee’s PSP shall verify whether the payment account identifier specified in point (1)(a) of the Annex and the name of the payee provided by the payer match. Where they do not match, the payer’s PSP shall, based on information provided by the payee’s PSP, notify the payer thereof and inform the payer that authorising the credit transfer might lead to transferring the funds to a payment account not held by the payee indicated by the payer. Where the name of the payee provided by the payer and the payment account identifier specified in point (1)(a) of the Annex almost match, the payer’s PSP shall indicate to the payer the name of the payee associated with the payment account identifier specified in point (1)(a) of the Annex provided by the payer;
+
+(b) where the payee is a legal person and the payer’s PSP offers a payment initiation channel which allows the payer to place a payment order by providing the payment account identifier specified in point (1)(a) of the Annex to this Regulation together with data elements other than the name of the payee that unambiguously identify the payee, such as a fiscal number, a European unique identifier as referred to in Article 16(1), second subparagraph, of Directive (EU) 2017/1132 of the European Parliament and of the Council ( 6 ) or an LEI, and where those same data elements are available in the internal system of the payee’s PSP, that PSP, upon the request of the payer’s PSP, shall verify whether the payment account identifier specified in point (1)(a) of the Annex to this Regulation and the data element provided by the payer match. Where the payment account identifier specified in point (1)(a) of the Annex to this Regulation and the data element provided by the payer do not match, the payer’s PSP shall, based on information provided by the payee’s PSP, notify the payer thereof;
+
+(c) where a payment account identified through a payment account identifier specified in point (1)(a) of the Annex provided by the payer is held by a PSP on behalf of multiple payees, additional information allowing the payee to be unambiguously identified may be provided by the payer to the payer’s PSP. The PSP maintaining that payment account on behalf of multiple payees or, where appropriate, the PSP holding that payment account, shall, upon the request of the payer’s PSP, confirm whether the payee indicated by the payer is among the multiple payees on whose behalf the payment account is maintained or held. The payer’s PSP shall notify the payer if the payee indicated by the payer is not among the multiple payees on whose behalf the payment account is maintained or held;
+
+(d) in cases other than those described in points (a), (b) and (c) of this paragraph, and, in particular, where a PSP provides a payment initiation channel which does not require the payer to insert both the payment account identifier specified in point (1)(a) of the Annex and the name of the payee, the PSP shall ensure that the payee to whom the payer intends to send a credit transfer is correctly identified. For that purpose, the PSP shall inform the payer in a way that allows the payer to validate the payee before authorising the credit transfer.
+
+2\. Where the payment account identifier specified in point (1)(a) of the Annex or the name of the payee is provided by a payment initiation service provider, rather than by the payer, that payment initiation service provider shall ensure that the information concerning the payee is correct.
+
+3\. PSPs, for the purposes of paragraph 1, point (d), and payment initiation service providers, for the purposes of paragraph 2, shall maintain robust internal procedures to ensure that the information concerning payees is correct.
+
+4\. In the case of paper-based payment orders, the payer’s PSP shall perform the service ensuring verification at the time of receipt of the payment order, unless the payer is not present at the time of receipt.
+
+5\. PSPs shall ensure that the performance of the service ensuring verification and of the service described in paragraph 2 does not prevent payers from authorising the credit transfer concerned.
+
+6\. PSPs shall provide PSUs that are not consumers with the means to opt out from receiving the service ensuring verification when submitting multiple payment orders as a package.
+
+PSPs shall ensure that PSUs that opted out from receiving the service ensuring verification have the right to opt in at any time to receive that service.
+
+7\. Whenever the payer's PSP notifies the payer in accordance with paragraph 1, point (a), (b) or (c), that PSP shall at the same time inform the payer that authorising the credit transfer might lead to transferring the funds to a payment account not held by the payee indicated by the payer. A PSP shall provide that information to the PSU that is not a consumer when that PSU opts out from receiving the service ensuring verification when submitting multiple payment orders as a package. PSPs shall inform their PSUs of the implications for PSP liability and PSU refund rights resulting from a decision by PSUs to ignore a notification as referred to in paragraph 1, points (a), (b) and (c).
+
+8\. A PSP shall not be held liable for the execution of a credit transfer to an unintended payee on the basis of an incorrect unique identifier, as laid down in Article 88 of Directive (EU) 2015/2366, provided that it has fulfilled the requirements of this Article.
+
+Where the payer’s PSP fails to comply with paragraph 1 of this Article, or where the payment initiation service provider fails to comply with paragraph 2 of this Article, and where that failure results in a defectively executed payment transaction, the payer’s PSP shall without delay refund the payer the amount transferred and, where applicable, restore the debited payment account to the state in which it would have been had the transaction not taken place.
+
+Where the failure to comply occurs because the payee’s PSP, or the payment initiation service provider, failed to comply with its obligations under this Article, the payee’s PSP or, where relevant, the payment initiation service provider, shall compensate the payer’s PSP for the financial damage caused to the payer’s PSP by that failure.
+
+Any further financial loss caused to the payer may be compensated in accordance with the law applicable to the contract concluded between the payer and the relevant PSP.
+
+9\. PSPs located in a Member State whose currency is the euro shall comply with this Article by 9 October 2025.
+
+PSPs located in a Member State whose currency is not the euro shall comply with this Article by 9 July 2027.
+
+## Article 5d — Screening of PSUs by PSPs that offer instant credit transfers to verify whether a PSU is a person or entity subject to targeted financial restrictive measures
+
+1\. PSPs offering instant credit transfers shall verify whether any of their PSUs are persons or entities subject to targeted financial restrictive measures.
+
+PSPs shall carry out such verifications immediately after the entry into force of any new targeted financial restrictive measures, and immediately after the entry into force of any amendments to such targeted financial restrictive measures, and at least once every calendar day.
+
+2\. During the execution of an instant credit transfer, the payer’s PSP and the payee’s PSP involved in the execution of that instant credit transfer shall not verify whether the payer or the payee whose payment accounts are used for the execution of that instant credit transfer are persons or entities subject to targeted financial restrictive measures in addition to carrying out verifications under paragraph 1 of this Article.
+
+The first subparagraph of this paragraph is without prejudice to actions taken by PSPs in order to comply with restrictive measures, other than targeted financial restrictive measures, adopted in accordance with Article 215 TFEU, with restrictive measures that are not adopted in accordance with Article 215 TFEU, or with Union law on the prevention of money laundering and terrorist financing.
+
+3\. PSPs shall comply with this Article by 9 January 2025.
+
+## Article 6 — End-dates
+
+1\. By 1 February 2014, credit transfers shall be carried out in accordance with the technical requirements set out in Article 5(1), (2) and (4) and points 1 and 2 of the Annex.
+
+2\. By 1 February 2014, direct debits shall be carried out in accordance with Article 8(2) and (3) and with the requirements set out in Article 5(1), (3), (5), (6) and (8) and points 1 and 3 of the Annex.
+
+3\. Without prejudice to Article 3, direct debits shall be carried out in accordance with the requirements set out in Article 8(1) by 1 February 2017 for national payments and by 1 November 2012 for cross-border payments.
+
+4\. For national payment transactions a Member State or, with the approval of the Member State concerned, the PSPs of a Member State may, after taking into account and evaluating the state of preparedness and readiness of their citizens, set earlier dates than those referred to in paragraphs 1 and 2.
+
+## Article 7 — Validity of mandates and right to a refund
+
+1\. A valid payee authorisation to collect recurring direct debits in a legacy scheme prior to 1 February 2014 shall continue to remain valid after that date and shall be considered as representing the consent to the payer’s PSP to execute the recurring direct debits collected by that payee in compliance with this Regulation in the absence of national law or customer agreements continuing the validity of direct debit mandates.
+
+2\. Mandates as referred to in paragraph 1 shall allow for unconditional refunds and refunds backdated to the date of the refunded payment where such refunds have been provided for within the framework of the existing mandate.
+
+## Article 8 — Interchange fees for direct debit transactions
+
+1\. Without prejudice to paragraph 2, no MIF per direct debit transaction or other agreed remuneration with an equivalent object or effect shall apply to direct debit transactions.
+
+2\. For R-transactions a MIF may be applied provided that the following conditions are complied with:
+
+(a) the arrangement aims at efficiently allocating costs to the PSP which, or the PSU of which, has caused the R-transaction, as appropriate, while taking into account the existence of transaction costs and ensures that the payer is not automatically charged and the PSP is prohibited from charging PSUs in respect of a given type of R-transaction fees that exceed the cost borne by the PSP for such transactions;
+
+(b) the fees are strictly cost based;
+
+(c) the level of the fees does not exceed the actual costs of handling an R-transaction by the most cost-efficient comparable PSP that is a representative party to the arrangement in terms of volume of transactions and nature of services;
+
+(d) the application of the fees in accordance with points (a), (b) and (c) prevent the PSP from charging additional fees relating to the costs covered by those interchange fees to their respective PSUs;
+
+(e) there is no practical and economically viable alternative to the arrangement which would lead to an equally or more efficient handling of R-transactions at equal or lower cost to consumers.
+
+For the purposes of the first subparagraph, only cost categories directly and unequivocally relevant to the handling of the R-transaction shall be considered in the calculation of the R-transaction fees. Those costs shall be precisely determined. The breakdown of the amount of the costs, including separate identification of each of its components, shall be part of the arrangement to allow for easy verification and monitoring.
+
+3\. Paragraphs 1 and 2 shall apply mutatis mutandis to unilateral arrangements by a PSP and to bilateral arrangements between PSPs that have an object or effect equivalent to that of a multilateral arrangement.
+
+## Article 9 — Payment accessibility
+
+1\. A payer making a credit transfer to a payee holding a payment account located within the Union shall not specify the Member State in which that payment account is to be located, provided that the payment account is reachable in accordance with Article 3.
+
+2\. A payee accepting a credit transfer or using a direct debit to collect funds from a payer holding a payment account located within the Union shall not specify the Member State in which that payment account is to be located, provided that the payment account is reachable in accordance with Article 3.
+
+## Article 10 — Competent authorities
+
+1\. Member States shall designate as the competent authorities responsible for ensuring compliance with this Regulation public authorities, bodies recognised by national law or public authorities expressly empowered for that purpose by national law, including national central banks. Member States may designate existing bodies to act as competent authorities.
+
+2\. Member States shall notify the Commission of the competent authorities designated under paragraph 1 by 1 February 2013. They shall notify the Commission and the European Supervisory Authority (European Banking Authority) (EBA) without delay of any subsequent change concerning those authorities.
+
+3\. Member States shall ensure that the competent authorities referred to in paragraph 1 have all the powers necessary for the performance of their duties. Where there is more than one competent authority for matters covered by this Regulation on its territory, Member States shall ensure that those authorities cooperate closely so that they can discharge their respective duties effectively.
+
+4\. The competent authorities shall monitor compliance by PSPs with this Regulation effectively and take all necessary measures to ensure such compliance. They shall cooperate with each other in accordance with Article 24 of Directive 2007/64/EC and with Article 31 of Regulation (EU) No 1093/2010.
+
+## Article 11 — Penalties
+
+1\. Member States shall, by 1 February 2013, lay down rules on the penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive. Member States shall notify the Commission of those rules and measures by 1 August 2013 and shall notify it without delay of any subsequent amendment affecting them.
+
+1a. By way of derogation from paragraph 1 of this Article, Member States shall, by 9 April 2025, lay down rules on the penalties applicable to infringements of Articles 5a to 5d and shall take all measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive. Member States shall, by 9 April 2025, notify the Commission of those rules and measures and shall notify it, without delay, of any subsequent amendment affecting them.
+
+1b. With respect to penalties applicable to infringements of Article 5d, Member States shall ensure that such penalties include:
+
+(a) in the case of a legal person, maximum administrative fines of at least 10 % of the total annual net turnover of the legal person in the preceding business year;
+
+(b) in the case of a natural person, maximum administrative fines of at least EUR 5 000 000 , or the equivalent amount in the national currency in the Member States whose currency is not the euro on 8 April 2024.
+
+For the purposes of point (a) of this paragraph, where the legal person is a subsidiary of a parent undertaking, as defined in Article 2, point (9), of Directive 2013/34/EU of the European Parliament and of the Council ( 7 ), or of any undertaking which effectively exercises a dominant influence over that legal person, the relevant turnover shall be the turnover resulting from the consolidated accounts of the ultimate parent undertaking in the preceding business year.
+
+1c. The penalties referred to in paragraph 1a of this Article shall not be applied in respect of infringements of the reachability requirement in Article 5a(1), second subparagraph, where the payment accounts maintained by PSPs are not reachable for instant credit transfers due to planned maintenance where periods of non-availability are both foreseeable and short or to a planned downtime of all instant credit transfers under the relevant payment scheme, provided that PSUs have been informed in advance of those periods of planned maintenance or planned downtime.
+
+1d. By way of derogation from paragraph 1b, where the legal system of the Member State does not provide for administrative penalties, this Article may be applied in such a manner that the penalty is initiated by the competent authority and imposed by judicial authorities, while ensuring that that penalty is effective, proportionate and dissuasive, and has an equivalent effect to the administrative penalties imposed by the competent authorities of the Member States the legal system of which does provide for administrative penalties. In any event, the penalties imposed shall be effective, proportionate and dissuasive. The Member States the legal system of which does not provide for administrative penalties shall notify the Commission of their penalties by 9 April 2025 and shall notify it without delay of any subsequent amendment affecting them.
+
+2\. The penalties referred to in paragraph 1 shall not be applied to consumers.
+
+## Article 12 — Out-of-court complaint and redress procedures
+
+1\. Member States shall establish adequate and effective out-of-court complaint and redress procedures for the settlement of disputes concerning rights and obligations arising from this Regulation between PSUs and their PSPs. For those purposes, Member States shall designate existing bodies or where appropriate, set up new bodies.
+
+2\. Member States shall notify the Commission of the bodies referred to in paragraph 1 by 1 February 2013. They shall notify the Commission without delay of any subsequent change concerning those bodies.
+
+3\. Member States may provide for this Article to apply only to PSUs that are consumers or only to those that are consumers and microenterprises. Member States shall inform the Commission of any such provision by 1 August 2013.
+
+## Article 13 — Delegation of power
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 14 to amend the Annex, in order to take account of technical progress and market developments.
+
+## Article 14 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 13 shall be conferred on the Commission for a period of 5 years from 31 March 2012. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+
+3\. The delegation of power referred to in Article 13 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 13 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 3 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 3 months at the initiative of the European Parliament or the Council.
+
+## Article 15 — Review
+
+1\. By 1 February 2017, the Commission shall present to the European Parliament, the Council, the European Economic and Social Committee, ECB and EBA a report on the application of this Regulation accompanied, if appropriate, by a proposal.
+
+2\. By 9 October 2028 the Commission shall present a report to the European Parliament and to the Council accompanied, if appropriate, by a legislative proposal. The report shall contain an evaluation of:
+
+(a) the development of charges for payment accounts as well as for national and cross-border credit transfers and instant credit transfers in euro and in the national currency of the Member States whose currency is not the euro since 26 October 2022, including the impact of Article 5b(1) on those charges; and
+
+(b) the scope of Article 5d and its effectiveness in preventing unnecessary hindering of instant credit transfers.
+
+3\. PSPs shall report to their competent authorities on:
+
+(a) the level of charges for credit transfers, instant credit transfers and payment accounts;
+
+(b) the share of rejections, separately for national and cross-border payment transactions, due to the application of targeted financial restrictive measures.
+
+PSPs shall submit such reports every 12 months. The first report shall be submitted on 9 April 2025 and shall include information on the level of charges and on rejections during the period starting on 26 October 2022 until the end of preceding calendar year.
+
+4\. By 9 October 2025, and annually thereafter, competent authorities shall provide the Commission and EBA with the information reported to them by PSPs under paragraph 3, and the information on the volume and value of instant credit transfers in euro which have been sent, both national and cross-border, by PSPs established in their Member State in the course of the preceding calendar year.
+
+5\. The EBA shall develop draft implementing technical standards to specify uniform reporting templates, instructions and methodology on how to use those reporting templates for the purposes of reporting as referred to in paragraph 3.
+
+The EBA shall submit the draft implementing technical standards referred to in the first subparagraph of this paragraph to the Commission by 9 June 2024.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+6\. The Commission shall, by 9 April 2027, submit to the European Parliament and to the Council a report on remaining obstacles to the availability and use of instant credit transfers. That report shall assess the level of standardisation of the technologies which are relevant to the use of instant credit transfers. The report may be accompanied, if appropriate, by a legislative proposal.
+
+## Article 16 — Transitional provisions
+
+1\. By way of derogation from Article 6(1) and (2), PSPs may continue, until 1 August 2014, to process payment transactions in euro in formats that are different from those required for credit transfers and direct debits pursuant to this Regulation.
+
+Member States shall apply the rules on the penalties applicable to infringements of Article 6(1) and (2), laid down in accordance with Article 11, from 2 August 2014.
+
+By way of derogation from Article 6(1) and (2), Member States may allow PSPs to provide PSUs, until 1 February 2016, with conversion services for national payment transactions enabling PSUs that are consumers to continue using BBAN instead of the payment account identifier specified in point (1)(a) of the Annex on condition that interoperability is ensured by converting the payer’s and the payee’s BBAN technically and securely into the respective payment account identifier specified in point (1)(a) of the Annex. That payment account identifier shall be delivered to the initiating PSU, where appropriate before the payment is executed. In such a case PSPs shall not levy any charges or other fees on the PSU directly or indirectly linked to those conversion services.
+
+2\. PSPs that offer payment services denominated in euro and that are located in a Member State which does not have the euro as its currency shall comply with Article 3 when offering payment services denominated in euro by 31 October 2016. If, however, the euro is introduced as the currency of any such Member State before 31 October 2015, the PSP located in that Member State shall comply with Article 3 within 1 year of the date on which the Member State concerned joined the euro area.
+
+3\. Member States may allow their competent authorities to waive all or some of the requirements referred to in Article 6(1) and (2) for those credit transfer or direct debit transactions with a cumulative market share, based on the official payment statistics published annually by the ECB, of less than 10 % of the total number of credit transfers or direct debit transactions respectively, in that Member State until 1 February 2016.
+
+4\. Member States may allow their competent authorities to waive all or some of the requirements referred to in Article 6(1) and (2) for those payment transactions generated using a payment card at the point of sale which result in direct debit to and from a payment account identified by BBAN or IBAN until 1 February 2016.
+
+5\. By way of derogation from Article 6(1) and (2), Member States may allow their competent authorities, until 1 February 2016, to waive the specific requirement to use the message formats specified in point (1)(b) of the Annex set out in Article 5(1)(d) for PSUs which initiate or receive individual credit transfers or direct debits that are bundled together for transmission. Notwithstanding a possible waiver, PSPs shall fulfil the requirements set out in Article 5(1)(d) where a PSU requests such a service.
+
+6\. By way of derogation from Article 6(1) and (2), Member States may defer the requirements relating to provision of BIC for national payment transactions in Article 5(4), (5) and (7) until 1 February 2016.
+
+7\. Where a Member State intends to make use of a derogation as provided for in paragraph 1, 3, 4, 5 or 6, that Member State shall notify the Commission accordingly by 1 February 2013, and shall subsequently allow its competent authority to waive, as relevant, some or all of the requirements set out in Article 5, Article 6(1) or (2) and the Annex, for the relevant payment transactions as referred to in the respective paragraphs or subparagraphs and for a period not exceeding that of the derogation. Member States shall notify the Commission of the payment transactions subject to the derogation and of any subsequent change.
+
+8\. PSPs located in, and PSUs making use of a payment service in a Member State which does not have the euro as its currency shall comply with the requirements of Articles 4 and 5 by 31 October 2016. Operators of retail payment systems for a Member State which does not have the euro as its currency shall comply with the requirements of Article 4(2) by 31 October 2016.
+
+If, however, the euro is introduced as the currency of any such Member State before 31 October 2015, the PSPs or where relevant operators of retail payment systems located and PSUs making use of a payment service, in that Member State shall comply with the respective provisions within 1 year of the date on which the Member State concerned joined the euro area, but not earlier than the respective dates specified for the Member States having the euro as their own currency on 31 March 2012.
+
+9\. If the euro is introduced as the currency of a Member State before 9 April 2027, the PSPs in that Member State shall comply with Articles 5a, 5b and 5c within one year of the date on which the euro has been introduced as the currency of that Member State and not later than the respective dates specified in those Articles for PSPs in Member States whose currency is not the euro. However, such PSPs shall not be required to comply with Articles 5a, 5b and 5c earlier than the respective dates specified in those Articles for PSPs in the Member States whose currency is the euro.
+
+## Article 17 — Amendments to Regulation (EC) No 924/2009
+
+Regulation (EC) No 924/2009 is hereby amended as follows:
+
+(1) in Article 2, point (10) is replaced by the following:
+
+‘10. “funds” means banknotes and coins, scriptural money and electronic money as defined in Article 2(2) of Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions ( *1 ).
+
+(2) in Article 3, paragraph 1 is replaced by the following:
+
+‘1. Charges levied by a payment service provider on a payment service user in respect of cross-border payments shall be the same as the charges levied by that payment service provider on payment service users for corresponding national payments of the same value and in the same currency.’;
+
+(3) Article 4 is amended as follows:
+
+(a) paragraph 2 is deleted;
+
+(b) paragraph 3 is replaced by the following:
+
+‘3. The payment service provider may levy charges additional to those levied in accordance with Article 3(1) on the payment service user where that user instructs the payment service provider to execute the cross-border payment without communicating IBAN and, where appropriate and in accordance with Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 ( *2 ), the related BIC for the payment account in the other Member State. Those charges shall be appropriate and in line with the costs. They shall be agreed between the payment service provider and the payment service user. The payment service provider shall inform the payment service user of the amount of the additional charges in good time before the payment service user is bound by such an agreement.
+
+(4) in Article 5, paragraph 1 is replaced by the following:
+
+‘1. With effect from 1 February 2016, Member States shall remove settlement-based national reporting obligations on payment service providers for balance of payments statistics relating to payment transactions of their customers.’;
+
+(5) Article 7 is amended as follows:
+
+(a) in paragraph 1, the date ‘1 November 2012’ is replaced by ‘1 February 2017’;
+
+(b) in paragraph 2, the date ‘1 November 2012’ is replaced by ‘1 February 2017’;
+
+(c) in paragraph 3, the date ‘1 November 2012’ is replaced by ‘1 February 2017’;
+
+(6) Article 8 is deleted.
+
+## Article 18 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**TECHNICAL REQUIREMENTS (ARTICLE 5)**
+
+(1) In addition to the essential requirements set out in Article 5, the following technical requirements shall apply to credit transfers and direct debit transactions:
+
+(a) The payment account identifier referred to in Article 5(1)(a) and (c) must be IBAN.
+
+(b) The standard for message format referred to in Article 5(1)(b) and (d) must be the ISO 20022 XML standard.
+
+(c) The remittance data field must allow for 140 characters. Payment schemes may allow for a higher number of characters, except if the device used to remit information has technical limitations relating to the number of characters, in which case the technical limit of the device applies.
+
+(d) Remittance reference information and all the other data elements provided in accordance with points (2) and (3) of this Annex must be passed in full and without alteration between PSPs in the payment chain.
+
+(e) Once the required data is available in electronic form payment transactions must allow for a fully automated, electronic processing in all process stages throughout the payment chain (end-to-end straight through processing), enabling the entire payment process to be conducted electronically without the need for re-keying or manual intervention. This must also apply to exceptional handling of credit transfers and direct debit transactions, whenever possible.
+
+(f) Payment schemes must set no minimum threshold for the amount of the payment transaction allowing for credit transfers and direct debits but are not required to process payment transactions with zero amount.
+
+(g) Payment schemes are not obliged to carry out credit transfers and direct debits exceeding the amount of EUR 999 999 999,99 .
+
+(2) In addition to the requirements referred to in point (1), the following requirements shall apply to credit transfer transactions:
+
+(a) The data elements referred to in Article 5(2)(a) are the following:
+
+(i) the payer’s name and/or the IBAN of the payer’s payment account,
+
+(ii) the amount of the credit transfer,
+
+(iii) the IBAN of the payee’s payment account,
+
+(iv) where available, the payee’s name,
+
+(v) any remittance information.
+
+(b) The data elements referred to in Article 5(2)(b) are the following:
+
+(i) the payer’s name,
+
+(ii) the IBAN of the payer’s payment account,
+
+(iii) the amount of the credit transfer,
+
+(iv) the IBAN of the payee’s payment account,
+
+(v) any remittance information,
+
+(vi) any payee identification code,
+
+(vii) the name of any payee reference party,
+
+(viii) any purpose of the credit transfer,
+
+(ix) any category of the purpose of the credit transfer.
+
+(c) In addition, the following mandatory data elements are to be provided by the payer’s PSP to the payee’s PSP:
+
+(i) the BIC of the payer’s PSP (if not agreed otherwise by the PSPs involved in the payment transaction),
+
+(ii) the BIC of the payee’s PSP (if not agreed otherwise by the PSPs involved in the payment transaction),
+
+(iii) the identification code of the payment scheme,
+
+(iv) the settlement date of the credit transfer,
+
+(v) the reference number of the credit transfer message of the payer’s PSP,
+
+(d) The data elements referred to in Article 5(2)(c) are the following:
+
+(i) the payer’s name,
+
+(ii) the amount of the credit transfer,
+
+(iii) any remittance information.
+
+(3) In addition to the requirements referred to in point (1), the following requirements shall apply to direct debit transactions:
+
+(a) The data elements referred to in Article 5(3)(a)(i) are the following:
+
+(i) the type of direct debit (recurrent, one-off, first, last or reversal),
+
+(ii) the payee’s name,
+
+(iii) the IBAN of the payee’s payment account to be credited for the collection,
+
+(iv) where available, the payer’s name,
+
+(v) the IBAN of the payer’s payment account to be debited for the collection,
+
+(vi) the unique mandate reference,
+
+(vii) where the payer’s mandate is given after 31 March 2012, the date on which it was signed,
+
+(viii) the amount of the collection,
+
+(ix) where the mandate has been taken over by a payee other than the payee who issued the mandate, the unique mandate reference as given by the original payee who issued the mandate,
+
+(x) the payee’s identifier,
+
+(xi) where the mandate has been taken over by a payee other than the payee who issued the mandate, the identifier of the original payee who issued the mandate,
+
+(xii) any remittance information from the payee to the payer,
+
+(xiii) any purpose of the collection,
+
+(xiv) any category of the purpose of the collection.
+
+(b) The data elements referred to in Article 5(3)(b) are the following:
+
+(i) the BIC of the payee’s PSP (if not agreed otherwise by the PSPs involved in the payment transaction),
+
+(ii) the BIC of the payer’s PSP (if not agreed otherwise by the PSPs involved in the payment transaction),
+
+(iii) the payer reference party’s name (if present in dematerialised mandate),
+
+(iv) the payer reference party’s identification code (if present in dematerialised mandate),
+
+(v) the payee reference party’s name (if present in the dematerialised mandate),
+
+(vi) the payee reference party’s identification code (if present in dematerialised mandate),
+
+(vii) the identification code of the payment scheme,
+
+(viii) the settlement date of the collection,
+
+(ix) the payee’s PSP’s reference for the collection,
+
+(x) the type of mandate,
+
+(xi) the type of direct debit (recurrent, one-off, first, last or reversal),
+
+(xii) the payee’s name,
+
+(xiii) the IBAN of the payee’s payment account to be credited for the collection,
+
+(xiv) where available, the payer’s name,
+
+(xv) the IBAN of the payer’s payment account to be debited for the collection,
+
+(xvi) the unique mandate reference,
+
+(xvii) the date of signing of the mandate if the mandate is given by the payer after 31 March 2012,
+
+(xviii) the amount of the collection,
+
+(xix) the unique mandate reference as given by the original payee who issued the mandate (if the mandate has been taken over by another payee than the payee who issued the mandate),
+
+(xx) the payee’s identifier,
+
+(xxi) the identifier of the original payee who issued the mandate (if the mandate has been taken over by a payee other than the payee who issued the mandate),
+
+(xxii) any remittance information from the payee to the payer.
+
+(c) The data elements referred to in Article 5(3)(c) are the following:
+
+(i) the unique mandate reference,
+
+(ii) the payee’s identifier,
+
+(iii) the payee’s name,
+
+(iv) the amount of the collection,
+
+(v) any remittance information,
+
+(vi) the identification code of the payment scheme.
+
+( 1 ) OJ L 267, 10.10.2009, p. 7.
+
+( 2 ) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35).
+
+( 3 ) OJ L 177, 30.6.2006, p. 1.
+
+( 4 ) OJ L 124, 20.5.2003, p. 36.
+
+( 5 ) OJ L 166, 11.6.1998, p. 45.
+
+( 6 ) Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (OJ L 169, 30.6.2017, p. 46).
+
+( 7 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( *1 ) OJ L 267, 10.10.2009, p. 7.’;
+
+( *2 ) OJ L 94, 30.3.2012 p. 22.’;

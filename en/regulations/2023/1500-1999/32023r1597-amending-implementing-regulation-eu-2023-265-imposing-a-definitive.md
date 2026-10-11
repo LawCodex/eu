@@ -1,0 +1,82 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/1597 of 3 August 2023 amending Implementing Regulation (EU) 2023/265 imposing a definitive anti-dumping duty on imports of ceramic tiles originating in India and Türkiye"
+identifier: "32023R1597"
+eli: "http://data.europa.eu/eli/reg_impl/2023/1597/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-08-03
+entry_into_force: 2023-10-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1597"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/1597 of 3 August 2023 amending Implementing Regulation (EU) 2023/265 imposing a definitive anti-dumping duty on imports of ceramic tiles originating in India and Türkiye
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/1597**
+
+**of 3 August 2023**
+
+**amending Implementing Regulation (EU) 2023/265 imposing a definitive anti-dumping duty on imports of ceramic tiles originating in India and Türkiye**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports from countries not members of the European Union (1), and in particular Article 14(1) thereof,
+
+Whereas:
+
+(1) Imports of ceramic tiles originating in India and Türkiye are subject to definitive anti-dumping duties imposed by Commission Implementing Regulation (EU) 2023/265 (2).
+
+(2) Nehani Tiles Private Limited, TARIC (3) additional code C126, a company subject to the anti-dumping duty rate for cooperating, non-sampled exporting producers of 7,3 %, informed the Commission on 9 March 2023 (‘date of the request’) that it had changed its name to Nehani Tiles Limited Liability Partnership (‘Nehani Tiles LLP’).
+
+(3) The company requested the Commission to confirm that the change of name does not affect the right of the company to benefit from the anti-dumping duty rate applied to it under its previous name.
+
+(4) The Commission examined the information supplied and concluded that the change of name was properly registered with the relevant authorities, and did not result in any new relationship with other groups of companies which were not investigated by the Commission.
+
+(5) Accordingly, this change of name does not affect the findings of Regulation (EU) 2023/265 and in particular the anti-dumping duty rate applicable to it. Therefore, the Commission considered it appropriate to amend Regulation (EU) 2023/265 to reflect the changed name of the company previously attributed to TARIC additional code C126.
+
+(6) The evidence in the file also confirmed that the change of the name was applicable as of 29 December 2022, the day when the Ministry of Corporate Affairs issued the Certificate of Registration of Conversion. Since this change was made effective before the date of imposition of definitive anti-dumping duties, this Regulation should apply as of the entry into force of those measures, namely, as of 10 February 2023.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Committee established by Article 15(1) of Regulation (EU) 2016/1036,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The Annex to Implementing Regulation (EU) 2023/265 is amended as follows:
+
+| ‘India | Nehani Tiles Private Limited Neha Ceramic Industries Orinda Granito LLP Orinda Industries LLP | C126’ |
+| --- | --- | --- |
+
+is replaced by:
+
+| ‘India | Nehani Tiles LLP Neha Ceramic Industries Orinda Granito LLP Orinda Industries LLP | C126’ |
+| --- | --- | --- |
+
+2\. TARIC additional code C126, previously attributed to inter alia Nehani Tiles Private Limited, shall apply to inter alia Nehani Tiles LLP as of 10 February 2023.
+
+3\. Any definitive duty paid on imports of products manufactured by Nehani Tiles LLP, in excess of the anti-dumping duty established in Article 1(2) of Commission Implementing Regulation (EU) 2023/265 as regards Nehani Tiles Private Limited, shall be repaid or remitted in accordance with the applicable customs legislation.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 3 August 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 176, 30.6.2016, p. 21.
+
+(2) Commission Implementing Regulation (EU) 2023/265 of 9 February 2023 imposing a definitive anti-dumping duty on imports of ceramic tiles originating in India and Türkiye (OJ L 41, 10.2.2023, p. 1).
+
+(3) The Integrated Tariff of the European Union.

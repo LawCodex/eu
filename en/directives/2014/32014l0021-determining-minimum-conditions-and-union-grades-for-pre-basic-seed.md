@@ -25,9 +25,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
+</table>
 
 **COMMISSION IMPLEMENTING DIRECTIVE 2014/21/EU**
 

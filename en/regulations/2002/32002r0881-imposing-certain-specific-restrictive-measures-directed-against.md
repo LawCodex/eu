@@ -1,0 +1,1490 @@
+---
+title: "Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan"
+identifier: "32002R0881"
+eli: "http://data.europa.eu/eli/reg/2002/881/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-05-27
+entry_into_force: 2002-09-30
+last_amended: 2026-08-28
+consolidated_version: "02002R0881-20260828"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002R0881-20260828"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan
+
+**COUNCIL REGULATION (EC) No 881/2002**
+
+**of 27 May 2002**
+
+**imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 951/2002 of 3 June 2002 </td><td> L 145</td><td>14</td><td>4.6.2002</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1580/2002 of 4 September 2002 </td><td> L 237</td><td>3</td><td>5.9.2002</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EC) No 1644/2002 of 13 September 2002 </td><td> L 247</td><td>25</td><td>14.9.2002</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EC) No 1754/2002 of 1 October 2002 </td><td> L 264</td><td>23</td><td>2.10.2002</td></tr>
+<tr><td> M5</td><td> COMMISSION REGULATION (EC) No 1823/2002 of 11 October 2002 </td><td> L 276</td><td>26</td><td>12.10.2002</td></tr>
+<tr><td> M6</td><td> COMMISSION REGULATION (EC) No 1893/2002 of 23 October 2002 </td><td> L 286</td><td>19</td><td>24.10.2002</td></tr>
+<tr><td> M7</td><td> COMMISSION REGULATION (EC) No 1935/2002 of 29 October 2002 </td><td> L 295</td><td>11</td><td>30.10.2002</td></tr>
+<tr><td> M8</td><td> COMMISSION REGULATION (EC) No 2083/2002 of 22 November 2002 </td><td> L 319</td><td>22</td><td>23.11.2002</td></tr>
+<tr><td> M9</td><td> COMMISSION REGULATION (EC) No 145/2003 of 27 January 2003 </td><td> L 23</td><td>22</td><td>28.1.2003</td></tr>
+<tr><td> M10</td><td> COMMISSION REGULATION (EC) No 215/2003 of 3 February 2003 </td><td> L 28</td><td>41</td><td>4.2.2003</td></tr>
+<tr><td> M11</td><td> COMMISSION REGULATION (EC) No 244/2003 of 7 February 2003 </td><td> L 33</td><td>28</td><td>8.2.2003</td></tr>
+<tr><td> M12</td><td> COMMISSION REGULATION (EC) No 342/2003 of 21 February 2003 </td><td> L 49</td><td>13</td><td>22.2.2003</td></tr>
+<tr><td> M13</td><td> COMMISSION REGULATION (EC) No 350/2003 of 25 February 2003 </td><td> L 51</td><td>19</td><td>26.2.2003</td></tr>
+<tr><td> M14</td><td> COMMISSION REGULATION (EC) No 370/2003 of 27 February 2003 </td><td> L 53</td><td>33</td><td>28.2.2003</td></tr>
+<tr><td> M15</td><td> COMMISSION REGULATION (EC) No 414/2003 of 5 March 2003 </td><td> L 62</td><td>24</td><td>6.3.2003</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EC) No 561/2003 of 27 March 2003 </td><td> L 82</td><td>1</td><td>29.3.2003</td></tr>
+<tr><td> M17</td><td> COMMISSION REGULATION (EC) No 742/2003 of 28 April 2003 </td><td> L 106</td><td>16</td><td>29.4.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 866/2003 of 19 May 2003 </td><td> L 124</td><td>19</td><td>20.5.2003</td></tr>
+<tr><td> M19</td><td> COMMISSION REGULATION (EC) No 1012/2003 of 12 June 2003 </td><td> L 146</td><td>50</td><td>13.6.2003</td></tr>
+<tr><td> M20</td><td> COMMISSION REGULATION (EC) No 1184/2003 of 2 July 2003 </td><td> L 165</td><td>21</td><td>3.7.2003</td></tr>
+<tr><td> M21</td><td> COMMISSION REGULATION (EC) No 1456/2003 of 14 August 2003 </td><td> L 206</td><td>27</td><td>15.8.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1607/2003 of 12 September 2003 </td><td> L 229</td><td>19</td><td>13.9.2003</td></tr>
+<tr><td> M23</td><td> COMMISSION REGULATION (EC) No 1724/2003 of 29 September 2003 </td><td> L 247</td><td>18</td><td>30.9.2003</td></tr>
+<tr><td> M24</td><td> COMMISSION REGULATION (EC) No 1991/2003 of 12 November 2003 </td><td> L 295</td><td>81</td><td>13.11.2003</td></tr>
+<tr><td> M25</td><td> COMMISSION REGULATION (EC) No 2049/2003 of 20 November 2003 </td><td> L 303</td><td>20</td><td>21.11.2003</td></tr>
+<tr><td> M26</td><td> COMMISSION REGULATION (EC) No 2157/2003 of 10 December 2003 </td><td> L 324</td><td>17</td><td>11.12.2003</td></tr>
+<tr><td> M27</td><td> COMMISSION REGULATION (EC) No 19/2004 of 7 January 2004 </td><td> L 4</td><td>11</td><td>8.1.2004</td></tr>
+<tr><td> M28</td><td> COMMISSION REGULATION (EC) No 100/2004 of 21 January 2004 </td><td> L 15</td><td>18</td><td>22.1.2004</td></tr>
+<tr><td> M29</td><td> COMMISSION REGULATION (EC) No 180/2004 of 30 January 2004 </td><td> L 28</td><td>15</td><td>31.1.2004</td></tr>
+<tr><td> M30</td><td> COMMISSION REGULATION (EC) No 391/2004 of 1 March 2004 </td><td> L 64</td><td>36</td><td>2.3.2004</td></tr>
+<tr><td> M31</td><td> COMMISSION REGULATION (EC) No 524/2004 of 19 March 2004 </td><td> L 83</td><td>10</td><td>20.3.2004</td></tr>
+<tr><td> M32</td><td> COMMISSION REGULATION (EC) No 667/2004 of 7 April 2004 </td><td> L 104</td><td>110</td><td>8.4.2004</td></tr>
+<tr><td> M33</td><td> COMMISSION REGULATION (EC) No 950/2004 of 6 May 2004 </td><td> L 173</td><td>6</td><td>7.5.2004</td></tr>
+<tr><td> M34</td><td> COMMISSION REGULATION (EC) No 984/2004 of 14 May 2004 </td><td> L 180</td><td>24</td><td>15.5.2004</td></tr>
+<tr><td> M35</td><td> COMMISSION REGULATION (EC) No 1187/2004 of 25 June 2004 </td><td> L 227</td><td>19</td><td>26.6.2004</td></tr>
+<tr><td> M36</td><td> COMMISSION REGULATION (EC) No 1237/2004 of 5 July 2004 </td><td> L 235</td><td>5</td><td>6.7.2004</td></tr>
+<tr><td> M37</td><td> COMMISSION REGULATION (EC) No 1277/2004 of 12 July 2004 </td><td> L 241</td><td>12</td><td>13.7.2004</td></tr>
+<tr><td> M38</td><td> COMMISSION REGULATION (EC) No 1728/2004 of 1 October 2004 </td><td> L 306</td><td>13</td><td>2.10.2004</td></tr>
+<tr><td> M39</td><td> COMMISSION REGULATION (EC) No 1840/2004 of 21 October 2004 </td><td> L 322</td><td>5</td><td>23.10.2004</td></tr>
+<tr><td> M40</td><td> COMMISSION REGULATION (EC) No 2034/2004 of 26 November 2004 </td><td> L 353</td><td>11</td><td>27.11.2004</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 2145/2004 of 15 December 2004 </td><td> L 370</td><td>6</td><td>17.12.2004</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 14/2005 of 5 January 2005 </td><td> L 5</td><td>10</td><td>7.1.2005</td></tr>
+<tr><td> M43</td><td> COMMISSION REGULATION (EC) No 187/2005 of 2 February 2005 </td><td> L 31</td><td>4</td><td>4.2.2005</td></tr>
+<tr><td> M44</td><td> COMMISSION REGULATION (EC) No 301/2005 of 23 February 2005 </td><td> L 51</td><td>15</td><td>24.2.2005</td></tr>
+<tr><td> M45</td><td> COMMISSION REGULATION (EC) No 717/2005 of 11 May 2005 </td><td> L 121</td><td>62</td><td>13.5.2005</td></tr>
+<tr><td> M46</td><td> COMMISSION REGULATION (EC) No 757/2005 of 18 May 2005 </td><td> L 126</td><td>38</td><td>19.5.2005</td></tr>
+<tr><td> M47</td><td> COMMISSION REGULATION (EC) No 853/2005 of 3 June 2005 </td><td> L 141</td><td>8</td><td>4.6.2005</td></tr>
+<tr><td> M48</td><td> COMMISSION REGULATION (EC) No 1190/2005 of 20 July 2005 </td><td> L 193</td><td>27</td><td>23.7.2005</td></tr>
+<tr><td> M49</td><td> COMMISSION REGULATION (EC) No 1264/2005 of 28 July 2005 </td><td> L 201</td><td>29</td><td>2.8.2005</td></tr>
+<tr><td> M50</td><td> COMMISSION REGULATION (EC) No 1278/2005 of 2 August 2005 </td><td> L 202</td><td>34</td><td>3.8.2005</td></tr>
+<tr><td> M51</td><td> COMMISSION REGULATION (EC) No 1347/2005 of 16 August 2005 </td><td> L 212</td><td>26</td><td>17.8.2005</td></tr>
+<tr><td> M52</td><td> COMMISSION REGULATION (EC) No 1378/2005 of 22 August 2005 </td><td> L 219</td><td>27</td><td>24.8.2005</td></tr>
+<tr><td> M53</td><td> COMMISSION REGULATION (EC) No 1551/2005 of 22 September 2005 </td><td> L 247</td><td>30</td><td>23.9.2005</td></tr>
+<tr><td> M54</td><td> COMMISSION REGULATION (EC) No 1629/2005 of 5 October 2005 </td><td> L 260</td><td>9</td><td>6.10.2005</td></tr>
+<tr><td> M55</td><td> COMMISSION REGULATION (EC) No 1690/2005 of 14 October 2005 </td><td> L 271</td><td>31</td><td>15.10.2005</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1797/2005 of 28 October 2005 </td><td> L 288</td><td>44</td><td>29.10.2005</td></tr>
+<tr><td> M57</td><td> COMMISSION REGULATION (EC) No 1825/2005 of 9 November 2005 </td><td> L 294</td><td>5</td><td>10.11.2005</td></tr>
+<tr><td> M58</td><td> COMMISSION REGULATION (EC) No 1956/2005 of 29 November 2005 </td><td> L 314</td><td>14</td><td>30.11.2005</td></tr>
+<tr><td> M59</td><td> COMMISSION REGULATION (EC) No 2018/2005 of 9 December 2005 </td><td> L 324</td><td>21</td><td>10.12.2005</td></tr>
+<tr><td> M60</td><td> COMMISSION REGULATION (EC) No 2100/2005 of 20 December 2005 </td><td> L 335</td><td>34</td><td>21.12.2005</td></tr>
+<tr><td> M61</td><td> COMMISSION REGULATION (EC) No 76/2006 of 17 January 2006 </td><td> L 12</td><td>7</td><td>18.1.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 142/2006 of 26 January 2006 </td><td> L 23</td><td>55</td><td>27.1.2006</td></tr>
+<tr><td> M63</td><td> COMMISSION REGULATION (EC) No 246/2006 of 10 February 2006 </td><td> L 40</td><td>13</td><td>11.2.2006</td></tr>
+<tr><td> M64</td><td> COMMISSION REGULATION (EC) No 357/2006 of 28 February 2006 </td><td> L 59</td><td>35</td><td>1.3.2006</td></tr>
+<tr><td> M65</td><td> COMMISSION REGULATION (EC) No 674/2006 of 28 April 2006 </td><td> L 116</td><td>58</td><td>29.4.2006</td></tr>
+<tr><td> M66</td><td> COMMISSION REGULATION (EC) No 1189/2006 of 3 August 2006 </td><td> L 214</td><td>21</td><td>4.8.2006</td></tr>
+<tr><td> M67</td><td> COMMISSION REGULATION (EC) No 1210/2006 of 9 August 2006 </td><td> L 219</td><td>14</td><td>10.8.2006</td></tr>
+<tr><td> M68</td><td> COMMISSION REGULATION (EC) No 1217/2006 of 10 August 2006 </td><td> L 220</td><td>9</td><td>11.8.2006</td></tr>
+<tr><td> M69</td><td> COMMISSION REGULATION (EC) No 1228/2006 of 14 August 2006 </td><td> L 222</td><td>6</td><td>15.8.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1286/2006 of 29 August 2006 </td><td> L 235</td><td>14</td><td>30.8.2006</td></tr>
+<tr><td> M71</td><td> COMMISSION REGULATION (EC) No 1508/2006 of 11 October 2006 </td><td> L 280</td><td>12</td><td>12.10.2006</td></tr>
+<tr><td> M72</td><td> COMMISSION REGULATION (EC) No 1685/2006 of 14 November 2006 </td><td> L 314</td><td>24</td><td>15.11.2006</td></tr>
+<tr><td> M73</td><td> COMMISSION REGULATION (EC) No 1823/2006 of 12 December 2006 </td><td> L 351</td><td>9</td><td>13.12.2006</td></tr>
+<tr><td> M74</td><td> COUNCIL REGULATION (EC) No 1791/2006 of 20 November 2006 </td><td> L 363</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td> M75</td><td> COMMISSION REGULATION (EC) No 14/2007 of 10 January 2007 </td><td> L 6</td><td>6</td><td>11.1.2007</td></tr>
+<tr><td> M76</td><td> COMMISSION REGULATION (EC) No 492/2007 of 3 May 2007 </td><td> L 116</td><td>5</td><td>4.5.2007</td></tr>
+<tr><td> M77</td><td> COMMISSION REGULATION (EC) No 507/2007 of 8 May 2007 </td><td> L 119</td><td>27</td><td>9.5.2007</td></tr>
+<tr><td> M78</td><td> COMMISSION REGULATION (EC) No 553/2007 of 22 May 2007 </td><td> L 131</td><td>16</td><td>23.5.2007</td></tr>
+<tr><td> M79</td><td> COMMISSION REGULATION (EC) No 639/2007 of 8 June 2007 </td><td> L 148</td><td>5</td><td>9.6.2007</td></tr>
+<tr><td> M80</td><td> COMMISSION REGULATION (EC) No 732/2007 of 26 June 2007 </td><td> L 166</td><td>13</td><td>28.6.2007</td></tr>
+<tr><td> M81</td><td> COMMISSION REGULATION (EC) No 760/2007 of 29 June 2007 </td><td> L 172</td><td>50</td><td>30.6.2007</td></tr>
+<tr><td> M82</td><td> COMMISSION REGULATION (EC) No 844/2007 of 17 July 2007 </td><td> L 186</td><td>24</td><td>18.7.2007</td></tr>
+<tr><td> M83</td><td> COMMISSION REGULATION (EC) No 859/2007 of 20 July 2007 </td><td> L 190</td><td>7</td><td>21.7.2007</td></tr>
+<tr><td> M84</td><td> COMMISSION REGULATION (EC) No 969/2007 of 17 August 2007 </td><td> L 215</td><td>6</td><td>18.8.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 996/2007 of 28 August 2007 </td><td> L 224</td><td>3</td><td>29.8.2007</td></tr>
+<tr><td> M86</td><td> COMMISSION REGULATION (EC) No 1025/2007 of 3 September 2007 </td><td> L 231</td><td>4</td><td>4.9.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1104/2007 of 25 September 2007 </td><td> L 250</td><td>3</td><td>26.9.2007</td></tr>
+<tr><td> M88</td><td> COMMISSION REGULATION (EC) No 1239/2007 of 23 October 2007 </td><td> L 280</td><td>11</td><td>24.10.2007</td></tr>
+<tr><td> M89</td><td> COMMISSION REGULATION (EC) No 1291/2007 of 31 October 2007 </td><td> L 287</td><td>12</td><td>1.11.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1389/2007 of 26 November 2007 </td><td> L 310</td><td>6</td><td>28.11.2007</td></tr>
+<tr><td> M91</td><td> COMMISSION REGULATION (EC) No 46/2008 of 18 January 2008 </td><td> L 16</td><td>11</td><td>19.1.2008</td></tr>
+<tr><td> M92</td><td> COMMISSION REGULATION (EC) No 59/2008 of 24 January 2008 </td><td> L 22</td><td>4</td><td>25.1.2008</td></tr>
+<tr><td> M93</td><td> COMMISSION REGULATION (EC) No 198/2008 of 3 March 2008 </td><td> L 59</td><td>10</td><td>4.3.2008</td></tr>
+<tr><td> M94</td><td> COMMISSION REGULATION (EC) No 220/2008 of 11 March 2008 </td><td> L 68</td><td>11</td><td>12.3.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 374/2008 of 24 April 2008 </td><td> L 113</td><td>15</td><td>25.4.2008</td></tr>
+<tr><td> M96</td><td> COMMISSION REGULATION (EC) No 400/2008 of 5 May 2008 </td><td> L 118</td><td>14</td><td>6.5.2008</td></tr>
+<tr><td> M97</td><td> COMMISSION REGULATION (EC) No 580/2008 of 18 June 2008 </td><td> L 161</td><td>25</td><td>20.6.2008</td></tr>
+<tr><td> M98</td><td> COMMISSION REGULATION (EC) No 678/2008 of 16 July 2008 </td><td> L 189</td><td>23</td><td>17.7.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 803/2008 of 8 August 2008 </td><td> L 214</td><td>52</td><td>9.8.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 974/2008 of 2 October 2008 </td><td> L 265</td><td>10</td><td>4.10.2008</td></tr>
+<tr><td> M101</td><td> COMMISSION REGULATION (EC) No 1109/2008 of 6 November 2008 </td><td> L 299</td><td>23</td><td>8.11.2008</td></tr>
+<tr><td> M102</td><td> COMMISSION REGULATION (EC) No 1190/2008 of 28 November 2008 </td><td> L 322</td><td>25</td><td>2.12.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1314/2008 of 19 December 2008 </td><td> L 344</td><td>64</td><td>20.12.2008</td></tr>
+<tr><td> M104</td><td> COMMISSION REGULATION (EC) No 1330/2008 of 22 December 2008 </td><td> L 345</td><td>60</td><td>23.12.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 184/2009 of 6 March 2009 </td><td> L 63</td><td>11</td><td>7.3.2009</td></tr>
+<tr><td> M106</td><td> COMMISSION REGULATION (EC) No 265/2009 of 31 March 2009 </td><td> L 89</td><td>6</td><td>1.4.2009</td></tr>
+<tr><td> M107</td><td> COMMISSION REGULATION (EC) No 344/2009 of 24 April 2009 </td><td> L 105</td><td>3</td><td>25.4.2009</td></tr>
+<tr><td> M108</td><td> COMMISSION REGULATION (EC) No 490/2009 of 10 June 2009 </td><td> L 148</td><td>12</td><td>11.6.2009</td></tr>
+<tr><td> M109</td><td> COMMISSION REGULATION (EC) No 574/2009 of 30 June 2009 </td><td> L 172</td><td>7</td><td>2.7.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 601/2009 of 9 July 2009 </td><td> L 179</td><td>54</td><td>10.7.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 678/2009 of 27 July 2009 </td><td> L 196</td><td>8</td><td>28.7.2009</td></tr>
+<tr><td> M112</td><td> COMMISSION REGULATION (EC) No 732/2009 of 10 August 2009 </td><td> L 208</td><td>3</td><td>12.8.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 774/2009 of 25 August 2009 </td><td> L 223</td><td>24</td><td>26.8.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 937/2009 of 7 October 2009 </td><td> L 264</td><td>7</td><td>8.10.2009</td></tr>
+<tr><td> M115</td><td> COMMISSION REGULATION (EC) No 954/2009 of 13 October 2009 </td><td> L 269</td><td>20</td><td>14.10.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1033/2009 of 28 October 2009 </td><td> L 283</td><td>51</td><td>30.10.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1102/2009 of 16 November 2009 </td><td> L 303</td><td>39</td><td>18.11.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1220/2009 of 14 December 2009 </td><td> L 328</td><td>66</td><td>15.12.2009</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 1286/2009 of 22 December 2009 </td><td> L 346</td><td>42</td><td>23.12.2009</td></tr>
+<tr><td> M120</td><td> COMMISSION REGULATION (EU) No 70/2010 of 25 January 2010 </td><td> L 20</td><td>1</td><td>26.1.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 110/2010 of 5 February 2010 </td><td> L 36</td><td>9</td><td>9.2.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 207/2010 of 10 March 2010 </td><td> L 63</td><td>1</td><td>12.3.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 262/2010 of 24 March 2010 </td><td> L 80</td><td>40</td><td>26.3.2010</td></tr>
+<tr><td> M124</td><td> COMMISSION REGULATION (EU) No 290/2010 of 6 April 2010 </td><td> L 87</td><td>29</td><td>7.4.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 318/2010 of 16 April 2010 </td><td> L 97</td><td>10</td><td>17.4.2010</td></tr>
+<tr><td> M126</td><td> COMMISSION REGULATION (EU) No 366/2010 of 28 April 2010 </td><td> L 107</td><td>12</td><td>29.4.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 372/2010 of 30 April 2010 </td><td> L 110</td><td>22</td><td>1.5.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 417/2010 of 12 May 2010 </td><td> L 119</td><td>14</td><td>13.5.2010</td></tr>
+<tr><td> M129</td><td> COMMISSION REGULATION (EU) No 450/2010 of 21 May 2010 </td><td> L 127</td><td>8</td><td>26.5.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 507/2010 of 11 June 2010 </td><td> L 149</td><td>5</td><td>15.6.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 586/2010 of 2 July 2010 </td><td> L 169</td><td>3</td><td>3.7.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 663/2010 of 23 July 2010 </td><td> L 193</td><td>6</td><td>24.7.2010</td></tr>
+<tr><td> M133</td><td> COMMISSION REGULATION (EU) No 681/2010 of 29 July 2010 </td><td> L 198</td><td>7</td><td>30.7.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 713/2010 of 9 August 2010 </td><td> L 209</td><td>14</td><td>10.8.2010</td></tr>
+<tr><td> M135</td><td> COMMISSION REGULATION (EU) No 787/2010 of 3 September 2010 </td><td> L 234</td><td>11</td><td>4.9.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 835/2010 of 22 September 2010 </td><td> L 249</td><td>1</td><td>23.9.2010</td></tr>
+<tr><td> M137</td><td> COMMISSION REGULATION (EU) No 851/2010 of 27 September 2010 </td><td> L 253</td><td>46</td><td>28.9.2010</td></tr>
+<tr><td> M138</td><td> COMMISSION REGULATION (EU) No 906/2010 of 11 October 2010 </td><td> L 268</td><td>21</td><td>12.10.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1001/2010 of 5 November 2010 </td><td> L 290</td><td>33</td><td>6.11.2010</td></tr>
+<tr><td> M140</td><td> COMMISSION REGULATION (EU) No 1027/2010 of 11 November 2010 </td><td> L 296</td><td>13</td><td>13.11.2010</td></tr>
+<tr><td> M141</td><td> COMMISSION REGULATION (EU) No 1138/2010 of 7 December 2010 </td><td> L 322</td><td>4</td><td>8.12.2010</td></tr>
+<tr><td> M142</td><td> COMMISSION REGULATION (EU) No 1139/2010 of 7 December 2010 </td><td> L 322</td><td>6</td><td>8.12.2010</td></tr>
+<tr><td> M143</td><td> COMMISSION REGULATION (EU) No 1204/2010 of 16 December 2010 </td><td> L 333</td><td>45</td><td>17.12.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 36/2011 of 18 January 2011 </td><td> L 14</td><td>11</td><td>19.1.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 98/2011 of 3 February 2011 </td><td> L 30</td><td>29</td><td>4.2.2011</td></tr>
+<tr><td> M146</td><td> COMMISSION REGULATION (EU) No 178/2011 of 24 February 2011 </td><td> L 51</td><td>10</td><td>25.2.2011</td></tr>
+<tr><td> M147</td><td> COMMISSION REGULATION (EU) No 260/2011 of 16 March 2011 </td><td> L 70</td><td>33</td><td>17.3.2011</td></tr>
+<tr><td> M148</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 317/2011 of 31 March 2011 </td><td> L 86</td><td>63</td><td>1.4.2011</td></tr>
+<tr><td> M149</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 480/2011 of 18 May 2011 </td><td> L 132</td><td>6</td><td>19.5.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 577/2011 of 16 June 2011 </td><td> L 159</td><td>69</td><td>17.6.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 597/2011 of 21 June 2011 </td><td> L 162</td><td>3</td><td>22.6.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 621/2011 of 24 June 2011 </td><td> L 166</td><td>18</td><td>25.6.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 640/2011 of 30 June 2011 </td><td> L 173</td><td>1</td><td>1.7.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 748/2011 of 28 July 2011 </td><td> L 198</td><td>1</td><td>30.7.2011</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 754/2011 of 1 August 2011 </td><td> L 199</td><td>23</td><td>2.8.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 796/2011 of 8 August 2011 </td><td> L 205</td><td>1</td><td>10.8.2011</td></tr>
+<tr><td> M157</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 853/2011 of 24 August 2011 </td><td> L 219</td><td>3</td><td>25.8.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 876/2011 of 1 September 2011 </td><td> L 227</td><td>11</td><td>2.9.2011</td></tr>
+<tr><td> M159</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 960/2011 of 26 September 2011 </td><td> L 252</td><td>8</td><td>28.9.2011</td></tr>
+<tr><td> M160</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1024/2011 of 14 October 2011 </td><td> L 270</td><td>24</td><td>15.10.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1081/2011 of 25 October 2011 </td><td> L 280</td><td>17</td><td>27.10.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1285/2011 of 8 December 2011 </td><td> L 328</td><td>34</td><td>10.12.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 15/2012 of 10 January 2012 </td><td> L 8</td><td>27</td><td>12.1.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 34/2012 of 17 January 2012 </td><td> L 15</td><td>1</td><td>18.1.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 97/2012 of 6 February 2012 </td><td> L 35</td><td>4</td><td>8.2.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 177/2012 of 1 March 2012 </td><td> L 61</td><td>10</td><td>2.3.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 215/2012 of 13 March 2012 </td><td> L 74</td><td>4</td><td>14.3.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 253/2012 of 22 March 2012 </td><td> L 84</td><td>23</td><td>23.3.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 316/2012 of 12 April 2012 </td><td> L 103</td><td>42</td><td>13.4.2012</td></tr>
+<tr><td> M170</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 335/2012 of 19 April 2012 </td><td> L 108</td><td>9</td><td>20.4.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 403/2012 of 10 May 2012 </td><td> L 124</td><td>32</td><td>11.5.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 415/2012 of 15 May 2012 </td><td> L 128</td><td>7</td><td>16.5.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 598/2012 of 5 July 2012 </td><td> L 176</td><td>59</td><td>6.7.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 619/2012 of 10 July 2012 </td><td> L 179</td><td>11</td><td>11.7.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 632/2012 of 12 July 2012 </td><td> L 182</td><td>31</td><td>13.7.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 706/2012 of 1 August 2012 </td><td> L 206</td><td>7</td><td>2.8.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 718/2012 of 7 August 2012 </td><td> L 211</td><td>1</td><td>8.8.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 803/2012 of 7 September 2012 </td><td> L 244</td><td>5</td><td>8.9.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 807/2012 of 11 September 2012 </td><td> L 246</td><td>1</td><td>12.9.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 921/2012 of 8 October 2012 </td><td> L 274</td><td>20</td><td>9.10.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 933/2012 of 11 October 2012 </td><td> L 278</td><td>11</td><td>12.10.2012</td></tr>
+<tr><td> M182</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1002/2012 of 29 October 2012 </td><td> L 300</td><td>43</td><td>30.10.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1142/2012 of 3 December 2012 </td><td> L 332</td><td>12</td><td>4.12.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1155/2012 of 5 December 2012 </td><td> L 335</td><td>40</td><td>7.12.2012</td></tr>
+<tr><td> M185</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1187/2012 of 11 December 2012 </td><td> L 338</td><td>23</td><td>12.12.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 60/2013 of 23 January 2013 </td><td> L 21</td><td>23</td><td>24.1.2013</td></tr>
+<tr><td> M187</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 123/2013 of 12 February 2013 </td><td> L 42</td><td>18</td><td>13.2.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 132/2013 of 15 February 2013 </td><td> L 45</td><td>6</td><td>16.2.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 180/2013 of 1 March 2013 </td><td> L 59</td><td>1</td><td>2.3.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 242/2013 of 18 March 2013 </td><td> L 75</td><td>25</td><td>19.3.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 290/2013 of 26 March 2013 </td><td> L 87</td><td>2</td><td>27.3.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 309/2013 of 3 April 2013 </td><td> L 94</td><td>4</td><td>4.4.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 439/2013 of 13 May 2013 </td><td> L 129</td><td>34</td><td>14.5.2013</td></tr>
+<tr><td> M194</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 596/2013 of 24 June 2013 </td><td> L 172</td><td>1</td><td>25.6.2013</td></tr>
+<tr><td> M196</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 632/2013 of 28 June 2013 </td><td> L 179</td><td>85</td><td>29.6.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 652/2013 of 9 July 2013 </td><td> L 189</td><td>4</td><td>10.7.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 682/2013 of 17 July 2013 </td><td> L 195</td><td>18</td><td>18.7.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 731/2013 of 29 July 2013 </td><td> L 203</td><td>10</td><td>30.7.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 754/2013 of 5 August 2013 </td><td> L 210</td><td>24</td><td>6.8.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 831/2013 of 29 August 2013 </td><td> L 233</td><td>1</td><td>31.8.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 852/2013 of 3 September 2013 </td><td> L 235</td><td>8</td><td>4.9.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 880/2013 of 13 September 2013 </td><td> L 245</td><td>7</td><td>14.9.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 895/2013 of 18 September 2013 </td><td> L 249</td><td>1</td><td>19.9.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 943/2013 of 1 October 2013 </td><td> L 261</td><td>3</td><td>3.10.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 965/2013 of 9 October 2013 </td><td> L 268</td><td>7</td><td>10.10.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 996/2013 of 17 October 2013 </td><td> L 277</td><td>1</td><td>18.10.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1091/2013 of 4 November 2013 </td><td> L 293</td><td>36</td><td>5.11.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1267/2013 of 5 December 2013 </td><td> L 326</td><td>39</td><td>6.12.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1338/2013 of 13 December 2013 </td><td> L 335</td><td>23</td><td>14.12.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 16/2014 of 9 January 2014 </td><td> L 8</td><td>11</td><td>11.1.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 21/2014 of 10 January 2014 </td><td> L 8</td><td>22</td><td>11.1.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 329/2014 of 31 March 2014 </td><td> L 98</td><td>11</td><td>1.4.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 369/2014 of 10 April 2014 </td><td> L 108</td><td>52</td><td>11.4.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 450/2014 of 30 April 2014 </td><td> L 132</td><td>59</td><td>3.5.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 583/2014 of 28 May 2014 </td><td> L 160</td><td>27</td><td>29.5.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 630/2014 of 12 June 2014 </td><td> L 174</td><td>35</td><td>13.6.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 735/2014 of 4 July 2014 </td><td> L 198</td><td>1</td><td>5.7.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 914/2014 of 21 August 2014 </td><td> L 248</td><td>7</td><td>22.8.2014</td></tr>
+<tr><td> M220</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 930/2014 of 28 August 2014 </td><td> L 258</td><td>4</td><td>29.8.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 934/2014 of 1 September 2014 </td><td> L 262</td><td>1</td><td>2.9.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1022/2014 of 26 September 2014 </td><td> L 283</td><td>40</td><td>27.9.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1058/2014 of 8 October 2014 </td><td> L 293</td><td>12</td><td>9.10.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1193/2014 of 4 November 2014 </td><td> L 318</td><td>23</td><td>5.11.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1273/2014 of 28 November 2014 </td><td> L 344</td><td>16</td><td>29.11.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/64 of 16 January 2015 </td><td> L 11</td><td>65</td><td>17.1.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/167 of 3 February 2015 </td><td> L 28</td><td>40</td><td>4.2.2015</td></tr>
+<tr><td> M228</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/274 of 19 February 2015 </td><td> L 47</td><td>13</td><td>20.2.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/480 of 20 March 2015 </td><td> L 77</td><td>1</td><td>21.3.2015</td></tr>
+<tr><td> M230</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/532 of 30 March 2015 </td><td> L 86</td><td>9</td><td>31.3.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/576 of 10 April 2015 </td><td> L 96</td><td>7</td><td>11.4.2015</td></tr>
+<tr><td> M232</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/617 of 20 April 2015 </td><td> L 102</td><td>35</td><td>21.4.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/769 of 12 May 2015 </td><td> L 121</td><td>3</td><td>14.5.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/807 of 22 May 2015 </td><td> L 128</td><td>16</td><td>23.5.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1330 of 31 July 2015 </td><td> L 206</td><td>26</td><td>1.8.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1390 of 13 August 2015 </td><td> L 215</td><td>6</td><td>14.8.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1473 of 26 August 2015 </td><td> L 225</td><td>5</td><td>28.8.2015</td></tr>
+<tr><td> M238</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1517 of 11 September 2015 </td><td> L 239</td><td>67</td><td>15.9.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1740 of 29 September 2015 </td><td> L 253</td><td>7</td><td>30.9.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1815 of 8 October 2015 </td><td> L 264</td><td>6</td><td>9.10.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/2245 of 3 December 2015 </td><td> L 318</td><td>26</td><td>4.12.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/13 of 6 January 2016 </td><td> L 4</td><td>10</td><td>7.1.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/47 of 18 January 2016 </td><td> L 12</td><td>42</td><td>19.1.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/294 of 1 March 2016 </td><td> L 55</td><td>9</td><td>2.3.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/307 of 3 March 2016 </td><td> L 58</td><td>45</td><td>4.3.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/363 of 14 March 2016 </td><td> L 68</td><td>1</td><td>15.3.2016</td></tr>
+<tr><td> M247</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/473 of 31 March 2016 </td><td> L 85</td><td>30</td><td>1.4.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/647 of 25 April 2016 </td><td> L 109</td><td>23</td><td>26.4.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1018 of 23 June 2016 </td><td> L 166</td><td>5</td><td>24.6.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1063 of 30 June 2016 </td><td> L 177</td><td>4</td><td>1.7.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1113 of 8 July 2016 </td><td> L 186</td><td>9</td><td>9.7.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1186 of 20 July 2016 </td><td> L 196</td><td>44</td><td>21.7.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1347 of 8 August 2016 </td><td> L 214</td><td>12</td><td>9.8.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1430 of 26 August 2016 </td><td> L 232</td><td>6</td><td>27.8.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1641 of 12 September 2016 </td><td> L 244</td><td>7</td><td>13.9.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1683 of 19 September 2016 </td><td> L 254</td><td>18</td><td>20.9.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1739 of 29 September 2016 </td><td> L 264</td><td>17</td><td>30.9.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1827 of 14 October 2016 </td><td> L 279</td><td>90</td><td>15.10.2016</td></tr>
+<tr><td> M259</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/1906 of 28 October 2016 </td><td> L 295</td><td>74</td><td>29.10.2016</td></tr>
+<tr><td> M260</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/2262 of 15 December 2016 </td><td> L 342</td><td>22</td><td>16.12.2016</td></tr>
+<tr><td> M261</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/142 of 26 January 2017 </td><td> L 22</td><td>54</td><td>27.1.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/221 of 8 February 2017 </td><td> L 34</td><td>30</td><td>9.2.2017</td></tr>
+<tr><td> M263</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/296 of 20 February 2017 </td><td> L 43</td><td>205</td><td>21.2.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/326 of 24 February 2017 </td><td> L 49</td><td>30</td><td>25.2.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/494 of 21 March 2017 </td><td> L 76</td><td>18</td><td>22.3.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/557 of 24 March 2017 </td><td> L 80</td><td>14</td><td>25.3.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/630 of 3 April 2017 </td><td> L 90</td><td>6</td><td>4.4.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/637 of 4 April 2017 </td><td> L 91</td><td>7</td><td>5.4.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/700 of 18 April 2017 </td><td> L 103</td><td>22</td><td>19.4.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/778 of 4 May 2017 </td><td> L 116</td><td>26</td><td>5.5.2017</td></tr>
+<tr><td> M271</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/998 of 12 June 2017 </td><td> L 150</td><td>5</td><td>14.6.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1094 of 20 June 2017 </td><td> L 158</td><td>27</td><td>21.6.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1235 of 6 July 2017 </td><td> L 177</td><td>32</td><td>8.7.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1251 of 11 July 2017 </td><td> L 179</td><td>6</td><td>12.7.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1390 of 26 July 2017 </td><td> L 195</td><td>11</td><td>27.7.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1411 of 2 August 2017 </td><td> L 202</td><td>4</td><td>3.8.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1488 of 18 August 2017 </td><td> L 215</td><td>1</td><td>19.8.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1500 of 23 August 2017 </td><td> L 219</td><td>5</td><td>25.8.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1516 of 31 August 2017 </td><td> L 226</td><td>24</td><td>1.9.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1571 of 15 September 2017 </td><td> L 238</td><td>42</td><td>16.9.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1773 of 28 September 2017 </td><td> L 251</td><td>19</td><td>29.9.2017</td></tr>
+<tr><td> M282</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1834 of 9 October 2017 </td><td> L 260</td><td>3</td><td>10.10.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/50 of 11 January 2018 </td><td> L 7</td><td>35</td><td>12.1.2018</td></tr>
+<tr><td> M284</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/256 of 20 February 2018 </td><td> L 48</td><td>39</td><td>21.2.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/349 of 8 March 2018 </td><td> L 67</td><td>28</td><td>9.3.2018</td></tr>
+<tr><td> M286</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/537 of 5 April 2018 </td><td> L 89I</td><td>1</td><td>5.4.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/733 of 17 May 2018 </td><td> L 123</td><td>89</td><td>18.5.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/816 of 1 June 2018 </td><td> L 137</td><td>5</td><td>4.6.2018</td></tr>
+<tr><td> M289</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/855 of 8 June 2018 </td><td> L 146</td><td>3</td><td>11.6.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/888 of 21 June 2018 </td><td> L 158I</td><td>1</td><td>21.6.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1033 of 20 July 2018 </td><td> L 185</td><td>14</td><td>23.7.2018</td></tr>
+<tr><td> M292</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1138 of 13 August 2018 </td><td> L 205I</td><td>1</td><td>14.8.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1204 of 27 August 2018 </td><td> L 217I</td><td>1</td><td>27.8.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1494 of 8 October 2018 </td><td> L 252I</td><td>1</td><td>8.10.2018</td></tr>
+<tr><td> M295</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1562 of 18 October 2018 </td><td> L 261I</td><td>1</td><td>18.10.2018</td></tr>
+<tr><td> M296</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1809 of 22 November 2018 </td><td> L 296I</td><td>1</td><td>22.11.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/257 of 13 February 2019 </td><td> L 43</td><td>34</td><td>14.2.2019</td></tr>
+<tr><td> M298</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/353 of 4 March 2019 </td><td> L 64</td><td>5</td><td>5.3.2019</td></tr>
+<tr><td> M299</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/431 of 18 March 2019 </td><td> L 75</td><td>68</td><td>19.3.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/507 of 26 March 2019 </td><td> L 85</td><td>16</td><td>27.3.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/555 of 5 April 2019 </td><td> L 97</td><td>6</td><td>8.4.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/622 of 17 April 2019 </td><td> L 108</td><td>29</td><td>23.4.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/663 of 25 April 2019 </td><td> L 112</td><td>19</td><td>26.4.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/696 of 3 May 2019 </td><td> L 116I</td><td>1</td><td>3.5.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/791 of 16 May 2019 </td><td> L 129</td><td>1</td><td>17.5.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/850 of 24 May 2019 </td><td> L 139</td><td>8</td><td>27.5.2019</td></tr>
+<tr><td> M307</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1353 of 20 August 2019 </td><td> L 217</td><td>1</td><td>20.8.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1375 of 26 August 2019 </td><td> L 223</td><td>7</td><td>27.8.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1731 of 16 October 2019 </td><td> L 264</td><td>3</td><td>17.10.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1883 of 8 November 2019 </td><td> L 290</td><td>15</td><td>11.11.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/184 of 11 February 2020 </td><td> L 38I</td><td>1</td><td>11.2.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/218 of 17 February 2020 </td><td> L 44</td><td>15</td><td>18.2.2020</td></tr>
+<tr><td> M314</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/259 of 25 February 2020 </td><td> L 54</td><td>29</td><td>26.2.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/288 of 28 February 2020 </td><td> L 61</td><td>1</td><td>2.3.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/390 of 10 March 2020 </td><td> L 74</td><td>20</td><td>11.3.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/483 of 1 April 2020 </td><td> L 103</td><td>1</td><td>3.4.2020</td></tr>
+<tr><td> M318</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/706 of 26 May 2020 </td><td> L 164</td><td>49</td><td>27.5.2020</td></tr>
+<tr><td> M319</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1082 of 22 July 2020 </td><td> L 238</td><td>82</td><td>23.7.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1297 of 17 September 2020 </td><td> L 303I</td><td>1</td><td>17.9.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1473 of 13 October 2020 </td><td> L 334I</td><td>1</td><td>13.10.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/350 of 25 February 2021 </td><td> L 68</td><td>182</td><td>26.2.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/549 of 29 March 2021 </td><td> L 109</td><td>77</td><td>30.3.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/589 of 9 April 2021 </td><td> L 125</td><td>13</td><td>13.4.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1016 of 21 June 2021 </td><td> L 222I</td><td>1</td><td>22.6.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1460 of 9 September 2021 </td><td> L 319</td><td>1</td><td>10.9.2021</td></tr>
+<tr><td> M327</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2108 of 29 November 2021 </td><td> L 429</td><td>97</td><td>1.12.2021</td></tr>
+<tr><td> M328</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2311 of 22 December 2021 </td><td> L 458I</td><td>1</td><td>23.12.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/5 of 4 January 2022 </td><td> L 1</td><td>9</td><td>5.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/8 of 6 January 2022 </td><td> L 4</td><td>1</td><td>7.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/84 of 19 January 2022 </td><td> L 14</td><td>4</td><td>21.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/117 of 27 January 2022 </td><td> L 19</td><td>65</td><td>28.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/409 of 9 March 2022 </td><td> L 84</td><td>18</td><td>11.3.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/413 of 10 March 2022 </td><td> L 85</td><td>1</td><td>14.3.2022</td></tr>
+<tr><td> M335</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/873 of 2 June 2022 </td><td> L 152</td><td>184</td><td>3.6.2022</td></tr>
+<tr><td> M337</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/140 of 19 January 2023 </td><td> L 19</td><td>92</td><td>20.1.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/249 of 3 February 2023 </td><td> L 34I</td><td>1</td><td>6.2.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/329 of 10 February 2023 </td><td> L 43I</td><td>1</td><td>13.2.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/908 of 3 May 2023 </td><td> L 116</td><td>10</td><td>4.5.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1139 of 8 June 2023 </td><td> L 149I</td><td>1</td><td>9.6.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1140 of 9 June 2023 </td><td> L 149I</td><td>4</td><td>9.6.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1580 of 31 July 2023 </td><td> L 194</td><td>1</td><td>2.8.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2670 of 22 November 2023 </td><td> L 2670</td><td>1</td><td>24.11.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/328 of 12 January 2024 </td><td> L 328</td><td>1</td><td>15.1.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/372 of 17 January 2024 </td><td> L 372</td><td>1</td><td>18.1.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1301 of 3 May 2024 </td><td> L 1301</td><td>1</td><td>6.5.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2208 of 29 August 2024 </td><td> L 2208</td><td>1</td><td>30.8.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/3148 of 11 December 2024 </td><td> L 3148</td><td>1</td><td>12.12.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/445 of 27 February 2025 </td><td> L 445</td><td>1</td><td>3.3.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/611 of 21 March 2025 </td><td> L 611</td><td>1</td><td>25.3.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1233 of 17 June 2025 </td><td> L 1233</td><td>1</td><td>19.6.2025</td></tr>
+<tr><td> M355</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1277 of 24 June 2025 </td><td> L 1277</td><td>1</td><td>26.6.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1897 of 12 September 2025 </td><td> L 1897</td><td>1</td><td>16.9.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2123 of 14 October 2025 </td><td> L 2123</td><td>1</td><td>16.10.2025</td></tr>
+<tr><td> M358</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2226 of 29 October 2025 </td><td> L 2226</td><td>1</td><td>31.10.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2276 of 5 November 2025 </td><td> L 2276</td><td>1</td><td>7.11.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2327 of 12 November 2025 </td><td> L 2327</td><td>1</td><td>13.11.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/561 of 9 March 2026 </td><td> L 561</td><td>1</td><td>10.3.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/819 of 1 April 2026 </td><td> L 819</td><td>1</td><td>1.4.2026</td></tr>
+<tr><td> M363</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/830 of 7 April 2026 </td><td> L 830</td><td>1</td><td>8.4.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1211 of 2 June 2026 </td><td> L 1211</td><td>1</td><td>2.6.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1812 of 16 July 2026 </td><td> L 1812</td><td>1</td><td>20.7.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1960 of 20 August 2026 </td><td> L 1960</td><td>1</td><td>21.8.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1965 of 26 August 2026 </td><td> L 1965</td><td>1</td><td>27.8.2026</td></tr>
+</table>
+
+| A1 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
+| --- | --- | --- | --- | --- |
+
+C1
+
+C2
+
+C3
+
+C4
+
+C7
+
+C9
+
+**COUNCIL REGULATION (EC) No 881/2002**
+
+**of 27 May 2002**
+
+**imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations**
+
+## Article 1
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+1\. ‘funds’ means financial assets and economic benefits of every kind, including but not limited to cash, cheques, claims on money, drafts, money orders and other payment instruments; deposits with financial institutions or other entities, balances on accounts, debts and debt obligations; publicly and privately traded securities and debt instruments, including stocks and shares, certificates presenting securities, bonds, notes, warrants, debentures, derivatives contracts; interest, dividends or other income on or value accruing from or generated by assets; credit, right of set-off, guarantees, performance bonds or other financial commitments; letters of credit, bills of lading, bills of sale; documents evidencing an interest in funds or financial resources, and any other instrument of export-financing;
+
+2\. ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds but can be used to obtain funds, goods or services;
+
+3\. ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+4\. ‘freezing of economic resources’ means preventing their use to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+5\. ‘sanctions Committee’ means the Committee of the UN Security Council established pursuant to UN Security Council Resolution 1267 (1999) concerning ISIL (Da'esh) and Al-Qaida;
+
+6\. ‘statement of reasons’ means the publicly releasable portion of the statement of case as provided by the Sanctions Committee and/or, where applicable, the narrative summary of reasons for listing as provided by the Sanctions Committee;
+
+7\. ‘competent authorities’ means the authorities of the Member States, as listed in Annex II.
+
+## Article 2
+
+All funds and economic resources belonging to, owned, held or controlled, either directly or indirectly, by a natural or legal person, entity, body or group listed in Annex I and Annex Ia including by a third party acting on their behalf or at their direction, shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to, or for the benefit of, natural or legal persons, entities, bodies or groups listed in Annex I.
+
+2a. The prohibition in paragraph 2 includes, but is not limited to, funds and economic resources used for the provision of Internet hosting and related services used for the support of ISIL (Da'esh), Al-Qaida and the natural or legal persons, entities, bodies or groups listed in Annex I; the payment of ransoms to them, regardless of how or by whom the ransom is paid; funds and economic resources provided in connection with the travel of such natural persons, including costs incurred with respect to their transportation and lodging; and funds and economic resources related to the direct or indirect trade in oil and refined oil products, modular refineries and related material including chemicals and lubricants, as well as other natural resources.
+
+3\. Annex I shall consist of natural and legal persons, entities, bodies and groups designated by the UN Security Council or by the Sanctions Committee as being associated with the ISIL (Da'esh) or Al-Qaida organisations  .
+
+3a. Annex Ia consists of a natural person previously designated by the Security Council and previously included in Annex I, in relation to whom the Security Council decided that specific conditions should be applied when unfreezing funds or economic resources that were frozen pursuant to the designation of the person in Annex I.
+
+4\. The prohibition set out in paragraph 2 shall not give rise to liability of any kind on the part of the natural or legal persons, entities, bodies or groups concerned, if they did not know, and had no reasonable cause to suspect, that their actions would infringe this prohibition  .
+
+5\. Article 2(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Sanctions Committee as regards Annexes I and Ia.
+
+## Article 2a
+
+1\. Article 2 shall not apply to funds or economic resources where:
+
+(a) any of the competent authorities of the Member States —————  has determined, upon a request made by an interested natural or legal person, that these funds or economic resources:
+
+(i) are necessary to cover basic expenses, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(ii) are intended exclusively for payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services;
+
+(iii) are intended exclusively for payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(iv) are necessary for extraordinary expenses; or
+
+(v) were frozen pursuant to the inclusion, in Annex I, of a natural person as listed in Annex Ia; and
+
+(b) the determination referred to in point (a) has been notified to the Sanctions Committee; and
+
+(i) in the case of a determination under point (a)(i), (ii) or (iii), the Sanctions Committee has not objected to the determination within three working days of notification;
+
+(ii) in the case of a determination under point (a) (iv), the Sanctions Committee has approved the determination; or
+
+(iii) in case of a determination under point (a)(v), the competent authority of the relevant Member State —————  has provided assurances to the Sanctions Committee that the funds or economic resources will not be transferred, directly or indirectly, to any natural or legal person, entity, body or group, as listed in Annex I, or otherwise used for terrorist purposes, in line with UNSCR 1373 (2001), and no member of the Sanctions Committee has objected to the determination within 30 days of notification.
+
+3\. Funds released and transferred within the Union  in order to meet expenses or recognised by virtue of this Article shall not be subject to further restrictive measures pursuant to Article 2.
+
+4\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings due on those accounts; or
+
+(b) payments due under contracts, agreements or obligations that arose prior to the date on which those accounts became subject to the provisions of UN Security Council resolutions implemented successively through Regulation (EC) No 337/2000 ( 1 ), Regulation (EC) No 467/2001 ( 2 ) or this Regulation.
+
+In the same manner as the account to which they are added, such interest, other earnings and payments shall also be frozen.
+
+## Article 2b
+
+Article 2(2) shall not prevent financial or credit institutions in the Union from crediting frozen accounts where they receive funds transferred to the account of a listed natural or legal person, entity, body or group, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the competent authorities about such transactions without delay.
+
+## Article 3
+
+Without prejudice to the powers of Member States in the exercise of their public authority, it shall be prohibited to provide, directly or indirectly, technical advice, assistance or training related to military activities, including in particular training and assistance related to the manufacture, maintenance and use of arms and related materiel of all types, to any natural or legal person, entity, body or group listed in Annex I.
+
+## Article 4
+
+1\. The participation, knowingly and intentionally, in activities, the object or effect of which is, directly or indirectly, to circumvent Article 2 or to promote the transactions referred to in Article 3, shall be prohibited.
+
+2\. Any information that the provisions of this Regulation are being, or have been, circumvented shall be notified to the competent authorities of the Member States and, directly or through these competent authorities, to the Commission.
+
+## Article 5
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy and to the provisions of Article 337 of the Treaty on the Functioning of the European Union  , natural and legal persons, entities and bodies shall:
+
+(a) provide immediately any information which would facilitate compliance with this Regulation, such as information about funds and economic resources held or controlled while acting on behalf of, or at the direction of, any natural or legal person, entity, body or group listed in Annex I or Annex Ia, or about accounts and amounts frozen in accordance with Article 2, to the competent authorities of the Member States where they are resident or located, and, directly or through those competent authorities, to the Commission.
+
+In particular, available information in respect of funds or economic resources owned or controlled by persons designated by the United Nations Security Council or the Sanctions Committee and listed in Annex I during the period of six months before the entry into force of this Regulation shall be provided;
+
+(b) cooperate with the competent authorities —————  in any verification of this information.
+
+2\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+3\. Any additional information directly received by the Commission shall be made available to the competent authorities of the Member States concerned.
+
+## Article 6
+
+The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen, or not made available, as a result of negligence.
+
+## Article 7
+
+1\. The Commission shall be empowered to:
+
+(a) amend Annex I and Annex Ia  , where necessary in accordance with the procedure referred to in Article 7b(2), and
+
+(b) amend Annex II on the basis of information supplied by Member States.
+
+2\. Without prejudice to the rights and obligations of the Member States under the Charter of the United Nations, the Commission shall maintain all necessary contacts with the Sanctions Committee for the purpose of the effective implementation of this Regulation.
+
+## Article 7a
+
+1\. Where the United Nations Security Council or the Sanctions Committee decides to list a natural or legal person, entity, body or group for the first time, the Commission shall, as soon as a statement of reasons has been provided by the Sanctions Committee, take a decision to include such person, entity, body or group in Annex I.
+
+2\. Once the decision referred to in paragraph 1 has been taken, the Commission shall without delay communicate the statement of reasons provided by the Sanctions Committee, to the person, entity, body or group concerned, either directly, if the address is known, or following the publication of a notice, providing him, her or it an opportunity to express his, her or its views on the matter.
+
+3\. Where observations are submitted, the Commission shall review its decision referred to in paragraph 1 in the light of those observations and after following the procedure referred to in Article 7b(2). Those observations shall be forwarded to the Sanctions Committee. The Commission shall communicate the result of its review to the person, entity, body or group concerned. The result of the review shall also be forwarded to the Sanctions Committee.
+
+4\. If a further request is made, based on substantial new evidence, to remove a person, entity, body or group from Annex I, the Commission shall conduct a further review in accordance with paragraph 3 and after following the procedure referred to in Article 7b(2).
+
+5\. Where the United Nations decide to de-list a person, entity, body or group, or to amend the identifying data of a listed person, entity, body or group, the Commission shall amend Annex I accordingly.
+
+## Article 7b
+
+1\. The Commission shall be assisted by a committee.
+
+2\. Where reference is made to this paragraph, Articles 5 and 11 of Regulation (EU) No 182/2011 ( 3 ) of the European Parliament and of the Council shall apply.
+
+## Article 7c
+
+1\. Persons, entities, bodies and groups which were included in Annex I before 3 September 2008 and continue to be listed, may present to the Commission a request for a statement of reasons. The request shall be submitted in writing in an official language of the Union.
+
+2\. As soon as the requested statement of reasons is provided by the Sanctions Committee, the Commission shall communicate it to the person, entity, body or group concerned, providing him, her or it an opportunity to express his, her or its views on the matter.
+
+3\. Where observations are submitted, the Commission shall review the decision to include the person, entity, body or group concerned in Annex I, in the light of those observations and after following the procedure referred to in Article 7b(2). Those observations shall be forwarded to the Sanctions Committee. The Commission shall communicate the result of its review to the person, entity, body or group concerned. The result of the review shall also be forwarded to the Sanctions Committee.
+
+4\. If a further request is made, based on substantial new evidence, to remove a person, entity, body or group from Annex I, the Commission shall conduct a further review in accordance with paragraph 3 and after following the procedure referred to in Article 7b(2).
+
+## Article 7d
+
+1\. The Commission shall process personal data in order to carry out its tasks under this Regulation and in accordance with the provisions of Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 4 ).
+
+2\. Annex I and Annex Ia shall include  , where available, information on listed natural persons that is provided by the United Nations Security Council or by the Sanctions Committee and that is necessary for the purpose of identifying the persons concerned. Such information may include:
+
+(a) surname and given names, including alias names and titles, if any;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) passport and ID card numbers;
+
+(e) fiscal and social security numbers;
+
+(f) gender;
+
+(g) address or other information on whereabouts;
+
+(h) function or profession;
+
+(i) the date of designation referred to in Article 2(3).
+
+## Article 7e
+
+Annex I shall include, where available, information on legal persons and entities that is provided by the United Nations Security Council or by the Sanctions Committee and that is necessary for the purpose of identifying the person or entity concerned. Such information may include:
+
+(a) name;
+
+(b) place and date of registration;
+
+(c) registration number;
+
+(d) principal place of business or other information on the whereabouts;
+
+(e) date of designation referred to in Article 2(3).
+
+## Article 8
+
+The Commission and the Member States shall immediately inform each other of the measures taken under this Regulation and shall supply each other with relevant information at their disposal in connection with this Regulation, in particular information received in accordance with Article 5 and in respect of violation and enforcement problems and judgements handed down by national courts.
+
+## Article 9
+
+This Regulation shall apply notwithstanding any rights conferred or obligations imposed by any international agreement signed or any contract entered into or any licence or permit granted before the entry into force of this Regulation.
+
+## Article 10
+
+1\. Each Member State shall determine the sanctions to be imposed where the provisions of this Regulation are infringed. Such sanctions shall be effective, proportionate and dissuasive.
+
+2\. Pending the adoption, where necessary, of any legislation to this end, the sanctions to be imposed where the provisions of this Regulation are infringed, shall be those determined by the Member States in accordance with Article 13 of Regulation (EC) No 467/2001.
+
+3\. Each Member State shall be responsible for bringing proceedings against any natural or legal person, group or entity under its jurisdiction, in cases of violation of any of the prohibitions laid down in this Regulation by any such person, group or entity.
+
+## Article 11
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body which is incorporated or constituted under the law of a Member State;
+
+(e) to any natural or legal person, entity, body or group in respect of any business done in whole or in part within the Union.
+
+## Article 12
+
+Regulation (EC) No 467/2001 is hereby repealed.
+
+## Article 13
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union  .
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of persons, groups and entities referred to in Article 2**
+
+**Legal persons, groups and entities**
+
+— Abu Sayyaf Group (alias Al Harakat Al Islamiyya). Address: Philippines. Other information: (a) Associated with Jemaah Islamiyah (JI); (b) Current leader is Radulan Sahiron. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Afghan Support Committee (ASC) (alias (a) Lajnat ul Masa Eidatul Afghania, (b) Jamiat Ayat-ur-Rhas al Islamiac, (c) Jamiat Ihya ul Turath al Islamia, (d) Ahya ul Turas, (e) ASC). Address: Cheprahar Hadda, Mia Omar Sabaqah School, Jalabad, Afghanistan. Other information: (a) Associated with the Revival of Islamic Heritage Society; (b) Abu Bakr al-Jaziri served as finance chief of ASC. Date of designation referred to in Article 7e, point (e): 11.1.2002.
+
+— Al-Qaida (alias (a) ‘The Base’, (b) Al Qaeda, (c) Islamic Salvation Foundation, (d) The Group for the Preservation of the Holy Sites, (e) The Islamic Army for the Liberation of Holy Places, (f) The World Islamic Front for Jihad Against Jews and Crusaders, (g) Usama Bin Laden Network (h) Usama Bin Laden Organisation, (i) Al Qa'ida, (j) Al Qa'ida/Islamic Army). Other information: Formerly listed as Al Qa'ida/Islamic Army. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Al Rashid Trust (alias (a) Al-Rasheed Trust, (b) Al Rasheed Trust, (c) Al-Rashid Trust, (d) Aid Organisation of The Ulema, Pakistan, (e) Al Amin Welfare Trust, (f) Al Amin Trust, (g) Al Ameen Trust, (h) Al-Ameen Trust, (i) Al Madina Trust, (j) Al-Madina Trust). Address: (a) Kitas Ghar, Nazimabad 4, Dahgel-Iftah, Karachi, Pakistan; (b) Jamia Maajid, Sulalman Park, Melgium Pura, Lahore, Pakistan; (c) Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan; (d) Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan; (e) Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan; (f) Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan; (g) Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No 4, Karachi, Pakistan (Tel. (a) 668 33 01; (b) 0300- 820 91 99, Fax 662 38 14); (h) 302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -I Igbal, Karachi, Pakistan (Tel. 497 92 63); (i) 617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan (Tel. 587 25 45); (j) 605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan (Tel. 262 38 18-19); (k) Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan (Tel. 042-681 20 81). Other information: (a) Reportedly defunct; (b) Headquarters were in Pakistan; (c) Operations in Afghanistan: Herat, Jalalabad, Kabul, Kandahar, Mazar, Sherif, also operations in Kosovo, Chechnya; (d) Until 21.10.2008 the UN list included the entries ‘Al Rashid Trust’ (listed on 6.10.2001) and ‘Aid Organization of the Ulema, Pakistan’ (listed on 24.4.2002 and amended on 25.7.2006); The two entries were consolidated into this entity on 21 October 2008; (e) Founded by Mufti Rashid Ahmad Ledahyanoy; (f) Associated with Jaish-i-Mohammed, (g) Banned in Pakistan since October 2001; (h) No indication of any activity under the name of Al-Rashid Trust has emerged as of November 2023. Date of designation referred to in Article 7d(2)(i): 6.10.2001.
+
+— Al-Itihaad Al-Islamiya/AIAI (alias AIAI). Other information: Reported to have operated in Somalia and Ethiopia. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Egyptian Islamic Jihad (alias (a) Egyptian Al-Jihad; (b) Jihad Group, (c) New Jihad, (d) Al-Jihad, (e) Egyptian Islamic Movement. Other information: Co-founded by Aiman Muhammed Rabi al-Zawahiri, who was also its military leader. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Ansar al-Islam (alias (a) Devotees of Islam, (b) Jund al-Islam, (c) Soldiers of Islam, (d) Kurdistan Supporters of Islam, (e) Supporters of Islam in Kurdistan, (f) Followers of Islam in Kurdistan, (g) Kurdish Taliban, (h) Soldiers of God, (i) Ansar al-Sunna Army, (j) Jaish Ansar al-Sunna, (k) Ansar al-Sunna). Other information: (a) The founder is Najmuddin Faraj Ahmad; (b) Associated with Al-Qaida in Iraq; (c) Located and primarily active in northern Iraq but maintains a presence in western and central Iraq. Date of designation referred to in Article 2a(4)(b): 24.2.2003.
+
+— Armed Islamic Group (alias (a) Al Jamm'ah Al Islamiah Al-Musallah, (b) GIA, (c) Groupe Islamique Armé). Other information: Located in Algeria. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Asbat al-Ansar. Address: Ein el-Hilweh camp, Lebanon. Other information: (a) Active in northern Iraq; (b) Associated with Al-Qaida in Iraq. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Benevolence International Foundation (alias: (a) Al Bir Al Dawalia, (b) BIF, (c) BIF-USA, (d) Mezhdunarodnyj Blagotvoritel'nyl Fond). Address: (a) 8820 Mobile Avenue, IA, Oak Lawn, Illinois, 60453, United States of America, (b) P.O. Box 548, Worth, Illinois, 60482, United States of America, (c) 9838 S. Roberts Road, Suite 1W, Palos Hills, Illinois, 60465, United States of America (Formerly located at), (d) 20-24 Branford Place, Suite 705, Newark, New Jersey, 07102, United States of America (Formerly located at), (e) P.O. Box 1937, Khartoum, Sudan, (f) Bangladesh, (g) (Gaza Strip), (h) Yemen. Other information: (a) Reportedly defunct. No longer operates in Bosnia and Herzegovina, (b) Employer Identification Number (United States of America): 36-3823186. Date of designation referred to in Article 7d(2)(i): 21.11.2002.
+
+— Eastern Turkistan Islamic Movement (ETIM) (alias (a) The Eastern Turkistan Islamic Party, (b) The Eastern Turkistan Islamic Party of Allah, (c) Islamic Party of Turkestan (d) Djamaat Turkistan, (e) ETIM). Other information: Active in China, South Asia and Central Asia. Date of designation referred to in Article 2a (4) (b): 11.9.2002.
+
+— Global Relief Foundation (GRF) Address: (a) 9935 South 76th Avenue, Unit 1, Bridgeview, Illinois 60455, U.S.A.; (b) PO Box 1406, Bridgeview, Illinois 60455, U.S.A. Other information: (a) Other foreign locations: Afghanistan, Bangladesh, Eritrea, Ethiopia, Georgia, India, Iraq, West Bank and Gaza, Somalia and Syria; (b) U.S. Federal Employer Identification: 36-3804626. Date of designation referred to in Article 2a(4)(b): 22.10.2002.
+
+— Harakat Ul-Mujahidin/HUM (alias (a) Al-Faran, (b) Al-Hadid, (c) Al-Hadith, (d) Harakat Ul-Ansar, (e) HUA, (f) Harakat Ul-Mujahideen), (g) HUM. Address: Pakistan. Other information: (a) Associated with Jaish-i-Mohammed, Lashkar i Jhangvi (LJ) and Lashkar-e-Tayyiba; (b) Active in Pakistan and Afghanistan; (c) Banned in Pakistan. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Islamic Army of Aden
+
+— Islamic International Brigade (IIB) (alias (a) The Islamic Peacekeeping Brigade, (b) The Islamic Peacekeeping Army, (c) The International Brigade, (d) Islamic Peacekeeping Battalion, (e) International Battalion, (f) Islamic Peacekeeping International Brigade), (g) (IIB). Other information: Linked to the Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs (RSRSBCM) and the Special Purpose Islamic Regiment (SPIR). Date of designation referred to in Article 2a(4)(b): 4.3.2003.
+
+— Islamic Movement of Uzbekistan (alias IMU). Other information: (a) Associated with the Eastern Turkistan Islamic Movement, Islamic Jihad Group and Emarat Kavkaz; (b) Active in the Afghanistan/Pakistan border area, northern Afghanistan and Central Asia. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Jaish-I-Momhammed (alias Army of Mohammed). Address: Pakistan. Other information: (a) Based in Peshawar and Muzaffarabad, Pakistan; (b) Associated with Harakat ul-Mujahidin / HUM, Lashkar-e-Tayyiba, Al-Akhtar Trust International and Harakat-ul Jihad Islami; (c) Banned in Pakistan. Date of designation referred to in Article 2a (4) (b): 17.10.2001.
+
+— Jam’yah Ta’awun Al-Islamia (alias (a) Society of Islamic Cooperation, (b) Jam’iyat Al Ta’awun Al Islamiyya, (c) JIT). Address: Kandahar City, Afghanistan. Other information: Founded by Usama Mohammad Awad bin Laden in 2001. Date of designation referred to in Article 2a (4) (b): 17.10.2001.
+
+— Jemaah Islamiya (alias (a) Jema'ah Islamiyah, (b) Jemaah Islamiyah, (c) Jemaah Islamiah, Jamaah Islamiyah, (d) Jama'ah Islamiyah). Other information: (a) Operates in Southeast Asia, including Indonesia, Malaysia and the Philippines; (b) Associated with the Abu Sayyaf Group. Date of designation referred to in Article 2a (4) (b): 25.10.2002.
+
+— Lashkar i Jhangvi (LJ) (alias LJ). Other information: Banned in Pakistan as at 2010. Date of designation referred to in Article 7e, point (e): 3.2.2003.
+
+— Libyan Islamic Fighting Group (alias LIFG). Address: Libya. Other information: Members in Afghanistan merged with Al-Qaida in November 2007. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Moroccan Islamic Combatant Group (alias (a) GICM, (b) Groupe Islamique Combattant Marocain). Address: Morocco. Other information: Associated with the Organization of Al-Qaida in the Islamic Maghreb. Date of designation referred to in Article 2a (4) (b): 10.10.2002.
+
+— Rabita Trust. Address: (a) Room 9A, Second Floor, Wahdat Road, Education Town, Lahore, Pakistan; (b) Wares Colony, Lahore, Pakistan (at the time of listing). Date of designation referred to in Article 2a (4) (b): 17.10.2001.
+
+— Revival of Islamic Heritage Society (alias (a) Revival of Islamic Society Heritage on the African Continent, (b) Jamia Ihya ul Turath, (c) RIHS, (d) Jamiat Ihia Al-Turath Al-Islamiya, (e) Al-Furqan Foundation Welfare Trust, (f) Al-Furqan Welfare Foundation Address: (a) Pakistan, (b) Afghanistan. Other information: (a) Only the Pakistan and Afghanistan offices of this entity are designated, (b) Associated with Abu Bakr al-Jaziri and Afghan Support Committee (ASC). Date of designation referred to in Article 2a (4) (b): 11.1.2002.
+
+— Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs (RSRSBCM) (alias (a) Riyadus-Salikhin Reconnaissance and Sabotage Battalion, (b) Riyadh-as-Saliheen, (c) The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs, (d) Firqat al-Takhrib wa al-Istitla al-Askariyah li Shuhada Riyadh al-Salihin, (e) Riyadu- Salikhin Reconnaissance and Sabotage battalion of Shahids (Martyrs), (f) RSRSBCM). Other information: Associated with the Islamic International Brigade (IIB), the Special Purpose Islamic Regiment (SPIR) and Emarat Kavkaz. Date of designation referred to in Article 2a(4)(b): 4.3.2003.
+
+— The Organization of Al-Qaida in the Islamic Maghreb (alias (a) AQIM, (b) Al Qaïda au Maghreb islamique (AQMI), (c) Le Groupe Salafiste pour la Prédication et le Combat (GSPC), (d) Salafist Group For Call and Combat. Address: (a) Algeria, (b) Mali, (c) Mauritania, (d) Morocco, (e) Niger, (f) Tunisia. Other information: (a) Headed by Abdelmalek Droukdel; (b) Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+— Special Purpose Islamic Regiment (SPIR) (alias (a) The Islamic Special Purpose Regiment, (b) The al-Jihad-Fisi-Sabililah Special Islamic Regiment, (c) Islamic Regiment of Special Meaning, (d) SPIR).’ Other information: Linked to the Islamic International Brigade (IIB) and the Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs (RSRSBCM). Date of designation referred to in Article 2a(4)(b): 4.3.2003.
+
+— Tunisian Combatant Group (alias (a) Groupe Combattant Tunisien, (b), Groupe Islamiste Combattant Tunisien, (c) GICT. Address: Tunisia. Other information: Associated with the Organization of Al-Qaida in the Islamic Maghreb. Date of designation referred to in Article 2a (4) (b): 10.10.2002.
+
+— Ummah Tameer E-Nau (UTN) (alias UTN). Address: Street 13, Wazir Akbar Khan, Kabul Afghanistan. Other information: (a) Its directors included Mahmood Sultan Bashir-Ud-Din, Majeed Abdul Chaudhry and Mohammed Tufail; (b) Banned in Pakistan. Date of designation referred to in Article 7e, point (e): 24.12.2001.
+
+— Wafa Humanitarian Organisation (alias: (a) Al Wafa; (b) Al Wafa Organization; (c) Wafa Al-Igatha Al-Islamia). Address: (a) Kuwait (at the time of listing); (b) United Arab Emirates (at the time of listing); (c) Afghanistan (at the time of listing). Other information: (a) Headquarters was in Kandahar, Afghanistan as at 2001; (b) Wafa was a component of Al-Qaida in 2001. Date of designation referred to in Article 7e, point (e): 6.10.2001.
+
+— Al-Haramain Foundation (Pakistan). Address: House No 279, Nazimuddin Road, F-10/1, Islamabad, Pakistan (at the time of listing). Other information: As at late 2025, it was not active and had no structures in Pakistan. Date of designation referred to in Article 7e, point (e): 26.1.2004.
+
+— Al-Haramayn Foundation (Kenya). Address: (a) Nairobi, Kenya (at the time of listing); (b) Garissa, Kenya (at the time of listing); (c) Dadaab, Kenya (at the time of listing). Date of designation referred to in Article 2a (4) (b): 26.1.2004.
+
+— Al-Haramayn Foundation (Tanzania). Address: (a) PO box 3616, Dar es Salaam, Tanzania (at the time of listing), (b) Tanga (at the time of listing); (c) Singida (at the time of lising). Date of designation referred to in Article 2a (4) (b): 26.1.2004.
+
+— Al Furqan (alias (a) Dzemilijati Furkan, (b) Dzem'ijjetul Furqan, (c) Association for Citizens Rights and Resistance to Lies, (d) Dzemijetul Furkan, (e) Association of Citizens for the Support of Truth and Suppression of Lies, (f) Sirat, (g) Association for Education, Culture and Building Society- Sirat, (h) Association for Education, Cultural and to Create Society- Sirat, (i) Istikamet, (j) In Siratel, (k) Citizens’ Association for Support and Prevention of lies – Furqan). Address: (a) 30a Put Mladih Muslimana (former name Palva Lukaca Street), 71000 Sarajevo, Bosnia and Herzegovina; (b) 72 ul. Strossmajerova, Zenica, Bosnia and Herzegovina; (c) 42 Muhameda Hadzijahica, Sarajevo, Bosnia and Herzegovina; (d) 70 and 53 Strosmajerova Street, Zenica, Bosnia and Herzegovina; (e) Zlatnih Ljiljana Street, Zavidovici, Bosnia and Herzegovina). Other information: (a) Reportedly defunct, (b) Registered in Bosnia and Herzegovina as a citizens’ association under the name of ‘Citizens’ Association for Support and Prevention of lies – Furqan’ on 26.9.1997, (c) Al Furqan ceased its work by decision of the Ministry of Justice of the Bosnia and Herzegovina Federation (decision number 03-054-286/97 dated 8.11.2002), (d) Al Furqan was no longer in existence as of December 2008. Date of designation referred to in Article 7d(2)(i): 11.5.2004.
+
+— Taibah International – Bosnia Offices (alias (a) Taibah International Aid Agency, (b) Taibah International Aid Association, (c) Al Taibah, Intl, (d) Taibah International Aide Association). Address: (a) 6 Avde Smajlovic Street, Novo Sarajevo, Bosnia and Herzegovina; (b) 26, Tabhanska Street, Visoko, Bosnia and Herzegovina; (c) 3, Velika Cilna Ulica, Visoko, Bosnia- Herzegovina. Other information: (a) Reportedly defunct; (b) In 2002-2004, Taibah International – Bosnia offices used premises of the Culture Home in Hadzici, Sarajevo, Bosnia and Herzegovina; (c) The organization was officially registered in Bosnia and Herzegovina as a branch of Taibah International Aid Association under registry number 7; (d) Taibah International – Bosnia offices ceased its work by decision of the Ministry of Justice of the Bosnia and Herzegovina Federation (decision on cessation of operation number 03-05-2-70/03). Date of designation referred to in Article 7d(2)(i): 11.5.2004.
+
+— Al-Haramain & Al Masjed Al-Aqsa Charity Foundation (alias (a) Al Haramain Al Masjed Al Aqsa, (b) Al-Haramayn Al Masjid Al Aqsa, (c) Al-Haramayn and Al Masjid Al Aqsa Charitable Foundation, (d) Al Harammein Al Masjed Al-Aqsa Charity Foundation). Address: (a) 2A Hasiba Brankovica, Sarajevo, Bosnia and Herzegovina (branch address); (b) 14 Bihacka Street, Sarajevo, Bosnia and Herzegovina; (c) 64 Potur mahala Street, Travnik, Bosnia and Herzegovina; (d) Zenica, Bosnia and Herzegovina. Other information: (a) Reportedly defunct; (b) Used to be officially registered in Bosnia and Herzegovina under registry number 24; (c) Al-Haramain & Al Masjed Al-Aqsa Charity Foundation ceased its work by decision of the Ministry of Justice of the Bosnia and Herzegovina Federation (decision on cessation of operation number 03-05-2-203/04); (d) It was no longer in existence as of December 2008; (e) Its premises and humanitarian activities were transferred under Government supervision to a new entity called Sretna Buducnost. Date of designation referred to in Article 7d(2)(i): 28.6.2004.
+
+— Al-Haramain (Afghanistan branch). Address: Afghanistan (at the time of listing). Date of designation referred to in Article 2a (4) (b): 6.7.2004.
+
+— Al-Haramain (Albanian branch). Address: Irfan Tomini Street 58, Tirana, Albania (at the time of listing). Date of designation referred to in Article 2a (4) (b): 6.7.2004.
+
+— Al-Haramain (Bangladesh branch). Address: House 1, Road 1, S-6, Uttara, Dhaka, Bangladesh (at the time of listing). Date of designation referred to in Article 2a (4) (b): 6.7.2004.
+
+— Al-Haramain (Ethiopia branch). Address: Woreda District 24 Kebele Section 13, Addis Ababa, Ethiopia (at the time of listing). Date of designation referred to in Article 2a (4) (b): 6.7.2004.
+
+— Al-Haramain (The Netherlands branch) (alias Stichting Al Haramain Humanitarian Aid). Address: Jan Hanzenstraat 114, 1053 SV Amsterdam, the Netherlands (at the time of listing). Other information: Reportedly defunct. Date of designation referred to in Article 7d(2)(i): 6.7.2006.
+
+— Al-Haramain Foundation (Union of the Comoros). Address: B/P: 1652 Moroni, Union of the Comoros (at the time of listing). Date of designation referred to in Article 2a (4) (b): 28.9.2004.
+
+— Al-Qaida in Iraq (alias (a) AQI, (b) al-Tawhid, (c) the Monotheism and Jihad Group, (d) Qaida of the Jihad in the Land of the Two Rivers, (e) Al-Qaida of Jihad in the Land of the Two Rivers, (f) The Organization of Jihad's Base in the Country of the Two Rivers, (g) The Organization Base of Jihad/Country of the Two Rivers, (h) The Organization Base of Jihad/Mesopotamia, (i) Tanzim Qa'idat Al-Jihad fi Bilad al-Rafidayn, (j) Tanzeem Qa'idat al Jihad/Bilad al Raafidaini, (k) Jama'at Al-Tawhid Wa'al-Jihad, (l) JTJ, (m) Islamic State of Iraq, (n) ISI, (o) al-Zarqawi network, (p) Islamic State in Iraq and the Levant). Date of designation referred to in Article 2a (4) (b): 18.10.2004.
+
+— Lashkar e-Tayyiba (alias (a) Lashkar-e-Toiba, (b) Lashkar-i-Taiba, (c) al Mansoorian, (d) al Mansooreen, (e) Army of the Pure, (f) Army of the Righteous, (g) Army of the Pure and Righteous, (h) Paasban-e-Kashmir (i) Paasban-i-Ahle- Hadith, (j) Pasban-e-Kashmir, (k) Pasban-e-Ahle-Hadith, (l) Paasban-e-Ahle-Hadis, (m) Pashan-e-ahle Hadis, (n) Lashkar e Tayyaba, (o) LET, (p) Jamaat-ud-Dawa, (q) JUD (r) Jama'at al-Dawa, (s) Jamaat ud-Daawa, (t) Jamaat ul-Dawah, (u) Jamaat-ul-Dawa, (v) Jama'at-i-Dawat, (w) Jamaiat-ud-Dawa, (x) Jama'at-ud-Da'awah, (y) Jama'at-ud- Da'awa, (z) Jamaati-ud-Dawa, (aa) Falah-i-Insaniat Foundation (FIF). Date of designation referred to in Article 2a (4) (b): 2.5.2005.
+
+— Islamic Jihad Group (alias (a) Jama’at al-Jihad, (b) Libyan Society, (c) Kazakh Jama’at, (d) Jamaat Mojahedin, (e) Jamiyat, (f) Jamiat al-Jihad al-Islami, (g) Dzhamaat Modzhakhedov, (h) Islamic Jihad Group of Uzbekistan, (i) al-Djihad al-Islami, (j) Zamaat Modzhakhedov Tsentralnoy Asii, (k) Islamic Jihad Union). Other information: (a) Founded and led by Najmiddin Kamolitdinovich Jalolov (reportedly deceased) and Suhayl Fatilloevich Buranov (reportedly deceased); (b) Its activities are funded and coordinated by Al-Qaida; (c) Associated with the Islamic Movement of Uzbekistan and Emarat Kavkaz; (d) Active in the Afghanistan/Pakistan border area, Central Asia, South Asia region and some European States. Date of designation referred to in Article7e, point (e): 1.6.2005.
+
+— Al-Akhtar Trust International (alias (a) Al Akhtar Trust, (b) Al-Akhtar Medical Centre, (c) Akhtarabad Medical Camp, (d) Pakistan Relief Foundation, (e) Pakistani Relief Foundation, (f) Azmat-e-Pakistan Trust, (g) Azmat Pakistan Trust). Address: (a) ST-1/A, Gulsahn-e-Iqbal, Block 2, Karachi, 25300, Pakistan; (b) Gulistan-e-Jauhar, Block 12, Karachi, Pakistan. Other information: (a) Regional offices in Pakistan: Bahawalpur, Bawalnagar, Gilgit, Islamabad, Mirpur Khas, Tando-Jan-Muhammad; (b) Akhtarabad Medical Camp is in Spin Boldak, Afghanistan; (c) Registered by members of Jaish-i-Mohammed; (d) Associated with Harakat ul-Mujahidin/ HUM, Lashkar I Jhanghvi (LJ) and Lashkar-e-Tayyiba; (e) Banned in Pakistan. Date of designation referred to in Article 2a (4) (b): 17.8.2005.
+
+— Rajah Solaiman Movement (alias (a) Rajah Solaiman Islamic Movement, (b) Rajah Solaiman Revolutionary Movement). Address: (a) Barangay Mal-Ong, Anda, Pangasinan Province, Philippines; (b) Sitio Dueg, Barangay Maasin, San Clemente, Tarlac Province, Philippines; (c) Number 50, Purdue Street, Cubao, Quezon City, Philippines. Other information: Founded and headed by Hilarion Del Rosario Santos III. Date of designation referred to in Article 7d(2)(i): 4.6.2008.
+
+— Al-Qaida in the Arabian Peninsula (original script: القاعدة في جزيرة العرب) (alias (a) AQAP, (b) Al-Qaida of Jihad Organization in the Arabian Peninsula, (c) Tanzim Qa'idat al-Jihad fi Jazirat al-Arab, (d) Al-Qaida Organization in the Arabian Peninsula, (e) Al-Qaida in the South Arabian Peninsula, (f) Ansar al-Shari'a, (g) AAS, (h) Al-Qaida in Yemen, (i) AQY). Other information: (a) AQAP is a regional affiliate of Al-Qaida and an armed group operating primarily in Arabian Peninsula; (b) Location: Yemen. Alternative location: Saudi-Arabia (2004-2006); (c) Formed in January 2009 when Al-Qaida in Yemen combined with Saudi Arabian Al-Qaida operatives; (d) Leader of AQAP is Sa'ad bin Atef al-Awlaki; (e) Ansar al-Shari’a was formed in early 2011 by AQAP and has taken responsibility for multiple attacks in Yemen against both government and civilian targets. Date of designation referred to in Article 7e, point (e): 19.1.2010.
+
+— Harakat-ul Jihad Islami (alias (a) HUJI, (b) Movement of Islamic Holy War, (c) Harkat-ul-Jihad-al Islami, (d) Harkat- al-Jihad-ul Islami, (e) Harkat-ul-Jehad-al-Islami, (f) Harakat ul Jihad-e-Islami, (g) Harakat-ul-Ansar, (h) HUA). Other information: (a) Established in Afghanistan in 1980; (b) In 1993 merged with Harakat ul-Mujahidin to form Harakat ul-Ansar; (c) In 1997 split from Harakat ul-Ansar and resumed using its former name; (d) Operating in India, Pakistan and Afghanistan; (e) Banned in Pakistan. Date of designation referred to in Article 2a(4) (b): 6.8.2010.
+
+— Emarat Kavkaz. Other information: (a) Mainly active in the Russian Federation, Afghanistan and Pakistan; (b) Led by Doku Khamatovich Umarov. Date of designation referred to in Article 2a(4)(b): 29.7.2011.
+
+— Tehrik-e Taliban Pakistan (TTP) (alias (a) Tehrik-I-Taliban Pakistan, (b) Tehrik-e-Taliban, (c) Pakistani Taliban, (d) Tehreek-e-Taliban). Other information: (a) Tehrik-e Taliban is based in the tribal areas along the Afghanistan/ Pakistan border; (b) Formed in 2007, its leader is Maulana Fazlullah. Date of designation referred to in Article 2a (4) (b): 29.7.2011.
+
+— Jemmah Anshorut Tauhid (JAT) (alias (a) Jemaah Anshorut Tauhid, (b) Jemmah Ansharut Tauhid, (c) Jem'mah Ansharut Tauhid, (d) Jamaah Ansharut Tauhid, (e) Jama'ah Ansharut Tauhid, (f) Laskar 99). Address: Jl. Semenromo number 58, 04/XV Ngruki, Cemani, Grogol, Sukoharjo, Jawa Tengah, Indonesia, Telephone: 0271-2167285, Email: info@ansharuttauhid.com. Other information: (a) A group affiliated with the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, that has perpetrated attacks in Indonesia. (b) Founded and led by Abu Bakar Ba'asyir; (c) Established on 27 Jul. 2008 in Solo, Indonesia; (d) Had been associated with Jemmah Islamiya (JI); (e) Website: http://ansharuttauhid.com/. Date of designation referred to in Article 2a(4)(b): 12.3.2012.
+
+— Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (original script: حركة التوحيد والجهاد في غرب إفريقيا). Address: (a) Mali, (b) Algeria. Other information: (a) Associated with The Organization of Al-Qaida in the Islamic Maghreb, Al Mourabitoun and Mokhtar Belmokhtar; (b) Active in the Sahel/Sahara region. Date of designation referred to in Article 7e, point (e): 5.12.2012.
+
+— Ansar Eddine (alias Ansar Dine). Address: Mali. Date of designation referred to in Article 2a (4)(b): 20.3.2013.
+
+— Muhammad Jamal Network (alias (a) MJN, (b) Muhammad Jamal Group, (c) Jamal Network, (d) Abu Ahmed Group, (e) Al-Qaida in Egypt, (f) AQE. Other information: Operates in Egypt, Libya, and Mali. Date of designation referred to in Article 2a (4) (b): 21 Oct. 2013.
+
+— Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (alias (a) Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad (b) Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad (c) Boko Haram (d) Western Education is a Sin). Address: Nigeria. Other information: (a) Affiliate of Al-Qaida and the Organization of Al-Qaida in the Islamic Maghreb (AQIM), (b) Associated with and Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru), (c) The leader is Abubakar Shekau. Date of designation referred to in Article 2a(4)(b): 22.5.2014.
+
+— Al Mouakaoune Biddam (alias (a) Les Signataires par le Sang; (b) Ceux Qui Signent avec le Sang; (c) Those Who Sign in Blood). Address: Mali. Date of designation referred to in Article 2a(4)(b): 2.6.2014.
+
+— Al Moulathamoun (alias (a) Les Enturbannés; (b) The Veiled. Address: (a) Algeria; (b) Mali; (c) Niger). Other information: Active in the Sahel/Sahara. Date of designation referred to in Article 2a(4)(b): 2.6.2014.
+
+— Al Mourabitoun (alias (a) Les Sentinelles; (b) The Sentinels). Address: Mali. Other information: Active in the Sahel/Sahara region. Date of designation referred to in Article 2a(4)(b): 2.6.2014.
+
+— Ansarul Muslimina Fi Biladis Sudan (alias: (a) Ansaru; (b) Ansarul Muslimina fi Biladis Sudan; (c) Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS); (d) Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS); (e) Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS); (f) Vanguards for the Protection of Muslims in Black Africa; (g) Vanguard for the Protection of Muslims in Black Africa). Address: Nigeria. Other information: (a) Group established in 2012; (b) Operates in Nigeria. Date of designation referred to in Article 2a(4)(b): 26.6.2014.
+
+— Ansar Al-shari'a in Tunisia (AAS-T) (alias (a) AAS-T; (b) Ansar al-Sharia in Tunisia; (c)Ansar al-Shari'ah in Tunisia; (d)Ansar al-Shari'ah; (e) Ansar al-Sharia; (f)Supporters of Islamic Law; (g) Al-Qayrawan Media Foundation). Other information: (a) Operates in Tunisia; (b) The leader is Seifallah ben Hassine. Date of designation referred to in Article 2a(4)(b): 23.9.2014.
+
+— Abdallah Azzam Brigades (AAB) (alias (a) AAB; (b) Abdullah Azzam Brigades; (c) Ziyad al-Jarrah Battalions of the Abdallah Azzam Brigades; (d) Yusuf al-'Uyayri Battalions of the Abdallah Azzam Brigades). Other information: Operates in Lebanon, Syria and the Arabian Peninsula. Date of designation referred to in Article 2a(4)(b): 23.9.2014.
+
+— Ansar Al Charia Derna (alias (a) Ansar al-Charia Derna; (b) Ansar al-Sharia Derna; (c) Ansar al Charia; (d) Ansar al-Sharia; (e) Ansar al Sharia). Other information: (a) Operates in Derna and Jebel Akhdar, Libya; (b) Support network in Tunisia. Date of designation referred to in Article 2a(4)(b): 19.11.2014.
+
+— Ansar Al Charia Benghazi (alias (a) Ansar al Charia; (b) Ansar al-Charia; (c) Ansar al-Sharia; (d) Ansar al-Charia Benghazi); (e) Ansar al-Sharia Benghazi; (f) Ansar al Charia in Libya (ASL); (g) Katibat Ansar al Charia; (h) Ansar al Sharia). Other information: (a) Operates in Benghazi, Libya; (b) Support network in Tunisia. Date of designation referred to in Article 2a(4)(b): 19.11.2014.
+
+— Hilal Ahmar Society Indonesia (HASI) (alias: (a) Yayasan Hilal Ahmar, (b) Indonesia Hilal Ahmar Society for Syria). Other information: (a) ostensibly humanitarian wing of Jemaah Islamiyah; (b) operates in Lampung, Jakarta, Semarang, Yogyakarta, Solo, Surabaya and Makassar, Indonesia; (c) not affiliated with the humanitarian group International Federation of the Red Cross and Red Crescent Societies (IFRC). Date of designation referred to in Article 2a(4)(b): 13.3.2015.
+
+— The Army Of Emigrants And Supporters (alias: (a) Battalion of Emigrants and Supporters (b) Army of Emigrants and Supporters organization (c) Battalion of Emigrants and Ansar d) Jaysh al-Muhajirin wal-Ansar (JAMWA); Address: Jabal Turkuman area, Lattakia Governorate, Syrian Arab Republic; Other information: Established by foreign terrorist fighters in 2013. Location: Syrian Arab Republic. Affiliated with Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq and Al-Nusrah Front for the People of the Levant; Date of designation referred to in Article 2a (4) (b): 6.8.2015.
+
+— Mujahidin Indonesian Timur (MIT) (alias (a) Mujahidin of Eastern Indonesia, (b) East Indonesia Mujahideen, (c) Mujahidin Indonesia Timor, (d) Mujahidin Indonesia Barat (MIB), (e) Mujahidin of Western Indonesia) Address: Indonesia; Other information: Operates in Java and Sulawesi, Indonesia and also active in Indonesia's eastern provinces. Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+— Jund Al-Khilafah In Algeria (JAK-A) (alias (a) Jund al Khalifa, (b) Jund al-Khilafah fi Ard al-Jaza'ir, (c) Jund al-Khalifa fi Ard al- Jazayer, (d) Soldiers of the Caliphate in Algeria, (e) Soldiers of the Caliphate of Algeria, (f) Soldiers of the Caliphate in the Land of Algeria); Address: Kabylie region, Algeria. Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+— Harakat Sham Al-Islam (alias (a) Haraket Sham al-Islam, (b) Sham al- Islam, (c) Sham al-Islam Movement. Address: Syrian Arab Republic. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+— Jamaat-ul-Ahrar (JuA) (alias: (a) Jamaat-e-Ahrar; (b) Tehrik-e Taliban Pakistan Jamaat ul Ahrar; (c) Ahrar-ul-Hind. Address: (a) Lalpura, Nangarhar Province, Afghanistan (since Jun. 2015); (b) Mohmand Agency, Pakistan (as at Aug. 2014). Other information: operates from Nangarhar Province, Afghanistan and Pakistan-Afghanistan border region. Date of designation referred to in Article 7d(2)(i): 6.7.2017.
+
+— HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL, SYRIAN ARAB REPUBLIC) (alias: (a) Hanifah Currency Exchange; (b) Hanifeh Exchange; (c) Hanifa Exchange; (d) Hunaifa Office; (e) Hanifah Exchange Company; (f) Hanifa Money Exchange Office). Address: Albu Kamal (Al-Bukamal), Syrian Arab Republic. Other information: Money exchange business in Albu Kamal (Al-Bukamal), Syrian Arab Republic. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+— SELSELAT AL-THAHAB (alias: (a) Silsilet al Thahab; (b) Selselat al Thahab For Money Exchange; (c) Silsilat Money Exchange Company; (d) Silsilah Money Exchange Company; (e) Al Silsilah al Dhahaba; (f) Silsalat al Dhab). Address: (a) Al-Kadhumi Complex, Al-Harthia, Baghdad, Iraq; (b) Al-Abbas Street, Karbala, Iraq. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+— Jaysh Khalid Ibn al Waleed (alias: (a) Khalid ibn al-Walid Army; (b) Liwa Shuhada al-Yarmouk; (c) Harakat al-Muthanna al-Islamia). Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+— Jund Al Aqsa (alias: (a) The Soldiers of Aqsa; (b) Soldiers of Aqsa; (c) Sarayat Al Quds). Address: (a) Idlib Governorate, Syrian Arab Republic; (b) Hama Governorate, Syrian Arab Republic. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+— Al-Kawthar Money Exchange (alias: (a) Al Kawthar Co.; (b) Al Kawthar Company; (c) Al-Kawthar Hawala). Address: Al-Qaim, Al Anbar Province, Iraq. Other information: Money exchange business and owned by Umar Mahmud Irhayyim al-Kubaysi as of mid-2016. Established in 2000 under License number 202, issued on 17.5.2000, and since withdrawn. Date of designation referred to in Article 7d(2)(i): 6.3.2018.
+
+— Khatiba Imam Al-Bukhari (KIB) (alias: Khataib al-Imam al-Bukhari). Address: (a) Afghanistan/Pakistan border area (previous location); (b) Khan-Shaykhun, Syrian Arab Republic (53 km south of Idlib, location as of March 2018); (c) Idlib, Aleppo and Khama, Syrian Arab Republic (operation zone); (d) Faryab, Badghis and Jawzjan Provinces, Afghanistan. Other information: (a) Associated with Al-Nusrah Front for the People of the Levant; (b) Since 2016, redeployed to Northern Afghanistan. Date of designation referred to in Article 7d(2)(i): 29.3.2018.
+
+— Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM). Date of designation referred to in Article 7d(2)(i): 4.10.2018.
+
+— Tariq Gidar Group (TGG) (alias: (a) Tehrik-e-Taliban-Tariq Gidar Group (b) TTP-Tariq Gidar Group (c) Tehreek-i-Taliban Pakistan Geedar Group (d) TTP Geedar Group (e) Tariq Geedar Group (f) Commander Tariq Afridi Group (g) Tariq Afridi Group (h) Tariq Gidar Afridi Group (i) The Asian Tigers. Address: (Afghanistan/Pakistan border region). Other information: Splinter group of Tehrik-e Taliban Pakistan (TTP). The group was formed in Darra Adam Khel, Federally Administered Tribal Area (FATA), Pakistan, in 2007. Date of designation referred to in Article 7d(2)(i): 22.3.2019.
+
+— Islamic State in Iraq and the Levant – Khorasan (ISIL-K) (alias: (a) ISIL Khorasan, (b) Islamic State's Khorasan Province, (c) ISIS Wilayat Khorasan, (d) ISIL's South Asia Branch, (e) South Asian Chapter of ISIL, (f) The Islamic State of Iraq and ash-Sham – Khorasan Province, (g) The Islamic State of Iraq and Syria – Khorasan, (h) Islamic State of Iraq and Levant in Khorasan Province, (i) Islamic State Khurasan, (j) ISIS-K, (k) ISISK, (l) IS-Khorasan, (m) Islamic State Khorasan Province (ISKP)). Other information: Islamic State of Iraq and the Levant - Khorasan (ISIL-K) was formed on 10.1.2015 by a former Tehrik-e Taliban Pakistan (TTP) commander and was established by former Taliban faction commanders who swore an oath of allegiance to the Islamic State of Iraq and the Levant (listed as Al-Qaida in Iraq). ISIL-K has claimed responsibility for numerous attacks in both Afghanistan and Pakistan. Date of designation referred to in Article 7e(e): 14.5.2019.
+
+— Islamic State West Africa Province (ISWAP) (alias: (a) Islamic State in Iraq and the Levant – West Africa (ISIL-WA); (b) Islamic State of Iraq and Syria – West Africa (ISIS-WA); (c) Islamic State of Iraq and Syria West Africa Province (ISISWAP); (d) Islamic State of Iraq and the Levant – West Africa). Other information: Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq). Formed in March 2015 by Abubakar Shekau. Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Committed terrorist attacks in Nigeria. Date of designation referred to in Article 7e(e): 23.02.2020.
+
+— Islamic State in the Greater Sahara (ISGS) (alias: (a) Islamic State in Iraq and Syria – Greater Sahara (ISIS-GS); (b) Islamic State of Iraq and Syria – Greater Sahara (ISIS-GS); (c) Islamic State of Iraq and the Levant - Greater Sahara (ISIL-GS); (d) Islamic State of the Greater Sahel; (e) ISIS in the Greater Sahel; (f) ISIS in the Greater Sahara; (g) ISIS in the Islamic Sahel). Other information: Formed in May 2015 by Adnan Abu Walid al-Sahraoui. Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq). Splinter group of Al-Mourabitoun. Committed terrorist attacks in Mali, Niger and Burkina Faso. Date of designation referred to in Article 7e(e): 23.02.2020.
+
+— Jamaah Ansharut Daulah (alias: (a) Jemaah Anshorut Daulah; (b) Jamaah Ansharut Daulat. Other information: established in 2015 as an umbrella group of Indonesian extremist groups that pledged allegiance to then-ISIL leader Abu Bakr al-Baghdadi. Associated with Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Date of designation referred to in Article 7e(e): 04.03.2020.
+
+— Islamic State in Iraq and the Levant – Libya (original script: الدولة الإسلامية في العراق والشام – ليبيا) (alias: (a) Islamic state of Iraq and the Levant in Libya; (b) Wilayat Barqa; (c) Wilayat Fezzan; (d) Wilayat Tripolitania; (e) Wilayat Tarablus; (f) Wilayat Al-Tarablus. Other information: formed in November 2014 upon announcement by Abu Bakr Al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali Al-Badri Al-Samarrai (QDi.299). Associated with Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Date of designation referred to in Article 7e(e): 04.03.2020.
+
+— Islamic State in Iraq and the Levant – Yemen (original script: الدولة الإسلامية في العراق والشام – اليمن) (alias: (a) Islamic State of Iraq and the Levant of Yemen; (b) Islamic State in Yemen; (c) ISIL in Yemen; (d) ISIS in Yemen; (e) Wilayat al-Yemen, Province of Yemen. Other information: formed in November 2014 upon acceptance of oaths of allegiance by Abu Bakr Al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali Al-Badri Al-Samarrai (QDi.299). Associated with Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Date of designation referred to in Article 7e(e): 04.03.2020.
+
+— Jund Al-Khilafah in Tunisia (JAK-T) (original script: جند الخلافة في تونس) (alias: (a) ISIL-Tunisia; (b) ISIL-Tunisia Province; (c) Soldiers of the Caliphate; (d) Jund al-Khilafa; (e) Jund al Khilafah; (f) Jund al-Khilafah fi Tunis; (g) Soldiers of the Caliphate in Tunisia; (h) Tala I Jund al-Khilafah; (i) Vanguards of the Soldiers of the Caliphate; (j) Daesh Tunisia; (k) Ajnad). Other information: Formed in November 2014. Associated with Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq. Date of designation referred to in Article 7d(2)(i): 29.12.2021.
+
+— KHATIBA AL-TAWHID WAL-JIHAD (KTJ) (original script: Катиба ат-Таухид валь-Джихад); A.k.a.: a) JANNAT OSHIKLARI; b) Jama'at al-Tawhid wal-Jihad; F.k.a.: JANNAT OSHIKLARI. Address: na. Other information: Khatiba al-Tawhid wal-Jihad (formerly known as Jannat Oshiklari) is a terrorist organization operating under the umbrella of the international terrorist organization Al-Nusrah Front for the People of the Levant. The group mainly operates in the provinces of Hama, Idlib and Ladhiqiyah, in the Syrian Arab Republic, and also conduct operations in Turkey, Kyrgyzstan, Uzbekistan, Russian Federation, Tajikistan, Kazakhstan, Egypt, Afghanistan, Ukraine. The number of fighters of KTJ is about 500. KTJ also cooperates with such terrorist organizations as Khatiba Imam al-Bukhari and the Islamic Jihad Group. Date of designation referred to in Article 7d(2)(i): 7.03.2022.
+
+— Islamic State in Iraq and the Levant in South-East Asia (ISIL-SEA, ISIL-South-East Asia) (alias: (a) Islamic State East Asia Division; (b) Dawlatul Islamiyah Waliyatul Mashriq). Other information: Formed in June 2016 upon announcement by now-deceased Isnilon Hapilon. Associated with Islamic State in Iraq and the Levant. Date of designation referred to in Article 7d(2)(i): 27.1.2023.
+
+— Makhtab Al-Khidamat (original script: مكتب الخدمات) (alias (a) MAK, (b) Al Kifah, (c) Afghan Service Bureau). Other information: Absorbed into Al-Qaida. Date of designation referred to in Article 7d(2), point (i): 6.10.2001.
+
+**Natural persons**
+
+**(functions in brackets are those under the former Taliban regime of Afghanistan)**
+
+— ‘Myrna Ajijul Mabanza (alias (a) Myrna Adijul Mabanza, (b) Myrna Ajilul Mabanza). Date of birth: 11.7.1991. Address: (a) Basilan Province, Philippines, (b) Zamboanga City, Philippines (previous address), (c) Jeddah, Saudi Arabia (previous address), d) Daina, Saudi Arabia (previous address). Nationality: Filipino. National identification no: (a) Voter ID 73320881AG1191MAM20000, (b) Student ID 200801087, (c) Other ID 140000900032. Other information: gender: female. Date of designation referred to in Article 7d(2)(i): 18.6.2018.
+
+— ‘Abdulpatta Escalon Abubakar (alias (a) Abdulpatta Abubakar Escalon, (b) Abdul Patta Escalon Abubakar, (c) Abdul Patta Abu Bakar. Date of birth: (a) 3.3.1965, (b) 1.1.1965, (c) 11.1.1965. Place of birth: Tuburan, Basilan Province, Philippines. Address: (a) Philippines, (b) Jeddah, Saudi Arabia (previous address), (c) Daina, Saudi Arabia (previous address). Nationality: Filipino. Passport no: (a) Philippines number EC6530802 (expires 19.1.2021), (b) Philippines number EB2778599. National identification no: (a) Saudi Arabia 2135314355, (b) Saudi Arabia 202112421. Other information: gender: male. Date of designation referred to in Article 7d(2)(i): 18.6.2018.
+
+— Mohammed Yusip Karim (alias (a) Abu Walid al Indunisi (b) Zidni Elma (c) Udtadz Syaifudin (d) Mohammad Yusef Karim Faiz (e) Muh Saifudin (f) Kembar Khalid (g) Mohamad Yusuf Karim Saifullah Faiz (h) Mohammad Saifuddin Mohammad Yusuf Faiz (i) Ustadz Faiz (j) Saifudin Faiz (k) Kholid Faiz (l) Abdullah Faiz (m) Fauz Faturohman. Date of birth: 11.10.1978. Place of birth: Indonesia. Address: Syrian Arab Republic (location since 2015). Nationality: Indonesia. Other information: Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Physical description: hair colour: black; build: slight. Speaks Indonesian, Arabic and Mindanao dialect. Date of designation referred to in Article 7d(2)(i): 23.8.2018.
+
+— Mohamad Rafi Bin Udin (low quality alias: (a) Mohd Radi Bin Udin, (b) Abu Awn al Malizi, (c) Muhammad Ratin, (d) Muhammad Rafiuddin, (e) Abu Una al Malayzie, (f) Mhammad Rahim Bin Udin, (g) Abu Ayn Tok Cit, (h) Muhammad Ratin Bin Nurdin). Date of birth: 3.6.1966. Place of birth: Negri Sembilan, Malaysia. Nationality: (a) Malaysia, (b) Indonesia. Passport No.: A31142734 (Malaysian number, issued on 6.11.2013 by the Immigration Department of Malaysia, expiration date 6.11.2015). National identification No.: 660603-05-5267 (Malaysia National Identification Card issued by National Registration Department of Malaysia; issued to Mohd Rafi bin Udin). Address: (a) B-3B-19 Glenview Villa, Jalan 49 Off Jalan Kuari, Taman Pinggiran Cheras, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (as at 30.1.2014), (b) 90-00-04 Flat Sri Kota, Bandar Tun Razak, 56100, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (as at 23.4. 2010), (c) 96-06-06 Flat Sri Kota, Bandar Tun Razak, 56100, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (as at 6.4. 2007), (d) Syrian Arab Republic (location since 2014). Other information: (a) Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, (b) Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video, (c) Reportedly deceased, (d) Physical description: eye colour: brown; hair colour: brown; complexion: dark. Speaks Malay, English, limited Arabic. Date of designation referred to in Article 7d(2)(i): 23.8.2018.
+
+— Muhammed Reza Lahaman Kiram (alias (a) Abdul Rahman (b) Abu Abdul Rahman al Filipini (c) Abtol Rahman). Date of birth: 3.3.1990. Place of birth: Zamboanga City, Zamboanga del Sur, Philippines. Address: (a) Brgy Recodo, Zamboanga City, Western Mindanao, Philippines (previous address), (b) 96 IlangLlang, Sarmiento Subdivision, Panabo, Davao City, Eastern Mindanao, Philippines (previous address), (c) Syrian Arab Republic (location since 2015). Nationality: Philippines. Passport no: (a) Philippines number XX3966391 (issued on 25.2.2015 by the Department of Foreign Affairs of Philippines, expiration date 24.2.2020), (b) Philippines number EC3524065. Other information: Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Physical description: height: 156cm; weight: 60 kg (as at Sep. 2016); eye colour: black; hair colour: black; build: medium; high cheekbones. Speaks Tagalog, English, Arabic. Date of designation referred to in Article 7d(2)(i): 23.8.2018.
+
+Nashwan Abd Al-Razzaq Abd Al-Baqi (alias (a) Abdal Al-Hadi Al-Iraqi, (b) Abd Al-Hadi Al-Iraqi, (c) Omar Uthman Mohammed, (d) Abdul Hadi Arif Ali, (e) Abu Abdallah, (f) Abdul Hadi al-Taweel, (g) Abd al-Hadi al-Ansari, (h) Abd al-Muhayman, (i) Abu Ayub). National identification no.: Ration Card no. 0094195. Date of birth: 1961. Place of birth: Mosul, Iraq. Nationality: Iraqi. Other information: (a) Father's name: Abd al-Razzaq Abd al-Baqi, (b) Mother's name: Nadira Ayoub Asaad. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+
+Abdelhalim Hafed Abdelfattah Remadna (alias (a) Abdelhalim Remadna, (b) Jalloul). Address: Algeria. Date of birth: 2.4.1966. Place of birth: Biskra, Algeria. Nationality: Algerian. Other information: Deported from Italy to Algeria on 12.8.2006. Date of designation referred to in Article 2a (4) (b): 3.9.2002.
+
+Abdul Rahman YASIN (alias (a) Taha, Abdul Rahman S. (b) Taher, Abdul Rahman S. (c) Yasin, Abdul Rahman Said (d) Yasin, Aboud); date of birth: 10 Apr 1960; place of birth: Bloomington, Indiana United States of America; nationality: American; passport No: (a) 27082171 (United States of America (Issued on 21 June 1992 in Amman, Jordan)) (b) MO887925 (Iraq); national identification: SSN 156-92-9858 (United States of America); other information: Abdul Rahman Yasin is in Iraq.
+
+Abdullah Ahmed Abdullah El Alfi (alias (a) Abu Mariam, (b) Al-Masri, Abu Mohamed, (c) Saleh). Date of birth: 6.6.1963. Place of birth: Gharbia, Egypt. Nationality: Egyptian
+
+Mohamad Iqbal Abdurrahman (alias (a) Rahman, Mohamad Iqbal; (b) A Rahman, Mohamad Iqbal; (c) Abu Jibril Abdurrahman; (d) Fikiruddin Muqti; (e) Fihiruddin Muqti, (f) Abdul Rahman, Mohamad Iqbal). Address: Jalan Nakula, Komplek Witana Harja III Blok C 106-107, Tangerang, Indonesia. Date of birth: (a) 17.8.1957, (b) 17.8.1958. Place of birth: (a) Korleko-Lombok Timur, Indonesia, (b) Tirpas-Selong Village, East Lombok, Indonesia. Nationality: Indonesian. National identification No: 3603251708570001. Date of designation referred to in Article 2a (4)(b): 28.1.2003.
+
+Mahfouz Ould Al-Walid (alias (a) Abu Hafs the Mauritanian, (b) Khalid Al-Shanqiti, (c) Mafouz Walad Al-Walid). Date of birth: 1.1.1975. Place of birth: Mauritania. Nationality: Mauritanian. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+Adel Ben Al-Azhar Ben Youssef Hamdi (alias (a) Adel ben al-Azhar ben Youssef ben Soltane, (b) Zakariya). Date of birth: 14.7.1970. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport No: (a) M408665 (Tunisian passport number issued on 4.10.2000, expired 3.10.2005), (b) W334061 (Tunisian national identity number issued on 9.3.2011), (c) BNSDLA70L14Z352B (Italian Fiscal Code). Address: Tunisia. Other information: (a) Deported from Italy to Tunisia on 28 February 2004. (b) Serving a 12-year prison sentence in Tunisia for membership in a terrorist organisation abroad as at January 2010. (c) Arrested in Tunisia in 2013. (d) Legally changed family name from Ben Soltane to Hamdi in 2014. Date of designation referred to in Article 2a(4)(b): 3.9.2002.
+
+Abdul Manan Agha (original script: عبد المنان آغا) (good quality alias: Abdul Manan; low quality alias: (a) Abdul Man’am Saiyid, (b) Saiyid Abd al-Man (formerly listed as)). Title: Haji. Other information: Pakistan. Date of designation referred to in Article 7d(2)(i): 17.10.2001.
+
+Ahmed Khalfan Ghailani (alias (a) Ahmad, Abu Bakr, (b) Ahmed, Abubakar, (c) Ahmed, Abubakar K., (d) Ahmed, Abubakar Khalfan, (e) Ahmed, Abubakary K., (f) Ahmed, Ahmed Khalfan, (g) Ali, Ahmed Khalfan, (h) Ghailani, Abubakary Khalfan Ahmed, (i) Ghailani, Ahmed, (j) Ghilani, Ahmad Khalafan, (k) Hussein, Mahafudh Abubakar Ahmed Abdallah, (l) Khalfan, Ahmed, (m) Mohammed, Shariff Omar, (n) Haytham al-Kini, (o) Ahmed The Tanzanian, (p) Foopie, (q) Fupi, (r) Ahmed, A, (s) Al Tanzani, Ahmad, (t) Bakr, Abu, (u) Khabar, Abu). Address: United States of America. Date of birth: (a) 14.3.1974, (b) 13.4.1974, (c) 14.4.1974, (d) 1.8.1970. Place of birth: Zanzibar, Tanzania. Nationality: Tanzania. Date of designation referred to in Article 2a(4)(b): 17.10.2001.
+
+Khalid Abd Al-Rahman Hamd Al-Fawaz (original script: خالد عبد الرحمن حمد الفواز) (good quality alias: (a) Khaled Al-Fauwaz, (b) Khaled A. Al-Fauwaz, (c) Khalid Al-Fawwaz, (d) Khalik Al Fawwaz, (e) Khaled Al-Fawwaz, (f) Khaled Al Fawwaz, (g) Khalid Abdulrahman H. Al Fawaz, (h) Abu-Khalil). Date of birth: 24.8.1962. Place of birth: Kuwait. Nationality: Saudi Arabian. Passport No.: 456682 (issued on 6.11.1990, expired on 13.9.1995). Address: United States of America. Other information: Extradited from the United Kingdom to the United States of America on 5.10.2012. Date of designation referred to in Article 7d(2)(i): 24.4.2002.
+
+Mohammad Hamdi Mohammad Sadiq Al-Ahdal (alias (a) Al-Hamati, Muhammad, (b) Muhammad Muhammad Abdullah Al- Ahdal, (c) Mohamed Mohamed Abdullah Al-Ahdal (d) Abu Asim Al-Makki (e) Ahmed). Date of birth: 19.11.1971. Address: Jamal street, Al-Dahima alley, Al-Hudaydah, Yemen. Place of birth: Medina, Saudi Arabia. Nationality: Yemeni. Passport No: 541939 (Yemeni passport issued in Al-Hudaydah, Yemen, issued on 31.7.2000 in the name of Muhammad Muhammad Abdullah Al-Ahdal). National identification No: 216040 (Yemeni identity card number). Date of designation referred to in Article 2a (4) (b): 17.10.2001.
+
+Amin Muhammad Ul Haq Saam Khan (good quality alias: (a) Al-Haq, Amin, (b) Amin, Muhammad; low quality alias: (a) Dr Amin, (b) Ul-Haq, Dr Amin). Date of birth: (a) 30.4.1963; (b) 1960. Place of birth: Qilagho village, Khogyani District, Nangarhar Province, Afghanistan. Nationality: Afghan. Address: Kabul, Afghanistan (as of June 2026). Other information: (a) Security coordinator for Usama bin Laden (deceased), (b) Repatriated to Afghanistan in February 2006. He was in Afghanistan as of August 2021, (c) Arrested in Pakistan 2024 and deported to Afghanistan in 2025, (d) Father’s name: Abdul Rahman. Date of designation referred to in Article 7d(2)(i): 25.1.2001
+
+Salim Ahmad Salim Hamdan (alias (a) Saqr Al-Jaddawi, (b) Saqar Al Jadawi, (c) Saqar Aljawadi, (d) Salem Ahmed Salem Hamdam). Address: Shari Tunis, Sana'a, Yemen. Date of birth: 1965. Place of birth: (a) Al-Mukalla, Yemen, (b) Al-Mukala, Yemen. Nationality: Yemeni. Passport No: 00385937 (Yemeni passport). Other information: (a) Address is previous address, (b) transferred from United States custody to Yemen in November 2008. Date of designation referred to in Article 2a (4) (b): 25.1.2001.
+
+Boubekeur Boulghiti (good quality alias: (a) Boubakeur Boulghit; low quality alias: (a) Abu Bakr al-Jaziri (Previously listed as. In Arabic: أبوبكر الجزائري), (b) Abou Bakr Al Djazairi, (c) Abou Yasser El Djazairi, (d) Yasir Al-Jazari, (e) Abou Yasser Al-Jaziri). Date of birth: 13.02.1970. Place of birth: Rouiba, Algiers, Algeria. Nationality: (a) Algerian, (b) Palestinian. Address: Algeria. Other information: (a) Finance chief of the Afghan Support Committee (ASC), (b) Al-Qaida facilitator and communication expert, (c) Believed to be in Algeria as of April 2010 and May 2022; (d) Son of Mohamed and Fatma Aribi. Date of designation referred to in Article 7d(2)(i): 11.1.2002.
+
+Ibrahim Ali Abu Bakr Tantoush (original script: ابراهيم علي أبو بكر تنتوش) (good quality alias: (a) Abd al-Muhsin, (b) Ibrahim Ali Muhammad Abu Bakr, (c) Abdul Rahman, (d) Abu Anas, (e) Ibrahim Abubaker Tantouche, (f) Ibrahim Abubaker Tantoush, (g) Abd al-Muhsi, (h) Abd al-Rahman, (i) Abdel Ilah Sabri (false identity related to fraudulent South African identification number 6910275240086 linked to South African passport number 434021161, both documents have been confiscated); low quality alias: Al-Libi). Date of birth: 2.2.1966. Place of birth: al Aziziyya, Libya. Nationality: Libyan. Passport no: (a) 203037 (Libyan passport issued in Tripoli, Libya), (b) 347834 (Libyan passport issued under name Ibrahim Ali Tantoush, expired on 21.2.2014). Address: Afghanistan (as at June 2014). Other information: (a) Associated with Afghan Support Committee (ASC), Revival of Islamic Heritage Society (RIHS) and the Libyan Islamic Fighting Group (LIFG). Date of designation referred to in Article 7d(2)(i): 11.1.2002.
+
+Mostafa Kamel Mostafa Ibrahim (alias (a) Mustafa Kamel Mustafa, (b) Adam Ramsey Eaman, (c) Kamel Mustapha Mustapha, (d) Mustapha Kamel Mustapha, (e) Mostafa Kamel Mostafa, (f) Abu Hamza Al-Masri, (g) Abu Hamza, (h) Abu Hamza Al-Misri). Address: United States of America. Date of birth: 15.4.1958. Place of birth: Alexandria, Egypt. Nationality: British. Date of designation referred to in Article 2a(4)(b): 24.4.2002.
+
+Mohamed Ben Belgacem Ben Abdallah Al-Aouadi (alias (a) Mohamed Ben Belkacem Aouadi, (b) Fathi Hannachi.) Date of birth: 11.12.1974. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport No: (a) L 191609 (Tunisian passport number issued on 28.2.1996, expired on 27.2.2001), (b) 04643632 (Tunisian passport number issued on 18 June 1999), (c) DAOMMD74T11Z352Z (Italian Fiscal Code). Address: 50th Street, Number 23, Zehrouni, Tunis, Tunisia. Other information: (a) Head of security wing of Ansar al-Shari'a in Tunisia (AAS-T), (b) Mother's name is Ourida Bint Mohamed. Date of designation referred to in Article 7d(2)(i): 24.4.2002.
+
+Asem, Esmatullah, Maulavi, SG of Afghan Red Crescent Society (ARCS)
+
+Hassan Dahir Aweys (alias (a) Ali, Sheikh Hassan Dahir Aweys, (b) Awes, Shaykh Hassan Dahir, (c) Hassen Dahir Aweyes, (d) Ahmed Dahir Aweys, (e) Mohammed Hassan Ibrahim, (f) Aweys Hassan Dahir, (g) Hassan Tahir Oais, (h) Hassan Tahir Uways, (i) Hassan Dahir Awes, (j) Sheikh Aweys, (k) Sheikh Hassan, (l) Sheikh Hassan Dahir Aweys). Title: (a) Sheikh, (b) Colonel. Address: Somalia. Date of birth: 1935. Place of birth: Somalia. Nationality: Somali. Other information: (a) Southern Somalia (as of November 2012), (b) Also reported to be in Eritrea as of November 2007. Date of designation referred to in Article 2a (4)(b): 9.11.2001.
+
+AIMAN MUHAMMED RABI AL-ZAWAHIRI (original script: أيمن محمد ربيع الظواهري). Good quality a.k.a.: (a) Ayman Al-Zawahari, (b) Ahmed Fuad Salim, (c) Al Zawahry Aiman Mohamed Rabi Abdel Muaz, (d) Al Zawahiri Ayman, (e) Abdul Qader Abdul Aziz Abdul Moez Al Doctor, (f) Al Zawahry Aiman Mohamed Rabi, (g) Al Zawahry Aiman Mohamed Rabie, (h) Al Zawahry Aiman Mohamed Robi, (i) Dhawahri Ayman, (j) Eddaouahiri Ayman, (k) Nur Al Deen Abu Mohammed, (l) Ayman Al Zawahari, (m) Ahmad Fuad Salim. Low quality a.k.a.: (a) Abu Fatma (b) Abu Mohammed. Title: (a) Doctor, (b) Dr Date of birth: 19.6.1951. Place of birth: Giza, Egypt. Nationality: Egyptian. Passport No: (a) 1084010, (b) 19820215. Other information: Leader of Al-Qaida. Former operational and military leader of Egyptian Islamic Jihad, was a close associate of Usama Bin Laden (deceased). Believed to have been in the Afghanistan/Pakistan border area before going to Afghanistan in 2014. Reportedly killed in drone strike in Kabul, Afghanistan on 31 July 2022. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2), point (i): 25.1.2001.
+
+Said Bahaji (alias (a) Zouheir Al Maghribi, (b) Mohamed Abbattay, (c) Abderrahmane Al Maghribi). Address: formerly resident at Bunatwiete 23, D-21073 Hamburg, Germany. Date of birth: 15.7.1975. Place of birth: Haselünne (Lower Saxony), Germany. Nationality: (a) German, (b) Moroccan. Passports: (a) Provisional German passport No 28642163 issued by the City of Hamburg (b) Expired Moroccan passport No 954242 issued on 28.6.1995 in Meknas, Morocco. National identification No: BPA Nr. 1336597587. Other information: (a) Deputy Head of the Media Committee of Al-Qaida as at April 2010, (b) Believed to be in the Afghanistan/Pakistan border area. Date of designation referred to in Article 2a(4)(b): 30.9.2002.
+
+Mohamed Lakhal (alias (a) Lased Ben Heni, (b) Al-As'ad Ben Hani, (c) Mohamed Ben Belgacem Awani, (d) Mohamed Aouani, (e) Mohamed Abu Abda, (f) Abu Obeida). Date of birth: (a) 5.2.1970, (b) 5.2.1969. Place of birth: (a) Tripoli, Libya, (b) Tunis, Tunisia. Nationality: Tunisian. Passport No: W374031 (Tunisian national identity number issued on 11.4.2011). Other information: (a) Professor of Chemistry. (b) Deported from Italy to Tunisia on 27 August 2006. (c) Legally changed family name from Aouani to Lakhal in 2014. Date of designation referred to in Article 2a(4)(b): 24.4.2002.
+
+Ramzi Mohamed Abdullah Binalshibh (alias (a) Binalsheidah, Ramzi Mohamed Abdullah, (b) Bin Al Shibh, Ramzi, (c) Omar, Ramzi Mohamed Abdellah, (d) Mohamed Ali Abdullah Bawazir, (e) Binalshibh Ramzi Mohammed Abdullah, (f) Ramzi Binalshib, (g) Ramzi Mohamed Abdellah Omar Hassan Alassiri, (h) Binalshibh Ramsi Mohamed Abdullah, (i) Abu Ubaydah, (j) Umar Muhammad ‘Abdallah Ba’ Amar, (k) Ramzi Omar). Date of birth: (a) 1.5.1972, (b) 16.9.1973. Place of birth: (a) Gheil Bawazir, Hadramawt, Yemen, (b) Khartoum, Sudan. Nationality: Yemeni. Passport No: 00085243 (issued on 17.11.1997 in Sanaa, Yemen). Other information: (a) Arrested in Karachi, Pakistan, on 30.9.2002, (b) In custody of the United States of America, as of May 2010. Date of designation referred to in Article 2a(4)(b): 30.9.2002.
+
+Bin Marwan, Bilal; born 1947.
+
+Mounir El Motassadeq (alias Mounir el Moutassadeq). Address: Germany. Date of birth: 3.4.1974. Place of birth: Marrakesh, Morocco. Nationality: Moroccan. Passport No: H 236483 (Moroccan passport). National identification No: E-491591 (Moroccan national identity card). Other information: (a) in prison in Germany, (b) Father's name is Brahim Brik. Mother's name is Habiba Abbes. Date of designation referred to in Article 2a(4)(b): 30.9.2002.
+
+Zakarya Essabar (alias Zakariya Essabar). Date of birth: 3.4.1977. Place of birth: Essaouria, Morocco. Nationality: Moroccan. Passport No: (a) M 271351 (Moroccan passport issued on 24.10.2000 by the Embassy of Morocco in Berlin); (b) K-348486 (Moroccan passport). National identification No: (a) E-189935 (Moroccan National Identity number); (b) G-0343089 (Moroccan National Identity Card). Other information: (a) Father's name is Mohamed ben Ahmed; (b) Mother's name is Sfia bent Toubali. Date of designation referred to in Article 2a (4) (b): 30.9.2002.
+
+Abd El Kader Mahmoud Mohamed El Sayed (original script: عبد القادر محمود محمد السيد) (good quality alias: (a) Es Sayed, Kader; (b) Abdel Khader Mahmoud Mohamed el Sayed). Date of birth: 26.12.1962. Place of birth: Egypt. Nationality: Egyptian. Other information: (a) Italian Fiscal Code: SSYBLK62T26Z336L; (b) Sentenced to 8 years imprisonment in Italy on 2.2.2004; (c) Considered a fugitive from justice by the Italian authorities; (d) Reportedly killed in 2012. Date of designation referred to in Article 7d(2), point (i): 24.4.2002.
+
+Sami Ben Khamis Ben Saleh Elsseid (alias (a) Omar El Mouhajer, (b) Saber). Date of birth: 10.2.1968. Place of birth: Menzel Jemil, Bizerte, Tunisia. Nationality: Tunisian. Passport No: K929139 (Tunisian passport number issued on 14.2.1995, expired on 13.2.2000), (b) 00319547 (Tunisian passport number issued on 8.12.1994), (c) SSDSBN68B10Z352F (Italian Fiscal Code). Address: Ibn Al-Haythman Street, Number 6, Manubah, Tunis, Tunisia. Other information: (a) Mother's name is Beya Al-Saidani. (b) Deported from Italy to Tunisia on 2 June 2008. (c) Imprisoned in Tunisia in August 2014. Date of designation referred to in Article 2a(4)(b): 24.4.2002.
+
+Hassan, Hadji Mohammad, Mullah (First Deputy, Council of Ministers, Governor of Kandahar).
+
+Raed Muhammad Hasan Muhammad Hijazi (alias (a) Raed M. Hijazi, (b) Ri'ad Muhammad Hasan Muhammad Hijazi (as previously listed), (c) Rashid Al-Maghribi (the Moroccan), (d) Abu-Ahmad Al-Amriki (the American), (e) Abu-Ahmad Al-Hawen, (f) Abu-Ahmad Al-Shahid. Date of birth: 30.12.1968. Place of birth: California, United States of America. Nationality: (a) Jordanian (b) American. National identification No: Jordanian national number 9681029476. Other information: (a) United States Social Security Number 548-91-5411, (b) Father's name is Mohammad Hijazi. Mother's name is Sakina. Date of designation referred to in Article 7d(2)(i): 17.10.2001.
+
+Ali Ghaleb Himmat. Address: (a) Via Posero 2, CH-6911 Campione D'Italia, Italy, (b) other location in Italy, (c) Syria. Date of birth: 16.6.1938. Place of birth: Damascus, Syria. Nationality: Italian since 1990.
+
+Nurjaman Riduan Isamuddin (good quality alias: (a) Hambali, (b) Nurjaman, (c) Isomuddin, Nurjaman Riduan, (d) Hambali Bin Ending, (e) Encep Nurjaman (birth name), (f) Hambali Ending Hambali, (g) Isamuddin Riduan, (h) Isamudin Ridwan). Date of birth: (a) 4.4.1964; (b) 1966. Place of birth: (a) Cianjur, West Java, Indonesia; (b) Sukamanah, West Java, Indonesia. Nationality: (a) Indonesian, (b) Malaysian. Other information: (a) Senior leader of Jemaah Islamiyah, (b) Brother of Gun Gun Rusman Gunawan; (c) In custody of the United States of America, as of July 2007. Date of designation referred to in Article 7d(2), point (i): 28.1.2003.
+
+Kabir, A., Maulavi (Governor of Nangarhar Province)
+
+Mahmood, Sultan Bashir-Ud-Din (aka Mahmood, Sultan Bashiruddin; aka Mehmood, Dr. Bashir Uddin; aka Mekmud, Sultan Baishiruddin), Street 13, Wazir Akbar Khan, Kabul, Aghanistan; alt. date of birth 1937; alt. date of birth 1938; alt. date of birth 1939; alt. date of birth 1940; alt. date of birth 1941; alt. date of birth 1942; alt. date of birth 1943; alt. date of birth 1944; alt. date of birth 1945; nationality: Pakistani.
+
+Isam Ali Mohamed Alouche (alias Mansour Thaer). Date of birth: (a) 1972 (b) 21.3.1974. Place of birth: Baghdad, Iraq. Nationality: Jordanian. Other information: Deported from Germany to Jordan in February 2005. Date of designation referred to in Article 2a (4) (b): 3.9.2002.
+
+Mehdi Ben Mohamed Ben Mohamed Kammoun (alias Salmane). Address: Via Masina 7, Milan, Italy. Date of birth: 3.4.1968. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport No: M307707 (Tunisian passport issued on 12.4.2000 which expired on 11.4.2005). Other information: (a) Italian fiscal code: KMMMHD68D03Z352N, (b) Deported from Italy to Tunisia on 22.7.2005 (c) Serving an eight-year prison term in Tunisia. Date of designation referred to in Article 2a(4)(b): 3.9.2002.
+
+Mohammad, Qari Din (Minister of Higher Education).
+
+Muhammad 'Atif (aka Abu Hafs); born (probably) 1944, Egypt; thought to be an Egyptian national; senior lieutenant to Usama Bin Laden
+
+Muttaqi, Amir Khan (Taliban representative in UN-led talks).
+
+Qalamuddin, Maulavi (Head of Olympic Committee).
+
+Mohammed Salahaldin Abd El Halim Zidane (original script: محمد صلاح الدين عبدالحليم زيدان) (good quality alias: (a) Sayf-Al Adl. Date of birth: 11.4.1963. Place of birth: Monufia Governate, Egypt. Nationality: Egyptian. In Arabic: سيف العدل; (b) Muhamad Ibrahim Makkawi. Date of birth: (i) 11.4.1960, (ii) 11.4.1963. Place of birth: Egypt. Nationality: Egyptian; low quality alias: (a) Ibrahim al-Madani; (b) Saif Al-'Adil; (c) Seif al Adel; (d) Salem al-Sharif (سالم الشريف); (e) Hazem al-Madani; (f) Aber Sabil; (g) Muhannad Salem; (h) Abu Khaled al-San’ani). Date of birth: (a) 11.4.1963; (b) 11.4.1960. Place of birth: Monufia Governate, Egypt. Nationality: Egyptian. Other information: Responsible for Usama bin Laden's (deceased) security. Hair: Dark. Eyes: Dark. Date of designation referred to in Article 7d(2)(i): 25.1.2001.
+
+Tarek Ben Habib Ben Al-Toumi Al-Maaroufi (alias (a) Abu Ismail, (b) Abou Ismail el Jendoubi, (c) Abou Ismail Al Djoundoubi). Address (a) rue Léon Théodore 107/1, 1090 Jette, Brussels, Belgium. Date of birth: 23.11.1965. Place of birth: Ghardimaou, Tunisia. Nationality: (a) Tunisian. Passport No: E590976 (Tunisian passport issued on 19.6.1987 which expired on 18.6.1992). Other information: (a) Belgian nationality withdrawn on 26.1.2009, (b) In detention in Nivelles, Belgium as of October 2010. Date of designation referred to in Article 2a (4) (b): 3.9.2002.
+
+Tariq Anwar El Sayed Ahmed (alias (a) Hamdi Ahmad Farag, (b) Amr Al-Fatih Fathi, (c) Tarek Anwar El Sayed Ahmad). Date of birth: 15.3.1963. Place of birth: Alexandria, Egypt. Nationality: Egyptian. Other information: Reportedly deceased in October 2001. Date of designation referred to in Article 2a (4) (b): 6.10.2001.
+
+Tharwat Salah Shihata (alias (a) Tarwat Salah Abdallah, (b) Salah Shihata Thirwat, (c) Shahata Thirwat, (d) Tharwat Salah Shihata Ali). Date of birth: 29.6.1960. Place of birth: Egypt. Nationality: Egyptian. Date of designation referred to in Article 2a(4)(b): 6.10.2001.
+
+Uthman Omar Mahmoud (alias (a) Uthman, Al-Samman, (b) Uthman, Umar, (c) Al-Filistini, (d) Abu Qatada, (e) Takfiri, Abu Umr, (f) Abu Umar, Abu Omar, (g) Umar, Abu Umar, (e) Abu Ismail). Date of birth: (a) 30.12.1960, (b) 13.12.1960. Other information: Currently in custody in the United Kingdom.
+
+Zaief, Abdul Salam, Mullah (Deputy Minister of Mines and Industries)
+
+Mehrez Ben Mahmoud Ben Sassi Al-Amdouni (alias (a) Fabio Fusco, (b) Mohamed Hassan, (c) Meherez Hamdouni, (d) Amdouni Mehrez ben Tah, (e) Meherez ben Ahdoud ben Amdouni, (f) Abu Thale). Address: Italy. Date of birth: (a) 18.12.1969, (b) 25.5.1968, (c) 18.12.1968, (d) 14.7.1969. Place of birth: (a) Asima-Tunis, Tunisia; (b) Naples, Italy; (c) Tunisia; (d) Algeria. Nationality: Tunisian. Passport No: G737411 (Tunisian passport issued on 24.10.1990, expired on 20.9.1997). Other information: (a) Father’s name is Mahmoud ben Sasi, (b) Mother’s name is Maryam bint al-Tijani, (c) Inadmissible to the Schengen area. Date of designation referred to in Article 2a (4) (b): 25.6.2003.
+
+Moussa Ben Omar Ben Ali Essaadi (original script: [image] ) (low quality alias: (a) Dah Dah; (b) Abdelrahmman; (c) Bechir). Date of birth: 4.12.1964. Place of birth: Tabarka, Tunisia. Nationality: Tunisian. Passport no. L335915 (Tunisian passport issued in Milan, Italy on 8.11.1996, expired on 7.11.2001). Address: Tunisia. Other information: Left Sudan to Tunisia in 2011. Date of designation referred to in Article 7d(2)(i): 25.6.2003.
+
+Agus Dwikarna. Date of birth: 11.8.1964. Place of birth: Makassar, South Sulawesi, Indonesia. Nationality: Indonesian. Passport No: Indonesian travel document number XD253038. Other information: (a) Physical description: height 165 cm; (b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+
+Salim Y Salamuddin Julkipli (good quality alias: (a) Kipli Sali, (b) Julkipli Salim). Date of birth: 20.6.1967. Place of birth: Tulay, Jolo Sulu, Phillippines. Nationality: Filipino. Other information: (a) A member of the Abu Sayyaf Group, (b) In detention in the Philippines as at May 2011. Date of designation referred to in Article 7d(2), point (i): 9.9.2003.
+
+Aris Munandar. Date of birth: 1.1.1971. Place of birth: Sambi, Boyolali, Java, Indonesia. Nationality: Indonesian (as at December 2003). Date of designation referred to in Article 7d(2)(i): 9.9.2003.
+
+Abdul Hakim Murad (alias (a) Murad, Abdul Hakim Hasim, (b) Murad, Abdul Hakim Ali Hashim, (c) Murad, Abdul Hakim al Hashim, (d) Saeed Akman, (e) Saeed Ahmed, (f) Abdul Hakim Ali al-Hashem Murad). Date of birth: 11.4.1968. Place of birth: Kuwait. Nationality: Pakistani. Passport No: (a) 665334 (Pakistani passport issued in Kuwait), (b) 917739 (Pakistani passport issued in Pakistan on 8.9.1991, expired on 7.8.1996). Other information: (a) Mother's name is Aminah Ahmad Sher al-Baloushi, (b) In custody of the United States. Date of designation referred to in Article 2a (4) (b): 9.9.2003.
+
+Parlindungan SIREGAR (alias (a) Siregar, Parlin (b) Siregar, Saleh Parlindungan); date of birth: (a) 25 April 1957, (b) 25 April 1967; place of birth: Indonesia; nationality: Indonesian.
+
+Yazid Sufaat (low quality alias: (a) Joe, (b) Abu Zufar). Address: (a) Taman Bukit Ampang, State of Selangor, Malaysia (previous address) (b) Malaysia (in prison since 2013 to 2019). Date of birth: 20.1.1964. Place of birth: Johor, Malaysia. Nationality: Malaysian. Passport No: A 10472263. National identification No: 640120-01-5529. Other information: Founding member of Jemaah Islamiyah (JI) who worked on Al-Qaida’s biological weapons program, provided support to those involved in Al-Qaida’s 11 Sep. 2001 attacks in the United States of America, and was involved in JI bombing operations. Detained in Malaysia from 2001 to 2008. Arrested in Malaysia in 2013 and sentenced to 7 years in Jan. 2016 for failing to report information relating to terrorist acts. Completed detention on 20 November 2019. Served a two-year restricted residence order in Selangor Malaysia until 21 November 2021. Photos included in INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 9.9.2003.
+
+Yassin Syawal (alias (a) Salim Yasin, (b) Yasin Mahmud Mochtar, (c) Abdul Hadi Yasin, (d) Muhamad Mubarok, (e) Muhammad Syawal, (f) Yassin Sywal, (g) Abu Seta, (h) Mahmud, (i) Abu Muamar, (j) Mubarok). Date of birth: 3.9.1962. Place of birth: Makassar, Indonesia. Nationality: Indonesian. Other information: At large as of December 2003. Date of designation referred to in Article 7d(2)(i): 9.9.2003.
+
+Yunos Umpara Moklis (alias (a) Muklis Yunos, (b) Mukhlis Yunos, (c) Saifullah Mukhlis Yunos, (d) Saifulla Moklis Yunos; (e) Hadji Onos). Address: Philippines. Date of birth: 7.7.1966. Place of birth: Lanao del Sur, Philippines. Nationality: Filipino. Date of designation referred to in Article 7d(2)(i): 9.9.2003.
+
+Djamel Moustfa (alias (a) Ali Barkani (Date of birth: 22.8.1973; place of birth: Morocco); (b) Kalad Belkasam (Date of birth: 31.12.1979); (c) Mostafa Djamel (Date of birth: 31.12.1979; place of birth: Mascara, Algeria); (d) Mostefa Djamel (Date of birth: 26.9.1973; place of birth: Mahdia, Algeria); (e) Mustafa Djamel (Date of birth: 31.12.1979; place of birth: Mascara, Algeria); (f) Balkasam Kalad (Date of birth: 26.8.1973; place of birth: Algiers, Algeria); (g) Bekasam Kalad (Date of birth: 26.8.1973; place of birth: Algiers, Algeria); (h) Belkasam Kalad (Date of birth: 26.8.1973; place of birth: Algiers, Algeria); (i) Damel Mostafa (Date of birth: 31.12.1979; place of birth: Algiers, Algeria); (j) Djamal Mostafa, date of birth 31.12.1979 in Mascara, Algeria; (k) Djamal Mostafa (Date of birth 10.6.1982); (l) Djamel Mostafa (Date of birth 31.12.1979; place of birth: Maskara, Algeria); (m) Djamel Mostafa (Date of birth (a) 31.12.1979 (b) 22.12.1973; place of birth: Algiers, Algeria); (n) Fjamel Moustfa (Date of birth 28.9.1973; place of birth: Tiaret, Algeria); (o) Djamel Mustafa (Date of birth: 31.12.1979); (p) Djamel Mustafa (Date of birth: 31.12.1979; place of birth: Mascara, Algeria); (q) Mustafa). Address: Algeria. Date of birth: 28.9.1973. Place of birth: Tiaret, Algeria. Nationality: Algerian. Other information: (a) Father’s name is Djelalli Moustfa; (b) Mother’s name is Kadeja Mansore; (c) Algerian birth certificate, issued for Djamel Mostefa, date of birth 25.9.1973 in Mehdia, Tiaret province, Algeria; (d) Driving licence No 20645897 (counterfeit Danish driving licence, made out to Ali Barkani, born on 22.8.1973 in Morocco); (e) Associated with Ismail Abdallah Sbaitan Shalabi, Mohamed Abu Dhess and Aschraf Al-Dagma; (f) Deported from Germany to Algeria in September 2007. Date of designation referred to in Article 2a(4)(b): 23.9.2003.
+
+Dawood Ibrahim Kaskar (alias (a) Dawood Ebrahim, (b) Sheikh Dawood Hassan, (c) Abdul Hamid Abdul Aziz, (d) Anis Ibrahim, (e) Aziz Dilip, (f) Daud Hasan Shaikh Ibrahim Kaskar, (g) Daud Ibrahim Memon Kaskar, (h) Dawood Hasan Ibrahim Kaskar, (i) Dawood Ibrahim Memon, (j) Dawood Sabri, (k) Kaskar Dawood Hasan, (l) Shaikh Mohd Ismail Abdul Rehman, (m) Dowood Hassan Shaikh Ibrahim, (n) Ibrahim Shaikh Mohd Anis, (o) Shaikh Ismail Abdul, (p) Hizrat, (q) Dawood Bhai, (r) Sheikh Farooqi, (s) Bada Seth, (t) Bada Bhai, (u) Iqbal Bhai, (v) Mucchad, (w) Haji Sahab). Title: Sheikh. Address: (a) White House, Near Saudi Mosque, Clifton, Karachi, Pakistan, (b) House Nu 37 — 30th Street — defence, Housing Authority, Karachi Pakistan, (c) Palatial bungalow in the hilly area of Noorabad in Karachi. Date of birth: 26.12.1955. Place of birth: Kher, Ratnagiri, Maharashtra, India. Nationality: Indian. Passport No: (a) A-333602 (Indian passport issued on 4.6.1985 in Bombay, India), (b) M110522 (Indian passport issued on 13.11.1978 in Bombay, India), (c) R841697 (Indian passport issued on 26.11.1981 in Bombay), (d) F823692 (JEDDAH) (Indian passport issued by CGI in Jeddah, on 2.9.1989), (e) A501801 (BOMBAY) (Indian passport issued on 26.7.1985), (f) K560098 (BOMBAY) (Indian passport issued on 30.7.1975), (g) V57865 (BOMBAY) (issued on 3.10.1983), (h) P537849 (BOMBAY) (issued on 30.7.1979), (i) A717288 (MISUSE) (issued on 18.8.1985 in Dubai, (j) G866537 (MISUSE) (Pakistani passport issued on 12.8.1991 in Rawalpindi), (k) C-267185 (issued in Karachi in July 1996), (l) H-123259 (issued in Rawalpindi in July 2001), (m) G-869537 (issued in Rawalpindi), (n) KC-285901. Other information: (a) Passport No A-333602 has been revoked by the Government of India, (b) Father's name is Sheikh Ibrahim Ali Kaskar, mother's name is Amina Bi, wife's name is Mehjabeen Shaikh. Date of designation referred to in Article 7d(2)(i): 3.11.2003.
+
+Mokhtar Belmokhtar (original script: مختار بلمختار) (good quality alias: (a) Abou Abbes Khaled; (b) Belaouar Khaled Abou El Abass, (c) Belaouer Khaled Abou El Abass, (d) Belmokhtar Khaled Abou El Abes, (e) Khaled Abou El Abass, (f) Khaled Abou El Abbes, (g) Khaled Abou El Abes, (h) Khaled Abulabbas Na Oor, (i) Mukhtar Belmukhtar; low quality alias: (a) Belaoua, (b) Belaour). Date of birth: 1.6.1972. Place of birth: Ghardaia, Algeria. Nationality: Algerian. Other information: (a) Reportedly deceased in November 2016; (b) Father’s name is Mohamed and mother’s name is Zohra Chemkha, (c) Member of the Council of the The Organization of Al- Qaida in the Islamic Maghreb (AQIM); (d) Head of Al Mouakaoune Biddam, Al Moulathamoun and Al Mourabitoun. Date of designation referred to in Article 7d(2)(i): 11.11.2003.
+
+Imed Ben Mekki Zarkaoui (original script: [image] ) (good quality alias: (a) Dour Nadre; (b) Dour Nadre; (c) Daour Nadre; (d) Imad ben al-Mekki ben al-Akhdar al-Zarkaoui (as previously listed); low quality alias: (a) Zarga; (b) Nadra). Date of birth: (a) 15.1.1973; (b) 15.1.1974; (c) 31.3.1975. Place of birth: (a) Tunis, Tunisia; (b) Morocco; (c) Algeria. Nationality: Tunisian. Passport no. M174950 (Tunisian passport issued on 27.4.1999, expired on 26.4.2004). Address: 41-45, Rue Estienne d’Orves, Pré Saint Gervais, France. Other information: Mother’s name is Zina al-Zarkaoui. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Kamal Ben Maoeldi Ben Hassan Al-Hamraoui (original script: [image] ) (good quality alias: (a) Hamroui Kamel ben Mouldi; (b) Hamraoui Kamel; low quality alias: (a) Kamel; (b) Kimo). Date of birth: (a) 21.10.1977; (b) 21.11.1977. Place of birth: (a) Beja, Tunisia; (b) Morocco; (c) Tunisia. Nationality: Tunisian. Passport no. P229856 (Tunisian passport issued on 1.11.2002, expired on 31.10.2007). Address: (a) Via Bertesi 27, Cremona, Italy; (b) Via Plebiscito 3, Cremona, Italy. Other information: (a) Mother’s name is Khamisah al-Kathiri; (b) Deported from Italy to Tunisia on 6.5.2015. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Maxamed Cabdullaah Ciise (alias (a) Maxamed Cabdullaahi Ciise, (b) Maxammed Cabdullaahi, (c) Cabdullah Mayamed Ciise). Address: Somalia. Date of birth: 8.10.1974. Place of birth: Kismaayo, Somalia. Nationality: Somali. Other information: Present in Somalia as of April 2009 following transfer from United Kingdom. Date of designation referred to in Article 2a(4)(b): 12.11.2003.
+
+Radi Abd El Samie Abou El Yazid El Ayashi, (alias Mera'i). Address: Via Cilea 40, Milan, Italy (domicile). Date of birth: 2.1.1972. Place of birth: El Gharbia Governorate (Egypt). Nationality: (a) Egypt. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Hamadi Ben Abdul Azis Ben Ali Bouyehia (original script: [image] ) (good quality alias: (a) Gamel Mohamed (Date of birth: 25.5.1966; place of birth: Morocco); (b) Abd el Wanis Abd Gawwad Abd el Latif Bahaa (Date of birth: 9.5.1986; place of birth: Egypt); (c) Mahmoud Hamid). Date of birth: 29.5.1966. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport no. L723315 (Tunisian passport issued on 5.5.1998, expired on 4.5.2003). Address: Corso XXII Marzo 39, Milan, Italy. Other information: In prison in Italy until 6.2.2026. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Mohammad Tahir Hammid Hussein (alias Abdelhamid Al Kurdi). Title: Imam. Date of birth: 1.11.1975. Place of birth: Poshok, Iraq. Nationality: Iraqi. Address: Sulaymaniya, Iraq. Other information: Mother's name: Attia Mohiuddin Taha. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Mohamed Amin Mostafa (original script محمد أمين مصطفى). Date of birth: 11.10.1975. Place of birth: Kirkuk, Iraq. Nationality: Iraqi. Address: Via della Martinella 132, Parma, Italy (Domicile). Other information: Under administrative control measure in Italy which expired on 15 January 2012. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Mustapha Nasri Ben Abdul Kader Ait El Hadi. Date of birth: 5.3.1962. Place of birth: Tunis, Tunisia. Nationality: (a) Algerian (b) German. Other information: (a) son of Abdelkader and Amina Aissaoui; (b) Residing in Bonn, Germany, as of February 1999.
+
+Noureddine Ben Ali Ben Belkassem Al-Drissi (original script: [image] ) (good quality alias: (a) Drissi Noureddine; low quality alias: (a) Abou Ali; (b) Faycal). Date of birth: 30.4.1964. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport no. L851940 (Tunisian passport issued on 9.9.1998, expired on 8.9.2003). Address: Via Plebiscito 3, Cremona, Italy. Other information: (a) Mother’s name is Khadijah al-Drissi; (b) Deported from Italy to Tunisia on 10.2.2013. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Al-Azhar Ben Khalifa Ben Ahmed Rouine (original script: الأزهر بن خليفة بن احمد روين) (low quality alias: (a) Salmane, (b) Lazhar). Date of birth: 20.11.1975. Place of birth: Sfax, Tunisia. Nationality: Tunisian. Passport no: P182583 (Tunisian passport issued on 13.9.2003, expired on 12.9.2007). Address: No 2 89th Street Zehrouni, Tunis, Tunisia. Other information: (a) Sentenced to six years and ten months of imprisonment for membership of a terrorist association by the Appeal Court of Milan, Italy, on 7.2.2008, (b) Imprisoned in Sfax Prison on 5.6.2007 pursuant to an order issued by the Appeals Tribunal in Tunisia for joining an organization linked to terrorist crimes (case No.9301/207), (c) Sentenced to two years and 15 days’ imprisonment and released on 18.6.2008, (d) Considered a fugitive from justice by the Italian authorities as at July 2008, (e) On 20.1.2009, Italian authorities issued a detention order (No. 70/2009 S.I.E.P), following a 3 years 4 months and 29 days sentence for terrorism-related crimes, (f) Under administrative control measure in Tunisia as at 2010. Date of designation referred to in Article 7d(2)(i): 12.11.2003.
+
+Saifi Ammari (original script: عماري س) (good quality alias: (a) El Para (combat name), (b) Abderrezak Le Para (combat name), (c) Abou Haidara, (d) El Ourassi, (e) Abderrezak Zaimeche, (f) Abdul Rasak Ammane Abu Haidra, (g) Abdalarak). Date of birth: (a) 1.1.1968, (b) 23.4.1968. Place of birth: Kef Rih, Algeria. Nationality: Algerian. Address: Commune of Bouhechana, Daïra de Lakhezara, Guelma, Algeria. Other information: (a) In detention in Algeria since October 2004, (b) Incarcerated in Algeria since 7 March 2011, (c) Former member of the GSPC listed as The Organization of Al-Qaida in the Islamic Maghreb, (d) Father’s name: Abdellah, (e) Mother’s name: Draham Belanchi. Date of designation referred to in Article 7d(2)(i): 4.12.2003.
+
+Sulaiman Jassem Sulaiman Ali Abo Ghaith (original script: سليمان جاسم سليمان علي أبوغيث) (low quality alias: Abo Ghaith). Date of birth: 14.12.1965. Place of birth: Kuwait. Passport no: 849594 (Kuwaiti passport issued on 27.11.1998 in Kuwait, expired on 24.6.2003). Other information: (a) Kuwaiti citizenship revoked since 2001 and is currently incarcerated in the United States of America; (b) Left Kuwait for Pakistan in June 2001. Date of designation referred to in Article 7d(2)(i): 16.1.2004.
+
+Djamel Lounici (alias Jamal Lounici). Address: Algeria. Date of birth: 1.2.1962. Place of birth: Algiers, Algeria. Nationality: Algerian. Other information: (a) Father's name is Abdelkader and mother's name is Djohra Birouch; (b) Returned from France to Algeria where he resides since September 2008. Date of designation referred to in Article 7d(2)(i): 16.1.2004.
+
+Abd-al-Majid Aziz Al-Zindani (alias (a) Abdelmajid Al-Zindani, (b) Abd Al-Majid Al-Zindani, (c) Abd Al-Meguid Al-Zandani). Title: Sheikh. Address: P.O. Box 8096, Sana’a, Yemen. Date of birth: 1950. Place of birth: Yemen. Nationality: Yemeni. Passport No: A005487 (issued 13.8.1995). Date of designation referred to in Article 2a (4) (b): 27.2.2004.
+
+Kamel Djermane (original script: ﻛﻤﺎل ﺟﺮﻣﺎن) (good quality alias: (a) Bilal, (b) Adel, (c) Fodhil, (d) Abou Abdeljalil). Date of birth: 12.10.1965. Place of birth: Oum el Bouaghi, Algeria. Nationality: Algerian. Address: Sidi Argis village, Oum El-Bouaghi, Algeria. Other information: (a) In detention in Algeria as of November 2023, (b) Sentenced to 18 years imprisonment for conducting terrorist activities by the Algiers Criminal Court on 25.1.2023. Arrest warrant issued by the German authorities on 9.10.2003 and 18.7. 2018 respectively for involvement in kidnapping, robbery and extortion, (c) Former member of the Katibat Tarek Ibn Ziad of The Organization of Al Qaida in the Islamic Maghreb, (d) Father’s name: Sliman, (e) Mother’s name Oum Hani Djermane. Date of designation referred to in Article 7d(2)(i): 3.5.2004.
+
+Habib Ben Ahmed Al-Loubiri (original script: حبيب بن احمد اللوبيري) (good quality alias: Al-Habib ben Ahmad ben al-Tayib al-Lubiri). Date of birth: 17.11.1961. Place of birth: Manzal Tmim, Nabul, Tunisia. Nationality: Tunisian. Passport No: M788439 (Tunisian passport issued on 20.10.2001, expired on 19.10.2006). National identification No: 01817002. Address: (a) Salam Marnaq Ben Arous district, Sidi Mesoud, Tunisia; (b) Afghanistan. Other information: (a) Italian fiscal code: LBR HBB 61S17 Z352F; (b) Reportedly fled to Afghanistan in June 2014; (c) Mother's name is Fatima al-Galasi. Date of designation referred to in Article 7d(2)(i): 23.6.2004.
+
+MUHSIN FADHIL AYED ASHOUR AL-FADHLI (script original محسن فاضل عايد عاشور الفضلي). Good quality a.k.a.: a) Muhsin Fadhil ‘Ayyid al Fadhli b) Muhsin Fadil Ayid Ashur al Fadhli c) Abu Majid Samiyah d) Abu Samia. Date of birth: 24.4.1981. Place of birth: Kuwait. Nationality: Kuwait Passport no: (a) Kuwait number 106261543 (b) Kuwait number 1420529, issued in Kuwait. Address: Block Four, Street 13, House #179, Kuwait City, Al-Riqqa area, Kuwait. Other information: Wanted by the Kuwaiti Security Authorities. Wanted by the Saudi security forces. Fugitive as of Jul. 2008. Reportedly killed in a counterterrorism operation in 2015 in Syria. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2), point (i): 17.2.2005.
+
+Abu Rusdan (low quality alias: (a) Abu Thoriq, (b) Rusdjan, (c) Rusjan, (d) Rusydan, (e) Thoriquddin, (f) Thoriquiddin, (g) Thoriquidin, (h) Toriquddin). Date of birth: 16.8.1960. Place of birth: Kudus, Central Java, Indonesia. National identification No: 1608600001 (Indonesia). Other information: (a) Arrested in Indonesia in 2021; (b) Was the acting Jemaah Islamiyah (JI) emir before his arrest, and remains a senior figure of JI. Date of designation referred to in Article 7d(2)(i): 16.5.2005
+
+Aris Sumarsono (good quality alias: (a) Zulkarnan; (b) Zulkarnain; (c) Zulkarnin; (d) Arif Sunarso; (e) Zulkarnaen; (f) Aris Sunarso; (g) Ustad Daud Zulkarnaen; low quality alias: (a) Murshid; (b) Daud; (c) Pak Ud; (d) Mbah Zul; (e) Zainal Arifin; (f) Zul; (g) Abdullah Abdurrahman; (h) Abdul; (i) Abdurrahman). Date of birth: 19.4.1963. Place of birth: Gebang village, Masaran, Sragen, Central Java, Indonesia. Nationality: Indonesian. Address: (a) Desa Gebang, Kecamatan Masaran, Kabupaten Sragen, Jawa Tengah, Indonesia; (b) Desa Taman Fajar, Kecamatan Probolinggo, Kabupaten Lampung Timur, Lampung, Indonesia. Other information: He was sentenced to 15 years in prison in Indonesia in January 2022. Date of designation referred to in Article 7d(2)(i): 16.5.2005.
+
+Faycal Boughanemi (alias (a) Faical Boughanmi, (b) Faysal al-Bughanimi). Address: Number 5/B Viale Cambonino, Cremona, Italy. Date of birth: 28.10.1966. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Other information: (a) Italian fiscal code: BGHFCL66R28Z352G, (b) In detention in Italy as at June 2009. Date of designation referred to in Article 2a (4) (b): 29.7.2005.
+
+Abdelkader Laagoub (alias Rachid). Address: Number 4 Via Europa, Paderno Ponchielli (Cremona), Italy. Date of birth: 23.4.1966. Place of birth: Casablanca, Morocco. Nationality: Moroccan. Passport No: D-379312 (Moroccan). National Identification No: DE-473900 (Moroccan identity card). Other information: (a) Italian fiscal code LGBBLK66D23Z330U; (b) Father’s name is Mamoune Mohamed; (c) Mother’s name is Fatna Ahmed. Date of designation referred to in Article 2a (4) (b): 29.7.2005.
+
+ABD ALLAH MOHAMED RAGAB ABDEL RAHMAN (original script: عبد الله محمد رجب عبد الرحمن) Good quality a.k.a.: (a) Abu Al-Khayr, (b) Ahmad Hasan, (c) Abu Jihad. Date of birth: 3.11.1957. Place of birth: Kafr Al-Shaykh, Egypt. Nationality: Egyptian. Other information: Member of Egyptian Islamic Jihad. Reportedly killed in Syria in February 2017. Date of designation referred to in Article 7d(2), point (i): 29.9.2005.
+
+ZAKI EZAT ZAKI AHMED (script original زكي عزت زكي احمد). Good quality a.k.a.: (a) Rif'at Salim (b) Abu Usama. Nationality: Egypt. Address: Syria. Date of birth: 21.4.1960. Place of birth: (a) Sharqiyah, Egypt (b) Zaqaziq, Egypt. Other information: Father’s name is Ahmed Ezat Zaki. Member of Egyptian Islamic Jihad. Date of designation referred to in Article 7d(2), point (i): 29.9.2005.
+
+Ali Sayyid Muhamed Mustafa Bakri (alias (a) Ali Salim, (b) Abd Al-Aziz al-Masri). Date of birth: 18.4.1966. Place of birth: Beni-Suef, Egypt. Nationality: Egyptian. Other information: Member of the Shura Council of Al-Qaida and Egyptian Islamic Jihad. Date of designation referred to in Article 2a (4) (b): 29.9.2005.
+
+Hani Al-Sayyid Al-Sebai Yusif (alias (a) Hani Yousef Al-Sebai, (b) Hani Youssef, (c) Hany Youseff, (d) Hani Yusef, (e) Hani al-Sayyid Al-Sabai, (f) Hani al-Sayyid El Sebai, (g) Hani al-Sayyid Al Siba’i, (h) Hani al-Sayyid El Sabaay, (i) El- Sababt, (j) Abu Tusnin, (k) Abu Akram, (l) Hani El Sayyed Elsebai Yusef, (m) Abu Karim, (n) Hani Elsayed Youssef). Address: London, United Kingdom. Date of birth: (a) 1.3.1961, (b) 16.6.1960. Place of birth: Qaylubiyah, Egypt. Nationality: Egyptian. Other information: Father's name is Mohamed Elsayed Elsebai. Date of designation referred to in Article 2a(4)(b): 29.9.2005.
+
+Farhad Kanabi Ahmad (alias (a) Kaua Omar Achmed, (b) Kawa Hamawandi (previously listed as) (c) Kawa Omar Ahmed. Date of birth: 1.7.1971. Place of birth: Arbil, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweis’) A 0139243 (revoked as at Sep. 2012). Address: Arbil — Qushtuba — house no. SH 11, alley 5380, Iraq. Other information: Mother's name: Farida Hussein Khadir. Date of designation referred to in Article 7d(2)(i): 6.12.2005.
+
+Isnilon Totoni Hapilon (good quality alias: (a) Isnilon Hapilun, (b) Isnilun Hapilun, (c) Tuan Isnilon; low quality alias: (a) Abu Musab, (b) Salahudin). Date of birth: (a) 18.3.1966, (b) 10.3.1967. Place of birth: Bulanza, Lantawan, Basilan, the Philippines. Nationality: Filipino. Address: (a) Basilan, the Philippines (previous location until 2016), (b) Lanao del Sur, the Philippines (location since 2016). Other information: (a) Senior leader of Abu Sayyaf Group (ASG); (b) Leader of local affiliates of the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, in the southern Philippines as of May 2017; (c) Killed in Marawi City, Philippines on 15.10.2017; (d) Physical description: eye colour: brown; hair colour: brown; height: 5 feet 6 inches – 168 cm; weight: 120 pounds – 54 kg; build: slim; complexion: light-skinned; has facial birthmarks. Date of designation referred to in Article 7d(2), point (i): 6.12.2005.
+
+Radulan Sahiron (alias (a) Radullan Sahiron, (b) Radulan Sahirun, (c) Radulan Sajirun, (d) Commander Putol). Address: Sulu region, Philippines (reported location) Date of birth: (a) 1955, (b) circa 1952. Place of birth: Kaunayan, Patikul, Jolo Island, the Philippines. Nationality: Filipino. Other information: Physical description: eye colour: black; hair colour: gray; height: 5 feet 6 inches — 168 cm; weight: 140 pounds — 64 kg; build: slight; right arm is amputated above his elbow. Date of designation referred to in Article 7d(2)(i):6.12.2005.
+
+Abdullah Anshori (good quality alias: (a) Abu Fatih, (b) Thoyib, Ibnu, (c) Toyib, Ibnu, (d) Abu Fathi). Date of birth: 1958. Place of birth: Pacitan, East Java, Indonesia. Nationality: Indonesian. Passport No: T710219 (Indonesia, issued in Sukoharjo, Central Java, Indonesia). Other information: Senior leader of Jemaah Islamiyah. Date of designation referred to in Article 7d(2)(i): 21.4.2006.
+
+Abu Bakar Ba’asyir (good quality alias: (a) Abu Bakar Baasyir; (b) Abu Bakar Bashir; (c) Abdus Samad; (d) Abdus Somad). Date of birth: 17.8.1938. Place of birth: Jombang, East Java, Indonesia. Nationality: Indonesian. Address: Indonesia. Date of designation referred to in Article 7d(2)(i): 21.4.2006.
+
+Gun Gun Rusman Gunawan (alias (a) Gunawan Rusman, (b) Abd Al-Hadi, (c) Abdul Hadi, (d) Abdul Karim, (e) Bukhori, (f) Bukhory). Date of birth: 6.7.1977. Place of birth: Cianjur, West Java, Indonesia. Nationality: Indonesian. Other information: Brother of Nurjaman Riduan Isamuddin Date of designation referred to in Article 2a (4) (b): 21.4.2006.
+
+Taufik Rifki (alias (a) Refke Taufek, (b) Rifqi Taufik, (c) Rifqi Tawfiq, (d) Ami Iraq, (e) Ami Irza, (f) Amy Erja, (g) Ammy Erza, (h) Ammy Izza, (i) Ami Kusoman, (j) Abu Obaida, (k) Abu Obaidah, (l) Abu Obeida, (m) Abu Ubaidah, (n) Obaidah, (o) Abu Obayda, (p) Izza Kusoman, (q) Yacub, Eric). Address: Philippines. Date of birth: 19.8.1974. Place of birth: Dacusuman Surakarta, Central Java, Indonesia. Nationality: Indonesian. Other information: In detention in the Philippines as at May 2011. Date of designation referred to in Article 2a (4) (b): 21.4.2006.
+
+Nessim Ben Romdhane Sahraoui (alias (a) Dass, (b) Nasim al-Sahrawi). Address: Tunisia. Date of birth: 3.8.1973. Place of birth: Bizerta, Tunisia. Nationality: Tunisian. Other information: In detention in Tunisia as at June 2009. Date of designation referred to in Article 2a (4) (b): 2.8.2006.
+
+Merai Abdefattah Khalil Zoghbi (original script: مرعي عبدفتاح خليل زغبي) (good quality alias: (a) Mohamed Lebachir (born on 14.1.1968 in Morocco), (b) Meri Albdelfattah Zgbye (born on 4.6.1960 in Bendasi, Libya), (c) Zoghbai Merai Abdul Fattah, (d) Lazrag Faraj (born on 13.11.1960 in Libya), (e) Larzg Ben Ila (born 11.8.1960 in Libya), (f) Muhammed El Besir, (g) Merai Zoghbai (as previously listed, in Arabic: مرعي زغبي); low quality alias: (a) F'raji di Singapore, (b) F'raji il Libico, (c) Farag, (d) Fredj (born on 13.11.1960 in Libya)). Date of birth: (a) 4.4.1969, (b) 4.4.1960, (c) 4.6.1960. Place of birth: (a) Bengasi, Libya, (b) Bendasi, Libya, (c) Morocco, (d) Libya. Nationality: Libyan. Other information: (a) Member of Libyan Islamic Fighting Group, (b) Mother’s name is Wanisa Abdessalam. Date of designation referred to in Article 7d(2)(i): 2.8.2006.
+
+Najmuddin Faraj Ahmad (alias (a) Mullah Krekar, (b) Fateh Najm Eddine Farraj, (c) Faraj Ahmad Najmuddin). National Identification No: Ration card no. 0075258. Address: Heimdalsgate 36-V, 0578 Oslo, Norway. Date of birth: (a) 7.7.1956, (b) 17.6.1963. Place of birth: Olaqloo Sharbajer, Al-Sulaymaniyah Governorate, Iraq. Nationality: Iraqi. Other information: Mother's name: Masouma Abd al-Rahman. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+
+Mohammed Al Ghabra. (alias: (a) Mohammed El' Ghabra (b) Danial Adam) Address: East London, United Kingdom. Date of birth: 1.6.1980. Place of birth: Damascus, Syria. Nationality: British. Passport No: 094629366 (United Kingdom). Other information: (a) Father's name is Mohamed Ayman Ghabra; (b) Mother's name is Dalal. Date of designation referred to in Article 2a(4)(b): 12.12.2006.
+
+Salem Nor Eldin Amohamed Al-Dabski (alias (a) Abu Al-Ward, (b) Abdullah Ragab, (c) Abu Naim (d) Abdallah al- Masri). Address: Bab Ben Ghasheer, Tripoli, Libya. Date of birth: 1963. Place of birth: Tripoli, Libya. Nationality: Libyan. Passport number: (a) 345751 (Libyan passport); (b) 1990/345751 (Libyan passport). National Identification No: 220334. Other information: (a) Mother’s name is Kalthoum Abdul Salam Al-Shaftari; (b) Senior Member of Libyan Islamic Fighting Group and member of Al-Qaida. Date of designation referred to in Article 2a (4) (b): 8.6.2007.
+
+Aly Soliman Massoud Abdul Sayed (alias (a) Ibn El Qaim, (b) Mohamed Osman, (c) Adam). Address: Ghout El Shamal, Tripoli, Libya. Date of birth: 1969. Place of birth: Tripoli, Libya. Nationality: Libyan. Passport number: 96/184442 (Libyan Passport). Other information: Member of Libyan Islamic Fighting Group. Date of designation referred to in Article 2a (4) (b): 8.6.2007.
+
+Abdelmalek Droukdel (original script: عبد المالك دروكدال) (good quality alias: Abou Mossaab Abdelouadoud). Date of birth: 20.4.1970. Place of birth: Meftah, Wilaya of Blida, Algeria. Nationality: Algerian. Address: Algeria. Other information: (a) Reportedly deceased in June 2020; (b) Head of The Organization of Al-Qaida in the Islamic Maghreb; (c) Sentenced in absentia to life imprisonment in Algeria on 21 March 2007; (d) Father’s name is Rabah Droukdel; (e) Mother’s name is Z’hour Zdigha. Date of designation referred to in Article 7d(2)(i): 27.8.2007.
+
+Hamid Abdallah Ahmad Al-Ali (original script: حامد عبد الله أحمد العلي) (good quality alias: (a) Dr Hamed Abdullah Al-Ali, (b) Hamed Al-’Ali, (c) Hamed bin ‘Abdallah Al-’Ali, (d) Hamid ‘Abdallah Al-’Ali, (e) Hamid ‘Abdallah Ahmad Al-’Ali, (f) Hamid bin Abdallah Ahmed Al-Ali, (g) Hamid Abdallah Ahmed Al-Ali). Date of birth: 20.1.1960. Place of birth: Kuwait. Nationality: Kuwaiti. Passport No: 1739010 (Kuwaiti passport issued on 26.5.2003 in Kuwait, expired on 25.5.2008.). National identification No: 260012001546 (Kuwait). Date of designation referred to in Article 7d(2)(i): 16.1.2008.
+
+Jaber Abdallah Jaber Ahmad Al-Jalahmah (alias (a) Jaber Al-Jalamah, (b) Abu Muhammad Al-Jalahmah, (c) Jabir Abdallah Jabir Ahmad Jalahmah, (d) Jabir 'Abdallah Jabir Ahmad Al-Jalamah, (e) Jabir Al-Jalhami, (f) Abdul-Ghani, (g) Abu Muhammad). Date of birth: 24.9.1959. Place of birth: Al-Khitan area, Kuwait. Nationality: Kuwaiti. Passport No: (a) 101423404, (b) 2541451 (Kuwaiti passport which expires on 16.2.2017), (c) 002327881 (Kuwaiti passport).  National identification No: 259092401188 (Kuwait). Date of Designation: referred to in Article 2a (4) (b): 16.1.2008.
+
+Mubarak Mushakhas Sanad Mubarak Al-Bathali (original script: مبارك مشخص سند مبارك البذالي) (good quality alias: (a) Mubarak Mishkhis Sanad Al-Bathali, (b) Mubarak Mishkhis Sanad Al-Badhali, (c) Mubarak Al-Bathali, (d) Mubarak Mishkhas Sanad Al-Bathali, (e) Mubarak Mishkhas Sanad Al-Bazali, (f) Mobarak Meshkhas Sanad Al-Bthaly; low quality alias: (a) Abu Abdulrahman). Date of birth: 1.10.1961. Place of birth: Kuwait. Nationality: Kuwaiti. Passport No: (a) 101856740 (Kuwaiti passport issued on 12.5.2005, expired on 11.5.2007), (b) 002955916 (Kuwaiti passport). National identification No: 261122400761 (Kuwait). Address: Al-Salibekhat area, Kuwait (residence as at March 2009). Other information: Sentenced to prison by Kuwait on 24 August 2018. Date of designation referred to in Article 7d(2)(i): 16.1.2008.
+
+Ricardo Perez Ayeras (alias (a) Abdul Kareem Ayeras, (b) Abdul Karim Ayeras, (c) Ricky Ayeras, (d) Jimboy, (e) Isaac Jay Galang Perez, (f) Abdul Mujib). Address: (a) Barangay Mangayao, Tagkawayan, Quezon, Philippines; (b) Barangay Tigib, Ayungon, Negros Oriental, Philippines. Date of birth: 15.9.1973. Place of birth: 24 Paraiso Street, Barangay Poblacion, Mandaluyong City, Philippines. Nationality: Filipino. Other information: (a) Member of the Rajah Solaiman Movement; (b) Arrested by the Philippine authorities on 14 March 2011. Date of designation referred to in Article 2a (4) (b): 4.6.2008.
+
+Pio Abogne De Vera (alias (a) Ismael De Vera, (b) Khalid, (c) Ismael, (d) Ismail, (e) Manex, (f) Tito Art, (g) Dave, (h) Leo). Address: Concepcion, Zaragosa, Nueva Ecija, Philippines. Date of birth: 19.12.1969. Place of birth: Bagac, Bagamanok, Catanduanes, Philippines. Nationality: Filipino. Other information: (a) Father's name is Honorio Devera; (b) Mother's name is Fausta Abogne; (c) In detention in the Philippines as of May 2011. Date of designation referred to in Article 2a (4) (b): 4.6.2008.
+
+Redendo Cain Dellosa (alias (a) Abu Ilonggo, (b) Brandon Berusa, (c) Abu Muadz, (d) Arnulfo Alvarado, (e) Habil Ahmad Dellosa, (f) Uthman, (g) Dodong (h) Troy). Address: 3111, Ma. Bautista, Punta, Santa Ana, Manila, Philippines. Date of birth: 15.5.1972. Place of birth: Punta, Santa Ana, Manila, Philippines. Nationality: Filipino. Other information: (a) Father's name is Fernando Rafael Dellosa; (b) Mother's name is Editha Parado Cain; (c) In detention in the Philippines as of May 2011. Date of designation referred to in Article 2a (4) (b): 4.6.2008.
+
+Feliciano Semborio Delos Reyes jr. (alias (a) Abubakar Abdillah, (b) Abdul Abdillah). Title: Ustadz. Address: Philippines. Date of birth: 4.11.1963. Place of birth: Arco, Lamitan, Basilan, Philippines. Nationality: Filipino. Other information: (a) Father's name is Feliciano Delos Reyes Sr.; (b) Mother's name is Aurea Semborio; (c) In detention in the Philippines as of May 2011. Date of designation referred to in Article 2a (4) (b): 4.6.2008.
+
+Ruben Pestano Lavilla, Jr. (alias (a) Reuben Lavilla, (b) Sheik Omar, (c) Mile D Lavilla, (d) Reymund Lavilla, (e) Ramo Lavilla, (f) Mike de Lavilla, (g) Abdullah Muddaris, (h) Ali Omar, (i) Omar Lavilla, (j) Omar Labella, (k) So, (l) Eso, (m) Junjun). Title: Sheik. Address: 10th Avenue, Caloocan City, Philippines. Date of birth: 4.10.1972. Place of birth: Sitio Banga Maiti, Barangay Tranghawan, Lambunao, Iloilo, Philippines. Nationality: Filipino. Passport No: (a) MM611523 (Filipino passport, 2004); (b) EE947317 (Filipino passport 2000-2001); (c) P421967 (Filipino passport number (1995- 1997). Other information: In detention in the Philippines as of May 2011. Date of designation referred to in Article 7d(2)(i): 4.6.2008.
+
+Dinno Amor Rosalejos Pareja (alias (a) Johnny Pareja, (b) Khalil Pareja, (c) Mohammad, (d) Akmad, (e) Mighty, (f) Rash). Address: Atimonana, Quezon Province, Philippines. Date of birth: 19.7.1981. Place of birth: Cebu City, Philippines. Nationality: Filipino. Other information: (a) Member of the Rajah Solaiman Movement (b) Father’s name is Amorsolo Jarabata Pareja; (d) Mother’s name is Leonila Cambaya Rosalejos. Date of designation referred to in Article 2a (4) (b): 4.6.2008.
+
+Hilarion Del Rosario Santos (alias (a) Akmad Santos, (b) Ahmed Islam, (c) Ahmad Islam Santos, (d) Hilarion Santos, III (third), (e) Hilarion Del Rosario Santos, III (third), (f) Abu Abdullah Santos, (g) Faisal Santos, (h) Lakay, (i) Aki, (j) Aqi, (k) Abu Hamsa. Title: Amir. Address: 50, Purdue Street, Cubao, Quezon City, Philippines. Date of birth: 12.3.1966. Place of birth: 686 A. Mabini Street, Sangandaan, Caloocan City, Philippines. Nationality: Filipino. Passport No: AA780554 (Filipino passport). Date of designation referred to in Article 7d(2)(i): 4.6.2008.
+
+Angelo Ramirez Trinidad (alias (a) Calib Trinidad, (b) Kalib Trinidad, (c) Abdul Khalil, (d) Abdukahlil, (e) Abu Khalil, (f) Anis). Address: 3111 Ma. Bautista, Punta, Santa Ana, Manila, Philippines. Date of birth: 20.3.1978. Place of birth: Gattaran, Cagayan Province, Philippines. Nationality: Filipino. Other information: (a) Distinguishing marks include scars on both legs; (b) Member of the Rajah Solaiman Movement and associated with the Abu Sayyaf Group and the Jemaah Islamiyah; (b) In detention in the Philippines as of May 2011. Date of designation referred to in Article 2a (4) (b): 4.6.2008
+
+Ahmed Deghdegh (original script: أحمد دغداغ) (good quality alias: (a) Abd El Illah, (b) Abdellillah dit Abdellah Ahmed dit Said, (c) Abd El Ilah, (d) Abou Abdellah Ahmed, (e) Said Dit Merrikh). Date of birth: 17.1.1967. Place of birth: Anser, Wilaya (province) of Jijel, Algeria. Nationality: Algerian. Address: Algeria. Other information: (a) Belongs to the leadership and is the finance chief of the Organization of Al-Qaida in the Islamic Maghreb; (b) Mother’s name is Zakia Chebira; (c) Father’s name is Lakhdar; (d) Reportedly died in Algeria in 2020. Date of designation referred to in Article 7d(2), point (i): 3.7.2008.
+
+Yahia Djouadi (original script: يحيى جوادي) (good quality alias: (a) Yahia Abou Ammar, (b) Abou Ala). Date of birth: 1.1.1967. Place of birth: M’Hamid,Wilaya (province) of Sidi Bel Abbes, Algeria. Nationality: Algerian. Other information: (a) Located in Northern Mali as of June 2008; (b) Reportedly killed on 25.2.2022 in Timbuktu, Mali; (c) Belonged to the leadership of the Organization of Al-Qaida in the Islamic Maghreb; (d) Mother’s name is Zohra Fares; (e) Father’s name is Mohamed. Date of designation referred to in Article 7d(2), point (i): 3.7.2008.
+
+Salah Eddine Gasmi (original script: ﺻﺎﻟﺢ ﻗﺎﺳﻤﻲ) (good quality alias: (a) Abou Mohamed Salah, (b) Abou Malek; low quality alias: (a) Bounouadher, (b) Bounouader). Date of birth: 13.4.1971. Place of birth: Zeribet El Oued, Wilaya (province) of Biskra, Algeria. Nationality: Algerian. Address: No. 7250 Zeribat El Oued, Biskra, Algeria. Other information: (a) Belongs to the leadership and is in charge of information committee of the Organization of Al-Qaida in the Islamic Maghreb, (b) Mother’s name is Yamina Soltane, (c) Father’s name is Abdelaziz, (d) Associated with Abdelmalek Droukdel (reported deceased in June 2020), (e) Arrested in Algeria on 16.12.2012, (f) Incarcerated at the El-Harrach prison in Algiers, as of August 2015, (g) Incarcerated in the Blida penitentiary, Algeria as of November 2023. Date of designation referred to in Article 7d(2)(i): 3.7.2008.
+
+Amor Mohamed Ghedeir (alias (a) Abdelhamid Abou Zeid, (b) Youcef Adel, (c) Abou Abdellah, (d) Abid Hammadou born 12 Dec. 1965 in Touggourt, Wilaya (province) of Ouargla, Algeria (as previously listed)). Date of birth: Approximately 1958. Place of birth: Deb-Deb, Amenas, Wilaya (province) of Illizi, Algeria. Nationality: Algerian. Other information: (a) Mother's name is Benarouba Bachira; (b) Father's name is Mabrouk. Other information: Reportedly deceased as of 24 February 2013. Date of designation referred to in Article 7d(2)(i): 3.7.2008.
+
+Redouane El Habhab (alias Abdelrahman). Address: Iltisstrasse 58, 24143 Kiel, Germany (previous address). Date of birth: 20.12.1969. Place of birth: Casablanca, Morocco. Nationality: (a) German, (b) Moroccan. Passport No: 1005552350 (German passport issued on 27.3.2001 by Municipality of Kiel, Germany, expired on 26.3.2011). Identity card No: 1007850441 (German federal identity card issued on 27.3.2001 by Municipality of Kiel, Germany, expired on 26.3.2011). Date of designation referred to in Article 2a (4) (b): 12.11.2008.
+
+Adem Yilmaz (low quality alias: Talha). Date of birth: 4.11.1978. Place of birth: Bayburt, Türkiye. Nationality: Turkish. Passport No.: TR-P 614166 (Turkish passport issued by the Turkish Consulate General in Frankfurt/Main on 22.3.2006, expired on 15.9.2009). Address: (a) Südliche Ringstrasse 133, 63225 Langen, Germany (previous address); b) Atalar Neighborhood Aslı Street 24/5, 34860 Kartal, Istanbul Türkiye; (c) Atalar Mahallesi, Atalar mahallesi aslı sokak no 24/5, 34862 Kartal İstanbul, Türkiye. Other information: (a) Associated with the Islamic Jihad Union (IJU), also known as the Islamic Jihad Group; (b) Deported from Germany to Türkiye in February 2019; (c) Ongoing judicial process as of November 2023. Date of designation referred to in Article 7d(2)(i): 27.10.2008.
+
+Haji Muhammad Ashraf (alias (a) Haji M. Ashraf, (b) Muhammad Ashraf Manshah, (c) Muhammad Ashraf Munsha). Date of birth: (a) 1.3.1965, (b) 1955. Place of birth: Faisalabad, Pakistan. Nationality: Pakistani. Passport no.: (a) AT0712501 (Pakistani, issued on 12.3.2008, expired 11.3.2013), (b) A-374184 (Pakistani). National identification no.: (a) 6110125312507 (Pakistani), (b) 24492025390 (Pakistani). Other information: Father's name is Noor Muhammad. Date of designation referred to in Article 2a (4)(b): 10.12.2008.
+
+Mahmoud Mohammad Ahmed Bahaziq (good quality alias: (a) Bahaziq Mahmoud, (b) Abu Abd al-Aziz, (c) Abu Abdul Aziz, (d) Shaykh Sahib). Date of birth: (a) 17.8.1943, (b) 1943, (c) 1944. Place of birth: India. Nationality: Saudi Arabian. National identification No: 4-6032-0048-1 (Saudi Arabia). Address: Saudi Arabia. Other information: (a) Financier of Lashkar-e-Tayyiba; (b) Has served as the leader of Lashkar-e-Tayyiba in Saudi Arabia. Date of designation referred to in Article 7d(2)(i): 10.12.2008.
+
+Zaki-ur-Rehman Lakhvi (alias (a) Zakir Rehman Lakvi, (b) Zaki Ur-Rehman Lakvi, (c) Kaki Ur-Rehman, (d) Zakir Rehman, (e) Abu Waheed Irshad Ahmad Arshad, (f) Chachajee). Address: (a) Barahkoh, P.O. DO, Tehsil and District Islamabad, Pakistan (location as at May 2008), (b) Chak No. 18/IL, Rinala Khurd, Tehsil Rinala Khurd, District Okara, Pakistan (previous location). Date of birth: 30.12.1960. Place of birth: Okara, Pakistan. Nationality: Pakistani. National identification No: 61101-9618232-1 (Pakistan). Date of designation referred to in Article 2a(4)(b): 10.12.2008.
+
+Hafiz Muhammad Saeed (good quality alias: (a) Hafiz Mohammad Sahib, (b) Hafiz Mohammad Sayid, (c) Hafiz Muhammad, (d) Hafiz Saeed, (e) Hafez Mohammad Saeed, (f) Hafiz Mohammad Sayeed, (g) Tata Mohammad Syeed, (h) Mohammad Sayed, (i) Muhammad Saeed; low quality alias: Hafiz Ji). Date of birth: 5.6.1950. Place of birth: Sargodha, Punjab, Pakistan. Nationality: Pakistani. National identification No: 3520025509842-7 (Pakistan). Address: House No 116E, Mohalla Johar, Lahore, Tehsil, Lahore City, Lahore District, Pakistan (location as of May 2008). Other information: (a) leader of Lashkar-e-Tayyiba, (b) In custody of the Government of Pakistan serving a 78 year imprisonment sentence since 12 February 2020 as a result of conviction in seven terror financing cases. Date of designation referred to in Article 7d(2)(i): 10.12.2008.
+
+ABDUL HAQ. Good quality a.k.a.: (a) Maimaitiming Maimaiti, (b) Abdul Heq, (c) Abudu Hake, (d) Abdul Heq Jundullah, (e) 'Abd Al-Haq, (f) Memetiming Memeti, (g) Memetiming Aximu, (h) Memetiming Qekeman, (i) Maiumaitimin Maimaiti, (j) Abdul Saimaiti, (k) Muhammad Ahmed Khaliq. Low quality a.k.a.: (a) Maimaiti Iman, (b) Muhelisi, (c) Qerman, (d) Saifuding. Date of birth: 10.10.1971. Place of birth: Hetian Area, Xinjiang Uighur Autonomous Region, China. Nationality: China. National identification no: China 653225197110100533 (Chinese national identity card number). Address: (a) Afghanistan, (b) Pakistan. Other information: Overall leader and commander of the Eastern Turkistan Islamic Movement. Involved in fundraising and recruitment for this organization. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2), point (i): 15.4.2009.
+
+Arif Qasmani (alias (a) Muhammad Arif Qasmani, (b) Muhammad 'Arif Qasmani, (c) Mohammad Arif Qasmani, (d) Arif Umer, (e) Qasmani Baba, (f) Memon Baba, (g) Baba Ji). Address: House Number 136, KDA Scheme No. 1, Tipu Sultan Road, Karachi, Pakistan. Date of birth: Approximately 1944. Place of birth: Pakistan. Nationality: Pakistani. Other information: In detention as of June 2009. Date of designation referred to in Article 2a(4)(b): 29.6.2009.
+
+Mohammed Yahya Mujahid (alias Mohammad Yahya Aziz). Date of birth: 12 March 1961. Place of birth: Lahore, Punjab Province, Pakistan. Nationality: Pakistani. National identification No: 35404-1577309-9 (Pakistani national identification number). Other information: In detention as of June 2009. Date of designation referred to in Article 2a(4)(b): 29.6.2009.
+
+Fazeel-A-Tul Shaykh Abu Mohammed Ameen Al-Peshawari (alias (a) Shaykh Aminullah, (b) Sheik Aminullah, (c) Abu Mohammad Aminullah Peshawari, (d) Abu Mohammad Amin Bishawri, (e) Abu Mohammad Shaykh Aminullah Al-Bishauri, (f) Shaykh Abu Mohammed Ameen al-Peshawari, (g) Shaykh Aminullah Al-Peshawari). Nationality: Afgan. Date of birth: (a) Approximately 1967, (b) Approximately 1961, (c) Approximately 1973. Place of birth: Shunkrai village, Sarkani District, Konar province, Afghanistan. Address: Ganj District, Peshawar, Pakistan. Date of designation referred to in Article 2a(4)(b): 29.6.2009.
+
+Omar Mahmoud Uthman (alias (a) Al-Samman Uthman, (b) Umar Uthman, (c) Omar Mohammed Othman, (d) Abu Qatada Al-Filistini, (e) Abu Umr Takfiri, (f) Abu Omar Abu Umar, (g) Abu Umar Umar, (h) Abu Ismail). Date of birth: (a) 30.12.1960, (b) 13.12.1960. Place of Birth: Bethlehem, West Bank, Palestinian Territories. Nationality: Jordanian. Address: Jordan (since July 2013). Date of designation referred to in Article 2a(4)(b): 17.10.2001.
+
+Ali Ghaleb Himmat. Address: (a) Via Posero 2, CH-6911 Campione D’Italia, Italy (b) other location in Italy, (c) Syria. Date of birth: 16.6.1938. Place of birth: Damascus, Syria. Nationality: Italian since 1990.
+
+Mustapha Nasri Ben Abdul Kader Ait El Hadi. Date of birth: 5.3.1962. Place of birth: Tunis, Tunisia. Nationality: (a) Algerian, (b) German. Other information: (a) son of Abdelkader and Amina Aissaoui. (b) residing in Bonn, Germany, as of February 1999.
+
+Akram Turki Hishan Al-Mazidih (alias (a) Akram Turki Al-Hishan, (b) Abu Jarrah, (c) Abu Akram). Date of birth: (a) 1974, (b) 1975, (c) 1979. Address: (a) Deir ez-Zor Governorate Syrian Arab Republic; (b) Iraq, (c) Jordan. National identification no: Ration card no. 0075258. Other information: Mother's name: Masouma Abd al-Rahman. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 11.3.2010.
+
+Ghazy Fezza Hishan Al-Mazidih (alias (a) Ghazy Fezzaa Hishan, (b) Mushari Abd Aziz Saleh Shlash, (c) Abu Faysal, (d) Abu Ghazzy). Date of birth: (a) 1974, (b) 1975. Address: (a) Syrian Arab Republic, (b) Iraq. Date of designation referred to in Article 7d(2)(i): 11.3.2010.
+
+MUTHANNA HARITH SALMAN AL-DARI (script original مثنى حارث سلمان الضاري). Good quality a.k.a.: a) Dr. Muthanna Al Dari; b) Muthana Harith Al Dari; c) Muthanna Harith Sulayman Al-Dari; d) Muthanna Harith Sulayman Al-Dhari; e) Muthanna Hareth Al-Dhari; f) Muthana Haris Al-Dhari; g) Doctor Muthanna Harith Sulayman Al Dari Al-Zawba'; h) Muthanna Harith Sulayman Al-Dari Al-Zobai; i) Muthanna Harith Sulayman Al Dari al-Zawba'I; j) Muthanna Hareth al-Dari; k) Muthana Haris al-Dari; l) Doctor Muthanna al-Dari; m) Dr. Muthanna Harith al-Dari al-Zowbai. Title: Doctor. Date of birth: 16 Jun. 1969. Place of birth: Iraq. Nationality: Iraq. Ration card number: 1729765. Address: a) Amman, Jordan b) Khan Dari, Iraq (previous) c) Asas Village, Abu Ghurayb, Iraq (previous) d) Egypt (previous). Other information: Mother’s name: Heba Khamis Dari. Father’s name: Harith bin Salman Al-Dari bin Mahmud al-Shammari. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2), point (i): 25.3.2010.
+
+Mohamed Belkalem (original script: ﻣﺤﻤﺪ ﺑﻠﻜﻼم) (low quality alias: (a) Abdelali Abou Dher (ﻋﺒﺪ اﻟﻌﺎﻟﻲ اﺑﻮ ذر), (b) El Harrachi (اﻟﺤﺮاﺷﻲ)). Date of birth: 19.12.1969. Place of birth: Hussein Dey, Algiers, Algeria. Nationality: Algerian. Address: (a) Mali, (b) Cité Djenane Mabrouk, Algiers, Algeria. Other information: (a) Reportedly a member of Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) as of November 2023, (b) Convicted in absentia by Algerian tribunal on 28.3.1996, (c) Algerian international arrest warrant number 03/09 of 6.6.2009 issued by the Tribunal of Sidi Mhamed, Algiers, Algeria, (d) Algerian extradition request number 2307/09 of 3.9.2009, presented to Malian authorities, (e) Father’s name is Ali Belkalem, (f) Mother’s name is Fatma Saadoudi, (g) Member of The Organization of Al-Qaida in the Islamic Maghreb. Date of designation referred to in Article 7d(2)(i): 22.4.2010.
+
+Tayeb Nail (original script: اﻟﻄﯿﺐ ﻧﺎﯾﻞ) (good quality alias: (a) Djaafar Abou Mohamed (ﺟﻌﻔﺮ اﺑﻮ ﻣﺤﻤﺪ), (b) Abou Mouhadjir (اﺑﻮ ﻣﮭﺎﺟﺮ), (c) Mohamed Ould Ahmed Ould Ali (born in 1976)). Date of birth: Approximately 1972. Place of birth: Faidh El Batma, Djelfa, Algeria. Nationality: Algerian. Address: (a) Mali, (b) Cité Feradj Lakhdar, Merine, Sidi Bel Abbes, Algeria. Other information: (a) Reportedly a member of Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) as of November 2023, (b) Convicted in absentia by Algerian tribunal on 28.3.1996, (c) Algerian international arrest warrant number 04/09 of 6.6.2009 issued by the Tribunal of Sidi Mhamed, Algiers, Algeria, (d) Algerian extradition request number 2307/09 of 3.9.2009, presented to Malian authorities, (e) Father’s name was Benazouz Nail, (f) Mother’s name is Belkheiri Oum El Kheir, (g) Member of The Organization of Al-Qaida in the Islamic Maghreb. Date of designation referred to in Article 7d(2)(i): 22.4.2010.
+
+QASIM MOHAMED MAHDI AL-RIMI (original script: قاسم محمد مهدي الريمي). Good quality a.k.a.: (a) Qasim Al-Rimi, (b) Qasim al-Raymi, (c) Qassim al-Raymi, (d) Qasim al-Rami, (e) Qasim Mohammed Mahdi Al Remi, (f) Qassim Mohammad Mahdi Al Rimi. Low quality a.k.a.: (a) Qasim Yahya Mahdi 'Abd al-Rimi, (b) Abu Hurayrah al-Sana'ai, (c) Abu 'Ammar, (d) Abu Hurayrah. Date of birth: 5.6.1978. Place of Birth: Raymah village, Sanaa Governorate (ريمة), Yemen. Nationality: Yemen. Passport no: Yemen passport number 00344994, issued on 3 Jul. 1999, issued in Sanaa. National identification no: Yemeni national identification number 973406, issued on 3 Jul. 1996. Address: Yemen. Other information: Mother’s name: Fatima Muthanna Yahya. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Al-Qaida in the Arabian Peninsula since Jun. 2015, pledged loyalty to Aiman al-Zawahiri. As of February 2020, reportedly killed in a counterterrorism operation in Yemen. Date of designation referred to in Article 7d(2), point (i): 11.5.2010.
+
+Anwar Nasser Abdulla Al-Aulaqi (alias (a) Anwar al-Aulaqi, (b) Anwar al-Awlaki, (c) Anwar al-Awlaqi, (d) Anwar Nasser Aulaqi, (e) Anwar Nasser Abdullah Aulaqi, (f) Anwar Nasser Abdulla Aulaqi). Date of birth: (a) 21.4.1971, (b) 22.4.1971. Place of birth: Las Cruces, New Mexico, United States of America. Nationality: (a) United States of America, (b) Yemeni. Other information: Confirmed to have died on 30 September 2011 in Yemen. Date of designation referred to in Article 2a (4) (b): 20.7.2010.
+
+Said Jan ‘Abd Al-Salam (original script: سعید جان عبد السلام) (Good quality alias (a) Sa’id Jan ‘Abd-al-Salam, (b) Dilawar Khan Zain Khan; Low quality alias (a) Qazi ‘Abdallah, (b) Qazi Abdullah, (c) Ibrahim Walid, (d) Qasi Sa’id Jan, (e) Said Jhan, (f) Farhan Khan, (g) Aziz Cairo, (h) Nangiali). Date of birth: (a) 5.2.1981, (b) 1.1.1972. Nationality: Afghan. Passport No: (a) OR801168 (Afghan passport under the name of Said Jan ‘Abd al-Salam issued on 28.2.2006, expired on 27.2.2011), (b) 4117921 (Pakistani passport issued under the name of Dilawar Khan Zain Khan issued on 9.9.2008, expired on 9.9.2013). National identification No: 281020505755 (Kuwait Civil Identification number under the name Said Jan ‘Abd al-Salam). Other information: In approximately 2005, ran a ‘basic training’ camp for Al-Qaida in Pakistan. Date of designation referred to in Article 7d(2), point (i): 9.2.2011.
+
+Doku Khamatovich Umarov (alias (a) Умаров Доку Хаматович, (b) Lom-ali Butayev (Butaev). Date of birth: (a) 13.4.1964, (b) 13.4.1965, (c) 12.5.1964, (d) 1955. Place of birth: Kharsenoy Village, Shatoyskiy (Sovetskiy) District, Chechenskaya Respublika, Russian Federation. Nationality: (a) Russian, (b) USSR (until 1991). Passport No: 96 03 464086 (Russian passport number issued on 1.6.2003). Other information: Physical description: 180 cm tall, dark hair, 7-9 cm-long scar on the face, part of the tongue is missing, has a speech defect. Resides in the Russian Federation as at November 2010. International arrest warrant issued in the year 2000. Reportedly deceased as of April 2014. Interpol Special Notice contains biometric information. Date of designation referred to in Article 2a(4)(b): 10.3.2011.
+
+Ibrahim Hassan Tali Al-Asiri (original script: إبراهيم حسن طالع العسيري) (good quality alias: (a) Ibrahim Hassan Tali Asiri (إبراهيم حسن طالع عسيري), (b) Ibrahim Hasan Talea Aseeri, (c) Ibrahim Hassan al-Asiri, (d) Ibrahim Hasan Tali Asiri, (e) Ibrahim Hassan Tali Assiri, (f) Ibrahim Hasan Tali’A ‘Asiri, (g) Ibrahim Hasan Tali al-’Asiri, (h) Ibrahim al-’Asiri, (i) Ibrahim Hassan Al Asiri; low quality alias: (a) Abu Saleh, (b) Abosslah, (c) Abu-Salaah). Date of birth: (a) 19.4.1982, (b) 18.4.1982, (c) 24.6.1402 (Hijri Calendar). Place of birth: Riyadh, Saudi Arabia. Nationality: Saudi Arabian. Passport No: F654645 (Saudi Arabian passport number, issued on 30.4.2005, expired on 7.3.2010, issue date in Hijri Calendar 24.06.1426, expiry date in Hijri Calendar 21.03.1431). National identification No: 1028745097 (Saudi Arabian civil identification number). Address: Yemen. Other information: (a) Operative and principal bomb maker of Al-Qaida in the Arabian Peninsula (AQAP); (b) Reportedly deceased in 2017; (c) Also associated with Nasir ‘abd-al-Karim ‘Abdullah Al-Wahishi (deceased), Qasim Yahya Mahdi al-Rimi, and Anwar Nasser Abdulla Al-Aulaqi (deceased). Date of designation referred to in Article 7d(2), point (i): 24.3.2011.
+
+Othman Ahmed Othman Al-Ghamdi (alias (a) Othman al-Ghamdi, (b) Uthman al-Ghamdi, (c) Uthman al-Ghamidi, (d) Othman bin Ahmed bin Othman Alghamdi, (e) Othman Ahmed Othman Al Omairah, (f) Uthman Ahmad Uthman al-Ghamdi, (g) Othman Ahmed Othman al-Omirah, (h) Al Umairah al-Ghamdi, (i) Othman Bin Ahmed Bin Othman). Address: Yemen. Date of birth: (a) 27.5.1979, (b) 1973 (Othman Ahmed Othman Al Omairah). Place of birth: (a) Saudi Arabia, (b) Yemen (Othman Ahmed Othman Al Omairah). Nationality: (a) Saudi Arabian, (b) Yemeni (Othman Ahmed Othman Al Omairah). National identification No.: 1089516791 (Saudi Arabian national identity card). Other information: (a) Father’s name is Ahmed Othman Al Omirah, (b) Operational commander of Al-Qaida in the Arabian Peninsula (AQAP). Has been involved in raising funds and stockpiling arms for AQAP operations and activities in Yemen, (c) Known associate of Qasim Yahya Mahdi al-Rimi and Fahd Mohammed Ahmed al-Quso, (d) INTERPOL Orange Notice (file number 2009/52/OS/CCC, #14). INTERPOL Red Notice (Control Number A-596/3-2009, File Number 2009/3731), (e) Date of designation referred to in Article 2a(4)(b): 16.6.2011.
+
+Abdul Rahim Ba’aysir (alias (a) Abdul Rahim Bashir, (b) ’Abd Al-Rahim Ba’asyir, (c) ’Abd Al-Rahim Bashir, (d) Abdurrahim Ba’asyir, (e) Abdurrahim Bashir, (f) Abdul Rachim Ba’asyir, (g) Abdul Rachim Bashir, (h) Abdul Rochim Ba’asyir, (i) Abdul Rochim Bashir, (j) Abdurochim Ba’asyir, (k) Abdurochim Bashir, (l) Abdurrochim Ba’asyir, (m) Abdurrochim Bashir, (n) Abdurrahman Ba’asyir, (o) Abdurrahman Bashir). Address: Indonesia. Date of birth: (a) 16.11.1977, (b) 16.11.1974. Place of birth: (a) Solo, Indonesia; (b) Sukoharjo, Central Java, Indonesia. Nationality: Indonesian. Other information: (a) Senior Jemaah Islamiyah leader; (b) Father’s name is Abu Bakar Ba’asyir. Date of designation referred to in Article 2a(4)(b): 19.7.2011.
+
+Umar Patek (good quality alias: (a) Omar Patek, (b) Mike Arsalan, (c) Hisyam Bin Zein, (d) Anis Alawi Jafar; low quality alias: (a) Pa'tek, (b) Pak Taek, (c) Umar Kecil, (d) Al Abu Syekh Al Zacky, (e) Umangis Mike. Date of birth: 20.7.1966. Place of birth: Central Java, Indonesia. Nationality: Indonesian. Address: Indonesia. Other information: (a) Senior member of Jemaah Islamiyah involved in planning and funding multiple terrorist attacks in the Philippines and Indonesia; (b) Provided training to Abu Sayyaf Group; (c) Convicted for his role in the 2002 Bali bombings and sentenced to 20 years in prison in June 2012; (c) Released on parole in 2022 and as at late 2025, he operated a business in Surabaya, Indonesia; (d) Remains in custody in Indonesia as at May 2015. Date of designation referred to in Article 7d(2), point (i): 19.7.2011.
+
+Muhammad Jibril Abdul Rahmam (good quality alias: (a) Mohammad Jibril Abdurrahman, (b) Muhammad Jibriel Abdul Rahman, (c) Mohammad Jibriel Abdurrahman, (d) Muhamad Ricky Ardhan (born 8.8.1980, appears in false Indonesian passport number S335026), (e) Muhammad Ricky Ardhan bin Muhammad Iqbal, (f) Muhammad Ricky Ardhan bin Abu Jibril; low quality alias: (a) Muhammad Yunus, (b) Heris Syah). Date of birth: (a) 28.5.1984, (b) 3.12.1979, (c) 3.3.1979 (from false passport), (d) 8.8.1980 (information derived from forged Indonesia passport No.S335026). Place of birth: East Lombok, West Nusa Tenggara, Indonesia. Nationality: Indonesian. Passport No: S335026 (forged Indonesian passport). National Identification No: (a) 3219222002.2181558 (Indonesian national identity card), (b) 2181558 (Identification number). Address: (a) Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan, South Jakarta, Indonesia; (b) Jalan Nakula of Witana Harja Complex Block C, Pamulang, Banten, Indonesia. Other information: (a) Senior member of Jemaah Islamiyah directly involved in obtaining funding for terrorist attacks; (b) Father’s name is Mohamad Iqbal Abdurrahman. Date of designation referred to in Article 7d(2), point (i): 12.8.2011.
+
+Mati ur-Rehman Ali Muhammad (original script: مطیع الرحمن علی محمد) (good quality alias: (a) Mati-ur Rehman, (b) Mati ur Rehman, (c) Matiur Rahman, (d) Matiur Rehman, (e) Matti al-Rehman, (f) Abdul Samad, (g) Samad Sial, (h) Abdul Samad Sial, (i) Ustad Talha, (j) Qari Mushtaq; low quality alias: (a) Tariq, (b) Hussain). Date of birth: Approximately 1977. Place of birth: Chak number 36/DNB, Rajkan, Madina Colony, Bahawalpur District, Punjab Province, Pakistan. Nationality: Pakistani. Other information: (a) Physical description: 5 feet 2 inches; 157,4 cm; (b) Name of father: Ali Muhammad; (c) Mati ur-Rehman is the chief operational commander of Lashkar i Jhangvi; (d) Associated with Harakat-ul Jihad Islami; (e) Reportedly deceased. Date of designation referred to in Article 7d(2)(i): 22.8.2011.
+
+Abd Al-Rahman Ould Muhammad Al- Husayn Ould Muhammad Salim (original script: عبد الرحمن ولد محمد الحسین ولد محمد سلیم) (good quality alias: (a) Abdarrahmane ould Mohamed el Houcein ould Mohamed Salem, (b) ﺷﯿﺦ ﯾﻮﻧﺲ اﻟﻤﻮرﯾﺘﺎﻧﻲ (Yunis al-Mauritani, Younis al-Mauritani,Sheikh Yunis al-Mauritani, Shaykh Yunis the Mauritanian); low quality alias: (a) Salih the Mauritanian, (b) Mohamed Salem, (c) Youssef Ould Abdel Jelil, (d) El Hadj Ould Abdel Ghader, (e) Abdel Khader, (f) Abou Souleimane, (g) Chingheity). Date of birth: Approximately 1981. Place of birth: Saudi Arabia. Nationality: Mauritanian. Address: Mauritania. Other information: (a) Senior Al-Qaida leader, also associated with The Organization of Al-Qaida in the Islamic Maghreb, (b) Wanted by Mauritanian authorities, (c) He is in Mauritania since his extradition from Pakistan in 2014. Date of designation referred to in Article 7d(2)(i): 15.9.2011.
+
+IBRAHIM AWWAD IBRAHIM ALI AL-BADRI AL-SAMARRAI (original script: إبراهيم عواد إبراهيم علي البدري السامرائي). Good quality a.k.a.: Dr Ibrahim 'Awwad Ibrahim 'Ali al-Badri al-Samarrai' (born in 1971 in Samarra, Iraq (Ibrahim 'Awad Ibrahim al-Badri al-Samarrai; Ibrahim 'Awad Ibrahim al-Samarra'i; Dr Ibrahim Awwad Ibrahim al-Samarra'i)). Low quality a.k.a.: (a) أبو دعاء ((Abu Du’a; Abu Duaa’) prominently known by this nom de guerre), (b) Dr Ibrahim, (c) أبو بكر البغدادي الحسيني القريشي (Abu Bakr al-Baghdadi al-Husayni al-Quraishi; Abu Bakr al-Baghdadi). Title: Dr Date of birth: 1971. Place of birth: Iraq. Nationality: Iraq. National identification no: Ration card number: 0134852. Address: (a) Iraq, (b) Syrian Arab Republic. Other information: Description: Height: 1,65 m. Weight: 85 kg. Black hair and eyes. White skin. Leader of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI). Was based in Iraq and Syria. Declared himself ‘caliph’ in Mosul in 2014. Responsible for managing and directing AQI large scale operations. Wife’s name: Saja Hamid al-Dulaimi. Wife’s name: Asma Fawzi Mohammed al-Kubaissi. Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Killed in October 2019 during a counterterrorism operation. Date of designation referred to in Article 7d(2), point (i): 5.10.2011.
+
+Monir Chouka (good quality alias: (a) Abu Hamza; low quality alias: Abu Adam). Date of birth: 30.7.1981. Place of birth: Bonn, Germany. Nationality: (a) German, (b) Moroccan. Passport No: 5208323009 (German passport issued in Stadt Bonn, Germany on 2.2.2007, expired on 1.2.2012). National Identification No: 5209530116 (German national identity card issued in Stadt Bonn, Germany on 21.6.2006, expired on 20.6.2011). Address: (a) Ungartenstraße 6, Bonn, 53229, Germany (previous); (b) Syrian Arab Republic (as at 2023). Other information: (a) Associated with Islamic Movement of Uzbekistan; (b) Associated with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, between October 2015 and August 2016; (c) Brother of Yassin Chouka; (d) Arrest warrant issued by the investigating judge of the German Federal Court of Justice on 5.10.2010. Date of designation referred to in Article 7d(2), point (i): 25.1.2012.
+
+Yassin Chouka (alias Abu Ibraheem). Date of birth: 11.12.1984. Place of birth: Bonn, Germany. Nationality: (a) German, (b) Moroccan. Passport No: 5204893014 (German passport number issued in Stadt Bonn, Germany on 5.10.2000, expired on 5.10.2005). National Identification No: 5209445304 (German national identity card issued in Stadt Bonn, Germany on 5.9.2005, expired on 4.9.2010). Other information: (a) Previous address: Karl-Barth-Straße 14, Bonn, 53129, Germany; (b) Associated with Islamic Movement of Uzbekistan; (c) Brother of Monir Chouka. Date of designation referred to in Article 2a(4)(b): 25.1.2012.
+
+Fazal Rahim (alias (a) Fazel Rahim, (b) Fazil Rahim, (c) Fazil Rahman). Date of birth: (a) 5.1.1974 (b) 1977 (c) 1975 (d) 24.1.1973. Place of birth: Kabul, Afghanistan. Nationality: Afghan. Passport No.: Afghan passport number R512768. Address: (a) Afghanistan/Pakistan border region (previous address), (b) A2, City Computer Plaza, Shar-e-Now, Kabul, Afghanistan (previous address), (c) Microrayan 3rd, Apt. 45, block 21, Kabul, Afghanistan (previous address). Date of designation referred to in Article 2a(4)(b): 5.3.2012.
+
+Mochammad Achwan (good quality alias: (a) Muhammad Achwan, (b) Muhammad Akhwan, (c) Mochtar Achwan, (d) Mochtar Akhwan, (e) Mochtar Akwan). Date of birth: (a) 4.5.1948 (b) 4.5.1946. Place of birth: Tulungagung, Indonesia. Nationality: Indonesian. Passport no: C3967156 (Indonesian number). National Identification No.: (a) 3573010405480001 (Indonesian National Identity Card), (b) 353010405480001 (Indonesian National Identity Card). Address: Jalan Ir. H. Juanda 8/10, RT/RW 002/001, Jodipan, Blimbing, Malang, 65127, Indonesia. Other information: Acting emir of Jemmah Anshorut Tauhid (JAT). Associated with Abu Bakar Ba’asyir, Abdul Rahim Ba’aysir and Jemaah Islamiyah. Date of designation referred to in Article 7d(2), point (i): 12.3.2012.
+
+Abdul Rosyid Ridho Ba'asyir (alias (a) Abdul Rosyid Ridho Bashir, (b) Rashid Rida Ba'aysir, (c) Rashid Rida Bashir). Address: Podok Pesantren AL Wayain Ngrandu, Sumber Agung Magetan, East Java, Indonesia. Date of birth: 31.1.1974. Place of birth: Sukoharjo, Indonesia. Nationality: Indonesian. National Identification No.: 1127083101740003 (Indonesian Identity Card under name Abdul Rosyid Ridho Ba'asyir). Date of designation referred to in Article 2a(4)(b): 12.3.2012.
+
+Zafar Iqbal (alias (a) Zaffer Iqbal, (b) Malik Zafar Iqbal Shehbaz, (c) Malik Zafar Iqbal Shahbaz, (d) Malik Zafar Iqbal, (e) Zafar Iqbal Chaudhry, (f) Muhammad Zafar Iqbal). Date of birth: 4.10.1953. Place of birth: Masjid al-Qadesia, 4 Lake Road, Lahore, Pakistan. Nationality: Pakistani. Passport No.: DG5149481 (passport issued on 22.8.2006, expired on 21.8.2011, passport booklet number A2815665). National identification No.: (a) 35202-4135948-7 b) 29553654234. Other information: other title - Professor. Date of designation referred to in Article 2a(4)(b): 14.3.2012.
+
+Abdur Rehman (alias (a) Abdul Rehman, (b) Abd Ur-Rehman, (c) Abdur Rahman, (d) Abdul Rehman Sindhi, (e) Abdul Rehman al-Sindhi, (f) Abdur Rahman al-Sindhi, (g) Abdur Rehman Sindhi, (h) Abdurahman Sindhi, (i) Abdullah Sindhi, (j) Abdur Rehman Muhammad Yamin. Address: Karachi, Pakistan. Date of birth: 3.10.1965. Place of birth: Mirpur Khas, Pakistan. Nationality: Pakistani. Passport No.: CV9157521 (Pakistani passport issued on 8.9.2008, expires on 7.9.2013). National identification No.: 44103-5251752-5. Date of designation referred to in Article 2a(4)(b): 14.3.2012.
+
+Ayyub Bashir (alias (a) Alhaj Qari Ayub Bashar, (b) Qari Muhammad Ayub). Title: (a) Qari, (b) Alhaj. Date of birth: (a) 1966, (b) 1964, (c) 1969, (d) 1971. Nationality: (a) Uzbek, (b) Afghan. Address: Mir Ali, North Waziristan Agency, Federal Administered, Tribal Areas, Pakistan. Other information: reportedly deceased in an airstrike in Chordar, Kunduz Province of Afghanistan in Dec. 2015. Date of designation referred to in Article 2a (4) (b): 18.10.2012.
+
+Djamel Akkacha (original script: جمال عكاشة) (good quality alias: (a) Yahia Abou el Hoummam, (b) Yahia Abou el Hammam). Date of birth: 9.5.1978. Place of birth: Rouiba, Algiers, Algeria. Nationality: Algerian. Address: Mali. Other information: (a) Father’s name is Slimane; (b) Mother’s name is Akrouf Khadidja; (c) Coordinator of groups associated with The Organisation of Al-Qaida in the Islamic Maghreb in northern Mali; (d) Reportedly deceased in February 2019. Date of designation referred to in Article 7d(2)(i): 5.2.2013.
+
+Abderrahmane Ould El Amar (original script: عبد الرحمن ولد العامر) (good quality alias: (a) Ahmed el Tilemsi, (b) Abderrahmane Ould el Amar Ould Sidahmed Loukbeiti, (c) Ahmad Ould Amar). Date of birth: Between 1977 and 1982. Place of birth: Tabankort, Mali. Nationality: Malian. Address: (a) Gao, Mali, (b) Tabankort, Mali, (c) In Khalil, Mali, (d) Al Moustarat, Mali. Other information: (a) Reportedly deceased as of December 2014; (b) Leader of the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO); (c) Member of The Organization of Al-Qaida in the Islamic Maghreb; (d) Arrested in April 2005 in Mauritania, escaped from Nouakchott jail on 26 April 2006. Re-arrested in September 2008 in Mali and released on 15 April 2009; (e) Associated with Mokhtar Belmokhtar; (f) Father’s name is Leewemere. Date of designation referred to in Article 7d(2)(i): 22.2.2013.
+
+Hamada Ould Mohamed El Khairy (alias (a) Hamad el Khairy, (b) Hamada Ould Mohamed Lemine Ould Mohamed el Khairy, (c) Ould Kheirou, (d) Abou QumQum). Date of birth: 1970. Place of birth: Nouakchott, Mauritania. Nationality: (a) Mauritanian, (b) Malian. Passport no.: A1447120 (Malian passport, expired on 19.10.2011). Address: Gao, Mali. Other information: Mother’s name is Tijal Bint Mohamed Dadda. Date of designation referred to in Article 2a (4) (b): 22.2.2013.
+
+Iyad ag Ghali (original script: اياد اغ غالي) (Good quality alias (a) Sidi Mohamed Arhali). Function: Founder and leader of Ansar Eddine. Address: Mali. Date of birth: (a) 1.1.1958; (b) 1958. Place of birth: (a) Abeibara, Kidal region, Mali; (b) Bouressa, Bourem Region, Mali. Passport No.: A1037434 (Malian passport issued on 10.8.2001, expired on 31.12.2014). Other information: (a) Name of father is Ag Bobacer Arhali, name of mother is Rhiachatou Wallet Sidi; (b) Malian birth certificate No 012546. Date of designation referred to in Article 7d(2), point (i): 25.2.2013.
+
+Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif (alias (a) Muhammad Jamal Abdo Al-Kashif, (b) Muhammad Jamal Abdo Al Kashef, (c) Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif, (d) Muhammad Jamal Abd-Al Rahim Al-Kashif, (e) Muhammad Jamal Abdu, (f) Muhammad Jamal, (g) Muhammad Jamal Abu Ahmad (nom de guerre), (h) Abu Ahmad (nom de guerre), (i) Abu Jamal (nom de guerre), (j) Muhammad Gamal Abu Ahmed, (k) Mohammad Jamal Abdo Ahmed (nom de guerre), (l) Muhammad Jamal Abduh (nom de guerre), (m) Muhammad Jamal Ahmad Abdu (nom de guerre), (n) Riyadh (nom de guerre)). Address: Egypt. Date of birth: (a) 1.1.1964, (b) 1.2.1964. Place of birth: Cairo, Egypt. Nationality: Egyptian. Passport no.: (a) Egyptian passport number 6487, issued 30 Jan. 1986, under name Muhammad Jamal Abdu, (b) Egyptian passport issued in 1993, under name Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif, (c) Yemeni passport number 388181, under name Muhammad Jamal Abd-Al Rahim Al-Kashif. Date of designation referred to in Article 2a (4) (b): 21 Oct. 2013.
+
+Mohamed Lahbous (alias (a) Mohamed Ennouini, (b) Hassan, (c) Hocine). Date of birth: 1978. Place of birth: Mali. Nationality: Malian. Address: Mali. Other information: Member of the Mouvement pour l'Unification et le Jihad en Afrique de l'Ouest (MUJAO). Reportedly deceased as of 14 February 2018. Date of designation referred to in Article 7d(2)(i): 24.10.2013.
+
+Abd-Al-Hamid Al-Masli (alias (a) Abd-al-Hamid Muhammad Abd-al-Hamid Al-Masli, (b) Abd-al-Hamid Musalli, (c) Hamid Masli, (d) Hamza al-Darnawi, (e) Hamzah al-Darnawi, (f) Hamza Darnawi, (g) Hamzah Darnawi, (h) Hamzah Dirnawi, (i) Hamza Darnavi, (j) Hamza al-Darnavi, (k) Abdullah Darnawi, (l) Abu-Hamzah al-Darnawi). Date of birth: 1976. Place of birth: (a) Darnah, Libya (b) Danar, Libya. Nationality: Libyan. Other information: Reportedly located in Waziristan, Federally Administered Tribal Areas, Pakistan. Date of designation referred to in Article 2a (4) (b): 26.11.2013.
+
+Shekau Mohammed Abubakar (alias (a) Abubakar Shekau; (b) Abu Mohammed Abubakar bin Mohammed; (c) Abu Muhammed Abubakar bi Mohammed; (d) Shekau; (e) Shehu; (f) Shayku; (g) Imam Darul Tauhid; (h) Imam Darul Tawheed). Title: Imam. Function: Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Date of birth: 1969. Place of birth: Shekau Village, Yobe State, Nigeria. Nationality: Nigerian. Address: Nigeria. Other information: (a) Physical description: eye colour: black; hair colour: black; (b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 2a(4)(b): 26.6.2014.
+
+Abdelrahman Mouhamad Zafir al Dabidi al Jahani (alias (a) Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni, (b) Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahni, (c) Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahani, (d) Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Juhani, (e) Abdulrhman Mohammed D. Aljahani, (f) Abu al-Wafa', (g) Abu Anas, (h) Abd al-Rahman Muhammad Zafir al-Dabisi al-Jahani, (i) Abu Wafa al-Saudi, (j) Abu al-Wafa, (k) Abd al-Rahman Muhammad Thafir al-Jahni, (l) Abd al-Rahman Muhammad al-Juhani, (m) Abdelrahman Mouhamad Zafir al Dabissi Juhan, (n) Abdelrahman Mouhamad Zafir al Dabissi Juhani, (o) Abou Wafa al Saoudi). Date of birth: (a) 4 Dec. 1971 (b) 1977. Place of birth: Kharj, Saudi Arabia. Nationality: Saudi Arabian. Passport number: F50859. National identification number: Saudi Arabian national identification number 1027508157. Date of designation referred to in Article 2a(4)(b): 15.8.2014.
+
+ABOU MOHAMED AL ADNANI. Good quality a.k.a.: (a) Yaser Khalaf Nazzal Alrawi, (b) Jaber Taha Falah, (c) Abou Khattab, (d) Abou Sadeq Alrawi, (e) Tah al Binchi, (f) Abu Mohammed al-Adnani, (g) Taha Sobhi Falaha, (h) Yasser Khalaf Hussein Nazal al-Rawi, (i) Abu Baker al-Khatab, (j) Abu Sadek al-Rawi, (k) Taha al-Banshi, (l) Abu Mohamed al-Adnani, (m) Abu-Mohammad al-Adnani al-Shami, (n) Hajj Ibrahim. Date of birth: Approximately 1977. Place of birth: Binnish, Syrian Arab Republic. Nationality: Iraq. Other information: Was the official spokesman of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq, and emir of ISIL in Syria, closely associated with Abu Mohammed al-Jawlani and Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai. Reportedly killed in August 2016 in air strike near al-Bab, Syria. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2), point (i): 15.8.2014.
+
+Said Arif (good quality alias: (a) Said Mohamed Arif, (b) Omar Gharib, (c) Abderahmane, (d) Abdallah al-Jazairi, (e) Slimane Chabani, (f) Souleiman, (g) Abou Souleiman; low quality alias: (a) Abdullah, (b) Abdallah, (c) Abu Abdullah). Date of birth: (a) 25.6.1964, (b) 5.12.1969, (c) 12.5.1965. Place of birth: Oran, Algeria. Nationality: Algerian. Address: (a) 78 Boulevard Bezghoud Mustapha, Oran, Algeria, (b) No. 12 Rue Lyonnais, Ain Turk, Oran, Algeria. Other information: (a) Reportedly killed in an air strike in Syria on 25.5. 2015, (b) A veteran member of the ‘Chechen Network’ and other terrorist groups. He was convicted of his role and membership in the ‘Chechen Network’ in France in 2006, (c) Joined Jabhat al-Nusrah, listed as al-Nusrah Front for the People of the Levant in October 2013, (d) Father’s name: Mohamed, (e) Mother’s name: Saliha Boukhari. Date of designation referred to in Article 7d(2)(i): 15.8.2014.
+
+ABDUL MOHSEN ABDALLAH IBRAHIM AL CHAREKH. Good quality a.k.a.: (a) Abdul Mohsen Abdullah Ibrahim Al-Sharikh, (b) Sanafi al Nasr. Date of birth: 13.7.1985. Place of birth: Saqra, Saudi Arabia. Nationality: Saudi Arabia. Other information: A long-time facilitator and financier for Al-Qaida, appointed as a regional leader of Jabhat al-Nusrah, listed as Al-Nusrah Front for the People of the Levant. Reportedly killed in a counterterrorism operation in Northwest Syria in October 2015. Date of designation referred to in Article 7d(2), point (i): 15.8.2014.
+
+Hamid Hamad Hamid al-'Ali. Date of birth: 17.11.1960. Place of birth: Kuwait. Nationality: Kuwaiti. Passport No: (a) 001714467 (Kuwaiti passport number); (b) 101505554 (Kuwaiti passport number). Date of designation referred to in Article 7d(2)(i): 15.8.2014.
+
+Ahmed Abdullah Saleh Al-Khazmari Al Zahrani (good quality alias: (a) Abu Maryam al-Zahrani, (b) Abu Maryam al-Saudi, (c) Ahmed Abdullah S al-Zahrani, (d) Ahmad Abdullah Salih al-Zahrani, (e) Abu Maryam al-Azadi, (f) Ahmed bin Abdullah Saleh bin al-Zahrani, (g) Ahmed Abdullah Saleh al-Zahrani al-Khozmri). Date of birth 15.9.1978. Place of birth: Dammam, Saudi Arabia. Nationality: Saudi Arabian. Passport No.: E126785 (Saudi Arabian passport, issued on 27.5.2002, expired on 3.4.2007). Address: (Located in Syria). Other information: (a) Senior member of Al-Qaida, (b) Reportedly killed in January 2020 in Yemen, (c) Wanted by the Saudi Arabian Government for terrorism, (d) Father's name is Abdullah Saleh al Zahrani, (e) Physical description: eye colour: dark; hair colour: dark; complexion: olive. Speaks Arabic. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Azzam Abdullah Zureik Al-Maulid Al-Subhi (good quality alias: (a) Mansur al-Harbi; (b) Azzam al-Subhi; (c) Azam Abdallah Razeeq al Mouled Alsbhua; (d) Abu Muslem al-Maky; (e) Abu Suliman al-Harbi; (f) Abu Abdalla al-Harbi; (g) Azam A.R. Alsbhua). Date of birth: 12.4.1976. Place of birth: Al Baraka, Saudi Arabia. Nationality: Saudi Arabian. Passport no. C389664 (Saudi Arabian passport issued on 15.9.2000). National identification no. 1024026187. Other information: (a) Father's name is Abdullah Razeeq al Mouled al Sbhua; (b) Physical description: eye colour: dark; hair colour: dark; complexion: dark; (c) Speaks Arabic; (d) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Anders Cameroon Ostensvig Dale (alias (a) Muslim Abu Abdurrahman; (b) Abu Abdurrahman the Norwegian; (c) Abu Abdurrahman the Moroccan). Date of birth: 19.10.1978. Place of birth: Oslo, Norway. Nationality: Norwegian. Other information: (a) Physical description: eye colour: brown; hair colour: brown; height: 185 cm. Date of designation referred to in Article 2a(4)(b): 23.9.2014.
+
+Ibrahim Suleiman Hamad Al-Hablain (good quality alias: (a) Barahim Suliman H. al Hblian; low quality alias: (a) Abu Jabal; (b) Abu-Jabal). Date of birth: 17.12.1984. Place of birth: Buraidah, Saudi Arabia. Nationality: Saudi Arabian. Passport no. F800691 (Saudi Arabian passport). National identification no. 1047503170. Other information: (a) Physical description: eye colour: dark; hair colour: dark; complexion: olive; (b) Speaks Arabic; (c) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Seifallah Ben Omar Ben Mohamed Ben Hassine (alias (a) Seif Allah ben Hocine; (b) Saifallah ben Hassine; (c) Sayf Allah 'Umar bin Hassayn; (d) Sayf Allah bin Hussayn; (e) Abu Iyyadh al-Tunisi; (f) Abou Iyadh el-Tounsi; (g) Abu Ayyad al-Tunisi; (h) Abou Aayadh; (i) Abou Iyadh; (j) Seifallah ben Amor ben Hassine). Address: a) 60 Rue de la Libye, Hammam Lif, Ben Arous, Tunisia; b) Libya (possible location as at Jul. 2017). Date of birth: 8.11.1965. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport no: Tunisia number G557170, issued on 16 Nov. 1989. National identification no: Tunisia National Identification Card 05054425, issued on 3.5.2011 (issued in Hammam Lif). Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+'Abd Al-Rahman Bin 'Umayr Al-Nu'Aymi (good quality alias: (a) Abd al-Rahman bin 'Amir al-Na'imi; (b) 'Abd al-Rahman al-Nu'aimi; (c) 'Abd al-Rahman bin 'Amir al-Nu'imi; (d) 'Abd al-Rahman bin 'Amir al-Nu'aymi; (e) 'Abdallah Muhammad al-Nu'aymi; (f) 'Abd al-Rahman al-Nua'ymi; (g) A. Rahman al-Naimi; (h) Abdelrahman Imer al Jaber al Naimeh; (i) A. Rahman Omair J Alnaimi; (j) Abdulrahman Omair al Neaimi). Date of birth: 1954. Place of birth: Doha, Qatar. Nationality: Qatari. Passport No: (a) 01461558 (Qatari passport number, expiring on 20.1.2024); (b) 00868774 (Qatari passport number, expired on 27.4.2014). National identification No: (a) 25463400086 (Qatari identification number); (b) 25463401784 (Qatari identification number, expired on 6.12.2019). Address: Al-Waab, Qatar. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Abd Al-Rahman Khalaf ‘Ubayd Juday’Al-’Anizi (good quality alias: (a) ‘Abd al-Rahman Khalaf al-Anizi, b) ‘Abd al-Rahman Khalaf al-‘Anzi; low quality alias: (a) Abu Usamah al-Rahman, (b) Abu Shaima’ Kuwaiti, (c) Abu Usamah al-Kuwaiti, (d) Abu Usama, (e) Yusuf). Date of birth: 6.3.1973. Nationality: Kuwaiti. National identification No: 273030601222 (Kuwait). Address: Syrian Arab Republic (located in since 2013). Other information: (a) A sentence of imprisonment for 15 years was issued against him by Kuwait in absentia on 30 July 2015; (b) Provides support to Al-Qaida and Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq, in Syria and Iraq. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+MAYSAR ALI MUSA ABDALLAH AL-JUBURI. Good quality a.k.a.: a) Muyassir al-Jiburi; b) Muyassir Harara; c) Muyassir al Shammari; d) Muhammad Khalid Hassan. Low quality a.k.a.: a) Al-Shammari, b) Mus'ab al Qahtani, c) Abu Maria al-Qatani, d) Abu Umar Title: Amir. Date of birth: a) 1 Jun. 1976; b) 1976. Place of birth: a) Al-Shura, Mosul, Iraq; b) Hararah, Ninawa Province, Iraq. Nationality: Iraq. Other information: Sharia amir of Al-Nusrah Front for the People of the Levant as of early 2014. Reportedly died in the Syrian Arab Republic on 2 April 2024. Mother’s name: Subhah Muhammad Sayf. | Date of designation referred to in Article 2a(4), point (b): 23.9.2014.
+
+Shafi Sultan Mohammed Sultan Al-Ajmi (original script: شافي سلطان محمد سلطان العجمي) (good quality alias: (a) Shafi al-Ajmi, (b) Sheikh Shafi al-Ajmi, (c) Shafi S. M. S. Alajmi; low quality alias: Shaykh Abu-Sultan). Title: Doctor. Date of birth: 1.1.1973. Place of birth: Warah, Kuwait. Nationality: Kuwaiti. Passport no: (a) 03111298 (Kuwaiti); (b) 003111298 (Kuwaiti passport, issued in Kuwait on 16.9.2010, expired 15.9.2020 in the name of Shafi S M S Alajmi, Arabic script شافي سلطان محمد سلطان العجمي); (c) 0216155930. National identification no: 273010101204 (Kuwaiti). Address: Area 3, Street 327, Building 41, Al-Uqaylah, Kuwait. Other information: (a) Fundraiser for Al-Nusrah Front for the People of the Levant, (b) In November 2023 released from prison in Kuwait as part of the Special Amiri Decree Pardon No. 225/2023. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Abd Al-Rahman Muhammad Mustafa Al-Qaduli (good quality alias: (a) 'Abd al-Rahman Muhammad Mustafa Shaykhlari, (b) Umar Muhammad Khalil Mustafa, (c) Abdul Rahman Muhammad al-Bayati, (d) Tahir Muhammad Khalil Mustafa al-Bayati, (e) Aliazra Ra'ad Ahmad;low quality alias: (a) Abu-Shuayb, (b) Hajji Iman, (c) Abu Iman, (d) Abu Ala, (e) Abu Hasan, (f) Abu Muhammad, (g) Abu Zayna). Date of birth: 1959. Place of birth: Mosul, Ninawa Province, Iraq. Nationality: Iraqi. Other information: (a) Senior Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (AQI), official, (b) Reportedly killed in Syria in 2016, (c) Previously served as a representative of AQI to Al-Qaida senior leadership in Pakistan. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Emilie Edwige Konig (alias (a) Emilie Samra Konig). Date of birth: 9.12.1984. Place of birth: Ploemeur, France. Nationality: French. Passport No: (a) 05AT521433 (French passport number, issued on 30.11.2005 by the sous-prefecture of police of Lorient, France), (b) 050456101445 (French national identity card, issued on 19.5.2005 by the sous-prefecture of police of Lorient, France), (c) 0205561020089 (French identity card number, issued on 30.5.2002 under name Emilie Edwige Konig). Other information: Located in Syria since 2013. Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Kevin Jordan Axel Guiavarch. Date of birth: 12.3.1993. Place of birth: Paris, France. Nationality: French. Passport No: France number 12CP63882.3FRA, issued on 31.7.2012 (valid until 30.7.2022). National identification No: France national identity card 070275Q007873, issued on 16.2.2007 (valid until 15.2.2017). Address: a) Grenoble, France (domicile from 1993 to 2012) b) Syrian Arab Republic (located in between 2012 and 2016) c) Turkey (from Jun. 2016 to Jan. 2017) d) France (in detention since Jan. 2017). Other information: Date of designation referred to in Article 7d(2)(i): 23.9.2014.
+
+Oumar Diaby (alias: (a) Omsen (b) Oumar Omsen). Date of birth: 5.8.1975. Place of birth: Dakar, Senegal. Nationality: Senegalese. Other information: Located in Syria. Date of designation referred to in Article 2a(4)(b): 23.9.2014.
+
+Ashraf Muhammad Yusuf 'Uthman 'Abd Al-Salam (original script: اشرف محمد يوسف عثمان عبد السلام) (good quality alias: (a) Ashraf Muhammad Yusif 'Uthman 'Abd-al-Salam; (b) Ashraf Muhammad Yusuf 'Abd-al-Salam; (c) Ashraf Muhammad Yusif 'Abd al-Salam; low quality alias: (a) Khattab; (b) Ibn al-Khattab). Date of birth: 1984. Place of birth: Iraq. Nationality: Jordanian. Passport No: (a) K048787 (Jordanian passport number); (b) 486298 (Jordanian passport number). Address: Syrian Arab Republic (located in as of December 2014). Date of designation referred to in Article 7d(2)(i): 23.1.2015.
+
+Ibrahim 'Isa Hajji Muhammad Al-Bakr (original script: ابراهیم عیسی حاجي محمد البکر) (good quality alias: (a) Ibrahim 'Issa Haji Muhammad al-Bakar; (b) Ibrahim 'Isa Haji al-Bakr; (c) Ibrahim Issa Hijji Mohd Albaker; (d) Ibrahim Issa Hijji Muhammad al-Baker; (e) Ibrahim 'Issa al-Bakar; (f) Ibrahim al-Bakr; low quality alias: Abu-Khalil). Date of birth: 12.7.1977. Place of birth: Qatar. Nationality: Qatari. Passport No: 01016646 (Qatari passport, expired on 11.1.2017). National identification No: 27763401255 (Qatar identification number). Date of designation referred to in Article 7d(2)(i): 23.1.2015.
+
+Tarkhan Tayumurazovich Batirashvili (alias (a) Tarkhan Tayumurazovich Batyrashvili; (b) Tarkhan Batirashvili; (c) Omar Shishani; (d) Umar Shishani; (e) Abu Umar al-Shishani; (f) Omar al-Shishani; (g) Chechen Omar; (h) Omar the Chechen; (i) Omer the Chechen; (j) Umar the Chechen; (k) Abu Umar; (l) Abu Hudhayfah). Date of birth: (a) 11.1.1986; (b) 1982. Place of birth: Akhmeta, Village Birkiani, Georgia. Nationality: Georgian. Passport no.: 09AL14455 (Georgian passport, expires on 26.6.2019). National identification no.: 08001007864 (Georgian national ID). Address: Syrian Arab Republic (located in as at December 2014). Date of designation referred to in Article 2a(4)(b): 23.1.2015.
+
+Angga Dimas Pershada (alias: (a) Angga Dimas Persada, (b) Angga Dimas Persadha, (c) Angga Dimas Prasondha). Title: Secretary-General (as at mid-2014). Date of birth: 4.3.1985. Place of birth: Jakarta, Indonesia. Nationality: Indonesian. Passport No: Indonesian passport number W344982 (issued under name Angga Dimas Peshada). Other information: (a) Member of Jemaah Islamiyah; (b) Leader of Hilal Ahmar Society Indonesia (HASI). Date of designation referred to in Article 2a(4)(b): 13.3.2015.
+
+Bambang Sukirno (alias: (a) Pak Zahra, (b) Abu Zahra). Date of birth: 5.4.1975. Place of birth: Indonesia. Nationality: Indonesian. Passport No: Indonesian passport number A2062513. Other information: Senior leader of Jemaah Islamiyah who has held leadership positions in Hilal Ahmar Society Indonesia (HASI). Date of designation referred to in Article 2a(4)(b): 13.3.2015.
+
+Wiji Joko Santoso (alias: (a) Wijijoko Santoso, (b) Abu Seif al-Jawi, (c) Abu Seif). Date of birth: 14.7.1975. Place of birth: Rembang, Jawa Tengah, Indonesia. Nationality: Indonesian. Passport No: Indonesian passport number A2823222 (issued 28.5.2012, expires 28.5.2017 under name Wiji Joko Santoso). Other information: Head of the foreign affairs division of Jemaah Islamiyah. Date of designation referred to in Article 2a(4)(b): 13.3.2015.
+
+Ali Ben Taher Ben Faleh Ouni Harzi (alias: Abou Zoubair). Date of birth: 9.3.1986. Place of birth: Ariana, Tunisia. Nationality: Tunisian. Passport No: W342058 (Tunisian passport, issued on 14.3.2011, expires on 13.3.2016). National identification No: 08705184 (Tunisian National Identity Card number, issued on 24.2.2011). Address: (a) 18 Mediterranean Street, Ariana, Tunisia; (b) Syrian Arab Republic (located in as at Mar. 2015); (c) Iraq (possible alternative location as at Mar. 2015); (d) Libya (previously located in). Other information: (a) Physical description: eye colour: brown; height: 171 cm; (b) Photo available for inclusion in the Interpol-UN Security Council Special Notice; (c) Father's name is Taher Ouni Harzi, mother's name is Borkana Bedairia. Reportedly killed in an airstrike in Mosul, Iraq, in Jun. 2015. Date of designation referred to in Article 7d(2)(i): 10.4.2015.
+
+Tarak Ben Taher Ben Faleh Ouni Harzi (alias: Abou Omar Al Tounisi). Date of birth: 3.5.1982. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport No: Z050399 (Tunisian passport, issued on 9.12.2003, expired on 8.12.2008). National identification No: 04711809 (Tunisian National Identity Card number, issued on 13.11.2003). Address: (a) 18 Mediterranean Street, Ariana, Tunisia; (b) Syrian Arab Republic (located in as at March 2015); (c) Iraq (possible alternative location as at March 2015); (d) Libya (previously located in). Other information: (a) Physical description: eye colour: brown; height: 172 cm; (b) Photo available for inclusion in the Interpol-UN Security Council Special Notice; (c) Father's name is Taher Ouni Harzi, mother's name is Borkana Bedairia. Reportedly killed in Syria in Jun. 2015. Date of designation referred to in Article 7d(2)(i): 10.4.2015.
+
+SOFIANE BEN GOUMO. Good quality a.k.a.: Sufyan bin Qumu. Low quality a.k.a.: Abou Farai al Libi. Date of birth: 26.6.1959. Place of birth: Derna, Libya. Nationality: Libya. Address: Libya. Other information: Leader of Ansar al Charia Derna. Date of designation referred to in Article 7d(2), point (i): 3.9.2015.
+
+Abd Al-Latif Bin Abdallah Salih Muhammad Al-Kawari (original script: عبداللطیف بن عبدلله صالح محمد الكواري) (good quality alias: (a) Abd-al-Latif Abdallah Salih al-Kawari; (b) Abd-al-Latif Abdallah Salih al-Kuwari; (c) Abd-al-Latif Abdallah al-Kawwari; (d) Abd-al-Latif Abdallah al-Kawari, (e) Abu Ali al-Kawari). Date of birth 28.9.1973. Nationality: Qatari. Passport No: (a) 01020802 (Qatari passport number); (b) 00754833 (Qatari passport number, issued on 20.5.2007); (c) 00490327 (Qatari passport number, issued on 28.7.2001); (d) 01538029 (Qatari passport number, expires on 14.3.2025). National identification No: 27363400684 (Qatari identification number). Address: Al Kharaitiyat, Qatar. Date of designation referred to in Article 7d(2)(i): 21.9.2015.
+
+Sa'd Bin Sa'd Muhammad Shariyan Al-Ka'bi (original script: سعد بن سعد محمد شریان الكعبي) (good quality alias: (a) Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi; (b) Sa'd Sa'd Muhammad Shiryan al-Ka'bi; (c) Sa'd al-Sharyan al-Ka'bi; low quality alias: (a) Abu Haza'; (b) Abu Hazza'; (c) Umar al-Afghani; (d) Abu Sa'd; (e) Abu Suad). Date of birth: 15.2.1972. Nationality: Qatari. Passport No: 00966737 (Qatari passport number, expired on 16.2.2016). National identification No: 27263401275 (Qatari identification number). Address: Umm Salal, Qatar. Date of designation referred to in Article 7d(2)(i): 21.9.2015.
+
+Aqsa Mahmood (alias Umm Layth); Date of birth: 11.5.1994; Place of birth: Glasgow, Scotland, United Kingdom; Address: a) Syrian Arab Republic (as at November 2013), b) United Kingdom (previous address); Nationality: British; Passport No: 720134834 (British passport issued on 27.6.2012, expires on 27.6.2022); Other information: a) Sex: female, b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 28.9.2015.
+
+Nasser Ahmed Muthana (alias (a) Nasir Muthana, (b) Abdul Muthana, (c) Abu Muthana, (d) Abu Al-Yemeni Muthana, (e) Abu Muthanna); Date of birth: 29.4.1994; Place of birth: Heath, Cardiff, United Kingdom; Address: a) Syrian Arab Republic (as at November 2013), b) United Kingdom (previous address until November 2013); Nationality: British; Passport No.: 210804241 (British passport issued on 27.7.2010, expires on 27 Jul. 2020) Other information: a) Physical description: hair colour: brown/black, b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 28.9.2015.
+
+Omar Ali Hussain (alias Abu- Sa'id Al Britani); Date of birth: 21.3.1987; Place of birth: High Wycombe, Buckinghamshire, United Kingdom; Address: a) Syrian Arab Republic (as at Jan. 2014), b) United Kingdom (previous address until January 2014); Nationality: British; Passport No: 205939411 (British passport issued on 21.7.2004, expired on 21.4.2015); Other information: a) Physical description: eye colour: brown; hair colour: brown/black, b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 28.9.2015.
+
+Sally-Anne Frances Jones (alias (a) Umm Hussain al-Britani, (b) Sakinah Hussain); Date of birth: 17.11.1968; Place of birth: Greenwich, Greater London, United Kingdom; Address: a) Syrian Arab Republic (as at 2013), b) United Kingdom (previous location until 2013); Nationality: British; Passport No: 519408086 (British passport issued on 23.9.2013, expires on 23.9.2023); Other information: a) Sex: female, b) Husband's name is: Junaid Hussain, c) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 28.9.2015.
+
+Boubaker Ben Habib Ben Al-Hakim (good quality alias: (a) Boubakeur el-Hakim, (b) Boubaker el Hakim; low quality alias: (a) Abou al Moukatel, (b) Abou Mouqatel, (c) Abu-Muqatil al-Tunisi, (d) El Hakim Boubakeur). Date of birth: 1.8.1983. Place of birth: Paris, France. Nationality: (a) French, (b) Tunisian. Address: Syrian Arab Republic (as at September 2015). Other information: (a) French-Tunisian foreign terrorist fighter for Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq; (b) Reportedly killed in Raqqa, Syria on 26.11.2016. Date of designation referred to in Article 7d(2), point (i): 29.9.2015.
+
+Peter Cherif; Date of birth: 26.8.1982. Place of birth: Paris, 20th district, France. Nationality: French. Address: Al Mukalla, Hadramawt province, Yemen. Other information: (a) Member of Al-Qaida in the Arabian Peninsula (AQAP); (b) Convicted in absentia to five years in prison in France in 2012; (c) Sentenced to life imprisonment by a French court on 3.10.2024; (d) Wanted by French authorities as of 2015. Date of designation referred to in Article 7d(2), point (i): 29.9.2015.
+
+Maxime Hauchard (alias Abou Abdallah al Faransi); Date of birth: 17.3.1992; Place of birth: Saint Aubin les Elbeuf, Normandy, France; Address: Syrian Arab Republic (as at Sep. 2015); Nationality: French. Passport No: (a) 101127200129 (French national identity card issued by the Sous-Préfecture of Bernay, France and expires 4.11.2020). Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+Amru Al-Absi (alias (a) Amr al Absi, (b) Abu al Athir Amr al Absi, (c) Abu al-Athir, (d) Abu al-Asir, (e) Abu Asir, (f) Abu Amr al Shami, (g) Abu al-Athir al-Shami, (h) Abu-Umar al-Absi); Date of birth: approximately 1979; Place of birth: Saudi Arabia; Address: Homs, Syrian Arab Republic (location as at Sep. 2015). Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+Mu'tassim Yahya 'Ali Al-Rumaysh (alias (a) Rayhanah, (b) Abu-Rayhanah, (c) Handalah, (d) Abu-Rayhanah al-'Ansari al-Jeddawi); Date of birth: 4.1.1973; Place of birth: Jeddah, Saudi Arabia; Nationality: Yemeni; Passport No: 01055336 (Yemeni passport); National identification No: Saudi Arabian alien registration number 2054275397, issued on 22.7.1998. Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+Tarad Mohammad Alnori Alfares Aljarba (good quality alias: Tarad Aljarba; low quality alias: Abu-Muhammad al-Shimali). Date of birth: 20.11.1979. Place of birth: Iraq. Nationality: Saudi Arabian. Passport no. E704088 (issued on 26.8.2003, expired on 2.7.2008). National identification no. 1121628414. Date of designation referred to in Article 7d(2)(i): 29.9.2015.
+
+Aseel Muthana; Date of birth: 22.11.1996; Place of birth: Cardiff, United Kingdom; Address: a) Syrian Arab Republic (as at February 2014); Nationality: British; Passport No.: 516088643 (British passport issued on 7.1.2014, expires on 7.1.2024); Other information: Physical description: hair colour: brown/black. Date of designation referred to in Article 7d(2)(i): 30.9.2015.
+
+Maghomed Maghomedzakirovich Abdurakhmanov (alias (a) Abu Banat, (b) Abu al Banat); Date of birth: 24.11.1974; Place of birth: Khadzhalmahi Village, Levashinskiy District, Republic of Dagestan, Russian Federation; Nationality: Russian; Passport No.: 515458008 (Russian foreign travel passport number, expires 30.5.2017); National identification No.: 8200203535 (Russian national passport number); Address: (a) Turkey (possible location), (b) Syrian Arab Republic (previous confirmed location since September 2012); Other information: a) Physical description: eye colour brown, hair colour: dark, build: strong, straight nose, height: 180-185 cm, speaks Russian, English, Arabic, b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Islam Seit-Umarovich Atabiev (alias Abu Jihad) Date of birth: 29.9.1983; Place of birth: Ust-Dzheguta, Republic of Karachayevo-Cherkessia, Russian Federation; Nationality: Russian; Passport No.: 620169661 (Russian foreign travel passport number); National identification No.: 9103314932 (Russian national passport number issued on 15.8.2003 by Department of the Federal Migration Service of the Russian Federation for the Republic Karachayevo-Cherkessia); Address: (a) Moscovskiy Microrayon 6, App. 96, Ust-Dzheguta, Republic of Karachayevo-Cherkessia, Russian Federation, (b) Syrian Arab Republic (located in as at Aug. 2015); Other information: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Akhmed Rajapovich Chataev (alias (a) Akhmad Shishani, (b) David Mayer, (c) Elmir Sene, (d) Odnorukiy) Date of birth: 14.7.1980; Place of birth: Vedeno Village, Vedenskiy District, Republic of Chechnya, Russian Federation; Address: a) Syrian Arab Republic (located in as at Aug. 2015), b) Iraq (possible alternative location as at August 2015); Nationality: Russian. National identification No.: 9600133195 (Russian national passport number issued in Vedensiky District, Republic of Chechnya, Russian Federation by Department of Internal Affairs); Other information: a) Physical description: eye colour: brown, hair colour: black, build: solid; distinguishing marks: oval face, beard, missing a right hand and left leg, speaks Russian, Chechen and possibly German and Arabic. b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Tarkhan Ismailovich Gaziev (original script: Тархан Исмаилович Газиев), (alias (a) Ramzan Oduev (original script: Рамзан Одуев), (b) Tarkhan Isaevich Gaziev (original script: Тархан Исаевич Газиев), (c) Husan Isaevich Gaziev (original script: Хусан Исаевич Газиев), (d) Umar Sulimov (original script: Умар Сулимов), (e) Wainakh (original script: Вайнах), (f) Sever (original script: Север), (g) Abu Bilal (original script: Абу-Билал), (h) Abu Yasir (original script: Абу Ясир), (i) Abu Asim (original script: Абу Ясим), (j) Husan (original script: Хусан), (k) Ab-Bilal, (l) Abu-Naser), Date of birth: 11.11.1965, Place of birth: Itum-Kale, Itum-Kalinskiy District, Republic of Chechnya, Russian Federation, Address: a) Syrian Arab Republic (located in as at August 2015), b) Iraq (possible alternative location as at August 2015), Nationality: Russian Federation, Other information: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Zaurbek Salimovich Guchaev (alias (a) Bach, (b) Fackih, (c) Vostochniy, (d) Muslim, (e) Aziz, (f) Abdul Aziz); Date of birth: 7.9.1975; Place of birth: Chegem-1 Village, Chegemskiy District, Republic of Kabardino-Balkaria, Russian Federation; Address: a) Syrian Arab Republic (located in as at August 2015), b) Iraq (possible alternative location as at August 2015); Nationality: Russian; Passport No.: 622641887 (Russian foreign travel passport number); National identification No.: 8304661431 (Russian national passport number); Other information: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Shamil Magomedovich Ismailov (alias (a) Shamil Magomedovich Aliev, (b) Abu Hanifa); Date of birth: 29.10.1980; Place of birth: Astrakhan, Russian Federation; Address: a) Syrian Arab Republic (located in as at August 2015), b) Iraq (possible alternative location as at August 2015); Nationality: Russian; Passport No.: 514448632 (Russian foreign travel passport number issued on 8.9.2010 in Alexandria, Egypt by Consulate General of the Russian Federation); National identification No.: 1200075689 (Russian national passport number issued on 15 Dec. 2000 by Russian Federation); Other information: a) Physical description: eye colour: brown, hair colour: black, build: slim, height 175-180 cm. Distinguishing marks: long face, speech defect, b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 2.10.2015.
+
+Abd Al-Baset Azzouz (alias (a) Abdelbassed Azouz, (b) Abdul Baset Azouz, (c) AA (initials)). Date of birth: 7.2.1966. Place of birth: Doma, Libya. Nationality: Libyan. Passport No: (a) 223611 (Libyan passport number) (b) C00146605 (British passport number). Address: Libya (last known location). Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Gulmurod Khalimov. Date of birth (a) 14.5.1975, (b) approximately 1975. Place of birth: (a) Varzob area, Tajikistan, (b) Dushanbe, Tajikistan. Nationality: Tajikistan. Address: Afghanistan (Kunar and Nuristan provinces and border areas of Zebok district, Badakhshan province). Other information: (a) Syria-based military expert, member and recruiter of Islamic State in Iraq and the Levant, (b) Wanted by the Government of Tajikistan. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Nusret Imamovic (alias Nusret Sulejman Imamovic). Date of birth: (a) 26.9.1971, (b) 26.9.1977. Place of birth: Miljanovci, Kalesija Municipality, Bosnia. Nationality: Bosnia and Herzegovina. Passport No: (a) 349054 (Bosnia and Herzegovina passport number), b) 3490054 (Bosnia and Herzegovina passport number). Address: Syrian Arab Republic (location as of September 2015). Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Muhannad Al-Najdi (alias (a) 'Ali Manahi 'Ali al-Mahaydali al-'Utaybi, (b) Ghassan al-Tajiki. Date of birth: 19.5.1984. Place of birth: al-Duwadmi, Saudi Arabia. Nationality: Saudi Arabian. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Morad Laaboudi (alias (a) Abu Ismail, (b) Abu Ismail al-Maghribi. Date of birth: 26.2.1993. Place of birth: Morocco. Nationality: Moroccan. Passport No: (a) UZ6430184 (Moroccan passport number), (b) CD595054 (Moroccan national identity number). Address: Turkey. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Ali Musa Al-Shawakh (alias (a) 'Ali Musa al-Shawagh, (b) 'Ali Musa al-Shawagh, (c) Ali al-Hamoud al-Shawakh, (d) Ibrahim al-Shawwakh, (e) Muhammad 'Ali al-Shawakh, (f) Abu Luqman, (g) Ali Hammud, (h) Abdullah Shuwar al-Aujayd, (i) Ali Awas, (j) 'Ali Derwish, (k) 'Ali al-Hamud, (l) Abu Luqman al- Sahl, (m) Abu Luqman al-Suri, (n) Abu Ayyub. Date of birth: 1973. Place of birth: Sahl Village, Raqqa Province, Syrian Arab Republic. Nationality: Syrian. Address: Syrian Arab Republic. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Hasan Al-Salahayn Salih Al-Sha'ari (alias (a) Husayn al-Salihin Salih al-Sha'iri, (b) Abu Habib al-Libi, (c) Hasan Abu Habib). Date of birth: 1975. Place of birth: Derna, Libya. Nationality: Libyan. Passport No: (a) 542858 (Libyan passport number), (b) 55252 (Libyan national identification number, issued in Derna, Libya). Address: Libya. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Mounir Ben Dhaou Ben Brahim Ben Helal (low quality alias (a) Mounir Helel, (b) Mounir Hilel, (c) Abu Rahmah, (d) Abu Maryam al-Tunisi). Date of birth: 10.5.1983. Place of birth: Ben Guerdane, Tunisia. Nationality: Tunisian. National Identification No.: 08619445. Address: Amria Ben Guerdane, Medenine, Tunisia. Other information: Foreign terrorist fighter facilitator experienced in establishing and securing travel routes. Deeply involved in providing material support to the Organization of Al-Qaida in the Islamic Maghreb in North Africa. Assisted foreign terrorist fighters’ travel throughout North Africa and to Syrian Arab Republic to join Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq. Profession: farm worker. Mother’s name: Mbarka Helali. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Mohammed Abdel-Halim Hemaida Saleh (alias (a) Muhammad Hameida Saleh, (b) Muhammad Abd-al-Halim Humaydah, (c) Faris Baluchistan). Date of birth: (a) 22.9.1988, (b) 22.9.1989. Place of birth: Alexandria, Egypt. Nationality: Egyptian. Address: Egypt. Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Salim Benghalem. Date of birth: 6.7.1980. Place of birth: Bourg la Reine, France. Nationality: French. Address: Syrian Arab Republic (as at September 2015). Date of designation referred to in Article 7d(2)(i): 29.2.2016.
+
+Abu Ubaydah Yusuf Al-Anabi (good quality alias: (a) Abou Obeida Youssef Al-Annabi, (b) Abu-Ubaydah Yusuf Al-lnabi; low quality alias: (a) Mebrak Yazid, (b) Youcef Abu Obeida, (c) Mibrak Yazid, (d) Yousif Abu Obayda Yazid, (e) Yazid Mebrak, (f) Yazid Mabrak, (g) Yusuf Abu Ubaydah, (h) Abou Youcef). Date of birth: 7.2.1969. Place of birth: Annaba, Algeria. Nationality: Algerian. Address: Algeria. Other information: (a) A leader of the Organization of Al-Qaida in the Islamic Maghreb (AQIM); (b) Father’s name is Omar Mebrak; (c) Mother’s name is Zohra Mebrak. Date of designation referred to in Article 7d(2), point (i): 29.2.2016.
+
+Faysal Ahmad Bin Ali Al-Zahrani (good quality alias: Faisal Ahmed Ali Alzahrani; low quality alias: a) Abu Sarah al-Saudi, b) Abu Sara Zahrani). Date of birth: 19.1.1986. Nationality: Saudi Arabia. Address: Syrian Arab Republic. Passport number: (a) K142736 (Saudi Arabian passport number issued 14.7.2011 in Al-Khafji, Saudi Arabia), (b) Saudi Arabia national identification number G579315. Other information: Reportedly deceased. Was the lead oil and gas division official of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, for Al Barakah Governorate, Syrian Arab Republic, as of May 2015. Date of designation referred to in Article 7d(2)(i): 20.4.2016.
+
+Husayn Juaythini (alias (a) Hussein Mohammed Hussein Aljeithni, (b) Husayn Muhammad al-Juaythini (c) Husayn Muhammad Husayn al-Juaythini d) Husayn Muhamad Husayn al-Juaythini (e) Husayn Muhammad Husayn Juaythini (f) Abu Muath al-Juaitni). Date of birth: 3.5.1977. Place of birth: Nuseirat Refugee Camp, Gaza Strip, Palestinian Territories. Nationality: Palestinian. Address: Gaza Strip, Palestinian Territories. Passport No: 0363464 (issued by Palestinian Authority). Date of designation referred to in Article 7d(2)(i): 20.4.2016.
+
+Muhammad Sholeh Ibrahim (good quality alias (a) Mohammad Sholeh Ibrahim, (b) Muhammad Sholeh Ibrohim, (c) Muhammad Soleh Ibrahim, (d) Sholeh Ibrahim, (e) Muh Sholeh Ibrahim). Title: Ustad. Date of birth: September 1958. Place of birth: Demak, Indonesia. Nationality: Indonesia. National Identification No.: (a) 3311092409580002 (Indonesian National Identity Card), (b) 3311092409580003 (Indonesian National Identity Card). Address: (a) Masjid Baitul Amin, Waringinrejo RT 01 RW 02, Grogol, Cemani, Sukoharjo, Jawa Tengah 57572, Indonesia, (b) Desa Cemani, Waringinrejo RT 001/021, Kecamatan Grogol, Kabupaten Sukoharjo, Jawa Tengah, Indonesia. Other information: Has served as the acting emir of Jemmah Anshorut Tauhid (JAT) since 2014 and has supported Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Profession: Lecturer/Private Teacher. Date of designation referred to in Article 7d(2)(i): 20.4.2016.
+
+Aslan Avgazarovich Byutukaev (alias (a) Аслан Авгазарович Бютукаев, (b) Amir Khazmat, (c) Амир Хазмат, (d) Abubakar, (e) Абубакар. Date of birth: 22.10.1974. Place of birth: Kitaevka, Novoselitskiy District, Stavropol Region, Russian Federation. Nationality: Russian Federation. Address: Akharkho Street, 11, Katyr-Yurt, Achkhoy-Martanovskiy District, Republic of Chechnya, Russian Federation. Date of designation referred to in Article 7d(2)(i): 3.8.2016.
+
+Ayrat Nasimovich Vakhitov (alias (a) Айрат Насимович Вахитов, (b) Salman Bulgarskiy, (c) Салман Булгарский. Date of birth: 27.3.1977. Place of birth: Naberezhnye Chelny, Republic of Tatarstan, Russian Federation. Nationality: Russian Federation. Other information: May use a fake passport of a Syrian or Iraqi citizen. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 3.8.2016.
+
+Rustam Magomedovich Aselderov (original script: Рустам Магомедович Асельдеров) (alias (a) Abu Muhammad (original script: Абу Мухаммад), (b) Abu Muhammad Al-Kadari (original script: Абу Мухаммад Аль-Кадари), (c) Muhamadmuhtar (original script: Мухамадмухтар). Date of birth: 9.3.1981. Place of birth: Iki-Burul Village, Iki-Burulskiy District, Republic of Kalmykia, Russian Federation. Nationality: Russian Federation. Passport no.: Russian passport number 8208 No. 555627, issued by Leninskiy Office, Directorate of the Federal Migration Service of the Russian Federation for the Republic of Dagestan. Other information: Killed on 3 December 2016 in Makhachkala, the Republic of Dagestan, Russian Federation. Date of designation referred to in Article 7d(2)(i): 12.12.2016.
+
+Bassam Ahmad Al-Hasri (alias: a) Bassam Ahmad Husari b) Abu Ahmad Akhlaq c) Abu Ahmad al-Shami). Date of birth: a) 1.1.1969 b) approximately 1971. Place of birth: a) Qalamun, Damascus Province, Syrian Arab Republic b) Ghutah, Damascus Province, Syrian Arab Republic c) Tadamon, Rif Dimashq, Syrian Arab Republic. Nationality: a) Syrian b) Palestinian. Address: Syrian Arab Republic (Southern. Location as of July 2016). Date of designation referred to in Article 7d(2)(i): 22.2.2017.
+
+Iyad Nazmi Salih Khalil (alias: a) Ayyad Nazmi Salih Khalil b) Eyad Nazmi Saleh Khalil c) Iyad al-Toubasi d) Iyad al-Tubasi e) Abu al-Darda' f) Abu-Julaybib al-Urduni g) Abu-Julaybib). Date of birth: 1974. Place of birth: Syrian Arab Republic. Nationality: Jordan. Passport No: a) Jordan 654781 (approximately issued in 2009) b) Jordan 286062 (issued on 5.4.1999 at Zarqa, Jordan, expired on 4.4.2004). Address: Syrian Arab Republic (Coastal area of. Location as of April 2016). Date of designation referred to in Article 7d(2)(i): 22.2.2017.
+
+Ghalib Abdullah Al-Zaidi (alias: a) Ghalib Abdallah al-Zaydi b) Ghalib Abdallah Ali al-Zaydi c) Ghalib al Zaydi). Date of birth: a) 1975 b) 1970. Place of birth: Raqqah Region, Marib Governorate, Yemen. Nationality: Yemeni. Date of designation referred to in Article 7d(2)(i): 22.2.2017.
+
+Fared Saal (alias: (a) Abu Luqmaan Al Almani; (b) Abu Lugmaan. Date of birth: 18.2.1989. Place of birth: Bonn, Germany. Nationality: (a) German; (b) Algerian. National identification No: 5802098444 (German national identity card number, issued in Bonn, Germany on 15.4.2010, expired on 14.4.2016). Other information: Physical description: eye colour: brown; hair colour: black; height: 178 cm; weight: 80 kg. Date of designation referred to in Article 7d(2)(i): 16.6.2017.
+
+Alexanda Amon Kotey (good quality alias: (a) Alexe Kotey; (b) Alexanda Kote). Date of birth: 13.12.1983. Place of birth: London, United Kingdom of Great Britain and Northern Ireland. Nationality: British. Passport No: 094477324 (British, issued on 5.3.2005). Address: United States of America. Other information: (a) Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq; (b) Sentenced to life imprisonment on 29 April 2022 in the United States of America, Federal Bureau of Prisons inmate number 11685-509; (c) Physical description: eye colour: dark brown; hair colour: black; complexion: dark. Distinguishing marks: beard; (d) Ethnic background: Ghanaian Cypriot. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Elshafee El Sheikh (good quality alias: (a) El Shafee Elsheikh; (b) Alshafee El-Sheikh). Date of birth: 16.7.1988. Place of birth: London, United Kingdom of Great Britain and Northern Ireland. Nationality: British. Passport No: 801121547 (British, issued on 16.6.2009 by UK Passport Office with expiry date of 16.6.2019, cancelled in December 2014). Address: United States of America. Other information: (a) Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq; (b) Sentenced to life imprisonment on 19 August 2022 in the United States of America, Federal Bureau of Prisons inmate number 11698-509; (c) Physical description: eye colour: dark brown; hair colour: black; complexion: dark. Distinguishing marks: beard; (d) Mother’s name: Maha Elgizouli. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Muhammad Bahrum Naim Anggih Tamtomo (good quality alias: (a) Bahrun Naim; (b) Anggih Tamtomo; low quality alias: (a) Abu Rayyan; (b) Abu Rayan; (c) Abu Aisyah). Date of birth: 6.9.1983. Place of birth: Surakarta, Indonesia. Nationality: Indonesian. Address: (a) Aleppo, Syrian Arab Republic; (b) Raqqa, Syrian Arab Republic. Other information: Syrian-based Indonesian national who has served in a variety of roles supporting the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Malik Ruslanovich Barkhanoev (alias: (a) Saifuddin; (b) Saifuddin al-Ingushi; (c) Saifuddin Ingushi). Date of birth: 14.3.1992. Place of birth: Ordzhonikidzevskaya village, Sunzhenskiy district, Ingushetia, Russian Federation. Nationality: Russian. Address: Mosul, Iraq. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Murad Iraklievich Margoshvili (alias: (a) Zurab Iraklievich Margoshvili; (b) Murad Akhmedovich Madayev; (c) Lova Madayev; (d) Abu-Muslim Al-Shishani; (e) Muslim; (f) Lava; (g) John; (h) George; (i) Arthur; (j) Sedoy). Date of birth: 15.1.1970. Place of birth: Grozny, Chechen Republic, Russian Federation. Nationality: (a) Russian; (b) Georgian. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Oman Rochman (good quality alias: (a) Oman Rahman; (b) Abu Sulaiman Aman Abdurrahman Al-Arkhabiliy; (c) Aman Abdul Rahman; (d) Aman Abdurahman; (e) Aman Abdurrachman; (f) Oman Abdulrohman; (g) Oman Abdurrahman; (h) Aman Abdurrahman). Title: Ustadz. Date of birth: 5.1.1972. Place of birth: Sumedang, Indonesia. Nationality: Indonesian. Address: Pasir Putih Prison, Nusa Kambangan Island, Indonesia. Other information: (a) De facto leader for all Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq, supporters in Indonesia despite his incarceration in Indonesia since December 2010; (b) Sentenced to death by the Indonesian Supreme Court. Date of designation referred to in Article 7d(2)(i): 20.7.2017.
+
+Shane Dominic Crawford (alias: (a) Asadullah; (b) Abu Sa'd at-Trinidadi; (c) Asad). Date of birth: 22.2.1986. Place of birth: Mount Hope, Trinidad and Tobago. Nationality: Trinidad and Tobago. Passport no: (a) Trinidad and Tobago number TA959547, issued on 19.11.2013 (issued by Immigration Division of Trinidad and Tobago, expiration date 18.11.2018); (b) Trinidad and Tobago number T1071839, issued on 8.11.2004 (issued by Immigration Division of Trinidad and Tobago, expiration date 7.11.2014). National identification no: (a) Trinidad and Tobago National Identification Card 19860222007, issued on 16.6.2011 (expiration date 16.6.2016); (b) Trinidad and Tobago Birth Certificate B394445, issued on 23.1.2007; (c) Trinidad and Tobago Driver's Permit 892124B, issued on 30.8.2007 (expiration date 30.8.2010). Address: (a) Syrian Arab Republic (as at May 2014); (b) Reyhanli, Hatay, Turkey (previous location from Nov. 2013 to May 2014); (c) 349 Dass Branch Trace, Dass Trace, Enterprise Chaguanas, Trinidad and Tobago (from birth until 27.11.2013); (d) LP# 41 Ballisier Road, Smith Field Lands, Wallerfield, County of St. George East, Trinidad and Tobago (alternative location as at Sep. 2011). Other information: Physical description: eye colour: brown; hair colour: dark; complexion: light brown; build: medium; height: 174 cm; weight: 64 kg; speaks English, Arabic. Date of designation referred to in Article 7d(2)(i): 18.8.2017.
+
+SALIM MUSTAFA MUHAMMAD AL-MANSUR. Good quality a.k.a.: a) Salim Mustafa Muhammad Mansur Al-Ifri; b) Saleem Al-Ifri; c) Salim Mansur Mustafa; d) Salim Mansur; e) Hajji Salim Al-Shaklar. Date of birth: a) 20 Feb. 1962; b) 1959. Place of birth: Baghdad, Iraq. Nationality: Iraq. Passport no: Iraq number A6489694, issued on 2 Sep. 2013 (expires on 31 Aug. 2021); name in Arabic script: ال محمد مصطفى سالم منصور. National identification no: a) Iraq national identification card 00813602, issued on 18 Sep. 2011 (name in Arabic script: منصور ال محمد مصطفى سالم; (b) Iraq Certificate of Iraqi Nationality 300397, issued on 25 Jun. 2013 (name in Arabic script: محمد مصطفى سالم. Address: a) 17 Tamoz, Mosul, Iraq (previous address); b) Tel Afar – Al-Saad, Mosul, Iraq (previous address). Other information: Finance ‘emir’ for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq. Mother’s name: Khadijah Mustafa Salih. Held in detention by the Iraqi intelligence service since 2019 and has been sentenced to death. Physical description: hair colour: black; eye colour: honey; height: 170 cm. Speaks Arabic. Date of designation referred to in Article 7d(2), point (i): 6.3.2018
+
+Umar Mahmud Irhayyim Al-Kubaysi (alias: (a) Umar Mahmud Rahim al-Kubaysi; (b) Omar Mahmood Irhayyim Al-Fayyadh; (c) Umar Mahmud Rahim; (d) Umar Mahmud Rahim Al-Qubaysi; (e) Umar Mahmud Al-Kubaysi Arhaym; (f) Umar Mahmud Arhaym; (g) Omar Mahmood Irhayyim; (h) Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi; (i) Umar al-Kubaysi). Date of birth: (a) 16.6.1967; (b) 1.1.1967. Place of birth: Al-Qaim, Al-Anbar Province, Iraq. Nationality: Iraqi. Passport no: Iraq number A4059346, issued on29.5.2013, issued in Baghdad, Iraq (expires on 27.5.2021). National identification no: (a) Iraq national identification card 00405771, issued on 20 May 2013, issued in Iraq; (b) Iraq Certificate of Iraqi Nationality 540763, issued on 13.2.1984. Address: Al-Qaim, Al-Anbar Province, Iraq. Other information: Physical description: sex: male, hair colour: black; height: 175 cm; speaks Arabic. Date of designation referred to in Article 7d(2)(i): 6.3.2018.
+
+Adnan Abou Walid Al-Sahraoui (original script: عدنان أبو وليد الصحراوي) (good quality alias: (a) Lahbib Idrissi ould Sidi Abdi ould Said ould El Bachir, (b) Adnan Abu Walid al-Sahrawi, (c) Abu Walid al Sahrawi, (d) Adnan Abu Walid al-Sahraoui, (e) Adnan Abu Waleed al-Sahrawi, (f) Lehbib Ould Ali Ould Said Ould Joumani). Date of birth: 16.2.1973. Place of birth: Laayoune. Address: Ménaka, Gao Region, Mali. Other information: (a) Reportedly deceased; (b) Former spokesperson of the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO); (c) Emir of the Al-Mourabitoun group in Mali; (d) Pledged allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Date of designation referred to in Article 7d(2)(i): 9.8.2018.
+
+ANJEM CHOUDARY (alias Abu Luqman). Date of birth: 18.1.1967. Place of birth: Welling, London, United Kingdom. Address: London, United Kingdom. Nationality: British. Passport no: 516384722 (UK Passport issued by Passport Office Glasgow on 6.5.2013, expires on 6.6.2023). Other information: Pledged allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq in July 2014. Imprisoned in the United Kingdom in September 2014 and subsequently released on licence in October 2018 which expires in July 2021. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 7d(2)(i): 15.10.2018.
+
+Taha Ibrahim Abdallah Bakr Al Khuwayt (original script: طه إبراهيم عبد الله بكر ال خويت) (good quality alias (a) Hajji Abdelnasser, (b) Hajji Abd al-Nasr, (c) Hajji ‘Abd Al-Nasir (formerly listed as); low quality alias (a) Taha al-Khuwayt, (b) Mullah Taha, (c) Mullah Khuwayt). Date of birth: Between 1965 and 1969. Place of birth: Tall ‘Afar, Iraq. Nationality: Iraqi. Address: Prison in Iraq. Other information: Former ISIL governor of al-Jazira Province, military leader in the Syrian Arab Republic as well as member and chair of the ISIL Delegated Committee. In custody of Iraq since 2019. Date of designation referred to in Article 7d(2)(i): 19.11.2018.
+
+HAMZA USAMA MUHAMMAD BIN LADEN (original script: حمزة أسامة محمد بن لادن). Date of birth: 9.5.1989. Place of birth: Jeddah, Saudi Arabia. Other information: Son of Usama bin Laden (deceased). Announced by Aiman Muhammed Rabi al-Zawahiri as an official member of Al-Qaida. Has called for followers of Al-Qaida to commit terror attacks. Was seen as the most probable successor of al-Zawahiri. Reportedly killed in a counterterrorism operation as of September 2019 in the Afghanistan/Pakistan region. Date of designation referred to in Article 7d(2), point (i): 28.2.2019.
+
+Mohammed Masood Azhar Alvi (Low quality alias (a) Masud Azhar, (b) Wali Adam Isah, (c) Wali Adam Esah). Date of birth: a) 10.7.1968, b) 10.6.1968. Place of birth: Bahawalpur, Punjab Province, Pakistan. Nationality: Pakistan. Date of designation referred to in Article 7d(2)(i): 1.5.2019.
+
+ALI MAYCHOU ( [image] ) (Good quality alias: a) Abderahmane al Maghrebi b) Abderrahmane le Marocain; Low quality alias: Abou Abderahmane Sanhaji). Date of birth: 25.5.1983. Place of birth: Taza, Morocco. Address: Mali. Nationality: Moroccan. Passport no: Morocco number V06359364 National identification no: Morocco identity card AB704306. Date of designation referred to in Article 7d(2)(i): 14.8.2019.
+
+BAH AG MOUSSA (Good quality alias: a) Ag Mossa b) Ammi Salim). Date of birth: a) 1.1.1958, b) 31.12.1952, c) 28.10.1956. Nationality: Malian. Date of designation referred to in Article 7d(2)(i): 14.8.2019.
+
+AMADOU KOUFA (Good quality alias: (a) Amadou Barry (b) Amadou Kouffa (c) Hamadoun Koufa (d) Hamadoun Kouffa (e) Hamadou Koufa (f) Hamadou Kouffa). Date of birth: Approximately 1958. Place of birth: Koufa, Mali. Address: Mali. Other information: Eye colour: brown. Hair colour: dark. Date of designation referred to in Article 7d(2)(i): 4.2.2020.
+
+Amir Muhammad Sa’id Abdal-Rahman al-Salbi (original script: أمیر محمد سعید عبد الرحمن السلبي) (good quality alias (a) Abu Ibrahim al-Hashimi al-Qurashi, (b) Hajji Abdallah, (c) Abu ‘Umar al-Turkmani, (d) Abdullah Qardash, (e) Abu ‘Abdullah Qardash, (f) al-Hajj Abdullah Qardash, (g) Hajji Abdullah Al-Afari, (h) ‘Abdul Amir Muhammad Sa’id Salbi, (i) Muhammad Sa’id ‘Abd-al-Rahman al-Mawla, (j) Amir Muhammad Sa’id ‘Abd-al-Rahman Muhammad al-Mula, (k) Amir Muhammad Sa’id Abdal-Rahman al-Mawla (previously listed as); low quality alias (a) Al-Ustadh, (b) Ustadh Ahmad). Date of birth: (a) 5.10.1976, (b) 1.10.1976, (c) 6.1.1976. Place of birth: (a) Tall’Afar, Iraq, (b) Mosul, Iraq. Nationality: Iraqi. National Identification No.: 00278640 (issued on 2.5.2012). Address: (a) House 110, Street 704, District 704, Tall’Afar, Iraq (previous address), (b) near Shahid Mazen Mosque and al-Khansa Hospital, Mosul, Iraq (previous address), (c) Idlib, Syrian Arab Republic. Other information: Leader of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq. Mother’s name: Samira Shareef (سميرة شريف) or Sahra Sharif Abd al-Qader (سهرة شريف عبد القادر). Height 170 cm, right leg amputated. Arrest warrant issued by Iraq 2018. Reportedly deceased as of 3 February 2022. Date of designation referred to in Article 7d(2)(i): 21.5.2020.
+
+Noor Wali Mehsud (good quality alias Abu Mansoor Asim). Title: Mufti. Date of birth: 26.6.1978. Place of birth: Gurguray, Pakistan. Nationality: Pakistan. Address: Lamman, District Barmal, Paktika Province, Afghanistan (as of 26 November 2022). Other information: Leader of Tehrik-e Taliban Pakistan (TTP) following the death of former TTP leader Maulana Fazlullah. Date of designation referred to in Article 7d(2)(i): 16.7.2020.
+
+Jamal Hussein Hassan Zeiniye (original script: زینیھ حسن حسین جمال) (good quality alias Jamal Husayn Zayniyah; low quality alias: (a) Abu Malek El Talleh; (b) Abu Hussein; (c) abu-Malik al-Ansari; (d) Abu-Malik al-Shami; (e) Abu-Malik al-Talli). Date of birth: (a) 17.8.1972; (b) 1.1.1972. Place of birth: (a) Benghazi, Libya; (b) Al Tall, Syrian Arab Republic; (c) Tell Mnin, Syrian Arab Republic. Nationality: Syrian. Passport no. 3987189 (Syrian passport). National identification no. (a) 13080011550; (b) 5877002 (Syrian Identification Card issued on 25 May 2011). Address: (a) Syrian Arab Republic; (b) Arsal, Bekaa, Lebanon. Other information: (a) Leader of Al-Nusrah Front for the People of the Levant in West Kalamoun, Syrian Arab Republic; (b) Mother’s name is Amina Tohmeh. Date of designation referred to in Article 7d(2)(i): 8.10.2020.
+
+Mohammad Ali Al Habbo (original script: محمد علي الحبو) (good quality alias: (a) Mohamad Abdulkarim; (b) Muhammad Abd-al-Karim; low quality alias: (a) Al-Hebo; (b) Al-Habu; (c) Alhobo; (d) Habo; (e) Hebbo; (f) Habu). Date of birth: (a) 1.10.1983; (b) 15.3.1983; (c) 1.1.1980. Place of birth: Raqqa, Syrian Arab Republic. Nationality: Syrian. Passport No 00814L001424 (Syrian passport). National identification No (a) 10716775 (Syrian national identification card); (b) 2020316097 (Syrian national identification card); (c) 2020409266 (Syrian national identification card). Address: (a) Gaziantep, Turkey (since 2016); (b) Raqqa, Syrian Arab Republic. Other information: Turkey-based facilitator who provides financial services to, or in support of, Islamic State in Iraq and the Levant, listed as Al-Qaeda in Iraq. Date of designation referred to in Article 7d(2)(i): 17.6.2021.
+
+Emraan Ali (low quality alias: Abu Jihad TNT). Date of birth: 4.7.1967. Place of birth: Rio Claro, Trinidad and Tobago. Nationality: (a) Trinidad and Tobago; (b) United States of America. Passport No: (a) TB162181 (Trinidad and Tobago passport issued on 27.1.2015 and expired on 26.1.2020); (b) 420985453 (United States of America passport expired on 6.2.2017). National identification No: 19670704052 (Trinidad and Tobago identification number). Address: (a) United States of America (in detention, Federal Detention Center - Miami, Register Number: 10423-509); (b) #12 Rio Claro Mayaro Road, Rio Claro, Trinidad (previous location 2008-March 2015); (c) #7 Guayaguayare Road, Rio Claro, Trinidad (previous location circa 2003); (d) United States of America (previous location January 1991-2008). Other information: (a) Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaeda in Iraq. Recruited for ISIL and instructed individuals to perpetrate terrorist acts; (b) Physical description: height: 176 cm; weight: 73 kg; build: medium; eye colour: brown; hair colour: black/bald; complexion: brown; (c) Speaks English. Date of designation referred to in Article 7d(2)(i): 23.11.2021.
+
+Sanaullah Ghafari (original script: [image] ) (good quality alias: (a) Dr. Shahab al Muhajir; (b) Shahab Muhajer; (c) Shahab Mohajir; (d) Shahab Mahajar; (e) Shihab al Muhajir; (f) Shihab Muhajer; (g) Shihab Mohajir; (h) Shihab Mahajar). Date of birth: (a) 28.10.1994; (b) 24.5.1990. Place of birth: Mir Bacha Kot District, Kabul Province, Afghanistan. Nationality: Afghanistan. Passport no: 01503093 (Afhgan passport, issued on 25.8.2016 in Kabul, Afghanistan and expired on 25.8.2021). Address: (a) Afghanistan (2021); (b) Kunduz, Afghanistan (previous). Other information: (a) Leader of the Islamic State in Iraq and the Levant-Khorasan (ISIL-K); (b) Information Technology Expert; (c) Father’s name: Abdul Jabbar; (d) Grandfather’s name: Abdul Ghaffar. Date of designation referred to in Article 7d(2), point (i): 21.12.2021.
+
+Ashraf Al-Qizani (original script: أشرف القيزاني) (good quality alias: (a) Ashraf al-Gizani; (b) Abu ‘Ubaydah al-Kafi; (c) Achref Ben Fethi Ben Mabrouk Guizani; (d) Achraf Ben Fathi Ben Mabrouk Guizani). Date of birth: 5.10.1991. Place of birth: El Gouazine, Dahmani, Governorate of Le Kef, Tunisia. Nationality: Tunisia. National identification no: 13601334, Tunisia. Other information: Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Date of designation referred to in Article 7d(2)(i): 29.12.2021.
+
+Maulawi Rajab (good quality alias: Maulawi Rajab Salahudin). Date of birth: 1976. Place of birth: Afghanistan. Nationality: Afghan. Address: Paghman District, Kabul Province, Afghanistan. Other information: Senior leader of the Islamic State in Iraq and the Levant - Khorasan (ISIL-K). Date of designation referred to in Article 7d(2)(i): 26.04.2023.
+
+Sultan Aziz Azam. Date of birth: 1985. Place of birth: Afghanistan. Nationality: Afghan. Address: Afghanistan. Other information: Spokesperson of the Islamic State in Iraq and the Levant - Khorasan (ISIL-K). Date of designation referred to in Article 7d(2)(i): 26.04.2023.
+
+Abubakar Swalleh (good quality alias: (a) Abubaker Swaleh; (b) Tom Kiyurige; low quality alias: Isaac Mupeta). Gender: male. Date of birth: (a) 13.1.1992; (b) 16.3.1993. Place of birth: Mengo, Uganda. Nationality: Ugandan. Passport no.: A00195974 (Ugandan passport, expiry date on 16.12.2029). National identification no.: CM920231090NZA (Uganda). Address: Luzira Prison, Luzira, Kampala, Uganda. Other information: (a) provides financial, material, or technological support for, or financial or other services to, or in support of, ISIL (listed as Al-Qaida in Iraq); (b) He acted, since 2018, as an ISIL facilitator who provides financial and logistic support including recruitment for ISIL in East and Southern Africa. Phone number: +963936016952. Date of designation referred to in Article 7d(2)(i): 16.6.2025.
+
+Abd El Hamid Salim Ibrahim Brukan al-Khatouni (original script: عبد الحميد سالم إبراهيم بروكان الخاتوني) (good quality alias: Abu Omar Al Sarraf). Date of birth: 1.9.1970. Place of birth: Iraq. Nationality: Iraq. Address: Iraq. Other information: (a) Served as a senior leader in ISIL (Da’esh) as its financial management officer; (b) Mother’s name: Khadija Hattab Ismail; (c) Gender: Male. Date of designation referred to in Article 7d(2), point (i): 26.3.2026.
+
+Sami Jasim Muhammad Jaata Al-Jaburi (original script: ﺳﺎﻣﻲ ﺟﺎﺳم ﻣﺣﻣد ﺟﻌﺎطﺔ اﻟﺟﺑوري) (good quality alias: (a) Mustafa Adnan al-Aziz (original script: ﻣﺻطﻔﻰ ﻋدﻧﺎن اﻟﻌزﯾز) (National Identification card no. 9080002892, issued by the Syrian Arab Republic; mother’s name Dahiyah al-Mulhim; Date of birth: 1.1.1973; Place of birth: Albu Kamal, Syria); (b) Mustafa Adnan al-Azeez (Turkish Residency Card no. 4118 issued on 15.1.2019); low quality alias: (a) Sami al-Ajuz; (b) Hajji Hamid. Date of birth: 1.7.1974. Place of birth: Iraq. Nationality: Iraq. Address: Iraq. Other information: (a) Assumed multiples roles within ISIL (Da’esh), including overseeing ISIL’s finances, material affairs and sources of revenue. He was also a member of the so-called Delegated Committee, which is the decision-making body of ISIL (Da’esh). He also participated in several terrorist operations against security forces while ISIL was controlling territory and was involved in the smuggling of oil derivates; (b) Mother’s name: A’ishah Hasan; (c) Gender: Male; (d) Physical description: eye colour: black; hair colour: black. Date of designation referred to in Article 7d(2), point (i): 26.3.2026.
+
+Hamida Nabaggala (original script: حميدة ناباجالا) (low quality alias: (a) Nabaggala, (b) Nabaggaka, (c) Hamida, (d) Hamidah). Date of birth: 23.2.1989. Place of birth: Uganda. Nationality: Uganda. National identification no.: CF89095102DDAE (expired on 27.3.2025) Address: Democratic Republic of the Congo. Other information: (a) Works as a mediator in financing channels for ISIL in Central Africa, has been charged with financing a bombing that occurred in the Ugandan capital, Kampala, in 2021, attempted to coerce her three children in Uganda to send them to ISIL camps in the Democratic Republic of the Congo, (b) Gender: Female. Date of designation referred to in Article 7d(2), point (i): 30.3.2026.
+
+## ANNEX IA
+
+**Natural person referred to in Article 2(3a)**
+
+Usama Muhammed Awad Bin Laden (alias (a) Usama Bin Muhammed Bin Awad, Osama Bin Laden, (b) Ben Laden Osama, (c) Ben Laden Ossama, (d) Ben Laden Usama, (e) Bin Laden Osama Mohamed Awdh, (f) Bin Laden Usamah Bin Muhammad, (g) Shaykh Usama Bin Ladin, (h) Usamah Bin Muhammad Bin Ladin, (i) Usama bin Laden, (j) Usama bin Ladin, (k) Osama bin Ladin, (l) Osama bin Muhammad bin Awad bin Ladin, (m) Usama bin Muhammad bin Awad bin Ladin, (n) Abu Abdallah Abd Al Hakim, (o) Al Qaqa). Title: (a) Shaykh, (b) Hajj. Date of birth: (a) 30.7.1957 (b) 28.7.1957, (c) 10.3.1957, (d) 1.1.1957, (e) 1956, (f) 1957. Place of birth: (a) Jeddah, Saudi Arabia, (b) Yemen. Nationality: Saudi citizenship withdrawn, Afghan nationality given by the Taliban regime. Other information: Confirmed to have died in Pakistan in May 2011. Date of designation referred to in Article 2a(4)(b): 25.1.2001.
+
+## ANNEX II — List of competent authorities referred to in Article 5
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+( 1 ) OJ L 43, 16.2.2000, p. 1; Regulation as last amended by Regulation (EC) No 467/2001.
+
+( 2 ) OJ L 67, 9.3.2001, p. 1; Regulation as last amended by Regulation (EC) No 881/2002.
+
+( 3 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 4 ) OJ L 8, 12.1.2001, p. 1.

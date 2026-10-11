@@ -448,6 +448,7 @@ The crop shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the crops shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Fungi and oomycetes</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
@@ -457,6 +458,7 @@ The presence of RNQPs on the crops shall comply with the following requirements 
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
 <tr><td>Aphelenchoides besseyi Christie [APLOBE]</td><td>Oryza sativa L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 (*1) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).’ "
 
@@ -470,6 +472,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Nematodes</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
@@ -478,11 +481,13 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 <tr></tr>
 <tr><td>Gibberella fujikuroi Sawada [GIBBFU]</td><td>Oryza sativa L.</td><td>Practically free</td><td>Practically free</td><td>Practically free’</td></tr>
 </tbody>
+</table>
 
 (b) the following point 4 is added:
 
 ‘4. The presence of fungus bodies on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td>Category</td><td>Maximum number of fungus bodies, such as sclerotia, or ergots, in a sample of the weight specified in column 3 of Annex III</td></tr>
 <tr><td>Cereals other than hybrids of Secale cereale:</td><td></td></tr>
 <tr><td><table><tbody><tr><td>—</td><td>Basic seed</td></tr>
@@ -503,6 +508,7 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 </table>
 </td><td>4 (*2)</td></tr>
 </tbody>
+</table>
 
 (*1) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).’ ’
 
@@ -749,6 +755,7 @@ The Annex to Directive 93/49/EEC is replaced by the following:
 
 **‘ANNEX**
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Genus or species of propagating material of ornamental plants</td><td>Threshold for the presence of RNQPs on the propagating material of the ornamental plant</td></tr>
@@ -799,6 +806,7 @@ The Annex to Directive 93/49/EEC is replaced by the following:
 </td><td>0 %</td></tr>
 <tr><td>Tomato spotted wilt tospovirus [TSWV00]</td><td>Propagating material of ornamental plants other than seeds Begonia x hiemalis  Fotsch, Capsicum annuum L., Chrysanthemum L., Gerbera L., Impatiens L. New Guinea Hybrids, Pelargonium L. </td><td>0 %’</td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 
@@ -810,6 +818,7 @@ The Annex to Directive 93/61/EEC is replaced by the following:
 
 **RNQPs concerning vegetable propagating and planting material**
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Vegetable propagating and planting material (genus or species)</td><td>Threshold for the presence of RNQPs on the vegetable propagating and planting material</td></tr>
@@ -838,6 +847,7 @@ The Annex to Directive 93/61/EEC is replaced by the following:
 <tr><td>Tomato spotted wilt tospovirus [TSWV00]</td><td>Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L.</td><td>0 %</td></tr>
 <tr><td>Tomato yellow leaf curl virus [TYLCV0]</td><td>Solanum lycopersicum L.</td><td>0 %’</td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 
@@ -865,6 +875,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 ‘(b) The presence of regulated non-quarantine pests (RNQPs) on vegetable seed shall, at least upon visual inspection, not exceed the respective thresholds set out in the following table:
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Genus or species of vegetable seed</td><td>Threshold for the presence of RNQPs on the vegetable seed</td></tr>
@@ -891,6 +902,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 <tr><td>Pepino mosaic virus [PEPMV0]</td><td>Solanum lycopersicum L.</td><td>0 %</td></tr>
 <tr><td>Potato spindle tuber viroid [PSTVD0]</td><td>Capsicum annuum L., Solanum lycopersicum L.</td><td>0 %’</td></tr>
 </tbody>
+</table>
 
 (*1) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4)’.”
 
@@ -912,6 +924,7 @@ Directive 2002/56/EC is amended as follows:
 |  | 2. | In the case of certified seed potatoes, the number of plants not breeding true to the variety and the number of plants of a different variety, shall, together, not exceed 0,5 % and in the direct progeny, shall, together, not exceed 0,5 %. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>Seed potatoes shall comply with the following requirements concerning the presence of regulated non-quarantine pests (RNQPs), or diseases caused by RNQPs, and the respective categories, as set out in the following table:<table><tbody><tr><td>RNQPs or symptoms caused by RNQPs</td><td>Threshold in the growing plants for basic seed potatoes</td><td>Threshold in the growing plants for certified seed potatoes</td></tr>
 <tr><td>Blackleg (Dickeya Samson et al. spp. [1DICKG]; Pectobacterium Waldee emend. Hauben et al. spp. [1PECBG])</td><td>1,0 %</td><td>4,0 %</td></tr>
 <tr><td>Candidatus Liberibacter solanacearum Liefting et al. [LIBEPS]</td><td>0 %</td><td>0 %</td></tr>
@@ -926,6 +939,7 @@ Directive 2002/56/EC is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4. | The maximum number of generations of basic seed potatoes shall be four, and the combined generations of pre-basic seed potatoes in the field and basic seed potatoes shall be seven. The maximum number of generations of certified seed potatoes shall be two. If the generation is not indicated on the official label, the seed potatoes concerned shall be considered as belonging to the maximum generation that is permitted within the respective category.’; |
 | --- | --- | --- |
@@ -971,11 +985,13 @@ Directive 2002/57/EC is amended as follows:
 
 The presence of RNQPs on the crops shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="3">Fungi and oomycetes</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
 <tr><td>Plasmopara halstedii (Farlow) Berlese & de Toni [PLASHA]</td><td>Helianthus annuus L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 (*1) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).’ "
 
@@ -987,6 +1003,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Fungi and oomycetes</td></tr>
 <tr></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
@@ -1002,6 +1019,7 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 <tr><td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td><td>Brassica napus L. (partim), Helianthus annuus L.</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td></tr>
 <tr><td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td><td>Sinapis alba L.</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC.</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC.’</td></tr>
 </tbody>
+</table>
 
 (*1) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).’ ”
 
@@ -1113,6 +1131,7 @@ The Annexes to Implementing Directive 2014/98/EU are replaced by the following
 
 **List of RNQPs for the presence of which visual inspection, and, in the case of doubts, sampling and testing, are required pursuant to Article 9(1), Article 10(1), Article 16(1), Article 21(1) and Article 26(1)**
 
+<table>
 <tbody><tr><td>Genus or species</td><td>RNQPs</td></tr>
 <tr><td>Castanea sativa Mill.</td><td rowspan="2">Fungi and oomycetes Cryphonectria parasitica (Murrill) Barr [ENDOPA] </td></tr>
 <tr><td></td></tr>
@@ -1280,6 +1299,7 @@ The Annexes to Implementing Directive 2014/98/EU are replaced by the following
 <tr><td>Vaccinium L.</td><td>Bacteria</td></tr>
 <tr><td></td><td>Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Fungi and oomycetes  Diaporthe vaccinii Shear [DIAPVA]  Exobasidium vaccinii (Fuckel) Woronin [EXOBVA]  Godronia cassandrae (anamorph Topospora myrtilli) Peck [GODRCA] </td></tr>
 </tbody>
+</table>
 
 **‘ANNEX II**
 
@@ -1319,6 +1339,7 @@ The Annexes to Implementing Directive 2014/98/EU are replaced by the following
 
 **List of RNQPs whose presence in soil is provided for in Article 11(1) and (2), Article 17(1) and (2), and Article 22(1) and (2)**
 
+<table>
 <tbody><tr><td>Genus or species</td><td>RNQPs</td></tr>
 <tr><td>Fragaria L.</td><td>Nematodes</td></tr>
 <tr><td></td><td>Longidorus attenuatus Hooper [LONGAT] Longidorus elongatus (de Man) Thorne & Swanger [LONGEL]  Longidorus macrosoma Hooper [LONGMA]  Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] </td></tr>
@@ -1337,6 +1358,7 @@ The Annexes to Implementing Directive 2014/98/EU are replaced by the following
 <tr><td>Rubus L.</td><td>Nematodes</td></tr>
 <tr><td></td><td>Longidorus attenuatus Hooper [LONGAT] Longidorus elongatus (de Man) Thorne & Swanger [LONGEL]  Longidorus macrosoma Hooper [LONGMA]  Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] </td></tr>
 </tbody>
+</table>
 
 **‘ANNEX IV**
 

@@ -1,0 +1,120 @@
+---
+title: "Commission Implementing Regulation (EU) No 1294/2014 of 4 December 2014 amending Regulation (EC) No 1238/95 as regards the level of the application fee and of the examination fee payable to the Community Plant Variety Office"
+identifier: "32014R1294"
+eli: "http://data.europa.eu/eli/reg_impl/2014/1294/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-12-04
+entry_into_force: 2014-07-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1294"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1294/2014 of 4 December 2014 amending Regulation (EC) No 1238/95 as regards the level of the application fee and of the examination fee payable to the Community Plant Variety Office
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1294/2014**
+
+**of 4 December 2014**
+
+**amending Regulation (EC) No 1238/95 as regards the level of the application fee and of the examination fee payable to the Community Plant Variety Office**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (1), and in particular Article 113 thereof,
+
+After consulting the Administrative Council of the Community Plant Variety Office,
+
+Whereas:
+
+(1) Article 7 of Commission Regulation (EC) No 1238/95 (2) sets out provisions concerning the level of the application fee payable to the Community Plant Variety Office (‘the Office’) for the processing of applications for grant of a Community plant variety right.
+
+(2) Based on the experience gained by the Office concerning the cost linked with the processing of applications for grant of Community plant variety rights which are not valid, it is appropriate to reduce the amount of the application fee retained by the Office.
+
+(3) Article 8(1) of Regulation (EC) No 1238/95 and Annex I thereto set out the level of the fees for arranging and carrying out the technical examination of a variety being the subject of an application for a Community Plant Variety right payable to the Office, ‘the examination fee’.
+
+(4) As regards the technical examination of varieties for which material with specific components has to be used repeatedly for the production of material, experience has shown that the cost for that examination may greatly vary from one case to another. The fee for the technical examination should cover the cost for the technical examination of the variety and for each specific component of the variety. No maximum amount should therefore be fixed as regards the fee for the technical examination in such cases.
+
+(5) The experience gathered concerning the technical examination further shows that the total amount of the examination fees charged by the Office does not cover the total amount of the fees to be paid by the Office to the Examination Offices. The fees charged by the Office should, however, in principle cover the fees paid by it. The fees set out in Annex I to Regulation (EC) No 1238/95 should therefore be raised. At the same time the cost groups set out in that Annex should be simplified.
+
+(6) Regulation (EC) No 1238/95 should therefore be amended accordingly.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Community Plant Variety Rights,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 1238/95 is amended as follows:
+
+(1) In Article 7, paragraph 7 is replaced by the following:
+
+‘7. Where the application fee is received but the application is not valid under Article 50 of the basic Regulation, the Office shall retain EUR 200 of the application fee and refund the remainder when notifying the applicant of the deficiencies found in the application.’
+
+(2) In Article 8, paragraph 1 is replaced by the following:
+
+‘1. Fees for arranging and carrying out the technical examination of a variety being the subject of an application for a Community plant variety right (examination fee) shall be paid in accordance with Annex I for each growing period started. In the case of varieties for which material with specific components has to be used repeatedly for the production of material, the examination fee laid down in Annex I shall be due in respect of such variety and in respect of each of the components for which an official description is not available and which must also be examined.’
+
+(3) Annex I is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 4 December 2014.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 227, 1.9.1994, p. 1.
+
+(2) Commission Regulation (EC) No 1238/95 of 31 May 1995 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office (OJ L 121, 1.6.1995, p. 31).
+
+## ANNEX
+
+Annex I to Regulation (EC) No 1238/95 is replaced by the following:
+
+**‘ANNEX I**
+
+**Fees relating to technical examination as referred to in Article 8**
+
+The fee to be paid for the technical examination of a variety pursuant to Article 8 shall be determined in accordance with the table:
+
+<table>
+<tbody><tr><td colspan="3">(in EUR)</td></tr>
+<tr><td></td><td>Cost group</td><td>Fee</td></tr>
+<tr><td colspan="3">Agricultural group</td></tr>
+<tr></tr>
+<tr><td>1</td><td>Potato</td><td>1 960 </td></tr>
+<tr><td>2</td><td>Oilseed rape</td><td>1 860 </td></tr>
+<tr><td>3</td><td>Grasses</td><td>2 210 </td></tr>
+<tr><td>4</td><td>Other agricultural species</td><td>1 430 </td></tr>
+<tr><td colspan="3">Fruit group</td></tr>
+<tr></tr>
+<tr><td>5</td><td>Apple</td><td>3 210 </td></tr>
+<tr><td>6</td><td>Strawberry</td><td>2 740 </td></tr>
+<tr><td>7</td><td>Other fruit species</td><td>2 550 </td></tr>
+<tr><td colspan="3">Ornamental group</td></tr>
+<tr></tr>
+<tr><td>8</td><td>Ornamental living greenhouse</td><td>2 140 </td></tr>
+<tr><td>9</td><td>Ornamental living outdoor</td><td>1 960 </td></tr>
+<tr><td>10</td><td>Ornamental non-living greenhouse</td><td>1 770 </td></tr>
+<tr><td>11</td><td>Ornamental non-living outdoor</td><td>1 570 </td></tr>
+<tr><td>12</td><td>Ornamental special</td><td>3 040 </td></tr>
+<tr><td colspan="3">Vegetable group</td></tr>
+<tr></tr>
+<tr><td>13</td><td>Vegetable greenhouse</td><td>2 150 </td></tr>
+<tr><td>14</td><td>Vegetable outdoor</td><td>1 960 ’</td></tr>
+</tbody>
+</table>

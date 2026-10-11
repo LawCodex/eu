@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COMMISSION IMPLEMENTING DIRECTIVE 2011/38/EU Text with EEA relevance of 11 April 2011</td><td> L 97</td><td>28</td><td>12.4.2011</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE 2014/110/EU Text with EEA relevance of 17 December 2014</td><td> L 366</td><td>81</td><td>20.12.2014</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2004/33/EC**
 
@@ -239,12 +241,14 @@ The following criteria do not apply to autologous donations.
 
 **1.1. Age and body weight of donors**
 
+<table>
 <tbody><tr><td rowspan="4">Age</td><td>18 to 65 years</td><td>  </td></tr>
 <tr><td>17 to 18 years</td><td>— unless classified as a minor by law, or with written consent of parent or legal guardian in accordance with law</td></tr>
 <tr><td>First time donors over 60 years</td><td>— at the discretion of the physician in the blood establishment</td></tr>
 <tr><td>Over 65 years</td><td>— with permission of the physician in the blood establishment, given annually</td></tr>
 <tr><td>Body weight</td><td colspan="2">≥ 50 kg for donors either of whole blood or apheresis blood components</td></tr>
 </tbody>
+</table>
 
 **1.2. Haemoglobin levels in donor's blood**
 
@@ -267,6 +271,7 @@ The tests and deferral periods indicated by an asterisk (*) are not required whe
 
 **2.1. Permanent deferral criteria for donors of allogeneic donations**
 
+<table>
 <tbody><tr><td>Cardiovascular disease</td><td>Prospective donors with active or past serious cardiovascular disease, except congenital abnormalities with complete cure</td></tr>
 <tr><td>Central nervous system disease</td><td>A history of serious CNS disease</td></tr>
 <tr><td>Abnormal bleeding tendency</td><td>Prospective donors who give a history of a coagulopathy</td></tr>
@@ -286,6 +291,7 @@ The tests and deferral periods indicated by an asterisk (*) are not required whe
 <tr><td>Xenotransplant recipients</td><td>  </td></tr>
 <tr><td>Sexual behaviour</td><td>Persons whose sexual behaviour puts them at high risk of acquiring severe infectious diseases that can be transmitted by blood</td></tr>
 </tbody>
+</table>
 
 **2.2. Temporary deferral criteria for donors of allogeneic donations**
 
@@ -297,6 +303,7 @@ After an infectious illness, prospective donors shall be deferred for at least t
 
 However, the following deferral periods shall apply for the infections listed in the table:
 
+<table>
 <tbody><tr><td>Brucellosis (*)</td><td>2 years following the date of full recovery</td></tr>
 <tr><td>Osteomyelitis</td><td>2 years after confirmed cured</td></tr>
 <tr><td>Q fever (*)</td><td>2 years following the date of confirmed cured</td></tr>
@@ -313,6 +320,7 @@ However, the following deferral periods shall apply for the infections listed in
 <tr><td>— individuals with a history of undiagnosed febrile illness during or within six months of a visit to an endemic area</td><td>3 years following resolution of symptoms; may be reduced to 4 months if an immunologic or molecular test is negative </td></tr>
 <tr><td>West Nile Virus (WNV) (*)</td><td>28 days after leaving a risk area of locally acquired West Nile Virus unless an individual Nucleic Acid Test (NAT) is negative  </td></tr>
 </tbody>
+</table>
 
 **2.2.2. Exposure to risk of acquiring a transfusion-transmissible infection**
 
@@ -364,12 +372,14 @@ However, the following deferral periods shall apply for the infections listed in
 
 **1.2. Cryopreservation**
 
+<table>
 <tbody><tr><td>Component</td><td>Storage conditions and duration</td></tr>
 <tr><td>Red blood cells</td><td>Up to 30 years according to processes used for collection, processing and storage</td></tr>
 <tr><td>Platelets</td><td>Up to 24 months according to processes used for collection, processing and storage</td></tr>
 <tr><td>Plasma and cryoprecipitate</td><td>Up to 36 months according to processes used for collection, processing and storage</td></tr>
 <tr><td colspan="2">Cryopreserved red blood cells and platelets must be formulated in a suitable medium after thawing. The allowable storage period after thawing to depend on the method used.</td></tr>
 </tbody>
+</table>
 
 **2\. TRANSPORT AND DISTRIBUTION**
 
@@ -419,6 +429,7 @@ Transport and distribution of blood and blood components at all stages of the tr
 
 2.4. For autologous donations, the measures marked with an asterisk (*) are recommendations only.
 
+<table>
 <tbody><tr><td>Component</td><td>Quality measurements required The required frequency of sampling for all measurements shall be determined using statistical process control </td><td>Acceptable results for quality measurements</td></tr>
 <tr><td rowspan="3">Red cells</td><td>Volume</td><td>Valid for storage characteristics to maintain product within specifications for haemoglobin and haemolysis</td></tr>
 <tr><td>Haemoglobin (*)</td><td>Not less than 45 g per unit</td></tr>
@@ -480,6 +491,7 @@ Transport and distribution of blood and blood components at all stages of the tr
 <tr><td rowspan="2">Granulocytes, apheresis</td><td>Volume</td><td>Less than 500 ml</td></tr>
 <tr><td>Granulocyte content</td><td>Greater than 1 × 1010 granulocytes per unit</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 33, 8.2.2003, p. 30.
 

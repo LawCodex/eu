@@ -1,0 +1,67 @@
+---
+title: "Commission Regulation (EC) No 833/2007 of 16 July 2007 ending the transitional period provided for in Council Regulation (EC) No 1172/98 on statistical returns in respect of the carriage of goods by road (Text with EEA relevance)"
+identifier: "32007R0833"
+eli: "http://data.europa.eu/eli/reg/2007/833/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-07-16
+entry_into_force: 2007-07-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0833"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 833/2007 of 16 July 2007 ending the transitional period provided for in Council Regulation (EC) No 1172/98 on statistical returns in respect of the carriage of goods by road (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 833/2007**
+
+**of 16 July 2007**
+
+**ending the transitional period provided for in Council Regulation (EC) No 1172/98 on statistical returns in respect of the carriage of goods by road**
+
+**(Text with EEA relevance)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1172/98 of 25 May 1998 on statistical returns in respect of the carriage of goods by road (1), and in particular Article 5(4) and (5) thereof,
+
+Whereas:
+
+(1) Under Regulation (EC) No 1172/98, during a transitional period from 1 January 1999 Member States have been permitted to use simplified coding for places of loading and unloading; full regional coding has not been required for international transport within the EEA.
+
+(2) In accordance with Article 5(5) of Regulation (EC) No 1172/98, it is necessary to fix the date of expiry of the transitional period, now that the technical conditions exist to enable an effective system of regional coding to be used for both national and international transport in accordance with sections 1 and 2 of Annex G thereto.
+
+(3) It is necessary to ensure that Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (2), which entered into force in 2003, is applied.
+
+(4) This Regulation does not change the status or content of the variables which are declared optional in Regulation (EC) No 1172/98.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee set up by Council Decision 89/382/EEC, Euratom (3),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The transitional period referred to in Article 5 of Regulation (EC) No 1172/98 shall end on 31 December 2007.
+
+## Article 2
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 16 July 2007.
+
+For the Commission
+
+Joaquín ALMUNIA
+
+Member of the Commission
+
+(1) OJ L 163, 6.6.1998, p. 1. Regulation as last amended by Regulation (EC) No 1893/2006 of the European Parliament and of the Council (OJ L 393, 30.12.2006, p. 1).
+
+(2) OJ L 154, 21.6.2003, p. 1. Regulation as last amended by Commission Regulation (EC) No 105/2007 (OJ L 39, 10.2.2007, p. 1).
+
+(3) OJ L 181, 28.6.1989, p. 47.

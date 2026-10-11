@@ -32,10 +32,12 @@ concerning the importation into Member States of skins of certain seal pups and 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Council Directive 85/444/EEC of 27 September 1985</td><td> L 259</td><td>70</td><td>1.10.1985</td></tr>
 <tr><td></td><td>Council Directive 89/370/EEC of 8 June 1989</td><td> L 163</td><td>37</td><td>14.6.1989</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 

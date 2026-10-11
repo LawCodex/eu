@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(69/493/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006</td><td> L 363</td><td>81</td><td>20.12.2006</td></tr>
+</table>
 
 | A1 | Act of Accession of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |
@@ -107,6 +109,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — List of crystal categories
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td colspan="3">Description of category</td><td colspan="4">Characteristics</td><td colspan="2">Labelling</td></tr>
 <tr><td colspan="2"></td><td>Explanatory notes</td><td>Metal oxides (%)</td><td>Density</td><td>Refractive index</td><td>Surface hardness</td><td>Shape of symbol</td><td>Remarks</td></tr>
 <tr><td>—a—</td><td colspan="2">—b—</td><td>—c—</td><td>—d—</td><td>—e—</td><td>—f—</td><td>—g—</td><td>—h—</td><td>—i—</td></tr>
@@ -198,6 +201,7 @@ This Directive is addressed to the Member States.
 <tr><td colspan="2">CRISTALIN — STICLĂ SONORĂ  </td></tr>
 <tr><td colspan="10">(1) nD ≥ 1·545 as a criterion for an additional non-destructive determination of the products (at the time of import). (2) In Belgium.  (3) In the Netherlands. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — METHODS FOR DETERMINING THE CHEMICAL AND PHYSICAL PROPERTIES OF CATEGORIES OF CRYSTAL GLASS
 

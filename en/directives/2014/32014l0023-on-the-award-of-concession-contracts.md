@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2015/2172 of 24 November 2015 </td><td> L 307</td><td>9</td><td>25.11.2015</td></tr>
@@ -32,6 +33,7 @@ retrieved: 2026-10-11
 <tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1951 of 10 November 2021 </td><td> L 398</td><td>21</td><td>11.11.2021</td></tr>
 <tr><td> M5</td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2497 of 15 November 2023 </td><td> L 2497</td><td>1</td><td>16.11.2023</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2151 of 22 October 2025 </td><td> L 2151</td><td>1</td><td>23.10.2025</td></tr>
+</table>
 
 **DIRECTIVE 2014/23/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1293,6 +1295,7 @@ This Directive is addressed to the Member States.
 
 **LIST OF THE ACTIVITIES REFERRED TO IN POINT (7) OF ARTICLE 5 (1)**
 
+<table>
 <tbody><tr><td colspan="5">NACE Rev. 1 (2)</td><td rowspan="3">CPV code</td></tr>
 <tr><td colspan="3">SECTION F</td><td colspan="2">CONSTRUCTION</td></tr>
 <tr><td>Division</td><td>Group</td><td>Class</td><td>Subject</td><td>Notes</td></tr>
@@ -1321,6 +1324,7 @@ This Directive is addressed to the Member States.
 <tr><td>  </td><td>  </td><td>45.50</td><td>Renting of construction or demolition equipment with operator</td><td>This class excludes: — renting of construction or demolition machinery and equipment without operators, see 71.32. </td><td>45500000</td></tr>
 <tr><td colspan="6">(1)  In the event of any difference of interpretation between the CPV and the NACE, the CPV nomenclature will apply.  (2)  Council Regulation (EEC) No 3037/90 of 9 October 1990 on the statistical classification of economic activities in the European Community (OJ L 293, 24.10.1990, p. 1). </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -1406,6 +1410,7 @@ Rights which have been granted by means of a procedure in which adequate publici
 
 **SERVICES REFERRED TO IN ARTICLE 19**
 
+<table>
 <tbody><tr><td colspan="2"></td></tr>
 <tr><td>CPV Code</td><td>Description</td></tr>
 <tr><td colspan="2"></td></tr>
@@ -1426,6 +1431,7 @@ Rights which have been granted by means of a procedure in which adequate publici
 <tr><td>98900000-2 [Services provided by extra-territorial organisations and bodies] and 98910000-5 [Services specific to international organisations and bodies]</td><td>International services</td></tr>
 <tr><td colspan="2">(1)  These services are not covered by the present Directive where they are organised as non-economic services of general interest. Member States are free to organise the provision of compulsory social services or of other services as services of general interest or as non-economic services of general interest. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 

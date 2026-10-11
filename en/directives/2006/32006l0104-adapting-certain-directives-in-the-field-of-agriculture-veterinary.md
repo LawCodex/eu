@@ -112,6 +112,7 @@ J. KORKEAOJA
 
 **I. VETERINARY LEGISLATION**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>31964 L 0432: Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine (OJ P 121, 29.7.1964, p. 1977), as last amended and updated by:<table><tbody><tr><td>—</td><td>31997 L 0012: Council Directive 97/12/EC of 17.3.1997 (OJ L 109, 25.4.1997, p. 1),</td></tr>
 </tbody>
 </table>
@@ -167,7 +168,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>31990 L 0426: Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae (OJ L 224, 18.8.1990, p. 42), as amended by:<table><tbody><tr><td>—</td><td>31990 L 0425: Council Directive 90/425/EEC of 26.6.1990 (OJ L 224, 18.8.1990, p. 29),</td></tr>
 </tbody>
 </table>
@@ -204,7 +207,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>31990 L 0539: Council Directive 90/539/EEC of 15 October 1990 on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs (OJ L 303, 31.10.1990, p. 6), as amended by:<table><tbody><tr><td>—</td><td>31991 L 0494: Council Directive 91/494/EEC of 26.6.1991 (OJ L 268, 24.9.1991, p 35),</td></tr>
 </tbody>
 </table>
@@ -244,7 +249,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>31991 L 0068: Council Directive 91/68/EEC of 28 January 1991 on animal health conditions governing intra-Community trade in ovine and caprine animals (OJ L 46, 19.2.1991 p. 19), as amended by:<table><tbody><tr><td>—</td><td>31994 D 0164: Commission Decision 94/164/EC of 18.2.1994 (OJ L 74, 17.3.1994, p. 42),</td></tr>
 </tbody>
 </table>
@@ -284,7 +291,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>5.</td><td>31991 L 0496: Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organization of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC (OJ L 268, 24.9.1991, p. 56), as amended by:<table><tbody><tr><td>—</td><td>31991 L 0628: Council Directive 91/628/EEC of 19.11.1991 (OJ L 340, 11.12.1991, p. 17),</td></tr>
 </tbody>
 </table>
@@ -311,7 +320,9 @@ J. KORKEAOJA
 </table>
  Article 17b is deleted. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>31992 L 0035: Council Directive 92/35/EEC of 29 April 1992 laying down control rules and measures to combat African horse sickness (OJ L 157, 10.6.1992, p. 19), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -327,7 +338,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>31992 L 0040: Council Directive 92/40/EEC of 19 May 1992 introducing Community measures for the control of avian influenza (OJ L 167, 22.6.1992, p. 1), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -343,7 +356,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>8.</td><td>31992 L 0066: Council Directive 92/66/EEC of 14 July 1992 introducing Community measures for the control of Newcastle disease (OJ L 260, 5.9.1992, p. 1), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -359,7 +374,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>9.</td><td>31992 L 0119: Council Directive 92/119/EEC of 17 December 1992 introducing general Community measures for the control of certain animal diseases and specific measures relating to swine vesicular disease (OJ L 62, 15.3.1993, p. 69), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -378,7 +395,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>10.</td><td>31993 L 0053: Council Directive 93/53/EEC of 24 June 1993 introducing minimum Community measures for the control of certain fish diseases (OJ L 175, 19.7.1993, p. 23), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -409,7 +428,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>11.</td><td>31995 L 0070: Council Directive 95/70/EC of 22 December 1995 introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs (OJ L 332, 30.12.1995, p. 33), as amended by:<table><tbody><tr><td>—</td><td>32001 D 0293: Commission Decision 2001/293/EC of 30.3.2001 (OJ L 100, 11.4.2001, p. 30),</td></tr>
 </tbody>
 </table>
@@ -445,7 +466,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>12.</td><td>31996 L 0023: Council Directive 96/23/EC of 29 April 1996 on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives 85/358/EEC and 86/469/EEC and Decisions 89/187/EEC and 91/664/EEC (OJ L 125, 23.5.1996, p. 10), as amended by:<table><tbody><tr><td>—</td><td>32003 R 0806: Council Regulation (EC) No 806/2003 of 14.4.2003 (OJ L 122, 16.5.2003, p. 1),</td></tr>
 </tbody>
 </table>
@@ -457,7 +480,9 @@ J. KORKEAOJA
 </table>
  In Article 8(3), the following subparagraph is added after the second subparagraph:  ‘Bulgaria and Romania shall, for the first time by 31 March 2008, forward to the Commission the results of their residue and substance detection plans and of their control measures.’ </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>13.</td><td>31997 L 0078: Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries (OJ L 24, 30.1.1998, p. 9), as amended by:<table><tbody><tr><td>—</td><td>12003 T: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33),</td></tr>
 </tbody>
 </table>
@@ -472,7 +497,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>14.</td><td>32000 L 0075: Council Directive 2000/75/EC of 20 November 2000 laying down specific provisions for the control and eradication of bluetongue (OJ L 327, 22.12.2000, p. 74), as amended by:<table><tbody><tr><td>—</td><td>12003 T: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33).</td></tr>
 </tbody>
 </table>
@@ -508,13 +535,17 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>15.</td><td>32001 L 0089: Council Directive 2001/89/EC of 23 October 2001 on Community measures for the control of classical swine fever (OJ L 316, 1.12.2001, p. 5), as amended by:<table><tbody><tr><td>—</td><td>12003 T: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33).</td></tr>
 </tbody>
 </table>
  In Annex III point 1 the following is inserted between the entries for Belgium and the Czech Republic:  ‘Bulgaria  Национален диагностичен научноизследователски ветеринарномедицински институт“Проф. д-р Георги Павлов”, Национална референтна лаборатория“Класическа и африканска чума свине”, бул. “Пенчо Славейков” 15, София 1606  (National Diagnostic Veterinary Research Institute “Prof. Dr. Georgi Pavlov”, National Reference Laboratory for Classical Swine Fever and African Swine Fever, 15, Pencho Slaveykov Blvd., 1606 Sofia)’,  and, between the entries for Portugal and Slovenia:  ‘Romania  Institutul de Diagnostic şi Sănătate Animală, Strada Dr. Staicovici nr. 63, sector 5, codul 050557, Bucureşti’. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>16.</td><td>32002 L 0060: Council Directive 2002/60/EC of 27 June 2002 laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever (OJ L 192, 20.7.2002, p. 27), as amended by:<table><tbody><tr><td>—</td><td>12003 T: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33).</td></tr>
 </tbody>
 </table>
@@ -537,7 +568,9 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>17.</td><td>32003 L 0085: Council Directive 2003/85/EC of 29 September 2003 on Community measures for the control of foot-and-mouth disease repealing Directive 85/511/EEC and Decisions 89/531/EEC and 91/665/EEC and amending Directive 92/46/EEC (OJ L 306, 22.11.2003, p. 1), as amended by:<table><tbody><tr><td>—</td><td>32005 D 0615: Commission Decision 2005/615/EC of 16.8.2005 (OJ L 213, 18.8.2005, p. 14).</td></tr>
 </tbody>
 </table>
@@ -549,6 +582,7 @@ J. KORKEAOJA
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 18. | 32003 L 0099: Directive 2003/99/EC of the European Parliament and of the Council of 17 November 2003 on the monitoring of zoonoses and zoonotic agents, amending Council Decision 90/424/EEC and repealing Council Directive 92/117/EEC (OJ L 325, 12.12.2003, p. 31). In Article 9(1), the second sub-paragraph is replaced by the following: ‘Each Member State shall transmit to the Commission every year by the end of May, and for Bulgaria and Romania, for the first time, by the end of May 2008, a report on trends and sources of zoonoses, zoonotic agents and antimicrobial resistance, covering the data collected pursuant to Articles 4, 7, and 8 during the previous year. Reports, and any summaries of them, shall be made publicly available.’. |
 | --- | --- | --- |

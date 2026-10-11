@@ -122,6 +122,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘317</td><td>Metosulam CAS No: 139528-85-1  CIPAC No: 707 </td><td>2′,6′-dichloro-5,7-dimethoxy-3′-methyl[1,2,4]triazolo [1,5-a]pyrimidine-2-sulfonanilide </td><td>≥ 980 g/kg</td><td>1 May 2011</td><td>30 April 2021</td><td>PART A Only uses as herbicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on metosulam, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 October 2010 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>the protection of groundwater when the active substance is applied in regions with vulnerable soil and/or climatic conditions;</td></tr>
 </tbody>
@@ -140,5 +141,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

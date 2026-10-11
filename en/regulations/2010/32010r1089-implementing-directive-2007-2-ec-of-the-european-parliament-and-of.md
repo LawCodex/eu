@@ -1,0 +1,11933 @@
+---
+title: "Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+identifier: "32010R1089"
+eli: "http://data.europa.eu/eli/reg/2010/1089/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2010-11-23
+entry_into_force: 2010-09-01
+last_amended: 2023-11-19
+consolidated_version: "02010R1089-20231119"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R1089-20231119"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services
+
+**COMMISSION REGULATION (EU) No 1089/2010**
+
+**of 23 November 2010**
+
+**implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 102/2011 of 4 February 2011 </td><td> L 31</td><td>13</td><td>5.2.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1253/2013 of 21 October 2013 </td><td> L 331</td><td>1</td><td>10.12.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1312/2014 of 10 December 2014 </td><td> L 354</td><td>8</td><td>11.12.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2023/2431 of 24 October 2023 </td><td> L </td><td>1</td><td>30.10.2023</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 1089/2010**
+
+**of 23 November 2010**
+
+**implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services**
+
+## Article 1 — Subject Matter and Scope
+
+1\. This Regulation sets out the requirements for technical arrangements for the interoperability and, where practicable, harmonisation of spatial data sets and spatial data services corresponding to the themes listed in Annexes I, II and III to Directive 2007/2/EC.
+
+2\. This Regulation does not apply to the network services falling within the scope of Commission Regulation (EC) No 976/2009 ( 1 ).
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions as well as the theme-specific definitions set out in the Annexes shall apply:
+
+1\. ‘abstract type’ means a type that cannot be instantiated, but which may have attributes and association roles,
+
+2\. ‘association role’ means a value or object, to which a type has a relationship, as referred to in Article 8 (2b) of Directive 2007/2/EC,
+
+3\. ‘attribute’ means a characteristic of a type, as referred to in Article 8 (2c) of Directive 2007/2/EC,
+
+5\. ‘code list’ means a data type whose instances form a list of named literal values,
+
+6\. ‘data type’ means a descriptor of a set of values that lack identity, in accordance with ISO/TS 19103:2005  ,
+
+8\. ‘external object identifier’ means a unique object identifier which is published by the responsible body, which may be used by external applications to reference the spatial object,
+
+9\. ‘identifier’ means a linguistically independent sequence of characters capable of uniquely and permanently identifying that with which it is associated, in accordance with EN ISO 19135:2007  ,
+
+10\. ‘instantiate’ means to create an object that is conformant with the definition, attributes, association roles and constraints specified for the instantiated type,
+
+11\. ‘layer’ means a basic unit of geographic information that may be requested as a map from a server in accordance with EN ISO 19128:2008  ,
+
+12\. ‘life-cycle information’ means a set of properties of a spatial object that describe the temporal characteristics of a version of a spatial object or the changes between versions,
+
+13\. ‘metadata element’ means a discrete unit of metadata, in accordance with EN ISO 19115:2005/AC:2008  ,
+
+14\. ‘package’ means a general purpose mechanism for organizing elements into groups,
+
+15\. ‘register’ means a set of files containing identifiers assigned to items with descriptions of the associated items, in accordance with EN ISO 19135:2007  ,
+
+16\. ‘spatial object type’ means a classification of spatial objects,
+
+17\. ‘style’ means a mapping from spatial object types and their properties and constraints to parameterized symbols used in drawing maps,
+
+18\. ‘sub-type of’ means a relationship between a more specific type and a more general type, where the more specific type is fully consistent with the more general type and contains additional information, as adapted from ISO/TS 19103:2005  ,
+
+19\. ‘type’ means spatial object type or data type,
+
+20\. ‘voidable’ means that, for an attribute or association role a value of ‘void’ may be made available if no corresponding value is contained in the spatial data sets maintained by the Member States or no corresponding value can be derived from existing values at reasonable costs. If an attribute or association role is not voidable, the table cell specifying its voidability is left blank,
+
+21\. ‘property’ means attribute or association role,
+
+22\. ‘union type’ means a type consisting of one and only one of several alternatives (listed as member attributes), in accordance with ISO/TS 19103:2005,
+
+23\. ‘association class’ means a type that defines additional properties on a relationship between two other types,
+
+24\. ‘coverage’ means a spatial object that acts as a function to return values from its range for any direct position within its spatial, temporal or spatiotemporal domain, in accordance with ISO 19123:2007,
+
+25\. ‘domain’ means a well-defined set, in accordance with ISO/TS 19103:2005,
+
+26\. ‘range’ means a set of feature attribute values associated by a function with the elements of the domain of a coverage, in accordance with EN ISO 19123:2007,
+
+27\. ‘rectified grid’ means a grid for which there is an affine transformation between the grid coordinates and the coordinates of a coordinate reference system, in accordance with EN ISO 19123:2007,
+
+28\. ‘referenceable grid’ means a grid associated with a transformation that can be used to convert grid coordinate values into values of coordinates referenced to an external coordinate reference system, in accordance with EN ISO 19123:2007,
+
+29\. ‘tessellation’ means a partitioning of a space into a set of conterminous subspaces having the same dimension as the space being partitioned. A tessellation in a 2D space consists of a set of non-overlapping polygons that entirely cover a region of interest,
+
+30\. ‘narrower value’ means a value that has a hierarchical relationship to a more general parent value,
+
+31\. ‘end point’ means the internet address used to directly call an operation provided by a spatial data service,
+
+32\. ‘access point’ means an internet address containing a detailed description of a spatial data service, including a list of end points to allow its execution,
+
+33\. ‘Invocable spatial data service’ means all of the following:
+
+(a) a spatial data service with metadata which fulfils the requirements of Commission Regulation (EC) No 1205/2008 ( 2 ),
+
+(b) a spatial data service with at least one resource locator that is an access point,
+
+(c) a spatial data service in conformity with a documented and publicly available set of technical specifications providing the information necessary for its execution,
+
+34\. ‘interoperable spatial data service’ means an invocable spatial data service which fulfils the requirements of Annex VI,
+
+35\. ‘harmonised spatial data service’ means an interoperable spatial data service which fulfils the requirements of Annex VII,
+
+36\. ‘conformant spatial data set’ means a spatial data set which fulfils the requirements of this Regulation,
+
+37\. ‘operation’ means an action supported by a spatial data service,
+
+38\. ‘interface’ means the named set of operations that characterise the behaviour of an entity as defined by ISO 19119:2005.
+
+## Article 3 — Common Types
+
+Types that are common to several of the themes listed in Annexes I, II and III to Directive 2007/2/EC shall conform to the definitions and constraints and include the attributes and association roles set out in Annex I.
+
+## Article 4 — Types for the Exchange and Classification of Spatial Objects
+
+1\. For the exchange and classification of spatial objects from data sets meeting the conditions laid down in Article 4 of Directive 2007/2/EC, Member States shall use the spatial object types, associated data types and code lists that are defined in Annexes II, III and IV to this Regulation for the themes the data sets relate to.
+
+2\. When exchanging spatial objects, Member States shall comply with the definitions and constraints set out in the Annexes and provide values for all attributes and association roles set out for the relevant spatial object types and data types in the Annexes. For voidable attributes and association roles for which no value exists, Member States may omit the value.
+
+## Article 5 — Types
+
+1\. For all types defined in this Regulation, a language-neutral name for computers is given between parentheses in the title of the section specifying the requirements for that type. This language-neutral name shall be used for referring to the corresponding type in the definition of an attribute or association role.
+
+2\. Types that are a sub-type of another type shall also include all this type’s attributes and association roles.
+
+3\. Abstract types shall not be instantiated.
+
+## Article 6 — Code Lists for Spatial Data Sets
+
+1\. The code lists included in this Regulation set out the multilingual thesauri to be used for the key attributes, in accordance with Article 8(2), point (c), of Directive 2007/2/EC.
+
+2\. The Commission shall establish and operate an INSPIRE code list register at Union level for managing and making publicly available the values that are included in the code lists referred to in paragraph 1.
+
+3\. The Commission shall be assisted by the INSPIRE Commission expert group in the maintenance and update of the code list values.
+
+4\. Code lists shall be one of the following types:
+
+(a) code lists whose values comprise only the values specified in the INSPIRE code list register;
+
+(b) code lists whose values comprise the values specified in the INSPIRE code list register and narrower values defined by data providers;
+
+(c) code lists whose values comprise the values specified in the INSPIRE code list register and additional values at any level defined by data providers;
+
+(d) code lists, whose values comprise any values defined by data providers.
+
+5\. Code lists may be hierarchical. Values of hierarchical code lists may have a more general parent value.
+
+6\. Where, for an attribute whose type is a code list as referred to in paragraph 4, points (b), (c) or (d), a data provider provides a value that is not specified in the INSPIRE code list register, that value and its definition and label shall be made available in another register.
+
+## Article 7 — Encoding
+
+1\. Every encoding rule used to encode spatial data shall conform to EN ISO 19118. In particular, it shall specify schema conversion rules for all spatial object types and all attributes and association roles and the output data structure used.
+
+2\. Every encoding rule used to encode spatial data shall be made available.
+
+2a. Every encoding rule used to encode spatial data shall also specify whether and how to represent attributes and association roles for which a corresponding value exists but is not contained in the spatial data sets maintained by a Member State, or cannot be derived from existing values at reasonable costs.
+
+## Article 8 — Updates
+
+1\. Member States shall make available updates of data on a regular basis.
+
+2\. All updates shall be made at the latest 6 months after the change was applied in the source data set, unless a different period is specified for a specific spatial data theme in the Annexes  .
+
+3\. The updates of data shall be made available to all related spatial data services according to the deadline specified in paragraph 2.
+
+## Article 9 — Identifier Management
+
+1\. The data type Identifier defined in Section 2.1 of Annex I shall be used as a type for the external object identifier of a spatial object.
+
+2\. The external object identifier for the unique identification of spatial objects shall not be changed during the life-cycle of a spatial object.
+
+## Article 10 — Life-cycle of Spatial Objects
+
+1\. Different versions of the same spatial object shall always be instances of the same spatial object type.
+
+2\. The namespace and localId attributes of the external object identifier shall remain the same for different versions of a spatial object.
+
+3\. Where the attributes beginLifespanVersion and endLifespanVersion are used, the value of endLifespanVersion shall not be before the value of beginLifespanVersion.
+
+## Article 11 — Temporal Reference Systems
+
+1\. The default temporal reference system referred to in point 5 of part B of the Annex to Commission Regulation (EC) No 1205/2008 ( 3 ) shall be used, unless other temporal reference systems are specified for a specific spatial data theme in the Annexes  .
+
+2\. If other temporal reference systems are used, these shall be specified in the data set metadata.
+
+## Article 12 — Other Requirements & Rules
+
+1\. The value domain of spatial properties defined in this Regulation shall be restricted to the Simple Feature spatial schema as defined in Herring, John R. (ed.), OpenGIS® Implementation Standard for Geographic information – Simple feature access – Part 1: Common architecture, version 1.2.1, Open Geospatial Consortium, 2011, unless specified otherwise for a specific spatial data theme or type.
+
+2\. All measurement values shall be expressed using SI units or non-SI units accepted for use with the International System of Units  , unless specified otherwise for a specific spatial data theme or type.
+
+3\. Where the attributes validFrom and validTo are used, the value of validTo shall not be before the value of validFrom.
+
+4\. In addition, all theme-specific requirements set out in Annex II shall apply.
+
+## Article 13 — Metadata required for Interoperability
+
+The metadata describing a spatial data set shall include the following metadata elements required for interoperability:
+
+1\. Coordinate Reference System : Description of the coordinate reference system(s) used in the data set.
+
+2\. Temporal Reference System :
+
+Description of the temporal reference system(s) used in the data set.
+
+This element is mandatory only if the spatial data set contains temporal information that does not refer to the default temporal reference system.
+
+3\. Encoding : Description of the computer language construct(s) specifying the representation of data objects in a record, file, message, storage device or transmission channel.
+
+4\. Topological Consistency :
+
+Correctness of the explicitly encoded topological characteristics of the data set as described by the scope.
+
+This element is mandatory only if the data set includes types from the Generic Network Model and does not assure centreline topology (connectivity of centrelines) for the network.
+
+5\. Character Encoding :
+
+The character encoding used in the data set.
+
+This element is mandatory only if an encoding is used that is not based on UTF-8.
+
+6\. Spatial Representation Type : The method used to spatially represent geographic information.
+
+## Article 14 — Portrayal
+
+1\. For the portrayal of spatial data sets using a view network service as specified in Commission Regulation No 976/2009 ( 4 ), the following shall be available:
+
+(a) the layers specified in Annex II for the theme or themes the data set is related to;
+
+(b) for each layer at least a default portrayal style, with as a minimum an associated title and a unique identifier.
+
+2\. For each layer, Annex II defines the following:
+
+(a) a human readable title of the layer to be used for display in user interface;
+
+(b) the spatial object type(s), or sub-set thereof, that constitute(s) the content of the layer.
+
+3\. For spatial object types whose objects can be further classified using a code list-valued attribute, several layers may be defined. Each of these layers shall include the spatial objects corresponding to one specific code list value. In the definition of such sets of layers in Annexes II, III and IV, all of the following requirements shall be fulfilled:
+
+(a) the placeholder &lt;CodeListValue> shall represent the values of the relevant code list, with the first letter in upper case;
+
+(b) the placeholder &lt;human-readable name> shall represent the human-readable name of the code list values;
+
+(c) the spatial object type shall include the relevant attribute and code list, in parentheses;
+
+(d) one example of a layer shall be given.
+
+## Article 14a — Requirements for invocable spatial data services
+
+Not later than 10 December 2015, Member States shall provide the invocable spatial data services metadata in conformity with the requirements set out in Annex V.
+
+## Article 14b — Interoperability arrangements and harmonisation requirements for invocable spatial data services
+
+The invocable spatial data services relating to the data contained in at least one conformant spatial data set shall fulfil the interoperability requirements set out in Annexes V and VI and, where practicable, the harmonisation requirements set-out in Annex VII.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+It shall apply from 15 December 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**COMMON TYPES, DEFINITIONS AND REQUIREMENTS**
+
+**1\. TYPES DEFINED IN EUROPEAN AND INTERNATIONAL STANDARDS**
+
+The following common types, used in attributes or association roles of spatial object types or data types, are defined as follows:
+
+(1) For the types Any, Angle, Area, Boolean, CharacterString, Date, DateTime, Decimal, Distance, Integer, Length, Measure, Number, Probability, Real, RecordType, Sign, UnitOfMeasure, Velocity and Volume, the definitions given in ISO/TS 19103:2005 shall apply.
+
+(2) For the types DirectPosition, GM_Boundary, GM_Curve, GM_MultiCurve, GM_MultiSurface, GM_Object, GM_Point, GM_Position, GM_Primitive, GM_Solid, GM_Surface and GM_Tin, the definitions given in EN ISO 19107:2005 shall apply.
+
+(3) For the types TM_Duration, TM_GeometricPrimitive, TM_Instant, TM_Object, TM_Period and TM_Position, the definitions given in EN ISO 19108:2005/AC:2008 shall apply.
+
+(4) For the type GF_PropertyType, the definitions given in EN ISO 19109:2006 shall apply.
+
+(5) For the types CI_Citation, CI_Date, CI_RoleCode, EX_Extent, EX_VerticalExtent, MD_Distributor, MD_Resolution and URL, the definitions given in EN ISO 19115:2005/AC:2008 shall apply.
+
+(6) For the type CV_SequenceRule, the definitions given in EN ISO 19123:2007 shall apply.
+
+(7) For the type AbstractFeature, the definitions given in EN ISO 19136:2009 shall apply.
+
+(8) For the types LocalisedCharacterString, PT_FreeText and URI, the definitions given in CEN ISO/TS 19139:2009 shall apply.
+
+(9) For the type LC_LandCoverClassificationSystem, the definitions given in ISO 19144-2:2012 shall apply.
+
+(10) For the types GFI_Feature, Location, NamedValue, OM_Observation, OM_Process, SamplingCoverageObservation, SF_SamplingCurve, SF_SamplingPoint, SF_SamplingSolid, SF_SamplingSurface and SF_SpatialSamplingFeature, the definitions given in ISO 19156:2011 shall apply.
+
+(11) For the types Category, Quantity, QuantityRange and Time, the definitions given in Robin, Alexandre (ed.), OGC®SWE Common Data Model Encoding Standard, version 2.0.0, Open Geospatial Consortium, 2011 shall apply.
+
+(12) For the types TimeValuePair and Timeseries, the definitions given in Taylor, Peter (ed.), OGC® WaterML 2.0: Part 1 – Timeseries, v2.0.0, Open Geospatial Consortium, 2012 shall apply.
+
+(13) For the types CGI_LinearOrientation and CGI_PlanarOrientation, the definitions given in CGI Interoperability Working Group, Geoscience Markup Language (GeoSciML), version 3.0.0, Commission for the Management and Application of Geoscience Information (CGI) of the International Union of Geological Sciences, 2011 shall apply.
+
+**2\. COMMON DATA TYPES**
+
+**2.1. Identifier (Identifier)**
+
+External unique object identifier published by the responsible body, which may be used by external applications to reference the spatial object.
+
+Attributes of the data type Identifier
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| localId | A local identifier, assigned by the data provider. The local identifier is unique within the namespace, that is no other spatial object carries the same unique identifier. | CharacterString |  |
+| namespace | Namespace uniquely identifying the data source of the spatial object. | CharacterString |  |
+| versionId | The identifier of the particular version of the spatial object, with a maximum length of 25 characters. If the specification of a spatial object type with an external object identifier includes life-cycle information, the version identifier is used to distinguish between the different versions of a spatial object. Within the set of all versions of a spatial object, the version identifier is unique. | CharacterString | voidable |
+
+**2.2. Related Party (RelatedParty)**
+
+An organisation or a person with a role related to a resource.
+
+Attributes of the data type RelatedParty
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| individualName | Name of the related person. | PT_FreeText | voidable |
+| organisationName | Name of the related organisation. | PT_FreeText | voidable |
+| positionName | Position of the party in relation to a resource, such as head of department. | PT_FreeText | voidable |
+| contact | Contact information for the related party. | Contact | voidable |
+| role | Roles of the party in relation to a resource, such as owner. | PartyRoleValue | voidable |
+
+Constraints of the data type RelatedParty
+
+At least the individual, organisation or position name shall be provided.
+
+**2.3. Contact (Contact)**
+
+Communication channels by which it is possible to gain access to someone or something.
+
+Attributes of the data type Contact
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| address | An address provided as free text. | AddressRepresentation | voidable |
+| contactInstructions | Supplementary instructions on how or when to contact an individual or organisation. | PT_FreeText | voidable |
+| electronicMailAddress | An address of the organisation's or individual's electronic mailbox. | CharacterString | voidable |
+| hoursOfService | Periods of time when the organisation or individual can be contacted. | PT_FreeText | voidable |
+| telephoneFacsimile | Number of a facsimile machine of the organisation or individual. | CharacterString | voidable |
+| telephoneVoice | Telephone number of the organisation or individual. | CharacterString | voidable |
+| website | Pages provided on the World Wide Web by the organisation or individual. | URL | voidable |
+
+**2.4. Document Citation (DocumentCitation)**
+
+Citation for the purposes of unambiguously referencing a document.
+
+Attributes of the data type DocumentCitation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the document. | CharacterString |  |
+| shortName | Short name or alternative title of the document. | CharacterString | voidable |
+| date | Date of creation, publication or revision of the document. | CI_Date | voidable |
+| link | Link to an online version of the document | URL | voidable |
+| specificReference | Reference to a specific part of the document. | CharacterString | voidable |
+
+**2.5. Legislation Citation (LegislationCitation)**
+
+Citation for the purposes of unambiguously referencing a legal act or a specific part of a legal act.
+
+This type is a sub-type of DocumentCitation.
+
+Attributes of the data type LegislationCitation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| identificationNumber | Code used to identify the legislative instrument | CharacterString |  |
+| officialDocumentNumber | Official document number used to uniquely identify the legislative instrument. | CharacterString |  |
+| dateEnteredIntoForce | Date the legislative instrument entered into force. | TM_Position |  |
+| dateRepealed | Date the legislative instrument was repealed. | TM_Position |  |
+| level | The level at which the legislative instrument is adopted. | LegislationLevelValue |  |
+| journalCitation | Citation of the official journal in which the legislation is published. | OfficialJournalInformation |  |
+
+Constraints of the data type LegislationCitation
+
+If the link attribute is void, the journal citation shall be provided.
+
+**2.6. Official Journal Information (OfficialJournalInformation)**
+
+Full citation of the location of the legislative instrument within the official journal.
+
+Attributes of the data type OfficialJournalInformation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| officialJournalIdentification | Reference to the location within the official journal within which the legislative instrument was published. This reference shall be comprised of three parts: — the title of the official journal — the volume and/or series number — Page number(s) | CharacterString |  |
+| ISSN | The International Standard Serial Number (ISSN) is an eight-digit number that identifies the periodical publication in which the legislative instrument was published. | CharacterString |  |
+| ISBN | International Standard Book Number (ISBN) is an nine-digit number that uniquely identifies the book in which the legislative instrument was published. | CharacterString |  |
+| linkToJournal | Link to an online version of the official journal | URL |  |
+
+**2.7. Thematic Identifier (ThematicIdentifier)**
+
+Thematic identifier to uniquely identify the spatial object.
+
+Attributes of the data type ThematicIdentifier
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| identifier | Unique identifier used to identify the spatial object within the specified identification scheme. | CharacterString |  |
+| identifierScheme | Identifier defining the scheme used to assign the identifier. | CharacterString |  |
+
+**4\. COMMON CODE LISTS**
+
+**4.1. Vertical Position (VerticalPositionValue)**
+
+The relative vertical position of a spatial object.
+
+**4.2. Condition of Facility (ConditionOfFacilityValue)**
+
+The status of a facility with regards to its completion and use.
+
+**4.3. Country Code (CountryCode)**
+
+Country code as defined in the Interinstitutional Style Guide published by the Publications Office of the European Union.
+
+**4.4. Legislation Level (LegislationLevelValue)**
+
+The level at which a legal act or convention has been adopted.
+
+**4.5. Party Role (PartyRoleValue)**
+
+Roles of parties related to or responsible for a resource.
+
+The values for this code list comprise the values of the following code lists or other code lists specified by data providers:
+
+— Role Code (CI_RoleCode): Functions performed by a responsible party.
+
+— Role of a Related Party (RelatedPartyRoleValue): Classification of related party roles.
+
+**4.6. Climate and Forecast Standard Names (CFStandardNamesValue)**
+
+Definitions of phenomena observed in meteorology and oceanography.
+
+**4.7. Gender (GenderValue)**
+
+Gender of a person or group of persons.
+
+**5\. GENERIC NETWORK MODEL**
+
+**5.1. Spatial Object Types**
+
+5.1.1. Cross Reference (CrossReference)
+
+Represents a reference between two elements in the same network.
+
+**Association roles of the spatial object type CrossReference**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| element | The cross referenced elements | NetworkElement |  |
+
+5.1.2. Generalised Link (GeneralisedLink)
+
+Abstract base type representing a linear network element that may be used as a target in linear referencing.
+
+This type is a sub-type of NetworkElement.
+
+This type is abstract.
+
+5.1.3. Grade Separated Crossing (GradeSeparatedCrossing)
+
+Indicator which of two or more intersecting elements is/are below and which is/are above, to be used if elevation coordinates are not present or cannot be trusted.
+
+This type is a sub-type of NetworkElement.
+
+**Association roles of the spatial object type GradeSeparatedCrossing**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| element | Sequence of crossing links. The order reflects their elevation; the first link is the lower link. | Link |  |
+
+5.1.4. Link (Link)
+
+Curvilinear network element that connects two positions and represents a homogeneous path in the network. The connected positions may be represented as nodes.
+
+This type is a sub-type of GeneralisedLink.
+
+This type is abstract.
+
+**Attributes of the spatial object type Link**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| centrelineGeometry | The geometry that represents the centreline of the link. | GM_Curve |  |
+| fictitious | Indicator that the centreline geometry of the link is a straight line with no intermediate control points – unless the straight line represents the geography in the resolution of the data set appropriately. | Boolean |  |
+
+**Association roles of the spatial object type Link**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| endNode | The optional end node for this link. The end node may be the same instance as the start node. | Node |  |
+| startNode | The optional start node for this link. | Node |  |
+
+5.1.5. Link Sequence (LinkSequence)
+
+A network element which represents a continuous path in the network without any branches. The element has a defined beginning and end and every position on the link sequence is identifiable with one single parameter such as length.
+
+This type is a sub-type of GeneralisedLink.
+
+This type is abstract.
+
+**Attributes of the spatial object type LinkSequence**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| link | The ordered collection of directed links that constitute the link sequence. | DirectedLink |  |
+
+5.1.6. Link Set (LinkSet)
+
+A collection of link sequences and/or individual links that has a specific function or significance in a network.
+
+This type is a sub-type of NetworkElement.
+
+This type is abstract.
+
+**Association roles of the spatial object type LinkSet**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| link | The set of links and link sequences that constitute the link set. | GeneralisedLink |  |
+
+5.1.7. Network (Network)
+
+A network is a collection of network elements.
+
+**Attributes of the spatial object type Network**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geographicalName | Geographical name for this network. | GeographicalName | voidable |
+
+**Association roles of the spatial object type Network**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| elements | The collection of elements that constitutes the network. | NetworkElement |  |
+
+5.1.8. Network Area (NetworkArea)
+
+A 2-dimensional element in a network.
+
+This type is a sub-type of NetworkElement.
+
+This type is abstract.
+
+**Attributes of the spatial object type NetworkArea**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Represents the geometric properties of the area | GM_Surface |  |
+
+5.1.9. Network Connection (NetworkConnection)
+
+Represents a logical connection between two or more network elements in different networks.
+
+This type is a sub-type of NetworkElement.
+
+Attributes of the spatial object type NetworkConnection
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | Categorisation of the network connection. | ConnectionTypeValue | voidable |
+
+Association roles of the spatial object type NetworkConnection
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| element | Network elements in different networks | NetworkElement |  |
+
+Constraints of the spatial object type NetworkConnection
+
+All elements have to be in different networks
+
+5.1.10. Network Element (NetworkElement)
+
+Abstract base type representing an element in a network. Every element in a network provides some function that is of interest in the network.
+
+This type is abstract.
+
+**Attributes of the spatial object type NetworkElement**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+
+**Association roles of the spatial object type NetworkElement**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inNetwork | The networks in which a network element is a member. | Network | voidable |
+
+5.1.11. Network Property (NetworkProperty)
+
+Abstract base type representing phenomena located at or along a network element. This base type provides general properties to associate the network-related phenomena (network properties) with the network elements.
+
+This type is abstract.
+
+**Attributes of the spatial object type NetworkProperty**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| networkRef | Spatial reference of the network-related property. | NetworkReference | voidable |
+
+5.1.12. Node (Node)
+
+Represents a significant position in the network that always occurs at the beginning or the end of a link.
+
+This type is a sub-type of NetworkElement.
+
+This type is abstract.
+
+**Attributes of the spatial object type Node**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The location of the node. | GM_Point |  |
+
+**Association roles of the spatial object type Node**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| spokeEnd | The links that enter the node. | Link | voidable |
+| spokeStart | The links that leave the node. | Link | voidable |
+
+**5.2. Data Types**
+
+5.2.1. Directed Link (DirectedLink)
+
+A link either in its positive or negative direction.
+
+**Attributes of the data type DirectedLink**
+
+| Attribute | Definition | Type Voidability | Voidability |
+| --- | --- | --- | --- |
+| direction | Indicates if the directed link agrees (positive) or disagrees (negative) with the positive direction of the link. | Sign |  |
+
+**Association roles of the data type DirectedLink**
+
+| Association role | Definition | Type Voidability | Voidability |
+| --- | --- | --- | --- |
+| link | The link | Link |  |
+
+5.2.2. Link Reference (LinkReference)
+
+A network reference to a linear network element.
+
+This type is a sub-type of NetworkReference.
+
+Attributes of the data type LinkReference
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| applicableDirection | The directions of the generalised link to which the reference applies. In cases where a property does not apply to a direction along a link, but represents a phenomenon along a link, ‘inDirection’ refers to the right side in the direction of the link. | LinkDirectionValue | voidable |
+
+Constraints of the data type LinkReference
+
+Linear reference targets must be linear network elements. That is, if linear referencing is used or direction is relevant, the target of the network reference shall be a link or a link sequence.
+
+5.2.3. Network Reference (NetworkReference)
+
+A reference to a network element.
+
+**Association roles of the data type NetworkReference**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| element | The referenced network element. | NetworkElement |  |
+
+5.2.4. Simple Linear Reference (SimpleLinearReference)
+
+A network reference that is restricted to part of a linear network element. The part is the part of the network element between fromPosition and toPosition.
+
+This type is a sub-type of LinkReference.
+
+**Attributes of the data type SimpleLinearReference**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| fromPosition | The start position of the linear element, expressed as the distance from the start of the linear network element along its curve geometry. | Length |  |
+| offset | An offset from the centreline geometry of the generalised link, where applicable; a positive offset is to the right in the direction of the link, a negative offset is to the left. | Length | voidable |
+| toPosition | The end position of the linear element, expressed as the distance from the start of the linear network element along its curve geometry. | Length |  |
+
+5.2.5. Simple Point Reference (SimplePointReference)
+
+A network reference that is restricted to a point on a linear network element. The point is the location on the network element at the position atPosition along the network.
+
+This type is a sub-type of LinkReference.
+
+**Attributes of the data type SimplePointReference**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| atPosition | Position of the point, expressed as the distance from the start of the linear network element along its curve geometry. | Length |  |
+| offset | An offset from the centreline geometry of the generalised link, where applicable; a positive offset is to the right in the direction of the link, a negative offset is to the left. | Length | voidable |
+
+**5.3. Code Lists**
+
+5.3.1. Connection Type (ConnectionTypeValue)
+
+Types of connections between different networks.
+
+5.3.2. Link Direction (LinkDirectionValue)
+
+List of values for directions relative to a link.
+
+**6\. COVERAGE MODEL**
+
+The INSPIRE coverage model consists of the following packages:
+
+— Coverages (Base)
+
+— Coverages (Domain And Range)
+
+**6.1. Coverages (Base)**
+
+6.1.1. Spatial object types
+
+The package Coverages (Base) contains the spatial object type Coverage.
+
+6.1.1.1. Coverage (Coverage)
+
+Spatial object that acts as a function to return values from its range for any direct position within its spatial, temporal or spatiotemporal domain.
+
+This type is abstract.
+
+Attributes of the spatial object type Coverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| metadata | Application specific metadata of the coverage. | Any |  |
+| rangeType | Description of the structure of the range values. | RecordType |  |
+
+**6.2. Coverages (Domain And Range)**
+
+6.2.1. Spatial object types
+
+The package Coverages (Domain and Range) contains the following spatial object types:
+
+— Coverage (Domain And Range Representation)
+
+— Rectified Grid Coverage
+
+— Referenceable Grid Coverage
+
+6.2.1.1. Coverage (Domain And Range Representation) (CoverageByDomainAndRange)
+
+Coverage which provides the domain and range as separate properties.
+
+This type is a sub-type of Coverage.
+
+This type is abstract.
+
+Attributes of the spatial object type CoverageByDomainAndRange
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| coverageFunction | Description of how range values at locations in the coverage domain can be obtained. | CoverageFunction |  |
+| domainSet | Configuration of the domain of the coverage described in terms of coordinates. | Any |  |
+| rangeSet | Set of values associated by a function with the elements of the domain of the coverage. | Any |  |
+
+Constraints of the spatial object type CoverageByDomainAndRange
+
+The grid function shall only be valid for domains that are grids.
+
+6.2.1.2. Rectified Grid Coverage (RectifiedGridCoverage)
+
+Coverage whose domain consists of a rectified grid.
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Constraints of the spatial object type RectifiedGridCoverage
+
+The domain shall be a rectified grid.
+
+Grid points of a RectifiedGridCoverage shall coincide with the centres of cells of the geographical grids defined in Section 2.2 of Annex II at any resolution level.
+
+6.2.1.3. Referenceable Grid Coverage (ReferenceableGridCoverage)
+
+Coverage whose domain consists of a referenceable grid.
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Constraints of the spatial object type ReferenceableGridCoverage
+
+The domain shall be a referenceable grid.
+
+6.2.2. Data types
+
+6.2.2.1. Coverage Function (CoverageFunction)
+
+Description of how range values at locations in the coverage domain can be obtained.
+
+This type is a union type.
+
+Attributes of the union type CoverageFunction
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ruleDefinition | A formal or informal description of the coverage function as text. | CharacterString |  |
+| ruleReference | A formal or informal description of the coverage function as reference. | URI |  |
+| gridFunction | Mapping rule for grid geometries. | GridFunction |  |
+
+6.2.2.2. Grid Function (GridFunction)
+
+An explicit mapping rule for grid geometries.
+
+Attributes of the data type GridFunction
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| sequenceRule | Description of how the grid points are ordered for association to the elements of the values in the range set of the coverage. | CV_SequenceRule |  |
+| startPoint | The grid point to be associated with the first record in the range set of the coverage. | Integer |  |
+
+**7\. OBSERVATIONS MODEL**
+
+The INSPIRE observations model consists of the following packages:
+
+— Observation References
+
+— Processes
+
+— Observable Properties
+
+— Specialised Observations
+
+**7.1. Observation References**
+
+7.1.1. Spatial object types
+
+The package Observation References contains the spatial object type Observation Set.
+
+7.1.1.1. Observation Set (ObservationSet)
+
+Links a set of Observations.
+
+Attributes of the spatial object type ObservationSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Information about the spatial and temporal extent. | EX_Extent |  |
+
+Association roles of the spatial object type ObservationSet
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| member | One member of the ObservationSet. | OM_Observation |  |
+
+**7.2. Processes**
+
+7.2.1. Spatial object types
+
+The package Processes contains the spatial object type Process.
+
+7.2.1.1. Process (Process)
+
+Description of an observation process.
+
+This type is a sub-type of OM_Process.
+
+Attributes of the spatial object type Process
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier | voidable |
+| name | Name of the Process. | CharacterString | voidable |
+| type | Type of process. | CharacterString | voidable |
+| documentation | Further information (online/offline) associated with the process. | DocumentCitation | voidable |
+| processParameter | Parameter controlling the application of the process and, as a consequence its output. | ProcessParameter | voidable |
+| responsibleParty | Individual or organisation related to the process. | RelatedParty | voidable |
+
+7.2.2. Data types
+
+7.2.2.1. Process Parameter (ProcessParameter)
+
+Description of the given parameter
+
+Attributes of the data type ProcessParameter
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the process parameter. | ProcessParameterNameValue |  |
+| description | Description of the process parameter. | CharacterString |  |
+
+7.2.3. Code Lists
+
+7.2.3.1. Process Parameter Name (ProcessParameterNameValue)
+
+A code list of names of process parameters.
+
+**7.3. Observable Properties**
+
+7.3.1. Data types
+
+7.3.1.1. Constraint (Constraint)
+
+A constraint on some property e.g. wavelength = 200 nm.
+
+Attributes of the data type Constraint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| constrainedProperty | The property being constrained. e.g. ‘colour’ if the constraint is ‘colour = blue’. | PhenomenonTypeValue |  |
+| label | A human readable title for the constraint as a whole. | CharacterString |  |
+
+7.3.1.2. Category Constraint (CategoryConstraint)
+
+A constraint based on some qualifying category. e.g. colour = ‘red’.
+
+This type is a sub-type of Constraint.
+
+Attributes of the data type CategoryConstraint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| comparison | A comparison operator. In the case of a category constraint it should be ‘equalTo’ or ‘notEqualTo’. | ComparisonOperatorValue |  |
+| value | The value of the property that is constrained e.g. ‘blue’ (if the constrained property is colour). | CharacterString |  |
+
+7.3.1.3. Range Constraint (RangeConstraint)
+
+A numerical range constraint on some property e.g. wavelength ≥ 300 nm and wavelength ≤ 600 nm.
+
+This type is a sub-type of Constraint.
+
+Attributes of the data type RangeConstraint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | The numerical value range of the property that is constrained. | RangeBounds |  |
+| uom | Units of measure used in the constraint. | UnitOfMeasure |  |
+
+7.3.1.4. Range Bounds (RangeBounds)
+
+The start and end bounding values of a numerical range (e.g. start ≥ 50, end ≤ 99).
+
+Attributes of the data type RangeBounds
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| startComparison | The comparator used for the lower range limit (e.g. greaterThanOrEqualTo). | ComparisonOperatorValue |  |
+| rangeStart | The lower limit of the range. | Real |  |
+| endComparison | The comparator used for the upper range limit (e.g. lessThan). | ComparisonOperatorValue |  |
+| rangeEnd | The upper limit of the range. | Real |  |
+
+7.3.1.5. Scalar Constraint (ScalarConstraint)
+
+A numerical scalar constraint on some property e.g. length ≥ 1 m.
+
+This type is a sub-type of Constraint.
+
+Attributes of the data type ScalarConstraint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | The numerical value of the property that is constrained. | Real |  |
+| comparison | The comparator to be used in the constraint e.g. greaterThan. | ComparisonOperatorValue |  |
+| uom | Units of measure used in the constraint. | UnitOfMeasure |  |
+
+7.3.1.6. Other Constraint (OtherConstraint)
+
+A constraint which is not modelled in a structured way but may be described using the freetext ‘description’ attribute.
+
+This type is a sub-type of Constraint.
+
+Attributes of the data type OtherConstraint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| description | A description of the constraint. | CharacterString |  |
+
+7.3.1.7. Statistical Measure (StatisticalMeasure)
+
+A description of some statistical measure e.g. ‘daily maximum’.
+
+Attributes of the data type StatisticalMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| label | A human readable title for the statistical measure. | CharacterString |  |
+| statisticalFunction | A statistical function e.g. mean. | StatisticalFunctionTypeValue |  |
+| aggregationTimePeriod | A temporal range over which a statistic is calculated. e.g. a day, an hour. | TM_Duration |  |
+| aggregationLength | A one dimensional spatial range over which a statistic is calculated, for example 1 metre. | Length |  |
+| aggregationArea | A two dimensional spatial range over which a statistic is calculated, for example 1 square metre. | Area |  |
+| aggregationVolume | A three dimensional spatial range over which a statistic is calculated, for example 1 cubic metre. | Volume |  |
+| otherAggregation | Any other type of aggregation. | Any |  |
+
+Association roles of the data type StatisticalMeasure
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| derivedFrom | One statistical measure may be derived from another, e.g. monthly maximum temperatures may be derived from daily mean temperatures. | StatisticalMeasure |  |
+
+7.3.1.8. Abstract Observable Property (AbstractObservableProperty)
+
+An abstract class that represents an observable property (or phenomenon).
+
+This type is abstract.
+
+**Attributes of the data type AbstractObservableProperty**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| label | A human readable title for the observable property. | CharacterString |  |
+
+7.3.1.9. Composite Observable Property (CompositeObservableProperty)
+
+A composite of multiple Observable Properties.
+
+This type is a sub-type of AbstractObservableProperty.
+
+**Attributes of the data type CompositeObservableProperty**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| count | Number of components in this composite. | Integer |  |
+
+**Association roles of the data type CompositeObservableProperty**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| component | Observable properties which together compose the same observable property, for example U,V winds. | AbstractObservableProperty |  |
+
+7.3.1.10. Observable Property (ObservableProperty)
+
+Represents a single observable property e.g. ‘temperature’.
+
+This type is a sub-type of AbstractObservableProperty.
+
+**Attributes of the data type ObservableProperty**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| basePhenomenon | The phenomenon that the Observable Property description builds upon | PhenomenonTypeValue |  |
+| uom | The unit of measure | UnitOfMeasure |  |
+
+**Association roles of the data type ObservableProperty**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| restriction | A constraint applied to the Observable Property. | Constraint |  |
+| statisticalMeasure | Statistical measure applied to the Observable Property, e.g. ‘daily mean temperature’. | StatisticalMeasure |  |
+
+7.3.3. Code Lists
+
+7.3.3.1. Phenomenon Type (PhenomenonTypeValue)
+
+A code list of phenomena (e.g. temperature, wind speed).
+
+This code list comprises the values of the following code lists or other code lists defined by data providers:
+
+— Climate and Forecast Standard Names (CFStandardNamesValue): Definitions of phenomena observed in meteorology and oceanography, as specified in Section 4.5 of this Annex.
+
+— Profile Element Parameter Name (ProfileElementParameterNameValue): Properties that can be observed to characterise the profile element, as specified in Section 3.3.8 of Annex IV.
+
+— Soil Derived Object Parameter Name (SoilDerivedObjectParameterNameValue): Soil-related properties that can be derived from soil and other data, as specified in Section 3.3.9 of Annex IV.
+
+— Soil Profile Parameter Name (SoilProfileParameterNameValue): Properties that can be observed to characterise the soil profile, as specified in Section 3.3.12 of Annex IV.
+
+— Soil Site Parameter Name (SoilSiteParameterNameValue): Properties that can be observed to characterise the soil site, as specified in Section 3.3.13 of Annex IV.
+
+— EU Air Quality Reference Component (EU_AirQualityReferenceComponentValue): Definitions of phenomena regarding air quality in the context of reporting under Union legislation, as specified in Section 13.2.1.1 of Annex IV.
+
+— WMO GRIB Code and Flags Table 4.2 (GRIB_CodeTable4_2Value): Definitions of phenomena observed in meteorology, as specified in Section 13.2.1.2 of Annex IV.
+
+— BODC P01 Parameter Usage (BODC_P01ParameterUsageValue): Definitions of phenomena observed in oceanography, as specified in Section 14.2.1.1 of Annex IV.
+
+7.3.3.2. Statistical Function Type (StatisticalFunctionTypeValue)
+
+A code list of statistical functions (e.g. maximum, minimum, mean).
+
+7.3.3.3 Comparison Operator (ComparisonOperatorValue)
+
+Acode list of comparison operators (e.g. greater than, less than, equal to).
+
+**7.4. Specialised Observations**
+
+7.4.1. Spatial object types
+
+The package Specialised Observations contains the following spatial object types:
+
+— Grid Observation
+
+— Grid Series Observation
+
+— Point Observation
+
+— Point Observation Collection
+
+— Multi Point Observation
+
+— Point Time Series Observation
+
+— Profile Observation
+
+— Trajectory Observation
+
+7.4.1.1. Grid Observation (GridObservation)
+
+Observation representing a gridded field at a single time instant.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type GridObservation
+
+featureOfInterest shall be a SF_SamplingSolid or SF_SamplingSurface.
+
+phenomenonTime shall be a TM_Instant.
+
+result shall be a RectifiedGridCoverage or RefererencableGridCoverage.
+
+7.4.1.2. Grid Series Observation (GridSeriesObservation)
+
+Observation representing an evolving gridded field at a succession of time instants.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type GridSeriesObservation
+
+featureOfInterest shall be a SF_SamplingSolid.
+
+phenomenonTime shall be a TM_Period.
+
+result shall be a RectifiedGridCoverage or a ReferenceableGridCoverage.
+
+7.4.1.3. Point Observation (PointObservation)
+
+Observation that represents a measurement of a property at a single point in time and space.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type PointObservation
+
+featureOfInterest shall be a SF_SamplingPoint.
+
+phenomenonTime shall be a TM_Instant.
+
+7.4.1.4. Point Observation Collection (PointObservationCollection)
+
+A collection of Point Observations.
+
+This type is a sub-type of ObservationSet.
+
+Constraints of the spatial object type PointObservationCollection
+
+Each member shall be a PointObservation.
+
+7.4.1.5. Multi Point Observation (MultiPointObservation)
+
+Observation that represents a set of measurements all made at exactly the same time but at different locations.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type MultiPointObservation
+
+featureOfInterest shall be a SF_SamplingCurve, SF_SamplingSurface or SF_SamplingSolid.
+
+phenomenonTime shall be a TM_Instant
+
+result shall be a MultiPointCoverage.
+
+7.4.1.6. Point Time Series Observation (PointTimeSeriesObservation)
+
+Observation that represents a time-series of point measurements of a property at a fixed location in space.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type PointTimeSeriesObservation
+
+featureOfInterest shall be a SF_SamplingPoint.
+
+phenomenonTime shall be a TM_Period.
+
+result shall be a Timeseries.
+
+7.4.1.7. Profile Observation (ProfileObservation)
+
+Observation representing the measurement of a property along a vertical profile in space at a single time instant.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type ProfileObservation
+
+featureOfInterest shall be a SF_SamplingCurve.
+
+phenomenonTime shall be a TM_Instant.
+
+result shall be a ReferenceableGridCoverage or a RectifiedGridCoverage.
+
+Spatial domain of the result shall contain one axis and that shall be vertical.
+
+7.4.1.8. Trajectory Observation (TrajectoryObservation)
+
+Observation representing the measurement of a property along a meandering curve in time and space.
+
+This type is a sub-type of SamplingCoverageObservation.
+
+Constraints of the spatial object type TrajectoryObservation
+
+phenomenonTime shall be a TM_Period.
+
+result shall be a Timeseries.
+
+each point in the result shall be a TimeLocationValueTriple.
+
+featureOfInterest shall be a SF_Sampling Curve.
+
+7.4.2. Data types
+
+7.4.2.1. Time Location Value Triple (TimeLocationValueTriple)
+
+A triple set of Time, location, value (measurement). For example, at a point along a trajectory.
+
+This type is a sub-type of TimeValuePair.
+
+Attributes of the data type TimeLocationValueTriple
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| location | Geographic location where value is valid. | GM_Position |  |
+
+**7.5. Requirements for Observations**
+
+Where the OM_Observation type or any sub-type thereof is used to make data available, the following requirements shall apply:
+
+(1) The Process type shall be used to indicate the procedure used in an OM_Observation.
+
+(2) Where reference is made to an EnvironmentalMonitoringFacility from an OM_Observation, a parameter attribute shall be provided, whose name attribute is ‘relatedMonitoringFeature’ and whose value attribute is of type AbstractMonitoringFeature.
+
+(3) For all encodings that are used for all or part of an OM_Observation result, a public Application Programming Interface (API) shall be available to read the encoded file. This API shall be capable of exposing the information needed to realise INSPIRE spatial objects.
+
+(4) If the processParameter attribute is present in the procedure property of an OM_Observation object, its value (a name) shall be included in the parameter attribute of the OM_Observation object.
+
+**8\. ACTIVITY COMPLEX MODEL**
+
+The INSPIRE activity complex model contains the package Activity Complex.
+
+**8.1. Activity Complex**
+
+8.1.1. Spatial object types
+
+The package Activity Complex contains the spatial object type Activity Complex.
+
+8.1.1.1. Activity Complex (ActivityComplex)
+
+A single unit, both technically and economically, under the management control of a legal entity (operator), covering activities as those listed in the Eurostat NACE classification established by Regulation (EC) No 1893/2006 of the European Parliament and of the Council ( 5 ). Activity Complex must represent the whole area, at the same or different geographical location, managed by the same operator including all infrastructure, equipment and materials.
+
+Attributes of the spatial object type ActivityComplex
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic identifier of the activity complex. | ThematicIdentifier |  |
+| geometry | The geometry used to define the extent or position of the activity complex. | GM_Object |  |
+| function | Activities performed by the activity complex. Function is described by the activity and potentially complemented with information about inputs and outputs as result of it. | Function |  |
+| name | Descriptive name of the activity complex. | CharacterString | voidable |
+| validFrom | The time when the activity complex started to exist in the real world. | DateTime | voidable |
+| validTo | The time when the activity complex no longer exists in the real world. | DateTime | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+8.1.2. Data types
+
+8.1.2.1. Function (Function)
+
+The function of something expressed as an activity and optional input and/or output.
+
+Attributes of the data type Function
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activity | Categorized description of individual or organized set of technically related processes that are carried out by a economical unit, private or public, profit or non profit character. | EconomicActivityValue |  |
+| input | Any classified or registered material that enters a technical and economical unit according to its function. | InputOutputValue | voidable |
+| output | Any classified or registered material that leaves a technical and economical unit according to its function. | InputOutputValue | voidable |
+| description | A more detailed description of the function. | PT_FreeText | voidable |
+
+8.1.2.2. Capacity (Capacity)
+
+A quantification of an actual or potential ability to perform an activity, that typically does not change, does not change often, or does not change to a significant degree.
+
+Attributes of the data type Capacity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activity | Categorized description of individual or organized set of technically related processes that are carried out by a economical unit, private or public, profit or non profit character. | EconomicActivityValue |  |
+| input | Measurable information about any classified or registered material that enters a technical and economical unit according to its function. | InputOutputAmount |  |
+| output | Measurable information about any classified or registered material that leaves a technical and economical unit according to its function. | InputOutputAmount |  |
+| time | The duration of time to which the specified capacity refers, such as 1 year for an annual capacity. | TM_Duration |  |
+| description | A description of the capacity. | PT_FreeText | voidable |
+
+8.1.2.3. Amount Of Input Or Output (InputOutputAmount)
+
+Type and, where available, measurable amount of a classified or registered material that enters or leaves a technical and economical unit.
+
+Attributes of the data type InputOutputAmount
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inputOutput | A classified or registered material that enters or leaves a technical and economical unit according to its function. | InputOutputValue |  |
+| amount | The amount (such as a volume or mass) of the classified or registered material that enters or leaves a technical and economical unit. | Measure | voidable |
+
+8.1.2.4. Permission (Permission)
+
+Official Decision (formal consent) granting authorization to operate all or part of an Activity Complex, subject to certain conditions which guarantee that the installations or parts of installations on the same site operated by the same operator comply with the requirements fixed by a competent authority. A permit may cover one or more functions and fix parameters of capacity. The term could be extended to other kind of certificates or documents of special relevance depending of the scope (e.g. ISO, EMAS, National Quality Standards, etc).
+
+Attributes of the data type Permission
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| id | Identifying reference to the permission. | ThematicIdentifier |  |
+| relatedParty | Parties related to the permission granted to the activity complex open to many different roles, such as Competent Authorities or Company among others | RelatedParty | voidable |
+| decisionDate | Temporal reference that complements the definition of the permission. | DateTime | voidable |
+| dateFrom | A date starting from which the permission applies and is valid. | DateTime | voidable |
+| dateTo | A date up to which the permission applies and is valid. | DateTime | voidable |
+| description | A description of the permission. | PT_FreeText | voidable |
+| permittedFunction | Function/s to which the permission is granted. | Function | voidable |
+| permittedCapacity | Maximum amounts of activity input and/or output according to the permission. | Capacity | voidable |
+
+8.1.2.5. Activity Complex Description (ActivityComplexDescription)
+
+Additional information about an activity complex, including its description, address, contact details and related parties.
+
+Attributes of the spatial object type ActivityComplexDescription
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| description | A complementary definition of the ‘Activity Complex’ and its characteristics. | PT_FreeText | voidable |
+| address | An address for the activity complex, i.e., an address where the activities occur. | AddressRepresentation | voidable |
+| contact | Contact information for the activity complex. | Contact | voidable |
+| relatedParty | Information of Parties related to the Activity Complex. It is open to many different roles, such as owners, operators or Competent Authorities. | RelatedParty | voidable |
+
+8.1.3. Code lists
+
+8.1.3.1. Economic Activity (EconomicActivityValue)
+
+Classification of economic activities.
+
+The allowed values for this code list comprise the values of the following code lists or other code lists specified by data providers:
+
+— EU Economic Activity Classification (EconomicActivityNACEValue): Economic activities according to Eurostat NACE Classification values, as specified in Regulation (EC) No 1893/2006 of the European Parliament and of the Council ( 6 ).
+
+— EU Waste Statistics Economic Activity Classification (EconomicActivityWasteStatisticsValue): Classification of economic activities according to Section 8 of Annex I of Regulation (EC) No 2150/2002 ( 7 ).
+
+— EU Waste Recovery Disposal Classification (WasteRecoveryDisposalValue): Classification of waste recovery and disposal operations according to Annexes I and II of Directive 2008/98/EC of the European Parliament and of the Council ( 8 ).
+
+8.1.3.2. Input Or Output (InputOutputValue)
+
+Classification of inputs or outputs.
+
+The allowed values for this code list comprise the values of the following code lists or other code lists specified by data providers.
+
+— EU Product Classification (ProductCPAValue): Classification of Products by Economical Activity according to Regulation (EC) No 451/2008 of the European Parliament and of the Council ( 9 ).
+
+— EU Waste Classification (WasteValue): Classification of Wastes according to Decision 2000/532/EC ( 10 ).
+
+**8.2. Requirements for Activity Complexes**
+
+If a data provider uses a sub-type of ActivityComplex to make available information on the status, physical capacity, permissions and/or additional information, the relevant code lists and data types (ConditionOfFacilityValue, Capacity, Permission, ActivityComplexDescription) included in the package Activity Complex shall be used.
+
+## ANNEX II
+
+**REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN ANNEX I TO DIRECTIVE 2007/2/EC**
+
+**1\. COORDINATE REFERENCE SYSTEMS**
+
+**1.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+— ‘datum’ means a parameter or set of parameters that define the position of the origin, the scale, and the orientation of a coordinate system, in accordance with EN ISO 19111,
+
+— ‘geodetic datum’ means a datum describing the relationship of a coordinate system to the Earth, in accordance with EN ISO 19111,
+
+— ‘coordinate system’ means a set of mathematical rules for specifying how coordinates are to be assigned to points, in accordance with EN ISO 19111,
+
+— ‘coordinate reference system’ means a coordinate system which is related to the real world by a datum, in accordance with EN ISO 19111. This definition includes coordinate systems based on geodetic or Cartesian coordinates and coordinate systems based on map projections.
+
+— ‘map projection’ means a change of coordinates, based on a one-to-one relationship, from a geodetic coordinate system to a plane, based on the same datum, in accordance with EN ISO 19111,
+
+— ‘compound coordinate reference system’ means a coordinate reference system using two other independent coordinate reference systems, one for the horizontal component and one for the vertical component, to describe a position, in accordance with EN ISO 19111,
+
+— ‘geodetic coordinate system’ means a coordinate system in which position is specified by geodetic latitude, geodetic longitude and (in the three-dimensional case) ellipsoidal height, in accordance with EN ISO 19111,
+
+— ‘mean sea level’ (MSL) means the average height of the surface of the sea at a tide station for all stages of the tide over a 19-year period, usually determined from hourly height readings measured from a fixed predetermined reference level (chart datum),
+
+— ‘lowest astronomical tide’ (LAT) means the lowest tide level which can be predicted to occur under average meteorological conditions and under any combination of astronomical conditions.
+
+**1.2. Datum for three-dimensional and two-dimensional coordinate reference systems**
+
+For the three-dimensional and two-dimensional coordinate reference systems and the horizontal component of compound coordinate reference systems used for making spatial data sets available, the datum shall be the datum of the European Terrestrial Reference System 1989 (ETRS89) in areas within its geographical scope, or the datum of the International Terrestrial Reference System (ITRS) or other geodetic coordinate reference systems compliant with ITRS in areas that are outside the geographical scope of ETRS89. Compliant with the ITRS means that the system definition is based on the definition of the ITRS and there is a well documented relationship between both systems, according to EN ISO 19111.
+
+**1.3. Coordinate Reference Systems**
+
+Spatial data sets shall be made available using at least one of the coordinate reference systems specified in sections 1.3.1, 1.3.2 and 1.3.3, unless one of the conditions specified in section 1.3.4 holds.
+
+1.3.1. Three-dimensional Coordinate Reference Systems
+
+— Three-dimensional Cartesian coordinates based on a datum specified in 1.2 and using the parameters of the Geodetic Reference System 1980 (GRS80) ellipsoid.
+
+— Three-dimensional geodetic coordinates (latitude, longitude and ellipsoidal height) based on a datum specified in 1.2 and using the parameters of the GRS80 ellipsoid.
+
+1.3.2. Two-dimensional Coordinate Reference Systems
+
+— Two-dimensional geodetic coordinates (latitude and longitude) based on a datum specified in 1.2 and using the parameters of the GRS80 ellipsoid.
+
+— Plane coordinates using the ETRS89 Lambert Azimuthal Equal Area coordinate reference system.
+
+— Plane coordinates using the ETRS89 Lambert Conformal Conic coordinate reference system.
+
+— Plane coordinates using the ETRS89 Transverse Mercator coordinate reference system.
+
+1.3.3. Compound Coordinate Reference Systems
+
+1\. For the horizontal component of the compound coordinate reference system, one of the coordinate reference systems specified in section 1.3.2 shall be used.
+
+2\. For the vertical component, one of the following coordinate reference systems shall be used:
+
+— For the vertical component on land, the European Vertical Reference System (EVRS) shall be used to express gravity-related heights within its geographical scope. Other vertical reference systems related to the Earth gravity field shall be used to express gravity-related heights in areas that are outside the geographical scope of EVRS.
+
+— For the vertical component in the free atmosphere, barometric pressure, converted to height using ISO 2533:1975 International Standard Atmosphere, or other linear or parametric reference systems shall be used. Where other parametric reference systems are used, these shall be described in an accessible reference using EN ISO 19111-2:2012.
+
+— For the vertical component in marine areas where there is an appreciable tidal range (tidal waters), the Lowest Astronomical Tide (LAT) shall be used as the reference surface.
+
+— For the vertical component in marine areas without an appreciable tidal range, in open oceans and effectively in waters that are deeper than 200 meters, the Mean Sea Level (MSL) or a well-defined reference level close to the MSL shall be used as the reference surface.
+
+1.3.4. Other Coordinate Reference Systems
+
+Exceptions, where other coordinate reference systems than those listed in 1.3.1, 1.3.2 or 1.3.3 may be used, are:
+
+1\. Other coordinate reference systems may be specified for specific spatial data themes.
+
+2\. For regions outside of continental Europe, Member States may define suitable coordinate reference systems.
+
+The geodetic codes and parameters needed to describe these other coordinate reference systems and to allow conversion and transformation operations shall be documented and an identifier shall be created in a coordinate systems register established and operated by the Commission, according to EN ISO 19111 and ISO 19127.
+
+The Commission shall be assisted by the INSPIRE Commission expert group in the maintenance and update of the coordinate systems register.
+
+**1.4. Coordinate Reference Systems used in the View Network Service**
+
+For the display of spatial data sets with the view network service as specified in Regulation No 976/2009, at least the coordinate reference systems for two-dimensional geodetic coordinates (latitude, longitude) shall be available.
+
+**1.5. Coordinate Reference System Identifiers**
+
+1\. Coordinate reference system parameters and identifiers shall be managed in one or several common registers for coordinate reference systems.
+
+2\. Only identifiers contained in a common register shall be used for referring to the coordinate reference systems listed in this Section.
+
+**2\. GEOGRAPHICAL GRID SYSTEMS**
+
+**2.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+— ‘grid’ means a network composed of two or more sets of curves in which the members of each set intersect the members of the other sets in an algorithmic way,
+
+— ‘grid cell’ means a cell delineated by grid curves,
+
+— ‘grid point’ means a point located at the intersection of two or more curves in a grid.
+
+**2.2. Grids**
+
+Either of the grids with fixed and unambiguously defined locations defined in Sections 2.2.1 and 2.2.2 shall be used as a geo-referencing framework to make gridded data available in INSPIRE, unless one of the following conditions holds:
+
+(1) Other grids may be specified for specific spatial data themes in Annexes II-IV. In this case, data exchanged using such a theme-specific grid shall use standards in which the grid definition is either included with the data, or linked by reference.
+
+(2) For grid referencing in regions outside of continental Europe Member States may define their own grid based on a geodetic coordinate reference system compliant with ITRS and a Lambert Azimuthal Equal Area projection, following the same principles as laid down for the grid specified in Section 2.2.1. In this case, an identifier for the coordinate reference system shall be created.
+
+2.2.1. Equal Area Grid
+
+The grid is based on the ETRS89 Lambert Azimuthal Equal Area (ETRS89-LAEA) coordinate reference system with the centre of the projection at the point 52° N, 10° E and false easting: x0 = 4 321 000 m, false northing: y0 = 3 210 000 m.
+
+The origin of the grid coincides with the false origin of the ETRS89-LAEA coordinate reference system (x=0, y=0).
+
+Grid points of grids based on ETRS89-LAEA shall coincide with grid points of the grid.
+
+The grid is hierarchical, with resolutions of 1m, 10m, 100m, 1 000 m, 10 000 m and 100 000 m.
+
+The grid orientation is south-north, west-east.
+
+The grid is designated as Grid_ETRS89-LAEA. For identification of an individual resolution level the cell size in metres is appended.
+
+For the unambiguous referencing and identification of a grid cell, the cell code composed of the size of the cell and the coordinates of the lower left cell corner in ETRS89-LAEA shall be used. The cell size shall be denoted in metres (‘m’) for cell sizes up to 100m or kilometres (‘km’) for cell sizes of 1 000 m and above. Values for northing and easting shall be divided by 10n, where n is the number of trailing zeros in the cell size value.
+
+2.2.2. Zoned Geographic Grid
+
+1\. When gridded data is delivered using geodetic coordinates as specified in Section 1.3 of this Annex the multi-resolution grid defined in this Section may be used as a geo-referencing framework.
+
+2\. The resolution levels are defined in Table 1.
+
+3\. The grid shall be based on the ETRS89-GRS80 geodetic coordinate reference system.
+
+4\. The origin of the grid shall coincide with the intersection point of the Equator with the Greenwich Meridian (GRS80 latitude φ=0; GRS80 longitude λ=0).
+
+5\. The grid orientation shall be south-north and west-east according to the net defined by the meridians and parallels of the GRS80 ellipsoid.
+
+6\. For grid referencing in regions outside of continental Europe data providers may define their own grid based on a geodetic coordinate reference system compliant with ITRS, following the same principles as laid down for the Pan-European Grid_ETRS89-GRS80zn. In this case, an identifier for the coordinate reference system and the corresponding identifier for the grid shall be created.
+
+7\. This grid shall be subdivided in zones. The south-north resolution of the grid shall have equal angular spacing. The west-east resolution of the grid shall be established as the product of angular spacing multiplied by the factor of the zone as defined in Table 1.
+
+8\. The grid shall be designated Grid_ETRS89-GRS80zn_res, where n represents the number of the zone and res the cell size in angular units, as specified in Table 1.
+
+**Table 1**
+
+**Common Grid_ETRS89-GRS80: Latitude spacing (resolution level) and longitude spacing for each zone**
+
+<table>
+<tbody><tr><td rowspan="2">Resolution Levels</td><td rowspan="2">LATITUDE SPACING (Arc seconds) </td><td colspan="5">LONGITUDE SPACING (Arc seconds)</td><td rowspan="2">Cell size</td></tr>
+<tr><td>Zone 1 (Lat. 0°–50°) </td><td>Zone 2 (Lat. 50°–70°) </td><td>Zone 3 (Lat. 70°–75°) </td><td>Zone 4 (Lat. 75°–80°) </td><td>Zone 5 (Lat. 80°–90°) </td></tr>
+<tr><td>LEVEL 0</td><td>3 600 </td><td>3 600 </td><td>7 200 </td><td>10 800 </td><td>14 400 </td><td>21 600 </td><td>1 D</td></tr>
+<tr><td>LEVEL 1</td><td>3 000 </td><td>3 000 </td><td>6 000 </td><td>9 000 </td><td>12 000 </td><td>18 000 </td><td>50 M</td></tr>
+<tr><td>LEVEL 2</td><td>1 800 </td><td>1 800 </td><td>3 600 </td><td>5 400 </td><td>7 200 </td><td>10 800 </td><td>30 M</td></tr>
+<tr><td>LEVEL 3</td><td>1 200 </td><td>1 200 </td><td>2 400 </td><td>3 600 </td><td>4 800 </td><td>7 200 </td><td>20 M</td></tr>
+<tr><td>LEVEL 4</td><td>600 </td><td>600 </td><td>1 200 </td><td>1 800 </td><td>2 400 </td><td>3 600 </td><td>10 M</td></tr>
+<tr><td>LEVEL 5</td><td>300 </td><td>300 </td><td>600 </td><td>900 </td><td>1 200 </td><td>1 800 </td><td>5 M</td></tr>
+<tr><td>LEVEL 6</td><td>120 </td><td>120 </td><td>240 </td><td>360 </td><td>480 </td><td>720 </td><td>2 M</td></tr>
+<tr><td>LEVEL 7</td><td>60 </td><td>60 </td><td>120 </td><td>180 </td><td>240 </td><td>360 </td><td>1 M</td></tr>
+<tr><td>LEVEL 8</td><td>30 </td><td>30 </td><td>60 </td><td>90 </td><td>120 </td><td>180 </td><td>30 S</td></tr>
+<tr><td>LEVEL 9</td><td>15 </td><td>15 </td><td>30 </td><td>45 </td><td>60 </td><td>90 </td><td>15 S</td></tr>
+<tr><td>LEVEL 10</td><td>5 </td><td>5 </td><td>10 </td><td>15 </td><td>20 </td><td>30 </td><td>5 S</td></tr>
+<tr><td>LEVEL 11</td><td>3 </td><td>3 </td><td>6 </td><td>9 </td><td>12 </td><td>18 </td><td>3 S</td></tr>
+<tr><td>LEVEL 12</td><td>1,5 </td><td>1,5 </td><td>3 </td><td>4,5 </td><td>6 </td><td>9 </td><td>1 500 MS</td></tr>
+<tr><td>LEVEL 13</td><td>1 </td><td>1 </td><td>2 </td><td>3 </td><td>4 </td><td>6 </td><td>1 000 MS</td></tr>
+<tr><td>LEVEL 14</td><td>0,75 </td><td>0,75 </td><td>1,5 </td><td>2,25 </td><td>3 </td><td>4,5 </td><td>750 MS</td></tr>
+<tr><td>LEVEL 15</td><td>0,5 </td><td>0,5 </td><td>1 </td><td>1,5 </td><td>2 </td><td>3 </td><td>500 MS</td></tr>
+<tr><td>LEVEL 16</td><td>0,3 </td><td>0,3 </td><td>0,6 </td><td>0,9 </td><td>1,2 </td><td>1,8 </td><td>300 MS</td></tr>
+<tr><td>LEVEL 17</td><td>0,15 </td><td>0,15 </td><td>0,3 </td><td>0,45 </td><td>0,6 </td><td>0,9 </td><td>150 MS</td></tr>
+<tr><td>LEVEL 18</td><td>0,1 </td><td>0,1 </td><td>0,2 </td><td>0,3 </td><td>0,4 </td><td>0,6 </td><td>100 MS</td></tr>
+<tr><td>LEVEL 19</td><td>0,075 </td><td>0,075 </td><td>0,15 </td><td>0,225 </td><td>0,3 </td><td>0,45 </td><td>75 MS</td></tr>
+<tr><td>LEVEL 20</td><td>0,03 </td><td>0,03 </td><td>0,06 </td><td>0,09 </td><td>0,12 </td><td>0,18 </td><td>30 MS</td></tr>
+<tr><td>LEVEL 21</td><td>0,015 </td><td>0,015 </td><td>0,03 </td><td>0,045 </td><td>0,06 </td><td>0,09 </td><td>15 MS</td></tr>
+<tr><td>LEVEL 22</td><td>0,01 </td><td>0,01 </td><td>0,02 </td><td>0,03 </td><td>0,04 </td><td>0,06 </td><td>10 MS</td></tr>
+<tr><td>LEVEL 23</td><td>0,0075 </td><td>0,0075 </td><td>0,015 </td><td>0,0225 </td><td>0,03 </td><td>0,045 </td><td>7 500 MMS</td></tr>
+<tr><td>LEVEL 24</td><td>0,003 </td><td>0,003 </td><td>0,006 </td><td>0,009 </td><td>0,012 </td><td>0,018 </td><td>3 000 MMS</td></tr>
+<tr><td>FACTOR</td><td>—</td><td>1 </td><td>2 </td><td>3 </td><td>4 </td><td>6 </td><td>—</td></tr>
+</tbody>
+</table>
+
+**3\. GEOGRAPHICAL NAMES**
+
+**3.1. Spatial Object Types**
+
+The following spatial object types shall be used for the exchange and classification of spatial objects from data sets that relate to the spatial data theme Geographical Names:
+
+— Named Place
+
+3.1.1. Named Place (NamedPlace)
+
+Any real world entity referred to by one or several proper nouns.
+
+**Attributes of the spatial object type NamedPlace**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Geometry associated to the named place. This data specification does not restrict the geometry types. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| leastDetailedViewingResolution | Resolution, expressed as the inverse of an indicative scale or a ground distance, above which the named place and its associated name(s) should no longer be displayed in a basic viewing service. | MD_Resolution | voidable |
+| localType | Characterisation of the kind of entity designated by geographical name(s), as defined by the data provider, given in at least in one official language of the European Union. | LocalisedCharacterString | voidable |
+| mostDetailedViewingResolution | Resolution, expressed as the inverse of an indicative scale or a ground distance, below which the named place and its associated name(s) should no longer be displayed in a basic viewing service. | MD_Resolution | voidable |
+| name | Name of the named place. | GeographicalName |  |
+| relatedSpatialObject | Identifier of a spatial object representing the same entity but appearing in other themes of INSPIRE, if any. | Identifier | voidable |
+| type | Characterisation of the kind of entity designated by geographical name(s). | NamedPlaceTypeValue | voidable |
+
+**3.2. Data Types**
+
+3.2.1. Geographical Name (GeographicalName)
+
+Proper noun applied to a real world entity.
+
+**Attributes of the data type GeographicalName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| grammaticalGender | Classes of nouns reflected in the behaviour of associated words. | GrammaticalGenderValue | voidable |
+| grammaticalNumber | Grammatical category of nouns that expresses count distinctions. | GrammaticalNumberValue | voidable |
+| language | Language of the name, given as a three letters code, in accordance with either ISO 639-3 or ISO 639-5. | CharacterString | voidable |
+| nameStatus | Qualitative information enabling to discern which credit should be given to the name with respect to its standardisation and/or its topicality. | NameStatusValue | voidable |
+| nativeness | Information enabling to acknowledge if the name is the one that is/was used in the area where the spatial object is situated at the instant when the name is/was in use. | NativenessValue | voidable |
+| pronunciation | Proper, correct or standard (standard within the linguistic community concerned) pronunciation of the geographical name. | PronunciationOfName | voidable |
+| sourceOfName | Original data source from which the geographical name is taken from and integrated in the data set providing/publishing it. For some named spatial objects it might refer again to the publishing data set if no other information is available. | CharacterString | voidable |
+| spelling | A proper way of writing the geographical name. | SpellingOfName |  |
+
+3.2.2. Pronunciation Of Name (PronunciationOfName)
+
+Proper, correct or standard (standard within the linguistic community concerned) pronunciation of a name.
+
+Attributes of the data type PronunciationOfName
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| pronunciationIPA | Proper, correct or standard (standard within the linguistic community concerned) pronunciation of a name, expressed in International Phonetic Alphabet (IPA). | CharacterString | voidable |
+| pronunciationSoundLink | Proper, correct or standard (standard within the linguistic community concerned) pronunciation of a name, expressed by a link to any sound file. | URI | voidable |
+
+Constraints of the data type PronunciationOfName
+
+At least one of the two attributes pronunciationSoundLink and pronunciationIPA shall not be void.
+
+3.2.3. Spelling Of Name (SpellingOfName)
+
+Proper way of writing a name.
+
+**Attributes of the data type SpellingOfName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| script | Set of graphic symbols (for example an alphabet) employed in writing the name, expressed using the four letters codes defined in ISO 15924, where applicable. | CharacterString | voidable |
+| text | Way the name is written. | CharacterString |  |
+| transliterationScheme | Method used for the names conversion between different scripts. | CharacterString | voidable |
+
+**3.3 Code Lists**
+
+3.3.1. Grammatical Gender (GrammaticalGenderValue)
+
+The grammatical gender of a geographical name.
+
+3.3.2. Grammatical Number (GrammaticalNumberValue)
+
+The grammatical number of a geographical name.
+
+3.3.3. Name Status (NameStatusValue)
+
+The status of a geographical name, that is the information enabling to discern which credit should be given to the name with respect to its standardisation and/or its topicality.
+
+3.3.4. Named Place Type (NamedPlaceTypeValue)
+
+The type of a named place.
+
+3.3.5. Nativeness (NativenessValue)
+
+The nativeness of a geographical name.
+
+**3.4. Layers**
+
+**Layer for the spatial data theme Geographical Names**
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| GN.GeographicalNames | Geographical Names | NamedPlace |
+
+**4\. ADMINISTRATIVE UNITS**
+
+**4.1. Structure of the Spatial Data Theme Administrative Units**
+
+The types specified for the spatial data theme Administrative Units are structured in the following packages:
+
+— Administrative Units
+
+— Maritime Units
+
+**4.2. Administrative Units**
+
+4.2.1. Spatial object types
+
+The package Administrative Units contains the following spatial object types:
+
+— Administrative Boundary
+
+— Administrative Unit
+
+— Condominium
+
+4.2.1.1. Administrative Boundary (AdministrativeBoundary)
+
+A line of demarcation between administrative units.
+
+Attributes of the spatial object type AdministrativeBoundary
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| country | Two-character country code according to the Interinstitutional style guide published by the Publications Office of the European Union. | CountryCode |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Geometric representation of border line. | GM_Curve |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| legalStatus | Legal status of this administrative boundary. | LegalStatusValue | voidable |
+| nationalLevel | The hierarchy levels of all adjacent administrative units this boundary is part of. | AdministrativeHierarchyLevel |  |
+| technicalStatus | The technical status of the administrative boundary. | TechnicalStatusValue | voidable |
+
+Association roles of the spatial object type AdministrativeBoundary
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| admUnit | The administrative units separated by this administrative boundary. | AdministrativeUnit | voidable |
+
+4.2.1.2. Administrative Unit (AdministrativeUnit)
+
+Unit of administration where a Member State has and/or exercises jurisdictional rights, for local, regional and national governance.
+
+Attributes of the spatial object type AdministrativeUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| country | Two-character country code according to the Interinstitutional style guide published by the Publications Office of the European Union. | CountryCode |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Geometric representation of spatial area covered by this administrative unit. | GM_MultiSurface |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| name | Official national geographical name of the administrative unit, given in several languages where required. | GeographicalName |  |
+| nationalCode | Thematic identifier corresponding to the national administrative codes defined in each country. | CharacterString |  |
+| nationalLevel | Level in the national administrative hierarchy, at which the administrative unit is established. | AdministrativeHierarchyLevel |  |
+| nationalLevelName | Name of the level in the national administrative hierarchy, at which the administrative unit is established. | LocalisedCharacterString | voidable |
+| residenceOfAuthority | Center for national or local administration. | ResidenceOfAuthority | voidable |
+
+Association roles of the spatial object type AdministrativeUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| administeredBy | Administrative unit established at same level of national administrative hierarchy that administers this administrative unit. | AdministrativeUnit | voidable |
+| boundary | The administrative boundaries between this administrative unit and all the units adjacent to it. | AdministrativeBoundary | voidable |
+| coAdminister | Administrative unit established at same level of national administrative hierarchy which is co-administered by this administrative unit. | AdministrativeUnit | voidable |
+| condominium | Condominium administered by this administrative unit. | Condominium | voidable |
+| lowerLevelUnit | Units established at a lower level of the national administrative hierarchy which are administered by the administrative unit. | AdministrativeUnit | voidable |
+| upperLevelUnit | Unit established at a higher level of national administrative hierarchy that this administrative unit administers | AdministrativeUnit | voidable |
+
+Constraints of the spatial object type AdministrativeUnit
+
+Association role condominium applies only for administrative units which nationalLevel=‘1st order’ (country level).
+
+No unit at lowest level can associate units at lower level.
+
+No unit at highest level can associate units at a higher level.
+
+4.2.1.3. Condominium (Condominium)
+
+An administrative area established independently to any national administrative division of territory and administered by two or more countries.
+
+Attributes of the spatial object type Condominium
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Geometric representation of spatial area covered by this condominium | GM_MultiSurface |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| name | Official geographical name of this condominium, given in several languages where required. | GeographicalName | voidable |
+
+Association roles of the spatial object type Condominium
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| admUnit | The administrative unit administering the condominium | AdministrativeUnit | voidable |
+
+4.2.2. Data Types
+
+4.2.2.1. Residence Of Authority (ResidenceOfAuthority)
+
+Data type representing the name and position of a residence of authority.
+
+Attributes of the data type ResidenceOfAuthority
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Position of the residence of authority. | GM_Point | voidable |
+| name | Name of the residence of authority. | GeographicalName |  |
+
+4.2.4. Code Lists
+
+4.2.4.1. Administrative Hierarchy Level (AdministrativeHierarchyLevel)
+
+Levels of administration in the national administrative hierarchy. This code list reflects the level in the hierarchical pyramid of the administrative structures, which is based on geometric aggregation of territories and does not necessarily describe the subordination between the related administrative authorities.
+
+4.2.4.2. Legal Status (LegalStatusValue)
+
+Description of the legal status of administrative boundaries.
+
+4.2.4.3. Technical Status (TechnicalStatusValue)
+
+Description of the technical status of administrative boundaries.
+
+**4.3. Maritime Units**
+
+4.3.1. Spatial object types
+
+The package Maritime Units contains the following spatial object types:
+
+— Baseline
+
+— Maritime Boundary
+
+— Maritime Zone
+
+4.3.1.1. Baseline (Baseline)
+
+The line from which the outer limits of the territorial sea and certain other outer limits are measured.
+
+Attributes of the spatial object type Baseline
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type Baseline
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| segment | Segment of a baseline. | BaselineSegment |  |
+
+4.3.1.2. Maritime Boundary (MaritimeBoundary)
+
+A line depicting the separation of any type of maritime jurisdiction.
+
+Attributes of the spatial object type MaritimeBoundary
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometric representation of the maritime boundary. | GM_Curve |  |
+| country | The country that the maritime zone of this boundary belongs to. | CountryCode |  |
+| legalStatus | Legal status of this maritime boundary. | LegalStatusValue | voidable |
+| technicalStatus | The technical status of the maritime boundary. | TechnicalStatusValue | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+4.3.1.3. Maritime Zone (MaritimeZone)
+
+A belt of sea defined by international treaties and conventions, where coastal State executes jurisdictional rights.
+
+Attributes of the spatial object type MaritimeZone
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometric representation of spatial area covered by this maritime zone. | GM_MultiSurface |  |
+| zoneType | Type of maritime zone. | MaritimeZoneTypeValue |  |
+| country | The country that this maritime zone belongs to. | CountryCode |  |
+| name | Name(s) of the maritime zone. | GeographicalName | voidable |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifepanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type MaritimeZone
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| baseline | Baseline or baselines used for the delineation of this maritime zone. | Baseline | voidable |
+| boundary | The boundary or boundaries of this maritime zone. | MaritimeBoundary | voidable |
+
+4.3.2. Data types
+
+4.3.2.1. Baseline Segment (BaselineSegment)
+
+Segment of the baseline from which the outer limits of the territorial sea and certain other outer limits are measured.
+
+Attributes of the data type BaselineSegment
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometric representation of the baseline segment. | GM_Curve |  |
+| segmentType | The baseline type used for this segment. | BaselineSegmentTypeValue |  |
+
+4.3.3. Code Lists
+
+4.3.3.1. Baseline Segment Type (BaselineSegmentTypeValue)
+
+The types of baselines used to measure the breadth of the territorial sea.
+
+4.3.3.2. Maritime Zone Type (MaritimeZoneTypeValue)
+
+Type of maritime zone.
+
+**4.4. Theme-specific Requirements**
+
+1\. Each instance of spatial object type AdministrativeUnit, except for the country level unit representing a Member State and co-administered units, shall refer exactly to one unit at a higher level of administrative hierarchy. This correspondence shall be expressed by the upperLevelUnit association role of AdministrativeUnit spatial object type.
+
+2\. Each instance of spatial object type AdministrativeUnit, except for those at the lowest level, shall refer to their respective lower level units. This correspondence shall be expressed by the lowerLevelUnit association role of AdministrativeUnit spatial object type.
+
+3\. If an administrative unit is co-administered by two or more other administrative units the association role administeredBy shall be used. The units co-administering this unit shall apply inverse role coAdminister.
+
+4\. Administrative units at the same level of administrative hierarchy shall not conceptually share common areas.
+
+5\. Instances of the spatial object type AdministrativeBoundary shall correspond to the edges in the topological structure of the complete (including all levels) boundary graph.
+
+6\. The spatial extent of a condominium may not be part of the geometry representing the spatial extent of an administrative unit.
+
+7\. Condominiums can only be administered by administrative units at country level.
+
+**4.5. Layers**
+
+Layers for the spatial data theme Administrative Units
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>AU.AdministrativeUnit</td><td>Administrative unit</td><td>AdministrativeUnit</td></tr>
+<tr><td>AU.AdministrativeBoundary</td><td>Administrative boundary</td><td>AdministrativeBoundary</td></tr>
+<tr><td>AU.Condominium</td><td>Condominium</td><td>Condominium</td></tr>
+<tr><td>AU.Baseline</td><td>Baseline</td><td>Baseline</td></tr>
+<tr><td>AU.&lt;CodeListValue&gt; (1) Example: AU.ContiguousZone </td><td>&lt;human readable name&gt; Example: Contiguous Zone </td><td>MaritimeZone (zoneType: MaritimeZoneTypeValue)</td></tr>
+<tr><td>AU.MaritimeBoundary</td><td>Maritime boundary</td><td>MaritimeBoundary</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**5\. ADDRESSES**
+
+**5.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definition shall apply:
+
+— ‘addressable object’ means a spatial object to which it is meaningful to associate addresses.
+
+**5.2. Spatial Object Types**
+
+The following spatial object types shall be used for the exchange and classification of spatial objects from data sets that relate to the spatial data theme Addresses:
+
+— Address
+
+— Address Area Name
+
+— Address Component
+
+— Administrative Unit Name
+
+— Postal Descriptor
+
+— Thoroughfare Name
+
+5.2.1. Address (Address)
+
+An identification of the fixed location of property by means of a structured composition of geographic names and identifiers.
+
+Attributes of the spatial object type Address
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| alternativeIdentifier | External, thematic identifier of the address spatial object, which enables interoperability with existing legacy systems or applications. | CharacterString | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| locator | Human readable designator or name. | AddressLocator |  |
+| position | Position of a characteristic point which represents the location of the address according to a certain specification, including information on the origin of the position. | GeographicPosition |  |
+| status | Validity of the address within the life-cycle (version) of the address spatial object. | StatusValue | voidable |
+| validFrom | Date and time of which this version of the address was or will be valid in the real world. | DateTime | voidable |
+| validTo | Date and time at which this version of the address ceased or will cease to exist in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type Address
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| building | Building that the address is assigned to or associated with. | Building of the Buildings Base package | voidable |
+| component | Represents that the address component is engaged as a part of the address. | AddressComponent |  |
+| parcel | Cadastral parcel that this address is assigned to or associated with. | CadastralParcel | voidable |
+| parentAddress | Main (parent) address with which this (sub) address is tightly connected | Address | voidable |
+
+Constraints of the spatial object type Address
+
+An address shall have an administrative unit address component spatial object whose level is 1 (Country).
+
+An address shall have exactly one default geographic position (the ‘default’ attribute of the GeographicPosition spatial object must be ‘true’).
+
+5.2.2. Address Area Name (AddressAreaName)
+
+An address component which represents the name of a geographic area or locality that groups a number of addressable objects for addressing purposes, without being an administrative unit.
+
+This type is a sub-type of AddressComponent.
+
+**Attributes of the spatial object type AddressAreaName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Proper noun applied to the address area. | GeographicalName |  |
+
+**Association roles of the spatial object type AddressAreaName**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| namedPlace | The named place that this address area name represents. | NamedPlace | voidable |
+
+5.2.3. Address Component (AddressComponent)
+
+Identifier or geographic name of a specific geographic area, location, or other spatial object which defines the scope of an address.
+
+This type is abstract.
+
+**Attributes of the spatial object type AddressComponent**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| alternativeIdentifier | External, thematic identifier of the address component spatial object, which enables interoperability with existing legacy systems or applications. | CharacterString | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| status | Validity of the address component within the life-cycle (version) of the address component spatial object. | StatusValue | voidable |
+| validFrom | Date and time of which this version of the address component was or will be valid in the real world. | DateTime | voidable |
+| validTo | Date and time at which the address component ceased/will cease to exist in the real world. | DateTime | voidable |
+
+**Association roles of the spatial object type AddressComponent**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| situatedWithin | Another address component within which the spatial object represented by this address component is situated. | AddressComponent | voidable |
+
+5.2.4. Administrative Unit Name (AdminUnitName)
+
+An address component which represents the name of a unit of administration where a Member State has and/or exercises jurisdictional rights, for local, regional and national governance.
+
+This type is a sub-type of AddressComponent.
+
+**Attributes of the spatial object type AdminUnitName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| level | The level of administration in the national administrative hierarchy. | AdministrativeHierarchyLevel |  |
+| name | Official, geographical name of the administrative unit, given in different languages where required. | GeographicalName |  |
+
+**Association roles of the spatial object type AdminUnitName**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| adminUnit | The administrative unit that is the source of the content of the administrative unit name. | AdministrativeUnit | voidable |
+
+5.2.5. Postal Descriptor (PostalDescriptor)
+
+An address component which represents the identification of a subdivision of addresses and postal delivery points in a country, region or city for postal purposes.
+
+This type is a sub-type of AddressComponent.
+
+Attributes of the spatial object type PostalDescriptor
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| postCode | A code created and maintained for postal purposes to identify a subdivision of addresses and postal delivery points. | CharacterString |  |
+| postName | One or more names created and maintained for postal purposes to identify a subdivision of addresses and postal delivery points. | GeographicalName |  |
+
+Constraints of the spatial object type PostalDescriptor
+
+If no post code exists, a post name is required.
+
+If no post name exists, a post code is required.
+
+5.2.6. Thoroughfare Name (ThoroughfareName)
+
+An address component which represents the name of a passage or way through from one location to another.
+
+This type is a sub-type of AddressComponent.
+
+**Attributes of the spatial object type ThoroughfareName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the thoroughfare. | ThoroughfareNameValue |  |
+
+**Association roles of the spatial object type ThoroughfareName**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| transportLink | One or several transport network links to which the spatial object of the thoroughfare name has been designated. | TransportLink | voidable |
+
+**5.3. Data Types**
+
+5.3.1. Address Locator (AddressLocator)
+
+Human readable designator or name that allows a user or application to reference and distinguish the address from neighbour addresses, within the scope of a thoroughfare name, address area name, administrative unit name or postal descriptor, in which the address is situated.
+
+Attributes of the data type AddressLocator
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | A number or a sequence of characters that uniquely identifies the locator within the relevant scope(s). | LocatorDesignator |  |
+| level | The level to which the locator refers. | LocatorLevelValue |  |
+| name | A geographic name or descriptive text associated to a property identified by the locator. | LocatorName |  |
+
+Association roles of the data type AddressLocator
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| withinScopeOf | The address component that defines the scope within which the address locator is assigned according to rules ensuring unambiguousness. | AddressComponent | voidable |
+
+Constraints of the data type AddressLocator
+
+If no designator exists, a name is required.
+
+If no name exists, a designator is required.
+
+5.3.2. Address Representation (AddressRepresentation)
+
+Representation of an address spatial object for use in external application schemas that need to include the basic, address information in a readable way.
+
+**Attributes of the data type AddressRepresentation**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| addressArea | The name or names of a geographic area or locality that groups a number of addressable objects for addressing purposes, without being an administrative unit. | GeographicalName | voidable |
+| adminUnit | The name or names of a unit of administration where a Member State has and/or exercises jurisdictional rights, for local, regional and national governance. | GeographicalName |  |
+| locatorDesignator | A number or a sequence of characters which allows a user or an application to interpret, parse and format the locator within the relevant scope. A locator may include more locator designators. | CharacterString |  |
+| locatorName | Proper noun(s) applied to the real world entity identified by the locator. | GeographicalName |  |
+| postCode | A code created and maintained for postal purposes to identify a subdivision of addresses and postal delivery points. | CharacterString | voidable |
+| postName | One or more names created and maintained for postal purposes to identify a subdivision of addresses and postal delivery points. | GeographicalName | voidable |
+| thoroughfare | The name or names of a passage or way through from one location to another like a road or a waterway. | GeographicalName | voidable |
+
+**Association roles of the data type AddressRepresentation**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| addressFeature | Reference to the address spatial object. | Address | voidable |
+
+5.3.3. Geographic Position (GeographicPosition)
+
+The position of a characteristic point which represents the location of the address according to a certain specification, including information on the origin of the position.
+
+**Attributes of the data type GeographicPosition**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| default | Specifies whether or not this position should be considered as the default. | Boolean |  |
+| geometry | The position of the point expressed in coordinates in the chosen spatial reference system. | GM_Point |  |
+| method | Description of how and by whom the geographic position of the address was created or derived. | GeometryMethodValue | voidable |
+| specification | Information defining the specification used to create or derive this geographic position of the address. | GeometrySpecificationValue | voidable |
+
+5.3.4. Locator Designator (LocatorDesignator)
+
+A number or a sequence of characters that uniquely identifies the locator within the relevant scope(s). The full identification of the locator could include one or more locator designators.
+
+**Attributes of the data type LocatorDesignator**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The identifying part of the locator designator composed by one or more digits or other characters. | CharacterString |  |
+| type | The type of locator value, which enables an application to interpret, parse or format it according to certain rules. | LocatorDesignatorTypeValue |  |
+
+5.3.5. Locator Name (LocatorName)
+
+Proper noun applied to the real world entity identified by the locator.
+
+**Attributes of the data type LocatorName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | The identifying part of the locator name. | GeographicalName |  |
+| type | The type of locator value, which enables an application to interpret, parse or format it according to certain rules. | LocatorNameTypeValue |  |
+
+5.3.6. Part Of Name (PartOfName)
+
+A part of the full name resulting from the subdivision of the thoroughfare name into separate, semantic parts, using the same language and script as the full thoroughfare name.
+
+**Attributes of the data type PartOfName**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| part | The character string that expresses the separate part of the name using the same language and script as the full thoroughfare name. | CharacterString |  |
+| type | A classification of the part of name according to its semantics (meaning) in the complete thoroughfare name. | PartTypeValue |  |
+
+5.3.7. Thoroughfare Name Value (ThoroughfareNameValue)
+
+Proper noun applied to thoroughfare optionally including a subdivision of the name into parts.
+
+**Attributes of the data type ThoroughfareNameValue**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Proper noun applied to the thoroughfare. | GeographicalName |  |
+| nameParts | One or several parts into which the thoroughfare name can be subdivided. | PartOfName | voidable |
+
+**5.4. Code Lists**
+
+5.4.1. Geometry Method (GeometryMethodValue)
+
+Description of how and by whom this geographic position of the address was created or derived.
+
+5.4.2. Geometry Specification (GeometrySpecificationValue)
+
+Information defining the specification used to create or derive this geographic position of the address.
+
+5.4.3. Locator Designator Type (LocatorDesignatorTypeValue)
+
+Description of the semantics of the locator designator.
+
+5.4.4. Locator Level (LocatorLevelValue)
+
+The level to which the locator refers.
+
+5.4.5. Locator Name Type (LocatorNameTypeValue)
+
+Description of the semantics of the locator name.
+
+5.4.6. Part Type (PartTypeValue)
+
+A classification of the part of name according to its semantics in the complete thoroughfare name.
+
+5.4.7. Status (StatusValue)
+
+Current validity of the real world address or address component.
+
+**5.5. Theme-specific Requirements**
+
+5.5.1. The Address Position
+
+1\. In the data set, the position of the address shall be represented by the coordinates of the actual location with the best available accuracy. This will be the most precise directly captured coordinates or, if none exist, then coordinates derived from one of the address components, with priority given to the component that allows the position to be most accurately determined.
+
+2\. If an address has more than one position, the specification attribute shall be populated with a different value for each of these.
+
+5.5.2. Association roles
+
+1\. The withinScopeOf association role shall be populated for all locators which are assigned according to rules that seek to ensure unambiguousness within a specific address component (that is thoroughfare name, address area name, postal descriptor or administrative unit name).
+
+2\. The association role parentAddress shall be populated for all addresses which are connected to a parent (or main) address.
+
+3\. An address shall have an association to the name of the country in which it is located. Furthermore, an address must have associations to the additional address components necessary to the unambiguous identification and location of the address instance.
+
+**5.6. Layers**
+
+**Layer for the spatial data theme Addresses**
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| AD.Address | Addresses | Address |
+
+**6\. CADASTRAL PARCELS**
+
+**6.1. Spatial Object Types**
+
+The following spatial object types shall be used for the exchange and classification of spatial objects from data sets that relate to the spatial data theme Cadastral Parcels:
+
+— Basic Property Unit
+
+— Cadastral Boundary
+
+— Cadastral Parcel
+
+— Cadastral Zoning
+
+Cadastral Parcels shall always be made available.
+
+Basic property units shall be made available by Member States where unique cadastral references are given only for basic property units and not for parcels.
+
+Cadastral boundaries shall be made available by Member States where absolute positional accuracy information is recorded for the cadastral boundary.
+
+6.1.1. Basic Property Unit (BasicPropertyUnit)
+
+The basic unit of ownership that is recorded in the land books, land registers or equivalent. It is defined by unique ownership and homogeneous real property rights, and may consist of one or more adjacent or geographically separate parcels.
+
+Attributes of the spatial object type BasicPropertyUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaValue | Registered area value giving quantification of the area projected on the horizontal plane of the cadastral parcels composing the basic property unit. | Area | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| nationalCadastralReference | Thematic identifier at national level, generally the full national code of the basic property unit. Must ensure the link to the national cadastral register or equivalent. | CharacterString |  |
+| validFrom | Official date and time the basic property unit was/will be legally established. | DateTime | voidable |
+| validTo | Date and time at which the basic property unit legally ceased/will cease to be used. | DateTime | voidable |
+
+Association roles of the spatial object type BasicPropertyUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| administrativeUnit | The administrative unit of lowest administrative level containing this basic property unit. | AdministrativeUnit | voidable |
+
+Constraints of the spatial object type BasicPropertyUnit
+
+Value of areaValue shall be given in square meters
+
+6.1.2. Cadastral Boundary (CadastralBoundary)
+
+Part of the outline of a cadastral parcel. One cadastral boundary may be shared by two neighbouring cadastral parcels.
+
+Attributes of the spatial object type CadastralBoundary
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| estimatedAccuracy | Estimated absolute positional accuracy of the cadastral boundary in the used INSPIRE coordinate reference system. Absolute positional accuracy is the mean value of the positional uncertainties for a set of positions, where the positional uncertainties are the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| geometry | Geometry of the cadastral boundary. | GM_Curve |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| validFrom | Official date and time the cadastral boundary was/will be legally established. | DateTime | voidable |
+| validTo | Date and time at which the cadastral boundary legally ceased/will cease to be used. | DateTime | voidable |
+
+Association roles of the spatial object type CadastralBoundary
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| parcel | The cadastral parcel(s) outlined by this cadastral boundary. A cadastral boundary may outline one or two cadastral parcels. | CadastralParcel | voidable |
+
+Constraints of the spatial object type CadastralBoundary
+
+Value of estimatedAccuracy shall be given in meters.
+
+6.1.3. Cadastral Parcel (CadastralParcel)
+
+Areas defined by cadastral registers or equivalent.
+
+Attributes of the spatial object type CadastralParcel
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaValue | Registered area value giving quantification of the area projected on the horizontal plane of the cadastral parcel. | Area | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Geometry of the cadastral parcel. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| label | Text commonly used to display the cadastral parcel identification. | CharacterString |  |
+| nationalCadastralReference | Thematic identifier at national level, generally the full national code of the cadastral parcel. Must ensure the link to the national cadastral register or equivalent. | CharacterString |  |
+| referencePoint | A point within the cadastral parcel. | GM_Point | voidable |
+| validFrom | Official date and time the cadastral parcel was/will be legally established. | DateTime | voidable |
+| validTo | Date and time at which the cadastral parcel legally ceased/will cease to be used. | DateTime | voidable |
+
+Association roles of the spatial object type CadastralParcel
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| administrativeUnit | The administrative unit of lowest administrative level containing this cadastral parcel. | AdministrativeUnit | voidable |
+| basicPropertyUnit | The basic property unit(s) containing this cadastral parcel. | BasicPropertyUnit | voidable |
+| zoning | The cadastral zoning of lowest level containing this cadastral parcel. | CadastralZoning | voidable |
+
+Constraints of the spatial object type CadastralParcel
+
+Value of areaValue shall be given in square meters.
+
+Type of geometry shall be GM_Surface or GM_MultiSurface
+
+6.1.4. Cadastral Zoning (CadastralZoning)
+
+Intermediary areas used in order to divide national territory into cadastral parcels.
+
+Attributes of the spatial object type CadastralZoning
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| estimatedAccuracy | The estimated absolute positional accuracy of cadastral parcels within the cadastral zoning in the used INSPIRE coordinate reference system. Absolute positional accuracy is the mean value of the positional uncertainties for a set of positions, where the positional uncertainties are the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| geometry | Geometry of the cadastral zoning. | GM_MultiSurface |  |
+| inspireId | External object identifier of spatial object. | Identifier |  |
+| label | Text commonly used to display the cadastral zoning identification. | CharacterString |  |
+| level | Level of the cadastral zoning in the national cadastral hierarchy. | CadastralZoningLevelValue | voidable |
+| levelName | Name of the level of the cadastral zoning in the national cadastral hierarchy, in at least one official language of the European Union. | LocalisedCharacterString | voidable |
+| name | Name of the cadastral zoning. | GeographicalName | voidable |
+| nationalCadastalZoningReference | Thematic identifier at national level, generally the full national code of the cadastral zoning. | CharacterString |  |
+| originalMapScaleDenominator | The denominator in the scale of the original paper map (if any) to whose extent the cadastral zoning corresponds. | Integer | voidable |
+| referencePoint | A point within the cadastral zoning. | GM_Point | voidable |
+| validFrom | Official date and time the cadastral zoning was/will be legally established. | DateTime | voidable |
+| validTo | Date and time at which the cadastral zoning legally ceased/will cease to be used. | DateTime | voidable |
+
+Association roles of the spatial object type CadastralZoning
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| upperLevelUnit | The next upper level cadastral zoning containing this cadastral zoning. | CadastralZoning | voidable |
+
+Constraints of the spatial object type CadastralZoning
+
+Value of estimatedAccuracy shall be given in meters.
+
+A lower level cadastral zoning shall be part of an upper level zoning.
+
+**6.2. Code Lists**
+
+6.2.1. Cadastral Zoning Level (CadastralZoningLevelValue)
+
+Levels of hierarchy of the cadastral zonings.
+
+**6.3 Theme-specific Requirements**
+
+6.3.1. Geometry Representation
+
+1\. The value domain of spatial properties defined in this Section is not restricted to the Simple Feature spatial schema as defined by EN ISO 19125-1.
+
+2\. If cadastral boundaries are provided, the cadastral boundaries corresponding to the outline of a cadastral parcel shall form closed ring(s).
+
+6.3.2. Modelling of object references
+
+All instances of the spatial object type CadastralParcel shall carry as a thematic identifier the attribute nationalCadastralReference. This attribute must enable users to make the link with rights, owners and other cadastral information in national cadastral registers or equivalent.
+
+6.3.3. Coordinate Reference Systems
+
+If data related to the spatial data theme Cadastral Parcels are made available in plane coordinates using the Lambert Conformal Conic projection, they shall also be made available in at least one other of the coordinate reference systems specified in sections 1.3.1, 1.3.2 and 1.3.3.
+
+**6.4. Portrayal Rules**
+
+6.4.1. Layers
+
+**Layer for the spatial data theme Cadastral Parcels**
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| CP.CadastralParcel | Cadastral Parcel | CadastralParcel |
+| CP.CadastralZoning | Cadastral Zoning | CadastralZoning |
+| CP.CadastralBoundary | Cadastral Boundary | CadastralBoundary |
+
+**7\. TRANSPORT NETWORKS**
+
+**7.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+— ‘aerodrome reference point’ means the designated geographical location of an aerodrome, located near the initial or planned geometric centre of the aerodrome and normally remaining where originally established,
+
+— ‘airport/heliport’ means a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft/helicopters,
+
+— ‘deep water route’ means a route in a designated area within defined limits which has been accurately surveyed for clearance of sea bottom and submerged obstacles to a minimum indicated depth of water,
+
+— ‘inter-modal connection’ means a connection between two elements in different transport networks that use a different transport mode, giving the possibility to change transported media (people, goods, etc) from one transport mode to another,
+
+— ‘linear element’ means a 1-dimensional object that serves as the axis along which linear referencing is performed,
+
+— ‘linear referencing’ means a specification of a location relative to a one-dimensional object as a measurement along (and optionally offset from) that element,
+
+— ‘navaid equipment’ means a physical navaid equipment placed on the Earth surface, like Very High Frequency Omnidirectional Radio Range (VOR), Distance Measuring Equipment (DME), localizer, Tactical Air Navigation Beacon (TACAN) etc., which help in guiding aircraft traffic safely through existing air routes,
+
+— ‘object referencing’ means providing the spatial extent of an object by referring to an existing spatial object or collection of spatial objects,
+
+— ‘railway yard’ means an area crossed by a number of parallel railway tracks (usually more than two) interconnected between them, which are used to stop trains in order to load / unload freight without interrupting the traffic of a main railway line,
+
+— ‘significant point’ means a specified geographical location used to define an Air Traffic Service (ATS) route, the flight path of an aircraft or for other navigation/ATS purposes,
+
+— ‘Area Navigation (RNAV)’ means a method of navigation which permits aircraft operation on any desired flight path within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of both,
+
+— ‘TACAN Navigation’ means a method of navigation which permits aircraft operation on any desired flight path within the coverage of station-referenced Tactical Air Navigation Beacon (TACAN) navigation aids.
+
+**7.2. Structure of the Spatial Data Theme Transport Networks**
+
+The types specified for the spatial data theme transport networks are structured in the following packages:
+
+— Common Transport Elements
+
+— Air Transport Network
+
+— Cable Transport Network
+
+— Railway Transport Network
+
+— Road Transport Network
+
+— Water Transport Network
+
+**7.3. Common Transport Elements**
+
+7.3.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Common Transport Elements:
+
+— Access Restriction
+
+— Condition Of Facility
+
+— Maintenance Authority
+
+— Marker Post
+
+— Owner Authority
+
+— Restriction for Vehicles
+
+— Traffic Flow Direction
+
+— Transport Area
+
+— Transport Link
+
+— Transport Link Sequence
+
+— Transport Link Set
+
+— Transport Network
+
+— Transport Node
+
+— Transport Object
+
+— Transport Point
+
+— Transport Property
+
+— Vertical Position
+
+7.3.1.1. Access Restriction (AccessRestriction)
+
+A restriction on the access to a transport element.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type AccessRestriction**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| restriction | Nature of the access restriction. | AccessRestrictionValue |  |
+
+7.3.1.2. Condition Of Facility (ConditionOfFacility)
+
+State of a transport network element with regards to its completion and use.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type ConditionOfFacility**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| currentStatus | Current status value of a transport network element with regards to its completion and use. | ConditionOfFacilityValue |  |
+
+7.3.1.3. Maintenance Authority (MaintenanceAuthority)
+
+The authority responsible for maintenance of the transport element.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type MaintenanceAuthority**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| authority | Identification of the maintenance authority. | CI_Citation |  |
+
+7.3.1.4. Marker Post (MarkerPost)
+
+Reference marker placed along a route in a transport network, mostly at regular intervals, indicating the distance from the beginning of the route, or some other reference point, to the point where the marker is located.
+
+This type is a sub-type of TransportPoint.
+
+**Attributes of the spatial object type MarkerPost**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| location | Distance from the beginning of the route, or some other reference point, to the point where a marker post is located. | Distance |  |
+
+**Association roles of the spatial object type MarkerPost**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| route | Route in a transport network along which the marker post is placed. | TransportLinkSet | voidable |
+
+7.3.1.5. Owner Authority (OwnerAuthority)
+
+The authority owning the transport element.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type OwnerAuthority**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| authority | Identification of the owning authority. | CI_Citation |  |
+
+7.3.1.6. Restriction For Vehicles (RestrictionForVehicles)
+
+Restriction on vehicles on a transport element.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type RestrictionForVehicles**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| measure | The measure for the restriction. | Measure |  |
+| restrictionType | The type of restriction. | RestrictionTypeValue |  |
+
+7.3.1.7. Traffic Flow Direction (TrafficFlowDirection)
+
+Indicates the direction of the flow of traffic in relation to the direction of the transport link vector.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type TrafficFlowDirection
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| direction | Indicates the direction of the flow of traffic. | LinkDirectionValue |  |
+
+Constraints of the spatial object type TrafficFlowDirection
+
+This property can only be associated with a spatial object of the type Link or LinkSequence.
+
+7.3.1.8. Transport Area (TransportArea)
+
+Surface that represents the spatial extent of an element of a transport network.
+
+This type is a sub-type of NetworkArea.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport area started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport area no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportArea
+
+All transport areas have an external object identifier.
+
+7.3.1.9. Transport Link (TransportLink)
+
+A linear spatial object that describes the geometry and connectivity of a transport network between two points in the network.
+
+This type is a sub-type of Link.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportLink
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport link started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport link no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportLink
+
+All transport links have an external object identifier.
+
+7.3.1.10. Transport Link Sequence (TransportLinkSequence)
+
+A linear spatial object, composed of an ordered collection of transport links, which represents a continuous path in the transport network without any branches. The element has a defined beginning and end and every position on the transport link sequence is identifiable with one single parameter such as length. It describes an element of the transport network, characterized by one or more thematical identifiers and/or properties.
+
+This type is a sub-type of LinkSequence.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportLinkSequence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport link sequence started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport link sequence no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportLinkSequence
+
+A transport link sequence must be composed of transport links that all belong to the same transport network.
+
+All transport link sequences have an external object identifier.
+
+7.3.1.11. Transport Link Set (TransportLinkSet)
+
+A collection of transport link sequences and or individual transport links that has a specific function or significance in a transport network.
+
+This type is a sub-type of LinkSet.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportLinkSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport link set started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport link set no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type TransportLinkSet
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| post | Marker post along a route in a transport network. | MarkerPost | voidable |
+
+Constraints of the spatial object type TransportLinkSet
+
+A transport link set must be composed of transport links and or transport link sequences that all belong to the same transport network.
+
+All transport link sets have an external object identifier.
+
+7.3.1.12. Transport Network (TransportNetwork)
+
+Collection of network elements that belong to a single mode of transport.
+
+This type is a sub-type of Network.
+
+**Attributes of the spatial object type TransportNetwork**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| typeOfTransport | Type of transport network, based on the type of infrastructure the network uses. | TransportTypeValue |  |
+
+7.3.1.13. Transport Node (TransportNode)
+
+A point spatial object which is used for connectivity.
+
+This type is a sub-type of Node.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportNode
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport node started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport node no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportNode
+
+All transport nodes have an external object identifier.
+
+7.3.1.14. Transport Object (TransportObject)
+
+An identity base for transport network objects in the real world.
+
+This type is abstract.
+
+**Attributes of the spatial object type TransportObject**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geographicalName | A geographical name that is used to identify the transport network object in the real world. It provides a ‘key’ for implicitly associating different representations of the object. | GeographicalName | voidable |
+
+7.3.1.15. Transport Point (TransportPoint)
+
+A point spatial object - which is not a node - that represents the position of an element of a transport network.
+
+This type is a sub-type of NetworkElement.
+
+This type is a sub-type of TransportObject.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportPoint
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The location of the transport point. | GM_Point |  |
+| validFrom | The time when the transport point started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport point no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportPoint
+
+All transport points have an external object identifier.
+
+7.3.1.16. Transport Property (TransportProperty)
+
+A reference to a property that falls upon the network. This property can apply to the whole of the network element it is associated with or - for linear spatial objects - be described using linear referencing.
+
+This type is a sub-type of NetworkProperty.
+
+This type is abstract.
+
+Attributes of the spatial object type TransportProperty
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | The time when the transport property started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the transport property no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type TransportProperty
+
+All transport properties have an external object identifier.
+
+7.3.1.17. Vertical Position (VerticalPosition)
+
+Vertical level relative to other transport network elements.
+
+This type is a sub-type of TransportProperty.
+
+**Attributes of the spatial object type VerticalPosition**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| verticalPosition | Relative vertical position of the transport element. | VerticalPositionValue |  |
+
+7.3.3. Code Lists
+
+7.3.3.1. Access Restriction (AccessRestrictionValue)
+
+Types of access restrictions for a transport element.
+
+7.3.3.2. Restriction Type (RestrictionTypeValue)
+
+Possible restrictions on vehicles that can access a transport element.
+
+7.3.3.3. Transport Type (TransportTypeValue)
+
+Possible types of transport networks.
+
+**7.4. Air Transport Network**
+
+7.4.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Air Transport Network:
+
+— Aerodrome Area
+
+— Aerodrome Category
+
+— Aerodrome Node
+
+— Aerodrome Type
+
+— Air Link
+
+— Air Link Sequence
+
+— Air Node
+
+— Air Route
+
+— Air Route Link
+
+— Airspace Area
+
+— Apron Area
+
+— Condition of Air Facility
+
+— Designated Point
+
+— Element Length
+
+— Element Width
+
+— Field Elevation
+
+— Instrument Approach Procedure
+
+— Lower Altitude Limit
+
+— Navaid
+
+— Procedure Link
+
+— Runway Area
+
+— Runway Centreline Point
+
+— Standard Instrument Arrival
+
+— Standard Instrument Departure
+
+— Surface Composition
+
+— Taxiway Area
+
+— Touch Down Lift Off Area
+
+— Upper Altitude Limit
+
+— Use Restriction
+
+7.4.1.1. Aerodrome Area (AerodromeArea)
+
+A defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft and/or helicopters.
+
+This type is a sub-type of TransportArea.
+
+7.4.1.2. Aerodrome Category (AerodromeCategory)
+
+Aerodrome category concerning the scope and importance of the air traffic services offered from and to it.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type AerodromeCategory
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aerodromeCategory | Value which indicates the category of an aerodrome. | AerodromeCategoryValue |  |
+
+Constraints of the spatial object type AerodromeCategory
+
+This property can only be associated with a spatial object that is an Aerodrome Node or an Aerodrome Area.
+
+7.4.1.3. Aerodrome Node (AerodromeNode)
+
+Node located at the aerodrome reference point of an airport/heliport, which is used to represent it in a simplified way.
+
+This type is a sub-type of AirNode.
+
+**Attributes of the spatial object type AerodromeNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designatorIATA | The three letter IATA designator of the aerodrome (airport/heliport). | CharacterString | voidable |
+| locationIndicatorICAO | The four letter ICAO location indicator of the aerodrome (airport/heliport), as listed in ICAO DOC 7910. | CharacterString | voidable |
+
+**Association roles of the spatial object type AerodromeNode**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| controlTowers | The set of control towers belonging to an aerodrome (airport/heliport). | Building of the Buildings Base package | voidable |
+
+7.4.1.4. Aerodrome Type (AerodromeType)
+
+A code specifying the type of aerodrome.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type AerodromeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aerodromeType | The type of aerodrome. | AerodromeTypeValue |  |
+
+Constraints of the spatial object type AerodromeType
+
+This property can only be associated with a spatial object that is an Aerodrome Node or Aerodrome Area.
+
+7.4.1.5. Air Link (AirLink)
+
+A linear spatial object that describes the geometry and connectivity of the air network between two points in the network.
+
+This type is a sub-type of TransportLink.
+
+This type is abstract.
+
+7.4.1.6. Air Link Sequence (AirLinkSequence)
+
+A linear spatial object, composed of an ordered collection of air links, which represents a continuous path in the air network without any branches.
+
+This type is a sub-type of TransportLinkSequence.
+
+7.4.1.7. Air Node (AirNode)
+
+A node which occurs in an air network.
+
+This type is a sub-type of TransportNode.
+
+This type is abstract.
+
+**Attributes of the spatial object type AirNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| significantPoint | Attribute which indicates whether the air node is or is not a significant point. | Boolean |  |
+
+7.4.1.8. Air Route (AirRoute)
+
+A specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services, from the end of the take-off and initial climb phase to the commencement of the approach and landing phase.
+
+This type is a sub-type of TransportLinkSet.
+
+**Attributes of the spatial object type AirRoute**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| airRouteType | Route classification. | AirRouteTypeValue | voidable |
+| designator | Code or designator that identifies an Air Route. | CharacterString | voidable |
+
+7.4.1.9. Air Route Link (AirRouteLink)
+
+A portion of a route to be flown usually without an intermediate stop, as defined by two consecutive significant points.
+
+This type is a sub-type of AirLink.
+
+**Attributes of the spatial object type AirRouteLink**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| airRouteLinkClass | The class or type of an air route link. | AirRouteLinkClassValue | voidable |
+
+7.4.1.10. Airspace Area (AirspaceArea)
+
+A defined volume in the air, described as horizontal projection with vertical limits.
+
+This type is a sub-type of TransportArea.
+
+**Attributes of the spatial object type AirspaceArea**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| AirspaceAreaType | A code indicating the general structure or characteristics of a particular airspace. | AirspaceAreaTypeValue |  |
+
+7.4.1.11. Apron Area (ApronArea)
+
+A defined area, on a land aerodrome/heliport, intended to accommodate aircraft/helicopters for purposes of loading and unloading passengers, mail or cargo, and for fuelling, parking or maintenance.
+
+This type is a sub-type of TransportArea.
+
+7.4.1.12. Condition Of Air Facility (ConditionOfAirFacility)
+
+State of an air transport network element with regards to its completion and use.
+
+This type is a sub-type of ConditionOfFacility.
+
+Constraints of the spatial object type ConditionOfAirFacility
+
+This property can only be associated with a spatial object that is an Aerodrome Node, an Aerodrome Area or a Runway Area.
+
+7.4.1.13. Designated Point (DesignatedPoint)
+
+A geographical location not marked by the site of a radio navigation aid, used in defining an ATS route, the flight path of an aircraft or for other navigation or ATS purposes.
+
+This type is a sub-type of AirNode.
+
+**Attributes of the spatial object type DesignatedPoint**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The coded designator of the point. | CharacterString | voidable |
+
+7.4.1.14. Element Length (ElementLength)
+
+The physical length of the element.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type ElementLength
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| length | The physical length of the element. | Measure |  |
+
+Constraints of the spatial object type ElementLength
+
+This property can only be associated with a spatial object that is a Runway Area, Taxiway Area or Touch Down Lift Off Area.
+
+7.4.1.15. Element Width (ElementWidth)
+
+The physical width of the element.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type ElementWidth
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| width | The physical width of the element. | Measure |  |
+
+Constraints of the spatial object type ElementWidth
+
+This property can only be associated with a spatial object that is a Runway Area, Taxiway Area or Touch Down Lift Off Area.
+
+7.4.1.16. Field Elevation (FieldElevation)
+
+The aerodrome elevation as the vertical distance between the highest point of the landing area of an aerodrome and mean sea level.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type FieldElevation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| altitude | Value of the field altitude. | Measure |  |
+
+Constraints of the spatial object type FieldElevation
+
+This property can only be associated with a spatial object that is an Aerodrome Node or Aerodrome Area.
+
+7.4.1.17. Instrument Approach Procedure (InstrumentApproachProcedure)
+
+A series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en route obstacle clearance criteria apply.
+
+This type is a sub-type of ProcedureLink.
+
+7.4.1.18. Lower Altitude Limit (LowerAltitudeLimit)
+
+Altitude that defines the lower limit of an air transport network object.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type LowerAltitudeLimit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| altitude | Value of the altitude limit. | Measure |  |
+
+Constraints of the spatial object type LowerAltitudeLimit
+
+This property can only be associated with a spatial object that is an Air Route Link or Airspace Area.
+
+7.4.1.19. Navaid (Navaid)
+
+One or more Navaid Equipments providing navigation services.
+
+This type is a sub-type of AirNode.
+
+**Attributes of the spatial object type Navaid**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The coded identifier given to the navaid system. | CharacterString | voidable |
+| navaidType | Type of the navaid service. | NavaidTypeValue | voidable |
+
+7.4.1.20. Procedure Link (ProcedureLink)
+
+A series of predetermined manoeuvres with specified protection from obstacles.
+
+This type is a sub-type of AirLink.
+
+7.4.1.21. Runway Area (RunwayArea)
+
+A defined rectangular area on a land aerodrome/heliport prepared for the landing and take-off of aircraft.
+
+This type is a sub-type of TransportArea.
+
+**Attributes of the spatial object type RunwayArea**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The full textual designator of the runway, used to uniquely identify it at an aerodrome/heliport which has more than one. | CharacterString | voidable |
+| runwayType | The type of runway, either runway for airplanes or final approach and take off area (FATO) for helicopters. | RunwayTypeValue | voidable |
+
+7.4.1.22. Runway Centreline Point (RunwayCentrelinePoint)
+
+An operationally significant position on the centreline of a runway direction.
+
+This type is a sub-type of AirNode.
+
+**Attributes of the spatial object type RunwayCentrelinePoint**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| pointRole | The role of the point along the runway direction centreline. | PointRoleValue |  |
+
+7.4.1.23. Standard Instrument Arrival (StandardInstrumentArrival)
+
+A designated instrument flight rule (IFR) arrival route linking a significant point, normally on an ATS route, with a point from which a published instrument approach procedure can be commenced.
+
+This type is a sub-type of ProcedureLink.
+
+**Attributes of the spatial object type StandardInstrumentArrival**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The textual designator of the Standard Instrument Arrival. | CharacterString | voidable |
+
+7.4.1.24. Standard Instrument Departure (StandardInstrumentDeparture)
+
+A designated instrument flight rule (IFR) departure route linking the aerodrome or a specific runway of the aerodrome with a specified significant point, normally on a designated ATS route, at which the en-route phase of a flight commences.
+
+This type is a sub-type of ProcedureLink.
+
+**Attributes of the spatial object type StandardInstrumentDeparture**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The full textual designator of the Standard Instrument Departure. | CharacterString | voidable |
+
+7.4.1.25. Surface Composition (SurfaceComposition)
+
+The composition of an aerodrome/heliport related surface.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type SurfaceComposition
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceComposition | A code indicating the composition of an aerodrome/heliport related surface. | SurfaceCompositionValue |  |
+
+Constraints of the spatial object type SurfaceComposition
+
+This property can only be associated with a spatial object that is a Runway Area, Taxiway Area, Apron Area or Touch Down Lift Off Area.
+
+7.4.1.26. Taxiway Area (TaxiwayArea)
+
+A defined path at an aerodrome/heliport established for the taxiing of aircraft/helicopters and intended to provide a link between one part of the aerodrome and another.
+
+This type is a sub-type of TransportArea.
+
+**Attributes of the spatial object type TaxiwayArea**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The textual designator of the taxiway. | CharacterString | voidable |
+
+7.4.1.27. Touch Down Lift Off Area (TouchDownLiftOff)
+
+A load bearing area on which a helicopter may touch down or lift-off.
+
+This type is a sub-type of AirNode.
+
+**Attributes of the spatial object type TouchDownLiftOff**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designator | The textual designator of the touch down and lift-off area. | CharacterString | voidable |
+
+7.4.1.28. Upper Altitude Limit (UpperAltitudeLimit)
+
+Altitude that defines the upper limit of an air transport network object.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type UpperAltitudeLimit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| altitude | Value of the altitude limit. | Measure |  |
+
+Constraints of the spatial object type UpperAltitudeLimit
+
+This property can only be associated with a spatial object that is an Air Route Link or Airspace Area.
+
+7.4.1.29. Use Restriction (UseRestriction)
+
+The restrictions to the use of an air network object.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type UseRestriction
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| restriction | The type of use restriction for the air network object. | AirUseRestrictionValue |  |
+
+Constraints of the spatial object type UseRestriction
+
+This property can only be associated with a spatial object that is an Air Route, Air Link (or specialized Air Link), Air Node (or specialized Air Node) or Aerodrome Area.
+
+7.4.2. Code Lists
+
+7.4.2.1. Aerodrome Category (AerodromeCategoryValue)
+
+Aerodrome possible categories concerning the scope and importance of the air traffic services offered from and to it.
+
+7.4.2.2. Aerodrome Type (AerodromeTypeValue)
+
+A code specifying whether a particular entity occurrence is an Aerodrome or a Heliport.
+
+7.4.2.3. Air Route Link Class (AirRouteLinkClassValue)
+
+The type of the route from the navigation point of view.
+
+7.4.2.4. Air Route Type (AirRouteTypeValue)
+
+The route classification as ATS route or North Atlantic Tracks.
+
+7.4.2.5. Air Use Restriction (AirUseRestrictionValue)
+
+The use restrictions for an air network object.
+
+7.4.2.6. Airspace Area Type (AirspaceAreaTypeValue)
+
+Recognised types of Airspace.
+
+7.4.2.7. Navaid Type (NavaidTypeValue)
+
+Types of Navaid Services.
+
+7.4.2.8. Point Role (PointRoleValue)
+
+Role of the Runway Centreline Point.
+
+7.4.2.9. Runway Type (RunwayTypeValue)
+
+A code that makes a distinction between runways for airplanes and FATO for helicopters.
+
+7.4.2.10. Surface Composition (SurfaceCompositionValue)
+
+A code indicating the composition of a surface.
+
+**7.5. Cable Transport Network**
+
+7.5.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Cable Transport Network:
+
+— Cableway Link
+
+— Cableway Link Sequence
+
+— Cableway Link Set
+
+— Cableway Node
+
+7.5.1.1. Cableway Link (CablewayLink)
+
+Linear spatial object that describes the geometry and connectivity of a cable network between two points in a cableway transport network.
+
+This type is a sub-type of TransportLink.
+
+**Attributes of the spatial object type CablewayLink**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| cablewayType | The type of a cableway transport. | CablewayTypeValue | voidable |
+
+7.5.1.2. Cableway Link Sequence (CablewayLinkSequence)
+
+An ordered collection of cableway links that are characterized by one or more thematic identifiers and/or properties.
+
+This type is a sub-type of TransportLinkSequence.
+
+7.5.1.3. Cableway Link Set (CablewayLinkSet)
+
+A collection of cableway link sequences and or individual cableway links that has a specific function or significance in a cable transport network.
+
+This type is a sub-type of TransportLinkSet.
+
+7.5.1.4. Cableway Node (CablewayNode)
+
+A point spatial object that is used to represent connectivity between two consecutive cableway links.
+
+This type is a sub-type of TransportNode.
+
+7.5.2. Code Lists
+
+7.5.2.1. Cableway Type (CablewayTypeValue)
+
+The possible types of cableway transport.
+
+**7.6. Railway Transport Network**
+
+7.6.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Railway Transport Network:
+
+— Design Speed
+
+— Nominal Track Gauge
+
+— Number of Tracks
+
+— Railway Area
+
+— Railway Electrification
+
+— Railway Line
+
+— Railway Link
+
+— Railway Link Sequence
+
+— Railway Node
+
+— Railway Station Area
+
+— Railway Station Code
+
+— Railway Station Node
+
+— Railway Type
+
+— Railway Use
+
+— Railway Yard Area
+
+— Railway Yard Node
+
+7.6.1.1. Design Speed (DesignSpeed)
+
+The specification of the maximum speed to which a railway line is designed for.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type DesignSpeed
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| speed | The specification of the maximum speed to which a railway line is designed for. | Velocity |  |
+
+Constraints of the spatial object type DesignSpeed
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.2. Nominal Track Gauge (NominalTrackGauge)
+
+The nominal distance between the two outer rails (gauge) of a railway track.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type NominalTrackGauge
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| nominalGauge | A single value that identifies the track gauge. | Measure | voidable |
+| nominalGaugeCategory | Provision of the gauge of a railway track as a fuzzy category with respect to the European standard nominal gauge. | TrackGaugeCategoryValue | voidable |
+
+Constraints of the spatial object type NominalTrackGauge
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.3. Number Of Tracks (NumberOfTracks)
+
+The number of tracks for a railway stretch.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type NumberOfTracks
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| minMaxNumberOfTracks | Indicates whether the number of tracks are counted as minimum or maximum value. | MinMaxTrackValue | voidable |
+| numberOfTracks | The number of tracks present. | Integer |  |
+
+Constraints of the spatial object type NumberOfTracks
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.4. Railway Area (RailwayArea)
+
+Surface occupied by a railway track, including ballast.
+
+This type is a sub-type of TransportArea.
+
+7.6.1.5. Railway Electrification (RailwayElectrification)
+
+Indication whether the railway is provided with an electric system to power vehicles moving along it.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RailwayElectrification
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| electrified | Indicates whether the railway is provided with an electric system to power vehicles moving along it. | Boolean |  |
+
+Constraints of the spatial object type RailwayElectrification
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.6. Railway Line (RailwayLine)
+
+A collection of railway link sequences and or individual railway links that are characterized by one or more thematical identifiers and/or properties.
+
+This type is a sub-type of TransportLinkSet.
+
+**Attributes of the spatial object type RailwayLine**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| railwayLineCode | A code assigned to a railway line which is unique within a Member State. | CharacterString | voidable |
+
+7.6.1.7. Railway Link (RailwayLink)
+
+A linear spatial object that describes the geometry and connectivity of a railway network between two points in the network.
+
+This type is a sub-type of TransportLink.
+
+7.6.1.8. Railway Link Sequence (RailwayLinkSequence)
+
+A linear spatial object, composed of an ordered collection of railway links, which represents a continuous path in a railway network without any branches. The element has a defined beginning and end and every position on the railway link sequence is identifiable with one single parameter such as length. It describes an element of the railway network, characterized by one or more thematical identifiers and/or properties.
+
+This type is a sub-type of TransportLinkSequence.
+
+7.6.1.9. Railway Node (RailwayNode)
+
+A point spatial object which represents a significant point along the railway network or defines an intersection of railway tracks used to describe its connectivity.
+
+This type is a sub-type of TransportNode.
+
+**Attributes of the spatial object type RailwayNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| formOfNode | The function of a railway node within the railway network. | FormOfRailwayNodeValue | voidable |
+
+7.6.1.10. Railway Station Area (RailwayStationArea)
+
+An area spatial object which is used to represent the topographical limits of the facilities of a railway station (buildings, railway yards, installations and equipment) devoted to carry out railway station operations.
+
+This type is a sub-type of TransportArea.
+
+7.6.1.11. Railway Station Code (RailwayStationCode)
+
+The unique code assigned to a railway station.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RailwayStationCode
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| stationCode | A unique code assigned to a railway station. | CharacterString |  |
+
+Constraints of the spatial object type RailwayStationCode
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.12. Railway Station Node (RailwayStationNode)
+
+A railway node which represents the location of a railway station along the railway network.
+
+This type is a sub-type of RailwayNode.
+
+Attributes of the spatial object type RailwayStationNode
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| numberOfPlatforms | A value indicating the number of platforms available at a railway station. | Integer | voidable |
+
+Constraints of the spatial object type RailwayStationNode
+
+For a railway station node, the value for the ‘formOfNode’ attribute shall always be ‘RailwayStop’.
+
+7.6.1.13. Railway Type (RailwayType)
+
+The type of railway transport the line is designed for.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RailwayType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The type of railway transport to which the line is designed for. | RailwayTypeValue |  |
+
+Constraints of the spatial object type RailwayType
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.14. Railway Use (RailwayUse)
+
+The current use of the railway.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RailwayUse
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| use | The current use of the railway. | RailwayUseValue |  |
+
+Constraints of the spatial object type RailwayUse
+
+This property can only be associated with a spatial object that is part of a railway transport network.
+
+7.6.1.15. Railway Yard Area (RailwayYardArea)
+
+An area spatial object which is used to represent the topographical limits of a railway yard.
+
+This type is a sub-type of TransportArea.
+
+7.6.1.16. Railway Yard Node (RailwayYardNode)
+
+A railway node which occurs within a railway yard area.
+
+This type is a sub-type of RailwayNode.
+
+Constraints of the spatial object type RailwayYardNode
+
+For a railway yard node, the value for the ‘formOfNode’ attribute shall always be ‘RailwayStop’.
+
+7.6.3. Code Lists
+
+7.6.3.1. Form Of Railway Node (FormOfRailwayNodeValue)
+
+The possible functions of a railway node within the railway network.
+
+7.6.3.2. Railway Type (RailwayTypeValue)
+
+The possible types of railway transport.
+
+7.6.3.3. Railway Use (RailwayUseValue)
+
+The possible uses of railways.
+
+7.6.3.4. Minimum Or Maximum Track Number (MinMaxTrackValue)
+
+Values to indicate whether number of tracks are counted as the maximum, minimum or average number.
+
+7.6.3.5. Track Gauge Category (TrackGaugeCategoryValue)
+
+The possible categories of railways concerning its nominal track gauge.
+
+**7.7. Road Transport Network**
+
+7.7.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Road Transport Network:
+
+— E-Road
+
+— Form of Way
+
+— Functional Road Class
+
+— Number of Lanes
+
+— Road
+
+— Road Area
+
+— Road Link
+
+— Road Link Sequence
+
+— Road Name
+
+— Road Node
+
+— Road Service Area
+
+— Road Service Type
+
+— Road Surface Category
+
+— Road Width
+
+— Speed Limit
+
+— Vehicle Traffic Area
+
+7.7.1.1. E-Road (ERoad)
+
+A collection of road link sequences and or individual road links that represents a route that is part of the international E-road network, characterized by its European route number.
+
+This type is a sub-type of TransportLinkSet.
+
+**Attributes of the spatial object type ERoad**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| europeanRouteNumber | Code, identifying the route in the international E-road network. The code always starts with a letter ‘E’, followed by a one-, two- or three-digit number. | CharacterString | voidable |
+
+7.7.1.2. Form Of Way (FormOfWay)
+
+A classification based on the physical properties of the Road Link.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type FormOfWay
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| formOfWay | Physical form of the way. | FormOfWayValue |  |
+
+Constraints of the spatial object type FormOfWay
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.3. Functional Road Class (FunctionalRoadClass)
+
+A classification based on the importance of the role that the road performs in the road network.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type FunctionalRoadClass
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| functionalClass | Functional rank of the road link in the road network. | FunctionalRoadClassValue |  |
+
+Constraints of the spatial object type FunctionalRoadClass
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.4. Number Of Lanes (NumberOfLanes)
+
+The number of lanes of a road element.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type NumberOfLanes
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| direction | Indicates which direction the number of lanes is valid for. | LinkDirectionValue | voidable |
+| minMaxNumberOfLanes | Indicates if the number of lanes is counted as minimum or maximum value. | MinMaxLaneValue | voidable |
+| numberOfLanes | Number of lanes. | Integer |  |
+
+Constraints of the spatial object type NumberOfLanes
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.5. Road (Road)
+
+A collection of road link sequences and/or individual road links that are characterized by one or more thematic identifiers and/or properties.
+
+This type is a sub-type of TransportLinkSet.
+
+**Attributes of the spatial object type Road**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| localRoadCode | Identification code assigned to the road by the local road authority. | CharacterString | voidable |
+| nationalRoadCode | The national number of the road. | CharacterString | voidable |
+
+7.7.1.6. Road Area (RoadArea)
+
+Surface which extends to the limits of a road, including vehicular areas and other parts of it.
+
+This type is a sub-type of TransportArea.
+
+7.7.1.7. Road Link (RoadLink)
+
+A linear spatial object that describes the geometry and connectivity of a road network between two points in the network. Road links can represent paths, bicycle roads, single carriageways, multiple carriageway roads and even fictitious trajectories across traffic squares.
+
+This type is a sub-type of TransportLink.
+
+7.7.1.8. Road Link Sequence (RoadLinkSequence)
+
+A linear spatial object, composed of an ordered collection of road links, which represents a continuous path in a road network without any branches. The element has a defined beginning and end and every position on the road link sequence is identifiable with one single parameter such as length. It describes an element of the road network, characterized by one or more thematic identifiers and/or properties.
+
+This type is a sub-type of TransportLinkSequence.
+
+7.7.1.9. Road Name (RoadName)
+
+Name of a road, as assigned by the responsible authority.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RoadName
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the road. | GeographicalName |  |
+
+Constraints of the spatial object type RoadName
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.10. Road Node (RoadNode)
+
+A point spatial object that is used to either represent connectivity between two road links or to represent a significant spatial object such as a services station or roundabout.
+
+This type is a sub-type of TransportNode.
+
+**Attributes of the spatial object type RoadNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| formOfRoadNode | Description of the function of a road node in the road transport network. | FormOfRoadNodeValue | voidable |
+
+7.7.1.11. Road Service Area (RoadServiceArea)
+
+Surface annexed to a road and devoted to offer particular services for it.
+
+This type is a sub-type of TransportArea.
+
+7.7.1.12. Road Service Type (RoadServiceType)
+
+Description of the type of road service area and the available facilities.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RoadServiceType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| availableFacility | Facility that is available for a given road service area. | ServiceFacilityValue |  |
+| type | Type of road service area. | RoadServiceTypeValue |  |
+
+Constraints of the spatial object type RoadServiceType
+
+This property can only be associated with a spatial object of the type RoadServiceArea or RoadNode (when formOfRoadNode=roadServiceArea).
+
+7.7.1.13. Road Surface Category (RoadSurfaceCategory)
+
+Specification of the state of the surface of the associated Road Element. Indicates whether a road is paved or unpaved.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RoadSurfaceCategory
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceCategory | Type of road surface. | RoadSurfaceCategoryValue |  |
+
+Constraints of the spatial object type RoadSurfaceCategory
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.14. Road Width (RoadWidth)
+
+The width of the road, measured as an average value.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type RoadWidth
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| measuredRoadPart | Indicates to which part of a road the value for the attribute ‘width’ applies. | RoadPartValue | voidable |
+| width | Road width value. | Measure |  |
+
+Constraints of the spatial object type RoadWidth
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.15. Speed Limit (SpeedLimit)
+
+Limit for the speed of a vehicle on a road.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type SpeedLimit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaCondition | Speed limit is dependent on environmental circumstances. | AreaConditionValue | voidable |
+| direction | Indicates which direction the speed limit is valid for. | LinkDirectionValue | voidable |
+| laneExtension | Number of lanes (including the start lane) to which the speed limit applies. | Integer | voidable |
+| speedLimitMinMaxType | Indicates if the speed limit is maximum or minimum and if it is recommended. | SpeedLimitMinMaxValue |  |
+| speedLimitSource | Source for speed limit. | SpeedLimitSourceValue | voidable |
+| speedLimitValue | Value for speed limit. | Velocity |  |
+| startLane | Index of the first lane to which speed limit applies. For countries with right-hand traffic, the index 1 refers to the rightmost lane and the index is incremented to the left; for countries with left-hand traffic, the index 1 refers to the leftmost lane, and the index is incremented to the right. | Integer | voidable |
+| validityPeriod | Period during which the speed limit is valid. | TM_Period | voidable |
+| vehicleType | Vehicle type the speed limit is restricted to. | VehicleTypeValue | voidable |
+| weatherCondition | Weather condition the speed limit is dependent on. | WeatherConditionValue | voidable |
+
+Constraints of the spatial object type SpeedLimit
+
+This property can only be associated with a spatial object that is part of a road transport network.
+
+7.7.1.16. Vehicle Traffic Area (VehicleTrafficArea)
+
+Surface that represents the part of a road which is used for the normal traffic of vehicles.
+
+This type is a sub-type of TransportArea.
+
+7.7.3. Code Lists
+
+7.7.3.1. Area Condition (AreaConditionValue)
+
+Speed limit restriction depending on the area.
+
+7.7.3.2. Form Of Road Node (FormOfRoadNodeValue)
+
+Functions of road nodes.
+
+7.7.3.3. Form Of Way (FormOfWayValue)
+
+Classification based on the physical properties of the road link.
+
+7.7.3.4. Road Part (RoadPartValue)
+
+Indication to which part of a road the value of a measurement applies.
+
+7.7.3.5. Road Service Type (RoadServiceTypeValue)
+
+Types of road service areas.
+
+7.7.3.6. Road Surface Category (RoadSurfaceCategoryValue)
+
+Values to indicate whether a road is paved or not paved.
+
+7.7.3.7. Service Facility (ServiceFacilityValue)
+
+Possible service facilities available at a road service area.
+
+7.7.3.8. Speed Limit Source (SpeedLimitSourceValue)
+
+Possible sources for speed limits.
+
+7.7.3.9. Vehicle Type (VehicleTypeValue)
+
+Possible types of vehicles.
+
+7.7.3.10. Weather Condition (WeatherConditionValue)
+
+Values to indicate weather conditions that affect speed limits.
+
+7.7.3.11. Functional Road Class (FunctionalRoadClassValue)
+
+Values for the functional road classification. This classification is based on the importance of the role that the road performs in the road network.
+
+7.7.3.12. Minimum Or Maximum Lane Number (MinMaxLaneValue)
+
+Values to indicate whether number of lanes are counted as the maximum, minimum or average number.
+
+7.7.3.13. Nature Of Speed Limit (SpeedLimitMinMaxValue)
+
+Possible values to indicate the nature of a speed limit.
+
+**7.8. Water Transport Network**
+
+7.8.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Water Transport Network:
+
+— Beacon
+
+— Buoy
+
+— CEMT Class
+
+— Condition of Water Facility
+
+— Fairway Area
+
+— Ferry Crossing
+
+— Ferry Use
+
+— Inland Waterway
+
+— Marine Waterway
+
+— Port Area
+
+— Port Node
+
+— Restriction for Water Vehicles
+
+— Traffic Separation Scheme
+
+— Traffic Separation Scheme Area
+
+— Traffic Separation Scheme Crossing
+
+— Traffic Separation Scheme Lane
+
+— Traffic Separation Scheme Roundabout
+
+— Traffic Separation Scheme Separator
+
+— Water Link Sequence
+
+— Water Node
+
+— Water Traffic Flow Direction
+
+— Waterway
+
+— Waterway Link
+
+— Waterway Node
+
+7.8.1.1. Beacon (Beacon)
+
+A prominent specially constructed object forming a conspicuous mark as a fixed aid to navigation, or for use in hydrographic survey.
+
+This type is a sub-type of TransportPoint.
+
+7.8.1.2. Buoy (Buoy)
+
+A floating object moored to the bottom in a particular (charted) place, as an aid to navigation or for other specific purposes.
+
+This type is a sub-type of TransportPoint.
+
+7.8.1.3. CEMT Class (CEMTClass)
+
+Classification of an inland waterway according to CEMT (European Conference of Ministers of Transport).
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type CEMTClass
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| CEMTClass | Value indicating the classification of an Inland waterway according to CEMT (European Conference of Ministers of Transport). | CEMTClassValue |  |
+
+Constraints of the spatial object type CEMTClass
+
+This property can only be associated with a spatial object that is part of a water transport network.
+
+7.8.1.4. Condition Of Water Facility (ConditionOfWaterFacility)
+
+State of a water transport network element with regards to its completion and use.
+
+This type is a sub-type of ConditionOfFacility.
+
+Constraints of the spatial object type ConditionOfWaterFacility
+
+This property can only be associated with a spatial object that is part of a water transport network.
+
+7.8.1.5. Fairway Area (FairwayArea)
+
+The main travelled part of a waterway.
+
+This type is a sub-type of TransportArea.
+
+7.8.1.6. Ferry Crossing (FerryCrossing)
+
+A special waterway aimed at supporting the transport of passengers, vehicles or other cargo/freight across a water body, and which is normally used as a connection linking two or more nodes of a land based transport network.
+
+This type is a sub-type of Waterway.
+
+7.8.1.7. Ferry Use (FerryUse)
+
+The type of transport carried out by a ferry crossing.
+
+This type is a sub-type of TransportProperty.
+
+Attributes of the spatial object type FerryUse
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ferryUse | Value indicating the type of transport carried out by a ferry crossing. | FerryUseValue |  |
+
+Constraints of the spatial object type FerryUse
+
+This property can only be associated with a spatial object that is part of a water transport network.
+
+7.8.1.8. Inland Waterway (InlandWaterway)
+
+Waterway which is defined at inland continental waters.
+
+This type is a sub-type of Waterway.
+
+7.8.1.9. Marine Waterway (MarineWaterway)
+
+Waterway which is defined at sea waters.
+
+This type is a sub-type of Waterway.
+
+**Attributes of the spatial object type MarineWaterway**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| deepWaterRoute | Attribute which indicates if the maritime waterway is a deep water route. | Boolean | voidable |
+
+7.8.1.10. Port Area (PortArea)
+
+An area spatial object which is used to represent the physical limits of all the facilities which constitute the terrestrial zone of a sea or inland port.
+
+This type is a sub-type of TransportArea.
+
+7.8.1.11. Port Node (PortNode)
+
+A point spatial object which is used to represent a sea or inland port in a simplified way, aproximately located at the bank of the waterbody where the port is placed.
+
+This type is a sub-type of WaterNode.
+
+7.8.1.12. Restriction For Water Vehicles (RestrictionForWaterVehicles)
+
+Restriction on vehicles on a water transport element.
+
+This type is a sub-type of RestrictionForVehicles.
+
+Constraints of the spatial object type RestrictionForWaterVehicles
+
+This property can only be associated with a spatial object that is part of a water transport network.
+
+7.8.1.13. Traffic Separation Scheme (TrafficSeparationScheme)
+
+A scheme which aims at reducing the risk of collision in congested and/or converging areas by separating traffic moving in opposite, or nearly opposite, directions.
+
+**Association roles of the spatial object type TrafficSeparationScheme**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| component | A component of a traffic separation scheme. | TrafficSeparationSchemeArea |  |
+| marineWaterRoute | The collection of marine waterways associated with a traffic separation scheme. | MarineWaterway |  |
+| markerBeacon | A marker forming part of a traffic separation scheme. | Beacon |  |
+| markerBuoy | A marker forming part of a traffic separation scheme. | Buoy |  |
+
+7.8.1.14. Traffic Separation Scheme Area (TrafficSeparationSchemeArea)
+
+An area spatial object forming part of a traffic separation scheme.
+
+This type is a sub-type of TransportArea.
+
+This type is abstract.
+
+7.8.1.15. Traffic Separation Scheme Crossing (TrafficSeparationSchemeCrossing)
+
+A defined area where traffic lanes cross.
+
+This type is a sub-type of TrafficSeparationSchemeArea.
+
+7.8.1.16. Traffic Separation Scheme Lane (TrafficSeparationSchemeLane)
+
+An area within defined limits in which one-way traffic flow is established.
+
+This type is a sub-type of TrafficSeparationSchemeArea.
+
+7.8.1.17. Traffic Separation Scheme Roundabout (TrafficSeparationSchemeRoundabout)
+
+A traffic separation scheme in which traffic moves in a counter-clockwise direction around a specified point or zone.
+
+This type is a sub-type of TrafficSeparationSchemeArea.
+
+7.8.1.18. Traffic Separation Scheme Separator (TrafficSeparationSchemeSeparator)
+
+A zone separating the lanes in which ships are proceeding in opposite or nearly opposite directions; or separating traffic lanes designated for particular classes of ships proceeding in the same direction.
+
+This type is a sub-type of TrafficSeparationSchemeArea.
+
+7.8.1.19. Water Link Sequence (WaterLinkSequence)
+
+A linear spatial object, composed of an ordered collection of waterway and/or watercourse links (as necessary), which represents a continuous path in the water network without any branches.
+
+This type is a sub-type of TransportLinkSequence.
+
+7.8.1.20. Water Node (WaterNode)
+
+A point spatial object which is used to represent the connectivity between two different waterway links, or between a waterway link and a watercourse link, in the water transport network.
+
+This type is a sub-type of TransportNode.
+
+This type is abstract.
+
+7.8.1.21. Water Traffic Flow Direction (WaterTrafficFlowDirection)
+
+Indicates the direction of the flow of water transport traffic in relation to the direction of the water transport link vector.
+
+This type is a sub-type of TrafficFlowDirection.
+
+Constraints of the spatial object type WaterTrafficFlowDirection
+
+This property can only be associated with a spatial object that is part of a water transport network.
+
+7.8.1.22. Waterway (Waterway)
+
+A collection of water link sequences and or individual waterway and/or watercourse links (as necessary) that are characterized by one or more thematical identifiers and/or properties, which perform a navigable route within a water body (oceans, seas, rivers, lakes, channels or canals).
+
+This type is a sub-type of TransportLinkSet.
+
+This type is abstract.
+
+7.8.1.23. Waterway Link (WaterwayLink)
+
+A linear spatial object that describes the geometry or connectivity of the water transport network between two consecutive waterway or watercourse nodes. It represents a linear section across a body of water which is used for shipping.
+
+This type is a sub-type of TransportLink.
+
+7.8.1.24. Waterway Node (WaterwayNode)
+
+A point spatial object which is used to represent the connectivity between two different waterway links, or between a waterway link and a watercourse link, in the water transport network.
+
+This type is a sub-type of WaterNode.
+
+**Attributes of the spatial object type WaterwayNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| formOfWaterwayNode | Description of the function of a waterway node in the water transport network. | FormOfWaterwayNodeValue | voidable |
+
+7.8.3. Code Lists
+
+7.8.3.1. Ferry Use (FerryUseValue)
+
+Types of transport carried out by a ferry.
+
+7.8.3.2. Form Of Waterway Node (FormOfWaterwayNodeValue)
+
+Function of a Waterway Node in the water transport network.
+
+7.8.3.3. CEMT Class (CEMTClassValue)
+
+Inland waterway classification according to CEMT (European Conference of Ministers of Transport) Resolution No 92/2.
+
+**7.9. Theme-specific Requirements**
+
+7.9.1. Consistency between spatial data sets
+
+1\. Transport Networks centreline representations and nodes shall always be located within the extent of the area representation of the same object.
+
+2\. Connectivity between Transport Networks across state borders and – where applicable – also across regional borders (and data sets) within Member States shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
+
+7.9.2. Modelling of object references
+
+1\. When linear referencing is used in Transport Networks data, the position of referenced properties on links and link sequences shall be expressed as distances measured along the supplied geometry of the underlying link object(s).
+
+2\. An inter-modal connection shall always reference two elements which belong to different networks.
+
+7.9.3. Geometry representation
+
+1\. Transport link ends shall be connected wherever an intersection exists between the real world phenomena they represent. No connections shall be created at crossing network elements when it is not possible to pass from one element to another.
+
+2\. In a Transport Networks data set which contains nodes, these nodes shall only be present where Transport Links connect or end.
+
+7.9.4. Modelling of object references
+
+The Water transport networks shall re-use, where it exists and is practicable, the water network centreline geometry of the Hydrography theme. Therefore, object referencing shall be used to link the water transport course with the existing water network geometry in the Hydrography theme.
+
+7.9.5. Centrelines
+
+The centrelines of Road and Rail objects shall fall within the extent of the physical real world object that they represent if the Link is indicated as not being ‘fictitious’.
+
+7.9.6. Ensuring Network Connectivity
+
+1\. Wherever a connection exists in a transport network, all connected link ends and the optional node that take part in this connection have to be positioned at a distance of less than the connectivity tolerance from each other.
+
+2\. Link ends and nodes that are not connected shall always be separated by a distance that is greater than the connectivity tolerance.
+
+3\. In data sets where both transport links and nodes are present, the relative position of nodes and link ends in relation to the specified connectivity tolerance shall correspond to the associations that exist between them in the data set.
+
+**7.10. Layers**
+
+**Layers for the spatial data theme Transport networks**
+
+| Layer Type | Layer Title | Spatial object type(s) |
+| --- | --- | --- |
+| TN.CommonTransportElements.TransportNode | Generic Transport Node | TransportNode |
+| TN.CommonTransportElements.TransportLink | Generic Transport Link | TransportLink |
+| TN.CommonTransportElements.TransportArea | Generic Transport Area | TransportArea |
+| TN.RoadTransportNetwork.RoadLink | Road Link | RoadLink |
+| TN.RoadTransportNetwork.VehicleTrafficArea | Vehicle traffic Area | VehicleTrafficArea |
+| TN.RoadTransportNetwork.RoadServiceArea | Road Service Area | RoadServiceArea |
+| TN.RoadTransportNetwork.RoadArea | Road Area | RoadArea |
+| TN.RailTransportNetwork.RailwayLink | Railway Link | RailwayLink |
+| TN.RailTransportNetwork.RailwayStationArea | Railway Station Area | RailwayStationArea |
+| TN.RailTransportNetwork.RailwayYardArea | Railway Yard Area | RailwayYardArea |
+| TN.RailTransportNetwork.RailwayArea | Railway Area | RailwayArea |
+| TN.WaterTransportNetwork.WaterwayLink | Waterway Link | WaterwayLink |
+| TN.WaterTransportNetwork.FairwayArea | Fairway Area | FairwayArea |
+| TN.WaterTransportNetwork.PortArea | Port Area | PortArea |
+| TN.AirTransportNetwork.AirLink | Air Link | AirLink |
+| TN.AirTransportNetwork.AerodromeArea | Aerodrome Area | AerodromeArea |
+| TN.AirTransportNetwork.RunwayArea | Runway Area | RunwayArea |
+| TN.AirTransportNetwork.AirspaceArea | Airspace Area | AirspaceArea |
+| TN.AirTransportNetwork.ApronArea | Apron Area | ApronArea |
+| TN.AirTransportNetwork.TaxiwayArea | Taxiway Area | TaxiwayArea |
+| TN.CableTransportNetwork.CablewayLink | Cableway Link | CablewayLink |
+
+**8\. HYDROGRAPHY**
+
+**8.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+— ‘aquifer’ means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater,
+
+— ‘groundwater’ means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil,
+
+— ‘sub-basin’ means an area of land from which all surface run-off flows through a series of streams, rivers and, possibly, lakes to a particular point in a water course,
+
+**8.2. Structure of the Spatial Data Theme Hydrography**
+
+The types specified for the spatial data theme Hydrography are structured in the following packages:
+
+— Hydro - base
+
+— Hydro - Network
+
+— Hydro - Physical Waters
+
+**8.3. Hydro - base**
+
+8.3.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Hydro - base:
+
+— Hydro Object
+
+8.3.1.1. Hydro Object (HydroObject)
+
+An identity base for hydrographic (including man-made) objects in the real world.
+
+This type is abstract.
+
+**Attributes of the spatial object type HydroObject**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geographicalName | A geographical name that is used to identify a hydrographic object in the real world. It provides a ‘key’ for implicitly associating different representations of the object. | GeographicalName | voidable |
+| hydroId | An identifier that is used to identify a hydrographic object in the real world. It provides a ‘key’ for implicitly associating different representations of the object. | HydroIdentifier | voidable |
+
+**Association roles of the spatial object type HydroObject**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| relatedHydroObject | A related hydrographic object representing the same real-world entity. | HydroObject | voidable |
+
+8.3.2. Data Types
+
+8.3.2.1. Hydro Identifier (HydroIdentifier)
+
+A hydrographic thematic identifier.
+
+**Attributes of the data type HydroIdentifier**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| classificationScheme | A description of the identification scheme (National, European, etc.) being used. | CharacterString |  |
+| localId | A local identifier, assigned by some authority. | CharacterString |  |
+| Namespace | An indicator of the scope for the local identifier. | CharacterString |  |
+
+**8.4. Hydro - Network**
+
+8.4.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Hydro - Network:
+
+— Hydro Node
+
+— Watercourse Link
+
+— Watercourse Link Sequence
+
+— Watercourse Separated Crossing
+
+8.4.1.1. Hydro Node (HydroNode)
+
+A node within the hydrographic network.
+
+This type is a sub-type of Node.
+
+This type is a sub-type of HydroObject.
+
+**Attributes of the spatial object type HydroNode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| hydroNodeCategory | Nature of the hydro node. | HydroNodeCategoryValue | voidable |
+
+8.4.1.2. Watercourse Link (WatercourseLink)
+
+A segment of a watercourse within a hydrographic network.
+
+This type is a sub-type of Link.
+
+This type is a sub-type of HydroObject.
+
+**Attributes of the spatial object type WatercourseLink**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| flowDirection | Direction of water flow in the segment relative to digitisation of segment geometry. | LinkDirectionValue | voidable |
+| length | Length of network segment. | Length | voidable |
+
+8.4.1.3. Watercourse Link Sequence (WatercourseLinkSequence)
+
+A sequence of watercourse links representing a non-branching path through a hydrographic network.
+
+This type is a sub-type of LinkSequence.
+
+This type is a sub-type of HydroObject.
+
+8.4.1.4. Watercourse Separated Crossing (WatercourseSeparatedCrossing)
+
+An element in the hydrographic network used to indicate non-interacting crossing of watercourse links separated by level.
+
+This type is a sub-type of GradeSeparatedCrossing.
+
+This type is a sub-type of HydroObject.
+
+8.4.2. Code Lists
+
+8.4.2.1. Hydro Node Category (HydroNodeCategoryValue)
+
+Defines categories for different types of hydrographic network nodes.
+
+**8.5. Hydro - Physical Waters**
+
+8.5.1. Spatial Object Types
+
+The following spatial object types shall be used for the exchange and classification of spatial objects related to Hydro - Physical Waters:
+
+— Crossing
+
+— Dam or Weir
+
+— Drainage Basin
+
+— Embankment
+
+— Falls
+
+— Fluvial Point
+
+— Ford
+
+— Hydro Point of Interest
+
+— Land-Water Boundary
+
+— Lock
+
+— Man-made Object
+
+— Rapids
+
+— River Basin
+
+— Shore
+
+— Shoreline Construction
+
+— Sluice
+
+— Standing Water
+
+— Surface Water
+
+— Watercourse
+
+— Wetland
+
+8.5.1.1. Crossing (Crossing)
+
+A man-made object allowing the passage of water above or below an obstacle.
+
+This type is a sub-type of ManMadeObject.
+
+**Attributes of the spatial object type Crossing**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The type of physical crossing. | CrossingTypeValue | voidable |
+
+8.5.1.2. Dam Or Weir (DamOrWeir)
+
+A permanent barrier across a watercourse used to impound water or to control its flow.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.3. Drainage Basin (DrainageBasin)
+
+Area having a common outlet for its surface runoff.
+
+This type is a sub-type of HydroObject.
+
+Attributes of the spatial object type DrainageBasin
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| area | Size of the drainage basin area. | Area | voidable |
+| basinOrder | Number (or code) expressing the degree of branching/dividing in a drainage basin system. | HydroOrderCode | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the drainage basin, as a surface. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| origin | Origin of the drainage basin. | OriginValue | voidable |
+
+Association roles of the spatial object type DrainageBasin
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| outlet | The surface water outlet(s) of a drainage basin. | SurfaceWater | voidable |
+| containsBasin | A smaller sub-basin contained within a larger basin | DrainageBasin | voidable |
+
+Constraints of the spatial object type DrainageBasin
+
+A river basin may not be contained in any other basin.
+
+The geometry attribute has to be of type GM_Surface or GM_MultiSurface.
+
+8.5.1.4. Embankment (Embankment)
+
+A man-made raised long mound of earth or other material.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.5. Falls (Falls)
+
+A vertically descending part of a watercourse where it falls from a height.
+
+This type is a sub-type of FluvialPoint.
+
+**Attributes of the spatial object type Falls**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| height | Distance measured from the lowest point of the base at ground or water level (downhill side/downstream side) to the tallest point of the spatial object. | Length | voidable |
+
+8.5.1.6. Fluvial Point (FluvialPoint)
+
+A hydro point of interest that affects the flow of a watercourse.
+
+This type is a sub-type of HydroPointOfInterest.
+
+This type is abstract.
+
+8.5.1.7. Ford (Ford)
+
+A shallow part of a watercourse used as a road crossing.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.8. Hydro Point Of Interest (HydroPointOfInterest)
+
+A natural place where water appears, disappears or changes its flow.
+
+This type is a sub-type of HydroObject.
+
+This type is abstract.
+
+**Attributes of the spatial object type HydroPointOfInterest**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the hydro point of interest, as a point, curve or surface. | GM_Primitive | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| levelOfDetail | Resolution, expressed as the inverse of an indicative scale or a ground distance. | MD_Resolution |  |
+
+8.5.1.11. Land-Water Boundary (LandWaterBoundary)
+
+The line where a land mass is in contact with a body of water.
+
+**Attributes of the spatial object type LandWaterBoundary**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the land-water boundary, as a curve. | GM_Curve |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| origin | Origin of the land-water boundary. | OriginValue | voidable |
+| waterLevelCategory | Water-level defining the land-water boundary. | WaterLevelValue | voidable |
+
+8.5.1.12. Lock (Lock)
+
+An enclosure with a pair or series of gates used for raising or lowering vessels as they pass from one water level to another.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.13. Man-made Object (ManMadeObject)
+
+An artificial object which lies inside a body of water and has one of the following types of function: - Retains the water; - Regulates the quantity of water; - Alters the course of the water; - Allows watercourses to cross each other.
+
+This type is a sub-type of HydroObject.
+
+This type is abstract.
+
+**Attributes of the spatial object type ManMadeObject**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| condition | The state of planning, construction, repair, and/or maintenance of the structures and/or equipment comprising a facility and/or located at a site, as a whole. | ConditionOfFacilityValue | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the man-made object, as a point, curve or surface. | GM_Primitive | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| levelOfDetail | Resolution, expressed as the inverse of an indicative scale or a ground distance. | MD_Resolution |  |
+
+8.5.1.17. Rapids (Rapids)
+
+Portions of a stream with accelerated current where it descends rapidly but without a break in the slope of the bed sufficient to form a waterfall.
+
+This type is a sub-type of FluvialPoint.
+
+8.5.1.18. River Basin (RiverBasin)
+
+The area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into the sea at a single river mouth, estuary or delta.
+
+This type is a sub-type of DrainageBasin.
+
+8.5.1.19. Shore (Shore)
+
+The narrow strip of land in immediate contact with any body of water including the area between high and low water lines.
+
+This type is a sub-type of HydroObject.
+
+**Attributes of the spatial object type Shore**
+
+<table>
+<tbody><tr><td>Attribute</td><td>Definition</td><td>Type</td><td>Voidability</td></tr>
+<tr><td>beginLifespanVersion</td><td>Date and time at which this version of the spatial object was inserted or changed in the spatial data set.</td><td>DateTime</td><td>voidable</td></tr>
+<tr><td>composition</td><td>The primary type(s) of material composing a spatial object, exclusive of the surface.</td><td>ShoreTypeValue</td><td>voidable</td></tr>
+<tr><td>delineationKnown</td><td>An indication that the delineation (for example: limits and information) of a spatial object is known.</td><td>Boolean</td><td>voidable</td></tr>
+<tr><td>endLifespanVersion</td><td>Date and time at which this version of the spatial object was superseded or retired in the spatial data set.</td><td>DateTime</td><td>voidable</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>geometry</td><td>The geometry of the shore.</td><td>GM_MultiSurface</td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>inspireId</td><td>External object identifier of the spatial object.</td><td>Identifier</td><td>  </td></tr>
+</tbody>
+</table>
+
+8.5.1.20. Shoreline Construction (ShorelineConstruction)
+
+An artificial structure attached to land bordering a body of water and fixed in position.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.21. Sluice (Sluice)
+
+An open, inclined conduit fitted with a gate for regulating water flow.
+
+This type is a sub-type of ManMadeObject.
+
+8.5.1.22. Standing Water (StandingWater)
+
+A body of water that is entirely surrounded by land.
+
+This type is a sub-type of SurfaceWater.
+
+Attributes of the spatial object type StandingWater
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| elevation | Elevation above mean sea level. | Length | voidable |
+| meanDepth | Average depth of the body of water. | Length | voidable |
+| surfaceArea | Surface area of the body of water. | Area | voidable |
+
+Constraints of the spatial object type StandingWater
+
+Standing water geometry may be a surface or point
+
+8.5.1.23. Surface Water (SurfaceWater)
+
+Any known inland waterway body.
+
+This type is a sub-type of HydroObject.
+
+This type is abstract.
+
+**Attributes of the spatial object type SurfaceWater**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the surface water: - either a curve or surface for a watercourse; - either a point or surface for a standing water. | GM_Primitive |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| levelOfDetail | Resolution, expressed as the inverse of an indicative scale or a ground distance. | MD_Resolution |  |
+| localType | Provides ‘local’ name for the type of surface water. | LocalisedCharacterString | voidable |
+| origin | Origin of the surface water. | OriginValue | voidable |
+| persistence | The degree of persistence of water. | HydrologicalPersistenceValue | voidable |
+| tidal | Identifies whether the surface water is affected by tidal water. | Boolean | voidable |
+
+**Association roles of the spatial object type SurfaceWater**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| bank | The bank(s) associated to a surface water. | Shore | voidable |
+| drainsBasin | The basin(s) drained by a surface water. | DrainageBasin | voidable |
+| neighbour | An association to another instance of the same real-world surface water in another data set. | SurfaceWater | voidable |
+
+8.5.1.24. Watercourse (Watercourse)
+
+A natural or man-made flowing watercourse or stream.
+
+This type is a sub-type of SurfaceWater.
+
+Attributes of the spatial object type Watercourse
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| condition | The state of planning, construction, repair, and/or maintenance of a watercourse. | ConditionOfFacilityValue | voidable |
+| delineationKnown | An indication that the delineation (for example: limits and information) of a spatial object is known. | Boolean | voidable |
+| length | Length of the watercourse. | Length | voidable |
+| level | Vertical location of watercourse relative to ground. | VerticalPositionValue | voidable |
+| streamOrder | Number (or code) expressing the degree of branching in a stream system. | HydroOrderCode | voidable |
+| width | Width of watercourse (as a range) along its length. | WidthRange | voidable |
+
+Constraints of the spatial object type Watercourse
+
+The shores on either side of a watercourse shall be provided (using the bank property) as two separate Shore objects.
+
+Watercourse geometry may be a curve or surface
+
+A condition attribute may be specified only for a man-made watercourse
+
+8.5.1.25. Wetland (Wetland)
+
+A poorly drained or periodically flooded area where the soil is saturated with water, and vegetation is supported.
+
+This type is a sub-type of HydroObject.
+
+**Attributes of the spatial object type Wetland**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | The geometry of the wetland, as a surface. | GM_Surface |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| localType | Provides ‘local’ name for the type of wetland. | LocalisedCharacterString | voidable |
+| Tidal | Identifies whether the wetland is affected by tidal water. | Boolean | voidable |
+
+8.5.2. Data Types
+
+8.5.2.1. Hydro Order Code (HydroOrderCode)
+
+A hydrologically meaningful ‘order code’ for ordering hierarchies of watercourses and drainage basins.
+
+**Attributes of the data type HydroOrderCode**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| order | Number (or code) expressing the degree of branching or dividing in a stream or drainage basin system. | CharacterString |  |
+| orderScheme | A description of the concept for ordering. | CharacterString |  |
+| scope | An indicator of the scope or origin for an order code (including whether it is national, supranational or European). | CharacterString |  |
+
+8.5.2.2. Width Range (WidthRange)
+
+The range of a watercourse’s horizontal width along its length.
+
+**Attributes of the data type WidthRange**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lower | Lower bound of width. | Length |  |
+| upper | Upper bound of width. | Length |  |
+
+8.5.4. Code Lists
+
+8.5.4.1. Crossing Type (CrossingTypeValue)
+
+Man-made physical watercourse crossing types.
+
+8.5.4.2. Hydrological Persistence (HydrologicalPersistenceValue)
+
+Categories of hydrological persistence of a body of water.
+
+8.5.4.4. Shore Type (ShoreTypeValue)
+
+Categories of shore area composition.
+
+8.5.4.5. Water Level (WaterLevelValue)
+
+The tidal datum/waterlevel to which depths and heights are referenced.
+
+8.5.4.6. Origin (OriginValue)
+
+A code list type specifying a set of hydrographic ‘origin’ categories (natural, man-made) for various hydrographic objects.
+
+**8.7. Theme-specific Requirements**
+
+8.7.1. Consistency between spatial data sets
+
+1\. Hydrography links, centrelines and nodes shall always be located within the extent of the area representation of the same object.
+
+2\. Connectivity between hydrographic networks across state borders and – where applicable – also across regional borders (and data sets) within Member States shall be established and maintained by the respective authorities, using the cross-border connectivity mechanisms provided by the NetworkConnection type.
+
+3\. All attribution of objects in this schema shall be the same as the equivalent property of that object used for reporting obligations under Directive 2000/60/EC.
+
+8.7.2. Identifier management
+
+1\. If a geographical name is used as a unique hydrologic ID for an object in this specification then it shall be derived, where possible, from a pan-European Gazetteer or another authoritative, pan-European source.
+
+2\. The localId attribute of the external object identifier of a spatial object shall be the same as the ID used for reporting obligations under Directive 2000/60/EC.
+
+8.7.3. Modelling of object references
+
+1\. If the same real world object in a data set is exchanged using spatial objects from more than one of the Hydrography application schemas then these spatial objects shall carry either the same, unique, geographical name or the same hydrographic thematic identifier.
+
+2\. When linear referencing is used in hydrographic Network data, the position of referenced properties on links and link sequences shall be expressed as distances measured along the supplied geometry of the underlying link object(s).
+
+8.7.4. Geometry representation
+
+1\. If spatial objects are provided at different spatial resolutions, the spatial resolution must be specified for each spatial object using the levelOfDetail attribute where applicable.
+
+2\. Watercourse links shall intersect wherever a connection exists between the real world phenomena they represent. No intersections shall be created at crossing network elements when it is not possible for water to pass from one element to another.
+
+3\. In a hydrographic network data set which contains nodes, these nodes shall only be present where Watercourse Links connect or end.
+
+4\. The geometry shall be the same as the geometry used for reporting obligations under Directive 2000/60/EC.
+
+8.7.5. Use of the DelineationKnown Attribute
+
+1\. The attribute delineationKnown shall not be used to indicate that the accuracy / precision of a certain geometry is low; this indication should be given using the appropriate data quality element(s).
+
+2\. The attribute delineationKnown shall not be used to indicate a change of geometry over time where this change of geometry is known.
+
+8.7.6. Centrelines
+
+The centrelines of watercourse objects shall fall within the extent of the physical real world object that they represent if the Watercourse Link is indicated as not being ‘fictitious’.
+
+8.7.7. Ensuring Network Connectivity
+
+1\. Wherever a connection exists in a hydrographic network, all connected link ends and the optional node that take part in this connection have to be positioned at a distance of less than the connectivity tolerance from each other.
+
+2\. Link ends and nodes that are not connected shall always be separated by a distance that is greater than the connectivity tolerance.
+
+3\. In data sets where both transport links and nodes are present, the relative position of nodes and link ends in relation to the specified connectivity tolerance shall correspond to the associations that exist between them in the data set.
+
+**8.8. Layers**
+
+**Layers for the spatial data theme Hydrography**
+
+| Layer Type | Layer Title | Spatial object type(s) |
+| --- | --- | --- |
+| HY.Network | Hydrographic Network | HydroNode, WatercourseLink |
+| HY.PhysicalWaters.Waterbodies | Waterbodies | Watercourse, StandingWater |
+| HY.PhysicalWaters.LandWaterBoundary | Land-Water Boundaries | LandWaterBoundary |
+| HY.PhysicalWaters.Catchments | Catchments | DrainageBasin, RiverBasin |
+| HY.PhysicalWaters.HydroPointOfInterest | Hydro Points of Interest | Rapids, Falls |
+| HY.PhysicalWaters.ManMadeObject | Man-made Objects | Crossing, DamOrWeir, Embankment, Lock, Ford, ShorelineConstruction, Sluice |
+| HY. PhysicalWaters.Wetland | Wetlands | Wetland |
+| HY. PhysicalWaters.Shore | Shores | Shore |
+
+**9\. PROTECTED SITES**
+
+**9.1. Spatial Object Types**
+
+The following spatial object types shall be used for the exchange and classification of spatial objects from data sets that relate to the spatial data theme Protected Sites:
+
+— Protected Site
+
+9.1.1 Protected Site (ProtectedSite)
+
+An area designated or managed within a framework of international, Union and Member States’ legislation to achieve specific conservation objectives.
+
+**Attributes of the spatial object type ProtectedSite**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry defining the boundary of the Protected Site. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| siteDesignation | The designation (type) of Protected Site. | DesignationType | voidable |
+| siteName | The name of the Protected Site. | GeographicalName | voidable |
+| siteProtectionClassification | The classification of the protected site based on the purpose for protection. | ProtectionClassificationValue | voidable |
+| thematicId | Thematic object identifier. | ThematicIdentifier | voidable |
+
+**9.2. Data Types**
+
+9.2.1 Designation Type (DesignationType)
+
+A data type designed to contain a designation for the Protected Site, including the designation scheme used and the value within that scheme.
+
+Attributes of the data type DesignationType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| designation | The actual Site designation. | DesignationValue |  |
+| designationScheme | The scheme from which the designation code comes. | DesignationSchemeValue |  |
+| percentageUnderDesignation | The percentage of the site that falls under the designation. This is used in particular for the IUCN categorisation. | Decimal |  |
+| legalFoundationDate | The date that the protected site was legally created. This is the date that the real world object was created, not the date that its representation in an information system was created. | Date | voidable |
+| legalFoundationDocument | A URL or text citation referencing the legal act that created the Protected Site. | CI_Citation | voidable |
+
+Constraints of the data type DesignationType
+
+Sites must use designations from an appropriate designation scheme, and the designation code value must agree with the designation scheme.
+
+**9.4. Code Lists**
+
+9.4.1. Designation Scheme (DesignationSchemeValue)
+
+The scheme used to assign a designation to the Protected Sites.
+
+This code list may be extended by the Member States.
+
+9.4.2. Designation (DesignationValue)
+
+Classification and designation types under different schemes.
+
+This code list comprises the values of the code lists specified in Sections 9.4.3-9.4.8 or other code lists defined by data providers.
+
+9.4.3. IUCN Designation (IUCNDesignationValue)
+
+A code list for the International Union for the Conservation of Nature classification scheme.
+
+9.4.4. National Monuments Record Designation (NationalMonumentsRecordDesignationValue)
+
+A code list for the National Monuments Record classification scheme.
+
+9.4.5. Natura2000 Designation (Natura2000DesignationValue)
+
+A code list for the Natura2000 designation scheme, in accordance with Council Directive 92/43/EEC ( 11 ) (Habitats Directive).
+
+9.4.6. Ramsar Designation (RamsarDesignationValue)
+
+A code list for the Convention on Wetlands of International Importance (Ramsar Convention) designation scheme.
+
+9.4.7. Unesco Man And Biosphere Programme Designation (UNESCOManAndBiosphereProgrammeDesignationValue)
+
+A code list for the Man and Biosphere Programme classification scheme.
+
+9.4.8. Unesco World Heritage Designation (UNESCOWorldHeritageDesignationValue)
+
+A code list for the World Heritage designation scheme.
+
+9.4.9. Protection Classification (ProtectionClassificationValue)
+
+The protected site classification based on the purpose of protection.
+
+**9.5. Layers**
+
+**Layers for the spatial data theme Protected Sites**
+
+| Layer Type | Layer Title | Spatial object type(s) |
+| --- | --- | --- |
+| PS.ProtectedSite | Protected Sites | ProtectedSite |
+
+## ANNEX III
+
+**REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN ANNEX II TO DIRECTIVE 2007/2/EC**
+
+**1\. ELEVATION**
+
+**1.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘digital elevation model’ (DEM) means Digital Surface Model (DSM) or Digital Terrain Model (DTM).
+
+(2) ‘digital surface model’ (DSM) means a surface describing the three dimensional shape of the Earth's surface, including all static features placed on it. Temporary phenomena do not form part of the surface, but due to the technical difficulties in removing them some of these features may also be present in the surface.
+
+(3) ‘digital terrain model’ (DTM) means a surface describing the three dimensional shape of the Earth's bare surface, excluding as possible any other features placed on it.
+
+(4) ‘elevation’ means a vertically-constrained dimensional property of an spatial object consisting of an absolute measure referenced to a well-defined surface which is commonly taken as origin.
+
+(5) ‘height’ means an elevation property measured along a plumb line in a direction opposite to Earth's gravity field (upwards).
+
+(6) ‘depth’ means an elevation property measured along a plumb line in a direction coincident to Earth's gravity field (downwards).
+
+**1.2. Structure of the Spatial Data Theme Elevation**
+
+The types specified for the spatial data theme Elevation are structured in the following packages:
+
+— Elevation – Base Types
+
+— Elevation – Grid Coverage
+
+— Elevation – Vector Elements
+
+— Elevation – TIN
+
+Spatial data sets describing the morphology of land elevation shall be made available at least using the spatial object types included in the package Elevation – Grid Coverage.
+
+Spatial data sets describing the morphology of bathymetry shall be made available at least using the spatial object types included in either the package Elevation – Grid Coverage or the package Elevation – Vector Elements.
+
+**1.3. Elevation – Base Types**
+
+1.3.1. Code Lists
+
+1.3.1.1. Elevation Property Type (ElevationPropertyTypeValue)
+
+Code list type which determines the elevation property which has been measured or calculated.
+
+1.3.1.2. Surface Type (SurfaceTypeValue)
+
+Code list type which determines the elevation surface with regard to its relative adherence to the Earth’s bare surface.
+
+**1.4. Elevation – Grid Coverage.**
+
+1.4.1. Spatial object types
+
+The package Elevation – Grid Coverage contains the spatial object type Elevation Grid Coverage.
+
+1.4.1.1. Elevation Grid Coverage (ElevationGridCoverage)
+
+Continuous coverage which uses a systematic tessellation based on a regular rectified quadrilateral grid to cover its domain, where the elevation property value is usually known for each of the grid points forming this domain.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type ElevationGridCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| domainExtent | Extent of the spatiotemporal domain of the coverage. | EX_Extent |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| propertyType | Attribute determining the elevation property represented by the elevation grid coverage. | ElevationPropertyTypeValue |  |
+| surfaceType | Attribute indicating the type of elevation surface that the coverage describes in relation to the Earth's bare surface. | SurfaceTypeValue |  |
+
+Association roles of the spatial object type ElevationGridCoverage
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contributingElevationGridCoverage | Reference to the elevation grid coverages that compose an aggregated elevation grid coverage. The association has additional properties as defined in the association class ElevationGridCoverageAggregation. | ElevationGridCoverage |  |
+
+Constraints of the spatial object type ElevationGridCoverage
+
+The grid dimension shall always be 2 for an elevation grid coverage.
+
+The domainExtent shall be at least populated with a subtype of EX_GeographicExtent.
+
+The coordinate reference system used to reference the grid shall be provided.
+
+All the ElevationGridCoverage instances, to which an aggregated ElevationGridCoverage instance refers, shall share the same orientation of grid axes and the same grid spacing in each direction.
+
+The origin of the grid shall be described in two dimensions.
+
+The values in the range set shall be described by the Float type.
+
+1.4.2. Data types
+
+1.4.2.1. Elevation Grid Coverage Aggregation (ElevationGridCoverageAggregation)
+
+Geometrical characteristics of the elevation grid coverage aggregation.
+
+This type is an association class.
+
+Attributes of the data type ElevationGridCoverageAggregation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contributingFootprint | Geometric representation delineating the geographic area of the elevation grid coverage that contributes to the aggregated elevation grid coverage. | GM_MultiSurface |  |
+
+**1.5. Elevation - Vector Elements**
+
+1.5.1. Spatial object types
+
+The package Elevation – Vector Elements contains the following spatial object types:
+
+— Elevation Vector Object
+
+— Spot Elevation
+
+— Contour Line
+
+— Breakline
+
+— Void Area
+
+— Isolated Area
+
+1.5.1.1. Elevation Vector Object (ElevationVectorObject)
+
+Elevation spatial object forming part of a vector data set, which participates in the description of the elevation property of a real world surface. It consists of an identity base for all vector objects which can be included as part of an elevation data set.
+
+This type is abstract.
+
+Attributes of the spatial object type ElevationVectorObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| localDepthDatum | Identification of a local vertical coordinate reference system not included in a registry, which is used to refer depth measurements. | ChartDatum |  |
+| propertyType | Attribute categorizing the elevation vector object as a land-elevation or a bathymetry spatial object. It determines the elevation property represented by the object. | ElevationPropertyTypeValue |  |
+
+1.5.1.2. Spot Elevation (SpotElevation)
+
+Point spatial object which describes the elevation of an Earth's surface at a specific location. It provides a single elevation property value.
+
+This type is a sub-type of ElevationVectorObject.
+
+Attributes of the spatial object type SpotElevation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| classification | Class of spot elevation according to the LAS specification of the American Society for Photogrammetry and Remote Sensing (ASPRS). | SpotElevationClassValue | voidable |
+| geographicalName | A geographical name that is used to identify a named land or water body's floor location in the real world, which is represented by the spot elevation spatial object. | GeographicalName | voidable |
+| geometry | Represents the geometric properties of the spatial object. | GM_Point |  |
+| propertyValue | Value of the elevation property of the spatial object referred to a specific vertical coordinate reference system. | DirectPosition |  |
+| spotElevationType | The type of elevation spot. | SpotElevationTypeValue | voidable |
+
+Constraints of the spatial object type SpotElevation
+
+The dimension of the property value coordinate shall be 1
+
+The property value shall be expressed referring to a vertical coordinate reference system
+
+1.5.1.3. Contour Line (ContourLine)
+
+Linear spatial object composed of a set of adjoining locations characterized by having the same elevation property value. It describes, together with other contour lines present in the area, the local morphology of the Earth's surface.
+
+This type is a sub-type of ElevationVectorObject.
+
+Attributes of the spatial object type ContourLine
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contourLineType | The type of contour line with regard to the normal contour vertical interval (if any). | ContourLineTypeValue | voidable |
+| downRight | Property indicating that the contour line spatial object is digitized in a way that the height of the elevation surface is lower at the right side of the line. | Boolean | voidable |
+| geometry | Represents the geometric properties of the spatial object. | GM_Curve |  |
+| propertyValue | Value of the elevation property of the spatial object referred to a specific vertical coordinate reference system. | DirectPosition |  |
+
+Constraints of the spatial object type ContourLine
+
+The dimension of the property value coordinate shall be 1.
+
+The property value shall be expressed referring to a vertical coordinate reference system.
+
+1.5.1.4. Breakline (BreakLine)
+
+A line of a critical nature which describes the shape of an elevation surface and indicates a discontinuity in the slope of the surface (i.e. an abrupt change in gradient). Triangles included within a TIN model must never cross it.
+
+This type is a sub-type of ElevationVectorObject.
+
+Attributes of the spatial object type BreakLine
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| breakLineType | The type of break line with regard the natural or man-made real world characteristic it represents, or the specific function it has in calculating a Digital Elevation Model (DEM). | BreakLineTypeValue |  |
+| geometry | Represents the geometric properties of the spatial object. | GM_Curve |  |
+| manMadeBreak | Line which represents an elevation break due to a man-made construction present on the terrain. | Boolean | voidable |
+
+1.5.1.5. Void Area (VoidArea)
+
+Area of the Earth's surface where the elevation model is unknown because of missing input data. This area shall be excluded from a DEM.
+
+This type is a sub-type of ElevationVectorObject.
+
+Attributes of the spatial object type VoidArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Represents the geometric properties of the spatial object. | GM_Surface |  |
+
+1.5.1.6. Isolated Area (IsolatedArea)
+
+Delimitation of an area of the Earth's surface where an isolated part of the elevation model exists. Its outside surroundings have no elevation information.
+
+This type is a sub-type of ElevationVectorObject.
+
+Attributes of the spatial object type IsolatedArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Represents the geometric properties of the spatial object. | GM_Surface |  |
+
+1.5.2. Data types
+
+1.5.2.1. Chart Datum (ChartDatum)
+
+Local vertical coordinate reference system which is used to refer and portray depth measurements as property values.
+
+Attributes of the data type ChartDatum
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| datumWaterLevel | Water level determining the origin of depth measurements for the chart datum. | WaterLevelValue |  |
+| offset | Relative difference between the height of each reference point and the height of the water level determining the chart datum. | Measure |  |
+| referencePoint | Geographical position(s) of: - Case A: a single point which is used to refer depth values within the geographical scope of the chart datum. - Case B: a set of points where water level measurements are performed to determine the water level of the chart datum. | GM_Point |  |
+| scope | Geographic scope in which the local depth datum is practically used. | EX_Extent |  |
+
+1.5.4. Code Lists
+
+1.5.4.1. Breakline Type (BreakLineTypeValue)
+
+List of possible type values for break lines based on the physical characteristics of the break line [in the elevation surface].
+
+1.5.4.2. Spot Elevation Classification (SpotElevationClassValue)
+
+Possible classification values for spot elevations based on the LAS specification maintained by the American Society for Photogrammetry and Remote Sensing (ASPRS).
+
+1.5.4.3. Spot Elevation Type (SpotElevationTypeValue)
+
+Possible values for spot elevation points that describe a singularity of the surface.
+
+1.5.4.4. Contour Line Type (ContourLineTypeValue)
+
+List of possible categories of contour lines based on the equidistance parameter of the data set.
+
+**1.6. Elevation - TIN**
+
+1.6.1. Spatial object types
+
+The package ‘Elevation – TIN’ contains the spatial object type Elevation TIN.
+
+1.6.1.1. Elevation TIN (ElevationTIN)
+
+Collection of elevation spatial objects forming a particular tessellation of the space based on a Triangulated Irregular Network (TIN) according to the geometry GM_Tin defined in ISO 19107:2003. Its components are a set of control points whose elevation property values are known, and a set of break lines and stop lines.
+
+Attributes of the spatial object type ElevationTIN
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometries | Represents the collection of geometric properties of the elevation TIN spatial object. | GM_Tin |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| propertyType | Attribute determining the elevation property represented by the elevation TIN. | ElevationPropertyTypeValue |  |
+| surfaceType | Attribute indicating the type of elevation surface that the elevation TIN describes in relation to the Earth's bare surface. | SurfaceTypeValue |  |
+
+**1.7. Theme-specific Requirements**
+
+1.7.1. Requirements on external object identifiers
+
+(1) If elevation data is updated based on new source data, the updated objects shall receive a new external object identifier.
+
+1.7.2. Requirements for Elevation Grid Coverages
+
+(1) By way of derogation from the requirement in Section 2.2 of Annex II, any grid compatible with one of the following coordinate reference systems may be used for making gridded Elevation data available:
+
+— two-dimensional geodetic coordinates (latitude and longitude) based on a datum specified in 1.2 of Annex II and using the parameters of the GRS80 ellipsoid;
+
+— plane coordinates using the ETRS89 Lambert Conformal Conic coordinate reference system;
+
+— plane coordinates using the ETRS89 Transverse Mercator coordinate reference system.
+
+The grid specified in Section 2.2.1 of Annex II shall not be used.
+
+(2) The domainExtent attribute of every ElevationGridCoverage instance shall be at least populated with a subtype of the EX_GeographicExtent type.
+
+(3) The elevation property values included within the range set of a single ElevationGridCoverage shall be referenced to one and only one vertical coordinate reference system.
+
+(4) All the ElevationGridCoverage instances, to which an aggregated ElevationGridCoverage instance refers, shall be consistent. This means that they shall share the same range type, Coordinate Reference System and resolution. They shall also support grid alignment, i.e. the grid points in one ElevationGridCoverage instance line up with grid points of the other ElevationGridCoverage instances, so that grid cells do not partially overlap.
+
+(5) The contributing footprints of any two ElevationGridCoverage instances referred to by the same aggregated ElevationGridCoverage instance shall be either adjacent or disjoint.
+
+(6) The union of the contributing footprints of the ElevationGridCoverage instances referred to by the same aggregated ElevationGridCoverage instance shall determine the geographic extent (domainExtent) of the aggregated ElevationGridCoverage instance.
+
+(7) The ElevationGridCoverage package shall be restricted to two-dimensional geometries.
+
+(8) Information about the acquisition dates of data contained in elevation grid coverages shall be provided at least in one of the following ways:
+
+(a) by providing the metadata element Temporal reference for each spatial object through the metadata attribute of the spatial object type ElevationGridCoverage;
+
+(b) by providing the metadata element Temporal reference required by Regulation (EC) No 1205/2008 as a temporal extent.
+
+1.7.3. Requirements for Elevation Vector Data
+
+(1) Where elevation vector data sets are provided using 2-D geometries, the vertical component (third dimension) shall be provided as elevation property values within the propertyValue attribute.
+
+(2) Where elevation vector data sets are provided using 2.5-D geometries, the elevation property values shall be only included within the third coordinate (Z) of these geometries.
+
+1.7.4. Requirements for Elevation TINs
+
+(1) The property values included within a single instance of ElevationTIN spatial object type (TIN model) shall be referenced to one and only one vertical coordinate reference system.
+
+(2) Triangles intersecting a stop line shall be removed from a TIN surface, leaving holes in the surface. If coincidence occurs on surface boundary triangles, the result shall be a change of the surface boundary.
+
+(3) The vector spatial objects provided as components of a TIN collection shall fulfil the generic consistency rules provided for vector objects.
+
+1.7.5. Requirements on reference systems
+
+(1) For measuring the depth of the sea floor where there is an appreciable tidal range (tidal waters), the Lowest Astronomical Tide (LAT) shall be used as reference surface.
+
+(2) For measuring the depth of the sea floor in marine areas without an appreciable tidal range, in open oceans and in waters that are deeper than 200 meters, the depth of the sea floor shall be referenced to the Mean Sea Level (MSL), or to a well-defined reference level close to the MSL.
+
+(3) The height of the reference level to which the depth of the floor of an inland water body is measured shall be referred to a gravity-related vertical reference system. This shall be the European Vertical Reference System (EVRS) for the areas within the geographical scope of EVRS, or the gravity-related vertical reference system identified by the Member State outside the scope of EVRS.
+
+(4) When providing an integrated land-sea elevation model, only one elevation property (either height or depth) shall be modelled, and its values shall be referenced to a single vertical coordinate reference system.
+
+1.7.6. Requirements on data quality and consistency
+
+(1) If measures other than ISO data quality measures have been used to evaluate an elevation data set, the Lineage metadata element shall include information about those measures and, if possible, a reference to an online resource where more information is available.
+
+(2) Connected contour line spatial objects shall have the same elevation value when they are referenced to the same vertical coordinate reference system.
+
+(3) When the elevation values of break line spatial objects are given as third coordinates (Z), the intersection point of two break line spatial objects shall have the same elevation value.
+
+(4) When a contour line spatial object and a break line spatial object provided in the same vertical coordinate reference system intersect each other, the intersection point shall have the same elevation value (if the elevation values of break line spatial objects are given by the third (Z) coordinate).
+
+(5) Contour line spatial objects having different elevation value shall neither intersect nor touch each other when they are referenced to the same vertical coordinate reference system.
+
+(6) The boundary of an isolated area spatial object shall not touch the external boundary of a void area spatial object when they are referenced to the same vertical coordinate reference system.
+
+**1.8. Layers**
+
+Layers for the spatial data theme Elevation
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| EL.BreakLine | Break Line | BreakLine |
+| EL.ContourLine | Contour Line | ContourLine |
+| EL.IsolatedArea | Isolated Area | IsolatedArea |
+| EL.SpotElevation | Spot Elevation | SpotElevation |
+| EL.VoidArea | Void Area | VoidArea |
+| EL.ElevationGridCoverage | Elevation Grid Coverage | ElevationGridCoverage |
+| EL.ElevationTIN | Elevation TIN | ElevationTIN |
+
+**2\. LAND COVER**
+
+**2.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘classification system’ means a system for assigning objects to classes, in accordance with ISO 19144-1:2012;
+
+(2) ‘discrete coverage’ means a coverage that returns the same feature attribute values for every direct position within any single spatial object, temporal object or spatiotemporal object in its domain, in accordance with EN ISO 19123:2007;
+
+(3) ‘land cover object’ means a spatial object (point, pixel or polygon) where the land cover has been observed;
+
+(4) ‘legend’ means the application of a classification in a specific area using a defined mapping scale and specific data set;
+
+(5) ‘minimal mapping unit’ means the smallest area size of a polygon allowed to be represented in a particular land cover data set;
+
+(6) ‘situation’ means the state of a particular land cover object at a particular point in time.
+
+**2.2. Structure of the Spatial Data Theme Land Cover**
+
+The types specified for the spatial data theme Land Cover are structured in the following packages:
+
+— Land Cover Nomenclature
+
+— Land Cover Vector
+
+— Land Cover Raster
+
+**2.3. Land Cover Nomenclature**
+
+2.3.1. Data types
+
+2.3.1.1. Land Cover Nomenclature (LandCoverNomenclature)
+
+Information about reference national, institutional or local Land Cover nomenclature.
+
+Attributes of the data type LandCoverNomenclature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| responsibleParty | Party responsible for the development and/or maintenance of the nomenclature. | RelatedParty |  |
+| externalDescription | Document describing the nomenclature used in this data set. | DocumentCitation | voidable |
+| embeddedDescription | An embedded encoding of the classification system according to ISO 19144-2. | LC_LandCoverClassificationSystem | voidable |
+| nomenclatureCodeList | An http URI pointing to the code list attached to the nomenclature used. | URI |  |
+
+Constraints of the data type LandCoverNomenclature
+
+The embedded description or the external desciption shall be provided.
+
+2.3.2. Code Lists
+
+2.3.2.1. Land Cover Class (LandCoverClassValue)
+
+Land cover code list or classification.
+
+**2.4. Land Cover Vector**
+
+2.4.1. Spatial object types
+
+The package Land Cover Vector contains the following spatial object types:
+
+— Land Cover Data Set
+
+— Land Cover Unit
+
+2.4.1.1. Land Cover Data Set (LandCoverDataset)
+
+A vector representation for Land Cover data.
+
+Attributes of the spatial object type LandCoverDataset
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the Land Cover data set. | CharacterString |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Contains the extent of the data set. | EX_Extent |  |
+| nomenclatureDocumentation | Information about the nomenclature used in this data set. | LandCoverNomenclature |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type LandCoverDataset
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| member | A Land Cover Unit being part of the data set. | LandCoverUnit |  |
+
+2.4.1.2. Land Cover Unit (LandCoverUnit)
+
+An individual element of the Land Cover data set represented by a point or surface.
+
+Attributes of the spatial object type LandCoverUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| geometry | Spatial representation of the Land Cover data. | GM_Object |  |
+| landCoverObservation | Land cover information at a specific time and place. | LandCoverObservation |  |
+
+Constraints of the spatial object type LandCoverUnit
+
+Geometries shall be points or surfaces.
+
+**Association roles of the spatial object type LandCoverUnit**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| dataset | Land Cover data set to which this Land Cover object belongs. | LandCoverDataset |  |
+
+2.4.2. Data types
+
+2.4.2.1. Land Cover Observation (LandCoverObservation)
+
+Land Cover information interpreted at a specific time and place.
+
+Attributes of the data type LandCoverObservation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| class | The assignment of a land cover class to a land cover unit through a classification code identifier. | LandCoverClassValue |  |
+| observationDate | The observation date associated of an observation. | DateTime | voidable |
+| mosaic | List of classification values describing into details a land cover unit, associated with percentages. | LandCoverValue | voidable |
+
+Constraints of the spatial object type LandCoverObservation
+
+The sum of all coveredPercentage attributes attached to each LandCoverObservation shall be lower or equal to 100.
+
+2.4.2.2. Land Cover (LandCoverValue)
+
+Generic class supporting Land Cover value and percentage.
+
+Attributes of the data type LandCoverValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| class | Assignment of a land cover spatial object to a land cover class through a classification code identifier. | LandCoverClassValue |  |
+| coveredPercentage | Fraction of the LandCoverUnit being concerned with the classification value. | Integer | voidable |
+
+**2.5. Land Cover Raster**
+
+2.5.1. Spatial object types
+
+The package Land Cover Raster contains the spatial object type Land Cover Grid Coverage.
+
+2.5.1.1. Land Cover Grid Coverage (LandCoverGridCoverage)
+
+A raster representation for Land Cover data.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type LandCoverGridCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Name of the Land Cover coverage. | CharacterString |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Contains the extent of the data set. | EX_Extent |  |
+| nomenclatureDocumentation | Information about the nomenclature used in this coverage. | LandCoverNomenclature |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Constraints of the spatial object type LandCoverGridCoverage
+
+The values in the range set are restricted to Integer.
+
+**2.6. Theme-specific Requirements**
+
+If an externalDescription attribute  is provided for a LandCoverNomenclature data type, the referenced online description shall define, for each class, at least a code, a name, a definition and a RGB value to be used for portrayal. If the online description describes the nomenclature for a LandCoverGridCoverage object, an integer grid code shall also be provided for each class. This code shall be used in the range of the LandCoverGridCoverage to represent the corresponding class.
+
+**2.7. Layers**
+
+Layers for the spatial data theme Land Cover
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| LC.LandCoverPoints | Land Cover Points | LandCoverUnit |
+| LC.LandCoverSurfaces | Land Cover Surfaces | LandCoverUnit |
+| LC.LandCoverRaster | Land Cover Raster | LandCoverGridCoverage |
+
+**3\. ORTHOIMAGERY**
+
+**3.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘mosaic’ means an image composed of multiple overlapping or adjoining photographs or images merged together.
+
+(2) ‘orthoimage aggregation’ means a combination of subsets from several homogeneous orthoimage coverages forming a new orthoimage coverage.
+
+(3) ‘raster’ means a usually rectangular pattern of parallel scanning lines forming or corresponding to the display on a cathode ray tube, in accordance with EN ISO 19123:2007.
+
+**3.2. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Orthoimagery:
+
+— Orthoimage Coverage
+
+— Mosaic Element
+
+— Single Mosaic Element
+
+— Aggregated Mosaic Element
+
+3.2.1. Orthoimage Coverage (OrthoimageCoverage)
+
+Raster image of the Earth surface that has been geometrically corrected (‘orthorectified’) to remove distortion caused by differences in elevation, sensor tilt and, optionally, by sensor optics.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type OrthoimageCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| domainExtent | Extent of the spatiotemporal domain of the coverage. | EX_Extent |  |
+| footprint | Geographic area enclosing valid data of the orthoimage coverage. | GM_MultiSurface | voidable |
+| interpolationType | Mathematical method which shall be used to evaluate a continuous coverage, i.e. determine the values of the coverage at any direct position within the domain of the coverage. | InterpolationMethodValue |  |
+| name | Free text name of the orthoimage coverage. | CharacterString | voidable |
+| phenomenonTime | Description of the observation/acquisition extent in time of the input image(s). | TM_Period | voidable |
+| beginLifespanVersion | Temporal position at which this version of the spatial object was inserted or changed in the spatial data set. | TM_Position | voidable |
+| endLifespanVersion | Temporal position at which this version of the spatial object was superseded or retired from the spatial data set. | TM_Position | voidable |
+
+Association roles of the spatial object type OrthoimageCoverage
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contributingOrthoimageCoverage | Reference to the orthoimage coverages that compose an aggregated orthoimage coverage. The association has additional properties as defined in the association class OrthoimageAggregation. | OrthoimageCoverage |  |
+| mosaicElement | Spatial representation of the acquisition time of a mosaicked orthoimage coverage. | MosaicElement | voidable |
+
+Constraints of the spatial object type OrthoimageCoverage
+
+The acquisition time of the orthoimage coverage shall be provided through the phenomenonTime attribute or the mosaicElement association.
+
+The dimension of the grid used shall always be 2.
+
+The domainExtent attribute shall be at least populated with a subtype of EX_GeographicExtent.
+
+The coordinate reference system used to reference the grid shall be provided.
+
+All the OrthoimageCoverage instances, to which an aggregated OrthoimageCoverage instance refers, shall share the same orientation of grid axes and the same grid spacing in each direction.
+
+The origin of the grid shall be described in two dimensions.
+
+The values in the range set shall be described by the Integer type.
+
+3.2.2. Mosaic Element (MosaicElement)
+
+Abstract type identifying both the contributing area and the acquisition time of one or several input images used to generate a mosaicked orthoimage coverage.
+
+This type is abstract.
+
+Attributes of the spatial object type MosaicElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometric representation spatially delineating the date and time of acquisition of the several input images that contribute to the final mosaic. | GM_MultiSurface |  |
+| phenomenonTime | Description of the observation/acquisition extent in time of the input image(s). | TM_Period |  |
+
+3.2.3. Single Mosaic Element (SingleMosaicElement)
+
+Mosaic element relating to a single input image.
+
+This type is a sub-type of MosaicElement.
+
+Attributes of the spatial object type SingleMosaicElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| imageSourceReference | Reference to the input image. | CharacterString | voidable |
+
+3.2.4. Aggregated Mosaic Element (AggregatedMosaicElement)
+
+Mosaic element relating to several input images that share the same acquisition time at a given level of definition (e.g. day, month).
+
+This type is a sub-type of MosaicElement.
+
+**3.3. Data types**
+
+3.3.1. Orthoimage Aggregation (OrthoimageAggregation)
+
+Geometrical characteristics of the orthoimage aggregation.
+
+This type is an association class.
+
+Attributes of the data type OrthoimageAggregation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contributingFootprint | Geometric representation delineating the geographic area of an orthoimage coverage that contributes to the aggregated orthoimage coverage. | GM_MultiSurface |  |
+
+**3.4. Code Lists**
+
+3.4.1. Interpolation Method (InterpolationMethodValue)
+
+List of codes that identify the interpolation methods which may be used for evaluating orthoimage coverages.
+
+**3.5. Theme-specific Requirements**
+
+3.5.1. Requirements on external object identifiers
+
+(1) If an orthoimage is updated based on new source data, the updated objects shall receive a new external object identifier.
+
+3.5.2. Requirements for Orthoimage Coverages
+
+(1) By way of derogation from the requirement in Section 2.2 of Annex II, any grid compatible with one of the following coordinate reference systems may be used for making gridded Orthoimagery data available:
+
+— two-dimensional geodetic coordinates (latitude and longitude) based on a datum specified in Section 1.2 of Annex II and using the parameters of the GRS80 ellipsoid;
+
+— plane coordinates using the ETRS89 Lambert Conformal Conic coordinate reference system;
+
+— plane coordinates using the ETRS89 Transverse Mercator coordinate reference system.
+
+The grid specified in Section 2.2.1 of Annex II shall not be used.
+
+(2) The footprint of an OrthoimageCoverage instance shall be spatially included in its geographic extent that is described through the domainExtent property.
+
+(3) The value type of the metadata property carried by the spatial object type OrthoimageCoverage shall be set to OM_Observation when using the Observation and Measurement metadata model defined in ISO 19156:2011.
+
+(4) All the OrthoimageCoverage instances, to which an aggregated OrthoimageCoverage instance refers, shall be consistent. This means that they shall share the same range type, Coordinate Reference System and resolution. They shall also support grid alignment, i.e. the grid points in one OrthoimageCoverage instance line up with grid points of the other OrthoimageCoverage instances, so that grid cells do not partially overlap.
+
+(5) The contributing footprint of an OrthoimageCoverage instance referred by an aggregated OrthoimageCoverage instance shall be spatially included in its own footprint.
+
+(6) The contributing footprints of any two OrthoimageCoverage instances referred to by the same aggregated OrthoimageCoverage instance shall be either adjacent or disjoint.
+
+(7) The union of the contributing footprints of the OrthoimageCoverage instances referred to by the same aggregated OrthoimageCoverage instance shall determine the footprint of the aggregated OrthoimageCoverage instance.
+
+3.5.3. Requirements for mosaic elements
+
+(1) All the mosaic elements related to an OrthoimageCoverage instance shall be of the same type, i.e. either SingleMosaicElement or AggregatedMosaicElement.
+
+(2) The geometries delineating any two MosaicElement instances related to the same OrthoimageCoverage instance shall be either adjacent or disjoint.
+
+(3) The union of the geometries delineating all MosaicElement instances related to the same OrthoimageCoverage instance shall include its footprint and be contained in its geographic domain extent.
+
+3.5.4. Requirements on reference systems
+
+(1) Data related to the spatial data theme Orthoimagery shall be restricted to two-dimensional geometries.
+
+(2) Only two-dimensional coordinate reference systems shall be used to represent INSPIRE orthoimagery data sets.
+
+3.5.5. Requirements on data quality
+
+(1) The measures ‘root mean square error in X’ (RMSE-x) and ‘root mean square error in Y’ (RMSE-y) shall be provided jointly when used to assess the gridded data position of orthoimagery data.
+
+**3.6. Layers**
+
+Layers for the spatial data theme Orthoimagery
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| OI.OrthoimageCoverage | orthoimage coverage | OrthoimageCoverage |
+| OI.MosaicElement | mosaic element | MosaicElement |
+
+**4\. GEOLOGY**
+
+**4.1. Structure of the Spatial Data Theme Geology**
+
+The types specified for the spatial data theme Geology are structured in the following packages:
+
+— Geology
+
+— Geophysics
+
+— Hydrogeology
+
+**4.2. Geology**
+
+4.2.1. Spatial object types
+
+The package Geology contains the following spatial object types:
+
+— Anthropogenic Geomorphologic Feature
+
+— Borehole
+
+— Fold
+
+— Geologic Collection
+
+— Geologic Event
+
+— Geologic Feature
+
+— Geologic Structure
+
+— Geologic Unit
+
+— Geomorphologic Feature
+
+— Mapped Feature
+
+— Mapped Interval
+
+— Natural Geomorphologic Feature
+
+— Shear Displacement Structure
+
+4.2.1.1. Anthropogenic Geomorphologic Feature (AnthropogenicGeomorphologicFeature)
+
+A geomorphologic feature (i.e., landform) which has been created by human activity.
+
+This type is a sub-type of GeomorphologicFeature.
+
+Attributes of the spatial object type AnthropogenicGeomorphologicFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| anthropogenicGeomorphologicFeatureType | Terms describing the type of a geomorphologic feature. | AnthropogenicGeomorphologicFeatureTypeValue |  |
+
+4.2.1.2. Borehole (Borehole)
+
+A borehole is the generalized term for any narrow shaft drilled in the ground.
+
+Attributes of the spatial object type Borehole
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| boreholeLength | The distance along a borehole. | Quantity | voidable |
+| elevation | The vertical height above datum of the borehole collar. | DirectPosition | voidable |
+| location | The location of the borehole collar. | GM_Point |  |
+| purpose | The purpose for which the borehole was drilled. | BoreholePurposeValue | voidable |
+| downholeGeometry | The downhole geometry of the borehole | GM_Curve | voidable |
+
+Association roles of the spatial object type Borehole
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| logElement | 1-D MappedFeature instances that are logged (interpreted) intervals within a borehole. | MappedInterval | voidable |
+
+4.2.1.3. Fold (Fold)
+
+One or more systematically curved layers, surfaces, or lines in a rock body.
+
+This type is a sub-type of GeologicStructure.
+
+Attributes of the spatial object type Fold
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| profileType | The type of the fold. | FoldProfileTypeValue | voidable |
+
+4.2.1.4. Geologic Collection (GeologicCollection)
+
+A collection of geological or geophysical objects.
+
+Attributes of the spatial object type GeologicCollection
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| name | The name of the collection. | CharacterString |  |
+| collectionType | The type of the collection. | CollectionTypeValue |  |
+| reference | A reference for the collection. | DocumentCitation | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type GeologicCollection
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geophObjectSet | A GeophObjectSet member of the geologic collection. | GeophObjectSet | voidable |
+| geophObjectMember | A GeophObjectMember of the geologic collection. | GeophObject | voidable |
+| boreholeMember | A Borehole member of a geologic collection. | Borehole | voidable |
+| mapMember | A MappedFeature member of a geologic collection. | MappedFeature | voidable |
+
+4.2.1.5. Geologic Event (GeologicEvent)
+
+An identifiable event during which one or more geological processes act to modify geological entities.
+
+Attributes of the spatial object type GeologicEvent
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | The name of the geologic event. | CharacterString | voidable |
+| eventEnvironment | The physical setting within which the geologic event takes place. | EventEnvironmentValue | voidable |
+| eventProcess | The process or processes that occurred during the geologic event. | EventProcessValue | voidable |
+| olderNamedAge | Older boundary of the age of the geologic event. | GeochronologicEraValue | voidable |
+| youngerNamedAge | Younger boundary of the age of the geologic event. | GeochronologicEraValue | voidable |
+
+4.2.1.6. Geologic Feature (GeologicFeature)
+
+A conceptual geological feature that is hypothesized to exist coherently in the world.
+
+This type is abstract.
+
+Attributes of the spatial object type GeologicFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| name | The name of the geologic feature. | CharacterString | voidable |
+
+Association roles of the spatial object type GeologicFeature
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| themeClass | A thematic classification of the geologic feature. | ThematicClass | voidable |
+| geologicHistory | An association that relates one or more geologic events to a geologic feature to describe their age or geologic history. | GeologicEvent | voidable |
+
+4.2.1.7. Geologic Structure (GeologicStructure)
+
+A configuration of matter in the Earth based on describable inhomogeneity, pattern or fracture in an earth material.
+
+This type is a sub-type of GeologicFeature.
+
+This type is abstract.
+
+4.2.1.8. Geologic Unit (GeologicUnit)
+
+A volume of rock with distinct characteristics.
+
+This type is a sub-type of GeologicFeature.
+
+Attributes of the spatial object type GeologicUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geologicUnitType | The type of the geological unit. | GeologicUnitTypeValue |  |
+
+Association roles of the spatial object type GeologicUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| composition | Describes composition of the geologic unit. | CompositionPart | voidable |
+
+4.2.1.9. Geomorphologic Feature (GeomorphologicFeature)
+
+An abstract spatial object type describing the shape and nature of the Earth's land surface (i.e. a landform).
+
+This type is a sub-type of GeologicFeature.
+
+This type is abstract.
+
+4.2.1.10. Mapped Feature (MappedFeature)
+
+A spatial representation of a GeologicFeature.
+
+Attributes of the spatial object type MappedFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| shape | The geometry of the mapped feature. | GM_Object |  |
+| mappingFrame | The surface on which the mapped feature is projected. | MappingFrameValue |  |
+
+Association roles of the spatial object type MappedFeature
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| specification | A description association that links the mapped feature to a notional geologic feature. | GeologicFeature |  |
+
+4.2.1.11. Mapped Interval (MappedInterval)
+
+A special kind of a mapped feature whose shape is a 1-D interval and which uses the spatial reference system of the containing borehole.
+
+This type is a sub-type of MappedFeature.
+
+4.2.1.12. Natural Geomorphologic Feature (NaturalGeomorphologicFeature)
+
+A geomorphologic feature (i.e. landform) that has been created by natural Earth processes.
+
+This type is a sub-type of GeomorphologicFeature.
+
+Attributes of the spatial object type NaturalGeomorphologicFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| naturalGeomorphologicFeatureType | The type of the natural geomorphologic feature. | NaturalGeomorphologicFeatureTypeValue |  |
+| activity | The level of activity of the natural geomorphologic feature. | GeomorphologicActivityValue | voidable |
+
+4.2.1.13. Shear Displacement Structure (ShearDisplacementStructure)
+
+Brittle to ductile style structures along which displacement has occurred.
+
+This type is a sub-type of GeologicStructure.
+
+Attributes of the spatial object type ShearDisplacementStructure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| faultType | Refers to a vocabulary of terms describing the type of shear displacement structure. | FaultTypeValue |  |
+
+4.2.2. Data types
+
+4.2.2.1. Composition Part (CompositionPart)
+
+The composition of a geologic unit in terms of lithological constituents.
+
+Attributes of the data type CompositionPart
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| material | The material that comprises part or all of the geologic unit. | LithologyValue |  |
+| proportion | Quantity that specifies the fraction of the geologic unit composed of the material. | QuantityRange | voidable |
+| role | The relationship of the composition part to the geologic unit composition as a whole. | CompositionPartRoleValue |  |
+
+4.2.2.2. Thematic Class (ThematicClass)
+
+A generic thematic classifier to enable the reclassification of Geologic Features with user defined classes appropriate to thematic maps.
+
+Attributes of the data type ThematicClass
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| themeClass | The value of the thematic class. | ThematicClassValue |  |
+| themeClassification | The used classification | ThematicClassificationValue |  |
+
+4.2.3. Code Lists
+
+4.2.3.1. Anthropogenic Geomorphologic Feature Type (AnthropogenicGeomorphologicFeatureTypeValue)
+
+Types of anthropogenic geomorphologic features.
+
+4.2.3.2. Borehole Purpose (BoreholePurposeValue)
+
+Purposes for which a borehole was drilled.
+
+4.2.3.3. Collection Type (CollectionTypeValue)
+
+Types of collections of geological and geophysical objects.
+
+4.2.3.4. Composition Part Role (CompositionPartRoleValue)
+
+Roles that a compositional part plays in a geologic unit.
+
+4.2.3.5. Event Environment (EventEnvironmentValue)
+
+Terms for the geologic environments within which geologic events take place.
+
+4.2.3.6. Event Process (EventProcessValue)
+
+Terms specifying the process or processes that occurred during an event.
+
+4.2.3.7. Fault Type (FaultTypeValue)
+
+Terms describing the type of shear displacement structure.
+
+4.2.3.8. Fold Profile Type (FoldProfileTypeValue)
+
+Terms specifying the type of fold.
+
+4.2.3.9. Geochronologic Era (GeochronologicEraValue)
+
+Terms specifying recognised geological time units.
+
+4.2.3.10. Geologic Unit Type (GeologicUnitTypeValue)
+
+Terms describing the type of geologic unit.
+
+4.2.3.11. Geomorphologic Activity (GeomorphologicActivityValue)
+
+Terms indicating the level of activity of a geomorphologic feature.
+
+4.2.3.12. Lithology (LithologyValue)
+
+Terms describing the lithology.
+
+4.2.3.13. Mapping Frame (MappingFrameValue)
+
+Terms indicating the surface on which the MappedFeature is projected.
+
+4.2.3.14. Natural Geomorphologic Feature Type (NaturalGeomorphologicFeatureTypeValue)
+
+Terms describing the type of natural geomorphologic feature.
+
+4.2.3.15. Thematic Class (ThematicClassValue)
+
+Values for thematic classification of geologic features.
+
+4.2.3.16. Thematic Classification (ThematicClassificationValue)
+
+List of thematic classifications for geologic features.
+
+**4.3. Geophysics**
+
+4.3.1. Spatial object types
+
+The package Geophysics contains the following spatial object types:
+
+— Campaign
+
+— Geophysical Measurement
+
+— Geophysical Object
+
+— Geophysical Object Set
+
+— Geophysical Profile
+
+— Geophysical Station
+
+— Geophysical Swath
+
+4.3.1.1. Campaign (Campaign)
+
+Geophysical activity extending over a limited time range and limited area for producing similar geophysical measurements, processing results or models.
+
+This type is a sub-type of GeophObjectSet.
+
+Attributes of the spatial object type Campaign
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| campaignType | Type of activity to produce data. | CampaignTypeValue |  |
+| surveyType | Type of geophysical survey. | SurveyTypeValue |  |
+| client | Party for which data was created. | RelatedParty | voidable |
+| contractor | Party by which data was created. | RelatedParty | voidable |
+
+Constraints of the spatial object type Campaign
+
+The shape attribute shall be of type GM_Surface.
+
+4.3.1.2. Geophysical Object (GeophObject)
+
+A generic class for geophysical objects.
+
+This type is a sub-type of SF_SpatialSamplingFeature.
+
+This type is abstract.
+
+Attributes of the spatial object type GeophObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| citation | Citation of geophysical documentation. | DocumentCitation |  |
+| projectedGeometry | 2D projection of the feature to the ground surface (as a representative point, curve or bounding polygon) to be used by an INSPIRE view service to display the spatial object location on a map. | GM_Object |  |
+| verticalExtent | Vertical extent of the range of interest. | EX_VerticalExtent | voidable |
+| distributionInfo | Distribution metadata. | MD_Distributor | voidable |
+| largerWork | Identifier of a larger work data set, typically a campaign or project. | Identifier | voidable |
+
+Constraints of the spatial object type GeophObject
+
+The projectedGeometry attribute shall be of type GM_Point, GM_Curve or GM_Surface.
+
+4.3.1.3. Geophysical Measurement (GeophMeasurement)
+
+A generic spatial object type for geophysical measurements.
+
+This type is a sub-type of GeophObject.
+
+This type is abstract.
+
+Attributes of the spatial object type GeophMeasurement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| relatedModel | Identifier of the geophysical model that was created from the measurement. | Identifier | voidable |
+| platformType | Platform from which the measurement was carried out. | PlatformTypeValue |  |
+| relatedNetwork | Name of a national or international observation network to which the facility belongs, or to which measured data is reported. | NetworkNameValue | voidable |
+
+4.3.1.4. Geophysical Object Set (GeophObjectSet)
+
+A generic class for collections of geophysical objects.
+
+This type is a sub-type of SF_SpatialSamplingFeature.
+
+Attributes of the spatial object type GeophObjectSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| citation | Citation of geophysical documentation. | DocumentCitation |  |
+| verticalExtent | Vertical extent of the range of interest. | EX_VerticalExtent | voidable |
+| distributionInfo | Distribution metadata. | MD_Distributor | voidable |
+| projectedGeometry | 2D projection of the feature to the ground surface (as a representative point, curve or bounding polygon) to be used by an INSPIRE view service to display the spatial object on a map. | GM_Object |  |
+| largerWork | Identifier of a larger work data set. | Identifier | voidable |
+
+Constraints of the spatial object type GeophObjectSet
+
+The projectedGeometry attribute shall be of type GM_Point, GM_Curve or GM_Surface.
+
+4.3.1.5. Geophysical Profile (GeophProfile)
+
+A geophysical measurement spatially referenced to a curve.
+
+This type is a sub-type of GeophMeasurement.
+
+Attributes of the spatial object type GeophProfile
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| profileType | Type of geophysical profile. | ProfileTypeValue |  |
+
+Constraints of the spatial object type GeophProfile
+
+The shape attribute shall be of type GM_Curve.
+
+4.3.1.6. Geophysical Station (GeophStation)
+
+Geophysical measurement spatially referenced to a single point location.
+
+This type is a sub-type of GeophMeasurement.
+
+Attributes of the spatial object type GeophStation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| stationType | Type of geophysical station. | StationTypeValue |  |
+| stationRank | Geophysical stations may be part of a hierarchical system. Rank is proportional to the importance of a station. | StationRankValue | voidable |
+
+Constraints of the spatial object type GeophStation
+
+The shape attribute shall be of type GM_Point.
+
+4.3.1.7. Geophysical Swath (GeophSwath)
+
+A geophysical measurement spatially referenced to a surface.
+
+This type is a sub-type of GeophMeasurement.
+
+Attributes of the spatial object type GeophSwath
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| swathType | Type of geophysical swath. | SwathTypeValue |  |
+
+Constraints of the spatial object type GeophSwath
+
+The shape attribute shall be of type GM_Surface.
+
+4.3.2. Code Lists
+
+4.3.2.1. Campaign Type (CampaignTypeValue)
+
+A type of geophysical campaign.
+
+4.3.2.2. Network Name (NetworkNameValue)
+
+A name of geophysical network.
+
+4.3.2.3. Platform Type (PlatformTypeValue)
+
+A platform on which data acquisision was carried out.
+
+4.3.2.4. Profile Type (ProfileTypeValue)
+
+Type of geophysical profile.
+
+4.3.2.5. Station Rank (StationRankValue)
+
+A rank of geophysical station.
+
+4.3.2.6. Station Type (StationTypeValue)
+
+A type of geophysical station.
+
+4.3.2.7. Survey Type (SurveyTypeValue)
+
+A type of geophysical survey or data set.
+
+4.3.2.8. Swath Type (SwathTypeValue)
+
+A type of geophysical swath.
+
+**4.4. Hydrogeology**
+
+4.4.1. Spatial object types
+
+The package Hydrogeology contains the following spatial object types:
+
+— Active Well
+
+— Aquiclude
+
+— Aquifer
+
+— Aquifer System
+
+— Aquitard
+
+— Groundwater Body
+
+— Hydrogeological Object
+
+— Man-made Hydrogeological Object
+
+— Natural Hydrogeological Object
+
+— Hydrogeological Unit
+
+4.4.1.1. Active Well (ActiveWell)
+
+A well influencing the groundwater resources of the aquifer.
+
+This type is a sub-type of HydrogeologicalObjectManMade.
+
+Attributes of the spatial object type ActiveWell
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activityType | The type of activity carried out by the well. | ActiveWellTypeValue |  |
+
+Association roles of the spatial object type ActiveWell
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| groundWaterBody | The GroundWaterBody from which the ActiveWell extracts groundwater resources. | GroundWaterBody | voidable |
+| environmentalMonitoringFacility | The related EnvironmentalMonitoringFacility. | EnvironmentalMonitoringFacility | voidable |
+| borehole | The Borehole upon which the ActiveWell is based. | Borehole | voidable |
+
+4.4.1.2. Aquiclude (Aquiclude)
+
+An impermeable body of rock or stratum of sediment that acts as a barrier to the flow of groundwater.
+
+This type is a sub-type of HydrogeologicalUnit.
+
+4.4.1.3. Aquifer (Aquifer)
+
+A wet underground layer of water-bearing permeable rock or unconsolidated materials (gravel, sand, silt, or clay) from which groundwater can be usefully extracted using a water well.
+
+This type is a sub-type of HydrogeologicalUnit.
+
+Attributes of the spatial object type Aquifer
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aquiferType | The type of aquifer. | AquiferTypeValue |  |
+| mediaType | The classification of the medium in which the groundwater flow occurs. | AquiferMediaTypeValue |  |
+| isExploited | Indicates if groundwater from aquifer is exploited by wells or intakes. | Boolean | voidable |
+| isMainInSystem | Indicates if aquifer is the main useful aquifer in the aquifer system. | Boolean | voidable |
+| vulnerabilityToPollution | An index value or interval of values determining the potential degree of aquifer risk arising from the geological structure, hydrogeological conditions and the existence of real or potential source of contamination. | QuantityValue | voidable |
+| permeabilityCoefficient | The volume of an incompressible fluid that will flow in unit time through a unit cube of a porous substance across which a unit pressure difference is maintained. | QuantityValue | voidable |
+| storativityCoefficient | The ability of an aquifer to store water. | QuantityValue | voidable |
+| hydroGeochemicalRockType | The rock type with respect to the soluble rock components and their hydrogeochemical influence on groundwater. | HydroGeochemicalRockTypeValue | voidable |
+
+Association roles of the spatial object type Aquifer
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aquitard | The Aquitard(s) that separates the Aquifer. | Aquitard | voidable |
+| hydrogeologicalObject | The HydrogeologicalObject(s) related to the aquifer. | HydrogeologicalObject | voidable |
+| aquiferSystem | The specific AquiferSystem where the Aquitard occurs. | AquiferSystem | voidable |
+
+4.4.1.4. Aquifer System (AquiferSystem)
+
+A collection of aquifers and aquitards, which together constitute the environment of groundwater - ‘communicating vessels’, that are filled or can be filled with water.
+
+This type is a sub-type of HydrogeologicalUnit.
+
+Attributes of the spatial object type AquiferSystem
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isLayered | Indicates if the AquiferSystem consists of more than one layer. | Boolean | voidable |
+
+Association roles of the spatial object type AquiferSystem
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aquitard | The Aquitard(s) contained within the AquiferSystem. | Aquitard | voidable |
+| aquiclude | An Aquiclude enclosing the AquiferSystem. | Aquiclude | voidable |
+| aquifer | The Aquifer(s) contained in the AquiferSystem. | Aquifer | voidable |
+
+4.4.1.5. Aquitard (Aquitard)
+
+A saturated, but poorly permeable bed that impedes groundwater movement.
+
+This type is a sub-type of HydrogeologicalUnit.
+
+Attributes of the spatial object type Aquitard
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| approximatePermeabilityCoefficient | The volume of an incompressible fluid that will flow in unit time through a unit cube of a porous substance across which a unit pressure difference is maintained. | QuantityValue | voidable |
+| approximateStorativityCoefficient | The ability of an aquifer to store water. | QuantityValue | voidable |
+
+Association roles of the spatial object type Aquitard
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aquiferSystem | The AquiferSystem of which the Aquitard is a part. | AquiferSystem | voidable |
+| aquifer | The Aquifers separated by the Aquitard. | Aquifer | voidable |
+
+4.4.1.6. Groundwater Body (GroundWaterBody)
+
+A distinct volume of groundwater within an aquifer or system of aquifers, which is hydraulically isolated from nearby groundwater bodies.
+
+Attributes of the spatial object type GroundWaterBody
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| approximateHorizontalExtend | The geometry defining the boundary of the GroundWaterBody. | GM_Surface | voidable |
+| conditionOfGroundWaterBody | The approximate degree of change to groundwater as a result of human activity. | ConditionOfGroundwaterValue |  |
+| mineralization | One of the main chemical characteristics of water. A value is a sum of all water chemical concentration components. | WaterSalinityValue | voidable |
+| piezometricState | Specifies the piezometric state of the GroundwaterBody water table. | PiezometricState | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type GroundWaterBody
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activeWell | The ActiveWell which changes the state of the GroundwaterBody through the extraction of groundwater resources. | ActiveWell | voidable |
+| aquiferSystem | The AquiferSystem which includes the GroundWaterBody. | AquiferSystem | voidable |
+| hydrogeologicalObjectNatural | A HydrogeologicalObjectNatural interacting with the GroundwaterBody. | HydrogeologicalObjectNatural | voidable |
+| observationWell | The observation wells which monitor the GroundWaterBody | EnvironmentalMonitoringFacility | voidable |
+
+4.4.1.7. Hydrogeological Object (HydrogeologicalObject)
+
+An abstract class for man-made facilities or natural features that have an interaction with the hydrogeological system.
+
+This type is abstract.
+
+Attributes of the spatial object type HydrogeologicalObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | The geometry defining the spatial location of the HydrogeologicalObject. | GM_Primitive |  |
+| name | The name or code of the HydrogeologicalObject. | PT_FreeText | voidable |
+| description | The description of the HydrogeologicalObject. | PT_FreeText | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type HydrogeologicalObject
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aquifer | The Aquifer within which the HydrogeologicalObject occurs. | Aquifer | voidable |
+
+4.4.1.8. Man-made Hydrogeological Object (HydrogeologicalObjectManMade)
+
+A man-made hydrogeological object.
+
+This type is a sub-type of HydrogeologicalObject.
+
+This type is abstract.
+
+Attributes of the spatial object type HydrogeologicalObjectManMade
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| validFrom | Official date and time the hydrogeological object was/will be legally established. | DateTime | voidable |
+| validTo | Date and time at which the hydrogeological object legally ceased/will cease to be used. | DateTime | voidable |
+| statusCode | A code defining the formal status of a man-made hydrogeological object. | StatusCodeTypeValue | voidable |
+
+4.4.1.9. Natural Hydrogeological Object (HydrogeologicalObjectNatural)
+
+Hydrogeological object which was created by natural processes.
+
+This type is a sub-type of HydrogeologicalObject.
+
+Attributes of the spatial object type HydrogeologicalObjectNatural
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| naturalObjectType | The type of natural hydrogeological object. | NaturalObjectTypeValue |  |
+| waterPersistence | The degree of persistence of water flow. | WaterPersistenceValue | voidable |
+| approximateQuantityOfFlow | An approximate value defining the water yield in a natural hydrogeological object. | QuantityValue | voidable |
+
+Association roles of the spatial object type HydrogeologicalObjectNatural
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| groundWaterBody | The GroundWateBody with which the natural hydrogeological object interacts. | GroundWaterBody | voidable |
+
+4.4.1.10. Hydrogeological Unit (HydrogeologicalUnit)
+
+A part of the lithosphere with distinctive parameters for water storage and conduction.
+
+This type is a sub-type of GeologicUnit.
+
+Attributes of the spatial object type HydrogeologicalUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| description | The description of the HydrogeologicalUnit. | PT_FreeText | voidable |
+| approximateDepth | The approximate depth of the HydrogeologicalUnit occurrence. | QuantityValue | voidable |
+| approximateThickness | The approximate thickness of the HydrogeologicalUnit. | QuantityValue | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type HydrogeologicalUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geologicStructure | Relates one or many HydrogeologicalUnit(s) to a GeologicStructure. | GeologicStructure | voidable |
+
+4.4.2. Data types
+
+4.4.2.1. Hydrogeological Surface (HydrogeologicalSurface)
+
+A surface that represents the interpolated groundwater table or other surface, for a local or regional area.
+
+This type is a union type.
+
+Attributes of the union type HydrogeologicalSurface
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceRectifiedGrid | A surface whose domain is a rectified grid. | RectifiedGridCoverage |  |
+| surfaceReferenceableGrid | Surface whose domain consists of a referenceable grid. | ReferenceableGridCoverage |  |
+| surfacePointCollection | Hydrogeological surface represented by collection of observations in points. | PointObservationCollection |  |
+
+4.4.2.2. Piezometric State (PiezometricState)
+
+The piezometric state of a GroundWaterBody
+
+Attributes of the data type PiezometricState
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| observationTime | Date and time of groundwater state observation. | DateTime |  |
+| piezometricSurface | A surface that represents the level to which water will rise in tightly cased wells. | HydrogeologicalSurface |  |
+
+4.4.2.3. Quantity Value (QuantityValue)
+
+A data container with a single quantity value or a range of quantity values.
+
+This type is a union type.
+
+Attributes of the union type QuantityValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| singleQuantity | Scalar component with decimal representation and a unit of measure used to store value of a continuous quantity. | Quantity |  |
+| quantityInterval | Decimal pair for specifying a quantity range with a unit of measure. | QuantityRange |  |
+
+4.4.3. Code Lists
+
+4.4.3.1. Active Well Type (ActiveWellTypeValue)
+
+Types of active wells.
+
+4.4.3.2. Aquifer Media Type (AquiferMediaTypeValue)
+
+Values describing the characteristics of the aquifer medium.
+
+4.4.3.3. Aquifer Type (AquiferTypeValue)
+
+Types of aquifers.
+
+4.4.3.4. Condition Of Groundwater (ConditionOfGroundwaterValue)
+
+Values indicating the approximate degree of change which has taken place on the natural state of groundwater.
+
+4.4.3.5. Hydrogeochemical Rock Type (HydroGeochemicalRockTypeValue)
+
+Values describing the hydrogeochemical condition of the groundwater environment.
+
+4.4.3.6. Natural Object Type (NaturalObjectTypeValue)
+
+Types of natural hydrogeological objects.
+
+4.4.3.7. Status Code Type (StatusCodeTypeValue)
+
+Values describing the statuses of man-made hydrogeological objects.
+
+4.4.3.8. Water Persistence (WaterPersistenceValue)
+
+Types of hydrological persistence of water.
+
+4.4.3.9. Water Salinity (WaterSalinityValue)
+
+A code list indicating salinity classes in water.
+
+**4.5. Layers**
+
+Layers for the spatial data theme Geology
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>GE.GeologicUnit</td><td>Geologic Units</td><td>MappedFeature (spatial objects whose specification property is of type GeologicUnit)</td></tr>
+<tr><td>GE. &lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>MappedFeature (spatial objects whose specification property is of type GeologicFeature and which are classified (using the themeClass property) according to the same thematic classification)</td></tr>
+<tr><td>Example: GE.ShrinkingAndSwelling Clays</td><td>Example: Shrinking and swelling clays</td><td>(themeClassification: ThematicClassificationValue)</td></tr>
+<tr><td>GE.GeologicFault</td><td>Geologic Faults</td><td>MappedFeature (spatial objects whose specification property is of type ShearDisplacementStructure)</td></tr>
+<tr><td>GE.GeologicFold</td><td>Geologic Folds</td><td>MappedFeature (spatial objects whose specification property is of type Fold)</td></tr>
+<tr><td>GE.GeomorphologicFeature</td><td>Geomorphologic Features</td><td>MappedFeature (spatial objects whose specification property is of type GeomorphologicFeature)</td></tr>
+<tr><td>GE.Borehole</td><td>Boreholes</td><td>Borehole</td></tr>
+<tr><td>GE.Aquifer</td><td>Aquifers</td><td>MappedFeature (spatial objects whose specification property is of type Aquifer)</td></tr>
+<tr><td>GE.Aquiclude</td><td>Aquicludes</td><td>MappedFeature (spatial objects whose specification property is of type Aquiclude)</td></tr>
+<tr><td>GE.Aquitard</td><td>Aquitards</td><td>MappedFeature (spatial objects whose specification property is of type Aquitard)</td></tr>
+<tr><td>GE.AquiferSystems</td><td>Aquifer Systems</td><td>MappedFeature (spatial objects whose specification property is of type AquiferSystem)</td></tr>
+<tr><td>GE.Groundwaterbody</td><td>Groundwater Bodies</td><td>Groundwaterbody</td></tr>
+<tr><td>GE.ActiveWell</td><td>Active Wells</td><td>ActiveWell</td></tr>
+<tr><td>GE. &lt;CodeListValue&gt; (2)</td><td>&lt;human readable name&gt;</td><td>GeophStation (stationType: StationTypeValue)</td></tr>
+<tr><td>Example: GE.gravityStation</td><td>Example: Gravity Stations</td><td>  </td></tr>
+<tr><td>GE. &lt;CodeListValue&gt; (3)</td><td>&lt;human readable name&gt;</td><td>GeophStation (profilType: ProfileTypeValue)</td></tr>
+<tr><td>Example: GE.seismicLine</td><td>Example: Seismic Lines</td><td>  </td></tr>
+<tr><td>GE. &lt;CodeListValue&gt; (4)</td><td>&lt;human readable name&gt;</td><td>GeophStation (surveyType: SurveyTypeValue)</td></tr>
+<tr><td>Example: GE.groundGravitySurvey</td><td>Example: Ground Gravity Surveys</td><td>  </td></tr>
+<tr><td>GE. &lt;CodeListValue&gt; (5)</td><td>&lt;human readable name&gt;</td><td>Campaign (surveyType: SurveyTypeValue)</td></tr>
+<tr><td>Example: GE.groundMagneticSurvey</td><td>Example: Ground Magnetic Surveys</td><td>  </td></tr>
+<tr><td>GE.Geophysics.3DSeismics</td><td>3D Seismics</td><td>GeophSwath</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (2)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (3)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (4)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (5)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**REQUIREMENTS FOR SPATIAL DATA THEMES LISTED IN ANNEX III TO DIRECTIVE 2007/2/EC**
+
+**1\. STATISTICAL UNITS**
+
+**1.1. Structure of the Spatial Data Theme Statistical Units**
+
+The types specified for the spatial data theme Statistical Units are structured in the following packages:
+
+— Statistical Units Base
+
+— Statistical Units Vector
+
+— Statistical Units Grid
+
+**1.2. Statistical Units Base**
+
+1.2.1. Spatial object types
+
+The package Statistical Units Base contains the spatial object type Statistical Unit.
+
+1.2.1.1. Statistical Unit (StatisticalUnit)
+
+Unit for dissemination or use of statistical information.
+
+This type is abstract.
+
+**1.3. Statistical Units Vector**
+
+1.3.1. Spatial object types
+
+The package Statistical Units Vector  contains the following spatial object types:
+
+— Vector Statistical Unit
+
+— Area Statistical Unit
+
+— Statistical Tesselation
+
+— Evolution
+
+1.3.1.1. Vector Statistical Unit (VectorStatisticalUnit)
+
+Statistical unit represented as a vector geometry (point, line or surface).
+
+This type is a sub-type of StatisticalUnit.
+
+Attributes of the spatial object type VectorStatisticalUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Descriptive unique object identifier applied to spatial objects in a defined information theme. | ThematicIdentifier |  |
+| country | The code of the country the object belongs to. | CountryCode |  |
+| geographicalName | Possible geographical names of the object. | GeographicalName |  |
+| statisticalUnitType | Type of territorial unit used for dissemination purposes. | StatisticalUnitTypeValue |  |
+| validityPeriod | The period when the statistical unit is supposed to be preferably used and not. | TM_Period |  |
+| referencePeriod | The period when the data is supposed to give a picture of the territorial division in statistical units. | TM_Period |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type VectorStatisticalUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometrical representations of the vector statistical unit. | VectorStatisticalUnitGeometry |  |
+| evolutions | All the evolutions the statistical unit has encountered. | Evolution | voidable |
+
+Constraints of the spatial object type VectorStatisticalUnit
+
+Vector statistical units with a reference geometry instance of GM_MultiSurface must be instances of the specialised class AreaStatisticalUnit.
+
+1.3.1.2. Area Statistical Unit (AreaStatisticalUnit)
+
+Vector statistical unit with a surfacic reference geometry.
+
+This type is a sub-type of VectorStatisticalUnit.
+
+Attributes of the spatial object type AreaStatisticalUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaValue | The area of the reference geometry. | Area |  |
+| landAreaValue | The area of the above-water part. | Area | voidable |
+| livableAreaValue | The area of the livable part. | Area | voidable |
+
+Association roles of the spatial object type AreaStatisticalUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| administrativeUnit | Administrative units used to build the area statistical unit. | AdministrativeUnit | voidable |
+| lowers | The area statistical units of the next lower level. | AreaStatisticalUnit | voidable |
+| uppers | The area statistical units of the next upper level. | AreaStatisticalUnit | voidable |
+| successors | Successors of the area statistical unit. | AreaStatisticalUnit | voidable |
+| predecessors | Predecessors of the area statistical unit. | AreaStatisticalUnit | voidable |
+| tesselation | The tesselation composed of units. | StatisticalTessellation | voidable |
+
+Constraints of the spatial object type AreaStatisticalUnit
+
+The reference geometry of an area statistical units should be a GM_MultiSurface.
+
+1.3.1.3. Statistical Tesselation (StatisticalTessellation)
+
+A tesselation composed of area statistical units.
+
+Attributes of the spatial object type StatisticalTessellation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+
+Association roles of the spatial object type StatisticalTessellation
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| units | The units composing a tesselation. | AreaStatisticalUnit | voidable |
+| lower | The immediately lower statistical tessellation. | StatisticalTessellation | voidable |
+| upper | The immediately upper statistical tessellation. | StatisticalTessellation | voidable |
+
+1.3.1.4. Evolution (Evolution)
+
+Representation of vector statistical unit evolution.
+
+Attributes of the spatial object type Evolution
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| date | The date when the change occured. | DateTime |  |
+| evolutionType | The type of evolution. | EvolutionTypeValue |  |
+| areaVariation | The area variation during the evolution. This attribute has to be populated only if the type is ‘change’. | Area | voidable |
+| populationVariation | The population variation during the evolution. This attribute has to be populated only if the type is ‘change’. | Integer | voidable |
+
+Association roles of the spatial object type Evolution
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| finalUnitVersions | All the final unit versions concerned by the evolution. | VectorStatisticalUnit | voidable |
+| units | All the units concerned by the evolution. | VectorStatisticalUnit | voidable |
+| initialUnitVersions | All the initial unit versions concerned by the evolution. | VectorStatisticalUnit | voidable |
+
+Constraints of the spatial object type Evolution
+
+Evolution representations shall be consistent with the versions of the concerned objects.
+
+An evolution with a typeValue ‘creation’ shall not have any initial unit versions and only one final one.
+
+An evolution with a typeValue ‘deletion’ shall have one initial unit version and no final one.
+
+An evolution with a typeValue ‘aggregation’ shall have at least two initial unit versions (the units to be aggregated) and a single final one (the resulting aggregation).
+
+An evolution with a typeValue ‘change’ shall have one initial unit version and one final one.
+
+An evolution with a typeValue ‘splitting’ shall have a single initial unit version (the unit to split), and at least two final ones (the units resulting from the splitting).
+
+1.3.2. Data types
+
+1.3.2.1. Vector Statistical Unit Geometry (VectorStatisticalUnitGeometry)
+
+A geometrical representation for vector statistical units.
+
+Attributes of the data type VectorStatisticalUnitGeometry
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry. | GM_Object |  |
+| geometryDescriptor | The statistical unit geometry descriptor. | GeometryDescriptor |  |
+
+1.3.2.2. Geometry Descriptor (GeometryDescriptor)
+
+A descriptor for vector statistical unit geometry.
+
+Attributes of the data type GeometryDescriptor
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometryType | The geometry type. | GeometryTypeValue |  |
+| mostDetailedScale | The most detailed scale the generalised geometry is supposed to be suitable for (expressed as the inverse of an indicative scale). | Integer |  |
+| leastDetailedScale | The least detailed scale the generalised geometry is supposed to be suitable for (expressed as the inverse of an indicative scale). | Integer |  |
+
+Constraints of the data type GeometryDescriptor
+
+The mostDetailedScale and leastDetailedScale fields shall be provided only for geometry descriptors with a type generalisedGeometry
+
+If provided, mostDetailedScale shall be smaller than leastDetailedScale
+
+1.3.3. Code Lists
+
+1.3.3.1. Geometry Type (GeometryTypeValue)
+
+The code values for the geometry types.
+
+1.3.3.2. Evolution Type (EvolutionTypeValue)
+
+The code values for evolution types.
+
+1.3.3.3. Statistical Unit Type (StatisticalUnitTypeValue)
+
+The code values for statistical unit types.
+
+**1.4. Statistical Units Grid**
+
+1.4.1. Spatial object types
+
+The package Grid contains the following spatial object types:
+
+— Statistical Grid Cell
+
+— Statistical Grid
+
+1.4.1.1. Statistical Grid Cell (StatisticalGridCell)
+
+Unit for dissemination or use of statistical information that is represented as a grid cell.
+
+This type is a sub-type of StatisticalUnit.
+
+Attributes of the spatial object type StatisticalGridCell
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| code | A cell code. | CharacterString | voidable |
+| geographicalPosition | The grid cell lower left corner geographical position. | DirectPosition | voidable |
+| gridPosition | The grid cell position within the grid based on the grid coordinates. | GridPosition | voidable |
+| geometry | The grid cell geometry. | GM_Surface | voidable |
+
+Association roles of the spatial object type StatisticalGridCell
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lowers | The immediately lower statistical grid cells. | StatisticalGridCell | voidable |
+| upper | The immediately upper statistical grid cell. | StatisticalGridCell | voidable |
+| grid | The grid made up of cells. | StatisticalGrid |  |
+
+Constraints of the spatial object type StatisticalGridCell
+
+The cell position shall be within the grid, according to its width and height.
+
+At least one of the attributes code, geographicalPosition, gridPosition or geometry shall be provided.
+
+Where several spatial representations are provided (code, geographicalPosition, gridPosition and geometry), they shall be consistent.
+
+The code shall be composed of:
+
+(1) a two-letter country code as defined in the Interinstitutional Style Guide published by the Publications Office of the European Union;
+
+(2) a coordinate reference system part, represented by the word CRS, followed by the EPSG code;
+
+(3) a resolution and position part:
+
+— If the coordinate reference system is projected, the word RES followed by the grid resolution in meters and the letter m. Then, the letter N followed by the northing value in meters, and the letter E followed by the easting value in meters.
+
+— If the coordinate reference system is not projected, the word RES followed by the grid resolution in degree-minute-second, followed by the word dms. Then the word LON followed by the longitude value in degree-minute-second, and word LAT followed by the latitude value in degree-minute-second.
+
+For both cases, the given position shall be the position of the lower left cell corner.
+
+1.4.1.2. Statistical Grid (StatisticalGrid)
+
+A grid composed of statistical cells.
+
+Attributes of the spatial object type StatisticalGrid
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| EPSGCode | The EPSG code to identify the grid Coordinate Referencing System. | Integer |  |
+| resolution | The grid resolution. | StatisticalGridResolution |  |
+| origin | The position of the origin point of the grid in the specified coordinate reference system (if defined). | DirectPosition |  |
+| width | The grid width, in cell number (if defined). | Integer |  |
+| height | The grid height, in cell number (if defined). | Integer |  |
+
+Association roles of the spatial object type StatisticalGrid
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| cells | The cells composing a grid. | StatisticalGridCell |  |
+| lower | The immediately lower statistical grid. | StatisticalGrid | voidable |
+| upper | The immediately upper statistical grid. | StatisticalGrid | voidable |
+
+Constraints of the spatial object type StatisticalGrid
+
+If the coordinate reference system is a projected one, the resolution shall be a length. Otherwise, it shall be an angle.
+
+1.4.2. Data types
+
+1.4.2.1. Grid Position (GridPosition)
+
+A grid cell position within a grid.
+
+Attributes of the data type GridPosition
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| x | The position of the cell on the horizontal axis, starting from the left side, toward the right, from 0 to the grid width -1. | Integer |  |
+| y | The position of the cell on the vertical axis, starting from the bottom toward the top, from 0 to the grid height -1. | Integer |  |
+
+1.4.2.2. Statistical Grid Resolution (StatisticalGridResolution)
+
+A statistical unit resolution value.
+
+This type is a union type.
+
+Attributes of the union type StatisticalGridResolution
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lengthResolution | A distance resolution. | Length |  |
+| angleResolution | An angle resolution. | Angle |  |
+
+**1.5. Theme-specific Requirements**
+
+(1) At least the geometry of statistical units, for which statistical data are made available under INSPIRE, shall be made available as well. This requirement applies to INSPIRE themes that refer to statistical units.
+
+(2) For pan-European usage, the Equal Area Grid defined in Section 2.2.1 of Annex II shall be used. For pan-European usage additional allowed grid cell sizes are 2m, 5m, 20m, 50m, 200m, 500m, 2 000 m, 5 000 m, 20 000 m, 50 000 m.
+
+(3) Statistical data shall refer to their statistical unit through the unit’s external object identifier (inspireId) or thematic identifier (for vector units) or the unit’s code (for grid cells).
+
+(4) Statistical data shall refer to a specific version of a statistical unit.;
+
+**1.6. Layers**
+
+Layers for the spatial data theme Statistical Units
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| SU.VectorStatisticalUnit | Vector statistical units | VectorStatisticalUnit |
+| SU.StatisticalGridCell | Statistical grid cells | StatisticalGridCell |
+
+**2\. BUILDINGS**
+
+**2.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘2D data’ means data where the geometry of spatial objects is represented in two-dimensional space.
+
+(2) ‘2.5D data’ means data where the geometry of spatial objects is represented in three-dimensional space with the constraint that, for each (X,Y) position, there is only one Z.
+
+(3) ‘3D data’ means data where the geometry of spatial objects is represented in three-dimensional space.
+
+(4) ‘building component’ means any sub-division or element of a building.
+
+**2.2. Structure of the Spatial Data Theme Buildings**
+
+The types specified for the spatial data theme Buildings are structured in the following packages:
+
+— Buildings Base
+
+— Buildings 2D
+
+— Buildings 3D
+
+**2.3. Buildings Base**
+
+2.3.1. Spatial object types
+
+The package Buildings Base contains the following spatial object types:
+
+— Abstract Construction
+
+— Abstract Building
+
+— Building
+
+— Building Part
+
+2.3.1.1. Abstract Construction (AbstractConstruction)
+
+Abstract spatial object type grouping the semantic properties of buildings, building parts.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractConstruction
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| name | Name of the construction. | GeographicalName | voidable |
+| dateOfConstruction | Date of construction. | DateOfEvent | voidable |
+| dateOfDemolition | Date of demolition. | DateOfEvent | voidable |
+| dateOfRenovation | Date of last major renovation. | DateOfEvent | voidable |
+| elevation | Vertically-constrained dimensional property consisting of an absolute measure referenced to a well-defined surface which is commonly taken as origin (geoïd, water level, etc.). | Elevation | voidable |
+| externalReference | Reference to an external information system containing any piece of information related to the spatial object. | ExternalReference | voidable |
+| heightAboveGround | Height above ground. | HeightAboveGround | voidable |
+| conditionOfConstruction | Status of construction. | ConditionOfConstructionValue | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+2.3.1.2. Abstract Building (AbstractBuilding)
+
+Abstract spatial object type grouping the common semantic properties of the spatial object types Building and BuildingPart.
+
+This type is a sub-type of AbstractConstruction.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractBuilding
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| buildingNature | Characteristic of the building that makes it generally of interest for mappings applications. The characteristic may be related to the physical aspect and/or to the function of the building. | BuildingNatureValue | voidable |
+| currentUse | Activity hosted within the building. This attribute addresses mainly the buildings hosting human activities. | CurrentUse | voidable |
+| numberOfDwellings | Number of dwellings. | Integer | voidable |
+| numberOfBuildingUnits | Number of building units in the building. A BuildingUnit is a subdivision of Building with its own lockable access from the outside or from a common area (i.e. not from another BuildingUnit), which is atomic, functionally independent, and may be separately sold, rented out, inherited, etc. | Integer | voidable |
+| numberOfFloorsAboveGround | Number of floors above ground. | Integer | voidable |
+
+2.3.1.3. Building (Building)
+
+A Building is an enclosed construction above and/or underground, used or intended for the shelter of humans, animals or things or for the production of economic goods. A building refers to any structure permanently constructed or erected on its site.
+
+This type is a sub-type of AbstractBuilding.
+
+This type is abstract.
+
+Association roles of the spatial object type Building
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| parts | The building parts the building is composed of. | BuildingPart of the Buildings Base package | voidable |
+
+2.3.1.4. Building Part (BuildingPart)
+
+A BuildingPart is a sub-division of a Building that might be considered itself as a building.
+
+This type is a sub-type of AbstractBuilding.
+
+This type is abstract.
+
+2.3.2. Data types
+
+2.3.2.1. Current Use (CurrentUse)
+
+This data type enables to detail the current use(s).
+
+Attributes of the data type CurrentUse
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| currentUse | The current use. | CurrentUseValue |  |
+| percentage | The proportion, given as a percentage, devoted to this current use. | Integer |  |
+
+Constraints of the data type CurrentUse
+
+The total of all percentages shall be less or equal to 100.
+
+2.3.2.2. Date Of Event (DateOfEvent)
+
+This data type includes the different possible ways to define the date of an event.
+
+Attributes of the data type DateOfEvent
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| anyPoint | A date and time of any point of the event, between its beginning and its end. | DateTime | voidable |
+| beginning | Date and time when the event begun. | DateTime | voidable |
+| end | Date and time when the event ended. | DateTime | voidable |
+
+Constraints of the data type DateOfEvent
+
+At least one of the attributes beginning, end or anyPoint shall be supplied.
+
+If provided, the beginning attribute shall not be after the anyPoint attribute and the end attribute, and the anyPoint attribute shall not be after the end attribute.
+
+2.3.2.3. Elevation (Elevation)
+
+This data type includes the elevation value itself and information on how it was measured.
+
+Attributes of the type Elevation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| elevationReference | Element where the elevation was measured. | ElevationReferenceValue |  |
+| elevationValue | Value of the elevation. | DirectPosition |  |
+
+2.3.2.4. External Reference (ExternalReference)
+
+Reference to an external information system containing any piece of information related to the spatial object.
+
+Attributes of the data type ExternalReference
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| informationSystem | Uniform Resource Identifier of the external information system. | URI |  |
+| informationSystemName | The name of the external information system. | PT_FreeText |  |
+| reference | Thematic identifier of the spatial object or of any piece of information related to the spatial object. | CharacterString |  |
+
+2.3.2.5. Height Above Ground (HeightAboveGround)
+
+Vertical distance between a low and a high reference.
+
+Attributes of the data type HeightAboveGround
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| heightReference | Element used as the high reference. | ElevationReferenceValue | voidable |
+| lowReference | Element used as the low reference. | ElevationReferenceValue | voidable |
+| status | The way the height has been captured. | HeightStatusValue | voidable |
+| value | Value of the height above ground. | Length |  |
+
+Constraints of the data type HeightAboveGround
+
+The value of HeightAboveGround shall be in meters.
+
+2.3.2.6. Building Geometry2D (BuildingGeometry2D)
+
+This data types includes the geometry of the building and metadata information about which element of the building was captured and how.
+
+Attributes of the data type BuildingGeometry2D
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | 2D or 2.5D geometric representation. | GM_Object |  |
+| horizontalGeometryEstimatedAccuracy | The estimated absolute positional accuracy of the (X,Y) coordinates of the building geometry, in the INSPIRE official Coordinate Reference System. Absolute positional accuracy is defined as the mean value of the positional uncertainties for a set of positions where the positional uncertainties are defined as the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| horizontalGeometryReference | Element of the building that was captured by (X,Y) coordinates. | HorizontalGeometryReferenceValue |  |
+| referenceGeometry | The geometry to be taken into account by view services, for portrayal. | Boolean |  |
+| verticalGeometryEstimatedAccuracy | The estimated absolute positional accuracy of the Z coordinates of the building geometry, in the INSPIRE official Coordinate Reference System. Absolute positional accuracy is defined as the mean value of the positional uncertainties for a set of positions where the positional uncertainties are defined as the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| verticalGeometryReference | Element of the building that was captured by vertical coordinates. | ElevationReferenceValue |  |
+
+Constraints of the data type BuildingGeometry2D
+
+Geometry shall be of type GM_Point or GM_Surface or GM_MultiSurface.
+
+The value of horizontalGeometryEstimatedAccuracy shall be given in meters.
+
+For exactly one item of BuildingGeometry, the value of the attribute referenceGeometry shall be ‘true’.
+
+The value of verticalGeometryEstimatedAccuracy shall be given in meters.
+
+2.3.3. Code Lists
+
+2.3.3.1. Building Nature (BuildingNatureValue)
+
+Values indicating the nature of a building.
+
+2.3.3.2. Condition Of Construction (ConditionOfConstructionValue)
+
+Values indicating the condition of a construction.
+
+2.3.3.3. Current Use (CurrentUseValue)
+
+Values indicating the current use.
+
+2.3.3.4. Elevation Reference (ElevationReferenceValue)
+
+List of possible elements considered to capture a vertical geometry.
+
+2.3.3.5. Height Status (HeightStatusValue)
+
+Values indicating the method used to capture a height.
+
+2.3.3.6. Horizontal Geometry Reference (HorizontalGeometryReferenceValue)
+
+Values indicating the element considered to capture a horizontal geometry.
+
+**2.4. Buildings 2D**
+
+2.4.1. Spatial object types
+
+The package Buildings 2D contains the following spatial object types:
+
+— Building
+
+— Building Part
+
+2.4.1.1. Building (Building)
+
+A Building is an enclosed construction above and/or underground, used or intended for the shelter of humans, animals or things or for the production of economic goods. A building refers to any structure permanently constructed or erected on its site.
+
+This type is a sub-type of Building of the Buildings Base package.
+
+Attributes of the spatial object type Building
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry2D | 2D or 2,5D geometric representation of the building. | BuildingGeometry2D |  |
+
+Constraints of the spatial object type Building
+
+Exactly one geometry2D attribute shall be a reference geometry, i.e. a geometry2D with a referenceGeometry attribute set to ‘true’.
+
+The parts of the building shall be represented using the BuildingPart type of the Buildings2D package.
+
+2.4.1.2. Building Part (BuildingPart)
+
+A BuildingPart is a sub-division of a Building that might be considered itself as a building.
+
+This type is a sub-type of BuildingPart of the Buildings Base package.
+
+Attributes of the spatial object type BuildingPart
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry2D | 2D or 2,5D geometric representation of the building part. | BuildingGeometry2D |  |
+
+Constraints of the spatial object type BuildingPart
+
+Exactly one geometry2D attribute must be a reference geometry, i.e. the referenceGeometry attribute must be ‘true’.
+
+**2.5. Buildings 3D**
+
+2.5.1. Spatial object types
+
+The package Buildings 3D contains the following spatial object types:
+
+— Building
+
+— Building Part
+
+2.5.1.1. Building (Building)
+
+A Building is an enclosed construction above and/or underground, used or intended for the shelter of humans, animals or things or for the production of economic goods. A building refers to any structure permanently constructed or erected on its site.
+
+This type is a sub-type of Building in the Buildings Base package.
+
+Attributes of the spatial object type Building
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry2D | 2D or 2,5D geometric representation. | BuildingGeometry2D | voidable |
+| geometry3DLoD1 | 3D geometric representation at level of detail (LoD) 1, consisting of the generalized representation of the outer boundary by vertical lateral surfaces and horizontal base polygons. | BuildingGeometry3DLoD1 | — |
+| geometry3DLoD2 | 3D geometric representation at level of detail (LoD) 2, consisting of the generalized representation of the outer boundary by vertical lateral surfaces and a prototypical roof shape or cover (from a defined list of roof shapes) | BuildingGeometry3DLoD2 | — |
+| geometry3DLoD3 | 3D geometric representation at level of detail (LoD) 3, consisting of the detailed representation of the outer boundary (including protrusions, facade elements and window recesses) as well as of the roof shape (including dormers, chimneys). | BuildingGeometry3DLoD | — |
+| geometry3DLoD4 | 3D geometric representation at level of detail (LoD) 4, consisting of the detailed representation of the outer boundary (including protrusions, facade elements, and window recesses) as well as of the roof shape (including dormers, chimneys). | BuildingGeometry3DLoD | — |
+
+Constraints of the spatial object type Building
+
+If a Building does not have any BuildingParts, at least the geometry3DLoD1 or geometry3DLoD2 or geometry3DLoD3 or geometry3DLoD4 attributes shall be provided.
+
+The parts of the building shall be represented using the BuildingPart type of the Buildings3D package.
+
+2.5.1.2. Building Part (BuildingPart)
+
+A BuildingPart is a sub-division of a Building that might be considered itself as a building.
+
+This type is a sub-type of BuildingPart in the Buildings Base package.
+
+Attributes of the spatial object type BuildingPart
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry2D | 2D or 2,5D geometric representation. | BuildingGeometry2D | voidable |
+| geometry3DLoD1 | 3D geometric representation at level of detail (LoD) 1, consisting of the generalized representation of the outer boundary by vertical lateral surfaces and horizontal base polygons. | BuildingGeometry3DLoD1 | — |
+| geometry3DLoD2 | 3D geometric representation at level of detail (LoD) 2, consisting of the generalized representation of the outer boundary by vertical lateral surfaces and a prototypical roof shape or cover (from a defined list of roof shapes). | BuildingGeometry3DLoD2 | — |
+| geometry3DLoD3 | 3D geometric representation at level of detail (LoD) 3, consisting of the detailed representation of the outer boundary (including protrusions, facade elements and window recesses) as well as of the roof shape (including dormers, chimneys). | BuildingGeometry3DLoD | — |
+| geometry3DLoD4 | 3D geometric representation at level of detail (LoD) 4, consisting of the detailed representation of the outer boundary (including protrusions, facade elements, and window recesses) as well as of the roof shape (including dormers, chimneys). | BuildingGeometry3DLoD | — |
+
+Constraints of the spatial object type BuildingPart
+
+At least one of the geometry3DLoD1 or geometry3DLoD2 or geometry3DLoD3 or geometry3DLoD4 attributes shall be provided.
+
+2.5.2. Data types
+
+2.5.2.1. Building Geometry3D LoD (BuildingGeometry3DLoD)
+
+Data type grouping the 3D geometry of a building or building part and the metadata information attached to this geometry.
+
+Attributes of the data type BuildingGeometry3DLoD
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometryMultiSurface | Representation of the outer boundary by a MultiSurface, which may - in contrast to a solid representation - not be topologically clean. In particular, the ground surface may be missing. | GM_MultiSurface |  |
+| geometrySolid | Representation of the outer boundary by a solid. | GM_Solid |  |
+| terrainIntersection | Line or multi-line where the spatial object (Building, BuildingPart,.) touches the terrain representation. | GM_MultiCurve | voidable |
+| horizontalGeometryEstimatedAccuracy | The estimated absolute positional accuracy of the (X,Y) coordinates of the geometry, in the INSPIRE official Coordinate Reference System. Absolute positional accuracy is defined as the mean value of the positional uncertainties for a set of positions where the positional uncertainties are defined as the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| verticalGeometryEstimatedAccuracy | The estimated absolute positional accuracy of the Z-coordinate of the geometry, in the INSPIRE official Coordinate Reference System. Absolute positional accuracy is defined as the mean value of the positional uncertainties for a set of positions where the positional uncertainties are defined as the distance between a measured position and what is considered as the corresponding true position. | Length | voidable |
+| verticalGeometryReference3DBottom | Height level to which the lower height of the model (Z-value of the lower horizontal polygon) refers to. | ElevationReferenceValue |  |
+
+Constraints of the data type BuildingGeometry3DLoD
+
+Either the geometryMultiSurface or the geometrySolid attribute shall be provided.
+
+2.5.2.2. Building Geometry3D LoD1 (BuildingGeometry3DLoD1)
+
+Data type grouping the specific metadata attached to the 3D geometry, when provided by a LoD1 representation.
+
+This type is a sub-type of BuildingGeometry3DLoD.
+
+Attributes of the data type BuildingGeometry3DLoD1
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| horizontalGeometryReference | Element captured by the (X,Y) coordinates of the LoD1 MultiSurface or Solid geometry. | HorizontalGeometryReferenceValue |  |
+| verticalGeometryReference3DTop | Height level to which the upper height of the model (Z-value of the upper horizontal polygon) refers to. | ElevationReferenceValue |  |
+
+Constraints of the data type BuildingGeometry3DLoD1
+
+The horizontalGeometryReference attribute shall not take the value entrancePoint, pointInsideBuilding or pointInsideCadastralParcel.
+
+2.5.2.3. Building Geometry3D LoD2 (BuildingGeometry3DLoD2)
+
+Data type grouping the specific metadata attached to the 3D geometry, when provided by a LoD2 representation.
+
+This type is a sub-type of BuildingGeometry3DLoD.
+
+Attributes of the data type BuildingGeometry3DLoD2
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| horizontalGeometryReference | Element captured by the coordinates (X,Y) of the LoD2 MultiSurface or Solid geometry. | HorizontalGeometryReferenceValue |  |
+
+Constraints of the data type BuildingGeometry3DLoD2
+
+The horizontalGeometryReference attribute shall not take the value entrancePoint, pointInsideBuilding or pointInsideCadastralParcel.
+
+**2.6. Theme-specific Requirements**
+
+(1) By way of derogation from article 12(1), the value domain of spatial properties used in the Buildings 3D package shall not be restricted.
+
+**2.7. Layers**
+
+Layers for the spatial data theme Buildings
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| BU.Building | Buildings | Building (of the Buildings 2D package) |
+| BU.BuildingPart | Building Parts | BuildingPart (of the Buildings 2D package) |
+
+No layers are defined for the Buildings 3D package.
+
+**3\. SOIL**
+
+**3.1. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Soil:
+
+— Derived Soil Profile
+
+— Observed Soil Profile
+
+— Profile Element
+
+— Soil Body
+
+— Soil Derived Object
+
+— Soil Horizon
+
+— Soil Layer
+
+— Soil Plot
+
+— Soil Profile
+
+— Soil Site
+
+— Soil Theme Coverage
+
+— Soil Theme Descriptive Coverage
+
+3.1.1. Derived Soil Profile (DerivedSoilProfile)
+
+A non-point-located soil profile that serves as a reference profile for a specific soil type in a certain geographical area.
+
+This type is a sub-type of SoilProfile.
+
+Association roles of the spatial object type DerivedSoilProfile
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isDerivedFrom | Link to one or more observed soil profiles from which this profile has been derived. | ObservedSoilProfile | voidable |
+
+3.1.2. Observed Soil Profile (ObservedSoilProfile)
+
+A representation of a soil profile found on a specific location which is described on the basis of observations in a trial pit or with a borehole.
+
+This type is a sub-type of SoilProfile.
+
+Association roles of the spatial object type ObservedSoilProfile
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| location | The location of an observed profile is the soilplot. | SoilPlot |  |
+
+3.1.3. Profile Element (ProfileElement)
+
+An abstract spatial object type grouping soil layers and / or horizons for functional/operational aims.
+
+This type is abstract.
+
+Attributes of the spatial object type ProfileElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| particleSizeFraction | Mineral part of the soil, fractioned on the basis of size (diameter), limits of the particles. It indicates how much of the mineral soil material is composed of soil particles of the specified size range. | ParticleSizeFractionType | voidable |
+| profileElementDepthRange | Upper and lower depth of the profile element (layer or horizon) measured from the surface (0 cm) of a soil profile (in cm). | RangeType (as defined in Section 3.2.6) |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type ProfileElement
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isPartOf | Link to the soil profile which the profile element constitutes. | SoilProfile |  |
+| profileElementObservation | Observation of a soil property for characterizing the profile element (layer or horizon). | OM_Observation | voidable |
+
+Constraints of the spatial object type ProfileElement
+
+To fill the featureOfInterest property of the profile element observations of a ProfileElement object, that same ProfileElement object shall be used.
+
+The observedProperty of the profile element observation shall be specified using a value from the ProfileElementParameterNameValue code list.
+
+The result of the profile element observation shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+3.1.4. Soil Body (SoilBody)
+
+Part of the soil cover that is delineated and that is homogeneous with regard to certain soil properties and/or spatial patterns.
+
+Attributes of the spatial object type SoilBody
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | The geometry defining the boundary of the Soil Body. | GM_MultiSurface |  |
+| soilBodyLabel | Label to identify the soil body according to the specified reference framework (metadata). | CharacterString | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type SoilBody
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isDescribedBy | Link to a derived soil profile that characterizes the soil body, possibly in combination with other derived soil profiles. The association has additional properties as defined in the association class DerivedProfilePresenceInSoilBody. | DerivedSoilProfile | voidable |
+
+3.1.5. Soil Derived Object (SoilDerivedObject)
+
+A spatial object type for representing spatial objects with soil-related property derived from one or more soil and possibly other non soil properties.
+
+Attributes of the spatial object type SoilDerivedObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry defining the soil derived object. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+
+Association roles of the spatial object type SoilDerivedObject
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isBasedOnSoilDerivedObject | Link to a soil derived object on whose properties the derived value is based. | SoilDerivedObject | voidable |
+| isBasedOnObservedSoilProfile | Link to an observed soil profile on whose properties the derived value is based. | ObservedSoilProfile | voidable |
+| isBasedOnSoilBody | Link to a soil body on whose properties the derived value is based. | SoilBody | voidable |
+| soilDerivedObjectObservation | Observation of a soil property for characterizing the soil derived object. | OM_Observation | voidable |
+
+Constraints of the spatial object type SoilDerivedObject
+
+To fill the featureOfInterest property of the soil derived object observation, the same SoilDerivedObject object shall be used.
+
+The observedProperty of the soil derived object observation shall be specified using a value from the SoilDerivedObjectParameterNameValue code list.
+
+The result of the soil derived object observation shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+3.1.6. Soil Horizon (SoilHorizon)
+
+Domain of a soil with a certain vertical extension, more or less parallel to the surface and homogeneous for most morphological and analytical characteristics, developed in a parent material layer through pedogenic processes or made up of in-situ sedimented organic residues of up-growing plants (peat).
+
+This type is a sub-type of ProfileElement.
+
+Attributes of the spatial object type SoilHorizon
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| FAOHorizonNotation | Designation of the soil horizon. | FAOHorizonNotationType | voidable |
+| otherHorizonNotation | Designation of the soil horizon according to a specific classification system. | OtherHorizonNotationType | voidable |
+
+3.1.7. Soil Layer (SoilLayer)
+
+Domain of a soil with a certain vertical extension developed through non-pedogenic processes, displaying a change in structure and/or composition to possibly over- or underlying adjacent domains, or a grouping of soil horizons or other sub-domains with a special purpose.
+
+This type is a sub-type of ProfileElement.
+
+Attributes of the spatial object type SoilLayer
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| layerType | Assignation of a layer according to the concept that fits its kind. | LayerTypeValue |  |
+| layerRockType | Type of the material in which the layer developed. | LithologyValue | voidable |
+| layerGenesisProcess | Last non-pedogenic process (geologic or anthropogenic) that coined the material composition and internal structure of the layer. | EventProcessValue | voidable |
+| layerGenesisEnvironment | Setting in which the last non-pedogenic process (geologic or anthropogenic) that coined the material composition and internal structure of the layer took place. | EventEnvironmentValue | voidable |
+| layerGenesisProcessState | Indication whether the process specified in layerGenesisProcess is on-going or ceased in the past. | LayerGenesisProcessStateValue | voidable |
+
+Constraints of the spatial object type SoilLayer
+
+The attributes layerGenesisProcess, layerGenesisEnvironment, layerGenesisProcessState and layerRockType shall only be provided where the layerType is of the value ‘geogenic’.
+
+3.1.8. Soil Plot (SoilPlot)
+
+A spot where a specific soil investigation is carried out.
+
+Attributes of the spatial object type SoilPlot
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| soilPlotLocation | A reference to a location on the earth; it can be a point location identified by coordinates or a description of the location using text or an identifier. | Location |  |
+| soilPlotType | Gives information on what kind of plot the observation of the soil is made on. | SoilPlotTypeValue |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type SoilPlot
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| locatedOn | Link to the soil site on which the soil plot is located or to which the soil plot is belonging. | SoilSite | voidable |
+| observedProfile | Link to the observed soil profile for which the soil plot provides location information. | ObservedSoilProfile | voidable |
+
+3.1.9. Soil Profile (SoilProfile)
+
+A description of the soil that is characterized by a vertical succession of profile elements.
+
+This type is abstract.
+
+Attributes of the spatial object type SoilProfile
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| WRBSoilName | Identification of the soil profile. | WRBSoilNameType | voidable |
+| otherSoilName | Identification of the soil profile according to a specific classification scheme. | OtherSoilNameType | voidable |
+| localIdentifier | Unique identifier of the soil profile given by the data provider of the data set. | CharacterString | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type SoilProfile
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isDescribedBy | The profile elements (layers and/or horizons) constituting the soil profile. | ProfileElement | voidable |
+| soilProfileObservation | Observation of a soil property for characterizing the soil profile. | OM_Observation | voidable |
+
+Constraints of the spatial object type SoilProfile
+
+To fill the featureOfInterest property of the soil profile observations of a SoilProfile object, that same SoilProfile object shall be used.
+
+The observedProperty of the soil profile observation shall be specified using a value from the SoilProfileParameterNameValue code list.
+
+The result of the soil profile observation shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+3.1.10. Soil Site (SoilSite)
+
+An area within a larger survey, study or monitored area, where a specific soil investigation is carried out.
+
+Attributes of the spatial object type SoilSite
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | The geometry defining the soil site. | GM_Object |  |
+| soilInvestigationPurpose | Indication why a survey was conducted. | SoilInvestigationPurposeValue |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type SoilSite
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isObservedOnLocation | Link to a location(s) where the soil site has been investigated. | SoilPlot | voidable |
+| soilSiteObservation | Observation of a soil property for characterizing the soil site. | OM_Observation | voidable |
+
+Constraints of the spatial object type SoilSite
+
+To fill the featureOfInterest property of the soil site observations of a SoilSite object, that same SoilSite object shall be used.
+
+The observedProperty of the soil site observation shall be specified using a value from the SoilSiteParameterNameValue code list.
+
+The result of the soil site observation shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+The result of the soil site observation shall be of type SoilObservationResult.
+
+3.1.11. Soil Theme Coverage (SoilThemeCoverage)
+
+A spatial object type that holds values for a property based on one or more soil and possibly non soil parameters within its spatial, temporal or spatiotemporal domain.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type SoilThemeCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime |  |
+| domainExtent | The attribute domainExtent shall contain the extent of the spatiotemporal domain of the coverage. Extents may be specified in both space and time. | EX_Extent |  |
+| validTimeFrom | The ValidTime specifies the time window for which measurements have been captured to calculate the thematic soil property relevant for that period. The start time defines when the period began. | Date | voidable |
+| validTimeTo | The ValidTime specifies the time window for which measurements have been captured to calculate the thematic soil property relevant for that period. The end time defines when the period stopped. | Date | voidable |
+| soilThemeParameter | A soil-related property (soil theme) that is represented by this coverage. | SoilThemeParameterType |  |
+
+Association roles of the spatial object type SoilThemeCoverage
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isDescribedBy | This association allows for a certain SoilThemeCoverage to have a related Coverage which does not have a meaning without the base coverage. | SoilThemeDescriptiveCoverage | voidable |
+
+Constraints of the spatial object type SoilThemeCoverage
+
+The rangeSet values shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+3.1.12. Soil Theme Descriptive Coverage (SoilThemeDescriptiveCoverage)
+
+A spatial object type that is associated to the soil theme coverage and holds additional information on values of a property of the soil theme coverage.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type SoilThemeDescriptiveCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime |  |
+| domainExtent | The attribute domainExtent shall contain the extent of the spatiotemporal domain of the coverage. Extents may be specified in both space and time. | EX_Extent |  |
+| soilThemeDescriptiveParameter | A descriptive property for the soil-related property (soil theme) that is represented by its associated SoilThemeCoverage. | SoilThemeDescriptiveParameterType |  |
+
+Association roles of the spatial object type SoilThemeDescriptiveCoverage
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isDescribing | This association allows for a certain SoilThemeCoverage to have a related Coverage which does not have a meaning without the base coverage. | SoilThemeCoverage |  |
+
+Constraints of the spatial object type SoilThemeDescriptiveCoverage
+
+The rangeSet values shall be of one of the following types: Number; RangeType (as defined in Section 3.2.6)  ; CharacterString.
+
+**3.2. Data types**
+
+3.2.1. Derived Profile Presence In Soil Body (DerivedProfilePresenceInSoilBody)
+
+Data type indicating the percentage range (expressed by a lower and upper boundary) occupied by the derived profile in the soil body.
+
+This type is an association class.
+
+Attributes of the data type DerivedProfilePresenceInSoilBody
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| derivedProfilePercentageRange | Interval that defines the minimum and maximum percentage of the area of the soil body represented by a specific derived soil profile. | RangeType (as defined in Section 3.2.6) | voidable |
+
+3.2.2. FAO Horizon Notation Type (FAOHorizonNotationType)
+
+A classification of a horizon according to the Horizon classification system specified in Guidelines for soil description, 4th edition, Food and Agriculture Organization of the United Nations, Rome, 2006.
+
+Attributes of the data type FAOHorizonNotationType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| FAOHorizonDiscontinuity | Number used to indicate a discontinuity in the horizon notation. | Integer |  |
+| FAOHorizonMaster | Symbol of the master part of the horizon notation. | FAOHorizonMasterValue |  |
+| FAOPrime | A prime and double prime may be used to connotate the master horizon symbol of the lower of two (prime) or three (double prime) horizons having identical Arabic-numeral prefixes and letter combinations. | FAOPrimeValue |  |
+| FAOHorizonSubordinate | Designations of subordinate distinctions and features within the master horizons and layers are based on profile characteristics observable in the field and are applied during the description of the soil at the site. | FAOHorizonSubordinateValue |  |
+| FAOHorizonVertical | Order number of the vertical subdivision in the horizon notation. | Integer |  |
+| isOriginalClassification | Boolean value to indicate whether the FAO horizon notation was the original notation to describe the horizon. | Boolean |  |
+
+3.2.3. Other Horizon Notation Type (OtherHorizonNotationType)
+
+A classification of a soil horizon according to a specific classification system.
+
+Attributes of the data type OtherHorizonNotationType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| horizonNotation | Notation characterizing the soil horizon according to a specified classification system. | OtherHorizonNotationTypeValue |  |
+| isOriginalClassification | Boolean value to indicate whether the specified horizon notation system was the original notation system to describe the horizon. | Boolean |  |
+
+3.2.4. Other Soil Name Type (OtherSoilNameType)
+
+An identification of the soil profile according to a specific classification scheme.
+
+Attributes of the data type OtherSoilNameType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| soilName | Name of the soil profile according to a specific classification scheme. | OtherSoilNameTypeValue |  |
+| isOriginalClassification | Boolean value to indicate whether the specified classification scheme was the original classification scheme to describe the profile. | Boolean |  |
+
+3.2.5. Particle Size Fraction Type (ParticleSizeFractionType)
+
+Share of the soil that is composed of mineral soil particles of the size within the size range specified.
+
+Attributes of the data type ParticleSizeFractionType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| fractionContent | Percentage of the defined fraction. | Number |  |
+| fractionParticleSizeRange | Upper and lower limit of the particle size of the defined fraction (expressed in μm). | RangeType (as defined in Section 3.2.6) |  |
+
+3.2.6. Range Type (RangeType)
+
+A range value defined by an upper limit and a lower limit.
+
+Attributes of the data type RangeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| upperValue | Value defining the upper limit of a specific property. | Real |  |
+| lowerValue | Value defining the lower limit of a specific property. | Real |  |
+| uom | The unit of measure that is used to express the values of the range. | UnitOfMeasure |  |
+
+Constraints of the data type RangeType
+
+At least one of the values shall not be empty.
+
+3.2.7. Soil Theme Descriptive Parameter Type (SoilThemeDescriptiveParameterType)
+
+A data type providing a descriptive property for the soil-related property (soil theme) that is represented by its associated SoilThemeCoverage.
+
+Attributes of the data type SoilThemeDescriptiveParameterType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| soilThemeDescriptiveParameterName | Name of the parameter to provide extra information on the values of the related SoilThemeCoverage. | CharacterString |  |
+| uom | The unit of measure that is used to express the soilThemeDescriptiveParameter. | UnitOfMeasure |  |
+
+3.2.8. Soil Theme Parameter Type (SoilThemeParameterType)
+
+A soil-related property (soil theme) that is represented by this coverage. It is composed of a parameter name coming from a code list SoilDerivedObjectParameterNameValue and a Unit of Measure used for expressing that parameter.
+
+Attributes of the data type SoilThemeParameterType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| soilThemeParameterName | Name of the parameter represented by the soilThemeCoverage. | SoilDerivedObjectParameterNameValue |  |
+| uom | the unit of measure that is used to express the soilThemeParameter. | UnitOfMeasure |  |
+
+3.2.9. WRB Qualifier Group Type (WRBQualifierGroupType)
+
+A data type to define the group of a qualifier and its possible specifier(s), its place and position with regard to the World Reference Base (WRB) Reference Soil Group (RSG) it belongs to according to World reference base for soil resources 2006, first update 2007, World Soil Resources Reports No. 103, Food and Agriculture Organization of the United Nations, Rome, 2007.
+
+Attributes of the data type WRBQualifierGroupType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| qualifierPlace | Attribute to indicate the placement of the Qualifier with regard to the WRB reference soil group (RSG). The placement can be in front of the RSG i.e. ‘prefix’ or it can be behind the RSG i.e. ‘suffix’. | WRBQualifierPlaceValue |  |
+| qualifierPosition | Number to indicate the position of a qualifier with regard to the WRB reference soil group (RSG) it belongs to and with regard to its placement to that (RSG) i.e. as a prefix or a suffix. | Integer |  |
+| WRBqualifier | Name element of WRB, second level of classification. | WRBQualifierValue |  |
+| WRBspecifier | Code that indicates the degree of expression of a qualifier or the depth range to which the qualifier applies. | WRBSpecifierValue |  |
+
+3.2.10. WRB Soil Name Type (WRBSoilNameType)
+
+An identification of the soil profile according to the World reference base for soil resources 2006, first update 2007, World Soil Resources Reports No. 103, Food and Agriculture Organization of the United Nations, Rome, 2007.
+
+Attributes of the data type WRBSoilNameType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| WRBQualifierGroup | The group of a qualifier and its possible specifier(s), its place and position with regard to the WRBReferenceSoilGroup it belongs to. | WRBQualifierGroupType |  |
+| WRBReferenceSoilGroup | First level of classification of the World Reference Base for Soil Resources. | WRBReferenceSoilGroupValue |  |
+| isOriginalClassification | Boolean value to indicate whether the WRB classification system was the original classification system to describe the soil profile. | Boolean |  |
+
+Association roles of the data type WRBSoilNameType
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| over | An association to indicate that in the WRB classification a soil profile covers another developed, older soil. | WRBSoilNameType |  |
+
+**3.3. Code Lists**
+
+3.3.1. FAO Horizon Master (FAOHorizonMasterValue)
+
+A code list of the master part of the horizon designation.
+
+3.3.2. FAO Horizon Subordinate (FAOHorizonSubordinateValue)
+
+A code list of designations of subordinate distinctions and features within the master horizons and layers, which are based on profile characteristics observable in the field and are applied during the description of the soil at the site.
+
+3.3.3. FAO Prime (FAOPrimeValue)
+
+A prime and double prime may be used to connotate the master horizon symbol of the lower of two (prime) or three (double prime) horizons having identical Arabic-numeral prefixes and letter combinations.
+
+3.3.4. Other Horizon Notation Type (OtherHorizonNotationTypeValue)
+
+A classification of a soil horizon according to a specific classification system.
+
+3.3.5. Other Soil Name Type (OtherSoilNameTypeValue)
+
+An identification of the soil profile according to a specific classification scheme.
+
+3.3.6. Layer Genesis Process State (LayerGenesisProcessStateValue)
+
+An indication whether the process specified in layerGenesisProcess is ongoing or has ceased.
+
+3.3.7. Layer Type (LayerTypeValue)
+
+A classification of a layer according to the concept that fits the purpose.
+
+3.3.8. Profile Element Parameter Name (ProfileElementParameterNameValue)
+
+Properties that can be observed to characterise the profile element.
+
+3.3.9. Soil Derived Object Parameter Name (SoilDerivedObjectParameterNameValue)
+
+Soil-related properties that can be derived from soil and other data.
+
+3.3.10. Soil Investigation Purpose (SoilInvestigationPurposeValue)
+
+A code list of possible values indicating the reasons for conducting a survey.
+
+3.3.11. Soil Plot Type (SoilPlotTypeValue)
+
+A code list of terms specifying on what kind of plot the observation of the soil is made.
+
+3.3.12. Soil Profile Parameter Name (SoilProfileParameterNameValue)
+
+Properties that can be observed to characterise the soil profile.
+
+3.3.13. Soil Site Parameter Name (SoilSiteParameterNameValue)
+
+Properties that can be observed to characterise the soil site.
+
+3.3.14. WRB Qualifier Place (WRBQualifierPlaceValue)
+
+A code list of values indicating the placement of the Qualifier with regard to the WRB reference soil group (RSG). The placement can be in front of the RSG i.e. ‘prefix’ or it can be behind the RSG i.e. ‘suffix’.
+
+3.3.15. WRB Qualifiers (WRBQualifierValue)
+
+A code list of possible qualifiers of the World Reference Base for Soil Resources.
+
+3.3.16. WRB Reference Soil Group (RSG) (WRBReferenceSoilGroupValue)
+
+A code list of possible reference soil groups (i.e. first level of classification of the World Reference Base for Soil Resources).
+
+3.3.17. WRB Specifiers (WRBSpecifierValue)
+
+A code list of possible specifiers.
+
+**3.4. Theme-specific Requirements**
+
+(1) The values of the first level hierarchical code lists ProfileElementParameterNameValue, SoilDerivedObjectParameterNameValue, SoilProfileParameterNameValue, SoilSiteParameterNameValue (chemicalParameter, biologicalParameter, physicalParameter) serve only the purpose of structuring; onlythe lower-level values shall be used.
+
+(2) When an additional descriptive parameter for the soil derived object is needed, the parameter attribute of the OM_Observation spatial object type shall be used.
+
+(3) Only one Other Horizon Notation Type classification shall be used for a dataset.
+
+(4) Only one Other Soil Name Type classification shall be used for a dataset.
+
+**3.5. Layers**
+
+Layers for the spatial data theme Soil
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>SO.SoilBody</td><td>Soils</td><td>SoilBody</td></tr>
+<tr><td>SO.ObservedSoilProfile</td><td>Observed Soil Profiles</td><td>ObservedSoilProfile, SoilPlot </td></tr>
+<tr><td>SO.SoilSite</td><td>Soil Sites</td><td>SoilSite</td></tr>
+<tr><td>SO. &lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>SoilDerivedObject (basePhenomenon: SoilDerivedObjectParameterNameValue)</td></tr>
+<tr><td>Example: SO. OrganicCarbonContent</td><td>Example: Organic Carbon Content</td><td>  </td></tr>
+<tr><td>SO.&lt;CodeListValue&gt;Coverage (2)</td><td>&lt;human readable name&gt;</td><td rowspan="2">SoilThemeCoverage (soilThemeParameter / soilThemeParameterName: SoilDerivedObjectParameterNameValue)</td></tr>
+<tr><td>Example: SO. OrganicCarbonContentCoverage</td><td>Example: Organic Carbon Content Coverage</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (2)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**4\. LAND USE**
+
+**4.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definition shall apply:
+
+(1) ‘existing land use’ means an objective depiction of the use and functions of a territory as it has been and effectively still is in real life.
+
+(2) ‘gridded existing land use’ means an objective depiction as a regular orthorectified grid (image) of the use and functions of a territory as it has been and effectively still is in real life.
+
+(3) ‘Hierarchical INSPIRE Land Use Classification System (HILUCS)’ means a multi-level classification system for Land Use whose use is mandatory at the most appropriate level.
+
+(4) ‘minimum unit of interest’ means the smallest polygonal area for the land use objects taken into consideration in the data set.
+
+(5) ‘planned land use’ means spatial plans, defined by spatial planning authorities, depicting the possible utilization of the land in the future.
+
+(6) ‘sampled existing land use’ means an objective depiction of the use and functions of a territory [as it has been and effectively still is] in real life as observed in sampled location.
+
+(7) ‘zoning’ means a partition where the planned land use is depicted, making explicit the rights and prohibitions regarding new constructions that apply within each partition element.
+
+**4.2. Structure of the Spatial Data Theme Land Use**
+
+The types specified for the spatial data theme Land Use are structured in the following packages:
+
+— Land Use Nomenclature
+
+— Existing land use
+
+— Gridded existing land use
+
+— Sampled existing land use
+
+— Planned land use
+
+**4.3. Land Use Nomenclature**
+
+4.3.1. Data types
+
+4.3.1.1. HILUCS Percentage (HILUCSPercentage)
+
+Percentage of land use object that is covered by this HILUCS presence.
+
+Attributes of the data type HILUCSPercentage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| hilucsValue | HILUCS category for this HILUCS percentage. | HILUCSValue |  |
+| percentage | Percentage of land use object that is covered by this HILUCS presence. | Integer |  |
+
+4.3.1.2. HILUCS Presence (HILUCSPresence)
+
+Presence of one or several HILUCS values in an area, indicated either as the percentage covered for each value or as the values listed in their order of importance.
+
+This type is a union type.
+
+Attributes of the union type HILUCSPresence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| orderedList | ordered list of land use value presence | HILUCSValue |  |
+| percentageList | list of percentage of land use value | HILUCSPercentage |  |
+
+4.3.1.3. Specific Percentage (SpecificPercentage)
+
+Percentage of a land use object that is covered by a specific presence.
+
+Attributes of the data type SpecificPercentage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| specificValue | Specific value category for this specific percentage. | LandUseClassificationValue |  |
+| percentage | Percentage of a land use object that is covered by this specific presence. | Integer |  |
+
+4.3.1.4. Specific Presence (SpecificPresence)
+
+Presence of one or several land use classification values in an area according to the code list provided by the data provider, indicated either as the percentage covered for each value or as the values listed in their order of importance.
+
+This type is a union type.
+
+Attributes of the union type SpecificPresence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| orderedList | ordered list of land use value | LandUseClassificationValue |  |
+| percentageList | list of percentage of land use value | SpecificPercentage |  |
+
+4.3.2. Code Lists
+
+4.3.2.1. HILUCS (HILUCSValue)
+
+List of land use categories to be used in INSPIRE Land Use.
+
+4.3.2.2. Land Use Classification (LandUseClassificationValue)
+
+List of land use categories to be used in INSPIRE Land Use and agreed at a national or local level.
+
+**4.4. Existing Land Use**
+
+4.4.1. Spatial object types
+
+The package existing land use contains the following spatial object types:
+
+— Existing Land Use Data Set
+
+— Existing Land Use Object
+
+4.4.1.1. Existing Land Use Data Set (ExistingLandUseDataSet)
+
+An existing land use data set is a collection of areas for which information on existing (present or past) land uses is provided.
+
+Attributes of the spatial object type ExistingLandUseDataSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Boundary of the geometrical union of all the instances of the spatial object typeExistingLandUseObject. | GM_MultiSurface |  |
+| name | Human readable name of the data set. | CharacterString |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the existing land use data set started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which this existing land use data set no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type ExistingLandUseDataSet
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| member | Reference to the LandUseObjects which belong to this ExistingLandUseDataSet | ExistingLandUseObject |  |
+
+4.4.1.2. Existing Land Use Object (ExistingLandUseObject)
+
+An existing land use object describes the land use of an area having a homogeneous combination of land use types.
+
+Attributes of the spatial object type ExistingLandUseObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometric representation of spatial area covered by this object. | GM_MultiSurface |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| hilucsPresence | Actual presence of a land use category according to HILUCS within the object. | HILUCSPresence | voidable |
+| hilucsLandUse | Land use HILUCS classes that are present in this existing land use object. | HILUCSValue |  |
+| specificLandUse | Land Use Category according to the nomenclature specific to this data set. | LandUseClassificationValue | voidable |
+| specificPresence | Actual presence of a land use category within the object. | SpecificPresence | voidable |
+| observationDate | The observation date associated to a description. | Date | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type ExistingLandUseObject
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| dataSet | Existing land use data set to which this land use object belongs. | ExistingLandUseDataSet |  |
+
+**4.5. Gridded Land Use**
+
+4.5.1. Spatial object types
+
+The package gridded land use contains the spatial object type Existing Land Use Grid.
+
+4.5.1.1. Existing Land Use Grid (ExistingLandUseGrid)
+
+An existing land use grid is a collection of pixels for which information on existing (present or past) land use is provided. The HILUCS system shall be used for classification.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type ExistingLandUseGrid
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| name | Human readable name of the data set. | CharacterString |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Contains the extent of the data set. | EX_Extent |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | First date at which this grid is a valid representation of reality. | DateTime | voidable |
+| validTo | The time from which the grid is no longer a valid representation of reality. | DateTime | voidable |
+
+Constraints of the spatial object type ExistingLandUseGrid
+
+The rangeSet values shall be of type CategoryOrNilReason.
+
+Range is based on either HILUCS or on a specific land use classification system defined by the data provider.
+
+**4.6. Sampled Land Use**
+
+4.6.1. Spatial object types
+
+The package sampled land use contains the following spatial object types:
+
+— Existing Land Use Sample
+
+— Sampled Existing Land Use Data Set
+
+4.6.1.1. Existing Land Use Sample (ExistingLandUseSample)
+
+Description of the existing land use that is present at the specific location.
+
+Attributes of the spatial object type ExistingLandUseSample
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| location | Location where the land use sample is taken. | GM_Point |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| hilucsLandUse | Land use HILUCS classes that are present in this existing land use sample. | HILUCSValue |  |
+| hilucsPresence | Actual presence of a land use category according to HILUCS within the object. | HILUCSPresence | voidable |
+| specificLandUse | Land Use Category according to the nomenclature specific to this data set. | LandUseClassificationValue | voidable |
+| observationDate | The observation date associated to a description. | Date | voidable |
+| specificPresence | Actual presence of a land use category within the object. | SpecificPresence | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type ExistingLandUseSample
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| dataset | Data set to which this sample belongs. | SampledExistingLandUseDataSet |  |
+
+4.6.1.2. Sampled Existing Land Use Data Set (SampledExistingLandUseDataSet)
+
+A sampled existing land use data set is a collection of locations for which information on existing (present or past) land uses is provided.
+
+Attributes of the spatial object type SampledExistingLandUseDataSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | The convex hull of all the instances of the spatial object type ExistingLandUseSample. | GM_MultiSurface |  |
+| name | Human readable name of the data set. | CharacterString |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | First date at which this data set is valid in reality. | DateTime | voidable |
+| validTo | The time from which the data set no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type SampledExistingLandUseDataSet
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| member | Reference to the members of the sampled existing land use data set. | ExistingLandUseSample |  |
+
+**4.7. Planned Land Use**
+
+4.7.1. Spatial object types
+
+The package planned land use contains the following spatial object types:
+
+— Official Documentation
+
+— Spatial Plan
+
+— Supplementary Regulation
+
+— Zoning Element
+
+4.7.1.1. Official Documentation (OfficialDocumentation)
+
+The official documentation that composes the spatial plan; it may be composed of the applicable legislation, the regulations, cartographic elements, descriptive elements that may be associated with the complete spatial plan, a zoning element or a supplementary regulation. In some Member States the actual textual regulation will be part of the data set (and can be put in the regulationText attribute), in other Member States the text will not be part of the data set and will be referenced via a reference to a document or a legal act. At least one of the three voidable values shall be provided.
+
+Attributes of the spatial object type OfficialDocumentation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| legislationCitation | Reference to the document that contains the text of the regulation. | LegislationCitation | voidable |
+| regulationText | Text of the regulation. | CharacterString | voidable |
+| planDocument | Citation of scanned plans and structural drawings, which may be geo-referenced or not. | DocumentCitation | voidable |
+
+Constraints of the spatial object type OfficialDocumentation
+
+At least one of the attributes legislationCitation, regulationText or planDocument shall be populated with a non-void value.
+
+4.7.1.2. Spatial Plan (SpatialPlan)
+
+A set of documents that indicates a strategic direction for the development of a given geographic area, states the policies, priorities, programmes and land allocations that will implement the strategic direction and influences the distribution of people and activities in spaces of various scales. Spatial plans may be developed for urban planning, regional planning, environmental planning, landscape planning, national spatial plans, or spatial planning at the Union level.
+
+Attributes of the spatial object type SpatialPlan
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| extent | Geometrical union of all the instances of the spatial object typesZoningElement and SupplementaryRegulation. When a SpatialPlan is only composed of a document, the attribute extent is the border of the cartographic image that contains the land use information (i.e. the land use map extent). | GM_MultiSurface |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| officialTitle | Official title of the spatial plan. | CharacterString |  |
+| levelOfSpatialPlan | Level of the administrative units covered by the plan. | LevelOfSpatialPlanValue |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | First date at which this spatial plan is valid in reality. | DateTime | voidable |
+| validTo | The time from which the spatial plan no longer exists in the real world. | DateTime | voidable |
+| alternativeTitle | Alternative (unofficial) title of the spatial plan. | CharacterString | voidable |
+| planTypeName | Name of the type of plan that the Member State has given to the plan. | PlanTypeNameValue |  |
+| processStepGeneral | General indication of the step of the planning process that the plan is undergoing. | ProcessStepGeneralValue | voidable |
+| backgroundMap | Identification of the background map that has been used for constructing this plan. | BackgroundMapValue | voidable |
+| ordinance | Reference to relevant administrative ordinance. | OrdinanceValue | voidable |
+
+Association roles of the spatial object type SpatialPlan
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| officialDocument | Link to the official documents that relate to the spatial plan. | OfficialDocumentation | voidable |
+| member | Reference to the ZoningElements which belong to this SpatialPlan | ZoningElement |  |
+| restriction | Links to supplementary regulations providing information and/or limitations on the use of land/water that supplements the zoning as part of this spatial plan. | SupplementaryRegulation |  |
+
+4.7.1.3. Supplementary Regulation (SupplementaryRegulation)
+
+A spatial object (point, line or polygon) of a spatial plan that provides supplementary information and/or limitation on the use of land/water, necessary for spatial planning reasons or to formalise external rules defined in legal text.
+
+Attributes of the spatial object type SupplementaryRegulation
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometry of the piece of land on which the supplementary regulation applies. | GM_Object |  |
+| validFrom | First date at which this version of this supplementary regulation is valid in reality. | DateTime | voidable |
+| validTo | The date from which the supplementary regulation is no longer valid. | DateTime | voidable |
+| regulationNature | Legal nature of the land use regulation. | RegulationNatureValue |  |
+| specificSupplementaryRegulation | Reference to a category of supplementary regulation provided in a specific nomenclature of supplementary regulations provided by the data provider. | SpecificSupplementaryRegulationValue | voidable |
+| supplementaryRegulation | Code of the supplementary regulation from the hierarchical supplementary regulation code list agreed at the European level. | SupplementaryRegulationValue |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| processStepGeneral | General indication of the step of the planning process that the supplementary regulation is undergoing. | ProcessStepGeneralValue | voidable |
+| backgroundMap | Identification of the background map that has been used for constructing the supplementary regulation. | BackgroundMapValue | voidable |
+| dimensioningIndication | Specifications about the dimensioning that are added to the dimensioning of the zoning elements that overlap the geometry of the supplementary regulation. | DimensioningIndicationValue | voidable |
+| inheritedFromOtherPlans | Indication whether the supplementary regulation is inherited from another spatial plan. | Boolean | voidable |
+| specificRegulationNature | Legal nature of the land use regulation from a national perspective. | CharacterString | voidable |
+| name | Official name of the supplementary regulation | CharacterString | voidable |
+
+Association roles of the spatial object type SupplementaryRegulation
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| officialDocument | Link to the textual regulations that correspond to this supplementary regulation. | OfficialDocumentation | voidable |
+| plan | Link to the plan this supplementary regulation is part of. | SpatialPlan |  |
+
+4.7.1.4. Zoning Element (ZoningElement)
+
+A spatial object which is homogeneous regarding the permitted uses of land based on zoning which separate one set of land uses from another.
+
+Attributes of the spatial object type ZoningElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometry of this zoning element. | GM_MultiSurface |  |
+| validFrom | The date when the phenomenon started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the phenomenon no longer exists in the real world. | DateTime | voidable |
+| hilucsLandUse | Land use class that is dominant in this land use object. | HILUCSValue |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| hilucsPresence | Actual presence of a land use category within the object. | HILUCSPresence | voidable |
+| specificLandUse | Land Use Category according to the nomenclature specific to this data set. | LandUseClassificationValue | voidable |
+| specificPresence | Actual presence of a land use category within the object. | SpecificPresence | voidable |
+| regulationNature | Legal nature of the land use indication. | RegulationNatureValue |  |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| processStepGeneral | General indication of the step of the planning process that the zoning element is undergoing. | ProcessStepGeneralValue | voidable |
+| backgroundMap | Identification of the background map that has been used for constructing this zoning element. | BackgroundMapValue | voidable |
+| dimensioningIndication | Specifications about the dimensioning of the urban developments. | DimensioningIndicationValue | voidable |
+
+Association roles of the spatial object type ZoningElement
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| plan | SpatialPlan which this ZoningElement belongs to. | SpatialPlan |  |
+| officialDocument | Textual Regulation that is part of this zoning element. | OfficialDocumentation | voidable |
+
+4.7.2. Data types
+
+4.7.2.1. Background Map (BackgroundMapValue)
+
+Information regarding the map that has been used as a background in the definition of a spatial plan, a zoning element or a supplementary regulation.
+
+Attributes of the data type BackgroundMapValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| backgroundMapDate | Date of the background map used. | DateTime |  |
+| backgroundMapReference | Reference to the background map that has been used. | CharacterString |  |
+| backgroundMapURI | URI referring to service that provides background map. | URI | voidable |
+
+4.7.2.2. Character-valued Dimensioning Indication (DimensioningIndicationCharacterValue)
+
+Dimensioning indication whose value is of type CharacterString.
+
+This type is a sub-type of DimensioningIndicationValue.
+
+Attributes of the data type DimensioningIndicationCharacterValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | Value of the dimension indications. | CharacterString |  |
+
+4.7.2.3. Integer-valued Dimensioning Indication (DimensioningIndicationIntegerValue)
+
+Dimensioning indication whose value is of type integer.
+
+This type is a sub-type of DimensioningIndicationValue.
+
+Attributes of the data type DimensioningIndicationIntegerValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | Value of the dimension indications. | Integer |  |
+
+4.7.2.4. Measure-valued Dimensioning Indication (DimensioningIndicationMeasureValue)
+
+Dimensioning indication whose value is a measure.
+
+This type is a sub-type of DimensioningIndicationValue.
+
+Attributes of the data type DimensioningIndicationMeasureValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | Value of the dimension indications. | Measure |  |
+
+4.7.2.5. Real-valued Dimensioning Indication (DimensioningIndicationRealValue)
+
+Dimensioning indication whose value is a floating point number.
+
+This type is a sub-type of DimensioningIndicationValue.
+
+Attributes of the data type DimensioningIndicationRealValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | Value of the dimension indications. | Real |  |
+
+4.7.2.6. Dimensioning Indication (DimensioningIndicationValue)
+
+Specifications about the dimensioning of the urban developments.
+
+Attributes of the data type DimensioningIndicationValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| indicationReference | Description of the dimension indication. | CharacterString |  |
+
+4.7.2.7. Ordinance (OrdinanceValue)
+
+Reference to administrative ordinance. Ordinance is a regulation/rule that is adopted by an authority that is legally mandated to take such ordinance.
+
+Attributes of the data type OrdinanceValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ordinanceDate | Date of the relevant administrative ordinance. | DateTime |  |
+| ordinanceReference | Reference to relevant administrative ordinance. | CharacterString |  |
+
+4.7.3. Code Lists
+
+4.7.3.1. Level Of Spatial Plan (LevelOfSpatialPlanValue)
+
+Territorial hierarchy of plan.
+
+4.7.3.2. Process Step General (ProcessStepGeneralValue)
+
+General indication of the step in the planning process that the plan is undergoing.
+
+4.7.3.3. Regulation Nature (RegulationNatureValue)
+
+Legal nature of the land use indication.
+
+4.7.3.4. Plan Type Name (PlanTypeNameValue)
+
+Types of plans as defined in the Member States.
+
+4.7.3.5. Specific Supplementary Regulation (SpecificSupplementaryRegulationValue)
+
+Category of supplementary regulation provided in a specific nomenclature of supplementary regulations provided by the data provider.
+
+4.7.3.6. Supplementary Regulation (SupplementaryRegulationValue)
+
+Types of conditions and constraints in spatial plans.
+
+**4.8. Theme-specific Requirements**
+
+(1) Any Land Use data sets shall assign to each polygon, pixel or location a land use type from the Hierarchical INSPIRE Land Use Classification System (HILUCS) at the most appropriate and detailed level of the hierarchy.
+
+(2) The spatial object type CoverageByDomainAndRange must only be of subtypes of GridCoverage.
+
+(3) Where a zone has been established to regulate planned land use and defined within a legally binding spatial plan, it falls within the scope of the Land Use theme and shall be encoded as a SupplementaryRegulation. However, if the zone has been established by legislative requirement but not defined within a legally binding spatial plan, then it shall be encoded as a ManagementRestrictionOrRegulationZone.
+
+(4) Based on the INSPIRE horizontal coordinate reference system, each Member State shall define a projection or a set of projections suitable for working with the underlying cadastral parcels on national territory and cross-border areas where applicable for a SpatialPlan. A projection is suitable if it offers few linear alterations (ideally less than 50 cm per 500 m) and so enables users to measure distances and surfaces in meaningful way. This projection or set of projections has to be defined in agreement with neighbouring countries. This projection or set of projections must be well documented to allow the conversion from and to the common Coordinate Reference System. The documentation shall be provided according to ISO 19111, which states how a projected coordinate reference system must be described.
+
+(5) The use of the common metadata element ‘Spatial Resolution’ (according to Section 6.2 of part B of the Annex to Regulation (EC) No 1205/2008) shall be restricted to providing a resolution distance.
+
+(6) Data providers shall include the following keywords in addition to the mandatory keywords defined in Regulation (EC) No 1205/2008/EC:
+
+(a) One of the following language-neutral keywords to describe the type of land use data set: ExistingLandUse, SampledExistingLandUse, GriddedExistingLandUse, PlannedLandUse.
+
+(b) If the data set contains SpatialPlan objects, one keyword describing the level of the administrative units covered by the plan, as defined in the LevelOfSpatialPlan code list.
+
+**4.9. Layers**
+
+Layers for the spatial data theme Land Use
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| LU.ExistingLandUse | Existing Land Use objects according to the Hierarchical INSPIRE Land Use Classification System at the most appropriate level | ExistingLandUseObject |
+| LU.SpatialPlan | Extent of a spatial plan | SpatialPlan |
+| LU.ZoningElement | Spatial planning Zoning objects according to the Hierarchical INSPIRE Land Use Classification System at the most appropriate level | ZoningElement |
+| LU.SupplementaryRegulation | Regulations that supplement the zoning and that affect the use of land | SupplementaryRegulation |
+
+**5\. HUMAN HEALTH AND SAFETY**
+
+**5.1. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Human Health and Safety:
+
+— Health Statistical Data
+
+— Biomarker
+
+— Disease
+
+— General Health Statistic
+
+— Health Services Statistic
+
+— Environmental Health Determinant Measure
+
+— Environmental Health Determinant Statistical Data
+
+5.1.1. Health Statistical Data (HealthStatisticalData)
+
+Human health related data, from recorded diseases and related health problems (according to internationally accepted code lists, such as ICD-10), expressed as morbidity and mortality, to data on general health status (BMI, self perceived health, etc.), data on health care services (health care expenditure, day cases, etc.), and data on biomarkers; these are statistical indices aggregated at different statistical units, collected/reported in different population groups. Inclusion of human biomonitoring data provides an opportunity to explore potential direct or indirect links between human health and the environment.
+
+This type is abstract.
+
+Association roles of the spatial object type HealthStatisticalData
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| aggregationUnit | Statistical unit to which health statistical data refers. | StatisticalUnit |  |
+
+5.1.2. Biomarker (Biomarker)
+
+A biomarker (of exposure) is the concentration of a chemical, its metabolite or the product of an interaction between a chemical and some target molecule or cell that is measured in a compartment in an organism.
+
+This type is a sub-type of HealthStatisticalData.
+
+Attributes of the spatial object type Biomarker
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| biomarkerName | It is the unique identifier for a biomarker, providing information on the chemical that is determined and the matrix in which the chemical was determined. | BiomarkerType |  |
+| biomarkerStatisticalParameter | The statistical summary of a human biomonitoring study, representing the most important statistical features of a biomarker measured in that particular study. | BiomarkerStatisticalParameterType |  |
+| referencePeriod | The time period to which data is referred to. | ReferencePeriodType |  |
+| ageRange | Age interval of a specific subpopulation expressed as starting age and an interval, both alternatively expressed in years, months or weeks. | AgeRangeType |  |
+| gender | Gender of the population considered. | GenderValue |  |
+
+Association roles of the spatial object type Biomarker
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| refersTo | biomarker data described by metadata | BiomarkerThematicMetadata |  |
+
+5.1.3. Disease (Disease)
+
+Statistical information related to pathologies linked directly or indirectly to the quality of environment.
+
+This type is a sub-type of HealthStatisticalData.
+
+Attributes of the spatial object type Disease
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ageRange | Age interval of a specific subpopulation expressed as starting age and an interval, both alternatively expressed in years, months or weeks. | AgeRangeType | voidable |
+| diseaseMeasure | Different ways how data on diseases and related health problems in a population can be reported. | DiseaseMeasure |  |
+| gender | Gender of the population considered. | GenderValue | voidable |
+| referencePeriod | The time period to which data is referred to. | ReferencePeriodType |  |
+| pathology | Pathology type. | ICDValue |  |
+| COD | Data on causes of death (COD) that provide information on mortality patterns and form a major element of public health information. | CODValue |  |
+
+Constraints of the spatial object type Disease
+
+The COD attribute shall be provided only if the diseaseMeasureType attribute of diseaseMeasure takes a value that represents mortality.
+
+At least one of pathology and COD attributes must not be empty.
+
+5.1.4. General Health Statistic (GeneralHealthStatistics)
+
+Numbers about some aspects of health related to a population or an area. For the purpose of this data model, ‘general health’ data include issues such as self-perceived health, demographic distribution of various health problems, smokers, etc., expressed as raw numbers, rates, percentage, stratified by gender, age, and/or socio-economic, cultural, ethnic or other factors.
+
+This type is a sub-type of HealthStatisticalData.
+
+Attributes of the spatial object type GeneralHealthStatistics
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ageRange | Age interval of a specific subpopulation expressed as starting age and an interval, both alternatively expressed in years, months or weeks. | AgeRangeType | voidable |
+| gender | Gender of the population considered. | GenderValue | voidable |
+| generalHealthName | Health status indicator. | GeneralHealthTypeValue |  |
+| generalHealthValue | A numerical expression of a health index/indicator. | Real |  |
+| referencePeriod | The time period to which data is referred to. | ReferencePeriodType |  |
+
+5.1.5. Health Services Statistic (HealthServicesStatistic)
+
+Health Care/Services statistical data on NUTS 1 and 2 level and municipality.
+
+This type is a sub-type of HealthStatisticalData.
+
+Attributes of the spatial object type HealthServicesStatistic
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| healthServiceType | Type of health services. | HealthServicesTypeValue |  |
+| healthServiceValue | Number of the type considered. | Real |  |
+| referencePeriod | The time period to which data is referred to. | ReferencePeriodType |  |
+
+5.1.6. Environmental Health Determinant Measure (EnvHealthDeterminantMeasure)
+
+A raw measurement performed at some place that is of interest for human health determinant analysis.
+
+Attributes of the spatial object type EnvHealthDeterminantMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| location | The location of the measurement. | GM_Object |  |
+| type | The type of environmental health determinant. | EnvHealthDeterminantTypeValue |  |
+| measureTime | The time period when the measure has been performed. | TM_Period |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the information will start being used. | DateTime | voidable |
+| validTo | The time when the information will stop being used. | DateTime | voidable |
+| measure | The measure of environmental health determinant. | Measure |  |
+| category | The category of environmental health determinant measure. | MeasureCategoryTypeValue |  |
+
+Constraints of the spatial object type EnvHealthDeterminantMeasure
+
+Environmental health determinant measure shall be provided either as measure (attribute ‘measure’) or category of measure (attribute ‘category’).
+
+5.1.6a Environmental Health Determinant Noise Measure (EnvHealthDeterminantNoiseMeasure)
+
+A noise measurement that is of interest for human health determinant analysis.
+
+This type is a sub-type of EnvHealthDeterminantMeasure.
+
+**Attributes of the spatial object type EnvHealthDeterminantNoiseMeasure**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| Source | The noise source type. | NoiseSourceTypeValue |  |
+
+5.1.6b Environmental Health Determinant Concentration Measure (EnvHealthDeterminantConcentrationMeasure)
+
+A concentration measurement that is of interest for human health determinant analysis.
+
+This type is a sub-type of EnvHealthDeterminantMeasure.
+
+**Attributes of the spatial object type EnvHealthDeterminantConcentrationMeasure**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| component | The component whose concentration is measured. | ComponentTypeValue |  |
+| media | The media in which the concentration is measured. | MediaTypeValue |  |
+
+5.1.7. Environmental Health Determinant Statistical Data (EnvHealthDeterminantStatisticalData)
+
+A statistical data of interest for human health determinant analysis, resulting from the aggregation of raw measurements located within a statistical unit.
+
+This type is a sub-type of HealthStatisticalData.
+
+Attributes of the spatial object type EnvHealthDeterminantStatisticalData
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| statisticalMethod | The type of statistical method used to aggregate the raw measurement data on the statistical unit. | StatisticalAggregationMethodValue |  |
+| type | The type of environmental health determinant. | EnvHealthDeterminantTypeValue |  |
+
+Association roles of the spatial object type EnvHealthDeterminantStatisticalData
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| measure | The measures | Measure |  |
+
+**5.2. Data types**
+
+5.2.1. Age (Age)
+
+Persons’ age can be expressed in various ways (for instance, years for adults, months or weeks for infants).
+
+This type is a union type.
+
+Attributes of the union type Age
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| month | Time period. | Integer |  |
+| week | Time period. | Integer |  |
+| year | Time period. | Integer |  |
+
+5.2.2. Age Range (AgeRangeType)
+
+Age interval of a specific subpopulation expressed as starting age and an interval, both alternatively expressed in years, months or weeks.
+
+Attributes of the data type AgeRangeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| startAge | Beginning of age interval. | Age |  |
+| range | Duration of age interval. | Age |  |
+
+5.2.3. Biomarker Statistical Parameter (BiomarkerStatisticalParameterType)
+
+A set of statistical features of a biomarker measured for one specific biomarker.
+
+Attributes of the data type BiomarkerStatisticalParameterType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometric Mean | The geometric mean. | Measure |  |
+| CI95ofGM | 95 % confidence interval of the geometric mean. | Measure |  |
+| P50 | The 50th Percentile, or median value. Value below which 50 percent of the observations may be found. | Measure |  |
+| P90 | The 90th percentile. The value below which 90 percent of the observations may be found. | Measure |  |
+| P95 | The 95th percentile. The value below which 95 percent of the observations may be found. | Measure |  |
+| CI95ofP95 | 95 % confidence interval of the 95th percentile. | Measure |  |
+| maximum | The highest biomarker value determined in an individual participant in the biomonitoring survey. | Measure |  |
+| pinLOD | Proportion of individuals with undetectable levels of tested parameter (below limit of detection). | Real |  |
+| LOQ | Limit of quantification. | Real |  |
+| numberOfParticipants | The number of participants that have provided samples that have contributed to the calculation of the biomarker statistical parameter. | Integer |  |
+
+5.2.4. Biomarker Thematic Metadata (BiomarkerThematicMetadata)
+
+Thematic Metadata describing the purpose of the study,the target population and the characteristic of the studied areas.
+
+Attributes of the data type BiomarkerThematicMetadata
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| studyType | The aim of the study (hypothesis driven, general population survey, opportunistic) when these choices are predefined. | PT_FreeText |  |
+| areaType | The characteristics of the sampling area (urban, rural, semi-urban) when these choices are predefined in a human biomonitoring study. | PT_FreeText |  |
+| specificSubPopulation | The characteristics of the sampled population with respect to age, gender, and other population characteristics when these choices are predefined in a human biomonitoring survey. | PT_FreeText |  |
+| mean Age | The mean age of the specific sub population. | Age |  |
+
+Association roles of the data type BiomarkerThematicMetadata
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| describedBy | Metadata that are linked to biomarker data | Biomarker |  |
+
+5.2.5. Biomarker Type (BiomarkerType)
+
+A biomarker is defined both by a quantified or determined chemical (e.g. cadmium, lead) or its metabolite, and a matrix (e.g. blood, urine) that is used for quantification; for example - cadmium in urine, lead in blood.
+
+Attributes of the data type BiomarkerType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| chemical | Identification of the compound by name or abbreviation, chemical formula, CAS-PubChem or any other number that is quantified by the measurement. | ChemicalValue |  |
+| matrix | Type of biological material or body compartment that is sampled to determine or quantify a biomarker. | MatrixValue |  |
+
+5.2.6. Disease Measure (DiseaseMeasure)
+
+Different ways in which data on diseases and related health problems in a population can be reported.
+
+Attributes of the data type DiseaseMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| diseaseMeasureType | Different ways how data on diseases and related health problems in a population can be reported. | DiseaseMeasureTypeValue |  |
+| value | Value of the measured disease indicator. | Real |  |
+
+5.2.7. Reference Period (ReferencePeriodType)
+
+The time period to which the data refer.
+
+Attributes of the data type ReferencePeriodType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| startDate | Start of reference period. | Date |  |
+| endDate | End of reference period. | Date |  |
+
+**5.3. Code Lists**
+
+5.3.1. Cause Of Death (CODValue)
+
+Data on causes of death (COD) provide information on mortality patterns and form a major element of public health information.
+
+5.3.2. Chemical (ChemicalValue)
+
+Name of the chemical substance.
+
+5.3.3. Environment Health Component Type (ComponentTypeValue)
+
+Particular component type (chemical substance, biological species, etc.) whose concentration in an environmental media is measured.
+
+5.3.4. Disease Measure Type (DiseaseMeasureTypeValue)
+
+Different ways how data on diseases and related health problems in a population can be reported.
+
+5.3.5. Environment Health Determinant Type (EnvHealthDeterminantTypeValue)
+
+Type of environmental health determinant.
+
+5.3.6. General Health Type (GeneralHealthTypeValue)
+
+Type of health status indicator.
+
+5.3.7. Health Services Type (HealthServicesTypeValue)
+
+Type of health care indicator.
+
+5.3.8. International Classification Of Diseases (ICDValue)
+
+Disease as defined in the International Classification of Diseases, 10th revision.
+
+5.3.9. Matrix (MatrixValue)
+
+Type of human tissue or compartment for biomarker measurement.
+
+5.3.10. Environmental Health Media Type (MediaTypeValue)
+
+The media in which the concentration of a health component is measured.
+
+5.3.11. Noise Source Type (NoiseSourceTypeValue)
+
+The noise source type values.
+
+5.3.12. Statistical Aggregation Method (StatisticalAggregationMethodValue)
+
+The types of statistical methods used to aggregate raw measurement data on the statistical unit.
+
+**5.4. Theme-specific Requirements**
+
+(1) Statistical information on the spatial data theme Human Health and Safety must refer to spatial objects as defined in the spatial data theme Statistical Units.
+
+(2) Where possible, the ICDValue code list shall be used to identify the disease name.
+
+(3) Raw measurement data shall be based on ISO/TS 19103:2005.
+
+(4) Health determinant statistical data shall be modelled as health statistical data characterized by a measurement value based on ISO/TS 19103:2005 and a statistical aggregation method.
+
+(5) Health determinant coverages shall be represented using the spatial object types defined in Section 6 of Annex I. For continuous coverages, a subtype of the CoverageByDomainAndRange class shall be used whose domain is restricted to measurement values based on ISO/TS 19103:2005.
+
+**5.5. Layers**
+
+Layers for the spatial data theme Human Health and Safety
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| HH.HealthStatisticalData | Health statistical data | StatisticalUnit |
+| HH.HealthDeterminantMeasure | Health determinant measure | EnvHealthDeterminantMeasure |
+
+**6\. UTILITY AND GOVERNMENTAL SERVICES**
+
+**6.1. Structure of the Spatial Data Theme Utility and Governmental Services**
+
+The types specified for the spatial data theme Utility and Governmental Services are structured in the following packages:
+
+— Common Utility Network Elements
+
+— Electricity Network
+
+— Oil-Gas-Chemicals Network
+
+— Sewer Network
+
+— Thermal Network
+
+— Water Network
+
+— Environmental Management Facilities
+
+— Administrative And Social Governmental Services
+
+**6.2. Common Utility Network Elements**
+
+6.2.1. Spatial object types
+
+The package Common Utility Network Elements contains the following spatial object types:
+
+— Utility Network
+
+— Utility Network Element
+
+— Utility Link Set
+
+— Utility Node
+
+— Utility Node Container
+
+— Appurtenance
+
+— Cabinet
+
+— Cable
+
+— Duct
+
+— Manhole
+
+— Pipe
+
+— Pole
+
+— Tower
+
+6.2.1.1. Utility Network (UtilityNetwork)
+
+Collection of network elements that belong to a single type of utility network.
+
+Attributes of the spatial object type UtilityNetwork
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| utilityNetworkType | The type of utility network or the utility network theme. | UtilityNetworkTypeValue |  |
+| authorityRole | Parties authorized to manage a utility network, such as maintainers, operators or owners. | RelatedParty |  |
+| utilityFacilityReference | Reference to a facility activity complex that is linked to this utility network. | ActivityComplex | voidable |
+| disclaimer | Legal text describing confidentiality clauses applying to the utility network information. | PT_FreeText | voidable |
+
+Association roles of the spatial object type UtilityNetwork
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| networks | A single sub-network that can be considered as part of a higher-order utility network. | UtilityNetwork | voidable |
+
+Constraints of the spatial object type UtilityNetwork
+
+All utility networks shall have an external object identifier.
+
+6.2.1.2. Utility Network Element (UtilityNetworkElement)
+
+Abstract base type representing a utility network element in a utility network. Every element in a utility network provides some function that is of interest in the utility network.
+
+This type is abstract.
+
+Attributes of the spatial object type UtilityNetworkElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| currentStatus | The status of a utility object with regards to its completion and use. | ConditionOfFacilityValue | voidable |
+| validFrom | The time when the utility network element started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the utility network element no longer exists in the real world. | DateTime | voidable |
+| verticalPosition | Vertical position of the utility object relative to ground. | VerticalPositionValue | voidable |
+| utilityFacilityReference | Reference to an activity complex that is linked (related) to this utility network element. | ActivityComplex | voidable |
+| governmentalServiceReference | Reference to a governmental service object that is linked (related) to this utility network element. | GovernmentalService | voidable |
+
+6.2.1.3. Utility Link Set (UtilityLinkSet)
+
+A collection of link sequences and or individual links that has a specific function or significance in a utility network.
+
+This type is a sub-type of UtilityNetworkElement.
+
+This type is a sub-type of LinkSet.
+
+This type is abstract.
+
+Attributes of the spatial object type UtilityLinkSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| utilityDeliveryType | Utility delivery network e.g. transport, distribution, collection. | UtilityDeliveryTypeValue | voidable |
+| warningType | Overground visible warning mechanism used to indicate an underground utility network element. | WarningTypeValue | voidable |
+
+Constraints of the spatial object type UtilityLinkSet
+
+A utility link set must be composed of links and or link sequences that all belong to the same network.
+
+All utility link sets shall have an external object identifier.
+
+6.2.1.4. Utility Link (UtilityLink)
+
+A linear spatial object that describes the geometry and connectivity of a utility network between two points in the network.
+
+This type is a sub-type of UtilityNetworkElement.
+
+This type is a sub-type of Link.
+
+6.2.1.5. Utility Link Sequence (UtilityLinkSequence)
+
+A linear spatial object, composed of an ordered collection of utility links, which represents a continuous path in the utility network without any branches. The element has a defined beginning and end and every position on the utility link sequence is identifiable with one single parameter.
+
+This type is a sub-type of UtilityNetworkElement.
+
+This type is a sub-type of LinkSequence.
+
+6.2.1.6. Utility Node (UtilityNode)
+
+A point spatial object which is used for connectivity.
+
+This type is a sub-type of UtilityNetworkElement.
+
+This type is a sub-type of Node.
+
+This type is abstract.
+
+Constraints of the spatial object type UtilityNode
+
+All utility nodes have an external object identifier.
+
+6.2.1.7. Utility Node Container (UtilityNodeContainer)
+
+A point spatial object which is used for connectivity, and also may contain other spatial objects (not necessarily belonging to the same utility network).
+
+This type is a sub-type of UtilityNetworkElement.
+
+This type is abstract.
+
+Attributes of the spatial object type UtilityNodeContainer
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Location of the utility node container. | GM_Point |  |
+
+Association roles of the spatial object type UtilityNodeContainer
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| nodes | Contained utility nodes. | UtilityNode | voidable |
+
+6.2.1.8. Appurtenance (Appurtenance)
+
+An appurtenance is a node object that is described by its type (via the attribute appurtenanceType).
+
+This type is a sub-type of UtilityNode.
+
+Attributes of the spatial object type Appurtenance
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| appurtenanceType | Type of appurtenance according to the INSPIRE appurtenance type classification. | AppurtenanceTypeValue | voidable |
+| specificAppurtenanceType | Type of appurtenance according to a domain-specific classification. | SpecificAppurtenanceTypeValue | voidable |
+
+6.2.1.9. Cabinet (Cabinet)
+
+Simple cabinet object which may carry utility objects belonging to either single or multiple utility networks.
+
+This type is a sub-type of UtilityNodeContainer.
+
+6.2.1.10. Cable (Cable)
+
+A utility link or link sequence used to convey electricity or data from one location to another.
+
+This type is a sub-type of UtilityLinkSet.
+
+This type is abstract.
+
+6.2.1.11. Duct (Duct)
+
+A utility link or link sequence used to protect and guide cable and pipes via an encasing construction.
+
+This type is a sub-type of UtilityLinkSet.
+
+Attributes of the spatial object type Duct
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| ductWidth | The width of the duct. | Length | voidable |
+
+Association roles of the spatial object type Duct
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| cables | A duct may contain one or more cables. | Cable | voidable |
+| ducts | A single duct or set of ducts that constitute the inner-duct. | Duct | voidable |
+| pipes | The set of pipes that constitute the duct bank. | Pipe | voidable |
+
+Constraints of the spatial object type Duct
+
+The multiplicity of the utilityDeliveryType attribute shall be 0.
+
+6.2.1.12. Manhole (Manhole)
+
+Simple container object which may contain either single or multiple utility networks objects.
+
+This type is a sub-type of UtilityNodeContainer.
+
+6.2.1.13. Pipe (Pipe)
+
+A utility link or link sequence for the conveyance of solids, liquids, chemicals or gases from one location to another. A pipe can also be used as an object to encase several cables (a bundle of cables) or other (smaller) pipes.
+
+This type is a sub-type of UtilityLinkSet.
+
+Attributes of the spatial object type Pipe
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| pipeDiameter | Pipe outer diameter. | Measure | voidable |
+| pressure | The maximum allowable operating pressure at which a product is conveyed through a pipe. | Measure | voidable |
+
+Association roles of the spatial object type Pipe
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| cable | Cable contained by the pipe. | Cable | voidable |
+| pipe | Pipe contained by the pipe. | Pipe | voidable |
+
+6.2.1.14. Pole (Pole)
+
+Simple pole (mast) object which may carry utility objects belonging to either single or multiple utility networks.
+
+This type is a sub-type of UtilityNodeContainer.
+
+Attributes of the spatial object type Pole
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| poleHeight | The height of the pole. | Length | voidable |
+
+6.2.1.15. Tower (Tower)
+
+Simple tower object which may carry utility objects belonging to either single or multiple utility networks.
+
+This type is a sub-type of UtilityNodeContainer.
+
+Attributes of the spatial object type Tower
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| towerHeight | The height of the tower. | Length | voidable |
+
+6.2.2 Code Lists
+
+6.2.2.1. Appurtenance Type (AppurtenanceTypeValue)
+
+Classification of appurtenances.
+
+This code list comprises the values of the following code lists or other code lists specified by data providers:
+
+— Electricity Appurtenance Type (ElectricityAppurtenanceTypeValue): Classification of electricity appurtenances, as specified in Section 6.3.2.1.
+
+— Oil, Gas and Chemicals Appurtenance Type (OilGasChemicalsAppurtenanceTypeValue): Classification of oil, gas and chemicals appurtenances, as specified in Section 6.4.2.1.
+
+— Sewer Appurtenance Type (SewerAppurtenanceTypeValue): Classification of sewer appurtenances, as specified in Section 6.5.2.1.
+
+— Thermal Appurtenance Type (ThermalAppurtenanceTypeValue): Classification of thermal appurtenances, as specified in Section 6.6.2.1.
+
+— Water Appurtenance Type (WaterAppurtenanceTypeValue): Classification of water appurtenances, as specified in Section 6.7.2.1.
+
+6.2.2.2. Specific Appurtenance Type (SpecificAppurtenanceTypeValue)
+
+Domain-specific classification of appurtenances.
+
+6.2.2.3. Utility Delivery Type (UtilityDeliveryTypeValue)
+
+Classification of utility delivery types.
+
+6.2.2.4. Utility Network Type (UtilityNetworkTypeValue)
+
+Classification of utility network types.
+
+6.2.2.5. Warning Type (WarningTypeValue)
+
+Classification of warning types.
+
+**6.3. Electricity Network**
+
+6.3.1. Spatial object types
+
+The package Electricity Network contains the spatial object type Electricity Cable.
+
+6.3.1.1. Electricity Cable (ElectricityCable)
+
+A utility link or link sequence used to convey electricity from one location to another.
+
+This type is a sub-type of Cable.
+
+Attributes of the spatial object type ElectricityCable
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| operatingVoltage | The utilization or operating voltage by the equipment using the electricity. | Measure | voidable |
+| nominalVoltage | The nominal system voltage at the point of supply. | Measure | voidable |
+
+6.3.2. Code Lists
+
+6.3.2.1. Electricity Appurtenance Type (ElectricityAppurtenanceTypeValue)
+
+Classification of electricity appurtenances.
+
+**6.4. Oil-Gas-Chemicals Network**
+
+6.4.1. Spatial object types
+
+The package Oil-Gas-Chemicals Network contains the spatial object type Oil, Gas and Chemicals Pipe.
+
+6.4.1.1. Oil, Gas and Chemicals Pipe (OilGasChemicalsPipe)
+
+A pipe used to convey oil, gas or chemicals from one location to another.
+
+This type is a sub-type of Pipe.
+
+Attributes of the spatial object type OilGasChemicalsPipe
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| oilGasChemicalsProductType | The type of oil, gas or chemicals product that is conveyed through the oil, gas, chemicals pipe. | OilGasChemicalsProductTypeValue | voidable |
+
+6.4.2. Code Lists
+
+6.4.2.1. Oil, Gas and Chemicals Appurtenance Type (OilGasChemicalsAppurtenanceTypeValue)
+
+Classification of oil, gas, chemicals appurtenances.
+
+6.4.2.2. Oil, Gas and Chemicals Product Type (OilGasChemicalsProductTypeValue)
+
+Classification of oil, gas and chemicals products.
+
+**6.5. Sewer Network**
+
+6.5.1. Spatial object types
+
+The package Sewer Network contains the spatial object type Sewer Pipe.
+
+6.5.1.1. Sewer Pipe (SewerPipe)
+
+A sewer pipe used to convey wastewater (sewer) from one location to another.
+
+This type is a sub-type of Pipe.
+
+Attributes of the spatial object type SewerPipe
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| sewerWaterType | Type of sewer water. | SewerWaterTypeValue | voidable |
+
+6.5.2. Code Lists
+
+6.5.2.1. Sewer Appurtenance Type (SewerAppurtenanceTypeValue)
+
+Classification of sewer appurtenances.
+
+6.5.2.2. Sewer Water Type (SewerWaterTypeValue)
+
+Classification of sewer water types.
+
+**6.6. Thermal Network**
+
+6.6.1. Spatial object types
+
+The package Thermal Network contains the spatial object typeThermal Pipe.
+
+6.6.1.1. Thermal Pipe (ThermalPipe)
+
+A pipe used to disseminate heating or cooling from one location to another.
+
+This type is a sub-type of Pipe.
+
+Attributes of the spatial object type ThermalPipe
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| thermalProductType | The type of thermal product that is conveyed through the thermal pipe. | ThermalProductTypeValue | voidable |
+
+6.6.2. Code Lists
+
+6.6.2.1. Thermal Appurtenance Type (ThermalAppurtenanceTypeValue)
+
+Classification of thermal appurtenances.
+
+6.6.2.2. Thermal Product Type (ThermalProductTypeValue)
+
+Classification of thermal products.
+
+**6.7. Water Network**
+
+6.7.1. Spatial object types
+
+The package Water Network contains the spatial object type Water Pipe.
+
+6.7.1.1. Water Pipe (WaterPipe)
+
+A water pipe used to convey water from one location to another.
+
+This type is a sub-type of Pipe.
+
+Attributes of the spatial object type WaterPipe
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| waterType | Type of water. | WaterTypeValue | voidable |
+
+6.7.2. Code Lists
+
+6.7.2.1. Water Appurtenance Type (WaterAppurtenanceTypeValue)
+
+Classification of water appurtenances.
+
+6.7.2.2. Water Type (WaterTypeValue)
+
+Classification of water types.
+
+**6.8. Environmental Management Facilities**
+
+6.8.1. Spatial object types
+
+The package Environmental Management Facilities contains the spatial object type Environmental Management Facility.
+
+6.8.1.1. Environmental Management Facility (EnvironmentalManagementFacility)
+
+A physical structure designed, built or installed to serve specific functions in relation to environmental material flows, such as waste or waste water flows, or a delimited area of land or water used to serve such functions.
+
+This type is a sub-type of ActivityComplex.
+
+Attributes of the spatial object type EnvironmentalManagementFacility
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The type of facility, such as installation or site. | EnvironmentalManagementFacilityTypeValue | voidable |
+| serviceHours | Service hours of the facility. | PT_FreeText | voidable |
+| facilityDescription | Additional information on an Environmental Management Facility, including its address, contact details, related parties and a free text description. | ActivityComplexDescription | voidable |
+| physicalCapacity | A quantification of an actual or potential ability to perform an activity. | Capacity | voidable |
+| permission | Official Decision (formal consent) granting authorization to operate all or part of an Environmental Management Facility | Permission | voidable |
+| status | The status of the Environmental Management Facility, such as operational or decommissioned. | ConditionOfFacilityValue | voidable |
+
+Association roles of the spatial object type EnvironmentalManagementFacility
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| parentFacility | A parent facility, i.e., a facility to which this facility belongs. | EnvironmentalManagementFacility | voidable |
+
+6.8.2. Code Lists
+
+6.8.2.1. Environmental Facility Classification (EnvironmentalManagementFacilityTypeValue)
+
+Classification of environmental facilities, e.g. as sites and installations.
+
+**6.9. Administrative And Social Governmental Services**
+
+6.9.1. Spatial object types
+
+The package Administrative and Social Governmental Services contains the spatial object type Governmental Service.
+
+6.9.1.1. Governmental Service (GovernmentalService)
+
+Administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals provided by Public Administrative Bodies or by private institutions as far as they are covered by the scope of Directive 2007/2/EC. This scope is mapped to the values of the corresponding code list ServiceTypeValue.
+
+Attributes of the spatial object type GovernmentalService
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaOfResponsibility | The spatial responsibility of a service instance. | AreaOfResponsibilityType | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| pointOfContact | Contains necessary information to get access to a service and/or initial information regarding a service. | Contact | voidable |
+| serviceLocation | Location where the service is offered. | ServiceLocationType |  |
+| serviceType | Type of an administrative and governmental service. | ServiceTypeValue |  |
+
+6.9.2. Data types
+
+6.9.2.1. Area Of Responsibility Type (AreaOfResponsibilityType)
+
+Set of types for the description of spatial responsibility.
+
+This type is a union type.
+
+Attributes of the data type AreaOfResponsibilityType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaOfResponsibilityByAdministrativeUnit | Administrative unit describing the geographic extent of the responsibility of a service. | AdministrativeUnit |  |
+| areaOfResponsibilityByNamedPlace | Geographical object describing the geographic extent of the responsibility of a service. | NamedPlace |  |
+| areaOfResponsibilityByNetwork | Part of a network describing the geographic extent of the competence of a service. | NetworkReference |  |
+| areaOfResponsibilityByPolygon | Polygon describing the geographic extent of the responsibility of a service. | GM_MultiSurface |  |
+
+6.9.2.2. Service Location Type (ServiceLocationType)
+
+Set of types of references to locate a service.
+
+This type is a union type.
+
+Attributes of the union type ServiceLocationType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| serviceLocationByAddress | Location of the service by referring to an address. | Address |  |
+| serviceLocationByBuilding | Location of the service by referring to a building. | Building of the Buildings 2D package |  |
+| serviceLocationByActivityComplex | Location of the service by referring to an activity complex. | ActivityComplex |  |
+| serviceLocationByGeometry | Location of the service by referring to a geometry. | GM_Object |  |
+| serviceLocationByUtilityNode | Location of the service by referring to a node related to a utility network (water, electricity, etc.), e.g. hydrant or emergency call point. | UtilityNode |  |
+
+6.9.3. Code Lists
+
+6.9.3.1. Service Type (ServiceTypeValue)
+
+Code list containing a classification of governmental services.
+
+**6.10. Layers**
+
+Layers for the spatial data theme Utility and Governmental Services
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>US.UtilityNetwork</td><td>Utility Network</td><td>Appurtenance, Manhole, Tower, Pole, Cabinet, Duct, Pipe</td></tr>
+<tr><td>US.ElectricityNetwork</td><td>Electricity Network</td><td>Electricity Cable, Appurtenance (if included in an electricity network)</td></tr>
+<tr><td>US. OilGasChemicalsNetwork</td><td>Oil, Gas or Chemicals Network</td><td>OilGasChemicalsPipe, Appurtenance (if included in an oil, gas or chemicals network)</td></tr>
+<tr><td>US.SewerNetwork</td><td>Sewer Network</td><td>SewerPipe, Appurtenance (if included in a sewer network)</td></tr>
+<tr><td>US.ThermalNetwork</td><td>Thermal Network</td><td>ThermalPipe, Appurtenance (if included in a thermal network)</td></tr>
+<tr><td>US.WaterNetwork</td><td>Water Network</td><td>WaterPipe, Appurtenance (if included in a water network)</td></tr>
+<tr><td>US. &lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>GovernmentalService</td></tr>
+<tr><td>Example: US.PoliceService</td><td>Example: Police Service</td><td>(serviceType: ServiceTypeValue)</td></tr>
+<tr><td>US.EnvironmentalManagementFacility</td><td>Environemental Management Facility</td><td>EnvironmentalManagementFacility</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**7\. ENVIRONMENTAL MONITORING FACILITIES**
+
+**7.1. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Environmental Monitoring Facilities:
+
+— Abstract Monitoring Feature
+
+— Abstract Monitoring Object
+
+— Environmental Monitoring Activity
+
+— Environmental Monitoring Facility
+
+— Environmental Monitoring Network
+
+— Environmental Monitoring Programme
+
+— Observing Capability
+
+— Operational Activity Period
+
+7.1.1. Abstract Monitoring Feature (AbstractMonitoringFeature)
+
+An abstract base class for environmental monitoring features in the real world (EnvironmentalMonitoringNetwork, EnvironmentalMonitoringFacility).
+
+This type is a sub-type of AbstractMonitoringObject.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractMonitoringFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| reportedTo | Information on the involvement of the AbstractMonitoringFeature in reporting. | ReportToLegalAct | voidable |
+
+Association roles of the spatial object type AbstractMonitoringFeature
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| involvedIn | EnvironmentalMonitoringActivity(s) in which the AbstractMonitoringFeature is involved. | EnvironmentalMonitoringActivity | voidable |
+| hasObservation | Observation of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities at this AbstractMonitoringFeature. | OM_Observation | voidable |
+
+Constraints of the spatial object type AbstractMonitoringFeature
+
+If observation(s) are attached to an AbstractMonitoringFeature this shall have an ObservingCapability attached to it. The ObservingCapability shall reference the same Domain, Phenomenon and ProcessUsed as the observation(s).
+
+7.1.2. Abstract Monitoring Object (AbstractMonitoringObject)
+
+An abstract base class for environmental monitoring objects.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractMonitoringObject
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic object identifier. | ThematicIdentifier | voidable |
+| name | Plain text denotation of the AbstractMonitoringObject. | CharacterString | voidable |
+| additionalDescription | Plain text description of additional information not fitting in other attributes. | CharacterString | voidable |
+| mediaMonitored | Monitored environmental medium. | MediaValue |  |
+| legalBackground | The legal context, in which the management and regulation of the AbstractMonitoringObject is defined. | LegislationCitation | voidable |
+| responsibleParty | Responsible party for the AbstractMonitoringObject. | RelatedParty | voidable |
+| geometry | Geometry associated to the AbstractMonitoringObject. For mobile facilities the geometry represents the area the facility is expected to measure in. | GM_Object |  |
+| onlineResource | A link to an external document providing further information on the AbstractMonitoringObject. | URL | voidable |
+| purpose | Reason for which the AbstractMonitoringObject has been generated. | PurposeOfCollectionValue | voidable |
+
+Association roles of the spatial object type AbstractMonitoringObject
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| observingCapability | A link pointing to the explicit capability of an AbstractMonitoringObject. This provides a clear link between the observed property, the procedure used as well as the location of the measurement | ObservingCapability | voidable |
+| broader | A link pointing to a broader AbstractMonitoringObject (a higher level in a hierarchical structure). The association has additional properties as defined in the association class Hierarchy. | AbstractMonitoringObject | voidable |
+| narrower | A link pointing to narrower AbstractMonitoringObject(s) (a lower level in a hierarchical structure). The association has additional properties as defined in the association class Hierarchy. | AbstractMonitoringObject | voidable |
+| supersedes | In a genealogy, the AbstractMonitoringObject(s) that has (have) been deactivated/replaced by another one. | AbstractMonitoringObject | voidable |
+| supersededBy | In a genealogy, the newly active AbstractMonitoringObject(s) that replaces (replace) the superseded one. | AbstractMonitoringObject | voidable |
+
+7.1.3. Environmental Monitoring Activity (EnvironmentalMonitoringActivity)
+
+Specific set of AbstractMonitoringFeatures used for a given domain in a coherent and concise timeframe, area and purpose. Usually the information collected is treated as one time step in a long term monitoring programme. It is a concrete realisation of a given EnvironmentalMonitoringProgramme.
+
+Attributes of the spatial object type EnvironmentalMonitoringActivity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activityTime | Lifespan of the EnvironmentalMonitoringActivity. | TM_Object | voidable |
+| activityConditions | Textual description of the EnvironmentalMonitoringActivity. | CharacterString | voidable |
+| boundingBox | Bounding box in which the EnvironmentalMonitoringActivity takes place. | GM_Boundary | voidable |
+| responsibleParty | Responsible party for the EnvironmentalMonitoringActivity. | RelatedParty | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| onlineResource | A link to an external document providing further information on the EnvironmentalMonitoringActivity. | URL | voidable |
+
+Association roles of the spatial object type EnvironmentalMonitoringActivity
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| setUpFor | EnvironmentalMonitoringProgramme(s) for which the EnvironmentalMonitoringActivity is set up. | EnvironmentalMonitoringProgramme | voidable |
+| uses | Specific set of AbstractMonitoringFeature(s) involved in an EnvironmentalMonitoringActivity. | AbstractMonitoringFeature | voidable |
+
+7.1.4. Environmental Monitoring Facility (EnvironmentalMonitoringFacility)
+
+A georeferenced object directly collecting or processing data about objects whose properties (e.g. physical, chemical, biological or other aspects of environmental conditions) are repeatedly observed or measured. An environmental monitoring facility can also host other environmental monitoring facilities.
+
+This type is a sub-type of AbstractMonitoringFeature.
+
+Attributes of the spatial object type EnvironmentalMonitoringFacility
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| representativePoint | Representative location for the EnvironmentalMonitoringFacility. | GM_Point | voidable |
+| measurementRegime | Regime of the measurement | MeasurementRegimeValue | voidable |
+| mobile | Indicate whether the EnvironmentalMonitoringFacility is mobile (repositionable) during the acquisition of the observation. | Boolean | voidable |
+| resultAcquisitionSource | Source of result acquisition. | ResultAcquisitionSourceValue | voidable |
+| specialisedEMFType | Categorisation of EnvironmentalMonitoringFacilities generally used by domain and in national settings. | SpecialisedEMFTypeValue | voidable |
+| operationalActivityPeriod | The period(s) during which the EnvironmentalMonitoringFacility has been up and running. | TM_Object | voidable |
+
+Association roles of the spatial object type EnvironmentalMonitoringFacility
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| relatedTo | Any Thematic Link to an Environmental Monitoring Facility. The association has additional properties as defined in the association class AnyDomainLink. | EnvironmentalMonitoringFacility | voidable |
+| belongsTo | A link pointing to the EnvironmentalMonitoringNetwork(s) this EnvironmentalMonitoringFacility pertains to. The association has additional properties as defined in the association class NetworkFacility. | EnvironmentalMonitoringNetwork | voidable |
+
+Constraints of the spatial object type EnvironmentalMonitoringFacility
+
+Geometry and representativePoint cannot both be empty.
+
+7.1.5. Environmental Monitoring Network (EnvironmentalMonitoringNetwork)
+
+Administrative or organisational grouping of EnvironmentalMonitoringFacilities managed the same way for a specific purpose, targeting a specific area. Each network respects common rules aiming at ensuring coherence of the observations, especially for purposes of EnvironmentalMonitoringFacilities, mandatory parameters selection, measurement methods and measurement regime.
+
+This type is a sub-type of AbstractMonitoringFeature.
+
+Attributes of the spatial object type EnvironmentalMonitoringNetwork
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| organisationLevel | Level of legal organisation the EnvironmentalMonitoringNetwork is affiliated with. | LegislationLevelValue | voidable |
+
+Association roles of the spatial object type EnvironmentalMonitoringNetwork
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contains | A link pointing to the EnvironmentalMonitoringFacility(s) included in this EnvironmentalMonitoringNetwork. The association has additional properties as defined in the association class NetworkFacility. | EnvironmentalMonitoringFacility | voidable |
+
+7.1.6. Environmental Monitoring Programme (EnvironmentalMonitoringProgramme)
+
+Framework based on policy relevant documents defining the target of a collection of observations and/or the deployment of AbstractMonitoringFeatures on the field. Usually an Environmental Monitoring Programme has a long term perspective over at least a few years.
+
+This type is a sub-type of AbstractMonitoringObject.
+
+Association roles of the spatial object type EnvironmentalMonitoringProgramme
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| triggers | EnvironmentalMonitoringActivity(s) triggered by the EnvironmentalMonitoringProgramme. | EnvironmentalMonitoringActivity | voidable |
+
+7.1.7. Observing Capability (ObservingCapability)
+
+Explicit capability of an AbstractMonitoringObject.
+
+Attributes of the spatial object type ObservingCapability
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| observingTime | Describes the time period that observations can be expected from this AbstractMonitoringObject. Can be only a start time for running measurements or an interval. | TM_Object | voidable |
+| processType | The type of object used for describing the process. | ProcessTypeValue | voidable |
+| resultNature | State of the provided result. | ResultNatureValue | voidable |
+| onlineResource | A link to an external document providing further information about an ISO 19156 ‘Observations and Measurements’ compliant data model used to store or exchange Observations and Measurements acquired. | URL | voidable |
+
+Association roles of the spatial object type ObservingCapability
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| observedProperty | The property being observed or measured at this AbstractMonitoringObject. | GF_PropertyType |  |
+| featureOfInterest | This feature is the real-world object whose properties are under observation, or is a feature intended to sample the real-world object. | GFI_Feature | voidable |
+| procedure | Link to the Process used to generate the result. The OM_Process shall be suitable for the observed property. As a corollary, details of the observed property are constrained by the procedure used. | OM_Process |  |
+
+**7.2. Data types**
+
+7.2.1. Any Domain Link (AnyDomainLink)
+
+Any domain relevant link to an EnvironmentalMonitoringFacility that is not hierarchical or associated with a notion of genealogy.
+
+This type is an association class.
+
+Attributes of the data type AnyDomainLink
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| Comment | Additional information on the domain link. | CharacterString | voidable |
+
+7.2.2. Hierarchy (Hierarchy)
+
+Hierarchical link between AbstractMonitoringObjects.
+
+This type is an association class.
+
+Attributes of the data type Hierarchy
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| linkingTime | Time period of the link. | TM_Object | voidable |
+
+7.2.3. Network Facility (NetworkFacility)
+
+Link between EnvironmentalMonitoringNetwork and EnvironmentalMonitoringFacility.
+
+This type is an association class.
+
+Attributes of the data type NetworkFacility
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| linkingTime | Time period of the link. | TM_Object | voidable |
+
+7.2.4. Report To Legal Act (ReportToLegalAct)
+
+Information on the involvement of an AbstractMonitoringFeature in reporting. The information is specific per submitted reporting envelope and not per obligation/agreement.
+
+Attributes of the data type ReportToLegalAct
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| legalAct | LegalAct which is reported to. | LegislationCitation |  |
+| reportDate | Time of reporting. | DateTime | voidable |
+| reportedEnvelope | Link to the reported data set according to the date indicated in the attribute reportDate. | URI | voidable |
+| observationRequired | Indicates whether an observation is required for the AbstractMonitoringFeature. | Boolean | voidable |
+| observingCapabilityRequired | Indicates whether the observingCapability is required for the AbstractMonitoringFeature. | Boolean | voidable |
+| description | Additional information on the actual data reported. | CharacterString | voidable |
+
+**7.3. Code Lists**
+
+7.3.1. Measurement Regime (MeasurementRegimeValue)
+
+Categories for different types of the MeasurementRegime.
+
+7.3.2. Media (MediaValue)
+
+Categories for different types of media.
+
+7.3.3. Process Type (ProcessTypeValue)
+
+Categories for different process types.
+
+7.3.4. Purpose Of Collection (PurposeOfCollectionValue)
+
+Categories for different purposes of collections.
+
+7.3.5. Result Acquisition Source (ResultAcquisitionSourceValue)
+
+Categories for different types of the ResultAcquisitionSource.
+
+7.3.6. Result Nature (ResultNatureValue)
+
+State of the result of an observation.
+
+7.3.7. Specialised EMF Type (SpecialisedEMFTypeValue)
+
+Categories for different types of EnvironmentalMonitoringFacilities.
+
+**7.4. Layers**
+
+Layers for the spatial data theme Environmental Monitoring Facilities
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| EF.EnvironmentalMonitoringFacilities | Environmental Monitoring Facilities | EnvironmentalMonitoringFacility |
+| EF.EnvironmentalMonitoringNetworks | Environmental Monitoring Networks | EnvironmentalMonitoringNetwork |
+| EF.EnvironmentalMonitoringProgrammes | Environmental Monitoring Programmes | EnvironmentalMonitoringProgramme |
+
+**8\. PRODUCTION AND INDUSTRIAL FACILITIES**
+
+**8.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘emission’ means the direct or indirect release of substances, vibrations, heat or noise from individual or diffuse sources in the facility into the air, water or soil.
+
+(2) ‘production’ means an activity consisting of a series of actions or operations in a productive context.
+
+**8.2. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Production and Industrial Facilities:
+
+— Production Facility
+
+— Production Installation
+
+— Production Installation Part
+
+— Production Site
+
+— Production Plot
+
+— Production Building
+
+8.2.1. Production Facility (ProductionFacility)
+
+One or more installations on the same site operated by the same natural or legal person, designed, built or installed to serve specific production or industrial purposes, comprehending all infrastructure, equipment and materials.
+
+This type is a sub-type of ActivityComplex.
+
+Attributes of the spatial object type ProductionFacility
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceGeometry | Spatial property of the spatial object. | GM_Surface | voidable |
+| riverBasinDistrict | Code identifier and/or name assigned to the basin district of a watercourse. | RiverBasinDistrictValue |  |
+| status | The state or condition of the facility, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+
+Association roles of the spatial object type ProductionFacility
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| groupedBuilding | Buildings managed by the production facility. | ProductionBuilding | voidable |
+| groupedPlot | Plots managed by the production facility. | ProductionPlot | voidable |
+| hostingSite | Sites at a distinct geographic location where the production facility is located. | ProductionSite | voidable |
+| groupedInstallation | Installations technically or legally part of the production facility. | ProductionInstallation | voidable |
+
+8.2.2. Production Installation (ProductionInstallation)
+
+A stationary technical unit, such as machinery, apparatus, devices or equipment placed in position or connected for use, within which one or more activities listed in Annex I to Regulation (EC) No 166/2006 of the European Parliament and of the Council ( 12 ) and in Annex I or in Part 1 of Annex VII to Directive 2010/75/EU of the European Parliament and of the Council ( 13 ) are carried out, and any other directly associated activities which have a technical connection with the activities listed and which could have an effect on emissions and pollution.
+
+**Attributes of the spatial object type ProductionInstallation**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic object identifier. | ThematicIdentifier |  |
+| pointGeometry | Spatial property of the spatial object. | GM_Point |  |
+| surfaceGeometry | Spatial property of the spatial object. | GM_Surface | voidable |
+| name | Official denomination or proper or conventional name of the installation. | CharacterString | voidable |
+| description | Descriptive statement about the installation. | CharacterString | voidable |
+| status | The state or condition of the installation, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+| type | Special kind of an installation, denoting the operative function which has to be performed. | InstallationTypeValue | voidable |
+
+**Association roles of the spatial object type ProductionInstallation**
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| groupedInstallationPart | Minor Installations technically or legally part of an Installation | ProductionInstallationPart | voidable |
+
+8.2.3. Production Installation Part (ProductionInstallationPart)
+
+A single engineered facility that performs specific functionalities related with a production activity.
+
+This level of description covers specific parts of the production installation which must be registered by the legal mandate of the competent authorities, including points of emission as chimneys (for pollutants) or tanks (for special products).
+
+Attributes of the spatial object type ProductionInstallationPart
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic object identifier. | ThematicIdentifier |  |
+| pointGeometry | Spatial property of the spatial object. | GM_Point |  |
+| surfaceGeometry | Spatial property of the spatial object. | GM_Surface | voidable |
+| name | Official denomination or proper or conventional name of the installation part. | CharacterString | voidable |
+| description | Descriptive statement about the installation part. | CharacterString | voidable |
+| status | The state or condition of the installation part, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+| type | Special kind of an installation part, denoting the operative function which has to be performed. | InstallationPartTypeValue | voidable |
+| technique | Method to reduce pollutant concentration due to the emissions of a technical component, typically a chimney. | PollutionAbatementTechniqueValue | voidable |
+
+8.2.4. Production Site (ProductionSite)
+
+All land at a distinct geographic location where the production facility was, is, or is intended to be located. This includes all infrastructure, equipment and materials.
+
+Attributes of the spatial object type ProductionSite
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic object identifier. | ThematicIdentifier |  |
+| geometry | Spatial property of the spatial object. | GM_MultiSurface |  |
+| sitePlan | Descriptive statement about the project concerning the configuration and organisation of the production site. | DocumentCitation | voidable |
+| name | Official denomination or proper or conventional name of the site. | CharacterString | voidable |
+| description | Descriptive statement about the site. | CharacterString | voidable |
+| status | The state or condition of the site, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+
+8.2.5. Production Plot (ProductionPlot)
+
+A portion of land or water part of a facility destined to functional purposes.
+
+Attributes of the spatial object type ProductionPlot
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Thematic object identifier. | ThematicIdentifier |  |
+| geometry | Spatial property of the spatial object. | GM_Surface |  |
+| status | The state or condition of the plot, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+
+8.2.6. Production Building (ProductionBuilding)
+
+Artificial construction, part of the production facility that is useful to host or provide shelter for activities development.
+
+Attributes of the spatial object type ProductionBuilding
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| thematicId | Thematic object identifier. | ThematicIdentifier |  |
+| typeOfBuilding | Classified description of the production and industrial building. | TypeOfProductionBuildingValue | voidable |
+| status | The state or condition of the production and industrial building, with regard to the functional and operational order, in which it is arranged for a limited or extended time period. | StatusType | voidable |
+| geometry | Spatial property of the spatial object. | GM_Object | voidable |
+
+Association roles of the spatial object type ProductionBuilding
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| building | Representation of the production building in a Buildings data set. | AbstractBuilding | voidable |
+
+Constraints of the spatial object type Production Building
+
+The geometry shall be provided if the building property is empty.
+
+**8.3. Data types**
+
+8.3.1. Status Type (StatusType)
+
+The state or condition of a technical component, with regard to the functional and operational order, in which it is arranged for a limited or extended time period.
+
+Attributes of the data type StatusType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| statusType | The state or condition of a technical component referring to a list of predefined potential values. | ConditionOfFacilityValue |  |
+| description | Descriptive statement about the declared status. | CharacterString | voidable |
+| validFrom | The starting time of validity for a status type. | Date | voidable |
+| validTo | The ending time of validity for a status type. | Date | voidable |
+
+**8.4. Code Lists**
+
+8.4.1. Pollution Abatement Technique (PollutionAbatementTechniqueValue)
+
+Methods for reducing pollutant concentration due to the emissions of a technical component, typically a chimney.
+
+8.4.2. Installation Type (InstallationTypeValue)
+
+Values denoting the operative function which has to be performed by an installation.
+
+8.4.3. Installation Part Type (InstallationPartTypeValue)
+
+Values denoting the operative function which has to be performed by an installation part.
+
+8.4.4. River Basin District (RiverBasinDistrictValue)
+
+Code identifiers and/or names assigned to river basin districts.
+
+8.4.5. Type of Production Building (TypeOfProductionBuildingValue)
+
+Classification of production and industrial buildings.
+
+**8.5. Layers**
+
+Layers for the spatial data theme Production and Industrial Facilities
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>PF.ProductionSite</td><td>Production And Industrial Site</td><td>ProductionSite</td></tr>
+<tr><td>PF. &lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>ProductionFacility</td></tr>
+<tr><td>Example: PF.Manufacturing</td><td>Example: Manufacturing</td><td>(activity: EconomicActivityValue)</td></tr>
+<tr><td>PF.ProductionPlot</td><td>Production And Industrial Parcel</td><td>ProductionPlot</td></tr>
+<tr><td>PF.ProductionInstallation</td><td>Production And Industrial Installation</td><td>ProductionInstallation</td></tr>
+<tr><td>PF.ProductionInstallationPart</td><td>Production And Industrial Installation Part</td><td>ProductionInstallationPart</td></tr>
+<tr><td>PF.ProductionBuilding</td><td>Production and Industrial Building</td><td>ProductionBuilding</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**9\. AGRICULTURAL AND AQUACULTURE FACILITIES**
+
+**9.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definition shall apply:
+
+(1) ‘Agriculture’ means the set of process and activities consisting in cultivating soils, producing crops and rearing animals; it includes harvesting, milking, breeding animals and keeping animals for farming purposes. According to Council Regulation(EC) No 73/2009 maintaining the land in good agricultural and environmental condition shall be considered as an agricultural activity.
+
+(2) ‘Livestock’ refers to animals being bred and/or raised for use or profit (covered by the activities defined under NACE codes A.1.4. and A.1.5).
+
+(3) ‘Aquaculture’ means the set of activities and techniques related to the production, breeding and treatment of fish, molluscs, seaweed and other kinds of aquatic resources (vegetables or animal).
+
+**9.2. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Agricultural and Aquaculture Facilities:
+
+— Holding
+
+— Site
+
+9.2.1. Holding (Holding)
+
+The whole area and all infrastructures included on it, covering the same or different ‘sites’, under the control of an operator to perform agricultural or aquaculture activities.
+
+This type is a sub-type of ActivityComplex.
+
+Association roles of the spatial object type Holding
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| contains | The Sites that are part of the specified Holding. | Site |  |
+
+Constraints of the spatial object type Holding
+
+At least one of the function attributes of the Holding spatial object shall be provided using the EconomicActivityNACEValue code list (for the activity attribute of the Function data type).
+
+9.2.1.1. Site (Site)
+
+All land at the same or distinct geographic location under the management control of a holding covering activities, products and services. This includes all infrastructure, equipment and materials.
+
+Attributes of the spatial object type Site
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry defining the extent or position of the site. | GM_Object |  |
+| activity | The classification of the economic activity of the site, according to the NACE rev. 2.0 coding. | EconomicActivityNACEValue |  |
+| includesAnimal | Presence of Animals in the Site. | FarmAnimalSpecies | voidable |
+
+**9.3. Data types**
+
+9.3.1. Farm Animal Species (FarmAnimalSpecies)
+
+Identifies an animal or group of animals (Livestock or Aquaculture) of the same species kept on the specific site.
+
+Attributes of the data type FarmAnimalSpecies
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| livestock | Presence of livestock species in the site. | LivestockSpeciesValue | voidable |
+| aquaculture | Presence of aquaculture species in the site. | AquacultureSpeciesValue | voidable |
+
+**9.4. Code Lists**
+
+9.4.1. Livestock Species (LivestockSpeciesValue)
+
+Classification of livestock species.
+
+9.4.2. Aquaculture Species (AquacultureSpeciesValue)
+
+Classification of aquaculture species.
+
+**9.5. Layers**
+
+Layers for the spatial data theme Agricultural and Aquaculture Facilities
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| AF. AgriculturalHolding | Agricultural Holding | Holding (spatial objects whose activity attribute has the value = ‘A1 - Crop and animal production, hunting and related service activities’ (from the EconomicActivityNACEValue code list) or a narrower value) |
+| AF. AquacultureHolding | Aquaculture Holding | Holding (spatial objects whose activity attribute has the value ‘A3 - Fishing and aquaculture activities’ (from the EconomicActivityNACEValue code list) or a narrower value) |
+| AF.Site | Agricultural and Aquaculture Sites | Site |
+
+**10\. POPULATION DISTRIBUTION – DEMOGRAPHY**
+
+**10.1. Spatial object types**
+
+The following spatial object type is specified for the spatial data theme Population Distribution – Demography: Statistical Distribution.
+
+10.1.1. Statistical Distribution (StatisticalDistribution)
+
+Set of measures describing how a phenomenon is spread within some part of the 2D world.
+
+Attributes of the spatial object type StatisticalDistribution
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| areaOfDissemination | The part of the 2D world the StatisticalDataDistribution describes. | GM_Surface |  |
+| universe | When distribution is related to a subset of the population and not the population in its whole, the literal description of the way this subset was defined. | PT_FreeText |  |
+| domain | The part of statistical knowledge the data refers to. | PT_FreeText |  |
+| measure | The measure concerned by the distribution. | VariableValue |  |
+| measurementMethod | The description of the statistic measurement method. | StatisticsMeasurementMethodValue |  |
+| measurementUnit | The unit of the measurement. | UnitOfMeasure |  |
+| notCountedProportion | The proportion of population of the area of interest that is not counted in any of its spatial components. | Number |  |
+| periodOfMeasurement | The date or period the observation has been taken, the data was collected. | TM_Period |  |
+| periodOfReference | The period when the data is supposed to give a picture of the area of interest. | TM_Period |  |
+| periodOfValidity | The period in which the data remains relevant. | TM_Period |  |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifeSpanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| generalStatus | The status of the statistical data distribution. | StatisticalDataStatusValue |  |
+
+Association roles of the spatial object type StatisticalDistribution
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | The statistical values composing the distribution. | StatisticalValue |  |
+| classification | Additional classifications used to split a total value of the described phenomenon. The StatisticalDistribution object will provide actually several distributions, one for each item of the used classification. When no classification is provided, the statistical value is the total population. | Classification |  |
+
+**10.2. Data types**
+
+10.2.1. Classification (Classification)
+
+A classification used for a statistical distribution.
+
+Attributes of the data type Classification
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The classification type. | ClassificationTypeValue |  |
+
+Association roles of the data type Classification
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| item | The items composing the classification. | ClassificationItem |  |
+
+10.2.2. Classification Item (ClassificationItem)
+
+An item composing a classification.
+
+Attributes of the data type ClassificationItem
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The classification item type. | ClassificationItemTypeValue |  |
+
+10.2.3. Statistical Value (StatisticalValue)
+
+The pieces of datum of the distribution.
+
+Attributes of the data type StatisticalValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| value | The value for the piece of datum. | Number |  |
+| specialValue | Some conventional string when value for the piece of datum cannot be provided: missing value, value hidden because of confidentiality. | SpecialValue |  |
+| conventionallyLocatedProportion | The proportion of population counted in the piece of datum but that cannot actually be physically located anywhere within the area of interest. | Number |  |
+| approximatelyLocatedPopulationProportion | The proportion of population count that doesn’t follow the common rule for location. ‘Population’ can be persons if persons are counted, dwellings if the StatisticalDatadistribution is about dwellings, etc. | Number |  |
+| comment | Free style comment about the value. | PT_FreeText |  |
+| flags | A set of one-character encoded comments about the data. | PT_FreeText |  |
+| periodOfMeasurement | The collection period of the statistical value. This period overrides the period specified in the associated statistical distribution. | TM_Period | voidable |
+| status | The status of the statistical data. | StatisticalDataStatusValue |  |
+
+Association roles of the data type StatisticalValue
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| dimensions | The part of the world the piece of datum refers to. Dimensions contains a description of the geographic location (2D dimension) together with possible additional dimensions when population counts are produced simultaneously for different individual characteristics. | Dimensions |  |
+
+Constraints of the data type StatisticalValue
+
+Either the value or the specialValue attribute shall be provided.
+
+10.2.4. Dimensions (Dimensions)
+
+The identification of what the piece of datum refers to in terms of geographic location or individual characteristics.
+
+Association roles of the data type Dimensions
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| spatial | The spatial dimension of the statistical value. | StatisticalUnit |  |
+| thematic | The thematic dimensions of the statistical value. | ClassificationItem |  |
+
+**10.3. Code Lists**
+
+10.3.1. Classification Type (ClassificationTypeValue)
+
+Code values for classification types.
+
+10.3.2. Classification Item Type (ClassificationItemTypeValue)
+
+Code values for classification items.
+
+This code list comprises the values of the following code lists or other code lists defined by data providers:
+
+— Age By 5 Years (AgeBy5YearsValue): Code values for age by 5 years classification items
+
+— Age By Year (AgeByYearValue): Code values for age by year classification items, including one value for each one-year interval. The first value shall be ‘0-1’ with the label ‘0-1’ and the definition ‘0 to less than 1 year’, and the last value shall be ‘100+’ with label ‘100+’ and the definition ‘100 years or older’.
+
+— NACE Code (NACECodeValue): Classification of economic activities according to Eurostat NACE, as specified in Regulation (EC) No 1893/2006 of the European Parliament and of the Council and narrower values defined by data providers.
+
+— Gender (GenderValue): Gender of a person or group of persons, as specified in Section 4.7 of Annex I.
+
+10.3.3. Variable (VariableValue)
+
+Code values for variable names.
+
+10.3.4. Statistics Measurement Method (StatisticsMeasurementMethodValue)
+
+Code values for statistics measurement method.
+
+10.3.5. Status of Statistical Data (StatisticalDataStatusValue)
+
+Code values for status.
+
+10.3.6. Special Value (SpecialValue)
+
+Code values for special values.
+
+**10.4. Layers**
+
+No layers are defined for the spatial data theme Population Distribution and Demography.
+
+**11\. AREA MANAGEMENT/RESTRICTION/REGULATION ZONES AND REPORTING UNITS**
+
+**11.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definition shall apply:
+
+(1) ‘manage’ means plan, perform, monitor and control activities to achieve specific legally defined environmental objectives.
+
+(2) ‘restrict’ means prohibit or limit certain activities, to only be performed within specific bounds and/or time periods, in order to achieve a certain purpose according to legally defined responsibilities or obligations.
+
+(3) ‘regulate’ means monitor and control certain activities (to permit, promote, prohibit, or restrict) to achieve a legally defined environmental objectives. A regulated activity may require that if the environmental status is degraded then particular actions must be enacted to restore good environmental status.
+
+(4) ‘report’ means evaluate the effectiveness of environmental policies and publish data and information (i.e. spatial data, observations, statistics, indicators) that can be used to assess progress towards maintaining or improving good environmental status and achievement of policy objectives.
+
+(5) ‘reporting unit’ means a spatial object that provides the spatial reference for any non-spatial data exchanged under environmental reporting obligations.
+
+(6) ‘legal instrument’ means a document that specifies legal obligations, including, but not limited to, international conventions, laws and legal acts or implementing regulations at any administrative level.
+
+(7) ‘integrated coastal zone management’ means a dynamic process for the sustainable management and use of coastal zones, taking into account at the same time the fragility of coastal ecosystems and landscapes, the diversity of activities and uses, their interactions, the maritime orientation of certain activities and uses and their impact on both the marine and land parts.
+
+(8) ‘climate’ means the statistical description in terms of the mean and variability of relevant quantities over a period of time ranging from months to thousands or millions of years. These quantities are most often surface variables such as temperature, precipitation and wind.
+
+**11.2. Spatial object types**
+
+The following spatial object type is specified for the spatial data theme Area management/restriction/regulation zones and reporting units: Management Restriction Or Regulation Zone.
+
+11.2.1. Management Restriction Or Regulation Zone (ManagementRestrictionOrRegulationZone)
+
+Area managed, restricted or regulated in accordance with a legal requirement related to an environmental policy or a policy or activity that may have an impact on the environment at any level of administration (international, European, national, regional and local).
+
+Attributes of the spatial object type ManagementRestrictionOrRegulationZone
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| thematicId | Descriptive unique object identifier applied to spatial objects in a defined information theme. | ThematicIdentifier | voidable |
+| name | A geographical name that is used to identify the management, restriction or regulation zone in the real world. It provides a ‘key’ for implicitly associating different representations of the object. | GeographicalName | voidable |
+| geometry | The geometry representing the spatial extent of the spatial object. | GM_Object |  |
+| zoneType | High level classification defining the type of management, restriction or regulation zone. | ZoneTypeCode |  |
+| specialisedZoneType | Additional classification value which further specialises the type of management, regulation or restriction zone relevant to the domain. | SpecialisedZoneTypeCode | voidable |
+| environmentalDomain | Classification of the environment domain(s) for which, through the establishment of the zone, certain environmental objectives shall be reached. | EnvironmentalDomain |  |
+| designationPeriod | Time period defining when the management, restriction or regulation zone was legally designated or became effective in the real world. | TM_Period | voidable |
+| competentAuthority | Description of the organisation(s) responsible for managing, restricting or regulating measures or activities within the zone. | RelatedParty | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type ManagementRestrictionOrRegulationZone
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| legalBasis | Reference to, or citation of, the legal instrument or document that required the establishment of the zone. | LegislationCitation | voidable |
+| relatedZone | Reference to a related management, regulation or restriction zone. | ManagementRestrictionOrRegulationZone | voidable |
+| plan | Reference to, or citation of a plan (management or action plan) that describes the environmental objectives and measures that shall be undertaken in the zone to protect the environment. | DocumentCitation | voidable |
+
+Constraints of the spatial object type ManagementRestrictionOrRegulationZone
+
+At least the most specific legal instrument that required the establishment of zone shall be provided using the legalBasis association role.
+
+The role attribute of the competentAuthority shall take the value ‘authority’.
+
+**11.3. Code Lists**
+
+11.3.1. Zone Type Code (ZoneTypeCode)
+
+High-level classification defining the type of Management, Restriction or Regulation Zone.
+
+11.3.2. Specialised Zone Type Code (SpecialisedZoneTypeCode)
+
+Additional classification value that defines the specialised type of zone.
+
+11.3.3. Environmental Domain (EnvironmentalDomain)
+
+Environmental domain, for which environmental objectives can be defined.
+
+**11.4. Theme-specific Requirements**
+
+11.4.1. Management Restriction Or Regulation Zones
+
+(1) Where the geometry of the spatial object is derived from another spatial object, the geometries of the two objects shall be consistent.
+
+(2) If the geometries of the spatial objects in a ManagementRestrictionOrRegulationZone data set are derived from the geometries of spatial objects in another data set, then this source data set (including its version) shall be described as part of the lineage metadata element.
+
+(3) Data providers shall include the following keywords in addition to the mandatory keywords defined in Regulation (EC) 1205/2008:
+
+(a) One or several keywords describing the high-level classification of the zone type(s) included in the data set, as defined in ZoneTypeCode code list.
+
+(b) One or several keywords describing the official document number(s) of the legal instrument(s) under which the zone(s) included in the data set is (are) established. For Union legislation, the CELEX number shall be used.
+
+11.4.2. Reporting Units
+
+(1) Spatial objects acting as reporting units shall be defined and made available according to the requirements of their respective INSPIRE spatial data theme(s).
+
+(2) Where environmental reporting data, to establish a spatial reference, refers to real-world entities that are made available as spatial objects in accordance with this Regulation, the reporting data shall include an explicit reference to those spatial objects.
+
+11.4.3. Cross-theme requirements
+
+(1) If an area has been established exclusively to manage, regulate and restrict activities to conserve nature, biodiversity and cultural heritage, it shall be made available as a ProtectedSite spatial object. If a zone has been established to deliver multiple objectives, including the conservation of nature, biodiversity and cultural heritage, it shall be made available as a ManagementRestrictionOrRegulationZone spatial object.
+
+(2) Where a zone has been established to regulate planned land use and defined within a legally binding spatial plan, it falls within the scope of the Land Use theme and shall be encoded as a SupplementaryRegulation. However, if the zone has been established by legislative requirement but not defined within a legally binding spatial plan, then it shall be encoded as a ManagementRestrictionOrRegulationZone.
+
+**11.5. Layers**
+
+Layers for the spatial data theme Area Management / Restriction / Regulation Zones and Reporting Units
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>AM.&lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>ManagementRestrictionOrRegulationZone (zoneType: ZoneTypeCode)</td></tr>
+<tr><td>Example: AM.AirQualityManagementZone</td><td>Example: Air Quality Management Zone</td><td>  </td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**12\. NATURAL RISK ZONES**
+
+**12.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definition shall apply:
+
+(1) ‘risk’ means the combination of the consequences of an event (hazard) and the associated likelihood/probability of its occurrence, in accordance with ISO/IEC 31010:2009.
+
+(2) ‘hazard’ means a dangerous phenomenon, substance, human activity or condition that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage.
+
+(3) ‘exposure’ means people, property, systems, or other elements present in hazard zones that are thereby subject to potential losses.
+
+(4) ‘vulnerability’ means the characteristics and circumstances of a community, system or asset that make it susceptible to the damaging effects of a hazard.
+
+**12.2. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Natural Risk Zones:
+
+— Abstract Exposed Element
+
+— Abstract Hazard Area
+
+— Abstract Observed Event
+
+— Abstract Risk Zone
+
+— Exposed Element Coverage
+
+— Exposed Element
+
+— Hazard Area
+
+— Hazard Coverage
+
+— Observed Event Coverage
+
+— Observed Event
+
+— Risk Coverage
+
+— Risk Zone
+
+12.2.1. Abstract Exposed Element (AbstractExposedElement)
+
+People, property, systems, or other elements present in hazard zones that are thereby subject to potential losses.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractExposedElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifeSpanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| validFrom | The time when the exposed element started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the exposed element no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type AbstractExposedElement
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| sourceOfSpatialRepresentation | The source object which is used to represent the exposed element. | AbstractFeature | voidable |
+
+Constraints of the spatial object type AbstractExposedElement
+
+If the sourceOfSpatialRepresentation association role is empty, the geometry of the AbstractExposedElement spatial object shall be provided.
+
+12.2.2. Abstract Hazard Area (AbstractHazardArea)
+
+An area affected by a natural hazard.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractHazardArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| determinationMethod | Specifies if the hazard area result is delineated after modelling or determined after interpretation. | DeterminationMethodValue |  |
+| endLifeSpanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| typeOfHazard | A generic classification and a specific classification of the type of natural hazard. | NaturalHazardClassification |  |
+| validityPeriod | The time frame for which the model applies. | TM_Period | voidable |
+
+Association roles of the spatial object type AbstractHazardArea
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| source | The observed event that triggered the modelling of a hazard area. | AbstractObservedEvent | voidable |
+
+12.2.3. Abstract Observed Event (AbstractObservedEvent)
+
+A natural phenomenon relevant to the study of natural hazards which occurred or is currently occurring and which has been observed.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractObservedEvent
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifeSpanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| nameOfEvent | Common name of the observed event. | CharacterString | voidable |
+| typeOfHazard | A generic classification and a specific classification of the type of hazard. | NaturalHazardClassification |  |
+| validFrom | The time when the observed event started to exist in the real world. | DateTime | voidable |
+| validTo | The time from which the observed event no longer exists in the real world. | DateTime | voidable |
+
+Association roles of the spatial object type AbstractObservedEvent
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isMonitoredBy | The environmental program which monitors the observed event | EnvironmentalMonitoringActivity | voidable |
+
+12.2.4. Abstract Risk Zone (AbstractRiskZone)
+
+A risk zone is the spatial extent of a combination of the consequences of an event (hazard) and the associated probability/likelihood of its occurrence.
+
+This type is abstract.
+
+Attributes of the spatial object type AbstractRiskZone
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginLifeSpanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifeSpanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| sourceOfRisk | A generic classification and a specific classification of the type of hazard which is the source of risk. | NaturalHazardClassification |  |
+| validityPeriod | Future finite time frame where the model applies. | TM_Period | voidable |
+
+Association roles of the spatial object type AbstractRiskZone
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| exposedElement | The element that is within a hazardous area | AbstractExposedElement | voidable |
+| source | The hazard which is considered for the creation of the risk zone object. | AbstractHazardArea | voidable |
+
+12.2.5. Exposed Element Coverage (ExposedElementCoverage)
+
+A coverage representing continuous information about exposed elements.
+
+This type is a sub-type of AbstractExposedElement
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Attributes of the spatial object type ExposedElementCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| typeOfElement | A classification of the exposed element. | ExposedElementClassification | voidable |
+
+Constraints of the spatial object type ExposedElementCoverage
+
+The range set shall be the level, or intensity, of the vulnerability assessment.
+
+The domain shall be a rectified grid or referenceable grid.
+
+12.2.6. Exposed Element (ExposedElement)
+
+Discrete spatial object representing an exposed element.
+
+This type is a sub-type of AbstractExposedElement.
+
+Attributes of the spatial object type ExposedElement
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometric representation of the exposed element. | GM_Object |  |
+| assessmentOfVulnerability | Assessment of the vulnerability of the exposed element. | VulnerabilityAssessment | voidable |
+
+12.2.7. Hazard Area (HazardArea)
+
+Discrete spatial objects representing a natural hazard.
+
+This type is a sub-type of AbstractHazardArea.
+
+Attributes of the spatial object type HazardArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometric representation of spatial extent covered by the hazard area. | GM_Surface |  |
+| likelihoodOfOccurrence | A general concept relating to the chance of an event occurring. | LikelihoodOfOccurrence | voidable |
+| magnitudeOrIntensity | An expression of the magnitude or the intensity of a phenomenon. | LevelOrIntensity | voidable |
+
+12.2.8. Hazard Coverage (HazardCoverage)
+
+A coverage representing continuous information about a type of natural hazard.
+
+This type is a sub-type of AbstractHazardArea.
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Constraints of the spatial object type HazardCoverage
+
+The range set shall be described by magnitude or intensity, or by the likelihood of occurence.
+
+The domain shall be a rectified grid or referenceable grid.
+
+12.2.9. Observed Event Coverage (ObservedEventCoverage)
+
+A coverage representing continuous information about observed events.
+
+This type is a sub-type of AbstractObservedEvent
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Constraints of the spatial object type ObservedEventCoverage
+
+The range set shall be described by magnitude or intensity, or by the likelihood of occurence.
+
+The domain shall be a rectified grid or referenceable grid.
+
+12.2.10. Observed Event (ObservedEvent)
+
+Discrete spatial objects representing natural phenomenon relevant to the study of natural hazards which occurred, or is currently occurring, and which has been observed.
+
+This type is a sub-type of AbstractObservedEvent.
+
+Attributes of the spatial object type ObservedEvent
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometric representation of the spatial extent covered by the observed event. | GM_Object |  |
+| magnitudeOrIntensity | An expression of the magnitude or the intensity of a phenomenon. | LevelOrIntensity | voidable |
+
+12.2.11. Risk coverage (RiskCoverage)
+
+A coverage representing continuous information about intensity or level of risk.
+
+This type is a sub-type of AbstractRiskZone.
+
+This type is a sub-type of CoverageByDomainAndRange.
+
+Constraints of the spatial object type RiskCoverage
+
+The range set shall be described by level or intensity.
+
+The domain shall be a rectified grid or referenceable grid.
+
+12.2.12. Risk Zone (RiskZone)
+
+Discrete spatial objects representing the spatial extent of a combination of the consequences of an event (hazard) and the associated probability/likelihood of its occurrence.
+
+This type is a sub-type of AbstractRiskZone.
+
+Attributes of the spatial object type RiskZone
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometric representation of spatial extent covered by this risk zone. | GM_Surface |  |
+| levelOfRisk | The level of risk is an assessment of the combination of the consequences of an event (hazard) and the associated probability/likelihood of the occurrence of the event. | LevelOrIntensity | voidable |
+
+**12.3. Data types**
+
+12.3.1. Exposed Element Classification (ExposedElementClassification)
+
+This class provides piece of information about the nature of the exposed element which is relevant to risk analysis.
+
+Attributes of the data type ExposedElementClassification
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| exposedElementCategory | A generic classification of the types of element that are exposed to a risk. | ExposedElementCategoryValue |  |
+| specificExposedElementType | An additional denomination of exposed element according to a nomenclature that is specific to the data set. | SpecificExposedElementTypeValue | voidable |
+
+12.3.2. Level Or Intensity (LevelOrIntensity)
+
+Quantitative or qualitative assessment of either risk, hazard or vulnerability.
+
+Attributes of the data type LevelOrIntensity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| qualitativeValue | A qualitative assessment of the level or intensity. | CharacterString | voidable |
+| quantitativeValue | A quantitative assessment of the level or intensity. | Measure | voidable |
+| assessmentMethod | A citation to the method used to express the level or intensity. | DocumentCitation | voidable |
+
+Constraints of the data type LevelOrIntensity
+
+Either the qualitative value or the quantitative value shall be provided.
+
+12.3.3. Likelihood Of Occurrence (LikelihoodOfOccurrence)
+
+Likelihood is a general concept relating to the chance of an event occurring.
+
+Attributes of the data type LikelihoodOfOccurrence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| qualitativeLikelihood | A qualitative assessment of the likelihood of occurrence of a hazard. | CharacterString | voidable |
+| quantitativeLikelihood | A frequency of occurence or return period of a hazard phenomenon. | QuantitativeLikelihood | voidable |
+| assessmentMethod | A citation to the method used to express the likelihood. | DocumentCitation | voidable |
+
+Constraints of the data type LikelihoodOfOccurrence
+
+Either the qualitative likelihood or the quantitative likelihood shall be provided.
+
+12.3.4. Natural Hazard Classification (NaturalHazardClassification)
+
+This class provides piece of information about the nature of the natural hazard as well as the type of hazard which is the source of risk.
+
+Attributes of the data type NaturalHazardClassification
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| hazardCategory | A generic classification of types of natural hazards. | NaturalHazardCategoryValue |  |
+| specificHazardType | Additional classification of the natural hazard that further specifies the hazard type according to a nomenclature that is specific to this data set. | SpecificHazardTypeValue | voidable |
+
+12.3.5. Quantitative Likelihood (QuantitativeLikelihood)
+
+A frequency of occurrence or return period of a hazard phenomenon.
+
+Attributes of the data type QuantitativeLikelihood
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| probabilityOfOccurrence | The probability of occurrence of a hazard event, expressed as a value between 0 and 1. | Probability | voidable |
+| returnPeriod | Long-term average interval of time or number of years within which an event will be equalled or exceeded. | Number | voidable |
+
+12.3.6. Vulnerability Assessment (VulnerabilityAssessment)
+
+Assessment of the vulnerability.
+
+Attributes of the data type VulnerabilityAssessment
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| sourceOfVulnerability | The type of hazard for which the vulnerability is assessed. | NaturalHazardClassification |  |
+| levelOfVulnerability | Level of vulnerability. | LevelOrIntensity | voidable |
+| magnitudeOrIntensityOfHazard | An expression of the magnitude or the intensity of a phenomenon. | LevelOrIntensity | voidable |
+| typeOfElement | A classification of the exposed element. | ExposedElementClassification | voidable |
+
+**12.5. Code Lists**
+
+12.5.1. Exposed Element Category (ExposedElementCategoryValue)
+
+A classification of the exposed element.
+
+12.5.2. Natural Hazard Category (NaturalHazardCategoryValue)
+
+A generic classification of types of natural hazards.
+
+12.5.3. Specific Exposed Element Type (SpecificExposedElementTypeValue)
+
+An additional denomination of exposed elements.
+
+12.5.4. Specific Hazard Type (SpecificHazardTypeValue)
+
+An additional classification of the natural hazard.
+
+12.5.5. Determination Method (DeterminationMethodValue)
+
+A code list to describe the method used to define the area of hazard or risk.
+
+**12.6. Theme-specific Requirements**
+
+(1) Where a RiskZone is associated with a HazardArea, the RiskZone and the HazardArea shall overlap.
+
+(2) Where a RiskZone is associated with an ExposedElement, the ExposedElement shall overlap with the RiskZone.
+
+**12.7. Layers**
+
+Layers for the spatial data theme Natural Risk Zones
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>NZ.RiskZone</td><td>Risk Zones</td><td>RiskZone</td></tr>
+<tr><td>NZ.RiskZoneCoverage</td><td>Risk Zones Coverage</td><td>RiskZoneCoverage</td></tr>
+<tr><td>NZ. &lt;CodeListValue&gt; (1)</td><td>&lt;human readable name&gt;</td><td>HazardArea, HazardAreaCoverage (typeOfHazard: NaturalHazardCategoryValue)</td></tr>
+<tr><td>Example: NZ.Landslide</td><td>Example: Landslides</td><td>  </td></tr>
+<tr><td>NZ. &lt;CodeListValue&gt; (2)</td><td>&lt;human readable name&gt;</td><td>ObservedEvent, ObservedEventCoverage (typeOfHazard: NaturalHazardCategoryValue)</td></tr>
+<tr><td>Example: NZ.Flood</td><td>Example: Floods</td><td>  </td></tr>
+<tr><td>NZ.ExposedElement</td><td>Exposed Elements</td><td>ExposedElement</td></tr>
+<tr><td>NZ.ExposedElementCoverage</td><td>Exposed Element Coverage</td><td>ExposedElementCoverage</td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3).  (2)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**13\. ATMOSPHERIC CONDITIONS AND METEOROLOGICAL GEOGRAPHICAL FEATURES**
+
+**13.1. Structure of the Spatial Data Themes Atmospheric Conditions and Meteorological Geographical Features**
+
+The types specified for the spatial data themes Atmospheric Conditions and Meteorological Geographical Features are structured in the following packages:
+
+— Atmospheric Conditions and Meteorological Geographical Features
+
+— Specialised Observations (specified in Section 7.4 of Annex I)
+
+— Processes (specified in Section 7.2 of Annex I)
+
+— Observable Properties (specified in Section 7.3 of Annex I)
+
+— Observation References (specified in Section 7.1 of Annex I)
+
+**13.2. Atmospheric Conditions and Meteorological Geographical Features**
+
+13.2.1. Code Lists
+
+13.2.1.1. EU Air Quality Reference Component (EU_AirQualityReferenceComponentValue)
+
+Definitions of phenomena regarding air quality in the context of reporting under Union legislation.
+
+13.2.1.2. WMO GRIB Code and Flags Table 4.2 (GRIB_CodeTable4_2Value)
+
+Definitions of phenomena observed in meteorology.
+
+**13.3. Theme-specific Requirements**
+
+(1) By way of derogation from the requirements of Section 2.2 of Annex II, gridded data related to the themes Atmospheric Conditions and Meteorological Geographical Features may be made available using any appropriate grid.
+
+(2) Data related to the themes Atmospheric Conditions or Meteorological Geographical Features shall be made available using the types defined in Specialised Observations package in Annex I, the OM_Observation spatial object type or sub-types thereof.
+
+(3) The observed property of an OM_Observation shall be identified by an identifier from the EU Air Quality Reference Component, the WMO GRIB Code & Flags Table 4.2, the Climate and Forecast Standard Names vocabularies or another appropriate vocabulary.
+
+**13.4. Layers**
+
+No layers are specified for the themes Atmospheric Conditions and Meteorological Geographical Features.
+
+**14\. OCEANOGRAPHIC GEOGRAPHICAL FEATURES**
+
+**14.1. Structure of the Spatial Data Theme Oceanographic Geographical Features**
+
+The types specified for the spatial data theme Oceanographic Geographical Features are structured in the following packages:
+
+— Oceanographic Geographical Features
+
+— Specialised Observations (specified in Section 7.4 of Annex I)
+
+— Processes (specified in Section 7.2 of Annex I)
+
+— Observable Properties (specified in Section 7.3 of Annex I)
+
+— Observation References (specified in Section 7.1 of Annex I)
+
+**14.2. Oceanographic Geographical Features**
+
+14.2.1. Code Lists
+
+14.2.1.1. BODC P01 Parameter Usage (BODC_P01ParameterUsageValue)
+
+Definitions of phenomena observed in oceanography.
+
+**14.3. Theme-specific Requirements**
+
+(1) By way of derogation from the requirements of Section 2.2. of Annex II, gridded data related to the theme Oceanographic Geographical Features may be made available using any appropriate grid.
+
+(2) Data related to the theme Oceanographic Geographical Features shall be made available using the following types defined in the Specialised Observations package in Annex I: PointObservation, PointTimeSeriesObservation, MultiPointObservation, GridObservation, GridSeriesObservation, PointObservationCollection.
+
+(3) The observed property of an OM_Observation shall be identified by an identifier from the BODC P01 Parameter Usage or Climate and Forecast Standard Names vocabularies.
+
+**14.4. Layers**
+
+Layers for the spatial data theme Oceanographic Geographical Features
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| OF.PointObservation | Oceanographic Point Observation | PointObservation |
+| OF.PointTimeSeriesObservation | Oceanographic Point Timeseries Observation | PointTimeSeriesObservation |
+| OF.MultiPointObservation | Oceanographic Multipoint Observation | MultiPointObservation |
+| OF.GridObservation | Oceanographic Grid Observation | GridObservation |
+| OF.GridSeriesObservation | Oceanographic Grid Series Observation | GridSeriesObservation |
+
+**15\. SEA REGIONS**
+
+**15.1. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Sea Regions:
+
+— Sea Area
+
+— Sea
+
+— Marine Circulation Zone
+
+— Intertidal Area
+
+— Shoreline
+
+— Shore Segment
+
+— Coastline
+
+— Marine Contour
+
+— Marine Layer
+
+— Sea Bed Area
+
+— Sea Surface Area
+
+15.1.1. Sea Area (SeaArea)
+
+An area of sea defined according to its physical and chemical characteristics. It may have multiple geometries (extent) to represent different tidal states.
+
+This type is a sub-type of HydroObject.
+
+Attributes of the spatial object type SeaArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| seaAreaType | Type of the sea area according to the classifications in the SeaAreaTypeClassificationValue code list, e.g. estuary. | SeaAreaTypeClassificationValue |  |
+| extent | The extent of the sea area at a particular tidal state. | MarineExtent |  |
+| parameterValue | A value of some parameter assigned to the sea area. E.g. Annual Mean Sea Surface Temperature = 12 degrees Celsius. | ParameterValuePair |  |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type SeaArea
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| subArea | Sea Areas can consist of sub areas, e.g. a Sea Area defining all European seas could be an aggregation of multiple Sea Areas (North Sea, Mediterranean Sea etc.). | SeaArea |  |
+
+15.1.2. Sea (Sea)
+
+Extent of sea at High Water (meanHighWater).
+
+This type is a sub-type of SeaArea.
+
+Constraints of the spatial object type Sea
+
+Sea is defined at Mean High Water. This constraint can be relaxed if there is not significant tidal variation in water level.
+
+Spatial object types of type Sea shall have only one value for the extent attribute.
+
+15.1.3. Marine Circulation Zone (MarineCirculationZone)
+
+A sea area defined by its physical and chemical circulation patterns. Typically used for management and reporting of the marine environment or marine environmental classification.
+
+This type is a sub-type of SeaArea.
+
+Attributes of the spatial object type MarineCirculationZone
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| zoneType | The type of the Marine Circulation Zone, e.g. sedimentCell. | ZoneTypeValue |  |
+
+Constraints of the spatial object type MarineCirculationZone
+
+Spatial object types of type MarineCirculationZone shall have only one value for the extent attribute.
+
+15.1.4. Intertidal Area (InterTidalArea)
+
+The part of the marine environment that is exposed (not covered in water) during a normal tidal cycle; defined as the difference between any high and any low water level.
+
+This type is a sub-type of Shore.
+
+Attributes of the spatial object type InterTidalArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lowWaterLevel | The low water level which was used to define the lower limit of the Intertidal Area, e.g. ‘meanLowWater’. | WaterLevelValue |  |
+| highWaterLevel | The high water level which was used to define the upper limit of the Intertidal Area, e.g. ‘meanHighWater’. | WaterLevelValue |  |
+
+15.1.5. Shoreline (Shoreline)
+
+Any Boundary between a Sea Area and land.
+
+This type is a sub-type of HydroObject.
+
+Attributes of the spatial object type Shoreline
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| segment | A section of shoreline. | ShoreSegment |  |
+| waterLevel | The water level used when defining this shoreline (e.g. meanHighWater). | WaterLevelValue | voidable |
+
+15.1.7. Coastline (Coastline)
+
+A special case of a shoreline defined as the shoreline at Mean High Water (MHW). Where there is not significant variation in water level, Mean Sea Level (MSL) can be used as a substitute for MHW.
+
+This type is a sub-type of Shoreline.
+
+Constraints of the spatial object type Coastline
+
+Coastline is a special case of shoreline at Mean High Water Level (MHW). Coastline is the boundary between land and sea to be used for viewing, discovery and general purpose applications where a land/marine boundary is required. Where there is no significant variation in water level, Mean Sea Level (MSL) can be used as a substitute for MHW.
+
+15.1.8. Marine Contour (MarineContour)
+
+A set of isolines representing the value of some phenomenon at a particular time.
+
+Attributes of the spatial object type MarineContour
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isoline | Isoline used to generate the contour. | MarineIsoline |  |
+| phenomenon | The property represented by the isolines (e.g. wave height). | AbstractObservableProperty |  |
+| validTime | The time at which this contour is representative. | TM_Instant |  |
+
+Association roles of the spatial object type MarineContour
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| sourceObservations | Used to link to a collection of underlying observations which were used to define a marine contour. | ObservationSet |  |
+
+15.1.9. Marine Layer (MarineLayer)
+
+A Marine Layer describes any layer that may cover any part of a sea surface or sea bottom.
+
+This type is abstract.
+
+Attributes of the spatial object type MarineLayer
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometry of the marine layer. | GM_Object |  |
+| validTime | Time period for which the marine layer is valid. | TM_Period |  |
+
+Association roles of the spatial object type MarineLayer
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| subLayer | A marine layer may have a sub-layer, for example an Oil Slick may have a main slick with several smaller sub-slicks. | MarineLayer |  |
+
+Constraints of the spatial object type MarineLayer
+
+A Marine Layer can be represented as either a surface or a point. The point type geometry reflects the reality that many Marine Layers are identified by point observations.
+
+15.1.10. Sea Bed Area (SeaBedArea)
+
+An area of the sea bed with some identified type of cover, e.g. an area of vegetation or sediment type.
+
+This type is a sub-type of MarineLayer.
+
+Attributes of the spatial object type SeaBedArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceType | Surface type of sea bed. | SeaBedCoverValue |  |
+
+15.1.11. Sea Surface Area (SeaSurfaceArea)
+
+An area of the sea surface with some type of cover, e.g. an area of sea ice.
+
+This type is a sub-type of MarineLayer.
+
+Attributes of the spatial object type SeaSurfaceArea
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| surfaceType | Surface type of sea area. | SeaSurfaceClassificationValue |  |
+
+**15.2. Data types**
+
+15.2.1. Marine Extent (MarineExtent)
+
+The extent of a sea area for a given tidal state.
+
+Attributes of the data type MarineExtent
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry of the Marine Extent. | GM_MultiSurface |  |
+| waterLevel | Water level at which the extent is valid. | WaterLevelValue |  |
+
+15.2.2. Marine Isoline (MarineIsoline)
+
+An isoline representing a particular value of some marine physical or chemical phenomenon such as temperature, salinity or wave height.
+
+Attributes of the data type MarineIsoline
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | Geometry of the isolines. | GM_MultiCurve |  |
+| value | Values attributed to the isolines. | Measure |  |
+
+15.2.3. Parameter Value Pair (ParameterValuePair)
+
+A parameter value pair contains a value of some observed property, e.g. Annual Mean Sea Surface Temperature.
+
+Attributes of the data type ParameterValuePair
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| parameter | A definition of the observed parameter (e.g. mean temperature). | AbstractObservableProperty |  |
+| value | The value of the observed parameter, e.g. 12 degrees Celsius. | Measure |  |
+| validTime | The time for which the attributed value is valid. This may be a time instant or a duration. | TM_Object | Voidable |
+
+15.2.4. Shore Segment (ShoreSegment)
+
+A Shore Segment is a section of shoreline.
+
+**Attributes of the data type ShoreSegment**
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| Geometry | The geometry of the ShoreSegment. | GM_Curve |  |
+| shoreClassification | The primary type of the shore segment, taken from the ShoreTypeClassificationValue code list. | ShoreTypeClassificationValue | voidable |
+| shoreStability | The primary stability type of the shore segment, taken from the ShoreStabilityValue code list. | ShoreStabilityValue | voidable |
+
+**15.3. Code Lists**
+
+15.3.1. Sea Area Type Classification (SeaAreaTypeClassificationValue)
+
+Classification type of the SeaArea, e.g. estuary, openOcean.
+
+15.3.2. Sea Bed Cover (SeaBedCoverValue)
+
+Types of cover found on sea beds.
+
+15.3.3. Sea Surface Classification (SeaSurfaceClassificationValue)
+
+Types of sea surface layers found on sea surfaces.
+
+15.3.4. Shore Stability (ShoreStabilityValue)
+
+Types of the stability of shore segments.
+
+15.3.5. Shore Type Classification (ShoreTypeClassificationValue)
+
+Types of shore segments.
+
+15.3.6. Zone Type (ZoneTypeValue)
+
+Types of marine circulation zones.
+
+**15.4. Theme-specific Requirements**
+
+(1) The Sea spatial object type shall be used to describe identified, named areas of sea (or ocean). Artificial reporting units are excluded from this requirement.
+
+(2) The MarineExtent of a Sea spatial object shall have a waterlevel value equal to ‘MeanHighWater’, unless there is no appreciable change in the Sea extent due to tides, in which case a value of ‘MeanSeaLevel’ may be used.
+
+(3) The low water level used to define an IntertidalArea shall be provided as a value of the lowWaterLevel attribute. The level shall be a low water level.
+
+(4) The code lists defined in the spatial data theme Oceanographic Geographical Features shall be used to identify phenomena represented by MarineContour spatial object types.
+
+(5) SeaAreas shall be represented as 2-dimensional geometries.
+
+**15.5. Layers**
+
+Layers for the spatial data theme Sea Regions
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| SR.SeaArea | Sea Area | SeaArea |
+| SR.Sea | Sea | Sea |
+| SR.MarineCirculationZone | Marine Circulation Zone | MarineCirculationZone |
+| SR.InterTidalArea | Intertidal Area | InterTidalArea |
+| SR.MarineContour | Marine Contour | MarineContour |
+| SR.Shoreline | Shoreline | Shoreline |
+| SR.Coastline | Coastline | CoastLine |
+| SR.SeaSurfaceArea | Sea surface area | SeaSurfaceArea |
+| SR.SeaBedArea | Sea bed area | SeaBedArea |
+
+**16\. BIO-GEOGRAPHICAL REGIONS**
+
+**16.1. Spatial object types**
+
+The following spatial object type is specified for the spatial data theme Bio-geographical Regions: Bio-geographical Region.
+
+16.1.1. Bio-geographical Region (Bio-geographicalRegion)
+
+An area in which there are relatively homogeneous ecological conditions with common characteristics.
+
+Attributes of the spatial object type Bio-geographicalRegion
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | The geometry defining the ecological region. | GM_MultiSurface |  |
+| regionClassification | Region class code, according to a classification scheme. | RegionClassificationValue |  |
+| regionClassificationScheme | Classification scheme used for classifying regions. | RegionClassificationSchemeValue |  |
+| regionClassificationLevel | The classification level of the region class. | RegionClassificationLevelValue | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+**16.2. Code Lists**
+
+16.2.1. Region Classification Level (RegionClassificationLevelValue)
+
+Codes defining the classification level of the region class.
+
+16.2.2. Region Classification Scheme (RegionClassificationSchemeValue)
+
+Codes defining the various bio-geographical regions.
+
+16.2.3. Region Classification (RegionClassificationValue)
+
+Codes used to define the various bio-geographical regions.
+
+This code list comprises the values of the following code lists or other code lists defined by data providers:
+
+— Environmental Stratification Classification (EnvironmentalStratificationClassificationValue): Codes for the climatic stratification of the environment in the Union, as specified in Metzger, M.J., Shkaruba, A.D., Jongman, R.H.G. & Bunce, R.G.H., Descriptions of the European Environmental Zones and Strata. Alterra, Wageningen, 2012.
+
+— Marine Strategy Framework Directive Classification (MarineStrategyFrameworkDirectiveClassificationValue): Codes for the Marine Stategy Framework Directive classification, as listed in Article 4 of Directive 2008/56/EC of the European Parliament and of the Council ( 14 ).
+
+— Natura 2000 And Emerald Bio-geographical Region Classification (Natura2000AndEmeraldBio-geographicalRegionClassificationValue): Codes for the classification of bio-geographical regions, as specified in the Code List for Bio-geographical Regions, Europe 2011, published on the web site of the European Environment Agency.
+
+— Natural Vegetation Classification (NaturalVegetationClassificationValue): Codes for the natural vegetation classification, as specified in the main formations in Bohn, U., Gollub, G., and Hettwer, C., Map of the natural vegetation of Europe: scale 1:2,500,000, Part 2: Legend, Bundesamt für Naturschutz (German Federal Agency for Nature conservation), Bonn, 2000.
+
+**16.3. Layers**
+
+Layer for the spatial data theme Bio-Geographical Regions
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| BR.Bio-geographicalRegion | Bio-geographical Regions | Bio-geographicalRegion |
+
+**17\. HABITATS AND BIOTOPES**
+
+**17.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘biotope’ means a region of relatively uniform environmental conditions, occupied by a given plant community and its associated animal community.
+
+(2) ‘habitat’ means the locality in which a plant or animal naturally grows or lives. It can be either the geographical area over which it extends, or the particular station in which a specimen is found. A habitat is characterized by a relative uniformity of the physical environment and fairly close interaction of all the biological species involved.
+
+(3) ‘habitat type (or biotope type)’ means an abstract type classified to describe habitats or biotopes that are common in some characteristics on a certain level of detail. Commonly used classification criteria may refer to vegetation structure (as woodland, pastures, heathland) or to abiotic features such as running waters, limestone rocks or sand dunes, but also to relevant phases or stages of the life-cycle of a certain species or ecological guild, like wintering areas, nesting areas or wandering corridors etc.
+
+(4) ‘distribution (of habitat types)’ means a collection of spatial objects where the habitat type occurs, giving information on the occurrence of one specific habitat type in time or space across analytical units. It is usually depicted or modelled based on other spatial objects used as analytical units, for instance across grid-cells (very frequently), bio-geographical regions, nature conservation sites or administrative units.
+
+(5) ‘habitat feature’ means a habitat in terms of its exact location, size (area or volume) and biological information (e.g. occurring habitat types, structural traits, lists of species, vegetation types).
+
+(6) ‘species’ means a taxonomic category ranking immediately below a genus and including closely-related and morphologically similar individuals which actually or potentially inbreed. In the context of the theme Habitats and Biotopes, ‘species’ means all animal species, plant species or fungi species relevant to describe a habitat.
+
+(7) ‘vegetation’ means the plants of an area considered in general or as communities, but not taxonomically. Vegetation can also be defined as the total plant cover in a particular area or on the Earth as a whole.
+
+(8) ‘vegetation type’ means plants (or total mass of plant life) of a given area considered in general or as plant communities, but not taxonomically.
+
+**17.2. Spatial object types**
+
+The following spatial object type is specified for the spatial data theme Habitats and Biotopes: Habitat.
+
+17.2.1. Habitat (Habitat)
+
+Geographical areas characterised by specific ecological conditions, processes, structure, and functions that physically support the organisms that live there.
+
+Attributes of the spatial object type Habitat
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The extent of the habitat based on natural boundaries. | GM_Object |  |
+| habitat | The identifier for a habitat class, defined and described in an international, national or local habitat classification scheme. | HabitatTypeCoverType |  |
+| habitatSpecies | List of species which occur in or constitute a certain habitat at the time of mapping. | HabitatSpeciesType | voidable |
+| habitatVegetation | List of vegetation types (according to a local vegetation classification scheme) which constitute a certain habitat. | HabitatVegetationType | voidable |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+
+**17.3. Data types**
+
+17.3.1. Habitat Species Type (HabitatSpeciesType)
+
+Species which occur in a certain habitat at the time of mapping.
+
+Attributes of the data type HabitatSpeciesType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| localSpeciesName | Scientific name plus author used in national nomenclature with its national taxonomic concept. | LocalNameType | voidable |
+| referenceSpeciesScheme | Reference list defining a nomenclatural and taxonomical standard to which all local species names and taxonomic concepts shall be mapped. | ReferenceSpeciesSchemeValue |  |
+| referenceSpeciesId | Identifier of one of the reference lists given by the referenceSpeciesScheme. | ReferenceSpeciesCodeValue |  |
+
+17.3.2. Habitat Type Cover Type (HabitatTypeCoverType)
+
+Habitat type according to an international, national or local habitat classifications scheme.
+
+Attributes of the data type HabitatTypeCoverType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| areaCovered | The area covered by a certain habitat type within the provided geometry of the habitat spatial object. | Area | voidable |
+| lengthCovered | The length covered by a certain habitat type within the provided geometry of a habitat spatial object. | Length | voidable |
+| volumeCovered | The volume of a certain habitat type within the provided geometry of a habitat spatial object. | Volume | voidable |
+| referenceHabitatTypeId | Habitat type unique identifier (code) according to one Pan-European classification scheme. | ReferenceHabitatTypeCodeValue |  |
+| referenceHabitatTypeScheme | One of the Pan-European classification schemes that are widely used in Europe. | ReferenceHabitatTypeSchemeValue |  |
+| localHabitatName | Habitat type according to a local habitat classification scheme. | LocalNameType | voidable |
+| referenceHabitatTypeName | Name of a habitat type according to one Pan-European classification scheme. | CharacterString | voidable |
+
+17.3.3. Habitat Vegetation Type (HabitatVegetationType)
+
+Vegetation type which occurs in a certain habitat.
+
+Attributes of the data type HabitatVegetationType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| localVegetationName | Vegetation class (vegetation type) according to a local classification scheme. Natural language name according to a local vegetation classification scheme. | LocalNameType |  |
+
+17.3.4. Local Name Type (LocalNameType)
+
+Name according to a local classification scheme.
+
+Attributes of the data type LocalNameType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| localScheme | Uniform resource identifier of a local classification scheme. | CharacterString |  |
+| localNameCode | Natural language name according to a local classification scheme. | LocalNameCodeValue |  |
+| qualifierLocalName | The relation between the local name and the corresponding name in the Pan-European schema. | QualifierLocalNameValue | voidable |
+| localName | Name according to a local classification scheme. | CharacterString | voidable |
+
+**17.4. Code Lists**
+
+17.4.1. Qualifier Local Name (QualifierLocalNameValue)
+
+List of values that specify the relation between a locally used name and a name used at the pan-European level.
+
+17.4.2. Reference Habitat Type Code (ReferenceHabitatTypeCodeValue)
+
+Values used in the Pan-European habitat classification schemes.
+
+This code list comprises the values of the following code lists:
+
+— EUNIS Habitat Type Code (EunisHabitatTypeCodeValue): Classification of habitat types according to the EUNIS Biodiversity database, as specified in the EUNIS habitat types classification published on the web site of the European Environment Agency.
+
+— Habitats Directive Code (HabitatsDirectiveCodeValue): Classification of habitat types according to Annex I to Directive 92/43/EEC.
+
+— Marine Strategy Framework Directive Code (MarineStrategyFrameworkDirectiveCodeValue): Classification of habitat types according to table 1 of Annex III to Directive 2008/56/EC.
+
+17.4.3. Reference Habitat Type Scheme (ReferenceHabitatTypeSchemeValue)
+
+This value defines which pan-European habitat classification scheme has been used.
+
+17.4.4. Local Name Code (LocalNameCodeValue)
+
+Identifier taken from any local classification scheme.
+
+**17.5. Theme-specific Requirements**
+
+(1) It is mandatory to make available at least one habitat type according to a (pan-european) referenceHabitatTypeScheme listed in the ReferenceHabitatTypeSchemeValue code list. This encoding is intended to allow for queries on habitat types on a pan-European harmonized level.
+
+**17.6. Layers**
+
+Layer for the spatial data theme Habitats and Biotopes
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| HB.Habitat | Habitat | Habitat |
+
+**18\. SPECIES DISTRIBUTION**
+
+**18.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘aggregation’ means the grouping of multiple objects into a class or cluster.
+
+(2) ‘amalgamation’ means the combination of multiple objects in a single structure.
+
+**18.2. Spatial object types**
+
+The following spatial object types are specified for the spatial data theme Species Distribution:
+
+— Species Distribution Data Set
+
+— Species Distribution Unit
+
+18.2.1. Species Distribution Data Set (SpeciesDistributionDataSet)
+
+This data set is a collection of individual spatial objects (units) in a distribution of species.
+
+Attributes of the spatial object type SpeciesDistributionDataSet
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| domainExtent | The geographic extent of the domain of the feature collection. | GM_MultiSurface | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| name | Name of a specific data set provided for Species Distribution. | CharacterString | voidable |
+
+Association roles of the spatial object type SpeciesDistributionDataSet
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| member | Individual spatial object in a collectionof spatial objects. | SpeciesDistributionUnit |  |
+| documentBasis | Reference to or citation of a document describing a campaign or a legal act which is the basis for the data set. | DocumentCitation | voidable |
+
+18.2.2. Species Distribution Unit (SpeciesDistributionUnit)
+
+Occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.
+
+Attributes of the spatial object type SpeciesDistributionUnit
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| geometry | The geometry of each unit in a collection. | GM_Object |  |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| distributionInfo | The description of the subject of distribution (occurrences or population), the indication of the count of observations or population size of the particular species, species group or taxon rank and its distribution or isolation within the species distribution unit. | DistributionInfoType | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+| speciesName | Identifier and scientific name, including the author, taken from an international reference list, optionally completed by a locally used name and its taxonomic concept relationship to the reference name. | SpeciesNameType |  |
+
+Association roles of the spatial object type SpeciesDistributionUnit
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| spatialObject | A reference to another spatial object defining the spatial extent of a distribution unit. | AbstractFeature | voidable |
+
+Constraints of the spatial object type SpeciesDistributionUnit
+
+If geometry has no value, a reference to a spatial object needs to be provided.
+
+**18.3. Data types**
+
+18.3.1. Distribution Info Type (DistributionInfoType)
+
+The description of the status of the subject of distribution within the species distribution unit, including the indication of the abundance by counting, estimation or calculation of the number of occurrences or population size of the particular species.
+
+Attributes of the data type DistributionInfoType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| occurrenceCategory | The species population density in the species distribution unit. | OccurrenceCategoryValue |  |
+| residencyStatus | Information on the status of residency of a species regarding nativeness versus introduction and permanency. | ResidencyStatusValue | voidable |
+| populationSize | A range value indicating the counted, estimated or calculated occurrences or population sizes, using an upper and a lower limit. | PopulationSizeType |  |
+| sensitiveInfo | Boolean value that indicates whether the location of a specific species is sensitive. | Boolean | voidable |
+| populationType | The permanency of populations, particularly with regard to migratory species within a given species distribution unit. | PopulationTypeValue | voidable |
+| collectedFrom | The date when the collecting of the original species occurrence data started. | Date | voidable |
+| collectedTo | The date when the collecting of the original species occurrence data stopped. | Date | voidable |
+
+18.3.2. Population Size Type (PopulationSizeType)
+
+A range value indicating the counted, estimated or calculated occurrences or population sizes, which is defined by an upper and a lower limit.
+
+Attributes of the data type PopulationSizeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| countingMethod | Method of providing a number for the indication of the abundance of a species within a specific species distribution unit. | CountingMethodValue |  |
+| countingUnit | What has been counted, estimated or calculated when compiling information on the abundance of a species within the species distribution unit. | CountingUnitValue |  |
+| populationSize | A range value indicating the counted, estimated or calculated occurrences or population sizes using upper and lower bounds. | RangeType (as defined in Section 18.3.3) |  |
+
+18.3.3. Range Type (RangeType)
+
+Value indicating the upper and lower limits of the counting, estimation or calculation of occurrences.
+
+Attributes of the data type RangeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| upperBound | The upper limit of the range. If the value of this attribute is null and lowerBound is populated, this implies that the value is between the lowerBound and infinity. | Integer |  |
+| lowerBound | The lower limit of the range. If the value of this attribute is null and upperBound is populated, this implies that the value is between the upperBound and zero. | Integer |  |
+
+18.3.4. Species Name Type (SpeciesNameType)
+
+Identifier and scientific name, including the author, taken from an international reference list, optionally completed by a locally used name and its taxonomic concept relationship to the reference name.
+
+Attributes of the data type SpeciesNameType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| referenceSpeciesId | Identifier of one of the reference lists given by the referenceSpeciesScheme. | ReferenceSpeciesCodeValue |  |
+| referenceSpeciesScheme | Reference list defining a nomenclatural and taxonomical standard to which all local names and taxonomic concepts shall be mapped. | ReferenceSpeciesSchemeValue |  |
+| referenceSpeciesName | The scientific name used in the authorized ReferenceSpeciesScheme. | CharacterString | voidable |
+| localSpeciesId | Identifier used in national nomenclature. | LocalSpeciesNameCodeValue | voidable |
+| localSpeciesScheme | Name of local species classification scheme (bibliographic reference). | CharacterString | voidable |
+| localSpeciesName | Scientific name used in national nomenclature with its national taxonomic concept. | CharacterString | voidable |
+| qualifier | Specifies the taxonomic concept relationship between local species identifier and the reference species identifier. | QualifierValue | voidable |
+
+**18.4. Code Lists**
+
+18.4.1. Counting Method (CountingMethodValue)
+
+Method for producing numbers indicating the abundance of a species within an aggregation unit.
+
+18.4.2. Counting Unit (CountingUnitValue)
+
+The defined unit used to express a counted or estimated number indicating the abundance of a species in a SpeciesDistributionUnit.
+
+18.4.3. Local Species Name Code (LocalSpeciesNameCodeValue)
+
+Species identifier taken from any local classification scheme.
+
+18.4.4. Occurrence Category (OccurrenceCategoryValue)
+
+The species population density in the SpeciesDistributionUnit.
+
+18.4.5. Population Type (PopulationTypeValue)
+
+The permanency of populations, particularly with regard to migratory species within a given species distribution unit.
+
+18.4.6. Qualifier (QualifierValue)
+
+This value defines the relation between the taxonomic concepts of a local species name and the reference species name given by reference species identifier or by a reference species scheme.
+
+18.4.7. Reference Species Code (ReferenceSpeciesCodeValue)
+
+Reference lists containing species identifiers.
+
+This code list comprises the values of the following code lists:
+
+— EU-Nomen Code (EuNomenCodeValue): Reference lists containing the EU-Nomen species identifiers, as specified in the Pan-European Species directories Infrastructure available through the EU-Nomen portal.
+
+— EUNIS Species Code (EunisSpeciesCodeValue): Reference lists containing the EUNIS species identifiers, as specified in EUNIS Biodiversity database published on the web site of the European Environment Agency.
+
+— Nature Directives Code (NatureDirectivesCodeValue): Reference lists containing nature directives species identifiers, as specified in the Reference Portal for Natura 2000 as defined in Commission Implementing Decision 2011/484/EU ( 15 ).
+
+18.4.8. Reference Species Scheme (ReferenceSpeciesSchemeValue)
+
+Reference lists defining a nomenclatural and taxonomical standard to which local names and taxonomic concepts can be mapped.
+
+18.4.9. Residency Status (ResidencyStatusValue)
+
+Category of the residency of the occurrences or estimated population within a given aggregation unit.
+
+**18.5. Theme-specific Requirements**
+
+(1) Where grid representations of species distributions are needed, the Grid_ETRS89-LAEA as defined in Section 2.2.1 of Annex II shall be used.
+
+(2) For SpeciesDistributionUnit spatial objects,
+
+(a) if a species has not been actively searched for, the distributionInfo attribute shall be void with reason ‘unknown’,
+
+(b) and if a species has been actively searched for, but has not been found, the value of the attribute occurenceCategory of DistributionInfoType shall be ‘absent’.
+
+(3) If the geometries of the spatial objects in aSpeciesDistributionUnit data set are derived from the geometries of spatial objects in another data set, then this source data set (including its version) shall be described as part of the lineage metadata element.
+
+**18.6. Layer**
+
+Layer for the spatial data theme Species Distribution
+
+<table>
+<tbody><tr><td>Layer Name</td><td>Layer Title</td><td>Spatial object type</td></tr>
+<tr><td>SD.&lt;CodeListValue&gt; (1)</td><td>Species Distribution (of &lt;human readable name&gt;)</td><td>SpeciesDistributionUnit (speciesName / referenceSpeciesId: ReferenceSpeciesCodeValue)</td></tr>
+<tr><td>Example: SD.SulaBassana</td><td>Example: Species Distribution (of Sula bassana)</td><td>  </td></tr>
+<tr><td colspan="3">(1)  One layer shall be made available for each code list value, in accordance with Art. 14(3). </td></tr>
+</tbody>
+</table>
+
+**19\. ENERGY RESOURCES**
+
+**19.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(4) ‘energy resource’ means a concentration or occurrence of an energy source which may have been present, is present or may be present in the future.
+
+(5) ‘fossil fuels’ means a form of non-renewable primary energy formed by natural processes such as the anaerobic decomposition of buried dead organisms, which contains high percentages of carbon and includes coal, crude oil, and natural gas.
+
+(6) ‘primary energy’ means energy that has not been subjected to any conversion or transformation process.
+
+(7) ‘non-renewable energy’ means natural resources which, due to long-term formation, cannot be produced, grown, generated, or used on a scale which can sustain its consumption rate.
+
+(8) ‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases, in accordance with Article 2 of Directive 2009/28/EC of the European Parliament and of the Council ( 16 ).
+
+(9) ‘waste as energy resources’ means a fuel that may consist of many different materials coming from combustible industrial, institutional, hospital and household waste such as rubber, plastics, waste fossil oils and other similar commodities. It is either solid or liquid in form, renewable or non-renewable, biodegradable or non-biodegradable.
+
+**19.2. Structure of the Spatial Data Theme Energy Resources**
+
+The types specified for the spatial data theme Energy Resources are structured in the following packages:
+
+— Energy Resources Base
+
+— Energy Resources Vector
+
+— Energy Resources Coverage
+
+**19.3. Energy Resources Base**
+
+19.3.1. Data types
+
+19.3.1.1. Vertical Extent Range Type (VerticalExtentRangeType)
+
+Value indicating the upper and lower bounds of the height/depth range.
+
+Attributes of the data type VerticalExtentRangeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lowerBound | Value indicating the lower bound of the height/depth range. | Length | voidable |
+| upperBound | Value indicating the upper bound of the height/depth range. | Length |  |
+
+Constraints of the data type VerticalExtentRangeType
+
+Value of lowerBound shall be expressed in meters.
+
+Value of upperBound shall be expressed in meters.
+
+19.3.1.2. Vertical Extent Type (VerticalExtentType)
+
+Vertical dimensional property consisting of an absolute measure or range of measures referenced to a well-defined vertical reference level which is commonly taken as origin (ground level, mean sea level, etc.).
+
+Attributes of the data type VerticalExtentType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| verticalExtent | Extent of the vertical dimension, represented by a scalar or by a range of values. | VerticalExtentValue |  |
+| verticalReference | Reference level that was chosen to determine the vertical height/depth. | VerticalReferenceValue |  |
+
+19.3.1.3. Vertical Extent Value (VerticalExtentValue)
+
+Either a single number or a range of height/depth values to describe the height/depth position of an Energy Resource.
+
+This type is a union type.
+
+Attributes of the union type VerticalExtentValue
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| range | Range of numbers representing the height or depth range of an Energy Resource. | VerticalExtentRangeType |  |
+| scalar | Number representing the height or depth of an Energy Resource. | Length |  |
+
+Constraints of the union type VerticalExtentValue
+
+Value of scalar shall be expressed in meters.
+
+19.3.2. Code Lists
+
+19.3.2.1. Classification and Quantification Framework (ClassificationAndQuantificationFrameworkValue)
+
+Values for the most widely used classification schemes to classify and quantify energy resources.
+
+19.3.2.2. Fossil Fuel Class (FossilFuelClassValue)
+
+Values indicating the various levels of fossil fuel resources.
+
+19.3.2.3. Renewable and Waste (RenewableAndWasteValue)
+
+Types of renewable and waste resources.
+
+19.3.2.4. Fossil Fuel (FossilFuelValue)
+
+Types of fossil fuels.
+
+19.3.2.5. Vertical Reference (VerticalReferenceValue)
+
+Values indicating the reference level of the vertical extent.
+
+**19.4. Energy Resources Vector**
+
+19.4.1. Spatial object types
+
+The package Energy Resources Vector contains the following spatial object types:
+
+— Vector Energy Resource
+
+— Fossil Fuel Resource
+
+— Renewable And Waste Resource
+
+19.4.1.1. Vector Energy Resource (VectorEnergyResource)
+
+A vector spatial object defining an inferred or observable spatial extent of a resource that can be or has been used as a source of energy.
+
+This type is abstract.
+
+Attributes of the spatial object type VectorEnergyResource
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| geometry | Geometric representation of spatial extent covered by this energy resource. | GM_Object |  |
+| classificationAndQuantificationFramework | A reference classification scheme to classify and quantify energy resources. | ClassificationAndQuantificationFrameworkValue |  |
+| verticalExtent | Vertical dimensional property consisting of an absolute measure or range of measures referenced to a well-defined vertical reference level which is commonly taken as origin (ground level, mean sea level, etc.). | VerticalExtentType | voidable |
+| exploitationPeriod | The exploitationPeriod defines the start and, if applicable, the end date of the application. | ExploitationPeriodType | voidable |
+| reportingAuthority | Organisation responsible for reporting on the estimated and produced energy resources. | RelatedParty | voidable |
+| resourceName | The name of the energy resource. | GeographicalName | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+19.4.1.2. Fossil Fuel Resource (FossilFuelResource)
+
+A spatial object defining an inferred or observable spatial extent of a resource that can be or has been used as a source of fossil fuel energy. The most common fossil fuel types are coal, natural gas and crude oil.
+
+This type is a sub-type of VectorEnergyResource.
+
+Attributes of the spatial object type FossilFuelResource
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| resource | Type and amount of fossil fuel resources in a single spatial object. | FossilFuelResourceType |  |
+| dateOfDiscovery | The date the energy source was discovered. | TM_Position | voidable |
+
+19.4.1.3. Renewable And Waste Resource (RenewableAndWasteResource)
+
+A spatial object defining an inferred or observable spatial extent of a resource that can be or has been used as a source of renewable energy or waste.
+
+This type is a sub-type of VectorEnergyResource.
+
+Attributes of the spatial object type RenewableAndWasteResource
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| capacity | Energy capacity of a renewable energy resource within the spatial extent. | Measure | voidable |
+| dateOfDetermination | Date on which the capacity of the resource has been determined. | TM_Position | voidable |
+| typeOfResource | The type of renewable energy or waste resource. | RenewableAndWasteValue |  |
+
+19.4.2. Data types
+
+19.4.2.1. Calorific Range Type (CalorificRangeType)
+
+Value indicating the upper and lower bounds of the calorific range of the energy resource.
+
+Attributes of the data type CalorificRangeType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| lowerBound | Value indicating the lower bound of the calorific range. | Measure |  |
+| upperBound | Value indicating the upper bound of the calorific range. | Measure |  |
+
+19.4.2.2. Calorific Value Type (CalorificValueType)
+
+Value or range of values describing the calorific value of an Energy Resource.
+
+This type is a union type.
+
+Attributes of the union type CalorificValueType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| calorificRange | A range of calorific values describing the calorific value of an Energy Resource. | CalorificRangeType |  |
+| calorificScalar | Measure quantifying the calorific property of an Energy Resource. | Measure |  |
+
+19.4.2.3. Exploitation Period Type (ExploitationPeriodType)
+
+The exploitationPeriod defines the start and, if applicable, the end date of the exploitation or application.
+
+Attributes of the data type ExploitationPeriodType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| beginTime | The time when the exploitation started. | TM_Position |  |
+| endTime | The time when the exploitation ended. | TM_Position |  |
+
+19.4.2.4. Fossil Fuel Measure (FossilFuelMeasure)
+
+Amount of resources according to the specific categorisation.
+
+Attributes of the data type FossilFuelMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| amount | Amount of resource present in the spatial object. | Measure |  |
+| dateOfDetermination | Date on whichthe resource was quantified. | TM_Position |  |
+| resourceClass | Category indicating the different confidence of fossil fuel resource, like initially in place, proven reserves, contingent. | FossilFuelClassValue |  |
+
+19.4.2.5. Fossil Fuel Resource Type (FossilFuelResourceType)
+
+Type and amount of resource according to specific categorisation.
+
+Attributes of the data type FossilFuelResourceType
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| calorificValue | Each fossil fuel resource is characterised by its own calorific value, i.e. the quantity of energy available in a unit of mass. | CalorificValueType | voidable |
+| quantity | Amount of resource according to the specific categorisation. | FossilFuelMeasure | voidable |
+| typeOfResource | Type of fossil fuel. | FossilFuelValue |  |
+
+**19.5. Energy Resources Coverage**
+
+19.5.1. Spatial object types
+
+The package Energy Resources Coverage contains the spatial object type Renewable And Waste Potential Coverage.
+
+19.5.1.1. Renewable And Waste Potential Coverage (RenewableAndWastePotentialCoverage)
+
+Function that returns an energy potential value from its range for any direct position within its spatial, temporal or spatio-temporal domain.
+
+This type is a sub-type of RectifiedGridCoverage.
+
+Attributes of the spatial object type RenewableAndWastePotentialCoverage
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+| potentialType | There are various types of potential energy, each associated with a particular type of power. | PotentialTypeValue |  |
+| typeOfResource | Type of renewable and waste resource to which the measured phenomenon is applicable. | RenewableAndWasteValue |  |
+| domainExtent | The attribute domainExtent shall contain the extent of the spatiotemporal domain of the coverage. Extents may be specified in both space and time. | EX_Extent |  |
+| assessmentMethod | A reference to the method used to assess the energy resource potential. | DocumentCitation | voidable |
+| name | Name of the coverage. | CharacterString | voidable |
+| validTime | The time period for which this coverage is representative. | TM_Period | voidable |
+| verticalExtent | A number or a range of height/depth values to describe the height/depth for which the range set values are valid. | VerticalExtentType | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Constraints of the spatial object type RenewableAndWastePotentialCoverage
+
+The rangeSet values shall be of type Measure.
+
+19.5.2. Code Lists
+
+19.5.2.1. Potential Type (PotentialTypeValue)
+
+Types of potential energy from renewable and waste resources.
+
+**19.6. Theme-specific Requirements**
+
+Where the geometry of the spatial object is derived from another spatial object, the geometries of the two objects shall be consistent.
+
+**19.7. Layers**
+
+Layers for the spatial data theme Energy Resources
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| ER. FossilFuelResource | Fossil Fuel Resources | FossilFuelResource |
+| ER.RenewableAndWasteResource | Renewable And Waste Resources | RenewableAndWasteResource |
+| ER.RenewableAndWastePotentialCoverage | Renewable And Waste Potential Coverage | RenewableAndWastePotentialCoverage |
+
+**20\. MINERAL RESOURCES**
+
+**20.1. Definitions**
+
+In addition to the definitions set out in Article 2, the following definitions shall apply:
+
+(1) ‘commodity’ means a material of economic interest in an earth resource.
+
+(2) ‘mine’ means an excavation for the extraction of mineral deposits, including underground workings and open-pit workings (also called open-sky mines) for the extraction of metallic commodities, as well as open workings for the extraction of industrial minerals, (which are commonly referred to as quarries).
+
+(3) ‘mining activity’ means the process of extracting metallic or non-metallic mineral deposits from the Earth.
+
+**20.2. Structure of the Spatial Data Theme Mineral Resources**
+
+The types specified for the spatial data theme Mineral Resources are structured in the following packages:
+
+— Mineral Resources
+
+— Geology (for the spatial object type MappedFeature, specified in Section 4.2.1.10 of Annex III)
+
+**20.3. Mineral Resources**
+
+The package Mineral Resources contains the following spatial object types:
+
+— Earth Resource
+
+— Mineral Occurrence
+
+— Commodity
+
+— Exploration Activity
+
+— Mining Feature
+
+— Mining Feature Occurrence
+
+— Mine
+
+— Mining Activity
+
+20.3.1. Spatial object types
+
+20.3.1.1. Earth Resource (EarthResource)
+
+The kinds of observable or inferred phenomena required to classify economic and non economic earth resources.
+
+This type is a sub-type of GeologicFeature.
+
+This type is abstract.
+
+Attributes of the spatial object type EarthResource
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| dimension | The size/volume of the earth resource. | EarthResourceDimension | voidable |
+| expression | An indicator of whether an EarthResource appears on the surface or has been detected under cover rocks. | Category | voidable |
+| form | The orebody’s typical physical and structural relationship to wallrocks and associated rocks. | Category | voidable |
+| linearOrientation | The linear orientation of the Earth Resource. | CGI_LinearOrientation | voidable |
+| planarOrientation | The planar orientation of the Earth Resource. | CGI_PlanarOrientation | voidable |
+| shape | The typical geometrical shape of the Earth Resource. | Category | voidable |
+| sourceReference | The source reference for the Earth Resource. | DocumentCitation | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanversion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type EarthResource
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| oreAmount | The estimated or calculated amount of ore with the identification of the commodities contained and their grade. | OreMeasure | voidable |
+| explorationHistory | Chronological list of surveys undertaken to better define the potential of a mineral occurrence. | ExplorationActivity | voidable |
+| classification | Classification of the EarthResource. | MineralDepositModel | voidable |
+| resourceExtraction | One or more periods of mining activity of the earth resource. | MiningActivity | voidable |
+| commodityDescription | The commodities present in the resource ranked by importance order | Commodity |  |
+
+20.3.1.2. Mineral Occurrence (MineralOccurrence)
+
+A mineral accumulation in the lithosphere.
+
+This type is a sub-type of EarthResource.
+
+Attributes of the spatial object type MineralOccurrence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| type | The type of mineral occurrence. | MineralOccurrenceTypeValue |  |
+| endusePotential | The end-use potential of the mineral. | EndusePotentialValue | voidable |
+
+20.3.1.3. Commodity (Commodity)
+
+The material of economic interest in the EarthResource.
+
+Attributes of the spatial object type Commodity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| commodityImportance | The importance of the deposit for the commodity. | ImportanceValue | voidable |
+| commodity | The earth resource commodity. | CommodityCodeValue |  |
+| commodityRank | The rank of the commodity. | Integer | voidable |
+
+Association roles of the spatial object type Commodity
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| source | The deposit/resource from which the commodity comes. | EarthResource |  |
+
+20.3.1.4. Exploration Activity (ExplorationActivity)
+
+A period of exploration activity.
+
+Attributes of the spatial object type ExplorationActivity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activityDuration | Period, or extent in time, of the exploration activity. | TM_Period |  |
+| activityType | The type of exploration activity. | ExplorationActivityTypeValue |  |
+| explorationResult | The result of the exploration activity. | ExplorationResultValue |  |
+
+20.3.1.5. Mining Feature (MiningFeature)
+
+Spatial object type grouping the common properties of mines and mining activities.
+
+This type is abstract.
+
+Attributes of the spatial object type MiningFeature
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| inspireId | External object identifier of the spatial object. | Identifier |  |
+
+20.3.1.6. Mining Feature Occurrence (MiningFeatureOccurrence)
+
+A spatial representation of a MiningFeature.
+
+Attributes of the spatial object type MiningFeatureOccurrence
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| shape | The geometry of the MiningFeature. | GM_Object |  |
+
+Association roles of the spatial object type MiningFeatureOccurrence
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| specification | Indicates the MiningFeature that the MiningFeatureOccurrence specifies. | MiningFeature |  |
+
+20.3.1.7. Mine (Mine)
+
+An excavation carried out for the extraction of mineral deposits.
+
+This type is a sub-type of MiningFeature.
+
+Attributes of the spatial object type Mine
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| mineName | Data type indicating the Mine Name and whether it is the preferred name. | MineName |  |
+| status | Operational status value of the mine. | MineStatusValue |  |
+| sourceReference | The source reference for the mine. | DocumentCitation | voidable |
+| startDate | Date on which the mine commenced operation. | TM_Instant | voidable |
+| endDate | Date on which the mine ceased operation. | TM_Instant | voidable |
+| beginLifespanVersion | Date and time at which this version of the spatial object was inserted or changed in the spatial data set. | DateTime | voidable |
+| endLifespanVersion | Date and time at which this version of the spatial object was superseded or retired in the spatial data set. | DateTime | voidable |
+
+Association roles of the spatial object type Mine
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| relatedMine | A related mine. | Mine | voidable |
+| relatedActivity | The MiningActivity associated with the Mine. | MiningActivity |  |
+
+20.3.1.8. Mining Activity (MiningActivity)
+
+The process of extracting metallic, non-metallic mineral or industrial rock deposits from the Earth.
+
+This type is a sub-type of MiningFeature.
+
+Attributes of the spatial object type MiningActivity
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| activityDuration | Period, or extent in time, of the mining activity. | TM_Period |  |
+| activityType | The type of mining activity. | MiningActivityTypeValue |  |
+| oreProcessed | The amount of ore processed by the activity. | Quantity | voidable |
+| processingType | The type of processing carried out during the mining activity. | ProcessingActivityTypeValue |  |
+
+Association roles of the spatial object type MiningActivity
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| associatedMine | The mine where the mining activity takes or took place. | Mine | voidable |
+| deposit | The deposit to which the mining activity is associated. | EarthResource | voidable |
+
+20.3.2. Data types
+
+20.3.2.1. Commodity Measure (CommodityMeasure)
+
+A measure of the amount of the commodity based on a Reserve, Resource or Endowment calculation.
+
+Attributes of the data type CommodityMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| commodityAmount | The amount of the commodity. | QuantityRange | voidable |
+| cutOffGrade | The cut-off grade used for calculating the commodity measure. | QuantityRange | voidable |
+| grade | The grade of the commodity. | QuantityRange | voidable |
+
+Association roles of the data type CommodityMeasure
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| commodityOfInterest | The commodity to which the CommodityMeasure refers. | Commodity |  |
+
+20.3.2.2. Earth Resource Dimension (EarthResourceDimension)
+
+The size and volume of the earth resource.
+
+Attributes of the data type EarthResourceDimension
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| area | The area of the Earth Resource. | QuantityRange | voidable |
+| depth | The depth of the Earth Resource. | QuantityRange | voidable |
+| length | The length of the Earth Resource. | QuantityRange | voidable |
+| width | The width of the Earth Resource. | QuantityRange | voidable |
+
+20.3.2.3. Endowment (Endowment)
+
+The quantity of a mineral (or a group of minerals for industrial rocks) in accumulations (deposits) meeting specified physical characteristics such as quality, size and depth.
+
+This type is a sub-type of OreMeasure.
+
+Attributes of the data type Endowment
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| includesReserves | A flag indicating if the estimate includes the reserves value. | Boolean | voidable |
+| includesResources | A flag indicating if the estimate includes the resources value. | Boolean | voidable |
+
+20.3.2.4. Mine Name (MineName)
+
+A data type indicating the Mine Name and whether it is the preferred name.
+
+Attributes of the data type MineName
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| isPreferred | A boolean operator indicating if the value in mineName is the preferred name of the mine. | Boolean |  |
+| mineName | The name of the mine. | CharacterString |  |
+
+20.3.2.5. Mineral Deposit Model (MineralDepositModel)
+
+Systematically arranged information describing the essential attributes of a class of mineral deposits. It may be empirical (descriptive) or theoretical (genetic).
+
+Attributes of MineralDepositModel
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| mineralDepositGroup | A grouping of mineral deposits defined by generic characteristics. | MineralDepositGroupValue |  |
+| mineralDepositType | Style of mineral occurrence or deposit. | MineralDepositTypeValue | voidable |
+
+20.3.2.6. Ore Measure (OreMeasure)
+
+The estimate of the Reserve, Resource or Endowment ore amount.
+
+This type is abstract.
+
+Attributes of the data type OreMeasure
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| classificationMethodUsed | Means of calculating the measurement. | ClassificationMethodUsedValue |  |
+| date | Date of calculated or estimated value. | TM_GeometricPrimitive |  |
+| dimension | Size of the body used in the calculation. | EarthResourceDimension | voidable |
+| ore | Amount of ore. | QuantityRange |  |
+| proposedExtractionMethod | The method proposed to extract the commodity. | Category | voidable |
+| sourceReference | The reference for the OreMeasure values. | DocumentCitation |  |
+
+Association roles of the data type OreMeasure
+
+| Association role | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| measureDetails | A measure of the amount of each commodity, based on a reserve, resource or endowment calculation. | CommodityMeasure |  |
+
+20.3.2.7. Reserve (Reserve)
+
+The economically mineable part of a Measured and/or Indicated Mineral Resource.
+
+This type is a sub-type of OreMeasure.
+
+Attributes of the data type Reserve
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| category | The level of confidence of the estimate. | ReserveCategoryValue |  |
+
+20.3.2.8. Resource (Resource)
+
+An accumulation of material of intrinsic economic interest in or on the Earth’s crust in such form, quality and quantity that there are reasonable prospects for economic extraction.
+
+This type is a sub-type of OreMeasure.
+
+Attributes of the data type Resource
+
+| Attribute | Definition | Type | Voidability |
+| --- | --- | --- | --- |
+| category | Indication of whether the resource is measured, indicated or inferred. | ResourceCategoryValue |  |
+| includesReserves | A flag indicating whether the estimate of resources includes reserve values. | Boolean | voidable |
+
+20.3.3. Code Lists
+
+20.3.3.1. Classification Method Used (ClassificationMethodUsedValue)
+
+Codes indicating the means used to calculate the ore measurement.
+
+20.3.3.2. Commodity Code (CommodityCodeValue)
+
+Values indicating the type of commodity.
+
+20.3.3.3. Enduse Potential (EndusePotentialValue)
+
+Values indicating the end-use potential of the mineral.
+
+20.3.3.4. Exploration Activity Type (ExplorationActivityTypeValue)
+
+Types of exploration activity carried out.
+
+20.3.3.5. Exploration Result (ExplorationResultValue)
+
+Values indicating the result of the exploration activity.
+
+20.3.3.6. Importance (ImportanceValue)
+
+Values indicating the importance of the commodity for the Earth Resource.
+
+20.3.3.7. Mine Status (MineStatusValue)
+
+Values indicating the operational status of the mine.
+
+20.3.3.8. Mineral Deposit Group (MineralDepositGroupValue)
+
+Values indicating the grouping of mineral deposits on the basis of their generic characteristics.
+
+20.3.3.9. Mineral Deposit Type (MineralDepositTypeValue)
+
+Values indicating the style of mineral occurrence or deposit.
+
+20.3.3.10. Mineral Occurrence Type (MineralOccurrenceTypeValue)
+
+The type of mineral occurrence.
+
+20.3.3.11. Mining Activity Type (MiningActivityTypeValue)
+
+The type of mining activity, processing activity, or production.
+
+20.3.3.12. Processing Activity Type (ProcessingActivityTypeValue)
+
+Values indicating the type of processing carried out during a mining activity.
+
+20.3.3.13. Reserve Category (ReserveCategoryValue)
+
+The level of confidence of the estimate of the reserve.
+
+20.3.3.14. Resource Category (ResourceCategoryValue)
+
+Indication whether the resource is measured, indicated or inferred.
+
+**20.4. Theme-specific Requirements**
+
+The type MappedFeature specified in Section 4.2.1.10 of Annex III shall be used to describe the geometric properties of MineralOccurrence spatial objects.
+
+**20.5. Layers**
+
+Layers for the spatial data theme Mineral Resources
+
+| Layer Name | Layer Title | Spatial object type |
+| --- | --- | --- |
+| MR.Mine | Mines | MiningFeatureOccurrence |
+| MR.MineralOccurrence | Mineral Occurrences | MappedFeature (spatial objects whose specification property is of type MineralOccurrence) |
+
+## ANNEX V — IMPLEMENTING RULES FOR INVOCABLE SPATIAL DATA SERVICES
+
+**PART A**
+
+**Writing Conventions**
+
+Similar to the Regulation (EC) No 1205/2008, the following writing conventions are used for the spatial data service metadata.
+
+Where specified in the description of the metadata elements, the value domains shall be used with the multiplicity expressed in the relevant tables. In relation to a particular domain, each value is defined by:
+
+— a numerical identifier,
+
+— a textual name for humans which may be translated in the different Community languages,
+
+— a language neutral name for computers (the value expressed between parenthesis),
+
+— an optional description or definition.
+
+The table present the following information:
+
+— the first column contains the reference to the paragraph in the Annex defining the metadata element or group of metadata elements,
+
+— the second column contains the name of the metadata element or group of metadata elements,
+
+— the third column specifies the multiplicity of a metadata element. The expression of the multiplicity follows the unified modelling language (UML) notation for multiplicity, in which:
+
+— N means that there shall be only N instances of this metadata element in a result set,
+
+— 1..* means that there shall be at least one instance of this element in a result set,
+
+— 0..1 indicates that the presence of the metadata element in a result set is conditional but can occur only once,
+
+— 0..* indicates that the presence of the metadata element in a result set is conditional but the metadata element may occur once or more,
+
+— when the multiplicity is 0..1 or 0..*, the condition defines when the metadata elements is mandated.
+
+— the fourth column contains a conditional statement if the multiplicity of the element does not apply to all types of resources. All elements are mandatory in other circumstances.
+
+**PART B**
+
+**Category Metadata Element**
+
+**1\. Category**
+
+This is a citation of the status of the spatial data service versus invocability.
+
+The value domain of this metadata element is as follows:
+
+**1.1. Invocable (invocable)**
+
+The spatial data service is an invocable spatial data service.
+
+**1.2. Interoperable (interoperable)**
+
+The invocable spatial data service is an interoperable spatial data service.
+
+**1.3. Harmonised (harmonised)**
+
+The interoperable spatial data service is a harmonised spatial data service.
+
+**PART C**
+
+**Instructions on Multiplicity and Conditions of the Metadata Elements**
+
+The new metadata describing the spatial data service shall comprise the metadata elements or groups of metadata elements listed in Table 1.
+
+Those metadata elements or groups of metadata elements shall be in accordance with the expected multiplicity and the related conditions set out in Table 1.
+
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory.
+
+**Table 1**
+
+**Metadata for invocable spatial data services**
+
+| Reference | New metadata elements | Multiplicity | Condition |
+| --- | --- | --- | --- |
+| 1 | Category | 0..1 | mandatory for an invocable spatial data service |
+
+**PART D**
+
+**Additional Requirements on Metadata Set Out in Regulation (EC) No 1205/2008**
+
+**1\. Resource Locator**
+
+The Resource Locator metadata element set out in Regulation (EC) No 1205/2008 shall also contain all access points from the spatial data service provider and these access points shall be unambiguously identified as such.
+
+**2\. Specification**
+
+The Specification metadata element set out in Regulation (EC) No 1205/2008 shall also refer to or contain technical specifications (such as INSPIRE technical guidance but not only), to which the invocable spatial data service fully conforms, providing all the necessary technical elements (human, and wherever relevant, machine readable) to allow its invocation.
+
+## ANNEX VI — IMPLEMENTING RULES FOR THE INTEROPERABILITY OF INVOCABLE SPATIAL DATA SERVICES
+
+**PART A**
+
+**Additional Requirements on Metadata Set Out in Regulation (EC) No 1205/2008**
+
+**1\. Conditions applying to access and use**
+
+The technical restrictions applying to the access and use of the spatial data service shall be documented in the metadata element ‘CONSTRAINT RELATED TO ACCESS AND USE’ set out in Regulation (EC) No 1205/2008.
+
+**2\. Responsible party**
+
+The responsible party set out in Regulation (EC) No 1205/2008 shall at least describe the custodian responsible organisation, corresponding to the Custodian responsible party role set out in Regulation (EC) No 1205/2008.
+
+**PART B**
+
+**Metadata Elements**
+
+**3\. Coordinate Reference System Identifier**
+
+Where appropriate, this is the list of coordinate reference systems supported by the spatial data service.
+
+Each supported coordinate reference system shall be expressed using an identifier.
+
+**4\. Quality of Service**
+
+This is the minimum quality of service estimated by the spatial data service responsible party and expected to be valid over a period of time.
+
+**4.1. Criteria**
+
+These are the criteria to which the measurements refer.
+
+The value domain of this metadata element is as follows:
+
+4.1.1. Availability (availability)
+
+It describes the percentage of time the service is available.
+
+4.1.2. Performance (performance)
+
+It describes how fast a request to the spatial data service can be completed.
+
+4.1.3. Capacity (capacity)
+
+It describes the maximum number of simultaneous requests that can be completed with the declared performance.
+
+**4.2. Measurement**
+
+4.2.1. Description
+
+It describes the measurement for each criterion.
+
+The value domain of this metadata element is free text.
+
+4.2.2. Value (value)
+
+It describes the value of the measurement for each criterion.
+
+The value domain of this metadata element is free text.
+
+4.2.3. Unit (unit)
+
+It describes the Unit of the measurement for each criterion.
+
+The value domain of this metadata element is free text.
+
+**PART C**
+
+**Instructions on Multiplicity and Conditions of the Metadata Elements**
+
+The metadata describing an interoperable spatial data service shall comprise the metadata elements or groups of metadata elements listed in Table 1.
+
+Those metadata elements or groups of metadata elements shall be in accordance with the expected multiplicity and the related conditions set out in Table 1.
+
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory.
+
+**Table 1**
+
+**Metadata for interoperable spatial data services**
+
+| Reference | New metadata elements | Multiplicity | Condition |
+| --- | --- | --- | --- |
+| 1 | Coordinate reference system identifier | 1..* | Mandatory if relevant |
+| 2 | Quality of service | 3..* |  |
+
+## ANNEX VII — IMPLEMENTING RULES FOR THE HARMONISATION OF INTEROPERABLE SPATIAL DATA SERVICES
+
+**PART A**
+
+**Characteristics**
+
+**1\. Quality of Service**
+
+The probability of a harmonised spatial data service to be available shall be 98 % of the time.
+
+**2\. Output encoding**
+
+A harmonised spatial data service returning spatial objects in the scope of the Directive 2007/2/EC shall encode those spatial objects according to this regulation.
+
+**PART B**
+
+**Metadata Elements**
+
+**3\. invocation metadata**
+
+The invocation metadata element documents the interfaces of the harmonised spatial data service and lists the end points to enable machine-to machine communication.
+
+**PART C**
+
+**Instructions on Multiplicity and Conditions of the Metadata Elements**
+
+The harmonised spatial data service metadata shall comprise the metadata element or group of metadata elements listed in Table 1.
+
+This metadata element or group of metadata elements shall be in accordance with the expected multiplicity and the related conditions set out in Table 1.
+
+When no condition is expressed in relation to a particular metadata element, that element shall be mandatory.
+
+**Table 1**
+
+**Metadata for harmonised spatial data services**
+
+| Reference | New metadata elements | Multiplicity | Condition |
+| --- | --- | --- | --- |
+| 1 | invocation metadata | 1..* |  |
+
+**PART D**
+
+**Operations**
+
+**1\. List of operations**
+
+A harmonised spatial data service shall provide the operation listed in table 2.
+
+**Table 2**
+
+**Operations for Harmonised Spatial Data Services**
+
+| Operation | Role |
+| --- | --- |
+| Get Harmonised Spatial Data Service Metadata | Provides all necessary information about the service and describes service capabilities |
+
+**2\. Get Harmonised Spatial Data Service Metadata Operation**
+
+**2.1. Get Harmonised Spatial Data Service Metadata Request**
+
+2.1.1. Get Harmonised Spatial Data Service Metadata Request parameters
+
+The Get Harmonised Spatial Data Service Metadata Request parameter indicates the natural language for the content of the Get Harmonised Spatial Data Service Metadata Response
+
+**2.2. Get Harmonised Spatial Data Service Metadata Response**
+
+The Get Harmonised Spatial Data Service Metadata Response shall contain the following sets of parameters:
+
+— Harmonised Spatial Data Service Metadata,
+
+— Operations Metadata,
+
+— Languages.
+
+2.2.1. Harmonised Spatial Data Service Metadata parameters
+
+The Harmonised Spatial Data Service Metadata parameters shall at least contain the INSPIRE metadata elements of the Harmonised Spatial Data Service set out in this Regulation, and in Regulation (EC) No 1205/2008.
+
+2.2.2. Operations Metadata parameters
+
+The Operations Metadata parameter provides metadata about the operations of the Harmonised Spatial Data Service. It shall at least describe each operation, including as a minimum a description of the data exchanged and the network address.
+
+2.2.3. Languages parameter
+
+Two language parameters shall be provided:
+
+— the Response Language parameter indicating the natural language used in the Get Harmonised Spatial Data Service Metadata Response parameters,
+
+— the Supported Languages parameter containing the list of the natural languages supported by the Harmonised Spatial Data Service.
+
+( 1 ) Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services (OJ L 274, 20.10.2009, p. 9).
+
+( 2 ) Commission Regulation (EC) No 1205/2008 of 3 December 2008 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards metadata (OJ L 326, 4.12.2008, p. 12)
+
+( 3 ) OJ L 326, 4.12.2008, p. 12.
+
+( 4 ) OJ L 274, 20.10.2009, p. 9.
+
+( 5 ) OJ L 393, 30.12.2006, p. 1.
+
+( 6 ) OJ L 393, 30.12.2006, p. 1.
+
+( 7 ) OJ L 332, 9.12.2002, p. 1.
+
+( 8 ) OJ L 312, 22.11.2008, p. 3.
+
+( 9 ) OJ L 145, 4.6.2008, p. 65.
+
+( 10 ) OJ L 226, 6.9.2000, p. 3.
+
+( 11 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 12 ) Commission Regulation (EC) No 166/2006 of 18 January 2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (OJ L 33, 4.2.2006, p. 1).
+
+( 13 ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+
+( 14 ) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (OJ L 164, 25.6.2008, p. 19).
+
+( 15 ) Commission Implementing Decision 2011/484/EU of 11 July 2011 concerning a site information format for Natura 2000 sites (OJ L 198, 30.7.2011, p. 39).
+
+( 16 ) OJ L 140, 5.6.2009, p. 16.

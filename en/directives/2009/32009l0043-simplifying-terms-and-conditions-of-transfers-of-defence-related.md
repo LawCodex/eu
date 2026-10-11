@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2010/80/EU of 22 November 2010 </td><td> L 308</td><td>11</td><td>24.11.2010</td></tr>
@@ -41,6 +42,7 @@ retrieved: 2026-10-11
 <tr><td> M13</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2024/242 of 27 September 2023 </td><td> L 242</td><td>1</td><td>17.1.2024</td></tr>
 <tr><td> M14</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/290 of 4 October 2024 </td><td> L 290</td><td>1</td><td>21.2.2025</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2026/325 of 27 October 2025 </td><td> L 325</td><td>1</td><td>18.2.2026</td></tr>
+</table>
 
 **DIRECTIVE 2009/43/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

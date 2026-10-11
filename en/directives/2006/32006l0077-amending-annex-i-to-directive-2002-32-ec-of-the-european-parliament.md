@@ -102,6 +102,7 @@ http://www.efsa.europa.eu/etc/medialib/efsa/science/contam/contam_opinions/1252.
 
 Rows 17 to 26 of Annex I to Directive 2002/32/EC are replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td><table><tbody><tr><td>‘17.</td><td>Aldrin (*1)</td></tr>
@@ -226,6 +227,7 @@ Rows 17 to 26 of Annex I to Directive 2002/32/EC are replaced by the following:
 </table>
 </td><td>2,0 </td></tr>
 </tbody>
+</table>
 
 (*1) Singly or combined expressed as dieldrin.
 

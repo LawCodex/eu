@@ -81,6 +81,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 13(b) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘13(b)</td><td>Cadmium and lead in filter glasses and glasses used for reflectance standards</td><td>Applies to categories 8, 9 and 11; expires on:<table><tbody><tr><td>—</td><td>21 July 2023 for category 8 in vitro diagnostic medical devices;</td></tr>
 </tbody>
 </table>
@@ -95,3 +96,4 @@ In Annex III to Directive 2011/65/EU, point 13(b) is replaced by the following:
 <tr><td>13(b)-(II)</td><td>Cadmium in striking optical filter glass types; excluding applications falling under point 39 of this Annex</td></tr>
 <tr><td>13(b)-(III)</td><td>Cadmium and lead in glazes used for reflectance standards</td></tr>
 </tbody>
+</table>

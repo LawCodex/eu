@@ -1,0 +1,2285 @@
+---
+title: "Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012"
+identifier: "32024R1143"
+eli: "http://data.europa.eu/eli/reg/2024/1143/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-04-11
+entry_into_force: 2025-01-01
+last_amended: 2026-03-18
+consolidated_version: "02024R1143-20260318"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1143-20260318"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012
+
+**REGULATION (EU) 2024/1143 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 April 2024**
+
+**on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/471 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 471</td><td>1</td><td>26.2.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2024/1143 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 April 2024**
+
+**on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012**
+
+## TITLE I — GENERAL PROVISIONS
+
+#### Article 1
+
+Subject matter
+
+This Regulation lays down the rules on the following quality schemes:
+
+(a) protected designations of origin and protected geographical indications for wine, protected designations of origin and protected geographical indications for agricultural products, including foodstuffs, as referred to in Article 5(1), point (c), and geographical indications for spirit drinks;
+
+(b) traditional specialities guaranteed and optional quality terms, as set out in Title III, Chapters 2 and 3 respectively, for agricultural products, including foodstuffs, as referred to in Article 51.
+
+For the purpose of Titles I, II and V, with the exception of Chapter 5 of Title II, the term ‘geographical indications’ covers protected designations of origin and protected geographical indications for wine, protected designations of origin and protected geographical indications for agricultural products, including foodstuffs, as referred to in Article 5(1), point (c), and geographical indications for spirit drinks.
+
+#### Article 2
+
+Definitions
+
+1\. For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘wine’ means the products covered by Article 92(1) of Regulation (EU) No 1308/2013;
+
+(b) ‘spirit drink’ means a spirit drink within the meaning of Article 2 of Regulation (EU) 2019/787;
+
+(c) ‘labelling’ means, in respect of all products falling within the scope of this Regulation, labelling as defined in Article 2(2), point (j), of Regulation (EU) No 1169/2011;
+
+(d) ‘production step’ means any stage of production, including of raw materials, or of processing, preparation or ageing, up to the point where the product is ready to be placed on the market;
+
+(e) ‘operator’ means a natural or legal person who performs activities subject to one or more obligations provided for in the product specification;
+
+(f) ‘processed product’ means a processed product, as defined in Article 2(1), point (o), of Regulation (EC) No 852/2004 of the European Parliament and of the Council ( 1 );
+
+(g) ‘delegated body’ means a delegated body, as defined in Article 3, point (5), of Regulation (EU) 2017/625, which certifies compliance with the product specification for products designated by geographical indications or traditional specialities guaranteed;
+
+(h) ‘generic term’ means the name of a product which, although relating to the place, region or country where a product was originally produced or placed on the market, has become the common name of a product in the Union;
+
+(i) ‘plant variety denomination’ means a designation of a given variety, that is in common use or officially accepted in a national or Union catalogue in accordance with Council Directives 2002/53/EC ( 2 ), 2002/55/EC ( 3 ), 2008/90/EC ( 4 ) or Council Regulation (EC) No 2100/94 ( 5 ), in the language or languages in which it is used or listed at the date of application for the registration of the geographical indication concerned;
+
+(j) ‘animal breed denomination’ means the name of a breed covered by Regulation (EU) 2016/1012 of the European Parliament and of the Council ( 6 ) that is listed in breeding books or breeding registers. For species not covered by that Regulation, it means the name of a breed which is listed in breeding books or breeding registers under national law. Such a name shall be in the language or languages in which it is listed at the date of application for the registration of the geographical indication concerned;
+
+(k) ‘Combined Nomenclature’ means the goods nomenclature established by Article 1 of Regulation (EEC) No 2658/87.
+
+2\. For the purpose of Title II, the following definitions apply:
+
+(a) ‘product specification’ means the document referred to in:
+
+(i) Article 94 of Regulation (EU) No 1308/2013 for wine;
+
+(ii) Article 22 of Regulation (EU) 2019/787 for spirit drinks;
+
+(iii) Article 49 of this Regulation for agricultural products;
+
+(b) ‘single document’ means a document summarising the product specification and referred to in:
+
+(i) Article 95 of Regulation (EU) No 1308/2013 for wine;
+
+(ii) Article 23 of Regulation (EU) 2019/787 for spirit drinks;
+
+(iii) Article 50 of this Regulation for agricultural products.
+
+3\. For the purpose of Title III, Chapter 2, ‘traditional’ means proven historical usage of the name by producers in a community for a period that allows transmission between generations; that period is to be at least 30 years and such usage may embrace modifications necessitated by changing hygiene, safety and other relevant practices.
+
+#### Article 3
+
+Data protection
+
+1\. The Member States and the Commission shall process and make public the personal data received in the course of the procedures for registration, approval of amendments, cancellation, opposition, granting of transitional period and control pursuant to this Regulation and Regulations (EU) No 1308/2013 and (EU) 2019/787, in accordance with Regulations (EU) 2018/1725 and (EU) 2016/679.
+
+2\. The Commission shall be a controller within the meaning of Regulation (EU) 2018/1725 in relation to the processing of personal data in the procedure it is competent for in accordance with Regulations (EU) 2019/787 and (EU) No 1308/2013 and this Regulation.
+
+3\. The competent authorities of the Member States shall be controllers within the meaning of Regulation (EU) 2016/679 in relation to the processing of personal data in the procedures they are competent for in accordance with Regulations (EU) 2019/787 and (EU) No 1308/2013 and this Regulation.
+
+4\. The European Union Intellectual Property Office (EUIPO) shall be a ‘processor’ within the meaning of Regulation (EU) 2018/1725 in relation to the processing of personal data linked to the Union register of geographical indications.
+
+## TITLE II — GEOGRAPHICAL INDICATIONS
+
+### CHAPTER 1 — General provisions
+
+#### Article 4
+
+Objectives
+
+This Title provides for a unitary and exhaustive system of geographical indications, protecting the names of wine, spirit drinks and agricultural products having characteristics, attributes or reputation linked to their place of production, thereby:
+
+(a) ensuring that producers acting collectively have the necessary powers and responsibilities to manage the geographical indication concerned, including in order to respond to societal demands, such as for animal health and welfare, for products resulting from sustainable production in its three dimensions of economic, environmental and social value, and to operate and be competitive in the market;
+
+(b) contributing to fair competition and generating added value with the aim of sharing that added value across the marketing chain, in order to ensure a fair return for producers and a capacity to invest in the quality, reputation and sustainability of their products, as well as contributing to the achievement of rural development policy objectives by providing support to agricultural and processing activities, preserving know-how and promoting specific quality products due to the geographical area where they are produced;
+
+(c) ensuring that consumers receive reliable information and necessary guarantee of the origin, authenticity, quality, reputation and other characteristics linked to the geographical origin or the geographical environment of such products and can readily identify them in the marketplace including in electronic commerce;
+
+(d) ensuring the efficient and user-friendly registration of geographical indications taking into account the appropriate protection of intellectual property rights;
+
+(e) ensuring effective controls, enforcement and placing on the market throughout the Union, including in electronic commerce, thereby ensuring the integrity of the internal market; and
+
+(f) contributing to the effective protection of intellectual property rights related to such products in third country markets.
+
+#### Article 5
+
+Scope
+
+1\. This Title covers:
+
+(a) wine, as defined in Article 2(1), point (a);
+
+(b) spirit drinks, as defined in Article 2(1), point (b); and
+
+(c) agricultural products.
+
+For the purposes of this Title, the term ‘agricultural products’ covers agricultural products, including foodstuffs and fishery and aquaculture products, listed under Chapters 1 to 23 of the Combined Nomenclature set out in Part two of Annex I to Regulation (EEC) No 2658/87, and the agricultural products under the Combined Nomenclature headings set out in Annex I to this Regulation, except wine and spirit drinks.
+
+2\. The registration and the protection of geographical indications are without prejudice to the obligation of producers to comply with other Union rules, in particular those relating to the placing of products on the market, sanitary and phytosanitary rules, the common organisation of the markets, the competition rules and the provision of food information to consumers.
+
+3\. Directive (EU) 2015/1535 of the European Parliament and of the Council ( 7 ) shall not apply to the system of geographical indications laid down in this Regulation.
+
+#### Article 6
+
+Classification
+
+1\. Products designated by geographical indications shall be classified in accordance with the Combined Nomenclature at two, four, six or, where a Member State so decides, eight-digit level. Where a geographical indication covers products of more than one category, each entry shall be specified. Product classification shall only be used for registration, statistical and record keeping purposes, in particular for customs authorities. That classification shall not be used to determine comparable products for the purposes of protection against direct and indirect commercial use as referred to in Article 26(1), point (a).
+
+2\. The Commission may, by means of implementing acts, lay down the technical presentation of, and online access to, the classification referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 7
+
+Sustainability
+
+1\. A producer group, or a recognised producer group where such a group exists, may agree on sustainable practices to be adhered to in the production of the product designated by a geographical indication or in carrying out other activities subject to one or more obligations provided for in the product specification. Such practices shall aim to apply sustainability standards higher than those laid down by Union or national law in terms of environmental, social or economic sustainability or animal welfare.
+
+2\. For the purpose of paragraph 1, ‘sustainable practice’ means a practice which contributes to one or more social, environmental or economic objectives, such as:
+
+(a) climate change mitigation and adaptation, the sustainable use and protection of landscapes, water and soil, the transition to a circular economy, including the reduction of food waste, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems;
+
+(b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resistance in agricultural production;
+
+(c) animal welfare;
+
+(d) a fair income for producers, diversification of activities, promotion of local agricultural production, and valorisation of the rural fabric and local development;
+
+(e) preservation of agricultural employment by attracting and sustaining young producers and new producers of products benefiting from a geographical indication;
+
+(f) improving working and safety conditions in agricultural and processing activities.
+
+3\. Where the producer group, or the recognised producer group where such a group exists, decides that the sustainable practices referred to in paragraph 1 are mandatory for all producers of the product concerned, those practices shall be included in the product specification in accordance with the registration or amendment procedure.
+
+#### Article 8
+
+Sustainability report
+
+1\. A producer group, or a recognised producer group where such a group exists, may prepare and regularly update a sustainability report based on verifiable information, comprising a description of existing sustainable practices implemented in the production of the product, a description of how the method of obtaining the product impacts on sustainability, in terms of environmental, social, economic or animal welfare commitments, and information necessary to understand how sustainability affects the development, performance and position of the product.
+
+2\. The Commission shall make the sustainability report public.
+
+### CHAPTER 2 — Registration of geographical indications
+
+#### Article 9
+
+Applicant in the national stage of the procedure of registration
+
+1\. Applications for the registration of geographical indications may only be submitted by an applicant producer group. An applicant producer group shall be an association, irrespective of its legal form, composed of producers of the same product the name of which is proposed for registration. Public bodies and other interested parties may assist in the preparation of the application and in the related procedure.
+
+2\. For the purposes of this Title, an authority designated by a Member State may be deemed to be an applicant producer group with respect to geographical indications of a spirit drink, if it is not feasible for the producers concerned to form a group by reason of their number, geographical location or organisational characteristics. In such a case, the application referred to in Article 10(2) shall state those reasons.
+
+3\. For the purposes of this Title, a single producer may be deemed to be an applicant producer group, where it is shown that all of the following conditions are fulfilled:
+
+(a) that producer is the only producer willing to submit an application for the registration of a geographical indication;
+
+(b) the geographical area concerned is defined on the basis of the link referred to in Article 49(1), point (f), of this Regulation, Article 94(1), point (i), of Regulation (EU) No 1308/2013 and Article 22(1), point (f), of Regulation (EU) 2019/787 and not on the basis of property boundaries; and
+
+(c) the geographical area concerned has characteristics which differ appreciably from those of neighbouring areas or the characteristics of the product are different from those produced in neighbouring areas or, with respect to geographical indications of a spirit drink, the spirit drink has a specific quality, reputation or other characteristic which is clearly attributable to its geographical origin.
+
+4\. In the case of a geographical indication that designates a cross-border geographical area, several applicant producer groups from different Member States or third countries may lodge a joint application for the registration of a geographical indication. Such a joint application shall be addressed to all of the Member States concerned.
+
+#### Article 10
+
+National stage of the procedure of registration
+
+1\. An application for the registration of a geographical indication concerning a product originating in the Union shall be addressed to the competent authorities of the Member State in which the product originates.
+
+2\. The application referred to in paragraph 1 shall comprise:
+
+(a) the product specification;
+
+(b) the single document; and
+
+(c) the accompanying documentation referred to in Article 12(1).
+
+3\. The Member State shall examine the application for registration in order to check that it meets the conditions for registration laid down in the respective provisions for wine, spirit drinks or agricultural products, as appropriate.
+
+4\. As part of the examination referred to in paragraph 3 of this Article, the Member State concerned shall conduct a national opposition procedure. The national opposition procedure shall ensure publication of the application for registration with the exception of the documents referred to in Article 12(1), points (b) and (c), and shall provide for a period of at least one month from the date of publication within which any natural or legal person having a legitimate interest and established or resident in the Member State in which the product concerned originates may lodge an opposition to the application for registration with that Member State.
+
+5\. The Member State concerned shall establish the modalities of the opposition procedure. Those modalities may include criteria for the admissibility of an opposition, a period of consultation between the applicant producer group and each opponent, and submission of a report from the applicant producer group on the outcome of the consultations including any changes the applicant producer group has made to the application for registration.
+
+6\. If, after the examination of the application for registration and the assessment of the results of any opposition received and any changes to the application agreed with the applicant producer group, the Member State concerned considers that the requirements of this Regulation are met, it may take a favourable decision and submit an application for registration at Union stage as referred to in Article 13.
+
+7\. The Member State concerned shall ensure that any natural or legal person having a legitimate interest has an opportunity to lodge an appeal. The Member State concerned shall also ensure that a favourable decision and the corresponding product specification are published, and shall provide electronic access to the product specification.
+
+8\. In the case of a joint application as referred to in Article 9(4), the application shall be addressed to all Member States concerned and the related national procedures, including the opposition stage, shall be carried out in all of those Member States.
+
+#### Article 11
+
+Transitional national protection
+
+1\. A Member State may, on a temporary basis, grant transitional protection to a name at national level, with effect from the date on which an application for registration at Union stage is lodged with the Commission.
+
+2\. Such national protection shall cease on the date on which either the implementing act deciding on the application for registration, adopted in accordance with Article 21, enters into force or the application for registration is withdrawn.
+
+3\. Where a name is not registered under this Regulation, the consequences of the transitional national protection shall be the sole responsibility of the Member State concerned.
+
+4\. The measures taken by Member States in accordance with this Article shall produce effects at national level only, and they shall have no effect on the internal market or in international trade.
+
+#### Article 12
+
+Accompanying documentation
+
+1\. The documentation accompanying the application for registration shall comprise:
+
+(a) where relevant, information explaining any proposed limitations on the use or on the protection of the geographical indication, and any transitional measures, proposed by the applicant producer group;
+
+(b) the name and contact details of the applicant producer group;
+
+(c) the name and contact details of one or more of the competent authorities, delegated or product certification bodies or natural persons verifying compliance with the product specification in accordance with:
+
+(i) Article 116a of Regulation (EU) No 1308/2013 as regards wine;
+
+(ii) Article 39 of this Regulation as regards spirit drinks and agricultural products;
+
+(d) any other information deemed appropriate by the Member State concerned or by the applicant producer group where applicable.
+
+2\. The Commission shall, by means of implementing acts, lay down the format and online presentation of the accompanying documentation provided for in paragraph 1, points (a), (b) and (c), of this Article in the application for registration at Union stage as provided in Article 13, and provide for the exclusion or anonymisation of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 13
+
+Application for registration at Union stage
+
+1\. For geographical indications concerning products originating in the Union, the application for registration shall comprise:
+
+(a) the single document;
+
+(b) the accompanying documentation referred to in Article 12(1), points (a), (b) and (c);
+
+(c) a declaration by the Member State to which the application was addressed at the national stage of the procedure of registration, confirming that the application meets the conditions for registration;
+
+(d) any transitional period granted or proposed by the national authorities following the national examination and opposition procedure as well as information on the related admissible oppositions; and
+
+(e) the electronic publication reference to the up-to-date product specification.
+
+2\. For geographical indications concerning products originating outside the Union, the application for registration at Union stage shall comprise:
+
+(a) the product specification with its publication reference;
+
+(b) the single document;
+
+(c) the accompanying documentation referred to in Article 12(1), points (a), (b) and (c);
+
+(d) legal proof of protection of the geographical indication in its country of origin; and
+
+(e) a power of attorney where the applicant is represented by an agent.
+
+3\. The joint application for registration referred to in Article 9(4) shall include, in addition to the single document, as relevant, the documents listed in paragraph 1, points (b) to (e), or 2, points (c) (d) and (e), of this Article from all Member States or third countries concerned.
+
+4\. The documents referred to in this Article shall be drafted in one of the official languages of the Union.
+
+5\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of applications for registration at Union stage, including applications concerning more than one national territory. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 14
+
+Submission of the application for registration at Union stage
+
+1\. An application for registration of a geographical indication at Union stage shall be submitted to the Commission electronically, through a digital system.
+
+Upon receiving a request from one or more Member States, the Commission shall adapt the digital system to make it suitable to be used in the national part of the procedure for registration of a geographical indication by any Member State that so wishes.
+
+2\. Where the application for registration relates to a geographical area outside the Union, the application shall be submitted to the Commission, either directly by an applicant, namely a producer group or a single producer, or via the authorities of the third country concerned.
+
+A single producer of a third country shall meet the conditions set out in Article 9(3). A producer group of a third country shall be a producer group which works with a product, the name of which is proposed for registration.
+
+3\. A joint application for registration referred to in Article 9(4) shall be submitted by either:
+
+(a) one of the Member States concerned; or
+
+(b) an applicant of a third country, namely a producer group or a single producer, either directly or through the authorities of that third country.
+
+4\. The names for which applications for registration at Union stage have been submitted shall be made public by the Commission through the digital system referred to in paragraph 1.
+
+#### Article 15
+
+Examination by the Commission and publication for opposition
+
+1\. The Commission shall examine applications for registration submitted in accordance with Article 14(1), (2) and (3). It shall check that the applications contain the required information and that they do not contain manifest errors, taking into account the outcome of the national examination and opposition procedure carried out by the Member State concerned.
+
+2\. The examination shall not exceed a period of six months from the day of the reception of the application. The Commission may request from the applicant any necessary additional information or modification of the application. Where the Commission addresses such requests to the applicant, the examination period shall not exceed a period of five months from the day on which the Commission receives the applicant’s reply.
+
+3\. In the event that the Commission does not conclude the examination referred to in paragraph 2 within the prescribed deadlines, it shall inform the applicant of the reasons for the delay in writing, indicating the estimated time necessary to conclude the examination, which shall not exceed one month.
+
+4\. Where the Commission considers that the conditions laid down in Articles 9, 10, 12, 13, 28, 29, 30, 31, 46 and 47, Article 48(1) and (2) and Article 50 of this Regulation, in Articles 93 and 95 and Article 100(4) of Regulation (EU) No 1308/2013, and in Article 3(4), Article 23 and Article 34(4) of Regulation (EU) 2019/787, as appropriate, are fulfilled, it shall publish in the Official Journal of the European Union the single document and the reference to the publication of the product specification.
+
+#### Article 16
+
+National challenge to an application for registration
+
+1\. Member States shall inform the Commission of any national administrative or judicial proceedings that may prejudice the registration of a geographical indication.
+
+2\. The Commission shall be exempted from the obligation to meet the deadlines to perform the examination referred to in Article 15(2) and to inform the Member State of the reasons for the delay where it receives a communication from that Member State, concerning an application for registration in accordance with Article 10(6), which:
+
+(a) informs the Commission that the decision referred to in Article 10(6) has been invalidated at national level by an immediately applicable but not final administrative or judicial decision; or
+
+(b) requests the Commission to suspend the examination because national administrative or judicial proceedings have been initiated to challenge the validity of the application and the Member State considers that those proceedings are based on valid grounds.
+
+3\. The exemption provided for in paragraph 2 shall have effect until the Commission is informed by the Member State concerned that the original application has been restored or that the Member State withdraws its request for suspension.
+
+4\. If the favourable decision of a Member State referred to in Article 10(6) has been invalidated in full or in part by a final decision taken by a national court, that Member State shall consider appropriate action such as withdrawal or modification of the application for registration at Union stage, as necessary.
+
+#### Article 17
+
+Union opposition procedure
+
+1\. Within three months from the date of publication in the Official Journal of the European Union of the single document and the reference to the publication of the product specification in accordance with Article 15(4), the authorities of a Member State or of a third country, or a natural or legal person having a legitimate interest and established or resident in a third country may lodge an opposition with the Commission.
+
+2\. Any natural or legal person having a legitimate interest and established or resident in a Member State other than the one from which the application for registration at Union stage was submitted may lodge an opposition with the Member State, in which it is established or resident, within a time limit permitting that Member State to examine that opposition and to decide whether to lodge it with the Commission in accordance with paragraph 1. Member States may specify that time limit in their national law.
+
+3\. An opposition shall state that it opposes the registration of a geographical indication. An opposition that does not contain that statement shall be void.
+
+4\. The Commission shall examine the admissibility of the opposition. If the Commission considers that the opposition is admissible, it shall, within five months from the date of publication referred to in Article 15(4), invite the opponent and the applicant to engage in appropriate consultations for a reasonable period that shall not exceed three months. The Commission shall transmit to the applicant the opposition and all the documents provided by the opponent. At any time during that period, the Commission may, at the request of the applicant, extend the deadline for the consultations once by a maximum of three months.
+
+5\. The opponent and the applicant shall start appropriate consultations without undue delay. They shall provide each other with the relevant information to assess whether the application for registration complies with this Regulation, Regulation (EU) No 1308/2013 or Regulation (EU) 2019/787, as appropriate.
+
+6\. Within one month from the end of the consultations referred to in paragraph 4, the applicant shall notify the Commission of the result of the consultations, including all the information exchanged, whether agreement was reached with one or all of the opponents, and of any consequent changes to the application for registration. The opponent may also notify the Commission of its position at the end of the consultations.
+
+7\. Where, following the end of the consultations referred to in paragraph 4 of this Article, the data published in accordance with Article 15(4) have been modified, the Commission shall repeat its examination of the application for registration as modified. Where the application for registration has been modified in a substantial manner, and the Commission considers that the modified application meets the conditions for registration, it shall publish again the single document and the reference to the publication of the product specification in accordance with Article 15(4).
+
+8\. The documents referred to in this Article shall be drafted in one of the official languages of the Union.
+
+9\. The Commission shall finalise its assessment of the application for registration at Union stage, taking into account any request for transitional periods, the outcome of the opposition procedure and any other matters arising subsequently with regard to its examination that may imply a change of the single document.
+
+10\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down detailed procedures and deadlines for the opposition procedure.
+
+11\. The Commission shall, by means of implementing acts, lay down the format and presentation of oppositions and provide for the exclusion or anonymisation of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 18
+
+Notice of comments
+
+1\. Within three months from the date of publication of the single document and the reference to the publication of the product specification in accordance with Article 15(4), the authorities of a Member State or of a third country, or a natural or legal person established or resident in a third country may submit to the Commission a notice of comments.
+
+2\. A notice of comments shall point out any error or contain additional information in relation to the application for registration, including possible infringement of Union law. A notice of comments shall not confer any rights on the authorities or persons referred to in paragraph 1 nor trigger an opposition procedure.
+
+3\. Where, following the submission of a notice of comments the data published in accordance with Article 15(4) have been modified in a substantial manner, the Commission shall publish again the single document and the reference to the publication of the product specification in accordance with that paragraph.
+
+4\. The Commission may, by means of implementing acts, lay down the format and presentation of notices of comments. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 19
+
+Grounds for opposition
+
+1\. An opposition lodged in accordance with Article 17 shall be admissible only if the opponent shows that:
+
+(a) the proposed geographical indication does not comply with the definition of the geographical indication or with the requirements referred to in this Regulation, Section 2 of Chapter I of Title II of Part II of Regulation (EU) No 1308/2013 or Article 3(4) and Chapter III of Regulation (EU) 2019/787 as applicable;
+
+(b) registration of the proposed geographical indication would be prevented by one or more of the circumstances referred to in Article 28, Article 29, Article 30 or Article 48(1); or
+
+(c) the registration of the proposed geographical indication would jeopardise the existence of a wholly or partially identical name or of a trade mark or the existence of products which have been legally on the market for at least five years preceding the date of the publication of the information provided for in Article 15(4).
+
+2\. The admissibility of an opposition shall be assessed by the Commission in relation to the territory of the Union.
+
+#### Article 20
+
+Transitional period for the use of geographical indications
+
+1\. For products originating in a Member State or a third country the designation of which consists of or contains a name that contravenes Article 26(1), the Commission may, by means of implementing acts, grant a transitional period of up to five years to enable the continued use of that designation, under which they were marketed, provided that an admissible opposition, under Article 10(4) or Article 17, to the application for registration of the geographical indication whose protection is contravened shows that:
+
+(a) the registration of the geographical indication concerned would jeopardise the existence of a wholly or partially identical name in the product designation; or
+
+(b) such products have been legally marketed with that name in the product designation in the territory concerned for at least five years preceding the publication provided for in Article 15(4).
+
+2\. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 88(2) except those where an admissible opposition is lodged in accordance with Article 10(4), which shall be adopted without applying that examination procedure.
+
+3\. The Commission may, by means of implementing acts, extend the transitional period granted under paragraph 1 up to a total period of 15 years or grant directly a transitional period of up to 15 years provided that it is also shown that:
+
+(a) the name in the designation referred to in paragraph 1 has been in legal use consistently and fairly for at least 25 years before the application for registration of the geographical indication concerned was submitted to the Commission;
+
+(b) the purpose of using the name in the designation referred to in paragraph 1 has not, at any time, been to profit from the reputation of the name of the product that has been registered as a geographical indication; and
+
+(c) the consumer has not been or could not have been misled as to the true origin of the product.
+
+4\. The implementing acts referred to in paragraph 3 of this Article shall be adopted in accordance with the examination procedure referred to in Article 88(2) except those where an admissible opposition is lodged under Article 10(4), which shall be adopted without applying that examination procedure.
+
+5\. When using a designation referred to in paragraphs 1 and 3, the indication of the country of origin shall clearly and visibly appear on the labelling and, where applicable, on the product description when it is marketed online.
+
+6\. Regarding applications for the registration of geographical indications and Union amendments, in order to overcome temporary difficulties with the long-term objective of ensuring that all operators of a product designated under a geographical indication in the area concerned comply with the related product specification, a Member State may grant a transitional period for compliance, of up to 10 years, with effect from the date on which the application is lodged with the Commission, provided that the operators concerned have legally marketed that product using the name concerned continuously for at least five years preceding the lodging of the application to the authorities of that Member State and have referred to that fact in the national opposition procedure referred to in Article 10(4).
+
+7\. Where the time between the application for registration at Union stage and the registration of the name concerned exceeds five years, the Member State may extend the transitional period by up to five years. The decision to extend the transitional period shall be communicated without delay to the Commission, which shall publish it in the Official Journal of the European Union.
+
+8\. Paragraph 6 shall apply mutatis mutandis to a geographical indication referring to a geographical area situated in a third country, with the exception of the opposition procedure.
+
+#### Article 21
+
+Commission decision on the application for registration
+
+1\. Where, on the basis of the information available to the Commission from the examination carried out in accordance with Article 15, the Commission considers that any of the conditions referred to in that Article is not fulfilled, it shall, by means of implementing acts, reject the application for registration. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+2\. In the absence of an admissible opposition, the Commission shall, by means of implementing acts and without applying the procedure referred to in Article 88(2), register the geographical indication. The Commission may take into account the notices of comments received in accordance with Article 18.
+
+3\. Where the Commission receives an admissible opposition, it shall, following the procedure referred to in Article 17 and taking into account the results thereof:
+
+(a) adopt implementing acts registering the geographical indication without applying the procedure referred to in Article 88(2), if an agreement has been reached, after checking that the agreement complies with Union law, and, if necessary, amend the information published in accordance with Article 15(4) provided that such amendments are not substantial; or
+
+(b) adopt implementing acts deciding on the application for registration, if an agreement has not been reached; those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+4\. The implementing acts registering a geographical indication shall provide for any conditions applicable to the registration and for the republication for information of the single document published in accordance with Article 15(4) and modified following the opposition procedure in the case of modifications other than those referred to in Article 17(7) and Article 18(3).
+
+5\. Commission implementing regulations on registration and Commission implementing decisions on rejection shall be published in the Official Journal of the European Union, L series.
+
+#### Article 22
+
+Union register of geographical indications
+
+1\. The Commission shall, by means of implementing acts and without applying the procedure referred to in Article 88(2), establish and maintain a publicly accessible Union register of geographical indications. That register shall have three parts corresponding to geographical indications of wine, of spirit drinks and of agricultural products respectively. Files entered in that register after 13 May 2024 shall be in a machine-readable format as defined in Article 2, point (13), of Directive (EU) 2019/1024 of the European Parliament and of the Council ( 8 ).
+
+2\. The EUIPO shall maintain and keep up-to-date the Union register with respect to registrations, amendments and cancellations of geographical indications.
+
+3\. Each geographical indication of wine and of agricultural products shall be identified in the Union register of geographical indications as a ‘protected designation of origin’ or a ‘protected geographical indication’, as the case may be, and each geographical indication of spirit drinks shall be identified as a ‘geographical indication’.
+
+4\. Geographical indications concerning products from third countries that are protected in the Union under an international agreement to which the Union is a contracting party may be entered in the Union register of geographical indications. In such cases, the Commission shall, by means of implementing acts, register such geographical indications. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+As regards wine and agricultural products, unless specifically identified in the agreements referred to in the first subparagraph as protected designations of origin, the names of such products shall be entered in the Union register of geographical indications as protected geographical indications.
+
+5\. Each geographical indication shall be entered in the Union register of geographical indications in its original script. Where the original script is not in Latin characters, the geographical indication shall be transcribed or transliterated in Latin characters and both versions of the geographical indication shall be entered in the Union register of geographical indications and shall have equal status.
+
+6\. The Commission shall make public and regularly update the list of the international agreements referred to in paragraph 4 as well as the list of geographical indications protected under those agreements.
+
+7\. The Commission shall retain, in digital or paper form, documentation related to the registration of a geographical indication. In the event of cancellation of the registration, the Commission shall retain the documentation for 10 years thereafter.
+
+8\. The Commission shall, by means of implementing acts, specify the content and presentation of the Union register of geographical indications. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 23
+
+Extracts from the Union register of geographical indications
+
+1\. Any person shall be able to download, easily and free of charge, an official extract from the Union register of geographical indications that provides proof of registration of the geographical indication, and other relevant data, including the date of application for the registration of the geographical indication or other priority date. The official extract of registration entered in that register after 13 May 2024 shall be in a machine-readable format, as defined in Article 2, point (13), of Directive (EU) 2019/1024. That official extract may be used as an authentic certificate in legal, judicial, administrative or similar proceedings.
+
+2\. Where a producer group has been recognised by the national authorities in accordance with Article 33, that group shall be identified as the representative of the producers of a product designated by a geographical indication in the Union register of geographical indications and in the official extract referred to in paragraph 1 of this Article.
+
+3\. The Commission may, by means of implementing acts, specify the format and online presentation of extracts from the Union register of geographical indications and provide for the exclusion or anonymisation of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 24
+
+Amendments to a product specification
+
+1\. A producer group of a product the name of which is a registered geographical indication may apply for the approval of an amendment to the product specification. Where a recognised producer group exists, that group shall be the only one entitled to apply.
+
+2\. Amendments to a product specification shall be classified into two categories:
+
+(a) Union amendments, requiring an opposition procedure at Union level; and
+
+(b) standard amendments to be dealt with at Member State or third country level.
+
+3\. An amendment shall be considered as a Union amendment if it entails a change of the single document or its equivalent and:
+
+(a) includes a change:
+
+(i) for agricultural products, in the name or in the use of the name;
+
+(ii) for wine, in the name or in the use of the name, or in the category of product or products designated by the geographical indication;
+
+(iii) for spirit drinks, in the name or any part of the name or in the use of the name, or in the category of product or products designated by the geographical indication, or in the legal name; or
+
+(b) risks voiding the link to the geographical area referred to in the single document; or
+
+(c) entails further restrictions on the marketing of the product.
+
+The criteria referred to in points (a), (b) and (c) shall be verified by Member States.
+
+4\. Any other amendment to a product specification of a registered geographical indication, that is not a Union amendment in accordance with paragraph 3, shall be considered as a standard amendment.
+
+5\. A standard amendment shall be considered as a temporary amendment when it concerns a temporary change in the product specification resulting from the imposition of obligatory sanitary and phytosanitary measures by the public authorities or a temporary amendment necessary because of a natural disaster or adverse weather conditions, or significant market disturbances due to exceptional circumstances, including geopolitical events, affecting the supply of raw materials, provided that the natural disaster, adverse weather conditions or significant market disturbances are formally recognised by the competent authorities.
+
+6\. Union amendments shall be approved by the Commission. The approval procedure shall follow, mutatis mutandis, the procedure laid down in Articles 9 and 10 and Articles 12 to 21.
+
+7\. Applications for Union amendments originating from outside the Union shall contain proof that the requested amendment complies with laws on the protection of geographical indications in force in that third country.
+
+8\. If an application for a Union amendment to the product specification of a registered geographical indication also includes standard amendments or temporary amendments, the Commission shall examine the Union amendment only. Any standard amendments or temporary amendments shall be deemed as not having been submitted. The examination of such applications shall focus on the proposed Union amendments. Where appropriate, the Commission or the Member State concerned may invite the applicant to modify other elements of the product specification.
+
+9\. Standard amendments shall be assessed and approved by Member States or third countries in whose territory the geographical area of the product concerned is located and communicated to the Commission. The Commission shall make those amendments public.
+
+10\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down provisions on Union amendments to product specifications of geographical indications for which no single document was published, on admissibility of applications for Union amendments, on the relationship between Union and standard amendments, and on standard amendments, including their publication.
+
+11\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of an application for a Union amendment and on procedures, the form and communication of standard amendments to the Commission. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 25
+
+Cancellation of the registration
+
+1\. The Commission may, on its own initiative or on a duly substantiated request by a Member State, a third country or any natural or legal person having a legitimate interest and established or resident in a third country, by means of implementing acts, cancel the registration of a geographical indication in the following cases:
+
+(a) where compliance with the requirements for the product specification can no longer be ensured; or
+
+(b) where no product has been placed on the market under the geographical indication for at least the preceding seven consecutive years.
+
+2\. The Commission may also adopt implementing acts cancelling the registration at the request of the producers of the product marketed under the registered name. Where a recognised producer group exists, that producer group shall be the only one entitled to lodge such a request.
+
+3\. The registration of the name as an intellectual property right other than a geographical indication, in particular as a trade mark, shall be prohibited for one year after the cancellation of the registration of a geographical indication, unless such intellectual property right had existed, or such a trade mark had been registered, before the registration of the geographical indication.
+
+4\. Articles 10, 13 to 17 and 21 shall apply mutatis mutandis to the cancellation procedure.
+
+Oppositions shall be admissible only if they show continued commercial reliance on the registered name by an interested natural or legal person.
+
+5\. Before adopting the implementing acts referred to in paragraphs 1 and 2, the Commission shall consult the authorities of the Member State, the authorities of the third country or, where possible, the third country producer which had originally applied for the registration of the geographical indication concerned, unless the cancellation is directly requested by those original applicants. The consultation period shall be at least one month.
+
+6\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of the requests for the cancellation of a registration.
+
+7\. The implementing acts referred to in paragraphs 1, 2 and 6 of this Article shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+### CHAPTER 3 — Protection of geographical indications
+
+#### Article 26
+
+Protection of geographical indications
+
+1\. Geographical indications entered in the Union register of geographical indications shall be protected against:
+
+(a) any direct or indirect commercial use of the geographical indication in respect of products not covered by the registration, where those products are comparable to the products registered under that name or where use of that geographical indication for any product or any service exploits, weakens, dilutes, or is detrimental to the reputation of, the protected name, including when those products are used as an ingredient;
+
+(b) any misuse, imitation or evocation, even if the true origin of the products or services is indicated or if the protected name is translated, transcribed or transliterated or accompanied by an expression such as ‘style’, ‘type’, ‘method’, ‘as produced in’, ‘imitation’, ‘flavour’, ‘like’ or similar, including when those products are used as an ingredient;
+
+(c) any other false or misleading indication as to the provenance, origin, nature or essential qualities of the product that is used on the inner or outer packaging, on advertising material, in documents or information provided on online interfaces relating to the product concerned, and the packing of the product in a container liable to convey a false impression as to its origin;
+
+(d) any other practice liable to mislead the consumer as to the true origin of the product.
+
+2\. Paragraph 1 shall apply to all domain names accessible in the Union.
+
+3\. National rules on names used for agricultural products, wines and spirit drinks shall not give rise to confusion with registered geographical indications.
+
+4\. The protection referred to in paragraph 1 shall also apply to:
+
+(a) goods entering the customs territory of the Union without being released for free circulation within that territory;
+
+(b) goods sold by means of distance selling, such as electronic commerce; and
+
+(c) goods intended for export to third countries.
+
+5\. The entities listed in Article 3(1), point (d), of Regulation (EU) No 608/2013 of the European Parliament and of the Council ( 9 ) shall be entitled to submit an application to the customs authorities to prevent all third parties from bringing goods, in the course of trade, into the Union without being released for free circulation there, where such goods, including packaging, come from third countries and are in breach of paragraph 1 of this Article.
+
+6\. Geographical indications registered under this Regulation shall not become generic in the Union.
+
+7\. Where a geographical indication is a compound name which contains a term which is considered to be generic, the use of that term shall not constitute, as a general rule, conduct referred to in paragraph 1, points (a) and (b).
+
+#### Article 27
+
+Use of geographical indications designating a product used as an ingredient in the name of a processed product
+
+1\. Without prejudice to Article 26 and Article 37(7) of this Regulation and to Articles 7 and 17 of Regulation (EU) No 1169/2011, the geographical indication designating a product used as an ingredient in a processed product may be used in the name of that processed product, or in its labelling, or in its advertising material where:
+
+(a) the processed product does not contain any other product comparable to the ingredient designated by the geographical indication;
+
+(b) the ingredient designated by the geographical indication is used in sufficient quantities to confer an essential characteristic on the processed product concerned; and
+
+(c) the percentage of the ingredient designated by the geographical indication in the processed product is indicated in the label.
+
+2\. In addition, producers of a prepacked food, as defined in Article 2(2), point (e), of Regulation (EU) No 1169/2011, containing as an ingredient a product designated by a geographical indication, who want to use that geographical indication in the name of that prepacked food, including in advertising material, shall give a prior written notification to the recognised producer group where such a group exists for that geographical indication. Those producers shall include in that notification the information that demonstrates that the conditions listed in paragraph 1 of this Article are complied with and shall act accordingly. The recognised producer group shall acknowledge receipt of that notification in writing within four months. The producer of prepacked food may start using the geographical indication in the name of the prepacked food following the receipt of that acknowledgment or after the expiry of that time period, whichever occurs first. The recognised producer group may attach to that acknowledgement non-binding information on the use of the geographical indication concerned.
+
+Member States may provide, in line with the Treaties, for additional procedural rules concerning the producers of prepacked food established on their territory.
+
+3\. Without prejudice to paragraph 1, the recognised producer group and the producer of prepacked food may conclude a contractual agreement about the specific technical and visual aspects of how the geographical indication of the ingredient is presented in the name of the prepacked food in labelling, elsewhere than in the list of ingredients, or in advertising material.
+
+4\. This Article shall not apply to spirit drinks.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down additional rules on the use of comparable products as ingredients and the criteria of conferring essential characteristics on the processed products referred to in paragraph 1 of this Article.
+
+#### Article 28
+
+Generic terms
+
+1\. Generic terms shall not be registered as geographical indications.
+
+2\. To establish whether or not a term has become generic, account shall be taken of all relevant factors, in particular:
+
+(a) the existing situation in the areas of consumption;
+
+(b) the relevant national or Union legal acts.
+
+#### Article 29
+
+Homonymous geographical indications
+
+1\. A geographical indication that has been applied for after a wholly or partially homonymous geographical indication had been applied for or protected in the Union, shall not be registered unless there is sufficient distinction in practice between the conditions of local and long-established usage and the presentation of the two wholly or partially homonymous indications, taking into account the need to ensure equitable treatment of the producers concerned and that consumers are not misled as to the true identity or geographical origin of the products.
+
+2\. A wholly or partially homonymous geographical indication which misleads the consumer into believing that products come from another territory shall not be registered even if the name for the actual territory, region or place of origin of the products concerned is accurate.
+
+3\. For the purposes of this Article, a wholly or partially homonymous geographical indication applied for or protected in the Union refers to:
+
+(a) geographical indications that are entered in the Union register of geographical indications;
+
+(b) geographical indications that have been applied for provided that they are subsequently entered in the Union register of geographical indications;
+
+(c) appellations of origin and geographical indications protected in the Union in accordance with Regulation (EU) 2019/1753; and
+
+(d) geographical indications, names of origin and equivalent terms protected pursuant to an international agreement between the Union and one or more third countries.
+
+4\. The Commission shall, by means of an implementing act, remove any geographical indication registered in breach of paragraph 1 or 2 from the Union register. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 30
+
+Trade marks
+
+A name shall not be registered as a geographical indication where, in the light of a trade mark’s reputation and renown and the length of time that it has been used, registration of the name proposed as a geographical indication would be liable to mislead the consumer as to the true identity of the product.
+
+#### Article 31
+
+Relationship between geographical indications and trade marks
+
+1\. An application for the registration of a trade mark the use of which would contravene Article 26 shall be rejected if the application for registration of the trade mark is submitted after the date of submission to the Commission of the application for the registration of the geographical indication.
+
+2\. Union trade marks registered in breach of paragraph 1 shall be declared invalid by the EUIPO and national trade marks registered in breach of paragraph 1 shall be declared invalid by the competent national authorities.
+
+3\. A trade mark the use of which contravenes Article 26, but which has been applied for, registered, or established through use in good faith within the territory of the Union, where that possibility is provided for in the relevant legislation, before the date of submission of the application for registration of the geographical indication to the Commission, may continue to be used and renewed notwithstanding the registration of a geographical indication, provided that no grounds for invalidity or revocation of the trade mark exist under Directive (EU) 2015/2436 or Regulation (EU) 2017/1001. In such cases, the use of the geographical indication, once registered, and that of the relevant trade mark shall be permitted.
+
+4\. For the purposes of paragraphs 1 and 3, where geographical indications were registered in the Union without the submission of an application for registration at Union stage, the date of submission to the Commission of the application for registration of the geographical indication shall be the date of the first day of protection.
+
+5\. Without prejudice to Regulation (EU) No 1169/2011, the guarantee or certification marks referred to in Article 28(4) of Directive (EU) 2015/2436 and collective marks referred to in Article 29(3) of that Directive, as well as collective marks as referred to in Chapter VIII of Regulation (EU) 2017/1001 may be used on labels together with the geographical indication.
+
+#### Article 32
+
+Producer groups
+
+1\. A producer group shall be an association of producers of the same product or products, irrespective of its legal form. It shall meet the following criteria:
+
+(a) it performs tasks under this Regulation, including at least one task specified in paragraph 4;
+
+(b) it is set up voluntarily on the initiative of, and composed of, producers; and
+
+(c) it is organised democratically, controlled and scrutinised by its members.
+
+Applicant producer groups shall meet those criteria no later than on the date of registration of the geographical indication concerned.
+
+A producer of a product designated by a geographical indication shall have the right to join a producer group. Member States may restrict membership to certain categories of producers, taking into account the nature of the product covered by the producer group concerned.
+
+2\. Member States may decide that operators and representatives of economic activities linked to one of the stages of the supply chain of products designated by a geographical indication and stakeholders referred to in Article 157 of Regulation (EU) No 1308/2013 may be members of a producer group, if they have a specific interest in the products covered by the producer group. Those members shall not control the producer group.
+
+3\. Member States may provide for additional rules, in particular as regards the organisation, statutes, functioning and the nature of membership of, and financial contributions to, producer groups.
+
+4\. A producer group may exercise in particular the following tasks:
+
+(a) develop the product specification, apply for registration, amendment and cancellation, and develop activities, including supporting its members with their own control systems to verify and ensure compliance with the product specification concerned;
+
+(b) engage in appropriate action to ensure protection of the geographical indication and of the intellectual property rights that are directly connected with it, including legal actions and filing applications for actions with customs authorities in accordance with Regulation (EU) No 608/2013 and preventing or countering any measures or marketing practices which are, or risk being, detrimental to the reputation or value of the geographical indication concerned;
+
+(c) represent its members in intellectual property enforcement networks and in relation to anti-counterfeiting bodies established at Union or national level;
+
+(d) agree sustainable practices as referred to in Article 7, whether included in the product specification or as a separate initiative, including arrangements for verification of compliance with those practices and assuring adequate publicity for them particularly in an information system provided by the Commission;
+
+(e) take action to improve the performance of the geographical indication, in terms of environmental, social and economic sustainability, including:
+
+(i) development, organisation and conduct of collective marketing and advertising campaigns;
+
+(ii) dissemination of information and promotion activities aiming at communicating the attributes of the product designated by a geographical indication to consumers, including the development of tourism services in the relevant geographical area;
+
+(iii) carrying out analyses into the economic, social or environmental performance, of production, nutritional profile, and organoleptic profile, of the product designated by the geographical indication;
+
+(iv) dissemination of information on the geographical indication, the relevant Union symbol and the abbreviation (PDO or PGI); and
+
+(v) providing advice, training and dissemination of best practice guidelines to current and future producers, including on sustainable practices, in particular those provided for in Article 7, scientific-technical progress, digitalisation, gender mainstreaming and equality and raising awareness among consumers;
+
+(f) combat infringements and suspected fraudulent uses on the markets of products designated by geographical indications that are not in compliance with the product specification, by monitoring and verifying the use of the geographical indication across the internal market and on third country markets where the geographical indications are protected, including on online interfaces, and, as necessary, inform enforcement authorities using confidential systems where available;
+
+(g) take measures to enhance the value of products and, where necessary, take steps to prevent or counter any measures or commercial practices which are, or risk being, detrimental to the image and value of their products, including devaluating marketing practices and lowering prices.
+
+5\. Member States may, within their territory, assist producers in the creation and functioning of producer groups.
+
+6\. If no producer group exists for a product designated by a geographical indication, Member States may exercise the tasks referred to in paragraph 4, points (b), (e) and (f). Member States shall interact with producers and shall assist them with a view to establishing a producer group.
+
+7\. Member States may set up a public register of producer groups for products designated by geographical indications originating in their territory, including authorities referred to in Article 9(2) and producers referred to in Article 9(3). That register shall contain, at least, the name, the legal form and the address of each producer group and all geographical indications covered by the producer group concerned.
+
+#### Article 33
+
+Recognised producer groups
+
+1\. In addition to Article 32, Member States may apply a system of recognition of producer groups. The recognition system may be applied to all producer groups whose members produce a product which is designated by a geographical indication or to producer groups producing specified categories of products designated by geographical indications. A producer group may only be recognised upon request. Within the framework of the recognition system, the authorities referred to in Article 9(2) and producers referred to in Article 9(3) shall be deemed to be recognised producer groups.
+
+2\. Member States that apply the system referred to in paragraph 1 shall provide for the following criteria for a producer group to be recognised:
+
+(a) a certain legal form; and
+
+(b) fulfilment of one of the following conditions:
+
+(i) a minimum share of more than 50 % of the producers of the product as members; or
+
+(ii) a minimum share of members among the producers of the product and a minimum share of more than 50 % of volume or value of marketable production.
+
+Member States may provide for additional criteria, such as:
+
+(a) having at its disposal the necessary financial contributions of its members;
+
+(b) rules on the admission of members, on the termination of membership and on the infringement of membership obligations;
+
+(c) written statutes.
+
+If a producer group ceases to fulfil the recognition criteria, the recognition shall be suspended or withdrawn.
+
+3\. Where a producer group is recognised under the system referred to in paragraph 1 of this Article, the recognised producer group shall be the only one entitled to:
+
+(a) exercise the tasks referred to in Article 32 on behalf of all producers producing the product designated by the geographical indication concerned, without prejudice to the right of individual producers to act to defend their interests;
+
+(b) receive a notification from a producer of prepacked food of the use of the geographical indication of an ingredient in the name of a prepacked food as referred to in Article 27(2);
+
+(c) request binding rules for the regulation of supply of products designated by a geographical indication in accordance with Article 166a(1) of Regulation (EU) No 1308/2013, including for a period of up to six years in accordance with Article 166a(4), point (c), of that Regulation;
+
+(d) establish standard value sharing clauses that may be used in accordance with Article 172a of Regulation (EU) No 1308/2013;
+
+(e) agree on sustainable practices, in accordance with Article 7 of this Regulation;
+
+(f) apply for approval of an amendment in accordance with Article 24(1) of this Regulation;
+
+(g) lodge a request of cancellation in accordance with Article 25(2) of this Regulation.
+
+4\. Member States may also provide that the recognised producer group is the only producer group entitled to exercise the tasks:
+
+(a) referred to in Article 32(4), points (a) and (d) where the effect of those tasks concerns all the producers of the product designated by the geographical indication concerned;
+
+(b) referred to in Article 32(4), points (b), (e) and (f) where those tasks are exercised at international, national or regional level, without prejudice to the possibility of the producers of the product designated by the geographical indication concerned to exercise those tasks at local level.
+
+5\. A producer group established in a Member State not applying a system referred to in paragraph 1 of this Article shall be able to exercise the tasks referred to in Article 32(4), points (b), (c), (e), and (f) in a Member State applying such a system.
+
+6\. Where a geographical indication designates a cross-border geographical area, the authorities of the Member States concerned or, where relevant, of the United Kingdom in respect of Northern Ireland, shall cooperate in designating a single recognised producer group. Where the Member States concerned or, where relevant, the United Kingdom in respect of Northern Ireland, fail to reach an agreement, or where one of the Member States concerned does not apply the system referred to in paragraph 1, no producer group shall be recognised for that geographical indication.
+
+7\. Member States may decide that producer groups recognised under national law before 13 May 2024 are recognised in accordance with paragraph 1.
+
+If such a recognised producer group does not meet the criteria set out in paragraph 2, it shall adapt to the relevant rules by 14 May 2026. If compliance is not achieved by that date, the Member State concerned shall either prolong that deadline once for a maximum of one year, or withdraw the recognition.
+
+8\. If a Member State applies the system of recognised producer groups referred to in paragraph 1, it shall notify the Commission through a digital system of the name and address of the recognised producer group for each registered geographical indication and update that information when a change occurs. The Commission shall make that information publicly available and update the Union register of geographical indications accordingly.
+
+#### Article 34
+
+Associations of producer groups
+
+1\. An association of producer groups may be set up on the initiative of interested producer groups.
+
+2\. An association of producer groups may exercise in particular the following tasks:
+
+(a) participating in consultative bodies;
+
+(b) exchanging information with public authorities on geographical indication policy-related topics;
+
+(c) making recommendations to improve the development of geographical indication policies, in particular with regard to sustainability, the fight against fraud and counterfeiting, the creation of value among operators, competition rules and rural development;
+
+(d) promoting and disseminating best practices among producers on geographical indication policies;
+
+(e) taking part in promotion measures within the meaning of Regulation (EU) No 1144/2014.
+
+#### Article 35
+
+Protection of geographical indication in domain names
+
+1\. Country-code top-level domain name registries established in the Union shall ensure that alternative dispute resolution procedures for domain names recognise registered geographical indications as a right that can be invoked in those procedures.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down the provisions entrusting the EUIPO to establish and manage a domain name information and alert system that would provide the applicant upon the submission of an application for a geographical indication with information about the availability of the geographical indication as a domain name and, on an optional basis, about the registration of a domain name identical to their geographical indication. Country-code top-level domain name registries, established in the Union, may provide the EUIPO with the relevant information and data, on a voluntary basis.
+
+3\. By 14 November 2025 the Commission shall carry out an evaluation of the necessity and feasibility of an information and alert system referred to in paragraph 2, taking into account the functioning of the voluntary provision of information and data referred to in that paragraph, and submit a report with its main findings to the European Parliament and the Council. That report shall be accompanied by a legislative proposal, where appropriate.
+
+#### Article 36
+
+Right to use
+
+A registered geographical indication may be used by any operator marketing a product that complies with the corresponding product specification.
+
+Member States shall ensure that operators are covered by the verification of compliance with the product specification established in accordance with Article 39 of this Regulation or Article 116a of Regulation (EU) No 1308/2013, as applicable.
+
+In the event that a geographical indication consists of or contains the name of the estate of a single applicant producer, that shall not prevent other operators from using the registered geographical indication provided that it is used to designate a product that complies with the product specification.
+
+#### Article 37
+
+Union symbols, indications and abbreviations
+
+1\. Indications, abbreviations and symbols referring to geographical indications shall not be used other than in connection with products produced in compliance with the relevant product specification. They may also be used for information and educational purposes, provided that such use is not likely to mislead the consumer.
+
+2\. The following Union symbols designed to mark and publicise geographical indications shall be established:
+
+(a) a symbol identifying protected designations of origin of agricultural products; and
+
+(b) a symbol identifying protected geographical indications of agricultural products. That symbol may also be used for geographical indications of spirit drinks.
+
+3\. In the case of agricultural products and spirit drinks originating in the Union that are marketed under a geographical indication, the Union symbol associated with it shall appear in the labelling and advertising material. As regards the labelling, the geographical indication shall appear in the same field of vision as the Union symbol.
+
+The labelling requirements laid down in Article 13(1) of Regulation (EU) No 1169/2011 for the presentation of mandatory particulars shall apply to the geographical indication.
+
+4\. By way of derogation from the first subparagraph of paragraph 3, in the case of spirit drinks, Union symbols may be omitted.
+
+5\. Where agricultural products are designated by a geographical indication, an indication of the name of the producer or operator shall appear in the labelling, in the same field of vision as the geographical indication. In that case, the name of the operator shall be understood as the name of the operator responsible for the production stage at which the product to be covered by the geographical indication is obtained, or responsible for carrying out substantial processing of that product.
+
+Where packaging or containers have as their largest surface that described in Article 16(2) of Regulation (EU) No 1169/2011, the indication of the name of the producer or operator shall be voluntary.
+
+Agricultural products that are marketed under a geographical indication, which were labelled before 14 May 2026, may continue to be placed on the market without complying with the obligation to indicate the name of the producer or operator in the same field of vision as the geographical indication, until existing stocks are exhausted.
+
+6\. Where agricultural products or spirit drinks are designated by a geographical indication, the indications ‘protected designation of origin’ or ‘protected geographical indication’ may appear in the labelling and advertising material of agricultural products and the indication ‘geographical indication’ may appear in the labelling and advertising material of spirit drinks, respectively.
+
+The abbreviations ‘PDO’ or ‘PGI’, corresponding to the indications ‘protected designation of origin’ or ‘protected geographical indication’, may appear in the labelling and advertising material of agricultural products designated by a geographical indication.
+
+7\. Indications and abbreviations may be used in the labelling and advertising material of processed products when the geographical indication refers to an ingredient thereof. In that case, the indication or abbreviation shall be placed next to the name of the ingredient that is clearly identified as an ingredient. The Union symbol shall not be placed in association with the name of the food within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+
+8\. Union symbols indicating the protected designation of origin or protected geographical indication and the indications ‘protected designation of origin’, ‘protected geographical indication’ and ‘geographical indication’ and the abbreviations ‘PDO’ or ‘PGI’ as relevant, may appear on the labelling only after the publication of the act of registration of that geographical indication.
+
+9\. The following may also appear in the labelling:
+
+(a) depictions of the geographical area of origin referred to in the product specification; and
+
+(b) text, graphics or symbols referring to the Member State and the region in which that geographical area of origin is located provided that such references do not mislead the consumer as to the true identity or origin of the product.
+
+10\. Union symbols associated with geographical indications entered in the Union register of geographical indications designating products originating in third countries, may appear in the product labelling and advertising material, in which case the symbols shall be used in conformity with paragraph 3.
+
+11\. The Commission shall, by means of implementing acts, specify the technical characteristics of the Union symbols for geographical indications as well as the technical rules on their use and the use of the indications and abbreviations on products marketed under a registered geographical indication, including linguistic versions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+### CHAPTER 4 — Controls and enforcement
+
+#### Article 38
+
+Scope
+
+1\. This Chapter applies to wine, spirit drinks and agricultural products.
+
+However, paragraph 2, first subparagraph, point (a), paragraph 3 and, as regards the verification of compliance with the product specification, paragraph 4 of this Article, and Articles 39, 40, 41 and 44 apply only to spirit drinks and agricultural products.
+
+2\. For the purposes of this Chapter, controls mean:
+
+(a) verification that a product designated by a geographical indication has been produced in compliance with the corresponding product specification; and
+
+(b) verification of the use of geographical indications in the market, including on online interfaces.
+
+For the purposes of this Chapter, enforcement includes any action that aims to ensure compliance with Title II, Chapter 3, of this Regulation.
+
+3\. Competent authorities, delegated bodies and natural persons to which certain official control tasks have been delegated shall comply with the requirements laid down in Regulation (EU) 2017/625.
+
+4\. Notwithstanding Article 116(1) of Regulation (EU) 2017/625, the Commission shall perform the controls, including audits, on geographical indications provided for in Title VI, Chapter I, of Regulation (EU) 2017/625, based on a risk analysis, according to the relative volume of geographical indications in the Member State, the number of checks carried out or the irregularities linked to the verification of compliance or of use of the geographical indications set out in the Member State’s annual report prepared in accordance with Article 113 of Regulation (EU) 2017/625. Article 116(2) and Articles 118 and 120 to 124 of Regulation (EU) 2017/625 shall not apply to controls, including audits, of geographical indications.
+
+#### Article 39
+
+Verification of compliance with the product specification
+
+1\. For the purposes of this Chapter, each operator wishing to participate in any activity covered by the product specification of a product designated by a geographical indication shall notify the competent authorities, delegated bodies or natural persons referred to in paragraph 3, points (a) and (b). Member States shall draw up and keep up-to-date a list of operators who perform activities subject to one or more obligations provided for in the product specification of a product designated by a geographical indication entered in the Union register of geographical indications originating in their territory.
+
+2\. Producers are responsible for own controls that ensure compliance with the product specification of products designated by geographical indications before the product is placed on the market.
+
+3\. In addition to own controls referred to in paragraph 2, prior to placing on the market a product designated by a geographical indication and originating in the Union, verification of compliance with the product specification, shall be carried out by:
+
+(a) one or more competent authorities within the meaning of Article 3, point (3), of Regulation (EU) 2017/625; or
+
+(b) one or more delegated bodies or natural persons to which certain official control tasks have been delegated, as referred to in Title II, Chapter III, of Regulation (EU) 2017/625.
+
+4\. In respect of geographical indications that designate products originating in a third country, the verification of compliance with the product specification, before placing the product concerned on the market, shall be carried out by:
+
+(a) one or more competent authorities designated by the third country; or
+
+(b) one or more product certification bodies.
+
+5\. If an activity covered by the product specification is carried out by one or more operators in a country other than the country of the origin of the geographical indication, provisions for verification of compliance of those operators shall be set out in the product specification. If the relevant operation takes place in the Union, the operators shall notify it to the competent authorities of the Member State where the operation takes place and be subject to verification.
+
+6\. Where a Member State applies Article 9(2), the verification of compliance with the product specification shall be ensured by an authority other than that deemed to be a producer group under that paragraph.
+
+7\. The costs of verification of compliance with the product specification may be borne by the operators which are subject to those controls. Member States may collect fees or charges to cover, in whole or in part, the costs of official controls and other official activities.
+
+8\. The Commission shall adopt implementing acts concerning:
+
+(a) the communication to be made by third countries to the Commission, including on names and addresses of the competent authorities and product certification bodies;
+
+(b) the arrangements for monitoring and verifying the operations provided for in paragraph 5.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 40
+
+Public information on competent authorities, delegated and product certification bodies and natural persons
+
+1\. Member States shall make public the names and addresses of the competent authorities, delegated bodies and natural persons referred to in Article 39(3) for each product designated by a geographical indication and shall keep that information up-to-date.
+
+2\. The Commission shall make public the names and addresses of the competent authorities and product certification bodies referred to in Article 39(4) and shall update that information regularly.
+
+3\. The Commission may establish a digital portal where the names and addresses of the competent authorities, delegated and product certification bodies and natural persons referred to in paragraphs 1 and 2 are made public.
+
+#### Article 41
+
+Accreditation of delegated and product certification bodies
+
+1\. The delegated bodies referred to in Article 39(3), point (b), and the product certification bodies referred to in Article 39(4), point (b), shall comply with and be accredited in accordance with either of the following standards as relevant for the delegated tasks:
+
+(a) Standard EN ISO/IEC 17065 ‘Conformity assessment — Requirements for bodies certifying products, processes and services’; or
+
+(b) Standard EN ISO/IEC 17020 ‘Conformity assessment — Requirements for the operation of various types of bodies performing inspection’.
+
+2\. Accreditation referred to in paragraph 1 shall be performed by a national accreditation body recognised in accordance with Regulation (EC) No 765/2008, that is a signatory of a Multilateral Agreement in the framework of the European Cooperation for Accreditation covering the standards referred to in paragraph 1, or by an accreditation body outside the Union that is a signatory of a Multilateral Recognition Arrangement of the International Accreditation Forum or a Mutual Recognition Arrangement of the International Laboratory Accreditation Cooperation covering the standards referred to in paragraph 1.
+
+#### Article 42
+
+Verification of the use of geographical indications in the market and enforcement
+
+1\. Member States shall designate one or more competent authorities responsible for verification of, and enforcement actions on, the use of geographical indications after the product designated by a geographical indication has been placed on the market, which includes operations such as storage, transit, distribution or offering for sale, including in electronic commerce. Those authorities may be the same as the competent authorities referred to in Article 39(3), point (a), of this Regulation and Article 116a(2) of Regulation (EU) No 1308/2013.
+
+2\. The authorities referred to in paragraph 1 shall, regularly and with appropriate frequency based on risk analysis and on notifications received, including from producer groups, act to ensure compliance with the product specification or with the single document or an equivalent to the single document for the geographical indication concerned, including in online presentations and labelling.
+
+3\. Member States shall take appropriate administrative and judicial steps to prevent or stop the use of names of products or services, including through online interfaces, that are produced, provided or marketed in their territory, or intended for export to third countries, and that contravenes Articles 26 and 27.
+
+4\. Member States shall take appropriate administrative and judicial steps to disable access to domain names that contravene Article 26(2) from their territory.
+
+5\. The authority or authorities designated in accordance with paragraph 1 shall facilitate the information exchange among relevant departments, agencies and bodies, such as police, anti-counterfeiting agencies, customs, intellectual property offices, food law authorities and retail inspectors, to ensure efficient enforcement.
+
+#### Article 43
+
+Obligations of providers on the online market
+
+1\. Any information related to the advertising, promotion and sale of products that is accessible to persons established in the Union and that contravenes the protection of geographical indications provided for in Articles 26 and 27 of this Regulation shall be considered illegal content as defined in Article 3, point (h), of Regulation (EU) 2022/2065.
+
+2\. The relevant national judicial or administrative authorities of the Member States may, in accordance with Article 9 of Regulation (EU) 2022/2065, issue an order to act against illegal content referred to in paragraph 1 of this Article.
+
+3\. In accordance with Article 16 of Regulation (EU) 2022/2065, any individual or entity may notify providers of hosting services of the presence of a specific content that is in breach of Articles 26 and 27 of this Regulation.
+
+#### Article 44
+
+Mutual assistance and exchange of information
+
+1\. Member States shall assist each other for the purpose of carrying out the controls and enforcement provided for in this Chapter in accordance with Title IV of Regulation (EU) 2017/625.
+
+2\. The Commission may, by means of implementing acts, lay down detailed rules on the nature and the type of the information to be exchanged among Member States and the methods for exchanging that information for the purpose of controls and enforcement under this Chapter. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 45
+
+Attestation of compliance with the product specification
+
+1\. An operator whose product, following the verification of compliance referred to in Article 39 of this Regulation and Article 116a of Regulation (EU) No 1308/2013, is found to comply with the product specification of a geographical indication protected in accordance with this Regulation shall, on request, and depending on the system applied in the Member State concerned, be entitled to either:
+
+(a) an attestation, including by digital means, which may be a certified copy, certifying compliance of its production with the product specification; or
+
+(b) inclusion in a list of approved operators established by the competent authority, such as the list provided for in Article 39(1) of this Regulation or Article 116a of Regulation No 1308/2013, as applicable. The relevant extract of the list (‘listing’) shall be made available online to each approved operator.
+
+2\. The attestation of compliance and the listing referred to in paragraph 1, points (a) and (b), respectively, shall be made available on request to enforcement authorities, customs or other authorities in the Union engaged in verifying the use of geographical indications on goods declared for free circulation or placed on the internal market. The operator may make the attestation or the listing available to the public or to any person who may request proof of compliance in the course of business. That attestation and listing shall be updated periodically, based on a risk assessment.
+
+3\. An operator that is no longer accorded the attestation of compliance or that has been removed from the list shall not be allowed to continue to display or use the attestation of compliance or the listing.
+
+4\. The Commission shall, by means of implementing acts, lay down detailed rules on the form and content of the attestation of compliance and listing, the forms in which they are to be made available by the operators or traders for control or in the course of business, as well as on the circumstances under which, and the forms in which, an equivalent attestation is required in the case of products originating in third countries. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+### CHAPTER 5 — Designations of origin and geographical indications of agricultural products
+
+#### Article 46
+
+Designations of origin and geographical indications of agricultural products
+
+1\. A ‘designation of origin’ of an agricultural product is a name which identifies a product:
+
+(a) originating in a specific place, region or, in exceptional cases, a country;
+
+(b) whose quality or characteristics are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors; and
+
+(c) the production steps of which all take place in the defined geographical area.
+
+2\. A ‘geographical indication’ of an agricultural product is a name which identifies a product:
+
+(a) originating in a specific place, region or country;
+
+(b) whose given quality, reputation or other characteristic is essentially attributable to its geographical origin; and
+
+(c) at least one of the production steps of which takes place in the defined geographical area.
+
+3\. Notwithstanding paragraph 1, certain names shall be registered as designations of origin even though the raw materials for the products concerned come from a geographical area larger than, or different from, the defined geographical area, provided that:
+
+(a) the production area of the raw materials is defined;
+
+(b) special conditions for the production of the raw materials exist;
+
+(c) there are control arrangements to ensure that the conditions referred to in point (b) are adhered to; and
+
+(d) the designations of origin concerned were recognised as designations of origin in the country of origin before 1 May 2004.
+
+For the purposes of this paragraph, only live animals, meat and milk may be considered as raw materials.
+
+#### Article 47
+
+Specific rules on sourcing of feed and of raw materials, and on slaughtering
+
+1\. In respect of a product of animal origin, the name of which is registered as a designation of origin, feed shall be sourced entirely from within the defined geographical area.
+
+2\. Insofar as sourcing entirely from within the defined geographical area is not practicable, feed sourced from outside that area may be added, provided that the product quality or characteristics essentially due to the geographical environment are not affected. The amount of feed sourced from outside the defined geographical area shall not exceed 50 % of dry matter on an annual basis.
+
+3\. A temporary amendment, as referred to in Article 24(5), may derogate from paragraph 2 of this Article until the possibility of sourcing feed from within the defined geographical area can be re-established, provided that the link referred to in Article 49(1), point (f)(i), is not entirely voided.
+
+4\. Any restrictions to the origin of raw materials provided in the product specification of a product the name of which is registered as a geographical indication shall be justified with respect to the link referred to in Article 49(1), point (f)(ii).
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down derogations and conditions with regard to the slaughtering of live animals and with regard to the sourcing of raw materials. Those derogations and conditions shall be based on objective criteria and shall take into account animal welfare, quality or usage of raw materials and recognised know-how or natural factors, including constraints affecting agricultural production in certain areas.
+
+#### Article 48
+
+Plant varieties and animal breeds
+
+1\. A name may not be registered as a geographical indication where it conflicts with a plant variety or animal breed denomination and is likely to mislead the consumer as to the true identity or origin of the product designated by the geographical indication or cause confusion between products designated by the geographical indication and the plant variety or animal breed concerned.
+
+2\. The conditions referred to in paragraph 1 shall be assessed in relation to the actual use of the names in conflict, including the use of the plant variety or animal breed denomination outside its area of origin and the use of the denomination of a plant variety.
+
+3\. This Regulation shall not prevent the placing on the market of a product that does not conform with the product specification of a registered geographical indication, the labelling of which includes the name or part of the name of that geographical indication, that contains or comprises the plant variety or animal breed denomination, provided that the following conditions are met:
+
+(a) the product concerned comprises or is derived from the plant variety or animal breed indicated;
+
+(b) consumers are not misled;
+
+(c) the usage of the plant variety or animal breed denomination constitutes fair competition;
+
+(d) the usage of the plant variety or animal breed denomination does not exploit the reputation of the registered geographical indication; and
+
+(e) the production and marketing of the product concerned had spread beyond its area of origin prior to the date of application for registration of the geographical indication.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down rules for determining the use of plant variety and animal breed denominations.
+
+#### Article 49
+
+Product specification
+
+1\. A product specification shall include at least:
+
+(a) the name to be registered as a designation of origin or geographical indication, as it is used in trade or in common language to describe the specific product in the defined geographical area;
+
+(b) a description of the product, including, where relevant, the raw materials, plant varieties and animal breeds concerned, including the commercial designation of the species and its scientific name, as well as the principal physical, chemical, microbiological or organoleptic characteristics of the product;
+
+(c) the definition of the geographical area delimited with regard to the link referred to in point (f)(i) or (ii) of this paragraph, and, where appropriate, details indicating compliance with the requirements of Article 46(3);
+
+(d) evidence that the product originates in the defined geographical area specified in accordance with Article 46(1), point (c), or Article 46(2), point (c);
+
+(e) a description of the method of obtaining the product and, where appropriate, the authentic and unvarying local methods; as well as information concerning packaging, if the applicant producer group so determines and gives sufficient product-specific justification as to why the packaging must take place in the defined geographical area to safeguard quality, to ensure the origin or to ensure control, taking into account Union law, in particular Union law relating to the free movement of goods and the free provision of services;
+
+(f) details establishing the following:
+
+(i) as regards a protected designation of origin, the link between the quality or characteristics of the product and the geographical environment referred to in Article 46(1), point (b). The details concerning human factors of that geographical environment may, where relevant, be limited to a description of the soil and landscape management, cultivation practices or any other relevant human contribution to the maintenance of the natural factors of the geographical environment referred to in that provision;
+
+(ii) as regards a protected geographical indication, the link between a given quality, the reputation or other characteristic of the product and the geographical origin referred to in Article 46(2), point (b).
+
+2\. The product specification may also include:
+
+(a) sustainable practices as set out in Article 7;
+
+(b) any specific labelling rule for the product concerned;
+
+(c) other applicable requirements where provided for by Member States or by a producer group, if applicable, having regard to the fact that such requirements must be objective, non-discriminatory and compatible with Union and national law.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down rules which limit the information contained in the product specification referred to in paragraph 1 of this Article, where such a limitation is necessary to avoid excessively voluminous applications for registration.
+
+4\. The Commission may, by means of implementing acts, lay down rules on the form of the product specification. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 50
+
+Single document
+
+1\. The single document shall comprise:
+
+(a) the main points of the product specification, namely the name to be registered as a designation of origin or geographical indication, a description of the product, including, where appropriate, specific rules concerning packaging and labelling and a concise definition of the geographical area;
+
+(b) a description of the link between the product and the geographical environment or geographical origin referred to in Article 49(1), point (f), including, where appropriate, the specific elements of the product description or production method justifying that link.
+
+2\. The Commission may, by means of implementing acts, lay down the format and the online presentation of the single document provided for in paragraph 1 of this Article and provide for the exclusion or anonymisation of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+## TITLE III — TRADITIONAL SPECIALITIES GUARANTEED AND OPTIONAL QUALITY TERMS
+
+### CHAPTER 1 — Scope
+
+#### Article 51
+
+Scope
+
+This Title applies to agricultural products, including foodstuffs.
+
+For the purposes of this Title, the term ‘agricultural products, including foodstuffs’ covers agricultural products intended for human consumption listed in Annex I to the TFEU as well as foodstuffs and agricultural products listed in Annex II to this Regulation.
+
+This Title shall not apply to spirit drinks or grapevine products as defined in Part II of Annex VII to Regulation (EU) No 1308/2013, with the exception of wine-vinegars.
+
+### CHAPTER 2 — Traditional specialities guaranteed
+
+#### Article 52
+
+Objectives
+
+1\. A scheme for traditional specialities guaranteed (TSGs) is established to safeguard traditional methods of production and recipes by helping:
+
+(a) producers of traditional products in marketing and communicating the value-adding attributes of their traditional recipes and products to consumers;
+
+(b) to generate added value by contributing to fair competition in the marketing chain, a fair income for producers and contributing to the achievement of rural development policy objectives.
+
+2\. The registration and the protection of traditional specialities guaranteed are without prejudice to the obligation of producers to comply with other Union rules, in particular relating to the placing of products on the market, to the single common organisation of the markets, and to food labelling.
+
+3\. Directive (EU) 2015/1535 shall not apply to the scheme for traditional specialities guaranteed laid down in this Regulation.
+
+#### Article 53
+
+Eligibility criteria
+
+1\. A name shall be eligible for registration as a traditional speciality guaranteed where it describes a product that:
+
+(a) results from a mode of production, processing or composition corresponding to traditional practice for that product; or
+
+(b) is produced from raw materials or ingredients traditionally used.
+
+2\. For a name to be registered as a traditional speciality guaranteed, it shall:
+
+(a) have been traditionally used to refer to the product; or
+
+(b) identify the traditional character of the product.
+
+3\. Where, in the opposition procedure under Article 61, it is demonstrated that the name is also used in another Member State or in a third country, in order to distinguish comparable products or products that share an identical or similar name, the decision on registration adopted in accordance with Article 64(3), point (b) may provide that the name of the traditional speciality guaranteed is to be accompanied by the claim ‘made following the tradition of’ immediately followed by the name of a country or a region thereof.
+
+4\. A name shall not be registered if it refers only to claims of a general nature used for a set of products, or to claims provided for in particular Union legislation.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down additional rules clarifying the eligibility criteria laid down in this Article.
+
+#### Article 54
+
+Product specification
+
+1\. A product specification shall include at least:
+
+(a) the product name proposed for registration, in the appropriate language versions;
+
+(b) a description of the product including its main physical, chemical, microbiological or organoleptic characteristics;
+
+(c) a description of the production method that the producers must follow, including, where appropriate, the nature and characteristics of the raw materials or ingredients used, if relevant including the commercial designation of the species involved and its scientific name, and the method by which the product is prepared; and
+
+(d) the key elements establishing the product’s traditional character.
+
+The product specification may also include labelling requirements.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down rules which limit the information contained in the product specification, where such a limitation is necessary to avoid excessively voluminous applications for registration.
+
+3\. The Commission may, by means of implementing acts, lay down rules on the form of the product specification. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 55
+
+Producer groups
+
+1\. A producer group shall be an association, irrespective of its legal form, composed of producers of the same product or products. It shall be set up on the initiative of producers according to the nature of the product or products concerned. A producer group shall operate in a transparent and non-discriminatory manner. It shall also be democratically organised, controlled and scrutinised by its members.
+
+2\. Member States may decide that operators, representatives of economic activities linked to one of the stages of the supply chain of products designated by a traditional speciality guaranteed and stakeholders referred to in Article 157 of Regulation (EU) No 1308/2013 may be members of a producer group, if they have a specific interest in the products covered by the producer group. Those members shall not control the producer group.
+
+3\. A producer group may exercise in particular the following tasks:
+
+(a) develop the product specification, apply for amendment and cancellation, manage the own controls of its members;
+
+(b) take action to improve the performance of the traditional specialities guaranteed;
+
+(c) develop information and promotion activities aiming at communicating the value-adding attributes of the product to the consumer;
+
+(d) take measures to enhance the value of products and, where necessary, take steps to prevent or counter any measures detrimental to the image of those products.
+
+#### Article 56
+
+National stage of the procedure of registration
+
+1\. Applications for the registration of a traditional speciality guaranteed may only be submitted by an applicant producer group. An applicant producer group shall be an association, irrespective of its legal form, composed of producers of the same product the name of which is proposed for registration or of a single producer where the person concerned is the only producer willing to submit an application. Several applicant producer groups from different Member States or third countries may lodge a joint application for registration. Public bodies and other interested parties may assist in the preparation of the application and in the related procedure.
+
+2\. An application for registration of a name as a traditional speciality guaranteed shall comprise:
+
+(a) the name and address of the applicant producer group;
+
+(b) the product specification as provided for in Article 54.
+
+3\. Where the application is prepared by a producer group established in a Member State, the application shall be addressed to the authorities of that Member State. The Member State shall examine the application in order to check that it meets the conditions of the eligibility criteria referred to in Article 53. As part of that examination, the Member State shall conduct a national opposition procedure. If the Member State considers that the requirements of this Chapter are met, it may take a favourable decision and submit an application for registration at Union stage as referred to in Article 58.
+
+4\. The Member State shall ensure that any natural or legal person having a legitimate interest has the opportunity to challenge its decision. The Member State shall also ensure that a favourable decision and the corresponding product specification are published, and shall provide electronic access to the product specification.
+
+#### Article 57
+
+Application for registration at Union stage
+
+1\. An application for the registration at Union stage of a traditional speciality guaranteed shall comprise the product specification as provided for in Article 54 and:
+
+(a) for applications from Member States, a declaration by the Member State to which the application was addressed at the national stage of the procedure of registration, confirming that the application meets the conditions for registration and information on any admissible opposition at national level following the national examination and opposition procedure; or
+
+(b) for applications from third countries, a power of attorney where the applicant is represented by an agent.
+
+2\. The documents referred to in paragraph 1 shall be drafted in one of the official languages of the Union.
+
+3\. A joint application shall include the product specification as provided for in Article 54 and, if relevant, the declaration referred to in paragraph 1, point (b), of this Article from all Member States or third countries concerned. The related national procedures, including the opposition stage, shall be carried out in all the Member States concerned.
+
+4\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of applications for registration, including applications for the registration of a traditional speciality guaranteed concerning more than one national territory. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 58
+
+Submission of the application for registration at Union stage
+
+1\. An application for the registration of a traditional speciality guaranteed at Union stage shall be submitted to the Commission electronically, through a digital system. Following a request from at least one Member State, the Commission shall adapt the digital system to make it suitable to be used in the national part of the procedure for registration of a traditional speciality guaranteed by any Member State who so wishes.
+
+2\. Where the application for registration is prepared by an applicant established in a third country, the application shall be submitted to the Commission, either directly by an applicant, namely a producer group or a single producer, or via the authorities of the third country concerned.
+
+3\. A joint application for registration referred to in Article 56(1) shall be submitted by:
+
+(a) one of the Member States concerned; or
+
+(b) an applicant of a third country, namely a producer group or a single producer, either directly or through the authorities of that third country.
+
+4\. The names for which applications for registration at Union stage have been submitted shall be made public by the Commission through the digital system referred to in paragraph 1.
+
+#### Article 59
+
+Examination by the Commission and publication for opposition
+
+1\. The Commission shall examine any application that it receives in accordance with Article 58(1), (2) and (3) in order to check that it contains the required information and that it contains no manifest errors, taking into account the outcome of the examination and opposition procedure carried out by the Member State concerned. Such examination shall take into account the outcome of the national stage of the procedure carried out by the Member State concerned.
+
+2\. The examination shall not exceed a period of six months from the day of the reception of the application. The Commission may request from the applicant any necessary supplementary information or modification. Where the Commission addresses to the applicant such request, the examination period shall not exceed a period of five months from the day on which the Commission receives the applicant’s reply.
+
+3\. In the event that the Commission does not conclude the examination referred to in paragraph 2 within the prescribed deadlines, it shall inform the applicant of the reasons for the delay in writing indicating the estimated time necessary to conclude it, which shall not exceed one month.
+
+4\. Where, based on the examination carried out in accordance with paragraph 1 of this Article, the Commission considers that the conditions laid down in Articles 53, 54, 56 and 57 are fulfilled, it shall publish the product specification in the Official Journal of the European Union.
+
+#### Article 60
+
+National challenge to an application for registration
+
+1\. Member States shall keep the Commission informed of any national administrative or judicial proceedings that may prejudice the registration of a traditional speciality guaranteed.
+
+2\. The Commission shall be exempted from the obligation to meet the deadlines to perform the examination referred to in Article 59(2) and to inform the Member State of the reasons for the delay where it receives a communication from a Member State, concerning an application for registration in accordance with Article 56, which:
+
+(a) informs the Commission that the decision referred to in Article 56(3) has been invalidated at national level by an immediately applicable but not final administrative or judicial decision; or
+
+(b) requests the Commission to suspend the examination because national administrative or judicial proceedings have been initiated to challenge the validity of the application and the Member State considers that those proceedings are based on valid grounds.
+
+3\. The exemption shall have effect until the Commission is informed by the Member State that the original application has been restored or that the Member State withdraws its request for suspension.
+
+4\. If the favourable decision of a Member State referred to in Article 56(3) has been invalidated in full or in part by a final decision taken by a national court, the Member State shall consider appropriate action such as withdrawal or modification of the application for registration at Union stage, as necessary.
+
+#### Article 61
+
+Union opposition procedure
+
+1\. Within three months from the date of publication of the product specification in the Official Journal of the European Union in accordance with Article 59(4), the authorities of a Member State or of a third country, or a natural or legal person having a legitimate interest and established or resident in a third country, may lodge an opposition with the Commission.
+
+2\. Any natural or legal person having a legitimate interest and established or resident in a Member State other than the one from which the application for registration at Union stage was submitted, may lodge an opposition with the Member State in which it is established or resident, within a time limit permitting that Member State to examine that opposition and to decide whether to lodge it with the Commission in accordance with paragraph 1. Member States may specify that time limit in their national legislation.
+
+3\. An opposition shall state that it opposes the registration of a traditional speciality guaranteed. An opposition that does not contain that statement shall be void.
+
+4\. The Commission shall check the admissibility of the opposition. If the Commission considers that the opposition is admissible it shall, within five months from the date of publication referred to in Article 59(4) of the product specification in the Official Journal of the European Union, invite the opponent and the applicant to engage in appropriate consultations for a reasonable period that shall not exceed three months. The Commission shall transmit to the applicant the opposition and all the documents provided by the opponent. At any time during that period, the Commission may, at the request of the applicant, extend the deadline for the consultations once by a maximum of three months.
+
+5\. The opponent and the applicant shall start consultations without undue delay. They shall provide each other with the relevant information to assess whether the application for registration complies with the conditions of this Chapter.
+
+6\. Within one month from the end of the consultations referred to in paragraph 4, the applicant shall notify the Commission of the result of the consultations, including all the information exchanged, whether agreement was reached with one or all of the opponents, and of any consequent changes to the application. The opponent may also notify the Commission of its position at the end of the consultations.
+
+7\. Where, following the end of the consultations, the product specification published in accordance with Article 59(4) has been modified, the Commission shall repeat its examination of the application for registration as modified. Where the application has been modified in a substantial manner, and the Commission considers that the modified application meets the conditions for registration, it shall publish again the product specification in accordance with that paragraph.
+
+8\. The documents referred to in this Article shall be drafted in one of the official languages of the Union.
+
+9\. The Commission shall finalise its assessment of the application for registration at Union stage, taking into account any request for transitional periods, the outcome of the opposition procedure and any other matters arising subsequently to its examination that may imply a change of the product specification.
+
+10\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down detailed procedures and deadlines for the opposition procedure.
+
+11\. The Commission shall, by means of implementing acts, lay down the format and presentation of oppositions and provide for the exclusion or anonymisation of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 62
+
+Grounds for opposition
+
+1\. An opposition lodged in accordance with Article 61 shall be admissible only if the opponent shows that:
+
+(a) the proposed traditional speciality guaranteed does not comply with the provisions of this Chapter; or
+
+(b) the registration of the name would jeopardise the existence of a wholly or partially identical name.
+
+2\. The admissibility of an opposition shall be assessed in relation to the territory of the Union.
+
+#### Article 63
+
+Transitional periods for the use of traditional specialities guaranteed
+
+1\. For products the designation of which consists of or contains a name that contravenes Article 68, the Commission may, by means of implementing acts, grant a transitional period of up to five years to enable the continued use of the designation under which those products were marketed, provided that an admissible opposition, in accordance with Article 56(3) or Article 61, to the application for registration of the traditional speciality guaranteed whose protection is contravened, shows that such designation has been legally used on the internal market for at least five years preceding the date of the publication of the product specification referred to in Article 59(4).
+
+2\. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 88(2), except those where an admissible opposition is lodged in accordance with Article 56(3), which shall be adopted without applying that examination procedure.
+
+#### Article 64
+
+Commission decision on the application for registration
+
+1\. Where, on the basis of the information available to the Commission from the examination carried out in accordance with Article 59, the Commission considers that any of the conditions referred to in that Article is not fulfilled, it shall, by means of implementing acts, reject the application for registration. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+2\. In the absence of an admissible opposition, the Commission shall, by means of implementing acts and without applying the procedure referred to in Article 88(2), register the traditional speciality guaranteed.
+
+3\. Where the Commission receives an admissible opposition, it shall, following the procedure referred to in Article 61 and taking into account the results thereof:
+
+(a) adopt implementing acts registering the traditional speciality guaranteed without applying the procedure referred to in Article 88(2), if an agreement has been reached, after checking that the agreement complies with Union law, and, if necessary, amend the information published in accordance with Article 59(4) provided that such amendments are not substantial; or
+
+(b) adopt implementing acts deciding on the application for registration, if an agreement has not been reached. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+4\. The implementing acts on registering a traditional speciality guaranteed shall provide for any conditions applicable to the registration and for the republication for information of the product specification published in accordance with Article 59(4) and modified following the opposition procedure in the case of modifications other than those referred to in Article 61(7).
+
+5\. Commission implementing regulations on registration and Commission implementing decisions on rejection shall be published in the Official Journal of the European Union, L series.
+
+#### Article 65
+
+Union register of traditional specialities guaranteed
+
+1\. The Commission shall, by means of implementing acts and without applying the procedure referred to in Article 88(2), establish and maintain a publicly accessible Union register of traditional specialities guaranteed. Files entered in that register after 13 May 2024 shall be in a machine-readable format as defined in Article 2, point (13), of Directive (EU) 2019/1024.
+
+2\. The Commission shall retain, in digital or paper form, documentation related to the registration of a traditional speciality guaranteed. In the event of cancellation of the registration, the Commission shall retain the documentation for 10 years thereafter.
+
+3\. The Commission shall, by means of implementing acts, specify the content and presentation of the Union register of traditional specialities guaranteed. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 66
+
+Amendments to a product specification
+
+1\. A producer group of a product the name of which is a registered traditional speciality guaranteed may apply for the approval of an amendment to the product specification. Applications shall describe and give reasons for the amendments requested.
+
+2\. The procedure for the amendment of a product specification shall follow, mutatis mutandis, the procedure laid down in Articles 56 to 64.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down the rules on the procedure for the amendment of a product specification.
+
+4\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of an application for the amendment of a product specification. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 67
+
+Cancellation of the registration
+
+1\. The Commission may, on its own initiative or on a duly substantiated request by a Member State, a third country or any natural or legal person having a legitimate interest and established or resident in a third country, by means of implementing acts, cancel the registration of a traditional speciality guaranteed in the following cases:
+
+(a) where compliance with the product specification can no longer be ensured;
+
+(b) where no product is placed on the market under the traditional speciality guaranteed for at least the preceding seven consecutive years.
+
+2\. The Commission may also, by means of implementing acts, cancel a registration at the request of the producers of the product marketed under the registered name.
+
+3\. Articles 56 to 62 and Article 64 shall apply mutatis mutandis to the cancellation procedure.
+
+Oppositions shall be admissible only if they show continued commercial reliance on the registered name by an interested natural or legal person.
+
+4\. Before adopting the implementing acts referred to in paragraphs 1 and 2, the Commission shall consult the authorities of the Member State concerned, the authorities of the third country concerned or, where possible, the third country producer which had originally applied for the registration of the traditional speciality guaranteed, unless the cancellation is directly requested by those original applicants. The consultation period shall be at least one month.
+
+5\. The Commission shall, by means of implementing acts, lay down detailed rules on procedures, the form and presentation of the requests for the cancellation of a registration of a traditional speciality guaranteed.
+
+6\. The implementing acts referred to in paragraphs 1, 2 and 5 of this Article shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 68
+
+Restriction on the use of registered traditional specialities guaranteed
+
+1\. Registered traditional specialities guaranteed shall be protected against any misuse, imitation or evocation, even if the protected name is translated, including as regards products used as ingredients, or against any other practice liable to mislead the consumer.
+
+2\. The names used for agricultural products and foodstuffs at national level shall not give rise to confusion with registered traditional specialities guaranteed.
+
+3\. The protection referred to in paragraph 1 shall also apply with regard to products sold through means of distance selling, such as electronic commerce.
+
+4\. The Commission may, by means of implementing acts, lay down procedural requirements for the protection of traditional specialities guaranteed. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down additional rules on the use of traditional specialities guaranteed in the name of processed products with reference to the use of comparable ingredients and the criteria of conferring essential characteristics on the processed products.
+
+#### Article 69
+
+Exceptions for certain uses
+
+The provisions of this Chapter shall be without prejudice to:
+
+(a) the use of terms that are generic in the Union, even if the generic term is part of a name that is protected as a traditional speciality guaranteed;
+
+(b) the placing on the market of products the labelling of which contains or comprises the denomination of a plant variety or animal breed denomination used in good faith;
+
+(c) the application of Union rules or those of Member States governing intellectual property, and in particular those concerning designations of origin and geographical indications and trade marks and rights granted under those rules.
+
+#### Article 70
+
+Union symbol, indication and abbreviation
+
+1\. A Union symbol shall be established for products designated as traditional speciality guaranteed. The indication ‘traditional speciality guaranteed’, the abbreviation ‘TSG’, and the Union symbol referring to the traditional speciality guaranteed may only be used in connection with products produced in compliance with the relevant product specification. They may also be used for information and educational purposes, provided that such use is not likely to mislead the consumer. The indication ‘traditional speciality guaranteed’ or the corresponding abbreviation ‘TSG’ may appear in the labelling.
+
+2\. In the case of products originating in the Union that are marketed as traditional speciality guaranteed registered in accordance with this Regulation, the Union symbol referred to in paragraph 2 shall appear in the labelling and advertising materials together with the registered name in the same field of vision. The labelling requirements set out in Article 13(1) of Regulation (EU) No 1169/2011 for the presentation of mandatory particulars shall apply to the registered traditional speciality guaranteed.
+
+3\. The Union symbol may be used in the labelling of traditional specialities guaranteed which are produced outside the Union.
+
+4\. The Commission shall, by means of implementing acts, specify the technical characteristics of the Union symbol as well as the technical rules on their use and the use of the indication and the abbreviation on products marketed under a traditional speciality guaranteed, including linguistic versions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 71
+
+Participation in the traditional speciality guaranteed scheme
+
+1\. A name registered as a traditional speciality guaranteed may be used by any operator marketing a product that complies with the corresponding product specification.
+
+2\. Member States shall ensure that operators are covered by the verification of compliance with the product specification established in accordance with Article 72.
+
+#### Article 72
+
+Controls and enforcement
+
+1\. Controls of traditional specialities guaranteed mean:
+
+(a) verification that a product designated by a traditional speciality guaranteed has been produced in compliance with the corresponding product specification; and
+
+(b) verification of the use of traditional specialities guaranteed in the market.
+
+2\. For the purposes of this Chapter, enforcement includes any action that aims to ensure compliance with Articles 68, 69 and 70 of this Regulation.
+
+3\. Competent authorities, delegated bodies and natural persons to which certain official control tasks have been delegated shall comply with the respective requirements laid down in Regulation (EU) 2017/625.
+
+4\. Each operator wishing to participate in any activity subject to one or more obligations provided for in the product specification of a product designated by a traditional speciality guaranteed shall notify the competent authorities, delegated bodies or natural persons referred to in paragraph 6, points (a) and (b).
+
+Member States shall draw up and keep up-to-date a list of operators who perform activities subject to one or more obligations provided for in the product specification of a product designated by a traditional speciality guaranteed entered in the Union register of traditional specialities guaranteed in their territory.
+
+5\. Producers shall be responsible for own controls that ensure compliance with the product specification of products designated by traditional specialities guaranteed before the product is placed on the market.
+
+6\. In addition to own controls referred to in paragraph 5, prior to placing on the market a product designated by a traditional speciality guaranteed and originating in the Union, verification of compliance with the product specification shall be carried out by:
+
+(a) one or more competent authorities within the meaning of Article 3, point (3), of Regulation (EU) 2017/625; or
+
+(b) one or more delegated bodies or natural persons to which certain official control tasks have been delegated, as referred to in Title II, Chapter III, of Regulation (EU) 2017/625.
+
+7\. In respect of traditional specialities guaranteed that designate products originating in a third country, the verification of compliance with the product specification before the placing on the market of the product shall be carried out by:
+
+(a) one or more competent authorities designated by the third country; or
+
+(b) one or more product certification bodies.
+
+The costs of verification of compliance with the product specification may be borne by the operators which are subject to those controls. Member States may charge a fee to cover their costs of verification of compliance with the product specification.
+
+8\. Member States shall make public the names and addresses of the competent authorities, delegated bodies and natural persons referred to in paragraph 6 for each product designated by a traditional speciality guaranteed and keep that information up-to-date.
+
+9\. The Commission shall make public the names and addresses of the competent authorities and product certification bodies referred to in paragraph 7 and update that information regularly.
+
+10\. The Commission may establish a digital portal where the name and the address of the competent authorities, delegated and product certification bodies and natural persons referred to in paragraphs 6 and 7 are made public.
+
+11\. The Commission shall adopt implementing acts concerning the communication to be made by the third countries to the Commission, including on names and addresses of the competent authorities and product certification bodies. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+12\. The Commission may, by means of implementing acts and without applying the procedure referred to in Article 88(2), lay down the means by which the name and address of competent authorities and delegated bodies referred to in this Article are to be made public.
+
+#### Article 73
+
+Accreditation of delegated and product certification bodies
+
+1\. The delegated bodies referred to in Article 72(6), point (b), and the product certification bodies referred to in Article 72(7), point (b), shall comply with and be accredited in accordance with either of the following standards as relevant for the delegated tasks:
+
+(a) Standard EN ISO/IEC 17065 ‘Conformity assessment — Requirements for bodies certifying products, processes and services’; or
+
+(b) Standard EN ISO/IEC 17020 ‘Conformity assessment — Requirements for the operation of various types of bodies performing inspection’.
+
+2\. Accreditation referred to in paragraph 1 shall be performed by a national accreditation body recognised in accordance with Regulation (EC) No 765/2008, that is a signatory of a Multilateral Agreement in the framework of the European Cooperation for Accreditation covering the standards referred to in paragraph 1, or by an accreditation body outside the Union that is a signatory of a Multilateral Recognition Arrangement of the International Accreditation Forum or a Mutual Recognition Arrangement of the International Laboratory Accreditation Cooperation covering the standards referred to paragraph 1.
+
+#### Article 74
+
+Verification of the use of traditional speciality guaranteed in the market and enforcement
+
+1\. Member States shall designate one or more competent authorities responsible for verification of, and enforcement actions on, the use of traditional speciality guaranteed after the product designated by a traditional speciality guaranteed has been placed on the market, which includes operations such as storage, transit, distribution or offering for sale, including in electronic commerce. Those authorities may be the same as the competent authorities referred to in Article 72(6), point (a). Verification of the use of traditional specialities guaranteed shall be carried out on the basis of a risk analysis.
+
+2\. The authorities referred to in paragraph 1 shall ensure the compliance with the product specification for the traditional speciality guaranteed concerned.
+
+3\. Member States shall take appropriate administrative and judicial steps to prevent or stop the use of names of products or services that are produced, provided or marketed in their territory, or intended for export to third countries, and that contravenes the protection of traditional specialities guaranteed provided for in Article 68.
+
+4\. The authority or authorities designated in accordance with paragraph 1 shall facilitate the information exchange among relevant departments, agencies and bodies, such as police, anti-counterfeiting agencies, customs, intellectual property offices, food law authorities and retail inspectors, to ensure efficient enforcement.
+
+#### Article 75
+
+Obligations of providers on the online market
+
+1\. Any information related to the advertising, promotion and sale of products that is accessible to persons established in the Union and that contravenes the protection of traditional speciality guaranteed provided for in Article 68 of this Regulation shall be considered illegal content as defined in Article 3, point (h), of Regulation (EU) 2022/2065.
+
+2\. The relevant national judicial or administrative authorities of the Member States may, in accordance with Article 9 of Regulation (EU) 2022/2065, issue an order to act against illegal content referred to in paragraph 1 of this Article.
+
+#### Article 76
+
+Mutual assistance and exchange of information
+
+1\. Member States shall assist each other for the purpose of carrying out the controls and enforcement provided for in this Chapter in accordance with Title IV of Regulation (EU) 2017/625.
+
+2\. The Commission may, by means of implementing acts, lay down detailed rules on the nature and the type of the information to be exchanged among Member States and the methods for exchanging that information for the purpose of controls and enforcement under this Chapter. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 77
+
+Attestation of compliance with the product specification
+
+1\. An operator whose product, following the verification of compliance referred to in Article 72, is found to comply with the product specification of a traditional speciality guaranteed protected in accordance with this Regulation shall, on request, and depending on the system applied in the Member State concerned, be entitled to either:
+
+(a) an attestation, which may be a certified copy, certifying compliance with the product specification; or
+
+(b) inclusion in a list of approved operators established by the competent authority, such as the list provided for in Article 72(4). The relevant extract of the list (‘listing’) shall be made available online to each approved operator.
+
+2\. The attestation of compliance and the listing referred to in paragraph 1, points (a) and (b) respectively, shall be updated periodically, based on a risk assessment.
+
+3\. An operator that is no longer accorded the attestation of compliance or that has been removed from the list shall not continue to display or use the attestation of compliance or the listing.
+
+4\. The Commission shall, by means of implementing acts, lay down detailed rules on the form and content of the attestation of compliance and listing, as well as on the circumstances under which, and the forms in which, they are to be made available by the operators or traders for control or in the course of business, including in the case of an equivalent attestation concerning products originating in third countries. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+### CHAPTER 3 — Optional quality terms
+
+#### Article 78
+
+Objective
+
+A scheme for optional quality terms shall be established in order to facilitate the communication within the internal market on the value-adding characteristics or attributes of agricultural products by their producers.
+
+#### Article 79
+
+National rules
+
+1\. Member States may maintain national rules on optional quality terms and schemes which are not covered by this Regulation, provided that such rules comply with Union law.
+
+2\. The Commission may establish and provide support for a digital system for the inclusion of the terms and schemes referred to in paragraph 1 with a view to fostering knowledge of the products and schemes across the Union. The Commission may, by means of implementing acts, lay down technical details necessary for the notification of the optional quality terms. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+#### Article 80
+
+Optional quality terms
+
+1\. Optional quality terms shall satisfy the following criteria:
+
+(a) they relate to a characteristic of one or more categories of products, or to a farming or processing attribute which applies in specific areas;
+
+(b) their use adds value to the product as compared to products of a similar type; and
+
+(c) they have a Union dimension.
+
+2\. Optional quality terms that describe technical product qualities with the purpose of putting into effect compulsory marketing standards and are not intended to inform consumers about those product qualities shall fall outside the scope of this Chapter.
+
+3\. Optional quality terms shall exclude optional reserved terms which support and complement specific marketing standards determined on a sectoral or product category basis.
+
+4\. In order to take into account the specific characteristics of certain sectors as well as consumer expectations, the Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down detailed rules on the criteria referred to in paragraph 1 of this Article.
+
+5\. The Commission may, by means of implementing acts, lay down rules on forms, procedures or other technical details necessary for the application of this Chapter. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+6\. When adopting delegated and implementing acts in accordance with paragraphs 4 and 5, the Commission shall take account of any relevant international standards.
+
+#### Article 81
+
+Reservation of additional optional quality terms
+
+In order to take account of the expectations of consumers, developments in scientific and technical knowledge, the market situation, and developments in marketing standards and in international standards, the Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by reserving additional optional quality terms and laying down conditions of their use.
+
+#### Article 82
+
+Mountain product
+
+1\. The term ‘mountain product’ shall be established as an optional quality term. It shall be reserved as a compound term. It shall only be used to describe products intended for human consumption listed in Annex I to the TFEU in respect of which:
+
+(a) both the raw materials and the feed for farm animals come essentially from mountain areas;
+
+(b) in the case of processed products, the processing also takes place in mountain areas.
+
+2\. For the purposes of this Article, mountain areas within the Union are those delimited pursuant to Article 32(2) of Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 10 ).
+
+For third-country products, mountain areas shall include areas officially designated as mountain areas by the third country concerned or that meet criteria equivalent to those set out in Article 32(2) of Regulation (EU) No 1305/2013.
+
+3\. In duly justified cases and in order to take into account natural constraints affecting agricultural production in mountain areas, the Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation by laying down derogations from the conditions referred to in paragraph 1 of this Article, in particular the conditions under which raw materials or feed are permitted to come from outside the mountain areas, the conditions under which the processing of products is permitted to take place outside the mountain areas in a geographical area to be defined, and the definition of that geographical area.
+
+4\. In order to take into account natural constraints affecting agricultural production in mountain areas, the Commission is empowered to adopt delegated acts in accordance with Article 87 supplementing this Regulation concerning the establishment of the methods of production and other criteria relevant for the application of the optional quality term referred to in paragraph 1 of this Article.
+
+#### Article 83
+
+Restrictions on use and controls
+
+1\. An optional quality term may only be used to describe products that comply with the corresponding conditions of use.
+
+2\. The provisions of this Chapter shall be without prejudice to the application of Union or national rules governing intellectual property, and in particular those concerning designations of origin and geographical indications and trade marks and rights granted under those rules.
+
+3\. The Commission may, by means of implementing acts, lay down rules for the use of optional quality terms. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2).
+
+4\. Member States shall undertake controls, based on a risk analysis, to ensure compliance with the requirements of this Chapter and, in the event of breach, shall impose appropriate administrative penalties.
+
+## TITLE IV — AMENDMENTS TO REGULATIONS (EU) No 1308/2013, (EU) 2019/787 AND (EU) 2019/1753
+
+#### Article 84
+
+Amendments to Regulation (EU) No 1308/2013
+
+Regulation (EU) No 1308/2013 is amended as follows:
+
+(1) in Article 93(1), point (b) is replaced by the following
+
+‘(b) “geographical indication” means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+
+(i) whose specific quality, reputation or other characteristics are attributable to its geographical origin;
+
+(ii) as originating in a specific place, region or country;
+
+(iii) as having at least 85 % of the grapes used for its production originating exclusively from that geographical area;
+
+(iv) the production of which takes place in that geographical area; and
+
+(v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis;’;
+
+(2) Articles 94 and 95 are replaced by the following:
+
+‘Article 94
+
+Product specification
+
+1\. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication. The product specification shall comprise:
+
+(a) the name to be protected;
+
+(b) the categories of grapevine products;
+
+(c) the type of geographical indication, being a protected designation of origin or a protected geographical indication;
+
+(d) a description of the wine or wines:
+
+(i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+
+(ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+
+(e) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+
+(f) the definition of the geographical area delimited with regard to the link referred to in point (i) of this paragraph;
+
+(g) the maximum yields per hectare;
+
+(h) an indication of the wine grape variety or varieties the wine or wines are obtained from;
+
+(i) the details on the link referred to in Article 93(1), point (a)(i), or, as the case may be, point (b)(i):
+
+(i) as regards a protected designation of origin, the link between the quality or characteristics of the product and the geographical environment referred to in Article 93(1), point (a)(i); the details concerning the human factors of that geographical environment may, where relevant, be limited to a description of the soil, plant material and landscape management, cultivation practices or any other relevant human contribution to the maintenance of the natural factors of the geographical environment referred to in that point;
+
+(ii) as regards a protected geographical indication, the link between a specific quality, the reputation or other characteristic of the product and the geographical origin referred to in Article 93(1), point (b)(i);
+
+(j) other applicable requirements where provided for by Member States or, if applicable, by a recognised producer group, provided that such requirements are objective, non-discriminatory and compatible with Union and national law.
+
+2\. The product specification may contain sustainable practices in accordance with Article 7 of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( *1 ).
+
+3\. Where the wine or wines may be partially de-alcoholised, the product specification shall also contain a description of the partially de-alcoholised wine or wines in accordance with paragraph 1, point (d), mutatis mutandis, and, where applicable, the specific oenological practices used to make the partially de-alcoholised wine or wines, as well as the relevant restrictions on making them.
+
+Article 95
+
+Single document
+
+1\. The single document shall include the following:
+
+(a) the name to be protected as a designation of origin or a geographical indication;
+
+(b) the Member State or third country to which the demarcated area belongs;
+
+(c) the type of geographical indication;
+
+(d) a description of the wine or wines;
+
+(e) the categories of grapevine products;
+
+(f) the maximum yields per hectare;
+
+(g) the indication of the wine grape variety or varieties from which the wine or wines are obtained;
+
+(h) a concise definition of the demarcated geographical area;
+
+(i) a description of the link referred to in Article 94(1), point (i);
+
+(j) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+
+(k) where applicable, the specific rules concerning packaging and labelling as well as any other essential relevant requirements.
+
+2\. Where an application covers different categories of grapevine products, the details bearing out the link referred to in Article 94(1), point (i) shall be demonstrated for each category of grapevine products concerned.
+
+(3) Articles 96 to 99 are deleted;
+
+(4) in Article 100, paragraphs 1 and 2 are deleted;
+
+(5) Articles 101 and 102 are deleted;
+
+(6) Article 103 is replaced by the following:
+
+‘Article 103
+
+Protection
+
+Protected designations of origin and protected geographical indications referred to in this Regulation shall be protected in accordance with Articles 26 to 31, 35 and 36 of Regulation (EU) 2024/1143.’;
+
+(7) Articles 104 to 106 are deleted;
+
+(8) in Article 107, paragraphs 2, 3 and 4 are deleted;
+
+(9) Article 110 is replaced by the following:
+
+‘Article 110
+
+Implementing powers
+
+1\. The Commission may adopt implementing acts laying down rules concerning:
+
+(a) the form of the product specification;
+
+(b) the definition of the format and the online presentation of the single document referred to in Article 95;
+
+(c) the exclusion or anonymisation of personal data.
+
+2\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2) of Regulation (EU) 2024/1143.’;
+
+(10) the following article is inserted:
+
+‘Article 113a
+
+Relationship with designations of origin and geographical indications
+
+1\. The registration of a traditional term the use of which would contravene Article 26 of Regulation (EU) 2024/1143 shall be rejected if the application for registration of the traditional term is submitted after the date of submission to the Commission of the application for the registration of the designation of origin or of the geographical indication.
+
+2\. The Commission shall, by means of implementing acts, declare invalid and remove from the register referred to in Article 25 of Commission Implementing Regulation (EU) 2019/34 ( *2 ) any traditional terms registered in breach of paragraph 1 of this Article.
+
+3\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+(11) in Part II, Title II, Chapter I, Section 2, Subsection 4 is replaced by the following:
+
+### ‘Subsection 4 — Checks to verify compliance with the product specification for designations of origin and geographical indications and to verify conformity with the definition and conditions of the use of protected traditional terms, as well as on the enforcement of conditions for use of traditional terms
+
+Article 116a
+
+Checks
+
+1\. Member States shall take the necessary steps to stop the unlawful use of protected traditional terms referred to in this Regulation.
+
+2\. Member States shall designate the competent authority responsible for verifying compliance with product specifications related to designations of origin and geographical indications and to verify conformity with the definition and conditions of use of traditional terms, as well as for the enforcement of the conditions for use of traditional terms. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council ( *3 ) shall apply.
+
+3\. Within the Union, the competent authority referred to in paragraph 2 of this Article or one or more delegated bodies as defined in Article 3, point (5), of Regulation (EU) 2017/625 operating as a product certification body in accordance with the criteria laid down in Title II, Chapter III, of that Regulation, shall verify compliance with the product specifications annually, both during the wine production and during or after conditioning, and shall verify conformity with the definition provided for in Article 112 of this Regulation and, where relevant, the conditions of use of the traditional term as referred to in Article 115(3) of this Regulation.
+
+Each operator wishing to participate in any activity covered by the product specification of a product designated by a designation of origin or a geographical indication shall notify the competent authority or delegated bodies referred to in the first subparagraph. Member States shall draw up and keep up-to-date a list of operators who perform activities subject to one or more obligations provided for in the product specification of a designation of origin or geographical indication entered in the Union register of geographical indications originating in their territory.
+
+4\. The Commission shall adopt implementing acts concerning:
+
+(a) the communication to be made by the Member States to the Commission;
+
+(b) rules governing the authority responsible for verifying compliance with product specifications related to protected designations of origin and protected geographical indications, including where the geographical area is in a third country, and for verifying conformity with the definition provided for in Article 112 and, where relevant, the conditions of use of traditional terms;
+
+(c) the actions to be implemented by the Member States to prevent the unlawful use of protected traditional terms;
+
+(d) the checks for verification of compliance with the product specification to be carried out by the Member States, including testing.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+(12) in Article 120(1), the following point is added:
+
+‘(h) the abbreviations “PDO” or “PGI”, corresponding to the indications “protected designation of origin” or “protected geographical indication”.’;
+
+(13) Article 166a is amended as follows:
+
+(a) paragraph 1 is replaced by the following:
+
+‘1. Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a producer group as referred to in Article 32 of Regulation (EU) 2024/1143 or a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 46(1) and (2) of Regulation (EU) 2024/1143 or under Article 93(1), points (a) and (b), of this Regulation. Where a recognised producer group referred to in Article 33 of Regulation (EU) 2024/1143 exists, the producer group referred to in Article 32 of that Regulation shall not have that right.’;
+
+(b) in paragraph 4, point (c) is replaced by the following:
+
+‘(c) may be made binding for no more than three years, except at the request of a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143 where that period may be up to six years, but may be renewed after that period following a new request, as referred to in paragraph 1 of this Article;’;
+
+(14) in Article 231, the following paragraph is added:
+
+‘3. Article 113a shall not apply with regard to applications for protection of a traditional term submitted to the Commission before 13 May 2024.’.
+
+#### Article 85
+
+Amendments to Regulation (EU) 2019/787
+
+Regulation (EU) 2019/787 is amended as follows:
+
+(1) in Article 3, points 6 and 7 are deleted;
+
+(2) Articles 16 and 21 are deleted;
+
+(3) in Article 22, the following paragraph is inserted:
+
+‘1a. The product specification may also include sustainable practices.’;
+
+(4) Article 23 is replaced by the following:
+
+‘Article 23
+
+Single document
+
+The single document shall contain the following:
+
+(a) the main points of the product specification, including the name to be protected, the category to which the spirit drink belongs or the term “spirit drink”, the production method, a description of the characteristics of the spirit drink, a concise definition of the geographical area, and, where appropriate, specific rules concerning packaging and labelling;
+
+(b) a description of the link between the spirit drink and its geographical origin as referred to in Article 3, point (4), including, where appropriate, the specific elements of the product description or production method justifying that link.’;
+
+(5) Articles 24 to 33 are deleted;
+
+(6) Article 34 is amended as follows:
+
+(a) paragraphs 1, 2 and 3 are deleted;
+
+(b) paragraph 4 is replaced by the following:
+
+‘The protection of geographical indications under this Regulation shall be without prejudice to protected geographical indications and protected designations of origin of wine products under Regulation (EU) No 1308/2013.’;
+
+(7) Articles 35, 36, 38, 39 and 40 are deleted;
+
+(8) Article 42 is replaced by the following:
+
+‘Article 42
+
+Implementing powers
+
+1\. The Commission may adopt implementing acts concerning:
+
+(a) the form of the product specification;
+
+(b) the definition of the format and the online presentation of the single document provided for in Article 23;
+
+(c) the exclusion or anonymisation of personal data.
+
+2\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2) of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( *4 ).
+
+(9) Annex I is amended as follows:
+
+(a) the following point is inserted:
+
+‘9a. Potato spirit
+
+(a) Potato spirit is a spirit drink produced exclusively by alcoholic fermentation and distillation of potato tubers at less than 94,8 % vol., so that the distillate has an aroma and taste derived from the raw materials used.
+
+(b) The maximum methanol content of potato spirit shall be 1 000 grams per hectolitre of 100 % vol. alcohol.
+
+(c) The minimum alcoholic strength by volume of potato spirit shall be 38 %.
+
+(d) No addition of alcohol, diluted or not, shall take place.
+
+(e) Potato spirit shall not be flavoured.
+
+(f) Potato spirit may only contain added caramel as a means of adjusting the colour.
+
+(g) Potato spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 10 grams of sweetening products per litre, expressed as invert sugar.’;
+
+(b) the following points are inserted:
+
+‘13a. Bread spirit
+
+(a) Bread spirit is a spirit drink produced exclusively by alcoholic fermentation and distillation at less than 86 % vol. of fresh bread, so that the resulting distillate has an aroma and taste derived from the raw materials used.
+
+(b) The minimum alcoholic strength by volume of bread spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Bread spirit shall not be flavoured.
+
+(e) Bread spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Bread spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+13b. Birch sap spirit, maple sap spirit and birch and maple sap spirit
+
+(a) Birch sap spirit, maple sap spirit and birch and maple sap spirit are spirit drinks produced exclusively by the direct distillation of mash obtained from fermentation of fresh birch or maple sap or both under normal pressure to an alcohol content of less than 88 % by volume, so that the resulting distillate has organoleptic characteristics derived from birch or maple sap or both.
+
+(b) The minimum alcoholic strength by volume of birch sap spirit, maple sap spirit and birch and maple sap spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Birch sap spirit, maple sap spirit and birch and maple sap spirit shall not be flavoured.
+
+(e) Birch sap spirit, maple sap spirit and birch and maple sap spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Birch sap spirit, maple sap spirit and birch and maple sap spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.’.
+
+#### Article 86
+
+Amendments to Regulation (EU) 2019/1753
+
+Regulation (EU) 2019/1753 is amended as follows:
+
+(1) in Article 2, the following paragraph is inserted:
+
+‘2a. By way of derogation from paragraph 2, where the request addressed to the Member State referred to in paragraph 2, point (a), comes from a recognised producer group referred to in Article 33 of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( *5 ), that request shall comprise verifiable information on the economic interest in international protection of the geographical indication concerned.
+
+On the basis of the request referred to in the first subparagraph, the Member State concerned shall evaluate the economic interest in international protection of that geographical indication. Where that evaluation establishes such economic interest, that Member State shall request the Commission to register that geographical indication.
+
+(2) in Article 11, the following paragraph is inserted:
+
+‘2a. In respect of each appellation of origin originating in a Member State which is party to the Lisbon Agreement, for a product which does not fall within the scope of Regulation (EU) No 1151/2012 but which falls within the scope of Regulation (EU) 2024/1143, the Member State concerned shall, on the basis of a request by a natural person or legal entity referred to in point (ii) of Article 5(2) of the Geneva Act or by a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act, or on its own initiative, choose to request either:
+
+(a) the international registration of that appellation of origin under the Geneva Act within 12 months from the date of its registration under Regulation (EU) 2024/1143, if that Member State has ratified or acceded to the Geneva Act pursuant to the authorisation referred to in Article 3 of Decision (EU) 2019/1754; or
+
+(b) the cancellation of the registration of that appellation of origin in the International Register.
+
+In the case of the request referred to in point (a) of the first subparagraph, the Member State concerned shall notify the Commission of the choice referred to in that subparagraph within one month from the date of registration of that appellation of origin under Regulation (EU) 2024/1143 and, in the case of the request referred to in point (b) of that subparagraph by 14 May 2025.
+
+In the situations referred to in point (a) of the first subparagraph, the Member State concerned shall, in coordination with the Commission, verify with the International Bureau whether there are any modifications to be made under Rule 7(4) of the Common Regulations for the purpose of registration under the Geneva Act. The Commission shall, by means of an implementing act, authorise the Member State concerned to provide for the necessary modifications and to notify the International Bureau thereof. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+If the request for registration under Regulation (EU) 2024/1143 is refused and related administrative and judicial remedies have been exhausted, or if the request for registration under the Geneva Act has not been made, the Member State concerned shall, without delay, request the cancellation of the registration of that appellation of origin in the International Register.’.
+
+## TITLE V — DELEGATION OF POWERS, PROCEDURAL, TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 87
+
+Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 17(10), Article 24(10), Article 27(5), Article 35(2), Article 47(5), Article 48(4), Article 49(3), Article 53(5), Article 54(2), Article 61(10), Article 66(3), Article 68(5), Article 80(4), Article 81 and Article 82(3) and (4), shall be conferred on the Commission for a period of seven years from 13 May 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the seven-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power related to in the Articles referred to in paragraph 2 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to the Articles referred to in paragraph 2 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 88
+
+Committee procedure
+
+1\. The Commission shall be assisted by the Quality Policy Committee for agricultural products, wine and spirit drinks. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 89
+
+Transitional provision for the classification of geographical indications
+
+The classification referred to in Article 6(1) of geographical indications registered or applied for before 13 May 2024 shall be made in accordance with the table set out in Annex III.
+
+#### Article 90
+
+Transitional provisions for pending applications and registered names
+
+1\. Rules applicable before 13 May 2024 shall continue to apply to applications for registration of geographical indications, applications for the approval of a Union amendment to the product specification and requests for cancellation of geographical indications received by the Commission before 13 May 2024.
+
+2\. However, Articles 17 and 19, Article 20(1) to (5) and Article 21 shall apply to those applications and requests for which the publication, for opposition, of the application for registration of a geographical indication, of the application for approval of a Union amendment to the product specification or of the request for cancellation of a geographical indication in the Official Journal of the European Union takes place after 13 May 2024.
+
+3\. The provision on the extension of the transitional period referred to in Article 20(7) shall also apply in relation to transitional periods still ongoing on 13 May 2024.
+
+4\. Article 29(4) shall not apply to names registered or applied for before 13 May 2024.
+
+5\. Rules applicable before 13 May 2024 shall continue to apply to applications for registration of traditional specialities guaranteed, applications for approval of a Union amendment to the product specification and requests for cancellation of traditional specialities guaranteed received by the Commission before 13 May 2024.
+
+6\. However, Articles 61 to 64 shall apply to those applications and requests for which the publication, for opposition, of the application for registration of a traditional speciality guaranteed, of the application for approval of a Union amendment to the product specification or of the request of cancellation of a traditional speciality guaranteed in the Official Journal of the European Union takes place after 13 May 2024.
+
+#### Article 91
+
+Transitional provisions for the national opposition procedure for geographical indications
+
+The following transitional provisions shall apply:
+
+(a) by way of derogation from Article 84, point (3), of this Regulation, Article 96(3), second subparagraph, of Regulation (EU) No 1308/2013 shall continue to apply until 31 December 2024;
+
+(b) by way of derogation from Article 85, point (5), of this Regulation, Article 24(6), first subparagraph, of Regulation (EU) 2019/787 shall continue to apply until 31 December 2024;
+
+(c) by way of derogation from Article 94 of this Regulation, Article 49(3), first subparagraph, of Regulation (EU) No 1151/2012 shall continue to apply until 31 December 2024.
+
+#### Article 92
+
+Transitional provisions for national geographical indications
+
+1\. Protection of geographical indications for products which do not fall within the scope of Regulation (EU) No 1151/2012 but which fall within the scope of this Regulation, granted under national law, shall cease on 14 May 2025 if no application for registration is submitted to the Commission in accordance with Article 13 of this Regulation.
+
+2\. If an application for the registration of a geographical indication, as referred to in paragraph 1 of this Article, is submitted to the Commission before the date referred to in that paragraph, national protection of that geographical indication shall cease on the date the Commission decides on its registration in accordance with Article 21. Article 10 shall not apply to that application. In the event of rejection of the application for registration, national protection shall continue until all judicial remedies have been exhausted, if relevant. After the national protection has ceased, the Member State concerned shall, without delay, request the cancellation of the registration of the corresponding appellation of origin in the International Register of the International Bureau.
+
+#### Article 93
+
+Continuity of the registers
+
+1\. Each designation of origin and geographical indication of wine and agricultural products, and each geographical indication of spirit drinks, including all relevant data and data concerning pending applications for registration, amendment or cancellation, entered in the respective registers of geographical indications referred to in Article 11 of Regulation (EU) No 1151/2012, Article 104 of Regulation (EU) No 1308/2013 and Article 33 of Regulation (EU) 2019/787, on 12 May 2024 shall be entered automatically in the Union register of geographical indications.
+
+2\. Each traditional speciality guaranteed entered in the register of traditional specialities guaranteed referred to in Article 22 of Regulation (EU) No 1151/2012, including all relevant data and data concerning pending applications for registration, amendment or cancellation, on 12 May 2024, shall be entered automatically in the Union register of traditional specialities guaranteed.
+
+#### Article 94
+
+Repeal
+
+Regulation (EU) No 1151/2012 is repealed.
+
+#### Article 95
+
+Correlation table
+
+References to the repealed Regulation (EU) No 1151/2012 and references to the deleted provisions as referred to in Articles 84 and 85 of this Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV to this Regulation.
+
+#### Article 96
+
+Repeal or replacement of delegated and implementing acts
+
+The Commission shall repeal or replace, as appropriate, the delegated and implementing acts adopted on the basis of Regulation (EU) No 1151/2012 or on the basis of the provisions referred to in Articles 84 and 85 of this Regulation, to the extent necessary to bring them in conformity with the empowerments provided for in this Regulation.
+
+#### Article 97
+
+Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 13 May 2024.
+
+However, Article 10(4) and (5), Article 39(1) and Article 45 shall apply from 1 January 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Agricultural products referred to in Article 5(1), point (c)
+
+**Products**
+
+CN Heading 25.01 (salt)
+
+CN Heading 32.03 (cochineal)
+
+CN Heading 33.01 (essential oils)
+
+CN Headings 35.01 to 35.05 (albuminoidal substances, modified starches, glues)
+
+CN Headings 41.01 to 41.03 (hides and skins)
+
+CN Heading 43.01 (raw furskins)
+
+CN Heading 45.01 (cork)
+
+CN Headings 50.01 to 50.03 (raw silk and silk waste)
+
+CN Headings 51.01 to 51.03 (wool and animal hair)
+
+CN Headings 52.01 to 52.03 (raw cotton, waste and cotton carded or combed)
+
+CN Heading 53.01 (raw flax)
+
+CN Heading 53.02 (raw hemp)
+
+## ANNEX II — Foodstuffs and agricultural products referred to in Article 51
+
+**Traditional specialities guaranteed**
+
+(a) prepared meals,
+
+(b) beer,
+
+(c) chocolate and derived products,
+
+(d) bread,
+
+(e) pastry and cakes,
+
+(f) confectionery,
+
+(g) biscuits and other baker’s wares,
+
+(h) beverages made from plant extracts,
+
+(i) pasta,
+
+(j) salt,
+
+(k) aerated waters,
+
+(l) cork.
+
+## ANNEX III — Table of correspondence concerning classification as referred to in Article 89
+
+| Existing product classification | Combined Nomenclature headings corresponding to the existing product classification |
+| --- | --- |
+| Wines | CN 22 04 |
+| Spirit drinks | CN 22 08 |
+| Class 1.1. Fresh meat (and offal) | CN 02 |
+| Class 1.2. Meat products (cooked, salted, smoked, etc.) | CN 16 |
+| Class 1.3. Cheeses | CN 04 06 |
+| Class 1.4. Other products of animal origin (eggs, honey, various dairy products except butter, etc.) | CN 04 |
+| Class 1.5. Oils and fats (butter, margarine, oil, etc.) | CN 15 |
+| Class 1.6. Fruit, vegetables and cereals fresh or processed | CN 07; CN 08; CN 10; CN 11; CN 20 |
+| Class 1.7. Fresh fish, molluscs, and crustaceans and products derived therefrom | CN 03; CN 16 |
+| Class 1.8. Other products listed in Annex I to the Treaty (spices, etc.) | Class 1.8 covers diverse headings of the combined nomenclature |
+| Class 2.1. Beer | CN 22 03 |
+| Class 2.2. Chocolate and derived products | CN 18 06 |
+| Class 2.3. Bread, pastry, cakes, confectionery, biscuits and other baker’s wares | CN 19 05 |
+| Class 2.4. Beverages made from plant extracts | CN 22 05; CN 22 06 |
+| Class 2.5. Pasta | CN 19 02 |
+| Class 2.6. Salt | CN 25 01 |
+| Class 2.7. Natural gums and resins | CN 13 01 |
+| Class 2.8. Mustard paste | CN 21 03 |
+| Class 2.9. Hay | CN 12 14 90 |
+| Class 2.10. Essential oils | CN 33 01 |
+| Class 2.11. Cork | CN 45 01 |
+| Class 2.12. Cochineal | CN 32 03 |
+| Class 2.13. Flowers and ornamental plants | CN 06 02; CN 06 03; CN 06 04 |
+| Class 2.14. Cotton | CN 52 01 |
+| Class 2.15. Wool | CN 51 01 |
+| Class 2.16. Wicker | CN 14 01 |
+| Class 2.17. Scutched flax | CN 53 01 21 |
+| Class 2.18. Leather | CN 41 |
+| Class 2.19. Fur | CN 43 01 |
+| Class 2.20. Feather | CN 05 05 |
+| Class 2.21. Aromatised wines | CN 22 05 |
+| Class 2.22. Other alcoholic beverages | CN 22 06 |
+| Class 2.23. Beeswax | CN 15 21 90 |
+
+## ANNEX IV — Correlation table
+
+| This Regulation | Regulation (EU) No 1151/2012 | Regulation (EU) No 1308/2013 | Regulation (EU) 2019/787 |
+| --- | --- | --- | --- |
+| Article 1 | — | — | — |
+| Article 2 | Article 3 | Article 101(1), second subparagraph | Article 3(6) and (7) |
+| Article 3 | — | — | — |
+| Article 4 | Articles 1 and 4 | — | — |
+| Article 5 | Article 2 | Article 99(3) | — |
+| Article 6 | — | — | — |
+| Article 7 | — | — | — |
+| Article 8 | — | — | — |
+| Article 9 | Article 49(1) | Article 95, in the version of Regulation (EU) No 1308/2013 in force on 12 May 2024 | Article 24(1), (2), (3) and (4), first subparagraph |
+| Article 10(1) | Article 49(2) | Article 96(2) | Article 24(5), first subparagraph |
+| Article 10(2) | Article 8(1) | Article 94(1), in the version of Regulation (EU) No 1308/2013 in force on 12 May 2024 | Article 23(1), in the version of Regulation (EU) 2019/787 in force on 12 May 2024 |
+| Article 10(3) | Article 49(2) | Article 96(3), first subparagraph | Article 24(5), second subparagraph |
+| Article 10(4) and (5) | Article 49(3), first subparagraph | Article 96(3), second subparagraph | Article 24(6), first subparagraph |
+| Article 10(6) | Article 49(4) | Article 96(5), first subparagraph | Article 24(7), first subparagraph |
+| Article 10(7) | Article 49(4) | — | Article 24(7), second and third subparagraphs |
+| Article 10(8) | — | — | Article 24(4), third subparagraph |
+| Article 11 | Article 9 | — | Article 25 |
+| Article 12 | — | — | — |
+| Article 13(1) | Article 8(2) and Article 49(4), first subparagraph | Article 96(5), second and third subparagraphs | Article 23(2), in the version of Regulation (EU) 2019/787 in force on 12 May 2024, and Article 24(7), first and fourth subparagraphs |
+| Article 13(2) | Article 8(1) | — | Article 23(1), in the version of Regulation (EU) 2019/787 in force on 12 May 2024 |
+| Article 13(3) | — | — | — |
+| Article 13(4) | Article 49(6) | — | Article 24(9) |
+| Article 13(5) | Article 49(7) | — | — |
+| Article 14 | — | — | — |
+| Article 14(2) | Article 49(5) | — | Article 24(8) |
+| Article 14(3) | — | — | Article 24(4), second subparagraph |
+| Article 14(4) | Article 50(1), third subparagraph | Article 97(1) | Article 26(1), second subparagraph |
+| Article 15(1), (2) and (3) | Article 50(1) | Article 97(2) | Article 26(1), first subparagraph |
+| Article 15(4) | Article 50(2) | Article 96(4), first subparagraph | Article 26(2) |
+| Article 16(1) | Article 49(8) | Article 96(6) | — |
+| Article 16(2), (3) and (4) | Article 50(3) | Article 97(3) | — |
+| Article 17 | Article 51 | Article 98 | Article 27 |
+| Article 18 | — | — | — |
+| Article 19 | Article 10 | — | Article 28 |
+| Article 20 | Article 15 | — | Article 29 |
+| Article 21(1) | Article 52(1) | Article 97(4), second subparagraph | Article 30(1) |
+| Article 21(2), (3) and (5) | Article 52(2), (3) and (4) | Article 99(1) and (2) | Article 30(2), (3) and (4) |
+| Article 21(4) | — | — | — |
+| Article 22 | Article 11 | Article 104 | Article 33 |
+| Article 23 | — | — | — |
+| Article 24 | Article 53 | Article 105 | Article 31 |
+| Article 25 | Article 54 | Article 106 | Article 32 |
+| Article 26 | Article 13 | Article 103 | Article 21 |
+| Article 27 | — | — | — |
+| Article 28(1) | Article 6(1) | Article 101(1), first subparagraph | Article 35(1), first subparagraph |
+| Article 28(2) | Article 41(2) | Article 101(1), third subparagraph | Article 35(2), second subparagraph |
+| Article 29(1) and (2) | Article 6(3) | Article 100(1) and (2) | Article 34(1) and (2) |
+| Article 29(3) and (4) | — | — | — |
+| Article 30 | Article 6(4) | Article 101(2) | Article 35(2) |
+| Article 31(1), (2) and (3) | Article 14 | Article 102 | Article 36 |
+| Article 31(4) | — | — | — |
+| Article 31(5) | Article 12(5) | — | — |
+| Article 32 | Article 45 | — | — |
+| Article 33 | — | — | — |
+| Article 34 | — | — | — |
+| Article 35 | — | — | — |
+| Article 36 | Article 12(1) and Article 46 | — | — |
+| Article 37(1) | Article 44 | — | Article 16 |
+| Article 37(2) | Article 12(2) | — | — |
+| Article 37(3) | Article 12(3) | — | — |
+| Article 37(4) | — | — | — |
+| Article 37(5) | — | — | — |
+| Article 37(6) | Article 12(3) | — | — |
+| Article 37(7) | — | — | — |
+| Article 37(8) | — | — | — |
+| Article 37(9) | Article 12(4) | — | — |
+| Article 37(10) | Article 12(6) | — | — |
+| Article 37(11) | Article 12(7) | — | — |
+| Article 38(1) | Article 35 | — | — |
+| Article 38(2) | Article 36(3) | — | — |
+| Article 39(1) | — | — | Article 38(1) |
+| Article 39(3) | Article 37(1) | — | Article 38(2) |
+| Article 39(4) | Article 37(2) | — | Article 38(3) |
+| Article 39(6) | — | — | Article 38(2), second subparagraph |
+| Article 39(7) | — | — | Article 38(2), third subparagraph |
+| Article 40(1) | — | — | Article 38(4), first subparagraph |
+| Article 40(2) | Article 37(3) | — | Article 38(4), second subparagraph |
+| Article 41 | Article 39 | — | Article 38(5) |
+| Article 42(1) | — | — | Article 39(2), second subparagraph |
+| Article 42(2) | — | — | Article 39(1) |
+| Article 42(3) | Article 13(3) | — | Article 39(2), first subparagraph |
+| Article 42(4) and (5) | — | — | — |
+| Article 43 | — | — | — |
+| Article 44 | — | — | — |
+| Article 45 | — | — | — |
+| Article 46(1) | Article 5(1) | — | — |
+| Article 46(2) | Article 5(2) | — | — |
+| Article 46(3) | Article 5(3) | — | — |
+| Article 47(5) | Article 5(4), second and third subparagraphs | — | — |
+| Article 48(1) and (2) | Article 6(2) | — | — |
+| Article 48(3) | Article 42(1) | — | — |
+| Article 48(4) | Article 42(2) | — | — |
+| Article 49 | Article 7 | — | — |
+| Article 50(1) | Article 8(1)(c) | — | — |
+| Article 50(2) | Article 49(7), second subparagraph | — | — |
+| Article 51 | Article 2(1), first subparagraph | — | — |
+| Article 52 | Article 17 | — | — |
+| Article 53 | Article 18 | — | — |
+| Article 54 | Article 19 | — | — |
+| Article 55 | Article 45 | — | — |
+| Article 56(1) | Article 49(1) | — | — |
+| Article 56(2) | Article 20(1) | — | — |
+| Article 56(3) | Article 49(2), (3) and (4), first subparagraph | — | — |
+| Article 56(4) | Article 49(4), second and third subparagraphs | — | — |
+| Article 57(1) | Article 20(1), point (b), and Article 20(2), point (a) | — | — |
+| Article 57(1), point (a) | Article 20(2), point (b) | — | — |
+| Article 57(3) | Article 49(7), second subparagraph | — | — |
+| Article 58 | — | — | — |
+| Article 59 | Article 50(1) and (2) | — | — |
+| Article 60 | Article 50(3) | — | — |
+| Article 61 | Article 51 | — | — |
+| Article 62 | Article 21 | — | — |
+| Article 63 | Article 24a | — | — |
+| Article 64 | Article 52 | — | — |
+| Article 65 | Article 22 | — | — |
+| Article 66 | Article 53 | — | — |
+| Article 67 | Article 54 | — | — |
+| Article 68 | Article 24 | — | — |
+| Article 69 | — | — | — |
+| Article 70 | Article 23(2), (3) and (4) | — | — |
+| Article 71(1) | Article 23(1) | — | — |
+| Article 71(2) | Article 46(1) | — | — |
+| Article 72(1) | Article 36(3) | — | — |
+| Article 72(6) | Article 37(1), first subparagraph | — | — |
+| Article 72(7), first subparagraph | Article 37(2) | — | — |
+| Article 72(7), second subparagraph | Article 37(1), second subparagraph | — | — |
+| Article 72(9) | Article 37(3) | — | — |
+| Article 73 | Article 39 | — | — |
+| Article 74 | — | — | — |
+| Article 75 | — | — | — |
+| Article 76 | — | — | — |
+| Article 77 | — | — | — |
+| Article 78 | Article 27 | — | — |
+| Article 79 | Article 28 | — | — |
+| Article 80 | Article 29 | — | — |
+| Article 81 | Article 30 | — | — |
+| Article 82 | Article 31 | — | — |
+| Article 83(1), (2) and (3) | Article 33 | — | — |
+| Article 83(4) | Article 34 | — | — |
+| Article 84 | — | — | — |
+| Article 85 | — | — | — |
+| Article 86 | — | — | — |
+| Article 87 | Article 56 | — | — |
+| Article 88 | Article 57 | — | — |
+| Article 89 | — | — | — |
+| Article 90 | — | — | — |
+| Article 91 | — | — | — |
+| Article 92 | — | — | — |
+| Article 93 | Article 58 | — | — |
+| Article 94 | — | — | — |
+| Article 95 | — | — | — |
+| Article 96 | Article 59 | — | — |
+| Annex I | Annex I, point I | — | — |
+| Annex II | Annex I, point II | — | — |
+| Annex III | — | — | — |
+
+( ) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1).
+
+( ) Council Directive 2002/53/EC of 13 June 2002 on the common catalogue of varieties of agricultural plant species (OJ L 193, 20.7.2002, p. 1).
+
+( ) Council Directive 2002/55/EC of 13 June 2002 on the marketing of vegetable seed (OJ L 193, 20.7.2002, p. 33).
+
+( ) Council Directive 2008/90/EC of 29 September 2008 on the marketing of fruit plant propagating material and fruit plants intended for fruit production (OJ L 267, 8.10.2008, p. 8).
+
+( ) Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (OJ L 227, 1.9.1994, p. 1).
+
+( ) Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (OJ L 171, 29.6.2016, p. 66).
+
+( ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( ) Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (OJ L 172, 26.6.2019, p. 56).
+
+( ) Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights and repealing Council Regulation (EC) No 1383/2003 (OJ L 181, 29.6.2013, p. 15).
+
+( ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+
+( *1 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj)’;
+
+( *2 ) Commission Implementing Regulation (EU) 2019/34 of 17 October 2018laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks (OJ L 9, 11.1.2019, p. 46).’;
+
+( *3 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).’;
+
+( *4 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj)’;
+
+( *5 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj)’;

@@ -1,0 +1,827 @@
+---
+title: "Regulation (EU) No 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession"
+identifier: "32012R0650"
+eli: "http://data.europa.eu/eli/reg/2012/650/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-07-04
+entry_into_force: 2012-03-28
+last_amended: 2012-07-05
+consolidated_version: "02012R0650-20120705"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0650-20120705"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession
+
+**REGULATION (EU) No 650/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2012**
+
+**on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession**
+
+**REGULATION (EU) No 650/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2012**
+
+**on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+### Article 1 — Scope
+
+1\. This Regulation shall apply to succession to the estates of deceased persons. It shall not apply to revenue, customs or administrative matters.
+
+2\. The following shall be excluded from the scope of this Regulation:
+
+(a) the status of natural persons, as well as family relationships and relationships deemed by the law applicable to such relationships to have comparable effects;
+
+(b) the legal capacity of natural persons, without prejudice to point (c) of Article 23(2) and to Article 26;
+
+(c) questions relating to the disappearance, absence or presumed death of a natural person;
+
+(d) questions relating to matrimonial property regimes and property regimes of relationships deemed by the law applicable to such relationships to have comparable effects to marriage;
+
+(e) maintenance obligations other than those arising by reason of death;
+
+(f) the formal validity of dispositions of property upon death made orally;
+
+(g) property rights, interests and assets created or transferred otherwise than by succession, for instance by way of gifts, joint ownership with a right of survivorship, pension plans, insurance contracts and arrangements of a similar nature, without prejudice to point (i) of Article 23(2);
+
+(h) questions governed by the law of companies and other bodies, corporate or unincorporated, such as clauses in the memoranda of association and articles of association of companies and other bodies, corporate or unincorporated, which determine what will happen to the shares upon the death of the members;
+
+(i) the dissolution, extinction and merger of companies and other bodies, corporate or unincorporated;
+
+(j) the creation, administration and dissolution of trusts;
+
+(k) the nature of rights in rem; and
+
+(l) any recording in a register of rights in immovable or movable property, including the legal requirements for such recording, and the effects of recording or failing to record such rights in a register.
+
+### Article 2 — Competence in matters of succession within the Member States
+
+This Regulation shall not affect the competence of the authorities of the Member States to deal with matters of succession.
+
+### Article 3 — Definitions
+
+1\. For the purposes of this Regulation:
+
+(a) ‘succession’ means succession to the estate of a deceased person and covers all forms of transfer of assets, rights and obligations by reason of death, whether by way of a voluntary transfer under a disposition of property upon death or a transfer through intestate succession;
+
+(b) ‘agreement as to succession’ means an agreement, including an agreement resulting from mutual wills, which, with or without consideration, creates, modifies or terminates rights to the future estate or estates of one or more persons party to the agreement;
+
+(c) ‘joint will’ means a will drawn up in one instrument by two or more persons;
+
+(d) ‘disposition of property upon death’ means a will, a joint will or an agreement as to succession;
+
+(e) ‘Member State of origin’ means the Member State in which the decision has been given, the court settlement approved or concluded, the authentic instrument established or the European Certificate of Succession issued;
+
+(f) ‘Member State of enforcement’ means the Member State in which the declaration of enforceability or the enforcement of the decision, court settlement or authentic instrument is sought;
+
+(g) ‘decision’ means any decision in a matter of succession given by a court of a Member State, whatever the decision may be called, including a decision on the determination of costs or expenses by an officer of the court;
+
+(h) ‘court settlement’ means a settlement in a matter of succession which has been approved by a court or concluded before a court in the course of proceedings;
+
+(i) ‘authentic instrument’ means a document in a matter of succession which has been formally drawn up or registered as an authentic instrument in a Member State and the authenticity of which:
+
+(i) relates to the signature and the content of the authentic instrument; and
+
+(ii) has been established by a public authority or other authority empowered for that purpose by the Member State of origin.
+
+2\. For the purposes of this Regulation, the term ‘court’ means any judicial authority and all other authorities and legal professionals with competence in matters of succession which exercise judicial functions or act pursuant to a delegation of power by a judicial authority or act under the control of a judicial authority, provided that such other authorities and legal professionals offer guarantees with regard to impartiality and the right of all parties to be heard and provided that their decisions under the law of the Member State in which they operate:
+
+(a) may be made the subject of an appeal to or review by a judicial authority; and
+
+(b) have a similar force and effect as a decision of a judicial authority on the same matter.
+
+The Member States shall notify the Commission of the other authorities and legal professionals referred to in the first subparagraph in accordance with Article 79.
+
+## CHAPTER II — JURISDICTION
+
+### Article 4 — General jurisdiction
+
+The courts of the Member State in which the deceased had his habitual residence at the time of death shall have jurisdiction to rule on the succession as a whole.
+
+### Article 5 — Choice-of-court agreement
+
+1\. Where the law chosen by the deceased to govern his succession pursuant to Article 22 is the law of a Member State, the parties concerned may agree that a court or the courts of that Member State are to have exclusive jurisdiction to rule on any succession matter.
+
+2\. Such a choice-of-court agreement shall be expressed in writing, dated and signed by the parties concerned. Any communication by electronic means which provides a durable record of the agreement shall be deemed equivalent to writing.
+
+### Article 6 — Declining of jurisdiction in the event of a choice of law
+
+Where the law chosen by the deceased to govern his succession pursuant to Article 22 is the law of a Member State, the court seised pursuant to Article 4 or Article 10:
+
+(a) may, at the request of one of the parties to the proceedings, decline jurisdiction if it considers that the courts of the Member State of the chosen law are better placed to rule on the succession, taking into account the practical circumstances of the succession, such as the habitual residence of the parties and the location of the assets; or
+
+(b) shall decline jurisdiction if the parties to the proceedings have agreed, in accordance with Article 5, to confer jurisdiction on a court or the courts of the Member State of the chosen law.
+
+### Article 7 — Jurisdiction in the event of a choice of law
+
+The courts of a Member State whose law had been chosen by the deceased pursuant to Article 22 shall have jurisdiction to rule on the succession if:
+
+(a) a court previously seised has declined jurisdiction in the same case pursuant to Article 6;
+
+(b) the parties to the proceedings have agreed, in accordance with Article 5, to confer jurisdiction on a court or the courts of that Member State; or
+
+(c) the parties to the proceedings have expressly accepted the jurisdiction of the court seised.
+
+### Article 8 — Closing of own-motion proceedings in the event of a choice of law
+
+A court which has opened succession proceedings of its own motion under Article 4 or Article 10 shall close the proceedings if the parties to the proceedings have agreed to settle the succession amicably out of court in the Member State whose law had been chosen by the deceased pursuant to Article 22.
+
+### Article 9 — Jurisdiction based on appearance
+
+1\. Where, in the course of proceedings before a court of a Member State exercising jurisdiction pursuant to Article 7, it appears that not all the parties to those proceedings were party to the choice-of-court agreement, the court shall continue to exercise jurisdiction if the parties to the proceedings who were not party to the agreement enter an appearance without contesting the jurisdiction of the court.
+
+2\. If the jurisdiction of the court referred to in paragraph 1 is contested by parties to the proceedings who were not party to the agreement, the court shall decline jurisdiction.
+
+In that event, jurisdiction to rule on the succession shall lie with the courts having jurisdiction pursuant to Article 4 or Article 10.
+
+### Article 10 — Subsidiary jurisdiction
+
+1\. Where the habitual residence of the deceased at the time of death is not located in a Member State, the courts of a Member State in which assets of the estate are located shall nevertheless have jurisdiction to rule on the succession as a whole in so far as:
+
+(a) the deceased had the nationality of that Member State at the time of death; or, failing that,
+
+(b) the deceased had his previous habitual residence in that Member State, provided that, at the time the court is seised, a period of not more than five years has elapsed since that habitual residence changed.
+
+2\. Where no court in a Member State has jurisdiction pursuant to paragraph 1, the courts of the Member State in which assets of the estate are located shall nevertheless have jurisdiction to rule on those assets.
+
+### Article 11 — Forum necessitatis
+
+Where no court of a Member State has jurisdiction pursuant to other provisions of this Regulation, the courts of a Member State may, on an exceptional basis, rule on the succession if proceedings cannot reasonably be brought or conducted or would be impossible in a third State with which the case is closely connected.
+
+The case must have a sufficient connection with the Member State of the court seised.
+
+### Article 12 — Limitation of proceedings
+
+1\. Where the estate of the deceased comprises assets located in a third State, the court seised to rule on the succession may, at the request of one of the parties, decide not to rule on one or more of such assets if it may be expected that its decision in respect of those assets will not be recognised and, where applicable, declared enforceable in that third State.
+
+2\. Paragraph 1 shall not affect the right of the parties to limit the scope of the proceedings under the law of the Member State of the court seised.
+
+### Article 13 — Acceptance or waiver of the succession, of a legacy or of a reserved share
+
+In addition to the court having jurisdiction to rule on the succession pursuant to this Regulation, the courts of the Member State of the habitual residence of any person who, under the law applicable to the succession, may make, before a court, a declaration concerning the acceptance or waiver of the succession, of a legacy or of a reserved share, or a declaration designed to limit the liability of the person concerned in respect of the liabilities under the succession, shall have jurisdiction to receive such declarations where, under the law of that Member State, such declarations may be made before a court.
+
+### Article 14 — Seising of a court
+
+For the purposes of this Chapter, a court shall be deemed to be seised:
+
+(a) at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the applicant has not subsequently failed to take the steps he was required to take to have service effected on the defendant;
+
+(b) if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the applicant has not subsequently failed to take the steps he was required to take to have the document lodged with the court; or
+
+(c) if the proceedings are opened of the court’s own motion, at the time when the decision to open the proceedings is taken by the court, or, where such a decision is not required, at the time when the case is registered by the court.
+
+### Article 15 — Examination as to jurisdiction
+
+Where a court of a Member State is seised of a succession matter over which it has no jurisdiction under this Regulation, it shall declare of its own motion that it has no jurisdiction.
+
+### Article 16 — Examination as to admissibility
+
+1\. Where a defendant habitually resident in a State other than the Member State where the action was brought does not enter an appearance, the court having jurisdiction shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in time to arrange for his defence, or that all necessary steps have been taken to that end.
+
+2\. Article 19 of Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) ( 9 ) shall apply instead of paragraph 1 of this Article if the document instituting the proceedings or an equivalent document had to be transmitted from one Member State to another pursuant to that Regulation.
+
+3\. Where Regulation (EC) No 1393/2007 is not applicable, Article 15 of the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters shall apply if the document instituting the proceedings or an equivalent document had to be transmitted abroad pursuant to that Convention.
+
+### Article 17 — Lis pendens
+
+1\. Where proceedings involving the same cause of action and between the same parties are brought in the courts of different Member States, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+
+2\. Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.
+
+### Article 18 — Related actions
+
+1\. Where related actions are pending in the courts of different Member States, any court other than the court first seised may stay its proceedings.
+
+2\. Where those actions are pending at first instance, any court other than the court first seised may also, on the application of one of the parties, decline jurisdiction if the court first seised has jurisdiction over the actions in question and its law permits the consolidation thereof.
+
+3\. For the purposes of this Article, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable decisions resulting from separate proceedings.
+
+### Article 19 — Provisional, including protective, measures
+
+Application may be made to the courts of a Member State for such provisional, including protective, measures as may be available under the law of that State, even if, under this Regulation, the courts of another Member State have jurisdiction as to the substance of the matter.
+
+## CHAPTER III — APPLICABLE LAW
+
+### Article 20 — Universal application
+
+Any law specified by this Regulation shall be applied whether or not it is the law of a Member State.
+
+### Article 21 — General rule
+
+1\. Unless otherwise provided for in this Regulation, the law applicable to the succession as a whole shall be the law of the State in which the deceased had his habitual residence at the time of death.
+
+2\. Where, by way of exception, it is clear from all the circumstances of the case that, at the time of death, the deceased was manifestly more closely connected with a State other than the State whose law would be applicable under paragraph 1, the law applicable to the succession shall be the law of that other State.
+
+### Article 22 — Choice of law
+
+1\. A person may choose as the law to govern his succession as a whole the law of the State whose nationality he possesses at the time of making the choice or at the time of death.
+
+A person possessing multiple nationalities may choose the law of any of the States whose nationality he possesses at the time of making the choice or at the time of death.
+
+2\. The choice shall be made expressly in a declaration in the form of a disposition of property upon death or shall be demonstrated by the terms of such a disposition.
+
+3\. The substantive validity of the act whereby the choice of law was made shall be governed by the chosen law.
+
+4\. Any modification or revocation of the choice of law shall meet the requirements as to form for the modification or revocation of a disposition of property upon death.
+
+### Article 23 — The scope of the applicable law
+
+1\. The law determined pursuant to Article 21 or Article 22 shall govern the succession as a whole.
+
+2\. That law shall govern in particular:
+
+(a) the causes, time and place of the opening of the succession;
+
+(b) the determination of the beneficiaries, of their respective shares and of the obligations which may be imposed on them by the deceased, and the determination of other succession rights, including the succession rights of the surviving spouse or partner;
+
+(c) the capacity to inherit;
+
+(d) disinheritance and disqualification by conduct;
+
+(e) the transfer to the heirs and, as the case may be, to the legatees of the assets, rights and obligations forming part of the estate, including the conditions and effects of the acceptance or waiver of the succession or of a legacy;
+
+(f) the powers of the heirs, the executors of the wills and other administrators of the estate, in particular as regards the sale of property and the payment of creditors, without prejudice to the powers referred to in Article 29(2) and (3);
+
+(g) liability for the debts under the succession;
+
+(h) the disposable part of the estate, the reserved shares and other restrictions on the disposal of property upon death as well as claims which persons close to the deceased may have against the estate or the heirs;
+
+(i) any obligation to restore or account for gifts, advancements or legacies when determining the shares of the different beneficiaries; and
+
+(j) the sharing-out of the estate.
+
+### Article 24 — Dispositions of property upon death other than agreements as to succession
+
+1\. A disposition of property upon death other than an agreement as to succession shall be governed, as regards its admissibility and substantive validity, by the law which, under this Regulation, would have been applicable to the succession of the person who made the disposition if he had died on the day on which the disposition was made.
+
+2\. Notwithstanding paragraph 1, a person may choose as the law to govern his disposition of property upon death, as regards its admissibility and substantive validity, the law which that person could have chosen in accordance with Article 22 on the conditions set out therein.
+
+3\. Paragraph 1 shall apply, as appropriate, to the modification or revocation of a disposition of property upon death other than an agreement as to succession. In the event of a choice of law in accordance with paragraph 2, the modification or revocation shall be governed by the chosen law.
+
+### Article 25 — Agreements as to succession
+
+1\. An agreement as to succession regarding the succession of one person shall be governed, as regards its admissibility, its substantive validity and its binding effects between the parties, including the conditions for its dissolution, by the law which, under this Regulation, would have been applicable to the succession of that person if he had died on the day on which the agreement was concluded.
+
+2\. An agreement as to succession regarding the succession of several persons shall be admissible only if it is admissible under all the laws which, under this Regulation, would have governed the succession of all the persons involved if they had died on the day on which the agreement was concluded.
+
+An agreement as to succession which is admissible pursuant to the first subparagraph shall be governed, as regards its substantive validity and its binding effects between the parties, including the conditions for its dissolution, by the law, from among those referred to in the first subparagraph, with which it has the closest connection.
+
+3\. Notwithstanding paragraphs 1 and 2, the parties may choose as the law to govern their agreement as to succession, as regards its admissibility, its substantive validity and its binding effects between the parties, including the conditions for its dissolution, the law which the person or one of the persons whose estate is involved could have chosen in accordance with Article 22 on the conditions set out therein.
+
+### Article 26 — Substantive validity of dispositions of property upon death
+
+1\. For the purposes of Articles 24 and 25 the following elements shall pertain to substantive validity:
+
+(a) the capacity of the person making the disposition of property upon death to make such a disposition;
+
+(b) the particular causes which bar the person making the disposition from disposing in favour of certain persons or which bar a person from receiving succession property from the person making the disposition;
+
+(c) the admissibility of representation for the purposes of making a disposition of property upon death;
+
+(d) the interpretation of the disposition;
+
+(e) fraud, duress, mistake and any other questions relating to the consent or intention of the person making the disposition.
+
+2\. Where a person has the capacity to make a disposition of property upon death under the law applicable pursuant to Article 24 or Article 25, a subsequent change of the law applicable shall not affect his capacity to modify or revoke such a disposition.
+
+### Article 27 — Formal validity of dispositions of property upon death made in writing
+
+1\. A disposition of property upon death made in writing shall be valid as regards form if its form complies with the law:
+
+(a) of the State in which the disposition was made or the agreement as to succession concluded;
+
+(b) of a State whose nationality the testator or at least one of the persons whose succession is concerned by an agreement as to succession possessed, either at the time when the disposition was made or the agreement concluded, or at the time of death;
+
+(c) of a State in which the testator or at least one of the persons whose succession is concerned by an agreement as to succession had his domicile, either at the time when the disposition was made or the agreement concluded, or at the time of death;
+
+(d) of the State in which the testator or at least one of the persons whose succession is concerned by an agreement as to succession had his habitual residence, either at the time when the disposition was made or the agreement concluded, or at the time of death; or
+
+(e) in so far as immovable property is concerned, of the State in which that property is located.
+
+The determination of the question whether or not the testator or any person whose succession is concerned by the agreement as to succession had his domicile in a particular State shall be governed by the law of that State.
+
+2\. Paragraph 1 shall also apply to dispositions of property upon death modifying or revoking an earlier disposition. The modification or revocation shall also be valid as regards form if it complies with any one of the laws according to the terms of which, under paragraph 1, the disposition of property upon death which has been modified or revoked was valid.
+
+3\. For the purposes of this Article, any provision of law which limits the permitted forms of dispositions of property upon death by reference to the age, nationality or other personal conditions of the testator or of the persons whose succession is concerned by an agreement as to succession shall be deemed to pertain to matters of form. The same rule shall apply to the qualifications to be possessed by any witnesses required for the validity of a disposition of property upon death.
+
+### Article 28 — Validity as to form of a declaration concerning acceptance or waiver
+
+A declaration concerning the acceptance or waiver of the succession, of a legacy or of a reserved share, or a declaration designed to limit the liability of the person making the declaration, shall be valid as to form where it meets the requirements of:
+
+(a) the law applicable to the succession pursuant to Article 21 or Article 22; or
+
+(b) the law of the State in which the person making the declaration has his habitual residence.
+
+### Article 29 — Special rules on the appointment and powers of an administrator of the estate in certain situations
+
+1\. Where the appointment of an administrator is mandatory or mandatory upon request under the law of the Member State whose courts have jurisdiction to rule on the succession pursuant to this Regulation and the law applicable to the succession is a foreign law, the courts of that Member State may, when seised, appoint one or more administrators of the estate under their own law, subject to the conditions laid down in this Article.
+
+The administrator(s) appointed pursuant to this paragraph shall be the person(s) entitled to execute the will of the deceased and/or to administer the estate under the law applicable to the succession. Where that law does not provide for the administration of the estate by a person who is not a beneficiary, the courts of the Member State in which the administrator is to be appointed may appoint a third-party administrator under their own law if that law so requires and there is a serious conflict of interests between the beneficiaries or between the beneficiaries and the creditors or other persons having guaranteed the debts of the deceased, a disagreement amongst the beneficiaries on the administration of the estate or a complex estate to administer due to the nature of the assets.
+
+The administrator(s) appointed pursuant to this paragraph shall be the only person(s) entitled to exercise the powers referred to in paragraph 2 or 3.
+
+2\. The person(s) appointed as administrator(s) pursuant to paragraph 1 shall exercise the powers to administer the estate which he or they may exercise under the law applicable to the succession. The appointing court may, in its decision, lay down specific conditions for the exercise of such powers in accordance with the law applicable to the succession.
+
+Where the law applicable to the succession does not provide for sufficient powers to preserve the assets of the estate or to protect the rights of the creditors or of other persons having guaranteed the debts of the deceased, the appointing court may decide to allow the administrator(s) to exercise, on a residual basis, the powers provided for to that end by its own law and may, in its decision, lay down specific conditions for the exercise of such powers in accordance with that law.
+
+When exercising such residual powers, however, the administrator(s) shall respect the law applicable to the succession as regards the transfer of ownership of succession property, liability for the debts under the succession, the rights of the beneficiaries, including, where applicable, the right to accept or to waive the succession, and, where applicable, the powers of the executor of the will of the deceased.
+
+3\. Notwithstanding paragraph 2, the court appointing one or more administrators pursuant to paragraph 1 may, by way of exception, where the law applicable to the succession is the law of a third State, decide to vest in those administrators all the powers of administration provided for by the law of the Member State in which they are appointed.
+
+When exercising such powers, however, the administrators shall respect, in particular, the determination of the beneficiaries and their succession rights, including their rights to a reserved share or claim against the estate or the heirs under the law applicable to the succession.
+
+### Article 30 — Special rules imposing restrictions concerning or affecting the succession in respect of certain assets
+
+Where the law of the State in which certain immovable property, certain enterprises or other special categories of assets are located contains special rules which, for economic, family or social considerations, impose restrictions concerning or affecting the succession in respect of those assets, those special rules shall apply to the succession in so far as, under the law of that State, they are applicable irrespective of the law applicable to the succession.
+
+### Article 31 — Adaptation of rights in rem
+
+Where a person invokes a right in rem to which he is entitled under the law applicable to the succession and the law of the Member State in which the right is invoked does not know the right in rem in question, that right shall, if necessary and to the extent possible, be adapted to the closest equivalent right in rem under the law of that State, taking into account the aims and the interests pursued by the specific right in rem and the effects attached to it.
+
+### Article 32 — Commorientes
+
+Where two or more persons whose successions are governed by different laws die in circumstances in which it is uncertain in what order their deaths occurred, and where those laws provide differently for that situation or make no provision for it at all, none of the deceased persons shall have any rights to the succession of the other or others.
+
+### Article 33 — Estate without a claimant
+
+To the extent that, under the law applicable to the succession pursuant to this Regulation, there is no heir or legatee for any assets under a disposition of property upon death and no natural person is an heir by operation of law, the application of the law so determined shall not preclude the right of a Member State or of an entity appointed for that purpose by that Member State to appropriate under its own law the assets of the estate located on its territory, provided that the creditors are entitled to seek satisfaction of their claims out of the assets of the estate as a whole.
+
+### Article 34 — Renvoi
+
+1\. The application of the law of any third State specified by this Regulation shall mean the application of the rules of law in force in that State, including its rules of private international law in so far as those rules make a renvoi:
+
+(a) to the law of a Member State; or
+
+(b) to the law of another third State which would apply its own law.
+
+2\. No renvoi shall apply with respect to the laws referred to in Article 21(2), Article 22, Article 27, point (b) of Article 28 and Article 30.
+
+### Article 35 — Public policy (ordre public)
+
+The application of a provision of the law of any State specified by this Regulation may be refused only if such application is manifestly incompatible with the public policy (ordre public) of the forum.
+
+### Article 36 — States with more than one legal system – territorial conflicts of laws
+
+1\. Where the law specified by this Regulation is that of a State which comprises several territorial units each of which has its own rules of law in respect of succession, the internal conflict-of-laws rules of that State shall determine the relevant territorial unit whose rules of law are to apply.
+
+2\. In the absence of such internal conflict-of-laws rules:
+
+(a) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to provisions referring to the habitual residence of the deceased, be construed as referring to the law of the territorial unit in which the deceased had his habitual residence at the time of death;
+
+(b) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to provisions referring to the nationality of the deceased, be construed as referring to the law of the territorial unit with which the deceased had the closest connection;
+
+(c) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to any other provisions referring to other elements as connecting factors, be construed as referring to the law of the territorial unit in which the relevant element is located.
+
+3\. Notwithstanding paragraph 2, any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the relevant law pursuant to Article 27, in the absence of internal conflict-of-laws rules in that State, be construed as referring to the law of the territorial unit with which the testator or the persons whose succession is concerned by the agreement as to succession had the closest connection.
+
+### Article 37 — States with more than one legal system – inter-personal conflicts of laws
+
+In relation to a State which has two or more systems of law or sets of rules applicable to different categories of persons in respect of succession, any reference to the law of that State shall be construed as referring to the system of law or set of rules determined by the rules in force in that State. In the absence of such rules, the system of law or the set of rules with which the deceased had the closest connection shall apply.
+
+### Article 38 — Non-application of this Regulation to internal conflicts of laws
+
+A Member State which comprises several territorial units each of which has its own rules of law in respect of succession shall not be required to apply this Regulation to conflicts of laws arising between such units only.
+
+## CHAPTER IV — RECOGNITION, ENFORCEABILITY AND ENFORCEMENT OF DECISIONS
+
+### Article 39 — Recognition
+
+1\. A decision given in a Member State shall be recognised in the other Member States without any special procedure being required.
+
+2\. Any interested party who raises the recognition of a decision as the principal issue in a dispute may, in accordance with the procedure provided for in Articles 45 to 58, apply for that decision to be recognised.
+
+3\. If the outcome of the proceedings in a court of a Member State depends on the determination of an incidental question of recognition, that court shall have jurisdiction over that question.
+
+### Article 40 — Grounds of non-recognition
+
+A decision shall not be recognised:
+
+(a) if such recognition is manifestly contrary to public policy (ordre public) in the Member State in which recognition is sought;
+
+(b) where it was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the decision when it was possible for him to do so;
+
+(c) if it is irreconcilable with a decision given in proceedings between the same parties in the Member State in which recognition is sought;
+
+(d) if it is irreconcilable with an earlier decision given in another Member State or in a third State in proceedings involving the same cause of action and between the same parties, provided that the earlier decision fulfils the conditions necessary for its recognition in the Member State in which recognition is sought.
+
+### Article 41 — No review as to the substance
+
+Under no circumstances may a decision given in a Member State be reviewed as to its substance.
+
+### Article 42 — Staying of recognition proceedings
+
+A court of a Member State in which recognition is sought of a decision given in another Member State may stay the proceedings if an ordinary appeal against the decision has been lodged in the Member State of origin.
+
+### Article 43 — Enforceability
+
+Decisions given in a Member State and enforceable in that State shall be enforceable in another Member State when, on the application of any interested party, they have been declared enforceable there in accordance with the procedure provided for in Articles 45 to 58.
+
+### Article 44 — Determination of domicile
+
+To determine whether, for the purposes of the procedure provided for in Articles 45 to 58, a party is domiciled in the Member State of enforcement, the court seised shall apply the internal law of that Member State.
+
+### Article 45 — Jurisdiction of local courts
+
+1\. The application for a declaration of enforceability shall be submitted to the court or competent authority of the Member State of enforcement communicated by that Member State to the Commission in accordance with Article 78.
+
+2\. The local jurisdiction shall be determined by reference to the place of domicile of the party against whom enforcement is sought, or to the place of enforcement.
+
+### Article 46 — Procedure
+
+1\. The application procedure shall be governed by the law of the Member State of enforcement.
+
+2\. The applicant shall not be required to have a postal address or an authorised representative in the Member State of enforcement.
+
+3\. The application shall be accompanied by the following documents:
+
+(a) a copy of the decision which satisfies the conditions necessary to establish its authenticity;
+
+(b) the attestation issued by the court or competent authority of the Member State of origin using the form established in accordance with the advisory procedure referred to in Article 81(2), without prejudice to Article 47.
+
+### Article 47 — Non-production of the attestation
+
+1\. If the attestation referred to in point (b) of Article 46(3) is not produced, the court or competent authority may specify a time for its production or accept an equivalent document or, if it considers that it has sufficient information before it, dispense with its production.
+
+2\. If the court or competent authority so requires, a translation of the documents shall be produced. The translation shall be done by a person qualified to do translations in one of the Member States.
+
+### Article 48 — Declaration of enforceability
+
+The decision shall be declared enforceable immediately on completion of the formalities in Article 46 without any review under Article 40. The party against whom enforcement is sought shall not at this stage of the proceedings be entitled to make any submissions on the application.
+
+### Article 49 — Notice of the decision on the application for a declaration of enforceability
+
+1\. The decision on the application for a declaration of enforceability shall forthwith be brought to the notice of the applicant in accordance with the procedure laid down by the law of the Member State of enforcement.
+
+2\. The declaration of enforceability shall be served on the party against whom enforcement is sought, accompanied by the decision, if not already served on that party.
+
+### Article 50 — Appeal against the decision on the application for a declaration of enforceability
+
+1\. The decision on the application for a declaration of enforceability may be appealed against by either party.
+
+2\. The appeal shall be lodged with the court communicated by the Member State concerned to the Commission in accordance with Article 78.
+
+3\. The appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.
+
+4\. If the party against whom enforcement is sought fails to appear before the appellate court in proceedings concerning an appeal brought by the applicant, Article 16 shall apply even where the party against whom enforcement is sought is not domiciled in any of the Member States.
+
+5\. An appeal against the declaration of enforceability shall be lodged within 30 days of service thereof. If the party against whom enforcement is sought is domiciled in a Member State other than that in which the declaration of enforceability was given, the time for appealing shall be 60 days and shall run from the date of service, either on him in person or at his residence. No extension may be granted on account of distance.
+
+### Article 51 — Procedure to contest the decision given on appeal
+
+The decision given on the appeal may be contested only by the procedure communicated by the Member State concerned to the Commission in accordance with Article 78.
+
+### Article 52 — Refusal or revocation of a declaration of enforceability
+
+The court with which an appeal is lodged under Article 50 or Article 51 shall refuse or revoke a declaration of enforceability only on one of the grounds specified in Article 40. It shall give its decision without delay.
+
+### Article 53 — Staying of proceedings
+
+The court with which an appeal is lodged under Article 50 or Article 51 shall, on the application of the party against whom enforcement is sought, stay the proceedings if the enforceability of the decision is suspended in the Member State of origin by reason of an appeal.
+
+### Article 54 — Provisional, including protective, measures
+
+1\. When a decision must be recognised in accordance with this Chapter, nothing shall prevent the applicant from availing himself of provisional, including protective, measures in accordance with the law of the Member State of enforcement without a declaration of enforceability under Article 48 being required.
+
+2\. The declaration of enforceability shall carry with it by operation of law the power to proceed to any protective measures.
+
+3\. During the time specified for an appeal pursuant to Article 50(5) against the declaration of enforceability and until any such appeal has been determined, no measures of enforcement may be taken other than protective measures against the property of the party against whom enforcement is sought.
+
+### Article 55 — Partial enforceability
+
+1\. Where a decision has been given in respect of several matters and the declaration of enforceability cannot be given for all of them, the court or competent authority shall give it for one or more of them.
+
+2\. An applicant may request a declaration of enforceability limited to parts of a decision.
+
+### Article 56 — Legal aid
+
+An applicant who, in the Member State of origin, has benefited from complete or partial legal aid or exemption from costs or expenses shall be entitled, in any proceedings for a declaration of enforceability, to benefit from the most favourable legal aid or the most extensive exemption from costs or expenses provided for by the law of the Member State of enforcement.
+
+### Article 57 — No security, bond or deposit
+
+No security, bond or deposit, however described, shall be required of a party who in one Member State applies for recognition, enforceability or enforcement of a decision given in another Member State on the ground that he is a foreign national or that he is not domiciled or resident in the Member State of enforcement.
+
+### Article 58 — No charge, duty or fee
+
+In proceedings for the issue of a declaration of enforceability, no charge, duty or fee calculated by reference to the value of the matter at issue may be levied in the Member State of enforcement.
+
+## CHAPTER V — AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
+
+### Article 59 — Acceptance of authentic instruments
+
+1\. An authentic instrument established in a Member State shall have the same evidentiary effects in another Member State as it has in the Member State of origin, or the most comparable effects, provided that this is not manifestly contrary to public policy (ordre public) in the Member State concerned.
+
+A person wishing to use an authentic instrument in another Member State may ask the authority establishing the authentic instrument in the Member State of origin to fill in the form established in accordance with the advisory procedure referred to in Article 81(2) describing the evidentiary effects which the authentic instrument produces in the Member State of origin.
+
+2\. Any challenge relating to the authenticity of an authentic instrument shall be made before the courts of the Member State of origin and shall be decided upon under the law of that State. The authentic instrument challenged shall not produce any evidentiary effect in another Member State as long as the challenge is pending before the competent court.
+
+3\. Any challenge relating to the legal acts or legal relationships recorded in an authentic instrument shall be made before the courts having jurisdiction under this Regulation and shall be decided upon under the law applicable pursuant to Chapter III. The authentic instrument challenged shall not produce any evidentiary effect in a Member State other than the Member State of origin as regards the matter being challenged as long as the challenge is pending before the competent court.
+
+4\. If the outcome of proceedings in a court of a Member State depends on the determination of an incidental question relating to the legal acts or legal relationships recorded in an authentic instrument in matters of succession, that court shall have jurisdiction over that question.
+
+### Article 60 — Enforceability of authentic instruments
+
+1\. An authentic instrument which is enforceable in the Member State of origin shall be declared enforceable in another Member State on the application of any interested party in accordance with the procedure provided for in Articles 45 to 58.
+
+2\. For the purposes of point (b) of Article 46(3), the authority which established the authentic instrument shall, on the application of any interested party, issue an attestation using the form established in accordance with the advisory procedure referred to in Article 81(2).
+
+3\. The court with which an appeal is lodged under Article 50 or Article 51 shall refuse or revoke a declaration of enforceability only if enforcement of the authentic instrument is manifestly contrary to public policy (ordre public) in the Member State of enforcement.
+
+### Article 61 — Enforceability of court settlements
+
+1\. Court settlements which are enforceable in the Member State of origin shall be declared enforceable in another Member State on the application of any interested party in accordance with the procedure provided for in Articles 45 to 58.
+
+2\. For the purposes of point (b) of Article 46(3), the court which approved the settlement or before which it was concluded shall, on the application of any interested party, issue an attestation using the form established in accordance with the advisory procedure referred to in Article 81(2).
+
+3\. The court with which an appeal is lodged under Article 50 or Article 51 shall refuse or revoke a declaration of enforceability only if enforcement of the court settlement is manifestly contrary to public policy (ordre public) in the Member State of enforcement.
+
+## CHAPTER VI — EUROPEAN CERTIFICATE OF SUCCESSION
+
+### Article 62 — Creation of a European Certificate of Succession
+
+1\. This Regulation creates a European Certificate of Succession (hereinafter referred to as ‘the Certificate’) which shall be issued for use in another Member State and shall produce the effects listed in Article 69.
+
+2\. The use of the Certificate shall not be mandatory.
+
+3\. The Certificate shall not take the place of internal documents used for similar purposes in the Member States. However, once issued for use in another Member State, the Certificate shall also produce the effects listed in Article 69 in the Member State whose authorities issued it in accordance with this Chapter.
+
+### Article 63 — Purpose of the Certificate
+
+1\. The Certificate is for use by heirs, legatees having direct rights in the succession and executors of wills or administrators of the estate who, in another Member State, need to invoke their status or to exercise respectively their rights as heirs or legatees and/or their powers as executors of wills or administrators of the estate.
+
+2\. The Certificate may be used, in particular, to demonstrate one or more of the following:
+
+(a) the status and/or the rights of each heir or, as the case may be, each legatee mentioned in the Certificate and their respective shares of the estate;
+
+(b) the attribution of a specific asset or specific assets forming part of the estate to the heir(s) or, as the case may be, the legatee(s) mentioned in the Certificate;
+
+(c) the powers of the person mentioned in the Certificate to execute the will or administer the estate.
+
+### Article 64 — Competence to issue the Certificate
+
+The Certificate shall be issued in the Member State whose courts have jurisdiction under Article 4, Article 7, Article 10 or Article 11. The issuing authority shall be:
+
+(a) a court as defined in Article 3(2); or
+
+(b) another authority which, under national law, has competence to deal with matters of succession.
+
+### Article 65 — Application for a Certificate
+
+1\. The Certificate shall be issued upon application by any person referred to in Article 63(1) (hereinafter referred to as ‘the applicant’).
+
+2\. For the purposes of submitting an application, the applicant may use the form established in accordance with the advisory procedure referred to in Article 81(2).
+
+3\. The application shall contain the information listed below, to the extent that such information is within the applicant’s knowledge and is necessary in order to enable the issuing authority to certify the elements which the applicant wants certified, and shall be accompanied by all relevant documents either in the original or by way of copies which satisfy the conditions necessary to establish their authenticity, without prejudice to Article 66(2):
+
+(a) details concerning the deceased: surname (if applicable, surname at birth), given name(s), sex, date and place of birth, civil status, nationality, identification number (if applicable), address at the time of death, date and place of death;
+
+(b) details concerning the applicant: surname (if applicable, surname at birth), given name(s), sex, date and place of birth, civil status, nationality, identification number (if applicable), address and relationship to the deceased, if any;
+
+(c) details concerning the representative of the applicant, if any: surname (if applicable, surname at birth), given name(s), address and representative capacity;
+
+(d) details of the spouse or partner of the deceased and, if applicable, ex-spouse(s) or ex-partner(s): surname (if applicable, surname at birth), given name(s), sex, date and place of birth, civil status, nationality, identification number (if applicable) and address;
+
+(e) details of other possible beneficiaries under a disposition of property upon death and/or by operation of law: surname and given name(s) or organisation name, identification number (if applicable) and address;
+
+(f) the intended purpose of the Certificate in accordance with Article 63;
+
+(g) the contact details of the court or other competent authority which is dealing with or has dealt with the succession as such, if applicable;
+
+(h) the elements on which the applicant founds, as appropriate, his claimed right to succession property as a beneficiary and/or his right to execute the will of the deceased and/or to administer the estate of the deceased;
+
+(i) an indication of whether the deceased had made a disposition of property upon death; if neither the original nor a copy is appended, an indication regarding the location of the original;
+
+(j) an indication of whether the deceased had entered into a marriage contract or into a contract regarding a relationship which may have comparable effects to marriage; if neither the original nor a copy of the contract is appended, an indication regarding the location of the original;
+
+(k) an indication of whether any of the beneficiaries has made a declaration concerning acceptance or waiver of the succession;
+
+(l) a declaration stating that, to the applicant’s best knowledge, no dispute is pending relating to the elements to be certified;
+
+(m) any other information which the applicant deems useful for the purposes of the issue of the Certificate.
+
+### Article 66 — Examination of the application
+
+1\. Upon receipt of the application the issuing authority shall verify the information and declarations and the documents and other evidence provided by the applicant. It shall carry out the enquiries necessary for that verification of its own motion where this is provided for or authorised by its own law, or shall invite the applicant to provide any further evidence which it deems necessary.
+
+2\. Where the applicant has been unable to produce copies of the relevant documents which satisfy the conditions necessary to establish their authenticity, the issuing authority may decide to accept other forms of evidence.
+
+3\. Where this is provided for by its own law and subject to the conditions laid down therein, the issuing authority may require that declarations be made on oath or by a statutory declaration in lieu of an oath.
+
+4\. The issuing authority shall take all necessary steps to inform the beneficiaries of the application for a Certificate. It shall, if necessary for the establishment of the elements to be certified, hear any person involved and any executor or administrator and make public announcements aimed at giving other possible beneficiaries the opportunity to invoke their rights.
+
+5\. For the purposes of this Article, the competent authority of a Member State shall, upon request, provide the issuing authority of another Member State with information held, in particular, in the land registers, the civil status registers and registers recording documents and facts of relevance for the succession or for the matrimonial property regime or an equivalent property regime of the deceased, where that competent authority would be authorised, under national law, to provide another national authority with such information.
+
+### Article 67 — Issue of the Certificate
+
+1\. The issuing authority shall issue the Certificate without delay in accordance with the procedure laid down in this Chapter when the elements to be certified have been established under the law applicable to the succession or under any other law applicable to specific elements. It shall use the form established in accordance with the advisory procedure referred to in Article 81(2).
+
+The issuing authority shall not issue the Certificate in particular if:
+
+(a) the elements to be certified are being challenged; or
+
+(b) the Certificate would not be in conformity with a decision covering the same elements.
+
+2\. The issuing authority shall take all necessary steps to inform the beneficiaries of the issue of the Certificate.
+
+### Article 68 — Contents of the Certificate
+
+The Certificate shall contain the following information, to the extent required for the purpose for which it is issued:
+
+(a) the name and address of the issuing authority;
+
+(b) the reference number of the file;
+
+(c) the elements on the basis of which the issuing authority considers itself competent to issue the Certificate;
+
+(d) the date of issue;
+
+(e) details concerning the applicant: surname (if applicable, surname at birth), given name(s), sex, date and place of birth, civil status, nationality, identification number (if applicable), address and relationship to the deceased, if any;
+
+(f) details concerning the deceased: surname (if applicable, surname at birth), given name(s), sex, date and place of birth, civil status, nationality, identification number (if applicable), address at the time of death, date and place of death;
+
+(g) details concerning the beneficiaries: surname (if applicable, surname at birth), given name(s) and identification number (if applicable);
+
+(h) information concerning a marriage contract entered into by the deceased or, if applicable, a contract entered into by the deceased in the context of a relationship deemed by the law applicable to such a relationship to have comparable effects to marriage, and information concerning the matrimonial property regime or equivalent property regime;
+
+(i) the law applicable to the succession and the elements on the basis of which that law has been determined;
+
+(j) information as to whether the succession is testate or intestate, including information concerning the elements giving rise to the rights and/or powers of the heirs, legatees, executors of wills or administrators of the estate;
+
+(k) if applicable, information in respect of each beneficiary concerning the nature of the acceptance or waiver of the succession;
+
+(l) the share for each heir and, if applicable, the list of rights and/or assets for any given heir;
+
+(m) the list of rights and/or assets for any given legatee;
+
+(n) the restrictions on the rights of the heir(s) and, as appropriate, legatee(s) under the law applicable to the succession and/or under the disposition of property upon death;
+
+(o) the powers of the executor of the will and/or the administrator of the estate and the restrictions on those powers under the law applicable to the succession and/or under the disposition of property upon death.
+
+### Article 69 — Effects of the Certificate
+
+1\. The Certificate shall produce its effects in all Member States, without any special procedure being required.
+
+2\. The Certificate shall be presumed to accurately demonstrate elements which have been established under the law applicable to the succession or under any other law applicable to specific elements. The person mentioned in the Certificate as the heir, legatee, executor of the will or administrator of the estate shall be presumed to have the status mentioned in the Certificate and/or to hold the rights or the powers stated in the Certificate, with no conditions and/or restrictions being attached to those rights or powers other than those stated in the Certificate.
+
+3\. Any person who, acting on the basis of the information certified in a Certificate, makes payments or passes on property to a person mentioned in the Certificate as authorised to accept payment or property shall be considered to have transacted with a person with authority to accept payment or property, unless he knows that the contents of the Certificate are not accurate or is unaware of such inaccuracy due to gross negligence.
+
+4\. Where a person mentioned in the Certificate as authorised to dispose of succession property disposes of such property in favour of another person, that other person shall, if acting on the basis of the information certified in the Certificate, be considered to have transacted with a person with authority to dispose of the property concerned, unless he knows that the contents of the Certificate are not accurate or is unaware of such inaccuracy due to gross negligence.
+
+5\. The Certificate shall constitute a valid document for the recording of succession property in the relevant register of a Member State, without prejudice to points (k) and (l) of Article 1(2).
+
+### Article 70 — Certified copies of the Certificate
+
+1\. The issuing authority shall keep the original of the Certificate and shall issue one or more certified copies to the applicant and to any person demonstrating a legitimate interest.
+
+2\. The issuing authority shall, for the purposes of Articles 71(3) and 73(2), keep a list of persons to whom certified copies have been issued pursuant to paragraph 1.
+
+3\. The certified copies issued shall be valid for a limited period of six months, to be indicated in the certified copy by way of an expiry date. In exceptional, duly justified cases, the issuing authority may, by way of derogation, decide that the period of validity is to be longer. Once this period has elapsed, any person in possession of a certified copy must, in order to be able to use the Certificate for the purposes indicated in Article 63, apply for an extension of the period of validity of the certified copy or request a new certified copy from the issuing authority.
+
+### Article 71 — Rectification, modification or withdrawal of the Certificate
+
+1\. The issuing authority shall, at the request of any person demonstrating a legitimate interest or of its own motion, rectify the Certificate in the event of a clerical error.
+
+2\. The issuing authority shall, at the request of any person demonstrating a legitimate interest or, where this is possible under national law, of its own motion, modify or withdraw the Certificate where it has been established that the Certificate or individual elements thereof are not accurate.
+
+3\. The issuing authority shall without delay inform all persons to whom certified copies of the Certificate have been issued pursuant to Article 70(1) of any rectification, modification or withdrawal thereof.
+
+### Article 72 — Redress procedures
+
+1\. Decisions taken by the issuing authority pursuant to Article 67 may be challenged by any person entitled to apply for a Certificate.
+
+Decisions taken by the issuing authority pursuant to Article 71 and point (a) of Article 73(1) may be challenged by any person demonstrating a legitimate interest.
+
+The challenge shall be lodged before a judicial authority in the Member State of the issuing authority in accordance with the law of that State.
+
+2\. If, as a result of a challenge as referred to in paragraph 1, it is established that the Certificate issued is not accurate, the competent judicial authority shall rectify, modify or withdraw the Certificate or ensure that it is rectified, modified or withdrawn by the issuing authority.
+
+If, as a result of a challenge as referred to in paragraph 1, it is established that the refusal to issue the Certificate was unjustified, the competent judicial authority shall issue the Certificate or ensure that the issuing authority re-assesses the case and makes a fresh decision.
+
+### Article 73 — Suspension of the effects of the Certificate
+
+1\. The effects of the Certificate may be suspended by:
+
+(a) the issuing authority, at the request of any person demonstrating a legitimate interest, pending a modification or withdrawal of the Certificate pursuant to Article 71; or
+
+(b) the judicial authority, at the request of any person entitled to challenge a decision taken by the issuing authority pursuant to Article 72, pending such a challenge.
+
+2\. The issuing authority or, as the case may be, the judicial authority shall without delay inform all persons to whom certified copies of the Certificate have been issued pursuant to Article 70(1) of any suspension of the effects of the Certificate.
+
+During the suspension of the effects of the Certificate no further certified copies of the Certificate may be issued.
+
+## CHAPTER VII — GENERAL AND FINAL PROVISIONS
+
+### Article 74 — Legalisation and other similar formalities
+
+No legalisation or other similar formality shall be required in respect of documents issued in a Member State in the context of this Regulation.
+
+### Article 75 — Relationship with existing international conventions
+
+1\. This Regulation shall not affect the application of international conventions to which one or more Member States are party at the time of adoption of this Regulation and which concern matters covered by this Regulation.
+
+In particular, Member States which are Contracting Parties to the Hague Convention of 5 October 1961 on the Conflicts of Laws Relating to the Form of Testamentary Dispositions shall continue to apply the provisions of that Convention instead of Article 27 of this Regulation with regard to the formal validity of wills and joint wills.
+
+2\. Notwithstanding paragraph 1, this Regulation shall, as between Member States, take precedence over conventions concluded exclusively between two or more of them in so far as such conventions concern matters governed by this Regulation.
+
+3\. This Regulation shall not preclude the application of the Convention of 19 November 1934 between Denmark, Finland, Iceland, Norway and Sweden comprising private international law provisions on succession, wills and estate administration, as revised by the intergovernmental agreement between those States of 1 June 2012, by the Member States which are parties thereto, in so far as it provides for:
+
+(a) rules on the procedural aspects of estate administration as defined by the Convention and assistance in that regard by the authorities of the States Contracting Parties to the Convention; and
+
+(b) simplified and more expeditious procedures for the recognition and enforcement of decisions in matters of succession.
+
+### Article 76 — Relationship with Council Regulation (EC) No 1346/2000
+
+This Regulation shall not affect the application of Council Regulation (EC) No 1346/2000 of 29 May 2000 on insolvency proceedings ( 10 ).
+
+### Article 77 — Information made available to the public
+
+The Member States shall, with a view to making the information available to the public within the framework of the European Judicial Network in civil and commercial matters, provide the Commission with a short summary of their national legislation and procedures relating to succession, including information on the type of authority which has competence in matters of succession and information on the type of authority competent to receive declarations of acceptance or waiver of the succession, of a legacy or of a reserved share.
+
+The Member States shall also provide fact sheets listing all the documents and/or information usually required for the purposes of registration of immovable property located on their territory.
+
+The Member States shall keep the information permanently updated.
+
+### Article 78 — Information on contact details and procedures
+
+1\. By 16 November 2014, the Member States shall communicate to the Commission:
+
+(a) the names and contact details of the courts or authorities with competence to deal with applications for a declaration of enforceability in accordance with Article 45(1) and with appeals against decisions on such applications in accordance with Article 50(2);
+
+(b) the procedures to contest the decision given on appeal referred to in Article 51;
+
+(c) the relevant information regarding the authorities competent to issue the Certificate pursuant to Article 64; and
+
+(d) the redress procedures referred to in Article 72.
+
+The Member States shall apprise the Commission of any subsequent changes to that information.
+
+2\. The Commission shall publish the information communicated in accordance with paragraph 1 in the Official Journal of the European Union, with the exception of the addresses and other contact details of the courts and authorities referred to in point (a) of paragraph 1.
+
+3\. The Commission shall make all information communicated in accordance with paragraph 1 publicly available through any other appropriate means, in particular through the European Judicial Network in civil and commercial matters.
+
+### Article 79 — Establishment and subsequent amendment of the list containing the information referred to in Article 3(2)
+
+1\. The Commission shall, on the basis of the notifications by the Member States, establish the list of the other authorities and legal professionals referred to in Article 3(2).
+
+2\. The Member States shall notify the Commission of any subsequent changes to the information contained in that list. The Commission shall amend the list accordingly.
+
+3\. The Commission shall publish the list and any subsequent amendments in the Official Journal of the European Union.
+
+4\. The Commission shall make all information notified in accordance with paragraphs 1 and 2 publicly available through any other appropriate means, in particular through the European Judicial Network in civil and commercial matters.
+
+### Article 80 — Establishment and subsequent amendment of the attestations and forms referred to in Articles 46, 59, 60, 61, 65 and 67
+
+The Commission shall adopt implementing acts establishing and subsequently amending the attestations and forms referred to in Articles 46, 59, 60, 61, 65 and 67. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 81(2).
+
+### Article 81 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 82 — Review
+
+By 18 August 2025 the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation, including an evaluation of any practical problems encountered in relation to parallel out-of-court settlements of succession cases in different Member States or an out-of-court settlement in one Member State effected in parallel with a settlement before a court in another Member State. The report shall be accompanied, where appropriate, by proposals for amendments.
+
+### Article 83 — Transitional provisions
+
+1\. This Regulation shall apply to the succession of persons who die on or after 17 August 2015.
+
+2\. Where the deceased had chosen the law applicable to his succession prior to 17 August 2015, that choice shall be valid if it meets the conditions laid down in Chapter III or if it is valid in application of the rules of private international law which were in force, at the time the choice was made, in the State in which the deceased had his habitual residence or in any of the States whose nationality he possessed.
+
+3\. A disposition of property upon death made prior to 17 August 2015 shall be admissible and valid in substantive terms and as regards form if it meets the conditions laid down in Chapter III or if it is admissible and valid in substantive terms and as regards form in application of the rules of private international law which were in force, at the time the disposition was made, in the State in which the deceased had his habitual residence or in any of the States whose nationality he possessed or in the Member State of the authority dealing with the succession.
+
+4\. If a disposition of property upon death was made prior to 17 August 2015 in accordance with the law which the deceased could have chosen in accordance with this Regulation, that law shall be deemed to have been chosen as the law applicable to the succession.
+
+### Article 84 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 17 August 2015, except for Articles 77 and 78, which shall apply from 16 November 2014  , and Articles 79, 80 and 81, which shall apply from 5 July 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( 1 ) OJ C 44, 11.2.2011, p. 148.
+
+( 2 ) Position of the European Parliament of 13 March 2012 (not yet published in the Official Journal) and decision of the Council of 7 June 2012.
+
+( 3 ) OJ C 12, 15.1.2001, p. 1.
+
+( 4 ) OJ C 53, 3.3.2005, p. 1.
+
+( 5 ) OJ C 115, 4.5.2010, p. 1.
+
+( 6 ) OJ L 174, 27.6.2001, p. 25.
+
+( 7 ) OJ L 124, 8.6.1971, p. 1.
+
+( 8 ) OJ L 55, 28.2.2011, p. 13.
+
+( 9 ) OJ L 324, 10.12.2007, p. 79.
+
+( 10 ) OJ L 160, 30.6.2000, p. 1.

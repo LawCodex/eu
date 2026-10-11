@@ -1,0 +1,1512 @@
+---
+title: "Commission Regulation (EC) No 401/2006 of 23 February 2006 laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs (Text with EEA relevance)"
+identifier: "32006R0401"
+eli: "http://data.europa.eu/eli/reg/2006/401/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-02-23
+entry_into_force: 2006-05-25
+last_amended: 2014-07-01
+consolidated_version: "02006R0401-20140701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R0401-20140701"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 401/2006 of 23 February 2006 laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 401/2006**
+
+**of 23 February 2006**
+
+**laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 178/2010 of 2 March 2010 </td><td> L 52</td><td>32</td><td>3.3.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 519/2014 of 16 May 2014 </td><td> L 147</td><td>29</td><td>17.5.2014</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 401/2006**
+
+**of 23 February 2006**
+
+**laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+Sampling for the official control of the levels of mycotoxins in foodstuffs shall be carried out in accordance with the methods set out in Annex I.
+
+## Article 2
+
+Sample preparation and methods of analysis used for the official control of the levels of mycotoxins in foodstuffs shall comply with the criteria set out in Annex II.
+
+## Article 3
+
+Directives 98/53/EC, 2002/26/EC, 2003/78/EC and 2005/38/EC are repealed.
+
+References to the repealed Directives shall be construed as references to this Regulation.
+
+## Article 4
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 July 2006.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I ( 1 )
+
+**METHODS OF SAMPLING FOR OFFICIAL CONTROL OF THE LEVELS OF MYCOTOXINS IN FOODSTUFFS**
+
+**A. GENERAL PROVISIONS**
+
+Official controls shall be performed in accordance with the provisions of Regulation (EC) No 882/2004. The following general provisions shall apply without prejudice to the provisions in Regulation (EC) No 882/2004.
+
+**A.1. Purpose and scope**
+
+Samples intended for official control of the levels of mycotoxins content in foodstuffs shall be taken according to the methods set out in this Annex. Aggregate samples thus obtained shall be considered as representative of the lots. Compliance with maximum limits laid down in Regulation (EC) No 466/2001 shall be established on the basis of the levels determined in the laboratory samples.
+
+**A.2. Definitions**
+
+For the purpose of this Annex, the following definitions shall apply:
+
+A.2.1. ‘lot’ means an identifiable quantity of a food commodity delivered at one time and determined by the official to have common characteristics, such as origin, variety, type of packing, packer, consignor or markings;
+
+A.2.2. ‘sublot’ means a designated part of a large lot in order to apply the sampling method on that designated part; each sublot must be physically separate and identifiable;
+
+A.2.3. ‘incremental sample’ means a quantity of material taken from a single place in the lot or sublot;
+
+A.2.4. ‘aggregate sample’ means the combined total of all the incremental samples taken from the lot or sublot;
+
+A.2.5. ‘laboratory sample’ means a sample intended for the laboratory.
+
+**A.3. General provisions**
+
+A.3.1. Personnel
+
+Sampling shall be performed by an authorised person as designated by the Member State.
+
+A.3.2. Material to be sampled
+
+Each lot which is to be examined shall be sampled separately. In accordance with the specific sampling provisions for the different mycotoxins, large lots shall be subdivided into sublots to be sampled separately.
+
+A.3.3. Precautions to be taken
+
+In the course of sampling and preparation of the samples, precautions shall be taken to avoid any changes, which would affect:
+
+— the mycotoxin content, adversely affect the analytical determination or make the aggregate samples unrepresentative;
+
+— the food safety of the lots to be sampled.
+
+Also, all measures necessary to ensure the safety of the persons taking the samples shall be taken.
+
+A.3.4. Incremental samples
+
+As far as possible incremental samples shall be taken at various places distributed throughout the lot or sublot. Departure from such procedure shall be recorded in the record provided for under part A.3.8. of this Annex I.
+
+A.3.5. Preparation of the aggregate sample
+
+The aggregate sample shall be made up by combining the incremental samples.
+
+A.3.6. Replicate samples
+
+The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with Member States’ rules as regards the rights of the food business operator.
+
+A.3.7. Packaging and transmission of samples
+
+Each sample shall be placed in a clean, inert container offering adequate protection from contamination and against damage in transit. All necessary precautions shall be taken to avoid any change in composition of the sample, which might arise during transportation or storage.
+
+A.3.8. Sealing and labelling of samples
+
+Each sample taken for official use shall be sealed at the place of sampling and identified following the rules of the Member State.
+
+A record shall be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.
+
+**A.4. Different types of lots**
+
+Food commodities may be traded in bulk, containers, or individual packings, such as sacks, bags, retail packings. The method of sampling may be applied to all the different forms in which the commodities are put on the market.
+
+Without prejudice to the specific provisions set out in other parts of this Annex, the following formula may be used as a guide for the sampling of lots traded in individual packs, such as sacks, bags, retail packings.
+
+[image]
+
+— weight: in kg
+
+— sampling frequency (SF): every nth sack or bag from which an incremental sample must be taken (decimal figures should be rounded to the nearest whole number).
+
+**B. METHOD OF SAMPLING FOR CEREALS AND CEREAL PRODUCTS**
+
+This method of sampling is of application for the official control of the maximum levels established for aflatoxin B1, total aflatoxins, ochratoxin A and Fusarium-toxins in cereals and cereal products.
+
+**B.1. Weight of the incremental sample**
+
+The weight of the incremental sample shall be about 100 grams, unless otherwise defined in this part B of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample shall depend on the weight of the retail pack.
+
+In the case of retail packs of more than 100 grams, this will result in aggregate samples weighing more than 10 kg. If the weight of a single retail pack is much more than 100 grams, then 100 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.), then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in Tables 1 and 2, on the condition that the weight of the aggregate sample is equal to the required weight of the aggregate sample mentioned in Tables 1 and 2.
+
+Where the retail pack is less than 100 grams and if the difference is not very large, one retail pack is to be considered as one incremental sample, resulting in an aggregate sample of less than 10 kg. If the weight of the retail pack is much less than 100 grams, one incremental sample consists of two or more retail packs, whereby the 100 grams are approximated as closely as possible.
+
+**B.2. General survey of the method of sampling for cereals and cereal products**
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonne)</td><td>Weight or number of sublots</td><td>No incremental samples</td><td>Aggregate sample Weight (kg)</td></tr>
+<tr><td rowspan="3">Cereals and cereal products</td><td>&gt; 300 and &lt; 1 500 </td><td>3 sublots</td><td>100</td><td>10</td></tr>
+<tr><td>≥ 50 and ≤ 300</td><td>100 tonnes</td><td>100</td><td>10</td></tr>
+<tr><td>&lt; 50</td><td>—</td><td>3-100 (*1)</td><td>1-10</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see Table 2. </td></tr>
+</tbody>
+</table>
+
+**B.3. Method of sampling for cereals and cereal products for lots ≥ 50 tonnes**
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following Table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %. In case the lot is not or cannot be physically separated into sublots, a minimum of 100 incremental samples is taken from the lot. For lots > 500 tonnes, the number of incremental samples is provided for in part L.2 of Annex I.
+
+— Each sublot shall be sampled separately.
+
+— Number of incremental samples: 100. Weight of the aggregate sample = 10 kg.
+
+— If it is not possible to carry out the method of sampling set out in this point because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented. An alternative method of sampling may also be applied in cases where it is practically impossible to apply the abovementioned method of sampling. This is e.g. the case where large lots of cereals are stored in warehouses or where cereals are stored in silos ( 2 )  .
+
+**B.4. Method of sampling for cereals and cereal products for lots &lt; 50 tonnes**
+
+For lots of cereals and cereal products less than 50 tonnes, the sampling plan shall be used with 10 to 100 incremental samples, depending on the lot weight, resulting in an aggregate sample of 1 to 10 kg. For very small lots (≤ 0,5 tonnes) a lower number of incremental samples may be taken, but the aggregate sample combining all incremental samples shall be also in that case at least 1 kg.
+
+The figures in Table 2 may be used to determine the number of incremental samples to be taken.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot of cereals and cereal products**
+
+| Lot weight (tonnes) | Number of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 0,05 | 3 | 1 |
+| > 0,05-≤ 0,5 | 5 | 1 |
+| > 0,5-≤ 1 | 10 | 1 |
+| > 1-≤ 3 | 20 | 2 |
+| > 3-≤ 10 | 40 | 4 |
+| > 10-≤ 20 | 60 | 6 |
+| > 20-≤ 50 | 100 | 10 |
+
+**B.5. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage must be done where possible in accordance with the provisions set out in this part B of Annex I.
+
+Where that is not possible, an alternative method of sampling at retail stage may be applied provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 3 ).
+
+**B.6. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty;
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**C. METHOD OF SAMPLING FOR DRIED FRUIT, INCLUDING DRIED VINE FRUIT AND DERIVED PRODUCTS BUT WITH THE EXCEPTION OF DRIED FIGS**
+
+This method of sampling is of application for the official control of the maximum levels established for:
+
+— aflatoxin B1 and total aflatoxins in dried fruit but with the exception of dried figs and
+
+— ochratoxin A in dried vine fruit (currants, raisins and sultanas).
+
+**C.1. Weight of the incremental sample**
+
+The weight of the incremental sample shall be about 100 grams, unless otherwise defined in this part C of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing.
+
+In the case of retail packs of more than 100 grams, this will result in aggregate samples weighing more than 10 kg. If the weight of a single retail pack is much more than 100 grams, then 100 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in Tables 1 and 2, on the condition that the weight of the aggregate sample corresponds to the required weight of the aggregate sample mentioned in Tables 1 and 2.
+
+Where the retail pack is less than 100 grams and if the difference is not very large, one retail pack shall be considered as one incremental sample, resulting in an aggregate sample of less than 10 kg. If the weight of the retail pack is much less than 100 grams, one incremental sample shall consist of two or more retail packs, whereby the 100 grams are approximated as closely as possible.
+
+**C.2. General survey of the method of sampling dried fruit, with the exception of figs**
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonnes)</td><td>Weight or number of sublots</td><td>Number of incremental samples</td><td>Aggregate sample weight (kg)</td></tr>
+<tr><td rowspan="2">Dried fruit</td><td>≥ 15</td><td>15-30 tonnes</td><td>100 </td><td>10 </td></tr>
+<tr><td>&lt; 15</td><td>—</td><td>10-100 (*1)</td><td>1-10</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see Table 2 of this part of this Annex. </td></tr>
+</tbody>
+</table>
+
+**C.3. Method of sampling for dried fruit (lots ≥ 15 tonnes), with the exception of figs**
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following Table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %.
+
+— Each sublot shall be sampled separately.
+
+— Number of incremental samples: 100. Weight of the aggregate sample = 10 kg.
+
+— If it is not possible to carry out the method of sampling described above because of the commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+**C.4. Method of sampling for dried fruit (lots &lt; 15 tonnes), with the exception of figs**
+
+For dried fruit lots, with the exception of figs, under 15 tonnes the sampling plan shall be used with 10 to 100 incremental samples, depending on the lot weight, resulting in an aggregate sample of 1 to 10 kg.
+
+The figures in the following table can be used to determine the number of incremental samples to be taken.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot of dried fruit**
+
+| Lot weight (tonnes) | Number of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 0,1 | 10 | 1 |
+| > 0,1-≤ 0,2 | 15 | 1,5 |
+| > 0,2-≤ 0,5 | 20 | 2 |
+| > 0,5-≤ 1,0 | 30 | 3 |
+| > 1,0-≤ 2,0 | 40 | 4 |
+| > 2,0-≤ 5,0 | 60 | 6 |
+| > 5,0-≤ 10,0 | 80 | 8 |
+| > 10,0-≤ 15,0 | 100 | 10 |
+
+**C.5. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, another alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 4 ).
+
+**C.6. Specific sampling provisions for dried fruit with the exception of dried figs traded in vacuum packs**
+
+For lots equal to or more than 15 tonnes at least 25 incremental samples resulting in a 10 kg aggregate sample shall be taken and for lots less than 15 tonnes, 25 % of the number of incremental samples mentioned in Table 2 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see Table 2).
+
+**C.7. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty;
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**D. METHOD OF SAMPLING FOR DRIED FIGS, GROUNDNUTS AND NUTS**
+
+This method of sampling is of application for the official control of the maximum levels established for aflatoxin B1 and total aflatoxins in dried figs, groundnuts and nuts.
+
+**D.1. Method of sampling for dried figs**
+
+This method of sampling is of application for the official control of the maximum levels established for aflatoxin B1 and total aflatoxins in dried figs.
+
+D.1.1. Weight of the incremental sample
+
+The weight of the incremental sample shall be about 300 grams, unless otherwise defined in part D.1 of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing.
+
+In the case of retail packs of more than 300 grams, this will result in aggregate samples weighing more than 30 kg. If the weight of a single retail pack is much more than 300 grams, then 300 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.), then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in tables 1, 2 and 3, on the condition that the weight of the aggregate sample corresponds to the required weight of the aggregate sample mentioned in tables 1, 2 and 3.
+
+Where the retail pack is less than 300 grams and if the difference is not very large, one retail pack shall be considered as one incremental sample, resulting in an aggregate sample of less than 30 kg. If the weight of the retail pack is much less than 300 grams, one incremental sample shall consist of two or more retail packs, whereby the 300 grams are approximated as closely as possible.
+
+D.1.2. General survey of the method of sampling for dried figs
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonne)</td><td>Weight or number of sublots</td><td>No incremental samples</td><td>Aggregate sample weight (kg)</td></tr>
+<tr><td rowspan="2">Dried figs</td><td>≥ 15</td><td>15-30 tonnes</td><td>100 </td><td>30 </td></tr>
+<tr><td>&lt; 15</td><td>—</td><td>10-100 (*1)</td><td>≤ 30</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see table 2 of this part D.1 of this Annex. </td></tr>
+</tbody>
+</table>
+
+D.1.3. Method of sampling for dried figs (lots ≥ 15 tonnes)
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %.
+
+— Each sublot shall be sampled separately,
+
+— Number of incremental samples: 100,
+
+— Weight of the aggregate sample = 30 kg which shall be mixed and to be divided into three equal laboratory samples of 10 kg before grinding (this division into three laboratory samples is not necessary in case of dried figs subjected to further sorting or other physical treatment and of the availability of equipment which is able to homogenise a 30 kg sample).
+
+— Each laboratory sample of 10 kg shall be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II.
+
+— If it is not possible to carry out the method of sampling described above because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+D.1.4. Method of sampling for dried figs (lots &lt; 15 tonnes)
+
+The number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100.
+
+The figures in the following table 2 may be used to determine the number of incremental samples to be taken and the subsequent division of the aggregate sample.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot and number of subdivisions of the aggregate sample**
+
+| Lot weight (tonnes) | No of incremental samples | Aggregate sample Weight (kg) (in case of retail packings, weight of aggregate sample can diverge — see point D.1.1) | No of laboratory samples from aggregate sample |
+| --- | --- | --- | --- |
+| ≤ 0,1 | 10 | 3 | 1 (no division) |
+| > 0,1 – ≤ 0,2 | 15 | 4,5 | 1 (no division) |
+| > 0,2 – ≤ 0,5 | 20 | 6 | 1 (no division) |
+| > 0,5 – ≤ 1,0 | 30 | 9 (- < 12 kg) | 1 (no division) |
+| > 1,0 – ≤ 2,0 | 40 | 12 | 2 |
+| > 2,0 – ≤ 5,0 | 60 | 18 (- < 24 kg) | 2 |
+| > 5,0 – ≤ 10,0 | 80 | 24 | 3 |
+| > 10,0 – ≤ 15,0 | 100 | 30 | 3 |
+
+— Weight of the aggregate sample ≤ 30 kg which shall be mixed and divided into two or three equal laboratory samples of ≤ 10 kg before grinding (this division into two or three laboratory samples is not necessary in case of dried figs, subjected to further sorting or other physical treatment and of the availability of equipment which is able to homogenise up to 30 kg samples).
+
+In cases where the aggregate sample weights are less than 30 kg, the aggregate sample shall be divided into laboratory samples according to following guidance:
+
+— &lt; 12 kg: no division into laboratory samples;
+
+— ≥ 12 – &lt; 24 kg: division into two laboratory samples;
+
+— ≥ 24 kg: division into three laboratory samples.
+
+— Each laboratory sample shall be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II,
+
+— If it is not possible to carry out the method of sampling described above because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+D.1.5. Method of sampling for derived products and compound foods
+
+D.1.5.1. Derived products with very small particle weight (homogeneous distribution of aflatoxin contamination)
+
+— Number of incremental samples: 100; for lots of under 50 tons the number of incremental samples shall be 10 to 100, depending on the lot weight (see table 3),
+
+**Table 3**
+
+**Number of incremental samples to be taken depending on the weight of the lot**
+
+| Lot weight (tonnes) | No of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 1 | 10 | 1 |
+| > 1 – ≤ 3 | 20 | 2 |
+| > 3 – ≤ 10 | 40 | 4 |
+| > 10 – ≤ 20 | 60 | 6 |
+| > 20 – ≤ 50 | 100 | 10 |
+
+— The weight of the incremental sample shall be about 100 grams. In the case of lots in retail packing, the weight of the incremental sample depends on the weight of the retail packing,
+
+— Weight of aggregate sample = 1-10 kg sufficiently mixed,
+
+D.1.5.2. Other derived products with a relatively large particle size (heterogeneous distribution of aflatoxin contamination)
+
+Method of sampling and acceptance as for dried figs (D.1.3 and D.1.4).
+
+D.1.6. Sampling at retail stage
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, other effective methods of sampling at retail stage may be used provided that they ensure that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 5 ).
+
+D.1.7. Specific method of sampling of dried figs and derived products traded in vacuum packs
+
+D.1.7.1. Dried figs
+
+For lots equal to or more than 15 tonnes at least 50 incremental samples resulting in a 30 kg aggregate sample shall be taken and for lots of less than 15 tonnes, 50 % of the number of incremental samples mentioned in table 2 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 2).
+
+D.1.7.2. Products derived from dried figs with small particle size
+
+For lots equal to or more than 50 tonnes at least 25 incremental samples resulting in a 10 kg aggregate sample shall be taken and for lots less than 50 tonnes, 25 % of the number of incremental samples mentioned in table 3 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 3).
+
+D.1.8. Acceptance of a lot or sublot
+
+For dried figs subjected to a sorting or other physical treatment:
+
+— acceptance if the aggregate sample or the average of the laboratory samples conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the aggregate sample or the average of the laboratory samples exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty,
+
+For dried figs intended for direct human consumption:
+
+— acceptance if none of the laboratory samples exceeds the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if one or more of the laboratory samples exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty,
+
+In cases where the aggregate sample is 12 kg or less:
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty,
+
+**D.2. Method of sampling for groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts**
+
+This method of sampling is of application for the official control of the maximum levels established for aflatoxin B1 and total aflatoxins in groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts. This method of sampling is of also of application for the official control of the maximum levels established for ochratoxin A, aflatoxin B1 and total aflatoxins in spices with a relatively large particle size (particle size comparable with peanuts or larger e.g. nutmeg).
+
+D.2.1. Weight of the incremental sample
+
+The weight of the incremental sample shall be about 200 grams, unless otherwise defined in part D.2 of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing.
+
+In the case of retail packs of more than 200 grams, this will result in aggregate samples weighing more than 20 kg. If the weight of a single retail pack is much more than 200 grams, then 200 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.), then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in tables 1, 2 and 3, on the condition that the weight of the aggregate sample corresponds to the required weight of the aggregate sample mentioned in tables 1, 2 and 3.
+
+Where the retail pack is less than 200 grams and if the difference is not very large, one retail pack shall be considered as one incremental sample, resulting in an aggregate sample of less than 20 kg. If the weight of the retail pack is much less than 200 grams, one incremental sample shall consist of two or more retail packs, whereby the 200 grams are approximated as closely as possible.
+
+D.2.2. General survey of the method of sampling for groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonne)</td><td>Weight or number of sublots</td><td>No incremental samples</td><td>Aggregate sample weight (kg)</td></tr>
+<tr><td rowspan="4">Groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts</td><td>≥ 500</td><td>100 tonnes</td><td>100 </td><td>20 </td></tr>
+<tr><td>&gt; 125 and &lt; 500</td><td>5 sublots</td><td>100 </td><td>20 </td></tr>
+<tr><td>≥ 15 and ≤ 125</td><td>25 tonnes</td><td>100 </td><td>20 </td></tr>
+<tr><td>&lt; 15</td><td>—</td><td>10-100 (*1)</td><td>≤ 20</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see table 2 of this part D.2 of this Annex. </td></tr>
+</tbody>
+</table>
+
+D.2.3. Method of sampling for groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts (lots ≥ 15 tonnes)
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %.
+
+— Each sublot shall be sampled separately,
+
+— Number of incremental samples: 100,
+
+— Weight of the aggregate sample = 20 kg which shall be mixed and to be divided into two equal laboratory samples of 10 kg before grinding (this division into two laboratory samples is not necessary in case of groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts subjected to further sorting or other physical treatment and of the availability of equipment which is able to homogenise a 20 kg sample).
+
+— Each laboratory sample of 10 kg shall be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II.
+
+— If it is not possible to carry out the method of sampling described above because of the commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+D.2.4. Method of sampling for groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts (lots &lt; 15 tonnes)
+
+The number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100.
+
+The figures in the following table 2 may be used to determine the number of incremental samples to be taken and the subsequent division of the aggregate sample.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot and number of subdivisions of the aggregate sample**
+
+| Lot weight (tonnes) | No of incremental samples | Aggregate sample Weight (kg) (in case of retail packings, weight of aggregate sample can diverge — see point D.2.1) | No of laboratory samples from aggregate sample |
+| --- | --- | --- | --- |
+| ≤ 0,1 | 10 | 2 | 1 (no division) |
+| > 0,1 – ≤ 0,2 | 15 | 3 | 1 (no division) |
+| > 0,2 – ≤ 0,5 | 20 | 4 | 1 (no division) |
+| > 0,5 – ≤ 1,0 | 30 | 6 | 1 (no division) |
+| > 1,0 – ≤ 2,0 | 40 | 8 (- < 12 kg) | 1 (no division) |
+| > 2,0 – ≤ 5,0 | 60 | 12 | 2 |
+| > 5,0 – ≤ 10,0 | 80 | 16 | 2 |
+| > 10,0 – ≤ 15,0 | 100 | 20 | 2 |
+
+— Weight of the aggregate sample ≤ 20 kg which shall be mixed and if necessary divided into two equal laboratory samples of ≤ 10 kg before grinding (this division into two laboratory samples is not necessary in case of, groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts subjected to further sorting or other physical treatment and of the availability of equipment which is able to homogenise up to 20 kg samples).
+
+In cases where the aggregate sample weights are less than 20 kg, the aggregate sample shall be divided into laboratory samples according to following guidance:
+
+— &lt; 12 kg: no division into laboratory samples;
+
+— ≥ 12 kg division into two laboratory samples.
+
+— Each laboratory sample shall be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II,
+
+— If it is not possible to carry out the method of sampling described above because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+D.2.5. Method of sampling for derived products, with the exception of vegetable oil, and compound foods
+
+D.2.5.1. Derived products (other than vegetable oil) with small particle size, i.e. flour, peanut butter (homogeneous distribution of aflatoxin contamination)
+
+— Number of incremental samples: 100; for lots of under 50 tons the number of incremental samples shall be 10 to 100, depending on the lot weight (see table 3),
+
+**Table 3**
+
+**Number of incremental samples to be taken depending on the weight of the lot**
+
+| Lot weight (tonnes) | No of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 1 | 10 | 1 |
+| > 1 – ≤ 3 | 20 | 2 |
+| > 3 – ≤ 10 | 40 | 4 |
+| > 10 – ≤ 20 | 60 | 6 |
+| > 20 – ≤ 50 | 100 | 10 |
+
+— The weight of the incremental sample shall be about 100 grams. In the case of lots in retail packing, the weight of the incremental sample depends on the weight of the retail packing,
+
+— Weight of aggregate sample = 1-10 kg sufficiently mixed,
+
+D.2.5.2. Derived products with a relatively large particle size (heterogeneous distribution of aflatoxin contamination)
+
+Method of sampling and acceptance as for groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts (D.2.3 and D.2.4).
+
+D.2.6. Sampling at retail stage
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, other effective methods of sampling at retail stage may be used provided that they ensure that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 6 ).
+
+D.2.7. Specific method of sampling for groundnuts (peanuts), other oilseeds, apricot kernels, tree nuts and derived products traded in vacuum packs
+
+D.2.7.1. Pistachios, groundnuts (peanuts), Brazil nuts
+
+For lots equal to or more than 15 tonnes at least 50 incremental samples resulting in a 20 kg aggregate sample shall be taken and for lots of less than 15 tonnes, 50 % of the number of incremental samples mentioned in table 2 shall bé taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 2).
+
+D.2.7.2. Apricot kernels, tree nuts other than pistachios and Brazil nuts, other oilseeds
+
+For lots equal to or more than 15 tonnes at least 25 incremental samples resulting in a 20 kg aggregate sample shall be taken and for lots less than 15 tonnes, 25 % of the number of incremental samples mentioned in table 2 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 2).
+
+D.2.7.3. Products derived from tree nuts, apricot kernels and groundnuts (peanuts) with small particle size
+
+For lots equal to or more than 50 tonnes at least 25 incremental samples resulting in a 10 kg aggregate sample shall be taken and for lots less than 50 tonnes, 25 % of the number of incremental samples mentioned in table 3 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 3).
+
+D.2.8. Acceptance of a lot or sublot
+
+For groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts subjected to a sorting or other physical treatment:
+
+— acceptance if the aggregate sample or the average of the laboratory samples conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the aggregate sample or the average of the laboratory samples exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty,
+
+For groundnuts (peanuts), other oilseeds, apricot kernels and tree nuts intended for direct human consumption:
+
+— acceptance if none of the laboratory samples exceeds the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if one or both of the laboratory samples exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty,
+
+In cases where the aggregate sample is 12 kg or less:
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**E. METHOD OF SAMPLING FOR SPICES**
+
+This method of sampling is of application for the official control of the maximum levels established for ochratoxin A, aflatoxin B1 and total aflatoxins in spices except in cases of spices with a relatively large particle size (heterogeneous distribution of mycotoxin contamination).
+
+**E.1. Weight of the incremental sample**
+
+The weight of the incremental sample shall be about 100 grams, unless otherwise defined in this part E of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing.
+
+In the case of retail packs of >100 grams, this will result in aggregate samples weighing more than 10 kg. If the weight of a single retail pack is >> 100 grams, then 100 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.), then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in Tables 1 and 2, on the condition that the weight of the aggregate sample corresponds to the required weight of the aggregate sample mentioned in Tables 1 and 2.
+
+Where the retail pack is less than 100 grams and if the difference is not very large, one retail pack shall be considered as one incremental sample, resulting in an aggregate sample of less than 10 kg. If the weight of the retail pack is much less than 100 grams, one incremental sample shall consist of two or more retail packs, whereby the 100 grams are approximated as closely as possible.
+
+**E.2. General survey of the method of sampling for spices**
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonnes)</td><td>Weight or number of sublots</td><td>Number of incremental samples</td><td>Aggregate sample Weight (kg)</td></tr>
+<tr><td rowspan="2">Spices</td><td>≥ 15</td><td>25 tonnes</td><td>100 </td><td>10 </td></tr>
+<tr><td>&lt; 15</td><td>—</td><td>5-100 (*1)</td><td>0,5-10</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see Table 2 of this part of this Annex. </td></tr>
+</tbody>
+</table>
+
+**E.3. Method of sampling for spices (lots ≥ 15 tonnes)**
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following Table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %.
+
+— Each sublot shall be sampled separately.
+
+— Number of incremental samples: 100. Weight of the aggregate sample = 10 kg.
+
+— If it is not possible to carry out the method of sampling described above because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+**E.4. Method of sampling for spices (lots &lt; 15 tonnes)**
+
+For lots of spices less than 15 tonnes the sampling plan shall be used with 5 to 100 incremental samples, depending on the lot weight, resulting in an aggregate sample of 0,5 to 10 kg.
+
+The figures in the following Table can be used to determine the number of incremental samples to be taken.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot of spices**
+
+| Lot weight (tonnes) | Number of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 0,01 | 5 | 0,5 |
+| > 0,01-≤ 0,1 | 10 | 1 |
+| > 0,1-≤ 0,2 | 15 | 1,5 |
+| > 0,2-≤ 0,5 | 20 | 2 |
+| > 0,5-≤ 1,0 | 30 | 3 |
+| > 1,0-≤ 2,0 | 40 | 4 |
+| > 2,0-≤ 5,0 | 60 | 6 |
+| > 5,0-≤ 10,0 | 80 | 8 |
+| > 10,0-≤ 15,0 | 100 | 10 |
+
+**E.5. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the sampling provisions set out in this part of Annex I.
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 0,5 kg ( 7 ).
+
+**E.6. Specific method of sampling for spices traded in vacuum packs**
+
+For lots equal to or more than 15 tonnes at least 25 incremental samples resulting in a 10 kg aggregate sample shall be taken and for lots less than 15 tonnes, 25 % of the number of incremental samples mentioned in Table 2 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see Table 2).
+
+**E.7. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty;
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**F. METHOD OF SAMPLING FOR MILK AND MILK PRODUCTS; INFANT FORMULAE AND FOLLOW-ON FORMULAE, INCLUDING INFANT MILK AND FOLLOW-ON MILK**
+
+This method of sampling is of application for the official control of the maximum levels established for aflatoxin M1 in milk and milk products and infant formulae and follow-on formulae, including infant milk and follow-on milk and dietary foods (milk and milk products) for special medical purposes intended specifically for infants.
+
+**F.1. Method of sampling for milk, milk products, infant formulae and follow-on formulae, including infant milk and follow-on milk.**
+
+The aggregate sample shall be at least 1 kg or 1 litre except where it is not possible e.g. when the sample consists of one bottle.
+
+The minimum number of incremental samples to be taken from the lot shall be as given in Table 1. The number of incremental samples determined is function of the usual form in which the products concerned are commercialised. In the case of bulk liquid products the lot shall be thoroughly mixed insofar as possible and insofar it does not affect the quality of the product, by either manual or mechanical means immediately prior to sampling. In this case, a homogeneous distribution of aflatoxin M1 is assumed within a given lot. It is therefore sufficient to take three incremental samples from a lot to form the aggregate sample.
+
+The incremental samples, which might frequently be a bottle or a package, shall be of similar weight. The weight of an incremental sample shall be at least 100 grams, resulting in an aggregate sample of at least about 1 kg or 1 litre. Departure from this method shall be recorded in the record provided for under part A.3.8 of Annex I.
+
+**Table 1**
+
+**Minimum number of incremental samples to be taken from the lot**
+
+| Form of commercialisation | Volume or weight of lot (in litre or kg) | Minimum number of incremental samples to be taken | Minimum volume or weight of aggregate sample (in litre or kg) |
+| --- | --- | --- | --- |
+| Bulk | — | 3-5 | 1 |
+| Bottles/packages | ≤ 50 | 3 | 1 |
+| Bottles/packages | 50 to 500 | 5 | 1 |
+| Bottles/packages | > 500 | 10 | 1 |
+
+**F.2. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented ( 8 ).
+
+**F.3. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty (or decision limit — see Annex II, point 4.4.),
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty (or decision limit — see Annex II, point 4.4.).
+
+**G. METHOD OF SAMPLING FOR COFFEE, COFFEE PRODUCTS, LIQUORICE ROOT AND LIQUORICE EXTRACT**
+
+This method of sampling is of application for the official control of the maximum levels established for ochratoxin A in roasted coffee beans, ground roasted coffee, soluble coffee, liquorice root and liquorice extract.
+
+**G.1. Weight of the incremental sample**
+
+The weight of the incremental sample shall be about 100 grams, unless otherwise defined in this part G of Annex I.
+
+In the case of lots in retail packings, the weight of the incremental sample shall depend on the weight of the retail packing.
+
+In the case of retail packs of more than 100 grams, this will result in aggregate samples weighing more than 10 kg. If the weight of a single retail pack is much more than 100 grams, then 100 grams shall be taken from each individual retail pack as an incremental sample. This can be done either when the sample is taken or in the laboratory. However, in cases where such method of sampling would lead to unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.), then an alternative method of sampling can be applied. For example, in case where a valuable product is marketed in retail packs of 500 grams or 1 kg, the aggregate sample can be obtained by the aggregation of a number of incremental samples that is smaller than the number indicated in tables 1 and 2, on the condition that the weight of the aggregate sample corresponds to the required weight of the aggregate sample mentioned in tables 1 and 2.
+
+Where the retail pack is less than 100 grams and if the difference is not very large, one retail pack shall be considered as one incremental sample, resulting in an aggregate sample of less than 10 kg. If the weight of the retail pack is much less than 100 grams, one incremental sample shall consist of two or more retail packs, whereby the 100 grams are approximated as closely as possible.
+
+**G.2. General survey of the method of sampling for roasted coffee, ground roasted coffee, soluble coffee, liquorice root and liquorice extract**
+
+**Table 1**
+
+**Subdivision of lots into sublots depending on product and lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (ton)</td><td>Weight or number of sublots</td><td>No incremental samples</td><td>Aggregate sample Weight (kg)</td></tr>
+<tr><td rowspan="2">Roasted coffee beans, ground roasted coffee, soluble coffee, liquorice root and liquorice extract</td><td>≥ 15</td><td>15-30 tonnes</td><td>100 </td><td>10 </td></tr>
+<tr><td>&lt; 15</td><td>—</td><td>10-100 (*1)</td><td>1-10</td></tr>
+<tr><td colspan="5">(*1)  Depending on the lot weight — see table 2 of this part of this Annex. </td></tr>
+</tbody>
+</table>
+
+**G.3. Method of sampling for roasted coffee beans, ground roasted coffee, soluble coffee liquorice root and liquorice extract (lots ≥ 15 tonnes)**
+
+— On condition that the sublot can be separated physically, each lot shall be subdivided into sublots following table 1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may vary from the mentioned weight by a maximum of 20 %.
+
+— Each sublot shall be sampled separately,
+
+— Number of incremental samples: 100,
+
+— Weight of the aggregate sample = 10 kg,
+
+— If it is not possible to carry out the method of sampling described above because of the unacceptable commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.
+
+**G.4. Method of sampling for roasted coffee beans, ground roasted coffee, soluble coffee liquorice root and liquorice extract (lots &lt; 15 tonnes)**
+
+For roasted coffee beans, ground roasted coffee, soluble coffee, liquorice root and liquorice extract under 15 tonnes the sampling plan shall be used with 10 to 100 incremental samples, depending on the lot weight, resulting in an aggregate sample of 1 to 10 kg.
+
+The figures in the following table can be used to determine the number of incremental samples to be taken.
+
+**Table 2**
+
+**Number of incremental samples to be taken depending on the weight of the lot of roasted coffee beans, ground roasted coffee, soluble coffee, liquorice root and liquorice extract**
+
+| Lot weight (tonnes) | No of incremental samples | Aggregate sample weight (kg) |
+| --- | --- | --- |
+| ≤ 0,1 | 10 | 1 |
+| > 0,1 – ≤ 0,2 | 15 | 1,5 |
+| > 0,2 – ≤ 0,5 | 20 | 2 |
+| > 0,5 – ≤ 1,0 | 30 | 3 |
+| > 1,0 – ≤ 2,0 | 40 | 4 |
+| > 2,0 – ≤ 5,0 | 60 | 6 |
+| > 5,0 – ≤ 10,0 | 80 | 8 |
+| > 10,0 – ≤ 15,0 | 100 | 10 |
+
+**G.5. Method of sampling for roasted coffee beans, ground roasted coffee, soluble coffee, liquorice root and liquorice extract traded in vacuum packs**
+
+For lots equal to or more than 15 tonnes at least 25 incremental samples resulting in a 10 kg aggregate sample shall be taken and for lots less than 15 tonnes, 25 % of the number of incremental samples mentioned in table 2 shall be taken resulting in an aggregate sample of which the weight corresponds to the weight of the sampled lot (see table 2).
+
+**G.6. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the sampling provisions set out in this part of Annex I.
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 9 ).
+
+**G.7. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**H. METHOD OF SAMPLING FOR FRUIT JUICES INCLUDING GRAPE JUICE, GRAPE MUST, CIDER AND WINE**
+
+This method of sampling is of application for the official control of the maximum levels established for
+
+— ochratoxin A in wine, grape juice and grape must and
+
+— patulin in fruit juices, fruit nectar, spirit drinks, cider and other fermented drinks derived from apples or containing apple juice.
+
+**H.1. Method of sampling**
+
+The aggregate sample shall be at least one litre except where it is not possible e.g. when the sample consists of one bottle.
+
+The minimum number of incremental samples to be taken from the lot shall be as given in Table 1. The number of incremental samples determined is function of the usual form in which the products concerned are commercialised. In the case of bulk liquid products the lot shall be thoroughly mixed insofar as possible and insofar it does not affect the quality of the product, by either manual or mechanical means immediately prior to sampling. In this case, a homogeneous distribution of ochratoxin A and patulin can be assumed within a given lot. It is therefore sufficient to take three incremental samples from a lot to form the aggregate sample.
+
+The incremental samples, which might frequently be a bottle or a package, shall be of similar weight. The weight of an incremental sample shall be at least 100 grams, resulting in an aggregate sample of at least about 1 litre. Departure from this method shall be recorded in the record provided for under part A.3.8 of Annex I.
+
+**Table 1**
+
+**Minimum number of incremental samples to be taken from the lot**
+
+| Form of commercialisation | Volume of lot (in litres) | Minimum number of incremental samples to be taken | Minimum volume of the aggregate sample (in litres) |
+| --- | --- | --- | --- |
+| Bulk (fruit juice, spirit drinks, cider, wine) | — | 3 | 1 |
+| Bottles/packages (fruit juice, spirit drinks, cider) | ≤ 50 | 3 | 1 |
+| Bottles/packages (fruit juice, spirit drinks, cider) | 50 to 500 | 5 | 1 |
+| Bottles/packages (fruit juice, spirit drinks, cider) | > 500 | 10 | 1 |
+| Bottles/packages wine | ≤ 50 | 1 | 1 |
+| Bottles/packages wine | 50 to 500 | 2 | 1 |
+| Bottles/packages wine | > 500 | 3 | 1 |
+
+**H.2. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I ( 10 ).
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented.
+
+**H.3. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**I. METHOD OF SAMPLING FOR SOLID APPLE PRODUCTS**
+
+This method of sampling is of application for the official control of the maximum levels established for patulin in solid apple products, including solid apple products for infants and young children.
+
+**I.1. Method of sampling**
+
+The aggregate sample shall be at least 1 kg, except where it is not possible e.g. when sampling a single package.
+
+The minimum number of incremental samples to be taken from the lot shall be as given in Table 1. In the case of liquid products the lot shall be thoroughly mixed insofar as possible by either manual or mechanical means immediately prior to sampling. In this case, a homogeneous distribution of patulin can be assumed within a given lot. It is therefore sufficient to take three incremental samples from a lot to form the aggregate sample.
+
+The incremental samples shall be of similar weight. The weight of an incremental sample shall be at least 100 grams, resulting in an aggregate sample of at least 1 kg. Departure from this method shall be recorded in the record provided for under part A.3.8 of Annex I.
+
+**Table 1**
+
+**Minimum number of incremental samples to be taken from the lot**
+
+| Weight of lot (in kg) | Minimum number of incremental samples to be taken | Aggregate sample weight(kg) |
+| --- | --- | --- |
+| < 50 | 3 | 1 |
+| 50 to 500 | 5 | 1 |
+| > 500 | 10 | 1 |
+
+If the lot consists of individual packages, then the number of packages, which shall be taken to form the aggregate sample, is given in Table 2.
+
+**Table 2**
+
+**Number of packages (incremental samples) which shall be taken to form the aggregate sample if the lot consists of individual packages**
+
+| Number of packages or units in the lot | Number of packages or units to be taken | Aggregate sample weight(kg) |
+| --- | --- | --- |
+| 1 to 25 | 1 package or unit | 1 |
+| 26 to 100 | about 5 %, at least two packages or units | 1 |
+| > 100 | about 5 %, at maximum 10 packages or units | 1 |
+
+**I.2. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the sampling provisions set out in this part of the Annex.
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented ( 11 ).
+
+**I.3. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the measurement uncertainty and correction for recovery,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the measurement uncertainty and correction for recovery.
+
+**J. METHOD OF SAMPLING FOR BABY FOODS AND PROCESSED CEREAL BASED FOODS FOR INFANTS AND YOUNG CHILDREN**
+
+This method of sampling is of application for the official control of the maximum levels established:
+
+— for aflatoxins, ochratoxin A and Fusarium-toxins in baby foods and processed cereal-based foods for infants and young children,
+
+— for aflatoxins and ochratoxin A in dietary foods for special medical purposes (other than milk and milk products) intended specifically for infants and
+
+— for patulin in baby foods other than processed cereal based foods for infants and young children. For the control of the maximum levels established for patulin in apple juice and solid apple products for infants and young children the method of sampling as described under part I of Annex I shall apply.
+
+**J.1. Method of sampling**
+
+— The method of sampling for cereals and cereal products as set out in point B.4 of Annex I shall apply to food intended for infants and young children. Accordingly the number of incremental samples to be taken shall depend on the weight of the lot, with a minimum of 10 and a maximum of 100, in accordance with Table 2 at point B.4 of Annex I. For very small lots (≤ 0,5 tonnes) a lower number of incremental samples may be taken, but the aggregate sample uniting all incremental samples shall be also in that case at least 1 kg.
+
+— weight of the incremental sample shall be about 100 grams. In the case of lots in retail packing, the weight of the incremental sample shall depend on the weight of the retail packing and in case of very small lots (≤ 0,5 tonnes) the incremental samples shall have a weight as such that uniting the incremental samples results in an aggregate sample of at least 1 kg. Departure from this method shall be recorded in the record provided for under A.3.8.
+
+— weight of aggregate sampling = 1-10 kg sufficiently mixed.
+
+**J.2. Sampling at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, an alternative method of sampling at retail stage may be used provided that it ensures that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented ( 12 ).
+
+**J.3. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty;
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**K. METHOD OF SAMPLING FOR VEGETABLE OILS**
+
+This method of sampling is of application for the official control of the maximum levels established for mycotoxins, in particular aflatoxin B1, aflatoxin total and zearalenone, in vegetable oils.
+
+**K.1. Method of sampling for vegetable oils**
+
+— The weight of the incremental sample shall be at least about 100 grams (ml) (depending of the nature of the consignment e.g. vegetable oil in bulk, at least 3 incremental samples of about 350 ml have to be taken), resulting in an aggregate sample of at least 1 kg (litre),
+
+— The minimum number of incremental samples to be taken from the lot shall be as given in Table 1. The lot shall be thoroughly mixed insofar possible by either manual or mechanical means immediately prior to sampling. In this case, a homogeneous distribution of aflatoxin can be assumed within a given lot, it is therefore sufficient to take three incremental samples from a lot to form the aggregate sample.
+
+**Table 1**
+
+**Minimum number of incremental samples to be taken from the lot**
+
+<table>
+<tbody><tr><td>Form of commercialisation</td><td>Weight of lot (in kg) Volume of lot (in litres) </td><td>Minimum number of incremental samples to be taken</td></tr>
+<tr><td>Bulk (*1)</td><td>—</td><td>3 </td></tr>
+<tr><td>packages</td><td>≤ 50</td><td>3 </td></tr>
+<tr><td>packages</td><td>&gt; 50 to 500</td><td>5 </td></tr>
+<tr><td>packages</td><td>&gt; 500</td><td>10 </td></tr>
+<tr><td colspan="3">(*1)  On condition that the sublot can be separated physically, large bulk consignments/lots of vegetable oils shall be subdivided into sublots as foreseen in table 2 of this part. </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Subdivision of lots into sublots depending on lot weight**
+
+<table>
+<tbody><tr><td>Commodity</td><td>Lot weight (tonne)</td><td>Weight or number of sublots</td><td>Minimum No incremental samples</td><td>Minimum aggregate sample weight (kg)</td></tr>
+<tr><td rowspan="4">Vegetable oils</td><td>≥ 1 500 </td><td>500 tonnes</td><td>3 </td><td>1 </td></tr>
+<tr><td>&gt; 300 and &lt; 1 500 </td><td>3 sublots</td><td>3 </td><td>1 </td></tr>
+<tr><td>≥ 50 and ≤ 300</td><td>100 tonnes</td><td>3 </td><td>1 </td></tr>
+<tr><td>&lt; 50</td><td>—</td><td>3 </td><td>1 </td></tr>
+</tbody>
+</table>
+
+**K.2. Method of sampling for vegetable oils at retail stage**
+
+Sampling of foodstuffs at the retail stage shall be done where possible in accordance with the provisions set out in this part of Annex I.
+
+Where that is not possible, other effective methods of sampling at retail stage may be used provided that they ensure that the aggregate sample is sufficiently representative of the sampled lot and is fully described and documented. In any case, the aggregate sample shall be at least 1 kg ( 13 ).
+
+**K.3. Acceptance of a lot or sublot**
+
+— acceptance if the laboratory sample conforms to the maximum limit, taking into account the correction for recovery and measurement uncertainty,
+
+— rejection if the laboratory sample exceeds the maximum limit beyond reasonable doubt taking into account the correction for recovery and measurement uncertainty.
+
+**L. METHOD OF SAMPLING FOR VERY LARGE LOTS OR LOTS STORED OR TRANSPORTED IN A WAY WHEREBY SAMPLING THROUGHOUT THE LOT IS NOT FEASIBLE**
+
+**L.1. General principles**
+
+In case the way of transport or storage of a lot does not enable to take incremental samples throughout the whole lot, sampling of such lots should preferably be done when the lot is in flow (dynamic sampling).
+
+In the case of large warehouses destined to store food, operators should be encouraged to install equipment in the warehouse enabling (automatic) sampling across the whole stored lot.
+
+When the sampling procedures as provided for in this part L are applied, the food business operator or his representative should be informed of the sampling procedure. If the sampling procedure is questioned by the food business operator or his representative, the food business operator or his representative shall enable the competent authority to sample throughout the whole lot at his/her own cost.
+
+Sampling of a part of the lot is allowed, on the condition that the quantity of the sampled part is at least 10 % of the lot to be sampled. If a part of a lot of food of the same class or description has been sampled and identified as not satisfying Union requirements, it shall be presumed that the entire lot is also affected, unless further detailed assessment shows no evidence that the rest of the lot is unsatisfactory.
+
+The relevant provisions, such as weight of the incremental sample, provided for in the other parts of this Annex are applicable for the sampling for very large lots or lots stored or transported in a way whereby sampling throughout the lot is not feasible.
+
+**L.2. Number of incremental samples to be taken in the case of very large lots**
+
+In the case of large sampled portions (sampled portions > 500 tonnes), the number of incremental samples to be taken = 100 incremental samples + √tonnes. However in case the lot is less than 1 500 tonnes and can be subdivided into sublots in accordance with the table 1 of part B and on the condition that the sublots can be separated physically, the number of incremental samples as provided for in part B have to be taken.
+
+**L.3. Large lots transported by ship**
+
+L.3.1. Dynamic sampling of large lots transported by ship
+
+The sampling of large lots in ships is preferably carried out while the product is in flow (dynamic sampling).
+
+The sampling is to be done per hold (entity that can physically be separated). Holds are however emptied partly one after the other so that the initial physical separation no longer exists after transfer into storage facilities. Sampling can therefore be performed based on initial physical separation or based on the separation after transfer into the storage facilities.
+
+The unloading of a ship can last for several days. Normally, sampling has to be performed at regular intervals during the whole duration of unloading. It is however not always feasible or appropriate for an official inspector to be present for sampling during the whole operation of unloading. Therefore sampling of part of the lot is allowed to be undertaken (sampled portion). The number of incremental samples is determined by taking into account the size of the sampled portion.
+
+Even if the official sample is taken automatically, the presence of an inspector is necessary. However if the automatic sampling is done with pre-set parameters which cannot be changed during the sampling and the incremental samples are collected in a sealed receptacle, preventing any possible fraud, then the presence of an inspector is only required at the beginning of the sampling, every time the receptacle of the samples needs to be changed and at the end of the sampling.
+
+L.3.2. Sampling of lots transported by ship by static sampling
+
+In cases where the sampling is done in a static way the same procedure as foreseen for storage facilities (silos) accessible from above has to be applied (see point L.5.1).
+
+The sampling has to be performed on the accessible part (from above) of the lot/hold. The number of incremental samples is determined by taking into account the size of the sampled portion.
+
+**L.4. Sampling of large lots stored in warehouses**
+
+The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion.
+
+**L.5. Sampling of storage facilities (silos)**
+
+L.5.1. Sampling of silos (easily) accessible from above
+
+The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion.
+
+L.5.2. Sampling of silos not accessible from above (closed silos)
+
+L.5.2.1. Silos not accessible from above (closed silos) with individual sizes > 100 tonnes
+
+Food stored in such silos cannot be sampled in a static way. Therefore when the food in the silo has to be sampled and there is no possibility to move the consignment, the agreement has to be made with the operator that he or she has to inform the inspector about when the silo will be unloaded, partially or completely, in order to enable sampling when the food is in flow.
+
+L.5.2.2. Silos not accessible from above (closed silos) with individual sizes &lt; 100 tonnes
+
+Contrary to the provision in part point L.1 (sampled part at least 10 %), the sampling procedure involves the release into a receptacle of a quantity of 50 to 100 kg and taking the sample from it. The size of the aggregate sample corresponds to the whole lot and the number of incremental samples relate to the quantity of the food from the silo released into the receptacle for sampling.
+
+**L.6. Sampling of loose food in large closed containers**
+
+Such lots can often only be sampled when unloaded. In certain cases it is not possible to unload at the point of import or control and therefore the sampling should take place when such containers are unloaded. The operator has to inform the inspector about the place and time of unloading the containers.
+
+**M. METHOD OF SAMPLING OF FOOD SUPPLEMENTS BASED ON RICE FERMENTED WITH RED YEAST MONASCUS PURPUREUS**
+
+This method of sampling is applicable to the official control of the maximum level established for citrinin in food supplements based on rice fermented with red yeast Monascus purpureus.
+
+**Sampling procedure and sample size**
+
+The sampling procedure is on the supposition that the food supplements based on rice fermented with red yeast Monascus purpureus are marketed in retail packages containing usually 30 to 120 capsules per retail package.
+
+| Lot size (number of retail packages) | Number of retail packages to be taken for sample | Sample size |
+| --- | --- | --- |
+| 1-50 | 1 | All capsules |
+| 51-250 | 2 | All capsules |
+| 251-1 000 | 4 | From each retail package taken for sample, half of the capsules |
+| > 1 000 | 4 + 1 retail package per 1 000 retail packages with a maximum of 25 retail packages | ≤ 10 retail packages: from each retail package, half of the capsules > 10 retail packages: from each retail package, an equal number of capsules is taken to result in a sample with the equivalent of the content of retail 5 packages |
+
+## ANNEX II
+
+**CRITERIA FOR SAMPLE PREPARATION AND FOR METHODS OF ANALYSIS USED FOR THE OFFICIAL CONTROL OF THE LEVELS OF MYCOTOXINS IN FOODSTUFFS**
+
+**1\. INTRODUCTION**
+
+**1.1. Precautions**
+
+As the distribution of mycotoxins is generally non-homogeneous, samples shall be prepared, and especially homogenised, with extreme care.
+
+The complete sample as received by the laboratory shall be homogenized, in case the homogenisation is performed by the laboratory.
+
+For the analysis of aflatoxins, daylight should be excluded as much as possible during the procedure, since aflatoxin gradually breaks down under the influence of ultra-violet light.
+
+**1.2. Calculation of proportion of shell/kernel of whole nuts**
+
+The limits fixed for aflatoxins in Regulation (EC) No 466/2001 apply to the edible part. The level of aflatoxins in the edible part can be determined by:
+
+— samples of nuts ‘in shell’ can be shelled and the level of aflatoxins is determined in the edible part.
+
+— the nuts ‘in shell’ can be taken through the sample preparation procedure. The method of sampling and analysis shall estimate the weight of nut kernel in the aggregate sample. The weight of nut kernel in the aggregate sample shall be estimated after establishing a suitable factor for the proportion of nut shell to nut kernel in whole nuts. This proportion is used to ascertain the amount of kernel in the bulk sample taken through the sample preparation and method of analysis.
+
+Approximately 100 whole nuts shall be taken at random separately from the lot or shall be put aside from each aggregate sample. The ratio may, for each laboratory sample, be obtained by weighing the whole nuts, shelling and re-weighing the shell and kernel portions.
+
+However, the proportion of shell to kernel may be established by the laboratory from a number of samples and so can be assumed for future analytical work. But if a particular laboratory sample is found to be in contravention of any limit, the proportion shall be determined for that sample using the approximately 100 nuts that have been set aside.
+
+**2\. TREATMENT OF THE SAMPLE AS RECEIVED IN THE LABORATORY**
+
+Each laboratory sample shall be finely grinded and mixed thoroughly using a process that has been demonstrated to achieve complete homogenisation.
+
+In case the maximum level applies to the dry matter, the dry matter content of the product shall be determined on a part of the homogenised sample, using a method that has been demonstrated to determine accurately the dry matter content.
+
+**3\. REPLICATE SAMPLES**
+
+The replicate samples for enforcement, trade (defence) and reference (referee) purposes shall be taken from the homogenised material unless such procedure conflicts with Member States’ rules as regards the rights of the food business operator.
+
+**4\. METHOD OF ANALYSIS TO BE USED BY THE LABORATORY AND LABORATORY CONTROL REQUIREMENTS**
+
+**4.1. Definitions**
+
+A number of the most commonly used definitions that the laboratory shall be required to use are the following:
+
+| r | = | Repeatability, the value below which the absolute difference between two single test results obtained under repeatability conditions, namely same sample, same operator, same apparatus, same laboratory, and short interval of time may be expected to lie within a specific probability (typically 95 %) and hence r = 2,8 × sr. |
+| --- | --- | --- |
+
+| sr | = | Standard deviation, calculated from results generated under repeatability conditions. |
+| --- | --- | --- |
+
+| RSDr | = | Relative standard deviation, calculated from results generated under repeatability conditions [(sr / [image] ) × 100]. |
+| --- | --- | --- |
+
+| R | = | Reproducibility, the value below which the absolute difference between single test results obtained under reproducibility conditions, namely on identical material obtained by operators in different laboratories, using the standardised test method may be expected to lie within a certain probability (typically 95 %); R = 2,8 × sR. |
+| --- | --- | --- |
+
+| sR | = | Standard deviation, calculated from results under reproducibility conditions. |
+| --- | --- | --- |
+
+| RSDR | = | Relative standard deviation calculated from results generated under reproducibility conditions [(sR / [image] ) × 100]. |
+| --- | --- | --- |
+
+**4.2. General requirements**
+
+Confirmatory methods of analysis used for food control purposes shall comply with the provisions of items 1 and 2 of Annex III to Regulation (EC) No 882/2004.
+
+**4.3. Specific requirements**
+
+4.3.1. Specific requirements for confirmatory methods
+
+4.3.1.1. Performance criteria
+
+It is recommended that fully validated confirmatory methods (i.e. methods validated by collaborative trials for relevant matrices) are used where appropriate and available. Other suitable validated confirmatory methods (e.g. methods validated in-house on relevant matrices belonging to the commodity group of interest) may also be used provided they fulfil the performance criteria set out in the following tables.
+
+Where possible, the validation of in-house validated methods shall include a certified reference material.
+
+(a) Performance criteria for aflatoxins
+
+<table>
+<tbody><tr><td>Criterion</td><td>Concentration Range</td><td>Recommended Value</td><td>Maximum permitted Value</td></tr>
+<tr><td>Blanks</td><td>All</td><td>Negligible</td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Recovery — Aflatoxin M1</td><td>0,01-0,05 μg/kg</td><td>60 to 120 %</td><td>  </td></tr>
+<tr><td>  </td><td>&gt; 0,05 μg/kg</td><td>70 to 110 %</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Recovery — Aflatoxins B1, B2, G1, G2</td><td>&lt; 1,0 μg/kg</td><td>50 to 120 %</td><td>  </td></tr>
+<tr><td>  </td><td>1-10 μg/kg</td><td>70 to 110 %</td><td>  </td></tr>
+<tr><td>  </td><td>&gt; 10 μg/kg</td><td>80 to 110 %</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Reproducibility RSDR</td><td>All</td><td>As derived from Horwitz Equation (*)(**)</td><td>2 × value derived from Horwitz Equation (*)(**)</td></tr>
+<tr><td colspan="4">Repeatability RSDr may be calculated as 0,66 times Reproducibility RSDR at the concentration of interest.</td></tr>
+<tr><td colspan="4">Note: — Values to apply to both B1 and sum of B1 + B2 + G1 + G2  — If sum of individual aflatoxins B1 + B2 + G1 + G2 are to be reported, then response of each to the analytical system must be either known or equivalent. </td></tr>
+</tbody>
+</table>
+
+(b) Performance criteria for ochratoxin A
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">Ochratoxin A</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>&lt; 1</td><td>≤ 40</td><td>≤ 60</td><td>50 to 120</td></tr>
+<tr><td>≥ 1</td><td>≤ 20</td><td>≤ 30</td><td>70 to 110</td></tr>
+</tbody>
+</table>
+
+(c) Performance criteria for patulin
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">Patulin</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>&lt; 20</td><td>≤ 30</td><td>≤ 40</td><td>50 to 120</td></tr>
+<tr><td>20-50</td><td>≤ 20</td><td>≤ 30</td><td>70 to 105</td></tr>
+<tr><td>&gt; 50</td><td>≤ 15</td><td>≤ 25</td><td>75 to 105</td></tr>
+</tbody>
+</table>
+
+(d) Performance criteria for deoxynivalenol
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">Deoxynivalenol</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>&gt; 100-≤ 500</td><td>≤ 20</td><td>≤ 40</td><td>60 to 110</td></tr>
+<tr><td>&gt; 500</td><td>≤ 20</td><td>≤ 40</td><td>70 to 120</td></tr>
+</tbody>
+</table>
+
+(e) Performance criteria for zearalenone
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">Zearalenone</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>≤ 50</td><td>≤ 40</td><td>≤ 50</td><td>60 to 120</td></tr>
+<tr><td>&gt; 50</td><td>≤ 25</td><td>≤ 40</td><td>70 to 120</td></tr>
+</tbody>
+</table>
+
+(f) Performance criteria for Fumonisin B1 and B2 individually
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">Fumonisin B1 and B2 individually</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>≤ 500</td><td>≤ 30</td><td>≤ 60</td><td>60 to 120</td></tr>
+<tr><td>&gt; 500</td><td>≤ 20</td><td>≤ 30</td><td>70 to 110</td></tr>
+</tbody>
+</table>
+
+(g) Performance criteria for T-2 and HT-2 toxin individually
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="3">T-2 and HT-2 toxin individually</td></tr>
+<tr><td>RSDr %</td><td>RSDR %</td><td>Recovery %</td></tr>
+<tr><td>15-250</td><td>≤ 30</td><td>≤ 50</td><td>60 to 130</td></tr>
+<tr><td>&gt; 250</td><td>≤ 25</td><td>≤ 40</td><td>60 to 130</td></tr>
+</tbody>
+</table>
+
+(h) Performance criteria for citrinin
+
+<table>
+<tbody><tr><td rowspan="2">Level μg/kg </td><td colspan="4">Citrinin</td></tr>
+<tr><td>RSDr %</td><td>Recommended RSDR %</td><td>Maximum allowed RSDR %</td><td>Recovery %</td></tr>
+<tr><td>All</td><td>0,66 × RSDR</td><td>As derived from Horwitz Equation (*) (**)</td><td>2 × value derived from Horwitz Equation (*) (**)</td><td>70 to 120</td></tr>
+</tbody>
+</table>
+
+(i) Notes to the performance criteria for the mycotoxins:
+
+— The detection limits of the methods used are not stated as the precision values given at the concentrations of interest.
+
+— The precision values are calculated from the Horwitz equation, in particular the original Horwitz equation (for concentrations 1,2 × 10–7 ≤ C ≤ 0,138) (*) and the modified Horwitz equation (for concentrations C &lt; 1,2 × 10–7) (**).
+
+(*) Horwitz equation for concentrations 1,2 × 10–7 ≤ C ≤ 0,138:
+
+RSDR = 2(1-0.5logC)
+
+(ref: W. Horwitz, L.R. Kamps, K.W. Boyer, J.Assoc.Off.Analy.Chem.,1980, 63, 1344)
+
+(**) Modified Horwitz equation (*) for concentrations C &lt; 1,2 × 10–7:
+
+RSDR = 22 %
+
+(ref: M. Thompson, Analyst, 2000, 125, p. 385-386)
+
+Where:
+
+— RSDR is the relative standard deviation calculated from results generated under reproducibility conditions [(sR/) × 100]
+
+— C is the concentration ratio (i.e. 1 = 100g/100g, 0,001 = 1 000 mg/kg)
+
+This is a generalised precision equation which has been found to be independent of analyte and matrix but solely dependent on concentration for most routine methods of analysis.
+
+4.3.1.2. ‘Fitness-for-purpose’ approach
+
+For in-house validated methods, as an alternative, a ‘fitness-for-purpose’ approach ( 14 ) may be used to assess their suitability for official control. Methods suitable for official control must produce results with a standard measurement uncertainty (u) less than the maximum standard measurement uncertainty calculated using the formula below:
+
+[image]
+
+where:
+
+— Uf is the maximum standard measurement uncertainty (μg/kg)
+
+— LOD is the limit of detection of the method (μg/kg)
+
+— α is a constant, numeric factor to be used depending on the value of C. The values to be used are set out in Table hereafter.
+
+— C is the concentration of interest (μg/kg)
+
+If the analytical method provides results with uncertainty measurements less than the maximum standard uncertainty the method shall be considered being equally suitable to one which meets the performance criteria given in point 4.3.1.1.
+
+**Table**
+
+**Numeric values to be used for α as constant in formula set out in this point, depending on the concentration of interest**
+
+C (μg/kg) α
+
+≤ 50 0,2
+
+51-500 0,18
+
+501-1 000 0,15
+
+1 001 -10 000 0,12
+
+> 10 000 0,1
+
+4.3.2. Specific requirements for semi-quantitative screening methods
+
+4.3.2.1. Scope
+
+The scope applies to bioanalytical methods based on immuno-recognition or receptor binding (such as ELISA, dip-sticks, lateral flow devices, immuno-sensors) and physicochemical methods based on chromatography or direct detection by mass spectrometry (e.g. ambient MS). Other methods (e.g. thin layer chromatography) are not excluded provided the signals generated relate directly to the mycotoxins of interest and allow that the principle described hereunder is applicable.
+
+The specific requirements apply to methods of which the result of the measurement is a numerical value, for example a (relative) response from a dip-stick reader, a signal from LC-MS, etc., and that normal statistics apply.
+
+The requirements do not apply to methods that do not give numerical values (e.g. only a line that is present or absent), which require different validation approaches. Specific requirements for these methods are provided in point 4.3.3.
+
+This document describes procedures for the validation of screening methods by means of an inter-laboratory validation, the verification of the performance of a method validated by means of an inter-laboratory exercise and the single-laboratory validation of a screening method.
+
+4.3.2.2. Terminology
+
+Screening target concentration (STC): the concentration of interest for detection of the mycotoxin in a sample. When the aim is to test compliance with regulatory limits, the STC is equal to the applicable maximum level. For other purposes or in case no maximum level has been established, the STC is predefined by the laboratory.
+
+Screening method: means method used for selection of those samples with levels of mycotoxins that exceed the screening target concentration (STC), with a given certainty. For the purpose of mycotoxin screening, a certainty of 95 % is considered fit-for-purpose. The result of the screening analysis is either ‘negative’ or ‘suspect’. Screening methods shall allow a cost-effective high sample-throughput, thus increasing the chance to discover new incidents with high exposure and health risks to consumers. These methods shall be based on bio-analytical, LC-MS or HPLC methods. Results from samples exceeding the cut-off value shall be verified by a full re-analysis from the original sample by a confirmatory method.
+
+‘Negative sample’ means the mycotoxin content in the sample is &lt; STC with a certainty of 95 % (i.e. there is a 5 % chance that samples will be incorrectly reported as negative).
+
+‘False negative sample’ means the mycotoxin content in the sample is > STC but it has been identified as negative.
+
+‘Suspect sample’ (screen positive) means the sample exceeds the cut-off level (see below) and may contain the mycotoxin at a level higher than the STC. Any suspect result triggers a confirmatory analysis for unambiguous identification and quantification of the mycotoxin.
+
+‘False suspect sample’ is a negative sample that has been identified as suspect.
+
+‘Confirmatory methods’ means methods that provide full or complementary information enabling the mycotoxin to be identified and quantified unequivocally at the level of interest.
+
+Cut-off level: the response, signal, or concentration, obtained with the screening method, above which the sample is classified as ‘suspect’. The cut-off is determined during the validation and takes the variability of the measurement into account.
+
+Negative control (blank matrix) sample: a sample known to be free ( 15 ) of the mycotoxin to be screened for, e.g. by previous determination using a confirmatory method of sufficient sensitivity. If no blank samples can be obtained, then material with the lowest obtainable level might be used as long as the level allows the conclusion that the screening method is fit for purpose.
+
+Positive control sample: sample containing the mycotoxin at the screening target concentration, e.g. a certified reference material, a material of known content (e.g. test material of proficiency tests) or otherwise sufficiently characterised by a confirmatory method. In the absence of any of the above, a blend of samples with different levels of contamination or a spiked sample prepared within laboratory and sufficiently characterised can be used, provided it can be proven that the contamination level has been verified.
+
+4.3.2.3. Validation procedure
+
+The aim of the validation is to demonstrate the fitness of purpose of the screening method. This is done by determination of the cut-off value and determination of the false negative and false suspect rate. In these two parameters performance characteristics such as sensitivity, selectivity, and precision are embedded.
+
+Screening methods can be validated by inter-laboratory or by single laboratory validation. If inter-laboratory validation data is already available for a certain mycotoxin/matrix/STC combination, a verification of method performance is sufficient in a laboratory implementing the method.
+
+4.3.2.3.1. Initial validation by single laboratory validation
+
+Mycotoxins:
+
+The validation shall be performed for every individual mycotoxin in the scope. In case of bio-analytical methods that give a combined response for a certain mycotoxin group (e.g. aflatoxins B1, B2, G1 & G2; fumonisins B1 & B2), applicability must be demonstrated and limitations of the test mentioned in the scope of the method. Undesired cross-reactivity (e.g. DON-3-glycoside, 3- or 15-acetyl-DON for immuno-based methods for DON) is not considered to increase the false negative rate of the target mycotoxins, but may increase the false suspect rate. This unwanted increasing will be diminished by confirmatory analysis for unambiguous identification and quantification of the mycotoxins.
+
+Matrices:
+
+An initial validation should be performed for each commodity, or, when the method is known to be applicable to multiple commodities, for each commodity group. In the latter case, one representative and relevant commodity is selected from that group (see table A).
+
+Sample set:
+
+The minimum number of different samples required for validation is 20 homogeneous negative control samples and 20 homogeneous positive control samples that contain the mycotoxin at the STC, analysed under intermediate precision (RSDRi) conditions spread over 5 different days. Optionally, additional sets of 20 samples containing the mycotoxin at other levels can be added to the validation set to gain insight to what extent the method can distinguish between different mycotoxin concentrations.
+
+Concentration:
+
+For each STC to be used in routine application, a validation has to be performed.
+
+4.3.2.3.2. Initial validation through collaborative trials
+
+Validation through collaborative trials shall be done in accordance with an internationally recognised protocol on collaborative trials (e.g. ISO 5725:1994 or the IUPAC International Harmonised Protocol) which requires inclusion of valid data from at least eight different laboratories. Other than that, the only difference compared to single laboratory validations is that the ≥ 20 samples per commodity/level can be evenly divided over the participating laboratories, with a minimum of two samples per laboratory.
+
+4.3.2.4. Determination of cut-off level and rate of false suspected results of blank samples
+
+The (relative) responses for the negative control and positive control samples are taken as basis for the calculation of the required parameters.
+
+Screening methods with a response proportional with the mycotoxin concentration
+
+For screening methods with a response proportional with the mycotoxin concentration the following applies:
+
+Cut-off = RSTC – t-value0,05 * SDSTC
+
+RSTC =mean response of the positive control samples (at STC)
+
+t-value:one tailed t-value for a rate of false negative results of 5 % (see table B)
+
+SDSTC =standard deviation
+
+Screening methods with a response inversely proportional with the mycotoxin concentration
+
+Similarly, for screening methods with a response inversely proportional with the mycotoxin concentration, the cut-off is determined as:
+
+Cut-off = RSTC + t-value0,05 * SDSTC
+
+By using this specific t-value for establishing the cut-off value, the rate of false negative results is by default set at 5 %.
+
+Fitness for purpose assessment
+
+Results from the negative control samples are used to estimate the corresponding rate of false suspect results. The t-value is calculated corresponding to the event that a result of a negative control sample is above the cut off value, thus erroneously classified as suspect.
+
+t-value = (cut off – meanblank)/SDblank
+
+for screening methods with a response proportional with the mycotoxin concentration
+
+or
+
+t-value = (mean blank – cut off)/SDblank
+
+for screening methods with a response inversely proportional with the mycotoxin concentration
+
+From the obtained t-value, based on the degrees of freedom calculated from the number of experiments, the probability of false suspect samples for a one tailed distribution can either be calculated (e.g.. spread sheet function ‘TDIST’) or taken from a table for t-distribution.
+
+The corresponding value of the one tailed t-distribution specifies the rate of false suspect results.
+
+This concept is described in detail with an example in Analytical and Bioanalytical Chemistry DOI 10.1007/s00216 -013-6922-1.
+
+4.3.2.5. Extension of the scope of the method
+
+4.3.2.5.1. Extension of scope to other mycotoxins:
+
+When new mycotoxins are added to the scope of an existing screening method, a full validation is required to demonstrate the suitability of the method.
+
+4.3.2.5.2. Extension to other commodities:
+
+If the screening method is known or expected to be applicable to other commodities, the validity to these other commodities shall be verified. As long as the new commodity belongs to a commodity group (see Table A) for which an initial validation has already been performed, a limited additional validation is sufficient. For this, a minimum of 10 homogeneous negative control and 10 homogeneous positive control (at STC) samples shall be analysed under intermediate precision conditions. The positive control samples shall all be above the cut-off value. In case this criterion is not met, a full validation is required.
+
+4.3.2.6. Verification of methods already validated through collaborative trials
+
+For screening methods that have already been successfully validated through a collaborative laboratory trial, the method performance shall be verified. For this a minimum of 6 negative control and 6 positive control (at STC) samples shall be analysed. The positive control samples shall all be above the cut-off value. In case this criterion is not met, the laboratory has to perform a root-cause analysis to identify why it cannot meet the specification as obtained in the collaborative trial. Only after taking corrective action it shall re-verify the method performance in its laboratory. In case the laboratory is not capable to verify the results from the collaborative trial, it will need to establish its own cut-off in a complete single laboratory validation.
+
+4.3.2.7. Continuous method verification/on-going method validation
+
+After initial validation, additional validation data are acquired by including at least two positive control samples in each batch of samples screened. One positive control sample is a known sample (e.g. one used during initial validation), the other is a different commodity from the same commodity group (in case only one commodity is analysed, a different sample of that commodity is used instead). Inclusion of a negative control sample is optional. The results obtained for the two positive control samples are added to the existing validation set.
+
+At least once a year the cut-off value is re-established and the validity of the method is re-assessed. The continuous method verification serves several purposes:
+
+— quality control for the batch of samples screened
+
+— providing information on robustness of the method at conditions in the laboratory that applies the method
+
+— justification of applicability of the method to different commodities
+
+— allowing to adjust cut-off values in case of gradual drifts over time.
+
+4.3.2.8. Validation report
+
+The validation report shall contain:
+
+— A statement on the STC
+
+— A statement on the obtained cut-off.
+
+Note: The cut-off must have the same number of significant figures as the STC. Numerical values used to calculate the cut-off need at least one more significant figure than the STC.
+
+— A statement on calculated false suspected rate
+
+— A statement on how the false suspected rate was generated.
+
+Note: The statement on the calculated false suspected rate indicates if the method is fit-for-purpose as it indicates the number of blank (or low level contamination) samples that will be subject to verification.
+
+**Table A**
+
+**Commodity groups for the validation of screening methods**
+
+<table>
+<tbody><tr><td>Commodity groups</td><td>Commodity categories</td><td>Typical representative commodities included in the category</td></tr>
+<tr><td rowspan="4">High water content</td><td>Fruit Juices</td><td>Apple juice, grape juice</td></tr>
+<tr><td>Alcoholic beverages</td><td>Wine, beer, cider</td></tr>
+<tr><td>Root and tuber vegetables</td><td>Fresh ginger</td></tr>
+<tr><td>Cereal or fruit based purees</td><td>Purees intended for infants and small children</td></tr>
+<tr><td rowspan="3">High oil content</td><td>Tree nuts</td><td>Walnut, hazelnut, chestnut</td></tr>
+<tr><td>Oil seeds and products thereof</td><td>Oilseed rape, sunflower, cotton-seed, soybeans, peanuts, sesame etc.</td></tr>
+<tr><td>Oily fruits and products thereof</td><td>Oils and pastes (e.g. peanut butter, tahina)</td></tr>
+<tr><td rowspan="2">High starch and/or protein content and low water and fat content</td><td>Cereal grain and products thereof</td><td>Wheat, rye, barley, maize, rice, oats Wholemeal bread, white bread, crackers, breakfast cereals, pasta</td></tr>
+<tr><td>Dietary products</td><td>Dried powders for the preparation of food for infants and small children</td></tr>
+<tr><td>High acid content and high water content (*1)</td><td>Citrus products</td><td>  </td></tr>
+<tr><td>‘Difficult or unique commodities’ (*2)</td><td>  </td><td>Cocoa beans and products thereof, copra and products thereof, coffee, tea  Spices, liquorice </td></tr>
+<tr><td>High sugar low water content</td><td>Dried fruits</td><td>Figs, raisins, currants, sultanas</td></tr>
+<tr><td rowspan="3">Milk and milk products</td><td>Milk</td><td>Cow, goat and buffalo milk</td></tr>
+<tr><td>Cheese</td><td>Cow, goat cheese</td></tr>
+<tr><td>Dairy products (e.g. milk powder)</td><td>Yogurt, cream</td></tr>
+<tr><td colspan="3">(*1)  If a buffer is used to stabilise the pH changes in the extraction step, then this commodity group can be merged into one commodity group ‘High water content’.  (*2)  ‘Difficult or unique commodities’ should only be fully validated if they are frequently analysed. If they are only analysed occasionally, validation may be reduced to just checking the reporting levels using spiked blank extracts. </td></tr>
+</tbody>
+</table>
+
+**Table B**
+
+**One tailed t-value for a false negative rate of 5 %**
+
+| Degrees of Freedom | Number of replicates | t-value (5 %) |
+| --- | --- | --- |
+| 10 | 11 | 1,812 |
+| 11 | 12 | 1,796 |
+| 12 | 13 | 1,782 |
+| 13 | 14 | 1,771 |
+| 14 | 15 | 1,761 |
+| 15 | 16 | 1,753 |
+| 16 | 17 | 1,746 |
+| 17 | 18 | 1,74 |
+| 18 | 19 | 1,734 |
+| 19 | 20 | 1,729 |
+| 20 | 21 | 1,725 |
+| 21 | 22 | 1,721 |
+| 22 | 23 | 1,717 |
+| 23 | 24 | 1,714 |
+| 24 | 25 | 1,711 |
+| 25 | 26 | 1,708 |
+| 26 | 27 | 1,706 |
+| 27 | 28 | 1,703 |
+| 28 | 29 | 1,701 |
+| 29 | 30 | 1,699 |
+| 30 | 31 | 1,697 |
+| 40 | 41 | 1,684 |
+| 60 | 61 | 1,671 |
+| 120 | 121 | 1,658 |
+| ∞ | ∞ | 1,645 |
+
+4.3.3. Requirements for qualitative screening methods (methods that do not give numerical values)
+
+The development of validation guidelines for binary test methods is currently subject of various standardization bodies (e.g. AOAC, ISO). Very recently AOAC has drafted a guideline on this matter. This document can be regarded as the current state of the art in its field. Therefore methods that give binary results (e.g. visual inspection of dip-stick tests) should be validated according to this guideline
+
+http://www.aoac.org/imis15_prod/AOAC_Docs/ISPAM/Qual_Chem_Guideline_Final_Approved_031412.pdf
+
+**4.4. Estimation of measurement uncertainty, recovery calculation and reporting of results ( 16 )**
+
+4.4.1. Confirmatory methods
+
+The analytical result must be reported as follows:
+
+(a) Corrected for recovery, the level of recovery being indicated. The correction for recovery is not necessary in case the recovery rate is between 90-110 %.
+
+(b) As x +/– U whereby x is the analytical result and U is the expanded measurement uncertainty, using a coverage factor of 2 which gives a level of confidence of approximately 95 %.
+
+For food of animal origin, the taking into account of the measurement uncertainty can also be done by establishing the decision limit (CCα) in accordance with Commission Decision 2002/657/EC ( 17 ) (point 3.1.2.5 of Annex I — the case of substances with established permitted limit).
+
+However if the result of the analysis is significantly (> 50 %) lower than the maximum level or much higher than the maximum level (i.e. more than 5 times the maximum level), and on the condition that the appropriate quality procedures are applied and the analysis serves only the purpose of checking compliance with legal provisions, the analytical result might be reported without correction for recovery and the reporting of the recovery rate and measurement uncertainty might be omitted in these cases.
+
+The present interpretation rules of the analytical result in view of acceptance or rejection of the lot apply to the analytical result obtained on the sample for official control. In case of analysis for defence or referee purposes, the national rules apply.
+
+4.4.2. Screening methods
+
+The result of the screening shall be expressed as compliant or suspected to be non-compliant.
+
+‘Suspected to be non-compliant’ means the sample exceeds the cut-off level and may contain the mycotoxin at a level higher than the STC. Any suspect result triggers a confirmatory analysis for unambiguous identification and quantification of the mycotoxin.
+
+‘Compliant’ means that the mycotoxin content in the sample is &lt; STC with a certainty of 95 % (i.e. there is a 5 % chance that samples will be incorrectly reported as negative). The analytical result is reported as ‘&lt; level of STC’ with the level of STC specified.
+
+**4.5. Laboratory quality standards**
+
+Laboratory must comply with the provisions of Article 12 of Regulation (EC) No 882/2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules ( 18 ).
+
+( 1 ) A guidance document for competent authorities for the control of compliance with EU legislation on aflatoxins is available at http://europa.eu.int/comm/food/food/chemicalsafety/contaminants/aflatoxin_guidance_en.pdf. The guidance document provides additional practical information but the information contained in the guidance document is subordinate to the provisions in this Regulation.
+
+( 2 ) The sampling of such lots shall be performed in accordance with the rules set out in part L. Guidance for sampling large lots shall be provided in a guidance document available on the following website: http://ec.europa.eu/food/food/chemicalsafety/contaminants/guidance-sampling-final.pdf
+
+The application of sampling rules in accordance with EN ISO 24333:2009 or GAFTA Sampling Rules 124, applied by food business operators to ensure compliance with provisions in legislation is equivalent to the sampling rules set out in part L.
+
+For the sampling of lots for Fusarium-toxins, the application of sampling rules in accordance with EN ISO 24333:2009 or GAFTA Sampling Rules 124, applied by food business operators to ensure compliance with provisions in legislation is equivalent to the sampling rules set out in part B
+
+( 3 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 4 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 5 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 6 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 7 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 0,5 kg, the aggregate sample weight might be less than 0,5 kg.
+
+( 8 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 9 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 10 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 litre, the aggregate sample volume might be less than 1 litre.
+
+( 11 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 12 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 13 ) In case the portion to be sampled is so small that it is impossible to obtain an aggregate sample of 1 kg, the aggregate sample weight might be less than 1 kg.
+
+( 14 ) Ref: M. Thompson and R. Wood, Accred. Qual. Assur., 2006, 10, p. 471-478.
+
+( 15 ) Samples are considered free of analyte if the amount present in the sample does not exceed more than 1/5th of the STC. If the level can be quantified with a confirmatory method, the level must be taken into consideration for the validation assessment.
+
+( 16 ) More details on procedures for the estimation of measurement uncertainty and on procedures for assessing recovery can be found in the report ‘Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation’ — http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf
+
+( 17 ) Commission Decision 2002/657/EC of 14 August 2002 implementing Council Directive 96/23/EC concerning the performance of analytical methods and the interpretation of results (OJ L 221, 17.8.2002, p. 8).
+
+( 18 ) See also the transitional arrangements provided for in article 18 of Commission Regulation (EC) No 2076/2005 of 5 December 2005 laying down transitional arrangements for the implementation of Regulation (EC) No 853/2004, 854/2004 and 882/2004 of the European Parliament and of the Council and amending Regulations (EC) No 853/2004 and 854/2004 (OJ L 338, 22.12.2005, p. 83).

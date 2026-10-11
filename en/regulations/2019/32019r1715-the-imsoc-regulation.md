@@ -1,0 +1,1480 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation) (Text with EEA relevance)"
+identifier: "32019R1715"
+eli: "http://data.europa.eu/eli/reg_impl/2019/1715/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-09-30
+entry_into_force: 2022-01-01
+last_amended: 2021-12-01
+consolidated_version: "02019R1715-20211201"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1715-20211201"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation) (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/1715**
+
+**of 30 September 2019**
+
+**laying down rules for the functioning of the information management system for official controls and its system components (‘the IMSOC Regulation’)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/547 of 29 March 2021 </td><td> L 109</td><td>60</td><td>30.3.2021</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/1715**
+
+**of 30 September 2019**
+
+**laying down rules for the functioning of the information management system for official controls and its system components (‘the IMSOC Regulation’)**
+
+**(Text with EEA relevance)**
+
+**CHAPTER 1**
+
+**Subject matter, scope and definitions**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down:
+
+(a) specific conditions and procedures applicable to the transmission of notifications and supplementary information for the Rapid alert system for food and feed (RASFF) to be established pursuant to Regulation (EC) No 178/2002;
+
+(b) procedures for the establishment and use of the computerised system for Union notification and reporting of diseases to be set up and managed by the Commission in accordance with Article 22 of Regulation (EU) 2016/429;
+
+(c) specific rules, including deadlines, for the submission of notifications, to be laid down pursuant to Regulation (EU) 2016/2031;
+
+(d) rules for the computerised handling and exchange of information, data and documents in the information management system for official controls (IMSOC) necessary for the performance of the official controls provided for in Regulation (EU) 2017/625, as regards:
+
+(i) the format of the common health entry document (CHED) referred to in Article 56 of Regulation (EU) 2017/625, including its electronic equivalent, and the instructions for its presentation and use;
+
+(ii) uniform arrangements for cooperation between customs authorities, competent authorities and other authorities, as referred to in Article 75 of Regulation (EU) 2017/625;
+
+(iii) the issuance of electronic certificates and the use of electronic signatures for the official certificates referred to in Article 87 of Regulation (EU) 2017/625;
+
+(iv) standard formats for information exchange in the framework of administrative assistance and cooperation, as referred to in Title IV of Regulation (EU) 2017/625, concerning:
+
+— requests for assistance,
+
+— common and recurrent notifications and responses;
+
+(v) specifications of the technical tools and procedures for communication between liaison bodies designated in accordance with Article 103(1) of Regulation (EU) 2017/625;
+
+(vi) the proper functioning of the IMSOC referred to in Chapter IV of Title VI of Regulation (EU) 2017/625.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘component’ means an electronic system integrated in the IMSOC;
+
+(2) ‘network’ means a group of members having access to a specific component;
+
+(3) ‘network member’ means a Member State’s competent authority, the Commission, an EU agency, a third country’s competent authority or an international organisation that has access to at least one component;
+
+(4) ‘contact point’ means the contact point designated by the network member to represent it;
+
+(5) ‘Member State’s national system’ means a computerised information system owned and set up before the date of entry into force of Regulation (EU) 2017/625 by a Member State for the purpose of managing, handling and exchanging data, information and documents on official controls, and capable of electronically exchanging data with the relevant component;
+
+(6) ‘international organisation’ means any of the internationally recognised bodies listed in point (g) of Article 121 of Regulation (EU) 2017/625, or similar intergovernmental organisations;
+
+(7) ‘iRASFF’ means the electronic system implementing the RASFF and AAC procedures described in Article 50 of Regulation (EC) No 178/2002 and Articles 102 to 108 of Regulation (EU) 2017/625 respectively;
+
+(9) ‘RASFF network’ means the Rapid alert system established as a network by Article 50 of Regulation (EC) No 178/2002 for the notifications referred to in points (15) to (20) of this Article;
+
+(10) ‘AAC network’ means the network composed of the Commission and the liaison bodies designated by the Member States in accordance with Article 103(1) of Regulation (EU) 2017/625 for the purpose of facilitating communication between competent authorities;
+
+(11) ‘fraud network’ means the network composed of the Commission, Europol and the liaison bodies designated by the Member States in accordance with Article 103(1) of Regulation (EU) 2017/625 for the specific purpose of facilitating the exchange of information on fraud notifications as defined in point (21);
+
+(12) ‘alert and cooperation network’ means a network composed of the RASFF, AAC and fraud networks;
+
+(13) ‘single contact point’ means a contact point composed of the RASFF and AAC contact points in each Member State, whether or not physically located in the same administrative unit;
+
+(14) ‘non-compliance notification’ means a notification in iRASFF of a non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 that does not represent a risk within the meaning of Article 50 of Regulation (EC) No 178/2002 and Article 29 of Regulation (EC) No 183/2005;
+
+(15) ‘alert notification’ means a notification in iRASFF of a serious direct or indirect risk deriving from food, food contact material or feed within the meaning of Article 50 of Regulation (EC) No 178/2002 and Article 29 of Regulation (EC) No 183/2005 that requires or might require rapid action by another RASFF network member;
+
+(16) ‘information notification’ means a notification in iRASFF of a direct or indirect risk deriving from food, food contact material or feed according to Article 50 of Regulation (EC) No 178/2002 and Article 29 of Regulation (EC) No 183/2005 that does not require rapid action by another RASFF network member;
+
+(17) ‘information notification for follow-up’ means an information notification related to a product that is or may be placed on the market of another RASFF network member’s country;
+
+(18) ‘information notification for attention’ means an information notification related to a product that:
+
+(i) either is present only in the notifying network member’s country; or
+
+(ii) has not been placed on the market; or
+
+(iii) is no longer on the market;
+
+(19) ‘news notification’ means a notification in iRASFF concerning a risk deriving from food, food contact material or feed within the meaning of Article 50 of Regulation (EC) No 178/2002 and Article 29 of Regulation (EC) No 183/2005 that has an informal source, contains unverified information or concerns as yet an unidentified product;
+
+(20) ‘border rejection notification’ means a notification in iRASFF of a rejection of a batch, container or cargo of food, food contact material or feed due to a risk as referred to in point (c) of the first subparagraph of Article 50(3) of Regulation (EC) No 178/2002 and Article 29 of Regulation (EC) No 183/2005;
+
+(21) ‘fraud notification’ means a non-compliance notification in iRASFF concerning suspected intentional action by businesses or individuals for the purpose of deceiving purchasers and gaining undue advantage therefrom, in violation of the rules referred to in Article 1(2) of Regulation (EU) 2017/625;
+
+(22) ‘original notification’ means a non-compliance notification, an alert notification, an information notification, a news notification, a fraud notification or a border rejection notification;
+
+(23) ‘follow-up notification’ means a notification in iRASFF that contains additional information in relation to an original notification;
+
+(24) ‘request’ means a request for administrative assistance in iRASFF based on an original or follow-up notification and enabling the exchange of information pursuant to Articles 104 to 108 of Regulation (EU) 2017/625;
+
+(25) ‘response’ means a response to a request for administrative assistance in iRASFF based on an original or follow-up notification and enabling the exchange of information pursuant to Articles 104 to 108 of Regulation (EU) 2017/625;
+
+(26) ‘notifying network member or contact point’ means the network member or contact point addressing a notification to another network member or contact point;
+
+(27) ‘notified network member or contact point’ means the network member or contact point to which a notification is addressed by another network member or contact point;
+
+(28) ‘requested network member or contact point’ means the network member or contact point to which a notification is addressed by another network member or contact point for the purpose of receiving a response;
+
+(29) ‘ADIS’ means the computerised information system for the notification and reporting of diseases to be set up and managed by the Commission in accordance with Article 22 of Regulation (EU) 2016/429;
+
+(30) ‘ADIS network’ means the network composed of the Commission and Member States’ competent authorities for the functioning of ADIS;
+
+(31) ‘EUROPHYT’ means the electronic notification system to be established by the Commission and to be connected to, and compatible with, the IMSOC for Member States’ submission of EUROPHYT outbreak notifications in accordance with Article 103 of Regulation (EU) 2016/2031;
+
+(32) ‘EUROPHYT outbreak notification’ means a notification to be submitted in EUROPHYT of any of the following:
+
+(a) the officially confirmed presence on the Union territory of a Union quarantine pest, as referred to in points (a) and (b) of the first paragraph of Article 11 of Regulation (EU) 2016/2031;
+
+(b) the officially confirmed presence of a pest not included in the list of Union quarantine pests, as referred to in Article 29(1) of Regulation (EU) 2016/2031;
+
+(c) the presence in, or the imminent danger of entry into, or spread within, the Union territory of a pest not included in the list of Union quarantine pests, as referred to in Article 30(1) of Regulation (EU) 2016/2031;
+
+(d) the officially confirmed presence of a protected zone quarantine pest, as referred to in Article 33(1) of Regulation (EU) 2016/2031;
+
+(35) ‘EUROPHYT outbreak network’ means the network composed by the Commission and Member States’ competent authorities for the functioning of EUROPHYT;
+
+(36) ‘TRACES’ means the computerised system referred to in Article 133(4) of Regulation (EU) 2017/625 for the purposes of exchanging data, information and documents;
+
+(37) ‘TRACES network’ means the network composed by the Commission and Member States’ competent authorities for the functioning of TRACES;
+
+(38) ‘electronic signature’ means an electronic signature as defined in point (10) of Article 3 of Regulation (EU) No 910/2014;
+
+(39) ‘advanced electronic signature’ means an electronic signature complying with the technical specifications laid down in the Annex to Implementing Decision (EU) 2015/1506;
+
+(40) ‘qualified electronic signature’ means an electronic signature as defined in point (12) of Article 3 of Regulation (EU) No 910/2014;
+
+(41) ‘advanced electronic seal’ means an electronic seal complying with the technical specifications laid down in the Annex to Implementing Decision (EU) 2015/1506;
+
+(42) ‘qualified electronic seal’ means an electronic seal as defined in point (27) of Article 3 of Regulation (EU) No 910/2014;
+
+(43) ‘qualified electronic time stamp’ means an electronic time stamp as defined in point (34) of Article 3 of Regulation (EU) No 910/2014;
+
+(44) ‘control point’ means a control point as referred to in point (a) of Article 53(1) of Regulation (EU) 2017/625;
+
+(45) ‘control unit’ means a unit that has the technology and equipment necessary for the efficient operation of the relevant component and designated as follows for that purpose:
+
+(a) ‘central control unit’ for the central competent authority of a Member State;
+
+(b) ‘regional control unit’ for any regional competent authority of a Member State;
+
+(c) ‘local control unit’ for any local competent authority of a Member State.
+
+**CHAPTER 2**
+
+**General principles and data protection**
+
+## Article 3 — IMSOC components
+
+1\. The IMSOC shall be composed of the following components:
+
+(a) iRASFF;
+
+(b) ADIS;
+
+(c) EUROPHYT;
+
+(d) TRACES.
+
+2\. The components referred to in paragraph 1 shall operate in compliance with the general principles and data protection rules laid down in this Chapter.
+
+## Article 4 — Components, networks and contact points
+
+1\. Each component shall have a network of which the Commission shall be part.
+
+2\. Network members shall each designate at least one contact point and communicate that designation and its contact details to the Commission contact point. They shall inform the Commission contact point immediately of any changes in this respect.
+
+3\. The Commission contact point shall maintain and keep up to date a list of contact points and make it available to all network members.
+
+4\. The Commission shall establish a governance structure to steer the development of, identify priorities for and monitor the correct implementation of the IMSOC. The governance structure shall be composed of:
+
+(a) an operations management board, in collaboration with the Member States, to discuss, at least once a year, priorities for and the development of each component;
+
+(b) sub-groups within the operations management board that regularly discuss priorities for and the development of specific functionalities of each component.
+
+## Article 5 — Ownership and responsibilities for data, information and documents
+
+1\. Each network member shall own and be responsible for the data, information and documents its contact point or users acting under its responsibility have inserted or produced in the relevant component.
+
+2\. Each signatory, competent authority to which a signatory belongs or competent authority creating an electronic seal shall own and be responsible for the part of the documents it signs or seals in TRACES.
+
+3\. Where more than one signatory signs a document in TRACES, each signatory shall own and be responsible for the part of the document that it signs.
+
+## Article 6 — Links between components
+
+1\. Links between components shall be aimed at:
+
+(a) complementing data, information or documents in one or more components by data, information or documents already present in another component; and
+
+(b) providing relevant and up-to-date information to each network member for the performance of its tasks in accordance with the rules set for each component in this Regulation; and
+
+(c) supporting and operating the procedures for
+
+(i) determining and modifying the frequency rates of identity checks and physical checks to be performed on consignments of categories of animals and goods referred to in points (a), (b) and (c) of Article 47(1) of Regulation (EU) 2017/625;
+
+(ii) applying the frequency of identity checks and physical checks to be performed on consignments of categories of animals or goods referred to in points (d), (e) and (f) of that Article;
+
+(iii) the coordinated performance by competent authorities of the intensified official controls in case of suspicions of non-compliance referred to in Article 65(6) of that Regulation.
+
+2\. The links referred to in paragraph 1 shall consist in links between:
+
+(a) iRASFF and TRACES, allowing the exchange of data concerning border rejection notifications and common health entry documents;
+
+(b) EUROPHYT and TRACES, allowing the exchange of data concerning EUROPHYT outbreak notifications;
+
+(c) iRASFF and TRACES, allowing the exchange of data concerning operators’ past records as regards compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625;
+
+(d) ADIS and TRACES, allowing the exchange of data and information concerning Union notifications.
+
+## Article 7 — Electronic data exchange between components and other electronic systems
+
+1\. Data exchanges between the IMSOC and other electronic systems, including the Member States’ national systems, shall:
+
+(a) be based on international standards that are relevant for the component and use XML, CMS or PDF formats;
+
+(b) use the specific data dictionaries and business rules provided for in the relevant component.
+
+2\. The Commission shall provide the Member States with:
+
+(a) the frequency of identity checks and physical checks referred to in point (c)(i) of Article 6(1);
+
+(b) the frequency rates and the outcome of the coordinated performance by competent authorities of the intensified official controls referred to in point (c)(iii) of Article 6(1);
+
+(c) the data dictionaries and business rules referred to in point (b) of paragraph 1.
+
+3\. In collaboration with the Member States, the Commission shall draw-up a service-level agreement governing the maintenance of the electronic data exchange between the relevant component and other electronic systems, including the Member States’ national systems.
+
+## Article 8 — Obligations and rights of the Commission
+
+1\. The Commission shall ensure the functioning, maintenance, support and any necessary updating or development of the software and the IT infrastructure of the components.
+
+2\. The Commission shall have access to all data, information and documents in each component in order to monitor the exchange of data, information and documents inserted or produced therein for identifying activities that are, or appear to be, not in compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625, and:
+
+(a) either have, or might have, ramifications in more than one Member State; or
+
+(b) are, or appear to be, taking place in more than one Member State.
+
+## Article 9 — Conditions for the granting of partial access to the IMSOC to third countries and international organisations
+
+1\. On receipt of a duly justified application, the Commission, in collaboration with the Member States, may grant the competent authority of a third country or an international organisation partial access to the functionalities of one or more components and to specific data, information and documents inserted or produced therein, provided the applicant demonstrates, in respect of the component(s) in question, that it meets the following requirements:
+
+(a) it has the legal and operational capacity to provide, without undue delay, the assistance necessary to allow the good functioning of the component to which partial access is requested;
+
+(b) it has designated a contact point for that purpose;
+
+2\. The partial access referred to in paragraph 1 shall not include access to personal data processed in the component(s) to which the partial access is granted.
+
+3\. By way of derogation from paragraph 2, partial access may include access to personal data where the conditions for lawful transfers of personal data established by Regulations (EU) 2016/679 and (EU) 2018/1725 are fulfilled by the applicant third country or international organisation.
+
+## Article 10 — Personal data processing
+
+1\. Personal data shall be processed in each component for the purpose of performing official controls and other official activities. In particular, personal data shall belong to one of the following categories:
+
+(a) contact points, operators, importers, exporters, transporters and laboratory technicians when personal data is required by Union law;
+
+(b) users of each component.
+
+2\. In processing personal data pursuant to this Regulation, Member States shall comply with Regulation (EU) 2016/679 and Directive (EU) 2016/680 and the Commission with Regulation (EU) 2018/1725.
+
+## Article 11 — Data controllers and joint controllership
+
+1\. The Commission and the competent authorities of the Member States shall be joint controllers of data processing operations in each of the components.
+
+2\. The Commission shall be responsible for:
+
+(a) determining and implementing the technical means to enable data subjects to exercise their rights, and ensuring that those rights are exercised in compliance with Regulation (EU) 2018/1725;
+
+(b) ensuring the security of processing within each component pursuant to Article 33 of Regulation (EU) 2018/1725;
+
+(c) determining the categories of its staff and external providers to whom access to the components may be granted;
+
+(d) notifying and communicating any personal data breach of the components to the European Data Protection Supervisor pursuant to Article 34 of Regulation (EU) 2018/1725 and to the data subject pursuant to Article 35 of that Regulation respectively;
+
+(e) ensuring that its staff and external providers are adequately trained to perform their tasks in accordance with Regulation (EU) 2018/1725.
+
+3\. The competent authorities of the Member States shall be responsible for:
+
+(a) ensuring that data subject’s rights are exercised in compliance with Regulation (EU) 2016/679 and this Regulation;
+
+(b) ensuring the security and confidentiality of personal data pursuant to Section 2 of Chapter IV of Regulation (EU) 2016/679;
+
+(c) designating the staff that are to have access to each component;
+
+(d) ensuring that staff accessing each component are adequately trained to perform their tasks in accordance with Regulation (EU) 2016/679 and, where relevant, Directive (EU) 2016/680.
+
+4\. The competent authorities of the Member States may designate different joint controllers within the same Member State for the purpose of fulfilling one or more of the obligations referred to in paragraph 3.
+
+**CHAPTER 3**
+
+**Components, networks and contact points**
+
+**SECTION 1**
+
+**iRASFF**
+
+## Article 12 — Liaison bodies responsible for the exchange of certain types of information
+
+Member States shall indicate which of the liaison bodies designated in accordance with Article 103(1) of Regulation (EU) 2017/625 are responsible for exchanging information on fraud notifications.
+
+## Article 13 — Single contact point
+
+1\. The single contact point in each Member State shall be responsible for:
+
+(a) setting up effective arrangements for the smooth exchange of relevant information with all relevant competent authorities within its jurisdiction, allowing the immediate transmission of notifications, requests or responses to the competent authorities for appropriate action, and maintaining the notifications, requests or responses in good order;
+
+(b) determining its roles and responsibilities and those of the relevant competent authorities within its jurisdiction as regards preparing and transmitting notifications, requests and responses, and assessing and distributing notifications, requests and responses from other members of the alert and cooperation network.
+
+2\. Member States may include their fraud network contact point in their single contact point.
+
+3\. Communication within the RASFF network shall take place through the single contact point.
+
+## Article 14 — Duties of the members of the alert and cooperation network
+
+1\. Members of the alert and cooperation network shall ensure the efficient functioning of their networks within their jurisdiction.
+
+2\. Each designated alert and cooperation network contact point shall communicate to the Commission contact point detailed information regarding the persons operating it and their contact details. For that purpose, it shall use the contact point information template provided by the Commission.
+
+3\. RASFF network contact points shall ensure that an on-duty officer is available for emergency communications on a 24/7 basis.
+
+## Article 15 — Information exchanged in iRASFF
+
+1\. Information exchanges between alert and cooperation network contact points for the purposes of Article 50 of Regulation (EC) No 178/2002 and Title IV of Regulation (EU) 2017/625 shall be made in iRASFF only and in the form of notifications, requests and responses.
+
+2\. The alert and cooperation network contact points shall complete the relevant fields of a notification to enable clear identification of the product, risk(s), instances of non-compliance and suspected fraud concerned, provide traceability information where possible and identify contact points responsible for any follow-up to a notification or response to a request.
+
+3\. Notifications may be transmitted in the form of original or follow-up notifications.
+
+4\. Requests and responses shall indicate the alert and cooperation network contact point(s) to which the request or response is addressed.
+
+## Article 16 — Non-compliance notifications
+
+1\. Alert and cooperation network contact points shall exchange without undue delay non-compliance notifications including at least the following:
+
+(a) the name of the competent authority dealing with the notification, if different from the contact point;
+
+(b) a description of the possible non-compliance;
+
+(c) the identification, where possible, of the operators associated with the possible non-compliance;
+
+(d) details of the animals or goods involved;
+
+(e) any information concerning suspected risks;
+
+(f) an indication as to whether the notification relates to a possible instance of non-compliance perpetrated through fraudulent practices.
+
+2\. The Commission contact point shall verify each non-compliance notification after it has been exchanged, without undue delay.
+
+## Article 17 — Alert notifications
+
+1\. RASFF network contact points shall submit alert notifications to the Commission contact point without undue delay and in any event within 48 hours of the risk being reported to them.
+
+2\. Alert notifications shall include all available information required by Article 16(1) and any information on the risk and the product from which it derives. However, the fact that not all relevant information has been collected shall not unduly delay transmission of alert notifications.
+
+3\. The Commission contact point shall verify alert notifications and transmit them to the alert and cooperation network contact points within 24 hours of receiving them.
+
+4\. Outside Commission office hours, RASFF network contact points shall announce the transmission of an alert notification or follow-up to an alert notification by telephone call to the emergency phone number of the Commission contact point and specify which RASFF network member’s countries are concerned. The Commission contact point shall inform the RASFF network contact points concerned by a telephone call to their emergency phone numbers.
+
+## Article 18 — Information notifications
+
+1\. RASFF network contact points shall submit information notifications to the Commission contact point without undue delay.
+
+2\. Information notifications shall include all available information required by Article 16(1) and any information on the risk and the product from which it derives.
+
+3\. The Commission contact point shall verify information notifications and transmit them to the alert and cooperation network contact points without undue delay on receiving them.
+
+## Article 19 — News notifications
+
+1\. Alert and cooperation network contact points may submit news notifications to the Commission contact point.
+
+2\. News notifications shall include all the information required by Article 16(1), where available.
+
+3\. The Commission contact point shall verify news notifications and transmit them to the alert and cooperation network contact points without undue delay on receiving them.
+
+## Article 20 — Border rejection notifications
+
+1\. RASFF network contact points shall transmit border rejection notifications to the alert and cooperation network contact points without undue delay.
+
+2\. Border rejection notifications shall include all information required by Article 16(1) and any information on the risk and the product from which it derives.
+
+3\. The information referred to in paragraph 2 shall be transmitted through TRACES to all border control posts.
+
+4\. The Commission contact point shall verify each border rejection notification after it has been transmitted.
+
+## Article 21 — Fraud notifications
+
+1\. Fraud network contact points shall exchange fraud notifications including at least the following:
+
+(a) all the information required by Article 16(1);
+
+(b) a description of the suspected fraudulent practice;
+
+(c) the identification, where possible, of the operators involved;
+
+(d) information as to whether there are ongoing police or judicial investigations into the suspected fraudulent practice;
+
+(e) information on any instructions from the police or judicial authorities as soon as they are available and can be disclosed.
+
+2\. Fraud network contact points shall communicate any information concerning health risks to their RASFF network contact point without undue delay.
+
+3\. The Commission contact point shall verify each fraud notification after it has been exchanged, without undue delay.
+
+## Article 22 — Follow-up notifications
+
+1\. Where an alert and cooperation network member has additional information relating to an original notification, the contact point(s) concerned shall immediately transmit a follow-up notification to that network.
+
+2\. Where a contact point referred to in paragraph 1 has requested follow-up information relating to an original notification, the alert and cooperation network shall be provided with such information to the extent possible and without undue delay.
+
+3\. Where a RASFF network member takes action on receipt of an original notification in accordance with Article 50(5) of Regulation (EC) No 178/2002, its contact point shall immediately transmit a detailed follow-up notification to the alert and cooperation network.
+
+4\. Where the action referred to in paragraph 3 consists of detaining a product and returning to a dispatcher in the country of another RASFF network member:
+
+(a) the network member taking the action shall provide relevant information about the returned product in a follow-up notification, unless that information was already included in full in the original notification;
+
+(b) the other network member shall provide information in a follow-up notification on the action taken on the returned product.
+
+5\. By way of derogation from paragraph 1, where a follow-up notification changes the classification of an original notification to an alert or an information notification, the alert and cooperation network member shall submit it to the Commission contact point for verification and transmission to the alert and cooperation network contact points within the delays laid down in Article 17 or Article 18.
+
+## Article 23 — Access to iRASFF notifications
+
+1\. All alert and cooperation network members shall have access to alert, information, news or border rejection notifications.
+
+2\. Without prejudice to the Commissions’ right of access pursuant to Article 8(2), only the notifying, notified and requested alert and cooperation network members shall have access to non-compliance notifications. However, other network members shall have access to the information referred to in points (a), (b) and (e) of Article 16(1).
+
+3\. Without prejudice to the Commissions’ right of access pursuant to Article 8(2), only the notifying, notified and requested contact points of the fraud network shall have access to fraud notifications.
+
+## Article 24 — Verification and publication of notifications
+
+1\. The Commission contact point’s verification of notifications shall cover:
+
+(a) the completeness and legibility of the notification;
+
+(b) the correctness of the legal basis supporting the notification; however an incorrect legal basis shall not prevent transmission of the notification if a risk has been identified;
+
+(c) whether the notification falls within the scope of the RASFF network;
+
+(d) whether the essential information in the notification is provided in a language that the alert and cooperation network contact point will easily understand;
+
+(e) compliance with this Regulation;
+
+(f) possible recurrences of the same operator and/or hazard and/or country of origin.
+
+2\. By way of derogation from paragraph 1, verification of non-compliance, fraud and border rejection notifications shall cover points (b), (c) and (e) of that paragraph.
+
+3\. Once the Commission contact point has verified a notification in accordance with paragraph 1 or 2, it may publish a summary of alert, information, border rejection and non-compliance notifications, with information on the classification and status of the notification, the product and risk(s) identified, the country of origin, the countries in which the product was distributed, the notifying network member, the basis for the notification and the measures taken.
+
+4\. The Commission shall publish an annual report on the notifications transmitted in iRASFF.
+
+## Article 25 — Notification withdrawal and amendments
+
+1\. Where the action to be taken appears to be based on unfounded information or the notification was transmitted erroneously, any alert and cooperation network contact point may ask:
+
+(a) a notifying contact point to withdraw a non-compliance, fraud or follow-up notification;
+
+(b) the Commission contact point, with the agreement from the notifying contact point, to withdraw an alert, information, border rejection or news notification.
+
+2\. Any alert and cooperation network contact point may request amendments to a notification with the agreement of the notifying contact point.
+
+3\. A follow-up notification shall not be considered an amendment to a notification and may therefore be transmitted without the agreement of any other network member, unless such follow-up notification changes the classification of the notification.
+
+## Article 26 — Closure of a notification and storage period of personal data
+
+1\. A notification is automatically closed in iRASFF if:
+
+(a) no follow-up requests are pending; or
+
+(b) all requests have received a response; or
+
+(c) no response to the last request is provided within 6 months of its transmission.
+
+2\. Personal data from closed notifications shall be stored for no longer than 10 years.
+
+## Article 27 — Exchange of information with third countries
+
+1\. Where an alert, information or border rejection notification concerns a product originating in or distributed to a third country that does not have access to iRASFF or TRACES, the Commission shall inform that third country without undue delay.
+
+2\. Where a non-compliance or fraud notification concerns a product originating in or distributed to a third country that does not have access to iRASFF or TRACES, the Commission may inform that third country.
+
+## Article 28 — Contingency arrangements for iRASFF
+
+1\. Where iRASFF is unavailable:
+
+(a) the RASFF network contact points shall announce the transmission of an email concerning an alert notification or follow-up to an alert notification by a telephone call to the emergency phone number of the Commission contact point. The Commission contact point shall inform the RASFF network contact points required to follow-up by a telephone call to their emergency phone numbers;
+
+(b) the AAC network contact points shall exchange information via email;
+
+(c) the fraud network contact points shall exchange information on fraud notifications via email;
+
+(d) the exchanges referred to in points (b) and (c) shall not trigger the request and response mechanism.
+
+2\. Once iRASFF becomes available again, the alert and cooperation network contact points shall insert in it the information exchanged outside the system.
+
+**SECTION 2**
+
+**ADIS**
+
+## Article 29 — ADIS network
+
+1\. Each ADIS network member shall designate at least one contact point responsible for the submission in ADIS of data and information concerning Union notification and Union reporting in accordance with Articles 3, 4, 6, 7, 8, 11 and 13 of Commission Implementing Regulation (EU) 2020/2002 ( 1 ).
+
+2\. Each ADIS network contact point shall maintain and keep up to date in ADIS the list of notification and reporting regions established by its Member State and laid down in Annex IV to Implementing Regulation (EU) 2020/2002.
+
+## Article 29a — Storage period of personal data
+
+Personal data from Union notifications and Union reports referred to in Article 29(1) shall be stored in ADIS for no more than 10 years.
+
+## Article 29b — Contingency arrangements for ADIS
+
+1\. Where ADIS is unavailable, the ADIS network contact points shall submit the data and information concerning Union notifications and Union reports referred to in Article 29(1) via email or by other means specified on the Commission’s website.
+
+2\. Once ADIS becomes available again, the ADIS network contact points shall insert in it the data and information submitted outside the system.
+
+**SECTION 3**
+
+**EUROPHYT**
+
+## Article 30 — EUROPHYT outbreak network
+
+Each EUROPHYT outbreak network member shall designate a contact point responsible for the submission of EUROPHYT outbreak notifications in EUROPHYT.
+
+## Article 32 — Submission of EUROPHYT outbreak notifications to the EUROPHYT outbreak network
+
+1\. EUROPHYT network contact points shall submit in EUROPHYT an outbreak notification containing at least the information indicated in points 1.1, 1.3, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.4 and 8 of Annex I to this Regulation no later than eight working days after the date of the official confirmation by the responsible official body of the presence of a pest as referred to in points (a) and (b) of the first paragraph of Article 11, Article 29(1), Article 30(1) and Article 33(1) of Regulation (EU) 2016/2031.
+
+2\. Where the presence of a pest is officially confirmed pursuant to paragraph 1, the notification shall also contain the information indicated in point 5.6 of Annex I.
+
+3\. The network contact points shall submit in EUROPHYT a notification containing the information indicated in points 1.2, 3.2, 4.2, 4.3, 4.4, 5.3 to 5.6, 6.1, 6.2, 6.3, 6.5, 6.6, 6.7, 7.1 to 7.6, 9 and 10 of Annex I no later than thirty days after the relevant date referred to in paragraph 1.
+
+4\. EUROPHYT network contact points shall update the notifications referred to in paragraphs 1 and 3 as soon as they have verified any relevant new information that has been made available to them or the competent authority has taken new measures.
+
+## Article 34 — Storage period of personal data for EUROPHYT outbreak notifications
+
+EUROPHYT shall store personal data from EUROPHYT outbreak notifications for no more than 10 years.
+
+**SECTION 4**
+
+**TRACES**
+
+## Article 35 — TRACES network
+
+Without prejudice to Article 4(2), each TRACES network member shall designate one or more contact points for the functionalities provided for in Article 132(d) and Article 133 of Regulation (EU) 2017/625, and in other Union legislation referring to TRACES.
+
+## Article 36 — Access to data, information and documents in TRACES
+
+1\. Each operator shall have access to the data, information or documents it handles, produces or transmits in TRACES.
+
+2\. Each competent authority shall have access to data, information or documents handled, produced or transmitted under its area of responsibility in TRACES, whether by its own staff or by the operators it manages in TRACES.
+
+3\. Where more than one competent authority handle, produce or transmit data, information or documents in TRACES, they shall have access to all such data, information and documents.
+
+4\. Without prejudice to the Commissions’ right of access pursuant to Article 8(2), entities that have not contributed to the handling, production or transmission of data, information or documents in TRACES, or are not involved in the placing on the market or the movement concerned, shall not have access to such data, information or documents.
+
+5\. By way of derogation from paragraph 4 of this Article, competent authorities shall have access to data, information and documents concerning a decision to refuse entry of a consignment or an order to take an action, recorded in TRACES in accordance with Article 66(5) of Regulation (EU) 2017/625.
+
+## Article 37 — Exchanges between TRACES and other electronic systems
+
+1\. Data exchanges between TRACES and other electronic systems, including the Member States’ national systems, shall be synchronous, reciprocal and based on UN/CEFACT, IPPC and OIE standards.
+
+2\. Data exchanges between TRACES and the Member States’ national systems shall make use of reference data provided in TRACES.
+
+## Article 38 — Cooperation between authorities in Member States in relation to consignments entering the Union
+
+1\. For the purpose of the cooperation provided for in Article 75(1) of Regulation (EU) 2017/625, the Member States’ customs authorities shall have access to data, information and documents relating to animals and goods entering the Union from third countries and to decisions taken on the basis of official controls carried out in accordance with Chapter V of Title II of that Regulation, through:
+
+(a) TRACES or their Member States’ national systems; or
+
+(b) the EU Single Window environment for customs based on the electronic customs systems referred to in Decision No 70/2008/EC and interconnected with TRACES.
+
+2\. Where the access referred to in paragraph 1 is not available, Member States shall ensure without undue delay that their customs and competent authorities reciprocally exchange in a timely manner, the relevant data, information and documents.
+
+## Article 39 — Issuance of electronic certificates for consignments of animals and goods entering the Union and use of electronic signatures
+
+1\. Electronic animal health certificates, official certificates and animal health/official certificates for consignments of animals and goods entering the Union shall meet all of the following requirements:
+
+(a) they shall be issued in one of the following systems:
+
+(i) TRACES;
+
+(ii) a Member State’s national system;
+
+(iii) a third country’s or an international organisation’s electronic certification system that is capable of exchanging data with TRACES;
+
+(iv) a third country’s or an international organisation’s electronic certification system that is capable of exchanging data with a Member State’s national system;
+
+(b) they shall be signed by an authorised officer with his/her electronic signature;
+
+(c) they shall bear the advanced or qualified electronic seal of the issuing competent authority, or the advanced or qualified electronic signature of its legal representative.
+
+2\. Where electronic animal health certificates, official certificates and animal health/official certificates are issued in accordance with point (a)(iii) or (iv) of paragraph 1, the electronic signature of the authorised officer is not required.
+
+3\. The Commission shall be notified in advance of the issuance of electronic animal health certificates, official certificates and animal health/official certificates in accordance with point (a)(iv) of paragraph 1.
+
+4\. The competent authority shall accept electronic phytosanitary certificates, as required for the introduction of plants, plant products and other objects into the Union territory in accordance with Section 1 of Chapter VI of Regulation (EU) 2016/2031, only where they are issued in accordance with point (a)(i) or (iii) of paragraph 1 of this Article.
+
+## Article 39a — Issuance of electronic certificates and commercial documents for movements of animals and goods between Member States and use of electronic signatures
+
+Electronic animal health certificates, official certificates and animal health/official certificates for movements of animals, products of animal origin and germinal products between Member States, and electronic commercial documents for certain animal by-products and derived products, not intended for human consumption and transported to another Member State, shall meet all of the following requirements:
+
+(a) they shall be issued in TRACES;
+
+(b) they shall be signed by an official veterinarian or a certifying officer with his/her electronic signature;
+
+(c) they shall bear the advanced or qualified electronic seal of the issuing competent authority.
+
+## Article 39b — Issuance of electronic certificates for export and re-export of plants, plant products and other objects and use of electronic signatures
+
+Electronic phytosanitary certificates for export or re-export of plants, plant products and other objects from the Union territory to a third country shall be issued in one of the following systems:
+
+(a) TRACES, provided that the certificate meets all of the following requirements:
+
+(i) it is signed by a certifying officer with his/her electronic signature;
+
+(ii) it bears the advanced or qualified electronic seal of the issuing competent authority;
+
+(b) the national system of a Member State, provided that the certificate meets all of the following requirements:
+
+(i) it is signed by a certifying officer with his/her electronic signature;
+
+(ii) it is transmitted to TRACES at the latest at the time of electronic signature by the certifying officer and that transmission is sealed with the advanced or qualified electronic seal of the issuing competent authority.
+
+## Article 40 — Format of the CHED and instructions for its presentation and use
+
+1\. The CHED shall contain entries for the information set out in Part 1 of Annex II to this Regulation and be used by the operator and the competent authorities in accordance with Article 56(3) of Regulation (EU) 2017/625 in one of the following formats, depending on the category of the consignment established in Article 47(1) of that Regulation:
+
+(a) a CHED-A drawn up in accordance with the template in Section A of Part 2 of Annex II to this Regulation, for consignments of animals that are:
+
+(i) referred to in point (a) of Article 47(1) of Regulation (EU) 2017/625; or
+
+(ii) subject at their entry into the Union to measures provided for in points (e) or (f) of Article 47(1) of Regulation (EU) 2017/625;
+
+(b) a CHED-P drawn up in accordance with the template in Section B of Part 2 of Annex II to this Regulation, for consignments of products that are:
+
+(i) referred to in point (b) of Article 47(1) of Regulation (EU) 2017/625; or
+
+(ii) subject at their entry into the Union to measures provided for in points (d), (e) or (f) of Article 47(1) of Regulation (EU) 2017/625;
+
+(c) a CHED-PP drawn up in accordance with the template in Section C of Part 2 of Annex II to this Regulation, for consignments of:
+
+(i) plants, plant products and other objects referred to in point (c) of Article 47(1) of Regulation (EU) 2017/625; or
+
+(ii) plants, plant products and other objects subject at their entry into the Union to one of the measures or conditions provided for in points (d), (e) or (f) of Article 47(1) of Regulation (EU) 2017/625; or
+
+(iii) specific plants, plant products and other objects of a particular origin or provenance for which a minimum level of official controls is necessary to respond to recognised uniform hazards and risks to plant health as provided for in Implementing Regulation (EU) 2019/66;
+
+(d) a CHED-D drawn up in accordance with the template in Section D of Part 2 of Annex II to this Regulation, for consignments of feed and food of non-animal origin subject at their entry into the Union to any of the measures or conditions provided for in points (d), (e) or (f) of Article 47(1) of Regulation (EU) 2017/625.
+
+2\. The CHED referred to in paragraph 1 shall be:
+
+(a) drawn up in at least one of the official languages of the Member State of entry;
+
+(b) duly completed in at least one of the official languages of the Member State of entry in accordance with the explanatory notes provided for in Part 1 of Annex II to this Regulation, by:
+
+(i) the operator responsible for the consignment, as regards the information on the details of the consignment, as described in Part I of the templates in Sections A to D of Part 2 of that Annex;
+
+(ii) the competent authority at a border control post or control point, as regards the information on the decision taken on the consignment, as described in Part II of the templates in Sections A to D of Part 2 of that Annex;
+
+(iii) the competent authority at the border control post of exit or final destination, or by the local competent authority, as regards the information on the follow-up measures taken on the consignment after a decision has been taken, as described in Part III of the templates in Sections A to D of Part 2 of that Annex.
+
+3\. By way of derogation from paragraph 2(a), a Member State may consent to a CHED being drawn up in an official EU language other than that of the Member State of entry.
+
+## Article 41 — Use of an electronic CHED
+
+An operator’s or a competent authority’s use of a CHED in an electronic format shall be by means of one of the following systems:
+
+(a) TRACES, provided that the CHED meets all of the following requirements:
+
+(i) it is signed by the operator responsible for the consignment with his/her electronic signature;
+
+(ii) it is signed by the official veterinarian, the official plant health officer or the certifying officer at border control posts or control points with his/her electronic signature;
+
+(iii) it bears the advanced or qualified electronic seal of the issuing competent authority;
+
+(b) the national system of a Member State, provided that the CHED meets all of the following requirements:
+
+(i) it is signed by the operator responsible for the consignment with his/her electronic signature;
+
+(ii) it is signed by the official veterinarian, the official plant health officer or the certifying officer at border control posts or control points with his/her electronic signature;
+
+(iii) it is transmitted to TRACES at the latest at the time when the decision on the consignment is taken on the basis of official controls and that transmission is sealed by the advanced or qualified electronic seal of the issuing competent authority.
+
+## Article 42 — Periods of storage of electronic certificates and CHEDs and personal data therefrom
+
+1\. For the purpose of maintaining the integrity of certificates and CHEDs issued in accordance with Article 39 and Article 41 respectively, relevant data concerning electronic signatures, electronic seals, timestamps and electronic exchanges shall be stored by TRACES and the Member States’ national systems for at least 3 years.
+
+2\. Personal data from the certificates and CHEDs referred to in paragraph 1 shall be stored by TRACES and the Member States’ national systems for no more than 10 years.
+
+## Article 43 — List of control units
+
+Each TRACES network contact point shall maintain and keep up to date in TRACES the list of control units that its Member State has designated for the purposes of TRACES.
+
+## Article 44 — List of border control posts and control points
+
+1\. Each TRACES network contact point shall maintain and keep up to date in TRACES the list of border control posts and control points that its Member State has designated in accordance with Article 59(1) and Article 53(2), respectively, of Regulation (EU) 2017/625 for the purpose of performing official controls on one or more of the categories of animals and goods referred to in Article 47(1) of that Regulation.
+
+2\. The contact point referred to in paragraph 1 of this Article shall insert in TRACES information regarding each designated border control post and control point using
+
+(a) the format set out in Annex I to Commission Implementing Regulation (EU) 2019/1014 ( 2 ) to provide the information referred to in Article 60(1) of Regulation (EU) 2017/625;
+
+(b) the abbreviations and specifications set out in Annex II to that Implementing Regulation.
+
+## Article 45 — Lists of reference data
+
+1\. Each TRACES network contact point shall maintain and keep up to date in TRACES lists of the following:
+
+(a) food business establishments that the competent authority of its Member State has approved in accordance with Article 6(3) of Regulation (EC) No 852/2004;
+
+(b) establishments, plants and operators handling animal by-products or derived products that the competent authority of its Member State has approved or registered in accordance with Article 47 of Regulation (EC) No 1069/2009;
+
+(c) control posts to which the competent authority of its Member State has granted an approval in accordance with Article 3 of Council Regulation (EC) No 1255/97 ( 3 );
+
+(d) transporters carrying out long journeys to which the competent authority has granted an authorisation pursuant to Article 11(1) of Council Regulation (EC) No 1/2005 ( 4 );
+
+(e) establishments included in the register of approved establishments referred to in point (b) of the first subparagraph of paragraph 1 of Article 101 of Regulation (EU) 2016/429 in so far as they move kept terrestrial animals and germinal products to another Member State or receive kept terrestrial animals and germinal products from a third country;
+
+(f) establishments included in the register of approved aquaculture establishments and disease control aquatic food establishments referred to in respectively Article 185(1)(b) and (c) of Regulation (EU) 2016/429 in so far as they move aquaculture animals to another Member State or receive aquaculture animals from a third country;
+
+(g) establishments and operators included in the register of registered establishments and operators referred to in point (a) of the first subparagraph of paragraph 1 of Article 101 of Regulation (EU) 2016/429 in so far as they move kept terrestrial animals and germinal products to another Member State or receive kept terrestrial animals and germinal products from a third country;
+
+(h) establishments included in the register of registered aquaculture establishments referred to in Article 185(1)(a) of Regulation (EU) 2016/429 in so far as they move aquaculture animals to another Member State or receive aquaculture animals from a third country;
+
+(i) transporters to which the competent authority has granted an authorisation pursuant to Article 10(1) of Regulation (EC) No 1/2005;
+
+(j) drivers and attendants of road vehicles transporting domestic Equidae or domestic animals of bovine, ovine, caprine or porcine species or poultry to which the competent authority has granted a certificate of competence pursuant to Article 17(2) of Regulation (EC) No 1/2005;
+
+(k) means of transport by road used for long journeys and livestock vessels to which the competent authority has granted a certificate of approval pursuant to respectively Articles 18(1) and 19(1) of Regulation (EC) No 1/2005;
+
+(l) operators included in the register of professional operators introducing into the Union plants, plant products and other objects for which a phytosanitary certificate is required as referred to in point (a) of the first subparagraph of Article 65(1) of Regulation (EU) 2016/2031;
+
+(m) quarantine stations and confinement facilities designated in accordance with Article 60 of Regulation (EU) 2016/2031 to carry out activities involving plants, plant products and other objects introduced into the Union territory from third countries.
+
+2\. The contact points referred to in paragraph 1 shall insert in TRACES information concerning each list referred to in that paragraph using the technical specifications for the format of these lists provided by the Commission.
+
+3\. The Commission shall assist the Member States in making the lists referred to in points (a) to (f) of paragraph 1 available to the public through publication on its website or through TRACES.
+
+## Article 46 — Contingency arrangements for TRACES and Member States’ national systems in the event of unplanned or planned unavailability
+
+1\. TRACES network contact points shall maintain a public repository on the internet containing a fillable template of all documents that may be issued in TRACES or in the Member State’s national system in accordance with this Regulation.
+
+2\. Where a Member State’s national system, TRACES or one of their functionalities is unavailable for more than an hour, their users may use a fillable printed or electronic template, as referred to in paragraph 1, to record and exchange information.
+
+3\. Once the systems or functionalities referred to in paragraph 2 become available again, their users shall use the information recorded in accordance with paragraph 2 to produce electronically the documents required under this Regulation.
+
+4\. Where TRACES, a Member State’s national system or one of their functionalities is unavailable, Member States may temporarily produce and electronically exchange all necessary documents in the available system and obligations regarding TRACES functionalities shall not apply. The Commission and the owners of the national systems shall perform an ad hoc bulk exchange of those documents as soon as availability is restored.
+
+5\. Documents produced in accordance with paragraphs 2 and 4 shall bear the text ‘produced during contingency’.
+
+6\. The Commission shall inform users through TRACES two weeks in advance of any planned unavailability, how long it will last and the reason for it.
+
+**CHAPTER 4**
+
+**Final provisions**
+
+## Article 47 — Repeals
+
+1\. Directive 94/3/EC, Decisions 92/486/EEC, 2003/24/EC, 2003/623/EC, 2004/292/EC, 2004/675/EC and 2005/123/EC, Regulation (EU) No 16/2011, and Implementing Decisions 2014/917/EU, (EU) 2015/1918 and (EU) 2018/1553 are repealed as from 14 December 2019.
+
+2\. References to those repealed acts shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+
+## Article 48 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019, except for Section 2 of Chapter 3, which shall apply from 21 April 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Content of notifications referred to in Article 32**
+
+1\. General information
+
+1.1. Title — enter the scientific name of the pest concerned, as referred to in points (a) and (b) of the first paragraph of Article 11, Article 29(1), Article 30(1) and Article 33(1) of Regulation (EU) 2016/2031, the location and whether it is first presence or not. The scientific name must be one of the following:
+
+(1) the scientific name of the pest, including as appropriate the pathovar; or,
+
+(2) if point (1) is not applicable, the scientific name approved by an international organisation, including the pathovar, and the name of that organisation; or,
+
+(3) if neither point (1) nor point (2) is applicable, the scientific name from the most reliable source of information, with reference to that source.
+
+You may submit explanatory notes.
+
+1.2. Executive summary — a summary of the information in points 3 to 7.
+
+1.3. Enter one of the following:
+
+(1) partial notification in accordance with Article 32(1) and (2);
+
+(2) notification in accordance with Article 32(3);
+
+(3) update of notification in accordance with Article 32(4);
+
+(4) closing note on the termination of measures and the reason for the termination.
+
+2\. Single authority and persons responsible
+
+2.1. Name of the single authority submitting the notification — enter the words ‘Notification from’, followed by the name of the single authority and its Member State.
+
+2.2. Official contact at the single authority — enter the name, telephone number and email address of the person named by the single authority as official contact for the notification. Where more than one person is named, give the reasons.
+
+3\. Location of presence of the pest
+
+3.1. Indicate, as precisely as possible, the location of the presence of the pest, with reference at least to an administrative region (e.g. municipality, city, province).
+
+3.2. Attach one or more maps of the location.
+
+4\. Reason for notification, pest status of area and Member State concerned
+
+4.1. Enter one of the following:
+
+(1) first confirmed or suspected presence of the pest in the territory of the Member State concerned;
+
+(2) confirmed or suspected presence of the pest in part of the territory of the Member State concerned, in which its presence was previously unknown. (Where applicable, indicate that the pest appeared in a part of the territory in which it had been previously present but was eradicated).
+
+4.2. Pest status of the area ( 5 ) in which the pest has been found, after official confirmation — enter, with an explanatory note, one or more of the following:
+
+(1) present in all parts of the area;
+
+(2) present only in specific parts of the area;
+
+(3) present in specific parts of the area where host plants are not grown;
+
+(4) present: under eradication;
+
+(5) present: under containment;
+
+(6) present: at low prevalence;
+
+(7) absent: pest found but eradicated;
+
+(8) absent: pest found but no longer present for reasons other than eradication;
+
+(9) transient (the presence of the pest is not expected to lead to establishment): non-actionable;
+
+(10) transient: actionable, under surveillance;
+
+(11) transient: actionable, under eradication;
+
+(12) other.
+
+4.3. Pest status in the Member State concerned before the official confirmation of the presence, or suspected presence, of the pest — enter with an explanatory note, one or more of the following:
+
+(1) present in all parts of the Member State;
+
+(2) present only in some parts of the Member State;
+
+(3) present in specific parts of the Member State, where host crop(s) are not grown;
+
+(4) present: seasonally;
+
+(5) present: under eradication;
+
+(6) present: under containment (where eradication is impossible);
+
+(7) present: at low prevalence;
+
+(8) absent: no pest records;
+
+(9) absent: pest eradicated;
+
+(10) absent: pest no longer present for reasons other than eradication;
+
+(11) absent: pest records invalid;
+
+(12) absent: pest records unreliable;
+
+(13) absent: intercepted only;
+
+(14) transient: non-actionable;
+
+(15) transient: actionable, under surveillance;
+
+(16) transient: actionable, under eradication;
+
+(17) other.
+
+4.4. Pest status in the Member State concerned after the official confirmation of the presence of the pest — enter, with an explanatory note, one or more of the following:
+
+(1) present in all parts of the Member State;
+
+(2) present only in some parts of the Member State;
+
+(3) present in specific parts of the Member State where host crop(s) are not grown;
+
+(4) present: seasonally;
+
+(5) present: under eradication;
+
+(6) present: under containment (where eradication is impossible);
+
+(7) present: at low prevalence;
+
+(8) absent: pest eradicated;
+
+(9) absent: pest no longer present for reasons other than eradication;
+
+(10) absent: pest records invalid;
+
+(11) absent: pest records unreliable;
+
+(12) absent: intercepted only;
+
+(13) transient: non-actionable;
+
+(14) transient: actionable, under surveillance;
+
+(15) transient: actionable, under eradication;
+
+(16) other.
+
+5\. Finding, sampling, testing and confirmation of the pest
+
+5.1. How the presence of the pest was found or the suspicion of the presence arose — enter one of the following:
+
+(1) pest-related official survey;
+
+(2) survey relating to an existing or eradicated outbreak of a pest;
+
+(3) phytosanitary inspections of any type;
+
+(4) trace back and forward inspection relating to the specific presence of the pest;
+
+(5) official inspection for other than phytosanitary purposes;
+
+(6) information submitted by professional operators, laboratories or others;
+
+(7) scientific information;
+
+(8) other.
+
+You may make further comments in the form of free text or attached documents.
+
+If you enter option (8), indicate a specification.
+
+For inspections, indicate the date(s), the description of the method (including details of visual or other checks), briefly describe the site of the inspection and the findings, and provide picture(s).
+
+If you enter option (3) or (4), indicate the date of inspection(s) and describe the method of inspection (including details of visual or other checks). You may briefly describe the site of the inspection and the findings, and provide picture(s).
+
+5.2. Date of finding — enter the date on which the responsible official body established the presence of the pest, began to suspect it or was first informed of its finding. If the pest was found by a person other than the responsible official body, enter the date on which it was found and on which that person informed the responsible official body.
+
+5.3. Sampling for laboratory analysis — where applicable, provide information on the sampling procedure for laboratory analysis, including date, method and sample size. You may attach pictures.
+
+5.4. Laboratory — where applicable, enter the name and the address of the laboratory(ies) involved in identifying the pest.
+
+5.5. Diagnostic method — enter one of the following:
+
+(1) according to peer reviewed protocol — (provide a clear reference to the protocol and, where appropriate, any deviation from it).
+
+(2) other (specify the method).
+
+5.6. Date of official confirmation of the identity of the pest.
+
+6\. Information on the infested area and the severity and source of the outbreak
+
+6.1. Size and delimitation of the infested area — enter one or more of the following (you may give approximate figures, but explain why it is not possible to be precise):
+
+(1) infested surface (m2, ha, km2);
+
+(2) number of infested plants (pieces);
+
+(3) volume of infested plant products (tons, m3);
+
+(4) GPS key coordinates or other specific description (e.g. Eurostat territorial units (NUTS), geographical codes (Geocodes), aerial photos) delimitating the area.
+
+6.2. Characteristics of the infested area and its vicinity — enter one or more of the following:
+
+(1) Open air — production area:
+
+(1.1) field (arable, pasture);
+
+(1.2) orchard/vineyard;
+
+(1.3) nursery;
+
+(1.4) forest.
+
+(2) Open air — other:
+
+(2.1) private garden;
+
+(2.2) public sites;
+
+(2.3) conservation area;
+
+(2.4) wild plants in areas other than conservation areas;
+
+(2.5) other (please specify).
+
+(3) physically closed conditions:
+
+(3.1) greenhouse;
+
+(3.2) other conservatories;
+
+(3.3) private site (other than greenhouse);
+
+(3.4) public site (other than greenhouse);
+
+(3.5) other (please specify).
+
+For each option, indicate whether the infestation concerns one or more of the following:
+
+— plants for planting;
+
+— other plants;
+
+— plant products; or
+
+— other objects.
+
+6.3. Host plants in the infested area and its vicinity — give the scientific name of host plants in that area, in accordance with point 6.4. You may provide additional information on the density of host plants, with reference to cultivation practices specific characteristic of the habitats, or on susceptible plant products produced in the area.
+
+6.4. Infested plant(s), plant product(s) and other object(s) — give the scientific name of the infested host plant(s). You may indicate the variety and, for plant products, the type of the commodity, as appropriate.
+
+6.5. Vectors present in the area — where applicable, enter one of the following:
+
+(1) the scientific name of the vectors at least at genus level; or,
+
+(2) if point (1) is not applicable, the scientific name approved by an international organisation and the name of that organisation(s); or,
+
+(3) if neither point (1) nor point (2) is applicable, the scientific name from the most reliable source of information, with reference to that source. You may provide additional information on the density of the vectors or characteristics of plants important for the vectors.
+
+6.6. Severity of the outbreak — describe the current extent of infestation, symptoms and damage. Where appropriate, include forecasts as soon as they are available.
+
+6.7. Source of the outbreak — indicate the confirmed pathway of the pest into the area or of the suspected pathway pending confirmation, as applicable. You may provide further information concerning the confirmed or potential origin of the pest.
+
+7\. Official phytosanitary measures
+
+7.1. Adoption of official phytosanitary measures — enter one of the following options and provide explanatory notes:
+
+(1) official phytosanitary measures have been taken in the form of chemical, biological or physical treatment.
+
+(2) official phytosanitary measures, other than measures in the form of chemical, biological or physical treatment, have been taken.
+
+(3) official phytosanitary measures will be taken.
+
+(4) a decision on official phytosanitary measures is pending;
+
+(5) no official phytosanitary measures (explain why).
+
+Where a demarcated area has been established, indicate under options (1), (2) and (3) whether the measures have been/will be taken in or outside that area.
+
+7.2. Date of adoption of official phytosanitary measures (indicate the expected duration of any temporary measures).
+
+7.3. Identification of the area covered by official phytosanitary measures — indicate the method used to identify the area covered by official phytosanitary measures. Provide the results of the surveys that have been carried out.
+
+7.4. Objective of the official phytosanitary measures — enter one of the following options:
+
+(1) eradication;
+
+(2) containment (where eradication is impossible).
+
+7.5. Measures affecting the movement of goods — enter one of the following options:
+
+(1) measures affect the import of goods into the Union or the movement of goods within the Union (please describe the measures);
+
+(2) measures do not affect the import of goods into the Union or the movement of goods within the Union.
+
+7.6. Specific surveys — where surveys are carried out as part of official phytosanitary measures, describe their methodology, duration and scope.
+
+8\. Pest risk assessment
+
+Enter one of the following:
+
+(1) Pest risk assessment is not required (for those pests referred to in points (a) and (b) of the first paragraph of Article 11, or subject to measures referred to in the second subparagraph of Article 30(1), of Regulation (EU) 2016/2031);
+
+(2) Pest risk assessment, or preliminary pest risk assessment, under development;
+
+(3) Preliminary pest risk assessment exists — outline the major findings, and attach the preliminary pest risk assessment or indicate where it can be found;
+
+(4) Pest risk assessment exists — outline the major findings, and attach the pest risk assessment or indicate where it can be found.
+
+9\. Add links to relevant websites and other sources of information.
+
+10\. Indicate whether some or all of the information under points 1.1 , 1.3 , 3.1 , 4.1 to 4.4 , 5.1 to 5.6 , 6.1 to 6.7 , 7.1 to 7.6 and 8 must be transmitted to the European and Mediterranean Plant Protection Organisation.
+
+## ANNEX II
+
+**Common health entry documents (CHEDs)**
+
+**PART 1**
+
+**CHED entries and explanatory notes**
+
+**General**
+
+The entries specified in Part 1 constitute the data dictionaries for the electronic version of the CHED.
+
+Unless otherwise specified or established by Union legislation, all entries or boxes apply to the CHED templates in Part 2.
+
+Paper copies of an electronic CHED must bear a unique machine-readable optical label which hyperlinks to the electronic version.
+
+You shall select one box from boxes I.20 to I.26 and boxes II.9 to II.16; for each box, you shall select one option.
+
+Where a box allows you to select one or more options, only the option(s) you select will be displayed in the electronic version of the CHED.
+
+Where a box is not compulsory, its contents will appear as strike-through text.
+
+The sequences of boxes in the CHED templates in Part 2 and the size and shape of those boxes are indicative.
+
+Where a stamp is required, its electronic equivalent is an electronic seal.
+
+In processing the personal data included in the CHEDs, Member States shall comply with Regulation (EU) 2016/679 and Directive (EU) 2016/680 and the Commission with Regulation (EU) 2018/1725.
+
+<table>
+<tbody><tr><td colspan="2">PART I – DESCRIPTION OF CONSIGNMENT</td></tr>
+<tr><td>Box</td><td>Description</td></tr>
+<tr><td>I.1.</td><td>Consignor/Exporter</td></tr>
+<tr><td>  </td><td>Indicate the name and address, country and ISO country code (1) of the natural or legal person dispatching the consignment. This person shall be established in a third country, except in certain cases provided for in Union law, where they may be established in a Member State.</td></tr>
+<tr><td>I.2</td><td>CHED reference</td></tr>
+<tr><td>  </td><td>This is the unique alphanumeric code assigned by the IMSOC (repeated in boxes II.2 and III.2).</td></tr>
+<tr><td>I.3</td><td>Local reference</td></tr>
+<tr><td>  </td><td>Indicate the unique alphanumeric code assigned by the competent authority.</td></tr>
+<tr><td>I.4</td><td>Border control post/control point/control unit</td></tr>
+<tr><td>  </td><td>Select the name of the BCP or control point, as appropriate. Indicate the inspection location if appropriate.  In the case of a subsequent CHED-P for a non-conforming consignment, indicate the name of the control unit in charge of supervising the free zone or specially approved customs warehouse. </td></tr>
+<tr><td>I.5</td><td>Border control post/control point/control unit code</td></tr>
+<tr><td>  </td><td>This is the unique alphanumeric code assigned by the IMSOC to the BCP, control point or control unit.</td></tr>
+<tr><td>I.6</td><td>Consignee/Importer</td></tr>
+<tr><td>  </td><td>Indicate the name and address, country and ISO country code of the natural or legal person to whom the consignment is destined, and appearing on e.g. official certificates, official attestations or other documents including documents of commercial nature issued in the third country. If this person is the same as indicated in box I.8, this box is automatically filled by the IMSOC on the basis of the information provided in that box. This box is optional in the case of a transhipment or transit. </td></tr>
+<tr><td>I.7</td><td>Place of destination</td></tr>
+<tr><td>  </td><td>Indicate the name and address, country and ISO country code, of the place where the consignment is being delivered for final unloading. If this address is the same as indicated in box I.6, this box is automatically filled by the IMSOC on the basis of the information provided in that box. This place must be located in a Member State, including in the case of transit, as defined in point (44) of Article 3 of Regulation (EU) 2017/625, with storage of goods. In the case of a transit without storage of goods, the third country of destination is indicated in box I.22.  Where applicable, also indicate the registration or approval number of the establishment of destination.  For consignments to be split at the BCP, indicate the BCP as place of destination in the first CHED. Indicate in subsequent CHEDs the place of destination for each part of the split consignment.  For consignments to be transferred to a control point, indicate the control point as the place of destination. This box may be automatically filled by the IMSOC on the basis of the information provided in box I.20.  Where consignments are moved to an onward transportation facility, the place of destination is required only if different from the onward transportation facility. </td></tr>
+<tr><td>I.8</td><td>Operator responsible for the consignment</td></tr>
+<tr><td>  </td><td>Indicate the name and address, country and ISO country code of the natural or legal person in the Member State who is in charge of the consignment when presented at the BCP and who makes the necessary declarations to the competent authorities as the importer or on behalf of the importer. This operator may be the same as indicated in box I.6 and shall be the same as indicated in box I.35. This box may be automatically filled by the IMSOC.  In the case of a subsequent CHED, indicate the name and address of the person who is in charge of presenting the consignment for further official controls at the subsequent place.  In the case of a subsequent CHED-P for non-conforming consignments, indicate the name and the address of the person who is in charge of the procedures after warehousing. </td></tr>
+<tr><td>I.9</td><td>Accompanying documents</td></tr>
+<tr><td>  </td><td>Select the type of required accompanying documents: e.g. official certificates, official attestations, permits, declarations or other documents including documents of commercial nature. Indicate the unique code of the accompanying documents and the country of issue. The date of issue is however optional. If the official certificate has been generated in the IMSOC, indicate the unique alphanumeric code in box I.2a of the official certificate.  Commercial document references: indicate for example the airway bill number, the bill of lading number or the commercial number of the train or road vehicle. </td></tr>
+<tr><td>I.10</td><td>Prior notification</td></tr>
+<tr><td>  </td><td>Indicate the estimated arrival date and time at the entry point where the BCP is located. CHED-D/CHED-PP  Indicate the estimated arrival date and time of arrival at the control point in the case of a subsequent CHED for transfer to a control point. </td></tr>
+<tr><td>I.11</td><td>Country of origin</td></tr>
+<tr><td>  </td><td>This box may be automatically filled by the IMSOC on the basis of the information provided in box I.31. CHED-A  Indicate the country of residence during the required residency period indicated in the accompanying official certificate.  For registered horses re-entering the Union after temporary export for a period of less than 30, 60 or 90 days for races, competitions and cultural events in certain third countries, indicate the country from which they were last consigned.  CHED-P  Indicate the country where the products were produced, manufactured or packaged (labelled with the identification mark).  In the case of products re-entering the Union as referred to in Article 77(1)(h) of Regulation (EU) 2017/625 or re-entering the Union after transit through third countries (as defined in point 44(b) of Article 3 of that Regulation), indicate the Member State of origin.  CHED-PP  Indicate the country(ies) of origin where the plants, plant products or other objects were grown, produced, stored or processed, as mentioned in the phytosanitary certificate.  CHED-D  Indicate the goods’ country of origin or that in which they were grown, harvested or produced. </td></tr>
+<tr><td>I.12</td><td>Region of origin</td></tr>
+<tr><td>  </td><td>Where animals or goods are affected by regionalisation measures in accordance with Union law, indicate the code of the approved regions, zones or compartments. This box may be automatically filled by the IMSOC on the basis of the information provided in box I.31. CHED-PP  When the country of origin has officially declared certain areas as free from a specified pest, indicate the area of origin of the plant, plant product or other objects. </td></tr>
+<tr><td>I.13</td><td>Means of transport</td></tr>
+<tr><td>  </td><td>Select one of the following means of transport for animals or goods arriving at the BCP, and indicate its identification: — airplane (indicate the flight number);  — vessel (indicate the vessel name and number);  — railway (indicate the train identity and wagon number);  — road vehicle (indicate the registration number with trailer number, if applicable).  In the case of a ferry, tick ‘vessel’ and identify the road vehicle(s) with registration number (with trailer number, if applicable), in addition to the name of the scheduled ferry.  CHED-PP  Identification of the means of transport is not required. </td></tr>
+<tr><td>I.14</td><td>Country of dispatch</td></tr>
+<tr><td>  </td><td>CHED-P/CHED-PP/CHED-D Indicate the country where goods were placed on board the means of final transport for the journey to the Union. In some cases where the movement involves more than one country before entry into the Union (triangular movement), this may be the third country in which the official certificate was issued.  This box is not applicable to CHED-A. </td></tr>
+<tr><td>I.15</td><td>Establishment of origin</td></tr>
+<tr><td>  </td><td>Where required by Union legislation, indicate the name and address, country and ISO country code of the establishment(s) of origin. Where required by Union legislation, indicate its registration or approval number.  This box may be automatically filled by the IMSOC on the basis of the information provided in box I.31. </td></tr>
+<tr><td>I.16</td><td>Transport conditions</td></tr>
+<tr><td>  </td><td>CHED-P/CHED-D Indicate the category of required temperature during transport (ambient, chilled, frozen), if applicable. Only one category may be selected.  This box is not applicable to CHED-A and CHED-PP. </td></tr>
+<tr><td>I.17</td><td>Container number/Seal number</td></tr>
+<tr><td>  </td><td>Where applicable, indicate the container number and seal number (more than one possible). For official seal, indicate the official seal number as indicated in the official certificate and tick ‘official seal’ or indicate any other seal as mentioned in the accompanying documents. </td></tr>
+<tr><td>I.18</td><td>Certified as or for</td></tr>
+<tr><td>  </td><td>Select the purpose of the movement of animals, the intended use of goods or the category as specified in the official certificate (where required) or commercial document: CHED-A:  Breeding/production, fattening, confined establishments, dogs/cats/ferrets (or in case more than five dogs/cats/ferrets are moved for non-commercial purposes), ornamental aquatic animals, slaughterhouse, quarantine, registered equidae, relaying (only for aquaculture animals), travelling circus/animal acts, exhibition, restocking or other.  CHED-P:  Human consumption, feedstuff, pharmaceutical use, technical use, trade sample, further process or other.  CHED-D:  Human consumption, human consumption after further treatment, feedstuff, sample or display exhibition item, or other.  This box is not applicable to CHED-PP. </td></tr>
+<tr><td>I.19</td><td>Conformity of the goods</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-P. Tick ‘conforming’ when goods comply with the rules referred to in points (a) and (d) of Article 1(2) of Regulation (EU) 2017/625.  Tick ‘non-conforming’ where goods:  — do not comply with the rules referred to in point (a) of Article 1(2) of Regulation (EU) 2017/625; and  — comply with the rules referred to in point (d) of that Article; and  — are not destined to be placed on the market. </td></tr>
+<tr><td>I.20</td><td>For transhipment/transfer/onward travel to</td></tr>
+<tr><td>  </td><td>CHED-A (onward travel) Indicate the name and ISO country code of the destination third country where the animals stay within the same vessel or airplane and are intended to be sent directly to a third country without landing at another Union port or airport.  Indicate the name of the next BCP in the Union to which the animals are continuing their journey on the same vessel or airplane for further official controls.  CHED-P (transhipment)  Indicate the name of the destination third country and ISO country code where the products are transhipped to another vessel or airplane and are intended to be sent directly to a third country without landing at another Union port or airport.  Indicate the name of the next BCP in the Union where the products are to be transhipped for further official controls.  CHED-PP (transhipment/transfer)  Indicate the name of the next BCP or the control point in the Union to which the goods are to be transhipped or transferred, respectively, for further official controls.  CHED-D (transfer)  Indicate the name of the control point in the Union to which the goods are to be transferred for further official controls if the consignment is selected for identity and physical checks. </td></tr>
+<tr><td>I.21</td><td>For onward transportation</td></tr>
+<tr><td>  </td><td>CHED-PP/CHED-D Indicate the authorised onward transportation facility to which the consignment is to be transported after it has been selected for identity and physical checks at the BCP. </td></tr>
+<tr><td>I.22</td><td>For transit to</td></tr>
+<tr><td>  </td><td>Indicate the name of the destination third country and ISO country code. Indicate the name of the exit BCP for non-conforming consignments that are crossing Union territory by road, rail or waterway (external transit).  This box does not apply to CHED-D. </td></tr>
+<tr><td>I.23</td><td>For internal market</td></tr>
+<tr><td>  </td><td>Tick this box where consignments are intended to be placed on the Union market.</td></tr>
+<tr><td>I.24</td><td>For non-conforming goods</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-P. Select the type of destination where the consignment will be delivered and indicate the registration number where applicable: specially approved customs warehouse, free zone or vessel (including its name and the port of delivery). </td></tr>
+<tr><td>I.25</td><td>For re-entry</td></tr>
+<tr><td>  </td><td>CHED-A: Tick the box in the case of re-entry of registered horses into the Union after temporary export for a period of less than 30, 60 or 90 days for races, competitions and cultural events in certain third countries.  Tick the box in the case of re-entry of animals originating in and returning to the Union after refusal of entry by a third country.  CHED-P/CHED-PP  Tick the box in the case of re-entry of goods originating in and returning to the Union after refusal of entry by a third country.  This box is not applicable to CHED-D. </td></tr>
+<tr><td>I.26</td><td>For temporary admission</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A and only for registered horses. Exit point — indicate the exit BCP.  Exit date — indicate the date of exit (this must be less than 90 days after admission). </td></tr>
+<tr><td>I.27</td><td>Means of transport after BCP/storage</td></tr>
+<tr><td>  </td><td>This box may be filled in after prior notification and is compulsory for: — animals subject to Council Regulation (EC) No 1/2005 (2) (CHED-A);  — goods subject to transhipment, direct transit, monitoring, re-entry or delivery to all controlled destinations, including onward transportation facility or control point, where additional official controls are required (CHED-P, CHED-PP, CHED-D);  — non-conforming goods in transit (CHED-P).  Select one of the following means of transport: airplane, vessel, railway or road vehicle (see guidance note in box I.13).  CHED-PP  If the container number is indicated in box I.17, the indication of the means of transport is not required. </td></tr>
+<tr><td>I.28</td><td>Transporter</td></tr>
+<tr><td>  </td><td>This box is compulsory only for CHED-A when box I.27 is used. Indicate the name and address, country and ISO country code of the natural or legal person in charge of the transport.  Indicate the registration or approval number where applicable. </td></tr>
+<tr><td>I.29</td><td>Date of departure</td></tr>
+<tr><td>  </td><td>This box is compulsory only for CHED-A when box I.27 is used. Indicate the estimated date and time of departure from the BCP. </td></tr>
+<tr><td>I.30</td><td>Journey log</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A and refers to the requirements in Regulation (EC) No 1/2005.</td></tr>
+<tr><td>I.31</td><td>Description of consignment</td></tr>
+<tr><td>  </td><td>Complete on the basis of e.g. official certificates, official attestations, declarations or other documents including documents of commercial nature so as to provide sufficient description of the goods allowing their identification and the calculation of fees e.g. Combined Nomenclature (CN) code and title, TARIC code, EPPO code, species (taxonomic information), net weight (kg). Indicate the number of straws for semen, ova and embryos,  Indicate, as required, the nature and number of packages, type of packaging (according to UN/CEFACT standards), batch number, individual identification number, passport number, product type.  In the case of a subsequent CHED, insert the quantity of goods indicated in the previous CHED.  CHED-P:  Tick ‘final consumer’ where products are packed for final consumers. </td></tr>
+<tr><td>I.32</td><td>Total number of packages</td></tr>
+<tr><td>  </td><td>Indicate the total number of packages in the consignment, where appropriate.</td></tr>
+<tr><td>I.33</td><td>Total quantity</td></tr>
+<tr><td>  </td><td>CHED-A: Indicate the total number of animals, where appropriate.  CHED-P:  Indicate the total number of straws for semen, ova and embryos, where appropriate.  CHED-PP/CHED-D:  Indicate the number of pieces or volume, where appropriate. </td></tr>
+<tr><td>I.34</td><td>Total net weight/total gross weight (kg)</td></tr>
+<tr><td>  </td><td>This is the total net weight (i.e. the mass of the animals or goods themselves, without immediate containers or any packaging) automatically calculated by the IMSOC on the basis of the information entered in box I.31. Indicate the total gross weight (i.e. the aggregate mass of the animals or goods, plus immediate containers and all packaging, but excluding transport containers and other transport equipment). This information is not required for CHED-PP. </td></tr>
+<tr><td>I.35</td><td>Declaration</td></tr>
+<tr><td>  </td><td>The declaration must be signed by the natural person responsible for the consignment and may be adapted according to the CHED used: I, the undersigned operator responsible for the consignment detailed above, certify that to the best of my knowledge and belief the statements made in Part I of this document are true and complete, and I agree to comply with the requirements of Regulation (EU) 2017/625 on official controls, including payment for official controls, as well as for re-dispatching consignments, quarantine or isolation of animals, or costs of euthanasia and disposal where necessary.  Signature (the signatory undertakes to accept back consignments in transit that are refused entry by a third country). </td></tr>
+<tr><td colspan="2">PART II – CONTROLS</td></tr>
+<tr><td>Box</td><td>Description</td></tr>
+<tr><td>II.1.</td><td>Previous CHED</td></tr>
+<tr><td>  </td><td>This is the unique alpha-numeric code assigned by the IMSOC for the CHED used before a consignment is split or before transshipment (where official controls are performed), replacement, cancellation or transfer to a control point.</td></tr>
+<tr><td>II.2</td><td>CHED reference</td></tr>
+<tr><td>  </td><td>This is the unique alpha-numeric code indicated in box I.2.</td></tr>
+<tr><td>II.3</td><td>Documentary check</td></tr>
+<tr><td>  </td><td>These include checks for compliance with national requirements for animals and goods for which not all conditions for entry into the Union are regulated by Union law.</td></tr>
+<tr><td>II.4</td><td>Identity check</td></tr>
+<tr><td>  </td><td>Tick ‘Yes’ or ‘No’ as appropriate. CHED-A  Tick ‘No’ where animals are to continue their journey by sea or by air on the same vessel or aircraft for onward travel from one BCP to another BCP and the official controls are to be completed at the next BCP.  CHED-P  Tick ‘No’ where goods are transhipped from one BCP to another BCP.  CHED-PP  Tick ‘No’ where goods are transferred to a control point or transhipped from one BCP to another BCP.  Tick ‘No’ where a reduced check or no identity check is required.  CHED-D  Tick ‘No’ where goods are transferred to a control point. </td></tr>
+<tr><td>II.5</td><td>Physical check</td></tr>
+<tr><td>  </td><td>Tick ‘Yes’ or ‘No’ as appropriate. CHED-A  This includes the outcome of the clinical examination, and the mortality and morbidity of the animals.  Tick ‘No’ where animals are to continue their journey by sea or by air on the same vessel or aircraft for onward travel from one BCP to another BCP in accordance with the relevant Union law and the official controls are to be completed at the next BCP.  CHED-P  Tick ‘Reduced check’ where, in accordance with the rules to be adopted pursuant to Article 54(3) of Regulation (EU) 2017/625, the consignment has not been selected for a physical check but is considered to have been checked satisfactorily with documentary and identity checks only.  Tick ‘Other’ where re-entry, monitoring, transit procedures are referred to. This also refers to animals and goods that are transhipped from one BCP to another BCP in accordance with the rules to be adopted pursuant to point (b) of Article 51(1) of Regulation (EU) 2017/625.  CHED-PP  Tick ‘Reduced check’ where, in accordance with the rules to be adopted pursuant to Article 54(3) of Regulation (EU) 2017/625, the consignment has not been selected for identity and physical checks but is considered to have been checked satisfactorily with documentary check only.  Tick ‘Other’ where re-entry, monitoring, transit procedures are referred to. This also refers to goods that are transhipped from one BCP to another BCP in accordance with the rules to be adopted pursuant to point (b) of Article 51(1) of Regulation (EU) 2017/625.  CHED-D  Tick ‘No’ where goods are transferred to a control point. </td></tr>
+<tr><td>II.6</td><td>Laboratory tests</td></tr>
+<tr><td>  </td><td>Tick ‘Yes’ if a test has been performed. Test: select the category of substance or pathogen for which a laboratory test has been carried out.  — tick ‘Random’ where the consignment is not detained at the BCP pending a test result. Do not tick where the consignment is sampled for laboratory tests described by other options in this box;  — tick ‘Suspicion’ where animals and goods are suspected of not complying with Union law and are detained at the BCP pending a test result;  — tick ‘Emergency measures’ where animals and goods are under specific emergency measures and are detained at the BCP pending a test result, unless onward transportation is authorised.  Test result:  — tick ‘Pending’ where the consignment can leave the BCP without awaiting a test result.  — tick ‘satisfactory’ or ‘not satisfactory’ where the test result is available.  CHED-P  Tick ‘Required’ where sampling is required in accordance with Union law and the consignment is not detained at the BCP pending a test result.  Tick ‘Intensified controls’ where animals and goods are subject to the rules on the procedures on intensified controls to be adopted pursuant to Article 65(6) of Regulation (EU) 2017/625, and are detained at the BCP pending a test result.  CHED-PP  Tick ‘Latent infection sampling’ where sampling is required in accordance with Union law and the consignment is not detained at the BCP pending a test result.  CHED-D  Tick ‘temporary increase of controls’ where goods are subject to measures requiring a temporary increase of controls (point (b) of Article 47(2) of Regulation (EU) 2017/625) and are detained at the BCP pending a test result, unless onward transportation is authorised. </td></tr>
+<tr><td>II.7</td><td>Welfare check</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A. Tick ‘No’ where live animals are not unloaded at the BCP indicated in box I.4 and transhipped to another BCP, and have not undergone a welfare check.  Tick the box ‘satisfactory’ or ‘not satisfactory’ where the results of the check on the animals and on the transport conditions are available. </td></tr>
+<tr><td>II.8</td><td>Impact of the transport on animals</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A. Indicate how many animals have died, how many animals are unfit to travel and the numbers of births or abortions (i.e. how many females gave birth or miscarried during transport).  In the case of animals consigned in large numbers (e.g. day-old chicks, fish or molluscs), give an estimate of the number of dead or unfit animals as appropriate. </td></tr>
+<tr><td>II.9</td><td>Acceptable for transhipment/transfer/onward travel to</td></tr>
+<tr><td>  </td><td>Tick this box if the consignment is acceptable for transhipment/transfer/onward travel. Transhipment does not apply to CHED-A and CHED-D. </td></tr>
+<tr><td>II.10</td><td>Acceptable for onward transportation</td></tr>
+<tr><td>  </td><td>CHED-PP/CHED-D Tick this box if the consignment is acceptable for onward transportation. </td></tr>
+<tr><td>II.11</td><td>Acceptable for transit</td></tr>
+<tr><td>  </td><td>Tick this box if the consignment is acceptable for transit. This box does not apply to CHED-D. </td></tr>
+<tr><td>II.12</td><td>Acceptable for internal market</td></tr>
+<tr><td>  </td><td>Tick this box where official controls are favourable, regardless of whether animals or goods are placed under customs procedure ‘release for free circulation’ at the border or at a later stage within the Union. CHED-A  Where the placing on the market of the animals under special conditions (as provided for by Union or national law) is authorised, indicate the controlled destination: slaughterhouse, confined establishment, quarantine or local use.  CHED-P  Tick the use of the product.  For animal by-products that have to be further processed, but that are not under transport monitoring conditions to be adopted pursuant to Article 77(2) of Regulation (EU) 2017/625, fill in box II.18.  CHED-D  Tick the use of the product: human consumption, feedstuff or other. </td></tr>
+<tr><td>II.13</td><td>Acceptable for monitoring</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A and CHED-P, and refers to a consignment monitored in accordance with the conditions to be adopted pursuant to Article 77(2) of Regulation (EU) 2017/625.</td></tr>
+<tr><td>II.14</td><td>Acceptable for non-conforming goods</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-P. Select the controlled destination: specially approved customs warehouse, free zone or vessel. </td></tr>
+<tr><td>II.15</td><td>Acceptable for temporary admission</td></tr>
+<tr><td>  </td><td>This box applies only to CHED-A and only for registered horses. Tick this box to authorise the admission of the animals on Union territory until the date in box I.26. </td></tr>
+<tr><td>II.16</td><td>Not acceptable</td></tr>
+<tr><td>  </td><td>This refers to consignments for which the outcome of the official controls is not favourable and entry into the Union is refused. Indicate the date by which the action has to be taken. CHED-A  Tick ‘Euthanasia’ where the meat from the animals cannot be allowed to go for human consumption.  Tick ‘Re-dispatch’ where the animals are sent back.  Tick ‘Slaughter’ where the meat from the animals could be used for human consumption after favourable inspection.  Tick ‘Destruction’ where the animals are dead on arrival at the BCP.  CHED-P/CHED-D  Tick destruction, re-dispatch, special treatment or use for other purposes.  CHED-PP  Tick appropriate treatment, entry refusal, quarantine imposed, destruction, re-dispatch, industrial processing or other. </td></tr>
+<tr><td>II.17</td><td>Reason for refusal</td></tr>
+<tr><td>  </td><td>CHED-A Tick ‘Documentary’ in the case of missing certificate, absence of original certificate, wrong model, fraudulent certificate, invalid dates, missing signature or stamp, invalid authority, missing laboratory report, absence of additional guarantees or absence of national requirement.  Tick ‘Origin’ in the case of non-authorised country, non-authorised zone or non-approved establishment.  Tick ‘Identity’ in the case of mismatched identification or document, mismatched means of transport, missing individual identification, mismatched individual identification number or mismatched species.  Tick ‘Physical’ in the case of presence of suspected animal(s), animal(s) unfit to travel or dead animal(s).  Tick ‘Laboratory’ in the case of unsatisfactory test result.  Tick ‘Animal welfare’ in the case of unsuitable means of transport.  Tick ‘IAS’ in the case of non-compliance with the rules applicable to invasive alien species of Union concern.  Tick ‘Other’ where none of the aforementioned reasons is applicable.  CHED-P  Tick ‘Documentary’ in the case of missing certificate, absence of original certificate, wrong model, fraudulent certificate, invalid dates, missing signature or stamp, invalid authority, missing laboratory report or missing additional declaration.  Tick ‘Origin’ in the case of non-authorised country, non-authorised region or non-approved establishment  Tick ‘Identity’ in the case of missing label, mismatched label or document, incomplete label, mismatched means of transport, mismatched official seal number, mismatched identification mark or mismatched species  Tick ‘Physical’ in the case of hygiene failure, cold chain breakdown, temperature failure, sensory check failure or presence of parasites.  Tick ‘Laboratory’ in the case of chemical contamination, microbiological contamination, veterinary drug residues, exposure to radiation, non-compliant additives or genetically modified organisms (GMOs).  Tick ‘IAS’ in the case of invasive alien species of Union concern  Tick ‘Other’ where none of the aforementioned reasons are applicable.  CHED-PP  Tick ‘Documentary’ in the case of missing or invalid certificate or plant passport or any other document providing guarantees in accordance with Union law.  Tick ‘Origin’ in the case of unknown company registration number where required.  Tick ‘Identity’ in the case of mismatch with documents accompanying the consignment.  Tick ‘Physical’ in the case of presence of a pest or prohibited plants, plant products or other objects.  Tick ‘Other’ where the consignee is not listed in official register of producers/importers.  Tick ‘IAS’ in the case of invasive alien species of Union concern.  CHED-D  Tick ‘Documentary’ in the case of missing or invalid certificate or other required accompanying documents.  Tick ‘Identity’ in the case of mismatch with accompanying documents.  Tick ‘Laboratory’ in the case of chemical contamination or microbiological contamination.  Tick ‘Physical’ in the case of physical hygiene failure.  Tick ‘Other’ where none of the aforementioned reasons are applicable. </td></tr>
+<tr><td>II.18</td><td>Details of controlled destinations</td></tr>
+<tr><td>  </td><td>Indicate the name, address and registration/approval number for all controlled destinations mentioned in boxes II.9 to II.16. CHED-A  For the establishments for which the competent authority requests anonymity, indicate the assigned registration/approval number only.  CHED-PP/CHED-D  In the case of onward transportation, indicate the name, address and, where applicable, the registration number of the onward transportation facility.  In case of transfer to a control point, indicate the contact details and the unique alphanumeric code assigned by the IMSOC to the control point. </td></tr>
+<tr><td>II.19</td><td>Consignment resealed</td></tr>
+<tr><td>  </td><td>Indicate the number of the seal attached after official controls in the BCP or after storage in a specially approved customs warehouse and in cases where Union law requires an official seal.</td></tr>
+<tr><td>II.20</td><td>Identification of BCP</td></tr>
+<tr><td>  </td><td>Apply the official stamp of the BCP or control point as appropriate. In the case of a subsequent CHED-P for a non-conforming consignment, indicate the name of the control unit in charge of supervising the free zone or specially approved customs warehouse. </td></tr>
+<tr><td>II.21</td><td>Certifying officer</td></tr>
+<tr><td>  </td><td>This box refers to the statement to be signed by the certifying officer entitled to sign the CHED: I, the undersigned certifying officer, certify that the checks on the consignment have been carried out in accordance with the Union requirements and where applicable in accordance with the national requirements of the Member State of destination. </td></tr>
+<tr><td>II.22</td><td>Inspection fees</td></tr>
+<tr><td>  </td><td>This box may be used to indicate the inspection fees.</td></tr>
+<tr><td>II.23</td><td>Customs document reference</td></tr>
+<tr><td>  </td><td>This box may be used by the customs authority or after communication from the customs authority by the responsible for the consignment to add relevant information (e.g. the reference of the T1 document) where consignments remain under customs supervision for a certain period.</td></tr>
+<tr><td>II.24</td><td>Subsequent CHED</td></tr>
+<tr><td>  </td><td>Indicate the alphanumeric code of one or more CHEDs issued in the cases to be established pursuant to Article 51 and point (a) of Article 53(1) of Regulation (EU) 2017/625 or after splitting at the BCP.</td></tr>
+<tr><td colspan="2">(1)  International standard two-letter code for a country in accordance with the ISO 3166 alpha-2 international standard; http://www.iso.org/iso/country_codes/iso-3166-1_decoding_table.htm  (2)  Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">PART III – FOLLOW-UP</td></tr>
+<tr><td>Box</td><td>Description</td></tr>
+<tr><td rowspan="2">III.1</td><td>Previous CHED</td></tr>
+<tr><td>This is the unique alphanumeric code indicated in box II.1.</td></tr>
+<tr><td rowspan="2">III.2</td><td>CHED reference</td></tr>
+<tr><td>This is the unique alphanumeric code indicated in box I.2.</td></tr>
+<tr><td rowspan="2">III.3</td><td>Subsequent CHED</td></tr>
+<tr><td>Indicate the alphanumeric code of one or more CHEDs indicated in box II.24.</td></tr>
+<tr><td rowspan="2">III.4</td><td>Details on re-dispatch</td></tr>
+<tr><td>Indicate the means of transport used and its identification, the country and the ISO country code. Indicate the date of re-dispatch and the name of the exit BCP, as soon as this information is known. In the case of rejection decisions, the date of re-dispatching must be no more than 60 days from the date of the validation of the CHED. </td></tr>
+<tr><td rowspan="2">III.5</td><td>Follow-up by</td></tr>
+<tr><td>Indicate the authority in charge of certifying the reception and compliance of the consignment covered by the CHED: the exit BCP, the final destination BCP or the control unit. CHED-A  Indicate the further destination and/or reasons for non-compliance or for changing the animals’ status (e.g. invalid destination, missing or invalid certificate, document mismatch, missing or invalid identification, unsatisfactory tests, suspected animal(s), dead animal(s), lost animal(s) or conversion into permanent entry).  CHED-P  Indicate the further destination and/or reasons for non-compliance (e.g invalid destination, missing or invalid certificate, document mismatch, missing or invalid identification, unsatisfactory controls, missing, broken, or mismatched official seal number…).  CHED-PP  In the case of goods under onward transportation or transfer to a control point, tick ‘yes’ or ‘no’ to indicate whether the consignment has arrived.  CHED-D  In the case of goods under onward transportation or transfer to a control point, tick ‘yes’ or ‘no’ to indicate whether the consignment has arrived. </td></tr>
+<tr><td rowspan="2">III.6</td><td>Certifying officer</td></tr>
+<tr><td>This refers to the signature of the certifying officer of the competent authority in the case of re-dispatch and follow-up of the consignments.</td></tr>
+</tbody>
+</table>
+
+**PART 2**
+
+**Common health entry document (CHED) templates**
+
+**Section A**
+
+**CHED-A**
+
+**(for animals referred to in point (a) of Article 47(1) of Regulation (EU) 2017/625)**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**Section B**
+
+**CHED-P**
+
+**(for products referred to in point (b) of Article 47(1) of Regulation (EU) 2017/625)**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**Section C**
+
+**CHED-PP**
+
+**(for plants, plant products and other objects referred to point (c) of Article 47(1) of Regulation (EU) 2017/625)**
+
+[image]
+
+[image]
+
+[image]
+
+**Section D**
+
+**CHED-D**
+
+**(for feed and food of non-animal origin referred to in point (d) of Article 47(1) of Regulation (EU) 2017/625)**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX III
+
+**Correlation table referred to in Article 47(2)**
+
+1\. Directive 94/3/EC
+
+| Directive 94/3/EC | This Regulation |
+| --- | --- |
+| Article 1 | Point (33) of Article 2 |
+| Article 2(1) and (2) | Article 33(1) |
+| Article 3 | Article 33(2) |
+| Article 4 | _ |
+| Article 5 | Point (34) of Article 2 |
+| Article 6 | Point 10 of Annex I |
+| Article 7 | _ |
+| Article 8 | _ |
+
+2\. Regulation (EU) No 16/2011
+
+| Regulation (EU) No 16/2011 | This Regulation |
+| --- | --- |
+| Point (1) of Article 1 | Point (2) of Article 2 |
+| Point (2) of Article 1 | Point (3) of Article 2 |
+| Point (3) of Article 1 | Point (4) of Article 2 |
+| Point (4) of Article 1 | Point (15) of Article 2 |
+| Point (5) of Article 1 | Point (16) of Article 2 |
+| Point (5)(a) of Article 1 | Point (17) of Article 2 |
+| Point (5)(b) of Article 1 | Point (18) of Article 2 |
+| Point (6) of Article 1 | Point (20) of Article 2 |
+| Point (7) of Article 1 | Point (22) of Article 2 |
+| Point (8) of Article 1 | Point (23) of Article 2 |
+| Point (9) of Article 1 | _ |
+| Article 2(1) | Article 14(1) |
+| Article 2(2) | Article 4(2) |
+| Article 2(3) | Article 4(3) |
+| Article 2(4) | Article 14(2) |
+| Article 2(5) | Article 13 |
+| Article 2(6) | Article 14(3) |
+| Article 3(1) | Article 17(1) and (2) |
+| Article 3(2) | Article 17(3) |
+| Article 3(3) | Article 17(4) |
+| Article 4(1) | Article 18(1) and (2) |
+| Article 4(2) | Article 18(3) |
+| Article 5(1) | Article 20(1) and (2) |
+| Article 5(2) | Article 20(3) |
+| Article 6(1) | Article 22(1) |
+| Article 6(2) | Article 22(2) |
+| Article 6(3) | Article 22(3) |
+| Article 6(4) | Article 22(4) |
+| Article 6(5) | Article 22(5) |
+| Article 7(1) | Article 15(1) |
+| Article 7(2) | Article 15(2) |
+| Article 7(3) | Article 15(3) |
+| Article 7(4) | Article 15(4) |
+| Article 7(5) | - |
+| Points (a) to (f) of the first paragraph of Article 8 | Points (a) to (f) of Article 24(1) |
+| Second paragraph of Article 8 | - |
+| Article 9(1) | Article 25(1)(b) |
+| Article 9(2) | Article 25(2) and (3) |
+| Article 10(1) and (2) | Article 27(1) |
+|  |  |
+| Point (a) of Article 11 | Article 24(3) |
+| Point (b) of Article 11 | Article 24(4) |
+| Article 12 | _ |
+
+3\. Implementing Decision 2014/917/EU
+
+| Implementing Decision 2014/917/EU | This Regulation |
+| --- | --- |
+| Article 1(1) and (2) | _ |
+| Article 2(1) and (3) | Article 32(1) |
+| Article 2(2) and (4) | Article 32(3) |
+|  |  |
+| Article 2(5) | Article 32(4) |
+| Article 3 | _ |
+| Annex | Annex I |
+
+4\. Implementing Decision (EU) 2015/1918
+
+| Implementing Decision (EU) 2015/1918 | This Regulation |
+| --- | --- |
+| Article 1 | _ |
+| Article 2 | _ |
+|  |  |
+|  |  |
+| Article 3(1) | _ |
+| Article 3(2) | _ |
+| Article 3(3) | _ |
+| Article 3(4) | _ |
+| Article 4 | Article 12 |
+| Article 5 | _ |
+| Article 6 | Article 26(1) |
+| Point (a) of Article 7 | Article 8(1) |
+| Point (b) of Article 7 | Article 8(2) |
+| Point (c) of Article 7 | _ |
+| Point (d) of Article 7 | Article 15(1) |
+| Article 8(1) | Article 15(1) |
+| Point (a) of Article 8(2) | Article 16(1)(a) |
+| Point (b) of Article 8(2) | Article 16(1)(b) |
+| Point (c) of Article 8(2) | Article 16(1)(c) |
+| Point (d) of Article 8(2) | Article 16(1)(d) |
+| Point (e) of Article 8(2) | _ |
+| Point (f) of Article 8(2) | _ |
+| Point (g) of Article 8(2) | Article 16(1)(f) |
+| Article 9(1) | Article 10(1) |
+| Article 9(2) | - |
+| Article 10(1) | Article 10(2) |
+| Article 10(2) and (3) | Article 11(1) |
+| Article 10(4) | Article 11(3) |
+| Article 10(5) | Article 11(2) |
+| Article 11 | Article 26(2) |
+| Article 12 | Article 11(2)(b) and (3)(b) |
+| Article 13 | _ |
+| Article 14 | _ |
+
+5\. Implementing Decision (EU) 2018/1553
+
+| Implementing Decision (EU) 2018/1553 | This Regulation |
+| --- | --- |
+| Article 1 | _ |
+| Article 2(1) | Article 39(1), (3) and (4) |
+| Article 2(2) | Article 39(2) |
+| Article 2(3) | _ |
+| Article 3 | _ |
+
+( 1 ) Commission Implementing Regulation (EU) 2020/2002 of 7 December 2020 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to Union notification and Union reporting of listed diseases, to formats and procedures for submission and reporting of Union surveillance programmes and of eradication programmes and for application for recognition of disease-free status, and to the computerised information system (OJ L 412, 8.12.2020, p. 1).
+
+( 2 ) Commission Implementing Regulation (EU) 2019/1014 of 12 June 2019 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points (OJ L 165, 21.6.2019, p. 10).
+
+( 3 ) Council Regulation (EC) No 1255/97 of 25 June 1997 concerning Community criteria for control posts and amending the route plan referred to in the Annex to Directive 91/628/EEC (OJ L 174, 2.7.1997, p. 1).
+
+( 4 ) Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1).
+
+( 5 ) In line with the concept laid down in International Standards for Phytosanitary Measures, ISPM 8 (1998): Determination of pest status in an area. Rome, IPPC, FAO (https://www.ippc.int/sites/default/files/documents//1323945129_ISPM_08_1998_En_2011-11-29_Refor.pdf)

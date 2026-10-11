@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **concerning the status of third-country nationals who are long-term residents**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2011/51/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 May 2011 </td><td> L 132</td><td>1</td><td>19.5.2011</td></tr>
 <tr><td></td><td> REGULATION (EU) 2024/1347 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1347</td><td>1</td><td>22.5.2024</td></tr>
+</table>
 
 C1
 

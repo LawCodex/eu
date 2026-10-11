@@ -1,0 +1,107 @@
+---
+title: "Commission Regulation (EU) 2025/2224 of 5 November 2025 amending Annex II to Regulation (EC) No 1925/2006 of the European Parliament and of the Council and Annex II to Directive 2002/46/EC of the European Parliament and of the Council as regards monosodium salt of L-5-methyltetrahydrofolic acid as a source of folic acid added to foods and as a source of folate used in the manufacture of food supplements"
+identifier: "32025R2224"
+eli: "http://data.europa.eu/eli/reg/2025/2224/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2025-11-05
+entry_into_force: 2025-12-20
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2224"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2025/2224 of 5 November 2025 amending Annex II to Regulation (EC) No 1925/2006 of the European Parliament and of the Council and Annex II to Directive 2002/46/EC of the European Parliament and of the Council as regards monosodium salt of L-5-methyltetrahydrofolic acid as a source of folic acid added to foods and as a source of folate used in the manufacture of food supplements
+
+**COMMISSION REGULATION (EU) 2025/2224**
+
+**of 5 November 2025**
+
+**amending Annex II to Regulation (EC) No 1925/2006 of the European Parliament and of the Council and Annex II to Directive 2002/46/EC of the European Parliament and of the Council as regards monosodium salt of L-5-methyltetrahydrofolic acid as a source of folic acid added to foods and as a source of folate used in the manufacture of food supplements**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements (1), and in particular Article 4(5) thereof,
+
+Having regard to Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods (2), and in particular Article 3(3) thereof,
+
+Whereas:
+
+(1) Annexes I and II to Regulation (EC) No 1925/2006 establish the list of vitamin and mineral substances which may be added to foods and the forms in which they may be added.
+
+(2) Annexes I and II to Directive 2002/46/EC establish the list of vitamin and mineral substances which may be used in the manufacture of food supplements and the forms in which they may be added.
+
+(3) On 26 October 2023, the European Food Safety Authority (‘the Authority’) issued a scientific opinion (3) in the framework of the procedure for authorisation of a novel food pursuant to Regulation (EU) 2015/2283 of the European Parliament and of the Council (4). In the mandate, the Authority was asked to deliver an opinion on the safety of monosodium salt of l-5-methyltetrahydrofolic acid (5-MTHF) as a novel food and to address the bioavailability of folate from this source in the context of Directive 2002/46/EC, Regulation (EU) No 609/2013 of the European Parliament and of the Council (5) and Regulation (EC) No 1925/2006. The Authority in the opinion concluded that monosodium salt of L-5-methyltetrahydrofolic acid is safe under the proposed conditions of use and that it is a source from which folate is bioavailable.
+
+(4) Based on the favourable opinion of the Authority, Commission Implementing Regulation (EU) 2024/1037 (6) authorised, in accordance with Regulation (EU) 2015/2283, the placing on the market of monosodium salt of L-5-methyltetrahydrofolic acid as a novel food for use in certain foods and food supplements, subject to specific conditions.
+
+(5) The Commission considers that the Authority’s opinion gives sufficient grounds to establish that the use of monosodium salt of L-5-methyltetrahydrofolic acid as authorised by Implementing Regulation (EU) 2024/1037, is not of safety concern as a source of folic acid when added to foods and as a source of folate when used in the manufacture of food supplements.
+
+(6) Based on the Authority’s favourable opinion and on the authorisation as a novel food, monosodium salt of L-5-methyltetrahydrofolic acid should be included in Annex II to Directive 2002/46/EC as a form of folate and in Annex II to Regulation (EC) No 1925/2006 as a form of folic acid.
+
+(7) The Advisory Group on the Food Chain and Animal and Plant Health was consulted, and its comments were taken into consideration.
+
+(8) Annex II to Directive 2002/46/EC and Annex II to Regulation (EC) No 1925/2006 should therefore be amended accordingly.
+
+(9) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex II to Directive 2002/46/EC is amended in accordance with Annex I to this Regulation.
+
+## Article 2
+
+Annex II to Regulation (EC) No 1925/2006 is amended in accordance with Annex II to this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 November 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 183, 12.7.2002, p. 51, ELI: http://data.europa.eu/eli/dir/2002/46/oj.
+
+(2) OJ L 404, 30.12.2006, p. 26, ELI: http://data.europa.eu/eli/reg/2006/1925/oj.
+
+(3) EFSA NDA Panel. Safety of monosodium salt of L-5-methyltetrahydrofolic acid as a novel food pursuant to Regulation (EU) 2015/2283 and the bioavailability of folate from this source in the context of Directive 2002/46/EC, Regulation (EU) No 609/2013 and Regulation (EC) No 1925/2006, EFSA Journal, 2023;21:e8417.
+
+(4) Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (OJ L 327, 11.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/2283/oj).
+
+(5) Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 (OJ L 181, 29.6.2013, p. 35, ELI: http://data.europa.eu/eli/reg/2013/609/oj).
+
+(6) Commission Implementing Regulation (EU) 2024/1037 of 9 April 2024 authorising the placing on the market of monosodium salt of L-5-methyltetrahydrofolic acid as a novel food and amending Implementing Regulation (EU) 2017/2470 (OJ L, 2024/1037, 10.4.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/1037/oj).
+
+## ANNEX I — Amendment to Directive 2002/46/EC
+
+In point A.10 (FOLATE) of Annex II to Directive 2002/46/EC, the following entry is inserted after the entry for ‘(6S)-5-methyltetrahydrofolic acid, glucosamine salt’:
+
+‘(d) monosodium salt of L-5-methyltetrahydrofolic acid (*1)
+
+(*1) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).’.’
+
+## ANNEX II — Amendment to Regulation (EC) No 1925/2006
+
+In point 1 (Vitamin formulations) of Annex II to Regulation (EC) No 1925/2006, under the title FOLIC ACID, the following entry is inserted after the entry for ‘calcium-L-methylfolate’:
+
+‘monosodium salt of L-5-methyltetrahydrofolic acid (*1)
+
+(*1) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).’.’
+
+ELI: http://data.europa.eu/eli/reg/2025/2224/oj
+
+ISSN 1977-0677 (electronic edition)

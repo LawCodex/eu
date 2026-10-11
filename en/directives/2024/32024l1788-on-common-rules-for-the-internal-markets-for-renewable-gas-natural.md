@@ -2592,6 +2592,7 @@ H. LAHBIB
 
 **1\. Minimum information to be contained on the bill and in the billing information for natural gas and hydrogen**
 
+<table>
 <tbody><tr><td></td><td>1.1.</td><td>The following key information shall be prominently displayed to final customers in their bills, distinctly separate from other parts of the bill:<table><tbody><tr><td>(a)</td><td>the price to be paid and a breakdown of the price where possible, together with a clear statement that all energy sources may also benefit from incentives that were not financed through the levies indicated in the breakdown of the price;</td></tr>
 </tbody>
 </table>
@@ -2600,7 +2601,9 @@ H. LAHBIB
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>1.2.</td><td>The following key information shall be prominently displayed to final customers in their bills and billing information, distinctly separate from other parts of the bill and billing information:<table><tbody><tr><td>(a)</td><td>consumption of natural gas and hydrogen for the billing period;</td></tr>
 </tbody>
 </table>
@@ -2630,7 +2633,9 @@ H. LAHBIB
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>1.3.</td><td>Where bills are based on actual consumption or remote reading by the operator, the following information shall be made available to final customers in, with or signposted to within their bills and periodic settlement bills:<table><tbody><tr><td>(a)</td><td>comparisons of the final customer’s current consumption of natural gas and hydrogen with the final customer’s consumption for the same period in the previous year in graphic form;</td></tr>
 </tbody>
 </table>
@@ -2642,6 +2647,7 @@ H. LAHBIB
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **2\. Frequency of billing and the provision of billing information:**
 

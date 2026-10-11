@@ -1,0 +1,450 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/848 of 6 May 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the registration of wallet-relying parties"
+identifier: "32025R0848"
+eli: "http://data.europa.eu/eli/reg_impl/2025/848/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-05-06
+entry_into_force: 2025-12-03
+last_amended: 2026-08-11
+consolidated_version: "02025R0848-20260811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R0848-20260811"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/848 of 6 May 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the registration of wallet-relying parties
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/848**
+
+**of 6 May 2025**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the registration of wallet-relying parties**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1730 of 15 July 2026 </td><td> L 1730</td><td>1</td><td>22.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/848**
+
+**of 6 May 2025**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the registration of wallet-relying parties**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down rules for the registration of wallet-relying parties.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;
+
+(2) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;
+
+(3) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;
+
+(4) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;
+
+(5) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;
+
+(6) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;
+
+(7) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;
+
+(8) ‘wallet provider’ means a natural or legal person who provides wallet solutions;
+
+(9) ‘wallet user’ means a user who is in control of the wallet unit;
+
+(10) ‘national register of wallet-relying parties’ means a national electronic register used by a Member State to make information on wallet-relying parties registered in that Member State publicly available as set out in Article 5b(5) of Regulation (EU) No 910/2014;
+
+(11) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue wallet-relying party access certificates to wallet-relying parties registered in that Member State;
+
+(12) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;
+
+(13) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;
+
+(14) ‘registrar of wallet-relying parties’ means the body responsible for establishing and maintaining the list of registered wallet-relying parties established in their territory and who has been designated by a Member State;
+
+(15) ‘wallet-relying party registration certificate’ means a data object that describes the intended use of the relying party and indicates the attributes the relying party has registered to intend to request from users;
+
+(16) ‘provider of wallet-relying party registration certificates’ means a natural or legal person mandated by a Member State to issue wallet-relying party registration certificates to wallet-relying parties registered in that Member State.
+
+## Article 3 — National registers
+
+1\. Member States shall establish and maintain at least one national register of wallet-relying parties with information regarding registered wallet-relying parties established in that Member State.
+
+2\. The register shall include at least the information set out in Annex I.
+
+3\. Member States shall designate at least one registrar to manage and operate at least one national register of wallet-relying parties.
+
+4\. Member States shall make the information set out in Annex I on registered wallet-relying parties publicly available online, both in human-readable form and in a form suitable for automated processing.
+
+5\. The information referred to in paragraph 2 shall be available through a single common application programming interface (‘API’) and through a national website. It shall be electronically signed or sealed by or on behalf of the registrar, in accordance with the common requirements for a single API set out in Section 1 of Annex II.
+
+6\. Member States shall ensure that the API referred to in paragraph 5 complies with the common requirements set out in Section 2 of Annex II.
+
+7\. Member States shall ensure that the registers comply with the relevant common registration policies set out in Article 4.
+
+## Article 4 — Registration policies
+
+1\. Member States shall lay down and publish one or more national registration policies applicable to the national registers established in their territory.
+
+2\. Member States may include or reuse existing sectoral or national registration policies.
+
+3\. The national registration policy shall include at least information on:
+
+(a) the identification and authentication procedures applicable to wallet-relying parties during the registration process;
+
+(b) the required supporting documentation, regarding the identity, business registration, applicable entitlement or entitlements, and other relevant information on the wallet-relying party;
+
+(c) the authentic sources or other official electronic records and where those sources or records can be relied upon to provide accurate data;
+
+(d) any other information or other evidence required as part of the registration process;
+
+(e) where applicable, the automated means of enabling wallet-relying parties to register or to update an existing registration;
+
+(f) the redress mechanism available to wallet-relying parties under the laws and procedures of the Member State where the national register is established;
+
+(g) the rules and procedures for the verification of the identity of the registered wallet-relying parties and of any other relevant information provided by that party.
+
+4\. The procedures and documentation referred to in paragraph 3, points (a) and (b), shall enable the wallet-relying parties to indicate which specific entitlement or entitlements it is acting under, as set out in Annex I.
+
+5\. Where appropriate, the requirements set out in the national registration policy shall not impede an automated registration process.
+
+## Article 5 — Information to be provided to the national registers
+
+1\. Wallet-relying parties shall at least provide the information set out in Annex I to national registers.
+
+2\. Wallet-relying parties shall ensure that the information provided is accurate at the time of registration.
+
+3\. Wallet-relying parties shall update any information previously registered in the national register of wallet-relying parties without undue delay.
+
+## Article 6 — Registration processes
+
+1\. Registrars shall establish easy to use electronic, and where possible, automated registration processes for wallet-relying parties.
+
+2\. Registrars shall process applications for registration without undue delay and provide a response to the application for registration to the applicant within the timeframe defined in the applicable registration policy, using appropriate means and in accordance with the laws and procedures of the Member State where the national register is established.
+
+3\. Where possible, registrars shall verify in an automated manner:
+
+(a) the accuracy, validity, authenticity and integrity of the information required under Annex I, points 1 to 6 and 11 to 16;
+
+(b) where applicable, the power of attorney of representatives of the wallet-relying parties drawn up and submitted in accordance with the laws and procedures of the Member State where the national register is established;
+
+(d) the absence of an existing registration in another national register.
+
+3a. Registrars shall collect the information referred to in Annex I, points 7 to 10 in an automated manner only for the purpose of transparency and, without prejudice to paragraph 4 of Article 5b of Regulation (EU) No 910/2014, shall not apply any preauthorisation process on this information.
+
+4\. Registrars shall verify the information set out in paragraph 3 against the supporting documentation provided by the wallet-relying parties or against appropriate authentic sources or other official electronic records in the Member State where the national register is established and to which the registrars have access in accordance with the applicable national laws and procedures.
+
+5\. The verification of entitlements of wallet-relying parties referred to in paragraph 3, point (c) shall be carried out in accordance with Annex III.
+
+6\. Where the registrar cannot verify the information in accordance with paragraphs 3 to 5, the registrar shall reject the registration.
+
+7\. When a wallet-relying party no longer intends to rely upon wallet units for the provision of public or private services under a specific registration, it shall notify the relevant registrar without undue delay and request the cancellation of that registration.
+
+## Article 7 — Wallet-relying party access certificates
+
+1\. Member States shall authorise at least one certificate authority to issue wallet-relying party access certificates.
+
+2\. Member States shall ensure that providers of wallet-relying party access certificates issue wallet-relying party access certificates exclusively to registered wallet-relying parties.
+
+3\. Member States shall implement in a syntactically and semantically harmonised manner the certificate policies and certificate practice statements for the wallet-relying party access certificates, in accordance with the requirements set out in Annex IV.
+
+## Article 8 — Wallet-relying party registration certificates
+
+1\. Member States shall authorise at least one certificate authority to issue wallet relying party registration certificates. Member States shall ensure that providers of wallet-relying party registration certificates issue those certificates in an automated manner and without undue delay after the registration.
+
+2\. Member States shall:
+
+(a) require providers of wallet-relying party registration certificates to issue wallet-relying party registration certificates exclusively to registered wallet-relying parties;
+
+(b) ensure that each intended use is expressed in the wallet-relying party registration certificates;
+
+(c) ensure that wallet-relying party registration certificates include a general access policy, being syntactically and semantically harmonised across the Union, informing users that the wallet-relying party is only allowed to request the data specified in the registration certificates for the intended use registered in the registration certificates;
+
+(d) ensure that providers of wallet solutions established in that Member State comply with the general access policy by informing users when a wallet-relying party requests data that is not specified in the registration certificates;
+
+(e) implement wallet-relying party registration certificates in a syntactically and semantically harmonised manner and in line with the requirements set out in Annex V;
+
+(f) implement dedicated certificate policies and certificate practice statements for the wallet-relying party registration certificates in accordance with the requirements set out in Annex V;
+
+(g) ensure that wallet-relying parties provide a URL to the privacy policy regarding the intended use.
+
+3\. The policy referred to in point (g) shall be expressed in the wallet-relying party registration certificate.
+
+## Article 9 — Suspension and cancellation of registration
+
+1\. Registrars shall suspend or cancel a registration of a wallet-relying party where such a suspension or cancellation is requested by a supervisory body pursuant to Article 46a(4), point (f) of Regulation (EU) No 910/2014.
+
+2\. Registrars may suspend or cancel a registration of a wallet-relying party where the registrars have reasons to believe one of the following:
+
+(a) the registration contains information, which is inaccurate, out of date or misleading;
+
+(b) the wallet-relying party is not compliant with the registration policy;
+
+(c) the wallet-relying party is requesting more attributes than they have registered in accordance with Article 5 and Article 6;
+
+(d) the wallet-relying party is otherwise acting in breach of Union or national law in a manner related to their role as wallet-relying party.
+
+3\. Registrars shall suspend or cancel a registration of a wallet-relying party where the request for cancellation or suspension is made by the same wallet-relying party.
+
+4\. When considering the suspension or cancellation in accordance with paragraph 2, the registrar shall conduct a proportionality assessment, taking into account the impact on the fundamental rights, security and confidentiality of the users in the ecosystem, as well as the severity of the disruption envisaged to be caused by the suspension or cancellation and the associated costs, both for the wallet-relying party and the user. Based on the result of this assessment, the registrar may suspend or cancel the registration with or without prior notice to the affected wallet-relying party.
+
+5\. Where the registration of a wallet-relying party is suspended or cancelled, the registrar shall inform the provider of the relevant wallet-relying party access certificates, the provider of the relevant wallet-relying party registration certificates, and the affected wallet-relying party of this action without undue delay and not later than 24 hours after the suspension or cancellation. This notification shall include information on the reasons for the suspension or cancellation and on the available means of redress or appeal.
+
+6\. The provider of wallet-relying party access certificates and the provider of wallet-relying registration certificates, shall, where applicable, revoke without undue delay the wallet-relying party access certificates, and the wallet-relying party registration certificates, respectively, of the wallet-relying party for which registration has been suspended or cancelled.
+
+## Article 10 — Record keeping
+
+Registrars shall keep records of the information provided by wallet-relying parties and registered in accordance with Annex I for the registration of a wallet-relying party and the issuance of the wallet-relying party access certificates and the wallet-relying party registration certificates, and of any subsequent changes to this information, for 10 years.
+
+## Article 11 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from the 24 December 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Information regarding wallet-relying parties**
+
+1\. Where applicable, the name of the wallet-relying party, as stated in an official record together with identification data of that official record.
+
+(a) if none are applicable, paragraph 2 shall be used.
+
+2\. Where applicable, a user-friendly name of the wallet-relying party that can be either a trade name or service name that is recognisable to the user.
+
+3\. Where applicable, one or more identifiers of the wallet-relying party, as stated in an official record together with identification data of that official record, expressed as:
+
+(a) an economic operators registration and identification (‘EORI’) number as referred to in Commission Implementing Regulation (EU) No 1352/2013 ( 1 );
+
+(b) a registration number as registered in a national business register;
+
+(c) a legal entity identifier (‘LEI’) as referred to in Commission Implementing Regulation (EU) 2022/1860 ( 2 );
+
+(d) a value-added tax (‘VAT’) registration number;
+
+(e) an excise number as referred to in Article 2(12) of Council Regulation (EU) No 389/2012 ( 3 );
+
+(f) a tax reference number;
+
+(g) an european unique identifier (‘EUID’) as referred to in Commission Implementing Regulation (EU) 2021/1042 ( 4 );
+
+(h) other national identifier or identifiers.
+
+4\. The physical address where the wallet-relying party is established.
+
+5\. Where applicable, a uniform resource locator (‘URL’) belonging to the wallet-relying party.
+
+6\. Where the identifier is expressed in accordance with points 3(a), (d), (f) or (h), the country indicator of the Member State where the wallet-relying party is established shall be prefixed using ISO 3166-1 Alpha 2 codes, with the exception of the country indicator for Greece which shall be ‘EL’.
+
+7\. Contact information of the wallet-relying party, at least one of the following:
+
+(a) a website where the wallet-relying party can be contacted for matters pertaining to provision of helpdesk and support;
+
+(b) a phone number where the wallet-relying party can be contacted for matters pertaining to its registration and intended use of the wallet units;
+
+(c) an email address where the wallet-relying party can be contacted for matters pertaining to its registration and intended use of the wallet unit.
+
+8\. A description of the type of services the wallet-relying party provides.
+
+9\. For each intended use, a list of the data, including attestations and attributes, that the relying party intends to request, a user-friendly name and a technical name, the attestation type and any other syntaxes that the data is grouped under, in a machine-readable format for automated processing.
+
+10\. For each intended use, a description of intended use of the data that the wallet-relying party intends to request from wallet units.
+
+11\. An indication whether the wallet-relying party is a public sector body.
+
+12\. The entitlement or entitlments of the wallet-relying party, that shall be expressed as follows:
+
+(a) ‘Service_Provider’ to express the entitlement of the wallet-relying party as a provider of services;
+
+(b) ‘QEAA_Provider’ to express the entitlement of the wallet-relying party as a qualified trust service provider issuing qualified electronic attestations of attributes;
+
+(c) ‘Non_Q_EAA_Provider’ to express the entitlement of the wallet-relying party as a trust service provider issuing non-qualified electronic attestations of attributes;
+
+(d) ‘PUB_EAA_Provider’ to express the entitlement of the wallet-relying party as a provider of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source;
+
+(e) ‘PID_Provider’ to express the entitlement of the wallet-relying party as a provider of person identification data;
+
+(f) ‘QCert_for_ESeal_Provider’ to express the entitlement of the wallet-relying party as a qualified trust service provider issuing qualified certificates for electronic seals;
+
+(g) ‘QCert_for_ESig_Provider’ to express the entitlement of the wallet-relying party as a qualified trust service provider issuing qualified certificates for electronic signatures;
+
+(h) ‘rQSigCDs_Provider’ to express the entitlement of the wallet-relying party as a qualified trust service provider providing qualified trust services for the management of a remote qualified electronic signature creation device;
+
+(i) ‘rQSealCDs_Provider’ to express the entitlement of the wallet-relying party as a qualified trust service provider providing qualified trust services for the management of a remote qualified electronic seal creation device;
+
+(j) ‘ESig_ESeal_Creation_Provider’ to express the entitlement of the wallet-relying party as a non-qualified trust service provider providing a non-qualified trust service for remote creation of electronic signatures or electronic seals.
+
+13\. With regard to paragraph 12, point (c), Member States may provide additional sub-entitlements to state which attestations a specific non-qualified issuer of electronic attestation of attributes shall issue.
+
+14\. Where applicable, an indication that the wallet-relying party relies upon an intermediary acting on behalf of the relying party who intends to rely upon the wallet.
+
+15\. Where applicable, an association to the intermediary that the wallet-relying party is relying upon that is acting on behalf of the relying party who intends to rely upon the wallet.
+
+16\. Where applicable, an association to the wallet-relying party that is relying upon the intermediary to whom the wallet-relying party access certificate has been issued and that is acting on behalf of the relying party who intends to rely upon the wallet.
+
+## ANNEX II
+
+**1\. REQUIREMENTS FOR ELECTRONIC SIGNATURES OR SEALS APPLIED TO THE INFORMATION MADE AVAILABLE ON REGISTERED WALLET-RELYING PARTIES REFERRED TO IN ARTICLE 3**
+
+— JavaScript Object Notation (‘JSON’);
+
+— IETF 7515 for JSON Web Signatures.
+
+**2\. REQUIREMENTS ON THE SINGLE COMMON API REFERRED TO IN ARTICLE 3**
+
+(1) The single common API shall:
+
+(a) be a REST API, supporting JSON as a format and signed in accordance with the relevant requirements specified in Section 1;
+
+(b) allow any requestor, without prior authentication, to search and request complete lists to the register, for information about registered wallet-relying parties, allowing for partial matches based on defined parameters including, where applicable, the official or business registration number of the wallet-relying party, the name of the wallet-relying party or the information referred to in Article 8, paragraph 2, point (g) and Annex I points 12, 13, 14 and 15;
+
+(c) ensure that replies to requests referred to in point (b) that match at least one wallet-relying party shall include one or more statements on information about registered wallet-relying parties and information according to Annex I, current and historic wallet-relying party access certificates and wallet-relying party registration certificates but exclude the contact information in Annex I point 4;
+
+(d) be published as an OpenAPI version 3, together with the appropriate documentation and technical specifications ensuring interoperability across the Union;
+
+(e) provide security functions, including security by default and by design, to ensure the availability and integrity of the API and the availability of information through it.
+
+(2) The statements referred to in point (c) shall be expressed under the form of electronically signed or sealed JSON files, with a format and structure in accordance with the requirements on electronic signatures or seals set out Section 1.
+
+## ANNEX III
+
+**Source of documentary evidence for the verification of entitlements of wallet-relying parties referred to in Article 6**
+
+1\. The verification that a wallet-relying party is a provider of qualified electronic attestations of attributes, a provider of qualified certificates for electronic signatures or seals, or a provider of a qualified trust service for the management of remote qualified electronic signature or seal creation devices, shall be based on the national trusted lists published in accordance with Article 22 of Regulation (EU) No 910/2014.
+
+2\. The verification that a wallet-relying party is a provider of non-qualified electronic attestations of attributes or a provider of remote creation of electronic signatures or seals as a non-qualified trust service shall be based, where applicable, on the national trusted lists published in accordance with Article 22 of Regulation (EU) No 910/2014, or, for non-qualified trust service providers who are not registered in the national trusted lists, on verification procedures that Members States have set out in their registration policies as laid out in Article 4.
+
+3\. The verification that a wallet-relying party is a provider of person identification data shall be based on the list of providers of person identification data published by the Commission in accordance with Article 5a(18) of Regulation (EU) No 910/2014.
+
+4\. The verification that a wallet-relying party is a provider of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source shall be based on the list published by the Commission in accordance with Article 45f(3) of Regulation (EU) No 910/2014.
+
+## ANNEX IV
+
+**Requirements for wallet-relying party access certificates referred to in Article 7**
+
+1\. The wallet-relying party access certificate policy applicable to the provision of wallet-relying party access certificates shall describe the security requirements that apply to, and the rules that indicate the applicability of, a wallet-relying party access certificate so that wallet-relying parties can be issued with and use those certificates in their interactions with wallet solutions.
+
+2\. The wallet-relying party access certificate practice statement applicable to the provision of wallet-relying party access certificates shall describe the practices that a provider of wallet-relying party access certificates employs in issuing, managing, revoking, and re-keying wallet-relying party access certificates.
+
+3\. The certificate policy and certificate practice statement applicable to the provision of wallet-relying party access certificates shall be syntactically and semantically harmonised across the Union and shall, as applicable, comply with standard ETSI TS 119 411-8 V1.1.1 (2025-10)  , and shall include:
+
+(a) a clear description of the public key infrastructure hierarchy and certification paths from the end-entity wallet-relying party access certificates up to the top of the hierarchy used for issuing them, indicating the expected trust anchor(s) in such hierarchy and paths which should rely on the trust framework established in accordance with Article 5a(18) of Regulation (EU) No 910/2014;
+
+(b) a comprehensive description of the procedures for the issuance of wallet-relying party access certificates, including for the verification of the identity and any other attributes of the wallet-relying party to which a wallet-relying party certificate is to be issued;
+
+(c) the obligation for the providers of wallet-relying party access certificates, when issuing a wallet-relying party access certificate, to verify that:
+
+— the wallet-relying party is included, with a valid registration status, in a national register of wallet-relying parties of the Member State in which that wallet-relying party is established;
+
+— any information in the wallet-relying party access certificate is accurate and consistent with the registration information available from that register.
+
+(d) a comprehensive description of the procedures for revocation of wallet-relying party access certificates;
+
+(e) the obligation for the providers of wallet-relying party access certificates to implement measures and processes on:
+
+— continuously monitoring any changes in the national register for wallet-relying parties in which wallet-relying parties to whom they have issued wallet-relying party access certificates are registered;
+
+— revoking, when changes require, any wallet-relying party certificate that the provider issued to the corresponding wallet-relying party, in particular when the content of the certificate is no longer accurate and consistent with the information registered, or when the registration of the wallet-relying party is suspended or cancelled.
+
+(f) a comprehensive description of the procedures and mechanisms for the harmonised validation of wallet-relying party access certificates across the Union;
+
+(g) the obligation for the providers of wallet-relying party access certificates to allow relevant stakeholders, including wallet-relying parties as regards their own certificates, competent supervisory bodies and data protection authorities, to request the revocation of wallet-relying party access certificates;
+
+(h) the obligation for the providers of wallet-relying party access certificates to register all such revocations in its certificate database and to publish the revocation status of the certificate in a timely manner, and in any event within 24 hours after receipt of the revocation request;
+
+(i) the obligation for the providers of wallet-relying party access certificates to provide information on the validity or revocation status of wallet-relying party certificates issued by that provider;
+
+(j) a description, where relevant, on how a provider of wallet-relying party access certificates logs all wallet-relying party access certificates they have issued, in compliance with internet engineering task force (‘IETF’) request for comments (‘RFC’) 9162 Certificate Transparency version 2.0;
+
+(k) the obligation for the wallet-relying party access certificates to include:
+
+— the location where the certificate supporting the advanced electronic signature or advanced electronic seal on that certificate is available, for the entire certification path to be built up to the expected trust anchor in the public key infrastructure hierarchy used by the provider;
+
+— a machine processable reference to the applicable certificate policy and certificate practice statement;
+
+— the information referred to in Annex I, points 1, 2, 3, 5, 6, 7, (a), (b), (c) and 16;
+
+— a reference to the national wallet-relying party register in which the relying party is registered.
+
+4\. The revocation set out in point 3(g) shall become effective immediately upon its publication.
+
+5\. The information set out in point 3(h) shall be made available at least on a per certificate basis at any time and at least beyond the validity period of the certificate in an automated manner that is reliable, free of charge and effectively in accordance with the certificate policy.
+
+## ANNEX V
+
+**Requirements for wallet-relying party registration certificates referred to in Article 8**
+
+1\. The wallet-relying party registration certificate policy applicable to the provision of wallet-relying party registration certificates shall describe the security requirements that apply to, and the rules that indicate the applicability of, a wallet-relying party registration certificate for their issuance to and use by wallet-relying parties in their interactions with wallet solutions. The wallet relying party registration certificate policy shall be published in human-readable.
+
+2\. The wallet-relying party registration certificate practice statement applicable to the provisioning of wallet-relying party registration certificates shall describe the practices that a provider of wallet-relying party registration certificates employs in issuing, managing, revoking, and re-keying wallet-relying party registration certificates, and, where applicable, how they relate to wallet-relying party access certificates issued to wallet-relying parties. The wallet relying party registration certificate practice statement shall be published in human-readable.
+
+3\. The wallet-relying party registration certificate policy and certificate practice statement applicable to the provisioning of wallet-relying party registration certificates shall be syntactically and semantically harmonised across the Union and shall comply with ETSI TS 119 475 V1.2.1 (2026-03)  , and shall include:
+
+(a) a clear description of the public key infrastructure hierarchy and certification paths from the end-entity wallet-relying party registration certificates up to the top of the hierarchy used for issuing them, while indicating the expected trust anchor(s) in such hierarchy and paths;
+
+(b) a comprehensive description of the procedures for the issuance of wallet-relying party registration certificates, including for the verification of the identity and of any attribute of the wallet-relying party to which a wallet-relying party certificate is to be issued;
+
+(c) the obligation for the provider of wallet-relying party registration certificates, when issuing a wallet-relying party registration certificate, to verify that:
+
+— the wallet-relying party is included, with a valid registration status, in a national register for wallet-relying parties of the Member State in which that wallet-relying party is established;
+
+— the information in the wallet-relying party registration certificate is accurate and consistent with the registration information available from that register;
+
+— the wallet-relying party access certificate is valid;
+
+— the description of the procedures for revocation of wallet-relying party registration certificates is comprehensive.
+
+(d) the obligation for the provider of wallet-relying party registration certificates implements measures and processes on:
+
+— continuously monitoring in an automated manner any changes in the national register for wallet-relying parties in which wallet-relying parties to whom they have issued wallet-relying party registration certificates are registered;
+
+— reissue the wallet-relying party registration certificate;
+
+— revoking any wallet-relying party registration certificate that they issued to the corresponding wallet-relying party, when such changes so require, in particular when the content of the certificate is no longer accurate and consistent with the information registered, or when the registration of the wallet-relying party is modified, suspended or cancelled.
+
+(e) a comprehensive description of the procedures and mechanisms for the harmonised validation of wallet-relying party registration certificates;
+
+(f) the obligation for the provider of wallet-relying party registration certificates to allow relevant stakeholders, including wallet-relying parties as regards their own certificates, competent supervisory bodies and data protection authorities, to request the revocation of wallet-relying party registration certificates;
+
+(g) the obligation for the provider of wallet-relying party registration certificates to register all such revocations in its certificate database and to publish the revocation status of the certificate in a timely manner, and in any event within 24 hours after the receipt of the request for revocation;
+
+(h) the obligation for the providers of wallet-relying party registration certificates to provide information on the validity or revocation status of wallet-relying party registration certificates issued by that provider;
+
+(i) a description, where relevant, on how a provider of wallet-relying party registration certificates logs all wallet-relying party registration certificates they have issued;
+
+(j) the obligation for the wallet-relying party registration certificates:
+
+— to include the location where the validation data of the advanced electronic signature or advanced electronic seal for the certificate used to sign or seal the registration certificate is available, for the entire trust chain to be built up to the expected trust anchor;
+
+— to include a machine-readable reference to the applicable certificate policy and certificate practice statement;
+
+— to include the information referred to in Annex I, points 1, 2, 3, 5, 6 and 8, 9, 10, 11, 12, 13, 14 and 15;
+
+— to include the URL to the privacy policy referred to in Article 8(2)g;
+
+— to include a general access policy as referred to in Article 8(2)c.
+
+4\. The data exchange format for the relying party registration certificate shall be signed JSON Web Tokens (IETF RFC 7519) and CBOR Web Tokens (IETF RFC 8392).
+
+5\. The revocation referred to in point 3(g) shall become effective immediately upon its publication.
+
+6\. The information referred to in point 3(h) shall be made available at least on a per certificate basis at any time and at least beyond the validity period of the certificate in an automated manner that is reliable, free of charge and effectively in accordance with the certificate policy.
+
+( 1 ) Commission Implementing Regulation (EU) No 1352/2013 of 4 December 2013 establishing the forms provided for in Regulation (EU) No 608/2013 of the European Parliament and of the Council concerning customs enforcement of intellectual property rights (OJ L 341, 18.12.2013, p. 10, ELI: http://data.europa.eu/eli/reg_impl/2013/1352/oj).
+
+( 2 ) Commission Implementing Regulation (EU) 2022/1860 of 10 June 2022 laying down implementing technical standards for the application of Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to the standards, formats, frequency and methods and arrangements for reporting (OJ L 262, 7.10.2022, p. 68, ELI: http://data.europa.eu/eli/reg_impl/2022/1860/oj).
+
+( 3 ) Council Regulation (EU) No 389/2012 of 2 May 2012 on administrative cooperation in the field of excise duties and repealing Regulation (EC) No 2073/2004 (OJ L 121, 8.5.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/389/oj).
+
+( 4 ) Commission Implementing Regulation (EU) 2021/1042 of 18 June 2021 laying down rules for the application of Directive (EU) 2017/1132 of the European Parliament and of the Council as regards technical specifications and procedures for the system of interconnection of registers and repealing Commission Implementing Regulation (EU) 2020/2244 (OJ L 225, 25.6.2021, p. 7, ELI: http://data.europa.eu/eli/reg_impl/2021/1042/oj).

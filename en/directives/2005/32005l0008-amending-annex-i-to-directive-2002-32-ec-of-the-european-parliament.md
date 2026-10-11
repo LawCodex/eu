@@ -94,6 +94,7 @@ Annex I to Directive 2002/32/EC is amended as follows:
 
 3\. Row 4, Mercury, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="6"><table><tbody><tr><td>‘4.</td><td>Mercury</td></tr>
@@ -118,3 +119,4 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>0,2 ’</td></tr>
 </tbody>
+</table>

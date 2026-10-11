@@ -1,0 +1,932 @@
+---
+title: "Regulation (EU) 2019/2152 of the European Parliament and of the Council of 27 November 2019 on European business statistics, repealing 10 legal acts in the field of business statistics (Text with EEA relevance)"
+identifier: "32019R2152"
+eli: "http://data.europa.eu/eli/reg/2019/2152/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-11-27
+entry_into_force: 2020-01-12
+last_amended: 2026-05-10
+consolidated_version: "02019R2152-20260510"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2152-20260510"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/2152 of the European Parliament and of the Council of 27 November 2019 on European business statistics, repealing 10 legal acts in the field of business statistics (Text with EEA relevance)
+
+**REGULATION (EU) 2019/2152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2019**
+
+**on European business statistics, repealing 10 legal acts in the field of business statistics**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1704 of 14 July 2021 </td><td> L 339</td><td>33</td><td>24.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/47 of 10 December 2025 </td><td> L 47</td><td>1</td><td>20.4.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2019/2152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2019**
+
+**on European business statistics, repealing 10 legal acts in the field of business statistics**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — General provisions
+
+### Article 1 — Subject-matter
+
+This Regulation establishes a common legal framework for:
+
+(a) the development, production and dissemination of European business statistics as referred to in Article 2(1);
+
+(b) the European framework for statistical business registers.
+
+### Article 2 — Scope
+
+1\. European business statistics shall cover:
+
+(a) the structure, economic activities and performance of the statistical units, their R&D and innovation activities, their information and communication technologies (ICT) usage and e-commerce, as well as global value chains. For the purpose of this Regulation, European business statistics shall also cover R&D statistics in the higher education, government and private non-profit sectors;
+
+(b) the production of manufactured goods and services and the international trade in goods and services.
+
+2\. The European framework for statistical business registers shall cover the national statistical business registers and the EuroGroups Register, as well as the data exchanges between them in accordance with Article 10.
+
+3\. The national statistical business registers referred to in paragraph 2 shall comprise:
+
+(a) all enterprises carrying out economic activities contributing to the gross domestic product (GDP), and their local units;
+
+(b) the legal units of which those enterprises consist;
+
+(c) for those enterprises which due to their size have a significant influence and whose kind-of-activity units (KAUs) have a significant influence on the aggregated (national) data either:
+
+(i) the KAU and size of each KAU of which those enterprises consist; or
+
+(ii) the NACE code of the secondary activities of those enterprises as laid down in Regulation (EC) No 1893/2006 of the European Parliament and of the Council ( 1 ) and the size of each of those secondary activities;
+
+(d) enterprise groups to which those enterprises belong.
+
+4\. The EuroGroups Register shall comprise the following units defined in Council Regulation (EEC) No 696/93 ( 2 ):
+
+(a) all enterprises carrying out economic activities contributing to the GDP which form part of a multinational enterprise group;
+
+(b) the legal units of which those enterprises consist;
+
+(c) multinational enterprise groups to which those enterprises belong.
+
+5\. Households shall not fall within the scope of the European framework for statistical business registers insofar as the goods and services they produce are destined to their own consumption, or involve letting out of own property.
+
+6\. Local units of foreign enterprises not constituting separate legal entities (branches), and classified as quasi-corporations in accordance with Regulation (EU) No 549/2013, shall be deemed to be enterprises for the purposes of the national statistical business registers and the EuroGroups Register.
+
+7\. Enterprise groups shall be identified through the links of control between their legal units in accordance with Regulation (EU) No 549/2013.
+
+8\. When referring to national statistical business registers and the EuroGroups Register, this Regulation shall apply only to units which, wholly or partially, exercise an economic activity and economically inactive legal units, which are part of an enterprise in combination with economically active legal units.
+
+9\. For the purposes of the European framework for statistical business registers, the following shall be considered to be an economic activity:
+
+(a) any activity comprising the offer of goods and services on a given market;
+
+(b) non-market services contributing to the GDP;
+
+(c) direct and indirect holdings of active legal units.
+
+Holding assets and/or liabilities may also be considered to be an economic activity.
+
+10\. Statistical units within the European framework for statistical business registers shall be defined in accordance with Regulation (EEC) No 696/93, subject to the limitations specified in this Article.
+
+### Article 3 — Definitions
+
+1\. For the purposes of this Regulation, the following definitions apply:
+
+(a) 'statistical unit' means statistical units within the meaning of Regulation (EEC) No 696/93;
+
+(b) 'reporting unit' means the unit that supplies the data;
+
+(c) 'domain' means one or several data sets that cover particular topics;
+
+(d) 'topic' means the content of the information to be compiled, each topic covering one or more detailed topics;
+
+(e) 'detailed topic' means the detailed content of the information to be compiled related to a topic, each detailed topic covering one or more variables;
+
+(f) 'variable' means a characteristic of a unit that may assume more than one of a set of values;
+
+(g) 'market activity' means market activity within the meaning of point 1.37 of Chapter 1 of Annex A to Regulation (EU) No 549/2013;
+
+(h) 'non-market activity' means non-market activity within the meaning of point 1.34 of Chapter 1 of Annex A to Regulation (EU) No 549/2013;
+
+(i) 'market producers' means market producers as defined in point 3.24 of Chapter 3 of Annex A to Regulation (EU) No 549/2013;
+
+(j) 'non-market producers' means non-market producers as defined in point 3.26 of Chapter 3 of Annex A to Regulation (EU) No 549/2013;
+
+(k) 'national statistical authorities' or 'NSAs' means the national statistical institutes and other national authorities responsible for the development, production and dissemination of European statistics designated by each Member State in accordance with Article 5(1) of Regulation (EC) No 223/2009;
+
+(l) 'authoritative source' means the sole provider of data records containing national statistical business register and EuroGroups register data in accordance with quality standards referred to in Article 17;
+
+(m) 'microdata' means individual observations or measurements of characteristics of identifiable reporting units or statistical units;
+
+(n) 'use for statistical purposes' means use for statistical purposes as defined in point (8) of Article 3 of Regulation (EC) No 223/2009;
+
+(o) 'confidential data' means confidential data as defined in point (7) of Article 3 of Regulation (EC) No 223/2009;
+
+(p) 'tax authorities' means the national authorities in the Member State responsible for applying Council Directive 2006/112/EC ( 3 );
+
+(q) 'customs authorities' means customs authorities as defined in point (1) of Article 5 of Regulation (EU) No 952/2013;
+
+(r) 'multinational enterprise group' means an enterprise group within the meaning of Section III C. of the Annex to Regulation (EEC) No 696/93, with at least two enterprises or legal units each of which is located in a different country.
+
+2\. For the purposes of Articles 11 to 15, the following definitions apply:
+
+(a) 'Member State of export' means the Member State from the statistical territory of which goods are exported to their destination in a Member State of import;
+
+(b) 'Member State of import' means the Member State into the statistical territory of which goods are imported from a Member State of export;
+
+(c) 'goods' means movable property, including electrical energy and natural gas.
+
+## CHAPTER II — Data sources
+
+### Article 4 — Data sources and methods
+
+Member States shall produce the statistics referred to in Articles 6 and 7 as well as set up their national statistical business registers in accordance with Article 9, using any relevant data sources while avoiding excessive burden on respondents and taking due account of the cost effectiveness of the NSAs.
+
+For the production of the statistics and the national statistical business registers required under this Regulation, and provided that the results comply with the quality criteria referred to in Article 17, NSAs may use the following data sources, including a combination thereof:
+
+(a) surveys;
+
+(b) administrative records, including information from tax and customs authorities such as annual financial statements;
+
+(c) exchanged microdata;
+
+(d) any other relevant sources, methods or innovative approaches insofar as they allow for the production of data that are comparable and compliant with the applicable specific quality requirements.
+
+For surveys, as referred to in point (a) of the second paragraph, reporting units called upon by the Member States shall provide timely, accurate and complete information needed for the production of the statistics and the national statistical business registers required under this Regulation.
+
+The methods and approaches referred to in point (d) of the second paragraph shall be scientifically based and well documented.
+
+### Article 5 — Access to administrative records and provision of information
+
+1\. In accordance with Article 17a of Regulation (EC) No 223/2009, the NSAs and the Commission (Eurostat) shall have the right to access and use, promptly and free of charge, all administrative records and to integrate those records with other data sources to meet the statistical requirements under this Regulation and update the national statistical business registers and the EuroGroups Register. Access to those records by the NSAs and the Commission (Eurostat) shall be limited to administrative records within their own respective public administrative systems.
+
+2\. Without prejudice to paragraph 1, the tax authorities in each Member State shall provide the competent NSAs with information for statistical purposes related to exports and imports of goods as specified in Annex V.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 22 in order to:
+
+(a) amend Annex V by defining the types of statistical information to be provided by the tax authorities; and
+
+(b) supplement this Regulation by further specifying the details for the statistical information to be provided by the tax authorities in accordance with Annex V.
+
+3\. Without prejudice to paragraph 1, the customs authority in each Member State shall provide the competent NSAs with information for statistical purposes related to exports and imports of goods as specified in Annex VI.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 22 in order to:
+
+(a) amend Annex VI by defining the types of statistical information to be provided by the customs authorities; and
+
+(b) supplement this Regulation by further specifying the details for the statistical information to be provided by the customs authorities in accordance with Annex VI.
+
+4\. In order to produce harmonised statistics on international trade in goods and to improve the quality of those statistics, the NSAs of the Member States concerned shall exchange microdata for statistical purposes received from their customs authorities related to exports and imports of goods, for the estimation of quasi-transit exports and imports of their Member State.
+
+For other trade flows that involve the customs authorities of more than one Member State, the NSAs shall exchange the corresponding microdata related to the exports or imports of goods to improve the quality of the statistics concerned.
+
+5\. The Commission may adopt implementing acts specifying the arrangements for the data exchanges in accordance with this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+## CHAPTER III — Business statistics
+
+### Article 6 — Data requirements
+
+1\. The European business statistics shall cover the following domains:
+
+(a) short-term business statistics;
+
+(b) country-level business statistics;
+
+(c) regional business statistics;
+
+(d) statistics on international activities.
+
+2\. The domains shall include one or more of the following topics as further detailed in Annex I:
+
+(a) business population;
+
+(b) global value chains;
+
+(c) ICT usage and e-commerce;
+
+(d) innovation;
+
+(e) international trade in goods;
+
+(f) international trade in services;
+
+(g) investments;
+
+(h) labour inputs;
+
+(i) outputs and performance;
+
+(j) prices;
+
+(k) purchases;
+
+(l) real estate;
+
+(m) R&D inputs.
+
+3\. The periodicity, reference period and statistical unit of each topic shall be as specified in Annex II.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 22 in order to amend the detailed topics specified in Annex I.
+
+5\. When exercising its power to adopt delegated acts pursuant to paragraph 4, the Commission shall ensure that the following conditions are fulfilled:
+
+(a) the delegated acts aim to achieve cost and burden neutrality or reduction and do not, in any case, impose a significant additional cost or burden on the Member States or on the respondents;
+
+(b) a maximum of one detailed topic for the domain short-term business statistics, three detailed topics for the domain country-level business statistics, two detailed topics for the domain regional business statistics and two detailed topics for the domain statistics on international activities listed in Annex I are replaced by another detailed topic and a maximum of one detailed topic in total for all domains is added over a period of five consecutive years;
+
+(c) the delegated acts are adopted at least 18 months before the end of the reference period of the data, except for the topics of innovation and ICT usage and e‐commerce for which the delegated acts shall be adopted at least six and fifteen months respectively before the end of the reference period of the data;
+
+(d) any new detailed topic is assessed in respect of its feasibility by means of pilot studies carried out by the Member States in accordance with Article 20.
+
+6\. Point (b) of paragraph 5 shall not apply to:
+
+(a) the detailed topics within the topics of innovation, ICT usage and e-commerce and global value chains;
+
+(b) amendments that result from the changes to accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013 and of balance of payments statistics in accordance with Regulation (EC) No 184/2005 of the European Parliament and of the Council ( 4 ).
+
+### Article 7 — Technical specifications of data requirements
+
+1\. For the detailed topics listed in Annex I, Member States shall compile data relevant to each detailed topic. The Commission may adopt implementing acts further specifying the following elements of the data to be transmitted under this Regulation, their technical definitions and simplifications:
+
+(a) variables;
+
+(b) measurement unit;
+
+(c) statistical population (including the requirements in terms of market/non-market activities or producers);
+
+(d) classifications (including the product, countries and territories as well as nature of transaction lists) and breakdowns;
+
+(e) transmission of individual records of data on a voluntary basis;
+
+(f) use of approximations and quality requirements;
+
+(g) data transmission deadline;
+
+(h) first reference period;
+
+(i) weighting and change of base year for the domain short-term business statistics;
+
+(j) further specifications, including the reference period, related to the topic of international trade in goods.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+2\. When exercising the powers referred to in paragraph 1 with regard to the simplifications, the Commission shall take into account the size and importance of the business economies, in accordance with the principle of proportionality, in order to alleviate the burden on enterprises. In addition, the Commission shall ensure that the input needed for compiling the accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013 and of balance of payments statistics in accordance with Regulation (EC) No 184/2005 is maintained. Implementing acts, except for the first implementing acts to be adopted pursuant to this Regulation, shall be adopted at least 18 months before the end of the reference period of the data for the topics listed in Annex I. For the topics of innovation and ICT usage and e-commerce the implementing acts shall be adopted, respectively, at least six and fifteen months before the end of the reference period of the data.
+
+3\. When adopting implementing acts in accordance with point (a) of paragraph 1, except for the topics listed in points (b), (c) and (d) of Article 6(2), the Commission shall ensure that the number of variables in each domain listed in Article 6(1) does not exceed:
+
+(a) 22 variables for the domain short-term business statistics;
+
+(b) 93 variables for the domain country-level business statistics;
+
+(c) 31 variables for the domain regional business statistics; and
+
+(d) 26 variables for the domain statistics on international activities.
+
+4\. When adopting implementing acts in accordance with point (a) of paragraph 1, for the topics listed in points (b), (c) and (d) of Article 6 (2), the Commission shall ensure that the number of variables in each topic does not exceed:
+
+(a) 20 variables for the topic of global value chains;
+
+(b) 73 variables for the topic of ICT usage and e-commerce; and
+
+(c) 57 variables for the topic of innovation.
+
+5\. Where new data are required in order to respond to user needs and to provide for a certain degree of flexibility, the Commission may change not more than five variables for each of the domains short-term business statistics, regional business statistics and statistics on international activities and not more than 20 variables for the domain country-level business statistics in any period of five consecutive calendar years, in accordance with paragraph 3. Those maxima shall not apply to the topics of global value chains, innovation or ICT usage and e-commerce.
+
+6\. Notwithstanding paragraph 3 of this Article, where new data are required in order to respond to user needs, to provide for a certain degree of flexibility following the pilot studies referred to in Article 20, the overall number of variables for the domains referred to in paragraph 3 of this Article shall not be increased by more than 10 variables.
+
+7\. When preparing the implementing acts referred to in paragraph 1, any potential additional cost or administrative burden on Member States or on the respondents shall be taken into account together with an assessment of the envisaged improvement of the quality of the statistics and any other direct or indirect benefit resulting from the additional proposed action.
+
+The first subparagraph of this paragraph shall not apply to changes resulting from modifications in classifications and nomenclatures or changes to accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013 and of balance of payments statistics in accordance with Regulation (EC) No 184/2005.
+
+## CHAPTER IV — Business registers
+
+### Article 8 — European framework for statistical business registers
+
+1\. The Commission (Eurostat) shall set up the EuroGroups Register of multinational enterprise groups for statistical purposes at Union level.
+
+2\. Member States shall set up at national level one or more national statistical business registers, of which a common core is harmonised pursuant to this Regulation, as a basis for the preparation and coordination of surveys and as a source of information for the statistical analysis of the business population and its demography, for the use of administrative data, and for the identification and construction of statistical units.
+
+3\. The Member States and the Commission (Eurostat) shall exchange data for the purposes of the European framework for statistical business registers as set out in Article 10.
+
+4\. National statistical business registers and the EuroGroups Register shall be the authoritative source for deriving high quality and harmonised statistical business register populations in accordance with Article 17, for the production of European statistics.
+
+National statistical business registers shall be the authoritative source for national statistical business register populations. The EuroGroups Register shall be the authoritative source for the ESS as a register population for business statistics requiring the coordination of cross-border information related to multinational enterprise groups.
+
+### Article 9 — Requirements for the European framework for statistical business registers
+
+1\. The statistical and legal units covered in the European framework for statistical business registers in accordance with Article 8 shall be characterised by the elements set out in both of the following points, which are further specified in Annex III:
+
+(a) the register detailed topics and unique identifier;
+
+(b) the time reference and periodicity.
+
+2\. The Commission may adopt implementing acts specifying the variables related to the register detailed topics listed in Annex III.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+3\. When adopting implementing acts pursuant to paragraph 2, the Commission shall ensure that no significant additional cost or burden is imposed on the Member States or on the respondents.
+
+### Article 10 — Exchange of and access to confidential data for the purpose of the European framework for statistical business registers
+
+1\. Member States shall exchange confidential data.
+
+For that purpose, the exchange of confidential data on multinational enterprise groups and on the units belonging to those groups, comprising the variables listed in Annex IV, shall take place, exclusively for statistical purposes, between the NSAs of different Member States, where the exchange is to ensure the quality of the multinational enterprise groups information in the Union. Such exchanges may also take place with the purpose of reducing response burden.
+
+Where such exchange of confidential data is carried out to ensure the quality of the multinational enterprise groups information in the Union and the exchange is explicitly authorised by the competent NSA which provides the data, national central banks may be party to the exchange of confidential data, exclusively for statistical purposes.
+
+2\. The Commission (Eurostat) and Member States shall exchange confidential data.
+
+For that purpose, NSAs shall transmit data on multinational enterprise groups and on the units belonging to those groups, comprising the variables listed in Annex IV, to the Commission (Eurostat), to provide information, exclusively for statistical purposes, on multinational enterprise groups in the Union.
+
+In order to ensure a consistent record of data and to use them exclusively for statistical purposes, the Commission (Eurostat) shall transmit to the competent NSAs of each Member State data on multinational enterprise groups, including the units belonging to those groups, comprising the variables listed in Annex IV, where at least one legal unit of the group is located in the territory of that Member State.
+
+In order to ensure efficiency and high quality in the production of the EuroGroups Register, exclusively for statistical purposes, the Commission (Eurostat) shall transmit to the NSAs data on all multinational enterprise groups recorded in the EuroGroups Register, including the units belonging to those groups, comprising the variables listed in Annex IV.
+
+3\. The Commission (Eurostat) and the Member States shall exchange confidential data for the identification of legal units.
+
+For that purpose, NSAs shall transmit data on incorporated legal units, limited to the identification and demographic variables and the stratification parameters listed in Annex IV, to the Commission (Eurostat), exclusively for the purpose of unique identification of legal units in the Union.
+
+In order to ensure efficiency and high quality in the production of the EuroGroups Register, the Commission (Eurostat) shall transmit to the NSAs of each Member State data on legal units, limited to the identification and demographic variables and the stratification parameters listed in Annex IV, exclusively for the purpose of identification of legal units in the Union.
+
+4\. The exchange of confidential data between the Commission (Eurostat) and central banks may take place, exclusively for statistical purposes, between the Commission (Eurostat) and national central banks, and between the Commission (Eurostat) and the ECB, where the exchange is to ensure the quality of multinational enterprise groups information in the Union, and the exchange is explicitly authorised by the competent NSAs.
+
+5\. The Commission may adopt implementing acts specifying technical details of the variables listed in Annex IV.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+6\. In order to ensure that the data exchanged under this Article are used exclusively for statistical purposes, the Commission may adopt implementing acts setting out the format, security and confidentiality measures for such data, as well as the procedure for the data exchange.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+7\. When the Commission (Eurostat), NSAs, national central banks and the ECB receive confidential data on units located inside or located outside the national territory pursuant to this Article, they shall treat that information confidentially in accordance with Regulation (EC) No 223/2009.
+
+Transmission of confidential data between NSAs and the Commission (Eurostat) shall take place to the extent that such transmission is necessary exclusively for statistical purposes for the production of European statistics. Any further transmission must be explicitly authorised by the national authority that collected the data.
+
+8\. Member States and the Commission shall take appropriate measures to prevent and penalise any violations of statistical confidentiality of the data exchanged. The penalties provided for shall be effective, proportionate and dissuasive.
+
+## CHAPTER V — Exchange of confidential data for the purpose of intra-Union trade in goods statistics
+
+### Article 11 — Exchange of confidential data
+
+1\. The exchange of confidential data between Member States on intra-Union exports of goods shall take place, exclusively for statistical purposes, between the NSAs contributing to the development, production and dissemination of intra-Union trade in goods statistics.
+
+The technical specifications for data requirements as referred to in the Article 7(1) and (2) shall also apply to the exchange of confidential data in accordance with this Chapter.
+
+2\. The NSAs of the Member State of export shall provide to the NSAs of the Member State of import the statistical information on its intra-Union exports of goods to that Member State as set out in Article 12.
+
+3\. The NSAs of Member States of export shall provide to the NSAs of the Member State of import, metadata relevant for the use of the data exchanged in the compilation of statistics.
+
+4\. The Commission may adopt implementing acts specifying the information to be considered as relevant metadata as referred to in paragraph 3 as well as the timetable for providing this information and the statistical information referred to in paragraph 2.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+5\. Without prejudice to paragraph 1 of this Article, the Member State providing the confidential data exchanged shall authorise its use for the production of other statistics by NSAs of the Member State of import, provided that those data are used exclusively for statistical purposes in accordance with Articles 20 to 26 of Regulation (EC) No 223/2009.
+
+6\. At the request of the NSAs of the Member State of export, the Member State of import may provide to the NSAs of the Member State of export the microdata collected on its intra-Union imports of goods from that Member State of export.
+
+### Article 12 — Statistical information to be exchanged
+
+1\. The statistical information referred to in Article 11(2) shall consist of:
+
+(a) microdata collected for the purpose of intra-Union trade in goods statistics;
+
+(b) data compiled on specific goods or movements; and
+
+(c) data compiled by using the particulars of customs declarations.
+
+2\. The statistical information actually collected through business surveys or from administrative data referred to in Article 11(2) shall cover at least 95 % of the value of the total intra-Union exports of goods of each Member State to all other Member States together.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 22 in order to amend this Regulation by reducing the coverage rate for intra-Union exports of goods in light of technical and economic developments, while maintaining statistics which meet the quality standards in force.
+
+3\. The Commission may adopt implementing acts setting out the technical specifications related to the collection and compilation of the information referred to in paragraph 1 and further specifying the application of the coverage rate referred to in paragraph 2 with regard to the reference period.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+### Article 13 — Statistical data elements
+
+1\. The microdata referred to in point (a) of Article 12(1) shall contain the following statistical data elements:
+
+(a) the individual identification number allocated to the partner operator in the Member State of import, in accordance with Article 214 of Directive 2006/112/EC;
+
+(b) the reference period;
+
+(c) the trade flow;
+
+(d) the commodity;
+
+(e) the partner Member State;
+
+(f) the country of origin;
+
+(g) the value of the goods;
+
+(h) the quantity of the goods;
+
+(i) the nature of the transaction.
+
+The microdata referred to in point (a) of Article 12(1) may contain the mode of transport and the delivery terms, provided that Member State of export collects those statistical data elements.
+
+The Commission may adopt implementing acts specifying the statistical data elements referred to in points (a) to (i) of the first subparagraph of this paragraph, and specifying the list of statistical data elements applicable for the specific goods or movements and the data compiled by using the particulars of customs declarations referred to in points (b) and (c) of Article 12(1).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+2\. Member States may, under certain conditions that comply with quality requirements, simplify the information to be provided, provided that such simplification has no detrimental effects on the quality of the statistics.
+
+In specific cases, Member States may collect a reduced set of statistical data elements as referred to in paragraph 1 or collect the information related to certain of those data elements at a less detailed level.
+
+The Commission may adopt implementing acts specifying the arrangements of the simplification referred to in the first subparagraph and the maximum value of the intra‐Union exports benefitting from such simplification.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+### Article 14 — Protection of exchanged confidential data
+
+1\. Microdata records related to an exporter whose request for statistical confidentiality, in accordance with Article 19, was accepted by the NSAs of the Member State of export shall be provided by the NSAs of the Member State of export, to the NSAs of the Member State of import, with the true value and all statistical data elements referred to in Article 13(1), and with a flag indicating that that microdata record is subject to confidentiality.
+
+2\. The NSAs of the Member State of import may make use of microdata records on exports which are subject to confidentiality in the compilation of statistical results of intra-Union imports. If the NSAs of the Member State of import make use of microdata records on exports which are subject to confidentiality, they shall ensure that the dissemination of statistical results on intra-Union imports, by the NSAs of the Member State of import, respects the statistical confidentiality granted by the NSAs of the Member State of export.
+
+3\. In order to ensure the protection of the confidential data exchanged under this Chapter, the Commission may adopt implementing acts specifying the format, security and confidentiality measures for such data, including the arrangements for the application of paragraphs 1 and 2, as well as the procedure for the exchange of data.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+4\. Member States and the Commission shall take appropriate measures to prevent and penalise any violations of statistical confidentiality of the data exchanged. The penalties provided for shall be effective, proportionate and dissuasive.
+
+### Article 15 — Access to exchanged confidential data for scientific purposes
+
+Access to the exchanged confidential data may be granted to researchers carrying out statistical analyses for scientific purposes, in accordance with Article 23 of Regulation (EC) No 223/2009, subject to the approval of the competent NSA of the Member State of export which provided the data.
+
+## CHAPTER VI — Exchange of confidential data for the purpose of European business statistics and national accounts
+
+### Article 16 — Exchange of confidential data - enabling clause
+
+1\. The exchange of confidential data, which are collected or compiled pursuant to this Regulation, shall be allowed between the NSAs of Member States concerned, their respective national central banks, the ECB and the Commission (Eurostat) for statistical purposes only, where the exchange is necessary to safeguard the quality and comparability of European business statistics or national accounts in line with the concepts and methodology of Regulation (EU) No 549/2013.
+
+2\. NSAs, the national central banks, the Commission (Eurostat) and the ECB that have obtained confidential data shall treat that information confidentially and shall use it exclusively for statistical purposes in accordance with Articles 20 to 26 of Regulation (EC) No 223/2009.
+
+## CHAPTER VII — Quality, transmission and dissemination
+
+### Article 17 — Quality
+
+1\. Member States shall take all necessary measures to ensure the quality of the European business statistics transmitted and of the national statistical business registers and the EuroGroups Register.
+
+2\. For the purposes of this Regulation, the quality criteria set out in Article 12(1) of Regulation (EC) No 223/2009 shall apply.
+
+3\. The Commission (Eurostat) shall assess the quality of the data and metadata transmitted in a transparent and verifiable manner.
+
+4\. For the purpose of paragraph 3, Member States shall transmit annually the following to the Commission (Eurostat):
+
+(a) quality and metadata reports for the data transmitted under this Regulation;
+
+(b) quality and metadata reports related to the national statistical business registers.
+
+In the case of multiannual statistics, the periodicity of the quality and metadata reports referred to in point (a) of the first subparagraph shall be the same as for the statistics concerned.
+
+5\. The Commission (Eurostat) shall provide annual quality and metadata reports related to the EuroGroups Register to Member States.
+
+6\. The Commission may adopt implementing acts specifying the arrangements for, content of and deadlines for the transmission of the quality and metadata reports.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2). They shall not impose a significant additional cost or burden on the Member States or on the respondents.
+
+The content of the reporting shall be limited to the most important and essential aspects of quality.
+
+7\. Member States shall inform the Commission (Eurostat) as soon as possible of any relevant information or change with regard to the implementation of this Regulation that would influence the quality of the data transmitted. Member States shall inform the Commission (Eurostat) of major methodological or other changes impacting the quality of the national statistical business registers. The information shall be given as soon as possible and not later than six months after any such change enters into force.
+
+8\. Following a duly reasoned request from the Commission (Eurostat), Member States shall provide the additional information necessary to evaluate the quality of the statistical information, which shall not impose a significant additional cost or burden on the Member States or on the respondents.
+
+### Article 18 — Data and metadata transmission
+
+1\. Member States shall provide the Commission (Eurostat) with the data and metadata required by this Regulation in accordance with data and metadata exchange standards. Where the data transmitted is confidential, the true value will be sent with a flag indicating that it is the subject to confidentiality and cannot be disseminated.
+
+The Commission may adopt implementing acts establishing such standards as well as a procedure for the transmission of the data and metadata. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+2\. Following a duly reasoned request from the Commission (Eurostat) Member States shall carry out statistical analyses of the national statistical business registers and transmit the results to the Commission (Eurostat).
+
+The Commission (Eurostat) may adopt implementing acts specifying the format and the procedure for the transmission of the results of such statistical analyses.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+The Commission (Eurostat) shall ensure that such implementing acts do not impose a significant additional cost or burden on the Member States or on the respondents.
+
+3\. Following a duly reasoned request from the Commission (Eurostat), Member States shall provide any relevant information with regard to the implementation of this Regulation in the Member States. Such Commission requests shall not impose a significant additional administrative or financial burden on the Member States.
+
+### Article 19 — Confidentiality regarding the dissemination of statistics on international trade in goods
+
+Only upon request of an importer or exporter of goods, the NSA shall decide whether to disseminate statistical results relating to the respective imports or exports without any amendment or, following a reasoned request by that importer or exporter, to amend the statistical results so as to make it impossible to identify that importer or exporter in order to comply with the principle of statistical confidentiality, in accordance with point (a) of Article 20(3) of Regulation (EC) No 223/2009.
+
+## CHAPTER VIII — Pilot studies and financing
+
+### Article 20 — Pilot studies
+
+1\. Where the Commission (Eurostat) identifies a need for significant new data requirements or improvements to the data sets covered by this Regulation, it may launch pilot studies to be carried out by the Member States on a voluntary basis before any new data collection. Those pilot studies include pilot studies on international trade in services, real estate, financial indicators and environment and climate.
+
+2\. Such pilot studies shall be carried out in order to assess the relevance and feasibility of obtaining data. The results of those studies shall be evaluated by the Commission (Eurostat) in cooperation with Member States and the main stakeholders. The evaluation of the results shall take into account the benefits and the additional costs and burden for businesses and for NSAs of having the improvements.
+
+3\. Following the evaluation referred to in paragraph 2, the Commission shall prepare in cooperation with the Member States a report on the findings of the studies referred to in paragraph 1. That report shall be made public.
+
+4\. The Commission shall report by 7 January 2022 and every two years thereafter on the overall progress made regarding the pilot studies referred to in paragraph 1. Those reports shall be made public.
+
+The Commission shall, if appropriate and taking into account the evaluation of the results referred to in paragraph 2, accompany those reports by proposals for introducing new data requirements.
+
+### Article 21 — Financing
+
+1\. For the implementation of this Regulation, the Union may provide financial support to the national statistical institutes and other national authorities referred to in the list established pursuant to Article 5(2) of Regulation (EC) No 223/2009, towards the cost of:
+
+(a) the development or implementation of data requirements and data processing in the field of business statistics;
+
+(b) the development of methodologies that aim to increase the quality or reduce the costs and administrative burden of collecting and producing business statistics and to improve the European framework for statistical business registers;
+
+(c) the development of methodologies that aim to reduce the administrative and financial burden of providing the required information by reporting units, in particular SMEs;
+
+(d) participation in the pilot studies referred to in Article 20;
+
+(e) the development or enhancement of processes, IT systems and similar support functions that aim to produce statistics of a higher quality or to reduce the administrative and financial burden.
+
+2\. The Union financial contribution shall be provided in accordance with Article 7 of Regulation (EU) No 99/2013 of the European Parliament and of the Council ( 5 ), and Article 6 of Regulation (EU) No 1291/2013 of the European Parliament and of the Council ( 6 ).
+
+3\. This Union financial contribution shall not exceed 95 % of the eligible costs.
+
+## CHAPTER IX — Final provisions
+
+### Article 22 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 5(2) and (3), Article 6(4) and Article 12(2) shall be conferred on the Commission for a period of five years from 6 January 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 5(2) and (3), Article 6(4) and Article 12(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 5(2) or (3), Article 6(4) or Article 12(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.
+
+### Article 23 — Committee
+
+1\. The Commission shall be assisted by the ESSC established by Regulation (EC) No 223/2009. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 24 — Derogations
+
+1\. Where the application of this Regulation or the implementing measures and delegated acts adopted pursuant thereto in a national statistical system of a Member State necessitates major adaptations, the Commission may adopt implementing acts granting derogations therefrom for a maximum duration of three years.
+
+The relevant Member State shall submit a duly reasoned request for such a derogation to the Commission within three months of the date of the entry into force of the act concerned.
+
+The impact by such derogations on comparability of Member States' data or on the calculation of the required timely and representative European aggregates shall be kept to a minimum. The burden on respondents shall be taken into account when granting the derogation.
+
+2\. Where a derogation concerning the areas in which pilot studies as referred to in Article 20 have been carried out remains justified at the end of the period for which it was granted, the Commission may adopt an implementing act granting a further derogation for a maximum period of one year.
+
+The relevant Member State shall submit a request setting out the reasons and detailed grounds in support of such an extension to the Commission not later than six months before the end of the period of validity of the derogation granted pursuant to paragraph 1.
+
+3\. The implementing acts referred to in paragraphs 1 and 2 of this Article shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+
+### Article 25 — Repeal
+
+1\. Regulations (EC) No 48/2004, (EC) No 808/2004, (EC) No 716/2007, (EC) No 177/2008 and (EC) No 295/2008, Decision No 1608/2003/EC and Regulation (EEC) No 3924/91 are repealed with effect from 1 January 2021.
+
+2\. Regulations (EC) No 638/2004 and (EC) No 471/2009 are repealed with effect from 1 January 2022.
+
+3\. Regulation (EC) No 1165/98 is repealed with effect from 1 January 2024.
+
+4\. Paragraphs 1, 2 and 3 are without prejudice to the obligations set out in those legal acts concerning the transmission of data and metadata, including quality reports, with regard to reference periods that fall, in whole or in part, before the respective dates set out in those paragraphs.
+
+5\. References to the repealed acts shall be construed as references to this Regulation.
+
+### Article 26 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 1 January 2021.
+
+3\. However, Article 5(2), (3) and (4), and Articles 11 to 15 shall apply from 1 January 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — TOPICS TO BE COVERED
+
+Domain 1. Short-term business statistics
+
+<table>
+<tbody><tr><td>Topics</td><td>Detailed topics</td></tr>
+<tr><td>Business population</td><td>Business demographic events</td></tr>
+<tr><td rowspan="3">Labour inputs</td><td>Employment</td></tr>
+<tr><td>Hours worked</td></tr>
+<tr><td>Labour costs</td></tr>
+<tr><td rowspan="2">Prices</td><td>Import prices</td></tr>
+<tr><td>Producer prices</td></tr>
+<tr><td rowspan="3">Outputs and performance</td><td>Production</td></tr>
+<tr><td>Volume of sales</td></tr>
+<tr><td>Net turnover</td></tr>
+<tr><td>Real estate</td><td>Real estate</td></tr>
+</tbody>
+</table>
+
+Domain 2. Country-level business statistics
+
+<table>
+<tbody><tr><td>Topics</td><td>Detailed topics</td></tr>
+<tr><td rowspan="5">Business population</td><td>Population of active enterprises</td></tr>
+<tr><td>Business demographic events (births, deaths, survivals)</td></tr>
+<tr><td>Foreign-controlled enterprises</td></tr>
+<tr><td>Foreign-controlling enterprises and domestic affiliates</td></tr>
+<tr><td>Population of enterprises engaged in international trade</td></tr>
+<tr><td rowspan="7">Labour inputs</td><td>Employment</td></tr>
+<tr><td>Employment linked to business demographic events (births, deaths, survivals)</td></tr>
+<tr><td>Employment in foreign-controlled enterprises</td></tr>
+<tr><td>Employment in foreign-controlling enterprises and domestic affiliates</td></tr>
+<tr><td>Hours worked</td></tr>
+<tr><td>Labour costs</td></tr>
+<tr><td>Labour costs in foreign-controlled enterprises</td></tr>
+<tr><td rowspan="5">R&D inputs</td><td>R&D expenditure</td></tr>
+<tr><td>R&D employment</td></tr>
+<tr><td>R&D expenditure in foreign-controlled enterprises</td></tr>
+<tr><td>R&D employment in foreign-controlled enterprises</td></tr>
+<tr><td>Publicly funded R&D</td></tr>
+<tr><td rowspan="4">Purchases</td><td>Purchases of goods and services</td></tr>
+<tr><td>Change in stock of goods</td></tr>
+<tr><td>Purchases of goods and services of foreign- controlled enterprises</td></tr>
+<tr><td>Imports by enterprises</td></tr>
+<tr><td rowspan="11">Outputs and performance</td><td>Net turnover</td></tr>
+<tr><td>Gross margin on goods for resale</td></tr>
+<tr><td>Value of output</td></tr>
+<tr><td>Value added</td></tr>
+<tr><td>Gross operating surplus</td></tr>
+<tr><td>Net turnover of foreign-controlled enterprises</td></tr>
+<tr><td>Value of output of foreign-controlled enterprises</td></tr>
+<tr><td>Value added of foreign-controlled enterprises</td></tr>
+<tr><td>Net turnover of foreign-controlling enterprises and domestic affiliates</td></tr>
+<tr><td>Industrial production</td></tr>
+<tr><td>Exports by enterprises</td></tr>
+<tr><td rowspan="2">Investments</td><td>Gross investment</td></tr>
+<tr><td>Gross investment by foreign-controlled enterprises</td></tr>
+<tr><td>Innovation</td><td>Innovation</td></tr>
+<tr><td>ICT usage and e-commerce</td><td>ICT usage and e-commerce</td></tr>
+</tbody>
+</table>
+
+Domain 3. Regional business statistics
+
+<table>
+<tbody><tr><td>Topics</td><td>Detailed topics</td></tr>
+<tr><td rowspan="2">Business population</td><td>Population by region</td></tr>
+<tr><td>Business demographic events by region (births, deaths, survivals)</td></tr>
+<tr><td rowspan="3">Labour inputs</td><td>Employment by region</td></tr>
+<tr><td>Employment linked to business demographic events by region (births, deaths, survivals)</td></tr>
+<tr><td>Labour costs by region</td></tr>
+<tr><td rowspan="2">R&D inputs</td><td>R&D expenditure by region</td></tr>
+<tr><td>R&D employment by region</td></tr>
+</tbody>
+</table>
+
+Domain 4. Statistics on international activities
+
+<table>
+<tbody><tr><td>Topics</td><td>Detailed topics</td></tr>
+<tr><td>Business population</td><td>Population of enterprises abroad controlled by resident institutional units of the reporting country</td></tr>
+<tr><td rowspan="2">Labour input</td><td>Employment in enterprises abroad controlled by resident institutional units of the reporting country</td></tr>
+<tr><td>Labour costs in enterprises abroad controlled by resident institutional units of the reporting country</td></tr>
+<tr><td>Investments</td><td>Gross investment by enterprises abroad controlled by resident institutional units of the reporting country</td></tr>
+<tr><td>Outputs and performance</td><td>Net turnover of enterprises abroad controlled by resident institutional units of the reporting country</td></tr>
+<tr><td rowspan="2">International trade in goods</td><td>Intra-Union trade in goods</td></tr>
+<tr><td>Extra-Union trade in goods</td></tr>
+<tr><td rowspan="3">International trade in services</td><td>Imports of services</td></tr>
+<tr><td>Exports of services</td></tr>
+<tr><td>Net services</td></tr>
+<tr><td>Global value chains</td><td>Global value chains</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — PERIODICITY, REFERENCE PERIOD AND STATISTICAL UNIT OF TOPICS
+
+Domain 1. Short-term business statistics
+
+| Topics | Periodicity | Reference period | Statistical unit |
+| --- | --- | --- | --- |
+| Business population | quarterly | quarter | legal unit |
+| Labour inputs | quarterly (monthly optional) | quarter (month optional) | KAU |
+| Prices | monthly with the following exceptions – services producer prices and producer prices for new residential buildings: quarterly | month with the following exceptions – services producer prices and producer prices for new residential buildings: quarter (month optional) | KAU with the following exception – import prices: not applicable |
+| Outputs and performance | monthly with the following exception – small countries for NACE Section F: quarterly (monthly optional) | month with the following exception – small countries for NACE Section F: quarter (month optional) | KAU |
+|  | monthly; quarterly for small* countries for NACE Section F * As specified in implementing acts referred to in Article 7(1). |  |  |
+| Real estate | quarterly (monthly optional) | quarter (monthly optional) | not applicable |
+
+Domain 2. Country-level business statistics
+
+| Topics | Periodicity | Reference period | Statistical unit |
+| --- | --- | --- | --- |
+| Business population | annually | calendar year | enterprise |
+| Labour inputs | annually | calendar year | enterprise |
+| R&D inputs | biennially with the following exceptions – sector of performance breakdown of intramural R&D expenditure, R&D personnel and number of researchers as well as for Government Budget Allocations for R&D (GBARD) and national public funding to transnationally coordinated R&D: annually | calendar year | enterprise for the business enterprise sector institutional unit for the other sectors |
+| Purchases | annually with the following exception – payments to subcontractors: every three years | calendar year | enterprise |
+| Outputs and performance | annually with the following exceptions – product and residence of client breakdown of net turnover for NACE 69.1, 69.2, 70.2, 71.1, 71.2 and 73.2: biennially – Net turnover from agriculture, forestry, fishing and industrial activities, Net turnover from industrial activities, Net turnover from industrial activities excluding construction, Net turnover from construction, Net turnover from service activities, Net turnover from trading activities of purchase and resale and from intermediary activities, Net turnover from building and Net turnover from civil engineering: every five years – income from subcontracting: every three years | calendar year | enterprise with the following exceptions – sold production, production under sub-contracted operations and actual production: KAU |
+| Investments | annually with the following exception – investment in intangible assets: every three years | calendar year | enterprise |
+| Innovation | biennially | reference period is three-year period before the end of every even calendar year | enterprise |
+| ICT usage and e- commerce | annually | calendar year of the adoption of the implementing act laying down the variables; calendar year following the year of adoption of the implementing act laying down the variables for the other variables | enterprise |
+
+Domain 3. Regional business statistics
+
+| Topics | Periodicity | Reference period | Statistical unit |
+| --- | --- | --- | --- |
+| Business population | annually | calendar year | enterprise with the following exception – number of local units (optional for NACE Section K): local unit |
+| Labour inputs | annually | calendar year | enterprise with the following exceptions – number of employees and self‐employed persons in local units, wages and salaries in local units: local unit |
+| R&D inputs | biennially | calendar year | enterprise for business enterprise sector; institutional unit for the other sectors |
+
+Domain 4. Statistics on international activities
+
+| Topics | Periodicity | Reference period | Statistical unit |
+| --- | --- | --- | --- |
+| Business population | annually | calendar year | enterprise |
+| Labour inputs | annually | calendar year | enterprise |
+| Investments | annually | calendar year | enterprise |
+| Outputs and performance | annually | calendar year | enterprise |
+| International trade in goods | monthly with the following exception – biennially for combined product and invoicing currency breakdown for extra-Union imports and exports of goods | to be specified in implementing acts pursuant to point (j) of Article 7(1) | not applicable |
+| International trade in services | annually with the following exception – first level service breakdowns: quarterly | calendar year with the following exception – first level service breakdowns: quarter | not applicable |
+| Global value chains | every three years | three calendar years; reference year t and the reference period t‐2 to t | enterprise |
+
+## ANNEX III — ELEMENTS OF THE EUROPEAN FRAMEWORK FOR STATISTICAL BUSINESS REGISTERS
+
+**Part A: Register detailed topics and unique identifier**
+
+1\. The units listed in the national statistical business registers and in the EuroGroups Register as referred to in Article 2 of this Regulation shall be characterised by an identity number and by register detailed topics specified in Part C.
+
+2\. The units listed in the national statistical business registers and in the EuroGroups Register shall be uniquely identified by an identity number to facilitate the infrastructure role of the European framework for statistical business registers. Those identity numbers will be provided by the NSAs. The identity numbers for legal units and multinational enterprise groups relevant for the EuroGroups Register will be provided by the Commission (Eurostat). For national purposes NSAs can maintain additional identity number in the national statistical business registers.
+
+**Part B: Time reference and periodicity**
+
+3\. The national statistical business registers and the EuroGroups Register shall be updated by means of entries and removals at least annually.
+
+4\. The frequency of updating shall depend on the kind of unit, the variable considered, the size of the unit and the source generally used for the update.
+
+5\. Member States shall make annually a copy that reflects the state of the national statistical business registers at the end of the year and keep that copy for at least 30 years for the purpose of analysis. The Commission (Eurostat) shall make annually a copy that reflects the state of the EuroGroups Register at the end of the year and keep that copy for at least 30 years for the purpose of analysis.
+
+**Part C: Detailed topics for business registers**
+
+The national statistical business registers and the EuroGroups Register shall, for the respective units defined in Article 2 of this Regulation, contain the following detailed topics by unit.
+
+<table>
+<tbody><tr><td>UNITS</td><td>DETAILED TOPICS</td></tr>
+<tr><td rowspan="8">1. LEGAL UNITS</td><td>Identification</td></tr>
+<tr><td>Demographic events</td></tr>
+<tr><td>Stratification parameters</td></tr>
+<tr><td>Links with enterprise</td></tr>
+<tr><td>Links with other registers</td></tr>
+<tr><td>Link with enterprise group</td></tr>
+<tr><td>Control of units</td></tr>
+<tr><td>Ownership of units</td></tr>
+<tr><td rowspan="3">2. ENTERPRISE GROUP</td><td>Identification</td></tr>
+<tr><td>Demographic events</td></tr>
+<tr><td>Stratification parameters and economic variables</td></tr>
+<tr><td rowspan="4">3. ENTERPRISE</td><td>Identification</td></tr>
+<tr><td>Link to other units</td></tr>
+<tr><td>Demographic events</td></tr>
+<tr><td>Stratification parameters and economic variables</td></tr>
+<tr><td rowspan="4">4. LOCAL UNIT</td><td>Identification</td></tr>
+<tr><td>Demographic events</td></tr>
+<tr><td>Stratification parameters and economic variables</td></tr>
+<tr><td>Links to other units and registers</td></tr>
+<tr><td rowspan="4">5. KIND OF ACTIVITY UNIT if covered as statistical unit in accordance with point (c) of Article 2(3) </td><td>Identification</td></tr>
+<tr><td>Demographic events</td></tr>
+<tr><td>Stratification parameters and economic variables</td></tr>
+<tr><td>Links to other units and registers</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — DETAILED TOPICS AND VARIABLES FOR THE EXCHANGE OF CONFIDENTIAL DATA FOR THE PURPOSE OF THE EUROPEAN FRAMEWORK FOR STATISTICAL BUSINESS REGISTERS
+
+Items marked 'conditional' are mandatory if available in the Member States and items marked 'optional' are recommended.
+
+1\. Data to be transmitted by the competent NSAs to the Commission (Eurostat) and allowed to be exchanged between the competent NSAs (Article 10(1) and (2))
+
+| Units | Detailed topics | Variables |
+| --- | --- | --- |
+| Legal unit | Identification | Identification variables |
+|  | Demographic events | Date of incorporation for legal persons or date of official recognition as an economic operator for natural persons Date of which the legal unit ceased |
+|  | Stratification parameters | Legal form Legal activity status Flag for branches within the meaning of point 18.12 of Chapter 18 of Annex A to Regulation (EU) No 549/2013 (conditional) Flag for special purpose entities within the meaning of points 2.17 to 2.20 of Chapter 2 of Annex A to Regulation (EU) No 549/2013 (optional) |
+|  | Control of units | Identification variables of the legal unit which is either controlled or controls |
+|  | Ownership of units | Identification variables of unit which is either owned or owns Shares (%) of resident legal unit(s) owned by the legal unit (conditional) Shares (%) of resident legal unit(s), which own(s) the legal unit (conditional) Shares (%) of non-resident legal unit(s) owned by the legal unit (conditional) Shares (%) of non-resident legal unit(s), which own(s) the legal unit (conditional) Date of start-end of shares (conditional) |
+| Enterprise group | Identification | Identification variables |
+|  | Stratification parameters and economic variables | Principal activity code of the enterprise group at NACE 2‐digit level Secondary activities of the enterprise group at NACE 2‐digit level (optional) Number of employees and self-employed persons (conditional) Net turnover (conditional) Total assets of the enterprise group (conditional) Countries where non-resident enterprises or local units are located (optional) |
+| Enterprise | Identification | Identification variables |
+|  | Link to other units | Identity number(s) of the legal unit(s) of which the enterprise consists Identity number of the enterprise group to which the enterprise belongs |
+|  | Demographic events | Date of commencement of activities Date of final cessation of activities |
+|  | Stratification parameters and economic variables | Principal activity code of the enterprise at NACE 4-digit level Number of employees and self-employed persons Number of employees Net turnover Institutional sector and subsector within the meaning of Regulation (EU) No 549/2013 |
+
+2\. Data to be transmitted by the Commission (Eurostat) to the competent NSAs and allowed to be exchanged between the Commission (Eurostat) and the competent central banks in the case of authorisation (Article 10(2) and (4))
+
+| Units | Detailed topics | Variables |
+| --- | --- | --- |
+| Legal unit | Identification | Identification variables |
+|  | Demographic events | Date of incorporation for legal persons or date of official recognition as an economic operator for natural persons Date of which the legal unit ceased |
+|  | Stratification parameters | Legal form Legal activity status Flag for branches within the meaning of point 18.12 of Chapter 18 of Annex A to Regulation (EU) No 549/2013 (conditional) Flag for special purpose entities within the meaning of points 2.17 to 2.20 of Chapter 2 of Annex A to Regulation (EU) No 549/2013 (optional) |
+|  | Links with enterprise | Identification variables of the enterprise(s) to which the unit belongs Date of association to the enterprise(s) (conditional) Date of separation from the enterprise(s) (conditional) |
+|  | Links with other registers | Links with other registers |
+|  | Link with enterprise group | Identification variables of the enterprise group to which the unit belongs Date of association to the enterprise group Date of separation from the enterprise group |
+|  | Control of units | Identification variables of the legal unit which is either controlled or controls |
+|  | Ownership of units | Identification variables of unit which is either owned or owns Shares (%) of resident legal unit(s) owned by the legal unit (conditional) Shares (%) of resident legal unit(s), which own(s) the legal unit (conditional) Shares (%) of non-resident legal unit(s) owned by the legal unit (conditional) Shares (%) of non-resident legal unit(s), which own(s) the legal unit (conditional) Date of start-end of shares (conditional) |
+| Enterprise group | Identification | Identification variables |
+|  | Demographic events | Date of commencement of the enterprise group Date of cessation of the enterprise group |
+|  | Stratification parameters and economic variables | Principal activity code of the enterprise group at NACE 2-digit level Secondary activities of the enterprise group at NACE 2-digit level (optional) Number of employees and self-employed persons (conditional) Net turnover (conditional) Total assets of the enterprise group (conditional) Countries where non-resident enterprises or local units are located (optional) |
+| Enterprise | Identification | Identification variables |
+|  | Link to other units | Identity number(s) of the legal unit(s) of which the enterprise consists Identity number of the multinational or national enterprise group, to which the enterprise belongs |
+|  | Demographic events | Date of commencement of activities Date of final cessation of activities |
+|  | Stratification parameters and economic variables | Principal activity code of the enterprise group at NACE 4-digit level Secondary activities of the enterprise group at NACE 4-digit level (conditional) Number of employees and self -employed persons Number of employees Number of employees in full-time equivalents (optional) Net turnover Institutional sector and subsector within the meaning of Regulation (EU) No 549/2013 |
+
+3\. Data exchanges on incorporated legal units for identification purposes (Article 10(3))
+
+3.1. Data to be transmitted by the competent NSAs to the Commission (Eurostat) on resident incorporated legal units
+
+| Units | Detailed topics | Variables |
+| --- | --- | --- |
+| Legal unit | Identification | Identification variables |
+|  | Demographic events | Date of incorporation for legal persons or date of official recognition as an economic operator for natural persons Date of which the legal unit ceased |
+|  | Stratification parameters | Legal form Legal activity status Flag for branches within the meaning of point 18.12 of Chapter 18 of Annex A to Regulation (EU) No 549/2013 (conditional) |
+
+3.2. Data to be transmitted by the competent NSAs to the Commission (Eurostat) on foreign incorporated legal units
+
+| Units | Detailed topics | Variables |
+| --- | --- | --- |
+| Legal unit | Identification | Identification variables |
+|  | Demographic events | Date of incorporation for legal persons or date of official recognition as an economic operator for natural persons Date of which the legal unit ceased |
+|  | Stratification parameters | Legal form (optional) Legal activity status Flag for branches within the meaning of point 18.12 of Chapter 18 of Annex A to Regulation (EU) No 549/2013 (conditional) |
+
+3.3. Data to be transmitted by the Commission (Eurostat) to the competent NSAs on incorporated legal units
+
+| Units | Detailed topics | Variables |
+| --- | --- | --- |
+| Legal unit | Identification | Identification variables |
+|  | Demographic events | Date of incorporation for legal persons or date of official recognition as an economic operator for natural persons Date of which the legal unit ceased |
+|  | Stratification parameters | Legal form Legal activity status Flag for branches within the meaning of point 18.12 of Chapter 18 of Annex A to Regulation (EU) No 549/2013 (conditional) |
+
+## ANNEX V
+
+Information to be provided by the tax authorities responsible in each Member State to the NSA, as referred to in Article 5(2):
+
+(a) information from VAT returns on taxable persons or non-taxable legal persons who have declared, for the period in question, intra-Union supplies of goods in accordance with point (a) of Article 251 of Directive 2006/112/EC or intra-Union acquisitions of goods in accordance with point (c) of Article 251 of that Directive;
+
+(b) information from recapitulative statements on intra-Union supplies collected from the recapitulative VAT statements in accordance with Articles 264 and 265 of Directive 2006/112/EC;
+
+(c) information on intra-Union acquisitions communicated by all other Member States in accordance with Article 21(2) of Council Regulation (EU) No 904/2010 ( 7 );
+
+(d) information from VAT returns submitted to the Member State of identification by taxable persons not established in the Member State of consumption making use of the special scheme provided for in Section 3 of Chapter 6 of Title XII of Directive 2006/112/EC, who have declared, for the period in question, supplies of goods under that scheme in accordance with Article 369g of that Directive;
+
+(e) information from VAT returns submitted to the Member State of identification by taxable persons making use of the special scheme provided for in Section 4 of Chapter 6 of Title XII of Directive 2006/112/EC, who have declared, for the period in question, distance sales of goods imported from third territories or third countries under that scheme in accordance with Article 369t of that Directive;
+
+(f) information from VAT returns submitted to the Member State of identification by taxable persons making use of the special scheme provided for in Section 5 of Chapter 6 of Title XII of Directive 2006/112/EC, who have declared, for the period in question, transfers of own of goods under that scheme in accordance with Article 369xg of that Directive;
+
+(g) information related to the special schemes provided for in Sections 3, 4 and 5 of Chapter 6 of Title XII of Directive 2006/112/EC, made accessible to all other Member States in accordance with Article 21(1) of Regulation (EU) No 904/2010;
+
+(h) information exchanged under the procedures provided for in Articles 20 to 25 and 36 to 37 of Council Directive (EU) 2020/262 ( 8 ), where the tax authority is the competent authority referred to in Article 3(2) of Council Regulation (EU) No 389/2012 ( 9 ) on administrative cooperation in the field of excise duties.
+
+## ANNEX VI
+
+Information to be provided by the customs authorities responsible in each Member State to the NSA, as referred to in Article 5(3):
+
+(a) information identifying the person who carries out intra-Union exports and intra-Union imports of goods covered by the customs procedure of inward processing;
+
+(b) the registration and identification data of economic operators provided for under Union customs provisions available in the electronic system relating to the EORI number as referred to in Article 7 of Commission Implementing Regulation (EU) 2015/2447 ( 10 );
+
+(c) the records on imports and exports from customs declarations which were accepted or were subject to decisions by the national customs authorities and:
+
+(i) which were lodged with them; or
+
+(ii) for which the supplementary declaration is, in accordance with Article 225 of Implementing Regulation (EU) 2015/2447, available to them through direct electronic access in the authorisation holder’s system; or
+
+(iii) which were received by them in application of Article 179 of Regulation (EU) 952/2013;
+
+(d) information on applied procedures, simplifications or authorisations granted to trade operators, and information identifying those trade operators;
+
+(e) information exchanged under the procedures provided for in Articles 20 to 25 and 36 to 37 of Directive (EU) 2020/262, where the customs authority is the competent authority referred to in Article 3(2) of Regulation (EU) No 389/2012 on administrative cooperation in the field of excise duties.
+
+( 1 ) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).
+
+( 2 ) Council Regulation (EEC) No 696/93 of 15 March 1993 on the statistical units for the observation and analysis of the production system in the Community (OJ L 76, 30.3.1993, p. 1).
+
+( 3 ) Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).
+
+( 4 ) Regulation (EC) No 184/2005 of the European Parliament and of the Council of 12 January 2005 on Community statistics concerning balance of payments, international trade in services and foreign direct investment (OJ L 35, 8.2.2005, p. 23).
+
+( 5 ) Regulation (EU) No 99/2013 of the European Parliament and of the Council of 15 January 2013 on the European statistical programme 2013-17 (OJ L 39, 9.2.2013, p. 12).
+
+( 6 ) Regulation (EU) No 1291/2013 of the European Parliament and of the Council of 11 December 2013 establishing Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) and repealing Decision No 1982/2006/EC (OJ L 347, 20.12.2013, p. 104).
+
+( 7 ) Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax (OJ L 268, 12.10.2010, p. 1, ELI: http://data.europa.eu/eli/reg/2010/904/oj).
+
+( 8 ) Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (OJ L 58, 27.2.2020, p. 4, ELI: http://data.europa.eu/eli/dir/2020/262/oj).
+
+( 9 ) Council Regulation (EU) No 389/2012 of 2 May 2012 on administrative cooperation in the field of excise duties and repealing Regulation (EC) No 2073/2004 (OJ L 121, 8.5.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/389/oj).
+
+( 10 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558, ELI: http://data.europa.eu/eli/reg_impl/2015/2447/oj).

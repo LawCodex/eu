@@ -1434,6 +1434,7 @@ Member States may also present the extent of any deviation from the EQS value fo
 
 **‘2.3.2. Definition of good groundwater chemical status**
 
+<table>
 <tbody><tr><td>Element</td><td>Good status</td></tr>
 <tr><td>Concentrations of pollutants</td><td>The chemical composition of the groundwater body is such that the concentrations of pollutants, as specified below:<table><tbody><tr><td>—</td><td>do not exhibit the effects of saline or other intrusions</td></tr>
 </tbody>
@@ -1447,6 +1448,7 @@ Member States may also present the extent of any deviation from the EQS value fo
 </td></tr>
 <tr><td>Conductivity</td><td>Changes in conductivity are not indicative of saline or other intrusion into the groundwater body’</td></tr>
 </tbody>
+</table>
 
 (19) in Section 2.4.1, the following paragraph is added:
 
@@ -1510,6 +1512,7 @@ Annex I to Directive 2006/118/EC is replaced by the following:
 
 Where, for a given body of groundwater, it is considered that the groundwater quality standards could result in failure to achieve the environmental objectives specified in Article 4 of Directive 2000/60/EC for associated bodies of surface water, or in any significant deterioration of the ecological or chemical quality of such bodies, or in any significant damage to terrestrial ecosystems which depend directly on that body of groundwater, more stringent threshold values shall be established in accordance with Article 3 of and Annex II to this Directive. Provided that a reliable methodology is available to assess the presence of groundwater ecosystems, more stringent quality standards shall also be established for groundwater bodies where such ecosystems are present, unless the groundwater quality standards have been set to protect human health and are already sufficiently strict to protect those ecosystems.
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td></tr>
 <tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>Quality Standard (3) [μg/l unless otherwise indicated]</td></tr>
 <tr><td>1</td><td>Nitrates</td><td>Nutrients</td><td>not applicable</td><td>not applicable</td><td>50 mg/l</td></tr>
@@ -1526,6 +1529,7 @@ Where, for a given body of groundwater, it is considered that the groundwater qu
 <tr><td>8</td><td>Trichloroethylene and Tetrachloroethylene (sum of two)</td><td>Industrial substances</td><td>79-01-6 and 127-18-4</td><td>201-167-4 and 204-825-9</td><td>10 (total) (13)</td></tr>
 <tr><td colspan="6">(1) CAS: Chemical Abstracts Service. (2) EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).  (3) This parameter is the QS expressed as an annual average value. Unless otherwise specified, it applies to the total concentration of all substances and isomers.  (4) “Pesticides” means plant protection products and biocidal products referred to in Article 2 of Regulation (EC) No 1107/2009 and in Article 3 of Regulation (EU) No 528/2012 respectively.  For that parameter, Member States shall monitor the active substances present in pesticidal products currently or previously used in their territory and any found to be present as a result of transboundary pollution, and their relevant and non-relevant metabolites, degradation and reaction products, drawing, when available, on the list to be established in accordance with Article 4(2a) of this Directive. Member States may stop monitoring specific active substances and their metabolites if they are no longer being used in their territory, provided that past monitoring has consistently shown that those substances and metabolites do not occur in the groundwater body.  A pesticide metabolite shall be deemed relevant if there is reason to consider that it has intrinsic properties comparable to those of the parent active substance in terms of its toxicity for the target pest or that either itself or its transformation products generate a health risk for consumers or the environment.  (5) “Total” means the sum of all individual pesticides detected and quantified in the monitoring procedure, including their relevant metabolites, degradation and reaction products.  (6) This refers to the PFAS listed in point 3 of Part B of Annex III to Directive (EU) 2020/2184. The parameter and the quality standard shall be updated according to amendments to that Directive.  (7) This refers to the following compounds, listed with their CAS number and EU number: Perfluorohexane sulfonic acid (PFHxS), (CAS 355-46-4, EU 206-587-1); Perfluorooctanesulfonic acid (PFOS) (CAS 1763-23-1, EU 217-179-8); Perfluorooctanoic acid (PFOA) (CAS 335-67-1, EU 206-397-9); Perfluorononanoic acid (PFNA) (CAS 375-95-1, EU 206-801-3). For the sum of 4 PFAS, the CAS numbers listed refer only to the protonated form of the individual PFAS but the sum applies to the total concentration of the dissolved substances including protonated and deprotonated forms and their isomers linear and branched.  (8) Member States shall apply a default quality standard of 1 μg/l unless they provide reliable evidence, including from tests of acute and chronic toxicity on the taxonomic group confidently predicted to be the most sensitive, that a more or less strict standard is justified, in which case they shall apply that standard, up to a maximum of 5 μg/l.  (9) The total concentration of nrMs for which the default quality standard of 1 μg/l for individual nrMs applies, or a stricter standard, shall not exceed 5 μg/l.  (10) The total concentration of nrMs for which standards above 1 and up to 5 μg/l for individual nrMs apply shall not exceed 12,5 μg/l.  (11) “Total” means the sum of all individual nrMs in each individual quality-standard category detected and quantified in the monitoring procedure, which should cover at least the nrMs listed in accordance with Article 4(2a).  (12) When a reliable methodology is available, Member States shall assess the presence of groundwater ecosystems in groundwater bodies whose characteristics could support their existence and set, if such ecosystems are present, and in line with Article 3(1)(b), a stricter threshold value for this substance that is adequate to protect those ecosystems.  (13) “Total” means the sum of concentrations of Trichloroethylene and Tetrachloroethylene.’. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 
@@ -1555,11 +1559,13 @@ Tetrachloroethylene
 
 **Repository of harmonised threshold values for man-made synthetic substances (*) in groundwater of national, regional or local concern**
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td></tr>
 <tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>Threshold value [μg/l unless otherwise indicated] </td></tr>
 <tr><td></td><td>Individual pharmaceutical active substances (3)</td><td>Pharmaceuticals</td><td></td><td></td><td>2,5  (4)</td></tr>
 <tr><td colspan="6">(1) CAS: Chemical Abstracts Service. (2) EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).  (3) Pharmaceutical active substances as defined in Directive 2001/83/EC and Regulation (EU) 2019/6.  (4) Member States shall apply this threshold value unless a standard or threshold value has been specifically set for the substance concerned at Union or national level for either surface or groundwater. When a reliable methodology is available, Member States shall assess the presence of groundwater ecosystems in groundwater bodies whose characteristics could support their existence and set, if such ecosystems are present, and in accordance with Article 3(1)(b), a stricter threshold value if necessary to protect those ecosystems.’. </td></tr>
 </tbody>
+</table>
 
 (*1) including synthetic substances with identical natural counterparts which may occur in groundwater, but where any natural background level is, at most, low.’;
 
@@ -1573,12 +1579,14 @@ The following Annex is added in Directive 2006/118/EC
 
 **SUBSTANCES SUBJECT TO REVIEW FOR POSSIBLE INCLUSION IN ANNEX I WITH A UNION-WIDE GROUNDWATER QUALITY STANDARD**
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td></tr>
 <tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>Threshold value [μg/l unless otherwise indicated] </td></tr>
 <tr><td></td><td>Sum(s) of selected pharmaceuticals by mode of action</td><td>Pharmaceuticals</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Sum of bisphenols</td><td>Industrial substances</td><td></td><td></td><td></td></tr>
 <tr><td colspan="6">(1) CAS: Chemical Abstracts Service. (2) EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).’. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 
@@ -1592,6 +1600,7 @@ Annex I to Directive 2008/105/EC is amended as follows:
 
 **‘PART A: ENVIRONMENTAL QUALITY STANDARDS**
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td><td>(9)</td><td>(10)</td><td>(11)</td><td>(12)</td><td>(13)</td></tr>
 <tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>AA-EQS (3) Inland surface waters (4) [μg/l] </td><td>AA-EQS (3) Other surface waters  [μg/l] </td><td>MAC-EQS (5) Inland surface waters (4)  [μg/l] </td><td>MAC-EQS (5) Other surface waters  [μg/l] </td><td>EQS Biota (6)  [μg/kg wet weight]  or EQS Sediment [μg /kg dry weight] where so indicated </td><td>Identified as a priority hazardous substance</td><td>Identified as an Ubiquitous Persistent, Bioaccumulative and Toxic (uPBT) substance</td><td>Identified as a substance that tends to accumulate in sediment and/or biota</td></tr>
 <tr><td>(1)</td><td colspan="12">The substance Alachlor has been moved to Part C of Annex II</td></tr>
@@ -1684,6 +1693,7 @@ Annex I to Directive 2008/105/EC is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (3) Part B is amended as follows:
 
@@ -1752,6 +1762,7 @@ Methods used for the establishment of EQS for river basin specific pollutants sh
 
 **PART C: REPOSITORY OF HARMONISED ENVIRONMENTAL QUALITY STANDARDS FOR RIVER BASIN SPECIFIC POLLUTANTS**
 
+<table>
 <tbody><tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>AA-EQS (3) Inland surface waters (4)  [μg/l] </td><td>AA-EQS (3) Other surface waters  [μg/l] </td><td>MAC-EQS (5) Inland surface waters (4)  [μg/l] </td><td>MAC-EQS (5) Other surface waters  [μg/l] </td><td>EQS Biota (6)  [μg/kg wet weight] or EQS Sediment where so indicated [μg /kg dry weight] </td></tr>
 <tr><td>1</td><td>Alachlor (7)</td><td>Pesticides</td><td>15972-60-8</td><td>240-110-8</td><td>0,3 </td><td>0,3 </td><td>0,7 </td><td>0,7 </td><td></td></tr>
 <tr><td>2</td><td>Carbon tetrachloride (7)</td><td>Industrial substances</td><td>56-23-5</td><td>200-262-8</td><td>12</td><td>12</td><td>not applicable</td><td>not applicable</td><td></td></tr>
@@ -1761,6 +1772,7 @@ Methods used for the establishment of EQS for river basin specific pollutants sh
 <tr><td>6</td><td>Atrazine (7)</td><td>Pesticides – herbicides</td><td>1912-24-9</td><td>217-617-8</td><td>0,6 </td><td>0,6 </td><td>2,0 </td><td>2,0 </td><td></td></tr>
 <tr><td colspan="10">(1) CAS: Chemical Abstracts Service. (2) EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).  (3) This parameter is the EQS expressed as an annual average value (AA-EQS). Unless otherwise specified, it applies to the total concentration of all substances and isomers.  (4) Inland surface waters encompass rivers and lakes and related artificial or heavily modified water bodies.  (5) This parameter is the EQS expressed as a maximum allowable concentration (MAC EQS). Where the MAC EQS are marked as “not applicable”, the AA EQS values are considered protective against short-term pollution peaks in continuous discharges since they are significantly lower than the values derived on the basis of acute toxicity.  (6) If a biota EQS is given, it, rather than the water EQS, shall be applied, without prejudice to Article 3(3) of this Directive allowing an alternative biota taxon, or another matrix, to be monitored instead, as long as the EQS applied provides an equivalent level of protection. Unless otherwise indicated, the biota EQS relate to fish.  (7) Substance previously listed as a priority substance in Annex X to Directive 2000/60/EC or Annex I to Directive 2008/105/EC.’. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VIII
 
@@ -1770,12 +1782,14 @@ The following Annex is added in Directive 2008/105/EC
 
 **SUBSTANCES SUBJECT TO REVIEW FOR POSSIBLE IDENTIFICATION AS PRIORITY SUBSTANCES**
 
+<table>
 <tbody><tr><td>Name of substance</td><td>CAS number (1)</td><td>EU number (2)</td></tr>
 <tr><td>Sum of Bisphenols</td><td>not applicable</td><td>not applicable</td></tr>
 <tr><td>Sum(s) of selected pesticides by mode of action</td><td>not applicable</td><td>not applicable</td></tr>
 <tr><td>Sum(s) of selected pharmaceuticals by mode of action</td><td>not applicable</td><td>not applicable</td></tr>
 <tr><td colspan="3">(1) CAS: Chemical Abstracts Service. (2) EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).’. </td></tr>
 </tbody>
+</table>
 
 ELI: http://data.europa.eu/eli/dir/2026/805/oj
 

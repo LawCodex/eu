@@ -1,0 +1,73 @@
+---
+title: "Council Regulation (EEC) No 2938/91 of 1 October 1991 on emergency action for the supply of certain agricultural products to the population of Albania"
+identifier: "31991R2938"
+eli: "http://data.europa.eu/eli/reg/1991/2938/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1991-10-01
+entry_into_force: 1992-01-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R2938"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC) No 2938/91 of 1 October 1991 on emergency action for the supply of certain agricultural products to the population of Albania
+
+COUNCIL REGULATION (EEC) No 2938/91 of 1 October 1991 on emergency action for the supply of certain agricultural products to the population of Albania
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Articles 43 and 235 thereof,
+
+Having regard to the proposal from the Commission (1),
+
+Having regard to the opinion of the European Parlia- ment (2),
+
+Whereas agricultural products should be made available to Albania to improve the food supply to the population of that country; whereas the Community has agricultural products in storage as a result of intervention measures and these should be used in priority for the abovementioned action; whereas, for certain of these products, the necessary measures can, under the rules in force, be adopted by the Commission;
+
+Whereas the action proposed is essentially humanitarian in its aim and should therefore also be based upon Article 235 of the Treaty;
+
+Whereas the cost of the operation should ultimately be met from the appropriations allocated for cooperation with non-member countries;
+
+Whereas it is a matter for the Commission to set detailed rules for application and verification of this action,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Community shall, on the terms set out below, take emergency action to supply Albania with certain cereals.
+
+## Article 2
+
+For implementation of the emergency action:
+
+1\. the Community shall transfer free of charge to Albania a maximum of 100 000 tonnes of common wheat of bread-making quality available as a result of intervention measures;
+
+2\. delivery costs shall be met by the Community and shall be determined by tendering procedure;
+
+3\. no export refunds shall be granted for products supplied pursuant to this Regulation and the monetary compensatory amount arrangements shall not apply.
+
+## Article 3
+
+The value of the products transferred to Albania that is to be entered in the accounts shall be determined using the procedure laid down in Article 13 of Regulation (EEC) No 729/70 (3), as last amended by Regulation (EEC) No 2048/88 (4).
+
+## Article 4
+
+1\. The Commission shall be responsible for execution of the emergency action.
+
+2\. Detailed rules for application of this Regulation shall be adopted, as necessary, using the procedure laid down in Article 26 of Regulation (EEC) No 2727/75 (5), as last amended by Regulation (EEC) No 3577/90 (6).
+
+3\. The Commission shall be responsible for checking on the spot delivery operations and the application of the criteria adopted when the aid is distributed to the population.
+
+## Article 5
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities. This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 1 October 1991. For the Council
+
+The President
+
+H. VAN DEN BROEK
+
+(1) OJ No C 211, 13. 8. 1991, p. 9. (2) Opinion delivered on 13 September 1991 (not yet published in the Official Journal). (3) OJ No L 94, 28. 4. 1970, p. 13. (4) OJ No L 185, 15. 7. 1988, p. 1. (5) OJ No L 281, 1. 11. 1975, p. 1. (6) OJ No L 353, 17. 12. 1990, p. 23.

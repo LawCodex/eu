@@ -32,9 +32,11 @@ supplementing and amending Directive 76/116/EEC in respect of the trace elements
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Directive 97/63/EC of the European Parliament and of the Council of 24 November 1997</td><td> L 335</td><td>15</td><td>6.12.1997</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -196,6 +198,7 @@ Note 3:
 
 Where a trace element is present in a chelated form, the pH range guaranteeing acceptable stability of the chelated fraction shall be stated.
 
+<table>
 <tbody><tr><td>No</td><td>Type designation</td><td>Data on method of production and essential ingredients</td><td> Minimum trace-element content (percentage by weight)  Data on the expression of nutrients.  Other requirements </td><td>Other data or type designation</td><td> Trace-element content to be declared.  Solubilities.  Other criteria </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
 <tr><td colspan="6">BORON</td></tr>
@@ -237,6 +240,7 @@ Where a trace element is present in a chelated form, the pH range guaranteeing a
 <tr><td>7d</td><td>Zinc-based fertilizer</td><td>Product derived from types 7a and 7b</td><td>30 % total Zn</td><td>  </td><td> Total zinc (Zn)  Water-soluble zinc (Zn) if this accounts for at least one-quater of the total zinc (Zn) </td></tr>
 <tr><td>7e</td><td>Zinc-based solution</td><td>Product obtained by dissolving types 7a and 7b in water</td><td>3 % water-soluble Zn</td><td>Nature of the chelating agent</td><td> Water-soluble zinc (Zn).  Chelated Zinc (Zn) </td></tr>
 </tbody>
+</table>
 
 MINIMUM TRACE-ELEENT CONTENT, PERCENTAGE WEIGHT OF FERTILIZER
 
@@ -244,6 +248,7 @@ CHAPTER B
 
 SOLID OR FLUID MIXTURES OF TRACE ELEMENTS
 
+<table>
 <tbody><tr><td rowspan="2">  </td><td colspan="2">Where the trace element is present in a form that is:</td></tr>
 <tr><td>exclusively mineral</td><td>chelated or complexed</td></tr>
 <tr><td>For a trace element:</td><td>  </td><td>  </td></tr>
@@ -255,6 +260,7 @@ SOLID OR FLUID MIXTURES OF TRACE ELEMENTS
 <tr><td>Molybdenum (Mo)</td><td>0,02</td><td>—</td></tr>
 <tr><td>Zinc (Zn)</td><td>0,5</td><td>0,1</td></tr>
 </tbody>
+</table>
 
 Minimum total of trace elements in a solid mixture: 5 % by mass of the fertilizer.
 

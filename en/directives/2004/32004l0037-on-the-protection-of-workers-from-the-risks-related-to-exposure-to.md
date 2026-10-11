@@ -26,6 +26,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/27/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 65</td><td>1</td><td>5.3.2014</td></tr>
@@ -35,6 +36,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/431 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2022 </td><td> L 88</td><td>1</td><td>16.3.2022</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 869</td><td>1</td><td>19.3.2024</td></tr>
+</table>
 
 **DIRECTIVE 2004/37/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -434,6 +436,7 @@ Further tests may be decided upon for each worker when he is the subject of heal
 
 **LIMIT VALUES AND OTHER DIRECTLY RELATED PROVISIONS (ARTICLE 16)**
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3(5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>mg/m3(5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
@@ -487,6 +490,7 @@ Further tests may be decided upon for each worker when he is the subject of heal
 <tr><td colspan="11"></td></tr>
 <tr><td colspan="11">(1)  EC No, i.e. Einecs, ELINCS or NLP, is the official number of the substance within the European Union, as defined in Section 1.1.1.2 in Annex VI, Part 1, of Regulation (EC) No 1272/2008.  (2)  CAS No: Chemical Abstract Service Registry Number.  (3)  Measured or calculated in relation to a reference period of eight hours time-weighted average (TWA).  (4)  Short-term exposure limit (STEL). A limit value above which exposure should not occur and which is related to a 15-minute period unless otherwise specified.  (5)  mg/m3 = milligrams per cubic metre of air at 20 °C and 101,3 kPa (760 mm mercury pressure).  (6)  ppm = parts per million by volume in air (ml/m3).  (7)  f/ml = fibres per millilitre.  (8)  Inhalable fraction: if hardwood dusts are mixed with other wood dusts, the limit value shall apply to all wood dusts present in that mixture.  (9)  Respirable fraction.  (10)  Substantial contribution to the total body burden via dermal exposure possible.  (11)  Inhalable fraction.  (12)  Inhalable fraction. Respirable fraction in those Member States that implement, on the date of the entry into force of this Directive, a biomonitoring system with a biological limit value not exceeding 0,002 mg Cd/g creatinine in urine.  (13)  The substance can cause sensitisation of the skin and of the respiratory tract.  (14)  The substance can cause sensitisation of the skin.  (15)  Respirable fraction, measured as nickel.  (16)  Inhalable fraction, measured as nickel.  (*1)  Measured as elemental carbon. </td></tr>
 </tbody>
+</table>
 
 **B. OTHER DIRECTLY RELATED PROVISIONS**
 

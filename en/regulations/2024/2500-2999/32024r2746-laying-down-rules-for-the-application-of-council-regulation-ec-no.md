@@ -1,0 +1,5684 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2746 of 25 October 2024 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network and repealing Commission Implementing Regulation (EU) 2015/220"
+identifier: "32024R2746"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2746/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-10-25
+entry_into_force: 2025-01-05
+last_amended: 2025-11-11
+consolidated_version: "02024R2746-20251111"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2746-20251111"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2746 of 25 October 2024 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network and repealing Commission Implementing Regulation (EU) 2015/220
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2746**
+
+**of 25 October 2024**
+
+**laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network and repealing Commission Implementing Regulation (EU) 2015/220**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2145 of 21 October 2025 </td><td> L 2145</td><td>1</td><td>22.10.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2746**
+
+**of 25 October 2024**
+
+**laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network and repealing Commission Implementing Regulation (EU) 2015/220**
+
+## SECTION 1 — FIELD OF SURVEY AND SELECTION PLAN
+
+### Article 1 — Threshold of economic size
+
+The thresholds of economic size, as referred to in Article 5(1), first subparagraph, of Regulation (EC) No 1217/2009, are set out in Annex I to this Regulation.
+
+### Article 2 — Number of returning holdings
+
+The number of returning holdings per Member State and per Farm Sustainability Data Network (FSDN) division, referred to in Article 5a(2) and (3) of Regulation (EC) No 1217/2009, is set out in Annex II to this Regulation.
+
+### Article 3 — Selection plan
+
+1\. Models and methods relating to the form and content of the data referred to in Article 5a(4) of Regulation (EC) No 1217/2009 are set out in Annex III to this Regulation.
+
+2\. Member States shall notify the Commission, by electronic means, of the selection plan referred to in Article 5a(1) of Regulation (EC) No 1217/2009 and approved by the National Committee referred to in Article 6(2) of that Regulation, no later than two months before the beginning of the reporting year to which that selection plan relates.
+
+## SECTION 2 — UNION TYPOLOGY FOR HOLDINGS
+
+### Article 4 — Particular types of farming specialisations
+
+The methods for the calculation of particular types of farming specialisations, referred to in Article 5b(3) of Regulation (EC) No 1217/2009, and their correspondence with general and principal types of farming, referred to in that Article, are set out in Annex IV to this Regulation.
+
+### Article 5 — Economic size of the holding
+
+The method for the calculation of the economic size of the holding, referred to in Article 5b(4) of Regulation (EC) No 1217/2009, and the economic size classes, referred to in Article 5b(1) of that Regulation, are set out in Annex V to this Regulation.
+
+### Article 6 — Standard output coefficient and total standard output of a holding
+
+1\. The method of calculation to determine the standard output coefficient of each characteristic, referred to in Article 5b(2) of Regulation (EC) No 1217/2009, and the procedure for collecting the corresponding data are set out in Annexes IV and VI to this Regulation.
+
+The standard output coefficient of the different characteristics of a holding, referred to in Article 5b(2) of Regulation (EC) No 1217/2009, shall be determined for the crop and livestock variables listed in Part 2.1. of Annex IV to this Regulation and for each geographical unit referred to in point 2(b) of Annex VI to this Regulation.
+
+2\. The total standard output of a holding shall be obtained by multiplying the standard output coefficient of each crop and livestock variable by the number of corresponding units.
+
+### Article 7 — Other gainful activities directly related to the holding
+
+The other gainful activities directly related to the holding, referred to in Article 5b(5) of Regulation (EC) No 1217/2009, are defined in Part 1 of Annex VII to this Regulation. Their economic importance to the holding shall be expressed as a percentage band of the holding turnover.
+
+The method to estimate the importance of the gainful activities referred to in the first paragraph is set out in Parts 2 and 3 of Annex VII to this Regulation.
+
+The percentage bands referred to in the first paragraph are set out in Part 3 of Annex VII to this Regulation.
+
+### Article 8 — Notification of standard outputs and data for their determination
+
+1\. Member States shall submit to the Commission (Eurostat) the standard outputs, the data for their determination and corresponding metadata, as referred to in Article 5b(6) of Regulation (EC) No 1217/2009, for a reference period of year N before 31 December of the year N+3.
+
+2\. For the submission of the data and metadata referred to in paragraph 1, Member States shall use the computerised systems made available by the Commission (Eurostat) for that purpose.
+
+## SECTION 3 — FARM RETURN AND DATA DELIVERY TO THE COMMISSION
+
+### Article 9 — The start and the end of the reporting year
+
+The reporting year of 12 consecutive months, referred to in Article 8(3) of Regulation (EC) No 1217/2009, shall end during the period from 31 December to 30 June inclusive.
+
+### Article 10 — The definitions of variables, the form and layout of the farm return and the frequency of data transmission
+
+The definitions of variables linked to one or more of the topics set out in Annex -I to Regulation (EC) No 1217/2009, the form and layout of presentation of the data, and the frequency of data transmission, referred to in Article 8(4) of Regulation (EC) No 1217/2009, are laid down in Annex VIII to this Regulation.
+
+### Article 11 — The methods and deadlines for data transmission to the Commission
+
+1\. The farm returns shall be submitted to the Commission by the liaison agency referred to in Article 7 of Regulation (EC) No 1217/2009 via a computerised data system, in accordance with Article 8a of Regulation (EC) No 1217/2009. The required information shall be exchanged electronically on the basis of models made available to the liaison agency via that computerised data system.
+
+2\. Member States shall be informed of the general conditions for implementing the computerised system referred to in paragraph 1, at the Committee for the Farm Sustainability Data Network.
+
+3\. FSDN tables and variables are set out in Annex IX. Member States shall submit in the farm returns the data referred to in Article 10 from the reporting years 2025 and 2027 in accordance with the timetable set out in Annex IX. For the reporting year 2026, the variables to be submitted shall be the same as for reporting year 2025. With regards to the tables indicated in Annex IX, new FSDN variables laid down in Annex IX shall be submitted for the first time for the reporting year 2025 or 2027. After these reporting years, it shall continue to be submitted each year.
+
+However, data required to be submitted for the reporting year 2027 may also be submitted in an earlier year.
+
+4\. The farm returns shall be transmitted to the Commission by 15 December, after the end of the reporting year in question.
+
+However, Germany may transmit the farm returns to the Commission within 15 weeks after the deadline referred to in the first subparagraph.
+
+5\. Farm returns shall be deemed to be delivered to the Commission once the data referred to in Article 10 have been introduced in the computerised data system referred to in paragraph 1, the subsequent computer-based checks have been executed and the liaison agency has confirmed that the data are ready to be loaded into that computerised data system.
+
+### Article 12 — Extensions of deadlines and exemptions for specific variables
+
+1\. For the reporting year 2025, the exemptions from submitting data relating to specific variables referred to in Annex VIII to this Regulation granted to certain Member States, as referred to in Article 8(4), point (d), of Regulation (EC) No 1217/2009, are set out in Annex IX to this Regulation.
+
+2\. For the reporting years 2026 and 2027, the Commission may extend the deadline for submitting data on specific variables referred to in Article 11(4), first subparagraph, if the Member State makes a justified request. This request shall be sent to the Commission by the Member State concerned no later than 31 May of the year preceding the reporting year in question.
+
+3\. For the reporting years 2026 and 2027, the Commission may exempt Member States from submitting data on specific variables referred to in Annex VIII for a given reporting year if the Member State makes a justified request. This request shall be sent to the Commission by the Member State concerned no later than 31 May of the year preceding the reporting year.
+
+## SECTION 4 — AMOUNT PAYABLE TO MEMBER STATES
+
+### Article 13 — Duly completed farm returns
+
+1\. For the purposes of Article 19(1), point (a), of Regulation (EC) No 1217/2009, a farm return is duly completed when its content is factually accurate, reliable and verifiable, and the data contained therein are recorded and presented in accordance with the form and layout set out in Annex VIII to this Regulation.
+
+2\. By way of derogation from paragraph 1, in order to be considered duly completed, farm returns data during the period for reporting years 2025, 2026 and 2027 shall contain the data of the tables set out in Annex VIII, taking into account the exemptions referred to in Annex IX.
+
+### Article 14 — Eligible number of farm returns for the payment
+
+1\. The total number of duly completed and submitted farm returns per Member State, referred to in Article 5a(2) of Regulation (EC) No 1217/2009, that are eligible for the payment of the amount payable to each Member States shall not exceed the total number of returning holdings laid down for that Member State in Annex II to this Regulation.
+
+2\. Where Member States have more than one FSDN division, the number of duly completed and submitted farm returns per FSDN division that are eligible for payment may be up to 20 % higher than the number laid down for the FSDN division concerned in Annex II, provided that the total number of duly completed and submitted farm returns of the Member State concerned shall not be higher than the total number laid down for that Member State in Annex II.
+
+However, farm returns from an FSDN division with a higher number of submitted farm returns than laid down for that FSDN division in Annex II shall not be considered to be eligible for the payment in an FSDN division for which less than 80 % of the required number of returning holdings is submitted by the Member State.
+
+### Article 15 — Payment of the amount
+
+1\. The amount payable to each Member State, referred to in Article 19(1), point (a), of Regulation (EC) No 1217/2009, shall be paid in two instalments:
+
+(a) a prefinancing payment corresponding to 50 % of the total amount established on the basis of Articles 16 and 17 of this Regulation that shall be made at the beginning of each reporting year;
+
+(b) the balance payment shall be paid after the delivered farm returns have been verified and deemed by the Commission to have been duly completed.
+
+2\. The amount paid to each Member State shall contribute to any of the following actions: due completion of the farm returns, improvements of data delivery timings, processes, systems, procedures and overall quality of the farm returns.
+
+3\. The Commission reserves the right to recover any amounts unduly paid.
+
+### Article 16 — Amount payable to Member States
+
+1\. The amount payable to each Member State, referred to in Article 19(1), point (a), of Regulation (EC) No 1217/2009, shall be fixed at EUR 636 per farm return.
+
+2\. If the 80 % thresholds referred to in Article 19(1), point (a), of Regulation (EC) No 1217/2009 are neither met at the level of an FSDN division, nor at the level of the Member State concerned, the reduction referred to in that provision shall be applied only at the Member State level.
+
+### Article 17 — Amount payable to Member States for reporting years 2025, 2026 and 2027
+
+1\. By way of derogation from Article 16(1) of this Regulation, for the reporting years 2025, 2026 and 2027, the amount payable to each Member State referred to in Article 19(1), point (a), of Regulation (EC) No 1217/2009 is the maximum amounts set out in Annex X to this Regulation. This amount consists of:
+
+(a) an amount established based on the need for the delivery of the data laid down in the tables A to M in Annex VIII to this Regulation (‘FADN data’) with the exception of the variables listed in Annex IX to this Regulation;
+
+(b) an amount established based on the need for improvements of data delivery timings, processes, systems, procedures and overall quality of the farm returns;
+
+(c) an amount established based on the need for the delivery of all FSDN data, with the exception of FADN data, in accordance with the exemptions set out in Annex IX to this Regulation.
+
+2\. If, for a Member State, the total number of duly completed farm returns delivered within the deadline laid down in Article 11 is lower than the maximum number of returning holdings laid down for that Member State in Annex II, the amounts referred to in paragraph 1, points (a) and (c), shall be reduced proportionately.
+
+However, in accordance with Article 19(1), point (a), of Regulation (EC) No 1217/2009, where the total number of duly completed and delivered farm returns in respect of an FSDN division or a Member State is less than 80 % on the returning holdings laid down in Annex II to this Regulation, a reduction shall be applied to the amounts referred to in paragraph 1, points (a) and (c), of this Article.
+
+3\. For FSDN data, with the exception of existing FADN data, as referred to in paragraph 1, point (c), if a Member State delivers, as a part of a farm return, a table where data is missing, such farm return shall, by derogation to Article 13(2), be considered as duly completed. However, the amount provided for in paragraph 1, point (c), shall be reduced by EUR 21 per incomplete table, taking into account the exemptions set out in Annex IX.
+
+4\. For FADN data referred to in paragraph 1, point (a), if a Member State delivers, as a part of a farm return, a table where data is missing, the amount payable for the farm return containing the incomplete table will not be allocated.
+
+5\. If a Member State delivers, for the reporting years 2025 or 2026, as a part of a farm return, a table with data that is only required for the reporting year 2027 in accordance with Annex IX, an additional amount of EUR 21 shall be paid to the Member State for each table delivered in advance.
+
+The maximum annual amounts for advance deliveries of data due according to Annex IX for reporting year 2027 are set out in Annex X under the heading ‘Reserve for advance deliveries’. If the total amount resulting from application of the first subparagraph of this paragraph is greater than the maximum amount of the reserve for advance deliveries laid down in Annex X, the amount per table shall be reduced proportionally to ensure that the total amount does not exceed the maximum annual amount laid down in Annex X.
+
+## SECTION 5 — DELIVERY OF DATA REFERRED TO IN ARTICLE 4a(1), POINT (a) OF REGULATION (EC) No 1217/2009 TO THE COMMISSION
+
+### Article 18 — The data to be extracted from the dataset
+
+The data to be extracted from the dataset referred to in Article 4a(1), point (a), of Regulation (EC) No 1217/2009 are laid down in Annex XI to this Regulation.
+
+### Article 19 — The technical specifications and deadlines for data transmission to the Commission
+
+1\. The data shall be submitted to the Commission by the liaison agency referred to in Article 7 of Regulation (EC) No 1217/2009 via a computerised data system, as laid down in Article 8a of Regulation (EC) No 1217/2009. The form and layout of the data are laid down in Annex XI to this Regulation.
+
+2\. The Commission shall inform the liaison agencies of the general conditions for implementing the computerised data system referred to in paragraph 1, at the Committee for the Farm Sustainability Data Network.
+
+3\. The data in relation to reporting year N shall be transmitted to the Commission by 15 December of the year N+2.
+
+4\. The first year of data transmission shall be 2027 in relation to reporting year 2025. However, liaison agencies may transmit data in relation to previous reporting years. The Commission may exempt liaison agencies from submitting data for a given reporting year upon a justified request submitted to the Commission by 31 October of reporting year N+1.
+
+5\. Data are deemed to have been delivered to the Commission once these conditions are met:
+
+(a) the data referred to in Article 18 have been introduced in the computerised data system referred to in paragraph 1 of this Article;
+
+(b) the subsequent computer-based checks have been executed; and
+
+(c) the liaison agency has confirmed that the data are ready to be loaded into that computerised data system.
+
+6\. The liaison agencies shall provide the data contained in the dataset referred to in Article 4a(1), point (a), of Regulation (EC) No 1217/2009. The liaison agencies are not required to ensure complete consistency of that data set with the FSDN data submitted to the Commission.
+
+## SECTION 6 — DELIVERY OF DATA REFERRED TO IN ARTICLE 4a(1), POINT (b), OF REGULATION (EC) No 1217/2009 TO THE COMMISSION
+
+### Article 20 — The data to be extracted from the dataset
+
+The data to be extracted from the dataset referred to in Article 4a(1), point (b), of Regulation (EC) No 1217/2009 are laid down in Annex XII to this Regulation.
+
+### Article 21 — The technical specifications and deadlines for data transmission to the Commission
+
+1\. The liaison agency referred to in Article 7 of Regulation (EC) No 1217/2009 shall submit the data to the Commission via a computerised data system, as referred to in Article 8a of Regulation (EC) No 1217/2009. The form and layout of the data are laid down in Annex XII to this Regulation.
+
+2\. The Commission shall inform the liaison agency of the general conditions for implementing the computerised data system referred to in paragraph 1, at the Committee for the Farm Sustainability Data Network.
+
+3\. The data in relation to reporting year N shall be transmitted to the Commission by 15 December of the year N+1.
+
+4\. The first year of data transmission shall be 2028 in relation to the reporting year 2027.
+
+However, the liaison agencies may transmit data in relation to previous reporting years.
+
+The Commission may exempt liaison agencies, as of reporting year 2027 onwards, from submitting data for a given reporting year upon a justified request to be sent by 31 October of reporting year N.
+
+5\. Data are deemed to have been delivered to the Commission once these conditions are met:
+
+(a) the data referred to in Article 20 have been introduced in the computerised data system referred to in paragraph 1 of this Article;
+
+(b) the subsequent computer-based checks have been executed; and
+
+(c) the liaison agency has confirmed that the data are ready to be loaded into that computerised data system.
+
+6\. The liaison agencies shall provide the data contained in the dataset referred to in Article 4a(1), point (b), of Regulation (EC) No 1217/2009. The liaison agencies are not required to ensure complete consistency of that data set with the FSDN data submitted to the Commission.
+
+## SECTION 7 — DETAILED RULES ON STORAGE, PROCESSING, REUSE AND SHARING OF DATA REFERRED TO IN ARTICLE 8a(2) OF REGULATION (EC) No 1217/2009
+
+### Article 22 — Computerised data system
+
+The computerised data system, referred to in Article 8a(1) of Regulation (EC) No 1217/2009, established by the Commission, shall ensure the secure exchange of information between the Member States and the Commission.
+
+The computerised data system referred to in the first subparagraph shall ensure an information technology security policy applicable to the personnel using the system in accordance with relevant Union rules, in particular Decision (EU, Euratom) 2017/46.
+
+Individual data obtained during the implementation of Regulation (EC) No 1217/2009 shall be used in accordance with Articles 16, 16a and 16b of that Regulation.
+
+## SECTION 8 — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 23 — Revision clause
+
+1\. Definitions of variables as set out in Annex VIII to this Regulation, financial rules set out in Section 4 of this Regulation, and delivery of data provisions set out in Section 5 of this Regulation shall be revised by the Commission at the latest by 30 September 2027, following the procedure laid down in Article 19b of Regulation (EC) No 1217/2009.
+
+2\. The revision referred to in paragraph 1 shall be preceded by the Commission’s analysis of the feasibility of the proposed amendments to this Regulation based, among others, on the input from Member States.
+
+### Article 24 — Repeal
+
+Commission Implementing Regulation (EU) 2015/220 is repealed with effect from 1 January 2025.
+
+However, that Regulation shall continue to apply in respect of the accounting years prior to 2025.
+
+### Article 25 — Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from the reporting year 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Threshold of economic size for the field of survey referred to in Article 1
+
+<table>
+<tbody><tr><td>Member State/FSDN division</td><td>Threshold (in EUR)</td></tr>
+<tr><td>Belgium</td><td>25 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Bulgaria</td><td>8 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Czechia</td><td>15 000 </td></tr>
+<tr><td>Denmark</td><td>25 000 </td></tr>
+<tr><td>Germany</td><td>25 000 </td></tr>
+<tr><td>Estonia</td><td>8 000 </td></tr>
+<tr><td>Ireland</td><td>8 000 </td></tr>
+<tr><td>Greece</td><td>8 000 </td></tr>
+<tr><td>Spain</td><td>8 000 </td></tr>
+<tr><td>France (with the exception of La Réunion and Antilles françaises)</td><td>25 000 </td></tr>
+<tr><td>France (only La Réunion and Antilles françaises)</td><td>15 000 </td></tr>
+<tr><td>Croatia</td><td>4 000 </td></tr>
+<tr><td>Italy</td><td>8 000 </td></tr>
+<tr><td>Cyprus</td><td>4 000 </td></tr>
+<tr><td>Latvia</td><td>4 000 </td></tr>
+<tr><td>Lithuania</td><td>4 000 </td></tr>
+<tr><td>Luxembourg</td><td>25 000 </td></tr>
+<tr><td>Hungary</td><td>8 000 </td></tr>
+<tr><td>Malta</td><td>4 000 </td></tr>
+<tr><td>Netherlands</td><td>25 000 </td></tr>
+<tr><td>Austria</td><td>15 000 </td></tr>
+<tr><td>Poland</td><td>8 000 </td></tr>
+<tr><td>Portugal</td><td>4 000 </td></tr>
+<tr><td>Romania</td><td>4 000 </td></tr>
+<tr><td>Slovenia</td><td>4 000 </td></tr>
+<tr><td>Slovakia</td><td>25 000 </td></tr>
+<tr><td>Finland</td><td>15 000 </td></tr>
+<tr><td>Sweden</td><td>15 000 </td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Number of returning holdings referred to in Article 2
+
+<table>
+<tbody><tr><td>Reference number</td><td>Name of FSDN division</td><td>Number of returning holdings per reporting year</td></tr>
+<tr><td colspan="3">BELGIUM</td></tr>
+<tr><td>341</td><td>Vlaanderen</td><td>650 </td></tr>
+<tr><td>342</td><td>Bruxelles-Brussel</td><td>—</td></tr>
+<tr><td>343</td><td>Wallonie</td><td>450 </td></tr>
+<tr><td colspan="2">Total Belgium</td><td>1 100 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">BULGARIA</td></tr>
+<tr><td>831</td><td>Северозападен (Severozapaden)</td><td>338</td></tr>
+<tr><td>832</td><td>Северен централен (Severen tsentralen)</td><td>305</td></tr>
+<tr><td>833</td><td>Североизточен (Severoiztochen)</td><td>351</td></tr>
+<tr><td>834</td><td>Югозападен (Yugozapaden)</td><td>231</td></tr>
+<tr><td>835</td><td>Южен централен (Yuzhen tsentralen)</td><td>409</td></tr>
+<tr><td>836</td><td>Югоизточен (Yugoiztochen)</td><td>368</td></tr>
+<tr><td colspan="2">Total Bulgaria</td><td>2002</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>745</td><td>CZECHIA</td><td>1 282 </td></tr>
+<tr><td>370</td><td>DENMARK</td><td>1 450 </td></tr>
+<tr><td colspan="3">GERMANY</td></tr>
+<tr><td>015</td><td>Schleswig-Holstein/Hamburg</td><td>294 </td></tr>
+<tr><td>030</td><td>Niedersachsen</td><td>660 </td></tr>
+<tr><td>040</td><td>Bremen</td><td>—</td></tr>
+<tr><td>050</td><td>Nordrhein-Westfalen</td><td>689 </td></tr>
+<tr><td>060</td><td>Hessen</td><td>317 </td></tr>
+<tr><td>070</td><td>Rheinland-Pfalz</td><td>543 </td></tr>
+<tr><td>080</td><td>Baden-Württemberg</td><td>438 </td></tr>
+<tr><td>090</td><td>Bayern</td><td>1 164 </td></tr>
+<tr><td>100</td><td>Saarland</td><td>64 </td></tr>
+<tr><td>110</td><td>Berlin</td><td>—</td></tr>
+<tr><td>112</td><td>Brandenburg</td><td>184 </td></tr>
+<tr><td>113</td><td>Mecklenburg-Vorpommern</td><td>106 </td></tr>
+<tr><td>114</td><td>Sachsen</td><td>212 </td></tr>
+<tr><td>115</td><td>Sachsen-Anhalt</td><td>225 </td></tr>
+<tr><td>116</td><td>Thüringen</td><td>215 </td></tr>
+<tr><td colspan="2">Total Germany</td><td>5 111 </td></tr>
+<tr><td>755</td><td>ESTONIA</td><td>580 </td></tr>
+<tr><td>380</td><td>IRELAND</td><td>900 </td></tr>
+<tr><td colspan="3">GREECE</td></tr>
+<tr><td>450</td><td>Μακεδονία — Θράκη (Macedonia-Thrace)</td><td>1 050 </td></tr>
+<tr><td>460</td><td>Ήπειρος — Πελοπόννησος — Νήσοι Ιονίου (Epirus, Peloponnese, Ionian Islands)</td><td>920 </td></tr>
+<tr><td>470</td><td>Θεσσαλία (Thessaly)</td><td>370 </td></tr>
+<tr><td>480</td><td>Στερεά Ελλάς — Νήσοι Αιγαίου — Κρήτη (Sterea Ellas, Aegean Islands, Crete)</td><td>626 </td></tr>
+<tr><td>  </td><td>Total Greece</td><td>2 966 </td></tr>
+<tr><td colspan="3">SPAIN</td></tr>
+<tr><td>500</td><td>Galicia</td><td>450 </td></tr>
+<tr><td>505</td><td>Asturias</td><td>190 </td></tr>
+<tr><td>510</td><td>Cantabria</td><td>150 </td></tr>
+<tr><td>515</td><td>País Vasco</td><td>352 </td></tr>
+<tr><td>520</td><td>Navarra</td><td>316 </td></tr>
+<tr><td>525</td><td>La Rioja</td><td>244 </td></tr>
+<tr><td>530</td><td>Aragón</td><td>676 </td></tr>
+<tr><td>535</td><td>Cataluña</td><td>664 </td></tr>
+<tr><td>540</td><td>Islas Baleares</td><td>180 </td></tr>
+<tr><td>545</td><td>Castilla y León</td><td>950 </td></tr>
+<tr><td>550</td><td>Madrid</td><td>190 </td></tr>
+<tr><td>555</td><td>Castilla-La Mancha</td><td>900 </td></tr>
+<tr><td>560</td><td>Comunidad Valenciana</td><td>638 </td></tr>
+<tr><td>565</td><td>Murcia</td><td>348 </td></tr>
+<tr><td>570</td><td>Extremadura</td><td>718 </td></tr>
+<tr><td>575</td><td>Andalucía</td><td>1 504 </td></tr>
+<tr><td>580</td><td>Canarias</td><td>230 </td></tr>
+<tr><td colspan="2">Total Spain</td><td>8 700 </td></tr>
+<tr><td colspan="3">FRANCE</td></tr>
+<tr><td>121</td><td>Île-de-France</td><td>190 </td></tr>
+<tr><td>131</td><td>Champagne-Ardenne</td><td>370 </td></tr>
+<tr><td>132</td><td>Picardie</td><td>270 </td></tr>
+<tr><td>133</td><td>Haute-Normandie</td><td>170 </td></tr>
+<tr><td>134</td><td>Centre</td><td>410 </td></tr>
+<tr><td>135</td><td>Basse-Normandie</td><td>240 </td></tr>
+<tr><td>136</td><td>Bourgogne</td><td>340 </td></tr>
+<tr><td>141</td><td>Nord-Pas de Calais</td><td>280 </td></tr>
+<tr><td>151</td><td>Lorraine</td><td>230 </td></tr>
+<tr><td>152</td><td>Alsace</td><td>200 </td></tr>
+<tr><td>153</td><td>Franche-Comté</td><td>210 </td></tr>
+<tr><td>162</td><td>Pays de la Loire</td><td>460 </td></tr>
+<tr><td>163</td><td>Bretagne</td><td>480 </td></tr>
+<tr><td>164</td><td>Poitou-Charentes</td><td>360 </td></tr>
+<tr><td>182</td><td>Aquitaine</td><td>550 </td></tr>
+<tr><td>183</td><td>Midi-Pyrénées</td><td>480 </td></tr>
+<tr><td>184</td><td>Limousin</td><td>220 </td></tr>
+<tr><td>192</td><td>Rhône-Alpes</td><td>480 </td></tr>
+<tr><td>193</td><td>Auvergne</td><td>360 </td></tr>
+<tr><td>201</td><td>Languedoc-Roussillon</td><td>430 </td></tr>
+<tr><td>203</td><td>Provence-Alpes-Côte d’Azur</td><td>420 </td></tr>
+<tr><td>204</td><td>Corse</td><td>170 </td></tr>
+<tr><td>207</td><td>La Réunion</td><td>160 </td></tr>
+<tr><td>208</td><td>Antilles françaises</td><td>120 </td></tr>
+<tr><td colspan="2">Total France</td><td>7 600 </td></tr>
+<tr><td colspan="3">CROATIA</td></tr>
+<tr><td>861</td><td>Jadranska Hrvatska</td><td>329 </td></tr>
+<tr><td>862</td><td>Kontinentalna Hrvatska</td><td>922 </td></tr>
+<tr><td colspan="2">Total Croatia</td><td>1 251 </td></tr>
+<tr><td colspan="3">ITALY</td></tr>
+<tr><td>221</td><td>Valle d'Aosta</td><td>233 </td></tr>
+<tr><td>222</td><td>Piemonte</td><td>481 </td></tr>
+<tr><td>230</td><td>Lombardia</td><td>588 </td></tr>
+<tr><td>241</td><td>Trentino</td><td>434 </td></tr>
+<tr><td>242</td><td>Alto Adige</td><td>418 </td></tr>
+<tr><td>243</td><td>Veneto</td><td>559 </td></tr>
+<tr><td>244</td><td>Friuli-Venezia Giulia</td><td>374 </td></tr>
+<tr><td>250</td><td>Liguria</td><td>392 </td></tr>
+<tr><td>260</td><td>Emilia-Romagna</td><td>503 </td></tr>
+<tr><td>270</td><td>Toscana</td><td>436 </td></tr>
+<tr><td>281</td><td>Marche</td><td>388 </td></tr>
+<tr><td>282</td><td>Umbria</td><td>426 </td></tr>
+<tr><td>291</td><td>Lazio</td><td>600 </td></tr>
+<tr><td>292</td><td>Abruzzo</td><td>490 </td></tr>
+<tr><td>301</td><td>Molise</td><td>355 </td></tr>
+<tr><td>302</td><td>Campania</td><td>533 </td></tr>
+<tr><td>303</td><td>Calabria</td><td>460 </td></tr>
+<tr><td>311</td><td>Puglia</td><td>456 </td></tr>
+<tr><td>312</td><td>Basilicata</td><td>372 </td></tr>
+<tr><td>320</td><td>Sicilia</td><td>445 </td></tr>
+<tr><td>330</td><td>Sardegna</td><td>475 </td></tr>
+<tr><td colspan="2">Total Italy</td><td>9 418 </td></tr>
+<tr><td>740</td><td>CYPRUS</td><td>500 </td></tr>
+<tr><td>770</td><td>LATVIA</td><td>1 000 </td></tr>
+<tr><td>775</td><td>LITHUANIA</td><td>1 000 </td></tr>
+<tr><td>350</td><td>LUXEMBOURG</td><td>450 </td></tr>
+<tr><td colspan="3">HUNGARY</td></tr>
+<tr><td>764</td><td>Észak-Magyarország</td><td>170 </td></tr>
+<tr><td>767</td><td>Alföld</td><td>1 180 </td></tr>
+<tr><td>768</td><td>Dunántúl</td><td>550 </td></tr>
+<tr><td>  </td><td>Total Hungary</td><td>1 900 </td></tr>
+<tr><td>780</td><td>MALTA</td><td>536 </td></tr>
+<tr><td>360</td><td>NETHERLANDS</td><td>1 500 </td></tr>
+<tr><td>660</td><td>AUSTRIA</td><td>1 800 </td></tr>
+<tr><td colspan="3">POLAND</td></tr>
+<tr><td>785</td><td>Pomorze i Mazury</td><td>1 340 </td></tr>
+<tr><td>790</td><td>Wielkopolska i Śląsk</td><td>2 960 </td></tr>
+<tr><td>795</td><td>Mazowsze i Podlasie</td><td>3 600 </td></tr>
+<tr><td>800</td><td>Małopolska i Pogórze</td><td>1 100 </td></tr>
+<tr><td colspan="2">Total Poland</td><td>9 000 </td></tr>
+<tr><td colspan="3">PORTUGAL</td></tr>
+<tr><td>615</td><td>Norte e Centro</td><td>1 233 </td></tr>
+<tr><td>630</td><td>Ribatejo-Oeste</td><td>351 </td></tr>
+<tr><td>640</td><td>Alentejo e Algarve</td><td>399 </td></tr>
+<tr><td>650</td><td>Açores e Madeira</td><td>317 </td></tr>
+<tr><td colspan="2">Total Portugal</td><td>2 300 </td></tr>
+<tr><td colspan="3">ROMANIA</td></tr>
+<tr><td>840</td><td>Nord-Est</td><td>724 </td></tr>
+<tr><td>841</td><td>Sud-Est</td><td>913 </td></tr>
+<tr><td>842</td><td>Sud-Muntenia</td><td>857 </td></tr>
+<tr><td>843</td><td>Sud-Vest-Oltenia</td><td>519 </td></tr>
+<tr><td>844</td><td>Vest</td><td>598 </td></tr>
+<tr><td>845</td><td>Nord-Vest</td><td>701 </td></tr>
+<tr><td>846</td><td>Centru</td><td>709 </td></tr>
+<tr><td>847</td><td>București-Ilfov</td><td>79 </td></tr>
+<tr><td>  </td><td>Total Romania</td><td>5 100 </td></tr>
+<tr><td>820</td><td>SLOVENIA</td><td>908 </td></tr>
+<tr><td>810</td><td>SLOVAKIA</td><td>562 </td></tr>
+<tr><td colspan="3">FINLAND</td></tr>
+<tr><td>670</td><td>Etelä-Suomi</td><td>324 </td></tr>
+<tr><td>675</td><td>Pohjanmaa, Sisä- and Pohjois-Suomi</td><td>326 </td></tr>
+<tr><td colspan="2">Total Finland</td><td>650 </td></tr>
+<tr><td colspan="3">SWEDEN</td></tr>
+<tr><td>710</td><td>Slättbyggdslän</td><td>637 </td></tr>
+<tr><td>720</td><td>Skogs- och mellanbygdslän</td><td>258 </td></tr>
+<tr><td>730</td><td>Län i norra Sverige</td><td>130 </td></tr>
+<tr><td colspan="2">Total Sweden</td><td>1 025 </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Models and methods for the preparation of the selection plan referred to in Article 3(1)
+
+Regulation (EC) No 1217/2009 requires each Member State to draw up a plan for the selection of returning holdings that ensures a representative sample of the field of survey. To ensure representativeness of FSDN data for its field of survey on a division level, no cluster of FSDN divisions shall be applied in the selection plan.
+
+Similarly, all relevant types and sizes of farming represented in the integrated farm statistics (IFS) census or survey are to be covered at the level of detail which provides representative results on important farm groups, within the limits of the sample size. Given the currently available organisational and technical solutions at the Commission level to provide weighted results for the field of survey of FSDN, a FSDN sample delivered by Member States to the Commission is not to under- or overrepresent major characteristics of farms in the field of survey significantly. This includes also farming methods such as organic farming and characteristics of farms such as part of the activity dedicated to beekeeping. In cases of a non-random selection of sample farms (returning holdings) for FSDN, the selection procedure is to aim at avoiding bias and provide suitable samples for the purpose of FSDN, in particular, for a proper assessment of income of the surveyed farms. Separate clusters are to refer clearly to general and principal types of farming and/or particular types of farming specialisations to identify them univocally based on the classification, with particular regard to types of farming of particular importance in the Member State.
+
+The data referred to in Article 5a(4) of Regulation (EC) No 1217/2009 shall be notified to the Commission on the basis of the following structure:
+
+**1\. FACT-SHEET**
+
+1\. General information
+
+1.1. Reporting year
+
+1.2. Member State
+
+1.3. Name of the liaison agency
+
+1.4. Is the liaison agency part of the public administration (yes/no)?
+
+2\. Basis of the selection plan
+
+2.1. Source of the total population of holdings
+
+2.2. Year of the population of holdings used
+
+2.3. Year of the standard output coefficients
+
+3\. Procedures for stratifying the field of survey
+
+3.1. Clustering by type of farm
+
+3.2. Clustering by size class of farm
+
+3.3. Additional national criterion used for the stratification of the field of survey
+
+3.3.1. Explain in detail the national criterion used if applicable:
+
+3.3.2. Is the additional national criterion used in the national selection of the sample?
+
+3.3.3. Is the additional national criterion used in the national weighting of the sample?
+
+3.3.4. If the national criterion is used for the Union selection, please explain your choice and detail the implications for the representativeness of the Union FSDN field of survey.
+
+4\. The methods for determining the selection rate and sample size chosen for each stratum
+
+— Proportional allocation
+
+— Optimal allocation
+
+— Proportional and optimal allocations combined
+
+— Other method
+
+5\. The procedures for the selection of returning holdings
+
+— Random selection
+
+— Non-random selection
+
+— Random and non-random selections combined
+
+— Other method
+
+6\. Is an update of this selection plan expected? For which reason?
+
+7\. Additional information not covered in previous points
+
+8\. The selection plan was approved at the national committee, date
+
+**2\. SELECTION PLAN TABLES**
+
+Details on the reference population and on the sample designed for the related reporting year shall be provided on the basis of the models of the following tables which are an integral part of the selection plan documentation. Table 4 shall be submitted as a separate file in the format defined by the Commission .
+
+**Table 1**
+
+**Clustering rules applied for Union FSDN sample farm selection**
+
+<table>
+<tbody><tr><td colspan="2">Table structure</td></tr>
+<tr><td>Column number</td><td>Column description</td></tr>
+<tr><td>1</td><td>FSDN division code (use reference numbers as in Annex II)</td></tr>
+<tr><td>2</td><td>Clusters of types of farming (use numbers representing types of farming as in Annex IV)</td></tr>
+<tr><td>3</td><td>Clusters of economic size classes (use numbers representing economic size classes as in Annex V)</td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Coverage of the sample**
+
+<table>
+<tbody><tr><td colspan="2">Table structure</td></tr>
+<tr><td>Column number</td><td>Column description</td></tr>
+<tr><td>1</td><td>Economic size classes (as set out in Annex V)</td></tr>
+<tr><td>2</td><td>Lower limits of the economic size classes (in EUR)</td></tr>
+<tr><td>3</td><td>Upper limits of the economic size classes (in EUR)</td></tr>
+<tr><td>4</td><td>Number of holdings of the population represented</td></tr>
+<tr><td>5</td><td>Inverse cumulative percentage of number of holdings of the population represented</td></tr>
+<tr><td>6</td><td>Utilised agricultural area (ha) of the population represented</td></tr>
+<tr><td>7</td><td>Inverse cumulative percentage of utilised agricultural area represented</td></tr>
+<tr><td>8</td><td>Total standard output of the population represented</td></tr>
+<tr><td>9</td><td>Inverse cumulative percentage of total standard output represented</td></tr>
+<tr><td>10</td><td>Number of livestock units of the population represented</td></tr>
+<tr><td>11</td><td>Inverse cumulative percentage of number of livestock units represented</td></tr>
+<tr><td>12</td><td>Number of Annual Work Units (AWU) of the population represented</td></tr>
+<tr><td>13</td><td>Inverse cumulative percentage of AWU represented</td></tr>
+</tbody>
+</table>
+
+**Table 3**
+
+**Distribution of farms in the population**
+
+<table>
+<tbody><tr><td colspan="2">Table structure</td></tr>
+<tr><td>Column number</td><td>Column description</td></tr>
+<tr><td>1</td><td>Code — principal type of farming (as set out in Annex IV)</td></tr>
+<tr><td>2</td><td>Description — principal type of farming</td></tr>
+<tr><td>3</td><td>Economic size class — 1 (classes as set out in Annex V)</td></tr>
+<tr><td>4</td><td>Economic size class — 2</td></tr>
+<tr><td>5</td><td>Economic size class — 3</td></tr>
+<tr><td>6</td><td>Economic size class — 4</td></tr>
+<tr><td>7</td><td>Economic size class — 5</td></tr>
+<tr><td>8</td><td>Economic size class — 6</td></tr>
+<tr><td>9</td><td>Economic size class — 7</td></tr>
+<tr><td>10</td><td>Economic size class — 8</td></tr>
+<tr><td>11</td><td>Economic size class — 9</td></tr>
+<tr><td>12</td><td>Economic size class — 10</td></tr>
+<tr><td>13</td><td>Economic size class — 11</td></tr>
+<tr><td>14</td><td>Economic size class — 12</td></tr>
+<tr><td>15</td><td>Economic size class — 13</td></tr>
+<tr><td>16</td><td>Economic size class — 14</td></tr>
+<tr><td>17</td><td>Total number of holdings in the population in the given principal type of farming</td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Machine-readable selection plan**
+
+<table>
+<tbody><tr><td colspan="2">Table structure</td></tr>
+<tr><td>Column number</td><td>Column description</td></tr>
+<tr><td>1</td><td>Reporting year</td></tr>
+<tr><td>2</td><td>Member State code as defined by the data delivery system</td></tr>
+<tr><td>3</td><td>FSDN division code (reference numbers as set in Annex II)</td></tr>
+<tr><td>4</td><td>Clusters of types of farming (farm type numbers as set in Annex IV)</td></tr>
+<tr><td>5</td><td>Clusters of economic size classes (class numbers as set in Annex V)</td></tr>
+<tr><td>6</td><td>Number of holdings to be selected</td></tr>
+<tr><td>7</td><td>Number of holdings in the population</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — Particular types of farming specialisations and their correspondence with general and principal types of farming referred to in Article 4
+
+The following definitions apply:
+
+(a) Standard output (SO) is the standard value of gross production. The SO is used for classifying farms according to the Union farm typology (in which the type of farming is defined by main production activities) and for determining economic farm size.
+
+(b) Standard output coefficient (SOC) is the average monetary value of gross production of each agricultural variable referred to in Article 6(1), corresponding to the average situation in a given region, per unit of production. SOCs are calculated at farm-gate price, in euro per hectare of crop or euro per head of livestock (exceptions apply for mushrooms in euro per 100 m2, poultry in euro per 100 heads and bees in euro per hive). VAT, taxes and subsidies are not included in the farm-gate price. SOCs are updated at least every time a European survey on the structure of agricultural holdings is conducted.
+
+(c) Total SO of a holding is the sum of the individual production units of a specific holding multiplied by their respective SOC.
+
+**1\. PARTICULAR TYPES OF FARMING SPECIALISATION**
+
+The particular types of farming specialisation are defined by two features:
+
+(a) The nature of the variables concerned;
+
+The variables refer to the relevant list of variables surveyed in the IFS data collections: they are indicated by using the codes presented in the table of correspondence in Part 2.1. of this Annex or by a code regrouping several of those variables as set out in Part 2.2. of this Annex ( 1 ).
+
+(b) The conditions determining the class limits;
+
+Unless otherwise indicated, these conditions are expressed as fractions of the total SO of the holding.
+
+All conditions indicated for particular types of farming specialisation have to be met cumulatively in order for the holding to be classified under the related particular type of farming specialisation.
+
+**Specialist holdings – crop products**
+
+<table>
+<tbody><tr><td colspan="10"></td></tr>
+<tr><td colspan="6">Types of farming (for better readability the six columns under this heading are reproduced in Part 3 of this Annex) </td><td colspan="4">Methods for the calculation of particular types of farming specialisations IF (C1) AND (C2) AND (C3) THEN (S1) </td></tr>
+<tr><td rowspan="3">General</td><td rowspan="3">Description</td><td rowspan="3">Principal</td><td rowspan="3">Description</td><td rowspan="3">Particular specialisations</td><td rowspan="3">Description (S1) </td><td rowspan="3">Description of the calculation (D1) </td><td colspan="3">Code of variables and conditions (ref. Part 2 of this Annex) </td></tr>
+<tr><td>Condition 1 (C1) </td><td>Condition 2 (C2) </td><td>Condition 3 (C3) </td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td rowspan="20">1</td><td>Specialist field crops</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>15</td><td>Specialist cereals oilseeds and protein crops</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>151</td><td>Specialist cereals (other than rice), oilseeds and protein crops</td><td>Cereals, excluding rice, oilseeds, dried pulses and protein crops &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 &gt; 2/3</td><td>P151 + P16 + SO_CLND014 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>152</td><td>Specialist rice</td><td>Rice &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 &gt; 2/3</td><td>SO_CLND013 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>153</td><td>Cereals, oilseeds, protein crops and rice combined</td><td>Holdings meeting conditions C1 and C2, excluding holdings in classes 151 and 152</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>16</td><td>General field cropping</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>161</td><td>Specialist root crops</td><td>Potatoes, sugar beet and other root crops not elsewhere classified (n.e.c.) &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>P17 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>162</td><td>Cereals, oilseeds, protein crops and root crops combined</td><td>Cereals, oilseeds, dried pulses protein crops &gt; 1/3 AND roots &gt; 1/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>P15 + P16 + SO_CLND014 &gt; 1/3 AND P17 &gt; 1/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>163</td><td>Specialist field vegetables</td><td>Fresh vegetables (including melons) and strawberries - Open field &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>SO_CLND045 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>164</td><td>Specialist tobacco</td><td>Tobacco &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>SO_CLND032 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>165</td><td>Specialist cotton</td><td>Cotton &gt; 2/3</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>SO_CLND030 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>166</td><td>Various field crops combined</td><td>Holdings meeting conditions C1 and C2, excluding holdings in classes 161, 162, 163, 164 and 165</td><td>P1 &gt; 2/3</td><td>P15 + P16 + SO_CLND014 ≤ 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="23">2</td><td>Specialist horticulture</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>21</td><td>Specialist horti-culture indoor</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>211</td><td>Specialist vegetables indoor</td><td>Fresh vegetables (including melons) and strawberries under glass or high accessible cover &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND081 + SO_CLND082 &gt; 2/3</td><td>SO_CLND081 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>212</td><td>Specialist flowers and ornamentals indoor</td><td>Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND081 + SO_CLND082 &gt; 2/3</td><td>SO_CLND082 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>213</td><td>Mixed horticulture indoor specialist</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 211 and 212</td><td>P2 &gt; 2/3</td><td>SO_CLND081 + SO_CLND082 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>22</td><td>Specialist horti-culture outdoor</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>221</td><td>Specialist vegetables outdoor</td><td>Fresh vegetables (including melons) and strawberries - Market gardening &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 &gt; 2/3</td><td>SO_CLND044 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>222</td><td>Specialist flowers and ornamentals outdoor</td><td>Flowers and ornamental plants (excluding nurseries) &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 &gt; 2/3</td><td>SO_CLND046 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>223</td><td>Mixed horticulture outdoor specialist</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 221 and 222</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>23</td><td>Other horticulture</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>231</td><td>Specialist mushrooms</td><td>Mushrooms &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 ≤ 2/3 AND SO_CLND081 + SO_CLND082 ≤ 2/3</td><td>SO_CLND079 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>232</td><td>Specialist nurseries</td><td>Nurseries &gt; 2/3</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 ≤ 2/3 AND SO_CLND081 + SO_CLND082 ≤ 2/3</td><td>SO_CLND070 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>233</td><td>Various horticulture</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 231 and 232</td><td>P2 &gt; 2/3</td><td>SO_CLND044 + SO_CLND046 ≤ 2/3 AND SO_CLND081 + SO_CLND082 ≤ 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="27">3</td><td>Specialist permanent crops</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>35</td><td>Specialist vineyards</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>351</td><td>Specialist quality wine</td><td>Grapes for wines with protected designation of origin (PDO) and grapes for wines with protected geographical indication (PGI) &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND062&gt; 2/3</td><td>SO_CLND064 + SO_CLND065 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>352</td><td>Specialist wine other than quality wine</td><td>Grapes for other wines n.e.c. (without PDO/PGI) &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND062&gt; 2/3</td><td>SO_CLND066 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>353</td><td>Specialist table grapes</td><td>Grapes for table use &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND062&gt; 2/3</td><td>SO_CLND067 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>354</td><td>Other vineyards</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 351, 352 and 353</td><td>P3 &gt; 2/3</td><td>SO_CLND062&gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>36</td><td>Specialist fruit and citrus fruit</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>361</td><td>Specialist fruit (other than citrus, tropical and subtropical fruits and nuts)</td><td>Fruit of temperate climate zones and berries (excluding strawberries) &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND055+ SO_CLND061&gt; 2/3</td><td>SO_CLND056_57 + SO_CLND059 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>362</td><td>Specialist citrus fruit</td><td>Citrus fruits &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND055+ SO_CLND061&gt; 2/3</td><td>SO_CLND061&gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>363</td><td>Specialist nuts</td><td>Nuts &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND055 + SO_CLND061&gt; 2/3</td><td>SO_CLND060 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>364</td><td>Specialist tropical and subtropical fruits</td><td>Fruit from subtropical and tropical climate zones &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND055 + SO_CLND061&gt; 2/3</td><td>SO_CLND058 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>365</td><td>Specialist fruits, citrus, tropical and subtropical fruits and nuts: mixed production</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 361, 362, 363 and 364</td><td>P3 &gt; 2/3</td><td>SO_CLND055 + SO_CLND061&gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>37</td><td>Specialist olives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>370</td><td>Specialist olives</td><td>Olives &gt; 2/3</td><td>P3 &gt; 2/3</td><td>SO_CLND069 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>38</td><td>Various permanent crops combined</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>380</td><td>Various permanent crops combined</td><td>Holdings meeting condition C1, excluding those in classes 351 to 370</td><td>P3 &gt; 2/3</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Specialist holdings — Animal production**
+
+<table>
+<tbody><tr><td colspan="10"></td></tr>
+<tr><td colspan="6">Types of farming (for better readability the six columns under this heading are reproduced in Part 3 of this Annex) </td><td colspan="4">Methods for the calculation of particular types of farming specialisations IF (C1) AND (C2) AND (C3) THEN (S1) </td></tr>
+<tr><td rowspan="3">General</td><td rowspan="3">Description</td><td rowspan="3">Principal</td><td rowspan="3">Description</td><td rowspan="3">Particular specialisations</td><td rowspan="3">Description (S1) </td><td rowspan="3">Description of the calculation (D1) </td><td colspan="3">Code of variables and conditions (ref. Part 2 of this Annex) </td></tr>
+<tr><td>Condition 1 (C1) </td><td>Condition 2 (C2) </td><td>Condition 3 (C3) </td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td rowspan="19">4</td><td>Specialist grazing livestock</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>45</td><td>Specialist dairy</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>450</td><td>Specialist dairy</td><td>Dairy cows &gt; 3/4 of total grazing livestock AND grazing livestock &gt; 1/10 of grazing livestock and forage</td><td>P4 &gt; 2/3</td><td>SO_CLVS009 + SO_CLVS011 &gt; 3/4 GL AND GL &gt; 1/10 P4</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>46</td><td>Specialist cattle — rearing and fattening</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>460</td><td>Specialist cattle — rearing and fattening</td><td>All bovine (i.e. bovine animals less than 1 year old, bovine animals 1 to less than two years old and bovine animals 2 years old and over (male, heifers, dairy cows, non-dairy cows and buffalo cows)) &gt; 2/3 of grazing livestock AND dairy cows ≤ 1/10 of grazing livestock AND  grazing livestock &gt; 1/10 of grazing livestock and forage </td><td>P4 &gt; 2/3</td><td>P46 &gt; 2/3 GL AND SO_CLVS009 + SO_CLVS011 ≤ 1/10 GL AND GL &gt; 1/10 P4</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>47</td><td>Cattle — dairy, rearing and fattening combined</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>470</td><td>Cattle — dairy, rearing and fattening combined</td><td>All bovine &gt; 2/3 of grazing livestock AND dairy cows &gt; 1/10 of grazing livestock AND grazing livestock &gt; 1/10 of grazing livestock and forage; excluding those holdings in class 450</td><td>P4 &gt; 2/3</td><td>P46 &gt; 2/3 GL AND SO_CLVS009 + SO_CLVS011 &gt; 1/10 GL AND GL &gt; 1/10 P4; excluding 450</td><td>  </td></tr>
+<tr><td>  </td><td>48</td><td>Sheep, goats and other grazing livestock</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>481</td><td>Specialist sheep</td><td>Sheep &gt; 2/3 of grazing livestock AND grazing livestock &gt; 1/10 of grazing livestock and forage</td><td>P4 &gt; 2/3</td><td>Holdings meeting condition C1, excluding those in classes 450, 460 and 470</td><td>SO_CLVS012 &gt; 2/3 GL AND GL &gt; 1/10 P4</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>482</td><td>Sheep and cattle combined</td><td>All bovine &gt; 1/3 of grazing livestock AND sheep &gt; 1/3 of grazing livestock AND grazing livestock &gt; 1/10 of grazing livestock and forage</td><td>P4 &gt; 2/3</td><td>Holdings meeting condition C1, excluding those in classes 450, 460 and 470</td><td>P46 &gt; 1/3 GL AND SO_CLVS012 &gt; 1/3 GL AND GL &gt; 1/10 P4</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>483</td><td>Specialist goats</td><td>Goats &gt; 2/3 of grazing livestock AND grazing livestock &gt; 1/10 of grazing livestock and forage</td><td>P4 &gt; 2/3</td><td>Holdings meeting condition C1, excluding those in classes 450, 460 and 470</td><td>SO_CLVS015 &gt; 2/3 GL AND GL &gt; 1/10 P4</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>484</td><td>Various grazing livestock</td><td>Holdings meeting conditions C1 and C2, excluding those in 481, 482 and 483</td><td>P4 &gt; 2/3</td><td>Holdings meeting condition C1, excluding those in classes 450, 460 and 470</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="16">5</td><td>Specialist granivores</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>51</td><td>Specialist pigs</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>511</td><td>Specialist pig rearing</td><td>Breeding sows &gt; 2/3</td><td>P5 &gt; 2/3</td><td>P51 &gt; 2/3</td><td>SO_CLVS019 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>512</td><td>Specialist pig fattening</td><td>Piglets and other pigs &gt; 2/3</td><td>P5 &gt; 2/3</td><td>P51 &gt; 2/3</td><td>SO_CLVS018 + SO_CLVS020 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>513</td><td>Pig rearing and fattening combined</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 511 and 512</td><td>P5 &gt; 2/3</td><td>P51 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>52</td><td>Specialist poultry</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>521</td><td>Specialist laying hens</td><td>Laying hens &gt; 2/3</td><td>P5 &gt; 2/3</td><td>P52 &gt; 2/3</td><td>SO_CLVS022 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>522</td><td>Specialist poultry-meat</td><td>Broilers and other poultry &gt; 2/3</td><td>P5 &gt; 2/3</td><td>P52 &gt; 2/3</td><td>SO_CLVS021 + SO_CLVS023 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>523</td><td>Laying hens and poultry-meat combined</td><td>Holdings meeting conditions C1 and C2, excluding those in classes 521 and 522</td><td>P5 &gt; 2/3</td><td>P52 &gt; 2/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>53</td><td>Various granivores combined</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>530</td><td>Various granivores combined</td><td>Holdings meeting condition C1, excluding those in classes 511 to 523</td><td>P5 &gt; 2/3</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Mixed holdings**
+
+<table>
+<tbody><tr><td colspan="10"></td></tr>
+<tr><td colspan="6">Types of farming (for better readability the six columns under this heading are reproduced in Part 3 of this Annex) </td><td colspan="4">Methods for the calculation of particular types of farming specialisations IF (C1) AND (C2) AND (C3) THEN (S1) </td></tr>
+<tr><td rowspan="3">General</td><td rowspan="3">Description</td><td rowspan="3">Principal</td><td rowspan="3">Description</td><td rowspan="3">Particular specialisations</td><td rowspan="3">Description (S1) </td><td rowspan="3">Description of the calculation (D1) </td><td colspan="3">Code of variables and conditions (ref. Part 2 of this Annex) </td></tr>
+<tr><td>Condition 1 (C1) </td><td>Condition 2 (C2) </td><td>Condition 3 (C3) </td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td rowspan="13">6</td><td>Mixed cropping</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>61</td><td>Mixed cropping</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>611</td><td>Horticulture and permanent crops combined</td><td>Horticulture &gt; 1/3 AND permanent crops &gt; 1/3</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>P2 &gt; 1/3 AND P3 &gt; 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>612</td><td>Field crops and horticulture combined</td><td>General cropping &gt; 1/3 AND horticulture &gt; 1/3</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>P1 &gt; 1/3 AND P2 &gt; 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>613</td><td>Field crops and vineyards combined</td><td>General cropping &gt; 1/3 AND vineyards &gt; 1/3</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>P1 &gt; 1/3 AND SO_CLND062&gt; 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>614</td><td>Field crops and permanent crops combined</td><td>General cropping &gt; 1/3 AND permanent crops &gt; 1/3 AND vines ≤ 1/3</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>P1 &gt; 1/3 AND P3 &gt; 1/3 AND SO_CLND062 ≤ 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>615</td><td>Mixed cropping, mainly field crops</td><td>General cropping &gt; 1/3 AND no other activity &gt; 1/3</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>P1 &gt; 1/3 AND P2 ≤ 1/3 AND P3 ≤ 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>616</td><td>Other mixed cropping</td><td>Holdings meeting conditions C1 and C2, excluding holdings in classes 611, 612, 613, 614 and 615</td><td>(P1 + P2 + P3) &gt; 2/3 AND P1 ≤ 2/3 AND P2 ≤ 2/3 AND P3 ≤ 2/3</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="10">7</td><td>Mixed livestock</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>73</td><td>Mixed livestock, mainly grazing livestock</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>731</td><td>Mixed livestock, mainly dairy</td><td>Bovine, dairy &gt; 1/3 of grazing livestock AND dairy cows &gt; 1/2 of dairy bovine</td><td>P4 + P5 &gt; 2/3 AND P4 ≤ 2/3; P5 ≤ 2/3</td><td>P4 &gt; P5</td><td>P45 &gt; 1/3 GL AND SO_CLVS009 + SO_CLVS011 &gt; 1/2 P45</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>732</td><td>Mixed livestock, mainly non-dairy grazing livestock</td><td>Holdings meeting conditions C1 and C2, excluding holdings in class 731</td><td>P4 + P5 &gt; 2/3 AND P4 ≤ 2/3 AND P5 ≤ 2/3</td><td>P4 &gt; P5</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>74</td><td>Mixed livestock, mainly granivores</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>741</td><td>Mixed livestock: granivores and dairy</td><td>Bovine, dairy &gt; 1/3 of grazing livestock AND granivores &gt; 1/3 AND dairy cows &gt; 1/2 of bovine, dairy</td><td>P4 + P5 &gt; 2/3 AND P4 ≤ 2/3 AND P5 ≤ 2/3</td><td>P4 ≤ P5</td><td>P45 &gt; 1/3 GL AND P5 &gt; 1/3 AND SO_CLVS009 + SO_CLVS011 &gt; 1/2 P45</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>742</td><td>Mixed livestock: granivores and non-dairy grazing livestock</td><td>Holdings meeting conditions C1 and C2, excluding holdings in class 741</td><td>P4 + P5 &gt; 2/3 AND P4 ≤ 2/3 AND P5 ≤ 2/3</td><td>P4 ≤ P5</td><td>  </td></tr>
+<tr><td rowspan="17">8</td><td>Mixed crops – livestock</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>83</td><td>Field crops – grazing livestock combined</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>831</td><td>Field crops combined with dairy</td><td>Bovine, dairy &gt; 1/3 of grazing livestock AND dairy cows + buffalo cows&gt; 1/2 of bovine, dairy AND bovine, dairy &lt; general cropping</td><td>Holdings not included in classes 151-742 and 999</td><td>P1&gt; 1/3 AND P4 &gt; 1/3</td><td>P45 &gt; 1/3 GL AND SO_CLVS009 + SO_CLVS011 &gt; 1/2 P45 AND P45 &lt; P1</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>832</td><td>Dairy combined with field crops</td><td>Bovine, dairy &gt; 1/3 of grazing livestock AND dairy cows + buffalo cows&gt; 1/2 of bovine, dairy AND bovine, dairy ≥ general cropping</td><td>Holdings not included in classes 151-742 and 999</td><td>P1&gt; 1/3 AND P4 &gt; 1/3</td><td>P45 &gt; 1/3 GL AND SO_CLVS009 + SO_CLVS011 &gt; 1/2 P45 AND P45 ≥ P1</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>833</td><td>Field crops combined with non-dairy grazing livestock</td><td>General cropping &gt; grazing livestock and forage, excluding holdings in class 831</td><td>Holdings not included in classes 151-742 and 999</td><td>P1&gt; 1/3 AND P4 &gt; 1/3</td><td>P1 &gt; P4; excluding 831</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>834</td><td>Non-dairy grazing livestock combined with field crops</td><td>Holdings meeting conditions C1 and C2, excluding holdings in classes 831, 832 and 833</td><td>Holdings not included in classes 151-742 and 999</td><td>P1&gt; 1/3 AND P4 &gt; 1/3</td><td>  </td></tr>
+<tr><td>  </td><td>84</td><td>Various crops and livestock combined</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>841</td><td>Field crops and granivores combined</td><td>General cropping &gt; 1/3 AND granivores &gt; 1/3</td><td>Holdings not included in classes 151-742 and 999</td><td>Holdings meeting condition C1, excluding holdings in classes 831, 832, 833 and 834</td><td>P1&gt; 1/3 AND P5 &gt; 1/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>842</td><td>Permanent crops and grazing livestock combined</td><td>Permanent crops &gt; 1/3 AND grazing livestock and forage &gt; 1/3</td><td>Holdings not included in classes 151-742 and 999</td><td>Holdings meeting condition C1, excluding holdings in classes 831, 832, 833 and 834</td><td>P3 &gt; 1/3 AND P4 &gt; 1/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>843</td><td>Apiculture</td><td>Bees &gt; 2/3</td><td>Holdings not included in classes 151-742 and 999</td><td>Holdings meeting condition C1, excluding holdings in classes 831, 832, 833 and 834</td><td>SO_CLVS030 &gt; 2/3</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>844</td><td>Various mixed crops and livestock</td><td>Holdings meeting conditions C1 and C2, excluding holdings in classes 841, 842 and 843</td><td>Holdings not included in classes 151-742 and 999</td><td>Holdings meeting condition C1, excluding holdings in classes 831, 832, 833 and 834</td><td>  </td></tr>
+</tbody>
+</table>
+
+**Non-classified holdings**
+
+<table>
+<tbody><tr><td colspan="10"></td></tr>
+<tr><td colspan="6">Types of farming (for better readability the six columns under this heading are reproduced in Part 3 of this Annex) </td><td colspan="4">Methods for the calculation of particular types of farming specialisations IF (C1) AND (C2) AND (C3) THEN (S1) </td></tr>
+<tr><td rowspan="3">General</td><td rowspan="3">Description</td><td rowspan="3">Principal</td><td rowspan="3">Description</td><td rowspan="3">Particular specialisations</td><td rowspan="3">Description (S1) </td><td rowspan="3">Description of the calculation (D1) </td><td colspan="3">Code of variables and conditions (ref. Part 2 of this Annex) </td></tr>
+<tr><td>Condition 1 (C1) </td><td>Condition 2 (C2) </td><td>Condition 3 (C3) </td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td rowspan="3">9</td><td>Non-classified holdings</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>99</td><td>Non-classified holdings</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>999</td><td>Non-classified holdings</td><td>Total SO = 0</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**2\. TABLE OF CORRESPONDENCE AND REGROUPING CODES**
+
+**2.1. Correspondence between the headings of the core structural data variables listed in Annex III to Regulation (EU) 2018/1091, the headings to be collected for the SOC and the farm return of the FSDN**
+
+<table>
+<tbody><tr><td colspan="5">Equivalent headings for the application of SOCs</td></tr>
+<tr><td>IFS code</td><td>IFS label</td><td>SOC code</td><td>SOC heading</td><td>FSDN farm return (Annex VIII to this Regulation) </td></tr>
+<tr><td colspan="5">I. Crops</td></tr>
+<tr><td>CLND004</td><td>Common wheat and spelt</td><td>SOC_CLND004</td><td>Common wheat and spelt</td><td>10110. Common wheat and spelt</td></tr>
+<tr><td>CLND005</td><td>Durum wheat</td><td>SOC_CLND005</td><td>Durum wheat</td><td>10120. Durum wheat</td></tr>
+<tr><td>CLND006</td><td>Rye and winter cereal mixtures (maslin)</td><td>SOC_CLND006</td><td>Rye and winter cereal mixtures (maslin)</td><td>10130. Rye and winter cereal mixtures (maslin)</td></tr>
+<tr><td>CLND007</td><td>Barley</td><td>SOC_CLND007</td><td>Barley</td><td>10140. Barley</td></tr>
+<tr><td>CLND008</td><td>Oats and spring cereal mixtures (mixed grain other than maslin)</td><td>SOC_CLND008</td><td>Oats and spring cereal mixtures (mixed grain other than maslin)</td><td>10150. Oats and spring cereal mixtures (mixed grain other than maslin)</td></tr>
+<tr><td>CLND009</td><td>Grain maize and corn-cob mix</td><td>SOC_CLND009</td><td>Grain maize and corn-cob mix</td><td>10160. Grain maize and corn-cob mix</td></tr>
+<tr><td>CLND010</td><td>Triticale</td><td rowspan="3">SOC_CLND010_011_012</td><td rowspan="3">Triticale, sorghum and other cereals n.e.c. (buckwheat, millet, canary seed, etc.)</td><td rowspan="3">10190. Triticale, sorghum and other cereals n.e.c. (buckwheat, millet, canary seed, etc.)</td></tr>
+<tr><td>CLND011</td><td>Sorghum</td></tr>
+<tr><td>CLND012</td><td>Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)</td></tr>
+<tr><td>CLND013</td><td>Rice</td><td>SOC_CLND013</td><td>Rice</td><td>10170. Rice</td></tr>
+<tr><td>CLND014</td><td>Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)</td><td>SOC_CLND014</td><td>Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)</td><td>10210. Field peas, beans and sweet lupins 10220. Lentils, chickpeas and vetches  10290. Other protein crops </td></tr>
+<tr><td>CLND015</td><td>Field peas, beans and sweet lupins</td><td>SOC_CLND015</td><td>Field peas, beans and sweet lupins</td><td>10210. – of which: Field peas, beans and sweet lupins</td></tr>
+<tr><td>CLND017</td><td>Potatoes (including seed potatoes)</td><td>SOC_CLND017</td><td>Potatoes (including seed potatoes)</td><td>10300. Potatoes (including early potatoes and seed potatoes)</td></tr>
+<tr><td>CLND018</td><td>Sugar beet (excluding seed)</td><td>SOC_CLND018</td><td>Sugar beet (excluding seed)</td><td>10400. Sugar beet (excluding seed)</td></tr>
+<tr><td>CLND019</td><td>Other root crops n.e.c.</td><td>SOC_CLND019</td><td>Other root crops n.e.c.</td><td>10500. Other root crops, fodder beet and fodder plants of the Brassicae family, grown for the root or the stem, and other fodder root and tuber crops n.e.c.</td></tr>
+<tr><td>CLND022</td><td>Rape and turnip rape seeds</td><td>SOC_CLND022</td><td>Rape and turnip rape seeds</td><td>10604. Rape and turnip rape seeds</td></tr>
+<tr><td>CLND023</td><td>Sunflower seed</td><td>SOC_CLND023</td><td>Sunflower seed</td><td>10605. Sunflower seed</td></tr>
+<tr><td>CLND024</td><td>Soya</td><td>SOC_CLND024</td><td>Soya</td><td>10606. Soya</td></tr>
+<tr><td>CLND025</td><td>Oil flax (Linseed)</td><td>SOC_CLND025</td><td>Oil flax (Linseed)</td><td>10607. Oil flax (Linseed)</td></tr>
+<tr><td>CLND026</td><td>Other oilseed crops n.e.c.</td><td>SOC_CLND026</td><td>Other oilseed crops n.e.c.</td><td>10608. Other oil seed crops n.e.c</td></tr>
+<tr><td>CLND028</td><td>Fibre flax</td><td>SOC_CLND028</td><td>Fibre flax</td><td>10609. Fibre flax</td></tr>
+<tr><td>CLND029</td><td>Hemp</td><td>SOC_CLND029</td><td>Hemp</td><td>10610. Hemp</td></tr>
+<tr><td>CLND030</td><td>Cotton</td><td>SOC_CLND030</td><td>Cotton</td><td>10603. Cotton</td></tr>
+<tr><td>CLND031</td><td>Other fibre crops n.e.c.</td><td>SOC_CLND031</td><td>Other fibre crops n.e.c.</td><td>10611. Other fibre crops n.e.c</td></tr>
+<tr><td>CLND032</td><td>Tobacco</td><td>SOC_CLND032</td><td>Tobacco</td><td>10601. Tobacco</td></tr>
+<tr><td>CLND033</td><td>Hops</td><td>SOC_CLND033</td><td>Hops</td><td>10602. Hops</td></tr>
+<tr><td>CLND034</td><td>Aromatic, medicinal and culinary plants</td><td>SOC_CLND034</td><td>Aromatic, medicinal and culinary plants</td><td>10612. Aromatic, medicinal and culinary plants</td></tr>
+<tr><td>CLND035</td><td>Energy crops n.e.c.</td><td rowspan="2">SOC_CLND035_036</td><td rowspan="2">Energy and other industrial crops n.e.c.</td><td>10613. Sugar cane</td></tr>
+<tr><td>CLND036</td><td>Other industrial crops n.e.c.</td><td>10690. Energy and other industrial crops n.e.c.</td></tr>
+<tr><td>CLND037</td><td>Plants harvested green from arable land</td><td>SOC_CLND037</td><td>Plants harvested green from arable land</td><td>  </td></tr>
+<tr><td>CLND038</td><td>Temporary grasses and grazings</td><td>SOC_CLND038</td><td>Temporary grasses and grazings</td><td>10910. Temporary grasses and grazings</td></tr>
+<tr><td>CLND039</td><td>Leguminous plants harvested green</td><td>SOC_CLND039</td><td>Leguminous plants harvested green</td><td>10922. Leguminous plants harvested green</td></tr>
+<tr><td>CLND040</td><td>Green maize</td><td>SOC_CLND040</td><td>Green maize</td><td>10921. Green maize</td></tr>
+<tr><td>CLND041</td><td>Other cereals harvested green (excluding green maize)</td><td rowspan="2">SOC_CLND041_042</td><td rowspan="2">Other plants and cereals (excluding maize) harvested green n.e.c.</td><td rowspan="2">10923. Other plants and cereals (excluding green maize) harvested green n.e.c.</td></tr>
+<tr><td>CLND042</td><td>Other plants harvested green from arable land n.e.c.</td></tr>
+<tr><td>CLND043</td><td>Fresh vegetables (including melons) and strawberries</td><td>SOC_CLND043</td><td>Fresh vegetables (including melons) and strawberries – outdoor</td><td>  </td></tr>
+<tr><td>CLND044</td><td>Fresh vegetables (including melons) and strawberries - Market gardening</td><td>SOC_CLND044</td><td>Fresh vegetables (including melons) and strawberries - Market gardening</td><td>10712. Fresh vegetables (including melons) and strawberries - Market gardening</td></tr>
+<tr><td>CLND045</td><td>Fresh vegetables (including melons) and strawberries - Open field</td><td>SOC_CLND045</td><td>Fresh vegetables (including melons) and strawberries - Open field</td><td>10711. Fresh vegetables (including melons) and strawberries - Open field</td></tr>
+<tr><td>CLND046</td><td>Flowers and ornamental plants (excluding nurseries)</td><td>SOC_CLND046</td><td>Flowers and ornamental plants (excluding nurseries) - outdoor</td><td>10810. Flowers and ornamental plants (excluding nurseries) - outdoor</td></tr>
+<tr><td>CLND047</td><td>Seeds and seedlings</td><td>SOC_CLND047</td><td>Seeds and seedlings</td><td>11000. Arable land seed and seedlings</td></tr>
+<tr><td>CLND048</td><td>Other arable land crops n.e.c.</td><td rowspan="2">SOC_CLND048_083</td><td rowspan="2">Other arable land crops n.e.c. including under glass or high accessible cover</td><td rowspan="2">11100. Other arable land crops n.e.c. including under glass or high accessible cover</td></tr>
+<tr><td>CLND083</td><td>Other arable land crops under glass or high accessible cover</td></tr>
+<tr><td>CLND049</td><td>Fallow land</td><td>SOC_CLND049</td><td>Fallow land</td><td>11200. Fallow land</td></tr>
+<tr><td>CLND050</td><td>Permanent grassland</td><td>SOC_CLND050</td><td>Permanent grassland</td><td>  </td></tr>
+<tr><td>CLND051</td><td>Pasture and meadow, excluding rough grazings</td><td>SOC_CLND051</td><td>Pasture and meadow, excluding rough grazings</td><td>30100. Pasture and meadow, excluding rough grazings</td></tr>
+<tr><td>CLND052</td><td>Rough grazings</td><td>SOC_CLND052</td><td>Rough grazings</td><td>30200. Rough grazings</td></tr>
+<tr><td>CLND053</td><td>Permanent grassland no longer used for production purposes and eligible for the payment of subsidies</td><td>SOC_CLND053</td><td>Permanent grassland no longer used for production purposes and eligible for the payment of subsidies</td><td>30300. Permanent grassland no longer used for production purposes and eligible for the payment of subsidies</td></tr>
+<tr><td>CLND055</td><td>Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)</td><td>SOC_CLND055</td><td>Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>SOC_CLND056_057</td><td>Fruit of temperate climate zones</td><td>  </td></tr>
+<tr><td>CLND056</td><td>Pome fruits</td><td>SOC_CLND056</td><td>Pome fruits</td><td>40101. Pome fruits</td></tr>
+<tr><td>CLND057</td><td>Stone fruits</td><td>SOC_CLND057</td><td>Stone fruits</td><td>40102. Stone fruits</td></tr>
+<tr><td>CLND058</td><td>Fruits from subtropical and tropical climate zones</td><td>SOC_CLND058</td><td>Fruits from subtropical and tropical climate zones</td><td>40115. Fruits from subtropical and tropical climate zones</td></tr>
+<tr><td>CLND059</td><td>Berries (excluding strawberries)</td><td>SOC_CLND059</td><td>Berries (excluding strawberries)</td><td>40120. Berries (excluding strawberries)</td></tr>
+<tr><td>CLND060</td><td>Nuts</td><td>SOC_CLND060</td><td>Nuts</td><td>40130. Nuts</td></tr>
+<tr><td>CLND061</td><td>Citrus fruits</td><td>SOC_CLND061</td><td>Citrus fruits</td><td>40200. Citrus fruits</td></tr>
+<tr><td>CLND062</td><td>Grapes</td><td>SOC_CLND062</td><td>Grapes</td><td>  </td></tr>
+<tr><td>CLND063</td><td>Grapes for wines</td><td>SOC_CLND063</td><td>Grapes for wines</td><td>  </td></tr>
+<tr><td rowspan="2">CLND064</td><td rowspan="2">Grapes for wines with protected designation of origin (PDO)</td><td rowspan="2">SOC_CLND064</td><td rowspan="2">Grapes for wines with protected designation of origin (PDO)</td><td>40411. Wine with protected designation of origin (PDO)</td></tr>
+<tr><td>40451. Grapes for wines with protected designation of origin (PDO)</td></tr>
+<tr><td rowspan="2">CLND065</td><td rowspan="2">Grapes for wines with protected geographical indication (PGI)</td><td rowspan="2">SOC_CLND065</td><td rowspan="2">Grapes for wines with protected geographical indication (PGI)</td><td>40412. Wine with protected geographical indication (PGI)</td></tr>
+<tr><td>40452. Grapes for wines with protected geographical indication (PGI)</td></tr>
+<tr><td rowspan="2">CLND066</td><td rowspan="2">Grapes for other wines n.e.c. (without PDO/PGI)</td><td rowspan="2">SOC_CLND066</td><td rowspan="2">Grapes for other wines n.e.c. (without PDO/PGI)</td><td>40420. Other wines</td></tr>
+<tr><td>40460. Grapes for other wines</td></tr>
+<tr><td>CLND067</td><td>Grapes for table use</td><td>SOC_CLND067</td><td>Grapes for table use</td><td>40430. Grapes for table use</td></tr>
+<tr><td>CLND068</td><td>Grapes for raisins</td><td>SOC_CLND068</td><td>Grapes for raisins</td><td>40440. Grapes for raisins</td></tr>
+<tr><td>CLND069</td><td>Olives</td><td>SOC_CLND069</td><td>Olives</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>SOC_CLND069A</td><td>Normally producing table olives</td><td>40310. Table olives</td></tr>
+<tr><td>  </td><td>  </td><td rowspan="2">SOC_CLND069B</td><td rowspan="2">Normally producing olives for oil production</td><td>40320. Olives for oil production (sold in the form of fruit)</td></tr>
+<tr><td>  </td><td>  </td><td>40330. Olive oil</td></tr>
+<tr><td>CLND070</td><td>Nurseries</td><td>SOC_CLND070</td><td>Nurseries</td><td>40500. Nurseries</td></tr>
+<tr><td>CLND071</td><td>Other permanent crops including other permanent crops for human consumption</td><td>SOC_CLND071</td><td>Other permanent crops</td><td>40600. Other permanent crops</td></tr>
+<tr><td>CLND072</td><td>Christmas trees</td><td>SOC_CLND072</td><td>Christmas trees</td><td>40610. – of which Christmas trees</td></tr>
+<tr><td>CLND073</td><td>Kitchen gardens</td><td rowspan="2">SOC_CLND073_085</td><td rowspan="2">Kitchen gardens and other UAA under glass or high accessible cover n.e.c.</td><td rowspan="2">20000. Kitchen gardens</td></tr>
+<tr><td>CLND085</td><td>Other UAA under glass or high accessible cover n.e.c.</td></tr>
+<tr><td>CLND079</td><td>Cultivated mushrooms</td><td>SOC_CLND079</td><td>Cultivated mushrooms</td><td>60000. Cultivated mushrooms</td></tr>
+<tr><td>CLND081</td><td>Fresh vegetables (including melons) and strawberries under glass or high accessible cover</td><td>SOC_CLND081</td><td>Fresh vegetables (including melons) and strawberries under glass or high accessible cover</td><td>10720. Fresh vegetables (including melons) and strawberries under glass or high accessible cover</td></tr>
+<tr><td>CLND082</td><td>Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover</td><td>SOC_CLND082</td><td>Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover</td><td>10820. Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover</td></tr>
+<tr><td>CLND084</td><td>Permanent crops under glass or high accessible cover</td><td>SOC_CLND084</td><td>Permanent crops under glass or high accessible cover</td><td>40700. Permanent crops under glass or high accessible cover</td></tr>
+<tr><td colspan="5">II Livestock</td></tr>
+<tr><td>CLVS001</td><td>Bovine animals less than 1 year old</td><td>SOC_CLVS001</td><td>Bovine animals less than 1 year old</td><td>210. Bovine animals less than 1 year old</td></tr>
+<tr><td>CLVS003</td><td>Male bovine animals, 1 to less than 2 years old</td><td>SOC_CLVS003</td><td>Male bovine animals, 1 to less than 2 years old</td><td>220. Male bovine animals, 1 to less than 2 years old</td></tr>
+<tr><td>CLVS004</td><td>Heifers, 1 to less than 2 years old</td><td>SOC_CLVS004</td><td>Heifers, 1 to less than 2 years old</td><td>230. Heifers, 1 to less than 2 years old</td></tr>
+<tr><td>CLVS005</td><td>Male bovine animals, 2 years old and over</td><td>SOC_CLVS005</td><td>Male bovine animals, 2 years old and over</td><td>240. Male bovine animals, 2 years old and over</td></tr>
+<tr><td rowspan="2">CLVS007</td><td rowspan="2">Heifers, 2 years old and over</td><td rowspan="2">SOC_CLVS007</td><td rowspan="2">Heifers, 2 years old and over</td><td>251. Breeding heifers</td></tr>
+<tr><td>252. Heifers for fattening</td></tr>
+<tr><td>CLVS008</td><td>Cows</td><td>SOC_CLVS008</td><td>Cows</td><td>  </td></tr>
+<tr><td>CLVS009</td><td>Dairy cows</td><td>SOC_CLVS009</td><td>Dairy cows</td><td>261. Dairy cows</td></tr>
+<tr><td>CLVS010</td><td>Non-dairy cows</td><td>SOC_CLVS010</td><td>Non-dairy cows</td><td>269. Non-dairy cows</td></tr>
+<tr><td>CLVS011</td><td>Buffalo-cows</td><td>SOC_CLVS011</td><td>Buffalo-cows</td><td>262. Buffalo dairy cows</td></tr>
+<tr><td>CLVS012</td><td>Sheep (all ages)</td><td>SOC_CLVS012</td><td>Sheep (all ages)</td><td>  </td></tr>
+<tr><td>CLVS013</td><td>Breeding female sheep</td><td>SOC_CLVS013</td><td>Breeding female sheep</td><td>311. Breeding female sheep</td></tr>
+<tr><td>CLVS014</td><td>Other sheep</td><td>SOC_CLVS014</td><td>Other sheep</td><td>319. Other sheep</td></tr>
+<tr><td>CLVS015</td><td>Goats (all ages)</td><td>SOC_CLVS015</td><td>Goats (all ages)</td><td>  </td></tr>
+<tr><td>CLVS016</td><td>Breeding female goats</td><td>SOC_CLVS016</td><td>Breeding female goats</td><td>321. Breeding female goats</td></tr>
+<tr><td>CLVS017</td><td>Other goats</td><td>SOC_CLVS017</td><td>Other goats</td><td>329. Other goats</td></tr>
+<tr><td>CLVS018</td><td>Piglets, live weight of under 20 kg</td><td>SOC_CLVS018</td><td>Piglets, live weight of under 20 kg</td><td>410. Piglets, live weight of under 20 kg</td></tr>
+<tr><td>CLVS019</td><td>Breeding sows, live weight 50 kg and over</td><td>SOC_CLVS019</td><td>Breeding sows, live weight 50 kg and over</td><td>420. Breeding sows, live weight 50 kg and over</td></tr>
+<tr><td rowspan="2">CLVS020</td><td>Other pigs</td><td rowspan="2">SOC_CLVS020</td><td rowspan="2">Other pigs</td><td>491. Pigs for fattening</td></tr>
+<tr><td>  </td><td>499. Other pigs</td></tr>
+<tr><td>CLVS021</td><td>Broilers</td><td>SOC_CLVS021</td><td>Broilers</td><td>510. Poultry - broilers</td></tr>
+<tr><td>CLVS022</td><td>Laying hens</td><td>SOC_CLVS022</td><td>Laying hens</td><td>520. Laying hens</td></tr>
+<tr><td>CLVS023</td><td>Other poultry</td><td>SOC_CLVS023</td><td>Other poultry</td><td>530. Other poultry</td></tr>
+<tr><td>CLVS029</td><td>Breeding female rabbits</td><td>SOC_CLVS029</td><td>Breeding female rabbits</td><td>610. Breeding female rabbits</td></tr>
+<tr><td>CLVS030</td><td>Bees</td><td>SOC_CLVS030</td><td>Bees</td><td>700. Bees</td></tr>
+</tbody>
+</table>
+
+**2.2. Codes regrouping several variables included in IFS 2020:**
+
+P45. Bovine, dairy = SO_CLVS001 (Bovine animals less than 1 year old) + SO_CLVS004 (Heifers, 1 to less than 2 years old) + SO_CLVS007 (Heifers 2 years old and over) + SO_CLVS009 (Dairy cows) + SO_CLVS011 (Buffalo-cows)
+
+P46. Bovine = P45 (Bovine, dairy) + SO_CLVS003 (Male bovine animals, 1 to less than 2 years old) + SO_CLVS005 (Male bovine animals, 2 years old and over) + SO_CLVS010 (Non-dairy cows)
+
+GL Grazing livestock = P46 (Bovine) + SO_CLVS013 (Breeding female sheep) + SO_CLVS014 (Other sheep) + SO_CLVS016 (Breeding female goats) + SO_CLVS017 (Other goats)
+
+If GL = 0 THEN
+
+FCP1 Forage for sale = SO_CLND019 (Other root crops n.e.c) + SO_CLND037 (Plants harvested green from arable land) + SO_CLND051 (Pasture and meadow, excluding rough grazings) + SO_CLND052 (Rough grazings)
+
+AND
+
+FCP4 Forage for grazing livestock = 0
+
+AND
+
+P17 Roots = SO_CLND017 (Potatoes (including seed potatoes)) + SO_CLND018 (Sugar beet (excluding seed)) + SO_CLND019 (Other root crops n.e.c)
+
+If GL > 0 THEN
+
+FCP1 Forage for sale = 0
+
+AND
+
+FCP4 Forage for grazing livestock = SO_CLND019 (Other root crops n.e.c) + SO_CLND037 (Plants harvested green from arable land) + SO_CLND051 (Pasture and meadow, excluding rough grazings) + SO_CLND052 (Rough grazings)
+
+AND
+
+P17 Roots = SO_CLND017 (Potatoes (including seed potatoes)) + SO_CLND018 (Sugar beet (excluding seed))
+
+| P151. |  | Cereals excluding rice = SO_CLND004 (Common wheat and spelt) + SO_CLND005 (Durum wheat) + SO_CLND006 (Rye and winter cereal mixtures (maslin)) + SO_CLND007 (Barley) + SO_CLND008 (Oats and spring cereal mixtures (mixed grain other than maslin)) + SO_CLND009 (Grain maize and corn-cob mix) + SO_CLND010_011_012 (Triticale, sorghum and other cereals n.e.c. (buckwheat, millet, canary seed, etc.)) |
+| --- | --- | --- |
+| P15. |  | Cereals = P151 (cereals without rice) + SO_CLND013 (Rice) |
+| P16. |  | Oilseeds = SO_CLND022 (Rape and turnip rape seeds) + SO_CLND023 (Sunflower seed) + SO_CLND024 (Soya) + SO_CLND025 (Oil flax (Linseed) + SO_CLND026 (Other oilseed crops n.e.c.) |
+| P51. |  | Pigs = SO_CLVS018 (Piglets, live weight of under 20 kg) + SO_CLVS019 (Breeding sows, live weight 50 kg and over) + SO_CLVS020 (Other pigs) |
+| P52. |  | Poultry = SO_CLVS021 (Broilers) + SO_CLVS022 (Laying hens) + SO_CLVS023 (Other poultry) |
+| P1. |  | General cropping = P15 (Cereals) + SO_CLND014 (Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)) + SO_CLND017 (Potatoes (including seed potatoes)) + SO_CLND018 (Sugar beet (excluding seed)) + SO_CLND032 (Tobacco) + SO_CLND033 (Hops) + SO_CLND030 (Cotton) + P16 (oilseeds) + SO_CLND028 (Fibre flax) + SO_CLND029 (Hemp) + SO_CLND031 (Other fibre crops n.e.c.) + SO_CLND034 (Aromatic, medicinal and culinary plants) + SO_CLND035_036 (Energy and other industrial crops n.e.c.) + SO_CLND045 (Fresh vegetables (including melons) and strawberries - Open field)) + SO_CLND047 (Seeds and seedlings) + SO_CLND048_083 (Other arable land crops n.e.c., including under glass or high accessible cover) + SO_CLND049 (Fallow land) + FCP1 (Forage for sale) |
+| P2. |  | Horticulture = SO_CLND044 (Fresh vegetables (including melons) and strawberries - Market gardening)) + SO_CLND081 (Fresh vegetables (including melons) and strawberries under glass or high accessible cover) + SO_CLND046 (Flowers and ornamental plants (excluding nurseries) + SO_CLND082 (Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover) + SO_CLND079 (Cultivated mushrooms) + SO_CLND070 (Nurseries) |
+| P3. |  | Permanent crops = SO_CLND055 (Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)) + SO_CLND061 (Citrus fruits) + SO_CLND069 (Olives) + SO_CLND062 (Grapes) + SO_CLND071(Other permanent crops) + SO_CLND084 (Permanent crops under glass) |
+| P4. |  | Grazing livestock and forage = GL (Grazing livestock) + FCP4 (Forage for grazing livestock) |
+| P5. |  | Granivores = P51 (Pigs) + P52 (Poultry) + SO_CLVS029 (Breeding female rabbits) |
+
+**3\. TYPES OF FARMING AS REFERRED TO IN PART 1**
+
+**Specialist holdings — crops**
+
+| General type of farming | Principal type of farming | Particular types of farming specialisations |
+| --- | --- | --- |
+| 1. Specialist field crops | 15. Specialist cereals, oilseeds and protein crops | 151. Specialist cereals (other than rice), oilseeds and protein crops 152. Specialist rice 153. Cereals, oilseeds, protein crops and rice combined |
+|  | 16. General field cropping | 161. Specialist root crops 162. Cereals, oilseeds, protein crops and root crops combined 163. Specialist field vegetables 164. Specialist tobacco 165. Specialist cotton 166. Various field crops combined |
+| 2. Specialist horticulture | 21. Specialist horticulture indoor | 211. Specialist vegetables indoor 212. Specialist flowers and ornamentals indoor 213. Mixed horticulture indoor specialist |
+|  | 22. Specialist horticulture outdoor | 221. Specialist vegetables outdoor 222. Specialist flowers and ornamentals outdoor 223. Mixed horticulture outdoor specialist |
+|  | 23. Other horticulture | 231. Specialist mushrooms 232. Specialist nurseries 233. Various horticulture |
+| 3. Specialist permanent crops | 35. Specialist vineyards | 351. Specialist quality wine 352. Specialist wine other than quality wine 353. Specialist table grapes 354. Other vineyards |
+|  | 36. Specialist fruit and citrus fruit | 361. Specialist fruit (other than citrus, tropical and subtropical fruits and nuts) 362. Specialist citrus fruit 363. Specialist nuts 364. Specialist tropical and subtropical fruits 365. Specialist fruit, citrus, tropical and subtropical fruits and nuts: mixed production |
+|  | 37. Specialist olives | 370. Specialist olives |
+|  | 38. Various permanent crops combined | 380. Various permanent crops combined |
+
+**Specialist holdings — animal production**
+
+| General type of farming | Principal type of farming | Particular types of farming specialisations |
+| --- | --- | --- |
+| 4. Specialist grazing livestock | 45. Specialist dairy | 450. Specialist dairy |
+|  | 46. Specialist cattle — rearing and fattening | 460. Specialist cattle — rearing and fattening |
+|  | 47. Cattle — dairy, rearing and fattening combined | 470. Cattle — dairy, rearing and fattening combined |
+|  | 48. Sheep, goats and other grazing livestock | 481. Specialist sheep 482. Sheep and cattle combined 483. Specialist goats 484. Various grazing livestock |
+| 5. Specialist granivores | 51. Specialist pigs | 511. Specialist pig rearing 512. Specialist pig fattening 513. Pig rearing and fattening combined |
+|  | 52. Specialist poultry | 521. Specialist laying hens 522. Specialist poultry-meat 523. Laying hens and poultry-meat combined |
+|  | 53. Various granivores combined | 530. Various granivores combined |
+
+**Mixed holdings**
+
+| General type of farming | Principal type of farming | Particular types of farming specialisations |
+| --- | --- | --- |
+| 6. Mixed cropping | 61. Mixed cropping | 611. Horticulture and permanent crops combined 612. Field crops and horticulture combined 613. Field crops and vineyards combined 614. Field crops and permanent crops combined 615. Mixed cropping, mainly field crops 616. Other mixed cropping |
+| 7. Mixed livestock | 73. Mixed livestock, mainly grazing livestock | 731. Mixed livestock, mainly dairy 732. Mixed livestock, mainly non-dairy grazing livestock |
+|  | 74. Mixed livestock, mainly granivores | 741. Mixed livestock: granivores and dairy 742. Mixed livestock: granivores and non-dairy grazing livestock |
+| 8. Mixed crops — livestock | 83. Field crops — grazing livestock combined | 831. Field crops combined with dairy 832. Dairy combined with field crops 833. Field crops combined with non-dairy grazing livestock 834. Non-dairy grazing livestock combined with field crops |
+|  | 84. Various crops and livestock combined | 841. Field crops and granivores combined 842. Permanent crops and grazing livestock combined 843. Apiculture 844. Various mixed crops and livestock |
+| 9. Non-classified holdings | 99. Non-classified holdings | 999. Non-classified holdings |
+
+## ANNEX V — Economic size of holdings and economic size classes referred to in Article 5
+
+**1\. ECONOMIC SIZE OF THE HOLDING**
+
+The economic size of a holding is measured as the total standard output of the holding expressed in EUR.
+
+**2\. ECONOMIC SIZE CLASSES OF HOLDINGS**
+
+Holdings are classified by size classes, the limits of which are set out below.
+
+Classes Limits in EUR
+
+I less than 2 000
+
+II from 2 000 to 3 999
+
+III from 4 000 to 7 999
+
+IV from 8 000 to 14 999
+
+V from 15 000 to 24 999
+
+VI from 25 000 to 49 999
+
+VII from 50 000 to 99 999
+
+VIII from 100 000 to 249 999
+
+IX from 250 000 to 499 999
+
+X from 500 000 to 749 999
+
+XI from 750 000 to 999 999
+
+XII from 1 000 000 to 1 499 999
+
+XIII from 1 500 000 to 2 999 999
+
+XIV 3 000 000 and more
+
+Size classes II and III; III and IV; IV and V; III to V; VI and VII; VIII and IX; X and XI; XII to XIV; or X to XIV can be grouped together.
+
+## ANNEX VI — Standard Output Coefficients (SOCs) referred to in Article 6
+
+**1\. DEFINITION AND PRINCIPLES FOR CALCULATION OF SOCs**
+
+(a) The standard output (SO), standard output coefficient (SOC) and total SO of a holding are defined as laid down in Annex IV of this Regulation.
+
+(b) Production period
+
+The SOCs correspond to a production period of 12 months.
+
+For crop products and livestock products for which the period of production is less than or exceeds 12 months, a SOC corresponding to growth or production in a 12-month period is calculated.
+
+(c) Basic data and reference period
+
+The SOCs are determined on the basis of the production per unit and the farm-gate price referred to in the definition of SOC in Annex IV to this Regulation. To this end, the basic data are collected in the Member States for a reference period defined in Article 4 of Delegated Regulation (EU) 2024/1417 ( 2 ).
+
+(d) Units
+
+(1) Physical units:
+
+(a) the SOCs for crop variables are determined on the basis of area expressed in hectares.
+
+(b) for mushrooms, the SOCs are determined on the basis of gross output for all the annual successive harvests and are expressed per 100 m2 of area under crops. For their use in the context of the FSDN, such SOCs for mushrooms are divided by the number of annual successive harvests, which is to be communicated to the Commission pursuant to Article 8 of this Regulation.
+
+(c) the SOCs relating to livestock variables are determined by head.
+
+(d) exceptions apply for poultry, for which SOC are determined in terms of 100 heads, and for bees, for which they are determined by hive.
+
+(2) Monetary units and rounding:
+
+The basic data for determining the SOCs and the calculated SOs are established in EUR. For the Member States not taking part in the Economic and Monetary Union, the SOCs are converted into EUR using the average exchange rates for the reference period as defined in point 1(c) of this Annex. These average exchange rates are calculated based on the official exchange rates published by the Commission (Eurostat).
+
+The SOCs may be rounded to the nearest EUR 5 where appropriate.
+
+**2\. BREAKDOWN OF SOCs**
+
+(a) By crop and livestock variables
+
+The SOCs are determined for all the agricultural variables corresponding to the headings for the application of SOCs listed in Table 2.1. in Annex IV of this Regulation.
+
+(b) Geographical breakdown
+
+— The SOCs are determined at least on the basis of geographical units which are usable for the IFS and for the FSDN. These geographical units are all based on the general Nomenclature of Territorial Units for Statistics (NUTS) as defined in Regulation (EC) No 1059/2003 of the European Parliament and of the Council ( 3 ). These units are described as a regrouping of NUTS 3 regions. Areas with natural constraints are not considered as a geographical unit.
+
+— No SOC is determined for variables which are not relevant in the region concerned.
+
+**3\. COLLECTION OF DATA FOR DETERMINING SOCs**
+
+(a) The basic data for determining SOCs are renewed at least each time a European survey on the structure of agricultural holdings is carried out in the form of a census as referred to in Article 5 of Regulation (EU) 2018/1091 of the European Parliament and of the Council ( 4 ).
+
+(b) When the IFS may be carried out as sample survey as referred to in Article 5 of Regulation (EU) 2018/1091, the updating of the SOCs shall be carried out:
+
+(a) either by renewing the basic data in a manner similar to that specified in point (a),
+
+(b) or by applying a coefficient of change whereby SOCs are updated to take account of changes, as estimated by the Member State, in quantities produced per unit and in prices with respect to each variable and region, that have occurred since the last reference period, as referred to in Article 4 of Delegated Regulation (EU) 2024/1417.
+
+**4\. EXECUTION**
+
+The Member States are responsible, in accordance with this Annex, for collecting the basic data needed for calculating the SOCs and for calculating them, for converting them into EUR and for collecting the data required for applying the updating method, as appropriate. Member States shall transmit the data and metadata to the Commission using a technical format specified by the Commission (Eurostat). The data and metadata shall be provided to the Commission (Eurostat) through the single entry point services. At the request of the Commission, Member States shall provide explanations on calculations of the SOC to be used by the Commission to ensure coherence of the SOC calculation methodology throughout the Union and to propose adjustments to that calculation methodology.
+
+**5\. TREATMENT OF SPECIAL CASES**
+
+The following specific rules are laid down for the calculation of SOCs for certain variables and for calculating the total SO of the holding:
+
+(a) Fallow land
+
+The SOC relating to fallow land is taken into account when calculating the total SO of the holding only when there are other positive SOCs on that holding.
+
+(b) Kitchen gardens
+
+Since the produce of kitchen gardens is normally intended for the holder’s own consumption and not for sale, the SOCs for kitchen gardens are regarded as equal to zero.
+
+(c) Livestock
+
+For livestock the variables are split by category of age. The output corresponds to the value of growth of the animal during the time spent in the category i.e. it corresponds to the difference between the value of the animal when it leaves the category and its value when it enters the category (named also the replacement value).
+
+(d) Bovine animals less than 1 year old
+
+SOCs relating to bovine animals under one year old are taken into account when calculating the total SO of the holding only when there are more bovine animals under one year than cows on the holding. Only the SOCs relating to the surplus number of bovine animals under one year are taken into account. There is only one SOC relating to bovine animals less than 1 year old irrespective of the sex of the animal.
+
+(e) Other sheep and other goats
+
+SOCs relating to other sheep are taken into account when calculating the total SO of the holding only when there are no breeding female sheep on the holding.
+
+SOCs relating to other goats are taken into account when calculating the total SO of the holding only when there are no breeding female goats on the holding.
+
+(f) Piglets
+
+SOCs relating to piglets are taken into account when calculating the total SO of the holding only when there are no breeding sows on the holding.
+
+(g) Forage
+
+If there are no grazing livestock (i.e. bovine, sheep or goats) on the holding, the forage (i.e. roots, plants harvested green, pasture and meadows) is considered as intended for sale and is part of the general cropping output.
+
+If there are grazing livestock on the farm, the forage is considered as intended to feed the grazing livestock and is part of the grazing livestock and forage output.
+
+## ANNEX VII — Other gainful activities directly related to the holding referred to in Article 7
+
+**1\. DEFINITION OF THE OTHER GAINFUL ACTIVITIES (OGA) DIRECTLY RELATED TO THE HOLDING**
+
+The gainful activities directly related to the holding other than the agricultural activities of the holding comprise all activities other than farm work, directly related to the holding and having an economic impact on the holding. Those are activities where either the resources of the holding (area, buildings, machinery, agricultural products, etc.) or the products of the holdings are used.
+
+Gainful activities for these purposes mean active work; pure financial investments are excluded. Renting out the land or other agricultural resources of the farm for diverse activities without being further involved in these activities is not considered as an OGA but as part of the agricultural activity of the holding.
+
+All processing of farm products is considered as OGA unless the processing is regarded as a part of an agricultural activity. Wine and olive oil production are regarded as agricultural activities if the bought-in proportion of wine or olive oil is not significant.
+
+All processing of a primary agricultural product to a processed secondary product on the holding, regardless of whether the raw material is produced on the holding or bought from outside are considered as OGA. This includes processing meat, making cheese, etc.
+
+**2\. ESTIMATION OF THE IMPORTANCE OF THE OTHER GAINFUL ACTIVITIES DIRECTLY RELATED TO THE HOLDING**
+
+The share of the OGA directly related to the holding in the output of the holding is estimated as the share of the OGA directly related to the holding turnover in the sum of total turnover of the holding and direct payments of that holding under Regulation (EU) No 1307/2013 ( 5 ):
+
+[image]
+
+**3\. CLASSES REFLECTING THE IMPORTANCE OF THE OGA DIRECTLY RELATED TO THE HOLDING**
+
+Holdings are classified by classes reflecting the share of OGA directly related to the holding in the output of the holding. The following limits shall apply:
+
+Classes Percentage bands
+
+I From 0 % to 10 % (marginal share)
+
+II From more than 10 % to 50 % (medium share)
+
+III From more than 50 % to less than a 100 % (significant share)
+
+## ANNEX VIII — Definition of the variables, form and layout of the farm return and transmission frequencies referred to in Article 10
+
+The data to be compiled is transmitted annually.
+
+The data shall be compiled following an accountancy-based principle, which means to fill in FSDN data with the most updated and reliable information on a specific variable, derived firstly from a systematic and regular recording of transactions and activities of the farm, based primarily on its source documents (such as invoices, delivery/dispatch notes, soil or other laboratory analysis).
+
+As set out in Article 4 of Regulation (EC) No 1217/2009, the information can be compiled from other data sources as well as using data compilation methods or innovative approaches for data sharing and compiling.
+
+In case source documents or other data sources are not available, the information should be derived as much as possible from other available quantifications, which can include modelling results.
+
+Other qualitative or quantitative information should be compiled based on standardised classifications.
+
+The data to be compiled is classified by table and broken down into groups, categories and columns. The convention used to refer to a specific data field is:
+
+&lt;table code>.&lt;group>.&lt;category code>(.&lt;other specific category codes).column
+
+With the conversion to FSDN, tables are indicated by a code based on the following rules:
+
+— tables codes with one digit: FADN tables existing before reporting year 2025.
+
+— tables codes with two digits: new FSDN tables introduced from reporting year 2025.
+
+— tables codes with three digits: new FSDN tables introduced from reporting year 2025 related to the same topic.
+
+The order of the tables in Annex VIII to this Regulation reflects the order of the topics indicated in Annex -I of Regulation (EC) No 1217/2009.
+
+Specific data values are captured at column level. In the tables set out below, clear cells are where data values can be accepted; greyed cells marked with a “—” have no meaning in the group context, so no data is accepted in those.
+
+Examples:
+
+— B.UT.20.A (column A of the group UT, category 20, from table B) represents the “Area” of “Rented UAA” to be recorded under the “UAA for tenant farming” in table B;
+
+— I.A.10110.1.0.TA (column TA of the group A, category 10110, from table I) represents the total area of “Common wheat and spelt” for type of crop 1 “Field scale crops – main crop, combined crop” and missing data code 0“No data missing”;
+
+— M.S.1150.1.2.V (column V of the group S, category 1150 with other specific category codes 1 and 2 from table M) represents the subsidy value of “Basic Income Support for Sustainability – based on payments entitlements” that is financed solely from the Union budget and is granted per ha.
+
+When a value is not relevant or missing for any particular holding, do not enter value “0”.
+
+For tables, the first table shows the high-level matrix for groups and columns. The second table sets out the breakdown for categories where each category is represented by one or more codes and sub-codes.
+
+The data in a farm return shall be provided in accordance with the following rules:
+
+— financial values: are expressed in monetary terms without VAT and without taking into account grants and subsidies ( 6 ), which are recorded separately, in EUR or in national monetary units. However, for national currencies where the unit represents a low relative value compared to EUR, it may be agreed between the liaison agency of a Member State concerned and the Commission to express the values in hundreds or thousands of national currency units;
+
+— physical quantities: in quintals (1 q = 100 kg) except for eggs, which will be expressed in thousands and wine and related products which will be expressed in hectolitres;
+
+— areas: in ares (1 a = 100 m2), except for mushrooms which will be expressed in square metres of total cropped area and except in table M “Subsidies”, where basic units are to be registered in ha;
+
+— average livestock numbers: at least to two decimal places, except for poultry and rabbits, which are to be given in whole numbers, and bees which are to be expressed in number of occupied bee hives;
+
+— labour units: at least to two decimal places.
+
+For each table category and column value, further definitions and instructions are set out below the table concerned.
+
+**Table A**
+
+**General information on the holding**
+
+| Category of general information | Code (*) |
+| --- | --- |
+
+<table>
+<tbody><tr><td colspan="2">  </td><td colspan="10">Columns</td></tr>
+<tr><td colspan="2">Group of information</td><td>FSDN Division</td><td>Subdivision</td><td>Serial number of holding</td><td>Grid</td><td>NUTS</td><td>Date</td><td>Weight of the farm</td><td>Type of farming</td><td>Economic size class</td><td>Code</td></tr>
+<tr><td>  </td><td>  </td><td>R</td><td>S</td><td>H</td><td>GR</td><td>N</td><td>DT</td><td>W</td><td>TF</td><td>ES</td><td>C</td></tr>
+<tr><td>ID</td><td>Identification of the holding</td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>LO</td><td>Location of the holding</td><td>—</td><td>—</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>AI</td><td>Accounting information</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>TY</td><td>Typology</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>CL</td><td>Classes</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>OT</td><td>Other particulars of the holding</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+</tbody>
+</table>
+
+| Code (*) | Description | Group | R | S | H | GR | N | DT | W | TF | ES | C |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | Number of the holding | ID |  |  |  | — | — | — | — | — | — | — |
+| 25 | INSPIRE grid code | LO | — | — | — |  | — | — | — | — | — | — |
+| 40 | NUTS3 | LO | — | — | — | — |  | — | — | — | — | — |
+| 60 | Type of accounting | AI | — | — | — | — | — | — | — | — | — |  |
+| 70 | Date of closure of accounts | AI | — | — | — | — | — |  | — | — | — | — |
+| 80 | National weight calculated by the Member State | TY | — | — | — | — | — | — |  | — | — | — |
+| 90 | Classification at the time of selection | TY | — | — | — | — | — | — | — |  |  | — |
+| 100 | Other gainful activities (OGA) directly related to the holding | CL | — | — | — | — | — | — | — | — | — |  |
+| 110 | Type of ownership/ economic objective | CL | — | — | — | — | — | — | — | — | — |  |
+| 120 | Legal status | CL | — | — | — | — | — | — | — | — | — |  |
+| 130 | Level of liability of the holder(s) | CL | — | — | — | — | — | — | — | — | — |  |
+| 140 | Organic farming | CL | — | — | — | — | — | — | — | — | — |  |
+| 142 | Year in which the farm started conversion to organic | CL | — | — | — | — | — |  | — | — | — | — |
+| 145 | Share of organic farming products | CL | — | — | — | — | — | — | — | — | — |  |
+| 150 | Protected Designation of Origin (PDO) / Protected Geographical Indication (PGI) / Traditional Speciality Guaranteed (TSG) / mountain product | CL | — | — | — | — | — | — | — | — | — |  |
+| 151 | Sectors with PDO/PGI /TSG/mountain product | CL | — | — | — | — | — | — | — | — | — |  |
+| 160 | Areas facing natural and other specific constraints | CL | — | — | — | — | — | — | — | — | — |  |
+| 170 | Altitude | CL | — | — | — | — | — | — | — | — | — |  |
+| 190 | Natura 2000 area | CL | — | — | — | — | — | — | — | — | — |  |
+| 200 | Water Framework Directive (2000/60/EC) area | CL | — | — | — | — | — | — | — | — | — |  |
+| 210 | Irrigation system | OT | — | — | — | — | — | — | — | — | — |  |
+| 220 | Livestock unit grazing days on common land | OT | — | — | — | — | — | — | — | — | — |  |
+| 230 | Member of Producer Organisations (POs) | OT | — | — | — | — | — | — | — | — | — |  |
+| 231 | Economic relevance of Producer Organisations (POs) to the farm | OT |  |  |  |  |  |  |  |  |  |  |
+| 232 | Number of members of Producer Organisations (POs) | OT | — | — | — | — | — | — | — | — | — |  |
+| 240 | Participation in mutual funds | OT | — | — | — | — | — | — | — | — | — |  |
+| 241 | Compensation of losses | OT | — | — | — | — | — | — | — | — | — |  |
+
+**A.ID. Identification of the holding**
+
+A number is assigned to each returning holding when it is selected for the first time. The holding retains this number for the duration of its inclusion in the FSDN network. A number once assigned shall not be allotted to another holding.
+
+However, where the holding undergoes a fundamental change, and, in particular, where this change is the result of a subdivision into two separate holdings or of a merger with another holding, it may be considered as a new holding. In this case a new number shall be assigned to it. A change in the type of farming practised on the holding does not require an assignment of a new number. Where confusion with any other returning holding may result from the holding keeping the number it has (e.g. when new regional subdivisions are created), the number shall be changed. A table showing the equivalence of old and new numbers is to be forwarded to the Commission by the Member State concerned.
+
+The holding number comprises three groups of indications as follows:
+
+A.ID.10.R. FSDN Division: a code number is to be given, corresponding to the code set in Annex II to this Regulation.
+
+A.ID.10.S. Subdivision: a code number is to be given.
+
+The subdivisions chosen shall be based on the common system of classification of the regions, referred to as the nomenclature of territorial statistical units (NUTS) established by the Commission (Eurostat) in cooperation with the national institutes for statistics.
+
+In any case, the Member State concerned shall transmit to the Commission a table indicating, for each subdivision code used, the corresponding NUTS regions, as well as the corresponding region for which specific values of standard output are calculated.
+
+A.ID.10.H. Serial number of the holding.
+
+**A.LO. Location of the holding**
+
+The location of the holding is given with two indications: the INSPIRE grid code and the code of the NUTS level 3 territorial units.
+
+A.LO.25.GR. The cell code of the 1 km INSPIRE Statistical Units Grid for pan-European usage, as established by Commission Regulation (EU) No 1089/2010 ( 7 ) where the farm is located. This code shall be used only for transmission purposes.
+
+For data dissemination purposes, in addition to the normal disclosure control mechanisms for tabular data, nested grids shall be used to ensure that there are more than 15 agricultural holdings in the grid or within a NUTS administrative unit.
+
+A.LO.40.N. The NUTS3 code means the code of the NUTS level 3 territorial unit where the holding is located. The latest version of the code as described in Regulation (EC) No 1059/2003 shall be given.
+
+**A.AI. Accounting information**
+
+A.AI.60.C. Type of accounting: an indication shall be given on the type of accounting that the farm keeps. The following code numbers shall be used:
+
+1 Double-entry accounting
+
+2 Single-entry accounting
+
+3 None
+
+A.AI.70.DT. Date of closure of accounts: to be recorded in format “YYYY-MM-DD”, for example 2009-06-30 or 2009-12-31
+
+**A.TY. Typology**
+
+A.TY.80.W. National weight of the farm: the value of the extrapolating factor calculated by the Member State shall be given.
+
+A.TY.90.TF. Type of farming at the time of selection: holding type of farming code in accordance with Annex IV to this Regulation at the time of selection for the reporting year in question.
+
+A.TY.90.ES. Economic size at the time of selection: economic size class code of holding in accordance with Annex V to this Regulation at the time of selection for reporting year in question.
+
+**A.CL. Classes**
+
+A.CL.100.C. Other gainful activities directly related to the holding: to be provided as a percentage band indicating the share of turnover ( 8 ) coming from the other gainful activities directly related to the holding in the total farm turnover. The following code numbers are to be used:
+
+1 ≥ 0 to ≤ 10 % (marginal share)
+
+2 > 10 % to ≤ 50 % (medium share)
+
+3 > 50 % to &lt; 100 % (significant share)
+
+A.CL.110.C. Type of ownership/economic objective: an indication of what are the ownership and economic objectives of the holding shall be given. The following code numbers shall be used:
+
+1 family farm: the holding uses the labour and capital of the holder(s)/manager(s) and his/her family and they are the beneficiaries of the economic activity
+
+2 partnership: the production factors for the holding are provided by several partners, at least some of whom participate in the work of the farm as unpaid labour. The benefits go to the partnership
+
+3 company with profit objective: the benefits are used to remunerate shareholders with dividends/profits. The holding is owned by the company
+
+4 company with non-profit objective: the benefits are used primarily to maintain employment or similar social objective. The holding is owned by the company
+
+A.CL.120.C. Legal status: an indication shall be given whether the holding is a legal person or not. The following code numbers are to be used:
+
+0 False
+
+1 True
+
+A.CL.130.C. Level of liability of the holder(s): an indication shall be given on the level of liability (economic responsibility) of the (main) holder. The following code numbers are to be used:
+
+1 Full.
+
+2 Partial.
+
+A.CL.140.C. organic farming: an indication shall be given whether the holding applies organic production methods, within the meaning of Regulation (EU) No 2018/848 of the European Parliament and of the Council ( 9 ), in particular Articles 4 and 5 thereof. The following code numbers are to be used:
+
+1 the holding does not apply organic production methods
+
+2 the holding applies only organic production methods for all its products
+
+3 the holding applies both organic and other production methods
+
+4 the holding is converting to organic production methods
+
+A.CL.142.DT. Year in which the farm started the conversion to organic: year is to be given in in format “YYYY”.
+
+A.CL.145.C. Share of organic farming products sold as organic in certified farms: in case a holding is certified for organic farming, to be provided as a percentage band indicating the share of sales in monetary values of products sold as organic on the total farm sales. The following code numbers are to be used:
+
+1 0 %
+
+2 > 0 to ≤ 25 %
+
+3 > 25 % to ≤ 50 %
+
+4 > 50 % to ≤ 75 %
+
+5 > 75 % to &lt; 100 %
+
+6 100 %
+
+A.CL.150.C. ‘Protected Designation of Origin’ / ‘Protected Geographical Indication’ / ‘Traditional Speciality Guaranteed’ / ‘mountain product’: an indication is to be given whether the holding produces agricultural products and/or foodstuffs protected by a Protected Designation of Origin (PDO), a Protected Geographical Indication (PGI), a Traditional Speciality Guaranteed (TSG) or a mountain product indications or whether it produces agricultural products which are known to be used to produce foodstuffs protected by PDO/PGI/TSG/‘mountain product’, within the meaning of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 10 ). The following code numbers are to be used:
+
+1 the holding does not produce any product or foodstuff protected by PDO, PGI, TSG or ‘mountain product’ indications, nor any product known to be used to produce foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications;
+
+2 the holding produces only products or foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications, and/or products known to be used to produce foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications;
+
+3 the holding produces some products or foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications, and/or some products known to be used to produce foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications.
+
+A.CL.151.C. Sectors with Protected Designation of Origin / Protected Geographical Indication / Traditional Speciality Guaranteed / mountain product: if the majority of the production of some specific sectors is made of products or foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications and/or of products known to be used to produce foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications, an indication of the sectors of production should be given (multiple selections are allowed). The code numbers listed below are to be used. When the holding produces some products or foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications or some products known to be used to produce foodstuffs protected by PDO, PGI, TSG or ‘mountain product’ indications, but it does not account for the majority of production in that particular sector, the code for ‘not applicable’ is to be used. The following code numbers are to be used:
+
+0 not applicable
+
+31 cereals
+
+32 oilseeds and protein crops
+
+33 fruits and vegetables (including citrus fruits, but excluding olives)
+
+34 olives
+
+35 vineyards
+
+36 beef
+
+37 cow's milk
+
+38 pigmeat
+
+39 sheep and goats (milk and meat)
+
+40 poultry meat
+
+41 eggs
+
+42 other sector
+
+The items A.CL.150.C. Protected Designation of Origin / Protected Geographical Indication / Traditional Speciality Guaranteed / mountain product and A.CL.151.C are optional for the Member States. If they are applied by the Member State, they shall be filled in for all sample farms of the Member State. If A.CL.150.C is applied, A.CL.151.C shall be applied as well.
+
+A.CL.160.C. Areas facing natural and other specific constraints: An indication is to be given of whether the majority of the utilised agricultural area of the holding is situated in an area covered by Article 32 of Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 11 ). The following code numbers are to be used:
+
+1 the majority of the utilised agricultural area of the holding is not situated in an area facing natural and other specific constraints, within the meaning of Article 32 of Regulation (EU) No 1305/2013;
+
+21 the majority of the utilised agricultural area of the holding is situated in an area facing significant natural constraints, within the meaning of Article 32(3) of Regulation (EU) No 1305/2013;
+
+22 the majority of the utilised agricultural area of the holding is situated in an area affected by specific constraints, within the meaning of Article 32(4) of Regulation (EU) No 1305/2013;
+
+3 the majority of the utilised agricultural area of the holding is situated in a mountain area within the meaning of Article 32(2) of Regulation (EU) No 1305/2013.
+
+A.CL.170.C. Altitude: The altitude is to be indicated by the corresponding code number:
+
+1 the major part of the holding is located at &lt; 300 m;
+
+2 the major part of the holding is located at 300 to 600 m;
+
+3 the major part of the holding is located at > 600 m.
+
+A.CL.190.C. Natura 2000 area: an indication is to be given of whether the majority of the utilised agricultural area of the holding is situated in areas related to the implementation of Directive 2009/147/EC of the European Parliament and of the Council ( 12 ) and Council Directive 92/43/EEC ( 13 ) (Natura 2000). The following code numbers are to be used:
+
+1 the majority of the utilised agricultural area of the holding is not situated in a Natura 2000 area;
+
+2 the majority of the utilised agricultural area of the holding is situated in a Natura 2000 area.
+
+A.CL.200.C. Water Framework directive (Directive 2000/60/EC) area: an indication is to be given of whether the majority of the utilised agricultural area of the holding is situated in areas eligible for payments to compensate for disadvantages imposed by requirements resulting from the implementation of Directive 2000/60/EC of the European Parliament and of the Council ( 14 ), as established by national CAP Strategic Plans pursuant to Article 72 of Regulation (EU) 2021/2115 ( 15 ). The following code numbers are to be used:
+
+1 the majority of the utilised agricultural area of the holding is not situated in an area eligible to payments to compensate disadvantages imposed by requirements resulting from the implementation of Directive 2000/60/EC;
+
+2 the majority of the utilised agricultural area of the holding is situated in an area eligible to payments to compensate disadvantages imposed by requirements resulting from the implementation of Directive 2000/60/EC.
+
+**A.OT. Other particulars concerning the holding**
+
+A.OT.210.C. Irrigation system: an indication is to be given on the main irrigation system used on the farm in the reporting year:
+
+0 not applicable (when no irrigation occurred on the farm)
+
+1 surface
+
+2 sprinkler
+
+3 drip
+
+4 other
+
+A.OT.220.C. Livestock unit grazing days on common land: Number of livestock unit grazing days by farm animals on common land used by the holding.
+
+A.OT.230.C Member of Producer Organisations (POs): Indication if the farm (farm holder(s) or manager(s)) is a member of a producer organisation which shares costs and/or promotes the marketing of agricultural products, and if yes, which of the farm’s products are marketed by the producer organisation (choose all sectors covered by POs the farm is a member of). For the purpose of this survey, “producer organisations” mean any type of entity that has been formed at the initiative of producers to pursue joint activities in a specific sector (horizontal cooperation). Producer organisations must be controlled by producers, they can take different legal forms e.g. agricultural cooperatives, farmers’ associations, or private companies with producers as shareholders.
+
+0 not a member of a producer organisation
+
+A member of a producer organisation to share production, administrative and investments costs and/or, a member of a producer organisation to market the farm’s products such as:
+
+31 Cereals
+
+32 oilseeds and protein crops
+
+33 fruits and vegetables (including citrus fruits, but excluding olives)
+
+34 olives
+
+35 vineyards
+
+36 beef
+
+37 cow’s milk
+
+38 pigmeat
+
+39 sheep and goats (milk and meat)
+
+40 poultry meat
+
+41 eggs
+
+42 other sector.
+
+A.OT.231.C Economic relevance of Producer Organisations (POs) to the farm: Indication of the share of the farm’s overall production (total sales), in terms of value, that is marketed through the producer organisations.
+
+1 ≥ 0 to ≤ 10 % (marginal share)
+
+2 > 10 % to ≤ 50 % (medium share)
+
+3 > 50 % to ≤ 100 % (significant share)
+
+A.OT.232.C Number of members of Producer Organisations (POs): Indication of the size of the main PO of which the farm (farm holder(s) or manager(s)) is a member. The ‘main PO’ is the PO that markets most of the farm’s production (in terms of value).
+
+1 PO has less than 10 members
+
+2 PO has 10 to 19 members
+
+3 PO has 20 to 49 members
+
+4 PO has 50 to 99 members
+
+5 PO has 100 to 499 members
+
+6 PO has 500 to 999 members
+
+7 PO has 1 000 members (or more)
+
+Germany is exempt from submitting data relating to variables A.OT.230.C, A.OT.231.C and A.OT.232.C for the reporting year 2026.
+
+A.OT.240.C Participation in mutual funds: An indication is to be provided on whether the farmer participates in a mutual fund. A mutual fund is a scheme accredited by a Member State in accordance with its national law for affiliated farmers to insure themselves, whereby compensation payments are made to affiliated farmers who experience economic losses. The establishment of mutual funds can be encouraged by different kinds of public support, among them: i) contribution to start-up capital; ii) governmental allowances to annual contributions to the fund, including by farmers; iii) compensation of payments made to farmers; iv) fiscal incentives to the deposits of funds. An example of public support for mutual funds can be found in Article 76(3), point (b), of Regulation (EU) 2021/2115, according to which Member States may grant financial contributions to mutual funds, including for the administrative cost of setting up.
+
+The following code numbers are to be used:
+
+0 No, the farmer does not participate in any mutual fund.
+
+1 Yes, the farmer participates in a mutual fund.
+
+A.OT.241.C Compensation of losses: An indication is to be provided whether the farmer filed an application for compensation of losses due to extreme events inside or outside the insurance schemes for which the costs of insurance premiums are recorded in Table H under codes 5051 and/or 5055 . Compensation outside the insurance schemes may be relevant either because the farmer is not insured or because the farmer’s insurance does not cover the damage. If no such costs are recorded in Table H, it means that the application for compensation of losses due to extreme events was filed under ex-post crisis support schemes such as CAP agricultural reserve, EU Solidarity Fund, State aid, etc.
+
+The following code numbers are to be used:
+
+0 No
+
+1 Yes, under an insurance contract
+
+2 Yes, under a public ex-post crisis support schemes
+
+3 Yes, both.
+
+**COLUMNS IN TABLE A**
+
+Column R refers to the FSDN division, column S to the subdivision, column H to the serial number of the holding, column GR to the INSPIRE Statistical Units Grid, column N to the NUTS, column DT to the date, column W to the weight of the farm, column TF to the type of farming, column ES to the economic size class, and column C to the code.
+
+**Table B**
+
+**Type of occupation**
+
+<table>
+<tbody><tr><td colspan="2">Category of Utilised agricultural area (UAA)</td><td>Code (*)</td></tr>
+<tr><td colspan="2">Group of information</td><td>Utilised Agricultural Area</td></tr>
+<tr><td>  </td><td>  </td><td>A</td></tr>
+<tr><td>UO</td><td>UAA for owner farming</td><td>  </td></tr>
+<tr><td>UT</td><td>UAA for tenant farming</td><td>  </td></tr>
+<tr><td>US</td><td>UAA for sharecropping or other modes</td><td>  </td></tr>
+</tbody>
+</table>
+
+| Code (*) | Description of categories | Group | A |
+| --- | --- | --- | --- |
+| 10 | UAA for owner farming | UO |  |
+| 20 | Rented UAA | UT |  |
+| 30 | Sharecropped UAA | US |  |
+
+Land of holdings held in common by two or more partners is to be recorded as owner-occupied, rented or sharecropped according to the arrangement in force between the partners.
+
+Utilised agricultural area (UAA) is the total area consisting of arable land, permanent grassland, permanent crops and kitchen gardens used by the holding regardless of the type of tenure. Common land used by the holding is not to be included.
+
+The following groups of information and categories shall be used:
+
+**B.UO. UAA for owner farming**
+
+B.UO.10.A UAA (arable land, permanent grassland, permanent crops and kitchen gardens) of which the farmer is the owner, tenant for life or leaseholder and/or UAA held on similar terms.
+
+**B.UT. UAA for tenant farming**
+
+B.UT.20.A UAA (arable land, permanent grassland, permanent crops and kitchen gardens) worked by a person other than the owner, tenant for life or leaseholder, holding a tenancy on the said area (the rent is payable in cash and/or in kind; being generally fixed in advance, it does not normally vary with the farming results) and/or UAA farmed on similar terms of tenure.
+
+Rented area does not include land the harvest of which is bought as a standing crop. The sums paid for the purchase of standing crops is to be provided in table H under codes 2020 to 2040 (purchased feedstuffs) in the case of grassland or fodder crops and under code 3090 (other specific crop costs) in the case of marketable crops (products which are usually marketed). Marketable crops bought standing are to be provided without specifying the area in question (table H).
+
+Land rented for less than one year on an occasional basis and the production thereof is to be treated in a similar way as land the harvest of which is bought as a standing crop.
+
+**B.US. UAA for sharecropping or other modes**
+
+B.US.30.A UAA (arable land, grassland and permanent pasture, permanent crops and kitchen gardens) farmed jointly by the grantor and the sharecropper on the basis of a sharecropping agreement and/or utilised agricultural area farmed on similar terms.
+
+**COLUMNS IN TABLE B**
+
+Column A refers to UAA.
+
+**Table C**
+
+**Labour**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Table C</td></tr>
+<tr><td colspan="2">Labour</td></tr>
+<tr><td>Category of labour</td><td>Code (*)</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="12">Columns</td></tr>
+<tr><td colspan="2" rowspan="4">Group of information</td><td colspan="6">General</td><td colspan="2">Total work on the holding (agricultural work and work for OGA directly related to the holding)</td><td>Share of work for OGA directly related to the holding</td><td colspan="2">Average wage</td><td>Social security</td></tr>
+<tr><td>Number of persons</td><td>Gender</td><td>Men</td><td>Women</td><td>Year of birth</td><td>Agricultural training of the manager</td><td>Annual time worked</td><td>Annual Work Units</td><td>% of annual time worked</td><td>Wage per year</td><td>Wage per hour</td><td>Retirement</td></tr>
+<tr><td>P</td><td>G</td><td>G1</td><td>G2</td><td>B</td><td>T</td><td>Y1</td><td>W1</td><td>Y2</td><td>AW</td><td>AW1</td><td>R</td></tr>
+<tr><td>Integer</td><td>Code</td><td>Integer</td><td>Integer</td><td>Four digits</td><td>Code</td><td>hours</td><td>AWU</td><td>%</td><td>National currency</td><td>National currency</td><td>Code</td></tr>
+<tr><td>UR</td><td>Unpaid regular</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>UC</td><td>Unpaid non-regular</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>PR</td><td>Paid regular</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>PC</td><td>Paid non-regular</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td></tr>
+<tr><td>EX</td><td>External</td><td>  </td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Code(*)</td><td>Description</td><td>Group</td><td>P</td><td>G</td><td>G1</td><td>G2</td><td>B</td><td>T</td><td>Y1</td><td>W1</td><td>Y2</td><td>AW</td><td>AW1</td><td>R</td></tr>
+<tr><td rowspan="2">10</td><td>Holder(s)/manager(s)</td><td>UR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>  </td><td>PR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>20</td><td>Holder(s)/not manager(s)</td><td>UR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>PR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>30</td><td>Manager(s)/not holder(s)</td><td>UR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>50</td><td>Other</td><td>UR</td><td>  </td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>PR</td><td>  </td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>60</td><td>Non-regular workers</td><td>UC</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>PC</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td></tr>
+<tr><td>70</td><td>Paid manager(s)</td><td>PR</td><td>—</td><td>  </td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>80</td><td>External workers</td><td>EX</td><td>  </td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>  </td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+The term ‘labour’ includes all persons who have been engaged on work on the farm during the reporting year. However, some data are to be provided also for persons who have done this work on behalf of another person or undertaking (external workers whose costs are included in table H under code 1020 ).
+
+In the case of mutual assistance between holdings, where this assistance consists of an exchange of work, the assistance received being equivalent in principle to the assistance given, the time worked by the farm labour and any related wages are specified in the farm return.
+
+Sometimes assistance received is offset by assistance of another kind (e.g. aid received in the form of work is offset by the supply of machinery). When the exchange of services is on a limited scale, nothing is to be indicated in the farm return (in the above example, the aid received is not shown under labour; machinery costs, however, include the costs of making the equipment available). In exceptional cases, when the exchange of services is on a large scale, the procedure is one of the following:
+
+(a) assistance received in the form of work is offset by a service of another kind (e.g. the supply of machinery): working time received is recorded as paid farm work (groups PR or PC depending on whether the labour is employed on the farm on a regular basis or otherwise); the value of the assistance given is recorded both as production under the corresponding category in other tables (in this example, table L code 2010 ‘Contractual work’) and as a cost (table H code 1010 ‘Wages and social security’);
+
+(b) assistance given in the form of work is offset by a service of another kind (e.g. the supply of machinery): in this situation the working time provided and any related wages are left out of consideration; the value of the service received is recorded as an input under the corresponding group in another table (in this example, table H code 1020 ‘Contract work and machinery hire’).
+
+The following groups of information and categories of labour are to be distinguished:
+
+**C.UR. Unpaid regular labour**
+
+Unpaid labour or labour which receives less remuneration (in cash or in kind) than the amount normally paid for the services rendered (such payment should not appear in farm costs) and which during the reporting year participated (outside normal holidays) for at least a whole day of each week.
+
+A person employed regularly on a farm, but engaged for a limited period in the reporting year due to special reasons, is nevertheless entered (for the number of hours worked) as regular labour.
+
+The following cases or similar ones may arise:
+
+(a) special production conditions on the farm for which labour is not required throughout the year: e.g. olive or wine holdings, and farms specialising in the seasonal fattening of animals or in the production of fruit and vegetables in the open;
+
+(b) absence from work other than for normal holidays, e.g. military service, illness, accident, maternity, extended leave, etc.;
+
+(c) joining or leaving the holding;
+
+(d) total cessation of work on the holding due to accidental causes (flood, fire, etc.).
+
+There are the following categories:
+
+**C.UR.10. Holder(s)/manager(s)**
+
+Person who assumes economic and legal responsibility for the holding and undertakes its day-to-day management. In the case of sharecropping, the sharecropper is indicated as holder/manager.
+
+**C.UR.20. Holder(s)/not manager(s)**
+
+Person who assumes economic and legal responsibility for the holding without undertaking its day-to-day management.
+
+**C.UR.30. Manager(s)/not holder(s)**
+
+Person who undertakes day-to-day management of the holding without assumption of economic and legal responsibility for it.
+
+**C.UR.50. Other unpaid regular labour**
+
+Regular unpaid labour not included in the preceding categories also includes foreman and sub-managers not responsible for management of the whole farm.
+
+**C.UC. Unpaid non-regular labour**
+
+C.UC.60. Unpaid labour which has not worked regularly on the holding during the reporting year is aggregated under this category.
+
+**C.PR. Paid regular labour**
+
+Labour paid (in cash and/or in kind) on the normal scale for services rendered and which during the reporting year (excluding normal holidays) worked for at least one whole day per week for the holding.
+
+The following categories are to be shown:
+
+**C.PR.10. Holder(s)/manager(s)**
+
+Person who assumes economic and legal responsibility for the holding and undertakes its day-to-day management. In the case of sharecropping, the sharecropper is indicated as holder/manager.
+
+**C.PR.20. Holder(s)/not manager(s)**
+
+Person who assumes economic and legal responsibility for the holding without undertaking its day-to-day management.
+
+**C.PR.70. Paid manager(s)**
+
+Salaried person responsible for the day-to-day management of the holding.
+
+**C.PR.50. Other paid regular labour**
+
+All regular paid labour (except for the holding’s salaried manager) is aggregated under this group. Includes also foreman and sub-managers not responsible for management of the whole farm
+
+**C.PC. Paid non-regular labour**
+
+C.PC.60. Paid labour which did not regularly work on the holding during the reporting year (including piece workers) is aggregated under this category.
+
+**C.EX External**
+
+**C.EX.80. External workers**
+
+Workers recruited via third parties (e.g., temporary employment agencies). External workers are not part of the farm’s payroll; nevertheless, they are managed by the holder/manager. These workers may be regular or non-regular.
+
+**COLUMNS IN TABLE C**
+
+Number of persons (column P)
+
+The number of persons shall be indicated for all groups of categories 50, 60 and 80.
+
+Gender (column G)
+
+Gender shall be specified for the holder(s), manager(s) in the categories where they can appear (categories 10 to 30 and 70 from groups ‘regular unpaid labour’ UR or ‘regular paid labour’ PR). The gender is indicated by a code number, i.e.:
+
+1 man
+
+2 woman
+
+Member States that have legal provisions or practices recognising that individuals may not fall into male and female categories or may not wish to be associated with one of them may use additional codes.
+
+Men, Women (columns G1 and G2)
+
+The number of men and women shall be given only for categories 50 from groups ‘unpaid regular labour’ UR and ‘paid regular labour’ PR and 80 from the group ‘external’ EX. For category 80 ‘external workers’ this information is optional.
+
+Member States that have legal provisions or practices recognising that individuals may not fall into male and female categories or may not wish to be associated with one of them may use additional columns.
+
+Year of birth (column B)
+
+The year of birth shall be given only for the holder(s) and/or manager(s), (categories 10 to 30 and 70 from groups ‘regular unpaid labour’ UR or ‘regular paid labour’ PR) using the four figures of the year of birth.
+
+Agricultural training of the manager (column T)
+
+The agricultural training shall be given only for the manager(s) (categories 10, 30 and 70 from groups ‘unpaid regular labour’ UR or ‘paid regular labour’ PR). The agricultural training is indicated by a code number, i.e.:
+
+1 only practical agricultural experience
+
+2 basic agricultural training
+
+3 full agricultural training
+
+Total work on the holding (agricultural work and work for OGA directly related to the holding)
+
+Work on the holding includes all the work of organisation, supervision and execution, both manual and administrative, done in connection with the farm agricultural work and the work related to the OGA directly related to the holding:
+
+Farm agricultural work:
+
+— financial organisation and management (farm sales and purchases, bookkeeping, etc.),
+
+— work in the field (ploughing, sowing, harvesting, orchard maintenance, etc.),
+
+— livestock husbandry (feed preparation, feeding of animals, milking, care of livestock, etc.),
+
+— preparation of products for market, storage, direct sales of farm products, processing of farm products for self-consumption, production of wine and olive oil,
+
+— maintenance of buildings, machinery, equipment, hedges, ditches, etc.,
+
+— transport for the holding and carried out by the labour force of the holding.
+
+Work for the OGA directly related to the holding
+
+— contractual work (using production means of the holding),
+
+— tourism, accommodation and other leisure activities,
+
+— processing of farm products (whether the raw material is produced on the holding or bought from outside), e.g. cheese, butter, processed meat…,
+
+— production of renewable energy,
+
+— forestry and wood processing,
+
+— other OGA (care farming, handicraft, aquaculture, …).
+
+The following are not included in the work of the holding:
+
+— work in production of fixed assets (construction or major repairs of buildings or machinery, planting of orchards, demolition of buildings, grubbing up of orchards, etc.),
+
+— work performed for the household of the holder(s) or manager(s).
+
+Annual time worked (column Y1)
+
+Time worked shall be indicated in hours for all groups and categories. It shall refer to the time devoted to the work of the holding. In the case of less able workers the time worked shall be reduced in proportion to their capacities. The time worked by piece-work labour is estimated by dividing the total amount paid for the work by the hourly wage of a worker employed on a time basis.
+
+Annual work units (column W1)
+
+Regularly employed work force is converted into annual work units. The number of annual work units is not recorded for non-regular labour (category 60 of both unpaid UC and paid PC labour) and for category 80 external workers EX. One annual work unit is equivalent to one person working full-time on the holding. One person cannot exceed one work unit equivalent, even if their actual working time exceeds the norm for the region and type of holding. A person who does not work the whole year on the holding represents a fraction of an ‘annual unit’. The ‘annual work unit’ of each such person is obtained by dividing their actual annual working time by the normal annual working time of a full-time worker in the region under consideration and on the same type of holding.
+
+In the case of less able workers the annual work unit equivalent shall be reduced in proportion to their capacities.
+
+Share of work for OGA in % of annual time worked (column Y2)
+
+The share of work for OGA in terms of time worked is compulsory for all categories. It is given in % of hours worked during the reporting year.
+
+Wages and social security costs per year (column AW)
+
+Wages and social security costs for paid labour per year (explanations are provided in table H under code 1010 ) shall be provided for the categories 10, 20, 50 and 70 under the group ‘paid regular labour’ PR. For categories 10, 20, 70 it refers to each person whereas for category 50 it should be an average amount.
+
+Wages and social security costs per hour (column AW1)
+
+Average wages and social security costs for paid labour per hour (explanations are provided in table H under code 1010 ) shall be provided for the category 60 under the group ‘paid non-regular labour’ PC.
+
+Retirement (column R)
+
+An indication shall be given whether the holders and/or managers will be entitled to a retirement pension (mandatory and/or complementary, for their work in agriculture and/or in other sectors). This information shall be given only for unpaid regular labour (UR) for the categories 10, 20 and 30.
+
+The retirement scheme coverage is indicated by a code number, i.e.:
+
+1 yes (the person will be entitled to a retirement pension)
+
+2 no (the person will not be entitled to a retirement pension)
+
+**Table D**
+
+**Assets and investments**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category of assets</td><td>Code (*)</td></tr>
+<tr><td colspan="2">  </td><td>Column</td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Value</td></tr>
+<tr><td>V</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td>  </td></tr>
+<tr><td>AD</td><td>Accumulated depreciation</td><td>  </td></tr>
+<tr><td>DY</td><td>Depreciation of the current year</td><td>  </td></tr>
+<tr><td>IP</td><td>Investment/Purchase, before deduction of subsidies</td><td>  </td></tr>
+<tr><td>S</td><td>Subsidies</td><td>  </td></tr>
+<tr><td>SA</td><td>Sales</td><td>  </td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td>  </td></tr>
+</tbody>
+</table>
+
+| Code (*) | Description of categories | OV | AD | DY | IP | S | SA | CV |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1005 | Cash, receivables, other current assets and equivalents |  | — | — | — | — | — |  |
+| 1040 | Inventories |  | — | — |  |  |  |  |
+| 2010 | Biological assets – plants |  |  |  |  |  |  |  |
+| 3010 | Agricultural land |  | — | — |  |  |  |  |
+| 3020 | Land improvements |  |  |  |  |  |  |  |
+| 3030 | Farm buildings |  |  |  |  |  |  |  |
+| 4010 | Machinery and equipment |  |  |  |  |  |  |  |
+| 5010 | Forest land including standing timber |  | — | — |  |  |  |  |
+| 7005 | Intangible assets |  |  |  |  |  |  |  |
+| 8010 | Other non-current assets |  |  |  |  |  |  |  |
+
+The following categories of assets shall be used:
+
+1005\. Cash, receivables, other current assets and equivalents
+
+Cash and other assets that can be easily converted to cash. Short-term assets, amounts owed to the holding, normally arising from business activities. Any other assets that are easily sold or expected to be paid within a year.
+
+1040\. Inventories
+
+Stocks of products owned by the holding that can be used either as inputs or are held for sale whether produced by the holding or purchased.
+
+2010\. Biological assets — plants
+
+Values of all plants that have not been harvested yet (all permanent and standing crops). Accumulated depreciation (D.AD) and Depreciation of the current year (D.DY.) are to be only reported for Permanent crops.
+
+3010\. Agricultural land
+
+Agricultural land owned by the holding.
+
+3020\. Land improvements
+
+Land improvements (e.g. fencing, drainage, fixed irrigation equipment) belonging to the holder irrespective of the type of occupancy of the land. The amounts entered are subject to depreciation at column DY.
+
+3030\. Farm buildings
+
+Buildings belonging to the holder whatever the type of occupancy of the land. The heading shall be completed and the amounts entered are subject to depreciation at column DY.
+
+4010\. Machinery and equipment
+
+Tractors, motor cultivators, lorries, vans, cars, major and minor farming equipment. The heading must be completed and the amounts entered are subject to depreciation at column DY.
+
+5010\. Forest land including standing timber
+
+Forest land in owner occupation included in the agricultural holding.
+
+7005\. Intangible assets
+
+All intangible assets that can be easily bought or sold (e.g. quotas and rights when they are tradable without land and an active market exists), as well as those that cannot easily be bought or sold (e.g. software, licences, etc.). The heading shall be completed and the amounts entered are subject to depreciation in column DY.
+
+All other intangible assets that cannot easily be bought or sold (e.g. software, licences, etc.). The heading shall be completed and the amounts entered are subject to depreciation in column DY.
+
+8010\. Other non-current assets
+
+Other long-term assets. The heading shall be completed and, if applicable, the amounts of depreciation recorded at column DY.
+
+**Groups of information in Table D**
+
+The groups of information are: (OV) opening valuation, (AD) accumulated depreciation, (DY) depreciation of the current year, (IP) investment or purchase before deduction of subsidies, (S) subsidies, (SA) sales, (CV) closing valuation. They are explained hereafter.
+
+There is only one column (V) value.
+
+**Valuation methods**
+
+The following valuation methods are used:
+
+| Fair value less the estimate point-of-sale costs | amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm’s length transaction less the cost estimated to incur in relation to the sale | 3010 , 5010 , 7005 if tradeable |
+| --- | --- | --- |
+| Historical cost | nominal or original cost of an asset when acquired | 2010 , 3020 , 3030 , 4010 , 7005 if non-tradeable |
+| Book value | value at which an asset is carried on a balance sheet | 1005 , 1040 , 8010 |
+
+**D.OV. Opening valuation**
+
+Opening valuation is the value of assets at the beginning of the reporting year. For the farms present in the sample also in the previous year, the opening valuation has to be equal to the closing valuation of the previous year.
+
+**D.AD. Accumulated depreciation**
+
+Accumulated depreciation is the sum of depreciation of assets from the start of its life until the end of the previous period.
+
+**D.DY. Depreciation of the current year**
+
+Systematic allocation of the depreciable amount of an asset over its useful life.
+
+A table with the annual rates of depreciation applied by each Member State shall be communicated to the Commission in due time for the set-up of the computerised delivery and control system referred to in Article 11(1) of this Regulation.
+
+**D.IP. Investments/Purchases**
+
+Total expenditure on purchases, major repairs and the production of fixed assets during the reporting year. Where grants and subsidies have been received in respect of these investments, the amount expended before deducting the said grants and subsidies is to be entered in column IP.
+
+Purchases of minor items of machinery and equipment as well as of young trees and bushes for a minor replanting operation do not appear in these columns but are included in the costs for the reporting year.
+
+Major repairs which effectively increase the value of the machinery and equipment compared to their value before repair, are also included under this column, either as an integral part of the machinery or equipment depreciation, which, as appropriate, will be adjusted to take account of the extended life (due to the repairs) of the item in question or by spreading the cost of the major repairs over the expected useful life.
+
+The value of the fixed assets produced is to be assessed on the basis of their cost (including the value of the paid and/or unpaid labour) and shall be added to the value of the fixed assets given under codes 2010 to 8010 of table D ‘Assets’.
+
+**D.S. Investment subsidies**
+
+Current portion of all subsidies received (in previous or current reporting years) for assets recorded in this table.
+
+**D.SA. Sales**
+
+Total sales of assets during the reporting year.
+
+**D.CV. Closing valuation**
+
+Closing valuation is the value of assets at the end of the reporting year.
+
+**Comments**
+
+For items 3010 and 5010 the difference between OV + IP-SA and CV is considered as an income or loss (coming from both change in unit price and volume) for these assets for the reporting year.
+
+Information about Biological assets — animals is recorded in the table J ‘Livestock production’.
+
+**Table E**
+
+**Quotas and other rights**
+
+<table>
+<tbody><tr><td colspan="6">TABLE E</td></tr>
+<tr><td colspan="6">Quotas and other rights</td></tr>
+<tr><td colspan="2">Category of quota or right</td><td>Code(*)</td><td colspan="3">  </td></tr>
+<tr><td colspan="6">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="4">Columns</td></tr>
+<tr><td colspan="2">Group of information</td><td>Owned quota</td><td>Rented in quota</td><td>Rented out quota</td><td>Taxes</td></tr>
+<tr><td>  </td><td>  </td><td>N</td><td>I</td><td>O</td><td>T</td></tr>
+<tr><td>QQ</td><td>Quantity at the end of the reporting year</td><td>  </td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>QP</td><td>Quota purchase</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>QS</td><td>Quota sold</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>PQ</td><td>Payments for quota leased or rented in quota</td><td>—</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>RQ</td><td>Receipts from leasing or renting out quota</td><td>—</td><td>—</td><td>  </td><td>—</td></tr>
+<tr><td>TX</td><td>Taxes</td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+</tbody>
+</table>
+
+Code(*) Description
+
+50 Organic manure
+
+60 Entitlements for payments under basic payment scheme and entitlements for payments under basic income support for sustainability
+
+The quantities of quota (owned quota, rented-in quota and rented-out quota) are compulsory items. Only the quantity as of the end of the reporting year is recorded.
+
+The values concerning quotas which can be traded separately from associated land are recorded in this table. The quotas which cannot be traded separately from associated land are only recorded in Table D ‘Assets’. The quotas originally acquired freely must be entered as well and valuated at current market values if they can be traded separately from land.
+
+Some data entries are simultaneously included, individually or as components of aggregates, at other groups or categories in Tables D ‘Assets’, H ‘Inputs’ and/or I ‘Crops’.
+
+The following categories must be used:
+
+50 Organic manure
+
+60 Entitlements for payments under the basic payment scheme and entitlements for payments under basic income support for sustainability.
+
+The following groups of information must be used:
+
+**E.QQ. Quantity (to be recorded for columns N, I, O only)**
+
+The units to be used are:
+
+* Category 50 (organic manure): number of animals converted with standard conversion factors for manure excretion,
+
+* Category 60 (basic payment scheme and basic income support for sustainability): number of entitlements
+
+**E.QP. Quota purchased (to be recorded for column N only)**
+
+The amount paid for purchase during the reporting year of quotas or other rights which can be traded separately from associated land should be recorded.
+
+**E.QS. Quota sold (to be recorded for column N only)**
+
+The amount received for sale during the reporting year of quotas or other rights which can be traded separately from associated land should be recorded.
+
+**E.OV. Opening valuation (to be recorded for column N only)**
+
+The value at opening valuation of the quantities at the holder’s own disposal, whether originally acquired freely or purchased, should be recorded at current market values, if the quotas can be traded separately from associated land.
+
+**E.CV. Closing valuation (to be recorded for column N only)**
+
+The value at closing valuation of the quantities at the holder’s own disposal, whether originally acquired freely or purchased, should be recorded at current market values if the quotas can be traded separately from associated land.
+
+**E.PQ. Payments for quota leased or rented in quota (to be recorded for column I only)**
+
+Amount paid for leasing or renting of quotas or other rights. Also included in rent paid under category 5070 (Rent paid) in Table H ‘Inputs’.
+
+**E.RQ. Receipts from leasing or renting out quota (to be recorded for column O only)**
+
+Amount received for renting or leasing of quotas or other rights. Also included under category 90900 (‘Other’) in Table I ‘Crops’.
+
+**E.TX. Taxes, additional levy (column T)**
+
+Amount paid.
+
+**COLUMNS IN TABLE E**
+
+Column N refers to owned quota, column I to rented-in quota, column O to rented-out quota, and column T to taxes.
+
+**Table F**
+
+**Debts and credits**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category of debts</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="2">  </td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Short term</td><td>Long-term</td></tr>
+<tr><td>S</td><td>L</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td>  </td><td>  </td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+| Code (*) | Description of categories | S | L |
+| --- | --- | --- | --- |
+| 1010 | Commercial standard |  |  |
+| 1020 | Commercial special |  |  |
+| 1030 | Family/private loans |  |  |
+| 2010 | Payables |  | — |
+| 3000 | Other liabilities |  |  |
+
+Liabilities of the holding: the amounts indicated shall relate only to amounts still outstanding, i.e., loans contracted minus the repayments already made.
+
+The following categories are to be used:
+
+— 1010. Debt — commercial standard — refers to loans not supported by any public policy targeting loan-taking.
+
+— 1020. Debt — commercial special — refers to loans benefiting from a public policy support (interest subsidies, guarantees, etc.).
+
+— 1030. Debt — family/private loans — loans concluded with a physical person thanks to their family/private relationship with the debtor.
+
+— 2010. Payables — amounts owed to suppliers.
+
+— 3000. Other liabilities — liabilities other than loans or payables.
+
+Two groups of information are to be registered: (OV) opening valuation and (CV) closing valuation.
+
+There are two columns: (S) short-term liabilities and (L) long-term liabilities:
+
+— Short-term liabilities — debt and other liabilities in respect of the holding due in less than one year.
+
+— Long-term liabilities — debt and other liabilities in respect of the holding for duration of one year and over.
+
+**Table G**
+
+**Value added tax (VAT)**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category of VAT systems</td><td>Code (*)</td><td colspan="2">  </td></tr>
+<tr><td colspan="2">Group of information</td><td>VAT system</td><td>balance non-investments transactions</td><td>balance investment transactions</td></tr>
+<tr><td>  </td><td>  </td><td>C</td><td>NI</td><td>I</td></tr>
+<tr><td>VA</td><td>VAT systems in the farm</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Code (*) Description of categories
+
+1010 Main VAT system in the farm
+
+1020 Minority VAT system in the farm
+
+| List of VAT systems for both categories | C | NI | I |
+| --- | --- | --- | --- |
+| Normal VAT system | 1 | — | — |
+| Partial offsetting system | 2 |  |  |
+
+Data in monetary terms in the farm return are expressed exclusive of VAT.
+
+The following details on VAT should be provided as categories:
+
+**1010\. Main VAT system in the farm**
+
+| 1. | Normal VAT system | — | the VAT system which is guaranteed to be income-neutral for agricultural holdings as the VAT balance is cleared with tax authorities. |
+| --- | --- | --- | --- |
+| 2. | Partial offsetting system | — | the VAT system which does not guarantee to be income-neutral for agricultural holdings, although it may contain some approximate mechanism to offset VAT paid and received. |
+
+**1020\. Minority VAT system in the farm**
+
+Codes as defined for the main VAT system.
+
+There is only one group of information (VA) VAT system in the farm. There are three columns: (C) code of the VAT system, (NI) balance non-investments transactions and (I) balance investment transactions.
+
+For the normal VAT system, only its indication is to be entered. If the holding is subject to the partial offsetting system of VAT, then also the VAT balance of non-investments transactions and VAT balance of investment transactions have to be provided.
+
+When VAT turnover increases the revenue of the holding, the above VAT balance is a positive figure. In case of decreased revenue, the balance is negative.
+
+**Table H**
+
+**Inputs**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category of inputs</td><td colspan="3">Code (*)</td></tr>
+<tr><td colspan="3" rowspan="3">Group of information</td><td colspan="2">Columns</td></tr>
+<tr><td>Value</td><td>Quantity</td></tr>
+<tr><td>V</td><td>Q</td></tr>
+<tr><td>LM</td><td colspan="2">Labour and machinery costs and inputs</td><td>  </td><td>  </td></tr>
+<tr><td>SL</td><td colspan="2">Specific livestock costs</td><td>  </td><td>  </td></tr>
+<tr><td>SC</td><td colspan="2">Specific crop costs and inputs</td><td>  </td><td>  </td></tr>
+<tr><td>OS</td><td colspan="2">Specific costs for OGA</td><td>  </td><td>  </td></tr>
+<tr><td>FO</td><td colspan="2">Farming overheads</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+| Code(*) | Group | Description of categories | V | Q |
+| --- | --- | --- | --- | --- |
+| 1010 | LM | Wages and social security costs for paid labour |  | — |
+| 1020 | LM | Contract work and machinery hire |  | — |
+| 1030 | LM | Current upkeep of machinery and equipment |  | — |
+| 1040 | LM | Motor fuels and lubricants |  | — |
+| 1050 | LM | Car expenses |  | — |
+| 2010 | SL | Purchased concentrated feedstuffs for grazing stock (equines, ruminants) |  | — |
+| 2020 | SL | Purchased coarse fodder for grazing stock (equines, ruminants) |  | — |
+| 2030 | SL | Purchased feedstuffs for pigs |  | — |
+| 2040 | SL | Purchased feedstuffs for poultry and other small animals |  | — |
+| 2050 | SL | Farm-produced feedstuffs for grazing stock (equines, ruminants) |  | — |
+| 2060 | SL | Farm-produced feedstuffs for pigs |  | — |
+| 2070 | SL | Farm-produced feedstuffs for poultry and other small animals |  | — |
+| 2080 | SL | Veterinary expenses |  | — |
+| 2090 | SL | Other specific livestock costs |  | — |
+| 3010 | SC | Seeds and seedlings purchased |  | — |
+| 3020 | SC | Seeds and seedlings produced and used on the farm |  | — |
+| 3030 | SC | Fertilisers and soil improvers |  | — |
+| 3031 | SC | Quantity of N used in mineral fertilisers | — |  |
+| 30311 | SC | of which solid urea (optional) | — |  |
+| 30312 | SC | of which urea in Urea-Ammonium Nitrate and Urea-Ammonium Sulphate (optional) | — |  |
+| 30313 | SC | of which Calcium-Ammonium Nitrate fertilisers (optional) | — |  |
+| 3032 | SC | Quantity of P2O5 used in mineral fertilisers | — |  |
+| 3033 | SC | Quantity of K2O used in mineral fertilisers | — |  |
+| 3034 | SC | Purchased manure |  | — |
+| 3040 | SC | Crop protection products |  | — |
+| 3090 | SC | Other specific crop costs |  | — |
+| 4010 | OS | Specific costs for forestry and wood processing |  | — |
+| 4020 | OS | Specific costs for crop processing |  | — |
+| 4030 | OS | Specific costs for cow’s milk processing |  | — |
+| 4045 | OS | Specific costs for other animals’ milk processing |  | — |
+| 4070 | OS | Specific costs for meat processing and other animal products processing |  | — |
+| 4090 | OS | Other specific costs for other gainful activities |  | — |
+| 5010 | FO | Current upkeep of land improvements and buildings |  | — |
+| 5020 | FO | Electricity |  | — |
+| 5030 | FO | Heating fuels, total |  | — |
+| 5031 | FO | of which natural gas and manufactured gases |  | — |
+| 5032 | FO | of which oil and petroleum products |  | — |
+| 5033 | FO | of which solid fossil fuels |  | — |
+| 5034 | FO | of which renewable fuels (wood, straw, biogas, …) |  | — |
+| 5035 | FO | of which other origin |  | — |
+| 5040 | FO | Water |  | — |
+| 5051 | FO | Agricultural insurance |  | — |
+| 5055 | FO | Other farm insurance |  | — |
+| 5061 | FO | Taxes and other dues |  | — |
+| 5062 | FO | Taxes and other charges on land and buildings |  | — |
+| 5070 | FO | Rent paid, total |  | — |
+| 5071 | FO | of which rent paid for land |  | — |
+| 5080 | FO | Interest and financial charges paid |  | — |
+| 5090 | FO | Other farming overheads |  | — |
+
+Farm inputs (costs in cash and in kind, and quantities of selected inputs) relate to the ‘consumption’ of productive resources (including farm use of own produced inputs) corresponding to the output of the farm during the reporting year or to the ‘consumption’ of those resources during the reporting year. When certain use relates partly to private use and partly to farm use (e.g., electricity, water, heating fuels and engine fuels, etc.) only the latter part shall be included in the farm return. The proportion of the use of private cars corresponding to their use for farm purposes is also to be included.
+
+In calculating costs relating to the output of the reporting year, the purchases and farm use during the year shall be adjusted for valuation changes (including changes in cultivations). For each item, the total of costs paid for and the value of the farm use shall be recorded separately.
+
+Where the costs indicated are for the total ‘consumption’ of inputs during the reporting year but do not correspond to production during that year, changes in stocks of inputs shall be indicated in Table D under the code 1040 Inventories, except for costs accruing to growing permanent and standing crops which should be registered to 2010 Biological assets – plants.
+
+When the holding’s production resources (paid or unpaid labour, machinery or equipment) are used to increase fixed assets (construction or major repairs of machinery, construction, major repairs or even demolition of buildings, planting or felling of fruit trees), the corresponding costs – or an estimate thereof – are not to be included in the working costs of the holding. In any case, labour costs and hours worked to produce fixed assets are to be excluded from both costs and data on labour. In exceptional cases, if certain costs (other than labour costs) used to produce fixed assets cannot be calculated separately (e.g. use of the holding’s tractor) and if these expenses are then included under costs, an estimate of all these costs used to produce fixed assets is to be entered in Table I ‘Crops’ with the category of crop code 90900 (‘Other’).
+
+The costs relating to ‘consumption’ of capital assets are represented by depreciation, hence expenditure on acquisition of capital assets is not to be treated as a farm cost. Instructions on depreciation are set out in Table D ‘Assets’.
+
+Expenditure on cost items compensated during the reporting year or later (e.g., repairs to a tractor as a result of an accident covered by an insurance policy or by a third party liability) shall not be entered as farm costs, and the corresponding receipts shall not be included in the farm’s accounts.
+
+Receipts from resale of purchased supplies are to be deducted from corresponding inputs.
+
+Grants and subsidies related to costs are not deducted from the corresponding cost items but are entered under appropriate codes 4100 to 4900 in table M ‘Subsidies’ (see instructions regarding those codes). Investment grants and subsidies are shown in table D ‘Assets’.
+
+Costs also include any expenditure on purchases relating to each cost item.
+
+Inputs are classified as follows:
+
+**1010\. Wages and social security costs for paid labour**
+
+This item includes the following:
+
+— salaries and wages actually paid in cash to wage earners irrespective of the basis of remuneration (piece work or by the hour), with deduction of any social allowances paid to the holder as employer to offset the payment of a salary which does not correspond to actual work done (e.g. absence from work due to an accident, vocational training, etc.),
+
+— salaries and wages in kind (e.g. lodging, board, housing, farm produce, etc.),
+
+— bonuses for productivity or qualifications, gifts, gratuities, share of profits,
+
+— other expenditure associated with labour (recruitment expenses),
+
+— social security payments incumbent upon the employer and those paid by him on behalf of and instead of the employee,
+
+— occupational accident insurance.
+
+The holder's personal social security charges and insurance and those of unpaid labour shall not be regarded as farm costs.
+
+The amounts received by unpaid workers (which by definition are lower than a normal wage — see definition of unpaid labour) shall not appear in the farm return.
+
+Allowances (in cash or in kind) paid to retired paid workers no longer employed on the holding shall not be entered under this item but under the code ‘Other farming overheads’.
+
+**1020\. Contract work and machinery hire**
+
+This item includes the following:
+
+— total expenditure in respect of work on the farm carried out by agricultural contractors. This may include the cost of the use of equipment (including fuel) and the work. In case the cost of the materials employed other than fuel (i.e., crop protection products, fertilisers and seeds) is also included in the contract, the cost of these materials shall be excluded. This amount (if necessary by estimation) shall be entered under the corresponding cost item (e.g., pesticides to be recorded under code 3040 ‘Crop protection products’),
+
+— cost of hiring machines operated by the farm’s labour. The fuel costs related to the use of the rented machinery, shall be recorded under code 1040 ‘Motor fuels and lubricants’,
+
+— cost of leasing machines operated by the farm’s labour. The fuel and maintenance costs of leased machines shall be recorded under the relevant codes (codes 1030 ‘Current upkeep of machinery and equipment’ and 1040 ‘Motor fuels and lubricants’).
+
+**1030\. Current upkeep of machinery and equipment**
+
+Cost of upkeep of machinery and equipment and of minor repairs not affecting the market value of the appliances (payment of mechanic, cost of replacement parts, etc.).
+
+This item includes purchases of minor equipment, the cost of saddlery and horse shoeing, the purchase of tyres, forcing frames, protective clothing for unsanitary work, detergents for the cleaning of equipment in general, and the proportion of the cost of private cars corresponding to their use for farm purposes (see also code 1050 ). Detergents used for cleaning livestock equipment (e.g., milking machines) are entered under code 2090 ‘Other specific livestock costs’.
+
+Major repairs which increase the value of equipment, compared with its value before repairs, are not included under this code (see also instructions on depreciation in Table D ‘Assets’).
+
+**1040\. Motor fuels and lubricants**
+
+This item also includes the proportion of fuel and lubricant costs for private cars corresponding to their use for farm purposes (see also code 1050 ).
+
+Where the products are employed both as motor fuels and as heating fuels, the total sum is divided into two codes:
+
+1040\. ‘Motor fuels and lubricants’.
+
+5030\. ‘Heating fuels’.
+
+**1050\. Car expenses**
+
+Where the farm proportion of expenditure on private cars is calculated arbitrarily (e.g., a fixed amount per km), these costs are indicated under this code.
+
+**Feedstuffs**
+
+Used feedstuffs are divided into those purchased and those produced on the farm.
+
+The purchased feedstuffs include mineral licks, milk products (bought or returned to the farm) and products for the preservation and storage of feedstuffs, as well as the expenditure on agistment, on the use of common pasture and grazing land not included in the UAA and on renting forage land not included in the UAA. Purchased litter and straw are also included with purchased feedstuffs.
+
+Feedstuffs purchased for grazing stock are subdivided into concentrated feedstuffs and coarse fodder (including agistments and expenditure on the use of common pastures, grazing land and forage land not included in the UAA and purchased litter and straw).
+
+The code 2010 ‘Purchased concentrated feedstuffs for grazing stock (equines, ruminants)’ includes, in particular, oilcakes, compound feeds, cereals, dried grass, dried sugar beet pulp, fish meal, milk and dairy products, minerals and products for the preservation and storage of such feedstuffs.
+
+Expenditure on work carried out by agricultural contractors for the production of coarse fodder, e.g., silage, is entered under code 1020 ‘Contract work and machinery hire’.
+
+Feedstuffs produced and used on the farm include saleable farm products used as feedstuffs (including milk and milk products but excluding milk suckled by calves, which is not taken into account). Litter and straw produced on the holding are only included if they are a saleable product in the region and year in question.
+
+The following breakdown is to be given:
+
+— Purchased feedstuffs:
+
+2010\. Purchased concentrated feedstuffs for grazing stock (equines, ruminants)
+
+2020\. Purchased coarse fodder for grazing stock (equines, ruminants)
+
+2030\. Purchased feedstuffs for pigs
+
+2040\. Purchased feedstuffs for poultry and other small animals
+
+— Farm-produced feedstuffs used on farms:
+
+2050\. Farm-produced feedstuffs for grazing stock (equines, ruminants)
+
+2060\. Farm-produced feedstuffs for pigs
+
+2070\. Farm-produced feedstuffs for poultry and other small animals
+
+**2080\. Veterinary expenses**
+
+Cost of veterinary fees and medicines.
+
+**2090\. Other specific livestock costs**
+
+All expenditure relating directly to livestock production for which there is no separate provision in the other Table H codes: stud fees, artificial insemination, castration, milk tests, subscription and registration in herd-books, detergents for cleaning livestock equipment (e.g. milking machines), packing materials for livestock products, costs of storage and market preparation of livestock products of the farm done outside the farm, cost of marketing the livestock products of the farm, cost of disposal of excess manure, etc. It includes also short-term rent of buildings used to house animals or store products in connection therewith. It excludes specific costs of animal products processing recorded under codes 4030 to 4070 of table H.
+
+**3010\. Seeds and seedlings purchased**
+
+All purchased seeds and seedlings, including bulbs, corms and tubers. The costs of young trees and bushes for a new plantation represent an investment and should appear either under Table D code 2010 ‘Biological assets – plants’ or under Table D code 5010 ‘Forest land including standing timber’. However, the costs of young trees and bushes for a minor replanting operation are to be considered costs for the reporting year and are to be indicated under the present code except for those relating to forests linked to the agricultural holding which are to be entered under code 4010 ‘Specific costs for forestry and wood processing’.
+
+The costs of processing the seeds (sorting, disinfection) are also included under this code.
+
+**3020\. Seeds and seedlings produced and used on the farm**
+
+All seeds and seedlings (including bulbs, corms and tubers) produced and used on the farm.
+
+**3030\. Fertilisers and soil improvers**
+
+All purchased fertilisers and soil improvers (e.g., lime) including compost, peat and manure (excluding manure produced on the holding).
+
+Fertilisers and soil improvers used for forests forming part of the agricultural holding are to be entered under code 4010 ‘Specific costs for forestry and wood processing’.
+
+**3031 Quantity in quintals of N used in mineral fertilisers**
+
+30311 of which solid urea (optional)
+
+Quantity (weight) of nitrogen in terms of N in solid urea fertiliser
+
+30312 of which urea in Urea-Ammonium Nitrate and Urea-Ammonium Sulphate fertiliser
+
+Quantity (weight) of nitrogen in terms of N in Urea-Ammonium Nitrate and Urea-Ammonium Sulphate fertilisers (optional)
+
+30313 of which Calcium-Ammonium Nitrate fertilisers
+
+Quantity (weight) of nitrogen in terms of N in Calcium-Ammonium Nitrate (optional)
+
+**3034\. Purchased manure**
+
+Value of purchased manure.
+
+**3040\. Crop protection products**
+
+All material for the protection of crops and plants against pests and diseases, wild animals, bad weather, etc. (insecticides, fungicides, herbicides, poisoned baits, bird scarers, anti-hail shells, frost protection, etc.). If the crop protection operations are carried out by a contractor and if the cost of the protection materials used is not separately known, the total should be entered under code 1020 ‘Contract work and machinery hire’.
+
+Protective materials used for forests forming part of the agricultural holding are to be entered under code 4010 ‘Specific costs for forestry and wood processing’.
+
+**3090\. Other specific crop costs**
+
+All costs having a direct connection with crop production (including permanent meadows and grassland) for which there is no separate provision in the other cost items: packing and binding materials, string and rope, cost of soil analysis, crop competition costs, plastic coverings (e.g., for strawberry growing), supplies for the preservation of crops, storage and market preparation of crops done outside the farm, cost of marketing the crop products of the farm, sums paid for the purchase of marketable standing crops or to rent land for a period of less than one year to grow marketable crops, supplies of grapes and olives processed on the holding, etc. Excludes specific costs for processing of crops other than grapes and olives, which should be recorded under code 4020 . Includes also short-term rent of buildings used for marketable crops.
+
+**4010\. Specific costs for forestry and wood processing**
+
+Fertilisers, protective materials, miscellaneous specific costs. Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**4020\. Specific costs for crop processing**
+
+Ingredients, raw materials or semi-processed products, own or purchased and other specific costs of crop processing (e.g., the specific packaging or marketing costs). Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**4030\. Specific costs for cow's milk processing**
+
+Ingredients, raw materials or semi-processed products, own or purchased and other specific cow's milk processing (e.g., the specific packaging or marketing costs). Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**4045\. Specific costs for other animals’ milk processing**
+
+Ingredients, raw materials or semi-processed products, own or purchased and other specific costs of other animals’ (e.g., buffalo, sheep, goat) milk processing (e.g., the specific packaging or marketing costs). Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**4070\. Specific costs for meat processing and other animal products processing**
+
+Ingredients, raw materials or semi-processed products, own or purchased and other specific costs of processing meat or other animal products not mentioned under codes 4030 to 4060 (e.g., the specific packaging or marketing costs). Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**4090\. Other specific costs for other gainful activities**
+
+Raw materials, own or purchased and other specific costs of other gainful activities. Labour costs, contract work and mechanisation are not included; these are shown under the appropriate cost codes.
+
+**5010\. Current upkeep of land improvements and buildings**
+
+Maintenance (tenant-type) of buildings and land improvements including greenhouses, frames and supports. The purchase of building materials for the current upkeep of buildings should be entered under this code.
+
+The purchase of building materials for new investments should be entered under the appropriate codes in the ‘Investment/Purchase’ group of information of Table D ‘Assets’.
+
+The cost of major repairs to buildings which increases their value (major maintenance) is not included under this code. These costs are shown as investment in Table D code 3030 ‘Farm buildings’.
+
+**5020\. Electricity**
+
+Total consumption of electricity for farm business use.
+
+**5030\. Heating fuels (total)**
+
+Total consumption value of purchased heating fuels for farm business use, including the heating of glasshouses. This category includes heating consumption of purchased fossil fuels: natural and manufactures gases, oil, petroleum products and solid fossil fuels as well as consumption of purchased renewable energy sources (e.g., wood, straw, pellets, biogas).
+
+**5031\. Of which natural gas and manufactured gases**
+
+Total consumption of natural gas and other manufactured, fossil-based gases for farm business use, including the heating of glasshouses.
+
+**5032\. Of which oil and petroleum products**
+
+Total consumption of oil and petroleum products for farm business use, including the heating of glasshouses.
+
+**5033\. Of which solid fossil fuels**
+
+Total consumption of solid fossil fuels (e.g., coal) for farm business use, including the heating of glasshouses.
+
+**5034\. Of which renewable fuels**
+
+Total consumption of renewable fuels (e.g., wood, straw, pellets, biogas) for farm business use, including the heating of glasshouses.
+
+The submission of data relating to variables 5031, 5032, 5033 and 5034 is voluntary as from the accounting year 2023 and mandatory as from the reporting year 2025.
+
+**5035\. Of which other origin**
+
+Total consumption of energy produced by other origin not included in previous categories. Examples could be geothermal, district heating etc.
+
+District heating provides heat from a centralised location. In this system, a central plant generates heat in the form of hot water, often through the combustion of fossil fuels, biomass, or other renewable sources, and distributes it through a network of pipes.
+
+**5040\. Water**
+
+Cost of connection to the mains and consumption of water for all farm purposes including irrigation. The costs of using farm-owned water equipment are to be entered in the appropriate codes: depreciation of machinery and equipment, current upkeep of machinery and equipment, motor fuels, electricity.
+
+**5051\. Agricultural insurance**
+
+The cost of insurance of agricultural production income or any of its components, including insurance against death of livestock and damage to crops, etc. Includes the fee of participation in mutual funds.
+
+**5055\. Other farm insurance**
+
+All insurance premiums covering other farm risks (except agricultural), such as the holder's third-party liability, fire, flood damages, except insurance premiums covering accidents at work shown under code 1010 of this table. It includes insurance premiums for the buildings.
+
+**5061\. Farm taxes and other dues**
+
+All taxes and other dues relating to the farm business, including those levied in connection with environmental protection measures, but excluding VAT and taxes levied on land, buildings or labour. Direct income taxes of the holder are not to be counted as farm costs.
+
+**5062\. Taxes and other charges on land and buildings**
+
+Taxes, rates and other charges payable in respect of the ownership of farmland and buildings in owner-occupation and sharecropping.
+
+**5070\. Rent paid**
+
+Rent paid (in cash or in kind) for rented land, buildings, quotas and other rights for the farm business. Only the farm business part of farmhouses and other rented buildings should be entered. Leasing or renting costs of quotas not attached to land should also be entered in Table E.
+
+**5071\. Of which rent paid for land**
+
+**5080\. Interest and financial charges paid**
+
+Interest and financial charges on borrowed capital (loans) obtained for farm purposes. This information is compulsory.
+
+Subsidies on interest are not deducted but are entered in Table M under code 3550 .
+
+**5090\. Other farming overheads**
+
+All other farming costs not mentioned under the preceding codes (accountants' fees, secretarial services and office expenses, telephone charges, miscellaneous contributions and subscriptions, etc.).
+
+**Table I**
+
+**Land use and crops**
+
+**Structure of the table:**
+
+| Category of crop | Code (*) |
+| --- | --- |
+| Type of crop | Code (**) |
+| Missing data | Code (***) |
+
+<table>
+<tbody><tr><td colspan="2">Group of information</td><td>  </td><td colspan="7">Columns</td><td>  </td></tr>
+<tr><td colspan="3">  </td><td>Total area</td><td>of which is irrigated</td><td>of which is used for energy crops</td><td>of which is fully organic</td><td>of which is in conversion to organic</td><td>Quantity</td><td colspan="2">Value</td></tr>
+<tr><td colspan="3">  </td><td>TA</td><td>IR</td><td>EN</td><td>OR</td><td>CO</td><td>Q</td><td colspan="2">V</td></tr>
+<tr><td>A</td><td colspan="2">Area</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td colspan="2">—</td></tr>
+<tr><td>NU</td><td colspan="2">Quantity of N used in mineral fertilisers</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td colspan="2">—</td></tr>
+<tr><td>PU</td><td colspan="2">Quantity of P2O5 used in mineral fertilisers</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td colspan="2">—</td></tr>
+<tr><td>KU</td><td colspan="2">Quantity of K2O used in mineral fertilisers</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td colspan="2">—</td></tr>
+<tr><td>OV</td><td colspan="2">Opening valuation</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td colspan="2">  </td></tr>
+<tr><td>CV</td><td colspan="2">Closing valuation</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td colspan="2">  </td></tr>
+<tr><td>PR</td><td colspan="2">Production</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td colspan="2">—</td></tr>
+<tr><td>SA</td><td colspan="2">Sales</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td><td colspan="2">  </td></tr>
+<tr><td>FC</td><td colspan="2">Farm household consumption and benefits in kind</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td colspan="2">  </td></tr>
+<tr><td>FU</td><td colspan="2">Farm use</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td colspan="2">  </td></tr>
+</tbody>
+</table>
+
+For the category of crop, the following codes should be used:
+
+<table>
+<tbody><tr><td>Code (*)</td><td>Description</td></tr>
+<tr><td colspan="2">Cereals for the production of grain (including seeds)</td></tr>
+<tr><td>10110 </td><td>Common wheat and spelt</td></tr>
+<tr><td>10120 </td><td>Durum wheat</td></tr>
+<tr><td>10130 </td><td>Rye and winter cereal mixtures (maslin)</td></tr>
+<tr><td>10140 </td><td>Barley</td></tr>
+<tr><td>10150 </td><td>Oats and spring cereal mixtures (mixed grain other than maslin)</td></tr>
+<tr><td>10160 </td><td>Grain maize and corn-cob mix</td></tr>
+<tr><td>10170 </td><td>Rice</td></tr>
+<tr><td>10190 </td><td>Triticale, sorghum and other cereals n.e.c. (buckwheat, millet, canary seed, etc.)</td></tr>
+<tr><td colspan="2">Dried pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)</td></tr>
+<tr><td>10210 </td><td>Field peas, beans and sweet lupins</td></tr>
+<tr><td>10220 </td><td>Lentils, chickpeas and vetches</td></tr>
+<tr><td>10290 </td><td>Other protein crops</td></tr>
+<tr><td colspan="2">Roots and Tubers</td></tr>
+<tr><td>10300 </td><td>Potatoes (including early potatoes and seed potatoes)</td></tr>
+<tr><td>10310 </td><td>- of which potatoes for starch</td></tr>
+<tr><td>10390 </td><td>- of which other potatoes</td></tr>
+<tr><td>10400 </td><td>Sugar beet (excluding seed)</td></tr>
+<tr><td>10500 </td><td>Other root crops, fodder beet and fodder plants of the Brassicae family, grown for the root or the stem, and other fodder root and tuber crops n.e.c.</td></tr>
+<tr><td colspan="2">Industrial crops</td></tr>
+<tr><td>10601 </td><td>Tobacco</td></tr>
+<tr><td>10602 </td><td>Hops</td></tr>
+<tr><td>10603 </td><td>Cotton</td></tr>
+<tr><td>10604 </td><td>Rape and turnip rape seeds</td></tr>
+<tr><td>10605 </td><td>Sunflower seed</td></tr>
+<tr><td>10606 </td><td>Soya</td></tr>
+<tr><td>10607 </td><td>Oil flax (Linseed)</td></tr>
+<tr><td>10608 </td><td>Other oil seed crops n.e.c.</td></tr>
+<tr><td>10609 </td><td>Fibre flax</td></tr>
+<tr><td>10610 </td><td>Hemp</td></tr>
+<tr><td>10611 </td><td>Other fibre crops n.e.c.</td></tr>
+<tr><td>10612 </td><td>Aromatic, medicinal and culinary plants</td></tr>
+<tr><td>10613 </td><td>Sugar cane</td></tr>
+<tr><td>10690 </td><td>Energy and other industrial crops n.e.c.</td></tr>
+<tr><td colspan="2">Fresh vegetables, melons and strawberries of which:</td></tr>
+<tr><td colspan="2">Fresh vegetables, melons and strawberries — Outdoor or under low (not accessible) protective cover</td></tr>
+<tr><td>10711 </td><td>Fresh vegetables (including melons) and strawberries - Open field</td></tr>
+<tr><td>10712 </td><td>Fresh vegetables (including melons) and strawberries - Market gardening</td></tr>
+<tr><td>10720 </td><td>Fresh vegetables (including melons) and strawberries under glass or high accessible cover</td></tr>
+<tr><td colspan="2">Details for all sub-categories of ‘fresh vegetables (including melons and strawberries):</td></tr>
+<tr><td>10731 </td><td>Cauliflower and broccoli</td></tr>
+<tr><td>10732 </td><td>Lettuce</td></tr>
+<tr><td>10733 </td><td>Tomatoes</td></tr>
+<tr><td>10734 </td><td>Sweet corn</td></tr>
+<tr><td>10735 </td><td>Onions</td></tr>
+<tr><td>10736 </td><td>Garlic</td></tr>
+<tr><td>10737 </td><td>Carrots</td></tr>
+<tr><td>10738 </td><td>Strawberries</td></tr>
+<tr><td>10739 </td><td>Melons</td></tr>
+<tr><td>10790 </td><td>Other vegetables</td></tr>
+<tr><td colspan="2">Flowers and ornamental plants (excluding nurseries)</td></tr>
+<tr><td>10810 </td><td>Flowers and ornamental plants (excluding nurseries) - outdoor</td></tr>
+<tr><td>10820 </td><td>Flowers and ornamental plants (excluding nurseries) under glass or high accessible cover</td></tr>
+<tr><td colspan="2">Details for all sub-categories of ‘flowers and ornamental plants (excluding nurseries)</td></tr>
+<tr><td>10830 </td><td>Flower bulbs, corms and tubers</td></tr>
+<tr><td>10840 </td><td>Cut flowers and flower buds</td></tr>
+<tr><td>10850 </td><td>Flowering and ornamental plants</td></tr>
+<tr><td colspan="2">Plants harvested green</td></tr>
+<tr><td>10910 </td><td>Temporary grasses and grazings</td></tr>
+<tr><td colspan="2">Other plants harvested green</td></tr>
+<tr><td>10921 </td><td>Green maize</td></tr>
+<tr><td>10922 </td><td>Leguminous plants harvested green</td></tr>
+<tr><td>10923 </td><td>Other plants and cereals harvested green n.e.c.</td></tr>
+<tr><td colspan="2">Seeds and seedlings and other arable land crops</td></tr>
+<tr><td>11000 </td><td>Seeds and seedlings</td></tr>
+<tr><td>11100 </td><td>Other arable land crops</td></tr>
+<tr><td colspan="2">Fallow land</td></tr>
+<tr><td>11200 </td><td>Fallow land</td></tr>
+<tr><td colspan="2">Kitchen gardens</td></tr>
+<tr><td>20000 </td><td>Kitchen gardens</td></tr>
+<tr><td colspan="2">Permanent grassland</td></tr>
+<tr><td>30100 </td><td>Pasture and meadow, excluding rough grazings</td></tr>
+<tr><td>30200 </td><td>Rough grazings</td></tr>
+<tr><td>30300 </td><td>Permanent grassland no longer used for production purposes and eligible for the payment of subsidies</td></tr>
+<tr><td colspan="2">Permanent crops</td></tr>
+<tr><td colspan="2">Fruit species, of which:</td></tr>
+<tr><td>40101 </td><td>Pome fruits</td></tr>
+<tr><td>40111 </td><td>— of which apples</td></tr>
+<tr><td>40112 </td><td>— of which pears</td></tr>
+<tr><td>40102 </td><td>Stone fruits</td></tr>
+<tr><td>40113 </td><td>— of which peaches and nectarines</td></tr>
+<tr><td>40115 </td><td>Fruit from subtropical and tropical climate zones</td></tr>
+<tr><td>40120 </td><td>Berries (excluding strawberries)</td></tr>
+<tr><td>40130 </td><td>Nuts</td></tr>
+<tr><td colspan="2">Citrus plantations</td></tr>
+<tr><td>40200 </td><td>Citrus fruits</td></tr>
+<tr><td>40210 </td><td>— of which oranges</td></tr>
+<tr><td>40230 </td><td>— of which lemons</td></tr>
+<tr><td colspan="2">Olive plantations</td></tr>
+<tr><td>40310 </td><td>Table olives</td></tr>
+<tr><td>40320 </td><td>Olives for oil production (sold in the form of fruit)</td></tr>
+<tr><td>40330 </td><td>Olive oil</td></tr>
+<tr><td>40340 </td><td>Olive by-products</td></tr>
+<tr><td colspan="2">Vineyards</td></tr>
+<tr><td>40411 </td><td>Wine with protected designation of origin (PDO)</td></tr>
+<tr><td>40412 </td><td>Wine with protected geographical indication (PGI)</td></tr>
+<tr><td>40420 </td><td>Other wines</td></tr>
+<tr><td>40430 </td><td>Grapes for table use</td></tr>
+<tr><td>40440 </td><td>Grapes for raisins</td></tr>
+<tr><td>40451 </td><td>Grapes for wine with protected designation of origin (PDO)</td></tr>
+<tr><td>40452 </td><td>Grapes for wine with protected geographical indication (PGI)</td></tr>
+<tr><td>40460 </td><td>Grapes for other wines</td></tr>
+<tr><td>40470 </td><td>Miscellaneous products of vines: grape must, juice, brandy, vinegar and others produced on the farm</td></tr>
+<tr><td>40480 </td><td>Vine by-products (marc, lees)</td></tr>
+<tr><td colspan="2">Nurseries, other permanent crops, permanent crops under glass or high accessible cover and young plantations</td></tr>
+<tr><td>40500 </td><td>Nurseries</td></tr>
+<tr><td>40600 </td><td>Other permanent crops</td></tr>
+<tr><td>40610 </td><td>— of which Christmas trees</td></tr>
+<tr><td>40700 </td><td>Permanent crops under glass or high accessible cover</td></tr>
+<tr><td>40800 </td><td>Growth of young plantations</td></tr>
+<tr><td colspan="2">Other land</td></tr>
+<tr><td>50100 </td><td>Unutilised agricultural land</td></tr>
+<tr><td>50200 </td><td>Wooded area</td></tr>
+<tr><td>50210 </td><td>— of which short rotation coppices</td></tr>
+<tr><td>50900 </td><td>Other land (land occupied by buildings, farmyards, tracks, ponds, quarries, infertile land, rock, etc.)</td></tr>
+<tr><td>60000 </td><td>Cultivated mushrooms</td></tr>
+<tr><td colspan="2">Other products and receipts</td></tr>
+<tr><td>90100 </td><td>Receipts from renting out agricultural land</td></tr>
+<tr><td>90200 </td><td>Compensation by crop insurance not allocable to specific crops</td></tr>
+<tr><td>90300 </td><td>Crop by-products other than from olives and vine</td></tr>
+<tr><td>90310 </td><td>Straw</td></tr>
+<tr><td>90320 </td><td>Sugar beet tops</td></tr>
+<tr><td>90330 </td><td>Other by-products</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>90400</td><td>Interest received on liquid assets necessary for running the holding</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>90900 </td><td>Other</td></tr>
+</tbody>
+</table>
+
+The types of crop codes are to be selected form the list below:
+
+Code (**) Description
+
+0 Not applicable: this code is to be used in the case of processed products, stocks and by-products.
+
+1 Field scale crops – main crop, combined crop: field scale main- and combined crops comprise:
+
+— single crops, i.e. crops which are the only ones grown on a given area during the reporting year,
+
+— mixed crops: crops sown, cultivated and harvested together and producing a mixture as the final product,
+
+— in the case of crops grown successively in the course of the reporting year on a given area, the crop which remains longest in the ground,
+
+— crops growing for some time together on the same land and each normally producing a distinct harvest in the course of the reporting year. The total area is divided between these crops in proportion to the area actually occupied by each,
+
+— fresh vegetables, melons and strawberries grown in open field.
+
+2 Field scale crops – follow up crop(s): field scale follow up crops comprise crops grown in succession during the reporting year on a given area and not regarded as main crops.
+
+3 Open ground market garden crops and flowers: open ground market garden crops and flowers comprise fresh vegetables, melons and strawberries grown in market gardens in the open and open-grown flowers and ornamental plants.
+
+4 Crops under accessible protective cover: crops under accessible protective cover comprise fresh vegetables, melons and strawberries under shelter, flowers and ornamental plants (annual or perennial) under shelter, permanent crops under shelter.
+
+The missing data codes are to be selected form the list below:
+
+Code (***) Description
+
+0 Code 0 is entered when no data are missing.
+
+1 Code 1 is entered when the area covered by a crop cannot be reported, for example in the case of sales of marketable crop products purchased as standing crops or coming from land rented for a period of less than 1 year on an occasional basis.
+
+2 Code 2 is entered when the actual production cannot be determined in quintals (or hectolitres for wine and wine-related products) because of the conditions of sale or when there is no actual production.
+
+4 Code 4 is entered when the area covered by a crop cannot be reported and there is no actual production or actual production cannot be determined in quintals (or hectolitres for wine and wine-related products)
+
+The information on crop production during the reporting year is to be recorded in the format of Table I ‘Crops’. Information on each crop is to be recorded in a separate record. The content of the table is defined by selecting a category of crop code, the type of crop code and the missing data code.
+
+Detailed information concerning potatoes (codes 10310 , 10390 ), fresh vegetables, melons and strawberries (codes 10731 , 10732 , 10733 , 10734 , 10735 , 10736 , 10737 , 10738 , 10739 , 10790 ), flowers and ornamental plants (codes 10830 , 10840 , 10850 ) and crop by-products other than from olives and vine (codes 90310 , 90320 , 90330 ) has to be provided only if the data is available in the farm accounts.
+
+**GROUPS OF INFORMATION IN TABLE I**
+
+Table I contains the following groups of information:
+
+Mandatory groups of information: area (A), opening valuation (OV), closing valuation (CV), production (PR), sales (SA), farm household consumption and benefits in kind (FC), farm use (FU).
+
+Optional group of information: Quantity of N, P2O5 and K2O in mineral fertilisers.
+
+**COLUMNS IN TABLE I**
+
+In Table I the following information are to be recorded: the total area (TA), the area which is irrigated (IR), the area which is used for energy crops (EN), the area which is fully organic (OR), the area that is under conversion to organic (CO), the quantity of nutrients’ input, production, sales, (Q) and the value (V). In the following it is described for each group of information which columns have to be completed:
+
+**I.A Area**
+
+For the group of information area (A), the total area (TA), the area which is irrigated (IR), the area which is used for energy crops (EN), the area on which crops are grown organically as defined in Article 3(2) of Regulation (EU) 2018/848(OR), the area that is under conversion to organic production as defined in Article 3, point (6) and Article 10 of Regulation (EU) 2018/848(CO), are to be recorded. In each case the area is to be given in ares (100 ares = 1 hectare), except in the case of land used for mushroom growing which is given in square metres. The areas recorded under columns OR and CO are mutually exclusive.
+
+**I.NU Quantity of N used in mineral fertilisers**
+
+Optional data. Total quantity (weight) of nitrogen in terms of N in mineral fertilisers used, estimated on the basis of the quantity of mineral fertilisers and their N content. The quantity is to be given in quintals (100 kg).
+
+**I.PU Quantity of P2O5 used in mineral fertilisers**
+
+Optional data. Total quantity (weight) of phosphorus in terms of P2O5 in mineral fertilisers used, estimated on the basis of the quantity of mineral fertilisers and their P2O5 content. The quantity is to be given in quintals (100 kg).
+
+**I.KU Quantity of K2O used in mineral fertilisers**
+
+Optional data. Total quantity (weight) of potassium in terms of K2O in mineral fertilisers used, estimated on the basis of the quantity of mineral fertilisers and their K2O content. The quantity is to be given in quintals (100 kg).
+
+**I.OV Opening valuation**
+
+For the group of information opening valuation (OV), the value (V) of products in stock (storage) at the beginning of the reporting year is to be recorded. The products shall be valued at farm-gate prices on the day of valuation.
+
+**I.CV Closing valuation**
+
+For the group of information closing valuation (CV), the value (V) of products in stock (storage) at the end of the reporting year is to be recorded. The products shall be valued at farm-gate prices on the day of valuation.
+
+**I.PR Production**
+
+For the group of information production (PR) the quantities of crops produced (Q) during the reporting year (excluding any losses in the field and at the farm) are to be recorded. These quantities are indicated for the principal products of the holding (except by-products).
+
+These quantities shall be indicated in quintals (100 kg) with the exemption of wine and wine-related products, which are expressed in hectolitres. When, because of the conditions of sale, actual production in quintals cannot be determined, the missing data code 2 shall be entered.
+
+For the 10790 ‘Other vegetables’ and 90900 ‘Other’, the quantity is not to be provided.
+
+**I.SA Total sales**
+
+For the group of information total sales (SA) the quantity of sales (Q) and the value of sales (V) of products in stock at the start of the reporting year or harvested during the year are to be recorded. When marketing costs, if any, are known, they are not deducted from the sales total, but are to be recorded in table H ‘Inputs’.
+
+**I.FC Farm household consumption and benefits in kind**
+
+For the group of information farm household consumption and benefits in kind (FC) the value (V) of the products consumed by the holder's household and/or used for payments in kind for goods and services (including remuneration in kind) are to be recorded. The products in question are valued at farm-gate prices.
+
+**I.FU Farm use**
+
+For the group of information farm use (FU) the farm-gate value (V) of the holding’s products in stock (storage) at the beginning of the reporting year and/or produced during the year, used as inputs on the holding during the year are to be recorded.  This includes:
+
+— animal feed:
+
+the farm-gate value of the holding's saleable products (products which are currently marketable) used during the year as animal feed. The holding's straw used on the farm (as fodder and bedding) is valued only when it is a saleable product in the region and for the year under consideration. The products concerned are valued at the ‘farm-gate’ selling price,
+
+— seeds:
+
+the farm-gate value of saleable farm products used as seed for crops during the year,
+
+— other farm use (including products from the holding used for the preparation of meals for holidaymakers).
+
+**Table J**
+
+**Livestock production**
+
+**Structure of the table**
+
+| Category of livestock | Code (*) |
+| --- | --- |
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Columns</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">Group of Information</td><td>Average number</td><td>Number</td><td>Value</td><td>Time grazing</td><td>Access to yard</td><td>Type of housing</td></tr>
+<tr><td>A</td><td>N</td><td>V</td><td>D</td><td>Y</td><td>C</td></tr>
+<tr><td>AN</td><td>Average number</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>OR</td><td>Of which organic</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>CO</td><td>Of which in conversion to organic</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>RN</td><td>Reference number</td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>PU</td><td>Purchases</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>SA</td><td>Total Sales</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>SS</td><td>Sales for slaughtering</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>SR</td><td>Sales for further rearing/breeding</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>SU</td><td>Sales with unknown destination</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>DL</td><td>Number of deaths, including emergency killings</td><td>—</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>FC</td><td>Farmhouse consumption</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>FU</td><td>Farm use</td><td>—</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>TH</td><td>Type of housing</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>TO</td><td>Time spent outdoor</td><td>—</td><td>—</td><td>—</td><td>  </td><td>  </td><td>—</td></tr>
+</tbody>
+</table>
+
+Code (*) Description
+
+100 Equidae
+
+210 Bovine animals less than 1 year old, male and female
+
+220 Male bovine animals, 1 to less than 2 years old
+
+230 Heifers, 1 to less than 2 years old
+
+240 Male bovine animals, 2 years old and over
+
+251 Breeding heifers
+
+252 Heifers for fattening
+
+261 Dairy cows
+
+262 Buffalo dairy cows
+
+269 Non-dairy cows
+
+311 Breeding female sheep
+
+319 Other sheep
+
+321 Breeding female goats
+
+329 Other goats
+
+410 Piglets, live weight of under 20 kg
+
+420 Breeding sows, live weight 50 kg and over
+
+491 Pigs for fattening
+
+499 Other pigs
+
+510 Poultry — broilers
+
+520 Laying hens
+
+530 Other poultry
+
+610 Breeding female rabbits
+
+699 Other rabbits
+
+700 Bees
+
+900 Other animals
+
+**Categories of livestock**
+
+The following categories of livestock are to be distinguished:
+
+100\. Equidae
+
+Includes also race- and riding horses, donkeys, mules, hinnies etc.
+
+210\. Bovine animals, less than 1 year old, male and female
+
+220\. Male bovine animals, 1 to less than 2 years old
+
+230\. Heifers, 1 to less than 2 years old
+
+Excluding female bovine animals which have calved.
+
+240\. Male bovine animals, 2 years old and over
+
+251\. Breeding heifers
+
+Female bovine animals 2 years old or over which have not yet calved and which are intended for breeding.
+
+252\. Heifers for fattening
+
+Female bovine animals 2 years old or over which have not yet calved and which are not intended for breeding.
+
+261\. Dairy cows
+
+Female bovine animals which have calved (including those less than 2 years old) which are kept exclusively or principally for milk production for human consumption or processing as dairy products. Includes cull dairy cows.
+
+262\. Buffalo dairy cows
+
+Female buffalo animals which have calved (including those less than two years old) which are kept exclusively or principally for milk production for human consumption or processing as dairy products. Includes cull buffalo’s cows.
+
+269\. Non-dairy cows
+
+1\. Female bovine animals which have calved (including those less than 2 years old) which are kept exclusively or principally for production of calves and whose milk is not used for human consumption or processing as dairy products.
+
+2\. Cows for work.
+
+3\. Non-dairy cull cows (whether or not fattened before slaughter).
+
+Categories 210 to 252 and 269 also include the corresponding categories of buffaloes and/or female buffaloes.
+
+311\. Breeding female sheep
+
+Ewes 1 year old or over intended for breeding.
+
+319\. Other sheep
+
+Sheep of all ages excluding breeding female sheep.
+
+321\. Breeding female goats
+
+329\. Other goats
+
+Goats other than breeding females.
+
+410\. Piglets, live weight of under 20 kg
+
+Piglets of less than 20 kg live weight.
+
+420\. Breeding sows, live weight 50 kg and over
+
+Breeding sows of 50 kg or more excluding cull sows (see category 499 ‘Other pigs’).
+
+491\. Pigs for fattening
+
+Pigs for fattening of 20 kg live weight or more, excluding cull sows and boars (see category 499 ‘Other pigs’).
+
+499\. Other pigs
+
+Pigs of 20 kg live weight or more excluding breeding sows (see category 420) and pigs for fattening (see category 491).
+
+510\. Poultry — broilers
+
+Table chickens. Excluding laying hens and cull hens. Not including chicks.
+
+520\. Laying hens
+
+Including pullets, laying hens, cull hens and breeding cocks for laying hens when these are stalled as laying hens. Pullets are young hens which have not yet begun to lay. Not including chicks.
+
+530\. Other poultry
+
+Includes ducks, turkeys, geese, guinea fowl, ostriches and breeding males (excluding those mentioned above for laying hens). Includes breeding females. Not including chicks.
+
+610\. Breeding female rabbits
+
+699\. Other rabbits
+
+700\. Bees
+
+To be indicated in number of occupied hives.
+
+900\. Other animals
+
+Includes chicks, deer, fur animals. Includes also other animals used for farm tourism. Excludes products of other animals (see Table K, category 900).
+
+**GROUPS OF INFORMATION IN TABLE J**
+
+**J.AN. Average number (to be recorded for column A only)**
+
+Each unit refers to the presence of one animal on the holding for one year. Animals are counted in proportion to the length of time they have been on the holding during the reporting year.
+
+The average number is determined either by means of periodical inventories or by the recording of arrivals and departures. It includes all animals present on the holding, also animals raised or fattened under contract (animals not belonging to the holding, which are raised or fattened there in such a manner that the activity merely constitutes a service rendered by the holder, who does not assume the financial risk normally associated with the rearing or fattening of such animals) and animals taken or given into agistment for the period of the year during which they are present on the holding.
+
+Average Number (column A)
+
+This information is not be provided for the other animals (category 900).
+
+**J. OR Organic**
+
+Average number of animals reared following the production rules laid down in Articles 9, 10, 11 and 14 and in Part II of Annex II of Regulation (EU) 2018/848, excluding those still in the conversion period as defined in Article 3 point (6) and Article 10 of that Regulation.
+
+**J. CO in conversion to organic**
+
+Average number of animals reared following the production rules laid down in Articles 9, 10, 11 and 14 and in Part II of Annex II of Regulation (EU) 2018/848, which are still in the conversion period as defined in Article 3(6) and Article 10 of that Regulation.
+
+**J.RN. Reference number (to be recorded for column N only)**
+
+The reference number is the number of animals typically present on the farm at a given moment. It is used to calculate the standard output of the holding and its economic size. Contrary to the average number (AN), it enables to account for a period during which there is a lower number or no livestock on the holding for an exceptional period of time due to an exceptional break in the production cycle (e.g. disease outbreaks).
+
+Number (column N)
+
+Number of livestock is to be indicated in heads or in number for beehives.
+
+This information is not to be provided for the other animals (category 900).
+
+The data relating to the variable “J.RN.Reference number” may be provided in exceptional cases (e.g. disease on the holding, or culling for sanitary reason). The submission of this data is optional.
+
+**J.OV Opening valuation**
+
+Livestock belonging to the holding at the beginning of the reporting year, whether or not they are on the holding at that time.
+
+Number (column N)
+
+Number of livestock is to be indicated in heads or in number for beehives.
+
+This information is not to be provided for the other animals (category 900).
+
+Value (column V)
+
+Value of livestock is to be determined at fair value less estimated point-of-sale costs on the day of valuation.
+
+**J.CV Closing valuation**
+
+Livestock belonging to the holding at the end of the reporting year, whether or not they are on the holding at that time.
+
+Number (column N)
+
+Number of livestock is to be indicated in heads or in number for beehives.
+
+This information is not to be provided for the other animals (category 900).
+
+Value (column V)
+
+Value of livestock shall be determined at fair value less estimated point-of-sale costs on the day of valuation.
+
+**J.PU Purchases**
+
+Refer to the total livestock purchased during the reporting year.
+
+Number (column N)
+
+Number of livestock is to be indicated in heads. This information is not to be provided for the other animals (category 900 ).
+
+Value (column V)
+
+Value of purchases includes purchasing costs. The related grants and subsidies are not deducted from the total of these purchases, but are specified in Table M ‘Subsidies’ in the appropriate category (codes 5100 to 5900 ).
+
+**J.SA Total sales**
+
+Refer to the total livestock sold during the reporting year.
+
+It includes the sales to consumers for their own consumption of livestock or of meat whether the animals are slaughtered on the farm or not.
+
+Number (column N)
+
+Number of livestock is to be indicated in heads. This information is not to be provided for the other animals (code 900 ).
+
+Value (column V)
+
+When the marketing costs, if any, are known they are not deducted from the sales total, but these costs are given under code 2090 (‘Other specific livestock costs’). The related grants and subsidies are not included in the sales total but are specified in Table M ‘Subsidies’ in the appropriate category of Coupled Income Support (codes 23111 to 2900 ).
+
+**J.SS Sales for slaughtering**
+
+Refer to the livestock sold during the reporting year for which the destination is slaughtering. This information is not to be provided for breeding heifers (code 251), bees (code 700) and other animals (code 900).
+
+Number (column N)
+
+See Total sales
+
+Value (column V)
+
+See Total sales
+
+**J.SR Sales for further rearing or breeding**
+
+Refer to the livestock sold during the reporting year for which the destination is further rearing or breeding. This information is not to be provided for heifers for fattening (code 252), bees (code 700) and other animals (code 900).
+
+Number (column N)
+
+See Total sales
+
+Value (column V)
+
+See Total sales
+
+**J.SU Sales with unknown destination**
+
+Refer to the livestock sold during the reporting year for which the destination is unknown. This information is not to be provided for bees (code 700) and other animals (code 900).
+
+Number (column N)
+
+See Total sales
+
+Value (column V)
+
+See Total sales
+
+**J.DL Number of deaths, including emergency killings**
+
+Number (column N)
+
+Number of livestock shall be indicated in heads. It includes emergency killings and depopulation. Emergency killing refers to killing of animals which are injured or have a disease associated to severe pain or suffering. Depopulation refers to the process of killing animals for public health, animal health, welfare or environmental reasons under the supervision of the competent authority.
+
+**J.FC Farmhouse consumption and benefits in kind**
+
+Refer to the livestock consumed by the farm household or used for benefits in kind during the reporting year.
+
+Number (column N)
+
+Number of livestock shall be indicated in heads. This information is not to be provided for the other animals (category 900 ).
+
+Value (column V)
+
+Value of livestock shall be determined at fair value.
+
+**J.FU Farm use**
+
+Refer to the livestock used as inputs for a further processing in the context of OGA on the holding during the reporting year.
+
+— catering, tourism accommodation,
+
+— processing of livestock into meat products and feed.
+
+Sales of livestock or of meat whether the animals are slaughtered on the farm or not are excluded (see information on sales SA).
+
+This value is also recorded in table H, as costs for the OGA directly related to the holding using code 4070 (specific costs for meat processing and other animal products processing).
+
+Number (column N)
+
+Number of livestock shall be indicated in heads. This information is not to be provided for the other animals (category 900 ).
+
+Value (column V)
+
+Value of livestock shall be determined at fair value.
+
+**J.TH Type of housing**
+
+Code (column C)
+
+The codes defining the type of housing are to be selected from the list below, for each individual animal category included therein:
+
+**Table J**
+
+**Type of housing codes**
+
+<table>
+<tbody><tr><td>Code</td><td>Type of animal</td><td>Type of housing</td></tr>
+<tr><td>10</td><td rowspan="7">Bovine animals (categories 210 to 269)</td><td>Tied stalls (slurry)</td></tr>
+<tr><td>20</td><td>Tied stalls (solid manure)</td></tr>
+<tr><td>30</td><td>Loose/cubicle housing (slurry)</td></tr>
+<tr><td>40</td><td>Loose/cubicle housing (solid manure)</td></tr>
+<tr><td>50</td><td>Always outdoor</td></tr>
+<tr><td>60</td><td>Other type of housing (slurry)</td></tr>
+<tr><td>70</td><td>Other type of housing (solid manure)</td></tr>
+<tr><td>80</td><td rowspan="4">Sheep and goats (categories 311 to 329)</td><td>Deep litter</td></tr>
+<tr><td>90</td><td>Slatted floor</td></tr>
+<tr><td>100</td><td>Solid floor</td></tr>
+<tr><td>50</td><td>Always outdoor</td></tr>
+<tr><td>120</td><td rowspan="7">Pigs (categories 410 to 499)</td><td>Fully slatted floor</td></tr>
+<tr><td>130</td><td>Partially slatted floor</td></tr>
+<tr><td>140</td><td>Solid floor (solid manure)</td></tr>
+<tr><td>80</td><td>Entire surface is deep litter</td></tr>
+<tr><td>50</td><td>Outdoor (free range)</td></tr>
+<tr><td>60</td><td>Other type of housing (slurry)</td></tr>
+<tr><td>70</td><td>Other type of housing (solid manure)</td></tr>
+<tr><td>80</td><td rowspan="7">Poultry (categories 510 to 530)</td><td>Deep litter</td></tr>
+<tr><td>200</td><td>Aviary house</td></tr>
+<tr><td>210</td><td>Cages with manure belt</td></tr>
+<tr><td>220</td><td>Cages with deep pit</td></tr>
+<tr><td>230</td><td>Cages with stilt house</td></tr>
+<tr><td>50</td><td>Outdoor (free range)</td></tr>
+<tr><td>250</td><td>Other type of housing</td></tr>
+</tbody>
+</table>
+
+If for any category of animals, more than one type of housing is used, only the type of housing where the majority of the animals in that animal category are housed shall be reported. Data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+**Description of housing systems**
+
+Tied stalls: Tied stalls are animal houses where the animals are tied to their places and are not allowed to move freely. These types of housing can contain manure separated in the form of solid dung and liquid manure when the floors of the stalls are on sloping concrete with bedding (e.g. straw, chopped straw, sawdust) and a shallow gutter at the rear of the animals to collect part of the faeces and the urine, whilst part is regularly removed as solid manure. In some cases, the gutter is equipped with a drainage pipe to collect seepage or there can be a deeper channel instead of a gutter to collect and store the liquid fraction. The manure is normally removed mechanically outside the building as solid dung/farmyard manure. They can also contain manure in the form of slurry when the floors of the stalls are level concrete with a channel covered by a grid at the rear of the animals or fully slatted floor to collect faeces and urine as slurry. In this case, the manure and urine drop down below the floor into a pit, where they form slurry.
+
+Loose and cubicle housing Loose housing refers to animal houses where the animals are allowed to move freely and have free access over the whole area of the building or pen (a small enclosure for livestock). Loose housing may contain manure in the solid form when there is a concrete floor which is cleaned more frequently by scraping in the area where the animals stand to feed and/or drink. It is common for a deep layer of bedding (usually straw) to be spread over the floor. This bedding is removed from the building, typically once or twice per winter, as farmyard manure. This type of housing also includes cubicle housing, which are buildings.
+
+Outdoor Includes pasture, free range and paddock.
+
+Slatted floor housing Refers to animal houses where the floors are completely slatted. The whole floor has slats where the manure and urine drop down below the floor into a pit, where they form slurry.
+
+Partially slatted floor Refers to animal houses where the floors are partially slatted. Part of the floor has slats where the manure and urine drop down below the floor into a pit, where they form slurry.
+
+Deep litter for pigs: housing on straw-beds (deep litter-loose housing) where the floor is covered with a thick layer of litter (straw, peat, sawdust, or other similar material binding the manure and urine) that is removed only at intervals that may be several months apart.
+
+Other types of housing Types of housing different from the ones mentioned above.
+
+Free range Free range is a method of farming husbandry where the animals, for at least part of the day, can roam freely outdoor, rather than being confined in an enclosure for 24 hours each day.
+
+Deep litter for poultry laying hen housing on straw-beds (equivalent to deep litter-loose housing) where the floor is covered with a thick layer of litter (straw, peat, sawdust, or other similar material binding the manure) that is removed only at intervals that may be several months apart. A simple closed building that is thermally insulated and with forced ventilation or natural ventilation. At least a third of the floor area must be covered with bedding (e.g. chopped straw, wood shavings) and two thirds arranged as a pit covered with slats to collect droppings (waste voided by poultry) over the 13-15-month egg-laying period. Laying nests, feeders and water supply are placed over the slatted area to keep the litter dry.
+
+Aviary housing Aviaries are also called multi-level systems or percheries. They consist of a ground floor plus one or more levels of perforated platforms, from which manure cannot fall on birds below. At some point across the system there will be at least two levels available for birds. An aviary house is a construction with thermal insulation, forced ventilation and either natural or artificial light. They can be combined with free range and outside scratching area. Birds are kept in large groups and are free to move over the entire house area over multiple levels. The space is subdivided into different areas: feeding and drinking, sleeping and resting, scratching, egg laying. Because animals can use several levels, higher stock densities are allowed in comparison to the deep litter regime. Droppings are removed by manure belts or collected in a manure pit.
+
+Cages with manure belts Battery cages are animal housing systems where the laying hens are kept in cages, one or more in each, inside closed buildings with forced ventilation and with or without a lighting system. Birds are kept in tiered cages, usually made of steel wire, arranged in long rows. Droppings fall through the bottom of the cages and are collected and stored underneath in a deep pit or channel or are removed by a belt or scraper system. The droppings from laying hens in battery systems are not mixed with other material such as litter and may be dried or have water added to make the manure easier to manage. Battery cages with manure belt are battery cages where the manure is removed mechanically by a belt below the cages to outside the building to form solid dung/farmyard manure.
+
+**J. TO Time spent outdoor**
+
+Grazing time (column D)
+
+Number of full grazing day. If the animals graze less than 2 hours a day, this is not considered a grazing day. Information shall be reported for categories 261 dairy cows, 269 non-dairy cows, 311 breeding female sheep, and 321 breeding female goats.
+
+Access to yard (column Y)
+
+Exercise yards:
+
+Outdoor areas with permanent access, normally with impermeable floor, including grassy area without grazing, where animals can exercise for part of the day. If the yard is accessible to the animals, it shall be counted.
+
+The following codes are to be used:
+
+0 No, the livestock does not have access to yard
+
+1 Yes, the livestock has access to yard
+
+**Table K**
+
+**Animal products and services**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="3">Category of animal products or services</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="3">Missing data</td><td colspan="2">Code (**)</td></tr>
+<tr><td colspan="5">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="3">Columns</td></tr>
+<tr><td colspan="2" rowspan="2">Group of Information</td><td colspan="2">Quantity</td><td>Value</td></tr>
+<tr><td colspan="2">Q</td><td>V</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>PR</td><td>Production</td><td colspan="2">  </td><td>—</td></tr>
+<tr><td>SA</td><td>Sales</td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>FC</td><td>Farmhouse consumption</td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>FU</td><td>Farm use</td><td colspan="2">  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Code (*) Description
+
+261 Cow’s milk
+
+262 Buffalo-cow’s milk
+
+311 Sheep’s milk
+
+321 Goat’s milk
+
+330 Wool
+
+531 Eggs for human consumption (all poultry)
+
+532 Eggs for hatching (all poultry)
+
+700 Honey and products of beekeeping
+
+800 Manure
+
+900 Other animal products
+
+1100 Contract rearing
+
+1200 Other animal services
+
+Missing data
+
+Code (**) Description
+
+0 Code 0 is entered when no data are missing.
+
+2 Code 2 should be entered for when the actual production cannot be determined in quintals (or thousands of eggs) because of the conditions of sale.
+
+4 Code 4 should be entered when there are only stocks and no actual production.
+
+**Categories of animal products and services**
+
+The following categories of animal products and services should be distinguished:
+
+261 Cow's milk
+
+262 Buffalo-cow's milk
+
+311 Sheep's milk
+
+321 Goat's milk
+
+330 Wool
+
+531 Eggs for human consumption (all poultry)
+
+532 Eggs for hatching (all poultry)
+
+700 Honey and products of bee-keeping: honey, hydromel and other products and by-products of bee-keeping
+
+800 Manure
+
+900 Other animal products (stud fees, embryos, wax, goose or duck liver, milk of other animals, etc.)
+
+1100 Contract rearing
+
+Amount of receipts for contract rearing corresponding mainly to payment for services rendered and where the holder does not assume the economic risk normally involved in rearing or fattening these animals, e.g.: cattle, sheep, goats, pigs, poultry.
+
+1200 Other animal services
+
+Amount of receipts for other animal services (agistment, etc.)
+
+**GROUPS OF INFORMATION IN TABLE K**
+
+For the manure (code 800 ) only the information on sales (SA) shall be provided in column value (V).
+
+For the other animal products (code 900 ) information shall be provided only in value (in column V) as the quantity cannot be provided for an aggregate of heterogeneous products.
+
+For animal services such as contract rearing (codes 1100 ) and others (code 1200 ) the only information to provide are the receipts that are to be recorded under the information on sales (SA) in column value (V).
+
+Quantity (column Q)
+
+These quantities shall be indicated in quintals (100 kg) except in the case of eggs (codes 531 and 532 ), which are to be given in thousands.
+
+In the case of products of bee-keeping other than honey (code 700 ), the quantity is to be expressed in quintals of ‘honey equivalents’.
+
+**K.OV Opening valuation**
+
+The products in stock (storage) at the beginning of the reporting year, excluding livestock.
+
+Quantity (column Q)
+
+See instructions for table K.
+
+Value (column V)
+
+The products shall be valued at fair value on the day of valuation.
+
+**K.CV Closing valuation**
+
+The value of products in stock (storage) at the end of the reporting year, excluding livestock.
+
+Quantity (column Q)
+
+Instructions for table K apply.
+
+Value (column V)
+
+The products shall be valued at fair value on the day of valuation.
+
+**K.PR Production during the reporting year**
+
+Quantity (column Q)
+
+The quantities of animal products produced during the reporting year (excluding any losses). These quantities are indicated for the principal products of the holding (except by-products). The production used for processing in the framework of OGA related to the farm is included.
+
+**K.SA Sales**
+
+Total of products sold during the reporting year, in stock at the start of the reporting year and produced during the year.
+
+Quantity (column Q)
+
+Instructions for table K apply.
+
+Value (column V)
+
+Total value of sales (whether or not the proceeds have been received during the reporting year) of products in stock at the start of the reporting year and produced during the year.
+
+The total for products sold includes the value of products returned to the farm (skimmed milk etc.). The latter value is also entered under farm costs.
+
+Any compensation payments (e.g. insurance payments) during the reporting year are to be added to the total for sales of the products concerned wherever they can be allocated to the production of such products. Otherwise, they are to be entered under code 900 ‘Other animal products’.
+
+Grants and subsidies received for products during the reporting year are not included in the total for sales; they are entered in Table M ‘Subsidies’ in the appropriate category of Coupled Income Support (codes between 23111 and 2900).
+
+When marketing costs, if any, are known, they are not deducted from the sales total, but are given in Table H ‘Inputs’ under code 2090 ‘Other specific livestock costs’.
+
+**K.FC Farmhouse consumption and benefits in kind**
+
+Products consumed by the holder's household and/or used for payments in kind for goods and services (including remuneration in kind). This information is not to be provided for eggs for hatching (code 532 ).
+
+Quantity (column Q)
+
+Instructions for table K apply.
+
+Value (column V)
+
+The products shall be valued at fair value.
+
+**K.FU Farm use**
+
+Products of the holding in stock (storage) at the beginning of the reporting year and/or produced during the year, used as inputs on the holding during the year.  This includes:
+
+— animal feed: the holding's saleable products (products which are currently marketable) used during the year as animal feed. Milk suckled by calves is not included under farm use,
+
+— products used in the framework other gainful activities directly related to the farm:
+
+— catering, tourism accommodation, etc.,
+
+— for further processing (milk processed in butter, cheese, etc.).
+
+Quantity (column Q)
+
+Instructions for table K apply.
+
+Value (column V)
+
+The products shall be valued at fair value. These values are also entered under farm costs.
+
+**Table L**
+
+**OGA directly related to the farm**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category of OGA</td><td>Code (*)</td><td>  </td></tr>
+<tr><td colspan="2">Missing data</td><td>Code (**)</td><td>  </td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2">Group of Information</td><td>Quantity</td><td>Value</td></tr>
+<tr><td>  </td><td>  </td><td>Q</td><td>V</td></tr>
+<tr><td>OV</td><td>Opening valuation</td><td>—</td><td>  </td></tr>
+<tr><td>CV</td><td>Closing valuation</td><td>—</td><td>  </td></tr>
+<tr><td>PR</td><td>Production</td><td>  </td><td>—</td></tr>
+<tr><td>SA</td><td>Sales</td><td>—</td><td>  </td></tr>
+<tr><td>FC</td><td>Farmhouse consumption</td><td>—</td><td>  </td></tr>
+<tr><td>FU</td><td>Farm use</td><td>—</td><td>  </td></tr>
+</tbody>
+</table>
+
+Code (*) Description
+
+261 Processing of cow’s milk
+
+263 Processing of other animals’ milk
+
+900 Processing of meat or other animal products
+
+1010 Processing of crop
+
+1020 Forestry and wood processing
+
+2010 Contractual work
+
+2020 Tourism, accommodation, catering and other leisure activities
+
+2030 Production of renewable energy
+
+9000 Other OGA directly related to the farm
+
+Code (**) Description
+
+0 Code 0 is entered when no data are missing.
+
+1 Code 1 should be entered in the case of production obtained by processing purchased livestock or animal or crops products.
+
+2 Code 2 should be entered when the actual production cannot be determined in quintals because of the conditions of sale.
+
+4 Code 4 should be entered when there are only stocks and no actual production.
+
+**Categories of OGA directly related to the farm**
+
+The following categories of OGA should be distinguished:
+
+<table>
+<tbody><tr><td>261</td><td>Processing of cow's milk</td></tr>
+<tr><td>263</td><td>Processing of other animals’ milk, e.g. buffalo-cow’s milk, sheep’s milk, goat’s milk</td></tr>
+<tr><td>900</td><td>Processing of meat or other animal products</td></tr>
+<tr><td>1010</td><td>Processing of crop products, excluding wine and olive oil. It includes production of alcohol other than from grapes, cider or perry.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>1020</td><td>Forestry and wood processing. It covers the sales of felled and standing timber, of forestry products other than timber (cork, pine resin, etc.) and of processed wood during the reporting year.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2010</td><td>Contract work for others. Hiring out of equipment of the holding without farm labour force or using only farm labour force in contract work are not considered as OGA but as part of the agricultural activity.</td></tr>
+<tr><td>2020</td><td>Tourism, accommodation, catering and other leisure activities. They include rent from tourism (camping sites, cottages, riding facilities, hunting, fishing, etc.).</td></tr>
+<tr><td>2030</td><td>Production of renewable energy. It covers the production of renewable energy for the market including biogas, biofuels or electricity, by wind turbines, other equipment or from agricultural raw materials. It excludes the following items, as they are to be considered part of the agricultural activity of the holding: — the production of renewable energy only for the holding's own use,  — renting out the land or of the roof only for the establishing of installation such as wind mill or solar energy panels,  — the sales of raw material to another enterprise for the production of renewable energy. </td></tr>
+<tr><td>9000</td><td>Other OGA directly related to the holding. OGA directly related to the holding not mentioned elsewhere.</td></tr>
+</tbody>
+</table>
+
+**GROUPS OF INFORMATION IN TABLE L**
+
+Quantity (column Q)
+
+These quantities shall be indicated in quintals (100 kg).
+
+In the case of milk processed products (codes 261 and 263 ), the quantity of liquid milk is indicated regardless of the form in which it is sold, consumed on the farm or used for benefits in kind or for farm purposes (cream, butter, cheese, etc.).
+
+**L.OV Opening valuation**
+
+The products in stock (storage) at the beginning of the reporting year.
+
+This information is not to be provided for contractual work (code 2010 ), tourism activities (code 2020 ), production of renewable energy (code 2030 ) and other ‘other gainful activities’ directly related to the holding (code 9000 ).
+
+Value (column V)
+
+Value of products shall be determined at fair value less estimated point-of-sale costs on the day of valuation.
+
+**L.CV Closing valuation**
+
+The value of products in stock (storage) at the end of the reporting year.
+
+This information is not to be provided for contractual work (code 2010 ), tourism activities (code 2020 ), production of renewable energy (code 2030 ) and other ‘other gainful activities’ directly related to the holding (code 9000 ).
+
+Value (column V)
+
+Value of products shall be determined at fair value less estimated point-of-sale costs on the day of valuation.
+
+**L.PR Production for the reporting year**
+
+Quantity (column Q)
+
+This information shall only be provided for the categories concerning the milk processing (codes 261 and 263).
+
+It corresponds to the quantity of liquid milk produced on the farm during the reporting year and used for the production of processed products.
+
+**L.SA Sales**
+
+Total of products sold during the reporting year, in stock at the start of the reporting year and produced during the year and receipts from OGA.
+
+Value (column V)
+
+Total value of sales (whether or not the proceeds have been received during the reporting year) of products in stock at the start of the reporting year and produced during the year.
+
+Any compensation payments (e.g. insurance payments) during the reporting year are to be added to the total for sales of the products concerned wherever they can be allocated to the production of such products. Otherwise they are to be entered in Table I ‘Crops’ under code 90900 ‘Other’.
+
+Grants and subsidies received for products during the reporting year are not included in the total for sales; they are entered in Table M ‘Subsidies’ in the appropriate category of Coupled Income Support (codes between 23111 and 2900). When marketing costs, if any, are known, they are not deducted from the sales total, but are given in Table H ‘Inputs’ in the appropriate category of specific OGA costs (codes 4010 to 4090).
+
+**L.FC Farmhouse consumption and benefits in kind**
+
+Products consumed by the holder's household and/or used for payments in kind for goods and services (including remuneration in kind).
+
+This information is not to be provided for contractual work (code 2010 ), tourism activities (code 2020 ) and production of renewable energy (code 2030 ).
+
+Value (column V)
+
+The products shall be valued at fair value.
+
+**L.FU Farm use**
+
+Products of the holding in stock (storage) at the beginning of the reporting year and/or produced during the year, used as inputs on the holding during the year. This includes products processed on the farming (milk processed in cheese, cereals processed in bread, meat processed in ham, etc.) and used as input for catering or tourism accommodation.
+
+This information is not to be provided for contractual work (code 2010 ), tourism activities (code 2020 ) and production of renewable energy (code 2030 ).
+
+Value (column V)
+
+The products shall be valued at fair value.
+
+**Table M**
+
+**Subsidies**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of subsidy/administrative information</td><td>Code (*)</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Financing</td><td>Code (**)</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Basic unit</td><td>Code (***)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="3">Group of information</td><td colspan="3">Columns</td></tr>
+<tr><td>Number of basic units</td><td>Value</td><td>Type</td></tr>
+<tr><td>N</td><td>V</td><td>T</td></tr>
+<tr><td>S</td><td>Subsidy</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>AI</td><td>Administrative information</td><td>  </td><td>—</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+<table>
+<tbody><tr><td rowspan="2">Code (*)</td><td rowspan="2">Group</td><td rowspan="2">Description of categories</td><td colspan="3">Columns</td></tr>
+<tr><td>N</td><td>V</td><td>T</td></tr>
+<tr><td>  </td><td>  </td><td>Decoupled payments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1250 </td><td>S</td><td>Basic Income Support for Sustainability</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>1300 </td><td>S</td><td>Complementary redistributive income support for sustainability</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>1400 </td><td>S</td><td>Schemes for the climate, the environment and animal welfare (eco-schemes)</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>1600 </td><td>S</td><td>Complementary income support for young farmers</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>1700 </td><td>S</td><td>Payments for small farmers</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Coupled Income Support</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>Arable crops</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>COP (cereals, oilseeds and protein crops)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>23111 </td><td>S</td><td>Cereals</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23112 </td><td>S</td><td>Oilseeds</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23114 </td><td>S</td><td>Protein crops & grain legumes</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2312 </td><td>S</td><td>Potatoes</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23121 </td><td>S</td><td>Of which potatoes for starch</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2313 </td><td>S</td><td>Sugar beet</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Industrial crops</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>23141 </td><td>S</td><td>Flax</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23142 </td><td>S</td><td>Hemp</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23143 </td><td>S</td><td>Hops</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23144 </td><td>S</td><td>Sugar cane</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23145 </td><td>S</td><td>Chicory</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23149 </td><td>S</td><td>Other industrial crops</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Other crops</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2315 </td><td>S</td><td>Vegetables</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2316 </td><td>S</td><td>Fallow land</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2317 </td><td>S</td><td>Rice</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2319 </td><td>S</td><td>Arable crops not defined</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2320 </td><td>S</td><td>Permanent grassland</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2321 </td><td>S</td><td>Dried fodder</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2322 </td><td>S</td><td>Crop specific payment for cotton</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2323 </td><td>S</td><td>National restructuring programme for the cotton sector</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2324 </td><td>S</td><td>Seed production</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Permanent crops</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>23311 </td><td>S</td><td>Berries</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>23312 </td><td>S</td><td>Nuts</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2332 </td><td>S</td><td>Pome and stone fruit</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2333 </td><td>S</td><td>Citrus plantations</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2334 </td><td>S</td><td>Olive plantations – olive oil and table olives</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2335 </td><td>S</td><td>Vineyards</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2339 </td><td>S</td><td>Permanent crops not mentioned elsewhere</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Animals</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2341 </td><td>S</td><td>Dairy</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2342 </td><td>S</td><td>Beef and veal</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2343 </td><td>S</td><td>Cattle (type not specified)</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2344 </td><td>S</td><td>Sheep and goat</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2345 </td><td>S</td><td>Pigs and poultry</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2346 </td><td>S</td><td>Silkworms</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2347 </td><td>S</td><td>Apiculture products</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2349 </td><td>S</td><td>Animals not mentioned elsewhere</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2410 </td><td>S</td><td>Short rotation coppices</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2490 </td><td>S</td><td>Other coupled payments not mentioned elsewhere</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Grants and subsidies of exceptional character</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2810 </td><td>S</td><td>Disaster payments</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2890 </td><td>S</td><td>Other grants and subsidies of exceptional character</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>2900 </td><td>S</td><td>Other direct payments not mentioned elsewhere</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Rural development</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3100 </td><td>S</td><td>Investments, including in irrigation</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3200 </td><td>S</td><td>Setting-up of young farmers and new farmers and rural business start-up</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3310 </td><td>S</td><td>Management commitments (environmental, climate-related and other) (excluding animal welfare and organic farming)</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3320 </td><td>S</td><td>Animal welfare payments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3350 </td><td>S</td><td>Organic farming</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3400 </td><td>S</td><td>Area-specific disadvantages resulting from certain mandatory requirements (e.g. Natura 2000, Water Framework Directive)</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3500 </td><td>S</td><td>Natural or other area-specific constraints</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>S</td><td>Forestry/non-productive investments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3610 </td><td>S</td><td>Investments in forest area development and improvement of the viability of forests</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3620 </td><td>S</td><td>Natura 2000 payments for forestry and forest-environmental and climate services and forest conservation support</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3750 </td><td>S</td><td>Support to restoring agricultural production potential damaged by natural disasters and catastrophic events and introduction of appropriate prevention actions</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3760 </td><td>S</td><td>Risk management tools</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>3770 </td><td>S</td><td>Knowledge exchange and dissemination of information</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3780 </td><td>S</td><td>Cooperation</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3900 </td><td>S</td><td>Other payments for rural development</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Grants and subsidies on costs</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4100 </td><td>S</td><td>Wages and social security</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4200 </td><td>S</td><td>Motor fuels</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Livestock</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4310 </td><td>S</td><td>Feed for grazing livestock</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4320 </td><td>S</td><td>Feed for pig and poultry</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4330 </td><td>S</td><td>Other livestock costs</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Crop</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4410 </td><td>S</td><td>Seeds</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4420 </td><td>S</td><td>Fertilisers</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4430 </td><td>S</td><td>Crop protection</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4440 </td><td>S</td><td>Other specific crop costs</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Farming overheads</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4510 </td><td>S</td><td>Electricity</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4520 </td><td>S</td><td>Heating fuels, total</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4521 </td><td>S</td><td>of which natural gas and manufactured gases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4522 </td><td>S</td><td>of which oil and petroleum products</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4523 </td><td>S</td><td>of which solid fossil fuels</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4524 </td><td>S</td><td>of which renewable fuels</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4530 </td><td>S</td><td>Water</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4540 </td><td>S</td><td>Insurance</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4550 </td><td>S</td><td>Interest</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4600 </td><td>S</td><td>Costs for OGA</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>4900 </td><td>S</td><td>Other costs</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>  </td><td>Grants and subsidies on livestock purchases</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5100 </td><td>S</td><td>Dairy purchases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>5200 </td><td>S</td><td>Beef purchases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>5300 </td><td>S</td><td>Sheep and goat purchases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>5400 </td><td>S</td><td>Pigs and poultry purchases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td>5900 </td><td>S</td><td>Other animals purchases</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9000 </td><td>S</td><td>Differences from the previous reporting years</td><td>  </td><td>  </td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>  </td><td>  </td><td>Obligations of Member States relating to good agricultural and environmental conditions of land (GAEC standards 2, 8 and 9)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10010 </td><td>AI</td><td>GAEC 2 on wetland and peatlands</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>10011 </td><td>AI</td><td>GAEC 2: number of hectares of wetland and peatlands – permanent grassland</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>10012 </td><td>AI</td><td>GAEC 2: number of hectares of wetland and peatlands – arable land</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>10013 </td><td>AI</td><td>GAEC 2: number of hectares of wetland and peatlands – permanent crops</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>10400 </td><td>AI</td><td>GAEC 9: ban on conversion or ploughing</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>10401 </td><td>AI</td><td>GAEC 9: number of hectares of permanent grassland in Natura 2000 sites</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>10402 </td><td>AI</td><td>GAEC 9: number of hectares of designated environmentally sensitive permanent grassland in Natura 2000 sites protected under GAEC 9;</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td>10403 </td><td>AI</td><td>GAEC 9: number of hectares of designated environmentally sensitive permanent grassland outside Natura 2000 sites, protected under GAEC 9.</td><td>  </td><td>—</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+The codes describing how the subsidy is financed are to be selected form the list below:
+
+Code (**) Description
+
+0 Not applicable: this code is to be used in the case of administrative information
+
+1 The subsidy is financed solely from the Union budget.
+
+2 The measure is co-financed by the Union and the Member State.
+
+3 The measure is not financed from the Union budget but by other public sources.
+
+The codes defining the basic units are to be selected form the list below:
+
+Code (***) Description
+
+0 Not applicable: this code is to be used in the case of administrative information
+
+1 The subsidy is granted per head of livestock.
+
+2 The subsidy is granted per ha.
+
+3 The subsidy is granted per tonne.
+
+4 Farm/other: the subsidy is granted for the whole farm or in a way which does not fit in the other categories.
+
+Table M ‘SUBSIDIES’ covers grants and subsidies received by agricultural holdings from public bodies, financed by both the national and the Union budget. It also covers administrative information on good agricultural and environmental conditions of land.
+
+**GROUPS OF INFORMATION IN TABLE M**
+
+**S Subsidies**
+
+Grants and subsidies are defined by category of subsidy (S), financing and basic units. For each entry, the number of basic units (N) and the amount received (V) are to be recorded. There might be several records per category of subsidy as the basic units and/or financing origins might differ.
+
+As a general rule, grants and subsidies registered in Table M correspond to the current reporting year regardless of when the payment is received (reporting year is equal to claim year). Investment subsidies and rural development payments other than payments to areas facing natural or other specific constraints constitute an exception to this general rule as registered amounts should refer to payments actually received during the reporting year (reporting year is equal to payment year).
+
+**AI Administrative information**
+
+Certain obligations of Member States relating to good agricultural and environmental conditions of land (GAEC standards 2, and 9) are defined by category of administrative information (AI). The number of basic units (N) and/or the type (T) are to be recorded for each entry, as specified in the table.
+
+The number of basic units (N) corresponds to area concerned by GAEC standards are expressed in hectares.
+
+The type (T) refers to the application of the GAEC at farm level and is to be selected from the list below:
+
+Code Description
+
+1 Agricultural holding has an obligation to comply with the administrative requirement.
+
+2 Agricultural holding benefits from an exemption or derogation as defined in CAP Strategic Plan pursuant to Article 13(1), second subparagraph, and Article 13(2a) of Regulation (EU) 2021/2115.
+
+**Table MI**
+
+**Market integration**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Category</td><td colspan="5">Code</td></tr>
+<tr><td colspan="7">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="5">Columns</td></tr>
+<tr><td colspan="2">Group of information</td><td>Share of value sold (%)</td><td>Contract type</td><td>Price arrangements</td><td>Value sharing</td><td>Contract terms</td></tr>
+<tr><td colspan="2">  </td><td>S</td><td>C</td><td>P</td><td>V</td><td>R</td></tr>
+<tr><td>MI</td><td>Market integration</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code | Description | Group | S | C | P | V | R |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 | Direct sale to consumer | MI |  | — | — | — | — |
+| 200 | Producer organisation/Cooperative | MI |  |  |  |  |  |
+| 300 | Retailer | MI |  |  |  |  |  |
+| 400 | Food processor | MI |  |  |  |  |  |
+| 500 | Wholesaler | MI |  |  |  |  |  |
+| 600 | Other farms | MI |  |  |  |  |  |
+| 700 | Export intermediaries | MI |  |  |  |  |  |
+| 800 | Other | MI |  |  |  |  |  |
+
+The group of information on market integration refers to the sale of the main farm product in terms of sales value within a given reporting year. For the given main product, an indication is to be provided on the share of product sold to different buyers and the characteristics of the relevant contractual agreements. If the main product is sold to different buyers and/or with different contract arrangements, the same criterion of the higher sales value shall apply (i.e., recorded information shall refer to the main buyer and/or the main contract in terms of sold value).
+
+Description of columns
+
+**S. Share of value sold (%)**
+
+The calculation of the share of value sold refers to determining the percentage of the total value of the main farm product in terms of sales value that has been sold within a given reporting year by type of buyer.
+
+**C. Contract type**
+
+An indication is to be given on the existence of a written contract between the farmer and the buyer on the sale of the main farm product. If the given main farm product is sold with different contracts, only the information on the main contract in terms of sales value should be reported.
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+**P. Price arrangements**
+
+In case a written contract exists (i.e., the value entered under point C is equal to 1), an indication is to be given on the type of price agreement for the sale of the main farm product covered by such contract.
+
+Codes to be used:
+
+1 Static price (i.e., the contract provides for a price which is not subject to change regardless of fluctuations in costs, market conditions, or other variables).
+
+2 Variable price (i.e., the contract provides for a price-formula laying down indicators, indices and/or methods of calculation which reflect changes in market conditions, quantities, and the quality and composition of the products delivered).
+
+**V. Value sharing**
+
+In case a written contract exists (i.e., the value entered under point C is equal to 1), an indication is to be given on whether the contract determines how any evolution of relevant market prices for the products concerned or other commodity markets profits or losses is to be allocated between the contractual parties, including through bonuses or sharing of losses.
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+**R. Contract terms**
+
+In case a written contract exists (i.e., the value entered under point C is equal to 1), an indication is to be given on contract terms concerning the quantities of goods to be delivered, frequency of the deliveries, as well as payment terms and penalties for non-compliance as regards the sale of the main farm product covered by such contract.
+
+Codes to be used (multiple selection possible):
+
+1\. The contract requires regular deliveries of the products during the entire duration of the contract.
+
+2\. The duration of the contract is up to 1 year without automatic renewal clause.
+
+3\. The payments for the products delivered under the contract is to be made up to 30 days from the delivery of the goods.
+
+4\. The contracts include penalties for the producer for non-compliance and/or in the event of force majeure.
+
+**Table DI**
+
+**Innovation and digitalisation**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Categories of innovation and digitalisation</td><td colspan="2">Code</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Participation</td><td>Uptake</td></tr>
+<tr><td>P</td><td>U</td></tr>
+<tr><td>IN</td><td>Innovation projects and networks</td><td>  </td><td>  </td></tr>
+<tr><td>FM</td><td>Farm management</td><td>  </td><td>  </td></tr>
+<tr><td>PF</td><td>Precision farming</td><td>  </td><td>  </td></tr>
+<tr><td>LM</td><td>Machinery for livestock management</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code | Description | Group | P | U |
+| --- | --- | --- | --- | --- |
+| 110 | Research and innovation project | IN |  | - |
+| 120 | EIP operational group | IN |  | - |
+| 130 | Demonstration farm | IN |  | - |
+| 140 | Farmers network | IN |  | - |
+| 150 | Other network | IN |  | - |
+| 210 | Farm management information system | FM | - |  |
+| 310 | Robotics for crop production | PF | - |  |
+| 320 | Variable rate techniques | PF | - |  |
+| 330 | Precision monitoring of crops | PF | - |  |
+| 410 | Welfare and health monitoring of animals | LM | - |  |
+| 420 | Automatic feeding systems | LM | - |  |
+| 430 | Automatic regulation of barn climate | LM | - |  |
+| 440 | Milking robots | LM | - |  |
+
+**DESCRIPTION OF CATEGORIES**
+
+**110 Research and innovation project**
+
+Research and innovation (R&I) projects undertaken by companies aim to innovate and introduce new products and services or to improve existing offer. They may be the result of collaboration between farmers, researchers, and other businesses through a multi-actor approach which enhances R&I efforts and farm’s uptake of R&I’s results.
+
+**120 EIP operational group**
+
+An EIP-AGRI Operational Group project includes partners with complementary knowledge (e.g., scientific, technical, organisational, etc.) who co-create practical solutions for agriculture, forestry, and rural communities in an innovation project. It may include various actors from European Agricultural Knowledge and Innovation Systems (AKIS), including farmers, foresters, researchers, advisors, businesses, environmental groups, consumer interest groups or other NGOs to advance innovation for agriculture, forestry, and rural areas.
+
+**130 Demonstration farm**
+
+A demonstration farm (or experimental or model farm) contributes to research or demonstrates various agricultural techniques.
+
+**140 Farmers network**
+
+A farmer network is a way for farmers to exchange information and technical knowledge, as well as to create connection opportunities on a regular basis.
+
+**150 Other network**
+
+Other farm network includes initiatives such as LEADER and smart villages.
+
+**210 Farm management information system**
+
+Management information systems are decision support tools, either on an own computer or via an on–line system. They include but are not restricted to tools such as digital field book or digital herd book.
+
+**310 Robotics for crop production**
+
+It includes self–driving machinery, berry–picking robots, very high precision equipment based on RTK–GPS, and other. Equipment using GPS guidance for the application of PPPs and equipment for band-spraying of PPPs are also included.
+
+**320 Variable rate techniques**
+
+In variable rate techniques, the rate of application is based on the precise location or qualities of the area. They are used for one or more of the following farming operations:
+
+— Fertilisation
+
+— Plant protection
+
+— Weeding
+
+— Sowing
+
+— Planting
+
+— Other
+
+**330 Precision monitoring of crops**
+
+Crop monitoring techniques such as:
+
+— Weather stations
+
+— Digital mapping (soil quality mapping, yield mapping, Normalized Difference Vegetation Index (NDVI) mapping)
+
+— Soil scanning
+
+— Yield monitoring sensors
+
+— Other
+
+**410 Welfare and health monitoring of animals**
+
+Monitoring of farm animals using one or more of the following techniques:
+
+— Camera monitoring
+
+— Sound monitoring
+
+— Alert systems
+
+— Activity sensors
+
+— Animal tracking
+
+— Health monitoring (e.g., temperature, weight, lameness, or mastitis monitoring)
+
+— Feeding registration
+
+— Drinking registration
+
+— Other
+
+**420 Automatic feeding systems**
+
+Automatic feeding systems for animals automate and optimise the feeding process, providing consistent and controlled feed delivery to the animals while minimising labour and ensuring efficient resource utilisation.
+
+**430 Automatic regulation of barn climate**
+
+Equipment for automatic regulation of barn climate including temperature control, ventilation, humidity management, lighting control, alarm, and monitoring system.
+
+**440 Milking robots**
+
+Automatic milking systems which replace the practice of milking by hand.
+
+**DESCRIPTION OF COLUMNS**
+
+**Participation (P)**
+
+The code indicates whether the farm participated in innovation projects or networks during the last three years. The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**Uptake (U)**
+
+The code indicates whether the farmer owned, rented, or used the given technology in the reporting year. It may include the use of the given technology by a service provider if the technology used to perform the farming operations is specified in the contract or in the invoices or if the farmer is aware of the technology used by direct knowledge or information. The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**Table OF**
+
+**Indicative share of off-farm income**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">  </td><td>Column</td></tr>
+<tr><td colspan="2">Group of information</td><td>Code</td></tr>
+<tr><td colspan="2">  </td><td>C</td></tr>
+<tr><td>OI</td><td>Off-farm income</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code | Description | Group | C |
+| --- | --- | --- | --- |
+| 100 | Share of off-farm income | OI |  |
+| 200 | Sources of off-farm income | OI |  |
+
+The group of information of off-farm income refers to farmer’s incomes from employment other than farm work and other than other gainful activities directly related to the farm (OGA). It includes off-farm employment and self-employment of unpaid holder/manager or holder/not manager or manager/not holder. If income values are not yet known for the FSDN reporting year, the period of observation may refer to the previous 12-month income reference period, namely the previous calendar or tax year for both farm and off-farm incomes (for example, 2026 farm and off-farm incomes to be considered for FSDN reporting year 2027). The period of observation (i.e., the FSDN reporting year or the previous 12-month income reference period) applied by each Member State shall be communicated to the Commission in due time for the set-up of the computerised delivery and control system referred to in Article 11(1) of this Regulation.
+
+The following categories are to be distinguished:
+
+**OF.OI.100.C. Share of off-farm income**
+
+An indication is to be provided on the indicative proportion of off-farm income compared with income from farming and OGA (i.e., an indication if the off-farm income is higher or lower compared with farm income and to what degree). The following code numbers are to be used:
+
+0 No presence of off-farm income – i.e., off-farm income equals to 0
+
+1 Off-farm income is a secondary source of income – i.e., off-farm income is lower than 50 % compared to income from farming and OGA
+
+2 Off-farm income is a significant source of income – i.e., off-farm income is between 50 % and 100 % compared to income from farming and OGA
+
+3 Off-farm income is greater than income from farming and OGA – i.e., off-farm income is more than 100 % compared to income from farming and OGA
+
+The following calculation formula may be used to estimate the share of off-farm income:
+
+Share =
+
+[image]
+
+×100
+
+However, such calculation is not required and should not be performed especially when, due to certain income values (e.g., negative income), the result would not be meaningful.
+
+**OF.OI.200.C. Sources of off-farm income**
+
+An indication of the sources of off-farm income is to be given if the code used to fill in OF.OI.100.C is different from 0. The following code numbers are to be used:
+
+1 Mostly employment
+
+2 Mostly self-employment
+
+**Table FP1**
+
+**Farming practices 1**
+
+Environmental and climate farming practices are any protection, commitment or investment actions undertaken by a farmer or a land manager with the aim to improve the environmental conditions of farming, and to mitigate and adapt to climate change.
+
+Structure of the table
+
+<table>
+<tbody><tr><td>  </td><td>Category of farming practices</td><td>Code (*)</td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Area</td><td>Quantity</td></tr>
+<tr><td>TA</td><td>Q</td></tr>
+<tr><td>TI</td><td>Tillage management</td><td>  </td><td>—</td></tr>
+<tr><td>SC</td><td>Soil cover</td><td>  </td><td>—</td></tr>
+<tr><td>OF</td><td>Organic fertilisation</td><td>  </td><td>  </td></tr>
+<tr><td>AL</td><td>Application of lime</td><td>—</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Group | Description | TA | Q |
+| --- | --- | --- | --- | --- |
+| 100 | TI | Conventional tillage |  | — |
+| 200 | TI | No tillage |  | — |
+| 300 | TI | Conservation (low) tillage |  | — |
+| 400 | SC | Winter soil cover on arable land |  | — |
+| 500 | SC | Herbaceous cover in permanent crops |  | — |
+| 600 | OF | Use of compost | — |  |
+| 700 | OF | Use of digestates or nutrients-rich fractions | — |  |
+| 800 | OF | Green manuring |  | — |
+| 900 | OF | Use of sewage sludge | — |  |
+| 1000 | AL | Application of lime | — |  |
+
+**GROUPS OF INFORMATION IN TABLE FP1**
+
+**TI Tillage**
+
+For each entry, the area (TA) under the different tillage management practices is to be recorded. The area is to be given in ares (100 ares = 1 hectare).
+
+**SC Soil cover**
+
+For each entry, the covered area (TA) is to be recorded. The area is to be given in ares (100 ares = 1 hectare).
+
+**OF Organic fertilisation**
+
+For each entry, the quantity (Q) is to be recorded, except for green manuring, for which area (TA) is to be recorded. The quantity of organic fertiliser applied during the reporting year shall be indicated in quintals (100 kg). For green manuring the area refers to the total area planted with crops used specifically for this purpose. The area is to be given in ares (100 ares = 1 hectare).
+
+**AL Application of lime**
+
+For each entry, the quantity (Q) is to be recorded. The quantity shall be indicated in quintals (100 kg).
+
+**Categories of farming practices**
+
+100 Conventional tillage
+
+Tillage which involves inversion of the soil, normally with a mouldboard or a disc plough as the primary tillage operation, followed by secondary tillage with a disc harrow.
+
+200 No tillage
+
+Practice in which the crop is sown directly into soil not tilled since the harvest of the previous crop (also referred to as direct seeding). Weed control is achieved by the use of herbicides and/or appropriate mulching and other techniques like intermediate crops or under-sowing and stubble is retained for erosion control. No tillage is applied between harvest and sowing. Sod seeding practices shall be recorded in this category.
+
+300 Conservation (low) tillage
+
+Conservation (low) tillage refers to tillage practices or system that do not entail soil inversion. This category includes tillage methods that involve low degrees of soil disturbance (e.g., minimum tillage, subsoil tillage, non-inversion, or surface inversion), as well as strip tillage or zonal tillage, tined tillage or vertical tillage and ridge tillage.
+
+400 Winter Soil cover on arable land
+
+It is the area of arable land that is covered (not bare) during winter. It includes:
+
+— Area cultivated with regular winter crops
+
+— Area cultivated with cover crops, catch crops and/or any plants that are sown specifically to manage soil erosion, fertility, and quality, water, weeds, pests, diseases, biodiversity and wildlife, between harvest and sowing, during winter.
+
+— Arable land covered with the plant residues and stubble of the previous crop season and/or land covered with mulch (loose covering with material that is either natural such as litter, cut grass, straw, foliage, pruning residues, bark or sawdust, or artificial such as paper or synthetic fibres).
+
+500 Herbaceous cover in permanent crops
+
+Area covered by herbaceous vegetation, either spontaneous or planted (including cover crops), on utilised agricultural area occupied by permanent crops. It includes herbaceous cover between the rows for vineyards and orchards planted in rows, as well as the area between trees in orchards not planted in row. To be accounted for, the herbaceous cover shall have been maintained for a period of at least 6 months during the reporting year.
+
+600 Use of compost
+
+Compost is the product of composting, a biological process that submits biodegradable waste to anaerobic or aerobic decomposition and that results in a product used on land or for the production of growing media or substrates. Compost is commonly prepared by decomposing plant and food waste, recycling organic materials, and manure.
+
+700 Digestates or nutrients-rich fractions
+
+Application of digestates or nutrients-rich fractions recovered from manure. The digestate is a residue that is not decomposed in the anaerobic digestion process such as the one for the production of biogas. Different types of fractions and digestate are included in this category such as manure liquid fraction, manure solid fractions, manure only-digestate, co-digestate, digestate liquid fractions, manure/digestate mineral concentrates.
+
+800 Green manuring
+
+The total area planted with crops used for green manuring shall be reported. Green manure crops are plants that are grown, cut and incorporated into the soil to enhance soil fertility. Mustard, radish and some leguminous crops are used as green manure. Incorporation of straw or crop residues from the main crops shall not be considered green manuring.
+
+900 Use of sewage sludge
+
+Residual, semi-solid material that is produced as a by-product during sewage treatment of industrial or municipal wastewater.
+
+1000 Application of lime
+
+Application to soil of calcium (Ca)- and magnesium (Mg)-rich materials in various forms, including loam, chalk, limestone, burnt lime or hydrated lime.
+
+**Table FP2**
+
+**Farming practices 2**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of farming practices</td><td>Code (*)</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td colspan="2" rowspan="3">Group of information</td><td>Columns</td></tr>
+<tr><td>Area</td></tr>
+<tr><td>TA</td></tr>
+<tr><td>CR</td><td>Crop rotation</td><td>  </td></tr>
+<tr><td>LU</td><td>Specific land uses</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code(*) | Group | Description | TA |
+| --- | --- | --- | --- |
+| 100 | CR | Crop rotation |  |
+| 200 | LU | Agroforestry |  |
+| 300 | LU | Paludiculture |  |
+
+**GROUPS OF INFORMATION IN TABLE FP2 – Farming practices 2**
+
+**CR Crop rotation**
+
+The total area (TA) is to be recorded. The area is to be given in ares (100 ares = 1 hectare).
+
+**LU Specific land uses**
+
+The total area (TA) is to be recorded. The area is to be given in ares (100 ares = 1 hectare).
+
+**Categories of farming practices**
+
+100 Crop rotation
+
+Total area under crop rotation. Crop rotation is the practice of alternating crops grown on a specific field in a planned pattern or sequence in successive crop years so that crops of the same species are not grown without interruption on the same field. Crop rotation applies to arable land cultivated for crop production or area in set aside (less than five year); the area of a plot is to be considered part of a crop rotation scheme as soon as it has not been planted or covered continuously with the same crop or lying fallow in the last 3 years.
+
+The following crops shall not be accounted for when calculating the area under crop rotation:
+
+— Arable land under glass or high accessible cover;
+
+— Cultivated mushrooms.
+
+200 Agroforestry
+
+Agroforestry is a type of land-use system where woody perennials (trees, shrubs) are deliberately used on the same land management unit together with agricultural crops, grasslands and/or animals.
+
+300 Paludiculture
+
+Area under Paludiculture, defined as a type of land-use where intact or rewetted peatland is used to produce biomass for commercial purposes.
+
+**Table NM1**
+
+**Nutrient use and management – Manure storage**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td colspan="2">Category of manure storage system</td><td>Code (*)</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="3" rowspan="3">Group of information</td><td>Columns</td></tr>
+<tr><td>Share</td></tr>
+<tr><td>S</td></tr>
+<tr><td>MS</td><td>Manure storage facilities</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code(*) | Description | S |
+| --- | --- | --- |
+| 100 | Manure solid storage in heaps |  |
+| 200 | Solid manure stored in compost piles |  |
+| 300 | Solid manure stored in pits below animal confinement |  |
+| 400 | Solid manure stored in deep litter systems |  |
+| 500 | Liquid manure / slurry storage without cover |  |
+| 600 | Liquid manure / slurry storage with permeable cover |  |
+| 700 | Liquid manure / slurry storage with impermeable cover |  |
+| 800 | Solid manure stored in other facilities n.e.c. |  |
+| 900 | Liquid manure/slurry stored in other facilities n.e.c |  |
+| 1000 | Solid Manure daily spread |  |
+| 1100 | Liquide manure/slurry daily spread |  |
+
+**GROUPS OF INFORMATION IN TABLE NM1 – Manure storage**
+
+**MN Manure storage facilities**
+
+Data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+The storage facilities for manure management systems cover the storage of solid manure and liquid manure/slurry.
+
+— Liquid manure is urine from domestic animals including possibly a small amount of excrement and/or water. Liquid manure has up to 4 % dry matter. Slurry is manure in liquid form, a mixture of excrements and urine of domestic animals, including possibly also water and/or a small amount of litter. The share of dry matter content is 4-20 %. For the purpose of FSDN, liquid manure and slurry are considered jointly.
+
+— Solid manure, including farmyard manure, are excrements, with or without litter, of domestic animals including possibly a small amount of urine. Solid manure has at least 20 % dry matter. It is handled with front-end loaders and/or pitchforks.
+
+**Description of categories of manure storage systems**
+
+100 Manure solid storage in heaps
+
+Manure which is stored in unconfined piles or stacks or in open confinement area, normally for a period of several months. These facilities may or may not have a roof, or may or may not be covered.
+
+200 Solid manure stored in compost piles
+
+Manure stored in confined compost piles, which are aerated and/or mixed.
+
+300 Solid manure stored in pits below animal confinement
+
+Manure stored with little or no added water, typically below a slatted floor in an enclosed animal confinement facility, usually for periods of less than 1 year. Includes cattle and swine manure with litter and poultry manure without litter.
+
+400 Solid manure stored in deep litter systems
+
+Manure which is accumulated over a production cycle, which can extend to 6 or 12 months.
+
+500 Liquid manure / slurry storage without cover
+
+Manure which is stored in uncovered tanks, or ponds, usually for a period of less than 1 year. Includes uncovered anaerobic lagoons and aerobic treatment lagoons.
+
+600 Liquid manure / slurry storage with permeable cover
+
+Manure stored in tanks or ponds, usually for a period of less than 1 year and that is covered with a permeable cover (such as clay, straw or natural crust).
+
+700 Liquid manure / slurry storage with impermeable cover
+
+Manure stored in tanks or ponds, usually for a period of less than 1 year and that is covered with an impermeable cover (such as high-density polyethylene or negative pressure covers).
+
+800 Solid manure stored in other facilities n.e.c.
+
+Solid manure stored in other facilities not elsewhere classified.
+
+900 Liquid manure/slurry stored in other facilities n.e.c.
+
+Liquid manure/slurry stored in other facilities not elsewhere classified.
+
+1000 Solid manure daily spread
+
+Manure which is routinely removed from a confinement facility and is applied to cropland or pasture within 24 hours of excretion.
+
+1100 Liquide manure/slurry daily spread
+
+Manure which is routinely removed from a confinement facility and is applied to cropland or pasture within 24 hours of excretion.
+
+**Description of the columns**
+
+Share (S)
+
+It refers to the share (in percentages) of own-produced solid manure that is stored in each type of storage facility (%) and the percentages of own-produced liquid manure/slurry that is stored in each type of storage facility (%).
+
+**Table NM2**
+
+**Nutrient use and management – Manure application**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of manure application techniques</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="2" rowspan="4">Group of information</td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2">Code</td></tr>
+<tr><td>Share</td><td>Quantity</td></tr>
+<tr><td>S</td><td>Q</td></tr>
+<tr><td>MA</td><td>Manure application techniques</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code(*) | Description | S | Q |
+| --- | --- | --- | --- |
+| 100 | Solid manure broadcast incorporation within 4 hours |  | - |
+| 110 | Liquid manure/Slurry broadcast incorporation within 4 hours |  | - |
+| 120 | Solid manure broadcast incorporation after 4 hours |  | - |
+| 130 | Liquid manure/Slurry broadcast incorporation after 4 hours |  | - |
+| 140 | Solid manure broadcast no incorporation |  | - |
+| 150 | Liquid manure/Slurry broadcast no incorporation |  | - |
+| 160 | Liquid manure/slurry band spread trailing hose |  | - |
+| 170 | Liquid manure/slurry band spread trailing shoe |  | - |
+| 180 | Liquid manure/slurry injection shallow/open slit |  | - |
+| 190 | Liquid manure/slurry injection deep/closed slit |  | - |
+| 200 | Solid manure used in own biogas plant (own produced) |  |  |
+| 210 | Liquid manure/slurry used in own biogas plant (own produced) |  |  |
+| 220 | Export of solid manure from the farm | - |  |
+| 230 | Export of liquid manure/slurry from the farm | - |  |
+| 240 | Import of solid manure into the farm | - |  |
+| 250 | Import of liquid manure/slurry into the farm | - |  |
+
+**Categories of manure application**
+
+100 Solid manure broadcast incorporation within 4 hours; 110 Liquid manure/Slurry broadcast incorporation within 4 hours, 120 Solid manure broadcast incorporation after 4 hours; 130 Liquid manure/Slurry broadcast incorporation after 4 hours; 140 Solid manure broadcast no incorporation; 150 Liquid manure/Slurry broadcast no incorporation.
+
+Broadcasting can be used for the application of solid, slurry and liquid manure. Application techniques include box spreaders, tank wagons, tow hoses, and irrigation systems. Broadcasting requires the least amount of energy and time, and results in a uniform application pattern.
+
+Immediate incorporation of manure consists of techniques which allow an immediate incorporation of solid dung or slurry. For effective abatement, the incorporation is to happen as rapidly as possible. This means that the applied manure is directly incorporated by a manure or slurry spreading machine or the spreading machine is immediately followed by another machine incorporating the manure into the soil (chisel or disk ploughing). The 4-hour threshold may be considered as the approximate time limit to distinguish immediate incorporation.
+
+160 Liquid manure/slurry band spread trailing hose; 170 Liquid manure/slurry band spread trailing shoe
+
+Band spreading is the placement of fertiliser in a concentrated layer or location (band) in the soil, commonly 8-15 cm below the surface. Fertiliser bands may be placed with the seed, below the seed, or both.
+
+Trailing hose: Slurry is discharged at ground level to grass or arable land through a series of flexible hoses. Application between the rows of a growing crop is feasible.
+
+Trailing shoe: Slurry is normally discharged through rigid pipes which terminate in metal “shoes” designed to ride along the soil surface, parting the crop so that slurry is applied directly to the soil surface and below the crop canopy. Some types of trailing shoes are designed to cut a shallow slit in the soil to aid infiltration.
+
+180 Liquid Manure/slurry injection shallow/open slit
+
+Shallow injection: the application of liquid manure by placement in shallow, vertical slots, typically about 50 mm deep and 25-30 cm apart, cut into the soil by a tine or disc; they are more commonly used on grassland.
+
+190 Liquid Manure/slurry injection deep/closed slit
+
+Deep injection: the application of slurry or liquid manure by placement in deep, vertical slots, typically about 150 mm deep, cut into the soil by specially designed tines; the tines are fitted with lateral wings which aid the dispersion in the soil; typically, these are used on arable land as they have an increased risk of physically damaging the grass swards.
+
+200 Solid manure used in biogas plant (own produced); 210 Liquid manure/slurry used in own biogas plant (own produced)
+
+Manure which was used for energy production in biogas plants.
+
+220 Export of solid manure from the farm
+
+It is the quantity of solid manure exported from the farm for direct use as fertiliser or intended for industrial processing regardless of whether it is sold, exchanged or given away for free. It includes manure that was used for energy production and at a later stage is to be re-used in agriculture.
+
+230 Export of liquid manure/slurry from the farm
+
+It is the quantity of liquid manure/slurry manure exported from the farm for direct use as fertiliser or intended for industrial processing regardless of whether it is sold,exchanged or given away for free. It includes manure that was used for energy production and at a later stage is to be re-used in agriculture.
+
+240 Import of solid manure into the farm; 250 Import of liquid manure/slurry into the farm
+
+It is the quantity of manure imported on the farm for direct use as fertiliser or intended for industrial processing regardless of whether it is bought, exchanged or obtained for free. It includes manure that was used for energy production and at a later stage is to be re-used in agriculture.
+
+**Description of columns**
+
+Share (S)
+
+It refers to the share (in percentages) of total (own-produced and imported) solid manure that has been applied by different application technique or used in biogas plant (%); and the share (in percentages) of total (own-produced and imported) liquid manure/slurry that has been applied by different application technique or used in biogas plant (%).
+
+Quantity (Q)
+
+The quantity shall be indicated in quintals (100 kg) for solid manure and in cubic meter for liquid manure/slurry.
+
+**Table NM3**
+
+**Nutrient use and management – Feed Input**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of feed</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="2" rowspan="4">Group of information</td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2">Code</td></tr>
+<tr><td>Quantity</td><td>Number of animals</td></tr>
+<tr><td>Q</td><td>N</td></tr>
+<tr><td>FI</td><td>Feed input</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code(*) | Category of feed | Q | N |
+| --- | --- | --- | --- |
+| 100 | Cereals |  | - |
+| 110 | Oilseeds and their derivatives |  | - |
+| 120 | Protein crops and their derivatives |  | - |
+| 130 | By products of the processing industry |  | - |
+| 140 | Fermented bulk fodder (haylage and silage) |  | - |
+| 150 | Non-silage fibre fodder |  | - |
+| 160 | Fats and oils |  | - |
+| 170 | Minerals |  | - |
+| 180 | Concentrates |  | - |
+| 190 | Feed additives for methane reduction | - |  |
+
+**GROUPS OF INFORMATION IN TABLE NM3 – Feed input**
+
+**FI Feed input**
+
+For categories 100 to 180, the quantity of feed refers to the amount of feed imported into the farm (purchased or obtained for free) and used for animal feed during the reporting year should be recorded. The quantity shall be expressed in quintals (100 kg).
+
+For category 190, the number of dairy cows and reproductive bovine animals that are fed in a stable and are given the additive 3-NOP to reduce methane emissions from enteric fermentation should be recorded.
+
+**Description of categories:**
+
+100 Cereals
+
+Includes: soft and durum wheat, maize, barley, oats, triticale, sorghum, rye
+
+110 Oilseeds and their derivatives
+
+Includes: extracted rapeseed meal, extracted sunflower meal, extracted oilseeds, flakes, other oilseeds and their derivates
+
+120 Protein crops and their derivates
+
+Includes: full-fat/extruded soybean (minimum 18% crude fat content), other extruded protein crops (fodder peas, broad beans, lupins), extracted soybean meal, other soybean products (flakes and soya meal pellets), dried alfalfa (pellets and meal), other protein crops and their derivatives
+
+130 By-products of the processing industry
+
+Includes: cereals and maize DDGS/WDGS, dry and wet CGF, corn gluten meal (CGM), maize germ, beet pulp, molasses, by-product of malting (bran), dairy by-products, by-products of the beer industry, canning by-products, other by-products of the processing industry
+
+140 Fermented bulk fodder (haylage and silage)
+
+Includes: grain maize with cobs (CCM) and leaves, grass, green fodder (sugar sorghum, rye, barley), legume forage (alfalfa, clover, etc.), forage brassicas (turnip rape, fodder cabbage), green fodder mix (autumn, spring), root, tuber and cucurbit fodder, other fermented bulk fodder (haylage and silage)
+
+150 Non-silage fibre fodder
+
+Includes: hay, straw, pasture grass, other non-silage fibre fodder
+
+160 Fats and oils
+
+170 Minerals
+
+Includes: phosphate content materials, limestone, salt, etc)
+
+180 Concentrates
+
+Includes: complete feed, milk replacer, complementary feed, premixtures
+
+190 Feed additives for methane reduction
+
+Feed additive 3-NOP for reducing methane emission from enteric fermentation. It can be administered to dairy cows and reproductive animals only, and only when they are fed in a stable.
+
+Table ST
+
+Soil test
+
+This information is optional for Member States. In case Member States decide to provide this information, soil test results may be submitted if they are available and have been conducted within the last five years. The soil test pertains to a single parcel, where the sampling occurred. If more than one test was conducted on the same parcel within the last five years, the most recent one is to be provided. If data related to more than one parcel are available, multiple entries are possible.
+
+Structure of the table
+
+<table>
+<tbody><tr><td>  </td><td>Parcel ID</td><td>Code (*)</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Categories of test</td><td>Code (**)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">  </td><td>  </td></tr>
+<tr><td colspan="3" rowspan="2">Group of information</td><td>Value</td><td>Code</td></tr>
+<tr><td>V</td><td>C</td></tr>
+<tr><td>ST</td><td colspan="2">Soil test</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (**) | Description | V | C |
+| --- | --- | --- | --- |
+| 100 | Bulk density in topsoil (g/cm3) |  | - |
+| 110 | Bulk density in subsoil (g/cm3) |  | - |
+| 120 | Soil water holding capacity (% of volume of water / volume of saturated soil) |  | - |
+| 130 | Soil erosion rate (ton/ha/year) |  | - |
+| 140 | Soil basal respiration (mm3 O2/g/hr) in dry soil |  | - |
+| 150 | Soil texture | - |  |
+| 160 | Soil acidity (pH) |  | - |
+| 170 | Soil Organic Carbon (SOC) concentration (g/kg) |  | - |
+| 180 | Electrical conductivity (dS/m - deci-Siemens per meter) |  | - |
+| 190 | CaCO3 (m/m %) |  | - |
+| 200 | Nitrogen in soil (mg/g) |  | - |
+| 210 | Extractable phosphorous (mg/kg) (according to ISO 11263:1994) |  | - |
+| 220 | K2O (mg/kg) |  | - |
+| 230 | Cd (mg/kg) |  | - |
+| 240 | Cu (mg/kg) |  | - |
+| 250 | Pb (mg/kg) |  | - |
+| 260 | Zn (mg/kg) |  | - |
+
+Parcel ID
+
+The parcel ID shall include both the reference parcel ID as referred to in Article 2(2) of Commission Delegated Regulation (EU) 2022/1172 ( 16 ) and the agricultural parcel ID as referred to in Article 8(3), point (a), of Commission Implementing Regulation (EU) 2022/1173 ( 17 ).
+
+Description of columns
+
+Value (V)
+
+The value represents the specific measurement of various soil properties, such as physical, chemical, and biological characteristics. The unit of measurement is indicated for each variable and reflects the appropriate standard for that specific property.
+
+Code (C)
+
+Code refers to soil texture (category 150), which classifies soil based on the relative proportions of sand, silt and clay.
+
+**Table BD1**
+
+**Biodiversity – Landscape features**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Group of Information</td><td colspan="2">Columns</td></tr>
+<tr><td>LF</td><td>Type of Landscape Features</td><td>Presence</td><td>Area</td></tr>
+<tr><td>  </td><td>  </td><td>P</td><td>TA</td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code | Group | Description | P | TA |
+| --- | --- | --- | --- | --- |
+| 100 | LF | Terraces |  |  |
+| 110 | LF | Hedgerows, individual or group of trees, tree rows |  |  |
+| 120 | LF | Field margins, patches or buffer strips |  |  |
+| 130 | LF | Ditches |  |  |
+| 140 | LF | Streams |  |  |
+| 150 | LF | Small ponds |  |  |
+| 160 | LF | Small wetlands |  |  |
+| 170 | LF | Stonewalls |  |  |
+| 180 | LF | Cairns |  |  |
+| 190 | LF | Cultural features |  |  |
+| 200 | LF | Other |  |  |
+
+**GROUPS OF INFORMATION IN TABLE BD1 – Landscape features**
+
+LF: Landscape features. Each holding has to record the presence (P) of landscape features on the farm area.
+
+The codes to be used:
+
+0 No
+
+1 Yes
+
+The recording of the area of landscape features is optional. The area (TA) is to be indicated in ares (100 ares = 1 hectare).
+
+**Description of categories**
+
+**100 Terraces**
+
+Terraced hillsides are anthropogenic structures created to reduce the risk of erosion, consisting of one or more “steps” (steep sections covered permanent woody or grassy vegetation or stone walls) and “land blocks” (flat sections that are used for agricultural production, separated by the steps). Herbaceous vegetation is considered to be an integral part of terraces.
+
+**110 Hedgerows, individual or group of trees, trees rows**
+
+Includes isolated trees, trees in line, hedgerows, riparian woody vegetation (along water course), or any narrow strips (&lt;20 m) of land covered by trees and shrubs within an agricultural context. This type may also include small groups of trees, field copses, or any small groups of woody semi-natural vegetation in an agricultural context. In case there is a grass (herb) layer under the woody vegetation, the woody feature is considered to incorporate the underlying grass layer too. The maximum area for a woody landscape feature is 0,5 ha.
+
+**120 Field margins, patches or buffer strips**
+
+Field margins, patches or buffer strips consist of permanent semi-natural herbaceous vegetation (typically grass and/or perennial herbs) which are in the agricultural context, and which are not directly used for grazing, or fodder production. This may include field margins, buffer strips (along ditches or ponds), or any other small pieces of semi-natural herbaceous vegetation as long as they are between arable or permanent crops fields. The minimum width of this type of landscape feature is 1 m (for ensuring persistency). Nevertheless, this type of landscape feature excludes parcels of actively managed grasslands (used for grazing or fodder production), and large patches of natural and semi-natural grasslands (wider than 20 m). Furthermore, farm tracks with grass, and grass strips between the rows of vineyards/orchards are also excluded and ‘grassy margins’ that are next to grassland patches shall not be registered, either. Permanent grass/herbs landscape features do not include the grass layer under a woody feature, nor wet marsh vegetation. It includes temporary herbaceous vegetation, which consists of narrow strips of cropland planted with non-productive crops or flower-rich fallow (weed) vegetation inside arable land or permanent crops (typically along field margins), deliberately sown by the farmers to support biodiversity.
+
+It excludes area in table I under categories 30100 (pasture and meadow), 30200 (rough grazing), 30300 (permanent grassland).
+
+**130 Ditches, 140 Streams**
+
+This type includes small water courses within an agricultural context, including the open water surface of streams, ditches, and small channels and the adjacent marsh vegetation up to a maximum width of 20 m. Ditches that are dry at the time of observation may also be registered if the vegetation reveals a regular presence of water. Exclusions: Artificial constructions (channels with walls of concrete and subterranean constructions) are excluded.
+
+**150 Small ponds, 160 Small wetlands**
+
+This type of landscape features includes small patchy landscape features characterized by wetlands and water bodies in an agricultural context up to a maximum size of 0,5 ha. The type also includes accumulations of still water formed naturally (e.g. wetlands, lakes, natural lagoons, seepage areas) or artificially (e.g. pits and waterholes). Small ponds may contain a core of open water and an adjacent wetland, characterized by marsh vegetation (e.g. reed or sedge beds) adapted to and dependent on the regular presence of surface water and high water levels. Exclusions: reservoirs lined with concrete or plastic and depressions used as landfills.
+
+**170 Stonewalls, 180 Cairns**
+
+This type of landscape features includes piles of rock or stone in an agricultural context, and terraced agricultural landscapes. Such features may be natural (e.g. secular stones) or man-made, often historical, objects (e.g. dry stone walls, clearance cairns, terraces). If trees and shrubs (liana) cover the stone walls, both features shall be registered.
+
+**190 Cultural features**
+
+This type of landscape features may include monuments, archaeological sites, cultural heritage objects (like shadoofs, burial mounds), historical/traditional buildings.
+
+**Table BD2**
+
+**Biodiversity – Biological control and grassland management**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of farming practices</td><td>Code (*)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>Area</td><td>Time Optional</td><td>Code</td></tr>
+<tr><td>TA</td><td>T</td><td>C</td></tr>
+<tr><td>BI</td><td>Biological Control</td><td>—</td><td>—</td><td>  </td></tr>
+<tr><td>GR</td><td>Grassland management</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Group | Description | TA | C | T Optional |
+| --- | --- | --- | --- | --- | --- |
+| 100 | BI | Biological control | — |  | — |
+| 110 | BI | Biological control with microbials | — |  | — |
+| 120 | BI | Biological control with macrobials | — |  | — |
+| 130 | BI | Biological control with semiochemicals | — |  | — |
+| 140 | BI | Biological control with natural substances | — |  | — |
+| 200 | GR | Area mowed once a year |  | — | — |
+| 210 | GR | Area mowed twice a year |  | — | — |
+| 220 | GR | Area mowed three times or more a year |  | — | — |
+| 250 | GR | Grassland Reseeding |  | — | — |
+| 260 | GR | Grassland ploughing |  | — | — |
+| 270 | GR | Time of first mowing | — | — |  |
+
+**GROUPS OF INFORMATION IN TABLE BD2**
+
+**BI Biological control**
+
+The following codes (C) are to be used:
+
+0 the practice was not applied on the farm during the reporting year
+
+1 the practice was applied on the farm during the reporting year
+
+**GR Grassland management**
+
+For categories 200 to 260, the area (TA) shall be reported in ares (1 ha = 100 ares), for category 270 the time of first mowing (T) should be indicated. The indication of time of first mowing is optional.
+
+**Categories of Biological Control**
+
+100 Biological control means the control of organisms harmful to plants or plant products using natural means of biological origin or substances identical to them, such as micro-organisms, semiochemicals, extracts from plant products as defined in Article 3(6) of Regulation (EC) No 1107/2009 of the European Parliament and of the Council ( 18 ), or invertebrate macro-organisms.
+
+110 Macrobials: multicellular organisms: insects, predatory mites, parasitic wasps, and beneficial nematodes that feed on pests. Optional data.
+
+120 Microbials: unicellular organisms: bacteria (e.g. Bacillus thuringiensis) fungi (e.g. Trichoderma), viruses, and their derivatives. Optional data.
+
+130 Semiochemicals: chemicals released by organisms to affect the behaviour of others (e.g. pheromones, allelochemicals). Optional data.
+
+140 Natural substances: derived from natural materials such as animals, plants, bacteria, and certain minerals. Optional data.
+
+**Categories of Grassland Management**
+
+200 to 220 For grassland that has been mowed during the reporting year, the area mowed once, twice, three times or more during the reporting year is to be reported, in ares (100 ares = 1 hectares).
+
+250 Grassland Reseeding
+
+It is the area of grassland on which new grass seeds were planted, regardless of whether the grassland was previously ploughed or not.
+
+260 Grassland ploughing
+
+It is the area of grassland that has been ploughed during the reporting year, through conventional tillage techniques (see definition in table FP1). Grassland areas that were tilled using conservation tillage methods (see definition in table FP1), shall not be considered here.
+
+270 The time of first mowing represents the period of the year in which the majority of the grassland area was first mowed. This information is optional for Member States
+
+For Column (T) the following codes shall be used:
+
+1 January
+
+2 February
+
+3 First half of March
+
+4 Second half of March
+
+5 First half of April
+
+6 Second half of April
+
+7 First half of May
+
+8 Second half of May
+
+9 First half of June
+
+10 Second half of June
+
+11 First half of July
+
+12 Second half of July
+
+13 First half of August
+
+14 Second half of August
+
+15 September
+
+16 October
+
+17 November
+
+18 December
+
+**Table WT**
+
+**Water management**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of water management</td><td>Code (*)</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Columns</td></tr>
+<tr><td>C</td></tr>
+<tr><td>WS</td><td>Water source</td><td>  </td></tr>
+<tr><td>PT</td><td>Payment terms</td><td>  </td></tr>
+<tr><td>BM</td><td>Adoption of best management practices</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code(*) | Description | Group | C |
+| --- | --- | --- | --- |
+| 100 | Source | WS |  |
+| 200 | Payment terms | PT |  |
+| 300 | Adoption of irrigation scheduling | BM |  |
+| 400 | Adoption of tailwater recovery systems | BM |  |
+
+**Description of categories:**
+
+100 Source
+
+The following codes are to be used to indicate the main water source of the holding for irrigation:
+
+1 Rainfall storage
+
+2 Natural or artificial surface watercourses
+
+3 Groundwater
+
+4 Mains water supply
+
+5 Wastewater reuse (reclaimed water) ( 19 )
+
+6 Other
+
+7 The farm has no irrigation system
+
+200 Payment terms for irrigation water
+
+Codes to be used:
+
+1 Did not pay for water
+
+2 Paid a fee based on the area of land irrigated
+
+3 Paid a fee based on the volume of water
+
+4 Other payment modalities
+
+300 Adoption of irrigation scheduling
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+Irrigation scheduling refers to an irrigation system where water is applied to the cultivation according to predetermined schedules based upon the monitoring of the soil water status and crop water requirements.
+
+400 Tailwater recovery
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+Tailwater recovery involves the recollection of recoverable irrigation runoff water and is applied to conserve irrigation water supplies and/or improve offsite water quality. An irrigation tailwater recovery system is an irrigation system in which some facilities have been installed for the collection, storage, and transportation of irrigation tailwater for reuse.
+
+Table I1
+
+Plant protection product use
+
+Structure of the table
+
+<table>
+<tbody><tr><td colspan="2">Parcel ID (optional)</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="2">Category (crop level is optional)</td><td colspan="2">Code (**)</td></tr>
+<tr><td colspan="2">Unit</td><td colspan="2">Code (***)</td></tr>
+<tr><td colspan="2">Active substance</td><td colspan="2">Code (****)</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="3" rowspan="3">Group of information</td><td>Columns</td></tr>
+<tr><td>Quantity</td></tr>
+<tr><td>Q</td></tr>
+<tr><td>PP</td><td colspan="2">Plant protection product use</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (**) | Description | Q |
+| --- | --- | --- |
+| 10000 | PPP use |  |
+| 10110 | Common wheat and spelt |  |
+| …/… |  |  |
+| 90900 | Other |  |
+
+GROUPS OF INFORMATION IN TABLE I1
+
+Quantity of plant protection product applied during the reporting year shall be provided by active substances.
+
+Category 10000 shall be used when the active substance is recorded at farm level, with no data available at the crop level at all. If the active substance is recorded at the crop level, codes 10110 to 90900 shall be used, corresponding to the crop categories set out in Table I. Parcel ID shall be recorded only on crop level. The data provided on crop level is optional for Member States.
+
+Multiple entries are possible.
+
+The types of unit codes are to be selected form the list below:
+
+Code (***) Description
+
+1 Gram
+
+2 Millilitre
+
+3 Other
+
+Parcel ID
+
+The parcel ID shall include both the reference parcel ID as referred to in Article 2(2) of Delegated Regulation (EU) 2022/1172 and the agricultural parcel ID as referred to in Article 8(3), point (a), of Implementing Regulation (EU) 2022/1173. The data provided on parcel level is optional for Member States.
+
+Description of columns
+
+Quantity (Q): Quantity of product (active substance) applied during the reporting year.
+
+**Table J1**
+
+**Antimicrobial use**
+
+Structure of the table
+
+<table>
+<tbody><tr><td colspan="2">Category</td><td>Code (*)</td></tr>
+<tr><td colspan="2">Active substance</td><td>Code (**)</td></tr>
+<tr><td colspan="2">Unit</td><td>Code (***)</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td colspan="2" rowspan="3">Group of information</td><td>Columns</td></tr>
+<tr><td>Quantity</td></tr>
+<tr><td>Q</td></tr>
+<tr><td>AU</td><td>Antimicrobial use</td><td>  </td></tr>
+</tbody>
+</table>
+
+The following category is to be used:
+
+| Code (*) | Description | Q |
+| --- | --- | --- |
+| 100 | Antimicrobial use |  |
+
+**GROUPS OF INFORMATION IN TABLE J1**
+
+**Antimicrobial use (AU)**
+
+Antimicrobials that are used during the reporting year in livestock production to maintain health and productivity.
+
+**Description of columns**
+
+Quantity (Q)
+
+Total quantity of antimicrobials that are used during the reporting year by active substances.
+
+The types of unit codes are to be selected form the list below:
+
+Code (***) Description
+
+1 Gram
+
+2 Millilitre
+
+3 Other
+
+**Table CS**
+
+**Environmental certification schemes**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of certification schemes</td><td>Code (*)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">  </td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td colspan="3">Columns</td></tr>
+<tr><td>Certification status</td><td>Year</td><td>Sectors covered</td></tr>
+<tr><td rowspan="2">CS</td><td rowspan="2">Certification status and characteristics</td><td>C</td><td>Y</td><td>S</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Description | C | Y | S |
+| --- | --- | --- | --- | --- |
+| 10 | UNI-EN-ISO 14001 standard certification |  |  | - |
+| 20 | EMAS certification |  |  | - |
+| 30 | Carbon farming certification |  |  | - |
+| 40 | Other voluntary international Certification schemes or ecolabels |  |  |  |
+| 50 | Other voluntary national schemes |  |  |  |
+
+Certification schemes for agricultural products and foodstuffs provide assurance (through a certification mechanism) that certain characteristics or attributes of the product or its production method or system have been observed.
+
+Excludes: environmental certification schemes referring to organic farming, unless they include additional requirements compared to Regulation (EU) 2018/848.
+
+**DESCRIPTION OF CATEGORIES**
+
+**10 UNI-EN-ISO 14001 standard certification**
+
+The farm has a certification Quality management system compliant to the UNI-EN-ISO 14001 standard.
+
+**20 EMAS certification**
+
+The farm has an EMAS certification (Eco-Management and Audit Scheme, Regulation (EC) No 1221/2009 of the European Parliament and of the Council ( 20 ))
+
+**30 Carbon farming certification**
+
+The farm has a carbon farming certification ( 21 ).
+
+**40 Other voluntary International Certification schemes or Ecolabels**
+
+The farm is certified under an internationally recognised certification scheme/ecolabel in the agricultural/food sector
+
+**50 Other voluntary national Ecolabels**
+
+The farm is certified under a national (or sub/national) certification scheme/ecolabel in the agricultural/food sector, officially recognised at Member State level.
+
+For variables 30, 40 and 50 voluntary certification schemes or ecolabels are to be recorded if they comply with the following basic requirements as set out in the Commission guidelines for voluntary certification schemes for agricultural products (2010/C 341/04) ( 22 ):
+
+— Certification of compliance with the scheme requirements is carried out by an independent body accredited:
+
+— by the national accreditation body appointed by Member States according to Regulation (EC) No 765/2008 of the European Parliament and of the Council ( 23 ), in accordance with relevant European or international standards and guides setting out general requirements for bodies operating product certification systems, or —
+
+— by an accreditation body signatory to the multilateral recognition arrangement (MLA) for product certification of the International Accreditation Forum (IAF)
+
+**DESCRIPTION OF COLUMNS**
+
+**Certification status (C)**
+
+Codes to be used:
+
+0 the farm is not certified
+
+1 the farm has an active and valid certification
+
+2 the farm has started but not yet completed the certification process
+
+**Year (Y)**
+
+The year in which the certification process was formally started. Year shall be provided with four digits.
+
+**Sectors covered (S)**
+
+This information refers to the set of standards, indicators, criteria and commitments the farm has to follow to obtain and maintain the certification. Multiple choices are possible:
+
+1 Enhanced organic farming: the ecolabel/scheme is based on (and compliant with) the Regulation (EU) 2018/848 but introduces additional or stricter requirements
+
+2 Carbon farming: it includes all practices aimed at increasing carbon sequestration and/or reduce greenhouse gas emissions from agriculture, through soil management techniques or other practices
+
+3 Nutrient use and management: includes any practice/ commitment on nutrient use, restriction on the use of fertilisers, e.g. quantity, source/type of nutrient (organic, mineral etc.), application techniques, timing
+
+4 Animal welfare and health: include measures/commitment on housing conditions (space allowance, ventilation, light, temperature, humidity etc.), access to outdoor grazing and outdoor space, limitations on the use of antimicrobials
+
+5 Integrated pest management: measures to optimize and limit the use of plant protection products, following the principles established by Directive 2009/128/EC of the European Parliament and of the Council ( 24 )
+
+6 Support to biodiversity: it includes any practice aimed at supporting functional biodiversity (pollinators, pest predators), such as establishment and maintenance of landscape features, semi-natural habitats, plantation of flowering strips, refuges and shelter for insects and birds, small mammals etc.
+
+7 Forestry: it includes practices related to sustainable forest management
+
+**Table EN**
+
+**Energy**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Category of production</td><td>Code (*)</td><td>  </td></tr>
+<tr><td colspan="2" rowspan="3">Group of information</td><td>Columns</td><td>  </td></tr>
+<tr><td>Share of energy need</td><td>Code</td></tr>
+<tr><td>S</td><td>C</td></tr>
+<tr><td>EP</td><td>On-farm renewable energy production</td><td>  </td><td>-</td></tr>
+<tr><td>EF</td><td>Renewable energy production facilities</td><td>-</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+<table>
+<tbody><tr><td>Code</td><td>Group</td><td>Description</td><td>Share of energy needs covered by this source</td><td>Code</td></tr>
+<tr><td>100 </td><td>EP</td><td>Own produced electricity from renewable sources (wind, solar, biogas, hydropower)</td><td>  </td><td>-</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>200 </td><td>EP</td><td>Own produced heating from renewable sources (firewood, pellets, straw, solar, biogas, other biomass)</td><td>  </td><td>-</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>300 </td><td>EF</td><td>Biogas plants</td><td>-</td><td>  </td></tr>
+<tr><td>400 </td><td>EF</td><td>Solar panels</td><td>-</td><td>  </td></tr>
+<tr><td>500 </td><td>EF</td><td>Wind turbines</td><td>-</td><td>  </td></tr>
+<tr><td>600 </td><td>EF</td><td>Geothermal system</td><td>-</td><td>  </td></tr>
+</tbody>
+</table>
+
+**GROUPS OF INFORMATION IN TABLE EN**
+
+EP On-farm renewable energy production
+
+EF Renewable energy production facilities used by the farmer
+
+**COLUMNS IN TABLE EN**
+
+**Share of energy needs (S)**
+
+Share of energy needs to be provided as a percentage band indicating the proportion of energy requirements covered by the specific source. The following code numbers are to be used:
+
+0 0 %
+
+1 > 0 to ≤ 25 %
+
+2 > 25 % to ≤ 50 %
+
+3 > 50 % to ≤ 75 %
+
+4 > 75 % to ≤ 100 %
+
+5 > 100 %
+
+**Code (C)**
+
+An indication is to be provided on whether the given technology or asset is owned by the farmer, rented, co-owned with other partners (such as biogas plants used by several farms) or owned by other subjects (such as photovoltaic panels owned by other subjects installed on the farm’s land). In case the farmer uses more than one facility under different ownership structures, the code is to indicate the predominant type of ownership.
+
+The following code numbers are to be used:
+
+1 The asset is owned by the farmer
+
+2 The asset is rented by the farmer
+
+3 The asset is co-owned with other partners
+
+4 The asset is owned by other subjects
+
+**Table FL**
+
+**On-farm loss of production for food and feed uses**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>Category of food loss</td><td>Code(*)</td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">Group of information</td><td>Code</td></tr>
+<tr><td>C</td></tr>
+<tr><td>FL</td><td>Food/feed loss</td><td>  </td></tr>
+</tbody>
+</table>
+
+On-farm loss of production for food and feed uses is the amount of farm produce initially intended for human or animal consumption that is discarded or lost (i.e. that it does not reach the market or it is not used as intended as food and/or feed). For crops, it comprises any loss occurred from the moment when products are already mature enough to be harvested, until the post-harvest phase, when products reach the farm gate.
+
+For live animals, it comprises any loss occurred from the moment animals are considered mature enough to be slaughtered until the products reach the farm gate.
+
+For animal products (milk and eggs), losses shall be counted from the moment milk has been drawn from the udder and eggs are laid by the bird.
+
+It includes:
+
+— mature crops left unharvested (e.g. due to very low market prices or damages);
+
+— products harvested and treated in-situ at farm (e.g., composted at farm, burnt), or discharged off-farm;
+
+— products rejected by the buyer (e.g., due to quality and commercial requirements, overproduction) that return to the production site or are discharged;
+
+— other losses occurred during storage, transportation, on-farm processing.
+
+It does not include:
+
+— products initially intended for human consumption that are diverted to use as feed for livestock;
+
+— non-marketed products consumed on farm or donated to charities, food banks or other similar channels.
+
+The categories are to be selected from the list below:
+
+| Code(*) | Description of categories | Group | C |
+| --- | --- | --- | --- |
+| 100 | Reason of losses | FL |  |
+
+**DESCRIPTION OF COLUMNS**
+
+The following codes are to be used to indicate the reason of losses as defined above occurred during the reporting year (multiple entries are allowed).
+
+**Code (C)**
+
+1 Mature crops left unharvested
+
+2 Products harvested and treated on farm or discharged off-farm.
+
+3 Products rejected by the buyer due to quality and/or commercial requirements (crops)
+
+4 Products rejected by the buyer due to quality and/or commercial requirements (animals and animal products)
+
+5 Losses occurred during storage and/or transportation and/or on-farm processing (crop products)
+
+6 Losses occurred during storage and/or transportation and/or on-farm processing (animals and animal products)
+
+7 Other reasons not mentioned above (e.g. unforeseen market changes)
+
+**Table TR**
+
+**Training**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Categories of training</td><td>Code (*)</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td colspan="2">  </td><td>Columns</td></tr>
+<tr><td>  </td><td>  </td><td>Code</td></tr>
+<tr><td colspan="2">Group of information</td><td>C</td></tr>
+<tr><td>TT</td><td>Training topics</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code | Description of categories | Groups of information | C |
+| --- | --- | --- | --- |
+| 1000 | Farm management | TT |  |
+| 1010 | Legislation | TT |  |
+| 1020 | Occupational safety and health | TT |  |
+| 1030 | Risk prevention and management | TT |  |
+| 1040 | Digitalisation and mechanisation | TT |  |
+| 1050 | Organic farming and integrated pest management (IPM) | TT |  |
+| 1060 | Carbon farming | TT |  |
+| 1070 | Plant protection products | TT |  |
+| 1080 | Nutrients | TT |  |
+| 1090 | Soil and water management | TT |  |
+| 1100 | Energy use | TT |  |
+| 1110 | Animal husbandry | TT |  |
+| 1120 | Animal welfare | TT |  |
+| 1130 | Other | TT |  |
+
+**GROUPS AND CATEGORIES OF INFORMATION IN TABLE TR**
+
+TR.TT.1000.C to TR.TT.1140.C: Vocational training by topic: an indication is to be given whether vocational training courses for each topic were attended by the holder(s) and/or manager(s) and the workers during the reporting year. It refers to vocational training, a training measure or activity, provided by a trainer or a training institution primarily aimed at the acquisition of new skills related to the farm activities or activities related directly to the agricultural holding or the development and improvement of existing ones. In case a training course covers more than one topic, all the relevant topics shall be reported.
+
+The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**TR.TT.1000.C. Farm management**
+
+Farm management may include accounting, finance, marketing.
+
+**TR.TT.1010.C. Legislation**
+
+Legislation may refer to legal requirements, taxes, CAP and other subsidies. It excluded occupational safety and health, which needs to be reported under TR.TT.1020.C.
+
+**TR.TT.1020.C. Occupational safety and health**
+
+Occupational safety and health may refer to anticipation, recognition, evaluation and control of hazards arising in or from the workplace that could impair the health and well-being of workers.
+
+**TR.TT.1030.C. Risk prevention and management**
+
+Risk prevention and management training may refer to any traditional and innovative risk management practices and strategies to mitigate risk in agricultural production, as well as management techniques to mitigate financial risks in farming. It may include training on managing risks by means of input management strategies for crop and livestock production, equipment decisions, pest and diseases control, private insurances, government programs, marketing strategies, land tenure agreements, agricultural credit, on-farm diversification (e.g., OGA directly related to the farm), off-farm employment, etc.
+
+**TR.TT.1040.C. Digitalisation and mechanisation**
+
+Digitalisation and mechanisation training may refer to understanding and applying mechanisation and new technology in farming and learn about how technology can enhance farm management and on-farm productivity. It may include raising awareness, skills, and knowledge to increase on-farm uptake of technologies related to digitalisation in agriculture, including data analysis tools.
+
+**TR.TT.1050.C. Organic farming and integrated pest management (IPM)**
+
+Organic farming is an agricultural method that aims to produce food using natural substances and processes. Integrated pest management measures to optimise and limit the use of plant protection products, following the principles established by Directive 2009/128/EC.
+
+**TR.TT.1060.C. Carbon farming**
+
+Carbon farming includes all practices aimed at increasing carbon sequestration and/or reduce greenhouse gas emissions from agriculture, through soil management techniques or other practices.
+
+**TR.TT.1070.C. Plant protection products**
+
+Plant protection products (PPP) training may refer to any practice/commitment on PPP use and restriction on the use of PPP.
+
+**TR.TT.1080.C. Nutrients**
+
+Nutrient use and management may refer to any practice/commitment on nutrient use, restriction on the use of fertilisers, e.g., quantity, source/type of nutrient (organic, mineral etc.), application techniques, timing.
+
+**TR.TT.1090.C. Soil and water management**
+
+Soil management is the application of operations, practices, and treatments to protect soil and enhance its performance (such as soil fertility or soil mechanics). It includes soil conservation, soil amendment, and optimal soil health. Water management refers to the strategic planning, development, and use of water resources to optimise crop and animal production and maintain sustainable farming practices. It includes efficient use of irrigation, water conservation, scheduling, drainage management, rainwater harvesting and water reuse. Soil and water management may also refer to crop and grassland management.
+
+**TR.TT.1100.C. Energy use**
+
+Training on energy may refer to production of energy (e.g., biomass, solar) and measures for energy savings.
+
+**TR.TT.1110.C. Animal husbandry**
+
+Training on animal husbandry may refer to breeding, feeding and animal housing. It excludes animal welfare, which needs to be reported under TR.TT.1120.C. Animal welfare
+
+**TR.TT.1120.C. Animal welfare**
+
+Animal welfare and health include measures/commitment on housing conditions (space allowance, ventilation, light, temperature, humidity etc.), access to outdoor grazing and outdoor space, limitations on the use of antimicrobials.
+
+**TR.TT.1130.C. Other**
+
+Training topics not listed above.
+
+**Table SA**
+
+**Safety**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Categories of facilities and safety</td><td>Code (*)</td></tr>
+<tr><td>  </td><td>  </td><td>Columns</td></tr>
+<tr><td colspan="2">Group of information</td><td>Code</td></tr>
+<tr><td>  </td><td>  </td><td>C</td></tr>
+<tr><td>SA</td><td>Safety</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+|  |  | Group | Code |
+| --- | --- | --- | --- |
+| Code | Description of categories |  | C |
+| 100 | Farm safety plan | SA |  |
+| 200 | Accidents at work | SA |  |
+
+The following details should be provided:
+
+**SA.SA.100.C. Farm safety plan**
+
+An indication is to be given whether the farm has carried out a workplace risk assessment with the aim of reducing work-related hazards, resulting in a written document (such as a ‘farm safety plan’). Data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**SA.SA.200.C.: Accidents at work**
+
+An indication is to be given on the whether the holder(s) and/or manager(s) or workers have experienced an accident at work during the reporting year (resulting in one or more days of absence from work). An accident at work is a discrete occurrence during the course of work which leads to physical or mental harm.
+
+The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**Table SI**
+
+**Social inclusion**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Categories of social inclusion</td><td>Code (*)</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td colspan="2">  </td><td>Columns</td></tr>
+<tr><td>  </td><td>  </td><td>Code</td></tr>
+<tr><td colspan="2">Group of information</td><td>C</td></tr>
+<tr><td>SF</td><td>Social farming</td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Description of categories | Group | C |
+| --- | --- | --- | --- |
+| 100 | Presence of social farming activities | SF |  |
+
+**GROUPS OF INFORMATION IN TABLE SI**
+
+**SI.SF.100.C: Social farming**
+
+Social farming is the use of agricultural resources and the natural environment of the farm for the provision of care activities and social services for vulnerable people (elderly, people with disabilities etc.) while involving them in the farming activity.
+
+The following code numbers are to be used:
+
+0 No
+
+1 Yes
+
+**Table SE**
+
+**Services accessible to farmers**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td colspan="2">Categories of services</td><td colspan="2">Code (*)</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>Coverage</td><td>Subscription</td></tr>
+<tr><td>C</td><td>S</td></tr>
+<tr><td colspan="2">Group of information</td><td>Enter code</td><td>Enter code</td></tr>
+<tr><td>IC</td><td>Internet connection</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Description of categories | Group | C | S |
+| --- | --- | --- | --- | --- |
+| 100 | Fixed broadband | IC |  |  |
+| 200 | Mobile broadband | IC |  |  |
+
+**GROUPS AND CATEGORIES OF INFORMATION IN TABLE SE**
+
+For the following data points, data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+**SE.IC.100.C. Fixed broadband internet connection coverage**
+
+An indication is to be given whether the farm is reached/reachable by fixed broadband internet connection such as DSL, ADSL, VDSL, cable, optical fibre, satellite or public Wi-Fi connections.
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+**SE.IC.100.S. Fixed broadband internet connection subscription**
+
+An indication is to be given whether the farm has a subscription for a broadband internet connection such as DSL, ADSL, VDSL, cable, optical fibre, satellite or public Wi-Fi connections.
+
+To be asked only for holdings that may be reached by a fixed broadband internet connection (answer to SE.IC.100.C.=1).
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+**SE.IC.200.C. Mobile broadband internet connection coverage**
+
+An indication is to be given whether the farm is reached/reachable by a mobile broadband internet connection (via mobile phone network, at least 4G).
+
+Codes to be used:
+
+0 No
+
+1 Partially
+
+2 Yes
+
+**SE.IC.200.S. Mobile broadband internet connection subscription**
+
+An indication is to be given whether the farm has subscribed for a mobile broadband internet connection available on the farm (via mobile phone network, at least 4G).
+
+To be asked only for holdings that may be reached by a mobile broadband internet connection (answer to SE.IC.200.C.=1 or 2).
+
+Codes to be used:
+
+0 No
+
+1 Yes
+
+**Table GR**
+
+**Generational renewal**
+
+**Structure of the table**
+
+<table>
+<tbody><tr><td>  </td><td>Categories of management and successors</td><td>Code (*)</td><td>  </td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">Columns</td></tr>
+<tr><td colspan="2">Group of information</td><td>Code</td><td>Year</td></tr>
+<tr><td>  </td><td>  </td><td>C</td><td>Y</td></tr>
+<tr><td>GR</td><td>Generational renewal</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+The categories are to be selected from the list below:
+
+| Code (*) | Description | Group | C | Y |
+| --- | --- | --- | --- | --- |
+| 100 | Year when the holder took over | GR | — |  |
+| 200 | Transmission | GR |  | — |
+| 300 | Plans for stopping the activity | GR |  | — |
+
+**GROUPS OF INFORMATION IN TABLE GR**
+
+**GR.GR.100.Y. Year when the holder took over**
+
+An indication is to be given about the year when the current holder (holder/manager or holder/not manager) took over the farm, to be recorded in format ‘YYYY’.
+
+In case of more than one holder/manager or holder/not manager working in the farm (and therefore reported in Table C), the year shall refer to the first one who took over the holding.
+
+To be asked only if the farm has holder/manager(s) or holder/not manager(s) reported in Table C.
+
+Data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+**GR.GR.200.C. Transmission**
+
+An indication is to be given about the person from whom the holding was transferred to the current holder/manager or holder/not manager, when they took over.
+
+In case of more than one holder/manager or holder/not manager working in the farm (and therefore reported in Table C), the answer shall refer to the first one who took over the holding.
+
+Where there is more than one method of transmission, the largest by value shall be reported. To be asked only if the farm has holder/manager(s) or holder/not manager(s) reported in Table C.
+
+Data shall be reported in the farm returns annually. However, data may be compiled or collected at a lower frequency, provided that this is done at least once every five years.
+
+The following code numbers are to be used:
+
+0\. not applicable (the farm has no holder/manager – holder/not manager)
+
+1\. farm transferred from a family member (via donation, succession or other forms)
+
+2\. farm transferred from a non-family member
+
+3\. farm created by the current holder/manager or holder/not manager.
+
+**GR.GR.300.C. Plans for stopping the activity**
+
+An indication has to be given whether the holder/manager or holder/not-manager has made specific plans for how the farm’s resources will be managed when they stop their activity (e.g. after retirement).
+
+To be asked only if the oldest holder/manager or holder/not-manager reported in Table C is above 60 years old.
+
+Where there is more than one method of transmission, the largest by value shall be reported.
+
+The following code numbers are to be used:
+
+0\. not applicable (the farm has no holder/manager or holder/not manager)
+
+1\. no plans for the moment
+
+2\. the farm will be transferred to a family member (via donation, succession or other forms)
+
+3\. the farm will be transferred to a non-family member
+
+4\. the holder/manager or holder/not manager has planned to rent out the farm/farmland
+
+5\. other.
+
+**COLUMNS IN TABLE GR**
+
+Column C refers to code, column Y refers to the year.
+
+## ANNEX IX — Timetable for submitting the data referred to in Article 11(3) and exemptions for specific variables referred to in Article 12
+
+In column ‘Annex VIII tables and new FSDN variables’ it is possible to identify existing FADN tables (1-digit code from A to M) and newly introduced FSDN tables and variables:
+
+— new FSDN tables are indicated as lines and identified by 2- or 3-digit codes,
+
+— new FSDN variables in existing FADN tables are indicated with the code of the specific variable as additional lines under the corresponding FADN table.
+
+For existing FADN tables it is possible to ask for exemptions only for new FSDN variables, explicitly indicated in relation to FADN existing tables.
+
+<table>
+<tbody><tr><td rowspan="2">Annex VIII tables and new FSDN variables</td><td colspan="2">First reporting year</td><td>Exemptions from submitting specific variables (the first reporting year is indicated)</td></tr>
+<tr><td>2025</td><td>2027</td><td>  </td></tr>
+<tr><td>Table A - General information on the holding</td><td rowspan="5">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>A.CL.142.DT. Year in which the farm started conversion to organic</td><td>  </td><td>Greece, France, Cyprus, Slovakia in 2026 (*1)Germany, Romania in 2027 </td></tr>
+<tr><td>A.CL.145.C. Share of organic farming products sold as organic in certified farms</td><td>  </td><td>Greece, Cyprus, Slovakia, Sweden in 2026 (*1)Germany, Romania in 2027  (*1)France in 2028 </td></tr>
+<tr><td>A.OT.240.C Participation in mutual funds</td><td>  </td><td>Greece, France, Cyprus, Slovakia, Sweden in 2026 (*1)Germany, Romania in 2027 </td></tr>
+<tr><td>A.OT.241.C Compensation of losses</td><td>  </td><td>Greece, Cyprus, Slovakia, Sweden in 2026 (*1)Germany, Romania in 2027  (*1)France in 2028 </td></tr>
+<tr><td>Table B - Type of occupation</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table C – Labour</td><td rowspan="5">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>C.EX Externals</td><td>  </td><td>Greece, Cyprus, Portugal, Sweden in 2026 (*1)Germany, Latvia, Romania in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Column G – Gender (for workers)</td><td>  </td><td>Greece, Cyprus, Portugal in 2026 (*1)Germany, Latvia, Romania in 2027 </td></tr>
+<tr><td>Columns AW - Wages and social security costs per year / per hour</td><td>  </td><td>Greece, Cyprus, Portugal in 2026 (*1)France, Latvia, Malta, Romania, Sweden in 2027 </td></tr>
+<tr><td>Column R - Retirement</td><td>  </td><td>Greece, Cyprus, Portugal in 2026 (*1)France, Latvia, Malta, Romania in 2027 </td></tr>
+<tr><td>Table D - Assets and investments</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table E - Quotas and other rights</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table F - Debts/credits</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table G - Value added tax (VAT)</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table H – Inputs</td><td rowspan="2">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>5035. Of which other origin</td><td>  </td><td>Greece, Cyprus in 2026 Malta, Romania in 2027 </td></tr>
+<tr><td>Table I - Land use and crops</td><td rowspan="2">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>Columns ‘of which is fully organic – of which in conversion to organic’</td><td>  </td><td>Greece, Cyprus in 2026 Latvia, Romania in 2027  Luxembourg in 2028 </td></tr>
+<tr><td>Table J - Livestock production</td><td rowspan="5">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>J. OR Organic - J. CO in conversion to organic</td><td>  </td><td>Greece, France, Cyprus in 2026 Croatia, Latvia, Romania, Slovakia in 2027 </td></tr>
+<tr><td>J.DL Number of deaths, including emergency killings</td><td>  </td><td>Greece, Cyprus, Sweden in 2026 Romania in 2027  (*1)France in 2028 </td></tr>
+<tr><td>J.TH Type of housing</td><td>  </td><td>Belgium, Greece, Cyprus, Sweden in 2026 (*1)Germany, Latvia, Romania in 2027  (*1)France in 2028 </td></tr>
+<tr><td>J. TO Time spent outdoor</td><td>  </td><td>Belgium, Greece, Cyprus, Sweden in 2026 (*1)Germany, Latvia, Romania in 2027  (*1)France in 2028 </td></tr>
+<tr><td>Table K - Animal products and services</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table L - OGA directly related to the farm</td><td>X</td><td>  </td><td>Not applicable</td></tr>
+<tr><td>Table M – Subsidies</td><td rowspan="3">X</td><td>  </td><td>Not applicable except for:</td></tr>
+<tr><td>3770 - Knowledge exchange and dissemination of information</td><td>  </td><td>Greece, France, Cyprus, Slovakia in 2026 (*1)Germany, Malta, Romania in 2027 </td></tr>
+<tr><td>3780 - Cooperation</td><td>  </td><td>Greece, France, Cyprus, Slovakia in 2026 (*1)Germany, Malta, Romania in 2027 </td></tr>
+<tr><td>Table MI - Market integration</td><td>X</td><td>  </td><td>Czechia, Greece, Cyprus, Portugal, Sweden in 2026 Belgium, (*1)Germany, Croatia, Latvia, Malta, Romania, Slovakia, in 2027  (*1)France in 2028 </td></tr>
+<tr><td>Table DI – Innovation and digitalisation</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table OF - Indicative share of off-farm income</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table FP1 - Farming practices</td><td>X</td><td>  </td><td>Greece, Cyprus, Portugal, Sweden in 2026 Belgium, Czechia, Denmark, (*1)Germany, Estonia, Croatia, Latvia, Romania, Slovakia in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Table FP2 - Farming practices</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table NM1 - Nutrient use and management – Manure storage</td><td>X</td><td>  </td><td>Belgium, Greece, Cyprus, Latvia, Sweden in 2026 Czechia, (*1)Germany, Croatia, Romania, Slovakia in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Table NM2 - Nutrient use and management – Manure application</td><td>X</td><td>  </td><td>Greece, Cyprus, Latvia, Sweden in 2026 Belgium, Czechia, (*1)Germany, Estonia, Croatia, Romania, Slovakia in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Table NM3 - Nutrient use and management – Feed input</td><td>  </td><td>X</td><td>France, Malta, Spain in 2028</td></tr>
+<tr><td>Table ST - Soil test (optional)</td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>Table BD1 - Biodiversity – Landscape features</td><td>X</td><td>  </td><td>Greece, Cyprus in 2026 (*1)Germany, Romania in 2027  France, Luxembourg, Malta in 2028 </td></tr>
+<tr><td>Table BD2 - Biodiversity – Biological control and grassland management</td><td>  </td><td>X</td><td>France, Luxembourg, Malta in 2028</td></tr>
+<tr><td>Table WT - Water management</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table I1 - Plant protection product use</td><td>  </td><td>X</td><td>France, Malta, Spain in 2028</td></tr>
+<tr><td>Table J1 - Antimicrobial use</td><td>  </td><td>X</td><td>France, Malta, Spain in 2028</td></tr>
+<tr><td>Table CS - Environmental certification schemes</td><td>X</td><td>  </td><td>Belgium, Greece, Cyprus, Sweden in 2026 (*1)Germany, Malta, Romania, Slovakia in 2027 </td></tr>
+<tr><td>Table EN – Energy</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table FL - On-farm loss of production for food and feed uses</td><td>  </td><td>X</td><td>France, Croatia, Luxembourg, Malta in 2028</td></tr>
+<tr><td>Table TR – Training</td><td>  </td><td>X</td><td>France, Malta in 2028</td></tr>
+<tr><td>Table SA – Safety</td><td>X</td><td>  </td><td>Greece, Cyprus in 2026 (*1)Germany, Romania in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Table SI - Social inclusion</td><td>X</td><td>  </td><td>Greece, Cyprus in 2026 (*1)Germany, Romania in 2027  France, Malta in 2028 </td></tr>
+<tr><td>Table SE - Services accessible to farmers</td><td>X</td><td>  </td><td>Greece, Cyprus, Sweden in 2026 (*1)Germany, Malta, Romania in 2027 </td></tr>
+<tr><td>Table GR - Generational renewal</td><td>X</td><td>  </td><td>Greece, Cyprus, Sweden in 2026 (*1)Germany, Romania, Slovakia in 2027  France, Malta in 2028 </td></tr>
+<tr><td colspan="4">(*1)  Newly granted exemption. </td></tr>
+</tbody>
+</table>
+
+## ANNEX X — Amount payable to Member States, in EUR (current prices), for the reporting years 2025, 2026 and 2027, as referred to in Article 17
+
+<table>
+<tbody><tr><td>  </td><td colspan="4">Reporting year 2025</td><td colspan="4">Reporting year 2026</td><td colspan="3">Reporting year 2027</td></tr>
+<tr><td>  </td><td>Amount as referred to in Article 17(1), point (a)</td><td>Amount as referred to in Article 17(1), point (b)</td><td>Amount as referred to in Article 17(1), point (c)</td><td>Maximum amount</td><td>Amount as referred to in Article 17(1), point (a)</td><td>Amount as referred to in Article 17(1), point (b)</td><td>Amount as referred to in Article 17(1), point (c)</td><td>Maximum amount</td><td>Amount as referred to in Article 17(1), point (a)</td><td>Amount as referred to in Article 17(1), point (c)</td><td>Maximum amount</td></tr>
+<tr><td>BELGIUM</td><td>198 000 </td><td>397 600 </td><td>136 702 </td><td>732 302 </td><td>198 000 </td><td>375 196 </td><td>183 260 </td><td>756 456 </td><td>198 000 </td><td>503 223 </td><td>701 223 </td></tr>
+<tr><td>BULGARIA</td><td>396 360 </td><td>352 436 </td><td>501 697 </td><td>1 250 493 </td><td>360 360 </td><td>352 830 </td><td>457 933 </td><td>1 171 123 </td><td>360 360 </td><td>915 865 </td><td>1 276 225 </td></tr>
+<tr><td>CZECHIA</td><td>230 760 </td><td>386 620 </td><td>185 874 </td><td>803 254 </td><td>230 760 </td><td>373 715 </td><td>213 581 </td><td>818 056 </td><td>230 760 </td><td>586 483 </td><td>817 243 </td></tr>
+<tr><td>DENMARK</td><td>261 000 </td><td>400 883 </td><td>300 331 </td><td>962 214 </td><td>261 000 </td><td>401 314 </td><td>301 636 </td><td>963 950 </td><td>261 000 </td><td>663 339 </td><td>924 339 </td></tr>
+<tr><td>GERMANY</td><td>919 980 </td><td>1 985 289 </td><td>105 861 </td><td>3 011 130 </td><td>919 980 </td><td>1 986 914 </td><td>110 464 </td><td>3 017 358 </td><td>919 980 </td><td>2 338 155 </td><td>3 258 135 </td></tr>
+<tr><td>ESTONIA</td><td>104 400 </td><td>223 399 </td><td>108 119 </td><td>435 918 </td><td>104 400 </td><td>223 635 </td><td>108 641 </td><td>436 676 </td><td>104 400 </td><td>265 336 </td><td>369 736 </td></tr>
+<tr><td>IRELAND</td><td>162 000 </td><td>368 882 </td><td>205 053 </td><td>735 935 </td><td>162 000 </td><td>369 293 </td><td>205 864 </td><td>737 157 </td><td>162 000 </td><td>411 728 </td><td>573 728 </td></tr>
+<tr><td>GREECE</td><td>533 880 </td><td>1 013 146 </td><td>61 433 </td><td>1 608 459 </td><td>533 880 </td><td>706 768 </td><td>678 435 </td><td>1 919 083 </td><td>533 880 </td><td>1 356 871 </td><td>1 890 751 </td></tr>
+<tr><td>SPAIN</td><td>1 566 000 </td><td>1 606 195 </td><td>1 982 182 </td><td>5 154 377 </td><td>1 566 000 </td><td>1 607 987 </td><td>1 990 016 </td><td>5 164 003 </td><td>1 566 000 </td><td>3 439 438 </td><td>5 005 438 </td></tr>
+<tr><td>FRANCE</td><td>1 368 000 </td><td>2 553 255 </td><td>472 244 </td><td>4 393 499 </td><td>1 368 000 </td><td>2 555 402 </td><td>479 088 </td><td>4 402 490 </td><td>1 368 000 </td><td>485 932 </td><td>1 853 932 </td></tr>
+<tr><td>CROATIA</td><td>225 180 </td><td>372 981 </td><td>181 379 </td><td>779 540 </td><td>225 180 </td><td>373 339 </td><td>182 506 </td><td>781 025 </td><td>225 180 </td><td>546 390 </td><td>771 570 </td></tr>
+<tr><td>ITALY</td><td>1 695 240 </td><td>1 623 948 </td><td>2 145 769 </td><td>5 464 957 </td><td>1 695 240 </td><td>1 625 760 </td><td>2 154 250 </td><td>5 475 250 </td><td>1 695 240 </td><td>4 308 500 </td><td>6 003 740 </td></tr>
+<tr><td>CYPRUS</td><td>90 000 </td><td>265 654 </td><td>10 356 </td><td>366 010 </td><td>90 000 </td><td>214 111 </td><td>114 369 </td><td>418 480 </td><td>90 000 </td><td>228 738 </td><td>318 738 </td></tr>
+<tr><td>LATVIA</td><td>180 000 </td><td>295 256 </td><td>144 987 </td><td>620 243 </td><td>180 000 </td><td>274 827 </td><td>187 313 </td><td>642 140 </td><td>180 000 </td><td>457 475 </td><td>637 475 </td></tr>
+<tr><td>LITHUANIA</td><td>180 000 </td><td>306 954 </td><td>227 837 </td><td>714 791 </td><td>180 000 </td><td>307 297 </td><td>228 738 </td><td>716 035 </td><td>180 000 </td><td>457 475 </td><td>637 475 </td></tr>
+<tr><td>LUXEMBOURG</td><td>81 000 </td><td>201 967 </td><td>93 206 </td><td>376 173 </td><td>81 000 </td><td>202 188 </td><td>93 611 </td><td>376 799 </td><td>81 000 </td><td>177 902 </td><td>258 902 </td></tr>
+<tr><td>HUNGARY</td><td>342 000 </td><td>463 433 </td><td>432 890 </td><td>1 238 323 </td><td>342 000 </td><td>463 951 </td><td>434 601 </td><td>1 240 552 </td><td>342 000 </td><td>869 203 </td><td>1 211 203 </td></tr>
+<tr><td>MALTA</td><td>96 480 </td><td>251 602 </td><td>11 102 </td><td>359 184 </td><td>96 480 </td><td>251 821 </td><td>11 586 </td><td>359 887 </td><td>96 480 </td><td>45 373 </td><td>141 853 </td></tr>
+<tr><td>NETHERLANDS</td><td>270 000 </td><td>702 640 </td><td>341 756 </td><td>1 314 396 </td><td>270 000 </td><td>703 424 </td><td>343 106 </td><td>1 316 530 </td><td>270 000 </td><td>686 213 </td><td>956 213 </td></tr>
+<tr><td>AUSTRIA</td><td>324 000 </td><td>367 386 </td><td>410 107 </td><td>1 101 493 </td><td>324 000 </td><td>367 796 </td><td>411 728 </td><td>1 103 524 </td><td>324 000 </td><td>823 455 </td><td>1 147 455 </td></tr>
+<tr><td>POLAND</td><td>1 620 000 </td><td>1 377 272 </td><td>2 050 533 </td><td>5 047 805 </td><td>1 620 000 </td><td>1 378 809 </td><td>2 058 638 </td><td>5 057 447 </td><td>1 620 000 </td><td>4 117 275 </td><td>5 737 275 </td></tr>
+<tr><td>PORTUGAL</td><td>414 000 </td><td>553 417 </td><td>428 748 </td><td>1 396 165 </td><td>414 000 </td><td>506 343 </td><td>526 096 </td><td>1 446 439 </td><td>414 000 </td><td>1 052 193 </td><td>1 466 193 </td></tr>
+<tr><td>ROMANIA</td><td>918 000 </td><td>1 359 686 </td><td>105 634 </td><td>2 383 320 </td><td>918 000 </td><td>1 360 614 </td><td>110 226 </td><td>2 388 840 </td><td>918 000 </td><td>2 333 123 </td><td>3 251 123 </td></tr>
+<tr><td>SLOVENIA</td><td>163 440 </td><td>258 693 </td><td>206 876 </td><td>629 009 </td><td>163 440 </td><td>258 982 </td><td>207 694 </td><td>630 116 </td><td>163 440 </td><td>415 387 </td><td>578 827 </td></tr>
+<tr><td>SLOVAKIA</td><td>101 160 </td><td>280 835 </td><td>58 202 </td><td>440 197 </td><td>101 160 </td><td>281 110 </td><td>58 708 </td><td>440 978 </td><td>101 160 </td><td>257 101 </td><td>358 261 </td></tr>
+<tr><td>FINLAND</td><td>117 000 </td><td>275 514 </td><td>148 094 </td><td>540 608 </td><td>117 000 </td><td>275 822 </td><td>148 679 </td><td>541 501 </td><td>117 000 </td><td>297 359 </td><td>414 359 </td></tr>
+<tr><td>SWEDEN</td><td>184 500 </td><td>377 326 </td><td>84 921 </td><td>646 747 </td><td>184 500 </td><td>303 358 </td><td>234 456 </td><td>722 314 </td><td>184 500 </td><td>468 912 </td><td>653 412 </td></tr>
+<tr><td>EU total</td><td>12 742 380 </td><td>18 622 269 </td><td>11 141 893 </td><td>42 506 542 </td><td>12 706 380 </td><td>18 102 606 </td><td>12 235 222 </td><td>43 044 208 </td><td>12 706 380 </td><td>28 508 444 </td><td>41 214 824 </td></tr>
+<tr><td>Reserve for advance deliveries</td><td>  </td><td>  </td><td>  </td><td>2 493 458 </td><td>  </td><td>  </td><td>  </td><td>1 955 792 </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX XI — Form and layout of the data to be extracted from the datasets referred to in Article 18
+
+This text provides further guidance about the submission of disaggregated data on interventions and beneficiaries and defines the form and content of these data.
+
+Referred to Article 4a (1), point (a) of Regulation (EC) No 1217/2009 and with the aim to link FSDN returning holdings to the correspondent beneficiary files, including disaggregated data on beneficiaries, and intervention files, including disaggregated data on interventions, included in the data for monitoring and evaluation dataset as referred to in Article 8 and Annex IV of Commission Implementing Regulation (EU) 2022/1475 ( 25 ), Member States shall choose one of the following options.
+
+**Option 1: If the Member State chooses to provide to the Commission the beneficiary identifier related to the returning holding, the following data shall be shared from the intervention and beneficiary files:**
+
+M030 / B010 unique beneficiary ID referred to in Annex IV to Implementing Regulation (EU) 2022/1475.
+
+FSDN number: The Member State shall provide the FSDN number of the returning holding corresponding to the beneficiary ID.
+
+Multiple entries are possible, as one FSDN holding may have multiple beneficiaries associated with it and one beneficiary may be associated with multiple FSDN holdings.
+
+**Option 2: If the member state chooses to provide the Commission directly the data related to the returning holding, the following data shall be shared from the intervention and beneficiary files:**
+
+FSDN number: The Member State shall provide the FSDN number of the returning holding corresponding to the data.
+
+Multiple entries are allowed, as one FSDN holding may have multiple beneficiaries associated with it and one beneficiary may be associated with multiple FSDN holdings.
+
+**DISAGGREGATED DATA ON INTERVENTIONS**
+
+<table>
+<tbody><tr><td>Number</td><td>Description</td></tr>
+<tr><td colspan="2">Monitoring variables to report administrative information</td></tr>
+<tr><td>M010</td><td>paying agency code</td></tr>
+<tr><td>M020</td><td>unique code for aid application or payment claim for an intervention</td></tr>
+<tr><td>M040</td><td>budget code</td></tr>
+<tr><td colspan="2">Monitoring variables to report amounts spent</td></tr>
+<tr><td>M050</td><td>total Union funds amount</td></tr>
+<tr><td>M060</td><td>total public expenditure</td></tr>
+<tr><td>M070</td><td>total additional national financing</td></tr>
+<tr><td colspan="2">Monitoring variables to report the area eligible and determined</td></tr>
+<tr><td>M080</td><td>number of hectares of eligible area determined before application of limits, excluding forestry</td></tr>
+<tr><td>M085</td><td>number of hectares of eligible forestry area determined before application of limits</td></tr>
+<tr><td>M090</td><td>number of hectares of eligible area excluding forestry</td></tr>
+<tr><td>M095</td><td>number of hectares of eligible forestry area determined after application of limits</td></tr>
+<tr><td colspan="2">Monitoring variables to report units paid</td></tr>
+<tr><td>M100</td><td>number of hectares of eligible area paid</td></tr>
+<tr><td>M101</td><td>number of hectares of eligible arable land area paid for practices for maintenance of non-productive areas, such a land lying fallow</td></tr>
+<tr><td>M102</td><td>number of hectares of eligible arable land area paid for practices for the establishment of new landscape features as laid down in Article 31(1a) of Regulation (EU) 2021/2115</td></tr>
+<tr><td>M110</td><td>number of animal heads paid</td></tr>
+<tr><td>M120</td><td>number of livestock units paid</td></tr>
+<tr><td>M130</td><td>number of operations paid</td></tr>
+<tr><td>M140</td><td>number of farms supported</td></tr>
+<tr><td>M150</td><td>number of mutual funds paid</td></tr>
+<tr><td>M160</td><td>number of other units paid – unit of measurement</td></tr>
+<tr><td>M161</td><td>number of other units paid – output generated</td></tr>
+<tr><td colspan="2">Monitoring variables reporting whether a condition is fulfilled</td></tr>
+<tr><td>M170</td><td>investment resulting in a net increase of irrigated area</td></tr>
+<tr><td>M180</td><td>investment resulting in an improvement of existing irrigation installations</td></tr>
+<tr><td>M190</td><td>investment in the use of reclaimed water</td></tr>
+<tr><td>M200</td><td>investment in broadband</td></tr>
+<tr><td>M210</td><td>investment in bio-methane</td></tr>
+</tbody>
+</table>
+
+**DISAGGREGATED DATA ON BENEFICIARIES**
+
+Number Description
+
+B020 gender
+
+B030 young farmer
+
+B040 geographical location – municipality
+
+B050 area with natural or other specific constraints
+
+B060 nitrate vulnerable zone
+
+B070 characteristics of farm’s location in a river basin management plan
+
+B080 NATURA 2000 area
+
+B090 organic farm
+
+B100 number of hectares of arable land declared
+
+B110 number of hectares of permanent grassland declared
+
+B120 number of hectares with permanent crops declared
+
+B130 number of hectares of other areas eligible for direct payments
+
+B141 GAEC 2 – number of hectares of wetland and peatlands – permanent grassland
+
+B142 GAEC 2 – number of hectares of wetland and peatlands – arable land
+
+B143 GAEC 2 – number of hectares of wetland and peatlands – permanent crops
+
+B170 GAEC 9 – number of hectares subject to the ban on conversion or ploughing
+
+B171 GAEC 9 – number of hectares of permanent grassland in Natura 2000 sites
+
+B172 GAEC 9 – number of hectares of designated environmentally sensitive permanent grassland in Natura 2000 sites protected under GAEC 9 and declared by farmers
+
+B180 number of hectares of designated environmentally sensitive permanent grassland outside Natura 2000 sites, protected under the scope of the GAECs and declared by farmers, where applicable
+
+## ANNEX XII — Form and layout of the data to be extracted from the datasets referred to in Article 20
+
+This text provides further guidance regarding the submission of disaggregated data from the Integrated Administration and Control System (IACS) established by Regulation (EU) 2021/2116 of the European Parliament and the Council ( 26 ).
+
+Member States shall determine the correspondence between the Identification Numbers (IDs) of the returning holding in the IACS and FSDN systems, ensuring they refer to the same entity.
+
+With reference to Article 4a(1), point (b), of Regulation (EC) No 1217/2009, Member States shall choose one of the following options 1, 2.1 or 2.2.
+
+**Option 1: If the member state chooses to provide to the Commission the parcel identifiers related to the returning holding, the following data shall be shared from the IACS system:**
+
+In case Member States choose this option, they shall provide the Commission with the following identifiers from IACS linked to the FSDN ID: unique identification number (ID) of reference parcels, agricultural parcels and non-agricultural areas considered eligible by the Member States for receiving support for the area-based interventions, as referred to in Article 2 of Delegated Regulation (EU) 2022/1172 and Article 8(3), point (a), of Implementing Regulation (EU) 2022/1173.
+
+Multiple entries are possible, as one FSDN holding may have multiple associated reference parcels, agricultural parcels and non-agricultural areas considered eligible by the Member State.
+
+**Option 2: If the member state chooses to provide the Commission directly with the data related to the returning holding, the following spatial information shall be shared from the IACS system:**
+
+**Option 2.1**
+
+In case Member States choose this option, they shall provide the Commission with the following spatial data set of reference parcels and agricultural parcels, as referred to in Directive 2007/2/EC ( 27 ) and Implementing Regulation (EU) 2023/138 ( 28 ), including the following attributes:
+
+— Geometry (boundary and area of each parcel): reference parcels, agricultural parcels and units of land containing non-agricultural areas considered eligible by the Member State as described in Article 2 of Delegated Regulation (EU) 2022/1172 and Article 8(3), point (a), of Implementing Regulation (EU) 2022/1173.
+
+— Land uses (crops or crop groups).
+
+— Landscape features as referred to in Article 8(3), point (c), of Implementing Regulation (EU) 2022/1173.
+
+— Area under organic farming as referred to in Article 8(3), point (e), of Implementing Regulation (EU) 2022/1173.
+
+Linked to the IACS spatial data, Member States shall provide the FSDN number of the returning holding.
+
+Multiple entries are allowed, as one FSDN holding may have multiple reference parcels, associated agricultural parcels and non-agricultural areas considered eligible by the Member State.
+
+**Option 2.2**
+
+In case Member States choose this option, they shall provide the Commission with the following indicators:
+
+— Holding fragmentation: number of agricultural parcels, average size of parcels, maximum distance between farthest parcels, average distance between parcels, number of parcels clusters within a buffer of 1 km and 10 km.
+
+— Land use change: land conversion from previous year to the following land use categories: forest land, cropland, grassland, wetlands, settlements, and other land as referred to Regulation (EU) 2018/841 ( 29 ).
+
+— Landscape features: The areas of landscape features included in Annex VIII - Table BD1 - Biodiversity – Landscape features shall be provided.
+
+( 1 ) The variables SO_CLND019 (Other root crops n.e.c.), SO_CLND037 (Plants harvested green from arable land), SO_CLND049 (Fallow land), SO_CLND073_085 (Kitchen gardens and other UAA under glass or high accessible cover n.e.c.), SO_CLND051 (Pasture and meadow, excluding rough grazing), SO_CLND052 (Rough grazings), SO_CLND053 (Permanent grassland no longer used for production purposes and eligible for the payment of subsidies), SO_CLVS001 (Bovine animals less than 1 year old), SO_CLVS014 (Other sheep), SO_CLVS017 (Other goats) and SO_CLVS018 (Piglets, live weight of under 20 kg) are used only under certain conditions (see point 5 of Annex VI).
+
+( 2 ) Commission Delegated Regulation (EU) 2024/1417 of 13 March 2024 supplementing Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network with rules for annual income determination, holding sustainability analysis and access to data for research purposes, and repealing Commission Delegated Regulation (EU) No 1198/2014 (OJ L, 2024/1417, 24.5.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1417/oj).
+
+( 3 ) Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 154, 21.6.2003, p. 1, ELI: http://eur-lex.europa.eu/eli/reg/2003/1059/oj).
+
+( 4 ) Regulation (EU) 2018/1091 of the European Parliament and of the Council of 18 July 2018 on integrated farm statistics and repealing Regulations (EC) No 1166/2008 and (EU) No 1337/2011 (OJ L 200, 7.8.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1091/oj).
+
+( 5 ) Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009 (OJ L 347, 20.12.2013, p. 608, ELI: http://data.europa.eu/eli/reg/2013/1307/oj).
+
+( 6 ) Grants and subsidies are understood to be all forms of direct aid from public funds which have resulted in a specific receipt.
+
+( 7 ) Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services. (OJ L 323, 8.12.2010, p. 11, ELI: http://data.europa.eu/eli/reg/2010/1089/oj).
+
+( 8 ) See Annex VII to this Regulation.
+
+( 9 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/848/oj).
+
+( 10 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).
+
+( 11 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 ( OJ L 347, 20.12.2013, p. 487, ELI: http://data.europa.eu/eli/reg/2013/1305/oj).
+
+( 12 ) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7, ELI: http://data.europa.eu/eli/dir/2009/147/oj).
+
+( 13 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7, ELI: http://data.europa.eu/eli/dir/1992/43/oj).
+
+( 14 ) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1, ELI: http://data.europa.eu/eli/dir/2000/60/oj).
+
+( 15 ) Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013 (OJ L 435, 6.12.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/2115/oj).
+
+( 16 ) Commission Delegated Regulation (EU) 2022/1172 of 4 May 2022 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy and the application and calculation of administrative penalties for conditionality (OJ L 183, 8.7.2022, p. 12, ELI: http://data.europa.eu/eli/reg_del/2022/1172/oj).
+
+( 17 ) Commission Implementing Regulation (EU) 2022/1173 of 31 May 2022 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy (OJ L 183, 8.7.2022, p. 23, ELI: http://data.europa.eu/eli/reg_impl/2022/1173/oj).
+
+( 18 ) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/1107/oj).
+
+( 19 ) Defined as urban wastewater that has been treated in compliance with the requirements set out in Directive 91/271/EEC and which results from further treatment in a reclamation facility in accordance with Section 2 of Annex I of Regulation (EU) 2020/741.
+
+( 20 ) Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC (OJ L 342, 22/12/2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/1221/oj).
+
+( 21 ) Within the meaning of the definition in the Proposal for a Regulation of the European Parliament and of the Council establishing a Union certification framework for carbon removals – COM/2022/672 final - 2022/0394(COD)
+
+( 22 ) Commission Communication — EU best practice guidelines for voluntary certification schemes for agricultural products and foodstuffs (OJ C 341, 16.12.2010, p. 5).
+
+( 23 ) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30, ELI: http://data.europa.eu/eli/reg/2008/765/oj).
+
+( 24 ) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (OJ L 309, 24.11.2009, p. 71, ELI: http://data.europa.eu/eli/dir/2009/128/oj).
+
+( 25 ) Commission Implementing Regulation (EU) 2022/1475 of 6 September 2022 laying down detailed rules for implementation of Regulation (EU) 2021/2115 of the European Parliament and of the Council as regards the evaluation of the CAP Strategic Plans and the provision of information for monitoring and evaluation (OJ L 232, 7.9.2022, p. 8, ELI: http://data.europa.eu/eli/reg_impl/2022/1475/oj).
+
+( 26 ) Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No 1306/2013 (OJ L 435, 6.12.2021, p. 187, ELI: http://data.europa.eu/eli/reg/2021/2116/oj).
+
+( 27 ) Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.4.2007, p. 1, ELI: http://data.europa.eu/eli/dir/2007/2/oj).
+
+( 28 ) Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use ( OJ L 19, 20.1.2023, p. 43).
+
+( 29 ) Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending Regulation (EU) No 525/2013 and Decision No 529/2013/EU (OJ L 156, 19.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/841/oj).

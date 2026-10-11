@@ -1,0 +1,302 @@
+---
+title: "Commission Regulation (EU) No 361/2014 of 9 April 2014 laying down detailed rules for the application of Regulation (EC) No 1073/2009 as regards documents for the international carriage of passengers by coach and bus and repealing Commission Regulation (EC) No 2121/98 Text with EEA relevance"
+identifier: "32014R0361"
+eli: "http://data.europa.eu/eli/reg/2014/361/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-04-09
+entry_into_force: 2013-08-15
+last_amended: 2014-04-30
+consolidated_version: "02014R0361-20140430"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0361-20140430"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 361/2014 of 9 April 2014 laying down detailed rules for the application of Regulation (EC) No 1073/2009 as regards documents for the international carriage of passengers by coach and bus and repealing Commission Regulation (EC) No 2121/98 Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 361/2014**
+
+**of 9 April 2014**
+
+**laying down detailed rules for the application of Regulation (EC) No 1073/2009 as regards documents for the international carriage of passengers by coach and bus and repealing Commission Regulation (EC) No 2121/98**
+
+**(Text with EEA relevance)**
+
+**COMMISSION REGULATION (EU) No 361/2014**
+
+**of 9 April 2014**
+
+**laying down detailed rules for the application of Regulation (EC) No 1073/2009 as regards documents for the international carriage of passengers by coach and bus and repealing Commission Regulation (EC) No 2121/98**
+
+**(Text with EEA relevance)**
+
+## SECTION I — CONTROL DOCUMENT
+
+### Article 1
+
+1\. The control document (journey form) for the occasional services defined in Article 2(4) of Regulation (EC) No 1073/2009 shall conform to the model in Annex I to this Regulation.
+
+2\. The journey forms shall be in books of 25 forms, in duplicate, and detachable. Each book shall bear a number. The forms shall also be numbered from 1 to 25. The cover of the book shall conform to the model in Annex II. Member States shall take all necessary measures to adapt these requirements to computerised processing of journey forms.
+
+### Article 2
+
+1\. The book referred to in Article 1 shall be made out in the name of the carrier and it shall not be transferable.
+
+2\. The journey form shall be filled out legibly in indelible letters, in duplicate, either by the carrier or by the driver for each journey prior to departure. It shall be valid for the entire journey.
+
+3\. The top copy of the detached journey form shall be kept on the vehicle during the whole of the journey to which it refers. A copy shall be kept at the company's base.
+
+4\. The carrier shall be responsible for keeping the journey forms.
+
+### Article 3
+
+In the case of an international occasional service provided by a group of carriers acting on behalf of the same contractor, and which may include the travellers catching a connection en route with a different carrier of the same group, the original of the journey form shall be kept on the vehicle carrying out the service. A copy of the journey form shall be kept at the base of each carrier.
+
+### Article 4
+
+1\. Copies of the journey forms used as control documents for cabotage operations in the form of occasional services pursuant to Article 15(b) of Regulation (EC) No 1073/2009 shall be returned by the carrier to the competent authority or agency in the Member State of establishment in accordance with procedures to be laid down by that authority or agency.
+
+2\. In the case of cabotage operations in the form of special regular services pursuant to Article 15(a) of Regulation (EC) No 1073/2009, the journey form in Annex I to this Regulation shall be completed in the form of a monthly statement and returned by the carrier to the competent authority or agency in the Member State of establishment in accordance with procedures to be laid down by that authority or agency.
+
+### Article 5
+
+The journey form shall enable the holder, in the course of an international occasional service, to carry out local excursions in a Member State other than that in which the carrier is established, in accordance with the conditions laid down in the second subparagraph of Article 13 of Regulation (EC) No 1073/2009. The local excursions shall be entered on the journey forms before the departure of the vehicle on the excursion concerned. The original of the journey form shall be kept on board the vehicle for the duration of the local excursion.
+
+### Article 6
+
+The control document shall be presented at the request of any authorised inspecting officer.
+
+## SECTION II — AUTHORISATIONS
+
+### Article 7
+
+1\. Applications for authorisation of regular services and special regular services subject to authorisation shall conform to the model in Annex III.
+
+2\. Applications for authorisation shall contain the following information:
+
+(a) the timetable;
+
+(b) fare scales;
+
+(c) a certified true copy of the Community licence for the international carriage of passengers by coach and bus for hire or reward provided for in Article 4 of Regulation (EC) No 1073/2009;
+
+(d) information concerning the type and volume of the service which the applicant plans to provide in the case of an application to create a service, or which has been provided in the case of an application for renewal of an authorisation;
+
+(e) a map on an appropriate scale on which are marked the route and stopping points where passengers are to be taken up or set down;
+
+(f) a driving schedule to permit verification of compliance with the Union legislation on driving time and rest periods.
+
+3\. Applicants shall provide any further information which they consider relevant or which is requested by the issuing authority in support of the application.
+
+### Article 8
+
+1\. Authorisations shall conform to the model in Annex IV.
+
+2\. Each vehicle carrying out a service subject to authorisation shall have on board an authorisation or a copy certified by the issuing authority.
+
+3\. Authorisations shall be valid for a maximum of five years.
+
+## SECTION III — CERTIFICATES
+
+### Article 9
+
+1\. Certificates for the own-account transport operations defined in Article 2(5) of Regulation (EC) No 1073/2009 shall conform to the model in Annex V to this Regulation.
+
+2\. Undertakings requesting a certificate shall provide the issuing authority with evidence or an assurance that the conditions laid down in Article 2(5) of Regulation (EC) No 1073/2009 have been met.
+
+3\. Each vehicle carrying out a service subject to a system of certificates shall carry on board for the duration of the journey a certificate or its certified true copy, which shall be presented at the request of any authorised inspecting officer.
+
+4\. Certificates shall be valid for a maximum of five years.
+
+## SECTION IV — COMMUNICATION OF STATISTICAL DATA
+
+### Article 10
+
+The data on cabotage transport operations referred to in Article 28(2) of Regulation (EC) No 1073/2009 shall be communicated in in the form of a table in accordance with the model in Annex VI to this Regulation.
+
+## SECTION V — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 11
+
+1\. Member States may authorise the use of existing stocks of the journey forms, applications for authorisation, authorisations and certificates drawn up in conformity with Regulation (EC) No 2121/98 until 31 December 2015.
+
+2\. The other Member States shall accept the journey forms and the applications for authorisation on their territory until 31 December 2015.
+
+3\. The authorisations and certificates drawn up in conformity with Regulation (EC) No 2121/98 and issued before 31 December 2015 will remain valid until the date of their expiry.
+
+### Article 12
+
+Regulation (EC) No 2121/98 is repealed.
+
+### Article 13
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+## ANNEX II
+
+## ANNEX III
+
+**Cover page**
+
+**(Format DIN A4 uncoated paper)**
+
+To be worded in the official language(s) or one of the official languages of the carrier's Member State of establishment
+
+**APPLICATION ( 3 ) :**
+
+TO START A REGULAR SERVICE □
+
+TO START A SPECIAL REGULAR SERVICE ( 4 ) □
+
+TO RENEW AN AUTHORISATION FOR A SERVICE ( 5 ) □
+
+TO ALTER THE CONDITIONS OF AN AUTHORISED SERVICE (5) □
+
+**carried out by coach and bus between Member States in accordance with Regulation (EC) No 1073/2009**
+
+to: …
+
+(Competent authority)
+
+1\. Name and first name or trade name and address, telephone, fax and/or e-mail of the applicant and, where appropriate, of the managing carrier in the case of an association (pool):
+
+…
+
+…
+
+2\. Service(s) carried out (3)
+
+| by an undertaking □ | as a member of an association (pool) □ | as a subcontractor □ |
+| --- | --- | --- |
+
+3\. Names and addresses of the
+
+carrier, associated carrier(s), or subcontractor(s) ( 6 ) ( 7 )
+
+3.1 …tel. …
+
+3.2 …tel. …
+
+3.3 …tel. …
+
+3.4 …tel. …
+
+(Second page of the application for authorisation or for renewal of authorisation)
+
+4\. In the case of a special regular service
+
+4.1 Category of passengers: …
+
+5\. Duration of authorisation requested or date on which the service ends:
+
+…
+
+…
+
+…
+
+6\. Principal route of service (underline passenger pick-up points):
+
+…
+
+…
+
+…
+
+…
+
+7\. Period of operation:
+
+…
+
+…
+
+…
+
+8\. Frequency (daily, weekly, etc.):
+
+…
+
+9\. Fares: … Annex attached
+
+10\. Enclose a driving schedule to permit verification of compliance with the Union legislation on driving and rest periods
+
+11\. Number of authorisations or of copies of authorisations requested ( 8 ):
+
+…
+
+12\. Any additional information:
+
+…
+
+…
+
+…
+
+| 13. | … | … |
+| --- | --- | --- |
+|  | (Place and date) | (Signature of applicant) |
+
+(Third page of the application for authorisation or for renewal of authorisation)
+
+**IMPORTANT NOTICE**
+
+1\. The following is attached to the application, as appropriate:
+
+(a) the timetable;
+
+(b) fare scales;
+
+(c) a certified true copy of the Community licence for the international carriage of passengers by road for hire or reward provided for in Article 4 of Regulation (EC) No 1073/2009;
+
+(d) information concerning the type and volume of the service that the applicant plans to provide in the case of a new service, or that has been provided in the case of renewal of an authorisation;
+
+(e) a map on an appropriate scale on which are marked the route and the stopping points at which passengers are to be taken up or set down;
+
+(f) a driving schedule to permit verification of compliance with the Union legislation on driving and rest periods.
+
+2\. Applicants shall provide any additional information in support of their application which they consider relevant or which is requested by the issuing authority.
+
+3\. In accordance with Article 5 of Regulation (EC) No 1073/2009 the following services are subject to authorisation:
+
+(a) regular services, services which provide for the carriage of passengers at specified intervals along specified routes, passengers being picked up and set down at predetermined stopping points. Regular services shall be open to all, subject, where appropriate, to compulsory reservation. The regular nature of the service shall not be affected by any adjustment to the service operating conditions;
+
+(b) special regular services not covered by a contract between the organiser and the carrier. Services, by whomsoever organised, which provide for the carriage of specified categories of passengers to the exclusion of other passengers shall be deemed to be regular services. Such services are called ‘special regular services’ and include:
+
+(i) the carriage of workers between home and work;
+
+(ii) the carriage of school pupils and students to and from the educational institution.
+
+The fact that a special service may be varied according to the needs of users shall not affect its classification as a special regular service.
+
+4\. The application shall be made to the competent authority of the Member State from which the service departs, namely one of the service termini.
+
+5\. The maximum period of validity of the authorisation is five years.
+
+## ANNEX IV
+
+## ANNEX V
+
+## ANNEX VI
+
+( 1 ) OJ L 300, 14.11.2009, p. 88.
+
+( 2 ) OJ L 268, 3.10.1998, p. 10.
+
+( 3 ) Tick or complete as appropriate.
+
+( 4 ) Special regular services not covered by a contract between the organiser and the carrier.
+
+( 5 ) In the context of Article 9 of Regulation (EC) No 1073/2009.
+
+( 6 ) Indicate in each case whether a member of an association or a subcontractor is concerned.
+
+( 7 ) Attach list if applicable.
+
+( 8 ) The attention of the applicant is drawn to the fact that, since the authorisation has to be kept on board the vehicle, the number of authorisations which the applicant must have should correspond to the number of vehicles needed for carrying out the service requested at the same time.

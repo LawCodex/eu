@@ -95,6 +95,7 @@ Ursula VON DER LEYEN
 
 In Annex IV to Directive 2011/65/EU, entry 37 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘37.</td><td>Lead in platinized platinum electrodes used for conductivity measurements where at least one of the following conditions applies:<table><tbody><tr><td>(a)</td><td>wide-range measurements with a conductivity range covering more than 1 order of magnitude (e.g. range between 0,1 mS/m and 5 mS/m) in laboratory applications for unknown concentrations;</td></tr>
 </tbody>
 </table>
@@ -116,3 +117,4 @@ In Annex IV to Directive 2011/65/EU, entry 37 is replaced by the following:
 </td></tr>
 <tr><td></td><td>Expires on 31 December 2025.’</td></tr>
 </tbody>
+</table>

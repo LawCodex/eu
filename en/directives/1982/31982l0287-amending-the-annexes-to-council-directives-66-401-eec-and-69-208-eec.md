@@ -32,10 +32,12 @@ amending the Annexes to Council Directives 66/401/EEC and 69/208/EEC on the mark
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Directive 83/116/EEC of 8 March 1983</td><td> L 76</td><td>21</td><td>22.3.1983</td></tr>
 <tr><td></td><td>Council Directive 2002/57/EC of 13 June 2002</td><td> L 193</td><td>74</td><td>20.7.2002</td></tr>
+</table>
 
 COMMISSION DIRECTIVE
 

@@ -1,0 +1,128 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/1000 of 14 March 2019 amending Delegated Regulation (EU) 2017/1799 as regards the exemption of the People's Bank of China from the pre- and post-trade transparency requirements in Regulation (EU) No 600/2014 of the European Parliament and of the Council (Text with EEA relevance.)"
+identifier: "32019R1000"
+eli: "http://data.europa.eu/eli/reg_del/2019/1000/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-03-14
+entry_into_force: 2019-11-05
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1000"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/1000 of 14 March 2019 amending Delegated Regulation (EU) 2017/1799 as regards the exemption of the People's Bank of China from the pre- and post-trade transparency requirements in Regulation (EU) No 600/2014 of the European Parliament and of the Council (Text with EEA relevance.)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/1000**
+
+**of 14 March 2019**
+
+**amending Delegated Regulation (EU) 2017/1799 as regards the exemption of the People's Bank of China from the pre- and post-trade transparency requirements in Regulation (EU) No 600/2014 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (1), and in particular Article 1(9) thereof,
+
+Whereas:
+
+(1) Transactions where members of the European System of Central Banks (ESCB) are counterparties are exempt from the trade transparency requirements in accordance with Article 1(6) of Regulation (EU) No 600/2014 insofar as those transactions are in pursuit of monetary, foreign exchange or financial stability policy.
+
+(2) Such an exemption from the scope of Regulation (EU) No 600/2014 may be extended, in accordance with Article 1(9) of that Regulation, to central banks of third countries as well as to the Bank for International Settlements.
+
+(3) The list of exempted central banks of third countries set out in Commission Delegated Regulation (EU) 2017/1799 (2) should be updated, including with a view to extend, where appropriate, the scope of the exemption laid down in Article 1(6) of Regulation (EU) No 600/2014 to other central banks of third countries, or to remove such public entities from the list. The Commission monitors and assesses relevant developments in third countries and may undertake a review of the additional exemption, at any time.
+
+(4) In light of information received from the People's Republic of China, the Commission prepared and presented to the European Parliament and to the Council a report assessing the international treatment of the People's Bank of China. That report (3) concluded that it is appropriate to grant an exemption from pre- and post-trade transparency requirements in Regulation (EU) No 600/2014 to the central bank of the People's Republic of China. Accordingly, the list of exempted public entities set out in Delegated Regulation (EU) 2017/1799 should be amended to include the People's Bank of China.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Expert Group of the European Securities Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Annex to Delegated Regulation (EU) 2017/1799 is replaced by the text in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 March 2019.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 173, 12.6.2014, p. 84.
+
+(2) Commission Delegated Regulation (EU) 2017/1799 of 12 June 2017 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council as regards the exemption of certain third countries central banks in their performance of monetary, foreign exchange and financial stability policies from pre- and post-trade transparency requirements (OJ L 259, 7.10.2017, p. 11).
+
+(3) Report from the Commission to the European Parliament and the Council on the exemption for the Central Bank of The People's Republic of China under the Markets in Financial Instruments Regulation (MiFIR) (COM(2019) 143 of 14.3.2019).
+
+## ANNEX
+
+1\. Australia:
+
+— Reserve Bank of Australia;
+
+2\. Brazil:
+
+— Central Bank of Brazil;
+
+3\. Canada:
+
+— Bank of Canada;
+
+4\. Hong Kong SAR:
+
+— Hong Kong Monetary Authority;
+
+5\. India:
+
+— Reserve Bank of India;
+
+6\. Japan:
+
+— Bank of Japan;
+
+7\. Mexico:
+
+— Bank of Mexico;
+
+8\. People's Republic of China:
+
+— People's Bank of China
+
+9\. Republic of Korea:
+
+— Bank of Korea;
+
+10\. Singapore:
+
+— Monetary Authority of Singapore;
+
+11\. Switzerland:
+
+— Swiss National Bank;
+
+12\. Turkey:
+
+— Central Bank of the Republic of Turkey;
+
+13\. United Kingdom:
+
+— Bank of England
+
+14\. United States of America:
+
+— Federal Reserve System;
+
+15\. Bank for International Settlements.

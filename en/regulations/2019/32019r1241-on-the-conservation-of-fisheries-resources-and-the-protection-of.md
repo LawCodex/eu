@@ -1,0 +1,3229 @@
+---
+title: "Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005"
+identifier: "32019R1241"
+eli: "http://data.europa.eu/eli/reg/2019/1241/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-06-20
+entry_into_force: 2019-07-17
+last_amended: 2026-01-01
+consolidated_version: "02019R1241-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1241-20260101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005
+
+**REGULATION (EU) 2019/1241 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**on the conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/2013 of 21 August 2020 </td><td> L 415</td><td>3</td><td>10.12.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1160 of 12 May 2021 </td><td> L 250</td><td>4</td><td>15.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2324 of 23 August 2021 </td><td> L 465</td><td>1</td><td>29.12.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/199 of 2 December 2021 </td><td> L 33</td><td>1</td><td>15.2.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/200 of 2 December 2021 </td><td> L 33</td><td>4</td><td>15.2.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/303 of 15 December 2021 </td><td> L 46</td><td>67</td><td>25.2.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/826 of 23 March 2022 </td><td> L 147</td><td>22</td><td>30.5.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1357 of 25 May 2022 </td><td> L 205</td><td>4</td><td>5.8.2022</td></tr>
+<tr><td> M9</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2587 of 18 August 2022 </td><td> L 338</td><td>40</td><td>30.12.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2588 of 20 October 2022 </td><td> L 338</td><td>44</td><td>30.12.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/56 of 19 July 2022 </td><td> L 5</td><td>1</td><td>6.1.2023</td></tr>
+<tr><td> M12</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/491 of 30 November 2023 </td><td> L 491</td><td>1</td><td>13.2.2024</td></tr>
+<tr><td> M13</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/492 of 30 November 2023 </td><td> L 492</td><td>1</td><td>13.2.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1060 of 26 January 2024 </td><td> L 1060</td><td>1</td><td>8.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/2594 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 September 2024 </td><td> L 2594</td><td>1</td><td>8.10.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/3000 of 19 July 2024 </td><td> L 3000</td><td>1</td><td>3.12.2024</td></tr>
+<tr><td> M17</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/3089 of 30 September 2024 </td><td> L 3089</td><td>1</td><td>9.12.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/3093 of 13 October 2022 </td><td> L 3093</td><td>1</td><td>10.12.2024</td></tr>
+<tr><td> M19</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/3204 of 11 October 2024 </td><td> L 3204</td><td>1</td><td>31.12.2024</td></tr>
+<tr><td> M20</td><td> COMMISSION DELEGATED REGULATION (EU) 2025/283 of 28 November 2024 </td><td> L 283</td><td>1</td><td>10.2.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1719 of 28 May 2025 </td><td> L 1719</td><td>1</td><td>1.8.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2169 of 16 June 2025 </td><td> L 2169</td><td>1</td><td>27.10.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2192 of 6 August 2025 </td><td> L 2192</td><td>1</td><td>29.10.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2193 of 8 August 2025 </td><td> L 2193</td><td>1</td><td>29.10.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1726 of 27 June 2025 </td><td> L 1726</td><td>1</td><td>30.10.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1484 of 24 July 2025 </td><td> L 1484</td><td>1</td><td>23.12.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2593 of 11 August 2025 </td><td> L 2593</td><td>1</td><td>23.12.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2019/1241 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**on the conservation of fisheries resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down technical measures concerning:
+
+(a) the taking and landing of marine biological resources;
+
+(b) the operation of fishing gear; and
+
+(c) the interaction of fishing activities with marine ecosystems.
+
+#### Article 2 — Scope
+
+1\. This Regulation shall apply to activities pursued by Union fishing vessels and nationals of Member States, without prejudice to the primary responsibility of the flag State, in the fishing zones referred to in Article 5, as well as by fishing vessels flying the flag of, and registered in, third countries when fishing in Union waters.
+
+2\. Articles 7, 10, 11 and 12 shall also apply to recreational fishing. In cases where recreational fishing has a significant impact in a particular region, the Commission is empowered to adopt delegated acts pursuant to Article 15 and in accordance with Article 29 in order to amend this Regulation by providing that the relevant provisions of Article 13 or parts A or C of Annexes V to X also apply to recreational fishing.
+
+3\. Subject to the conditions set out in Articles 25 and 26, the technical measures set out in this Regulation shall not apply to fishing operations conducted solely for the purpose of:
+
+(a) scientific investigations; and
+
+(b) direct restocking or transplantation of marine species.
+
+#### Article 3 — Objectives
+
+1\. As tools to support the implementation of the CFP, technical measures shall contribute to the objectives of the CFP set out in the applicable provisions of Article 2 of Regulation (EU) No 1380/2013.
+
+2\. Technical measures shall in particular contribute to achieving the following objectives:
+
+(a) optimise exploitation patterns to provide protection for juveniles and spawning aggregations of marine biological resources;
+
+(b) ensure that incidental catches of sensitive marine species, including those listed under Directives 92/43/EEC and 2009/147/EC, that are a result of fishing, are minimised and where possible eliminated so that they do not represent a threat to the conservation status of these species;
+
+(c) ensure, including by using appropriate incentives, that the negative environmental impacts of fishing on marine habitats are minimised;
+
+(d) have in place fisheries management measures for the purposes of complying with Directives 92/43/EEC, 2000/60/EC and 2008/56/EC, in particular with a view to achieving good environmental status in line with Article 9(1) of Directive 2008/56/EC, and with Directive 2009/147/EC.
+
+#### Article 4 — Targets
+
+1\. Technical measures shall aim to ensure that:
+
+(a) catches of marine species below the minimum conservation reference size are reduced as far as possible in accordance with Article 2(2) of Regulation (EU) No 1380/2013.
+
+(b) incidental catches of marine mammals, marine reptiles, seabirds and other non-commercially exploited species do not exceed levels provided for in Union legislation and international agreements that are binding on the Union.
+
+(c) the environmental impacts of fishing activities on seabed habitats are in line with point (j) of Article 2(5) of Regulation (EU) No 1380/2013.
+
+2\. The extent to which progress was made towards those targets shall be reviewed as part of the reporting process set out in Article 31.
+
+#### Article 5 — Definition of fishing zones
+
+For the purposes of this Regulation, the following geographical definitions of fishing zones shall apply:
+
+(a) ‘North Sea’ means Union waters in ICES divisions ( 1 ) 2a and 3a and ICES sub-area 4;
+
+(b) ‘Baltic Sea’ means Union waters in ICES divisions 3b, 3c and 3d;
+
+(c) ‘North Western waters’ means Union waters in ICES sub-areas 5, 6 and 7;
+
+(d) ‘South Western waters’ means ICES sub-areas 8, 9 and 10 (Union waters) and CECAF zones ( 2 ) 34.1.1, 34.1.2 and 34.2.0 (Union waters);
+
+(e) ‘Mediterranean Sea’ means the maritime waters of the Mediterranean to the East of line 5°36′ W;
+
+(f) ‘Black Sea’ means waters in GFCM geographical sub-area 29 as defined in Annex I to Regulation (EU) No 1343/2011 of the European Parliament and of the Council ( 3 );
+
+(g) ‘Union waters in the Indian Ocean and the West Atlantic’ means waters around Guadeloupe, French Guiana, Martinique, Mayotte, Réunion and Saint Martin under the sovereignty or jurisdiction of a Member State;
+
+(i) ‘GFCM Agreement area’ means the Mediterranean Sea and the Black Sea and connecting waters, as defined in Regulation (EU) No 1343/2011.
+
+#### Article 6 — Definitions
+
+For the purposes of this Regulation, in addition to the definitions set out in Article 4 of Regulation (EU) No 1380/2013, the following definitions apply:
+
+(1) ‘exploitation pattern’ means how fishing mortality is distributed across the age and size profile of a stock;
+
+(2) ‘selectivity’ means a quantitative expression represented as a probability of capture of marine biological resources of a certain size and/or species;
+
+(3) ‘directed fishing’ means fishing effort targeted at a specific species or group of species and may be further specified at regional level in delegated acts adopted pursuant to Article 27(7) of this Regulation;
+
+(4) ‘good environmental status’ means the environmental status of marine waters as defined by Article 3(5) of Directive 2008/56/EC;
+
+(5) ‘conservation status of a species’ means the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations;
+
+(6) ‘conservation status of a habitat’ means the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species;
+
+(7) ‘sensitive habitat’ means a habitat whose conservation status, including its extent and the condition (structure and function) of its biotic and abiotic components, is adversely affected by pressures arising from human activities, including fishing activities. Sensitive habitats, in particular, include habitat types listed in Annex I, and habitats of species listed in Annex II to Directive 92/43/EEC, habitats of species listed in Annex I to Directive 2009/147/EC, habitats whose protection is necessary to achieve good environmental status under Directive 2008/56/EC and vulnerable marine ecosystems as defined by point (b) of Article 2 of Council Regulation (EC) No 734/2008 ( 4 );
+
+(8) ‘sensitive species’ means a species whose conservation status, including its habitat, distribution, population size or population condition is adversely affected by pressures arising from human activities, including fishing activities. Sensitive species, in particular, include species listed in Annexes II and IV to Directive 92/43/EEC, species covered by Directive 2009/147/EC and species whose protection is necessary to achieve good environmental status under Directive 2008/56/EC;
+
+(9) ‘small pelagic species’ means species such as mackerel, herring, horse mackerel, anchovy, sardine, blue whiting, argentines, sprat, and boarfish;
+
+(10) ‘Advisory Councils’ means stakeholder groups established in accordance with Article 43 of Regulation (EU) No 1380/2013;
+
+(11) ‘trawl’ means fishing gear which is actively towed by one or more fishing vessels and consisting of a net closed at the back by a bag or a codend;
+
+(12) ‘towed gear’ means any trawls, Danish seines, dredges and similar gear which are actively moved in the water by one or more fishing vessels or by any other mechanised system;
+
+(13) ‘bottom trawl’ means a trawl designed and rigged to operate on or near the seabed;
+
+(14) ‘bottom pair trawl’ means a bottom trawl towed by two boats simultaneously, one towing each side of the trawl. The horizontal opening of the trawl is maintained by the distance between the two vessels as they tow the gear;
+
+(15) ‘pelagic trawl’ means a trawl designed and rigged to operate in midwater;
+
+(16) ‘beam trawl’ means gear with a trawl net open horizontally by a beam, wing or similar device;
+
+(17) ‘electric pulse trawl’ means a trawl which uses an electric current to catch marine biological resources;
+
+(18) ‘Danish seine’ or ‘Scottish seine’ means an encircling and towed gear, operated from a boat by means of two long ropes (seine ropes) designed to herd the fish towards the opening of the seine. The gear is made up of a net which is similar in design to a bottom trawl;
+
+(19) ‘shore seines’ means surrounding nets and towed seines set from a boat and pulled towards the shore as they are being operated from the shore or from a vessel moored or anchored by the shore;
+
+(20) ‘surrounding nets’ means nets which catch fish by surrounding them both from the sides and from below. They may or may not be equipped with a purse line;
+
+(21) ‘purse seine’ or ‘ring nets’ means any surrounding net where the bottom is drawn together by means of a purse line situated at the bottom of the net, which passes through a series of rings along the groundrope, enabling the net to be pursed and closed;
+
+(22) ‘dredges’ means gear which are either actively towed by the main boat engine (boat dredge) or hauled by a motorised winch from an anchored vessel (mechanised dredge) to catch bivalves, gastropods or sponges and which consist of a net bag or metal basket mounted on a rigid frame or rod of variable size and shape whose lower part may carry a scraper blade that can be either rounded, sharp or toothed, and may or may not be equipped with skids and diving boards. Some dredges are equipped with hydraulic equipment (hydraulic dredges). Dredges pulled by hand or by manual winches in shallow waters with or without a boat to catch bivalves, gastropods or sponges (hand dredges) shall not be considered towed gear for the purpose of this Regulation;
+
+(23) ‘static nets’ means any type of gillnet, entangling net or trammel net that is anchored to the seabed for fish to swim into and become entangled or enmeshed in the netting;
+
+(24) ‘driftnet’ means a net held on the water surface or at a certain distance below it by floating devices and drifting with the current, either independently or with the boat to which it may be attached. It may be equipped with devices aiming to stabilise the net or to limit its drift;
+
+(25) ‘gillnet’ means a static net made up of a single piece of net and held vertically in the water by floats and weights;
+
+(26) ‘entangling net’ means a static net consisting of a wall of netting rigged so that the netting is hung onto the ropes to create a greater amount of slack netting than a gillnet;
+
+(27) ‘trammel net’ means a static net made up of several layers of netting with two outer layers of a large mesh size with a sheet of small mesh sandwiched between them;
+
+(28) ‘combined gillnet and trammel net’ means any bottom-set gillnet combined with a trammel net which constitutes the lower part;
+
+(29) ‘longline’ means a fishing gear consisting of a main line of variable length, to which branch lines (snoods) with hooks are fixed at intervals determined by the target species. The main line is anchored either horizontally on or near the bottom or vertically, or can be allowed to drift on the surface;
+
+(30) ‘pots and creels’ means traps in the form of cages or baskets having one or more entrances, designed to catch crustaceans, molluscs or fish, that are set on the seabed or suspended above it;
+
+(31) ‘handline’ means a single fishing line with one or more lures or baited hooks;
+
+(32) ‘St Andrew’s cross’ means a grab which employs a scissor-like action to harvest for example bivalve molluscs or red coral from the seabed;
+
+(33) ‘codend’ means the rearmost part of the trawl, having either a cylindrical shape, with the same circumference throughout, or a tapering shape. It can be made up of one or more panels (pieces of netting) attached to one another along their sides and can include the lengthening piece which is made up of one or more panels located just in front of the codend sensu stricto;
+
+(34) ‘mesh size’ means:
+
+(i) for knotted netting: the longest distance between two opposite knots in the same mesh when fully extended;
+
+(ii) for knotless netting: the inside distance between the opposite joints in the same mesh when fully extended along its longest possible axis;
+
+(35) ‘square mesh’ means a quadrilateral mesh composed of two sets of parallel bars of the same nominal length, where one set is parallel to, and the other is at right angles to, the longitudinal axis of the net;
+
+(36) ‘diamond mesh’ means a mesh composed of four bars of the same length where the two diagonals of the mesh are perpendicular and one diagonal is parallel to the longitudinal axis of the net;
+
+(37) ‘T90’ means trawls, Danish seines or similar towed gear having a codend and extension piece produced from knotted diamond mesh netting turned 90o so that the main direction of run of the netting is parallel to the towing direction;
+
+(38) ‘Bacoma exit window’ means an escape panel constructed in knotless square mesh netting fitted into the top panel of a codend with its lower edge no more than four meshes from the codline;
+
+(39) ‘sieve net’ means a piece of netting attached to the full circumference of the shrimp trawl in front of the codend or extension piece, and tapering to an apex where it is attached to the bottom sheet of the shrimp trawl. An exit hole is cut where the sieve net and codend join, allowing species or individuals too large to pass through the sieve to escape, whereas the shrimp can pass through the sieve and into the codend;
+
+(40) ‘drop’ means the sum of the height of the meshes (including knots) in a net when wet and stretched perpendicular to the float line;
+
+(41) ‘immersion time’ or ‘soak time’ means the period from the point of time when the gear is first put in the water until the point of time when the gear is fully recovered on board the fishing vessel;
+
+(42) ‘gear monitoring sensors’ means remote electronic sensors that are placed on fishing gear to monitor key performance parameters such as the distance between trawl doors or volume of the catch;
+
+(43) ‘weighted line’ means a line of baited hooks with added weight to increase its sinking speed and thereby reduce its time of exposure to seabirds;
+
+(44) ‘acoustic deterrent device’ means devices aimed to deter species such as marine mammals from fishing gear by emitting acoustic signals;
+
+(45) ‘bird scaring lines’ (also called a tori line) means lines with streamers that are towed from a high point near the stern of fishing vessels as baited hooks are deployed, with the aim of scaring seabirds away from the hooks;
+
+(46) ‘direct restocking’ means the activity of releasing live wild animals of selected species into waters where they occur naturally, in order to use the natural production of the aquatic environment to increase the number of individuals available for fisheries and/or to increase natural recruitment;
+
+(47) ‘transplantation’ means the process by which a species is intentionally transported and released by humans within areas of established populations of that species;
+
+(48) ‘selectivity performance indicator’ means a reference tool to monitor progress over time towards the achievement of the CFP objective of minimising unwanted catches;
+
+(49) ‘spear gun’ means a pneumatic or mechanically powered hand-held gun that shoots a spear for the purpose of underwater fishing;
+
+(50) ‘length of optimal selectivity (Lopt)’ is the average length of capture, provided by the best available scientific advice, that optimises the growth of individuals in a stock.
+
+## CHAPTER II — COMMON TECHNICAL MEASURES
+
+### SECTION 1 — Prohibited fishing gear and uses
+
+#### Article 7 — Prohibited fishing gear and methods
+
+1\. It shall be prohibited to catch or harvest marine species using the following methods:
+
+(a) toxic, stupefying or corrosive substances;
+
+(b) electric current except for the electric pulse trawl, which shall only be allowed under the specific provisions of Part D of Annex V;
+
+(c) explosives;
+
+(d) pneumatic hammers or other percussive instruments;
+
+(e) towed devices for harvesting red coral or other type of corals or coral-like organisms;
+
+(f) St Andrew’s cross and similar grabs for harvesting, in particular, red coral or other type of corals and coral-like species;
+
+(g) any type of projectile, with the exception of those used to kill caged or trapped tuna and of hand-held spears and spear guns used in recreational fishing without an aqualung, from dawn until dusk.
+
+2\. Notwithstanding Article 2, this Article shall apply to Union vessels in international waters and the waters of third countries, except where the rules adopted by multilateral fisheries organisations, under bilateral or multilateral agreements, or by a third country, specifically provide otherwise.
+
+### SECTION 2 — General restrictions on gear and conditions for their use
+
+#### Article 8 — General restrictions on the use of towed gear
+
+1\. For the purpose of Annexes V to XI, the mesh size of a towed gear as set out in those Annexes shall mean the minimum mesh size of any codend and any extension piece found on board a fishing vessel and attached to, or suitable for attachment to, any towed net. This paragraph shall not apply to netting devices used for the attachment of gear monitoring sensors or when used in conjunction with fish and turtle excluder devices. Further derogations to improve size or species selectivity for marine species may be provided for in a delegated act adopted in accordance with Article 15.
+
+2\. Paragraph 1 shall not apply to dredges. However, during any voyage when dredges are carried on board the following shall apply:
+
+(a) it shall be prohibited to tranship marine organisms;
+
+(b) in the Baltic Sea it shall be prohibited to retain on board or land any quantity of marine organisms unless at least 85 % of the live weight thereof consists of molluscs and/or Furcellaria lumbricalis;
+
+(c) in all other sea basins, except in the Mediterranean Sea, where Article 13 of Regulation (EC) No 1967/2006 applies, it shall be prohibited to retain on board or land any quantity of marine organisms unless at least 95 % by live weight thereof consists of bivalve molluscs, gastropods and sponges.
+
+Points (b) and (c) of this paragraph shall not apply to unintended catches of species subject to the landing obligation set out in Article 15 of Regulation (EU) No 1380/2013. Such unintended catches shall be landed and counted against quotas.
+
+3\. Whenever more than one net is towed simultaneously by a fishing vessel or by more than one fishing vessel, each net shall have the same nominal mesh size. The Commission is empowered to adopt delegated acts pursuant to Article 15 and in accordance with Article 29 derogating from this paragraph, where the use of several nets having a different mesh size leads to such benefits for the conservation of marine biological resources that are at least equivalent to those of existing fishing methods.
+
+4\. It shall be prohibited to use any device that obstructs or otherwise effectively diminishes the mesh size of the codend or any part of a towed gear, as well as to carry on board any such device that is specifically designed for that purpose. This paragraph shall not exclude the use of specified devices used to reduce wear and tear of and strengthen the towed gear, or to limit the escape of catches in the forward part of towed gear.
+
+5\. The Commission may adopt implementing acts establishing detailed rules for the specification of codends and the devices referred to in paragraph 4. Those implementing acts shall be based on the best available scientific and technical advice and may define:
+
+(a) restrictions on twine thickness;
+
+(b) restrictions on the circumference of codends;
+
+(c) restrictions on the use of netting materials;
+
+(d) structure and attachment of codends;
+
+(e) permitted devices to reduce wear and tear; and
+
+(f) permitted devices to limit the escape of catches.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2).
+
+#### Article 9 — General restrictions on the use of static nets and driftnets
+
+1\. It shall be prohibited to have on board or deploy one or more driftnets the individual or total length of which is more than 2,5 km.
+
+2\. It shall be prohibited to use driftnets to fish for the species listed in Annex III.
+
+3\. Notwithstanding paragraph 1, it shall be prohibited to have on board or deploy any driftnet in the Baltic Sea.
+
+4\. It shall be prohibited to use bottom-set gillnets, entangling nets and trammel nets to catch the following species:
+
+(a) Albacore (Thunnus alalunga);
+
+(b) Bluefin tuna (Thunnus thynnus);
+
+(c) Ray’s bream (Brama brama);
+
+(d) Swordfish (Xiphias gladius);
+
+(e) Sharks belonging to the following species or families Hexanchus griseus; Cetorhinus maximus; all species of Alopiidae; Carcharhinidae; Sphyrnidae; Isuridae; Lamnidae.
+
+5\. By way of derogation from paragraph 4, incidental catches in the Mediterranean Sea of no more than three specimens of the shark species referred to in that paragraph may be retained on board or landed provided that they are not protected species under Union law.
+
+6\. It shall be prohibited to deploy any bottom set gillnet, entangling net and trammel net at any position where the charted depth is greater than 200 m.
+
+7\. Notwithstanding paragraph 6 of this Article:
+
+(a) specific derogations as set out in point 6.1 of Part C of Annex V, point 9.1 of Part C of Annex VI and point 4.1 of Part C of Annex VII shall apply where the charted depth is between 200 and 600 m;
+
+(b) the deployment of bottom set gillnets, entangling nets and trammel nets at any position where the charted depth is greater than 200 m shall be allowed in the Mediterranean Sea.
+
+### SECTION 3 — Protection of sensitive species and habitats
+
+#### Article 10 — Prohibited fish and shellfish species
+
+1\. The catching, retention on board, transhipment or landing of fish or shellfish species referred to in Annex IV to Directive 92/43/EEC shall be prohibited except when derogations are granted under Article 16 of that Directive.
+
+2\. In addition to the species referred to in paragraph 1, it shall be prohibited for Union vessels to fish for, retain on board, tranship, land, store, sell, display or offer for sale the species listed in Annex I or species for which fishing is prohibited under other Union legal acts.
+
+3\. When caught accidentally, species referred to in paragraphs 1 and 2 shall not be harmed and specimens shall be promptly released back into the sea, except for the purpose of allowing scientific research on accidentally killed specimens in accordance with applicable Union law.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 29 to amend the list set out in Annex I, where the best available scientific advice indicates that an amendment of that list is necessary.
+
+5\. Measures adopted pursuant to paragraph 4 of this Article shall aim at achieving the target set out in point (b) of Article 4(1) and may take into account international agreements concerning the protection of sensitive species.
+
+#### Article 11 — Catches of marine mammals, seabirds and marine reptiles
+
+1\. The catching, retention on board, transhipment or landing of marine mammals or marine reptiles referred to in Annexes II and IV to Directive 92/43/EEC and of species of seabirds covered by Directive 2009/147/EC shall be prohibited.
+
+2\. When caught, species referred to in paragraph 1 shall not be harmed and specimens shall be promptly released.
+
+3\. Notwithstanding paragraphs 1 and 2, the retention on board, transhipment or landing of specimens of marine species referred to in paragraph 1 which have been caught accidentally, shall be permitted as far as this activity is necessary to secure assistance for the recovery of the individual animals and to allow for scientific research on incidentally killed specimens, provided that the competent national authorities concerned have been fully informed in advance as soon as possible after the catch and in accordance with applicable Union law.
+
+4\. On the basis of the best available scientific advice a Member State may, for vessels flying its flag, put in place mitigation measures or restrictions on the use of certain gear. Such measures shall minimise, and where possible eliminate, the catches of the species referred to in paragraph 1 of this Article and shall be compatible with the objectives set out in Article 2 of Regulation (EU) No 1380/2013 and be at least as stringent as technical measures applicable under Union law.
+
+5\. Measures adopted pursuant to paragraph 4 of this Article shall aim at achieving the target set out in point (b) of Article 4(1). The Member States shall, for control purposes, inform the other Member States concerned of provisions adopted under paragraph 4 of this Article. They shall also make publicly available appropriate information concerning such measures.
+
+#### Article 12 — Protection for sensitive habitats including vulnerable marine ecosystems
+
+1\. It shall be prohibited to deploy the fishing gear specified in Annex II within the relevant areas set out in that Annex.
+
+2\. Where the best available scientific advice recommends an amendment of the list of areas set out in Annex II, the Commission is empowered to adopt delegated acts in accordance with Article 29 of this Regulation and pursuant to the procedure laid down in Article 11(2) and (3) of Regulation (EU) No 1380/2013, to amend Annex II accordingly. When adopting such amendments, the Commission shall give particular attention to the mitigation of negative effects of the displacement of fishing activity to other sensitive areas.
+
+3\. Where the habitats referred to in paragraph 1 or other sensitive habitats, including vulnerable marine ecosystems, occur in waters under the sovereignty or jurisdiction of a Member State, that Member State may establish closed areas or other conservation measures to protect such habitats, pursuant to the procedure laid down in Article 11 of Regulation (EU) No 1380/2013. Such measures shall be compatible with the objectives of Article 2 of Regulation (EU) No 1380/2013 and be at least as stringent as measures under Union law.
+
+4\. Measures adopted pursuant to paragraphs 2 and 3 of this Article shall aim at achieving the target set out in point (c) of Article 4(1).
+
+### SECTION 4 — Minimum conservation reference sizes
+
+#### Article 13 — Minimum conservation reference sizes
+
+1\. The minimum conservation reference sizes of marine species specified in Part A of Annexes V to X to this Regulation shall apply for the purpose of:
+
+(a) ensuring the protection of juveniles of marine species pursuant to Article 15(11) and (12) of Regulation (EU) No 1380/2013;
+
+(b) establishing fish stock recovery areas pursuant to Article 8 of Regulation (EU) No 1380/2013;
+
+(c) constituting minimum marketing sizes pursuant to Article 47(2) of Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( 5 ).
+
+2\. The size of a marine species shall be measured in accordance with Annex IV.
+
+3\. Where more than one method of measuring the size of a marine species is provided for, the specimen shall not be considered to be below the minimum conservation reference size if the size measured by any one of those methods is equal to, or greater than, the minimum conservation reference size.
+
+4\. Lobsters, crawfish, and bivalve and gastropod molluscs belonging to any such species for which a minimum conservation reference size is established in Annexes V, VI or VII may only be retained on board whole and may only be landed whole.
+
+### SECTION 5 — Measures to reduce discarding
+
+#### Article 14 — Pilot projects for the avoidance of unwanted catches
+
+1\. Without prejudice to Article 14 of Regulation (EU) No 1380/2013, Member States may conduct pilot projects with the aim of exploring methods for the avoidance, minimisation and elimination of unwanted catches. Those pilot projects shall take account of the opinions of the relevant Advisory Councils and be based on the best available scientific advice.
+
+2\. Where the results of those pilot studies or other scientific advice indicate that unwanted catches are significant, the Member States concerned shall endeavour to establish technical measures to reduce those unwanted catches in accordance with Article 19 of Regulation (EU) No 1380/2013.
+
+## CHAPTER III — REGIONALISATION
+
+#### Article 15 — Regional technical measures
+
+1\. Technical measures established at regional level are set out in the following Annexes:
+
+(a) in Annex V for the North Sea;
+
+(b) in Annex VI for North Western Waters;
+
+(c) in Annex VII for South Western Waters;
+
+(d) in Annex VIII for the Baltic Sea;
+
+(e) in Annex IX for the Mediterranean Sea;
+
+(f) in Annex X for the Black Sea;
+
+(g) in Annex XI for Union waters in the Indian Ocean and the West Atlantic;
+
+(h) in Annex XIII for sensitive species.
+
+2\. In order to take into account regional specificities of the relevant fisheries, the Commission is empowered to adopt delegated acts in accordance with Article 29 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 in order to amend, supplement, repeal or derogate from the technical measures set out in the Annexes referred to in paragraph 1 of this Article, including when implementing the landing obligation in the context of Article 15(5) and (6) of Regulation (EU) No 1380/2013. The Commission shall adopt such delegated acts on the basis of a joint recommendation submitted in accordance with Article 18 of Regulation (EU) No 1380/2013 and in accordance with the relevant Articles of Chapter III of this Regulation.
+
+3\. For the purpose of adopting such delegated acts, Member States having a direct management interest may submit joint recommendations in accordance with Article 18(1) of Regulation (EU) No 1380/2013 for the first time not later than 24 months, and thereafter 18 months, after each submission of the report referred to in Article 31(1) of this Regulation. They may also submit such recommendations when deemed necessary by them.
+
+4\. The technical measures adopted pursuant to paragraph 2 of this Article shall:
+
+(a) aim at achieving the objectives and targets set out in Articles 3 and 4 of this Regulation;
+
+(b) aim at achieving the objectives and comply with the conditions set out in other relevant Union acts adopted in the area of the CFP, in particular in the multiannual plans referred to in Articles 9 and 10 of Regulation (EU) No 1380/2013;
+
+(c) be guided by the principles of good governance set out in Article 3 of Regulation (EU) No 1380/2013;
+
+(d) as a minimum, lead to such benefits for the conservation of marine biological resources that are at least equivalent, in particular in terms of exploitation patterns and the level of protection provided for sensitive species and habitats, to the measures referred to in paragraph 1. The potential impact of fishing activities on the marine ecosystem shall also be taken into account.
+
+5\. The application of the conditions in relation to the mesh size specifications set out in Article 27 and in Part B of Annexes V to XI shall not lead to a deterioration of selectivity standards, in particular in terms of an increase in the catches of juveniles, existing on 14 August 2019, and shall aim at achieving the objectives and targets set out in Articles 3 and 4.
+
+6\. In the joint recommendations submitted for the purpose of adopting the measures referred to in paragraph 2, the Member States shall provide scientific evidence to support the adoption of those measures.
+
+7\. The Commission may require STECF to assess the joint recommendations referred to in paragraph 2.
+
+#### Article 16 — Species and size selectivity of fishing gear
+
+A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2) in relation to size-selective and species-selective characteristics of gear shall provide scientific evidence demonstrating that those measures result in selectivity characteristics for specific species or combination of species which are at least equivalent to the selectivity characteristics of the gear set out in Part B of Annexes V to X and in Part A of Annex XI.
+
+#### Article 17 — Closed or restricted areas to protect juveniles and spawning aggregations
+
+A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2) in relation to Part C of Annexes V to VIII and X and Part B of Annex XI or in order to establish new closed or restricted areas shall include the following elements in respect of such closed or restricted areas:
+
+(a) the objective of the closure;
+
+(b) the geographical extent and duration of the closure;
+
+(c) restrictions on specific gear; and
+
+(d) control and monitoring arrangements.
+
+#### Article 18 — Minimum conservation reference sizes
+
+A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2) in relation to Part A of Annexes V to X shall respect the objective of ensuring the protection of juveniles of marine species.
+
+#### Article 19 — Real-time closures and moving-on provisions
+
+1\. A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2) in relation to the creation of real-time closures with the aim of ensuring the protection of sensitive species or of aggregations of juveniles, spawning fish or shellfish species, shall include the following elements:
+
+(a) the geographical extent and duration of the closures;
+
+(b) the species and threshold levels that trigger the closure;
+
+(c) the use of highly selective gear to allow access to otherwise closed areas; and
+
+(d) control and monitoring arrangements.
+
+2\. A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2), in relation to moving-on provisions, shall include:
+
+(a) the species and threshold levels that trigger an obligation to move;
+
+(b) the distance by which a vessel is to move away from its previous fishing position.
+
+#### Article 20 — Innovative fishing gear
+
+1\. A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2) in relation to the use of innovative fishing gear, within a specific sea basin, shall contain an assessment of the likely impacts of using such gear on the targeted species and on sensitive species and habitats. The Member States concerned shall collect the appropriate data necessary for such assessment.
+
+2\. The use of innovative fishing gear shall not be permitted where the assessments referred to in paragraph 1 indicate that their use will lead to significant negative impacts on sensitive habitats and non-target species.
+
+#### Article 21 — Nature conservation measures
+
+A joint recommendation submitted for the purpose of adopting the measures referred to in Article 15(2), in relation to the protection of sensitive species and habitats, may in particular:
+
+(a) develop lists of sensitive species and habitats most at risk from fishing activities within the relevant region based on the best available scientific advice;
+
+(b) specify the use of additional or alternative measures to those referred to in Annex XIII to minimise the incidental catches of the species referred to in Article 11;
+
+(c) provide information on the effectiveness of existing mitigation measures and monitoring arrangements;
+
+(d) specify measures to minimise the impacts of fishing gear on sensitive habitats;
+
+(e) specify restrictions on the operation of certain gear or introduce a total prohibition on the use of certain fishing gear within an area where such gear represent a threat to the conservation status of species in that area as referred to in Articles 10 and 11 or other sensitive habitats.
+
+#### Article 22 — Regional measures under temporary discard plans
+
+1\. When Member States submit joint recommendations for the establishment of technical measures in temporary discard plans referred to in Article 15(6) of Regulation (EU) No 1380/2013, those recommendations may contain, inter alia, the following elements:
+
+(a) specifications of fishing gear and the rules governing their use;
+
+(b) specifications of modifications to fishing gear or use of selectivity devices to improve size or species selectivity;
+
+(c) restrictions or prohibitions on the use of certain fishing gear and on fishing activities in certain areas or during certain periods;
+
+(d) minimum conservation reference sizes;
+
+(e) derogations adopted on the basis of Article 15(4) of Regulation (EU) No 1380/2013.
+
+2\. The measures referred to in paragraph 1 of this Article shall aim at achieving the objectives set out in Article 3 and in particular for the protection of juveniles or spawning aggregations of fish or shellfish species.
+
+#### Article 23 — Pilot projects on full documentation of catches and discards
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 29 of this Regulation and Article 18 of Regulation (EU) No 1380/2013, supplementing this Regulation by defining pilot projects that develop a system of full documentation of catches and discards based on measurable objectives and targets, for the purpose of a results-based management of fisheries.
+
+2\. The pilot projects referred to in paragraph 1 may derogate from the measures set out in Part B of Annexes V to XI for a specific area and for a maximum period of one year, provided that it can be demonstrated that such pilot projects contribute to achieving the objectives and targets set out in Articles 3 and 4 and, in particular, aim at improving the selectivity of the fishing gear or practice concerned or otherwise reduce its environmental impact. That one-year period may be extended by one additional year under the same conditions. It shall be limited to no more than 5 % of the vessels in that metier per Member State.
+
+3\. Where Member States submit joint recommendations for the establishment of pilot projects as referred to in paragraph 1, they shall provide scientific evidence to support their adoption. STEFC shall assess those joint recommendations and shall make that assessment public. Within six months of the conclusion of the project, the Member States shall submit a report to the Commission outlining the results, including a detailed assessment of the changes in selectivity and other environmental impacts.
+
+4\. STECF shall assess the report referred to in paragraph 3. In the case of a positive assessment of the contribution of the new gear or practice to the objective in paragraph 2, the Commission may submit a proposal in accordance with the TFEU to allow for the generalised use of that gear or practice. The STECF assessment shall be made public.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 29 supplementing this Regulation by defining the technical specifications of a system for full documentation of catches and discards referred to in paragraph 1 of this Article.
+
+#### Article 24 — Implementing acts
+
+1\. The Commission may adopt implementing acts, establishing the following:
+
+(a) the specifications of the selection devices attached to the gear set out in Part B of Annexes V to IX;
+
+(b) detailed rules on the specifications of the fishing gear described in Part D of Annex V relating to restrictions on gear construction and the control and monitoring measures to be adopted by the flag Member State;
+
+(c) detailed rules on the control and monitoring measures to be adopted by the flag Member State when using the gear referred to in point 6 of Part C of Annex V, point 9 of Part C of Annex VI, and point 4 of Part C of Annex VII;
+
+(d) detailed rules on the control and monitoring measures to be adopted for the closed or restricted areas described in point 2 of Part C of Annex V, and points 6 and 7 of part C of Annex VI;
+
+(e) detailed rules on the signal and implementation characteristics of acoustic deterrent devices as referred to in Part A of Annex XIII;
+
+(f) detailed rules on the design and deployment of bird scaring lines and weighted lines as referred to in Part B of Annex XIII;
+
+(g) detailed rules on the specifications for the turtle excluder device referred to in Part C of Annex XIII.
+
+2\. The implementing acts referred to in paragraph 1 shall be adopted in accordance with Article 30(2).
+
+## CHAPTER IV — SCIENTIFIC RESEARCH, DIRECT RESTOCKING AND TRANSPLANTATION
+
+#### Article 25 — Scientific research
+
+1\. The technical measures provided for in this Regulation shall not apply to fishing operations conducted for the purpose of scientific investigations subject to the following conditions:
+
+(a) the fishing operations are to be carried out with the permission and under the authority of the flag Member State;
+
+(b) the Commission and the Member State in the waters under the sovereignty or jurisdiction of which the fishing operations take place (‘the coastal Member State’), are to be informed at least two weeks in advance of the intention to conduct such fishing operations detailing the vessels involved and the scientific investigations to be undertaken;
+
+(c) the vessel or vessels conducting the fishing operations are to have a valid fishing authorisation in accordance with Article 7 of Regulation (EC) No 1224/2009;
+
+(d) if requested by the coastal Member State to the flag Member State, the master of the vessel shall be required to take on board an observer from the coastal Member State during the fishing operations, unless this is not possible for security reasons;
+
+(e) fishing operations conducted by commercial vessels for the purpose of scientific investigation shall be limited in time. When the fishing operations conducted by commercial vessels for a specific research involve more than six commercial vessels, the Commission shall be informed by the flag Member State at least three months in advance and shall seek, where appropriate, the advice of STECF to confirm that this level of participation is justified on scientific grounds; if the level of participation is not considered justified according to the advice of STECF, the concerned Member State shall amend the conditions of the scientific research accordingly;
+
+(f) in the case of electric pulse trawl, vessels conducting scientific research must follow a specific scientific protocol as part of a scientific research plan that has been reviewed or validated by ICES or STECF, as well as a system for monitoring, control and evaluation.
+
+2\. Marine species caught for the purposes specified in paragraph 1 of this Article may be sold, stored, displayed or offered for sale, provided that they are counted against quotas in accordance with Article 33(6) of Regulation (EC) No 1224/2009, where applicable, and:
+
+(a) they meet the minimum conservation reference sizes set out in Annexes IV to X to this Regulation; or
+
+(b) they are sold for purposes other than direct human consumption.
+
+#### Article 26 — Direct restocking and transplantation
+
+1\. The technical measures provided for in this Regulation shall not apply to fishing operations conducted solely for the purpose of direct restocking or transplantation of marine species, provided that those operations are carried out with the permission and under the authority of the Member State or Member States having a direct management interest.
+
+2\. Where the direct restocking or transplantation is carried out in the waters of another Member State or Member States, the Commission and all those Member States shall be informed, at least 20 calendar days in advance, of the intention to conduct such fishing operations.
+
+## CHAPTER V — CONDITIONS IN RELATION TO MESH SIZE SPECIFICATIONS
+
+#### Article 27 — Conditions in relation to mesh size specifications
+
+1\. The catch percentages referred to in the Annexes V to VIII shall mean the maximum percentage of species allowed so as to qualify for the specific mesh sizes set out in those Annexes. Such percentages shall be without prejudice to the obligation to land catches in Article 15 of Regulation (EU) No 1380/2013.
+
+2\. The catch percentages shall be calculated as the proportion by live weight of all marine biological resources landed after each fishing trip.
+
+3\. The catch percentages referred to in paragraph 2 may be calculated on the basis of one or more representative samples.
+
+4\. For the purpose of this Article, the equivalent weight of whole Norway lobster shall be obtained by multiplying the weight of Norway lobster tails by three.
+
+5\. Member States may issue fishing authorisations in accordance with Article 7 of Regulation (EC) No 1224/2009 for vessels flying their flag when engaged in fishing activities using the mesh-specific sizes provided for in Annexes V to XI. Such authorisations may be suspended or withdrawn where a vessel has been found to not have complied with the defined catch percentages provided for in Annexes V to VIII.
+
+6\. This Article shall be without prejudice to Regulation (EC) No 1224/2009.
+
+7\. The Commission is empowered to adopt delegated acts pursuant to Article 15 and in accordance with Article 29 in order to further define the term ‘directed fishing’ for relevant species in Part B of Annexes V to X and Part A of Annex XI. For this purpose, Member States having a direct management interest in the fisheries concerned shall submit any joint recommendations for the first time not later than 15 August 2020.
+
+## CHAPTER VII — PROCEDURAL PROVISIONS
+
+#### Article 29 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 2(2), Article 8(3), Article 10(4), Article 12(2), Article 15(2), Article 23(1) and (5), Article 27(7) and Article 31(4) shall be conferred on the Commission for a period of five years from 14 August 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 2(2), Article 8(3), Article 10(4), Article 12(2), Article 15(2), Article 23(1) and (5), Article 27(7) and Article 31(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 2(2), Article 8(3), Article 10(4), Article 12(2), Article 15(2), Article 23(1) and (5), Article 27(7) and Article 31(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 30 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee for fisheries and aquaculture established by Article 47 of Regulation (EU) No 1380/2013. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+#### Article 31 — Review and reporting
+
+1\. By 31 December 2020 and every third year thereafter, and on the basis of information supplied by Member States and the relevant Advisory Councils and following evaluation by STECF, the Commission shall submit a report to the European Parliament and to the Council on the implementation of this Regulation. That report shall assess the extent to which technical measures both at regional level and at Union level have contributed to achieving the objectives set out in Article 3 and reaching the targets set out in Article 4. The report shall also refer to advice from ICES on the progress that has been made, or impact arising from innovative gear. The report shall draw conclusions about the benefits for, or negative effects on, marine ecosystems, sensitive habitats and selectivity.
+
+2\. The report referred to in paragraph 1 of this Article shall contain, inter alia, an assessment of the contribution of technical measures to optimise exploitation patterns, as provided for in point (a) of Article 3(2). For that purpose the report may include, inter alia, as a selectivity performance indicator for the key indicator stocks for the species listed in Annex XIV the length of optimal selectivity (Lopt) compared to the average length of fish caught for each year covered.
+
+3\. On the basis of that report, where at regional level there is evidence that the objectives and targets have not been met, Member States within that region shall, within 12 months after the submission of the report referred to in paragraph 1, submit a plan setting out the actions to be taken to contribute to achieving those objectives and targets.
+
+4\. The Commission may also propose to the European Parliament and to the Council any necessary amendments to this Regulation on the basis of that report. The Commission is empowered to adopt delegated acts pursuant to Article 15 and in accordance with Article 29 in order to amend the list of species set out in Annex XIV.
+
+#### Article 32 — Amendments to Regulation (EC) No 1967/2006
+
+Regulation (EC) No 1967/2006 is amended as follows:
+
+(a) Articles 3, 8 to 12, 14, 15, 16 and 25 are deleted;
+
+(b) Annexes II, III and IV are deleted.
+
+References to the deleted Articles and Annexes shall be construed as references to the relevant provisions of this Regulation.
+
+#### Article 33 — Amendments to Regulation (EC) No 1224/2009
+
+In Chapter IV of Regulation (EC) No 1224/2009, Title IV is amended as follows:
+
+(a) Section 3 is deleted;
+
+(b) the following Section is added:
+
+## ‘Section 4 — On-board processing and pelagic fisheries
+
+Article 54a
+
+On-board processing
+
+1\. The carrying out on board a fishing vessel of any physical or chemical processing of fish to produce fish-meal, fish-oil, or similar products or to tranship catches of fish for such purposes shall be prohibited.
+
+2\. Paragraph 1 shall not apply to:
+
+(a) the processing or transhipment of offal; or
+
+(b) the production on board a fishing vessel of surimi.
+
+Article 54b
+
+Catch handling and discharge restrictions on pelagic vessels
+
+1\. The maximum space between bars in the water separator on board pelagic fishing vessels targeting mackerel, herring and horse mackerel operating in the NEAFC Convention Area as defined in Article 3(2) of Regulation (EU) No 1236/2010 shall be 10 mm.
+
+The bars shall be welded in place. If holes are used in the water separator instead of bars, the maximum diameter of the holes shall not exceed 10 mm. Holes in the chutes before the water separator shall not exceed 15 mm in diameter.
+
+2\. Pelagic vessels operating in the NEAFC Convention Area shall be prohibited from discharging fish under their water line from buffer tanks or refrigerated seawater (RSW) tanks.
+
+3\. Drawings related to the catch handling and discharge capabilities of pelagic vessels targeting mackerel, herring and horse mackerel in the NEAFC Convention Area which are certified by the competent authorities of the flag Member States, as well as any modifications thereto, shall be sent by the master of the vessel to the competent fisheries authorities of the flag Member State. The competent authorities of the flag Member State of the vessels shall carry out periodic verifications of the accuracy of the drawings submitted. Copies shall be carried on board the vessel at all times.
+
+Article 54c
+
+Restrictions on the use of automatic grading equipment
+
+1\. The carrying or use on board a fishing vessel of equipment which is capable of automatically grading, by size or by sex, herring or mackerel or horse mackerel shall be prohibited.
+
+2\. However, the carrying and use of such equipment shall be permitted provided that:
+
+(a) the vessel does not simultaneously carry or use on board either towed gear of mesh size less than 70 mm or one or more purse seines or similar fishing gear; or
+
+(b) the whole of the catch which may be lawfully retained on board:
+
+(i) is stored in a frozen state;
+
+(ii) the graded fish are frozen immediately after grading and no graded fish are returned to the sea; and
+
+(iii) the equipment is installed and located on the vessel in such a way as to ensure immediate freezing and not to allow the return of marine species to the sea.
+
+3\. By way of derogation from paragraphs 1 and 2 of this Article, any vessel authorised to fish in the Baltic Sea, the Belts or the Sound may carry automatic grading equipment in the Kattegat provided that a fishing authorisation has been issued in accordance with Article 7. The fishing authorisation shall define the species, areas, time periods and any other required conditions applicable to the use and carriage on board of the grading equipment.
+
+4\. This Article shall not apply in the Baltic Sea.’.
+
+#### Article 34 — Amendment to Regulation (EU) No 1380/2013
+
+In Article 15 of Regulation (EU) No 1380/2013, paragraph 12 is replaced by the following:
+
+‘12. For species that are not subject to the landing obligation as specified in paragraph 1, the catches of species below the minimum conservation reference size shall not be retained on board, but shall be returned immediately to the sea, except when they are used as live bait. ’.
+
+#### Article 35 — Amendment to Regulation (EU) 2016/1139
+
+In Regulation (EU) 2016/1139, Article 8 is amended as follows:
+
+(a) in paragraph 1, the introductory part is replaced by the following:
+
+‘1. The Commission is empowered to adopt delegated acts in accordance with Article 16 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 regarding the following technical measures, insofar as they are not covered by Regulation (EU) 2019/1241 of the European Parliament and of the Council ( *1 ):
+
+(b) paragraph 2 is replaced by the following:
+
+‘2. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3 of this Regulation and shall comply with Article 15(4) of Regulation (EU) 2019/1241’.
+
+#### Article 36 — Amendments to Regulation (EU) 2018/973
+
+In Regulation (EU) 2018/973, Article 9 is amended as follows:
+
+(a) in paragraph 1, the introductory part is replaced by the following:
+
+‘1. The Commission is empowered to adopt delegated acts in accordance with Article 16 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 in order to supplement this Regulation regarding the following technical measures, insofar as they are not covered by Regulation (EU) 2019/1241 of the European Parliament and of the Council ( *2 ):
+
+(b) paragraph 2 is replaced by the following:
+
+‘2. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3 of this Regulation, and shall comply with Article 15(4) of Regulation (EU) 2019/1241’.
+
+#### Article 37 — Amendment to Regulation (EU) 2019/472
+
+In Regulation (EU) 2019/472, Article 9 is amended as follows:
+
+(a) in paragraph 1, the introductory part is replaced by the following:
+
+‘1. The Commission is empowered to adopt delegated acts in accordance with Article 18 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 in order to supplement this Regulation regarding the following technical measures, insofar as they are not covered by Regulation (EU) 2019/1241 of the European Parliament and of the Council ( *3 ):
+
+(b) paragraph 2 is replaced by the following:
+
+‘2. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3 of this Regulation, and shall comply with Article 15(4) of Regulation (EU) 2019/1241’.
+
+#### Article 38 — Amendment to Regulation (EU) 2019/1022
+
+In Regulation (EU) 2019/1022, Article 13 is amended as follows:
+
+(a) in paragraph 1, the introductory part is replaced by the following:
+
+‘1. The Commission is empowered to adopt delegated acts in accordance with Article 18 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 in order to supplement this Regulation regarding the following technical measures, insofar as they are not covered by Regulation (EU) 2019/1241 of the European Parliament and of the Council ( *4 ):
+
+(b) paragraph 2 is replaced by the following:
+
+‘2. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3 of this Regulation, and shall comply with Article 15(4) of Regulation (EU) 2019/1241’.
+
+#### Article 39 — Repeals
+
+Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 are repealed.
+
+References to the repealed Regulations shall be construed as references to this Regulation.
+
+#### Article 40 — Entry into Force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PROHIBITED SPECIES**
+
+Species for which there is a prohibition to fish for, retain on board, tranship, land, store, sell, display or offer for sale, as referred to in Article 10(2):
+
+(a) The following species of sawfish in all Union waters:
+
+(i) narrow sawfish (Anoxypristis cuspidata);
+
+(ii) dwarf sawfish (Pristis clavata);
+
+(iii) smalltooth sawfish (Pristis pectinata);
+
+(iv) largetooth sawfish (Pristis pristis);
+
+(v) green sawfish (Pristis zijsron);
+
+(b) basking shark (Cetorhinus maximus) and white shark (Carcharodon carcharias) in all waters;
+
+(c) smooth lantern shark (Etmopterus pusillus) in Union waters of ICES division 2a and subarea 4 and in Union waters of ICES subareas 1, 5, 6, 7, 8, 12 and 14;
+
+(d) reef manta ray (Manta alfredi) in all Union waters;
+
+(e) giant manta ray (Manta birostris) in all Union waters;
+
+(f) the following species of Mobula rays in all Union waters:
+
+(i) devil fish (Mobula mobular);
+
+(ii) lesser Guinean devil ray (Mobula rochebrunei);
+
+(iii) spinetail mobula (Mobula japanica);
+
+(iv) smoothtail mobula (Mobula thurstoni);
+
+(v) longhorned mobula (Mobula eregoodootenkee);
+
+(vi) Munk’s devil ray (Mobula munkiana);
+
+(vii) Chilean devil ray (Mobula tarapacana);
+
+(viii) shortfin devil ray (Mobula kuhlii);
+
+(ix) lesser devil ray (Mobula hypostoma);
+
+(g) Norwegian skate (Raja (Dipturus) nidarosiensis) in Union waters of ICES divisions 6a, 6b, 7a, 7b, 7c, 7e, 7f, 7g, 7h and 7k;
+
+(h) white skate (Raja alba) in Union waters of ICES subareas 6-10
+
+(i) guitarfishes (Rhinobatidae) in Union waters of ICES subareas 1-10 and 12;
+
+(j) angel shark (Squatina squatina) in all Union waters;
+
+(k) salmon (Salmo salar) and sea trout (Salmo trutta) when fishing with any towed net within the waters outside the six-mile limit measured from Member States’ baselines in ICES sub-areas 1, 2 and 4-10 (Union waters);
+
+(l) houting (Coregonus oxyrhynchus) in ICES division 4b (Union waters);
+
+(m) the Adriatic sturgeon (Acipenser naccarii) and common sturgeon (Acipenser sturio) in Union waters;
+
+(n) berried female crawfish (Palinurus spp.) and berried female lobster (Homarus gammarus) in the Mediterranean Sea except when used for direct restocking or transplantation purposes;
+
+(o) date shell (Lithophaga lithophaga), fan mussel (Pinna nobilis) and common piddock (Pholas dactylus) in Union waters in the Mediterranean Sea;
+
+(p) hatpin urchin (Centrostephanus longispinus);
+
+(q) berried female European lobster (Homarus gammarus) in ICES divisions 3a, 4a and 4b.
+
+## ANNEX II
+
+**CLOSED AREAS FOR THE PROTECTION OF SENSITIVE HABITATS**
+
+For the purposes of Article 12, the following restrictions on fishing activity are applicable in the areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+**PART A**
+
+**North Western Waters**
+
+1\. It shall be prohibited to deploy bottom trawls or similar towed nets, bottom set gillnets, entangling nets or trammel nets and bottom set longlines within the following areas:
+
+Belgica Mound Province:
+
+— 51°29.4′ N, 11°51.6′ W
+
+— 51°32.4′ N, 11°41.4′ W
+
+— 51°15.6′ N, 11°33.0′ W
+
+— 51°13.8′ N, 11°44.4′ W
+
+— 51°29.4′ N, 11°51.6′ W
+
+Hovland Mound Province:
+
+— 52°16.2′ N, 13°12.6′ W
+
+— 52°24.0′ N, 12°58.2′ W
+
+— 52°16.8′ N, 12°54.0′ W
+
+— 52°16.8′ N, 12°29.4′ W
+
+— 52°04.2′ N, 12°29.4′ W
+
+— 52°04.2′ N, 12°52.8′ W
+
+— 52°09.0′ N, 12°56.4′ W
+
+— 52°09.0′ N, 13°10.8′ W
+
+— 52°16.2′ N, 13°12.6′ W
+
+North-West Porcupine Bank Area I:
+
+— 53°30.6′ N, 14°32.4′ W
+
+— 53°35.4′ N, 14°27.6′ W
+
+— 53°40.8′ N, 14°15.6′ W
+
+— 53°34.2′ N, 14°11.4′ W
+
+— 53°31.8′ N, 14°14.4′ W
+
+— 53°24.0′ N, 14°28.8′ W
+
+— 53°30.6′ N, 14°32.4′ W
+
+North-West Porcupine Bank Area II:
+
+— 53°43.2′ N, 14°10.8′ W
+
+— 53°51.6′ N, 13°53.4′ W
+
+— 53°45.6′ N, 13°49.8′ W
+
+— 53°36.6′ N, 14°07.2′ W
+
+— 53°43.2′ N, 14°10.8′ W
+
+South-West Porcupine Bank:
+
+— 51°54.6′ N, 15°07.2′ W
+
+— 51°54.6′ N, 14°55.2′ W
+
+— 51°42.0′ N, 14°55.2′ W
+
+— 51°42.0′ N, 15°10.2′ W
+
+— 51°49.2′ N, 15°06.0′ W
+
+— 51°54.6′ N, 15°07.2′ W.
+
+2\. All pelagic vessels fishing in the areas as described in point 1 shall:
+
+— be on a list of authorised vessels and be issued with a fishing authorisation in accordance with Article 7 of Regulation (EC) No 1224/2009;
+
+— carry on board exclusively pelagic gear;
+
+— give four hours advance notification of their intention to enter an area for the protection of vulnerable deep-sea habitats to the Irish Fisheries Monitoring Centre (FMC) as defined in point 15 of Article 4 of Regulation (EC) No 1224/2009 and at the same time notify quantities of fish retained on board;
+
+— have an operational, fully functioning secure Vessel Monitoring System (VMS) which complies fully with the respective rules when present in any of the areas described in point 1;
+
+— make VMS reports every hour;
+
+— inform the Irish FMC on departure from the area and at the same time notify quantities of fish retained on board; and
+
+— have on board trawls with a codend mesh size range from 16-79mm.
+
+3\. It shall be prohibited to deploy any bottom trawl or similar towed nets within the following area:
+
+Darwin Mounds:
+
+— 59°54′ N, 6°55′ W
+
+— 59°47′ N, 6°47′ W
+
+— 59°37′ N, 6°47′ W
+
+— 59°37′ N, 7°39′ W
+
+— 59°45′ N, 7°39′ W
+
+— 59°54′ N, 7°25′ W.
+
+**PART B**
+
+**South Western Waters**
+
+**1\. El Cachucho**
+
+1.1. It shall be prohibited to deploy bottom trawls, bottom set gillnets, entangling nets or trammel nets and bottom set longlines within the following areas:
+
+— 44°12′ N, 5°16′ W
+
+— 44°12′ N, 4°26′ W
+
+— 43°53′ N, 4°26′ W
+
+— 43°53′ N, 5°16′ W
+
+— 44°12′ N, 5°16′ W.
+
+1.2. Vessels that conducted directed fisheries with bottom set longlines in 2006, 2007 and 2008 for greater forkbeard (Phycis blennoides) may continue to fish in the area south of 44°00.00′ N provided they have a fishing authorisation issued in accordance with Article 7 of Regulation (EC) No 1224/2009.
+
+1.3. All vessels having obtained this fishing authorisation shall, regardless of their overall length, have in use an operational, fully functioning secure VMS which complies with the respective rules, when conducting fisheries in the area described in point 1.1.
+
+**2\. Madeira and the Canary Islands**
+
+It shall be prohibited to deploy bottom set gillnets, entangling nets and trammel nets at depths greater than 200 m or bottom trawls or similar towed gear within the following areas:
+
+— 27°00′ N, 19°00′ W
+
+— 26°00′ N, 15°00′ W
+
+— 29°00′ N, 13°00′ W
+
+— 36°00′ N, 13°00′ W
+
+— 36°00′ N, 19°00′ W.
+
+**3\. Azores**
+
+It shall be prohibited to deploy bottom set gillnets, entangling nets and trammel nets at depths greater than 200 m or bottom trawls or similar towed gear within the following areas:
+
+— 36°00′ N, 23°00′ W
+
+— 39°00′ N, 23°00′ W
+
+— 42°00′ N, 26°00′ W
+
+— 42°00′ N, 31°00′ W
+
+— 39°00′ N, 34°00′ W
+
+— 36°00′ N, 34°00′ W.
+
+## ANNEX III
+
+**LIST OF SPECIES PROHIBITED FOR CAPTURE WITH DRIFTNETS**
+
+— Albacore: Thunnus alalunga
+
+— Bluefin tuna: Thunnus thynnus
+
+— Bigeye tuna: Thunnus obesus
+
+— Skipjack: Katsuwonus pelamis
+
+— Atlantic Bonito: Sarda sarda
+
+— Yellowfin tuna: Thunnus albacares
+
+— Blackfin tuna: Thunnus atlanticus
+
+— Little tuna: Euthynnus spp.
+
+— Southern bluefin tuna: Thunnus maccoyii
+
+— Frigate tuna: Auxis spp.
+
+— Oceanic sea breams: Brama rayi
+
+— Marlins: Tetrapturus spp.; Makaira spp.
+
+— Sailfishes: Istiophorus spp.
+
+— Swordfishes: Xiphias gladius
+
+— Sauries: Scomberesox spp.; Cololabis spp.
+
+— Dolphinfishes: Coryphœna spp.
+
+— Sharks: Hexanchus griseus; Cetorhinus maximus; Alopiidae; Carcharhinidae; Sphyrnidae; Isuridae; Lamnidae
+
+— Cephalopods: all species
+
+## ANNEX IV
+
+**MEASUREMENT OF THE SIZE OF A MARINE ORGANISM**
+
+1\. The size of any fish shall be measured, as shown in Figure 1, from the tip of the snout to the end of the tail fin.
+
+2\. The size of a Norway lobster (Nephrops norvegicus) shall be measured, as shown in Figure 2, either:
+
+— as the length of the carapace, parallel to the midline, from the back of either eye socket to the midpoint of the distal dorsal edge of the carapace, or
+
+— as the total length, from the tip of the rostrum to the rear end of the telson, not including the setae.
+
+In the case of detached Norway lobster tails: from the front edge of the first tail segment present to the rear end of the telson, not including the setae. The tail shall be measured flat, unstretched and on the dorsal side.
+
+3\. The size of a lobster (Homarus gammarus) from the North Sea except Skagerrak or Kattegat shall be measured, as shown in Figure 3, as the length of the carapace, parallel to the midline, from the back of either eye socket to the distal edge of the carapace.
+
+4\. The size of a lobster (Homarus gammarus) from Skagerrak or Kattegat shall be measured, as shown in Figure 3, either:
+
+— as the length of the carapace, parallel to the midline, from the back of either eye socket to the midpoint of the distal dorsal edge of the carapace, or
+
+— as the total length, from the tip of the rostrum to the rear end of the telson, not including the setae.
+
+5\. The size of a crawfish (Palinurus spp.) shall be measured, as shown in Figure 4, as the length of the carapace, parallel to the midline, from the tip of the rostrum to the midpoint of the distal dorsal edge of the carapace.
+
+6\. The size of any bivalve mollusc shall be measured, as shown in Figure 5, across the longest part of the shell.
+
+7\. The size of a spinous spider crab (Maja squinado) shall be measured, as shown in Figure 6, as the length of the carapace, along the midline, from the edge of the carapace between the rostrums to the posterior edge of the carapace.
+
+8\. The size of an edible crab (Cancer pagurus) shall be measured, as shown in Figure 7, as the maximum width of the carapace measured perpendicular to the antero-posterior midline of the carapace.
+
+9\. The size of a whelk (Buccinum spp.) shall be measured, as shown in Figure 8, as the length of the shell.
+
+10\. The size of swordfish (Xiphias gladius) shall be measured, as shown in Figure 9, as the lower jaw to fork length (LJFL).
+
+**Figure 1 Fish species**
+
+**Figure 2 Norway Lobster**
+
+**(Nephrops norvegicus)**
+
+**Figure 3 Lobster**
+
+**(Hommarus gammarus)**
+
+**Figure 4 Crawfish**
+
+**(Palinurus spp.)**
+
+**Figure 5 Bivalve molluscs**
+
+**Figure 6 Spinous Spider Crabs**
+
+**(Maja squinado)**
+
+**Figure 7 Edible crab**
+
+**(Cancer pagurus)**
+
+**Figure 8 Whelk**
+
+**(Buccinum spp.)**
+
+**Figure 9 Swordfish**
+
+**(Xiphias gladius)**
+
+## ANNEX V
+
+**NORTH SEA ( 6 )**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+<table>
+<tbody><tr><td>Species</td><td>North Sea</td></tr>
+<tr><td>Cod (Gadus morhua)</td><td>35 cm</td></tr>
+<tr><td>Haddock (Melanogrammus aeglefinus)</td><td>30 cm</td></tr>
+<tr><td>Saithe (Pollachius virens)</td><td>35 cm</td></tr>
+<tr><td>Pollack (Pollachius pollachius)</td><td>30 cm</td></tr>
+<tr><td>Hake (Merluccius merluccius)</td><td>27 cm</td></tr>
+<tr><td>Megrim (Lepidorhombus spp.)</td><td>20 cm</td></tr>
+<tr><td>Sole (Solea spp.)</td><td>24 cm</td></tr>
+<tr><td>Plaice (Pleuronectes platessa)</td><td>27 cm</td></tr>
+<tr><td>Whiting (Merlangius merlangus)</td><td>27 cm</td></tr>
+<tr><td>Ling (Molva molva)</td><td>63 cm</td></tr>
+<tr><td>Blue ling (Molva dipterygia)</td><td>70 cm</td></tr>
+<tr><td>Norway lobster (Nephrops norvegicus)</td><td>Total length 85 mm, Carapace length 25 mm Norway lobster tails 46 mm</td></tr>
+<tr><td>Mackerel (Scomber spp.)</td><td>30 cm (4)</td></tr>
+<tr><td>Herring (Clupea harengus)</td><td>20 cm (4)</td></tr>
+<tr><td>Horse mackerel (Trachurus spp.)</td><td>15 cm (4)</td></tr>
+<tr><td>Anchovy (Engraulis encrasicolus)</td><td>12 cm or 90 individuals per kg (4)</td></tr>
+<tr><td>Bass (Dicentrarchus labrax)</td><td>42 cm</td></tr>
+<tr><td>Sardine (Sardina pilchardus)</td><td>11 cm (4)</td></tr>
+<tr><td>Lobster (Homarus gammarus)</td><td>87 mm (carapace length)</td></tr>
+<tr><td>Spinous spider crab (Maja squinado)</td><td>120 mm</td></tr>
+<tr><td>Queen scallop (Chalamys spp.)</td><td>40 mm</td></tr>
+<tr><td>Grooved carpetshell (Ruditapes decussatus)</td><td>40 mm</td></tr>
+<tr><td>Carpetshell (Venerupis pullastra)</td><td>38 mm</td></tr>
+<tr><td>Short-necked clam (Venerupis philippinarum)</td><td>35 mm</td></tr>
+<tr><td>Clam (Venus verrucosa)</td><td>40 mm</td></tr>
+<tr><td>Hard clam (Callista chione)</td><td>6 cm</td></tr>
+<tr><td>Razor clam (Ensis spp.)</td><td>10 cm</td></tr>
+<tr><td>Surf clams (Spisula solida)</td><td>25 mm</td></tr>
+<tr><td>Donax clams (Donax spp.)</td><td>25 mm</td></tr>
+<tr><td>Bean solen (Pharus legumen)</td><td>65 mm</td></tr>
+<tr><td>Whelk (Buccinum undatum.)</td><td>45 mm</td></tr>
+<tr><td>Octopus (Octopus vulgaris)</td><td>750 g</td></tr>
+<tr><td>Crawfish (Palinurus spp.)</td><td>95 mm (carapace length)</td></tr>
+<tr><td>Deepwater rose shrimp (Parapenaeus longirostirs)</td><td>22 mm (carapace length)</td></tr>
+<tr><td>Edible crab (Cancer pagurus)</td><td>140 mm (1)(2)(3)</td></tr>
+<tr><td>Scallop (Pecten maximus)</td><td>100 mm</td></tr>
+<tr><td>Cod (Gadus morhua)</td><td>30 cm</td></tr>
+<tr><td>Haddock (Melanogrammus aeglefinus)</td><td>27 cm</td></tr>
+<tr><td>Saithe (Pollachius virens)</td><td>30 cm</td></tr>
+<tr><td>Pollack (Pollachius pollachius)</td><td>—</td></tr>
+<tr><td>Hake (Merluccius merluccius)</td><td>30 cm</td></tr>
+<tr><td>Megrim (Lepidorhombus spp.)</td><td>25 cm</td></tr>
+<tr><td>Sole (Solea spp.)</td><td>24 cm</td></tr>
+<tr><td>Plaice (Pleuronectes platessa)</td><td>27 cm</td></tr>
+<tr><td>Whiting (Merlangius merlangus)</td><td>23 cm</td></tr>
+<tr><td>Ling (Molva molva)</td><td>—</td></tr>
+<tr><td>Blue ling (Molva dypterygia)</td><td>—</td></tr>
+<tr><td>Norway lobster (Nephrops norvegicus)</td><td>Total length 105 mm Norway lobster tails 59 mm  Carapace length 32 mm </td></tr>
+<tr><td>Mackerel (Scomber spp.)</td><td>20 cm (4)</td></tr>
+<tr><td>Herring (Clupea harengus)</td><td>18 cm (4)</td></tr>
+<tr><td>Horse mackerel (Trachurus spp.)</td><td>15 cm (4)</td></tr>
+<tr><td>Lobster (Homarus gammarus)</td><td>Total length 220 mm Carapace length 78 mm </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>European lobster (Homarus gammarus)</td><td>90 mm (Carapace length) in the Swedish exclusive economic zone in ICES division 3a</td></tr>
+<tr><td colspan="2">(1)  In Union waters in ICES division 4a. In ICES Divisions 4b and 4c, a minimum conservation reference size of 130 mm shall apply.  (2)  In an area in ICES divisions 4b and 4c limited by a point at 53°28′22″ N, 0°09′24″ E, on the coast of England, a straight line joining this point with 53°28′22″ N, 0°22′24″ E, the 6-mile boundary of the United Kingdom, and a straight line connecting a point at 51°54′06″ N, 1°30′30″ E, with a point on the coast of England at 51°55′48″ N, 1°17′00″ E, a minimum conservation reference size of 115 mm shall apply.  (3)  For edible crabs caught in pots or creels, a maximum of 1 % by weight of the total catch of edible crab may consist of detached claws. For edible crabs caught with any other fishing gear, a maximum of 75 kg of detached crab claws may be landed.  (4)  By way of derogation from Article 15 of Regulation (EU) No 1380/2013, the minimum conservation reference sizes of sardine, anchovy, herring, horse mackerel and mackerel shall not apply within a limit of 10 % by live weight of the total catches retained on board of each of those species. <br> The percentage of sardine, anchovy, herring, horse mackerel or mackerel below minimum conservation reference size shall be calculated as the proportion by live weight of all marine organisms on board after sorting or on landing. <br> The percentage may be calculated on the basis of one or more representative samples. The limit of 10 % shall not be exceeded during transhipment, landing, transportation, storage, display or sale. </td></tr>
+</tbody>
+</table>
+
+1\. The minimum conservation reference sizes specified in this Part for seabass (Dicentrarchus labrax) in the North Sea and European lobster (Homarus gammarus) in Swedish exclusive economic zone in the Skagerrak and Kattegat (ICES division 3a) shall apply to recreational fisheries.
+
+**PART B**
+
+**Mesh sizes**
+
+**1\. Baseline mesh sizes for towed gear ( 7 )**
+
+1.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm, or at least 90 mm in Skagerrak when fishing with otter trawls, or at least 90 mm in Kattegat when fishing with otter trawls or seines ( 8 ) ( 9 ).
+
+1.2. Without prejudice to the landing obligation, and notwithstanding point 1.1, vessels may use smaller mesh sizes as listed in the following table for the North Sea, Skagerrak and Kattegat provided that:
+
+(i) the associated conditions set out in that table are complied with, and by-catches of cod, haddock and saithe do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip; or
+
+(ii) other selectivity modifications are used which have been assessed by STECF upon request of one or more Member States and approved by the Commission. Those selectivity modifications shall result in the same or better selectivity characteristics for cod, haddock and saithe as that of 120 mm.
+
+1.3. By way of derogation from the specifications in the table, a fish retention device may be used in Northern prawn fisheries in the Skagerrak (ICES division 3an) provided that there are adequate fishing opportunities to cover by-catch and that the retention device is:
+
+— constructed with a top panel with a minimum mesh size of 120 mm square mesh;
+
+— at least 3 metres long; and
+
+— at least as wide as the sorting grid.
+
+1.4. The use of SepNep ( 10 ) as referred to in Annex I of this Regulation shall be permitted as an equivalent selectivity device in the directed fisheries for Norway lobster (Nephrops norvegicus).
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 100 mm (1)</td><td>North Sea south of 57° 30′ N</td><td>Directed fishing for plaice and sole with otter trawls, beam trawls, and seines. A square mesh panel of at least 90 mm shall be fitted.</td></tr>
+<tr><td>At least 80 mm (1)</td><td>ICES Divisions 4b and 4c</td><td>Directed fishing for sole with beam trawls. A panel with a mesh size of at least 180 mm fitted in the upper half of the anterior part of the net shall be fitted. Directed fishing for whiting, mackerel and species not subject to catch limits with bottom trawls. A square mesh panel of at least 80 mm shall be fitted. </td></tr>
+<tr><td>At least 80 mm</td><td>North Sea</td><td>Directed fishing for Norway lobster (Nephrops norvegicus). A square mesh panel of at least 120 mm or sorting grid with a maximum bar spacing of 35 mm or equivalent selectivity device shall be fitted. Directed fishing for species not subject to catch limits and which are not covered elsewhere in the table. A square mesh panel of at least 80 mm shall be fitted.  Directed fishing for skates and rays. </td></tr>
+<tr><td>At least 80 mm</td><td>ICES division 4c</td><td>Directed fishing for sole using otter trawls. A square mesh panel of at least 80 mm shall be fitted.</td></tr>
+<tr><td>At least 70 mm (square mesh) or 90 mm (diamond mesh)</td><td>Skagerrak and Kattegat</td><td>Directed fishing for Norway lobster (Nephrops norvegicus). A sorting grid with a maximum bar spacing of 35mm or equivalent selectivity device shall be fitted.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 80 mm</td><td>ICES subarea 4</td><td>Directed fishing for squid (Loliginidae, Ommastrephidae).</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 35 mm</td><td>Skagerrak and Kattegat</td><td>Directed fishing for Northern prawn (Pandalus borealis). A sorting grid with a maximum bar spacing of 19mm or equivalent selectivity device shall be fitted.</td></tr>
+<tr><td>At least 32 mm</td><td>Whole area except Skagerrak and Kattegat</td><td>Directed fishing for Northern prawn (Pandalus borealis). A sorting grid with a maximum bar spacing of 19 mm or equivalent selectivity device shall be fitted.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 16 mm</td><td>Whole area</td><td>Directed fishing for small pelagic species which are not covered elsewhere in the table. Directed fishing for Norway pout. One of the following devices shall be fitted:  (1) a sorting grid with a maximum bar spacing of 35 mm;  (2) an excluder device (2), provided that the following conditions are fulfilled:  (i) the excluder shall have a maximum mesh size of 70mm and shall be mounted with a kite made of PVC or similar flexible materials;  (ii) where a sail is mounted inside the excluder device across the cone/tube of that device, that sail shall be made of PVC or similar flexible material and the size of the sail shall be such that it does not cover more than 75 % of the cross-section area where it is positioned; and  (iii) an exit hole of a minimum 50 × 50 cm shall be inserted at the apex of the excluder device.  Directed fishing for common and Aesop shrimps. A separator trawl or sorting grid shall be fitted in accordance with nationally or regionally established rules. </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Less than 16 mm</td><td>Whole area</td><td>Directed fishing for sandeel.</td></tr>
+<tr><td colspan="3">(1)  Vessels shall be prohibited from using any beam trawl with a mesh size between 32 and 99 mm north of a line joined by the following points by a point on the East Coast of the United Kingdom at latitude 55° N, then east to latitude 55°, longitude 5° E, then north to latitude 56° N and east to a point on the west coast of Denmark at latitude 56° N. It is prohibited to use any beam trawl of mesh size range 32 to 119 mm within ICES Division 2a and that part of ICES Sub-area 4 to the north of 56° 00′ N.  (2)  ‘Excluder device’ means a conic net device fulfilling the following criteria:  (1) it is inserted before the cod-end, in such a way that the leading edge or base of the cone is attached to the full circumference of the trawl in front of the cod-end or extension piece;  (2) it tapers to an apex where it is attached to the bottom sheet of the trawl;  (3) an exit hole is cut where the apex of the excluder and cod-end join;  (4) it allows for the passage of Norway pout through it and its retention in the cod-end, whilst releasing by-catches of fish by guiding them out of the exit hole. </td></tr>
+</tbody>
+</table>
+
+**2\. Baseline mesh sizes for static nets and driftnets**
+
+2.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm.
+
+2.2. Without prejudice to the landing obligation, and notwithstanding point 2.1, vessels may use smaller mesh sizes as listed in the following table for the North Sea, Skagerrak and Kattegat provided that the associated conditions set out in that table are complied with and by-catches of cod, haddock and saithe do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip.
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 100 mm | Whole area | Directed fishing for haddock, whiting, dab and bass |
+| At least 90 mm | Whole area | Directed fishing for flatfish or species not subject to catch limits and which are not covered elsewhere in the table |
+| At least 50 mm | Whole area | Directed fishing for small pelagic species which are not covered elsewhere in the table |
+
+**PART C**
+
+**Closed or restricted areas**
+
+**1\. Closure of an area to protect sandeel in ICES divisions 4a and 4b**
+
+1.1. Fishing for sandeel with any towed gear with a codend mesh size less than 32 mm shall be prohibited within the geographical area bounded by the east coast of England and Scotland, and enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— the east coast of England at latitude 55°30′ N
+
+— 55°30′ N, 01°00′ W
+
+— 58°00′ N, 01°00′ W
+
+— 58°00′ N, 02°00′ W
+
+— the east coast of Scotland at longitude 02°00′ W.
+
+1.2. Fisheries for scientific investigation shall be allowed in order to monitor the sandeel stock in the area and the effects of the closure.
+
+**2\. Closure of an area to protect juvenile plaice in ICES subarea 4**
+
+2.1. Vessels exceeding 8 m in overall length shall be prohibited from using any demersal trawl, beam trawl, Danish seine or similar towed gear within the geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84:
+
+(a) the area within 12 nautical miles of the coasts of France, north of latitude 51°00′ N, Belgium, and the Netherlands up to latitude 53°00′ N, measured from the baselines;
+
+(b) the area bounded by a line joining the following coordinates:
+
+— a point on the west coast of Denmark at latitude 57°00′ N
+
+— 57°00′ N, 7°15′ E
+
+— 55°00′ N, 7°15′ E
+
+— 55°00′ N, 7°00′ E
+
+— 54°30′ N, 7°00′ E
+
+— 54°30′ N, 7°30′ E
+
+— 54°00′ N, 7°30′ E
+
+— 54°00′ N, 6°00′ E
+
+— 53°50′ N, 6°00′ E
+
+— 53°50′ N, 5°00′ E
+
+— 53°30′ N, 5°00′ E
+
+— 53°30′ N, 4°15′ E
+
+— 53°00′ N, 4°15′ E
+
+— a point on the coast of the Netherlands at latitude 53°00′ N
+
+— the area within 12 nautical miles of the west coast of Denmark from 57°00′ N as far north as the Hirtshals Lighthouse, measured from the baselines.
+
+2.2. The following vessels are permitted to fish in the area referred to in point 2.1:
+
+(a) vessels whose engine power does not exceed 221 kW using bottom trawls or Danish seines;
+
+(b) paired vessels whose combined engine power does not exceed 221 kW at any time using bottom pair trawls;
+
+(c) vessels whose engine power exceeds 221 kW shall be permitted to use bottom otter trawls, and paired vessels whose combined engine power exceeds 221 kW shall be permitted to use bottom pair trawls provided that such vessels do not engage in directed fishing for plaice and sole and comply with the relevant mesh size rules contained in Part B of this Annex;
+
+(d) vessels whose engine power exceeds 221 kW using Danish seines which haul the fishing gear while the vessel is at anchor (Danish anchor seine – SDN), provided that such vessels comply with the mesh size provided for in point 1.1 of Part B of this Annex.
+
+2.3. When vessels referred to in point 2.2(a) use beam trawls, the beam length, or the aggregate length of combined beam trawls measured as the sum of the length of each beam, shall not be greater than or shall not be able to be extended to a length of greater than 9 m except when operating with gear having a mesh size between 16 and 31 mm. Fishing vessels whose primary activity is fishing for common shrimp (Crangon crangon) shall be permitted to use beam trawls of which the aggregate beam length, measured as the sum of the length of each beam, is greater than 9 m when operating with gear having a mesh size between 80 and 99 mm provided an additional fishing authorisation has been issued to these vessels.
+
+2.4. Vessels permitted to fish in the area referred to in point 2.1 shall be included in a list to be provided to the Commission by each Member State. The total engine power of the vessels referred to in point 2.2(a) within the list shall not exceed the total engine power in evidence for each Member State at 1 January 1998. The permitted fishing vessels shall hold a fishing authorisation in accordance with Article 7 of Regulation (EC) No 1224/2009. From 1 July 2021, only beam trawlers with a length overall of maximum 24 meters may be added to that list.
+
+**3\. Restrictions on the use of beam trawls within 12 nautical miles of the coast of the United Kingdom**
+
+3.1. Vessels shall be prohibited from using any beam trawl inside the areas within 12 nautical miles of the coast of the United Kingdom, measured from the baselines of the territorial waters.
+
+3.2. By way of derogation from point 3.1, fishing with beam trawls within the specified area shall be permitted provided that:
+
+— The engine power of the vessels does not exceed 221 Kw and their overall length does not exceed 24 m; and
+
+— The beam length or aggregated beam length, measured as the sum of each beam, is no more than 9 m, or cannot be extended to a length greater than 9 m, except when directed fishing for common shrimp (Crangon crangon) with a minimum mesh size of less than 31 mm.
+
+**4\. Restrictions on fishing for sprat to protect herring in ICES division 4b**
+
+Fishing with any towed gear with a codend mesh size of less than 32 mm or static nets less than 30 mm mesh size shall be prohibited within the geographical area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84, from 1 July to 31 October, within the geographical area bounded by the following coordinates:
+
+— the west coast of Denmark at latitude 55°30′ N,
+
+— latitude 55°30′ N, longitude 7°00′ E,
+
+— latitude 57°00′ N, longitude 7°00′ E,
+
+— the west coast of Denmark at latitude 57°00′ N.
+
+By way of derogation from the first paragraph, that paragraph shall not apply to fishing with the following gear:
+
+(a) towed gear with a mesh size of less than 32 mm;
+
+(b) purse seines; or
+
+(c) gillnets, entangling nets, trammel nets and driftnets with a mesh size of less than 30 mm.
+
+Member States having a direct management interest shall submit to the Commission, by 30 April each year, monitoring data supporting the derogation as regards the herring bycatch by the fleets involved in the sprat fishery. Such data could be based on the data collection in sampling programs for industrial fisheries.
+
+**5\. Specific provisions for the Skagerrak and Kattegat in ICES division 3a**
+
+5.1. It shall be prohibited to fish with beam trawls in the Kattegat.
+
+5.2. It shall be prohibited for Union vessels to fish for, retain on board, tranship, land, store, sell and display or offer for sale salmon and sea trout.
+
+5.3. It shall be prohibited to deploy towed gear with a codend mesh size of less than 32 mm from 1 July to 15 September in the waters situated within three nautical miles of the baselines in the Skagerrak and Kattegat unless carrying out directed fishing for Northern Prawn (Pandalus borealis). For directed fishing for eelpout (Zoarces viviparous), gobies (Gobiidae) or scorpion fish (Cottus spp.) for use as bait, nets with any mesh size may be used.
+
+5.4. It shall be prohibited to conduct any commercial and recreational fishing for, retaining on board, transhipping or landing of Atlantic halibut (Hippoglossus hippoglossus) in the Skagerrak (ICES division 3aN) and in the Swedish exclusive economic zone in the Kattegat (ICES division 3aS) from 20 December to 31 March each year. When accidentally caught during this period, specimens shall not be harmed and shall be promptly released.
+
+**6\. Use of static nets in ICES divisions 3a and 4a**
+
+6.1. In accordance with point (a) of Article 9(7) and by way of derogation from Part B Point 2 of this Annex, it shall be permitted to use the following gear in waters with a charted depth of less than 600 m:
+
+— Bottom set gillnets used for directed fishing for hake of a mesh size of at least 100 mm and no more than 100 meshes deep, where the total length of all nets deployed does not exceed 25 km per vessel and the maximum soak time is 24 hours;
+
+— Entangling nets used for directed fishing for anglerfish of a mesh size of at least 250 mm and no more than 15 meshes deep, where the total length of all nets deployed does not exceed 100 km and the maximum soak time is 72 hours.
+
+6.2. Directed fishing for deepwater sharks as listed in Annex I to Regulation (EU) 2016/2336 of the European Parliament and of the Council ( 11 ) in charted depths of less than 600 m shall be prohibited. When accidentally caught, deepwater sharks classified as prohibited in this Regulation and other Union legislation shall be recorded, unharmed to the extent possible, and shall be promptly released. Deepwater sharks subject to catch limits shall be retained on board. Such catches shall be landed and counted against quotas. In situations where quota is not or not sufficiently available to the Member State concerned, the Commission may resort to Article 105(5) of Regulation (EC) No 1224/2009. Where accidental catches of deepwater sharks by the vessels of any Member State exceed 10 tonnes then those vessels may no longer avail of the derogations set out in point 6.1.
+
+**7\. Measures on European lobster in ICES division 3a**
+
+7.1. In the Swedish exclusive economic zone of ICES division 3a, European lobster (Homarus gammarus) may only be fished with lobsterpots (FPO).
+
+The lobsterpot shall have at least two circular escape openings with a diameter of at least 60mm which are situated in the lower part of each compartment of the lobsterpot. Lobster accidentally caught with other fishing gear shall not be harmed and shall be promptly released back into the sea.
+
+7.2. It shall be prohibited to fish for, retain on board, tranship and land European lobster (Homarus gammarus) in the Swedish exclusive economic zone of ICES division 3a:
+
+(a) in commercial fisheries during the period 1 January to first Monday after 20 September;
+
+(b) in recreational fisheries during the period 1 December to first Monday after 20 September.
+
+When caught accidentally during these periods, specimens of European lobster shall not be harmed and shall be promptly released back into the sea.
+
+**PART D**
+
+**The use of electric pulse trawls in ICES divisions 4b and 4c**
+
+1\. Fishing with electric pulse trawl shall be prohibited in all Union waters as of 1 July 2021.
+
+2\. During the transitional period ending 30 June 2021, fishing with electric pulse trawl in ICES divisions 4b and 4c shall continue to be allowed under the conditions set out in this and any conditions defined in accordance with point (b) of Article 24(1) of this Regulation, regarding the characteristics of the pulse used and control monitoring measures in place south of a rhumb line joined by the following points, which shall be measured according to the WGS84 coordinate system:
+
+— a point on east coast of the United Kingdom at latitude 55° N
+
+— east to latitude 55° N, longitude 5° E
+
+— north to latitude 56° N
+
+— east to a point on the west coast of Denmark at latitude 56° N.
+
+The following conditions shall apply:
+
+(a) no more than 5 % of the beam trawler fleet per Member State use the electric pulse trawl;
+
+(b) the maximum electrical power in kW for each beam trawl is no more than the length in metres of the beam multiplied by 1,25;
+
+(c) the effective voltage between the electrodes is no more than 15 V;
+
+(d) the vessel is equipped with an automatic computer management system which records the maximum power used per beam and the effective voltage between electrodes for at least the last 100 tows. It is not possible for non-authorised personnel to modify this automatic computer management system;
+
+(e) it is prohibited to use one or more tickler chains in front of the footrope.
+
+3\. New licences shall not be granted to any vessel during this period.
+
+4\. Until 30 June 2021 in the waters up to 12 nautical miles from baselines under their sovereignty or jurisdiction, Member States may take non-discriminatory measures to restrict or prohibit the use of electric pulse trawl. Member Sates shall inform the Commission and the Member States concerned of the measures put in place under this point.
+
+5\. If requested by the coastal Member State to the flag Member State, the master of a vessel using electric pulse trawl shall, in line with Article 12 of Regulation (EU) 2017/1004 of the European Parliament and of the Council ( 12 ), take on board an observer from the coastal Member State during the fishing operations.
+
+## ANNEX VI
+
+**NORTH WESTERN WATERS**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+<table>
+<tbody><tr><td>Species</td><td>Whole area</td></tr>
+<tr><td>Cod (Gadus morhua)</td><td>35 cm</td></tr>
+<tr><td>Haddock (Melanogrammus aeglefinus)</td><td>30 cm</td></tr>
+<tr><td>Saithe (Pollachius virens)</td><td>35 cm</td></tr>
+<tr><td>Pollack (Pollachius pollachius)</td><td>30 cm</td></tr>
+<tr><td>Hake (Merluccius merluccius)</td><td>27 cm</td></tr>
+<tr><td>Megrim (Lepidorhombus spp.)</td><td>20 cm</td></tr>
+<tr><td>Sole (Solea spp.)</td><td>24 cm</td></tr>
+<tr><td>Plaice (Pleuronectes platessa)</td><td>27 cm</td></tr>
+<tr><td>Whiting (Merlangius merlangus)</td><td>27 cm</td></tr>
+<tr><td>Ling (Molva molva)</td><td>63 cm</td></tr>
+<tr><td>Blue ling (Molva dypterygia)</td><td>70 cm</td></tr>
+<tr><td>Norway lobster (Nephrops norvegicus) Norway Lobster tails</td><td>Total length 85 mm, Carapace length 25 mm (1) 46 mm (2)</td></tr>
+<tr><td>Mackerel (Scomber spp.)</td><td>20 cm (6)</td></tr>
+<tr><td>Herring (Clupea harengus)</td><td>20 cm (6)</td></tr>
+<tr><td>Horse mackerel (Trachurus spp.)</td><td>15 cm (6)</td></tr>
+<tr><td>Anchovy (Engraulis encrasicolus)</td><td>12 cm or 90 individuals per kg (6)</td></tr>
+<tr><td>Bass (Dicentrarchus labrax)</td><td>42 cm</td></tr>
+<tr><td>Sardine (Sardina pilchardus)</td><td>11 cm (6)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Red seabream (Pagellus bogaraveo)</td><td>36 cm (*1)(*2)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Lobster (Hommarus gammarus)</td><td>87 mm</td></tr>
+<tr><td>Spinous spider crab (Maja squinado)</td><td>120 mm</td></tr>
+<tr><td>Queen scallop (Chlamys spp.)</td><td>40 mm</td></tr>
+<tr><td>Grooved carpetshell (Ruditapes decussatus)</td><td>40 mm</td></tr>
+<tr><td>Carpetshell (Venerupis pullastra)</td><td>38 mm</td></tr>
+<tr><td>Short-necked clam (Venerupis philippinarum)</td><td>35 mm</td></tr>
+<tr><td>Clam (Venus verrucosa)</td><td>40 mm</td></tr>
+<tr><td>Hard clam (Callista chione)</td><td>6 cm</td></tr>
+<tr><td>Razor clam (Ensis spp.)</td><td>10 cm</td></tr>
+<tr><td>Surf clams (Spisula solida)</td><td>25 mm</td></tr>
+<tr><td>Donax clams (Donax spp.)</td><td>25 mm</td></tr>
+<tr><td>Bean solen (Pharus legumen)</td><td>65 mm</td></tr>
+<tr><td>Whelk (Buccinum undatum.)</td><td>45 mm</td></tr>
+<tr><td>Octopus (Octopus vulgaris)</td><td>750 g</td></tr>
+<tr><td>Crawfish (Palinurus spp.)</td><td>95 mm</td></tr>
+<tr><td>Deepwater rose shrimp (Parapenaeus longirostris)</td><td>22 mm (carapace length)</td></tr>
+<tr><td>Edible crab (Cancer pagurus)</td><td>140 mm (3)(4)</td></tr>
+<tr><td>Scallop (Pecten maximus)</td><td>100 mm (5)</td></tr>
+<tr><td colspan="2">(1)  In ICES divisions 6a and 7a a minimum conservation reference size of total length of 70 mm and a carapace length of 20 mm shall apply.  (2)  In ICES divisions 6a and 7a a minimum conservation reference size of 37 mm shall apply.  (3)  In Union waters in ICES sub-areas, 5, 6 south of 56° N and 7, except ICES divisions 7d, 7e and 7f, a minimum conservation reference size of 130 mm shall apply.  (4)  For edible crabs caught in pots or creels, a maximum of 1 % by weight of the total catch of edible crab may consist of detached claws. For edible crabs caught with any other fishing gear, a maximum of 75 kg of detached crab claws may be landed.  (5)  In ICES division 7a north of 52°30′ N, and ICES division 7d, a minimum conservation reference size of 110 mm shall apply.  (6)  By way of derogation from Article 15 of Regulation (EU) No 1380/2013, the minimum conservation reference sizes of sardine, anchovy, herring, horse mackerel and mackerel shall not apply within a limit of 10 % by live weight of the total catches retained on board of each of those species. <br> The percentage of sardine, anchovy, herring, horse mackerel or mackerel below the minimum conservation reference size shall be calculated as the proportion by live weight of all marine organisms on board after sorting or on landing. <br> The percentage may be calculated on the basis of one or more representative samples. The limit of 10 % shall not be exceeded during transhipment, landing, transportation, storage, display or sale.  (*1)  This minimum conservation reference size shall apply to ICES subareas 6 and 7 until 31 December 2026. The minimum conservation reference size of 33 cm shall apply to ICES subarea 5.  (*2)  In the absence of new rules adopted before 31 December 2026, as of 1 January 2027 the applicable minimum conservation reference size shall be 33 cm. </td></tr>
+</tbody>
+</table>
+
+1\. The minimum conservation reference sizes specified in this Part for cod (Gadus morhua), haddock (Melanogrammus aeglefinus), saithe (Pollachius virens), pollack (Pollachius pollachius), hake (Merluccius merluccius), megrim (Lepidorhombus spp.), sole (Solea spp.), plaice (Pleuronectes platessa), whiting (Merlangius merlangus), ling (Molva molva), blue ling (Molva dypterygia), mackerel (Scomber spp.), herring (Clupea harengus), horse mackerel (Trachurus spp.), anchovy (Engraulis encrasicolus), bass (Dicentrarchus labrax) and sardine (Sardina pilchardus) shall apply to recreational fisheries in the North Western Waters. However, for red seabream (Pagellus bogaraveo), the minimum conservation reference size of 40 cm shall apply to recreational fisheries in ICES subareas 6 and 7 until 31 December 2026 ( 13 ).
+
+**PART B**
+
+**Mesh sizes**
+
+**1\. Baseline mesh sizes for towed gear**
+
+1.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm ( 14 ), or at least 100 mm in ICES sub-area 7b-7k.
+
+1.2. Without prejudice to the landing obligation, and notwithstanding point 1.1, vessels may use smaller mesh sizes as listed in the following table for the North Western waters provided that:
+
+(i) the associated conditions set out in that table are complied with, and by-catches of cod, haddock and saithe do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip; or
+
+(ii) other selectivity modifications are used which have been assessed by STECF upon request of one or more Member States and approved by the Commission. Those selectivity modifications shall result in the same or better selectivity characteristics for cod, haddock and saithe as that of 120 mm, or 100 mm in ICES sub-area 7b-7k, respectively.
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 80 mm (1)</td><td>ICES sub-area 7</td><td>Directed fishing for hake, megrim and anglerfish, or directed fishing for whiting, mackerel and species not subject to catch limits and which are not covered elsewhere in the table, using bottom trawls. A square mesh panel of at least 120 mm shall be fitted (4)(7). Directed fishing for sole and species not covered by catch limits, using otter trawls. A square mesh panel of at least 80 mm shall be fitted (4).</td></tr>
+<tr><td>At least 80 mm</td><td>Whole area</td><td>Directed fishing for Norway lobster (Nephrops norvegicus) (3). A square mesh panel of at least 120 mm or sorting grid with a maximum bar spacing of 35 mm or equivalent selectivity device shall be fitted.</td></tr>
+<tr><td>At least 80 mm</td><td>ICES divisions 7a, 7b, 7d, 7e, 7f, 7g, 7h and 7j</td><td>Directed fishing for sole with beam trawls. A panel with a mesh size of at least 180 mm (6) fitted in the upper half of the anterior part of the net shall be fitted.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 80 mm</td><td>ICES divisions 7d and 7e</td><td>Directed fishing for whiting, mackerel and species not subject to catch limits including squids (Loliginidae, Ommastrephidae) and which are not covered elsewhere in the table, using bottom trawls.</td></tr>
+<tr><td>At least 80 mm</td><td>ICES divisions 7a, 7b, 7c, 7d, 7e, 7g, 7h, 7k</td><td>Directed fishing for squid (Loliginidae, Ommastrephidae), using bottom trawls and seines.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 16 mm</td><td>Whole area</td><td>Directed fishing for small pelagic species which are not covered elsewhere in the table. Directed fishing for common and Aesop shrimps. A separator trawl or sorting grid must be fitted in accordance with nationally established rules</td></tr>
+<tr><td>Less than 16 mm</td><td>Whole area</td><td>Directed fishing for sandeel</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>At least 40 mm</td><td>ICES subareas 5, 6</td><td>Directed fishing for squid (Loliginidae, Ommastrephidae) using any towed gear in ICES subareas 5 and 6.</td></tr>
+<tr><td>At least 40mm</td><td>ICES division 7e</td><td>Directed fishing for squid (Loliginidae, Ommastrephidae) using midwater otter trawls (OTM) within 12 nautical miles of the coast of France, measured from the baselines, in ICES division 7e.</td></tr>
+<tr><td>At least 40 mm</td><td>ICES division 7j</td><td>Directed fishing for squid (Loliginidae, Ommastrephidae), using bottom trawls and seines in ICES division 7j.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">(1)  This is without prejudice to Article 5 of Commission Regulation (EC) No 494/2002 (2).  (2)  Commission Regulation (EC) No 494/2002 of 19 March 2002 establishing additional technical measures for the recovery of the stock of hake in ICES sub-areas III, IV, V, VI and VII and ICES divisions VIII a, b, d, e (OJ L 77, 20.3.2002, p. 8).  (3)  At least 70 mm mesh size shall apply for single rig vessels in ICES division 7a.  (4)  This is without prejudice to Article 2(5) of Commission Implementing Regulation (EU) No 737/2012 (5).  (5)  Commission Implementing Regulation (EU) No 737/2012 of 14 August 2012 on the protection of certain stocks in the Celtic Sea (OJ L 218, 15.8.2012, p. 8).  (6)  This provision shall not apply to ICES division 7d.  (7)  This provision shall not apply when directed fishing for whiting, mackerel and species not subject to catch limits in ICES divisions 7d and 7e. </td></tr>
+</tbody>
+</table>
+
+1.3. This point applies by way of derogation from points 1.1 and 1.2
+
+1.3.1. The following shall apply to vessels fishing with bottom trawls and seines in ICES divisions 7f, 7g, the part of 7h North of latitude 49° 30′ North and the part of 7j North of latitude 49° 30′ North and East of longitude 11° West:
+
+(a) Vessels fishing with bottom trawls or seines shall use gear with one of the following mesh sizes:
+
+(i) 110 mm cod-end with 120 mm square-mesh panel;
+
+(ii) 100 mm T90 cod-end;
+
+(iii) 120 mm cod-end;
+
+(iv) 100 mm with 160 mm square-mesh panel;
+
+(b) in addition, vessels fishing with bottom trawls whose catches weighed before any discards consist of at least 20 % of haddock shall use:
+
+(i) a fishing gear that is constructed with a minimum of one meter spacing between the fishing line and ground gear, or
+
+(ii) any means proven to be at least equally selective for avoidance of cod, according to the assessment by ICES or the STECF, and approved by the Commission.
+
+Member States may exempt from the application of point (b) vessels fishing with bottom trawls whose catches, weighed before any discards, consist of less than 1,5 % of cod, provided those vessels are subject to a progressive increase of observer coverage at sea up to at least 20 % of all their fishing trips. Member States that make use of this exemption shall report to the Commission each year before 1 December the number and catch-composition of vessels making use of this provision.
+
+Member States may exempt from the application of points (a) and (b) vessels that use an alternative highly selective gear provided that the technical attributes of those gears result in the same or higher selectivity as the gears specified in those points, and result in catches of less than 1 % of cod, according to an assessment made by the STECF. Such a gear or device shall comply with the requirements of Article 15(4) and shall be approved by the Commission.
+
+1.3.2. By way of derogation from points 1.1, 1.2 and 1.3.1:
+
+(a) vessels operating with bottom trawls or seines with catches comprising more than 30% of Norway lobster shall use one of the following gears:
+
+(i) 300 mm squared mesh panel; vessels below 12 meters in length over all may use a 200 mm square mesh panel;
+
+(ii) Seltra panel;
+
+(iii) Sorting grid with a 35 mm bar spacing or a similar Netgrid selectivity device;
+
+(iv) 100 mm cod-end with a 100 mm square mesh panel;
+
+(v) Dual cod-end with the uppermost cod-end constructed with T90 mesh of at least 100 mm and fitted with a separation panel with a maximum mesh size of 300 mm.
+
+Member States may allow the use of device in point (v) until the end of December 2022, provided that the technical attributes of this device result in the same or higher selectivity as the other gears specified in points 1.2. and 1.3.1, according to an assessment made by the STECF based on the information provided by the Member States no later than 1 May 2022. Such device shall comply with the requirements of Article 15(4) and shall be approved by the Commission.
+
+(b) vessels operating with bottom trawls or seines with catches comprising more than 55 % of whiting or 55 % of anglerfish, hake or megrim combined, shall use one of the following gears:
+
+(i) 100 mm cod-end with a 100 mm squared mesh panel;
+
+(ii) 100mm T90 cod-end and extension.
+
+1.4. Points 1.4.1 and 1.4.2 shall apply by way of derogation from point 1.2.
+
+1.4.1. The following shall apply to fishing vessels operating with bottom trawls or seines in ICES divisions 6a and 5b, within the Union waters, East of 12°W (West of Scotland) in Norway lobster (Nephrops norvegicus) fisheries:
+
+(a) vessels shall use of a square mesh panel (positioning retained) of at least 300 mm for vessels deploying a cod-end mesh size less than 100 mm; for vessels below 12 m in length over all and/or with engine power of 200 kW or less, the panel overall length may be 2 m and the panel 200 mm;
+
+(b) vessels with catches comprising more than 30 % of Norway lobster shall use a square mesh panel (positioning retained) of at least 160 mm for vessels deploying a cod-end mesh size of 100-119 mm.
+
+By way of derogation from letters (a) and (b) of point 1.4.1, the use of an alternative fishing gear shall be permitted provided such gear results in at least the same or higher selectivity for cod, haddock and whiting, according to an assessment made by the STECF. Such gear shall comply with the requirements of Article 15(4) and shall be approved by the Commission.
+
+1.4.2. The following shall apply to fishing vessels operating with bottom trawls or seines in ICES division 7a (Irish Sea):
+
+(a) vessels operating with bottom trawls or seines with a cod-end mesh size equal to or larger than 70 mm and smaller than 100 mm and with catches comprising more than 30% of Norway lobster shall use one of the following gears:
+
+(i) 300 mm square mesh panel; vessels below 12 meters in length over all may use a 200 mm squared mesh panel;
+
+(ii) Seltra panel;
+
+(iii) Sorting grid with 35 mm bar spacing;
+
+(iv) CEFAS Netgrid;
+
+(v) Flip-flap trawl;
+
+(b) vessels equal to or greater than 12 meters in length overall operating with bottom trawls or seines with catches comprising more than 10 % of haddock, cod and skates and rays combined, shall use 120 mm cod-end.
+
+By way of derogation from letters (a) and (b), the use of an alternative fishing gear shall be permitted provided such gears result in at least the same or higher selectivity for cod haddock and whiting. Such gears shall be assessed by the STECF and approved by the Commission and shall fulfil the criteria set by Article 15(4).
+
+1.5. The catch percentages in points 1.3 and 1.4 shall be calculated as the proportion by live weight of all marine biological resources landed after each fishing trip, according to Article 15 of Regulation (EU) No 1380/2013 and Article 27(2) of this Regulation.
+
+1.6. Measures in points 1.3 to 1.5 shall apply until 31 December 2026.
+
+**2\. Baseline mesh sizes for static nets and driftnets**
+
+2.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm ( 15 ).
+
+2.2. Without prejudice to the landing obligation, and notwithstanding point 2.1, vessels may use smaller mesh sizes as listed in the following table for the North Western waters provided that the associated conditions set out in that table are complied with, and by-catches of cod, haddock and saithe do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip.
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 100 mm (1)</td><td>Whole area</td><td>Directed fishing for flatfish or species not subject to catch limits and which are not covered elsewhere in the table Directed fishing for whiting, dab and bass</td></tr>
+<tr><td>At least 50 mm</td><td>Whole area</td><td>Directed fishing for small pelagic species which are not covered elsewhere in the table Directed fishing for red mullet</td></tr>
+<tr><td colspan="3">(1)  In division 7d, at least 90 mm shall apply. </td></tr>
+</tbody>
+</table>
+
+3\. This Part is without prejudice to Commission Delegated Regulation (EU) 2018/2034 ( 16 ), for the fisheries covered by that Delegated Regulation.
+
+**PART C**
+
+**Closed or restricted areas**
+
+**1\. Closed area for the conservation of cod in ICES division 6a**
+
+From 1 January to 31 March, and from 1 October to 31 December, each year, it shall be prohibited to conduct any fishing activity using any towed gear or static nets in the area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 coordinate system:
+
+— 55°25′ N, 7°07′ W
+
+— 55°25′ N, 7°00′ W
+
+— 55°18′ N, 6°50′ W
+
+— 55°17′ N, 6°50′ W
+
+— 55°17′ N, 6°52′ W
+
+— 55°25′ N, 7°07 W.
+
+**2\. Closed area for the conservation of cod in ICES divisions 7f and 7g**
+
+2.1. From 1 February to 31 March each year, it shall be prohibited to conduct any fishing activity in the following ICES statistical rectangles: 30E4, 31E4, 32E3. This prohibition shall not apply within 6 nautical miles from the baseline.
+
+2.2. It shall be permitted to conduct fishing activities using pots and creels within the specified areas and time periods, provided that:
+
+(i) no fishing gear other than pots and creels are carried on board; and
+
+(ii) by-catches of a species subject to the landing obligation are landed and counted against quotas.
+
+2.3. Directed fishing for small pelagic species with towed gear with a mesh size less than 55 mm shall be permitted, provided that:
+
+(i) no net of mesh size greater than or equal to 55 mm is carried on board; and
+
+(ii) by-catches of a species subject to the landing obligation are landed and counted against quotas.
+
+**3\. Closed area for the conservation of cod in ICES division 7a**
+
+3.1. In the period from 14 February to 30 April each year it shall be prohibited to use any dermersal trawl, seine or similar towed net, any gillnet, entangling net or trammel net or any fishing gear incorporating hooks within that part of ICES division 7a enclosed by the east coast of Ireland and the east coast of Northern Ireland and straight lines sequentially joining the following geographical coordinates, which shall be measured according to the WGS84 coordinate system:
+
+— a point on the east coast of the Ards peninsula in Northern Ireland at 54°30′ N
+
+— 54°30′ N, 04°50′ W
+
+— 53°15′ N, 04°50′ W
+
+— a point on the east coast of Ireland at 53°15′ N.
+
+3.2. By way of derogation from point 1, within the area and time period referred to therein the use of demersal trawls shall be permitted provided such trawls are fitted with selective devices that have been assessed by STECF.
+
+**4\. Rockall haddock box in ICES sub-area 6**
+
+All fishing, except with longlines, shall be prohibited in the areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— 57°00′ N, 15°00′ W
+
+— 57°00′ N, 14°00′ W
+
+— 56°30′ N, 14°00′ W
+
+— 56°30′ N, 15°00′ W
+
+— 57°00′ N, 15°00′ W.
+
+**5\. Closed area for the conservation of Norway lobster in ICES divisions 7c and 7k**
+
+5.1. Directed fishing for Norway lobster (Nephrops norvegicus) and associated species (namely, cod, megrims, anglerfish, haddock, whiting, hake, plaice, pollack, saithe, skates and rays, common sole, tusk, blue ling, ling and spurdog) shall be prohibited from 1 May to 31 May each year within the geographical area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 coordinate system:
+
+— 52°27′ N, 12°19′ W
+
+— 52°40′ N, 12°30′ W
+
+— 52°47′ N, 12°39,60′ W
+
+— 52°47′ N, 12°56′ W
+
+— 52°13,5′ N, 13°53,83′ W
+
+— 51°22′ N, 14°24′ W
+
+— 51°22′ N, 14°03′ W
+
+— 52°10′ N, 13°25′ W
+
+— 52°32′ N, 13°07,50′ W
+
+— 52°43′ N, 12°55′ W
+
+— 52°43′ N, 12°43′ W
+
+— 52°38,80′ N, 12°37′ W
+
+— 52°27′ N, 12°23′ W
+
+— 52°27′ N, 12°19′ W.
+
+5.2. Transit through the Porcupine Bank while carrying on board the species referred to in point 5.1 shall be permitted in accordance with Article 50(3), (4) and (5) of Regulation (EC) No 1224/2009.
+
+**6\. Special rules for the protection of blue ling in ICES division 6a**
+
+6.1. From 1 March to 31 May each year directed fishing for blue ling shall be prohibited in the areas of ICES division 6a enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+Edge of Scottish continental shelf
+
+— 59°58′ N, 07°00′ W
+
+— 59°55′ N, 06°47′ W
+
+— 59°51′ N, 06°28′ W
+
+— 59°45′ N, 06°38′ W
+
+— 59°27′ N, 06°42′ W
+
+— 59°22′ N, 06°47′ W
+
+— 59°15′ N, 07°15′ W
+
+— 59°07′ N, 07°31′ W
+
+— 58°52′ N, 07°44′ W
+
+— 58°44′ N, 08°11′ W
+
+— 58°43′ N, 08°27′ W
+
+— 58°28′ N, 09°16′ W
+
+— 58°15′ N, 09°32′ W
+
+— 58°15′ N, 09°45′ W
+
+— 58°30′ N, 09°45′ W
+
+— 59°30′ N, 07°00′ W
+
+— 59°58′ N, 07°00′ W
+
+Edge of Rosemary bank
+
+— 60°00′ N, 11°00′ W
+
+— 59°00′ N, 11°00′ W
+
+— 59°00′ N, 09°00′ W
+
+— 59°30′ N, 09°00′ W
+
+— 59°30′ N, 10°00′ W
+
+— 60°00′ N, 10°00′ W
+
+— 60°00′ N, 11°00′ W
+
+Not including the area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— 59°15′ N, 10°24′ W
+
+— 59°10′ N, 10°22′ W
+
+— 59°08′ N, 10°07′ W
+
+— 59°11′ N, 09°59′ W
+
+— 59°15′ N, 09°58′ W
+
+— 59°22′ N, 10°02′ W
+
+— 59°23′ N, 10°11′ W
+
+— 59°20′ N, 10°19′ W
+
+— 59°15′ N, 10°24′ W.
+
+6.2. A by-catch of blue ling up to a threshold of 6 tonnes may be retained on board and landed. Once a vessel reaches this six-tonne threshold of blue ling:
+
+(a) it shall immediately cease fishing and exit the area in which it is present;
+
+(b) it may not re-enter either of the areas until its catch has been landed;
+
+(c) it may not return to the sea any quantity of blue ling.
+
+6.3. From 15 February to 15 April each year, it shall be prohibited to use bottom trawls, longlines and static nets within an area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— 60°58.76′ N, 27°27.32′ W
+
+— 60°56.02′ N, 27°31.16′ W
+
+— 60°59.76′ N, 27°43.48′ W
+
+— 61°03.00′ N, 27°39.41′ W
+
+— 60°58.76′ N, 27°27.32′ W.
+
+**7\. Restrictions on fishing for mackerel in ICES divisions 7e, 7f, 7g and 7h**
+
+7.1. Directed fishing for mackerel with towed gear with a codend mesh size of less than 80 mm or with purse seines shall be prohibited, except where the weight of the mackerel does not exceed 15 % by live weight of the total quantities of mackerel and other marine organisms on board which have been caught, within the area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— a point on the south coast of the United Kingdom at 02°00′ W
+
+— 49° 30′ N, 2° 00′ W
+
+— 49° 30′ N, 7° 00′ W
+
+— 52° 00′ N, 7° 00′ W
+
+— a point on the west coast of the United Kingdom at 52° 00′ N.
+
+7.2. It shall be permitted to fish within the area defined in point 7.1 with:
+
+— static nets and/or hand lines;
+
+— demersal trawls, Danish seines or other similar towed nets, with a mesh size greater than 80 mm.
+
+7.3. Vessels which are not equipped for fishing and to which mackerel are being transhipped shall be permitted within the area defined in point 7.1.
+
+**8\. Restrictions on the use of beam trawls within 12 nautical miles of the coast of the United Kingdom and Ireland**
+
+8.1. The use of any beam trawl of mesh size less than 100 mm shall be prohibited in ICES division 5b and ICES sub-area 6 north of latitude 56°N.
+
+8.2. Vessels shall be prohibited from using any beam trawl inside the areas within 12 nautical miles of the coasts of the United Kingdom and Ireland, measured from the baselines from which the territorial waters are measured.
+
+8.3. Fishing with beam trawls within the specified area shall be permitted provided that:
+
+— The engine power of the vessels does not exceed 221 Kw and their length does not exceed 24 m; and
+
+— The beam length or aggregated beam length, measured as the sum of each beam, is no more than 9 m, or cannot be extended to a length greater than 9 m, except when directed fishing for common shrimp (Crangon crangon) with a codend mesh size of less than 31 mm.
+
+**9\. Use of static nets in ICES divisions 5b, 6a, 6b, 7b, 7c, 7h, 7j and 7k**
+
+9.1. In accordance with point (a) of Article 9(7) and by way of derogation from Part B, Point 2 of this Annex, it shall be permitted to use the following gear in waters with a charted depth of less than 600 m:
+
+— Bottom set gillnets used for directed fishing for hake with a mesh size of at least 100 mm and no more than 100 meshes deep, where the total length of all nets deployed does not exceed 25 km per vessel and the maximum soak time is 24 hours.
+
+— Entangling nets used for directed fishing for anglerfish with a mesh size of at least 250 mm and no more than 15 meshes deep, where the total length of all nets deployed does not exceed 100 km and the maximum soak time is 72 hours.
+
+9.2. Directed fishing for deepwater sharks as listed in Annex I to Regulation (EU) 2016/2336 in charted depths of less than 600 m shall be prohibited. When accidentally caught, deepwater sharks classified as prohibited in this Regulation and other Union legislation shall be recorded, unharmed to the extent possible, and shall be promptly released. Deepwater sharks subject to catch limits shall be retained on board. Such catches shall be landed and counted against quotas. In situations where quota is not or not sufficiently available to the Member State concerned, the Commission may resort to Article 105(5) of Regulation (EC) No 1224/2009. Where accidental catches of deepwater sharks by the vessels of any Member State exceed 10 tonnes then those vessels may no longer avail of the derogations set out in point 9.1.
+
+**10\. Restrictions on fishing with bottom trawls and seines in the Celtic Sea**
+
+10.1. It shall be prohibited for vessels to fish with bottom trawls and seines in the following zones:
+
+(a) ICES divisions from 7f to 7k,
+
+(b) in the area West of 5° W longitude in ICES division 7e and
+
+(c) in ICES divisions 7b and 7c.
+
+This prohibition shall not apply to vessels in case:
+
+(i) they use a cod-end mesh size of at least 100 mm, or
+
+(ii) their by-catches of cod do not exceed 1,5 %, as assessed by the STECF, when fishing outside the areas mentioned in point 1.3 of Part B.
+
+By derogation from letter (i), when fishing vessels operate in the areas specified in point 10 (1) (c), they may use an alternative fishing gear with the same or higher selectivity as the cod-end mesh size of at least 100 mm for mixed demersal fisheries, according to an assessment by the STECF. Such gear shall comply with the requirements of Article 15(4) and shall be approved by the Commission.
+
+10.2. Measures in point 10.1 shall apply until 31 December 2026.
+
+**11\. Conservation measures for the king scallop (Pecten maximus) stock in ICES divisions 7d and 7e.**
+
+11.1. Stock recovery area for the king scallop stock in Union waters of ICES division 7d in the eastern English Channel south of latitude 49°42′ N and up to the limit of the French territorial waters:
+
+(a) Each year, from 15 May to 15 October, it shall be prohibited to conduct any king scallop fishing with dredges.
+
+11.2. Closed season in the king scallop fishery in Union waters of ICES divisions 7d and 7e:
+
+(a) Each year, from 15 May to 30 September, it shall be prohibited to conduct any king scallop fishing with dredges in Union waters of ICES division 7d (corresponding to the eastern English Channel), not covered by the stock recovery area referred to in point 11.1.
+
+(b) Each year, from 15 May to 30 September it shall be prohibited to conduct any king scallop fishing with dredges within the boundaries of the North Finistère area in Union waters of ICES division 7e (corresponding to the western English Channel) and within a perimeter of one nautical mile to the northern boundary, within the area enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 coordinate system:
+
+48°54′23″ N, 5°00′00″ W
+
+49°22′34.576″ N, 4°02′45.078″ W
+
+49°22′54.465″ N, 3°49′14.415″ W
+
+49°22′20″ N, 3°44′18.999″ W
+
+49°23′51″ N, 3°36′54″ W
+
+49°06′32.121″ N, 3°13′01.174″ W
+
+49°06′03.993″ N, 3°23′27.255″ W
+
+49°04′52.068″ N, 3°37′04.22″ W
+
+48°59′49.782″ N, 3°57′07.907″ W
+
+49°01′13.191″ N, 3°57′47.006″ W
+
+48°43′55.255″ N, 4°20′24.785″ W
+
+48°42′16.586″ N, 4°31′04.325″ W
+
+48°39′34″ N, 4°36′25.999″ W
+
+48°39′26.901″ N, 4°44′39.883″ W
+
+48°36′17″ N, 4°49′32″ W
+
+48°52′36″ N, 4°52′45″ W
+
+48°49′07″ N, 4°59′26″ W
+
+12\. Closed areas for the conservation of red seabream in ICES subareas 6 and 7
+
+12.1. From 1 January to 30 June 2026, all fishing for red seabream in ICES subareas 6 and 7 shall be prohibited to vessels flying the French flag.
+
+## ANNEX VII
+
+**SOUTH WESTERN WATERS**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+<table>
+<tbody><tr><td>Species</td><td>Whole area</td></tr>
+<tr><td>Cod (Gadus morhua)</td><td>35 cm</td></tr>
+<tr><td>Haddock (Melanogrammus aeglefinus)</td><td>30 cm</td></tr>
+<tr><td>Saithe (Pollachius virens)</td><td>35 cm</td></tr>
+<tr><td>Pollack (Pollachius pollachius)</td><td>30 cm</td></tr>
+<tr><td>Hake (Merluccius merluccius)</td><td>27 cm</td></tr>
+<tr><td>Megrim (Lepidorhombus spp.)</td><td>20 cm</td></tr>
+<tr><td>Sole (Solea spp.)</td><td>24 cm</td></tr>
+<tr><td>Plaice (Pleuronectes platessa)</td><td>27 cm</td></tr>
+<tr><td>Whiting (Merlangius merlangus)</td><td>27 cm</td></tr>
+<tr><td>Ling (Molva molva)</td><td>63 cm</td></tr>
+<tr><td>Blue ling (Molva dypterygia)</td><td>70 cm</td></tr>
+<tr><td>Norway lobster (Nephrops norvegicus)</td><td>Total length 70 mm, Carapace length 20 mm </td></tr>
+<tr><td>Norway Lobster tails</td><td>37 mm</td></tr>
+<tr><td>Mackerel (Scomber spp.)</td><td>20 cm (*2)</td></tr>
+<tr><td>Herring (Clupea harengus)</td><td>20 cm (*2)</td></tr>
+<tr><td>Horse mackerel (Trachurus spp.)</td><td>15 cm (1)(*2)(7)</td></tr>
+<tr><td>Anchovy (Engraulis encrasicolus)</td><td>12 cm or 90 individuals per kg (2)(*2)</td></tr>
+<tr><td>Bass (Dicentrarchus labrax)</td><td>36 cm</td></tr>
+<tr><td>Sardine (Sardina pilchardus)</td><td>11 cm (*2)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Red seabream (Pagellus bogaraveo)</td><td>36 cm (*1)(*2)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Lobster (Hommarus gammarus)</td><td>87 mm</td></tr>
+<tr><td>Spinous spider crab (Maja squinado)</td><td>120 mm</td></tr>
+<tr><td>Queen scallop (Chlamys spp.)</td><td>40 mm</td></tr>
+<tr><td>Grooved carpetshell (Ruditapes decussatus)</td><td>40 mm</td></tr>
+<tr><td>Carpetshell (Venerupis pullastra)</td><td>38 mm</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Short-necked clam (Venerupis philippinarum)</td><td>35 mm (*3)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Clam (Venus verrucosa)</td><td>40 mm</td></tr>
+<tr><td>Hard clam (Callista chione)</td><td>6 cm</td></tr>
+<tr><td>Razor clam (Ensis spp.)</td><td>10 cm</td></tr>
+<tr><td>Surf clams (Spisula solida)</td><td>25 mm</td></tr>
+<tr><td>Donax clams (Donax spp.)</td><td>25 mm</td></tr>
+<tr><td>Bean solen (Pharus legumen)</td><td>65 mm</td></tr>
+<tr><td>Whelk (Buccinum undatum.)</td><td>45 mm</td></tr>
+<tr><td>Octopus (Octopus vulgaris)</td><td>750 g (3)</td></tr>
+<tr><td>Crawfish (Palinurus spp.)</td><td>95 mm</td></tr>
+<tr><td>Deepwater rose shrimp (Parapenaeus longirostris)</td><td>22 mm (carapace length)</td></tr>
+<tr><td>Edible crab (Cancer pagurus)</td><td>140 mm (4)(*1)</td></tr>
+<tr><td>Scallop (Pecten maximus)</td><td>100 mm</td></tr>
+<tr><td colspan="2">(1)  No minimum conservation reference size shall apply to horse mackerel (Trachurus pictaratus) caught in waters adjacent to the Azores islands and under the sovereignty or jurisdiction of Portugal.  (2)  In ICES sub-area 9 and CECAF area 34.1.2 a minimum conservation reference size of 9 cm shall apply.  (3)  In all waters in that part of the eastern central Atlantic comprising divisions 34.1.1, 34.1.2 and 34.1.3 and sub-area 34.2.0 of fishing zone 34 of the CECAF region, a gutted weight of 450 g shall apply.  (4)  In Union waters in ICES sub-areas 8 and 9 a minimum conservation reference size of 130 mm shall apply.  (5)  For edible crabs caught in pots or creels, a maximum of 1 % by weight of the total catch of edible crab may consist of detached claws. For edible crabs caught with any other fishing gear, a maximum of 75 kg of detached crab claws may be landed.  (6)  By way of derogation from Article 15 of Regulation (EU) No 1380/2013, the minimum conservation reference sizes of sardine, anchovy, herring, horse mackerel and mackerel shall not apply within a limit of 10 % by live weight of the total catches retained on board of each of those species. <br> The percentage of sardine, anchovy, herring, horse mackerel or mackerel below the minimum conservation reference size shall be calculated as the proportion by live weight of all marine organisms on board after sorting or on landing. <br> The percentage may be calculated on the basis of one or more representative samples. The limit of 10 % shall not be exceeded during transhipment, landing, transportation, storage, display or sale.  (7)  The minimum conservation reference size for horse mackerel (Trachurus spp.) caught in ICES division 8c and ICES subarea 9 shall be 12 cm for 5 % of the respective quotas of Spain and Portugal in those areas. Within that limit of 5 %, in the xávega artisanal beach sein fishery in ICES division 9a, 1 % of the quota of Portugal may be caught with the size below 12 cm.   For the purposes of the control of that quantity, the conversion factor to be applied to the weight of the catches shall be 1,20. These provisions shall not apply for catches subject to the landing obligation.  (*1)  This minimum conservation reference size shall apply to ICES subarea 8 until 31 December 2026. The minimum conservation reference size of 33 cm shall apply to ICES subareas 9 and 10 (Union waters) and CECAF zones 34.1.1, 34.1.2 and 34.2.0 (Union waters).  (*2)  In the absence of new rules adopted before 31 December 2026, as of 1 January 2027 the applicable minimum conservation reference size shall be 33 cm.  (*3)  A minimum conservation reference size of 32 mm shall apply to the Arcachon Basin, Statistical Rectangle 18E8 in ICES subarea 8. </td></tr>
+</tbody>
+</table>
+
+1\. The minimum conservation reference sizes specified in this Part for haddock (Melanogrammus aeglefinus), saithe (Pollachius virens), pollack (Pollachius pollachius), hake (Merluccius merluccius), megrim (Lepidorhombus spp.), sole (Solea spp.), plaice (Pleuronectes platessa), whiting (Merlangius merlangus), ling (Molva molva), blue ling (Molva dipterygia), mackerel (Scomber spp.), herring (Clupea harengus), horse mackerel (Trachurus spp.), anchovy (Engraulis encrasicolus) and sardine (Sardina pilchardus) shall apply to recreational fisheries in the South Western Waters. However, the following minimum conservation reference sizes shall apply in ICES subarea 8 to the following species caught in recreational fisheries:
+
+| Cod (Gadus morhua) | 42 cm |
+| --- | --- |
+| Red seabream (Pagellus bogaraveo) | 40 cm |
+| European seabass (Dicentrarchus labrax) | 42 cm |
+
+**PART B**
+
+**Mesh sizes**
+
+**1\. Baseline mesh sizes for towed gear**
+
+1.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 70 mm ( 17 ), ( 18 ), or at least 55 mm in ICES division 9a east of longitude 7°23′ 48″ W.
+
+1.2. Without prejudice to the landing obligation and notwithstanding point 1.1, vessels may use smaller mesh sizes as listed in the following table for South Western waters provided that:
+
+(i) the associated conditions set out in that table are complied with, and by-catches of hake do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip; or
+
+(ii) other selectivity modifications are used which have been assessed by STECF upon request of one or more Member States and approved by the Commission. Those selectivity modifications shall result in the same or better selectivity characteristics for hake as that of 70 mm, or 55 mm in ICES division 9a east of longitude 7°23′ 48″ W respectively.
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 55mm | Whole area excluding ICES division 9a east of longitude 7°23′ 48″ W | Directed fishing for species not subject to catch limits and which are not covered elsewhere in the table Directed fishing for red sea bream Directed fishing for mackerel, horse mackerel and blue whiting with bottom trawls |
+| At least 35mm | Whole area | Directed fishing for wedge sole |
+| At least 55 mm | ICES division 9a west of longitude 7°23′ 48″ W | Directed fishing for crustaceans |
+| At least 16 mm | Whole area | Directed fishing for small pelagic species which are not covered elsewhere in the table Directed fishing for shrimps (Palaemon serratus, Crangon crangon), and crab (Polybius henslowi) |
+| Less than 16 mm | Whole area | Directed fishing for sandeel |
+
+**2\. Baseline mesh sizes for static nets and driftnets**
+
+2.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 100 mm ( 19 ), or at least 80 mm in ICES division 8c and ICES sub-area 9.
+
+2.2. Without prejudice to the landing obligation, and notwithstanding point 2.1, vessels may use smaller mesh sizes as listed in the following table for the South Western waters provided that the associated conditions set out in that table are complied with, and by-catches of hake do not exceed 20 % of the total catch in live weight of all marine biological resources landed after each fishing trip.
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 80 mm</td><td>Whole area except ICES division 8c and ICES sub-area 9</td><td>Directed fishing for sea bass, whiting, turbot, flounder and pollack</td></tr>
+<tr><td>At least 60 mm</td><td>Whole area</td><td>Directed fishing for species not subject to catch limits and which are not covered elsewhere in the table</td></tr>
+<tr><td>At least 50 mm</td><td>Whole area</td><td>Directed fishing for small pelagic species (1) which are not covered elsewhere in the table</td></tr>
+<tr><td>At least 40 mm</td><td>Whole area</td><td>Directed fishing for red mullet, shrimps (Penaeus spp.), mantis shrimp, wedge sole and wrasse</td></tr>
+<tr><td colspan="3">(1)  A mesh size of less than 40 mm may be used for sardines. </td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+**Closed or restricted areas**
+
+**1\. Closed area for the conservation of hake in ICES division 9a**
+
+Fishing with any trawl, Danish seine or similar towed net shall be prohibited within the geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+(a) from 1 October to 31 January in the following year:
+
+— 43°46,5′ N, 07°54,4′ W
+
+— 44°01,5′ N, 07°54,4′ W
+
+— 43°25,0′ N, 09°12,0′ W
+
+— 43°10,0′ N, 09°12,0′ W
+
+(b) from 1 December to the last day of February in the following year:
+
+— a point on the west coast of Portugal at 37°50′ N
+
+— 37°50′ N, 09°08′ W
+
+— 37°00′ N, 09°07′ W
+
+— a point on the west coast of Portugal at 37°00′ N
+
+**2\. Closed areas for the conservation of Norway lobster in ICES division 9a**
+
+2.1. Directed fishing for Norway lobster (Nephrops norvegicus) with any bottom trawl, Danish seine or similar towed net or with creels shall be prohibited, within the geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+(a) from 1 June to 31 August:
+
+— 42°23′ N, 08°57′ W
+
+— 42°00′ N, 08°57′ W
+
+— 42°00′ N, 09°14′ W
+
+— 42°04′ N, 09°14′ W
+
+— 42°09′ N, 09°09′ W
+
+— 42°12′ N, 09°09′ W
+
+— 42°23′ N, 09°15′ W
+
+— 42°23′ N, 08°57′ W
+
+(b) from 1 May to 31 August:
+
+— 37°45′ N, 09°00′ W
+
+— 38°10′ N, 09°00′ W
+
+— 38°10′ N, 09°15′ W
+
+— 37°45′ N, 09°20′ W
+
+2.2. It shall be permitted to fish with bottom trawls or similar towed nets or creels in the geographical areas and during the period as described in point 2.1(b) provided that all by-catches of Norway lobster (Nephrops norvegicus) are landed and counted against quotas.
+
+2.3. Directed fishing for Norway lobster (Nephrops norvegicus) in the geographical areas and outside the periods referred to in point 2.1, shall be prohibited. By-catches of Norway lobster (Nephrops norvgicus) shall be landed and counted against quotas.
+
+**3\. Restrictions on directed fishing for anchovy in ICES division 8c**
+
+3.1. Directed fishing for anchovy using pelagic trawls in ICES division 8c shall be prohibited.
+
+3.2. The carrying on board of pelagic trawls and purse seines simultaneously within ICES division 8c shall be prohibited.
+
+**4\. Use of static nets in ICES sub-areas 8, 9, 10, and 12 east of 27° W**
+
+4.1. In accordance with point (a) of Article 9(7) and by way of derogation from Part B, Point 2 of this Annex, it shall be permitted to use the following gear in waters with a charted depth of less than 600 m:
+
+— Bottom set gillnets used for directed fishing for hake of a mesh size of at least 80 mm in ICES division 8c and ICES sub-area 9 and 100 mm in all remaining areas and no more than 100 meshes deep, where the total length of all nets deployed does not exceed 25 km per vessel and the maximum soak time is 24 hours.
+
+— Entangling nets used for directed fishing for anglerfish of a mesh size of at least 250 mm and no more than 15 meshes deep, where the total length of all nets deployed does not exceed 100 km and the maximum soak time is 72 hours.
+
+— Trammel nets in ICES sub-area 9 used for directed fishing for anglerfish of a mesh size of at least 220 mm and no more than 30 meshes deep, where the total length of nets deployed does not exceed 20 km per vessel and the maximum soak time is 72 hours.
+
+4.2. Directed fishing for deepwater sharks as listed in Annex I to Regulation (EU) 2016/2336 in charted depths of less than 600 m shall be prohibited. When accidentally caught, deepwater sharks classified as prohibited in this Regulation and other Union legislation shall be recorded, unharmed to the extent possible, and shall be promptly released. Deepwater sharks subject to catch limits shall be retained on board. Such catches shall be landed and counted against quotas. In situations where quota is not or not sufficiently available to the Member State concerned, the Commission may resort to Article 105(5) of Regulation (EC) No 1224/2009. Where accidental catches of deepwater sharks by the vessels of any Member State exceed 10 tonnes then those vessels may no longer avail of the derogations set out in point 4.1.
+
+4.3. Conditions for fisheries using certain towed gear authorised in the Bay of Biscay. By way of derogation from the provisions laid down in Article 5(2) of Regulation (EC) No 494/2002 establishing additional technical measures for the recovery of the stock of hake in ICES sub-areas 3-7 and ICES Divisions 8a, 8b 8d and 8e, it shall be permitted to conduct fishing activity using trawls, Danish seines and similar gear, with the exception of beam trawls, with a mesh size range of 70-99 mm in the area defined in point (b) of Article 5(1) of Regulation (EC) No 494/2002 if the gear is fitted with a 100 mm square mesh panel.
+
+**5\. Closed areas for the conservation of red seabream in ICES sub-area 8**
+
+5.1. From 1 February to 30 September each year, fishing with bottom set longlines (LLS) and bottom trawls (OTB) in the western area of the Cantabrian Sea, opposite to Asturias and Galicia, shall be prohibited within the geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+— 43°47'00'' N, 005°15'00'' W
+
+— 43°47'00'' N, 005°12'00'' W
+
+— 43°43'00'' N, 005°12'00'' W
+
+— 43°43'00'' N, 005°15'00'' W
+
+— 43°55'00'' N, 006°46'00'' W
+
+— 43°55'00'' N, 006°37'00'' W
+
+— 43°53'00'' N, 006°46'00'' W
+
+— 43°53'00'' N, 006°37'00'' W
+
+— 44°00'49'' N, 007°01'12'' W
+
+— 44°00'49'' N, 006°57'26'' W
+
+— 43°58'32'' N, 006°57'26'' W
+
+— 43°58'32'' N, 007°01'12'' W
+
+— 44°02'48'' N, 007°13'49'' W
+
+— 44°02'48'' N, 007°10’03’’W
+
+— 44°00'15'' N, 007°10'03'' W
+
+— 44°00'15'' N, 007°13'49'' W
+
+— 44°10'00'' N, 008°18'00'' W
+
+— 44°10'00'' N, 008°14'00'' W
+
+— 44°07'00'' N, 008°14'00'' W
+
+— 44°07'00'' N, 008°18'00'' W
+
+— 43°34'00'' N, 004°44'00'' W
+
+— 43°34'00'' N, 004°39'00'' W
+
+— 43°32'00'' N, 004°39'00'' W
+
+— 43°32'00'' N, 004°44'00'' W
+
+— 44°07'00'' N, 007°50'00'' W
+
+— 44°07'00'' N, 007°45'00'' W
+
+— 44°05'00'' N, 007°45'00'' W
+
+— 44°05'00'' N, 007°50'00'' W
+
+5.2. From 1 January to 30 June each year, fishing for red seabream in ICES subarea 8 shall be prohibited to vessels flying the French flag.
+
+5.3. For recreational fisheries, fishing for red seabream shall be prohibited within the geographical areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+Area RF 1 (Cariño/Celeiro)
+
+— 43°46'23'' N, 007°52'04'' W
+
+— 43°48'30'' N, 007°52'04'' W
+
+— 43°49'26'' N, 007°41'17'' W
+
+— 43°45'44'' N, 007°33'21'' W
+
+— 43°43'49'' N, 007°33'21'' W
+
+Area RF 2 (Ribadeo)
+
+— 43°33'26'' N, 007°02'58'' W
+
+— 43°35'27'' N, 007°02'58'' W
+
+— 43°35'29'' N, 007°01'20'' W
+
+— 43°33'33'' N, 007°01'20'' W
+
+Area RF 3 (Navia):
+
+— 43°33'51'' N, 006°44'02'' W
+
+— 43°35'52'' N, 006°44'02'' W
+
+— 43°35'52'' N, 006°42'32'' W
+
+— 43°33'52'' N, 006°42'32'' W
+
+Area RF 4 (Ensenada Canero)
+
+— 43°33'10'' N, 006°28'55'' W
+
+— 43°34'53'' N, 006°30'17'' W
+
+— 43°36'14'' N, 006°28'13'' W
+
+— 43°34'18'' N, 006°28'13'' W
+
+Area RF 5 (Ensenada de Cabrera/Ría San Martín de la Arena)
+
+— 43°26'18'' N, 004°04'51'' W
+
+— 43°28'22'' N, 004°04'51'' W
+
+— 43°28'55'' N, 004°01'17'' W
+
+— 43°26'56'' N, 004°01'17'' W
+
+Area RF 6 (Ría de Treto)
+
+— 43°27'49'' N, 003°25'58'' W
+
+— 43°28'59'' N, 003°23'36'' W
+
+— 43°26'16'' N, 003°22'27'' W
+
+— 43°25'09'' N, 003°24'41'' W
+
+Area RF 7 (Bilbao/Plentzia)
+
+— 43°21'18'' N, 003°07'47'' W
+
+— 43°23'18'' N, 003°07'47'' W
+
+— 43°28'13'' N, 002°56'42'' W
+
+— 43°26'08'' N, 002°56'42'' W
+
+Area RF 8 (Bermeo/Mundaka)
+
+— 43°25'36'' N, 002°43'23'' W
+
+— 43°27'35'' N, 002°43'23'' W
+
+— 43°26'57'' N, 002°38'45'' W
+
+— 43°24'57'' N, 002°38'45'' W
+
+5.4. The measures in points 5.1 to 5.3 shall apply until 31 December 2026.
+
+## ANNEX VIII
+
+**BALTIC SEA**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+<table>
+<tbody><tr><td>Species</td><td>Geographical Areas</td><td>Minimum Conservation Reference Size</td></tr>
+<tr><td>Cod (Gadus morhua)</td><td>Sub-divisions 22-32</td><td>35cm</td></tr>
+<tr><td>Plaice (Pleuronectes platessa)</td><td>Sub-divisions 22-32</td><td>25 cm</td></tr>
+<tr><td rowspan="2">Salmon (Salmo salar)</td><td>Sub-divisions 22-30 and 32</td><td>60 cm</td></tr>
+<tr><td>Sub-division 31</td><td>50 cm</td></tr>
+<tr><td rowspan="3">Flounder (Platichthys flesus)</td><td>Sub-divisions 22-25</td><td>23 cm</td></tr>
+<tr><td>Sub-divisions 26, 27 and 28</td><td>21 cm</td></tr>
+<tr><td>Sub-divisions 29-32, south of 59°</td><td>18 cm</td></tr>
+<tr><td>Turbot (Psetta maxima)</td><td>Sub-divisions 22-32</td><td>30 cm</td></tr>
+<tr><td>Brill (Scophthalmus rhombus)</td><td>Sub-divisions 22-32</td><td>30 cm</td></tr>
+<tr><td>Eel (Anguilla anguilla)</td><td>Sub-divisions 22-32</td><td>35 cm</td></tr>
+<tr><td rowspan="2">Sea trout (Salmo trutta)</td><td>Sub-divisions 22-25 and 29-32</td><td>40 cm</td></tr>
+<tr><td>Sub-divisions 26, 27 and 28</td><td>50 cm</td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+**Mesh sizes**
+
+**1\. Baseline mesh sizes for towed gear**
+
+1.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 120 mm constructed from T90 or at least 105 mm fitted with a Bacoma exit window of 120 mm.
+
+1.2. Without prejudice to the landing obligation and notwithstanding point 1.1, vessels may use smaller mesh sizes as listed in the following table for the Baltic Sea provided that:
+
+(i) the associated conditions set out in that table are complied with, and by-catches of cod do not exceed 10 % of the total catch in live weight of all marine biological resources landed after each fishing trip; or
+
+(ii) other selectivity modifications are used which have been assessed by STECF upon request of one or more Member States and approved by the Commission. Those selectivity modifications shall result in the same or better selectivity characteristics for cod as that of 120 mm T90, or of 105 mm fitted with a 120 mm Bacoma exit window, respectively.
+
+1.3. Specific measures for demersal fisheries when the directed fishery for cod is prohibited
+
+1.3.1. By way of derogation from point 1.1 and from the first entry of the table in point 1.2, except for footnote 1, the following specific measures shall apply in ICES subdivisions 22-26 when the directed fishery for cod is prohibited and when other fishing activities are not prohibited in these subdivisions:
+
+1.3.1.1. In ICES subdivisions 22 to 26 vessels fishing with bottom trawls shall use:
+
+(i) a Roofless selection device in combination with the gear specifications set out in point 1.1, any new gear that is approved by the Commission and complies with the requirements of Article 15(4) of this Regulation; or
+
+(ii) a T90 codend modified by increasing the minimum mesh size to at least 125 mm and reinforcing the selvedges with lastridge ropes (modified T90 codend), in combination with a Roofless selection device; or
+
+(iii) a square mesh codend constructed of two panels with the same netting material as the escape window of the Bacoma codend laid down in point 1.1, and a minimum mesh size of at least 125 mm, in combination with a Roofless selection device.
+
+Technical specifications of the selection devices set out above are provided in Commission Implementing Regulation (EU) 2024/3094 ( 20 ).
+
+1.3.1.2. In addition to the gear configurations specified in point 1.3.1.1, in ICES subdivisions 24 to 26, bottom trawls may also use the modified T90 codend referred to in point 1.3.1.1(ii) without the Roofless selection device.
+
+1.3.2. When using the gear configurations referred to in point 1.3.1, masters of Union fishing vessels shall fill in a separate page in the paper fishing logbook or report the catches in the electronic fishing logbook separately from the catches made with other gear configurations and shall record which gear configuration has been used.
+
+1.3.3. Each flag Member State shall transmit to the Commission the relevant scientific data and information, including the quantities of cod resulting from fishing with the gear configurations referred to in point 1.3.1 broken down by relevant areas, annually by 1 April. The Scientific, Technical and Economic Committee for Fisheries (STECF) shall assess the data at the latest by 1 August of each relevant year, as of the third year of application of these measures.
+
+1.3.4. As of the third year of application of these measures the Commission shall annually assess whether the potentially changing length structure of the cod stocks has an impact on the by-catch reduction efficiency of the alternative gears referred to in point 1.3.1.
+
+1.3.5. Based on relevant scientific information, the Member States having a direct management interest may at any time agree on a joint recommendation in accordance with Article 18(1) of Regulation (EU) No 1380/2013 requesting the Commission to modify the measures set out in points 1.3.1 to 1.3.4 above.
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 90 mm</td><td>In sub-divisions 22 and 23</td><td>Directed fishing for flatfish (1) Directed fishing for whiting </td></tr>
+<tr><td>At least 32 mm</td><td>In sub-divisions 22-27</td><td>Directed fishing for herring, mackerel, horse mackerel and blue whiting</td></tr>
+<tr><td>At least 16 mm</td><td>In sub-divisions 22-27</td><td>Directed fishing for sprat (2)</td></tr>
+<tr><td>At least 16 mm</td><td>Whole area</td><td>Directed fishing for species other than flatfish and which are not subject to catch limits and not covered elsewhere in the table</td></tr>
+<tr><td>At least 16 mm</td><td>In sub-divisions 28-32</td><td>Directed fishing for small pelagic species which are not covered elsewhere in the table</td></tr>
+<tr><td>Less than 16 mm</td><td>Whole area</td><td>Directed fishing for sandeel</td></tr>
+<tr><td colspan="3">(1)  The use of beam trawl shall not be authorised.  (2)  The catch may consist of up to 45 % of herring by live weight </td></tr>
+</tbody>
+</table>
+
+**2\. Baseline mesh sizes for static nets**
+
+2.1. Without prejudice to the landing obligation, vessels shall use a mesh size of at least 110 mm, or 157 mm when fishing for salmon.
+
+2.2. Without prejudice to the landing obligation and notwithstanding point 2.1, vessels may use smaller mesh sizes as listed in the following table for the Baltic Sea provided that the associated conditions set out in that table are complied with, and by-catches of cod do not exceed 10 % of the total catch live weight of all marine biological resources landed after each fishing trip or 5 specimens of salmon.
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions (1)</td></tr>
+<tr><td>At least 90 mm</td><td>Whole area</td><td>Directed fishing for flatfish species</td></tr>
+<tr><td>Less than 90 mm</td><td>Whole area</td><td>Directed fishing for small pelagic species</td></tr>
+<tr><td>At least 16 mm</td><td>Whole area</td><td>Directed fishing for species which are not subject to catch limits and not covered elsewhere in the table</td></tr>
+<tr><td colspan="3">(1)  The use of gillnets, entangling nets or trammel nets of more than 9 km for vessels with an overall length of less than 12 m and 21 km for vessels with an overall length of more than 12 m shall be prohibited. The maximum immersion time for such gear shall be 48 hours, except when fishing under ice cover. </td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+**Closed or restricted areas**
+
+1\. Restrictions on fishing with towed gear
+
+It shall be prohibited throughout the year, to fish with any towed gear in the geographical area enclosed by sequentially joining with rhumb lines the following positions, which shall be measured according to the WGS84 coordinate system:
+
+— 54°23′ N, 14°35′ E
+
+— 54°21′ N, 14°40′ E
+
+— 54°17′ N, 14°33′ E
+
+— 54°07′ N, 14°25′ E
+
+— 54°10′ N, 14°21′ E
+
+— 54°14′ N, 14°25′ E
+
+— 54°17′ N, 14°17′ E
+
+— 54°24′ N, 14°11′ E
+
+— 54°27′ N, 14°25′ E
+
+— 54°23′ N, 14°35′ E.
+
+**2\. Restrictions on fishing for salmon and sea trout**
+
+2.1. Directed fishing for salmon (Salmo salar) or sea trout (Salmo trutta) shall be prohibited:
+
+(a) from 1 June to 15 September each year in waters of subdivisions 22-31;
+
+(b) from 15 June to 30 September each year in waters of subdivision 32.
+
+2.2. The area of prohibition during the closed season shall be beyond four nautical miles measured from the baselines.
+
+2.3. The retention on board of salmon (Salmo salar) or sea trout (Salmo trutta) caught with trap-nets shall be permitted.
+
+**3\. Specific measures for the Gulf of Riga**
+
+3.1. In order to fish in sub-division 28-1, vessels shall hold a fishing authorisation issued in accordance with Article 7 of Regulation (EC) No 1224/2009.
+
+3.2. Member States shall ensure that vessels, to which the fishing authorisation referred to in point 3.1 has been issued, are included in a list, containing their name and internal registration number, made publicly available via an internet website, the address of which shall be provided to the Commission and Member States by each Member State.
+
+3.3. Vessels included in the list shall satisfy the following conditions:
+
+(a) the total engine power (kW) of the vessels within the lists must not exceed that observed for each Member State in the years 2000-2001 in subdivision 28-1; and
+
+(b) the engine power of a vessel must not exceed 221 kW at any time.
+
+3.4. Any individual vessel on the list referred to in point 3.2 may be replaced by another vessel or vessels, provided that:
+
+(a) such replacement does not lead to an increase in the total engine power as indicated in point 3.3(a) for the Member State concerned; and
+
+(b) the engine power of any replacement vessel does not exceed 221 kW at any time.
+
+3.5. An engine of any individual vessel included in the list referred to in point 3.2 may be replaced, provided that:
+
+(a) the replacement of an engine does not lead to the vessel’s engine power exceeding 221 kW at any time; and
+
+(b) the power of the replacement engine is not such that replacement leads to an increase in the total engine power as indicated in point 3.3(a) for the Member State concerned.
+
+3.6. In sub-division 28-1, fishing with trawls shall be prohibited in waters of less than 20 m in depth.
+
+**4\. Area restrictions on fishing**
+
+4.1. It shall be prohibited to conduct any fishing activity from 1 May to 31 October each year within the areas enclosed by sequentially joining with rhumb lines the following positions, which shall be measured according to the WGS84 coordinate system:
+
+(a) Area 1:
+
+— 55°45′ N, 15°30′ E
+
+— 55°45′ N, 16°30′ E
+
+— 55°00′ N, 16°30′ E
+
+— 55°00′ N, 16°00′ E
+
+— 55°15′ N, 16°00′ E
+
+— 55°15′ N, 15°30′ E
+
+— 55°45′ N, 15°30′ E
+
+(b) Area 2:
+
+— 55°00′ N, 19°14′ E
+
+— 54°48′ N, 19°20′ E
+
+— 54°45′ N, 19°19′ E
+
+— 54°45′ N, 18°55′ E
+
+— 55°00′ N, 19°14′ E
+
+(c) Area 3:
+
+— 56°13′ N, 18°27′ E
+
+— 56°13′ N, 19°31′ E
+
+— 55°59′ N, 19°13′ E
+
+— 56°03′ N, 19°06′ E
+
+— 56°00′ N, 18°51′ E
+
+— 55°47′ N, 18°57′ E
+
+— 55°30′ N, 18°34′ E
+
+— 56°13′ N, 18°27′ E.
+
+4.2. Directed fishing for salmon with gillnets, entangling nets and trammel nets of a mesh size equal to or larger than 157 mm or with drifting lines shall be permitted. No other gear shall be kept on board.
+
+4.3. Directed fishing for cod with the gear specified in point 4.2 shall be prohibited.
+
+**5\. Restrictions on fishing for flounder and turbot**
+
+5.1. The retention on board of the following species of fish shall be prohibited where they are caught within the geographical areas and during the periods mentioned below:
+
+<table>
+<tbody><tr><td>Species</td><td>Geographical Areas</td><td>Period</td></tr>
+<tr><td rowspan="2">Flounder</td><td>Sub-divisions 26-29 south of 59° 30′ N</td><td>15 February to 15 May</td></tr>
+<tr><td>Subdivision 32</td><td>15 February to 31 May</td></tr>
+<tr><td>Turbot</td><td>Sub-divisions 25, 26 and 28 south of 56° 50′ N</td><td>1 June to 31 July</td></tr>
+</tbody>
+</table>
+
+5.2. Directed fishing with trawls, Danish seines or similar gear with a codend mesh size equal to or greater than 90 mm or with gillnets, entangling nets or trammel nets with a mesh size equal to or greater than 90 mm shall be prohibited. By-catches of flounder and turbot may be retained on board and landed within a limit of 10 % by live weight of the total catch retained on board during the periods referred to in point 6.1.
+
+**6\. Restrictions on fishing for eel**
+
+The retention on board of eel caught with any active gear shall be prohibited. When accidentally caught, eel shall not be harmed and shall be promptly released.
+
+## ANNEX IX
+
+**MEDITERRANEAN SEA**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+<table>
+<tbody><tr><td>Species</td><td>Whole Area</td></tr>
+<tr><td>Bass (Dicentrarchus labrax)</td><td>25 cm</td></tr>
+<tr><td>Annular sea bream (Diplodus annularis)</td><td>12 cm</td></tr>
+<tr><td>Sharpsnout sea-bream (Diplodus puntazzo)</td><td>18 cm</td></tr>
+<tr><td>White sea-bream (Diplodus sargus)</td><td>23 cm</td></tr>
+<tr><td>Two-banded sea-bream (Diplodus vulgaris)</td><td>18 cm</td></tr>
+<tr><td>European anchovy (Engraulis encrasicolus)</td><td>9 cm (1)</td></tr>
+<tr><td>Groupers (Epinephelus spp.)</td><td>45 cm</td></tr>
+<tr><td>Stripped sea-bream (Lithognathus mormyrus)</td><td>20 cm</td></tr>
+<tr><td>Hake (Merluccius merluccius)</td><td>20 cm</td></tr>
+<tr><td>Red mullets (Mullus spp.)</td><td>11 cm</td></tr>
+<tr><td>Spanish sea-bream (Pagellus acarne)</td><td>17 cm</td></tr>
+<tr><td>Red sea-bream (Pagellus bogaraveo)</td><td>33 cm</td></tr>
+<tr><td>Common Pandora (Pagellus erythrinus)</td><td>15 cm</td></tr>
+<tr><td>Common sea bream (Pagrus pagrus)</td><td>18 cm</td></tr>
+<tr><td>Wreckfish (Polyprion americanus)</td><td>45 cm</td></tr>
+<tr><td>European sardine (Sardina pilchardus)</td><td>11 cm (2), (4)</td></tr>
+<tr><td>Mackerel (Scomber spp.)</td><td>18 cm</td></tr>
+<tr><td>Common sole (Solea vulgaris)</td><td>20 cm</td></tr>
+<tr><td>Gilt-head sea-bream (Sparus aurata)</td><td>20 cm</td></tr>
+<tr><td>Horse mackerel (Trachurus spp.)</td><td>15 cm</td></tr>
+<tr><td rowspan="2">Norway lobster (Nephrops norvegicus)</td><td>20 mm CL (3)</td></tr>
+<tr><td>70 mm TL (3)</td></tr>
+<tr><td rowspan="2">Lobster (Homarus gammarus)</td><td>105 mm CL (3)</td></tr>
+<tr><td>300 mm TL (3)</td></tr>
+<tr><td>Crawfish (Palinuridae)</td><td>90 mm CL (3)</td></tr>
+<tr><td>Deepwater rose shrimp (Parapenaeus longirostris)</td><td>20 mm CL (3)</td></tr>
+<tr><td>Scallop (Pecten jacobeus)</td><td>10 cm</td></tr>
+<tr><td>Carpet Clams (Venerupis spp.)</td><td>25 mm</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Venus shells (Venus spp.)</td><td>25 mm (5)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">(1)  Member States may convert the minimum conservation reference size into 110 specimens per kg.  (2)  Member States may convert the minimum conservation reference size into 55 specimens per kg.  (3)  CL — carapace length; TL — total length.  (4)  This minimum conservation reference size shall not apply to fries of sardine landed for human consumption if caught by boat seines or shore seines and authorised in accordance with national provisions established in a management plan as referred to in Article 19 of Regulation (EC) No 1967/2006, provided that the stock of sardine concerned is within safe biological limits.  (5)  By way of derogation, from 1 January 2026 to 31 December 2030, the minimum conservation reference size of Venus shells (Venus spp.) shall be 22 mm in the Italian territorial waters of the General Fisheries Commission for the Mediterranean (GFCM) geographical sub-areas 9, 10, 17 and 18 as defined in Annex I to Regulation (EU) 2023/2124 of the European Parliament and of the Council of 4 October 2023 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area (OJ L, 2023/2124, 12.10.2023, ELI: http://data.europa.eu/eli/reg/2023/2124/oj). </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+**Mesh sizes**
+
+1\. Baseline mesh sizes for towed gear
+
+The following mesh sizes shall apply in the Mediterranean Sea.
+
+<table>
+<tbody><tr><td>Mesh Size (1)</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 40 mm square mesh codend (2)</td><td>Whole area</td><td>A diamond mesh codend of 50 mm2 may be used as an alternative to the 40 mm square mesh cod end at the duly justified request of the vessel owner</td></tr>
+<tr><td>At least 20 mm</td><td>Whole area</td><td>Directed fishing for sardine and anchovy</td></tr>
+<tr><td colspan="3">(1)  It shall be prohibited to use netting with a twine thickness greater than 3 mm or with multiple twines; or netting with a twine thickness of greater than 6 mm in any part of a bottom trawl.  (2)  Only one type of net (either 40 mm square mesh or 50 mm diamond mesh) is allowed to be kept on board or deployed. </td></tr>
+</tbody>
+</table>
+
+2\. Baseline mesh size for surrounding nets
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 14 mm | Whole area | None |
+
+3\. Baseline mesh sizes for static nets
+
+The following mesh sizes for bottom set gillnets shall apply in the Mediterranean Sea.
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 16 mm | Whole area | None |
+
+4\. Existing derogations from the provisions set out in points 1, 2 and 3 for boat seines and shore seines which are affected by a management plan as referred to in Article 19 of Regulation (EC) No 1967/2006 and issued within the framework of Article 9 of that Regulation shall continue to apply unless otherwise determined through Article 15 of this Regulation.
+
+**PART C**
+
+**Restrictions on the use of fishing gear**
+
+**1\. Restrictions on the use of dredges**
+
+The maximum breadth of dredges shall be 3 m, except for dredges used for directed fishing of sponges.
+
+**2\. Restrictions on the use of purse seines**
+
+The length of purse seines and seines without purse lines shall be restricted to 800 m with a drop of 120 m, except in the case of purse seines used for directed fishing of tuna.
+
+**3\. Restrictions on the use of static nets**
+
+3.1. It shall be prohibited to use the following static nets:
+
+(a) A trammel net with a drop of more than 4 m;
+
+(b) A bottom set gillnet or combined trammel and gillnet with a drop of more than 10 m except when such nets are shorter than 500 m, where a drop of not more than 30 m is permitted.
+
+3.2. It shall be prohibited to use any gillnet, entangling net or trammel net constructed with a twine thickness greater than 0,5 mm.
+
+3.3. It shall be prohibited to have on board or set more than 2 500 m of combined gillnets and trammel nets and 6 000 m of any gillnet, entangling net or trammel net.
+
+4\. Restrictions on the use of longlines
+
+4.1. It shall be prohibited for vessels fishing with bottom-set longlines to have on board or deploy more than 5 000 hooks except for vessels undertaking fishing trips of more than 3 days which may have on board or deploy no more than 7 000 hooks.
+
+4.2. It shall be prohibited for vessels fishing with surface-set longlines to have on board or deploy more than the number of hooks per vessel as follows:
+
+(a) 2 500 hooks when directed fishing for swordfish; and
+
+(b) 5 000 hooks when directed fishing for albacore tuna.
+
+4.3. A vessel undertaking fishing trips longer than 2 days may have on board an equivalent number of spare hooks.
+
+5\. Restrictions on the use of pots and creels
+
+It shall be prohibited to have on board or set more than 250 pots or creels per vessel to catch deepwater crustaceans.
+
+6\. Restrictions on the directed fishing for red sea bream
+
+The directed fishing for red sea bream (Pagellus bogaraveo) with the following gear shall be prohibited:
+
+— gillnets, entangling nets or trammel nets having a mesh size of less than 100 mm;
+
+— longlines with hooks of a total length of less than 3,95 cm and a width of less than 1,65 cm.
+
+7\. Restrictions on fishing with spear guns
+
+It shall be prohibited to fish with spear guns if used in conjunction with underwater breathing apparatus (aqualung) or at night from sunset to dawn.
+
+## ANNEX X
+
+**BLACK SEA**
+
+**PART A**
+
+**Minimum conservation reference sizes**
+
+| Species | Minimum Conservation Reference Size |
+| --- | --- |
+| Turbot (Psetta maxima) | 45 cm |
+
+**PART B**
+
+**Mesh sizes**
+
+**1\. Baseline mesh sizes for towed gear for demersal stocks**
+
+The following mesh sizes shall apply in the Black Sea:
+
+<table>
+<tbody><tr><td>Mesh Size</td><td>Geographical Areas</td><td>Conditions</td></tr>
+<tr><td>At least 40 mm</td><td>Whole area</td><td>A diamond mesh codend of 50 mm () may be used as an alternative to the 40 mm square mesh cod end at the duly justified request of the vessel owner</td></tr>
+<tr><td colspan="3">(1)  Only one type of net (either 40 mm square mesh or 50 mm diamond mesh) is allowed to be kept on board or deployed. </td></tr>
+</tbody>
+</table>
+
+**2\. Baseline mesh sizes for static nets**
+
+The following mesh sizes for static nets shall apply in the Black Sea:
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 400 mm | Whole area | Bottom set gillnets when used to catch turbot |
+
+**3\. Restrictions on the use of trawls and dredges**
+
+The use of trawls or dredges at depths beyond 1 000 m shall be prohibited.
+
+## ANNEX XI
+
+**UNION WATERS IN THE INDIAN OCEAN AND THE WEST ATLANTIC**
+
+**PART A**
+
+**1\. Baseline mesh sizes for towed gear**
+
+The following mesh sizes shall apply in Union waters in the Indian Ocean and the West Atlantic.
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 100 mm | All waters off the coast of the French department of Guyana that come under the sovereignty or jurisdiction of France | None |
+| At least 45 mm | All waters off the coast of the French department of Guyana that come under the sovereignty or jurisdiction of France | Directed fishing for shrimp (Penaeus subtilis, Penaeus brasiliensis, Xiphopenaeus kroyeri). |
+
+**2\. Baseline mesh size for surrounding nets**
+
+| Mesh Size | Geographical Areas | Conditions |
+| --- | --- | --- |
+| At least 14 mm | Whole area | None |
+
+**PART B**
+
+**Closed or restricted areas**
+
+Restrictions on fishing activities in the 24-mile zone around Mayotte
+
+Vessels shall be prohibited from using any purse-seine on tuna and tuna-like schools of fish within 24 nautical miles of the coast of Mayotte, measured from the baselines from which territorial waters are measured.
+
+## ANNEX XIII
+
+**MITIGATION MEASURES TO REDUCE INCIDENTAL CATCHES OF SENSITIVE SPECIES**
+
+The following measures to monitor and reduce incidental catches of sensitive species shall apply:
+
+1\. The measures set out in Parts A, B and C.
+
+2\. Member States shall take the necessary steps to collect scientific data on incidental catches of sensitive species.
+
+3\. As a result of scientific evidence, validated by ICES, STECF, or in the framework of GFCM, of negative impacts of fishing gear on sensitive species, Member States shall submit joint recommendations for additional mitigation measures for the reduction of incidental catches of the concerned species or in a concerned area on the basis of Article 15 of this Regulation.
+
+4\. Member States shall monitor and assess the effectiveness of the mitigation measures established under this Annex.
+
+**PART A**
+
+**Cetaceans**
+
+**1\. Fisheries in which the use of acousÑtic deterrent devices is mandatory**
+
+1.1. It shall be prohibited:
+
+(a) for vessels with an overall length of 12 m or more to use the fishing gear in specific areas as defined below without the simultaneous use of active acoustic deterrent devices.
+
+| Area | Gear |
+| --- | --- |
+| Baltic Sea Area delimited by a line running from the Swedish coast at the point at longitude 13° E, thence due south to latitude 55° N, thence due east to longitude 14° E, thence due north to the coast of Sweden; and, Area delimited by a line running from the eastern coast of Sweden at the point at latitude 55°30′ N, thence due east to longitude 15° E, thence due north to latitude 56° N, thence due east to longitude 16° E thence due north to the coast of Sweden | Any bottom-set gill net or entangling net |
+| Baltic Sea sub-division 24 (except for the area covered above) | Any bottom-set gill net or entangling net |
+| ICES sub-area 4 and ICES division 3a (only from 1 August to 31 October) | Any bottom-set gill net or entangling net, or combination of these nets, the total length of which does not exceed 400 m |
+|  | Any bottom-set gillnet or entangling net ≥ 220 mm |
+| ICES divisions 7e, 7f, 7g, 7h and 7j | Any bottom-set gillnet or entangling net |
+| ICES division 7d | Any bottom-set gillnet or entangling net |
+
+(b) for all vessels to use the fishing gear in specific areas as defined below without the simultaneous use of active acoustic deterrent devices.
+
+<table>
+<tbody><tr><td colspan="2">Area</td><td>Gear</td></tr>
+<tr><td colspan="2">In the West and East of the ‘sandbank Ryf Mew’ (Inner and Outer Puck Bay, within and outside the Natura 2000 site ‘Zatoka Pucka Półwysep Helski’ (PLH220032)) The area is defined as that area of sea enclosed by rhumb lines sequentially joining the following coordinates: </td><td rowspan="27">Static nets ()</td></tr>
+<tr><td>— 54,606030°N</td><td>— 18,803830°E</td></tr>
+<tr><td>— 54,631210°N</td><td>— 18,772230°E</td></tr>
+<tr><td>— 54,681520°N</td><td>— 18,711720°E</td></tr>
+<tr><td>— 54,694090°N</td><td>— 18,690050°E</td></tr>
+<tr><td>— 54,701420°N</td><td>— 18,652120°E</td></tr>
+<tr><td>— 54,717640°N</td><td>— 18,628640°E</td></tr>
+<tr><td>— 54,789790°N</td><td>— 18,418240°E</td></tr>
+<tr><td>— 54,770450°N</td><td>— 18,412820°E</td></tr>
+<tr><td>— 54,754770°N</td><td>— 18,392950°E</td></tr>
+<tr><td>— 54,727580°N</td><td>— 18,390240°E</td></tr>
+<tr><td>— 54,721830°N</td><td>— 18,402890°E</td></tr>
+<tr><td>— 54,720780°N</td><td>— 18,416430°E</td></tr>
+<tr><td>— 54,705080°N</td><td>— 18,436300°E</td></tr>
+<tr><td>— 54,695130°N</td><td>— 18,467000°E</td></tr>
+<tr><td>— 54,687800°N</td><td>— 18,460680°E</td></tr>
+<tr><td>— 54,660040°N</td><td>— 18,457070°E</td></tr>
+<tr><td>— 54,633310°N</td><td>— 18,463390°E</td></tr>
+<tr><td>— 54,628590°N</td><td>— 18,469710°E</td></tr>
+<tr><td>— 54,632780°N</td><td>— 18,510350°E</td></tr>
+<tr><td>— 54,615480°N</td><td>— 18,507640°E</td></tr>
+<tr><td>— 54,584510°N</td><td>— 18,537440°E</td></tr>
+<tr><td>— 54,550380°N</td><td>— 18,554600°E</td></tr>
+<tr><td>— 54,541970°N</td><td>— 18,543760°E</td></tr>
+<tr><td>— 54,510950°N</td><td>— 18,543760°E</td></tr>
+<tr><td>— 54,486220°N</td><td>— 18,564530°E</td></tr>
+<tr><td>— 54,592910°N</td><td>— 18,808350°E</td></tr>
+<tr><td colspan="2">In the Natura 2000 site ‘Sydvästskånes utsjövatten’ (SE0430187), this prohibition shall apply between 1 May and 31 October. The area is defined as that area of sea enclosed by rhumb lines sequentially joining the following coordinates: </td><td rowspan="18">Static nets ()</td></tr>
+<tr><td>— 55,35106°N</td><td>— 12,97893°E</td></tr>
+<tr><td>— 55,22202°N</td><td>— 13,53572°E</td></tr>
+<tr><td>— 55,01445°N</td><td>— 13,39068°E</td></tr>
+<tr><td>— 55,01099°N</td><td>— 13,20750°E</td></tr>
+<tr><td>— 55,07472°N</td><td>— 13,16464°E</td></tr>
+<tr><td>— 55,12709°N</td><td>— 12,97429°E</td></tr>
+<tr><td>— 55,09678°N</td><td>— 12,97513°E</td></tr>
+<tr><td>— 55,16606°N</td><td>— 12,79373°E</td></tr>
+<tr><td>— 55,24938°N</td><td>— 12,67606°E</td></tr>
+<tr><td>— 55,30773°N</td><td>— 12,63771°E</td></tr>
+<tr><td>— 55,33667°N</td><td>— 12,64080°E</td></tr>
+<tr><td>— 55,34481°N</td><td>— 12,69023°E</td></tr>
+<tr><td>— 55,30593°N</td><td>— 12,70856°E</td></tr>
+<tr><td>— 55,27558°N</td><td>— 12,80246°E</td></tr>
+<tr><td>— 55,26932°N</td><td>— 12,88011°E</td></tr>
+<tr><td>— 55,27786°N</td><td>— 12,92801°E</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="2">ICES Subarea 8</td><td>Mid-water pelagic trawls (OTM, PTM, TM) and bottom pair trawls (PTB) ()</td></tr>
+<tr><td colspan="3">(1)  Semi-dr iftnets, classified in the European Commission Fleet Register as a gillnet (GNS), that are anchored to the seabed at one side, fall within the definition of static nets.  (2)  This measure shall apply until 31 December 2026. </td></tr>
+</tbody>
+</table>
+
+1.2. Point 1.1 shall not apply to fishing operations conducted solely for the purpose of scientific investigation which are carried out with the authorisation and under the authority of the Member State or Member States concerned and which aim at developing new technical measures to reduce the incidental capture or killing of cetaceans.
+
+1.3. Member States shall take necessary steps to monitor and assess by means of scientific studies or pilot projects, the effects of acoustic deterrent device use over time in the fisheries and areas concerned.
+
+**2\. Fisheries to be monitored**
+
+2.1. Monitoring schemes shall be undertaken on an annual basis and established for vessels flying their flag and with an overall length of 15 m or more to monitor cetacean by-catch, for the fisheries and under the conditions defined below.
+
+| Area | Gear |
+| --- | --- |
+| ICES sub-areas 6, 7 and 8 | Pelagic trawls (single and pair) |
+| Mediterranean Sea (of the east of line 5°36′ west | Pelagic trawls (single and pair) |
+| ICES divisions 6a, 7a, 7b, 8a, 8b, 8c and 9a | Bottom-set gillnet or entangling nets using mesh sizes equal to or greater than 80 mm |
+| ICES sub area 4, ICES division 6a, and ICES sub-area 7, with the exception of ICES divisions 7c and 7k | Driftnets |
+| ICES divisions 3a, 3b, 3c, 3d south of 59° N, 3d north of 59° (only from 1 June to 30 September) and ICES sub-areas 4 and 9 | Pelagic trawls (single and pair) |
+| ICES sub-areas 6, 7, 8 and 9 | High-opening trawls |
+| ICES divisions 3b, 3c and 3d | Bottom-set gillnet or entangling nets using mesh sizes equal to or greater than 80 mm |
+
+2.2. Point 2.1 shall not apply to fishing operations conducted solely for the purpose of scientific investigation which are carried out with the authorisation and under the authority of the Member State or Member States concerned and which aim at developing new technical measures to reduce the incidental capture or killing of cetaceans.
+
+**3\. Special measures in the Baltic Sea**
+
+3.1. Fishing shall only be permitted with pots, fish traps and longlines within the following areas enclosed by sequentially joining with rhumb lines the following coordinates, which shall be measured according to the WGS84 system:
+
+**‘Northern Midsea Bank’:**
+
+— 56,241°N — 17,042°E
+
+— 56,022°N — 17,202°E
+
+— 56,145°N — 17,710°E
+
+— 56,380°N — 17,675°E
+
+3.2. Fishing with all types of static nets ( 21 ) shall be prohibited within the following areas enclosed by sequentially joining with rhumb lines the following coordinates which shall be measured according to the WGS84 system:
+
+**Natura 2000 site ‘Hoburgs bank och Midsjöbankarna’ (SE0330308)**
+
+— 55,64194°N — 17,55060°E
+
+— 55,77718°N — 17,45729°E
+
+— 55,80195°N — 17,32586°E
+
+— 55,69214°N — 17,11479°E
+
+— 55,54258°N — 17,18434°E
+
+— 55,50003°N — 17,00016°E
+
+— 55,37749°N — 16,58925°E
+
+— 56,01093°N — 16,61700°E
+
+— 56,45158°N — 17,14420°E
+
+— 56,50419°N — 18,05446°E
+
+— 56,84110°N — 18,08191°E
+
+— 56,82638°N — 18,64635°E
+
+— 56,67028°N — 18,75222°E
+
+— 56,40337°N — 18,60704°E
+
+— 55,79712°N — 18,03668°E
+
+— 55,78242°N — 17,99611°E
+
+— 55,64194°N — 17,55060°E
+
+**‘Southern Midsea Bank’**
+
+The Southern Midsea Bank is defined as the Swedish part of the Southern Midsea Bank, covering all waters between the Natura 2000 site Hoburgs bank och Midsjöbankarna (SE0330308) and the Swedish-Polish border. Polish waters are delimited as the area within the following coordinates:
+
+— 55,377°N — 16,589°E
+
+— 55,466°N — 17,538°E
+
+— 55,797°N — 18,037°E
+
+3.3. Between 1 November and 31 January, fishing with static nets ( 22 ) shall be prohibited in the areas enclosed by rhumb lines, seaward separation lines of the German EEZ ( 23 ) or delimitation lines of the German territorial sea ( 24 ) sequentially joining the following sets of coordinates, which shall be measured according to the WGS84 system:
+
+**Natura 2000 site ‘Adler Grund and Rønne Banke’ (DK00VA261)**
+
+— 55,035336°N — 14,459815°E
+
+— 54,971063°N — 14,607236°E
+
+— 54,812483°N — 14,413654°E
+
+— 54,812496°N — 14,171885°E
+
+**Natura 2000 site ‘Westliche Rönnebank’ (DE1249301)**
+
+The geographical area enclosed by:
+
+(1) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| MGI-01 | 54,719193° | 13,901025° |
+| MGI-02 | 54,770556° | 14,003889° |
+| MGI-03 | 54,702500° | 14,103889° |
+| MGI-04 | 54,647584° | 13,991417° |
+
+(2) seaward delimitation line of the German territorial sea from 54,647584° N 13,991417° E to 54,719193° N 13,901025° E.
+
+**Natura 2000 site ‘Adlergrund’ (DE1251301)**
+
+The geographical area enclosed by:
+
+(1) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| MGII-01 | 54,811946° | 14,239196° |
+| MGII-02 | 54,721667° | 14,141667° |
+| MGII-03 | 54,698889° | 14,117222° |
+| MGII-04 | 54,657727° | 14,413062° |
+
+(2) seaward separation line between the German and Danish Exclusive Economic Zones from 54,657727° N 14,413062° E to 54,811946° N 14,239196° E.
+
+**Natura 2000 site ‘Pommersche Bucht mit Oderbank’ (DE1652301)**
+
+The geographical area enclosed by:
+
+(1) rhumb line sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| MGIII-01 | 54,500000° | 14,055211° |
+| MGIII -02 | 54,500000° | 14,742241° |
+
+(2) seaward separation line between the German and Polish Exclusive Economic Zones from 54,5° N 14,742241° E to 54,126151° N 14,201431° E
+
+(3) seaward delimitation line of the German territorial sea from 54,126151° N 14,201431° E to 54,5° N 14,055211° E
+
+**Natura 2000 site ‘Greifswalder Boddenrandschwelle und Teile der Pommerschen Bucht’ (DE1749302)**
+
+The area of sea enclosed by:
+
+a) rhumb lines sequentially joining the following coordinates:
+
+— 54,34995°N — 13,75007°E
+
+— 54,35002°N — 13,78340°E
+
+— 54,31672°N — 13,88336°E
+
+— 54,25958°N — 14,00053°E
+
+— 54,27765°N — 14,06962°E
+
+— 54,23882°N — 14,16802°E
+
+— 54,12615°N — 14,20141°E
+
+— 54,18295°N — 13,98338°E
+
+— 54,14431°N — 13,86995°E
+
+— 54,14633°N — 13,83198°E
+
+— 54,14714°N — 13,83127°E
+
+— 54,15004°N — 13,82926°E
+
+— 54,15088°N — 13,82880°E
+
+— 54,15144°N — 13,82881°E
+
+— 54,18832°N — 13,82347°E
+
+— 54,18832°N — 13,82346°E
+
+— 54,19374°N — 13,82268°E
+
+— 54,21375°N — 13,80557°E
+
+— 54,23009°N — 13,79156°E
+
+— 54,23160°N — 13,77499°E
+
+— 54,23358°N — 13,75603°E
+
+— 54,27407°N — 13,72601°E
+
+b) The coastline from 54,35002° N 13,72601°E to 54,27765°N 13,75007°E
+
+**Natura 2000 site ‘Ostoja na Zatoce Pomorskiej’ (PLH990002).**
+
+The area of sea enclosed by:
+
+a) rhumb lines sequentially joining the following coordinates:
+
+— 54,32395°N — 15,38526°E
+
+— 54,25835°N — 15,38440°E
+
+— 54,24455°N — 15,38422°E
+
+— 54,19953°N — 15,38237°E
+
+— 54,16881°N — 15,38111°E
+
+— 54,15807°N — 15,38067°E
+
+— 54,15804°N — 15,38067°E
+
+b) the coast from 54,15804°N 15,38067°E to 54,00013°N 14,65346°E
+
+c) rhumb lines sequentially joining the following coordinates:
+
+— 54,00013°N — 14,65346°E
+
+— 53,99989°N — 14,65269°E
+
+— 53,99982°N — 14,65200°E
+
+— 53,99987°N — 14,65201°E
+
+— 54,01629°N — 14,64664°E
+
+— 53,97913°N — 14,49071°E
+
+— 53,95057°N — 14,43891°E
+
+— 53,93854°N — 14,45827°E
+
+d) the coast from 53,93854°N 14,45827°E to 53,92176°N 14,28495°E
+
+e) rhumb lines sequentially joining the following coordinates, read in column order:
+
+| — 53,92176°N | — 14,28495°E | — 54,48498°N | — 14,79511°E | — 54,47014°N | — 14,85220°E |
+| --- | --- | --- | --- | --- | --- |
+| — 53,92905°N | — 14,28883°E | — 54,48476°N | — 14,79733°E | — 54,47135°N | — 14,85316°E |
+| — 53,93619°N | — 14,29442°E | — 54,48434°N | — 14,79876°E | — 54,47238°N | — 14,85454°E |
+| — 53,94698°N | — 14,30494°E | — 54,48346°N | — 14,80031°E | — 54,47294°N | — 14,85603°E |
+| — 53,94830°N | — 14,31365°E | — 54,48261°N | — 14,80164°E | — 54,47313°N | — 14,85830°E |
+| — 53,95213°N | — 14,33902°E | — 54,48179°N | — 14,80253°E | — 54,47319°N | — 14,86005°E |
+| — 53,97892°N | — 14,33091°E | — 54,48092°N | — 14,80321°E | — 54,47303°N | — 14,86222°E |
+| — 53,97914°N | — 14,33084°E | — 54,47987°N | — 14,80368°E | — 54,47261°N | — 14,86469°E |
+| — 54,10243°N | — 14,29333°E | — 54,47887°N | — 14,80444°E | — 54,47191°N | — 14,86718°E |
+| — 54,12747°N | — 14,28383°E | — 54,47743°N | — 14,80590°E | — 54,47115°N | — 14,86915°E |
+| — 54,12688°N | — 14,25228°E | — 54,47594°N | — 14,80723°E | — 54,47031°N | — 14,87098°E |
+| — 54,12728°N | — 14,24162°E | — 54,47431°N | — 14,80922°E | — 54,46938°N | — 14,87249°E |
+| — 54,16731°N | — 14,35028°E | — 54,47285°N | — 14,81127°E | — 54,46819°N | — 14,87436°E |
+| — 54,16880°N | — 14,35199°E | — 54,47083°N | — 14,81463°E | — 54,46476°N | — 14,87841°E |
+| — 54,16889°N | — 14,35222°E | — 54,46903°N | — 14,81781°E | — 54,46234°N | — 14,88129°E |
+| — 54,38286°N | — 14,59913°E | — 54,46704°N | — 14,82181°E | — 54,46009°N | — 14,88427°E |
+| — 54,49418°N | — 14,74253°E | — 54,46523°N | — 14,82507°E | — 54,45760°N | — 14,88823°E |
+| — 54,49380°N | — 14,74525°E | — 54,46369°N | — 14,82837°E | — 54,45514°N | — 14,89218°E |
+| — 54,49272°N | — 14,75092°E | — 54,46218°N | — 14,83167°E | — 54,45298°N | — 14,89570°E |
+| — 54,49188°N | — 14,75496°E | — 54,46121°N | — 14,83447°E | — 54,44969°N | — 14,90148°E |
+| — 54,49095°N | — 14,75871°E | — 54,46044°N | — 14,83791°E | — 54,44706°N | — 14,90626°E |
+| — 54,48966°N | — 14,76338°E | — 54,46010°N | — 14,84096°E | — 54,44515°N | — 14,90988°E |
+| — 54,48813°N | — 14,76830°E | — 54,46010°N | — 14,84096°E | — 54,44264°N | — 14,91458°E |
+| — 54,48735°N | — 14,77153°E | — 54,46018°N | — 14,84560°E | — 54,44081°N | — 14,91853°E |
+| — 54,48661°N | — 14,77585°E | — 54,46076°N | — 14,84763°E | — 54,43878°N | — 14,92371°E |
+| — 54,48597°N | — 14,77957°E | — 54,46185°N | — 14,84974°E | — 54,43679°N | — 14,92842°E |
+| — 54,48525°N | — 14,78345°E | — 54,46303°N | — 14,85090°E | — 54,43529°N | — 14,93180°E |
+| — 54,48506°N | — 14,78639°E | — 54,46454°N | — 14,85156°E | — 54,43364°N | — 14,93526°E |
+| — 54,48516°N | — 14,79048°E | — 54,46628°N | — 14,85192°E | — 54,43167°N | — 14,93970°E |
+| — 54,48510°N | — 14,79239°E | — 54,46903°N | — 14,85211°E | — 54,43013°N | — 14,94295°E |
+
+f) rhumb lines sequentially joining the following coordinates, read in column order:
+
+| — 54,30457°N | — 15,24969°E | — 54,31048°N | — 15,36540°E |
+| --- | --- | --- | --- |
+| — 54,30337°N | — 15,25282°E | — 54,31376°N | — 15,36389°E |
+| — 54,30277°N | — 15,25502°E | — 54,31833°N | — 15,36227°E |
+| — 54,30249°N | — 15,25746°E | — 54,32214°N | — 15,36082°E |
+| — 54,30267°N | — 15,26188°E | — 54,32356°N | — 15,36059°E |
+| — 54,30319°N | — 15,26968°E | — 54,32452°N | — 15,36102°E |
+| — 54,30321°N | — 15,27431°E | — 54,32527°N | — 15,36217°E |
+| — 54,30327°N | — 15,27860°E | — 54,32726°N | — 15,36727°E |
+| — 54,30238°N | — 15,28297°E | — 54,32853°N | — 15,37192°E |
+| — 54,30115°N | — 15,28744°E | — 54,32944°N | — 15,37681°E |
+| — 54,30039°N | — 15,29080°E | — 54,33059°N | — 15,38341°E |
+| — 54,29976°N | — 15,29354°E | — 54,33088°N | — 15,38527°E |
+| — 54,29886°N | — 15,29724°E | — 54,33089°N | — 15,38535°E |
+| — 54,29858°N | — 15,29968°E |  |  |
+| — 54,29829°N | — 15,30447°E |  |  |
+| — 54,29812°N | — 15,31408°E |  |  |
+| — 54,29777°N | — 15,32068°E |  |  |
+| — 54,29695°N | — 15,32706°E |  |  |
+| — 54,29610°N | — 15,33412°E |  |  |
+| — 54,29570°N | — 15,33741°E |  |  |
+| — 54,29523°N | — 15,34150°E |  |  |
+| — 54,29497°N | — 15,34467°E |  |  |
+| — 54,29501°N | — 15,34994°E |  |  |
+| — 54,29578°N | — 15,35382°E |  |  |
+| — 54,29752°N | — 15,35843°E |  |  |
+| — 54,29935°N | — 15,36192°E |  |  |
+| — 54,30108°N | — 15,36420°E |  |  |
+| — 54,30289°N | — 15,36536°E |  |  |
+| — 54,30516°N | — 15,36587°E |  |  |
+| — 54,30711°N | — 15,36580°E |  |  |
+
+**The marine part of the Natura 2000 site ‘Wolin i Uznam’ (PLH320019)**
+
+The area is defined as that area of sea enclosed by joining:
+
+a) rhumb lines sequentially joining the following coordinates:
+
+— 53,93854°N — 14,45827°E
+
+— 53,95057°N — 14,43891°E
+
+— 53,97913°N — 14,49071°E
+
+— 54,01629°N — 14,64664°E
+
+— 53,99987°N — 14,65201°E
+
+b) The coastline between 53,93854°N and 14,45827°E
+
+**Natura 2000 site ‘Pommersche Bucht’ (DE1552401)**
+
+The geographical area enclosed by:
+
+(1) rhumb lines sequentially joining the following coordinates:
+
+| Point | Latitude (N) | Longitude (E) |
+| --- | --- | --- |
+| MGIV-01 | 54,647584° | 13,991417° |
+| MGIV-02 | 54,702500° | 14,103889° |
+| MGIV-03 | 54,721667° | 14,141667° |
+| MGIV-04 | 54,811946° | 14,239196° |
+
+(2) seaward separation lines between the German and Danish Exclusive Economic Zones from 54,811946° N 14,239196° E to 54,657727° N 14,413062° E, the German and Danish or German and Polish Exclusive Economic Zones from 54,657727° N 14,413062° E to 54,5° N 14,742241° E and the German and Polish Exclusive Economic Zones from 54,5° N 14,742241° E to 54,126151° N 14,201431° E
+
+(3) seaward delimitation line of the German territorial sea from 54,126151° N 14,201431° E to 54,5° N 14,055211° E and 54,5° N 14,055211° E to 54,647584° N 13,991417° E.
+
+3.4. Fishing with static nets (21) shall be prohibited in the areas enclosed by rhumb lines sequentially joining the following sets of coordinates from 1 November to 30 April.
+
+**Natura 2000 site ‘Sydvästskånes utsjövatten’ (SE0430187)**
+
+— 55,35106°N — 12,97893°E
+
+— 55,22202°N — 13,53572°E
+
+— 55,01445°N — 13,39068°E
+
+— 55,01099°N — 13,20750°E
+
+— 55,07472°N — 13,16464°E
+
+— 55,12709°N — 12,97429°E
+
+— 55,09678°N — 12,97513°E
+
+— 55,16606°N — 12,79373°E
+
+— 55,24938°N — 12,67606°E
+
+— 55,30773°N — 12,63771°E
+
+— 55,33667°N — 12,64080°E
+
+— 55,34481°N — 12,69023°E
+
+— 55,30593°N — 12,70856°E
+
+— 55,27558°N — 12,80246°E
+
+— 55,26932°N — 12,88011°E
+
+— 55,27786°N — 12,92801°E
+
+3.5. Member States shall ensure that the control authorities can monitor fishing vessel’s activity at any time to implement the measures laid down in points 3.1 to 3.4.
+
+**4\. Special measures in the Bay of Biscay (ICES Subarea 8)**
+
+4.1. Fishing prohibition:
+
+Fishing shall be prohibited in French waters up to the outer limit of the exclusive economic zone of France within ICES Subarea 8 between 22 January and 20 February 2026 for vessels above 8 metres carrying on board pelagic trawls (PTM, OTM), bottom pair trawls (PTB), purse seines (PS), set (anchored) gillnets (GNS), trammel nets (GTR) or combined gillnets and trammel nets (GTN).
+
+4.2 Monitoring measures:
+
+4.2.1. The following monitoring measures shall apply until 31 December 2026.
+
+4.2.2. Masters of all Union fishing vessels shall record separately in the fishing logbook incidental catches of common dolphins and other small cetaceans ( 25 ), in accordance with Article 14(8) of Regulation (EC) No 1224/2009;
+
+4.2.3. Member States shall collect data on catches of common dolphins and other small cetaceans through on-board observers or electronic monitoring systems incorporating cameras, by covering:
+
+— at least 1 % of the total fishing effort measured in number of days at sea for pelagic pair trawls (PTM), bottom pair trawls (PTB), midwater otter trawls (OTM), trammel nets (GTR), set (anchored) gillnets (GNS) and purse seine (PS) fishing all year long,
+
+— at least 5 % of the total fishing effort measured in number of days at sea for pelagic pair trawls (PTM), bottom pair trawls (PTB) and midwater otter trawls (OTM) fishing from January to March 2026, and
+
+— at least 7 % of the total fishing effort measured in number of days at sea for trammel nets (GTR) and set (anchored) gillnets (GNS) from January to March 2026.
+
+4.2.4. During the high-risk period of incidental catches, vessels may be equipped with electronic monitoring systems incorporating cameras.
+
+**PART B**
+
+**Seabirds**
+
+Where the data referred to in point 2 of the introductory paragraph of this Annex indicate a level of incidental catches of seabirds in specific fisheries which constitutes a serious threat to the conservation status of those seabirds, Member States shall use bird scaring lines and/or weighted lines, if it is scientifically proven that such use has a conservation benefit in that area, and where practical and beneficial shall set longlines during the hours of darkness with the minimum of deck lighting necessary for safety.
+
+**PART C**
+
+**Marine turtles**
+
+**1\. Fisheries in which the use of a turtle excluder device is mandatory.**
+
+1.1. It shall be prohibited for vessels to use the fishing gear specified below in specific areas as defined below without the simultaneous use of a turtle excluder device.
+
+| Area | Species | Gear |
+| --- | --- | --- |
+| Union waters in the Indian Ocean and the West Atlantic | Shrimps (Penaeus spp., Xiphopenaeus kroyeri) | Any shrimp trawl |
+
+1.2. The Commission may adopt implementing acts establishing detailed rules for the specification of the device referred to in point 1.1.
+
+## ANNEX XIV
+
+**SPECIES FOR SELECTIVITY PERFORMANCE INDICATORS**
+
+| North Sea | North Western Waters | South Western Waters | Baltic Sea | Mediterranean Sea |
+| --- | --- | --- | --- | --- |
+| Cod | Cod | Hake | Cod | Hake |
+| Haddock | Haddock | Whiting | Plaice | Red Mullet |
+| Saithe | Saithe | Megrim |  |  |
+| Whiting | Whiting |  |  |  |
+| Plaice | Plaice |  |  |  |
+
+( 1 ) ICES (International Council for the Exploration of the Sea) divisions are as defined in Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70).
+
+( 2 ) CECAF (Eastern Central Atlantic or FAO major fishing zone 34) zones are as defined in Regulation (EC) No 216/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic (OJ L 87, 31.3.2009, p. 1).
+
+( 3 ) Regulation (EU) No 1343/2011 of the European Parliament and of the Council of 13 December 2011 on certain provisions for fishing in the GFCM (General Fisheries Commission for the Mediterranean) Agreement area and amending Council Regulation (EC) No 1967/2006 concerning management measures for the sustainable exploitation of fishery resources in the Mediterranean Sea (OJ L 347, 30.12.2011, p. 44).
+
+( 4 ) Council Regulation (EC) No 734/2008 of 15 July 2008 on the protection of vulnerable marine ecosystems in the high seas from the adverse impacts of bottom fishing gears (OJ L 201, 30.7.2008, p. 8).
+
+( 5 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).
+
+( *1 ) Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 (OJ L 198, 25.7.2019, p. 105).’;
+
+( *2 ) Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 (OJ L 198, 25.7.2019, p. 105).’;
+
+( *3 ) Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 (OJ L 198, 25.7.2019, p. 105).’;
+
+( *4 ) Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 (OJ L 198, 25.7.2019, p. 105).’;
+
+( 6 ) For the purposes of this Annex:
+
+— the Kattegat is limited in the north by a line drawn from Skagen Lighthouse to the lighthouse in Tistlarna, and from there to the nearest point on the Swedish coast, and in the south by a line drawn from Hasenøre Head to Gniben Point, from Korshage to Spodsbjerg, and from Gilbjerg Head to the Kullen,
+
+— the Skagerrak is limited in the west by a line drawn from the lighthouse of Hanstholm to the lighthouse of Lindesnes, and in the south by a line drawn from Skagen Lighthouse to the lighthouse of Tistlarna, and from there to the nearest point on the Swedish coast,
+
+— the North Sea shall comprise ICES sub-area 4, the adjacent part of ICES Division 2a lying south of latitude 64° N, and that part of ICES Division 3a which is not covered by the definition of Skagerrak given in the second indent.
+
+( 7 ) When fishing with beam trawls the maximum length of the beam or the aggregate beam length measured as the sum of the length of each beam shall not exceed 24 metres or cannot be extended to a length greater than 24 metres. The length of a beam shall be measured between its extremities including all attachments thereto. This is without prejudice to more specific measures established in certain areas of the North Sea.
+
+( 8 ) When fishing in sub-divisions Skagerrak and Kattegat with otter trawls with a mesh size of less than 120 mm, a diamond mesh top panel of at least 270 mm mesh size or a square mesh top panel of at least 140 mm mesh size shall be fitted. Alternatively, in sub-division Kattegat, a square mesh panel of at least 120 mm may be fitted in the period from 1 October to 31 December.
+
+( 9 ) When fishing in sub-division Kattegat with seines with a mesh size of less than 120 mm, a diamond mesh top panel of at least 270 mm mesh size or a square mesh top panel of at least 140 mm mesh size shall be fitted. Alternatively, a square mesh panel of at least 120 mm may be fitted in the period from 1 August to 31 October.
+
+( 10 ) ‘SepNep’ means an otter trawl which:
+
+— is constructed within the mesh size range of 80 to 99 +≥ 100 mm,
+
+— is fitted with multiple cod-ends of mesh sizes ranging from at least 80 to 120 mm attached to a single extension piece, the uppermost cod-end being constructed with a mesh size of at least 120 mm and fitted with a separation panel with a maximum mesh size of 105 mm, and
+
+— may furthermore be fitted with an optional selection grid with a bar spacing of at least 17 mm provided it is constructed in such a way so as to allow the escape of small Norway lobster.
+
+( 11 ) Regulation (EU) 2016/2336 of the European Parliament and of the Council of 14 December 2016 establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002 (OJ L 354, 23.12.2016, p. 1).
+
+( 12 ) Regulation (EU) 2017/1004 of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (OJ L 157, 20.6.2017, p. 1).
+
+( 13 ) In the absence of new rules adopted before 31 December 2026, as of 1 January 2027 the applicable minimum conservation reference size for red seabream shall be 33 cm.
+
+( 14 ) To be phased-in over a two-year period from the date of entry into force of this Regulation.
+
+( 15 ) A mesh size of at least 220 mm shall be used when fishing for anglerfish. A mesh size of at least 110 mm shall be used when directed fishing for pollack and hake in ICES divisions 7d and 7e.
+
+( 16 ) Commission Delegated Regulation (EU) 2018/2034 of 18 October 2018 establishing a discard plan for certain demersal fisheries in North-Western waters for the period 2019-2021 (OJ L 327, 21.12.2018, p. 8).
+
+( 17 ) This provision is without prejudice to Article 2 of Regulation (EC) No 494/2002.
+
+( 18 ) For directed fishing for Norway lobster (Nephrops norvegicus), a square mesh panel of at least 100 mm or equivalent selectivity device shall be fitted when fishing in ICES divisions 8a, 8b, 8d and 8e. For directed fishing for sole with beam trawls, a panel with a mesh size of at least 180 mm fitted in the upper half of the anterior part of the net shall be fitted.
+
+( 19 ) For directed fishing for anglerfish a mesh size of at least 220 mm shall be used.
+
+( 20 ) Commission Implementing Regulation (EU) 2024/3094 of 27 November 2024 laying down detailed rules on certain selective devices to reduce incidental catches of cod in the Baltic Sea provided for in Annex VIII to Regulation (EU) 2019/1241 of the European Parliament and of the Council (OJ L, 2024/3094, 10.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/3094/oj).
+
+( 21 ) Semi-driftnets, classified in the European Commission Fleet Register as a gillnet (GNS), that are anchored to the seabed at one side, fall within the definition of static nets.
+
+( 22 ) Semi-driftnets, classified in the European Commission Fleet Register as a gillnet (GNS), that are anchored to the seabed at one side, fall within the definition of static nets.
+
+( 23 ) According to official nautical charts No 2920 and 2921 published by the German Maritime Authority [BSH- Bundesamt für Seeschifffahrt und Hydrographie].
+
+( 24 ) According to official nautical charts No 2920 and 2921 published by the German Maritime Authority [BSH- Bundesamt für Seeschifffahrt und Hydrographie].
+
+( 25 ) Species of the family Delphinidae and the family Phocoenidae that are present (permanently or temporally) in ICES subarea 8.

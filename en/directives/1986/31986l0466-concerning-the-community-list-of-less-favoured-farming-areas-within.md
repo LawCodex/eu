@@ -34,11 +34,13 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 16 October 1989</td><td> L 308</td><td>23</td><td>25.10.1989</td></tr>
 <tr><td></td><td>Council Directive 91/465/EEC of 22 July 1991</td><td> L 251</td><td>1</td><td>7.9.1991</td></tr>
 <tr><td></td><td>Commission Decision of 18 April 1997</td><td> L 130</td><td>14</td><td>22.5.1997</td></tr>
+</table>
 
 Corrected by:
 

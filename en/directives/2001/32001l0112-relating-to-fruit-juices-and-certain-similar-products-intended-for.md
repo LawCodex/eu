@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **relating to fruit juices and certain similar products intended for human consumption**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL REGULATION (EC) No 1182/2007 of 26 September 2007 </td><td> L 273</td><td>1</td><td>17.10.2007</td></tr>
@@ -30,6 +31,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE 2012/12/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 April 2012 </td><td> L 115</td><td>1</td><td>27.4.2012</td></tr>
 <tr><td> M5</td><td> COMMISSION DELEGATED REGULATION (EU) No 1040/2014 of 25 July 2014 </td><td> L 288</td><td>1</td><td>2.10.2014</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1438 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1438</td><td>1</td><td>24.5.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2001/112/EC**
 
@@ -387,6 +389,7 @@ II. Particular designations that may be used in one or more of the official lang
 
 **SPECIAL PROVISIONS RELATING TO FRUIT NECTARS**
 
+<table>
 <tbody><tr><td>Fruit nectars made from</td><td>Minimum juice and/or purée content (% by volume of finished product)</td></tr>
 <tr><td colspan="2">I. Fruits with acidic juice unpalatable in the natural state</td></tr>
 <tr><td>Passion fruit</td><td>25 </td></tr>
@@ -439,11 +442,13 @@ II. Particular designations that may be used in one or more of the official lang
 <tr><td>Tomatoes</td><td>50 </td></tr>
 <tr><td>Other fruits belonging to this category</td><td>50 </td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 
 **MINIMUM BRIX LEVELS FOR RECONSTITUTED FRUIT JUICE AND RECONSTITUTED FRUIT PURÉE**
 
+<table>
 <tbody><tr><td>Common Name of the Fruit</td><td>Botanical Name</td><td>Minimum Brix levels</td></tr>
 <tr><td>Apple (*)</td><td>Malus domestica Borkh.</td><td>11,2 </td></tr>
 <tr><td>Apricot (**)</td><td>Prunus armeniaca L.</td><td>11,2 </td></tr>
@@ -469,6 +474,7 @@ II. Particular designations that may be used in one or more of the official lang
 <tr><td>Mandarin (*)</td><td>Citrus reticulata Blanco</td><td>11,2 </td></tr>
 <tr><td colspan="3">For those products marked with an asterisk (*), which are produced as a juice, a minimum relative density is determined as such in relation to water at 20/20 °C. For those products marked with two asterisks (**), which are produced as a purée, only a minimum uncorrected Brix reading (without correction of acid) is determined. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 31, 1.2.2002, p. 1.
 

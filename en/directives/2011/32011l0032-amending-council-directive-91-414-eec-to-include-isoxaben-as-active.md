@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘341</td><td>Isoxaben CAS No: 82558-50-7  CIPAC No: 701 </td><td>N-[3-(1-ethyl-1-methylpropyl)-1,2-oxazol-5-yl]-2,6-dimethoxybenzamide</td><td>≥ 910 g/kg Toluene: ≤ 3g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as herbicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI the conclusions of the review report on isoxaben, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 January 2011, shall be taken into account.  In this overall assessment Member States shall pay particular attention to the risk to aquatic organisms, the risk to non-target terrestrial plants and the potential leaching of metabolites to groundwater.  Conditions of use shall include risk mitigation measures, where appropriate.  The Member States concerned shall request the submission of confirmatory information as regards: <table><tbody><tr><td>(a)</td><td>the specification of the technical material, as commercially manufactured;</td></tr>
 </tbody>
@@ -139,5 +140,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (a) and (b) within 6 months from the entry into force of the Directive of inclusion and the information set out in points (c) and (d) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

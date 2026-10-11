@@ -1,0 +1,429 @@
+---
+title: "Commission Implementing Regulation (EU) No 1081/2012 of 9 November 2012 for the purposes of Council Regulation (EC) No 116/2009 on the export of cultural goods (codification)"
+identifier: "32012R1081"
+eli: "http://data.europa.eu/eli/reg_impl/2012/1081/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-11-09
+entry_into_force: 2012-02-20
+last_amended: 2012-12-12
+consolidated_version: "02012R1081-20121212"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R1081-20121212"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1081/2012 of 9 November 2012 for the purposes of Council Regulation (EC) No 116/2009 on the export of cultural goods (codification)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1081/2012**
+
+**of 9 November 2012**
+
+**for the purposes of Council Regulation (EC) No 116/2009 on the export of cultural goods**
+
+**(codification)**
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1081/2012**
+
+**of 9 November 2012**
+
+**for the purposes of Council Regulation (EC) No 116/2009 on the export of cultural goods**
+
+**(codification)**
+
+## SECTION I — FORM OF LICENCE
+
+### Article 1
+
+1\. There shall be three types of licences for the export of cultural goods which shall be issued and used in accordance with Regulation (EC) No 116/2009 and with this Regulation:
+
+(a) the standard licence;
+
+(b) the specific open licence;
+
+(c) the general open licence.
+
+2\. The use of export licences shall in no way affect obligations connected with export formalities or related documents.
+
+3\. Export licence forms shall be provided on request by the competent authority or authorities referred to in Article 2(2) of Regulation (EC) No 116/2009.
+
+### Article 2
+
+1\. A standard licence shall normally be used for each export subject to Regulation (EC) No 116/2009.
+
+However, each individual Member State concerned may decide whether or not it wishes to issue any specific or general open licences which may be used instead if the specific conditions relating to them are fulfilled as set out in Articles 10 and 13.
+
+2\. A specific open licence shall cover the repeated temporary export of a specific cultural good by a particular person or organisation as set out in Article 10.
+
+3\. A general open licence shall cover any temporary export of any of those cultural goods that form part of the permanent collection of a museum or other institution, as set out in Article 13.
+
+4\. A Member State may revoke any specific or general open licence at any time if the conditions under which it was issued are no longer met. It shall inform the Commission immediately if the licence issued is not recovered and could be used irregularly. The Commission shall immediately inform the other Member States.
+
+5\. Member States may introduce whatever reasonable measures they deem necessary in their national territory to monitor the use of their own open licences.
+
+## SECTION II — THE STANDARD LICENCE
+
+### Article 3
+
+1\. Standard licences shall be issued on the form, a model of which is set out in Annex I. The form shall be printed on white paper without mechanical pulp, dressed for writing purposes and weighing not less than 55 g/m2.
+
+2\. Forms shall measure 210 × 297 mm.
+
+3\. Forms shall be produced in printed or electronic form and filled out in an official language of the Union designated by the competent authorities of the issuing Member State.
+
+The competent authorities of the Member State in which the form is presented may ask for it to be translated into the language, or one of the official languages, of that Member State. In this case, the translation costs shall be met by the licence holder.
+
+4\. Member States shall be responsible:
+
+(a) for having the forms printed, bearing the printer’s name and address or identifying mark;
+
+(b) for taking any measure necessary in order to avoid the forging of forms. The means of identification adopted by Member States for this purpose shall be notified to the Commission, for communication to the competent authorities of the other Member States.
+
+5\. Forms shall preferably be filled in by mechanical or electronic means. However, the application may be filled in legibly by hand; in the latter case it shall be written in ink and in block capitals.
+
+Whatever the process used, forms shall not contain erasures, overwritten words or other alterations.
+
+### Article 4
+
+1\. Without prejudice to paragraph 3, a separate export licence shall be issued for each consignment of cultural goods.
+
+2\. For the purposes of paragraph 1, a consignment shall mean either a single cultural object or a number of cultural objects.
+
+3\. Where a consignment consists of a number of cultural objects, it is for the competent authorities to determine whether one or several export licences should be issued for the consignment in question.
+
+### Article 5
+
+The form shall comprise three sheets:
+
+(a) one sheet, marked as No 1, which shall constitute the application;
+
+(b) one sheet, marked as No 2, for the holder;
+
+(c) one sheet, marked as No 3, which shall be returned to the issuing authority.
+
+### Article 6
+
+1\. The applicant shall complete boxes 1, 3, 6 to 21, 24 and, if necessary, 25 of the application and the other sheets, except where pre-printing of the box or boxes is authorised.
+
+However, Member States may provide that only the application need be completed.
+
+2\. The application shall be accompanied by:
+
+(a) documentation providing all relevant information on the cultural object(s) and its (their) legal status at the time when the application is made, by means of any supporting documents (invoices, expert appraisals, etc.) where appropriate;
+
+(b) a duly authenticated photograph or, where appropriate and at the discretion of the competent authorities, photographs in black and white or in colour (measuring at least 8 cm by 12 cm) of the cultural goods in question.
+
+This requirement may be replaced, where appropriate and at the discretion of the competent authorities, by a detailed list of the cultural goods.
+
+3\. The competent authorities may require, for the purposes of issuing an export licence, the physical presentation of the cultural goods to be exported.
+
+4\. Any costs incurred by the application of paragraphs 2 and 3 shall be met by the applicant requesting the export licence.
+
+5\. In order that an export licence may be granted, the duly completed form shall be presented to the competent authorities designated by the Member States pursuant to Article 2(2) of Regulation (EC) No 116/2009. When the authority has granted the export licence, sheet 1 shall be kept by that authority and the remaining sheets shall be returned to the holder of the export licence or to his authorised representative.
+
+### Article 7
+
+The following shall be presented in support of the export declaration:
+
+(a) the sheet for the holder;
+
+(b) the sheet to be returned to the issuing authority.
+
+### Article 8
+
+1\. The customs office responsible for handling the export declaration shall ensure that the entries on the export declaration or, if applicable, the ATA carnet, correspond to the entries on the export licence and that a reference to the export licence is entered in box 44 of the export declaration or on the counterfoil of the ATA carnet.
+
+It shall take suitable measures for identification purposes. The measures may consist in the affixation of a seal or stamp of the customs office. The sheet of the export licence form which is to be returned to the issuing authority shall be attached to copy 3 of the single administrative document.
+
+2\. After completing box 23 in sheets 2 and 3, the customs office authorised to accept the export declaration shall return to the declarant or to his/her authorised representative the sheet intended for the holder.
+
+3\. The sheet of the licence form, which is to be returned to the issuing authority, must accompany the consignment to the customs office at the point of exit from the customs territory of the Union.
+
+The customs office shall affix its stamp to box 26 of the form and return it to the issuing authority.
+
+### Article 9
+
+1\. The period of validity of export licences shall not exceed 12 months from the date of issue.
+
+2\. In the case of an application for temporary exportation, the competent authorities may specify the time limit within which the cultural goods must be reimported into the issuing Member State.
+
+3\. Where an export licence expires without having been used, the holder shall immediately return to the issuing authority the sheets in his possession.
+
+## SECTION III — SPECIFIC OPEN LICENCES
+
+### Article 10
+
+1\. Specific open licences may be issued for a specific cultural good which is liable to be temporarily exported from the Union on a regular basis for use and/or exhibition in a third country. The cultural good must be owned by, or be in the legitimate possession of, the particular person or organisation that uses and/or exhibits the good.
+
+2\. A licence may only be issued provided the authorities are convinced that the person or organisation concerned offers all the guarantees considered necessary for the good to be returned in good condition to the Union and that the good can be so described or marked that there will be no doubt at the moment of temporary export that the good being exported is that described in the specific open licence.
+
+3\. A licence may not be valid for a period that exceeds five years.
+
+### Article 11
+
+The licence shall be presented in support of a written export declaration or be available in other cases for production with the cultural goods for examination upon request.
+
+The competent authorities of the Member State in which the licence is presented may ask for it to be translated into the language, or one of the official languages, of that Member State. In that case, the translation costs shall be met by the licence holder.
+
+### Article 12
+
+1\. The customs office authorised to accept the export declaration shall ensure that the goods presented are those described on the export licence and that a reference is made to that licence in box 44 of the export declaration if a written declaration is required.
+
+2\. If a written declaration is required then the licence must be attached to copy 3 of the single administrative document and accompany the good to the customs office at the point of exit from the customs territory of the Union. Where copy 3 of the single administrative document is made available to the exporter or his representative, the licence shall also be made available to him for use on a subsequent occasion.
+
+## SECTION IV — GENERAL OPEN LICENCES
+
+### Article 13
+
+1\. General open licences may be issued to museums or other institutions to cover the temporary export of any of the goods that belong to their permanent collection that are liable to be temporarily exported from the Union on a regular basis for exhibition in a third country.
+
+2\. A licence may only be issued if the competent authorities are convinced that the institution offers all the guarantees considered necessary for the good to be returned in good condition to the Union. The licence may be used to cover any combination of goods in the permanent collection at any one occasion of temporary export. It may be used to cover a series of different combinations of goods either consecutively or concurrently.
+
+3\. A licence may not be valid for a period that exceeds five years.
+
+### Article 14
+
+The licence shall be presented in support of the export declaration.
+
+The competent authorities of the Member State in which the licence is presented may ask for it to be translated into the language, or one of the official languages, of that Member State. In that case, the translation costs shall be met by the licence holder.
+
+### Article 15
+
+1\. The customs office authorised to accept the export declaration shall ensure that the licence is presented together with a list of the goods being exported and which are also described in the export declaration. The list shall be on the headed paper of the institution and each page shall be signed by one of the persons from the institution and named on the licence. Each page shall also be stamped with the stamp of the institution as placed on the licence. A reference to the licence must be made in box 44 of the export declaration.
+
+2\. The licence shall be attached to copy 3 of the single administrative document and must accompany the consignment to the customs office at the point of exit from the customs territory of the Union. Where copy 3 of the single administrative document is made available to the exporter or his representative the licence shall also be made available to him for use on a subsequent occasion.
+
+## SECTION V — FORMS FOR THE OPEN LICENCES
+
+### Article 16
+
+1\. Specific open licences shall be issued on the form, a model of which is set out in Annex II.
+
+2\. General open licences shall be issued on the form, a model of which is set out in Annex III.
+
+3\. The licence form shall be produced in printed or electronic form in one or more of the official languages of the Union.
+
+4\. The licence shall measure 210 × 297 mm. A tolerance of up to minus 5 mm or plus 8 mm in the length shall be allowed.
+
+The paper used shall be white, free of mechanical pulp, dressed for writing purposes and weigh at least 55 g/m2. It shall have a printed guilloche pattern background in light blue such as to reveal any falsification by mechanical or chemical means.
+
+5\. The second sheet of the licence, which shall not have a guilloche pattern background, is for the exporter’s own use or records only.
+
+The application form to be used shall be prescribed by the Member State concerned.
+
+6\. Member States may reserve the right to print the licence forms or may have them printed by approved printers. In the latter case, each form must bear a reference to such approval.
+
+Each form must bear the name and address of the printer or a mark by which the printer can be identified. It shall also bear a serial number, either printed or stamped, by which it can be identified.
+
+7\. Member States shall be responsible for taking any measure necessary in order to avoid the forging of licences.
+
+The means of identification adopted by Member States for this purpose shall be notified to the Commission, for communication to the competent authorities of the other Member States.
+
+8\. Licences shall be made out by mechanical or electronic means. In exceptional circumstances they may be made out by black ball point pen in block capitals.
+
+They shall not contain erasures, overwritten words or other alterations.
+
+## SECTION VI — FINAL PROVISIONS
+
+### Article 17
+
+Regulation (EEC) No 752/93 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex V.
+
+### Article 18
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Model standard export licence form**
+
+**EXPLANATORY NOTES**
+
+**1\. General**
+
+1.1. Licences are required for the export of cultural goods to protect the cultural heritage of the Member States pursuant to Regulation (EC) No 116/2009.
+
+Implementing Regulation (EU) No 1081/2012 sets out the form in which standard export licences are to be drawn up. It is intended to guarantee standardised checks on the export of cultural goods outside the borders of the Union.
+
+Two other types of export licence are provided for, namely:
+
+— specific open licences, to be issued for specific cultural goods which are liable to be temporarily exported from the Union on a regular basis for use and/or exhibition in a third country,
+
+— general open licences, to be issued to museums or other institutions to cover the temporary export of any of the goods that belong to their permanent collections that are liable to be temporarily exported from the Union on a regular basis for exhibition in a third country.
+
+1.2. The three sheets of the standard export licence form must be completed legibly and indelibly, preferably by mechanical or electronic means. If they are handwritten, they must be completed in ink and in capital letters. They must under no circumstances contain erasures, overwritten words or other alterations.
+
+1.3. Any unused box must be lined crossed out so that nothing can be added.
+
+The sheets can be identified by their numbering and function, indicated in the left-hand margin. Their order in the set is as follows:
+
+— Sheet No 1 : application to be kept by the issuing authority (indicate in each Member State the identity of that authority); in the case of additional lists, as many sheets No 1 as necessary must be used; it is up to the competent issuing authorities to establish whether more than one export licence should be issued,
+
+— Sheet No 2 : to be presented in support of the export declaration at the competent customs office of export and kept by the licence holder after it has been stamped by that office,
+
+— Sheet No 3 : to be presented at the competent customs office of export and to accompany the consignment thereafter until its arrival at the customs office of exit from the customs territory of the Union; the customs office of exit stamps this sheet and then returns it to the issuing authority.
+
+**2\. Headings**
+
+Box 1: Applicant: Name of individual or company and full residential address or address of company headquarters
+
+Box 2: Export licence: For completion by competent authorities
+
+Box 3: Consignee: Name and full address of consignee, including the third country to which the good is being permanently or temporarily exported
+
+Box 4: Indicate whether export is permanent or temporary
+
+Box 5: Issuing authority: Name of the competent authority and the Member State issuing the authorisation
+
+Box 6: Applicant’s representative: To be completed only where the applicant is using an authorised representative
+
+Box 7: Owner of the object(s): Name and address
+
+Box 8: Description in terms of Annex I to Regulation (EC) No 116/2009. Category(ies) of cultural good(s): These goods are classified in categories numbered 1 to 15. Enter only the corresponding number.
+
+Box 9: Description of the cultural good(s): State the exact nature of the good(s) (for example painting, sculpture, bas-relief, negative matrix or positive copy in the case of films, furniture or objects, musical instruments) and give an objective description of the appearance of the good(s).
+
+— For category 13 objects: state the type of collection and/or geographical origin.
+
+— For scientific collections and specimens: give the scientific name.
+
+— For archaeological collections composed of a large number of objects: it is enough to give a generic description, which should be accompanied by an attestation or certificate issued by the scientific or archaeological body or institution and a list of the objects.
+
+If there is not enough room to describe all the objects, the applicant must add any extra pages needed.
+
+Box 10: CN code: As an indicator, state Combined Nomenclature code.
+
+Box 11: Number/quantity: State the number of items, particularly where they form a set.
+
+In the case of films, indicate the number of reels, format and length.
+
+Box 12: Value in national currency: State the value of the good(s) in national currency.
+
+Box 13: Purpose of export of the cultural good(s)/reason for which the licence is requested: State whether the good to be exported has been sold or is intended to be sold, exhibited, valued, repaired or put to any other use, and whether its return is compulsory.
+
+Box 14: Title or subject: If the work does not have an exact name, indicate its subject with a summary of the appearance of the object or, in the case of films, the subject.
+
+For scientific instruments or other objects for which it is not possible to specify a title or subject, it is sufficient to complete box 9.
+
+Box 15: Measurements: Measurements (in centimetres) of the good(s) and any supports.
+
+In the case of complex or unusual shapes, indicate the measurements in this order: H x L x D (height, width, depth).
+
+Box 16: Dating: Where no precise date is known, indicate the century and part of the century (first quarter, first half) or millennium (categories 1 to 7).
+
+For antique goods to which age specifications apply (more than 50 or 100 years old or between 50 and 100 years old), and for which it is not sufficient to indicate the century, specify a year, even if approximate (for example around 1890, approximately 1950).
+
+For films, if date not known, specify decade.
+
+In the case of sets (archives and libraries), indicate earliest and latest dates.
+
+Box 17: Other characteristics: Give any other information on formal aspects that could be useful for identification, for example historical antecedents, conditions of execution, former owners, state of preservation and restoration, bibliography, electronic code or marking.
+
+Box 18: Documents submitted/specific indications relating to identification: Indicate with crosses in the appropriate squares.
+
+Box 19: Artist, period, workshop and/or style: Give the artist’s name if known and recorded. If the works are collaborative products or copies, indicate the artists or the artist copied, if known. If the work is only attributed to a single artist, enter ‘Attributed to […]’.
+
+If the artist is not known, state the workshop, school or style (for example workshop of Velazquez, Venetian school, Ming period, Louis XV-style or Victorian-style).
+
+In the case of printed matter, state the name of the publisher, the place and the year of publication.
+
+Box 20: Medium or technique: The information given in this box must be as precise as possible. Indicate the materials used and specify the technique employed (for example oil painting, woodcuts, charcoal or pencil drawing, lost wax casting, nitrate film, etc.).
+
+Box 21 (sheet 1): Application: Must be completed by the applicant or his/her representative, who must vouch for the correctness of the information supplied in the application and supporting documents.
+
+Box 22: Signature and stamp of issuing authority: To be entered by the competent authority, with place and date, on the three sheets of the licence.
+
+Box 23 (sheets 2 and 3): For completion by customs office of export: To be entered by the customs office where the export transactions are carried out and the export licence is presented.
+
+‘Customs office of export’ means the office where the export declaration is submitted and export formalities are carried out.
+
+Box 24: Photograph(s) of the cultural good(s): A colour photograph (at least 9 x 12 cm) must be attached with glue. To facilitate the identification of three-dimensional objects, photographs may be required of the different facets.
+
+The competent authority must endorse the photograph with a signature and the stamp of the issuing authority.
+
+The competent authorities may require other photographs.
+
+Box 25: Supplementary pages: State the number of additional pages used, if any.
+
+Box 26 (sheets 2 and 3): Customs office of exit: To be completed by the customs office of exit.
+
+‘Customs office of exit’ means the last customs office before the goods leave the customs territory of the Union.
+
+## ANNEX II
+
+**Model of form for specific open licences and sheets thereof**
+
+## ANNEX III
+
+**Model of form for general open licences and sheets thereof**
+
+## ANNEX IV
+
+**Repealed Regulation with list of its successive amendments**
+
+| Commission Regulation (EEC) No 752/93 | (OJ L 77, 31.3.1993, p. 24). |
+| --- | --- |
+| Commission Regulation (EC) No 1526/98 | (OJ L 201, 17.7.1998, p. 47). |
+| Commission Regulation (EC) No 656/2004 | (OJ L 104, 8.4.2004, p. 50). |
+
+## ANNEX V
+
+**Correlation Table**
+
+| Regulation (EEC) No 752/93 | This Regulation |
+| --- | --- |
+| Article 1(1) introductory phrase | Article 1(1) introductory phrase |
+| Article 1(1), first, second and third indent | Article 1(1) points (a), (b) and (c) |
+| Article 1(2) and (3) | Article 1(2) and (3) |
+| Article 2(1) first sentence | Article 2(1) first subparagraph |
+| Article 2(1) second sentence | Article 2(1) second subparagraph |
+| Article 2(2) to (5) | Article 2(2) to (5) |
+| Article 3(1) and (2) | Article 3(1) and (2) |
+| Article 3(3) first sentence | Article 3(3) first subparagraph |
+| Article 3(3) second and third sentence | Article 3(3) second subparagraph |
+| Article 3(4) introductory words | Article 3(4) introductory words |
+| Article 3(4) first and second indent | Article 3(4) points (a) and (b) |
+| Article 3(5) first and second sentence | Article 3(5) first subparagraph |
+| Article 3(5) third sentence | Article 3(5) second subparagraph |
+| Article 4 | Article 4 |
+| Article 5 introductory words | Article 5 introductory words |
+| Article 5 first, second and third indent | Article 5 points (a), (b) and (c) |
+| Article 6(1) first sentence | Article 6(1) first subparagraph |
+| Article 6(1) second sentence | Article 6(1) second subparagraph |
+| Article 6(2) introductory words | Article 6(2) introductory words |
+| Article 6(2) first and second indent | Article 6(2) points (a) and (b) |
+| Article 6(3), (4) and (5) | Article 6(3), (4) and (5) |
+| Article 7 introductory phrase | Article 7 introductory phrase |
+| Article 7 first and second indent | Article 7 points (a) and (b) |
+| Article 8(1) and (2) | Article 8(1) and (2) |
+| Article 8(3) first sentence | Article 8(3) first subparagraph |
+| Article 8(3) second sentence | Article 8(3) second subparagraph |
+| Article 9 | Article 9 |
+| Articles 10 to 15 | Articles 10 to 15 |
+| Article 16(1), (2) and (3) | Article 16(1), (2) and (3) |
+| Article 16(4) first and second sentence | Article 16(4) first subparagraph |
+| Article 16(4) third and fourth sentence | Article 16(4) second subparagraph |
+| Article 16(5) | Article 16(5) |
+| Article 16(6) first and second sentence | Article 16(6) first subparagraph |
+| Article 16(6) third and fourth sentence | Article 16(6) second subparagraph |
+| Article 16(7) first sentence | Article 16(7) first subparagraph |
+| Article 16(7) second sentence | Article 16(7) second subparagraph |
+| Article 16(8) first and second sentence | Article 16(8) first subparagraph |
+| Article 16(8) third sentence | Article 16(8) second subparagraph |
+| — | Article 17 |
+| Article 17 | Article 18 |
+| Annexes I, II and III | Annexes I, II and III |
+| — | Annex IV |
+| — | Annex V |
+
+( 1 ) OJ L 39, 10.2.2009, p. 1.
+
+( 2 ) OJ L 77, 31.3.1993, p. 24.
+
+( 3 ) See Annex IV.

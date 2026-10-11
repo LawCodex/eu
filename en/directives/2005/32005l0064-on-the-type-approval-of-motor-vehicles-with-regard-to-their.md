@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability and amending Council Directive 70/156/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE 2009/1/EC Text with EEA relevance of 7 January 2009</td><td> L 9</td><td>31</td><td>14.1.2009</td></tr>
+</table>
 
 **DIRECTIVE 2005/64/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -519,10 +521,12 @@ Directive 70/156/EEC is amended as follows:
 
 the following item shall be added in Part I of Annex IV:
 
+<table>
 <tbody><tr><td rowspan="2">Subject</td><td rowspan="2">Directive No</td><td rowspan="2">Official Journal reference</td><td colspan="10">Applicability</td></tr>
 <tr><td>M1</td><td>M2</td><td>M3</td><td>N1</td><td>N2</td><td>N3</td><td>O1</td><td>O2</td><td>O3</td><td>O4</td></tr>
 <tr><td>‘59. Recyclability</td><td>2005/64/EC</td><td>L 310, 25 November 2005, p. 10</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>  </td><td>  </td><td>  </td><td>’</td></tr>
 </tbody>
+</table>
 
 3.
 

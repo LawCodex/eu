@@ -83,6 +83,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 6(a) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘6(a)</td><td>Lead as an alloying element in steel for machining purposes and in galvanised steel containing up to 0,35 % lead by weight</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments;</td></tr>
 </tbody>
 </table>
@@ -95,3 +96,4 @@ In Annex III to Directive 2011/65/EU, point 6(a) is replaced by the following:
 </td></tr>
 <tr><td>6(a)-I</td><td>Lead as an alloying element in steel for machining purposes containing up to 0,35 % lead by weight and in batch hot dip galvanised steel components containing up to 0,2 % lead by weight</td><td>Expires on 21 July 2021 for categories 1-7 and 10.’</td></tr>
 </tbody>
+</table>

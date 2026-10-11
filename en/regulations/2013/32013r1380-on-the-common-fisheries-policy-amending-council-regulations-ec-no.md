@@ -1,0 +1,1389 @@
+---
+title: "Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC"
+identifier: "32013R1380"
+eli: "http://data.europa.eu/eli/reg/2013/1380/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-12-11
+entry_into_force: 2013-11-27
+last_amended: 2023-01-01
+consolidated_version: "02013R1380-20230101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1380-20230101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC
+
+**REGULATION (EU) No 1380/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2013**
+
+**on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 1385/2013 of 17 December 2013 </td><td> L 354</td><td>86</td><td>28.12.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2015/812 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2015 </td><td> L 133</td><td>1</td><td>29.5.2015</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/2092 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 November 2017 </td><td> L 302</td><td>1</td><td>17.11.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1241 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>105</td><td>25.7.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2495 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 325</td><td>1</td><td>20.12.2022</td></tr>
+</table>
+
+**REGULATION (EU) No 1380/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2013**
+
+**on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC**
+
+## PART I — GENERAL PROVISIONS
+
+#### Article 1 — Scope
+
+1\. The Common Fisheries Policy (CFP) shall cover:
+
+(a) the conservation of marine biological resources and the management of fisheries and fleets exploiting such resources;
+
+(b) in relation to measures on markets and financial measures in support of the implementation of the CFP: fresh water biological resources, aquaculture, and the processing and marketing of fisheries and aquaculture products.
+
+2\. The CFP shall cover the activities referred to in paragraph 1 where they are carried out:
+
+(a) on the territory of Member States to which the Treaty applies;
+
+(b) in Union waters, including by fishing vessels flying the flag of, and registered in, third countries;
+
+(c) by Union fishing vessels outside Union waters; or
+
+(d) by nationals of Member States, without prejudice to the primary responsibility of the flag State.
+
+#### Article 2 — Objectives
+
+1\. The CFP shall ensure that fishing and aquaculture activities are environmentally sustainable in the long-term and are managed in a way that is consistent with the objectives of achieving economic, social and employment benefits, and of contributing to the availability of food supplies.
+
+2\. The CFP shall apply the precautionary approach to fisheries management, and shall aim to ensure that exploitation of living marine biological resources restores and maintains populations of harvested species above levels which can produce the maximum sustainable yield.
+
+In order to reach the objective of progressively restoring and maintaining populations of fish stocks above biomass levels capable of producing maximum sustainable yield, the maximum sustainable yield exploitation rate shall be achieved by 2015 where possible and, on a progressive, incremental basis at the latest by 2020 for all stocks.
+
+3\. The CFP shall implement the ecosystem-based approach to fisheries management so as to ensure that negative impacts of fishing activities on the marine ecosystem are minimised, and shall endeavour to ensure that aquaculture and fisheries activities avoid the degradation of the marine environment.
+
+4\. The CFP shall contribute to the collection of scientific data.
+
+5\. The CFP shall, in particular:
+
+(a) gradually eliminate discards, on a case-by-case basis, taking into account the best available scientific advice, by avoiding and reducing, as far as possible, unwanted catches, and by gradually ensuring that catches are landed;
+
+(b) where necessary, make the best use of unwanted catches, without creating a market for such of those catches that are below the minimum conservation reference size;
+
+(c) provide conditions for economically viable and competitive fishing capture and processing industry and land-based fishing related activity;
+
+(d) provide for measures to adjust the fishing capacity of the fleets to levels of fishing opportunities consistent with paragraph 2, with a view to having economically viable fleets without overexploiting marine biological resources;
+
+(e) promote the development of sustainable Union aquaculture activities to contribute to food supplies and security and employment;
+
+(f) contribute to a fair standard of living for those who depend on fishing activities, bearing in mind coastal fisheries and socio-economic aspects;
+
+(g) contribute to an efficient and transparent internal market for fisheries and aquaculture products and contribute to ensuring a level–playing field for fisheries and aquaculture products marketed in the Union;
+
+(h) take into account the interests of both consumers and producers;
+
+(i) promote coastal fishing activities, taking into account socio-economic aspects;
+
+(j) be coherent with the Union environmental legislation, in particular with the objective of achieving a good environmental status by 2020 as set out in Article 1(1) of Directive 2008/56/EC, as well as with other Union policies.
+
+#### Article 3 — Principles of good governance
+
+The CFP shall be guided by the following principles of good governance:
+
+(a) the clear definition of responsibilities at the Union, regional, national and local levels;
+
+(b) the taking into account of regional specificities, through a regionalised approach;
+
+(c) the establishment of measures in accordance with the best available scientific advice;
+
+(d) a long-term perspective;
+
+(e) administrative cost efficiency;
+
+(f) appropriate involvement of stakeholders, in particular Advisory Councils, at all stages - from conception to implementation of the measures;
+
+(g) the primary responsibility of the flag State;
+
+(h) consistency with other Union policies;
+
+(i) the use of impact assessments as appropriate;
+
+(j) coherence between the internal and external dimension of the CFP;
+
+(k) transparency of data handling in accordance with existing legal requirements, with due respect for private life, the protection of personal data and confidentiality rules; availability of data to the appropriate scientific bodies, other bodies with a scientific or management interest, and other defined end-users.
+
+#### Article 4 — Definitions
+
+1\. For the purpose of this Regulation the following definitions shall apply:
+
+(1) 'Union waters' means the waters under the sovereignty or jurisdiction of the Member States, with the exception of the waters adjacent to the territories listed in Annex II to the Treaty;
+
+(2) 'marine biological resources' means available and accessible living marine aquatic species, including anadromous and catadromous species during their marine life;
+
+(3) 'fresh water biological resources' means available and accessible living fresh water aquatic species;
+
+(4) 'fishing vessel' means any vessel equipped for commercial exploitation of marine biological resources or a blue fin tuna trap;
+
+(5) 'Union fishing vessel' means a fishing vessel flying the flag of a Member State and registered in the Union;
+
+(6) 'entry to the fishing fleet' means registration of a fishing vessel in the fishing vessel register of a Member State;
+
+(7) 'maximum sustainable yield' means the highest theoretical equilibrium yield that can be continuously taken on average from a stock under existing average environmental conditions without significantly affecting the reproduction process;
+
+(8) 'precautionary approach to fisheries management', as referred to in Article 6 of the UN Fish Stocks Agreement, means an approach according to which the absence of adequate scientific information should not justify postponing or failing to take management measures to conserve target species, associated or dependent species and non-target species and their environment;
+
+(9) 'ecosystem-based approach to fisheries management' means an integrated approach to managing fisheries within ecologically meaningful boundaries which seeks to manage the use of natural resources, taking account of fishing and other human activities, while preserving both the biological wealth and the biological processes necessary to safeguard the composition, structure and functioning of the habitats of the ecosystem affected, by taking into account the knowledge and uncertainties regarding biotic, abiotic and human components of ecosystems;
+
+(10) 'discards' means catches that are returned to the sea;
+
+(11) 'low impact fishing' means utilising selective fishing techniques which have a low detrimental impact on marine ecosystems or which may result in low fuel emissions, or both;
+
+(12) 'selective fishing' means fishing with fishing methods or fishing gears that target and capture organisms by size or species during the fishing operation, allowing non-target specimens to be avoided or released unharmed;
+
+(13) 'fishing mortality rate' means the rate at which biomass or individuals are removed from a stock by means of fishery activities over a given period;
+
+(14) 'stock' means a marine biological resource that occurs in a given management area;
+
+(15) 'catch limit' means, as appropriate, either a quantitative limit on catches of a fish stock or group of fish stocks over a given period where such fish stocks or group of fish stocks are subject to an obligation to land, or a quantitative limit on landings of a fish stock or group of fish stocks over a given period for which the obligation to land does not apply;
+
+(16) 'conservation reference point' means values of fish stock population parameters (such as biomass or fishing mortality rate) used in fisheries management, for example in respect of an acceptable level of biological risk or a desired level of yield;
+
+(17) 'minimum conservation reference size' means the size of a living marine aquatic species taking into account maturity, as established by Union law, below which restrictions or incentives apply that aim to avoid capture through fishing activity; such size replaces, where relevant, the minimum landing size;
+
+(18) 'stock within safe biological limits' means a stock with a high probability that its estimated spawning biomass at the end of the previous year is higher than the limit biomass reference point (Blim) and its estimated fishing mortality rate for the previous year is less than the limit fishing mortality rate reference point (Flim);
+
+(19) 'safeguard' means a precautionary measure designed to avoid something undesirable occurring;
+
+(20) 'technical measure' means a measure that regulates the composition of catches by species and size and the impacts on components of the ecosystems resulting from fishing activities by establishing conditions for the use and structure of fishing gear and restrictions on access to fishing areas;
+
+(21) 'fishing effort' means the product of the capacity and the activity of a fishing vessel; for a group of fishing vessels it is the sum of the fishing effort of all vessels in the group;
+
+(22) 'Member State having a direct management interest' means a Member State which has an interest consisting of either fishing opportunities or a fishery taking place in the exclusive economic zone of the Member State concerned, or, in the Mediterranean Sea, a traditional fishery on the high seas;
+
+(23) 'transferable fishing concession' means a revocable user entitlement to a specific part of fishing opportunities allocated to a Member State or established in a management plan adopted by a Member State in accordance with Article 19 of Council Regulation (EC) No 1967/2006 ( 1 ), which the holder may transfer;
+
+(24) 'fishing capacity' means a vessel's tonnage in GT (Gross Tonnage) and its power in kW (Kilowatt) as defined in Articles 4 and 5 of Council Regulation (EEC) No 2930/86 ( 2 );
+
+(25) 'aquaculture' means the rearing or cultivation of aquatic organisms using techniques designed to increase the production of the organisms in question beyond the natural capacity of the environment, where the organisms remain the property of a natural or legal person throughout the rearing and culture stage, up to and including harvesting;
+
+(26) 'fishing licence' means a licence as defined in point (9) of Article 4 of Council Regulation (EC) No 1224/2009 ( 3 );
+
+(27) 'fishing authorisation' means an authorisation as defined in point (10) of Article 4 of Regulation (EC) No 1224/2009;
+
+(28) 'fishing activity' means searching for fish, shooting, setting, towing, hauling of a fishing gear, taking catch on board, transhipping, retaining on board, processing on board, transferring, caging, fattening and landing of fish and fishery products;
+
+(29) 'fishery products' means aquatic organisms resulting from any fishing activity or products derived therefrom;
+
+(30) 'operator' means the natural or legal person who operates or holds any undertaking carrying out any of the activities related to any stage of production, processing, marketing, distribution and retail chains of fisheries and aquaculture products;
+
+(31) 'serious infringement' means an infringement that is defined as such in relevant Union law, including in Article 42(1) of Council Regulation (EC) No 1005/2008 ( 4 ) and in Article 90(1) of Regulation (EC) No 1224/2009;
+
+(32) 'end-user of scientific data' means a body with a research or management interest in the scientific analysis of data in the fisheries sector;
+
+(33) 'surplus of allowable catch' means that part of the allowable catch which a coastal State does not harvest, resulting in an overall exploitation rate for individual stocks that remains below levels at which stocks are capable of restoring themselves and maintaining populations of harvested species above desired levels based on the best available scientific advice;
+
+(34) 'aquaculture products' means aquatic organisms at any stage of their life cycle resulting from any aquaculture activity or products derived therefrom;
+
+(35) 'spawning stock biomass' means an estimate of the mass of the fish of a particular stock that reproduces at a defined time, including both males and females and fish that reproduce viviparously;
+
+(36) 'mixed fisheries' means fisheries in which more than one species is present and where different species are likely to be caught in the same fishing operation;
+
+(37) 'sustainable fisheries partnership agreement' means an international agreement concluded with a third state for the purpose of obtaining access to waters and resources in order to sustainably exploit a share of the surplus of marine biological resources, in exchange for financial compensation from the Union, which may include sectoral support.
+
+2\. For the purposes of this Regulation, the following geographical definitions of geographical areas shall apply:
+
+(a) 'North Sea' means ICES zones ( 5 ) IIIa and IV;
+
+(b) 'Baltic Sea' means ICES zones IIIb, IIIc and IIId;
+
+(c) 'North Western waters' means ICES zones V (excluding Va and only Union waters of Vb), VI and VII;
+
+(d) 'South Western waters' means ICES zones VIII, IX and X (waters around Azores), and CECAF zones ( 6 ) 34.1.1, 34.1.2 and 34.2.0 (waters around Madeira and the Canary Islands);
+
+(e) 'Mediterranean Sea' means Maritime Waters of the Mediterranean to the East of line 5°36′ West;
+
+(f) 'Black Sea' means the GFCM (General Fisheries Commission for the Mediterranean) geographical sub-area as defined in Resolution GFCM/33/2009/2.
+
+## PART II — ACCESS TO WATERS
+
+#### Article 5 — General rules on access to waters
+
+1\. Union fishing vessels shall have equal access to waters and resources in all Union waters other than those referred to in paragraphs 2 and 3, subject to the measures adopted under Part III.
+
+2\. In the waters up to 12 nautical miles from baselines under their sovereignty or jurisdiction, Member States shall be authorised, until 31 December 2032  , to restrict fishing to fishing vessels that traditionally fish in those waters from ports on the adjacent coast, without prejudice to the arrangements for Union fishing vessels flying the flag of other Member States under existing neighbourhood relations between Member States and the arrangements contained in Annex I, fixing for each Member State the geographical zones within the coastal bands of other Member States where fishing activities are pursued and the species concerned. Member States shall inform the Commission of the restrictions put in place under this paragraph.
+
+3\. In the waters up to 100 nautical miles from the baselines of the Union outermost regions referred to in the first paragraph of Article 349 of the Treaty, the Member States concerned shall be authorised, until 31 December 2032  , to restrict fishing to vessels registered in the ports of those territories. Such restrictions shall not apply to Union vessels that traditionally fish in those waters, in so far as those vessels do not exceed the fishing effort traditionally exerted. Member States shall inform the Commission of the restrictions put in place under this paragraph.
+
+4\. The measures which are to apply after the expiry of the arrangements set out in paragraphs 2 and 3 shall be adopted by 31 December 2032  .
+
+5\. The Commission shall report to the European Parliament and to the Council on the application of this Article by 30 June 2031.
+
+## PART III — MEASURES FOR THE CONSERVATION AND SUSTAINABLE EXPLOITATION OF MARINE BIOLOGICAL RESOURCES
+
+### TITLE I — Conservation measures
+
+#### Article 6 — General provisions
+
+1\. For the purpose of achieving the objectives of the CFP in respect of the conservation and sustainable exploitation of marine biological resources as set out in Article 2, the Union shall adopt conservation measures as set out in Article 7.
+
+2\. When applying this Regulation, the Commission shall consult the relevant advisory bodies and the relevant scientific bodies. Conservation measures shall be adopted taking into account available scientific, technical and economic advice, including, where relevant, reports drawn up by STECF and other advisory bodies, advice received from Advisory Councils and joint recommendations made by Member States pursuant to Article 18.
+
+3\. Member States may cooperate with one another for the purpose of adopting measures pursuant to Articles 11, 15 and 18.
+
+4\. Member States shall coordinate with one another before adopting national measures pursuant to Article 20(2).
+
+5\. In specific cases, in particular as regards the Mediterranean region, Member States may be empowered to adopt legally binding acts in the area of the CFP, including conservation measures. Article 18 shall apply, where appropriate.
+
+#### Article 7 — Types of conservation measures
+
+1\. Measures for the conservation and sustainable exploitation of marine biological resources may include, inter alia, the following:
+
+(a) multiannual plans under Articles 9 and 10;
+
+(b) targets for the conservation and sustainable exploitation of stocks and related measures to minimise the impact of fishing on the marine environment;
+
+(c) measures to adapt the fishing capacity of fishing vessels to available fishing opportunities;
+
+(d) incentives, including those of an economic nature, such as fishing opportunities, to promote fishing methods that contribute to more selective fishing, to the avoidance and reduction, as far as possible, of unwanted catches, and to fishing with low impact on the marine ecosystem and fishery resources;
+
+(e) measures on the fixing and allocation of fishing opportunities;
+
+(f) measures to achieve the objectives of Article 15;
+
+(g) minimum conservation reference sizes;
+
+(h) pilot projects on alternative types of fishing management techniques and on gears that increase selectivity or that minimise the negative impact of fishing activities on the marine environment;
+
+(i) measures necessary for compliance with obligations under Union environmental legislation adopted pursuant to Article 11;
+
+(j) technical measures as referred to in paragraph 2.
+
+2\. Technical measures may include, inter alia, the following:
+
+(a) characteristics of fishing gears and rules concerning their use;
+
+(b) specifications on the construction of fishing gear, including:
+
+(i) modifications or additional devices to improve selectivity or to minimise the negative impact on the ecosystem;
+
+(ii) modifications or additional devices to reduce the incidental capture of endangered, threatened and protected species, as well as to reduce other unwanted catches;
+
+(c) limitations or prohibitions on the use of certain fishing gears, and on fishing activities, in certain areas or periods;
+
+(d) requirements for fishing vessels to cease operating in a defined area for a defined minimum period in order to protect temporary aggregations of endangered species, spawning fish, fish below minimum conservation reference size, and other vulnerable marine resources;
+
+(e) specific measures to minimise the negative impact of fishing activities on marine biodiversity and marine ecosystems, including measures to avoid and reduce, as far as possible, unwanted catches.
+
+#### Article 8 — Establishment of fish stock recovery areas
+
+1\. The Union shall, while taking due account of existing conservation areas, endeavour to establish protected areas due to their biological sensitivity, including areas where there is clear evidence of heavy concentrations of fish below minimum conservation reference size and of spawning grounds. In such areas fishing activities may be restricted or prohibited in order to contribute to the conservation of living aquatic resources and marine ecosystems. The Union shall continue to give additional protection to existing biologically sensitive areas.
+
+2\. For those purposes, Member States shall identify, where possible, suitable areas which may form part of a coherent network and shall prepare, where appropriate, joint recommendations in accordance with Article 18(7) with a view to the Commission submitting a proposal in accordance with the Treaty.
+
+3\. The Commission may be empowered in a multiannual plan to establish such biologically sensitive protected areas. Article 18(1) to (6) shall apply. The Commission shall report regularly to the European Parliament and to the Council on protected areas.
+
+### TITLE II — Specific measures
+
+#### Article 9 — Principles and objectives of multiannual plans
+
+1\. Multiannual plans shall be adopted as a priority, based on scientific, technical and economic advice, and shall contain conservation measures to restore and maintain fish stocks above levels capable of producing maximum sustainable yield in accordance with Article 2(2).
+
+2\. Where targets relating to the maximum sustainable yield as referred to in Article 2(2) cannot be determined, owing to insufficient data, the multiannual plans shall provide for measures based on the precautionary approach, ensuring at least a comparable degree of conservation of the relevant stocks.
+
+3\. Multiannual plans shall cover either:
+
+(a) single species; or
+
+(b) in the case of mixed fisheries or where the dynamics of stocks relate to one another, fisheries exploiting several stocks in a relevant geographical area, taking into account knowledge about the interactions between fish stocks, fisheries and marine ecosystems.
+
+4\. The measures to be included in multiannual plans, and the calendar for implementing them, shall be proportionate to the objectives and targets pursued and to the time-frame envisaged. Before measures are included in the multiannual plans, account shall be taken of their likely economic and social impact.
+
+5\. Multiannual plans may contain specific conservation objectives and measures based on the ecosystem approach in order to address the specific problems of mixed fisheries in relation to the achievement of the objectives set out in Article 2(2) for the mixture of stocks covered by the plan in cases where scientific advice indicates that increases in selectivity cannot be achieved. Where necessary, the multiannual plan shall include specific alternative conservation measures, based on the ecosystem approach, for some of the stocks that it covers.
+
+#### Article 10 — Content of multiannual plans
+
+1\. As appropriate and without prejudice to the respective competences under the Treaty, a multiannual plan shall include:
+
+(a) the scope, in terms of stocks, fishery and the area to which the multiannual plan shall be applied;
+
+(b) objectives that are consistent with the objectives set out in Article 2 and with the relevant provisions of Articles 6 and 9;
+
+(c) quantifiable targets such as fishing mortality rates and/or spawning stock biomass;
+
+(d) clear time-frames to reach the quantifiable targets;
+
+(e) conservation reference points consistent with the objectives set out in Article 2;
+
+(f) objectives for conservation and technical measures to be taken in order to achieve the targets set out in Article 15, and measures designed to avoid and reduce, as far as possible, unwanted catches;
+
+(g) safeguards to ensure that quantifiable targets are met, as well as remedial action, where needed, including for situations where the deteriorating quality of data or non-availability put the sustainability of the stock at risk.
+
+2\. A multiannual plan may also include:
+
+(a) other conservation measures, in particular measures to gradually eliminate discards, taking into account the best available scientific advice, or to minimise the negative impact of fishing on the ecosystem, to be further specified, where appropriate, in accordance with Article 18;
+
+(b) quantifiable indicators for periodic monitoring and assessment of progress in achieving the targets of the multiannual plan;
+
+(c) where appropriate, specific objectives for the freshwater part of the life cycle of anadromous and catadromous species.
+
+3\. A multiannual plan shall provide for its revision after an initial ex-post evaluation, in particular to take account of changes in scientific advice.
+
+#### Article 11 — Conservation measures necessary for compliance with obligations under Union environmental legislation
+
+1\. Member States are empowered to adopt conservation measures not affecting fishing vessels of other Member States that are applicable to waters under their sovereignty or jurisdiction and that are necessary for the purpose of complying with their obligations under Article 13(4) of Directive 2008/56/EC, Article 4 of Directive 2009/147/EC or Article 6 of Directive 92/43/EEC, provided that those measures are compatible with the objectives set out in Article 2 of this Regulation, meet the objectives of the relevant Union legislation that they intend to implement, and are at least as stringent as measures under Union law.
+
+2\. Where a Member State ("the initiating Member State") considers that measures need to be adopted for the purpose of complying with the obligations referred to in paragraph 1 and other Member States have a direct management interest in the fishery to be affected by such measures, the Commission shall be empowered to adopt such measures, upon request, by means of delegated acts in accordance with Article 46. For this purpose, Article 18(1) to (4) and (6) shall apply mutatis mutandis.
+
+3\. The initiating Member State shall provide the Commission and the other Member States having a direct management interest with relevant information on the measures required, including their rationale, scientific evidence in support and details on their practical implementation and enforcement. The initiating Member State and the other Member States having a direct management interest may submit a joint recommendation, as referred to in Article 18(1), within six months from the provision of sufficient information. The Commission shall adopt the measures, taking into account any available scientific advice, within three months from receipt of a complete request.
+
+If not all Member States succeed in agreeing on a joint recommendation to be submitted to the Commission in accordance with the first subparagraph within the deadline set therein, or if the joint recommendation is deemed not to be compatible with the requirements referred to in paragraph 1, the Commission may submit a proposal in accordance with the Treaty.
+
+4\. By way of derogation from paragraph 3, in the absence of a joint recommendation referred to in paragraph 3, in cases of urgency, the Commission shall adopt the measures. The measures to be adopted in a case of urgency shall be limited to those in the absence of which the achievement of the objectives associated with the establishment of the conservation measures in accordance with the Directives referred to in paragraph 1 and the Member State's intentions, is in jeopardy.
+
+5\. The measures referred to in paragraph 4 shall apply for a maximum period of 12 months which may be extended for a maximum period of 12 months where the conditions provided for in that paragraph continue to exist.
+
+6\. The Commission shall facilitate cooperation between the Member State concerned and the other Member States having a direct management interest in the fishery in the process of implementation and enforcement of the measures adopted under paragraphs 2, 3 and 4.
+
+#### Article 12 — Commission measures in case of a serious threat to marine biological resources
+
+1\. On duly justified imperative grounds of urgency relating to a serious threat to the conservation of marine biological resources or to the marine ecosystem based on evidence, the Commission, at the reasoned request of a Member State or on its own initiative, may, in order to alleviate that threat, adopt immediately applicable implementing acts applicable for a maximum period of six months in accordance with the procedure referred to in Article 47(3).
+
+2\. The Member State shall communicate the request referred to in paragraph 1 simultaneously to the Commission, to other Member States and to the Advisory Councils concerned. The other Member States and the Advisory Councils may submit their written comments within seven working days of the receipt of the notification. The Commission shall take a decision within 15 working days of the receipt of the request referred to in paragraph 1.
+
+3\. Before expiry of the initial period of application of immediately applicable implementing acts referred to in paragraph 1, the Commission may, where the conditions under paragraph 1 are complied with, adopt immediately applicable implementing acts extending the application of such emergency measure for a maximum period of six months with immediate effect. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 47(3).
+
+#### Article 13 — Member State emergency measures
+
+1\. On the basis of evidence of a serious threat to the conservation of marine biological resources or to the marine ecosystem relating to fishing activities in waters falling under the sovereignty or jurisdiction of a Member State that require immediate action, that Member State may adopt emergency measures to alleviate the threat. Such measures shall be compatible with the objectives set out in Article 2 and no less stringent than those provided for in Union law. Such measures shall apply for a maximum period of three months.
+
+2\. Where emergency measures to be adopted by a Member State are liable to affect fishing vessels of other Member States, such measures shall be adopted only after consulting the Commission, the relevant Member States and the relevant Advisory Councils on a draft of the measures accompanied by an explanatory memorandum. The consulting Member State may set a reasonable deadline for the consultation which shall, however, not be shorter than one month.
+
+3\. Where the Commission considers that a measure adopted under this Article does not comply with the conditions set out in paragraph 1, it may, subject to providing relevant reasons, request that the Member State concerned amend or repeal that measure.
+
+#### Article 14 — Avoidance and minimisation of unwanted catches
+
+1\. In order to facilitate the introduction of the obligation to land all catches in the respective fishery in accordance with Article 15 ("the landing obligation"), Member States may conduct pilot projects, based on the best available scientific advice and taking into account the opinions of the relevant Advisory Councils, with the aim of fully exploring all practicable methods for the avoidance, minimisation and elimination of unwanted catches in a fishery.
+
+2\. Member States may produce a "discard atlas" showing the level of discards in each of the fisheries which are covered by Article 15(1).
+
+#### Article 15 — Landing obligation
+
+1\. All catches of species which are subject to catch limits and, in the Mediterranean, also catches of species which are subject to minimum sizes as defined in Annex III to Regulation (EC) No 1967/2006, caught during fishing activities in Union waters or by Union fishing vessels outside Union waters in waters not subject to third countries' sovereignty or jurisdiction, in the fisheries and geographical areas listed below shall be brought and retained on board the fishing vessels, recorded, landed and counted against the quotas where applicable, except when used as live bait, in accordance with the following time-frames:
+
+(a) From 1 January 2015 at the latest:
+
+— small pelagic fisheries (i.e. fisheries for mackerel, herring, horse mackerel, blue whiting, boarfish, anchovy, argentine, sardine, sprat);
+
+— large pelagic fisheries (i.e. fisheries for bluefin tuna, swordfish, albacore tuna, bigeye tuna, blue and white marlin);
+
+— fisheries for industrial purposes (inter alia, fisheries for capelin, sandeel and Norwegian pout);
+
+— fisheries for salmon in the Baltic Sea.
+
+(b) From 1 January 2015 at the latest for species which define the fisheries and from 1 January 2017 at the latest for all other species in fisheries in Union waters of the Baltic Sea for species subject to catch limits other than those covered by point (a).
+
+(c) From 1 January 2016 at the latest for the species which define the fisheries and from 1 January 2019 at the latest for all other species in:
+
+(i) the North Sea
+
+— fisheries for cod, haddock, whiting, saithe;
+
+— fisheries for Norway lobster;
+
+— fisheries for common sole and plaice;
+
+— fisheries for hake;
+
+— fisheries for Northern prawn;
+
+(ii) North Western waters
+
+— fisheries for cod, haddock, whiting, saithe;
+
+— fisheries for Norway lobster;
+
+— fisheries for common sole and plaice;
+
+— fisheries for hake;
+
+(iii) South Western waters
+
+— fisheries for Norway lobster;
+
+— fisheries for common sole and plaice;
+
+— fisheries for hake;
+
+(iv) other fisheries for species subject to catch limits.
+
+(d) From 1 January 2017 at the latest for species which define the fisheries and from 1 January 2019 at the latest for all other species in fisheries not covered by point (a) in the Mediterranean, in the Black Sea and in all other Union waters and in non-Union waters not subject to third countries' sovereignty or jurisdiction.
+
+2\. Paragraph 1 shall be without prejudice to the Union's international obligations. The Commission shall be empowered to adopt delegated acts, in accordance with Article 46, for the purpose of implementing such international obligations into Union law, including, in particular, derogations from the landing obligation under this Article.
+
+3\. Where all the Member States having a direct management interest in a particular fishery agree that the landing obligation should apply to species other than those listed in paragraph 1, they may submit a joint recommendation for the purpose of extending the application of the landing obligation to such other species. For this purpose, Article 18(1) to (6) shall apply mutatis mutandis. Where such a joint recommendation is submitted, the Commission shall be empowered to adopt delegated acts, in accordance with Article 46, containing such measures.
+
+4\. The landing obligation referred to in paragraph 1 shall not apply to:
+
+(a) species in respect of which fishing is prohibited and which are identified as such in a Union legal act adopted in the area of the CFP;
+
+(b) species for which scientific evidence demonstrates high survival rates, taking into account the characteristics of the gear, of the fishing practices and of the ecosystem;
+
+(c) catches falling under de minimis exemptions;
+
+(d) fish which shows damage caused by predators.
+
+5\. Details of the implementation of the landing obligation referred to in paragraph 1 shall be specified in multiannual plans referred to in Articles 9 and 10 and, where relevant, further specified in accordance with Article 18, including:
+
+(a) specific provisions regarding fisheries or species covered by the landing obligation referred to in paragraph 1, such as the technical measures referred to in Article 7(2), aimed at increasing gear selectivity or reducing or, as far as possible, eliminating unwanted catches;
+
+(b) the specification of exemptions to the landing obligation of species referred to in point (b) of paragraph 4;
+
+(c) provisions for de minimis exemptions of up to 5 % of total annual catches of all species subject to the landing obligation referred to in paragraph 1. The de minimis exemption shall apply in the following cases:
+
+(i) where scientific evidence indicates that increases in selectivity are very difficult to achieve; or
+
+(ii) to avoid disproportionate costs of handling unwanted catches, for those fishing gears where unwanted catches per fishing gear do not represent more than a certain percentage, to be established in a plan, of total annual catch of that gear.
+
+Catches under the provisions referred to in this point shall not be counted against the relevant quotas; however, all such catches shall be fully recorded.
+
+For a transitional period of four years, the percentage of the total annual catches referred to in this point shall increase:
+
+(i) by two percentage points in the first two years of application of the landing obligation; and
+
+(ii) by one percentage point in the subsequent two years;
+
+(d) provisions on documentation of catches;
+
+(e) where appropriate, the fixing of minimum conservation reference sizes in accordance with paragraph 10.
+
+6\. Where no multiannual plan, or no management plan in accordance with Article 18 of Regulation (EC) No 1967/2006, is adopted for the fishery in question, the Commission shall be empowered to adopt, in accordance with Article 18 of this Regulation, delegated acts in accordance with Article 46 of this Regulation, laying down on a temporary basis specific discard plans containing the specifications referred to in points (a) to (e) of paragraph 5 of this Article for an initial period of no more than three years that may be renewed for a further total period of three years. Member States may cooperate, in accordance with Article 18 of this Regulation, in the drawing-up of such a plan with a view to the Commission adopting such acts or submitting a proposal in accordance with the ordinary legislative procedure.
+
+7\. Where no measures have been adopted for the purpose of specifying the de minimis exemption either in a multiannual plan in accordance with paragraph 5 or in a specific discard plan in accordance with paragraph 6, the Commission shall adopt delegated acts, in accordance with Article 46, setting the de minimis exemption referred to in point (c) of paragraph 4 which shall, subject to the conditions set out in point (c)(i) or (ii) of paragraph 5, amount to no more than 5 % of total annual catches of all species to which the landing obligation applies under paragraph 1. That de minimis exemption shall be adopted so as to apply from the date of application of the relevant landing obligation.
+
+8\. By way of derogation from the obligation to count catches against the relevant quotas in accordance with paragraph 1, catches of species that are subject to the landing obligation and that are caught in excess of quotas of the stocks in question, or catches of species in respect of which the Member State has no quota, may be deducted from the quota of the target species provided that they do not exceed 9 % of the quota of the target species. This provision shall only apply where the stock of the non-target species is within safe biological limits.
+
+9\. For stocks subject to the landing obligation, Member States may use a year-to-year flexibility of up to 10 % of their permitted landings. For this purpose, a Member State may allow landing of additional quantities of the stock that is subject to the landing obligation provided that such quantities do not exceed 10 % of the quota allocated to that Member State. Article 105 of Regulation (EC) No 1224/2009 shall apply.
+
+10\. Minimum conservation reference sizes may be established with the aim of ensuring the protection of juveniles of marine organisms.
+
+11\. For the species subject to the landing obligation as specified in paragraph 1, the use of catches of species below the minimum conservation reference size shall be restricted to purposes other than direct human consumption, including fish meal, fish oil, pet food, food additives, pharmaceuticals and cosmetics.
+
+12\. For species that are not subject to the landing obligation as specified in paragraph 1, the catches of species below the minimum conservation reference size shall not be retained on board, but shall be returned immediately to the sea, except when they are used as live bait.
+
+13\. For the purpose of monitoring compliance with the landing obligation, Member States shall ensure detailed and accurate documentation of all fishing trips and adequate capacity and means, such as observers, closed-circuit television (CCTV) and others. In doing so, Member States shall respect the principle of efficiency and proportionality.
+
+14\. By 31 May 2016, and by 31 May of each subsequent year up to and including 2020, the Commission shall submit to the European Parliament and to the Council an annual report on the implementation of the landing obligation, based on information transmitted by the Member States, the Advisory Councils and other relevant sources to the Commission.
+
+Annual reports shall include:
+
+— steps taken by Member States and producer organisations to comply with the landing obligation;
+
+— steps taken by Member States regarding control of compliance with the landing obligation;
+
+— information on the socioeconomic impact of the landing obligation;
+
+— information on the effect of the landing obligation on safety on board fishing vessels;
+
+— information on the use and outlets of catches below the minimum conservation reference size of a species subject to the landing obligation;
+
+— information on port infrastructures and of vessels' fitting with regard to the landing obligation;
+
+— for each fishery concerned, information on the difficulties encountered in the implementation of the landing obligation and recommendations to address them.
+
+#### Article 16 — Fishing opportunities
+
+1\. Fishing opportunities allocated to Member States shall ensure relative stability of fishing activities of each Member State for each fish stock or fishery. The interests of each Member State shall be taken into account when new fishing opportunities are allocated.
+
+2\. When the landing obligation in respect of a fish stock is introduced, fishing opportunities shall be fixed taking into account the change from fixing fishing opportunities that reflect landings to fixing fishing opportunities that reflect catches, on the basis of the fact that, for the first and subsequent years, discarding of that stock will no longer be allowed.
+
+3\. Where new scientific evidence shows that there is a significant disparity between the fishing opportunities that have been fixed for a specific stock and the actual state of that stock, Member States having a direct management interest may submit a reasoned request to the Commission for it to submit a proposal to alleviate that disparity, while respecting the objectives set out in Article 2(2).
+
+4\. Fishing opportunities shall be fixed in accordance with the objectives set out in Article 2(2) and shall comply with quantifiable targets, time-frames and margins established in accordance with Article 9(2) and points (b) and (c) of Article 10(1).
+
+5\. Measures on the fixing and allocation of fishing opportunities available to third countries in Union waters shall be established in accordance with the Treaty.
+
+6\. Each Member State shall decide how the fishing opportunities that are allocated to it, and which are not subject to a system of transferable fishing concessions, may be allocated to vessels flying its flag (e.g. by creating individual fishing opportunities). It shall inform the Commission of the allocation method.
+
+7\. For the allocation of fishing opportunities pertaining to mixed fisheries, Member States shall take account of the likely catch composition of vessels participating in such fisheries.
+
+8\. Member States may, after notifying the Commission, exchange all or part of the fishing opportunities allocated to them.
+
+#### Article 17 — Criteria for the allocation of fishing opportunities by Member States
+
+When allocating the fishing opportunities available to them, as referred to in Article 16, Member States shall use transparent and objective criteria including those of an environmental, social and economic nature. The criteria to be used may include, inter alia, the impact of fishing on the environment, the history of compliance, the contribution to the local economy and historic catch levels. Within the fishing opportunities allocated to them, Member States shall endeavour to provide incentives to fishing vessels deploying selective fishing gear or using fishing techniques with reduced environmental impact, such as reduced energy consumption or habitat damage.
+
+### TITLE III — Regionalisation
+
+#### Article 18 — Regional cooperation on conservation measures
+
+1\. Where the Commission has been granted powers, including in a multiannual plan established pursuant to Articles 9 and 10, as well as in cases provided for in Articles 11 and 15(6), to adopt measures by means of delegated or implementing acts in respect of a Union conservation measure applying to a relevant geographical area, Member States having a direct management interest affected by those measures may, within a deadline to be stipulated in the relevant conservation measure and/or multiannual plan, agree to submit joint recommendations for achieving the objectives of the relevant Union conservation measures, the multiannual plans or the specific discard plans. The Commission shall not adopt any such delegated or implementing acts before the expiry of the deadline for submission of joint recommendations by the Member States.
+
+2\. For the purpose of paragraph 1, Member States having a direct management interest affected by the measures referred to in paragraph 1 shall cooperate with one another in formulating joint recommendations. They shall also consult the relevant Advisory Councils. The Commission shall facilitate the cooperation between Member States, including, where necessary, by ensuring that a scientific contribution is obtained from the relevant scientific bodies.
+
+3\. Where a joint recommendation is submitted under paragraph 1, the Commission may adopt those measures by means of delegated or implementing acts, provided that such recommendation is compatible with the relevant conservation measure and/or multiannual plan.
+
+4\. Where the conservation measure applies to a specific fish stock shared with third countries and managed by multilateral fisheries organisations or under bilateral or multilateral agreements, the Union shall endeavour to agree with the relevant partners the measures that are necessary to achieve the objectives set out in Article 2.
+
+5\. Member States shall ensure that the joint recommendations on conservation measures to be adopted pursuant to paragraph 1 are based on the best available scientific advice and fulfil all of the following requirements:
+
+(a) they are compatible with the objectives set out in Article 2;
+
+(b) they are compatible with the scope and objectives of the relevant conservation measure;
+
+(c) they are compatible with the scope and meet the objectives and quantifiable targets set out in a relevant multiannual plan effectively;
+
+(d) they are at least as stringent as measures under Union law.
+
+6\. If all Member States do not succeed in agreeing on joint recommendations to be submitted to the Commission in accordance with paragraph 1 within a set deadline or if the joint recommendations on conservation measures are deemed not to be compatible with the objectives and quantifiable targets of the conservation measures in question, the Commission may submit a proposal for appropriate measures in accordance with the Treaty.
+
+7\. In addition to the cases referred to in paragraph 1, Member States having a direct management interest in a fishery in a defined geographical area may also make joint recommendations to the Commission on measures to be proposed or adopted by the Commission.
+
+8\. As a supplementary or alternative method of regional cooperation, Member States will be empowered, in a Union conservation measure that applies to a relevant geographical area, including in a multiannual plan established pursuant to Articles 9 and 10, to adopt within a set deadline measures further specifying that conservation measure. The Member States concerned shall closely cooperate in the adoption of such measures. Paragraphs 2, 4 and 5 of this Article shall apply mutatis mutandis. The Commission shall be associated and its comments shall be taken into account. Member States shall only adopt their respective national measures if an agreement on the content of those measures has been reached by all the Member States concerned. Where the Commission considers that a Member State's measure does not comply with the conditions set out in the relevant conservation measure, it may, subject to providing relevant reasons, request that the Member State concerned amend or repeal that measure.
+
+### TITLE IV — National measures
+
+#### Article 19 — Member State measures applicable to fishing vessels flying their flag or to persons established in their territory
+
+1\. A Member State may adopt measures for the conservation of fish stocks in Union waters provided that those measures fulfil all of the following requirements:
+
+(a) they apply solely to fishing vessels flying the flag of that Member State or, in the case of fishing activities which are not conducted by a fishing vessel, to persons established in that part of its territory to which the Treaty applies;
+
+(b) they are compatible with the objectives set out in Article 2;
+
+(c) they are at least as stringent as measures under Union law.
+
+2\. A Member State shall, for control purposes, inform the other Member States concerned of provisions adopted pursuant to paragraph 1.
+
+3\. Member States shall make publicly available appropriate information concerning the measures adopted in accordance with this Article.
+
+#### Article 20 — Member State measures within the 12 nautical mile zone
+
+1\. A Member State may take non-discriminatory measures for the conservation and management of fish stocks and the maintenance or improvement of the conservation status of marine ecosystems within 12 nautical miles of its baselines provided that the Union has not adopted measures addressing conservation and management specifically for that area or specifically addressing the problem identified by the Member State concerned. The Member State measures shall be compatible with the objectives set out in Article 2 and shall be at least as stringent as measures under Union law.
+
+2\. Where conservation and management measures to be adopted by a Member State are liable to affect fishing vessels of other Member States, such measures shall be adopted only after consulting the Commission, the relevant Member States and the relevant Advisory Councils on a draft of the measures, which shall be accompanied by an explanatory memorandum that demonstrates, inter alia, that those measures are non-discriminatory. For the purpose of such consultation, the consulting Member State may set a reasonable deadline, which shall, however, not be shorter than two months.
+
+3\. Member States shall make publicly available appropriate information concerning the measures adopted in accordance with this Article.
+
+4\. Where the Commission considers that a measure adopted under this Article does not comply with the conditions set out in paragraph 1, it may, subject to providing relevant reasons, request that the Member State concerned amends or repeals the relevant measure.
+
+## PART IV — MANAGEMENT OF FISHING CAPACITY
+
+#### Article 21 — Establishment of systems of transferable fishing concessions
+
+Member States may establish a system of transferable fishing concessions. Member States having such a system shall establish and maintain a register of transferable fishing concessions.
+
+#### Article 22 — Adjustment and management of fishing capacity
+
+1\. Member States shall put in place measures to adjust the fishing capacity of their fleet to their fishing opportunities over time, taking into account trends and based on best scientific advice, with the objective of achieving a stable and enduring balance between them.
+
+2\. In order to achieve the objective referred to in paragraph 1, Member States shall send to the Commission, by 31 May each year, a report on the balance between the fishing capacity of their fleets and their fishing opportunities. To facilitate a common approach across the Union, that report shall be prepared in accordance with common guidelines which may be developed by the Commission indicating the relevant technical, social and economic parameters.
+
+The report shall contain the annual capacity assessment of the national fleet and of all fleet segments of the Member State. The report shall seek to identify structural overcapacity by segment and shall estimate the long-term profitability by segment. The reports shall be made publicly available.
+
+3\. With regard to the assessment referred to in the second subparagraph of paragraph 2, Member States shall base their analysis on the balance between the fishing capacity of their fleets and their fishing opportunities. Separate assessments shall be drawn up for fleets operating in the outermost regions and for vessels operating exclusively outside Union waters.
+
+4\. If the assessment clearly demonstrates that the fishing capacity is not effectively balanced with fishing opportunities, the Member State shall prepare and include in its report an action plan for the fleet segments with identified structural overcapacity. The action plan shall set out the adjustment targets and tools to achieve a balance and a clear time-frame for its implementation.
+
+On a yearly basis, the Commission shall prepare a report for the European Parliament and for the Council on the balance between the fishing capacity of the Member States' fleets and their fishing opportunities, in accordance with the guidelines referred to in the first subparagraph of paragraph 2. The report shall include action plans referred to in the first subparagraph of this paragraph. The first report shall be submitted by 31 March 2015.
+
+Failure to make the report referred to in paragraph 2, and/or failure to implement the action plan referred to in the first subparagraph of this paragraph, may result in a proportionate suspension or interruption of relevant Union financial assistance to that Member State for fleet investment in the fleet segment or segments concerned in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+5\. No exit from the fleet supported by public aid shall be permitted unless preceded by the withdrawal of the fishing licence and the fishing authorisations.
+
+6\. The fishing capacity corresponding to the fishing vessels withdrawn with public aid shall not be replaced.
+
+7\. Member States shall ensure that from 1 January 2014 the fishing capacity of their fleets does not exceed at any time the fishing capacity ceilings set out in Annex II.
+
+#### Article 23 — Entry/Exit scheme
+
+1\. Member States shall manage entries into their fleets and exits from their fleets in such a way that the entry into the fleet of new capacity without public aid is compensated for by the prior withdrawal of capacity without public aid of at least the same amount.
+
+2\. The Commission may adopt implementing acts laying down implementing rules for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+3\. No later than 30 December 2018, the Commission shall evaluate the Entry/Exit scheme in the light of the evolving relationship between fleet capacity and prospected fishing opportunities, and propose, where appropriate, an amendment to that scheme.
+
+4\. By way of derogation from paragraph 1, France shall be authorised, until 31 December 2025, to introduce new capacity without the withdrawal of an equivalent capacity for the various segments in Mayotte, as an outermost region within the meaning of Article 349 of the Treaty on the Functioning of the European Union (hereinafter "Mayotte"), referred to in Annex II.
+
+#### Article 24 — Fishing fleet registers
+
+1\. Member States shall record the information on ownership, on vessel and gear characteristics and on the activity of Union fishing vessels flying their flag that is necessary for the management of measures established under this Regulation.
+
+2\. Member States shall submit to the Commission the information referred to in paragraph 1.
+
+3\. The Commission shall maintain a Union fishing fleet register containing the information that it receives pursuant paragraph 2. It shall provide public access to the Union fishing fleet register, while ensuring that personal data is adequately protected.
+
+4\. The Commission shall adopt implementing acts, establishing technical operational requirements for the recording, format and transmission modalities of the information referred to in paragraphs 1, 2 and 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+## PART V — SCIENTIFIC BASE FOR FISHERIES MANAGEMENT
+
+#### Article 25 — Data requirements for fisheries management
+
+1\. Member States shall, in accordance with the rules adopted in the area of data collection, collect biological, environmental, technical, and socio-economic data necessary for fisheries management, manage those data and make them available to end–users, including bodies designated by the Commission. The acquisition and management of such data shall be eligible for funding through the European Maritime and Fisheries Fund in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020. Those data shall, in particular, enable the assessment of:
+
+(a) the state of exploited marine biological resources;
+
+(b) the level of fishing and the impact that fishing activities have on the marine biological resources and on the marine ecosystems; and
+
+(c) the socio-economic performance of the fisheries, aquaculture and processing sectors within and outside Union waters.
+
+2\. The collection, management and use of data shall be based on the following principles:
+
+(a) accuracy and reliability, and collection in a timely manner;
+
+(b) the use of coordination mechanisms with a view to avoiding duplication of data collection for different purposes;
+
+(c) safe storage and protection of collected data in computerised databases, and their public availability where appropriate, including at aggregated level, whilst ensuring confidentiality;
+
+(d) access by the Commission, or by bodies designated by it, to the national databases and systems used for processing the collected data for the purpose of verification of the existence and quality of the data;
+
+(e) the availability in a timely manner of the relevant data and the respective methodologies by which they are obtained, for bodies with a research or management interest in the scientific analysis of data in the fisheries sector and for any interested parties, save in circumstances where protection and confidentiality are required under applicable Union law.
+
+3\. Every year, Member States shall submit to the Commission a report on the execution of their national data collection programmes and shall make it publicly available.
+
+The Commission shall assess the annual report on data collection after consulting its scientific advisory body and, where appropriate, regional fisheries management organisations (RFMOs) to which the Union is a contracting party or observer and relevant international scientific bodies.
+
+4\. Member States shall ensure the national coordination of the collection and management of scientific data for fisheries management, including socio-economic data. To this end, they shall designate a national correspondent and organise an annual national coordination meeting. The Commission shall be informed of the national coordination activities and shall be invited to the coordination meetings.
+
+5\. In close cooperation with the Commission, Member States shall coordinate their data collection activities with other Member States in the same region, and shall make every effort to coordinate their actions with third countries having sovereignty or jurisdiction over waters in the same region.
+
+6\. The collection, management and use of data shall be carried out in a cost-effective manner.
+
+7\. Failure by a Member State to collect and/or to provide data in a timely manner to end-users may result in a proportionate suspension or interruption of relevant Union financial assistance to that Member State, in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+#### Article 26 — Consulting scientific bodies
+
+The Commission shall consult appropriate scientific bodies. STECF shall be consulted, where appropriate, on matters pertaining to the conservation and management of living marine resources, including biological, economic, environmental, social and technical considerations. Consultations of scientific bodies shall take into account the proper management of public funds, with the aim of avoiding duplication of work by such bodies.
+
+#### Article 27 — Research and Scientific Advice
+
+1\. Member States shall carry out fisheries and aquaculture research and innovation programmes. They shall coordinate their fisheries research innovation and scientific advice programmes with other Member States, in close cooperation with the Commission, in the context of the Union research and innovation frameworks, involving, where appropriate, the relevant Advisory Councils. Those activities shall be eligible for funding through the Union budget in accordance with the relevant Union legal acts.
+
+2\. Member states shall, with the involvement of the relevant stakeholders, utilising inter alia available Union financial resources and coordinating with one another, ensure availability of relevant competences and human resources to be involved in the scientific advisory process.
+
+## PART VI — EXTERNAL POLICY
+
+#### Article 28 — Objectives
+
+1\. In order to ensure sustainable exploitation, management and conservation of marine biological resources and the marine environment, the Union shall conduct its external fisheries relations in accordance with its international obligations and policy objectives, as well as the objectives and principles set out in Articles 2 and 3.
+
+2\. In particular, the Union shall:
+
+(a) actively support and contribute to the development of scientific knowledge and advice;
+
+(b) improve policy coherence of Union initiatives, with particular regard to environmental, trade and development activities and strengthen consistency of actions taken in the context of development cooperation and scientific, technical and economic cooperation;
+
+(c) contribute to sustainable fishing activities that are economically viable and promote employment within the Union;
+
+(d) ensure that Union fishing activities outside Union waters are based on the same principles and standards as those applicable under Union law in the area of the CFP, while promoting a level–playing field for Union operators vis-à-vis third-country operators;
+
+(e) promote and support, in all international spheres, action necessary to eradicate IUU-fishing;
+
+(f) promote the establishment and the strengthening of compliance committees of RFMOs, periodical independent performance reviews and appropriate remedial actions, including effective and dissuasive penalties, which are to be applied in a transparent and non-discriminatory manner.
+
+3\. The provisions of this Part shall be without prejudice to specific provisions adopted under Article 218 of the Treaty.
+
+### TITLE I — International fisheries organisations
+
+#### Article 29 — Union activities in international fisheries organisations
+
+1\. The Union shall actively support and contribute to the activities of international organisations dealing with fisheries, including RFMOs.
+
+2\. The positions of the Union in international organisations dealing with fisheries and in RFMOs shall be based on the best available scientific advice so as to ensure that fishery resources are managed in accordance with the objectives laid down in Article 2, in particular paragraph 2 and point (c) of paragraph 5 thereof. The Union shall seek to lead the process of strengthening the performance of RFMOs so as to better enable them to conserve and manage marine living resources under their purview.
+
+3\. The Union shall actively support the development of appropriate and transparent mechanisms for the allocation of fishing opportunities.
+
+4\. The Union shall foster cooperation among RFMOs and consistency between their respective regulatory frameworks, and shall support the development of scientific knowledge and advice to ensure that their recommendations are based on such scientific advice.
+
+#### Article 30 — Compliance with international provisions
+
+The Union shall, including through the European Fisheries Control Agency ("the Agency"), cooperate with third countries and international organisations dealing with fisheries, including RFMOs, to strengthen compliance with measures, especially those to combat IUU fishing, in order to ensure that measures adopted by such international organisations are strictly adhered to.
+
+### TITLE II — Sustainable fisheries partnership agreements
+
+#### Article 31 — Principles and objectives of Sustainable fisheries partnership agreements
+
+1\. Sustainable fisheries partnership agreements with third countries shall establish a legal, environmental, economic and social governance framework for fishing activities carried out by Union fishing vessels in third country waters.
+
+Such frameworks may include:
+
+(a) development and support for the necessary scientific and research institutions;
+
+(b) monitoring, control and surveillance capabilities;
+
+(c) other capacity building elements concerning the development of a sustainable fisheries policy of the third country.
+
+2\. For the purpose of ensuring the sustainable exploitation of surpluses of marine biological resources, the Union shall endeavour to ensure that the Sustainable fisheries partnership agreements with third countries are of mutual benefit to the Union and to the third country concerned, including its local population and fishing industry and that they contribute to continuing the activity of Union fleets and seek to obtain an appropriate share of the available surplus, commensurate with the Union fleets' interest.
+
+3\. For the purpose of ensuring that Union vessels fishing under Sustainable fisheries partnership agreements operate, where appropriate, under similar standards to those applicable to Union fishing vessels fishing in Union waters, the Union shall endeavour to include in Sustainable fisheries partnership agreements appropriate provisions on obligations to land fish and fishery products.
+
+4\. Union fishing vessels shall only catch surplus of the allowable catch as referred to in Article 62(2) and (3) of the UNCLOS, and identified, in a clear and transparent manner, on the basis of the best available scientific advice and of the relevant information exchanged between the Union and the third country about the total fishing effort on the affected stocks by all fleets. Concerning straddling or highly migratory fish stocks, the determination of the resources available for access should take due account of scientific assessments conducted at the regional level as well as conservation and management measures adopted by relevant RFMOs.
+
+5\. Union fishing vessels shall not operate in the waters of the third country with which a Sustainable fisheries partnership agreement is in force unless they are in possession of a fishing authorisation which has been issued in accordance with that agreement.
+
+6\. The Union shall ensure that Sustainable fisheries partnership agreements include a clause concerning respect for democratic principles and human rights, which constitutes an essential element of such agreements.
+
+Those agreements shall also, to the extent possible, include:
+
+(a) a clause prohibiting the granting of more favourable conditions to other fleets fishing in those waters than those granted to Union economic actors, including conditions concerning the conservation, development and management of resources, financial arrangements, and fees and rights relating to the issuing of fishing authorisations;
+
+(b) an exclusivity clause relating to the rule provided for in paragraph 5.
+
+7\. Efforts shall be made at Union level to monitor the activities of Union fishing vessels that operate in non–Union waters outside the framework of Sustainable fisheries partnership agreements.
+
+8\. Member States shall ensure that Union fishing vessels flying their flag and operating outside Union waters are in a position to provide detailed and accurate documentation of all fishing and processing activities.
+
+9\. A fishing authorisation, as referred to in paragraph 5, shall be granted to a vessel which has left the Union fishing fleet register and which has subsequently returned to it within 24 months, only if the owner of that vessel has provided to the competent authorities of the flag Member State all data required to establish that, during that period, the vessel was operating in a manner fully consistent with the standards applicable to a vessel flagged in the Union.
+
+Where the state granting the flag during the period that the vessel was off the Union fishing fleet register became recognised under Union law as a non-cooperating state with regard to combating, deterring and eliminating IUU fishing, or as a state allowing for non-sustainable exploitation of living marine resources, such fishing authorisation shall only be granted if it is established that the vessel's fishing operations ceased and the owner took immediate action to remove the vessel from the register of that state.
+
+10\. The Commission shall arrange for independent ex-ante and ex-post evaluations of each protocol to a Sustainable fisheries partnership agreement, and make them available to the European Parliament and to the Council in good time before it submits to the Council a recommendation to authorise the opening of negotiations for a successor protocol. A summary of such evaluations shall be made publicly available.
+
+#### Article 32 — Financial assistance
+
+1\. The Union shall provide financial assistance to third countries through Sustainable fisheries partnership agreements in order to:
+
+(a) support part of the cost of access to the fisheries resources in third country waters; the part of the cost of access to the fisheries resources to be paid by Union vessel owners shall be assessed for each Sustainable fisheries partnership agreement or a Protocol to it and shall be fair, non-discriminatory and commensurate with the benefits provided through the access conditions;
+
+(b) establish the governance framework, including the development and maintenance of the necessary scientific and research institutions, promote consultation processes with interest groups, and monitoring, control and surveillance capability and other capacity building items relating to the development of a sustainable fisheries policy driven by the third country. Such financial assistance shall be conditional upon the achievement of specific results and complementary to and consistent with the development projects and programmes implemented in the third country in question.
+
+2\. Under each Sustainable fisheries partnership agreement, the financial assistance for sectoral support shall be decoupled from payments for access to fisheries resources. The Union shall require the achievement of specific results as a condition for payments under the financial assistance, and shall closely monitor progress.
+
+### TITLE III — Management of stocks of common interest
+
+#### Article 33 — Principles and objectives of management of stocks of common interest to the Union and third countries and agreements on exchange and joint management
+
+1\. Where stocks of common interest are also exploited by third countries, the Union shall engage with those third countries with a view to ensuring that those stocks are managed in a sustainable manner that is consistent with this Regulation, and in particular with the objective laid down in Article 2(2). Where no formal agreement is reached, the Union shall make every effort to reach common arrangements for fishing of such stocks with a view to making the sustainable management possible, in particular, concerning the objective in Article 2(2), thereby promoting a level–playing field for Union operators.
+
+2\. In order to ensure a sustainable exploitation of stocks shared with third countries and to guarantee stability of the fishing operations of its fleets, the Union shall, in accordance with UNCLOS, endeavour to establish bilateral or multilateral agreements with third countries for the joint management of stocks, including the establishment, where appropriate, of access to waters and resources and conditions for such access, the harmonisation of conservation measures and the exchange of fishing opportunities.
+
+## PART VII — AQUACULTURE
+
+#### Article 34 — Promoting sustainable aquaculture
+
+1\. With a view to promoting sustainability and contributing to food security and supplies, growth and employment, the Commission shall establish non-binding Union strategic guidelines on common priorities and targets for the development of sustainable aquaculture activities. Such strategic guidelines shall take account of the relative starting positions and different circumstances throughout the Union and shall form the basis for multiannual national strategic plans, and shall aim at:
+
+(a) improving the competitiveness of the aquaculture industry and supporting its development and innovation;
+
+(b) reducing the administrative burden and making the implementation of Union law more efficient and responsive to the needs of stakeholders;
+
+(c) encouraging economic activity;
+
+(d) diversification and improvement of the quality of life in coastal and inland areas;
+
+(e) integrating aquaculture activities into maritime, coastal and inland spatial planning.
+
+2\. By 30 June 2014, Member States shall establish a multiannual national strategic plan for the development of aquaculture activities on their territory.
+
+3\. The multiannual national strategic plan shall include the Member State's objectives and the measures and the timetables necessary to achieve them.
+
+4\. Multiannual national strategic plans shall, in particular, have the following aims:
+
+(a) administrative simplification, in particular regarding evaluations and impact studies and licenses;
+
+(b) reasonable certainty for aquaculture operators in relation to access to waters and space;
+
+(c) indicators for environmental, economic and social sustainability;
+
+(d) assessment of other possible cross-border effects, especially on marine biological resources and marine ecosystems in neighbouring Member States;
+
+(e) the creation of synergies between national research programmes and collaboration between the industry and the scientific community;
+
+(f) the promotion of the competitive advantage of sustainable, high quality food;
+
+(g) the promotion of aquaculture practices and research with a view to enhancing positive effects on the environment and on the fish resources, and to reducing negative impacts, including reducing pressure on fish stocks used for feed production, and increasing resource efficiency.
+
+5\. Member States shall exchange information and best practices through an open method of coordination of the national measures contained in multiannual national strategic plans.
+
+6\. The Commission shall encourage the exchange of information and best practices among Member States and shall facilitate the coordination of national measures foreseen in the multiannual national strategic plan.
+
+## PART VIII — COMMON MARKET ORGANISATION
+
+#### Article 35 — Objectives
+
+1\. A common organisation of the markets in fishery and aquaculture products (the common market organisation) shall be established to:
+
+(a) contribute to the achievement of the objectives set out in Article 2, and in particular to the sustainable exploitation of living marine biological resources;
+
+(b) enable the fishery and aquaculture industry to apply the CFP at the appropriate level;
+
+(c) strengthen the competitiveness of the Union fishery and aquaculture industry, in particular producers;
+
+(d) improve the transparency and stability of the markets, in particular as regards economic knowledge and understanding of the Union markets for fishery and aquaculture products along the supply chain, ensure that the distribution of added value along the sector's supply chain is more balanced, improve consumer information and raise awareness, by means of notification and labelling that provides comprehensible information;
+
+(e) contribute to ensuring a level–playing field for all products marketed in the Union by promoting sustainable exploitation of fisheries resources;
+
+(f) contribute to ensuring that consumers have a diverse supply of fishery and aquaculture products;
+
+(g) provide the consumer with verifiable and accurate information regarding the origin of the product and its mode of production, in particular through marking and labelling.
+
+2\. The common market organisation shall apply to the fishery and aquaculture products listed in Annex I to Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( 7 ), which are marketed in the Union.
+
+3\. The common market organisation shall include, in particular:
+
+(a) the organisation of the industry including market stabilization measures;
+
+(b) the production and marketing plans of fishery and aquaculture producer organisations;
+
+(c) common marketing standards;
+
+(d) consumer information.
+
+## PART IX — CONTROL AND ENFORCEMENT
+
+#### Article 36 — Objectives
+
+1\. Compliance with the CFP rules shall be ensured through an effective Union fisheries control system, including the fight against IUU fishing.
+
+2\. Control and enforcement of the CFP shall in particular be based on and shall include the following:
+
+(a) a global, integrated and common approach;
+
+(b) cooperation and coordination between Member States, the Commission and the Agency;
+
+(c) cost-efficiency and proportionality;
+
+(d) the use of efficient control technologies for the availability and quality of data on fisheries;
+
+(e) a Union framework for control, inspection and enforcement;
+
+(f) a risk-based strategy focused on systematic and automated cross-checks of all available relevant data;
+
+(g) the development of a culture of compliance and co-operation among all operators and fishermen.
+
+The Union shall adopt appropriate measures with regard to third countries which allow non-sustainable fishing.
+
+3\. Member States shall adopt appropriate measures for ensuring control, inspection and enforcement of activities carried out within the scope of the CFP, including the establishment of effective, proportionate and dissuasive penalties.
+
+4\. By way of derogation from paragraph 1, France shall be exempted until 31 December 2021 from the obligation to include in its register of Union fishing vessels those vessels which are less than 10 metres in overall length and which operate from Mayotte.
+
+5\. Until 31 December 2021, France shall keep a provisional register of fishing vessels which are less than 10 metres in overall length and which operate from Mayotte. That register shall contain at least the name, overall length and an identification code of each vessel. Vessels registered in the provisional register shall be considered to be vessels registered in Mayotte.
+
+#### Article 37 — Expert group on compliance
+
+1\. An expert group on compliance shall be established by the Commission to assess, facilitate and strengthen the implementation of, and compliance with, the obligations under the Union fisheries control system.
+
+2\. The expert group on compliance shall be composed of representatives of the Commission and the Member States. At the request of the European Parliament, the Commission may invite the European Parliament to send experts to attend meetings of the expert group. The Agency may assist the expert group on compliance meetings as an observer.
+
+3\. The expert group shall in particular:
+
+(a) regularly review issues of compliance and implementation under Union fisheries control system and identify possible difficulties of common interest in implementation of the CFP rules;
+
+(b) formulate advice in relation to the implementation of the CFP rules, including prioritisation of Union financial assistance; and
+
+(c) exchange information on control and inspection activities, including the fight against IUU fishing.
+
+4\. The European Parliament and the Council shall be kept fully informed on a regular basis by the expert group on compliance activities referred to in paragraph 3.
+
+#### Article 38 — Pilot projects on new control technologies and data management systems
+
+The Commission and the Member States may carry out pilot projects on new control technologies and systems for data management.
+
+#### Article 39 — Contribution to control, inspection, enforcement and data collection costs
+
+Member States may require their operators to contribute proportionally to the operational costs of implementing the Union fisheries control system and of data collection.
+
+## PART X — FINANCIAL INSTRUMENTS
+
+#### Article 40 — Objectives
+
+Union financial assistance may be granted to contribute to the achievement of the objectives set out in Article 2.
+
+#### Article 41 — Conditions for financial assistance to Member States
+
+1\. Subject to the conditions to be specified in the applicable Union legal acts, Union financial assistance to Member States shall be conditional upon compliance with the CFP rules by Member States.
+
+2\. Non–compliance by Member States with the CFP rules may result in the interruption or suspension of payments or in the application of a financial correction to Union financial assistance under the CFP. Such measures shall be proportionate to the nature, gravity, duration and repetition of the non–compliance.
+
+#### Article 42 — Conditions for financial assistance to operators
+
+1\. Subject to the conditions to be specified in the applicable Union legal acts, Union financial assistance to operators shall be conditional upon compliance with the CFP rules by operators.
+
+2\. Subject to specific rules to be adopted, serious infringements by operators of the CFP rules shall result in temporary or permanent bans on access to the Union financial assistance and/or the application of financial reductions. Such measures, taken by the Member State, shall be dissuasive, effective and proportionate to the nature, gravity, duration and repetition of serious infringements.
+
+3\. Member States shall ensure that Union financial assistance is granted only if no penalties for serious infringements have been imposed on the operator concerned within a period of one year prior to the date of application for Union financial assistance.
+
+## PART XI — ADVISORY COUNCILS
+
+#### Article 43 — Establishment of Advisory Councils
+
+1\. Advisory Councils shall be established for each of the geographical areas or fields of competence set out in Annex III, in order to promote a balanced representation of all stakeholders in accordance with Article 45(1) and to contribute to the achievement of the objectives set out in Article 2.
+
+2\. In particular, the following new Advisory Councils shall be established, in accordance with Annex III:
+
+(a) an Advisory Council for the outermost regions, divided into three sections for each of the following sea basins: West Atlantic, East Atlantic and Indian Ocean;
+
+(b) an Advisory Council for aquaculture;
+
+(c) an Advisory Council for markets;
+
+(d) an Advisory Council for the Black Sea.
+
+3\. Each Advisory Council shall establish its rules of procedure.
+
+#### Article 44 — Tasks of Advisory Councils
+
+1\. When applying this Regulation, the Commission shall, where relevant, consult the Advisory Councils.
+
+2\. Advisory Councils may:
+
+(a) submit recommendations and suggestions on matters relating to the management of fisheries and the socio-economic and conservation aspects of fisheries and aquaculture to the Commission and to the Member State concerned, and, in particular, recommendations on how to simplify rules on fisheries management;
+
+(b) inform the Commission and Member States of problems relating to the management and the socio-economic and conservation aspects of fisheries and, where appropriate, of aquaculture in their geographical area or field of competence and propose solutions to overcome those problems;
+
+(c) contribute, in close cooperation with scientists, to the collection, supply and analysis of data necessary for the development of conservation measures.
+
+If an issue is of common interest to two or more Advisory Councils, they shall coordinate their positions with a view to adopting joint recommendations on that issue.
+
+3\. Advisory Councils shall be consulted on joint recommendations pursuant to Article 18. They may also be consulted by the Commission and by Member States in respect of other measures. Their advice shall be taken into account. Those consultations shall be without prejudice to the consultation of STECF or other scientific bodies. The opinions of the Advisory Councils may be submitted to all Member States concerned and to the Commission.
+
+4\. The Commission and, where relevant, the Member State concerned shall reply within two months to any recommendation, suggestion or information received pursuant to paragraph 1. Where the final measures that are adopted diverge from the Advisory Councils' opinions, recommendations and suggestions received pursuant to paragraph 1, the Commission or the Member State concerned shall state detailed reasons for the divergence.
+
+#### Article 45 — Composition, functioning and funding of Advisory Councils
+
+1\. Advisory Councils shall be composed of:
+
+(a) organisations representing the fisheries and, where appropriate, aquaculture operators, and representatives of the processing and marketing sectors;
+
+(b) other interest groups affected by the CFP (e.g. environmental organisations and consumer groups).
+
+2\. Each Advisory Council shall consist of a general assembly and an executive committee, including, as appropriate, a secretariat and working groups to deal with issues of regional cooperation pursuant to Article 18, and shall adopt the measures necessary for its functioning.
+
+3\. Advisory Councils shall function and receive financing as provided for in Annex III.
+
+4\. The Commission shall be empowered to adopt delegated acts, in accordance with Article 46, laying down detailed rules on the functioning of Advisory Councils.
+
+## PART XII — PROCEDURAL PROVISIONS
+
+#### Article 46 — Exercise of delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 11(2), Article 15(2), (3), (6), (7) and Article 45(4) shall be conferred on the Commission for a period of five years from 29 December 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 11(2), Article 15(2), (3), (6), (7) and Article 45(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 11(2), Article 15(2), (3), (6), (7) and Article 45(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 47 — Committee procedure
+
+1\. The Commission shall be assisted by a Committee for fisheries and aquaculture. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion on a draft implementing act to be adopted pursuant to Article 23, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+## PART XIII — FINAL PROVISIONS
+
+#### Article 48 — Repeals and amendments
+
+1\. Regulation (EC) No 2371/2002 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+2\. Decision 2004/585/EC is repealed with effect from the entry into force of the rules adopted under Article 45(4) of this Regulation.
+
+3\. Article 5 of Council Regulation (EC) No 1954/2003 ( 8 ) shall be deleted.
+
+4\. Council Regulation (EC) No 639/2004 ( 9 ) is repealed.
+
+5\. In Article 105 of Regulation (EC) No 1224/2009, the following paragraph is inserted:
+
+"3a. By way of derogation from paragraphs 2 and 3, no multiplying factor shall be applied to catches which are subject to an obligation to land in accordance with Article 15 of the Regulation (EU) No 1380/2013 of the European Parliament and of the Council ( *1 ), provided that the extent of overfishing relative to the permitted landings does not exceed 10 %.
+
+#### Article 49 — Review
+
+The Commission shall report to the European Parliament and to the Council on the functioning of the CFP by 31 December 2022.
+
+#### Article 50 — Annual report
+
+The Commission shall report annually to the European Parliament and to the Council on the progress on achieving maximum sustainable yield and on the situation of fish stocks, as early as possible following the adoption of the yearly Council Regulation fixing the fishing opportunities available in Union waters and, in certain non-Union waters, to Union vessels.
+
+#### Article 51 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — ACCESS TO COASTAL WATERS WITHIN THE MEANING OF ARTICLE 5(2)
+
+**1\. Coastal waters of Ireland**
+
+**(a) ACCESS FOR FRANCE**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>Irish coast (6 to 12 nautical miles)</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">1. Erris Head north-west Sybil Point west</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Nephrops</td><td>Unlimited</td></tr>
+<tr><td rowspan="3">2. Mizen Head south Stags south</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Nephrops</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+<tr><td rowspan="4">3. Stags south Cork south</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Nephrops</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>4. Cork south, Carnsore Point south</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>5. Carnsore Point south, Haulbowline south-east</td><td>All species, except shellfish</td><td>Unlimited</td></tr>
+</tbody>
+</table>
+
+**(b) ACCESS FOR THE NETHERLANDS**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>Irish coast (6 to 12 miles)</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">1. Stags south Carnsore Point south</td><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+</tbody>
+</table>
+
+**(c) ACCESS FOR GERMANY**
+
+| Geographical area | Species | Importance or particular characteristics |
+| --- | --- | --- |
+| Irish coast (6 to 12 nautical miles) |  |  |
+| 1. Old Head of Kinsale south Carnsore Point south | Herring | Unlimited |
+| 2. Cork south Carnsore Point south | Mackerel | Unlimited |
+
+**(d) ACCESS FOR BELGIUM**
+
+| Geographical area | Species | Importance or particular characteristics |
+| --- | --- | --- |
+| Irish coast (6 to 12 nautical miles) |  |  |
+| 1. Cork south Carnsore Point south | Demersal | Unlimited |
+| 2. Wicklow Head east Carlingford Lough south-east | Demersal | Unlimited |
+
+**2\. Coastal waters of Belgium**
+
+| Geographical area | Member State | Species | Importance or particular characteristics |
+| --- | --- | --- | --- |
+| 3 to 12 nautical miles | Netherlands | All species | Unlimited |
+|  | France | Herring | Unlimited |
+
+**3\. Coastal waters of Denmark**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td rowspan="2">North Sea coast (Danish/German frontier to Hanstholm) (6 to 12 nautical miles)</td><td rowspan="2">  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Danish/German frontier to Blåvands Huk</td><td rowspan="2">Germany</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Shrimps and prawns</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Netherlands</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Roundfish</td><td>Unlimited</td></tr>
+<tr><td rowspan="5">Blåvands Huk to Bovbjerg</td><td rowspan="2">Belgium</td><td>Cod</td><td>Unlimited only from 1 June to 31 July</td></tr>
+<tr><td>Haddock</td><td>Unlimited only from 1 June to 31 July</td></tr>
+<tr><td>Germany</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Netherlands</td><td>Plaice</td><td>Unlimited</td></tr>
+<tr><td>Sole</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Thyborøn to Hanstholm</td><td rowspan="2">Belgium</td><td>Whiting</td><td>Unlimited only from 1 June to 31 July</td></tr>
+<tr><td>Plaice</td><td>Unlimited only from 1 June to 31 July</td></tr>
+<tr><td rowspan="11">  </td><td rowspan="8">Germany</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Saithe</td><td>Unlimited</td></tr>
+<tr><td>Haddock</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>Whiting</td><td>Unlimited</td></tr>
+<tr><td rowspan="3">Netherlands</td><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Plaice</td><td>Unlimited</td></tr>
+<tr><td>Sole</td><td>Unlimited</td></tr>
+<tr><td rowspan="12">Skagerrak (Hanstholm to Skagen) (4 to 12 nautical miles) </td><td>Belgium</td><td>Plaice</td><td>Unlimited only from 1 June to 31 July</td></tr>
+<tr><td rowspan="8">Germany</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Saithe</td><td>Unlimited</td></tr>
+<tr><td>Haddock</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>Whiting</td><td>Unlimited</td></tr>
+<tr><td rowspan="3">Netherlands</td><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Plaice</td><td>Unlimited</td></tr>
+<tr><td>Sole</td><td>Unlimited</td></tr>
+<tr><td rowspan="4">Kattegat (3 to 12 miles)</td><td rowspan="4">Germany</td><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Nephrops</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>North of Zeeland to the parallel of the latitude passing through Forsnæs lighthouse</td><td>Germany</td><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td rowspan="8">Baltic Sea (including Belts, Sound, Bornholm) (3 to 12 nautical miles)</td><td rowspan="8">Germany</td><td>Flatfish</td><td>Unlimited</td></tr>
+<tr><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Eel</td><td>Unlimited</td></tr>
+<tr><td>Salmon</td><td>Unlimited</td></tr>
+<tr><td>Whiting</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+<tr><td>Skagerrak (4 to 12 miles)</td><td>Sweden</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>Kattegat (3 to 12 miles) (1)</td><td>Sweden</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>Baltic Sea (3 to 12 miles)</td><td>Sweden</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td colspan="4">(1)  Measured from the coastline. </td></tr>
+</tbody>
+</table>
+
+**4\. Coastal waters of Germany**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td rowspan="5">North Sea coast (3 to 12 nautical miles) all coasts</td><td rowspan="3">Denmark</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Sandeel</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Netherlands</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Shrimps and prawns</td><td>Unlimited</td></tr>
+<tr><td>Danish/German frontier to the northern tip of Amrum at 54° 43′ N</td><td>Denmark</td><td>Shrimps and prawns</td><td>Unlimited</td></tr>
+<tr><td rowspan="7">Baltic coast (3 to 12 miles)</td><td rowspan="7">Denmark</td><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Plaice</td><td>Unlimited</td></tr>
+<tr><td>Herring</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Eel</td><td>Unlimited</td></tr>
+<tr><td>Whiting</td><td>Unlimited</td></tr>
+<tr><td>Mackerel</td><td>Unlimited</td></tr>
+</tbody>
+</table>
+
+**5\. Coastal waters of France and the overseas departments**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>North east Atlantic coast (6 to 12 nautical miles)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">Belgian/French frontier to east of Departement Manche (Vire-Grandcamp les Bains estuary 49° 23′ 30″ N-1° 02′ WNNE)</td><td rowspan="2">Belgium</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Scallops</td><td>Unlimited</td></tr>
+<tr><td>Netherlands</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>Dunkerque (2° 20′ E) to Cap d’Antifer (0° 10′ E)</td><td>Germany</td><td>Herring</td><td>Unlimited only from 1 October to 31 December</td></tr>
+<tr><td>Atlantic coast (6 to 12 nautical miles)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">Spanish/French frontier to 46° 08′ N</td><td rowspan="3">Spain</td><td rowspan="2">Anchovies</td><td>Directed fishing, unlimited only from 1 March to 30 June</td></tr>
+<tr><td>Fishing for live bait from 1 July to 31 October only</td></tr>
+<tr><td>Sardines</td><td>Unlimited only from 1 January to 28 February and from 1 July to 31 December</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>In addition, activities relating to the abovementioned species must be pursued in accordance with, and within the limits of, the activities pursued during 1984</td></tr>
+<tr><td>Mediterranean coast (6 to 12 nautical miles)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Spanish frontier Cap Leucate</td><td>Spain</td><td>All species</td><td>Unlimited</td></tr>
+</tbody>
+</table>
+
+**6\. Coastal waters of Spain**
+
+| Geographical area | Member State | Species | Importance or particular characteristics |
+| --- | --- | --- | --- |
+| Atlantic coast (6 to 12 nautical miles) |  |  |  |
+| French/Spanish frontier to Cap Mayor lighthouse (3° 47′ W) | France | Pelagic | Unlimited in accordance with, and within the limits of, the activities pursued during 1984 |
+| Mediterranean coast (6 to 12 nautical miles) |  |  |  |
+| French frontier/Cap Creus | France | All species | Unlimited |
+
+**7\. Coastal waters of Croatia ()**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>12 miles limited to the sea area under the sovereignty of Croatia situated to the north of the 45 degrees and 10 minutes parallel north latitude along the west Istrian coast, from the outer limit of the territorial sea of Croatia, where this parallel touches the land of the west Istrian coast (the cape Grgatov rt Funtana)</td><td>Slovenia</td><td>Demersal and small pelagic species including sardine and anchovy</td><td>100 tonnes for a maximum number of 25 fishing vessels which includes 5 fishing vessels equipped with trawl nets</td></tr>
+<tr><td colspan="4">(1)  The abovementioned regime shall apply from the full implementation of the arbitration award resulting from the Arbitration Agreement between the Government of the Republic of Slovenia and the Government of the Republic of Croatia, signed in Stockholm on 4 November 2009. </td></tr>
+</tbody>
+</table>
+
+**8\. Coastal waters of the Netherlands**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td rowspan="7">(3 to 12 nautical miles) whole coast</td><td>Belgium</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td rowspan="4">Denmark</td><td>Demersal</td><td>Unlimited</td></tr>
+<tr><td>Sprat</td><td>Unlimited</td></tr>
+<tr><td>Sandeel</td><td>Unlimited</td></tr>
+<tr><td>Horse-mackerel</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Germany</td><td>Cod</td><td>Unlimited</td></tr>
+<tr><td>Shrimps and prawns</td><td>Unlimited</td></tr>
+<tr><td>(6 to 12 nautical miles) whole coast</td><td>France</td><td>All species</td><td>Unlimited</td></tr>
+</tbody>
+</table>
+
+**9\. Coastal waters of Slovenia ()**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>12 miles limited to the sea area under the sovereignty of Slovenia situated to the north of the 45 degrees and 10 minutes parallel north latitude along the west Istrian coast, from the outer limit of the territorial sea of Croatia, where this parallel touches the land of the west Istrian coast (the cape Grgatov rt Funtana)</td><td>Croatia</td><td>Demersal and small pelagic species including sardine and anchovy</td><td>100 tonnes for a maximum number of 25 fishing vessels which includes 5 fishing vessels equipped with trawl nets</td></tr>
+<tr><td colspan="4">(1)  The abovementioned regime shall apply from the full implementation of the arbitration award resulting from the Arbitration Agreement between the Government of the Republic of Slovenia and the Government of the Republic of Croatia, signed in Stockholm on 4 November 2009. </td></tr>
+</tbody>
+</table>
+
+**10\. Coastal waters of Finland**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>Baltic Sea (4 to 12 miles) (1)</td><td>Sweden</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td colspan="4">(1)  3 to 12 miles around Bogskär Isles. </td></tr>
+</tbody>
+</table>
+
+**11\. Coastal waters of Sweden**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>Skagerrak (4 to 12 nautical miles)</td><td>Denmark</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>Kattegat (3 to 12 miles) (1)</td><td>Denmark</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td rowspan="2">Baltic Sea (4 to 12 miles)</td><td>Denmark</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td>Finland</td><td>All species</td><td>Unlimited</td></tr>
+<tr><td colspan="4">(1)  Measured from the coastline. </td></tr>
+</tbody>
+</table>
+
+**12\. Coastal waters of Greece**
+
+<table>
+<tbody><tr><td>Geographical area</td><td>Member State</td><td>Species</td><td>Importance or particular characteristics</td></tr>
+<tr><td>Ionian Sea 6 to 12 nautical miles in Greek territorial waters</td><td rowspan="6">Italy</td><td rowspan="6">Cephalopods Crustaceans  Demersal  Large pelagic species </td><td rowspan="6">A maximum number of 68 vessels</td></tr>
+<tr><td>South-Southeast of the island of Crete (East of 26°00′00″ E) 6 to 12 nautical miles in Greek EEZ</td></tr>
+<tr><td>South-Southeast of the island of Koufonisi 6 to 12 nautical miles in Greek EEZ</td></tr>
+<tr><td>South-Southwest of the island of Kasos 6 to 12 nautical miles in Greek EEZ</td></tr>
+<tr><td>South-Southeast of the island of Karpathos 6 to 12 nautical miles in Greek EEZ</td></tr>
+<tr><td>South-Southwest (West of 27°59′02.00″ E) of the island of Rhodes 6 to 12 nautical miles in Greek EEZ.</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+FISHING CAPACITY CEILINGS
+
+**Capacity ceilings**
+
+| Member State | GT | kW |
+| --- | --- | --- |
+| Belgium | 18 962 | 51 586 |
+| Bulgaria | 7 250 | 62 708 |
+| Denmark | 88 762 | 313 333 |
+| Germany | 71 117 | 167 078 |
+| Estonia | 21 677 | 52 566 |
+| Ireland | 77 568 | 210 083 |
+| Greece | 84 123 | 469 061 |
+| Spain (including outermost regions) | 423 550 | 964 826 |
+| France (including outermost regions) | 214 282 | 1 166 328 |
+| Croatia | 53 452 | 426 064 |
+| Italy | 173 506 | 1 070 028 |
+| Cyprus | 11 021 | 47 803 |
+| Latvia | 46 418 | 58 496 |
+| Lithuania | 73 489 | 73 516 |
+| Malta | 14 965 | 95 776 |
+| Netherlands | 166 859 | 350 736 |
+| Poland | 38 270 | 90 650 |
+| Portugal (including outermost regions) | 114 549 | 386 539 |
+| Romania | 1 908 | 6 356 |
+| Slovenia | 675 | 8 867 |
+| Finland | 18 066 | 181 717 |
+| Sweden | 43 386 | 210 829 |
+| United Kingdom | 231 106 | 909 141 |
+
+**Capacity ceilings**
+
+<table>
+<tbody><tr><td>Outermost regions of the Union</td><td>GT</td><td>kW</td></tr>
+<tr><td colspan="3">Spain</td></tr>
+<tr><td>Canary Islands: L (1) &lt; 12 m. Union waters</td><td>2 617 </td><td>20 863 </td></tr>
+<tr><td>Canary Islands: L &gt; 12 m. Union waters</td><td>3 059 </td><td>10 364 </td></tr>
+<tr><td>Canary Islands: L &gt; 12 m. International and third country waters</td><td>28 823 </td><td>45 593 </td></tr>
+<tr><td colspan="3">France</td></tr>
+<tr><td>Reunion Island: Demersal and pelagic species. L &lt; 12 m</td><td>1 050 </td><td>19 320 </td></tr>
+<tr><td>Reunion Island: Pelagic species. L &gt; 12 m</td><td>10 002 </td><td>31 465 </td></tr>
+<tr><td>French Guyana: Demersal and pelagic species. Length &lt; 12 m</td><td>903 </td><td>11 644 </td></tr>
+<tr><td>French Guyana: Shrimp vessels</td><td>7 560 </td><td>19 726 </td></tr>
+<tr><td>French Guyana: Pelagic species. Offshore vessels.</td><td>3 500 </td><td>5 000 </td></tr>
+<tr><td>Martinique: Demersal and pelagic species. L &lt; 12 m</td><td>5 409 </td><td>142 116 </td></tr>
+<tr><td>Martinique: Pelagic species. L &gt; 12 m</td><td>1 046 </td><td>3 294 </td></tr>
+<tr><td>Guadeloupe: Demersal and pelagic species. L &lt; 12 m</td><td>6 188 </td><td>162 590 </td></tr>
+<tr><td>Guadeloupe: Pelagic species. L &gt; 12 m</td><td>500 </td><td>1 750 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Mayotte. Seiners</td><td>13 916 (*1)</td><td>24 000 (*1)</td></tr>
+<tr><td>Mayotte. Mechanical long-liners &lt; 23 m </td><td>2 500 (*1)</td><td>8 500 (*1)</td></tr>
+<tr><td>Mayotte. Demersal and pelagic species. Vessels &lt; 10 m </td><td>p.m. (*2)</td><td>p.m. (*2)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">Portugal</td></tr>
+<tr><td>Madeira: Demersal species. L &lt; 12 m</td><td>604 </td><td>3 969 </td></tr>
+<tr><td>Madeira: Demersal and pelagic species. L &gt; 12 m</td><td>4 114 </td><td>12 734 </td></tr>
+<tr><td>Madeira: Pelagic species. Seine. L &gt; 12 m</td><td>181 </td><td>777 </td></tr>
+<tr><td>Azores: Demersal species. L &lt; 12 m</td><td>2 617 </td><td>29 870 </td></tr>
+<tr><td>Azores: Demersal and pelagic species. L &gt; 12 m</td><td>12 979 </td><td>25 721 </td></tr>
+<tr><td colspan="3">(1)  "L" means overall length of a vessel.  (*1)  According to the development plan presented to IOTC on 7 January 2011.  (*2)  Ceilings shall be indicated in this table when ready and at the latest by 31 December 2025. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**ADVISORY COUNCILS**
+
+**1\. Name and area of competence of Advisory Councils**
+
+| Name | Areas of competence |
+| --- | --- |
+| Baltic Sea | ICES zones IIIb, IIIc and IIId |
+| Black Sea | GFCM geographical sub-area as defined in Resolution GFCM/33/2009/2 |
+| Mediterranean Sea | Maritime Waters of the Mediterranean of the East of line 5°36′ West |
+| North Sea | ICES zones IV and IIIa |
+| North Western waters | ICES zones V (excluding Va and only Union waters of Vb), VI and VII |
+| South Western waters | ICES zones VIII, IX and X (waters around Azores), and CECAF zones 34.1.1, 34.1.2 and 34.2.0 (waters around Madeira and the Canary Islands) |
+| Outermost regions | Union waters around the outermost regions as referred to in the first paragraph of Article 349 of the Treaty divided into three sea basins: West Atlantic, East Atlantic, Indian Ocean |
+| Pelagic stocks (blue whiting, mackerel, horse mackerel, herring, boarfish) | All geographical areas excluding the Baltic Sea and the Mediterranean Sea |
+| High seas/long distance fleet | All non Union-waters |
+| Aquaculture | Aquaculture, as defined in Article 4 |
+| Markets | All market areas |
+
+**2\. Functioning and funding of Advisory Councils**
+
+(a) In the general assembly and executive committee, 60 % of the seats shall be allotted to representatives of fishermen and for the Aquaculture Advisory Council, aquaculture operators, and representatives of the processing and marketing sectors, and 40 % to representatives of the other interest groups affected by the Common Fisheries Policy, for example environmental organisations and consumer groups.
+
+(b) Except for the Advisory Council for Aquaculture and for the Advisory Council for Markets, at least one representative of the catching subsector from each Member State concerned shall be member of the executive committee.
+
+(c) The members of the executive committee shall, where possible, adopt recommendations by consensus. If no consensus can be reached, dissenting opinions expressed by members shall be recorded in the recommendations adopted by the majority of the members present and voting.
+
+(d) Each Advisory Council shall designate a chairperson by consensus. The chairperson shall act impartially.
+
+(e) Each Advisory Council shall adopt the measures necessary to ensure transparency and the respect of all opinions expressed.
+
+(f) Recommendations adopted by the executive committee shall be made available immediately to the general assembly, the Commission, Member States concerned and, upon request, to any member of the public.
+
+(g) The meetings of the general assembly shall be open to the public. The meetings of the executive committee shall be open to the public unless, in exceptional cases, decided otherwise by a majority of the executive committee.
+
+(h) European and national organisations representing the fisheries sector and other interest groups may propose members to the Member States concerned. Those Member States shall agree on the members of the general assembly.
+
+(i) Representatives of national and regional administrations that have fisheries interests in the area concerned and researchers from the Member States' scientific and fisheries research institutes and from the international scientific institutions that advise the Commission shall be allowed to participate in Advisory Council meetings as active observers. Any other qualified scientist may also be invited.
+
+(j) Representatives of the European Parliament and of the Commission may take part as active observers in Advisory Council meetings.
+
+(k) When issues that affect them are discussed, representatives of the fisheries sector and other interest groups from third countries, including representatives from RFMOs, that have a fishing interest in the area or fisheries covered by an Advisory Council, may be invited to participate as active observers.
+
+(l) Advisory Councils may apply for Union financial assistance as bodies pursuing an aim of general European interest.
+
+(m) The Commission shall sign a grant agreement with each Advisory Council to contribute to its operational costs, including translation and interpretation costs.
+
+(n) The Commission may carry out all verifications it considers necessary to ensure compliance with the tasks assigned to the Advisory Councils.
+
+(o) Each Advisory Council shall transmit annually its budget and a report of its activities to the Commission and to the Member States concerned.
+
+(p) The Commission or the Court of Auditors may at any time arrange for an audit to be carried out either by an outside body of its choice or by the Commission or the Court of Auditors departments themselves.
+
+(q) Each Advisory Council shall appoint a certified auditor for the period during which it benefits from Union funds.
+
+( 1 ) Council Regulation (EC) No 1967/2006 of 21 December 2006 concerning management measures for the sustainable exploitation of fishery resources in the Mediterranean Sea, amending Regulation (EEC) No 2847/93 and repealing Regulation (EC) No 1626/94 (OJ L 409, 30.12.2006, p. 11).
+
+( 2 ) Council Regulation (EEC) No 2930/86 of 22 September 1986 defining characteristics for fishing vessels (OJ L 274, 25.9.1986, p. 1).
+
+( 3 ) Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (OJ L 343, 22.12.2009, p. 1).
+
+( 4 ) Council Regulation (EC) No 1005/2008 of 29 September 2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations (EEC) No 2847/93, (EC) No 1936/2001 and (EC) No 601/2004 and repealing Regulations (EC) No 1093/94 and (EC) No 1447/1999 (OJ L 286, 29.10.2008, p. 1).
+
+( 5 ) ICES (International Council for the Exploration of the Sea) zones are as defined in Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70).
+
+( 6 ) CECAF (Eastern Central Atlantic or FAO major fishing zone 34) zones are as defined in Regulation (EC) No 216/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic (OJ L 87, 31.3.2009, p. 1).
+
+( 7 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (See page 1 of this Official Journal).
+
+( 8 ) Council Regulation (EC) No 1954/2003 of 4 November 2003 on the management of the fishing effort relating to certain Community fishing areas and resources and modifying Regulation (EC) No 2847/93 and repealing Regulations (EC) No 685/95 and (EC) No 2027/95 (OJ L 289, 7.11.2003, p. 1).
+
+( 9 ) Council Regulation (EC) No 639/2004 of 30 March 2004 on the management of fishing fleets registered in the Community outermost regions (OJ L 102, 7.4.2004, p. 9).
+
+( *1 ) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 23)".

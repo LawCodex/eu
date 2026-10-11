@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(81/645/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DECISION of 23 June 1983 </td><td> L 186</td><td>32</td><td>9.7.1983</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COUNCIL DIRECTIVE of 23 October 1989 </td><td> L 330</td><td>47</td><td>15.11.1989</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 93/66/EEC of 19 July 1993 </td><td> L 184</td><td>36</td><td>27.7.1993</td></tr>
 <tr><td></td><td> COMMISSION DECISION of 27 July 1994 amending the boundaries of the less-favoured areas in Greece within the meaning of Council Directive 75/268/EEC</td><td> L 207</td><td>33</td><td>10.8.1994</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 
@@ -58,6 +60,7 @@ This Directive is addressed to the Hellenic Republic.
 
 **1\. Νομός ΔΡΑΜΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δράμας</td></tr>
 <tr><td>1 </td><td>Δήμος Δράμας (Οικ. Ταξιάρχης)</td></tr>
@@ -93,9 +96,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>30 </td><td>Υψηλής Ράχης</td></tr>
 <tr><td>31 </td><td>Χρυσοκεφάλου</td></tr>
 </tbody>
+</table>
 
 **2\. Νομός ΚΑΒΑΛΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θάσου</td></tr>
 <tr><td>1 </td><td>Δήμος Θάσου</td></tr>
@@ -145,9 +150,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>38 </td><td>Σιδηροχωρίου</td></tr>
 <tr><td>39 </td><td>Φωλεάς</td></tr>
 </tbody>
+</table>
 
 **3\. Νομός ΣΕΡΡΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βισαλτίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -188,9 +195,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>29 </td><td>Μεσολακκιάς</td></tr>
 <tr><td>30 </td><td>Σκοπιάς</td></tr>
 </tbody>
+</table>
 
 **4\. Νομός ΕΒΡΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλεξανδρουπόλεως</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -210,9 +219,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>9 </td><td>Δαδιάς</td></tr>
 <tr><td>10 </td><td>Λευκίμμης</td></tr>
 </tbody>
+</table>
 
 **5\. Νομός ΡΟΔΟΠΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κομοτηνής</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -232,9 +243,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>12 </td><td>Νέας Σάντας</td></tr>
 <tr><td>13 </td><td>Φιλλύρας (Οικ. Δαρμένης, Δροσιάς, Εσοχής, Ραγάδας, Σκιάδας)</td></tr>
 </tbody>
+</table>
 
 **6\. Νομός ΞΑΝΘΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ξάνθης</td></tr>
 <tr><td>1 </td><td>Δήμος Σταυρουπόλεως</td></tr>
@@ -255,9 +268,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>14 </td><td>Σατρών</td></tr>
 <tr><td>15 </td><td>Ωραίου</td></tr>
 </tbody>
+</table>
 
 **7\. Νομός ΘΕΣΣΑΛΟΝΙΚΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θεσσαλονίκης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -283,9 +298,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>18 </td><td>Περιστεράς</td></tr>
 <tr><td>19 </td><td>Πετροκεράσων</td></tr>
 </tbody>
+</table>
 
 **8\. Νομός ΠΙΕΡΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Πιερίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -297,9 +314,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>6</td><td>Ρητίνης</td></tr>
 <tr><td>7</td><td>Φωτεινών</td></tr>
 </tbody>
+</table>
 
 **9\. Νομός ΗΜΑΘΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ημαθίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -323,9 +342,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>16 </td><td>Ροδοχωρίου</td></tr>
 <tr><td>17 </td><td>Στενημάχου</td></tr>
 </tbody>
+</table>
 
 **10\. Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλμωπίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -360,9 +381,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>24 </td><td>Σωτήρα</td></tr>
 <tr><td>25 </td><td>Φλαμουριάς</td></tr>
 </tbody>
+</table>
 
 **11\. Νομός ΚΙΛΚΙΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κιλκίς</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -394,9 +417,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>24 </td><td>Σκρα</td></tr>
 <tr><td>25 </td><td>Φανού</td></tr>
 </tbody>
+</table>
 
 **12\. Νομός ΧΑΛΚΙΔΙΚΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αρναίας</td></tr>
 <tr><td>1 </td><td>Δήμος Αρναίας</td></tr>
@@ -447,9 +472,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td colspan="2">Επαρχία Αγίου Όρους</td></tr>
 <tr><td>42 </td><td>Κοινότητα Αγίου Όρους</td></tr>
 </tbody>
+</table>
 
 **13\. Νομός ΦΛΩΡΙΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Φλωρίνης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -495,9 +522,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>39 </td><td>Φλαμπούρου</td></tr>
 <tr><td>40 </td><td>Ψαράδων</td></tr>
 </tbody>
+</table>
 
 **14\. Νομός ΚΑΣΤΟΡΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καστοριάς</td></tr>
 <tr><td>1 </td><td>Δήμος Καστοριάς (Οικ. Αποσκέπου, Κεφαλαρίου)</td></tr>
@@ -556,9 +585,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>52 </td><td>Χιονάτου</td></tr>
 <tr><td>53 </td><td>Χρυσής</td></tr>
 </tbody>
+</table>
 
 **15\. Νομός ΚΟΖΑΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βοΐου</td></tr>
 <tr><td>1 </td><td>Δήμος Σιατίστης</td></tr>
@@ -648,9 +679,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>78 </td><td>Τριγωνικού</td></tr>
 <tr><td>79 </td><td>Χρωμίου</td></tr>
 </tbody>
+</table>
 
 **16\. Νομός ΓΡΕΒΕΝΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γρεβενών</td></tr>
 <tr><td>1 </td><td>Δήμος Γρεβενών</td></tr>
@@ -713,9 +746,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>56 </td><td>Φελλίου</td></tr>
 <tr><td>57 </td><td>Φιλιππαίων</td></tr>
 </tbody>
+</table>
 
 **17\. Νομός ΑΡΤΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Άρτας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -773,9 +808,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>51 </td><td>Φανερωμένης</td></tr>
 <tr><td>52 </td><td>Φωτεινού</td></tr>
 </tbody>
+</table>
 
 **18\. Νομός ΠΡΕΒΕΖΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Νικοπόλεως — Πάργας</td></tr>
 <tr><td>1 </td><td>Δήμος Πάργας</td></tr>
@@ -822,9 +859,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>40 </td><td>Χειμαδιού</td></tr>
 <tr><td>41 </td><td>Ωρωπού (Οικ. Πολύβρυσου)</td></tr>
 </tbody>
+</table>
 
 **19\. Νομός ΙΩΑΝΝΙΝΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δωδώνης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1102,9 +1141,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>262 </td><td>Χαραυγής</td></tr>
 <tr><td>263 </td><td>Ωραιοκάστρου</td></tr>
 </tbody>
+</table>
 
 **20\. Νομός ΘΕΣΠΡΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θυαμίδος</td></tr>
 <tr><td>1 </td><td>Δήμος Ηγουμενίτσης (Οικ. Αμπελιών, Δριμίτσας, Λάκκας)</td></tr>
@@ -1191,9 +1232,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>74 </td><td>Φοινικίου</td></tr>
 <tr><td>75 </td><td>Χαραυγής</td></tr>
 </tbody>
+</table>
 
 **21\. Νομός ΛΕΥΚΑΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λευκάδας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1243,9 +1286,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>43 </td><td>Χαραδιάτικων</td></tr>
 <tr><td>44 </td><td>Χορτάτων</td></tr>
 </tbody>
+</table>
 
 **22\. Νομός ΚΕΡΚΥΡΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κερκύρας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1301,9 +1346,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>47 </td><td>Μαγαζιών</td></tr>
 <tr><td>48 </td><td>Παξών</td></tr>
 </tbody>
+</table>
 
 **23\. Νομός ΛΑΡΙΣΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αγιάς</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1353,9 +1400,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>36 </td><td>Καλλιθέας</td></tr>
 <tr><td>37 </td><td>Σκοπιάς</td></tr>
 </tbody>
+</table>
 
 **24\. Νομός ΜΑΓΝΗΣΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλμυρού</td></tr>
 <tr><td>1 </td><td>Δήμος Αλμυρού (Οικ. Νεοχωρακίου και Ζαρκαδοχωρίου)</td></tr>
@@ -1422,9 +1471,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>56 </td><td>Γλώσσης</td></tr>
 <tr><td>57 </td><td>Κλήματος</td></tr>
 </tbody>
+</table>
 
 **25\. Νομός ΤΡΙΚΑΛΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καλαμπάκας</td></tr>
 <tr><td>1 </td><td>Δήμος Καλαμπάκας (Οικ. Βιτουμάς και Αγ. Παρασκευής)</td></tr>
@@ -1499,9 +1550,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>66 </td><td>Ελληνοκάστρου</td></tr>
 <tr><td>67 </td><td>Καλογήρων</td></tr>
 </tbody>
+</table>
 
 **ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ (συνέχεια)**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>68 </td><td>Κορυφής</td></tr>
@@ -1530,9 +1583,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>91 </td><td>Χατζηπετρίου (νέα ονομ. Νεραϊδοχώρι)</td></tr>
 <tr><td>92 </td><td>Φιλύρας</td></tr>
 </tbody>
+</table>
 
 **26\. Νομός ΚΑΡΔΙΤΣΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καρδίτσης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1599,9 +1654,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>60 </td><td>Φουντωτού</td></tr>
 <tr><td>61 </td><td>Φυλακτής</td></tr>
 </tbody>
+</table>
 
 **27\. Νομός ΕΥΡΥΤΑΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ευρυτανίας</td></tr>
 <tr><td>1 </td><td>Δήμος Καρπενησίου</td></tr>
@@ -1689,9 +1746,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>80 </td><td>Χρύσως</td></tr>
 <tr><td>81 </td><td>Ψιανών</td></tr>
 </tbody>
+</table>
 
 **28\. Νομός ΦΘΙΩΤΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δομοκού</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1790,9 +1849,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>88 </td><td>Τσούκας</td></tr>
 <tr><td>89 </td><td>Τυμφρηστού</td></tr>
 </tbody>
+</table>
 
 **29\. Νομός ΑΡΓΟΛΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Άργους</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -1820,9 +1881,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>20 </td><td>Αραχναίου</td></tr>
 <tr><td>21 </td><td>Μιδέας</td></tr>
 </tbody>
+</table>
 
 **30\. Νομός ΚΟΡΙΝΘΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κορινθίας</td></tr>
 <tr><td>1 </td><td>Δήμος Λουτρακίου (Οικ. Περαχώρας και Ασπροκάμπου)</td></tr>
@@ -1849,9 +1912,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>21 </td><td>Θροφαρίου</td></tr>
 <tr><td>22 </td><td>Καισαρίου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΚΟΡΙΝΘΙΑΣ (συνέχεια)**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>23 </td><td>Καλιάνων</td></tr>
@@ -1906,9 +1971,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>72 </td><td>Χελυδορέου</td></tr>
 <tr><td>73 </td><td>Ψαρίου</td></tr>
 </tbody>
+</table>
 
 **31\. Νομός ΑΧΑΪΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αιγιαλείας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2079,9 +2146,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>160 </td><td>Χιόνας</td></tr>
 <tr><td>161 </td><td>Χρυσοπηγής</td></tr>
 </tbody>
+</table>
 
 **32\. Νομός ΑΡΚΑΔΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γορτυνίας</td></tr>
 <tr><td>1 </td><td>Δήμος Λαγκαδίων</td></tr>
@@ -2273,9 +2342,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>177 </td><td>Χιράδων</td></tr>
 <tr><td>178 </td><td>Χράνων</td></tr>
 </tbody>
+</table>
 
 **33\. Νομός ΜΕΣΣΗΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καλαμάτας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2432,9 +2503,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>143 </td><td>Φλεσιάδος</td></tr>
 <tr><td>144 </td><td>Χαλκιά</td></tr>
 </tbody>
+</table>
 
 **34\. Νομός ΛΑΚΩΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γυθείου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2543,9 +2616,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>96 </td><td>Οιτύλου</td></tr>
 <tr><td>97 </td><td>Τσικκαλιών</td></tr>
 </tbody>
+</table>
 
 **35\. Νομός ΗΛΕΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ηλείας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2612,9 +2687,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>58 </td><td>Κάτω Φιγαλείας (νέα ονομ. Νέα Φιγαλεία)</td></tr>
 <tr><td>59 </td><td>Κουμουθρέκα</td></tr>
 </tbody>
+</table>
 
 **Νομός ΗΛΕΙΛΣ (συνέχεια)**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>60 </td><td>Κουφοπούλου</td></tr>
@@ -2644,9 +2721,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>84 </td><td>Διασέλλων</td></tr>
 <tr><td>85 </td><td>Τρυπητής</td></tr>
 </tbody>
+</table>
 
 **36\. Νομός ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βάλτου</td></tr>
 <tr><td>1 </td><td>Δήμος Αμφιλοχίας</td></tr>
@@ -2828,9 +2907,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>165 </td><td>Χρυσοβίτσης</td></tr>
 <tr><td>166 </td><td>Ψυλοβράχου</td></tr>
 </tbody>
+</table>
 
 **37\. Νομός ΖΑΚΥΝΘΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ζακύνθου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2848,9 +2929,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>11 </td><td>Μαριών</td></tr>
 <tr><td>12 </td><td>Ορθονιών</td></tr>
 </tbody>
+</table>
 
 **38\. Νομός ΚΕΦΑΛΛΗΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ιθάκης</td></tr>
 <tr><td>1 </td><td>Δήμος Ιθάκης</td></tr>
@@ -2926,9 +3009,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>64 </td><td>Φισκάρδου</td></tr>
 <tr><td>65 </td><td>Χαλιωτάτων</td></tr>
 </tbody>
+</table>
 
 **39\. Νομός ΠΕΙΡΑΙΩΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αιγίνης</td></tr>
 <tr><td>1 </td><td>Κοινότητα Αγκιστρίου</td></tr>
@@ -2956,9 +3041,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td colspan="2">Επαρχία Ύδρας</td></tr>
 <tr><td>17 </td><td>Δήμος Ύδρας</td></tr>
 </tbody>
+</table>
 
 **40\. Νομός ΒΟΙΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θηβών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -2979,9 +3066,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>13 </td><td>Κυριακίου</td></tr>
 <tr><td>14 </td><td>Στειρίου</td></tr>
 </tbody>
+</table>
 
 **41\. Νομός ΦΩΚΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δωρίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -3068,9 +3157,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>77 </td><td>Στρώμνης</td></tr>
 <tr><td>78 </td><td>Τριταίας</td></tr>
 </tbody>
+</table>
 
 **42\. Νομός ΕΥΒΟΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ιστιαίας</td></tr>
 <tr><td>1 </td><td>Δήμος Λουτρών Αιδηψού</td></tr>
@@ -3194,9 +3285,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>112 </td><td>Στροπώνων</td></tr>
 <tr><td>113 </td><td>Φύλλων</td></tr>
 </tbody>
+</table>
 
 **43\. Νομός ΛΕΣΒΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λήμνου</td></tr>
 <tr><td>1 </td><td>Δήμος Μυριναίων</td></tr>
@@ -3257,9 +3350,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>49 </td><td>Σταυρού</td></tr>
 <tr><td>50 </td><td>Τρύγονα</td></tr>
 </tbody>
+</table>
 
 **44\. Νομός ΧΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Χίου</td></tr>
 <tr><td>1 </td><td>Δήμος Βροντάδου</td></tr>
@@ -3311,9 +3406,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>45 </td><td>Χαλάνδρων</td></tr>
 <tr><td>46 </td><td>Ψαρρών</td></tr>
 </tbody>
+</table>
 
 **45\. Νομός ΣΑΜΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ικαρίας</td></tr>
 <tr><td>1 </td><td>Δήμος Αγ. Κηρύκου</td></tr>
@@ -3365,9 +3462,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>43 </td><td>Σταυρινήδων</td></tr>
 <tr><td>44 </td><td>Υδρούσης</td></tr>
 </tbody>
+</table>
 
 **46\. Νομός ΚΥΚΛΑΔΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Άνδρου</td></tr>
 <tr><td>1 </td><td>Δήμος Άνδρου</td></tr>
@@ -3479,9 +3578,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>90 </td><td>Τριαντάρου</td></tr>
 <tr><td>91 </td><td>Φαλατάδου</td></tr>
 </tbody>
+</table>
 
 **47\. Νομός ΔΩΔΕΚΑΝΗΣΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καλύμνου</td></tr>
 <tr><td>1 </td><td>Δήμος Αστυπαλαίας</td></tr>
@@ -3541,9 +3642,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>49 </td><td>Σιάνων</td></tr>
 <tr><td>50 </td><td>Ψίνθου</td></tr>
 </tbody>
+</table>
 
 **48\. Νομός ΗΡΑΚΛΕΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βιάννου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -3682,9 +3785,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>119 </td><td>Κυπαρίσσου</td></tr>
 <tr><td>120 </td><td>Προφήτου Ηλία</td></tr>
 </tbody>
+</table>
 
 **49\. Νομός ΛΑΣΙΘΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ιεράπετρας</td></tr>
 <tr><td>1 </td><td>Δήμος Ιεράπετρας</td></tr>
@@ -3785,9 +3890,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>88 </td><td>Χανδρά</td></tr>
 <tr><td>89 </td><td>Χρυσοπηγής</td></tr>
 </tbody>
+</table>
 
 **50\. Νομός ΧΑΝΙΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αποκωρώνου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -3895,9 +4002,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>92 </td><td>Σκαλωτής</td></tr>
 <tr><td>93 </td><td>Χώρας Σφακίων</td></tr>
 </tbody>
+</table>
 
 **51\. Νομός ΡΕΘΥΜΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αγ. Βασιλείου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4005,6 +4114,7 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>94 </td><td>Χαρκίων</td></tr>
 <tr><td>95 </td><td>Χρωμοναστηρίου</td></tr>
 </tbody>
+</table>
 
 | Περιφέρεια | Νομός | Δήμος ή Κοινότητα | Έκταση (ha) | Αξιοποιούμενη έκταση (ha) |
 | --- | --- | --- | --- | --- |
@@ -4019,6 +4129,7 @@ This Directive is addressed to the Hellenic Republic.
 
 **Νομός ΕΒΡΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλεξανδρουπόλεως</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4078,11 +4189,13 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>49 </td><td>Προβατώνος</td></tr>
 <tr><td>50 </td><td>Τριφυλλίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 2**
 
 **Νομός ΡΟΔΟΠΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κομοτινής</td></tr>
 <tr><td>1 </td><td>Δήμος Κομοτινής (οι Οικ. Υφανταί, Μεσοχώρι, Παραδημί, Μεγάλο Κρανοβούνι και Μικρό Κρανοβούνι)</td></tr>
@@ -4113,20 +4226,24 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>22 </td><td>Λοφαρίου</td></tr>
 <tr><td>23 </td><td>Στρύμης</td></tr>
 </tbody>
+</table>
 
 **Νομός ΕΒΡΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλεξανδρουπόλεως</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Μάκρης</td></tr>
 <tr><td>2</td><td>Συκορράχης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 3**
 
 **Νομός ΞΑΝΘΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ξάνθης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4138,32 +4255,38 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>6</td><td>Μάνδρας</td></tr>
 <tr><td>7</td><td>Μυρωδάτου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 4**
 
 **Νομός ΚΑΒΑΛΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Παγγαίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Αγ. Ανδρέου</td></tr>
 <tr><td>2</td><td>Νέας Ηρακλίτσης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 5**
 
 **Νομός ΚΑΒΑΛΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Μεσιάς</td></tr>
 <tr><td>2</td><td>Χρυσοκάστρου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 6**
 
 **Νομός ΔΡΑΜΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δράμας</td></tr>
 <tr><td>1 </td><td>Δήμος Δοξάτου</td></tr>
@@ -4191,18 +4314,22 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>22 </td><td>Χαριτωμένης</td></tr>
 <tr><td>23 </td><td>Χωριστής</td></tr>
 </tbody>
+</table>
 
 **Νομός ΚΑΒΑΛΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Παγκαίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Γαληψού</td></tr>
 <tr><td>2</td><td>Ποδοχωρίου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΣΕΡΡΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Φυλλίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4291,9 +4418,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>74 </td><td>Ποντισμένου</td></tr>
 <tr><td>75 </td><td>Ροδοπόλεως (πλην Οικ. Οδηγήτριας)</td></tr>
 </tbody>
+</table>
 
 **Νομός ΧΑΛΚΙΔΙΚΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αρναίας</td></tr>
 <tr><td>1 </td><td>Κοινότητα Μαραθούσης</td></tr>
@@ -4332,9 +4461,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>30 </td><td>Φλογητών</td></tr>
 <tr><td>31 </td><td>Φούρκας</td></tr>
 </tbody>
+</table>
 
 **Νομός ΘΕΣΣΑΛΟΝΙΚΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λαγκαδά</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4399,9 +4530,11 @@ This Directive is addressed to the Hellenic Republic.
 <tr><td>56 </td><td>Ταγαράδων</td></tr>
 <tr><td>57 </td><td>Τριλάφου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΚΙΛΚΙΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κιλκίς</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4459,9 +4592,11 @@ transformed by post treatment<tr><td> —————</td></tr>
 <tr><td>40 </td><td>Πολυπέτρου</td></tr>
 <tr><td>41 </td><td>Φιλυριάς</td></tr>
 </tbody>
+</table>
 
 **Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γιαννιτσών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4469,27 +4604,32 @@ transformed by post treatment<tr><td> —————</td></tr>
 <tr><td>2</td><td>Δυτικού</td></tr>
 <tr><td>3</td><td>Ραχώνας</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 7**
 
 **Νομός ΣΕΡΡΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Σερρών</td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
 transformed by post treatment<tr><td></td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 8**
 
 **Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γιαννιτσών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Αμπελειών</td></tr>
 <tr><td>2</td><td>Αχλαδοχωρίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 9**
 
@@ -4503,6 +4643,7 @@ transformed by post treatment<tr><td></td></tr>
 
 **Νομός ΠΙΕΡΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Πιερίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4523,9 +4664,11 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>15 </td><td>Σφενδαμίου</td></tr>
 <tr><td>16 </td><td>Τριλόφου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΗΜΑΘΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ημαθίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4538,31 +4681,37 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>7</td><td>Παλατιτσίου</td></tr>
 <tr><td>8</td><td>Προδρόμου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 11**
 
 **Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλμωπίας</td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
 transformed by post treatment<tr><td></td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 12**
 
 **Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλμωπίας</td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
 transformed by post treatment<tr><td></td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 13**
 
 **Νομός ΠΕΛΛΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Εδέσσης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4570,21 +4719,25 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>2</td><td>Βρυττών</td></tr>
 <tr><td>3</td><td>Περαίας</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 14**
 
 **Νομός ΚΑΣΤΟΡΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καστοριάς</td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
 transformed by post treatment<tr><td></td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 15**
 
 **Νομός ΚΟΖΑΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Εορδαίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4657,9 +4810,11 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>63 </td><td>Σκήτης</td></tr>
 <tr><td>64 </td><td>Σπάρτου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΦΛΩΡΙΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Φλωρίνης</td></tr>
 <tr><td>1 </td><td>Δήμος Αμυνταίου</td></tr>
@@ -4706,11 +4861,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>48 </td><td>Φανού</td></tr>
 <tr><td>49 </td><td>Φιλώτα</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 16**
 
 **Νομός ΚΟΖΑΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βοΐου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4731,9 +4888,11 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>15 </td><td>Τραπεζίτσας</td></tr>
 <tr><td>16 </td><td>Χειμερινού</td></tr>
 </tbody>
+</table>
 
 **Νομός ΓΡΕΒΕΝΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γρεβενών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4749,11 +4908,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>9 </td><td>Μυρσίνης</td></tr>
 <tr><td>10 </td><td>Πολυδένδρου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 17**
 
 **Νομός ΓΡΕΒΕΝΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γρεβενών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4761,11 +4922,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>2</td><td>Κατάκαλης</td></tr>
 <tr><td>3</td><td>Τρικοκκιάς</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 18**
 
 **Νομός ΙΩΑΝΝΙΝΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δωδώνης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4819,11 +4982,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>47 </td><td>Στρουνίου (Αμφιθέας)</td></tr>
 <tr><td>48 </td><td>Χρυσορράχης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 19**
 
 **Νομός ΘΕΣΠΡΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θυάμιδος</td></tr>
 <tr><td>1</td><td>Κοινότητα Δράμεσης</td></tr>
@@ -4838,11 +5003,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td colspan="2">Επαρχία Σουλίου</td></tr>
 <tr><td>8</td><td>Κοινότητα Νεοχωρίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 20**
 
 **Νομός ΘΕΣΠΡΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μαργαριτίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4860,11 +5027,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>10 </td><td>Σεβαστού</td></tr>
 <tr><td>11 </td><td>Σκανδάλου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 21**
 
 **Νομός ΘΕΣΠΡΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θυάμιδος</td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
@@ -4873,11 +5042,13 @@ transformed by post treatment<tr><td></td></tr>
 transformed by post treatment<tr><td> —————</td></tr>
 transformed by post treatment<tr><td></td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 22**
 
 **Νομός ΠΡΕΒΕΖΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Νικοπόλεως-Πάργας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4888,11 +5059,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>5</td><td>Ριζοβουνίου</td></tr>
 <tr><td>6</td><td>Ρωμιάς</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 23**
 
 **Νομός ΠΡΕΒΕΖΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Νικοπόλεως-Πάργας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -4900,11 +5073,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>2</td><td>Νικοπόλεως</td></tr>
 <tr><td>3</td><td>Φλαμπούρων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 24**
 
 **Νομός ΤΡΙΚΑΛΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καλαμπάκας</td></tr>
 <tr><td>1</td><td>Κοινότητα Θεόπετρας</td></tr>
@@ -4915,11 +5090,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>4</td><td>Πλατάνου</td></tr>
 <tr><td>5</td><td>Ριζώματος</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 25**
 
 **Νομός ΛΑΡΙΣΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ελασσόνας</td></tr>
 <tr><td>1 </td><td>Δήμος Ελασσόνας</td></tr>
@@ -4952,18 +5129,22 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td colspan="2">Επαρχία Τυρνάβου</td></tr>
 <tr><td>26 </td><td>Δήμος Τυρνάβου (Οικ. Πέρα Χώρα)</td></tr>
 </tbody>
+</table>
 
 **Νομός ΤΡΙΚΑΛΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Τρικάλων</td></tr>
 <tr><td>1</td><td>Κοινότητα Γριζάνου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 26**
 
 **Νομός ΜΑΓΝΗΣΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αλμυρού</td></tr>
 <tr><td>1 </td><td>Δήμος Αλμυρού (πλην Οικ. Νεοχωρακίου και Ζαρκαδοχωρίου)</td></tr>
@@ -4984,11 +5165,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>13 </td><td>Μικρ. Περιβολακίου</td></tr>
 <tr><td>14 </td><td>Περιβλέπτου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 27**
 
 **Νομός ΦΘΙΩΤΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Δομοκού</td></tr>
 <tr><td>1 </td><td>Δήμος Δομοκού</td></tr>
@@ -5013,11 +5196,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>19 </td><td>Πολυδενδρίου</td></tr>
 <tr><td>20 </td><td>Φυλιαδώνος</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 28**
 
 **Νομός ΦΘΙΩΤΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Φθιώτιδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5027,11 +5212,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>4</td><td>Παλαιοβράχας</td></tr>
 <tr><td>5</td><td>Φτέρης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 29**
 
 **Νομός ΦΘΙΩΤΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Φθιώτιδος</td></tr>
 <tr><td>1 </td><td>Κοινότητα Παλαιοχωρίου-Δωριαίων</td></tr>
@@ -5055,9 +5242,11 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>16 </td><td>Σφόκας</td></tr>
 <tr><td>17 </td><td>Τιθορέας</td></tr>
 </tbody>
+</table>
 
 **Νομός ΦΩΚΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Παρνασσίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5066,9 +5255,11 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>3</td><td>Λιλαίας</td></tr>
 <tr><td>4</td><td>Μαριολάτας</td></tr>
 </tbody>
+</table>
 
 **Νομός ΒΟΙΩΤΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Θηβών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5111,11 +5302,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>34 </td><td>Παύλου</td></tr>
 <tr><td>35 </td><td>Πύργου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 30**
 
 **Νομός ΦΩΚΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Παρνασσίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5124,11 +5317,13 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>3</td><td>Σερνικακίου</td></tr>
 <tr><td>4</td><td>Χρυσού</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 31**
 
 **Νομός ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βόνιτσας-Ξηρομέρου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5144,6 +5339,7 @@ transformed by post treatment<tr><td></td></tr>
 <tr><td>10 </td><td>Πλαγιάς</td></tr>
 <tr><td>11 </td><td>Πογωνιάς</td></tr>
 </tbody>
+</table>
 
 **Prefecture of CORINTH**
 
@@ -5155,6 +5351,7 @@ No Commune
 
 **Νομός ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Βόνιτσας-Ξηρομέρου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5169,11 +5366,13 @@ No Commune
 <tr><td>9 </td><td>Στρογγυλοβουνίου</td></tr>
 <tr><td>10 </td><td>Χρυσοβίτσας</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 33**
 
 **Νομός ΑΡΓΟΛΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ερμιονίδος</td></tr>
 <tr><td>1 </td><td>Δήμος Κρανιδίου</td></tr>
@@ -5196,11 +5395,13 @@ No Commune
 <tr><td>15 </td><td>Πυργιωτίκων</td></tr>
 <tr><td>16 </td><td>Τραχειάς</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 34**
 
 **Νομός ΑΡΓΟΛΙΔΟΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Άργους</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5208,9 +5409,11 @@ No Commune
 <tr><td>2</td><td>Μπόρσα</td></tr>
 <tr><td>3</td><td>Σχινοχωρίου</td></tr>
 </tbody>
+</table>
 
 **Νομός ΚΟΡΙΝΘΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κορινθίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5228,11 +5431,13 @@ No Commune
 <tr><td>12 </td><td>Σολομού</td></tr>
 <tr><td>13 </td><td>Χιλιομοδίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 35**
 
 **Νομός ΑΧΑΪΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Πατρών</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5268,9 +5473,11 @@ No Commune
 <tr><td>30 </td><td>Χαλανδρίτσας</td></tr>
 <tr><td>31 </td><td>Χαραυγής</td></tr>
 </tbody>
+</table>
 
 **Νομός ΗΛΕΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ηλείας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5296,11 +5503,13 @@ No Commune
 <tr><td>20 </td><td>Ροδιάς</td></tr>
 <tr><td>21 </td><td>Σιμοπούλου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 36**
 
 **Νομός ΗΛΕΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ηλείας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5319,9 +5528,11 @@ No Commune
 <tr><td>11 </td><td>Σέκουλα</td></tr>
 <tr><td>12 </td><td>Σκιλουντίας</td></tr>
 </tbody>
+</table>
 
 **Νομός ΑΡΚΑΔΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γορτυνίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5336,11 +5547,13 @@ No Commune
 <tr><td>9 </td><td>Τριποταμιάς</td></tr>
 <tr><td>10 </td><td>Χρυσοχωρίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 37**
 
 **Νομός ΑΡΚΑΔΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γορτυνίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5378,11 +5591,13 @@ No Commune
 <tr><td>28 </td><td>Τριποτάμου</td></tr>
 <tr><td>29 </td><td>Χωρέμη</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 38**
 
 **Νομός ΑΡΚΑΔΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μαντινείας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5418,11 +5633,13 @@ No Commune
 <tr><td>30 </td><td>Στρίγκου</td></tr>
 <tr><td>31 </td><td>Τζίβα</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 39**
 
 **Νομός ΜΕΣΣΗΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Τριφυλίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5432,11 +5649,13 @@ No Commune
 <tr><td>4</td><td>Πλάτης</td></tr>
 <tr><td>5</td><td>Χριστιανουπόλεως</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 40**
 
 **Νομός ΛΑΚΩΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λακεδαίμονος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5447,11 +5666,13 @@ No Commune
 <tr><td>5</td><td>Παλαιοπαναγιάς</td></tr>
 <tr><td>6</td><td>Τραπεζαντής</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 41**
 
 **Νομός ΛΑΚΩΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λακεδαίμονος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5476,11 +5697,13 @@ No Commune
 <tr><td>17 </td><td>Συκέας</td></tr>
 <tr><td>18 </td><td>Φοινικίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 42**
 
 **Νομός ΛΑΚΩΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Γυθείου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5491,11 +5714,13 @@ No Commune
 <tr><td>5</td><td>Νεοχωρίου</td></tr>
 <tr><td>6</td><td>Χωσιαρίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 43**
 
 **Νομός ΛΑΚΩΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Οιτύλου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5511,11 +5736,13 @@ No Commune
 <tr><td>10 </td><td>Νέου Οιτύλου</td></tr>
 <tr><td>11 </td><td>Πύργου Διρού</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 44**
 
 **Νομός ΕΥΒΟΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Χαλκίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5526,11 +5753,13 @@ No Commune
 <tr><td>5</td><td>Στροφυλιάς</td></tr>
 <tr><td>6</td><td>Φαράκλας</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 45**
 
 **Νομός ΕΥΒΟΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Χαλκίδος</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5541,11 +5770,13 @@ No Commune
 <tr><td>5</td><td>Πισώνος</td></tr>
 <tr><td>6</td><td>Πούρνου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 46**
 
 **Νομός ΕΥΒΟΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Καρύστου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5561,11 +5792,13 @@ No Commune
 <tr><td>10 </td><td>Πυργίου</td></tr>
 <tr><td>11 </td><td>Ωρολογίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 47**
 
 **Νομός ΠΕΙΡΑΙΩΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Κυθήρων</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5581,11 +5814,13 @@ No Commune
 <tr><td>10 </td><td>Φρατσίων</td></tr>
 <tr><td>11 </td><td>Φρυλλιγκιάνικων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 48**
 
 **Νομός ΛΕΣΒΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Λήμνου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5615,11 +5850,13 @@ No Commune
 <tr><td>23 </td><td>Τσιμανδρίων</td></tr>
 <tr><td>24 </td><td>Φισίνης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 49**
 
 **Νομός ΛΕΣΒΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μηθύμνης</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5646,11 +5883,13 @@ No Commune
 <tr><td>18 </td><td>Νέων Κυδωνιών</td></tr>
 <tr><td>19 </td><td>Συκούντος</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 50**
 
 **Νομός ΔΩΔΕΚΑΝΗΣΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ρόδου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5659,11 +5898,13 @@ No Commune
 <tr><td>3</td><td>Λαχανιάς</td></tr>
 <tr><td>4</td><td>Κατταβιάς</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 51**
 
 **Νομός ΧΑΝΙΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αποκορώνου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5690,11 +5931,13 @@ No Commune
 <tr><td>19 </td><td>Κοντοπούλων</td></tr>
 <tr><td>20 </td><td>Μαλάξης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 52**
 
 **Νομός ΡΕΘΥΜΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Αγ. Βασιλείου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5716,11 +5959,13 @@ No Commune
 <tr><td>14 </td><td>Ρουστίκων</td></tr>
 <tr><td>15 </td><td>Φραντζεκιανών Μετοχίων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 53**
 
 **Νομός ΡΕΘΥΜΝΗΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μυλοποτάπου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5749,11 +5994,13 @@ No Commune
 <tr><td>21 </td><td>Πηγής</td></tr>
 <tr><td>22 </td><td>Χαμαλευρίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ 54**
 
 **Νομός ΗΡΑΚΛΕΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μοναφατσίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5788,7 +6035,9 @@ No Commune
 <tr><td>27 </td><td>Σαμπά</td></tr>
 <tr><td>28 </td><td>Σμαρίου</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Περιφέρεια</td><td>Νομός</td><td>Δήμος ή Κοινότητα</td></tr>
 <tr><td rowspan="2">Ήπειρος</td><td rowspan="2">Πρεβέζης</td><td>Βουβοποτάμου</td></tr>
 <tr><td>— (εκτός οικισμού Τσεκούρι, ταξινομημένου σε 3.3)</td></tr>
@@ -5893,6 +6142,7 @@ No Commune
 <tr><td>Ανατολική Μακεδονία και Θράκη</td><td>Ξάνθης</td><td>Σελίνου</td></tr>
 <tr><td>Ανατολική Μακεδονία και Θράκη</td><td>Ξάνθης</td><td>Τοξοτών</td></tr>
 </tbody>
+</table>
 
 **ΠΙΝΑΚΑΣ ΜΕΙΟΝΕΚΤΙΚΩΝ ΠΕΡΙΟΧΩΝ (ΑΡΘΡΟ 3 ΠΑΡΑΓΡΑΦΟΣ 5)**
 
@@ -5900,6 +6150,7 @@ No Commune
 
 **Νομός ΕΒΡΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1 </td><td>Δήμος Διδυμοτείχου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5918,11 +6169,13 @@ No Commune
 <tr><td>13 </td><td>Νέας Βύσσης</td></tr>
 <tr><td>14 </td><td>Νέου Χειμωνίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Β**
 
 **Νομός ΕΒΡΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1</td><td>Δήμος Αλεξανδρουπόλεως (1)</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5935,11 +6188,13 @@ No Commune
 <tr><td>8</td><td>Φερών</td></tr>
 <tr><td colspan="2">(1)  Περιλαμβανομένου και της Παλαγίας που έχει ενταχθεί στο Δήμο Αλεξανδρουπόλεως. </td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Γ**
 
 **Νομός ΣΕΡΡΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Άνω Ποροΐων</td></tr>
@@ -5948,11 +6203,13 @@ No Commune
 <tr><td>4</td><td>Μακρινίτσης</td></tr>
 <tr><td>5</td><td>Πλατανακίων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Δ**
 
 **Νομός ΚΙΛΚΙΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Αγ. Παρασκευής</td></tr>
@@ -5962,11 +6219,13 @@ No Commune
 <tr><td>5</td><td>Ροδώνος (Μυριοφύτου)</td></tr>
 <tr><td>6</td><td>Σταθμού Μουριών</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Ε**
 
 **Νομός ΛΕΣΒΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1 </td><td>Δήμος Μυτιλήνης</td></tr>
 <tr><td>2 </td><td>Δήμος Λουτροπολ. Θερμής</td></tr>
@@ -5983,11 +6242,13 @@ No Commune
 <tr><td>12 </td><td>Πλακάδου</td></tr>
 <tr><td>13 </td><td>Πύργων Θερμής</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΣΤ**
 
 **Νομός ΧΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1</td><td>Δήμος Χίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -5999,11 +6260,13 @@ No Commune
 <tr><td>7</td><td>Μερχωρίου</td></tr>
 <tr><td>8</td><td>Χαλκειού</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Ζ**
 
 **Νομός ΚΥΚΛΑΔΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1 </td><td>Δήμος Νάξου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -6017,11 +6280,13 @@ No Commune
 <tr><td>9 </td><td>Σχοινούσας</td></tr>
 <tr><td>10 </td><td>Χαλκείου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Η**
 
 **Νομός ΚΥΚΛΑΔΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Αγκαιριάς</td></tr>
@@ -6031,11 +6296,13 @@ No Commune
 <tr><td>5</td><td>Ναούσης</td></tr>
 <tr><td>6</td><td>Πάρου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Θ**
 
 **Νομός ΔΩΔΕΚΑ ΝΗΣΟΥ (Νήσος Ρόδος)**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1 </td><td>Αφάντου</td></tr>
@@ -6052,11 +6319,13 @@ No Commune
 <tr><td>12 </td><td>Τριάντα (νέα ονομ. Ιαλυσός)</td></tr>
 <tr><td>13 </td><td>Φανών</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Ι**
 
 **Νομός ΔΩΔΕΚΑ ΝΗΣΟΥ (Νήσος Κως)**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1</td><td>Δήμος Κω</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -6066,11 +6335,13 @@ No Commune
 <tr><td>5</td><td>Κεφάλου</td></tr>
 <tr><td>6</td><td>Πυλίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΑ**
 
 **Νομός ΚΕΡΚΥΡΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1 </td><td>Αγ. Ιωάννου</td></tr>
@@ -6133,11 +6404,13 @@ No Commune
 <tr><td>57 </td><td>Χλοματιανών</td></tr>
 <tr><td>58 </td><td>Χλομού</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΒ**
 
 **Νομός ΧΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Αρμολίων</td></tr>
@@ -6147,11 +6420,13 @@ No Commune
 <tr><td>5</td><td>Πυργίου</td></tr>
 <tr><td>6</td><td>Φλατσίων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΓ**
 
 **Νομός ΣΑΜΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1</td><td>Μύλων</td></tr>
@@ -6159,11 +6434,13 @@ No Commune
 <tr><td>3</td><td>Πυθαγορείου</td></tr>
 <tr><td>4</td><td>Χώρας</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΔ**
 
 **Νομός ΚΕΦΑΛΛΗΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td>1 </td><td>Δήμος Αργοστολίου</td></tr>
 <tr><td colspan="2">Κοινότητε</td></tr>
@@ -6183,11 +6460,13 @@ No Commune
 <tr><td>13 </td><td>Χαβδάτων</td></tr>
 <tr><td>14 </td><td>Χαβριάτων</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΕ**
 
 **Νομός ΚΥΚΛΑΔΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1 </td><td>Ακρωτηρίου</td></tr>
@@ -6204,11 +6483,13 @@ No Commune
 <tr><td>12 </td><td>Οίας</td></tr>
 <tr><td>13 </td><td>Πύργου Καλλίστης</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΣΤ**
 
 **Νομός ΧΑΝΙΩΝ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
 <tr><td>1 </td><td>Βασιλοπούλου</td></tr>
@@ -6225,11 +6506,13 @@ No Commune
 <tr><td>12 </td><td>Ξαμουδοχωρίου</td></tr>
 <tr><td>13 </td><td>Συριλίου</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΖ**
 
 **Νομός ΖΑΚΥΝΘΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Ζακύνθου</td></tr>
 <tr><td>1 </td><td>Δήμος Ζακυνθίων</td></tr>
@@ -6270,11 +6553,13 @@ No Commune
 <tr><td>34 </td><td>Τραγακίου</td></tr>
 <tr><td>35 </td><td>Φιολίτη</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΗ**
 
 **Νομός ΗΡΑΚΛΕΙΟΥ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Μονοφατσίου</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -6285,11 +6570,13 @@ No Commune
 <tr><td>3</td><td>Αστριτσίου</td></tr>
 <tr><td>4</td><td>Θραψανού</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ ΙΘ**
 
 **Νομός ΜΕΣΣΗΝΙΑΣ**
 
+<table>
 <tbody><tr><td>α/α</td><td>Δήμος/Κοινότητα</td></tr>
 <tr><td colspan="2">Επαρχία Τριφυλίας</td></tr>
 <tr><td colspan="2">Κοινότητες</td></tr>
@@ -6298,6 +6585,7 @@ No Commune
 <tr><td>3</td><td>Καμορίου</td></tr>
 <tr><td>4</td><td>Ραχών</td></tr>
 </tbody>
+</table>
 
 **ΖΩΝΗ Κ**
 
@@ -6307,6 +6595,7 @@ No Commune
 
 1 Κοινότητα Πόρων
 
+<table>
 <tbody><tr><td>Περιφέρεια</td><td>Νομός</td><td>Δήμος ή Κοινότητα</td><td>Συνολική έκταση (ha) </td><td>Αξιοποιούμενη έκταση (ha) </td><td>Ειδικό μειονέκτημα</td></tr>
 <tr><td>Ήπειρος</td><td>Θεσπρωτίας</td><td>Ηγουμενίτσης (εκτός οικισμού, ταξινομημένου σε 3.3) </td><td>1 900 </td><td>1 350 </td><td>Συνοριακή ζώνη (*1)</td></tr>
 <tr><td>Δυτική Μακεδονία</td><td>Φλωρίνης</td><td>Φλωρίνης</td><td>2 620 </td><td>1 570 </td><td>Συνοριακή ζώνη (*1)</td></tr>
@@ -6330,7 +6619,9 @@ No Commune
 <tr><td colspan="3">Σύνολο</td><td>37 660 </td><td>28 640 </td><td>  </td></tr>
 <tr><td colspan="6">(*1)  Ταξινομηθείσα με σύσταση ‘ομοιογενών συνοριακών γεωργικών ζωνών’. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Νομός</td><td>Ομοιογενής ζώνη</td><td>Δήμος ή Κοινότητα</td><td>Συνολική έκταση (ha) </td><td>Αξιοποιούμενη έκταση (ha) </td></tr>
 <tr><td>Θεσπρωτίας</td><td>Ηγουμενίτσης</td><td>Σαγιάδας</td><td>3 340 </td><td>3 240 </td></tr>
 <tr><td>  </td><td>  </td><td>Ασπροκκλησίου</td><td>1 990 </td><td>1 810 </td></tr>
@@ -6414,8 +6705,11 @@ No Commune
 <tr><td>  </td><td>  </td><td>Κάτω Χριστού</td><td>1 550 </td><td>1 170 </td></tr>
 <tr><td colspan="3">Σύνολο</td><td>138 710 </td><td>113 290 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Region</td><td>Nomos</td><td>Demos</td><td>Total surface area (ha) </td><td>Classified UAA (ha) </td><td>Specific handicaps</td></tr>
 <tr><td>Makedonia</td><td>Kastoria</td><td>Maniaki</td><td>630 </td><td>560 </td><td>Border area (*1)</td></tr>
 <tr><td colspan="6">(*1)  Classified as constituting ‘homogeneous border farming areas’. </td></tr>
 </tbody>
+</table>

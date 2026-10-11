@@ -1,0 +1,168 @@
+---
+title: "Commission Implementing Regulation (EU) No 1142/2012 of 3 December 2012 amending for the 182nd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the Al Qaida network"
+identifier: "32012R1142"
+eli: "http://data.europa.eu/eli/reg_impl/2012/1142/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-12-03
+entry_into_force: 2012-08-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1142"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1142/2012 of 3 December 2012 amending for the 182nd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the Al Qaida network
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1142/2012**
+
+**of 3 December 2012**
+
+**amending for the 182nd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the Al Qaida network**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the Al-Qaida network, (1) and in particular Article 7(1)(a), Article 7(1)(b) and 7a(5) thereof,
+
+Whereas:
+
+(1) Annex I to Regulation (EC) No 881/2002 lists the persons, groups and entities covered by the freezing of funds and economic resources under that Regulation.
+
+(2) On 23 November 2012 the Sanctions Committee of the United Nations Security Council decided to remove one natural person from its list of persons, groups and entities to whom the freezing of funds and economic resources should apply after considering the de-listing request submitted by this person and the Comprehensive Report of the Ombudsperson established pursuant to United Nations Security Council Resolution 1904(2009). On 25 November 2012, the Sanctions Committee of the United Nations Security Council decided to remove another five natural persons from the list. Furthermore, on 15 November 2012 the Sanctions Committee of the United Nations Security Council decided to amend nine entries on the list.
+
+(3) Slovenia requested that the address details concerning its competent authorities should be amended.
+
+(4) In order to ensure that the measures provided for in this Regulation are effective, this Regulation should enter into force immediately.
+
+(5) Annexes I and II to Regulation (EC) No 881/2002 should therefore be updated accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 881/2002 is amended as follows:
+
+(1) Annex I is amended in accordance with Annex I to this Regulation.
+
+(2) Annex II is amended in accordance with Annex II to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 3 December 2012.
+
+For the Commission, On behalf of the President,
+
+Head of the Service for Foreign Policy Instruments
+
+(1) OJ L 139, 29.5.2002, p. 9.
+
+## ANNEX I
+
+Annex I to Regulation (EC) No 881/2002 is amended as follows:
+
+(1) The following entries under the heading ‘Natural persons’ are deleted:
+
+(a) ‘Ibrahim Ben Hedhili Ben Mohamed Al-Hamami. Address: Via Vistarini Number 3, Frazione Zorlesco, Casal Pusterlengo, Lodi, Italy. Date of birth: 20.11.1971. Place of birth: Koubellat, Tunisia. Nationality: Tunisian. Passport No: Z106861 (Tunisian passport issued on 18.2.2004, expired on 17.2.2009). Date of designation referred to in Article 2a (4) (b): 25.6.2003.’
+
+(b) ‘Habib Ben Ali Ben Said Al-Wadhani. Date of birth: 1.6.1970. Place of birth: Tunis, Tunisia. Nationality: Tunisian. Passport No: L550681 (Tunisian passport issued on 23.9.1997 which expired on 22.9.2002). Other information: (a) Italian fiscal code: WDDHBB70H10Z352O; (b) Member of Tunisian Combatant Group; (c) Reportedly deceased; (d) Mother’s name is Aisha bint Mohamed. Date of designation referred to in Article 2a (4)(b): 3.9.2002.’
+
+(c) ‘Sulayman Khalid Darwish (alias (a) Abu al-Ghadiya (b) Suleiman Darwish). Date of birth: (a) 2.5.1976, (b) 1974. Place of birth: Al-Ebada village, Damascus, Syria. Nationality: Syrian. Passport No: (a) 3936712 (Syrian passport), (b) 11012 (Syrian passport). Other information: (a) Father’s name is Khalid Darwish bin Qasim; (b) Reportedly deceased in 2005 in Iraq. Date of designation referred to in Article 2a (4) (b): 28.1.2005.’
+
+(d) ‘Suhayl Fatilloevich Buranov (alias Suhayl Fatilloyevich Buranov). Name in original script: Бypaнов Сухайл Фатиллоевич Address: Massiv Kara-Su-6, building 12, apt. 59, Tashkent, Uzbekistan Date of birth: 1983. Place of birth: Tashkent, Uzbekistan. Nationality: Uzbek. Other information: (a) He was one of the leaders of the Islamic Jihad Group; (b) Reportedly deceased in Pakistan in 2009. Date of designation referred to in Article 2a (4) (b): 21.4.2008.’
+
+(e) ‘Najmiddin Kamolitdinovich Jalolov. Name in original script: Жалолов Ηажмиддин Камолитдинович. Address: S. Jalilov Street 14, Khartu, Andijan Region, Uzbekistan. Date of birth: 1972. Place of birth: Andijan Region, Uzbekistan. Nationality: Uzbek. Other information: (a) He was one of the leaders of the Islamic Jihad Group; (b) Reportedly deceased in Pakistan in September 2009. Date of designation referred to in Article 2a (4) (b): 21.4.2008.’
+
+(f) ‘Mahdhat Mursi Al-Sayyid Umar (alias (a) Abu Hasan, (b) Abu Khabab, (c) Abu Rabbab). Date of birth: 19.10.1953. Place of birth: Alexandria, Egypt. Nationality: Egyptian. Other information: (a) Member of Egyptian Islamic Jihad (b) Confirmed to have died in Pakistan in 2008. Date of designation referred to in Article 2a (4) (b): 29.9.2005.’
+
+(2) The entry ‘Dieman Abdulkadir Izzat (alias Deiman Alhasenben Ali Aljabbari). Address: Bavaria, Germany. Date of birth: 4.7.1965. Place of birth: Kirkuk, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweis’) A 0141062. Date of designation referred to in Article 2a (4) (b): 6.12.2005.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Dieman Abdulkadir Izzat (alias Deiman Alhasenben Ali Aljabbari). Address: Bavaria, Germany. Date of birth: 4.7.1965. Place of birth: Kirkuk, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweis’) A 0141062 (revoked as at Sep.2012). Date of designation referred to in Article 2a (4) (b): 6.12.2005.’
+
+(3) The entry ‘Mazen Salah Mohammed (alias (a) Mazen Ali Hussein, (b) Issa Salah Muhamad). Date of birth: (a) 1.1.1982, (b) 1.1.1980. Place of birth: Baghdad, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweis’) A 0144378. Address: Germany. Other information: (a) Member of Alsar Al-Islam; (b) In prison in Germany. Date of designation referred to in Article 2a (4) (b): 6.12.2005.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Mazen Salah Mohammed (alias (a) Mazen Ali Hussein, (b) Issa Salah Muhamad). Date of birth: (a) 1.1.1982, (b) 1.1.1980. Place of birth: Baghdad, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweis’) A 0144378 (revoked as at Sep.2012). Address: 94051 Hauzenberg, Germany. Date of designation referred to in Article 2a (4) (b): 6.12.2005.’
+
+(4) The entry ‘Farhad Kanabi Ahmad (alias (a) Kaua Omar Achmed (b) Kawa Hamawandi (previously listed as). Date of birth: 1.7.1971. Place of birth: Arbil, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweise’) A 0139243. Address: Germany. Other information: In prison in Germany. Date of designation referred to in Article 2a (4) (b): 6.12.2005.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Farhad Kanabi Ahmad (alias (a) Kaua Omar Achmed, (b) Kawa Hamawandi (previously listed as). Date of birth: 1.7.1971. Place of birth: Arbil, Iraq. Nationality: Iraqi. Passport No: German travel document (‘Reiseausweise’) A 0139243 (revoked as at Sep.2012). Address: Iraq. Date of designation referred to in Article 2a (4) (b): 6.12.2005.’
+
+(5) The entry ‘Yahia Djouadi (alias (a) Yahia Abou Ammar; (b) Abou Ala). Date of birth: 1.1.1967. Place of birth: M’Hamid,Wilaya (province) of Sidi Bel Abbes, Algeria. Nationality: Algerian. Other information: (a) Belongs to the leadership of the Organisation of Al-Qaida in the Islamic Maghreb; (b). Located in Northern Mali as of June 2008; (c) Mother’s name: Zohra Fares. Father’s name: Mohamed.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Yahia Djouadi (alias (a) Yahia Abou Ammar, (b) Abou Ala). Date of birth: 1.1.1967. Place of birth: M’Hamid,Wilaya (province) of Sidi Bel Abbes, Algeria. Nationality: Algerian. Other information: (a) Located in Northern Mali as of June 2008; (b) Mother’s name is Zohra Fares; (c) Father’s name is Mohamed. Date of designation referred to in Article 2a (4) (b): 3.7.2008.’
+
+(6) The entry ‘Amor Mohamed Ghedeir (alias (a) Abdelhamid Abou Zeid; (b) Youcef Adel; (c) Abou Abdellah, (d) Abid Hammadou). Date of birth: Approximately 1958. Place of birth: Deb-Deb, Amenas, Wilaya (province) of Illizu, Algeria. Nationality: Algerian. Other information: (a) Mother’s name is Benarouba Bachira; (b) Father’s name is Mabrouk. Date of designation referred to in Article 2a (4) (b): 3.7.2008.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Amor Mohamed Ghedeir (alias (a) Abdelhamid Abou Zeid, (b) Youcef Adel, (c) Abou Abdellah, (d) Abid Hammadou). Date of birth: Approximately 1958. Place of birth: Deb-Deb, Amenas, Wilaya (province) of Illizi, Algeria. Nationality: Algerian. Other information: (a) Mother’s name is Benarouba Bachira; (b) Father’s name is Mabrouk. Date of designation referred to in Article 2a (4) (b): 3.7.2008.’
+
+(7) The entry ‘Salah Gasmi (alias (a) Abou Mohamed Salah; (b) Bounouadher). Date of birth: 13.4.1974. Place of birth: Zeribet El Oued, Wilaya (province) of Biskra, Algeria. Nationality: Algerian. Other information: (a) Belongs to the leadership of the Organisation of Al-Qaida in the Islamic Maghreb. More particularly involved in the propaganda activities of the organisation; (b) Located in Northern Mali as of June 2008; (c) Mother’s name: Yamina Soltane. Father’s name: Abdelaziz.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Salah Eddine Gasmi (alias (a) Abou Mohamed Salah, (b) Bounouadher). Date of birth: 13.4.1974. Place of birth: Zeribet El Oued, Wilaya (province) of Biskra, Algeria. Nationality: Algerian. Address: Algeria. Other information: (a) Mother’s name is Yamina Soltane; (b) Father’s name is Abdelaziz. Date of designation referred to in Article 2a (4) (b): 3.7.2008.’
+
+(8) The entry ‘Ahmed Deghdegh (alias Abd El Illah). Date of birth: 17.1.1967. Place of birth: Anser, Wilaya (province) of Jijel, Algeria. Nationality: Algerian. Other information: (a) Belongs to the leadership of the Organisation of Al-Qaida in the Islamic Maghreb. More particularly involved in the finances of the organisation; (b) Mother’s name: Zakia Chebira. Father’s name: Lakhdar.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Ahmed Deghdegh (alias (a) Abd El Illah, (b) Abdellillah, (c) Abdellah Ahmed, (d) Said). Date of birth: 17.1.1967. Place of birth: Anser, Wilaya (province) of Jijel, Algeria. Nationality: Algerian. Address: Algeria. Other information: (a) Mother’s name is Zakia Chebira; (b) Father’s name is Lakhdar. Date of designation referred to in Article 2a (4) (b): 3.7.2008.’
+
+(9) The entry ‘Khalifa: Muhammad Turki Al-Subaiy (alias (a) Khalifa Mohd Turki Alsubaie; (b) Khalifa Mohd Turki al-Subaie; (c) Khalifa Al-Subayi; (d) Khalifa Turki bin Muhammad bin al-Suaiy). Date of birth: 1.1.1965. Nationality: Qatari. Passport No: 00685868 (issued in Doha on 5.2.2006 and expiring on 4.2.2010). Identity card number: 26563400140 (Qatar). Address: Doha, Qatar. Other information: Arrested in Qatar in March 2008. Served his sentence in Qatar and has been released from detention. Mother's name is Hamdah Ahmad Haidoos. Date of designation referred to in Article 2a(4)(b): 10.10.2008.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Khalifa Muhammad Turki Al-Subaiy (alias (a) Khalifa Mohd Turki Alsubaie, (b) Khalifa Mohd Turki al-Subaie, (c) Khalifa Al-Subayi, (d) Khalifa Turki bin Muhammad bin al-Suaiy). Date of birth: 1.1.1965. Place of birth: Doha, Qatar. Nationality: Qatari. Passport No: 00685868 (issued in Doha on 5.2.2006 and expiring on 4.2.2010). Identity card number: 26563400140 (Qatar). Address: Doha, Qatar. Other information: Mother's name is Hamdah Ahmad Haidoos. Date of designation referred to in Article 2a(4)(b): 10.10.2008.’
+
+(10) The entry ‘Redouane El Habhab (alias Abdelrahman). Address: Iltisstrasse 58, 24143 Kiel, Germany (previous address). Date of birth: 20.12.1969. Place of birth: Casablanca, Morocco. Nationality: (a) German, (b) Moroccan. Passport No: 1005552350 (German passport issued on 27.3.2001 by Municipality of Kiel, Germany, expires on 26.3.2011). Identity card No: 1007850441 (German federal identity card issued on 27.3.2001 by Municipality of Kiel, Germany, expires on 26.3.2011). Other information: Currently in prison in Germany. Date of designation referred to in Article 2a (4) (b): 12.11.2008.’ under the heading ‘Natural persons’ shall be replaced by the following:
+
+‘Redouane El Habhab (alias Abdelrahman). Address: Iltisstrasse 58, 24143 Kiel, Germany (previous address). Date of birth: 20.12.1969. Place of birth: Casablanca, Morocco. Nationality: (a) German, (b) Moroccan. Passport No: 1005552350 (German passport issued on 27.3.2001 by Municipality of Kiel, Germany, expired on 26.3.2011). Identity card No: 1007850441 (German federal identity card issued on 27.3.2001 by Municipality of Kiel, Germany, expired on 26.3.2011). Date of designation referred to in Article 2a (4) (b): 12.11.2008.’
+
+## ANNEX II
+
+Annex II to Regulation (EC) No 881/2002 is amended as follows:
+
+The address details under the heading ‘Slovenia’ shall be replaced with:
+
+## ‘Article 2a
+
+Ministrstvo za finance
+
+Župančičeva 3
+
+1502 Ljubljana
+
+Tel.: +386 1 369 5200
+
+Fax: + 386 1 369 6659
+
+E-mail: gp.mf@gov.si
+
+## Article 2b
+
+Banka Slovenije
+
+Slovenska 35
+
+1505 Ljubljana
+
+Slovenija
+
+Tel.: + 386 1 471 90 00
+
+Fax: + 386 1 251 55 16
+
+E-mail: info@bsi.si:
+
+## Article 5
+
+Ministrstvo za zunanje zadeve
+
+Prešernova cesta 25
+
+1001 Ljubljana
+
+Tel.: + 386 1 478 2000
+
+Fax: + 386 1 478 2340
+
+E-mail: gp.mzz@gov.si’

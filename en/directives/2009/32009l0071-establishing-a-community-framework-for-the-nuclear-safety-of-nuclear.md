@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **establishing a Community framework for the nuclear safety of nuclear installations**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2014/87/EURATOM of 8 July 2014 </td><td> L 219</td><td>42</td><td>25.7.2014</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2009/71/EURATOM**
 

@@ -489,12 +489,14 @@ When current (AC measuring systems and DC measuring systems) and voltage (DC mea
 
 **Table 2**
 
+<table>
 <tbody><tr><td colspan="2"></td><td colspan="3">BMPEs in percent at reference conditions and defined load current levels</td></tr>
 <tr><td>Current</td><td>Power factor (only for AC)</td><td>A (2 %)</td><td>B (1 %)</td><td>C (0,5 %)</td></tr>
 <tr><td>Ist ≤ I &lt; Imin</td><td>&gt; 0,9 </td><td>± 25</td><td>± 15</td><td>± 10</td></tr>
 <tr><td>Imin ≤ I &lt; Itr</td><td>&gt; 0,9 </td><td>±2,5 </td><td>±1,5 </td><td>± 1</td></tr>
 <tr><td>Itr ≤ I &lt; Imax</td><td>&gt; 0,9 </td><td>± 2</td><td>± 1</td><td>±0,5 </td></tr>
 </tbody>
+</table>
 
 The measuring system for EVSE shall not exploit the BMPEs or systematically favour any party.
 
@@ -536,13 +538,16 @@ When the load current is held constant at a point within the rated operating ran
 
 **Table 3**
 
+<table>
 <tbody><tr><td rowspan="2">Influence quantity</td><td rowspan="2">Current</td><td colspan="3">Limits for temperature coefficient (%/K) for the measuring system for EVSE of class</td><td rowspan="2">Type of Current</td></tr>
 <tr><td>A (2 %)</td><td>B (1 %)</td><td>C (0,5 %)</td></tr>
 <tr><td>Temperature coefficient, c, over any interval of the temperature range, which is not less than 15 K and not greater than 23 K (i)</td><td>Itr ≤ I ≤ Imax</td><td>±0,1 </td><td>±0,05 </td><td>±0,03 </td><td>AC and DC</td></tr>
 </tbody>
+</table>
 
 **Table 4**
 
+<table>
 <tbody><tr><td>Influence quantity</td><td>Value</td><td>Current</td><td colspan="3">Maximum permissible error shift (%) for the measuring system for EVSE of class</td><td>Type of Current</td></tr>
 <tr><td></td><td></td><td></td><td>A (2 %)</td><td>B (1 %)</td><td>C (0,5 %)</td><td></td></tr>
 <tr><td>Self-heating</td><td>Continuous current at Imax</td><td>Imax</td><td>± 1</td><td>±0,5 </td><td>±0,25 </td><td>AC and DC</td></tr>
@@ -557,6 +562,7 @@ When the load current is held constant at a point within the rated operating ran
 <tr><td>Harmonics in voltage and current circuits (ii)</td><td>d &lt; 5 % I d &lt; 10 % U </td><td>Itr ≤ I ≤ Imax</td><td>± 1</td><td>±0,6 </td><td>±0,3 </td><td>AC</td></tr>
 <tr><td>Reversed phase sequence (AC 3-phase only) (ii)</td><td>Any two phases interchanged</td><td>Itr ≤ I ≤ Imax</td><td>±1,5 </td><td>±1,5 </td><td>±0,1 </td><td>AC</td></tr>
 </tbody>
+</table>
 
 Table notes:
 
@@ -683,6 +689,7 @@ The MPE on the MMQ equals twice the value given in Table 1.
 
 **3\. Maximum permissible effect of disturbances**
 
+<table>
 <tbody><tr><td></td><td>3.1.</td><td>The effect of an electromagnetic disturbance on a measuring system shall be one of the following:<table><tbody><tr><td>(a)</td><td>the change in the measurement result is not greater than the critical change value pursuant to point 3.2;</td></tr>
 </tbody>
 </table>
@@ -694,7 +701,9 @@ The MPE on the MMQ equals twice the value given in Table 1.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.2.</td><td>The critical change value is the greater of the following values:<table><tbody><tr><td>—</td><td>10 % of the MPE,</td></tr>
 </tbody>
 </table>
@@ -703,6 +712,7 @@ The MPE on the MMQ equals twice the value given in Table 1.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **4\. Durability**
 

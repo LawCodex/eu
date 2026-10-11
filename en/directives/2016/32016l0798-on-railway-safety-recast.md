@@ -26,10 +26,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2020/700 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 May 2020 </td><td> L 165</td><td>27</td><td>27.5.2020</td></tr>
 <tr><td></td><td> REGULATION (EU) 2020/1530 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 21 October 2020 </td><td> L 352</td><td>1</td><td>22.10.2020</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/798 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

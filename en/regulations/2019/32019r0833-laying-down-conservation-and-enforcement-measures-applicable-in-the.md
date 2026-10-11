@@ -1,0 +1,1674 @@
+---
+title: "Regulation (EU) 2019/833 of the European Parliament and of the Council of 20 May 2019 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, amending Regulation (EU) 2016/1627 and repealing Council Regulations (EC) No 2115/2005 and (EC) No 1386/2007"
+identifier: "32019R0833"
+eli: "http://data.europa.eu/eli/reg/2019/833/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-05-20
+entry_into_force: 2019-06-26
+last_amended: 2025-02-13
+consolidated_version: "02019R0833-20250213"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0833-20250213"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/833 of the European Parliament and of the Council of 20 May 2019 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, amending Regulation (EU) 2016/1627 and repealing Council Regulations (EC) No 2115/2005 and (EC) No 1386/2007
+
+**REGULATION (EU) 2019/833 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 May 2019**
+
+**laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, amending Regulation (EU) 2016/1627 and repealing Council Regulations (EC) No 2115/2005 and (EC) No 1386/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1231 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 July 2021 </td><td> L 274</td><td>32</td><td>30.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1281 of 4 March 2022 </td><td> L 195</td><td>21</td><td>22.7.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2037 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 275</td><td>11</td><td>25.10.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/1090 of 24 January 2023 </td><td> L 146</td><td>3</td><td>6.6.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2053 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 </td><td> L 238</td><td>1</td><td>27.9.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2857 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2857</td><td>1</td><td>20.12.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/636 of 13 December 2023 </td><td> L 636</td><td>1</td><td>21.2.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/282 of 21 November 2024 </td><td> L 282</td><td>1</td><td>10.2.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2019/833 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 May 2019**
+
+**laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, amending Regulation (EU) 2016/1627 and repealing Council Regulations (EC) No 2115/2005 and (EC) No 1386/2007**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation, unless otherwise provided, applies to Union fishing vessels used or intended for use for the purposes of commercial fishing activities conducted on fishery resources in the NAFO Regulatory Area, as defined in Annex I to the Convention, as well as activities by third country vessels under the Convention in Union waters or territory.
+
+2\. This Regulation applies without prejudice to the obligations in existing regulations in the fisheries sector, in particular Regulation (EU) 2017/2403 of the European Parliament and of the Council ( 1 ) and Council Regulations (EC) No 1005/2008 ( 2 ) and (EC) No 1224/2009 ( 3 ).
+
+3\. Unless otherwise provided in this Regulation, Union research vessels shall not be restricted by conservation and management measures pertaining to the catching of fish, in particular concerning mesh size, size limits, closed areas and seasons.
+
+### Article 2 — Subject matter
+
+1\. This Regulation lays down the rules for the application by the Union of the CEM for their uniform and effective implementation within the Union.
+
+2\. Furthermore, this Regulation amends certain provisions of Regulation (EU) 2016/1627.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘the Convention’ means the 1979 Convention on Cooperation in the Northwest Atlantic Fisheries, as amended from time to time;
+
+(2) ‘the Convention Area’ means the area to which the Convention applies as described in Article IV, paragraph 1 thereof. The Convention Area is divided into scientific and statistical Subareas, Divisions and Subdivisions listed in Annex I to the Convention;
+
+(3) ‘the Regulatory Area’ means that part of the Convention Area which is beyond national jurisdiction;
+
+(4) ‘fishery resources’ means all fish, molluscs and crustaceans within the Convention Area excluding:
+
+(a) sedentary species over which coastal States may exercise sovereign rights in accordance with Article 77 of the United Nations Convention on the Law of the Sea; and
+
+(b) in so far as they are managed under other international treaties, anadromous and catadromous stocks and highly migratory species listed in Annex I to the United Nations Convention on the Law of the Sea;
+
+(5) ‘fishing activities’ means harvesting or processing fishery resources, landing or transhipping of fishery resources or products derived from fishery resources, or any other activity in preparation for, in support of, or relating to the harvesting of fishery resources in the Regulatory Area, including:
+
+(a) the actual or attempted searching for or catching of fishery resources;
+
+(b) any activity that can reasonably be expected to result in locating, catching or harvesting of fishery resources for any purpose; and
+
+(c) any operation at sea in support of, or in preparation for, any activity described in this definition but not including any operations relating to emergencies involving the health and safety of the crew members or the safety of a vessel;
+
+(6) ‘fishing vessel’ means any Union vessel equipped for, intended for or engaged in fishing activities, including fish processing, transhipment or any other activity in preparation for or related to fishing activities, including experimental or exploratory fishing activities;
+
+(7) ‘research vessel’ means a vessel permanently used for research or a vessel normally used for fishing activities or fisheries support activity that is temporarily used for fisheries research;
+
+(8) ‘CEM’ means conservation and enforcement measures in force as adopted by the NAFO Commission;
+
+(9) ‘fishing opportunities’ means fishing quotas allocated to a Member State by a Union act in force for the Regulatory Area;
+
+(10) ‘EFCA’ means the European Fisheries Control Agency as established by Regulation (EU) 2019/473 of the European Parliament and of the Council ( 4 );
+
+(11) ‘fishing day’ means any calendar day or any fraction of a calendar day in which a fishing vessel is present in any Division in the Regulatory Area;
+
+(12) ‘port’ means, inter alia, offshore terminals and other installations for landing, transhipping, packaging, processing, refuelling or resupplying;
+
+(13) ‘non-Contracting Party vessel’ means a vessel flying the flag of a State that is not a Contracting Party to NAFO or is not a Member State, or a vessel suspected to be without nationality;
+
+(14) ‘transhipment’ means transfer, over the side, from one fishing vessel to another, of fishery resources or products;
+
+(15) ‘mid-water trawl’ means trawl gear that is designed to fish for pelagic species, no portion of which is designed to be or is operated in contact with the bottom at any time. The gear shall not include discs, bobbins or rollers on its footrope or any other attachments designed to make contact with the bottom, but it may have chafing gear attached;
+
+(16) ‘vulnerable marine ecosystems’ or ‘VMEs’ means the VMEs referred to in paragraphs 42 and 43 of the Food and Agriculture Organisation (FAO) International Guidelines for the Management of Deep-Sea Fisheries in the High Seas;
+
+(17) ‘footprint’, otherwise known as ‘existing bottom fishing areas’, means that portion of the Regulatory Area where bottom fishing has historically occurred, and is defined by the coordinates shown in Table 4 and illustrated in Figure 2 of the CEM referred to in points 1 and 2 of the Annex to this Regulation;
+
+(18) ‘bottom fishing activities’ means any activity where the fishing gear is in contact with or is likely to be in contact with the seafloor during the normal course of fishing operations;
+
+(19) ‘processed fish’ means any marine organism that has been physically altered since capture, including fish that has been filleted, gutted, packaged, canned, frozen, smoked, salted, cooked, pickled, dried or prepared for market in any other manner;
+
+(20) ‘exploratory bottom fishing activities’ means bottom fishing activities conducted outside the footprint, or within the footprint with significant changes to the conduct or in the technology used in the fishery;
+
+(21) ‘VME indicator species’ means the species that signal the occurrence of VMEs, as specified in Part VI of Annex I.E to the CEM referred to in point 3 of the Annex to this Regulation;
+
+(22) ‘IMO number’ means a 7-digit number, which is assigned to a vessel under the authority of the International Maritime Organisation;
+
+(23) ‘inspector’, unless otherwise specified, means an inspector of the fishery control services of a NAFO Contracting Party assigned to the Joint Inspection and Surveillance Scheme referred to in Chapter VII;
+
+(24) ‘IUU fishing’ means the activities described in the International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing adopted by the FAO;
+
+(25) ‘fishing trip’ for a fishing vessel includes the time from its entry into until its departure from the Regulatory Area and continues until all catch on board from the Regulatory Area has been landed or transhipped;
+
+(26) ‘FMC’ means a land-based fisheries monitoring centre of the flag Member State;
+
+(27) ‘IUU vessel list’ means the list established in accordance with Articles 52 and 53 of the CEM;
+
+(28) ‘significant adverse impacts’ means the significant adverse impacts referred to in paragraphs 17 to 20 of the FAO International Guidelines for the Management of Deep Sea Fisheries in the High Seas;
+
+(29) ‘VME indicator element’ means the VME indicator element referred to in topographical, hydrophysical or geological features which potentially support VMEs, as specified in Part VII of Annex I.E to the CEM referred to in point 4 of the Annex to this Regulation;
+
+(30) ‘observer’ means a person who is authorised and certified by a Member State or a Contracting Party to observe, monitor and collect information on board fishing vessels;
+
+(31) ‘MCS website’ means the NAFO Monitoring, Control and Surveillance website that contains information relevant for at-sea and in-port inspections.
+
+## CHAPTER II — CONSERVATION AND MANAGEMENT MEASURES
+
+### Article 4 — Research vessels
+
+1\. A research vessel shall not:
+
+(a) conduct fishing activities inconsistent with its research plan; or
+
+(b) catch Northern prawn in Division 3L in excess of the allocation of the flag Member State of the vessel;
+
+(c) take cod from Division 3M in excess of 15 tonnes of Union catches in a calendar year. Should a research vessel’s catch exceed this amount, the excess shall be counted against the allocation to the vessel’s flag Member State. Furthermore, if the allocation to the Member State for cod from Division 3M is exhausted, that Member State shall not authorize its vessels to undertake further research activities. Any research activities underway shall be stopped by the flag Member State as soon as 15 tonnes have been caught by the Union; or
+
+(d) take shrimp from Division 3M in excess of 10 tonnes of Union catches in a calendar year. The relevant Member State shall stop research activities on shrimp from Division 3M once 10 tonnes have been caught by the Union.
+
+2\. The flag Member State shall:
+
+(a) by electronic transmission in the format prescribed in Annex II.C to the CEM referred to in point 5 of the Annex to this Regulation, and prior to the commencement of the research, notify the Commission of all research vessels entitled to fly its flag that are authorised by it to conduct research activities in the Regulatory Area;
+
+(b) provide the Commission with a research plan for all vessels entitled to fly its flag that are authorised by it to conduct research activities in the Regulatory Area, no later than 40 days prior to the opening of the June meeting of the NAFO Scientific Council, in the cases of non-recurrent new surveys and research activities and where catches retained on board during research activities are intended for marketing and, in other cases, no later than 10 days prior to the commencement of the research;
+
+(c) ensure that a research plan of surveys conducted in the Regulatory Area targeting stocks subject to fishing opportunities contains as a minimum the following information:
+
+(i) vessel identification;
+
+(ii) purpose;
+
+(iii) summary of scientific methods or procedures;
+
+(iv) location and dates of the research activity;
+
+(v) the name of the principal investigator;
+
+(vi) whether any catches retained on board will be marketed;
+
+(vii) total estimated research catch of the survey target species and whether an observer with sufficient scientific expertise will be on board;
+
+(viii) information on when the research results will be presented to the NAFO Scientific Council;
+
+(ix) where relevant, any requests to derogate from this point; and
+
+(x) where relevant, an indication that the activity constitutes a non-recurrent new survey or research; and
+
+(d) notify the Commission immediately of the commencement and termination of research activities by vessels temporarily engaged in research, including during fishing trips in which both commercial and research activities take place.
+
+3\. Vessels engaged in research shall:
+
+(a) keep on board a copy of the research plan and any changes thereto, in the English language, at all times; and
+
+(b) for surveys conducted in the Regulatory Area targeting stocks subject to fishing opportunities, stow catches taken in research activities separately with netting, plywood, boxes or other means from all other catches taken in fishing trips in which both commercial and research activities are carried out; the location of the catches taken in research activities shall be indicated in the stowage plan.
+
+4\. Unless otherwise supported by an opinion of the NAFO Scientific Council, research vessels conducting surveys in the Regulatory Area targeting stocks subject to fishing opportunities and retaining on board catches obtained during such research activities with the purpose of marketing those catches shall:
+
+(a) comply with the recording and reporting requirements laid down in Chapter V;
+
+(b) have an observer with sufficient expertise on board; and
+
+(c) count those catches against the Member State’s relevant quota and fishing effort limitations set out in fishing opportunities.
+
+5\. Unless otherwise provided for in this Regulation, research vessels shall not be restricted by CEM pertaining to the catching of fish in the Regulatory Area, in particular concerning mesh size, size limits, closed areas and seasons.
+
+6\. The Commission shall forward the information notified by flag Member States in accordance with paragraph 2 to the NAFO Executive Secretary without delay.
+
+### Article 5 — Catch and effort limitations
+
+1\. Each Member State shall ensure that all catch and/or effort limitations shall apply to stocks identified in fishing opportunities in force, and, unless otherwise stated, all quotas shall be expressed as live weight in metric tonnes.
+
+2\. Member States may permit fishing vessels flying their flag to fish for stocks for which the Union has not been allocated a quota in accordance with the fishing opportunities in force (the ‘Others’ quota), if such quota exists and notification of closure has not been given by the NAFO Executive Secretary.
+
+3\. For stocks identified in the fishing opportunities in force caught within the Regulatory Area by vessels flying its flag, each flag Member State shall:
+
+(a) ensure that all species from stocks listed in fishing opportunities in force caught by vessels flying its flag are counted against the quota allocated to that Member State, including the by-catch of redfish in Division 3M taken between the date when it is estimated that 50 % of the total allowable catch (TAC) of redfish in Division 3M is taken and 1 July;
+
+(b) ensure that no more redfish caught in Division 3M is retained on board vessels flying its flag after the date when it is estimated that 100 % of the TAC of redfish in Division 3M is taken, with the exception of redfish caught in Division 3M before the closure;
+
+(c) notify the Commission and EFCA of the names of Union vessels that intend to fish the ‘Others’ quota at least 48 hours in advance of each entry, and after a minimum of 48 hours of absence from the Regulatory Area. That notification shall, if possible, be accompanied by an estimate of the projected catch. Where the Commission considers that the relevant conditions established in the CEM are met, it shall notify the NAFO Executive Secretary.
+
+4\. For any one haul, the species which comprises the largest percentage, by weight, of the total catch in the haul shall be considered as being taken in a directed fishery for the stock concerned.
+
+### Article 6 — Closures of fisheries
+
+1\. Each Member State shall:
+
+(a) close its fishery for stocks listed in the fishing opportunities in force in the Regulatory Area on the date on which the available data indicate that the total quota allocated to that Member State for the stocks concerned will be taken, including the estimated quantity to be taken prior to the closure of the fishery, discards, and estimated unreported catch by all vessels flying the flag of that Member State;
+
+(b) ensure that vessels flying its flag immediately cease fishing activities that may result in catch when notified by the Commission in accordance with paragraph 3 that the quota allocated to that Member State has been fully taken. If the Member State can demonstrate that it still has quota available for that stock in accordance with paragraph 2, the vessels of that Member State may resume fishing on that stock;
+
+(c) close its fishery for Northern prawn in Division 3M when the number of fishing days allocated to that Member State is reached. The number of fishing days in respect of each vessel shall be determined using VMS positional data within Division 3M, with any part of a day being considered a full day;
+
+(d) close its directed fishery for redfish in Division 3M between 24:00 UTC of the day the accumulated reported catch is estimated to reach 50 % of the TAC of redfish in Division 3M, as notified in accordance with paragraph 3, and 1 July;
+
+(e) close its redfish fishery in Division 3M at 24:00 UTC of the day the accumulated reported catch is estimated to reach 100 % of the TAC of redfish in Division 3M, as notified in accordance with paragraph 3;
+
+(f) promptly notify the Commission of the date of closure provided for in points (a) to (e);
+
+(g) prohibit vessels flying its flag from continuing a directed fishery in the Regulatory Area for a particular stock under an ‘Others’ quota beyond 5 days of notification by the NAFO Executive Secretary, as transmitted by the Commission, that it is estimated that that particular ‘Others’ quota has been taken, in accordance with paragraph 3;
+
+(h) ensure that no vessel flying its flag commences a directed fishery in the Regulatory Area for a particular stock under the ‘Others’ quota following notification by the NAFO Executive Secretary that it is estimated that that particular quota has been taken, in accordance with paragraph 3;
+
+(i) after a closure of its fishery in accordance with this paragraph, ensure that no more fish of the stock concerned is retained on board the vessels flying its flag unless otherwise authorised by this Regulation.
+
+2\. A fishery that has been closed in accordance with paragraph 1 may be re-opened within 15 days of notification by the Commission following communication with the NAFO Executive Secretary:
+
+(a) if the NAFO Executive Secretary confirms that the Commission has demonstrated that there is remaining quota available from its original allocation; or
+
+(b) if a quota transfer from another NAFO Contracting Party, in accordance with fishing opportunities, results in additional quota for the particular stock subject to closure.
+
+3\. The Commission shall promptly notify the Member States of the date of closure referred to in paragraph 1.
+
+### Article 7 — By-catch retained on board
+
+1\. The master of the vessel, including of a vessel chartered in accordance with Article 23, shall ensure that the vessel minimises by-catch of species from stocks identified in its respective fishing opportunities in force while operating in the Regulatory Area.
+
+2\. A species listed in the fishing opportunities in force shall be classified as by-catch when it is taken in a Division where any of the following situations exist:
+
+(a) no quota has been allocated to the Union for that stock in that Division, in accordance with the fishing opportunities in force;
+
+(b) a ban on fishing for that particular stock is in force (moratorium); or
+
+(c) the ‘Others’ quota for a particular stock has been fully taken, following notification by the Commission in accordance with Article 6.
+
+3\. The master of the vessel, including of a vessel chartered in accordance with Article 23, shall ensure that the vessel limits the retention on board of species classified as by-catch to the maxima specified below:
+
+(a) for cod in Division 3M, redfish in Divisions 3LN and witch flounder in Divisions 3NO: 1 250 kg or 5 %, whichever is the greater;
+
+(b) for cod in Divisions 3NO: 1 000 kg or 4 %, whichever is the greater;
+
+(c) for all other stocks listed in fishing opportunities where no specific quota has been allocated to the Member State: 2 500 kg or 10 %, whichever is the greater;
+
+(d) where a ban on fishing applies (moratoria) or when the ‘Others’ quota opened for that stock has been fully taken: 1 250 kg or 5 %, whichever is the greater, in regard to those Contracting Parties following their notification of the use of the ‘Others’ quota in accordance with Article 6;
+
+(e) once the directed fishery for redfish in Division 3M is closed in accordance with point (d) of Article 6(1): 1 250 kg or 5 %, whichever is the greater;
+
+(f) while conducting a directed fishery for yellowtail in Divisions 3LNO: 15 % of American plaice; otherwise the by-catch provisions set out in point (d) shall apply.
+
+4\. The limits and percentages provided for in paragraph 3 are calculated by Division as the percentage, by weight, for each stock of the total catch of stocks listed in fishing opportunities in force retained on board for that Division at the time of inspection, on the basis of the fishing logbook figures.
+
+5\. The calculation of groundfish by-catch levels in paragraph 3 shall not include the catches of Northern prawn in the total catch on board.
+
+### Article 8 — Exceeding by-catch limits in any one haul
+
+1\. The master of the vessel shall ensure that the vessel:
+
+(a) does not conduct directed fisheries for species referred to in Article 7(2);
+
+(b) complies with the following requirements, where, with the exception of directed fishery for Northern prawn, the weight of any species subject to the by-catch limits exceeds the greater of the limits specified in Article 7(3) in any one haul:
+
+(i) immediately move a minimum of 10 nautical miles from any position of the previous tow/set throughout the subsequent tow/set;
+
+(ii) leave the Division and not return for at least 60 hours if the by-catch limits specified in Article 7(3) are again exceeded following the first tow/set after moving in accordance with point (i);
+
+(iii) undertake a trial tow for a maximum duration of 3 hours before starting a new fishery following an absence of at least 60 hours. If the stocks subjected to by-catch limits form the largest percentage, by weight, of the total resulting catch in the haul, this shall not considered as a directed fishery for those stocks, and the vessel shall immediately change position in accordance with points (i) and (ii); and
+
+(iv) identify any trial tow conducted in accordance with point (b) and record in the fishing logbook the coordinates pertaining to the start and end locations of any trial tow conducted.
+
+2\. In a directed fishery for Northern prawn, the move referred to in points (i) and (ii) of point (b) of paragraph 1 shall apply when, for any one haul, the total quantity caught of the groundfish stocks listed in fishing opportunities in force exceeds 5 % in Division 3M or 2,5 % in Division 3L.
+
+3\. When a vessel is conducting a directed fishery for skate with a legal mesh size appropriate for that fishery, the first time that catches of stocks for which by-catch limits apply, as specified in Article 7(2), comprise the largest percentage by weight of the total catch in a haul, such catches shall be considered as incidental catch, but the vessel shall immediately move as specified in paragraph 1 of this Article.
+
+4\. The percentage of by-catch in any one haul is calculated as the percentage, by weight, for each stock listed in the fishing opportunities in force of the total catch from that haul.
+
+5\. Upon its first entrance into a Division on a fishing trip, a vessel may undertake one trial tow for up to a maximum duration of three hours. If the stocks subjected to by-catch limits form the largest percentage, by weight, of the total resultant catch in the haul, this shall not be considered as a directed fishery for those stocks, and the vessel shall immediately change position in accordance with paragraph 1, point (b). Vessels shall identify any trial tow conducted in accordance with this paragraph and shall record in the fishing logbook the coordinates pertaining to the start and end locations of any trial tow conducted.
+
+### Article 9 — Northern prawn
+
+1\. For the purpose of this Article, Division 3M includes that portion of Division 3L enclosed by lines joining the points described in Table 1 and depicted in Figure 1(1) of the CEM referred to in point 6 of the Annex to this Regulation.
+
+2\. A vessel fishing for Northern prawn and other species on the same trip shall transmit a report to the Commission signalling the change of fishery. The number of fishing days shall be calculated accordingly.
+
+3\. Fishing days referred to in this Article shall not be transferable between NAFO Contracting Parties. Fishing days of one NAFO Contracting Party may be utilised by a vessel flying the flag of another NAFO Contracting Party only in accordance with Article 23.
+
+4\. No vessel shall fish for Northern prawn in Division 3M between 00:01 Coordinated Universal Time (UTC) on 1 June and 24:00 UTC on 31 December in the area as described in the Table 2 and depicted in Figure 1(2) of the CEM referred to in point 7 of the Annex to this Regulation.
+
+5\. All fishing for Northern prawn in Division 3L shall take place at depths greater than 200 metres. Fishing in the Regulatory Area shall be restricted to an area east of a line bound by the coordinates described in Table 3 and depicted in Figure 1(3) of the CEM referred to in point 8 of the Annex to this Regulation.
+
+6\. Each vessel that has fished for Northern prawn in Division 3L, or its representatives on its behalf, shall provide the competent port authority with at least 24 hours prior notice of its estimated time of arrival and the estimated quantities on board of Northern prawn by Division.
+
+### Article 9a — Cod in Division 3M
+
+1\. The following control measures shall apply to vessels with more than 1 250 kg of cod catches from Division 3M on board:
+
+(a) vessels shall land or tranship their cod catches from Division 3M only in ports designated in accordance with Article 39;
+
+(b) at least 48 hours before its estimated time of arrival in port, a vessel or its representative on its behalf shall advise the competent port authority of its estimated time of arrival, the estimated quantity of cod catches from Division 3M retained on board, and information on the Division or Divisions where any other cod catches retained on board were taken;
+
+(c) each Member State shall inspect in its ports at least 50 % of the landings or transhipment of cod catches from Division 3M and prepare an inspection report in the format prescribed in Annex IV.C to the CEM referred to in point 9 of the Annex to this Regulation, and send it to the NAFO Executive Secretary, with the Commission and EFCA in copy, within 12 working days from the date on which the inspection was completed. That report shall identify and provide details of any infringement of this Regulation detected during the port inspection. It shall include all relevant information available with regard to infringements detected at sea during the current trip of the inspected fishing vessel.
+
+Inspections of landings or transhipments shall be conducted at a rate of:
+
+(i) at least 50 % when the total NAFO quota for cod in Division 3M in fishing opportunities is under 6 000 tonnes, and
+
+(ii) at least 25 % when the total NAFO quota for cod in Division 3M in fishing opportunities is between 6 000 and 12 000 tonnes.
+
+2\. Each Member State shall inspect vessels with less than 1 250 kg of cod catches from Division 3M on board on a risk management basis.
+
+3\. The Commission or a body designated by it shall ensure that the information referred to in point (c) of paragraph 1 is transmitted to the NAFO Executive Secretary without delay, for posting on the MCS website.
+
+### Article 10 — Greenland halibut
+
+1\. The following measures apply to vessels 24 metres or greater in length overall engaged in the Greenland halibut fishery in Subarea 2 and Divisions 3KLMNO:
+
+(a) each Member State shall allocate its quota for Greenland halibut among its authorised vessels;
+
+(b) an authorised vessel shall land its Greenland halibut catch only in a designated port of a NAFO Contracting Party. To that end, each Member State shall designate one or more ports in its territory where authorised vessels may land Greenland halibut;
+
+(c) each Member State shall send to the Commission the name of every port it has so designated, which shall transmit it to the NAFO Executive Secretary. Any subsequent changes to the list shall be sent in replacement of the previous one not less than 20 days before the change comes into effect;
+
+(d) at least 48 hours before its estimated time of arrival in port, an authorised vessel or its representative on its behalf shall advise the port's competent fisheries control authority of its estimated time of arrival, the estimated total quantity of Greenland halibut retained on board, and information on the Division or Divisions where the catches were taken;
+
+(e) each Member State shall inspect in its ports each landing of Greenland halibut, if the quantity of that stock on board represents either more than 5 % of the total catch or more than 2 500 kg, and prepare an inspection report in the format prescribed in Annex IV.C to the CEM referred to in point 9 of the Annex to this Regulation, and send it to the NAFO Executive Secretary, with the Commission and EFCA in copy, within 14 working days from the date on which the inspection was completed. The report shall identify and provide details of any infringement of this Regulation detected during the port inspection. It shall include all relevant information available with regard to infringements detected at sea during the current trip of the inspected fishing vessel.
+
+2\. The following procedures apply with respect to authorised vessels with more than 50 tonnes live weight total catch on board taken outside the Regulatory Area entering the Regulatory Area to fish for Greenland halibut:
+
+(a) the master of the vessel shall notify the NAFO Executive Secretary and its flag FMC by email or fax, at the latest 72 hours prior to the vessel’s entry into the Regulatory Area, of the amount of catch on board, the position by latitude and longitude where the master of the vessel intends to commence fishing, the estimated time of arrival at the position, and contact information for the fishing vessel (for example radio, satellite phone or email);
+
+(b) an inspection vessel that intends to inspect a fishing vessel before it begins fishing for Greenland halibut shall notify that fishing vessel and the NAFO Executive Secretary of the coordinates of a designated inspection point that is no more than 60 nautical miles from the position where the master of the vessel estimates that the vessel will commence fishing and shall inform other inspection vessels that may be operating in the Regulatory Area accordingly;
+
+(c) a fishing vessel notified in accordance with point (b) shall:
+
+(i) proceed to the designated inspection point; and
+
+(ii) ensure that the stowage plan for catch on board on entry to the Regulatory Area meets the requirements of Article 25(5) and is made available to inspectors upon request;
+
+(d) a fishing vessel may not begin fishing before being inspected in accordance with this Article, unless:
+
+(i) it receives no confirmation within 72 hours of the notification it has transmitted in accordance with point (a); or
+
+(ii) within 3 hours of its arrival at the designated inspection point, the inspection vessel has not begun the intended inspection.
+
+3\. The landings of Greenland halibut from non-Contracting Party vessels that have engaged in fishing activities in the Regulatory Area are prohibited.
+
+### Article 11 — Squid
+
+Fishing for squid between 00:01 UTC on 1 January and 24:00 UTC on 30 June in Subareas 3 and 4 shall be prohibited.
+
+### Article 12 — Conservation and management of sharks
+
+1\. Member States shall report all catches of sharks, including available historical data, in accordance with the catch and fishing effort reporting procedures set out in Article 25.
+
+2\. For all observed hauls that contain Greenland shark, observers shall record the number, estimated weight and measured length (estimated length if measured length is not possible) per haul or set, the sex, and catch disposition (alive, dead or unknown) of each individual Greenland shark.
+
+3\. It shall be prohibited to:
+
+(a) remove shark fins on board vessels;
+
+(b) retain on board, tranship or land shark fins fully detached from a carcass.
+
+4\. Without prejudice to paragraph 1, in order to facilitate on-board storage, shark fins may be partially sliced through and folded against the carcass.
+
+5\. No fishing vessel shall retain on board, tranship or land any fins harvested in contravention of this Article.
+
+6\. In fisheries that are not directed at sharks, each Member State shall encourage every vessel flying its flag to release sharks alive, and especially juveniles, that are not intended for use as food or subsistence.
+
+7\. Member States shall, where possible:
+
+(a) undertake research to identify ways to make fishing gear more selective for the protection of sharks;
+
+(b) conduct research on key biological and ecological parameters, life-history, behavioural traits and migration patterns, as well as on the identification of potential mapping, pupping and nursery grounds of key shark species.
+
+8\. Member States shall provide the results of such research to the Commission, for transmission to the NAFO Executive Secretary.
+
+9\. It shall be prohibited to conduct a directed fishery for retaining, transshipping or landing part or whole of a Greenland shark (Somniosus microcephalus) in the Regulatory Area.
+
+10\. Fishing vessels flying the flag of a Member State shall undertake all reasonable efforts to minimise incidental catch and mortality, and, where alive, release Greenland sharks in a manner that causes the least possible harm.
+
+### Article 13 — Mesh sizes
+
+1\. For the purpose of this Article, mesh size shall be measured in accordance with Annex III.A to the CEM referred to in point 10 of the Annex to this Regulation.
+
+2\. No vessel shall fish with a net having a mesh size smaller than prescribed for each of the following species:
+
+(a) 40 mm for shrimps, including prawns (PRA);
+
+(b) 60 mm for short finned squid (SQI);
+
+(c) 280 mm in the codend and 220 mm in all other parts of the trawl for skate (SKA);
+
+(d) 130 mm for all other groundfish, as listed in Annex I.C of CEM referred to in point 11 of the Annex to this Regulation;
+
+(e) 100 mm for pelagic Sebastes mentella (REB) in Subarea 2 and Divisions 1F and 3K; and
+
+(f) 90 mm for redfish (RED) in the fishery using mid-water trawls in Divisions 3O, 3M and 3LN; and
+
+(g) for cod (COD) in Divisions 3L and 3M: 155 mm or 130 mm when using the sorting grid referred to in Article 14(3a).
+
+3\. A vessel conducting a fishery for a species referred to in paragraph 2 of this Article that has on board nets having a mesh size smaller than that specified in that paragraph, shall ensure such nets are securely lashed and stowed and are not available for immediate use during that fishery.
+
+4\. A vessel conducting a directed fishery for species other than those identified in paragraph 2 of this Article is, however, permitted to take regulated species with nets having a mesh size less than that specified in that paragraph, provided that the by-catch requirements laid down in Article 7(3) are complied with.
+
+### Article 14 — Use of attachments and marking of gear
+
+1\. Strengthening ropes, splitting straps and codend floats may be used on trawls, as long as those attachments do not in any way restrict the authorised mesh or obstruct the mesh opening.
+
+2\. No vessel shall use any means or device that obstructs or diminishes the size of the meshes. However, vessels may attach devices described in Annex III.B Authorised Topside Chafers/Shrimp Toggle Chains of the CEM referred to in point 12 of the Annex to this Regulation, to the upper side of the codend in a manner that does not obstruct the meshes of the codend including any lengtheners. Canvas, netting or other material may be attached to the underside of the codend of a net only to the extent required to prevent or minimise damage to the codend.
+
+3\. Vessels fishing for Northern prawn in Division 3L or 3M shall use sorting grids or grates with a maximum bar spacing of 22 mm. Vessels fishing for Northern prawn in Division 3L shall also be equipped with toggle chains with a minimum length of 72 cm as measured in accordance with Annex III.B to the CEM referred to in point 12 of the Annex to this Regulation.
+
+3a. Fishing vessels conducting a directed trawl fishery for cod in Division 3M shall use a sorting grid for the purpose of reducing the catches of smaller individuals of cod with a minimum bar spacing of 55 mm. The sorting grid shall be placed in the top side panel of the trawl preceding the codend.
+
+4\. When fishing in the areas referred to in Article 18(1), only mid-water trawl gear is allowed.
+
+5\. No fishing vessel shall:
+
+(a) use gear that is not marked in accordance with generally accepted international standards, in particular the 1967 Convention on Conduct of Fishing Operations in the North Atlantic; or
+
+(b) deploy any marker buoy or similar object floating on the surface and intended to indicate the location of fixed fishing gear without displaying the vessel's registration number.
+
+### Article 15 — Lost or abandoned fishing gear, retrieval of fishing gear
+
+1\. The master of the vessel fishing in the Regulatory Area shall:
+
+(a) have equipment on board the fishing vessel to retrieve lost gear;
+
+(b) if the gear or part of it is lost, make every reasonable attempt to retrieve it as soon as possible; and
+
+(c) not deliberately abandon fishing gear, except for safety reasons.
+
+2\. If the lost gear cannot be retrieved, the master of the vessel shall notify the flag Member State within 24 hours of the following:
+
+(a) the name and call sign of the vessel;
+
+(b) the type of lost gear;
+
+(c) the quantity of gear lost;
+
+(d) the time when the gear was lost;
+
+(e) the position where the gear was lost; and
+
+(f) the measures taken by the vessel to retrieve the lost gear.
+
+3\. Following retrieval of lost gear, the master of the vessel shall notify the flag Member State within 24 hours of the following:
+
+(a) the name and call sign of the vessel that has retrieved the gear;
+
+(b) the name and call sign of the vessel that lost the gear (if known);
+
+(c) the type of gear retrieved;
+
+(d) the quantity of gear retrieved;
+
+(e) the time when the gear was retrieved; and
+
+(f) the position where the gear was retrieved.
+
+4\. The Member State shall without delay notify the Commission of the information referred to in paragraphs 2 and 3, for transmission to the NAFO Executive Secretary.
+
+### Article 16 — Minimum fish size requirements
+
+1\. No vessel shall retain on board any fish smaller than the minimum size established in accordance with Annex I.D to the CEM referred to in point 13 of the Annex to this Regulation, which it shall immediately return to the sea.
+
+2\. Processed fish which is below a length equivalent prescribed for that species in Annex I.D to the CEM referred to in point 13 of the Annex to this Regulation shall be considered to derive from fish that is smaller than the minimum fish size prescribed for that species.
+
+3\. Where the number of undersized fish in a single haul exceeds 10 % of the total by number of fish in that haul, the vessel shall for its next tow maintain a minimum distance of 5 nautical miles from any position of the previous tow.
+
+## CHAPTER III — PROTECTION OF VMES IN THE REGULATORY AREA FROM BOTTOM FISHING ACTIVITIES
+
+### Article 17 — Map of footprint (existing bottom fishing areas)
+
+The map of existing bottom fishing areas in the Regulatory Area illustrated in Figure 2 of the CEM referred to in point 2 of the Annex to this Regulation, is delimited on the western side by the Canadian Exclusive Economic Zone boundary and on the eastern side by the coordinates shown in Table 4 of the CEM referred to in point 1 of the Annex to this Regulation.
+
+### Article 18 — Area restrictions for bottom fishing activities
+
+1\. Until 31 December 2026  , no vessel shall engage in bottom fishing activities in any of the areas illustrated in Figure 3 of the CEM referred to in point 14 of the Annex to this Regulation, and defined by connecting the coordinates specified in Table 5 of the CEM referred to in point 15 of the Annex to this Regulation, in their numerical order and back to coordinate 1.
+
+2\. Until 31 December 2026  , no vessel shall engage in bottom fishing activities in the area of Division 3O illustrated in Figure 4 of the CEM referred to in point 16 of the Annex to this Regulation, and defined by connecting the coordinates specified in Table 6 of the CEM referred to in point 17 of the Annex to this Regulation, in their numerical order and back to coordinate 1.
+
+3\. Until 31 December 2026, no vessel shall engage in bottom fishing activities in the areas 1-14b illustrated in Figure 5 of the CEM referred to in point 18 of the Annex and defined by connecting the coordinates specified in Table 7 of the CEM referred to in point 19 of the Annex to this Regulation, in numerical order and back to coordinate 1.
+
+### Article 19 — Exploratory bottom fishing activities
+
+1\. Exploratory bottom fishing activities shall be subject to a prior exploration conducted in accordance with the exploratory protocol set out in Annex I.E to the CEM referred to in point 20 of the Annex to this Regulation.
+
+2\. Member States whose vessels wish to engage in exploratory bottom fishing activities shall, for the purpose of the evaluation:
+
+(a) communicate to the Commission the ‘Notice of Intent to Undertake Exploratory Bottom Fishing’ in accordance with Annex I.E to the CEM referred to in point 21 of the Annex to this Regulation, together with the assessment required under Article 20(1);
+
+(b) provide to the Commission an ‘Exploratory Bottom Fishing Trip Report’ in accordance with Annex I.E to the CEM referred to in point 22 of the Annex to this Regulation, within two months of the completion of the exploratory bottom fishing activities.
+
+3\. The master of the vessel shall:
+
+(a) start exploratory bottom fishing activities only after being authorised in accordance with the conservation and management measures adopted by the NAFO Commission to prevent significant adverse impacts of the exploratory fishing activities on VMEs;
+
+(b) have a scientific observer on board for the duration of the exploratory bottom fishing activity.
+
+### Article 20 — Preliminary assessment of proposed exploratory bottom fishing activities
+
+1\. A Member State proposing to participate in exploratory bottom fishing activities shall submit, in support of its proposal, a preliminary assessment of the known and anticipated impacts of the bottom fishing activity, which will be exercised by the vessels flying its flag, on VMEs.
+
+2\. The preliminary assessment referred to in paragraph 1 shall:
+
+(a) be sent to the Commission not less than one week in advance of the opening of the June meeting of the NAFO Scientific Council;
+
+(b) address the elements for assessment of proposed exploratory bottom fishing activities in accordance with Annex I.E to the CEM referred to in point 23 of the Annex to this Regulation.
+
+### Article 21 — Encounters with VME indicator species
+
+1\. An encounter with VME indicator species is defined as catch per set (for example trawl tow, longline set, or gill net set) of more than 7 kg of sea pens and/or 60 kg of other live coral and/or 300 kg of sponges.
+
+2\. Each Member State shall require that masters of vessels flying its flag and conducting bottom fishing activities in the Regulatory Area quantify the catch of VME indicator species, where evidence of VME indicator species, in accordance with Part VI of Annex I.E to the CEM referred to in point 3 of the Annex to this Regulation, are encountered during the course of fishing operations.
+
+3\. If the quantity of VME indicator species caught in the fishing operation referred to in paragraph 2 (such as trawl tow or set of a gill net or longline) is beyond the threshold defined in paragraph 1, the master of the vessel shall:
+
+(a) report the encounter without delay to the competent authority of the flag Member State including the position that is provided by the vessel, either the end point of the tow or set or another position that is closest to the exact encounter location, the VME indicator species encountered, the quantity (kg) of VME indicator species encountered; and
+
+(b) cease fishing and move away at least 2 nautical miles from the endpoint of the tow/set in the direction least likely to result in further encounters. The master of the vessel shall use his best judgment based on all available sources of information.
+
+4\. Each Member State shall require that an observer with sufficient scientific expertise be deployed in accordance with point (b) of Article 19(3) for the areas outside the footprint who shall:
+
+(a) identify corals, sponges and other organisms to the lowest possible taxonomical level, using the ‘Exploratory Fishery Data Collection Form’ in accordance with Annex I.E to the CEM referred to in point 24 of the Annex to this Regulation; and
+
+(b) deliver the results of such identification to the master of the vessel to facilitate the quantification referred to in paragraph 2 of this Article.
+
+5\. Each Member State shall:
+
+(a) forward, without delay, the encounter information reported by the master of the vessel to the Commission if the quantity of the VME indicator species caught in a fishing operation (such as trawl, tow, set, of a gill net or longline) is beyond the threshold defined in paragraph 1;
+
+(b) issue an immediate alert of the encounter to all fishing vessels flying its flag; and,
+
+(c) temporarily close, where possible, a two mile radius around any reported VME encounter location outside the footprint upon notification by the Commission.
+
+The Commission may reopen temporarily closed areas upon notification from NAFO.
+
+## CHAPTER IV — VESSEL REQUIREMENTS AND CHARTERING
+
+### Article 22 — Vessel requirements
+
+1\. Each Member State shall notify the Commission of the following by electronic means:
+
+(a) a list of vessels flying its flag which it may authorise to conduct fishing activities in the Regulatory Area (‘notified vessels’), in the format prescribed in Annex II.C1 to the CEM referred to in point 25 of the Annex to this Regulation;
+
+(b) any deletion from the list of notified vessels, without delay, in the format prescribed in Annex II.C2 to the CEM referred to in point 26 of the Annex to this Regulation.
+
+2\. No fishing vessel shall be permitted to conduct fishing activities in the Regulatory Area unless:
+
+(a) it is listed as a notified vessel;
+
+(b) it has been issued with an IMO number; and
+
+(c) it has been issued with an authorisation by the flag Member State to conduct such fishing activities (‘authorised vessel’).
+
+3\. No Member State shall authorise a fishing vessel flying its flag to conduct fishing activities in the Regulatory Area unless it is able to exercise effectively its flag State duties in respect of such vessel.
+
+4\. Each Member State shall manage the number of authorised vessels and their fishing effort in a manner that takes due account of the fishing opportunities available to that Member State in the Regulatory Area.
+
+5\. Each Member State shall transmit to the Commission by electronic means:
+
+(a) the individual authorisation for each vessel on the list of notified vessels it has authorised to conduct fishing activities in the Regulatory Area, in the format specified in Annex II.C3 to the CEM referred to in point 27 of the Annex to this Regulation and not later than 40 days before the start of the fishing activities for the calendar year;
+
+Each authorisation shall in particular identify the start and end dates of validity and, the species for which directed fishery is allowed, unless exempted in Annex II.C3 to the CEM referred to in point 27 of the Annex to this Regulation. If the vessel intends to fish for regulated species referred to in fishing opportunities in force, the identification shall refer to the stock, where the regulated species is associated with the area concerned;
+
+(b) the suspension of the authorisation, in the format prescribed in Annex II.C4 to the CEM referred to in point 28 of the Annex to this Regulation, without delay, in case of removal of the authorisation concerned or of any modification to its content, where the removal or the modification occurs during the period of validity;
+
+(c) the resumption of a suspended authorisation, transmitted in accordance with the procedure set out in point (a).
+
+6\. Each Member State shall ensure that the period of validity of the authorisation matches with the certification period concerning the certification of the capacity plan referred to in paragraphs 10 and 11.
+
+7\. Every fishing vessel shall bear markings that are readily identified in accordance with internationally accepted standards, such as the FAO Standard Specifications for the Marking and Identification of Fishing Vessels.
+
+8\. No fishing vessel shall operate in the Regulatory Area without carrying on board current valid documents issued by the competent authority of the flag Member State, at a minimum establishing the following particulars concerning the vessel:
+
+(a) its name, if any;
+
+(b) the letter(s) of the port or district in which it is registered, if any;
+
+(c) the number(s) under which it is registered;
+
+(d) the IMO number;
+
+(e) its international radio call sign, if any;
+
+(f) the names and addresses of the owner(s) and, where applicable, the charterers;
+
+(g) its length overall;
+
+(h) its engine power;
+
+(i) the capacity plan referred to in paragraph 10; and
+
+(j) estimation of freezing capacity or certification of refrigeration system.
+
+9\. No fishing vessel shall conduct fishing activities in the Regulatory Area without carrying on board an accurate up-to-date capacity plan, certified by a competent authority or recognised by its flag Member State.
+
+10\. The capacity plan shall:
+
+(a) take the form of a drawing or description of its fish storage place, including the storage capacity of each fish storage place in cubic metres and the drawing shall consist of longitudinal section of the vessel, including a plan for each deck on which a fish storage place is located and the locations of freezers;
+
+(b) show in particular the positions of any door, hatch and any other access to each fish storage place, with reference to the bulkheads;
+
+(c) indicate the main dimensions of the fish storage tanks (refrigerated sea water tanks) and, for each one, indicating the calibration in cubic metres at intervals of 10 cm; and
+
+(d) have the true scale clearly indicated on the drawing.
+
+11\. Each Member State shall ensure that, every two years, the capacity plan of its authorised vessels is certified correct by the competent authority.
+
+### Article 23 — Chartering arrangements
+
+1\. For the purpose of this Article, ‘chartering Contracting Party’ refers to the Contracting Party that holds an allocation as indicated in Annex I.A and Annex I.B to the CEM, or the Member State that holds a fishing opportunities allocation, and ‘flag State Contracting Party’ refers to the Contracting Party or to the Member State in which the chartered vessel is registered.
+
+2\. All or part of the fishing allocation of a chartering Contracting Party can be harvested using a chartered authorised vessel (‘chartered vessel’) flying the flag of another Contracting Party, subject to the following conditions:
+
+(a) the flag State Contracting Party has consented in writing to the chartering arrangement;
+
+(b) the chartering arrangement is limited to one fishing vessel per flag State Contracting Party in any calendar year;
+
+(c) the duration of the fishing operations under the chartering arrangement does not exceed six months cumulatively in any calendar year; and
+
+(d) the chartered vessel is not a vessel that has previously been identified as having engaged in IUU fishing.
+
+3\. All catch and by-catch taken by the chartered vessel in accordance with the chartering arrangement shall be attributed to the chartering Contracting Party.
+
+4\. The flag State Contracting Party shall not authorise the chartered vessel, when conducting fishing operations under the chartering arrangement, to fish any of the flag State Contracting Party’s allocations or under another charter at the same time.
+
+5\. No transhipment at sea may be carried out without the prior authorisation of the chartering Contracting Party, which shall ensure that it is carried out under the supervision of an observer on board.
+
+6\. The flag State Contracting Party shall notify the NAFO Executive Secretary in writing prior to the start of the chartering arrangement of its consent to the chartering arrangement and provide to the chartered vessel a copy of the notice issued by the NAFO Executive Secretary with the details of the chartering.
+
+6a. Where the chartered vessel is a Union fishing vessel, the flag Member State shall notify the Commission in writing prior to the start of the chartering arrangement. Where the Commission considers that the relevant conditions established in the CEM are met, it shall notify the NAFO Executive Secretary of the consent to the chartering arrangement.
+
+6b. The chartering Contracting Party shall, before the date the chartering arrangement is effective, provide the following information in writing to the NAFO Executive Secretary and to the chartered vessel, which shall at all times carry a copy on board:
+
+(a) the name, flag State registration, IMO number and flag State of the vessel;
+
+(b) previous name(s) and flag State(s) of the vessel, if any;
+
+(c) the name and address of the owner(s) and operators of the vessel;
+
+(d) a copy of the chartering arrangement and any fishing authorisation or licence the chartering Contracting Party has issued to the chartered vessel; and
+
+(e) the allocation assigned to the vessel.
+
+6c. Where the chartering Contracting Party is the Union, the chartering Member State shall notify the information referred to in paragraph 6b to the Commission before the chartering arrangement becomes effective. Where the Commission considers that the relevant conditions established in the CEM are met, it shall transmit the information to the NAFO Executive Secretary.
+
+7\. Where the chartered vessel is a Union fishing vessel, the flag Member State shall notify the Commission immediately upon the occurrence of any of the following events:
+
+(a) start of fishing operations under the chartering arrangement;
+
+(b) suspension of fishing operations under the chartering arrangement;
+
+(c) resumption of fishing operations under a chartering arrangement that has been suspended;
+
+(d) end of fishing operations under the chartering arrangement.
+
+8\. The flag State Contracting Party shall maintain a separate record of catch and by-catch data from fishing operations in accordance with every charter of a vessel flying its flag and report them to the Commission, which shall transmit it to the chartering Contracting Party and the NAFO Executive Secretary.
+
+## CHAPTER V — MONITORING OF FISHERIES
+
+### Article 24 — Product labelling requirements
+
+1\. When processed, all species harvested in the Regulatory Area shall be labelled in such a way that each species and product category is identifiable. All species must be labelled using the following data:
+
+(a) the name of the capture vessel;
+
+(b) the 3-Alpha Code for each species as listed in Annex I.C to the CEM referred to in point 11 of the Annex to this Regulation;
+
+(c) in the case of Northern prawns, the date of capture;
+
+(d) the Regulatory Area and Division of fishing; and
+
+(e) the product form presentation code as listed in Annex II.K to the CEM referred to in point 29 of the Annex to this Regulation.
+
+2\. Labels shall be securely affixed, stamped or written on packaging at the time of stowage and be of a size that can be read by inspectors in the normal course of their duties.
+
+3\. Labels shall be marked in ink on a contrasting background.
+
+4\. Each package shall contain only:
+
+(a) one product form category;
+
+(b) one Division of capture;
+
+(c) one date of capture (in the case of Northern prawns); and
+
+(d) one species.
+
+### Article 25 — Monitoring of catch
+
+1\. For the purposes of monitoring catch, each fishing vessel shall have a fishing logbook, a production logbook and a stowage plan to record fishing activities in the Regulatory Area.
+
+2\. Each fishing vessel shall maintain a fishing logbook that is retained on board for at least 12 months and in accordance with Annex II.A to the CEM referred to in point 30 of the Annex to this Regulation, and that:
+
+(a) accurately records the catch of each tow/set by Division;
+
+(b) indicates the disposition of the catch of each tow/set, including the amount (in kg, live weight) of each stock that is retained on board, discarded, offloaded, or transhipped during the current fishing trip.
+
+3\. Each fishing vessel shall maintain a production logbook that is retained on board for at least 12 months and that:
+
+(a) records the daily cumulative production for each species and product type in kg for the preceding day from 00:01 UTC until 24:00 UTC;
+
+(b) records the production of each species and product type by Division;
+
+(c) lists the conversion factors used to convert production weight of each product type into live weight when recorded in the fishing logbook;
+
+(d) records each entry in accordance with Article 24; and
+
+(e) when production has occurred on the day of an inspection, makes the information related to any catch processed for that day available to an inspector upon request.
+
+4\. Each fishing vessel shall, with due regard for safety and navigational responsibilities of the master of the vessel, stow all catch taken in the Regulatory Area separately from all catch taken outside the Regulatory Area, and ensure that such separation is clearly demarcated using plastic, plywood or netting.
+
+5\. Each fishing vessel shall maintain a stowage plan that:
+
+(a) clearly shows:
+
+(i) the location and quantity, expressed as product weight in kg, of each species within each fish hold;
+
+(ii) the location in each hold of shrimp taken in Division 3L and in Division 3M, including the quantity of shrimp in kg, by Division;
+
+(iii) the top view of product within each fish hold;
+
+(b) is updated daily for the preceding day from 00:01 to 24:00 UTC; and
+
+(c) is retained on board until all catches have been unloaded completely from the vessel.
+
+6\. Every fishing vessel shall transmit electronically, in accordance with the format and the content prescribed for each type of report in Annex II.D and Annex II.F to the CEM referred to in points 31 and 32 of the Annex to this Regulation, to its FMC reports as regards the following:
+
+(a) catch on entry (COE): quantity of catch on board by species upon entry into the Regulatory Area, transmitted at least six hours in advance of the vessel's entry;
+
+(b) catch on exit (COX): quantity of catch on board by species upon exit from the Regulatory Area transmitted at least six hours in advance of the vessel's exit;
+
+(c) catch report (CAT): quantity of catch retained and quantity discarded by species for the day preceding the report, by Division, including nil catch returns, sent daily before 12:00 UTC, unless otherwise submitted in a COX report; nil catch retained and nil discards of all species shall be reported using the 3 alpha code MZZ (marine species not specified) and quantity as ‘0’ as the following examples demonstrate (//CA/MZZ 0//and//RJ/MZZ 0//);
+
+(d) catch on board (COB): for any vessel fishing Northern prawn in Division 3L, prior to entry or exit from Division 3L, transmitted one hour prior to crossing the boundary of Division 3L;
+
+(e) transhipment (TRA):
+
+(i) by donor vessel, transmitted at least twenty four hours in advance of the transhipment; and
+
+(ii) by receiving vessel, not later than one hour after the transhipment.
+
+(f) port of landing (POR): by a vessel that has received a transhipment at least twenty four hours in advance of any landing.
+
+Catch shall be reported at the species level under their corresponding 3-alpha code presented in Annex I.C to the CEM referred to in point 11 of the Annex to this Regulation or, if not contained in Annex I.C to the CEM, the FAO Aquatic Sciences and Fisheries Information System List of Species for Fishery Statistics shall be used. The estimated weight of sharks caught per haul or set shall also be recorded.
+
+7\. The reports referred to in paragraph 6 may be cancelled by means of a cancel report in the format specified in Annex II.F(8) to the CEM referred to in point 32 of the Annex to this Regulation. If any of those reports is subject to correction, a new report shall be sent without delay after the cancel report within the time limits set out in this Article.
+
+The flag State FMC shall communicate its acceptance of the report cancellation from vessels flying its flag to the Commission without delay.
+
+8\. Each Member State shall ensure that its FMC, immediately upon receipt, transmits electronically the reports referred to in paragraph 6 to the NAFO Executive Secretary in the format prescribed in Annex II.D to the CEM referred to in point 31 of the Annex to this Regulation, with the Commission and EFCA in copy.
+
+9\. Each Member State shall:
+
+(a) report its provisional monthly catches by species and stock area, and its provisional monthly fishing days for the fishery of Northern prawn in Division 3M, whether or not it has quota or effort allocations for the relevant stocks; it shall transmit those reports to the Commission within 20 days of the end of the calendar month in which the catch was taken;
+
+(b) ensure that logbook information is submitted in either Extensible Markup Language (XML) or in a Microsoft Excel file format, to the Commission containing at a minimum the information outlined in Annex II.N to the CEM referred to in point 33 of the Annex to this Regulation, within 60 days following the completion of each fishing trip.
+
+Point (a) of the first subparagraph of this paragraph shall not apply if all catches have been reported in accordance with paragraph 6.
+
+### Article 26 — Vessel monitoring system (VMS)
+
+1\. Each fishing vessel operating in the Regulatory Area shall be equipped with a satellite monitoring device capable of continuous automatic transmission of position to its land-based FMC, at least once an hour, with the following VMS data:
+
+(a) vessel identification;
+
+(b) most recent vessel position, by latitude and longitude, having an error tolerance margin no greater than 500 metres and a confidence interval of 99 %;
+
+(c) UTC date and time of the fixing of the position; and
+
+(d) vessel course/heading and speed.
+
+2\. Each Member State shall ensure that its FMC:
+
+(a) receives the position data referred to in paragraph 1 and records them using the following 3 letter codes:
+
+(i) ‘ENT’, first VMS position transmitted by each vessel upon entering the Regulatory Area;
+
+(ii) ‘POS’, every subsequent VMS position transmitted by each vessel from within the Regulatory Area; and
+
+(iii) ‘EXI’, first VMS position transmitted by each vessel upon exiting the Regulatory Area;
+
+(b) is equipped with computer hardware and software for automatic data processing and electronic data transmission and applies back-up and recovery procedures and records the data received from fishing vessels in computer readable form that it maintains for not less than three years; and
+
+(c) notifies the Commission and EFCA of the FMC name, address, telephone, telex, email or facsimile numbers and any subsequent changes without delay.
+
+3\. Each Member State shall assume all costs associated with its own VMS.
+
+4\. Where an inspector observes a fishing vessel in the Regulatory Area and has not received data in accordance with paragraph 1, 2 or 8 that inspector shall inform the master of the vessel and the Commission.
+
+5\. The Member State shall ensure that the master of the vessel or the owner of a fishing vessel flying its flag or its representative is informed when the vessel's satellite monitoring device appears to be defective or non-functioning.
+
+6\. Where the satellite monitoring device fails, the master of the vessel shall ensure it is repaired or replaced within one month following such failure, or, where a fishing trip lasts more than one month, the repair or the replacement is completed upon the vessel's next entry into port.
+
+7\. No fishing vessel may commence a fishing trip with a defective satellite monitoring device.
+
+8\. Every fishing vessel operating with a defective satellite monitoring device, shall transmit, at least once every 4 hours, the VMS position data to its flag Member State FMC by other available means of communication, in particular, satellite, email, radio, facsimile or telex.
+
+9\. The flag Member State shall ensure that:
+
+(a) its FMC transmits VMS position data to the NAFO Executive Secretary with the Commission and EFCA in copy, as soon as possible, but not later than 24 hours after it receives them and may authorise fishing vessels flying its flag to transmit VMS position data by satellite, email, radio, facsimile or telex, direct to the NAFO Executive Secretary; and
+
+(b) the VMS position data transmitted to the NAFO Executive Secretary are in conformity with the data exchange format set out in Annex II.E to the CEM referred to in point 34 of the Annex to this Regulation and further described in Annex II.D to the CEM referred to in point 31 of the Annex to this Regulation.
+
+10\. Each Member State may use NAFO VMS data for search and rescue or for the purpose of maritime safety.
+
+## CHAPTER VI — OBSERVER SCHEME
+
+### Article 27 — Observer programme
+
+1\. Observers shall be independent and impartial, and have the training, knowledge, skills and abilities to perform all of the duties, functions and requirements as specified in this Article. Observers shall execute their duties and functions in an unbiased manner regardless of nationality and of which flag the vessel is flying, and shall be free from undue influence or benefit linked to the fishing activity of any vessel fishing in the Regulatory Area.
+
+2\. Without prejudice to the exception in paragraph 3, each fishing vessel, while conducting fishing activities in the Regulatory Area, shall carry at all times at least one observer in accordance with the provisions of the observer programme. A fishing vessel shall not commence fishing until the observer is deployed on the fishing vessel. The failure to carry an observer if required shall be considered a serious infringement.
+
+3\. By way of derogation from paragraph 2, and provided that NAFO has not requested a higher observer coverage level, a Member State may allow fishing vessels flying its flag to carry an observer for less than 100 %, but not less than 25 % of the fishing trips conducted by its fleet, or of the days the fishing vessels are present in the Regulatory Area during the year, on the condition that the flag Member State, for the vessels not carrying an observer:
+
+(a) ensures that the vessels concerned target species in areas where negligible by-catch of other species is expected to occur;
+
+(b) ensures that the vessel complies with all real-time reporting requirements;
+
+(c) physically inspects or otherwise evaluates as appropriate, following risk assessment, each landing in its ports by the vessel concerned according to national monitoring, control and surveillance procedures. If any infringement to this Regulation is detected and confirmed, it shall prepare an inspection report in the format prescribed in Annex IV.C to the CEM referred to in point 9 of the Annex to this Regulation and transmit it to the Commission as soon as possible after the infringement has been confirmed;
+
+(d) as early as possible in advance of the fishing trip, transmits to the Commission the following information:
+
+(i) the name, IMO number, and international radio call sign of the vessel;
+
+(ii) the factors that support the decision to grant the derogation from the 100 % coverage;
+
+(e) submits to the Commission by 15 February each year, for the previous calendar year, a report containing a comparison of all relevant fishing activities showing the difference between the trips where the vessel had an observer on board and those where the observer was withdrawn. The Commission shall transmit that information to the NAFO Executive Secretary by 1 March each year.
+
+4\. Where an inspector issues a notice of an infringement to a fishing vessel that is not carrying an observer, except where the absence of an observer is in accordance with paragraph 3, at the time of the notice, the infringement shall be deemed a serious infringement for the purpose of Article 35(1) and, where the flag Member State does not require the fishing vessel to proceed immediately to port in accordance with Article 35(3), it shall assign an observer to the fishing vessel without delay.
+
+5\. Each Member State shall:
+
+(a) each year, before the vessels flying its flag start fishing in the Regulatory Area, send to the Commission an updated list of observers (name and ID if applicable) that it intends to deploy on vessels flying its flag operating in the Regulatory Area;
+
+(b) require vessels flying its flag to carry an observer from the list referred to in point (a), in accordance with the observer programme;
+
+(c) to the extent practicable, ensure that individual observers are not deployed on consecutive trips on the same vessel;
+
+(d) ensure that observers are equipped with an independent two-way communication device at sea;
+
+(e) take appropriate action with respect to vessels flying its flag to ensure safe working conditions, the protection, security and welfare of observers in the performance of their duties, consistent with international standards or guidelines;
+
+(f) ensure that the observers treat all data and information relating to the fishing operations collected during their deployment, including images and videos taken, in accordance with applicable confidentiality requirements;
+
+(g) electronically and without delay following its receipt, transmit to the NAFO Executive Secretary the daily observer report referred to in point (e) of paragraph 11.
+
+6\. Upon the receipt of an observer report from an observer reporting discrepancies with the CEM or an incident, including any instances of obstruction, intimidation, interference, or otherwise prevention of the observer from performing his or her duties, concerning a vessel flying its flag, a Member State shall:
+
+(a) treat the report with utmost sensitivity and discretion, in accordance with applicable confidentiality requirements;
+
+(b) assess discrepancies identified in the observer report and conduct any follow-up action deemed appropriate;
+
+(c) create a report on follow-up actions and submit it to the Commission.
+
+7\. Each Member State shall provide:
+
+(b) without delay, the observer trip report referred to in paragraph 11;
+
+(c) by 15 February each year for the previous calendar year, a report on its compliance with the obligations set out in this Article.
+
+8\. If a fishing vessel is carrying an observer from another Member State or NAFO Contracting Party, that observer shall report to the vessel's flag Member State.
+
+9\. If a fishing vessel required to carry an observer is not carrying one, the flag Member State may allow any other Contracting Party to deploy an observer on the vessel.
+
+10\. If, during deployment, it is determined that a serious risk to the observer exists, the flag Member State shall take steps to ensure that the observer is removed from the vessel unless and until the risk is addressed.
+
+11\. An observer deployed on a vessel shall, at minimum perform the duties listed below:
+
+(a) complete the observer trip report as set out in Annex II.M to the CEM referred to in point 35 of the Annex, noting that data collection on Greenland sharks shall be carried out minimising the damage to the sampled individuals;
+
+(b) transmit daily, before 12:00 UTC to the FMC of the flag Member State, in accordance with Annex II.G to the CEM referred to in point 36 of the Annex to this Regulation, the report for the preceding day, by division, whether the vessel was fishing or not;
+
+(c) report without delay to the FMC any discrepancy with this Regulation and any instances of obstruction, intimidation, interference with or otherwise prevention of the observer from performing their duties;
+
+(d) monitor the vessel’s product labelling, production logbook, and stowage plan against the requirements established in Articles 24 and 25, and record in the observer trip report any discrepancies identified;
+
+(e) record any observed interruption or interference with VMS;
+
+(f) submit the information in Annex II.M to the CEM referred to in point 35 of the Annex by electronic means to the FMC and to the port State as soon as possible after leaving the Regulatory Area and at the latest at the arrival of the vessel in port for landing;
+
+(g) make themselves available to inspectors at sea, or in port upon arrival of the vessel, for the purposes of providing information related to the fishing activities of the vessel;
+
+(h) maintain detailed records, including relevant images and video footage, of any circumstances and information related to any instances of discrepancies with this Regulation for transmission to the FMC at the earliest opportunity, and at the latest upon the arrival of the vessel in port for landing.
+
+12\. The master of the vessel flying the flag of a Member State shall:
+
+(a) extend such cooperation and assistance as may be required to enable the observer to carry out his or her duties, including providing the observer with such access as may be required to the catch retained on board and discards and the catch registration documents (e.g. fishing logbook, production logbook, stowage plan);
+
+(b) provide food and accommodation to the observer of a standard no less than that provided to the vessel's officers. If officers' accommodation is not available, the observer shall be provided accommodation of a standard as close to an officer's as practicable but not less than that provided to the crew;
+
+(c) provide access to all operational areas of the vessel necessary for the observer to complete his or her duties, including the vessel's hold(s), production area(s), bridge, garbage processing equipment and navigation and communication equipment;
+
+(d) refrain from, personally or through their agents, employees, or crew members, obstruct, intimidate, interfere with, influence, bribe or attempt to bribe or compromise the safety of an observer in the performance of his/her duties;
+
+(e) include the observer in all emergency drills conducted on-board; and
+
+(f) notify the observer when an inspection party has signalled their intent to board the vessel; and
+
+(g) provide the observer with unhindered independent internet access on board at all times, unless the observer has available a fully operational two-way satellite communication device.
+
+13\. Unless otherwise arranged with another NAFO Contracting Party or flag Member State, each Member State shall bear the costs of remunerating the observers it has deployed. The flag Member State may allow fishing operators to contribute to the costs of remunerating observers without prejudice to paragraph 14.
+
+14\. Observers shall not have financial or beneficial interest in, and shall be paid in a manner that demonstrates financial independence from, any vessel fishing in the Regulatory Area.
+
+15\. The information that Member States are required to provide in accordance with points (c) and (d) of paragraph 3, point (a) of paragraph 5, point (c) of paragraph 6 and paragraph 7 shall be transmitted to EFCA with the Commission in copy. EFCA shall ensure that this information is transmitted to the NAFO Executive Secretary without delay, for posting on the MCS website.
+
+## CHAPTER VII — JOINT INSPECTION AND SURVEILLANCE SCHEME
+
+### Article 28 — General provisions
+
+1\. EFCA shall coordinate the inspection and surveillance activities for the Union. It may draw up, in concert with the Member States concerned, joint operational inspection and surveillance programmes for that purpose (‘the Scheme’). The Member States whose vessels are engaged in fisheries in the Regulatory Area shall adopt the necessary measures to facilitate the implementation of the Scheme, particularly as regards the human and material resources required and the periods and zones in which these resources are to be deployed.
+
+2\. Inspection and surveillance shall be carried out by inspectors assigned by the Member States, EFCA and the Commission. Member States and the Commission shall notify inspectors to EFCA through the Scheme.
+
+3\. The Member States, in collaboration with the Commission and EFCA, may by mutual agreement deploy inspectors and EFCA coordinators that EFCA has assigned to the Scheme to an inspection platform of another NAFO Contracting Party.
+
+4\. When there are more than 15 fishing vessels of Member States at any one time present in the Regulatory Area, EFCA and Member States shall ensure that during that time:
+
+(a) an inspector or other competent authority is present in the Regulatory Area; or
+
+(b) a competent authority is present in the territory of a NAFO Contracting Party adjacent to the Convention Area;
+
+(c) Member States respond without delay to every notice of infringement in the Regulatory Area by a fishing vessel flying their flag.
+
+5\. Member States participating in the Scheme shall provide each inspection platform, upon its entry into the Regulatory Area, with a list of sightings and boardings it has conducted in the previous ten-day period including the date, coordinates and any other relevant information.
+
+6\. Each Member State participating in the Scheme, in coordination with the Commission or EFCA, shall ensure that every inspection platform flying its flag operating in the Regulatory Area maintains secure contact, daily where possible, with every other inspection platform operating in the Regulatory Area, to exchange information necessary to coordinate their activities.
+
+7\. Inspectors visiting a research vessel shall note the status of the vessel, and shall limit inspection procedures to those necessary to ascertain that the vessel is conducting activities consistent with its research plan. Where the inspectors have reasonable grounds to suspect the vessel is conducting activities that are not consistent with its research plan, the Commission and EFCA shall be informed immediately, and the CEM shall fully apply.
+
+8\. Member States shall ensure its inspectors treat vessels operating in the Regulatory Area equitably and in an equal manner by avoiding a disproportionate number of inspections on vessels flying the flag of any one NAFO Contracting Party. In respect of any quarter-annual period, the number of inspections its inspectors conduct on vessels flying the flag of another NAFO Contracting Party shall, insofar as possible, reflect the proportion of the total fishing activity in the Regulatory Area encompassing, inter alia, the level of catches and vessel days. In determining the frequency of inspections, inspectors may take into account the fishing patterns and compliance record of any fishing vessel.
+
+9\. When participating in the Scheme, a Member State shall ensure that, except when inspecting a fishing vessel flying its flag and in accordance with its domestic law, inspectors and inspector trainees assigned to the Scheme:
+
+(a) remain under its operational control;
+
+(b) implement the provisions of the Scheme;
+
+(c) do not carry arms when boarding the vessel;
+
+(d) refrain from enforcing laws and regulations relating to Union waters;
+
+(e) observe generally accepted international regulations, procedures and practices relating to the safety of the vessel being inspected and its crew;
+
+(f) do not interfere with fishing activities or stowage of fishery products and, to the extent practicable, avoid action which would adversely affect the quality of the catch on board; and
+
+(g) open containers in a manner that facilitates their prompt resealing, repacking and eventual re-storage.
+
+10\. All inspection, surveillance and investigation reports referred to in this Chapter and associated images or evidence shall be treated as confidential, in accordance with Annex II.B to the CEM referred to in point 37 of the Annex to this Regulation.
+
+### Article 29 — Notification requirements
+
+1\. Each Member State shall, not later than 1 November each year, send the following information to EFCA (with the Commission in copy), which shall ensure that that information is sent to the NAFO Executive Secretary:
+
+(a) the contact information of the competent authority which shall act as the contact point for the purpose of immediate notification of infringements in the Regulatory Area, and any subsequent changes to that information, not less than 15 days before the change comes into effect;
+
+(b) the names of inspectors and inspector trainees and the name, radio call sign and communication contact information of each inspection platform it has assigned to the Scheme. It shall notify changes to the particulars so notified, whenever possible, not less than 60 days in advance.
+
+2\. When participating in the Scheme, a Member State shall ensure that EFCA is notified in advance of the date, start time and end of each patrol by the inspection platform it has so assigned.
+
+### Article 30 — Surveillance procedures
+
+1\. Where an inspector observes in the Regulatory Area a fishing vessel flying the flag of a NAFO Contracting Party for which there are reasons to suspect an apparent infringement of this Regulation, and where an immediate inspection is not practicable, the inspector shall:
+
+(a) fill out the Surveillance Report Form in accordance with Annex IV.A to the CEM referred to in point 38 of the Annex to this Regulation. If the inspector has made a volumetric or catch composition evaluation of the content of a haul, the surveillance report shall include all relevant information regarding the composition of the tow, and refer the method used for the volumetric evaluation;
+
+(b) record images of the vessel and record the position, date and time the image was recorded; and
+
+(c) without delay electronically transmit the surveillance report and images to his competent authority.
+
+2\. The competent authority of a Member State in receipt of such surveillance report shall without delay:
+
+(a) transmit the surveillance report to EFCA which shall submit it without delay to the NAFO Executive Secretary for transmission to the flag State Contracting Party of the vessel;
+
+(b) transmit a copy of images recorded to EFCA which shall in turn transmit them to the flag State Contracting Party of the vessel or the flag Member State if different from the inspecting Member State;
+
+(c) ensure security and continuity of the evidence for subsequent inspections.
+
+3\. Each Member State's competent authority shall on receipt of a surveillance report concerning a vessel flying its flag, conduct such investigation as may be necessary to determine appropriate follow-up action.
+
+4\. Each Member State shall send the investigation report to EFCA, which shall send it to the NAFO Executive Secretary and to the Commission.
+
+### Article 31 — Boarding and inspection procedures for Contracting Parties
+
+Each Member State shall ensure that for an inspection conducted under the Scheme, its inspectors:
+
+(a) prior to boarding, notify the fishing vessel by radio, using the International Code of Signals, of the name of the inspection platform;
+
+(b) display, on the inspection vessel and boarding vessel, the pennant depicted in Annex IV.E to the CEM referred to in point 39 of the Annex to this Regulation;
+
+(c) ensure that during boarding, the inspection vessel remains at a safe distance from fishing vessels;
+
+(d) do not require the fishing vessel to stop or manoeuvre when towing, shooting or hauling;
+
+(e) limit each inspection team to a maximum of four inspectors including any inspection trainee who may accompany the inspection team for training purposes only. Where an inspection trainee accompanies the inspectors, inspectors shall, upon boarding, identify the trainee to the master of the vessel. The inspection trainee shall simply observe the inspection operation conducted by the authorised inspectors and shall in no way interfere with the activities of the fishing vessel;
+
+(f) upon boarding, present to the master of the vessel their NAFO documents of identity issued by the NAFO Executive Secretary in accordance with Article 32.3(b) of the CEM;
+
+(g) limit inspections to four hours, or the time required for the net to be hauled in and both the net and the catch to be inspected, whichever is longer, except:
+
+(i) in the case of an infringement; or
+
+(ii) where the inspector estimates the quantity of catch on board to be different from the quantity of catch recorded in the fishing logbook, in which case the inspector will limit the inspection to one additional hour with a view to verifying calculations and procedures, and re-examining the relevant documentation used to calculate the catch taken in the Regulatory Area and the catch on board the vessel;
+
+(h) gather any relevant information used for identifying compliance with this Regulation provided by the observer.
+
+### Article 32 — Obligations of the master of the vessel during inspection
+
+Every master of the vessel shall take the necessary measures as may be required to facilitate inspection by:
+
+(a) ensuring, where an inspection vessel has signalled that an inspection is about to commence, that any net about to be hauled is not taken on board for at least 30 minutes following the signal from the inspection vessel;
+
+(b) upon request by an inspection platform and to the extent compatible with good seamanship, facilitating boarding by the inspectors;
+
+(c) providing a boarding ladder in accordance with Annex IV.G to the CEM referred to in point 40 of the Annex to this Regulation;
+
+(d) ensuring any mechanical pilot hoist is fit for use in a safe manner including safe access between the hoist to the deck;
+
+(e) providing the inspectors access to all relevant areas, decks and rooms, processed and unprocessed catch, nets or other gear, equipment, and any relevant documents which they consider necessary to verify compliance with this Regulation;
+
+(f) recording and providing to inspectors upon request, coordinates pertaining to the start and end locations of any trial tow conducted in accordance with point (iii) of point (b) of Article 8(1);
+
+(g) upon request of the inspector, producing registration documents, drawings or descriptions of fish rooms, production logbooks and stowage plans and rendering such assistance as the inspector reasonably requires to ascertain that actual stowage of catch conforms with the stowage plan;
+
+(h) refraining from interfering with any contact between the inspectors and the observer including respecting the privacy necessary for the inspectors and the observer to perform their duties;
+
+(i) facilitating the taking of samples of processed fish by inspectors, for the purpose of species identification through DNA analysis;
+
+(j) taking such action as may be necessary to preserve the integrity of any seal affixed by the inspectors and of any evidence remaining on board, until otherwise directed by the flag State;
+
+(k) to secure the continuity of evidence, where seals have been affixed and/or evidence has been secured, signing the appropriate section of the inspection report acknowledging the placement of seals;
+
+(l) ceasing fishing when requested to do so by the inspectors in accordance with point (b) of Article 35(2);
+
+(m) providing, upon request, the use of the vessel's communication equipment and operator for messages to be sent out and received by the inspectors;
+
+(n) at the request of the inspectors, removing any part of the fishing gear which appears to be unauthorised under this Regulation;
+
+(o) where the inspectors have made any entries in the logbooks, providing the inspector with a copy of each page where such entry appears, and at the request of the inspectors, signing each page to confirm that it is a true copy; and
+
+(p) when requested to cease fishing, not resuming fishing until:
+
+(i) the inspectors have completed the inspection and secured any evidence; and
+
+(ii) the master of the vessel has signed the appropriate section of the inspection report as referred to in point (k).
+
+### Article 33 — Inspection report and follow-up
+
+1\. Each Member State shall ensure that its inspectors complete an inspection report in the form set out in Annex IV.B to the CEM referred to in point 41 of the Annex to this Regulation (‘the inspection report’) in relation to each inspection.
+
+2\. For the purpose of the inspection report:
+
+(a) a fishing trip shall be considered to be current where the inspected vessel has on board catch harvested in the Regulatory Area during the trip;
+
+(b) when comparing entries in the production logbook with entries in the fishing logbook the inspectors shall convert production weight into live weight guided by conversion factors set out in Annexes XIII, XIV and XV to Commission Implementing Regulation (EU) No 404/2011 ( 5 ) for Union fishing vessels in respect of species and presentations covered by those Annexes and the conversion factors used by the master of the vessel in other cases;
+
+(c) the inspectors shall:
+
+(i) summarise from logbook records the vessel's catch in the Regulatory Area by species and by Division for the current fishing trip;
+
+(ii) record summaries as well as differences between the recorded catch and their estimates of the catch on board in the appropriate sections of the inspection report;
+
+(iii) upon completion of the inspection, sign the inspection report and present the inspection report to the master of the vessel for signature and comment, and to any witness who may wish to submit a statement;
+
+(iv) immediately notify their competent authority and transmit to it the information and images within 24 hours, or at the earliest opportunity; and
+
+(v) provide a copy of the report to the master of the vessel, duly noting in the appropriate section of the inspection report any refusal by the master of the vessel to acknowledge receipt.
+
+3\. The inspecting Member State shall:
+
+(a) send to EFCA the at sea inspection report, if possible within 20 days of the inspection, which shall submit it to the NAFO Executive Secretary;
+
+(b) comply with the procedure referred to in Article 34(2), after the inspectors issue a notice of an infringement.
+
+4\. Each Member State shall ensure that inspection and surveillance reports prepared by NAFO inspectors have equivalent evidentiary status for establishing facts to inspection and surveillance reports of its own inspectors.
+
+5\. Member States shall cooperate to facilitate judicial or other proceedings initiated as follow-up to a report submitted by a NAFO inspector in accordance with the Scheme.
+
+### Article 34 — Procedures relating to infringements
+
+1\. Each inspecting Member State shall ensure that its inspectors upon detecting an infringement of this Regulation:
+
+(a) record the infringement in the inspection report;
+
+(b) enter and sign a notation in the fishing logbook or other relevant document of the inspected vessel indicating the date, geographical coordinates, and nature of the infringement, make a copy of any relevant entry and request that the master of the vessel sign each page to verify that it is a true copy of the original;
+
+(c) record images of any gear, catch, or other evidence the inspector deems necessary relating to the infringement;
+
+(d) affix securely the inspection seal depicted in NAFO Inspection Seal provided in Annex IV.F to the CEM referred to in point 42 of the Annex to this Regulation, as appropriate, and duly note the action taken and the serial number of each seal in the inspection report;
+
+(e) request the master of the vessel:
+
+(i) in order to secure the continuity of evidence, to sign the appropriate section of the inspection report acknowledging the placement of seals; and
+
+(ii) to give a written statement in the appropriate section of the inspection report;
+
+(f) request that the master of the vessel remove any part of the fishing gear which appears to be unauthorised under this Regulation; and
+
+(g) notify any observer on board of the infringement.
+
+2\. The inspecting Member State shall:
+
+(a) within 24 hours from detection of the infringement, transmit to the Commission and EFCA, which shall in turn transmit to the competent authority of the flag State Contracting Party or Member State if different from the inspecting Member State, and the NAFO Executive Secretary, written notification of the infringement reported by its inspectors. The written notification shall include the information entered in the Infringement section of the inspection report in Annex IV.B to the CEM referred to in point 41 of the Annex to this Regulation, cite the relevant measures and describe in detail the basis for issuing the notice of infringement, and the evidence in support of the notice, and where possible, be accompanied by images of any gear, catch or other evidence relating to the infringement referred to in paragraph 1 of this Article;
+
+(b) within five days of the inspection vessel's return to port, transmit the inspection report to the Commission and EFCA;
+
+EFCA shall submit the inspection report to the NAFO Executive Secretary.
+
+3\. The follow-up to infringements by the flag Member State shall be conducted in accordance with the provisions of Article 36.
+
+### Article 35 — Additional procedures for serious infringements
+
+1\. Each of the following violations constitutes a serious infringement, within the meaning of Article 90 of Regulation (EC) No 1224/2009:
+
+(a) fishing the ‘Others’ quota without prior notification to the Commission and EFCA in contravention of Article 5;
+
+(b) fishing an ‘Others’ quota more than five working days following closure of the fishery in contravention of Article 5;
+
+(c) directed fishing for a stock which is subject to a moratorium, or for which fishing is otherwise prohibited, in contravention of Article 6;
+
+(d) directed fishing for stocks or species after the date of closure of the fishery by the flag Member State notified to the Commission, in contravention of Article 6;
+
+(e) fishing in closed area, in contravention of Article 9(5) or Article 18;
+
+(f) fishing with a bottom fishing gear in an area closed to bottom fishing activities, in contravention of Chapter III;
+
+(g) fishing with an unauthorised mesh size, grid or grate bar spacing, or without the use of sorting grids or grates, in contravention of Article 13 or Article 14;
+
+(h) fishing without a valid authorisation;
+
+(i) mis-recording of catches in contravention of Article 25;
+
+(j) failing to carry or interfering with the operation of the satellite monitoring system in contravention of Article 26;
+
+(k) failure to communicate messages relating to catch in contravention of Article 12(1) or Article 25;
+
+(l) obstructing, intimidating, interfering with or otherwise preventing inspectors or observers from performing their duties, or exerting any other form of indirect pressure;
+
+(m) committing an infringement where there is no observer on board;
+
+(n) concealing, tampering with or disposing of evidence relating to an investigation, including the breaking or tampering of seals or gaining access to sealed areas;
+
+(o) presentation of falsified documents or providing false information to an inspector that would prevent a serious infringement from being detected;
+
+(p) landing, transhipment or making use of other port services:
+
+(i) in a port not designated in accordance with the provisions of Article 39(1); or
+
+(ii) without authorisation of the port State referred to in Article 39(6);
+
+(q) failure to comply with the provisions of Article 41(1);
+
+(r) failure to carry an observer, if this is required.
+
+2\. Where citing a vessel for having committed a serious infringement, the inspector shall:
+
+(a) take all measures necessary to ensure security and continuity of evidence, including, as appropriate, sealing the vessel's hold and/or fishing gear for further inspection;
+
+(b) request that the master of the vessel cease all fishing activity that appears to constitute a serious infringement; and
+
+(c) immediately notify the inspector's competent authority, and transmit to it the information, and where possible images, within 24 hours. The competent authority receiving this information shall notify the flag State Contracting Party or Member State if different from the inspecting Member State in accordance with Article 34.
+
+3\. In the case of a serious infringement concerning a vessel flying its flag, the flag Member States shall:
+
+(a) acknowledge receipt of the related information and images without delay;
+
+(b) ensure the inspected vessel does not resume fishing until further notification;
+
+(c) using all information and material available, review the case and, within 72 hours require the vessel to proceed immediately to a port for a full inspection under its authority, if any of the following serious infringements are apparent:
+
+(i) directed fishing for a stock which is subject to a moratorium;
+
+(ii) directed fishing for a stock for which fishing is prohibited under Article 6;
+
+(iii) mis-recording of catch, in contravention of Article 25; or
+
+(iv) repetition of the same serious infringement during a 6-month period.
+
+4\. Where the serious infringement is misrecording of catch, the full inspection shall ensure the physical inspection and enumeration of total catch on board, by species and Division.
+
+5\. For the purposes of paragraphs 3 and 4, ‘misrecording of catches’ means a difference of at least 10 tonnes or 20 %, whichever is greater, between the inspectors’ estimates of processed catch on board, by species or in total, and the figures recorded in the production logbook, calculated as a percentage of the production logbook figures.
+
+6\. Subject to the consent of the flag Member State and of the port State Contracting Party if different, inspectors of another Contracting Party or Member State may participate in the full inspection and enumeration of the catch.
+
+7\. If point (c) of paragraph 3 does not apply, the flag Member State shall either:
+
+(a) allow the vessel to resume fishing. In such a case, the flag Member State shall not later than two days following the notice of infringement provide written justification to the Commission on why the vessel has not been ordered to port. The commission shall transmit that justification to the NAFO Executive Secretary; or
+
+(b) require the vessel to proceed immediately to a port for a full physical inspection, under its authority.
+
+8\. Where the flag Member State orders the inspected vessel to port, the inspectors may board or remain on board the vessel as it proceeds to port, provided that the flag Member State does not require the inspectors to leave the vessel.
+
+### Article 36 — Follow-up to infringements
+
+1\. In the case of an infringement by a vessel flying its flag, the Member State shall:
+
+(a) investigate fully, including, if necessary, by physically inspecting the fishing vessel at the earliest opportunity;
+
+(b) cooperate with the inspecting NAFO Contracting Party or inspecting Member State if different from the flag Member State to preserve the evidence and the chain of custody in a form that will facilitate proceedings in accordance with its laws;
+
+(c) take immediate judicial or administrative action in conformity with its national legislation against the persons responsible for the vessel; and
+
+(d) ensure that sanctions applicable in respect of infringements, and to the extent possible under national legislation for repeated serious infringements, in particular those identified under Article 35(3), point (c) (iii) and (iv), are adequate in severity to be effective in securing compliance, deterring further infringements or their repetition and depriving the offenders of the benefits accruing from the infringement.
+
+2\. The judicial or administrative action and sanctions referred to in points (c) and (d) of paragraph 1 may include, but shall not be limited to, the following, depending on the gravity of the offence and in accordance with domestic law:
+
+(a) fines;
+
+(b) seizure of the vessel, illegal fishing gear and catches;
+
+(c) suspension or withdrawal of authorisation to conduct fishing activities; and
+
+(d) reduction or cancellation of any fishing allocations;
+
+(e) increased or additional reporting requirements, such as enhanced reporting frequency or additional data to be reported; and
+
+(f) increased or additional monitoring requirements, such as the deployment of an observer or an inspector on board or the installation of remote electronic monitoring implemented in accordance with relevant technical specifications for fishing vessels operating in the Regulatory Area.
+
+3\. Each flag Member State shall ensure that it treats all notices of infringement as if the infringement was reported by its own inspectors.
+
+4\. The flag Member State and the port Member State shall immediately notify the Commission:
+
+(a) the judicial or administrative action and sanctions referred to in points (c) and (d) of paragraph 1;
+
+(b) as soon as practicable but no later than four months following the occurrence of a serious infringement, a report setting out the progress of the investigation, including details of any action it has taken or has initiated in relation to the infringement; and
+
+(c) upon completion of its investigation, a report on the final outcome.
+
+### Article 37 — Member State reports on inspection, surveillance and infringements
+
+1\. Each Member State shall by 1 February each year report to the Commission and to EFCA, in accordance with the Scheme, the following information:
+
+(a) the number of inspections of fishing vessels flying its flag and fishing vessels flying the flag of another NAFO Contracting Party it carried out in the previous calendar year;
+
+(b) the name of every fishing vessel in relation to which its inspectors have issued a notice of infringement, including the date and position of the inspection and the nature of the infringement;
+
+(c) the number of hours flown by its surveillance aircraft on patrol, the number of sightings made by such aircraft, the number of surveillance reports it has transmitted and, for each such report, the date, time and position of the sightings;
+
+(d) the action it has taken during the previous year, including a description of the specific terms of any judicial or administrative actions or sanctions imposed (for example the amount of fines, value of forfeited fish and/or gear, written warnings given), concerning:
+
+(i) every infringement cited by an inspector relating to vessels flying its flag; and
+
+(ii) each surveillance report it has received.
+
+By 1 March each year, the Commission shall transmit the information referred to in the first subparagraph to the NAFO Executive Secretary.
+
+2\. The reports referred to in point (d) of the first subparagraph of paragraph 1 shall indicate the current status of the case. The Member State shall continue to list such infringement in each subsequent report until it reports the final outcome of the infringement.
+
+3\. A Member State shall provide a sufficiently detailed explanation regarding every infringement for which it has taken no action or where no penalties were imposed.
+
+## CHAPTER VIII — PORT STATE CONTROL OF VESSELS FLYING THE FLAG OF ANOTHER CONTRACTING PARTY
+
+### Article 38 — Scope
+
+This Chapter applies to landing, transhipments, or use of ports of Member States by fishing vessels flying the flag of another NAFO Contracting Party, conducting fishing activities in the Regulatory Area. This Chapter applies to vessels carrying catches in the Regulatory Area, or fishery products originating from such catches, that have not been previously landed or transhipped at a port.
+
+### Article 39 — Duties of the port Member State
+
+1\. The port Member State shall provide the Commission with a list of designated ports to which fishing vessels may be permitted entry for the purpose of landing, transhipment and/or provision of port services, and shall to the greatest extent possible ensure that each designated port has sufficient capacity to conduct inspections pursuant to this Chapter. The Commission shall notify the NAFO Executive Secretary of the list of designated ports. Any subsequent changes to the list shall be posted in replacement of the previous one no less than 15 days before the change comes into effect.
+
+2\. The port Member State shall establish a minimum prior request period. The prior request period shall be three working days before the estimated time of arrival. However, in agreement with the Commission, the port Member State may make provisions for another prior request period, taking into account, inter alia, the catch product type or the distance between fishing grounds and its ports. The port Member State shall provide the information on the prior request period to the Commission, which shall notify the NAFO Executive Secretary.
+
+3\. The port Member State shall designate the competent authority which shall act as the contact point for the purposes of receiving requests in accordance with Article 41, receiving confirmations in accordance with Article 40(2) and issuing authorisations in accordance with paragraph 6 of this Article. The port Member State shall provide the name of the competent authority and its contact information to the Commission, which shall notify the NAFO Executive Secretary.
+
+4\. The requirements set out in paragraphs 1, 2 and 3 do not apply where the Union does not permit landings, transhipments, or use of ports by vessels flying the flag of another NAFO Contracting Party.
+
+5\. The port Member State shall forward a copy of the form referred to in Article 41(1) and (2) without delay to the flag NAFO Contracting Party of the vessel and to the flag NAFO Contracting Party of donor vessels where the vessel has engaged in transhipment operations.
+
+6\. Fishing vessels may not enter port without prior authorisation by the competent authorities of the port Member State. Authorisation to land or tranship or make use of other port services shall only be given if the confirmation from the flag NAFO Contracting Party as referred to in Article 40(2) has been received.
+
+7\. By way of derogation from paragraph 6, the port Member State may authorise all or part of a landing in the absence of the confirmation referred to in that paragraph subject to the following conditions:
+
+(a) the fish concerned shall be kept in storage under the control of the competent authorities;
+
+(b) the fish shall only be released to be sold, taken over, produced, or transported once the confirmation referred to in paragraph 6 has been received;
+
+(c) if the confirmation has not been received within 14 days of completion of the landing operations, the port Member State may confiscate and dispose of the fish in accordance with national rules.
+
+8\. The port Member State shall without delay notify the master of the vessel of its decision on whether to authorise or deny the port entry or, if the vessel is in port, the landing, transhipment and other use of port. If the vessel entry is authorised the port Member State shall return to the master of the vessel a copy of the form Port State Control Prior Request Form in Annex II.L to the CEM referred to in point 43 of the Annex to this Regulation with Part C duly completed. That copy shall also be sent to the NAFO Executive Secretary with the Commission and EFCA in copy. In the case of a denial the port Member State shall also notify the flag NAFO Contracting Party.
+
+9\. In case of cancellation of the prior request referred to in Article 41(2) the port Member State shall send a copy of the cancelled Port State Control Prior Request Form to the NAFO Executive Secretary with the Commission and EFCA in copy.
+
+10\. Unless otherwise required in a recovery plan, the port Member State shall carry out inspections of at least 15 % of all such landings or transhipments during each reporting year. In determining which vessels to inspect, the port Member State shall give priority to:
+
+(a) vessels that have been previously denied entry or use of a port in accordance with this Chapter or any other provision of this Regulation; and
+
+(b) requests from other NAFO Contracting Parties, States or Regional Fisheries Management Organisations (‘RFMOs’) that a particular vessel be inspected.
+
+11\. Inspections shall be consistent with Annex IV.H to the CEM referred to in point 44 of the Annex to this Regulation, and carried out by authorised port Member State inspectors who shall present documents of identity to the master of the vessel prior to the inspection.
+
+12\. Subject to the agreement of the port Member State, the Commission may invite inspectors of other NAFO Contracting Parties to accompany their own inspectors and observe the inspection.
+
+13\. An inspection in port shall involve the monitoring of the entire landing or transhipment of fishery resources in that port. During any such inspection, the inspector of the port Member State shall, at a minimum:
+
+(a) cross-check against the quantities of each species landed or transhipped:
+
+(i) the quantities by species recorded in the logbook;
+
+(ii) catch and activity reports; and
+
+(iii) all information on catches provided in the prior notification Port State Control Prior Request Forms as set out in Annex II.L to the CEM referred to in point 43 of the Annex to this Regulation;
+
+(b) verify and record the quantities by species of catch remaining on board upon completion of landing or transhipment;
+
+(c) verify any information from inspections carried out in accordance with Chapter VII;
+
+(d) verify all nets on board and record mesh size measurements;
+
+(e) verify fish size for compliance with minimum size requirements;
+
+(f) where relevant, verify species for compliance with accuracy of catch declaration.
+
+14\. The port Member State shall, where possible, communicate with the master of the vessel or senior crew members of the vessel, as well as with the observer, and where possible and where needed, ensure that the inspector is accompanied by an interpreter.
+
+15\. The port Member State shall, where possible, avoid unduly delaying the fishing vessel and ensure that the vessel suffers the minimum interference and inconvenience, including avoiding unnecessary degradation of the quality of the fish.
+
+16\. Each inspection shall be documented by completing the form PSC 3 (port State control inspection form) as set out in Annex IV.C to the CEM referred to in point 9 of the Annex to this Regulation. The process for completion and handling of the report on port State control inspection shall include the following:
+
+(a) the inspectors shall identify and provide details of any infringement of this Regulation detected during the port inspection. Details shall include all relevant information available with regard to infringements detected at sea during the current trip of the inspected fishing vessel;
+
+(b) the inspectors may insert any comments they consider relevant;
+
+(c) the master of the vessel shall be given the opportunity to add any comments or objection to the report, and, as appropriate, to contact the relevant authorities of the flag State in particular where the master of the vessel has serious difficulties in understanding the content of the report;
+
+(d) the inspectors shall sign the report and request that the master of the vessel sign the report. The master of the vessel's signature on the report shall serve only as acknowledgment of the receipt of a copy of the report;
+
+(e) the master of the vessel shall be provided with a copy of the report containing the result of the inspection, including possible measures that could be taken.
+
+17\. The port Member State shall without delay send a copy of each port State control inspection report to the NAFO Executive Secretary with the Commission and EFCA in copy.
+
+### Article 40 — Duties of the flag Member State
+
+1\. The Member States shall ensure that the master of a vessel flying their flag complies with the obligations relating to masters of the vessel set out in Article 41.
+
+2\. The Member State of a fishing vessel intending to land or tranship or make use of other port services, or where the vessel has engaged in transhipment operations outside a port, shall confirm by returning a copy of the Port State Control Prior Request Form set out in Annex II.L to the CEM referred to in point 43 of the Annex to this Regulation, transmitted in accordance with Article 39(5) with part B duly completed, stating that:
+
+(a) the fishing vessel declared to have caught the fish had sufficient quota for the species declared;
+
+(b) the declared quantity of fish on board has been duly reported by species and taken into account for the calculation of any catch or effort limitations that may be applicable;
+
+(c) the fishing vessel declared to have caught the fish had authorisation to fish in the areas declared; and
+
+(d) the presence of the vessel in the area in which it has declared to have taken its catch has been verified by VMS data.
+
+3\. The Member State shall send to the Commission the contact information of the competent authority, which shall act as the contact point for the purposes of receiving requests in accordance with Article 39(5) and providing confirmation in accordance with Article 39(6). The Commission shall send that information to the NAFO Executive Secretary.
+
+### Article 41 — Obligations of the master of the vessel
+
+1\. The master or the agent of a fishing vessel intending to enter port shall forward the request for entry to the competent authorities of the port Member State within the request period referred to in Article 39(2). Such request shall be accompanied by the Port State Control Prior Request Form set out in Annex II.L to the CEM referred to in point 43 of the Annex to this Regulation duly completed as follows:
+
+(a) Port State Control Prior Request Form PSC 1, as referred to in Annex II.L.A to the CEM shall be used where the vessel is carrying, landing or transhipping its own catch; and
+
+(b) Port State Control Prior Request Form PSC 2, as referred to in Annex II.L.B to the CEM, shall be used where the vessel has engaged in transhipment operations. A separate form shall be used for each donor vessel;
+
+(c) both forms PSC 1 and PSC 2 shall be completed in cases where a vessel carries, lands or tranships its own catch and catch that was received through transhipment.
+
+2\. A master of the vessel or agent may cancel a prior request by notifying the competent authorities of the port they intended to use. The request shall be accompanied by a copy of the original Port State Control Prior Request Form set out in Annex II.L to the CEM referred to in point 43 of the Annex to this Regulation, with the word ‘cancelled’ written across it.
+
+3\. The master of the vessel shall not commence landing or transhipment operations, or make use of other port services, before authorisation has been given by the competent authority of a Member State or prior to the estimated time of arrival (ETA) as reported in PSC1 or PSC2 has expired. However, landing or transhipment operations and making use of other port services may commence prior to ETA with permission from the competent authorities of the port Member State.
+
+4\. The master of the vessel shall:
+
+(a) cooperate with and assist in the inspection of the fishing vessel conducted in accordance with these procedures and shall not obstruct, intimidate or interfere with the port State inspectors in the performance of their duties;
+
+(b) provide access to any areas, decks, rooms, catch, nets or other gear or equipment, and provide any relevant information which the port State inspectors request, including copies of any relevant documents.
+
+### Article 42 — Infringements detected during inspections in port
+
+Where an infringement is detected during an inspection of a vessel in port, the relevant provisions of Articles 34 to 37 shall apply.
+
+### Article 43 — Confidentiality
+
+All inspection and investigation reports and associated images or evidence, and forms referred to in this Chapter shall be treated by Member States, competent authorities, operators, masters of the vessel and crew as confidential, in accordance with the rules on confidentiality set out in Annex II.B to the CEM referred to in point 37 of the Annex to this Regulation.
+
+## CHAPTER IX — NON-CONTRACTING PARTY
+
+### Article 44 — Presumption of IUU fishing
+
+A non-Contracting Party vessel shall be presumed to have undermined the effectiveness of this Regulation, and to have engaged in IUU fishing, if it has been:
+
+(a) sighted or identified by other means as engaged in fishing activities in the Regulatory Area;
+
+(b) involved in transhipment with another non-Contracting Party vessel sighted or identified as engaged in fishing activities inside or outside the Regulatory Area; and/or
+
+(c) included in the IUU list of the Commission for the Conservation of Antarctic Marine Living Resources ( 6 ), the Commission for the Conservation of Southern Bluefin Tuna ( 7 ), the Inter-American Tropical Tuna Commission ( 8 ), the International Commission for the Conservation of Atlantic Tunas ( 9 ), the Indian Ocean Tuna Commission ( 10 ), the General Fisheries Commission for the Mediterranean ( 11 ), the North East Atlantic Fisheries Commission ( 12 ), the North Pacific Fisheries Commission ( 13 ), the South East Atlantic Fisheries Organisation ( 14 ), the Southern Indian Ocean Fisheries Agreement ( 15 ), the South Pacific Regional Fisheries Management Organisation ( 16 ) or the Western and Central Pacific Fisheries Commission ( 17 ).
+
+### Article 45 — Sighting and inspection of non-Contracting Party vessels in the Regulatory Area
+
+Each Member State or, when appropriate, EFCA, with an inspection and/or surveillance presence in the Regulatory Area authorised under the Joint Inspection and Surveillance Scheme that sights or identifies a non-Contracting Party vessel engaged in fishing activities in the Regulatory Area shall:
+
+(a) transmit immediately the information to the Commission using the format of the surveillance report set out in Annex IV.A to the CEM referred to in point 38 of the Annex to this Regulation;
+
+(b) attempt to inform the master of the vessel that the vessel is presumed to be engaged in IUU fishing and that this information will be distributed to all Contracting Parties, relevant RFMOs and the flag State of the vessel;
+
+(c) if appropriate, request permission from the master of the vessel to board the vessel for inspection; and
+
+(d) where the master of the vessel agrees to inspection:
+
+(i) transmit the inspector’s findings to the Commission without delay, using the inspection report form set out in Annex IV.B to the CEM referred to in point 41 of the Annex to this Regulation; and
+
+(ii) provide a copy of the inspection report to the master of the vessel.
+
+### Article 46 — Port entry and inspection of non-Contracting Party vessels
+
+1\. Each master of the vessel of a non-Contracting Party vessel shall request permission to enter port from the competent authority of the port Member State in accordance with the provisions of Article 41.
+
+2\. Each port Member State shall:
+
+(a) forward without delay to the flag State of the vessel and to the Commission the information it has received pursuant to Article 41;
+
+(b) refuse port entry to any non-Contracting Party vessel where:
+
+(i) the master of the vessel has not fulfilled the requirements set out in Article 41(1); or
+
+(ii) the flag State has not confirmed the vessel's fishing activities in accordance with Article 40(2);
+
+(c) inform the master of the vessel or agent, the flag State of that vessel, and the Commission of its decision to refuse port entry, landing, transhipment or other use of port of any non-Contracting Party vessel;
+
+(d) withdraw denial of port entry only if the port State has determined there is sufficient proof that the grounds on which entry was denied were inadequate or erroneous or that such grounds no longer apply;
+
+(e) inform the master of the vessel or agent, the flag State of that vessel, and the Commission of its decision to withdraw denial of port entry, landing, transhipment or other use of port of any non-Contracting Party vessel;
+
+(f) where it permits entry, ensure the vessel is inspected by duly authorised officials knowledgeable in this Regulation and that the inspection is carried out in accordance with Article 39(11) to (17); and
+
+(g) send a copy of the inspection report and details of any subsequent action it has taken to the Commission without delay.
+
+3\. Each Member State shall ensure that no non-Contracting Party vessel engages in landing, or transhipment operations or other use of its ports unless the vessel has been inspected by its duly authorised officials knowledgeable in this Regulation and the master of the vessel establishes that the fish species on board subject to the Convention were harvested outside the Regulatory Area or in compliance with this Regulation.
+
+### Article 47 — Provisional IUU vessel list
+
+1\. In addition to information submitted from Member States in accordance with Articles 42 and 44, each Member State may, without delay, transmit to the Commission any information that may assist in identification of any non-Contracting Party vessel that might be carrying out IUU fishing in the Regulatory Area.
+
+2\. If a Contracting Party objects to a NEAFC IUU-listed vessel being incorporated into or deleted from the NAFO IUU vessel list, such vessel shall be placed by NAFO Executive Secretary on the Provisional IUU vessel list.
+
+### Article 48 — Action against vessels listed in the IUU vessel list
+
+Each Member State shall take all measures necessary to deter, prevent and eliminate IUU fishing in relation to any vessel listed in the IUU vessel list, including:
+
+(a) prohibiting any vessel flying its flag from, except in the case of force majeure, participating in fishing activities with such vessel, including but not limited to joint fishing operations;
+
+(b) prohibiting the supply of provisions, fuel or other services to such vessel;
+
+(c) prohibiting entry into its ports of such vessel, and if the vessel is in port, prohibiting use of the port, except in the case of force majeure or distress, for the purposes of inspection, or for taking appropriate enforcement action;
+
+(d) prohibiting change of crew, except as required in relation to force majeure;
+
+(e) refusing to authorise such vessel to fish in waters under its national jurisdiction;
+
+(f) prohibiting chartering of such vessel;
+
+(g) refusing to entitle such vessels to fly its flag;
+
+(h) prohibiting landing and importation of fish from onboard or traceable to such vessel;
+
+(i) encouraging importers, transporters and other sectors concerned, to refrain from negotiating transhipment of fish with such vessels; and
+
+(j) collecting and exchanging any appropriate information regarding such vessel with the other Contracting Parties, non-Contracting Parties and RFMOs with the aim of detecting, deterring and preventing the use of false import or export certificates in relation to fish or fishery product from such vessels.
+
+## CHAPTER X — FINAL PROVISIONS
+
+### Article 49 — Confidentiality
+
+In addition to the obligations laid down in Articles 112 and 113 of Regulation (EC) No 1224/2009, Member States shall ensure confidential treatment of electronic reports and messages transmitted to and received from NAFO pursuant to point (a) of Article 4(2), Article 4(6), point (c) of Article 5(3), Article 10(2), Article 15(4), Article 22(1), (5) and (6), Article 23(6), Article 25(8), Article 26(9), Article 27(3), (5), (6), (7) and (15), Article 29(1) and (2), Article 34(2), Article 36(4), Article 37(1) and Article 39(8).
+
+### Article 50 — Procedure for amendments
+
+1\. The Commission shall adopt by 18 December 2019 a delegated act in accordance with Article 51 supplementing this Regulation with the provisions of and Annexes to the CEM referred to in the Annex to this Regulation. The Commission is empowered to adopt delegated acts in accordance with Article 51 to subsequently amend that delegated act.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 51 amending this Regulation to adapt it to measures adopted by NAFO that bind the Union and its Member States concerning:
+
+(a) the list of activities of research vessels referred to in Article 4(1);
+
+(b) measures provided for in Article 9 relating to Northern prawn fishing areas; relevant reporting, change of fishery, fishing depths and references to restricted or closed areas;
+
+(c) procedures concerning vessels with more than 50 tonnes live weight total catch on board, entering the Regulatory Area to fish for Greenland halibut as regards the content of notifications provided for in Article 10(2), points (a) and (b), conditions for commencement of fishing provided for in Article 10(2), point (d), and provisions on landing and inspection concerning Greenland halibut provided for in Article 10(1), point (e);
+
+(d) the content of the electronic transmission set out in Article 22(5), the list of valid documents to be carried on board a vessel in accordance with Article 22(8) and the content of the capacity plan described in Article 22(10);
+
+(e) documentation to be carried on board a chartered vessel in accordance with Article 23(9);
+
+(f) the VMS data to be transmitted by automatic continuous transmission as set out in Article 26(1), as well as duties concerning FMC as set out in Article 26(2) and (9);
+
+(g) percentage rates for observer coverage as set out in Article 27(3), reporting by Member States as set out in Article 27(7), duties of an observer as set out in Article 27(11), and duties of the master of the vessel as set out in in Article 27(12);
+
+(h) obligations of the master of the vessel during inspection, as set out in Article 32;
+
+(i) mesh sizes set out in Article 13(2);
+
+(j) technical specifications for sorting grids, grates and toggle chains in the Northern prawn fishery set out in Article 14(2) as well as technical specifications for sorting grids or attachments set out in Article 14(3) or (3a);
+
+(k) area or period restrictions for bottom fishing activities set out in Article 18;
+
+(l) control measures for cod in Division 3M as provided for in Article 9a;
+
+(m) flag Member State duties in relation to research plans referred to in Article 4(2);
+
+(n) requirements for vessels engaged in the research referred to in Article 4(3), (4), and (5).
+
+3\. Amendments in accordance with paragraph 1 shall be strictly limited to the implementation of amendments to CEM in Union law.
+
+### Article 51 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 50 shall be conferred on the Commission for a period of five years from 17 June 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 50 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 50 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 52 — Repeal
+
+Regulation (EC) No 2115/2005 and Regulation (EC) No 1386/2007 are hereby repealed.
+
+### Article 54
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 53 shall apply from 21 June 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+(1) Table 4 of the CEM referred to in point 17 of Article 3 and in Article 17;
+
+(2) Figure 2 of the CEM referred to in point 17 of Article 3 and in Article 17;
+
+(3) Part VI of Annex I.E to the CEM referred to in point 21 of Article 3, in Article 21(2) and in point (i) of point (a) of Article 27(11);
+
+(4) Part VII of Annex I.E to the CEM referred to in point 29 of Article 3;
+
+(5) Format prescribed in Annex II.C to the CEM referred to in point (a) of Article 4(2);
+
+(6) Table 1 and Figure 1(1) of the CEM referred to in Article 9(1);
+
+(7) Table 2 and Figure 1(2) of the CEM referred to in Article 9(4);
+
+(8) Table 3 and Figure 1(3) of the CEM referred to in Article 9(5);
+
+(9) Format prescribed in Annex IV.C to the CEM referred to in point (e) of Article 10(1), point (c) of Article 27(3) and Article 39(16);
+
+(10) Annex III.A to the CEM referred to in Article 13(1);
+
+(11) Annex I.C to the CEM referred to in point (d) of Article 13(2), in point (b) of Article 24(1) and in the second subparagraph of Article 25(6);
+
+(12) Annex III.B to the CEM referred to in Article 14(2) and (3);
+
+(13) Annex I.D to the CEM referred to in Article 16(1) and (2);
+
+(14) Figure 3 of the CEM referred to in Article 18(1);
+
+(15) Table 5 of the CEM referred to in Article 18(1);
+
+(16) Figure 4 of the CEM referred to in Article 18(2);
+
+(17) Table 6 of the CEM referred to in Article 18(2);
+
+(18) Figure 5 of the CEM referred to in Article 18(3) and (4);
+
+(19) Table 7 of the CEM referred to in Article 18(3) and (4);
+
+(20) Exploratory protocol in Annex I.E to the CEM referred to in Article 19(1);
+
+(21) Notice of Intent to Undertake Exploratory Bottom Fishing' in Annex I.E to the CEM referred to in point (a) of Article 19(2);
+
+(22) Exploratory Bottom Fishing Trip Report in Annex I.E to the CEM referred to in point (b) of Article 19(2);
+
+(23) Elements for assessment of proposed exploratory bottom fishing activities in Annex I.E to the CEM referred to in point (b) of Article 20(2);
+
+(24) Exploratory Fishery Data Collection Form in Annex I.E to the CEM referred to in point (a) of Article 21(4);
+
+(25) Format prescribed for list of vessels in Annex II.C1 to the CEM referred to in point (a) of Article 22(1);
+
+(26) Format prescribed for deletion from the list of vessels in Annex II.C2 to the CEM referred to in point (b) of Article 22(1);
+
+(27) Format specified for individual authorisation for each vessel in Annex II.C3 to the CEM referred to in point (a) of Article 22(5);
+
+(28) Format prescribed for suspension of the authorisation in Annex II.C4 to the CEM referred to in point (b) of Article 22(5);
+
+(29) List of product form presentation codes in Annex II.K to the CEM referred to in point (e) of Article 24(1);
+
+(30) Model for fishing logbook in Annex II.A to the CEM referred to in Article 25(2);
+
+(31) Format for catch report in Annex II.D to the CEM referred to in Article 25(6) and (8) and in point (b) of Article 26(9);
+
+(32) Format for cancellation of catch report in Annex II.F to the CEM referred to in Article 25(6) and (7);
+
+(33) Annex II.N to the CEM referred to in point (b) of Article 25(9);
+
+(34) Format for data exchange in Annex II.E to the CEM referred to in point (b) of Article 26(9);
+
+(35) Observer report in Annex II.M to the CEM referred to in points (a) of Article 27(11);
+
+(36) Report in Annex II.G to the CEM transmitted daily by the observer as referred to in point (e) of Article 27(11);
+
+(37) Rules on confidentiality in Annex II.B to the CEM referred to in Article 28(10) and Article 43;
+
+(38) Surveillance Report Form in Annex IV.A to the CEM referred to in point (a) of Article 30(1) and point (a) of Article 45;
+
+(39) Image of pennant in Annex IV.E to the CEM referred to in point (b) of Article 31;
+
+(40) Rules on provision of boarding ladder in Annex IV.G to the CEM referred to in point (c) of Article 32;
+
+(41) Inspection report in Annex IV.B to the CEM referred to in Article 33(1), point (a) of Article 34(2) and point (d) of Article 45;
+
+(42) NAFO Inspection Seal in Annex IV.F to the CEM referred to in point (d) of Article 34(1);
+
+(43) Port State Control Prior Request Form in Annex II.L to the CEM referred to in Article 39(8) and point (iii) of point (a) of Article 39(13), Article 40(2) and Article 41(1) and (2);
+
+(44) Annex IV.H to the CEM on inspections referred to in Article 39(11);
+
+(45) Annex II.H of the CEM on the procedure for granting access to individuals within Contracting Parties to the MCS Website.
+
+( 1 ) Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008 (OJ L 347, 28.12.2017, p. 81).
+
+( 2 ) Council Regulation (EC) No 1005/2008 of 29 September 2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations (EEC) No 2847/93, (EC) No 1936/2001 and (EC) No 601/2004 and repealing Regulations (EC) No 1093/94 and (EC) No 1447/1999 (OJ L 286, 29.10.2008, p. 1).
+
+( 3 ) Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Union control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (OJ L 343, 22.12.2009, p. 1).
+
+( 4 ) Regulation (EU) 2019/473 of the European Parliament and of the Council of 19 March 2019 on the European Fisheries Control Agency (OJ L 83, 25.3.2019, p. 18).
+
+( 5 ) Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy (OJ L 112, 30.4.2011, p. 1).
+
+( 6 ) The Convention on the conservation of Antarctic marine living resources drawn up at Canberra on 20 May 1980 and entered into force on 7 April 1982 (OJ L 252, 5.9.1981, p. 27).
+
+( 7 ) The Convention for the Conservation of Southern Bluefin Tuna done in Canberra on 10 May 1993 and entered into force on 20 May 1994 (OJ L 336, 23.12.2015, p. 27).
+
+( 8 ) The Convention for the Strengthening of the Inter-American Tropical Tuna Commission established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention) done in Washington on 14 November 2003 and entered into force on 27 August 2010 (OJ L 224, 16.8.2006, p. 24).
+
+( 9 ) The International Convention for the Conservation of Atlantic Tunas done at Rio de Janeiro on 14 May 1966 and entered into force on 21 March 1969 (OJ L 162, 18.6.1986, p. 34).
+
+( 10 ) The Agreement for the establishment of the Indian Ocean Tuna Commission signed in Rome on 25 November 1993 and entered into force on 27 March 1996 (OJ L 236, 5.10.1995, p. 25).
+
+( 11 ) Agreement establishing the General Fisheries Commission for the Mediterranean originally formulated at Rome on 24 September 1949 and entered into force on 20 February 1952 (OJ L 190, 4.7.1998, p. 37).
+
+( 12 ) The Convention on future multilateral cooperation in North-East Atlantic fisheries signed in London on 18 November 1980 and entered into force on 17 March 1982, to which the European Community acceded on 13 July 1981 (OJ L 227, 12.8.1981, p. 21).
+
+( 13 ) The Convention on the Conservation and Management of High Seas Fisheries Resources in the North Pacific Ocean done at Tokyo on 24 February 2012 and entered into force on 19 July 2015 (OJ L 55, 28.2.2022, p. 14).
+
+( 14 ) The Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean done at Windhoek, Namibia, on 20 April 2001 and entered into force on 13 April 2003 (OJ L 234, 31.8.2002, p. 40).
+
+( 15 ) The Southern Indian Ocean Fisheries Agreement signed in Rome on 7 July 2006 and entered into force on 21 June 2012 (OJ L 196, 18.7.2006, p. 15).
+
+( 16 ) The Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific Ocean done at Auckland on 14 November 2009 and entered into force on 24 August 2012 (OJ L 67, 6.3.2012, p. 3).
+
+( 17 ) The Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean done at Honolulu on 5 September 2000 and entered into force on 19 June 2004 (OJ L 32, 4.2.2005, p. 3).

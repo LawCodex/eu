@@ -1,0 +1,1773 @@
+---
+title: "Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007"
+identifier: "32017R2107"
+eli: "http://data.europa.eu/eli/reg/2017/2107/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-11-15
+entry_into_force: 2018-01-08
+last_amended: 2025-12-13
+consolidated_version: "02017R2107-20251213"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2107-20251213"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007
+
+**REGULATION (EU) 2017/2107 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 November 2017**
+
+**laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EU) 2019/1154 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 188</td><td>1</td><td>12.7.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2053 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 </td><td> L 238</td><td>1</td><td>27.9.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/897 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 897</td><td>1</td><td>19.3.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2002 of 6 October 2025 </td><td> L 2002</td><td>1</td><td>12.12.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2017/2107 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 November 2017**
+
+**laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007**
+
+## TITLE I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter
+
+This Regulation lays down management, conservation and control provisions relating to fishing for highly migratory fish species managed by the International Commission for the Conservation of Atlantic Tunas (ICCAT).
+
+##### Article 2 — Scope
+
+This Regulation applies to:
+
+(a) Union fishing vessels, and Union vessels engaged in recreational fisheries, which operate in the ICCAT Convention area and, in the case of transhipments, also outside the ICCAT Convention area if they tranship species caught in that area;
+
+(b) third country vessels which are inspected in Member States ports and which carry ICCAT species or fishery products originating from such species that have not been previously landed or transhipped at ports;
+
+(c) third country fishing vessels and third country vessels engaged in recreational fisheries which operate in Union waters.
+
+##### Article 3 — Relationship to other Union acts
+
+This Regulation applies without prejudice to the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets ( 1 ) and in Regulation (EU) 2016/1627.
+
+The measures provided for in this Regulation apply in addition to those provided for in Regulations (EC) No 1005/2008 and (EC) No 1224/2009.
+
+##### Article 4 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘ICCAT species’ means species listed in Annex I;
+
+(2) ‘tropical tuna’ means bigeye tuna, yellowfin tuna and skipjack tuna;
+
+(2a) ‘billfish’ means species of the Istiophoridae family managed by ICCAT;
+
+(3) ‘fishing vessel’ means any vessel equipped for commercial exploitation of marine biological resources or a bluefin tuna trap;
+
+(4) ‘catching vessel’ means a fishing vessel used for the purpose of the capture of marine biological resources;
+
+(5) ‘Union fishing vessel’ means a fishing vessel flying the flag of a Member State and registered in the Union;
+
+(6) ‘fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities during a specified period, in a given area or for a given fishery under specific conditions;
+
+(7) ‘special fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities with specific gear during a specified period, in a given area or for a given fishery under specific conditions;
+
+(8) ‘transhipment’ means the unloading of all or any fisheries products on board a vessel to another vessel;
+
+(9) ‘recreational fishery’ means non-commercial fishing activities exploiting marine biological resources for recreation, tourism or sport;
+
+(10) ‘Task I data’ means data defined as Task I by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’;
+
+(11) ‘Task II data’ means data defined as Task II by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’;
+
+(12) ‘CPC’ means contracting parties to the ICCAT Convention and cooperating non-contracting parties, entities or fishing entities;
+
+(13) ‘ICCAT Convention area’ means all waters of the Atlantic Ocean and adjacent seas;
+
+(14) ‘sustainable fisheries partnership agreement’ means an international agreement as defined in point 37 of Article 4(1) of Regulation (EU) No 1380/2013;
+
+(15) ‘vessel length’ means the distance measured in a straight line between the foremost point of the bow and the aftermost point of the stern;
+
+(16) ‘large-scale pelagic longline vessel’ means a pelagic longline vessel greater than 24 metres in length overall;
+
+(17) ‘large-scale fishing vessel’ means a fishing vessel greater than 20 metres in length overall;
+
+(18) ‘large-scale catching vessel’ means a catching vessel greater than 20 metres in length overall;
+
+(19) ‘ICCAT record of large-scale fishing vessels’ means the list, maintained by the ICCAT Secretariat, of large-scale fishing vessels authorised to target ICCAT species in the ICCAT Convention area;
+
+(20) ‘support vessel’ means a vessel other than a craft carried on board that is not equipped with operational fishing gear and that facilitates, assists or prepares fishing activities, including by supplying a catching vessel and deploying, servicing and retrieving a fish-aggregating device;
+
+(21) ‘carrier vessel’ means a support vessel engaged in transhipment and receiving ICCAT species from a large-scale pelagic longline vessel;
+
+(22) ‘ICCAT record of carrier vessels’ means the list, maintained by the ICCAT Secretariat, of vessels authorised to receive transhipment at sea from large-scale pelagic longline vessels in the ICCAT Convention area;
+
+(23) ‘ICCAT record of authorised tropical tunas vessels’ means the list, maintained by the ICCAT Secretariat, of large-scale fishing vessels authorised to fish, retain on board, tranship, transport, process or land tropical tunas in the ICCAT Convention area;
+
+(23a) ‘floating object’ or ‘FOB’ means any natural or artificial floating (i.e. surface or subsurface) object with no capability of moving on its own; fish-aggregating devices (FADs) are FOBs that are human-made and intentionally deployed and/or tracked; logs are FOBs that are accidently lost from anthropic and natural sources;
+
+(24) ‘fish-aggregating device’ or ‘FAD’ means a permanent, semi-permanent or temporary object, structure or device of any material, human-made or natural, which is deployed or tracked, and used to aggregate fish for subsequent capture; FADs can either be anchored (aFADs) or drifting (dFADs);
+
+(24a) ‘FAD set’ means setting fishing gear around a tuna school associated with a FAD;
+
+(25) ‘IUU fishing’ means fishing activities defined in point 1 of Article 2 of Regulation (EC) No 1005/2008;
+
+(26) ‘ICCAT IUU list’ means a list of vessels which are considered by ICCAT to have engaged in IUU fishing;
+
+(27) ‘longlines’ means a fishing gear which comprises a main line carrying numerous hooks on branch lines (snoods) of variable length and spacing depending on the target species;
+
+(27a) ‘shallow-set longlines’ means longlines in which, when deployed, the majority of hooks are at a depth of less than 100 metres;
+
+(28) ‘purse seines’ means any encircling net the bottom of which is drawn together by means of a purse line at the bottom of the net, which passes through a series of rings along the groundrope, enabling the net to be pursed and closed;
+
+(29) ‘hook’ means a bent, sharpened piece of steel wire;
+
+(30) ‘circle hook’ means a hook with the point turned perpendicularly back to the shank to form a generally circular or oval shape; circle hooks should have an offset of no more than 10 degrees;
+
+(31) ‘operational buoy’ means any instrumented buoy, previously activated, switched on and deployed at sea, which transmits position and any other available information such as echo-sounder estimates.
+
+## TITLE II — MANAGEMENT, CONSERVATION AND CONTROL MEASURES CONCERNING CERTAIN SPECIES
+
+### CHAPTER I — Tropical tunas
+
+##### Article 5 — Restrictions on the number of Union large-scale catching vessels targeting bigeye tuna
+
+The number and total capacity in gross tonnage (GT) of Union large-scale catching vessels targeting bigeye tuna in the ICCAT Convention area shall be determined:
+
+(a) as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and
+
+(b) on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005.
+
+##### Article 5a — Capacity limitation for tropical tuna
+
+1\. By 31 January of each year, Member States shall establish annual fishing and capacity management plans for tropical tuna.
+
+2\. The Member States shall ensure that their overall longline and purse seine fleet capacity is managed in accordance with the annual fishing and capacity management plans referred to in paragraph 1, in particular to limit catches of tropical tuna, consistent with the catch limits established under Union law.
+
+3\. Member States shall not increase their number of support vessels from the numbers recorded in June 2023.
+
+4\. Member States shall report to the Commission the dates on which their entire catch limit of tropical tuna species has been utilised. The Commission shall promptly send that information to the ICCAT Secretariat.
+
+5\. For Union purse seiners and large longline vessels (20 metres in length overall or greater), Member States shall report tropical tuna catches on a monthly basis to the Commission, increasing to weekly when 80 % of their catch limits have been caught.
+
+6\. Every 3 months, Member States shall report to the Commission information on the quantity of tropical tunas by species caught by the vessels flying their flag within 15 calendar days of the end of the period during which the catches were made, namely by 15 April, 15 July and 15 October of each year and by 15 January of the following year, unless such information is sent on a monthly basis to the Commission. That information, whether sent every 3 months or on a monthly basis, shall be sent using the aggregated catch data report format. The Commission shall send that information to the ICCAT Secretariat by 30 April, 30 July and 30 October of each year and by 30 January of the following year.
+
+##### Article 6 — Specific authorisations for large-scale tropical tuna catching vessels and for support vessels
+
+1\. Member States shall issue authorisations, in accordance with the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets ( 2 ), to large-scale catching vessels flying their flag to fish tropical tunas in the ICCAT Convention area.
+
+2\. Member States shall issue authorisations to support vessels flying their flag used for any kind of support to vessels referred to in paragraph 1.
+
+##### Article 6a — Prohibition on discards of tropical tunas caught by Union purse seiners
+
+1\. Union purse seiners that are authorised to fish tropical tuna, shall retain on board, land or tranship at port all tropical tunas caught.
+
+2\. Tropical tuna caught by a Union purse seiner shall not be discarded during the set once the net is completely closed and more than half of the net has been retrieved. If there is a technical problem with the closing or retrieval procedure of the net such that that prohibition cannot be applied, the masters, or the crew members on their behalf, shall make every effort to release the tunas into the water as quickly as possible.
+
+3\. By way of derogation from paragraph 1, tropical tunas may be discarded in the following cases:
+
+(a) where the master determines that the tropical tunas caught are meshed or crushed in the purse seine, are damaged due to depredation, or have died and decomposed in the net due to a gear failure that has prevented the normal activities of retrieval of the net, fishing and releasing the fish alive;
+
+(b) where the master determines that the tropical tunas have been caught during the last set of a trip and there is not enough storage capacity to store the tunas caught during this set; those fish may only be discarded provided that:
+
+(i) the master or the crew members attempt to release the tunas alive as quickly as possible; and
+
+(ii) no other fishing operation is conducted following the discarding, until such time as the tunas on board the vessel are landed or transhipped.
+
+4\. The masters of the fishing vessels shall report all discards observed to the flag Member States of the vessels. Member States shall send the discard reports to the Commission as part of Task I and II data.
+
+##### Article 7 — ICCAT record of authorised tropical tuna vessels
+
+1\. Member States shall notify the Commission, without delay and at the latest within 30 days, of any event requiring an addition to, deletion from or modification of the ICCAT record of authorised tropical tuna vessels. The Commission shall, without delay and at the latest within 45 days from the date of such event, submit that information to the ICCAT Secretariat.
+
+2\. Large-scale fishing vessels not entered into the ICCAT record of authorised tropical tuna vessels, including support vessels, shall not be allowed to fish, retain on board, tranship, transport, transfer, process or land tropical tunas from the ICCAT Convention area, or to carry out any kind of support to those activities, including deploying and retrieving FADs or buoys. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+3\. Union fishing vessels not authorised to fish tropical tunas pursuant to Article 6, may be allowed to retain on board, tranship, transport, process or land by-catch of tropical tunas in accordance with a maximum on-board by-catch limit established for such vessels. Member States shall report to the Commission, as part of the annual report, the maximum by-catch limit allowed for the vessels flying their flag and information about how they ensure compliance with that limit.
+
+##### Article 8 — List of vessels fishing tropical tunas in a given year
+
+Member States shall, by 30 June of each year, submit to the Commission the list of authorised vessels flying their flag which have fished tropical tunas in the ICCAT Convention area or have offered any kind of support to the fishing activity (support vessels) in the previous calendar year. For purse seiners, that list shall also include the support vessels that have supported the fishing activity, irrespective of their flag. The Commission shall, by 31 July of each year, notify the ICCAT Secretariat of the lists received from the Member States.
+
+##### Article 8a — Underage or overage of bigeye tuna
+
+1\. Any unused or excess portion of a Member State’s annual quota or catch limit for bigeye tuna may be added to or shall be deducted from, as appropriate, the relevant quota or catch limit during or before the adjustment year in accordance with the ICCAT recommendations in force for bigeye tuna.
+
+2\. The maximum underage of bigeye tuna that a Member State may carry-over in any given year shall not exceed the amount permitted in that particular year by ICCAT.
+
+##### Article 9 — Management plans in respect of fish-aggregating devices
+
+1\. In respect of purse seine and baitboat catching vessels fishing for tropical tunas in association with fish-aggregating devices (FADs), Member States shall, by 31 December of each year, submit to the Commission management plans for the use of such FADs by vessels flying their flag. The Commission shall forward that information to the ICCAT Secretariat by 31 January of the following year.
+
+2\. The objective of the management plans referred to in paragraph 1 shall be to:
+
+(a) improve the knowledge about FAD characteristics, buoy characteristics, FAD fishing, including fishing effort, and related impacts on targeted and non-targeted species;
+
+(b) effectively manage the deployment and recovery of FADs and beacons and their potential loss;
+
+(c) reduce and limit the impacts of FADs and FAD fishing on the ecosystem, including, where appropriate, by acting on the different components of the fishing mortality (e.g. number of deployed FADs, including number of FAD sets by purse seiners, fishing capacity, number of support vessels).
+
+3\. The management plans referred to in paragraph 1 shall contain the information set out in Annex II.
+
+4\. As of 1 January 2026, Member States shall ensure that no more than 288 FADs per vessel with operational buoys are active at the same time.
+
+5\. The number of FADs with operational buoys shall be verified through the verification of telecommunication bills. Such verifications shall be conducted by the competent authorities of the Member State.
+
+6\. Member States may authorise purse seiners flying their flag to set on FOBs, provided that the fishing vessel has either an observer or a functioning electronic monitoring system on board which is capable of verifying the set type and species composition and which provides information on fishing activities to the ICCAT Standing Committee on Research and Statistics.
+
+##### Article 10 — Requirements for FADs
+
+1\. FADs shall comply with the following requirements:
+
+(a) the surface structure of the FAD shall be either not covered by any material or covered only with material implying minimum risk of entangling non-targeted species; and
+
+(b) the sub-surface components shall be exclusively composed of material which does not entangle non-targeted species.
+
+2\. When using or designing FADs, Member States shall:
+
+(a) ensure that all FADs deployed are non-entangling, in accordance with the guidelines set out in Annex X;
+
+(b) endeavour to ensure that all FADs are constructed from biodegradable materials, such as non-plastics, with the exception of materials used in the construction of FAD tracking buoys.
+
+3\. Every year, in their FADs management plans, Member States shall report to the Commission on the steps undertaken to comply with paragraph 2.
+
+##### Article 11 — Information on FADs submitted by vessels
+
+1\. For each deployment of a FAD, Union purse seine and baitboat catching vessels and Union support vessels shall collect and report the following information and data:
+
+(a) position of the FAD;
+
+(b) date of deployment of the FAD;
+
+(c) FAD type (anchored FAD, drifting artificial FAD);
+
+(d) FAD identifier (i.e. FAD marking or beacon ID, type of buoy — e.g. simple buoy or associated with echo sounder), or any information allowing identification of the owner;
+
+(e) FAD design characteristics (dimension and material of the floating part and of the underwater hanging structure, and the entangling feature of the underwater hanging structure).
+
+2\. For each visit on a FAD, whether followed or not by a set, Union purse seine and baitboat catching vessels and Union support vessels shall collect and report the following information:
+
+(a) type of visit (hauling, retrieving, intervention on electronic equipment);
+
+(b) position of the FAD;
+
+(c) date of visit;
+
+(d) FAD type (anchored FAD, drifting natural FAD, drifting artificial FAD);
+
+(e) log description or FAD identifier (i.e. FAD marking and buoy ID or any information allowing identification of the owner);
+
+(f) if the visit is followed by a set, the results of the set in terms of catch and by-catch, whether retained or discarded, dead or alive, or, if the visit is not followed by a set, the reason for such decision (for instance not enough fish or fish too small);
+
+(g) buoy ID.
+
+3\. For each loss of a FAD, Union purse seine and baitboat catching vessels and Union support vessels shall collect and report the following information:
+
+(a) the last registered position;
+
+(b) date of the last registered position;
+
+(c) FAD identifier (i.e. FAD marking and buoy ID).
+
+4\. Union fishing vessels shall keep a list of deployed FADs containing at least the information set out in Annex III and shall update the list on a monthly basis in accordance with Task II data requirements.
+
+##### Article 12 — Information on FADs submitted by Member States
+
+Member States shall submit every year to the Commission, 15 days prior to the deadline established by ICCAT for the given year, the following information, in order to make it available to the ICCAT Secretariat:
+
+(a) the number of FADs actually deployed, on a quarterly basis, by FAD type, indicating the presence or absence of a beacon/buoy or of an echo sounder associated to the FAD;
+
+(b) the number and type of beacons/buoys (e.g. radio, sonar only, sonar with echo-sounder) deployed on a monthly basis in accordance with Task II data requirements;
+
+(c) the average number of beacons/buoys activated and deactivated on a monthly basis that have been followed by each vessel;
+
+(d) average number of lost FADs with active buoys, on a monthly basis;
+
+(e) for each support vessel, the number of days spent at sea, per 1° grid area, month and flag Member State;
+
+(f) purse seiner and baitboat catches, effort and number of sets (for purse seines) by fishing mode (FOB associated schools and free school fisheries) in accordance with Task II data requirements;
+
+(g) when the activities of purse seiners are carried out in association with baitboats, reports on catches and effort of purse seiners associated to baitboats in accordance with Task I and II data requirements.
+
+##### Article 13 — Logbooks
+
+Member States shall ensure that:
+
+(a) paper and electronic fishing logbooks, as well as FAD logbooks, where applicable, are promptly collected and made available to Union scientists;
+
+(b) the Task II data transmitted to the Commission pursuant to Article 50 include the information collected from the fishing or FAD logbooks, where applicable.
+
+##### Article 14 — Observer coverage and prohibition of FAD deployment in relation with the protection of juveniles
+
+1\. Member States shall ensure that vessels flying their flag do not deploy drifting FADs for a period of 15 days prior to the start of the closure periods established under Union law.
+
+2\. Member States shall ensure that vessels flying their flag that are authorised to fish tropical tuna establish a minimum observer coverage as follows:
+
+(a) for their longline vessels 20 metres in length overall or greater, a minimum of 10 % observer coverage of fishing effort by 2022, through the presence of an observer on board in accordance with Annex IV or through an approved electronic monitoring system;
+
+(b) for their purse seiners, a 100 % observer coverage of fishing effort, through the presence of an observer on board in accordance with Annex IV or through an approved electronic monitoring system.
+
+Member States shall report the information collected by the observers or the approved electronic monitoring system from the previous year by 30 April to the ICCAT Secretariat and to ICCAT Standing Committee on Research and Statistics taking into account the confidentiality requirements referred to in Article 72.
+
+##### Article 15 — Fishing for tropical tunas in certain Portuguese waters
+
+It shall be prohibited to retain on board any quantity of tropical tunas caught using purse seines in waters under the sovereignty or jurisdiction of Portugal in ICES subarea X north of 36°30′ N or in CECAF areas north of 31° N and east of 17°30′ W, or to target such species in those areas with those gear. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+##### Article 16 — Identification of IUU fishing
+
+If the ICCAT Executive Secretary notifies the Commission of a possible infringement by Union fishing vessels of Article 7(2) or Article 14(1) or (2), the Commission shall without delay inform the flag Member State concerned. That Member State shall immediately investigate the situation and, if the vessel is fishing in association with objects that could affect fish aggregation, including FADs, during the period of closure, shall request the vessel to stop fishing and, if necessary, to leave the area without delay. The flag Member State concerned shall, without delay, report to the Commission the results of its investigation and the corresponding measures taken. The Commission shall forward that information to the coastal State and to the ICCAT Executive Secretary.
+
+### CHAPTER II — Albacore
+
+#### Section 1 — North and South Atlantic albacore
+
+##### Article 17 — Restrictions on the number of vessels
+
+The maximum number of Union catching vessels targeting North Atlantic albacore in the ICCAT Convention area shall be determined as the average number of Union catching vessels fishing for North Atlantic albacore as a target species during the period 1993 to 1995.
+
+##### Article 17a — Specific authorisations for large-scale catching vessels targeting North and South Atlantic albacore
+
+1\. Member States shall issue fishing authorisations, in accordance with the provisions laid down in Regulation (EU) 2017/2403 of the European Parliament and of the Council ( 3 ), to large-scale catching vessels flying their flag to fish North and South Atlantic albacore in the ICCAT Convention area.
+
+2\. Large-scale fishing vessels not entered into the ICCAT record of authorised vessels targeting North and South Atlantic albacore shall not be allowed to fish, retain on board, tranship, transport, transfer, process or land North and South Atlantic albacore from the ICCAT Convention area. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+3\. Union fishing vessels not authorised to fish North and South Atlantic albacore pursuant to paragraph 1, may be allowed to retain on board, tranship, transport, process or land by-catch of North and South Atlantic albacore in accordance with a maximum on-board by-catch limit for such vessels. Member States shall report to the Commission, as part of the annual report, the maximum by-catch limit they allow for vessels flying their flag.
+
+##### Article 17b — Underage or overage of North and South Atlantic albacore
+
+1\. Any unused or excess portion of a Member State’s annual quota or catch limit for North and South Atlantic albacore may be added to or shall be deducted from, as appropriate, the relevant quota or catch limit during or before the adjustment year in accordance with the ICCAT recommendations in force for North and South Atlantic albacore.
+
+2\. The maximum underage of North and South Atlantic albacore that a Member State may carry over in any given year shall not exceed the amount permitted in that particular year by ICCAT.
+
+##### Article 17c — South Atlantic albacore record of catches
+
+The flag Member States of the vessels that fish South Atlantic albacore shall report their accurate and validated South Atlantic albacore catch to the ICCAT Secretariat as part of Task I and II data referred to in Article 50.
+
+#### Section 2 — Mediterranean albacore
+
+##### Article 17d — Recreational fisheries for Mediterranean albacore
+
+1\. Without prejudice to any prohibition of recreational fisheries under national or Union law, natural or legal persons engaged in recreational fisheries shall not catch, retain on board, tranship or land more than three Mediterranean albacore specimens per vessel per day.
+
+2\. It shall be prohibited to market Mediterranean albacore caught in recreational fisheries.
+
+3\. Member States shall provide to the Commission and to the ICCAT Secretariat the list of all fishing vessels engaged in recreational fisheries, authorised to fish Mediterranean albacore, at least 15 days before the exercise of the activities. Vessels not included on that list shall not be authorised to fish Mediterranean albacore.
+
+### CHAPTER III — Swordfish
+
+#### Section 1 — Swordfish in the Atlantic
+
+##### Article 18 — Management plans for North Atlantic swordfish
+
+Member States that have been allocated a quota and whose vessels are fishing for North Atlantic swordfish shall submit to the Commission their management plans by 15 August of each year. The Commission shall forward that information to the ICCAT Secretariat by 15 September of each year.
+
+##### Article 18a — Specific authorisations for large-scale catching vessels targeting North and South Atlantic swordfish
+
+1\. Member States shall issue fishing authorisations, in accordance with the provisions laid down in Regulation (EU) 2017/2403, to large-scale catching vessels flying their flag to fish North and South Atlantic swordfish in the ICCAT Convention area.
+
+2\. Large-scale fishing vessels not entered into the ICCAT record of authorised vessels targeting North and South Atlantic swordfish shall not be allowed to fish, retain on board, tranship, transport, transfer, process or land North and South Atlantic swordfish from the ICCAT Convention area. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+3\. Union fishing vessels not authorised to fish North and South Atlantic swordfish pursuant to paragraph 1 may be allowed to retain on board, tranship, transport, process or land by-catch of North and South Atlantic swordfish in accordance with a maximum on-board by-catch limit for such vessels. Member States shall report to the Commission, as part of the annual report, the maximum by-catch limit they allow for vessels flying their flag.
+
+##### Article 18b — Underage of North and South Atlantic swordfish
+
+1\. Any unused portion of a Member State’s annual quota or catch limit for North and South Atlantic swordfish may be added to the relevant quota or catch limit during or before the adjustment year in accordance with the ICCAT recommendations in force for North and South Atlantic swordfish.
+
+2\. The maximum underage of North and South Atlantic swordfish that a Member State may carry-over in any given year shall not exceed the amount permitted in that particular year by ICCAT.
+
+##### Article 19 — Minimum size for North Atlantic swordfish
+
+1\. Targeting, retaining on board or transhipping, landing, transporting, storing, displaying or offering for sale, selling or marketing swordfish of less than 25 kg live weight, or, alternatively, 125 cm of lower jaw fork length, shall be prohibited. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+2\. By way of derogation from paragraph 1, incidental catches of maximum 15 % of swordfish weighing less than 25 kg live weight or 125 cm of lower jaw fork length may be retained on board, transhipped, transferred, landed, transported, stored, sold, displayed or offered for sale.
+
+3\. The tolerance of 15 % referred to in paragraph 2 shall be calculated on the basis of the number of swordfish of the vessel's total swordfish catch per landing.
+
+#### Section 2 — Swordfish in the Mediterranean
+
+### CHAPTER IV — Billfish, sailfish, blue marlin, white marlin and roundscale spearfish
+
+##### Article 27 — Release of blue marlin, white marlin and roundscale spearfish caught alive
+
+1\. To the extent possible, Union pelagic longline vessels and Union purse seiners shall promptly release all blue marlin (Makaira nigricans), white marlin (Tetrapturus albidus) and roundscale spearfish (Tetrapturus georgei) that are alive at haul-back, giving due consideration to the safety of the crew members, in a manner that causes the least harm and maximises post-release survival.
+
+2\. Member States shall encourage the implementation of the minimum standards for safe handling and live release procedures specified in Annex 1 to ICCAT Recommendation 19-05 by producing guidelines for their fleet. For the safe release of live blue marlins, white marlins and roundscale spearfish caught, Union fishing vessels shall have the following readily available on deck and easily accessible by the crew members: a lifting device, bolt cutter, dehooker or disgorger, and a line-cutter.
+
+3\. Member States shall ensure that masters and crew members of their fishing vessels are adequately trained, aware of and use proper mitigation, identification, handling and releasing techniques and keep on board all equipment necessary for the release of blue marlins, white marlins and roundscale spearfish in accordance with the guidelines on minimum standards for safe handling and live release procedures referred to in paragraph 2.
+
+4\. Member States shall endeavour to minimise the post-release mortality of blue marlins, white marlins and roundscale spearfish in their ICCAT fisheries.
+
+5\. Member States may authorise pelagic longline vessels and purse seiners flying their flag to fish and retain on board, tranship or land blue marlins, white marlins and roundscale spearfish that are dead, within their catch limit.
+
+##### Article 28 — Landing of blue marlin, white marlin and roundscale spearfish beyond the fishing opportunities
+
+When a Member State has exhausted its quota, that Member State shall ensure that the landings of blue marlins, white marlins and roundscale spearfish that are dead when brought alongside the vessel are not sold or entered into commerce. Such landings shall not count against that Member State’s catch limits as set out on the basis of the Union landing limit laid down in paragraph 2 of ICCAT Recommendation 19-05, provided that such prohibition is clearly explained in the annual report referred to in Article 71 of this Regulation.
+
+##### Article 29 — Recreational fisheries of blue marlin, white marlin and roundscale spearfish
+
+1\. The flag Member States of the vessels engaged in recreational fisheries of blue marlin, white marlin and roundscale spearfish shall maintain a 5 % scientific observer coverage of blue marlin, white marlin and roundscale spearfish tournament landings.
+
+2\. In recreational fisheries of blue marlin a minimum conservation size of 251 cm in lower jaw fork length shall apply.
+
+3\. In recreational fisheries of white marlin and roundscale spearfish a minimum conservation size of 168 cm in lower jaw fork length shall apply.
+
+4\. It shall be prohibited to sell or to offer for sale any part or whole carcass of blue marlin, white marlin or roundscale spearfish caught in recreational fisheries.
+
+5\. Member States shall take appropriate measures to ensure that in recreational fisheries any released fish shall be released in a manner that causes the least harm.
+
+##### Article 29a — Data collection for sailfish
+
+Member States shall collect data on catches of sailfish, including live and dead discards, and report those data annually as part of their Task I and II data submission to support the stock assessment process.
+
+##### Article 29b — Data collection and reporting for billfish, blue marlin, white marlin and round-scale spearfish
+
+1\. Member States shall implement data collection programmes that ensure the reporting of accurate billfish catch, effort, size and discard data to ICCAT in accordance with the ICCAT requirements for the submission of Task I and II data.
+
+2\. Member States shall submit to the Commission their billfish check sheets set out in Annex 1 to ICCAT Recommendation 18-05, including information on the actions they have taken domestically to monitor catches and to conserve and manage billfish.
+
+3\. The failure to report Task I data, including dead discards, for blue marlin, white marlin and round-scale spearfish in accordance with ICCAT Resolution 01-06 and ICCAT Recommendation 11-15 shall result in a prohibition of retention of those species.
+
+### CHAPTER V — Sharks
+
+##### Article 30 — General provisions
+
+1\. In fisheries that are not targeting sharks, live sharks that are caught incidentally and are not used for food or subsistence shall be released.
+
+2\. Member States shall, where possible, carry out research on shark species caught in the ICCAT Convention area in order to improve the selectivity of fishing gear, to identify potential nursery areas and consider time and area closure and other measures, as appropriate. Such research shall provide information on key biological and ecological parameters, life-history and behavioural traits, as well as on the identification of potential mating, pupping and nursery grounds.
+
+##### Article 31 — Porbeagle sharks (Lamna nasus)
+
+1\. Retaining on board, transhipping or landing any part or whole carcass of porbeagle sharks caught in association with ICCAT fisheries shall be prohibited.
+
+2\. Union catching vessels shall promptly release, unharmed, porbeagle sharks caught in association with ICCAT fisheries when brought alongside the vessel.
+
+##### Article 32 — Bigeye thresher sharks (Alopias superciliosus)
+
+1\. Retaining on board, transhipping or landing any part or whole carcass of bigeye thresher sharks caught in association with ICCAT fisheries shall be prohibited.
+
+2\. Union catching vessels shall promptly release, unharmed, bigeye thresher sharks caught in association with ICCAT fisheries when brought alongside the vessel.
+
+##### Article 33 — North Atlantic shortfin mako sharks (Isurus oxyrinchus)
+
+1\. North Atlantic shortfin mako sharks caught by Union fishing vessels shall not be harmed and shall be promptly released into the sea to the extent practicable, while giving due consideration to the safety of crew members.
+
+2\. Member States shall ensure that vessels flying their flag apply the minimum standards for safe handling and release procedures for North Atlantic shortfin mako shark as set out in Annex IX.
+
+##### Article 33a — South Atlantic shortfin mako sharks (Isurus oxyrinchus)
+
+1\. Member States shall make sure that vessels flying their flag apply the minimum standards for safe handling and release procedures for South Atlantic shortfin mako shark as set out in Annex IX.
+
+2\. Member States shall report every month to the Commission all permissible landings of vessels flying their flag of South Atlantic shortfin mako sharks. Those reports shall be submitted to the Commission within 15 days of the end of the calendar month in which the catches were made. In addition, Member States shall report to the Commission every year the dead discards, live releases and total catches of the vessels flying their flag.
+
+3\. By 30 June of each year, the flag Member States of vessels that have caught (landings and dead discards) South Atlantic shortfin mako sharks shall communicate to the Commission the statistical methodology used to estimate dead discards and live releases. Member States with artisanal and small-scale fisheries shall also provide information about their data collection programmes.
+
+4\. As part of their annual Task I and II data submissions, Member States shall provide to the Commission all relevant data for South Atlantic shortfin mako sharks, including estimates of dead discards and live releases using the methods approved by the ICCAT Standing Committee on Research and Statistics.
+
+5\. Fishing vessels that retain South Atlantic shortfin mako sharks shall not tranship, in part or whole, South Atlantic shortfin mako sharks caught in association with ICCAT fisheries.
+
+##### Article 34 — Oceanic whitetip shark (Carcharhinus longimanus)
+
+1\. Retaining on board, transhipping or landing any part or whole carcass of oceanic whitetip sharks caught in association with ICCAT fisheries shall be prohibited.
+
+2\. Union catching vessels shall promptly release, unharmed, oceanic whitetip sharks caught in association with ICCAT fisheries when brought alongside the vessel.
+
+##### Article 35 — Hammerhead sharks
+
+1\. Retaining on board, transhipping or landing any part or whole carcass of hammerhead sharks of the Sphyrnidae family (except Sphyrna tiburo) caught in association with ICCAT fisheries shall be prohibited.
+
+2\. Union catching vessels shall promptly release, unharmed, hammerhead sharks caught in association with ICCAT fisheries when brought alongside the vessel.
+
+##### Article 36 — Silky sharks (Carcharhinus falciformis)
+
+1\. Retaining on board, transhipping or landing any part or whole carcass of silky sharks caught in association with ICCAT fisheries shall be prohibited.
+
+2\. Union catching vessels shall promptly release, unharmed, silky sharks caught in association with ICCAT fisheries, at the latest before putting the catch into the fish holds, giving due consideration to the safety of crew members.
+
+3\. Union purse seiners engaged in ICCAT fisheries shall take additional measures to increase the survival rate of silky sharks caught incidentally. Member States shall report to the Commission, as part of the annual report referred to in Article 71, about the progress made.
+
+##### Article 36a — Data collection for sharks
+
+1\. Member States shall implement data collection programmes that ensure the accurate reporting of sharks catch, effort, size and discard data to ICCAT in accordance with the requirements for the provision of Task I and II data.
+
+2\. Member States shall submit to the Commission their shark implementation check sheets set out in Annex 1 to ICCAT Recommendation 18-06, including information on the actions they have taken domestically to monitor catches and to conserve and manage sharks.
+
+##### Article 37 — Sampling of shark species by scientific observers and other authorised individuals
+
+1\. By way of derogation from the prohibition to retain on board porbeagle, bigeye thresher, oceanic whitetip, hammerhead (of the Sphyrnidae family, except for the Sphyrna tiburo) and silky sharks, as set out in Articles 31, 32, 34, 35 and 36, the collection of biological samples during commercial fishing operations by scientific observers or individuals authorised by the CPC to collect biological samples shall be permitted under the following conditions:
+
+(a) the biological samples are collected only from animals which are dead at the haul back;
+
+(b) the biological samples are taken in the framework of a research project notified to the Standing Committee on Research and Statistics of the ICCAT and developed taking into consideration the recommended research priorities of that Committee. The research project should include a detailed document that describes the objective of the project, the methodologies to be used, the number and type of samples to be collected and the time and area of sampling;
+
+(c) the biological samples are kept on board until the port of landing or transhipment; and
+
+(d) the authorisation of the flag Member State or, in the case of chartered vessels, of the chartering CPC and the flag Member State, must accompany all samples collected in accordance with this Article until the final port of landing. Such samples and other parts of the shark specimens sampled shall not be marketed or sold.
+
+2\. The biological samples referred to in paragraph 1 may include, in particular, vertebrae, tissue, reproductive tracts, stomachs, skin samples, coil valves, jaws, whole fish or skeletons for taxonomic studies and fauna inventories.
+
+3\. The sampling campaign may only start once the authorisation by the Member State concerned has been issued.
+
+### CHAPTER VI — Seabirds
+
+##### Article 38 — Mitigation measures for seabirds in the area between 20° South and 25° South
+
+1\. All vessels fishing between 20° and 25° South shall carry and use bird-scaring lines (tori lines) and tori poles that meet the requirements and supplemental guidelines set out in Annex V.
+
+2\. Tori lines shall be deployed prior to longlines entering the water, at all times.
+
+3\. Where practical, a second tori pole and tori line shall be used at times of high bird abundance or activity.
+
+4\. Back-up tori lines shall be carried by all vessels and be ready for immediate use.
+
+5\. Longline vessels targeting swordfish by using monofilament longline gear shall be exempted from the requirements of paragraphs 1, 2 and 3, subject to the following conditions:
+
+(a) longlines are set during the night, with night being defined as the period between nautical dusk/dawn as referenced in the nautical dusk/dawn almanac for the geographical position of fishing; and
+
+(b) minimum swivel weight of 60 g placed not more than 3 metres from the hook is used to achieve optimum sink rates.
+
+The flag Member States of the vessels subject to the exemption referred to in the first subparagraph shall inform the Commission of their scientific findings resulting from their observer coverage of those vessels.
+
+##### Article 39 — Mitigation measures for seabirds in the area south of 25° South
+
+Longline vessels shall use at least two of the following mitigation measures in accordance with the requirements and supplemental guidelines set out in Annex V:
+
+(a) night setting with minimum deck lighting;
+
+(b) bird-scaring lines (tori lines);
+
+(c) line weighting.
+
+##### Article 40 — Reporting obligations for seabirds
+
+1\. Longline vessels shall collect and provide to their flag Member State information on interactions with seabirds, including incidental catches. Member States shall submit that information to the Commission by 30 June of each year. The Commission shall forward that information to the ICCAT Secretariat without delay.
+
+2\. Member States shall inform the Commission on the implementation of the measures laid down in Articles 38 and 39 and on the progress of the implementation of the Union action plan for reducing incidental catches of seabirds in fishing gear.
+
+### CHAPTER VII — Sea turtles
+
+##### Article 41 — General provisions for sea turtles
+
+1\. Purse seiners shall avoid encircling sea turtles and shall release encircled or entangled sea turtles, including on FADs. They shall report interactions between purse seines or FADs and sea turtles to their flag Member State.
+
+2\. Pelagic longline vessels shall carry and use safe-handling, disentanglement and release equipment capable of releasing sea turtles in a manner that maximises their chances of survival.
+
+2a. Member States shall require the vessels flying their flag that fish with shallow-set longlines to:
+
+(a) use only large circle hooks;
+
+(b) use only finfish bait; or
+
+(c) use other measures that have been reviewed and considered effective and approved by ICCAT to be capable of reducing the interaction rate of sea turtles in shallow-set longline fisheries.
+
+3\. Fishermen on pelagic longline vessels shall use the equipment referred to in paragraph 2 in accordance with Annex VI, in order to maximise the chances of sea turtle survival.
+
+4\. Member States shall:
+
+(a) ensure that interactions with sea turtles are reduced and eliminated to the extent practicable, where encounters with sea turtles have been documented and reported to the ICCAT Standing Committee on Research and Statistics, through the use or continued use of at least one of the following by-catch mitigation measures:
+
+(i) alternative or new gear types and gear modifications;
+
+(ii) time-area fishing restrictions and closures in instances where there is a higher risk of interaction with sea turtles;
+
+(iii) effective marking of static net gear, allowing their detection by sea turtles, such as the use of net colours, light passive reflectors, thicker twine diameter, corks or other materials within the net;
+
+(iv) modifications in fishing behaviour and strategy (e.g. reduced soaking time etc.);
+
+(b) require purse seiners flying their flag to:
+
+(i) avoid encircling sea turtles to the extent practicable;
+
+(ii) release encircled or entangled sea turtles, including on FADs, where feasible; and
+
+(iii) ensure that FADs deployed are constructed according to Annex X to effectively eliminate entanglement risks of sea turtles;
+
+(c) take all reasonable steps to ensure the safe release of sea turtles in a manner that maximises the likelihood of their survival by requiring that:
+
+(i) purse seiners, longline vessels and other types of vessels flying their flag that use gear that may entangle sea turtles, carry on board de-hookers, line-cutters and basket lifts or dip nets, as appropriate for each gear type and consistent with the ‘Best practices for sea turtle handling and release’ of the FAO Guidelines to reduce sea turtle mortality in fishing operations (2009) (‘the FAO guidelines’);
+
+(ii) the owners, operators and crew members of the vessels referred to in point (i), as well as any on-board observers, use the equipment referred to in that point in accordance with the safe handling and release practices for sea turtles set out in Annex VI, and consistent with the FAO guidelines;
+
+(iii) the owners, operators and crew members of the vessels referred to in point (i) be encouraged to have training in the use of the equipment referred to in that point;
+
+(d) require their fishers on vessels targeting species covered by the ICCAT Convention to bring aboard, if practicable, any captured sea turtle that is comatose or inactive as soon as possible and foster its recovery, including giving it resuscitation in accordance with Section C of Annex VI before returning it to the water;
+
+(e) ensure that fishers are aware of and use proper mitigation and handling techniques, as described in Annex VI.
+
+5\. Member States shall endeavour to increase the scientific observer coverage of longline fishing vessels in ICCAT fisheries where encounters with sea turtles have been documented and reported to the ICCAT Standing Committee on Research and Statistics, beyond the minimum level of 5 %, to 10 % by 1 January 2024. That increase may be achieved through human observers or electronic monitoring systems, or both.
+
+Notwithstanding the first subparagraph, for vessels of less than 15 metres in length overall, where an extraordinary safety concern could exist that precludes deployment of an on-board observer, a Member State may employ an alternative scientific monitoring approach to collect data equivalent to those specified in this Regulation in a manner that ensures comparable coverage. Alternative approaches implemented pursuant to this subparagraph shall be subject to the approval of ICCAT at the annual meeting prior to their implementation.
+
+6\. In the Mediterranean Sea:
+
+(a) paragraph 2a shall not apply;
+
+(b) paragraphs 4 and 5 shall apply from 1 January 2026.
+
+##### Article 42 — Reporting obligations for sea turtles
+
+1\. Member States shall collect and transmit to the Commission, by 30 June of each year, the information on the interactions of their vessels with sea turtles in ICCAT fisheries by gear type. The Commission shall forward that information to the ICCAT Secretariat by 31 July of each year. That information shall include:
+
+(a) catch rates, gear characteristics, times and locations, target species and disposition status (i.e. discarded dead or released alive);
+
+(b) a breakdown of interactions by sea turtle species; and
+
+(c) the nature of the hooking or entanglement (including with FADs), bait type, hook size and type, and the size of the animal.
+
+2\. Member States shall report to the Commission, as part of the annual report referred to in Article 71, on the implementation of Article 41 and on other relevant actions taken to implement, with respect to ICCAT fisheries, the Guidelines to reduce sea turtle mortality in fishing operations published in 2010 by the Food and Agriculture Organization (FAO).
+
+### CHAPTER VIII — Fishing opportunities for bluefin tuna and swordfish
+
+## TITLE III — COMMON CONTROL MEASURES
+
+### CHAPTER I — Authorisations
+
+##### Article 44 — ICCAT record of large-scale fishing vessels
+
+1\. Member States shall issue authorisations, in accordance with the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets ( 4 ), to large-scale fishing vessels flying their flag to target, retain on board, tranship or land ICCAT species in the ICCAT Convention area.
+
+2\. Member States shall submit to the Commission, at the time of authorisation, the lists of large-scale fishing vessels authorised pursuant to paragraph 1. The Commission shall without delay submit that information to the ICCAT Secretariat for inclusion in the ICCAT record of large-scale fishing vessels.
+
+3\. Member States shall notify the Commission, without delay and at the latest within 30 days, of any event requiring an addition to, deletion from or modification of the ICCAT record of large-scale fishing vessels. The Commission shall, at the latest within 45 days from the date of such event, submit that information to the ICCAT Secretariat.
+
+4\. Large-scale fishing vessels not entered into the ICCAT record of large-scale fishing vessels shall not be allowed to target, retain on board, tranship or land ICCAT species from the ICCAT Convention area. Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.
+
+##### Article 44a — Vessel monitoring system
+
+Where fishing vessels have installed tracking devices in accordance with Article 9 of Council Regulation (EC) No 1224/2009, Member States shall ensure that the tracking devices of fishing vessels flying their flag are permanently and continuously operational and that the information is collected and transmitted to the competent authorities of the Member State at least once every hour for purse seiners and at least once every 2 hours for all other vessels targeting ICCAT species.
+
+In the event of technical failure or non-operation of the tracking device fitted on board a Union fishing vessel, the device shall be repaired or replaced as soon as possible and in any case within 1 month of the event, unless the vessel is no longer operating in the ICCAT Convention area. Union fishing vessels shall not start a fishing trip without the tracking device having been repaired or replaced.
+
+### CHAPTER II — Chartering
+
+##### Article 45 — Scope
+
+This Chapter shall apply to chartering arrangements, other than bareboat chartering, between Union catching vessels and those of CPCs, where the Union catching vessels concerned do not change their flag.
+
+##### Article 46 — General provisions
+
+1\. Union catching vessels shall be allowed to participate in a chartering arrangement concluded with CPCs only as chartered vessels, subject to the following conditions:
+
+(a) the chartered vessels shall have a fishing authorisation issued by the chartering CPC and shall not be on the ICCAT IUU list;
+
+(b) the chartered vessels shall not be authorised to fish under more than one chartering arrangement at the same time;
+
+(c) the catches of the chartered vessels shall be unloaded exclusively in the ports of the chartering CPCs, unless otherwise provided for in the chartering arrangement; and
+
+(d) the chartering company shall be legally established in the chartering CPC.
+
+2\. Any transhipment at sea shall be duly authorised in advance by the chartering CPC and shall comply with Chapter IV of this Title.
+
+##### Article 47 — Notification
+
+1\. At the time the chartering arrangement is made, the flag Member State shall notify the Commission of its consent to the chartering arrangement.
+
+2\. If, within 15 calendar days of the transmission to the Commission of the notification referred to in paragraph 1, the Commission has not required further information, the chartered vessel may start the fishing activities concerned.
+
+3\. The flag Member State shall inform the Commission without delay about the termination of each charter.
+
+4\. The Commission shall forward without delay the information referred to in paragraphs 1 and 3 to the ICCAT Secretariat.
+
+### CHAPTER III — Control of catches
+
+##### Article 48 — Compliance with quotas and minimum size requirements
+
+1\. By 20 August of each year Member States shall submit to the Commission information on the catches of ICCAT species during the previous year subject to quotas and on the compliance with minimum sizes.
+
+2\. The Commission shall forward that information to the ICCAT Secretariat by 15 September of each year.
+
+##### Article 49 — Catch sampling
+
+1\. Sampling of catches for the purposes of improving the knowledge on the biology of the relevant ICCAT species and of estimating the necessary parameters for their evaluation shall be carried out in accordance with Regulation (EU) 2017/1004 of the European Parliament and of the Council ( 5 ), Commission Implementing Decision (EU) 2016/1251 ( 6 ) and the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fishes’ published in 1990 by ICCAT.
+
+2\. The Commission may adopt implementing acts as regards detailed requirements for the catch sampling referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 75(2).
+
+##### Article 50 — Catch and fishing effort notification
+
+1\. Unless otherwise established by the Commission to meet annual deadlines set by ICCAT, Member States shall transmit to the Commission, by 30 June of each year, the following data (Task I data):
+
+(a) information on the characteristics of their fleet for the previous year;
+
+(b) estimates of the annual nominal catch data (including by-catch and discards data) concerning ICCAT species for the previous year.
+
+2\. Unless otherwise established by the Commission to meet annual deadlines set by ICCAT, Member States shall transmit to the Commission, by 30 June of each year, the following data (Task II data) for the ICCAT species:
+
+(a) catch and fishing effort data for the previous year, giving a detailed spatio-temporal breakdown; those data shall include estimates of discards and releases with the indication of the status of the fish (dead or alive);
+
+(b) any data they have on catches in recreational fisheries for the previous year.
+
+3\. The Commission shall forward the information referred to in paragraphs 1 and 2 to the ICCAT Secretariat without delay.
+
+4\. The Commission may adopt implementing acts as regards detailed requirements for the Task I and II data referred to in paragraphs 1 and 2 of this Article respectively. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 75(2).
+
+### CHAPTER IV — Transhipment
+
+##### Article 51 — Scope
+
+1\. This Chapter shall apply to the following transhipment operations:
+
+(a) transhipment operations carried out within the ICCAT Convention area in respect of ICCAT species and other species caught in association with those species; and
+
+(b) transhipment operations carried out outside the ICCAT Convention area in respect of ICCAT species and other species caught in association with those species, that were harvested in the ICCAT Convention area.
+
+2\. By way of derogation from point (b) of paragraph 1, this Chapter shall not apply to transhipments at sea outside the ICCAT Convention area of fish caught in the ICCAT Convention area, where such transhipment is subject to a programme for transhipment established by another tuna RFMO.
+
+3\. This Chapter shall not apply to harpoon vessels engaged in the transhipment of fresh swordfish at sea.
+
+##### Article 52 — Transhipment in port
+
+1\. All transhipment operations shall take place in designated ports, except those carried out by large-scale pelagic longline vessels pursuant to Articles 53 to 60.
+
+2\. Union fishing vessels shall comply with the obligations set out in Annex VII when carrying out transhipments in port.
+
+3\. This Article shall be without prejudice to Articles 17 to 22 of Regulation (EC) No 1224/2009 and Articles 4, 6, 7 and 8 of Regulation (EC) No 1005/2008.
+
+##### Article 53 — Transhipment at sea
+
+Transhipment at sea by large-scale pelagic longline vessels shall take place in accordance with Articles 54 to 60.
+
+##### Article 54 — ICCAT record of carrier vessels
+
+1\. Member States shall issue authorisations, in accordance with the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets ( 7 ), to carrier vessels to receive transhipments at sea from large-scale pelagic longline vessels in the ICCAT Convention area.
+
+2\. Member States shall submit to the Commission, at the time of authorisation, the lists of carrier vessels authorised pursuant to paragraph 1. The Commission shall without delay submit that information to the ICCAT Secretariat for inclusion in the ICCAT record of carrier vessels.
+
+3\. Flag Member States shall promptly notify the Commission of any addition to, any deletion from or any modification to, their lists of carrier vessels. The Commission shall without delay submit that information to the ICCAT Secretariat.
+
+4\. The notification referred to in paragraphs 2 and 3 shall reflect the format and layout established by the ICCAT Executive Secretary and shall include the following information:
+
+— name of vessel, register number,
+
+— ICCAT record number (if any),
+
+— IMO number,
+
+— previous name (if any),
+
+— previous flag (if any),
+
+— previous details of deletion from other registries (if any),
+
+— international radio call sign,
+
+— type of vessels, length, gross registered tonnage (GRT) and carrying capacity,
+
+— names and addresses of owners and operators,
+
+— type of transhipment authorised (i.e. in port, at sea),
+
+— time period authorised for transhipping.
+
+5\. Transhipment at sea referred to in Article 53 may only be received by carrier vessels entered on the ICCAT record of carrier vessels.
+
+##### Article 55 — Authorisation to large-scale pelagic longline vessels to tranship in the ICCAT Convention area
+
+1\. Member States shall issue authorisations, in accordance with the provisions of a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets ( 8 ), to large-scale pelagic longline vessels flying their flag to tranship at sea.
+
+2\. Member States shall submit to the Commission, at the time of authorisation, the lists of large-scale pelagic longline vessels authorised pursuant to paragraph 1. The Commission shall without delay submit that information to the ICCAT Secretariat.
+
+3\. Flag Member States shall promptly notify the Commission of any addition to, any deletion from or any modification to, their lists of large-scale pelagic longline vessels authorised to tranship at sea. The Commission shall without delay submit that information to the ICCAT Secretariat.
+
+4\. The notification referred to in paragraphs 2 and 3 shall reflect the format and layout established by the ICCAT Secretariat and shall include the following information:
+
+— name of vessel, register number,
+
+— ICCAT record number,
+
+— time period authorised for transhipping at sea,
+
+— flag(s), name(s) and register number(s) of the carrier vessel(s) authorised for use by the large-scale pelagic longline vessel(s).
+
+##### Article 56 — Prior authorisation for transhipment at sea
+
+1\. Transhipments by large-scale pelagic longline vessels in waters under the jurisdiction of a CPC are subject to prior authorisation from that CPC. The original or a copy of that authorisation shall be retained on the vessel and made available to the ICCAT regional observer when requested.
+
+2\. Large-scale pelagic longline vessels shall not be allowed to tranship at sea, unless they have obtained prior authorisation from their flag Member State. The original or a copy of the documentation of that authorisation shall be retained on the vessel and made available to the ICCAT regional observer when requested.
+
+3\. To receive the prior authorisations referred to in paragraphs 1 and 2, the master or owner of the large-scale pelagic longline vessel shall, at least 24 hours in advance of the intended transhipment, notify its flag Member State authorities and the coastal CPC of the following information:
+
+(a) the name of the large-scale pelagic longline vessel and its number in the ICCAT record of large-scale pelagic longline vessels authorised to tranship at sea;
+
+(b) the name of the carrier vessel and its number in the ICCAT record of carrier vessels;
+
+(c) the product to be transhipped, by species, where known, and, if possible, by stock;
+
+(d) the quantities of ICCAT species, if possible, by stock, to be transhipped;
+
+(e) the quantities of other species caught in association with ICCAT species by species, if known, to be transhipped;
+
+(f) the date and location of transhipment;
+
+(g) the geographic location of the catches by species and, where appropriate, by stock, consistent with ICCAT statistical areas.
+
+##### Article 57 — ICCAT transhipment declaration
+
+1\. The master or owner of the large-scale pelagic longline vessel shall, not later than 15 days after the transhipment, complete and transmit to its flag Member State and to the coastal CPC the ICCAT transhipment declaration.
+
+2\. The master of the receiving carrier vessel shall, within 24 hours of the completion of the transhipment, complete and transmit to the ICCAT Secretariat, to the flag CPC of the large-scale pelagic longline vessel and to its flag Member State the ICCAT transhipment declaration, along with its number in the ICCAT record of carrier vessels.
+
+3\. The master of the receiving carrier vessel shall, at least 48 hours before landing, transmit to the competent authorities of the landing State the ICCAT transhipment declaration, along with its number in the ICCAT record of carrier vessels.
+
+4\. All ICCAT species and any other species caught in association with those species landed in, or imported into, the area or territory of a CPC, either unprocessed or after having being processed on board, and which are transhipped at sea, shall be accompanied by the ICCAT transhipment declaration until the first sale has taken place.
+
+##### Article 58 — ICCAT regional observer programme for transhipment at sea
+
+1\. Each Member State shall ensure that all carrier vessels transhipping at sea have on board an ICCAT regional observer in accordance with the ICCAT regional observer programme for transhipment at sea as laid down in Annex VIII.
+
+2\. Without prejudice to Article 73 of Regulation (EC) No 1224/2009, the ICCAT regional observer shall be tasked to verify compliance with this Chapter, and, in particular, whether the transhipped quantities are consistent with the reported catch in the ICCAT transhipment declaration and with the catches recorded in the fishing vessel logbook.
+
+3\. Vessels shall be prohibited from commencing or continuing transhipping in the ICCAT Convention area without an ICCAT regional observer on board, except in cases of force majeure duly notified to the ICCAT Secretariat.
+
+##### Article 58a — Health and safety of observers in the ICCAT regional observer programme for transhipment at sea
+
+1\. Member States shall ensure that each vessel flying their flag that carries on board an ICCAT regional observer is outfitted with appropriate safety equipment for the entirety of each voyage, including the following:
+
+(a) a life raft of sufficient capacity for all persons on board and with a certificate of inspection that is valid throughout the observer’s deployment;
+
+(b) life jackets or survival suits of sufficient number for all persons on board, and compliant with relevant international standards; and
+
+(c) a properly registered emergency position indicating radio beacon (EPIRB) and a search and rescue transponder (SART) that will not expire until after the observer deployment ends.
+
+2\. Each Union fishing vessel carrying an ICCAT regional observer shall develop and implement an emergency action plan (‘EAP’) to be followed in the event an observer dies, is missing or presumed fallen overboard, suffers from a serious illness or injury that threatens health, safety, or welfare of the observer, or has been assaulted, intimidated, threatened or harassed. Such an EAP shall include, inter alia, the elements set out in Annex 1 to ICCAT Recommendation 19-10.
+
+3\. Each Union fishing vessel carrying an ICCAT regional observer shall submit EAP to the Commission, to be transmitted to ICCAT for posting on the ICCAT website. A new or amended EAP shall be provided to the Commission to be transmitted to ICCAT for posting on the ICCAT website when it becomes available.
+
+4\. A Union fishing vessel shall be eligible to carry an ICCAT regional observer only if it has submitted an EAP. Furthermore, if the Commission identifies inconsistencies with the standards set out in Annex 1 to ICCAT Recommendation 19-10 on the basis of the information in the EAP, the Commission may decide that the deployment of an observer on a vessel of the concerned flag Member State shall be delayed until the inconsistency has been sufficiently addressed.
+
+##### Article 59 — Reporting obligations
+
+1\. The flag Member State of large-scale pelagic longline vessels which have transhipped and the flag Member State of carrier vessels which have received transhipments during the previous year shall transmit by 15 August of each year to the Commission:
+
+(a) the quantities of catches of ICCAT species, by species and, if possible, by stock, transhipped during the previous year;
+
+(b) the quantities of other species caught in association with ICCAT species by species, if known, transhipped during the previous year;
+
+(c) the list of the large-scale pelagic longline vessels which have transhipped during the previous year;
+
+(d) a comprehensive report assessing the content and conclusions of the reports of the ICCAT regional observers assigned to carrier vessels which have received transhipment from large-scale pelagic longline vessels.
+
+2\. The Commission shall forward the information received pursuant to paragraph 1 to the ICCAT Secretariat by 15 September of each year.
+
+##### Article 60 — Consistency of reported data
+
+The flag Member State of the large-scale pelagic longline vessel engaged in transhipments at sea shall review the information received pursuant to this Regulation so as to determine consistency between the reported catches, transhipments and landings of each vessel, including in cooperation with the landing State as necessary. That verification shall be carried out in such a manner so as to ensure that the vessel suffers the minimum interference and inconvenience and that deterioration in fish quality is avoided.
+
+### CHAPTER V — Scientific observer programmes
+
+##### Article 61 — Establishment of domestic scientific observer programmes
+
+1\. Member States shall establish domestic scientific observer programmes ensuring the following:
+
+(a) a minimum of 5 % observer coverage of fishing effort in each of pelagic longline, purse seine, baitboat, traps, gillnet and trawl fisheries, targeting ICCAT species;
+
+(b) for chartered vessels, by way of derogation from point (a), a minimum of 10 % observer coverage of fishing effort in each of the pelagic longline, purse seine and baitboat fisheries;
+
+(c) a representative temporal and spatial coverage of the operation of the fleet to ensure the collection of adequate and appropriate data, taking into account characteristics of the fleets and fisheries;
+
+(d) data collection on all aspects of the fishing operation, including catch, as specified in Article 63(1).
+
+2\. The percentage of the observer coverage referred to in paragraph 1, points (a) and (b), shall be calculated as follows:
+
+(a) for purse seine fisheries, in number of sets or trips;
+
+(b) for pelagic longline fisheries, in fishing days, number of sets, or trips;
+
+(c) for baitboat and trap fisheries, in fishing days;
+
+(d) for gillnet fisheries, in fishing hours or days; and
+
+(e) for trawl fisheries, in fishing hauls or days.
+
+3\. By way of derogation from point (a) of paragraph 1, for vessels less than 15 metres in length overall, where an extraordinary safety concern exists that precludes deployment of an on-board observer, a Member State may employ an alternative scientific monitoring approach. That alternative approach shall ensure a coverage comparable to that specified in point (a) of paragraph 1 and an equivalent collection of data. The Member State concerned shall present the details of the alternative approach to the Commission.
+
+4\. The Commission shall submit the details of the alternative approach referred to in paragraph 3 to the ICCAT Standing Committee on Research and Statistics for evaluation. Alternative approaches shall be subject to the approval of the ICCAT Commission at the ICCAT annual meeting prior to their implementation.
+
+##### Article 62 — Qualifications of scientific observers
+
+Member States shall ensure that observers have followed the required training, are suitably qualified and are approved before their deployment. The observers shall possess the following qualifications:
+
+(a) sufficient knowledge and experience to identify species and collect information on different fishing gear configurations;
+
+(b) satisfactory knowledge of the ICCAT conservation and management measures;
+
+(c) ability to observe and record accurately data to be collected under the programme;
+
+(d) ability to collect biological samples;
+
+(e) not be a crew member of the fishing vessel being observed; and
+
+(f) not be an employee of a fishing vessel company involved in the fishery being observed.
+
+##### Article 63 — Responsibilities of scientific observers
+
+1\. Each Member State shall require observers to carry out, in particular, the following tasks:
+
+(a) record and report on the fishing activity of the observed vessel, which shall include at least the following:
+
+(i) data collection, including quantifying total target catch, by-catch and discards (including sharks, sea turtles, marine mammals, and seabirds), estimating or measuring size composition, as practicable, disposition status (i.e. retained, discarded dead, released alive) and the collection of biological samples for life history studies (e.g. gonads, otoliths, spines, scales);
+
+(ii) information on all tags found;
+
+(iii) fishing operation information, including location of catch by latitude and longitude, fishing effort information (e.g. number of sets, number of hooks), date of each fishing operation, including, as appropriate, the start and stop times of the fishing activity, use of fish aggregating objects, including FADs, and general condition of released animals related to survival rates (i.e. dead or alive, wounded);
+
+(b) observe and record the use of mitigation measures to reduce incidental catches and other relevant information;
+
+(c) to the extent possible, observe and report environmental conditions (e.g. sea state, climate and hydrologic parameters);
+
+(d) observe and report on FADs, in accordance with the ICCAT regional observer programme adopted under the multi-annual conservation and management programme for tropical tuna; and
+
+(e) perform any other scientific tasks as recommended by the ICCAT Standing Committee on Research and Statistics and agreed by the Commission.
+
+2\. Member States shall ensure that observers:
+
+(a) do not interfere with the electronic equipment of the vessel;
+
+(b) are familiar with the emergency procedures aboard the vessel, including the location of life rafts, fire extinguishers and first aid kits;
+
+(c) communicate as needed with the master on relevant observer issues and tasks;
+
+(d) do not hinder or interfere with the fishing activities and the normal operations of the vessel;
+
+(e) participate in debriefing sessions with appropriate representatives of the scientific institute or the domestic authority responsible for implementing the observer programme.
+
+3\. The master of the vessel to which the observer is assigned shall:
+
+(a) permit appropriate access to the vessel and its operations;
+
+(b) allow the observer to carry out the observer tasks in an effective way, including by:
+
+(i) providing appropriate access to the vessel’s gear, documentation (including electronic and paper logbooks), and catch;
+
+(ii) communicating at any time with appropriate representatives of the scientific institute or domestic authority;
+
+(iii) ensuring appropriate access to electronics and other equipment pertinent to fishing, including:
+
+— satellite navigation equipment,
+
+— electronic means of communication;
+
+(iv) ensuring that no one on board the observed vessel tampers with or destroys observer equipment or documentation, obstructs, interferes with, or otherwise acts in a manner that could unnecessarily prevent the observer from performing observer tasks;
+
+(c) provide accommodation to observers, including berthing, food and adequate sanitary and medical facilities, equal to those of officers;
+
+(d) provide the observer adequate space on the bridge or pilot house to perform observer tasks, as well as space on deck adequate for carrying out observer tasks.
+
+4\. Each Member State shall:
+
+(a) require vessels flying its flag, when fishing for ICCAT species, to carry a scientific observer in accordance with this Regulation;
+
+(b) oversee the safety of its observers;
+
+(c) encourage, where feasible and appropriate, their scientific institute or domestic authority to enter into agreements with the scientific institutes or domestic authorities of other Member States or CPCs for the exchange of observer reports and observer data between them;
+
+(d) provide in its annual report for use by the Commission and the ICCAT Standing Committee on Research and Statistics, specific information on the implementation of ICCAT Recommendation 16-14, which shall include:
+
+(i) details on the structure and design of their scientific observer programmes, including, inter alia:
+
+— the target level of observer coverage by fishery and gear type as well as how it is measured,
+
+— data required to be collected,
+
+— data collection and handling protocols in place,
+
+— information on how vessels are selected for coverage to achieve the Member States’ target level of observer coverage,
+
+— observer training requirements, and
+
+— observer qualification requirements;
+
+(ii) the number of vessels monitored, the coverage level achieved by fishery and gear type, and details on how those coverage levels were calculated;
+
+(e) following the initial submission of the information required under point (d)(i), report changes to the structure and design of its observer programmes in its annual reports only when such changes occur; and continue to report the information required pursuant to point (d)(ii) to the Commission annually;
+
+(f) each year, using the designated electronic formats that are developed by the ICCAT Standing Committee on Research and Statistics, report to that committee information collected through domestic observer programmes for use by the Commission, in particular for stock assessment and other scientific purposes, in line with procedures in place for other data reporting requirements and consistent with domestic confidentiality requirements;
+
+(g) ensure implementation of robust data collection protocols by its observers, when carrying out their tasks referred to in paragraphs 1 and 2, including, as necessary and appropriate, the use of photography.
+
+##### Article 64 — Submission of collected information
+
+By 30 June of each year Member States shall submit to the Commission the information collected under their domestic scientific observer programmes. The Commission shall forward that information to the ICCAT Secretariat by 31 July of each year.
+
+### CHAPTER VI — Control of third country fishing vessels in Member State ports
+
+##### Article 65 — Reporting obligations with regard to designated ports and points of contact
+
+1\. Member States wishing to grant access to its ports to third country fishing vessels carrying ICCAT species or fishery products originating from such species that have not been previously landed or transhipped at ports shall:
+
+(a) designate their ports to which third country fishing vessels may request entry pursuant to Article 5 of Regulation (EC) No 1005/2008;
+
+(b) designate a point of contact for the purposes of receiving prior notice pursuant to Article 6 of Regulation (EC) No 1005/2008;
+
+(c) designate a point of contact for the purposes of transmitting port inspection reports pursuant to Article 66 of this Regulation.
+
+2\. Member States shall transmit to the Commission any changes to the list of designated ports and points of contact at least 30 days before such changes take effect. The Commission shall notify that information to the ICCAT Secretariat at least 14 days before those changes take effect.
+
+##### Article 66 — Reporting obligations with regard to port inspections
+
+1\. The inspecting Member State shall transmit to the Commission a copy of the port inspection report referred to in Article 10(3) of Regulation (EC) No 1005/2008 no later than 10 days following the date of completion of the inspection. The Commission shall forward that information to the ICCAT Secretariat no later than 14 days following the date of completion of the inspection.
+
+2\. If the port inspection report cannot be transmitted within the period of 10 days referred to in paragraph 1, the inspecting Member State shall notify the Commission within that period of the reasons for the delay and when the report will be submitted.
+
+3\. If the information collected during the inspection provides reasons to believe that a third country vessel has committed an infringement of the ICCAT conservation and management measures, Article 11 of Regulation (EC) No 1005/2008 shall apply.
+
+4\. Each Member State shall inspect annually at least 5 % of landing and transhipment operations conducted by third-country fishing vessels in its designated ports.
+
+5\. Flag Member States shall consider and act on reports of infringements from inspectors of a port State on a similar basis as the reports from their own inspectors, in accordance with Regulation (EU) 2017/2403.
+
+### CHAPTER VII — Enforcement
+
+##### Article 66a — Sighting of vessels
+
+1\. Member States shall collect as much information as feasible, through inspection and surveillance operations conducted by their competent authorities in the ICCAT Convention area, when a Union fishing vessel, a third-country fishing vessel or a vessel without nationality is sighted in fishing or fishing-related activities (e.g. transhipment) that are presumed to be engaged in IUU fishing.
+
+2\. Member States shall collect information on vessel sightings in accordance with the sighting information sheet set out in the Annex to ICCAT Recommendation 19-09.
+
+3\. When a vessel is sighted pursuant to paragraph 1, the Member State concerned (‘sighting Member State’) shall without undue delay notify and provide any recorded images of the vessel to the appropriate authorities of the flag Member State or CPC or flag non-CPC of the sighted vessel, and:
+
+(a) if the sighted vessel is flagged to a Member State, the flag Member state shall, without undue delay, take appropriate action with respect to the vessel concerned; both the sighting Member State and the flag Member State of the sighted vessel shall provide information on the sighting to the Commission and the European Fisheries Control Agency (EFCA), including details of any follow-up action taken;
+
+(b) if the sighted vessel is flagged to another CPC, a non-CPC, or is of indeterminate flag or without nationality, the sighting Member State shall, without undue delay, provide to the Commission and the EFCA all appropriate information related to the sighting; the Commission shall, as appropriate, transmit the sighting information to the ICCAT Secretariat.
+
+##### Article 67 — Alleged infringements reported by Member States
+
+1\. In addition to the requirements set out in Article 48(4) of Regulation (EC) No 1005/2008, Member States shall submit to the Commission, at least 140 days before the ICCAT annual meeting, any documented information that indicates possible non-compliance of CPCs with ICCAT conservation and management measures. The Commission shall examine that information and, if appropriate, forward it to the ICCAT Secretariat at least 120 days before the ICCAT annual meeting.
+
+2\. Member States shall submit to the Commission the list of catching vessels 12 metres or greater in length overall, fish processing vessels, tug and towing vessels, vessels engaged in transhipment, and support vessels alleged to be carrying out IUU fishing in the ICCAT Convention area during the current and previous year, accompanied by the supporting evidence concerning the presumption of IUU fishing. That list shall be submitted at least 140 days before the ICCAT annual meeting. The Commission shall examine that information and, if the information is sufficiently documented, forward it to the ICCAT Secretariat at least 120 days before the ICCAT annual meeting, for the purpose of establishing the ICCAT draft IUU list.
+
+##### Article 68 — ICCAT draft IUU list
+
+Member States shall closely monitor the vessels included in the ICCAT draft IUU list circulated by the ICCAT Executive Secretary, in order to determine the activities and possible changes of name, flag or registered owner of those vessels.
+
+##### Article 69 — Alleged non-compliances reported by the ICCAT Executive Secretary
+
+1\. If the Commission receives from the ICCAT Executive Secretary any information indicating a suspected non-compliance by a Member State, the Commission shall without delay transmit that information to the Member State concerned.
+
+2\. The Member State concerned shall provide the Commission, at least 45 days before the ICCAT annual meeting, with the findings of any investigation taken in relation to the allegations of non-compliance and any actions taken to address compliance issues. The Commission shall forward that information to the ICCAT Executive Secretary at least 30 days before the ICCAT annual meeting.
+
+##### Article 69a — IUU vessels
+
+Member States shall ensure that vessels included on the ICCAT IUU list are not authorised to land, tranship, re-fuel, re-supply or engage in other commercial transactions.
+
+##### Article 70 — Alleged infringements reported by a CPC
+
+1\. Member States shall designate a point of contact for the purpose of receiving port inspection reports from CPCs.
+
+2\. Member States shall transmit to the Commission any changes to the point of contact referred to in paragraph 1 at least 30 days before such changes take effect. The Commission shall forward that information to the ICCAT Secretariat at least 14 days before those changes take effect.
+
+3\. If the point of contact designated by a Member State receives a port inspection report from a CPC providing evidence that a fishing vessel flying the flag of that Member State has committed an infringement of ICCAT conservation and management measures, the Member State shall promptly investigate the infringement and, within 160 days of the receipt of such port inspection report, notify the Commission of the status of the investigation and of any enforcement action that may have been taken.
+
+4\. If the flag Member State cannot meet the deadline referred to in paragraph 3, it shall notify the Commission the reasons for the delay and when the report on the status of the investigation will be submitted.
+
+5\. The Commission shall forward that information to the ICCAT Secretariat within 180 days from the receipt of the port inspection report and shall include in the annual report referred to in Article 71 information regarding the status of the investigations and any enforcement actions undertaken by the flag Member State.
+
+## TITLE IV — FINAL PROVISIONS
+
+##### Article 71 — Annual report
+
+1\. By 1 August  of each year Member States shall submit to the Commission an annual report for the preceding calendar year, comprising information on fisheries, research, statistics, management, inspection and IUU fishing prevention activities and any additional information, as appropriate.
+
+2\. The annual report shall include information on the steps taken to mitigate by-catch and reduce discards, and on any relevant research in that field.
+
+3\. The Commission shall compile the information received pursuant to paragraphs 1 and 2 and shall forward it to the ICCAT Secretariat without delay.
+
+4\. The Commission may adopt implementing acts as regards detailed requirements for the format of the annual report referred to in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 75(2).
+
+##### Article 72 — Confidentiality
+
+Data collected and exchanged in the framework of this Regulation shall be treated in accordance with the applicable rules on confidentiality pursuant to Articles 112 and 113 of Regulation (EC) No 1224/2009.
+
+##### Article 73 — Procedure for amendments
+
+1\. Where necessary in order to implement into Union law amendments to the existing ICCAT recommendations which become binding on the Union, and insofar as amendments to Union law do not go beyond the ICCAT recommendations, the Commission is empowered to adopt delegated acts in accordance with Article 74 for the purpose of amending:
+
+(a) Annexes I to X;
+
+(aa) the capacity limitations for tropical tunas under Article 5a related to annual fishing and capacity management plan reporting referred to paragraph 2 of that Article, as well as the number of support vessels referred to in paragraph 3 of that Article;
+
+(b) the time limits laid down in Article 7(1), Article 8, Article 9(1), Article 14(1), Article 18, Article 20(2), (3) and (4), Article 22(2), Article 23(1) and (2), Article 26(1) and (3), Article 40(1), Article 42(1), Article 44(3), Article 47(2), Article 48(1) and (2), Article 50(1) and (2), Article 56(3), Article 57(1), (2) and (3), Article 59(1) and (2), Article 64, Article 65(2), Article 66(1) and (2), Article 67(1) and (2), Article 69(2), Article 70(2), (3) and (5), and Article 71(1);
+
+(ba) the annual carry-over for bigeye tuna under Article 8a;
+
+(bb) the requirements for FADs under Article 10(1) and (2);
+
+(bc) the references to ICCAT recommendations referred to in Article 10(2), Article 28, Article 27(3), Article 29b(2) and (3), Article 36a(2), Article 58a(2) and (4), Article 63(4), point (d), and Article 66a(2);
+
+(c) the minimum observer coverage under Article 14(2);
+
+(ca) the restrictions on the number of Union catching vessels targeting North Atlantic albacore under Article 17;
+
+(cb) the annual carry-over of North and South Atlantic albacore under Article 17b;
+
+(cc) North Atlantic swordfish management plans under Article 18;
+
+(cd) the annual carry-over of North and South Atlantic swordfish under Article 18b;
+
+(d) the minimum sizes laid down in Article 19(1) and (2), Article 24(2) and Article 29(2) and (3);
+
+(e) the tolerances laid down in Article 19(2) and (3), Article 21 and Article 24(3);
+
+(f) the technical specifications of hooks and longlines laid down in Article 25 and point (b) of Article 38(5);
+
+(g) the scientific observer coverage laid down in Article 29(1), and points (a) and (b) of Article 61(1);
+
+(h) the type of information and data laid down in Article 11(1), (2) and (3), Article 12, Articles 20(2), 26(1) and 42(1), Article 50(1) and (2), and Articles 54(4), 55(4), 56(3) and 59(1);
+
+(i) the maximum number of instrumental buoys laid down in Article 9(4);
+
+(j) the requirements to maximise sea turtle survival under Article 41;
+
+(k) the percentage coverage calculation under Article 61(2).
+
+2\. Any amendments adopted in accordance with paragraph 1 shall be strictly limited to the implementation of amendments to the ICCAT recommendation concerned into Union law.
+
+##### Article 74 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 73 shall be conferred on the Commission for a period of five years from 3 December 2017. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 73 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 73 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+##### Article 75 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee for Fisheries and Aquaculture established by Article 47 of Regulation (EU) No 1380/2013. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+##### Article 76 — Amendments to Regulation (EC) No 1936/2001
+
+In Regulation (EC) No 1936/2001, Articles 4, 5, 6, 6a, 7, 8a, 8b, 8c, 9, 9a and 10 to 19 are deleted.
+
+##### Article 77 — Amendments to Regulation (EC) No 1984/2003
+
+Regulation (EC) No 1984/2003 is amended as follows:
+
+(a) in Article 3, the following points are added:
+
+‘(g) large-scale fishing vessel : fishing vessel 20 metres in length overall or greater;
+
+(h) large-scale pelagic longline vessel : pelagic longline vessel 24 metres in length overall or greater.’;
+
+(b) in Article 4(2), the following point is added:
+
+‘(c) if the fishing has been carried out by a large-scale fishing vessel, be accepted only when that vessel is on the ICCAT record of vessels.’;
+
+(c) in Article 5(2), the following point is added:
+
+‘(c) if the fishing has been carried out by a large-scale fishing vessel, be validated only when that vessel is on the ICCAT record of vessels.’;
+
+(d) in Chapter 2, the following Section is added:
+
+### ‘Section 4 — Requirements for Member States in respect of transhipped products in the ICCAT Convention area
+
+Article 7a
+
+Statistical documents and reporting
+
+1\. When validating statistical documents, the flag Member State of large-scale pelagic longline vessels shall ensure that transhipments are consistent with the reported catch amount by each such vessel.
+
+2\. The flag Member State of large-scale pelagic longline vessels shall validate statistical documents for the transhipped fish, after confirming that the transhipment was conducted in accordance with Articles 51 to 58 of Regulation (EU) 2017/2107 of the European Parliament and of the Council ( *1 ). That confirmation shall be based on the information obtained through the ICCAT regional observer programme for transhipment at sea.
+
+3\. Member States shall require that the species covered by the statistical document programs caught by large-scale pelagic longline vessels in the ICCAT Convention area, when imported into their area or territory, are accompanied by statistical documents validated for the vessels on the ICCAT list of large-scale pelagic longline vessels authorised to tranship at sea and a copy of the ICCAT transhipment declaration.
+
+##### Article 78 — Amendments to Regulation (EC) No 520/2007
+
+In Regulation (EC) No 520/2007, Article 4(1), Title II and Annexes II, III and IV are deleted.
+
+##### Article 79 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — ICCAT species
+
+<table>
+<tbody><tr><td>Family</td><td>Latin name</td><td>English name</td></tr>
+<tr><td rowspan="20">Scombridae</td><td>Acanthocybium solandri</td><td>Wahoo</td></tr>
+<tr><td>Allothunnus fallai</td><td>Slender tuna</td></tr>
+<tr><td>Auxis rochei</td><td>Bullet tuna</td></tr>
+<tr><td>Auxis thazard</td><td>Frigate tuna</td></tr>
+<tr><td>Euthynnus alletteratus</td><td>Little tunny/Atlantic black skipjack</td></tr>
+<tr><td>Gasterochisma melampus</td><td>Butterfly kingfish</td></tr>
+<tr><td>Katsuwonus pelamis</td><td>Skipjack</td></tr>
+<tr><td>Orcynopsis unicolor</td><td>Plain bonito</td></tr>
+<tr><td>Sarda sarda</td><td>Atlantic bonito</td></tr>
+<tr><td>Scomberomorus brasiliensis</td><td>Serra Spanish mackerel</td></tr>
+<tr><td>Scomberomorus cavalla</td><td>King mackerel</td></tr>
+<tr><td>Scomberomorus maculatus</td><td>Spotted Atlantic Spanish mackerel</td></tr>
+<tr><td>Scomberomorus regalis</td><td>Cero</td></tr>
+<tr><td>Scomberomorus tritor</td><td>West African Spanish mackerel</td></tr>
+<tr><td>Thunnus alalunga</td><td>Albacore</td></tr>
+<tr><td>Thunnus albacares</td><td>Yellowfin tuna</td></tr>
+<tr><td>Thunnus atlanticus</td><td>Blackfin tuna</td></tr>
+<tr><td>Thunnus maccoyii</td><td>Southern bluefin tuna</td></tr>
+<tr><td>Thunnus obesus</td><td>Bigeye tuna</td></tr>
+<tr><td>Thunnus thynnus</td><td>Bluefin tuna</td></tr>
+<tr><td rowspan="7">Istiophoridae</td><td>Istiophorus albicans</td><td>Atlantic sailfish</td></tr>
+<tr><td>Makaira indica</td><td>Black marlin</td></tr>
+<tr><td>Makaira nigricans</td><td>Atlantic blue marlin</td></tr>
+<tr><td>Tetrapturus albidus</td><td>Atlantic white marlin</td></tr>
+<tr><td>Tetrapturus belone</td><td>Mediterranean spearfish</td></tr>
+<tr><td>Tetrapturus georgii</td><td>Roundscale spearfish</td></tr>
+<tr><td>Tetrapturus pfluegeri</td><td>Longbill spearfish</td></tr>
+<tr><td>Xiphiidae</td><td>Xiphias gladius</td><td>Swordfish</td></tr>
+<tr><td rowspan="2">Alopiidae</td><td>Alopias superciliosus</td><td>Bigeye thresher shark</td></tr>
+<tr><td>Alopias vulpinus</td><td>Thresher</td></tr>
+<tr><td rowspan="4">Carcharhinidae</td><td>Carcharhinus falciformis</td><td>Silky shark</td></tr>
+<tr><td>Carcharhinus galapagensis</td><td>Galapagos shark</td></tr>
+<tr><td>Carcharhinus longimanus</td><td>Oceanic whitetip shark</td></tr>
+<tr><td>Prionace glauca</td><td>Blue shark</td></tr>
+<tr><td rowspan="4">Lamnidae</td><td>Carcharodon carcharias</td><td>Great white shark</td></tr>
+<tr><td>Isurus oxyrinchus</td><td>Shortfin mako shark</td></tr>
+<tr><td>Isurus paucus</td><td>Longfin mako shark</td></tr>
+<tr><td>Lamna nasus</td><td>Porbeagle shark</td></tr>
+<tr><td rowspan="3">Sphyrnidae</td><td>Sphyrna lewini</td><td>Scalloped hammerhead</td></tr>
+<tr><td>Sphyrna mokarran</td><td>Great hammerhead</td></tr>
+<tr><td>Sphyrna zygaena</td><td>Smooth hammerhead</td></tr>
+<tr><td>Rhincodontidae</td><td>Rhincodon typus</td><td>Whale shark</td></tr>
+<tr><td>Pseudocarchariidae</td><td>Pseudocarcharias kamoharai</td><td>Crocodile shark</td></tr>
+<tr><td>Cetorhinidae</td><td>Cetorhinus maximus</td><td>Basking shark</td></tr>
+<tr><td>Dasyatidae</td><td>Pteroplatytrygon violacea</td><td>Pelagic stingray</td></tr>
+<tr><td rowspan="7">Mobulidae</td><td>Manta alfredi</td><td>N/A (1)</td></tr>
+<tr><td>Manta birostris</td><td>Giant manta</td></tr>
+<tr><td>Mobula hypostoma</td><td>Lesser devil ray</td></tr>
+<tr><td>Mobula japonica</td><td>N/A (1)</td></tr>
+<tr><td>Mobula mobular</td><td>Devil fish</td></tr>
+<tr><td>Mobula tarapacana</td><td>Chilean devil ray</td></tr>
+<tr><td>Mobula thurstoni</td><td>Bentfin devil ray</td></tr>
+<tr><td colspan="3">(1)  Common name not available. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**GUIDELINES FOR PREPARATION OF FISH AGGREGATING DEVICE (FAD) MANAGEMENT PLANS**
+
+The FAD management plan for CPC purse seine and baitboat fleets must include the following:
+
+(1) Description
+
+(a) FAD types: AFAD = anchored; DFAD = drifting
+
+(b) Type of beacon/buoy
+
+(c) Maximum number of FAD to be deployed per purse seine and per FAD type
+
+(d) Minimum distance between AFADs
+
+(e) Incidental by-catch reduction and utilisation policy
+
+(f) Consideration of interaction with other gear types
+
+(g) Statement or policy on ‘FAD ownership’;
+
+(2) Institutional arrangements
+
+(a) Institutional responsibilities for the FAD management plan
+
+(b) Application processes for FAD deployment approval
+
+(c) Obligations of vessel owners and masters in respect of FAD deployment and use
+
+(d) FAD replacement policy
+
+(e) Additional reporting obligations beyond this Regulation
+
+(f) Conflict resolution policy in respect of FADs
+
+(g) Details of any closed areas or periods, e.g. territorial waters, shipping lanes, proximity to artisanal fisheries, etc.;
+
+(3) FAD construction specifications and requirements
+
+(a) FAD design characteristics (a description)
+
+(b) Lighting requirements
+
+(c) Radar reflectors
+
+(d) Visible distance
+
+(e) FAD markings and identifier
+
+(f) Radio buoy markings and identifier (requirement for serial numbers)
+
+(g) Echo sounder buoy markings and identifier (requirement for serial numbers)
+
+(h) Satellite transceivers
+
+(i) Research undertaken on biodegradable FADs
+
+(j) Prevention of loss or abandonment of FADs
+
+(k) Management of FADs recovery;
+
+(4) Applicable period for the FAD management plan;
+
+(5) Means for monitoring and reviewing the implementation of the FAD management plan.
+
+## ANNEX III
+
+**LIST OF DEPLOYED FADS ON A QUARTERLY BASIS**
+
+<table>
+<tbody><tr><td colspan="2">FAD Identifier</td><td colspan="2">FAD & electronic equipment types</td><td colspan="4">FAD Design characteristics</td><td rowspan="3">Observation</td></tr>
+<tr><td rowspan="2">FAD Marking</td><td rowspan="2">Associated beacon ID</td><td rowspan="2">FAD Type</td><td rowspan="2">Type of the associated beacon and /or electronic devices</td><td colspan="2">FAD floating part</td><td colspan="2">FAD underwater hanging structure</td></tr>
+<tr><td>Dimensions</td><td>Materials</td><td>Dimensions</td><td>Materials</td></tr>
+<tr><td>(1)</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(4)</td><td>(6)</td><td>(7)</td></tr>
+<tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td colspan="9">(1)  If FAD marking and associated beacon ID are absent or unreadable, mention it and provide all available information which may help to identify the owner of the FAD.  (2)  Anchored FAD, drifting natural FAD or drifting artificial FAD.  (3)  E.g. GPS, sounder, etc. If no electronic device is associated to the FAD, note this absence of equipment.  (4)  E.g. width, length, high, depth, mesh sizes, etc.  (5)  Mention the material of the structure and of the cover and if biodegradable.  (6)  E.g. nets, ropes, palm leaves, etc. and mention the entangling and/or biodegradable features of the material.  (7)  Lighting specifications, radar reflectors and visible distances shall be reported in this section. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**OBSERVER PROGRAMME REQUIREMENTS FOR VESSELS FISHING FOR TROPICAL TUNAS IN THE GEOGRAPHICAL AREAS OF THE TIME AND AREA CLOSURE**
+
+1\. The observers shall have the following qualifications to accomplish their tasks:
+
+— sufficient experience to identify species and fishing gear,
+
+— satisfactory knowledge of the ICCAT conservation and management measures assessed by a certificate provided by the Member State and based on ICCAT training guidelines,
+
+— the ability to observe and record accurately,
+
+— a satisfactory knowledge of the language of the flag state of the vessel observed.
+
+2\. The observers shall not be crew members of the fishing vessel being observed and shall:
+
+(a) be nationals of one of the CPCs;
+
+(b) be capable of performing the duties set out in point 3;
+
+(c) not have current financial or beneficial interests in the tropical tuna fisheries.
+
+**Observer tasks**
+
+3\. The observer tasks shall be, in particular:
+
+(a) to monitor the fishing vessels' compliance with the relevant conservation and management measures adopted by the ICCAT Commission.
+
+In particular, the observers shall:
+
+(i) record and report upon the fishing activities carried out;
+
+(ii) observe and estimate catches and verify entries made in the logbook;
+
+(iii) sight and record vessels which may be fishing in contravention of ICCAT conservation and management measures;
+
+(iv) verify the position of the vessel when engaged in catching activity;
+
+(v) carry out scientific work such as collecting Task II data when required by ICCAT, based on the directives from the ICCAT Standing Committee on Research and Statistics;
+
+(b) to report without delay, with due regard to the safety of the observer, any fishing activity associated with FADs made by the vessel in the area and during the period referred to in Article 11;
+
+(c) to establish general reports compiling the information collected in accordance with this point 3 and provide the master the opportunity to include therein any relevant information.
+
+4\. The observers shall treat as confidential all information with respect to the fishing and transhipment operations of the fishing vessels and accept this requirement in writing as a condition of appointment as an observer.
+
+5\. The observers shall comply with requirements established in the laws and regulations of the flag Member State which exercises jurisdiction over the vessel to which the observer is assigned.
+
+6\. The observers shall respect the hierarchy and general rules of behaviour which apply to all vessel personnel, provided such rules do not interfere with the duties of the observer under this programme, and with the obligations set out in point 7.
+
+**Obligations of the flag Member State**
+
+7\. The responsibilities regarding observers of the flag Member States of the fishing vessels and their masters shall include, in particular, the following:
+
+(a) the observers shall be allowed access to the vessel personnel and to the gear and equipment;
+
+(b) upon request, observers shall also be allowed access to the following equipment, if present on the vessels to which they are assigned, in order to facilitate the carrying out of their duties set out in point 3:
+
+(i) satellite navigation equipment;
+
+(ii) radar display viewing screens when in use;
+
+(iii) electronic means of communication;
+
+(c) the observers shall be provided with accommodation, including lodging, food and adequate sanitary facilities, equal to those of officers;
+
+(d) the observers shall be provided with adequate space on the bridge or pilot house for clerical work, as well as space on deck adequate for carrying out observer duties; and
+
+(e) the flag Member State shall ensure that masters, crew and vessel owners do not obstruct, intimidate, interfere with, influence, bribe or attempt to bribe the observers in the performance of their duties.
+
+## ANNEX V
+
+**MINIMUM TECHNICAL STANDARDS FOR MITIGATION MEASURES**
+
+| Mitigation measure | Description | Specification |
+| --- | --- | --- |
+| Night setting with minimum deck lighting | No setting between nautical dawn and nautical dusk. Deck lighting to be kept to a minimum | Nautical dusk and nautical dawn are defined as set out in the Nautical Almanac tables for relevant latitude, local time and date. Minimum deck lighting should not breach minimum standards for safety and navigation. |
+| Bird-scaring lines (tori lines) | Bird-scaring lines shall be deployed during longline setting to deter birds from approaching the branch line | For vessels greater than or equal to 35 m: — deploy at least 1 bird-scaring line. Where practical, vessels are encouraged to use a second tori pole and bird scaring line at times of high bird abundance or activity; both tori lines should be deployed simultaneously, one on each side of the line being set; — aerial extent of bird-scaring lines must be greater than or equal to 100 m; — long streamers of sufficient length to reach the sea surface in calm conditions must be used; — long streamers must be at intervals of no more than 5 m. For vessels less than 35 m: — deploy at least 1 bird-scaring line; — aerial extent must be greater than or equal to 75 m; — long and/or short (but greater than 1 m in length) streamers must be used and placed at intervals as follows: — — Short: intervals of no more than 2 m. — Long: intervals of no more than 5 m for the first 55 m of bird scaring line. Additional design and deployment guidelines for bird-scaring lines are provided in Supplemental Guidelines for Design and Deployment of tori lines below. |
+| Line weighting | Line weights to be deployed on the snood prior to setting | Greater than a total of 45 g attached within 1 m of the hook; or Greater than a total of 60 g attached within 3,5 m of the hook; or Greater than a total of 98 g weight attached within 4 m of the hook. |
+
+#### SUPPLEMENTAL GUIDELINES FOR DESIGN AND DEPLOYMENT OF TORI LINES
+
+**Preamble**
+
+Minimum technical standards for deployment of tori lines are found in the Table above. These supplemental guidelines are designed to assist in preparation and implementation of tori line regulations for longline vessels. While these guidelines are relatively explicit, improvement in tori line effectiveness through experimentation is encouraged, within the requirements of the Table above. The guidelines take into account environmental and operational variables such as weather conditions, setting speed and ship size, all of which influence tori line performance and design in protecting baits from birds. Tori line design and use may change to take account of these variables provided that line performance is not compromised. Ongoing improvement in tori line design is envisaged and consequently review of these guidelines should be undertaken in the future.
+
+**Tori line design**
+
+1\. An appropriate towed device on the section of the tori line in the water can improve the aerial extension.
+
+2\. The above water section of the line should be sufficiently light that its movement is unpredictable to avoid habituation by birds and sufficiently heavy to avoid deflection of the line by wind.
+
+3\. The line is best attached to the vessel with a robust barrel swivel to reduce tangling of the line.
+
+4\. The streamers should be made of material that is conspicuous and produces an unpredictable lively action (e.g. strong fine line sheathed in red polyurethane tubing) suspended from a robust three-way swivel (that again reduces tangles) attached to the tori line.
+
+5\. Each streamer should consist of two or more strands.
+
+6\. Each streamer pair should be detachable by means of a clip so that line stowage is more efficient.
+
+**Deployment of tori lines**
+
+1\. The line should be suspended from a pole affixed to the vessel. The tori pole should be set as high as possible so that the line protects bait a good distance astern of the vessel and will not tangle with fishing gear. Greater pole height provides greater bait protection. For example, a height of around 7 m above the water line can give about 100 m of bait protection.
+
+2\. If vessels use only one tori line it should be set to windward of sinking baits. If baited hooks are set outboard of the wake, the tori line attachment point to the vessel should be positioned several metres outboard of the side of the vessel that baits are deployed. If vessels use two tori lines, baited hooks should be deployed within the area bounded by the two tori lines.
+
+3\. Deployment of multiple tori lines is encouraged to provide even greater protection of baits from birds.
+
+4\. Because of the potential for line breakage and tangling, spare tori lines should be carried on board to replace damaged lines and to ensure fishing operations can continue uninterrupted. Breakaways can be incorporated into the tori line to minimise safety and operational problems should a longline float foul or tangle with the in-water extent of a tori line.
+
+5\. When fishermen use a bait casting machine (BCM), they must ensure coordination of tori line and machine by ensuring that a BCM throws directly under the tori line protection. When using a BCM (or multiple BCMs) that allows throwing to both port and starboard, two tori lines should be used.
+
+6\. When casting branchline by hand, fishermen should ensure that the baited hooks and coiled branchline sections are cast under the tori line protection, avoiding the propeller turbulence which may slow the sink rate.
+
+7\. Fishermen are encouraged to install manual, electric or hydraulic winches to improve ease of deployment and retrieval of tori lines.
+
+## ANNEX VI — Safe handling and release practices for sea turtles
+
+**A. Purse seine safe handling and release**
+
+1\. Whenever a sea turtle is sighted in the net, all reasonable efforts shall be made to rescue the sea turtle before it becomes entangled in the net.
+
+2\. No sea turtle shall be hauled from the water by a fishing line attached to, or entangled upon, the body of a sea turtle.
+
+3\. If a sea turtle is entangled during net roll, the net roll shall be stopped as soon as the turtle comes out of the water; the turtle shall be disentangled without injuring it before resuming the net roll.
+
+4\. If, in spite of the measures taken, a sea turtle is accidentally brought on board the vessel and is alive and active, or dead, the sea turtle shall be released as quickly as practicable.
+
+5\. If a sea turtle is brought aboard the vessel and is comatose or inactive, resuscitation shall be attempted in accordance with Section C.
+
+**B. Longline safe handling and release**
+
+1\. When practicable, and if the operator or crew members on board are trained, comatose sea turtles shall be brought on board immediately.
+
+2\. Upon sighting a sea turtle, the vessel and line reel speed shall be slowed and the vessel direction adjusted to move toward the sea turtle, minimising tension on the line.
+
+3\. No sea turtle shall be hauled from the water by a fishing line attached to or entangled upon the body of a sea turtle.
+
+4\. If a sea turtle is too large or is hooked in such a manner as to preclude safe boarding without causing further damage or injury to the sea turtle, line clippers shall be used to clip the line and remove as much line as possible prior to releasing the sea turtle.
+
+5\. If a sea turtle is observed to be hooked or entangled by longline gear during hauling operations, the vessel operator shall immediately cease hauling operations until the sea turtle has been removed from the longline gear or brought on board the vessel.
+
+6\. If a sea turtle is hooked externally or a hook is fully visible, the hook shall be removed from the sea turtle as quickly and carefully as possible. If a hook cannot be removed from the sea turtle (e.g. ingested or in roof of mouth), the line shall be cut as close to the hook as possible.
+
+7\. Live sea turtles shall be returned to the sea after handling in the following manner:
+
+(a) putting the vessel engine in neutral gear so that the propeller is disengaged and the vessel is stopped, and releasing the sea turtle away from deployed gear; and
+
+(b) observing that the sea turtle is safely away from the vessel before engaging the propeller and continuing operations.
+
+8\. If the sea turtle brought aboard the vessel is comatose or inactive, resuscitation shall be attempted in accordance with Section C.
+
+**C. Resuscitation for a sea turtle on board**
+
+1\. When handling a sea turtle, attempts shall be made to hold the animal by the shell, avoiding the head and neck region, and the flippers.
+
+2\. It shall be strived to remove and/or disentangle any foreign items from the sea turtle, such as any plastic items, netting or embedded hooks, etc.
+
+3\. The sea turtle shall be placed on its bottom shell (plastron) so that the sea turtle is right side up, safely isolated and immobilized on a cushioned surface, such as an automobile tire without a rim, a boat cushion or a coil of rope. The primary purpose of the cushioned surface is to elevate the sea turtle from the deck to assist in restraining it. Elevate its hindquarters at least 6 inches (15 cm) for a period of 4 up to 24 hours. The degree of the elevation depends on the size of the turtle; greater elevations are needed for larger sea turtles. Periodically, rock the sea turtle gently left to right and right to left by holding the outer edge of the shell (carapace) and lifting one side about 3 inches (8 cm) then alternate to the other side. Gently touch the eye and pinch the tail (reflex test) periodically to see if there is a response.
+
+4\. Sea turtles being resuscitated shall be shaded and kept damp or moist but shall under no circumstances be placed into a container holding water. A water-soaked towel placed over the head, carapace and flippers is the most effective method to keep a sea turtle moist.
+
+5\. Sea turtles that revive and become active shall be released over the stern of the boat only when fishing gear is not in use (i.e. not actively being set or hauled), when the engine gears are in neutral position, and in areas where they are unlikely to be recaptured or injured by vessels.
+
+6\. Sea turtles that fail to respond to the reflex test or fail to move within 4 hours (up to 24 hours, if possible) shall be returned to the water in the same manner as that for actively moving sea turtles.
+
+## ANNEX VII
+
+**IN-PORT TRANSHIPMENT**
+
+1\. Transhipment in port by Union vessels or in Union ports of tuna and tuna-like species and any other species caught in association with those species in the ICCAT Convention area shall follow the following procedures:
+
+**Notification obligations**
+
+2\. Fishing vessel
+
+2.1 At least 48 hours in advance of transhipment operations, the captain of the fishing vessel must notify to the port State authorities the name of the carrier vessel and date/time of transhipment.
+
+2.2 The captain of a fishing vessel shall, at the time of the transhipment, inform its flag Member State of the following:
+
+— the quantities of tuna and tuna-like species, if possible, by stock, to be transhipped,
+
+— the quantities of other species caught in association with tuna and tuna-like species by species, where known, to be transhipped,
+
+— the date and place of the transhipment,
+
+— the name, registration number and flag of the receiving carrier vessel, and
+
+— the geographical location of the catches by species and, where appropriate, by stock, consistent with ICCAT statistical areas.
+
+2.3 The captain of the fishing vessel concerned shall complete and transmit to its flag Member State the ICCAT transhipment declaration, along with its number in the ICCAT record of fishing vessels, where applicable, not later than 15 days after the transhipment.
+
+3\. Receiving vessel
+
+3.1 Not later than 24 hours before the beginning and at the end of the transhipment, the master of the receiving carrier vessel shall inform the port State authorities of the quantities of catches of tuna and tuna-like species transhipped to his vessel, and complete and transmit the ICCAT transhipment declaration to the competent authorities within 24 hours.
+
+3.2 The master of the receiving carrier vessel shall, at least 48 hours before landing, complete and transmit an ICCAT transhipment declaration to the competent authorities of the landing State.
+
+**Port and landing State cooperation**
+
+4\. The port State and the landing State referred to in the above points shall review the information received pursuant to the provisions of this Annex, including in cooperation with the flag CPC of the fishing vessel as necessary, to determine consistency between the reported catches, transhipments and landings of each vessel. That verification shall be carried out so that the vessel suffers the minimum interference and inconvenience and that degradation of the fish is avoided.
+
+**Reporting**
+
+5\. Each flag Member State of the fishing vessel shall include in its annual report to ICCAT the details on the transhipments by its vessels.
+
+## ANNEX VIII
+
+**ICCAT REGIONAL OBSERVER PROGRAMME FOR TRANSHIPMENT AT SEA OPERATIONS**
+
+1\. Member States shall require carrier vessels included in the ICCAT record of vessels authorised to receive transhipments in the ICCAT Convention area and which tranship at sea, to carry an ICCAT regional observer during each transhipment operation in the ICCAT Convention area.
+
+2\. Observers shall be appointed by ICCAT and shall be placed on board the carrier vessels authorised to receive transhipments in the ICCAT Convention area from large-scale pelagic longline vessels (LSPLVs) flying the flag of CPCs that implement the ICCAT regional observer programme.
+
+**Designation of the observers**
+
+3\. The designated observers shall have the following qualifications to accomplish their tasks:
+
+— demonstrated ability to identify ICCAT species and fishing gear with a strong preference given to those with experience as observers on pelagic longline vessels,
+
+— satisfactory knowledge of the ICCAT conservation and management measures,
+
+— the ability to observe and record accurately,
+
+— a satisfactory knowledge of the language of the flag of the vessel observed.
+
+**Obligations of the observer**
+
+4\. Observers shall:
+
+(a) have completed the technical training required by the guidelines established by ICCAT;
+
+(b) not be nationals or citizens of the flag State of the receiving carrier vessel;
+
+(c) be capable of performing the duties set out in point 5;
+
+(d) be included in the list of observers maintained by ICCAT;
+
+(e) not be a crew member of the LSPLV or the carrier vessel or an employee of the LSPLV or carrier vessel company.
+
+5\. The observer shall monitor the LSPLV's and carrier vessel's adherence to the relevant conservation and management measures adopted by ICCAT. The observers' tasks shall be, in particular, to:
+
+5.1 Visit the LSPLV intending to tranship to a carrier vessel, taking into account the concerns reflected in point 9, and before the transhipment takes place, to:
+
+(a) check the validity of the fishing vessel's authorisation or licence to catch tuna and tuna-like species and any other species caught in association with those species in the ICCAT Convention area;
+
+(b) inspect the fishing vessel's prior authorisations to tranship at sea from the flag CPC and, if appropriate, the coastal State;
+
+(c) check and record the total quantity of catch on board by species and, if possible, by stock, and the quantities to be transhipped to the carrier vessel;
+
+(d) check that the vessel monitoring system (VMS) is functioning and examine the logbook and verify entries, if possible;
+
+(e) verify whether any of the catch on board resulted from transfers from other vessels, and check the documentation on such transfers;
+
+(f) in the case of indication that there are any violations involving the fishing vessel, immediately report the violation(s) to the master of the carrier vessel (taking due regard of any safety considerations) and to the observer programme implementing company, who shall promptly forward it to the flag CPC authorities of the fishing vessel; and
+
+(g) record the results of these duties on the fishing vessel in the observer's report.
+
+5.2 Observe the activities of the carrier vessel and:
+
+(a) record and report upon the transhipment activities carried out;
+
+(b) verify the position of the vessel when engaged in transhipping;
+
+(c) observe and estimate quantities of tuna and tuna-like species transhipped by species, if known, and, if possible, by stock;
+
+(d) observe and estimate the quantities of other species caught in association with tuna and tuna-like species by species, if known;
+
+(e) verify and record the name of the LSPLV concerned and its ICCAT record number;
+
+(f) verify the data contained in the transhipment declaration, including through comparison with the LSPLV logbook, where possible;
+
+(g) certify the data contained in the transhipment declaration;
+
+(h) countersign the transhipment declaration; and
+
+(i) observe and estimate quantities of product by species when offloaded in the port where the observer is disembarked to verify consistency with quantities received during transhipment at sea.
+
+5.3 In addition, the observer shall:
+
+(a) issue a daily report of the carrier vessel's transhipping activities;
+
+(b) establish general reports compiling the information collected in accordance with the observer's duties and provide the captain the opportunity to include therein any relevant information;
+
+(c) submit to the ICCAT Secretariat the general reports referred to in point (b) within 20 days from the end of the period of observation;
+
+(d) exercise any other functions as defined by ICCAT.
+
+6\. Observers shall treat as confidential all information with respect to the fishing operations of the LSPLV and of the LSPLV owners and accept this requirement in writing as a condition of appointment as an observer.
+
+7\. Observers shall comply with requirements established in the laws and regulations of the flag Member State and, where relevant, the coastal State, which exercises jurisdiction over the vessel to which the observer is assigned.
+
+8\. Observers shall respect the hierarchy and general rules of behaviour which apply to all vessel personnel, provided such rules do not interfere with the duties of the observer under this programme, and with the obligations of vessel personnel set out in point 9.
+
+**Responsibilities of the flag States of carrier vessels**
+
+9\. The conditions associated with implementation of the regional observer programme vis à vis the flag States of the carrier vessels and their captains include, in particular, the following:
+
+(a) Observers shall be allowed access to the vessel personnel, pertinent documentation, and to the gear and equipment.
+
+(b) Upon request, observers shall also be allowed access to the following equipment, if present on the vessels to which they are assigned, in order to facilitate the carrying out of their duties set out in point 5:
+
+(i) satellite navigation equipment;
+
+(ii) radar display viewing screens when in use;
+
+(iii) electronic means of communication; and
+
+(iv) scale used for weighing transhipped product.
+
+(c) Observers shall be provided with accommodations, including lodging, food and adequate sanitary facilities, equal to those of officers.
+
+(d) Observers shall be provided with adequate space on the bridge or pilot house for clerical work, as well as space on deck adequate for carrying out observer duties.
+
+(e) Observers shall be allowed to determine the most advantageous location and method for viewing transhipment operations and estimating species/stocks and quantities transhipped. In this regard, the master of the carrier vessel, giving due regard to safety and practical concerns, shall accommodate the needs of the observers, including, upon request, temporarily placing product on the carrier vessel deck for inspection by the observers and providing adequate time for the observers to carry out their duties. Observations shall be conducted in a manner that minimises interference and avoids compromising the quality of the products transhipped.
+
+(f) In light of the provisions of point 10, the master of the carrier vessel shall ensure that all necessary assistance is provided to the observer to ensure safe transport between the carrier and fishing vessels should weather and other conditions permit such an exchange. and
+
+(g) The flag States shall ensure that captains, crew and vessel owners do not obstruct, intimidate, interfere with, influence, bribe or attempt to bribe the observers in the performance of their duties.
+
+**Responsibilities of LSPLVs during transhipments**
+
+10\. Observers shall be allowed to visit the fishing vessel, if weather and other conditions permit, and shall be granted access to personnel, all pertinent documentation, and areas of the vessel necessary to carry out their duties set out in point 5. The master of the fishing vessel shall ensure that all necessary assistance is provided to the observer to ensure safe transport between the carrier and fishing vessels. Should conditions present an unacceptable risk to the welfare of the observer such that a visit to the LSPLV is not feasible prior to the start of transhipment operations, such operations may still be carried out.
+
+**Observer fees**
+
+11\. The costs of implementing this programme shall be financed by the flag CPCs of LSPLVs wishing to engage in transhipment operations. The fee shall be calculated on the basis of the total costs of the programme. That fee shall be paid into a special account of the ICCAT Secretariat and the ICCAT Secretariat shall manage the account for implementing the programme.
+
+12\. No LSPLV may participate in the transhipment at sea programme unless the fees, as required under point 11, are paid.
+
+## ANNEX IX — Minimum standards for safe handling and live release procedures for North and South Atlantic shortfin mako sharks
+
+This Annex sets out minimum standards for safe handling practices for North and South Atlantic shortfin mako sharks, and includes specific recommendations for both longline and purse seine fisheries.
+
+These minimum standards are appropriate for live shortfin mako sharks when released, whether under no-retention policies or voluntarily. These minimum standards do not replace any stricter safety rules that may have been established under national law.
+
+1\. Safety first: These minimum standards shall be considered in light of the safety of and practicability for crew members. The safety of crew members shall always come first. As a minimum, crew members shall wear suitable gloves and avoid working near the mouths of sharks.
+
+2\. Training: Training materials are available to Member States in the three ICCAT official languages.
+
+3\. Method of release: To the greatest extent practicable, all sharks being released shall remain in the water at all times unless it is necessary to lift sharks for species identification. This includes cutting the line to free the shark while it is still in the water, using bolt cutters or dehooking devices to remove the hook if possible, or cutting the line as close to the hook as possible (leaving as little trailing line as possible).
+
+4\. Be prepared: Tools shall be prepared in advance (e.g. canvas or net slings, stretchers for carrying or lifting, large mesh net or grid to cover hatches or hoppers in purse seine fisheries and long handled cutters and de-hookers in longline fisheries, listed under Section E).
+
+**A. General recommendations for all fisheries**
+
+1\. If operationally safe to do so, stop the vessel or have its speed substantially reduced.
+
+2\. When the shark is entangled (in netting, fishing line, etc.), if safe to do so, carefully cut the net or line free from the shark and release it to the sea as quickly as possible with no entanglements attached.
+
+3\. Where feasible, and while keeping the shark in the water, try to measure the length of the shark.
+
+4\. To prevent bites, place an object, such as a fish or big stick or wooden pole, in the jaw.
+
+5\. If, for whatever reason, a shark must be brought on the deck, then minimise the time it takes to return it to the water to increase its chance of survival and reduce risks to the crew members.
+
+**B. Longline fisheries specific safe handling practices**
+
+1\. Bring the shark as close to the vessel as possible without putting too much tension on the branchline to avoid the possibility that a released hook or branchline break could shoot hook, weights and other parts toward the vessels and crew members at high speed.
+
+2\. Secure the far side of the longline mainline to the boat so that no gear remaining in the water pulls on the line and the shark.
+
+3\. If hooked, and the hook is visible in the body or mouth, use a dehooking device or long-handled bolt cutter to remove the hook barb, and then remove the hook.
+
+4\. If it is not possible to remove the hook or the hook cannot be seen, cut the line of the trace (or snood, leader) as close to the hook as possible (ideally leaving as little line and/or leader material as possible and no weights attached to the shark).
+
+**C. Purse seine fisheries specific safe handling practices**
+
+1\. If in purse seine: Scan the net as far ahead as possible to spot any sharks early so as to react quickly. Avoid lifting the sharks up in the net towards the power block. Reduce vessel speed to slacken the tension of the net and allow the entangled shark to be removed from the net. If necessary, use clippers to cut the net.
+
+2\. If in brail or on deck: Use a purpose-built large-mesh cargo net or canvas sling or similar device. If the vessel layout allows, the sharks could also be released by emptying the brail directly onto a hopper and release ramp held up at an angle that connects to an opening on the top deck railing, without need to be lifted or handled by the crew members.
+
+**D. Specific recommendations and safe handling practices for all fisheries**
+
+1\. To the greatest extent practicable, do not lift sharks from the water using the branchline, especially if hooked, unless it is necessary to lift sharks for species identification.
+
+2\. Do not lift sharks using thin wires or cables, or by the tail alone.
+
+3\. Do not strike a shark against any surface, for example to remove the animal from the line.
+
+4\. Do not attempt to dislodge any hook that is deeply ingested and not visible.
+
+5\. Do not try to remove a hook by pulling sharply on the branchline.
+
+6\. Do not cut the tail or any other body part.
+
+7\. Do not cut or punch holes in the shark.
+
+8\. Do not gaff or kick a shark, or insert hands into the gill slits.
+
+9\. Do not expose the shark to the sun for extended periods.
+
+10\. Do not wrap your fingers, hands or arms in the line when bringing a shark to the boat (could result in serious injury).
+
+**E. Useful tools for safe handling and release:**
+
+(a) gloves (shark skin is rough; ensures safe handling of shark and protects crew members’ hands from bites);
+
+(b) towel or cloth (a towel or cloth soaked in seawater can be placed on the eyes of the shark to calm shark down);
+
+(c) dehooking devices (e.g. pig tail dehooker, bolt or plier cutters);
+
+(d) shark harness or stretcher (if needed);
+
+(e) tail rope (to secure a hooked shark if it needs to be removed from the water);
+
+(f) saltwater hose (if anticipated that it may require more than 5 minutes to release a shark, then place a hose into its mouth so seawater flows into it at a moderate rate; make sure deck pump has been running several minutes before placing it in a sharks mouth);
+
+(g) measuring device or method (e.g. mark a pole, leader and float, or a measuring tape);
+
+(h) data sheet for recording all catch;
+
+(i) tagging gear (if applicable).
+
+## ANNEX X — Guidelines for reducing the ecological impact of FADs in ICCAT fisheries
+
+1\. The surface structure of the FAD shall not be covered or shall be, if covered, covered only with material implying minimum risk of entangling by-catch species.
+
+2\. The sub-surface components of the FAD shall be composed exclusively of non-entangling material (e.g. no ropes or canvas).
+
+3\. When designing FADs, the use of biodegradable materials shall be prioritised.
+
+( 1 ) Procedure number 2015/0289(COD), not yet published in the Official Journal.
+
+( 2 ) Procedure number 2015/0289(COD), not yet published in the Official Journal.
+
+( 3 ) Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008 (OJ L 347, 28.12.2017, p. 81).
+
+( 4 ) Procedure number 2015/0289(COD), not yet published in the Official Journal.
+
+( 5 ) Regulation (EU) 2017/1004 of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (OJ L 157, 20.6.2017, p. 1).
+
+( 6 ) Commission Implementing Decision (EU) 2016/1251 of 12 July 2016 adopting a multiannual Union programme for the collection, management and use of data in the fisheries and aquaculture sectors for the period 2017-2019 (OJ L 207, 1.8.2016, p. 113).
+
+( 7 ) Procedure number 2015/0289(COD), not yet published in the Official Journal.
+
+( 8 ) Procedure number 2015/0289(COD), not yet published in the Official Journal.
+
+( *1 ) Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007 (OJ L 315, 30.11.2017, p. 1).’.

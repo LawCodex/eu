@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **laying down detailed rules for the implementation of certain provisions of Directive 2004/109/EC on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2013/50/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2013 </td><td> L 294</td><td>13</td><td>6.11.2013</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2007/14/EC**
 

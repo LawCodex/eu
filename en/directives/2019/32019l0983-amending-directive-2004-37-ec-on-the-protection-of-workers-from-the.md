@@ -168,6 +168,7 @@ G. CIAMBA
 
 In point A of Annex III to Directive 2004/37/EC, the following rows are added:
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
@@ -177,6 +178,7 @@ In point A of Annex III to Directive 2004/37/EC, the following rows are added:
 <tr><td>Formaldehyde</td><td>200-001-8</td><td>50-00-0</td><td>0,37</td><td>0,3</td><td>—</td><td>0,74</td><td>0,6</td><td>—</td><td>dermal sensitisation (14)</td><td>Limit value of 0,62 mg/m3 or 0,5 ppm (3) for the health care, funeral and embalming sectors until 11 July 2024</td></tr>
 <tr><td>4,4′-Methylene-bis (2-chloroaniline)</td><td>202-918-9</td><td>101-14-4</td><td>0,01</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>skin (10)</td><td></td></tr>
 </tbody>
+</table>
 
 (11) Inhalable fraction.
 

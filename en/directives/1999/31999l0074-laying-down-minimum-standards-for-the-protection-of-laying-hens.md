@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **laying down minimum standards for the protection of laying hens**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL REGULATION (EC) No 806/2003 of 14 April 2003</td><td> L 122</td><td>1</td><td>16.5.2003</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/64/EU of 17 December 2013 </td><td> L 353</td><td>8</td><td>28.12.2013</td></tr>
 <tr><td></td><td> REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 </td><td> L 95</td><td>1</td><td>7.4.2017</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 1999/74/EC**
 

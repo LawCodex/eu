@@ -1,0 +1,165 @@
+---
+title: "Commission Regulation (EC) No 1585/1999 of 20 July 1999 on the sale by tender of beef held by certain intervention agencies"
+identifier: "31999R1585"
+eli: "http://data.europa.eu/eli/reg/1999/1585/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1999-07-20
+entry_into_force: 1999-12-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R1585"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1585/1999 of 20 July 1999 on the sale by tender of beef held by certain intervention agencies
+
+COMMISSION REGULATION (EC) No 1585/1999
+
+of 20 July 1999
+
+on the sale by tender of beef held by certain intervention agencies
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 1633/98(2), and in particular Article 7(3) thereof,
+
+(1) Whereas the application of intervention measures in respect of beef has created stocks in several Member States; whereas, in order to prevent an excessive prolongation of storage, part of these stocks should be sold by tender;
+
+(2) Whereas the sale should be made subject to the rules laid down by Commission Regulation (EEC) No 2173/79(3), as last amended by Regulation (EC) No 2417/95(4), subject to certain special exceptions which are necessary;
+
+(3) Whereas, with a view to ensuring a regular and uniform tendering procedure, measures should be taken in addition to those laid down in Article 8(1) of Regulation (EEC) No 2173/79;
+
+(4) Whereas provision should be made for derogations from Article 8(2)(b) of Regulation (EEC) No 2173/79, in view of the administration difficulties which application of this point creates in the Member States concerned;
+
+(5) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for beef and veal,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The sale shall take place of:
+
+- approximately 600 tonnes of bone-in hindquarters held by the German intervention agency,
+
+- approximately 600 tonnes of bone-in hindquarters held by the Spanish intervention agency,
+
+- approximately 600 tonnes of bone-in hindquarters held by the French intervention agency,
+
+- approximately 340 tonnes of bone-in hindquarters held by the Italian intervention agency,
+
+- approximately 600 tonnes of bone-in hindquarters held by the Dutch intervention agency,
+
+- approximately 40 tonnes of bone-in hindquarters held by the Austrian intervention agency, and stored in Germany,
+
+- approximately 6259 tonnes of boneless beef held by the United Kingdom intervention agency,
+
+- approximately 358 tonnes of boneless beef held by the Irish intervention agency,
+
+- approximately 630 tonnes of boneless beef held by the French intervention agency.
+
+Detailed information concerning quantities is given in Annex I.
+
+2\. Subject to the provisions of this Regulation the products referred to in paragraph 1 shall be sold in accordance with Regulation (EEC) No 2173/79, in particular Titles II and III thereof.
+
+## Article 2
+
+1\. Notwithstanding Articles 6 and 7 of Regulation (EEC) No 2173/79, the provisions of and Annexes to this Regulation shall serve as a general notice of invitations to tender.
+
+The intervention agencies concerned shall draw up a notice of invitation to tender which shall include the following:
+
+(a) the quantities of beef offered for sale; and
+
+(b) the deadline and place for submitting tenders.
+
+2\. Interested parties may obtain the details of the quantities available and the places where the products are stored from the addresses listed in Annex II to this Regulation. The intervention agencies shall, in addition, display the notice referred to in paragraph 1 at their head offices and may publish it in other ways.
+
+3\. For each product mentioned in Annex I the intervention agencies concerned shall sell first the meat which has been stored the longest.
+
+4\. Only tenders which reach the intervention agencies concerned by 12 noon on 26 July 1999 shall be considered.
+
+5\. Notwithstanding Article 8(1) of Regulation (EEC) No 2173/79, a tender must be submitted to the intervention agency concerned in a closed envelope, bearing the reference to the Regulation concerned. The closed envelope must not be opened by the intervention agency before the expiry of the tender deadline referred to in paragraph 4.
+
+6\. Notwithstanding Article 8(2)(b) of Regulation (EEC) No 2173/79, tenders shall not indicate in which cold store or stores the products are held.
+
+## Article 3
+
+1\. Member States shall provide the Commission with information concerning the tenders received not later than the working day following the deadline set for the submission of tenders.
+
+2\. After the tenders received have been examined a minimum selling price shall be set for each product or the sale will not proceed.
+
+## Article 4
+
+The security provided for in Article 15(1) of Regulation (EEC) No 2173/79 shall be EUR 120/t.
+
+## Article 5
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 20 July 1999.
+
+For the Commission
+
+Franz FISCHLER
+
+Member of the Commission
+
+(1) OJ L 148, 28.6.1968, p. 24.
+
+(2) OJ L 210, 28.7.1998, p. 17.
+
+(3) OJ L 251, 5.10.1979, p. 12.
+
+(4) OJ L 248, 14.10.1995, p. 39.
+
+ANEXO I/BILAG I/ANHANG I/ΠΑΡΑΡΤΗΜΑ I/ANNEX I/ANNEXE I/ALLEGATO I/BIJLAGE I/ANEXO I/LIITE I/BILAGA I
+
+>TABLE>
+
+ANEXO II/BILAG II/ANHANG II/ΠΑΡΑΡΤΗΜΑ II/ANNEX II/ANNEXE II/ALLEGATO II/BIJLAGE II/ANEXO II/LIITE II/BILAGA II
+
+Direcciones de los organismos de intervención/Interventionsorganernes adresser/Anschriften der Interventionsstellen/Διευθύνσεις των οργανισμών παρεμβάσεως/Addresses of the intervention agencies/Adresses des organismes d'intervention/Indirizzi degli organismi d'intervento/Adressen van de interventiebureaus/Endereços dos organismos de intervenção/Interventioelinten osoitteet/Interventionsorganens adresser
+
+BUNDESREPUBLIK DEUTSCHLAND
+
+Bundesanstalt für Landwirtschaft und Ernährung (BLE) Postfach 180203 , D - 60083 Frankfurt am Main Adickesallee 40 D - 60322 Frankfurt am Main Tel.: (49) 69 15 64-704/772 ; Telex: 411727 ; Telefax: (49) 69 15 64-790/791
+
+ESPAÑA
+
+FEGA (Fondo Español de Garantía Agraria) Beneficencia, 8 E - 28005 Madrid Teléfono: (34) 913 47 65 00, 913 47 63 10 ; télex: FEGA 23427 E, FEGA 41818 E ; fax: (34) 915 21 98 32, 915 22 43 87
+
+FRANCE
+
+OFIVAL 80, avenue des Terroirs-de-France F - 75607 Paris Cedex 12 Téléphone: (33 1) 44 68 50 00 ; télex: 215330 ; télécopieur: (33 1) 44 68 52 33
+
+ITALIA
+
+AIMA (Azienda di Stato per gli interventi nel mercato agricolo) Via Palestro 81 I - 00185 Roma Tel. 49 49 91 ; telex 61 30 03 ; telefax: 445 39 40/445 19 58
+
+IRELAND
+
+Department of Agriculture and Food Johnstown Castle Estate County Wexford Ireland Tel. (353 53) 634 00 Fax (353 53) 428 12
+
+NEDERLAND
+
+Ministerie van Landbouw, Natuurbeheer en Visserij
+
+p/a LASER, Zuidoost
+
+Slachthuisstraat 71 Postbus 965 6040 AZ Roermond Tel.: (31-475) 35 54 44 ; telex: 56396 VIBNL ; telefax: (31-475) 31 89 39.
+
+ÖSTERREICH
+
+AMA-Agrarmarkt Austria Dresdner Straße 70 A - 1201 Wien Tel.: (431) 33 15 12 20 ; Telefax: (431) 33 15 1297
+
+UNITED KINGDOM
+
+Intervention Board Executive Agency Kings House
+
+33 Kings Road
+
+Reading RG1 3BU Berkshire United Kingdom Tel. (01-189) 58 36 26 Fax (01-189) 56 67 50

@@ -1,0 +1,2484 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/980 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004 (Text with EEA relevance)"
+identifier: "32019R0980"
+eli: "http://data.europa.eu/eli/reg_del/2019/980/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-03-14
+entry_into_force: 2019-12-29
+last_amended: 2026-06-18
+consolidated_version: "02019R0980-20260618"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0980-20260618"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/980 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004 (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/980**
+
+**of 14 March 2019**
+
+**supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1273 of 4 June 2020 </td><td> L 300</td><td>6</td><td>14.9.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/773 of 4 March 2026 </td><td> L 773</td><td>1</td><td>15.6.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/980**
+
+**of 14 March 2019**
+
+**supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — DEFINITIONS
+
+#### Article 1 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘asset-backed securities’ means non-equity securities which either:
+
+(i) represent an interest in assets, including any rights intended to ensure the servicing of those assets, the receipt or the timely receipt by holders of those assets of the amounts payable under those assets;
+
+(ii) are secured by assets and the terms of the securities provide for payments calculated by reference to those assets;
+
+(b) ‘equivalent third country market’ means a third country market which has been deemed equivalent to a regulated market in accordance with the requirements set out in third and fourth subparagraphs of Article 25(4) of Directive 2014/65/EU of the European Parliament and of the Council ( 1 );
+
+(c) ‘profit estimate’ means a profit forecast for a financial period which has expired and for which results have not yet been published;
+
+(d) ‘profit forecast’ means a statement that expressly or by implication indicates a figure or a minimum or maximum figure for the likely level of profits or losses for current or future financial periods, or contains data from which a calculation of such a figure for future profits or losses can be made, even if no particular figure is mentioned and the word ‘profit’ is not used;
+
+(e) ‘significant gross change’ means a variation of more than 25 % to one or more indicators of the size of the issuer’s business.
+
+## CHAPTER II — CONTENT OF THE PROSPECTUS
+
+### SECTION 1 — Minimum information to be included in the registration documents
+
+#### Article 2 — Registration document for equity securities
+
+1\. For equity securities, the registration document shall contain the information referred to in Annex 1 to this Regulation, unless it is drawn up in accordance with Article 9 of Regulation (EU) 2017/1129.
+
+2\. By way of derogation from paragraph 1, the registration document for the following securities, where those securities are not shares or other transferrable securities equivalent to shares, may be drawn up in accordance with Article 7 of this Regulation for retail securities or Article 8 of this Regulation for wholesale securities:
+
+(a) the securities referred to in Articles 19(1) and 20(1) of this Regulation;
+
+(b) the securities referred to in Article 19(2) of this Regulation, where those securities are exchangeable for or convertible into shares that are or will be issued by an entity belonging to the issuer’s group and that are not admitted to trading on a regulated market;
+
+(c) the securities referred to in Article 20(2) of this Regulation, where those securities give the right to subscribe or acquire shares that are or will be issued by an entity belonging to the issuer’s group and that are not admitted to trading on a regulated market.
+
+3\. Paragraphs 1 and 2 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+#### Article 3 — Universal registration document
+
+A registration document that is drawn up in accordance with Article 9 of Regulation (EU) 2017/1129 shall contain the information referred to in Annex 2 to this Regulation.
+
+#### Article 5 — Registration document for units of closed-end collective investment undertakings
+
+For units issued by collective investment undertakings of the closed-end type, the registration document shall contain the information referred to in Annex 4.
+
+#### Article 6 — Registration document for depository receipts issued over shares
+
+For depository receipts issued over shares, the registration document shall contain the information referred to in Annex 5.
+
+#### Article 7 — Registration document for retail non-equity securities
+
+1\. For non-equity securities other than those referred to in Article 8(2) of this Regulation, the registration document shall contain the information referred to in Annex 6 to this Regulation, unless it is drawn up in accordance with Article 9 of Regulation (EU) 2017/1129 or contains the information referred to in Annex 1 to this Regulation.
+
+2\. Paragraph 1 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+#### Article 8 — Registration document for wholesale non-equity securities
+
+1\. For non-equity securities referred to in paragraph 2, the registration document shall contain the information referred to in Annex 7 to this Regulation, unless the registration document is drawn up in accordance with Article 9 of Regulation (EU) 2017/1129 or contains the information referred to in Annexes 1 or 6 to this Regulation.
+
+2\. The requirement referred to in paragraph 1 shall apply to non-equity securities that comply with one of the following conditions:
+
+(a) they are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities;
+
+(b) they have a denomination per unit of at least than EUR 100 000 or, where there is no individual denomination, can only be acquired on issue for at least EUR 100 000 per security.
+
+3\. Paragraphs 1 and 2 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+#### Article 10 — Registration document for asset-backed securities
+
+By way of derogation from Articles 7 and 8, a registration document that is drawn up for asset-backed securities, shall contain the information referred to in Annex 9.
+
+#### Article 11 — Registration document for non-equity securities issued by third countries and their regional and local authorities
+
+By way of derogation from Articles 7 and 8, a registration document that is drawn up for non-equity securities issued by third countries or their regional or local authorities, shall contain the information referred to in Annex 10.
+
+### SECTION 2 — Minimum information to be included in the securities notes
+
+#### Article 12 — Securities note for equity securities or units issued by collective investment undertakings of the closed-end type
+
+1\. For equity securities or units issued by collective investment undertakings of the closed-end type, the securities note shall contain the information referred to in Annex 11 to this Regulation.
+
+2\. By way of derogation from paragraph 1, the securities note for the securities referred to in paragraphs 1 and 2 of Article 19 and paragraphs 1 and 2 of Article 20 of this Regulation, where those securities are not shares or other transferrable securities equivalent to shares, shall be drawn up in accordance with Article 15 of this Regulation for retail securities or Article 16 of this Regulation for wholesale securities.
+
+3\. Paragraphs 1 and 2 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+#### Article 14 — Securities note for depository receipts issued over shares
+
+For depository receipts issued over shares, the securities note shall contain the information referred to in Annex 13.
+
+#### Article 15 — Securities note for retail non-equity securities
+
+1\. For non-equity securities other than those referred to in Article 8(2) of this Regulation, the securities note shall contain the information referred to in Annex 14 to this Regulation.
+
+2\. Paragraph 1 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+#### Article 16 — Securities note for wholesale non-equity securities
+
+1\. For non-equity securities referred to in Article 8(2) of this Regulation, the securities note shall contain the information referred to in Annex 15 to this Regulation, unless it contains the information referred to in Annex 14 to this Regulation.
+
+2\. Paragraph 1 shall not apply to a prospectus drawn up in accordance with Article 14a or Article 15a of Regulation (EU) 2017/1129.
+
+### SECTION 3 — Additional information to be included in the prospectus
+
+#### Article 18 — Complex financial history and significant financial commitment of issuers of equity securities
+
+1\. Where the issuer of an equity security has a complex financial history, or has made a significant financial commitment, additional information with respect to an entity other than the issuer shall be included in the prospectus, as referred to in paragraph 2.
+
+2\. With respect to an entity, other than the issuer, additional information shall be all information referred to in Annexes 1 and 20 to this Regulation that investors need to make an informed assessment referred to in Article 6(1), Article 14a(2) and Article 15a(2) of Regulation (EU) 2017/1129, as if that entity were the issuer of the equity security.
+
+3\. For the purposes of paragraph 1, an issuer shall be considered as having a complex financial history where all of the following conditions are fulfilled:
+
+(a) at the time of drawing up the prospectus, the information referred to in the relevant Annexes does not represent the issuer’s undertaking accurately;
+
+(b) the inaccuracy referred to in point (a) affects the ability of investors to make an informed assessment referred to in Article 6(1), Article 14a(2) and Article 15a(2) of Regulation (EU) 2017/1129;
+
+(c) additional information relating to an entity other than the issuer is needed for investors to make an informed assessment referred to in Article 6(1), Article 14a(2), and Article 15a(2) of Regulation (EU) 2017/1129.
+
+4\. For the purposes of paragraph 1, a significant financial commitment is a binding agreement to undertake a transaction that is likely to give rise to a variation of more than 25 % relative to one or more indicators of the size of the issuer’s business.
+
+#### Article 19 — Securities that are exchangeable for or convertible into shares
+
+1\. Where securities are exchangeable for or convertible into shares that are admitted to trading on a regulated market, the securities note shall contain as additional information the information referred to in item 2.2.2 of Annex 17.
+
+2\. Where securities are exchangeable for or convertible into shares that are or will be issued by the issuer or by an entity belonging to that issuer’s group and that are not admitted to trading on a regulated market, the securities note shall also contain the following additional information:
+
+(a) the information referred to in items 3.1 and 3.2 of Annex 11 in respect of that issuer or of that entity belonging to the issuer’s group;
+
+(b) the information referred to in Annex 18 in respect of the underlying share.
+
+3\. Where securities are exchangeable for or convertible into shares that are or will be issued by a third party issuer and that are not admitted to trading on a regulated market, the securities note shall contain as additional information the information referred to in Annex 18.
+
+#### Article 20 — Securities giving rise to payment or delivery obligations linked to an underlying asset
+
+1\. For securities other than those referred to in Article 19 that give the right to subscribe or to acquire shares that are or will be issued by the issuer or by an entity belonging to that issuer’s group and that are admitted to trading on a regulated market, the securities note shall contain as additional information the information referred to in Annex 17.
+
+2\. For securities other than those referred to in Article 19 that give the right to subscribe or acquire shares that are or will be issued by the issuer or by an entity belonging to that issuer’s group and that are not admitted to trading on a regulated market, the securities note shall also contain the following additional information:
+
+(a) the information referred to in Annex 17 except for the information referred to in item 2.2.2 of that Annex;
+
+(b) the information referred to in Annex 18 in respect of the underlying share.
+
+3\. For securities other than those referred to in Article 19 that are linked to an underlying other than shares referred to in paragraphs 1 and 2 of this Article, the securities note shall contain as additional information the information referred to in Annex 17.
+
+#### Article 21 — Asset backed securities
+
+For asset-backed securities, the securities notes shall also contain the additional information referred to in Annex 19.
+
+#### Article 22 — Guarantees
+
+For non-equity securities that include guarantees, the securities notes shall also contain the additional information referred to in Annex 21.
+
+#### Article 23 — Consent
+
+Where the issuer or the person responsible for drawing up a prospectus consents to its use as referred to in the second subparagraph of Article 5(1) of Regulation (EU) 2017/1129, the prospectus shall contain the following additional information:
+
+(a) the information referred to in items 1 and 2A of Annex 22 to this Regulation where the consent is provided to one or more specified financial intermediaries;
+
+(b) the information referred to in items 1 and 2B of Annex 22 to this Regulation where the consent is given to all financial intermediaries.
+
+## CHAPTER III — FORMAT OF THE PROSPECTUS
+
+#### Article 24 — Format of a prospectus
+
+1\. Where a prospectus is drawn up as a single document, it shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a summary, where required by Article 7 of Regulation (EU) 2017/1129;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) any other information referred to in the Annexes to this Regulation that is to be included in that prospectus.
+
+The issuer, offeror or person asking for admission to trading on a regulated market may decide the order in which the information referred to in the Annexes to this Regulation is set out in the prospectus.
+
+2\. Where a prospectus is drawn up as separate documents, the registration document and the securities note shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(c) any other information referred to in the Annexes to this Regulation that is to be included in that registration document or that securities note.
+
+The issuer, offeror or person asking for admission to trading on a regulated market may decide the order in which the information referred to in the Annexes to this Regulation is set out in the registration document and the securities note.
+
+3\. Where the registration document is drawn up in the form of a universal registration document, the issuer may include the risks factors referred to in point (b) of paragraph 2 amongst the information referred to in point (c) of that paragraph provided that those risk factors remain identifiable as a single section.
+
+4\. Where a universal registration document is used for the purposes of Article 9(12) of Regulation (EU) 2017/1129, the information referred to in that Article shall be presented in accordance with Commission Delegated Regulation (EU) 2019/815 ( 2 ).
+
+5\. Where the order of the information referred to in point (d) of paragraph 1 and in point (c) of paragraph 2 is different from the order in which that information is presented in the Annexes to this Regulation, competent authorities may request to provide a list of cross references indicating the items of those Annexes to which that information corresponds.
+
+The list of cross references referred to in the first subparagraph shall identify any items set out in the Annexes to this Regulation that have not been included in the draft prospectus due to the nature or type of issuer, securities, offer or admission to trading.
+
+6\. Where no list of cross-references is requested in accordance with paragraph 5 or is not voluntarily submitted by the issuer, offeror or person asking for admission to trading on a regulated market, it shall be indicated in the margin of the draft prospectus to which information in the draft prospectus the relevant information items set out in the Annexes to this Regulation correspond.
+
+#### Article 25 — Format of a base prospectus
+
+1\. A base prospectus drawn up as a single document shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a general description of the offering programme;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) any other information referred to in the Annexes to this Regulation that is to be included in the base prospectus.
+
+The issuer, offeror or person asking for admission to trading on a regulated market may decide the order in which the information referred to in the Annexes to this Regulation is set out in the base prospectus.
+
+2\. Where a base prospectus is drawn up as separate documents, the registration document and the securities note shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) in the securities note, a general description of the offering programme;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) any other information referred to in the Annexes to this Regulation that is to be included in the registration document and the securities note.
+
+The issuer, offeror or person asking for admission to trading on a regulated market may decide the order in which the information referred to in the Annexes to this Regulation is set out in the registration document and the securities note.
+
+3\. An issuer, offeror or person asking for admission to trading on a regulated market may compile in one single document two or more base prospectuses.
+
+4\. Where the registration document is drawn up in the form of a universal registration document, the issuer may include the risks factors referred to in point (c) of paragraph 2 amongst the information referred to in point (d) of that paragraph provided that those risk factors remain identifiable as a single section.
+
+5\. Where a universal registration document is used for the purposes of Article 9(12) of Regulation (EU) 2017/1129, the information referred to in that Article shall be presented in accordance with Commission Delegated Regulation (EU) 2019/815.
+
+6\. Where the order of the information referred to in point (d) of paragraphs 1 and 2 is different from the order in which that information is presented in the Annexes to this Regulation, competent authorities may request to provide a list of cross references indicating the items of those Annexes to which that information corresponds.
+
+The list of cross references referred to in the first subparagraph shall identify any items set out in the Annexes to this Regulation that have not been included in the draft base prospectus due to the nature or type of issuer, securities, offer or admission to trading.
+
+7\. Where no list of cross-references is requested in accordance with paragraph 6 or is not voluntarily submitted by the issuer, offeror or person asking for admission to trading on a regulated market, it shall be indicated in the margin of the draft base prospectus to which information in the draft base prospectus the relevant information items set out in the Annexes to this Regulation correspond.
+
+#### Article 26 — Information to be included in the base prospectus and the final terms
+
+1\. The information referred to as ‘Category A’ in Annexes 14 to 19, 22, 31, 33 and 35 to this Regulation shall be included in the base prospectus.
+
+2\. The information referred to as ‘Category B’ in Annexes 14 to 19, 22, 31, 33 and 35 to this Regulation shall be included in the base prospectus except for details of that information that are not known at the time of approval of that base prospectus. Such details shall be inserted in the final terms.
+
+3\. The information referred to as ‘Category C’ in Annexes 14 to 19, 22, 31, 33 and 35 to this Regulation shall be inserted in the final terms, unless it is known at the time of approval of the base prospectus, in which case it may be inserted in that base prospectus instead.
+
+4\. In addition to the information referred to in paragraphs 2 and 3 of this Article, the final terms may only contain the information referred to in Annex 28 to this Regulation. The form of the final terms referred to in Article 8(2)(a) of Regulation (EU) 2017/1129 shall indicate which of the information referred to in Annex 28 to this Regulation is to be determined in the final terms.
+
+4a. The information included in a European Green Bond factsheet referred to in Article 10 of Regulation (EU) 2023/2631 of the European Parliament and of the Council ( 3 ) and in the templates for voluntary pre-issuance disclosure referred to in Article 20 of that Regulation shall be considered ‘Category C’ information for the purposes of this Article.
+
+5\. The final terms shall not contradict the information included in the base prospectus.
+
+#### Article 27 — Prospectus summary
+
+1\. An overview section of a prospectus shall only use the term ‘summary’ if it complies with the requirements laid down in Article 7 of Regulation (EU) 2017/1129.
+
+2\. Where the summary of a prospectus is to be supplemented in accordance with Article 23 of Regulation (EU) 2017/1129, the new information shall be integrated in the summary of that prospectus in a way that enables investors to easily identify the changes. The new information shall be integrated in the summary of the prospectus either by producing a new summary or by supplementing the original summary.
+
+## CHAPTER IVa — EU FOLLOW-ON PROSPECTUS AND EU GROWTH ISSUANCE PROSPECTUS
+
+### SECTION 1 — Content of the EU Follow-on prospectus and of the EU Growth issuance prospectus
+
+#### Article 28a — EU Follow-on prospectus for equity securities
+
+1\. An EU Follow-on prospectus for equity securities drawn up in accordance with Article 14a of Regulation (EU) 2017/1129 shall contain the information referred to in Annex 30 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation.
+
+2\. By way of derogation from paragraph 1, an EU Follow-on prospectus for the securities referred to in Articles 19(1), 19(2), 20(1) and 20(2) of this Regulation, where those securities are not shares or other transferable securities equivalent to shares, shall be drawn up in accordance with Article 28c of this Regulation.
+
+#### Article 28b — EU Growth issuance prospectus for equity securities
+
+1\. An EU Growth issuance prospectus for equity securities drawn up in accordance with Article 15a of Regulation (EU) 2017/1129 shall contain the information referred to in Annex 34 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation.
+
+2\. By way of derogation from paragraph 1, an EU Growth issuance prospectus for the securities referred to in Articles 19(1), 19(2), 20(1) and 20(2) of this Regulation, where those securities are not shares or other transferrable securities equivalent to shares, shall be drawn up in accordance with Article 28d of this Regulation.
+
+#### Article 28c — EU Follow-on prospectus for non-equity securities
+
+1\. An EU Follow-on prospectus for non-equity securities drawn up in accordance with Article 14a of Regulation (EU) 2017/1129 shall contain the following information:
+
+(a) where an EU Follow-on prospectus for non-equity securities is drawn up as a single document referred to in Article 14a(4), third subparagraph, of Regulation (EU) 2017/1129, it shall contain the information referred to in Annex 31 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation;
+
+(b) where an EU Follow-on prospectus for non-equity securities is drawn up as separate documents referred to in Article 14a(4), third subparagraph, of Regulation (EU) 2017/1129, it shall divide the required information into:
+
+(i) a registration document for an EU Follow-on prospectus (‘EU Follow-on registration document’), which shall contain the information referred to in Annex 32 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation;
+
+(ii) a securities note for an EU Follow-on prospectus (‘EU Follow-on securities note’), which shall contain the information referred to in Annex 33 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation;
+
+(iii) a summary where required by Article 7(1) of Regulation (EU) 2017/1129, drawn up in accordance with Article 7(12a) of that Regulation.
+
+2\. The information contained in Annexes 31, 32 and 33 shall be referred to as either of the following:
+
+(a) wholesale-specific, where that information refers specifically to non-equity securities that comply with any of the conditions set out in Article 7(1), second subparagraph, points (a) or (b), of Regulation (EU) 2017/1129; or
+
+(b) retail-specific, where that information refers specifically to non-equity securities other than those referred to in point (a) of this paragraph.
+
+#### Article 28d — EU Growth issuance prospectus for non-equity securities
+
+An EU Growth issuance prospectus for non-equity securities that is drawn up in accordance with Article 15a of Regulation (EU) 2017/1129, shall contain the information referred to in Annex 35 to this Regulation and, where applicable, any additional information referred to in Section 3 of Chapter II of this Regulation.
+
+### SECTION 2 — Format of the EU Follow-on prospectus and of the EU Growth issuance prospectus
+
+#### Article 28e — Format of the EU Follow-on prospectus for equity securities
+
+For equity securities referred to in Article 28a(1) of this Regulation, an EU Follow-on prospectus shall be drawn up as a single document, in accordance with Article 14a(4), second subparagraph, of Regulation (EU) 2017/1129, and shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 30 to this Regulation based on the order of sections set out in that Annex;
+
+(e) where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Follow-on prospectus.
+
+#### Article 28f — Format of the EU Growth issuance prospectus for equity securities
+
+For equity securities referred to in Article 28b(1) of this Regulation, an EU Growth issuance prospectus shall be drawn up as a single document, in accordance with Article 15a(4) of Regulation (EU) 2017/1129, and shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 34 to this Regulation based on the order of sections set out in that Annex;
+
+(e) where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Growth issuance prospectus.
+
+#### Article 28g — Format of the EU Follow-on prospectus for non-equity securities
+
+1\. For non-equity securities referred to in Article 28c and for equity securities referred to in Article 28a(2) of this Regulation, an EU Follow-on prospectus may be drawn up either as a single document or as separate documents, in accordance with Article 14a(4), third subparagraph, of Regulation (EU) 2017/1129.
+
+2\. Where an EU Follow-on prospectus, referred to in paragraph 1, is drawn up as a single document, it shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a summary, where required by Article 7(1) of Regulation (EU) 2017/1129, drawn up in accordance with Article 7(12a) of that Regulation;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 31 to this Regulation;
+
+(e) where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Follow-on prospectus.
+
+Where an EU Follow-on prospectus referred to in the first subparagraph is based solely on Annex 31 to this Regulation, the order of its sections shall be the one set out in that Annex.
+
+3\. Where an EU Follow-on prospectus referred to in paragraph 1 is drawn up as separate documents, the EU Follow-on registration document and the EU Follow-on securities note shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(c) the other information referred to in Annexes 32 and 33 to this Regulation;
+
+(d) where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in that EU Follow-on registration document or that EU Follow-on securities note.
+
+Where an EU Follow-on registration document and an EU Follow-on securities note are based solely on Annexes 32 and 33 to this Regulation, the order of their sections shall be the one set out in those Annexes.
+
+#### Article 28h — Format of the EU Growth issuance prospectus for non-equity securities
+
+For non-equity securities referred to in Article 28d and for equity securities referred to in Article 28b(2) of this Regulation, an EU Growth issuance prospectus shall be drawn up as a single document, in accordance with Article 15a(4) of Regulation (EU) 2017/1129, and shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 35 to this Regulation;
+
+(e) where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Growth issuance prospectus.
+
+Where an EU Growth issuance prospectus referred to in the first subparagraph is based solely on Annex 35 to this Regulation, the order of its sections shall be the one set out in that Annex.
+
+#### Article 28i — Format of the EU Follow-on base prospectus
+
+1\. Where an EU Follow-on prospectus consists of a base prospectus and is drawn up as a single document, it shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a general description of the offering programme;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 31 and, where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Follow-on base prospectus.
+
+2\. Where an EU Follow-on prospectus consists of a base prospectus and is drawn up as separate documents, the EU Follow-on registration document and the EU Follow-on securities note shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) in the EU Follow-on securities note, a general description of the offering programme;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annexes 32 and 33 and, where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Follow-on registration document and the EU Follow-on securities note.
+
+Where an EU Follow-on base prospectus referred to in the first subparagraph concerns a single issuer, the order of the sections of the EU Follow-on registration document shall be the one set out in Annex 32 to this Regulation.
+
+3\. An issuer, offeror or person asking for admission to trading on a regulated market may compile in a single document two or more base prospectuses.
+
+4\. Article 26 of this Regulation shall also apply to an EU Follow-on base prospectus.
+
+#### Article 28j — Format of the EU Growth issuance base prospectus
+
+1\. Where an EU Growth issuance prospectus consists of a base prospectus, it shall be composed of the following elements set out in the following order:
+
+(a) a table of contents;
+
+(b) a general description of the offering programme;
+
+(c) the risk factors referred to in Article 16 of Regulation (EU) 2017/1129;
+
+(d) the other information referred to in Annex 35 and, where relevant, any additional information referred to in Section 3 of Chapter II of this Regulation that is to be included in the EU Growth issuance base prospectus.
+
+Where an EU Growth issuance base prospectus concerns a single issuer, the order of the information set out in sections 2 to 8 of Annex 35 to this Regulation shall be followed.
+
+2\. An issuer or offeror may compile in a single document two or more base prospectuses.
+
+3\. Article 26 of this Regulation shall also apply to an EU Growth issuance base prospectus.
+
+#### Article 28k — List of cross references
+
+1\. In an EU Follow-on prospectus for equity or non-equity securities, referred to in Articles 28e, 28g and 28i of this Regulation, where the requirement of a standardised format and sequence does not apply and the order of the information set out in the relevant Annexes is not followed by the issuer, offeror or person asking for admission to trading on a regulated market, competent authorities may request a list of cross references indicating the items of the relevant Annexes to which that information corresponds.
+
+2\. In an EU Growth issuance prospectus for equity or non-equity securities, referred to in Articles 28f, 28h and 28j of this Regulation, where the requirement of a standardised format and sequence does not apply and the order of the information set out in the relevant Annexes is not followed by the issuer or the offeror, competent authorities may request a list of cross references indicating the items of the relevant Annexes to which that information corresponds.
+
+3\. The list of cross references referred to in paragraphs 1 and 2 shall identify any items set out in the relevant Annexes that have not been included in the draft EU Follow-on prospectus or EU Growth issuance prospectus due to the nature or type of issuer, securities, offer or admission to trading.
+
+4\. Where no list of cross references is requested in accordance with paragraphs 1 and 2 or where no list is submitted by the issuer, offeror or, where applicable for an EU Follow-on prospectus, the person asking for admission to trading on a regulated market, it shall be indicated in the margin of the draft EU Follow-on prospectus or base prospectus, or of the draft EU Growth issuance prospectus or base prospectus, to which information in the draft prospectus or base prospectus the relevant items set out in the Annexes to this Regulation correspond.
+
+#### Article 28l — EU Follow-on prospectus and EU Growth issuance prospectus summary
+
+1\. An overview section of an EU Follow-on prospectus or of an EU Growth issuance prospectus shall only use the term ‘summary’ if it complies with the requirements laid down in Article 7(12a) of Regulation (EU) 2017/1129.
+
+2\. Where the summary of an EU Follow-on prospectus or of an EU Growth issuance prospectus is to be supplemented in accordance with Article 23 of Regulation (EU) 2017/1129, the new information shall be integrated in the summary of that EU Follow-on prospectus or of that EU Growth issuance prospectus in a way that enables investors to easily identify the changes.
+
+The new information referred to in the first subparagraph shall be integrated in the summary of the EU Follow-on prospectus or of the EU Growth issuance prospectus either by producing a new summary or by supplementing the original summary.
+
+## CHAPTER V — SCRUTINY AND APPROVAL OF THE PROSPECTUS AND REVIEW OF THE UNIVERSAL REGISTRATION DOCUMENT
+
+#### Article 35 — Scope of the scrutiny
+
+For the purposes of the scrutiny of the prospectus and the review of the universal registration document, references to the prospectus shall mean the prospectus or any of its constituent parts, including a universal registration document whether submitted for approval or filed without prior approval and any amendments thereto as well as supplements to the prospectus.
+
+#### Article 36 — Criteria for the scrutiny of the completeness of the information contained in the prospectus
+
+1\. For the purposes of scrutinising the completeness of the information in a draft prospectus, competent authorities shall consider all of the following:
+
+(a) whether the draft prospectus is drawn up in accordance with Regulation (EU) 2017/1129 and this Regulation, depending on the type of issuer, the type of issuance, the type of security and the type of offer or admission to trading;
+
+(b) whether the issuer has a complex financial history or has made a significant financial commitment, as referred to in Article 18.
+
+2\. For the purposes of point (b) of paragraph 1, competent authorities may require the issuer to include, modify or remove information from a draft prospectus, taking into account the following:
+
+(a) the type of securities;
+
+(b) the information already included in the prospectus and the existence and content of information already included in a prospectus of the entity other than the issuer, as well as the applicable accounting and auditing principles;
+
+(c) the economic nature of the transactions by which the issuer has acquired, or disposed of, its undertaking or any part of it, and the specific nature of that undertaking;
+
+(d) whether the issuer can obtain with reasonable effort information about the entity other than the issuer.
+
+#### Article 37 — Criteria for the scrutiny of the comprehensibility of the information contained in the prospectus
+
+1\. For the purposes of scrutinising the comprehensibility of the information in a draft prospectus, competent authorities shall consider all of the following:
+
+(a) whether the draft prospectus has a clear and detailed table of contents;
+
+(b) whether the draft prospectus is free from unnecessary reiterations;
+
+(c) whether related information is grouped together;
+
+(d) whether the draft prospectus uses an easily readable font size;
+
+(e) whether the draft prospectus has a structure that enables investors to understand its contents;
+
+(f) whether the draft prospectus defines the components of mathematical formulas and, where applicable, clearly describes the product structure;
+
+(g) whether the draft prospectus is written in plain language;
+
+(h) whether the draft prospectus clearly describes the nature of the issuer’s operations and its principal activities;
+
+(i) whether the draft prospectus explains trade or industry specific terminology.
+
+However, competent authorities shall not be required to consider points (g), (h) and (i) where a draft prospectus is to be used exclusively for the purposes of admission to trading on a regulated market of non-equity securities for which a summary is not required by Article 7 of Regulation (EU) 2017/1129.
+
+2\. For the purposes of the first paragraph, competent authorities may, on a case-by-case basis and in addition to the information referred to in Article 7 of Regulation (EU) 2017/1129 and Article 33 of this Regulation, require that certain information provided in the draft prospectus be included in the summary.
+
+#### Article 38 — Criteria for the scrutiny of the consistency of the information contained in the prospectus
+
+For the purposes of scrutinising the consistency of the information in a draft prospectus, the competent authority shall consider all of the following:
+
+(a) whether the draft prospectus is free of material discrepancies between the different pieces of information provided therein, including any information incorporated by reference;
+
+(b) whether any material and specific risks disclosed elsewhere in the draft prospectus are included in the risk factors section;
+
+(c) whether the information in the summary is in line with information elsewhere in the draft prospectus;
+
+(d) whether any figures on the use of proceeds correspond to the amount of proceeds being raised and whether the disclosed use of proceeds is in line with the disclosed strategy of the issuer;
+
+(e) whether the description of the issuer in the operating and financial review, the historical financial information, the description of the issuer’s activity and the description of the risk factors are consistent;
+
+(f) whether the working capital statement is in line with the risk factors, the auditor’s report, the use of proceeds and the disclosed strategy of the issuer and how that strategy will be funded.
+
+#### Article 39 — Scrutiny of the information contained in the prospectus of specialist issuers
+
+Competent authorities may require additional information to be included in the prospectus based on the activities of the specialist issuers falling under one of the categories set out in Annex 29.
+
+#### Article 40 — Additional criteria for the scrutiny of the completeness, consistency and comprehensibility of the information contained in the prospectus
+
+Where necessary for investor protection, the competent authority may apply criteria in addition to those laid down in Articles 36, 37 and 38 for the purposes of scrutinising the completeness, comprehensibility and consistency of the information in the draft prospectus.
+
+#### Article 41 — Proportionate approach in the scrutiny of draft prospectuses and review of the universal registration document
+
+1\. Where a first draft of a prospectus that is submitted to a competent authority is substantially similar to a prospectus that the same competent authority has already approved, and where that draft prospectus highlights all changes made to that approved prospectus, the competent authority shall only be required to apply the criteria laid down in Articles 36, 37 and 38 to scrutinise those changes and any other information affected by them.
+
+2\. For the purposes of scrutinizing a universal registration document filed without prior approval that has already been reviewed, or an amendment to such a document, competent authorities shall only be required to apply the criteria laid down in Article 36, 37 and 38 to those parts of the universal registration document or the amendment that have not been reviewed.
+
+3\. Where a first draft of a prospectus that incorporates information by reference to a document that has been approved in accordance with Regulation (EU) 2017/1129 or in accordance with the national provisions transposing Directive 2003/71/EC of the European Parliament and of the Council ( 4 ), competent authorities shall only be required to apply the criteria laid down in Article 38 of this Regulation to scrutinise that information.
+
+4\. When applying paragraphs 1, 2 or 3, competent authorities shall request the issuer, offeror or person asking for admission to trading on a regulated market to confirm that all information in the final draft of the prospectus or universal registration document is up-to-date and contains all the information referred to in the Annexes to this Regulation applicable to that prospectus or universal registration document.
+
+5\. Where subsequent drafts of the prospectus are submitted to the competent authority, that competent authority, when scrutinising such subsequent drafts, shall only be required to apply the criteria laid down in Articles 36, 37 and 38 to changes made to the preceding draft and to any other information affected by those changes.
+
+#### Article 42 — Submission of an application for approval of a draft prospectus or filing of a universal registration document or of amendments thereto
+
+1\. All drafts of a prospectus shall be submitted to the competent authority in searchable electronic format via electronic means.
+
+When submitting the first draft of the prospectus, the issuer, offeror or person asking for admission to trading on a regulated market shall provide the competent authority with a contact point for the competent authority to submit all notifications in writing and by electronic means.
+
+2\. The following information shall also be submitted to the competent authority in searchable electronic format via electronic means:
+
+(a) the list of cross references, where requested by the competent authority in accordance with Article 24(5) of this Regulation, or when submitted on own initiative;
+
+(b) where no list of cross reference is requested, a document that identifies any items set out in the Annexes to this Regulation that, due to the nature or type of issuer, securities, offer or admission to trading, have not been included in the draft prospectus;
+
+(c) any information that is incorporated into the prospectus by reference as referred to in Article 19 of Regulation (EU) 2017/1129, unless such information has already been approved by or filed with the same competent authority in searchable electronic format;
+
+(d) any reasoned request to the competent authority to authorise the omission of information from the prospectus as referred to in Article 18 of Regulation (EU) 2017/1129;
+
+(e) any request to the competent authority to make a notification as referred to in Article 25(1) of Regulation (EU) 2017/1129;
+
+(f) any request to the competent authority to make a notification as referred to in Article 26(2) of Regulation (EU) 2017/1129;
+
+(g) an appendix where required by Article 26(4) of Regulation (EU) 2017/1129, unless no summary is required pursuant to the second subparagraph of Article 7(1) of that Regulation;
+
+(h) a confirmation that, to the best of the knowledge of the issuer, all regulated information which was required to be disclosed under the national provisions transposing Directive 2004/109/EC of the European Parliament and of the Council ( 5 ), where applicable, and under Regulation (EU) No 596/2014 of the European Parliament and of the Council ( 6 ), has been filed and published in accordance with those acts over the last 18 months or over the period since the obligation to disclose that regulated information commenced, whichever is the shorter, where the issuer is submitting for approval a draft universal registration document or filing a universal registration document without prior approval and seeks to obtain the status of frequent issuer;
+
+(i) where a universal registration document is filed without prior approval, an explanation as to how a request for amendment or supplementary information as referred to in the second subparagraph of Article 9(9) of Regulation (EU) 2017/1129 has been taken into account in the universal registration document;
+
+(j) any other information requested by the competent authority for the purposes of the scrutiny and approval of the prospectus or the scrutiny, review and approval of the universal registration document.
+
+3\. Where a universal registration document that is filed without prior approval is annotated in the margin in accordance with Article 24(6), it shall be accompanied by an identical version without annotations in the margin.
+
+4\. Where a universal registration document is filed without prior approval or where a universal registration document is amended, the information referred to in points (a), (b), (c), (d), (h) and (i) of paragraph 2 shall be submitted at the time when the universal registration document is filed with the competent authority whilst the information referred to in point (j) of paragraph 2 shall be submitted during the review process. In all other cases, the information referred to in paragraph 2 shall be submitted together with the first draft of the prospectus submitted to the competent authority or during the scrutiny process.
+
+5\. Where a frequent issuer informs the competent authority that it intends to submit an application for approval of a draft prospectus in accordance with the second sentence of the first subparagraph of Article 20(6) of Regulation (EU) 2017/1129, that frequent issuer shall do so in writing and by electronic means.
+
+The information referred to in the first subparagraph shall indicate the Annexes to this Regulation relevant for that draft prospectus.
+
+#### Article 43 — Changes to a draft prospectus during the approval procedure
+
+1\. Each version of the draft prospectus submitted after the first draft prospectus shall highlight all changes made to the preceding draft and shall be accompanied by an unmarked draft. Competent authorities shall accept marked extracts of the preceding draft prospectus where only limited changes have been made.
+
+2\. Where competent authorities, in accordance with Article 45(2) of this Regulation, have notified the issuer, offeror or person asking for admission to trading on a regulated market that the draft prospectus does not meet the standards of completeness, comprehensibility and consistency as referred to in Article 20(4) of Regulation (EU) 2017/1129, the subsequently submitted draft of the prospectus shall be accompanied by an explanation as to how the outstanding issues notified by competent authorities have been addressed.
+
+3\. Where changes made to a draft prospectus are self-explanatory or clearly address the outstanding issues notified by the competent authority, an indication of where the changes have been made to address the outstanding issues shall be considered sufficient explanation for the purposes of paragraph 2.
+
+#### Article 44 — Submission for approval of the final draft of the prospectus
+
+1\. The final draft of the prospectus shall be submitted for approval together with all the information referred to in Article 42(2) that has changed compared to the previous submission, with the exception of the information referred to in points (a) and (h) of that Article. The final draft of the prospectus shall not be annotated in the margin.
+
+2\. Where no changes have been made to the information referred to in Article 42(2), the issuer, offeror or person asking for admission to trading on a regulated market shall confirm so in writing and by electronic means.
+
+#### Article 45 — Acknowledgment of the receipt of an application for approval of a draft prospectus, or of the filing of a universal registration document or of an amendment thereto, and processing of an application for approval of a draft prospectus
+
+1\. Competent authorities shall acknowledge receipt of the initial application for approval of a draft prospectus or of the filing of a universal registration document as referred to in the second subparagraph of Article 9(2) of Regulation (EU) 2017/1129, or of an amendment to that universal registration document in writing and by electronic means as soon as possible and no later than by close of business on the second working day following the receipt of the application or filing.
+
+Upon receipt of the initial application for approval of a draft prospectus and of the filing of a universal registration document, or of an amendment thereto, the competent authority shall inform the issuer, offeror or person asking for admission to trading on a regulated market of the following:
+
+(a) the reference number of the application or of the filing;
+
+(b) the contact point within the competent authority to which queries regarding the application or the filing may be addressed.
+
+2\. Where the draft prospectus does not meet the standards of completeness, comprehensibility and consistency necessary for its approval or where changes or supplementary information are needed, competent authorities shall inform the issuer, offeror or person asking for admission to trading on a regulated market thereof in writing and by electronic means.
+
+Where the universal registration document referred to in the second subparagraph of Article 9(2) of Regulation (EU) 2017/1129, or an amendment to that universal registration document, does not meet the standards of completeness, comprehensibility and consistency or where amendments or supplementary information are needed, competent authorities shall inform the issuer thereof in writing and by electronic means. Where the shortcoming must be addressed without undue delay, as required by the third subparagraph of Article 9(9) of Regulation (EU) 2017/1129, the competent authority shall inform the issuer thereof.
+
+3\. The competent authority shall notify the issuer, offeror or person asking for admission to trading on a regulated market about its decision regarding the approval of the draft prospectus in writing and by electronic means as soon as possible and by no later than by close of business of the day on which that decision is taken.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+#### Article 46 — Repeal
+
+Regulation (EC) No 809/2004 is repealed.
+
+#### Article 46a — Prospectuses approved between 21 July 2019 and 16 September 2020
+
+Prospectuses that have been approved between 21 July 2019 and 16 September 2020 shall continue to be valid until the end of their validity.
+
+#### Article 47 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 July 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## LIST OF ANNEXES
+
+**PART A**
+
+**REGISTRATION DOCUMENTS**
+
+| Annex 1: | Registration document for equity securities |
+| --- | --- |
+| Annex 2: | Universal registration document |
+| ————— |  |
+|  |  |
+| Annex 4: | Registration document for units of closed-end collective investment undertakings |
+| Annex 5: | Registration document for depository receipts issued over shares |
+| Annex 6: | Registration document for retail non-equity securities |
+| Annex 7: | Registration document for wholesale non-equity securities |
+| ————— |  |
+|  |  |
+| Annex 9: | Registration document for asset-backed securities |
+| Annex 10: | Registration documents for non-equity securities issued by third countries and their regional and local authorities |
+
+**PART B**
+
+**SECURITIES NOTES**
+
+| Annex 11: | Securities note for equity securities or units issued by collective investment undertakings of the closed-end type |
+| --- | --- |
+| ————— |  |
+|  |  |
+| Annex 13: | Securities note for depository receipts issued over shares |
+| Annex 14: | Securities note for retail non-equity securities |
+| Annex 15: | Securities note for wholesale non-equity securities |
+| ————— |  |
+|  |  |
+
+**PART C**
+
+**ADDITIONAL INFORMATION TO BE INCLUDED IN THE PROSPECTUS**
+
+Annex 17: Securities giving rise to payment or delivery obligations linked to an underlying asset
+
+Annex 18: Underlying share
+
+Annex 19: Asset-backed securities
+
+Annex 20: Pro forma information
+
+Annex 21: Guarantees
+
+Annex 22: Consent
+
+**PART E**
+
+**OTHER CATEGORIES OF INFORMATION**
+
+Annex 28: List of additional information in final terms
+
+Annex 29: List of specialist issuers
+
+**PART F**
+
+**EU FOLLOW-ON PROSPECTUS**
+
+Annex 30: EU Follow-on prospectus for equity securities
+
+Annex 31: EU Follow-on prospectus for non-equity securities
+
+Annex 32: EU Follow-on registration document for non-equity securities
+
+Annex 33: EU Follow-on securities note for non-equity securities
+
+**PART G**
+
+**EU GROWTH ISSUANCE PROSPECTUS**
+
+Annex 34: EU Growth issuance prospectus for equity securities
+
+Annex 35: EU Growth issuance prospectus for non-equity securities
+
+## ANNEX 1
+
+**REGISTRATION DOCUMENT FOR EQUITY SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the registration document with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the registration document that to the best of their knowledge, the information contained in the registration document is in accordance with the facts and that the registration document makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the registration document that, to the best of their knowledge, the information contained in those parts of the registration document for which they are responsible is in accordance with the facts and that those parts of the registration document make no omission likely to affect their import. </td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report attributed to a person as an expert, is included in the registration document, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the registration document with the consent of the person who has authorised the contents of that part of the registration document for the purpose of the prospectus. </td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) the [registration document/prospectus] has been approved by the [name of the competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [registration document/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus]. </td></tr>
+<tr><td>SECTION 2</td><td>STATUTORY AUDITORS</td></tr>
+<tr><td>Item 2.1</td><td>Names and addresses of the issuer’s auditors for the period covered by the historical financial information (together with their membership in a professional body).</td></tr>
+<tr><td>Item 2.2</td><td>If auditors have resigned, been removed or have not been re-appointed during the period covered by the historical financial information, indicate details if material.</td></tr>
+<tr><td>SECTION 3</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 3.1</td><td>A description of the material risks that are specific to the issuer, in a limited number of categories, in a section headed ‘Risk Factors’. In each category, the most material risks, in the assessment undertaken by the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the probability of their occurrence shall be set out first. The risks shall be corroborated by the content of the registration document. </td></tr>
+<tr><td>SECTION 4</td><td>INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 4.1</td><td>The legal and commercial name of the issuer.</td></tr>
+<tr><td>Item 4.2</td><td>The place of registration of the issuer, its registration number and legal entity identifier (‘LEI’).</td></tr>
+<tr><td>Item 4.3</td><td>The date of incorporation and the length of life of the issuer, except where the period is indefinite.</td></tr>
+<tr><td>Item 4.4</td><td>The domicile and legal form of the issuer, the legislation under which the issuer operates, its country of incorporation, the address, telephone number of its registered office (or principal place of business if different from its registered office) and website of the issuer, if any, with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the prospectus.</td></tr>
+<tr><td>SECTION 5</td><td>BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td>Principal activities</td></tr>
+<tr><td>Item 5.1.1</td><td>A description of, and key factors relating to, the nature of the issuer’s operations and its principal activities, stating the main categories of products sold and/or services performed for each financial year for the period covered by the historical financial information;</td></tr>
+<tr><td>Item 5.1.2</td><td>An indication of any significant new products and/or services that have been introduced and, to the extent the development of new products or services has been publicly disclosed, give the status of their development.</td></tr>
+<tr><td>Item 5.2</td><td>Principal markets A description of the principal markets in which the issuer competes, including a breakdown of total revenues by operating segment and geographic market for each financial year for the period covered by the historical financial information. </td></tr>
+<tr><td>Item 5.3</td><td>The important events in the development of the issuer’s business.</td></tr>
+<tr><td>Item 5.4</td><td>Strategy and objectives A description of the issuer’s business strategy and objectives, both financial and non-financial (if any). This description shall take into account the issuer’s future challenges and prospects. </td></tr>
+<tr><td>Item 5.5</td><td>If material to the issuer’s business or profitability, summary information regarding the extent to which the issuer is dependent, on patents or licences, industrial, commercial or financial contracts or new manufacturing processes.</td></tr>
+<tr><td>Item 5.6</td><td>The basis for any statements made by the issuer regarding its competitive position.</td></tr>
+<tr><td>Item 5.7</td><td>Investments</td></tr>
+<tr><td>Item 5.7.1</td><td>A description, (including the amount) of the issuer’s material investments for each financial year for the period covered by the historical financial information up to the date of the registration document.</td></tr>
+<tr><td>Item 5.7.2</td><td>A description of any material investments of the issuer that are in progress or for which firm commitments have already been made, including the geographic distribution of these investments (home and abroad) and the method of financing (internal or external).</td></tr>
+<tr><td>Item 5.7.3</td><td>Information relating to the joint ventures and undertakings in which the issuer holds a proportion of the capital likely to have a significant effect on the assessment of its own assets and liabilities, financial position or profits and losses.</td></tr>
+<tr><td>Item 5.7.4</td><td>A description of any environmental issues that may affect the issuer’s utilisation of the tangible fixed assets.</td></tr>
+<tr><td>SECTION 6</td><td>ORGANISATIONAL STRUCTURE</td></tr>
+<tr><td>Item 6.1</td><td>If the issuer is part of a group, a brief description of the group and the issuer’s position within the group. This may be in the form of, or accompanied by, a diagram of the organisational structure if this helps to clarify the structure.</td></tr>
+<tr><td>Item 6.2</td><td>A list of the issuer’s significant subsidiaries, including name, country of incorporation or residence, the proportion of ownership interest held and, if different, the proportion of voting power held.</td></tr>
+<tr><td>SECTION 7</td><td>OPERATING AND FINANCIAL REVIEW</td></tr>
+<tr><td>Item 7.1</td><td>Financial condition</td></tr>
+<tr><td>Item 7.1.1</td><td>To the extent not covered elsewhere in the registration document and to the extent necessary for an understanding of the issuer’s business as a whole, a fair review of the development and performance of the issuer’s business and of its position for each year and interim period for which historical financial information is required, including the causes of material changes. The review shall be a balanced and comprehensive analysis of the development and performance of the issuer’s business and of its position, consistent with the size and complexity of the business.  To the extent necessary for an understanding of the issuer’s development, performance or position, the analysis shall include both financial and, where appropriate, non-financial Key Performance Indicators relevant to the particular business. The analysis shall, where appropriate, include references to, and additional explanations of, amounts reported in the annual financial statements. </td></tr>
+<tr><td>Item 7.1.2</td><td>To the extent not covered elsewhere in the registration document and to the extent necessary for an understanding of the issuer’s business as a whole, the review shall also give an indication of: (a) the issuer’s likely future development;  (b) activities in the field of research and development.  The requirements set out in item 7.1 may be satisfied by the inclusion of the management report referred to in Articles 19 and 29 of Directive 2013/34/EU of the European Parliament and of the Council (1). </td></tr>
+<tr><td>Item 7.2</td><td>Operating results</td></tr>
+<tr><td>Item 7.2.1</td><td>Information regarding significant factors, including unusual or infrequent events or new developments, materially affecting the issuer’s income from operations and indicate the extent to which income was so affected.</td></tr>
+<tr><td>Item 7.2.2</td><td>Where the historical financial information discloses material changes in net sales or revenues, provide a narrative discussion of the reasons for such changes.</td></tr>
+<tr><td>SECTION 8</td><td>CAPITAL RESOURCES</td></tr>
+<tr><td>Item 8.1</td><td>Information concerning the issuer’s capital resources (both short term and long term).</td></tr>
+<tr><td>Item 8.2</td><td>An explanation of the sources and amounts of and a narrative description of the issuer’s cash flows.</td></tr>
+<tr><td>Item 8.3</td><td>Information on the borrowing requirements and funding structure of the issuer.</td></tr>
+<tr><td>Item 8.4</td><td>Information regarding any restrictions on the use of capital resources that have materially affected, or could materially affect, directly or indirectly, the issuer’s operations.</td></tr>
+<tr><td>Item 8.5</td><td>Information regarding the anticipated sources of funds needed to fulfil commitments referred to in item 5.7.2</td></tr>
+<tr><td>SECTION 9</td><td>REGULATORY ENVIRONMENT</td></tr>
+<tr><td>Item 9.1</td><td>A description of the regulatory environment that the issuer operates in and that may materially affect its business, together with information regarding any governmental, economic, fiscal, monetary or political policies or factors that have materially affected, or could materially affect, directly or indirectly, the issuer’s operations.</td></tr>
+<tr><td>SECTION 10</td><td>TREND INFORMATION</td></tr>
+<tr><td>Item 10.1</td><td>A description of: (a) the most significant recent trends in production, sales and inventory, and costs and selling prices since the end of the last financial year to the date of the registration document;  (b) any significant change in the financial performance of the group since the end of the last financial period for which financial information has been published to the date of the registration document, or provide an appropriate negative statement. </td></tr>
+<tr><td>Item 10.2</td><td>Information on any known trends, uncertainties, demands, commitments or events that are reasonably likely to have a material effect on the issuer’s prospects for at least the current financial year.</td></tr>
+<tr><td>SECTION 11</td><td>PROFIT FORECASTS OR ESTIMATES</td></tr>
+<tr><td>Item 11.1</td><td>Where an issuer has published a profit forecast or a profit estimate (which is still outstanding and valid) that forecast or estimate shall be included in the registration document. If a profit forecast or profit estimate has been published and is still outstanding, but no longer valid, then provide a statement to that effect and an explanation of why such forecast or estimate is no longer valid. Such an invalid forecast or estimate is not subject to the requirements in items 11.2 and 11.3.</td></tr>
+<tr><td>Item 11.2</td><td>Where an issuer chooses to include a new profit forecast or a new profit estimate, or a previously published profit forecast or a previously published profit estimate pursuant to item 11.1, the profit forecast or estimate shall be clear and unambiguous and contain a statement setting out the principal assumptions upon which the issuer has based its forecast, or estimate. The forecast or estimate shall comply with the following principles:  (a) there must be a clear distinction between assumptions about factors which the members of the administrative, management or supervisory bodies can influence and assumptions about factors which are exclusively outside the influence of the members of the administrative, management or supervisory bodies;  (b) the assumptions must be reasonable, readily understandable by investors, specific and precise and not relate to the general accuracy of the estimates underlying the forecast;  (c) in the case of a forecast, the assumptions shall draw the investor’s attention to those uncertain factors which could materially change the outcome of the forecast. </td></tr>
+<tr><td>Item 11.3</td><td>The prospectus shall include a statement that the profit forecast or estimate has been compiled and prepared on a basis which is both: (a) comparable with the historical financial information;  (b) consistent with the issuer’s accounting policies. </td></tr>
+<tr><td>SECTION 12</td><td>ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES AND SENIOR MANAGEMENT</td></tr>
+<tr><td>Item 12.1</td><td>Names, business addresses and functions within the issuer of the following persons and an indication of the principal activities performed by them outside of that issuer where these are significant with respect to that issuer: (a) members of the administrative, management or supervisory bodies;  (b) partners with unlimited liability, in the case of a limited partnership with a share capital;  (c) founders, if the issuer has been established for fewer than five years;  (d) any senior manager who is relevant to establishing that the issuer has the appropriate expertise and experience for the management of the issuer’s business.  Details of the nature of any family relationship between any of the persons referred to in points (a) to (d).  In the case of each member of the administrative, management or supervisory bodies of the issuer and of each person referred to in points (b) and (d) of the first subparagraph, details of that person’s relevant management expertise and experience and the following information:  (a) the names of all companies and partnerships where those persons have been a member of the administrative, management or supervisory bodies or partner at any time in the previous five years, indicating whether or not the individual is still a member of the administrative, management or supervisory bodies or partner. It is not necessary to list all the subsidiaries of an issuer of which the person is also a member of the administrative, management or supervisory bodies;  (b) details of any convictions in relation to fraudulent offences for at least the previous five years;  (c) details of any bankruptcies, receiverships, liquidations or companies put into administration in respect of those persons described in points (a) and (d) of the first subparagraph who acted in one or more of those capacities for at least the previous five years;  (d) details of any official public incrimination and/or sanctions involving such persons by statutory or regulatory authorities (including designated professional bodies) and whether they have ever been disqualified by a court from acting as a member of the administrative, management or supervisory bodies of an issuer or from acting in the management or conduct of the affairs of any issuer for at least the previous five years.  If there is no such information required to be disclosed, a statement to that effect is to be made. </td></tr>
+<tr><td>Item 12.2</td><td>Administrative, management and supervisory bodies and senior management conflicts of interests Potential conflicts of interests between any duties to the issuer, of the persons referred to in item 12.1, and their private interests and or other duties must be clearly stated. In the event that there are no such conflicts, a statement to that effect must be made.  Any arrangement or understanding with major shareholders, customers, suppliers or others, pursuant to which any person referred to in item 12.1 was selected as a member of the administrative, management or supervisory bodies or member of senior management.  Details of any restrictions agreed by the persons referred to in item 12.1 on the disposal within a certain period of time of their holdings in the issuer’s securities. </td></tr>
+<tr><td>SECTION 13</td><td>REMUNERATION AND BENEFITS</td></tr>
+<tr><td>  </td><td>In relation to the last full financial year for those persons referred to in points (a) and (d) of the first subparagraph of item 12.1:</td></tr>
+<tr><td>Item 13.1</td><td>The amount of remuneration paid (including any contingent or deferred compensation), and benefits in kind granted to such persons by the issuer and its subsidiaries for services in all capacities to the issuer and its subsidiaries by any person. That information must be provided on an individual basis unless individual disclosure is not required in the issuer’s home country and is not otherwise publicly disclosed by the issuer. </td></tr>
+<tr><td>Item 13.2</td><td>The total amounts set aside or accrued by the issuer or its subsidiaries to provide for pension, retirement or similar benefits.</td></tr>
+<tr><td>SECTION 14</td><td>BOARD PRACTICES</td></tr>
+<tr><td>  </td><td>In relation to the issuer’s last completed financial year, and unless otherwise specified, with respect to those persons referred to in point (a) of the first subparagraph of item 12.1.</td></tr>
+<tr><td>Item 14.1</td><td>Date of expiration of the current term of office, if applicable, and the period during which the person has served in that office.</td></tr>
+<tr><td>Item 14.2</td><td>Information about members of the administrative, management or supervisory bodies’ service contracts with the issuer or any of its subsidiaries providing for benefits upon termination of employment, or an appropriate statement to the effect that no such benefits exist.</td></tr>
+<tr><td>Item 14.3</td><td>Information about the issuer’s audit committee and remuneration committee, including the names of committee members and a summary of the terms of reference under which the committee operates.</td></tr>
+<tr><td>Item 14.4</td><td>A statement as to whether or not the issuer complies with the corporate governance regime(s) applicable to the issuer. In the event that the issuer does not comply with such a regime, a statement to that effect must be included together with an explanation regarding why the issuer does not comply with such regime.</td></tr>
+<tr><td>Item 14.5</td><td>Potential material impacts on the corporate governance, including future changes in the board and committees composition (in so far as this has been already decided by the board and/or shareholders meeting).</td></tr>
+<tr><td>SECTION 15</td><td>EMPLOYEES</td></tr>
+<tr><td>Item 15.1</td><td>Either the number of employees at the end of the period or the average for each financial year for the period covered by the historical financial information up to the date of the registration document (and changes in such numbers, if material) and, if possible and material, a breakdown of persons employed by main category of activity and geographic location. If the issuer employs a significant number of temporary employees, include disclosure of the number of temporary employees on average during the most recent financial year.</td></tr>
+<tr><td>Item 15.2</td><td>Shareholdings and stock options With respect to each person referred to in points (a) and (d) of the first subparagraph of item 12.1 provide information as to their share ownership and any options over such shares in the issuer as of the most recent practicable date. </td></tr>
+<tr><td>Item 15.3</td><td>Description of any arrangements for involving the employees in the capital of the issuer.</td></tr>
+<tr><td>SECTION 16</td><td>MAJOR SHAREHOLDERS</td></tr>
+<tr><td>Item 16.1</td><td>In so far as is known to the issuer, the name of any person other than a member of the administrative, management or supervisory bodies who, directly or indirectly, has an interest in the issuer’s capital or voting rights which is notifiable under the issuer’s national law, together with the amount of each such person’s interest, as at the date of the registration document or, if there are no such persons, an appropriate statement to that that effect that no such person exists.</td></tr>
+<tr><td>Item 16.2</td><td>Whether the issuer’s major shareholders have different voting rights, or an appropriate statement to the effect that no such voting rights exist.</td></tr>
+<tr><td>Item 16.3</td><td>To the extent known to the issuer, state whether the issuer is directly or indirectly owned or controlled and by whom and describe the nature of such control and describe the measures in place to ensure that such control is not abused.</td></tr>
+<tr><td>Item 16.4</td><td>A description of any arrangements, known to the issuer, the operation of which may at a subsequent date result in a change in control of the issuer.</td></tr>
+<tr><td>SECTION 17</td><td>RELATED PARTY TRANSACTIONS</td></tr>
+<tr><td>Item 17.1</td><td>Details of related party transactions (which for these purposes are those set out in the Standards adopted in accordance with the Regulation (EC) No 1606/2002 of the European Parliament and of the Council (2), that the issuer has entered into during the period covered by the historical financial information and up to the date of the registration document, must be disclosed in accordance with the respective standard adopted under Regulation (EC) No 1606/2002 if applicable. If such standards do not apply to the issuer the following information must be disclosed:  (a) the nature and extent of any transactions which are, as a single transaction or in their entirety, material to the issuer. Where such related party transactions are not concluded at arm’s length provide an explanation of why these transactions were not concluded at arm’s length. In the case of outstanding loans including guarantees of any kind indicate the amount outstanding;  (b) the amount or the percentage to which related party transactions form part of the turnover of the issuer. </td></tr>
+<tr><td>SECTION 18</td><td>FINANCIAL INFORMATION CONCERNING THE ISSUER’S ASSETS AND LIABILITIES, FINANCIAL POSITION AND PROFITS AND LOSSES</td></tr>
+<tr><td>Item 18.1</td><td>Historical financial information</td></tr>
+<tr><td>Item 18.1.1</td><td>Audited historical financial information covering the latest three financial years (or such shorter period as the issuer has been in operation) and the audit report in respect of each year.</td></tr>
+<tr><td>Item 18.1.2</td><td>Change of accounting reference date If the issuer has changed its accounting reference date during the period for which historical financial information is required, the audited historical information shall cover at least 36 months, or the entire period for which the issuer has been in operation, whichever is shorter. </td></tr>
+<tr><td>Item 18.1.3</td><td>Accounting standards The financial information must be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002.  If Regulation (EC) No 1606/2002 is not applicable, the financial information must be prepared in accordance with:  (a) a Member State’s national accounting standards for issuers from the EEA, as required by Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third country issuers. If such third country’s national accounting standards are not equivalent to Regulation (EC) No 1606/2002 the financial statements shall be restated in compliance with that Regulation. </td></tr>
+<tr><td>Item 18.1.4</td><td>Change of accounting framework The last audited historical financial information, containing comparative information for the previous year, must be presented and prepared in a form consistent with the accounting standards framework that will be adopted in the issuer’s next published annual financial statements having regard to accounting standards and policies and legislation applicable to such annual financial statements.  Changes within the accounting framework applicable to an issuer do not require the audited financial statements to be restated solely for the purposes of the prospectus. However, if the issuer intends to adopt a new accounting standards framework in its next published financial statements, at least one complete set of financial statements (as defined by IAS 1 Presentation of Financial Statements as set out in Regulation (EC) No 1606/2002), including comparatives, must be presented in a form consistent with that which will be adopted in the issuer’s next published annual financial statements, having regard to accounting standards and policies and legislation applicable to such annual financial statements. </td></tr>
+<tr><td>Item 18.1.5</td><td>Where the audited financial information is prepared according to national accounting standards, it must include at least the following: (a) the balance sheet;  (b) the income statement;  (c) a statement showing either all changes in equity or changes in equity other than those arising from capital transactions with owners and distributions to owners;  (d) the cash flow statement;  (e) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 18.1.6</td><td>Consolidated financial statements If the issuer prepares both stand-alone and consolidated financial statements, include at least the consolidated financial statements in the registration document. </td></tr>
+<tr><td>Item 18.1.7</td><td>Age of financial information The balance sheet date of the last year of audited financial information may not be older than one of the following:  (a) 18 months from the date of the registration document if the issuer includes audited interim financial statements in the registration document;  (b) 16 months from the date of the registration document if the issuer includes unaudited interim financial statements in the registration document. </td></tr>
+<tr><td>Item 18.2</td><td>Interim and other financial information</td></tr>
+<tr><td>Item 18.2.1</td><td>If the issuer has published quarterly or half-yearly financial information since the date of its last audited financial statements, these must be included in the registration document. If the quarterly or half-yearly financial information has been audited or reviewed, the audit or review report must also be included. If the quarterly or half-yearly financial information is not audited or has not been reviewed, state that fact. If the registration document is dated more than nine months after the date of the last audited financial statements, it must contain interim financial information, which may be unaudited (in which case that fact must be stated) covering at least the first six months of the financial year.  Interim financial information prepared in accordance with the requirements of Regulation (EC) No 1606/2002.  For issuers not subject to Regulation (EC) No 1606/2002, the interim financial information must include comparative statements for the same period in the prior financial year, except that the requirement for comparative balance sheet information may be satisfied by presenting the year’s end balance sheet in accordance with the applicable financial reporting framework. </td></tr>
+<tr><td>Item 18.3</td><td>Auditing of historical annual financial information</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 18.3.1</td><td>The historical annual financial information must be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC of the European Parliament and of the Council (5) and Regulation (EU) No 537/2014 of the European Parliament and of the Council (6). Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the historical annual financial information must be audited or reported on as to whether or not, for the purposes of the registration document, it gives a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 18.3.1a</td><td>Where audit reports on the historical financial information have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason must be given, and such qualifications, modifications, disclaimers or emphasis of matter must be reproduced in full.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 18.3.2</td><td>Indication of other information in the registration document that has been audited by the auditors.</td></tr>
+<tr><td>Item 18.3.3</td><td>Where financial information in the registration document is not extracted from the issuer’s audited financial statements state the source of the information and state that the information is not audited.</td></tr>
+<tr><td>Item 18.4</td><td>Pro forma financial information</td></tr>
+<tr><td>Item 18.4.1</td><td>In the case of a significant gross change, a description of how the transaction might have affected the assets, liabilities and earnings of the issuer, had the transaction been undertaken at the commencement of the period being reported on or at the date reported. This requirement will normally be satisfied by the inclusion of pro forma financial information. This pro forma financial information is to be presented as set out in Annex 20 and must include the information indicated therein.  Pro forma financial information must be accompanied by a report prepared by independent accountants or auditors. </td></tr>
+<tr><td>Item 18.5</td><td>Dividend policy</td></tr>
+<tr><td>Item 18.5.1</td><td>A description of the issuer’s policy on dividend distributions and any restrictions thereon. If the issuer has no such policy, include an appropriate negative statement.</td></tr>
+<tr><td>Item 18.5.2</td><td>The amount of the dividend per share for each financial year for the period covered by the historical financial information adjusted, where the number of shares in the issuer has changed, to make it comparable.</td></tr>
+<tr><td>Item 18.6</td><td>Legal and arbitration proceedings</td></tr>
+<tr><td>Item 18.6.1</td><td>Information on any governmental, legal or arbitration proceedings (including any such proceedings which are pending or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may have, or have had in the recent past significant effects on the issuer and/or group’s financial position or profitability, or provide an appropriate negative statement.</td></tr>
+<tr><td>Item 18.7</td><td>Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 18.7.1</td><td>A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published, or provide an appropriate negative statement.</td></tr>
+<tr><td>SECTION 19</td><td>ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 19.1</td><td>Share capital The information in items 19.1.1 to 19.1.7 in the historical financial information as of the date of the most recent balance sheet: </td></tr>
+<tr><td>Item 19.1.1</td><td>The amount of issued capital, and for each class of share capital: (a) the total of the issuer’s authorised share capital;  (b) the number of shares issued and fully paid and issued but not fully paid;  (c) the par value per share, or that the shares have no par value; and  (d) a reconciliation of the number of shares outstanding at the beginning and end of the year.  If more than 10 % of capital has been paid for with assets other than cash within the period covered by the historical financial information, state that fact. </td></tr>
+<tr><td>Item 19.1.2</td><td>If there are shares not representing capital, state the number and main characteristics of such shares.</td></tr>
+<tr><td>Item 19.1.3</td><td>The number, book value and face value of shares in the issuer held by or on behalf of the issuer itself or by subsidiaries of the issuer.</td></tr>
+<tr><td>Item 19.1.4</td><td>The amount of any convertible securities, exchangeable securities or securities with warrants, with an indication of the conditions governing and the procedures for conversion, exchange or subscription.</td></tr>
+<tr><td>Item 19.1.5</td><td>Information about and terms of any acquisition rights and or obligations over authorised but unissued capital or an undertaking to increase the capital.</td></tr>
+<tr><td>Item 19.1.6</td><td>Information about any capital of any member of the group which is under option or agreed conditionally or unconditionally to be put under option and details of such options including those persons to whom such options relate.</td></tr>
+<tr><td>Item 19.1.7</td><td>A history of share capital, highlighting information about any changes, for the period covered by the historical financial information.</td></tr>
+<tr><td>Item 19.2</td><td>Memorandum and Articles of Association</td></tr>
+<tr><td>Item 19.2.1</td><td>The register and the entry number therein, if applicable, and a brief description of the issuer’s objects and purposes and where they can be found in the up to date memorandum and articles of association.</td></tr>
+<tr><td>Item 19.2.2</td><td>Where there is more than one class of existing shares, a description of the rights, preferences and restrictions attaching to each class.</td></tr>
+<tr><td>Item 19.2.3</td><td>A brief description of any provision of the issuer’s articles of association, statutes, charter or bylaws that would have an effect of delaying, deferring or preventing a change in control of the issuer.</td></tr>
+<tr><td>SECTION 20</td><td>MATERIAL CONTRACTS</td></tr>
+<tr><td>Item 20.1</td><td>A summary of each material contract, other than contracts entered into in the ordinary course of business, to which the issuer or any member of the group is a party, for the two years immediately preceding publication of the registration document. A summary of any other contract (not being a contract entered into in the ordinary course of business) entered into by any member of the group which contains any provision under which any member of the group has any obligation or entitlement which is material to the group as at the date of the registration document. </td></tr>
+<tr><td>SECTION 21</td><td>DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 21.1</td><td>A statement that for the term of the registration document the following documents, where applicable, can be inspected: (a) the up to date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by any expert at the issuer’s request any part of which is included or referred to in the registration document.  An indication of the website on which the documents may be inspected. </td></tr>
+<tr><td colspan="2">(1)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).  (2)  Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).  (3)  Directive 2014/56/EU of the European Parliament and Council of 16 April 2014 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts (OJ L 158, 27.5.2014, p. 196).  (4)  Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EC (OJ L 158, 27.5.2014, p. 77).  (5)  Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).  (6)  Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EC (OJ L 158, 27.5.2014, p. 77). </td></tr>
+</tbody>
+</table>
+
+## ANNEX 2
+
+**UNIVERSAL REGISTRATION DOCUMENT**
+
+SECTION 1 INFORMATION TO BE DISCLOSED ABOUT THE ISSUER
+
+Item 1.1 The issuer shall disclose information in accordance with the disclosure requirements for the registration document for equity securities laid down in Annex 1.
+
+Item 1.2 When the universal registration document is approved, item 1.5 of Annex 1 shall be supplemented with a statement that the universal registration document may be used for the purposes of an offer to the public of securities or admission of securities to trading on a regulated market if completed by amendments, if applicable, and a securities note and summary approved in accordance with Regulation (EU) 2017/1129.
+
+When the universal registration document is filed and published without prior approval, item 1.5 of Annex 1 shall be replaced with a statement that:
+
+(a) the universal registration document has been filed with the [name of the competent authority] as competent authority under Regulation (EU) 2017/1129 without prior approval pursuant to Article 9 of Regulation (EU) 2017/1129;
+
+(b) the universal registration document may be used for the purposes of an offer to the public of securities or admission of securities to trading on a regulated market if approved by the [insert name of competent authority] together with any amendments, if applicable, and a securities note and summary approved in accordance with Regulation (EU) 2017/1129.
+
+## ANNEX 4
+
+**REGISTRATION DOCUMENT FOR UNITS OF CLOSED-END COLLECTIVE INVESTMENT UNDERTAKINGS**
+
+<table>
+<tbody><tr><td colspan="2"></td></tr>
+<tr><td>  </td><td>In addition to the information required in this Annex, a collective investment undertaking must provide the information required in sections/items 1, 2, 3, 4, 6, 7.1, 7.2.1, 8.4, 9 (although the description of the regulatory environment that the issuer operates in, need only relate to the regulatory environment relevant to the issuer’s investments), 11, 12, 13, 14, 15.2, 16, 17, 18 (except for pro forma financial information), 19, 20 and 21 of Annex 1 to this Regulation, or, where the collective investment undertaking meets the requirements of Article 14(1) of Regulation (EU) 2017/1129, the information required in sections/items 1, 2, 3, 4, 7, 8, 9, 10, 11 (except for pro forma financial information), 12, 13, 14 and 15 of Annex 3 to this Regulation. Where units are issued by a collective investment undertaking which is constituted as a common fund managed by a fund manager, the information referred to in sections/items 6, 12, 13, 14, 15.2, 16 and 20 of Annex 1 to this Regulation shall be disclosed in relation to the fund manager, while the information referred to in items 2, 4 and 18 of Annex 1 to this Regulation shall be disclosed in relation to both the fund and the fund manager. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>SECTION 1</td><td>INVESTMENT OBJECTIVE AND POLICY</td></tr>
+<tr><td>Item 1.1</td><td>(a) description of the investment policy, strategy and objectives of the collective investment undertaking; (b) information on where the underlying collective investment undertaking(s) is/are established if the collective investment undertaking is a fund comprising of funds;  (c) a description of the types of assets in which the collective investment undertaking may invest;  (d) the techniques it may employ and all associated risks together with the circumstances in which the collective investment undertaking may use leverage;  (e) the types and sources of leverage permitted and the associated risks;  (f) any restrictions on the use of leverage and any collateral and asset reuse arrangements;  (g) the maximum level of leverage which may be employed on behalf of the collective investment undertaking. </td></tr>
+<tr><td>Item 1.2</td><td>A description of the procedures by which the collective investment undertaking may change its investment strategy or investment policy, or both.</td></tr>
+<tr><td>Item 1.3</td><td>The leverage limits of the collective investment undertaking. If there are no such limits, include a statement to that effect.</td></tr>
+<tr><td>Item 1.4</td><td>The regulatory status of the collective investment undertaking together with the name of any regulator in its country of incorporation.</td></tr>
+<tr><td>Item 1.5</td><td>The profile of a typical investor for whom the collective investment undertaking is designed.</td></tr>
+<tr><td>Item 1.6</td><td>A statement confirming the following: (a) the [registration document/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [registration document/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus]. </td></tr>
+<tr><td>SECTION 2</td><td>INVESTMENT RESTRICTIONS</td></tr>
+<tr><td>Item 2.1</td><td>A statement of the investment restrictions which apply to the collective investment undertaking, if any, and an indication of how the holders of securities will be informed of the actions that the investment manager will take in the event of a breach.</td></tr>
+<tr><td>Item 2.2</td><td>Certain information is required to be disclosed, where more than 20 % of the gross assets of any collective investment undertaking (except where the registration document is being prepared for an entity as a result of the application of item 2.3 or 2.5) may be either: (a) invested in, either directly or indirectly, or loaned to any single underlying issuer (including the underlying issuer’s subsidiaries or affiliates);  (b) invested in one or more collective investment undertakings which may invest in excess of 20 % of its gross assets in other collective investment undertakings (open-end and/or closed-end type);  (c) exposed to the creditworthiness or solvency of any one counterparty (including its subsidiaries or affiliates);  The information, referred to in the introductory sentence, shall comprise the following in either of the following circumstances:  (i) where the underlying securities are not admitted to trading on a regulated or equivalent third country market or an SME Growth Market, information relating to each underlying issuer/collective investment undertaking/counterparty as if it were an issuer for the purposes of the minimum disclosure requirements for the registration document for equity securities (in the case of point (a)) or minimum disclosure requirements for the registration document for units issued by closed-end collective investment undertakings (in the case of point (b)) or the minimum disclosure requirements for the registration document for wholesale non-equity securities (in the case of point (c));  (ii) if the securities issued by the underlying issuer/collective investment undertaking/counterparty have already been admitted to trading on a regulated or equivalent third country market or an SME Growth Market, or the obligations are guaranteed by an entity admitted to trading on a regulated or equivalent market or an SME Growth Market, the name, address, country of incorporation, nature of business and name of the market in which its securities are admitted.  The disclosure requirement referred to in points (i) and (ii) shall not apply where the 20 % threshold is exceeded due to appreciations or depreciations, changes in exchange rates, or by reason of the receipt of rights, bonuses, benefits in the nature of capital or by reason of any other action affecting every holder of that investment, provided the investment manager has regard to the threshold when considering changes in the investment portfolio.  Where the collective investment undertaking can reasonably demonstrate to the competent authority that it is unable to access some or all of the information required under point (i), the collective investment undertaking must disclose all of the information that it is able to access, that it is aware of, and/or that it is able to ascertain from information published by the underlying issuer/collective investment undertaking/counterparty in order to satisfy as far as is practicable the requirements laid down in point (i). In this case, the prospectus must include a prominent warning that the collective investment undertaking has been unable to access specified items of information that would otherwise be required to be included in the prospectus and therefore a reduced level of disclosure has been provided in relation to a specified underlying issuer, collective investment undertaking or counterparty. </td></tr>
+<tr><td>Item 2.3</td><td>Where a collective investment undertaking invests in investments in excess of 20 % of its gross assets in other collective investment undertakings (open ended and/or closed ended), a description of the investment and how the risk is spread in relation to those investments shall be disclosed. In addition, item 2.2 shall apply, in addition to all underlying investments of the collective investment undertaking as if those investments had been made directly.</td></tr>
+<tr><td>Item 2.4</td><td>With reference to point (c) of item 2.2, if collateral is advanced to cover that portion of the exposure to any one counterparty in excess of 20 % of the gross assets of the collective investment undertaking, set out the details of such collateral arrangements.</td></tr>
+<tr><td>Item 2.5</td><td>Where a collective investment undertaking invests in investments in excess of 40 % of its gross assets in another collective investment undertaking, then one of the following must be disclosed: (a) information relating to each underlying collective investment undertaking as if it were an issuer under minimum disclosure requirements as set out in this Annex;  (b) if securities issued by an underlying collective investment undertaking have already been admitted to trading on a regulated or equivalent third country market or an SME Growth Market, or the obligations are guaranteed by an entity admitted to trading on a regulated or equivalent market or an SME Growth Market, then the name, address, country of incorporation, nature of business and name of the market in which its securities are admitted.  Where the collective investment undertaking can reasonably demonstrate to the competent authority that it is unable to access some or all of the information required under point (i), the collective investment undertaking must disclose all of the information that it is able to access, that it is aware of, and/or that it is able to ascertain from information published by the underlying issuer/collective investment undertaking/counterparty in order to satisfy as far as is practicable the requirements laid down in point (a). In this case, the prospectus must include a prominent warning that the collective investment undertaking has been unable to access specified items of information that would otherwise be required to be included in the prospectus and therefore a reduced level of disclosure has been provided in relation to a specified underlying issuer, collective investment undertaking or counterparty. </td></tr>
+<tr><td>Item 2.6</td><td>Physical commodities Where a collective investment undertaking invests directly in physical commodities a disclosure of that fact and the percentage of the gross assets that will be so invested. </td></tr>
+<tr><td>Item 2.7</td><td>Property collective investment undertakings Where a collective investment undertaking holds property as part of its investment objective, the percentage of the portfolio that is to be invested in property, the description of the property and any material costs relating to the acquisition and holding of such property shall be disclosed. In addition, a valuation report relating to the properties must be included.  The disclosure requirements set out in item 4.1 shall apply to:  (a) the entity producing the valuation report;  (b) any other entity responsible for the administration of the property. </td></tr>
+<tr><td>Item 2.8</td><td>Derivatives financial instruments/money market instruments/currencies Where a collective investment undertaking invests in derivatives, financial instruments, money market instruments or currencies other than for the purposes of efficient portfolio management namely solely for the purpose of reducing, transferring or eliminating investment risk in the underlying investments of a collective investment undertaking, including any technique or instrument used to provide protection against exchange and credit risks, a statement of whether those investments are used for hedging or for investment purposes, and a description of where and how risk is spread in relation to those investments. </td></tr>
+<tr><td>Item 2.9</td><td>Item 2.2 does not apply to investment in securities issued or guaranteed by a government, government agency or instrumentality of any Member State, its regional or local authorities, or of any OECD Member State.</td></tr>
+<tr><td>Item 2.10</td><td>Point (a) of item 2.2 does not apply to a collective investment undertaking whose investment objective is to track, without material modification, a broadly based and recognised published index. A statement setting out details of where information about the index can be obtained shall be included.</td></tr>
+<tr><td>SECTION 3</td><td>THE APPLICANT’S SERVICE PROVIDERS</td></tr>
+<tr><td>Item 3.1</td><td>The actual or estimated maximum amount of all material fees payable directly or indirectly by the collective investment undertaking for any services provided under arrangements entered into on or prior to the date of the registration document and a description of how these fees are calculated.</td></tr>
+<tr><td>Item 3.2</td><td>A description of any fee payable directly or indirectly by the collective investment undertaking which cannot be quantified under item 3.1 and which is or which may be material.</td></tr>
+<tr><td>Item 3.3</td><td>If any service provider to the collective investment undertaking is in receipt of any benefits from third parties (other than the collective investment undertaking) by virtue of providing any services to the collective investment undertaking, and those benefits may not accrue to the collective investment undertaking, a statement of that fact, the name of that third party, if available, and a description of the nature of the benefits shall be disclosed.</td></tr>
+<tr><td>Item 3.4</td><td>The identity of the service providers and a description of their duties and the investor’s rights.</td></tr>
+<tr><td>Item 3.5</td><td>A description of any material potential conflicts of interest which any of the service providers to the collective investment undertaking may have as between their duty to the collective investment undertaking and duties owed by them to third parties and their other interests. A description of any arrangements which are in place to address such potential conflicts.</td></tr>
+<tr><td>SECTION 4</td><td>INVESTMENT MANAGER/ADVISERS</td></tr>
+<tr><td>Item 4.1</td><td>In respect of any Investment Manager the information required to be disclosed under items 4.1 to 4.4 and, if material, under item 5.3 of Annex 1 together with a description of its regulatory status and experience.</td></tr>
+<tr><td>Item 4.2</td><td>In respect of any entity providing investment advice in relation to the assets of the collective investment undertaking, the name and a brief description of the entity.</td></tr>
+<tr><td>SECTION 5</td><td>CUSTODY</td></tr>
+<tr><td>Item 5.1</td><td>A full description of how the assets of the collective investment undertaking will be held and by whom and any fiduciary or similar relationship between the collective investment undertaking and any third party in relation to custody: Where a depositary, trustee, or other fiduciary is appointed, the following shall be provided:  (a) such information as is required to be disclosed under items 4.1 to 4.4 and, if material, under item 5.3 of Annex 1;  (b) a description of the obligations of each party under the custody or similar agreement;  (c) any delegated custody arrangements;  (d) the regulatory status of each party and their delegates. </td></tr>
+<tr><td>Item 5.2</td><td>Where any entity other than those entities referred to in item 5.1, holds any assets of the collective investment undertaking, a description of how these assets are held together with a description of any additional risks.</td></tr>
+<tr><td>SECTION 6</td><td>VALUATION</td></tr>
+<tr><td>Item 6.1</td><td>A description of the valuation procedure and of the pricing methodology for valuing assets.</td></tr>
+<tr><td>Item 6.2</td><td>Details of all circumstances in which valuations may be suspended and a statement of how such suspension will be communicated or made available to investors.</td></tr>
+<tr><td>SECTION 7</td><td>CROSS LIABILITIES</td></tr>
+<tr><td>Item 7.1</td><td>In the case of an umbrella collective investment undertaking, a statement of any cross liability that may occur between classes of investments in other collective investment undertakings and any action taken to limit such liability.</td></tr>
+<tr><td>SECTION 8</td><td>FINANCIAL INFORMATION</td></tr>
+<tr><td>Item 8.1</td><td>Where a collective investment undertaking has not commenced operations and no financial statements have been made up as at the date of the registration document, since the date of incorporation or establishment, a statement to that effect. Where a collective investment undertaking has commenced operations, the provisions of section 18 of Annex 1 or section 11 of Annex 3 shall apply as appropriate. </td></tr>
+<tr><td>Item 8.2</td><td>A comprehensive and meaningful analysis of the collective investment undertaking’s portfolio. Where the portfolio is not audited, this must be clearly marked as such.</td></tr>
+<tr><td>Item 8.3</td><td>An indication of the latest net asset value of the collective investment undertaking or the latest market price of the unit or share of the collective investment undertaking. Where the net asset value or the latest market price of the unit or share is not audited, this must be clearly marked as such.</td></tr>
+</tbody>
+</table>
+
+## ANNEX 5
+
+**REGISTRATION DOCUMENT FOR DEPOSITORY RECEIPTS ISSUED OVER SHARES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="3">INFORMATION ABOUT THE ISSUER OF THE UNDERLYING SHARES</td></tr>
+<tr><td>  </td><td colspan="3">For depository receipts issued over shares, the information about the issuer of the underlying share shall be provided in accordance with Annex 1 to this Regulation. For depository receipts issued over shares that meet the requirements of Article 14(1) of Regulation (EU) 2017/1129, the information about the issuer of the underlying share shall be provided in accordance with Annex 3 to this Regulation. </td></tr>
+<tr><td>SECTION 2</td><td>INFORMATION ABOUT THE ISSUER OF THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 2.1</td><td>Name, registered office, legal entity identifier (‘LEI’) and principal administrative establishment if different from the registered office.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.2</td><td>Date of incorporation and length of life of the issuer, except where the period is indefinite.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.3</td><td>Legislation under which the issuer operates and legal form which it has adopted under that legislation.</td><td>√</td><td>√</td></tr>
+</tbody>
+</table>
+
+## ANNEX 6
+
+**REGISTRATION DOCUMENT FOR RETAIL NON-EQUITY SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the registration document with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the registration document that to the best of their knowledge, the information contained in the registration document is in accordance with the facts and that the registration document makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the registration document that, to the best of their knowledge, the information contained in those parts of the registration document for which they are responsible is in accordance with the facts and that those parts of the registration document make no omission likely to affect their import. </td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report attributed to a person as an expert is included in the registration document, provide the following in relation to that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the registration document with the consent of the person who has authorised the contents of that part of the registration document for the purpose of the prospectus. </td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) the [registration document/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [registration document/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus]. </td></tr>
+<tr><td>SECTION 2</td><td>STATUTORY AUDITORS</td></tr>
+<tr><td>Item 2.1</td><td>Names and addresses of the issuer’s auditors for the period covered by the historical financial information (together with their membership in a professional body).</td></tr>
+<tr><td>Item 2.2</td><td>If auditors have resigned, been removed or have not been re-appointed during the period covered by the historical financial information, indicate details if material.</td></tr>
+<tr><td>SECTION 3</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 3.1</td><td>A description of the material risks that are specific to the issuer and that may affect the issuer’s ability to fulfil its obligations under the securities, in a limited number of categories, in a section headed ‘Risk Factors’. In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the probability of their occurrence, shall be set out first. The risk factors shall be corroborated by the content of the registration document. </td></tr>
+<tr><td>SECTION 4</td><td>INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 4.1</td><td>History and development of the issuer</td></tr>
+<tr><td>Item 4.1.1</td><td>The legal and commercial name of the issuer</td></tr>
+<tr><td>Item 4.1.2</td><td>The place of registration of the issuer, its registration number and legal entity identifier (‘LEI’).</td></tr>
+<tr><td>Item 4.1.3</td><td>The date of incorporation and the length of life of the issuer, except where the period is indefinite.</td></tr>
+<tr><td>Item 4.1.4</td><td>The domicile and legal form of the issuer, the legislation under which the issuer operates, its country of incorporation, the address, telephone number of its registered office (or principal place of business if different from its registered office) and website of the issuer, if any, with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the prospectus.</td></tr>
+<tr><td>Item 4.1.5</td><td>Details of any recent events particular to the issuer and which are to a material extent relevant to an evaluation of the issuer’s solvency.</td></tr>
+<tr><td>Item 4.1.6</td><td>Credit ratings assigned to an issuer at the request or with the cooperation of the issuer in the rating process. A brief explanation of the meaning of the ratings if this has previously been published by the rating provider.</td></tr>
+<tr><td>Item 4.1.7</td><td>Information on the material changes in the issuer’s borrowing and funding structure since the last financial year;</td></tr>
+<tr><td>Item 4.1.8</td><td>Description of the expected financing of the issuer’s activities</td></tr>
+<tr><td>SECTION 5</td><td>BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td>Principal activities</td></tr>
+<tr><td>Item 5.1.1</td><td>A description of the issuer’s principal activities, including: (a) the main categories of products sold and/or services performed;  (b) an indication of any significant new products or activities;  (c) the principal markets in which the issuer competes. </td></tr>
+<tr><td>Item 5.2</td><td>The basis for any statements made by the issuer regarding its competitive position.</td></tr>
+<tr><td>SECTION 6</td><td>ORGANISATIONAL STRUCTURE</td></tr>
+<tr><td>Item 6.1</td><td>If the issuer is part of a group, a brief description of the group and the issuer’s position within the group. This may be in the form of, or accompanied by, a diagram of the organisational structure if this helps to clarify the structure.</td></tr>
+<tr><td>Item 6.2</td><td>If the issuer is dependent upon other entities within the group, this must be clearly stated together with an explanation of this dependence.</td></tr>
+<tr><td>SECTION 7</td><td>TREND INFORMATION</td></tr>
+<tr><td>Item 7.1</td><td>A description of: (a) any material adverse change in the prospects of the issuer since the date of its last published audited financial statements;  (b) any significant change in the financial performance of the group since the end of the last financial period for which financial information has been published to the date of the registration document.  If neither of the above are applicable then the issuer shall include an appropriate statement to the effect that no such changes exist. </td></tr>
+<tr><td>Item 7.2</td><td>Information on any known trends, uncertainties, demands, commitments or events that are reasonably likely to have a material effect on the issuer’s prospects for at least the current financial year.</td></tr>
+<tr><td>SECTION 8</td><td>PROFIT FORECASTS OR ESTIMATES</td></tr>
+<tr><td>Item 8.1</td><td>Where an issuer includes on a voluntary basis a profit forecast or a profit estimate (which is still outstanding and valid), that forecast or estimate included in the registration document must contain the information set out in items 8.2 and 8.3. If a profit forecast or profit estimate has been published and is still outstanding, but no longer valid, then provide a statement to that effect and an explanation of why such profit forecast or estimate is no longer valid. Such an invalid forecast or estimate is not subject to the requirements in items 8.2 and 8.3.</td></tr>
+<tr><td>Item 8.2</td><td>Where an issuer chooses to include a new profit forecast or a new profit estimate, or where the issuer includes a previously published profit forecast or a previously published profit estimate pursuant to item 8.1, the profit forecast or estimate shall be clear and unambiguous and contain a statement setting out the principal assumptions upon which the issuer has based its forecast, or estimate. The forecast or estimate shall comply with the following principles:  (a) there must be a clear distinction between assumptions about factors which the members of the administrative, management or supervisory bodies can influence and assumptions about factors which are exclusively outside the influence of the members of the administrative, management or supervisory bodies;  (b) the assumptions must be reasonable, readily understandable by investors, specific and precise and not relate to the general accuracy of the estimates underlying the forecast; and  (c) In the case of a forecast, the assumptions shall draw the investor’s attention to those uncertain factors which could materially change the outcome of the forecast. </td></tr>
+<tr><td>Item 8.3</td><td>The prospectus shall include a statement that the profit forecast or estimate has been compiled and prepared on a basis which is both: (a) comparable with the historical financial information;  (b) consistent with the issuer’s accounting policies. </td></tr>
+<tr><td>SECTION 9</td><td>ADMINISTRATIVE, MANAGEMENT, AND SUPERVISORY BODIES</td></tr>
+<tr><td>Item 9.1</td><td>Names, business addresses and functions within the issuer of the following persons and an indication of the principal activities performed by them outside of that issuer where these are significant with respect to that issuer: (a) members of the administrative, management or supervisory bodies;  (b) partners with unlimited liability, in the case of a limited partnership with a share capital. </td></tr>
+<tr><td>Item 9.2</td><td>Administrative, management, and supervisory bodies’ conflicts of interests Potential conflicts of interests between any duties to the issuer, of the persons referred to in item 9.1, and their private interests and or other duties must be clearly stated. In the event that there are no such conflicts, a statement to that effect must be made. </td></tr>
+<tr><td>SECTION 10</td><td>MAJOR SHAREHOLDERS</td></tr>
+<tr><td>Item 10.1</td><td>To the extent known to the issuer, state whether the issuer is directly or indirectly owned or controlled and by whom and describe the nature of such control and describe the measures in place to ensure that such control is not abused.</td></tr>
+<tr><td>Item 10.2</td><td>A description of any arrangements, known to the issuer, the operation of which may at a subsequent date result in a change in control of the issuer.</td></tr>
+<tr><td>SECTION 11</td><td>FINANCIAL INFORMATION CONCERNING THE ISSUER’S ASSETS AND LIABILITIES, FINANCIAL POSITION AND PROFITS AND LOSSES</td></tr>
+<tr><td>Item 11.1</td><td>Historical financial information</td></tr>
+<tr><td>Item 11.1.1</td><td>Audited historical financial information covering the latest two financial years (or such shorter period as the issuer has been in operation) and the audit report in respect of each year.</td></tr>
+<tr><td>Item 11.1.2</td><td>Change of accounting reference date If the issuer has changed its accounting reference date during the period for which historical financial information is required, the audited historical financial information shall cover at least 24 months, or the entire period for which the issuer has been in operation, whichever is shorter. </td></tr>
+<tr><td>Item 11.1.3</td><td>Accounting Standards The financial information must be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002.  If Regulation (EC) No 1606/2002 is not applicable, the financial information must be prepared in accordance with either:  (a) a Member State’s national accounting standards for issuers from the EEA, as required by the Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third country issuers. If such third country’s national accounting standards are not equivalent to Regulation (EC) No 1606/2002, the financial statements shall be restated in compliance with that Regulation. </td></tr>
+<tr><td>Item 11.1.4</td><td>Change of accounting framework The last audited historical financial information, containing comparative information for the previous year, must be presented and prepared in a form consistent with the accounting standards framework that will be adopted in the issuer’s next published annual financial statements.  Changes within the issuer’s existing accounting framework do not require the audited financial statements to be restated. However, if the issuer intends to adopt a new accounting standards framework in its next published financial statements, the latest year of financial statements must be prepared and audited in line with the new framework. </td></tr>
+<tr><td>Item 11.1.5</td><td>Where the audited financial information is prepared according to national accounting standards, the financial information required under this heading must include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the cash flow statement;  (d) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 11.1.6</td><td>Consolidated financial statements If the issuer prepares both stand-alone and consolidated financial statements, include at least the consolidated financial statements in the registration document. </td></tr>
+<tr><td>Item 11.1.7</td><td>Age of financial information The balance sheet date of the last year of audited financial information statements may not be older than 18 months from the date of the registration document. </td></tr>
+<tr><td>Item 11.2</td><td>Interim and other financial information</td></tr>
+<tr><td>Item 11.2.1</td><td>If the issuer has published quarterly or half yearly financial information since the date of its last audited financial statements, these must be included in the registration document. If the quarterly or half yearly financial information has been reviewed or audited, the audit or review report must also be included. If the quarterly or half yearly financial information is not audited or has not been reviewed state that fact. If the registration document is dated more than nine months after the date of the last audited financial statements, it must contain interim financial information, which may be unaudited (in which case that fact must be stated) covering at least the first six months of the financial year.  Interim financial information prepared in accordance with either the requirements of the Directive 2013/34/EU or Regulation (EC) No 1606/2002 as the case may be.  For issuers not subject to either Directive 2013/34/EU or Regulation (EC) No 1606/2002, the interim financial information must include comparative statements for the same period in the prior financial year, except that the requirement for comparative balance sheet information may be satisfied by presenting the year’s end balance sheet. </td></tr>
+<tr><td>Item 11.3</td><td>Auditing of historical annual financial information</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.3.1</td><td>The historical annual financial information must be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014. Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the historical financial information must be audited or reported on as to whether or not, for the purposes of the registration document, it gives a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.3.1 a</td><td>Where audit reports on the historical financial information have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason must be given, and such qualifications, modifications, disclaimers or emphasis of matter must be reproduced in full.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.3.2</td><td>Indication of other information in the registration document which has been audited by the auditors.</td></tr>
+<tr><td>Item 11.3.3</td><td>Where financial information in the registration document is not extracted from the issuer’s audited financial statements state the source of the data and state that the data is not audited.</td></tr>
+<tr><td>Item 11.4</td><td>Legal and arbitration proceedings</td></tr>
+<tr><td>Item 11.4.1</td><td>Information on any governmental, legal or arbitration proceedings (including any such proceedings which are pending or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may have, or have had in the recent past significant effects on the issuer and/or group’s financial position or profitability, or provide an appropriate negative statement.</td></tr>
+<tr><td>Item 11.5</td><td>Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 11.5.1</td><td>A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial information or interim financial information have been published, or provide an appropriate negative statement.</td></tr>
+<tr><td>SECTION 12</td><td>ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 12.1</td><td>Share capital The amount of the issued capital, the number and classes of the shares of which it is composed with details of their principal characteristics, the part of the issued capital still to be paid up with an indication of the number, or total nominal value and the type of the shares not yet fully paid up, broken down where applicable according to the extent to which they have been paid up. </td></tr>
+<tr><td>Item 12.2</td><td>Memorandum and Articles of Association The register and the entry number therein, if applicable, and a description of the issuer’s objects and purposes and where they can be found in the memorandum and articles of association. </td></tr>
+<tr><td>SECTION 13</td><td>MATERIAL CONTRACTS</td></tr>
+<tr><td>Item 13.1</td><td>A brief summary of all material contracts that are not entered into in the ordinary course of the issuer’s business, which could result in any group member being under an obligation or an entitlement that is material to the issuer’s ability to meet its obligations to security holders in respect of the securities being issued.</td></tr>
+<tr><td>SECTION 14</td><td>DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 14.1</td><td>A statement that for the term of the registration document the following documents, where applicable, can be inspected: (a) the up to date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by any expert at the issuer’s request any part of which is included or referred to in the registration document.  An indication of the website on which the documents may be inspected. </td></tr>
+</tbody>
+</table>
+
+## ANNEX 7
+
+**REGISTRATION DOCUMENT FOR WHOLESALE NON-EQUITY SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the registration document with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the registration document that to the best of their knowledge, the information contained in the registration document is in accordance with the facts and that the registration document makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the registration document that, to the best of their knowledge, the information contained in those parts of the registration document for which they are responsible is in accordance with the facts and that those parts of the registration document make no omission likely to affect their import. </td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report attributed to a person as an expert is included in the registration document, provide the following information in relation to that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the registration document with the consent of the person who has authorised the contents of that part of the registration document for the purpose of the prospectus. </td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) the [registration document/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [registration document/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus]. </td></tr>
+<tr><td>SECTION 2</td><td>STATUTORY AUDITORS</td></tr>
+<tr><td>Item 2.1</td><td>Names and addresses of the issuer’s auditors for the period covered by the historical financial information (together with their membership in a professional body).</td></tr>
+<tr><td>Item 2.2</td><td>If auditors have resigned, been removed or have not been re-appointed during the period covered by the historical financial information, indicate details if material.</td></tr>
+<tr><td>SECTION 3</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 3.1</td><td>A description of the material risks that are specific to the issuer and that may affect the issuer’s ability to fulfil its obligations under the securities, in a limited number of categories, in a section headed ‘Risk Factors’. In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the probability of their occurrence, shall be set out first. The risk factors shall be corroborated by the content of the registration document. </td></tr>
+<tr><td>SECTION 4</td><td>INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 4.1</td><td>History and development of the Issuer</td></tr>
+<tr><td>Item 4.1.1</td><td>The legal and commercial name of the issuer</td></tr>
+<tr><td>Item 4.1.2</td><td>The place of registration of the issuer, its registration number and legal entity identifier (‘LEI’).</td></tr>
+<tr><td>Item 4.1.3</td><td>The date of incorporation and the length of life of the issuer, except where the period is indefinite.</td></tr>
+<tr><td>Item 4.1.4</td><td>The domicile and legal form of the issuer, the legislation under which the issuer operates, its country of incorporation, the address, telephone number of its registered office (or principal place of business if different from its registered office) and website of the issuer, if any, with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the prospectus.</td></tr>
+<tr><td>Item 4.1.5</td><td>Any recent events particular to the issuer and which are to a material extent relevant to an evaluation of the issuer’s solvency.</td></tr>
+<tr><td>Item 4.1.6</td><td>Credit ratings assigned to the issuer at the request or with the cooperation of the issuer in the rating process.</td></tr>
+<tr><td>SECTION 5</td><td>BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td>Principal activities</td></tr>
+<tr><td>Item 5.1.1</td><td>A brief description of the issuer’s principal activities stating the main categories of products sold and/or services performed.</td></tr>
+<tr><td>Item 5.1.2</td><td>The basis for any statements made by the issuer regarding its competitive position.</td></tr>
+<tr><td>SECTION 6</td><td>ORGANISATIONAL STRUCTURE</td></tr>
+<tr><td>Item 6.1</td><td>If the issuer is part of a group, a brief description of the group and the issuer’s position within the group. This may be in the form of, or accompanied by, a diagram of the organisational structure if this helps to clarify the structure.</td></tr>
+<tr><td>Item 6.2</td><td>If the issuer is dependent upon other entities within the group, this must be clearly stated together with an explanation of this dependence.</td></tr>
+<tr><td>SECTION 7</td><td>TREND INFORMATION</td></tr>
+<tr><td>Item 7.1</td><td>A description of: (a) any material adverse change in the prospects of the issuer since the date of its last published audited financial statements; and  (b) any significant change in the financial performance of the group since the end of the last financial period for which financial information has been published to the date of the registration document.  If neither of the above are applicable then the issuer should include (an) appropriate negative statement(s). </td></tr>
+<tr><td>SECTION 8</td><td>PROFIT FORECASTS OR ESTIMATES</td></tr>
+<tr><td>Item 8.1</td><td>Where an issuer includes on a voluntary basis a profit forecast or a profit estimate, that profit forecast or estimate shall be clear and unambiguous and contain a statement setting out the principal assumptions upon which the issuer has based its forecast or estimate. The forecast or estimate shall comply with the following principles:  (a) there must be a clear distinction between assumptions about factors which the members of the administrative, management or supervisory bodies can influence and assumptions about factors which are exclusively outside the influence of the members of the administrative, management or supervisory bodies;  (b) the assumptions must be reasonable, readily understandable by investors, specific and precise and not relate to the general accuracy of the estimates underlying the forecast.  (c) in the case of a forecast, the assumptions shall draw the investor’s attention to those uncertain factors which could materially change the outcome of the forecast. </td></tr>
+<tr><td>Item 8.2</td><td>The prospectus shall include a statement that the profit forecast or estimate has been compiled and prepared on a basis which is both: (a) comparable with the historical financial information;  (b) consistent with the issuer’s accounting policies. </td></tr>
+<tr><td>SECTION 9</td><td>ADMINISTRATIVE, MANAGEMENT, AND SUPERVISORY BODIES</td></tr>
+<tr><td>Item 9.1</td><td>Names, business addresses and functions within the issuer of the following persons and an indication of the principal activities performed by them outside of that issuer where these are significant with respect to that issuer: (a) members of the administrative, management or supervisory bodies;  (b) partners with unlimited liability, in the case of a limited partnership with a share capital. </td></tr>
+<tr><td>Item 9.2</td><td>Administrative, management, and supervisory bodies conflicts of interests Potential conflicts of interests between any duties to the issuer, of the persons referred to in item 9.1, and their private interests and or other duties must be clearly stated. In the event that there are no such conflicts, a statement to that effect must be made. </td></tr>
+<tr><td>SECTION 10</td><td>MAJOR SHAREHOLDERS</td></tr>
+<tr><td>Item 10.1</td><td>To the extent known to the issuer, state whether the issuer is directly or indirectly owned or controlled and by whom and describe the nature of such control and describe the measures in place to ensure that such control is not abused.</td></tr>
+<tr><td>Item 10.2</td><td>A description of any arrangements, known to the issuer, the operation of which may at a subsequent date result in a change in control of the issuer.</td></tr>
+<tr><td>SECTION 11</td><td>FINANCIAL INFORMATION CONCERNING THE ISSUER’S ASSETS AND LIABILITIES, FINANCIAL POSITION AND PROFITS AND LOSSES</td></tr>
+<tr><td>Item 11.1</td><td>Historical financial information</td></tr>
+<tr><td>Item 11.1.1</td><td>Historical financial information covering the latest two financial years (at least 24 months) or such shorter period as the issuer has been in operation and the audit report in respect of each year.</td></tr>
+<tr><td>Item 11.1.2</td><td>Change of accounting reference date If the issuer has changed its accounting reference date during the period for which historical financial information is required, the audited historical financial information shall cover at least 24 months, or the entire period for which the issuer has been in operation, whichever is shorter. </td></tr>
+<tr><td>Item 11.1.3</td><td>Accounting standards The financial information must be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002.  If Regulation (EC) No 1606/2002 is not applicable the financial statements must be prepared according to:  (a) a Member State’s national accounting standards for issuers from the EEA as required by Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third country issuers.  Otherwise the following information must be included in the registration document:  (a) a prominent statement that the financial information included in the registration document has not been prepared in accordance with International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002 and that there may be material differences in the financial information had Regulation (EC) No 1606/2002 been applied to the historical financial information;  (b) immediately following the historical financial information a narrative description of the differences between Regulation (EC) No 1606/2002 as adopted by the Union and the accounting principles adopted by the issuer in preparing its annual financial statements. </td></tr>
+<tr><td>Item 11.1.4</td><td>Where the audited financial information is prepared according to national accounting standards, the financial information must include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 11.1.5</td><td>Consolidated financial statements If the issuer prepares both stand-alone and consolidated financial statements, include at least the consolidated financial statements in the registration document. </td></tr>
+<tr><td>Item 11.1.6</td><td>Age of financial information The balance sheet date of the last year of audited financial information may not be older than 18 months from the date of the registration document </td></tr>
+<tr><td>Item 11.2</td><td>Auditing of Historical financial information</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.2.1</td><td>The historical annual financial information must be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014. Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the historical financial information must be audited or reported on as to whether or not, for the purposes of the registration document, it gives a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information must be included in the registration document:  (a) a prominent statement disclosing which auditing standards have been applied;  (b) an explanation of any significant departures from International Standards on Auditing. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.2.1a</td><td>Where audit reports on the historical financial information have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason must be given, and such qualifications, modifications, disclaimers or emphasis of matter must be reproduced in full.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 11.2.2</td><td>Indication of other information in the registration document which has been audited by the auditors.</td></tr>
+<tr><td>Item 11.2.3</td><td>Where financial information in the registration document is not extracted from the issuer’s audited financial statements state the source of the data and state that the data is not audited.</td></tr>
+<tr><td>Item 11.3</td><td>Legal and arbitration proceedings</td></tr>
+<tr><td>Item 11.3.1</td><td>Information on any governmental, legal or arbitration proceedings (including any such proceedings which are pending or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may have, or have had in the recent past significant effects on the issuer and/or group’s financial position or profitability, or provide an appropriate negative statement.</td></tr>
+<tr><td>Item 11.4</td><td>Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 11.4.1</td><td>A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial information or interim financial information have been published, or provide an appropriate negative statement.</td></tr>
+<tr><td>SECTION 12</td><td>MATERIAL CONTRACTS</td></tr>
+<tr><td>Item 12.1</td><td>A brief summary of all material contracts that are not entered into in the ordinary course of the issuer’s business, which could result in any group member being under an obligation or entitlement that is material to the issuer’s ability to meet its obligations to security holders in respect of the securities being issued.</td></tr>
+<tr><td>SECTION 13</td><td>DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 13.1</td><td>A statement that for the term of the registration document the following documents, where applicable, can be inspected: (a) the up to date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by any expert at the issuer’s request any part of which is included or referred to in the registration document.  An indication of the website on which the documents may be inspected. </td></tr>
+</tbody>
+</table>
+
+## ANNEX 9
+
+**REGISTRATION DOCUMENT FOR ASSET-BACKED SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the registration document with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the registration document that to the best of their knowledge, the information contained in the registration document is in accordance with the facts and that the registration document makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the registration document that, to the best of their knowledge, the information contained in those parts of the registration document for which they are responsible is in accordance with the facts and that those parts of the registration document make no omission likely to affect their import. </td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report attributed to a person as an expert is included in the registration document, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the registration document with the consent of the person who has authorised the contents of that part of the registration document for the purpose of the prospectus.. </td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading In addition, the issuer shall identify the source(s) of the information.</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) the [registration document/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [registration document/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus]. </td></tr>
+<tr><td>SECTION 2</td><td>STATUTORY AUDITORS</td></tr>
+<tr><td>Item 2.1</td><td>Names and addresses of the issuer’s auditors for the period covered by the historical financial information (together with any membership in a professional body).</td></tr>
+<tr><td>SECTION 3</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 3.1</td><td>A description of the material risks that are specific to the issuer in a limited number of categories, in a section headed ‘Risk Factors’. In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the probability of their occurrence, shall be set out first. The risk factors shall be corroborated by the content of the registration document. </td></tr>
+<tr><td>SECTION 4</td><td>INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 4.1</td><td>A statement whether the issuer has been established as a special purpose vehicle or entity for the purpose of issuing asset backed securities.</td></tr>
+<tr><td>Item 4.2</td><td>The legal and commercial name of the issuer and the legal entity identifier (‘LEI’).</td></tr>
+<tr><td>Item 4.3</td><td>The place of registration of the issuer and its registration number.</td></tr>
+<tr><td>Item 4.4</td><td>The date of incorporation and the length of life of the issuer, except where the period is indefinite.</td></tr>
+<tr><td>Item 4.5</td><td>The domicile and legal form of the issuer, the legislation under which the issuer operates, its country of incorporation, the address and telephone number of its registered office (or principal place of business if different from its registered office) and website of the issuer, if any, or website of a third party or guarantor, with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the prospectus.</td></tr>
+<tr><td>Item 4.6</td><td>Description of the amount of the issuer’s authorised and issued capital and the amount of any capital agreed to be issued, the number and classes of the securities of which it is composed.</td></tr>
+<tr><td>SECTION 5</td><td>BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td>A brief description of the issuer’s principal activities.</td></tr>
+<tr><td>SECTION 6</td><td>ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES</td></tr>
+<tr><td>Item 6.1</td><td>Names, business addresses and functions within the issuer of the following persons, and an indication of the principal activities performed by them outside of that issuer where these are significant with respect to that issuer: (a) members of the administrative, management or supervisory bodies;  (b) partners with unlimited liability, in the case of a limited partnership with a share capital. </td></tr>
+<tr><td>SECTION 7</td><td>MAJOR SHAREHOLDERS</td></tr>
+<tr><td>Item 7.1</td><td>To the extent known to the issuer, state whether the issuer is directly or indirectly owned or controlled and by whom, and describe the nature of such control and describe the measures in place to ensure that such control is not abused.</td></tr>
+<tr><td>SECTION 8</td><td>FINANCIAL INFORMATION CONCERNING THE ISSUER’S ASSETS AND LIABILITIES, FINANCIAL POSITION, AND PROFITS AND LOSSES</td></tr>
+<tr><td>Item 8.1</td><td>Where, since the date of incorporation or establishment, an issuer has not commenced operations and no financial statements have been drawn up as at the date of the registration document, a statement to that effect shall be provided in the registration document.</td></tr>
+<tr><td>Item 8.2</td><td>Historical Financial Information Where, since the date of incorporation or establishment, an issuer has commenced operations and financial statements have been drawn up, the registration document must contain audited historical financial information covering the latest two financial years (at least 24 months or such shorter period as the issuer has been in operation) and the audit report in respect of each year. </td></tr>
+<tr><td>Item 8.2.1</td><td>Change of accounting reference date If the issuer has changed its accounting reference date during the period for which historical financial information is required, the historical financial information shall cover at least 24 months, or the entire period for which the issuer has been in operation, whichever is the shorter. </td></tr>
+<tr><td>Item 8.2.2</td><td>Accounting standards The financial information must be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002.  If Regulation (EC) No 1606/2002 is not applicable the financial statements must be prepared in accordance with:  (a) a Member State’s national accounting standards for issuers from the EEA as required by Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third country issuers. If such third country’s national accounting standards are not equivalent to Regulation (EC) No 1606/2002 the financial statements shall be restated in compliance with Regulation (EC) No 1606/2002. </td></tr>
+<tr><td>Item 8.2.3</td><td>Change of accounting framework The last year’s historical financial information, containing comparative information for the previous year, must be presented and prepared in a form consistent with the accounting standards framework that will be adopted in the issuer’s next annual published financial statements having regard to accounting standards and policies and legislation applicable to such annual financial statements.  Changes within the issuer’s existing accounting framework do not require the audited financial statements to be restated. However, if the issuer intends to adopt a new accounting standards framework in its next published financial statements, at least one complete set of financial statements, (as defined by IAS 1 Presentation of Financial Statements), including comparatives, must be presented in a form consistent with that which will be adopted in the issuer’s next published annual financial statements, having regard to accounting standards and policies and legislation applicable to such annual financial statements. </td></tr>
+<tr><td>Item 8.2.4</td><td>Where the audited financial information is prepared according to national accounting standards, financial information required under this heading must include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 8.2.a</td><td>This paragraph (items 8.2.a, 8.2.a.1, 8.2.a.2 and 8.2.a.3) may be used only for issues of asset-backed securities having a denomination per unit of at least EUR 100 000 or which are to be traded only on a regulated market, and/or a specific section thereof, to which only qualified investors have access for the purpose of trading in the securities. Historical financial information  Where, since the date of incorporation or establishment, an issuer has commenced operations and financial statements have been drawn up, the registration document must contain historical financial information covering the latest two financial years (at least 24 month or such shorter period as the issuer has been in operation) and the audit report in respect of each year. </td></tr>
+<tr><td>Item 8.2.a.1</td><td>Accounting standards The financial information must be prepared according to International Financial Reporting Standards as adopted by the Union based on Regulation (EC) No 1606/2002.  If Regulation (EC) No 1606/2002 is not applicable, the financial statements must be prepared in accordance with:  (a) a Member State’s national accounting standards for issuers from the EEA as required by the Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third country issuers.  Otherwise the following information must be included in the registration document:  (a) a prominent statement that the financial information included in the registration document has not been prepared in accordance with Regulation (EC) No 1606/2002 as adopted by the Union and that there may be material differences in the financial information had Regulation (EC) No 1606/2002 been applied to the historical financial information;  (b) immediately following the historical financial information a narrative description of the differences between Regulation (EC) No 1606/2002 as adopted by the Union and the accounting principles adopted by the issuer in preparing its annual financial statements. </td></tr>
+<tr><td>Item 8.2.a.2</td><td>Where the audited financial information is prepared according to national accounting standards, it must include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the accounting policies and explanatory notes. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 8.2.a.3</td><td>Audit report The historical annual financial information must be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014.  Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the historical financial information must be audited or reported on as to whether or not, for the purposes of the registration document, it gives a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information must be included in the registration document:  (a) a prominent statement disclosing which auditing standards have been applied;  (b) an explanation of any significant departures from International Standards on Auditing. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 8.2.a.4</td><td>A statement that the historical financial information has been audited. Where audit reports on the historical financial information have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason must be given, and such qualifications, modifications, disclaimers or emphasis of matter must be reproduced in full.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Item 8.3</td><td>Legal and arbitration proceedings Information on any governmental, legal or arbitration proceedings (including any such proceedings which are pending or threatened of which the company is aware), during a period covering at least the previous 12 months, which may have, or have had in the recent past, significant effects on the issuer and/or group’s financial position or profitability, or provide an appropriate negative statement. </td></tr>
+<tr><td>Item 8.4</td><td>Material adverse change in the issuer’s financial position Where an issuer has prepared financial statements, include a statement that there has been no material adverse change in the financial position or prospects of the issuer since the date of its last published audited financial statements. Where a material adverse change has occurred, this must be disclosed in the registration document. </td></tr>
+<tr><td>SECTION 9</td><td>DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 9.1</td><td>A statement that for the term of the registration document the following documents, where applicable, may be inspected: (a) the memorandum and up to date articles of association of the issuer;  (b) all reports, letters, and other documents, historical financial information, valuations and statements prepared by any expert at the issuer’s request any part of which is included or referred to in the registration document.  An indication of the website on which the documents may be inspected. </td></tr>
+</tbody>
+</table>
+
+## ANNEX 10
+
+**REGISTRATION DOCUMENT FOR NON-EQUITY SCURITIES ISSUED BY THIRD COUNTRIES AND THEIR REGIONAL AND LOCAL AUTHORITIES**
+
+SECTION 1 PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL
+
+Item 1.1 Identify all persons responsible for the information or any parts of it, given in the registration document with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.
+
+Item 1.2 A declaration by those responsible for the registration document that to the best of their knowledge, the information contained in the registration document is in accordance with the facts and that the registration document makes no omission likely to affect its import.
+
+Where applicable, a declaration by those responsible for certain parts of the registration document that, to the best of their knowledge, the information contained in those parts of the registration document for which they are responsible is in accordance with the facts and that those parts of the registration document make no omission likely to affect their import.
+
+Item 1.3 Where a statement or report, attributed to a person as an expert, is included in the registration document, provide the following details for that person:
+
+(a) such person’s name;
+
+(b) business address;
+
+(c) qualifications;
+
+(d) material interest if any in the issuer.
+
+If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the registration document with the consent of the person who has authorised the contents of that part of the registration document for the purpose of the prospectus.
+
+To the extent known to the issuer, provide information in respect of any interest relating to such expert which may affect the independence of the expert in the preparation of the report.
+
+Item 1.4 A statement that:
+
+(a) the [registration document/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;
+
+(b) the [name of competent authority] only approves this [registration document/prospectus]as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;
+
+(c) such approval should not be considered as an endorsement of the issuer that is the subject of this [registration document/prospectus];
+
+SECTION 2 RISK FACTORS
+
+Item 2.1 A description of the material risks that are specific to the issuer in a limited number of categories, in a section headed ‘Risk Factors’.
+
+In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the probability of their occurrence, shall be set out first.
+
+The risk factors shall be corroborated by the content of the registration document.
+
+SECTION 3 INFORMATION ABOUT THE ISSUER
+
+Item 3.1 History and development of the issuer
+
+The legal name of the issuer and a brief description of the issuer’s position within the national governmental framework.
+
+Item 3.2 The domicile or geographical location and legal form of the issuer and its contact address, telephone number and website of the issuer, if any, with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the prospectus.
+
+Item 3.3 Any recent events relevant to the evaluation of the issuer’s solvency.
+
+Item 3.4 A description of the issuer’s economy including:
+
+(a) the structure of the economy with details of the main sectors of the economy;
+
+(b) gross domestic product with a breakdown by the issuer’s economic sectors for the previous two fiscal years.
+
+Item 3.5 A general description of the issuer’s political system and government including details of the governing body of the issuer.
+
+Item 3.6 Any credit ratings assigned to the issuer at the request or with the cooperation of the issuer in the rating process.
+
+SECTION 4 PUBLIC FINANCE AND TRADE
+
+Item 4.1 Information on the following for the two fiscal years prior to the date of the registration document:
+
+(a) the tax and budgetary systems;
+
+(b) gross public debt including a summary of the debt, the maturity structure of outstanding debt (particularly noting debt with a residual maturity of less than one year) and debt payment record, and of the parts of debt denominated in the domestic currency of the issuer and in foreign currencies;
+
+(c) foreign trade and balance of payment figures;
+
+(d) foreign exchange reserves including any potential encumbrances to such foreign exchange reserves as forward contracts or derivatives;
+
+(e) financial position and resources including liquid deposits available in domestic currency;
+
+(f) income and expenditure figures.
+
+Description of any auditing or independent review procedures on the accounts of the issuer.
+
+SECTION 5 SIGNIFICANT CHANGE
+
+Item 5.1 Details of any significant changes to the information provided pursuant to item 4 which have occurred since the end of the last fiscal year, or an appropriate negative statement.
+
+SECTION 6 LEGAL AND ARBITRATION PROCEEDINGS
+
+Item 6.1 Information on any governmental, legal or arbitration proceedings (including any such proceedings which are pending or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may have, or have had in the recent past, significant effects on the issuer’s financial position, or provide an appropriate negative statement.
+
+Item 6.2 Information on any immunity the issuer may have from legal proceedings.
+
+SECTION 7 DOCUMENTS AVAILABLE
+
+Item 7.1 A statement that for the term of the registration document the following documents, where applicable, can be inspected:
+
+(a) financial and audit reports for the issuer covering the last two fiscal years and the budget for the current fiscal year;
+
+(b) all reports, letters, and other documents, valuations and statements prepared by any expert at the issuer’s request any part of which is included or referred to in the registration document.
+
+An indication of the website on which the documents may be inspected.
+
+## ANNEX 11
+
+**SECURITIES NOTE FOR EQUITY SECURITIES OR UNITS ISSUED BY COLLECTIVE INVESTMENT UNDERTAKINGS OF THE CLOSED-END TYPE**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the securities note with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the securities note that to the best of their knowledge, the information contained in the securities note is in accordance with the facts and that the securities note makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the securities note that, to the best of their knowledge, the information contained in those parts of the securities note for which they are responsible is in accordance with the facts and that those parts of the securities note make no omission likely to affect their import. </td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report attributed to a person as an expert, is included in the securities note, provide the following in relation to that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest, if any, in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the securities note with the consent of the person who has authorised the contents of that part of the securities note for the purpose of the prospectus. </td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) this [securities note/prospectus] has been approved by the name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [securities note/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of [the quality of the securities that are the subject of this [securities note/prospectus];  (d) investors should make their own assessment as to the suitability of investing in the securities. </td></tr>
+<tr><td>SECTION 2</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td>A description of the material risks that are specific to the securities being offered and/or admitted to trading in a limited number of categories, in a section headed ‘Risk Factors’. In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the securities and the probability of their occurrence, shall be set out first. The risks shall be corroborated by the content of the securities note. </td></tr>
+<tr><td>SECTION 3</td><td>ESSENTIAL INFORMATION</td></tr>
+<tr><td>Item 3.1</td><td>Working capital statement Statement by the issuer that, in its opinion, the working capital is sufficient for the issuer’s present requirements or, if not, how it proposes to provide the additional working capital needed. </td></tr>
+<tr><td>Item 3.2</td><td>Capitalisation and indebtedness A statement of capitalisation and indebtedness (distinguishing between guaranteed and unguaranteed, secured and unsecured indebtedness) as of a date no earlier than 90 days prior to the date of the document. The term ‘indebtedness’ also includes indirect and contingent indebtedness.  In the case of material changes in the capitalisation and indebtedness position of the issuer within the 90 day period, additional information shall be given through the presentation of a narrative description of such changes or through the updating of those figures. </td></tr>
+<tr><td>Item 3.3</td><td>Interest of natural and legal persons involved in the issue/offer A description of any interest, including a conflict of interest that is material to the issue/offer, detailing the persons involved and the nature of the interest. </td></tr>
+<tr><td>Item 3.4</td><td>Reasons for the offer and use of proceeds Reasons for the offer and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses. If the issuer is aware that the anticipated proceeds will not be sufficient to fund all the proposed uses, then state the amount and sources of other funds needed. Details must be also given with regard to the use of the proceeds, in particular when they are being used to acquire assets, other than in the ordinary course of business, to finance announced acquisitions of other business, or to discharge, reduce or retire indebtedness. </td></tr>
+<tr><td>SECTION 4</td><td>INFORMATION CONCERNING THE SECURITIES TO BE OFFERED/ADMITTED TO TRADING</td></tr>
+<tr><td>Item 4.1</td><td>A description of the type and the class of the securities being offered and/or admitted to trading, including the international security identification number (‘ISIN’).</td></tr>
+<tr><td>Item 4.2</td><td>Legislation under which the securities have been created.</td></tr>
+<tr><td>Item 4.3</td><td>An indication whether the securities are in registered form or bearer form and whether the securities are in certificated form or book-entry form. In the latter case, name and address of the entity in charge of keeping the records.</td></tr>
+<tr><td>Item 4.4</td><td>Currency of the securities issue.</td></tr>
+<tr><td>Item 4.5</td><td>A description of the rights attached to the securities, including any limitations of those rights and procedure for the exercise of those rights: (a) dividend rights:  (i) fixed date(s) on which entitlement arises;  (ii) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;  (iii) dividend restrictions and procedures for non-resident holders;  (iv) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments;  (b) voting rights;  (c) pre-emption rights in offers for subscription of securities of the same class;  (d) right to share in the issuer’s profits;  (e) rights to share in any surplus in the event of liquidation;  (f) redemption provisions;  (g) conversion provisions. </td></tr>
+<tr><td>Item 4.6</td><td>In the case of new issues, a statement of the resolutions, authorisations and approvals by virtue of which the securities have been or will be created and/or issued.</td></tr>
+<tr><td>Item 4.7</td><td>In the case of new issues, the expected issue date of the securities.</td></tr>
+<tr><td>Item 4.8</td><td>A description of any restrictions on the transferability of the securities.</td></tr>
+<tr><td>Item 4.9</td><td>Statement on the existence of any national legislation on takeovers applicable to the issuer which may frustrate such takeovers if any. A brief description of the shareholders’ rights and obligations in case of mandatory takeover bids and/or squeeze-out or sell-out rules in relation to the securities. </td></tr>
+<tr><td>Item 4.10</td><td>An indication of public takeover bids by third parties in respect of the issuer’s equity, which have occurred during the last financial year and the current financial year. The price or exchange terms attaching to such offers and the outcome thereof must be stated.</td></tr>
+<tr><td>Item 4.11</td><td>A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities. Information on the taxation treatment of the securities where the proposed investment attracts a tax regime specific to that type of investment. </td></tr>
+<tr><td>Item 4.12</td><td>Where applicable, the potential impact on the investment in the event of resolution under Directive 2014/59/EU of the European Parliament and of the Council (1).</td></tr>
+<tr><td>Item 4.13</td><td>If different from the issuer, the identity and contact details of the offeror of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td></tr>
+<tr><td>SECTION 5</td><td>TERMS AND CONDITIONS OF THE OFFER OF SECURITIES TO THE PUBLIC</td></tr>
+<tr><td>Item 5.1</td><td>Conditions, offer statistics, expected timetable and action required to apply for the offer.</td></tr>
+<tr><td>Item 5.1.1</td><td>Conditions to which the offer is subject.</td></tr>
+<tr><td>Item 5.1.2</td><td>Total amount of the issue/offer, distinguishing the securities offered for sale and those offered for subscription; if the amount is not fixed, an indication of the maximum amount of securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. Where the maximum amount of securities cannot be provided in the prospectus, the prospectus shall specify that acceptances of the purchase or subscription of securities may be withdrawn for not less than two working days after the amount of securities to be offered to the public has been filed. </td></tr>
+<tr><td>Item 5.1.3</td><td>The time period, including any possible amendments, during which the offer will be open and description of the application process.</td></tr>
+<tr><td>Item 5.1.4</td><td>An indication of when, and under which circumstances, the offer may be revoked or suspended and whether revocation can occur after dealing has begun.</td></tr>
+<tr><td>Item 5.1.5</td><td>A description of any possibility to reduce subscriptions and the manner for refunding amounts paid in excess by applicants.</td></tr>
+<tr><td>Item 5.1.6</td><td>Details of the minimum and/or maximum amount of application (whether in number of securities or aggregate amount to invest).</td></tr>
+<tr><td>Item 5.1.7</td><td>An indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription.</td></tr>
+<tr><td>Item 5.1.8</td><td>Method and time limits for paying up the securities and for delivery of the securities.</td></tr>
+<tr><td>Item 5.1.9</td><td>A full description of the manner and date in which results of the offer are to be made public.</td></tr>
+<tr><td>Item 5.1.10</td><td>The procedure for the exercise of any right of pre-emption, the negotiability of subscription rights and the treatment of subscription rights not exercised.</td></tr>
+<tr><td>Item 5.2</td><td>Plan of distribution and allotment.</td></tr>
+<tr><td>Item 5.2.1</td><td>The various categories of potential investors to which the securities are offered. If the offer is being made simultaneously in the markets of two or more countries and if a tranche has been or is being reserved for certain of these, indicate any such tranche.</td></tr>
+<tr><td>Item 5.2.2</td><td>To the extent known to the issuer, an indication of whether major shareholders or members of the issuer’s management, supervisory or administrative bodies intend to subscribe in the offer, or whether any person intends to subscribe for more than five per cent of the offer.</td></tr>
+<tr><td>Item 5.2.3</td><td>Pre-allotment Disclosure: (a) the division into tranches of the offer including the institutional, retail and issuer’s employee tranches and any other tranches;  (b) the conditions under which the claw-back may be used, the maximum size of such claw-back and any applicable minimum percentages for individual tranches;  (c) the allotment method or methods to be used for the retail and issuer’s employee tranche in the event of an over-subscription of these tranches;  (d) a description of any pre-determined preferential treatment to be accorded to certain classes of investors or certain affinity groups (including friends and family programmes) in the allotment, the percentage of the offer reserved for such preferential treatment and the criteria for inclusion in such classes or groups;  (e) whether the treatment of subscriptions or bids to subscribe in the allotment may be determined on the basis of which firm they are made through or by;  (f) a target minimum individual allotment if any within the retail tranche;  (g) the conditions for the closing of the offer as well as the date on which the offer may be closed at the earliest;  (h) whether or not multiple subscriptions are admitted, and where they are not, how any multiple subscriptions will be handled. </td></tr>
+<tr><td>Item 5.2.4</td><td>Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td></tr>
+<tr><td>Item 5.3</td><td>Pricing</td></tr>
+<tr><td>Item 5.3.1</td><td>An indication of the price at which the securities will be offered and the amount of any expenses and taxes charged to the subscriber or purchaser. If the price is not known, then pursuant to Article 17 of Regulation (EU) 2017/1129 indicate either:  (a) the maximum price as far as it is available;  (b) the valuation methods and criteria, and/or conditions, in accordance with which the final offer price has been or will be determined and an explanation of any valuation methods used.  Where neither point (a) nor (b) can be provided in the securities note, the securities note shall specify that acceptances of the purchase or subscription of securities may be withdrawn up to two working days after the final offer price of securities to be offered to the public has been filed. </td></tr>
+<tr><td>Item 5.3.2</td><td>Process for the disclosure of the offer price.</td></tr>
+<tr><td>Item 5.3.3</td><td>If the issuer’s equity holders have pre-emptive purchase rights and this right is restricted or withdrawn, an indication of the basis for the issue price if the issue is for cash, together with the reasons for and beneficiaries of such restriction or withdrawal.</td></tr>
+<tr><td>Item 5.3.4</td><td>Where there is or could be a material disparity between the public offer price and the effective cash cost to members of the administrative, management or supervisory bodies or senior management, or affiliated persons, of securities acquired by them in transactions during the past year, or which they have the right to acquire, include a comparison of the public contribution in the proposed public offer and the effective cash contributions of such persons.</td></tr>
+<tr><td>Item 5.4</td><td>Placing and underwriting</td></tr>
+<tr><td>Item 5.4.1</td><td>Name and address of the coordinator(s) of the global offer and of single parts of the offer and, to the extent known to the issuer or to the offeror, of the placers in the various countries where the offer takes place.</td></tr>
+<tr><td>Item 5.4.2</td><td>Name and address of any paying agents and depository agents in each country.</td></tr>
+<tr><td>Item 5.4.3</td><td>Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under best ‘efforts’ arrangements. Indication of the material features of the agreements, including the quotas. Where not all of the issue is underwritten, a statement of the portion not covered. Indication of the overall amount of the underwriting commission and of the placing commission.</td></tr>
+<tr><td>Item 5.4.4</td><td>When the underwriting agreement has been or will be reached.</td></tr>
+<tr><td>SECTION 6</td><td>ADMISSION TO TRADING AND DEALING ARRANGEMENTS</td></tr>
+<tr><td>Item 6.1</td><td>An indication as to whether the securities offered are or will be the object of an application for admission to trading, with a view to their distribution in a regulated market or third country market, SME Growth Market or MTF with an indication of the markets in question. This circumstance must be set out, without creating the impression that the admission to trading will necessarily be approved. If known, the earliest dates on which the securities will be admitted to trading.</td></tr>
+<tr><td>Item 6.2</td><td>All the regulated markets, third country markets, SME Growth Market or MTFs on which, to the knowledge of the issuer, securities of the same class of the securities to be offered or admitted to trading are already admitted to trading.</td></tr>
+<tr><td>Item 6.3</td><td>If simultaneously or almost simultaneously with the application for the admission of the securities to a regulated market, securities of the same class are subscribed for or placed privately or if securities of other classes are created for public or private placing, give details of the nature of such operations and of the number, characteristics and price of the securities to which they relate.</td></tr>
+<tr><td>Item 6.4</td><td>In case of an admission to trading on a regulated market, details of the entities which have given a firm commitment to act as intermediaries in secondary trading, providing liquidity through bid and offer rates and a description of the main terms of their commitment.</td></tr>
+<tr><td>Item 6.5</td><td>Details of any stabilisation in line with items 6.5.1 to 6.6 in case of an admission to trading on a regulated market, third country market, SME Growth Market or MTF, where an issuer or a selling shareholder has granted an over-allotment option or it is otherwise proposed that price stabilising activities may be entered into in connection with an offer:</td></tr>
+<tr><td>Item 6.5.1</td><td>The fact that stabilisation may be undertaken, that there is no assurance that it will be undertaken and that it may be stopped at any time;</td></tr>
+<tr><td>Item 6.5.1.1</td><td>The fact that stabilisation transactions aim at supporting the market price of the securities during the stabilisation period;</td></tr>
+<tr><td>Item 6.5.2</td><td>The beginning and the end of the period during which stabilisation may occur;</td></tr>
+<tr><td>Item 6.5.3</td><td>The identity of the stabilisation manager for each relevant jurisdiction unless this is not known at the time of publication;</td></tr>
+<tr><td>Item 6.5.4</td><td>The fact that stabilisation transactions may result in a market price that is higher than would otherwise prevail;</td></tr>
+<tr><td>Item 6.5.5</td><td>The place where the stabilisation may be undertaken including, where relevant, the name of the trading venue(s).</td></tr>
+<tr><td>Item 6.6</td><td>Over-allotment and ‘green shoe’: In case of an admission to trading on a regulated market, SME Growth Market or an MTF:  (a) the existence and size of any over-allotment facility and/or ‘green shoe’;  (b) the existence period of the over-allotment facility and/or ‘green shoe’;  (c) any conditions for the use of the over-allotment facility or exercise of the ‘green shoe’. </td></tr>
+<tr><td>SECTION 7</td><td>SELLING SECURITIES HOLDERS</td></tr>
+<tr><td>Item 7.1</td><td>Name and business address of the person or entity offering to sell the securities, the nature of any position office or other material relationship that the selling persons has had within the past three years with the issuer or any of its predecessors or affiliates.</td></tr>
+<tr><td>Item 7.2</td><td>The number and class of securities being offered by each of the selling security holders.</td></tr>
+<tr><td>Item 7.3</td><td>Where a major shareholder is selling the securities, the size of its shareholding both before and immediately after the issuance.</td></tr>
+<tr><td>Item 7.4</td><td>In relation to lock-up agreements, provide details of the following: (a) the parties involved;  (b) the content and exceptions of the agreement;  (c) an indication of the period of the lock up. </td></tr>
+<tr><td>SECTION 8</td><td>EXPENSE OF THE ISSUE/OFFER</td></tr>
+<tr><td>Item 8.1</td><td>The total net proceeds and an estimate of the total expenses of the issue/offer.</td></tr>
+<tr><td>SECTION 9</td><td>DILUTION</td></tr>
+<tr><td>Item 9.1</td><td>A comparison of: (a) participation in share capital and voting rights for existing shareholders before and after the capital increase resulting from the public offer, with the assumption that existing shareholders do not subscribe for the new shares;  (b) the net asset value per share as of the date of the latest balance sheet before the public offer (selling offer and/or capital increase) and the offering price per share within that public offer. </td></tr>
+<tr><td>Item 9.2</td><td>Where existing shareholders will be diluted regardless of whether they subscribe for their entitlement, because a part of the relevant share issue is reserved only for certain investors (e.g. an institutional placing coupled with an offer to shareholders), an indication of the dilution existing shareholders will experience shall also be presented on the basis that they do take up their entitlement (in addition to the situation in item 9.1 where they do not).</td></tr>
+<tr><td>SECTION 10</td><td>ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 10.1</td><td>If advisors connected with an issue are referred to in the Securities Note, a statement of the capacity in which the advisors have acted.</td></tr>
+<tr><td>Item 10.2</td><td>An indication of other information in the securities note which has been audited or reviewed by statutory auditors and where auditors have produced a report. Reproduction of the report or, with permission of the competent authority, a summary of the report.</td></tr>
+<tr><td colspan="2">(1)  Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190). </td></tr>
+</tbody>
+</table>
+
+## ANNEX 13
+
+**SECURITIES NOTE FOR DEPOSITORY RECEIPTS ISSUED OVER SHARES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>ESSENTIAL INFORMATION</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 1.1</td><td>Working Capital Statement Statement by the issuer of the underlying securities that, in its opinion, the working capital is sufficient for the issuer of the underlying securities’ present requirements or, if not, how it proposes to provide the additional working capital needed. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.2</td><td>Capitalisation and indebtedness A statement of capitalisation and indebtedness of the issuer of the underlying securities (distinguishing between guaranteed and unguaranteed, secured and unsecured indebtedness) as of a date no earlier than 90 days prior to the date of the document. The term ‘indebtedness’ also includes indirect and contingent indebtedness.  In the case of material changes in the capitalisation and indebtedness position of the issuer within the 90 day period additional information shall be given through the presentation of a narrative description of such changes or through the updating of those figures. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.3</td><td>A description of the type and the class of the underlying shares including the international security identification number (‘ISIN’)</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.4</td><td>Legislation under which the securities have been created.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.5</td><td>An indication whether the underlying shares are in registered form or bearer form and whether the underlying shares are in certificated form or book-entry form. In the latter case, name and address of the entity in charge of keeping the records.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.6</td><td>Currency of the underlying shares.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.7</td><td>A description of the rights, including any limitations of these, attached to the underlying shares and procedure for the exercise of those rights.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.8</td><td>Dividend rights: (a) fixed date(s) on which the entitlement arises;  (b) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;  (c) dividend restrictions and procedures for non-resident holders;  (d) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.9</td><td>Voting rights. Pre-emption rights in offers for subscription of securities of the same class.  Right to share in the issuer’s profits.  Rights to share in any surplus in the event of liquidation.  Redemption provisions.  Conversion provisions. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.10</td><td>The issue date of the underlying shares if new underlying shares are being created for the issue of depository receipts and they are not in existence at the time of issue of the depository receipts.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.11</td><td>If new underlying shares are being created for the issue of the depository receipts, state the resolutions, authorisations and approvals by virtue of which the new underlying shares have been or will be created or issued.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.12</td><td>A description of any restrictions on the transferability of the underlying shares.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.13</td><td>A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities. Information on the taxation treatment of the securities where the proposed investment attracts a tax regime specific to that type of investment. </td><td>√</td><td>√</td></tr>
+<tr><td rowspan="2">Item 1.14</td><td>(a) Statement on the existence of any national legislation on takeovers applicable to the issuer which may frustrate such takeovers, if any.</td><td>√</td><td>√</td></tr>
+<tr><td>(b) A brief description of the shareholders’ rights and obligations in case of mandatory takeover bids and/or squeeze-out or sell-out rules in relation to the securities.</td><td>√</td><td>  </td></tr>
+<tr><td>Item 1.15</td><td>An indication of public takeover bids by third parties in respect of the issuer’s equity, which have occurred during the last financial year and the current financial year. The price or exchange terms attaching to such offers and the outcome thereof must be stated.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.16</td><td>Where applicable, the potential impact on the investment in the event of resolution under the Directive 2014/59/EU.</td><td>√</td><td>  </td></tr>
+<tr><td>Item 1.17</td><td>Lock-up agreements (a) The parties involved.  (b) Content and exceptions of the agreement.  (c) An indication of the period of the lock up. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.18</td><td>Information about selling shareholders if any.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.18.1</td><td>Name and business address of the person or entity offering to sell the underlying shares, the nature of any position office or other material relationship that the selling persons has had within the past three years with the issuer or any of its predecessors or affiliates.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.19</td><td colspan="3">Dilution</td></tr>
+<tr><td>Item 1.19.1</td><td>A comparison of: (a) participation in share capital and voting rights for existing shareholders before and after the capital increase resulting from the public offer, with the assumption that existing shareholders do not subscribe for the new shares;  (b) the net asset value per share as of the date of the latest balance sheet before the public offer (selling offer and/or capital increase) and the offering price per share within that public offer. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.19.2</td><td>Where existing shareholders will be diluted regardless of whether they subscribe for their entitlement, because a part of the relevant share issue is reserved only for certain investors (e.g. an institutional placing coupled with an offer to shareholders), an indication of the dilution existing shareholders will experience shall also be presented on the basis that they do take up their entitlement (in addition to the situation in 1.19.1 where they do not).</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.20</td><td>Additional information where there is a simultaneous or almost simultaneous offer or admission to trading of the same class of underlying shares as those underlying shares over which the depository receipts are being issued.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.20.1</td><td>If simultaneously or almost simultaneously with the creation of the depository receipts for which admission to a regulated market is being sought underlying shares of the same class as those over which the depository receipts are being issued are subscribed for or placed privately, details are to be given of the nature of such operations and of the number and characteristics of the underlying shares to which they relate.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.20.2</td><td>Disclose all regulated markets or equivalent markets on which, to the knowledge of the issuer of the depository receipts, underlying shares of the same class as those over which the depository receipts are being issued are offered or admitted to trading.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 1.20.3</td><td>To the extent known to the issuer of the depository receipts, indicate whether major shareholders, members of the administrative, management or supervisory bodies intended to subscribe in the offer, or whether any person intends to subscribe for more than five per cent of the offer.</td><td>√</td><td>√</td></tr>
+<tr><td>SECTION 2</td><td>INFORMATION ABOUT THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 2.1</td><td>Indicate the number of shares represented by each depository receipts</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.2</td><td>A description of the type and class of depository receipts being offered and/or admitted to trading</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.3</td><td>Legislation under which the depository receipts have been created.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.4</td><td>An indication whether the depository receipts are in registered or bearer form and whether the depository receipts are in certificated or book-entry form. In the latter case, include the name and address of the entity in charge of keeping the records.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.5</td><td>Currency of the depository receipts</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.6</td><td>Describe the rights attaching to the depository receipts, including any limitations of these attached to the depository receipts and the procedure if any for the exercise of these rights.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.7</td><td>If the dividend rights attaching to depository receipts are different from the dividend rights disclosed in relation to the underlying shares, disclose the following information about dividend rights: (a) fixed date(s) on which the entitlement arises;  (b) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;  (c) dividend restrictions and procedures for non-resident holders;  (d) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.8</td><td>If the voting rights attaching to the depository receipts are different from the voting rights disclosed in relation to the underlying shares disclose the following about those rights: (a) voting rights;  (b) pre-emption rights in offers for subscription of securities of the same class;  (c) right to share in the issuer’s profits;  (d) rights to share in any surplus in the event of liquidation;  (e) redemption provisions;  (f) conversion provisions. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.9</td><td>Describe the exercise of and benefit from rights attaching to the underlying shares, in particular voting rights, the conditions on which the issuer of the depository receipts may exercise such rights, and measures envisaged to obtain the instructions of the depository receipt holders – and the right to share in profits and any liquidation surplus which are not passed on to the holder of the depository receipt.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.10</td><td>The expected issue date of the depository receipts.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.11</td><td>A description of any restrictions on the transferability of the depository receipts.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.12</td><td>A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities. Information on the taxation treatment of the depository receipts where the proposed investment attracts a tax regime specific to that type of investment. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.13</td><td>Bank or other guarantees attached to the depository receipts and intended to underwrite the issuer’s obligations.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 2.14</td><td>Possibility of obtaining the delivery of the depository receipts into original shares and procedure for such delivery.</td><td>√</td><td>√</td></tr>
+<tr><td>SECTION 3</td><td>INFORMATION ABOUT THE TERMS AND CONDITIONS OF THE OFFER OF THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 3.1</td><td colspan="3">Conditions, offer statistics, expected timetable and action required to apply for the offer</td></tr>
+<tr><td>Item 3.1.1</td><td>Total amount of the issue/offer, distinguishing the securities offered for sale and those offered for subscription; if the amount is not fixed, an indication of the maximum amount of securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. Where the maximum amount of securities to be offered cannot be provided in the prospectus, the prospectus shall specify that acceptances of the purchase or subscription of securities may be withdrawn for not less than two working days after the amount of securities to be offered to the public has been filed. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.2</td><td>The time period, including any possible amendments, during which the offer will be open and description of the application process.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.3</td><td>An indication of when, and under which circumstances, the offer may be revoked or suspended and whether revocation can occur after dealing has begun.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.4</td><td>A description of the possibility to reduce subscriptions and the manner for refunding amounts paid in excess by applicants.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.5</td><td>Details of the minimum and/or maximum amount of application (whether in number of securities or aggregate amount to invest).</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.6</td><td>An indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.7</td><td>Method and time limits for paying up the securities and for delivery of the securities.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.8</td><td>A full description of the manner and date in which results of the offer are to be made public.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.1.9</td><td>The procedure for the exercise of any right of pre-emption, the negotiability of subscription rights and the treatment of subscription rights not exercised.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.2</td><td colspan="3">Plan of distribution and allotment</td></tr>
+<tr><td>Item 3.2.1</td><td>The various categories of potential investors to which the securities are offered. If the offer is being made simultaneously in the markets of two or more countries and if a tranche has been or is being reserved for certain of these, indicate any such tranche.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.2.2</td><td>To the extent known to the issuer, an indication of whether major shareholders or members of the issuer’s management, supervisory or administrative bodies intended to subscribe in the offer, or whether any person intends to subscribe for more than five per cent of the offer.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.2.3</td><td>Pre-allotment disclosure: (a) the division into tranches of the offer including the institutional, retail and issuer’s employee tranches and any other tranches;  (b) the conditions under which the claw- back may be used, the maximum size of such claw back and any applicable minimum percentages for individual tranches;  (c) the allotment method or methods to be used for the retail and issuer’s employee tranche in the event of an over-subscription of these tranches;  (d) a description of any pre-determined preferential treatment to be accorded to certain classes of investors or certain affinity groups (including friends and family programmes) in the allotment, the percentage of the offer reserved for such preferential treatment and the criteria for inclusion in such classes or groups;  (e) whether the treatment of subscriptions or bids to subscribe in the allotment may be determined on the basis of which firm they are made through or by;  (f) a target minimum individual allotment if any within the retail tranche;  (g) the conditions for the closing of the offer as well as the date on which the offer may be closed at the earliest;  (h) whether or not multiple subscriptions are admitted, and where they are not, how any multiple subscriptions will be handled. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.2.4</td><td>Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.3</td><td colspan="3">Pricing</td></tr>
+<tr><td>Item 3.3.1</td><td>An indication of the price at which the securities will be offered and the amount of any expenses and taxes charged to the subscriber or purchaser. If the price is not known, then pursuant to Article 17 of Regulation (EU) 2017/1129 indicate either:  (a) the maximum price of the securities, as far as they are available;  (b) the valuation methods and criteria, and/or conditions, in accordance with which the final offer price has been or will be determined and an explanation of any valuation methods used.  Where neither (a) nor (b) can be provided in the prospectus, the prospectus shall specify that acceptances of the purchase or subscription of securities may be withdrawn for not less than two working days after the final offer price of securities to be offered to the public has been filed. </td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.3.2</td><td>Process for the disclosure of the offer price.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.3.3</td><td>Where there is or could be a material disparity between the public offer price and the effective cash cost to members of the administrative, management or supervisory bodies or senior management, or affiliated persons, of securities acquired by them in transactions during the past year, or which they have the right to acquire, include a comparison of the public contribution in the proposed public offer an the effective cash contributions of such persons.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.4</td><td colspan="3">Placing and Underwriting</td></tr>
+<tr><td>Item 3.4.1</td><td>Name and address of the coordinator(s) of the global offer and of single parts of the offer and, to the extent known to the issuer or to the offeror, of the placers in the various countries where the offer takes place.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.4.2</td><td>Name and address of any paying agents and depository agents in each country.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.4.3</td><td>Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under best efforts’ arrangements. Indication of the material features of the agreements, including the quotas. Where not all of the issue is underwritten, a statement of the portion not covered. Indication of the overall amount of the underwriting commission and of the placing commission.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 3.4.4</td><td>When the underwriting agreement has been or will be reached.</td><td>√</td><td>√</td></tr>
+<tr><td>SECTION 4</td><td>ADMISSION TO TRADING AND DEALING ARRANGEMENTS IN THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 4.1</td><td>An indication as to whether the securities offered are or will be the object of an application for admission to trading, with a view to their distribution in a regulated market or equivalent third country market, SME Growth Market or MTF with an indication of the markets in question. This circumstance must be set out, without creating the impression that the admission to trading will necessarily be approved. If known, the earliest dates on which the securities will be admitted to trading.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 4.2</td><td>All the regulated markets or equivalent third country markets, SME Growth Market or MTFs on which, to the knowledge of the issuer, securities of the same class of the securities to be offered or admitted to trading are already admitted to trading.</td><td>√</td><td>√</td></tr>
+<tr><td rowspan="2">Item 4.3</td><td>If simultaneously or almost simultaneously with the creation of the securities for which admission to a regulated market is being sought securities of the same class are subscribed for or placed privately or if securities of other classes are created for public or private placing, give details of the nature of such operations and of the number and characteristics of the securities to which they relate.</td><td>√</td><td>√</td></tr>
+<tr><td>In case of an admission to trading on a regulated market, details of the entities which have a firm commitment to act as intermediaries in secondary trading, providing liquidity through bid and offer rates and description of the main terms of their commitment.</td><td>√</td><td>√</td></tr>
+<tr><td rowspan="3">Item 4.4</td><td>The issue price of the securities</td><td>√</td><td>√</td></tr>
+<tr><td>Details of stabilisation: where an issuer or a selling shareholder has granted an over-allotment option or it is otherwise proposed that price stabilising activities may be entered into in connection with an offer:</td><td>√</td><td>√</td></tr>
+<tr><td>The fact that stabilisation may be undertaken, that there is no assurance that it will be undertaken and that it may be stopped at any time.</td><td>√</td><td>  </td></tr>
+<tr><td rowspan="4">Item 4.5</td><td>The fact that stabilisation transactions aim at supporting the market price of the securities during the stabilisation period.</td><td>√</td><td>  </td></tr>
+<tr><td>The beginning and the end of the period during which stabilisation may occur.</td><td>√</td><td>  </td></tr>
+<tr><td>The identity of the stabilisation manager for each relevant jurisdiction unless this is not known at the time of publication.</td><td>√</td><td>  </td></tr>
+<tr><td>The fact that stabilisation transactions may result in a market price that is higher than would otherwise prevail.</td><td>√</td><td>  </td></tr>
+<tr><td rowspan="2">Item 4.6</td><td>The place where the stabilisation may be undertaken including, where relevant, the name of the trading venue(s).</td><td>√</td><td>  </td></tr>
+<tr><td>Over-allotment and ‘green shoe’: In case of an admission to trading on a regulated market:  (a) the existence and size of any over-allotment facility and/or ‘green shoe’;  (b) the existence period of the over-allotment facility and/or ‘green shoe’;  (c) any conditions for the use of the over-allotment facility or exercise of the ‘green shoe’. </td><td>√</td><td>√</td></tr>
+<tr><td>SECTION 5</td><td>ESSENTIAL INFORMATION ABOUT THE ISSUANCE OF THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 5.1</td><td colspan="3">Reasons for the offer and use of proceeds</td></tr>
+<tr><td>Item 5.1.1</td><td>Reasons for the offer and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses. If the issuer is aware that the anticipated proceeds will not be sufficient to fund all the proposed uses, then state the amount and sources of other funds needed. Details must also be given with regard to the use of the proceeds, in particular when they are being used to acquire assets, other than in the ordinary course of business, to finance announced acquisitions of other business, or to discharge, reduce or retire indebtedness.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 5.2</td><td colspan="3">Interest of natural and legal persons involved in the issuer/offer</td></tr>
+<tr><td>Item 5.2.1</td><td>A description of any interest, including a conflict of interest that is material to the issue/offer, detailing the persons involved and the nature of the interest.</td><td>√</td><td>√</td></tr>
+<tr><td>Item 5.3</td><td colspan="3">Risk Factors</td></tr>
+<tr><td>Item 5.3.1</td><td>A description of the material risks that are specific to the securities being offered and/or admitted to trading in a limited number of categories, in a section headed ‘Risk Factors’. In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the securities and the probability of their occurrence, shall be set out first. The risks shall be corroborated by the content of the prospectus. </td><td>√</td><td>√</td></tr>
+<tr><td>SECTION 6</td><td>EXPENSE OF THE ISSUE/OFFER OF THE DEPOSITORY RECEIPTS</td><td>Primary Issuance</td><td>Secondary Issuances</td></tr>
+<tr><td>Item 6.1</td><td>The total net proceeds and an estimate of the total expenses of the issue/offer.</td><td>√</td><td>√</td></tr>
+</tbody>
+</table>
+
+## ANNEX 14
+
+**SECURITIES NOTE FOR RETAIL NON-EQUITY SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the securities note with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td><td>Category A</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the securities note that to the best of their knowledge, the information contained in the securities note is in accordance with the facts and that the securities note makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the securities note that, to the best of their knowledge, the information contained in those parts of the securities note for which they are responsible is in accordance with the facts and that those parts of the securities note make no omission likely to affect their import. </td><td>Category A</td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report, attributed to a person as an expert, is included in the securities note, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the securities note with the consent of the person who has authorised the contents of that part of the securities note for the purpose of the prospectus. </td><td>Category A</td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td><td>Category C</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) this [securities note/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129.  (b) the [name of competent authority] only approves this [securities note/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of [the quality of the securities that are the subject of this [securities note/prospectus];  (d) investors should make their own assessment as to the suitability of investing in the securities. </td><td>Category A</td></tr>
+<tr><td>SECTION 2</td><td colspan="2">RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td>A description of the material risks that are specific to the securities being offered and/or admitted to trading in a limited number of categories, in a section headed ‘Risk Factors’. Risks to be disclosed shall include:  (a) those resulting from the level of subordination of a security and the impact on the expected size or timing of payments to holders of the securities under bankruptcy, or any other similar procedure, including, where relevant, the insolvency of a credit institution or its resolution or restructuring in accordance with Directive 2014/59/EU;  (b) in cases where the securities are guaranteed, the specific and material risks related to the guarantor to the extent they are relevant to its ability to fulfil its commitment under the guarantee.  In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the securities and the probability of their occurrence, shall be set out first. The risks shall be corroborated by the content of the securities note. </td><td>Category A</td></tr>
+<tr><td>SECTION 3</td><td colspan="2">ESSENTIAL INFORMATION</td></tr>
+<tr><td rowspan="2">Item 3.1</td><td>Interest of natural and legal persons involved in the issue/offer</td><td>  </td></tr>
+<tr><td>A description of any interest, including a conflict of interest that is material to the issue/offer, detailing the persons involved and the nature of the interest.</td><td>Category C</td></tr>
+<tr><td rowspan="2">Item 3.2</td><td>Reasons for the offer and use of proceeds</td><td>  </td></tr>
+<tr><td>Reasons for the offer to the public or for the admission to trading. Where applicable, disclosure of the estimated total expenses of the issue/offer and the estimated net amount of the proceeds. These expenses and proceeds shall be broken into each principal intended use and presented in order of priority of such uses. If the issuer is aware that the anticipated proceeds will not be sufficient to fund all the proposed uses, then state the amount and sources of other funds needed.</td><td>Category C</td></tr>
+<tr><td>SECTION 4</td><td colspan="2">INFORMATION CONCERNING THE SECURITIES TO BE OFFERED TO THE PUBLIC/ADMITTED TO TRADING</td></tr>
+<tr><td rowspan="2">Item 4.1</td><td>(a) A description of the type and the class of the securities being offered to the public and/or admitted to trading.</td><td>Category B</td></tr>
+<tr><td>(b) The international security identification number (‘ISIN’) for those classes of securities referred to in (a).</td><td>Category C</td></tr>
+<tr><td>Item 4.2</td><td>Legislation under which the securities have been created.</td><td>Category A</td></tr>
+<tr><td rowspan="2">Item 4.3</td><td>(a) An indication of whether the securities are in registered form or bearer form and whether the securities are in certificated form or book-entry form.</td><td>Category A</td></tr>
+<tr><td>(b) In the case of securities registered in book-entry form, the name and address of the entity in charge of keeping the records.</td><td>Category C</td></tr>
+<tr><td>Item 4.4</td><td>Total amount of the securities offered to the public/admitted to trading. If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and time for announcing to the public the definitive amount of the offer. Where the maximum amount of securities to be offered cannot be provided in the securities note, the securities note shall specify that acceptances of the purchase or subscription of securities may be withdrawn up to two working days after the amount of securities to be offered to the public has been filed. </td><td>Category C</td></tr>
+<tr><td>Item 4.5</td><td>Currency of the securities issue.</td><td>Category C</td></tr>
+<tr><td>Item 4.6</td><td>The relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU.</td><td>Category A</td></tr>
+<tr><td>Item 4.7</td><td>A description of the rights attached to the securities, including any limitations of those rights, and procedure for the exercise of those rights.</td><td>Category B</td></tr>
+<tr><td rowspan="14">Item 4.8</td><td>(a) The nominal interest rate;</td><td>Category C</td></tr>
+<tr><td>(b) the provisions relating to interest payable;</td><td>Category B</td></tr>
+<tr><td>(c) the date from which interest becomes payable;</td><td>Category C</td></tr>
+<tr><td>(d) the due dates for interest;</td><td>Category C</td></tr>
+<tr><td>(e) the time limit on the validity of claims to interest and repayment of principal.</td><td>Category B</td></tr>
+<tr><td>Where the rate is not fixed:</td><td>  </td></tr>
+<tr><td>(a) a statement setting out the type of underlying;</td><td>Category A</td></tr>
+<tr><td>(b) a description of the underlying on which the rate is based;</td><td>Category C</td></tr>
+<tr><td>(c) the method used to relate the rate with the underlying;</td><td>Category B</td></tr>
+<tr><td>(d) an indication where information about the past and the future performance of the underlying and its volatility can be obtained by electronic means and whether or not it can be obtained free of charge;</td><td>Category C</td></tr>
+<tr><td>(e) a description of any market disruption or settlement disruption events that affect the underlying;</td><td>Category B</td></tr>
+<tr><td>(f) any adjustment rules with relation to events concerning the underlying;</td><td>Category B</td></tr>
+<tr><td>(g) the name of the calculation agent;</td><td>Category C</td></tr>
+<tr><td>(h) if the security has a derivative component in the interest payment, a clear and comprehensive explanation to help investors understand how the value of their investment is affected by the value of the underlying instrument(s), especially under the circumstances when the risks are most evident.</td><td>Category B</td></tr>
+<tr><td rowspan="2">Item 4.9</td><td>(a) Maturity date.</td><td>Category C</td></tr>
+<tr><td>(b) Details of the arrangements for the amortisation of the loan, including the repayment procedures. Where advance amortisation is contemplated, on the initiative of the issuer or of the holder, it shall be described, stipulating the amortisation terms and conditions.</td><td>Category B</td></tr>
+<tr><td rowspan="2">Item 4.10</td><td>(a) An indication of yield.</td><td>Category C</td></tr>
+<tr><td>(b) Description of the method whereby the yield in point (a) is to be calculated in summary form.</td><td>Category B</td></tr>
+<tr><td>Item 4.11</td><td>Representation of non-equity security holders including an identification of the organisation representing the investors and provisions applying to such representation. Indication of the website where the public may have free access to the contracts relating to these forms of representation.</td><td>Category B</td></tr>
+<tr><td>Item 4.12</td><td>In the case of new issues, a statement of the resolutions, authorisations and approvals by virtue of which the securities have been or will be created and/or issued.</td><td>Category C</td></tr>
+<tr><td>Item 4.13</td><td>The issue date or in the case of new issues, the expected issue date of the securities.</td><td>Category C</td></tr>
+<tr><td>Item 4.14</td><td>A description of any restrictions on the transferability of the securities.</td><td>Category A</td></tr>
+<tr><td>Item 4.15</td><td>A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities. Information on the taxation treatment of the securities where the proposed investment attracts a tax regime specific to that type of investment. </td><td>Category A</td></tr>
+<tr><td>Item 4.16</td><td>If different from the issuer, the identity and contact details of the offeror, of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td><td>Category C</td></tr>
+<tr><td>SECTION 5</td><td colspan="2">TERMS AND CONDITIONS OF THE OFFER OF SECURITIES TO THE PUBLIC</td></tr>
+<tr><td>Item 5.1</td><td colspan="2">Conditions, offer statistics, expected timetable and action required to apply for the offer.</td></tr>
+<tr><td>Item 5.1.1</td><td>Conditions to which the offer is subject.</td><td>Category C</td></tr>
+<tr><td>Item 5.1.2</td><td>The time period, including any possible amendments, during which the offer will be open.A description of the application process.</td><td>Category C</td></tr>
+<tr><td>Item 5.1.3</td><td>A description of the possibility to reduce subscriptions and the manner for refunding amounts paid in excess by applicants.</td><td>Category C</td></tr>
+<tr><td>Item 5.1.4</td><td>Details of the minimum and/or maximum amount of the application, (whether in number of securities or aggregate amount to invest).</td><td>Category C</td></tr>
+<tr><td>Item 5.1.5</td><td>Method and time limits for paying up the securities and for delivery of the securities.</td><td>Category C</td></tr>
+<tr><td>Item 5.1.6</td><td>A full description of the manner and date in which results of the offer are to be made public.</td><td>Category C</td></tr>
+<tr><td>Item 5.1.7</td><td>The procedure for the exercise of any right of pre-emption, the negotiability of subscription rights and the treatment of subscription rights not exercised.</td><td>Category C</td></tr>
+<tr><td>Item 5.2</td><td colspan="2">Plan of distribution and allotment.</td></tr>
+<tr><td>Item 5.2.1</td><td>The various categories of potential investors to which the securities are offered. If the offer is being made simultaneously in the markets of two or more countries and if a tranche has been or is being reserved for certain of these, indicate any such tranche. </td><td>Category C</td></tr>
+<tr><td>Item 5.2.2</td><td>Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td><td>Category C</td></tr>
+<tr><td>Item 5.3</td><td colspan="2">Pricing</td></tr>
+<tr><td rowspan="3">Item 5.3.1</td><td>(a) An indication of the expected price at which the securities will be offered.</td><td>Category C</td></tr>
+<tr><td>(b) Where an indication of the expected price cannot be given, a description of the method of determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129, and the process for its disclosure.</td><td>Category B</td></tr>
+<tr><td>(c) Indication of the amount of any expenses, and taxes charged to the subscriber or purchaser. Where the issuer is subject to Regulation (EU) No 1286/2014 or Directive 2014/65/EU and to the extent that they are known, include those expenses contained in the price.</td><td>Category C</td></tr>
+<tr><td>Item 5.4</td><td colspan="2">Placing and Underwriting</td></tr>
+<tr><td>Item 5.4.1</td><td>Name and address of the coordinator(s) of the global offer and of single parts of the offer and, to the extent known to the issuer or to the offeror, of the placers in the various countries where the offer takes place.</td><td>Category C</td></tr>
+<tr><td>Item 5.4.2</td><td>Name and address of any paying agents and depository agents in each country.</td><td>Category C</td></tr>
+<tr><td>Item 5.4.3</td><td>Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under ‘best efforts’ arrangements. Indication of the material features of the agreements, including the quotas. Where not all of the issue is underwritten, a statement of the portion not covered. Indication of the overall amount of the underwriting commission and of the placing commission.</td><td>Category C</td></tr>
+<tr><td>Item 5.4.4</td><td>When the underwriting agreement has been or will be reached.</td><td>Category C</td></tr>
+<tr><td>SECTION 6</td><td colspan="2">ADMISSION TO TRADING AND DEALING ARRANGEMENTS</td></tr>
+<tr><td rowspan="2">Item 6.1</td><td>(a) an indication as to whether the securities offered are or will be the object of an application for admission to trading, with a view to their distribution in a regulated market, other third country markets, SME Growth Market or MTF with an indication of the markets in question. This circumstance must be set out, without creating the impression that the admission to trading will necessarily be approved.</td><td>Category B</td></tr>
+<tr><td>(b) If known, give the earliest dates on which the securities will be admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 6.2</td><td>All the regulated markets or third country markets, SME Growth Market or MTFs on which, to the knowledge of the issuer, securities of the same class of the securities to be offered to the public or admitted to trading are already admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 6.3</td><td>In the case of admission to trading on a regulated market, the name and address of the entities which have a firm commitment to act as intermediaries in secondary trading, providing liquidity through bid and offer rates and description of the main terms of their commitment.</td><td>Category C</td></tr>
+<tr><td>Item 6.4</td><td>The issue price of the securities.</td><td>Category C</td></tr>
+<tr><td>SECTION 7</td><td colspan="2">ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 7.1</td><td>If advisors connected with an issue are referred to in the securities note, a statement of the capacity in which the advisors have acted.</td><td>Category C</td></tr>
+<tr><td>Item 7.2</td><td>An indication of other information in the securities note which has been audited or reviewed by statutory auditors and where auditors have produced a report. Reproduction of the report or, with permission of the competent authority, a summary of the report.</td><td>Category A</td></tr>
+<tr><td>Item 7.3</td><td>Credit ratings assigned to the securities at the request or with the cooperation of the issuer in the rating process. A brief explanation of the meaning of the ratings if this has previously been published by the rating provider.</td><td>Category C</td></tr>
+<tr><td>Item 7.4</td><td>Where the summary is substituted in part with the information set out in points (c) to (i) of paragraph 3 of Article 8 of Regulation (EU) No 1286/2014, all such information to the extent it is not already disclosed elsewhere in the securities note, must be disclosed.</td><td>Category C</td></tr>
+</tbody>
+</table>
+
+## ANNEX 15
+
+**SECURITIES NOTE FOR WHOLESALE NON-EQUITY SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">PERSONS RESPONSIBLE, THIRD PARTY INFORMATION, EXPERTS’ REPORTS AND COMPETENT AUTHORITY APPROVAL</td></tr>
+<tr><td>Item 1.1</td><td>Identify all persons responsible for the information or any parts of it, given in the securities note with, in the latter case, an indication of such parts. In the case of natural persons, including members of the issuer’s administrative, management or supervisory bodies, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.</td><td>Category A</td></tr>
+<tr><td>Item 1.2</td><td>A declaration by those responsible for the securities note that to the best of their knowledge, the information contained in the securities note is in accordance with the facts and that the securities note makes no omission likely to affect its import. Where applicable, a declaration by those responsible for certain parts of the securities note that, to the best of their knowledge, the information contained in those parts of the securities note for which they are responsible is in accordance with the facts and that those parts of the securities note make no omission likely to affect their import. </td><td>Category A</td></tr>
+<tr><td>Item 1.3</td><td>Where a statement or report, attributed to a person as an expert, is included in the securities note, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications;  (d) material interest if any in the issuer.  If the statement or report has been produced at the issuer’s request, state that such statement or report has been included in the securities note with the consent of the person who has authorised the contents of that part of the securities note for the purpose of the prospectus. </td><td>Category A</td></tr>
+<tr><td>Item 1.4</td><td>Where information has been sourced from a third party, provide a confirmation that this information has been accurately reproduced and that as far as the issuer is aware and is able to ascertain from information published by that third party, no facts have been omitted which would render the reproduced information inaccurate or misleading. In addition, identify the source(s) of the information.</td><td>Category C</td></tr>
+<tr><td>Item 1.5</td><td>A statement that: (a) this [securities note/prospectus] has been approved by the [name of competent authority], as competent authority under Regulation (EU) 2017/1129;  (b) the [name of competent authority] only approves this [securities note/prospectus] as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  (c) such approval should not be considered as an endorsement of the quality of the securities that are the subject of this [securities note/prospectus]; and  (d) investors should make their own assessment as to the suitability of investing in the securities. </td><td>Category A</td></tr>
+<tr><td>SECTION 2</td><td colspan="2">RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td>A description of the material risks that are specific to the securities being offered and/or admitted to trading in a limited number of categories, in a section headed ‘Risk Factors’. Risks to be disclosed shall include:  (a) those resulting from the level of subordination of a security and the impact on the expected size or timing of payments to holders of the securities under bankruptcy, or any other similar procedure, including, where relevant, the insolvency of a credit institution or its resolution or restructuring in accordance with Directive 2014/59/EU;  (b) in cases where the securities are guaranteed, the specific and material risks related to the guarantor to the extent they are relevant to its ability to fulfil its commitment under the guarantee.  In each category the most material risks, in the assessment of the issuer, offeror or person asking for admission to trading on a regulated market, taking into account the negative impact on the issuer and the securities and the probability of their occurrence, shall be set out first. The risks shall be corroborated by the content of the securities note. </td><td>Category A</td></tr>
+<tr><td>SECTION 3</td><td colspan="2">ESSENTIAL INFORMATION</td></tr>
+<tr><td>Item 3.1</td><td>Interest of natural and legal persons involved in the issue. A description of any interest, including a conflict of interest that is material to the issue, detailing the persons involved and the nature of the interest. </td><td>Category C</td></tr>
+<tr><td>Item 3.2</td><td>The use and estimated net amount of the proceeds.</td><td>Category C</td></tr>
+<tr><td>SECTION 4</td><td colspan="2">INFORMATION CONCERNING THE SECURITIES TO BE ADMITTED TO TRADING</td></tr>
+<tr><td>Item 4.1</td><td>Total amount of securities being admitted to trading.</td><td>Category C</td></tr>
+<tr><td rowspan="2">Item 4.2</td><td>(a) A description of the type and the class of the securities being admitted to trading;</td><td>Category B</td></tr>
+<tr><td>(b) The international security identification number (‘ISIN’).</td><td>Category C</td></tr>
+<tr><td>Item 4.3</td><td>Legislation under which the securities have been created.</td><td>Category A</td></tr>
+<tr><td rowspan="2">Item 4.4</td><td>(a) An indication of whether the securities are in registered or bearer form and whether the securities are in certificated or book-entry form.</td><td>Category A</td></tr>
+<tr><td>(b) In the case of securities registered in book-entry form, the name and address of the entity in charge of keeping the records.</td><td>Category C</td></tr>
+<tr><td>Item 4.5</td><td>Currency of the securities issue.</td><td>Category C</td></tr>
+<tr><td>Item 4.6</td><td>The relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU.</td><td>Category A</td></tr>
+<tr><td>Item 4.7</td><td>A description of the rights, including any limitations of these, attached to the securities and procedure for the exercise of said rights.</td><td>Category B</td></tr>
+<tr><td rowspan="12">Item 4.8</td><td>(a) The nominal interest rate;</td><td>Category C</td></tr>
+<tr><td>(b) the provisions relating to interest payable;</td><td>Category B</td></tr>
+<tr><td>(c) the date from which interest becomes payable;</td><td>Category C</td></tr>
+<tr><td>(d) the due dates for interest;</td><td>Category C</td></tr>
+<tr><td>(e) the time limit on the validity of claims to interest and repayment of principal.</td><td>Category B</td></tr>
+<tr><td>Where the rate is not fixed:</td><td>  </td></tr>
+<tr><td>(a) a statement setting out the type of underlying;</td><td>Category A</td></tr>
+<tr><td>(b) a description of the underlying on which the rate is based;</td><td>Category C</td></tr>
+<tr><td>(c) the method used to relate the rate with the underlying;</td><td>Category B</td></tr>
+<tr><td>(d) a description of any market disruption or settlement disruption events that affect the underlying;</td><td>Category B</td></tr>
+<tr><td>(e) any adjustment rules with relation to events concerning the underlying;</td><td>Category C</td></tr>
+<tr><td>(f) the name of the calculation agent.</td><td>Category C</td></tr>
+<tr><td rowspan="2">Item 4.9</td><td>(a) Maturity date.</td><td>Category C</td></tr>
+<tr><td>(b) Details of the arrangements for the amortisation of the loan, including the repayment procedures. Where advance amortisation is contemplated, on the initiative of the issuer or of the holder, it shall be described, stipulating amortisation terms and conditions.</td><td>Category B</td></tr>
+<tr><td>Item 4.10</td><td>An indication of yield.</td><td>Category C</td></tr>
+<tr><td>Item 4.11</td><td>Representation of debt security holders including an identification of the organisation representing the investors and provisions applying to such representation. Indication of the website where investors may have free access to the contracts relating to these forms of representation.</td><td>Category B</td></tr>
+<tr><td>Item 4.12</td><td>A statement of the resolutions, authorisations and approvals by virtue of which the securities have been created and/or issued.</td><td>Category C</td></tr>
+<tr><td>Item 4.13</td><td>The issue date of the securities.</td><td>Category C</td></tr>
+<tr><td>Item 4.14</td><td>A description of any restrictions on the transferability of the securities.</td><td>Category A</td></tr>
+<tr><td>Item 4.15</td><td>If different from the issuer, the identity and contact details of the offeror of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td><td>Category C</td></tr>
+<tr><td>SECTION 5</td><td colspan="2">ADMISSION TO TRADING AND DEALING ARRANGEMENTS</td></tr>
+<tr><td rowspan="2">Item 5.1</td><td>(a) An indication of the regulated market, or other third country market, SME Growth Market or MTF where the securities will be traded and for which a prospectus has been published.</td><td>Category B</td></tr>
+<tr><td>(b) If known, give the earliest dates on which the securities will be admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 5.2</td><td>Name and address of any paying agents and depository agents in each country.</td><td>Category C</td></tr>
+<tr><td>SECTION 6</td><td colspan="2">EXPENSE OF THE ADMISSION TO TRADING</td></tr>
+<tr><td>Item 6.1</td><td>An estimate of the total expenses related to the admission to trading.</td><td>Category C</td></tr>
+<tr><td>SECTION 7</td><td colspan="2">ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 7.1</td><td>If advisors are referred to in the Securities Note, a statement of the capacity in which the advisors have acted.</td><td>Category C</td></tr>
+<tr><td>Item 7.2</td><td>An indication of other information in the Securities Note which has been audited or reviewed by auditors and where auditors have produced a report. Reproduction of the report or, with permission of the competent authority, a summary of the report.</td><td>Category A</td></tr>
+<tr><td>Item 7.3</td><td>Credit ratings assigned to the securities at the request or with the cooperation of the issuer in the rating process. A brief explanation of the meaning of the ratings if this has previously been published by the rating provider.</td><td>Category C</td></tr>
+</tbody>
+</table>
+
+## ANNEX 17
+
+**SECURITIES GIVING RISE TO PAYMENT OR DELIVERY OBLIGATIONS LINKED TO AN UNDERLYING ASSET**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">RISK FACTORS</td></tr>
+<tr><td>Item 1.1</td><td>Prominent disclosure of risk factors that are material to the securities being offered and/or admitted to trading in order to assess the market risk associated with these securities in a section headed ‘Risk Factors’. If applicable, this must include a risk warning to the effect that investors may lose the value of their entire investment or part of it, as the case may be, and, if the investor’s liability is not limited to the value of his investment, a statement of that fact, together with a description of the circumstances in which such additional liability arises and the likely financial effect.</td><td>Category A</td></tr>
+<tr><td>SECTION 2</td><td colspan="2">INFORMATION CONCERNING THE SECURITIES TO BE OFFERED/ADMITTED TO TRADING</td></tr>
+<tr><td>Item 2.1</td><td colspan="2">Information concerning the securities</td></tr>
+<tr><td>Item 2.1.1</td><td>A clear and comprehensive explanation to help investors understand how the value of their investment is affected by the value of the underlying instrument(s), especially in the circumstances where the risks are most evident, unless the securities have a denomination per unit of at least EUR 100 000 , or can only be acquired for at least EUR 100 000 per security, or are to be traded on a regulated market or a specific segment of a regulated market to which only qualified investors can have access.</td><td>Category B</td></tr>
+<tr><td>Item 2.1.2</td><td>The expiration or maturity date of the derivative securities and their exercise date or final reference date.</td><td>Category C</td></tr>
+<tr><td>Item 2.1.3</td><td>A description of the settlement procedure of the derivative securities.</td><td>Category B</td></tr>
+<tr><td rowspan="4">Item 2.1.4</td><td>A description of:</td><td>  </td></tr>
+<tr><td>(a) how any return on derivative securities takes place;</td><td>Category B</td></tr>
+<tr><td>(b) the payment or delivery date;</td><td>Category C</td></tr>
+<tr><td>(c) the way it is calculated.</td><td>Category B</td></tr>
+<tr><td>Item 2.2</td><td colspan="2">Information concerning the underlying</td></tr>
+<tr><td>Item 2.2.1</td><td>The exercise price or the final reference price of the underlying.</td><td>Category C</td></tr>
+<tr><td rowspan="21">Item 2.2.2</td><td>A statement setting out the type of the underlying.</td><td>Category A</td></tr>
+<tr><td>Details of where information on the underlying can be obtained including an indication of where information about the past and the future performance of that underlying and its volatility can be obtained by electronic means, and whether or not it can be obtained free of charge.</td><td>Category C</td></tr>
+<tr><td>Where the underlying is a security:</td><td>  </td></tr>
+<tr><td>(a) the name of the issuer of the security;</td><td>Category C</td></tr>
+<tr><td>(b) the international security identification number (‘ISIN’);</td><td>Category C</td></tr>
+<tr><td>where the underlying is a reference entity or reference obligation (for credit-linked securities):</td><td>  </td></tr>
+<tr><td>(a) where the reference entity or reference obligation comprises of a single entity or obligation, or in the case of a pool of underlying where a single reference entity or reference obligation represents 20 % or more of the pool:</td><td>  </td></tr>
+<tr><td>(i) if the reference entity (or issuer of the reference obligation) has no securities admitted to trading on a regulated market, equivalent third country market or SME Growth Market, so far as the issuer is aware and/or able to ascertain from information published by the reference entity (or by the issuer of the reference obligation), information relating to the reference entity (or to the issuer of the reference obligation) as if it were the issuer (in accordance with the registration document for wholesale non-equity securities);</td><td>Category A</td></tr>
+<tr><td>(ii) if the reference entity (or the issuer of the reference obligation) has securities already admitted to trading on a regulated market, equivalent third country market or SME Growth Market, so far as the issuer is aware and/or able to ascertain from information published by the reference entity (or by the issuer of the reference obligation), its name, ISIN, address, country of incorporation, industry or industries in which the reference entity (or the issuer of the reference obligation) operates and the name of the market in which its securities are admitted.</td><td>Category C</td></tr>
+<tr><td>(b) in the case of a pool of underlying, where a single reference entity or reference obligation represents less than 20 % of the pool:</td><td>  </td></tr>
+<tr><td>(i) the names of the reference entities or issuers of the reference obligation; and</td><td>Category C</td></tr>
+<tr><td>(ii) the ISIN.</td><td>Category C</td></tr>
+<tr><td>Where the underlying is an index:</td><td>  </td></tr>
+<tr><td>(a) the name of the index;</td><td>Category C</td></tr>
+<tr><td>(b) a description of the index if it is composed by the issuer or by any legal entity belonging to the same group;</td><td>Category A</td></tr>
+<tr><td>(c) a description of the index provided by a legal entity or a natural person acting in association with, or on behalf of, the issuer, unless the prospectus contains the following statements: (i) the complete set of rules of the index and information on the performance of the index are freely accessible on the issuer’s or on the index provider’s website;  (ii) the governing rules (including methodology of the index for the selection and the re-balancing of the components of the index, description of market disruption events and of adjustment rules) are based on predetermined and objective criteria. </td><td>Category B</td></tr>
+<tr><td>Points (b) and (c) do not apply where the administrator of the index is included in the public register maintained by ESMA under Article 36 of Regulation (EU) 2016/1011 (1).</td><td>  </td></tr>
+<tr><td>(d) Where the index is not composed by the issuer, an indication of where information about the index can be obtained.</td><td>Category C</td></tr>
+<tr><td>Where the underlying is an interest rate, a description of the interest rate.</td><td>Category C</td></tr>
+<tr><td>Where the underlying does not fall within the categories specified above, the securities note shall contain equivalent information.</td><td>Category C</td></tr>
+<tr><td>Where the underlying is a basket of underlying, a disclosure for each underlying as described above and disclosure of the relevant weightings of each underlying in the basket.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.3</td><td>A description of any market disruption or settlement disruption or credit events that affect the underlying.</td><td>Category B</td></tr>
+<tr><td>Item 2.2.4</td><td>Adjustment rules with relation to events concerning the underlying.</td><td>Category B</td></tr>
+<tr><td>SECTION 3</td><td colspan="2">ADDITIONAL INFORMATION</td></tr>
+<tr><td>Item 3.1</td><td>An indication in the prospectus whether or not the issuer intends to provide post issuance information. Where the issuer has indicated that it intends to report such information, the issuer shall specify in the prospectus what information will be reported and where such information can be obtained.</td><td>Category C</td></tr>
+<tr><td colspan="3">(1)  Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on índices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1) . </td></tr>
+</tbody>
+</table>
+
+## ANNEX 18
+
+**UNDERLYING SHARE**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">DESCRIPTION OF THE UNDERLYING SHARE</td></tr>
+<tr><td>Item 1.1</td><td>Description of the type and the class of the shares.</td><td>Category A</td></tr>
+<tr><td>Item 1.2</td><td>Legislation under which the shares have been or will be created.</td><td>Category A</td></tr>
+<tr><td rowspan="2">Item 1.3</td><td>(a) Indication whether the securities are in registered form or bearer form and whether the securities are in certificated form or book-entry form.</td><td>Category A</td></tr>
+<tr><td>(b) In the case of securities registered in book-entry form, the name and address of the entity in charge of keeping the records.</td><td>Category C</td></tr>
+<tr><td>Item 1.4</td><td>Indication of the currency of the shares issue</td><td>Category A</td></tr>
+<tr><td>Item 1.5</td><td>A description of the rights, including any limitations of these, attached to the securities and procedure for the exercise of those rights: (a) dividend rights:  (i) fixed date(s) on which the entitlement arises;  (ii) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;  (iii) dividend restrictions and procedures for non-resident holders;  (iv) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments.  (b) voting rights;  (c) pre-emption rights in offers for subscription of securities of the same class;  (d) right to share in the issuer’s profits;  (e) rights to share in any surplus in the event of liquidation;  (f) redemption provisions;  (g) conversion provisions. </td><td>Category A</td></tr>
+<tr><td>Item 1.6</td><td>In the case of new issues, a statement of the resolutions, authorisations and approvals by virtue of which the shares have been or will be created and/or issued and indication of the issue date.</td><td>Category C</td></tr>
+<tr><td>Item 1.7</td><td>Where and when the shares will be or have been admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 1.8</td><td>Description of any restrictions on the transferability of the shares.</td><td>Category A</td></tr>
+<tr><td>Item 1.9</td><td>Statement on the existence of any national legislation on takeovers applicable to the issuer which may frustrate such takeovers, if any. Brief description of the shareholders’ rights and obligations in case of mandatory takeover bid, squeeze-out or sell-out.</td><td>Category A</td></tr>
+<tr><td>Item 1.10</td><td>Indication of public takeover bids by third parties in respect of the issuer’s equity, which have occurred during the last financial year and the current financial year. The price or exchange terms attaching to such offers and the outcome thereof must be stated. </td><td>Category C</td></tr>
+<tr><td rowspan="3">Item 1.11</td><td>A comparison of:</td><td>  </td></tr>
+<tr><td>(a) participation in share capital and voting rights for existing shareholders before and after the capital increase resulting from the public offer, with the assumption that existing shareholders do not subscribe for the new shares;</td><td>Category C</td></tr>
+<tr><td>(b) the net asset value per share as of the date of the latest balance before the public offer (selling offer and/or capital increase) and the offering price per share within that public offer.</td><td>Category C</td></tr>
+<tr><td>SECTION 2</td><td>INFORMATION TO BE PROVIDED WHERE THE ISSUER OF THE UNDERLYING IS AN ENTITY BELONGING TO THE SAME GROUP</td><td>Category C</td></tr>
+<tr><td>Item 2.1</td><td>When the issuer of the underlying is an entity belonging to the same group, the information to provide on this issuer is the one required by the registration document for equity securities or, if applicable, the registration document for secondary issuances of equity securities or the EU Growth registration document for equity securities.</td><td>Category A</td></tr>
+</tbody>
+</table>
+
+## ANNEX 19
+
+**ASSET-BACKED SECURITIES**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">THE SECURITIES</td></tr>
+<tr><td>Item 1.1</td><td>A statement that a notification has been, or is intended to be communicated to ESMA, as regards simple, transparent and standardised securitisation (‘STS’) compliance, where applicable. This should be accompanied by an a explanation of the meaning of such notification together with a reference or hyperlink to ESMA’s data base indicating that the STS-notification is available for download there if deemed necessary.</td><td>Category A</td></tr>
+<tr><td>Item 1.2</td><td>Where the prospectus includes a statement that the transaction is STS compliant, a warning that the STS status of a transaction is not static and that investors should verify the current status of the transaction on ESMA’s website.</td><td>Category B</td></tr>
+<tr><td>Item 1.3</td><td>The minimum denomination of an issue.</td><td>Category C</td></tr>
+<tr><td>Item 1.4</td><td>Where information is disclosed about an undertaking/obligor which is not involved in the issue, provide a confirmation that the information relating to the undertaking/obligor has been accurately reproduced from information published by the undertaking/obligor. So far as the issuer is aware and is able to ascertain from information published by the undertaking/obligor no facts have been omitted which would render the reproduced information misleading. In addition, identify the source(s) of information in the securities note that has been reproduced from information published by an undertaking/obligor. </td><td>Category C</td></tr>
+<tr><td>SECTION 2</td><td colspan="2">THE UNDERLYING ASSETS</td></tr>
+<tr><td>Item 2.1</td><td>Confirmation that the securitised assets backing the issue have characteristics that demonstrate capacity to produce funds to service any payments due and payable on the securities.</td><td>Category A</td></tr>
+<tr><td>Item 2.2</td><td colspan="2">In respect of a pool of discrete assets backing the issue:</td></tr>
+<tr><td>Item 2.2.1</td><td>The legal jurisdiction by which the pool of assets is governed.</td><td>Category C</td></tr>
+<tr><td rowspan="3">Item 2.2.2</td><td>(a) In the case of a small number of easily identifiable obligors a general description of each obligor.</td><td>Category C</td></tr>
+<tr><td>(b) In all other cases, a description of the general characteristics of the obligors and the economic environment.</td><td>Category B</td></tr>
+<tr><td>(c) In relation to those obligors referred to in point (b), any global statistical data referred to the securitised assets.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.3</td><td>The legal nature of the assets.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.4</td><td>The expiry or maturity date(s) of the assets.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.5</td><td>The amount of the assets.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.6</td><td>Loan to value ratio or level of collateralisation.</td><td>Category B</td></tr>
+<tr><td>Item 2.2.7</td><td>The method of origination or creation of the assets, and for loans and credit agreements, the principal lending criteria and an indication of any loans which do not meet these criteria and any rights or obligations to make further advances.</td><td>Category B</td></tr>
+<tr><td>Item 2.2.8</td><td>An indication of significant representations and collateral given to the issuer relating to the assets.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.9</td><td>Any rights to substitute the assets and a description of the manner in which and the type of assets which may be so substituted; if there is any capacity to substitute assets with a different class or quality of assets a statement to that effect together with a description of the impact of such substitution.</td><td>Category B</td></tr>
+<tr><td>Item 2.2.10</td><td>A description of any relevant insurance policies relating to the assets. Any concentration with one insurer must be disclosed if it is material to the transaction.</td><td>Category B</td></tr>
+<tr><td rowspan="3">Item 2.2.11</td><td>Where the assets comprise obligations of 5 or fewer obligors which are legal persons or are guaranteed by 5 or fewer legal persons or where an obligor or entity guaranteeing the obligations accounts for 20 % or more of the assets, or where 20 % or more of the assets are guaranteed by a single guarantor, so far as the issuer is aware and/or is able to ascertain from information published by the obligor(s) or guarantor(s) indicate either of the following:</td><td>  </td></tr>
+<tr><td>(a) information relating to each obligor or guarantor as if it were an issuer drafting a registration document for non-equity securities with an individual denomination of at least EUR 100 000 and/or that are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in such securities;</td><td>Category A</td></tr>
+<tr><td>(b) if an obligor or guarantor has securities already admitted to trading on a regulated or equivalent third country market or SME Growth Market its name, address, country of incorporation, significant business activities/investment policy and the name of the market in which its securities are admitted.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.12</td><td>If a relationship exists that is material to the issue, between the issuer, guarantor and obligor, details of the principal terms of that relationship.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.13</td><td>Where the assets comprise obligations that are traded on regulated or equivalent third country market or SME Growth Market, a brief description of the securities, the market and an electronic link where the documentation in relation to the obligations can be found on the regulated or equivalent third country market or SME Growth Market.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.14</td><td>Where the assets comprise obligations that are not traded on a regulated or equivalent third country market or SME Growth Market, a description of the principal terms and conditions in relation to the obligations.</td><td>Category B</td></tr>
+<tr><td rowspan="4">Item 2.2.15</td><td>Where the assets comprise equity securities that are admitted to trading on a regulated or equivalent third country market or SME Growth Market indicate the following:</td><td>Category C</td></tr>
+<tr><td>(a) a description of the securities;</td><td>  </td></tr>
+<tr><td>(b) a description of the market on which they are traded including its date of establishment, how price information is published, an indication of daily trading volumes, information as to the standing of the market in the country, the name of the market’s regulatory authority and an electronic link where the documentation in relation to the securities can be found on the regulated or equivalent third country market or SME Growth Market;</td><td>Category C</td></tr>
+<tr><td>(c) the frequency with which prices of the relevant securities, are published.</td><td>Category C</td></tr>
+<tr><td>Item 2.2.16</td><td>Where more than 10 % of the assets comprise equity securities that are not traded on a regulated or equivalent third country market or SME Growth Market, a description of those equity securities and equivalent information to that contained in the registration document for equity securities or where applicable, the registration document for securities issued by closed-end collective investment undertakings in respect of each issuer of those securities.</td><td>Category A</td></tr>
+<tr><td>Item 2.2.17</td><td>Where a material portion of the assets are secured on or backed by real property, a valuation report relating to the property setting out both the valuation of the property and cash flow/income streams. Compliance with this disclosure is not required if the issue is of securities backed by mortgage loans with property as security, where there has been no revaluation of the properties for the purpose of the issue, and it is clearly stated that the valuations quoted are as at the date of the original initial mortgage loan origination. </td><td>Category A</td></tr>
+<tr><td>Item 2.3</td><td colspan="2">In respect of an actively managed pool of assets backing the issue:</td></tr>
+<tr><td>Item 2.3.1</td><td>Equivalent information to that contained in items 2.1 and 2.2 to allow an assessment of the type, quality, sufficiency and liquidity of the asset types in the portfolio which will secure the issue.</td><td>See items 2.1 and 2.2</td></tr>
+<tr><td>Item 2.3.2</td><td>The parameters within which investments can be made, the name and description of the entity responsible for such management including a description of that entity’s expertise and experience, a summary of the provisions relating to the termination of the appointment of such entity and the appointment of an alternative management entity and a description of that entity’s relationship with any other parties to the issue.</td><td>Category A</td></tr>
+<tr><td>Item 2.4</td><td>Where an issuer proposes to issue further securities backed by the same assets, a prominent statement to that effect and unless those further securities are fungible with or are subordinated to those classes of existing debt, a description of how the holders of that class will be informed.</td><td>Category C</td></tr>
+<tr><td>SECTION 3</td><td colspan="2">STRUCTURE AND CASH FLOW</td></tr>
+<tr><td>Item 3.1</td><td>Description of the structure of the transaction containing an overview of the transaction and the cash flows, including a structure diagram.</td><td>Category A</td></tr>
+<tr><td>Item 3.2</td><td>Description of the entities participating in the issue and description of the functions to be performed by them in addition to information on the direct and indirect ownership or control between those entities.</td><td>Category A</td></tr>
+<tr><td>Item 3.3</td><td>Description of the method and date of the sale, transfer, novation or assignment of the assets or of any rights and/or obligations in the assets to the issuer or, where applicable, the manner and time period in which the proceeds from the issue will be fully invested by the issuer.</td><td>Category B</td></tr>
+<tr><td>Item 3.4</td><td colspan="2">An explanation of the flow of funds including:</td></tr>
+<tr><td rowspan="2">Item 3.4.1</td><td>(a) how the cash flow from the assets will meet the issuer’s obligations to holders of the securities, including, if necessary:</td><td>Category A</td></tr>
+<tr><td>(b) a financial service table and a description of the assumptions used in developing that table;</td><td>Category C</td></tr>
+<tr><td>Item 3.4.2</td><td>information on any credit enhancements, an indication of where potentially material liquidity shortfalls may occur and the availability of any liquidity supports and indication of provisions designed to cover interest/principal shortfall risks;</td><td>Category B</td></tr>
+<tr><td rowspan="2">Item 3.4.3</td><td>(a) the risk retention requirement applicable to the transaction, where applicable;</td><td>Category A</td></tr>
+<tr><td>(b) the material net economic interest retained by the originator, the sponsor or the original lender (1);</td><td>Category C</td></tr>
+<tr><td>Item 3.4.4</td><td>without prejudice to item 3.4.2, details of any subordinated debt finance;</td><td>Category C</td></tr>
+<tr><td>Item 3.4.5</td><td>an indication of any investment parameters for the investment of temporary liquidity surpluses and description of the parties responsible for such investment;</td><td>Category B</td></tr>
+<tr><td>Item 3.4.6</td><td>how payments are collected in respect of the assets;</td><td>Category A</td></tr>
+<tr><td>Item 3.4.7</td><td>the order of priority of payments made by the issuer to the holders of the class of securities in question;</td><td>Category A</td></tr>
+<tr><td>Item 3.4.8</td><td>details of any other arrangements upon which payments of interest and principal to investors are dependent;</td><td>Category B</td></tr>
+<tr><td>Item 3.5</td><td>the name, address and significant business activities of the originators of the securitised assets.</td><td>Category C</td></tr>
+<tr><td>Item 3.6</td><td>Where the return on, and/or repayment of the security is linked to the performance or credit of other assets or underlyings which are not assets of the issuer, for each such reference asset or underlying furnish one of the following; (a) disclosure in accordance with items 2.2 and 2.3;  (b) where the principal is not at risk, the name of the issuer of the reference asset, the international security identification number (‘ISIN’), and an indication where information about the past and the current performance of the reference asset can be obtained;  (c) where the reference asset is an index, parts 1 and 2 of Annex 17. </td><td>See Annex 17</td></tr>
+<tr><td>Item 3.7</td><td>The name, address and significant business activities of the administrator, calculation agent or equivalent, together with a summary of the administrator’s/calculation agents responsibilities, their relationship with the originator or the creator of the assets and a summary of the provisions relating to the termination of the appointment of the administrator/calculation agent and the appointment of an alternative administrator/calculation agent;</td><td>Category C</td></tr>
+<tr><td rowspan="3">Item 3.8</td><td>The names and addresses and brief description of:</td><td>  </td></tr>
+<tr><td>(a) any swap counterparties and any providers of other material forms of credit/liquidity enhancement;</td><td>Category A</td></tr>
+<tr><td>(b) the banks with which the main accounts relating to the transaction are held.</td><td>Category C</td></tr>
+<tr><td>SECTION 4</td><td colspan="2">POST ISSUANCE REPORTING</td></tr>
+<tr><td>Item 4.1</td><td>An indication in the prospectus of where the issuer is under an obligation to, or where the issuer intends to, provide post-issuance transaction information regarding securities to be admitted to trading and the performance of the underlying collateral. The issuer shall indicate what information will be reported, where such information can be obtained, and the frequency with which such information will be reported.</td><td>Category C</td></tr>
+<tr><td colspan="3">(1)  This may change depending on the final securitisation regulation requirements. </td></tr>
+</tbody>
+</table>
+
+## ANNEX 20
+
+**PRO FORMA INFORMATION**
+
+SECTION 1 CONTENTS OF PRO FORMA FINANCIAL INFORMATION
+
+Item 1.1 The pro forma financial information shall consist of:
+
+(a) an introduction setting out:
+
+(i) the purpose for which the pro forma financial information has been prepared, including a description of the transaction or significant commitment and the businesses or entities involved;
+
+(ii) the period or date covered by the pro forma financial information;
+
+(iii) the fact that the pro forma financial information has been prepared for illustrative purposes only;
+
+(iv) an explanation that:
+
+(i) the pro forma financial information illustrates the impact of the transaction as if the transaction had been undertaken at an earlier date;
+
+(ii) the hypothetical financial position or results included in the pro forma financial information may differ from the entity’s actual financial position or results;
+
+(b) a profit and loss account, a balance sheet or both, depending on the circumstances presented in a columnar format composed of:
+
+(i) historical unadjusted information;
+
+(ii) accounting policy adjustments, where necessary;
+
+(iii) pro forma adjustments;
+
+(iv) the results of the pro forma financial information in the final column;
+
+(c) accompanying notes explaining:
+
+(i) the sources from which the unadjusted financial information has been extracted and whether or not an audit or review report on the source has been published;
+
+(ii) the basis upon which the pro forma financial information is prepared;
+
+(iii) source and explanation for each adjustment;
+
+(iv) whether each adjustment in respect of a pro forma profit and loss statement is expected to have a continuing impact on the issuer or not;
+
+(d) where applicable, the financial information and interim financial information of the (or to be) acquired businesses or entities used in the preparation of the pro forma financial information must be included in the prospectus.
+
+SECTION 2 PRINCIPLES IN PREPARING AND PRESENTING PRO FORMA FINANCIAL INFORMATION
+
+Item 2.1 The pro forma financial information shall be identified as such in order to distinguish it from historical financial information.
+
+The pro forma financial information must be prepared in a manner consistent with the accounting policies adopted by the issuer in its last or next financial statements.
+
+Item 2.2 Pro forma information may only be published in respect of:
+
+(a) the last completed financial period; and/or
+
+(b) the most recent interim period for which relevant unadjusted information has been published or are included in the registration document/prospectus.
+
+Item 2.3 Pro forma adjustments must comply with the following:
+
+(a) be clearly shown and explained;
+
+(b) present all significant effects directly attributable to the transaction;
+
+(c) be factually supportable.
+
+SECTION 3 REQUIREMENTS FOR AN ACCOUNTANT/AUDIT REPORT
+
+The prospectus shall include a report prepared by the independent accountants or auditors stating that in their opinion:
+
+(a) the pro forma financial information has been properly compiled on the basis stated;
+
+(b) that the basis referred to in (a) is consistent with the accounting policies of the issuer.
+
+## ANNEX 21
+
+**GUARANTEES**
+
+SECTION 1 NATURE OF THE GUARANTEE
+
+A description of any arrangement intended to ensure that any obligation material to the issue will be duly serviced, whether in the form of guarantee, surety, Keep well Agreement, Mono-line Insurance policy or other equivalent commitment (‘guarantees’) and their provider (‘guarantor’).
+
+Such arrangements encompass commitments, including those under conditions, to ensure that the obligations to repay non-equity securities and/or the payment of interest are fulfilled and their description shall set out how the arrangement is intended to ensure that the guaranteed payments will be duly serviced.
+
+SECTION 2 SCOPE OF THE GUARANTEE
+
+Details shall be disclosed about the terms and conditions and scope of the guarantee. These details should cover any conditionality on the application of the guarantee in the event of any default under the terms of the security and the material terms of any Mono-line Insurance or Keep well Agreement between the issuer and the guarantor. Details must also be disclosed of any guarantor’s power of veto in relation to changes to the security holder’s rights, such as is often found in Mono-line Insurance.
+
+SECTION 3 INFORMATION TO BE DISCLOSED ABOUT THE GUARANTOR
+
+The guarantor must disclose information about itself as if it were the issuer of that same type of security that is the subject of the guarantee.
+
+SECTION 4 DOCUMENTS AVAILABLE
+
+Indication of the website where the public may have access to the material contracts and other documents relating to the guarantee.
+
+## ANNEX 22
+
+**CONSENT**
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="2">INFORMATION TO BE PROVIDED REGARDING CONSENT BY THE ISSUER OR PERSON RESPONSIBLE FOR DRAWING UP THE PROSPECTUS</td></tr>
+<tr><td>Item 1.1</td><td>Express consent by the issuer or person responsible for drawing up the prospectus to the use of the prospectus and a statement that such person accepts responsibility for the content of the prospectus also with respect to the subsequent resale or final placement of securities by any financial intermediary which was given consent to use the prospectus.</td><td>Category A</td></tr>
+<tr><td>Item 1.2</td><td>Indication of the period for which consent to use the prospectus is given.</td><td>Category A</td></tr>
+<tr><td>Item 1.3</td><td>Indication of the offer period upon which subsequent resale or final placement of the securities by financial intermediaries can be made.</td><td>Category C</td></tr>
+<tr><td>Item 1.4</td><td>Indication of the Member States in which the financial intermediaries may use the prospectus for subsequent resale or final placement of the securities.</td><td>Category A</td></tr>
+<tr><td>Item 1.5</td><td>Any other clear and objective conditions attached to the consent which are relevant for the use of the prospectus.</td><td>Category C</td></tr>
+<tr><td>Item 1.6</td><td>Notice in bold informing investors that, in the event of an offer being made by a financial intermediary, the financial intermediary will provide information to investors on the terms and conditions of the offer at the time the offer is made.</td><td>Category A</td></tr>
+<tr><td>SECTION 2A</td><td colspan="2">ADDITIONAL INFORMATION TO BE PROVIDED WHERE CONSENT IS GIVEN TO ONE OR MORE SPECIFIED FINANCIAL INTERMEDIARIES</td></tr>
+<tr><td>Item 2A.1</td><td>List and identify (name and address) the financial intermediary or intermediaries that are allowed to use the prospectus.</td><td>Category C</td></tr>
+<tr><td>Item 2A.2</td><td>Indication of how any new information with respect to the financial intermediaries, unknown at the time of the approval of the prospectus, the base prospectus or the filing of the final terms, as the case may be, is to be published and where it can be found.</td><td>Category A</td></tr>
+<tr><td>SECTION 2B</td><td colspan="2">ADDITIONAL INFORMATION TO BE PROVIDED WHERE CONSENT IS GIVEN TO ALL FINANCIAL INTERMEDIARIES</td></tr>
+<tr><td>Item 2B.1</td><td>Notice in bold informing investors that any financial intermediary using the prospectus has to state on its website that it uses the prospectus in accordance with the consent and the conditions attached thereto.</td><td>Category A</td></tr>
+</tbody>
+</table>
+
+## ANNEX 28
+
+**LIST OF ADDITIONAL INFORMATION IN THE FINAL TERMS**
+
+1\. Example(s) relating to complex derivative securities to explain how the value of the investment is affected by the value of the underlying and the nature of those securities.
+
+2\. Additional provisions, not required by the relevant securities note annex, which relate to the underlying.
+
+3\. Country(ies) where the offer((s) to the public takes place.
+
+4\. Country(ies) where admission to trading on the regulated market(s) is being sought.
+
+5\. Country(ies) where the relevant base prospectus has been notified.
+
+6\. ECB eligibility.
+
+7\. Series number.
+
+8\. Tranche number.
+
+## ANNEX 29
+
+**LIST OF SPECIALIST ISSUERS**
+
+(a) Property companies;
+
+(b) Mineral companies;
+
+(c) Investment companies;
+
+(d) Scientific research based companies;
+
+(e) Start-up companies;
+
+(f) Shipping companies.
+
+## ANNEX 30 — EU FOLLOW-ON PROSPECTUS FOR EQUITY SECURITIES
+
+SECTION 1 SUMMARY
+
+Item 1.1 A summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129.
+
+SECTION 2 RISK FACTORS
+
+Item 2.1 A description of the material risks, in a limited number of categories, that are specific to the issuer and a description of the material risks, in a limited number of categories, that are specific to the securities being offered to the public and/or admitted to trading on a regulated market, in a section headed ‘Risk Factors’.
+
+The risks shall be corroborated by the content of the EU Follow-on prospectus.
+
+SECTION 3 INFORMATION ABOUT THE ISSUER
+
+Item 3.1 Identify the company issuing securities, including:
+
+(a) its legal entity identifier (LEI);
+
+(b) its legal and commercial name;
+
+(c) its country of incorporation;
+
+(d) the website where investors can find information on the company’s business operations, the products it makes or the services it provides, the principal markets where it operates, its major shareholders, the composition of its administrative, management and supervisory bodies and of its senior management and, where applicable, information incorporated by reference;
+
+(e) a disclaimer that the information on the website does not form part of the EU Follow-on prospectus unless that information is incorporated by reference into the EU Follow-on prospectus.
+
+SECTION 4 RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY
+
+Item 4.1 Responsibility statement
+
+Item 4.1.1 Identify the persons responsible for the information set out in the EU Follow-on prospectus and include a statement by those responsible for the EU Follow-on prospectus that, to the best of their knowledge, the information contained in the EU Follow-on prospectus is in accordance with the facts and that the EU Follow-on prospectus makes no omission likely to affect its import.
+
+In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office.
+
+Item 4.1.2 Where a statement or report attributed to a person as an expert is included in the EU Follow-on prospectus, provide the following details for that person:
+
+(a) name;
+
+(b) business address;
+
+(c) qualifications; and
+
+(d) material interest (if any) in the issuer.
+
+Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d).
+
+Item 4.2 Statement on the competent authority
+
+Item 4.2.1 The statement shall:
+
+(a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Follow-on prospectus;
+
+(b) specify that such approval does not constitute an endorsement of the issuer or of the quality of the securities to which the EU Follow-on prospectus relates;
+
+(c) specify that the competent authority has only approved the EU Follow-on prospectus as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and
+
+(d) specify that the EU Follow-on prospectus has been drawn up in accordance with Article 14a of Regulation (EU) 2017/1129.
+
+SECTION 5 FINANCIAL INFORMATION
+
+Item 5.1 Financial statements
+
+Item 5.1.1 Financial statements (annual and half-yearly) that are required to be published covering the period of 12 months prior to the approval of the EU Follow-on prospectus.
+
+Where both annual and half-yearly financial statements have been published, only the annual statements shall be required where they postdate the half-yearly financial statements.
+
+Item 5.2 Auditing of financial information
+
+Item 5.2.1 The annual financial statements shall be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014.
+
+Item 5.2.2 Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the annual financial statements shall be audited or reported on as to whether or not, for the purposes of the EU Follow-on prospectus, they give a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information shall be included in the EU Follow-on prospectus:
+
+(a) a prominent statement disclosing which auditing standards have been applied;
+
+(b) an explanation of any significant departures from the International Standards on Auditing.
+
+Item 5.2.3 Where audit reports on the annual financial statements have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason shall be given, and such qualifications, modifications, disclaimers or emphasis of matter shall be reproduced in full.
+
+Item 5.3 Significant change in the issuer’s financial position
+
+Item 5.3.1 A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published shall also be included, or an appropriate negative statement shall be included.
+
+Item 5.4 Pro forma financial information
+
+Item 5.4.1 In the case of a significant gross change as referred to in Article 1(e) of this Regulation, a description of how the transaction might have affected assets, liabilities and earnings of the issuer, had the transaction been undertaken at the commencement of the period being reported on or at the date reported.
+
+This requirement will normally be satisfied by the inclusion of pro forma financial information. This pro forma financial information shall be presented as set out in Annex 20 and shall include the information indicated therein.
+
+Pro forma financial information shall be accompanied by a report prepared by independent accountants or auditors.
+
+SECTION 6 DIVIDEND POLICY
+
+Item 6.1 A description of the issuer’s policy on dividend distributions and any current restrictions thereon, as well as on share repurchases.
+
+SECTION 7 TREND INFORMATION
+
+Item 7.1 A description of:
+
+(a) the most significant recent trends in production, sales and inventory, and costs and selling prices since the end of the last financial year to the date of the EU Follow-on prospectus, including any events reasonably likely to have a material effect on the issuer’s prospects for at least the current financial year;
+
+(b) information on the issuer’s short and long-term financial and non-financial business strategy and objectives.
+
+If there is no significant change since the last financial year in the trends referred to in point (a) of this section, a statement to that effect is to be made. Other negative statements may be provided where appropriate.
+
+The information referred to in points (a) and (b) may be provided solely on a qualitative basis. Quantitative forecasts are not required.
+
+SECTION 8 PROFIT FORECASTS AND ESTIMATES
+
+Item 8.1 Where an issuer has published a profit forecast or a profit estimate that remains outstanding and valid, that forecast or estimate shall be included in the EU Follow-on prospectus.
+
+Item 8.2 If a profit forecast or profit estimate has been published and remains outstanding, but is no longer valid, a statement to that effect shall be provided along with an explanation as to why such forecast or estimate is no longer valid.
+
+SECTION 9 DETAILS OF THE OFFER OR ADMISSION TO TRADING
+
+Item 9.1 Terms and conditions of the offer
+
+Item 9.1.1 Total amount of the issue or offer distinguishing between the securities offered for sale and those offered for subscription, the conditions to which the offer is subject, expected timetable, action required to apply for the offer, and the procedure for the exercise of any right of pre-emption.
+
+If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer.
+
+Item 9.1.2 Provide information regarding:
+
+(a) where investors may subscribe for the securities or exercise their right of pre-emption, including the negotiability of subscription rights and the treatment of subscription rights not exercised;
+
+(b) the method and time limits for paying up the securities and for delivery of the securities;
+
+(c) the duration of the offer period, including any possible amendments thereto;
+
+(d) an indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription; and
+
+(e) a description of the application process together with the issue date of new securities.
+
+Item 9.2 Plan of distribution and allotment
+
+Item 9.2.1 Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.
+
+Item 9.2.2 To the extent known to the issuer, provide information on whether major shareholders or members of the issuer’s management, supervisory or administrative bodies intend to subscribe for the offer, or whether any person intends to subscribe for more than 5 % of the offer.
+
+Item 9.3 Pricing
+
+Item 9.3.1 An indication of the price at which the securities will be offered.
+
+If the price is not known, an indication of the maximum price or a description of the method for determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129 and the process for its disclosure.
+
+Item 9.4 Placing and underwriting
+
+Item 9.4.1 Present any firm commitments to subscribe for more than 5 % of the offer and all material features of the underwriting and placement agreements.
+
+Include the name and address of the entities agreeing to underwrite or place the issue on a firm commitment basis or under ‘best efforts’ arrangements. Indication of the material features of the agreements, including the quotas, as well as the name and address of coordinators of the offer. Where not all of the issue is underwritten, a statement of the portion not covered.
+
+Indication of the overall amount of the underwriting commission and of the placing commission.
+
+Item 9.5 Admission to trading
+
+Item 9.5.1 An indication as to whether the securities offered are or will be the object of an application for admission to trading on a regulated market, an SME Growth Market or an MTF, with a view to their distribution in a regulated market, an SME Growth Market or an MTF with an indication of the markets in question. This circumstance shall be set out, without creating the impression that the admission to trading will necessarily be approved.
+
+If known, the earliest dates on which the securities will be admitted to trading.
+
+Item 9.5.2 Name and address of paying agents and depository agents in each country.
+
+SECTION 10 ESSENTIAL INFORMATION ON THE SECURITIES
+
+Item 10.1 Terms and condition of the securities
+
+Item 10.1.1 A description of the type and class of the securities being offered to the public or admitted to trading on a regulated market, including the international security identification number (‘ISIN’).
+
+Item 10.1.2 Legislation under which the securities have been created.
+
+Item 10.1.3 Currency of the securities issue.
+
+Item 10.1.4 A description of the rights attached to the securities, including any limitations of those rights, and the procedure for the exercise of those rights:
+
+(a) dividend rights:
+
+(i) fixed date(s) on which the entitlement arises;
+
+(ii) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;
+
+(iii) dividend restrictions and procedures for non-resident holders;
+
+(iv) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments;
+
+(b) voting rights;
+
+(c) pre-emption rights in offers for subscription of securities of the same class;
+
+(d) right to share in the issuer’s profits;
+
+(e) right to share in any surplus in the event of liquidation;
+
+(f) redemption provisions;
+
+(g) conversion provisions.
+
+Item 10.1.5 A description of any restrictions on the transferability of the securities.
+
+Item 10.1.6 A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities.
+
+Item 10.1.7 Where applicable, information on the underlying securities and, where applicable, on the issuer of the underlying securities in accordance with Section 3 of Chapter II of this Regulation.
+
+Item 10.1.8 Where applicable, for depository receipts issued over shares, information in accordance with Section 1 of Annex 5 and section 1 of Annex 13 to this Regulation.
+
+Item 10.1.9 If different from the issuer, the identity and contact details of the offeror of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.
+
+Item 10.1.10 Where applicable, the potential impact on the investment in the event of resolution under Directive 2014/59/EU.
+
+Item 10.1.11 In the case of new issues, provide a statement of the resolutions, authorisations and approvals by virtue of which the securities have been or will be created or issued.
+
+SECTION 10A UNITS OF CLOSED-END COLLECTIVE INVESTMENT UNDERTAKINGS (Where applicable)
+
+Item 10a.1 Where applicable, for units of closed-end collective investment undertakings, information in accordance with Annex 4.
+
+SECTION 11 REASONS FOR THE OFFER AND USE OF PROCEEDS
+
+Item 11.1 Provide information on the reasons for the offer to the public and/or the admission to trading and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses.
+
+Item 11.2 Where the issuer is aware that the anticipated proceeds will not be sufficient to fund all proposed uses, state the amount and sources of other funds needed. Details shall also be given with regard to the use of the proceeds, in particular where proceeds are being used to acquire assets, other than in the ordinary course of business, to finance announced acquisitions of other business, or to discharge, reduce or retire indebtedness.
+
+SECTION 12 LOCK-UP AGREEMENTS
+
+Item 12.1 In relation to lock-up agreements, provide details on the following:
+
+(a) the parties involved;
+
+(b) the content and exceptions of the agreement; and
+
+(c) an indication of the period of the lock-up.
+
+SECTION 13 WORKING CAPITAL STATEMENT
+
+Item 13.1 Statement by the issuer that, in its opinion, the working capital is sufficient for the issuer’s present requirements or, if not, how the issuer proposes to provide the additional working capital needed.
+
+SECTION 14 CONFLICTS OF INTEREST
+
+Item 14.1 Provide information about any interests related to the issuance, including material conflicts of interest pertaining to the issue/offer, and details of the persons involved and the nature of the interests.
+
+SECTION 15 DILUTION AND SHAREHOLDING AFTER THE ISSUANCE
+
+Item 15.1 Present a comparison of participation in share capital and voting rights for existing shareholders before and after the capital increase resulting from the public offer, with the assumption that existing shareholders do not subscribe for the new securities and, separately, with the assumption that existing shareholders do take up their entitlement.
+
+SECTION 16 DOCUMENTS AVAILABLE
+
+Item 16.1 A statement that for the term of the EU Follow-on prospectus the following documents, where applicable, can be inspected:
+
+(a) the up-to-date memorandum and articles of association of the issuer;
+
+(b) all reports, letters, and other documents, valuations and statements prepared by an expert at the issuer’s request any part of which is included or referred to in the EU Follow-on prospectus.
+
+Item 16.2 An indication of the website on which the documents may be inspected.
+
+## ANNEX 31 — EU FOLLOW-ON PROSPECTUS FOR NON-EQUITY SECURITIES
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="4">SUMMARY</td></tr>
+<tr><td>Item 1 (Retail-specific) </td><td colspan="4">A summary, where required by Article 7(1) of Regulation (EU) 2017/1129, drawn up in accordance with Article 7(12a) of that Regulation.</td></tr>
+<tr><td>SECTION 2</td><td colspan="4">RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td colspan="4">A description of the material risks, in a limited number of categories, that are specific to the issuer, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Follow-on prospectus. </td></tr>
+<tr><td>Item 2.2</td><td colspan="3">A description of the material risks, in a limited number of categories, that are specific to the securities being offered to the public and/or admitted to trading on a regulated market, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Follow-on prospectus. </td><td>Category A</td></tr>
+<tr><td>SECTION 3</td><td colspan="4">INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 3.1</td><td colspan="4">Identify the company issuing the securities, including: (a) its legal entity identifier (LEI);  (b) its legal and commercial name;  (c) its country of incorporation;  (d) the website where investors can find information on the company’s business operations, the products it makes or the services it provides, the principal markets where it operates, its major shareholders, the composition of its administrative, management and supervisory bodies and of its senior management and, where applicable, information incorporated by reference;  (e) a disclaimer that the information on the website does not form part of the EU Follow-on prospectus unless that information is incorporated by reference into the EU Follow-on prospectus. </td></tr>
+<tr><td>SECTION 4</td><td colspan="4">RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY</td></tr>
+<tr><td>Item 4.1</td><td colspan="4">Responsibility statement</td></tr>
+<tr><td>Item 4.1.1</td><td colspan="2">Identify the persons responsible for the information set out in the EU Follow-on prospectus and include a statement by those responsible for the EU Follow-on prospectus that, to the best of their knowledge, the information contained in the EU Follow-on prospectus is in accordance with the facts and that the EU Follow-on prospectus makes no omission likely to affect its import. In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office. </td><td colspan="2">Category A</td></tr>
+<tr><td>Item 4.1.2</td><td colspan="2">Where a statement or report attributed to a person as an expert, is included in the EU Follow-on prospectus, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications; and  (d) material interest (if any) in the issuer.  Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d). </td><td colspan="2">Category A</td></tr>
+<tr><td>Item 4.2</td><td colspan="4">Statement on the competent authority</td></tr>
+<tr><td>Item 4.2.1</td><td colspan="2">The statement shall: (a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Follow-on prospectus;  (b) specify that such approval does not constitute an endorsement of the issuer or of the quality of the securities to which the EU Follow-on prospectus relates;  (c) specify that the competent authority has only approved the EU Follow-on prospectus as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and  (d) specify that the EU Follow-on prospectus has been drawn up in accordance with Article 14a of Regulation (EU) 2017/1129. </td><td colspan="2">Category A</td></tr>
+<tr><td>SECTION 5</td><td colspan="4">FINANCIAL INFORMATION</td></tr>
+<tr><td>Item 5.1</td><td colspan="4">Financial statements</td></tr>
+<tr><td>Item 5.1.1 (Retail-specific) </td><td colspan="4">Financial statements (annual and half-yearly) that are required to be published covering the period of 12 months prior to the approval of the EU Follow-on prospectus. Where both annual and half-yearly financial statements have been published, only the annual statements shall be required where they postdate the half-yearly financial statements. </td></tr>
+<tr><td>Item 5.1.2 (Wholesale-specific) </td><td colspan="4">Annual financial statements that are required to be published covering the period of 12 months prior to the approval of the EU Follow-on prospectus.</td></tr>
+<tr><td>Item 5.2</td><td colspan="4">Auditing of financial information</td></tr>
+<tr><td>Item 5.2.1</td><td colspan="4">The annual financial statements shall be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014.</td></tr>
+<tr><td>Item 5.2.2</td><td colspan="4">Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the annual financial statements shall be audited or reported on as to whether or not, for the purposes of the EU Follow-on prospectus, they give a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information shall be included in the EU Follow-on prospectus: (a) a prominent statement disclosing which auditing standards have been applied;  (b) an explanation of any significant departures from the International Standards on Auditing. </td></tr>
+<tr><td>Item 5.2.3</td><td colspan="4">Where audit reports on the annual financial statements have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason shall be given, and such qualifications, modifications, disclaimers or emphasis of matter shall be reproduced in full.</td></tr>
+<tr><td>Item 5.3</td><td colspan="4">Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 5.3.1</td><td colspan="4">A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published shall also be included, or an appropriate negative statement shall be included.</td></tr>
+<tr><td>SECTION 6</td><td colspan="4">TREND INFORMATION</td></tr>
+<tr><td>Item 6.1</td><td colspan="4">A description of: (a) any material adverse change in the prospects of the issuer since the date of its last published audited financial statements;  (b) any significant change in the financial performance of the group since the end of the last financial period for which financial information has been published to the date of the registration document.  If there is no significant change in either of the trends referred to in point (a) or (b) of this section, a statement to that effect is to be made. Other negative statements may be provided where appropriate.  The information referred to in points (a) and (b) may be provided solely on a qualitative basis. Quantitative forecasts are not required. </td></tr>
+<tr><td>SECTION 7</td><td colspan="4">DETAILS OF THE OFFER OR ADMISSION TO TRADING</td></tr>
+<tr><td>Item 7.1</td><td colspan="4">Terms and conditions of the offer (Retail-specific)</td></tr>
+<tr><td>Item 7.1.1 (Retail-specific) </td><td colspan="2">The conditions to which the offer is subject, expected timetable, action required to apply for the offer, and the procedure for the exercise of any right of pre-emption. Total amount of the securities offered to the public. If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.1.2 (Retail-specific) </td><td colspan="2">Provide information regarding: (a) where investors may subscribe for the securities, including the negotiability of subscription rights and the treatment of subscription rights not exercised;  (b) the method and time limits for paying up the securities and for delivery of the securities;  (c) the duration of the offer period, including any possible amendments thereto;  (d) an indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription; and  (e) a description of the application process together with the issue date of new securities. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.2</td><td colspan="4">Plan of distribution and allotment (Retail-specific)</td></tr>
+<tr><td>Item 7.2.1 (Retail-specific) </td><td colspan="2">Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.3</td><td colspan="4">Pricing (Retail-specific)</td></tr>
+<tr><td>Item 7.3.1 (Retail-specific) </td><td colspan="2">An indication of the expected price at which the securities will be offered.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.3.2 (Retail-specific) </td><td colspan="2">If the price is not known, a description of the method for determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129 and the process for its disclosure.</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 7.3</td><td colspan="4">Placing and underwriting (Retail-specific)</td></tr>
+<tr><td>Item 7.3.1 (Retail-specific) </td><td colspan="2">Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under ‘best efforts’ arrangements. Where not all of the issue is underwritten, a statement of the portion not covered. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.3.2 (Retail-specific) </td><td colspan="2">Indication of the overall amount of the underwriting commission and of the placing commission.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.4</td><td colspan="4">Admission to trading</td></tr>
+<tr><td>Item 7.4.1</td><td colspan="2">Total amount of securities being admitted to trading.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.4.2</td><td colspan="2">Where applicable, indicate the regulated market, the SME growth market or the MTF where the securities are to be admitted to trading and, if known, the earliest dates on which the securities will be admitted to trading.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 7.4.3</td><td colspan="2">Name and address of paying agents and depository agents in each country.</td><td colspan="2">Category C</td></tr>
+<tr><td>SECTION 8</td><td colspan="4">ESSENTIAL INFORMATION ON THE SECURITIES</td></tr>
+<tr><td>Item 8.1</td><td colspan="4">Terms and conditions of the securities</td></tr>
+<tr><td>Item 8.1.1</td><td colspan="2">A description of the type and class of the securities.</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 8.1.2</td><td colspan="2">The international security identification number (ISIN).</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 8.1.3</td><td colspan="2">Legislation under which the securities have been created.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 8.1.4</td><td colspan="2">Currency of the security issue.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 8.1.5</td><td colspan="2">The relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 8.1.6</td><td colspan="2">A description of the rights attached to the securities, including any limitations of those rights, and the procedure for the exercise of those rights.</td><td colspan="2">Category B</td></tr>
+<tr><td rowspan="12">Item 8.1.7</td><td colspan="2">(a) The nominal interest rate;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(b) the provisions relating to interest payable;</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="2">(c) the date from which interest becomes payable;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(d) the due dates for interest;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(e) the time limit on the validity of claims to interest and repayment of principal.</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="4">Where the rate is not fixed:</td></tr>
+<tr><td colspan="2">(a) a statement setting out the type of underlying;</td><td colspan="2">Category A</td></tr>
+<tr><td colspan="2">(b) a description of the underlying on which the rate is based;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(c) a description of the method used to relate the rate with the underlying;</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="2">(d) any adjustment rules with relation to events concerning the underlying;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(e) the name of the calculation agent;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(f) if the security has a derivative component in the interest payment, an explanation to help investors understand how the value of their investment is affected by the value of the underlying instrument(s) (Retail-specific).</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 8.1.8</td><td colspan="2">Maturity date.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 8.1.9</td><td colspan="2">An indication of yield.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 8.1.10</td><td colspan="2">A description of any restrictions on the transferability of the securities.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 8.1.11 (Retail-specific) </td><td colspan="2">A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 8.1.12</td><td colspan="4">Where applicable, information on the underlying securities and, where applicable, on the issuer of the underlying securities in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>Item 8.1.13</td><td colspan="2">If different from the issuer, the identity and contact details of the offeror of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td><td colspan="2">Category C</td></tr>
+<tr><td>SECTION 9</td><td colspan="4">REASONS FOR THE OFFER / EXPENSES OF THE ADMISSION TO TRADING, USE OF PROCEEDS AND, WHERE APPLICABLE, ESG-RELATED INFORMATION</td></tr>
+<tr><td>Item 9.1 (Retail-specific) </td><td colspan="2">Provide information on the reasons for the offer to the public and/or for the admission to trading and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses. Where the issuer is aware that the anticipated proceeds will not be sufficient to fund all proposed uses, it shall state the amount and sources of other funds needed. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.2 (Wholesale-specific) </td><td colspan="2">The use and estimated net amount of the proceeds.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.3 (Wholesale-specific) </td><td colspan="2">An estimate of the total expenses related to the admission to trading.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.4</td><td colspan="4">Where applicable, ESG-related information in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>SECTION 10</td><td colspan="4">CONFLICTS OF INTEREST</td></tr>
+<tr><td>Item 10.1</td><td>Provide information about any interests related to the issuance, including material conflicts of interest pertaining to the issue/offer, and details of the persons involved and the nature of the interests.</td><td colspan="3">Category C</td></tr>
+<tr><td>SECTION 11</td><td colspan="4">DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 11.1</td><td colspan="4">A statement that for the term of the EU Follow-on prospectus the following documents, where applicable, can be inspected: (a) the up-to-date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by an expert at the issuer’s request any part of which is included or referred to in the EU Follow-on prospectus. </td></tr>
+<tr><td>Item 11.2</td><td colspan="4">An indication of the website on which the documents may be inspected.</td></tr>
+</tbody>
+</table>
+
+## ANNEX 32 — EU FOLLOW-ON REGISTRATION DOCUMENT FOR NON-EQUITY SECURITIES
+
+| SECTION 1 | RISK FACTORS |
+| --- | --- |
+| Item 1.1 | A description of the material risks, in a limited number of categories, that are specific to the issuer, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Follow-on registration document. |
+| SECTION 2 | INFORMATION ABOUT THE ISSUER |
+| Item 2.1 | Identify the company issuing the securities, including: (a) its legal entity identifier (LEI); (b) its legal and commercial name; (c) its country of incorporation; (d) the website where investors can find information on the company’s business operations, the products it makes or the services it provides, the principal markets where it operates, its major shareholders, the composition of its administrative, management and supervisory bodies and of its senior management and, where applicable, information incorporated by reference; (e) a disclaimer that the information on the website does not form part of the EU Follow-on prospectus unless that information is incorporated by reference into the EU Follow-on prospectus. |
+| SECTION 3 | RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY |
+| Item 3.1 | Responsibility statement |
+| Item 3.1.1 | Identify the persons responsible for the information set out in the EU Follow-on registration document and include a statement by those responsible for the EU Follow-on registration document that, to the best of their knowledge, the information contained in the EU Follow-on registration document is in accordance with the facts and that the EU Follow-on registration document makes no omission likely to affect its import. In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office. |
+| Item 3.1.2 | Where a statement or report attributed to a person as an expert, is included in the EU Follow-on registration document, provide the following details for that person: (a) name; (b) business address; (c) qualifications; and (d) material interest (if any) in the issuer. Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d). |
+| Item 3.2 | Statement on the competent authority |
+| Item 3.2.1 | The statement shall: (a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Follow-on registration document; (b) specify that such approval does not constitute an endorsement of the issuer to which the EU Follow-on registration document relates; (c) specify that the competent authority has only approved the EU Follow-on registration document as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and (d) specify that the EU Follow-on registration document has been drawn up in accordance with Article 14a of Regulation (EU) 2017/1129. |
+| SECTION 4 | FINANCIAL INFORMATION |
+| Item 4.1 | Financial statements |
+| Item 4.1.1 (Retail-specific) | Financial statements (annual and half-yearly) that are required to be published covering the period of 12 months prior to the approval of the EU Follow-on prospectus. Where both annual and half-yearly financial statements have been published, only the annual statements shall be required where they postdate the half-yearly financial statements. |
+| Item 4.1.2 (Wholesale-specific) | Annual financial statements that are required to be published covering the period of 12 months prior to the approval of the EU Follow-on prospectus. |
+| Item 4.2 | Auditing of financial information |
+| Item 4.2.1 | The annual financial statements shall be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014. |
+| Item 4.2.2 | Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the annual financial statements shall be audited or reported on as to whether or not, for the purposes of the EU Follow-on registration document, they give a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information shall be included in the EU Follow-on registration document: (a) a prominent statement disclosing which auditing standards have been applied; (b) an explanation of any significant departures from the International Standards on Auditing. |
+| Item 4.2.3 | Where audit reports on the annual financial statements have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason shall be given, and such qualifications, modifications, disclaimers or emphasis of matter shall be reproduced in full. |
+| Item 4.3 | Significant change in the issuer’s financial position |
+| Item 4.3.1 | A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published shall also be included, or an appropriate negative statement shall be included. |
+| SECTION 5 | TREND INFORMATION |
+| Item 5.1 | A description of: (a) any material adverse change in the prospects of the issuer since the date of its last published audited financial statements; (b) any significant change in the financial performance of the group since the end of the last financial period for which financial information has been published to the date of the registration document. If there is no significant change in either of the trends referred to in point (a) or (b) of this section, a statement to that effect is to be made. Other negative statements may be provided where appropriate. The information referred to in points (a) and (b) may be provided solely on a qualitative basis. Quantitative forecasts are not required. |
+| SECTION 6 | DOCUMENTS AVAILABLE |
+| Item 6.1 | A statement that for the term of the EU Follow-on registration document the following documents, where applicable, can be inspected: (a) the up-to-date memorandum and articles of association of the issuer; (b) all reports, letters, and other documents, valuations and statements prepared by an expert at the issuer’s request any part of which is included or referred to in the EU Follow-on registration document. |
+| Item 6.2 | An indication of the website on which the documents may be inspected. |
+
+## ANNEX 33 — EU FOLLOW-ON SECURITIES NOTE FOR NON-EQUITY SECURITIES
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="3">RISK FACTORS</td></tr>
+<tr><td>Item 1.1</td><td colspan="2">A description of the material risks, in a limited number of categories, that are specific to the securities being offered to the public and/or admitted to trading on a regulated market, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Follow-on securities note. </td><td>Category A</td></tr>
+<tr><td>SECTION 2</td><td colspan="3">RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY</td></tr>
+<tr><td>Item 2.1</td><td colspan="3">Responsibility statement</td></tr>
+<tr><td>Item 2.1.1</td><td colspan="2">Identify the persons responsible for the information set out in the EU Follow-on securities note and include a statement by those responsible for the EU Follow-on securities note that, to the best of their knowledge, the information contained in the EU Follow-on securities note is in accordance with the facts and that the EU Follow-on securities note makes no omission likely to affect its import. In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office. </td><td>Category A</td></tr>
+<tr><td>Item 2.1.2</td><td colspan="2">Where a statement or report attributed to a person as an expert, is included in the EU Follow-on securities note, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications; and  (d) material interest (if any) in the issuer.  Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d). </td><td>Category A</td></tr>
+<tr><td>Item 2.2</td><td colspan="3">Statement on the competent authority</td></tr>
+<tr><td>Item 2.2.1</td><td colspan="2">The statement shall: (a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Follow-on securities note;  (b) specify that such approval does not constitute an endorsement of the issuer or of the quality of the securities to which the EU Follow-on securities note relates;  (c) specify that the competent authority has only approved the EU Follow-on securities note as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and  (d) specify that the EU Follow-on securities note has been drawn up in accordance with Article 14a of Regulation (EU) 2017/1129. </td><td>Category A</td></tr>
+<tr><td>SECTION 3</td><td colspan="3">DETAILS OF THE OFFER OR ADMISSION TO TRADING</td></tr>
+<tr><td>Item 3.1</td><td colspan="3">Terms and conditions of the offer (Retail-specific)</td></tr>
+<tr><td>Item 3.1.1 (Retail-specific) </td><td colspan="2">The conditions to which the offer is subject, expected timetable, action required to apply for the offer, and the procedure for the exercise of any right of pre-emption. The total amount of the securities offered to the public. If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. </td><td>Category C</td></tr>
+<tr><td>Item 3.1.2 (Retail-specific) </td><td colspan="2">Provide information regarding: (a) where investors may subscribe for the securities, including the negotiability of subscription rights and the treatment of subscription rights not exercised;  (b) the method and time limits for paying up the securities and for delivery of the securities;  (c) the duration of the offer period, including any possible amendments thereto;  (d) an indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription; and  (e) a description of the application process together with the issue date of new securities. </td><td>Category C</td></tr>
+<tr><td>Item 3.2</td><td colspan="3">Plan of distribution and allotment (Retail-specific)</td></tr>
+<tr><td>Item 3.2.1 (Retail-specific) </td><td colspan="2">Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td><td>Category C</td></tr>
+<tr><td>Item 3.3</td><td colspan="3">Pricing (Retail-specific)</td></tr>
+<tr><td>Item 3.3.1 (Retail-specific) </td><td colspan="2">An indication of the expected price at which the securities will be offered.</td><td>Category C</td></tr>
+<tr><td>Item 3.3.2 (Retail-specific) </td><td colspan="2">If the price is not known, a description of the method for determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129 and the process for its disclosure.</td><td>Category B</td></tr>
+<tr><td>Item 3.4</td><td colspan="3">Placing and underwriting (Retail-specific)</td></tr>
+<tr><td>Item 3.4.1 (Retail-specific) </td><td colspan="2">Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under ‘best efforts’ arrangements. Where not all of the issue is underwritten, a statement of the portion not covered. </td><td>Category C</td></tr>
+<tr><td>Item 3.4.3 (Retail-specific) </td><td colspan="2">Indication of the overall amount of the underwriting commission and of the placing commission.</td><td>Category C</td></tr>
+<tr><td>Item 3.5</td><td colspan="3">Admission to trading</td></tr>
+<tr><td>Item 3.5.1</td><td colspan="2">Total amount of securities being admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 3.5.2</td><td colspan="2">Where applicable, indicate the regulated market, the SME growth market or the MTF where the securities are to be admitted to trading and, if known, the earliest dates on which the securities will be admitted to trading.</td><td>Category C</td></tr>
+<tr><td>Item 3.5.3</td><td colspan="2">Name and address of paying agents and depository agents in each country.</td><td>Category C</td></tr>
+<tr><td>SECTION 4</td><td colspan="3">ESSENTIAL INFORMATION ON THE SECURITIES</td></tr>
+<tr><td>Item 4.1</td><td colspan="3">Terms and conditions of the securities</td></tr>
+<tr><td>Item 4.1.1</td><td colspan="2">A description of the type and the class of the securities.</td><td>Category B</td></tr>
+<tr><td>Item 4.1.2</td><td colspan="2">The international security identification number (ISIN).</td><td>Category C</td></tr>
+<tr><td>Item 4.1.3</td><td colspan="2">Legislation under which the securities have been created.</td><td>Category A</td></tr>
+<tr><td>Item 4.1.4</td><td colspan="2">Currency of the security issue.</td><td>Category C</td></tr>
+<tr><td>Item 4.1.5</td><td colspan="2">The relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU.</td><td>Category A</td></tr>
+<tr><td>Item 4.1.6</td><td colspan="2">A description of the rights attached to the securities, the procedure for the exercise of those rights and any limitations of those rights.</td><td>Category B</td></tr>
+<tr><td>Item 4.1.7</td><td colspan="2">(a) The nominal interest rate;</td><td>Category C</td></tr>
+<tr><td rowspan="11">  </td><td colspan="2">(b) the provisions relating to interest payable;</td><td>Category B</td></tr>
+<tr><td colspan="2">(c) the date from which interest becomes payable;</td><td>Category C</td></tr>
+<tr><td colspan="2">(d) the due dates for interest;</td><td>Category C</td></tr>
+<tr><td colspan="2">(e) the time limit on the validity of claims to interest and repayment of principal.</td><td>Category B</td></tr>
+<tr><td colspan="3">Where the rate is not fixed:</td></tr>
+<tr><td colspan="2">(a) a statement setting out the type of underlying;</td><td>Category A</td></tr>
+<tr><td colspan="2">(b) a description of the underlying on which the rate is based;</td><td>Category C</td></tr>
+<tr><td colspan="2">(c) the method used to relate the rate with the underlying;</td><td>Category B</td></tr>
+<tr><td colspan="2">(d) any adjustment rules with relation to events concerning the underlying;</td><td>Category C</td></tr>
+<tr><td colspan="2">(e) the name of the calculation agent;</td><td>Category C</td></tr>
+<tr><td colspan="2">(f) if the security has a derivative component in the interest payment, an explanation to help investors understand how the value of their investment is affected by the value of the underlying instrument(s) (Retail-specific).</td><td>Category B</td></tr>
+<tr><td>Item 4.1.8</td><td colspan="2">Maturity date.</td><td>Category C</td></tr>
+<tr><td>Item 4.1.9</td><td colspan="2">An indication of yield.</td><td>Category C</td></tr>
+<tr><td>Item 4.1.10</td><td colspan="2">A description of any restrictions on the transferability of the securities.</td><td>Category A</td></tr>
+<tr><td>Item 4.1.11 (Retail-specific) </td><td colspan="2">A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities.</td><td>Category C</td></tr>
+<tr><td>Item 4.1.12</td><td colspan="3">Where applicable, information on the underlying securities and, where applicable, on the issuer of the underlying securities in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>Item 4.1.13</td><td colspan="2">If different from the issuer, the identity and contact details of the offeror of the securities and/or the person asking for admission to trading, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td><td>Category C</td></tr>
+<tr><td>SECTION 5</td><td colspan="3">REASONS FOR THE OFFER / EXPENSES OF THE ADMISSION TO TRADING, USE OF PROCEEDS AND, WHERE APPLICABLE, ESG-RELATED INFORMATION</td></tr>
+<tr><td>Item 5.1 (Retail-specific) </td><td colspan="2">Provide information on the reasons for the offer to the public and/or for the admission to trading and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses. Where the issuer is aware that the anticipated proceeds will not be sufficient to fund all proposed uses, it shall state the amount and sources of other funds needed. </td><td>Category C</td></tr>
+<tr><td>Item 5.2 (Wholesale-specific) </td><td colspan="2">The use and estimated net amount of the proceeds.</td><td>Category C</td></tr>
+<tr><td>Item 5.3 (Wholesale-specific) </td><td colspan="2">An estimate of the total expenses related to the admission to trading.</td><td>Category C</td></tr>
+<tr><td>Item 5.4</td><td colspan="3">Where applicable, ESG-related information in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>SECTION 6</td><td colspan="3">CONFLICTS OF INTEREST</td></tr>
+<tr><td>Item 6.1</td><td>Provide information about any interests related to the issuance, including material conflicts of interest pertaining to the issue/offer, and details of the persons involved and the nature of the interests.</td><td colspan="2">Category C</td></tr>
+</tbody>
+</table>
+
+## ANNEX 34 — EU GROWTH ISSUANCE PROSPECTUS FOR EQUITY SECURITIES
+
+<table>
+<tbody><tr><td>SECTION 1</td><td>SUMMARY</td></tr>
+<tr><td>Item 1.1</td><td>A summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129.</td></tr>
+<tr><td>SECTION 2</td><td>RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td>A description of the material risks, in a limited number of categories, that are specific to the issuer and a description of the material risks, in a limited number of categories, that are specific to the securities being offered to the public in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Growth issuance prospectus. </td></tr>
+<tr><td>SECTION 3</td><td>INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 3.1</td><td>Identify the company issuing securities, including: (a) the place of registration of the issuer;  (b) its registration number and legal entity identifier (LEI);  (c) its legal and commercial name;  (d) the legislation under which the issuer operates;  (e) its country of incorporation;  (f) the address, telephone number of its registered office (or principal place of business if different from its registered office);  (g) the website, if any;  (h) a disclaimer that the information on the website does not form part of the EU Growth issuance prospectus unless that information is incorporated by reference into the EU Growth issuance prospectus. </td></tr>
+<tr><td>SECTION 4</td><td>RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY</td></tr>
+<tr><td>Item 4.1</td><td>Responsibility statement</td></tr>
+<tr><td>Item 4.1.1</td><td>Identify the persons responsible for the information set out in the EU Growth issuance prospectus and include a statement by those responsible for the EU Growth issuance prospectus that, to the best of their knowledge, the information contained in the EU Growth issuance prospectus is in accordance with the facts and that the EU Growth issuance prospectus makes no omission likely to affect its import. In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office. </td></tr>
+<tr><td>Item 4.1.2</td><td>Where a statement or report attributed to a person as an expert, is included in the EU Growth issuance prospectus, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications; and  (d) material interest (if any) in the issuer.  Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d). </td></tr>
+<tr><td>Item 4.2</td><td>Statement on the competent authority</td></tr>
+<tr><td>Item 4.2.1</td><td>The statement shall: (a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Growth issuance prospectus;  (b) specify that such approval does not constitute an endorsement of the issuer or of the quality of the securities to which the EU Growth issuance prospectus relates;  (c) specify that the competent authority has only approved the EU Growth issuance prospectus as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and  (d) specify that the EU Growth issuance prospectus has been drawn up in accordance with Article 15a of Regulation (EU) 2017/1129. </td></tr>
+<tr><td>SECTION 5</td><td>GROWTH STRATEGY AND BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td>Growth strategy and objectives</td></tr>
+<tr><td>Item 5.1.1</td><td>A description of the issuer’s business strategy, including growth potential and expectations for the future, and strategic objectives (both financial and non-financial, if any). This description shall take into account the issuer’s future challenges and prospects</td></tr>
+<tr><td>Item 5.2</td><td>Principal activities and markets</td></tr>
+<tr><td>Item 5.2.1</td><td>A description of the issuer’s principal activities, including: (a) the main categories of products sold and/or services performed;  (b) an indication of any significant new products, services or activities that have been introduced since the publication of the latest audited financial statements;  (c) a description of the principal markets in which the issuer operates, including market growth, trends and competitive situation. </td></tr>
+<tr><td>Item 5.3</td><td>Investments</td></tr>
+<tr><td>Item 5.3.1</td><td>To the extent not covered elsewhere in the EU Growth issuance prospectus, a description (including the amount) of the issuer’s material investments from the end of the period covered by the historical financial information included in the EU Growth issuance prospectus up to the date of the EU Growth issuance prospectus and, if relevant, a description of any material investments of the issuer that are in progress or for which firm commitments have already been made.</td></tr>
+<tr><td>Item 5.4</td><td>Profit forecasts and estimates</td></tr>
+<tr><td>Item 5.4.1</td><td>Where an issuer has published a profit forecast or a profit estimate that remains outstanding and valid, that forecast or estimate shall be included in the EU Growth issuance prospectus.</td></tr>
+<tr><td>Item 5.4.2</td><td>If a profit forecast or profit estimate has been published and remains outstanding, but is no longer valid, a statement to that effect shall be provided along with an explanation as to why such forecast or estimate is no longer valid.</td></tr>
+<tr><td>SECTION 6</td><td>ORGANISATIONAL STRUCTURE</td></tr>
+<tr><td>Item 6.1</td><td>If the issuer is part of a group and where not covered elsewhere in the EU Growth issuance prospectus and to the extent necessary for an understanding of the issuer’s business as a whole, a diagram of the organisational structure.</td></tr>
+<tr><td>SECTION 7</td><td>CORPORATE GOVERNANCE</td></tr>
+<tr><td>Item 7.1</td><td>Provide the following information for the members of the administrative, management and/or supervisory bodies, any senior manager who is relevant to establishing that the issuer has the appropriate expertise and experience for the management of the issuer’s business, and, in the case of a limited partnership with a share capital, partners with unlimited liability: (a) names, business addresses and functions within the issuer of those persons, details on their relevant management expertise and experience and an indication of the principal activities performed by them outside of the issuer where these are significant with respect to that issuer;  (b) details of the nature of any family relationship between any of those persons;  (c) details, for at least the last five years, of any convictions in relation to fraudulent offences and details of any official public incrimination and/or sanctions involving such persons by statutory or regulatory authorities (including designated professional bodies) and whether they have ever been disqualified by a court from acting as a member of the administrative, management or supervisory bodies of an issuer or from acting in the management or conduct of the affairs of any issuer. If there is no such information required to be disclosed, a statement to that effect is to be made. </td></tr>
+<tr><td>SECTION 8</td><td>FINANCIAL INFORMATION</td></tr>
+<tr><td>Item 8.1</td><td>Financial statements</td></tr>
+<tr><td>Item 8.1.1</td><td>Financial statements (annual and half-yearly) that are required to be published covering the period of 12 months prior to the approval of the EU Growth issuance prospectus (or a shorter period when the issuer has been in operation for less than 12 months). Where both annual and half-yearly financial statements have been published, only the annual statements shall be required where they postdate the half-yearly financial statements. </td></tr>
+<tr><td>Item 8.2</td><td>Accounting standards</td></tr>
+<tr><td>Item 8.2.1</td><td>The financial information shall be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002. If Regulation (EC) No 1606/2002 is not applicable the financial information shall be prepared according to:  (a) a Member State’s national accounting standards for issuers from the EEA, as required by Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third-country issuers. If such third country’s national accounting standards are not equivalent to Regulation (EC) No 1606/2002 the financial statements shall be restated in accordance with that Regulation. </td></tr>
+<tr><td>Item 8.2.2</td><td>Where the audited financial information is prepared according to national accounting standards, they shall include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 8.2.3</td><td>If the issuer prepares both stand-alone and consolidated financial statements, include or incorporate by reference at least the consolidated financial statements.</td></tr>
+<tr><td>Item 8.3</td><td>Auditing of financial information</td></tr>
+<tr><td>Item 8.3.2</td><td>The annual financial statements shall be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014.</td></tr>
+<tr><td>Item 8.3.2</td><td>Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the annual financial statements shall be audited or reported on as to whether or not, for the purposes of the EU Growth issuance prospectus, they give a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information shall be included in the EU Growth issuance prospectus: (a) a prominent statement disclosing which auditing standards have been applied;  (b) an explanation of any significant departures from the International Standards on Auditing. </td></tr>
+<tr><td>Item 8.3.3</td><td>Where audit reports on the annual financial statements have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason shall be given, and such qualifications, modifications, disclaimers or emphasis of matter shall be reproduced in full.</td></tr>
+<tr><td>Item 8.4</td><td>Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 8.4.1</td><td>A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published shall also be included, or an appropriate negative statement shall be included.</td></tr>
+<tr><td>Item 8.5</td><td>Pro forma financial information</td></tr>
+<tr><td>Item 8.5.1</td><td>In the case of a significant gross change as referred to in Article 1(e) of this Regulation, a description of how the transaction might have affected assets, liabilities and earnings of the issuer, had the transaction been undertaken at the commencement of the period being reported on or at the date reported. This requirement will normally be satisfied by the inclusion of pro forma financial information. This pro forma financial information shall be presented as set out in Annex 20 and shall include the information indicated therein.  Pro forma financial information shall be accompanied by a report prepared by independent accountants or auditors. </td></tr>
+<tr><td>SECTION 9</td><td>MANAGEMENT REPORT INCLUDING, WHERE APPLICABLE, THE SUSTAINABILITY REPORTING (Issuers with market capitalisation above EUR 200 000 000 only) </td></tr>
+<tr><td>Item 9.1</td><td>The management report as referred to in Chapters 5 and 6 of Directive 2013/34/EU for the periods covered by the historical financial information including, where applicable, the sustainability reporting, shall be alternatively incorporated by reference or the information contained therein shall be included in the EU Growth issuance prospectus. This requirement applies only to issuers with market capitalisation above EUR 200 000 000 . </td></tr>
+<tr><td>SECTION 10</td><td>DIVIDEND POLICY</td></tr>
+<tr><td>Item 10.1</td><td>A description of the issuer’s policy on dividend distributions and any current restrictions thereon, as well as on share repurchases. Where the issuer does not have an established dividend policy, an appropriate negative statement shall be included. </td></tr>
+<tr><td>SECTION 11</td><td>DETAILS OF THE OFFER OR ADMISSION TO TRADING</td></tr>
+<tr><td>Item 11.1</td><td>Terms and conditions of the offer</td></tr>
+<tr><td>Item 11.1.1</td><td>Total amount of the issue/offer distinguishing the securities offered for sale and those offered for subscription, the conditions to which the offer is subject, expected timetable, action required to apply for the offer, and the procedure for the exercise of any right of pre-emption. If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. </td></tr>
+<tr><td>Item 11.1.2</td><td>Provide information regarding: (a) where investors may subscribe for the securities or exercise their right of pre-emption, including the negotiability of subscription rights and the treatment of subscription rights not exercised;  (b) the method and time limits for paying up the securities and for delivery of the securities;  (c) the duration of the offer period, including any possible amendments thereto;  (d) an indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription; and  (e) a description of the application process together with the issue date of new securities. </td></tr>
+<tr><td>Item 11.2</td><td>Plan of distribution and allotment</td></tr>
+<tr><td>Item 11.2.1</td><td>Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td></tr>
+<tr><td>Item 11.2.2</td><td>To the extent known to the issuer, provide information on whether major shareholders or members of the issuer’s management, supervisory or administrative bodies intend to subscribe for the offer, or whether any person intends to subscribe for more than 5 % of the offer.</td></tr>
+<tr><td>Item 11.3</td><td>Pricing</td></tr>
+<tr><td>Item 11.3.1</td><td>An indication of the price at which the securities will be offered. If the price is not known, an indication of the maximum price or a description of the method for determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129 and the process for its disclosure. </td></tr>
+<tr><td>Item 11.4</td><td>Placing and underwriting</td></tr>
+<tr><td>Item 11.4.2</td><td>Present any firm commitments to subscribe for more than 5 % of the offer and all material features of the underwriting and placement agreements. Include the name and address of the entities agreeing to underwrite or place the issue on a firm commitment basis or under ‘best efforts’ arrangements. Indication of the material features of the agreements, including the quotas, as well as the name and address of coordinators of the offer. Where not all of the issue is underwritten, a statement of the portion not covered.  Indication of the overall amount of the underwriting commission and of the placing commission. </td></tr>
+<tr><td>Item 11.4.3</td><td>Name and address of paying agents and depository agents in each country.</td></tr>
+<tr><td>Item 11.5</td><td>Admission to trading</td></tr>
+<tr><td>Item 11.5.1</td><td>An indication as to whether the securities offered are or will be the object of an application for admission to trading on an SME Growth Market or an MTF, with a view to their distribution in an SME Growth Market or an MTF with an indication of the markets in question. This circumstance shall be set out, without creating the impression that the admission to trading will necessarily be approved. If known, the earliest dates on which the securities will be admitted to trading. </td></tr>
+<tr><td>Item 11.5.2</td><td>Where applicable, details of any entities which have a firm commitment to act as intermediaries in secondary trading, providing liquidity through bid and offer rates and description of the main terms of their commitment.</td></tr>
+<tr><td>Item 11.5.3</td><td>Name and address of paying agents and depository agents in each country.</td></tr>
+<tr><td>SECTION 12</td><td>ESSENTIAL INFORMATION ON THE SECURITIES</td></tr>
+<tr><td>Item 12.1</td><td>Terms and condition of the securities</td></tr>
+<tr><td>Item 12.1.1</td><td>A description of the type and class of the securities being offered to the public, including the international security identification number (‘ISIN’).</td></tr>
+<tr><td>Item 12.1.2</td><td>Legislation under which the securities have been created.</td></tr>
+<tr><td>Item 12.1.3</td><td>Currency of the securities issue.</td></tr>
+<tr><td>Item 12.1.4</td><td>A description of the rights attached to the securities, including any limitations of those rights, and the procedure for the exercise of those rights: (a) dividend rights:  (i) fixed date(s) on which the entitlement arises;  (ii) time limit after which entitlement to dividend lapses and an indication of the person in whose favour the lapse operates;  (iii) dividend restrictions and procedures for non-resident holders;  (iv) rate of dividend or method of its calculation, periodicity and cumulative or non-cumulative nature of payments;  (b) voting rights;  (c) pre-emption rights in offers for subscription of securities of the same class;  (d) right to share in the issuer’s profits;  (e) right to share in any surplus in the event of liquidation;  (f) redemption provisions;  (g) conversion provisions. </td></tr>
+<tr><td>Item 12.1.5</td><td>A description of any restrictions on the transferability of the securities.</td></tr>
+<tr><td>Item 12.1.6</td><td>Where applicable, the information referred to in Article 5(3) of Directive (EU) 2024/2810 of the European Parliament and of the Council (*1).</td></tr>
+<tr><td>Item 12.1.7</td><td>A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities.</td></tr>
+<tr><td>Item 12.1.8</td><td>Where applicable, information on the underlying securities and, where applicable, on the issuer of the underlying securities in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>Item 12.1.9</td><td>Where applicable, for depository receipts issued over shares, information in accordance with Section 1 of Annex 5 and Section 1 of Annex 13 to this Regulation.</td></tr>
+<tr><td>Item 12.1.10</td><td>If different from the issuer, the identity and contact details of the offeror of the securities, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td></tr>
+<tr><td>Item 12.1.11</td><td>Where applicable, the potential impact on the investment in the event of resolution under Directive 2014/59/EU.</td></tr>
+<tr><td>SECTION 12A</td><td>UNITS OF CLOSED-END COLLECTIVE INVESTMENT UNDERTAKINGS (Where applicable)</td></tr>
+<tr><td>Item 12a.1</td><td>Where applicable, for units of closed-end collective investment undertakings, information in accordance with Annex 4.</td></tr>
+<tr><td>SECTION 13</td><td>REASONS FOR THE OFFER AND USE OF PROCEEDS</td></tr>
+<tr><td>Item 13.1</td><td>Provide information on the reasons for the offer to the public and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses.</td></tr>
+<tr><td>Item 13.2</td><td>Where the issuer is aware that the anticipated proceeds will not be sufficient to fund all proposed uses, state the amount and sources of other funds needed. Details shall also be given with regard to the use of the proceeds, in particular where proceeds are being used to acquire assets, other than in the ordinary course of business, to finance announced acquisitions of other business, or to discharge, reduce or retire indebtedness.</td></tr>
+<tr><td>Item 13.3</td><td>Provide an explanation of how the proceeds from the offer align with the business strategy and strategic objectives.</td></tr>
+<tr><td>SECTION 14</td><td>WORKING CAPITAL STATEMENT</td></tr>
+<tr><td>Item 14.1</td><td>Statement by the issuer that, in its opinion, the working capital is sufficient for the issuer’s present requirements or, if not, how the issuer proposes to provide the additional working capital needed.</td></tr>
+<tr><td>SECTION 15</td><td>CONFLICTS OF INTEREST</td></tr>
+<tr><td>Item 15.1</td><td>Provide information about any interests related to the issuance, including material conflicts of interest pertaining to the issue/offer, and details of the persons involved and the nature of the interests.</td></tr>
+<tr><td>SECTION 16</td><td>DILUTION AND SHAREHOLDING AFTER THE ISSUANCE</td></tr>
+<tr><td>Item 16.1</td><td>Present a comparison of participation in share capital and voting rights for existing shareholders before and after the capital increase resulting from the public offer, with the assumption that existing shareholders do not subscribe for the new securities and, separately, with the assumption that existing shareholders do take up their entitlement.</td></tr>
+<tr><td>SECTION 17</td><td>DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 17.1</td><td>A statement that for the term of the EU Growth issuance prospectus the following documents, where applicable, can be inspected: (a) the up-to-date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by an expert at the issuer’s request any part of which is included or referred to in the EU Growth issuance prospectus. </td></tr>
+<tr><td>Item 17.2</td><td>An indication of the website on which the documents may be inspected.</td></tr>
+<tr><td colspan="2">(*1)  Directive (EU) 2024/2810 of the European Parliament and of the Council of 23 October 2024 on multiple-vote share structures in companies that seek admission to trading of their shares on a multilateral trading facility (OJ L, 2024/2810, 14.11.2024, ELI: http://data.europa.eu/eli/dir/2024/2810/oj). </td></tr>
+</tbody>
+</table>
+
+## ANNEX 35 — EU GROWTH ISSUANCE PROSPECTUS FOR NON-EQUITY SECURITIES
+
+<table>
+<tbody><tr><td>SECTION 1</td><td colspan="4">SUMMARY</td></tr>
+<tr><td>Item 1</td><td colspan="4">A summary drawn up in accordance with Article 7(12a) of Regulation (EU) 2017/1129.</td></tr>
+<tr><td>SECTION 2</td><td colspan="4">RISK FACTORS</td></tr>
+<tr><td>Item 2.1</td><td colspan="4">A description of the material risks, in a limited number of categories, that are specific to the issuer, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Growth issuance prospectus. </td></tr>
+<tr><td>Item 2.2</td><td>A description of the material risks, in a limited number of categories, that are specific to the securities being offered to the public, in a section headed ‘Risk Factors’. The risks shall be corroborated by the content of the EU Growth issuance prospectus. </td><td colspan="3">Category A</td></tr>
+<tr><td>SECTION 3</td><td colspan="4">INFORMATION ABOUT THE ISSUER</td></tr>
+<tr><td>Item 3.1</td><td colspan="4">Identify the company issuing the securities, including: (a) the place of registration of the issuer;  (b) its registration number and legal entity identifier (‘LEI’);  (c) its legal and commercial name;  (d) the legislation under which the issuer operates;  (e) its country of incorporation;  (f) the address, telephone number of its registered office (or principal place of business if different from its registered office);  (g) the website, if any;  (h) a disclaimer that the information on the website does not form part of the EU Growth issuance prospectus unless that information is incorporated by reference into the EU Growth issuance prospectus;  (i) where applicable, credit ratings assigned to the issuer at the request or with the cooperation of the issuer in the rating process. </td></tr>
+<tr><td>Item 3.2</td><td colspan="4">Any recent events particular to the issuer and which are to a material extent relevant to an evaluation of the issuer’s solvency.</td></tr>
+<tr><td>SECTION 4</td><td colspan="4">RESPONSIBILITY STATEMENT AND STATEMENT ON THE COMPETENT AUTHORITY</td></tr>
+<tr><td>Item 4.1</td><td colspan="4">Responsibility statement</td></tr>
+<tr><td>Item 4.1.1</td><td colspan="2">Identify the persons responsible for the information set out in the EU Growth issuance prospectus and include a statement by those responsible for the EU Growth issuance prospectus that, to the best of their knowledge, the information contained in the EU Growth issuance prospectus is in accordance with the facts and that the EU Growth issuance prospectus makes no omission likely to affect its import. In the case of natural persons, indicate the name and function of the person; in the case of legal persons indicate the name and registered office. </td><td colspan="2">Category A</td></tr>
+<tr><td>Item 4.1.2</td><td colspan="2">Where a statement or report attributed to a person as an expert, is included in the EU Growth issuance prospectus, provide the following details for that person: (a) name;  (b) business address;  (c) qualifications; and  (d) material interest (if any) in the issuer.  Where information has been sourced from a third party, identify the source(s) of the information in accordance with points (a) to (d). </td><td colspan="2">Category A</td></tr>
+<tr><td>Item 4.2</td><td colspan="4">Statement on the competent authority</td></tr>
+<tr><td>Item 4.2.1</td><td colspan="2">The statement shall: (a) indicate the competent authority that has approved, in accordance with this Regulation, the EU Growth issuance prospectus;  (b) specify that such approval does not constitute an endorsement of the issuer or of the quality of the securities to which the EU Growth issuance prospectus relates;  (c) specify that the competent authority has only approved the EU Growth issuance prospectus as meeting the standards of completeness, comprehensibility and consistency required by this Regulation; and  (d) specify that the EU Growth issuance prospectus has been drawn up in accordance with Article 15a of Regulation (EU) 2017/1129. </td><td colspan="2">Category A</td></tr>
+<tr><td>SECTION 5</td><td colspan="4">GROWTH STRATEGY AND BUSINESS OVERVIEW</td></tr>
+<tr><td>Item 5.1</td><td colspan="4">A brief description of the issuer’s business strategy, including growth potential.</td></tr>
+<tr><td>Item 5.2</td><td colspan="4">A description of the issuer’s principal activities, including: (a) the main categories of products sold and/or services performed;  (b) an indication of any significant new products, services or activities;  (c) the principal markets in which the issuer operates. </td></tr>
+<tr><td>SECTION 6</td><td colspan="4">ORGANISATIONAL STRUCTURE</td></tr>
+<tr><td>Item 6.1</td><td colspan="4">If the issuer is part of a group and where not covered elsewhere in the EU Growth issuance prospectus and to the extent necessary for an understanding of the issuer’s business as a whole, a diagram of the organisational structure.</td></tr>
+<tr><td>SECTION 7</td><td colspan="4">CORPORATE GOVERNANCE</td></tr>
+<tr><td>Item 7.1</td><td colspan="4">Provide a brief description of board practices and governance.</td></tr>
+<tr><td>Item 7.2</td><td colspan="4">Provide the names, business addresses and functions within the issuer of the following persons and an indication of the principal activities performed by them outside of that issuer where these are significant with respect to that issuer: (a) members of the administrative, management and/or supervisory bodies;  (b) partners with unlimited liability, in the case of a limited partnership with a share capital. </td></tr>
+<tr><td>SECTION 8</td><td colspan="4">FINANCIAL INFORMATION</td></tr>
+<tr><td>Item 8.1</td><td colspan="4">Financial statements</td></tr>
+<tr><td>Item 8.1.1</td><td colspan="4">Financial statements (annual and half-yearly) that are required to be published covering the period of 12 months prior to the approval of the EU Growth issuance prospectus (or a shorter period when the issuer has been in operation for less than 12 months). Where both annual and half-yearly financial statements have been published, only the annual statements shall be required where they postdate the half-yearly financial statements. </td></tr>
+<tr><td>Item 8.2</td><td colspan="4">Accounting standards</td></tr>
+<tr><td>Item 8.2.1</td><td colspan="4">The financial information shall be prepared according to International Financial Reporting Standards as endorsed in the Union based on Regulation (EC) No 1606/2002. If Regulation (EC) No 1606/2002 is not applicable the financial information shall be prepared according to:  (a) a Member State’s national accounting standards for issuers from the EEA, as required by Directive 2013/34/EU;  (b) a third country’s national accounting standards equivalent to Regulation (EC) No 1606/2002 for third-country issuers. If such third country’s national accounting standards are not equivalent to Regulation (EC) No 1606/2002 the financial statements shall be restated in accordance with that Regulation. </td></tr>
+<tr><td>Item 8.2.2</td><td colspan="4">Where the audited financial information is prepared according to national accounting standards, they shall include at least the following: (a) the balance sheet;  (b) the income statement;  (c) the accounting policies and explanatory notes. </td></tr>
+<tr><td>Item 8.2.3</td><td colspan="4">If the issuer prepares both stand-alone and consolidated financial statements, include or incorporate by reference at least the consolidated financial statements.</td></tr>
+<tr><td>Item 8.3</td><td colspan="4">Auditing of financial information</td></tr>
+<tr><td>Item 8.3.1</td><td colspan="4">The annual financial statements shall be independently audited. The audit report shall be prepared in accordance with Directive 2006/43/EC and Regulation (EU) No 537/2014.</td></tr>
+<tr><td>Item 8.3.2</td><td colspan="4">Where Directive 2006/43/EC and Regulation (EU) No 537/2014 do not apply, the annual financial statements shall be audited or reported on as to whether or not, for the purposes of the EU Growth issuance prospectus, they give a true and fair view in accordance with auditing standards applicable in a Member State or an equivalent standard. Otherwise, the following information shall be included in the EU Growth issuance prospectus: (a) a prominent statement disclosing which auditing standards have been applied;  (b) an explanation of any significant departures from the International Standards on Auditing. </td></tr>
+<tr><td>Item 8.3.3</td><td colspan="4">Where audit reports on the annual financial statements have been refused by the statutory auditors or where they contain qualifications, modifications of opinion, disclaimers or an emphasis of matter, the reason shall be given, and such qualifications, modifications, disclaimers or emphasis of matter shall be reproduced in full.</td></tr>
+<tr><td>Item 8.4</td><td colspan="4">Significant change in the issuer’s financial position</td></tr>
+<tr><td>Item 8.4.1</td><td colspan="4">A description of any significant change in the financial position of the group which has occurred since the end of the last financial period for which either audited financial statements or interim financial information have been published shall also be included, or an appropriate negative statement shall be included.</td></tr>
+<tr><td>SECTION 9</td><td colspan="4">DETAILS OF THE OFFER OR ADMISSION TO TRADING</td></tr>
+<tr><td>Item 9.1</td><td colspan="4">Terms and conditions of the offer</td></tr>
+<tr><td>Item 9.1.1</td><td colspan="2">The conditions to which the offer is subject, expected timetable, action required to apply for the offer, and the procedure for the exercise of any right of pre-emption. The total amount of the securities offered to the public. If the amount is not fixed, an indication of the maximum amount of the securities to be offered (if available) and a description of the arrangements and the time period for announcing to the public the definitive amount of the offer. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.1.2</td><td colspan="2">Provide information regarding: (a) where investors may subscribe for the securities, including the negotiability of subscription rights and the treatment of subscription rights not exercised;  (b) the method and time limits for paying up the securities and for delivery of the securities;  (c) the duration of the offer period, including any possible amendments thereto;  (d) an indication of the period during which an application may be withdrawn, provided that investors are allowed to withdraw their subscription; and  (e) a description of the application process together with the issue date of new securities. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.2</td><td colspan="4">Plan of distribution and allotment</td></tr>
+<tr><td>Item 9.2.1</td><td colspan="2">Process for notifying applicants of the amount allotted and an indication whether dealing may begin before notification is made.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.3</td><td colspan="4">Pricing</td></tr>
+<tr><td>Item 9.3.1</td><td colspan="2">An indication of the expected price at which the securities will be offered.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.3.2</td><td colspan="2">If the price is not known, a description of the method for determining the price, pursuant to Article 17 of Regulation (EU) 2017/1129 and the process for its disclosure.</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 9.4</td><td colspan="4">Placing and underwriting</td></tr>
+<tr><td>Item 9.4.1</td><td colspan="2">Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and address of the entities agreeing to place the issue without a firm commitment or under ‘best efforts’ arrangements. Where not all of the issue is underwritten, a statement of the portion not covered. </td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.4.2</td><td colspan="2">Indication of the overall amount of the underwriting commission and of the placing commission.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.5</td><td colspan="4">Admission to trading</td></tr>
+<tr><td>Item 9.5.1</td><td colspan="2">Where applicable, indicate the SME growth market or the MTF where the securities are to be admitted to trading and, if known, the earliest dates on which the securities will be admitted to trading.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.5.2</td><td colspan="2">Where applicable, details of the entities which have a firm commitment to act as intermediaries in secondary trading, providing liquidity through bid and offer rates and description of the main terms of their commitment.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 9.5.3</td><td colspan="2">Name and address of paying agents and depository agents in each country.</td><td colspan="2">Category C</td></tr>
+<tr><td>SECTION 10</td><td colspan="4">ESSENTIAL INFORMATION ON THE SECURITIES</td></tr>
+<tr><td>Item 10.1</td><td colspan="2">Terms and conditions of the securities</td><td colspan="2">  </td></tr>
+<tr><td>Item 10.1.1</td><td colspan="2">A description of the type and the class of the securities.</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 10.1.2</td><td colspan="2">The international security identification number (ISIN).</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 10.1.3</td><td colspan="2">Legislation under which the securities have been created.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 10.1.4</td><td colspan="2">Currency of the security issue.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 10.1.5</td><td colspan="2">The relative seniority of the securities in the issuer’s capital structure in the event of insolvency, including, where applicable, information on the level of subordination of the securities and the potential impact on the investment in the event of a resolution under Directive 2014/59/EU.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 10.1.6</td><td colspan="2">A description of the rights attached to the securities, the procedure for the exercise of those rights and any limitations of those rights.</td><td colspan="2">Category B</td></tr>
+<tr><td rowspan="12">Item 10.1.7</td><td colspan="2">(a) The nominal interest rate;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(b) the provisions relating to interest payable;</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="2">(c) the date from which interest becomes payable;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(d) the due dates for interest;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(e) the time limit on the validity of claims to interest and repayment of principal.</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="4">Where the rate is not fixed:</td></tr>
+<tr><td colspan="2">(a) a statement setting out the type of underlying;</td><td colspan="2">Category A</td></tr>
+<tr><td colspan="2">(b) a description of the underlying on which the rate is based;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(c) the method used to relate the rate with the underlying;</td><td colspan="2">Category B</td></tr>
+<tr><td colspan="2">(d) any adjustment rules with relation to events concerning the underlying;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(e) the name of the calculation agent;</td><td colspan="2">Category C</td></tr>
+<tr><td colspan="2">(f) if the security has a derivative component in the interest payment, an explanation to help investors understand how the value of their investment is affected by the value of the underlying instrument(s).</td><td colspan="2">Category B</td></tr>
+<tr><td>Item 10.1.8</td><td colspan="2">Maturity date.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 10.1.9</td><td colspan="2">An indication of yield.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 10.1.10</td><td colspan="2">A description of any restrictions on the transferability of the securities.</td><td colspan="2">Category A</td></tr>
+<tr><td>Item 10.1.11</td><td colspan="2">A warning that the tax legislation of the investor’s Member State and of the issuer’s country of incorporation may have an impact on the income received from the securities.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 10.1.12</td><td colspan="4">Where applicable, information on the underlying securities and, where applicable, on the issuer of the underlying securities, in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>Item 10.1.13</td><td colspan="2">If different from the issuer, the identity and contact details of the offeror of the securities, including the legal entity identifier (‘LEI’) where the offeror has legal personality.</td><td colspan="2">Category C</td></tr>
+<tr><td>SECTION 11</td><td colspan="4">REASONS FOR THE OFFER, USE OF PROCEEDS AND, WHERE APPLICABLE, ESG-RELATED INFORMATION</td></tr>
+<tr><td>Item 11.1</td><td colspan="2">Provide information on the reasons for the offer to the public and, where applicable, the estimated net amount of the proceeds broken into each principal intended use and presented in order of priority of such uses.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 11.2</td><td colspan="2">Where the issuer is aware that the anticipated proceeds will not be sufficient to fund all proposed uses, it shall state the amount and sources of other funds needed. Details shall also be given with regard to the use of the proceeds, in particular where proceeds are being used to acquire assets, other than in the ordinary course of business, to finance announced acquisitions of other business, or to discharge, reduce or retire indebtedness.</td><td colspan="2">Category C</td></tr>
+<tr><td>Item 11.3</td><td colspan="4">Where applicable, ESG-related information in accordance with Section 3 of Chapter II of this Regulation.</td></tr>
+<tr><td>SECTION 12</td><td colspan="4">CONFLICTS OF INTEREST</td></tr>
+<tr><td>Item 12.1</td><td colspan="3">Provide information about any interests related to the issuance, including material conflicts of interest pertaining to the issue/offer, and details of the persons involved and the nature of the interests.</td><td>Category C</td></tr>
+<tr><td>SECTION 13</td><td colspan="4">DOCUMENTS AVAILABLE</td></tr>
+<tr><td>Item 13.1</td><td colspan="4">A statement that for the term of the EU Growth issuance prospectus the following documents, where applicable, can be inspected: (a) the up-to-date memorandum and articles of association of the issuer;  (b) all reports, letters, and other documents, valuations and statements prepared by an expert at the issuer’s request any part of which is included or referred to in the EU Growth issuance prospectus. </td></tr>
+<tr><td>Item 13.2</td><td colspan="4">An indication of the website on which the documents may be inspected.</td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 2 ) Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 supplementing Directive 2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on the specification of a single electronic reporting format (OJ L 143, 29.5.2019, p. 1).
+
+( 3 ) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as environmentally sustainable and for sustainability-linked bonds (OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj).
+
+( 4 ) Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64).
+
+( 5 ) Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).
+
+( 6 ) Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1).

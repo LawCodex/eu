@@ -1,0 +1,592 @@
+---
+title: "Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004 (Text with EEA relevance)"
+identifier: "32007R1394"
+eli: "http://data.europa.eu/eli/reg/2007/1394/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-11-13
+entry_into_force: 2007-01-01
+last_amended: 2019-07-26
+consolidated_version: "02007R1394-20190726"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007R1394-20190726"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004 (Text with EEA relevance)
+
+**REGULATION (EC) No 1394/2007 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 November 2007**
+
+**on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 1235/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 December 2010 </td><td> L 348</td><td>1</td><td>31.12.2010</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1394/2007 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 November 2007**
+
+**on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down specific rules concerning the authorisation, supervision and pharmacovigilance of advanced therapy medicinal products.
+
+### Article 2 — Definitions
+
+1\. In addition to the definitions laid down in Article 1 of Directive 2001/83/EC and in Article 3, points (a) to (l) and (o) to (q) of Directive 2004/23/EC, the following definitions shall apply for the purposes of this Regulation:
+
+(a) ‘Advanced therapy medicinal product’ means any of the following medicinal products for human use:
+
+— a gene therapy medicinal product as defined in Part IV of Annex I to Directive 2001/83/EC,
+
+— a somatic cell therapy medicinal product as defined in Part IV of Annex I to Directive 2001/83/EC,
+
+— a tissue engineered product as defined in point (b).
+
+(b) ‘Tissue engineered product’ means a product that:
+
+— contains or consists of engineered cells or tissues, and
+
+— is presented as having properties for, or is used in or administered to human beings with a view to regenerating, repairing or replacing a human tissue.
+
+A tissue engineered product may contain cells or tissues of human or animal origin, or both. The cells or tissues may be viable or non-viable. It may also contain additional substances, such as cellular products, bio-molecules, bio-materials, chemical substances, scaffolds or matrices.
+
+Products containing or consisting exclusively of non-viable human or animal cells and/or tissues, which do not contain any viable cells or tissues and which do not act principally by pharmacological, immunological or metabolic action, shall be excluded from this definition.
+
+(c) Cells or tissues shall be considered ‘engineered’ if they fulfil at least one of the following conditions:
+
+— the cells or tissues have been subject to substantial manipulation, so that biological characteristics, physiological functions or structural properties relevant for the intended regeneration, repair or replacement are achieved. The manipulations listed in Annex I, in particular, shall not be considered as substantial manipulations,
+
+— the cells or tissues are not intended to be used for the same essential function or functions in the recipient as in the donor.
+
+(d) ‘Combined advanced therapy medicinal product’ means an advanced therapy medicinal product that fulfils the following conditions:
+
+— it must incorporate, as an integral part of the product, one or more medical devices within the meaning of Article 1(2)(a) of Directive 93/42/EEC or one or more active implantable medical devices within the meaning of Article 1(2)(c) of Directive 90/385/EEC, and
+
+— its cellular or tissue part must contain viable cells or tissues, or
+
+— its cellular or tissue part containing non-viable cells or tissues must be liable to act upon the human body with action that can be considered as primary to that of the devices referred to.
+
+2\. Where a product contains viable cells or tissues, the pharmacological, immunological or metabolic action of those cells or tissues shall be considered as the principal mode of action of the product.
+
+3\. An advanced therapy medicinal product containing both autologous (emanating from the patient himself) and allogeneic (coming from another human being) cells or tissues shall be considered to be for allogeneic use.
+
+4\. A product which may fall within the definition of a tissue engineered product and within the definition of a somatic cell therapy medicinal product shall be considered as a tissue engineered product.
+
+5\. A product which may fall within the definition of:
+
+— a somatic cell therapy medicinal product or a tissue engineered product, and
+
+— a gene therapy medicinal product,
+
+shall be considered as a gene therapy medicinal product.
+
+## CHAPTER 2 — MARKETING AUTHORISATION REQUIREMENTS
+
+### Article 3 — Donation, procurement and testing
+
+Where an advanced therapy medicinal product contains human cells or tissues, the donation, procurement and testing of those cells or tissues shall be made in accordance with Directive 2004/23/EC.
+
+### Article 4 — Clinical trials
+
+1\. The rules set out in Article 6(7) and Article 9(4) and (6) of Directive 2001/20/EC in respect of gene therapy and somatic cell therapy medicinal products shall apply to tissue engineered products.
+
+2\. The Commission shall, after consulting the Agency, draw up detailed guidelines on good clinical practice specific to advanced therapy medicinal products.
+
+### Article 5 — Good manufacturing practice
+
+The Commission shall, after consulting the Agency, draw up guidelines in line with the principles of good manufacturing practice and specific to advanced therapy medicinal products.
+
+### Article 6 — Issues specific to medical devices
+
+1\. A medical device which forms part of a combined advanced therapy medicinal product shall meet the essential requirements laid down in Annex I to Directive 93/42/EEC.
+
+2\. An active implantable medical device which forms part of a combined advanced therapy medicinal product shall meet the essential requirements laid down in Annex 1 to Directive 90/385/EEC.
+
+### Article 7 — Specific requirements for advanced therapy medicinal products containing devices
+
+In addition to the requirements laid down in Article 6(1) of Regulation (EC) No 726/2004, applications for the authorisation of an advanced therapy medicinal product containing medical devices, bio-materials, scaffolds or matrices shall include a description of the physical characteristics and performance of the product and a description of the product design methods, in accordance with Annex I to Directive 2001/83/EC.
+
+## CHAPTER 3 — MARKETING AUTHORISATION PROCEDURE
+
+### Article 8 — Evaluation procedure
+
+1\. The Committee for Medicinal Products for Human Use shall consult the Committee for Advanced Therapies on any scientific assessment of advanced therapy medicinal products necessary to draw up the scientific opinions referred to in Article 5(2) and (3) of Regulation (EC) No 726/2004. The Committee for Advanced Therapies shall also be consulted in the event of re-examination of the opinion pursuant to Article 9(2) of Regulation (EC) No 726/2004.
+
+2\. When preparing a draft opinion for final approval by the Committee for Medicinal Products for Human Use, the Committee for Advanced Therapies shall endeavour to reach a scientific consensus. If such consensus cannot be reached, the Committee for Advanced Therapies shall adopt the position of the majority of its members. The draft opinion shall mention the divergent positions and the grounds on which they are based.
+
+3\. The draft opinion given by the Committee for Advanced Therapies under paragraph 1 shall be sent to the Chairman of the Committee for Medicinal Products for Human Use in a timely manner so as to ensure that the deadline laid down in Article 6(3) or Article 9(2) of Regulation (EC) No 726/2004 can be met.
+
+4\. Where the scientific opinion on an advanced therapy medicinal product drawn up by the Committee for Medicinal Products for Human Use under Article 5(2) and (3) of Regulation (EC) No 726/2004 is not in accordance with the draft opinion of the Committee for Advanced Therapies, the Committee for Medicinal Products for Human Use shall annex to its opinion a detailed explanation of the scientific grounds for the differences.
+
+5\. The Agency shall draw up specific procedures for the application of paragraphs 1 to 4.
+
+### Article 9 — Combined advanced therapy medicinal products
+
+1\. Where a combined advanced therapy medicinal product is concerned, the whole product shall be subject to final evaluation by the Agency.
+
+2\. The application for a marketing authorisation for a combined advanced therapy medicinal product shall include evidence of conformity with the essential requirements referred to in Article 6.
+
+3\. The application for a marketing authorisation for a combined advanced therapy medicinal product shall include, where available, the results of the assessment by a notified body in accordance with Directive 93/42/EEC or Directive 90/385/EEC of the medical device part or active implantable medical device part.
+
+The Agency shall recognise the results of that assessment in its evaluation of the medicinal product concerned.
+
+The Agency may request the relevant notified body to transmit any information related to the results of its assessment. The notified body shall transmit the information within a period of one month.
+
+If the application does not include the results of the assessment, the Agency shall seek an opinion on the conformity of the device part with Annex I to Directive 93/42/EEC or Annex 1 to Directive 90/385/EEC from a notified body identified in conjunction with the applicant, unless the Committee for Advanced Therapies advised by its experts for medical devices decides that involvement of a notified body is not required.
+
+## CHAPTER 4 — SUMMARY OF PRODUCT CHARACTERISTICS, LABELLING AND PACKAGE LEAFLET
+
+### Article 10 — Summary of product characteristics
+
+By way of derogation from Article 11 of Directive 2001/83/EC, the summary of the product characteristics for advanced therapy medicinal products shall contain the information listed in Annex II to this Regulation, in the order indicated therein.
+
+### Article 11 — Labelling of outer/immediate packaging
+
+By way of derogation from Articles 54 and 55(1) of Directive 2001/83/EC, the particulars listed in Annex III to this Regulation shall appear on the outer packaging of advanced therapy medicinal products or, where there is no outer packaging, on the immediate packaging.
+
+### Article 12 — Special immediate packaging
+
+In addition to the particulars mentioned in Article 55(2) and (3) of Directive 2001/83/EC, the following particulars shall appear on the immediate packaging of advanced therapy medicinal products:
+
+(a) the unique donation and product codes, as referred to in Article 8(2) of Directive 2004/23/EC;
+
+(b) in the case of advanced therapy medicinal products for autologous use, the unique patient identifier and the statement ‘For autologous use only’.
+
+### Article 13 — Package leaflet
+
+1\. By way of derogation from Article 59(1) of Directive 2001/83/EC, the package leaflet for an advanced therapy medicinal product shall be drawn up in accordance with the summary of product characteristics and shall include the information listed in Annex IV to this Regulation, in the order indicated therein.
+
+2\. The package leaflet shall reflect the results of consultations with target patient groups to ensure that it is legible, clear and easy to use.
+
+## CHAPTER 5 — POST-AUTHORISATION REQUIREMENTS
+
+### Article 14 — Post-authorisation follow-up of efficacy and adverse reactions, and risk management
+
+1\. In addition to the requirements for pharmacovigilance laid down in Articles 21 to 29 of Regulation (EC) No 726/2004, the applicant shall detail, in the marketing authorisation application, the measures envisaged to ensure the follow-up of efficacy of advanced therapy medicinal products and of adverse reactions thereto.
+
+2\. Where there is particular cause for concern, the Commission shall, on the advice of the Agency, require as part of the marketing authorisation that a risk management system designed to identify, characterise, prevent or minimise risks related to advanced therapy medicinal products, including an evaluation of the effectiveness of that system, be set up, or that specific post-marketing studies be carried out by the holder of the marketing authorisation and submitted for review to the Agency.
+
+In addition, the Agency may request submission of additional reports evaluating the effectiveness of any risk management system and the results of any such studies performed.
+
+Evaluation of the effectiveness of any risk management system and the results of any studies performed shall be included in the periodic safety update reports referred to in Article 24(3) of Regulation (EC) No 726/2004.
+
+3\. The Agency shall forthwith inform the Commission if it finds that the marketing authorisation holder has failed to comply with the requirements referred to in paragraph 2.
+
+4\. The Agency shall draw up detailed guidelines relating to the application of paragraphs 1, 2 and 3.
+
+5\. If serious adverse events or reactions occur in relation to a combined advanced therapy medicinal product, the Agency shall inform the relevant national competent authorities responsible for implementing Directives 90/385/EEC, 93/42/EEC and 2004/23/EC.
+
+### Article 15 — Traceability
+
+1\. The holder of a marketing authorisation for an advanced therapy medicinal product shall establish and maintain a system ensuring that the individual product and its starting and raw materials, including all substances coming into contact with the cells or tissues it may contain, can be traced through the sourcing, manufacturing, packaging, storage, transport and delivery to the hospital, institution or private practice where the product is used.
+
+2\. The hospital, institution or private practice where the advanced therapy medicinal product is used shall establish and maintain a system for patient and product traceability. That system shall contain sufficient detail to allow linking of each product to the patient who received it and vice versa.
+
+3\. Where an advanced therapy medicinal product contains human cells or tissues, the marketing authorisation holder, as well as the hospital, institution or private practice where the product is used, shall ensure that the traceability systems established in accordance with paragraphs 1 and 2 of this Article are complementary to, and compatible with, the requirements laid down in Articles 8 and 14 of Directive 2004/23/EC as regards human cells and tissues other than blood cells, and Articles 14 and 24 of Directive 2002/98/EC as regards human blood cells.
+
+4\. The marketing authorisation holder shall keep the data referred to in paragraph 1 for a minimum of 30 years after the expiry date of the product, or longer if required by the Commission as a term of the marketing authorisation.
+
+5\. In case of bankruptcy or liquidation of the marketing authorisation holder, and in the event that the marketing authorisation is not transferred to another legal entity, the data referred to in paragraph 1 shall be transferred to the Agency.
+
+6\. In the event that the marketing authorisation is suspended, revoked or withdrawn, the holder of the marketing authorisation shall remain subject to the obligations laid down in paragraphs 1, 3 and 4.
+
+7\. The Commission shall draw up detailed guidelines relating to the application of paragraphs 1 to 6, in particular the type and amount of data referred to in paragraph 1.
+
+## CHAPTER 6 — INCENTIVES
+
+### Article 16 — Scientific advice
+
+1\. The applicant or holder of a marketing authorisation may request advice from the Agency on the design and conduct of pharmacovigilance and of the risk management system referred to in Article 14.
+
+2\. By way of derogation from Article 8(1) of Council Regulation (EC) No 297/95 of 10 February 1995 on fees payable to the European Agency for the Evaluation of Medicinal Products ( 1 ), a 90 % reduction for small and medium-sized enterprises and 65 % for other applicants shall apply to the fee for scientific advice payable to the Agency for any advice given in respect of advanced therapy medicinal products pursuant to paragraph 1 of this Article and Article 57(1)(n) of Regulation (EC) No 726/2004.
+
+### Article 17 — Scientific recommendation on advanced therapy classification
+
+1\. Any applicant developing a product based on genes, cells or tissues may request a scientific recommendation of the Agency with a view to determining whether the referred product falls, on scientific grounds, within the definition of an advanced therapy medicinal product. The Agency shall deliver this recommendation after consultation with the Commission and within 60 days after receipt of the request.
+
+2\. The Agency shall publish summaries of the recommendations delivered in accordance with paragraph 1, after deletion of all information of commercial confidential nature.
+
+### Article 18 — Certification of quality and non-clinical data
+
+Small and medium-sized enterprises developing an advanced therapy medicinal product may submit to the Agency all relevant quality and, where available, non-clinical data required in accordance with modules 3 and 4 of Annex I to Directive 2001/83/EC, for scientific evaluation and certification.
+
+The Commission shall lay down provisions for the evaluation and certification of such data, in accordance with the regulatory procedure referred to in Article 26(2).
+
+### Article 19 — Reduction of the fee for marketing authorisation
+
+1\. By way of derogation from Regulation (EC) No 297/95, the fee for marketing authorisation shall be reduced by 50 % if the applicant is a hospital or a small or medium-sized enterprise and can prove that there is a particular public health interest in the Community in the advanced therapy medicinal product concerned.
+
+2\. Paragraph 1 shall also apply to fees charged by the Agency for post-authorisation activities in the first year following the granting of the marketing authorisation for the advanced therapy medicinal product.
+
+3\. Paragraphs 1 and 2 shall apply during the transitional periods laid down in Article 29.
+
+## CHAPTER 7 — COMMITTEE FOR ADVANCED THERAPIES
+
+### Article 20 — Committee for Advanced Therapies
+
+1\. A Committee for Advanced Therapies shall be established within the Agency.
+
+2\. Save where otherwise provided in this Regulation, Regulation (EC) No 726/2004 shall apply to the Committee for Advanced Therapies.
+
+3\. The Executive Director of the Agency shall ensure appropriate coordination between the Committee for Advanced Therapies and the other Committees of the Agency, in particular the Committee for Medicinal Products for Human Use, the Pharmacovigilance Risk Assessment Committee and the Committee for Orphan Medicinal Products, their working parties and any other scientific advisory groups.
+
+### Article 21 — Composition of the Committee for Advanced Therapies
+
+1\. The Committee for Advanced Therapies shall be composed of the following members:
+
+(a) five members or co-opted members of the Committee for Medicinal Products for Human Use from five Member States, with alternates either proposed by their respective Member State or, in the case of co-opted members of the Committee for Medicinal Products for Human Use, identified by the latter on the advice of the corresponding co-opted member. These five members with their alternates shall be appointed by the Committee for Medicinal Products for Human Use;
+
+(b) one member and one alternate appointed by each Member State whose national competent authority is not represented among the members and alternates appointed by the Committee for Medicinal Products for Human Use;
+
+(c) two members and two alternates appointed by the Commission, on the basis of a public call for expressions of interest and after consulting the European Parliament, in order to represent clinicians;
+
+(d) two members and two alternates appointed by the Commission, on the basis of a public call for expressions of interest and after consulting the European Parliament, in order to represent patients’ associations.
+
+The alternates shall represent and vote for the members in their absence.
+
+2\. All members of the Committee for Advanced Therapies shall be chosen for their scientific qualification or experience in respect of advanced therapy medicinal products. For the purposes of paragraph 1(b), the Member States shall cooperate, under the coordination of the Executive Director of the Agency, in order to ensure that the final composition of the Committee for Advanced Therapies provides appropriate and balanced coverage of the scientific areas relevant to advanced therapies, including medical devices, tissue engineering, gene therapy, cell therapy, biotechnology, surgery, pharmacovigilance, risk management and ethics.
+
+At least two members and two alternates of the Committee for Advanced Therapies shall have scientific expertise in medical devices.
+
+3\. The members of the Committee for Advanced Therapies shall be appointed for a renewable period of three years. At meetings of the Committee for Advanced Therapies, they may be accompanied by experts.
+
+4\. The Committee for Advanced Therapies shall elect its Chairman from among its members for a term of three years, renewable once.
+
+5\. The names and scientific qualifications of all members shall be made public by the Agency, in particular on the Agency’s website.
+
+### Article 22 — Conflicts of interest
+
+In addition to the requirements laid down in Article 63 of Regulation (EC) No 726/2004, members and alternates of the Committee for Advanced Therapies shall have no financial or other interests in the biotechnology sector and medical device sector that could affect their impartiality. All indirect interests that could relate to these sectors shall be entered in the register referred to in Article 63(2) of Regulation (EC) No 726/2004.
+
+### Article 23 — Tasks of the Committee for Advanced Therapies
+
+The Committee for Advanced Therapies shall have the following tasks:
+
+(a) to formulate a draft opinion on the quality, safety and efficacy of an advanced therapy medicinal product for final approval by the Committee for Medicinal Products for Human Use and to advise the latter on any data generated in the development of such a product;
+
+(b) to provide advice, pursuant to Article 17, on whether a product falls within the definition of an advanced therapy medicinal product;
+
+(c) at the request of the Committee for Medicinal Products for Human Use, to advise on any medicinal product which may require, for the evaluation of its quality, safety or efficacy, expertise in one of the scientific areas referred to in Article 21(2);
+
+(d) to provide advice on any question related to advanced therapy medicinal products, at the request of the Executive Director of the Agency or the Commission;
+
+(e) to assist scientifically in the elaboration of any documents related to the fulfilment of the objectives of this Regulation;
+
+(f) at the Commission’s request, to provide scientific expertise and advice for any Community initiative related to the development of innovative medicines and therapies which requires expertise in one of the scientific areas referred to in Article 21(2);
+
+(g) to contribute to the scientific advice procedures referred to in Article 16 of this Regulation and in Article 57(1)(n) of Regulation (EC) No 726/2004.
+
+## CHAPTER 8 — GENERAL AND FINAL PROVISIONS
+
+### Article 24 — Amendments to the Annexes
+
+The Commission is empowered to adopt delegated acts in accordance with Article 25a amending the Annexes to adapt them to technical and scientific progress, after consulting the Agency.
+
+### Article 25 — Report and review
+
+By 30 December 2012, the Commission shall publish a general report on the application of this Regulation, which shall include comprehensive information on the different types of advanced therapy medicinal products authorised pursuant to this Regulation.
+
+In this report, the Commission shall assess the impact of technical progress on the application of this Regulation. It shall also review the scope of this Regulation, including in particular the regulatory framework for combined advanced therapy medicinal products.
+
+### Article 25a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 24 shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 24 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 2 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 24 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 26 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on Medicinal Products for Human Use set up by Article 121(1) of Directive 2001/83/EC.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+### Article 27 — Amendments to Regulation (EC) No 726/2004
+
+Regulation (EC) No 726/2004 is hereby amended as follows:
+
+1\. in the first subparagraph of Article 13(1), the first sentence shall be replaced by the following:
+
+‘Without prejudice to Article 4(4) and (5) of Directive 2001/83/EC, a marketing authorisation which has been granted in accordance with this Regulation shall be valid throughout the Community.’;
+
+2\. Article 56 shall be amended as follows:
+
+(a) in paragraph 1, the following point shall be inserted:
+
+‘(da) the Committee for Advanced Therapies;’
+
+(b) in the first sentence of the first subparagraph of paragraph 2, the words ‘paragraph 1(a) to (d)’ shall be replaced by ‘paragraph 1(a) to (da)’;
+
+3\. the Annex shall be amended as follows:
+
+(a) the following point shall be inserted:
+
+‘1a. Advanced therapy medicinal products as defined in Article 2 of Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products ( *1 ).
+
+(b) In point 3, the second subparagraph shall be replaced by the following:
+
+‘After 20 May 2008, the Commission, having consulted the Agency, may present any appropriate proposal to amend this point and the European Parliament and the Council shall take a decision thereon in accordance with the Treaty.’
+
+### Article 28 — Amendments to Directive 2001/83/EC
+
+Directive 2001/83/EC is hereby amended as follows:
+
+1\. in Article 1, the following point shall be inserted:
+
+‘4a. Advanced therapy medicinal product:
+
+A product as defined in Article 2 of Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products ( *2 ).
+
+2\. in Article 3, the following point shall be added:
+
+‘7. Any advanced therapy medicinal product, as defined in Regulation (EC) No 1394/2007, which is prepared on a non-routine basis according to specific quality standards, and used within the same Member State in a hospital under the exclusive professional responsibility of a medical practitioner, in order to comply with an individual medical prescription for a custom-made product for an individual patient.
+
+Manufacturing of these products shall be authorised by the competent authority of the Member State. Member States shall ensure that national traceability and pharmacovigilance requirements as well as the specific quality standards referred to in this paragraph are equivalent to those provided for at Community level in respect of advanced therapy medicinal products for which authorisation is required pursuant to Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency ( *3 ).
+
+3\. in Article 4, the following paragraph shall be added:
+
+‘5. This Directive and all Regulations referred to therein shall not affect the application of national legislation prohibiting or restricting the use of any specific type of human or animal cells, or the sale, supply or use of medicinal products containing, consisting of or derived from these cells, on grounds not dealt with in the aforementioned Community legislation. The Member States shall communicate the national legislation concerned to the Commission. The Commission shall make this information publicly available in a register.’;
+
+4\. in Article 6(1), the first subparagraph shall be replaced by the following:
+
+‘No medicinal product may be placed on the market of a Member State unless a marketing authorisation has been issued by the competent authorities of that Member State in accordance with this Directive or an authorisation has been granted in accordance with Regulation (EC) No 726/2004, read in conjunction with Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( *4 ) and Regulation (EC) No 1394/2007.
+
+### Article 29 — Transitional period
+
+1\. Advanced therapy medicinal products, other than tissue engineered products, which were legally on the Community market in accordance with national or Community legislation on 30 December 2008, shall comply with this Regulation no later than 30 December 2011.
+
+2\. Tissue engineered products which were legally on the Community market in accordance with national or Community legislation on 30 December 2008 shall comply with this Regulation no later than 30 December 2012.
+
+3\. By way of derogation from Article 3(1) of Regulation (EC) No 297/95, no fee shall be payable to the Agency in respect of applications submitted for the authorisation of the advanced therapy medicinal products mentioned in paragraphs 1 and 2 of this Article.
+
+### Article 30 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 30 December 2008.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Manipulations referred to in the first indent of Article 2(1)(c)
+
+— cutting,
+
+— grinding,
+
+— shaping,
+
+— centrifugation,
+
+— soaking in antibiotic or antimicrobial solutions,
+
+— sterilization,
+
+— irradiation,
+
+— cell separation, concentration or purification,
+
+— filtering,
+
+— lyophilization,
+
+— freezing,
+
+— cryopreservation,
+
+— vitrification.
+
+## ANNEX II — Summary of product characteristics referred to in Article 10
+
+1\. Name of the medicinal product.
+
+2\. Composition of the product:
+
+2.1. general description of the product, if necessary with explanatory drawings and pictures,
+
+2.2. qualitative and quantitative composition in terms of the active substances and other constituents of the product, knowledge of which is essential for proper use, administration or implantation of the product. Where the product contains cells or tissues, a detailed description of these cells or tissues and of their specific origin, including the species of animal in cases of non-human origin, shall be provided,
+
+For a list of excipients, see point 6.1.
+
+3\. Pharmaceutical form.
+
+4\. Clinical particulars:
+
+4.1. therapeutic indications,
+
+4.2. posology and detailed instructions for use, application, implantation or administration for adults and, where necessary, for children or other special populations, if necessary with explanatory drawings and pictures,
+
+4.3. contra-indications,
+
+4.4. special warnings and precautions for use, including any special precautions to be taken by persons handling such products and administering them to or implanting them in patients, together with any precautions to be taken by the patient,
+
+4.5. interaction with other medicinal products and other forms of interactions,
+
+4.6. use during pregnancy and lactation,
+
+4.7. effects on ability to drive and to use machines,
+
+4.8. undesirable effects,
+
+4.9. overdose (symptoms, emergency procedures).
+
+5\. Pharmacological properties:
+
+5.1. pharmacodynamic properties,
+
+5.2. pharmacokinetic properties,
+
+5.3. preclinical safety data.
+
+6\. Quality particulars:
+
+6.1. list of excipients, including preservative systems,
+
+6.2. incompatibilities,
+
+6.3. shelf life, when necessary after reconstitution of the medicinal product or when the immediate packaging is opened for the first time,
+
+6.4. special precautions for storage,
+
+6.5. nature and contents of container and special equipment for use, administration or implantation, if necessary with explanatory drawings and pictures,
+
+6.6. special precautions and instructions for handling and disposal of a used advanced therapy medicinal product or waste materials derived from such product, if appropriate and, if necessary, with explanatory drawings and pictures.
+
+7\. Marketing authorisation holder.
+
+8\. Marketing authorisation number(s).
+
+9\. Date of the first authorisation or renewal of the authorisation.
+
+10\. Date of revision of the text.
+
+## ANNEX III — Labelling of outer/immediate packaging referred to in Article 11
+
+(a) The name of the medicinal product and, if appropriate, an indication of whether it is intended for babies, children or adults; the international non-proprietary name (INN) shall be included, or, if the product has no INN, the common name;
+
+(b) A description of the active substance(s) expressed qualitatively and quantitatively, including, where the product contains cells or tissues, the statement ‘This product contains cells of human/animal [as appropriate{] origin’ together with a short description of these cells or tissues and of their specific origin, including the species of animal in cases of non-human origin;
+
+(c) The pharmaceutical form and, if applicable, the contents by weight, by volume or by number of doses of the product;
+
+(d) A list of excipients, including preservative systems;
+
+(e) The method of use, application, administration or implantation and, if necessary, the route of administration. If applicable, space shall be provided for the prescribed dose to be indicated;
+
+(f) A special warning that the medicinal product must be stored out of the reach and sight of children;
+
+(g) Any special warning necessary for the particular medicinal product;
+
+(h) The expiry date in clear terms (month and year; and day if applicable);
+
+(i) Special storage precautions, if any;
+
+(j) Specific precautions relating to the disposal of unused medicinal products or waste derived from medicinal products, where appropriate, as well as reference to any appropriate collection system in place;
+
+(k) The name and address of the marketing authorisation holder and, where applicable, the name of the representative appointed by the holder to represent him;
+
+(l) Marketing authorisation number(s);
+
+(m) The manufacturer’s batch number and the unique donation and product codes referred to in Article 8(2) of Directive 2004/23/EC;
+
+(n) In the case of advanced therapy medicinal products for autologous use, the unique patient identifier and the statement ‘For autologous use only’.
+
+## ANNEX IV — Package leaflet referred to in Article 13
+
+(a) For the identification of the advanced therapy medicinal product:
+
+(i) the name of the advanced therapy medicinal product and, if appropriate, an indication of whether it is intended for babies, children or adults. The common name shall be included;
+
+(ii) the therapeutic group or type of activity in terms easily understandable for the patient;
+
+(iii) where the product contains cells or tissues, a description of those cells or tissues and of their specific origin, including the species of animal in cases of non-human origin;
+
+(iv) where the product contains medical devices or active implantable medical devices, a description of those devices and their specific origin;
+
+(b) The therapeutic indications;
+
+(c) A list of information which is necessary before the medicinal product is taken or used, including:
+
+(i) contra-indications;
+
+(ii) appropriate precautions for use;
+
+(iii) forms of interaction with other medicinal products and other forms of interaction (e.g. alcohol, tobacco, foodstuffs) which may affect the action of the medicinal product;
+
+(iv) special warnings;
+
+(v) if appropriate, possible effects on the ability to drive vehicles or to operate machinery;
+
+(vi) the excipients, knowledge of which is important for the safe and effective use of the medicinal product and which are included in the detailed guidance published pursuant to Article 65 of Directive 2001/83/EC.
+
+The list shall also take into account the particular condition of certain categories of users, such as children, pregnant or breastfeeding women, the elderly, persons with specific pathological conditions;
+
+(d) The necessary and usual instructions for proper use, and in particular:
+
+(i) the posology;
+
+(ii) the method of use, application, administration or implantation and, if necessary, the route of administration;
+
+and, as appropriate, depending on the nature of the product:
+
+(iii) the frequency of administration, specifying if necessary the appropriate time at which the medicinal product may or must be administered;
+
+(iv) the duration of treatment, where it should be limited;
+
+(v) the action to be taken in case of an overdose (such as symptoms, emergency procedures);
+
+(vi) information on what to do when one or more doses have not been taken;
+
+(vii) a specific recommendation to consult the doctor or the pharmacist, as appropriate, for any clarification on the use of the product;
+
+(e) A description of the adverse reactions which may occur under normal use of the medicinal product and, if necessary, the action to be taken in such a case; the patient should be expressly asked to communicate any adverse reaction which is not mentioned in the package leaflet to his doctor or pharmacist;
+
+(f) A reference to the expiry date indicated on the label, with:
+
+(i) a warning against using the product after that date;
+
+(ii) where appropriate, special storage precautions;
+
+(iii) if necessary, a warning concerning certain visible signs of deterioration;
+
+(iv) the full qualitative and quantitative composition;
+
+(v) the name and address of the marketing authorisation holder and, where applicable, the name of his appointed representatives in the Member States;
+
+(vi) the name and address of the manufacturer;
+
+(g) The date on which the package leaflet was last revised.
+
+( 1 ) OJ L 35, 15.2.1995, p. 1. Regulation as last amended by Regulation (EC) No 1905/2005 (OJ L 304, 23.11.2005, p. 1).
+
+( 2 ) OJ L 123, 12.5.2016, p. 1.
+
+( *1 ) OJ L 324, 10.12.2007, p. 121 ’;
+
+( *2 ) OJ L 324, 10.12.2007, p. 121 ’;
+
+( *3 ) OJ L 136, 30.4.2004, p. 1. Regulation as amended by Regulation (EC) No 1901/2006 (OJ L 378, 27.12.2006, p. 1).’;
+
+( *4 ) OJ L 378, 27.12.2006, p. 1.’

@@ -729,6 +729,7 @@ The fisherman's work agreement shall contain the following particulars, except i
 |  | 1. | This Annex applies without prejudice to Directive 92/29/EEC and Directive 93/103/EC. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>For the purposes of this Annex:<table><tbody><tr><td>(a)</td><td>Agreement means, Agreement concluded by the General Confederation of Agricultural Cooperatives in the European Union (Cogeca), the European Transport Workers' Federation (ETF), and the Association of National Organisations of Fishing Enterprises in the European Union (Europêche) of 21 May 2012 concerning the implementation of the Work in Fishing Convention, 2007 of the International Labour Organization;</td></tr>
 </tbody>
 </table>
@@ -758,6 +759,7 @@ The fisherman's work agreement shall contain the following particulars, except i
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | The following shall apply to all new, decked fishing vessels, subject to any exclusions provided for in accordance with Article 3 of the Agreement. The competent authority may, after consultation, also apply the requirements of this Annex to existing vessels, when and in so far as it determines that this is reasonable and practicable. |
 | --- | --- | --- |
@@ -1034,6 +1036,7 @@ The fisherman's work agreement shall contain the following particulars, except i
 
 **INSPECTIONS BY THE SKIPPER OR UNDER THE AUTHORITY OF THE SKIPPER**
 
+<table>
 <tbody><tr><td></td><td>78.</td><td><table><tbody><tr><td>(a)</td><td>For vessels of 24 metres in length and over, the competent authority shall require frequent inspections to be carried out, by or under the authority of the skipper, to ensure that:<table><tbody><tr><td>(i)</td><td>accommodation is clean, decently habitable and safe, and is maintained in a good state of repair;</td></tr>
 </tbody>
 </table>
@@ -1051,6 +1054,7 @@ The fisherman's work agreement shall contain the following particulars, except i
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **VARIATIONS**
 

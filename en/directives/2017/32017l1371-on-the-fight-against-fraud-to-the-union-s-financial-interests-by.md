@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the fight against fraud to the Union's financial interests by means of criminal law**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2026/1021 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2026 </td><td> L 1021</td><td>1</td><td>11.5.2026</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2017/1371 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

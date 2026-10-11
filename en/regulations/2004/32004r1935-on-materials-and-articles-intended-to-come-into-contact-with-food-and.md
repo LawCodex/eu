@@ -1,0 +1,531 @@
+---
+title: "Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC"
+identifier: "32004R1935"
+eli: "http://data.europa.eu/eli/reg/2004/1935/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-10-27
+entry_into_force: 2004-08-03
+last_amended: 2021-03-27
+consolidated_version: "02004R1935-20210327"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1935-20210327"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC
+
+**REGULATION (EC) No 1935/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 October 2004**
+
+**on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1935/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 October 2004**
+
+**on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC**
+
+## Article 1 — Purpose and subject matter
+
+1\. The purpose of this Regulation is to ensure the effective functioning of the internal market in relation to the placing on the market in the Community of materials and articles intended to come into contact directly or indirectly with food, whilst providing the basis for securing a high level of protection of human health and the interests of consumers.
+
+2\. This Regulation shall apply to materials and articles, including active and intelligent food contact materials and articles, (hereinafter referred to as materials and articles) which in their finished state:
+
+(a) are intended to be brought into contact with food;
+
+or
+
+(b) are already in contact with food and were intended for that purpose;
+
+or
+
+(c) can reasonably be expected to be brought into contact with food or to transfer their constituents to food under normal or foreseeable conditions of use.
+
+3\. This Regulation shall not apply to:
+
+(a) materials and articles which are supplied as antiques;
+
+(b) covering or coating materials, such as the materials covering cheese rinds, prepared meat products or fruits, which form part of the food and may be consumed together with this food;
+
+(c) fixed public or private water supply equipment.
+
+## Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the relevant definitions laid down in Regulation (EC) No 178/2002 shall apply, with the exception of the definitions of ‘traceability’ and ‘placing on the market’, which shall have the following meanings:
+
+(a) ‘traceability’: the ability to trace and follow a material or article through all stages of manufacture, processing and distribution;
+
+(b) ‘placing on the market’: the holding of materials and articles for the purpose of sale, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution and other forms of transfer themselves.
+
+2\. The following definitions shall also apply:
+
+(a) ‘active food contact materials and articles’ (hereinafter referred to as active materials and articles) means materials and articles that are intended to extend the shelf-life or to maintain or improve the condition of packaged food. They are designed to deliberately incorporate components that would release or absorb substances into or from the packaged food or the environment surrounding the food;
+
+(b) ‘intelligent food contact materials and articles’ (hereinafter referred to as intelligent materials and articles) means materials and articles which monitor the condition of packaged food or the environment surrounding the food;
+
+(c) ‘business’ means any undertaking, whether for profit or not and whether public or private, carrying out any of the activities related to any stage of manufacture, processing and distribution of materials and articles;
+
+(d) ‘business operator’ means the natural or legal persons responsible for ensuring that the requirements of this Regulation are met within the business under their control.
+
+## Article 3 — General requirements
+
+1\. Materials and articles, including active and intelligent materials and articles, shall be manufactured in compliance with good manufacturing practice so that, under normal or foreseeable conditions of use, they do not transfer their constituents to food in quantities which could:
+
+(a) endanger human health;
+
+or
+
+(b) bring about an unacceptable change in the composition of the food;
+
+or
+
+(c) bring about a deterioration in the organoleptic characteristics thereof.
+
+2\. The labelling, advertising and presentation of a material or article shall not mislead the consumers.
+
+## Article 4 — Special requirements for active and intelligent materials and articles
+
+1\. In the application of Article 3(1)(b) and 3(1)(c), active materials and articles may bring about changes in the composition or organoleptic characteristics of food on condition that the changes comply with the Community provisions applicable to food, such as the provisions of Directive 89/107/EEC on food additives and related implementing measures, or, if no Community provisions exist, with the national provisions applicable to food.
+
+2\. Pending the adoption of additional rules in a specific measure on active and intelligent materials and articles, substances deliberately incorporated into active materials and articles to be released into the food or the environment surrounding the food shall be authorised and used in accordance with the relevant Community provisions applicable to food, and shall comply with the provisions of this Regulation and its implementing measures.
+
+These substances shall be considered as ingredients within the meaning of Article 6(4)(a) of Directive 2000/13/EC ( 1 ).
+
+3\. Active materials and articles shall not bring about changes in the composition or organoleptic characteristics of food, for instance by masking the spoilage of food, which could mislead consumers.
+
+4\. Intelligent materials and articles shall not give information about the condition of the food which could mislead consumers.
+
+5\. Active and intelligent materials and articles already brought into contact with food shall be adequately labelled to allow identification by the consumer of non-edible parts.
+
+6\. Active and intelligent materials and articles shall be adequately labelled to indicate that the materials or articles are active and/or intelligent.
+
+## Article 5 — Specific measures for groups of materials and articles
+
+1\. For the groups of materials and articles listed in Annex I and, where appropriate, combinations of those materials and articles or recycled materials and articles used in the manufacture of those materials and articles, specific measures may be adopted or amended by the Commission.
+
+Those specific measures may include:
+
+(a) a list of substances authorised for use in the manufacturing of materials and articles;
+
+(b) list(s) of authorised substances incorporated in active or intelligent food contact materials and articles, or list(s) of active or intelligent materials and articles and, when necessary, special conditions of use for these substances and/or the materials and articles in which they are incorporated;
+
+(c) purity standards for substances referred to in (a);
+
+(d) special conditions of use for substances referred to in (a) and/or the materials and articles in which they are used;
+
+(e) specific limits on the migration of certain constituents or groups of constituents into or on to food, taking due account of other possible sources of exposure to those constituents;
+
+(f) an overall limit on the migration of constituents into or on to food;
+
+(g) provisions aimed at protecting human health against hazards arising from oral contact with materials and articles;
+
+(h) other rules to ensure compliance with Articles 3 and 4;
+
+(i) basic rules for checking compliance with points (a) to (h);
+
+(j) rules concerning the collection of samples and the methods of analysis to check compliance with points (a) to (h);
+
+(k) specific provisions for ensuring the traceability of materials and articles including provisions regarding the duration for retention of records or provisions to allow, if necessary, for derogations from the requirements of Article 17;
+
+(l) additional provisions of labelling for active and intelligent materials and articles;
+
+(m) provisions requiring the Commission to establish and maintain a publicly available Community Register (Register) of authorised substances, processes, or materials or articles;
+
+(n) specific procedural rules adapting, as necessary, the procedure referred to in Articles 8 to 12, or making it appropriate for the authorisation of certain types of materials and articles and/or processes used in their manufacture, including, where necessary, a procedure for an individual authorisation of a substance, process, or material or article through a decision addressed to an applicant.
+
+The specific measures referred to in point (m) shall be adopted by the Commission in accordance with the regulatory procedure referred to in Article 23(2).
+
+The specific measures referred to in points (f), (g), (h), (i), (j), (k), (l) and (n), designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(3).
+
+The specific measures referred to in points (a) to (e), designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(4).
+
+2\. The Commission may amend the existing specific directives on materials and articles. Those measures, designed to amend the non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(4).
+
+## Article 6 — National specific measures
+
+In the absence of specific measures referred to in Article 5, this Regulation shall not prevent Member States from maintaining or adopting national provisions provided they comply with the rules of the Treaty.
+
+## Article 7 — Role of the European Food Safety Authority
+
+Provisions liable to affect public health shall be adopted after consulting the European Food Safety Authority, hereinafter referred to as ‘the Authority’.
+
+## Article 8 — General requirements for the authorisation of substances
+
+1\. When a list of substances as referred to in points (a) and (b) of the second subparagraph of Article 5(1) is adopted, anyone seeking an authorisation for a substance not yet included in that list shall submit an application in accordance with Article 9(1).
+
+2\. No substance shall be authorised unless it has been adequately and sufficiently demonstrated that, when used under the conditions to be set in the specific measures, the final material or article satisfies the requirements of Article 3 and, where they apply, Article 4.
+
+## Article 9 — Application for authorisation of a new substance
+
+1\. To obtain the authorisation referred to in Article 8(1), the following procedure shall apply:
+
+(a) an application shall be submitted to the competent authority of a Member State accompanied by the following:
+
+(i) the name and address of the applicant;
+
+(ii) a technical dossier containing the information specified in the guidelines for the safety assessment of a substance to be published by the Authority;
+
+(iii) a summary of the technical dossier;
+
+(b) the competent authority referred to in (a) shall:
+
+(i) acknowledge receipt of the application in writing to the applicant within 14 days of its receipt. The acknowledgement shall state the date of receipt of the application;
+
+(ii) inform the Authority without delay;
+
+and
+
+(iii) make the application and any supplementary information supplied by the applicant available to the Authority;
+
+(c) the Authority shall without delay:
+
+(i) inform the Commission and the other Member States of the application and shall make the application and any supplementary information supplied by the applicant available to them; and
+
+(ii) make public the application, relevant supporting information and any supplementary information supplied by the applicant, in accordance with Articles 19 and 20.
+
+2\. The Authority shall publish detailed guidelines, following the agreement with the Commission, concerning the preparation and the submission of the application, taking into account standard data formats, where they exist in accordance with Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+
+## Article 10 — Opinion of the Authority
+
+1\. The Authority shall give an opinion within six months of the receipt of a valid application, as to whether, under the intended conditions of use of the material or article in which it is used, the substance complies with the safety criteria laid down in Article 3 and, where they apply, Article 4.
+
+The Authority may extend the said period by a maximum period of a further six months. In such a case it shall provide an explanation for the delay to the applicant, the Commission and the Member States.
+
+2\. The Authority may, where appropriate, request the applicant to supplement the particulars accompanying the application within a time limit specified by the Authority. Where the Authority requests supplementary information, the time limit laid down in paragraph 1 shall be suspended until that information has been provided. Similarly, the time limit shall be suspended for the time allowed the applicant to prepare oral or written explanations.
+
+3\. In order to prepare its opinion, the Authority shall:
+
+(a) verify that the information and documents submitted by the applicant are in accordance with Article 9(1)(a), in which case the application shall be regarded as valid, and examine whether the substance complies with the safety criteria laid down in Article 3 and, where they apply, Article 4;
+
+(b) inform the applicant, the Commission and the Member States if an application is not valid.
+
+4\. In the event of an opinion in favour of authorising the evaluated substance, the opinion shall include:
+
+(a) the designation of the substance including its specifications;
+
+and
+
+(b) where appropriate, recommendations for any conditions or restrictions of use for the evaluated substance and/or the material or article in which it is used;
+
+and
+
+(c) an assessment as to whether the analytical method proposed is appropriate for the intended control purposes.
+
+5\. The Authority shall forward its opinion to the Commission, the Member States and the applicant.
+
+6\. The Authority shall make its opinion public, after deletion of any information identified as confidential, in accordance with Article 20.
+
+## Article 11 — Community authorisation
+
+1\. The Community authorisation of a substance or substances shall take place in the form of the adoption of a specific measure. The Commission shall, where appropriate, prepare a draft of a specific measure, as referred to in Article 5, to authorise the substance or substances evaluated by the Authority and specify or change the conditions of its or their use.
+
+2\. The draft specific measure shall take into account the opinion of the Authority, relevant provisions of Community law and other legitimate factors relevant to the matter under consideration. Where the draft specific measure is not in accordance with the opinion of the Authority, the Commission shall provide without delay an explanation for the reasons for the differences. If the Commission does not intend to prepare a draft specific measure after a favourable opinion by the Authority, it shall inform the applicant without delay and provide the applicant with an explanation.
+
+3\. Community authorisation in the form of specific measure, as referred to in paragraph 1, shall be adopted by the Commission. That measure, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(4).
+
+4\. After the authorisation of a substance in accordance with this Regulation, any business operator using the authorised substance or materials or articles containing the authorised substance shall comply with any condition or restriction attached to such authorisation.
+
+5\. The applicant or any business operator using the authorised substance or materials or articles containing the authorised substance shall immediately inform the Commission of any new scientific or technical information, which might affect the safety assessment of the authorised substance in relation to human health. If necessary, the Authority shall then review the assessment.
+
+6\. The granting of an authorisation shall not affect the general civil and criminal liability of any business operator in respect of the authorised substance, the material or article containing the authorised substance, and the food that is in contact with such material or article.
+
+## Article 12 — Modification, suspension and revocation of authorisation
+
+1\. The applicant or any business operator using the authorised substance or materials or articles containing the authorised substance may, in accordance with the procedure laid down in Article 9(1), apply for modification of the existing authorisation.
+
+2\. The application shall be accompanied by the following:
+
+(a) a reference to the original application;
+
+(b) a technical dossier containing the new information in accordance with the guidelines referred to in Article 9(2);
+
+(c) a new complete summary of the technical dossier in a standardised form.
+
+3\. On its own initiative or following a request from a Member State or the Commission, the Authority shall evaluate whether the opinion or the authorisation is still in accordance with this Regulation, in accordance with the procedure laid down in Article 10, where applicable. The Authority may, where necessary, consult the applicant.
+
+4\. The Commission shall examine the opinion of the Authority without delay and prepare a draft specific measure to be taken.
+
+5\. A draft specific measure modifying an authorisation shall specify any necessary changes in the conditions of use and, if any, in the restrictions attached to that authorisation.
+
+6\. A final specific measure on the modification, suspension or revocation of the authorisation shall be adopted by the Commission. That measure, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(4). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 23(5).
+
+## Article 13 — Competent authorities of Member States
+
+Each Member State shall notify to the Commission and to the Authority the name and address, as well as a contact point, of the national competent authority or authorities designated to be responsible in its territory for receiving the application for authorisation referred to in Articles 9 to 12. The Commission shall publish the name and address of the national competent authorities as well as the contact points notified in accordance with this Article.
+
+## Article 14 — Administrative review
+
+Any act adopted under, or failure to exercise, the powers vested in the Authority by this Regulation may be reviewed by the Commission on its own initiative or in response to a request from a Member State or from any person directly and individually concerned.
+
+To this effect a request shall be submitted to the Commission within two months from the day on which the party concerned became aware of the act or omission in question.
+
+The Commission shall take a decision within two months requiring, if appropriate, the Authority to undo its act or to remedy its failure to act.
+
+## Article 15 — Labelling
+
+1\. Without prejudice to the specific measures referred to in Article 5, materials and articles, which are not yet in contact with food when placed on the market, shall be accompanied by:
+
+(a) the words ‘for food contact’, or a specific indication as to their use, such as coffee machine, wine bottle, soup spoon, or the symbol reproduced in Annex II;
+
+and
+
+(b) if necessary, special instructions to be observed for safe and appropriate use;
+
+and
+
+(c) the name or trade name and, in either case, the address or registered office of the manufacturer, processor, or seller responsible for placing on the market established within the Community;
+
+and
+
+(d) adequate labelling or identification to ensure traceability of the material or article, as described in Article 17;
+
+and
+
+(e) in the case of active materials and articles, information on the permitted use or uses and other relevant information such as the name and quantity of the substances released by the active component so as to enable food business operators who use these materials and articles to comply with any other relevant Community provisions or, in their absence, national provisions applicable to food, including the provisions on food labelling.
+
+2\. The information referred to in paragraph 1(a) shall not, however, be obligatory for any articles which, because of their characteristics, are clearly intended to come into contact with food.
+
+3\. The information required by paragraph 1 shall be conspicuous, clearly legible and indelible.
+
+4\. Retail trade in materials and articles shall be prohibited if the information required under paragraph (1)(a), (b) and (e) is not given in a language easily understood by purchasers.
+
+5\. Within its own territory, the Member State in which the material or article is marketed may, in accordance with the rules of the Treaty, stipulate that those labelling particulars shall be given in one or more languages which it shall determine from among the official languages of the Community.
+
+6\. Paragraphs 4 and 5 shall not preclude the labelling particulars from being indicated in several languages.
+
+7\. At the retail stage, the information required under paragraph 1 shall be displayed on:
+
+(a) the materials and articles or on their packaging;
+
+or
+
+(b) labels affixed to the materials and articles or to their packaging;
+
+or
+
+(c) a notice in the immediate vicinity of the materials and articles and clearly visible to purchasers; for the information referred to in paragraph 1(c), however, this option shall be open only if, for technical reasons, that information or a label bearing it cannot be affixed to the materials and articles at either the manufacturing or the marketing stage.
+
+8\. At the marketing stages other than the retail stage, the information required by paragraph 1 shall be displayed on:
+
+(a) the accompanying documents;
+
+or
+
+(b) the labels or packaging;
+
+or
+
+(c) the materials and articles themselves.
+
+9\. The information provided for in paragraph 1(a), (b) and (e) shall be confined to materials and articles which comply with:
+
+(a) the criteria laid down in Article 3 and, where they apply, Article 4;
+
+and
+
+(b) the specific measures referred to in Article 5 or, in their absence, with any national provisions applicable to these materials and articles.
+
+## Article 16 — Declaration of compliance
+
+1\. The specific measures referred to in Article 5 shall require that materials and articles covered by those measures be accompanied by a written declaration stating that they comply with the rules applicable to them.
+
+Appropriate documentation shall be available to demonstrate such compliance. That documentation shall be made available to the competent authorities on demand.
+
+2\. In the absence of specific measures, this Regulation shall not prevent Member States from retaining or adopting national provisions for declarations of compliance for materials and articles.
+
+## Article 17 — Traceability
+
+1\. The traceability of materials and articles shall be ensured at all stages in order to facilitate control, the recall of defective products, consumer information and the attribution of responsibility.
+
+2\. With due regard to technological feasibility, business operators shall have in place systems and procedures to allow identification of the businesses from which and to which materials or articles and, where appropriate, substances or products covered by this Regulation and its implementing measures used in their manufacture are supplied. That information shall be made available to the competent authorities on demand.
+
+3\. The materials and articles which are placed on the market in the Community shall be identifiable by an appropriate system which allows their traceability by means of labelling or relevant documentation or information.
+
+## Article 18 — Safeguard measures
+
+1\. When a Member State, as a result of new information or a reassessment of existing information has detailed grounds for concluding that the use of a material or article endangers human health, although it complies with the relevant specific measures, it may temporarily suspend or restrict application of the provisions in question within its territory.
+
+It shall immediately inform the other Member States and the Commission and give reasons for the suspension or restriction.
+
+2\. The Commission shall examine as soon as possible, where appropriate after obtaining an opinion from the Authority, within the Committee referred to in Article 23(1) the grounds adduced by the Member State referred to in paragraph 1 and shall deliver its opinion without delay and take appropriate measures.
+
+3\. If the Commission considers that amendments to the relevant specific measures are necessary in order to remedy the difficulties referred to in paragraph 1 and to ensure the protection of human health, those amendments shall be adopted in accordance with the procedure referred to in Article 23(2).
+
+4\. The Member State referred to in paragraph 1 may retain the suspension or restriction until the amendments referred to in paragraph 3 have been adopted or the Commission has declined to adopt such amendments.
+
+## Article 19 — Public access
+
+1\. The Authority shall make public the application for authorisation, relevant supporting information and any supplementary information supplied by the applicant, as well as its scientific opinions, in accordance with Articles 38 to 39e of Regulation (EC) No 178/2002, which shall apply mutatis mutandis, and with Article 20 of this Regulation.
+
+2\. Member States shall process applications for access to documents received under this Regulation in accordance with Article 5 of Regulation (EC) No 1049/2001.
+
+## Article 20 — Confidentiality
+
+1\. In accordance with the conditions and the procedures laid down in Articles 39 to 39e of Regulation (EC) No 178/2002 and in this Article:
+
+(a) the applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification; and
+
+(b) the Authority shall assess the confidentiality request submitted by the applicant.
+
+2\. In addition to the items of information referred to in Article 39(2) of Regulation (EC) No 178/2002 and pursuant to Article 39(3) thereof, the Authority may also grant confidential treatment with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+
+(a) any information provided in detailed descriptions of starting substances and mixtures used to manufacture the substance subject to the authorisation, the composition of mixtures, materials or articles in which the applicant intends to use that substance, the manufacturing methods of those mixtures, materials or articles, impurities, and migration testing results, except for information which is relevant to the assessment of safety;
+
+(b) the trademark under which the substance shall be marketed as well as the tradename of the mixtures, material or articles in which it shall be used, where applicable; and
+
+(c) any other information deemed confidential within the specific procedural rules referred to in point (n) of Article 5(1) of this Regulation.
+
+3\. This Article is without prejudice to Article 41 of Regulation (EC) No 178/2002.
+
+## Article 21 — Sharing of existing data
+
+Information given in an application submitted in accordance with Articles 9(1), 10(2) and 12(2) may be used for the benefit of another applicant, provided that the Authority considered that the substance is the same as the one for which the original application was submitted, including the degree of purity and the nature of impurities, and that the other applicant has agreed with the original applicant that such information may be used.
+
+## Article 22
+
+Amendments to Annexes I and II shall be adopted by the Commission. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(3).
+
+## Article 23 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health instituted by Article 58(1) of Regulation (EC) No 178/2002.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1) to (4) and (5)(b) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time-limits laid down in Article 5a(3)(c), (4)(b) and (4(e) of Decision 1999/468/EC shall be set at two months, one month and two months respectively.
+
+5\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+## Article 24 — Inspection and control measures
+
+1\. Member States shall carry out official controls in order to enforce compliance with this Regulation in accordance with relevant provisions of Community law relating to official food and feed controls.
+
+2\. Where necessary and on the request of the Commission, the Authority shall assist in developing technical guidance on sampling and testing to facilitate a coordinated approach for the application of paragraph 1.
+
+3\. The Community reference laboratory for materials and articles intended to come into contact with food and national reference laboratories established as laid down in Regulation (EC) No 882/2004 shall assist Member States in the application of paragraph 1 by contributing to a high quality and uniformity of analytical results.
+
+## Article 25 — Sanctions
+
+Member States shall lay down the rules on sanctions applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The sanctions provided for must be effective, proportionate and dissuasive. Member States shall communicate the relevant provisions to the Commission by 13 May 2005 and shall communicate to it without delay any subsequent amendment affecting them.
+
+## Article 26 — Repeals
+
+Directives 80/590/EEC and 89/109/EEC are repealed.
+
+References to the repealed Directives shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+
+## Article 27 — Transitional arrangements
+
+Materials and articles that have been lawfully placed on the market before 3 December 2004 may be marketed until the stocks are exhausted.
+
+## Article 28 — Entry into force
+
+This Regulation shall enter into force on the 20 th day following that of its publication in the Official Journal of the European Union.
+
+Article 17 shall apply from 27 October 2006.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of groups of materials and articles which may be covered by specific measures
+
+1\. Active and intelligent materials and articles
+
+2\. Adhesives
+
+3\. Ceramics
+
+4\. Cork
+
+5\. Rubbers
+
+6\. Glass
+
+7\. Ion-exchange resins
+
+8\. Metals and alloys
+
+9\. Paper and board
+
+10\. Plastics
+
+11\. Printing inks
+
+12\. Regenerated cellulose
+
+13\. Silicones
+
+14\. Textiles
+
+15\. Varnishes and coatings
+
+16\. Waxes
+
+17\. Wood
+
+## ANNEX II
+
+Symbol
+
+## ANNEX III
+
+**Correlation table**
+
+| Directive 89/109/EEC | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| — | Article 2 |
+| Article 2 | Article 3 |
+| — | Article 4 |
+| Article 3 | Article 5 |
+| — | Article 7 |
+| — | Article 8 |
+| — | Article 9 |
+| — | Article 10 |
+| — | Article 11 |
+| — | Article 12 |
+| — | Article 13 |
+| — | Article 14 |
+| Article 4 | — |
+| Article 6 | Article 15 |
+| — | Article 16 |
+| — | Article 17 |
+| Article 5 | Article 18 |
+| Article 7 | Article 6 |
+| — | Article 19 |
+| — | Article 20 |
+| — | Article 21 |
+| — | Article 22 |
+| Article 8 | — |
+| Article 9 | Article 23 |
+| — | Article 24 |
+| — |  |
+| — | Article 25 |
+| Article 10 | Article 26 |
+| — | Article 27 |
+| Article 11 | — |
+| Article 12 | — |
+|  |  |
+| Article 13 | Article 28 |
+| Annex I | Annex I |
+| Annex II | — |
+| Annex III | Annex III |
+|  |  |
+| Directive 80/590/EEC | This Regulation |
+| Annex | Annex II |
+
+( 1 ) Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs (OJ L 109, 6.5.2000, p. 29). Directive as last amended by Directive 2003/89/EC (OJ L 308, 25.11.2003, p. 15).

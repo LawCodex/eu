@@ -32,8 +32,10 @@ on the conditions for granting temporary and limited derogations from specific C
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
+</table>
 
 Amended by:
 

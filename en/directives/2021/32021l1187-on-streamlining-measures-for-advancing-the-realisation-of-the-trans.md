@@ -280,6 +280,7 @@ A. LOGAR
 
 Pre-identified sections of cross-border links and missing links in the core network corridors [referred to in point (a) of Article 1(1)]
 
+<table>
 <tbody><tr><td colspan="3">Core network corridor ‘Atlantic’</td></tr>
 <tr><td rowspan="4">Cross-border links</td><td>Évora – Mérida</td><td rowspan="3">Rail</td></tr>
 <tr><td>Vitoria-Gasteiz – San Sebastián – Bayonne – Bordeaux</td></tr>
@@ -370,3 +371,4 @@ Pre-identified sections of cross-border links and missing links in the core netw
 <tr><td>Göteborg – Oslo</td></tr>
 <tr><td>København – Hamburg: Fehmarn belt fixed link</td><td>Rail/Road</td></tr>
 </tbody>
+</table>

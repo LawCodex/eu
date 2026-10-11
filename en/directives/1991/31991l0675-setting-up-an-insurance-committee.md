@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(91/675/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003 </td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2005/1/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2005 </td><td> L 79</td><td>9</td><td>24.3.2005</td></tr>
 <tr><td></td><td> DIRECTIVE 2008/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 76</td><td>48</td><td>19.3.2008</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

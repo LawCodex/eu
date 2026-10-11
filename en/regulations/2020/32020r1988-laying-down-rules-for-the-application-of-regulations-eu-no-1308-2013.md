@@ -1,0 +1,3677 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/1988 of 11 November 2020 laying down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle"
+identifier: "32020R1988"
+eli: "http://data.europa.eu/eli/reg_impl/2020/1988/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-11-11
+entry_into_force: 2020-08-16
+last_amended: 2026-07-16
+consolidated_version: "02020R1988-20260716"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1988-20260716"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/1988 of 11 November 2020 laying down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1988**
+
+**of 11 November 2020**
+
+**laying down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/254 of 18 February 2021 </td><td> L 58</td><td>17</td><td>19.2.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/760 of 7 May 2021 </td><td> L 162</td><td>25</td><td>10.5.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1401 of 25 August 2021 </td><td> L 302</td><td>1</td><td>26.8.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/64 of 17 January 2022 </td><td> L 11</td><td>6</td><td>18.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/608 of 17 March 2023 </td><td> L 80</td><td>31</td><td>20.3.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1142 of 9 June 2023 </td><td> L 151</td><td>5</td><td>12.6.2023</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2791 of 13 December 2023 </td><td> L 2791</td><td>1</td><td>14.12.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1178 of 23 April 2024 </td><td> L 1178</td><td>1</td><td>24.4.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1835 of 27 June 2024 </td><td> L 1835</td><td>1</td><td>28.6.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/184 of 28 January 2025 </td><td> L 184</td><td>1</td><td>29.1.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1132 of 3 June 2025 </td><td> L 1132</td><td>1</td><td>5.6.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1271 of 6 May 2025 </td><td> L 1271</td><td>1</td><td>10.7.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1344 of 9 July 2025 </td><td> L 1344</td><td>1</td><td>10.7.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2009 of 2 October 2025 </td><td> L 2009</td><td>1</td><td>3.10.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2199 of 27 October 2025 </td><td> L 2199</td><td>1</td><td>28.10.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/524 of 11 March 2026 </td><td> L 524</td><td>1</td><td>12.3.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/996 of 29 April 2026 </td><td> L 996</td><td>1</td><td>30.4.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1727 of 10 July 2026 </td><td> L 1727</td><td>1</td><td>13.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1988**
+
+**of 11 November 2020**
+
+**laying down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle**
+
+## CHAPTER I — SCOPE AND COMMON RULES
+
+#### Article 1 — Scope
+
+This Regulation lays down common rules for the administration of the tariff quotas set out in Annex I for agricultural products, in particular as regards:
+
+(a) the management method;
+
+(b) the tariff quota periods and sub-periods where applicable;
+
+(c) the requirements as to processing, end-use and quality which certain products must fulfil in order to be eligible for import within a tariff quota;
+
+(d) the procedures and the amount of the security to be lodged for the products referred to in point (c);
+
+(e) the supporting documents where applicable.
+
+It also lays down specific rules for the administration of certain of those tariff quotas.
+
+#### Article 2 — Management of tariff quotas
+
+1\. The tariff quotas set out in Annex I shall be administered by the Union in accordance with the chronological order of dates of acceptance of customs declarations for release for free circulation as laid down in Articles 49 to 54 of Implementing Regulation (EU) 2015/2447.
+
+2\. Article 53(2), points (b) and (c), and Article 53(3) of Implementing Regulation (EU) 2015/2447 shall not apply to tariff quotas and sub-tariff quotas under order numbers 09.0138, 09.0139, 09.0140, 09.0141, 09.0165, 09.0166, 09.0167, 09.0168, 09.0169, 09.0170, 09.0171, 09.0142, 09.0143, 09.0161, 09.0162, 09.0163, 09.0164, 09.0146, 09.0147, 09.0148, 09.0149, 09.0150, 09.0151, 09.0152, 09.0159, 09.0160, 09.0154, 09.0155, 09.0156, 09.0157 and 09.0158.
+
+#### Article 3 — Tariff quota sub-periods
+
+1\. When a tariff quota period is divided into sub-periods, as set out in Annex I, the available tariff quota quantity for a sub-period shall include any quantity unused during the previous tariff quota sub-period. However, quantities unused at the end of a tariff quota period shall not be transferred to the following tariff quota period.
+
+2\. When a tariff quota period is divided in sub-periods, the drawings for each sub-period, with the exception of the last one, shall be stopped respectively on the fifth working day of the Commission of the second month following the end of the relevant sub-period.
+
+#### Article 4 — Supporting documents
+
+1\. Where a proof of origin is required by Annex I, operators shall present a specific document to the customs authorities of the Union together with the lodging of a customs declaration for release for free circulation for the products concerned. The supporting documents required are set out for each tariff quota in Annex I.
+
+2\. Where the proof of origin consists of a certificate of origin for products subject to special non-preferential import arrangements, it shall comply with the requirements laid down in Article 15a(1) and Annex XIV.8 to Commission Implementing Regulation (EU) 2020/761 ( 1 ).
+
+If during the transitional period the rules referred to in Article 31c of this Regulation allow so, the third country issuing the document that does not use ELAN can issue the document mentioned in the first subparagraph in compliance with the requirements laid down in Article 57 of Implementing Regulation (EU) 2015/2447.
+
+3\. Where the tariff quota is set out as a preferential tariff measure referred to in points (d) and (e) of Article 56(2) of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 2 ), the proof of origin shall be issued or made in accordance with the rules on preferential origin referred to in Article 64 of that Regulation.
+
+4\. Where additional documents are required, they shall comply with the requirements laid down in Chapter II of and in Annex I to this Regulation or with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761, when the ELAN1L-TCDOC data model applies.
+
+In accordance with the transitional rules laid down in Article 31a of this Regulation, if the third country issuing the document does not use ELAN, the documents mentioned in the first subparagraph shall comply with the requirements laid down in Chapter II of and in Annex I to this Regulation.
+
+4a. This paragraph applies to tariff rate quotas opened in accordance with the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay. The products imported under these tariff rate quotas shall be accompanied by an official document issued by the Mercosur States, the model of which is laid down in the Notice of the European Commission [2026/874] ( 3 ).
+
+This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period, Articles 72a to 72d of Implementing Regulation (EU) 2020/761 apply.
+
+5\. If necessary, customs authorities may additionally require the declarant or importer to prove the origin of the products in accordance with Article 61 of Regulation (EU) No 952/2013 or relevant provisions of the trade arrangement concerned.
+
+#### Article 5 — Electronic documents
+
+Where the competent authority of a Member State recognises that, due to force majeure, the required official document is not available:
+
+(a) that Member State’s competent authority may issue a scanned copy of the original document (paper or electronic), provided that such copy is sent by electronic message from a mailbox belonging to that Member State's competent authorities;
+
+(b) the competent authority of a Member State to which the required official document is to be submitted may accept a scanned copy of the original (paper or electronic) document from the operator, accompanied by a written commitment of the operator to submit the original document as soon as feasible.
+
+The more flexible requirements set out in the first paragraph shall not exempt the customs authorities of the Member States from their duty of due diligence. They shall be reasonably assured of the authenticity and of the validity of the documents.
+
+#### Article 6 — Checks in third countries
+
+The Commission may request the third country to authorise representatives of the Commission to carry out, where required, checks in that third country to verify compliance with requirements or conditions which are a precondition for issuing certificates or other official documents to be presented to the customs authorities of the Union for the release into free circulation of the product in the Union. Those checks shall be performed jointly with the competent authorities of the third country concerned.
+
+## CHAPTER II — SPECIFIC SECTORAL RULES
+
+### SECTION 1 — CEREALS
+
+#### Article 7 — Definitions for tariff quotas under order numbers 09.0124, 09.0131, 09.0126, 09.0127, 09.0128, 09.0129 and 09.0130
+
+1\. For tariff quotas under order numbers 09.0124 and 09.0131, for the purposes of the definition of ‘sweet potatoes other than those intended for human consumption’, sweet potatoes shall be deemed to be for human consumption within the meaning of CN code 0714 20 10 if they are fresh, whole and put up in immediate packings of 28 kg or less at the time of the customs formalities for release for free circulation.
+
+2\. For tariff quotas under order numbers 09.0126, 09.0127, 09.0128 and 09.0129, the products falling within CN code ex 0714 10 00 shall mean products other than pellets obtained from flours and meals falling within CN code 0714 10 00 .
+
+3\. For the tariff quota under order number 09.0130, the products falling within CN code ex 0714 10 00 , ex 0714 30 00 , ex 0714 40 00 , ex 0714 50 00 and ex 0714 90 20 shall mean products of a kind used for human consumption, in immediate packings of a net content not exceeding 28 kg, either fresh and whole or without skin and frozen, whether or not sliced.
+
+#### Article 8 — Definitions for tariff quota under order number 09.0076
+
+For the tariff quota under order number 09.0076, the following definitions apply:
+
+(a) ‘damaged grains’ shall mean grains of barley, other cereals or wild oats that display damage, including deterioration caused by disease, frost, heat, insects or fungus, bad weather and all other forms of physical damage;
+
+(b) ‘sound and fair merchantable barley’ shall mean barley grains or pieces of grain that are not damaged, as defined in point (a), except grains damaged by frost or fungus.
+
+#### Article 9 — Quality requirements for tariff quota under order number 09.0076
+
+1\. Barley shall be eligible for import within the tariff quota under order number 09.0076 if it fulfils the following requirements:
+
+(a) specific weight: minimum 60,5 kg/hl;
+
+(b) damaged grains: maximum 1 %;
+
+(c) moisture content: maximum 13,5 %;
+
+(d) sound and fair merchantable grains: minimum 96 %.
+
+2\. Compliance with the quality requirements set out in paragraph 1 shall be certified by one of the following documents:
+
+(a) a certificate of analysis carried out at the importer’s request by the customs office of release for free circulation; or
+
+(b) a certificate of conformity for the imported barley issued by a government authority of the country of origin and recognised by the Commission.
+
+3\. In accordance with Article 254 of Regulation (EU) No 952/2013 barley shall be subject to customs supervision, to ensure that:
+
+(a) it is malted within 6 months from the date of release for free circulation; and
+
+(b) the resulting malt is used in the manufacture of beer aged in vats containing beechwood within no more than 150 days following the date on which barley is processed into malt.
+
+Processing of the imported barley into malt shall be deemed to have taken place when the malting barley has undergone steeping.
+
+4\. The amounts of the security to be lodged by operators to ensure that the requirement referred to in paragraph 3 is complied with are set out in Annex I.
+
+5\. The security provided for in paragraph 4 shall be released immediately where proof is presented to the customs authorities concerned that:
+
+(a) the quality of the barley, established on the basis of the certificate of conformity or the analysis certificate, meets the requirements laid down in paragraph 1;
+
+(b) the processing requirement laid down in paragraph 3 has been complied with within the timeframe specified.
+
+6\. Certificates issued by the United States’ Federal Grain Inspection Service (FGIS) for malting barley to be used in the production of beer aged in vats containing beechwood, as set out in Part A of Annex II, shall be officially recognised by the Commission under the administrative cooperation procedure referred to in Articles 58 and 59 of Implementing Regulation (EU) 2015/2447. If the analytical parameters entered in the certificate of conformity issued by the FGIS indicate conformity with the malting barley quality requirements laid down in paragraph 1 of this Article, samples shall be taken on the basis of a risk analysis in accordance with Article 46 of Regulation (EU) No 952/2013 and shall be of at least 3 % of the product released for free circulation during the tariff quota period in question. Member States shall receive a copy of the stamps authorised by the United States Government by the most appropriate means.
+
+#### Article 10 — Tariff quotas under order numbers 09.0689 and 09.0779
+
+1\. Products imported within the tariff quota under order number 09.0689 shall be released into free circulation upon presentation of a proof of origin in accordance with Article 15 of Appendix I to the Regional Convention on pan-Euro-Mediterranean preferential rules of origin ( 4 ), concluded by Council Decision 2013/94/EU ( 5 ) as referred to in Article 1 of Protocol 3 to the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part ( 6 ), concluded by Council Decision 97/126/EC ( 7 ) concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation.
+
+2\. The products imported within the tariff quota under order number 09.0779 shall be released into free circulation upon presentation of a proof of origin issued by the exporting country in accordance with Article 15 of Appendix I to the Regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Article 1 of Protocol 3 to the Agreement between the European Economic Community and the Kingdom of Norway ( 8 ), concluded by Regulation (EEC) No 1691/73 of the Council ( 9 ).
+
+#### Article 11 — Tariff quotas under order numbers 09.0074 and 09.0075
+
+1\. The amount of the security to be lodged by operators to ensure the quality of the products imported within the tariff quotas under order numbers 09.0074 and 09.0075 is set out in Annex I. In addition, the customs authorities shall require a specific security which corresponds to the difference, on the day of acceptance of the declaration of release for free circulation, between the highest duty and the in-quota duty applicable to different wheat qualities, except where that declaration is accompanied by a certificate of conformity issued by the Federal Grain Inspection Service of the United States of America or by the Canadian Grain Commission in accordance with point (b) or (c) of the first subparagraph of Article 7(2) of Commission Regulation (EU) No 642/2010 ( 10 ).
+
+2\. The customs authorities shall take representative samples of each import within the tariff quota under order number 09.0074 with a view to carrying out the necessary tests to establish that the vitreous grain content is 73 % or more. If the quality is inadequate, access to the tariff quota shall be refused.
+
+3\. The customs authorities shall take representative samples of each import within the tariff quota under order number 09.0075 with a view to carrying out the necessary tests to establish that the quality of the imported product complies with the requirements set out in Annex I. If the quality is inadequate, access to the tariff quota shall be refused.
+
+4\. In case the tests referred to in paragraphs 2 and 3 show that the quality of the imported product is below standard, Commission Regulation (EU) No 642/2010 shall apply. The amount of EUR 5 per 1 000 kg referred to in Annex I to this Regulation shall be held back, in addition to the non-access to the tariff quota.
+
+### SECTION 2 — RICE
+
+#### Article 12 — Tariff quota under order number 09.0139
+
+1\. All rice imported within the tariff quota under order number 09.0139 shall be placed under the end-use procedure in accordance with Article 254 of Regulation (EU) No 952/2013. All rice imported within the tariff quota under order number 09.0139 shall be processed within 6 months of the date of release for free circulation.
+
+2\. On the request of authorisation for the end-use, the importer shall indicate the place of processing, which is either the name of a processing undertaking and a Member State or not more than five different processing plants.
+
+3\. The amount of the security to be lodged by operators to ensure that the requirement laid down in paragraph 1 has been met is set out in Annex I.
+
+4\. The security shall be released where proof has been presented that the product has been processed within 6 months of the date of release for free circulation. Where the requirement of processing is not met within this deadline, the security released shall be reduced by 2 % for each day by which the time limit is exceeded.
+
+5\. The competent authority shall receive a proof of processing within 6 months following the time limit for processing. Otherwise, the security shall be further reduced by 2 % for each day by which the time limit is exceeded.
+
+#### Article 13 — Tariff quotas under order numbers 09.0141, 09.0165, 09.0166, 09.0167, 09.0168, 09.0169, 09.0170 and 09.0171
+
+1\. Import within the tariff quotas under order numbers 09.0141, 09.0165, 09.0166, 09.0167, 09.0168, 09.0169, 09.0170 and 09.0171 shall be subject to the presentation of a certificate of origin.
+
+2\. The certificate of origin referred to in paragraph 1 of this Article shall be issued in accordance with Article 15a(1) of Implementing Regulation (EU) 2020/761.
+
+If, in accordance with the transitional rules laid down in Article 31c of this Regulation, the third country issuing the document does not use ELAN, the certificate of origin referred to in paragraph 1 of this Article shall be issued following the model for a certificate of origin set out in Part B of Annex II to this Regulation.
+
+3\. The certificate of origin shall be valid for 90 days from the date of issue but not later than 31 December of the year of issue.
+
+4\. The name of the competent authority of Bangladesh for issuing certificates of origin shall be published in the C series of the Official Journal of the European Union.
+
+5\. The competent authority of Bangladesh shall insert one of the entries listed in Annex III in Section ‘Special particulars/Special conditions (free text)’ in the ELAN1L-TCDOC, subtype ‘certificate of origin’ or, alternatively, if during the transitional periods governed by the rules laid down in Article 31a that authority does not use ELAN, under Section ‘Remarks’ in the certificate of origin.
+
+6\. Where the tax collected by the exporting country is less than the reduced duty set out in Annex I, the reduction shall not exceed the amount collected.
+
+7\. The quantities at stages of milling other than the husked-rice stage shall be converted using the conversion rates set out in Article 1 of Commission Implementing Regulation (EU) 2023/2834 ( 11 ).
+
+### SECTION 2a — SUGAR
+
+#### Article 13a
+
+For sugar tariff quota with order number 09.0879, all of the following requirements shall apply:
+
+(a) release for free circulation in the Union shall be subject to the end-use procedure for refining referred to in Article 210 of Regulation (EU) No 952/2013;
+
+(b) by way of derogation from Article 239 of Commission Delegated Regulation (EU) 2015/2446 ( 12 ), the obligation to refine shall not be transferred to another legal or natural person;
+
+(c) refining shall take place within a period of 180 days from the release of the sugar for free circulation in the Union.
+
+### SECTION 3 — FRUIT AND VEGETABLES; PROCESSED FRUIT AND VEGETABLE PRODUCTS
+
+#### Article 14 — Definitions for tariff quotas under order numbers 09.0025, 09.0027 and 09.0033
+
+1\. For the tariff quota under order number 09.0025, ‘high quality sweet oranges’ shall mean oranges similar in variety characteristics, ripe, firm and of good shape, of at least good colour, of flexible unrotted structure, and without unhealed cracks in the skin, hard or dry skin, exanthemata, growth tears, contusions (except as caused by normal handling and packaging), damage caused by dryness or humidity, broad or emergent hispids, folds, scars, oil stains, scales, sun marks, dirt or other foreign matter, disease, insects or damage caused by machinery, movement or otherwise; a maximum of 15 % of the fruit in each consignment may not meet this specification, this percentage including at most 5 % of defects amounting to serious damage, and the latter percentage including at most 0,5 % rot.
+
+2\. For the tariff quota under order number 09.0027, citrus hybrids known as ‘minneolas’ shall mean citrus hybrids of the Minneola variety (Citrus paradisi Macf. CV Duncan and Citrus reticulate blanca CV Dancy).
+
+3\. For the tariff quota under order number 09.0033, ‘frozen concentrated orange juice, of a Brix value not exceeding 50’ shall mean orange juice with a density of no more than 1,229 grams per cubic centimetre at 20 °C.
+
+#### Article 15 — Certificate of authenticity for tariff quotas under order numbers 09.0025, 09.0027 and 09.0033
+
+1\. Products to be released for free circulation within the tariff quotas under order numbers 09.0025, 09.0027 and 09.0033, shall be accompanied by a certificate of authenticity in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761, issued by the competent authorities of the country of origin as listed in Annex IV to this Regulation and confirming the products’ specific characteristics as set out in Article 14 of this Regulation.
+
+If, in accordance with the transitional rules laid down in Article 31c, the third country issuing the document does not use ELAN, the certificate of authenticity issued by the competent authorities of the country of origin as listed in Annex IV and confirming the products’ specific characteristics as set out in Article 14 shall be issued following the template as set out in Parts C, D and E of Annex II.
+
+2\. However, in the case of concentrated orange juice, presentation of a certificate of authenticity may be replaced by presentation to the Commission before importation of a general attestation from the competent authority of the country of origin stating that concentrated orange juice produced therein contains no blood orange juice. The Commission shall then inform Member States by electronic means so that they can advise their customs services.
+
+### SECTION 4 — WINE
+
+#### Article 16 — Tariff quotas under order numbers 09.1526, 09.1527, 09.1558, 09.1559, 09.1570 and 09.1572
+
+1\. Exemption from customs duty for the tariff quotas under order numbers 09.1526, 09.1527, 09.1558, 09.1559, 09.1570 and 09.1572 applies subject to the requirement that the imported wines do not benefit from export subsidies.
+
+2\. A VI-1 document or a VI-2 extract drawn up in accordance with Article 22 of Commission Delegated Regulation (EU) 2018/273 ( 13 ) shall be presented to the customs authorities of the Union.
+
+3\. In accordance with Protocol 2 to the Stabilisation and Association Agreement between the European Communities and their Member States of the one part, and the Republic of Serbia, of the other part ( 14 ) concluded by Council and Commission Decision 2013/490/EU ( 15 ), if Serbia pays export subsidies in respect of the relevant products, the exemption from customs duty within the tariff quotas under order numbers 09.1526 and 09.1527 shall be suspended.
+
+4\. Consultations at the request of one of the Contracting Parties referred to in paragraph 3 may be held to adapt the tariff quotas under order numbers 09.1526 and 09.1527 by transferring quantities from the tariff quota under order number 09.1527 to the tariff quota under order number 09.1526.
+
+5\. In accordance with the Additional Protocol adjusting the trade aspects of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part, to take account of the outcome of the negotiations between the parties on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine names and the reciprocal recognition, protection and control of designations for spirits and aromatised drinks ( 16 ) (‘additional protocol on wine’), concluded by Council Decision 2001/916/EC ( 17 ), if North Macedonia pays export subsidies in respect of the relevant products, the exemption from customs duty within the tariff quotas provided for in the additional protocol shall be suspended.
+
+6\. Notwithstanding the conditions laid down in point (5)(a) of Annex I to the additional protocol on wine, imports of wine within the Union tariff quotas under order numbers 09.1558 and 09.1559 shall be subject to the provisions of Protocol 4 concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation to the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part ( 18 ), approved by Council and Commission Decision 2004/239/EC, Euratom ( 19 ).
+
+7\. Consultations at the request of one of the Contracting Parties referred to in paragraph 6 may be held to adapt the tariff quotas under order numbers 09.1558 and 09.1559 by transferring quantities above 6 000 hl from the tariff quota under order number 09.1559 to the tariff quota under order number 09.1558.
+
+8\. In accordance with the Stabilisation and Association Agreement between the European Union and the European Atomic Energy Community, of the one part, and Kosovo, of the other part ( 20 ), concluded by Council Decision (EU) 2016/342 ( 21 ), if Kosovo ( 22 ) pays export subsidies in respect of the relevant products, the exemption from customs duty within the tariff quotas under order numbers 09.1570 and 09.1572 shall be suspended.
+
+9\. For tariff quotas under order numbers 09.1570 and 09.1572 the VI-1 document shall mention compliance with the requirement set out in paragraph 1 as follows: ‘The products listed on this certificate do not benefit from export subsidies’.
+
+### SECTION 5 — BEEF AND VEAL
+
+#### Article 17 — Management of tariff quotas under order numbers 09.0161, 09.0162, 09.0163 and 09.0164
+
+Tariff quotas under order numbers 09.0161 and 09.0163 shall be used to apply for CN code ex 0202 20 30 ; tariff quotas under order numbers 09.0162 and 09.0164 shall be used to apply for CN codes ex 0202 30 10 , ex 0202 30 50 , ex 0202 30 90 and ex 0206 29 91 .
+
+#### Article 18 — Definitions for tariff quotas under order numbers 09.0161, 09.0162, 09.0163 and 09.0164
+
+1\. For the purposes of this Regulation, an ‘A-product’ within tariff quotas under order numbers —————  , 09.0161 and 09.0162 shall mean a processed product falling within CN code 1602 10 00 , 1602 50 31 or 1602 50 95 , not containing meat other than that of animals of the bovine species. The product shall have a collagen/protein ratio of no more than 0,45 and contain by weight at least 20 % of lean meat, excluding offal and fat with meat and jelly accounting for at least 85 % of the total net weight. For the purposes of this paragraph:
+
+(a) the collagen content shall be considered to be the hydroxyproline content multiplied by the factor 8, whereas the hydroxyproline content shall be determined according to ISO method 3496-1994;
+
+(b) the lean bovine meat content excluding fat shall be determined in accordance with the procedure laid down in the Annex to Commission Regulation (EEC) No 2429/86 ( 23 );
+
+(c) offal shall include the following: heads and cuts thereof (including ears), feet, tails, hearts, udders, livers, kidneys, sweetbreads (thymus glands), pancreas, brains, lungs, throats, thick skirts, spleens, tongues, caul, spinal cords, edible skin, reproductive organs (i.e. uteri, ovaries and testes), thyroid glands, pituitary glands;
+
+(d) the product shall be subjected to a heat treatment sufficient to ensure the coagulation of meat proteins in the whole of the product which may not show any traces of a pinkish liquid on the cut surface when the product is cut along a line passing through its thickest part.
+
+2\. For the purposes of this Regulation, a ‘B-product’ within the tariff quotas under order numbers 09.0163 and 09.0164 shall mean a processed product containing beef, other than the products specified in point (a) of Part XV of Annex I to Regulation (EU) No 1308/2013 or the products referred to under paragraph 1 of this Article. A processed product falling within CN code 0210 20 90 , which has been dried or smoked so that the colour and consistency of the fresh meat has totally disappeared and with a water/protein ratio not exceeding 3,2:1, shall also be a B-product.
+
+#### Article 19 — Specific provisions for tariff quotas under order numbers 09.0161, 09.0162, 09.0163 and 09.0164
+
+1\. The quantities shall be expressed in bone-in equivalence. For the purposes of this paragraph, 100 kilograms of bone-in beef shall equal 77 kilograms of boneless beef.
+
+2\. Within 3 months of the date of release for free circulation in the Union, the entire imported quantity shall be processed into the required finished product, in accordance with Article 18.
+
+3\. Products imported within tariff quotas under order numbers —————  09.0161, 09.0162, 09.0163 and 09.0164 shall be placed under the end-use procedure in accordance with Article 254 of Regulation (EU) No 952/2013.
+
+4\. In order to verify the quality of the finished product and establish its conformity with the processor’s formula for the composition of the product, competent authorities of Member States may take representative samples and analyse those products.
+
+5\. The competent authority shall receive a proof that the entire quantity of meat imported has been processed within 3 months of the date of release for free circulation into the required finished products, and in the establishment specified. Where processing took place after the three-month time limit, the released security shall be decreased by 15 % plus 2 % of the remaining amount for each day by which the time limit has been exceeded.
+
+6\. Proof of processing shall be furnished within 7 months of the date of release for free circulation. If proof of processing is established within the seven-month time limit and produced within 18 months following the time limit, the amount forfeited, less 15 % of the security amount, shall be repaid.
+
+7\. The amount of the security to be lodged by operators to ensure that the obligation laid down in paragraph 2 has been met is set out in Annex I.
+
+#### Article 20 — Tariff quotas under order numbers 09.0142, 09.0143 and 09.0146
+
+1\. For the purposes of this Regulation, for the tariff quotas under order numbers 09.0142 and 09.0143, ‘frozen thin skirt’ shall mean thin skirt which is frozen, with an internal temperature of – 12 °C or lower when it enters the customs territory of the Union.
+
+2\. Only whole thin skirt may be imported within the tariff quotas under order numbers 09.0142 and 09.0143.
+
+3\. Thin skirt imported within the tariff quota under order number 09.0143 can be released for free circulation only where accompanied by a certificate of authenticity issued by Argentina as set out in Part F of Annex II.
+
+4\. A certificate of authenticity can be used for an import declaration only.
+
+5\. Certificates of authenticity shall be completed in one of the official languages of the Union or of Argentina, and shall bear an individual serial number allocated by the issuing authorities.
+
+6\. Certificates of authenticity shall be valid only if they are completed and endorsed by the competent authorities. They shall be issued in compliance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.
+
+If, in accordance with the transitional rules laid down in Article 31c, the third country issuing the document does not use ELAN, the certificate of authenticity shall be considered duly endorsed if they state the date and place of issue and if they bear a printed seal or the stamp of the issuing authority and the signature of the person or persons empowered to sign them.
+
+7\. The issuing authority referred to in paragraph 6 shall:
+
+(a) be recognised as such by Argentina;
+
+(b) undertake to check the particulars on certificates of authenticity;
+
+(c) undertake to supply the Commission and the Member States, on request, with any information enabling the particulars on certificates of authenticity to be evaluated.
+
+8\. The name of the competent authority of Argentina for issuing certificates of authenticity shall be published in the C series of the Official Journal of the European Union.
+
+9\. Certificates of authenticity shall be valid for 3 months from their dates of issue and in any case not beyond the last day of the tariff quota period.
+
+10\. The rules of origin applicable to the products imported within the tariff quota under order number 09.0146 shall be those provided for in Article 4 of the Agreement between the European Community and the Swiss Confederation on trade in agricultural products ( 24 ) concluded by Council and Commission Decision 2002/309/EC, Euratom ( 25 ).
+
+#### Article 21 — Tariff quota under order number 09.0113
+
+1\. The in-quota duty shall apply on condition that the animals are fattened for at least 120 days in the Member State into which they were imported, in production units which must be indicated by the importer in the month following the animals’ release for free circulation.
+
+2\. In accordance with Article 254 of Regulation (EU) No 952/2013, the animals imported shall be subject to the end-use procedure to ensure that the fattening requirement referred to in paragraph 1 of this Article is complied with.
+
+3\. The amount of the security to be lodged by operators to ensure that the fattening requirement referred to in paragraph 1 is complied with is set out in Annex I.
+
+4\. In addition to possible cases of force majeure, the security referred to in paragraph 3 shall be released if proof is furnished to the competent authority of the Member State that the young bovine animals:
+
+(a) have been fattened on the farm or farms indicated in accordance with paragraph 1;
+
+(b) have not been slaughtered before a period of 120 days from the date of import has elapsed; or
+
+(c) have been slaughtered for health reasons or have died as a result of sickness or accident before the period referred to in point (b) has elapsed.
+
+#### Article 22 — Tariff quotas under order numbers 09.0114 and 09.0115
+
+1\. For the tariff quotas under order numbers 09.0114 and 09.0115, animals shall be ‘other than for slaughter’ where they are not slaughtered within 4 months of the date of acceptance of the declaration of release for free circulation. Derogations may be granted in duly proven cases of force majeure.
+
+2\. To qualify for the import tariff quota under order number 09.0115, the following documents must be presented:
+
+(a) for bulls: a pedigree certificate;
+
+(b) for cows and heifers: a pedigree certificate or a certificate of registration in a herdbook certifying the purity of the breed.
+
+3\. In accordance with Article 254 of Regulation (EU) No 952/2013, animals imported within the tariff quotas under order numbers 09.0114 and 09.0115 shall be subject to the end-use procedure to ensure that they are not slaughtered within 4 months of their release for free circulation.
+
+4\. The amount of the security to be lodged by operators to ensure that the non-slaughter requirement laid down in paragraph 3 is complied with is set out in Annex I.
+
+5\. The security provided for in paragraph 4 shall be released immediately where proof is presented to the customs authorities concerned that the animals:
+
+(a) have not been slaughtered within 4 months following the date of their release for free circulation; or
+
+(b) they have been slaughtered within that period for reasons of force majeure or for health reasons or have died of disease or as a result of an accident.
+
+#### Article 23 — Management of the tariff quota under order number 09.2201 and sub-tariff quotas under order numbers 09.2202 and 09.2203
+
+1\. The tariff quota under order number 09.2201 shall be managed as a parent tariff quota with four quarterly sub-tariff quotas under order numbers 09.2202 and 09.2203.
+
+2\. The benefit from the tariff quota under order number 09.2201 can be granted only by applying for the sub-tariff quotas under order numbers 09.2202 and 09.2203.
+
+#### Article 24 — Definitions and requirements for the tariff quota under order number 09.2201 and sub-tariff quotas under order numbers 09.2202 and 09.2203
+
+1\. For the tariff quotas under order numbers 09.2201, 09.2202 and 09.2203, the following definitions shall apply:
+
+(a) ‘frozen meat’ means meat with an internal temperature of – 12 °C or lower when it enters the customs territory of the Union;
+
+(b) ‘heifers and steers’ mean ‘bovine animals’, as defined in Part V of Annex II to Regulation (EU) No 1308/2013, which correspond, respectively, to categories E and C, as defined in Part A.II of Annex IV to that Regulation.
+
+2\. High-quality fresh, chilled or frozen beef shall be eligible for import within the tariff quotas under order numbers 09.2201, 09.2202 and 09.2203 if it fulfils the following requirements:
+
+(a) beef cuts are obtained from carcasses of heifers and steers less than 30 months of age which have only been fed a diet, for at least the last 100 days before slaughter, containing not less than 62 % of concentrates and/or feed grain co-products on a dietary dry matter basis, that meets or exceeds a metabolisable energy content greater than 12,26 mega joules per one kilogram of dry matter;
+
+(b) the heifers and steers that are fed the diet described in point (a) are fed, on average, no less than 1,4 % of live body weight per day on a dry matter basis;
+
+(c) the carcass from which beef cuts are derived are evaluated by an evaluator employed by the national government who bases the evaluation, and a resulting classification of the carcass, on a method approved by the national government. The national government evaluation method, and its classifications, must evaluate expected carcass quality using a combination of carcass maturity and palatability traits of the beef cuts. Such an evaluation method of the carcass shall include, but not be limited to, an evaluation of the maturity characteristics of colour and texture of the longissimus dorsi muscle and bone and cartilage ossification, as well as an evaluation of expected palatability traits including a combination of the discrete specifications of intramuscular fat and firmness of the longissimus dorsi muscle;
+
+(d) the cuts are labelled in accordance with Article 13 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council ( 26 ).
+
+The indication ‘High Quality Beef’ may be added to the information on the label referred to in point (d).
+
+#### Article 25 — Certificates of authenticity for the tariff quota under order number 09.2201 and sub-tariff quotas under order numbers 09.2202 and 09.2203
+
+1\. In order to benefit from the tariff quota under order number 09.2201, a certificate of authenticity issued in the third country concerned shall be presented to the customs authorities of the Union.
+
+2\. The certificate of authenticity shall be established in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761 or, alternatively, if allowed by the transitional rules laid down in Article 31c of this Regulation and if the issuing authority of the third country does not use ELAN, in accordance with the model set out in Part G of Annex II to this Regulation.
+
+3\. Section ‘Special particulars/Special conditions’, or the reverse side of the certificate of authenticity issued based on the model set out in Part G of Annex II, shall indicate that the meat originating in the exporting country fulfils the requirements laid down in Article 24.
+
+7\. The certificate of authenticity is valid 3 months from the date of its issue.
+
+#### Article 26 — Issuing authorities in third countries as regards imports within tariff quota under order number 09.2201 and sub-tariff quotas under order numbers 09.2202 and 09.2203
+
+1\. The issuing authority referred to in Article 25 shall:
+
+(a) be recognised as such by the competent authority of the exporting country;
+
+(b) undertake to verify entries in the certificates of authenticity.
+
+2\. The following information shall be notified to the Commission:
+
+(a) the name and address, if possible including email and internet address, of the authority or authorities recognised to issue the certificates of authenticity referred to in Article 25;
+
+(b) specimen of the stamps used by the issuing authority or authorities;
+
+(c) the procedures and criteria followed by the issuing authority or authorities in order to establish whether the requirements laid down in Article 24 are fulfilled.
+
+#### Article 27 — Publication of the names of the issuing authorities in third countries for tariff quota under order number 09.2201 and sub-tariff quotas under order numbers 09.2202 and 09.2203
+
+When the requirements laid down in Article 26 are fulfilled, the Commission shall make public the name of the issuing authority or authorities concerned in the C series of the Official Journal of the European Union.
+
+### SECTION 6 — MILK AND MILK PRODUCTS
+
+#### Article 28 — Definitions and requirements for tariff quota under order number 09.0151
+
+1\. For the tariff quota under order number 09.0151, for the purposes of the definition of ‘cheese for processing’, ‘processed cheese’ shall mean a product falling within CN code 0406 30 .
+
+2\. Products imported within the tariff quota under order number 09.0151 shall be placed under the end-use procedure in accordance with Article 254 of Regulation (EU) No 952/2013.
+
+#### Article 29 — Tariff quotas under order numbers 09.0159 and 09.0160
+
+Tariff quota 09.0159 shall be used to apply for CN code 0405 10 ; tariff quota 09.0160 shall be used to apply for CN code 0405 90 .
+
+### SECTION 7 — PIGMEAT
+
+#### Article 30 — Definitions for tariff quota under order number 09.0118
+
+For the tariff quota under order number 09.0118, tenderloin, fresh, chilled or frozen falling within CN codes ex 0203 19 55 and ex 0203 29 55 shall comprise cuts including the meats of muscles musculus major psoas and musculus minor psoas, with or without head, trimmed or not trimmed.
+
+### SECTION 8 — SHEEPMEAT AND GOATMEAT
+
+#### Article 31 — Tariff quotas in the sheepmeat and goatmeat sector
+
+1\. For tariff quotas in the sheepmeat and goatmeat sector, ‘kid’ shall mean goat of up to one year old.
+
+2\. For the purpose of calculating the quantities of ‘carcass weight equivalent’, the net weight shall be multiplied by the following coefficients:
+
+(a) for boneless lamb and boneless goatmeat of kid: 1,67;
+
+(b) for boneless mutton, boneless sheep and boneless goatmeat other than of kid and mixtures of any of these: 1,81;
+
+(c) for bone-in products: 1,00;
+
+(d) for live animals: 0,47.
+
+3\. In the case of a tariff quota which is part of a preferential tariff agreement, the proof of origin shall be of the same type as the proof of origin laid down in that agreement.
+
+4\. Where tariff quotas originating in the same third country and resulting from both a preferential tariff agreement and non-preferential agreement are merged, the proof of origin laid down in the relevant agreement shall be presented to the customs authorities of the Union together with the customs declaration for release for free circulation for the products concerned.
+
+5\. In the case of tariff quotas other than those resulting from preferential tariff agreements, the customs declaration for release for free circulation for the products concerned shall be submitted to the customs authorities of the Union together with a document issued by the competent authority or agency in the third country of origin. This document shall include:
+
+(a) the name of the consigner;
+
+(b) the type of product and its CN code;
+
+(c) the number of packages, their nature and the marks and numbers they bear;
+
+(d) the order number or order numbers of the tariff quota(s) concerned;
+
+(e) the total net weight broken down per coefficient category as provided for in Annex I.
+
+6\. The document referred to in paragraph 5 of this Article shall be issued in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761, unless the transitional rules laid down in Article 31c of this Regulation allow the competent authority or agency in the third country of origin to issue it in accordance with Annex I to this Regulation.
+
+#### Article 31a — Tariff quotas for fresh, chilled and frozen sheep and goatmeat originating in New Zealand with order numbers 09.7901, 09.7898, 09.7899, 09.7902, 09.7896 and 09.7897
+
+1\. This Article applies to tariff quotas with order numbers 09.7901, 09.7898, 09.7899, 09.7902, 09.7896 and 09.7897.
+
+2\. Release for free circulation of quantities imported under the tariff quotas referred to in paragraph 1 shall be conditional upon presentation of a certificate of eligibility.
+
+3\. Certificates of eligibility shall be drawn up in accordance with the model set out in Annex II, point H.
+
+4\. Certificates of eligibility shall be completed in one of the official languages of the Union.
+
+5\. Certificates of eligibility shall bear an individual serial number allocated by the issuing authority.
+
+6\. Certificates of eligibility shall be valid only if they are duly completed and endorsed by the issuing authority for the import tariff quota concerned.
+
+7\. Certificates of eligibility shall be considered to have been duly endorsed if they state the date and place of issue and if they bear a printed seal or the stamp of the issuing authority and the signature of the person or persons empowered to sign them.
+
+8\. Certificates of eligibility shall be valid until the end of the applicable tariff quota period.
+
+9\. The conversion factors laid down in Annex V shall be used to convert product weight to carcass weight equivalent for the tariff quotas with order number 09.7901, 09.7898, 09.7899, 09.7902, 09.7896 and 09.7897.
+
+### SECTION 9 — DAIRY PROCESSED AGRICULTURAL PRODUCTS AND HIGH PROTEIN WHEY
+
+#### Article 31b — Tariff quota for dairy processed agricultural products and high protein whey originating in New Zealand with order number 09.7903
+
+1\. This Article applies to tariff quota with order number 09.7903.
+
+2\. Release for free circulation of quantities imported under the tariff quota referred to in paragraph 1 shall be conditional upon presentation of a certificate of eligibility.
+
+3\. Certificates of eligibility shall be drawn up in accordance with the model set out in Annex II, point H.
+
+4\. Certificates of eligibility shall be completed in one of the official languages of the Union.
+
+5\. Certificates of eligibility shall bear an individual serial number allocated by the issuing authority.
+
+6\. Certificates of eligibility shall be valid only if they are duly completed and endorsed by the issuing authority for the import tariff quota concerned.
+
+7\. Certificates of eligibility shall be considered to have been duly endorsed if they state the date and place of issue and if they bear a printed seal or the stamp of the issuing authority and the signature of the person or persons empowered to sign them.
+
+8\. Certificates of eligibility shall be valid until the end of the applicable tariff quota period.
+
+## CHAPTER III — TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 31c — Transitional provisions applicable to ELAN1L-TCDOC
+
+Where the provisions of this Regulation and Annex I to this Regulation require third countries to issue documents in compliance with Annex XIV.8 to Implementing Regulation (EU) 2020/761, the transitional rules laid down in Articles 72a to 72d of that Implementing Regulation apply.
+
+#### Article 32 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall apply to the tariff quota periods starting from 1 January 2021 onwards.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+Notwithstanding the rules on the interpretation of the Combined Nomenclature, the wording of the description of products must be regarded as merely indicative, since the applicability of the preferential arrangements is determined, within the context of this Annex, by the scope of the CN codes. Where ‘ex’ CN codes are indicated, the application of the preferential scheme is to be determined on the basis of the CN code, TARIC codes (if any) and corresponding description taken together.
+
+**Tariff quotas in the sector of cereals**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6703</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part (1), concluded by Council Decision 2014/668/EU (2) (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Oats: 1004 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7 700 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 7 700 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 161, 29.5.2014, p. 3.  (2)  Council Decision 2014/668/EU of 23 June 2014 on the signing, on behalf of the European Union, and provisional application of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, as regards Title III (with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other Party) and Titles IV, V, VI and VII thereof, as well as the related Annexes and Protocols (OJ L 278, 20.9.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0138</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Community and Canada pursuant to Article XXVIII of GATT 1994 for the modification of concessions with respect to cereals provided for in EC Schedule CXL annexed to the GATT 1994 (1), concluded by Council Decisions 2003/253/EC (2) Agreement in the form of an Exchange of Letters between the European Community and the United States of America relating to the modification of concessions with respect to cereals provided for in Schedule CXL annexed to the GATT 1994 (3), concluded by Council Decision 2003/254/EC (4) </td></tr>
+<tr><td>Product description and CN codes</td><td>Barley: 1003 10 00  1003 90 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td> 307 105 000 kg  </td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 16 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 95, 11.4.2003, p. 38.  (2)  Council Decision of 19 December 2002 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Canada pursuant to Article XXVIII of GATT 1994 for the modification of concessions with respect to cereals provided for in EC Schedule CXL annexed to the GATT 1994 (OJ L 95, 11.4.2003, p. 36).  (3)  OJ L 95, 11.4.2003, p. 41.  (4)  2003/254/EC: Council Decision of 19 December 2002 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the United States of America relating to the modification of concessions with respect to cereals provided for in EC Schedule CXL to the GATT 1994 (OJ L 95, 11.4.2003, p. 40). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6707</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Barley groats and meals: ex 1103 19 20 (see TARIC codes)  Groats and meals of cereals (excl. wheat, rye, oats, maize, rice and barley):  1103 19 90  Cereal pellets (excl. wheat, rye, oats, maize, rice and barley):  1103 20 90  Rolled or flaked wheat grains:  1104 19 10  Rolled or flaked maize grains:  1104 19 50  Rolled barley grains:  1104 19 61  Flaked barley grains:  1104 19 69  Worked grains (for example, hulled, pearled, sliced or kibbled), other than of oats, of rye or of maize:  1104 29 04  1104 29 05  1104 29 08  ex 1104 29 17 (see TARIC codes)  ex 1104 29 30 (see TARIC codes)  1104 29 51  1104 29 59  1104 29 81  1104 29 89  Germ of cereals, whole, rolled, flaked or ground:  1104 30 </td></tr>
+<tr><td>TARIC codes</td><td>1103 19 20 10  1104 29 17 90  1104 29 30 90 </td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>33 200 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 33 200 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6708</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Malt, whether or not roasted: 1107  Wheat gluten, whether or not dried:  1109 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>17 500 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 17 500 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6709</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Wheat starch: 1108 11  Maize starch:  1108 12  Potato starch:  1108 13 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>24 400 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 24 400 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.6711 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals: 2302 10 90 2302 30 90 2302 40 90 Residues from the manufacture of starch from maize (excluding concentrated steeping liquors), of a protein content, calculated on the dry product, exceeding 40 % by weight: 2303 10 11 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 85 000 000 kg Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 85 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6719 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Yogurt containing 70 % or more by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose: 0403 20 49 36 Other sugar confectionery, not containing cocoa, containing 70 % or more by weight of sucrose: ex 1704 90 99 (for sugar content ≥ 70 %) (see TARIC codes) Cocoa powder, containing 65 % or more by weight of sucrose or isoglucose expressed as sucrose 1806 10 30 1806 10 90 Other preparations in blocks, slabs or bars weighing more than 2 kg or in liquid, paste, powder, granular or other bulk in containers or immediate packings, of a content exceeding 2 kg, containing less than 18 % by weight of cocoa butter and 70 % or more by weight of sucrose: ex 1806 20 95 (for sugar content ≥ 70 %) (see TARIC codes) Preparations with a basis of coffee, tea or mate: 2101 12 98 2101 20 98 Flavoured or coloured isoglucose, glucose, maltodextrine, and sugar syrups 2106 90 30 2106 90 55 2106 90 59 Mixtures of odoriferous substances and mixtures with a basis of one or more of these substances, of a kind used in the drink industries, containing all flavouring agents characterising a beverage, of an actual alcoholic strength by vol. not exceeding 0,5 %: 3302 10 29 |
+| TARIC codes | 0403 20 49 36 1704 90 99 91 1704 90 99 99 1806 20 95 92 1806 20 95 99 |
+| Origin | Ukraine |
+| Quantity | 7 500 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 7 500 000 kg net weight |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6733 Only applicable from 29 October to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Flour of common wheat, meslin, spelt, maize, barley and other 1101 00 15 1101 00 90 1102 20 10 1102 20 90 1102 90 10 1102 90 90 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 30 000 000 kg |
+| Tariff quota period | 29 October to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6734 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Spelt, common wheat and meslin, other than seed Groats and meal of common wheat and spelt Wheat pellets 1001 99 00 1103 11 90 1103 20 60 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 1 300 000 000 kg |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6735 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Barley, other than seed Barley pellets 1003 90 00 , ex 1103 20 25 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 450 000 000 kg |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6736 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Maize other than seed Groats and meal of maize Maize pellets Worked grains of maize 1005 90 00 1103 13 10 1103 13 90 1103 20 40 1104 23 40 1104 23 98 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 1 000 000 000 kg |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0090</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Community and the United States of America pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 (1), concluded by Council Decision 2006/333/EC (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Corn gluten: ex 2303 10 11 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2303 10 11 10 </td></tr>
+<tr><td>Origin</td><td>United States of America</td></tr>
+<tr><td>Quantity</td><td>10 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td> Certificate of origin issued by competent authorities, in accordance with Article 57 of Implementing Regulation (EU) 2015/2447 <br> Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.   </td></tr>
+<tr><td>In-quota customs duty</td><td>16 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 124, 11.5.2006, p. 15.  (2)  Council Decision of 20 March 2006 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the United States of America pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union (OJ L 124, 11.5.2006, p. 13). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0124</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations (1)</td></tr>
+<tr><td>Product description and CN codes</td><td>Sweet potatoes other than those intended for human consumption: 0714 20 90  As defined in Article 7 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>China</td></tr>
+<tr><td>Quantity</td><td>252 641 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td> Certificate of origin issued by competent authorities, in accordance with Article 57 of Implementing Regulation (EU) 2015/2447 <br> Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.   </td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 146, 20.6.1996, p. 1. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0125</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreement in the form of an Exchange of Letters on the consultations between the European Community and the Kingdom of Thailand under GATT Article XXIII (1), concluded by Council Decision 96/317/EC (2) </td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc starch: 1108 14 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Thailand</td></tr>
+<tr><td>Quantity</td><td>10 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td> Certificate of origin issued by competent authorities, in accordance with Article 57 of Implementing Regulation (EU) 2015/2447 <br> Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.   </td></tr>
+<tr><td>In-quota customs duty</td><td>Duty equal to the most favoured nation duty (MFN duty) in force, less EUR 100 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 122, 22.5.1996, p. 16.  (2)  Council Decision of 13 May 1996 concerning the conclusion of the results of consultations with Thailand under GATT Article XXIII (OJ L 122, 22.5.1996, p. 15). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0126</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Union and the Republic of Indonesia pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union (), concluded by Council Decision (EU) 2021/1197 ().</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc (cassava), yams (Dioscorea spp.), taro (Colocasia spp.), yautia (Xanthosoma spp.), arrowroot, salep and similar roots and tubers with high starch content ex 0714 10 00 (see TARIC codes) as defined in Article 7 of this Regulation  0714 30 00  0714 40 00  0714 50 00  0714 90 20 </td></tr>
+<tr><td>TARIC codes</td><td>0714 10 00 10  0714 10 00 99 </td></tr>
+<tr><td>Origin</td><td>Indonesia</td></tr>
+<tr><td>Quantity</td><td>165 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td> Certificate of origin issued by competent authorities, in accordance with Article 57 of Implementing Regulation (EU) 2015/2447 <br> Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.   </td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 260, 21.7.2021, p. 3.  (2)  Council Decision (EU) 2021/1197 of 13 July 2021 on the conclusion, on behalf of the Union, of the Agreement in the form of an Exchange of Letters between the European Union and the Republic of Indonesia pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union (OJ L 260, 21.7.2021, p. 1). </td></tr>
+</tbody>
+</table>
+
+| Order number | 09.0127 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Manioc, yams (Dioscorea spp.), taro (Colocasia spp.), yautia (Xanthosoma spp.), arrowroot, salep and similar roots and tubers with high starch content: ex 0714 10 00 (see TARIC codes) as defined in Article 7 of this Regulation 0714 30 00 0714 40 00 0714 50 00 0714 90 20 |
+| TARIC codes | 0714 10 00 10 0714 10 00 99 |
+| Origin | China |
+| Quantity | 275 805 000 kg net weight |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Certificate of origin issued by competent authorities, in accordance with Article 57 of Implementing Regulation (EU) 2015/2447. Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761. |
+| In-quota customs duty | 6 % ad valorem |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0128</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc, yams (Dioscorea spp.), taro (Colocasia spp.), yautia (Xanthosoma spp.), arrowroot, salep and similar roots and tubers with high starch content: ex 0714 10 00 (see TARIC codes) as defined in Article 7 of this Regulation  0714 30 00  0714 40 00  0714 50 00  0714 90 20 </td></tr>
+<tr><td>TARIC codes</td><td>0714 10 00 10  0714 10 00 99 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>Third countries which are members of the WTO except China, Indonesia, Russia, Thailand and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>124 552 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0129</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc, yams (Dioscorea spp.), taro (Colocasia spp.), yautia (Xanthosoma spp.), arrowroot, salep and similar roots and tubers with high starch content: ex 0714 10 00 (see TARIC codes) as defined in Article 7 of this Regulation  0714 30 00  0714 40 00  0714 50 00  0714 90 20 </td></tr>
+<tr><td>TARIC codes</td><td>0714 10 00 10  0714 10 00 99 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>Third countries which are not members of the WTO except Belarus</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>30 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0130</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc, yams (Dioscorea spp.), taro (Colocasia spp.), yautia (Xanthosoma spp.), arrowroot, salep and similar roots and tubers with high starch content: ex 0714 10 00 (see TARIC codes)  ex 0714 30 00 (see TARIC codes)  ex 0714 40 00 (see TARIC codes)  ex 0714 50 00 (see TARIC codes)  ex 0714 90 20 (see TARIC codes)  As defined in Article 7 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0714 10 00 10  0714 30 00 10  0714 40 00 10  0714 50 00 10  0714 90 20 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>Third countries which are not members of the WTO except Belarus</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 691 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0131</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Sweet potatoes other than those intended for human consumption: 0714 20 90  As defined in Article 7 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, China, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>4 985 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0132</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc starch: 1108 14 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>8 290 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>Duty equal to the most favoured nation duty (MFN duty) in force, less EUR 100 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0135</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Manioc starch: 1108 14 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>500 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>Duty equal to the most favoured nation duty (MFN duty) in force, less EUR 100 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2903</td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision 94/800/EC of 22 December 1994 concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round of multilateral negotiations (1986-1994) (1)</td></tr>
+<tr><td>Product description and CN codes</td><td>Preparation consisting of a mixture of malt sprouts and barley screenings before the malting process (possibly including other seeds) with barley cleanings after the malting process, and containing by weight 15,5 % or more of protein: ex 2309 90 31 (see TARIC codes)  Preparation consisting of a mixture of malt sprouts and barley screenings before the malting process (possibly including other seeds) with barley cleanings after the malting process, and containing by weight 15,5 % or more of protein and not more than 23 % of starch:  ex 2309 90 41 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2309 90 31 11  2309 90 31 14  2309 90 41 41  2309 90 41 49 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>100 000 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 336, 23.12.1994, p. 1. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2905</td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision 94/800/EC of 22 December 1994 concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round of multilateral negotiations (1986-1994) (1)</td></tr>
+<tr><td>Product description and CN codes</td><td>Preparation consisting of a mixture of malt sprouts and barley screenings before the malting process (possibly including other seeds), with barley cleanings after the malting process, and containing by weight 12,5 % or more of protein: ex 2309 90 31 (see TARIC codes)  Preparation consisting of a mixture of malt sprouts and barley screenings before the malting process (possibly including other seeds) with barley cleanings after the malting process, and containing by weight 12,5 % or more of protein and not more than 28 % of starch:  ex 2309 90 41 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2309 90 31 11  2309 90 31 14  2309 90 31 17  2309 90 31 19  2309 90 41 41  2309 90 41 49  2309 90 41 51  2309 90 41 59 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>20 000 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 336, 23.12.1994, p. 1. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0071</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Millet: 1008 21 00  1008 29 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>888 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 7 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0072</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Brans, sharps and other residues of wheat and cereals other than maize and rice: 2302 30 10  2302 30 90  2302 40 10  2302 40 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>458 068 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN codes 2302 30 10 and 2302 40 10 : EUR 30,60 per 1 000 kg For CN codes 2302 30 90 and 2302 40 90 : EUR 62,25 per 1 000 kg </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0073</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Preparations of a kind used in animal feed: 2309 90 31  2309 90 41  2309 90 51 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 800 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>7 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0074</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Durum wheat with a vitreous grain content of 73 % or more: ex 1001 19 00 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>1001 19 00 12  1001 19 00 18 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>50 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>EUR 5 per 1 000 kg Where applicable, an additional security in accordance with Article 11 of this Regulation </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 11 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="2">09.0075</td></tr>
+<tr><td>Specific legal basis</td><td colspan="2">Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td colspan="3">Part A. Product description, CN codes and quality criteria</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="2">Durum wheat and common wheat of a minimum quality satisfying the quality criteria below ex 1001 19 00 (see TARIC codes)  ex 1001 99 00 (see TARIC codes) </td></tr>
+<tr><td rowspan="3">Quality criteria</td><td colspan="2">Type of wheat</td></tr>
+<tr><td>Durum wheat</td><td>Common wheat</td></tr>
+<tr><td>CN code 1001 19 00 </td><td>CN code 1001 99 00 </td></tr>
+<tr><td>Specific weight in kg/hl greater than or equal to</td><td>80</td><td>78</td></tr>
+<tr><td>Grains which have lost their vitreous aspect</td><td>Maximum 20,0 %</td><td>—</td></tr>
+<tr><td>Matter which is not quality wheat grains of unimpaired quality, of which:</td><td>Maximum 10,0 %</td><td>Maximum 10,0 %</td></tr>
+<tr><td>— broken and/or shrivelled grains</td><td>Maximum 7,0 %</td><td>Maximum 7,0 %</td></tr>
+<tr><td>— grains damaged by pests</td><td>Maximum 2,0 %</td><td>Maximum 2,0 %</td></tr>
+<tr><td>— grains affected with fusariosis and/or mottled grains</td><td>Maximum 5,0 %</td><td>—</td></tr>
+<tr><td>— sprouted grains</td><td>Maximum 0,5 %</td><td>Maximum 0,5 %</td></tr>
+<tr><td>Miscellaneous impurities (Schwarzbesatz)</td><td>Maximum 1,0 %</td><td>Maximum 1,0 %</td></tr>
+<tr><td>Hagberg falling number</td><td>Minimum 250</td><td>Minimum 230</td></tr>
+<tr><td>Protein content (13,5 % moisture content)</td><td>—</td><td>Minimum 14,6 %</td></tr>
+<tr><td colspan="3">Part B. TARIC codes, origin, quantity, tariff quota period, tariff quota sub-periods, proof of origin, in-quota customs duty, security and specific conditions</td></tr>
+<tr><td>TARIC codes</td><td colspan="2">1001 19 00 12  1001 99 00 13 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Origin</td><td colspan="2">All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Quantity</td><td colspan="2">300 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td colspan="2">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="2">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="2">Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td colspan="2">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="2">EUR 5 per 1 000 kg Where applicable, an additional security in accordance with Article 11 of this Regulation </td></tr>
+<tr><td>Specific conditions</td><td colspan="2">In accordance with Article 11 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0076</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Community and the United States of America pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union, concluded by Council Decision 2006/333/EC Agreement between the European Community and the Government of Canada on the conclusion of GATT Article XXIV:6 Negotiations (1), concluded by Council Decision 2007/444/EC (2) </td></tr>
+<tr><td>Product description and CN codes</td><td>Malting barley to be used for the production of beer aged in vats containing beechwood: ex 1003 90 00 (see TARIC codes)  ‘damaged grains’ and ‘sound and fair merchantable barley’ as defined in Article 8 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>1003 90 00 20 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>20 789 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 8 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>EUR 85 per 1 000 kg. If the malting barley consignments are accompanied by a certificate of conformity issued by the United States Federal Grain Inspection Service (FGIS), in accordance with Article 9 of this Regulation: EUR 10 per 1 000 kg </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 9 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 169, 29.6.2007, p. 55.  (2)  2007/444/EC: Council Decision of 22 February 2007 on the conclusion of an Agreement between the European Community and the Government of Canada on the conclusion of GATT Article XXIV:6 Negotiations (OJ L 169, 29.6.2007, p. 53). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0779</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, concerning certain agricultural products (1) concluded by Council Decision 95/582/EC (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Feedingstuffs for fish: ex 2309 90 31 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2309 90 31 30 </td></tr>
+<tr><td>Origin</td><td>Norway</td></tr>
+<tr><td>Quantity</td><td>1 177 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Proof of origin in accordance with Article 10 of this Regulation</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 10 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 327, 30.12.1995, p. 21.  (2)  Council Decision of 20 December 1995 on the conclusion of the Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products (OJ L 327, 30.12.1995, p. 17). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0689</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part (1), concluded by Council Decision 97/126/EC (2) Decision No 1/2020 of the EC/Faroe Islands Joint Committee of 27 July 2020 amending Protocols 1 and 4 to the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part [2020/1162] (3) </td></tr>
+<tr><td>Product description and CN codes</td><td>Feedingstuffs for fish: ex 2309 90 10 (see TARIC codes)  ex 2309 90 31 (see TARIC codes)  ex 2309 90 41 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2309 90 10 21  2309 90 10 81  2309 90 31 30  2309 90 41 20 </td></tr>
+<tr><td>Origin</td><td>Faroes</td></tr>
+<tr><td>Quantity</td><td>20 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Proof of origin in accordance with Article 10 of this Regulation</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 53, 22.2.1997, p. 2.  (2)  Council Decision 97/126/EC of 6 December 1996 concerning the conclusion of an agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part (OJ L 53, 22.2.1997, p. 1).  (3)  OJ L 257, 6.8.2020, p. 36. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0089</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Dog or cat food, put up for retail sale: 2309 10 13  2309 10 15  2309 10 19  2309 10 33  2309 10 39  2309 10 51  2309 10 53  2309 10 59  2309 10 70 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 732 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>7 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0070</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Preparations of a kind used in animal feeding: 2309 90 31  2309 90 41  2309 90 51  2309 90 96 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 700 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>7 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0043</td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision 94/800/EC of 22 December 1994 concerning the conclusion on behalf of the European Community, as regards matters within its competence, of the agreements reached in the Uruguay Round of multilateral negotiations (1986-1994)</td></tr>
+<tr><td>Product description and CN codes</td><td>Oat grains otherwise worked: 1104 22 95 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>231 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1949 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Starch and starch derivatives 1108 11 00 , 1108 12 00 , 1108 13 00 , 1108 14 00 , 1108 19 10 , 1108 19 90 , 1109 00 00, 2905 43 00 , 2905 44 11 , 2905 44 19 , 2905 44 91 , 2905 44 99 , 3505 10 10 , 3505 10 90 , 3824 60 11 , 3824 60 19 , 3824 60 91 and 3824 60 99 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 300 000 kg 2026 and subsequent years: 300 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1955 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Processed cereals 1104 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 2 100 000 kg 2026: 2 150 000 kg 2027: 2 200 000 kg The TRQ shall cease to apply as from 1 January 2028 |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0883</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Maize starch and manioc starch 1108 12 00 and 1108 14 00 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="3">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 1 500 000 kg</td><td>  </td></tr>
+<tr><td>2027</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>1 500 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">50 % on the base rate</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0884</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Starch derivatives 2905 43 00 , 2905 44 11 , 2905 44 19 , 2905 44 91 , 2905 44 99 , 3505 10 10 , 3505 10 90 , 3824 60 11 , 3824 60 19 , 3824 60 91 and 3824 60 99 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="7">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 100 000 kg</td><td>  </td></tr>
+<tr><td>2027:</td><td>  </td><td>200 000 kg</td><td>  </td></tr>
+<tr><td>2028:</td><td>  </td><td>300 000 kg</td><td>  </td></tr>
+<tr><td>2029:</td><td>  </td><td>400 000 kg</td><td>  </td></tr>
+<tr><td>2030:</td><td>  </td><td>500 000 kg</td><td>  </td></tr>
+<tr><td>2031</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>600 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of cereals and sugar**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6705</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Product description and CN codes</td><td>Maple sugar in solid form, containing added flavouring or colouring matter: 1702 20 10  Glucose and glucose syrup, not containing fructose or containing in the dry state less than 50 % by weight of fructose, excluding invert sugar:  1702 30  1702 40  Chemically pure fructose:  1702 50 00  Other fructose and fructose syrup, containing in the dry state more than 50 % by weight of fructose, excluding invert sugar:  1702 60  Chemically pure maltose:  1702 90 10  Isoglucose in solid form, containing in the dry state 50 % by weight of fructose:  1702 90 30  Maltodextrine in solid form and maltodextrine syrup, containing in the dry state 50 % by weight of fructose:  1702 90 50  Caramel:  1702 90 71  7 029 075  1702 90 79  Inulin syrup:  1702 90 80  Other sugars, including invert sugar and other sugar and sugar syrup blends containing in the dry state 50 % by weight of fructose:  1702 90 95 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>30 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 30 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1956 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | High sugar content products 0403 20 49 , 1702 30 10 , 1702 30 50 , 1702 30 90 , 1702 40 10 , 1702 40 90 , 1702 50 00 , 1702 60 10 , 1702 60 80 , 1702 60 95 , 1702 90 30 , 1704 90 99 , 1806 10 30 , 1806 10 90 , 1806 20 95 , 1901 90 95 , 1901 90 99 , 2006 00 31 , 2006 00 38 , 2007 91 10 , 2101 12 98 , 2101 20 98 , ex 2106 90 98 and 3302 10 29 . From 2024 to 2030 also 1702 90 50 , 1702 90 71 , 1702 90 75 , 1702 90 79 , 1702 90 80 , 1702 90 95 , 2106 90 30 , 2106 90 55 and 2106 90 59 |
+| TARIC codes | 2106 90 98 26 , 2106 90 98 34 , 2106 90 98 53 , 2106 90 98 60 , 2106 90 98 69 |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 1 000 000 kg 2026 and subsequent years: 1 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0880</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Other sugars 1702 30 10 , 1702 30 50 , 1702 30 90 , 1702 40 10 , 1702 40 90 , 1702 50 00 , 1702 60 10 , 1702 60 95 , 1702 90 30 , 1702 90 50 , 1702 90 71 , 1702 90 75 , 1702 90 79 , 1702 90 95 , 1806 10 30 and 1806 10 90 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="3">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 2 000 000 kg</td><td>  </td></tr>
+<tr><td>2027</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>2 000 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">50 % tariff preference on the base rate</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of cereals and processed fruit and vegetable products**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6718</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Sweetcorn: 0710 40  0711 90 30  2001 90 30  2004 90 10  2005 80 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 250 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 2 250 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.7904 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/244 of 27 November 2023 on the conclusion of the Free Trade Agreement between the European Union and New Zealand |
+| Product description and CN codes | Sweetcorn: 0710 40 00 2005 80 |
+| TARIC codes | — |
+| Origin | New Zealand |
+| Quantity | 2024 Pro rata of 800 000 kg 2025 and subsequent years 800 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Claim for preferential treatment in accordance with Chapter 3, Article 3.16 of the Free Trade Agreement between the European Union and New Zealand |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1953 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Sweet corn 2001 90 30 , 2004 90 10 and 2005 80 00 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 800 000 kg 2026 and subsequent years: 800 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0882</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Sweetcorn 2001 90 30 , 2004 90 10 and 2005 80 00 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="3">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 1 000 000 kg</td><td>  </td></tr>
+<tr><td>2027</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>1 000 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of rice**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0083</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Paddy rice: 1006 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>15 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0139</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Broken rice for use in the production of food preparations of CN code 1901 10 00 : ex 1006 40 00 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>1006 40 00 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 000 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>An amount equal to the MFN customs duty for broken rice under TARIC code 1006 40 00 10 </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 12 of this Regulation</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.0140 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Broken rice: 1006 40 |
+| TARIC codes | — |
+| Origin | Guyana |
+| Quantity | 10 308 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Not applicable |
+| In-quota customs duty | A reduction of 30,77 % in the MFN customs duty of EUR 65 per 1 000 kg |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td colspan="2"></td></tr>
+<tr><td>Order number</td><td>09.0141 – Husked rice 09.0165 – Paddy rice  09.0166 – Wholly milled rice (medium-grained or long-grained)  09.0167 – Wholly milled rice (round-grained)  09.0170 – Wholly milled rice (other rice)  09.0168 – Semi-milled rice (medium-grained or long-grained)  09.0169 – Semi-milled rice (round-grained)  09.0171 – Semi-milled rice (other rice) </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Product description and CN codes</td><td>Husked rice: 1006 20  Paddy rice:  1006 10 30  1006 10 50  1006 10 71  1006 10 79  Wholly milled rice (medium-grained or long-grained):  1006 30 63  1006 30 65  1006 30 67  1006 30 94  1006 30 96  1006 30 98  Wholly milled rice (round-grained):  1006 30 61  1006 30 92  Wholly milled rice (other rice):  1006 30 69  1006 30 99  Semi-milled rice (medium-grained or long-grained):  1006 30 23  1006 30 25  1006 30 27  1006 30 44  1006 30 46  1006 30 48  Semi-milled rice (round-grained):  1006 30 21  1006 30 42  Semi-milled rice (other rice):  1006 30 29  1006 30 49 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Bangladesh</td></tr>
+<tr><td>Quantity</td><td>Equivalent to 4 000 000 kg of husked rice</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td> Certificate of origin, in accordance with Article 13 of this Regulation <br> Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities as provided for in Article 15a of Implementing Regulation (EU) 2020/761, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761.   </td></tr>
+<tr><td>In-quota customs duty</td><td>For CN codes 1006 10 30 , 1006 10 50 , 1006 10 71 and 1006 10 79 : the customs duties fixed in the Common Customs Tariff less 50 % and less a further EUR 4,34 For CN code 1006 20 : the duty fixed in accordance with Article 183 of Regulation (EU) No 1308/2013 less 50 % and less a further EUR 4,34;  For CN code 1006 30 : the duty fixed in accordance with Article 183 of Regulation (EU) No 1308/2013 less EUR 16,78, less a further 50 % and less a further EUR 6,52. </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 13 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0878</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Rice 1006 10 30 , 1006 10 50 , 1006 10 71 , 1006 10 79 , 1006 10 90 , 1006 20 11 , 1006 20 13 , 1006 20 15 , 1006 20 17 , 1006 20 19 00, 1006 20 92 , 1006 20 94 , 1006 20 96 , 1006 20 98 , 1006 20 99 , 1006 30 21 , 1006 30 23 , 1006 30 25 , 1006 30 27 , 1006 30 29 , 1006 30 42 , 1006 30 44 , 1006 30 46 , 1006 30 48 , 1006 30 49 , 1006 30 61 , 1006 30 63 , 1006 30 65 , 1006 30 67 , 1006 30 69 , 1006 30 92 , 1006 30 94 , 1006 30 96 , 1006 30 98 and 1006 30 99 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="7">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 10 000 000 kg</td><td>  </td></tr>
+<tr><td>2027:</td><td>  </td><td>20 000 000 kg</td><td>  </td></tr>
+<tr><td>2028:</td><td>  </td><td>30 000 000 kg</td><td>  </td></tr>
+<tr><td>2029:</td><td>  </td><td>40 000 000 kg</td><td>  </td></tr>
+<tr><td>2030:</td><td>  </td><td>50 000 000 kg</td><td>  </td></tr>
+<tr><td>2031</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>60 000 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quota in the sector of sugar**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6704</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Product description and CN codes</td><td>Raw beet sugar not containing added flavouring or colouring matter: 1701 12  Other sugar than raw sugar:  1701 91 , 1701 99 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>100 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 100 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0879</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Sugar for refining 1701 13 10 and 1701 14 10 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Paraguay</td></tr>
+<tr><td rowspan="3">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 10 000 000 kg</td><td>  </td></tr>
+<tr><td>2027</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>10 000 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Refining obligation in accordance with Article 13a of this Regulation</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of fruits and vegetables**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6802</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part, concluded by Council Decision 2014/492/EU</td></tr>
+<tr><td>Product description and CN codes</td><td>Table grapes, fresh: 0806 10 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Moldova</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>40 000 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6803</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part, concluded by Council Decision 2014/492/EU</td></tr>
+<tr><td>Product description and CN codes</td><td>Apples, fresh (excluding cider apples, in bulk, from 16 September to 15 December): 0808 10 80 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Moldova</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>50 000 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6804</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part, concluded by Council Decision 2014/492/EU</td></tr>
+<tr><td>Product description and CN codes</td><td>Plums, fresh: 0809 40 05 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Moldova</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>61 000 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6806</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part, concluded by Council Decision 2014/492/EU</td></tr>
+<tr><td>Product description and CN codes</td><td>Cherries (excluding sour cherries), fresh: 0809 29 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Moldova</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>4 500 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6820</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Georgia, of the other part (1), concluded by Council Decision No 2014/494/EU (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Garlic, fresh or chilled: 0703 20 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Georgia</td></tr>
+<tr><td>Quantity</td><td>220 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 261, 30.8.2014, p. 4.  (2)  Council Decision of 16 June 2014 on the signing, on behalf of the European Union, and provisional application of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Georgia, of the other part (OJ L 261, 30.8.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6702</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Garlic, fresh or chilled: 0703 20 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>750 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 750 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0056</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Carrots and turnips, fresh or chilled: 0706 10 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 244 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>7 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0057</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Sweet peppers, fresh or chilled: 0709 60 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>500 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>1,5 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0041</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Almonds, fresh or dried, whether or not shelled, other than bitter: 0802 11 90  0802 12 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>86 223 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>2 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0039</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Lemons (Citrus limon, Citrus limonum): 0805 50 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>8 156 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>15 January to 14 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0058</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Apricots, fresh: 0809 10 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>74 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 August to 31 May</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0094</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Tomatoes, fresh or chilled: 0702 00 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>472 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>15 May to 31 October</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>12 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0059</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Cucumbers, fresh or chilled: 0707 00 05 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>647 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 November to 15 May</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>2,5 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0060</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Table grapes, fresh: ex 0806 10 10 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0806 10 10 90 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>885 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>21 July to 31 October</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>9 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0061</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Apples, fresh: 0808 10 80 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>666 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 April to 31 July</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>0 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0062</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Pears, fresh: 0808 30 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>810 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 August to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>5 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0063</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Apricots, fresh: 0809 10 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 387 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 June to 31 July</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0040</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Fresh (sweet) cherries: 0809 29 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>151 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>21 May to 15 July</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>4 % ad valorem (as well as, where applicable, the specific duties provided for in the Common Customs Tariff)</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0025</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>High quality sweet oranges, fresh: ex 0805 10 22 (see TARIC codes)  ex 0805 10 24 (see TARIC codes)  ex 0805 10 28 (see TARIC codes)  ‘high quality sweet oranges’ as defined in Article 14 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0805 10 22 10  0805 10 24 10  0805 10 28 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>20 000 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 February to 30 April</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Articles 14 and 15 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0027</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Citrus hybrids known as ‘minneolas’: ex 0805 29 00 (see TARIC codes)  ex 0805 29 00 (see TARIC codes)  citrus hybrids known as ‘minneolas’ as defined in Article 14 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0805 29 00 21  0805 29 00 29 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>14 931 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 February to 30 April</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>2 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Articles 14 and 15 of this Regulation</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1947 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Garlic 0703 20 00 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 2 000 000 kg 2026 and subsequent years: 2 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1948 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Olive oil 1509 10 10 , 1509 10 20 , 1509 10 80 , 1509 90 00 , 1510 00 10 and 1510 00 90 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 11 000 000 kg 2026 and subsequent years: 11 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0885</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Garlic 0703 20 00 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td rowspan="9">Quantity</td><td>2026:</td><td colspan="2">Pro rata of 1 875 000 kg</td><td>  </td></tr>
+<tr><td>2027:</td><td>  </td><td>3 750 000 kg</td><td>  </td></tr>
+<tr><td>2028:</td><td>  </td><td>5 625 000 kg</td><td>  </td></tr>
+<tr><td>2029:</td><td>  </td><td>7 500 000 kg</td><td>  </td></tr>
+<tr><td>2030:</td><td>  </td><td>9 375 000 kg</td><td>  </td></tr>
+<tr><td>2031:</td><td>  </td><td>11 250 000 kg</td><td>  </td></tr>
+<tr><td>2032:</td><td>  </td><td>13 125 000 kg</td><td>  </td></tr>
+<tr><td>2033</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td>15 000 000 kg</td><td>  </td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td rowspan="10">In-quota customs duty</td><td colspan="4">Preference on the base rate:</td></tr>
+<tr><td colspan="2">2026:</td><td colspan="2">30 %</td></tr>
+<tr><td colspan="2">2027:</td><td colspan="2">40 %</td></tr>
+<tr><td colspan="2">2028:</td><td colspan="2">50 %</td></tr>
+<tr><td colspan="2">2029:</td><td colspan="2">60 %</td></tr>
+<tr><td colspan="2">2030:</td><td colspan="2">70 %</td></tr>
+<tr><td colspan="2">2031:</td><td colspan="2">80 %</td></tr>
+<tr><td colspan="2">2032:</td><td colspan="2">90 %</td></tr>
+<tr><td colspan="2">2033</td><td colspan="2">  </td></tr>
+<tr><td colspan="2">and subsequent years:</td><td colspan="2">100 %</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of processed fruits and vegetables**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0033</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Frozen concentrated orange juice, without added sugar, of a Brix value not exceeding 50, in containers of two litres or less, containing no blood orange juice: ex 2009 11 99 (see TARIC codes)  ‘frozen concentrated orange juice, of a Brix value not exceeding 50’ as defined in Article 14 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>2009 11 99 11  2009 11 99 19 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>1 500 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>13 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Articles 14 and 15 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0092</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Preserved pineapples, citrus fruit, pears, apricots, cherries, peaches and strawberries: 2008 20 11  2008 20 19  2008 20 31  2008 20 39  2008 20 71  2008 30 11  2008 30 19  2008 30 31  2008 30 39  2008 30 79  2008 40 11  2008 40 19  2008 40 21  2008 40 29  2008 40 31  2008 40 39  2008 50 11  2008 50 19  2008 50 31  2008 50 39  2008 50 51  2008 50 59  2008 50 71  2008 60 11  2008 60 19  2008 60 31  2008 60 39  2008 60 60  2008 70 11  2008 70 19  2008 70 31  2008 70 39  2008 70 51  2008 70 59  2008 80 11  2008 80 19  2008 80 31  2008 80 39  2008 80 70 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 820 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>20 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0093</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Fruit juices: 2009 11 11  2009 11 19  2009 19 11  2009 19 19  2009 29 11  2009 29 19  2009 39 11  2009 39 19  2009 49 11  2009 49 19  2009 79 11  2009 79 19  2009 81 11  2009 81 19  2009 89 11  2009 89 19  2009 89 34  2009 89 35  2009 89 36  2009 89 38  2009 90 11  2009 90 19  2009 90 21  2009 90 29 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>6 551 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>20 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0035</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Dried onions, whole, cut, sliced, broken or in powder, but not further prepared: 0712 20 00 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>9 770 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6714</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Tomatoes prepared or preserved otherwise than by vinegar or acetic acid: 2002 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>25 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 25 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1957 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Prepared mushrooms 2003 10 20 and 2003 10 30 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 1 050 000 kg 2026: 1 075 000 kg 2027: 1 100 000 kg 2028: 1 125 000 kg 2029: 1 150 000 kg 2030: 1 175 000 kg 2031: 1 200 000 kg The TRQ shall cease to apply as from 1 January 2032 |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1958 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Apple juice 2009 79 11 and 2009 79 91 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 2 000 000 kg 2026 and subsequent years: 2 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1959 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Fruit preparations 2007 10 10 , 2007 91 30 , 2007 99 20 , ex 2007 99 31 , ex 2007 99 33 , ex 2007 99 39 , 2008 30 19 and 2008 40 19 |
+| TARIC codes | 2007 99 31 25 , 2007 99 31 99 2007 99 33 25 , 2007 99 33 99 , 2007 99 39 01 2007 99 39 02 , 2007 99 39 03 , 2007 99 39 04 2007 99 39 05 , 2007 99 39 06 , 2007 99 39 07 2077 99 39 08 , 2007 99 39 80 and 2007 99 39 85 |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 10 000 000 kg 2026 and subsequent years: 10 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+**Tariff quotas in the sector of processed fruits and vegetables and wine**
+
+<table>
+<tbody><tr><td colspan="2"></td></tr>
+<tr><td>Order number</td><td>09.0067</td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2021/1213 on the conclusion, on behalf of the Union, of the Agreement in the form of an Exchange of Letters between the European Union and the Argentine Republic pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union</td></tr>
+<tr><td>Product description and CN codes</td><td>Grape juice and must for the production of grape juice and/or non-wine sector products such as non-alcoholic drinks, jams and sauces: ex 2009 61 90 (see TARIC codes)  ex 2009 69 11 (see TARIC codes)  ex 2009 69 19 (see TARIC codes)  ex 2009 69 51 (see TARIC codes)  ex 2009 69 90 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>2009 61 90 10  2009 69 11 11  2009 69 11 19  2009 69 19 10  2009 69 51 10  2009 69 90 20 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 525 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 September to 31 August</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>The ad valorem duties indicated for each CN code and, in respect of the products falling within CN code 2009 69 11 , the specific duty expressed in euro/kg provided for in the Common Customs Tariff of the European Union: For CN code ex 2009 61 90 : 22,4 % ad valorem  For CN code ex 2009 69 11 : 40 % ad valorem + EUR 20.6 per 100 kg net weight  For CN code ex 2009 69 19 : 40 % ad valorem  For CN code ex 2009 69 51 : 22,4 % ad valorem  For CN code ex 2009 69 90 : 22,4 % ad valorem </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Difference between the in-quota customs duty and the erga omnes third-country duty rate</td></tr>
+<tr><td>Specific conditions</td><td>The transformation of this grape juice and must shall take place within six months following the release for free circulation of the products concerned</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Order number</td><td>09.6715</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Apple juice: 2009 71 , 2009 79 </td></tr>
+<tr><td>TARIC codes</td><td>—-</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td>Quantity</td><td>30 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 30 000 000 kg net weight </td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of wine**
+
+| Order number | 09.1526 |
+| --- | --- |
+| Specific legal basis | Stabilisation and Association Agreement between the European Communities and their Member States of the one part, and the Republic of Serbia, of the other part, concluded by Council and Commission Decision 2013/490/EU, Euratom |
+| Product description and CN codes | Quality sparkling wine; other wine of fresh grapes, in containers holding two litres or less: 2204 10 93 2204 10 94 2204 10 96 2204 10 98 2204 21 06 2204 21 07 2204 21 08 2204 21 09 ex 2204 21 93 (see TARIC codes) ex 2204 21 94 (see TARIC codes) 2204 21 95 ex 2204 21 96 (see TARIC codes) 2204 21 97 ex 2204 21 98 (see TARIC codes) |
+| TARIC codes | 2204 21 93 19 2204 21 93 29 2204 21 93 31 2204 21 93 41 2204 21 93 51 2204 21 94 19 2204 21 94 29 2204 21 94 31 2204 21 94 41 2204 21 94 51 2204 21 96 11 2204 21 96 21 2204 21 96 31 2204 21 96 41 2204 21 96 51 2204 21 98 11 2204 21 98 21 2204 21 98 31 2204 21 98 41 2204 21 98 51 |
+| Origin | Serbia |
+| Quantity | 55 000 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+| Order number | 09.1527 |
+| --- | --- |
+| Specific legal basis | Stabilisation and Association Agreement between the European Communities and their Member States of the one part, and the Republic of Serbia, of the other part, concluded by Decision 2013/490/EU |
+| Product description and CN codes | Other wine of fresh grapes, in containers holding more than two litres: 2204 22 10 2204 22 93 ex 2204 22 94 (see TARIC codes) 2204 22 95 ex 2204 22 96 (see TARIC codes) 2204 2297 ex 2204 22 98 (see TARIC codes) 2204 29 10 2204 29 93 ex 2204 29 94 (see TARIC codes) 2204 29 95 ex 2204 29 96 (see TARIC codes) 2204 29 97 ex 2204 29 98 (see TARIC codes) |
+| TARIC codes | 2204 22 94 11 2204 22 94 21 2204 22 94 31 2204 22 94 41 2204 22 94 51 2204 22 96 11 2204 22 96 21 2204 22 96 31 2204 22 96 41 2204 22 96 51 2204 22 98 11 2204 22 98 21 2204 22 98 31 2204 22 98 41 2204 22 98 51 2204 29 94 11 2204 29 94 21 2204 29 94 31 2204 29 94 41 2204 29 94 51 2204 29 96 11 2204 29 96 21 2204 29 96 31 2204 29 96 41 2204 29 96 51 2204 29 98 11 2204 29 98 21 2204 29 98 31 2204 29 98 41 2204 29 98 51 |
+| Origin | Serbia |
+| Quantity | 12 300 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+| Order number | 09.1558 |
+| --- | --- |
+| Specific legal basis | The Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part, concluded by Council Decision 2004/239/EC, Euratom (hereinafter, ‘the Agreement’) |
+| Product description and CN codes | Quality sparkling wine; other wine of fresh grapes, in containers holding two litres or less: 2204 10 93 2204 10 94 2204 10 96 2204 10 98 2204 21 06 2204 21 07 2204 21 08 2204 21 09 ex 2204 21 93 (see TARIC codes) ex 2204 21 94 (see TARIC codes) 2204 21 95 ex 2204 21 96 (see TARIC codes) 2204 21 97 ex 2204 21 98 (see TARIC codes) |
+| TARIC codes | 2204 21 93 19 2204 21 93 29 2204 21 93 31 2204 21 93 41 2204 21 93 51 2204 21 94 19 2204 21 94 29 2204 21 94 31 2204 21 94 41 2204 21 94 51 2204 21 96 11 2204 21 96 21 2204 21 96 31 2204 21 96 41 2204 21 96 51 2204 21 98 11 2204 21 98 21 2204 21 98 31 2204 21 98 41 2204 21 98 51 |
+| Origin | North Macedonia |
+| Quantity | Year 2014: 91 000 hl From 1 January 2015, this quota volume is to be increased annually by 6 000 hl Year 2021: 133 000 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with the protocol on the definition of the concept of originating products and methods of administrative cooperation to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+| Order number | 09.1559 |
+| --- | --- |
+| Specific legal basis | The Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part, concluded by Council and Commission Decision 2004/239/EC, Euratom |
+| Product description and CN codes | Other wine of fresh grapes, in containers holding more than two litres: 2204 22 10 2204 22 93 ex 2204 22 94 (see TARIC codes) 2204 22 95 ex 2204 22 96 (see TARIC codes) 2204 22 97 ex 2204 22 98 (see TARIC codes) 2204 29 10 2204 29 93 ex 2204 29 94 (see TARIC codes) 2204 29 95 ex 2204 29 96 (see TARIC codes) 2204 29 97 ex 2204 29 98 (see TARIC codes) |
+| TARIC codes | 2204 22 94 11 2204 22 94 21 2204 22 94 31 2204 22 94 41 2204 22 94 51 2204 22 96 11 2204 22 96 21 2204 22 96 31 2204 22 96 41 2204 22 96 51 2204 22 98 11 2204 22 98 21 2204 22 98 31 2204 22 98 41 2204 22 98 51 2204 29 94 11 2204 29 94 21 2204 29 94 31 2204 29 94 41 2204 29 94 51 2204 29 96 11 2204 29 96 21 2204 29 96 31 2204 29 96 41 2204 29 96 51 2204 29 98 11 2204 29 98 21 2204 29 98 31 2204 29 98 41 2204 29 98 51 |
+| Origin | North Macedonia |
+| Quantity | Year 2014: 389 000 hl From 1 January 2015, this quota volume is to be reduced annually by 6 000 hl Year 2021: 347 000 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+| Order number | 09.1570 |
+| --- | --- |
+| Specific legal basis | Stabilisation and Association Agreement between the European Union and the European Atomic Energy Community, of the one part, and Kosovo, of the other part, concluded by Council Decision (EU) 2016/342 |
+| Product description and CN codes | Wine of fresh grapes: 2204 21 06 2204 21 07 2204 21 08 2204 21 09 ex 2204 21 93 (see TARIC codes) ex 2204 21 94 (see TARIC codes) 2204 21 95 ex 2204 21 96 (see TARIC codes) 2204 21 97 ex 2204 21 98 (see TARIC codes) 2204 22 10 2204 22 93 ex 2204 22 94 (see TARIC codes) 2204 22 95 ex 2204 22 96 (see TARIC codes) 2204 22 97 ex 2204 22 98 (see TARIC codes) 2204 29 10 2204 29 93 ex 2204 29 94 (see TARIC codes) 2204 29 95 ex 2204 29 96 (see TARIC codes) 2204 29 97 ex 2204 29 98 (see TARIC codes) |
+| TARIC codes | 2204 21 93 19 2204 21 93 29 2204 21 93 31 2204 21 93 41 2204 21 93 51 2204 21 94 19 2204 21 94 29 2204 21 94 31 2204 21 94 41 2204 21 94 51 2204 21 96 11 2204 21 96 21 2204 21 96 31 2204 21 96 41 2204 21 96 51 2204 21 98 11 2204 21 98 21 2204 21 98 31 2204 21 98 41 2204 21 98 51 2204 22 94 11 2204 22 94 21 2204 22 94 31 2204 22 94 41 2204 22 94 51 2204 22 96 11 2204 22 96 21 2204 22 96 31 2204 22 96 41 2204 22 96 51 2204 22 98 11 2204 22 98 21 2204 22 98 31 2204 22 98 41 2204 22 98 51 2204 29 94 11 2204 29 94 21 2204 29 94 31 2204 29 94 41 2204 29 94 51 2204 29 96 11 2204 29 96 21 2204 29 96 31 2204 29 96 41 2204 29 96 51 2204 29 98 11 2204 29 98 21 2204 29 98 31 2204 29 98 41 2204 29 98 51 |
+| Origin | Kosovo (this designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence) |
+| Quantity | 40 000 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+| Order number | 09.1572 |
+| --- | --- |
+| Specific legal basis | Stabilisation and Association Agreement between the European Union and the European Atomic Energy Community, of the one part, and Kosovo, of the other part, concluded by Council Decision (EU) 2016/342 |
+| Product description and CN codes | Quality sparkling wine; wine of fresh grapes, in containers holding two litres or less: 2204 10 93 2204 10 94 2204 10 96 2204 10 98 2204 21 06 2204 21 07 2204 21 08 2204 21 09 ex 2204 21 93 (see TARIC codes) ex 2204 21 94 (see TARIC codes) 2204 21 95 ex 2204 21 96 (see TARIC codes) 2204 21 97 ex 2204 21 98 (see TARIC codes) |
+| TARIC codes | 2204 21 93 19 2204 21 93 29 2204 21 93 31 2204 21 93 41 2204 21 93 51 2204 21 94 19 2204 21 94 29 2204 21 94 31 2204 21 94 41 2204 21 94 51 2204 21 96 11 2204 21 96 21 2204 21 96 31 2204 21 96 41 2204 21 96 51 2204 21 98 11 2204 21 98 21 2204 21 98 31 2204 21 98 41 2204 21 98 51 |
+| Origin | Kosovo (this designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence) |
+| Quantity | 10 000 hl |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 16 of this Regulation |
+
+**Tariff quotas in the sector of beef and veal**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0142</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Frozen thin skirt of bovine animals: ex 0206 29 91 (see TARIC codes)  As defined in Article 20 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0206 29 91 11  0206 29 91 15  0206 29 91 41  0206 29 91 42  0206 29 91 44  0206 29 91 45 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Argentina, Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>800 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>4 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 20 of this Regulation</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.0143 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Frozen thin skirt of bovine animals: ex 0206 29 91 (see TARIC codes) As defined in Article 20 of this Regulation |
+| TARIC codes | 0206 29 91 11 0206 29 91 15 0206 29 91 41 0206 29 91 42 0206 29 91 44 0206 29 91 45 |
+| Origin | Argentina |
+| Quantity | 700 000 kg |
+| Tariff quota period | 1 July to 30 June |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Certificate of authenticity Unless the rules applicable during the transitional period laid down in Article 31c of this Regulation allow to use the document mentioned in the first paragraph of this row, ELAN1L-TCDOC issued by the competent authorities, in accordance with the requirements laid down in Annex XIV.8 to Implementing Regulation (EU) 2020/761. |
+| In-quota customs duty | 4 % ad valorem |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 20 of this Regulation |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0161 - Bone-in 09.0162 - Boneless </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreement in the form of an Exchange of Letters between the European Community and Australia pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union (1), concluded by Council Decision 2006/106/EC (2). </td></tr>
+<tr><td>Product description and CN codes</td><td>Frozen beef intended for the manufacture of A- products: ex 0202 20 30 (see TARIC codes)  ex 0202 30 10 (see TARIC codes)  ex 0202 30 50 (see TARIC codes)  ex 0202 30 90 (see TARIC codes)  ex 0206 29 91 (see TARIC codes)  ‘A-product’ as defined in Article 18 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0202 20 30 81  0202 20 30 82  0202 30 10 81  0202 30 10 82  0202 30 50 81  0202 30 50 82  0202 30 90 41  0202 30 90 42  0202 30 90 70  0206 29 91 33  0206 29 91 35  0206 29 91 51  0206 29 91 59 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>15 443 000 kg bone-in equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td> 15 % ad valorem  </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>For CN code ex 0202 20 30 : EUR 1 414 per 1 000 kg net weight For CN code ex 0202 30 10 : EUR 2 211 per 1 000 kg net weight  For CN code ex 0202 30 50 : EUR 2 211 per 1 000 kg net weight  For CN code ex 0202 30 90 : EUR 3 041 per 1 000 kg net weight  For CN code ex 0206 29 91 : EUR 3 041 per 1 000 kg net weight </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Articles 17 and 19 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 47, 17.2.2006, p. 54.  (2)  Council Decision 2006/106/EC of 30 January 2006 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Australia pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union (OJ L 47, 17.2.2006, p. 52). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0163 - Bone-in 09.0164 - Boneless </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreement in the form of an Exchange of Letters between the European Community and Australia pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union, concluded by Council Decision 2006/106/EC </td></tr>
+<tr><td>Product description and CN codes</td><td>Frozen beef intended for the manufacture of B-products: ex 0202 20 30 (see TARIC codes)  ex 0202 30 10 (see TARIC codes)  ex 0202 30 50 (see TARIC codes)  ex 0202 30 90 (see TARIC codes)  ex 0206 29 91 (see TARIC codes)  ‘B-product’ as defined in Article 18 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0202 20 30 83  0202 20 30 84  0202 30 10 83  0202 30 10 84  0202 30 50 83  0202 30 50 84  0202 30 90 43  0202 30 90 44  0202 30 90 75  0206 29 91 37  0206 29 91 38  0206 29 91 61  0206 29 91 69 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>4 233 000 kg bone-in equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code ex 0202 20 30 :  15 %   + EUR 994,5 per 1 000 kg net For CN code ex 0202 30 10 :  15 %   + EUR 1 554,3 per 1 000 kg net  For CN code ex 0202 30 50 :  15 %   + EUR 1 554,3 per 1 000 kg net  For CN code ex 0202 30 90 :  15 %   + EUR 2 138,4 per 1 000 kg net  For CN code ex 0206 29 91 :  15 %   + EUR 2 138,4 per 1 000 kg net </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>For CN code ex 0202 20 30 : EUR 420 per 1 000 kg net weight For CN code ex 0202 30 10 : EUR 657 per 1 000 kg net weight  For CN code ex 0202 30 50 : EUR 657 per 1 000 kg net weight  For CN code ex 0202 30 90 : EUR 903 per 1 000 kg net weight  For CN code ex 0206 29 91 : EUR 903 per 1 000 kg net weight </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Articles 17 and 19 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0146</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement between the European Community and the Swiss Confederation on trade in agricultural products (1), concluded by Decision 2002/309/EC, Euratom of the Council and of the Commission (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Live bovine animals weighing more than 160 kg: 0102 29 41  0102 29 49  0102 29 51  0102 29 59  0102 29 61  0102 29 69  0102 29 91  0102 29 99  ex 0102 39 10 (see TARIC codes)  ex 0102 90 91 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0102 39 10 10  0102 90 91 10 </td></tr>
+<tr><td>Origin</td><td>Switzerland</td></tr>
+<tr><td>Quantity</td><td>4 600 live bovine animals</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 20 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 114, 30.4.2002, p. 132.  (2)  Decision 2002/309/EC, Euratom of the Council and of the Commission as regards the Agreement on Scientific and Technological Cooperation, of 4 April 2002 on the conclusion of seven Agreements with the Swiss Confederation (OJ L 114, 30.4.2002, p. 1). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0113</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreement in the form of an Exchange of Letters between the European Community and the United States of America pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union (1), concluded by Council Decision 2006/333/EC (2) </td></tr>
+<tr><td>Product description and CN codes</td><td>Young male bovine animals for fattening: ex 0102 29 10 (see TARIC codes)  ex 0102 29 29 (see TARIC codes)  ex 0102 29 49 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0102 29 10 10  0102 29 29 10  0102 29 49 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>24 070 head of cattle</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>16 % ad valorem plus EUR 582 per 1 000 kg net weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>For CN code 0102 29 10 : EUR 28 per head For CN code 0102 29 29 : EUR 56 per head  For CN code 0102 29 49 : EUR 105 per head </td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 21 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 124, 11.5.2006, p. 15.  (2)  Council Decision of 20 March 2006 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the United States of America pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic in the course of their accession to the European Union (OJ L 124, 11.5.2006, p. 13). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0114</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Cows and heifers other than for slaughter of the following mountain breeds: grey, brown, yellow and mottled Simmental breeds and Pinzgau breed: ex 0102 29 10 (see TARIC codes)  ex 0102 29 29 (see TARIC codes)  ex 0102 29 49 (see TARIC codes)  ex 0102 29 59 (see TARIC codes)  ex 0102 29 69 (see TARIC codes)  ‘other than for slaughter’ as defined in Article 22 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0102 29 10 20  0102 29 10 40  0102 29 29 20  0102 29 29 40  0102 29 49 20  0102 29 49 40  0102 29 59 11  0102 29 59 19  0102 29 59 31  0102 29 59 39  0102 29 69 10  0102 29 69 30 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>710 head of cattle</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>6 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>An amount equal to the difference between the Common Customs Tariff duty and the Tariff rate quota customs duty</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 22 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0115</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Bulls, cows and heifers other than for slaughter of the following breeds: mottled Simmental breed and Schwyz and Fribourg breeds: ex 0102 29 10 (see TARIC codes)  ex 0102 29 29 (see TARIC codes)  ex 0102 29 49 (see TARIC codes)  ex 0102 29 59 (see TARIC codes)  ex 0102 29 69 (see TARIC codes)  ex 0102 29 99 (see TARIC codes)  ‘other than for slaughter’ as defined in Article 22 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0102 29 10 30  0102 29 10 40  0102 29 10 50  0102 29 29 30  0102 29 29 40  0102 29 29 50  0102 29 49 30  0102 29 49 40  0102 29 49 50  0102 29 59 21  0102 29 59 29  0102 29 59 31  0102 29 59 39  0102 29 69 20  0102 29 69 30  0102 29 99 21  0102 29 99 29 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>711 head of cattle</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>4 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>An amount equal to the difference between the Common Customs Tariff duty and the Tariff rate quota customs duty</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 22 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2201</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 617/2009 of 13 July 2009 opening an autonomous tariff quota for imports of high-quality beef (1) Agreement between the United States of America and the European Union on the Allocation to the United States of a Share in the Tariff Rate Quota for High Quality Beef referred to in the Revised Memorandum of Understanding Regarding the Importation of Beef from Animals Not Treated with Certain Growth-Promoting Hormones and Increased Duties Applied by the United States to Certain Products of the European Union (2014) (2), concluded by Council Decision (EU) 2019/2073 (3) </td></tr>
+<tr><td>Product description and CN codes</td><td>Meat of bovine animals, fresh, chilled or frozen, that fulfils the requirements laid down in Article 24 of this Regulation: ex 0201 (see TARIC codes)  ex 0202 (see TARIC codes)  ex 0206 10 95 (see TARIC codes)  ex 0206 29 91 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0201 10 00 29  0201 20 20 29  0201 20 30 29  0201 20 50 29  0201 20 90 15  0201 30 00 39  0202 10 00 15  0202 20 10 15  0202 20 30 15  0202 20 50 15  0202 20 90 15  0202 30 10 15  0202 30 50 15  0202 30 90 15  0206 10 95 15  0206 29 91 15  0206 29 91 29 </td></tr>
+<tr><td>Origin</td><td>List of eligible countries published in the C series of the Official Journal of the European Union, in accordance with Article 27 of this Regulation</td></tr>
+<tr><td>Quantity</td><td>45 000 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>1 July to 30 September 1 October to 31 December  1 January to 31 March  1 April to 30 June </td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>The tariff quota under order number 09.2201 shall be managed as parent tariff quota with two sub-tariff quotas under order numbers 09.2202 and 09.2203, in accordance with Article 23 of this Regulation In accordance with Articles 23 to 27 of this Regulation </td></tr>
+<tr><td colspan="2">(1)  OJ L 182, 15.7.2009, p. 1.  (2)  OJ L 316, 6.12.2019, p. 3.  (3)  Council Decision (EU) 2019/2073 of 5 December 2019 on the conclusion of the Agreement between the United States of America and the European Union on the Allocation to the United States of a Share in the Tariff Rate Quota for High Quality Beef referred to in the Revised Memorandum of Understanding Regarding the Importation of Beef from Animals Not Treated with Certain Growth-Promoting Hormones and Increased Duties Applied by the United States to Certain Products of the European Union (2014) (OJ L 316, 6.12.2019, p. 1). </td></tr>
+</tbody>
+</table>
+
+| Order number | 09.2202 – sub-tariff quota of 09.2201 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 617/2009 of 13 July 2009 opening an autonomous tariff quota for imports of high-quality beef Agreement between the United States of America and the European Union on the Allocation to the United States of a Share in the Tariff Rate Quota for High Quality Beef referred to in the Revised Memorandum of Understanding Regarding the Importation of Beef from Animals Not Treated with Certain Growth-Promoting Hormones and Increased Duties Applied by the United States to Certain Products of the European Union (2014), concluded by Council Decision (EU) 2019/2073 |
+| Product description and CN codes | Meat of bovine animals, fresh, chilled or frozen, that fulfils the requirements laid down in Article 24 of this Regulation: ex 0201 (see TARIC codes) ex 0202 (see TARIC codes) ex 0206 10 95 (see TARIC codes) ex 0206 29 91 (see TARIC codes) |
+| TARIC codes | 0201 10 00 29 0201 20 20 29 0201 20 30 29 0201 20 50 29 0201 20 90 15 0201 30 00 39 0202 10 00 15 0202 20 10 15 0202 20 30 15 0202 20 50 15 0202 20 90 15 0202 30 10 15 0202 30 50 15 0202 30 90 15 0206 10 95 15 0206 29 91 15 0206 29 91 29 |
+| Origin | List of eligible countries published in the C series of the Official Journal of the European Union, in accordance with Article 27 (except United States of America) |
+| Quantity | From 1 July 2021 to 30 June 2022, 20 800 000 kg net weight, divided as follows: 5 500 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 4 900 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2022 to 30 June 2023, 18 400 000 kg net weight, divided as follows: 4 900 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 4 300 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2023 to 30 June 2024, 16 000 000 kg net weight, divided as follows: 4 300 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 3 700 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2024 to 30 June 2025, 13 600 000 kg net weight, divided as follows: 3 700 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 3 100 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2025 to 30 June 2026, 11 200 000 kg net weight, divided as follows: 3 100 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 2 500 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2026 onwards, 10 000 000 kg net weight, divided as follows: 25 % for each sub-period |
+| Tariff quota period | 1 July to 30 June |
+| Tariff quota sub-periods | 1 July to 30 September 1 October to 31 December 1 January to 31 March 1 April to 30 June |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | The tariff quota under order number 09.2202 shall be managed as sub-tariff quota of the parent tariff quota under order number 09.2201, in accordance with Article 23 of this Regulation In accordance with Articles 23 to 27 of this Regulation |
+
+| Order number | 09.2203 – sub-tariff quota of 09.2201 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 617/2009 of 13 July 2009 opening an autonomous tariff quota for imports of high-quality beef Agreement between the United States of America and the European Union on the Allocation to the United States of a Share in the Tariff Rate Quota for High Quality Beef referred to in the Revised Memorandum of Understanding Regarding the Importation of Beef from Animals Not Treated with Certain Growth-Promoting Hormones and Increased Duties Applied by the United States to Certain Products of the European Union (2014), concluded by Council Decision (EU) 2019/2073 |
+| Product description and CN codes | Meat of bovine animals, fresh, chilled or frozen, that fulfils the requirements laid down in Article 24 of this Regulation: ex 0201 (see TARIC codes) ex 0202 (see TARIC codes) ex 0206 10 95 (see TARIC codes) ex 0206 29 91 (see TARIC codes) |
+| TARIC codes | 0201 10 00 29 0201 20 20 29 0201 20 30 29 0201 20 50 29 0201 20 90 15 0201 30 00 39 0202 10 00 15 0202 20 10 15 0202 20 30 15 0202 20 50 15 0202 20 90 15 0202 30 10 15 0202 30 50 15 0202 30 90 15 0206 10 95 15 0206 29 91 15 0206 29 91 29 |
+| Origin | United States of America |
+| Quantity | From 1 July 2021 to 30 June 2022, 24 200 000 kg net weight, divided as follows: 5 750 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 6 350 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2022 to 30 June 2023, 26 600 000 kg net weight, divided as follows: 6 350 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 6 950 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2023 to 30 June 2024, 29 000 000 kg net weight, divided as follows: 6 950 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 7 550 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2024 to 30 June 2025, 31 400 000 kg net weight, divided as follows: 7 550 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 8 150 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2025 to 30 June 2026, 33 800 000 kg net weight, divided as follows: 8 150 000 kg for sub-periods 1 July to 30 September and 1 October to 31 December; 8 750 000 kg for sub-periods 1 January to 31 March and 1 April to 30 June. From 1 July 2026 onwards, 35 000 000 kg net weight, divided as follows: 25 % for each sub-period |
+| Tariff quota period | 1 July to 30 June |
+| Tariff quota sub-periods | 1 July to 30 September 1 October to 31 December 1 January to 31 March 1 April to 30 June |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | The tariff quota under order number 09.2203 shall be managed as sub-tariff quota of the parent tariff quota under order number 09.2201, in accordance with Article 23 of this Regulation In accordance with Articles 23 to 27 of this Regulation |
+
+| Order number | 09.6737 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party |
+| Product description and CN codes | Meat of bovine animals, fresh, chilled or frozen 0201 10 00 0201 20 20 0201 20 30 0201 20 50 0201 20 90 0201 30 00 0202 10 00 0202 20 10 0202 20 30 0202 20 50 0202 20 90 0202 30 10 0202 30 50 0202 30 90 |
+| TARIC codes | --- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 12 000 000 kg, divided as follows: 4/7 of the quantity for sub-period 6 June to 30 September and 3/7 of the quantity for sub-period 1 October to 31 December |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | 6 June to 30 September 1 October to 31 December |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | ‘Frozen meat’ means meat that is frozen and has an internal temperature of – 12 °C or lower when it enters the customs territory of the Union |
+
+**Tariff quotas in the sector of milk and milk products**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6717</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Dairy spreads of a fat content, by weight, of 39 % or more but not exceeding 75 %: 0405 20 10  0405 20 30 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>375 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 375 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.6738 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Milk and concentrated milk 0401 10 0401 20 0401 40 0401 50 0402 91 0402 99 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 15 000 000 kg |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6739 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (‘the Agreement’) |
+| Product description and CN codes | Skimmed milk and cream, in powder, granules or other solid forms 0402 10 |
+| TARIC codes | —- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 15 400 000 kg |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6747 Only applicable from 6 June to 31 December 2025 </td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part</td></tr>
+<tr><td>Product description and CN codes</td><td>Butter and other fats and oils derived from milk; dairy spreads of a fat content, by weight, of more than 75 % but less than 80 % 0405 10 , 0405 20 90 , 0405 90 </td></tr>
+<tr><td>TARIC codes</td><td>---</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7/12 of 7 000 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>6 June to 31 December 2025</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0147</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Skimmed-milk powder: 0402 10 19 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>62 917 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 47,50 per 100 kg net weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0148</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Pizza cheese, frozen, cut into pieces each weighing not more than 1 gram, in containers with a net content of 5 kg or more, of a water content, by weight, of 52 % or more, and a fat content by weight in the dry matter of 38 % or more: ex 0406 10 30 (see TARIC codes)  ex 0406 10 50 (see TARIC codes)  ex 0406 10 80 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0406 10 30 10  0406 10 50 30  0406 10 80 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>5 360 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 13 per 100 kg net weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0149</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Processed Emmentaler: ex 0406 30 10 (see TARIC codes)  Emmentaler:  0406 90 13 </td></tr>
+<tr><td>TARIC codes</td><td>0406 30 10 10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>18 438 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code ex 0406 30 10 : EUR 71,90 per 100 kg net weight For CN code 0406 90 13 : EUR 85,80 per 100 kg net weight </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0150</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Processed Gruyère: ex 0406 30 10 (see TARIC codes)  Gruyère, Sbrinz:  0406 90 15 </td></tr>
+<tr><td>TARIC codes</td><td>0406 30 10 20 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>5 413 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code ex 0406 30 10 : EUR 71,90 per 100 kg net weight For CN code 0406 90 15 : EUR 85,80 per 100 kg net weight </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0151</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Cheese for processing: 0406 90 01  ‘processed cheese’ as defined in Article 28 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>11 741 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 83,50 per 100 kg net weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 28 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="2">09.0152</td></tr>
+<tr><td>Specific legal basis</td><td colspan="2">Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td colspan="3">Part A. Product description, CN codes and in-quota customs duty</td></tr>
+<tr><td>Product description</td><td>CN codes</td><td>In-quota customs duty</td></tr>
+<tr><td>Fresh (unripened or uncured) cheese, including whey cheese, and curd, other than pizza cheese of quota number 09.0148</td><td>ex 0406 10 30  ex 0406 10 50  ex 0406 10 80 </td><td>For CN codes ex 0406 10 30 and ex 0406 10 50 : EUR 92,60 per 100 kg net weight  For CN code ex 0406 10 80 : EUR 106,40 per 100 kg net weight </td></tr>
+<tr><td>Grated or powdered cheese</td><td>0406 20 00 </td><td>EUR 94,10 per 100 kg net weight</td></tr>
+<tr><td>Other processed cheese, not grated or powdered</td><td>0406 30 31  0406 30 39  0406 30 90 </td><td>For CN code 0406 30 31 : EUR 69 per 100 kg net weight  For CN code 0406 30 39 :  EUR 71,90 per 100 kg net weight  For CN code 0406 30 90 :  EUR 102,90 per 100 kg net weight </td></tr>
+<tr><td>Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti</td><td>0406 40 10  0406 40 50  0406 40 90 </td><td>EUR 70,40 per 100 kg net weight</td></tr>
+<tr><td>Bergkäse and Appenzell</td><td>0406 90 17 </td><td>EUR 85,80 per 100 kg net weight</td></tr>
+<tr><td>Fromage Fribourgeois, Vacherin Mont d’Or and Tête de Moine</td><td>0406 90 18 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Edam</td><td>0406 90 23 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Tilsit</td><td>0406 90 25 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Kashkaval</td><td>0406 90 29 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Kefalo-Tyri</td><td>0406 90 35 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Finlandia</td><td>0406 90 37 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Jarlsberg</td><td>0406 90 39 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Cheese of sheep’s milk or buffalo milk in containers containing brine, or in sheepskin or goatskin bottles</td><td>0406 90 50 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Pecorino</td><td>ex 0406 90 63 </td><td>EUR 94,10 per 100 kg net weight</td></tr>
+<tr><td>Other</td><td>0406 90 69 </td><td>EUR 94,10 per 100 kg net weight</td></tr>
+<tr><td>Provolone</td><td>0406 90 73 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Maasdam</td><td>0406 90 74 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Caciocavallo</td><td>ex 0406 90 75 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Danbo, Fontal, Fynbo, Havarti, Maribo, Samsø</td><td>ex 0406 90 76 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Gouda</td><td>0406 90 78 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Esrom, Italico, Kernhem, Saint-Paulin</td><td>ex 0406 90 79 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Cheshire, Wensleydale, Lancashire, Double Gloucester, Blarney, Colby, Monterey</td><td>ex 0406 90 81 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Camembert</td><td>0406 90 82 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Brie</td><td>0406 90 84 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Other cheese of a fat content, by weight, not exceeding 40 % and a water content, by weight, in the non-fatty matter, exceeding 47 % but not exceeding 52 %</td><td>0406 90 86 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Other cheese of a fat content, by weight, not exceeding 40 % and a water content, by weight, in the non-fatty matter, exceeding 52 % but not exceeding 62 %</td><td>0406 90 89 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Other cheese of a fat content, by weight, not exceeding 40 % and a water content, by weight, in the non-fatty matter, exceeding 62 % but not exceeding 72 %</td><td>0406 90 92 </td><td>EUR 75,50 per 100 kg net weight</td></tr>
+<tr><td>Other cheese of a fat content, by weight, not exceeding 40 % and a water content, by weight, in the non-fatty matter, exceeding 72 %</td><td>0406 90 93 </td><td>EUR 92,60 per 100 kg net weight</td></tr>
+<tr><td>Other cheeses of a fat content, by weight, exceeding 40 %</td><td>0406 90 99 </td><td>EUR 106,40 per 100 kg net weight</td></tr>
+<tr><td colspan="3">Part B. TARIC codes, origin, quantity, tariff quota period, tariff quota sub-periods, proof of origin, security and specific conditions</td></tr>
+<tr><td>TARIC codes</td><td colspan="2">0406 10 30 90  0406 10 50 90  0406 10 80 80  0406 90 63 10  0406 90 75 10  0406 90 76 90  0406 90 79 10  0406 90 81 90 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Origin</td><td colspan="2">All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Quantity</td><td colspan="2">19 525 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td colspan="2">1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="2">Not applicable</td></tr>
+<tr><td>Proof of origin</td><td colspan="2">Not applicable</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="2">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="2">Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0159 - Butter 09.0160 - Other </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Butter and other fats and oils derived from milk: 0405 10  0405 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>11 360 000 kg in butter equivalent, divided as follows: 5 680 000 kg for each sub-period</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>1 July to 31 December 1 January to 30 June </td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 94,80 per 100 kg net weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>For CN code 0405 90 : 1 kg product = 1,22 kg butter In accordance with Article 29 of this Regulation </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0243</td></tr>
+<tr><td>Specific legal basis</td><td>Regulation (EU) 2015/753 of the European Parliament and of the Council of 29 April 2015 on the import into the Union of agricultural products originating in Turkey (1)</td></tr>
+<tr><td>Product description and CN codes</td><td>Kashkaval: 0406 90 29  Cheese of sheep’s milk or buffalo milk, in containers containing brine, or in sheepskin or goatskin bottles:  0406 90 50  Tulum Peyniri, made from sheep’s milk or buffalo milk, in individual plastic or other kind of packings of less than 10 kg:  ex 0406 90 86 (see TARIC codes)  ex 0406 90 89 (see TARIC codes)  ex 0406 90 92 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>0406 90 86 20  0406 90 89 10  0406 90 92 10 </td></tr>
+<tr><td>Origin</td><td>Turkey</td></tr>
+<tr><td>Quantity</td><td>2 300 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Protocol 3 of Decision No 1/98 of the EC-Turkey Association Council of 25 February 1998 on the trade regime for agricultural products (2)</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 123, 19.5.2015, p. 23.  (2)  OJ L 86, 20.3.1998, p. 1. </td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of pigmeat**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0118</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Tenderloin, fresh, chilled or frozen: ex 0203 19 55 (see TARIC codes)  ex 0203 29 55 (see TARIC codes)  ‘tenderloin’ as defined in Article 30 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>0203 19 55 10  0203 29 55 91 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>3 780 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 300 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0119</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Pigmeat, fresh, chilled or frozen: 0203 19 13  0203 29 15 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7 000 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0120</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Sausages, dry or for spreading, uncooked: 1601 00 91  Other:  1601 00 99 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>164 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code 1601 00 91 : EUR 747 per 1 000 kg For CN code 1601 00 99 : EUR 502 per 1 000 kg </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0121</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Other prepared or preserved meat, meat offal or blood: 1602 41 10  1602 42 10  1602 49 11  1602 49 13  1602 49 15  1602 49 19  1602 49 30  1602 49 50 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>6 161 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code 1602 41 10 : EUR 784 per 1 000 kg For CN code 1602 42 10 : EUR 646 per 1 000 kg  For CN code 1602 49 11 : EUR 784 per 1 000 kg  For CN code 1602 49 13 : EUR 646 per 1 000 kg  For CN code 1602 49 15 : EUR 646 per 1 000 kg  For CN code 1602 49 19 : EUR 428 per 1 000 kg  For CN code 1602 49 30 : EUR 375 per 1 000 kg  For CN code 1602 49 50 : EUR 271 per 1 000 kg </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0122</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Carcases and half-carcases, fresh, chilled or frozen: 0203 11 10  0203 21 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>15 067 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 268 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0123</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Cuts, fresh, chilled or frozen, boned and with bone in, excluding tenderloin, presented alone. CN codes ex 0203 19 55 and ex 0203 29 55 shall include ham and cuts of ham. 0203 12 11  0203 12 19  0203 19 11  0203 19 13  0203 19 15  ex 0203 19 55 (see TARIC codes)  0203 19 59  0203 22 11  0203 22 19  0203 29 11  0203 29 13  0203 29 15  ex 0203 29 55 (see TARIC codes)  0203 29 59 </td></tr>
+<tr><td>TARIC codes</td><td>0203 19 55 15  0203 19 55 25  0203 19 55 30  0203 19 55 90  0203 29 55 20  0203 29 55 30  0203 29 55 92  0203 29 55 99 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>4 786 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>For CN code 0203 12 11 : EUR 389 per 1 000 kg For CN code 0203 12 19 : EUR 300 per 1 000 kg  For CN code 0203 19 11 : EUR 300 per 1 000 kg  For CN code 0203 19 13 : EUR 434 per 1 000 kg  For CN code 0203 19 15 : EUR 233 per 1 000 kg  For CN code ex 0203 19 55 : EUR 434 per 1 000 kg  For CN code 0203 19 59 : EUR 434 per 1 000 kg  For CN code 0203 22 11 : EUR 389 per 1 000 kg  For CN code 0203 22 19 : EUR 300 per 1 000 kg  For CN code 0203 29 11 : EUR 300 per 1 000 kg  For CN code 0203 29 13 : EUR 434 per 1 000 kg  For CN code 0203 29 15 : EUR 233 per 1 000 kg  For CN code ex 0203 29 55 : EUR 434 per 1 000 kg  For CN code 0203 29 59 : EUR 434 per 1 000 kg </td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0831</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Union and Iceland concerning additional trade preferences in agricultural products (1), concluded by Council Decision (EU) 2017/1913 (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Meat of swine, fresh, chilled or frozen: 0203 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Iceland</td></tr>
+<tr><td>Quantity</td><td>500 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 274, 24.10.2017, p. 58.  (2)  Council Decision (EU) 2017/1913 of 9 October 2017 on the conclusion of the Agreement in the form of an Exchange of Letters between the European Union and Iceland concerning additional trade preferences in agricultural products (OJ L 274, 24.10.2017, p. 57). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0832</td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Community and the Republic of Iceland concerning additional trade preferences in agricultural products undertaken on the basis of Article 19 of the Agreement on the European Economic Area (1), concluded by Council Decision 2007/138/EC (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Sausages: ex 1601 00 10 (see TARIC codes)  1601 00 91  ex 1601 00 99 (see TARIC codes) </td></tr>
+<tr><td>TARIC codes</td><td>1601 00 10 11  1601 00 10 15  1601 00 10 91  1601 00 10 95  1601 00 99 11  1601 00 99 91 </td></tr>
+<tr><td>Origin</td><td>Iceland</td></tr>
+<tr><td>Quantity</td><td>100 000 kg net weight</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 61, 28.2.2007, p. 29.  (2)  Council Decision 2007/138/EC of 22 February 2007 concerning the conclusion of the Agreement in the form of an Exchange of Letters between the European Community and the Republic of Iceland concerning additional trade preferences in agricultural products undertaken on the basis of Article 19 of the Agreement on the European Economic Area (OJ L 61, 28.2.2007, p. 28). </td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1945 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Pig meat 0203 11 10 , 0203 12 11 , 0203 12 19 , 0203 19 11 , 0203 19 13 , 0203 19 15 , 0203 19 55 , 0203 19 59 , 0203 21 10 , 0203 22 11 , 0203 22 19 , 0203 29 11 , 0203 29 13 , 0203 29 15 , 0203 29 55 , 0203 29 59 , 1601 00 91 , 1601 00 99 , 1602 41 10 , 1602 42 10 , 1602 49 11 , 1602 49 13 , 1602 49 15 , 1602 49 19 , 1602 49 30 , 1602 49 50 and 1602 90 51 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 21 200 000 kg (product weight) 2026 and subsequent years: 21 200 000 kg (product weight) |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6748 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party |
+| Product description and CN codes | Meat of domestic swine, fresh, chilled or frozen 0203 11 10 , 0203 12 11 , 0203 12 19 , 0203 19 11 , 0203 19 13 , 0203 19 15 , 0203 19 55 , 0203 19 59 , 0203 21 10 , 0203 22 11 , 0203 22 19 , 0203 29 11 , 0203 29 13 , 0203 29 15 , 0203 29 55 , 0203 29 59 |
+| TARIC codes | --- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 20 000 000 kg (net weight), divided as follows: 4/7 of the quantity for sub-period 6 June to 30 September and 3/7 of the quantity for sub-period 1 October to 31 December |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | 6 June to 30 September 1 October to 31 December |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.6749 Only applicable from 6 June to 31 December 2025 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party |
+| Product description and CN codes | Meat of domestic swine, fresh, chilled or frozen, excluding hams, loins and boneless cuts 0203 11 10 , 0203 12 19 , 0203 19 11 , 0203 19 15 , 0203 19 59 , 0203 21 10 , 0203 22 19 , 0203 29 11 , 0203 29 15 , 0203 29 59 |
+| TARIC codes | --- |
+| Origin | Ukraine |
+| Quantity | 7/12 of 20 000 000 kg (net weight), divided as follows: 4/7 of the quantity for sub-period 6 June to 30 September and 3/7 of the quantity for sub-period 1 October to 31 December |
+| Tariff quota period | 6 June to 31 December 2025 |
+| Tariff quota sub-periods | 6 June to 30 September 1 October to 31 December |
+| Proof of origin | In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+**Tariff quotas in the sector of sheepmeat and goatmeat**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6700</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Sheep legs, other cuts with bone (excluding carcasses and half carcasses, short forequarters and chines and/or best ends), fresh or chilled: 0204 22 50  0204 22 90  Boneless meat of sheep, fresh or chilled:  0204 23  Frozen cuts of sheep, with bone in (excluding carcasses and half-carcasses, and short forequarters):  0204 42 30  0204 42 50  0204 42 90  Frozen meat of lamb, boneless:  0204 43 10  Frozen meat of sheep, boneless:  0204 43 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 250 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 2 250 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.2101 – Boneless lamb and goatmeat of kid 09.2102 – Boneless mutton/sheep and goatmeat other than kid 09.2011 – Bone-in and carcasses |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Sheepmeat and goatmeat: 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Argentina |
+| Quantity | 19 090 000 kg  of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+| Order number | 09.2105 – Boneless lamb and goatmeat of kid 09.2106 – Boneless mutton/sheep and goatmeat other than kid 09.2012 – Bone-in and carcasses |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Sheepmeat and goatmeat: 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Australia |
+| Quantity | 5 851 000 kg  of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2109 – Boneless lamb and goatmeat of kid 09.2110 – Boneless mutton/sheep and goatmeat other than kid  09.2013 – Bone-in and carcasses </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreement in the form of an Exchange of Letters between the European Union and New Zealand pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Republic of Bulgaria and Romania in the course of their accession to the European Union (1), concluded by Council Decision 2011/767/EU (2) </td></tr>
+<tr><td>Product description and CN codes</td><td>Sheepmeat and goatmeat: 0204  ‘kid’ as defined in Article 31 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>New Zealand</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>125 769 000 kg of carcass weight equivalent</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 31 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 317, 30.11.2011, p. 3.  (2)  Council Decision of 27 October 2011 on the conclusion of the Agreement in the form of an Exchange of Letters between the European Union and New Zealand pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Republic of Bulgaria and Romania in the course of their accession to the European Union (OJ L 317, 30.11.2011, p. 2). </td></tr>
+</tbody>
+</table>
+
+| Order number | 09.2111 – Boneless lamb and goatmeat of kid 09.2112 – Boneless mutton/sheep and goatmeat other than kid 09.2014 – Bone-in and carcasses |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Sheepmeat and goatmeat: 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Uruguay |
+| Quantity | 4 759 000 kg of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+| Order number | 09.2115 09.2116 09.1922 |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Sheep meat 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 12 927 000 kg (carcass weight equivalent) 2026 and subsequent years: 12 927 000 kg (carcass weight equivalent) |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+| Order number | 09.2125 – Boneless lamb and goatmeat of kid 09.2126 – Boneless mutton/sheep and goatmeat other than kid 09.0693 – Bone-in and carcasses |
+| --- | --- |
+| Specific legal basis | Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations |
+| Product description and CN codes | Sheepmeat and goatmeat: 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Greenland |
+| Quantity | 48 000 kg of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Not applicable |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+| Order number | 09.2129 – Boneless lamb and goatmeat of kid 09.2130 – Boneless mutton/sheep and goatmeat other than kid 09.0690 – Bone-in and carcasses |
+| --- | --- |
+| Specific legal basis | Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, concluded by Council Decision 97/126/EC (hereinafter, ‘the Agreement’) |
+| Product description and CN codes | Sheepmeat and goatmeat: 0204 ‘kid’ as defined in Article 31 of this Regulation |
+| TARIC codes | — |
+| Origin | Faroes |
+| Quantity | 20 000 kg of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Proof of origin as laid down in Article 15 of Appendix I to the Regional Convention on pan-Euro-Mediterranean preferential rules of origin, as referred to in Article 1 of Protocol 3 to the Agreement |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | In accordance with Article 31 of this Regulation |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2131 – Boneless lamb and goatmeat of kid 09.2132 – Boneless mutton/sheep and goatmeat other than kid  09.0227 – Bone-in and carcasses </td></tr>
+<tr><td>Specific legal basis</td><td>Regulation (EU) 2015/753 of the European Parliament and of the Council of 29 April 2015 on the import into the Union of agricultural products originating in Turkey (1)</td></tr>
+<tr><td>Product description and CN codes</td><td>Sheepmeat and goatmeat: 0204  ‘kid’ as defined in Article 31 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Turkey</td></tr>
+<tr><td>Quantity</td><td>200 000 kg of carcass weight equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Protocol 3 to Decision No 1/98 of the EC-Turkey Association Council of 25 February 1998 on the trade regime for agricultural products</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 31 of this Regulation</td></tr>
+<tr><td colspan="2">(1)  OJ L 123, 19.5.2015, p. 23. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2171 – Boneless lamb and goatmeat of kid 09.2175 – Boneless mutton/sheep and goatmeat other than kid  09.2015 – Bone-in and carcasses </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Sheepmeat and goatmeat: 0204  ‘kid’ as defined in Article 31 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All WTO members except Argentina, Australia, Chile, Greenland, Iceland, New Zealand, Russia, the United Kingdom and Uruguay</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>200 000 kg of carcass weight equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 31 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2178 – Boneless lamb and goatmeat of kid 09.2179 – Boneless mutton/sheep and goatmeat other than kid  09.2016 – Bone-in and carcasses </td></tr>
+<tr><td>Specific legal basis</td><td>Agreement in the form of an Exchange of Letters between the European Union and New Zealand pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Republic of Bulgaria and Romania in the course of their accession to the European Union, concluded by Council Decision 2011/767/EU</td></tr>
+<tr><td>Product description and CN codes</td><td>Sheepmeat and goatmeat: 0204  ‘kid’ as defined in Article 31 of this Regulation </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>178 000 kg of carcass weight equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 31 of this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.2181 – Live animals 09.2019 – Bone-in and carcasses </td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Live sheep and goats: 0104 10 30  0104 10 80  0104 20 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>92 000 kg of carcass weight equivalent</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10 % ad valorem</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>In accordance with Article 31 of this Regulation</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.7901 (conversion factor 100 %) 09.7898 (conversion factor 167 %) 09.7899 (conversion factor 181 %) |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/244 of 27 November 2023 on the conclusion of the Free Trade Agreement between the European Union and New Zealand |
+| Product description and CN codes | Fresh/chilled sheep and goat meat: 0204 10 00 0204 21 00 0204 22 10 0204 22 30 0204 22 50 0204 22 90 0204 23 00 0204 50 11 0204 50 13 0204 50 15 0204 50 19 0204 50 31 0204 50 39 Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal, of sheep and goats: ex 0210 99 21 ex 0210 99 29 |
+| TARIC codes | 0210 99 21 90 0210 99 29 90 |
+| Origin | New Zealand |
+| Quantity | 2024 Pro rata of 4 433 000 kg 2025 5 911 000 kg 2026 7 389 000 kg 2027 8 867 000 kg 2028 10 344 000 kg 2029 11 822 000 kg 2030 and subsequent years 13 300 000 kg of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Certificate of eligibility |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | The conversion factors laid down in Annex V to this Regulation shall be used to convert product weight to carcass weight equivalent for the products covered by order numbers 09.7901, 09.7898 and 09.7899 |
+
+| Order number | 09.7902 (conversion factor 100 %) 09.7896 (conversion factor 167 %) 09.7897 (conversion factor 181 %) |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/244 of 27 November 2023 on the conclusion of the Free Trade Agreement between the European Union and New Zealand |
+| Product description and CN codes | Frozen sheep and goat meat: 0204 30 00 0204 41 00 0204 42 10 0204 42 30 0204 42 50 0204 42 90 0204 43 10 0204 43 90 0204 50 51 0204 50 53 0204 50 55 0204 50 59 0204 50 71 0204 50 79 Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal, of sheep and goats: ex 0210 99 21 ex 0210 99 29 |
+| TARIC codes | 0210 99 21 10 0210 99 29 10 |
+| Origin | New Zealand |
+| Quantity | 2024 Pro rata of 8 233 000 kg 2025 10 978 000 kg 2026 13 722 000 kg 2027 16 467 000 kg 2028 19 211 000 kg 2029 21 956 000 kg 2030 and subsequent years 24 700 000 kg of carcass weight equivalent |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Certificate of eligibility |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | The conversion factors laid down in Annex V to this Regulation shall be used to convert product weight to carcass weight equivalent for the products covered by order numbers 09.7902, 09.7896 and 09.7897 |
+
+**Tariff quotas in the sector of eggs**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0154</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>Poultry eggs for consumption: 0407 21 00  0407 29 10  0407 90 10 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>114 669 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 152 per 1 000 kg product weight</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6755 Only applicable from 6 June to 31 December 2025 </td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party</td></tr>
+<tr><td>Product description and CN codes</td><td>Poultry eggs in shell, fresh, preserved or cooked; birds' eggs, not in shell, and egg yolks, fresh dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, fit for human consumption; eggs albumins and milk albumins, fit for human consumption 0407 21 00 , 0407 29 10 , 0407 90 10 , 0408 11 80 , 0408 19 81 , 0408 19 89 , 0408 91 80 , 0408 99 80 , 3502 11 90 , 3502 19 90 , 3502 20 91 , 3502 20 99 </td></tr>
+<tr><td>TARIC codes</td><td>---</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7/12 of 9 000 000 kg (expressed in shell egg equivalent (conversion factors according to the rates of yield fixed in Annex VI to this Regulation))</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>6 June to 31 December 2025</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Conversion factors according to the rates of yield fixed in Annex VI to this Regulation. For the purposes of this Regulation, the weight of milk albumins shall be converted into the shell egg equivalent according to the standard rates of yield of 7,00 for dried milk albumins (CN code 3502 20 91 ) and of 53,00 for other milk albumins (CN code 3502 20 99 ), in accordance with Annex VI to this Regulation</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6756 Only applicable from 6 June to 31 December 2025 </td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party</td></tr>
+<tr><td>Product description and CN codes</td><td>Poultry eggs in shell, fresh, preserved or cooked 0407 21 00 , 0407 29 10 , 0407 90 10 </td></tr>
+<tr><td>TARIC codes</td><td>---</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7/12 of 9 000 000 kg (net weight)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>6 June to 31 December 2025</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Conversion factors according to the rates of yield fixed in Annex VI to this Regulation</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of poultrymeat**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0155</td></tr>
+<tr><td>Specific legal basis</td><td>Euro-Mediterranean Agreement establishing an association between the European Communities and their Member States, of the one part, and the State of Israel, of the other part (1), concluded by Decision of the Council and the Commission 2000/384/EC, ECSC (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Meat of ducks and geese, not cut in pieces, frozen: 0207 42  0207 52  Other meat and edible offal of ducks and geese, fresh or chilled:  0207 44  0207 54  Other meat and edible offal of ducks and geese, frozen:  0207 45  0207 55 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Israel</td></tr>
+<tr><td>Quantity</td><td>560 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 147, 21.6.2000, p. 3.  (2)  Decision of the Council and the Commission of 19 April 2000 on the conclusion of a Euro-Mediterranean Agreement establishing an association between the European Communities and their Member States, of the one part and the State of Israel, of the other part (OJ L 147, 21.6.2000, p. 1). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0156</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreements in the form of Agreed Minutes between the European Community and the Federative Republic of Brazil, and between the European Community and the Kingdom of Thailand pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (GATT 1994) relating to the modification of concessions with respect to poultry meat (1), approved by Decision 2007/360/EC (2) </td></tr>
+<tr><td>Product description and CN codes</td><td>Preparations of poultry meat other than turkey: 1602 32 11 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Brazil, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>236 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 630 per 1 000 kg</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 138, 30.5.2007, p. 12 and OJ L 138, 30.5.2007, p. 13.  (2)  Council Decision of 29 May 2007 on the conclusion of Agreements in the form of Agreed Minutes between the European Community and the Federative Republic of Brazil, and between the European Community and the Kingdom of Thailand pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (GATT 1994) relating to the modification of concessions with respect to poultry meat (OJ L 138, 30.5.2007, p. 10). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0157</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations Agreements in the form of Agreed Minutes between the European Community and the Federative Republic of Brazil, and between the European Community and the Kingdom of Thailand pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (GATT 1994) relating to the modification of concessions with respect to poultry meat, approved by Decision 2007/360/EC </td></tr>
+<tr><td>Product description and CN codes</td><td>Preparations of poultry meat other than turkey: 1602 32 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Brazil, Russia, Thailand and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>260 000 kg</td></tr>
+<tr><td>Tariff quota period</td><td>1 July to 30 June</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>10,9 %</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0158</td></tr>
+<tr><td>Specific legal basis</td><td>Agreements in the form of Agreed Minutes on certain oil seeds between the European Community and Argentina, Brazil, Canada, Poland, Sweden and Uruguay, respectively, pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (1), concluded by Council Decision 94/87/EC (2)</td></tr>
+<tr><td>Product description and CN codes</td><td>Turkey: 0207 27 10  0207 27 20  0207 27 80 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Brazil, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>597 000 kg, divided as follows: 149 250 kg for each sub-period</td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>1 January to 31 March; 1 April to 30 June;  1 July to 30 September;  1 October to 31 December </td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+<tr><td colspan="2">(1)  OJ L 47, 18.2.1994, p. 1.  (2)  Council Decision of 20 December 1993 concerning the conclusion of Agreements in the form of Agreed Minutes on certain oil seeds between the European Community and Argentina, Brazil, Canada, Poland, Sweden and Uruguay, respectively, pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) (OJ L 47, 18.2.1994, p. 1). </td></tr>
+</tbody>
+</table>
+
+| Order number | 09.0244 |
+| --- | --- |
+| Specific legal basis | Decision No 1/98 of the EC-Turkey Association Council of 25 February 1998 on the trade regime for agricultural products |
+| Product description and CN codes | Poultrymeat products: 0207 25 10 0207 25 90 0207 27 30 0207 27 40 0207 27 50 0207 27 60 0207 27 70 |
+| TARIC codes | — |
+| Origin | Turkey |
+| Quantity | 1 000 000 kg net weight |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Protocol 3 to Decision No 1/98 of the EC-Turkey Association Council of 25 February 1998 on the trade regime for agricultural products |
+| In-quota customs duty | For CN code 0207 25 10 : EUR 170 per 1 000 kg For CN code 0207 25 90 : EUR 186 per 1 000 kg For CN code 0207 27 30 : EUR 134 per 1 000 kg For CN code 0207 27 40 : EUR 93 per 1 000 kg For CN code 0207 27 50 : EUR 339 per 1 000 kg For CN code 0207 27 60 : EUR 127 per 1 000 kg For CN code 0207 27 70 : EUR 230 per 1 000 kg |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+| Order number | 09.1946 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Poultry meat 0207 11 10 , 0207 11 30 , 0207 11 90 , 0207 12 10 , 0207 12 90 , 0207 13 10 , 0207 13 20 , 0207 13 30 , 0207 13 40 , 0207 13 50 , 0207 13 60 , 0207 13 70 , 0207 13 99 , 0207 14 10 , 0207 14 20 , 0207 14 30 , 0207 14 40 , 0207 14 50 , 0207 14 60 , 0207 14 70 , 0207 14 99 , 0207 24 10 , 0207 24 90 , 0207 25 10 , 0207 25 90 , 0207 26 10 , 0207 26 20 , 0207 26 30 , 0207 26 40 , 0207 26 50 , 0207 26 60 , 0207 26 70 , 0207 26 80 , 0207 26 99 , 0207 27 10 , 0207 27 20 , 0207 27 30 , 0207 27 40 , 0207 27 50 , 0207 27 60 , 0207 27 70 , 0207 27 80 , 0207 27 99 , 0207 41 20 , 0207 41 30 , 0207 41 80 , 0207 42 30 , 0207 42 80 , 0207 44 10 , 0207 44 21 , 0207 44 31 , 0207 44 41 , 0207 44 51 , 0207 44 61 , 0207 44 71 , 0207 44 81 , 0207 44 99 , 0207 45 10 , 0207 45 21 , 0207 45 31 , 0207 45 41 , 0207 45 51 , 0207 45 61 , 0207 45 71 , 0207 45 81 , 0207 45 99 , 0207 51 10 , 0207 51 90 , 0207 52 10 , 0207 52 90 , 0207 54 10 , 0207 54 21 , 0207 54 31 , 0207 54 41 , 0207 54 51 , 0207 54 61 , 0207 54 71 , 0207 54 81 , 0207 54 99 , 0207 55 10 , 0207 55 21 , 0207 55 31 , 0207 55 41 , 0207 55 51 , 0207 55 61 , 0207 55 71 , 0207 55 81 , 0207 55 99 , 0207 60 05 , 0207 60 10 , 0207 60 21 , 0207 60 31 , 0207 60 41 , 0207 60 51 , 0207 60 61 , 0207 60 81 , 0207 60 99 , 1602 32 11 and 1602 39 21 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 32 200 000 kg (product weight) 2026: 32 200 000 kg 2027: 32 200 000 kg 2028 and subsequent years: 41 200 000 kg (product weight) |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6757 Only applicable from 6 June to 31 December 2025 </td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party Council Decision (EU) 2019/2145 of 5 December 2019 on the conclusion, on behalf of the Union, of the Agreement in the form of an Exchange of Letters between the European Union and Ukraine amending the trade preferences for poultry meat and poultry meat preparations provided for by the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part</td></tr>
+<tr><td>Product description and CN codes</td><td>Meat and edible offal of poultry, fresh, chilled or frozen; other prepared or preserved meat of turkeys and of fowls of the species Gallus domesticus 0207 11 30 , 0207 11 90 , 0207 12 , 0207 13 10 , 0207 13 20 , 0207 13 30 , 0207 13 50 , 0207 13 60 , 0207 13 70 , 0207 13 99 , 0207 14 10 , 0207 14 20 , 0207 14 30 , 0207 14 50 , 0207 14 60 , 0207 14 70 , 0207 14 99 , 0207 24 0207 25 , 0207 26 10 , 0207 26 20 , 0207 26 30 , 0207 26 50 , 0207 26 60 , 0207 26 70 , 0207 26 80 , 0207 26 99 , 0207 27 10 , 0207 27 20 , 0207 27 30 , 0207 27 50 , 0207 27 60 , 0207 27 70 , 0207 27 80 , 0207 27 99 , 0207 41 30 , 0207 41 80 , 0207 42 , 0207 44 10 , 0207 44 21 , 0207 44 31 , 0207 44 41 , 0207 44 51 , 0207 44 61 , 0207 44 71 , 0207 44 81 , 0207 44 99 , 0207 45 10 , 0207 45 21 , 0207 45 31 , 0207 45 41 , 0207 45 51 , 0207 45 61 , 0207 45 81 , 0207 45 99 , 0207 51 10 , 0207 51 90 , 0207 52 90 , 0207 54 10 , 0207 54 21 , 0207 54 31 , 0207 54 41 , 0207 54 51 , 0207 54 61 , 0207 54 71 , 0207 54 81 , 0207 54 99 , 0207 55 10 , 0207 55 21 , 0207 55 31 , 0207 55 41 , 0207 55 51 , 0207 55 61 , 0207 55 81 , 0207 55 99 , 0207 60 05 , 0207 60 10 , ex 0207 60 21 (fresh or chilled, halves or quarters of guinea fowls), 0207 60 31 , 0207 60 41 , 0207 60 51 , 0207 60 61 , 0207 60 81 , 0207 60 99 , 0210 99 39 , 1602 31 , 1602 32 , 1602 39 21 </td></tr>
+<tr><td>TARIC codes</td><td>---</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7/12 of 93 350 000 kg net weight</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>6 June to 31 December 2025</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6758 Only applicable from 6 June to 31 December 2025 </td></tr>
+<tr><td>Specific legal basis</td><td>Council Decision (EU) 2017/1247 of 11 July 2017 on the conclusion, on behalf of the European Union, of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other party</td></tr>
+<tr><td>Product description and CN codes</td><td>Meat and edible offal of the poultry, not cut in pieces, frozen 0207 12 </td></tr>
+<tr><td>TARIC codes</td><td>---</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>7/12 of 26 650 000 kg (net weight)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>6 June to 31 December 2025</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of ethyl alcohol of agricultural origin**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6723</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Undenatured ethyl alcohol: 2207 10  2208 90 91  2208 90 99  Ethyl alcohol and other spirits, denatured, of any strength:  2207 20 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>125 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 125 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+| Order number | 09.1954 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/3016 of 18 March 2024 on the conclusion of the Interim Agreement on Trade between the European Union and Chile |
+| Product description and CN codes | Ethanol 2207 10 00 and 2207 20 00 |
+| TARIC codes | — |
+| Origin | Chile |
+| Quantity | 2025: Pro rata of 2 000 000 kg 2026 and subsequent years: 2 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | In accordance with Chapter 3 of the Interim Agreement on Trade between the European Union and Chile |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+**Tariff quotas in the sector of apiculture products**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6701</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Natural honey: 0409 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>35 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 35 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td colspan="4">09.0881</td></tr>
+<tr><td>Specific legal basis</td><td colspan="4">Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay; signed and provisionally applied on the basis of Council Decision (EU) 2026/183</td></tr>
+<tr><td>Product description and CN codes</td><td colspan="4">Honey 0409 00 00 </td></tr>
+<tr><td>TARIC codes</td><td colspan="4">---</td></tr>
+<tr><td>Origin</td><td colspan="4">Mercosur</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td rowspan="9">Quantity</td><td>2026:</td><td>Pro rata of 7 500 000 kg</td><td>  </td><td>  </td></tr>
+<tr><td>2027:</td><td>15 000 000 kg</td><td>  </td><td>  </td></tr>
+<tr><td>2028:</td><td>22 500 000 kg</td><td>  </td><td>  </td></tr>
+<tr><td>2029:</td><td>30 000 000 kg</td><td>  </td><td>  </td></tr>
+<tr><td>2030:</td><td>37 500 000 kg</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">2031 and subsequent years: 45 000 000 kg</td><td>  </td></tr>
+<tr><td colspan="3">The pro rata quantity for year 2026 shall be divided as follows: 1 402 040 kg for sub-period 1 May to 30 June, 1 875 000 kg for sub-period 1 July to 30 September and 1 722 960 kg for sub-period 1 October to 31 December.</td><td>  </td></tr>
+<tr><td colspan="3">For the year 2027 and subsequent years, the annual quantity shall be divided as follows: 25 % for each sub-period.</td><td>  </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Tariff quota period</td><td colspan="4">1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td colspan="4">1 January to 31 March; 1 April to 30 June;  1 July to 30 September;  1 October to 31 December </td></tr>
+<tr><td>Proof of origin</td><td colspan="4">Yes. In accordance with Chapter 3 ‘Rules of Origin and Origin Procedures’ of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, and  Document referred to in Article 3.30 of the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, the model of which is set out in the Notice of the European Commission [2026/874]. This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply. </td></tr>
+<tr><td>In-quota customs duty</td><td colspan="4">EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td colspan="4">Not applicable</td></tr>
+<tr><td>Specific conditions</td><td colspan="4">Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of other products listed in Section 2 of Part XXIV of Annex I to Regulation (EU) No 1308/2013**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.0055</td></tr>
+<tr><td>Specific legal basis</td><td>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</td></tr>
+<tr><td>Product description and CN codes</td><td>New potatoes, fresh or chilled from 1 January to 30 June: 0701 90 50 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Origin</td><td>All third countries except Belarus, Russia and the United Kingdom</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>4 295 000 kg</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 15 May</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>Not applicable</td></tr>
+<tr><td>In-quota customs duty</td><td>3 %</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of processed agricultural products listed in Annex I to Regulation (EU) No 510/2014**
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6720</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms: 1903  Bulgur wheat:  1904 30 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>3 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 3 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6724</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Cigars, cheroots and cigarillos, containing tobacco: 2402 10  Cigarettes containing tobacco, not containing cloves:  2402 20 90 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>2 500 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 2 500 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6725</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td>Product description and CN codes</td><td>Mannitol: 2905 43  D-glucitol (sorbitol):  2905 44  Sorbitol other than that of subheading 2905 44 :  3824 60 </td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>150 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 150 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Order number</td><td>09.6726</td></tr>
+<tr><td>Specific legal basis</td><td>Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, concluded by Council Decision 2014/668/EU (hereinafter, ‘the Agreement’)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Product description and CN codes</td><td>Dextrins and other modified starches (excl. starches, esterified or etherified): 3505 10 10  3505 10 90  Glues containing, by weight, 25 % or more of starches or dextrins or other modified starches:  3505 20 30  3505 20 50  3505 20 90  Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included, with a basis of amylaceous substances:  3809 10 10  3809 10 30  3809 10 50  3809 10 90 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>TARIC codes</td><td>—</td></tr>
+<tr><td>Origin</td><td>Ukraine</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Quantity</td><td>8 000 000 kg net weight Except for the period from 6 June to 31 December 2025 for which the quantity to be applied is 7/12 of 8 000 000 kg net weight </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Tariff quota period</td><td>1 January to 31 December</td></tr>
+<tr><td>Tariff quota sub-periods</td><td>Not applicable</td></tr>
+<tr><td>Proof of origin</td><td>In accordance with Annexes III and IV to Appendix I to the regional Convention on pan-Euro-Mediterranean preferential rules of origin as referred to in Protocol I to the Agreement</td></tr>
+<tr><td>In-quota customs duty</td><td>EUR 0</td></tr>
+<tr><td>Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987</td><td>Not applicable</td></tr>
+<tr><td>Specific conditions</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+**Tariff quotas in the sector of milk and milk products and in the sector of processed agricultural products listed in Annex I to Regulation (EU) No 510/2014**
+
+| Order number | 09.7903 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/244 of 27 November 2023 on the conclusion of the Free Trade Agreement between the European Union and New Zealand |
+| Product description and CN codes | Dairy Processed Agricultural Products and High Protein Whey: 0404 10 12 0404 10 14 0404 10 16 0404 90 21 0404 90 23 0404 90 29 0404 90 81 0404 90 83 0404 90 89 1806 20 70 1901 90 99 2106 90 92 2106 90 98 3502 20 91 3502 20 99 |
+| TARIC codes | — |
+| Origin | New Zealand |
+| Quantity | 2024 Pro rata of 1 167 000 kg 2025 1 556 000 kg 2026 1 945 000 kg 2027 2 334 000 kg 2028 2 722 000 kg 2029 3 111 000 kg 2030 and subsequent years 3 500 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Certificate of eligibility |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+**Tariff quotas in the sector of ethyl alcohol whether or not of agricultural origin**
+
+| Order number | 09.7905 |
+| --- | --- |
+| Specific legal basis | Council Decision (EU) 2024/244 of 27 November 2023 on the conclusion of the Free Trade Agreement between the European Union and New Zealand |
+| Product description and CN codes | Ethanol: 2207 10 00 2207 20 00 2208 90 99 |
+| TARIC codes | — |
+| Origin | New Zealand |
+| Quantity | 2024 Pro rata of 4 000 000 kg 2025 and subsequent years 4 000 000 kg |
+| Tariff quota period | 1 January to 31 December |
+| Tariff quota sub-periods | Not applicable |
+| Proof of origin | Claim for preferential treatment in accordance with Chapter 3, Article 3.16 of the Free Trade Agreement between the European Union and New Zealand |
+| In-quota customs duty | EUR 0 |
+| Security to be lodged in accordance with Article 2 of Delegated Regulation (EU) 2020/1987 | Not applicable |
+| Specific conditions | Not applicable |
+
+## ANNEX II — Models of certificates
+
+**A. Tariff quota under order number 09.0076**
+
+**Model of certificate of conformity issued by the Government of the United States of America for malting barley designed for use in the manufacture of beer aged in vats containing beechwood**
+
+**B. Tariff quotas under order numbers 09.0141, 09.0165, 09.0166, 09.0167, 09.0168, 09.0169, 09.0170 and 09.0171**
+
+**Model of certificate of origin issued by Bangladesh**
+
+**C. Tariff quota under order number 09.0025**
+
+**Model of certificate of authenticity**
+
+**D. Tariff quota under order number 09.0027**
+
+**Model of certificate of authenticity**
+
+**E. Tariff quota under order number 09.0033**
+
+**Model of certificate of authenticity**
+
+**F. Tariff quota under order number 09.0143**
+
+**Model of certificate of authenticity issued by Argentina**
+
+**G. Tariff quotas under order numbers 09.2201, 09.2202 and 09.2203**
+
+**Model of certificate of authenticity**
+
+**SH. Template of certificate of eligibility for tariff quotas with order numbers 09.7901, 09.7898, 09.7899, 09.7902, 09.7896 and 09.7897**
+
+Issuing body for certificates of eligibility:
+
+New Zealand Meat Board
+
+P.O. BOX 121
+
+WELLINGTON, NZ
+
+www.nzmeatboard.org
+
+Tel. +64 4 473 9150
+
+**I. Template of certificate of eligibility for tariff quota with order number 09.7903**
+
+Issuing body for certificates of eligibility:
+
+New Zealand Ministry for Primary Industries
+
+Pastoral House
+
+25 The Terrace
+
+PO Box 2526
+
+Wellington 6140, NZ
+
+Tel. +64 4 830 1574
+
+www.mpi.govt.nz
+
+## ANNEX III — Entries referred to in Article 13
+
+— in Bulgarian: Събрана специална такса върху износа на ориз
+
+— in Spanish: Derecho especial percibido a la exportación del arroz
+
+— in Czech: Zvláštní poplatek vybraný při vývozu rýže
+
+— in Danish: Særafgift, der opkræves ved eksport af ris
+
+— in German: Bei der Ausfuhr von Reis erhobene Sonderabgabe
+
+— in Estonian: Riisi ekspordi suhtes kohaldatav erimaks
+
+— in Greek: Ειδικός δασμός που εισπράττεται κατά την εξαγωγή ρυζιού
+
+— in English: Special charge collected on export of rice
+
+— in French: Taxe spéciale perçue à l’exportation du riz
+
+— in Croatian: Posebna pristojba naplaćena pri izvozu riže
+
+— in Italian: Tassa speciale riscossa all’esportazione del riso
+
+— in Latvian: Īpašs maksājums, kuru iekasē par rīsu eksportu
+
+— in Lithuanian: Specialus mokestis, taikomas ryžių eksportui
+
+— in Hungarian: A rizs exportálásakor beszedett különleges díj
+
+— in Maltese: Taxxa speċjali miġbura ma’ l-esportazzjoni tar-ross
+
+— in Dutch: Bij uitvoer van de rijst geïnde bijzondere belasting
+
+— in Polish: Specjalna opłata pobrana od eksportu ryżu
+
+— in Portuguese: Taxa especial cobrada à exportaçao de arroz
+
+— in Romanian: Taxă specială percepută la exportul de orez
+
+— in Slovak: Zvláštny poplatok inkasovaný pri vývoze ryže
+
+— in Slovenian: Posebna dajatev, pobrana na izvoz riža
+
+— in Finnish: Riisin viennin yhteydessä perittävä erityismaksu
+
+— in Swedish: Särskild avgift som tas ut vid export av ris
+
+And amount in national currency
+
+## ANNEX IV — Competent authorities referred to in Article 15
+
+**Tariff quotas under order numbers 09.0025, 09.0027 and 09.0033**
+
+**Competent authorities**
+
+<table>
+<tbody><tr><td>Pais de origen Oprindelsesland  Ursprungsland  Χώρα καταγωγής  Country of origin  Pays d’origine  Paesi di origine  Land van oorsprong  País de origem  Alkuperämaa  Ursprungsland </td><td>Autoridad competente Kompetent myndighed  Zuständige Behörde  Αρμόδια υπηρεσία  Competent authority  Autorité compétente  Autorità competente  Bevoegde autoriteit  Autoridade competente  Toimivaltainen viranomainen  Behörig myndighet </td></tr>
+<tr><td colspan="2">1. Para los 3 contingentes – For de 3 kontingenter – Für die 3 Kontingente – Για τις 3 ποσοστώσεις – For the 3 quotas – Pour les 3 contingents – Per i 3 contingenti – Voor de 3 contingenten – Para os 3 contingentes – Kolmelle kiintiölle – För de 3 kvoterna</td></tr>
+<tr><td>Estados Unidos USA  USA  ΗΠΑ  USA  États-Unis d’Amérique  Stati Uniti  Verenigde Staten  Estados Unidos da América  Yhdysvallat  Förenta staterna </td><td>United States Department of Agriculture</td></tr>
+<tr><td>Cuba Cuba  Kuba  Κούβα  Cuba  Cuba  Cuba  Cuba  Cuba  Kuuba  Cuba </td><td>Ministère de l’agriculture</td></tr>
+<tr><td>Argentina Argentina  Argentinien  Αργεντινή  Argentina  Argentine  Argentina  Argentinië  Argentina  Argentiina  Argentina </td><td>Dirección Nacional de Producción y Comercializa ción de la Secretaría de Agriculrura, Ganadería y PESCA</td></tr>
+<tr><td>Colombia Colombia  Kolumbien  Κολομβία  Colombia  Colombia </td><td>Corporación Colombia International</td></tr>
+<tr><td>Colombie Colombia  Colombia  Kolumbia  Colombia </td><td>  </td></tr>
+<tr><td colspan="2">2. Únicamente para los híbridos de agrios conocidos por el nombre de ‘Minneolas’ – Ude lukkende til krydsninger af citrusfrugter, benævnt ‘Minneolas’ – Nur für Kreuzungen von Zitrusfrüchten, bekannt unter dem Namen ‘Minneolas’ – Μόνο για τα υβρίδια εσπεριδοειδών γνωστά με την ονομασία ‘Minneolas’ – Only for citrus fruit known as ‘Minneolas’ – Uniquement pour les hybrides d’agrumes connus sous le nom de ‘Minneolas’ – Solo per ibridi d’agrumi conosciuti sotto il nome di ‘Minneolas’ – Uitsluitend voor kruisingen van citrusvruchten die bekend staan als ‘minneola’s’ – Somente para os citrinos hfbridos con hecidos pelo nome de ‘Minneolas’ – Ainoastaan Minneolas-sitrushedelmille – Endast for citrusfrukter benämnda ‘Minneolas’</td></tr>
+<tr><td>Israel Israel  Israel  Ισραήλ  Israel  Israel  Israele  Israël  Israel  Israel  Israel </td><td>Ministry of Agriculture, Department of Plant Protection and Inspection</td></tr>
+<tr><td>Chipre Cypern  Zypern  Κύπρος  Cyprus  Chypre  Cipro  Cyprus  Chipre  Kypros  Cypern </td><td>Ministry of Commerce and Industry Produce Inspection Service</td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**Conversion factors for sheep meat and goat meat quotas opened in the framework of the Free Trade Agreement between the European Union and New Zealand**
+
+The following conversion factors shall be used to convert product weight to carcass weight equivalent for the products covered by order numbers 09.7901, 09.7898, 09.7899, 09.7902, 09.7896 and 09.7897.
+
+| CN codes/TARIC codes | Conversion factor |
+| --- | --- |
+| 0204 10 00 | 100 % |
+| 0204 21 00 | 100 % |
+| 0204 22 10 | 100 % |
+| 0204 22 30 | 100 % |
+| 0204 22 50 | 100 % |
+| 0204 22 90 | 100 % |
+| 0204 23 00 11 | 167 % |
+| 0204 23 00 19 | 181 % |
+| 0204 23 00 91 | 167 % |
+| 0204 23 00 99 | 181 % |
+| 0204 50 11 | 100 % |
+| 0204 50 13 | 100 % |
+| 0204 50 15 | 100 % |
+| 0204 50 19 | 100 % |
+| 0204 50 31 | 100 % |
+| 0204 50 39 | 167 % (kid) 181 % (other) |
+| ex 0210 99 21 (fresh/chilled) | 100 % |
+| ex 0210 99 29 (fresh/chilled) | 167 % |
+| 0204 30 00 | 100 % |
+| 0204 41 00 | 100 % |
+| 0204 42 10 | 100 % |
+| 0204 42 30 | 100 % |
+| 0204 42 50 | 100 % |
+| 0204 42 90 | 100 % |
+| 0204 43 10 | 167 % |
+| 0204 43 90 | 181 % |
+| 0204 50 51 | 100 % |
+| 0204 50 53 | 100 % |
+| 0204 50 55 | 100 % |
+| 0204 50 59 | 100 % |
+| 0204 50 71 | 100 % |
+| 0204 50 79 | 167 % (kid) 181 % (other) |
+| ex 0210 99 21 (frozen) | 100 % |
+| ex 0210 99 29 (frozen) | 167 % |
+
+## ANNEX VI — Conversion factors in the eggs sector applicable from 6 June to 31 December 2025 for the tariff rate quotas opened in the framework of the Association Agreement between the European Union and Ukraine
+
+**CONVERSION FACTORS AND COMPENSATING PRODUCTS FOR EGGS SECTOR**
+
+<table>
+<tbody><tr><td colspan="2">Import goods</td><td rowspan="2">Numerical order</td><td colspan="2">Compensating products</td><td rowspan="2">Quantity of compensating products for each 100 kg of imported goods (kg) (1)</td></tr>
+<tr><td>CN code</td><td>Description</td><td>Code (2)</td><td>Description</td></tr>
+<tr><td rowspan="6">0407 21 00  0407 29 10  0407 90 10 </td><td rowspan="6">Eggs in shell</td><td>1</td><td>ex 0408 99 80  ex 0511 99 85 </td><td>(a) Eggs, not in shell, liquid or frozen (b) Shells </td><td>86,00  12,00 </td></tr>
+<tr><td rowspan="2">2</td><td>0408 19 81  ex 0408 19 89 </td><td>(a) Egg yolks, liquid or frozen</td><td>33,00 </td></tr>
+<tr><td>ex 3502 19 90  ex 0511 99 85 </td><td>(b) Egg albumin, liquid or frozen (c) Shells </td><td>53,00  12,00 </td></tr>
+<tr><td>3</td><td>0408 91 80  ex 0511 99 85 </td><td>(a) Eggs, not in shell, dried (b) Shells </td><td>22,10  12,00 </td></tr>
+<tr><td>4</td><td>0408 11 80  ex 3502 11 90  ex 0511 99 85 </td><td>(a) Egg yolks, dried (b) Egg albumin, dried (in crystals)  (c) Shells </td><td>15,40  7,40  12,00 </td></tr>
+<tr><td>5</td><td>0408 11 80  ex 3502 11 90  ex 0511 99 85 </td><td>(a) Egg yolks, dried (b) Egg albumin, dried (in another form)  (c) Shells </td><td>15,40  6,50  12,00 </td></tr>
+<tr><td>ex 0408 99 80 </td><td>Eggs, not in shell, liquid or frozen</td><td>6</td><td>0408 91 80 </td><td>Eggs, not in shell, dried</td><td>25,70 </td></tr>
+<tr><td>0408 19 81 and ex 0408 19 89 </td><td>Egg yolks, liquid or frozen</td><td>7</td><td>0408 11 80 </td><td>Egg yolks, dried</td><td>46,60 </td></tr>
+<tr><td colspan="6">(1)  Losses are calculated by subtracting from 100 the sum of the quantities shown in this column.  (2)  The subheadings in this column correspond to those in the Combined Nomenclature. </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Implementing Regulation (EU) 2020/761 of 17 December 2019 laying down rules for the application of Regulations (EU) No 1306/2013, (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the management system of tariff quotas with licences (OJ L 185, 12.6.2020, p. 24, ELI: http://data.europa.eu/eli/reg_impl/2020/761/oj).
+
+( 2 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 3 ) Notice of the European Commission [2026/874] (OJ L, 2026/874, 17.4.2026, ELI: http://data.europa.eu/eli/notice/2026/874/oj).
+
+( 4 ) OJ L 54, 26.2.2013, p. 4.
+
+( 5 ) Council Decision 2013/94/EU of 26 March 2012 on the conclusion of the Regional Convention on pan-Euro-Mediterranean preferential rules of origin (OJ L 54, 26.2.2013, p. 3).
+
+( 6 ) OJ L 53, 22.2.1997, p. 2.
+
+( 7 ) Council Decision 97/126/EC of 6 December 1996 concerning the conclusion of an agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part (OJ L 53, 22.2.1997, p. 1).
+
+( 8 ) OJ L 171, 27.6.1973, p. 2.
+
+( 9 ) Regulation (EEC) No 1691/73 of the Council of 25 June 1973 concluding an Agreement between the European Economic Community and the Kingdom of Norway and adopting provisions for its implementation (OJ L 171, 27.6.1973, p. 1).
+
+( 10 ) Commission Regulation (EU) No 642/2010 of 20 July 2010 on rules of application (cereal sector import duties) for Council Regulation (EC) No 1234/2007 (OJ L 187, 21.7.2010, p. 5).
+
+( 11 ) Commission Implementing Regulation (EU) 2023/2834 of 10 October 2023 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards imports in the sectors of rice, cereals, sugar and hops (OJ L, 2023/2834, 21.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2834/oj).
+
+( 12 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg_del/2015/2446/oj).
+
+( 13 ) Commission Delegated Regulation (EU) 2018/273 of 11 December 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations (EC) No 555/2008, (EC) No 606/2009 and (EC) No 607/2009 and repealing Commission Regulation (EC) No 436/2009 and Commission Delegated Regulation (EU) 2015/560 (OJ L 58, 28.2.2018, p. 1).
+
+( 14 ) OJ L 278, 18.10.2013, p. 16.
+
+( 15 ) Council and Commission Decision of 22 July 2013 on the conclusion of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Serbia, of the other part (OJ L 278, 18.10.2013, p. 14).
+
+( 16 ) OJ L 342, 27.12.2001, p. 9.
+
+( 17 ) Council Decision 2001/916/EC of 3 December 2001 on the conclusion of an Additional Protocol adjusting the trade aspects of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part, to take account of the outcome of the negotiations between the parties on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine names and the reciprocal recognition, protection and control of designations for spirits and aromatised drinks (OJ L 342, 27.12.2001, p. 6).
+
+( 18 ) OJ L 84, 20.3.2004, p. 13.
+
+( 19 ) Council and Commission Decision 2004/239/EC, Euratom of 23 February 2004 concerning the conclusion of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part (OJ L 84, 20.3.2004, p. 1).
+
+( 20 ) OJ L 71, 16.3.2016, p. 3.
+
+( 21 ) Council Decision (EU) 2016/342 of 12 February 2016 on the conclusion, on behalf of the Union, of the Stabilisation and Association Agreement between the European Union and the European Atomic Energy Community, of the one part, and Kosovo, of the other part (OJ L 71, 16.3.2016, p. 1).
+
+( 22 ) This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+( 23 ) Commission Regulation (EEC) No 2429/86 of 31 July 1986 on the procedure for determining the meat content of meat preparations and preserves falling within subheading ex 16.02 B III b) 1) of the nomenclature contained in the Annex to Regulation (EEC) No 2184/86 (OJ L 210, 1.8.1986, p. 39).
+
+( 24 ) OJ L 114, 30.4.2002, p. 132.
+
+( 25 ) Decision 2002/309/EC, Euratom of the Council, and of the Commission as regards the Agreement on Scientific and Technological Cooperation, of 4 April 2002 on the conclusion of seven Agreements with the Swiss Confederation (OJ L 114, 30.4.2002, p. 1).
+
+( 26 ) Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97 (OJ L 204, 11.8.2000, p. 1).

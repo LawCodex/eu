@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **regarding the European Investigation Order in criminal matters**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/228 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 2022 </td><td> L 39</td><td>1</td><td>21.2.2022</td></tr>
+</table>
 
 **DIRECTIVE 2014/41/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

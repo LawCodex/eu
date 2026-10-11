@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2002/84/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 November 2002</td><td> L 324</td><td>53</td><td>29.11.2002</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2017/2109 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 November 2017 </td><td> L 315</td><td>52</td><td>30.11.2017</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 98/41/EC**
 

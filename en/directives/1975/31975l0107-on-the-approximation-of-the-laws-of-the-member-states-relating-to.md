@@ -104,6 +104,7 @@ The distance between the theoretical filling level for the nominal capacity and 
 
 3\. In order to make it possible, allowing for the usual uncertainties in filling, to measure the volume of the contents of measuring container bottles with sufficient accuracy, and in particular with the accuracy required by the Directives on prepackages, the maximum permissible errors (positive or negative) in the capacity of a measuring bottle container, i.e. the greatest differences permitted (positive or negative) at a temperature of 20oC and under the control conditions laid down in Annex II, between the actual capacity and the nominal capacity Vn shall be in accordance with the following table:
 
+<table>
 <tbody><tr><td rowspan="2">Nominal capacity Vn in millilitres</td><td colspan="2">Maximum permissible errors</td></tr>
 <tr><td>as a % of Vn</td><td>in millilitres</td></tr>
 <tr><td>from 50 to 100</td><td>—</td><td>3</td></tr>
@@ -113,6 +114,7 @@ The distance between the theoretical filling level for the nominal capacity and 
 <tr><td>from 500 to 1 000</td><td>—</td><td>10</td></tr>
 <tr><td>from 1 000 to 5 000</td><td>1</td><td>—</td></tr>
 </tbody>
+</table>
 
 The maximum permissible error in the brim capacity shall be the same as the maximum permissible error in the corresponding nominal capacity.
 
@@ -188,6 +190,7 @@ Error in measuring the capacity shall not be great er than one-fifth of the maxi
 
 The number of measuring container bottles in the sample is 35.
 
+<table>
 <tbody><tr><td></td><td>3.1.1.</td><td>Calculate as follows (see 3.1.4.):<table><tbody><tr><td>3.1.1.1.</td><td>the average  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0001.xml.jpg" alt="Formula">  of the actual capacities xi of the bottles in the sample,</td></tr>
 </tbody>
 </table>
@@ -196,7 +199,9 @@ The number of measuring container bottles in the sample is 35.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.1.2.</td><td>Calculate as follows:<table><tbody><tr><td>3.1.2.1.</td><td>The upper limit Ts: the sum of the indicated capacity (see Annex I, Section 8) and of the maximum permissible error corresponding to this capacity.</td></tr>
 </tbody>
 </table>
@@ -205,14 +210,18 @@ The number of measuring container bottles in the sample is 35.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.1.3.</td><td>Acceptance criteria: The batch shall be declared to comply with the Directive if the numbers <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0002.xml.jpg" alt="Formula"> and s verify simultaneously the following three inequations:  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0003.xml.jpg" alt="Formula">  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0004.xml.jpg" alt="Formula">  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0005.xml.jpg" alt="Formula"> <table><tbody><tr><td>where k</td><td>=</td><td>1·57</td></tr>
 <tr><td>and F</td><td>=</td><td>0·266</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.1.4.</td><td>Calculation of the mean value  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0006.xml.jpg" alt="Formula">  and the estimated standard deviation s of the batch. Calculate as follows: <table><tbody><tr><td>—</td><td>the sum of the 35 actual capacity measurements x = Σxi</td></tr>
 </tbody>
 </table>
@@ -233,11 +242,13 @@ The number of measuring container bottles in the sample is 35.
 </table>
  Hence the estimated standard deviation: <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0011.xml.jpg" alt="Formula"> </td></tr>
 </tbody>
+</table>
 
 **3.2. Use of the average range method**
 
 The number of measuring container bottles in the sample is 40.
 
+<table>
 <tbody><tr><td></td><td>3.2.1.</td><td>Calculate as follows (see 3.2.4):<table><tbody><tr><td>3.2.1.1.</td><td>the average  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0012.xml.jpg" alt="Formula">  of the actual capacities x of the bottles in the sample,</td></tr>
 </tbody>
 </table>
@@ -246,7 +257,9 @@ The number of measuring container bottles in the sample is 40.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.2.2.</td><td>Calculate as follows:<table><tbody><tr><td>3.2.2.1.</td><td>the upper limit Ts the sum of the indicated capacity (see Annex I, Section 8) and the maximum permissible error corresponding to this capacity,</td></tr>
 </tbody>
 </table>
@@ -255,14 +268,18 @@ The number of measuring container bottles in the sample is 40.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.2.3.</td><td>Acceptance criterion: The batch shall be declared to comply with the Directive if the numbers <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0014.xml.jpg" alt="Formula"> and <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0015.xml.jpg" alt="Formula"> verify simultaneously the following three inequations:  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0016.xml.jpg" alt="Formula">  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0017.xml.jpg" alt="Formula">  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0018.xml.jpg" alt="Formula"> <table><tbody><tr><td>where k'</td><td>=</td><td>0·668,</td></tr>
 <tr><td>and F'</td><td>=</td><td>0·628.</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.2.4.</td><td>Calculation of the mean value  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0019.xml.jpg" alt="Formula">  and of the average range of  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0020.xml.jpg" alt="Formula">  of the 40 measuring container bottles in the sample.<table><tbody><tr><td>3.2.4.1.</td><td>to obtain  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1975.042.01.0014.01.ENG.xhtml.FOR-L_1975042EN.01001801.notes.0021.xml.jpg" alt="Formula"> , calculate as follows:<table><tbody><tr><td>—</td><td>the sum of the 40 actual capacity measurements xi: Σ xi</td></tr>
 </tbody>
 </table>
@@ -283,3 +300,4 @@ The number of measuring container bottles in the sample is 40.
 </table>
 </td></tr>
 </tbody>
+</table>

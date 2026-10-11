@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1829/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 September 2003 </td><td> L 268</td><td>1</td><td>18.10.2003</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2018/350 of 8 March 2018 </td><td> L 67</td><td>30</td><td>9.3.2018</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+</table>
 
 **DIRECTIVE 2001/18/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1766,6 +1768,7 @@ The design of the monitoring plan should:
 
 **CORRELATION TABLE**
 
+<table>
 <tbody><tr><td>Directive 90/220/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1 (1)</td><td>Article 1</td></tr>
 <tr><td>Article 1 (2)</td><td>Article 3 (2)</td></tr>
@@ -1828,6 +1831,7 @@ The design of the monitoring plan should:
 <tr><td>—</td><td>Annex VI</td></tr>
 <tr><td>—</td><td>Annex VII</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 117, 8.5.1990, p. 1. Directive as amended by Directive 98/81/EC (OJ L 330 5.12.1998, p. 13).
 

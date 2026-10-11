@@ -26,12 +26,14 @@ retrieved: 2026-10-11
 
 **(Codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION IMPLEMENTING DECISION of 2 April 2013 </td><td> L 94</td><td>8</td><td>4.4.2013</td></tr>
 <tr><td> M2</td><td> COMMISSION IMPLEMENTING DIRECTIVE 2013/45/EU of 7 August 2013 </td><td> L 213</td><td>20</td><td>8.8.2013</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2019/990 of 17 June 2019 </td><td> L 160</td><td>14</td><td>18.6.2019</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2022/1400 of 11 August 2022 </td><td> L 213</td><td>57</td><td>16.8.2022</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2008/72/EC**
 
@@ -537,12 +539,14 @@ Zea mays L.
 
 **(referred to in Article 25)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time limit for transposition</td><td>Date of application</td></tr>
 <tr><td>92/33/EEC</td><td>31 December 1992</td><td>—</td></tr>
 <tr><td>2003/61/EC</td><td>10 October 2003</td><td>—</td></tr>
 <tr><td>2006/124/EC</td><td>30 June 2007</td><td>1 July 2007 (1)</td></tr>
 <tr><td colspan="3">(1)  In accordance with the second subparagraph of Article 3(1) of Directive 2006/124/EC: ‘They shall apply the provisions from 1 July 2007. However, they may postpone until 31 December 2009 the application of the provisions in respect of the official acceptance of varieties belonging to Allium cepa L. (aggregatum group), Allium fistulosum L., Allium sativum L., Allium schoenoprasum L., Rheum rhabarbarum L. and Zea mays L.’ </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 

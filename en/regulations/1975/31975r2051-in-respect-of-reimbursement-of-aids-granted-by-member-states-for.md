@@ -1,0 +1,89 @@
+---
+title: "Regulation (EEC) No 2051/75 of the Commission of 25 July 1975 in respect of reimbursement of aids granted by Member States for improvement of the production and marketing of Community citrus fruit"
+identifier: "31975R2051"
+eli: "http://data.europa.eu/eli/reg/1975/2051/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1975-07-25
+entry_into_force: 1975-05-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2051"
+retrieved: 2026-10-11
+---
+
+# Regulation (EEC) No 2051/75 of the Commission of 25 July 1975 in respect of reimbursement of aids granted by Member States for improvement of the production and marketing of Community citrus fruit
+
+REGULATION (EEC) No 2051/75 OF THE COMMISSION of 25 July 1975 in respect of reimbursement of aids granted by Member States for improvement of the production and marketing of Community citrus fruit
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community;
+
+Having regard to Council Regulation (EEC) No 2511/69 (1) of 9 December 1969 laying down special measures for improving the production and marketing of Community citrus fruit, as last amended by Regulation (EEC) No 175/73 (2), and in particular Article 5 (3) thereof;
+
+Whereas applications forwarded to the guidance section of the EAGGF for reimbursement of 50 % of the amount of aids granted by Member States for the improvement of production and marketing of Community citrus fruit must include certain specific information, which should be presented in an identical form by each Member State, to facilitate the checking of their conformity to the provisions of Regulation (EEC) No 2511/69, as well as the reaching of a decision relating to them;
+
+Whereas, to allow the accurate verification of applications for reimbursement, Member States must retain, for a period of three years for submission to the Commission if necessary, the supporting documents on the basis of which the amount of the aids was calculated;
+
+Whereas the measures provided for in this Regulation are in accordance with the Opinion of the Fund Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Applications for reimbursement drawn up by Member States in respect of the aids referred to in Article 1 (1) (a) and (2) of Regulation (EEC) No 2511/69 shall be presented in the format specified in the tables in Annexes I, II, and III to this Regulation.
+
+## Article 2
+
+Applications for reimbursement drawn up by Member States in respect of aids referred to in Article 1 (1) (b) of Regulation (EEC) No 2511/69 must include, for each investment project implemented within the framework of the annual plan referred to in Article 2 of Regulation (EEC) No 2511/69, the documents referred to in Annex IV.
+
+## Article 3
+
+1\. Applications for reimbursement shall relate to expenditure effected by Member States during a given calendar year and shall be submitted to the Commission before 1 July of the following year.
+
+2\. The Commission, on the basis of the information contained in the request for reimbursement, makes the reimbursement before 31 December provided that the request is complete and presented in the form and within the time limit required.
+
+## Article 4
+
+For aid provided in accordance with Article 1 of Regulation (EEC) No 2511/69, the Member State should hold all supporting papers (or certified copies) at the disposal of the Commission for a period of three years from the date of the last reimbursement by the Community.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 25 July 1975.
+
+For the Commission
+
+P.J. LARDINOIS
+
+Member of the Commission (1)OJ No L 318, 18.12.1969, p. 1. (2)OJ No L 25, 30.1.1973, p. 2.
+
+## ANNEX I
+
+>PIC FILE= "T0007751">
+
+## ANNEX II
+
+>PIC FILE= "T0007752">
+
+## ANNEX III
+
+>PIC FILE= "T0007753">
+
+## ANNEX IV
+
+Information to be given concerning an application for reimbursement relating to an investment project carried out under Article 1 (1) (b) of Regulation (EEC) No 2511/69
+
+1\. Summary of all relevant information concerning the project, prepared by the Member State and including: - identity of the beneficiary,
+
+- technical information on the works carried out, including, in particular, details of processing facilities set up,
+
+- cost of the works, and financial contribution by the Member State.
+
+2\. Economic analysis showing the quantities and varieties of citrus fruits produced in the area affected by the project, and the objectives aimed at.
+
+3\. An attestation from the Member State comprising: - the principal reasons for the decision to finance the project,
+
+- a declaration establishing that the conditions laid down in Article 3 (1) (b) and (c) of Regulation (EEC) No 2511/69 have been observed.
+
+4\. The amount of the reimbursement requested from the EAGGF.

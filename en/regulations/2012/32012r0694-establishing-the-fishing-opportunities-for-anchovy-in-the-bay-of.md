@@ -1,0 +1,90 @@
+---
+title: "Council Regulation (EU) No 694/2012 of 27 July 2012 establishing the fishing opportunities for anchovy in the Bay of Biscay for the 2012/13 fishing season"
+identifier: "32012R0694"
+eli: "http://data.europa.eu/eli/reg/2012/694/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-07-27
+entry_into_force: 2012-02-20
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0694"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 694/2012 of 27 July 2012 establishing the fishing opportunities for anchovy in the Bay of Biscay for the 2012/13 fishing season
+
+**COUNCIL REGULATION (EU) No 694/2012**
+
+**of 27 July 2012**
+
+**establishing the fishing opportunities for anchovy in the Bay of Biscay for the 2012/13 fishing season**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(3) thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) It is incumbent upon the Council to establish the total allowable catches (TACs) by fishery or group of fisheries. Fishing opportunities should be distributed among Member States in such a way as to ensure the relative stability of each Member State’s fishing activities for all stocks or groups of stocks and having due regard to the objectives of the common fisheries policy established by Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy (1).
+
+(2) For the purposes of suitable stock management and simplification, it is appropriate that a TAC and Member State quotas for the stock of anchovy in the Bay of Biscay (ICES subarea VIII) are set for an annual management season running from 1 July to 30 June of the following year, rather than for a calendar year management period. Nevertheless, fishery should remain subject to the general provisions of Regulation (EU) No 43/2012 (2) concerning the conditions for the use of quotas.
+
+(3) The Bay of Biscay anchovy TAC for the 2012/13 fishing season should be established on the basis of scientific advice available, taking into account biological and socioeconomic aspects and ensuring fair treatment between fishing sectors.
+
+(4) In order to provide for a multiannual plan for the anchovy stock in the Bay of Biscay covering the fishing season and establishing the harvest control rule applying for the fixing of fishing opportunities, on 29 July 2009 the Commission presented a proposal for a Regulation establishing a long-term plan for the anchovy stock in the Bay of Biscay and the fisheries exploiting that stock. Having regard to that proposal and considering that the impact assessment underlying that proposal provided for the most recent assessment of the impact of decisions on the fishing opportunities for the anchovy stock in the Bay of Biscay, it is appropriate to fix a TAC for that stock accordingly. The advice issued by the Scientific, Technical and Economic Committee for Fisheries (STECF) in July 2012 estimated the spawning stock biomass to be approximately 68 180 tonnes. Consequently, the TAC for the fishing season running from 1 July 2012 to 30 June 2013 should be established at 20 700 tonnes.
+
+(5) In accordance with Article 2 of Council Regulation (EC) No 847/96 of 6 May 1996 introducing additional conditions for year-to-year management of TACs and quotas (3), it is necessary to establish to what extent the stock of anchovy in the Bay of Biscay is subject to the measures laid down in that Regulation.
+
+(6) In view of the start of the 2012/13 fishing season and for the purpose of the annual reporting of catches, this Regulation should enter into force immediately and apply from 1 July 2012,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Fishing opportunities for anchovy in the Bay of Biscay
+
+1\. The total allowable catch (TAC) and its allocation between Member States for the fishing season running from 1 July 2012 until 30 June 2013 for the stock of anchovy in ICES Subarea VIII, as defined in Regulation (EC) No 218/2009 (4), shall be as follows (in tonnes live weight):
+
+<table>
+<tbody><tr><td colspan="2"><table><tbody><tr><td>Species</td><td>:</td><td>Anchovy Engraulis encrasicolus </td></tr>
+</tbody>
+</table>
+</td><td><table><tbody><tr><td>ICES Zone</td><td>:</td><td>VIII (ANE/08.) </td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td>Spain</td><td>18 630 </td><td rowspan="4">Analytical TAC</td></tr>
+<tr><td>France</td><td>2 070 </td></tr>
+<tr><td>EU</td><td>20 700 </td></tr>
+<tr><td>TAC</td><td>20 700 </td></tr>
+</tbody>
+</table>
+
+2\. The allocation of the fishing opportunities as set out in paragraph 1 and the use thereof shall be subject to the conditions set out in Articles 8, 10 and 13 of Regulation (EU) No 43/2012.
+
+3\. The stock referred to in paragraph 1 shall be considered subject to an analytical TAC for the purposes of Regulation (EC) No 847/96. Article 3(2) and (3) and Article 4 of that Regulation shall apply.
+
+## Article 2 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 July 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 27 July 2012.
+
+For the Council
+
+The President
+
+A. D. MAVROYIANNIS
+
+(1) OJ L 358, 31.12.2002, p. 59.
+
+(2) Council Regulation (EU) No 43/2012 of 17 January 2012 fixing for 2012 the fishing opportunities available to EU vessels for certain fish stocks and groups of fish stocks which are not subject to international negotiations or agreements (OJ L 25, 27.1.2012, p. 1).
+
+(3) OJ L 115, 9.5.1996, p. 3.
+
+(4) Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70).

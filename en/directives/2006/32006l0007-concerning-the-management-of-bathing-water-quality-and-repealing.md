@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **concerning the management of bathing water quality and repealing Directive 76/160/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/64/EU of 17 December 2013 </td><td> L 353</td><td>8</td><td>28.12.2013</td></tr>
+</table>
 
 **DIRECTIVE 2006/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -377,21 +379,25 @@ This Directive is addressed to Member States.
 
 **For inland waters**
 
+<table>
 <tbody><tr><td rowspan="2">  </td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr>
 <tr><td>Parameter</td><td>Excellent quality</td><td>Good quality</td><td>Sufficient</td><td>Reference methods of analysis</td></tr>
 <tr><td>1</td><td>Intestinal enterococci (cfu/100 ml)</td><td>200 (*1)</td><td>400 (*1)</td><td>330 (*2)</td><td>ISO 7899-1 or ISO 7899-2</td></tr>
 <tr><td>2</td><td>Escherichia coli (cfu/100 ml)</td><td>500 (*1)</td><td>1 000 (*1)</td><td>900 (*2)</td><td>ISO 9308-3 or ISO 9308-1</td></tr>
 <tr><td colspan="6">(*1)  Based upon a 95‐percentile evaluation. See Annex II.  (*2)  Based upon a 90‐percentile evaluation. See Annex II. </td></tr>
 </tbody>
+</table>
 
 **For coastal waters and transitional waters**
 
+<table>
 <tbody><tr><td rowspan="2">  </td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr>
 <tr><td>Parameter</td><td>Excellent quality</td><td>Good quality</td><td>Sufficient</td><td>Reference methods of analysis</td></tr>
 <tr><td>1</td><td>Intestinal enterococci (cfu/100 ml)</td><td>100 (*1)</td><td>200 (*1)</td><td>185 (*2)</td><td>ISO 7899-1 or ISO 7899-2</td></tr>
 <tr><td>2</td><td>Escherichia coli (cfu/100 ml)</td><td>250 (*1)</td><td>500 (*1)</td><td>500 (*2)</td><td>ISO 9308-3 or ISO 9308-1</td></tr>
 <tr><td colspan="6">(*1)  Based upon a 95‐percentile evaluation. See Annex II.  (*2)  Based upon a 90‐percentile evaluation. See Annex II. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — Bathing water assessment and classification
 

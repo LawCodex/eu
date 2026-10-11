@@ -26,10 +26,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2016/2370 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 </td><td> L 352</td><td>1</td><td>23.12.2016</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DECISION (EU) 2017/2075 of 4 September 2017 </td><td> L 295</td><td>69</td><td>14.11.2017</td></tr>
+</table>
 
 **DIRECTIVE 2012/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

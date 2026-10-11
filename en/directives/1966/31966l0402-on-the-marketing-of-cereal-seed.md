@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(66/402/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE of 18 February 1969 </td><td> L 48</td><td>1</td><td>26.2.1969</td></tr>
@@ -72,6 +73,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/971 of 16 June 2021 </td><td> L 214</td><td>62</td><td>17.6.2021</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/1927 of 5 November 2021 </td><td> L 393</td><td>13</td><td>8.11.2021</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/2171 of 7 December 2021 </td><td> L 438</td><td>84</td><td>8.12.2021</td></tr>
+</table>
 
 | A1 | ACT concerning the Conditions of Accession and the Adjustments to the Treaties | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |
@@ -120,6 +122,7 @@ The conditions for the application of this provision shall be determined in acco
 
 A. Cereals: plants of the following species intended for agricultural or horticultural production other than production for ornamental purposes:
 
+<table>
 <tbody><tr><td colspan="2"></td></tr>
 <tr><td>Avena nuda L.</td><td>Small naked oat, Hulless oat</td></tr>
 <tr><td>Avena sativa L. (includes A. byzantina K. Koch)</td><td>Oats and Red oat</td></tr>
@@ -144,13 +147,16 @@ A. Cereals: plants of the following species intended for agricultural or horticu
 <tr><td colspan="2"></td></tr>
 <tr><td>Zea mays L.  (partim)  </td><td>Maize except popcorn and sweet corn.</td></tr>
 </tbody>
+</table>
 
 This definition shall also cover the following hybrids resulting from the crossing of species referred to above.
 
+<table>
 <tbody><tr><td colspan="2"></td></tr>
 <tr><td>Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td><td>Hybrids resulting from the crossing of Sorghum bicolor (L.) Moench subsp. bicolor and Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td></tr>
 <tr><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 Unless otherwise specified, seed of the aforementioned hybrids shall be subject to the standards or other conditions applicable to seed of each of the species from which they are derived.
 
@@ -716,6 +722,7 @@ This Directive is addressed to the Member States.
 
 2\. The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination:
 
+<table>
 <tbody><tr><td>Crop</td><td>Minimum distance</td></tr>
 <tr><td>Phalaris canariensis, Secale cereale other than hybrids:</td><td>  </td></tr>
 <tr><td>— for the production of basic seed</td><td>300 m</td></tr>
@@ -730,6 +737,7 @@ This Directive is addressed to the Member States.
 <tr><td>Zea mays</td><td>200 m</td></tr>
 <tr><td colspan="2">(1)  In the areas where the presence of S. halepense or S. bicolor subsp. drummondii is a particular cross-pollination issue, the following shall apply:  (a) crops to produce basic seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 800 m from any source of such contaminating pollen;  (b) crops to produce certified seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 400 m from any source of such contaminating pollen. </td></tr>
 </tbody>
+</table>
 
 The minimum distances listed in the table above may be disregarded if there is sufficient protection from any undesirable foreign pollination.
 
@@ -936,6 +944,7 @@ The crop shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the crops shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Fungi and oomycetes</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
 <tr><td>Gibberella fujikuroi Sawada [GIBBFU]</td><td>Oryza sativa L.</td><td>Not more than 2 symptomatic plants per 200 m2 seen during field inspections at appropriate times of a representative sample of the plants in each crop.</td><td>Not more than 2 symptomatic plants per 200 m2 seen during field inspections at appropriate times of a representative sample of the plants in each crop.</td><td>Certified seed of the first generation (C1): Not more than 4 symptomatic plants per 200 m2 seen during field inspections at appropriate times of a representative sample of the plants in each crop.  Certified seed of the second generation (C2):  Not more than 8 symptomatic plants per 200 m2 seen during field inspections at appropriate times of a representative sample of the plants in each crop. </td></tr>
@@ -943,6 +952,7 @@ The presence of RNQPs on the crops shall comply with the following requirements 
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
 <tr><td>Aphelenchoides besseyi Christie [APLOBE]</td><td>Oryza sativa L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 7\. The satisfaction of the abovementioned other standards or conditions shall, in the case of basic seed, be examined in official field inspections and, in the case of certified seed, be examined either in official field inspections or in inspections carried out under official supervision.
 
@@ -1020,6 +1030,7 @@ Seed shall not be certified as certified seed unless due account has been taken 
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="2">Species and category</td><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content by number of seeds of other plant species including red seeds of Oryza sativa in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>Other plant species (a)</td><td>Red seeds of Oryza sativa</td><td>Other cereal species</td><td>Plant species other than cereals</td><td>Avena fatua, Avena sterilis, Lolium temulentum</td><td>Raphanus raphanistrum, Agrostemma githago</td><td>Panicum spp.</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
@@ -1045,6 +1056,7 @@ A. Table:
 <tr><td>— certified seed, 1st and 2nd generation,</td><td>80 </td><td>98 </td><td>10 </td><td>  </td><td>7 </td><td>7 </td><td>0 (c)</td><td>3 </td><td>  </td></tr>
 <tr><td>Zea mays</td><td>90 </td><td>98 </td><td>0 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section 2 (A) of this Annex:
 
@@ -1062,15 +1074,18 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Nematodes</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
 <tr><td>Aphelenchoides besseyi Christie [APLOBE]</td><td>Oryza sativa L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 <tr><td colspan="5">Fungi</td></tr>
 <tr><td>Gibberella fujikuroi Sawada [GIBBFU]</td><td>Oryza sativa L.</td><td>Practically free</td><td>Practically free</td><td>Practically free</td></tr>
 </tbody>
+</table>
 
 4\. The presence of fungus bodies on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td>Category</td><td>Maximum number of fungus bodies, such as sclerotia, or ergots, in a sample of the weight specified in column 3 of Annex III</td></tr>
 <tr><td>Cereals other than hybrids of Secale cereale:</td><td>  </td></tr>
 <tr><td>— Basic seed</td><td>1</td></tr>
@@ -1080,11 +1095,13 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 <tr><td>— Certified seed</td><td>4 (*1)</td></tr>
 <tr><td colspan="2">(*1)  The presence of five fungus bodies such as sclerotia or fragments of sclerotia, or ergots in a sample of the prescribed weight shall be deemed to be in conformity with the standards, where a second sample of the same weight contains no more than four fungus bodies. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
 **LOT AND SAMPLE WEIGHTS**
 
+<table>
 <tbody><tr><td>Species</td><td>Maximum weight of a lot (tonnes) </td><td>Minimum weight of a sample to be drawn from a lot (grams) </td><td>Weight of the sample for determinations by number provided for in columns 4 to 10 of Annex II (2) (A) and Annex II (3) (grams) </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale, xTriticosecale  </td><td>30 </td><td>1 000 </td><td>500 </td></tr>
@@ -1099,6 +1116,7 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 <tr><td>Zea mays, basic seed of inbred lines</td><td>40 </td><td>250 </td><td>250 </td></tr>
 <tr><td>Zea mays, basic seed other than of inbred lines; certified seed</td><td>40 </td><td>1 000 </td><td>1 000 </td></tr>
 </tbody>
+</table>
 
 The maximum lot weight shall not be exceeded by more than 5 %.
 

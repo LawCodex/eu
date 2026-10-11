@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **concerning the minimum requirements for improving the safety and health protection of workers in the mineral-extracting industries through drilling (eleventh individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2007/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2007 </td><td> L 165</td><td>21</td><td>27.6.2007</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 92/91/EEC**
 

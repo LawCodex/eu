@@ -1,0 +1,72 @@
+---
+title: "Commission Implementing Regulation (EU) 2026/1280 of 12 June 2026 fixing the adjustment rate for direct payments pursuant to Regulation (EU) 2021/2116 of the European Parliament and of the Council in respect of the calendar year 2026"
+identifier: "32026R1280"
+eli: "http://data.europa.eu/eli/reg_impl/2026/1280/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-06-12
+entry_into_force: 2026-10-04
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1280"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2026/1280 of 12 June 2026 fixing the adjustment rate for direct payments pursuant to Regulation (EU) 2021/2116 of the European Parliament and of the Council in respect of the calendar year 2026
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2026/1280**
+
+**of 12 June 2026**
+
+**fixing the adjustment rate for direct payments pursuant to Regulation (EU) 2021/2116 of the European Parliament and of the Council in respect of the calendar year 2026**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No 1306/2013 (1), and in particular Article 17(1), third subparagraph, thereof,
+
+After consulting the Committee on the Agricultural Funds,
+
+Whereas:
+
+(1) Article 17(1), first subparagraph, of Regulation (EU) 2021/2116 provides that an adjustment rate for interventions in the form of direct payments referred to in Article 5(2), point (c), of that Regulation and for aid constituting direct payments under the specific measures referred to in Article 5(2), point (e), of that Regulation is to be determined where the forecasts for the financing of the interventions and measures financed under the corresponding sub-ceiling for a given budgetary year indicate that the applicable annual ceilings will be exceeded.
+
+(2) Pursuant to Article 16(1) of Regulation (EU) 2021/2116 a Union agricultural reserve is to be established at the beginning of each year in the European Agricultural Guarantee Fund (EAGF). In accordance with Article 16(2), second subparagraph, of that Regulation, where available appropriations are not sufficient to fund the reserve up to the required amount, financial discipline may be used in accordance with Article 17 of that Regulation as a last resort to fund the reserve.
+
+(3) The forecasts for the direct payments and market related expenditure determined in the Commission draft budget for 2027 indicate that there is currently no need for financial discipline. There is however great uncertainty as regards the future needs for support from the agricultural reserve in view of the consequences for the agri-food sector of Russia’s invasion of Ukraine and the frequency of adverse climatic events affecting farming. In addition, the current high level of instability in the agricultural sector across Europe may impact the estimated budget needs for financial year 2027.
+
+(4) In accordance with Article 17(1), third subparagraph, of Regulation (EU) 2021/2116, the adjustment rate is to be fixed by 30 June of the calendar year in respect of which the adjustment rate applies. In accordance with Article 17(2) of that Regulation, the adjustment rate may be adapted on the basis of new information until 1 December of the same calendar year. Adapting of the rate based on new information is however only possible if a rate has been fixed by 30 June.
+
+(5) In view of the uncertainties related to the budgetary forecasts and in order to maintain the possibility of adapting the adjustment rate until 1 December 2026 to ensure respect of the annual ceilings and additional funding for the agricultural reserve, should any of the two become necessary, it is considered appropriate to fix an adjustment rate of 0 % for the calendar year 2026.
+
+(6) Article 17(1), second subparagraph, of Regulation (EU) 2021/2116 provides that the adjustment rate is to apply, for the corresponding calendar year, to payments exceeding EUR 2 000 to be granted to farmers for interventions in the form of direct payments referred to in Article 5(2), point (c), of that Regulation and for aid constituting direct payments under the specific measures referred to in Article 5(2), point (e), of that Regulation.
+
+(7) As a general rule, farmers submitting an aid application for direct payments for one calendar year (N) are paid within a fixed payment period falling within the financial year (N+1). However, Member States may make late payments to farmers beyond that payment period, within certain limits. Such late payments may be made in a subsequent financial year. When financial discipline is applied for a given calendar year, the adjustment rate should not be applied to payments for which aid applications have been submitted in calendar years other than the calendar year for which the financial discipline applies. Therefore, to ensure equal treatment of farmers, it is appropriate to provide that the adjustment rate is to be applied only to payments for which aid applications have been submitted in the calendar year for which the financial discipline is applied, irrespective of when the payment to farmers is made,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+For the purpose of fixing the adjustment rate in accordance with Article 17 of Regulation (EU) 2021/2116, payments exceeding EUR 2 000 to be granted to farmers for interventions in the form of direct payments referred to in Article 5(2), point (c), of that Regulation and for aid constituting direct payments under the specific measures referred to in Article 5(2), point (e), of that Regulation, in respect of aid applications submitted for the calendar year 2026, shall be subject to an adjustment rate of 0 %.
+
+## Article 2
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 June 2026.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 435, 6.12.2021, p. 187, ELI: http://data.europa.eu/eli/reg/2021/2116/oj.
+
+ELI: http://data.europa.eu/eli/reg_impl/2026/1280/oj
+
+ISSN 1977-0677 (electronic edition)

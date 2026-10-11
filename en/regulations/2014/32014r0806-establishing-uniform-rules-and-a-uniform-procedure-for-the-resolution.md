@@ -1,0 +1,3102 @@
+---
+title: "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+identifier: "32014R0806"
+eli: "http://data.europa.eu/eli/reg/2014/806/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-07-15
+entry_into_force: 2014-09-03
+last_amended: 2026-06-11
+consolidated_version: "02014R0806-20260611"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0806-20260611"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010
+
+**REGULATION (EU) No 806/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 July 2014**
+
+**establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/877 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 </td><td> L 150</td><td>226</td><td>7.6.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/2033 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 314</td><td>1</td><td>5.12.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/23 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2020 </td><td> L 22</td><td>1</td><td>22.1.2021</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/1174 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1174</td><td>1</td><td>22.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2088 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 October 2025 </td><td> L 2088</td><td>1</td><td>21.10.2025</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/808 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 March 2026 </td><td> L 808</td><td>1</td><td>20.4.2026</td></tr>
+</table>
+
+**REGULATION (EU) No 806/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 July 2014**
+
+**establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010**
+
+## PART I — GENERAL PROVISIONS
+
+###### Article 1 — Subject matter
+
+This Regulation establishes uniform rules and a uniform procedure for the resolution of the entities referred to in Article 2 that are established in the participating Member States referred to in Article 4.
+
+Those uniform rules and that uniform procedure shall be applied by the Single Resolution Board established in accordance with Article 42 (the ‘Board’), together with the Council and the Commission and the national resolution authorities within the framework of the single resolution mechanism (‘SRM’) established by this Regulation. The SRM shall be supported by a single resolution fund (‘the Fund’).
+
+The use of the Fund shall be contingent upon the entry into force of an agreement among the participating Member States (‘the Agreement’) on transferring the funds raised at national level towards the Fund as well as on a progressive merger of the different funds raised at national level to be allocated to national compartments of the Fund.
+
+###### Article 2 — Scope
+
+1\. This Regulation shall apply to the following entities:
+
+(a) credit institutions established in a participating Member State;
+
+(b) parent undertakings, including financial holding companies and mixed financial holding companies, established in a participating Member State, where they are subject to consolidated supervision carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013;
+
+(c) investment firms and financial institutions established in a participating Member State, where they are covered by the consolidated supervision of the parent undertaking carried out by the ECB in accordance with Article 4(1)(g) of Regulation (EU) No 1024/2013.
+
+2\. This Regulation shall not apply to entities that are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012.
+
+###### Article 3 — Definitions
+
+1\. For the purposes of this Regulation the following definitions apply:
+
+(1) ‘national competent authority’ means any national competent authority as defined in Article 2(2) of Regulation (EU) No 1024/2013;
+
+(2) ‘competent authority’ means a competent authority as defined in Article 4(2)(i) of Regulation (EU) No 1093/2010;
+
+(3) ‘national resolution authority’ means an authority designated by a participating Member State in accordance with Article 3 of Directive 2014/59/EU;
+
+(4) ‘relevant national resolution authority’ means the national resolution authority of a participating Member State in which an entity or a group's entity is established;
+
+(5) ‘conditions for resolution’ means the conditions referred to in Article 18(1);
+
+(6) ‘resolution plan’ means a plan drawn up in accordance with Article 8 or 9;
+
+(7) ‘group resolution plan’ means a plan for group resolution drawn up in accordance with Articles 8 and 9;
+
+(8) ‘resolution objectives’ means the objectives referred to in Article 14;
+
+(9) ‘resolution tool’ means a resolution tool referred to in Article 22(2);
+
+(10) ‘resolution action’ means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
+
+(11) ‘covered deposits’ means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
+
+(12) ‘eligible deposits’ means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
+
+(13) ‘institution’ means a credit institution, or an investment firm covered by consolidated supervision in accordance with Article 2(c);
+
+(14) ‘institution under resolution’ means an entity referred to in Article 2 in respect of which a resolution action is taken;
+
+(15) ‘financial institution’ means a financial institution as defined in Article 4(1)(26) of Regulation (EU) No 575/2013;
+
+(16) ‘financial holding company’ means a financial holding company as defined in Article 4(1)(20) of Regulation (EU) No 575/2013;
+
+(17) ‘mixed financial holding company’ means a mixed financial holding company as defined in point (21) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(18) ‘Union parent financial holding company’ means an EU parent financial holding company as defined in point (31) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(19) ‘Union parent institution’ means an EU parent institution as defined in point (29) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(20) ‘parent undertaking’ means a parent undertaking as defined in Article 4(1)(15)(a) of Regulation (EU) No 575/2013;
+
+(21) ‘subsidiary’ means a subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013, and for the purpose of applying Article 8, Article 10(10), Articles 12 to 12k, 21 and 53 of this Regulation to resolution groups referred to in point (b) of point (24b) of this paragraph, include, where and as appropriate, credit institutions that are permanently affiliated to a central body, the central body itself, and their respective subsidiaries, taking into account the way in which such resolution groups comply with Article 12f(3) of this Regulation;
+
+(21a) ‘material subsidiary’ means a material subsidiary as defined in point (135) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(22) ‘branch’ means a branch as defined in Article 4(1)(17) of Regulation (EU) No 575/2013;
+
+(23) ‘group’ means a parent undertaking and its subsidiaries that are entities as referred to in Article 2;
+
+(24) ‘cross-border group’ means a group that has entities as referred to in Article 2 established in more than one participating Member State;
+
+(24a) ‘resolution entity’ means a legal person established in a participating Member State, which the Board or the national resolution authority, in accordance with Article 8 of this Regulation, has identified as an entity in respect of which the resolution plan provides for resolution action;
+
+(24aa) ‘liquidation entity’ means a legal person established in a participating Member State in respect of which the group resolution plan or, for entities that are not part of a group, the resolution plan, provides that the entity is to be wound up under normal insolvency proceedings, or an entity, within a resolution group other than a resolution entity, in respect of which the group resolution plan does not provide for the exercise of write-down and conversion powers;
+
+(24b) ‘resolution group’ means:
+
+(a) a resolution entity, together with its subsidiaries that are not:
+
+(i) resolution entities themselves;
+
+(ii) subsidiaries of other resolution entities; or
+
+(iii) entities established in a third country that are not included in the resolution group under the resolution plan, and their subsidiaries; or
+
+(b) credit institutions that are permanently affiliated to a central body, and the central body itself when at least one of those credit institutions or the central body is a resolution entity, and their respective subsidiaries;
+
+(24c) ‘global systemically important institution’ or ‘G-SII’ means a G-SII as defined in point (133) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(25) ‘consolidated basis’ means the basis of the consolidated situation as defined in Article 4(1)(47) of Regulation (EU) No 575/2013;
+
+(26) ‘consolidating supervisor’ means consolidating supervisor as defined in Article 4(1)(41) of Regulation (EU) No 575/2013;
+
+(27) ‘group-level resolution authority’ means the resolution authority in the participating Member State in which the institution or parent undertaking subject to consolidated supervision at the highest level of consolidation within participating Member States in accordance with Article 111 of Directive 2013/36/EU is established;
+
+(28) ‘institutional protection scheme’ or ‘IPS’ means an arrangement that meets the requirements laid down in Article 113(7) of Regulation (EU) No 575/2013;
+
+(29) ‘extraordinary public financial support’ means State aid within the meaning of Article 107(1) TFEU or any other public financial support at supra-national level, which, if provided at national level, would constitute State aid, that is provided in order to preserve or restore the viability, liquidity or solvency of an entity referred to in Article 2 of this Regulation or of a group of which such an entity forms part;
+
+(30) ‘sale of business tool’ means the mechanism for effecting a transfer by a resolution authority of instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a purchaser that is not a bridge institution, in accordance with Article 24;
+
+(31) ‘bridge institution tool’ means the mechanism for transferring instruments of ownership issued by an institution under resolution, or assets, rights or liabilities of an institution under resolution, to a bridge institution, in accordance with Article 25;
+
+(32) ‘asset separation tool’ means the mechanism for effecting a transfer of assets, rights or liabilities of an institution under resolution to an asset management vehicle in accordance with Article 26;
+
+(33) ‘bail-in tool’ means the mechanism for effecting the exercise of the write-down and conversion powers in relation to liabilities of an institution under resolution in accordance with Article 27;
+
+(34) ‘available financial means’ means the cash, deposits, assets and irrevocable payment commitments available to the Fund for the purposes listed under Article 76(1);
+
+(35) ‘target level’ means the amount of available financial means to be reached under Article 69(1);
+
+(36) ‘Agreement’ means the agreement on the transfer and mutualisation of contributions to the Fund;
+
+(37) ‘transitional period’ means the period from the date of application of this Regulation as determined under Article 99(2) and (6) until the Fund reaches the target level or 1 January 2024, whichever is earlier;
+
+(38) ‘financial instrument’ means financial instrument as defined in point (50) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(39) ‘debt instruments’ means bonds and other forms of transferable debt, instruments creating or acknowledging a debt, and instruments giving rights to acquire debt instruments;
+
+(40) ‘own funds’ means own funds as defined in Article 4(1)(118) of Regulation (EU) No 575/2013;
+
+(41) ‘own funds requirements’ means the requirements laid down in Articles 92 to 98 of Regulation (EU) No 575/2013;
+
+(42) ‘winding up’ means the realisation of assets of an entity referred to in Article 2;
+
+(43) ‘derivative’ means a derivative as defined in Article 2(5) of Regulation (EU) No 648/2012;
+
+(44) ‘write-down and conversion powers’ means the powers referred to in Article 21;
+
+(45) ‘Common Equity Tier 1 instruments’ means capital instruments that meet the conditions laid down in Article 28(1) to (4), Article 29(1) to (5) or Article 31(1) of Regulation (EU) No 575/2013;
+
+(45a) ‘Common Equity Tier 1 capital’ means Common Equity Tier 1 capital as calculated in accordance with Article 50 of Regulation (EU) No 575/2013;
+
+(46) ‘Additional Tier 1 instruments’ means capital instruments that meet the conditions laid down in Article 52(1) of Regulation (EU) No 575/2013;
+
+(47) ‘Tier 2 instruments’ means capital instruments or subordinated loans that meet the conditions laid down in Article 63 of Regulation (EU) No 575/2013;
+
+(48) ‘aggregate amount’ means the aggregate amount by which the resolution authority has assessed that bail-inable liabilities  are to be written down or converted, in accordance with Article 27(13);
+
+(49) ‘bail-inable liabilities’ means the liabilities and capital instruments that do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments of an entity referred to in Article 2 and that are not excluded from the scope of the bail-in tool pursuant to Article 27(3);
+
+(49a) ‘eligible liabilities’ means bail-inable liabilities that fulfil, as applicable, the conditions of Article 12c or point (a) of Article 12g(2) of this Regulation, and Tier 2 instruments that meet the conditions of point (b) of Article 72a(1) of Regulation (EU) No 575/2013;
+
+(49b) ‘subordinated eligible instruments’ means instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than paragraphs (3) to (5) of Article 72b of that Regulation;
+
+(50) ‘deposit guarantee scheme’ means a deposit guarantee scheme introduced and officially recognised by a Member State pursuant to Article 4 of Directive 2014/49/EU;
+
+(51) ‘relevant capital instruments’ means Additional Tier 1 instruments and Tier 2 instruments;
+
+(52) ‘covered bond’ means an instrument as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the Council ( 1 );
+
+(53) ‘depositor’ means a depositor as defined in Article 2(1)(6) of Directive 2014/49/EU;
+
+(54) ‘investor’ means an investor within the meaning of Article 1(4) of Directive 97/9/EC of the European Parliament and of the Council ( 2 );
+
+(55) ‘combined buffer requirement’ means combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU.
+
+2\. In the absence of a relevant definition in paragraph 1 of this Article, the definitions referred to in Article 2 of Directive 2014/59/EU apply. In the absence of a relevant definition in paragraph 1 of this Article or in Article 2 of Directive 2014/59/EU, the definitions referred to in Article 3 of Directive 2013/36/EU apply.
+
+###### Article 4 — Participating Member States
+
+1\. Participating Member States within the meaning of Article 2 of Regulation (EU) No 1024/2013 shall be considered to be participating Member States for the purposes of this Regulation.
+
+1a. Member States shall inform the Board as soon as possible where they request to enter into a close cooperation with the ECB pursuant to Article 7 of Regulation (EU) No 1024/2013.
+
+Following the notification made pursuant to Article 7 of Regulation (EU) No 1024/2013 and before close cooperation is established, Member States shall provide all information about the entities and groups established in their territory that the Board may require to prepare for the tasks conferred on it by this Regulation and the Agreement.
+
+2\. Where close cooperation between a Member State and the ECB is suspended or terminated in accordance with Article 7 of Regulation (EU) No 1024/2013, entities established in that Member State shall cease to be covered by this Regulation from the date of application of the decision to suspend or terminate close cooperation.
+
+3\. In the event that the close cooperation with the ECB of a Member State whose currency is not the euro is terminated in accordance with Article 7 of Regulation (EU) No 1024/2013, the Board shall decide within three months after the date of adoption of the decision to terminate close cooperation, in agreement with that Member State, on the modalities for the recoupment of contributions that the Member State concerned has transferred to the Fund and any conditions applicable.
+
+Recoupments shall include the part of the compartment corresponding to the Member State concerned not subject to mutualisation. If during the transitional period, as laid down in the Agreement, recoupments of the non-mutualised part are not sufficient to permit the funding of the establishment by the Member State concerned of its national financial arrangement in accordance with Directive 2014/59/EU, recoupments shall also include the totality or a part of the part of the compartment corresponding to that Member State subject to mutualisation in accordance with the Agreement or otherwise, after the transitional period, the totality or a part of the contributions transferred by the Member State concerned during the close cooperation, in an amount sufficient to permit the funding of that national financial arrangement.
+
+When assessing the amount of financial means to be recouped from the mutualised part or otherwise, after the transitional period, from the Fund, the following additional criteria shall be taken into account:
+
+(a) the manner in which termination of close cooperation with the ECB has taken place, whether voluntarily, in accordance with Article 7(6) of Regulation (EU) No 1024/2013, or not;
+
+(b) the existence of ongoing resolution actions on the date of termination;
+
+(c) the economic cycle of the Member State concerned by the termination.
+
+Recoupments shall be distributed during a limited period commensurate to the duration of the close cooperation. The relevant Member State's share of the financial means from the Fund used for resolution actions during the period of close cooperation shall be deducted from those recoupments.
+
+4\. This Regulation shall continue to apply to resolution proceedings which are ongoing on the date of application of a decision as referred to in paragraph 2.
+
+###### Article 5 — Relation to Directive 2014/59/EU and applicable national law
+
+1\. Where, pursuant to this Regulation, the Board performs tasks and exercises powers, which, pursuant to Directive 2014/59/EU are to be performed or exercised by the national resolution authority, the Board shall, for the application of this Regulation and of Directive 2014/59/EU, be considered to be the relevant national resolution authority or, in the event of cross-border group resolution, the relevant group-level resolution authority.
+
+1a. Any references to authorities designated in accordance with Article 3 of Directive 2014/59/EU in Article 7(6), point (e), Article 10(3), Article 63(3), point (j), Article 65(2), point (k), and Article 70(4) of Directive (EU) 2025/1 of the European Parliament and of the Council ( 3 ), shall be read as references to the Board with regard to the entities and groups referred to in Article 7(2) of this Regulation, and to the entities and groups referred to in Article 7(4), point (b), and Article 7(5) of this Regulation where the conditions for the application of those provisions are met.
+
+2\. The Board, the Council and the Commission and, where relevant, the national resolution authorities, shall take decisions subject to and in compliance with the relevant Union law and in particular any legislative and non-legislative acts, including those referred to in Articles 290 and 291 TFEU.
+
+The Board, the Council and the Commission shall be subject to binding regulatory and implementing technical standards developed by EBA and adopted by the Commission in accordance with Articles 10 to 15 of Regulation (EU) No 1093/2010 and to any guidelines and recommendations issued by EBA under Article 16 of that Regulation. They shall make every effort to comply with any guidelines and recommendations of EBA which relate to tasks of a kind to be performed by those bodies. Where they do not comply or do not intend to comply with such guidelines or recommendations EBA shall be informed thereof in accordance with Article 16(3) of that Regulation. The Board, the Council and the Commission shall cooperate with EBA in the application of Articles 25 and 30 of that Regulation. The Board shall also be subject to any decisions of EBA in accordance with Article 19 of Regulation (EU) No 1093/2010 where Directive 2014/59/EU provides for such decisions.
+
+###### Article 6 — General principles
+
+1\. No action, proposal or policy of the Board, the Council, the Commission or a national resolution authority shall discriminate against entities, deposit holders, investors or other creditors established in the Union on grounds of their nationality or place of business.
+
+2\. Every action, proposal or policy of the Board, the Council, the Commission, or of a national resolution authority in the framework of the SRM shall be undertaken with full regard and duty of care for the unity and integrity of the internal market.
+
+3\. When making decisions or taking action which may have an impact in more than one Member State, and in particular when taking decisions concerning groups established in two or more Member States, due consideration shall be given to the resolution objectives referred to in Article 14 and all of the following factors:
+
+(a) the interests of the Member States where a group operates and in particular the impact of any decision or action or inaction on the financial stability, fiscal resources, the economy, the financing arrangements, the deposit guarantee scheme or the investor compensation scheme of any of those Member States and on the Fund;
+
+(b) the objective of balancing the interests of the various Member States involved and of avoiding unfairly prejudicing or unfairly protecting the interests of a Member State;
+
+(c) the need to minimise a negative impact for any part of a group of which an entity referred to in Article 2, which is subject to a resolution, is a member.
+
+4\. When making decisions or taking actions, in particular regarding entities or groups established both in a participating Member State and in a non-participating Member State, possible negative effects on non-participating Member States, including on entities established in those Member States, shall be taken into consideration.
+
+5\. The Board, the Council and the Commission shall balance the factors referred to in paragraph 3 with the resolution objectives referred to in Article 14 as appropriate to the nature and circumstances of each case and shall comply with the decisions made by the Commission under Article 107 TFEU and Article 19 of this Regulation.
+
+6\. Decisions or actions of the Board, the Council or the Commission shall neither require Member States to provide extraordinary public financial support nor impinge on the budgetary sovereignty and fiscal responsibilities of the Member States.
+
+7\. Where the Board takes a decision that is addressed to a national resolution authority, the national resolution authority shall have the right to specify further the measures to be taken. Such specifications shall comply with the decision of the Board in question.
+
+###### Article 7 — Division of tasks within the SRM
+
+1\. The Board shall be responsible for the effective and consistent functioning of the SRM.
+
+2\. Subject to the provisions referred to in Article 31(1), the Board shall be responsible for drawing up the resolution plans and adopting all decisions relating to resolution for:
+
+(a) the entities referred to in Article 2 that are not part of a group and for groups:
+
+(i) which are considered to be significant in accordance with Article 6(4) of Regulation (EU) No 1024/2013; or
+
+(ii) in relation to which the ECB has decided in accordance with Article 6(5)(b) of Regulation (EU) No 1024/2013 to exercise directly all of the relevant powers; and
+
+(b) other cross-border groups.
+
+3\. In relation to entities and groups other than those referred to in paragraph 2, without prejudice to the responsibilities of the Board for the tasks conferred on it by this Regulation, the national resolution authorities shall perform, and be responsible for, the following tasks:
+
+(a) adopting resolution plans and carrying out an assessment of resolvability in accordance with Articles 8 and 10 and with the procedure laid down in Article 9;
+
+(b) adopting measures during early intervention in accordance with Article 13(3);
+
+(c) applying simplified obligations or waiving the obligation to draft a resolution plan, in accordance with Article 11;
+
+(d) setting the level of minimum requirement for own funds and eligible liabilities, in accordance with Articles 12 to 12k;
+
+(e) adopting resolution decisions and applying resolution tools referred to in this Regulation, in accordance with the relevant procedures and safeguards, provided that the resolution action does not require any use of the Fund and is financed exclusively by the tools referred to in Articles 21 and 24 to 27 and/or by the deposit guarantee scheme, in accordance with Article 79, and with the procedure laid down in Article 31;
+
+(f) writing down or converting relevant capital instruments pursuant to Article 21, in accordance with the procedure laid down in Article 31.
+
+If the resolution action requires the use of the Fund, the Board shall adopt the resolution scheme.
+
+When adopting a resolution decision, the national resolution authorities shall take into account and follow the resolution plan as referred to in Article 9, unless they assess, taking into account the circumstances of the case, that the resolution objectives will be achieved more effectively by taking actions which are not provided for in the resolution plan.
+
+When performing the tasks referred to in this paragraph, the national resolution authorities shall apply the relevant provisions of this Regulation. Any references to the Board in Article 5(2), Article 6(5), Article 8(6), (8), (10), third subparagraph, (11a), (12) and (13), Article 10(1) to (10), Article 10a, Articles 11 to 14, Article 15(1), (2) and (3), Article 16, Article 18(1), (1a), (2), (5) and (6), Article 20, Article 21(1) to (7), Article 21(8), second subparagraph, Article 21(9) and (10), Article 22(1), (3), (5) and (6), Articles 23 and 24, Article 25(3), Article 27(1) to (15), Article 27(16), second subparagraph, second sentence, third subparagraph, and fourth subparagraph, first, third and fourth sentences, Article 30(2b) and (2c), Article 30a(1) and (2), Article 32 and Article 79(1), (2), (7) and (8), shall be read as references to the national resolution authorities with regard to groups and entities referred to in the first subparagraph of this paragraph. For that purpose the national resolution authorities shall exercise the powers conferred on them under national law transposing Directive 2014/59/EU in accordance with the conditions laid down in national law.
+
+The national resolution authorities shall inform the Board of the measures referred to in this paragraph that are to be taken and shall closely coordinate with the Board when taking those measures.
+
+The national resolution authorities shall submit to the Board the resolution plans referred to in Article 9, as well as any updates, accompanied by a reasoned assessment of the resolvability of the entity or group concerned in accordance with Article 10.
+
+4\. Where necessary to ensure the consistent application of high resolution standards under this Regulation, the Board may:
+
+(a) further to the notification by a national resolution authority of a measure under paragraph 3 of this Article pursuant to Article 31(1), within the appropriate timeframe having regard to the urgency of the circumstances, issue a warning to the relevant national resolution authority where the Board considers that the draft decision with regard to any entity or group referred to in paragraph 3 of this Article does not comply with this Regulation or with its general instructions referred to in Article 31(1)(a);
+
+(b) at any time decide, in particular if its warning referred to in point (a) is not being appropriately addressed, on its own initiative, after consulting the national resolution authority concerned, or upon request from the national resolution authority concerned, to exercise directly all of the relevant powers under this Regulation also with regard to any entity or group referred to in paragraph 3 of this Article.
+
+5\. Notwithstanding paragraph 3 of this Article, participating Member States may decide that the Board exercise all of the relevant powers and responsibilities conferred on it by this Regulation in relation to entities and groups established in their territory, other than those referred to in paragraph 2 of this Article. If so, paragraphs 3 and 4 of this Article, Article 9, Article 12(3), and Article 31(1) shall not apply. Member States that intend to make use of that option shall notify the Board and the Commission thereof. The notification shall take effect from the day of its publication in the Official Journal of the European Union.
+
+After the notification referred to in the first subparagraph of this paragraph has taken effect, participating Member States may decide that the responsibility for performing the tasks in relation to entities and groups established in their territory, other than those referred to in paragraph 2, shall be returned to the national resolution authorities, in which case the first subparagraph of this paragraph shall no longer apply. Member States that intend to make use of that option shall notify the Board and the Commission thereof. That notification shall take effect from the day of its publication in the Official Journal of the European Union.
+
+## PART II — SPECIFIC PROVISIONS
+
+### TITLE I — FUNCTIONS WITHIN THE SRM AND PROCEDURAL RULES
+
+#### CHAPTER 1 — Resolution planning
+
+###### Article 8 — Resolution plans drawn up by the Board
+
+1\. The Board shall draw up and adopt resolution plans for the entities and groups referred to in Article 7(2), and for the entities and groups referred to in Article 7(4)(b) and (5) where the conditions for the application of those paragraphs are met.
+
+2\. The Board shall draw up the resolution plans, after consulting the ECB or the relevant national competent authorities and the national resolution authorities, including the group-level resolution authority, of the participating Member States in which the entities are established, and the resolution authorities of non-participating Member States in which significant branches are located insofar as relevant to the significant branch. To that end, the Board may require the national resolution authorities to prepare and submit to the Board draft resolution plans and the group-level resolution authority to prepare and submit to the Board a draft group resolution plan.
+
+The Board may instruct the national resolution authorities to exercise the powers referred to in Article 10(8) of Directive 2014/59/EU. The national resolution authorities shall implement the instructions of the Board in accordance with Article 29 of this Regulation.
+
+3\. In order to ensure effective and consistent application of this Article, the Board shall issue guidelines and address instructions to the national resolution authorities for the preparation of draft resolution plans and draft group resolution plans relating to specific entities or groups.
+
+4\. For the purposes of paragraph 1 of this Article, the national resolution authorities shall submit to the Board all information necessary to draw up and implement the resolution plans, as obtained by them in accordance with Article 11 and Article 13(1) of Directive 2014/59/EU, without prejudice to Chapter 5 of this Title.
+
+5\. The resolution plan shall set out options for applying the resolution tools and exercising resolution powers referred to in this Regulation to the entities referred to in paragraph 1.
+
+6\. The resolution plan shall provide for the resolution actions which the Board may take where an entity referred to in paragraph 1 meets the conditions for resolution.
+
+The information referred to in point (a) of paragraph 9 shall be disclosed to the entity concerned.
+
+When drawing up and updating the resolution plan, the Board shall identify any material impediments to resolvability and, where necessary and proportionate, outline relevant actions for how those impediments could be addressed, in accordance with Article 10.
+
+The resolution plan shall take into consideration relevant scenarios including that the event of failure may be idiosyncratic or may occur at a time of broader financial instability or system wide events.
+
+The resolution plan shall not assume any of the following:
+
+(a) any extraordinary public financial support besides the use of the Fund established in accordance with Article 67;
+
+(b) any central bank emergency liquidity assistance; or
+
+(c) any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms.
+
+7\. The resolution plan shall include an analysis of how and when an institution may apply, in the conditions addressed by the plan, for the use of central bank facilities and shall identify those assets which would be expected to qualify as collateral.
+
+8\. The Board may require institutions to assist it in the drawing up and updating of the plans.
+
+9\. The resolution plan for each entity shall include, quantified where appropriate and possible:
+
+(a) a summary of the key elements of the plan;
+
+(b) a summary of the material changes to the institution that have occurred after the latest resolution information was filed;
+
+(c) a demonstration of how critical functions and core business lines could be legally and economically separated, to the extent necessary, from other functions so as to ensure continuity upon the failure of the institution;
+
+(d) an estimation of the timeframe for executing each material aspect of the plan;
+
+(e) a detailed description of the assessment of resolvability carried out in accordance with Article 10;
+
+(f) a description of any measures required pursuant to Article 10(7) to address or remove impediments to resolvability identified as a result of the assessment carried out in accordance with Article 10;
+
+(g) a description of the processes for determining the value and marketability of the critical functions, core business lines and assets of the institution;
+
+(h) a detailed description of the arrangements for ensuring that the information required pursuant to Article 11 of Directive 2014/59/EU is up to date and at the disposal of the resolution authorities at all times;
+
+(i) an explanation as to how the resolution options could be financed without the assumption of any of the following:
+
+(i) any extraordinary public financial support besides the use of the Fund established in accordance with Article 67;
+
+(ii) any central bank emergency liquidity assistance; or
+
+(iii) any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms;
+
+(j) a detailed description of the different resolution strategies that could be applied according to the different possible scenarios and the applicable timescales;
+
+(k) a description of critical interdependencies;
+
+(l) a description of options for preserving access to payments and clearing services and other infrastructures and an assessment of the portability of client positions;
+
+(m) an analysis of the impact of the plan on the employees of the institution, including an assessment of any associated costs, and a description of envisaged procedures to consult staff during the resolution process, taking into account national systems for dialogue with social partners, where applicable;
+
+(n) a plan for communicating with the media and the public;
+
+(o) the requirements referred to in Article 12f and 12g and a deadline to reach that level, in accordance with Article 12k;
+
+(p) where the Board applies Article 12c(4), (5), or (7), a timeline for compliance by the resolution entity in accordance with Article 12k;
+
+(q) a description of essential operations and systems for maintaining the continuous functioning of the institution's operational processes;
+
+(r) where applicable, any opinion expressed by the institution in relation to the resolution plan.
+
+10\. Group resolution plans shall include a plan for the resolution of the group referred to in paragraph 1, headed by the Union parent undertaking established in a participating Member State, and shall identify measures to be taken in respect of:
+
+(a) the Union parent undertaking;
+
+(b) the subsidiaries that are part of the group and that are established in the Union;
+
+(c) the entities referred to in point (b) of Article 2; and
+
+(d) subject to Article 33, the subsidiaries that are part of the group and that are established outside the Union.
+
+In accordance with the measures referred to in the first subparagraph, the resolution plan shall identify for each group the resolution entities and the resolution groups.
+
+11\. The group resolution plan shall:
+
+(a) set out the resolution actions that are to be taken for resolution entities in the scenarios referred to in paragraph 6 and the implications of those resolution actions in respect of other group entities, the parent undertaking and subsidiary institutions referred to in paragraph 1;
+
+(aa) where a group referred to in paragraph 1 comprises more than one resolution group, set out the resolution actions that are to be taken for the resolution entities of each resolution group and the implications of those actions on both of the following:
+
+(i) other group entities that belong to the same resolution group;
+
+(ii) other resolution groups;
+
+(b) examine the extent to which the resolution tools could be applied, and the resolution powers exercised, with respect to resolution entities established in the Union in a coordinated manner, including measures to facilitate the purchase by a third party of the group as a whole, of separate business lines or activities that are provided by a number of group entities, or of particular group entities or resolution groups, and identify any potential impediments to a coordinated resolution;
+
+(c) include a detailed description of the assessment of resolvability carried out in accordance with Article 10;
+
+(d) where a group includes entities incorporated in third countries, identify appropriate arrangements for cooperation and coordination with the relevant authorities of those third countries and the implications for resolution within the Union;
+
+(e) identify measures, including the legal and economic separation of particular functions or business lines, that are necessary to facilitate group resolution where the conditions for resolution are met;
+
+(f) identify how the group resolution actions could be financed and, where the Fund and the financing arrangements from non-participating Member States established in accordance with Article 100 of Directive 2014/59/EU would be required, set out principles for sharing responsibility for that financing between sources of funding in different participating and non-participating Member States. The plan shall not assume any of the following:
+
+(i) any extraordinary public financial support besides the use of the Fund established in accordance with Article 67 of this Regulation and the financing arrangements from non-participating Member States established in accordance with Article 100 of Directive 2014/59/EU;
+
+(ii) any central bank emergency liquidity assistance; or
+
+(iii) any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms.
+
+Those principles shall be set out on the basis of equitable and balanced criteria and shall take into account in particular Article 107(5) of Directive 2014/59/EU and the impact on financial stability in all Member States concerned.
+
+The group resolution plan shall not have a disproportionate impact on any Member State.
+
+12\. The Board shall determine the date by which the first resolution plans shall be drawn up. Resolution plans and group resolution plans shall be reviewed, and where appropriate updated, at least annually and after any material changes to the legal or organisational structure or to the business or the financial position of the entity or, in the case of group resolution plans, of the group including any group entity that could have a material effect on the effectiveness of the plan or that otherwise necessitates a revision of the resolution plan.
+
+For the purpose of the revision or update of the resolution plans referred to in the first subparagraph, the institutions, the ECB or the national competent authorities shall promptly communicate to the Board any change that necessitates such revision or update.
+
+The review referred to in the first subparagraph of this paragraph shall be carried out after the implementation of resolution actions or the exercise of powers referred to in Article 21.
+
+When setting the deadlines referred to in points (o) and (p) of paragraph 9 of this Article, in the circumstances referred to in the third subparagraph of this paragraph, the Board shall take into account the deadline for complying with the requirement referred to in Article 104b of Directive 2013/36/EU.
+
+13\. The Board shall transmit the resolution plans and any changes thereto to the ECB or to the relevant national competent authorities.
+
+###### Article 9 — Resolution plans drawn up by national resolution authorities
+
+1\. The national resolution authorities shall draw up and adopt resolution plans for the entities and for the groups, other than those referred to in Article 7(2), (4)(b) and (5), in accordance with Article 8(5) to (13).
+
+2\. The national resolution authorities shall prepare resolution plans, after consulting the relevant national competent authorities and the national resolution authorities of the participating and non-participating Member States, in which significant branches are located, insofar as relevant to the significant branch.
+
+###### Article 10 — Assessment of resolvability
+
+1\. When drafting and updating resolution plans in accordance with Article 8, the Board, after consulting the competent authorities, including the ECB, and the resolution authorities of non-participating Member States in which significant branches are located insofar as relevant to the significant branch, shall conduct an assessment of the extent to which institutions and groups are resolvable without the assumption of any of the following:
+
+(a) any extraordinary public financial support besides the use of the Fund established in accordance with Article 67;
+
+(b) any central bank emergency liquidity assistance; or
+
+(c) any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms.
+
+2\. The ECB or the relevant national competent authority shall provide the Board with a recovery plan or group recovery plan. The Board shall examine the recovery plan with a view to identifying any actions in the recovery plan which may adversely impact the resolvability of the institution or group and make recommendations to the ECB or the national competent authority on those matters.
+
+3\. When drafting a resolution plan, the Board shall assess the extent to which such an entity is resolvable in accordance with this Regulation. An entity shall be deemed to be resolvable if it is feasible and credible for the Board to either liquidate it under normal insolvency proceedings or to resolve it by applying to it resolution tools and exercising resolution powers while avoiding, to the maximum extent possible, any significant adverse consequences for financial systems, including circumstances of broader financial instability or system wide events, of the Member State in which the entity is situated, or other Member States, or the Union and with a view to ensuring the continuity of critical functions carried out by the entity.
+
+The Board shall notify EBA in a timely manner where an institution is deemed not to be resolvable.
+
+4\. A group shall be deemed to be resolvable if it is feasible and credible for the Board either to wind up group entities under normal insolvency proceedings or to resolve them by applying resolution tools to, and exercising resolution powers with respect to, resolution entities of that group while avoiding, to the maximum extent possible, any significant adverse consequences for the financial systems of the Member States in which group entities are located or of other Member States or the Union, including broader financial instability or system wide events, with a view to ensuring the continuity of critical functions carried out by those group entities, where they can be easily separated in a timely manner, or by other means.
+
+The Board shall notify EBA in a timely manner where a group is deemed not to be resolvable.
+
+Where a group is composed of more than one resolution group, the Board shall assess the resolvability of each resolution group in accordance with this Article.
+
+The assessment referred to in the third subparagraph shall be performed in addition to the assessment of the resolvability of the entire group.
+
+5\. For the purposes of paragraphs 3, 4 and 10, significant adverse consequences for the financial system or threat to financial stability refers to a situation where the financial system is actually or potentially exposed to a disruption that may give rise to financial distress liable to jeopardise the orderly functioning, efficiency and integrity of the internal market or the economy or the financial system of one or more Member States. In determining the significant adverse consequences the Board shall take into account the relevant warnings and recommendations of the ESRB and the relevant criteria developed by EBA in considering the identification and measurement of systemic risk.
+
+6\. For the purpose of the assessment referred to in this Article, the Board shall examine the matters specified in Section C of the Annex to Directive 2014/59/EU.
+
+7\. If, pursuant to an assessment of the resolvability of an entity or a group carried out in accordance with paragraph 3 or 4, the Board, after consulting the competent authorities, including the ECB, determines that there are substantive impediments to the resolvability of that entity or group, the Board shall prepare a report, in cooperation with the competent authorities, addressed to the entity or the parent undertaking analysing the substantive impediments to the effective application of resolution tools and the exercise of resolution powers. That report shall consider the impact on the entity’s or the group’s business model and recommend any proportionate and targeted measures that, in the Board’s view, are necessary or appropriate to remove those impediments in accordance with paragraph 10.
+
+8\. The report shall also be notified to the competent authorities and to the resolution authorities of non-participating Member States in which significant branches of institutions which are not part of a group are located. It shall be supported by reasons for the assessment or determination in question and shall indicate how that assessment or determination complies with the requirement for proportionate application laid down in Article 6.
+
+9\. Within four months from the date of receipt of the report, the entity or the parent undertaking shall propose to the Board possible measures to address or remove the substantive impediments identified in the report. The Board shall communicate any measure proposed by the entity or parent undertaking to the competent authorities, to EBA and, where significant branches of institutions that are not part of a group are located in non-participating Member States, to the resolution authorities of those Member States.
+
+Within two weeks of the date of receipt of a report made in accordance with paragraph 7 of this Article, the entity shall propose to the Board possible measures and a timeline for their implementation to ensure that the entity or the parent undertaking complies with Article 12f or 12g, and the combined buffer requirement, where a substantive impediment to resolvability is due to either of the following situations:
+
+(i) the entity meets the combined buffer requirement when considered in addition to each of the requirements referred to in points (a), (b) and (c) of Article 141a(1) of Directive 2013/36/EU, but does not meet the combined buffer requirement when considered in addition to the requirements referred to in Articles 12d and 12e of this Regulation when calculated in accordance with point (a) of Article 12a(2) of this Regulation; or
+
+(ii) the entity does not meet the requirements referred to in Articles 92a and 494 of Regulation (EU) No 575/2013 or the requirements referred to in Articles 12d and 12e of this Regulation.
+
+When proposing the timeline for the implementation of measures referred to in the second subparagraph, the entity shall take into account the reasons for the substantive impediment. The Board, after consulting the competent authorities, including the ECB, shall assess whether those measures effectively address or remove the substantive impediment in question.
+
+10\. Where the Board finds that the measures proposed by the entity or the parent undertaking concerned do not effectively reduce or remove the substantive impediments to resolvability, the Board, after having consulted the competent authorities and, where appropriate, the designated macro-prudential authority, shall take a decision. That decision shall indicate that the Board has assessed that the measures proposed do not effectively reduce or remove the substantive impediments to resolvability and shall instruct the national resolution authorities to require the entity, the parent undertaking, or any subsidiary of the group concerned to take any of the measures listed in paragraph 11.
+
+In identifying alternative measures, the Board shall demonstrate how the measures proposed by the entity or the parent undertaking concerned would not be able to remove the substantive impediments to resolvability and how the alternative measures proposed are proportionate in removing them. The Board shall take into account the threat to financial stability of those impediments to resolvability and the effect of the measures on the business of the entity or the parent undertaking concerned, its stability and its ability to contribute to the economy, on the internal market for financial services and on the financial stability in other Member States and the Union as a whole.
+
+The Board shall also take into account the need to avoid any impact on the entity or the group concerned which would go beyond what is necessary to remove the impediment to resolvability or which would be disproportionate.
+
+11\. For the purpose of paragraph 10, the Board, where applicable, shall instruct the national resolution authorities to take any of the following measures:
+
+(a) to require the entity to revise any intragroup financing agreements or review the absence thereof, or draw up service agreements (whether intra-group or with third parties) to cover the provision of critical functions;
+
+(b) to require the entity to limit its maximum individual and aggregate exposures;
+
+(c) to impose specific or regular additional information requirements relevant for resolution purposes;
+
+(d) to require the entity to divest specific assets;
+
+(e) to require the entity to limit or cease specific existing or proposed activities;
+
+(f) to restrict or prevent the development of new or existing business lines or sale of new or existing products;
+
+(g) to require changes to legal or operational structures of the entity or any group entity, either directly or indirectly under their control, so as to reduce complexity in order to ensure that critical functions may be legally and operationally separated from other functions through the application of the resolution tools;
+
+(h) to require an entity to set up a parent financial holding company in a Member State or a Union parent financial holding company;
+
+(i) to require an entity to issue eligible liabilities to meet the requirements of Articles 12f and 12g  ;
+
+(j) to require an entity to take other steps to meet the requirements referred to in Articles 12f and 12g  , including in particular to attempt to renegotiate any eligible liability, Additional Tier 1 instrument or Tier 2 instrument it has issued, with a view to ensuring that any decision of the Board to write down or convert that liability or instrument would be effected under the law of the jurisdiction governing that liability or instrument.
+
+(k) to require an entity to submit a plan to restore compliance with the requirements of Articles 12f and 12g of this Regulation, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 and, where applicable, with the combined buffer requirement and with the requirements of Article 12f or 12g of this Regulation expressed as a percentage of the total exposure measure referred to in Articles 429 and 429a of Regulation (EU) No 575/2013;
+
+(l) for the purpose of ensuring ongoing compliance with Article 12f or 12g, to require an entity to change the maturity profile of:
+
+(i) own funds instruments, after having obtained the agreement of the competent authorities, including the ECB, and
+
+(ii) eligible liabilities referred to in Article 12c and point (a) of Article 12g(2).
+
+Where applicable, the national resolution authorities shall directly take the measures referred to in points (a) to (j) of the first subparagraph.
+
+12\. The national resolution authorities shall implement the instructions of the Board in accordance with Article 29.
+
+13\. A decision made pursuant to paragraphs 10 and 11 shall meet the following requirements:
+
+(a) it shall be supported by reasons for the assessment or determination in question;
+
+(b) it shall indicate how that assessment or determination complies with the requirement for proportionate application laid down in paragraph 10.
+
+###### Article 10a — Power to prohibit certain distributions
+
+1\. Where an entity is in a situation where it meets the combined buffer requirement when considered in addition to each of the requirements referred to in Article 141a(1), points (a), (b) and (c), of Directive 2013/36/EU, but fails to meet the combined buffer requirement when considered in addition to the requirements referred to in Articles 12d and 12e of this Regulation when calculated in accordance with Article 12a(2), point (a), of this Regulation, the Board shall have the power, in accordance with paragraphs 2 and 3 of this Article, to instruct the national resolution authority to prohibit an entity from distributing more than the Maximum Distributable Amount related to the minimum requirement for own funds and eligible liabilities (‘M-MDA’), calculated in accordance with paragraph 4 of this Article, through any of the following actions:
+
+(a) make a distribution in connection with Common Equity Tier 1 capital;
+
+(b) create an obligation to pay variable remuneration or discretionary pension benefits, or to pay variable remuneration if the obligation to pay was created at a time when the entity failed to meet the combined buffer requirement; or
+
+(c) make payments on Additional Tier 1 instruments.
+
+Where an entity is in the situation referred to in the first subparagraph, it shall immediately notify the national resolution authority and the Board thereof.
+
+2\. In the situation referred to in paragraph 1, the Board, after consulting the competent authorities, including the ECB, where applicable, shall without unnecessary delay assess whether to exercise the power referred to in paragraph 1, taking into account all of the following elements:
+
+(a) the reason, duration and magnitude of the failure and its impact on resolvability;
+
+(b) the development of the entity's financial situation and the likelihood of it fulfilling, in the foreseeable future, the condition referred to in point (a) of Article 18(1);
+
+(c) the prospect that the entity will be able to ensure compliance with the requirements referred to in paragraph 1 within a reasonable timeframe;
+
+(d) where the entity is unable to replace liabilities that no longer meet the eligibility or maturity criteria laid down in Articles 72b and 72c of Regulation (EU) No 575/2013, Article 12c or Article 12g(2) of this Regulation, if that inability is idiosyncratic or is due to market-wide disturbance;
+
+(e) whether the exercise of the power referred to in paragraph 1 is the most adequate and proportionate means of addressing the situation of the entity, taking into account its potential impact on both the financing conditions and resolvability of the entity concerned.
+
+The Board shall repeat its assessment of whether to exercise the power referred to in paragraph 1 at least every month for as long as the entity continues to be in the situation referred to in paragraph 1.
+
+3\. If the Board finds that the entity is still in the situation referred to in paragraph 1 nine months after such situation has been notified by the entity, the Board, after consulting the competent authorities, including the ECB, where applicable, shall exercise the power referred to in paragraph 1, except where the Board finds, following an assessment, that at least two of the following conditions are fulfilled:
+
+(a) the failure is due to a serious disturbance to the functioning of financial markets which leads to broad-based financial market stress across several segments of financial markets;
+
+(b) the disturbance referred to in point (a) not only results in the increased price volatility of the own funds instruments and eligible liabilities instruments of the entity or increased costs for the entity, but also leads to a full or partial closure of markets which prevents the entity from issuing own funds instruments and eligible liabilities instruments on those markets;
+
+(c) the market closure referred to in point (b) is observed not only for the concerned entity, but also for several other entities;
+
+(d) the disturbance referred to in point (a) prevents the concerned entity from issuing own funds instruments and eligible liabilities instruments sufficient to remedy the failure; or
+
+(e) an exercise of the power referred to in paragraph 1 leads to negative spill-over effects for part of the banking sector, thereby potentially undermining financial stability.
+
+Where the exception referred to in the first subparagraph applies, the Board shall notify the competent authorities, including the ECB, where applicable, of its decision and shall explain its assessment in writing.
+
+Every month, the Board shall repeat its assessment of whether the exception referred to in the first subparagraph applies.
+
+4\. The M-MDA shall be calculated by multiplying the sum calculated in accordance with paragraph 5 by the factor determined in accordance with paragraph 6. The M-MDA shall be reduced by any amount resulting from any of the actions referred to in points (a), (b) or (c) of paragraph 1.
+
+5\. The sum to be multiplied in accordance with paragraph 4 shall consist of:
+
+(a) any interim profits not included in Common Equity Tier 1 capital pursuant to Article 26(2) of Regulation (EU) No 575/2013, net of any distribution of profits or any payment resulting from the actions referred to in points (a), (b) or (c) of paragraph 1 of this Article;
+
+plus
+
+(b) any year-end profits not included in Common Equity Tier 1 capital pursuant to Article 26(2) of Regulation (EU) No 575/2013, net of any distribution of profits or any payment resulting from the actions referred to in points (a), (b) or (c) of paragraph 1 of this Article;
+
+minus
+
+(c) amounts which would be payable by tax if the items specified in points (a) and (b) of this paragraph were to be retained.
+
+6\. The factor referred to in paragraph 4 shall be determined as follows:
+
+(a) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet any of the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 12d and 12e of this Regulation, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the first (that is, the lowest) quartile of the combined buffer requirement, the factor shall be 0;
+
+(b) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet any of the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 12d and 12e of this Regulation, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the second quartile of the combined buffer requirement, the factor shall be 0,2;
+
+(c) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 12d and 12e of this Regulation, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the third quartile of the combined buffer requirement, the factor shall be 0,4;
+
+(d) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 12d and 12e of this Regulation, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the fourth (that is, the highest) quartile of the combined buffer requirement, the factor shall be 0,6;
+
+The lower and upper bounds of each quartile of the combined buffer requirement shall be calculated as follows:
+
+[image]
+
+[image]
+
+where ‘Qn ’ = the ordinal number of the quartile concerned.
+
+###### Article 11 — Simplified obligations for certain institutions
+
+1\. The Board, on its own initiative after consulting a national resolution authority or upon proposal by a national resolution authority, may apply simplified obligations in relation to the drafting of resolution plans referred to in Article 8 or may waive the obligation of drafting those plans in accordance with paragraphs 3 to 9 of this Article.
+
+2\. National resolution authorities may propose to the Board to apply simplified obligations to institutions or groups pursuant to paragraphs 3 and 4 or to waive the obligation of drafting resolution plans pursuant to paragraph 7. That proposal shall be reasoned and shall be supported by all of the relevant documentation.
+
+3\. On receiving a proposal to apply simplified obligations pursuant to paragraph 2 of this Article, or when acting on its own initiative, the Board shall conduct an assessment of the institution or group concerned and shall apply simplified obligations, if the failure of the institution or group is not likely to have significant adverse consequences for the financial system or be a threat to financial stability within the meaning of Article 10(5).
+
+For those purposes, the Board shall take into account:
+
+(a) the nature of the institution's or group's business, its shareholding structure, its legal form, its risk profile, size and legal status, its interconnectedness to other institutions or to the financial system in general, the scope and complexity of its activities;
+
+(b) its membership of an IPS or other cooperative mutual solidarity systems as referred to in Article 113(7) of Regulation (EU) No 575/2013;
+
+(c) any exercise of investment services or activities as defined in Article 4(1)(2) of Directive 2014/65/EU of the European Parliament and of the Council ( 4 ); and
+
+(d) whether its failure and subsequent winding up under normal insolvency proceedings would be likely to have a significant negative effect on financial markets, on other institutions, on funding conditions, or on the wider economy.
+
+The Board shall make the assessment referred to in the first subparagraph after consulting, where appropriate, the national macroprudential authority and, where appropriate, the ESRB.
+
+4\. When applying simplified obligations, the Board shall determine:
+
+(a) the contents and details of resolution plans provided for in Article 8;
+
+(b) the date by which the first resolution plans are to be drawn up and the frequency for updating resolution plans which may be lower than that provided for in Article 8(12);
+
+(c) the contents and details of the information required from institutions as provided for in Article 8(9) of this Regulation and in Section B of the Annex to Directive 2014/59/EU;
+
+(d) the level of detail for the assessment of resolvability provided for in Article 10 of this Regulation, and in Section C of the Annex to Directive 2014/59/EU.
+
+5\. The application of simplified obligations shall not in itself affect the Board's power to take any resolution action.
+
+6\. Where simplified obligations are applied, the Board shall impose full, unsimplified obligations at any time if any of the circumstances that justified them no longer exist.
+
+7\. Without prejudice to Articles 9 and 31, on receiving a proposal to waive the obligation of drafting resolution plans pursuant to paragraph 2 of this Article, or when acting on its own initiative, the Board shall, pursuant to paragraph 3 of this Article, waive the application of the obligation of drafting resolution plans to institutions affiliated to a central body and wholly or partially exempt from prudential requirements in national law in accordance with Article 10 of Regulation (EU) No 575/2013.
+
+Where a waiver is granted in accordance with the first subparagraph, the obligation of drafting the resolution plan shall apply on a consolidated basis to the central body and institutions affiliated to it within the meaning of Article 10 of Regulation (EU) No 575/2013. For that purpose, any reference in this Chapter to a group shall include a central body and institutions affiliated to it within the meaning of Article 10 of Regulation (EU) No 575/2013 and their subsidiaries, and any reference to parent undertakings or institutions that are subject to consolidated supervision pursuant to Article 111 of Directive 2013/36/EU shall include the central body.
+
+8\. Institutions that are subject to direct supervision by the ECB pursuant to Article 6(4) of Regulation (EU) No 1024/2013 or that constitute a significant share in the financial system of a participating Member State shall be the subject of individual resolution plans.
+
+For the purposes of this paragraph, the operations of an institution shall be considered to constitute a significant share of that participating Member State's financial system where:
+
+(a) the total value of its assets exceeds EUR 30 000 000 000 ; or
+
+(b) the ratio of its total assets over the GDP of the Member State of establishment exceeds 20 %, unless the total value of its assets is below EUR 5 000 000 000 .
+
+9\. Where the national resolution authority which has proposed the application of simplified obligations or the grant of a waiver in accordance with paragraph 2 considers that the decision to apply simplified obligations or to grant the waiver must be withdrawn, it shall submit a proposal to the Board to that end. In that case, the Board shall take a decision on the proposed withdrawal taking full account of the justification for withdrawal put forward by the national resolution authority in the light of the factors or circumstances referred to in paragraph 3 or in paragraphs 7 and 8.
+
+10\. The Board shall inform EBA of its application of this Article.
+
+###### Article 12 — Minimum requirement for own funds and eligible liabilities
+
+1\. The Board, after consulting the competent authorities, including the ECB, shall determine the requirements for own funds and eligible liabilities as referred to in Articles 12a to 12i, subject to write-down and conversion powers, which are to be met at all times by the entities and groups referred to in Article 7(2) and by the entities and groups referred to in point (b) of Article 7(4) and in Article 7(5) when the conditions for the application of these paragraphs are met.
+
+2\. Entities that are referred to in paragraph 1, including entities that are part of groups, shall report the information in accordance with Article 45i(1), (2) and (4) of Directive 2014/59/EU to the national resolution authority of the participating Member State in which they are established.
+
+The national resolution authority shall transmit the information referred to in the first subparagraph to the Board without undue delay.
+
+3\. When drafting resolution plans in accordance with Article 9, after consulting the competent authorities, national resolution authorities shall determine the requirements for own funds and eligible liabilities, as referred to in Articles 12a to 12i, subject to write-down and conversion powers, which are to be met at all times by the entities referred to in Article 7(3). In that regard the procedure established in Article 31 shall apply.
+
+4\. The Board shall make any determination referred to in paragraph 1 of this Article in parallel with the development and maintenance of the resolution plans pursuant to Article 8.
+
+5\. The Board shall address its determination to the national resolution authorities. The national resolution authorities shall implement the instructions of the Board in accordance with Article 29. The Board shall require that the national resolution authorities verify and ensure that entities and groups maintain the requirements for own funds and eligible liabilities laid down in paragraph 1 of this Article.
+
+6\. The Board shall inform the ECB and EBA of the requirements for own funds and eligible liabilities that it has determined for each entity and group under paragraph 1.
+
+7\. In order to ensure the effective and consistent application of this Article, the Board shall issue guidelines, and address instructions, to national resolution authorities relating to specific entities or groups.
+
+8\. The Board shall be responsible for granting the permissions referred to in Article 77(2) and Article 78a of Regulation (EU) No 575/2013 to the entities referred to in paragraph 1 of this Article. The Board shall address a decision to the entity concerned.
+
+###### Article 12a — Application and calculation of the minimum requirement for own funds and eligible liabilities
+
+1\. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.
+
+2\. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:
+
+(a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+
+(b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
+
+3\. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the Council ( 5 ), references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as follows:
+
+(a) references to point (c) of Article 92(1) of Regulation (EU) No 575/2013 as regards the total capital ratio requirement in this Regulation shall refer to Article 11(1) of Regulation (EU) 2019/2033;
+
+(b) references to Article 92(3) of Regulation (EU) No 575/2013 as regards the total risk exposure amount in this Regulation shall refer to the applicable requirement in Article 11(1) of Regulation (EU) 2019/2033, multiplied by 12,5.
+
+In accordance with Article 65 of Directive (EU) 2019/2034 of the European Parliament and of the Council ( 6 ), references to Article 104a of Directive 2013/36/EU in this Regulation as regards additional own funds requirements of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as referring to Article 40 of Directive (EU) 2019/2034.
+
+###### Article 12b — Exemption from the minimum requirement for own funds and eligible liabilities
+
+1\. Notwithstanding Article 12a, the Board shall exempt from the requirement laid down in Article 12a(1) mortgage credit institutions financed by covered bonds which are not allowed to receive deposits under national law, provided that all of the following conditions are met:
+
+(a) those institutions will be wound up in national insolvency proceeding or in other types of proceedings laid down for those institutions and implemented in accordance with Article 38, 40 or 42 of Directive 2014/59/EU; and
+
+(b) the proceedings referred to in point (a) ensure that creditors of those institutions, including holders of covered bonds, where relevant, bear losses in a way that meets the resolution objectives.
+
+2\. Institutions exempted from the requirement laid down in Article 12(1) shall not be part of the consolidation referred to in Article 12f(1).
+
+###### Article 12c — Eligible liabilities for resolution entities
+
+1\. Liabilities shall be included in the amount of own funds and eligible liabilities of resolution entities only where they satisfy the conditions referred to in the following Articles of Regulation (EU) No 575/2013:
+
+(a) Article 72a;
+
+(b) Article 72b, with the exception of point (d) of paragraph 2; and
+
+(c) Article 72c.
+
+By way of derogation from the first subparagraph of this paragraph, where this Regulation refers to the requirements in Article 92a or Article 92b of Regulation (EU) No 575/2013, for the purpose of those Articles, eligible liabilities shall consist of eligible liabilities as defined in Article 72k of that Regulation and determined in accordance with Chapter 5a of Title I of Part Two of that Regulation.
+
+2\. Liabilities that arise from debt instruments with embedded derivatives, such as structured notes, that meet the conditions of the first subparagraph of paragraph 1, except for point (l) of Article 72a(2) of Regulation (EU) No 575/2013, shall be included in the amount of own funds and eligible liabilities only where one of the following conditions is met:
+
+(a) the principal amount of the liability arising from the debt instrument is known at the time of issue, is fixed or increasing, and is not affected by an embedded derivative feature, and the total amount of the liability arising from the debt instrument, including the embedded derivative, can be valued on a daily basis by reference to an active and liquid two-way market for an equivalent instrument without credit risk, in accordance with Articles 104 and 105 of Regulation (EU) No 575/2013; or
+
+(b) the debt instrument includes a contractual term that specifies that the value of the claim in cases of the insolvency of the issuer and of the resolution of the issuer is fixed or increasing, and does not exceed the initially paid-up amount of the liability.
+
+Debt instruments referred to in the first subparagraph, including their embedded derivatives, shall not be subject to any netting agreement and the valuation of such instruments shall not be subject to Article 49(3) of Directive 2014/59/EU.
+
+The liabilities referred to in the first subparagraph shall only be included in the amount of own funds and eligible liabilities with respect to the part of the liability that corresponds to the principal amount referred to in point (a) of that subparagraph or to the fixed or increasing amount referred to in point (b) of that subparagraph.
+
+3\. Where liabilities are issued by a subsidiary established in the Union to an existing shareholder that is not part of the same resolution group, and that subsidiary is part of the same resolution group as the resolution entity, those liabilities shall be included in the amount of own funds and eligible liabilities of that resolution entity, provided that all of the following conditions are met:
+
+(a) they are issued in accordance with point (a) of Article 12g(2);
+
+(b) the exercise of the write-down or conversion power in relation to those liabilities in accordance with Article 21 does not affect the control of the subsidiary by the resolution entity;
+
+(c) those liabilities do not exceed an amount determined by subtracting:
+
+(i) the sum of the liabilities issued to and bought by the resolution entity either directly or indirectly through other entities in the same resolution group and the amount of own funds issued in accordance with point (b) of Article 12g(2) from
+
+(ii) the amount required in accordance with Article 12g(1).
+
+4\. Without prejudice to the minimum requirement in Article 12d(4) or point (a) of Article 12e(1), the Board, on its own initiative after consulting the national resolution authority or upon proposal by a national resolution authority, shall ensure that a part of the requirement referred to in Article 12f equal to 8 % of the total liabilities, including own funds, shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 12d(4) or (5) using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article. The Board may permit that a level lower than 8 % of the total liabilities, including own funds, but greater than the amount resulting from the application of the formula (1-(X1/X2)) × 8 % of the total liabilities, including own funds, shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 12d(4) or (5) using own funds, subordinated eligible instruments, or liabilities as referred in paragraph 3 of this Article, provided that all the conditions set out in Article 72b(3) of Regulation (EU) No 575/2013 are met, where, in light of the reduction that is possible under Article 72b (3) of that Regulation:
+
+X1 = 3,5 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+
+X2 = the sum of 18 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 and the amount of the combined buffer requirement.
+
+For resolution entities that are subject to Article 12d(4), where the application of the first subparagraph of this paragraph leads to a requirement greater than 27 % of the total risk exposure amount, for the resolution entity concerned, the Board shall limit the part of the requirement referred to in Article 12f which is to be met using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, to an amount equal to 27 % of the total risk exposure amount, if the Board has assessed that:
+
+(a) access to the Fund is not considered to be an option for resolving that resolution entity in the resolution plan; and
+
+(b) where point (a) does not apply, the requirement referred to in Article 12f allows that resolution entity to meet the requirement referred to in Article 27(7).
+
+In carrying out the assessment referred to in the second subparagraph, the Board shall also take into account the risk of disproportionate impact on the business model of the resolution entity concerned.
+
+For resolution entities that are subject to Article 12d(5), the second subparagraph of this paragraph does not apply.
+
+5\. For resolution entities that are neither G-SIIs nor resolution entities that are subject to Article 12d(4) or (5), the Board, either on its own initiative after consulting the national resolution authority or on a proposal by a national resolution authority, may decide that a part of the requirement referred to in Article 12f up to the greater of 8 % of the total liabilities, including own funds, of the entity and the formula referred to in paragraph 7 of this Article, shall be met using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, provided that the following conditions are met:
+
+(a) non-subordinated liabilities referred to in paragraphs 1 and 2 of this Article have the same priority ranking in the national insolvency hierarchy as certain liabilities that are excluded from the application of write-down and conversion powers in accordance with Article 27(3) or Article 27(5);
+
+(b) there is a risk that, as a result of a planned application of write-down and conversion powers to non-subordinated liabilities that are not excluded from the application of write-down and conversion powers in accordance with Article 27(3) or Article 27(5), creditors whose claims arise from those liabilities incur greater losses than they would incur in a winding up under normal insolvency proceedings;
+
+(c) the amount of own funds and other subordinated liabilities does not exceed the amount necessary to ensure that the creditors referred to in point (b) do not incur losses above the level of losses that they would otherwise have incurred in the winding-up under normal insolvency proceedings.
+
+Where the Board determines that, within a class of liabilities which includes eligible liabilities, the amount of the liabilities that are excluded or reasonably likely to be excluded from the application of write-down and conversion powers in accordance with Articles 27(3) or 27(5) totals more than 10 % of that class, the Board shall assess the risk referred to in point (b) of the first subparagraph of this paragraph.
+
+6\. For the purposes of paragraphs 4, 5, and 7, derivative liabilities shall be included in total liabilities on the basis that full recognition is given to counterparty netting rights.
+
+The own funds of a resolution entity that are used to comply with the combined buffer requirement shall be eligible to comply with the requirements referred to in paragraphs 4, 5 and 7.
+
+7\. By derogation from paragraph 3 of this Article, the Board may decide that the requirement referred to in Article 12f of this Regulation shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 12d(4) or (5) of this Regulation using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, to the extent that, due to the obligation of the resolution entity to comply with the combined buffer requirement and the requirements referred to in Article 92a of Regulation (EU) No 575/2013, Article 12d(4) and Article 12f of this Regulation, the sum of those own funds, instruments and liabilities does not exceed the greater of:
+
+(a) 8 % of total liabilities, including own funds, of the entity; or
+
+(b) the amount resulting from the application of the formula A × 2 + B × 2 + C, where A, B and C are the following amounts:
+
+A = the amount resulting from the requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013;
+
+B = the amount resulting from the requirement referred to in Article 104a of Directive 2013/36/EU;
+
+C = the amount resulting from the combined buffer requirement.
+
+8\. The Board may exercise the power referred to in paragraph 7 of this Article with respect to resolution entities that are G-SIIs or that are subject to Article 12d(4) or (5), and that meet one of the conditions set out in the second subparagraph of this paragraph, up to a limit of 30 % of the total number of all resolution entities that are G-SIIs or that are subject to Article 12d(4) or (5) for which the Board determines the requirement referred to in Article 12f.
+
+The conditions shall be considered by the Board as follows:
+
+(a) substantive impediments to resolvability have been identified in the preceding resolvability assessment and either:
+
+(i) no remedial action has been taken following the application of the measures referred to in Article 10(11) in the timeline required by the Board, or
+
+(ii) the identified substantive impediments cannot be addressed using any of the measures referred to in Article 10(11), and the exercise of the power referred to in paragraph 7 of this Article would partially or fully compensate for the negative impact of the substantive impediments on resolvability;
+
+(b) the Board considers that the feasibility and credibility of the resolution entity's preferred resolution strategy is limited, taking into account the entity's size, its interconnectedness, the nature, scope, risk and complexity of its activities, its legal status and its shareholding structure; or
+
+(c) the requirement referred to in Article 104a of Directive 2013/36/EU reflects the fact that the resolution entity that is a G-SII or that is subject to Article 12d(4) or (5) of this Regulation is, in terms of riskiness, among the top 20 % of institutions for which the Board determines the requirement referred to in Article 12a(1) of this Regulation.
+
+For the purposes of the percentages referred to in the first and second subparagraphs, the Board shall round the number resulting from the calculation up to the closest whole number.
+
+9\. After consulting the competent authorities, including the ECB, the Board shall take the decisions referred to in paragraph 5 or 7.
+
+When taking those decisions, the Board shall also take into account:
+
+(a) the depth of the market for the resolution entity's own funds instruments and subordinated eligible instruments, the pricing of such instruments, where they exist, and the time needed to execute any transactions necessary for the purpose of complying with the decision;
+
+(b) the amount of eligible liabilities instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 that have a residual maturity below one year as of the date of the decision, with a view to making quantitative adjustments to the requirements referred to in paragraphs 5 and 7 of this Article;
+
+(c) the availability and the amount of instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than point (d) of Article 72b(2) of that Regulation;
+
+(d) whether the amount of liabilities that are excluded from the application of write-down and conversion powers in accordance with Article 27(3) or (5) and that, in normal insolvency proceedings, rank equally with or below the highest ranking eligible liabilities is significant in comparison to the own funds and eligible liabilities of the resolution entity. Where the amount of excluded liabilities does not exceed 5 % of the amount of the own funds and eligible liabilities of the resolution entity, the excluded amount shall be considered as not being significant. Above that threshold, the significance of the excluded liabilities shall be assessed by the Board;
+
+(e) the resolution entity's business model, funding model, and risk profile, as well as its stability and ability to contribute to the economy; and
+
+(f) the impact of possible restructuring costs on the resolution entity's recapitalisation.
+
+###### Article 12d — Determination of the minimum requirement for own funds and eligible liabilities
+
+1\. The requirement referred to in Article 12a(1) shall be determined by the Board, after consulting the competent authorities, including the ECB, on the basis of the following criteria:
+
+(a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
+
+(b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+
+(c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity has sufficient own funds and other eligible liabilities to absorb losses and to restore its total capital ratio and, as applicable, its leverage ratio, to the level necessary to enable it to continue to comply with the conditions for authorisation and to carry on the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+
+(d) the size, the business model, the funding model and the risk profile of the entity;
+
+(e) the extent to which the failure of the entity would have an adverse effect on financial stability, including through contagion to other institutions or entities, due to the interconnectedness of the entity with those other institutions or entities or with the rest of the financial system.
+
+2\. Where the resolution plan provides that resolution action is to be taken or that the power to write down and convert relevant capital instruments and eligible liabilities in accordance with Article 21 is to be exercised in accordance with the relevant scenario referred to in Article 8(6), the requirement referred to in Article 12a(1) shall equal an amount sufficient to ensure that:
+
+(a) the losses that are expected to be incurred by the entity are fully absorbed (‘loss absorption’);
+
+(b) the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) or (3) but are not resolution entities are recapitalised to a level necessary to enable them to continue to comply with the conditions for authorisation, and to carry on the activities for which they are authorised under Directive 2013/36/EU, Directive 2014/65/EU or an equivalent legislative act for an appropriate period not longer than one year (‘recapitalisation’).
+
+2a. The Board shall not determine the requirement referred to in Article 12a(1) for liquidation entities.
+
+By way of derogation from the first subparagraph, the Board may assess whether it is justified to determine the requirement referred to in Article 12a(1) for a liquidation entity on an individual basis in an amount exceeding the amount sufficient to absorb losses in accordance with paragraph 2, point (a), of this Article. The Board shall take into account in its assessment, in particular, any possible impact on financial stability and on the risk of contagion to the financial system, including with regard to the financing capacity of deposit guarantee schemes. Where the Board determines the requirement referred to in Article 12a(1), the liquidation entity shall meet that requirement by using one or more of the following:
+
+(a) own funds;
+
+(b) liabilities that fulfil the eligibility criteria referred to in Article 72a of Regulation (EU) No 575/2013, with the exception of Article 72b(2), points (b) and (d), of that Regulation;
+
+(c) the liabilities referred to in Article 12c(2).
+
+Article 77(2) and Article 78a of Regulation (EU) No 575/2013 shall not apply to liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) of this Regulation.
+
+Holdings of own funds instruments and eligible liabilities instruments issued by subsidiary institutions which are liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) shall not be deducted under Article 72e(5) of Regulation (EU) No 575/2013.
+
+By way of derogation from the fourth subparagraph, an institution or entity referred to in Article 2 that is not itself a resolution entity but is a subsidiary of a resolution entity or of a third-country entity that would be a resolution entity if it were established in the Union shall deduct its holdings of own funds instruments in subsidiary institutions that belong to the same resolution group and that are liquidation entities for which the Board has not determined the requirement referred to in Article 12a(1) where the aggregate amount of those holdings is equal to or exceeds 7 % of the total amount of its own funds and liabilities that comply with the eligibility criteria specified in Article 12g(2), calculated annually as of 31 December as an average over the previous 12 months.
+
+3\. For resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:
+
+(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:
+
+(i) the amount of the losses to be absorbed in resolution that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the resolution entity at the consolidated resolution group level; and
+
+(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with its total capital ratio requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU at the consolidated resolution group level after the implementation of the preferred resolution strategy; and
+
+(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:
+
+(i) the amount of the losses to be absorbed in resolution that corresponds to the resolution entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level; and
+
+(ii) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with the leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level after the implementation of the preferred resolution strategy.
+
+For the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.
+
+For the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.
+
+When setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).
+
+When setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:
+
+(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from resolution actions set out in the resolution plan; and
+
+(b) after consulting the competent authorities, including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the resolution entity after the implementation of the preferred resolution strategy.
+
+The Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph by an appropriate amount necessary to ensure that, following resolution, the entity is able to sustain sufficient market confidence for an appropriate period, which shall not exceed one year.
+
+Where the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the application of the resolution tools, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.
+
+The amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to sustain market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after implementation of the resolution strategy. That amount shall be adjusted upwards if, after consulting the competent authorities, including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), for an appropriate period which shall not exceed one year.
+
+4\. For resolution entities that are not subject to Article 92a of Regulation (EU) No 575/2013 and that are part of a resolution group the total assets of which exceed EUR 100 billion, the level of the requirement referred to in paragraph 3 of this Article shall be at least equal to:
+
+(a) 13,5 % when calculated in accordance with point (a) of Article 12a(2); and
+
+(b) 5 % when calculated in accordance with point (b) of Article 12a(2).
+
+By way of derogation from Article 12c, the resolution entities referred to in the first subparagraph of this paragraph shall meet a level of the requirement referred to in the first subparagraph of this paragraph that is equal to 13,5 % when calculated in accordance with point (a) of Article 12a(2) and to 5 % when calculated in accordance with point (b) of Article 12a(2) using own funds, subordinated eligible instruments, or liabilities as referred to in Article 12c(3) of this Regulation.
+
+5\. At the request of the national resolution authority of a resolution entity, the Board shall apply the requirements laid down in paragraph 4 of this Article to a resolution entity which is not subject to Article 92a of Regulation (EU) No 575/2013 and which is part of a resolution group the total assets of which are lower than EUR 100 billion and which the national resolution authority has assessed as reasonably likely to pose a systemic risk in the event of its failure.
+
+When taking a decision to make a request as referred to in the first subparagraph of this paragraph, the national resolution authority shall take into account:
+
+(a) the prevalence of deposits, and the absence of debt instruments, in the funding model;
+
+(b) the extent to which access to the capital markets for eligible liabilities is limited;
+
+(c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 12f.
+
+The absence of a request by the national resolution authority pursuant to the first subparagraph of this paragraph is without prejudice to any decision of the Board under Article 12c(5).
+
+6\. For entities that are not themselves resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:
+
+(a) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (a) of Article 12a(2), the sum of:
+
+(i) the amount of the losses to be absorbed that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the entity; and
+
+(ii) a recapitalisation amount that allows the entity to restore compliance with its total capital ratio requirement referred in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group; and
+
+(b) for the purpose of calculating the requirement referred to in Article 12a(1), in accordance with point (b) of Article 12a(2), the sum of:
+
+(i) the amount of the losses to be absorbed that corresponds to the entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013; and
+
+(ii) a recapitalisation amount that allows the entity to restore compliance with its leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.
+
+For the purposes of point (a) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.
+
+For the purposes of point (b) of Article 12a(2), the requirement referred to in Article 12a(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.
+
+When setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the Board shall take into account the requirements referred to in Article 27(7).
+
+When setting the recapitalisation amounts referred to in the previous subparagraphs, the Board shall:
+
+(a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from actions set out in the resolution plan; and
+
+(b) after consulting the competent authorities including the ECB, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the relevant entity after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21 of this Regulation or after the resolution of the resolution group.
+
+The Board shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph of this paragraph by an appropriate amount necessary to ensure that, following the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21, the entity is able to sustain sufficient market confidence for an appropriate period which shall not exceed one year.
+
+Where the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the exercise of the power referred to in Article 21 of this Regulation or after the resolution of the resolution group, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.
+
+The amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authorities, including the ECB, the Board determines that it would be feasible and credible for a lower amount to be sufficient to ensure market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3), after the exercise of the power referred to in Article 21 or after the resolution of the resolution group. That amount shall be adjusted upwards if, after consulting the competent authorities including the ECB, the Board determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in Article 12(1) and its access to funding without recourse to extraordinary public financial support other than contributions from the Fund, in accordance with Article 27(7) and Article 76(3) for an appropriate period which shall not exceed one year.
+
+7\. Where the Board expects that certain classes of eligible liabilities are reasonably likely to be fully or partially excluded from bail-in pursuant to Article 27(5) or might be transferred in full to a recipient under a partial transfer, the requirement referred to in Article 12a(1) shall be met using own funds or other eligible liabilities that are sufficient to:
+
+(a) cover the amount of excluded liabilities identified in accordance with Article 27(5);
+
+(b) ensure that the conditions referred to in paragraph 2 are fulfilled.
+
+8\. Any decision by the Board to impose a minimum requirement of own funds and eligible liabilities under this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraphs 2 to 7 of this Article, and shall be reviewed by the Board without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU.
+
+9\. For the purposes of paragraphs 3 and 6 of this Article, capital requirements shall be interpreted in accordance with the competent authority's application of the transitional provisions laid down in Chapters 1, 2 and 4 of Title I of Part Ten of Regulation (EU) No 575/2013 and in the provisions of national legislation exercising the options granted to the competent authorities by that Regulation.
+
+###### Article 12e — Determination of the minimum requirement for own funds and eligible liabilities for resolution entities of G-SIIs and Union material subsidiaries of non-EU G-SIIs
+
+1\. The requirement referred to in Article 12a(1) for a resolution entity that is a G-SII or part of a G-SII shall consist of the following:
+
+(a) the requirements referred to in Articles 92a and 494 of Regulation (EU) No 575/2013; and
+
+(b) any additional requirement for own funds and eligible liabilities that has been determined by the Board specifically in relation to that entity in accordance with paragraph 3 of this Article.
+
+2\. The requirement referred to in Article 12a(1) for a Union material subsidiary of a non-EU G-SII shall consist of the following:
+
+(a) the requirements referred to in Articles 92b and 494 of Regulation (EU) No 575/2013; and
+
+(b) any additional requirement for own funds and eligible liabilities that has been determined by the Board specifically in relation to that material subsidiary in accordance with paragraph 3 of this Article which is to be met using own funds and liabilities that meet the conditions of Article 12g and Article 92b(2) of Regulation (EU) No 575/2013.
+
+3\. The Board shall impose an additional requirement for own funds and eligible liabilities referred to in point (b) of paragraph 1 and point (b) of paragraph 2 only:
+
+(a) where the requirement referred to in point (a) of paragraph 1 or point (a) of paragraph 2 of this Article is not sufficient to fulfil the conditions set out in Article 12d; and
+
+(b) to an extent that ensures that the conditions set out in Article 12d are fulfilled.
+
+4\. Any decision by the Board to impose an additional requirement for own funds and eligible liabilities under point (b) of paragraph 1 of this Article or point (b) of paragraph 2 of this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraph 3 of this Article, and shall be reviewed by the Board without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU that applies to the resolution group or the Union material subsidiary of a non-EU G-SII.
+
+###### Article 12f — Application of the minimum requirement for own funds and eligible liabilities to resolution entities
+
+1\. Resolution entities shall comply with the requirements laid down in Articles 12c to 12e on a consolidated basis at the level of the resolution group.
+
+2\. The Board, after consulting the group-level resolution authority, if that authority is not the Board, and the consolidating supervisor shall determine the requirement referred to in Article 12a(1) for a resolution entity established in a participating Member State at the consolidated resolution group level on the basis of the requirements laid down in Articles 12c to 12e and on the basis of whether the third-country subsidiaries of the group are to be resolved separately under the resolution plan.
+
+3\. For resolution groups identified in accordance with point (b) of point (24b) of Article 3(1), the Board shall decide, depending on the features of the solidarity mechanism and of the preferred resolution strategy, which entities in the resolution group are to be required to comply with Article 12d(3) and (4) and Article 12e(1), in order to ensure that the resolution group as a whole complies with paragraphs 1 and 2 of this Article, and how such entities are to do so in conformity with the resolution plan.
+
+###### Article 12g — Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities
+
+1\. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 12d on an individual basis.
+
+The Board, after having consulted the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity as referred to in Article 2, point (b), or to a financial institution as referred to in Article 2, point (c), that is a subsidiary of a resolution entity but is not itself a resolution entity.
+
+By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
+
+By way of derogation from the first and second subparagraphs, the Board may decide to determine the requirement laid down in Article 12d on a consolidated basis for a subsidiary as referred to in this paragraph where the Board concludes that all of the following conditions are met:
+
+(a) the subsidiary meets one of the following conditions:
+
+(i) the subsidiary is held directly by the resolution entity and:
+
+— the resolution entity is a Union parent financial holding company or a Union parent mixed financial holding company;
+
+— both the subsidiary and the resolution entity are established in the same participating Member State and are part of the same resolution group;
+
+— the resolution entity does not hold directly any subsidiary institution, as referred to in Article 1(1), point (a), of Directive 2014/59/EU, or any subsidiary entity, as referred to in Article 1(1), point (b), (c) or (d), of that Directive, where that entity is subject to the requirement referred to in Article 45c or 45f of that Directive or in Article 12d or 12g of this Regulation, other than the subsidiary concerned;
+
+— the subsidiary would be disproportionately affected by the deductions required pursuant to Article 72e(5) of Regulation (EU) No 575/2013;
+
+(ii) the subsidiary is subject to the requirement referred to in Article 104a of Directive 2013/36/EU on a consolidated basis only and the determination of the requirement laid down in Article 12d of this Regulation on a consolidated basis would not lead to overstating the recapitalisation needs, for the purposes of Article 12d(1), point (b), of this Regulation, of the subgroup consisting of entities within the consolidation perimeter concerned, in particular where there is a prevalence of liquidation entities within the same consolidation perimeter;
+
+(b) compliance with the requirement laid down in Article 12d on a consolidated basis as a substitute for compliance with that requirement on an individual basis does not impair in a material way any of the following:
+
+(i) the credibility and feasibility of the group resolution strategy;
+
+(ii) the subsidiary’s capacity to comply with its own funds requirement after the exercise of write-down and conversion powers; and
+
+(iii) the adequacy of the internal loss transfer and recapitalisation mechanism, including the write down or conversion, in accordance with Article 21, of relevant capital instruments and eligible liabilities of the subsidiary concerned or of other entities in the resolution group.
+
+For resolution groups identified in accordance with point (b) of point (24b) of Article 3(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 12f(3), shall comply with Article 12d(6) on an individual basis.
+
+The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d.
+
+2\. The requirement referred to in Article 12a(1) for entities referred to in paragraph 1 of this Article shall be met using one or more of the following:
+
+(a) liabilities:
+
+(i) that are issued to and bought by the resolution entity, either directly or indirectly through other entities in the same resolution group that bought the liabilities from the entity that is subject to this Article, or are issued to and bought by an existing shareholder that is not part of the same resolution group as long as the exercise of write-down or conversion powers in accordance with Article 21 does not affect the control of the subsidiary by the resolution entity;
+
+(ii) that fulfil the eligibility criteria referred to in Article 72a of Regulation (EU) No 575/2013, except for points (b), (c), (k), (l) and (m) of Article 72b(2) and Article 72b(3) to (5) of that Regulation;
+
+(iii) that rank, in normal insolvency proceedings, below liabilities that do not meet the condition referred to in point (i) and that are not eligible for own funds requirements;
+
+(iv) that are subject to write-down or conversion powers in accordance with Article 21 in a manner that is consistent with the resolution strategy of the resolution group, in particular by not affecting the control of the subsidiary by the resolution entity;
+
+(v) the acquisition of ownership of which is not funded directly or indirectly by the entity that is subject to this Article;
+
+(vi) the provisions governing which do not indicate explicitly or implicitly that the liabilities would be called, redeemed, repaid or repurchased early, as applicable, by the entity that is subject to this Article, other than in the case of the insolvency or liquidation of that entity, and that entity does not otherwise provide such an indication;
+
+(vii) the provisions governing which do not give the holder the right to accelerate the future scheduled payment of interest or principal, other than in the case of the insolvency or liquidation of the entity that is subject to this Article;
+
+(viii) the level of interest or dividend payments, as applicable, due thereon is not amended on the basis of the credit standing of the entity that is subject to this Article or its parent undertaking;
+
+(b) own funds, as follows:
+
+(i) Common Equity Tier 1 capital, and
+
+(ii) other own funds that:
+
+— are issued to and bought by entities that are included in the same resolution group, or
+
+— are issued to and bought by entities that are not included in the same resolution group as long as the exercise of write-down or conversion powers in accordance with Article 21 does not affect the control of the subsidiary by the resolution entity.
+
+2a. Where an entity as referred to in paragraph 1 complies with the requirement referred to in Article 12a(1) on a consolidated basis, the amount of own funds and eligible liabilities of that entity shall include the following liabilities issued in accordance with paragraph 2, point (a), of this Article by a subsidiary established in the Union included in the consolidation of that entity:
+
+(a) liabilities issued to and bought by the resolution entity, either directly, or indirectly through other entities in the same resolution group that are not included in the consolidation of the entity complying with the requirement referred to in Article 12a(1) on a consolidated basis;
+
+(b) liabilities issued to an existing shareholder that is not part of the same resolution group.
+
+2b. The liabilities referred to in paragraph 2a, points (a) and (b), of this Article, shall not exceed the amount determined by subtracting from the amount of the requirement referred to in Article 12(1) applicable to the subsidiary included in the consolidation the sum of all of the following:
+
+(a) the liabilities issued to and bought by the entity complying with the requirement referred to in Article 12a(1) on a consolidated basis either directly, or indirectly through other entities in the same resolution group that are included in the consolidation of that entity;
+
+(b) the amount of own funds that are issued in accordance with paragraph 2, point (b), of this Article.
+
+3\. The Board may permit the requirement referred to in Article 12a(1) to be met in full or in part with a guarantee provided by the resolution entity which fulfils the following conditions:
+
+(a) both the subsidiary and the resolution entity are established in the same participating Member State and are part of the same resolution group;
+
+(b) the resolution entity complies with the requirement referred to in Article 12f;
+
+(c) the guarantee is provided for at least an amount that is equivalent to the amount of the requirement for which it substitutes;
+
+(d) the guarantee is triggered when the subsidiary is unable to pay its debts or other liabilities as they fall due, or a determination has been made in accordance with Article 21(3) in respect of the subsidiary, whichever is the earliest;
+
+(e) the guarantee is collateralised through a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC of the European Parliament and of the Council ( 7 ) for at least 50 % of its amount;
+
+(f) the collateral backing the guarantee fulfils the requirements of Article 197 of Regulation (EU) No 575/2013, which, following appropriately conservative haircuts, is sufficient to cover the amount collateralised as referred to in point (e);
+
+(g) the collateral backing the guarantee is unencumbered and, in particular, is not used as collateral to back any other guarantee;
+
+(h) the collateral has an effective maturity that fulfils the same maturity condition as that referred to in Article 72c(1) of Regulation (EU) No 575/2013; and
+
+(i) there are no legal, regulatory or operational barriers to the transfer of the collateral from the resolution entity to the relevant subsidiary, including where resolution action is taken in respect of the resolution entity.
+
+For the purposes of point (i) of the first subparagraph, at the request of the Board, the resolution entity shall provide an independent written and reasoned legal opinion or shall otherwise satisfactorily demonstrate that there are no legal, regulatory or operational barriers to the transfer of collateral from the resolution entity to the relevant subsidiary.
+
+4\. Where in accordance with the global resolution strategy subsidiaries established in the Union, or a Union parent undertaking and its subsidiary institutions, are not resolution entities and the members of the European resolution college, where established pursuant to Article 89 of Directive 2014/59/EU, agree with that strategy, subsidiaries established in the Union or, on a consolidated basis, the Union parent undertaking shall comply with the requirement of Article 12a(1) of this Regulation by issuing the instruments referred to in paragraph 2, points (a) and (b), of this Article, to any of the following:
+
+(a) their ultimate parent undertaking established in a third country;
+
+(b) the subsidiaries of that ultimate parent undertaking that are established in the same third country;
+
+(c) other entities under the conditions set out in paragraph 2, points (a)(i) and (b)(ii), of this Article.
+
+###### Article 12h — Waiver of the minimum requirement for own funds and eligible liabilities applied to entities that are not themselves resolution entities
+
+1\. The Board may waive the application of Article 12g in respect of a subsidiary of a resolution entity established in a participating Member State where:
+
+(a) both the subsidiary and the resolution entity are established in the same participating Member State and are part of the same resolution group;
+
+(b) the resolution entity complies with the requirement referred to in Article 12f;
+
+(c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the resolution entity to the subsidiary in respect of which a determination has been made in accordance with Article 21(3), in particular where resolution action is taken in respect of the resolution entity.
+
+2\. The Board may waive the application of Article 12g in respect of a subsidiary of a resolution entity established in a participating Member State where:
+
+(a) both the subsidiary and its parent undertaking are established in the same participating Member State and are part of the same resolution group;
+
+(b) the parent undertaking complies on a consolidated basis with the requirement referred to in Article 12a(1) in that participating Member State;
+
+(c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the parent undertaking to the subsidiary in respect of which a determination has been made in accordance with Article 21(3), in particular where resolution action is taken in respect of the parent undertaking.
+
+###### Article 12i — Waiver for a central body and credit institutions permanently affiliated to a central body
+
+The Board may partially or fully waive the application of Article 12g in respect of a central body or of a credit institution which is permanently affiliated to a central body, where all of the following conditions are met:
+
+(a) the credit institution and the central body are subject to supervision by the same competent authority, are established in the same participating Member State and are part of the same resolution group;
+
+(b) the commitments of the central body and its permanently affiliated credit institutions are joint and several liabilities, or the commitments of its permanently affiliated credit institutions are entirely guaranteed by the central body;
+
+(c) the minimum requirement for own funds and eligible liabilities, and the solvency and liquidity of the central body and of all of the permanently affiliated credit institutions, are monitored as a whole on the basis of the consolidated accounts of those institutions;
+
+(d) in the case of a waiver for a credit institution which is permanently affiliated to a central body, the management of the central body is empowered to issue instructions to the management of the permanently affiliated institutions;
+
+(e) the relevant resolution group complies with the requirement referred to in Article 12f(3); and,
+
+(f) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the central body and the permanently affiliated credit institutions in the event of resolution.
+
+###### Article 12j — Breaches of the minimum requirement for own funds and eligible liabilities
+
+1\. Any breach of the minimum requirement for own funds and eligible liabilities referred to in Article 12f or Article 12g shall be addressed on the basis of at least one of the following:
+
+(a) powers to address or remove impediments to resolvability in accordance with Article 10;
+
+(b) powers referred to in Article 10a;
+
+(c) measures referred to in Article 104 of Directive 2013/36/EU;
+
+(d) early intervention measures in accordance with Article 13;
+
+(e) administrative penalties and other administrative measures in accordance with Articles 110 and 111 of Directive 2014/59/EU.
+
+Furthermore, the Board or the ECB may carry out an assessment of whether the institution is failing or is likely to fail, in accordance with Article 18.
+
+2\. The Board, resolution authorities and competent authorities of participating Member States shall consult each other when they exercise their respective powers referred to in paragraph 1.
+
+###### Article 12k — Transitional and post-resolution arrangements
+
+1\. By way of derogation from Article 12a(1), the Board and national resolution authorities shall determine appropriate transitional periods for entities referred to in Article 12(1) and (3) to comply with the requirements in Articles 12f or 12g, or with the requirements that result from the application of Article 12c(4), (5) or (7), as appropriate. The deadline for entities to comply with the requirements in Articles 12f or 12g or the requirements that result from the application of Article 12c(4), (5) or (7) shall be 1 January 2024.
+
+The Board shall determine intermediate target levels for the requirements in Articles 12f or 12g or for requirements that result from the application of Article 12c(4), (5) or (7), as appropriate, that entities referred to in Article 12(1) and (3) shall comply with at 1 January 2022. The intermediate target levels, as a rule, shall ensure a linear build-up of own funds and eligible liabilities towards the requirement.
+
+The Board may set a transitional period that ends after 1 January 2024 where duly justified and appropriate on the basis of the criteria referred to in paragraph 7, taking into consideration:
+
+(a) the development of the entity's financial situation;
+
+(b) the prospect that the entity will be able to ensure compliance in a reasonable timeframe with the requirements in Articles 12f or 12g or with a requirement that results from the application of Article 12c(4), (5) or (7); and
+
+(c) whether the entity is able to replace liabilities that no longer meet the eligibility or maturity criteria laid down in Articles 72b and 72c of Regulation (EU) No 575/2013, and Article 12c or Article 12g(2) of this Regulation, and if not, whether that inability is of an idiosyncratic nature or is due to market-wide disturbance.
+
+2\. The deadline for resolution entities to comply with the minimum level of the requirements referred to in Article 12d(4) or (5) shall be 1 January 2022.
+
+3\. The minimum levels of the requirements referred to in Article 12d(4) and (5) shall not apply within the two-year period following the date:
+
+(a) on which the Board has applied the bail-in tool; or
+
+(b) on which the resolution entity has put in place an alternative private sector measure as referred to in point (b) of Article 18(1) by which capital instruments and other liabilities have been written down or converted into Common Equity Tier 1 instruments, or on which write down or conversion powers, in accordance with Article 21, have been exercised in respect of that resolution entity, in order to recapitalise the resolution entity without the application of resolution tools.
+
+4\. The requirements referred to in Article 12c(4) and (7) as well as Article 12d(4) and (5), as applicable, shall not apply within the three-year period following the date on which the resolution entity or the group of which the resolution entity is part has been identified as a G-SII, or the resolution entity starts to be in the situation referred to in Article 12d(4) or (5).
+
+5\. By way of derogation from Article 12a(1), the Board shall determine an appropriate transitional period within which to comply with the requirements of Article 12f or 12g, or a requirement resulting from the application of Article 12c(4), (5) or (7), as appropriate, for entities to which resolution tools or the write-down or conversion power referred to in Article 21 have been applied.
+
+6\. For the purposes of paragraphs 1 to 5 of this Article, the Board shall communicate to the entity a planned minimum requirement for own funds and eligible liabilities for each 12-month period during the transitional period, with a view to facilitating a gradual build-up of its loss-absorption and recapitalisation capacity. At the end of the transitional period, the minimum requirement for own funds and eligible liabilities shall be equal to the amount determined under Article 12c(4), (5) or (7), Article 12d(4) or (5), Article 12f or Article 12g, as applicable.
+
+7\. When determining the transitional periods, the Board shall take into account:
+
+(a) the prevalence of deposits and the absence of debt instruments in the funding model;
+
+(b) the access to the capital markets for eligible liabilities;
+
+(c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 12f.
+
+8\. Subject to paragraph 1, the Board shall not be prevented from subsequently revising either the transitional period or any planned minimum requirement for own funds and eligible liabilities communicated under paragraph 6.
+
+#### CHAPTER 2 — Early intervention
+
+###### Article 13 — Early intervention
+
+1\. The ECB or national competent authorities shall inform the Board of any measure that they require an institution or group to take or that they take themselves pursuant to Article 16 of Regulation (EU) No 1024/2013, to Article 27(1) or Article 28 or 29 of Directive 2014/59/EU, or to Article 104 of Directive 2013/36/EU.
+
+The Board shall notify the Commission of any information which it has received pursuant to the first subparagraph.
+
+2\. From the date of receipt of the information referred to in paragraph 1, and without prejudice to the powers of the ECB and national competent authorities in accordance with other Union law, the Board may prepare for the resolution of the institution or group concerned.
+
+For the purposes of the first subparagraph, the ECB or the relevant national competent authority shall closely monitor, in cooperation with the Board, the conditions of the institution or the parent undertaking and their compliance with any early intervention measure that was required of them.
+
+The ECB or the relevant national competent authority shall provide the Board with all of the information necessary in order to update the resolution plan and prepare for the possible resolution of the institution and for valuation of the assets and liabilities of the institution in accordance with Article 20(1) to (15).
+
+3\. The Board shall have the power to require the institution, or the parent undertaking, to contact potential purchasers in order to prepare for the resolution of the institution, subject to the criteria specified in Article 39(2) of Directive 2014/59/EU and the requirements of professional secrecy laid down in Article 88 of this Regulation.
+
+The Board shall also have the power to require the relevant national resolution authority to draft a preliminary resolution scheme for the institution or group concerned.
+
+The Board shall inform the ECB, the relevant national competent authorities and the relevant national resolution authorities of any action it takes pursuant to this paragraph.
+
+4\. If the ECB or the national competent authorities intend to impose on an institution or a group any additional measure under Article 16 of Regulation (EU) No 1024/2013, under Article 27(1), 28 or 29 of Directive 2014/59/EU or under Article 104 of Directive 2013/36/EU, before the entity or group has fully complied with the first measure notified to the Board, they shall inform the Board before imposing such additional measure on the institution or group concerned.
+
+5\. The ECB or the national competent authority, the Board and the relevant national resolution authorities shall ensure that the additional measure referred to in paragraph 4 and any action of the Board aimed at preparing for resolution under paragraph 2 are consistent.
+
+#### CHAPTER 3 — Resolution
+
+###### Article 14 — Resolution objectives
+
+1\. When acting under the resolution procedure referred to in Article 18, the Board, the Council, the Commission, and, where relevant, the national resolution authorities, in respect of their respective responsibilities, shall take into account the resolution objectives, and choose the resolution tools and resolution powers which, in their view, best achieve the resolution objectives that are relevant in the circumstances of the case.
+
+2\. The resolution objectives referred to in paragraph 1 are the following:
+
+(a) to ensure the continuity of critical functions;
+
+(b) to avoid significant adverse effects on financial stability, in particular by preventing contagion, including to market infrastructures, and by maintaining market discipline;
+
+(c) to protect public funds by minimising reliance on extraordinary public financial support;
+
+(d) to protect depositors covered by Directive 2014/49/EU and investors covered by Directive 97/9/EC;
+
+(e) to protect client funds and client assets.
+
+When pursuing the objectives referred to in the first subparagraph, the Board, the Council, the Commission and, where relevant, the national resolution authorities, shall seek to minimise the cost of resolution and avoid destruction of value unless necessary to achieve the resolution objectives.
+
+3\. Subject to different provisions of this Regulation, the resolution objectives are of equal significance, and shall be balanced, as appropriate, to the nature and circumstances of each case.
+
+###### Article 15 — General principles governing resolution
+
+1\. When acting under the resolution procedure referred to in Article 18, the Board, the Council, the Commission and, where relevant, the national resolution authorities, shall take all appropriate measures to ensure that the resolution action is taken in accordance with the following principles:
+
+(a) the shareholders of the institution under resolution bear first losses;
+
+(b) creditors of the institution under resolution bear losses after the shareholders in accordance with the order of priority of their claims pursuant to Article 17, save as expressly provided otherwise in this Regulation;
+
+(c) the management body and senior management of the institution under resolution are replaced, except in those cases where the retention of the management body and senior management, in whole or in part, as appropriate to the circumstances, is considered to be necessary for the achievement of the resolution objectives;
+
+(d) the management body and senior management of the institution under resolution shall provide all necessary assistance for the achievement of the resolution objectives;
+
+(e) natural and legal persons are made liable, subject to national law, under civil or criminal law, for their responsibility for the failure of the institution under resolution;
+
+(f) except where otherwise provided in this Regulation, creditors of the same class are treated in an equitable manner;
+
+(g) no creditor shall incur greater losses than would have been incurred if an entity referred to in Article 2 had been wound up under normal insolvency proceedings in accordance with the safeguards provided for in Article 29;
+
+(h) covered deposits are fully protected; and
+
+(i) resolution action is taken in accordance with the safeguards in this Regulation.
+
+2\. Where an institution is a group entity, without prejudice to Article 14, the Board, the Council and the Commission, when deciding on the application of resolution tools and the exercise of resolution powers, shall act in a way that minimises the impact on other group entities and on the group as a whole and minimises the adverse effect on financial stability in the Union and its Member States, in particular in the countries where the group operates.
+
+3\. Where the sale of business tool, the bridge institution tool or the asset separation tool is applied to an entity referred to in Article 2 of this Regulation, that entity shall be considered to be the subject of bankruptcy proceedings or analogous insolvency proceedings for the purposes of Article 5(1) of Council Directive 2001/23/EC ( 8 ).
+
+4\. When deciding on the application of resolution tools and the exercise of resolution powers, the Board shall instruct national resolution authorities to inform and consult employee representatives where appropriate.
+
+This is without prejudice to provisions on the representation of employees in management bodies as provided for by national law or practice.
+
+###### Article 16 — Resolution of financial institutions and parent undertakings
+
+1\. The Board shall decide on a resolution action in relation to a financial institution established in a participating Member State, where the conditions laid down in Article 18(1) are met with regard to both the financial institution and with regard to the parent undertaking subject to consolidating supervision.
+
+2\. The Board shall take a resolution action in relation to a parent undertaking referred to in point (b) of Article 2 where the conditions laid down in Article 18(1) are met.
+
+3\. Notwithstanding the fact that a parent undertaking does not meet the conditions established in Article 18(1), the Board may decide on a resolution action with regard to that parent undertaking where it is a resolution entity and where one or more of its subsidiaries which are institutions but are not resolution entities themselves meet the conditions set out in Article 18(1), provided that their assets and liabilities are such that their failure threatens an institution or the group as a whole, and resolution action with regard to that parent undertaking is necessary either for the resolution of those subsidiaries which are institutions or for the resolution of the relevant resolution group as a whole.
+
+###### Article 17 — Order of priority of claims
+
+1\. When applying the bail-in tool to an entity referred to in Article 2 of this Regulation, and without prejudice to liabilities excluded from the bail-in tool under Article 27(3) of this Regulation, the Board, the Commission, or, where applicable, the national resolution authorities, shall decide on the exercise of the write-down and conversion powers, including on any possible application of Article 27(5) of this Regulation, and the national resolution authorities shall exercise those powers in accordance with Articles 47 and 48 of Directive 2014/59/EU and in accordance with the reverse order of priority of claims laid down in their national law, including the provisions transposing Article 108 of that Directive.
+
+2\. Participating Member States shall notify to the Commission and to the Board the ranking of claims against entities referred to in Article 2 in national insolvency proceedings on 1 July of every year or immediately, where there is a change of the ranking.
+
+Where the bail-in tool is applied, the relevant deposit guarantee scheme shall be liable in the terms provided for in Article 79.
+
+###### Article 18 — Resolution procedure
+
+1\. The Board shall adopt a resolution scheme pursuant to paragraph 6 in relation to entities and groups referred to in Article 7(2), and to the entities and groups referred to in Article 7(4)(b) and (5) where the conditions for the application of those paragraphs are met, only when it assesses, in its executive session, on receiving a communication pursuant to the fourth subparagraph, or on its own initiative, that the following conditions are met:
+
+(a) the entity is failing or is likely to fail;
+
+(b) having regard to timing and other relevant circumstances, there is no reasonable prospect that any alternative private sector measures, including measures by an IPS, or supervisory action, including early intervention measures or the write-down or conversion of relevant capital instruments and eligible liabilities in accordance with Article 21(1) taken in respect of the entity, would prevent the failure of the entity within a reasonable timeframe;
+
+(c) a resolution action is necessary in the public interest pursuant to paragraph 5.
+
+An assessment of the condition referred to in point (a) of the first subparagraph shall be made by the ECB, after consulting the Board. The Board, in its executive session, may make such an assessment only after informing the ECB of its intention and only if the ECB, within three calendar days of receipt of that information, does not make such an assessment. The ECB shall, without delay, provide the Board with any relevant information that the Board requests in order to inform its assessment.
+
+Where the ECB assesses that the condition referred to in point (a) of the first subparagraph is met in relation to an entity or group referred to in the first subparagraph, it shall communicate that assessment without delay to the Commission and to the Board.
+
+An assessment of the condition referred to in point (b) of the first subparagraph shall be made by the Board, in its executive session, or, where applicable, by the national resolution authorities, in close cooperation with the ECB. The ECB may also inform the Board or the national resolution authorities concerned that it considers the condition laid down in that point to be met.
+
+1a. The Board may adopt a resolution scheme in accordance with paragraph 1 in relation to a central body and all credit institutions permanently affiliated to it that are part of the same resolution group when that resolution group complies as a whole with the conditions provided in the first subparagraph of paragraph 1.
+
+2\. Without prejudice to cases where the ECB has decided to exercise directly supervisory tasks relating to credit institutions pursuant to Article 6(5)(b) of Regulation (EU) No 1024/2013, in the event of receipt of a communication pursuant to paragraph 1 or where the Board intends to make an assessment under paragraph 1 on its own initiative in relation to an entity or group referred to in Article 7(3), the Board shall communicate its assessment to the ECB without delay.
+
+3\. The previous adoption of a measure pursuant to Article 16 of Regulation (EU) No 1024/2013, to Article 27(1) or Article 28 or 29 of Directive 2014/59/EU, or to Article 104 of Directive 2013/36/EU is not a condition for taking a resolution action.
+
+4\. For the purposes of point (a) of paragraph 1, the entity shall be deemed to be failing or to be likely to fail in one or more of the following circumstances:
+
+(a) the entity infringes, or there are objective elements to support a determination that the institution will, in the near future, infringe the requirements for continuing authorisation in a way that would justify the withdrawal of the authorisation by the ECB, including but not limited to the fact that the institution has incurred or is likely to incur losses that will deplete all or a significant amount of its own funds;
+
+(b) the assets of the entity are, or there are objective elements to support a determination that the assets of the entity will, in the near future, be less than its liabilities;
+
+(c) the entity is, or there are objective elements to support a determination that the entity will, in the near future, be unable to pay its debts or other liabilities as they fall due;
+
+(d) extraordinary public financial support is required except where, in order to remedy a serious disturbance in the economy of a Member State and preserve financial stability, that extraordinary public financial support takes any of the following forms:
+
+(i) a State guarantee to back liquidity facilities provided by central banks in accordance with the central banks' conditions;
+
+(ii) a State guarantee of newly issued liabilities; or
+
+(iii) an injection of own funds or purchase of capital instruments at prices and on terms that do not confer an advantage upon the entity, where neither the circumstances referred to in points (a), (b) and (c) of this paragraph nor the circumstances referred to in Article 21(1) are present at the time the public support is granted.
+
+In each of the cases referred to in points (i), (ii) and (iii) of point (d) of the first subparagraph, the guarantee or equivalent measures referred to therein shall be confined to solvent entities and shall be conditional on final approval under the Union State aid framework. Those measures shall be of a precautionary and temporary nature and shall be proportionate to remedy the consequences of the serious disturbance and shall not be used to offset losses that the entity has incurred or is likely to incur in the near future.
+
+Support measures under point (d)(iii) of the first subparagraph shall be limited to injections necessary to address capital shortfall established in the national, Union or SSM-wide stress tests, asset quality reviews or equivalent exercises conducted by the ECB, EBA or national authorities, where applicable, confirmed by the competent authority.
+
+If the Commission submits a legislative proposal pursuant to Article 32(4) of Directive 2014/59/EU, it shall, if appropriate, submit a legislative proposal amending this Regulation in the same way.
+
+5\. For the purposes of point (c) of paragraph 1 of this Article, a resolution action shall be treated as in the public interest if it is necessary for the achievement of, and is proportionate to one or more of the resolution objectives referred to in Article 14 and winding up of the entity under normal insolvency proceedings would not meet those resolution objectives to the same extent.
+
+6\. If the conditions laid down in paragraph 1 are met, the Board shall adopt a resolution scheme. The resolution scheme shall:
+
+(a) place the entity under resolution;
+
+(b) determine the application of the resolution tools to the institution under resolution referred to in Article 22(2), in particular any exclusions from the application of the bail-in in accordance with Article 27(5) and (14);
+
+(c) determine the use of the Fund to support the resolution action in accordance with Article 76 and in accordance with a Commission decision taken in accordance with Article 19.
+
+7\. Immediately after the adoption of the resolution scheme, the Board shall transmit it to the Commission.
+
+Within 24 hours from the transmission of the resolution scheme by the Board, the Commission shall endorse the resolution scheme or object to it, either with regard to the discretionary aspects of the resolution scheme in the cases not covered in the third subparagraph of this paragraph or with regard to the proposed use of State aid or Fund aid that is not considered compatible with the internal market.
+
+Within 12 hours from the transmission of the resolution scheme by the Board, the Commission may propose to the Council:
+
+(a) to object to the resolution scheme on the ground that the resolution scheme adopted by the Board does not fulfil the criterion of public interest referred to in paragraph 1(c);
+
+(b) to approve or object to a material modification of the amount of the Fund provided for in the resolution scheme of the Board.
+
+For the purposes of the third subparagraph, the Council shall act by simple majority.
+
+The resolution scheme may enter into force only if no objection has been expressed by the Council or by the Commission within a period of 24 hours after its transmission by the Board.
+
+The Council or the Commission, as the case may be, shall provide reasons for the exercise of their power of objection.
+
+Where, within 24 hours from the transmission of the resolution scheme by the Board, the Council has approved the proposal of the Commission for modification of the resolution scheme on the ground referred to in point (b) of the third subparagraph or the Commission has objected in accordance with the second subparagraph, the Board shall, within eight hours modify the resolution scheme in accordance with the reasons expressed.
+
+Where the resolution scheme adopted by the Board provides for the exclusion of certain liabilities in the exceptional circumstances referred to in Article 27(5), and where such exclusion requires a contribution by the Fund or an alternative financing source, in order to protect the integrity of the internal market, the Commission may prohibit or require amendments to the proposed exclusion setting out adequate reasons based on an infringement of the requirements laid down in Article 27 and in the delegated act adopted by the Commission on the basis of Article 44(11) of Directive 2014/59/EU.
+
+8\. Where the Council objects to the placing of an institution under resolution on the ground that the public interest criterion referred to in paragraph 1(c) is not fulfilled, the relevant entity shall be wound up in an orderly manner in accordance with the applicable national law.
+
+9\. The Board shall ensure that the necessary resolution action is taken to carry out the resolution scheme by the relevant national resolution authorities. The resolution scheme shall be addressed to the relevant national resolution authorities and shall instruct those authorities, which shall take all necessary measures to implement it in accordance with Article 29, by exercising resolution powers. Where State aid or Fund aid is present, the Board shall act in conformity with a decision on that aid taken by the Commission.
+
+10\. The Commission shall have the power to obtain from the Board any information which it deems to be relevant for performing its tasks under this Regulation. The Board shall have the power to obtain from any person, in accordance with Chapter 5 of this Title, any information necessary for it to prepare and decide upon a resolution action, including updates and supplements of information provided in the resolution plans.
+
+11\. Where the conditions referred to in paragraph 1, first subparagraph, points (a) and (b), of this Article are met, the Board may instruct the national resolution authorities to exercise the powers under national law transposing Article 33a of Directive 2014/59/EU in accordance with the conditions laid down in national law. The national resolution authorities shall implement the instructions of the Board in accordance with Article 29 of this Regulation.
+
+12\. The Board may instruct the national resolution authorities to exercise the powers referred to in Article 84b(2) of Directive 2014/59/EU. The national resolution authorities shall implement the instructions of the Board in accordance with Article 29 of this Regulation.
+
+###### Article 19 — State aid and Fund aid
+
+1\. Where resolution action involves the granting of State aid pursuant to Article 107(1) TFEU or of Fund aid in accordance with paragraph 3 of this Article, the resolution scheme referred to in Article 18(6) of this Regulation shall not enter into force until such time as the Commission adopts a positive or conditional decision, or a decision not to raise objections, concerning the compatibility of the use of such aid with the internal market. The Commission shall, taking into consideration the need for the timely execution of the resolution scheme by the Board, adopt the decision concerning the compatibility of the use of State aid or of Fund aid with the internal market by, at the latest, the time it endorses the resolution scheme or objects to it pursuant to Article 18(7), second subparagraph, of this Regulation, or before the expiry of the period of 24 hours referred to in Article 18(7), fifth subparagraph, of this Regulation, whichever is earlier.
+
+In performing the tasks conferred on them by Article 18, Union institutions shall have in place structural arrangements that ensure operational independence and avoid conflicts of interest that could arise between the functions entrusted with the performance of those tasks and other functions and shall make public, in an appropriate manner, all relevant information on their internal organisation in that regard.
+
+2\. On receiving a communication pursuant to Article 18(1) of this Regulation or on its own initiative, if the Board considers that resolution actions could constitute State aid pursuant to Article 107(1) TFEU, it shall invite the participating Member State or Member States concerned to immediately notify the envisaged measures to the Commission under Article 108(3) TFEU. The Board shall notify the Commission of any case in which it invites one or more Member States to make a notification under Article 108(3) TFEU.
+
+3\. As soon as the Board considers that it may be necessary to use the Fund, it shall informally, promptly and in a confidential manner contact the Commission to discuss the possible use of the Fund, including the legal and economic aspects of its use. Once the Board is sufficiently certain that the resolution scheme envisaged will entail the use of Fund aid, the Board shall formally notify the Commission of the proposed use of the Fund. That notification shall contain all of the information that the Commission needs to make its assessments pursuant to this paragraph and that the Board has in its possession or has the power to obtain in accordance with this Regulation.
+
+Upon receiving the notification referred to in the first subparagraph, the Commission shall assess whether the use of the Fund would distort, or threaten to distort, competition by favouring the beneficiary or any other undertaking so as, insofar as it would affect trade between Member States, to be incompatible with the internal market. The Commission shall apply to the use of the Fund the criteria established for the application of State aid rules as enshrined in Article 107 TFEU. The Board shall provide the Commission with the information in its possession, or which the Board has the power to obtain in accordance with this Regulation, and that the Commission deems necessary to carry out that assessment.
+
+When making its assessment, the Commission shall be guided by all the relevant regulations adopted under Article 109 TFEU, all related and relevant communications and guidance of the Commission, and all measures adopted by the Commission in application of the rules of the Treaties relating to State aid as are in force at the time the assessment is to be made. Those measures shall be applied as if references to the Member State responsible for notifying the aid were references to the Board, and with any other necessary modifications.
+
+The Commission shall adopt a decision on the compatibility of the use of the Fund with the internal market and address that decision to the Board and to the national resolution authorities of the Member State or Member States concerned. That decision may be contingent on conditions, commitments or undertakings in respect of the beneficiary and it shall take into account the need for timely execution of resolution action by the Board.
+
+The decision may also lay down obligations on the Board, the national resolution authorities in the participating Member State or Member States concerned or the beneficiary to enable compliance with it to be monitored. This may include requirements for the appointment of a trustee or other independent person to assist in monitoring. A trustee or other independent person may perform such functions as may be specified in the Commission decision.
+
+Any decision pursuant to this paragraph shall be published in the Official Journal of the European Union.
+
+The Commission may issue a negative decision, addressed to the Board, where it decides that the proposed use of the Fund would be incompatible with the internal market and cannot be implemented in the form proposed by the Board. On receipt of such a decision the Board shall reconsider its resolution scheme and prepare a revised resolution scheme.
+
+4\. Where the Commission has serious doubts as to whether its decision under paragraph 3 is being complied with, it shall conduct the necessary investigations. For that purpose, the Commission may exercise such powers as are available to it under the regulations and other measures referred to in the fourth subparagraph of paragraph 3, and shall be guided by them.
+
+5\. If, on the basis of the investigations carried out by the Commission, and after giving notice to the parties concerned to submit their comments, the Commission considers that the decision under paragraph 3 has not been complied with, it shall issue a decision to the national resolution authority in the participating Member State concerned requiring that authority to recover the misused amounts within a period to be determined by the Commission. The Fund aid to be recovered pursuant to a recovery decision shall include interest at an appropriate rate fixed by the Commission and shall be paid over to the Board.
+
+The Board shall pay any amounts received under the first subparagraph into the Fund and take such amounts into consideration when determining contributions in accordance with Articles 70 and 71.
+
+The recovery procedure referred to in the first subparagraph shall respect the right to good administration and the right of access to documents, of the beneficiaries, as laid down in Articles 41 and 42 of the Charter.
+
+6\. Without prejudice to the reporting obligations that the Commission may establish in its decision under paragraph 3 of this Article, the Board shall submit to the Commission annual reports assessing the compliance of the use of the Fund with the decision under that paragraph, for the drawing up of which the Board shall make use of its powers under Article 34.
+
+7\. Any Member State or any person, undertaking or association whose interests may be affected by the use of the Fund, in particular the entities referred to in Article 2, shall have the right to inform the Commission of any suspected misuse of the Fund incompatible with the decision under paragraph 3 of this Article.
+
+8\. The Commission shall be empowered to adopt delegated acts in accordance with Article 93 concerning detailed rules of procedure concerning:
+
+(a) the calculation of the interest rate to be applied in the event of a recovery decision in accordance with paragraph 5;
+
+(b) the guarantees of the right to good administration and the right of access to documents referred to in paragraph 5.
+
+9\. Where the Commission, following a recommendation of the Board or on its own initiative, considers that the application of resolution tools and actions does not respond to the criteria on the basis of which its initial decision under paragraph 3 was made, it may review such a decision and adopt the appropriate amendments.
+
+10\. By way of derogation from paragraph 3, the Council may, on an application of a Member State or the Board, within seven days of such application being made, unanimously decide that the use of the Fund is to be considered compatible with the internal market, where such a decision is justified by exceptional circumstances. The Commission shall take a decision on the case where the Council has not decided within that seven-day period.
+
+11\. Participating Member States shall ensure that their national resolution authorities have the powers necessary to ensure compliance with any conditions laid down in a Commission decision pursuant to paragraph 3 and to recover misused amounts pursuant to a Commission decision under paragraph 5.
+
+###### Article 20 — Valuation for the purposes of resolution
+
+1\. Before deciding on resolution action or the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21  , the Board shall ensure that a fair, prudent and realistic valuation of the assets and liabilities of an entity referred to in Article 2 is carried out by a person independent from any public authority, including the Board and the national resolution authority, and from the entity concerned.
+
+2\. Subject to paragraph 15, where all of the requirements laid down in paragraphs 1 and 4 to 9 are met, the valuation shall be considered to be definitive.
+
+3\. Where an independent valuation in accordance with paragraph 1 is not possible, the Board may carry out a provisional valuation of the assets and liabilities of the entity referred to in Article 2, in accordance with paragraph 10 of this Article.
+
+4\. The objective of the valuation shall be to assess the value of the assets and liabilities of an entity referred to in Article 2 that meets the conditions for resolution of Articles 16 and 18.
+
+5\. The purposes of the valuation shall be:
+
+(a) to inform the determination of whether the conditions for resolution or the conditions for the write-down or conversion of capital instruments and eligible liabilities in accordance with Article 21  are met;
+
+(b) if the conditions for resolution are met, to inform the decision on the appropriate resolution action to be taken in respect of an entity referred to in Article 2;
+
+(c) when the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21(7) is applied, to inform the decision on the extent of the cancellation or dilution of instruments of ownership, and the extent of the write-down or conversion of relevant capital instruments and eligible liabilities;
+
+(d) when the bail-in tool is applied, to inform the decision on the extent of the writing down or conversion of bail-inable liabilities;
+
+(e) when the bridge institution tool or asset separation tool is applied, to inform the decision on the assets, rights, liabilities or instruments of ownership to be transferred and the decision on the value of any consideration to be paid to the institution under resolution or, as the case may be, to the owners of the instruments of ownership;
+
+(f) when the sale of business tool is applied, to inform the decision on the assets, rights, liabilities or instruments of ownership to be transferred and to inform the Board's understanding of what constitutes commercial terms for the purposes of Article 24(2)(b);
+
+(g) in all cases, to ensure that any losses on the assets of an entity referred to in Article 2 are fully recognised at the moment the resolution tools are applied or the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21  is exercised.
+
+6\. Without prejudice to the Union State aid framework, where applicable, the valuation shall be based on prudent assumptions, including as to rates of default and severity of losses. The valuation shall not assume any potential future provision of any extraordinary public financial support, any central bank emergency liquidity assistance, or any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms to an entity referred to in Article 2 from the point at which resolution action is taken or the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 21  is exercised. Furthermore, the valuation shall take account of the fact that, if any resolution tool is applied:
+
+(a) the Board may recover any reasonable expenses properly incurred from the institution under resolution, in accordance with Article 22(6);
+
+(b) the Fund may charge interest or fees in respect of any loans or guarantees provided to the institution under resolution, in accordance with Article 76.
+
+7\. The valuation shall be supplemented by the following information as appearing in the accounting books and records of an entity referred to in Article 2:
+
+(a) an updated balance sheet and a report on the financial position of an entity referred to in Article 2;
+
+(b) an analysis and an estimate of the accounting value of the assets;
+
+(c) the list of outstanding on-balance-sheet and off-balance-sheet liabilities shown in the books and records of an entity referred to in Article 2, with an indication of the respective credits and priority of claims referred to in Article 17.
+
+8\. Where appropriate, to inform the decisions referred to in paragraph 5(e) and (f) of this Article, the information in paragraph 7(b) of this Article may be complemented by an analysis and estimate of the value of the assets and liabilities of an entity referred to in Article 2 on a market value basis.
+
+9\. The valuation shall indicate the subdivision of the creditors in classes in accordance with the priority of claims referred to in Article 17 and an estimate of the treatment that each class of shareholders and creditors would have been expected to receive, if an entity referred to in Article 2 were wound up under normal insolvency proceedings. That estimate shall not affect the application of the ‘no creditor worse off’ principle referred to in Article 15(1)(g).
+
+10\. Where, due to urgency in the circumstances of the case, either it is not possible to comply with the requirements laid down in paragraphs 7 and 9, or paragraph 3 applies, a provisional valuation shall be carried out. The provisional valuation shall comply with the requirements laid down in paragraph 4 and, in so far as reasonably practicable in the circumstances, with the requirements laid down in paragraphs 1, 7 and 9.
+
+The provisional valuation referred to in the first subparagraph shall include a buffer for additional losses, with appropriate justification.
+
+11\. A valuation that does not comply with all of the requirements laid down in paragraphs 1 and 4 to 9 shall be considered to be provisional until an independent person as referred to in paragraph 1 has carried out a valuation that is fully compliant with all of the requirements laid down in those paragraphs. That ex-post definitive valuation shall be carried out as soon as practicable. It may be carried out either separately from the valuation referred to in paragraphs 16, 17 and 18, or simultaneously with and by the same independent person as that valuation, but shall be distinct from it.
+
+The purposes of the ex-post definitive valuation shall be:
+
+(a) to ensure that any losses on the assets of an entity referred to in Article 2 are fully recognised in the books of accounts of that entity;
+
+(b) to inform the decision to write back creditors' claims or to increase the value of the consideration paid, in accordance with paragraph 12 of this Article.
+
+12\. In the event that the ex-post definitive valuation's estimate of the net asset value of an entity referred to in Article 2 is higher than the provisional valuation's estimate of the net asset value of that entity, the Board may request the national resolution authority to:
+
+(a) exercise its power to increase the value of the claims of creditors or owners of relevant capital instruments which have been written down under the bail-in tool;
+
+(b) instruct a bridge institution or asset management vehicle to make a further payment of consideration in respect of the assets, rights or liabilities to an institution under resolution, or as the case may be, in respect of the instruments of ownership to the owners of those instruments of ownership.
+
+13\. Notwithstanding paragraph 1, a provisional valuation conducted in accordance with paragraphs 10 and 11 shall be a valid basis for the Board to decide on resolution actions, including instructing national resolution authorities to take control of a failing institution or on the exercise of the write-down or conversion power of relevant capital instruments and eligible liabilities in accordance with Article 21  .
+
+14\. The Board shall establish and maintain arrangements to ensure that the assessment for the application of the bail-in tool in accordance with Article 27 and the valuation referred to in paragraphs 1 to 15 of this Article are based on information about the assets and liabilities of the institution under resolution that is as up to date and complete as is reasonably possible.
+
+15\. The valuation shall be an integral part of the decision on the application of a resolution tool or on the exercise of a resolution power or the decision on the exercise of the write-down or conversion power of capital instruments and eligible liabilities in accordance with Article 21  . The valuation itself shall not be subject to a separate right of appeal but may be subject to an appeal together with the decision of the Board.
+
+16\. For the purposes of assessing whether shareholders and creditors would have received better treatment if the institution under resolution had entered into normal insolvency proceedings, the Board shall ensure that a valuation is carried out by an independent person as referred to in paragraph 1 as soon as possible after the resolution action or actions have been effected. That valuation shall be distinct from the valuation carried out under paragraphs 1 to 15.
+
+17\. The valuation referred to in paragraph 16 shall determine:
+
+(a) the treatment that shareholders and creditors, or the relevant deposit guarantee schemes, would have received if an institution under resolution with respect to which the resolution action or actions have been effected, had entered normal insolvency proceedings at the time when the decision on the resolution action was taken;
+
+(b) the actual treatment that shareholders and creditors have received in the resolution of an institution under resolution; and
+
+(c) whether there is any difference between the treatment referred to in point (a) of this paragraph and the treatment referred to in point (b) of this paragraph.
+
+18\. The valuation referred to in paragraph 16 shall:
+
+(a) assume that an institution under resolution with respect to which the resolution action or actions have been effected, would have entered normal insolvency proceedings at the time when the decision on the resolution action was taken;
+
+(b) assume that the resolution action or actions had not been effected;
+
+(c) disregard any provision of extraordinary public financial support to an institution under resolution.
+
+###### Article 21 — Write-down or conversion of capital instruments and eligible liabilities
+
+1\. The Board shall exercise the power to write down or convert relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  acting under the procedure laid down in Article 18, in relation to the entities and groups referred to in Article 7(2), and to the entities and groups referred to in Article 7(4)(b) and (5), where the conditions for the application of those paragraphs are met, only where it assesses, in its executive session, on receiving a communication pursuant to the second subparagraph or on its own initiative, that one or more of the following conditions are met:
+
+(a) where the determination has been made that the conditions for resolution specified in Articles 16 and 18 have been met, before any resolution action is taken;
+
+(b) the entity will no longer be viable unless the relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  are written down or converted into equity;
+
+(c) in the case of relevant capital instruments issued by a subsidiary and where those relevant capital instruments are recognised for the purposes of meeting own funds requirements on an individual basis and on a consolidated basis, unless the write-down or conversion power is exercised in relation to those instruments, the group will no longer be viable;
+
+(d) in the case of relevant capital instruments issued at the level of the parent undertaking and where those relevant capital instruments are recognised for the purposes of meeting own funds requirements on an individual basis at the level of the parent undertaking or on a consolidated basis, unless the write-down or conversion power is exercised in relation to those instruments, the group will no longer be viable;
+
+(e) extraordinary public financial support is required by the entity or group, except in any of the circumstances set out in point (d)(iii) of Article 18(4).
+
+The assessment of the conditions referred to in the first subparagraph, points (a) to (d), of this paragraph, shall be made by the ECB for entities referred to in Article 7(2), point (a), or by the relevant national competent authority for entities referred to in Article 7(2), point (b), Article 7(4), point (b), and Article 7(5), and by the Board in its executive session, in accordance with the allocation of tasks pursuant to the procedure laid down in Article 18(1) and (2).
+
+3\. For the purposes of paragraph 1 of this Article, an entity referred to in Article 2 or a group shall be deemed to be no longer viable only if both of the following conditions are met:
+
+(a) that entity or group is failing or is likely to fail;
+
+(b) having regard to timing and other relevant circumstances, there is no reasonable prospect that any action, including alternative private sector measures or supervisory action (including early intervention measures), other than the write-down or conversion of relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  , independently or in combination with resolution action, would prevent the failure of that entity or group within a reasonable timeframe.
+
+4\. For the purposes of point (a) of paragraph 3 of this Article, that entity shall be deemed to be failing or to be likely to fail where one or more of the circumstances referred to in Article 18(4) occur.
+
+5\. For the purposes of point (a) of paragraph 3, a group shall be deemed to be failing or to be likely to fail where the group infringes, or there are objective elements to support a determination that the group, in the near future, will infringe its consolidated prudential requirements in a way that would justify action by the ECB or the national competent authority, including but not limited to the fact that the group has incurred or is likely to incur losses that will deplete all or a significant amount of its own funds.
+
+6\. A relevant capital instrument issued by a subsidiary shall not be written down to a greater extent or converted on worse terms pursuant to Article 59(3)(c) of Directive 2014/59/EU than equally ranked capital instruments at the level of the parent undertaking which have been written down or converted.
+
+7\. If one or more of the conditions referred to in paragraph 1 are met, the Board, acting under the procedure laid down in Article 18, shall determine whether the powers to write down or convert relevant capital instruments and eligible liabilities are to be exercised independently or in combination with a resolution action in accordance with the procedure under Article 18.
+
+Where relevant capital instruments and eligible liabilities have been purchased by the resolution entity indirectly through other entities in the same resolution group, the power to write down or convert those relevant capital instruments and eligible liabilities shall be exercised together with the exercise of the same power at the level of the parent undertaking of the entity concerned or at the level of other parent undertakings that are not resolution entities, so that the losses are effectively passed on to, and the entity concerned is recapitalised by, the resolution entity.
+
+After the exercise of the power to write down or convert relevant capital instruments or eligible liabilities independently of resolution action, the valuation provided for in Article 20(16) shall be carried out, and point (e) of Article 76(1) shall apply.
+
+7a. The power to write down or convert eligible liabilities independently of resolution action may be exercised only in relation to eligible liabilities that meet the conditions referred to in point (a) of Article 12g(2) of this Regulation, except the condition related to the remaining maturity of liabilities as set out in Article 72c(1) of Regulation (EU) No 575/2013.
+
+When that power is exercised, the write down or conversion shall be done in accordance with the principle referred to in point (g) of Article 15(1).
+
+7b. Where a resolution action is taken in relation to a resolution entity or, in exceptional circumstances in deviation from the resolution plan, in relation to an entity that is not a resolution entity, the amount that is reduced, written down or converted in accordance with Article 21(10) at the level of such an entity shall count towards the thresholds laid down in point (a) of Article 27(7) that apply to the entity concerned.
+
+8\. Where the Board, acting under the procedure laid down in Article 18 of this Regulation, determines that one or more of the conditions referred to in paragraph 1 of this Article are met, but the conditions for resolution in accordance with Article 18(1) of this Regulation are not met, it shall instruct, without delay, the national resolution authorities to exercise the write-down or conversion powers in accordance with Articles 59 and 60 of Directive 2014/59/EU.
+
+The Board shall ensure that before national resolution authorities exercise the power to write down or convert relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  , a valuation of the assets and liabilities of an entity referred to in Article 2 or a group is carried out in accordance with Article 20(1) to (15). That valuation shall form the basis of the calculation of the write-down to be applied to the relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  in order to absorb losses and the level of conversion to be applied to relevant capital instruments, and eligible liabilities as referred to in paragraph 7a  in order to recapitalise the entity referred to in Article 2 or the group.
+
+9\. Where one or more of the conditions referred to in paragraph 1 of this Article are met in relation to an entity referred to in that paragraph, and the conditions referred to in Article 18(1) are also met in relation to that entity or to an entity belonging to the same group, the procedure laid down in Article 18(6), (7) and (8) shall apply. The Board shall adopt a single resolution scheme covering the entity for which the conditions referred to in Article 18(1) are met as well as any entity referred to in paragraph 1 of this Article.
+
+10\. The Board shall ensure that the national resolution authorities exercise the write-down or conversion powers without delay, in accordance with the priority of claims pursuant to Article 17 and in a way that produces the following results:
+
+(a) Common Equity Tier 1 items are reduced first in proportion to the losses and to the extent of their capacity;
+
+(b) the principal amount of Additional Tier 1 instruments is written down or converted into Common Equity Tier 1 instruments or both, to the extent required to achieve the resolution objectives set out in Article 14 or to the extent of the capacity of the relevant capital instruments, whichever is lower;
+
+(c) the principal amount of Tier 2 instruments is written down or converted into Common Equity Tier 1 instruments or both, to the extent required to achieve the resolution objectives set out in Article 14 or to the extent of the capacity of the relevant capital instruments, whichever is lower;
+
+(d) the principal amount of eligible liabilities as referred to in paragraph 7a is written down or converted into Common Equity Tier 1 instruments or both, to the extent required to achieve the resolution objectives set out in Article 14 or to the extent of the capacity of the relevant eligible liabilities, whichever is lower.
+
+11\. The national resolution authorities shall implement the instructions of the Board and exercise the write-down or conversion of relevant capital instruments in accordance with Article 29.
+
+###### Article 22 — General principles of resolution tools
+
+1\. Where the Board decides to apply a resolution tool to an entity or group referred to in Article 7(2) or to an entity or group referred to in Article 7(4)(b) and (5) where the conditions for the application of those paragraphs are met, and that resolution action would result in losses being borne by creditors or their claims being converted, the Board shall instruct the national resolution authorities to exercise the power to write down and convert relevant capital instruments in accordance with Article 21 immediately before or together with the application of the resolution tool.
+
+2\. The resolution tools referred to in point (b) of Article 18(6) are the following:
+
+(a) the sale of business tool;
+
+(b) the bridge institution tool;
+
+(c) the asset separation tool;
+
+(d) the bail-in tool.
+
+3\. When adopting the resolution scheme referred to in Article 18(6), the Board shall take into consideration the following factors:
+
+(a) the assets and liabilities of the institution under resolution on the basis of the valuation pursuant to Article 20;
+
+(b) the liquidity position of the institution under resolution;
+
+(c) the marketability of the franchise value of the institution under resolution in the light of the competitive and economic conditions of the market;
+
+(d) the time available.
+
+4\. The resolution tools shall be applied to meet the resolution objectives specified in Article 14, in accordance with the resolution principles specified in Article 15. They may be applied either individually or in any combination, except for the asset separation tool which may be applied only together with another resolution tool.
+
+5\. Where the resolution tools referred to in point (a) or (b) of paragraph 2 of this Article are used to transfer only part of the assets, rights or liabilities of the institution under resolution, the residual entity referred to in Article 2 from which the assets, rights or liabilities have been transferred, shall be wound up under normal insolvency proceedings.
+
+6\. The Board may recover any reasonable expenses properly incurred in connection with the use of the resolution tools or powers in one or more of the following ways:
+
+(a) as a deduction from any consideration paid by a recipient to the institution under resolution or, as the case may be, to the owners of instruments of ownership;
+
+(b) from the institution under resolution, as a preferred creditor; or
+
+(c) from any proceeds generated as a result of the termination of the operation of the bridge institution or the asset management vehicle, as a preferred creditor.
+
+Any proceeds received by national resolution authorities in connection with the use of the Fund shall be reimbursed to the Board.
+
+###### Article 23 — Resolution Scheme
+
+The resolution scheme adopted by the Board under Article 18 shall establish, in accordance with any decision on State aid or Fund aid, the details of the resolution tools to be applied to the institution under resolution concerning at least the measures referred to in Article 24(2), Article 25(2), Article 26(2) and Article 27(1), to be implemented by the national resolution authorities in accordance with the relevant provisions of Directive 2014/59/EU as transposed into national law, and determine the specific amounts and purposes for which the Fund shall be used.
+
+The resolution scheme shall outline the resolution actions that should be taken by the Board in relation to the Union parent undertaking or particular group entities established in the participating Member States with the aim of meeting the resolution objectives and principles as referred to in Articles 14 and 15.
+
+When adopting a resolution scheme, the Board, the Council and the Commission shall take into account and follow the resolution plan as referred to in Article 8 unless the Board assesses, taking into account the circumstances of the case, that the resolution objectives will be achieved more effectively by taking actions which are not provided for in the resolution plan.
+
+In the course of the resolution process, the Board may amend and update the resolution scheme as appropriate in light of the circumstances of the case. For amendments and updates the procedure laid down in Article 18 shall apply.
+
+In addition, the resolution scheme shall provide, where appropriate, for the appointment by the national resolution authorities of a special manager for the institution under resolution pursuant to Article 35 of Directive 2014/59/EU. The Board may establish that the same special manager is appointed for all of the entities affiliated to a group where that is necessary in order to facilitate solutions redressing the financial soundness of the entities concerned.
+
+###### Article 24 — Sale of business tool
+
+1\. Within the resolution scheme, the sale of business tool shall consist of the transfer to a purchaser that is not a bridge institution of the following:
+
+(a) instruments of ownership issued by an institution under resolution; or
+
+(b) all or any assets, rights or liabilities of an institution under resolution.
+
+2\. Concerning the sale of business tool, the resolution scheme shall establish:
+
+(a) the instruments, assets, rights and liabilities to be transferred by the national resolution authority in accordance with Article 38(1) and (7) to (11) of Directive 2014/59/EU;
+
+(b) the commercial terms, having regard to the circumstances and the costs and expenses incurred in the resolution process, pursuant to which the national resolution authority shall make the transfer in accordance with Article 38(2), (3) and (4) of Directive 2014/59/EU;
+
+(c) whether the transfer powers may be exercised by the national resolution authority more than once in accordance with Article 38(5) and (6) of Directive 2014/59/EU;
+
+(d) the arrangements for the marketing by the national resolution authority of that entity or those instruments, assets, rights and liabilities in accordance with Article 39(1) and (2) of Directive 2014/59/EU;
+
+(e) whether the compliance with the marketing requirements by the national resolution authority is likely to undermine the resolution objectives in accordance with paragraph 3 of this Article.
+
+3\. The Board shall apply the sale of business tool without complying with the marketing requirements laid down in point (e) of paragraph 2 when it determines that compliance with those requirements would be likely to undermine one or more of the resolution objectives and in particular where the following conditions are met:
+
+(a) it considers that there is a material threat to financial stability arising from or aggravated by the failure or likely failure of the institution under resolution; and
+
+(b) it considers that compliance with those requirements would be likely to undermine the effectiveness of the sale of business tool in addressing that threat or achieving the resolution objective specified in point (b) of Article 14(2).
+
+###### Article 25 — Bridge institution tool
+
+1\. Within the resolution scheme, the bridge institution tool shall consist of the transfer to a bridge institution of any of the following:
+
+(a) instruments of ownership issued by one or more institutions under resolution;
+
+(b) all or any assets, rights or liabilities of one or more institutions under resolution.
+
+2\. With regard to the bridge institution tool, the resolution scheme shall establish:
+
+(a) the instruments, assets, rights and liabilities to be transferred to a bridge institution by the national resolution authority in accordance with Article 40(1) to (12) of Directive 2014/59/EU;
+
+(b) the arrangements for the setting up, the operation and the termination of the bridge institution by the national resolution authority in accordance with Article 41(1), (2), (3) and (5) to (9) of Directive 2014/59/EU;
+
+(c) the arrangements for the marketing of the bridge institution or its assets or liabilities by the national resolution authority in accordance with Article 41(4) of Directive 2014/59/EU.
+
+3\. The Board shall ensure that the total value of liabilities transferred by the national resolution authority to the bridge institution does not exceed the total value of the rights and assets transferred from the institution under resolution or provided by other sources.
+
+###### Article 26 — Asset separation tool
+
+1\. Within the resolution scheme, the asset separation tool shall consist of the transfer of assets, rights or liabilities of an institution under resolution or a bridge institution to one or more asset management vehicles.
+
+2\. Concerning the asset separation tool, the resolution scheme shall establish:
+
+(a) the assets, rights and liabilities to be transferred by the national resolution authority to an asset management vehicle in accordance with Article 42(1) to (5) and (8) to (13) of Directive 2014/59/EU;
+
+(b) the consideration for which the assets, rights and liabilities are to be transferred by the national resolution authority to the asset management vehicle in accordance with the principles established in Article 20 of this Regulation, with Article 42(7) of Directive 2014/59/EU and with the Union State aid framework.
+
+Point (b) of the first subparagraph shall not prevent the consideration having nominal or negative value.
+
+###### Article 27 — Bail-in tool
+
+1\. The bail-in tool may be applied for any of the following purposes:
+
+(a) to recapitalise an entity referred to in Article 2 of this Regulation that meets the conditions for resolution to the extent sufficient to restore its ability to comply with the conditions for authorisation (to the extent that those conditions apply to the entity) and to continue to carry out the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU, where the entity is authorised under those Directives, and to sustain sufficient market confidence in the institution or entity;
+
+(b) to convert to equity or reduce the principal amount of claims or debt instruments that are transferred:
+
+(i) to a bridge institution with a view to providing capital for that bridge institution; or
+
+(ii) under the sale of business tool or the asset separation tool.
+
+Within the resolution scheme, concerning the bail-in tool, the following shall be established:
+
+(a) the aggregate amount by which bail-inable liabilities  must be reduced or converted, in accordance with paragraph 13;
+
+(b) the liabilities that may be excluded in accordance with paragraphs 5 to 14;
+
+(c) the objectives and minimum content of the business reorganisation plan to be submitted in accordance with paragraph 16.
+
+2\. The bail-in tool may be applied for the purpose referred to in point (a) of paragraph 1 only if there is a reasonable prospect that the application of that tool, together with other relevant measures including measures implemented in accordance with the business reorganisation plan required by paragraph 16 will, in addition to achieving relevant resolution objectives, restore the entity in question to financial soundness and long-term viability.
+
+Any of the resolution tools referred to in Article 22(2)(a), (b) and (c), and the bail-in tool referred to in point (d) of that paragraph, shall apply, as appropriate, where the conditions laid down in the first subparagraph are not met.
+
+3\. The following liabilities, whether they are governed by the law of a Member State or of a third country, shall not be subject to write-down or conversion:
+
+(a) covered deposits;
+
+(b) secured liabilities including covered bonds and liabilities in the form of financial instruments used for hedging purposes which form an integral part of the cover pool and which, in accordance with national law, are secured in a way similar to covered bonds;
+
+(c) any liability that arises by virtue of the holding by an institution or entity referred to in Article 2 of this Regulation of client assets or client money, including client assets or client money held on behalf of UCITS as defined in Article 1(2) of Directive 2009/65/EC or of AIFs as defined in Article 4(1)(a) of Directive 2011/61/EU of the European Parliament and of the Council ( 9 ), provided that such client is protected under the applicable insolvency law;
+
+(d) any liability that arises by virtue of a fiduciary relationship between an entity referred to in Article 2 (as fiduciary) and another person (as beneficiary), provided that such beneficiary is protected under the applicable insolvency or civil law;
+
+(e) liabilities to institutions, excluding entities that are part of the same group, with an original maturity of less than seven days;
+
+(f) liabilities with a remaining maturity of less than seven days, owed to systems or operators of systems designated in accordance with Directive 98/26/EC of the European Parliament and of the Council ( 10 ) or to their participants and arising from the participation in such a system, or to CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation;
+
+(g) a liability to any one of the following:
+
+(i) an employee, in relation to accrued salary, pension benefits or other fixed remuneration, except for the variable component of remuneration that is not regulated by a collective bargaining agreement;
+
+(ii) a commercial or trade creditor arising from the provision to the institution or entity referred to in Article 2 of goods or services that are critical to the daily functioning of its operations, including IT services, utilities and the rental, servicing and upkeep of premises;
+
+(iii) tax and social security authorities, provided that those liabilities are preferred under the applicable law;
+
+(iv) deposit guarantee schemes arising from contributions due in accordance with Directive 2014/49/EU;
+
+(h) liabilities to entities referred to in point (a), (b), (c) or (d) of Article 1(1) of Directive 2014/59/EU that are part of the same resolution group without being themselves resolution entities, regardless of their maturities, except where those liabilities rank below ordinary unsecured liabilities under the relevant national law of the participating Member State governing normal insolvency proceedings applicable on 28 December 2020; in cases where that exception applies, the Board shall assess whether the amount of items complying with Article 12g(2) is sufficient to support the implementation of the preferred resolution strategy.
+
+Point (g)(i) of the first subparagraph shall not apply to the variable component of the remuneration of material risk takers as identified in Article 92(2) of Directive 2013/36/EU.
+
+4\. The scope of the bail-in tool referred to in paragraph 3 of this Article shall not prevent, where appropriate, the exercise of the bail-in powers to any part of a secured liability or a liability for which collateral has been pledged that exceeds the value of the assets, pledge, lien or collateral against which it is secured or to any amount of a deposit that exceeds the coverage level provided for in Article 6 of Directive 2014/49/EU.
+
+The Board shall ensure that all secured assets relating to a covered bond cover pool remain unaffected, segregated and with enough funding.
+
+Without prejudice to the large exposure rules in Regulation (EU) No 575/2013 and Directive 2013/36/EU, and in order to provide for the resolvability of entities and groups, the Board shall instruct the national resolution authorities to limit, in accordance with Article 10(11)(b) of this Regulation, the extent to which other institutions hold bail-inable liabilities  , save for liabilities that are held at entities that are part of the same group.
+
+5\. In exceptional circumstances, where the bail-in tool is applied, certain liabilities may be excluded or partially excluded from the application of the write-down or conversion powers where:
+
+(a) it is not possible to bail-in that liability within a reasonable time notwithstanding the good faith efforts of the relevant national resolution authority;
+
+(b) the exclusion is strictly necessary and is proportionate to achieve the continuity of critical functions and core business lines in a manner that maintains the ability of the institution under resolution to continue key operations, services and transactions;
+
+(c) the exclusion is strictly necessary and proportionate to avoid giving rise to widespread contagion, in particular as regards eligible deposits held by natural persons and micro, small and medium-sized enterprises, which would severely disrupt the functioning of financial markets, including of financial market infrastructures, in a manner that could cause a serious disturbance to the economy of a Member State or of the Union; or
+
+(d) the application of the bail-in tool to those liabilities would cause a destruction in value such that the losses borne by other creditors would be higher than if those liabilities were excluded from bail-in.
+
+The Board shall carefully assess whether liabilities to institutions or entities that are part of the same resolution group without themselves being resolution entities and that are not excluded from the application of write-down and conversion powers under point (h) of paragraph (3) should be excluded or partially excluded under points (a) to (d) of the first subparagraph to ensure the effective implementation of the resolution strategy.
+
+Where a bail-inable liability or class of bail-inable liabilities is excluded or partially excluded under this paragraph, the level of write-down or conversion applied to other bail-inable liabilities may be increased to take account of such exclusions, provided that the level of write-down and conversion applied to other bail-inable liabilities complies with the principle laid down in point (g) of Article 15(1).
+
+6\. Where a bail-inable liability or class of bail-inable abilities is excluded or partially excluded pursuant to paragraph 5, and the losses that would have been borne by those liabilities have not been passed on fully to other creditors, a contribution from the Fund may be made to the institution under resolution to do one or both of the following:
+
+(a) cover any losses which have not been absorbed by bail-inable liabilities and restore the net asset value of the institution under resolution to zero in accordance with point (a) of paragraph 13;
+
+(b) purchase instruments of ownership or capital instruments in the institution under resolution, in order to recapitalise the institution in accordance with point (b) of paragraph 13.
+
+7\. The Fund may make a contribution referred to in paragraph 6 only where:
+
+(a) a contribution to loss absorption and recapitalisation equal to an amount not less than 8 % of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20(1) to (15), has been made by shareholders, the holders of relevant capital instruments and other bail-inable liabilities  through write-down, conversion or otherwise; and
+
+(b) the contribution from the Fund does not exceed 5 % of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20(1) to (15).
+
+8\. The contribution of the Fund referred to in paragraph 7 of this Article may be financed by:
+
+(a) the amount available to the Fund which has been raised through contributions by entities referred to in Article 2 of this Regulation in accordance with the rules laid down in Directive 2014/59/EU and in Article 67(4) and Articles 70 and 71 of this Regulation;
+
+(b) where the amounts referred to in point (a) of this paragraph are insufficient, amounts raised from alternative funding means in accordance with Articles 73 and 74.
+
+9\. In extraordinary circumstances, further funding may be sought from alternative financing sources after:
+
+(a) the 5 % limit specified in point (b) of paragraph 7 has been reached; and
+
+(b) all unsecured, non-preferred liabilities, other than eligible deposits, have been written down or converted in full.
+
+10\. As an alternative or in addition, where the conditions laid down in points (a) and (b) of paragraph 9 are met, a contribution may be made from resources which have been raised through ex-ante contributions in accordance with Article 70 and which have not yet been used.
+
+11\. For the purposes of this Regulation, Article 44(8) of Directive 2014/59/EU shall not apply.
+
+12\. When taking the decision referred to in paragraph 5, due consideration shall be given to:
+
+(a) the principle that losses should be borne first by shareholders and next, in general, by creditors of the institution under resolution in order of preference;
+
+(b) the level of loss absorbing capacity that would remain in the institution under resolution if the liability or class of liabilities were excluded; and
+
+(c) the need to maintain adequate resources for resolution financing.
+
+13\. The Board shall assess, on the basis of a valuation that complies with the requirements of Article 20(1) to (15), the aggregate of:
+
+(a) where relevant, the amount by which bail-inable liabilities  must be written down in order to ensure that the net asset value of the institution under resolution is equal to zero; and
+
+(b) where relevant, the amount by which bail-inable liabilities  must be converted into shares or other types of capital instruments in order to restore the Common Equity Tier 1 capital ratio of either:
+
+(i) the institution under resolution; or
+
+(ii) the bridge institution.
+
+The assessment referred to in the first subparagraph shall establish the amount by which bail-inable liabilities  need to be written down or converted in order to restore the Common Equity Tier 1 capital ratio of the institution under resolution, or, where applicable, establish the ratio of the bridge institution taking into account any contribution of capital by the Fund pursuant to point (d) of Article 76(1), and to sustain sufficient market confidence in the institution under resolution or the bridge institution and enable it to continue to meet, for at least one year, the conditions for authorisation and to continue to carry out the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU.
+
+Where the Board intends to use the asset separation tool referred to in Article 26, the amount by which bail-inable liabilities  need to be reduced shall take into account a prudent estimate of the capital needs of the asset management vehicle as appropriate.
+
+14\. Exclusions under paragraph 5 may be applied either to completely exclude a liability from write-down or to limit the extent of the write-down applied to that liability.
+
+15\. The write-down and conversion powers shall comply with the requirements on the priority of claims laid down in Article 17 of this Regulation.
+
+16\. The national resolution authority shall immediately submit to the Board the business reorganisation plan received in accordance with Article 52(1), (2) and (3) of Directive 2014/59/EU from the management body or the person or persons appointed in accordance with Article 72(1) thereof.
+
+Within two weeks from the date of submission of the business reorganisation plan, the relevant national resolution authority shall provide the Board with its assessment of the plan. Within one month from the date of submission of the business reorganisation plan, the Board shall assess the likelihood that the plan, if implemented, will restore the long term viability of an entity referred to in Article 2. The assessment shall be completed in agreement with the national competent authority or the ECB, where relevant.
+
+Where the Board is satisfied that the plan would achieve that objective, it shall allow the national resolution authority to approve the plan in accordance with Article 52(7) of Directive 2014/59/EU. Where the Board is not satisfied that the plan would achieve that objective, it shall instruct the national resolution authority to notify the management body or the person or persons appointed in accordance with Article 72(1) of that Directive of its concerns and require the amendment of the plan in a way that addresses those concerns in accordance with Article 52(8) of that Directive. In both cases this shall be done in agreement with the national competent authority or the ECB, where relevant.
+
+Within two weeks from the date of receipt of such a notification, the management body or the person or persons appointed in accordance with Article 72(1) of Directive 2014/59/EU shall submit an amended plan to the national resolution authority for approval. The national resolution authority shall submit to the Board the amended plan and its assessment of such plan. The Board shall assess the amended plan, and shall instruct the national resolution authority to notify the management body or the person or persons appointed in accordance with Article 72(1) of Directive 2014/59/EU within one week whether it is satisfied that the plan, as amended, addresses the concerns notified or whether further amendment is required.
+
+The Board shall communicate the group business reorganisation plan to EBA.
+
+###### Article 28 — Monitoring by the Board
+
+1\. The Board shall closely monitor the execution of the resolution scheme by the national resolution authorities. For that purpose, the national resolution authorities shall:
+
+(a) cooperate with and assist the Board in the performance of its monitoring duty;
+
+(b) provide, at regular intervals established by the Board, accurate, reliable and complete information on the execution of the resolution scheme, the application of the resolution tools and the exercise of the resolution powers, that might be requested by the Board, including on the following:
+
+(i) the operation and financial situation of the institution under resolution, the bridge institution and the asset management vehicle;
+
+(ii) the treatment that shareholders and creditors would have received in the liquidation of the institution under normal insolvency proceedings;
+
+(iii) any ongoing court proceedings relating to the liquidation of the assets of the institution under resolution, to challenges to the resolution decision and to the valuation or relating to applications for compensation filed by the shareholders or creditors;
+
+(iv) the appointment, removal or replacement of evaluators, administrators, accountants, lawyers and other professionals that may be necessary to assist the national resolution authority, and on the performance of their duties;
+
+(v) any other matter that is relevant for the execution of the resolution scheme including any potential infringement of the safeguards provided for in Directive 2014/59/EU that may be referred to by the Board;
+
+(vi) the extent to which, and manner in which, the powers of the national resolution authorities referred to in Articles 63 to 72 of Directive 2014/59/EU are exercised by them;
+
+(vii) the economic viability, feasibility, and implementation of the business reorganisation plan provided for in Article 27(16).
+
+The national resolution authorities shall submit to the Board a final report on the execution of the resolution scheme.
+
+2\. On the basis of the information provided, the Board may give instructions to the national resolution authorities as to any aspect of the execution of the resolution scheme, and in particular the elements referred to in Article 23 and to the exercise of the resolution powers.
+
+3\. Where necessary in order to achieve the resolution objectives, the resolution scheme may be amended. The procedure laid down in Article 18 shall apply.
+
+###### Article 29 — Implementation of decisions under this Regulation
+
+1\. National resolution authorities shall take the necessary action to implement decisions referred to in this Regulation, in particular by exercising control over the entities and groups referred to in Article 7(2), and the entities and groups referred to in Article 7(4)(b) and (5) where the conditions for the application of those paragraphs are met, by taking the necessary measures in accordance with Article 35 or 72 of Directive 2014/59/EU and by ensuring that the safeguards provided for in that Directive are complied with. National resolution authorities shall implement all decisions addressed to them by the Board.
+
+For those purposes, subject to this Regulation, they shall exercise their powers under national law transposing Directive 2014/59/EU and in accordance with the conditions laid down in national law. National resolution authorities shall fully inform the Board of the exercise of those powers. Any action they take shall comply with the Board's decisions pursuant to this Regulation.
+
+When implementing those decisions, the national resolution authorities shall ensure that the applicable safeguards provided for in Directive 2014/59/EU are complied with.
+
+2\. Where a national resolution authority has not applied or has not complied with a decision by the Board pursuant to this Regulation or has applied it in a way which poses a threat to any of the resolution objectives under Article 14 or to the efficient implementation of the resolution scheme, the Board may order an institution under resolution:
+
+(a) in the event of action pursuant to Article 18, to transfer to another person specified rights, assets or liabilities of an institution under resolution;
+
+(b) in the event of action pursuant to Article 18, to require the conversion of any debt instruments which contain a contractual term for conversion in the circumstances provided for in Article 21;
+
+(c) to adopt any other necessary action to comply with the decision in question.
+
+The Board shall adopt a decision referred to in point (c) of the first subparagraph only if the measure significantly addresses the threat to the relevant resolution objective or to the efficient implementation of the resolution scheme.
+
+Before deciding to impose any measure the Board shall notify the national resolution authorities concerned and the Commission of the measure it intends to take. That notification shall include details of the envisaged measures, the reasons for those measures and details of when the measures are intended to take effect.
+
+The notification shall be made not less than 24 hours before the measures are to take effect. In exceptional circumstances where it is not possible to give 24 hours' notice, the Board may make the notification less than 24 hours before the measures are intended to take effect.
+
+3\. The institution under resolution shall comply with any decision taken referred to in paragraph 2. Those decisions shall prevail over any previous decision adopted by the national resolution authorities on the same matter.
+
+4\. When taking action in relation to issues which are subject to a decision taken pursuant to paragraph 2, national resolution authorities shall comply with that decision.
+
+5\. The Board shall publish on its official website either a copy of the resolution scheme or a notice summarising the effects of the resolution action, and in particular the effects on retail customers. The national resolution authorities shall comply with the applicable procedural obligations provided for in Article 83 of Directive 2014/59/EU.
+
+#### CHAPTER 4 — Cooperation
+
+###### Article 30 — Obligation to cooperate and information exchange
+
+1\. The Board shall inform the Commission of any action it takes in order to prepare for resolution. With regard to any information received from the Board, the members of the Council, the Commission as well as the Council and the Commission staff shall be subject to the requirements of professional secrecy laid down in Article 88.
+
+2\. In the exercise of their respective responsibilities under this Regulation, the Board, the Council, the Commission, the ECB and the national resolution authorities and national competent authorities shall cooperate closely, in particular in the resolution planning, early intervention and resolution phases pursuant to Articles 8 to 29. They shall provide each other with all information necessary for the performance of their respective tasks, including the information referred to in paragraphs 2a, 2b and 2c of this Article.
+
+2a. The Board, the ESRB, EBA, ESMA and EIOPA shall cooperate closely and provide each other with all of the information necessary for the performance of their respective tasks.
+
+2b. The ECB and other members of the European System of Central Banks (ESCB) shall cooperate closely with the Board and provide it with all of the information necessary for the performance of the Board’s tasks, including the information collected by them pursuant to the Statute of the European System of Central Banks and of the European Central Bank. Article 88(6) shall apply to all such exchanges of information.
+
+2c. The designated authorities and deposit guarantee schemes shall cooperate closely with the Board. Those designated authorities, deposit guarantee schemes and the Board shall provide each other with all of the information necessary for the performance of their respective tasks. The designated authorities and deposit guarantee schemes shall be subject to the requirements of professional secrecy laid down in Article 88.
+
+3\. The ECB or the national competent authorities shall transmit to the Board and the national resolution authorities the group financial support agreements authorised and any changes thereto.
+
+4\. For the purposes of this Regulation, the ECB may invite the Chair of the Board to participate as an observer in the Supervisory Board of the ECB established in accordance with Article 19 of Regulation (EU) No 1024/2013. Where deemed to be appropriate the Board may appoint another representative to replace the Chair for that purpose.
+
+5\. For the purposes of this Regulation, the Board shall appoint a representative which shall participate in the Resolution Committee of EBA established in accordance with Article 127 of Directive 2014/59/EU.
+
+6\. The Board shall endeavour to cooperate closely with any public financial assistance facility, including the European Financial Stability Facility (EFSF) and the European Stability Mechanism (ESM), in particular in all of the following situations:
+
+(a) in the extraordinary circumstances referred to in Article 27(9) and where such a facility has granted, or is likely to grant, direct or indirect financial assistance to entities established in a participating Member State;
+
+(b) where the Board has contracted for the Fund a financial arrangement pursuant to Article 74.
+
+7\. Where necessary, the Board shall conclude a memorandum of understanding with the ECB and other members of the ESCB, the national resolution authorities and the national competent authorities, and the designated authorities and deposit guarantee schemes describing in general terms how they will cooperate under paragraphs 2 to 2c and 4 of this Article and under Article 74, second paragraph, in the performance of their respective tasks under Union law. The memorandum shall be reviewed on a regular basis and shall be published subject to the requirements of professional secrecy.
+
+###### Article 31 — Cooperation within the SRM
+
+1\. The Board shall perform its tasks in close cooperation with national resolution authorities. The Board shall, in cooperation with national resolution authorities, approve and make public a framework to organise the practical arrangements for the implementation of this Article.
+
+In order to ensure effective and consistent application of this Article, the Board:
+
+(a) shall issue guidelines and general instructions to national resolution authorities according to which the tasks are performed and resolution decisions are adopted by national resolution authorities;
+
+(b) may at any time exercise the powers referred to in Articles 34 to 37;
+
+(c) may request, on an ad hoc or continuous basis, information from national resolution authorities on the performance of the tasks carried out by them under Article 7(3);
+
+(d) shall receive from national resolution authorities draft decisions on which it may express its views, and, in particular, indicate the elements of the draft decision that do not comply with this Regulation or with the Board's general instructions.
+
+For the purposes of evaluating resolution plans, the Board may request national resolution authorities to submit to the Board all information necessary, as obtained by them in accordance with Article 11 and Article 13(1) of Directive 2014/59/EU, without prejudice to Chapter 5 of this Title.
+
+2\. Article 13(4) to (10) and Articles 88 to 92 of Directive 2014/59/EU shall not apply to relations between national resolution authorities. The joint decision and any decision taken in the absence of a joint decision as referred to in Article 45h  of Directive 2014/59/EU shall not apply. The relevant provisions of this Regulation shall apply instead.
+
+3\. For the entities and groups referred to in Article 7(2) of this Regulation and for the entities and groups referred to in Article 7(4), point (b), and Article 7(5), of this Regulation where the conditions for the application of those provisions are met, national resolution authorities shall consult the Board before acting under Article 86 of Directive 2014/59/EU.
+
+National resolution authorities shall set an appropriate time limit for the Board to respond to the request for consultation, which shall not be shorter than two working days after the submission of the request by the national resolution authority. Where the Board does not express its views within that time limit, or request the extension thereof, it shall be assumed that the Board has no comments.
+
+###### Article 31a — Exchange of information between authorities and with other entities
+
+1\. The Board shall share, on a regular or case-by-case basis, information that it obtained from financial institutions or the other authorities when carrying out its duties, and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.
+
+2\. The Board shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from financial institutions, provided that the Board is entitled to obtain that information pursuant to Union law.
+
+The first subparagraph shall be without prejudice to the powers of the Board to obtain the requested information from financial institutions where the other authority is unable to share the information, where urgent action is needed or where obtaining the information directly from financial institutions is necessary for the performance of the Board’s tasks pursuant to Union law.
+
+3\. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.
+
+The requesting authority and the Board shall be subject to the obligations of professional secrecy and data protection laid down in Articles 88 and 89 and in sectoral legislation which apply to the sharing of information between the financial institution and the requesting authority and between the financial institution and the Board.
+
+4\. Where the Board exchanges information pursuant to paragraph 1, it shall, without undue delay, inform each authority from which it obtained the information or each financial institution, if the information was obtained from financial institutions directly, about the exchange. In the case of recurring or periodic exchanges of information, the Board shall be obliged to inform the financial institution or the authority from which it obtained the information only once.
+
+5\. By way of derogation from paragraph 4, the Board shall not be obliged to inform the authority or the financial institution, as applicable, about the exchange of information where either of the following conditions is met:
+
+(a) the information has been anonymised in such a manner that it no longer relates to any identified or identifiable natural person and that the financial institution or other legal entities are no longer identifiable; or
+
+(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, and to protect personal data through appropriate technical and organisational measures in accordance with Regulations (EU) 2016/679 ( 11 ) and (EU) 2018/1725 ( 12 ) of the European Parliament and of the Council.
+
+6\. By way of derogation from paragraph 4, the Board shall not inform the financial institution about the exchange of information if it determines, or is informed by the requesting authority, that doing so could compromise supervisory or resolution proceedings, actions or investigations.
+
+7\. Paragraphs 1 to 6 shall also apply to information that the Board has received from a financial institution or the other authorities and upon which the Board has subsequently performed quality checks or which the Board has otherwise processed.
+
+8\. To facilitate exchanges of information as referred to in paragraphs 1 to 7, the Board and the other authorities may enter into memoranda of understanding regarding the arrangements for such exchanges. The memoranda of understanding may also specify arrangements for the sharing of resources for the collection and processing of shared information. The Commission may, after consulting the Board and the other authorities, develop guidance on the main elements of such memoranda of understanding.
+
+9\. Paragraphs 1 to 8 shall be without prejudice to the protection of intellectual property rights and shall not prevent or restrict the exchange of information between the Board and the other authorities in accordance with other provisions of this Regulation or with other Union legislation.
+
+In the event of a conflict between this Article and other provisions of this Regulation or other Union legislation that govern the exchange of information between the Board and the other authorities, such other provisions shall prevail.
+
+10\. The Board and the resolution authorities may, at their own discretion, grant access to information obtained when carrying out their duties for re-use by financial institutions, researchers and other entities that have a legitimate interest in that information for research and innovation purposes, provided that the Board or the resolution authority granting access has ensured that all of the following conditions have been complied with:
+
+(a) the necessary measures have been taken to anonymise the information, in a manner that prevents individual financial institutions, entities, data subjects and, where it is the Board which grants access to the information, Member States from being identified;
+
+(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets or content covered by intellectual property rights.
+
+Information received from any authority shall be shared pursuant to the first subparagraph only with the consent of the authority that initially obtained that information.
+
+11\. By 11 November 2027, the Board shall, in close cooperation with resolution authorities, report to the Commission on all legal obstacles in sectoral legislation that prevent them, in any way, from exchanging information with the other authorities or with other entities. The report may also address non-material, obsolete, duplicative or otherwise irrelevant reporting requirements. It may also include suggestions for improving consistency between reporting requirements for financial and non-financial entities. The report shall be updated on a regular basis, where necessary.
+
+Taking into account the report referred to in the first subparagraph, the protection of intellectual property rights and the obligations of professional secrecy and data protection, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to remove such legal obstacles in sectoral legislation, to foster the exchange of information between authorities and with other entities.
+
+12\. For the purposes of this Article, and Article 88(7), ‘other authorities’ means any of the following authorities:
+
+(a) the ESRB;
+
+(b) the EBA;
+
+(c) the EIOPA;
+
+(d) the ESMA;
+
+(e) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1093/2010, except for the national resolution authorities;
+
+(f) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1094/2010;
+
+(g) competent authorities, as defined in Article 4, point (3), of Regulation (EU) No 1095/2010;
+
+(h) the authorities composing the Single supervisory mechanism, as defined in Article 2, point (9), of Regulation (EU) No 1024/2013;
+
+(i) the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, as established by Regulation (EU) 2024/1620 of the European Parliament and of the Council ( 13 );
+
+(j) financial supervisors, as defined in Article 2, second subparagraph, point (1), of Directive (EU) 2024/1640 of the European Parliament and of the Council ( 14 ).
+
+For the purposes of this Article, ‘financial institution’ means financial institution as defined in Article 2, point (a), of Regulation (EU) No 1092/2010.
+
+###### Article 32 — Consultation of, and cooperation with, non-participating Member States and third countries
+
+1\. Where a group includes entities established in participating Member States as well as in non-participating Member States or third countries, without prejudice to any approval by the Council or the Commission required under this Regulation, the Board shall represent the national resolution authorities of the participating Member States for the purposes of consultation and cooperation with non-participating Member States or third countries in accordance with Articles 7, 8, 12, 13, 16, 18, 45h, 55, and 88 to 92 of Directive 2014/59/EU.
+
+Where a group includes entities established in participating Member States and subsidiaries established, or significant branches located, in non-participating Member States, the Board shall communicate any plans, decisions or measures referred to in Articles 8, 10, 11, 12 and 13 relevant to the group to the competent authorities and/or the resolution authorities of the non-participating Member State, as appropriate.
+
+2\. The Board, the ECB and the resolution authorities and competent authorities of the non-participating Member States shall conclude memoranda of understanding describing in general terms how they will cooperate with one another in the performance of their tasks under Directive 2014/59/EU.
+
+Without prejudice to the first subparagraph, the Board shall conclude a memorandum of understanding with the resolution authority of each non-participating Member State that is home to at least one global systemically important institution, identified as such pursuant to Article 131 of Directive 2013/36/EU.
+
+3\. Each memorandum shall be reviewed on a regular basis and shall be published subject to the requirements of professional secrecy.
+
+4\. The Board shall conclude, on behalf of the national resolution authorities of participating Member States, non-binding cooperation arrangements in line with the EBA framework cooperation arrangements referred to in Article 97(2) of Directive 2014/59/EU. The Board shall notify EBA of any such cooperation arrangement.
+
+###### Article 33 — Recognition and enforcement of third-country resolution proceedings
+
+1\. This Article shall apply in respect of third-country resolution proceedings unless and until an international agreement as referred to in Article 93(1) of Directive 2014/59/EU enters into force with the relevant third country. It shall also apply following the entry into force of an international agreement as referred to in Article 93(1) of that Directive with the relevant third country to the extent that recognition and enforcement of third-country resolution proceedings is not governed by that agreement.
+
+2\. The Board shall assess and issue a recommendation addressed to the national resolution authorities on the recognition and enforcement of resolution proceedings conducted by third-country resolution authorities in relation to a third-country institution or a third-country parent undertaking that has:
+
+(a) one or more Union subsidiaries established in one or more participating Member States; or
+
+(b) assets, rights or liabilities located in one or more participating Member States or governed by the law of participating Member States.
+
+The Board shall conduct its assessment, after consulting the national resolution authorities and, where a European resolution college is established pursuant to Article 89 of Directive 2014/59/EU, with the resolution authorities of non-participating Member States.
+
+The assessment shall give due consideration to the interests of each individual participating Member State where a third-country institution or parent undertaking operates, and in particular to the potential impact of the recognition and enforcement of the third-country resolution proceedings on the other parts of the group and the financial stability in those Member States.
+
+3\. The Board shall recommend to refuse the recognition or enforcement of the resolution proceedings referred to in paragraph 1, if it considers that:
+
+(a) the third-country resolution proceedings would have an adverse effect on financial stability in a participating Member State;
+
+(b) creditors, including in particular depositors located or payable in a participating Member State, would not receive the same treatment as third-country creditors and depositors with similar legal rights under the third-country home resolution proceedings;
+
+(c) recognition or enforcement of the third-country resolution proceedings would have material fiscal implications for the participating Member State; or
+
+(d) the effects of such recognition or enforcement would be contrary to the national law of the participating Member State.
+
+4\. National resolution authorities shall implement the recommendation of the Board and ask for the recognition or enforcement of the resolution proceedings in their respective territories, or shall explain in a reasoned statement to the Board why they cannot implement the recommendation of the Board.
+
+5\. When exercising resolution powers in relation to third-country entities, national resolution authorities shall, where relevant, exercise the powers conferred on them on the basis of the provisions referred to in Article 94(4) of Directive 2014/59/EU.
+
+#### CHAPTER 5 — Investigatory powers
+
+###### Article 34 — Requests for information
+
+1\. The Board may, making full use of all of the information which is already available to the ECB, including the information collected by the members of the ESCB pursuant to the Statute of the European System of central banks and of the European Central Bank, or of all of the information available to the national competent authorities, to the ESRB, EBA, ESMA or EIOPA, require, through the national resolution authorities or directly, after having informed the national resolution authorities, the following legal or natural persons to provide it with all of the information necessary, in accordance with the procedure and form requested by the Board, for the performance of its tasks:
+
+(a) the entities referred to in Article 2;
+
+(b) employees of the entities referred to in Article 2;
+
+(c) third parties to whom the entities referred to in Article 2 have outsourced functions or activities.
+
+2\. The entities and persons referred to in paragraph 1 shall supply the information requested pursuant to that paragraph. The requirements of professional secrecy shall not exempt those entities and persons from the duty to supply that information. The supply of the information requested shall not be deemed to infringe the requirements of professional secrecy.
+
+3\. Where the Board obtains information directly from those entities and persons, it shall make that information available to the national resolution authorities concerned.
+
+4\. The Board shall be able to obtain, including on a continuous basis, any information necessary for the exercise of its functions under this Regulation, in particular on capital, liquidity, assets and liabilities concerning any institution subject to its resolution powers.
+
+5\. The Board, the ECB, the members of the ESCB, the national competent authorities, the ESRB, EBA, ESMA, EIOPA and the national resolution authorities may draw up memoranda of understanding setting out a procedure governing the exchange of information. The exchange of information between the Board, the ECB and other members of the ESCB, the national competent authorities, the ESRB, EBA, ESMA, EIOPA and the national resolution authorities shall not be deemed to infringe the requirements of professional secrecy.
+
+6\. National competent authorities, the ECB, members of the ESCB, the ESRB, EBA, ESMA, EIOPA, and the national resolution authorities shall cooperate with the Board to verify whether some or all of the information requested is already available at the time the request is made. Where such information is available, the national competent authorities, the ECB and other members of the ESCB, the ESRB, EBA, ESMA, EIOPA or the national resolution authorities shall provide that information to the Board.
+
+###### Article 35 — General investigations
+
+1\. For the purpose of performing its tasks under this Regulation, and subject to any other conditions laid down in relevant Union law, the Board may, through the national resolution authorities or directly, after informing them, conduct all necessary investigations of any legal or natural person referred to in Article 34(1) established or located in a participating Member State.
+
+To that end, the Board may:
+
+(a) require the submission of documents;
+
+(b) examine the books and records of any legal or natural person referred to in Article 34(1) and take copies or extracts from such books and records;
+
+(c) obtain written or oral explanations from any legal or natural person referred to in Article 34(1) or their representatives or staff;
+
+(d) interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation.
+
+2\. The natural or legal persons referred to in Article 34(1) shall be subject to investigations launched on the basis of a decision of the Board.
+
+Where a person obstructs the conduct of the investigation, the national resolution authorities of the participating Member State where the relevant premises are located shall afford, in accordance with national law, the necessary assistance including facilitating the access by the Board to the business premises of the natural or legal persons referred to in Article 34(1), so that those rights can be exercised.
+
+###### Article 36 — On-site inspections
+
+1\. For the purpose of performing its tasks under this Regulation, and subject to other conditions laid down in relevant Union law, the Board may, in accordance with Article 37 and subject to prior notification to the national resolution authorities and the relevant national competent authorities concerned, and, where appropriate, in cooperation with them, conduct all necessary on-site inspections at the business premises of the natural or legal persons referred to in Article 34(1). Where the proper conduct and efficiency of the inspection so require, the Board may carry out the on-site inspection without prior announcement to those legal persons.
+
+2\. The officials of and other persons authorised by the Board to conduct an on-site inspection may enter any business premises and land of the legal persons subject to an investigation decision adopted by the Board pursuant to Article 35(2) and shall have all of the powers referred to in Article 35(1).
+
+3\. The legal persons referred to in Article 34(1) shall be subject to on-site inspections on the basis of a decision of the Board.
+
+4\. Officials of, and other accompanying persons authorised or appointed by, the national resolution authorities of the Member States where the inspection is to be conducted shall, under the supervision and coordination of the Board, actively assist the officials of, and other persons authorised by, the Board. To that end, they shall enjoy the powers referred to in paragraph 2. Officials of, and other accompanying persons authorised or appointed by, the national resolution authorities of the participating Member States concerned shall also have the right to participate in the on-site inspections.
+
+5\. Where the officials of and other accompanying persons authorised or appointed by the Board find that a person opposes an inspection ordered pursuant to paragraph 1, the national resolution authorities of the participating Member States concerned shall afford them the necessary assistance in accordance with national law. To the extent necessary for the inspection, that assistance shall include the sealing of any business premises and books or records. Where that power is not available to the national resolution authorities concerned, it shall exercise its powers to request the necessary assistance of other national authorities.
+
+###### Article 37 — Authorisation by a judicial authority
+
+1\. If an on-site inspection provided for in Article 36(1) and (2) or the assistance provided for in Article 36(5) requires authorisation by a judicial authority in accordance with national rules, such authorisation shall be applied for.
+
+2\. Where authorisation as referred to in paragraph 1 of this Article is applied for, the national judicial authority shall control that the decision of the Board is authentic and that the coercive measures envisaged are neither arbitrary nor excessive, taking into account the subject matter of the inspection. In its control of the proportionality of the coercive measures, the national judicial authority may ask the Board for detailed explanations, in particular relating to the grounds the Board has for suspecting that an infringement of the decisions referred to in Article 29 has taken place, the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity for the inspection or demand to be provided with the information on the Board's file. The lawfulness of the Board's decision shall be subject to review only by the Court of Justice.
+
+#### CHAPTER 6 — Penalties
+
+###### Article 38 — Fines
+
+1\. Where the Board finds that an entity referred to in Article 2 has intentionally or negligently committed one of the infringements listed in paragraph 2, the Board shall take a decision imposing a fine in accordance with paragraph 3.
+
+An infringement by such an entity shall be considered to have been committed intentionally if there are objective factors which demonstrate that the entity or its management body or senior management acted deliberately to commit the infringement.
+
+2\. The fines shall be imposed on entities referred to in Article 2 for the following infringements:
+
+(a) where they do not supply the information requested in accordance with Article 34;
+
+(b) where they do not submit to a general investigation in accordance with Article 35 or an on-site inspection in accordance with Article 36;
+
+(c) where they do not comply with a decision addressed to them by the Board pursuant to Article 29.
+
+3\. The basic amount of the fines referred to in paragraph 1 of this Article shall be a percentage of the total annual net turnover including the gross income consisting of interest receivable and similar income, income from shares and other variable or fixed-yield securities, and commissions or fees receivable in accordance with Article 316 of Regulation (EU) No 575/2013 of the undertaking in the preceding business year, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 19 August 2014, and included within the following limits:
+
+(a) for the infringements referred to in paragraph 2(a) and (b), the basic amount shall amount to at least 0,05 % and shall not exceed 0,15 %;
+
+(b) for the infringements referred to in paragraph 2(c), the basic amount shall amount to at least 0,25 % and shall not exceed 0,5 %.
+
+In order to decide whether the basic amount of the fines should be set at the lower, the middle or the higher end of the limits referred to in the first subparagraph, the Board shall take into account the annual turnover in the preceding business year of the entity concerned. The basic amount shall be at the lower end of the limit for entities whose annual turnover is below EUR 1 000 000 000 , the middle of the limit for the entities whose annual turnover is between EUR 1 000 000 000 and 5 000 000 000 and the higher end of the limit for the entities whose annual turnover is higher than EUR 5 000 000 000 .
+
+4\. The basic amounts referred to in paragraph 3 shall be adjusted, if necessary, by taking into account the aggravating or mitigating factors referred to in paragraphs 5 and 6, in accordance with the relevant coefficients referred to in paragraph 9.
+
+The relevant mitigating coefficient shall be applied one by one to the basic amount. If more than one mitigating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual mitigating coefficient shall be subtracted from the basic amount.
+
+The relevant aggravating coefficient shall be applied one by one to the basic amount. If more than one aggravating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual aggravating coefficient shall be added to the basic amount.
+
+5\. The following aggravating factors shall apply in respect of the fines referred to in paragraph 1:
+
+(a) the infringement has been committed intentionally;
+
+(b) the infringement has been committed repeatedly;
+
+(c) the infringement has been committed over a period exceeding three months;
+
+(d) the infringement has revealed systemic weaknesses in the organisation of the entity, in particular in its procedures, management systems or internal controls;
+
+(e) no remedial action has been taken since the infringement was identified;
+
+(f) the entity's senior management has not cooperated with the Board in carrying out its investigations.
+
+6\. The following mitigating factors shall apply in respect of the fines referred to in paragraph 1:
+
+(a) the infringement has been committed over a period of less than 10 working days;
+
+(b) the entity's senior management can demonstrate that they have taken all measures necessary to prevent the infringement;
+
+(c) the entity has brought quickly, effectively and completely the infringement to the Board's attention;
+
+(d) the entity has voluntarily taken measures to ensure that a similar infringement cannot be committed in the future.
+
+7\. Notwithstanding paragraphs 2 to 6, the fines applied shall not exceed 1 % of the annual turnover of the entity referred to in paragraph 1 concerned in the preceding business year.
+
+By way of derogation from the first subparagraph, where the entity has directly or indirectly benefited financially from that infringement and where profits gained or losses avoided because of the infringement can be determined, the fine shall be at least equal to that financial benefit.
+
+Where an act or omission of an entity referred to in paragraph 1 constitutes more than one infringement listed in paragraph 2, only the higher fine calculated in accordance with this Article and relating to one of those infringements shall apply.
+
+8\. In the cases not covered by paragraph 2, the Board may recommend to national resolution authorities to take action in order to ensure that appropriate penalties are imposed in accordance with Articles 110 to 114 of Directive 2014/59/EU and with any relevant national legislation.
+
+9\. The Board shall apply the following adjustment coefficients linked to aggravating factors when calculating the fines:
+
+(a) if the infringement has been committed repeatedly, for every time it has been repeated, an additional coefficient of 1,1 shall apply;
+
+(b) if the infringement has been committed over a period exceeding three months, a coefficient of 1,5 shall apply;
+
+(c) if the infringement has revealed systemic weaknesses in the organisation of the entity, in particular in its procedures, management systems or internal controls, a coefficient of 2,2 shall apply;
+
+(d) if the infringement has been committed intentionally, a coefficient of 2 shall apply;
+
+(e) if no remedial action has been taken since the infringement was identified, a coefficient of 1,7 shall apply;
+
+(f) if the entity's senior management has not cooperated with the Board in carrying out its investigations, a coefficient of 1,5 shall apply.
+
+The Board shall apply the following adjustment coefficients linked to mitigating factors when calculating the fines:
+
+(a) if the infringement has been committed over a period of less than 10 working days, a coefficient of 0,9 shall apply;
+
+(b) if the entity's senior management can demonstrate that they have taken all measures necessary to prevent the infringement, a coefficient of 0,7 shall apply;
+
+(c) if the entity has brought quickly, effectively and completely the infringement to the Board's attention, a coefficient of 0,4 shall apply;
+
+(d) if the entity has voluntarily taken measures to ensure that a similar infringement cannot be committed in the future, a coefficient of 0,6 shall apply.
+
+###### Article 39 — Periodic penalty payments
+
+1\. The Board shall, by a decision, impose a periodic penalty payment in respect of an entity referred to in Article 2 in order to compel:
+
+(a) that entity to comply with a decision adopted under Article 34;
+
+(b) a person referred to in Article 34(1) to supply complete information which has been required by a decision pursuant to that Article;
+
+(c) a person referred to in Article 35(1) to submit to an investigation and, in particular, to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision taken pursuant to that Article;
+
+(d) a person referred to in Article 36(1) to submit to an on-site inspection ordered by a decision taken pursuant to that Article.
+
+2\. A periodic penalty payment shall be effective and proportionate. A periodic penalty payment shall be imposed on a daily basis until the entity referred to in Article 2 or person concerned complies with the relevant decisions referred to in points (a) to (d) of paragraph 1 of this Article.
+
+3\. Notwithstanding paragraph 2, the amount of a periodic penalty payment shall be 0,1 % of the average daily turnover in the preceding business year. A periodic penalty payment shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+
+4\. A periodic penalty payment may be imposed for a period of no more than six months following the notification of the Board's decision.
+
+###### Article 40 — Hearing of the persons subject to the proceedings
+
+1\. Before taking any decision imposing a fine and/or periodic penalty payment under Article 38 or 39, the Board shall give the natural or legal persons subject to the proceedings the opportunity to be heard on its findings. The Board shall base its decisions only on findings on which the natural or legal persons subject to the proceedings have had the opportunity to comment.
+
+2\. The rights of defence of the natural or legal persons subject to the proceedings shall be fully complied with during the proceedings. They shall be entitled to have access to the Board's file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or internal preparatory documents of the Board.
+
+###### Article 41 — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+
+1\. The Board shall publish the decisions imposing penalties referred to in Article 38(1) and Article 39(1), unless such disclosure could endanger the resolution of the entity concerned. The publication shall be on an anonymous basis, in any of the following circumstances:
+
+(a) where the information published contains personal data and following an obligatory prior assessment, such publication of personal data is found to be disproportionate;
+
+(b) where publication would jeopardise the stability of financial markets or an ongoing criminal investigation;
+
+(c) where publication would cause, insofar as it can be determined, disproportionate damage to the natural or legal persons involved.
+
+Alternatively, in such cases, the publication of the data in question may be postponed for a reasonable period if it is foreseeable that the reasons for anonymous publication will cease to exist within that period.
+
+The Board shall inform EBA of all fines and periodic penalty payments imposed by it under Articles 38 and 39 and shall provide information on the appeal status and outcome thereof.
+
+2\. Fines and periodic penalty payments imposed pursuant to Articles 38 and 39 shall be of an administrative nature.
+
+3\. Fines and periodic penalty payments imposed pursuant to Articles 38 and 39 shall be enforceable.
+
+Enforcement shall be governed by the applicable procedural rules in force in the participating Member State in the territory of which it is carried out. The order for its enforcement shall be appended to the decision without any other formality than verification of the authenticity of the decision by the authority which the government of each participating Member State shall designate for that purpose and which it shall make known to the Board and to the Court of Justice.
+
+When those formalities have been completed on application by the party concerned, the latter may proceed to enforcement in accordance with the national law, by bringing the matter directly before the competent body.
+
+Enforcement may be suspended only by a decision of the Court of Justice. However, the courts of the participating Member State concerned shall have jurisdiction over complaints that enforcement is being carried out in an irregular manner.
+
+4\. The amounts of the fines and periodic penalty payments shall be allocated to the Fund.
+
+###### Article 41a — Review by the Court of Justice of the European Union
+
+The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Board imposing a fine or a periodic penalty payment. It may annul, or reduce or increase the amount of, the fine or periodic penalty payment imposed.
+
+## PART III — INSTITUTIONAL FRAMEWORK
+
+### TITLE I — THE BOARD
+
+###### Article 42 — Legal status
+
+1\. The Board is hereby established. The Board shall be a Union agency with a specific structure corresponding to its tasks. It shall have legal personality.
+
+2\. In each Member State, the Board shall enjoy the most extensive legal capacity accorded to legal persons under national law. It may, in particular, acquire or dispose of movable and immovable property and be a party to legal proceedings.
+
+3\. The Board shall be represented by its Chair.
+
+###### Article 43 — Composition
+
+1\. The Board shall be composed of:
+
+(a) the Chair appointed in accordance with Article 56;
+
+(aa) the Vice-Chair appointed in accordance with Article 56;
+
+(b) four further full-time members appointed in accordance with Article 56;
+
+(c) a member appointed by each participating Member State, representing their national resolution authorities.
+
+2\. Each member, including the Chair and the Vice-Chair, shall have one vote.
+
+3\. The Commission and the ECB shall each designate a representative entitled to participate in the meetings of executive sessions and plenary sessions as a permanent observer.
+
+The representatives of the Commission and the ECB shall be entitled to participate in the debates and shall have access to all documents.
+
+4\. In the event of more than one national resolution authority in a participating Member State, a second representative shall be allowed to participate as observer without voting rights.
+
+5\. The Board's administrative and management structure shall comprise:
+
+(a) a plenary session of the Board, which shall perform the tasks referred to in Article 50;
+
+(b) an executive session of the Board, which shall perform the tasks referred to in Article 54;
+
+(c) a Chair, which shall perform the tasks referred to in Article 56;
+
+(d) a Secretariat, which shall provide the necessary administrative and technical support on the performing of all the tasks assigned to the Board.
+
+###### Article 44 — Compliance with Union law
+
+The Board shall act in compliance with Union law, in particular with the Council and the Commission decisions pursuant to this Regulation.
+
+###### Article 45 — Transparency and accountability
+
+1\. The Board shall be accountable to the European Parliament, the Council and the Commission for the implementation of this Regulation, in accordance with paragraphs 2 to 8.
+
+2\. The Board shall submit an annual report to the European Parliament, the national parliaments of participating Member States in accordance with Article 46, the Council, the Commission and the European Court of Auditors on the performance of the tasks conferred on it by this Regulation. Subject to the requirements of professional secrecy, that report shall be published on the Board's website.
+
+3\. The Chair shall present that report in public to the European Parliament, and to the Council.
+
+3a. The Board shall publish its policies, guidelines, general instructions and staff working papers on resolution in general and on the resolution practices and methodologies to be applied within the SRM, as long as such publication does not entail the disclosure of confidential information. That publication requirement shall not apply to documents containing guidance or instructions to internal resolution teams or other documents prepared purely for purposes of internal information exchange within the SRM.
+
+4\. At the request of the European Parliament, the Chair shall participate in a hearing by the competent committee of the European Parliament on the performance of the resolution tasks by the Board. A hearing shall take place at least annually.
+
+5\. The Chair may be heard by the Council, at the Council's request, on the performance of the resolution tasks by the Board.
+
+6\. The Board shall reply orally or in writing to questions addressed to it by the European Parliament or by the Council, in accordance with its own procedures and in any event within five weeks of receipt of a question.
+
+7\. Upon request, the Chair shall hold confidential oral discussions behind closed doors with the Chair and Vice-Chairs of the competent committee of the European Parliament where such discussions are required for the exercise of the European Parliament's powers under the TFEU. An agreement shall be concluded between the European Parliament and the Board on the detailed modalities of organising such discussions, with a view to ensuring full confidentiality in accordance with the requirements of professional secrecy imposed on the Board by this Regulation and when the Board is acting as a national resolution authority under the relevant Union law.
+
+8\. During any investigations by the European Parliament, the Board shall cooperate with the European Parliament, subject to the TFEU and regulations referred to in Article 226 thereof. Within six months of the appointment of the Chair, the Board and the European Parliament shall conclude appropriate arrangements on the practical modalities of the exercise of democratic accountability and oversight over the exercise of the tasks conferred on the Board by this Regulation. Subject to the power of the European Parliament pursuant to Article 226 TFEU, those arrangements shall cover, inter alia, access to information, including rules on the handling and protection of classified or otherwise confidential information, cooperation in hearings, as referred to in Article 45(4) of this Regulation, confidential oral discussions, reports, responding to questions, investigations and information on the selection procedure of the Chair, the Vice-Chair, and the four members referred to in Article 43(1)(b) of this Regulation.
+
+###### Article 46 — National parliaments
+
+1\. Due to the specific tasks that are conferred on the Board by this Regulation, national parliaments of the participating Member States, by means of their own procedures, may request the Board to reply and the Board is obliged to reply in writing to any observations or questions submitted by them to the Board in respect of the functions of the Board under this Regulation.
+
+2\. When submitting the report provided for in Article 45(2), the Board shall simultaneously submit that report directly to the national parliaments of the participating Member States. National parliaments may address to the Board their reasoned observations on that report. The Board shall reply orally or in writing to any observations or questions addressed to it by the national parliaments of the participating Member States, in accordance with its own procedures.
+
+3\. The national parliament of a participating Member State may invite the Chair to participate in an exchange of views in relation to the resolution of entities referred to in Article 2 in that Member State together with a representative of the national resolution authority. The Chair is obliged to follow such invitation.
+
+4\. This Regulation shall be without prejudice to the accountability of national resolution authorities to national parliaments in accordance with national law for the performance of tasks not conferred on the Board, the Council or the Commission by this Regulation and for the performance of activities carried out by them in accordance with Article 7(3).
+
+###### Article 47 — Independence
+
+1\. When performing the tasks conferred on them by this Regulation, the Board and the national resolution authorities shall act independently and in the general interest.
+
+2\. The Chair, the Vice-Chair and the members referred to in Article 43(1)(b) shall perform their tasks in conformity with the decisions of the Board, the Council and the Commission. They shall act independently and objectively in the interest of the Union as a whole and shall neither seek nor take instructions from the Union's institutions or bodies, from any government of a Member State or from any other public or private body.
+
+In the deliberations and decision-making processes within the Board, they shall express their own views and vote independently.
+
+3\. Neither the Member States, the Union's institutions or bodies, nor any other public or private body shall seek to influence the Chair, the Vice-Chair or the members of the Board.
+
+4\. In accordance with the Staff Regulations of Officials as laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68 ( 15 ) (the ‘Staff Regulations’) referred to in Article 87(6) of this Regulation, the Chair, the Vice-Chair and the members referred to in Article 43(1)(b) of this Regulation shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.
+
+###### Article 48 — Seat
+
+The Board shall have its seat in Brussels, Belgium.
+
+### TITLE II — PLENARY SESSION OF THE BOARD
+
+###### Article 49 — Participation in plenary sessions
+
+All members of the Board referred to in Article 43(1) shall participate in its plenary sessions.
+
+###### Article 50 — Tasks
+
+1\. In its plenary session, the Board shall:
+
+(a) adopt, by 30 November each year, the Board's annual work programme for the following year, based on a draft put forward by the Chair and shall transmit it for information to the European Parliament, the Council, the Commission, and the ECB;
+
+(b) adopt and monitor the annual budget of the Board in accordance with Article 61(2), and approve the Board's final accounts and give discharge to the Chair in accordance with Article 63(4) and (8);
+
+(c) subject to the procedure referred to in paragraph 2, decide on the use of the Fund, if the support of the Fund in that specific resolution action is required above the threshold of EUR 5 000 000 000 for which the weighting of liquidity support is 0,5;
+
+(d) once the net accumulated use of the Fund in the last consecutive 12 months reaches the threshold of EUR 5 000 000 000 , evaluate the application of the resolution tools, in particular the use of the Fund, and provide guidance which the executive session shall follow in subsequent resolution decisions, in particular, if appropriate, differentiating between liquidity and other forms of support;
+
+(e) decide on the necessity to raise extraordinary ex-post contributions in accordance with Article 71, on the voluntary borrowing between financing arrangements in accordance with Article 72, on alternative financing means in accordance with Articles 73 and 74, and on the mutualisation of national financing arrangements in accordance with Article 78, involving support of the Fund above the threshold referred to in point (c) of this paragraph;
+
+(f) decide on the investments in accordance with Article 75;
+
+(g) adopt the annual activity report on the Board's activities referred to in Article 45, which shall present detailed explanations on the implementation of the budget;
+
+(h) adopt the financial rules applicable to the Board in accordance with Article 64;
+
+(i) adopt an anti-fraud strategy, proportionate to fraud risks taking into account the costs and benefits of the measures to be implemented;
+
+(j) adopt rules for the prevention and management of conflicts of interest in respect of its members;
+
+(k) adopt its rules of procedure and those of the Board in its executive session;
+
+(l) in accordance with paragraph 3 of this Article, exercise, with respect to the staff of the Board, the powers conferred by the Staff Regulations on the Appointing Authority and by the Conditions of Employment of Other Servants of the European Union as laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68 (‘Conditions of Employment’) on the Authority Empowered to Conclude a Contract of Employment (‘the appointing authority powers’);
+
+(m) adopt appropriate implementing rules for giving effect to the Staff Regulations and the Conditions of Employment in accordance with Article 110 of the Staff Regulations;
+
+(n) appoint an Accounting Officer and an internal auditor, subject to the Staff Regulations and the Conditions of Employment, who shall be functionally independent in the performance of their duties;
+
+(o) ensure adequate follow-up to findings and recommendations stemming from the internal or external audit reports and evaluations, as well as from investigations of the European Anti-Fraud Office (OLAF);
+
+(p) take all decisions on the establishment of the Board's internal structures and, where necessary, their modification;
+
+(q) approve the framework referred to in Article 31(1) to organise the practical arrangements for the cooperation with the national resolution authorities.
+
+2\. When taking decisions, the plenary session of the Board shall act in accordance with the objectives as specified in Articles 6 and 14.
+
+For the purposes of point (c) of paragraph 1, the resolution scheme prepared by the executive session is deemed to be adopted unless, within three hours from the submission of the draft by the executive session to the plenary session, at least one member of the plenary session has called a meeting of the plenary session. In the latter case, a decision on the resolution scheme shall be taken by the plenary session.
+
+3\. In its plenary session, the Board shall adopt, in accordance with Article 110 of the Staff Regulations, a decision based on Article 2(1) of the Staff Regulations and on Article 6 of the Conditions of Employment, delegating relevant appointing authority powers to the Chair and establishing the conditions under which the delegation of powers can be suspended. The Chair shall be authorised to sub-delegate those powers.
+
+In exceptional circumstances, the Board in its plenary session may by way of a decision temporarily suspend the delegation of the appointing authority powers to the Chair and any sub-delegation by the latter and exercise them itself or delegate them to one of its members or to a staff member other than the Chair.
+
+###### Article 51 — Meeting of the plenary session of the Board
+
+1\. The Chair shall convene and chair meetings of the plenary session of the Board in accordance with Article 56(2)(a).
+
+2\. The Board in its plenary session shall hold at least two ordinary meetings per year. In addition, it shall meet on the initiative of the Chair, or at the request of at least one-third of its members. The representative of the Commission may request the Chair to convene a meeting of the Board in its plenary session. The Chair shall provide reasons in writing if he or she does not convene a meeting in due time.
+
+3\. Where relevant, the Board may invite observers in addition to those referred in Article 43(3) to participate in the meetings of its plenary session on an ad hoc basis, including a representative of EBA.
+
+4\. The Board shall provide for the secretariat of the plenary session of the Board.
+
+###### Article 52 — General provisions on the decision-making process
+
+1\. The Board, in its plenary session, shall take its decisions by a simple majority of its members, unless otherwise provided for in this Regulation. Each voting member shall have one vote. In the event of a tie, the Chair shall have a casting vote.
+
+2\. By way of derogation from paragraph 1, decisions referred to in Article 50(1)(c) and (d) as well as on the mutualisation of national financing arrangements in accordance with Article 78, limited to the use of the financial means available in the Fund, shall be taken by a simple majority of the Board members, representing at least 30 % of contributions. Each voting member shall have one vote. In the event of a tie, the Chair shall have a casting vote.
+
+3\. By way of derogation from paragraph 1 of this Article, decisions referred to in Article 50(1), which involve the raising of ex-post contributions in accordance with Article 71, on voluntary borrowing between financing arrangements in accordance with Article 72, on alternative financing means in accordance with Article 73 and Article 74, as well as on the mutualisation of national financing arrangements in accordance with Article 78, exceeding the use of the financial means available in the Fund, shall be taken by a majority of two thirds of the Board members, representing at least 50 % of contributions during the eight-year transitional period until the Fund is fully mutualised and by a majority of two thirds of the Board members, representing at least 30 % of contributions from then on. Each voting member shall have one vote. In the event of a tie, the Chair shall have a casting vote.
+
+4\. The Board shall adopt and make public its rules of procedure. The rules of procedure shall establish more detailed voting arrangements, in particular the circumstances in which a member may act on behalf of another member and including, where appropriate, the rules governing quorums.
+
+### TITLE III — EXECUTIVE SESSION OF THE BOARD
+
+###### Article 53 — Participation in the executive sessions
+
+1\. The Board in its executive session shall be composed of the Chair, the Vice-Chair and the four members referred to in Article 43(1), point (b). The Board in its executive session shall meet as often as necessary.
+
+Meetings of the Board in its executive session shall be convened by the Chair on his or her own initiative or at the request of any of the members, and shall be chaired by the Chair.
+
+Where relevant, the Board in its executive session may invite observers in addition to those referred to in Article 43(3), including a representative of EBA, and shall invite national resolution authorities of non-participating Member States, when deliberating on a group that has subsidiaries or significant branches in those non-participating Member States, to participate at its meetings. The participation shall be on an ad hoc basis.
+
+2\. In accordance with paragraphs 3 and 4, the members of the Board referred to in Article 43(1)(c) shall participate in the executive sessions of the Board.
+
+3\. When deliberating on an entity referred to in Article 2 or a group of entities established only in one participating Member State, the member appointed by that Member State shall also participate in the deliberations and in the decision-making process, and the rules laid down in Article 55(1) shall apply.
+
+4\. When deliberating on a cross-border group, the member appointed by the Member State in which the group-level resolution authority is situated, as well as the members appointed by the Member States in which a subsidiary or entity covered by consolidated supervision is established, shall also participate in the decision-making process, and the rules laid down in Article 55(2) shall apply.
+
+5\. The members of the Board referred to in Article 43(1), points (a), (aa) and (b), shall ensure that the resolution decisions and actions, in particular with regard to the use of the Fund, across the different formations of the executive sessions of the Board are coherent, appropriate and proportionate.
+
+###### Article 54 — Tasks
+
+1\. The Board, in its executive session, shall:
+
+(a) prepare all of the decisions to be adopted by the Board in its plenary session;
+
+(b) take all of the decisions to implement this Regulation, unless this Regulation provides otherwise.
+
+2\. In exercising its duties pursuant to paragraph 1 of this Article, the Board in its executive session shall:
+
+(a) prepare, assess and approve resolution plans for entities and groups referred to in Article 7(2), and for the entities and groups referred to in Article 7(4)(b) and (5), where the conditions for the application of those paragraphs are met, in accordance with Articles 8, 10 and 11;
+
+(b) apply simplified obligations to certain entities and groups referred to in Article 7(2), and entities and groups referred to in Article 7(4)(b) and (5), where the conditions for the application of those paragraphs are met, in accordance with Article 11;
+
+(c) determine the minimum requirement for own funds and eligible liabilities that entities and groups referred to in Article 7(2), and entities and groups referred to in Article 7(4)(b) and (5), where the conditions for the application of those paragraphs are met, need to meet at all times in accordance with Article 12;
+
+(d) provide the Commission, as early as possible, with a resolution scheme in accordance with Article 18 accompanied by all relevant information allowing in due time the Commission to assess and decide or, where appropriate, propose a decision to the Council, pursuant to Article 18(7);
+
+(e) decide upon the Board's part II of the budget on the Fund, in accordance with Article 60;
+
+(f) conduct consultations in accordance with the procedure set out in paragraph 2a regarding guidelines, general instructions and any other instruments of general application within the SRM which set out how the Board expects to implement this Regulation.
+
+2a. For the purposes of paragraph 2, point (f), the following procedure shall apply:
+
+(a) the Board in its executive session shall present a draft instrument to the Board in its plenary session;
+
+(b) the Board in its plenary session shall ensure that the members of the Board referred to in Article 43(1), point (c), are consulted on the draft instrument;
+
+(c) the Board in its executive session shall review any comments provided as part of the consultation referred to in point (b);
+
+(d) following the review of the comments, the Board in its executive session shall provide its assessment of those comments to the Board in its plenary session for discussion;
+
+(e) the Board in its executive session shall decide on the final version of the instrument following the discussion referred to in point (d) and after due consideration of all comments received.
+
+The Board in its executive session shall provide appropriate reasons to the Board in its plenary session for the choices made regarding the instrument referred to in the first subparagraph of this paragraph. A summary of those reasons shall be published in the annual report of the Board referred to in Article 45(2).
+
+3\. Where necessary because of urgency, the Board in its executive session may take certain provisional decisions on behalf of the Board in its plenary session, in particular on administrative management matters, including budgetary matters.
+
+4\. The Board in its executive session shall keep the Board in its plenary session informed of the decisions it takes on resolution.
+
+###### Article 55 — Decision-making
+
+1\. When deliberating on an individual entity or a group established in only one participating Member State, if all members referred to in Article 53(1) and (3) are not able to reach a joint agreement by consensus within a deadline set by the Chair, the Chair, the Vice-Chair and the members referred to in Article 43(1), point (b), shall take a decision by a simple majority.
+
+2\. When deliberating on a cross-border group, if all members referred to in Article 53(1) and (4) are not able to reach a joint agreement by consensus within a deadline set by the Chair, the Chair, the Vice-Chair and the members referred to in Article 43(1), point (b), shall take a decision by a simple majority.
+
+3\. In the event of a tie, the Chair shall have a casting vote.
+
+### TITLE IV — CHAIR
+
+###### Article 56 — Appointment and tasks
+
+1\. The Board shall be chaired by a full-time Chair.
+
+2\. The Chair shall be responsible for:
+
+(a) preparing the work of the Board, in its plenary and executive sessions, and convening and chairing its meetings;
+
+(b) all staff matters;
+
+(c) matters of day-to-day administration;
+
+(d) the establishment of a preliminary draft budget and a draft budget of the Board, in accordance with Article 61, and the implementation of the budget of the Board, in accordance with Article 63;
+
+(e) the management of the Board;
+
+(f) the implementation of the annual work programme of the Board;
+
+(g) the preparation, each year, of a draft of the annual report referred to in Article 45 with a section on the resolution activities of the Board and a section on financial and administrative matters.
+
+In the performance of the tasks referred to in this Article, the Chair shall be assisted by a dedicated staff.
+
+3\. The Chair shall be assisted by a Vice-Chair.
+
+The Vice-Chair shall carry out the functions of the Chair in his or her absence or reasonable impediment, in accordance with this Regulation.
+
+4\. The Chair, the Vice-Chair and the members referred to in Article 43(1)(b) shall be appointed on the basis of merit, skills, knowledge of banking and financial matters, and of experience relevant to financial supervision, regulation as well as bank resolution. The Chair, the Vice-Chair and the members referred to in Article 43(1)(b) shall be chosen on the basis of an open selection procedure, which shall respect the principles of gender balance, experience and qualification. The European Parliament and the Council shall be kept duly informed at every stage of that procedure in a timely manner.
+
+5\. The term of office of the Chair, of the Vice-Chair and of the members referred to in Article 43(1), point (b), shall be five years. That term shall not be renewable.
+
+The Chair, the Vice-Chair and the members referred to in Article 43(1)(b) shall not hold office at national, Union, or international level.
+
+6\. After hearing the Board, in its plenary session, the Commission shall provide to the European Parliament a shortlist of candidates for the positions of Chair, Vice-Chair and members referred to in Article 43(1)(b) and inform the Council of the shortlist.
+
+By way of derogation from the first subparagraph, for the appointment of the first members of the Board following the entry into force of this Regulation, the Commission shall provide the shortlist of candidates without hearing the Board.
+
+The Commission shall submit a proposal for the appointment of the Chair, the Vice-Chair and the members referred to in Article 43(1)(b) to the European Parliament for approval. Following the approval of that proposal, the Council shall adopt an implementing decision to appoint the Chair, the Vice-Chair and the members referred to in Article 43(1)(b). The Council shall act by qualified majority.
+
+7\. The Chair, the Vice-Chair, and the members referred to in Article 43(1), point (b), shall remain in office until their successors are appointed and have taken up their duties in accordance with the Council decision referred to in paragraph 6 of this Article.
+
+9\. If the Chair or the Vice-Chair or a member referred to in Article 43(1)(b) no longer fulfil the conditions required for the performance of his or her duties or has been guilty of serious misconduct, the Council may, on a proposal from the Commission which has been approved by the European Parliament, adopt an implementing decision to remove him or her from office. The Council shall act by qualified majority.
+
+For those purposes, the European Parliament or the Council may inform the Commission that it considers the conditions for the removal of the Chair, the Vice-Chair or the members referred to in Article 43(1)(b) from office to be fulfilled, to which the Commission shall respond.
+
+### TITLE V — FINANCIAL PROVISIONS
+
+#### CHAPTER 1 — General provisions
+
+###### Article 57 — Resources
+
+1\. The Board shall be responsible for devoting the necessary financial and human resources to the performance of the tasks conferred on it by this Regulation.
+
+2\. The funding of the Board's budget or its resolution activities under this Regulation may under no circumstances engage the budgetary liability of the Member States.
+
+###### Article 58 — Budget
+
+1\. The Board shall have an autonomous budget which is not part of the Union budget. Estimates of all of the Board's revenue and expenditure shall be prepared for each financial year, corresponding to the calendar year, and shall be shown in the Board's budget.
+
+2\. The Board's budget shall be balanced in terms of revenue and expenditure.
+
+3\. The budget shall comprise two parts: Part I for the administration of the Board and Part II for the Fund.
+
+###### Article 59 — Part I of the budget on the administration of the Board
+
+1\. The revenues of Part I of the budget shall consist of the annual contributions necessary to cover the annual estimated administrative expenditure.
+
+2\. The expenditure of Part I of the budget shall include at least staff, remuneration, administrative, infrastructure, professional training and operational expenses.
+
+3\. This Article is without prejudice to the right of the national resolution authorities to levy fees in accordance with national law, in respect of their administrative expenditures of the types referred to in paragraphs 1 and 2, including expenditures for cooperating with and assisting the Board.
+
+###### Article 60 — Part II of the budget on the Fund
+
+1\. The revenues of Part II of the budget shall consist, in particular, of the following:
+
+(a) contributions paid by institutions established in the participating Member States in accordance with Article 67(4) and Articles 69, 70 and 71;
+
+(b) loans received from other resolution financing arrangements in non-participating Member States in accordance with Article 72(1);
+
+(c) loans received from financial institutions or other third parties in accordance with Articles 73 and 74;
+
+(d) returns on the investments of the amounts held in the Fund in accordance with Article 75;
+
+(e) any part of the expenses incurred for the purposes indicated in Article 76 which are recovered in the resolution proceedings.
+
+2\. The expenditure of Part II of the budget shall consist of the following:
+
+(a) expenses for the purposes indicated in Article 76;
+
+(b) investments in accordance with Article 75;
+
+(c) interest paid on loans received from other resolution financing arrangements in non-participating Member States in accordance with Article 72(1);
+
+(d) interest paid on loans received from financial institutions or other third parties in accordance with Articles 73 and 74.
+
+###### Article 61 — Establishment of the budget
+
+1\. By 31 March each year, the Chair shall draw up a preliminary draft budget of the Board, including a statement of estimates of the Board’s revenue and expenditure for the following year, together with a draft establishment plan for the following year, and submit it to the Board in its plenary session.
+
+The Board in its plenary session shall, where necessary, adjust the preliminary draft budget of the Board together with the draft establishment plan.
+
+2\. On the basis of the preliminary draft budget, as adopted by the Board in its plenary session, the Chair shall draw up a draft budget of the Board and submit it to the Board in its plenary session for adoption.
+
+By 30 November each year, the Board in its plenary session shall adjust the draft budget submitted by the Chair, where necessary, and adopt the final budget of the Board together with the establishment plan.
+
+###### Article 62 — Internal audit and control
+
+1\. An internal audit function shall be set up within the Board, to be performed in compliance with the relevant international standards. The internal auditor, appointed by the Board, shall be responsible to it for verifying the proper operation of budget implementation systems and budgetary procedures of the Board.
+
+2\. The internal auditor shall advise the Board on dealing with risks, by issuing independent opinions on the quality of management and control systems and by issuing recommendations for improving the conditions of implementation of operations and promoting sound financial management.
+
+3\. The responsibility for adopting internal control standards and putting in place internal control systems and procedures suitable for performing the tasks of the internal auditor shall lie with the Board in its plenary session.
+
+###### Article 63 — Implementation of the budget, presentation of accounts and discharge
+
+1\. The Chair shall act as authorising officer and shall implement the Board's budget.
+
+2\. By 1 March of the following financial year, the Board's Accounting Officer shall send the provisional accounts, accompanied by the report on budgetary and financial management during the financial year, to the Court of Auditors for observations.
+
+By 31 March of the following financial year, the Board's Accounting Officer shall submit the report on budgetary and financial management to the members of the Board, and to the European Parliament, the Council and the Commission.
+
+3\. By 31 March each year, the Chair shall transmit to the European Parliament, the Council and the Commission the Board's provisional accounts for the preceding financial year.
+
+4\. On receipt of the Court of Auditors' observations on the Board's provisional accounts, the Chair, acting on his or her own responsibility, shall draw up the Board's final accounts and shall send them to the Board in its plenary session, for approval.
+
+5\. The Chair shall, following the approval by the Board, by 1 July each year, send the final accounts for the preceding financial year to the European Parliament, the Council, the Commission, and the Court of Auditors.
+
+6\. Where observations are received from the Court of Auditors, the Chair shall send a reply by 30 September.
+
+7\. By 15 November each year, the final accounts for the preceding financial year shall be published in the Official Journal of the European Union.
+
+8\. The Board, in its plenary session, shall give discharge to the Chair in respect of the implementation of the budget.
+
+9\. The Chair shall submit at the request of either the European Parliament or the Council, any information referred to in the Board's accounts to the requesting Union institution, subject to the requirements of professional secrecy laid down in this Regulation.
+
+###### Article 64 — Financial rules
+
+The Board shall, after consulting the Court of Auditors and the Commission, adopt internal financial provisions specifying, in particular, the detailed procedure for establishing and implementing its budget in accordance with Articles 61 and 63.
+
+As far as is compatible with the particular nature of the Board, the financial provisions shall be based on the framework financial Regulation adopted for bodies set up under the TFEU in accordance with Article 208 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council ( 16 ).
+
+###### Article 65 — Contributions to the administrative expenditures of the Board
+
+1\. Entities referred to in Article 2 shall contribute to part I of the budget of the Board in accordance with this Regulation and the delegated acts on contributions adopted pursuant to paragraph 5 of this Article.
+
+2\. The amounts of the contributions shall be fixed at such a level as to ensure that the revenue in respect thereof is in principle sufficient for part I of the budget of the Board to be balanced each year.
+
+3\. The Board shall determine and raise, in accordance with the delegated acts referred to in paragraph 5 of this Article, the contributions due by each entity referred to in Article 2 in a decision addressed to the entity concerned. The Board shall apply procedural, reporting and other rules ensuring that contributions are paid fully and in a timely manner.
+
+4\. The amounts raised in accordance with paragraphs 1, 2, 3 shall be used only for the purposes of this Regulation.
+
+5\. The Commission shall be empowered to adopt delegated acts on contributions in accordance with Article 93 in order to:
+
+(a) determine the type of contributions and the matters for which contributions are due, the manner in which the amount of the contributions is calculated, and the way in which they are to be paid;
+
+(b) specify registration, accounting, reporting and other rules referred to in paragraph 3 necessary to ensure that the contributions are paid fully and in a timely manner;
+
+(c) determine the annual contributions necessary to cover the administrative expenditure of the Board before it becomes fully operational.
+
+###### Article 66 — Anti-fraud measures
+
+1\. For the purposes of combating fraud, corruption and any other unlawful activity under Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council ( 17 ), within six months from the day the Board becomes operational, it shall accede to the Interinstitutional Agreement of 25 May 1999 concerning internal investigations by OLAF and shall immediately adopt appropriate provisions applicable to all staff of the Board using the template set out in the Annex to that Interinstitutional Agreement.
+
+2\. The Court of Auditors shall have the power of audit, on the basis of documents and on the spot, over the beneficiaries, contractors and subcontractors who have received funds from the Board.
+
+3\. OLAF may carry out investigations, including on-the-spot checks and inspections with a view to establishing whether there has been fraud, corruption or other illegal activity affecting the financial interests of the Union in connection with a contract funded by the Board in accordance with the provisions and procedures laid down in Council Regulation (Euratom, EC) No 2185/96 ( 18 ) and Regulation (EU, Euratom) No 883/2013.
+
+#### CHAPTER 2 — The Single Resolution Fund
+
+##### Section 1 — Constitution of the Fund
+
+###### Article 67 — General provisions
+
+1\. The Single Resolution Fund (‘the Fund’) is hereby established. It shall be filled in accordance with the rules on transferring the funds raised at national level towards the Fund as laid down in the Agreement.
+
+2\. The Board shall use the Fund only for the purpose of ensuring the efficient application of the resolution tools and exercise of the resolution powers referred to in Part II, Title I and in accordance with the resolution objectives and the principles governing resolution referred to in Articles 14 and 15. Under no circumstances shall the Union budget or the national budgets be held liable for expenses or losses of the Fund.
+
+3\. The owner of the Fund shall be the Board.
+
+4\. Contributions referred to in Articles 69, 70 and 71 shall be raised from entities referred to in Article 2 by the national resolution authorities and transferred to the Fund in accordance with the Agreement.
+
+###### Article 68 — Requirement to establish resolution financing arrangements
+
+Participating Member States shall establish financing arrangements in accordance with Article 100 of Directive 2014/59/EU and with this Regulation.
+
+###### Article 69 — Target level
+
+1\. By the end of an initial period of eight years from 1 January 2016 or, otherwise, from the date on which this paragraph is applicable by virtue of Article 99(6), the available financial means of the Fund shall reach at least 1 % of the amount of covered deposits of all credit institutions authorised in all of the participating Member States.
+
+2\. During the initial period referred to in paragraph 1, contributions to the Fund calculated in accordance with Article 70, and raised in accordance with Article 67(4), shall be spread out in time as evenly as possible until the target level is reached, but with due account of the phase of the business cycle and the impact that pro-cyclical contributions may have on the financial position of contributing institutions.
+
+3\. The Board shall extend the initial period referred to in paragraph 1 for a maximum of four years in the event that the Fund has made cumulative disbursements in excess of 0,5 % of the total amount of covered deposits referred to in paragraph 1 and where the criteria of the delegated act referred in paragraph 5(b) are met.
+
+4\. If, after the initial period referred to in paragraph 1, the available financial means diminish below the target level specified in that paragraph, the regular contributions calculated in accordance with Article 70 shall be raised until the target level is reached. After the target level has been reached for the first time and where the available financial means have subsequently been reduced to less than two-thirds of the target level, those contributions shall be set at a level allowing for reaching the target level within six years.
+
+The regular contribution shall take due account of the phase of the business cycle, and the impact pro-cyclical contributions may have when setting annual contributions in the context of this paragraph.
+
+5\. The Commission shall be empowered to adopt delegated acts in accordance with Article 93 to specify the following:
+
+(a) criteria for the spreading out in time of the contributions to the Fund calculated under paragraph 2;
+
+(b) criteria for determining the number of years by which the initial period referred to in paragraph 1 can be extended under paragraph 3;
+
+(c) criteria for establishing the annual contributions provided for in paragraph 4.
+
+###### Article 70 — Ex-ante contributions
+
+1\. The individual contribution of each institution shall be raised at least annually and shall be calculated pro-rata to the amount of its liabilities (excluding own funds) less covered deposits, with respect to the aggregate liabilities (excluding own funds) less covered deposits, of all of the institutions authorised in the territories of all of the participating Member States.
+
+2\. Each year, the Board shall, after consulting the ECB or the national competent authority and in close cooperation with the national resolution authorities, calculate the individual contributions to ensure that the contributions due by all of the institutions authorised in the territories of all of the participating Member States shall not exceed 12,5 % of the target level.
+
+Each year the calculation of the contributions for individual institutions shall be based on:
+
+(a) a flat contribution, that is pro-rata based on the amount of an institution's liabilities excluding own funds and covered deposits, with respect to the total liabilities, excluding own funds and covered deposits, of all of the institutions authorised in the territories of the participating Member States; and
+
+(b) a risk-adjusted contribution, that shall be based on the criteria laid down in Article 103(7) of Directive 2014/59/EU, taking into account the principle of proportionality, without creating distortions between banking sector structures of the Member States.
+
+The relation between the flat contribution and the risk-adjusted contributions shall take into account a balanced distribution of contributions across different types of banks.
+
+In any case, the aggregate amount of individual contributions by all of the institutions authorised in the territories of all of the participating Member States, calculated under points (a) and (b), shall not exceed annually the 12,5 % of the target level.
+
+3\. The available financial means to be taken into account in order to reach the target level specified in Article 69 may include irrevocable payment commitments which are fully backed by collateral of low-risk assets unencumbered by any third-party rights, at the free disposal of and earmarked for the exclusive use by the Board for the purposes specified in Article 76(1). The share of those irrevocable payment commitments shall not exceed 30 % of the total amount of contributions raised in accordance with this Article.
+
+4\. The duly received contributions of each entity referred to in Article 2 shall not be reimbursed to those entities.
+
+5\. Where participating Member States have already established national resolution financing arrangements, they may provide that those arrangements use their available financial means, collected from institutions between 17 June 2010 and the date of entry into force of Directive 2014/59/EU, to compensate institutions for the ex-ante contributions which those institutions may be required to pay into the Fund. Such restitution shall be without prejudice to the obligations of Member States laid down in Directive 2014/49/EU.
+
+6\. The delegated acts specifying the notion of adjusting contributions in proportion to the risk profile of institutions, adopted by the Commission under Article 103(7) of Directive 2014/59/EU, shall be applied.
+
+7\. The Council, acting on a proposal from the Commission, shall, within the framework of the delegated acts referred to in paragraph 6, adopt implementing acts to determine the conditions of implementation of paragraphs 1, 2, and 3, and in particular in relation to:
+
+(a) the application of the methodology for the calculation of individual contributions;
+
+(b) the practical modalities for allocating to institutions the risk factors specified in the delegated act.
+
+###### Article 71 — Extraordinary ex-post contributions
+
+1\. Where the available financial means are not sufficient to cover the losses, costs or other expenses incurred by the use of the Fund in resolution actions, extraordinary ex-post contributions from the institutions authorised in the territories of participating Member States shall be raised, in order to cover the additional amounts. Those extraordinary ex-post contributions shall be calculated and allocated between institutions in accordance with the rules laid down in Articles 69 and 70.
+
+The total amount of extraordinary ex-post contributions per year shall not exceed three times the annual amount of contributions determined in accordance with Article 70.
+
+2\. The Board shall, on its own initiative after consulting the national resolution authority or upon proposal by a national resolution authority, defer, in whole or in part, in accordance with the delegated acts referred to in paragraph 3, an institution's payment of extraordinary ex-post contributions in accordance with paragraph 1 if it is necessary to protect its financial position. Such a deferral shall not be granted for a period of longer than six months but may be renewed on request of the institution. The contributions deferred pursuant to this paragraph shall be made later at a point in time when the payment no longer jeopardises the institution's financial position.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 93 to specify the circumstances and conditions under which the payment of ex-post contributions by an entity referred to in Article 2 may be partially or entirely deferred pursuant to paragraph 2 of this Article.
+
+###### Article 72 — Voluntary borrowing between resolution financing arrangements
+
+1\. The Board shall decide to make a request to voluntarily borrow for the Fund from resolution financing arrangements within non-participating Member States, in the event that:
+
+(a) the amounts raised under Article 70 are not sufficient to cover the losses, costs or other expenses incurred by the use of the Fund in relation to resolution actions;
+
+(b) the extraordinary ex-post contributions provided for in Article 71 are not immediately accessible; and
+
+(c) the alternative funding means provided for in Article 73 are not immediately accessible on reasonable terms.
+
+2\. Those resolution financing arrangements shall decide on such a request in accordance with Article 106 of Directive 2014/59/EU. The borrowing conditions shall be subject to Article 106(4), (5) and (6) of Directive 2014/59/EU.
+
+3\. The Board may decide to lend to other resolution financing arrangements within non-participating Member States if a request is made in accordance with Article 106 of Directive 2014/59/EU. The lending conditions shall be subject to Article 106(4), (5) and (6) of Directive 2014/59/EU.
+
+###### Article 73 — Alternative funding means
+
+1\. The Board may contract for the Fund borrowings or other forms of support from those institutions, financial institutions or other third parties, which offer better financial terms at the most appropriate time so as to optimise the cost of funding and preserve its reputation in the event that the amounts raised in accordance with Articles 70 and 71 are not immediately accessible or do not cover the expenses incurred by the use of the Fund in relation to resolution actions.
+
+2\. The borrowing or other forms of support referred to in paragraph 1 shall be fully recouped in accordance with Articles 69, 70 and 71 within the maturity period of the loan.
+
+3\. Any expenses incurred by the use of the borrowings specified in paragraph 1 shall be borne by Part II of the budget of the Board and not by the Union budget or the participating Member States.
+
+###### Article 74 — Access to financial facility
+
+The Board shall contract for the Fund financial arrangements, including, where possible, public financial arrangements, regarding the immediate availability of additional financial means to be used in accordance with Article 76, where the amounts raised or available in accordance with Articles 70 and 71 are not sufficient to meet the Funds' obligations.
+
+The Board shall inform the Commission and the ECB as soon as it considers that it might be necessary to activate the financial arrangements contracted for the Fund in accordance with this Article, and shall provide the Commission and the ECB with all of the information necessary for the performance of their tasks in respect of those financial arrangements.
+
+##### Section 2 — Administration of the Fund
+
+###### Article 75 — Investments
+
+1\. The Board shall administer the Fund in accordance with this Regulation and delegated acts adopted under paragraph 4.
+
+2\. The amounts received from an institution under resolution or a bridge institution, the interests and other earnings on investments and any other earnings shall benefit only the Fund.
+
+3\. The Board shall have a prudent and safe investment strategy that is provided for in the delegated acts adopted pursuant to paragraph 4 of this Article, and shall invest the amounts held in the Fund in obligations of the Member States or intergovernmental organisations, or in highly liquid assets of high creditworthiness, taking into account the delegated act referred to in Article 460 of Regulation (EU) No 575/2013 as well as other relevant provisions of that Regulation. Investments shall be sufficiently sectorally, geographically and proportionally diversified. The return on those investments shall benefit the Fund.
+
+4\. The Commission shall be empowered to adopt delegated acts on the detailed rules for the administration of the Fund and general principles and criteria for its investment strategy, in accordance with the procedure laid down in Article 93.
+
+##### Section 3 — Use of the Fund
+
+###### Article 76 — Mission of the Fund
+
+1\. Within the resolution scheme, when applying the resolution tools to entities referred to in Article 2, the Board may use the Fund only to the extent necessary to ensure the effective application of the resolution tools for the following purposes:
+
+(a) to guarantee the assets or the liabilities of the institution under resolution, its subsidiaries, a bridge institution or an asset management vehicle;
+
+(b) to make loans to the institution under resolution, its subsidiaries, a bridge institution or an asset management vehicle;
+
+(c) to purchase assets of the institution under resolution;
+
+(d) to make contributions to a bridge institution and an asset management vehicle;
+
+(e) to pay compensation to shareholders or creditors if, following an evaluation pursuant to Article 20(5) they have incurred greater losses that they would have incurred, following a valuation pursuant to Article 20(16), in a winding up under normal insolvency proceedings;
+
+(f) to make a contribution to the institution under resolution in lieu of the write-down or conversion of liabilities of certain creditors, when the bail-in tool is applied and the decision is made to exclude certain creditors from the scope of bail-in in accordance with Article 27(5);
+
+(g) to take any combination of the actions referred to in points (a) to (f).
+
+2\. The Fund may be used to take the actions referred to in paragraph 1 also with respect to the purchaser in the context of the sale of business tool.
+
+3\. The Fund shall not be used directly to absorb the losses of an entity referred to in Article 2 or to recapitalise such an entity. In the event that the use of the Fund for the purposes in paragraph 1of this Article indirectly results in part of the losses of an entity referred to in Article 2 being passed on to the Fund, the principles governing the use of the Fund set out in Article 27 shall apply.
+
+4\. The Board may not hold the capital contributed to in accordance with point (f) of paragraph 1 for a period exceeding five years.
+
+###### Article 77 — Use of the Fund
+
+The use of the Fund shall be contingent upon the Agreement whereby the participating Member States agree to transfer to the Fund the contributions that they raise at national level in accordance with this Regulation and with Directive 2014/59/EU and shall comply with the principles laid down in that Agreement.
+
+Accordingly, until the Fund reaches the target level referred to in Article 69, but until no later than eight years after the date of application of this Article, the Board shall use the Fund in accordance with principles founded on a division of the Fund into national compartments corresponding to each participating Member State, as well as on a progressive merger of the different funds raised at national level to be allocated to national compartments of the Fund, as laid down in the Agreement.
+
+###### Article 78 — Mutualisation of national financing arrangements in the case of group resolution involving institutions in non-participating Member States
+
+In the case of a group resolution involving institutions established in one or more participating Member States on the one hand, and institutions established in one or more non-participating Member States on the other hand, the Fund shall contribute to the financing of the group resolution in accordance with the provisions laid down in Article 107(2) to (5) of Directive 2014/59/EU.
+
+###### Article 79 — Use of deposit guarantee schemes in the context of resolution
+
+1\. Participating Member States shall ensure that when the Board takes resolution action, provided that that action ensures that depositors continue to have access to their deposits, the deposit guarantee scheme to which the institution is affiliated shall be liable for the amounts specified in Article 109(1) and (4) of Directive 2014/59/EU.
+
+The relevant deposit guarantee scheme shall subrogate to the rights and obligations of covered depositors in liquidation proceedings for an amount equal to its payment.
+
+2\. The determination of the amount by which the deposit guarantee scheme is liable in accordance with paragraph 1 of this Article shall comply with the conditions referred to in Article 20.
+
+3\. Before deciding, in accordance with paragraph 2 of this Article, the amount by which the deposit guarantee scheme is liable, the Board shall consult the concerned designated authority within the meaning of Article 2(1)(18) of Directive 2014/49/EU, taking fully into account the urgency of the matter.
+
+4\. Where eligible deposits at an institution under resolution are transferred to another entity through the sale of business tool or the bridge institution tool, the depositors have no claim under Directive 2014/49/EU against the deposit guarantee scheme in relation to any part of their deposits at the institution under resolution that are not transferred, provided that the amount of funds transferred is equal to or more than the aggregate coverage level provided for in Article 6 of that Directive.
+
+5\. Notwithstanding paragraphs 1 to 4, if the available financial means of a deposit guarantee scheme are used in accordance therewith and are subsequently reduced to less than two-thirds of the target level of the deposit guarantee scheme, the regular contribution to the deposit guarantee scheme shall be set at a level allowing for reaching the target level within six years.
+
+The liability of a deposit guarantee scheme shall not be greater than the amount equal to 50 % of its target level pursuant to Article 10(2) of Directive 2014/49/EU.
+
+In any circumstances, the deposit guarantee scheme's participation under this Regulation shall not exceed the losses it would have incurred in a winding up under normal insolvency proceedings.
+
+###### Article 79b — Reporting on liquidity in resolution
+
+By 31 December 2026, the Commission shall submit a report to the European Parliament and to the Council on the issue of liquidity in resolution.
+
+The report referred to in the first subparagraph shall take stock of the existing arrangements for the provision of liquidity in resolution, including both private and public mechanisms, and examine the most efficient ways to address temporary liquidity shortfalls, taking into account any relevant developments at international level. That report shall present policy options.
+
+### TITLE VI — OTHER PROVISIONS
+
+###### Article 80 — Privileges and Immunities
+
+Protocol No 7 on the Privileges and Immunities of the European Union annexed to the TEU and to the TFEU shall apply to the Board and its staff.
+
+###### Article 81 — Language arrangements
+
+1\. Council Regulation No 1 ( 19 ) shall apply to the Board.
+
+2\. The Board shall decide on the internal language arrangements for the Board.
+
+3\. The Board may decide which of the official languages to use when sending documents to Union institutions or bodies.
+
+4\. The Board may agree with each national resolution authority on the language or languages in which the documents to be sent to or by the national resolution authorities shall be drafted.
+
+5\. The translation services required for the functioning of the Board shall be provided by the Translation Centre of the bodies of the European Union.
+
+###### Article 82 — Staff
+
+1\. The Staff Regulations, the Conditions of Employment and the rules adopted jointly by the Union institutions, for the purpose of applying them shall apply to the staff of the Board.
+
+By way of derogation from the first subparagraph, the Chair, the Vice-Chair and the four members referred to in Article 43(1)(b) shall, respectively, be on a par with a Vice-President, Judge and Registrar of the Court of Justice regarding emoluments and pensionable age, as defined in Regulation (EC) No 422/67/EEC, 5/67/Euratom of the Council ( 20 ). They shall not be subject to a maximum retirement age. For aspects not covered by this Regulation or by Regulation (EC) No 422/67/EEC, 5/67/Euratom, the Staff Regulations and the Conditions of Employment shall apply by analogy.
+
+2\. The Board, in agreement with the Commission, shall adopt the necessary implementing measures, in accordance with the arrangements provided for in Article 110 of the Staff Regulations.
+
+3\. In respect of its staff, the Board shall exercise the powers conferred on the appointing authority by the Staff Regulations and on the authority entitled to conclude contracts by the Conditions of Employment.
+
+###### Article 83 — Staff exchange
+
+1\. The Board may make use of seconded national experts or other staff not employed by the Board.
+
+2\. The Board in its plenary session shall adopt appropriate decisions laying down rules on the exchange and secondment of staff from and among the national resolution authorities to the Board.
+
+3\. The Board may establish internal resolution teams composed of its own staff and staff of the national resolution authorities, as well as observers from non-participating Member States' resolution authorities, where appropriate.
+
+4\. Where the Board establishes internal resolution teams as provided for in paragraph 3 of this Article, it shall appoint coordinators of those teams from its own staff. In accordance with Article 51(3), the coordinators may be invited as observers to attend the meetings of the executive session of the Board in which the members appointed by the respective Member States participate in accordance with Article 53(3) and (4).
+
+###### Article 84 — Internal committees
+
+The Board may establish internal committees to provide it with advice and guidance on the discharge of its functions under this Regulation.
+
+###### Article 85 — Appeal Panel
+
+1\. The Board shall establish an Appeal Panel for the purposes of deciding on appeals submitted in accordance with paragraph 3.
+
+2\. The Appeal Panel shall be composed of five individuals of high repute, from the Member States and with a proven record of relevant knowledge and professional experience, including resolution experience, to a sufficiently high level in the fields of banking or other financial services, excluding current staff of the Board, as well as current staff of resolution authorities or other national or Union institutions, bodies, offices and agencies who are involved in performing the tasks conferred on the Board by this Regulation. The Appeal Panel shall have sufficient resources and expertise to provide expert legal advice on the legality of the Board's exercise of its powers. Members of the Appeal Panel and two alternates shall be appointed by the Board for a term of five years, which may be extended once, following a public call for expressions of interest published in the Official Journal of the European Union. They shall not be bound by any instructions.
+
+3\. Any natural or legal person, including resolution authorities, may appeal against a decision of the Board adopted under Article 10(10), Article 11, Article 12(1), Articles 38 to 41, Article 65(3), Article 71 and Article 90(3) which is addressed to that person, or which is of direct and individual concern to that person.
+
+The appeal, together with a statement of grounds, shall be filed in writing at the Appeal Panel within six weeks of the date of notification of the decision to the person concerned, or, in the absence of a notification, of the day on which the decision came to the knowledge of the person concerned.
+
+4\. The Appeal Panel shall decide upon the appeal within one month after the appeal has been lodged.
+
+The Appeal Panel shall decide on the basis of a majority of at least three of its five members.
+
+5\. The members of the Appeal Panel shall act independently and in the public interest. For that purpose, they shall make a public declaration of commitments and a public declaration of interests indicating any direct or indirect interest which might be considered to be prejudicial to their independence or the absence of any such interest.
+
+6\. An appeal lodged pursuant to paragraph 3 shall not have suspensive effect.
+
+However, the Appeal Panel may, if it considers that circumstances so require, suspend the application of the contested decision.
+
+7\. If the appeal is admissible, the Appeal Panel shall examine whether it is well founded. It shall invite the parties to the appeal proceedings to file observations on its own notifications or on communications from the other parties to the appeal proceedings, within specified time limits. Parties to the appeal proceedings shall be entitled to make oral representations.
+
+8\. The Appeal Panel may confirm the decision taken by the Board, or remit the case to the latter. The Board shall be bound by the decision of Appeal Panel and it shall adopt an amended decision regarding the case concerned.
+
+9\. The decisions of the Appeal Panel shall be reasoned and notified to the parties.
+
+10\. The Appeal Panel shall adopt and make public its rules of procedure.
+
+###### Article 86 — Actions before the Court of Justice
+
+1\. Proceedings may be brought before the Court of Justice in accordance with Article 263 TFEU contesting a decision taken by the Appeal Panel or, where there is no right of appeal to the Appeal Panel, by the Board.
+
+2\. Member States and the Union institutions, as well as any natural or legal person, may institute proceedings before the Court of Justice against decisions of the Board, in accordance with Article 263 TFEU.
+
+3\. In the event that the Board has an obligation to act and fails to take a decision, proceedings for failure to act may be brought before the Court of Justice in accordance with Article 265 TFEU.
+
+4\. The Board shall take the necessary measures to comply with the judgment of the Court of Justice.
+
+###### Article 87 — Liability of the Board
+
+1\. The Board's contractual liability shall be governed by the law applicable to the contract in question.
+
+2\. The Court of Justice shall have jurisdiction to give judgement pursuant to any arbitration clause contained in a contract concluded by the Board.
+
+3\. In the case of non-contractual liability, the Board shall, in accordance with the general principles common to the laws concerning the liability of public authorities of the Member States, make good any damage caused by it or by its staff in the performance of their duties, in particular their resolution functions, including acts and omissions in support of foreign resolution proceedings.
+
+4\. The Board shall compensate a national resolution authority for the damages which it has been ordered to pay by a national court, or which it has, in agreement with the Board, undertaken to pay pursuant to an amicable settlement, which are the consequences of an act or omission committed by that national resolution authority in the course of any resolution under this Regulation of entities and groups referred to in Article 7(2), and of entities and groups referred to in Article 7(4)(b) and (5) where the conditions for the application of those paragraphs are met or pursuant to the second subparagraph of Article 7(3). That obligation shall not apply where that act or omission constituted an infringement of this Regulation, of another provision of Union law, of a decision of the Board, of the Council, or of the Commission, committed intentionally or with manifest and serious error of judgement.
+
+5\. The Court of Justice shall have jurisdiction in any dispute relating to paragraphs 3 and 4. Proceedings in matters arising from non-contractual liability shall be barred after a period of five years from the occurrence of the event giving rise thereto.
+
+6\. The personal liability of its staff towards the Board shall be governed by the provisions laid down in the Staff Regulations or Conditions of Employment applicable to them.
+
+###### Article 88 — Professional secrecy and exchange of information
+
+1\. Members of the Board, the Vice-Chair, the members of the Board referred to in Article 43(1)(b), the staff of the Board and staff exchanged with or seconded by participating Member States carrying out resolution duties shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased. They shall in particular be prohibited from disclosing confidential information received during the course of their professional activities or from a competent authority or resolution authority in connection with their functions under this Regulation, to any person or authority, unless it is in the exercise of their functions under this Regulation or in summary or collective form such that entities referred to in Article 2 cannot be identified or with the express and prior consent of the authority or the entity which provided the information.
+
+Information subject to the requirements of professional secrecy shall not be disclosed to another public or private entity except where such disclosure is due for the purpose of legal proceedings.
+
+Those requirements shall also apply to potential purchasers contacted in order to prepare for the resolution of an entity pursuant to Article 13(3).
+
+2\. The Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the discharge of its duties, including officials and other persons authorised by the Board or appointed by the national resolution authorities to conduct on-site inspections, are subject to the requirements of professional secrecy equivalent to those referred to in paragraph 1.
+
+3\. The requirements of professional secrecy referred to in paragraph 1 shall also apply to observers who attend the Board's meetings and to observers from non-participating Member States who take part in internal resolution teams in accordance with Article 83(3).
+
+4\. The Board shall take the necessary measures to ensure the safe handling and processing of confidential information.
+
+5\. Before any information is disclosed, the Board shall ensure that it does not contain confidential information, in particular, by assessing the effects that the disclosure could have on the public interest as regards financial, monetary or economic policy, on the commercial interests of natural and legal persons, on the purpose of inspections, on investigations and on audits. The procedure for checking the effects of disclosing information shall include a specific assessment of the effects of any disclosure of the contents and details of resolution plans as referred to in Articles 8 and 9, the result of any assessment carried out under Article 10 or the resolution scheme referred to in Article 18.
+
+6\. This Article shall not prevent the Board, the Council, the Commission, the ECB, the national resolution authorities or the national competent authorities, including their employees and experts, from sharing information with each other and with competent ministries, central banks, designated authorities, deposit guarantee schemes, investor compensation schemes, authorities responsible for normal insolvency proceedings, insurance resolution authorities, insurance supervisory authorities, resolution and competent authorities from non-participating Member States, EBA, or, subject to Article 33, third-country authorities that carry out functions equivalent to those of a resolution authority, or, subject to strict confidentiality requirements, with a potential purchaser for the purposes of planning or carrying out a resolution action.
+
+7\. This Article shall not prevent the Board from exchanging information with other authorities as defined in Article 31a(12).
+
+8\. This Article shall not prevent the Board from disclosing its analyses or assessments, including when they are based on information provided by the entities referred to in Article 2 or other authorities as referred to in paragraph 6 of this Article, when the Board assesses that the disclosure would not undermine the protection of the public interest as regards financial, monetary or economic policy and that there is a public interest in disclosing which overrides any other interests referred to in paragraph 5 of this Article. Such disclosure shall be considered to be made by the Board in the exercise of its functions under this Regulation for the purposes of paragraph 1 of this Article.
+
+###### Article 89 — Data protection
+
+This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Directive 95/46/EC of the European Parliament and of the Council ( 21 ) or the obligations of the Board, the Council and the Commission relating to their processing of personal data under Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 22 ) when fulfilling their responsibilities.
+
+###### Article 90 — Access to documents
+
+1\. Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 23 ) shall apply to documents held by the Board.
+
+2\. The Board shall, within six months of the date of its first meeting, adopt the practical measures for applying Regulation (EC) No 1049/2001.
+
+3\. Decisions taken by the Board under Article 8 of Regulation (EC) No 1049/2001 may be the subject of a complaint to the European Ombudsman or of proceedings before the Court of Justice, following an appeal to the Appeal Panel, referred to in Article 85 of this Regulation, as appropriate, under the conditions laid down in Articles 228 and 263 TFEU respectively.
+
+4\. Persons who are the subject of the Board's decisions shall be entitled to have access to the Board's file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or internal preparatory documents of the Board.
+
+###### Article 91 — Security rules on the protection of classified and sensitive non-classified information
+
+The Board shall apply the security principles contained in the Commission's security rules for protecting European Union Classified Information (EUCI) and sensitive non-classified information, as set out in the Annex to Commission Decision 2001/844/EC, ECSC, Euratom ( 24 ). Applying the security principles shall include applying provisions for the exchange, processing and storage of such information.
+
+###### Article 92 — Court of Auditors
+
+1\. The Court of Auditors shall produce a special report for each 12-month period, starting on 1 April each year.
+
+2\. Each report shall examine whether:
+
+(a) sufficient regard was had to economy, efficiency and effectiveness with which the Fund has been used, in particular the need to minimise the use of the Fund;
+
+(b) the assessment of Fund aid was efficient and rigorous.
+
+3\. Each report under paragraph 1 shall be produced within six months of the end of the period to which the report relates.
+
+4\. Following consideration of the final accounts prepared by the Board in accordance with Article 63, the Court of Auditors shall prepare a report on its findings by 1 December following each financial year. The Court of Auditors shall, in particular, report on any contingent liabilities (whether for the Board, the Council, the Commission or otherwise) arising as a result of the performance by the Board, the Council and the Commission of their tasks under this Regulation.
+
+5\. The European Parliament and the Council may request that the Court of Auditors examine any other relevant matters falling within their competence set out in Article 287(4) TFEU.
+
+6\. The reports referred to in paragraphs 1 and 4 shall be sent to the Board, the European Parliament, the Council and the Commission and shall be made public without delay.
+
+7\. Within two months of the date on which each report under paragraph 1 is made public the Commission shall provide a detailed written response which shall be made public.
+
+Within two months of the date on which each report under paragraph 4 is made public the Board, the Council and the Commission shall each provide a detailed written response which shall be made public.
+
+8\. The Court of Auditors shall have the power to obtain from the Board, the Council and the Commission any information relevant for performing the tasks conferred on it by this Article. The Board, the Council and the Commission shall provide any relevant information requested within such a timeframe as may be specified by the Court of Auditors.
+
+## PART IV — POWERS OF EXECUTION AND FINAL PROVISIONS
+
+###### Article 93 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The delegation of power referred to in Article 19(8), Article 65(5), Article 69(5), Article 71(3) and Article 75(4) shall be conferred for an indeterminate period of time from the relevant dates referred to in Article 99.
+
+3\. The Commission shall ensure consistency between delegated acts adopted pursuant to this Regulation and delegated acts adopted pursuant to Directive 2014/59/EU.
+
+4\. The delegation of power referred to in Article 19(8), Article 65(5), Article 69(5), Article 71(3) and Article 75(4) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 19(8), Article 65(5), Article 69(5), Article 71(3) and Article 75(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.
+
+7\. The Commission shall not adopt delegated acts where the scrutiny time of the European Parliament is reduced through recess to less than five months, including any extension.
+
+###### Article 94 — Review
+
+1\. By 31 December 2018, and every three years thereafter, the Commission shall publish a report on the application of this Regulation, with a special emphasis on monitoring the potential impact on the smooth functioning of the internal market. That report shall evaluate:
+
+(a) the functioning of the SRM, its cost efficiency, as well as the impact of its resolution activities on the interests of the Union as a whole and on the coherence and integrity of the internal market for financial services, including its possible impact on the structures of the national banking systems within the Union, in comparison with other banking systems, and regarding the effectiveness of cooperation and information sharing arrangements within the SRM, between the SRM and the SSM, and between the SRM, national resolution authorities, competent authorities and resolution authorities of non-participating Member States, in particular assessing whether:
+
+(i) there is a need that the functions allocated by this Regulation to the Board, to the Council and to the Commission, be exercised exclusively by an independent Union institution and, if so, whether any changes of the relevant provisions are necessary including at the level of primary law;
+
+(ii) cooperation between the SRM, the SSM, the ESRB, EBA, ESMA and EIOPA, and the other authorities which form part of the ESFS, is appropriate;
+
+(iii) the investment portfolio in accordance with Article 75 is made of sound and diversified assets;
+
+(iv) the link between sovereign debt and banking risk has been broken;
+
+(v) governance arrangements, including the division of tasks within the Board and the composition of the voting arrangements both in the executive and the plenary sessions of the Board and its relations with the Commission and the Council are appropriate;
+
+(vi) the reference point for setting the target level for the Fund is adequate and in particular, whether covered deposits or total liabilities is a more appropriate basis and if a minimum absolute amount for the Fund should be established in order to avoid volatility in the flow of financial means to the Fund and to ensure the stability and adequacy of the financing of the Fund over time;
+
+(vii) it is necessary to modify the target level established for the Fund and the level of contributions in order to ensure a level playing field within the Union;
+
+(b) the effectiveness of independence and accountability arrangements;
+
+(c) the interaction between the Board and EBA;
+
+(d) the interaction between the Board and the national resolution authorities of non-participating Member States and the effects of the SRM on those Member States, and the interaction between the Board and relevant third-country authorities as defined in Article 2(1)(90) of Directive 2014/59/EU;
+
+(e) the necessity of taking steps in order to harmonise insolvency proceedings for failed institutions.
+
+2\. The report shall be submitted to the European Parliament and to the Council. The Commission shall make accompanying proposals, as appropriate.
+
+3\. When reviewing Directive 2014/59/EU, the Commission is invited also to review this Regulation, as appropriate.
+
+###### Article 95 — Amendment to Regulation (EU) No 1093/2010
+
+Regulation (EU) No 1093/2010 is amended as follows:
+
+(1) In Article 4, point (2) is replaced by the following:
+
+‘(2) “competent authorities” means:
+
+(i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
+
+(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
+
+(iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council ( *1 ), or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive; and
+
+(iv) with regard to Directive 2014/59/EU of the European Parliament and of the Council ( *2 ) and to Regulation (EU) No 806/2014 of the European Parliament and of the Council ( *3 ), the resolution authorities, defined in Article 3 of Directive 2014/59/EU, the Single Resolution Board, established by Regulation (EU) No 806/2014, and the Council and the Commission when taking actions under Article 18 of Regulation (EU) No 806/2014, except where they exercise discretionary powers or make policy choices.
+
+(2) In Article 25, the following paragraph is inserted:
+
+‘1a. The Authority may organise and conduct peer reviews of the exchange of information and of the joint activities of the Board referred to in Regulation (EU) No 806/2014 and national resolution authorities of Member States non-participating in the Single Resolution Mechanism in the resolution of cross-border groups to strengthen effectiveness and consistency in outcomes. To that end, the Authority shall develop methods to allow for objective assessment and comparison.’;
+
+(3) In Article 40(6), the following subparagraph is added:
+
+‘For the purpose of acting within the scope of Directive 2014/59/EU, the Chair of the Single Resolution Board shall be an observer to the Board of Supervisors.’.
+
+###### Article 96 — Replacement of national resolution financing arrangements
+
+From the date of application referred to in Article 99(2) and (6) of this Regulation, the Fund shall be considered to be the resolution financing arrangement of the participating Member States under Articles 99 to 109 of Directive 2014/59/EU.
+
+###### Article 97 — Headquarters Agreement and operating conditions
+
+1\. The necessary arrangements concerning the accommodation to be provided for the Board in the Member State where its seat is located and the facilities to be made available by that Member State, as well as the specific rules applicable in that Member State to the Chair, members of the Board in its plenary session, Board staff and members of their families shall be laid down in a Headquarters Agreement between the Board and that Member State, concluded after obtaining the approval of the Board in its plenary session and no later than 20 August 2016.
+
+2\. The Member State where the Board's seat is located shall provide the best possible conditions to ensure the proper functioning of the Board, including multilingual, European-oriented schooling and appropriate transport connections.
+
+###### Article 98 — Start of the Board's activities
+
+1\. The Board shall become fully operational by 1 January 2015.
+
+2\. The Commission shall be responsible for the establishment and initial operation of the Board until the Board has the operational capacity to implement its own budget. For that purpose:
+
+(a) until the Chair takes up his or her duties following his or her appointment by the Council in accordance with Article 56, the Commission may designate a Commission official to act as interim Chair and exercise the duties assigned to the Chair;
+
+(b) by way of derogation from Article 50(1)(l) and until the adoption of a decision as referred to in Article 50(3), the interim Chair shall exercise the appointing authority powers;
+
+(c) the Commission may offer assistance to the Board, in particular by seconding Commission officials to carry out the activities of the agency under the responsibility of the interim Chair or the Chair.
+
+3\. The interim Chair may authorise all payments covered by appropriations entered in the Board's budget and may conclude contracts, including staff contracts.
+
+###### Article 99 — Entry into force
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. With the exceptions set out in paragraphs 3 to 5, this Regulation shall be applicable from 1 January 2016.
+
+3\. By way of derogation from paragraph 2 of this Article, the provisions relating to the powers of the Board to collect information and cooperate with the national resolution authorities for the elaboration of resolution planning, under Articles 8 and 9 and all of the other related provisions shall apply from 1 January 2015.
+
+4\. By way of derogation from paragraph 2 of this Article, Articles 1 to 4, 6, 30, 42 to 48, 49, Article 50(1)(a), (b) and (g) to (p), Article 50(3), Article 51, Article 52(1) and (4), Article 53(1) and (2), Articles 56 to 59, 61 to 66, 80 to 84, 87 to 95 and 97 and 98 shall apply from 19 August 2014.
+
+5\. By way of derogation from paragraph 2 of this Article, Article 69(5), Article 70(6) and (7) and Article 71(3), which empower the Council to adopt implementing acts and the Commission to adopt delegated acts, shall apply from 1 November 2014.
+
+6\. From 1 January 2015, the Board shall submit a monthly report approved in its plenary session to the European Parliament, to the Council and to the Commission on whether the conditions for the transfer of contributions to the Fund have been met.
+
+From 1 December 2015, where those reports show that the conditions for the transfer of contributions to the Fund have not been met, the application of the provisions referred to in paragraph 2 shall be postponed by one month each time. The Board shall submit a further report each time at the end of that month.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+( 2 ) Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22).
+
+( 3 ) Directive (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (OJ L, 2025/1, 8.1.2025, ELI: http://data.europa.eu/eli/dir/2025/1/oj).
+
+( 4 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 5 ) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1).
+
+( 6 ) Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64).
+
+( 7 ) Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements (OJ L 168, 27.6.2002, p. 43).
+
+( 8 ) Council Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses (OJ L 82, 22.3.2001, p. 16).
+
+( 9 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+( 10 ) Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45).
+
+( 11 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
+
+( 12 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+
+( 13 ) Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (OJ L, 2024/1620, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1620/oj).
+
+( 14 ) Directive (EU) 2024/1640 of the European Parliament and of the Council of 31 May 2024 on the mechanisms to be put in place by Member States for the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Directive (EU) 2019/1937, and amending and repealing Directive (EU) 2015/849 (OJ L, 2024/1640, 19.6.2024, ELI: http://data.europa.eu/eli/dir/2024/1640/oj).
+
+( 15 ) Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities and instituting special measures temporarily applicable to officials of the Commission (OJ L 56, 4.3.1968, p. 1).
+
+( 16 ) Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
+
+( 17 ) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+
+( 18 ) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).
+
+( 19 ) Council Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385).
+
+( 20 ) Regulation (EC) No 422/67/EEC, No 5/67/Euratom of the Council of 25 July 1967 determining the emoluments of the President and Members of the Commission, of the President, Judges, Advocates-General and Registrar of the Court of Justice, of the President, Members and Registrar of the General Court and of the President, Members and Registrar of the European Union Civil Service Tribunal (OJ L 187, 8.8.1967, p. 1).
+
+( 21 ) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+( 22 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 23 ) Regulation (EC) N0 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 24 ) Commission Decision 2001/844/EC, ECSC, Euratom of 29 November 2001 amending its internal Rules of Procedure (OJ L 317, 3.12.2001, p. 1).
+
+( *1 ) Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149).
+
+( *2 ) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).
+
+( *3 ) Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1).’;

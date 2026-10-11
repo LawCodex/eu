@@ -95,8 +95,10 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 1(f) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘1</td><td>Mercury in single capped (compact) fluorescent lamps not exceeding (per burner):</td><td></td></tr>
 <tr><td>1(f) – I</td><td>For lamps designed to emit mainly light in the ultraviolet spectrum: 5 mg</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>1(f) – II</td><td>For special purposes: 5 mg</td><td>Expires on 24 February 2025’</td></tr>
 </tbody>
+</table>

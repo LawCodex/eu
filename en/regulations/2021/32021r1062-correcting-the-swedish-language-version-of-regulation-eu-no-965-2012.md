@@ -1,0 +1,60 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/1062 of 28 June 2021 correcting the Swedish language version of Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council"
+identifier: "32021R1062"
+eli: "http://data.europa.eu/eli/reg_impl/2021/1062/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-06-28
+entry_into_force: 2021-07-26
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1062"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/1062 of 28 June 2021 correcting the Swedish language version of Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/1062**
+
+**of 28 June 2021**
+
+**correcting the Swedish language version of Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (1), and in particular Article 31 thereof,
+
+Whereas:
+
+(1) The Swedish language version of Commission Regulation (EU) No 965/2012 (2) contains errors in Annex VII [Part-NCO], subpart E, Section 6, points NCO.SPEC.MCF.100, NCO.SPEC.MCF.110, NCO.SPEC.MCF.120 and NCO.SPEC.MCF.125 and in Annex VIII [Part-SPO], subpart E, Section 5, points SPO.SPEC.MCF.100 and SPO.SPEC.MCF.125 as regards incorrect headings and an incorrect reference.
+
+(2) The Swedish language version of Regulation (EU) No 965/2012 should therefore be corrected accordingly. The other language versions are not affected.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 127 of Regulation (EU) 2018/1139,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(does not concern the English language)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 28 June 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 212, 22.8.2018, p. 1.
+
+(2) Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 296, 25.10.2012, p. 1).

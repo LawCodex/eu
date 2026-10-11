@@ -53,6 +53,7 @@ Directive 66/401/EEC is amended as follows:
 
 (b) Point (b) is replaced by the following:
 
+<table>
 <tbody><tr></tr>
 <tr></tr>
 <tr><td><table><tbody><tr><td>‘(b)</td><td>Fabaceae (Leguminosae)</td></tr>
@@ -103,6 +104,7 @@ Directive 66/401/EEC is amended as follows:
 <tr><td>Vicia sativa L.</td><td>Common vetch</td></tr>
 <tr><td>Vicia villosa Roth</td><td>Hairy vetch’.</td></tr>
 </tbody>
+</table>
 
 (c) In point (c), the following entry is inserted after ‘Phacelia tanacetifolia Benth. California bluebell’:
 
@@ -161,6 +163,7 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 
 (b) The table in point I(2)(A) is replaced by the following:
 
+<table>
 <tbody><tr><td rowspan="3">‘Species</td><td colspan="2">Germination</td><td colspan="8">Analytical purity</td><td colspan="3">Maximum content of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column)</td><td rowspan="3">Conditions as regards content of seeds of Lupinus spp. of another colour and of bitter lupin seeds</td></tr>
 <tr><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Maximum content of hard seed (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content of seeds of other plant species (% by weight) </td><td rowspan="2">Avena fatua, Avena sterilis</td><td rowspan="2">Cuscuta spp.</td><td rowspan="2">Rumex spp. other than Rumex acetosella and Rumex maritimus</td></tr>
 <tr><td>Total</td><td>A single species</td><td>Elytrigia repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td><td>Raphanus raphanistrum</td><td>Sinapis arvensis</td></tr>
@@ -249,6 +252,7 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 <tr><td>Plantago lanceolata</td><td>75</td><td></td><td>85</td><td>1,5</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0 (i)</td><td>0 (j) (k)</td><td>10</td><td></td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>80 (a)</td><td></td><td>97</td><td>1,0</td><td>0,5</td><td></td><td></td><td></td><td>0,3</td><td>0,3</td><td>0</td><td>0 (j)</td><td>5</td><td></td></tr>
 </tbody>
+</table>
 
 (c) Point I(2)(B)(e) is replaced by the following:
 
@@ -256,6 +260,7 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 
 (d) The table in point II(2)(A) is replaced by the following:
 
+<table>
 <tbody><tr><td rowspan="3">‘Species</td><td colspan="6">Maximum content of seeds of other plant species</td><td rowspan="3">Other standards or conditions</td></tr>
 <tr><td rowspan="2">Total (% by weight) </td><td colspan="5">Content by number in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>A single species</td><td>Rumex spp. other than Rumex acetosella and Rumex maritimus</td><td>Elytrigia repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td></tr>
@@ -344,6 +349,7 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 <tr><td>Plantago lanceolata</td><td>0,3</td><td>20</td><td>3</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>0,3</td><td>20</td><td>2</td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 (e) Point III(7) is replaced by the following:
 
@@ -363,6 +369,7 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 
 **LOT AND SAMPLE WEIGHTS**
 
+<table>
 <tbody><tr><td>Species</td><td>Maximum weight of a lot (tonnes) </td><td>Minimum weight of a sample to be drawn from a lot (grams) </td><td>Weight of the sample for the determination by number provided for in columns 12 to 14 of Annex II (I) (2) (A) and columns 3 to 7 of Annex II (II) (2) (A) (grams) </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>Poaceae (Gramineae)</td></tr>
@@ -467,5 +474,6 @@ Annexes II and III to Directive 66/401/EEC are amended as follows:
 <tr><td>Plantago lanceolata</td><td>5</td><td>20</td><td>2</td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>10</td><td>300</td><td>300</td></tr>
 </tbody>
+</table>
 
 The maximum lot weight shall not be exceeded by more than 5 %.’

@@ -1,0 +1,1418 @@
+---
+title: "Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation)"
+identifier: "32009R1069"
+eli: "http://data.europa.eu/eli/reg/2009/1069/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-10-21
+entry_into_force: 2009-04-08
+last_amended: 2019-12-14
+consolidated_version: "02009R1069-20191214"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1069-20191214"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation)
+
+**REGULATION (EC) No 1069/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2010/63/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 September 2010 </td><td> L 276</td><td>33</td><td>20.10.2010</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 1385/2013 of 17 December 2013 </td><td> L 354</td><td>86</td><td>28.12.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 </td><td> L 95</td><td>1</td><td>7.4.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>1</td><td>25.6.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1069/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation)**
+
+## TITLE I — GENERAL PROVISIONS
+
+### CHAPTER I — Common provisions
+
+#### Section 1 — Subject matter, scope and definitions
+
+##### Article 1 — Subject matter
+
+This Regulation lays down public health and animal health rules for animal by-products and derived products, in order to prevent and minimise risks to public and animal health arising from those products, and in particular to protect the safety of the food and feed chain.
+
+##### Article 2 — Scope
+
+1\. This Regulation shall apply to:
+
+(a) animal by-products and derived products which are excluded from human consumption under Community legislation; and
+
+(b) the following products which pursuant to a decision by an operator, which shall be irreversible, are destined for purposes other than human consumption:
+
+(i) products of animal origin which may be destined for human consumption under Community legislation;
+
+(ii) raw materials for the production of products of animal origin.
+
+2\. This Regulation shall not apply to the following animal by-products:
+
+(a) entire bodies or parts of wild animals, other than wild game, which are not suspected of being infected or affected with a disease communicable to humans or animals, except for aquatic animals landed for commercial purposes;
+
+(b) entire bodies or parts of wild game which are not collected after killing, in accordance with good hunting practice, without prejudice to Regulation (EC) No 853/2004;
+
+(c) animal by-products from wild game and from wild game meat referred to in Article 1(3)(e) of Regulation (EC) No 853/2004;
+
+(d) oocytes, embryos and semen destined for breeding purposes;
+
+(e) raw milk, colostrum and products derived therefrom which are obtained, kept, disposed of or used on the farm of origin;
+
+(f) shells from shellfish with the soft tissue and flesh removed;
+
+(g) catering waste, except if it:
+
+(i) originates from means of transport operating internationally;
+
+(ii) is destined for feeding purposes;
+
+(iii) is destined for processing by pressure sterilisation or for processing by methods referred to in point (b) of the first subparagraph of Article 15(1) or for transformation into biogas or for composting;
+
+(h) without prejudice to Community environmental legislation, material from vessels complying with Regulations (EC) No 852/2004 and (EC) No 853/2004, which has arisen in the course of their fishing operations and is disposed of at sea, except material derived from on-board evisceration of fish showing signs of disease, including parasites, that are communicable to humans;
+
+(i) raw pet food originating from retail shops, where the cutting and storage are performed solely for the purpose of supplying the consumer directly on the spot;
+
+(j) raw pet food derived from animals which are slaughtered on the farm of origin for private domestic consumption; and
+
+(k) excrement and urine other than manure and non-mineralised guano.
+
+3\. This Regulation shall be without prejudice to Community veterinary legislation having as its objective the control and eradication of animal diseases.
+
+##### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1\. ‘animal by-products’ means entire bodies or parts of animals, products of animal origin or other products obtained from animals, which are not intended for human consumption, including oocytes, embryos and semen;
+
+2\. ‘derived products’ means products obtained from one or more treatments, transformations or steps of processing of animal by-products;
+
+3\. ‘products of animal origin’ means products of animal origin as defined in point 8.1 of Annex I to Regulation (EC) No 853/2004;
+
+4\. ‘carcase’ means carcase as defined in point 1.9 of Annex I to Regulation (EC) No 853/2004;
+
+5\. ‘animal’ means any invertebrate or vertebrate animal;
+
+6\. ‘farmed animal’ means:
+
+(a) any animal that is kept, fattened or bred by humans and used for the production of food, wool, fur, feathers, hides and skins or any other product obtained from animals or for other farming purposes;
+
+(b) equidae;
+
+7\. ‘wild animal’ means any animal not kept by humans;
+
+8\. ‘pet animal’ means any animal belonging to species normally nourished and kept but not consumed, by humans for purposes other than farming;
+
+9\. ‘aquatic animals’ means aquatic animals as defined in Article 3(1)(e) of Directive 2006/88/EC;
+
+10\. ‘competent authority’ means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/625  of the European Parliament and of the Council ( 1 );
+
+11\. ‘operator’ means the natural or legal persons having an animal by-product or derived product under their actual control, including carriers, traders and users;
+
+12\. ‘user’ means the natural or legal persons using animal by-products and derived products for special feeding purposes, for research or for other specific purposes;
+
+13\. ‘establishment’ or ‘plant’ means any place where any operation involving the handling of animal by-products or derived products is carried out, other than a fishing vessel;
+
+14\. ‘placing on the market’ means any operation the purpose of which is to sell animal by-products or derived products to a third party in the Community or any other form of supply against payment or free of charge to such a third party or storage with a view to supply to such a third party;
+
+15\. ‘transit’ means transit as defined in Article 3(44) of Regulation (EU) 2017/625  ;
+
+16\. ‘export’ means movement from the Community to a third country;
+
+17\. ‘transmissible spongiform encephalopathies (TSEs)’ means all transmissible spongiform encephalopathies as defined in Article 3(1)(a) of Regulation (EC) No 999/2001;
+
+18\. ‘specified risk material’ means specified risk material as defined in Article 3(1)(g) of Regulation (EC) No 999/2001;
+
+19\. ‘pressure sterilisation’ means the processing of animal by-products, after reduction in particle size to not more than 50 mm, to a core temperature of more than 133 °C for at least 20 minutes without interruption at an absolute pressure of at least 3 bar;
+
+20\. ‘manure’ means any excrement and/or urine of farmed animals other than farmed fish, with or without litter;
+
+21\. ‘authorised landfill’ means a landfill for which a permit has been issued in accordance with Directive 1999/31/EC;
+
+22\. ‘organic fertiliser’ and ‘soil improver’ means materials of animal origin used to maintain or improve plant nutrition and the physical and chemical properties and biological activities of soils, either separately or together; they may include manure, non-mineralised guano, digestive tract content, compost and digestion residues;
+
+23\. ‘remote area’ means an area where the animal population is so small, and where disposal establishments or plants are so far away that the arrangements necessary for the collection and transport of animal by-products would be unacceptably onerous compared to local disposal;
+
+24\. ‘food’ or ‘foodstuff’ means food or foodstuff as defined in Article 2 of Regulation (EC) No 178/2002;
+
+25\. ‘feed’ or ‘feedingstuff’ means feed or feedingstuff as defined in Article 3(4) of Regulation (EC) No 178/2002;
+
+26\. ‘centrifuge or separator sludge’ means material collected as a by-product after purification of raw milk and separation of skimmed milk and cream from raw milk;
+
+27\. ‘waste’ means waste as defined in point 1 of Article 3 of Directive 2008/98/EC.
+
+#### Section 2 — Obligations
+
+##### Article 4 — Starting point in the manufacturing chain and obligations
+
+1\. As soon as operators generate animal by-products or derived products falling within the scope of this Regulation, they shall identify them and ensure that they are dealt with in accordance with this Regulation (starting point).
+
+2\. Operators shall ensure at all stages of collection, transport, handling, treatment, transformation, processing, storage, placing on the market, distribution, use and disposal within the businesses under their control that animal by-products and derived products satisfy the requirements of this Regulation which are relevant to their activities.
+
+3\. Member States shall monitor and verify that the relevant requirements of this Regulation are fulfilled by operators along the entire chain of animal by-products and derived products as referred to in paragraph 2. For that purpose, they shall maintain a system of official controls in accordance with relevant Community legislation.
+
+4\. Member States shall ensure that an adequate system is in place on their territory ensuring that animal by-products are:
+
+(a) collected, identified and transported without undue delay; and
+
+(b) treated, used or disposed of in accordance with this Regulation.
+
+5\. Member States may fulfil their obligations under paragraph 4 in cooperation with other Member States or third countries.
+
+##### Article 5 — End point in the manufacturing chain
+
+1\. Derived products referred to in Article 33 which have reached the stage of manufacturing regulated by the Community legislation referred to in that Article shall be regarded as having reached the end point in the manufacturing chain, beyond which they are no longer subject to the requirements of this Regulation.
+
+Those derived products may subsequently be placed on the market without restrictions under this Regulation and shall no longer be subject to official controls in accordance with this Regulation.
+
+The end point in the manufacturing chain may be modified:
+
+(a) for products referred to in Article 33(a) to (d), in case of risks to animal health;
+
+(b) for products referred to in Article 33(e) and (f), in case of risks to public or animal health.
+
+Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(6).
+
+2\. For derived products referred to in Articles 32, 35 and 36 which no longer pose any significant risk to public or animal health, an end point in the manufacturing chain may be determined, beyond which they are no longer subject to the requirements of this Regulation.
+
+Those derived products may subsequently be placed on the market without restrictions under this Regulation and shall no longer be subject to official controls in accordance with this Regulation.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 51a supplementing this Regulation by determining an end point in the manufacturing chain, beyond which derived products referred to in this paragraph are no longer subject to the requirements of this Regulation.
+
+3\. In the event of risks to public or animal health, Articles 53 and 54 of Regulation (EC) No 178/2002 concerning emergency health measures shall apply mutatis mutandis to the derived products referred to in Articles 32, 33 and 36 of this Regulation.
+
+4\. Within six months after 15 July 2019, the Commission shall initiate a first assessment of derived products referred to in Article 32 that are already widely used in the Union as organic fertilisers and soil improvers. This assessment shall cover at least the following products: meat meal, bone meal, meat-and-bone meal, hydrolysed proteins of Category 3 materials, processed manure, compost, biogas digestion residues, feather meal, glycerine and other products of Category 2 or 3 materials derived from the production of biodiesel and renewable fuels, as well as petfood, feed and dog chews that have been refused for commercial reasons or technical failures, and derived products from blood of animals, hides and skins, hoofs and horns, guano of bats and birds, wool and hair, feather and downs, and pig bristles. Where the assessment concludes that those derived products no longer pose any significant risk to public or animal health, the Commission shall determine an end point in the manufacturing chain pursuant to paragraph 2 of this Article without undue delay and in any case no later than six months after the assessment is finalised.
+
+#### Section 3 — Animal health restrictions
+
+##### Article 6 — General animal health restrictions
+
+1\. Animal by-products and derived products from susceptible species shall not be dispatched from holdings, establishments, plants or zones which are subject to restrictions:
+
+(a) pursuant to Community veterinary legislation; or
+
+(b) due to the presence of a serious transmissible disease:
+
+(i) listed in Annex I to Directive 92/119/EEC; or
+
+(ii) laid down in accordance with the second subparagraph.
+
+The measures referred to in point (b)(ii) of the first subparagraph, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+2\. Paragraph 1 shall not apply where animal by-products and derived products are dispatched under conditions designed to prevent the spread of diseases transmissible to humans or animals.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(5).
+
+#### Section 4 — Categorisation
+
+##### Article 7 — Categorisation of animal by-products and derived products
+
+1\. Animal by-products shall be categorised into specific categories which reflect the level of risk to public and animal health arising from those animal by-products, in accordance with the lists laid down in Articles 8, 9 and 10.
+
+2\. Derived products shall be subject to the rules for the specific category of animal by-products from which they have been derived, unless otherwise specified in this Regulation, or provided for in measures for the implementation of this Regulation which may specify the conditions under which derived products are not subject to those rules adopted by the Commission.
+
+3\. Articles 8, 9 and 10 may be amended in order to take into account scientific progress as regards the assessment of the level of risk, provided such progress can be identified on the basis of a risk assessment carried out by the appropriate scientific institution. However, no animal by-products listed in those Articles may be removed from those lists, only changes of categorisation or additions may be made.
+
+4\. The measures referred to in paragraphs 2 and 3, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+##### Article 8 — Category 1 material
+
+Category 1 material shall comprise the following animal by-products:
+
+(a) entire bodies and all body parts, including hides and skins, of the following animals:
+
+(i) animals suspected of being infected by a TSE in accordance with Regulation (EC) No 999/2001 or in which the presence of a TSE has been officially confirmed;
+
+(ii) animals killed in the context of TSE eradication measures;
+
+(iii) animals other than farmed and wild animals, including in particular pet animals, zoo animals and circus animals;
+
+(iv) animals used in a procedure or procedures defined in Article 3 of Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes ( 2 ), in cases where the competent authority decides that such animals or any of their body parts have the potential to pose serious health risks to humans or to other animals, as a result of that procedure or those procedures without prejudice to Article 3(2) of Regulation (EC) No 1831/2003;
+
+(v) wild animals, when suspected of being infected with diseases communicable to humans or animals;
+
+(b) the following material:
+
+(i) specified risk material;
+
+(ii) entire bodies or parts of dead animals containing specified risk material at the time of disposal;
+
+(c) animal by-products derived from animals which have been submitted to illegal treatment as defined in Article 1(2)(d) of Directive 96/22/EC or Article 2(b) of Directive 96/23/EC;
+
+(d) animal by-products containing residues of other substances and environmental contaminants listed in Group B(3) of Annex I to Directive 96/23/EC, if such residues exceed the permitted level laid down by Community legislation or, in the absence thereof, by national legislation;
+
+(e) animal by-products collected during the treatment of waste water required by implementing rules adopted under point (c) of the first paragraph of Article 27:
+
+(i) from establishments or plants processing Category 1 material; or
+
+(ii) from other establishments or plants where specified risk material is being removed;
+
+(f) catering waste from means of transport operating internationally;
+
+(g) mixtures of Category 1 material with either Category 2 material or Category 3 material or both.
+
+##### Article 9 — Category 2 material
+
+Category 2 material shall comprise the following animal by-products:
+
+(a) manure, non-mineralised guano and digestive tract content;
+
+(b) animal by-products collected during the treatment of waste water required by implementing rules adopted under point (c) of the first paragraph of Article 27:
+
+(i) from establishments or plants processing Category 2 material; or
+
+(ii) from slaughterhouses other than those covered by Article 8(e);
+
+(c) animal by-products containing residues of authorised substances or contaminants exceeding the permitted levels as referred to in Article 15(3) of Directive 96/23/EC;
+
+(d) products of animal origin which have been declared unfit for human consumption due to the presence of foreign bodies in those products;
+
+(e) products of animal origin, other than Category 1 material, that are:
+
+(i) imported or introduced from a third country and fail to comply with Community veterinary legislation for their import or introduction into the Community except where Community legislation allows their import or introduction subject to specific restrictions or their return to the third country; or
+
+(ii) dispatched to another Member State and fail to comply with requirements laid down or authorised by Community legislation except where they are returned with the authorisation of the competent authority of the Member State of origin;
+
+(f) animals and parts of animals, other than those referred to in Article 8 or Article 10,
+
+(i) that died other than by being slaughtered or killed for human consumption, including animals killed for disease control purposes;
+
+(ii) foetuses;
+
+(iii) oocytes, embryos and semen which are not destined for breeding purposes; and
+
+(iv) dead-in-shell poultry;
+
+(g) mixtures of Category 2 material with Category 3 material;
+
+(h) animal by-products other than Category 1 material or Category 3 material.
+
+##### Article 10 — Category 3 material
+
+Category 3 material shall comprise the following animal by-products:
+
+(a) carcases and parts of animals slaughtered or, in the case of game, bodies or parts of animals killed, and which are fit for human consumption in accordance with Community legislation, but are not intended for human consumption for commercial reasons;
+
+(b) carcases and the following parts originating either from animals that have been slaughtered in a slaughterhouse and were considered fit for slaughter for human consumption following an ante-mortem inspection or bodies and the following parts of animals from game killed for human consumption in accordance with Community legislation:
+
+(i) carcases or bodies and parts of animals which are rejected as unfit for human consumption in accordance with Community legislation, but which did not show any signs of disease communicable to humans or animals;
+
+(ii) heads of poultry;
+
+(iii) hides and skins, including trimmings and splitting thereof, horns and feet, including the phalanges and the carpus and metacarpus bones, tarsus and metatarsus bones, of:
+
+— animals, other than ruminants requiring TSE testing, and
+
+— ruminants which have been tested with a negative result in accordance with Article 6(1) of Regulation (EC) No 999/2001;
+
+(iv) pig bristles;
+
+(v) feathers;
+
+(c) animal by-products from poultry and lagomorphs slaughtered on the farm as referred to in Article 1(3)(d) of Regulation (EC) No 853/2004, which did not show any signs of disease communicable to humans or animals;
+
+(d) blood of animals which did not show any signs of disease communicable through blood to humans or animals obtained from the following animals that have been slaughtered in a slaughterhouse after having been considered fit for slaughter for human consumption following an ante-mortem inspection in accordance with Community legislation:
+
+(i) animals other than ruminants requiring TSE testing; and
+
+(ii) ruminants which have been tested with a negative result in accordance with Article 6(1) of Regulation (EC) No 999/2001;
+
+(e) animal by-products arising from the production of products intended for human consumption, including degreased bones, greaves and centrifuge or separator sludge from milk processing;
+
+(f) products of animal origin, or foodstuffs containing products of animal origin, which are no longer intended for human consumption for commercial reasons or due to problems of manufacturing or packaging defects or other defects from which no risk to public or animal health arise;
+
+(g) petfood and feedingstuffs of animal origin, or feedingstuffs containing animal by-products or derived products, which are no longer intended for feeding for commercial reasons or due to problems of manufacturing or packaging defects or other defects from which no risk to public or animal health arises;
+
+(h) blood, placenta, wool, feathers, hair, horns, hoof cuts and raw milk originating from live animals that did not show any signs of disease communicable through that product to humans or animals;
+
+(i) aquatic animals, and parts of such animals, except sea mammals, which did not show any signs of disease communicable to humans or animals;
+
+(j) animal by-products from aquatic animals originating from establishments or plants manufacturing products for human consumption;
+
+(k) the following material originating from animals which did not show any signs of disease communicable through that material to humans or animals:
+
+(i) shells from shellfish with soft tissue or flesh;
+
+(ii) the following originating from terrestrial animals:
+
+— hatchery by-products,
+
+— eggs,
+
+— egg by-products, including egg shells,
+
+(iii) day-old chicks killed for commercial reasons;
+
+(l) aquatic and terrestrial invertebrates other than species pathogenic to humans or animals;
+
+(m) animals and parts thereof of the zoological orders of Rodentia and Lagomorpha, except Category 1 material as referred to in Article 8(a)(iii), (iv) and (v) and Category 2 material as referred to in Article 9(a) to (g);
+
+(n) hides and skins, hooves, feathers, wool, horns, hair and fur originating from dead animals that did not show any signs of disease communicable through that product to humans or animals, other than those referred to in point (b) of this Article;
+
+(o) adipose tissue from animals which did not show any signs of disease communicable through that material to humans or animals, which were slaughtered in a slaughterhouse and which were considered fit for slaughter for human consumption following an ante-mortem inspection in accordance with Community legislation;
+
+(p) catering waste other than as referred to in Article 8(f).
+
+### CHAPTER II — Disposal and use of animal by-products and derived products
+
+#### Section 1 — Restrictions on use
+
+##### Article 11 — Restrictions on use
+
+1\. The following uses of animal by-products and derived products shall be prohibited:
+
+(a) the feeding of terrestrial animals of a given species other than fur animals with processed animal protein derived from the bodies or parts of bodies of animals of the same species;
+
+(b) the feeding of farmed animals other than fur animals with catering waste or feed material containing or derived from catering waste;
+
+(c) the feeding of farmed animals with herbage, either directly by grazing or by feeding with cut herbage, from land to which organic fertilisers or soil improvers, other than manure, have been applied unless the cutting or grazing takes place after the expiry of a waiting period which ensures adequate control of risks to public and animal health and is at least 21 days; and
+
+(d) the feeding of farmed fish with processed animal protein derived from the bodies or parts of bodies of farmed fish of the same species.
+
+2\. Measures relating to the following may be laid down:
+
+(a) the checks and controls to be carried out to ensure the application of the prohibitions referred to in paragraph 1, including detection methods and tests to be used to verify the presence of materials originating from certain species and thresholds for insignificant amounts of processed animal proteins referred to in points (a) and (d) of paragraph 1 which are caused by adventitious and technically unavoidable contamination;
+
+(b) the conditions for the feeding of fur animals with processed animal protein derived from bodies or parts of bodies of animals of the same species; and
+
+(c) the conditions for the feeding of farmed animals with herbage from land to which organic fertilisers or soil improvers have been applied, in particular a modification of the waiting period as referred to in paragraph 1(c).
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+#### Section 2 — Disposal and use
+
+##### Article 12 — Disposal and use of Category 1 material
+
+Category 1 material shall be:
+
+(a) disposed of as waste by incineration:
+
+(i) directly without prior processing; or
+
+(ii) following processing, by pressure sterilisation if the competent authority so requires, and permanent marking of the resulting material;
+
+(b) recovered or disposed of by co-incineration, if the Category 1 material is waste:
+
+(i) directly without prior processing; or
+
+(ii) following processing, by pressure sterilisation if the competent authority so requires, and permanent marking of the resulting material;
+
+(c) in the case of Category 1 material other than material referred to in Article 8(a)(i) and (ii), disposed of by processing by pressure sterilisation, permanent marking of the resulting material and burial in an authorised landfill;
+
+(d) in the case of Category 1 material referred to in Article 8(f), disposed of by burial in an authorised landfill;
+
+(e) used as a fuel for combustion with or without prior processing; or
+
+(f) used for the manufacture of derived products referred to in Articles 33, 34 and 36 and placed on the market in accordance with those Articles.
+
+##### Article 13 — Disposal and use of Category 2 material
+
+Category 2 material shall be:
+
+(a) disposed of as waste by incineration:
+
+(i) directly without prior processing; or
+
+(ii) following processing, by pressure sterilisation if the competent authority so requires, and permanent marking of the resulting material;
+
+(b) recovered or disposed of by co-incineration, if the Category 2 material is waste:
+
+(i) directly without prior processing; or
+
+(ii) following processing, by pressure sterilisation if the competent authority so requires, and permanent marking of the resulting material;
+
+(c) disposed of in an authorised landfill, following processing by pressure sterilisation and permanent marking of the resulting material;
+
+(d) used for the manufacturing of organic fertilisers or soil improvers to be placed on the market in accordance with Article 32 following processing by pressure sterilisation, when applicable, and permanent marking of the resulting material;
+
+(e) composted or transformed into biogas:
+
+(i) following processing by pressure sterilisation and permanent marking of the resulting material; or
+
+(ii) in the case of manure, digestive tract and its content, milk, milk-based products, colostrum, eggs and egg products which the competent authority does not consider to present a risk for the spread of any serious transmissible disease, following or without prior processing;
+
+(f) applied to land without processing, in the case of manure, digestive tract content separated from the digestive tract, milk, milk-based products and colostrum which the competent authority does not consider to present a risk for the spread of any serious transmissible disease;
+
+(g) in the case of material originating from aquatic animals, ensiled, composted or transformed into biogas;
+
+(h) used as a fuel for combustion with or without prior processing; or
+
+(i) used for the manufacture of derived products referred to in Articles 33, 34 and 36 and placed on the market in accordance with those Articles.
+
+##### Article 14 — Disposal and use of Category 3 material
+
+Category 3 material shall be:
+
+(a) disposed of as waste by incineration, with or without prior processing;
+
+(b) recovered or disposed of by co-incineration, with or without prior processing, if the Category 3 material is waste;
+
+(c) disposed of in an authorised landfill, following processing;
+
+(d) processed, except in the case of Category 3 material which has changed through decomposition or spoilage so as to present an unacceptable risk to public or animal health, through that product, and used:
+
+(i) for the manufacturing of feed for farmed animals other than fur animals, to be placed on the market in accordance with Article 31, except in the case of material referred to in Article 10(n), (o) and (p);
+
+(ii) for the manufacturing of feed for fur animals, to be placed on the market in accordance with Article 36;
+
+(iii) for the manufacturing of pet food, to be placed on the market in accordance with Article 35; or
+
+(iv) for the manufacturing of organic fertilisers or soil improvers, to be placed on the market in accordance with Article 32;
+
+(e) used for the production of raw petfood, to be placed on the market in accordance with Article 35;
+
+(f) composted or transformed into biogas;
+
+(g) in the case of material originating from aquatic animals, ensiled, composted or transformed into biogas;
+
+(h) in the case of shells from shellfish, other than those referred to in Article 2(2)(f), and egg shells, used under conditions determined by the competent authority which prevent risks arising to public and animal health;
+
+(i) used as a fuel for combustion with or without prior processing;
+
+(j) used for the manufacture of derived products referred to in Articles 33, 34 and 36 and placed on the market in accordance with those Articles;
+
+(k) in the case of catering waste referred to in Article 10(p) processed by pressure sterilisation or by processing methods referred to in point (b) of the first subparagraph of Article 15(1) or composted or transformed into biogas; or
+
+(l) applied to land without processing, in the case of raw milk, colostrum and products derived therefrom, which the competent authority does not consider to present a risk of any disease communicable through those products to humans or animals.
+
+##### Article 15 — Implementing measures
+
+1\. Measures for the implementation of this Section may be laid down relating to the following:
+
+(a) special conditions for the on-board handling and the disposal of material derived from on-board evisceration of fish showing signs of disease, including parasites, that are communicable to humans;
+
+(b) processing methods for animal by-products other than pressure sterilisation, in particular as regards the parameters to be applied for those processing methods, in particular the time, temperature, pressure and size of particles;
+
+(c) parameters for the transformation of animal by-products, including catering waste, into biogas or compost;
+
+(d) conditions for the incineration and co-incineration of animal by-products and derived products;
+
+(e) conditions for the combustion of animal by-products and derived products;
+
+(f) conditions for the generation and handling of animal by-products referred to in Article 10(c);
+
+(g) ensilage of material originating from aquatic animals;
+
+(h) permanent marking of animal by-products;
+
+(i) the application to land of certain animal by-products, organic fertilisers and soil improvers;
+
+(j) the use of certain animal by-products for feeding to farmed animals; and
+
+(k) the level of risk to public or animal health with respect to certain material which is considered as unacceptable as referred to in Article 14(d).
+
+Those measures designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+2\. Pending the adoption of rules referred to:
+
+(a) in points (c), (f) and (g) of the first subparagraph of paragraph 1, Member States may adopt or maintain national rules for:
+
+(i) the generation and handling of animal by-products referred to in Article 10(c);
+
+(ii) the transformation of animal by-products referred to in Article 10(p); and
+
+(iii) for the ensilage of material originating from aquatic animals;
+
+(b) in point (a) of the first subparagraph of paragraph 1, animal by-products referred to therein may be disposed of at sea, without prejudice to Community environmental legislation.
+
+#### Section 3 — Derogations
+
+##### Article 16 — Derogations
+
+By way of derogation from Articles 12, 13 and 14, animal by-products may be:
+
+(a) in the case of animal by-products referred to in point (a) of the first subparagraph of Article 15(1), handled and disposed of in accordance with special conditions laid down pursuant to that point;
+
+(b) used for research and other specific purposes in accordance with Article 17;
+
+(c) in the case of animal by-products referred to in Article 18, used for special feeding purposes in accordance with that Article;
+
+(d) in the case of animal by-products referred to in Article 19, disposed of in accordance with that Article;
+
+(e) disposed of or used in accordance with alternative methods which have been authorised in accordance with Article 20, based on parameters which may include pressure sterilisation or other requirements of this Regulation or the implementing measures thereof;
+
+(f) in the case of Category 2 and Category 3 materials and if authorised by the competent authority, used for the preparation and application to land of bio-dynamic preparations as referred to in Article 12(1)(c) of Regulation (EC) No 834/2007;
+
+(g) in the case of Category 3 material and, if authorised by the competent authority, used for feeding to pet animals;
+
+(h) in the case of animal by-products, except for Category 1 material, which arise in the course of surgical intervention on live animals or during birth of animals on farm and, if authorised by the competent authority, disposed of on that farm.
+
+##### Article 17 — Research and other specific purposes
+
+1\. The competent authority may, by way of derogation from Articles 12, 13 and 14, authorise the use of animal by-products and derived products for exhibitions, artistic activities, and for diagnostic, educational or research purposes under conditions which ensure the control of risks to public and animal health.
+
+Such conditions shall include:
+
+(a) the prohibition of any subsequent use of the animal by-products or derived products for other purposes; and
+
+(b) the obligation to dispose of the animal by-products or derived products safely, or to re-dispatch them to their place of origin, if appropriate.
+
+2\. In the case of risks to public and animal health which require the adoption of measures for the whole territory of the Community, in particular in the case of newly emerging risks, harmonised conditions for the import and use of the animal by-products and derived products referred to in paragraph 1 may be laid down. Such conditions may include requirements regarding storage, packaging, identification, transport and disposal.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+##### Article 18 — Special feeding purposes
+
+1\. The competent authority may, by way of derogation from Articles 13 and 14, authorise, under conditions which ensure the control of risks to public and animal health, the collection and use of Category 2 material, provided that it comes from animals which were not killed or did not die as a result of the presence or suspected presence of a disease communicable to humans or animals, and of Category 3 material for feeding to:
+
+(a) zoo animals;
+
+(b) circus animals;
+
+(c) reptiles and birds of prey other than zoo or circus animals;
+
+(d) fur animals;
+
+(e) wild animals;
+
+(f) dogs from recognised kennels or packs of hounds;
+
+(g) dogs and cats in shelters;
+
+(h) maggots and worms for fishing bait.
+
+2\. The competent authority may authorise, by way of derogation from Article 12, and in accordance with the conditions laid down pursuant to paragraph 3 of this Article:
+
+(a) the feeding of the Category 1 material referred to in Article 8(b)(ii) and of material derived from zoo animals for feeding to zoo animals; and
+
+(b) the feeding of the Category 1 material referred to in Article 8(b)(ii) to endangered or protected species of necrophagous birds and other species living in their natural habitat, for the promotion of biodiversity.
+
+3\. Measures for the implementation of this Article may be laid down relating to the following:
+
+(a) conditions under which the collection and use as referred to in paragraph 1 may be authorised with respect to the movement, storage and use of Category 2 material and of Category 3 material for feeding, including in the case of newly emerging risks; and
+
+(b) conditions under which, in certain cases by way of derogation from the obligation laid down in Article 21(1), the feeding of Category 1 material as referred to in paragraph 2 of this Article may be authorised, including:
+
+(i) the endangered or protected species of necrophagous birds and other species in certain Member States to which such material may be fed;
+
+(ii) measures to prevent risks to public and animal health.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+##### Article 19 — Collection, transport and disposal
+
+1\. The competent authority may, by way of derogation from Articles 12, 13, 14 and 21, authorise the disposal:
+
+(a) by burial of dead pet animals and equidae;
+
+(b) by burning or burial on site or by other means under official supervision which prevent the transmission of risks to public and animal health of Category 1 material referred to in Article 8(a)(v) and (b)(ii), Category 2 and Category 3 materials in remote areas;
+
+(c) by burning or burial on site or by other means under official supervision which prevent the transmission of risks to public and animal health of Category 1 material referred to in Article 8(b)(ii), Category 2 and Category 3 materials in areas where access is practically impossible or where access would only be possible under circumstances, related to geographical or climatic reasons or due to a natural disaster, which would pose a risk to the health and safety of the personnel carrying out the collection or where access would necessitate the use of disproportionate means of collection;
+
+(d) by means other than burning or burial on site, under official supervision, in the case of Category 2 and Category 3 materials which do not pose a risk to public and animal health, when the amounts of materials do not exceed a particular volume per week, this volume being determined in relation to the nature of the activities carried out and the species of origin of the animal by-products concerned;
+
+(e) by burning or burial on site, under conditions which prevent the transmission of risks to public and animal health, of animal by-products other than Category 1 material referred to in Article 8(a)(i) in the event of an outbreak of a notifiable disease, if transport to the nearest plant approved for processing or disposal of the animal by-products would increase the danger of propagation of health risks or, in case of a widespread outbreak of an epizootic disease, would mean that the disposal capacities of such plants were exceeded; and
+
+(f) by burning or burial on site, under conditions which prevent the transmission of risks to public and animal health, of bees and apiculture by-products.
+
+2\. The animal population of a particular species in the remote areas referred to in paragraph 1(b) shall not exceed a maximum percentage of the animal population of this species in the Member State concerned.
+
+3\. Member States shall make available to the Commission information on:
+
+(a) the areas that they categorise as remote areas for the purpose of applying paragraph 1(b) and the reasons for that categorisation, and updated information concerning any change to such categorisation; and
+
+(b) the use they make of the authorisations provided for in points (c) and (d) of paragraph 1 with respect to Category 1 and Category 2 materials.
+
+4\. Measures for the implementation of this Article shall be laid down relating to the following:
+
+(a) conditions aimed at ensuring control of risks to public and animal health in the event of burning and burial on site;
+
+(b) the maximum percentage of the animal population as referred to in paragraph 2;
+
+(c) the volume of animal by-products, in relation to the nature of activities and the species of origin, as referred to in paragraph 1(d); and
+
+(d) the list of diseases referred to in paragraph 1(e).
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+#### Section 4 — Alternative methods
+
+##### Article 20 — Authorisation of alternative methods
+
+1\. The procedure for authorisation of an alternative method of use or disposal of animal by-products or derived products may be initiated either by the Commission or, following an application, by a Member State or by an interested party, which may represent several interested parties.
+
+2\. Interested parties shall send their applications to the competent authority of the Member State where they intend to use the alternative method.
+
+The competent authority shall evaluate, within a period of two months following receipt of a complete application, whether the application complies with the standard format for applications referred to in paragraph 10.
+
+3\. The competent authority shall communicate the applications of the Member States and interested parties, together with a report on its evaluation to the European Food Safety Authority (EFSA) and inform the Commission thereof.
+
+4\. When the Commission initiates the procedure for authorisation, it shall send a report on its evaluation to EFSA.
+
+5\. EFSA shall assess, within six months following receipt of a complete application, whether the method submitted ensures that risks to public or animal health are:
+
+(a) controlled in a manner which prevents their proliferation before disposal in accordance with this Regulation or the implementing measures thereof; or
+
+(b) reduced to a degree which is at least equivalent, for the relevant category of animal by-products, to the processing methods laid down pursuant to point (b) of the first subparagraph of Article 15(1).
+
+EFSA shall issue an opinion on the application submitted.
+
+6\. In duly justified cases where EFSA requests additional information from applicants, the period provided for in paragraph 5 may be extended.
+
+After consulting the Commission or the applicant, EFSA shall decide on a period within which that information shall be provided to it and inform the Commission and the applicant as appropriate of the additional period needed.
+
+7\. Where applicants wish to submit additional information on their own initiative, they shall send it directly to EFSA.
+
+In that case the period provided for in paragraph 5 shall not be extended by an additional period.
+
+8\. EFSA shall forward its opinion to the Commission, the applicant and the competent authority of the Member State concerned.
+
+9\. Within three months following receipt of the opinion of EFSA and taking account of that opinion, the Commission shall inform the applicant of the proposed measure to be adopted in accordance with paragraph 11.
+
+10\. A standard format for applications for alternative methods shall be adopted in accordance with the advisory procedure referred to in Article 52(2).
+
+11\. Following receipt of the opinion of EFSA, the following shall be adopted:
+
+(a) either a measure authorising an alternative method of use or disposal of animal by-products or derived products; or
+
+(b) a measure rejecting the authorisation of such an alternative method.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+## TITLE II — OBLIGATIONS OF OPERATORS
+
+### CHAPTER I — General obligations
+
+#### Section 1 — Collection, transport and traceability
+
+##### Article 21 — Collection and identification as regards category and transport
+
+1\. Operators shall collect, identify and transport animal by-products without undue delay under conditions which prevent risks arising to public and animal health.
+
+2\. Operators shall ensure that animal by-products and derived products are accompanied during transport by a commercial document or, when required by this Regulation or by a measure adopted in accordance with paragraph 6, by a health certificate.
+
+By way of derogation from the first subparagraph, the competent authority may authorise the transport of manure between two points located on the same farm or between farms and users of manure within the same Member State without a commercial document or health certificate.
+
+3\. Commercial documents and health certificates accompanying animal by-products or derived products during transport shall at least include information on the origin, the destination and the quantity of such products, and a description of the animal by-products or derived products and their marking, when such marking is required by this Regulation.
+
+However, for animal by-products and derived products transported within the territory of a Member State, the competent authority of the Member State concerned may authorise transmission of the information referred to in the first subparagraph by way of an alternative system.
+
+4\. Operators shall collect, transport and dispose of Category 3 catering waste, in accordance with national measures foreseen in Article 13 of Directive 2008/98/EC.
+
+5\. The following shall be adopted in accordance with the regulatory procedure referred to in Article 52(3):
+
+(a) models for commercial documents which are required to accompany animal by-products during transport; and
+
+(b) models for health certificates and the conditions governing the way they must accompany animal by-products and derived products during transport.
+
+6\. Measures for the implementation of this Article may be laid down relating to the following:
+
+(a) cases where a health certificate is required, having regard to the level of risk to public and animal health arising from certain derived products;
+
+(b) cases where, by way of derogation from the first subparagraph of paragraph 2 and having regard to the low level of risk to public and animal health arising from certain animal by-products or derived products, transport of derived products may take place without the documents or certificates referred to in that paragraph;
+
+(c) requirements for the identification, including labelling, and for the separation of different categories of animal by-products during transport; and
+
+(d) conditions to prevent risks to public and animal health arising during the collection and transport of animal by-products, including conditions for the safe transport of those products with respect to containers, vehicles and packaging material.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+##### Article 22 — Traceability
+
+1\. Operators consigning, transporting or receiving animal by-products or derived products shall keep a record of consignments and related commercial documents or health certificates.
+
+However, the first subparagraph shall not apply when an authorisation to transport animal by-products or derived products without commercial documents or health certificates has been granted in accordance with the second subparagraph of Article 21(2) or in accordance with implementing measures adopted under Article 21(6)(b).
+
+2\. The operators referred to in paragraph 1 shall have in place systems and procedures to identify:
+
+(a) the other operators to which their animal by-products or derived products have been supplied; and
+
+(b) the operators from whom they have been supplied.
+
+This information shall be made available to the competent authorities on request.
+
+3\. Measures for the implementation of this Article may be adopted in accordance with the regulatory procedure referred to in Article 52(3), in particular on:
+
+(a) the information to be made available to the competent authorities;
+
+(b) the period of time during which this information must be kept.
+
+#### Section 2 — Registration and approval
+
+##### Article 23 — Registration of operators, establishments or plants
+
+1\. With a view to registration, operators shall:
+
+(a) before commencing operations, notify the competent authority of any establishments or plants under their control which are active at any stage of the generation, transport, handling, processing, storage, placing on the market, distribution, use or disposal of animal by-products and derived products;
+
+(b) provide the competent authority with information on:
+
+(i) the category of animal by-products or derived products under their control;
+
+(ii) the nature of the operations performed using animal by-products or derived products as starting material.
+
+2\. Operators shall provide the competent authority with up-to-date information on any establishments or plants under their control as referred to in point (a) of paragraph 1, including any significant change in activities such as any closure of an existing establishment or plant.
+
+3\. Detailed rules regarding registration as referred to in paragraph 1 may be adopted in accordance with the regulatory procedure referred to in Article 52(3).
+
+4\. By way of derogation from paragraph 1, no notification with a view to registration shall be required for activities with respect to which establishments generating animal by-products have already been approved or registered in accordance with Regulation (EC) No 852/2004 or Regulation (EC) No 853/2004; and for activities with respect to which establishments or plants have already been approved in accordance with Article 24 of this Regulation.
+
+The same derogation shall apply for the activities involving the generation of animal by-products on site only, which are carried out on farms or other premises where animals are kept, bred or taken care of.
+
+##### Article 24 — Approval of establishments or plants
+
+1\. Operators shall ensure that establishments or plants under their control are approved by the competent authority, where such establishments or plants carry out one or more of the following activities:
+
+(a) processing of animal by-products by pressure sterilisation, by processing methods referred to in point (b) of the first subparagraph of Article 15(1) or by alternative methods authorised in accordance with Article 20;
+
+(b) disposal, as waste, by incineration of animal by-products and derived products, excluding establishments or plants which have a permit to operate in accordance with Directive 2000/76/EC;
+
+(c) disposal or recovery of animal by-products and derived products, if they are waste, by co-incineration, excluding establishments or plants which have a permit to operate in accordance with Directive 2000/76/EC;
+
+(d) use of animal by-products and derived products as fuel for combustion;
+
+(e) manufacturing of pet food;
+
+(f) manufacturing of organic fertilisers and soil improvers;
+
+(g) transformation of animal by-products and/or derived products into biogas or compost;
+
+(h) handling of animal by-products after their collection, by way of operations such as sorting, cutting, chilling, freezing, salting, removal of hides and skins or of specified risk material;
+
+(i) storage of animal by-products;
+
+(j) storage of derived products intended to be:
+
+(i) disposed of by landfill or incineration or intended to be recovered or disposed of by co-incineration;
+
+(ii) used as fuel for combustion;
+
+(iii) used as feed, excluding establishments or plants approved or registered in accordance with Regulation (EC) No 183/2005;
+
+(iv) used as organic fertilisers and soil improvers, excluding storage at a place of direct application.
+
+2\. The approval referred to in paragraph 1 shall specify if the establishment or plant is approved for operations with animal by-products and/or derived products of:
+
+(a) a particular category referred to in Articles 8, 9 or 10; or
+
+(b) more than one category referred to in Articles 8, 9 or 10, indicating if such operations are carried out:
+
+(i) permanently under conditions of strict separation which prevent any risk to public and animal health; or
+
+(ii) temporarily under conditions which prevent contamination, in response to a shortage of capacity for such products arising due to:
+
+— a widespread outbreak of an epizootic disease, or
+
+— other extraordinary and unforeseen circumstances.
+
+##### Article 25 — General hygiene requirements
+
+1\. Operators shall ensure that establishments or plants under their control carrying out the activities referred to in Article 24(1)(a) and (h):
+
+(a) are constructed in a way permitting their effective cleaning and disinfection and where appropriate the construction of floors facilitates the draining of liquids;
+
+(b) have access to adequate facilities for personal hygiene such as lavatories, changing rooms and washbasins for staff;
+
+(c) have appropriate arrangements for protection against pests, such as insects, rodents and birds;
+
+(d) keep installations and equipment in good condition and ensure that measuring equipment is calibrated regularly; and
+
+(e) have appropriate arrangements for the cleaning and the disinfection of containers and vehicles in place to avoid risks of contamination.
+
+2\. Any person working in the establishment or plant referred to in paragraph 1 shall wear suitable, clean and, where necessary, protective clothing.
+
+Where appropriate in a particular establishment or plant:
+
+(a) persons working in the unclean sector shall not enter the clean sector without first changing their work clothes and shoes or without having disinfected them;
+
+(b) equipment and machinery shall not be moved from the unclean to the clean sector without first being cleaned and disinfected; and
+
+(c) the operator shall establish a procedure relating to the movements of persons in order to monitor their movements and describe the correct use of footbaths and wheel baths.
+
+3\. In establishments or plants carrying out the activities referred to in Article 24(1)(a):
+
+(a) animal by-products shall be handled in such a way as to avoid risks of contamination;
+
+(b) animal by-products shall be processed as soon as possible. After processing, derived products shall be handled and stored in such a way as to avoid risks of contamination;
+
+(c) where appropriate, during any processing applied to animal by-products and derived products every part of the animal by-product and derived products shall be treated to a given temperature for a given period of time and risks of re-contamination shall be prevented;
+
+(d) the operators shall check regularly the applicable parameters, particularly temperature, pressure, time, size of particles, where appropriate by automatic devices;
+
+(e) cleaning procedures shall be established and documented for all parts of the establishments or plants.
+
+##### Article 26 — Handling of animal by-products within food businesses
+
+1\. The treatment, processing or storage of animal by-products in establishments or plants approved or registered in accordance with Article 4 of Regulation (EC) No 853/2004 or in accordance with Article 6 of Regulation (EC) No 852/2004 shall be carried out under conditions which prevent cross-contamination and if appropriate in a dedicated part of the establishment or plant.
+
+2\. Raw materials for the production of gelatine and collagen not intended for human consumption may be stored, treated or processed in the establishments specifically authorised in accordance with Regulation (EC) No 853/2004, Annex III, Section XIV, Chapter I, point 5, and Section XV, Chapter I, point 5, provided the transmission of disease risk is prevented by segregation of such raw materials from the raw materials for the production of products of animal origin.
+
+3\. Paragraphs 1 and 2 shall apply without prejudice to more specific requirements laid down in Community veterinary legislation.
+
+##### Article 27 — Implementing measures
+
+Measures for the implementation of this Section and Section 1 of this Chapter shall be laid down relating to the following:
+
+(a) infrastructure and equipment requirements applicable within establishments or plants;
+
+(b) hygiene requirements applicable to all types of handling of animal by-products and derived products, including measures modifying hygiene requirements for establishments or plants referred to in Article 25(1);
+
+(c) conditions and technical requirements for the handling, treatment, transformation, processing and storage of animal by-products or derived products and conditions for treatment of waste water;
+
+(d) evidence to be presented by the operator for the purpose of validation of the treatment, transformation and processing of animal by-products or derived products, on their ability to prevent public and animal health risks;
+
+(e) conditions for the handling of animal by-products or derived products of more than one category referred to in Articles 8, 9 or 10 in the same establishment or plant:
+
+(i) where such operations are carried out separately;
+
+(ii) where such operations are carried out temporarily in certain circumstances;
+
+(f) conditions for the prevention of cross-contamination when animal by-products are stored, treated or processed in a dedicated part of an establishment or plant referred to in Article 26;
+
+(g) standard transformation parameters for biogas and composting plants;
+
+(h) requirements applicable to the incineration or co-incineration in plants of high and low capacity as referred to in Article 24(1)(b) and (c); and
+
+(i) requirements applicable to the combustion of animal by-products and derived products as referred to in Article 24(1)(d).
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+#### Section 3 — Own checks and hazard analysis and critical control points
+
+##### Article 28 — Own checks
+
+Operators shall put in place, implement and maintain own checks in their establishments or plants in order to monitor compliance with this Regulation. They shall ensure that no animal by-products or derived products suspected or discovered not to comply with this Regulation leave the establishment or plant, unless destined for disposal.
+
+##### Article 29 — Hazard analysis and critical control points
+
+1\. Operators carrying out one of the following activities shall put in place, implement and maintain a permanent written procedure or procedures based on the hazard analysis and critical control points (HACCP) principles for the:
+
+(a) processing of animal by-products;
+
+(b) transformation of animal by-products into biogas and compost;
+
+(c) handling and storage of more than one category of animal by-products or derived products in the same establishment or plant;
+
+(d) manufacturing of pet food.
+
+2\. Operators as specified in paragraph 1 shall in particular:
+
+(a) identify any hazards that must be prevented, eliminated or reduced to acceptable levels;
+
+(b) identify the critical control points at the step or steps at which control is essential to prevent or eliminate a hazard or reduce it to acceptable levels;
+
+(c) establish critical limits at critical control points which separate acceptability from unacceptability, for the prevention, elimination or reduction of identified hazards;
+
+(d) establish and implement effective monitoring procedures at critical control points;
+
+(e) establish corrective action when monitoring indicates that a critical control point is not under control;
+
+(f) establish procedures to verify that the measures outlined in points (a) to (e) are complete and working effectively. Verification procedures shall be carried out regularly;
+
+(g) establish documents and records commensurate with the nature and size of the businesses to demonstrate the effective application of the measures set out in points (a) to (f).
+
+3\. When any modification is made to a product, process or any stage of production, processing, storage or distribution, operators shall review their procedures and make the necessary changes.
+
+4\. Measures to facilitate the implementation of this Article may be adopted in accordance with the regulatory procedure referred to in Article 52(3).
+
+##### Article 30 — National guides to good practice
+
+1\. Where necessary, competent authorities shall encourage the development, dissemination and voluntary use of national guides to good practice in particular for the application of HACCP principles as referred to in Article 29. Operators may use such guides on a voluntary basis.
+
+2\. The competent authority shall assess national guides to ensure that:
+
+(a) they have been developed in consultation with representatives of parties whose interests may be substantially affected, and have been disseminated by sectors of operators; and
+
+(b) their contents are practicable for the sectors to which they refer.
+
+### CHAPTER II — Placing on the market
+
+#### Section 1 — Animal by-products and derived products for feeding to farmed animals excluding fur animals
+
+##### Article 31 — Placing on the market
+
+1\. Animal by-products and derived products destined for feeding to farmed animals, excluding fur animals, may only be placed on the market provided:
+
+(a) they are or they are derived from Category 3 material other than material referred to in Article 10(n), (o) and (p);
+
+(b) they have been collected or processed, as applicable, in accordance with the conditions for pressure sterilisation or other conditions to prevent risks arising to public and animal health in accordance with measures adopted pursuant to Article 15 and any measures which have been laid down in accordance with paragraph 2 of this Article; and
+
+(c) they come from approved or registered establishments or plants, as applicable for the animal by-product or derived product concerned.
+
+2\. Measures for the implementation of this Article may be laid down relating to the public and animal health conditions for the collection, processing and treatment of animal by-products and derived products referred to in paragraph 1.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+#### Section 2 — Organic fertilisers and soil improvers
+
+##### Article 32 — Placing on the market and use
+
+1\. Organic fertilisers and soil improvers may be placed on the market and used provided:
+
+(a) they are derived from Category 2 or Category 3 material;
+
+(b) they have been produced in accordance with the conditions for pressure sterilisation or with other conditions to prevent risks arising to public and animal health, in accordance with the requirements laid down pursuant to Article 15 and any measures which have been laid down in accordance with paragraph 3 of this Article;
+
+(c) they come from approved or registered establishments or plants, as applicable; and
+
+(d) in the case of meat-and-bone meal derived from Category 2 material and processed animal proteins intended to be used as or in organic fertilisers and soil improvers, they have been mixed with a component to exclude the subsequent use of the mixture for feeding purposes and marked when required by measures adopted under paragraph 3.
+
+In addition, digestion residues from transformation into biogas or compost may be placed on the market and used as organic fertilisers or soil improvers.
+
+Member States may adopt or maintain national rules imposing additional conditions for or restricting the use of organic fertilisers and soil improvers, provided that such rules are justified on grounds of the protection of public and animal health.
+
+2\. By way of derogation from point (d) of paragraph 1, mixing shall not be required for materials whose use for feeding purposes is excluded due to their composition or packaging.
+
+3\. Measures for the implementation of this Article may be laid down relating to the following:
+
+(a) public and animal health conditions for the production and use of organic fertilisers and soil improvers;
+
+(b) components or substances for the marking of organic fertilisers or soil improvers;
+
+(c) components to be mixed with organic fertilisers or soil improvers;
+
+(d) supplementary conditions, such as the methods to be used for marking and the minimum proportions to be observed when preparing the mixture, in order to exclude the use of such fertilisers or soil improvers for feeding purposes; and
+
+(e) cases where the composition or packaging allows the materials to be exempted from the mixing requirement.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+#### Section 3 — Derived products regulated by certain other Community legislation
+
+##### Article 33 — Placing on the market
+
+Operators may place on the market the following derived products:
+
+(a) cosmetic products as defined in Article 1(1) of Directive 76/768/EEC;
+
+(b) active implantable medical devices as defined in Article 1(2)(c) of Directive 90/385/EEC;
+
+(c) medical devices as defined in Article 1(2)(a) of Directive 93/42/EEC;
+
+(d) in vitro diagnostic medical devices as defined in Article 1(2)(b) of Directive 98/79/EC;
+
+(e) veterinary medicinal products as defined in Article 1(2) of Directive 2001/82/EC;
+
+(f) medicinal products as defined in Article 1(2) of Directive 2001/83/EC.
+
+##### Article 34 — Manufacture
+
+1\. The import, collection and movement of animal by-products and derived products destined for establishments or plants for the manufacture of the derived products referred to in Article 33 and the manufacture of those derived products shall be carried out in accordance with the Community legislation referred to in that Article.
+
+Unused material from such establishments or plants shall be disposed of in accordance with that legislation.
+
+2\. However, this Regulation shall apply where the Community legislation referred to in Article 33 does not provide for conditions controlling potential risks to public and animal health in accordance with the objectives of this Regulation.
+
+#### Section 4 — Other derived products
+
+##### Article 35 — Placing on the market of pet food
+
+Operators may place pet food on the market provided:
+
+(a) the products are derived:
+
+(i) from Category 3 material, other than material referred to in Article 10(n), (o) and (p);
+
+(ii) in the case of imported pet food or of pet food produced from imported materials, from Category 1 material referred to in Article 8(c), subject to conditions laid down pursuant to point (a) of the first paragraph of Article 40; or
+
+(iii) in the case of raw petfood, from material referred to in Article 10(a) and (b)(i) and (ii); and
+
+(b) they ensure the control of risks to public and animal health by safe treatment in accordance with Article 38, where safe sourcing in accordance with Article 37 does not ensure sufficient control.
+
+##### Article 36 — Placing on the market of other derived products
+
+Operators may place on the market derived products, other than the products referred to in Articles 31, 32, 33 and 35, provided:
+
+(a) those products are:
+
+(i) not intended for use for the feeding to farmed animals or for application to land from which such animals are to be fed; or
+
+(ii) intended for feeding to fur animals; and
+
+(b) they ensure the control of risks to public and animal health by:
+
+(i) safe sourcing in accordance with Article 37;
+
+(ii) safe treatment in accordance with Article 38, where safe sourcing does not ensure sufficient control; or
+
+(iii) verifying that the products are only used for safe end uses in accordance with Article 39 where safe treatment does not ensure sufficient control.
+
+##### Article 37 — Safe sourcing
+
+1\. Safe sourcing shall include the use of material:
+
+(a) from which no unacceptable risks to public and animal health arise;
+
+(b) which has been collected and transported from the point of collection to the manufacturing establishment or plant under conditions which exclude risks to public and animal health; or
+
+(c) which has been imported into the Community and transported from the point of first entry to the manufacturing establishment or plant under conditions which exclude risks to public and animal health.
+
+2\. For the purpose of safe sourcing, operators shall provide documentation of the requirements of paragraph 1, including, where necessary, proof of the safety of bio-security measures taken in order to exclude risks arising to public and animal health from starting material.
+
+Such documentation shall be kept available to the competent authority upon request.
+
+In the case referred to in point (c) of paragraph 1, the consignments shall be accompanied by a health certificate corresponding to a model adopted in accordance with the regulatory procedure referred to in Article 52(3).
+
+##### Article 38 — Safe treatment
+
+Safe treatment shall include application of a manufacturing process to the material used which reduces to an acceptable level risks to public and animal health arising from the material used or from other substances resulting from the manufacturing process.
+
+It shall be ensured that the derived product poses no unacceptable risks to public and animal health, in particular by means of testing of the end product.
+
+##### Article 39 — Safe end uses
+
+Safe end uses shall include the use of derived products:
+
+(a) under conditions which pose no unacceptable risks to public and animal health; or
+
+(b) which may pose a risk to public and animal health, for specific purposes provided that such use is justified by objectives set out in Community legislation, in particular for the protection of public and animal health.
+
+##### Article 40 — Implementing measures
+
+Measures for the implementation of this Section may be laid down relating to the following:
+
+(a) conditions for the placing on the market of imported pet food or of pet food produced from imported materials, from Category 1 material referred to in Article 8(c);
+
+(b) conditions for the safe sourcing and movement of material to be used under conditions which exclude risks to public and animal health;
+
+(c) documentation as referred to in the first subparagraph of Article 37(2);
+
+(d) parameters for the manufacturing process as referred to in the first paragraph of Article 38, in particular as regards the application of physical or chemical treatments to the material used;
+
+(e) testing requirements applicable to the end product; and
+
+(f) conditions for the safe use of derived products which pose a risk to public or animal health.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+### CHAPTER III — Import, transit and export
+
+##### Article 41 — Import and transit
+
+1\. Animal by-products and derived products shall be imported into, or sent in transit through, the Community in accordance with:
+
+(a) the relevant requirements of this Regulation and the implementing measures thereof for the particular animal by-product or derived product which are at least as stringent as those applicable to the production and marketing of such animal by-products or derived products within the Community;
+
+(b) conditions recognised to be at least equivalent to the requirements applicable to the production and marketing of such animal by-products or derived products under Community legislation; or
+
+(c) in the case of animal by-products and derived products referred to in Articles 33, 35 and 36, the requirements set out in those Articles.
+
+The measures referred to in point (b) of the first subparagraph, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+2\. By way of derogation from paragraph 1, the import and transit of:
+
+(a) specified risk material shall take place only in accordance with Regulation (EC) No 999/2001;
+
+(b) animal by-products or derived products mixed or contaminated with any waste listed as hazardous in Decision 2000/532/EC shall take place only subject to the requirements of Regulation (EC) No 1013/2006;
+
+(c) Category 1 material, Category 2 material and products derived therefrom which are not intended for the manufacture of derived products referred to in Articles 33, 35 and 36, shall only take place provided that rules for their import have been adopted in accordance with Article 42(2)(a);
+
+(d) animal by-products and derived products destined for the purposes referred to in Article 17(1) shall take place in accordance with national measures which ensure the control of risks to public and animal health, pending the adoption of harmonised conditions referred to in Article 17(2).
+
+3\. In the case of import and transit of Category 3 material and products derived therefrom, the relevant requirements as referred to in point (a) of the first subparagraph of paragraph 1 shall be laid down.
+
+Those requirements may specify that consignments:
+
+(a) must come from a third country or part of a third country listed in accordance with paragraph 4;
+
+(b) must come from establishments or plants approved or registered by the competent authority of the third country of origin and listed by that authority for that purpose; and
+
+(c) must be accompanied at the point of entry into the Community where the veterinary checks take place by documentation such as a commercial document or a health certificate and where appropriate by a declaration, which corresponds to a model laid down pursuant to point (d) of the first subparagraph of Article 42(2).
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+Pending the adoption of the requirements referred to in points (a) and (c) of the second subparagraph, the Member States shall specify those requirements in national measures.
+
+4\. Lists of third countries or parts of third countries from which animal by-products or derived products may be imported or transit through the Community shall be drawn up in accordance with the regulatory procedure referred to in Article 52(3), taking into account in particular:
+
+(a) the legislation of the third country;
+
+(b) the organisation of the competent authority and its inspection services in the third country, the powers of those services, the supervision to which they are subject, and their authority to monitor effectively the application of their legislation;
+
+(c) the actual health conditions applied to the production, manufacture, handling, storage and dispatch of products of animal origin intended for the Community;
+
+(d) the assurances the third country can give regarding compliance with the relevant health conditions;
+
+(e) experience of marketing the product from the third country and the results of import checks carried out;
+
+(f) the result of any Community inspections in the third country;
+
+(g) the health status of the livestock, other domestic animals and wildlife in the third country, having particular regard to exotic animal diseases and any aspects of the general health situation in the country which might pose a risk to public or animal health in the Community;
+
+(h) the regularity and speed with which the third country supplies information about the existence of infectious animal diseases in its territory, in particular the diseases listed in the Terrestrial Animal Health Code and the Aquatic Animal Health Code of the World Organisation for Animal Health;
+
+(i) the regulations on the prevention and control of infectious animal diseases in force in the third country and their implementation, including rules on imports from other third countries.
+
+The lists of establishments or plants referred to in point (b) of the second subparagraph of paragraph 3 shall be kept up to date and communicated to the Commission and the Member States and made available to the public.
+
+##### Article 42 — Implementing measures
+
+1\. Measures for the implementation of Article 41 which may exclude animal by-products or derived products manufactured in certain establishments or plants from import or transit in order to protect public or animal health shall be adopted in accordance with the regulatory procedure referred to in Article 52(3).
+
+2\. Other measures for the implementation of Article 41 shall be laid down relating to the following:
+
+(a) conditions for the import and transit of Category 1 and Category 2 materials and for products derived therefrom;
+
+(b) restrictions regarding public or animal health applicable to imported Category 3 material or products derived therefrom which may be laid down by reference to Community lists of third countries or parts of third countries drawn up in accordance with Article 41(4) or for other public or animal health purposes;
+
+(c) conditions for the manufacture of animal by-products or derived products in establishments or plants in third countries; such conditions may include the arrangements for controls of such establishments or plants by the competent authority concerned and may exempt certain types of establishments or plants handling animal by-products or derived products from approval or registration as referred to in point (b) of the second subparagraph of Article 41(3); and
+
+(d) models for health certificates, commercial documents and declarations which are to accompany consignments, specifying the conditions under which it can be stated that the animal by-products or derived products concerned have been collected or manufactured in accordance with the requirements of this Regulation.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+##### Article 43 — Export
+
+1\. The export of animal by-products and derived products destined for incineration or landfill shall be prohibited.
+
+2\. The export of animal by-products and derived products to third countries which are not members of the OECD for use in a biogas or composting plant shall be prohibited.
+
+3\. Category 1 material, Category 2 material and products derived therefrom shall only be exported for purposes other than those referred to in paragraphs 1 and 2 provided that rules for their export have been laid down.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+4\. Article 12 of Regulation (EC) No 178/2002 concerning food and feed exported from the Community shall apply mutatis mutandis to the export of Category 3 material or products derived therefrom in compliance with this Regulation.
+
+5\. By way of derogation from paragraphs 3 and 4, the export of:
+
+(a) specified risk material shall take place only in accordance with Regulation (EC) No 999/2001;
+
+(b) animal by-products or derived products mixed or contaminated with any waste listed as hazardous in Decision 2000/532/EC shall take place only subject to the requirements of Regulation (EC) No 1013/2006.
+
+## TITLE III — OFFICIAL CONTROLS AND FINAL PROVISIONS
+
+### CHAPTER I — Official controls
+
+##### Article 44 — Procedure for approval
+
+1\. The competent authority shall approve establishments or plants only where an on site visit, prior to start-up of any activity, has demonstrated that they meet the relevant requirements laid down in accordance with Article 27.
+
+2\. The competent authority may grant conditional approval if it appears, from the on site visit, that the establishment or plant meets all the infrastructure and equipment requirements with a view to ensuring the application of the operational procedures in compliance with this Regulation. It shall grant full approval only if it appears, from another on site visit carried out within three months of granting conditional approval, that the establishment or plant meets the other requirements referred to in paragraph 1. If clear progress has been made, but the establishment or plant still does not meet all of these requirements, the competent authority may extend conditional approval. However, conditional approval shall not exceed a total of six months.
+
+3\. Operators shall ensure that an establishment or plant ceases to operate if the competent authority withdraws its approval or in the case of conditional approval fails to extend it or to grant full approval.
+
+##### Article 46 — Suspensions, withdrawals and prohibitions on operations
+
+1\. If the official controls and supervision carried out by the competent authority reveal that one or more of the requirements of this Regulation are not met, it shall take appropriate action.
+
+The competent authority shall in particular, as appropriate to the nature and to the gravity of the deficiencies and to the potential risks for public and animal health:
+
+(a) suspend approvals of establishments or plants approved pursuant to this Regulation, if:
+
+(i) the conditions for approving or operating the establishment or plant are no longer fulfilled;
+
+(ii) the operator can be expected to remedy the deficiencies within a reasonable period of time; and
+
+(iii) the potential risks to public and animal health do not require action in accordance with point (b);
+
+(b) withdraw approvals of establishments or plants approved pursuant to this Regulation, if:
+
+(i) the conditions for approving or operating the establishment or plant are no longer fulfilled; and
+
+(ii) the operator cannot be expected to remedy the deficiencies within a reasonable period of time:
+
+— for reasons relating to the infrastructure of the establishment or plant,
+
+— for reasons relating to the personal capacity of the operator or the staff under his supervision, or
+
+— because of serious risks to public and animal health requiring major adjustments to the operation of the establishment or plant before the operator may apply for re-approval;
+
+(c) impose specific conditions on establishments or plants in order to rectify existing deficiencies.
+
+2\. The competent authority shall, as appropriate to the nature and to the gravity of the deficiencies and to the potential risks for public and animal health, temporarily or permanently prohibit operators referred to in Articles 23(1) and (3) and Article 24(1) from carrying out operations under this Regulation, as appropriate, following receipt of information indicating:
+
+(a) that the requirements of Community legislation are not met; and
+
+(b) potential risks to public or animal health arising from such operations.
+
+##### Article 47 — Lists
+
+1\. Each Member State shall draw up a list of establishments, plants and operators which have been approved or registered in accordance with this Regulation within its territory.
+
+It shall assign an official number to each approved or registered establishment, plant or operator, which identifies the establishment, plant or operator with respect to the nature of its activities.
+
+Member States shall indicate, if applicable, an official number which has been assigned to the establishment, plant or operator under other Community legislation.
+
+Member States shall make the lists of approved or registered establishments, plants and operators available to the Commission and other Member States.
+
+Member States shall keep up-to-date the lists of approved or registered establishments, plants and operators and make them available to other Member States and to the public.
+
+2\. Measures for the implementation of this Article may be laid down in accordance with the regulatory procedure referred to in Article 52(3), in particular on:
+
+(a) the format for the lists referred to in paragraph 1; and
+
+(b) the procedure for making the lists referred to in paragraph 1 available.
+
+##### Article 48 — Controls for dispatch to other Member States
+
+1\. Where an operator intends to dispatch Category 1 material, Category 2 material and meat-and-bone meal or animal fat derived from Category 1 and Category 2 materials to another Member State, it shall inform the competent authority of the Member State of origin and the competent authority of the Member State of destination.
+
+The competent authority of the Member State of destination shall decide upon application by the operator, within a specified time period:
+
+(a) to refuse receipt of the consignment;
+
+(b) to accept the consignment unconditionally; or
+
+(c) to make receipt of the consignment subject to the following conditions:
+
+(i) if the derived products have not undergone pressure sterilisation, it must undergo such treatment; or
+
+(ii) the animal by-products or derived products must comply with any conditions for the dispatch of the consignment which are justified for the protection of public and animal health in order to ensure that animal by-products and derived products are handled in accordance with this Regulation.
+
+2\. Formats for applications by operators referred to in paragraph 1 may be adopted in accordance with the regulatory procedure referred to in Article 52(3).
+
+3\. The competent authority of the Member State of origin shall inform the competent authority of the Member State of destination, by means of the Traces system in accordance with Decision 2004/292/EC, of the dispatch of each consignment sent to the Member State of destination, of
+
+(a) animal by-products or derived products referred to in paragraph 1;
+
+(b) processed animal protein derived from Category 3 material.
+
+When informed of the dispatch, the competent authority of the Member State of destination shall inform the competent authority of the Member State of origin of the arrival of each consignment by means of the Traces system.
+
+4\. Category 1 and Category 2 materials, meat-and-bone meal and animal fat referred to in paragraph 1 shall be transported directly to the establishment or plant of destination, which must have been registered or approved in accordance with Articles 23, 24 and 44 or, in the case of manure, to the farm of destination.
+
+5\. When animal by-products or derived products are sent to other Member States via the territory of a third country, they shall be sent in consignments which have been sealed in the Member State of origin and shall be accompanied by a health certificate.
+
+The sealed consignments shall re-enter the Community only via a border inspection post, in accordance with Article 6 of Directive 89/662/EEC.
+
+6\. By way of derogation from paragraphs 1 to 5, animal by-products or derived products referred to therein which have been mixed or contaminated with any waste listed as hazardous in Decision 2000/532/EC shall be sent to other Member States only subject to the requirements of Regulation (EC) No 1013/2006.
+
+7\. Measures for the implementation of this Article may be adopted relating to the following:
+
+(a) a specified time period for the decision of the competent authority as referred to in paragraph 1;
+
+(b) supplementary conditions for the dispatch of animal by-products or derived products referred to in paragraph 4;
+
+(c) models for the health certificates which have to accompany consignments sent in accordance with paragraph 5; and
+
+(d) conditions under which animal by-products or derived products intended to be used for exhibitions, artistic activities, for diagnostic, educational or research purposes may be sent to other Member States, by way of derogation from paragraph 1 to 5 of this Article.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+8\. Measures for the implementation of this Article may specify the conditions subject to which, by way of derogation from paragraphs 1 to 4, the competent authorities may allow:
+
+(a) the dispatch of manure transported between two points located on the same farm or between farms located in the border regions of Member States sharing a common border;
+
+(b) the dispatch of other animal by-products transported between establishments or plants located in the border regions of Member States sharing a common border; and
+
+(c) the transport of a dead pet animal for incineration to an establishment or plant located in the border region of another Member State sharing a common border.
+
+Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 52(4).
+
+### CHAPTER II — Final provisions
+
+##### Article 51 — National provisions
+
+Member States shall communicate to the Commission the text of the provisions of national law they adopt in areas under their competence which directly concern the proper implementation of this Regulation.
+
+##### Article 51a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 5(2) shall be conferred on the Commission for a period of five years from 15 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 5(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 3 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 5(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+##### Article 52 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health established by Article 58(1) of Regulation (EC) No 178/2002.
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+4\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+5\. Where reference is made to this paragraph, Article 5a(1) to (4) and (5)(b) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time limits laid down in Article 5a(3)(c), (4)(b) and (4)(e) of Decision 1999/468/EC shall be two months, one month and two months respectively.
+
+6\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+##### Article 53 — Penalties
+
+The Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission by 4 June 2011 and shall notify it without delay of any subsequent amendment affecting them.
+
+##### Article 54 — Repeal
+
+Regulation (EC) No 1774/2002 shall be repealed with effect from 4 March 2011.
+
+References to Regulation (EC) No 1774/2002 shall be construed as references to this Regulation and shall be read in accordance with the correlation table laid down in the Annex.
+
+##### Article 55 — Transitional measure
+
+Establishments, plants and users approved or registered in accordance with Regulation (EC) No 1774/2002 before 4 March 2011 shall be deemed to be approved or registered, as required, in accordance with this Regulation.
+
+##### Article 56 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 4 March 2011.
+
+However, Article 4 shall apply to Mayotte, as an outermost region within the meaning of Article 349 of the Treaty on the Functioning of the European Union (hereinafter ‘Mayotte’), from 1 January 2021. Animal by-products and derived products generated in Mayotte before 1 January 2021 shall be disposed of in accordance with Article 19(1)(b) of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — CORRELATION TABLE
+
+| Regulation (EC) No 1774/2002 | This Regulation |
+| --- | --- |
+| Article 1 | Articles 1 and 2 |
+| Article 2 | Article 3 |
+| Article 3(1) | Article 4(1) and(2) |
+| Article 3(2) | Article 41(3), fourth subparagraph |
+| Article 3(3) | Article 4(3), (4) and (5) |
+| Article 4(1) | Article 8 |
+| Article 4(2) | Articles 12, 15 and 16 |
+| Article 4(3) | Article 24(h), (i) and (j) |
+| Article 4(4) | Article 41(2)(c), Article 43(3) and (5)(a) |
+| Article 5(1) | Article 9 |
+| Article 5(2) | Articles 13, 15 and 16 |
+| Article 5(3) | Article 24(h), (i) and (j) |
+| Article 5(4) | Article 41(2)(c) and Article 43(3) |
+| Article 6(1) | Article 10 |
+| Article 6(2) | Articles 14, 15 and 16 |
+| Article 6(3) | Article 24(h), (i) and (j) |
+| Article 7 | Article 21 |
+| Article 8 | Article 48 |
+| Article 9 | Article 22 |
+| Articles 10 to 15, 17 and 18 | Articles 23, 24, 27 and 44 |
+| Article 16 | Article 6 |
+| Article 19 | Article 31 |
+| Article 20(1) | Articles 35 and 36 |
+| Article 20(2) | Article 32 |
+| Article 20(3) | Article 36 |
+| Article 21 | — |
+| Article 22 | Article 11 |
+| Article 23 | Articles 17 and 18 |
+| Article 24 | Article 19 |
+| Article 25 | Articles 28 and 29 |
+| Article 26 | Articles 45, 46 and 47 |
+| Article 27 | Article 49 |
+| Article 28 | Article 35(a)(ii) and Article 41(1) |
+| Article 29 | Articles 41 and 42 |
+| Article 30 | Article 41(1)(b) |
+| Article 31 | Article 50(1) |
+| Article 32 | — |
+| Article 33 | Article 52 |
+| Article 34 | — |
+| Article 35 | Article 15(2) and Article 51 |
+| Article 36 | — |
+| Article 37 | Article 54 |
+| Article 38 | Article 56 |
+
+( 1 ) Regulation (EU) 2017/625  of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) ( OJ L 95, 7.4.2017, p. 1  ).
+
+( 2 ) OJ L 276, 20.10.2010, p. 33.
+
+( 3 ) OJ L 123, 12.5.2016, p. 1.

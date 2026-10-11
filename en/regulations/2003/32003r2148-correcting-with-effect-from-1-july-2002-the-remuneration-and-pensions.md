@@ -1,0 +1,111 @@
+---
+title: "Council Regulation (EC, Euratom) No 2148/2003 of 5 December 2003 correcting with effect from 1 July 2002 the remuneration and pensions of officials and other servants of the European Communities"
+identifier: "32003R2148"
+eli: "http://data.europa.eu/eli/reg/2003/2148/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2003-12-05
+entry_into_force: 2004-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R2148"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC, Euratom) No 2148/2003 of 5 December 2003 correcting with effect from 1 July 2002 the remuneration and pensions of officials and other servants of the European Communities
+
+Council Regulation (EC, Euratom) No 2148/2003
+
+of 5 December 2003
+
+correcting with effect from 1 July 2002 the remuneration and pensions of officials and other servants of the European Communities
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Protocol on the Privileges and Immunities of the European Communities, and in particular Article 13 thereof,
+
+Having regard to the Staff Regulations of officials and the Conditions of employment of other servants of the European Communities laid down by Regulation (EEC, Euratom, ECSC) No 259/68(1), as last amended by Regulation (EC, Euratom) No 2265/2002(2), and in particular Articles 63, 64, 65, 65a and 82 of the Staff Regulations, Annex XI to the Staff Regulations, and Article 20, first subparagraph, and Article 64 of the Conditions of employment,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) Regulation (EC, Euratom) No 2265/2002 was unable to take correct account of the trend in the net remuneration of French civil servants.
+
+(2) The figures showing this trend are now available and show that an additional adjustment should be carried out.
+
+(3) The amounts in that Regulation should therefore be corrected,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+With effect from 1 July 2002:
+
+(a) the table of basic monthly salaries in Article 66 of the Staff Regulations shall be replaced by the following:
+
+">TABLE>"
+
+(b) - EUR 184,33 shall be replaced by EUR 186,14 in Article 1(1) of Annex VII to the Staff Regulations,
+
+- EUR 237,38 shall be replaced by EUR 239,71 in Article 2(1) of Annex VII to the Staff Regulations,
+
+- EUR 424,07 shall be replaced by EUR 428,22 in the second sentence of Article 69 of the Staff Regulations and in the second subparagraph of Article 4(1) of Annex VII thereto,
+
+- EUR 212,14 shall be replaced by EUR 214,22 in the first subparagraph of Article 3 of Annex VII to the Staff Regulations.
+
+## Article 2
+
+With effect from 1 July 2002, the table of basic monthly salaries in Article 63 of the Conditions of employment of other servants shall be replaced by the following:
+
+">TABLE>"
+
+## Article 3
+
+With effect from 1 July 2002 the fixed allowance referred to in Article 4a of Annex VII to the Staff Regulations shall be:
+
+- EUR 111,71 per month for officials in Grade C 4 or C 5,
+
+- EUR 171,28 per month for officials in Grade C 1, C 2 or C 3.
+
+## Article 4
+
+Pensions for which entitlement has accrued by 1 July 2002 shall be calculated from that date by reference to the table of basic monthly salaries laid down in Article 66 of the Staff Regulations, as amended by Article 1(a) of this Regulation.
+
+## Article 5
+
+With effect from 1 July 2002, the table in Article 10(1) of Annex VII to the Staff Regulations shall be replaced by the following:
+
+">TABLE>"
+
+## Article 6
+
+With effect from 1 July 2002, the allowances for shiftwork laid down in Article 1 of Regulation (ECSC, EEC, Euratom) No 300/76(3) shall be EUR 323,81, EUR 488,74, EUR 534,38 and EUR 728,54.
+
+## Article 7
+
+With effect from 1 July 2002, the amounts in Article 4 of Regulation (EEC, Euratom, ECSC) No 260/68(4) shall be subject to a weighting of 4,674337.
+
+## Article 8
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 December 2003.
+
+For the Council
+
+The President
+
+P. Lunardi
+
+(1) OJ L 56, 4.3.1968, p. 1.
+
+(2) Council Regulation (EC, Euratom) No 2265/2002 of 16 December 2002 adjusting with effect from 1 July 2002 the remuneration and pensions of officials and other servants of the European Communities and the weightings applied thereto (OJ L 347, 20.12.2002, p. 1).
+
+(3) Council Regulation (ECSC, EEC, Euratom) No 300/76 of 9 February 1976 determining the categories of officials entitled to allowances for shiftwork, and the rates and conditions thereof (OJ L 38, 13.2.1976, p. 1). Regulation supplemented by Regulation (Euratom, ECSC, EEC) No 1307/87 (OJ L 124, 13.5.1987, p. 6) and last amended by Regulation (EC, ECSC, Euratom) No 2461/98 (OJ L 307, 17.11.1998, p. 5).
+
+(4) Council Regulation (EEC, Euratom, ECSC) No 260/68 of 29 February 1968 laying down the conditions and procedure for applying the tax for the benefit of the European Communities (OJ L 56, 4.3.1968, p. 8). Regulation as last amended by Regulation (EC, Euratom) No 1750/2002 (OJ L 264, 2.10.2002, p. 15).

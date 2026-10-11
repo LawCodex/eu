@@ -123,6 +123,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘349</td><td>Lime sulphur CAS No: 1344 – 81 – 6  CIPAC No: 17 </td><td>Calcium polysulfide</td><td>≥ 290 g/Kg.</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI the conclusions of the review report on lime sulphur, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011, shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>operator safety and shall ensure that the conditions of authorisation include appropriate protective measures,</td></tr>
 </tbody>
@@ -132,5 +133,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

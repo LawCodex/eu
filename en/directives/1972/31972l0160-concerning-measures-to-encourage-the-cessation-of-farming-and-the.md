@@ -32,6 +32,7 @@ concerning measures to encourage the cessation of farming and the reallocation o
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 73/210/EEC of 24 July 1973</td><td> L 207</td><td>48</td><td>28.7.1973</td></tr>
@@ -40,6 +41,7 @@ Amended by:
 <tr><td> M4</td><td>Council Directive 84/140/EEC of 5 March 1984</td><td> L 72</td><td>24</td><td>15.3.1984</td></tr>
 <tr><td></td><td>Council Directive 84/513/EEC of 23 October 1984</td><td> L 285</td><td>13</td><td>30.10.1984</td></tr>
 <tr><td></td><td>Council Regulation (EEC) No 797/85 of 12 March 1985</td><td> L 93</td><td>1</td><td>30.3.1985</td></tr>
+</table>
 
 Amended by:
 

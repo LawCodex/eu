@@ -1,0 +1,780 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/779 of 16 May 2019 laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 (Text with EEA relevance.)"
+identifier: "32019R0779"
+eli: "http://data.europa.eu/eli/reg_impl/2019/779/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-05-16
+entry_into_force: 2020-01-12
+last_amended: 2020-06-16
+consolidated_version: "02019R0779-20200616"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0779-20200616"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/779 of 16 May 2019 laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 (Text with EEA relevance.)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/779**
+
+**of 16 May 2019**
+
+**laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/780 of 12 June 2020 </td><td> L 188</td><td>8</td><td>15.6.2020</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/779**
+
+**of 16 May 2019**
+
+**laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes a system of certification of entities in charge of maintenance (‘ECM certificate’) including the maintenance functions described in Article 14(3) of Directive (EU) 2016/798.
+
+2\. It applies to all vehicles, and introduces the possibility for certification of outsourced maintenance functions.
+
+3\. This Regulation sets out the requirements to be met by the entities in charge of maintenance concerning the management of safety-critical components.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘accreditation’ means accreditation as defined in Article 2(10) of Regulation (EC) No 765/2008;
+
+(b) ‘certification body’ means a body, responsible for the certification of entities in charge of maintenance or for certification of the entity or organisation that fulfil maintenance functions referred to in points (b), (c) or (d) of Article 14(3) of Directive (EU) 2016/798, or parts of those functions;
+
+(c) ‘release to service’ means the justified and recorded assurance, accompanied by documentation where appropriate, given by the entity delivering the maintenance to the fleet-maintenance manager that maintenance has been delivered according to the maintenance orders;
+
+(d) ‘return to operation’ means a notice given to the user, such as a railway undertaking or a keeper, by the entity in charge of maintenance, based on a release to service, assuring that all appropriate maintenance works have been completed and the vehicle, previously removed from operation, is in a condition to be used safely, possibly subject to restrictions of use;
+
+The definition of ‘safety-critical component’ provided for in section 4.2.12.1 of Annex to Commission Regulation (EU) No 1302/2014 ( 1 ) shall apply.
+
+## Article 3 — System of Certification
+
+1\. Without prejudice to Article 15(1) of Directive (EU) 2016/798, any entity in charge of maintenance shall satisfy the requirements of Annex II, in respect of all vehicles subject to Directive (EU) 2016/798.
+
+2\. An ECM certification establishing compliance with the requirements of Annex II shall be mandatory for any entity in charge of maintenance:
+
+(a) responsible for the maintenance of freight wagons, or
+
+(b) which is not a railway undertaking or an infrastructure manager maintaining vehicles exclusively for its own operations.
+
+3\. Any entity in charge of maintenance of vehicles other than those mentioned in paragraph 2, may apply for ECM certification.
+
+4\. Compliance with Annex II shall be demonstrated either through an ECM certification or, without prejudice to paragraph 2, in case of railway undertakings through the process of safety certification or in case of infrastructure managers through the process of safety authorisation.
+
+5\. The ECM certificate granted to a railway undertaking or an infrastructure manager shall be deemed evidence of compliance with points 5.2.4 and 5.2.5 both of Annex I and Annex II to Commission Delegated Regulation (EU) 2018/762 ( 2 ) as regards maintenance of vehicles.
+
+## Article 4 — Safety-critical components
+
+1\. For managing safety-critical components, the entity in charge of maintenance shall take into account the initial identification of safety-critical components by the manufacturer of the vehicle together with any specific maintenance instructions recorded in the technical files of subsystems referred to in Article 15(4) of Directive (EU) 2016/797.
+
+2\. The entity in charge of maintenance shall, either directly or via the keeper provide information to the railway undertakings and infrastructure managers operating the vehicles, keepers, manufacturers, holders of vehicles authorisations and holders of the type authorisation of vehicles, subsystems or components, as most appropriate and shall in particular, inform them of exceptional maintenance findings beyond wear and tear.
+
+3\. Where during the maintenance of a vehicle an entity in charge of maintenance becomes aware of evidence suggesting a component not previously identified as safety critical should be considered as such, it shall inform the manufacturer, the holder of the vehicle type authorisation and the holder of the vehicle authorisation without delay.
+
+4\. To confirm if the component is safety critical the manufacturer, when it can be identified, shall perform a risk assessment. It shall take into account the component's intended use and the environment in which it is intended to be used. As appropriate, the entity in charge of maintenance shall adjust its maintenance procedures to ensure monitoring and the safe maintenance of the component.
+
+5\. Safety critical components including those identified under paragraph 4 above, shall be recorded in and managed through the relevant vehicle documentation as follows:
+
+(a) manufacturers shall manage information on safety critical components and appropriate maintenance instructions related to them through reference in the technical file of subsystems referred to in Article 15(4) of Directive (EU) 2016/797; and
+
+(b) entities in charge of maintenance shall manage safety critical components and appropriate maintenance instructions as well as relevant maintenance activities in the maintenance file or documentation referred to in Article 14 of Directive (EU) 2016/798.
+
+6\. The entity in charge of maintenance shall inform the rail sector and the rail supply industry about new or unexpected safety relevant findings including exceptional maintenance findings beyond wear and tear, in relation to vehicles, subsystems or other components, when the related risks are relevant for more actors and are likely to be poorly controlled. The entity in charge of maintenance shall use the Safety Alert IT or another informatics tool provided by the Agency for this purpose.
+
+7\. At the request of the entity in charge of maintenance or of the keeper of the vehicle, the manufacturers shall provide technical and engineering support for safety-critical components and their safe integration.
+
+## Article 5 — Obligations of parties involved in the maintenance process
+
+1\. The entity in charge of the maintenance of the vehicle shall deliver information on the maintenance of a vehicle, and, where applicable on aspects relevant for the operation to the railway undertakings or infrastructure managers at request, either directly or via the keeper.
+
+2\. The railway undertaking or the infrastructure manager shall deliver information on the operation of a vehicle to the entity in charge of maintenance at request, either directly or via the keeper of the vehicle.
+
+3\. All parties involved in the maintenance process such as railway undertakings, infrastructure managers, keepers, entities in charge of maintenance, as well as manufacturers of vehicles, subsystems or components, shall exchange relevant information about maintenance in accordance with the criteria listed in Sections I.7 and I.8 of Annex II.
+
+4\. Where any involved party, in particular a railway undertaking or an infrastructure manager, has evidence that an entity in charge of maintenance does not comply with Article 14 of Directive (EU) 2016/798 or with the requirements of this Regulation, it shall without delay inform the certification body and the relevant national safety authority thereof. The certification body or, where the entity in charge of maintenance is not certified, the relevant national safety authority shall take appropriate action to check whether the claim of non-compliance is justified.
+
+5\. Where there is a change of entity in charge of maintenance, the keeper, in accordance with Article 47(6) of Directive (EU) 2016/797, shall inform without delay the registration entity referred to in Article 4(1) of Commission Decision 2007/756/EC ( 3 ) and request the update of the vehicle register. In that situation:
+
+(i) the former entity in charge of maintenance shall without delay deliver the maintenance documentation to the keeper;
+
+(ii) the former entity in charge of maintenance shall be relieved of its obligations when it is removed from the vehicle register;
+
+(iii) in the absence of a new entity in charge of maintenance the registration of the vehicle shall be suspended.
+
+## Article 6 — Certification bodies
+
+1\. Member States shall provide the Agency with the following information concerning the certification bodies:
+
+— name
+
+— address
+
+— contact details
+
+— the nature of their empowerment in accordance with Article 14 of Directive (EU) 2016/798 (accreditation, recognition or if they have taken on the task as the national safety authority)
+
+2\. Member States shall inform the Agency about any change in the situation within one month of the occurrence of that change.
+
+3\. Member States shall ensure that the certification bodies comply with the general criteria and principles set out in Annex I and with any specific sectoral accreditation schemes laid down by the relevant Union legislation.
+
+4\. Member States shall ensure that decisions taken by the certification bodies are subject to judicial review.
+
+5\. In order to harmonise approaches to the assessment of applications, the certification bodies shall cooperate with one another both within the Member States and across the Union.
+
+6\. The Agency shall organise and facilitate cooperation between the certification bodies.
+
+7\. The certification bodies shall deliver an activity report in an electronic form every 3 years to the Agency. The content of such a report shall be defined by the Agency (in collaboration with the certification bodies) and made available on 16 December 2020 and in accordance with any specific sectoral accreditation schemes laid down by the relevant Union legislation. The Agency shall publish the reports on its website.
+
+8\. A national safety authority, a national investigation body or the Agency may request information from any certification body on the situation concerning an individual ECM certification. The certification body shall reply within 2 weeks at the latest.
+
+## Article 7 — Certification of entities in charge of maintenance
+
+1\. The entity in charge of maintenance shall apply for ECM certification to a certification body. It shall use the relevant form in Annex III and provide documentary evidence for the requirements and procedures set out in Annex II. The application shall include the description of the strategy to ensure continued compliance with the requirements set out in Annex II, after the award of the ECM certification, including the compliance with Commission Regulation (EU) No 1078/2012 ( 4 ).
+
+2\. The application for ECM certification may be limited to a specified category of vehicles.
+
+3\. The applicant shall submit supplementary information and documentation at the request of the certification body. The timeframe for providing supplementary information shall be reasonable, proportionate to the difficulty of providing the information requested and agreed with the applicant upon request.
+
+4\. The certification body shall verify the fulfilment of the requirements set out in Annex II. To that end, it may undertake site visits of the entity in charge of maintenance.
+
+5\. The certification body shall take a decision to award or refuse ECM certification at the latest 4 months after all the information and documentation has been received.
+
+6\. The certification body shall give the reasons for its decisions. It shall notify its decision to the entity in charge of maintenance, with an indication of the appeal process, the time limit for an appeal and the contact details of the appeal body.
+
+7\. The decision to award the ECM certification shall be notified using the relevant form set out in Annex IV.
+
+8\. An ECM certification shall be valid for a maximum period of 5 years. The certified entity in charge of maintenance shall inform the certification body of any changes that might have an impact on the validity of its certification without delay.
+
+## Article 8 — Compliance of entities in charge of maintenance
+
+1\. The certification body shall conduct surveillance activities in respect of the entity in charge of maintenance to verify continued compliance with the requirements set out in Annex II. It shall conduct site visits at least once every 12 months. The choice regarding the nature of surveillance activities and sites to be visited shall aim at ensuring overall continuing compliance and shall be based on a geographical and functional balance. It shall take account of previous surveillance activities of the entity in charge of maintenance under surveillance.
+
+2\. Where the certification body finds that an entity in charge of maintenance no longer complies with the requirements on the basis of which it issued the ECM certification, it can take one of the following actions:
+
+— agree an improvement plan with the entity in charge of maintenance,
+
+— decide to limit the scope of the ECM certification,
+
+— suspend or revoke the certification, depending on the extent of non-compliance.
+
+3\. Where the entity in charge of maintenance does not follow the improvement plan or continues not to comply with the requirements set out in Annex II, the certification body shall decide to limit the scope of or revoke the ECM certification, depending on the extent of non-compliance.
+
+4\. In case of revocation of an ECM certification, the entity in charge of the national or European vehicle register shall ensure suspension of the registration of vehicles affected by the revocation, until a new entity in charge of maintenance is registered for the vehicles concerned.
+
+5\. Each entity in charge of maintenance shall submit an annual report of its activities to its certification body and make it available to the national safety authority and to the Agency upon request. The requirements for this report are set out in Annex V.
+
+## Article 9 — Outsourcing maintenance functions
+
+1\. One or more of the functions referred to in points (b), (c) and (d) of Article 14(3) of Directive (EU) 2016/798, or parts thereof, may be outsourced and the certification body shall be informed thereof.
+
+2\. The entity in charge of maintenance shall demonstrate to the certification body how it complies with all the requirements and assessment criteria set out in Annex II with regard to the functions it decided to outsource.
+
+3\. The entity in charge of maintenance shall remain responsible for the outcome of the outsourced maintenance activities and shall establish a system to monitor their performance.
+
+## Article 10 — Certification for outsourced maintenance functions
+
+1\. A certification may be requested by any entity or organisation taking on one or more maintenance functions as referred to in points (b), (c) and (d) of Article 14(3). Such a certification shall confirm that the maintenance carried out by the entity or organisation concerned of one or more of those functions complies with the relevant requirements set out in Annex II.
+
+2\. Certification bodies shall apply the procedures set out in Articles 6, 7, 8 and 13(2) adapted to the particular case of the applicant.
+
+In assessing applications for certification in respect of outsourced maintenance functions or parts thereof, certification bodies shall apply:
+
+(a) the requirements and assessment criteria set out in Section I of Annex II, adapted to the organisation's type and extent of service;
+
+(b) the requirements and assessment criteria describing the specific maintenance function or functions.
+
+## Article 11 — Role of the national safety authorities
+
+If a national safety authority has knowledge that an entity in charge of maintenance does not comply with the requirements of Annex III of Directive (EU) 2016/798 or with the certification requirements of this Regulation, it shall inform the national bodies or authorities responsible for the accreditation or recognition, the Agency, the certification body and other interested parties as appropriate.
+
+## Article 12 — Cooperation with the certification bodies
+
+The Agency shall support the harmonised system of certification through the provision of:
+
+(a) assistance to national accreditation bodies and to the relevant national authorities recognising the certification bodies;
+
+(b) cooperation on appropriate accreditation and certification schemes. Those schemes shall set out evaluation criteria and procedures to assess compliance of certification bodies with the requirements set out in Annex I (via the European accreditation infrastructure established pursuant to Article 14 of Regulation (EC) No 765/2008).
+
+## Article 13 — Provision of information
+
+1\. The Agency shall collect, record and publish basic information on certification bodies and certified entities in charge of maintenance. The Agency shall create an IT tool for delivering this task.
+
+2\. Certification bodies shall notify the Agency of all issued, amended, renewed, suspended or revoked ECM certifications or of all certifications for functions as referred to in points (b), (c) and (d) of Article 14(3) of Directive (EU) 2016/798, within one week from its decision, using the forms set out in Annex IV.
+
+## Article 14 — Reporting
+
+The Agency shall address to the Commission a first report on the implementation of this Regulation five years following its entry into force. The Agency shall address subsequent reports on the implementation of this Regulation every three years following the first report.
+
+## Article 15 — Transitional provisions
+
+1\. Certification bodies accredited or recognised pursuant to Regulation (EU) No 445/2011 shall be deemed accredited or recognised in accordance with this Regulation under the conditions for which those certification bodies have been accredited or recognised.
+
+2\. The attestation for an entity in charge of maintenance for vehicles other than freight wagons, issued by the certification body on the basis of national laws, applicable in the field governed by this Regulation, before 16 June 2020 shall be recognised as being equivalent to ECM certification for its original period of validity or at the latest, until 16 June 2023.
+
+3\. Attestations of conformity with the principles and criteria equivalent to the requirements of Annex III of Regulation (EU) No 445/2011 issued by a certification body for vehicles other than freight wagons, by 16 June 2019 at the latest, shall be deemed equivalent to ECM certifications issued under this Regulation for their original period of validity or at the latest, until 16 June 2023.
+
+4\. Attestations of conformity for outsourced maintenance functions for vehicles other than freight wagons, issued by the certification body by 16 June 2022 at the latest, on the basis of national laws applicable in the field governed by this Regulation before its entry into force shall be deemed equivalent to ECM certifications for outsourced maintenance functions issued under this Regulation for their original period of validity or at the latest, until 16 June 2025.
+
+5\. All entities in charge of maintenance for vehicles other than freight wagons and vehicles listed in Article 15(1) of Directive (EU) 2016/798, which are not subject to paragraphs 2 to 4, shall comply with this Regulation by 16 June 2022 at the latest.
+
+6\. Without prejudice to any procedure that the certification body may take by virtue of the provisions of Article 7(7) of Regulation (EU) No 445/2011, the validity of ECM certificates and certificates in respect of outsourced maintenance functions issued in accordance with that Regulation, expiring between 1 March 2020 and 31 August 2020 shall be extended for 6 additional months.
+
+## Article 16 — Repeal
+
+Regulation (EU) No 445/2011 is repealed with effect from 16 June 2020.
+
+Certificates issued under Regulation (EU) No 445/2011 by a certification body shall be deemed equivalent to certificates issued under this Regulation for their original period of validity.
+
+## Article 17 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 16 June 2020. However, Article 4 shall apply from 16 June 2021 and Article 15(6) shall apply from 1 March 2020.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Criteria for accreditation or recognition of certification bodies involved in the assessment and award of ECM certificates**
+
+**1\. ORGANISATION**
+
+The certification body shall document its organisational structure, showing the duties, responsibilities and authorities of management and other certification staff and any committees. Where the certification body is a defined part of a legal entity, the structure shall include the line of authority and the relationship to other parts within the same legal entity.
+
+**2\. INDEPENDENCE**
+
+The certification body shall be organisationally and functionally independent in its decision-making from railway undertakings, infrastructure managers, keepers, manufacturers and entities in charge of maintenance and shall not provide similar services.
+
+The independence of the staff responsible for the certification checks shall be guaranteed. No official shall be remunerated on the basis of either the number of checks performed or the results of those checks.
+
+**3\. COMPETENCE**
+
+The certification body and the staff deployed shall have the required professional competence, in particular regarding the organisation of the maintenance of vehicles and the appropriate maintenance system. The specific requirements addressing the personnel involved in the management and performance of assessment and in the certification shall be described in the accreditation scheme.
+
+**4\. IMPARTIALITY**
+
+The certification body's decisions shall be based on objective evidence of conformity or non-conformity obtained by the certification body, and shall not be influenced by other interests or by other parties.
+
+**5\. RESPONSIBILITY**
+
+The certification body is not responsible for ensuring ongoing conformity with the requirements for certification.
+
+The certification body has the responsibility to assess sufficient objective evidence upon which to base a certification decision.
+
+**6\. OPENNESS**
+
+A certification body shall provide public access to, or disclosure of, appropriate and timely information about its audit process and certification process. It shall also provide information about the certification status (including the granting, extension, maintenance, renewal, suspension, reduction in scope, or withdrawal of certification) of any organisation, in order to develop confidence in the integrity and credibility of certification. Openness is a principle of access to, or disclosure of, appropriate information.
+
+**7\. CONFIDENTIALITY**
+
+To gain the privileged access to information needed to assess conformity with the requirements for certification adequately, a certification body shall keep confidential any commercial information about a client.
+
+**8\. RESPONSIVENESS TO COMPLAINTS**
+
+The certification body shall establish a procedure to handle complaints about decisions and other certification-related activities.
+
+**9\. LIABILITY AND FINANCING**
+
+The certification body shall be able to demonstrate that it has evaluated the risks arising from its certification activities and that it has adequate arrangements (including insurance or reserves) to cover liabilities arising from its operations in each field of its activities and the geographic areas in which it operates.
+
+## ANNEX II
+
+**Requirements and assessment criteria for organisations applying for an ECM certificate or for a certificate in respect of maintenance functions outsourced by an entity in charge of maintenance**
+
+**I. Requirements and assessment criteria for the management function**
+
+**1\. Leadership — commitment to the development and implementation of the maintenance system of the organisation and to the continuous improvement of its effectiveness**
+
+The organisation shall have procedures for:
+
+(a) establishing a maintenance policy appropriate to the organisation's type and extent of service and approved by the organisation's chief executive or his or her representative;
+
+(b) ensuring that safety targets are established, in line with the legal framework and consistent with an organisation's type, extent and relevant risks;
+
+(c) assessing its overall safety performance in relation to its corporate safety targets;
+
+(d) developing plans and procedures for reaching its safety targets;
+
+(e) ensuring that the resources needed to perform all processes are available to comply with the requirements of this Annex;
+
+(f) identifying and managing the impact of other management activities on the maintenance system;
+
+(g) ensuring that senior management is aware of the results of performance monitoring and audits and takes overall responsibility for the implementation of changes to the maintenance system;
+
+(h) ensuring that staff and staff representatives are adequately represented and consulted in defining, developing, monitoring and reviewing the safety aspects of all related processes that may involve staff.
+
+**2\. Risk management — a structured approach to assess risks associated with the maintenance of vehicles, including those directly arising from operational processes and the activities of other organisations or persons, and to identify the appropriate risk control measures**
+
+2.1. The organisation shall have procedures and arrangements in place to recognise the need and commitment to collaborate with keepers, railway undertakings, infrastructure managers, designers and manufacturers of vehicles and components or other interested parties.
+
+2.2. The organisation shall have risk management procedures to manage changes in the maintenance file, including maintenance plans, equipment, procedures, organisation, staffing or interfaces, and to apply the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798.
+
+2.3. When assessing risk, an organisation shall have procedures to take into account the need to determine, provide and sustain an appropriate working environment which conforms to Union and national legislation, in particular Council Directive 89/391/EEC ( 5 ).
+
+**3\. Monitoring — a structured approach to ensure that risk control measures are in place, working correctly and achieving the organisation's objectives**
+
+3.1. The organisation shall have a procedure to regularly collect, monitor and analyse relevant safety data, including:
+
+(a) the performance of relevant processes;
+
+(b) the results of processes (including all contracted services and products);
+
+(c) the effectiveness of risk control arrangements;
+
+(d) information on experience, malfunctions, defects and repairs arising from day-to-day operation and maintenance.
+
+3.2. The organisation shall have procedures to ensure that accidents, incidents, near-misses and other dangerous occurrences are reported, logged, investigated and analysed.
+
+3.3. For a periodic review of all processes, the organisation shall have an internal auditing system which is independent, impartial and acts in a transparent way. This system shall have procedures in place to:
+
+(a) develop an internal audit plan, which may be revised depending on the results of previous audits and monitoring of performance;
+
+(b) analyse and evaluate the results of the audits;
+
+(c) propose and implement specific corrective measures or actions;
+
+(d) verify the effectiveness of previous measures or actions.
+
+3.4. The procedures mentioned in points 3.1, 3.2 and 3.3 of this Section shall comply with the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798 and to the methods for assessing the safety level and the safety performance of railway operators at national and Union level as adopted pursuant to point (d) of Article 6(1) of that Directive.
+
+**4\. Continuous improvement — a structured approach to analyse the information gathered through regular monitoring, auditing, or other relevant sources and to use the results to learn and to adopt preventive or corrective measures in order to maintain or improve the level of safety**
+
+The organisation shall have procedures to ensure that:
+
+(a) identified shortcomings are rectified;
+
+(b) new safety developments are implemented;
+
+(c) internal audit findings are used to bring about improvement in the system;
+
+(d) preventive or corrective actions are implemented, when needed, to ensure compliance of the railway system with standards and other requirements throughout the lifecycle of equipment and operations;
+
+(e) relevant information relating to the investigation and causes of accidents, incidents, near-misses and other dangerous occurrences is used to learn and, where necessary, to adopt measures in order to improve the level of safety;
+
+(f) relevant recommendations from the national safety authority, from the national investigation body and from industry or internal investigations are evaluated and implemented if appropriate;
+
+(g) relevant reports or information from railway undertakings/infrastructure managers, keepers or other relevant sources are considered and taken into account.
+
+**5\. Structure and responsibility — a structured approach to define the responsibilities of individuals and teams for secure delivery of the organisation's safety objectives**
+
+5.1. The organisation shall have procedures to allocate responsibilities for all relevant processes throughout the organisation.
+
+5.2. The organisation shall have procedures to clearly define safety-related areas of responsibility and the distribution of responsibilities to specific functions associated with them as well as their interfaces. Those include the procedures indicated in point 2.1 above between the organisation and the keepers and, where appropriate, railway undertakings and infrastructure managers.
+
+5.3. The organisation shall have procedures to ensure that staff with delegated responsibilities within the organisation have the authority, competence and appropriate resources to perform their functions. Responsibility and competence shall be coherent and compatible with the given role, and delegations shall be in writing.
+
+5.4. The organisation shall have procedures to ensure the coordination of activities related to relevant processes across the organisation.
+
+5.5. The organisation shall have procedures to hold those with a role in the management of safety accountable for their performance.
+
+**6\. Competence management — a structured approach to ensure that employees have the competences required in order to achieve the organisation's objectives safely, effectively and efficiently in all circumstances**
+
+6.1. The organisation shall set up a competence management system providing for:
+
+(a) the identification of posts with responsibility for performing within the system all the processes necessary for compliance with the requirements of this Annex;
+
+(b) the identification of posts involving safety tasks;
+
+(c) the allocation of staff with the appropriate competence to relevant tasks.
+
+6.2. Within the organisation's competence management system, there shall be procedures to manage the competence of staff, including at least:
+
+(a) identification of the knowledge, skills and experience required for safety-related tasks as appropriate for the responsibilities;
+
+(b) selection principles, including basic educational level, mental aptitude and physical fitness;
+
+(c) initial training and qualification or certification of acquired competence and skills;
+
+(d) assurance that all staff are aware of the relevance and importance of their activities and how they contribute to the achievement of safety objectives;
+
+(e) ongoing training and periodical updating of existing knowledge and skills;
+
+(f) periodic checks of competence, mental aptitude and physical fitness where appropriate;
+
+(g) special measures in the case of accidents/incidents or long absences from work, as required.
+
+**7\. Information — a structured approach to ensure that important information is available to those making judgments and decisions at all levels of the organisation**
+
+7.1. The organisation shall have procedures to define reporting channels to ensure that, within the entity itself and in its dealings with other actors, including infrastructure managers, railways undertakings, keepers and designers or manufacturers of vehicles or components, or both, when appropriate, information on all relevant processes is duly exchanged and submitted to the person having the right role both within its own organisation and in other organisations, in a prompt and clear way.
+
+7.2. To ensure an adequate exchange of information, the organisation shall have procedures for:
+
+(a) the receipt and processing of specific information;
+
+(b) the identification, generation and dissemination of specific information;
+
+(c) making available reliable and up-to-date information.
+
+7.3. The organisation shall have procedures to ensure that key operational information is:
+
+(a) relevant and valid;
+
+(b) accurate;
+
+(c) complete;
+
+(d) appropriately updated;
+
+(e) verified;
+
+(f) consistent and easy to understand (including the language used);
+
+(g) made known to staff in accordance with their responsibilities, before it is applied;
+
+(h) easily accessible to staff, with copies provided to them where required.
+
+7.4. The requirements set out in points 7.1, 7.2 and 7.3 apply in particular to the following operational information:
+
+(a) checks of the accuracy and completeness of national vehicle registers regarding the identification (including means) and registration of the vehicles maintained by the organisation;
+
+(b) maintenance documentation;
+
+(c) information on support provided to keepers and, where appropriate, to other parties, including railway undertakings/infrastructure managers;
+
+(d) information on the qualification of staff and subsequent supervision during maintenance development;
+
+(e) information on operations (including mileage, type and extent of activities, incidents or accidents) and requests of railway undertakings, keepers and infrastructure managers;
+
+(f) records of maintenance performed, including information on deficiencies detected during inspections and corrective actions taken by railway undertakings or by infrastructure managers such as inspections and monitoring undertaken before the departure of the train or en route;
+
+(g) release to service and return to operation;
+
+(h) maintenance orders;
+
+(i) technical information to be provided to railway undertakings/infrastructure managers and keepers for maintenance instructions;
+
+(j) emergency information concerning situations where the safe state of running is impaired, which may consist of:
+
+(i) the imposition of restrictions of use or specific operating conditions for the vehicles maintained by the organisation or other vehicles of the same series even if maintained by other entities in charge of maintenance, whereby this information shall also be shared with all involved parties;
+
+(ii) urgent information on safety-related issues identified during maintenance, such as deficiencies detected in a component common to several categories or series of vehicles;
+
+(k) all relevant information or data needed to submit the annual maintenance report to the certification body and to the relevant customers (including keepers), whereby this report shall also be made available upon request to national safety authorities.
+
+**8\. Documentation — a structured approach to ensure the traceability of all relevant information**
+
+8.1. The organisation shall have adequate procedures in place to ensure that all relevant processes are duly documented.
+
+8.2. The organisation shall have adequate procedures in place to:
+
+(a) regularly monitor and update all relevant documentation;
+
+(b) format, generate, distribute and verify changes to all relevant documentation;
+
+(c) receive, collect and archive all relevant documentation.
+
+**9\. Contracting activities — a structured approach to ensure that subcontracted activities are managed appropriately in order for the organisation's objectives to be achieved**
+
+9.1. The organisation shall have procedures in place to ensure that safety-related products and services are identified.
+
+9.2. When making use of contractors or suppliers, or both, for safety-related products and services, the organisation shall have procedures in place to verify at the time of selection that:
+
+(a) contractors, subcontractors and suppliers are competent;
+
+(b) contractors, subcontractors and suppliers have a maintenance and management system that is adequate and documented.
+
+9.3. The organisation shall have a procedure to define the requirements that such contractors and suppliers have to meet.
+
+9.4. The organisation shall have procedures to monitor the awareness of suppliers and/or contractors of risks they entail to the organisation's operations.
+
+9.5. When the maintenance or management system of a contractor or supplier is certified, the monitoring process described in point 3 may be limited to the results of the contracted operational processes referred to in point 3.1(b).
+
+9.6. At least the basic principles for the following processes shall be clearly defined, known and allocated in the contract between the contracting parties:
+
+(a) responsibilities and tasks relating to railway safety issues;
+
+(b) obligations relating to the transfer of relevant information between both parties;
+
+(c) the traceability of safety-related documents.
+
+**II. Requirements and assessment criteria for the maintenance development function**
+
+1\. The organisation shall have a procedure to identify and manage:
+
+(a) all maintenance activities affecting safety;
+
+(b) all safety-critical components.
+
+2\. The organisation shall have procedures to guarantee conformity with the essential requirements for interoperability, including updates throughout the lifecycle, by:
+
+(a) ensuring compliance with the specifications related to the basic parameters for interoperability as set out in the relevant technical specifications for interoperability (TSIs);
+
+(b) verifying in all circumstances the consistency of the maintenance file with the authorisation related to the vehicle (including any national safety requirements), including the conformity to the technical file and the type of records as in the European Register of Authorised Types of Vehicles (ERATV);
+
+(c) managing any substitution in the framework of maintenance;
+
+(d) identifying the need for risk assessment of the potential impact of the change in question on the safety of the railway system, by application of the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798;
+
+(e) managing the configuration of all technical changes affecting the system integrity of the vehicle.
+
+3\. The organisation shall have a procedure to design and support the implementation of maintenance facilities, equipment and tools specifically developed and required for maintenance delivery. The organisation shall have a procedure to check that these facilities, equipment and tools are used, stored and maintained according to their maintenance schedule and in conformity with their maintenance requirements.
+
+4\. When vehicles start operations, the organisation shall have procedures to:
+
+(a) obtain access to the recommendations for maintenance of the initial documentation and to collect sufficient information on planned operations;
+
+(b) analyse those recommendations for maintenance of the initial documentation and to provide, by application of the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798, the first maintenance file, also taking into account the information contained in any associated guarantees;
+
+(c) ensure that the implementation of the first maintenance file is done accordingly.
+
+5\. To keep the maintenance file updated throughout the lifecycle of a vehicle, the organisation shall have procedures to:
+
+(a) collect at least the relevant information in relation to:
+
+(i) the type and extent of operations effectively performed, including, but not limited to accidents, serious accidents and incidents, as defined in Directive (EU) 2016/798;
+
+(ii) the detected failures on components;
+
+(iii) the type and extent of operations planned;
+
+(iv) the maintenance effectively performed.
+
+(b) define the need for updates, taking into account the limit values for interoperability;
+
+(c) make proposals for and approve changes and their implementation, with a view to a decision based on clear criteria, taking into account the findings from risk assessment performed by application of the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798;
+
+(d) ensure that the implementation of changes is done accordingly;
+
+(e) monitor the effectiveness of the changes through a process in consistency with the methods for assessing the safety level and the safety performance of railway operators at national and Union level as adopted pursuant to point (d) of Article 6(1) of Directive (EU) 2016/798.
+
+6\. When the competence management process is applied to the maintenance development function, at least the following activities affecting safety shall be taken into account:
+
+(a) application of the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798 for assessment of changes of the maintenance file;
+
+(b) engineering disciplines required for managing the establishment and the changes of the maintenance file and the development, assessment, validation and approval of substitutions in the framework of maintenance;
+
+(c) maintenance activities on safety-critical components;
+
+(d) joining techniques (including welding and bonding);
+
+(e) non-destructive testing.
+
+7\. When the documentation process is applied to the maintenance development function, the traceability of at least the following elements needs to be guaranteed:
+
+(a) the documentation relating to the development, assessment, validation and approval of a substitution in the framework of maintenance;
+
+(b) the configuration of vehicles, including, but not limited to, safety-critical components and on-board software modifications;
+
+(c) records of the maintenance performed;
+
+(d) results of studies concerning return on experience;
+
+(e) all the successive versions of the maintenance file, including risk assessment;
+
+(f) reports on the competence and supervision of maintenance delivery and fleet maintenance management;
+
+(g) technical information to be provided to support keepers, railway undertakings and infrastructure managers.
+
+**III. Requirements and assessment criteria for the fleet maintenance management function**
+
+1\. The organisation shall have a procedure to check the competence, availability and capability of the entity responsible for maintenance delivery before placing maintenance orders. This requires that the maintenance workshops are duly qualified to decide upon the requirements for technical competences in the maintenance delivery function.
+
+2\. The organisation shall have a procedure for the composition of the work package and for the issue and release of the maintenance order.
+
+3\. The organisation shall have a procedure to send vehicles for maintenance in due time.
+
+4\. The organisation shall have a procedure to manage the removal of vehicles from operation for maintenance or when safe operation is impaired or when needs of maintenance affect the normal operation.
+
+5\. The organisation shall have a procedure to define the necessary verification measures applied to the maintenance delivered and the release to service of the vehicles.
+
+6\. The organisation shall have a procedure to issue a notice of return to operation, including the definition of restrictions of use to ensure the safe running by taking into account the release to service documentation.
+
+7\. When the competence management process is applied to the fleet maintenance management function, at least the return to operation shall be taken into account including defining the restriction of use.
+
+8\. When the information process is applied to the fleet maintenance management function, at least the following elements need to be provided to the maintenance delivery function:
+
+(a) applicable rules and technical specifications;
+
+(b) the maintenance plan for each vehicle;
+
+(c) a list of spare parts, including a sufficiently detailed technical description of each part to allow like-for-like replacement with the same guarantees;
+
+(d) a list of materials, including a sufficiently detailed description of their use and the necessary health and safety information;
+
+(e) a dossier that defines the specifications for activities affecting safety and contains intervention and in-use restrictions for components;
+
+(f) a list of components or systems subject to legal requirements and a list of those requirements (including brake reservoirs and tanks for the transport of dangerous goods);
+
+(g) application of the common safety methods related to the risk evaluation and assessment methods as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798 for assessing changes affecting the fleet maintenance management function.
+
+9\. When the information process is applied to the fleet maintenance management function, interested parties shall be at least informed of the return to operation, including restrictions on use relevant to users (railway undertakings and infrastructure managers).
+
+10\. When the documentation process is applied to the fleet maintenance management function, at least the following elements need to be recorded:
+
+(a) maintenance orders;
+
+(b) return to operation, including restrictions on use relevant to railway undertakings and infrastructure managers.
+
+**IV. Requirements and assessment criteria for the maintenance delivery function**
+
+1\. The organisation shall have procedures to:
+
+(a) check the completeness and appropriateness of the information delivered by the fleet maintenance management function in relation to the activities ordered;
+
+(b) verify the use of the required, relevant maintenance documents and other standards applicable to the delivery of maintenance services in accordance with maintenance orders;
+
+(c) ensure that all relevant maintenance specifications, as defined in applicable regulations and specified standards contained in the maintenance orders, are available to all involved staff (e.g. they are contained in internal working instructions).
+
+2\. The organisation shall have procedures to ensure that:
+
+(a) components (including spare parts) and materials are used as specified in the maintenance orders and supplier documentation;
+
+(b) components and materials are stored, handled and transported in a manner that prevents wear and damage and as specified in the maintenance orders and supplier documentation;
+
+(c) all components and materials, including those provided by the customer, comply with relevant national and international rules as well as with the requirements of relevant maintenance orders.
+
+3\. The organisation shall have procedures to determine, identify, provide, record and keep available suitable and adequate facilities, equipment and tools to enable it to deliver the maintenance services in accordance with maintenance orders and other applicable specifications, ensuring:
+
+(a) the safe delivery of maintenance, including the health and safety of maintenance staff;
+
+(b) ergonomics and health protection, also including the interfaces between users and information technology systems or diagnostic equipment.
+
+4\. Where necessary to ensure valid results, the organisation shall have procedures to ensure that its measuring equipment is:
+
+(a) calibrated or verified at specified intervals, or prior to use, against international, national or industrial measurement standards — where no such standards exist, the basis used for calibration or verification shall be recorded;
+
+(b) adjusted or re-adjusted as necessary;
+
+(c) identified to enable the calibration status to be determined;
+
+(d) safeguarded from adjustments that would invalidate the measurement result;
+
+(e) protected from damage and deterioration during handling, maintenance and storage.
+
+5\. The organisation shall have procedures to ensure that all facilities, equipment and tools are correctly used, calibrated, preserved and maintained in accordance with documented procedures.
+
+6\. The organisation shall have procedures to check that performed tasks are in accordance with the maintenance orders and to issue the notice of release to service. The notice of release to service shall include all information that is useful to define restrictions of use.
+
+7\. When the risk assessment process (in particular points 2.2 and 2.3 of Section I) is applied to the maintenance delivery function, the working environment shall include not only the workshops where maintenance is done but also the tracks outside the workshop buildings and all places where maintenance activities are performed.
+
+8\. When the competence management process is applied to the maintenance delivery function, at least the following activities affecting safety where appropriate shall be taken into account:
+
+(a) joining techniques (including welding and bonding);
+
+(b) non-destructive testing;
+
+(c) final vehicle testing and release to service;
+
+(d) maintenance activities on brake systems, wheel sets and draw gear and maintenance activities on specific components of freight wagons for the transport of dangerous goods, such as tanks, valves, etc.;
+
+(e) maintenance activities on safety-critical components;
+
+(f) maintenance activities on control-command and signalisation systems;
+
+(g) maintenance activities on door control systems;
+
+(h) other identified specialist areas affecting safety.
+
+9\. When the information process is applied to the maintenance delivery function, at least the following elements shall be provided to the fleet maintenance management and maintenance development functions:
+
+(a) works performed in accordance with the maintenance orders;
+
+(b) any possible fault or defect regarding safety which is identified by the organisation;
+
+(c) the release to service.
+
+10\. When the documentation process is applied to the maintenance delivery function, at least the following elements shall be recorded for the maintenance activities affecting safety, as referred to in point 1(a) of Section II:
+
+(a) clear identification of all facilities, equipment and tools;
+
+(b) all maintenance works performed, including personnel, tools, equipment, spare parts and materials used and taking into account:
+
+(i) relevant national rules where the organisation is established;
+
+(ii) requirements laid down in the maintenance orders, including requirements regarding records;
+
+(iii) final testing and the decision regarding the release to service;
+
+(c) the control measures required by maintenance orders and the release to service;
+
+(d) the results of calibration and verification, whereby, for computer software used in the monitoring and measurement of specified requirements, the ability of the software to perform the desired task shall be confirmed prior to initial use and reconfirmed as necessary;
+
+(e) the validity of the previous measuring results when a measuring instrument is found not to conform to requirements.
+
+## ANNEX III
+
+**Application forms**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX IV
+
+**Certification forms**
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX V
+
+**Report of the entity in charge of maintenance**
+
+1\. The entity in charge of maintenance shall issue a report, which covers a period starting 2 months before the last surveillance and ending 2 months before the next planned surveillance.
+
+2\. The report shall include at least:
+
+— explanations and justification on how non-conformities have been addressed or solved, or both;
+
+— information on the volume of maintenance carried out during the prevailing period;
+
+— the feedback on experience in applying the common safety methods related to the risk evaluation and assessment as adopted pursuant to point (a) of Article 6(1) of Directive (EU) 2016/798 and to the methods for monitoring to be applied by railway undertakings, infrastructure managers and entities in charge of maintenance as adopted pursuant to point (c) of Article 6(1) of that Directive;
+
+— changes related to:
+
+— legal ownership of the company;
+
+— organisation (procedures in place);
+
+— vehicles for which the entity is in charge of maintenance;
+
+— sites and contractors including processes and equipment;
+
+— the balance between internal and external activities related to the three maintenance functions (maintenance development, fleet maintenance and maintenance delivery);
+
+— contractual arrangements with users (including the keepers and the exchange of data);
+
+— the maintenance system;
+
+— defects and failures of components related to safety, referred to in Section II of Annex II, and relevant information about maintenance exchanged pursuant to Article 5(3);
+
+— internal audit reports;
+
+— the agency, national safety authorities and other authorities enforcement actions or investigations including claims in accordance with Articles 8 and 12 of this legal act;
+
+— competence management.
+
+3\. The entity in charge of maintenance shall add to the report all information it considers relevant for the certification body.
+
+4\. The entity in charge of maintenance shall address the report to the certification body 1 month before the next planned audit surveillance.
+
+( 1 ) Commission Regulation (EU) No 1302/2014 of 18 November 2014 concerning a technical specification for interoperability relating to ‘rolling stock – locomotives and passengers rolling stock’ subsystem of the rail system in the European Union (OJ L 356, 12.12.2014, p. 228).
+
+( 2 ) Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (OJ L 129, 25.5.2018, p. 26).
+
+( 3 ) Commission Decision 2007/756/EC of 9 November 2007 adopting a common specification of the national vehicle register provided for under Articles 14(4) and (5) of Directives 96/48/EC and 2001/16/EC (OJ L 305, 23.11.2007, p. 30).
+
+( 4 ) Commission Regulation (EU) No 1078/2012 of 16 November 2012 on a common safety method for monitoring to be applied by railway undertakings, infrastructure managers after receiving a safety certificate or safety authorisation and by entities in charge of maintenance (OJ L 320, 17.11.2012, p. 8).
+
+( 5 ) Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work (OJ L 183, 29.6.1989, p. 1).

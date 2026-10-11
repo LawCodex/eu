@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE 2008/12/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 76</td><td>39</td><td>19.3.2008</td></tr>
 <tr><td> M2</td><td> DIRECTIVE 2008/103/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 </td><td> L 327</td><td>7</td><td>5.12.2008</td></tr>
 <tr><td></td><td> DIRECTIVE 2013/56/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 November 2013 </td><td> L 329</td><td>5</td><td>10.12.2013</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2018/849 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>93</td><td>14.6.2018</td></tr>
+</table>
 
 **DIRECTIVE 2006/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -383,6 +385,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — MONITORING OF COMPLIANCE WITH THE ARTICLE 10 COLLECTION TARGETS
 
+<table>
 <tbody><tr><td>Year</td><td colspan="2">Data collection</td><td>Calculation</td><td>Reporting requirement</td></tr>
 <tr><td>X (*1)+1</td><td>Sales in year 1 (S1)</td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>X+2</td><td>Sales in year 2 (S2)</td><td>—</td><td>—</td><td>  </td></tr>
@@ -398,6 +401,7 @@ This Directive is addressed to the Member States.
 <tr><td>Etc.</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td colspan="5">(*1)  Year X is the year including the date mentioned in Article 26. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — SYMBOLS FOR BATTERIES, ACCUMULATORS AND BATTERY PACKS FOR SEPARATE COLLECTION
 

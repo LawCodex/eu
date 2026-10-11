@@ -1,0 +1,5077 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/1906 of 12 September 2025 granting a Union authorisation for the biocidal product family GA 24-50 BPF in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council"
+identifier: "32025R1906"
+eli: "http://data.europa.eu/eli/reg_impl/2025/1906/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-09-12
+entry_into_force: 2025-12-13
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1906"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/1906 of 12 September 2025 granting a Union authorisation for the biocidal product family GA 24-50 BPF in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/1906**
+
+**of 12 September 2025**
+
+**granting a Union authorisation for the biocidal product family ‘GA 24-50 BPF’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (1), and in particular Article 44(5), first subparagraph, thereof,
+
+Whereas:
+
+(1) On 20 September 2016, MC (Netherlands) 1 B.V. submitted an application to the European Chemicals Agency (‘the Agency’) in accordance with Article 43(1) of Regulation (EU) No 528/2012 for Union authorisation of a biocidal product family named ‘GA 24-50 BPF’ of product-types 6, 11 and 12, as described in Annex V to that Regulation, providing written confirmation that the competent authority of the Netherlands had agreed to evaluate the application. The application was recorded under case number BC-AE027041-75 in the Register for Biocidal Products.
+
+(2) ‘GA 24-50 BPF’ contains glutaraldehyde as the active substance, included in the Union list of approved active substances referred to in Article 9(2) of Regulation (EU) No 528/2012 for product-types 6, 11 and 12.
+
+(3) On 31 May 2022, the evaluating competent authority submitted, in accordance with Article 44(1) of Regulation (EU) No 528/2012, an assessment report and the conclusions of its evaluation to the Agency.
+
+(4) On 18 March 2025, the Agency submitted to the Commission its opinion (2), the draft summary of the biocidal product characteristics (‘SPC’) of ‘GA 24-50 BPF’ and the final assessment report on the biocidal product family, in accordance with Article 44(3) of Regulation (EU) No 528/2012.
+
+(5) The opinion concludes that ‘GA 24-50 BPF’ is a biocidal product family within the meaning of Article 3(1), point (s), of Regulation (EU) No 528/2012, that it is eligible for Union authorisation in accordance with Article 42(1) of that Regulation and that, subject to compliance with the draft SPC, it meets the conditions laid down in Article 19(6) of that Regulation.
+
+(6) The active substance glutaraldehyde meets the criteria for classification as a substance that can lead to respiratory sensitisation as defined in Section 3.4.1.1 of Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council (3). Therefore, that active substance meets the conditions for being considered a candidate for substitution in accordance with Article 10(1), point (b), of Regulation (EU) No 528/2012 and the evaluating competent authority performed a comparative assessment of the biocidal product family in accordance with Article 23(1) of that Regulation. In the comparative assessment no alternative could be identified as the chemical diversity was considered insufficient to substitute ‘GA 24-50 BPF’. Therefore, the biocidal product family should be authorised for a period not exceeding 5 years in accordance with Article 23(6) of Regulation (EU) No 528/2012.
+
+(7) On 11 April 2025, the Agency transmitted to the Commission the draft SPC in all the official languages of the Union in accordance with Article 44(4) of Regulation (EU) No 528/2012.
+
+(8) The Commission concurs with the opinion of the Agency and considers it therefore appropriate to grant a Union authorisation for the biocidal product family ‘GA 24-50 BPF’.
+
+(9) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Biocidal Products,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+A Union authorisation with authorisation number EU-0030162-0000 is hereby granted to MC (Netherlands) 1 B.V. for the making available on the market and use of the biocidal product family ‘GA 24-50 BPF’ in accordance with the summary of the biocidal product characteristics set out in the Annex.
+
+The Union authorisation is valid from 20 October 2025 until 30 September 2030.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 September 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 167, 27.6.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/528/oj.
+
+(2) Opinion of 27 February 2025 on the Union authorisation of the biocidal product family ‘GA 24-50 BPF’ (ECHA/BPC/465/2025), https://echa.europa.eu/opinions-on-union-authorisation.
+
+(3) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1, ELI: http://data.europa.eu/eli/reg/2008/1272/oj).
+
+## ANNEX — SUMMARY OF PRODUCT CHARACTERISTICS FOR A BIOCIDAL PRODUCT FAMILY
+
+GA 24-50 BPF
+
+Product type(s)
+
+PT06: Preservatives for products during storage
+
+PT11: Preservatives for liquid-cooling and processing systems
+
+PT12: Slimicides
+
+Authorisation number: EU-0030162-0000
+
+R4BP asset number: EU-0030162-0000
+
+**PART I**
+
+**FIRST INFORMATION LEVEL**
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+**1.1. Family name**
+
+| Name | GA 24-50 BPF |
+| --- | --- |
+
+**1.2. Product type(s)**
+
+| Product type(s) | PT06: Preservatives for products during storage PT11: Preservatives for liquid-cooling and processing systems PT12: Slimicides |
+| --- | --- |
+
+**1.3. Authorisation holder**
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>MC (Netherlands) 1 B.V.</td></tr>
+<tr><td>Address</td><td>Montrealweg 15 3197KH Botlek Rotterdam NL</td></tr>
+<tr><td>Authorisation number</td><td></td><td>EU-0030162-0000</td></tr>
+<tr><td>R4BP asset number</td><td></td><td>EU-0030162-0000</td></tr>
+<tr><td>Date of the authorisation</td><td></td><td>20 October 2025</td></tr>
+<tr><td>Expiry date of the authorisation</td><td></td><td>30 September 2030</td></tr>
+</tbody>
+</table>
+
+**1.4. Manufacturer(s) of the product**
+
+| Name of manufacturer | MC (US) 3 LLC |
+| --- | --- |
+| Address of manufacturer | Route 25 West Virginia 25112 Institute, United States (the) |
+| Location of manufacturing sites | MC (US) 3 LLC site 1 Route 25 West Virginia 25112 Institute, United States (the) |
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Microbial Control (Switzerland) GmbH</td></tr>
+<tr><td>Address of manufacturer</td><td>Wolleraustrasse 15-17 CH-8807 Freienbach, Switzerland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Microbial Control (Switzerland) GmbH site 1 Geslecht (Harbour 1931) 9130 Kallo, Belgium</td></tr>
+<tr><td>Microbial Control (Switzerland) GmbH site 2 Madoerastraat 10 3199 KR Maasvlakte, Rotterdam, Netherlands (the)</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**1.5. Manufacturer(s) of the active substance(s)**
+
+| Active substance | Glutaraldehyde |
+| --- | --- |
+| Name of manufacturer | MC (US) 3 LLC |
+| Address of manufacturer | Route 25 West Virginia 25112, Institute United States (the) |
+| Location of manufacturing sites | MC (US) 3 LLC site 1 Route 25 West Virginia 25112 Institute, United States (the) |
+
+**2\. PRODUCT FAMILY COMPOSITION AND FORMULATION**
+
+**2.1. Qualitative and quantitative information on the composition of the family**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Glutaraldehyde | 1,5-pentanedial | Active substance | 111-30-8 | 203-856-5 | 12,9 - 55,3 % (w/w) |
+
+**2.2. Type(s) of formulation**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**PART II.**
+
+**SECOND INFORMATION LEVEL META SPC(S)**
+
+**1\. META SPC 1 ADMINISTRATIVE INFORMATION**
+
+**1.1. Meta SPC 1 identifier**
+
+| Identifier | Meta SPC: meta SPC GA 50 |
+| --- | --- |
+
+**1.2. Suffix to the authorisation number**
+
+| Number | 1-1 |
+| --- | --- |
+
+**1.3. Product type(s)**
+
+| Product type(s) | PT06: Preservatives for products during storage PT11: Preservatives for liquid-cooling and processing systems PT12: Slimicides |
+| --- | --- |
+
+**2\. META SPC 1 COMPOSITION**
+
+**2.1. Qualitative and quantitative information on the composition of the meta SPC 1**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Glutaraldehyde | 1,5-pentanedial | Active substance | 111-30-8 | 203-856-5 | 48,5 - 55,3 % (w/w) |
+
+**2.2. Type(s) of formulation of the meta SPC 1**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 1**
+
+| Hazard statements | H301: Toxic if swallowed. H314: Causes severe skin burns and eye damage. H317: May cause an allergic skin reaction. H330: Fatal if inhaled. H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled. H410: Very toxic to aquatic life with long lasting effects. EUH071: Corrosive to the respiratory tract. |
+| --- | --- |
+| Precautionary statements | P260: Do not breathe spray. P271: Use only outdoors or in a well-ventilated area. P280: Wear protective gloves. P284: [In case of inadequate ventilation] wear respiratory protection. P273: Avoid release to the environment. P301+P310: IF SWALLOWED: Immediately call a POISON CENTER. P330: Rinse mouth. P303+P361+P353: IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower]. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P310: Immediately call a POISON CENTER. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P342+P311: If experiencing respiratory symptoms: Call a POISON CENTER. P391: Collect spillage. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P501: Dispose of contents to a hazardous waste disposal service in accordance with the statutory regulations. P501: Dispose of container to a hazardous waste disposal service in accordance with the statutory regulations. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+**4.1. Use description**
+
+**Table 1**
+
+**Short-term preservation of the industrial process, i.e. preservation during the production and/or storage of latexes (one week) and waterborne paints (three weeks) in the plant prior to final packaging**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Short-term efficacy to maintain plant hygiene and prevent intermediate production mixtures of latexes and water-borne paints from spoiling. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal products are stored either in a single large tank or in several tanks, and dosed into raw materials or intermediate mixtures during the production process.  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix for preventive use.  Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use. Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix for preventive use.  Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and short-term preservation up to three weeks for paints and one week for latexes. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 Imperial Gallon (IG) (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.1.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing, using automated or manual metering.
+
+Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix.
+
+Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix or system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+The product must not be added to paints and coatings which are applied by spraying.
+
+See also the general directions for use.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.2. Use description**
+
+**Table 2**
+
+**Preservation of washing and cleaning fluids**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of washing and cleaning fluids (i.e. hard surface cleaners (all-purpose cleaners), hand dish washing products, fabric softeners and laundry detergents). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate:<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+ Number and timing of application:  Once per production run of the product to preserve. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.2.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering.
+
+Dose:
+
+Bacteria: 0,3 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+Yeasts & Fungi: 0,2 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.2.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.3. Use description**
+
+**Table 3**
+
+**Preservation of pigment pastes/mineral slurries to colour a wide variety of products (e.g. textiles, inks, paints, paper)**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Pigment pastes and mineral slurries used to colour a wide variety of products (e.g. textiles (carpet fibres, carpet backing, canvas, cordage, drapes and shower curtains), inks, paints, paper). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Good mixing and uniform distribution of the biocidal product should be ensured using automated or manual metering. Pigment pastes are readily incorporated by low energy mixing equipment requiring no additional dispersion. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry for preventive use. 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry with a contact time of 2 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.3.1. Use-specific instructions for use**
+
+Dose the biocidal product to the pigment paste or mineral slurry at a point to ensure adequate mixing using automated or manual metering.
+
+Dose 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste or mineral slurry.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.3.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.4. Use description**
+
+**Table 4**
+
+**Preservation of additives for the production of paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of paper additives used in paper mills. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is automatically added by means of a dosing pump and dedicated feeding lines in the additives tank. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.4.1. Use-specific instructions for use**
+
+Dose the biocidal product to the paper additive at a point to ensure adequate mixing using automated or manual metering.
+
+For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.4.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.4.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.4.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.4.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.5. Use description**
+
+**Table 5**
+
+**Preservation of crude oil**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of crude oil with associated water in preparation for further processing. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Batch injection via dosing pump and dedicated feed lines in stored volume of fuels. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil for preventive use. 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil with a contact time of 24 hours for curative use.  Number and timing of application:  Once per week.  Glutaraldehyde provides immediate efficacy and short-term preservation up to one week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.5.1. Use-specific instructions for use**
+
+Crude tanks being treated should be at least 10% full before treatment. Do not dispense into empty crude tanks. When treating storage tanks, please note that effective treatment will only be achieved with efficient mixing. Ideally, the biocidal product should be dosed into a flowing crude oil stream in the storage tank inlet.
+
+Dose 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil.
+
+Dose level should be proportional to the risk and level of infection, and anticipated time before the next treatment or fluid discharge. Dosing system should be a closed system. Adequate agitation is required to ensure homogeneity throughout the fluid volume.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix (crude oil) to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.5.2. Use-specific risk mitigation measures**
+
+See general directions for use. Additionally:
+
+In case of direct release of the aqueous phase to the sewer the concentration shall not exceed 0,75 mg glutaraldehyde/L.
+
+**4.5.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.5.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+Associated water shall be disposed of according to all local and regional regulations.
+
+See general directions for use.
+
+**4.5.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.6. Use description**
+
+**Table 6**
+
+**Preservation of drilling fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids, (e.g., drill muds, cementing fluids, spacer fluids) used in the drilling of oil, gas and water wells. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Periodical injection directly into prepared drilling fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of drilling fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.6.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+Ensure that treated material is separated from other muds after use. Used drilling fluids must be injected directly into the formation, collected for reuse in a separate, closed container, or disposed of properly according to local, state, or federal requirements as described in the SDS. It is not allowed to discharge used drilling fluids overboard.
+
+**4.6.2. Use-specific risk mitigation measures**
+
+Preserved materials must be recycled or disposed of as solid waste.
+
+See also the general directions for use.
+
+**4.6.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.6.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.6.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.7. Use description**
+
+**Table 7**
+
+**Preservation of fracturing fluids during storage in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids used in the fracturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Injection directly into prepared fracturing fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid for preventive use. 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of fracturing fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.7.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.7.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.7.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.7.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.7.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.8. Use description**
+
+**Table 8**
+
+**Preservation of liquids used in closed re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Outdoor use  Liquid-closed re-circulating cooling/heating and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing into the cooling system. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 200 g glutaraldehyde per m3 of water.  Number and timing of application:  Bi- or tri- monthly according to the characteristics of the system and the stability of the biocidal product in the treated water. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.8.1. Use-specific instructions for use**
+
+It is recommended to mechanically cleanse dirty systems with fresh water before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level. When opening the system for servicing or maintenance, biocide can be added to reach the initial dosing concentrations.
+
+System monitor
+
+Control the level of biocide with a test kit at least every 3 months and prior to shut off period of the system. Control microbial contamination with dip slides or other appropriate techniques at least every 3 months.
+
+Particular attention should be addressed during the shut off period of the system where stagnant fluids are more susceptible to microbial contamination.
+
+Dose 25 to 200 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.8.2. Use-specific risk mitigation measures**
+
+Drain off preserved cooling fluids at least five days after the last addition of the biocidal product.
+
+See also the general directions for use.
+
+**4.8.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.8.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.8.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.9. Use description**
+
+**Table 9**
+
+**Preservation of liquids used in open re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: green algae  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Liquid-open re-circulating cooling and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: open system Detailed description:  Glutaraldehyde is automatically added in the water circuit, usually as upstream as possible, by means of injection by a dosing pump and dedicated feeding lines. A timer is used for intermittent dosage. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 50 g glutaraldehyde per m3 of water  Number and timing of application:  Typical dose: 1-2 days. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.9.1. Use-specific instructions for use**
+
+For control of microbial growth in industrial cooling water systems treated with a biocidal product by slug dosing.
+
+Not intended for use in once-through cooling systems.
+
+It is recommended to mechanically cleanse dirty systems before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level.
+
+Typical dose : 1-2 days. Each slug dose lasts 15-30 minutes, depending on the pump capacity and the volume of water in the circuit. Treatment shall not exceed 2 days.
+
+Dose 25 to 50 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.9.2. Use-specific risk mitigation measures**
+
+The use is restricted to small cooling systems with a maximum blowdown of 2 m3/h. Waste water must be discharged to the municipal sewer, purified in an on-site industrial sewage treatment plant including a biological treatment step, or directly to surface water via a settling pond that allows sufficient retention.
+
+**4.9.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.9.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.9.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.10. Use description**
+
+**Table 10**
+
+**Preservation of injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is dosed using automated pumps directly into the water stream, after mixing of production water and make-up water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of injection water with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of injection water.  Number and timing of application:  The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.10.1. Use-specific instructions for use**
+
+Glutaraldehyde should be dosed separately from other oil field chemistries such as antifoaming agents, oxygen scavengers, flocculants, or other oxidizing biocides (e.g. chlorite) in order to prevent cross reactivity. Successive addition may therefore be required to optimize performance. If a deaerator is being treated with oxidizing biocides, glutaraldehyde should be dosed downstream of the deaeration unit.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.10.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.10.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.10.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.10.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.11. Use description**
+
+**Table 11**
+
+**Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid with a contact time of 24 hours, depending on the water quality. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.11.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.11.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.11.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.11.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.11.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.12. Use description**
+
+**Table 12**
+
+**Preservation of water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Glutaraldehyde is typically applied in a mixing tank, as it cannot be exposed to open systems such as the hydraulic fracturing pond or other open water sources that make up the hydraulic fracturing pond water. Glutaraldehyde is applied to the mixing tank using automated pumps, together with other chemicals such as but not limited to friction reducers, gelling agents, proppants (sand in case of slick water), corrosion inhibitors. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of fracturing fluid.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.12.1. Use-specific instructions for use**
+
+Typically applied through a closed system to a mixing tank using a pump. Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.12.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.12.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth.
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.12.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.12.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.13. Use description**
+
+**Table 13**
+
+**Preservation of produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of produced water for recycling in the oil and gas extraction industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of produced water with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of produced water.  Number and timing of application:  Batch treatment: The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.13.1. Use-specific instructions for use**
+
+Dose for the preservation of produced water before re-use 50 to 1 000 g glutaraldehyde per m3 of produced water. This can be done batch wise or continuously.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.13.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.13.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.13.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.13.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.14. Use description**
+
+**Table 14**
+
+**Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by a pump and fixed pipes into the primary circuit, usually in the collection sump or in the headbox. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp. Wet-end maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application:  Initial dose (Wet end de-fouling treatment): 2-6 automatic slug (= shock) dose additions/day. Repeat 1 to 3 days until control is achieved.  Wet-end maintenance dose: 2-6 automatic slug dose additions/day, as necessary to maintain control. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.14.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 15-30 minutes.
+
+Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Wet-end maintenance dose: 100 g glutaraldehyde per ton of paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.14.2. Use-specific risk mitigation measures**
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. The effluent must be diluted at least 200 times. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.14.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.14.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.14.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.15. Use description**
+
+**Table 15**
+
+**Slimicide treatment in the de-inking process of the pulp and paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the de-inking process of the pulp and paper. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by pump and fixed pipes into the circuit, usually in the pulper. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp. Maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application:  Initial dose (de-fouling treatment): 1-2 automatic slug (= shock) dose additions/day. Repeat for 1 to 2 days until control is achieved.  Maintenance dose: 1-2 automatic slug dose additions/day, as necessary to maintain control. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.15.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 30 minutes.
+
+Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Maintenance dose: 100 g glutaraldehyde per ton paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.15.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.15.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.15.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.15.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.16. Use description**
+
+**Table 16**
+
+**Slimicide treatment in injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing directly into the water stream using pumps, after mixing of production water and make-up water and before injection of the water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 injection water.  Number and timing of application:  Batches may occur up to three times per week in severe cases, but typically occur once per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.16.1. Use-specific instructions for use**
+
+Injection water is often deaerated before being pumped into the sub-surface. Separation of chemical treatments should be considered when dosing glutaraldehyde, as it may interfere with other common chemistries such as anti-foams, oxygen scavengers, flocculants, and other oxidizing biocides (e.g. chlorite). Successive addition of different chemical packages may be necessary to prevent cross reactivity and to optimize performance. When a deaerator is present and treated with chlorite or a similar oxidizing chemistry, glutaraldehyde is typically dosed after the deaerator.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.16.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.16.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.16.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.16.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.17. Use description**
+
+**Table 17**
+
+**Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.17.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.17.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.17.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.17.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.17.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.18. Use description**
+
+**Table 18**
+
+**Slimicide treatment in water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using automated pumps directly into pipelines or prepared in a mixing tank before in-line application. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.18.1. Use-specific instructions for use**
+
+Glutaraldehyde is typically applied through a closed system to a mixing tank using a pump Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.18.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.18.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively
+
+impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.18.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.18.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.19. Use description**
+
+**Table 19**
+
+**Slimicide treatment in produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in produced water for recycling in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 produced water.  Number and timing of application:  Batch treatment: Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.19.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 produced water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.19.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water for recycling. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water for recycling containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.19.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.19.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.19.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 1**
+
+**5.1. Instructions for use**
+
+See use specific instructions for use.
+
+**5.2. Risk mitigation measures**
+
+Disconnecting the product container manually:
+
+The use of eye protection (chemical goggles) consistent with EN 166 or equivalent during handling of the product is mandatory.
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 40 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH3 (EN 12941 or equivalent)/TM3 (EN 12942 or equivalent )), or a full-face mask (EN 136 or equivalent) with particle filter P3 (EN 12083 or equivalent).
+
+During tank cleaning & maintenance:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 10 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH1 (EN 12941 or equivalent)/TM1 (EN 12942 or equivalent )), a half/quarter mask (EN 140 or equivalent) or a full-face mask (EN 136 or equivalent) with particle filter P2 (EN 12083 or equivalent) each or a filtering half mask (FFP2, EN 149 or equivalent).
+
+Draining, cleaning and maintenance of closed re-circulating system:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Loading/unloading slurry tanks:
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+The product must be poured using an automated dosing system.
+
+Ensure that application is carried out in well-ventilated areas.
+
+Use engineering controls to maintain airborne level below exposure limit requirements or guidelines.
+
+Use an approved air-purifying or positive-pressure supplied-air respirator depending on the potential airborne concentration.
+
+Regarding the personal protective equipment listed in this section, this is without prejudice to the application by employers of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+See section 6 for the full references to this act and the European Standards.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing.
+
+If symptoms: Immediately call 112/ambulance for medical assistance.
+
+IF SWALLOWED: If conscious, immediately rinse mouth. Give something to drink, if exposed person is able to swallow. Do NOT induce vomiting. Call 112/ambulance for medical assistance.
+
+IF ON SKIN: Immediately wash skin with plenty of water. Thereafter take off all contaminated clothing and wash it before reuse. Continue to wash the skin with water for 15 minutes. Call a POISON CENTRE or a doctor. If skin irritation or rash occur: Get medical advice.
+
+IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes. Call 112/ambulance for medical assistance.
+
+Information to Healthcare personnel/doctor:
+
+Immediately initiate life support measures, thereafter call a POISON CENTRE.
+
+Environmental precautions: Prevent from entering into soil, ditches, sewers, waterways and/or groundwater. Spills or discharge to natural waterways is likely to kill aquatic organisms.
+
+Personal precautions, protective equipment and emergency procedures in case of accidental release measures: Evacuate area. Keep upwind of spill. Ventilate area of leak or spill. Only trained and properly protected personnel must be involved in clean-up operations. Use appropriate safety equipment.
+
+Methods and materials for containment and cleaning up: Avoid making contact with spilled material, since glutaraldehyde will be absorbed by most shoes. When cleaning up a spill always wear the appropriate protective equipment, including respiratory protection, gloves, protective clothing and eye protection. A self-contained breathing apparatus or respirator and absorbents may be necessary, depending on the size of the spill and the adequacy of ventilation.
+
+Small spills: Wear the correct protective equipment including gloves and protective clothing and cover the liquid with absorbent material. Collect and seal the material and the dirt that has absorbed the spilled material in polyethylene bags and place in a drum for transit to an approved disposal site. Rinse away the remaining spilled material with water to reduce odour, and discharge the rinsate into a municipal or industrial sewer, not into a natural waterway.
+
+Large spills: In case of nasal and respiratory irritation, vacate the room immediately. Personnel cleaning up should be trained and equipped with a self-contained breathing apparatus, or an officially approved or certified full-face respirator equipped with an organic vapor cartridge, glove, and clothing impervious to glutaraldehyde, including rubber boots or shoe protection. Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+The biocidal product, when being disposed of in its unused and uncontaminated state should be treated as a hazardous waste according to EC Directive 2008/98/EC.
+
+Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site. If the concentration of glutaraldehyde is up to 2%, deactivate by the addition of aqueous sodium hydroxide solution in an amount sufficient to maintain a pH of 12 for 8 h, followed by neutralization (i.e. neutral pH) with the careful addition of an inorganic acid e.g. hydrochloric acid, before disposal by appropriate means. Any disposal practices must be in compliance with all national and provincial laws and any municipal or local by-laws governing hazardous waste. Do not dump into any sewers, on the ground, or into any body of water. Avoid release to the environment. High-temperature incineration is an acceptable practice glutaraldehyde burns cleanly to carbon dioxide and water.
+
+Containers used to store glutaraldehyde solutions are non refillable. Do not reuse or refill the containers. Containers should be triple or pressure rinsed with water promptly after they are emptied. They can then be offered for recycling or reconditioning for biocidal products, or they can be punctured and disposed of in a sanitary landfill or by other procedures approved by national and local authorities. Send waste liquid from rinsing of used containers to an approved waste handling facility.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Do not store in and avoid contact with aluminum, carbon steel, copper, mild steel, iron. Avoid contact with amines, ammonia, strong acids, strong bases, strong oxidizers.
+
+Store at temperatures &lt;40 °C
+
+Shelf life:
+
+meta SPC GA 50: 12 months in HDPE and stainless steel
+
+**6\. OTHER INFORMATION**
+
+The full titles of the EN standards referenced in the Risk mitigation measures are:
+
+EN ISO 374 – Protective gloves against dangerous chemicals and micro-organisms
+
+EN 166 – Eye protection against chemicals.
+
+EN 14605 – Protective clothing against liquid chemicals – Performance requirements for clothing with liquid-tight (Type 3) or spray-tight (Type 4) connections, including items providing protection to parts of the body only (Types PB [3] and PB [4]).
+
+EN 12941 - Respiratory protective devices - Powered filtering devices incorporating a loose fitting respiratory interface - Requirements, testing, marking
+
+EN 12942 – Respiratory protective devices - Powered filtering devices incorporating full face masks, half masks or quarter masks - Requirements, testing, marking
+
+EN 136 - Respiratory protective devices. Full face masks. Requirements, testing, marking
+
+EN 140 - Respiratory protective devices - Half masks and quarter masks - Requirements, testing, marking
+
+EN 149 - Respiratory protective devices - Filtering half masks to protect against particles - Requirements, testing, marking
+
+EN 12083 - Respiratory protective devices – Filters with breathing hoses, (Non-mask mounted filters) – Particle filters, gas filters, and combined filters – Requirements, testing, marking
+
+Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 131, 5.5.1998, p. 11).
+
+With respect to the “Category (ies) of users” note: “Professionals (including industrial users) means trained professionals if this is required by national legislation.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 1**
+
+**7.1. Trade name(s), authorisation number and specific composition of each individual product**
+
+<table>
+<tbody><tr><td colspan="3" rowspan="30">Trade name(s)</td><td colspan="2">BCID91150A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Isigard® GA 50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">AQUCAR(TM) GA 50 Water Treatment Microbiocide</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Preventol® GA 50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">UCARCIDE(TM) 50 Antimicrobial</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ACTICIDE® GDA 50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">aqualead® BC GA 50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bactron B1150</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bansan 500</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Beaumont C 412 TT-TC</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">BIOC11150A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SANIPOL® PG 50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Busan 1202</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Butrol 1202</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">CHIMEC 1020</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">FennoCide GL50</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">FennoSan GL10</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 50% B</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 50% B6</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 50 IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 50-A IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 50-B IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Kurita® F-4750</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">MB-5028</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">MB-544C</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Nalco EC6202A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">OS Glutabio</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">PROSOLV BI8815</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">PROSOLV BI8815DW</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SPECTRUS NX1165</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="2"></td><td colspan="3">EU-0030162-0001 1-1</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td colspan="2">Function</td><td colspan="2">CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Glutaraldehyde</td><td>1,5-pentanedial</td><td colspan="2">Active substance</td><td colspan="2">111-30-8</td><td>203-856-5</td><td>50,5 % (w/w)</td></tr>
+</tbody>
+</table>
+
+**1\. META SPC 2 ADMINISTRATIVE INFORMATION**
+
+**1.1. Meta SPC 2 identifier**
+
+| Identifier | Meta SPC: meta SPC GA 24 |
+| --- | --- |
+
+**1.2. Suffix to the authorisation number**
+
+| Number | 1-2 |
+| --- | --- |
+
+**1.3. Product type(s)**
+
+| Product type(s) | PT06: Preservatives for products during storage PT11: Preservatives for liquid-cooling and processing systems PT12: Slimicides |
+| --- | --- |
+
+**2\. META SPC 2 COMPOSITION**
+
+**2.1. Qualitative and quantitative information on the composition of the meta SPC 2**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Glutaraldehyde | 1,5-pentanedial | Active substance | 111-30-8 | 203-856-5 | 23,4 - 25,9 % (w/w) |
+
+**2.2. Type(s) of formulation of the meta SPC 2**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 2**
+
+| Hazard statements | H302: Harmful if swallowed. H314: Causes severe skin burns and eye damage. H317: May cause an allergic skin reaction. H331: Toxic if inhaled. H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled. H412: Harmful to aquatic life with long lasting effects. EUH071: Corrosive to the respiratory tract. |
+| --- | --- |
+| Precautionary statements | P260: Do not breathe spray. P271: Use only outdoors or in a well-ventilated area. P280: Wear protective gloves. P273: Avoid release to the environment. P284: [In case of inadequate ventilation] wear respiratory protection. P301+P310: IF SWALLOWED: Immediately call a POISON CENTER. P303+P361+P353: IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower]. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P310: Immediately call a POISON CENTER. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P342+P311: If experiencing respiratory symptoms: Call a POISON CENTER. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P501: Dispose of contents to a hazardous waste disposal service in accordance with the statutory regulations. P501: Dispose of container to a hazardous waste disposal service in accordance with the statutory regulations. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+**4.1. Use description**
+
+**Table 1**
+
+**Short-term preservation of the industrial process, i.e. preservation during the production and/or storage of latexes (one week) and waterborne paints (three weeks) in the plant prior to final packaging**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Short-term efficacy to maintain plant hygiene and prevent intermediate production mixtures of latexes and water-borne paints from spoiling. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal products are stored either in a single large tank or in several tanks, and dosed into raw materials or intermediate mixtures during the production process.  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix for preventive use. Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use. Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix for preventive use. Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and short-term preservation up to three weeks for paints and one week for latexes. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.1.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing, using automated or manual metering.
+
+Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix.
+
+Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+The product must not be added to paints and coatings which are applied by spraying.
+
+See also the general directions for use.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.2. Use description**
+
+**Table 2**
+
+**Preservation of washing and cleaning fluids**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of washing and cleaning fluids (i.e. hard surface cleaners (all-purpose cleaners), hand dish washing products, fabric softeners and laundry detergents). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate:<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+ Number and timing of application:  Once per production run of the product to preserve. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.2.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering.
+
+Dose:
+
+Bacteria: 0,3 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+Yeasts & Fungi: 0,2 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.2.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.3. Use description**
+
+**Table 3**
+
+**Preservation of pigment pastes/mineral slurries to colour a wide variety of products (e.g. textiles, inks, paints, paper)**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Pigment pastes and mineral slurries used to colour a wide variety of products (e.g. textiles (carpet fibres, carpet backing, canvas, cordage, drapes and shower curtains), inks, paints, paper). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Good mixing and uniform distribution of the biocidal product should be ensured using automated or manual metering. Pigment pastes are readily incorporated by low energy mixing equipment requiring no additional dispersion. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry for preventive use. 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry with a contact time of 2 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.3.1. Use-specific instructions for use**
+
+Dose the biocidal product to the pigment paste or mineral slurry at a point to ensure adequate mixing using automated or manual metering.
+
+Dose 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.3.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.4. Use description**
+
+**Table 4**
+
+**Preservation of additives for the production of paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of paper additives used in paper mills. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is automatically added by means of a dosing pump and dedicated feeding lines in the additives tank. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.4.1. Use-specific instructions for use**
+
+Dose the biocidal product to the paper additive at a point to ensure adequate mixing using automated or manual metering.
+
+For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.4.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.4.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.4.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.4.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.5. Use description**
+
+**Table 5**
+
+**Preservation of crude oil**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of crude oil with associated water in preparation for further processing. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Batch injection via dosing pump and dedicated feed lines in stored volume of fuels. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil for preventive use. 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil with a contact time of 24 hours for curative use.  Number and timing of application: <table><tbody><tr><td></td><td>Once per week.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Glutaraldehyde provides immediate efficacy and short-term preservation up to one week.</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.5.1. Use-specific instructions for use**
+
+Crude tanks being treated should be at least 10% full before treatment. Do not dispense into empty crude tanks. Use the biocidal product in accordance with local regulatory requirements, and do not exceed recommended dose levels. When treating storage tanks, please note that effective treatment will only be achieved with efficient mixing. Ideally, the biocidal product should be dosed into a flowing crude oil stream in the storage tank inlet.
+
+Other methods of application, such as dumping, will not affect the performance of the biocidal product, but might extend the treatment time required.
+
+Dose 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil.
+
+Dose level should be proportional to the risk and level of infection, and anticipated time before the next treatment or fluid discharge. Dosing system should be a closed system. Adequate agitation is required to ensure homogeneity throughout the fluid volume.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix (crude oil) to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.5.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+Additionally:
+
+In case of direct release of the aqueous phase to the sewer the concentration shall not exceed 0,75 mg glutaraldehyde/L.
+
+**4.5.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.5.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+Associated water should be disposed of according to all local and regional regulations.
+
+See general directions for use.
+
+**4.5.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.6. Use description**
+
+**Table 6**
+
+**Preservation of drilling fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids, (e.g., drill muds, cementing fluids, spacer fluids) used in the drilling of oil, gas and water wells. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Periodical injection directly into prepared drilling fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of drilling fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.6.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+Ensure that treated material is separated from other muds after use. Used drilling fluids must be injected directly into the formation, collected for reuse in a separate, closed container, or disposed of properly according to local, state, or federal requirements as described in the SDS. It is not allowed to discharge used drilling fluids overboard.
+
+**4.6.2. Use-specific risk mitigation measures**
+
+Preserved materials must be recycled or disposed of as solid waste.
+
+See general directions for use.
+
+**4.6.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.6.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.6.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.7. Use description**
+
+**Table 7**
+
+**Preservation of fracturing fluids during storage in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids used in the fracturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Injection directly into prepared fracturing fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid for preventive use. 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of fracturing fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.7.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.7.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.7.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.7.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.7.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.8. Use description**
+
+**Table 8**
+
+**Preservation of liquids used in closed re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Outdoor use  Liquid-closed re-circulating cooling/heating and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing into the cooling system. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 200 g glutaraldehyde per m3 of water.  Number and timing of application:  Bi- or tri- monthly according to the characteristics of the system and the stability of the biocidal product in the treated water. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.8.1. Use-specific instructions for use**
+
+It is recommended to mechanically cleanse dirty systems with fresh water before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level. When opening the system for servicing or maintenance, biocide can be added to reach the initial dosing concentrations.
+
+System monitor
+
+Control the level of biocide with a test kit at least every 3 months and prior to shut off period of the system. Control microbial contamination with dip slides or other appropriate techniques at least every 3 months
+
+Particular attention should be addressed during the shut off period of the system where stagnant fluids are more susceptible to microbial contamination.
+
+Dose 25 to 200 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.8.2. Use-specific risk mitigation measures**
+
+Drain off preserved cooling fluids at least five days after the last addition of the biocidal product.
+
+See also the general directions for use.
+
+**4.8.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.8.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.8.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.9. Use description**
+
+**Table 9**
+
+**Preservation of liquids used in open re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: green algae  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Liquid-open re-circulating cooling and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: open system Detailed description:  Glutaraldehyde is automatically added in the water circuit, usually as upstream as possible, by means of injection by a dosing pump and dedicated feeding lines. A timer is used for intermittent dosage. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 50 g glutaraldehyde per m3 of water  Number and timing of application:  Typical dose : 1-2 days </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.9.1. Use-specific instructions for use**
+
+For control of microbial growth in industrial cooling water systems treated with a biocidal product by slug dosing.
+
+Not intended for use in once-through cooling systems.
+
+It is recommended to mechanically cleanse dirty systems before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level.
+
+Typical dose : 1-2 days. Each slug dose lasts 15-30 minutes, depending on the pump capacity and the volume of water in the circuit. Treatment shall not exceed 2 days.
+
+Dose 25 to 50 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.9.2. Use-specific risk mitigation measures**
+
+The use is restricted to small cooling systems with a maximum blowdown of 2 m3/h. Waste water must be discharged to the municipal sewer, purified in an on-site industrial sewage treatment plant including a biological treatment step, or directly to surface water via a settling pond that allows sufficient retention.
+
+**4.9.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.9.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.9.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.10. Use description**
+
+**Table 10**
+
+**Preservation of injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is dosed using automated pumps directly into the water stream, after mixing of production water and make-up water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of injection water with a contact time of 24 hours. Anaerobic bacteria: preventive, use 150 to 1 000 g glutaraldehyde per m3 of injection water.  Number and timing of application:  The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.10.1. Use-specific instructions for use**
+
+Glutaraldehyde should be dosed separately from other oil field chemistries such as antifoaming agents, oxygen scavengers, flocculants, or other oxidizing biocides (e.g. chlorite) in order to prevent cross reactivity. Successive addition may therefore be required to optimize performance. If a deaerator is being treated with oxidizing biocides, glutaraldehyde should be dosed downstream of the deaeration unit.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.10.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.10.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.10.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.10.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.11. Use description**
+
+**Table 11**
+
+**Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid with a contact time of 24 hours, depending on the water quality. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.11.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.11.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.11.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.11.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.11.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.12. Use description**
+
+**Table 12**
+
+**Preservation of water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Glutaraldehyde is typically applied in a mixing tank, as it cannot be exposed to open systems such as the hydraulic fracturing pond or other open water sources that make up the hydraulic fracturing pond water. Glutaraldehyde is applied to the mixing tank using automated pumps, together with other chemicals such as but not limited to friction reducers, gelling agents, proppants (sand in case of slick water), corrosion inhibitors. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of fracturing fluid.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.12.1. Use-specific instructions for use**
+
+Typically applied through a closed system to a mixing tank using a pump. Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.12.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.12.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use. In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth.
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.12.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use. Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.12.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.13. Use description**
+
+**Table 13**
+
+**Preservation of produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of produced water for recycling in the oil and gas extraction industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of produced water with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of produced water.  Number and timing of application:  Batch treatment: The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.13.1. Use-specific instructions for use**
+
+Dose for the preservation of produced water before re-use 50 to 1 000 g glutaraldehyde per m3 of produced water. This can be done batch wise or continuously.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.13.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.13.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.13.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.13.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.14. Use description**
+
+**Table 14**
+
+**Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by a pump and fixed pipes into the primary circuit, usually in the collection sump or in the headbox. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp. Wet-end maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application: <table><tbody><tr><td></td><td>Initial dose (Wet end de-fouling treatment): 2-6 automatic slug (= shock) dose additions/day. Repeat 1 to 3 days until control is achieved.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Wet-end maintenance dose: 2-6 automatic slug dose additions/day, as necessary to maintain control.</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.14.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 15-30 minutes.
+
+Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Wet-end maintenance dose: 100 g glutaraldehyde per ton of paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.14.2. Use-specific risk mitigation measures**
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. The effluent must be diluted at least 200 times. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.14.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.14.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.14.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.15. Use description**
+
+**Table 15**
+
+**Slimicide treatment in the de-inking process of the pulp and paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the de-inking process of the pulp and paper. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by pump and fixed pipes into the circuit, usually in the pulper. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp. Maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application:  Initial dose (de-fouling treatment): 1-2 automatic slug (= shock) dose additions/day. Repeat for 1 to 2 days until control is achieved.  Maintenance dose: 1-2 automatic slug dose additions/day, as necessary to maintain control. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.15.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 30 minutes.
+
+Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Maintenance dose: 100 g glutaraldehyde per ton paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.15.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.15.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.15.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.15.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.16. Use description**
+
+**Table 16**
+
+**Slimicide treatment in injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing directly into the water stream using pumps, after mixing of production water and make-up water and before injection of the water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 injection water.  Number and timing of application:  Batches may occur up to three times per week in severe cases, but typically occur once per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.16.1. Use-specific instructions for use**
+
+Injection water is often deaerated before being pumped into the sub-surface. Separation of chemical treatments should be considered when dosing glutaraldehyde, as it may interfere with other common chemistries such as anti-foams, oxygen scavengers, flocculants, and other oxidizing biocides (e.g. chlorite). Successive addition of different chemical packages may be necessary to prevent cross reactivity and to optimize performance. When a deaerator is present and treated with chlorite or a similar oxidizing chemistry, glutaraldehyde is typically dosed after the deaerator.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.16.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.16.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.16.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.16.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.17. Use description**
+
+**Table 17**
+
+**Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.17.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.17.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.17.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.17.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.17.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.18. Use description**
+
+**Table 18**
+
+**Slimicide treatment in water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using automated pumps directly into pipelines or prepared in a mixing tank before in-line application. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.18.1. Use-specific instructions for use**
+
+Glutaraldehyde is typically applied through a closed system to a mixing tank using a pump Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.18.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.18.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively
+
+impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth.
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.18.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.18.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.19. Use description**
+
+**Table 19**
+
+**Slimicide treatment in produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in produced water for recycling in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 produced water.  Number and timing of application:  Batch treatment: Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.19.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 produced water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.19.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water for recycling. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water for recycling containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.19.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.19.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.19.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 2**
+
+**5.1. Instructions for use**
+
+See use specific instructions for use.
+
+**5.2. Risk mitigation measures**
+
+Disconnecting the product container manually:
+
+The use of eye protection (chemical goggles) consistent with EN 166 or equivalent during handling of the product is mandatory.
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 40 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH3 (EN 12941 or equivalent)/TM3 (EN 12942 or equivalent)), or a full-face mask (EN 136 or equivalent) with particle filter P3 (EN 12083 or equivalent).
+
+During tank cleaning & maintenance:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 10 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH1 (EN 12941 or equivalent)/TM1 (EN 12942 or equivalent)), a half/quarter mask (EN 140 or equivalent) or a full-face mask (EN 136 or equivalent) with particle filter P2 (EN 12083 or equivalent) each or a filtering half mask (FFP2, EN 149 or equivalent).
+
+Draining, cleaning and maintenance of closed re-circulating system:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Loading/unloading slurry tanks:
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+The product must be poured using an automated dosing system.
+
+Ensure that application is carried out in well-ventilated areas.
+
+Use engineering controls to maintain airborne level below exposure limit requirements or guidelines.
+
+Use an approved air-purifying or positive-pressure supplied-air respirator depending on the potential airborne concentration.
+
+Regarding the personal protective equipment listed in this section, this is without prejudice to the application by employers of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+See section 6 for the full references to this act and the European Standards.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing.
+
+If symptoms: Immediately call 112/ambulance for medical assistance.
+
+IF SWALLOWED: If conscious, immediately rinse mouth. Give something to drink, if exposed person is able to swallow. Do NOT induce vomiting. Call 112/ambulance for medical assistance.
+
+IF ON SKIN: Immediately wash skin with plenty of water. Thereafter take off all contaminated clothing and wash it before reuse. Continue to wash the skin with water for 15 minutes. Call a POISON CENTRE or a doctor. If skin irritation or rash occur: Get medical advice.
+
+IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes. Call 112/ambulance for medical assistance.
+
+Information to Healthcare personnel/doctor:
+
+Immediately initiate life support measures, thereafter call a POISON CENTRE.
+
+Environmental precautions: Prevent from entering into soil, ditches, sewers, waterways and/or groundwater. Spills or discharge to natural waterways is likely to kill aquatic organisms.
+
+Personal precautions, protective equipment and emergency procedures in case of accidental release measures: Evacuate area. Keep upwind of spill. Ventilate area of leak or spill. Only trained and properly protected personnel must be involved in clean-up operations. Use appropriate safety equipment.
+
+Methods and materials for containment and cleaning up: Avoid making contact with spilled material, since glutaraldehyde will be absorbed by most shoes. When cleaning up a spill always wear the appropriate protective equipment, including respiratory protection, gloves, protective clothing and eye protection. A self-contained breathing apparatus or respirator and absorbents may be necessary, depending on the size of the spill and the adequacy of ventilation.
+
+Small spills: Wear the correct protective equipment including gloves and protective clothing and cover the liquid with absorbent material. Collect and seal the material and the dirt that has absorbed the spilled material in polyethylene bags and place in a drum for transit to an approved disposal site. Rinse away the remaining spilled material with water to reduce odour, and discharge the rinsate into a municipal or industrial sewer, not into a natural waterway.
+
+Large spills: In case of nasal and respiratory irritation, vacate the room immediately. Personnel cleaning up should be trained and equipped with a self-contained breathing apparatus, or an officially approved or certified full-face respirator equipped with an organic vapor cartridge, glove, and clothing impervious to glutaraldehyde, including rubber boots or shoe protection. Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+The biocidal product, when being disposed of in its unused and uncontaminated state should be treated as a hazardous waste according to EC Directive 2008/98/EC.
+
+Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site. If the concentration of glutaraldehyde is up to 2%, deactivate by the addition of aqueous sodium hydroxide solution in an amount sufficient to maintain a pH of 12 for 8 h, followed by neutralization (i.e. neutral pH) with the careful addition of an inorganic acid e.g. hydrochloric acid, before disposal by appropriate means. Any disposal practices must be in compliance with all national and provincial laws and any municipal or local by-laws governing hazardous waste. Do not dump into any sewers, on the ground, or into any body of water. Avoid release to the environment. High-temperature incineration is an acceptable practice glutaraldehyde burns cleanly to carbon dioxide and water.
+
+Containers used to store glutaraldehyde solutions are non refillable. Do not reuse or refill the containers. Containers should be triple or pressure rinsed with water promptly after they are emptied. They can then be offered for recycling or reconditioning for biocidal products, or they can be punctured and disposed of in a sanitary landfill or by other procedures approved by national and local authorities. Send waste liquid from rinsing of used containers to an approved waste handling facility.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Do not store in and avoid contact with aluminum, carbon steel, copper, mild steel, iron. Avoid contact with amines, ammonia, strong acids, strong bases, strong oxidizers.
+
+Store at temperatures &lt;40 °C
+
+Shelf life:
+
+meta SPC GA 24: 24 months in HDPE and 12 months in stainless steel
+
+**6\. OTHER INFORMATION**
+
+The full titles of the EN standards referenced in the Risk mitigation measures are:
+
+EN ISO 374 – Protective gloves against dangerous chemicals and micro-organisms
+
+EN 166 – Eye protection against chemicals.
+
+EN 14605 – Protective clothing against liquid chemicals – Performance requirements for clothing with liquid-tight (Type 3) or spray-tight (Type 4) connections, including items providing protection to parts of the body only (Types PB [3] and PB [4]).
+
+EN 12941 - Respiratory protective devices - Powered filtering devices incorporating a loose fitting respiratory interface - Requirements, testing, marking
+
+EN 12942 – Respiratory protective devices - Powered filtering devices incorporating full face masks, half masks or quarter masks - Requirements, testing, marking
+
+EN 136 - Respiratory protective devices. Full face masks. Requirements, testing, marking
+
+EN 140 - Respiratory protective devices - Half masks and quarter masks - Requirements, testing, marking
+
+EN 149 - Respiratory protective devices - Filtering half masks to protect against particles - Requirements, testing, marking
+
+EN 12083 - Respiratory protective devices – Filters with breathing hoses, (Non-mask mounted filters) – Particle filters, gas filters, and combined filters – Requirements, testing, marking
+
+Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 131, 5.5.1998, p. 11).
+
+With respect to the “Category (ies) of users” note: “Professionals (including industrial users) means trained professionals if this is required by national legislation.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 2**
+
+**7.1. Trade name(s), authorisation number and specific composition of each individual product**
+
+<table>
+<tbody><tr><td colspan="3" rowspan="51">Trade name(s)</td><td colspan="2">BCID91125A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Isigard® GA 24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">AQUCAR(TM) GA 24 Water Treatment Microbiocide</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Preventol® GA 24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">UCARCIDE(TM) 24 Antimicrobial</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ACQ 814</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ACTICIDE® GDA 24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ALOSUC 867D</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">AQUACIDE 420 A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">aqualead® BC GA 24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bactron B1125</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bactron B1150</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bansan 240</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Beaumont C 412 TT-TE</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">BIOC11125A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">BIOC11150A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SANIPOL® PG 24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Bulab 6112</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Busan 1205</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Butrol 1205</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">CAT-3600</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">CHIMEC 1022</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Desalgin T 710</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Dilurit® 946 V</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Elbolit GDA</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">FB 228</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">FennoSan GL24</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Ferrocid® 8589</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 24% B</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 24% B6</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 24 IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 24-A IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 24-B IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GWC - BAC-434</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GWC-3600</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">HYDREX 7515</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">HYDROGAL 502</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Hydrogel KW 70 B</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">HYDROSAN</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ALOSUC 867D</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">MB-544</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Nalco EC6111E</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Nalco EC6202A</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Neudos MB 25</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">NovoCide 21</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">PROSOLV BI8814</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SPECTRUS NX1461</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Warosit 247</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Warostat 3247</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">XC80102</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">ZEP - NO FUNGI 527</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="2"></td><td colspan="3">EU-0030162-0002 1-2</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td colspan="2">Function</td><td colspan="2">CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Glutaraldehyde</td><td>1,5-pentanedial</td><td colspan="2">Active substance</td><td colspan="2">111-30-8</td><td>203-856-5</td><td>24,2 % (w/w)</td></tr>
+</tbody>
+</table>
+
+**1\. META SPC 3 ADMINISTRATIVE INFORMATION**
+
+**1.1. Meta SPC 3 identifier**
+
+| Identifier | Meta SPC: meta SPC GA 13.5 |
+| --- | --- |
+
+**1.2. Suffix to the authorisation number**
+
+| Number | 1-3 |
+| --- | --- |
+
+**1.3. Product type(s)**
+
+| Product type(s) | PT06: Preservatives for products during storage PT11: Preservatives for liquid-cooling and processing systems PT12: Slimicides |
+| --- | --- |
+
+**2\. META SPC 3 COMPOSITION**
+
+**2.1. Qualitative and quantitative information on the composition of the meta SPC 3**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Glutaraldehyde | 1,5-pentanedial | Active substance | 111-30-8 | 203-856-5 | 12,9 - 14,6 % (w/w) |
+
+**2.2. Type(s) of formulation of the meta SPC 3**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 3**
+
+| Hazard statements | H302: Harmful if swallowed. H314: Causes severe skin burns and eye damage. H317: May cause an allergic skin reaction. H332: Harmful if inhaled. H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled. H412: Harmful to aquatic life with long lasting effects. EUH071: Corrosive to the respiratory tract. |
+| --- | --- |
+| Precautionary statements | P260: Do not breathe spray. P271: Use only outdoors or in a well-ventilated area. P280: Wear protective gloves. P273: Avoid release to the environment. P284: [In case of inadequate ventilation] wear respiratory protection. P301+P310: IF SWALLOWED: Immediately call a POISON CENTER. P303+P361+P353: IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower]. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P310: Immediately call a POISON CENTER. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P342+P311: If experiencing respiratory symptoms: Call a POISON CENTER. P501: Dispose of contents to a hazardous waste disposal service in accordance with the statutory regulations. P501: Dispose of container to a hazardous waste disposal service in accordance with the statutory regulations. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+**4.1. Use description**
+
+**Table 1**
+
+**Short-term preservation of the industrial process, i.e. preservation during the production and/or storage of latexes (one week) and waterborne paints (three weeks) in the plant prior to final packaging**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Short-term efficacy to maintain plant hygiene and prevent intermediate production mixtures of latexes and water-borne paints from spoiling. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal products are stored either in a single large tank or in several tanks, and dosed into raw materials or intermediate mixtures during the production process.  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix for preventive use. Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use. Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix for preventive use. Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix with a contact time of 7 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and short-term preservation up to three weeks for paints and one week for latexes. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.1.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing, using automated or manual metering.
+
+Paints: 0,1 to 0,95 g glutaraldehyde per kg of matrix.
+
+Latexes: 0,1 to 0,6 g glutaraldehyde per kg of matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+The product must not be added to paints and coatings which are applied by spraying.
+
+See also the general directions for use.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.2. Use description**
+
+**Table 2**
+
+**Preservation of washing and cleaning fluids.**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of washing and cleaning fluids (i.e. hard surface cleaners (all-purpose cleaners), hand dish washing products, fabric softeners and laundry detergents). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate:<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product for preventive use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,3 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against bacteria.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>0,2 to 0,95 g glutaraldehyde per 1 kg of the final product with a contact time of 7 days for curative use against yeasts and fungi.</td></tr>
+</tbody>
+</table>
+ Number and timing of application:  Once per production run of the product to preserve. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.2.1. Use-specific instructions for use**
+
+Dose the biocidal product to the end use fluid at a point to ensure adequate mixing using automated or manual metering.
+
+Dose:
+
+Bacteria: 0,3 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+Yeasts & Fungi: 0,2 to 0,95 g glutaraldehyde per 1 kg of the final product.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.2.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.3. Use description**
+
+**Table 3**
+
+**Preservation of pigment pastes/mineral slurries to colour a wide variety of products (e.g. textiles, inks, paints, paper)**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Pigment pastes and mineral slurries used to colour a wide variety of products (e.g. textiles (carpet fibres, carpet backing, canvas, cordage, drapes and shower curtains), inks, paints, paper). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Good mixing and uniform distribution of the biocidal product should be ensured using automated or manual metering. Pigment pastes are readily incorporated by low energy mixing equipment requiring no additional dispersion. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry for preventive use. 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry with a contact time of 2 days for curative use.  Number and timing of application: <table><tbody><tr><td></td><td>Once per production run of the product to preserve.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks.</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.3.1. Use-specific instructions for use**
+
+Dose the biocidal product to the pigment paste or mineral slurry at a point to ensure adequate mixing using automated or manual metering.
+
+Dose 0,25 to 0,5 g glutaraldehyde per kg of the pigment paste/mineral slurry.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.3.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.4. Use description**
+
+**Table 4**
+
+**Preservation of additives for the production of paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Preservation of paper additives used in paper mills. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is automatically added by means of a dosing pump and dedicated feeding lines in the additives tank. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive for preventive use. For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use. For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive with a contact time of 2 days for curative use.  Number and timing of application:  Once per production run of the product to preserve.  Glutaraldehyde provides immediate efficacy and prevents re-growth for a period up to 3 weeks. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.4.1. Use-specific instructions for use**
+
+Dose the biocidal product to the paper additive at a point to ensure adequate mixing using automated or manual metering.
+
+For bacteria, 0,1 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+For yeasts and fungi, 0,25 to 0,5 g glutaraldehyde per kg of the paper additive.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.4.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.4.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.4.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.4.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.5. Use description**
+
+**Table 5**
+
+**Preservation of crude oil**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of crude oil with associated water in preparation for further processing. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Batch injection via dosing pump and dedicated feed lines in stored volume of fuels. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil for preventive use. 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil with a contact time of 24 hours for curative use.  Number and timing of application:  Once per week.  Glutaraldehyde provides immediate efficacy and short-term preservation up to one week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.5.1. Use-specific instructions for use**
+
+Crude tanks being treated should be at least 10% full before treatment. Do not dispense into empty crude tanks. When treating storage tanks, please note that effective treatment will only be achieved with efficient mixing. Ideally, the biocidal product should be dosed into a flowing crude oil stream in the storage tank inlet.
+
+Dose 0,025 to 0,4 g glutaraldehyde per liter of water content in crude oil.
+
+Dose level should be proportional to the risk and level of infection, and anticipated time before the next treatment or fluid discharge. Dosing system should be a closed system. Adequate agitation is required to ensure homogeneity throughout the fluid volume.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix (crude oil) to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.5.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+Additionally: In case of direct release of the aqueous phase to the sewer the concentration shall not exceed 0,75 mg glutaraldehyde/L.
+
+**4.5.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.5.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+Associated water should be disposed of according to all local and regional regulations.
+
+See general directions for use.
+
+**4.5.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.6. Use description**
+
+**Table 6**
+
+**Preservation of drilling fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids, (e.g., drill muds, cementing fluids, spacer fluids) used in the drilling of oil, gas and water wells. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Periodical injection directly into prepared drilling fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of drilling fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.6.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of drilling fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+Ensure that treated material is separated from other muds after use. Used drilling fluids must be injected directly into the formation, collected for reuse in a separate, closed container, or disposed of properly according to local, state, or federal requirements as described in the SDS. It is not allowed to discharge used drilling fluids overboard.
+
+**4.6.2. Use-specific risk mitigation measures**
+
+Preserved materials must be recycled or disposed of as solid waste.
+
+See also the general directions for use.
+
+**4.6.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.6.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.6.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.7. Use description**
+
+**Table 7**
+
+**Preservation of fracturing fluids during storage in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT06: Preservatives for products during storage</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of fluids used in the fracturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Injection directly into prepared fracturing fluids. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid for preventive use. 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid with a contact time of 1 hour for curative use.  Number and timing of application:  Treatment is required when there is evidence, or a very high likelihood, of microbial degradation of fracturing fluids. Treatment can be repeated as often as required, based on monitoring of microbial populations and biocide concentration. Resurgent and robust microbial populations should be treated at most 3 times per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.7.1. Use-specific instructions for use**
+
+Dose 0,25 to 0,5 g glutaraldehyde per liter of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.7.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+**4.7.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.7.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.7.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.8. Use description**
+
+**Table 8**
+
+**Preservation of liquids used in closed re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Outdoor use  Liquid-closed re-circulating cooling/heating and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing into the cooling system. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 200 g glutaraldehyde per m3 of water.  Number and timing of application:  Bi- or tri- monthly according to the characteristics of the system and the stability of the biocidal product in the treated water. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.8.1. Use-specific instructions for use**
+
+It is recommended to mechanically cleanse dirty systems with fresh water before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level. When opening the system for servicing or maintenance, biocide can be added to reach the initial dosing concentrations.
+
+System monitor
+
+Control the level of biocide with a test kit at least every 3 months and prior to shut off period of the system. Control microbial contamination with dip slides or other appropriate techniques at least every 3 months
+
+Particular attention should be addressed during the shut off period of the system where stagnant fluids are more susceptible to microbial contamination.
+
+Dose 25 to 200 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.8.2. Use-specific risk mitigation measures**
+
+Drain off preserved cooling fluids at least five days after the last addition of the biocidal product.
+
+See also the general directions for use.
+
+**4.8.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.8.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.8.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.9. Use description**
+
+**Table 9**
+
+**Preservation of liquids used in open re-circulating cooling systems**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: green algae  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Liquid-open re-circulating cooling and processing systems. </td></tr>
+<tr><td>Application method(s)</td><td>Method: open system Detailed description:  Glutaraldehyde is automatically added in the water circuit, usually as upstream as possible, by means of injection by a dosing pump and dedicated feeding lines. A timer is used for intermittent dosage. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 25 to 50 g glutaraldehyde per m3 of water  Number and timing of application:  Typical dose: 1-2 days </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.9.1. Use-specific instructions for use**
+
+For control of microbial growth in industrial cooling water systems treated with a biocidal product by slug dosing.
+
+Not intended for use in once-through cooling systems. Most cooling towers work continuously over the whole year. The evaporation rate increases in summer when the air is warm but the temperature of the water remains suitable for the micro-organisms all over the year because it is warmed up by the industrial process that generates an excess of heat.
+
+It is recommended to mechanically cleanse dirty systems before starting the treatment with the biocidal product.
+
+Dose in a well-mixed point of the circuit, below the water level.
+
+Typical dose: 1-2 days. Each slug dose lasts 15-30 minutes, depending on the pump capacity and the volume of water in the circuit. Treatment should not exceed 2 days.
+
+Dose 25 to 50 g glutaraldehyde per m3 of water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.9.2. Use-specific risk mitigation measures**
+
+The use is restricted to small cooling systems with a maximum blowdown of 2 m3/h. Waste water must be discharged to the municipal sewer, purified in an on-site industrial sewage treatment plant including a biological treatment step, or directly to surface water via a settling pond that allows sufficient retention.
+
+**4.9.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.9.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.9.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.10. Use description**
+
+**Table 10**
+
+**Preservation of injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  The biocidal product is dosed using automated pumps directly into the water stream, after mixing of production water and make-up water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of injection water with a contact time of 24 hours. Anaerobic bacteria: preventive, use 150 to 1 000 g glutaraldehyde per m3 of injection water.  Number and timing of application:  The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.10.1. Use-specific instructions for use**
+
+Glutaraldehyde should be dosed separately from other oil field chemistries such as antifoaming agents, oxygen scavengers, flocculants, or other oxidizing biocides (e.g. chlorite) in order to prevent cross reactivity. Successive addition may therefore be required to optimize performance. If a deaerator is being treated with oxidizing biocides, glutaraldehyde should be dosed downstream of the deaeration unit.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.10.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.10.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.10.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.10.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.11. Use description**
+
+**Table 11**
+
+**Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid with a contact time of 24 hours, depending on the water quality. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.11.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.11.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.11.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.11.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.11.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.12. Use description**
+
+**Table 12**
+
+**Preservation of water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Glutaraldehyde is typically applied in a mixing tank, as it cannot be exposed to open systems such as the hydraulic fracturing pond or other open water sources that make up the hydraulic fracturing pond water.Glutaraldehyde is applied to the mixing tank using automated pumps, together with other chemicals such as but not limited to friction reducers, gelling agents, proppants (sand in case of slick water), corrosion inhibitors. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of fracturing fluid.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.12.1. Use-specific instructions for use**
+
+Typically applied through a closed system to a mixing tank using a pump. Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of fracturing fluid.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.12.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.12.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use. In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth/
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.12.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use. Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.12.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.13. Use description**
+
+**Table 13**
+
+**Preservation of produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT11: Preservatives for liquid-cooling and processing systems</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Preservation of produced water for recycling in the oil and gas extraction industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Bacteria: curative use, 50 to 1 000 g glutaraldehyde per m3 of produced water with a contact time of 24 hours. Anaerobic bacteria: preventive use, 150 to 1 000 g glutaraldehyde per m3 of produced water.  Number and timing of application:  Batch treatment: The biocidal product is typically dosed in a weekly batch fashion, ranging from one to five hours per dose. Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.13.1. Use-specific instructions for use**
+
+Dose for the preservation of produced water before re-use 50 to 1 000 g glutaraldehyde per m3 of produced water. This can be done batch wise or continuously.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.13.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.13.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.13.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.13.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.14. Use description**
+
+**Table 14**
+
+**Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the wet-end stage of the pulp and paper manufacturing process. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by a pump and fixed pipes into the primary circuit, usually in the collection sump or in the headbox. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp. Wet-end maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application:  Initial dose (Wet end de-fouling treatment): 2-6 automatic slug (= shock) dose additions/day. Repeat 1 to 3 days until control is achieved.  Wet-end maintenance dose: 2-6 automatic slug dose additions/day, as necessary to maintain control. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.14.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 15-30 minutes.
+
+Initial dose (wet-end defouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Wet-end maintenance dose: 100 g glutaraldehyde per ton of paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.14.2. Use-specific risk mitigation measures**
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. The effluent must be diluted at least 200 times. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.14.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.14.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.14.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.15. Use description**
+
+**Table 15**
+
+**Slimicide treatment in the de-inking process of the pulp and paper**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data  Scientific name: no data  Common name: yeasts  Development stage: no data  Scientific name: no data  Common name: fungi  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Indoor use Slimicide treatment in the de-inking process of the pulp and paper. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Automatic dosing by pump and fixed pipes into the circuit, usually in the pulper. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp. Maintenance dose: 100 g glutaraldehyde per ton paper pulp.  Number and timing of application:  Initial dose (de-fouling treatment): 1-2 automatic slug (= shock) dose additions/day. Repeat for 1 to 2 days until control is achieved.  Maintenance dose: 1-2 automatic slug dose additions/day, as necessary to maintain control. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.15.1. Use-specific instructions for use**
+
+Dose in a well-mixed point of the primary circuit, below the water level. Heavily fouled systems should be boiled out prior to initial treatment.
+
+Each slug dose lasts 30 minutes.
+
+Initial dose (de-fouling treatment): 250 g glutaraldehyde per ton paper pulp.
+
+Maintenance dose: 100 g glutaraldehyde per ton paper pulp.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.15.2. Use-specific risk mitigation measures**
+
+See general directions for use.
+
+Application is only allowed in paper factories that comply with the Industrial Emission Directive 2010/75/EU where wastewater is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance to the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board. Paper factories that are exempted from the Industrial Emission Directive must discharge to the municipal sewer.
+
+**4.15.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.15.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.15.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.16. Use description**
+
+**Table 16**
+
+**Slimicide treatment in injection water in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in injection water in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing directly into the water stream using pumps, after mixing of production water and make-up water and before injection of the water into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 injection water.  Number and timing of application:  Batches may occur up to three times per week in severe cases, but typically occur once per week. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.16.1. Use-specific instructions for use**
+
+Injection water is often deaerated before being pumped into the sub-surface. Separation of chemical treatments should be considered when dosing glutaraldehyde, as it may interfere with other common chemistries such as anti-foams, oxygen scavengers, flocculants, and other oxidizing biocides (e.g. chlorite). Successive addition of different chemical packages may be necessary to prevent cross reactivity and to optimize performance. When a deaerator is present and treated with chlorite or a similar oxidizing chemistry, glutaraldehyde is typically dosed after the deaerator.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 injection water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.16.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.16.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.16.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.16.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.17. Use description**
+
+**Table 17**
+
+**Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in hydro-testing fluids and mothballing fluids in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Continuous injection into the water stream during the pipeline filling operation using chemical injection skids equipped with injection pumps. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.  Number and timing of application:  There is no additional biocide injection into the hydro-testing fluid once the filling operation is completed. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.17.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 of hydro-testing fluid or mothballing fluid, depending on the water quality and required residence time within the equipment.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.17.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the hydrotesting and mothballing fluids. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Hydrotest and mothballing water containing up to 750 mg/L glutaraldehyde after the pressure test can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.17.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.17.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.17.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.18. Use description**
+
+**Table 18**
+
+**Slimicide treatment in water-based fracturing fluids for the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in water-based fracturing fluids for the oil and gas industry (i.e. shale gas extraction, wet shale extraction, shale oil extraction, production from tight gas reservoirs, production of coal bed methane and fracturing in conventional reservoirs). </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using automated pumps directly into pipelines or prepared in a mixing tank before in-line application. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.  Number and timing of application:  In the hydraulic fracturing industry the application of the biocidal product is typically a single injection, which happens during the actual fracturing. A new biocide addition is only done when the well is re-fractured. Refracturing is rare but can be performed up to 20 times during the lifetime of a well. The lifetime of a well can reach up to 20 years. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.18.1. Use-specific instructions for use**
+
+Glutaraldehyde is typically applied through a closed system to a mixing tank using a pump Glutaraldehyde may be used in combination with other chemistries such as friction reducers, gelling agents, proppants, and corrosion inhibitors, and applied together with these chemistries in the mixing tank(s). If used for intermittent treatments during operations, a stream of glutaraldehyde will be directly dosed into the process water stream from a separate tank into a closed system, thereby significantly reducing the chance of exposure.
+
+Dose 50 to 1 000 g glutaraldehyde per m3 fracturing fluid, in the hydraulic fracturing water matrix.
+
+The dose strongly depends on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.18.2. Use-specific risk mitigation measures**
+
+Preserved fracturing fluids are reused where applicable. If discharged into seawater 0,2 mg glutaraldehyde/L fracturing fluid must not be exceeded. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.18.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use. In addition:
+
+Conditions preventing emissions to water:
+
+Emissions to surface water are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be drained to a lined storage area, preventing release to surface water. Sub-surface releases of fluid during the fracturing process are prevented from reaching aquifers through the presence of relatively
+
+impermeable formations above the target formation. This limits upward migration of fluid. This is also relevant for recovered fluids that are re-injected for use or disposal. A minimum vertical separation distance between the target formation and aquifer should be respected. National legislation may also require a minimum depth
+
+Recovered water may finally be discharged via one or more large-scale waste water treatment plants where a combination of physical and biological treatments will reduce emissions to the receiving water.
+
+Conditions preventing emissions to soil:
+
+Emissions, through downward migration are prevented through the design of the installation. By way of example spills, leaks and cleaning solutions may be prevented from downward migration to soil by the employment of a non-permeable membrane below the well pad. Sludge from treatment works should not be spread on land.
+
+Existence of standard municipal sewage treatment plant
+
+Waste contractors employed to dispose of recovered water, may do so via a waste water treatment plant, depending on the properties of the water and conditions of local regulations.
+
+**4.18.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use. Additional:
+
+Contaminated water arising from cleaning will be collected and removed for disposal according to EU and local regulations and conditions.
+
+Waste product remaining in containers after use will be returned, in the containers, to the supplier for cleaning/refilling.
+
+Waste sludge from treatment works will be handled as industrial waste and not spread on land.
+
+**4.18.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**4.19. Use description**
+
+**Table 19**
+
+**Slimicide treatment in produced water for recycling in the oil and gas industry**
+
+<table>
+<tbody><tr><td>Product type</td><td>PT12: Slimicides</td></tr>
+<tr><td>Where relevant, an exact description of the authorised use</td><td>Not relevant.</td></tr>
+<tr><td>Target organism(s) (including development stage)</td><td>Scientific name: no data Common name: bacteria  Development stage: no data </td></tr>
+<tr><td>Field(s) of use</td><td>Outdoor use Slimicide treatment in produced water for recycling in the oil and gas industry. </td></tr>
+<tr><td>Application method(s)</td><td>Method: closed system Detailed description:  Dosing using pumps directly into the water stream before being mixed with fresh injection water and pumped into the petroleum reservoir. </td></tr>
+<tr><td>Application rate(s) and frequency</td><td>Application Rate: 50 to 1 000 g glutaraldehyde per m3 produced water.  Number and timing of application:  Batch treatment: Batches may occur up to three times per week in severe cases, but typically occur once per week.  Continuous treatment: biocide is supplied in a continuous fashion during operations. </td></tr>
+<tr><td>Category(ies) of users</td><td>Industrial Trained professional </td></tr>
+<tr><td>Pack sizes and packaging material</td><td><table><tbody><tr><td>—</td><td>Pails: 25L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drums: 220L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>IBC (intermediate bulk container): 1 000 L nominal, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk tank truck: 28 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bulk ISO tank: 20 MT max. gross weight, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable drums: 200L, material of construction is high density polyethylene.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable semi-bulk containers: 1 000 L, material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 500 IG (2 273 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Offshore-suitable containers: 1 000 IG (4 546 L), material of construction is stainless steel.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**4.19.1. Use-specific instructions for use**
+
+Dose 50 to 1 000 g glutaraldehyde per m3 produced water.
+
+The dose and frequency strongly depend on the formulation and intended use of the matrix to which the preservative is added. Therefore, the user shall determine dosage requirements for their specific matrix/system to be preserved. The lowest effective dose shall be used. If needed, consult the authorisation holder of the preservative product.
+
+**4.19.2. Use-specific risk mitigation measures**
+
+If discharged into seawater 0,2 mg/L glutaraldehyde must not be exceeded in the produced water for recycling. This concentration can be achieved either by slow release and/or long retention times resulting in degradation of glutaraldehyde and/or by dilution and/or by addition of sodium bisulphite at pH 5 (release after at least 20 minutes) or addition of sodium hydroxide to pH 12 (release after at least 10-16 hours) as degradation aids. Produced water for recycling containing up to 750 mg/L glutaraldehyde can be used for re-injection. Run lab test to determine the soiling dependent dosage and degradation rate in use.
+
+When applied onshore, preserved fluids must be recycled or disposed of as hazardous waste. If release to the sewer is unavoidable, the concentration shall not exceed 1 mg glutaraldehyde/L.
+
+**4.19.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See general directions for use.
+
+**4.19.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See general directions for use.
+
+**4.19.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 3**
+
+**5.1. Instructions for use**
+
+See use specific instructions for use.
+
+**5.2. Risk mitigation measures**
+
+Disconnecting the product container manually:
+
+The use of eye protection (chemical goggles) consistent with EN 166 or equivalent during handling of the product is mandatory.
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 40 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH3 (EN 12941or equivalent)/TM3 (EN 12942 or equivalent)), or a full-face mask (EN 136 or equivalent) with particle filter P3 (EN 12083 or equivalent).
+
+During tank cleaning & maintenance:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Use of respiratory protective equipment (RPE) providing a protection factor of 10 is mandatory. Providing at least a powered air purifying respirator with helmet/hood/mask (TH1 (EN 12941 or equivalent)/TM1 (EN 12942 or equivalent)), a half/quarter mask (EN 140 or equivalent) or a full-face mask (EN 136 or equivalent) with particle filter P2 (EN 12083 or equivalent) each or a filtering half mask (FFP2, EN 149 or equivalent).
+
+Draining, cleaning and maintenance of closed re-circulating system:
+
+Wear a protective coverall [type 3or type 4] consistent with EN 14605 or equivalent.
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+Loading/unloading slurry tanks:
+
+Wear protective chemical resistant gloves meeting the requirements of European Standard EN 374 or equivalent during product handling phase (glove material to be specified by the authorisation holder within the product information).
+
+The product must be poured using an automated dosing system.
+
+Ensure that application is carried out in well-ventilated areas.
+
+Use engineering controls to maintain airborne level below exposure limit requirements or guidelines.
+
+Use an approved air-purifying or positive-pressure supplied-air respirator depending on the potential airborne concentration.
+
+Regarding the personal protective equipment listed in this section, this is without prejudice to the application by employers of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+See section 6 for the full references to this act and the European Standards.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing.
+
+If symptoms: Immediately call 112/ambulance for medical assistance.
+
+IF SWALLOWED: If conscious, immediately rinse mouth. Give something to drink, if exposed person is able to swallow. Do NOT induce vomiting. Call 112/ambulance for medical assistance.
+
+IF ON SKIN: Immediately wash skin with plenty of water. Thereafter take off all contaminated clothing and wash it before reuse. Continue to wash the skin with water for 15 minutes. Call a POISON CENTRE or a doctor. If skin irritation or rash occur: Get medical advice.
+
+IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes. Call 112/ambulance for medical assistance.
+
+Information to Healthcare personnel/doctor:
+
+Immediately initiate life support measures, thereafter call a POISON CENTRE.
+
+Environmental precautions: Prevent from entering into soil, ditches, sewers, waterways and/or groundwater. Spills or discharge to natural waterways is likely to kill aquatic organisms.
+
+Personal precautions, protective equipment and emergency procedures in case of accidental release measures: Evacuate area. Keep upwind of spill. Ventilate area of leak or spill. Only trained and properly protected personnel must be involved in clean-up operations. Use appropriate safety equipment.
+
+Methods and materials for containment and cleaning up: Avoid making contact with spilled material, since glutaraldehyde will be absorbed by most shoes. When cleaning up a spill always wear the appropriate protective equipment, including respiratory protection, gloves, protective clothing and eye protection. A self-contained breathing apparatus or respirator and absorbents may be necessary, depending on the size of the spill and the adequacy of ventilation.
+
+Small spills: Wear the correct protective equipment including gloves and protective clothing and cover the liquid with absorbent material. Collect and seal the material and the dirt that has absorbed the spilled material in polyethylene bags and place in a drum for transit to an approved disposal site. Rinse away the remaining spilled material with water to reduce odour, and discharge the rinsate into a municipal or industrial sewer, not into a natural waterway.
+
+Large spills: In case of nasal and respiratory irritation, vacate the room immediately. Personnel cleaning up should be trained and equipped with a self-contained breathing apparatus, or an officially approved or certified full-face respirator equipped with an organic vapor cartridge, glove, and clothing impervious to glutaraldehyde, including rubber boots or shoe protection. Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+The biocidal product, when being disposed of in its unused and uncontaminated state should be treated as a hazardous waste according to EC Directive 2008/98/EC.
+
+Deactivate with sodium bisulfite (2-3 parts (by weight) per part of glutaraldehyde), collect the neutralized liquid and place in a drum for transit to an approved disposal site. If the concentration of glutaraldehyde is up to 2%, deactivate by the addition of aqueous sodium hydroxide solution in an amount sufficient to maintain a pH of 12 for 8 h, followed by neutralization (i.e. neutral pH) with the careful addition of an inorganic acid e.g. hydrochloric acid, before disposal by appropriate means. Any disposal practices must be in compliance with all national and provincial laws and any municipal or local by-laws governing hazardous waste. Do not dump into any sewers, on the ground, or into any body of water. Avoid release to the environment. High-temperature incineration is an acceptable practice glutaraldehyde burns cleanly to carbon dioxide and water.
+
+Containers used to store glutaraldehyde solutions are non refillable. Do not reuse or refill the containers. Containers should be triple or pressure rinsed with water promptly after they are emptied. They can then be offered for recycling or reconditioning for biocidal products, or they can be punctured and disposed of in a sanitary landfill or by other procedures approved by national and local authorities. Send waste liquid from rinsing of used containers to an approved waste handling facility.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Do not store in and avoid contact with aluminum, carbon steel, copper, mild steel, iron. Avoid contact with amines, ammonia, strong acids, strong bases, strong oxidizers.
+
+Store at temperatures &lt;40 °C
+
+Shelf life:
+
+meta SPC GA 13.5: 12 months in HDPE and stainless steel
+
+**6\. OTHER INFORMATION**
+
+The full titles of the EN standards referenced in the Risk mitigation measures are:
+
+EN ISO 374 – Protective gloves against dangerous chemicals and micro-organisms
+
+EN 166 – Eye protection against chemicals.
+
+EN 14605 – Protective clothing against liquid chemicals – Performance requirements for clothing with liquid-tight (Type 3) or spray-tight (Type 4) connections, including items providing protection to parts of the body only (Types PB [3] and PB [4]).
+
+EN 12941 - Respiratory protective devices - Powered filtering devices incorporating a loose fitting respiratory interface - Requirements, testing, marking
+
+EN 12942 – Respiratory protective devices - Powered filtering devices incorporating full face masks, half masks or quarter masks - Requirements, testing, marking
+
+EN 136 - Respiratory protective devices. Full face masks. Requirements, testing, marking
+
+EN 140 - Respiratory protective devices - Half masks and quarter masks - Requirements, testing, marking
+
+EN 149 - Respiratory protective devices - Filtering half masks to protect against particles - Requirements, testing, marking
+
+EN 12083 - Respiratory protective devices – Filters with breathing hoses, (Non-mask mounted filters) – Particle filters, gas filters, and combined filters – Requirements, testing, marking
+
+Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 131, 5.5.1998, p. 11).
+
+With respect to the “Category (ies) of users” note: “Professionals (including industrial users) means trained professionals if this is required by national legislation.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 3**
+
+**7.1. Trade name(s), authorisation number and specific composition of each individual product**
+
+<table>
+<tbody><tr><td colspan="3" rowspan="17">Trade name(s)</td><td colspan="2">SolenisTM IS2544 MICROBIOCIDE</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">AQUCAR(TM) GA 135 Water Treatment Microbiocide</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Preventol® GA 135</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SANIPOL® PG 135</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Biosperse™ 2544 MICROBIOCIDE</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Dab 423</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Ferrocid® 4507</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 13.5% B</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GABOTEC G 13.5% B6</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 13,5 IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 13,5-A IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">GLUT-ACTIVE 13,5-B IOB</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">HYDREX 7519</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">SANITER 422</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Spectrum™ RX7813 MICROBIOCIDE</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Warosit 249</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Warostat 3249</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="2"></td><td colspan="3">EU-0030162-0003 1-3</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td colspan="2">Function</td><td colspan="2">CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Glutaraldehyde</td><td>1,5-pentanedial</td><td colspan="2">Active substance</td><td colspan="2">111-30-8</td><td>203-856-5</td><td>13,6 % (w/w)</td></tr>
+</tbody>
+</table>
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/1906/oj
+
+ISSN 1977-0677 (electronic edition)

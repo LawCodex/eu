@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on undesirable substances in animal feed**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2003/57/EC of 17 June 2003 </td><td> L 151</td><td>38</td><td>19.6.2003</td></tr>
@@ -46,6 +47,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION REGULATION (EU) 2017/2229 of 4 December 2017 </td><td> L 319</td><td>6</td><td>5.12.2017</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) 2019/1869 of 7 November 2019 </td><td> L 289</td><td>32</td><td>8.11.2019</td></tr>
+</table>
 
 **DIRECTIVE 2002/32/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -219,6 +221,7 @@ MAXIMUM LEVELS OF UNDESIRABLE SUBSTANCES, AS REFERRED TO IN ARTICLE 3(2)
 
 SECTION I: INORGANIC CONTAMINANTS AND NITROGENOUS COMPOUNDS
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>1. Arsenic (1)</td><td>Feed materials</td><td>2</td></tr>
@@ -326,9 +329,11 @@ SECTION I: INORGANIC CONTAMINANTS AND NITROGENOUS COMPOUNDS
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3">(1)  The maximum levels refer to total arsenic.  (2)  Upon request of the competent authorities, the responsible operator must perform an analysis to demonstrate that the content of inorganic arsenic is lower than 2 ppm. This analysis is of particular importance for the seaweed species Hizikia fusiforme.  (3)  Forage includes products intended for animal feed such as hay, silage, fresh grass, etc.  (4)  The maximum levels refer to total mercury.  (5)  The maximum levels are expressed as sodium nitrite.  (6)  The maximum level established for premixtures takes into account the additives with the highest level of lead and cadmium and not the sensitivity of the different animal species to lead and cadmium. As provided in Article 16 of Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (OJ L 268, 18.10.2003, p. 29), in order to protect animal and public health, it is the responsibility of the producer of premixtures to ensure that, in addition to compliance with the maximum levels for premixtures, the instructions for use on the premixture are in accordance with the maximum levels for complementary and complete feed.  (7)  Maximum levels refer to an analytical determination of fluorine, whereby extraction is performed with hydrochloric acid 1 N for 20 minutes at ambient temperature. Equivalent extraction procedures can be applied for which it can be demonstrated that the used extraction procedure has an equal extraction efficiency.  (8)  The % of phosphorus is relative to a feed with a moisture content of 12 %.  (9)  The maximum level refers to melamine only. The inclusion of the structurally related compounds cyanuric acid, ammeline and ammelide in the maximum level will be considered at a later stage.  (10)  Calcium and magnesium carbonate refers to the natural mixture of calcium carbonate and magnesium carbonate as described in Commission Regulation (EU) No 575/2011 of 16 June 2011 on the Catalogue of feed materials (OJ L 159, 17.6.2011, p. 25).  (11)  The maximum level is applicable to canned pet food as sold.  (12)  For the determination of lead in kaolinitic clay and in feed containing kaolinitic clay, the maximum level refers to an analytical determination of lead, whereby extraction is performed in nitric acid (5 % w/w) for 30 minutes at boiling temperature. Equivalent extraction procedures can be applied for which it can be demonstrated that the used extraction procedure has an equal extraction efficiency.  (13)  The maximum level is applicable on wet weight basis. </td></tr>
 </tbody>
+</table>
 
 SECTION II: MYCOTOXINS
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td rowspan="5">1. Aflatoxin B1</td><td>Feed materials</td><td>0,02 </td></tr>
 <tr><td>Complementary and complete feed</td><td>0,01 </td></tr>
@@ -337,9 +342,11 @@ SECTION II: MYCOTOXINS
 <tr><td>— compound feed for cattle (except dairy cattle and calves), sheep (except dairy sheep and lambs), goats (except dairy goats and kids), pigs (except piglets) and poultry (except young animals).</td><td>0,02 </td></tr>
 <tr><td>2. Rye ergot (Claviceps purpurea)</td><td>Feed materials and compound feed containing unground cereals.</td><td>1 000 </td></tr>
 </tbody>
+</table>
 
 SECTION III: INHERENT PLANT TOXINS
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td rowspan="10">1. Free gossypol</td><td>Feed materials</td><td>20 </td></tr>
 <tr><td>with the exception of:</td><td>  </td></tr>
@@ -377,9 +384,11 @@ SECTION III: INHERENT PLANT TOXINS
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3">(1)  The maximum levels are expressed as allyl isothiocyanate.  (2)  Upon request of the competent authorities, the responsible operator must perform an analysis to demonstrate that the content of total glucosinolates is lower than 30 mmol/kg. The method of analysis of reference is EN-ISO 9167-1:1995. </td></tr>
 </tbody>
+</table>
 
 SECTION IV: ORGANOCHLORINE COMPOUNDS (EXCEPT DIOXINS AND PCBs)
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td>1. Aldrin (1)</td><td>Feed materials and compound feed</td><td>0,01 (2)</td></tr>
 <tr><td rowspan="3">2. Dieldrin (1)</td><td>with the exception of:</td><td>  </td></tr>
@@ -427,9 +436,11 @@ SECTION IV: ORGANOCHLORINE COMPOUNDS (EXCEPT DIOXINS AND PCBs)
 <tr><td>— fats and oils.</td><td>2,0 </td></tr>
 <tr><td colspan="3">(1)  Singly or combined expressed as dieldrin.  (2)  Maximum level for aldrin and dieldrin, singly or combined, expressed as dieldrin.  (3)  Numbering system according to Parlar, prefixed by either CHB or ‘Parlar’:  CHB 26: 2-endo,3-exo,5-endo,6-exo,8,8,10,10-octochlorobornane,  CHB 50: 2-endo,3-exo,5-endo,6-exo,8,8,9,10,10-nonachlorobornane,  CHB 62: 2,2,5,5,8,9,9,10,10-nonachlorobornane. </td></tr>
 </tbody>
+</table>
 
 SECTION V: DIOXINS AND PCBs
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in ng WHO-PCDD/F-TEQ/kg (ppt) (1) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td rowspan="18">1. Dioxins [sum of polychlorinated dibenzo-para-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) expressed in World Health Organisation (WHO) toxic equivalents, using the WHO-TEFs (toxic equivalency factors, 2005) (2)]</td><td>Feed materials of plant origin</td><td>0,75 </td></tr>
@@ -524,9 +535,11 @@ SECTION V: DIOXINS AND PCBs
 </tbody>
 </table>  (3)  Fresh fish and other aquatic animals directly delivered and used without intermediate processing for the production of feed for fur animals are not subject to the maximum levels, while maximum levels of 3,5 ng WHO-PCDD/F-TEQ/kg product and 6,5 ng WHO-PCDD/F-PCB-TEQ/kg product are applicable to fresh fish and 20,0 ng WHO-PCDD/F-PCB-TEQ/kg product is applicable to fish liver used for the direct feeding of pet animals, zoo and circus animals or used as feed material for the production of pet food. The products or processed animal proteins produced from these animals (fur animals, pet animals, zoo and circus animals) cannot enter the food chain and cannot be fed to farmed animals which are kept, fattened or bred for the production of food.  (4)  Fresh fish and other aquatic animals directly delivered and used without intermediate processing for the production of feed for fur animals are not subject to the maximum levels, while maximum levels of 75 μg/kg product are applicable to fresh fish and 200 μg/kg product are applicable to fish liver used for the direct feeding of pet animals, zoo and circus animals or used as feed material for the production of pet food. The products or processed animal proteins produced from these animals (fur animals, pet animals, zoo and circus animals) cannot enter the food chain and cannot be fed to farmed animals which are kept, fattened or bred for the production of food.  (5)  The maximum level is also applicable to the feed additives belonging to the functional groups of substances for the control of radionuclide contamination and substances for reduction of the contamination of feed by mycotoxins which are also belonging to the functional groups of binders and anti-caking agents. </td></tr>
 </tbody>
+</table>
 
 SECTION VI: HARMFUL BOTANICAL IMPURITIES
 
+<table>
 <tbody><tr><td>Undesirable substance</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td>1. Weed seeds and unground and uncrushed fruits containing alkaloids, glucosides or other toxic substances separately or in combination including</td><td rowspan="2">Feed materials and compound feed</td><td>3 000 </td></tr>
 <tr><td>— Datura sp.</td><td>1 000 </td></tr>
@@ -540,9 +553,11 @@ SECTION VI: HARMFUL BOTANICAL IMPURITIES
 <tr><td>7. Seeds from — Indian mustard — Brassica juncea (L.) Czern. and Coss. ssp. integrifolia (West.) Thell.  — Sareptian mustard — Brassica juncea (L.) Czern. and Coss. ssp. juncea  — Chinese mustard — Brassica juncea (L.) Czern. and Coss. ssp. juncea var. lutea Batalin  — Black mustard — Brassica nigra (L.) Koch  — Ethiopian mustard — Brassica carinata A. Braun </td><td>Feed materials and compound feed</td><td>Seeds may only be present in feed in trace amounts not quantitatively determinable</td></tr>
 <tr><td colspan="3">(1)  In so far determinable by analytical microscopy.  (2)  Includes also seed husk fragments.  (3)  In case unequivocal evidence is provided that the grains and seeds are intended for milling or crushing, there is no need to perform a cleaning of the grains and seeds containing con-compliant levels of seeds of Ambrosia spp. before milling or crushing on the condition that:  — the consignment is transported as a whole to the milling or crushing plant, and — the milling or crushing plant is informed in advance of the presence of high level of Ambrosia spp. seeds in order take additional prevention measures to avoid dissemination into the environment, and  — solid evidence is provided that prevention measures are taken to avoid dissemination of Ambrosia spp. seeds into the environment during transport to the crushing or milling plant, and  — the competent authority agrees to the transport, after having ensured that the abovementioned conditions are fulfilled. <br> In case these conditions are not fulfilled, the consignment must be cleaned before any transport into the EU and the screenings must be appropriately destroyed. </td></tr>
 </tbody>
+</table>
 
 SECTION VII: AUTHORISED FEED ADDITIVES IN NON-TARGET FEED FOLLOWING UNAVOIDABLE CARRY-OVER
 
+<table>
 <tbody><tr><td>Coccidiostat</td><td>Products intended for animal feed (1)</td><td>Maximum content in mg/kg (ppm) relative to a feed with a moisture content of 12 %</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td rowspan="5">1. Decoquinate</td><td>Feed materials</td><td>0,4 </td></tr>
@@ -615,6 +630,7 @@ SECTION VII: AUTHORISED FEED ADDITIVES IN NON-TARGET FEED FOLLOWING UNAVOIDABLE 
 <tr><td>Premixtures for use in feed in which the use of semduramicin sodium is not authorised.</td><td>(2)</td></tr>
 <tr><td colspan="3">(1)  Without prejudice to the authorised levels in the frame of Regulation (EC) No 1831/2003 of the European Parliament and of the Council (OJ L 268, 18.10.2003, p. 29).  (2)  The maximum level of the substance in the premixture is the concentration which shall not result in a level of the substance higher than 50 % of the maximum levels established in the feed when the instructions for use of the premixture are followed. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -622,6 +638,7 @@ SECTION VII: AUTHORISED FEED ADDITIVES IN NON-TARGET FEED FOLLOWING UNAVOIDABLE 
 
 **SECTION: DIOXINS AND PCBs**
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Action threshold in ng WHO-PCDD/F TEQ/kg (ppt) (2) relative to a feedingstuff with a moisture content of 12 %</td><td>Comments and additional information (e.g. nature of investigations to be performed)</td></tr>
 <tr><td colspan="4"></td></tr>
 <tr><td rowspan="17">1. Dioxins [sum of polychlorinated dibenzo-para-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs) expressed in World Health Organisation (WHO) toxic equivalents, using the WHO-TEFs (toxic equivalency factors, 2005) (1)]</td><td>Feed materials of plant origin</td><td>0,5 </td><td>(3)</td></tr>
@@ -699,6 +716,7 @@ SECTION VII: AUTHORISED FEED ADDITIVES IN NON-TARGET FEED FOLLOWING UNAVOIDABLE 
 </tbody>
 </table>  (2)  Upper-bound concentrations; upper-bound concentrations are calculated on the assumption that all values of the different congeners below the limit of quantification are equal to the limit of quantification.  (3)  Identification of source of contamination. Once source is identified, take appropriate measures, where possible, to reduce or eliminate source of contamination.  (4)  In many cases it might not be necessary to perform an investigation into the source of contamination as the background level in some areas is close to or above the action level. However, in cases where the action level is exceeded, all information, such as sampling period, geographical origin, fish species etc., shall be recorded with a view to future measures to manage the presence of dioxins and dioxin-like compounds in these materials for animal nutrition. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

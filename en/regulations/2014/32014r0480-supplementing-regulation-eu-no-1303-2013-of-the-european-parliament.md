@@ -1,0 +1,1111 @@
+---
+title: "Commission Delegated Regulation (EU) No 480/2014 of 3 March 2014 supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund"
+identifier: "32014R0480"
+eli: "http://data.europa.eu/eli/reg_del/2014/480/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-03-03
+entry_into_force: 2013-08-15
+last_amended: 2019-05-30
+consolidated_version: "02014R0480-20190530"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0480-20190530"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 480/2014 of 3 March 2014 supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund
+
+**COMMISSION DELEGATED REGULATION (EU) No 480/2014**
+
+**of 3 March 2014**
+
+**supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2015/616 of 13 February 2015 </td><td> L 102</td><td>33</td><td>21.4.2015</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/886 of 12 February 2019 </td><td> L 142</td><td>9</td><td>29.5.2019</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 480/2014**
+
+**of 3 March 2014**
+
+**supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down the following provisions supplementing Regulation (EU) No 1303/2013:
+
+(a) provisions supplementing Part Two of that Regulation applicable to the ERDF, the ESF, the Cohesion Fund, the EAFRD and the EMFF (hereinafter referred to as the ‘ESI Funds’) as regards the following:
+
+(i) criteria for determining the level of financial correction to be applied under the performance framework;
+
+(ii) rules in relation to financial instruments as regards the following:
+
+— additional specific rules on the purchase of land and on combining technical support with financial instruments,
+
+— additional specific rules on the role, liabilities and responsibility of bodies implementing financial instruments, related selection criteria and products that may be delivered through financial instruments,
+
+— rules concerning the management and control of certain financial instruments, including controls to be performed by managing and audit authorities, arrangements for keeping supporting documents, elements to be evidenced by supporting documents, and management and control and audit arrangements,
+
+— rules for withdrawal of payments made to financial instruments and consequent adjustments in respect of applications for payment,
+
+— specific rules concerning the establishment of a system of capitalisation of annual instalments for interest rate subsidies and guarantee fee subsidies,
+
+— specific rules setting out the criteria for determining management costs and fees on the basis of performance and the applicable thresholds, as well as rules for the reimbursement of capitalised management costs and fees for equity-based instruments and micro-credit;
+
+(iii) the method for calculating the discounted net revenue of operations generating net revenue after completion;
+
+(iv) the flat rate for indirect costs and the related methods applicable in other Union policies;
+
+(b) provisions supplementing Part Three of that Regulation applicable to the ERDF and the Cohesion Fund as regards the methodology to be used in carrying out the quality review of major projects;
+
+(c) provisions supplementing Part Four of that Regulation applicable to the ERDF, the ESF, the Cohesion Fund and the EMFF as regards the following:
+
+(i) rules specifying the information in relation to the data to be recorded and stored in computerised form within the monitoring system established by the managing authority;
+
+(ii) detailed minimum requirements for the audit trail in respect of the accounting records to be maintained and the supporting documents to be held at the level of the certifying authority, managing authority, intermediate bodies and beneficiaries;
+
+(iii) the scope and content of audits of operations and audits of the accounts and the methodology for the selection of the sample of operations;
+
+(iv) detailed rules on the use of data collected during audits carried out by Commission officials or authorised Commission representatives;
+
+(v) detailed rules concerning the criteria for determining serious deficiencies in the effective functioning of management and control systems, including the main types of such deficiencies, the criteria for establishing the level of financial correction to be applied and the criteria for applying flat rates or extrapolated financial corrections.
+
+## CHAPTER II — PROVISIONS SUPPLEMENTING PART TWO OF REGULATION (EU) No 1303/2013 APPLICABLE TO THE ESI FUNDS
+
+### SECTION I — Criteria for determining the level of financial correction to be applied under the performance framework — (Fourth subparagraph of Article 22(7) of Regulation (EU) No 1303/2013)
+
+#### Article 2
+
+Determination of the level of financial correction
+
+(Fourth subparagraph of Article 22(7) of Regulation (EU) No 1303/2013)
+
+1\. The level of financial correction to be applied by the Commission pursuant to Article 22(7) of Regulation (EU) No 1303/2013 shall be a flat rate determined on the basis of the ratio between the average of the final achievement rates for all output indicators and key implementation steps under a performance framework and the final achievement rate of the financial indicator under that performance framework (the ‘achievement/absorption coefficient’).
+
+2\. The achievement/absorption coefficient shall be calculated in the following way:
+
+(a) the final value achieved for each output indicator and key implementation step selected for the performance framework under a given priority shall be divided by the respective target values in order to obtain their final achievement rate expressed as a percentage of the target;
+
+(b) the average of the final achievement rates for all the output indicators and key implementation steps selected for the performance framework under a given priority shall be determined. For that purpose, where a final achievement rate is calculated to be in excess of 100 %, it shall count as 100 %;
+
+(c) the final value achieved for the financial indicator selected for the performance framework under a given priority shall be divided by the respective target value in order to obtain its final achievement rate expressed as a percentage of the target. For that purpose, where a final achievement rate is calculated to be in excess of 100 %, it shall count as 100 %;
+
+(d) the average of the final achievement rates for all the output indicators and key implementation steps selected for the performance framework under a given priority shall be divided by the final achievement rate for the financial indicator selected for the performance framework under a given priority.
+
+3\. If a priority relates to more than one ESI Fund or category of region, the achievement/absorption coefficient shall be calculated separately for each ESI Fund and/or category of region.
+
+#### Article 3
+
+Level of financial correction
+
+(Fourth subparagraph of Article 22(7) of Regulation (EU) No 1303/2013)
+
+1\. The level of financial correction is fixed as follows:
+
+(a) for an achievement/absorption coefficient below 65 % but not less than 60 %, a flat rate of 5 % shall be applied;
+
+(b) for an achievement/absorption coefficient below 60 % but not less than 50 %, a flat rate of 10 % shall be applied;
+
+(c) for an achievement/absorption coefficient below 50 %, a flat rate of 25 % shall be applied.
+
+2\. The flat rate shall be applied to the contribution from the ESI Fund determined on the basis of the expenditure declared by the Member State under the priority that meets the conditions referred to in the first subparagraph of Article 22(7) of Regulation (EU) No 1303/2013, after the application of any other financial corrections.
+
+For priorities concerning more than one ESI Fund or category of region, the flat rate shall be applied to each ESI Fund and/or category of region.
+
+3\. External factors contributing to a serious failure to achieve the targets, other than those referred to in the third subparagraph of Article 22(7) of Regulation (EU) No 1303/2013, shall be considered on a case-by-case basis. The flat-rate correction set out in paragraph 1 may be reduced by up to 50 %, taking account of the extent to which the serious failure is attributed to these factors.
+
+4\. Where the application of the flat rate fixed in accordance with paragraph 1 would be disproportionate, the level of correction shall be reduced.
+
+### SECTION II — Financial instruments
+
+#### Article 4
+
+Specific rules on the purchase of land
+
+(Article 37(13) of Regulation (EU) No 1303/2013)
+
+1\. Financial instruments financed by the ERDF, the Cohesion Fund and the EAFRD may support investments that include the purchase of land not built on and land built on for an amount not exceeding 10 % of the programme contribution paid to the final recipient. In the case of guarantees, this percentage shall apply to the amount of the underlying loan or other risk-bearing instruments.
+
+2\. Where financial instruments provide support to final recipients in respect of infrastructure investments with the objective of supporting urban development or urban regeneration activities, the limit referred to in paragraph 1 is 20 %.
+
+3\. In exceptional and duly justified cases, the managing authority may derogate from the limits in paragraphs 1 and 2 for operations concerning environmental conservation.
+
+#### Article 5
+
+Combination of technical support with financial instruments
+
+(Article 37(13) of Regulation (EU) No 1303/2013)
+
+Grants for technical support may be combined with financial instruments in a single operation pursuant to Article 37(7) of Regulation (EU) No 1303/2013 only for the purpose of technical preparation of the prospective investment for the benefit of the final recipient to be supported by that operation.
+
+#### Article 6
+
+Specific rules on the role, liabilities and responsibility of bodies implementing financial instruments
+
+(Third subparagraph of Article 38(4) and Article 39a(7) of Regulation (EU) No 1303/2013)
+
+1\. The bodies implementing financial instruments shall perform their obligations in accordance with applicable law and act with the degree of professional care, efficiency, transparency and diligence expected from a professional body experienced in implementing financial instruments. They shall ensure that:
+
+(a) final recipients receiving support from financial instruments are selected with due account taken of the nature of the financial instrument and the potential economic viability of investment projects to be financed. The selection shall be transparent and justified on objective grounds and shall not give rise to a conflict of interest;
+
+(b) final recipients shall be informed that funding is provided under programmes co-financed by the ESI Funds, in accordance with the requirements laid down:
+
+(i) in Article 115 of Regulation (EU) No 1303/2013 for the ERDF, the ESF and the Cohesion Fund;
+
+(ii) in Article 66(1)(c)(i) of Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 1 ) for the EAFRD;
+
+(iii) in Article 97(1)(b) of Regulation (EU) No 508/2014 of the European Parliament and of the Council ( 2 ) for the EMFF;
+
+(c) financial instruments provide support in a way which is proportionate and has the least distortive effect on competition;
+
+(d) differentiated treatment of investors operating under the market economy principle and of the EIB, when using the EU guarantee pursuant to Regulation (EU) 2015/2017, as referred to in Article 37(2)(c) and Article 43a of Regulation (EU) No 1303/2013, is proportionate to the risks taken by these investors and is limited to the minimum necessary to attract such investors, which shall be ensured through terms and conditions and procedural safeguards.
+
+2\. As direct financial liability of the managing authority towards bodies implementing financial instruments or final recipients as well as its liability as regards any other debt or obligation of the financial instrument may not exceed the amount committed by the managing authority to the financial instrument under the relevant funding agreements, the bodies implementing financial instruments shall ensure that no claims can be made on the managing authority beyond the amount committed by it to the financial instrument.
+
+3\. The bodies implementing financial instruments shall be liable for reimbursement of the programme contributions affected by irregularities, together with interest and any other gains generated by these contributions.
+
+Nevertheless the bodies implementing financial instruments shall not be liable for reimbursement of the amounts referred to in the first subparagraph provided that they demonstrate for a given irregularity that the following cumulative conditions are fulfilled:
+
+(a) the irregularity occurred at the level of final recipients or, in the case of a fund of funds, at the level of financial intermediaries or final recipients;
+
+(b) the bodies implementing financial instruments complied with paragraph 1 of this Article in relation to the programme contributions affected by the irregularity;
+
+(c) the amounts affected by the irregularity could not be recovered notwithstanding that the bodies implementing financial instruments pursued all applicable contractual and legal measures with due diligence.
+
+#### Article 7
+
+Criteria for the selection of bodies implementing financial instruments
+
+(Third subparagraph of Article 38(4) and Article 39a(7) of Regulation (EU) No 1303/2013)
+
+1\. When selecting a body to implement a financial instrument in accordance with point (a) of Article 38(4), subpoint (iii) of point (b) of Article 38(4), point (c) of Article 38(4) and Article 39a(5) of Regulation (EU) No 1303/2013, the managing authority shall satisfy itself that this body fulfils the following minimum requirements:
+
+(a) entitlement to carry out relevant implementation tasks under Union and national law;
+
+(b) adequate economic and financial viability;
+
+(c) adequate capacity to implement the financial instrument, including organisational structure and governance framework providing the necessary assurance to the managing authority;
+
+(d) existence of an effective and efficient internal control system;
+
+(e) use of an accounting system providing accurate, complete and reliable information in a timely manner;
+
+(f) agreement to be audited by Member State audit bodies, the Commission and the European Court of Auditors.
+
+2\. When selecting a body referred to in paragraph 1, the managing authority shall take due account of the nature of the financial instrument to be implemented, the body's experience with the implementation of similar financial instruments, the expertise and experience of proposed team members, and the body's operational and financial capacity. The selection shall be transparent and justified on objective grounds and shall not give rise to a conflict of interest. At least the following selection criteria shall be used:
+
+(a) robustness and credibility of the methodology for identifying and appraising financial intermediaries or final recipients as applicable;
+
+(b) the level of management costs and fees for the implementation of the financial instrument and the methodology proposed for their calculation;
+
+(c) terms and conditions applied in relation to support provided to final recipients, including pricing;
+
+(d) the ability to raise resources for investments in final recipients additional to programme contributions;
+
+(e) the ability to demonstrate additional activity in comparison to present activity;
+
+(f) in cases where the body implementing the financial instrument allocates its own financial resources to the financial instrument or shares the risk, proposed measures to align interests and to mitigate possible conflicts of interest.
+
+3\. Where a body that implements a fund of funds, including the EIB and an international financial institution in which a Member State is a shareholder, further entrusts implementation tasks to a financial intermediary, it shall ensure that the requirements and criteria referred to in paragraphs 1 and 2 are met in respect of that financial intermediary.
+
+4\. Without prejudice to paragraph 3, when the body implementing a financial instrument under Article 39a(5) of Regulation (EU) No 1303/2013 of Regulation (EU) No 1303/2013 is the EIB or an international financial institution in which a Member State is a shareholder, paragraphs 1 and 2 shall not apply.
+
+#### Article 8
+
+Specific rules on guarantees delivered through financial instruments
+
+(Third subparagraph of Article 38(4) and Article 39a(7) of Regulation (EU) No 1303/2013)
+
+Where financial instruments provide guarantees, the following requirements shall be fulfilled:
+
+(a) an appropriate multiplier ratio shall be achieved between the amount of the programme contribution set aside to cover expected and unexpected losses from new loans or other risk-sharing instruments to be covered by the guarantees and the value of corresponding disbursed new loans or other risk-sharing instruments;
+
+(b) the multiplier ratio shall be established through a prudent ex ante risk assessment for the specific guarantee product to be offered, taking into account the specific market conditions, the investment strategy of the financial instrument, and the principles of economy and efficiency. The ex ante risk assessment may be reviewed where it is justified by subsequent market conditions;
+
+(c) the programme contribution committed to honour guarantees shall reflect that ex ante risk assessment;
+
+(d) if the financial intermediary or the entity benefiting from the guarantees has not disbursed the planned amount of new loans or other risk-sharing instruments to final recipients, the eligible expenditure shall be reduced proportionally.
+
+#### Article 9
+
+Management and control of financial instruments referred to in points (b) and (c) of Article 38(1) of Regulation (EU) No 1303/2013
+
+(Article 40(4) of Regulation (EU) No 1303/2013)
+
+1\. For operations involving support from programmes to financial instruments referred to in points (b) and (c) of Article 38(1) of Regulation (EU) No 1303/2013, the managing authority shall ensure that:
+
+(a) the operation complies with applicable law, the relevant programme and the relevant funding agreement, both during the appraisal and selection process of the operation and during the set-up and implementation of the financial instrument;
+
+(b) funding agreements contain provisions on audit requirements and on the audit trail in accordance with point 1(e) of Annex IV to Regulation (EU) No 1303/2013;
+
+(c) management verifications are carried out throughout the programming period and during the set-up and implementation of the financial instruments in accordance with Article 125(4) of Regulation (EU) No 1303/2013 for the ERDF, the ESF, the Cohesion Fund and the EMFF, and in accordance with Article 58(1) and (2) of Regulation (EU) No 1306/2013 for the EAFRD;
+
+(d) supporting documents for expenditure declared as eligible are:
+
+(i) kept for the operation by the managing authority, the financial intermediary, or the body that implements the fund of funds where the financial instrument is implemented through a fund of funds, in order to provide evidence of the use of the funds for the intended purposes, of compliance with applicable law and of compliance with the criteria and the conditions for funding under the relevant programmes;
+
+(ii) available to allow verification of the legality and regularity of expenditure declared to the Commission;
+
+(e) supporting documents allowing verification of compliance with Union and national law and with the conditions of funding include at least:
+
+(i) documents on the establishment of the financial instrument;
+
+(ii) documents identifying the amounts contributed by each programme and under each priority axis to the financial instrument, the expenditure that is eligible under the programmes and the interest and other gains generated by support from the ESI Funds and re-use of resources attributable to the ESI Funds in accordance with Articles 43, 43a and 44 of Regulation (EU) No 1303/2013;
+
+(iii) documents on the functioning of the financial instrument, including those related to monitoring, reporting and verifications;
+
+(iv) documents demonstrating compliance with Articles 43, 43a, 44 and 45 of Regulation (EU) No 1303/2013;
+
+(v) documents concerning exits of programme contributions and the winding-up of the financial instrument;
+
+(vi) documents on the management costs and fees;
+
+(vii) application forms, or equivalent, submitted by final recipients with supporting documents, including business plans and, when relevant, previous annual accounts;
+
+(viii) checklists and reports from the bodies implementing the financial instrument, where available;
+
+(ix) declarations made in connection with de minimis aid, if applicable;
+
+(x) agreements signed in connection with the support provided by the financial instrument, including for equity, loans, guarantees or other forms of investment provided to final recipients;
+
+(xi) evidence that the support provided through the financial instrument was used for its intended purpose;
+
+(xii) records of the financial flows between the managing authority and the financial instrument, and within the financial instrument at all levels, down to the final recipients, and in the case of guarantees proof that underlying loans were disbursed;
+
+(xiii) separate records or accounting codes for programme contribution paid or guarantee committed by the financial instrument for the benefit of the final recipient.
+
+2\. For operations involving support from programmes to financial instruments under the ERDF, the ESF, the Cohesion Fund and the EMFF, the audit authorities shall ensure that financial instruments are audited throughout the programming period until closure both in the framework of systems audits and audits of operations in accordance with Article 127(1) of Regulation (EU) No 1303/2013.
+
+For operations involving support from programmes to financial instruments under the EAFRD, the audit bodies shall ensure that financial instruments are audited throughout the programming period until closure in the framework of systems audits and audits of operations in accordance with Article 9(1) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 3 ).
+
+#### Article 10
+
+Rules for withdrawal of payments to financial instruments and consequent adjustments in respect of applications for payment
+
+(Article 41(3) of Regulation (EU) No 1303/2013)
+
+Member States and managing authorities may withdraw contributions from programmes to the financial instruments referred to in points (a) and (c) of Article 38(1) and the financial instruments referred to in point (b) of Article 38(1) implemented in accordance with points (a), (b), and (c) of Article 38(4) of Regulation (EU) No 1303/2013 only if the contributions have not already been included in an application for payment as referred to in Article 41 of that Regulation. However, as regards financial instruments supported by the ERDF, the ESF, the Cohesion Fund and the EMFF, contributions may also be withdrawn if the next payment application is amended to withdraw or replace the corresponding expenditure.
+
+#### Article 11
+
+System of capitalisation of annual instalments for interest rate subsidies and guarantee fee subsidies
+
+(Third subparagraph of Article 42(1) of Regulation (EU) No 1303/2013)
+
+1\. Capitalised interest rate subsidies and guarantee fee subsidies referred to in Article 42(1)(c) of Regulation (EU) No 1303/2013 shall be calculated at the end of the eligibility period as the total of discounted payment obligations for the purposes and periods laid down in that Article, and in accordance with the relevant funding agreements.
+
+2\. Any resources left in the escrow account after the period referred to in Article 42(1)(c) of Regulation (EU) No 1303/2013, or as a result of an unexpected winding-up of the financial instrument before the end of that period, shall be used in accordance with Article 45 of that Regulation.
+
+#### Article 12
+
+Criteria for determining management costs and fees on the basis of performance
+
+(Article 42(6) of Regulation (EU) No 1303/2013)
+
+1\. The managing authority shall calculate management costs and fees which can be declared as eligible expenditure pursuant to Article 42(1)(d) of Regulation (EU) No 1303/2013 on the basis of the following performance based criteria as referred to in Article 42(5) of that Regulation:
+
+(a) the disbursement of contributions provided by the ESI Funds programme;
+
+(b) the resources paid back from investments or from the release of resources committed for guarantee contracts;
+
+(c) the quality of measures accompanying the investment before and after the investment decision to maximise its impact; and
+
+(d) the contribution of the financial instrument to the objectives and outputs of the programme.
+
+2\. The managing authority shall inform the monitoring committee set up in accordance with Article 47 of Regulation (EU) No 1303/2013 of the provisions regarding the performance-based calculation of management costs incurred or of the management fees of the financial instrument. The monitoring committee shall receive reports on an annual basis on the management costs and fees effectively paid in the preceding calendar year.
+
+#### Article 13
+
+Thresholds for management costs and fees
+
+(Article 42(5) and (6) of Regulation (EU) No 1303/2013)
+
+1\. For a body that implements a fund of funds, management costs and fees which can be declared as eligible expenditure pursuant to Article 42(1)(d) of Regulation (EU) No 1303/2013 shall not exceed the sum of:
+
+(a) 3 % for the first 12 months after the signature of the funding agreement, 1 % for the next 12 months, thereafter 0,5 % per annum, of the programme contributions paid to the fund of funds, calculated pro rata temporis from the date of effective payment to the fund of funds until the end of the eligibility period, repayment to the managing authority or the date of winding up, whichever is earlier; and
+
+(b) 0,5 % per annum of programme contributions paid by the fund of funds to financial intermediaries, calculated pro rata temporis from the moment of effective payment by the fund of funds until repayment to the fund of funds, the end of the eligibility period or the date of winding up, whichever is earlier.
+
+2\. For bodies implementing financial instruments providing equity, loans, guarantees, as well as micro-credits, including when combined with grants, interest rate subsidies or guarantee fee subsidies in accordance with Article 37(7) of Regulation (EU) No 1303/2013, management costs and fees which can be declared as eligible expenditure pursuant to Article 42(1)(d) of that Regulation shall not exceed the sum of:
+
+(a) a base remuneration which shall be calculated as follows:
+
+(i) for a financial instrument providing equity, 2,5 % per annum for the first 24 months after the signature of the funding agreement, thereafter 1 % per annum, of programme contributions committed under the relevant funding agreement to the financial instrument, calculated pro-rata temporis from the date of signature of the relevant funding agreement until the end of the eligibility period, repayment of the contributions to the managing authority or to the fund of funds, or the date of winding up, whichever is earlier;
+
+(ii) for a financial instrument in all other cases, 0,5 % per annum of programme contributions paid to the financial instrument, calculated pro rata temporis from the date of effective payment to the financial instrument until the end of the eligibility period, the repayment to the managing authority, or to the fund of funds, or the date of winding up, whichever is earlier; and
+
+(b) a performance-based remuneration which shall be calculated as follows:
+
+(i) for a financial instrument providing equity, 2,5 % per annum of the programme contributions paid within the meaning of Article 42(1)(a) of Regulation (EU) No 1303/2013 to final recipients in the form of equity, as well as of resources re-invested which are attributable to programme contributions, which have yet to be paid back to the financial instrument, calculated pro rata temporis from the date of payment to the final recipient until repayment of the investment, the end of the recovery procedure in the case of write-offs or the end of the eligibility period, whichever is earlier;
+
+(ii) for a financial instrument providing loans, 1 % per annum of the programme contributions paid within the meaning of Article 42(1)(a) of Regulation (EU) No 1303/2013 to final recipients in the form of loans, as well as of resources re-invested which are attributable to programme contributions, which have yet to be paid back to the financial instrument, calculated pro rata temporis from the date of payment to the final recipient until repayment of the investment, the end of the recovery procedure in the case of defaults or the end of the eligibility period, whichever is earlier;
+
+(iii) for a financial instrument providing guarantees, 1,5 % per annum of the programme contributions committed to outstanding guarantee contracts within the meaning of Article 42(1)(b) of Regulation (EU) No 1303/2013, as well as from re-used resources attributable to programme contributions, calculated pro rata temporis from the date of commitment until maturity of the guarantee contract, the end of the recovery procedure in the case of defaults or the end of the eligibility period, whichever is earlier;
+
+(iv) for a financial instrument providing micro-credit, 1,5 % per annum of the programme contributions paid within the meaning of Article 42(1)(a) of Regulation (EU) No 1303/2013 to final recipients in the form of micro-credit, as well as of resources re-invested which are attributable to programme contributions, which have yet to be paid back to the financial instrument, calculated pro rata temporis from the date of payment to the final recipient, until repayment of the investment, the end of the recovery procedure in the case of defaults or the end of the eligibility period, whichever is earlier;
+
+(v) for a financial instrument providing grants, interest rate subsidies or guarantee fee subsidies in accordance with Article 37(7) of Regulation (EU) No 1303/2013, 0,5 % of the grant amount paid within the meaning of Article 42(1)(a) of that Regulation for the benefit of final recipients.
+
+The provisions of this paragraph shall apply to a body implementing a financial instrument providing guarantees notwithstanding that the same body is implementing a fund of funds, subject to the provisions of paragraph 4.
+
+3\. The aggregate amount of management costs and fees over the eligibility period laid down in Article 65(2) of Regulation (EU) No 1303/2013 shall not exceed the following limits:
+
+(a) for a fund of funds, 7 % of the total amount of programme contributions paid to the fund of funds;
+
+(b) for a financial instrument providing equity, 20 % of the total amount of programme contributions paid to the financial instrument;
+
+(c) for a financial instrument providing loans, 8 % of the total amount of programme contributions paid to the financial instrument;
+
+(d) for a financial instrument providing guarantees, 10 % of the total amount of programme contributions paid to the financial instrument;
+
+(e) for a financial instrument providing micro-credit, 10 % of the total amount of programme contributions paid to the financial instrument;
+
+(f) for a financial instrument providing grants, interest rate subsidies or guarantee fee subsidies in accordance with Article 37(7) of Regulation (EU) No 1303/2013, 6 % of the total amount of programme contributions paid to the financial instrument.
+
+4\. Where the same body implements a fund of funds and a financial instrument, neither the amounts of eligible management cost and fees under paragraphs 1 and 2, nor the limits set out in paragraph 3 shall be cumulated for the same programme contributions or the same resources re-invested which are attributable to programme contributions.
+
+5\. Where the majority of the capital invested in financial intermediaries providing equity is provided by investors operating under the market economy principle and the programme contribution is provided pari passu with those investors, the management costs and fees shall conform to market terms and shall not exceed those payable by the private investors.
+
+6\. The thresholds laid down in paragraphs 1, 2 and 3 may be exceeded where they are charged by a body implementing the financial instrument, including, where applicable, when it implements the fund of funds, which has been selected through a competitive tender in accordance with the applicable rules and the competitive tender proved the need for higher management costs and fees.
+
+#### Article 14
+
+Reimbursement of capitalised management costs and fees for equity-based instruments and micro-credit
+
+(Article 42(6) of Regulation (EU) No 1303/2013)
+
+1\. Capitalised management costs and fees to be reimbursed as eligible expenditure in accordance with Article 42(2) of Regulation (EU) No 1303/2013 shall be calculated at the end of the eligibility period as the total of discounted management costs and fees to be paid after the eligibility period for the period laid down in Article 42(2) of that Regulation, and in accordance with the relevant funding agreements.
+
+2\. Capitalised management costs and fees to be paid after the eligibility period for a financial instrument providing micro-credit shall not exceed 1 % per annum of the programme contributions paid to the final recipients within the meaning of Article 42(1)(a) of Regulation (EU) No 1303/2013 in the form of loans, which have yet to be paid back to the financial instrument, calculated pro rata temporis from the end of the eligibility period until repayment of the investment, the end of the recovery procedure in the case of defaults or the period referred to in Article 42(2) of that Regulation, whichever is earlier.
+
+3\. Capitalised management costs and fees to be paid after the eligibility period for a financial instrument providing equity shall not exceed 1,5 % per annum of the programme contributions paid to the final recipients within the meaning of Article 42(1)(a) of Regulation (EU) No 1303/2013 in the form of equity, which have yet to be paid back to the financial instrument, calculated pro rata temporis from the end of the eligibility period until repayment of the investment, the end of the recovery procedure in the case of defaults or the period referred to in Article 42(2) of that Regulation, whichever is earlier.
+
+4\. Any resources left in the escrow account after the period referred to under Article 42(2) of Regulation (EU) No 1303/2013, or as a result of an unexpected winding-up of the financial instrument before the end of that period, shall be used in accordance with Article 45 of that Regulation.
+
+### SECTION III — Method for calculating the discounted net revenue of operations generating net revenue
+
+#### Article 15
+
+Method for calculating discounted net revenue
+
+(Seventh subparagraph of Article 61(3) of Regulation (EU) No 1303/2013)
+
+1\. For the purposes of the application of the method referred to in point (b) of the first subparagraph of Article 61(3) of Regulation (EU) No 1303/2013, the discounted net revenue of the operation shall be calculated by deducting the discounted costs from the discounted revenue and, where applicable, by adding the residual value of the investment.
+
+2\. The discounted net revenue of an operation shall be calculated over a specific reference period applicable to the sector of that operation as set out in Annex I. The reference period shall include the implementation period of the operation.
+
+3\. Revenues and costs shall be determined by applying the incremental method based on a comparison of revenue and costs in the scenario of the new investment with the revenues and costs in the scenario without the new investment.
+
+Where an operation consists of a new asset, the revenues and costs shall be those of the new investment.
+
+4\. Where value added tax is not an eligible cost according to Article 69(3)(c) of Regulation (EU) No 1303/2013, the calculation of discounted net revenue shall be based on figures excluding value added tax.
+
+#### Article 16
+
+Determination of revenues
+
+(Seventh subparagraph of Article 61(3) of Regulation (EU) No 1303/2013)
+
+For the purposes of the calculation of discounted net revenue, the revenues shall be determined on the following basis:
+
+(a) where applicable, user charges shall be fixed in compliance with the polluter-pays principle, and, if appropriate, shall take into account affordability considerations;
+
+(b) revenue shall not include transfers from national or regional budgets or national public insurance systems;
+
+(c) where an operation adds new assets to complement a pre-existing service or infrastructure, both contributions from new users and additional contributions from existing users of the new or enlarged service or infrastructure shall be taken into account.
+
+#### Article 17
+
+Determination of costs
+
+(Seventh subparagraph of Article 61(3) of Regulation (EU) No 1303/2013)
+
+For the purposes of the calculation of discounted net revenue, the following costs occurring during the reference period referred to in Article 15(2) shall be taken into consideration:
+
+(a) replacement costs of short-life equipment ensuring the technical functioning of the operation;
+
+(b) fixed operating costs, including maintenance costs, such as staff, maintenance and repair, general management and administration, and insurance;
+
+(c) variable operating costs, including maintenance costs, such as consumption of raw materials, energy, other process consumables, and any maintenance and repair needed to extend the lifetime of the operation.
+
+#### Article 18
+
+Residual value of the investment
+
+(Seventh subparagraph of Article 61(3) of Regulation (EU) No 1303/2013)
+
+1\. Where the assets of an operation have design lifetimes in excess of the reference period referred to in article 15(2), their residual value shall be determined by computing the net present value of cash flows in the remaining life years of the operation. Other methods of calculating residual value may be used in duly justified circumstances.
+
+2\. The residual value of the investment shall be included in the calculation of discounted net revenue of the operation only if the revenues outweigh the costs referred to in Article 17.
+
+#### Article 19
+
+Discounting of cash flows
+
+(Seventh subparagraph of Article 61(3) of Regulation (EU) No 1303/2013)
+
+1\. Only cash flows to be paid out or received by the operation shall be taken into consideration when calculating costs and revenue. Cash flows shall be established for each year in which they are paid out or received by the operation over the reference period referred to in article 15(2).
+
+2\. Non-cash accounting items such as depreciation, any reserves for future replacement costs and contingency reserves shall be excluded from the calculation.
+
+3\. Cash flows shall be discounted back to the present using a financial discount rate of 4 % in real terms as an indicative benchmark for public investment operations co-financed by the ESI Funds.
+
+4\. Member States may use a financial discount rate other than 4 % if they provide a justification for that benchmark and ensure it is used consistently across similar operations in the same sector.
+
+5\. Values other than 4 % may be justified on the grounds of:
+
+(a) the Member State's specific macroeconomic conditions and international macroeconomic trends and conjunctures; or
+
+(b) the nature of the investor or the implementation structure, such as public private partnerships; or
+
+(c) the nature of the sector concerned.
+
+### SECTION IV — Definition of the flat rates for indirect costs and related methods applicable in other Union policies
+
+#### Article 20
+
+Flat rate financing for indirect costs based on Regulation (EU) No 1290/2013
+
+(Second paragraph of Article 68 of Regulation (EU) No 1303/2013)
+
+Indirect costs may be calculated by applying a flat rate established in accordance with Article 29(1) of Regulation (EU) No 1290/2013 for the following types of operations or projects forming part of operations:
+
+(a) the operations supported by the ERDF under intervention field codes 056, 057 or 060-065 as set out in Table 1 of Annex to Commission Implementing Regulation (EU) No 215/2014 ( 4 ) and carried out under one of the investment priorities laid down in Article 5(1)(a) and (b), (2)(b), (3)(a) and (c), and (4)(f) of Regulation (EU) No 1301/2013 of the European Parliament and of the Council ( 5 );
+
+(b) the operations supported by the ESF under intervention field code 04 as set out in Table 6 of Annex to Commission Implementing Regulation (EU) 215/2014 and contributing to strengthening research, technological development and innovation in accordance with Article 3(2)(c) of Regulation (EU) No 1304/2013;
+
+(c) the operations supported by the EAFRD in accordance with Articles 17, 26 or 35 of Regulation (EU) No 1305/2013 which contribute to the Union priority laid down in Article 5(1) of that Regulation. Where the operation is programmed in accordance with Articles 17 and 26 of Regulation (EU) No 1305/2013, only operations implemented by an operational group of the European Innovation Partnership funded under Article 35(1)(c) of that Regulation shall be considered;
+
+(d) the operations supported by the EMFF and programmed in accordance with Articles 26, 28, 39 or 47 of Regulation (EU) No 508/2014.
+
+#### Article 21
+
+Flat rate financing for indirect costs based on Regulation (EU, Euratom) No 966/2012
+
+(Second paragraph of Article 68 of Regulation (EU) No 1303/2013)
+
+Indirect costs may be calculated by applying the flat rate established in accordance with Article 124(4) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council ( 6 ) for the following types of operations or projects forming part of an operation:
+
+(a) the operations supported by the ERDF under intervention field codes 085, 086 or 087 as set out in Table 1 of Annex to Commission Implementing Regulation (EU) No 215/2014 and carried out under one of the investment priorities laid down in Article 5(5)(a) and (6)(d) of Regulation (EU) No 1301/2013;
+
+(b) the operations supported by the ESF under intervention field code 01 as set out in Table 6 of Annex to Commission Implementing Regulation (EU) No 215/2014 and contributing to supporting the shift towards a low carbon, climate resilient, resource-efficient and environmentally sustainable economy in accordance with Article 3(2)(a) of Regulation (EU) No 1304/2013;
+
+(c) the operations supported by the EAFRD in accordance with Articles 17 and 25 of Regulation (EU) No 1305/2013 which contribute to the Union priority laid down in Article 5(4) or (5) of that Regulation;
+
+(d) the operation supported by the EMFF and programmed in accordance with Articles 38, 40(1), 41(1), 44(6), 48(1)(e), (i), (j) or (k) or 80(1)(b) of Regulation (EU) No 508/2014.
+
+## CHAPTER III — PROVISIONS SUPPLEMENTING PART THREE REGULATION (EU) No 1303/2013 APPLICABLE TO THE ERDF AND THE COHESION FUND AS REGARDS THE METHODOLOGY TO BE USED FOR CARRYING OUT THE QUALITY REVIEW OF MAJOR PROJECTS
+
+#### Article 22
+
+Requirements for independent experts carrying out the quality review
+
+(Fourth paragraph of Article 101 of Regulation (EU) No 1303/2013)
+
+1\. The quality review of major projects referred to in the third paragraph of Article 101 of Regulation (EU) No 1303/2013, shall be carried out by independent experts that have:
+
+(a) significant technical experience of all stages of the project cycle;
+
+(b) broad international experience of the investment sectors concerned;
+
+(c) significant expertise in the analysis and evaluation of socioeconomic benefits;
+
+(d) significant knowledge and experience of relevant Union law, policies and procedures;
+
+(e) independence from all authorities involved directly or indirectly in the approval, implementation, or operation of the major project;
+
+(f) no conflict of interest at any level in relation to the major project;
+
+(g) no commercial interest in relation to the major project;
+
+(h) the necessary linguistic competence.
+
+2\. Where a Member State proposes to mandate independent experts other than those supported by technical assistance at the initiative of the Commission in accordance with Article 58 of Regulation (EU) No 1303/2013, it shall in accordance with the third paragraph of Article 101 of that Regulation submit a request for the Commission's agreement. That agreement shall be based on documents demonstrating compliance of the experts with the requirements laid down in paragraph 1 of this Article.
+
+The Commission shall inform the Member State within three months from the submission of the request whether it agrees with the proposal regarding the independent experts.
+
+#### Article 23
+
+Quality review of major projects
+
+(Fourth paragraph of Article 101 of Regulation (EU) No 1303/2013)
+
+1\. The independent experts shall carry out their assessment on the basis of the information referred to in points (a) to (i) of the first paragraph of Article 101 of Regulation (EU) No 1303/2013. The independent experts may request additional elements relating to this information which they deem necessary for the quality review.
+
+The Member State and the independent experts may agree that this work shall be complemented by site visits.
+
+The independent experts may, in agreement with the Member States, consult the Commission on relevant State aid issues for the purpose of their assessment.
+
+2\. The independent experts shall for the purposes of the quality review undertake the following steps:
+
+(a) the independent experts shall verify that the operation is a major project within the meaning of Article 100 of Regulation (EU) No 1303/2013, that the major project is not a completed operation within the meaning of Articles 2(14) and 65(6) of that Regulation, and that the major project is included within the relevant operational programme;
+
+(b) the independent experts shall check the completeness, consistency and accuracy of the information under points (a) to (i) of the first subparagraph of Article 101 of Regulation (EU) No 1303/2013 provided for in the format referred to in the fifth paragraph of Article 101 of Regulation (EU) No 1303/2013;
+
+(c) the independent experts shall appraise the quality of the major project on the basis of the criteria set out in Annex II to this Regulation;
+
+(d) the independent experts shall produce an independent quality review report (hereinafter the ‘IQR report’) in the format provided for in the third subparagraph of Article 102(1) of Regulation (EU) No 1303/2013. In the IQR report, the independent experts shall formulate and justify their statements in an unambiguous manner for the elements referred to in this paragraph.
+
+3\. A major project is appraised positively by the quality review in the meaning of Article 102(1) of Regulation (EU) No 1303/2013 if the independent experts conclude that all the criteria referred to in Annex II of this Regulation have been fulfilled.
+
+## CHAPTER IV — PROVISIONS SUPPLEMENTING PART FOUR OF REGULATION (EU) No 1303/2013 APPLICABLE TO THE ERDF, THE ESF, THE COHESION FUND AND THE EMFF
+
+### SECTION I — Data to be recorded and stored in computerised form
+
+#### Article 24
+
+Data to be recorded and stored in computerised form
+
+(Article 125(8) of Regulation (EU) No 1303/2013)
+
+1\. The information on data to be recorded and stored in computerised form for each operation in the monitoring system set up in accordance with Article 125(2)(d) of Regulation (EU) No 1303/2013 is set out in Annex III to this Regulation.
+
+2\. Data shall be recorded and stored for each operation, including data on individual participants, where applicable, in order to allow it to be aggregated where this is necessary for the purposes of monitoring, evaluation, financial management, verification and audit. It shall also allow the aggregation of such data cumulatively for the entire programming period. For the ESF, the data shall be recorded and stored in a way that allows the managing authorities to perform the tasks related to monitoring and evaluation in conformity with the requirements set out in Article 56 of Regulation (EU) No 1303/2013 and Articles 5 and 19 of Regulation (EU) No 1304/2013 and Annexes I and II to that Regulation.
+
+3\. Where an operation is supported by more than one operational programme, priority or Fund or under more than one category of region, the information referred to in fields 23-113 of Annex III shall be recorded in a manner that allows the data to be retrieved broken down by operational programme, priority, Fund or category of region. It shall also be possible to retrieve the indicator data referred to in fields 31-40 of Annex III broken down by investment priority and by gender, where applicable.
+
+### SECTION II — The audit trail and use of the data collected during audits
+
+#### Article 25
+
+Detailed minimum requirements for the audit trail
+
+(Article 125(9) of Regulation (EU) No 1303/2013)
+
+1\. The detailed minimum requirements for the audit trail in respect of the accounting records to be maintained and the supporting documents to be held shall be the following:
+
+(a) the audit trail shall allow the application of the selection criteria established by the monitoring committee for the operational programme to be verified;
+
+(b) in relation to grants and repayable assistance under Article 67(1)(a) of Regulation (EU) No 1303/2013, the audit trail shall allow the aggregate amounts certified to the Commission to be reconciled with the detailed accounting records and supporting documents held by the certifying authority, managing authority, intermediate bodies and beneficiaries as regards operations co-financed under the operational programme;
+
+(c) in relation to grants and repayable assistance under Articles 67(1)(b) and (c) and 109 of Regulation (EU) No 1303/2013 and under Article 14(1) of Regulation (EU) No 1304/2013, the audit trail shall allow the aggregate amounts certified to the Commission to be reconciled with the detailed data relating to outputs or results and supporting documents held by the certifying authority, managing authority, intermediate bodies and beneficiaries, including where applicable documents on the method of setting the standard scales for unit costs and the lump sums, as regards operations co-financed under the operational programme;
+
+(d) in relation to costs determined in accordance with point (d) of Article 67(1) and point (a) of the first paragraph of Article 68 of Regulation (EU) No 1303/2013, the audit trail shall demonstrate and justify the calculation method, where applicable, and the basis on which the flat rates have been decided, and the eligible direct costs or costs declared under other chosen categories to which the flat rate applies;
+
+(da) in relation to financing which is not linked to costs referred to in point (e) of the first subparagraph of Article 67(1) of Regulation (EU) No 1303/2013, the audit trail shall allow verification of the achievement of the financing conditions and reconciliation of the underlying data relating to the conditions for the reimbursement of expenditure;
+
+(e) in relation to costs determined in accordance with points (b) and (c) of the first paragraph of Article 68 and with Articles 68a(1) and 68b of Regulation (EU) No 1303/2013, Article 14(2) of Regulation (EU) No 1304/2013 prior to the entry into force of Regulation (EU, Euratom) 2018/1046 and Article 19 of Regulation (EU) No 1299/2013, the audit trail shall allow the eligible direct costs to which the flat rate applies to be substantiated and verified;
+
+(f) the audit trail shall allow the payment of the public contribution to the beneficiary to be verified;
+
+(g) for each operation, as appropriate, the audit trail shall include the technical specifications and financing plan, documents concerning the grant approval, documents relating to public procurement procedures, reports by the beneficiary and reports on verifications and audits carried out;
+
+(h) the audit trail shall include information on management verifications and audits carried out on the operation;
+
+(i) without prejudice to Article 19(3) and Annexes I and II to Regulation (EU) No 1304/2013, the audit trail shall allow data in relation to output indicators for the operation to be reconciled with targets and reported data and result for the programme;
+
+(j) for financial instruments, the audit trail shall include the supporting documents referred to in Article 9(1)(e) of this Regulation.
+
+For costs referred to in points (c) and (d), the audit trail shall allow the calculation method used by the managing authority to be verified for compliance with Article 67(5), Article 68 of Regulation (EU) No 1303/2013 and Article 14(3) of Regulation (EU) No 1304/2013 prior to the entry into force of Regulation (EU, Euratom) 2018/1046.
+
+2\. The managing authority shall ensure that a record is available of the identity and location of bodies holding all the supporting documents required to ensure an adequate audit trail meeting all the minimum requirements laid down in paragraph 1.
+
+#### Article 26
+
+Use of the data collected during audits carried out by Commission officials or authorised Commission representatives
+
+(Article 127(8) of Regulation (EU) No 1303/2013)
+
+1\. The Commission shall take all necessary measures to prevent any unauthorised disclosure of, or access to, the data collected by the Commission in the course of its audits.
+
+2\. The Commission shall use the data collected in the course of its audits for the sole purpose of fulfilling its responsibilities under Article 75 of Regulation (EU) No 1303/2013. The European Court of Auditors and the European Anti-Fraud Office shall have access to the data collected.
+
+3\. The data collected shall not be sent to persons other than those in the Member States or within the Union institutions whose duties require that they have access to it in accordance with the applicable rules without the express agreement of the Member State supplying the data.
+
+### SECTION III — Scope and content of audits of operations and accounts and methodology for the selection of the sample of operations
+
+#### Article 27
+
+Audits of operations
+
+(Article 127(7) of Regulation (EU) No 1303/2013)
+
+1\. Audits of operations shall be carried out in respect of each accounting year on a sample of operations selected by a method established or approved by the audit authority in accordance with Article 28 of this Regulation.
+
+2\. Audits of operations shall be carried out on the basis of supporting documents constituting the audit trail and shall verify the legality and regularity of expenditure declared to the Commission, including the following aspects:
+
+(a) that the operation was selected in accordance with the selection criteria for the operational programme, was not physically completed or fully implemented before the beneficiary submitted the application for funding under the operational programme, has been implemented in accordance with the approval decision and fulfilled any conditions applicable at the time of the audit concerning its functionality, use, and objectives to be attained;
+
+(b) that the expenditure declared to the Commission corresponds to the accounting records and that the required supporting documentation demonstrates an adequate audit trail as set out in Article 25 of this Regulation;
+
+(c) that for expenditure declared to the Commission determined in accordance with Articles 67(1)(b) and (c) and 109 of Regulation (EU) No 1303/2013 and Article 14(1) of Regulation (EU) No 1304/2013, outputs and results underpinning payments to the beneficiary have been delivered, participant data or other records related to outputs and results are consistent with the information submitted to the Commission and that the required supporting documentation demonstrates an adequate audit trail as set out in Article 25 of this Regulation;
+
+(d) that the data relating to indicators and milestones is reliable.
+
+Only the following aspects laid down in point (a) shall apply to operations subject to the financing which is not linked to costs referred to in point (e) of the first subparagraph of Article 67(1) of Regulation (EU) No 1303/2013: that the operation has been implemented in accordance with the approval decision and fulfilled any conditions applicable at the time of the audit concerning its functionality, use and objectives to be attained.
+
+Audits shall also verify that the public contribution has been paid to the beneficiary in accordance with Article 132(1) of Regulation (EU) No 1303/2013.
+
+3\. Audits of operations shall, where applicable, include on-the-spot verification of the physical implementation of the operation.
+
+For operations subject to the form of support referred to in point (e) of the first subparagraph of Article 67(1) of Regulation (EU) No 1303/2013, audits of operations shall verify that the conditions for reimbursement of expenditure to the beneficiary have been met.
+
+4\. Audits of operations shall verify the accuracy and completeness of the corresponding expenditure recorded by the certifying authority in its accounting system and the reconciliation of the audit trail at all levels.
+
+5\. Where problems detected appear to be systemic in nature and therefore entail a risk for other operations under the operational programme, the audit authority shall ensure further examination, including, where necessary, additional audits to establish the scale of such problems, and shall recommend the necessary corrective actions.
+
+6\. Only expenditure falling within the scope of an audit carried out pursuant to paragraph 1 shall be counted towards the amount of expenditure audited, for the purposes of reporting to the Commission on annual coverage. For those purposes, the model for the control report set out on the basis of Article 127(6) of Regulation (EU) No 1303/2013 shall be used.
+
+#### Article 28
+
+Methodology for the selection of the sample of operations
+
+(Article 127(7) of Regulation (EU) No 1303/2013)
+
+1\. The audit authority shall establish the method for the selection of the sample (‘the sampling method’) in accordance with the requirements set out in this Article taking into account the internationally accepted auditing standards, INTOSAI, IFAC or IIA.
+
+2\. In addition to the explanations provided in the audit strategy, the audit authority shall keep a record of the documentation and professional judgement used to establish the sampling methods, covering the planning, selection, testing and evaluation stages, in order to demonstrate that the established method is suitable.
+
+3\. A sample shall be representative of the population from which it is selected and enable the audit authority to draw up a valid audit opinion in accordance with Article 127(5)(a) of Regulation (EU) No 1303/2013. That population shall comprise the expenditure of an operational programme or group of operational programmes covered by a common management and control system, which is included in the payment applications submitted to the Commission in accordance with Article 131 of Regulation (EU) No 1303/2013 for a given accounting year. The sample may be selected during or after the accounting year.
+
+4\. For the purpose of application of Article 127(1) of Regulation (EU) No 1303/2013, a sampling method is statistical when it ensures:
+
+(i) a random selection of the sample items;
+
+(ii) the use of probability theory to evaluate sample results, including measurement and control of the sampling risk and of the planned and achieved precision.
+
+5\. The sampling method shall ensure a random selection of each sampling unit in the population by using random numbers generated for each population unit in order to select the units constituting the sample or through systematic selection by using a random starting point and applying a systematic rule to select the additional items.
+
+6\. The sampling unit shall be determined by the audit authority, based on professional judgement. The sampling unit may be an operation, a project within an operation or a payment claim by a beneficiary. Information on the type of sampling unit determined and on the professional judgement used for that purpose shall be included in the control report.
+
+7\. Where the total expenditure relating to a sampling unit for the accounting year is a negative amount it shall be excluded from the population referred to in paragraph 3 above and shall be audited separately. The audit authority may also draw a sample of this separate population.
+
+8\. Where conditions for the proportional control provided for in Article 148(1) of Regulation (EU) No 1303/2013 apply, the audit authority may either exclude the items referred to in that Article from the population to be sampled or maintain the items in the population to be sampled and replace them if selected. The decision to use either exclusion or replacement of sampling units should be taken by the audit authority based on its professional judgement.
+
+9\. All expenditure declared to the Commission in the sample shall be subject to audit.
+
+However, depending on the characteristics of sampling unit, the audit authority may decide to apply sub-sampling. The methodology for selection of the sub-sampling units shall follow the principles allowing projection at the level of the sampling unit.
+
+10\. The audit authority may stratify a population by dividing a population into sub-populations, each of which is a group of sampling units which have similar characteristics, in particular in terms of risk or expected error rate or where the population includes operations consisting of financial contributions from an operational programme to financial instruments or other high-value items.
+
+11\. The audit authority shall evaluate the reliability of the system as high, average or low, taking into account the results of systems audits to determine the technical parameters of sampling so that the combined level of assurance obtained from the systems audits and audits of operations is high. For a system assessed as having high reliability the confidence level used for sampling operations shall not be less than 60 %. For a system assessed as having low reliability the confidence level used for sampling operations shall not be less than 90 %. The maximum materiality level shall be 2 % of the expenditure referred to in paragraph 3.
+
+12\. Where irregularities or a risk of irregularities have been detected, the audit authority shall decide on the basis of professional judgement whether it is necessary to audit a complementary sample of additional operations or parts of operations that were not audited in the random sample in order to take account of specific risk factors identified.
+
+13\. The audit authority shall analyse the results of the audits of the complementary sample separately, draw conclusions based on those results and communicate them to the Commission in the annual control report. Irregularities detected in the complementary sample shall not be included in the calculation of the projected random error of the random sample.
+
+14\. On the basis of the results of the audits of operations for the purpose of the audit opinion and control report referred to in Article 127(5)(a) of Regulation (EU) No 1303/2013, the audit authority shall calculate a total error rate, which shall be the sum of the projected random errors and, if applicable, systemic errors and uncorrected anomalous errors, divided by the population.
+
+#### Article 29
+
+Audits of accounts
+
+(Article 127(7) of Regulation (EU) No 1303/2013)
+
+1\. The audits of accounts referred to in Article 137(1) of Regulation (EU) No 1303/2013 shall be carried out by the audit authority in respect of each accounting year.
+
+2\. The audit of the accounts shall provide reasonable assurance on the completeness, accuracy and veracity of the amounts declared in the accounts.
+
+3\. For the purposes of paragraphs 1 and 2, the audit authority shall take into account, in particular, the results of the system audits carried out on the certifying authority and of the audits on operations.
+
+4\. The system audit shall include verification of the reliability of the accounting system of the certifying authority and, on a sample basis, of the accuracy of expenditure of amounts withdrawn and amounts recovered recorded in the certifying authority's accounting system.
+
+5\. For the purpose of the audit opinion, in order to conclude that the accounts give a true and fair view, the audit authority shall verify that all elements required by Article 137 of Regulation (EU) No 1303/2013 are correctly included in the accounts and correspond to the supporting accounting records maintained by all relevant authorities or bodies and beneficiaries. The audit authority shall in particular, on the basis of the accounts to be provided to it by the certifying authority, verify that:
+
+(a) the total amount of eligible expenditure declared in accordance with Article 137(1)(a) of Regulation (EU) No 1303/2013 agrees with the expenditure and the corresponding public contribution included in payment applications submitted to the Commission for the relevant accounting year and, if there are differences, that adequate explanations have been provided in the accounts for the reconciling amounts;
+
+(b) the amounts withdrawn and recovered during the accounting year, the amounts to be recovered as at the end of the accounting year, the recoveries carried out pursuant to Article 71 of Regulation (EU) No 1303/2013, and the irrecoverable amounts presented in the accounts correspond to the amounts entered in the accounting systems of the certifying authority and are based on decisions by the responsible managing authority or certifying authority;
+
+(c) expenditure has been excluded from the accounts in accordance with Article 137(2) of Regulation (EU) No 1303/2013, where applicable, and that all the required corrections are reflected in the accounts for the accounting year concerned;
+
+(d) the programme contributions paid to financial instruments and advances of State aid paid to beneficiaries are supported by the information available from the managing authority and from the certifying authority.
+
+Verifications referred to in points (b), (c) and (d) may be carried out on a sample basis.
+
+### SECTION IV — Financial corrections by the Commission in relation to systems deficiencies
+
+#### Article 30
+
+Criteria for determining serious deficiencies in the effective functioning of management and control systems
+
+(Article 144(6) of Regulation (EU) No 1303/2013)
+
+1\. The Commission shall base its assessment of the effective functioning of management and control systems on the results of all available systems audits, including tests of controls, and of audits of operations.
+
+The assessment shall cover the internal control environment of the programme, the management and control activities of the managing and certifying authorities, monitoring by the managing and certifying authority, and the control activities of the audit authority and shall be based on verification of compliance with the key requirements set out in Table 1 of Annex IV.
+
+The fulfilment of these key requirements shall be assessed on the basis of the categories set out in Table 2 of Annex IV.
+
+2\. The main types of serious deficiency in the effective functioning of the management and control system shall be cases where any of the key requirements referred to in points 2, 4, 5, 13, 15, 16 and 18 of Table 1 of Annex IV, or two or more of the other key requirements in Table 1 of Annex IV are assessed as falling into categories 3 or 4 set out in Table 2 of Annex IV.
+
+#### Article 31
+
+Criteria for applying flat rates or extrapolated financial corrections and criteria for determining the level of financial correction
+
+(Article 144(6) of Regulation (EU) No 1303/2013)
+
+1\. Financial corrections shall be applied for all or part of an operational programme, where the Commission identifies one or more serious deficiencies in the functioning of the management and control system.
+
+Notwithstanding the first subparagraph, extrapolated financial corrections shall be applied, for all or part of an operational programme, where the Commission identifies systemic irregularities in a representative sample of operations, allowing for a more accurate quantification of the risk for the Union budget. In this case, the results of the examination of the representative sample shall be extrapolated to the rest of the population from which the sample was drawn for the purpose of determining the financial correction.
+
+2\. The level of flat-rate correction shall be fixed taking into account the following elements:
+
+(a) the relative importance of the serious deficiency or serious deficiencies in the context of the management and control system as a whole;
+
+(b) the frequency and extent of the serious deficiency or serious deficiencies;
+
+(c) the degree of risk of loss for the Union budget.
+
+3\. Taking into account these elements, the level of financial correction shall be fixed as follows:
+
+(a) where the serious deficiency or serious deficiencies in the management and control system is so fundamental, frequent or widespread that it represents a complete failure of the system that puts at risk the legality and regularity of all expenditure concerned, a flat rate of 100 % shall be applied;
+
+(b) where the serious deficiency or serious deficiencies in the management and control system is so frequent and widespread that it represents an extremely serious failure of the system that puts at risk the legality and regularity of a very high proportion of the expenditure concerned, a flat rate of 25 % shall be applied;
+
+(c) where the serious deficiency or serious deficiencies in the management and control system is due to the system not fully functioning or functioning so poorly or so infrequently that it puts at risk the legality and regularity of a high proportion of the expenditure concerned, a flat rate of 10 % shall be applied;
+
+(d) where the serious deficiency or serious deficiencies in the management and control system is due to the system not functioning consistently so that it puts at risk the legality and regularity of a significant proportion of the expenditure concerned, a flat rate of 5 % shall be applied.
+
+4\. Where the application of a flat rate fixed in accordance with paragraph 3 would be disproportionate, the level of correction shall be reduced.
+
+5\. Where, due to a failure of the responsible authorities to take adequate corrective measures following the application of a financial correction in an accounting year, the same serious deficiency or serious deficiencies is identified in a subsequent accounting year, the rate of correction may, due to the persistence of the serious deficiency or serious deficiencies, be increased to a level not exceeding that of the next higher category.
+
+#### Article 32
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+Article 24 shall apply from 1 December 2014, as regards information on data recorded and stored referred to in Annex III, with the exception of data fields 23 to 40, 71 to 78 and 91 to 105. With regard to these fields of Annex III, Article 24 shall apply from 1 July 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Reference periods as referred to in Article 15(2)
+
+| Sector | Reference period (years) |
+| --- | --- |
+| Railways | 30 |
+| Water supply/sanitation | 30 |
+| Roads | 25-30 |
+| Waste management | 25-30 |
+| Ports and airports | 25 |
+| Urban transport | 25-30 |
+| Energy | 15-25 |
+| Research and innovation | 15-25 |
+| Broadband | 15-20 |
+| Business infrastructure | 10-15 |
+| Other sectors | 10-15 |
+
+## ANNEX II — Criteria for quality review of major projects referred to in Article 23
+
+**1\. Quality review criteria for the information requirements of Article 101(a) of Regulation (EU) No 1303/2013 of the European Parliament and of the Council ( 7 )**
+
+Evidence of sufficient technical, legal, financial and administrative capacity to manage the project in implementation and operational phases.
+
+**2\. Quality review criteria for the information requirements of Article 101(b) of Regulation (EU) No 1303/2013**
+
+Evidence of the eligibility for funding of the project on the basis of related requirements linked to location or project area.
+
+**3\. Quality review criteria for the information requirements of Article 101(c) of Regulation (EU) No 1303/2013**
+
+3.1. Correctness of the calculation of total costs and of total eligible cost, taking into account the requirements set out in Article 61 of Regulation (EU) No 1303/2013, and sufficiency of detail, and appropriateness of the rationale applied for the calculation of costs both in terms of its overall cost to achieve the expected objectives and in terms of unit costs, where applicable.
+
+3.2. Evidence of eligibility for support from the European Regional Development Fund (ERDF) or the Cohesion Fund, as applicable, and funding envisaged only for those elements that comply with the eligibility rules set down in Regulation (EU) No 1303/2013, Regulation (EU) No 1301/2013 of the European Parliament and of the Council ( 8 ) and Regulation (EU) No 1300/2013 of the European Parliament and of the Council ( 9 ), and with eligibility rules established by the Member State.
+
+3.3. Evidence that the public support to the project does not constitute State aid or in case of State aid, that it has been properly taken into account in the calculation of the total public contribution to the project.
+
+**4\. Quality review criteria for the information requirements of Article 101(d) of Regulation (EU) No 1303/2013**
+
+4.1. Reliability of the demand analysis (or business plan in case of productive investment), based on realistic estimates and in line with main demographic trends and developments in the respective sector, justifying the need for the project and the overall capacity of the project facilities.
+
+4.2. Adequacy of the quality of the options analysis to support the conclusion of the Member State that the main alternatives have been analysed and the best option was selected for implementation including justification of the option chosen.
+
+4.3. Adequacy of the technology proposed for the project and the capacity of the final beneficiary to ensure its sustainability or, in case of insufficient capacity of the final beneficiary, sufficient provisions envisaged to bring this capacity to the levels necessary.
+
+4.4. Soundness of the conclusion that the project is feasible and can be implemented in the period planned for the project or, at latest, by the end of the eligibility period as defined in Article 65(2) of Regulation (EU) No 1303/2013.
+
+**5\. Quality review criteria for the information requirements of Article 101(e) of Regulation (EU) No 1303/2013**
+
+5.1. Cost-benefit analysis correctly followed the required methodology referred to in Article 101 of Regulation (EU) No 1303/2013, and correctly applied the method for calculation of net revenue as referred to in Article 61 of that Regulation and in Articles 15 to 19 of this Regulation.
+
+5.2. Soundness of the conclusion that the project is economically and financially viable and has positive socioeconomic effects justifying the level of support to the extent envisaged under the ERDF or the Cohesion Fund.
+
+**6\. Quality review criteria for the information requirements of Article 101(f) of Regulation (EU) No 1303/2013**
+
+6.1. Demonstrated contribution to the objectives of environmental and climate change policies, in particular targets linked to the Europe 2020 strategy and evidence of account being taken of the risks related to climate change, adaptation and mitigation needs, disaster resilience and of appropriate measures implemented or foreseen to ensure resilience of the project to climate change variability.
+
+6.2. Evidence that the polluter pays principle and the principle of preventive action have been correctly applied.
+
+6.3. Compliance of the project with Directive 2011/92/EU of the European Parliament and of the Council ( 10 ) for projects listed in Annex I to that Directive, and for projects listed in Annex II to that Directive, for which the competent authorities concluded through the screening provided in Article 4 that an EIA procedure is needed as for projects listed in Annex I to Directive 2011/92/EU:
+
+(a) the non-technical summary of the EIA report is in accordance with Article 5 and Annex IV to Directive 2011/92/EU and has been subject to public consultations; and
+
+(b) consultations with environmental authorities, the public, and if applicable, with other Member States, have been carried out in accordance with Articles 6 and 7 of Directive 2011/92/EU; and
+
+(c) the decision of the competent authority was issued in accordance to Articles 8 and 9 of Directive 2011/92/EU; or
+
+(d) in the cases where the EIA procedure has been completed with a legally binding decision, pending the issuing of development consent in accordance with Articles 8 and 9 of Directive 2011/92/EU, the availability of a written commitment by the Member States for timely action to ensure that the development consent would be issued at latest before the start of works.
+
+6.4. Compliance of the project with Directive 2011/92/EU for projects listed in Annex II to that Directive, for which the competent authorities concluded, by means of the screening provided under Article 4, that no EIA procedure was needed:
+
+(a) screening determination of the competent authorities has been issued and made available to the public; and
+
+(b) where screening determination does not refer to the criteria listed in Annex III to Directive 2011/92/EU, the relevant information under Article 4 and Annex III to that Directive has been provided.
+
+6.5. Where appropriate, demonstrated non-applicability of Directive 2011/92/EU.
+
+6.6. If the project results from a plan or programme (subject to the requirements of Directive 2001/42/EC of the European Parliament and of the Council ( 11 )) other than the operational programme, demonstrated consistency of the project with the plan or programme.
+
+6.7. In case of non-fulfilment of the general ex-ante conditionality on environmental legislation and of any, as the case may be, relevant thematic ex ante conditionalities for the waste and water sectors, and transport sector (SEA requirements) as set out in Article 19 and Annex XI to Regulation (EU) No 1303/2013, the link to the agreed action plan has to be demonstrated.
+
+6.8. Compliance of the project with Council Directive 92/43/EEC ( 12 ):
+
+(a) in the case of a project likely to have significant effects on a Natura 2000 site(s) (in accordance with Article 6(3)) the appropriate assessment has been carried out and completed before the development consent for the project has been issued;
+
+(b) in the case of a project with significant negative effects on a Natura 2000 site(s), the requirements of Article 6(4) of Directive 92/43/EEC, including notification to or opinion from the Commission, has been fulfilled.
+
+6.9. Adequacy of information about additional environmental integration measures such as environmental audit, environmental management, and specific environmental monitoring, demonstrating their adequacy in respect of identified needs.
+
+6.10. Adequacy of the estimation of the cost of measures taken to address negative environmental impacts.
+
+6.11. Compliance of the project with relevant sectoral environmental directives, if applicable, in particular:
+
+(a) Directive 2000/60/EC of the European Parliament and of the Council ( 13 ) for projects affecting water bodies (where applicable, for projects subject to the exemptions under Article 4(7) of that Directive, verification of the assessment);
+
+(b) Council Directive 91/271/EEC ( 14 ) for projects in the urban waste water sector;
+
+(c) Directive 2008/98/EC of the European Parliament and of the Council ( 15 ) and relevant applicable directives such as Council Directive 1999/31/EC ( 16 ) for projects relating to solid waste; and
+
+(d) Directive 2010/75/EU of the European Parliament and of the Council ( 17 ) for projects requiring the granting of a permit under that Directive.
+
+**7\. Quality review criteria for the information requirements of Article 101 (g) of Regulation (EU) No 1303/2013**
+
+7.1. Consistency and adequacy of project objectives with the specific objectives defined under the relevant priority axes of the operational programmes concerned.
+
+7.2. Adequacy of expected project contribution to result and output indicators of the priority axis.
+
+7.3. Adequacy of expected project contribution to the socioeconomic development.
+
+7.4. Evidence that a beneficiary has taken appropriate measures to ensure optimal utilisation of the infrastructure in the operational phase.
+
+**8\. Quality review criteria for the information requirements of Article 101(h) of Regulation (EU) No 1303/2013**
+
+8.1. Justified total planned financial resources and justified planned support from the Funds correctly presented in the financing plan.
+
+8.2. Adequacy of project's financing plan demonstrating its financial viability for the annual financial needs for implementation of the project.
+
+8.3. Appropriateness and verifiability of the physical and financial indicators for monitoring progress taking account of the identified risks.
+
+**9\. Quality review criteria for the information requirements of Article 101(i) of Regulation (EU) No 1303/2013**
+
+9.1. Soundness and feasibility of the proposed timetable for implementing the major project taking into account the identified risks.
+
+9.2. In case the implementation of the project is longer that the programming period, appropriateness of the identified phases and optimal set-up from effectiveness and efficiency point of view.
+
+## ANNEX III — List of data to be recorded and stored in computerised form in the monitoring system (referred to in Article 24)
+
+Data is required for operations supported by the ESF, the ERDF, the Cohesion Fund and the EMFF unless otherwise specified in the second column.
+
+<table>
+<tbody><tr><td>Data fields</td><td>Indication of Funds for which data is not required</td></tr>
+<tr><td colspan="2">Data on the beneficiary (1)(2)</td></tr>
+<tr><td>1. Name or unique identifier of each beneficiary</td><td>  </td></tr>
+<tr><td>2.  Information whether the beneficiary is a public law body or a private law body or a natural person  </td><td>  </td></tr>
+<tr><td>3. Information whether VAT on expenditure incurred by the beneficiary is non-recoverable under national VAT legislation</td><td>  </td></tr>
+<tr><td>4. Contact details of the beneficiary</td><td>  </td></tr>
+<tr><td colspan="2">Data on the operation</td></tr>
+<tr><td>5. Name or unique identifier of the operation</td><td>  </td></tr>
+<tr><td>6. Short description of the operation</td><td>  </td></tr>
+<tr><td>7. Date of submission of the application for the operation</td><td>  </td></tr>
+<tr><td>8. Starting date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>9. End date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>10. Actual date when the operation is physically completed or fully implemented</td><td>  </td></tr>
+<tr><td>11. Body issuing the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>12. Date of the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>13. Information whether the operation is a major project and CCI</td><td>Not applicable to the ESF and the EMFF</td></tr>
+<tr><td>14. Information whether the operation is a joint action plan and CCI</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>15. Information whether the operation includes funding under the Youth Employment Initiative (YEI)</td><td>Not applicable to the ERDF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>16. Information whether the public support for the operation will constitute State aid</td><td>  </td></tr>
+<tr><td>17. Information whether the operation is implemented under a public-private-partnership structure</td><td> —  </td></tr>
+<tr><td>18. Currency of the operation</td><td>  </td></tr>
+<tr><td>19. CCI of the programme(s) under which the operation is supported</td><td>  </td></tr>
+<tr><td>20. Priority or priorities of the programme(s) under which the operation is supported</td><td>  </td></tr>
+<tr><td>21. Fund(s) from which the operation is supported</td><td>  </td></tr>
+<tr><td>22. Category of region concerned</td><td>Not applicable to the Cohesion Fund and the EMFF</td></tr>
+<tr><td colspan="2">Data on categories of intervention</td></tr>
+<tr><td>23. Code(s) for intervention field</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>24. Code(s) for form of finance</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>25. Code(s) for territory type</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>26. Code(s) for territorial delivery systems</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>27. Code(s) for thematic objective</td><td>Not applicable to the ESF and the EMFF</td></tr>
+<tr><td>28. Code(s) for ESF secondary theme</td><td>Not applicable to the ERDF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>29. Code(s) for economic activity</td><td>Not applicable to the EMFF</td></tr>
+<tr><td>30. Code(s) for location</td><td>Not applicable to the EMFF</td></tr>
+<tr><td colspan="2">Data on indicators</td></tr>
+<tr><td>31. Name and unique identifier for each of the common and programme specific output indicators relevant for the operation or where required by the Fund-specific rules, name and unique identifier for each common output indicator broken down by gender for participants</td><td>  </td></tr>
+<tr><td>32. Measurement unit for each output indicator</td><td>  </td></tr>
+<tr><td>33. Target value for the output indicator, broken down by gender where applicable</td><td>  </td></tr>
+<tr><td>34. Achievement level of each output indicator for each calendar year, where applicable broken down by gender</td><td>  </td></tr>
+<tr><td>35. Name and unique identifier for each of the common and programme specific result indicators (3) relevant for the operation, or where required by the Fund-specific rules, name and unique identifier for each common result indicator, broken down by gender where applicable</td><td>  </td></tr>
+<tr><td>36. Measurement unit for each result indicator</td><td>  </td></tr>
+<tr><td>37. Baseline value for each result indicator provided</td><td>Not applicable to the ESF</td></tr>
+<tr><td>38. Target value for the result indicator provided, where applicable broken down by gender</td><td>Not applicable to the ERDF and the Cohesion Fund</td></tr>
+<tr><td>39. Measurement unit for each result target and baseline value</td><td>  </td></tr>
+<tr><td>40. Achievement level of each result indicator provided for each calendar year, where applicable broken down by gender</td><td>Not applicable to the ERDF and the Cohesion Fund</td></tr>
+<tr><td colspan="2">Financial data on each operation (in the currency applicable to the operation)</td></tr>
+<tr><td>41. Amount of the total eligible cost of the operation approved in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>42. Amount of the total eligible costs constituting public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013</td><td>  </td></tr>
+<tr><td>43. Amount of public support, as set out in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td colspan="2">Data on payment claims from the beneficiary (in the currency applicable to the operation)</td></tr>
+<tr><td>44. Date of receipt of each payment claim from the beneficiary</td><td>  </td></tr>
+<tr><td>45. Date of each payment to the beneficiary on basis of payment claim</td><td>  </td></tr>
+<tr><td>46.  Amount of eligible expenditure in payment claim forming the basis for each payment to the beneficiary, accompanied, for operations subject to the form of support referred to in point (e) of the first subparagraph of Article 67(1) of Regulation (EU) No 1303/2013, by a reference to the corresponding fulfilled financing condition  </td><td>  </td></tr>
+<tr><td>47. Amount of public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the eligible expenditure forming the basis for each payment</td><td>  </td></tr>
+<tr><td>48. Amount of each payment to the beneficiary on basis of payment claim</td><td>  </td></tr>
+<tr><td>49. Net revenue generated by the operation during its implementation not taken into account in the document setting out the conditions for support and deducted from the eligible expenditure</td><td>  </td></tr>
+<tr><td>50. Start date of on the spot verifications on the operation carried out pursuant to Article 125(5)(b) of Regulation (EU) No 1303/2013</td><td>  </td></tr>
+<tr><td>51. Date of on the spot audits of the operation pursuant to Article 127(1) of Regulation (EU) No 1303/2013 and Article 28 of this Regulation</td><td>  </td></tr>
+<tr><td>52. Body carrying out the audit or verification</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on real costs(in the currency applicable to the operation)</td></tr>
+<tr><td>53. Eligible expenditure declared to the Commission established on the basis of costs actually incurred and paid, together with in-kind contributions and depreciations, where applicable</td><td>  </td></tr>
+<tr><td>54. Public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the eligible expenditure declared to the Commission established on the basis of costs actually reimbursed and paid, together with in-kind contributions and depreciations, where applicable</td><td>  </td></tr>
+<tr><td>55. Contract type if the contract award is subject to the provisions of Directive 2004/17/EC (4) or Directive 2004/18/EC (5) (works/provision of services/provision of goods) or Directive 2014/23/EU of the European Parliament and of the Council (6)</td><td>  </td></tr>
+<tr><td>56. Contract amount if the contract award is subject to the provisions of Directive 2004/17/EC or Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>57. Eligible expenditure incurred and paid based on a contract if the contract is subject to the provisions of Directive 2004/17/EC or Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>58. The procurement procedure used if the contract award is subject to the provisions of Directive 2004/17/EC or Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>59. Name or unique identifier of the contractor if the contract award is subject to the provisions of Directive 2004/17/EC or Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on standard scales of unit costs (amounts in the currency applicable to the operation)</td></tr>
+<tr><td>60. Amount of eligible expenditure declared to the Commission established on the basis of standard scales of unit costs</td><td>  </td></tr>
+<tr><td>61. Public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the eligible expenditure declared to the Commission established on the basis of standard scales of unit costs</td><td>  </td></tr>
+<tr><td>62. Definition of a unit to be used for the purposes of the standard scale of unit costs</td><td>  </td></tr>
+<tr><td>63. Number of units delivered as indicated in the payment claim for each unit item</td><td>  </td></tr>
+<tr><td>64. Unit cost for a single unit for each unit item</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on lump sum payments (amounts in the currency applicable to the operation)</td></tr>
+<tr><td>65. Amount of eligible expenditure declared to the Commission established on the basis of lump sums</td><td>  </td></tr>
+<tr><td>66. Public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the eligible expenditure declared to the Commission established on the basis of lump sums</td><td>  </td></tr>
+<tr><td>67. For each lump sum, deliverables (outputs or results) agreed in the document setting out the conditions for support as the basis for disbursement of lump sum payments</td><td>  </td></tr>
+<tr><td>68. For each lump sum, agreed amount in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on flat rates (in the currency applicable to the operation)</td></tr>
+<tr><td>69. Amount of eligible expenditure declared to the Commission established on the basis of a flat rate</td><td>  </td></tr>
+<tr><td>70. Public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the eligible expenditure declared to the Commission established on the basis of a flat rate</td><td>  </td></tr>
+<tr><td colspan="2">Data on recoveries from the beneficiary</td></tr>
+<tr><td>71. Date of each recovery decision</td><td>  </td></tr>
+<tr><td>72. Amount of public support affected by each recovery decision</td><td>  </td></tr>
+<tr><td>73. Total eligible expenditure affected by each recovery decision</td><td>  </td></tr>
+<tr><td>74. Date of receipt of each amount paid back by the beneficiary following a recovery decision</td><td>  </td></tr>
+<tr><td>75. Amount of public support paid back by the beneficiary following a recovery decision (without interest or penalties)</td><td>  </td></tr>
+<tr><td>76. Total eligible expenditure corresponding to the public support paid back by the beneficiary</td><td>  </td></tr>
+<tr><td>77. Amount of public support irrecoverable following a recovery decision</td><td>  </td></tr>
+<tr><td>78. Total eligible expenditure corresponding to irrecoverable public support</td><td>  </td></tr>
+<tr><td colspan="2">Data on payment applications to the Commission (in EUR)</td></tr>
+<tr><td>79. Date of submission of each payment application including eligible expenditure from the operation</td><td>  </td></tr>
+<tr><td>80.  The total amount of eligible expenditure incurred by the beneficiary and paid in implementing the operation included in each payment application, accompanied, for operations subject to the form of support referred to in point (e) of the first subparagraph of Article 67(1) of Regulation (EU) No 1303/2013, by a reference to the corresponding fulfilled financing condition  </td><td>  </td></tr>
+<tr><td>81. The total amount of public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 of the operation included in each payment application</td><td>  </td></tr>
+<tr><td>82. Where the operation is a financial instrument, the total amount of programme contributions paid to the financial instruments included in each payment application</td><td>  </td></tr>
+<tr><td>83. Where the operation is a financial instrument, the total amount of public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the total amount of programme contributions paid to financial instruments included in each payment application</td><td>  </td></tr>
+<tr><td>84. Where the operation is a financial instrument, the total amount of programme contributions effectively paid as eligible expenditure in the meaning of Article 42(1)(a), (b) and (d) of Regulation (EU) No 1303/2013 included in each payment application</td><td>  </td></tr>
+<tr><td>85. Where the operation is a financial instrument, the total amount of public expenditure corresponding to the total amount of programme contributions effectively paid as eligible expenditure, in the meaning of Article 42(1)(a), (b) and (d) of Regulation (EU) No 1303/2013 included in each payment application</td><td>  </td></tr>
+<tr><td>86. In the case of State aid where Article 131(5) of Regulation (EU) No 1303/2013 applies, the amount paid to the beneficiary under the operation as an advance included in each payment application</td><td>  </td></tr>
+<tr><td>87.  In the case of State aid where Article 131(5) of Regulation (EU) No 1303/2013 applies, the amount of the advance included in a payment application which, within three years of the payment of the advance, has been covered by expenditure paid by the beneficiary or, where Member States have decided that the beneficiary is the body granting the aid pursuant to point (a) of Article 2(10), by the body receiving the aid  </td><td>  </td></tr>
+<tr><td>88.  In the case of State aid where Article 131(5) of Regulation (EU) No 1303/2013 applies, the amount paid to the beneficiary under the operation or, where Member States have decided that the beneficiary is the body granting the aid pursuant to point (a) of Article 2(10), to the body receiving the aid, as an advance included in a payment application which has not been covered by expenditure paid by the beneficiary and for which the three-year period has not yet elapsed  </td><td>  </td></tr>
+<tr><td>89. Amount of eligible expenditure included in each payment application on the basis of Article 14(1) of Regulation (EU) No 1304/2013</td><td>Not applicable to the ERDF, the Cohesion Fund, the EMFF</td></tr>
+<tr><td>90. Amount of public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 included in each payment application on the basis of Article 14(1) of Regulation (EU) No 1304/2013</td><td>Not applicable to the ERDF, the Cohesion Fund, the EMFF</td></tr>
+<tr><td colspan="2">Data on accounts submitted to the Commission under Article 138 of Regulation (EU) No 1303/2013 (in EUR)</td></tr>
+<tr><td>91. The date of submission of each set of accounts including expenditure under the operation</td><td>  </td></tr>
+<tr><td>92. Date of submission of the accounts in which the final expenditure of the operation is included following the completion of the operation (where the total eligible expenditure is EUR 1 000 000 or more (Article 140 of Regulation (EU) No 1303/2013))</td><td>  </td></tr>
+<tr><td>93. Total amount of eligible expenditure of the operation entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>94. Total amount of public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 incurred in implementing the operation corresponding to the total amount of eligible expenditure entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>95. Total amount of payments made to the beneficiary under Article 132(1) of Regulation (EU) No 1303/2013 corresponding to the total amount of eligible expenditure entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>96. Total eligible expenditure of the operation withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>97. Total public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the total eligible expenditure withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>98. Total eligible expenditure of the operation recovered during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>99. Total public expenditure corresponding to the total eligible expenditure of the operation recovered during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>100. Total eligible expenditure of the operation to be recovered as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>101. Total public expenditure of the operation corresponding to the total eligible expenditure to be recovered as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>102. For the operation included in each set of accounts, total eligible amount of expenditure recovered pursuant to Article 71 of Regulation (EU) No 1303/2013 during the accounting year</td><td>  </td></tr>
+<tr><td>103. For the operation included in each set of accounts, public expenditure as defined in Article 2(15) of Regulation (EU) No 1303/2013 corresponding to the total eligible amount of expenditure recovered pursuant to Article 71 of that Regulation during the accounting year</td><td>  </td></tr>
+<tr><td>104. Total eligible amount of expenditure of the operation irrecoverable as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>105. Total public expenditure of the operation corresponding to the total eligible amount of expenditure irrecoverable as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td colspan="2">Data on specific types of expenditure subject to ceilings</td></tr>
+<tr><td>106. Amount of incurred and paid ERDF-type expenditure co-financed by the ESF under Article 98(2) of Regulation (EU) No 1303/2013</td><td>Not applicable to the ERDF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>107. Amount of incurred and paid ESF-type expenditure co-financed by the ERDF under Article 98(2) of Regulation (EU) No 1303/2013</td><td>Not applicable to the ESF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>108. Amount of incurred and paid expenditure outside the programme area but within the Union, under article 70(2) of Regulation (EU) No 1303/2013 and Article 13(2) of Regulation (EU) No 1304/2013</td><td>  </td></tr>
+<tr><td>109. Amount of incurred and paid expenditure outside the Union under Article 13(3) of Regulation (EU) No 1304/2013</td><td>Not applicable to the ERDF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>110. Amount of incurred and paid expenditure outside the Union part of the programme area under Article 20(2) of Regulation (EU) No 1299/2013</td><td>Not applicable to the ESF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td>111. Amount of incurred and paid expenditure for land purchase under Article 69(3)(b) of Regulation (EU) No 1303/2013</td><td>  </td></tr>
+<tr><td>112. Amount of in-kind contributions to the operation under Article 69(1) of Regulation (EU) No 1303/2013</td><td>  </td></tr>
+<tr><td>113. Amount of incurred and paid expenditure in third countries covered by the Instrument for Pre-Accession Assistance or by the European Neighbourhood Instrument for ETC operations</td><td>Not applicable to the ESF, the Cohesion Fund and the EMFF</td></tr>
+<tr><td colspan="2">(1)  In case of the ETC, beneficiaries shall include the lead beneficiary and other beneficiaries.  (2)  Beneficiary includes, where applicable, other bodies incurring expenditure under the operation which is treated as expenditure incurred by the beneficiary.  (3)  For ESF, the common result indicators include the indicators set out in Annex I and II of the Regulation (EU) No 1304/2013.  (4)  Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, 30.4.2004, p. 1).  (5)  Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, 30.4.2004, p. 114).  (6)  Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — Key requirements of management and control systems and their classification with regard to their effective functioning referred to in Article 30
+
+**Table 1**
+
+**Key requirements**
+
+<table>
+<tbody><tr><td colspan="2">Key requirements of management and control system</td><td>Bodies/authorities concerned</td><td>Scope</td></tr>
+<tr><td>1</td><td>Adequate separation of functions and adequate systems for reporting and monitoring in cases where the responsible authority entrusts execution of tasks to another body.</td><td>Managing authority</td><td>Internal control environment</td></tr>
+<tr><td>2</td><td>Appropriate selection of operations.</td><td>Managing authority</td><td rowspan="3">Management and control activities</td></tr>
+<tr><td>3</td><td>Adequate information to beneficiaries on applicable conditions for the selected operations.</td><td>Managing authority</td></tr>
+<tr><td>4</td><td>Adequate management verifications.</td><td>Managing authority</td></tr>
+<tr><td>5</td><td>Effective system in place to ensure that all documents regarding expenditure and audits are held to ensure an adequate audit trail.</td><td>Managing authority</td><td rowspan="2">Management and control activities/Monitoring</td></tr>
+<tr><td>6</td><td>Reliable system for collecting, recording and storing data for monitoring, evaluation, financial management, verification and audit purposes, including links with electronic data exchange systems with beneficiaries.</td><td>Managing authority</td></tr>
+<tr><td>7</td><td>Effective implementation of proportionate anti-fraud measures.</td><td>Managing authority</td><td rowspan="2">Management and control activities</td></tr>
+<tr><td>8</td><td>Appropriate procedures for drawing up the management declaration and annual summary of final audit reports and of controls carried out.</td><td>Managing authority</td></tr>
+<tr><td>9</td><td>Adequate separation of functions and adequate systems for reporting and monitoring in cases where the responsible authority entrusts execution of tasks to another body.</td><td>Certifying authority</td><td>Internal control environment</td></tr>
+<tr><td>10</td><td>Appropriate procedures for drawing up and submitting payment applications.</td><td>Certifying authority</td><td>Management and control activities/Monitoring</td></tr>
+<tr><td>11</td><td>Appropriate computerised records of expenditure declared and of the corresponding public contribution are maintained.</td><td>Certifying authority</td><td rowspan="3">Management and control activities</td></tr>
+<tr><td>12</td><td>Appropriate and complete account of amounts recoverable, recovered and withdrawn.</td><td>Certifying authority</td></tr>
+<tr><td>13</td><td>Appropriate procedures for drawing up and certifying the completeness, accuracy and veracity of the annual accounts.</td><td>Certifying authority</td></tr>
+<tr><td>14</td><td>Adequate separation of functions and adequate systems for ensuring that any other body that carries out audits in accordance with the programme audit strategy has the necessary functional independence and takes account of internationally accepted audit standards.</td><td>Audit authority</td><td>Internal control environment</td></tr>
+<tr><td>15</td><td>Adequate systems audits.</td><td>Audit authority</td><td rowspan="4">Control activities</td></tr>
+<tr><td>16</td><td>Adequate audits of operations.</td><td>Audit authority</td></tr>
+<tr><td>17</td><td>Adequate audits of accounts.</td><td>Audit authority</td></tr>
+<tr><td>18</td><td>Adequate procedures for providing a reliable audit opinion and for preparing the annual control report.</td><td>Audit authority</td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Classification of key requirements for management and control systems with regard to their functioning**
+
+Category 1 Works well. No, or only minor improvement(s) needed.
+
+Category 2 Works. Some improvement(s) needed.
+
+Category 3 Works partially. Substantial improvements needed.
+
+Category 4 Essentially does not work.
+
+( 1 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+
+( 2 ) Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).
+
+( 3 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agriculture policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 4 ) Commission Implementing Regulation (EU) No 215/2014 of 7 March 2014 laying down rules for Implementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund, with regard to methodologies for climate change support, the determination of milestones and targets in the performance framework and the nomenclature of categories of intervention for the European Structural and Investment Funds (OJ L 69, 8.3.2014, p. 65).
+
+( 5 ) Regulation (EU) No 1301/2013 of the European Parliament and of the Council of 17 December 2013 on the European Regional Development Fund and on specific provisions concerning the investment for growth and jobs goal and repealing Regulation (EC) No 1080/2006 (OJ L 347, 20.12.2013, p. 289).
+
+( 6 ) Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
+
+( 7 ) Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (OJ L 347, 20.12.2013, p. 320).
+
+( 8 ) Regulation (EU) No 1301/2013 of the European Parliament and of the Council of 17 December 2013 on the European Regional Development Fund and on specific provisions concerning the investment for growth and jobs goal and repealing Regulation (EC) No 1080/2006 (OJ L 347, 20.12,2013, p. 289).
+
+( 9 ) Regulation (EU) No 1300/2013 of the European Parliament and of the Council of 17 December 2013 on the Cohesion Fund and repealing Council Regulation (EC) No 1084/2006 (OJ L 347, 20.12.2013, p. 281).
+
+( 10 ) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+( 11 ) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment (OJ L 197, 21.7.2001, p. 30).
+
+( 12 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 13 ) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+
+( 14 ) Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment (OJ L 135, 30.5.1991, p. 40).
+
+( 15 ) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3).
+
+( 16 ) Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).
+
+( 17 ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).

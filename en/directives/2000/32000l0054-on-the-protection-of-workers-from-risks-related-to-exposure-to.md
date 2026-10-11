@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(seventh individual directive within the meaning of Article 16(1) of Directive 89/391/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2019/1833 of 24 October 2019 </td><td> L 279</td><td>54</td><td>31.10.2019</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2020/739 of 3 June 2020 </td><td> L 175</td><td>11</td><td>4.6.2020</td></tr>
+</table>
 
 **﻿DIRECTIVE 2000/54/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -489,6 +491,7 @@ The application of preventive vaccination should take account of the code of pra
 
 NB: For biological agents appearing on this list, the entry of the whole genus with the addition of ‘spp.’ refers to other species belonging to this genus that have not specifically been included in the list, but which are known pathogens in humans. See introductory note 3 for further details.
 
+<table>
 <tbody><tr><td>Biological agent</td><td>Classification</td><td>Notes</td></tr>
 <tr><td>Actinomadura madurae</td><td>W</td><td>  </td></tr>
 <tr><td>Actinomadura pelletieri</td><td>2</td><td>  </td></tr>
@@ -689,6 +692,7 @@ NB: For biological agents appearing on this list, the entry of the whole genus w
 <tr><td>Yersinia spp.</td><td>2</td><td>  </td></tr>
 <tr><td colspan="3">(*1)  See paragraph 8 of the introductory notes. </td></tr>
 </tbody>
+</table>
 
 **VIRUSES (*)**
 
@@ -696,6 +700,7 @@ NB: For biological agents appearing on this list, the entry of the whole genus w
 
 NB: Viruses have been listed according to their order (O), family (F) and genus (G).
 
+<table>
 <tbody><tr><td>Biological agent (virus species or indicated taxonomy order) </td><td>Classification</td><td>Notes</td></tr>
 <tr><td>Bunyavirales (O)</td><td>  </td><td>  </td></tr>
 <tr><td>Hantaviridae (F)</td><td>  </td><td>  </td></tr>
@@ -955,9 +960,11 @@ NB: Viruses have been listed according to their order (O), family (F) and genus 
 <tr><td>Hepatitis delta virus ()</td><td>2</td><td>V, D</td></tr>
 <tr><td colspan="3">(*1)  See paragraph 7 of the introductory notes.  (1)  Classification according to WHO Global Action Plan to minimize poliovirus facility-associated risk after type-specific eradication of wild polioviruses and sequential cessation of oral polio vaccine use.  (*2)  See paragraph 8 of the introductory notes.  (2)  Tick-borne encephalitis.  (3)  Hepatitis delta virus is pathogenic in workers only in the presence of simultaneous or secondary infection caused by hepatitis B virus. Vaccination against hepatitis B virus will therefore protect workers who are not affected by hepatitis B virus against hepatitis delta virus.  (4)  Only for types A and B.  (5)  Recommended for work involving direct contact with these agents.  (6)  Two viruses are identified: one a buffalopox type and the other a variant of the Vaccinia virus.  (7)  Variant of cowpox virus.  (8)  Variant of Vaccinia.  (9)  At present there is no evidence of disease in humans caused by the other retroviruses of simian origin. As a precaution containment level 3 is recommended for work with them.  (10)  In line with Article 16(1)(c), non-propagative diagnostic laboratory work involving SARS-CoV-2 should be conducted at a facility using procedures equivalent to at least containment level 2. Propagative work involving SARS-CoV-2 should be conducted at a containment level 3 laboratory with air pressure negative to atmosphere. </td></tr>
 </tbody>
+</table>
 
 **PRION DISEASE AGENTS**
 
+<table>
 <tbody><tr><td>Biological agent</td><td>Classification</td><td>Notes</td></tr>
 <tr><td>Agent of Creutzfeldt-Jakob disease</td><td>3 (*1)</td><td>D ()</td></tr>
 <tr><td>Variant Agent of Creutzfeldt-Jakob disease</td><td>3 (*1)</td><td>D ()</td></tr>
@@ -967,11 +974,13 @@ NB: Viruses have been listed according to their order (O), family (F) and genus 
 <tr><td>Agent of Scrapie</td><td>2</td><td>  </td></tr>
 <tr><td colspan="3">(*1)  See paragraph 8 of the introductory notes.  (1)  Recommended for work involving direct contact with these agents. </td></tr>
 </tbody>
+</table>
 
 **PARASITES**
 
 NB: For biological agents appearing on this list, the entry of the whole genus with the addition of ‘spp.’ refers to other species belonging to this genus that have not specifically been included in the list, but which are known pathogens in humans. See introductory note 3 for further details.
 
+<table>
 <tbody><tr><td>Biological agent</td><td>Classification</td><td>Notes</td></tr>
 <tr><td>Acanthamoeba castellani</td><td>2</td><td>  </td></tr>
 <tr><td>Ancylostoma duodenale</td><td>2</td><td>  </td></tr>
@@ -1066,6 +1075,7 @@ NB: For biological agents appearing on this list, the entry of the whole genus w
 <tr><td>Wuchereria bancrofti</td><td>2</td><td>  </td></tr>
 <tr><td colspan="3">(*1)  See paragraph 8 of the introductory notes. </td></tr>
 </tbody>
+</table>
 
 **FUNGI**
 
@@ -1141,6 +1151,7 @@ The measures contained in this Annex shall be applied according to the nature of
 
 In the table, ‘Recommended’ means that the measures should in principle be applied, unless the results of the assessment referred to in Article 3(2) indicate otherwise.
 
+<table>
 <tbody><tr><td rowspan="2">A. Containment measures</td><td colspan="3">B. Containment levels</td></tr>
 <tr><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="4">Workplace</td></tr>
@@ -1166,6 +1177,7 @@ In the table, ‘Recommended’ means that the measures should in principle be a
 <tr><td>15. An observation window, or, alternative, is to be present, so that occupants can be seen</td><td>Recommended</td><td>Recommended</td><td>Yes</td></tr>
 <tr><td colspan="4">(1)  HEPA: High efficiency particulate air  (2)  Airlock: Entry must be through an airlock which is a chamber isolated from the laboratory. The clean side of the airlock must be separated from the restricted side by changing or showering facilities and preferably by interlocking doors. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 
@@ -1185,6 +1197,7 @@ Groups 2, 3 and 4 biological agents
 
 It may be appropriate to select and combine containment requirements from different categories below on the basis of a risk assessment related to any particular process or part of a process.
 
+<table>
 <tbody><tr><td rowspan="2">A. Containment measures</td><td colspan="3">B. Containment levels</td></tr>
 <tr><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="4">General</td></tr>
@@ -1212,6 +1225,7 @@ It may be appropriate to select and combine containment requirements from differ
 <tr><td>18. Effluent treatment before final discharge</td><td>Inactivated by validated chemical or physical means</td><td>Inactivated by validated chemical or physical means</td><td>Inactivated by validated chemical or physical means</td></tr>
 <tr><td colspan="4">(1)  HEPA: High efficiency particulate air  (2)  Closed system: A system that physically separates the process from the environment (e.g. incubator vats, tanks, etc.).  (3)  Airlock: Entry must be through an airlock which is a chamber isolated from the laboratory. The clean side of the airlock must be separated from the restricted side by changing or showering facilities and preferably by interlocking doors. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VII — RECOMMENDED CODE OF PRACTICE ON VACCINATION — (Article 14(3))
 

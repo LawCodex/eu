@@ -1,0 +1,6435 @@
+---
+title: "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+identifier: "32013R1308"
+eli: "http://data.europa.eu/eli/reg/2013/1308/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-12-17
+entry_into_force: 2013-05-27
+last_amended: 2026-08-18
+consolidated_version: "02013R1308-20260818"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1308-20260818"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007
+
+**REGULATION (EU) No 1308/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 December 2013**
+
+**establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 1310/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 December 2013 </td><td> L 347</td><td>865</td><td>20.12.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2016/791 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 May 2016 </td><td> L 135</td><td>1</td><td>24.5.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/1166 of 17 May 2016 </td><td> L 193</td><td>17</td><td>19.7.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/1226 of 4 May 2016 </td><td> L 202</td><td>5</td><td>28.7.2016</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/2393 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2017 </td><td> L 350</td><td>15</td><td>29.12.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/2220 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 December 2020 </td><td> L 437</td><td>1</td><td>28.12.2020</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/2117 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 2 December 2021 </td><td> L 435</td><td>262</td><td>6.12.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2464 of 17 August 2023 </td><td> L 2464</td><td>1</td><td>8.11.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1143 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1143</td><td>1</td><td>23.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/471 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 471</td><td>1</td><td>26.2.2026</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1739 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2026 </td><td> L 1739</td><td>1</td><td>29.7.2026</td></tr>
+</table>
+
+C1
+
+**REGULATION (EU) No 1308/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 December 2013**
+
+**establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007**
+
+## PART I — INTRODUCTORY PROVISIONS
+
+###### Article 1 — Scope
+
+1\. This Regulation establishes a common organisation of the markets for agricultural products, which means all the products listed in Annex I to the Treaties with the exception of the fishery and aquaculture products as defined in Union legislative acts on the common organisation of the markets in fishery and aquaculture products.
+
+2\. Agricultural products as defined in paragraph 1 shall be divided into the following sectors as listed in the respective parts of Annex I:
+
+(a) cereals, Part I;
+
+(b) rice, Part II;
+
+(c) sugar, Part III;
+
+(d) dried fodder, Part IV;
+
+(e) seeds, Part V;
+
+(f) hops, Part VI;
+
+(g) olive oil and table olives, Part VII;
+
+(h) flax and hemp, Part VIII;
+
+(i) fruit and vegetables, Part IX;
+
+(j) processed fruit and vegetable products, Part X;
+
+(k) bananas, Part XI;
+
+(l) wine, Part XII;
+
+(m) live trees and other plants, bulbs, roots and the like, cut flowers and ornamental foliage, Part XIII;
+
+(n) tobacco, Part XIV;
+
+(o) beef and veal, Part XV;
+
+(p) milk and milk products, Part XVI;
+
+(q) pigmeat, Part XVII;
+
+(r) sheepmeat and goatmeat, Part XVIII;
+
+(s) eggs, Part XIX;
+
+(t) poultrymeat, Part XX;
+
+(u) ethyl alcohol of agricultural origin, Part XXI;
+
+(v) apiculture products, Part XXII;
+
+(w) silkworms, Part XXIII;
+
+(x) other products, Part XXIV.
+
+###### Article 2 — General common agricultural policy (CAP) provisions
+
+Regulation (EU) 2021/2116 of the European Parliament and of the Council ( 1 ) and the provisions adopted pursuant to it shall apply in relation to the measures set out in this Regulation.
+
+###### Article 3 — Definitions
+
+1\. For the purposes of this Regulation, the definitions concerning certain sectors as set out in Annex II shall apply.
+
+3\. The definitions set out in Regulation (EU) 2021/2116 and Regulation (EU) 2021/2115 of the European Parliament and of the Council ( 2 ) apply for the purposes of this Regulation, save as otherwise provided for in this Regulation.
+
+4\. The Commission shall be empowered to adopt delegated acts, in accordance with Article 227, amending the definitions concerning the sectors set out in Annex II to the extent necessary to update the definitions in light of market developments without adding new definitions.
+
+5\. For the purposes of this Regulation:
+
+(a) "less developed regions" means those regions defined as such in point (a) of the first subparagraph of Article 90(2) of Regulation (EU) No 1303/2013 of the European Parliament and of the Council ( 3 ).
+
+(b) "adverse climatic event which can be assimilated to a natural disaster" means weather conditions such as frost, hail, ice, rain or drought which destroy more than 30 % of the average annual production of a given farmer in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and lowest entry.
+
+(c) "Green harvesting" means the total destruction or removal of grape bunches while still in their immature stage, thereby reducing the yield of the relevant area to zero, and excluding non-harvesting comprising of leaving commercial grapes on the plants at the end of the normal production cycle.
+
+###### Article 4 — Adjustments to the Common Customs Tariff nomenclature used for agricultural products
+
+Where necessary in order to take into account amendments to the combined nomenclature, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 adjusting the description of products and references in this Regulation to the headings or subheadings of the combined nomenclature.
+
+###### Article 5 — Conversion rates for rice
+
+The Commission may adopt implementing acts fixing the conversion rates for rice at various stages of processing.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 6 — Marketing years
+
+The following marketing years shall be established:
+
+(a) 1 January to 31 December of a given year for the fruit and vegetables, processed fruit and vegetables and banana sectors;
+
+(b) 1 April to 31 March of the following year for the dried fodder and silkworm sectors;
+
+(c) 1 July to 30 June of the following year for:
+
+(i) the cereals sector;
+
+(ii) the seeds sector;
+
+(iii) the flax and hemp sector;
+
+(iv) the milk and milk products sector;
+
+(d) 1 August to 31 July of the following year for the wine sector;
+
+(e) 1 September to 31 August of the following year for the rice sector and with respect to table olives;
+
+(f) 1 October to 30 September of the following year for the sugar sector and with respect to olive oil.
+
+###### Article 7 — Reference thresholds
+
+1\. The following reference thresholds are fixed:
+
+(a) as regards the cereals sector, EUR 101,31/tonne, related to the wholesale stage for goods delivered to the warehouse, before unloading;
+
+(b) as regards paddy rice, EUR 150/tonne for the standard quality as defined in point A of Annex III, related to the wholesale stage for goods delivered to the warehouse, before unloading;
+
+(c) as regards sugar of standard quality as defined in point B of Annex III, related to unpacked sugar, ex-factory:
+
+(i) for white sugar: EUR 404,4/tonne;
+
+(ii) for raw sugar: EUR 335,2/tonne;
+
+(d) as regards the beef and veal sector, EUR 2 224 /tonne for carcasses of male bovine animals of conformation/fat cover class R3 as laid down in the Union scale for the classification of carcasses of bovine animals aged eight months or more referred to in point A of Annex IV;
+
+(e) as regards the milk and milk products sector:
+
+(i) EUR 246,39 per 100 kg for butter;
+
+(ii) EUR 169,80 per 100 kg for skimmed milk powder;
+
+(f) as regards pigmeat, EUR 1 509,39 /tonne for pig carcasses of a standard quality defined in terms of weight and lean meat content as laid down in the Union scale for the classification of pig carcasses referred to in point B of Annex IV as follows:
+
+(i) carcasses weighing from 60 to less than 120 kg: class E;
+
+(ii) carcasses weighing from 120 to 180 kg: class R;
+
+(g) as regards the olive oil sector:
+
+(i) EUR 1 779 /tonne for extra virgin olive oil;
+
+(ii) EUR 1 710 /tonne for virgin olive oil;
+
+(iii) EUR 1 524 /tonne for lampante olive oil with two degrees of free acidity, this amount being reduced by EUR 36,70/tonne for each additional degree of acidity.
+
+2\. The reference thresholds provided for in paragraph 1 shall be kept under review by the Commission, taking account of objective criteria, notably developments in production, costs of production (particularly inputs), and market trends. When necessary, the reference thresholds shall be updated in accordance with the ordinary legislative procedure in the light of developments in production and markets.
+
+## PART II — INTERNAL MARKET
+
+### TITLE I — MARKET INTERVENTION
+
+#### CHAPTER I — Public intervention and aid for private storage
+
+##### Section 1 — General provisions on public intervention and aid for private storage
+
+###### Article 8 — Scope
+
+This Chapter lays down rules on market intervention concerning:
+
+(a) public intervention, where products are bought in by the competent authorities of the Member States and stored by them until disposed of; and
+
+(b) granting of aid for the storage of products by private operators.
+
+###### Article 9 — Origin of eligible products
+
+Products eligible for buying-in under public intervention or for the granting of aid for private storage shall originate in the Union. In addition, if they come from crops, those crops shall have been harvested in the Union, and if they come from milk, that milk shall have been produced in the Union.
+
+###### Article 10 — Union scales for the classification of carcasses
+
+Union scales for the classification of carcasses shall apply in accordance with, respectively, points A and B of Annex IV in the beef and veal sector as regards carcasses of bovine animals aged eight months or more and in the pigmeat sector as regards pigs other than those that have been used for breeding.
+
+In the sheepmeat and goatmeat sector, Member States may apply a Union scale for the classification of sheep carcasses in accordance with the rules laid down in point C of Annex IV.
+
+##### Section 2 — Public intervention
+
+###### Article 11 — Products eligible for public intervention
+
+Public intervention shall apply in respect of the following products in accordance with the conditions laid down in this Section and any additional requirements and conditions that may be determined by the Commission, by means of delegated acts pursuant to Article 19 and implementing acts pursuant to Article 20:
+
+(a) common wheat, durum wheat, barley and maize;
+
+(b) paddy rice;
+
+(c) fresh or chilled meat of the beef and veal sector falling within CN codes 0201 10 00 and 0201 20 20 to 0201 20 50 ;
+
+(d) butter produced directly and exclusively from pasteurised cream obtained directly and exclusively from cow's milk in an approved undertaking in the Union of a minimum butterfat content, by weight, of 82 % and of a maximum water content, by weight, of 16 %;
+
+(e) skimmed milk powder of top quality made from cow's milk in an approved undertaking in the Union by the spray process, with a minimum protein content of 34,0 % by weight of the fat free dry matter.
+
+###### Article 12 — Public intervention periods
+
+Public intervention shall be available for:
+
+(a) common wheat, from 1 October to 31 May;
+
+(b) durum wheat, barley and maize, throughout the year;
+
+(c) paddy rice, throughout the year;
+
+(d) beef and veal, throughout the year;
+
+(e) butter and skimmed milk powder, from 1 February to 30 September.
+
+###### Article 13 — Opening and closing of public intervention
+
+1\. During the periods referred to in Article 12, public intervention:
+
+(a) shall be open for common wheat, butter and skimmed milk powder;
+
+(b) may be opened by the Commission, by means of implementing acts, for durum wheat, barley, maize and paddy rice (including specific varieties or types of paddy rice), if the market situation so requires. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2);
+
+(c) may be opened for the beef and veal sector by the Commission, by means of implementing acts adopted without applying the procedure referred to in Article 229(2) or (3), if, over a representative period determined pursuant to point (c) of the first paragraph of Article 20 the average market price in a Member State or in a region of a Member State, recorded on the basis of the Union scale for the classification of carcasses of bovine animals referred to in point A of Annex IV, is below 85 % of the reference threshold laid down in point (d) of Article 7(1).
+
+2\. The Commission may adopt implementing acts closing public intervention for the beef and veal sector where, over a representative period determined pursuant to point (c) of the first paragraph of Article 20, the conditions provided for in point (c) of paragraph 1 of this Article are no longer fulfilled. Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+###### Article 14 — Buying-in at a fixed price or tendering
+
+Where public intervention is open pursuant to Article 13(1), measures on fixing buying-in prices for the products referred to in Article 11 as well as, where applicable, measures on quantitative limitations where buying-in is carried out at a fixed price, shall be taken by the Council in accordance with Article 43(3) TFEU.
+
+###### Article 15 — Public intervention price
+
+1\. Public intervention price means:
+
+(a) the price at which products shall be bought in under public intervention where this is done at a fixed price; or
+
+(b) the maximum price at which products eligible for public intervention may be bought in where this is done by tendering.
+
+2\. The measures on fixing the level of the public intervention price, including the amounts of increases and reductions, shall be taken by the Council in accordance with Article 43(3) TFEU.
+
+###### Article 16 — General principles on disposal from public intervention
+
+1\. Disposal of products bought in under public intervention shall take place in such a way as to:
+
+(a) avoid any disturbance of the market,
+
+(b) ensure equal access to goods and equal treatment of purchasers, and
+
+(c) be in compliance with the commitments resulting from international agreements concluded in accordance with the TFEU.
+
+2\. Products bought in under public intervention may be disposed of by making them available for the scheme for food distribution to the most deprived in the Union as set out in the relevant Union legal acts. In such cases, the accounting value of such products shall be at the level of the relevant fixed public intervention price referred to in Article 15(2) of this Regulation.
+
+2a. Member States shall notify to the Commission all the information needed to allow for the monitoring of compliance with the principles laid down in paragraph 1.
+
+3\. Each year the Commission shall publish details of the conditions under which products bought in under public intervention were bought or sold in the previous year. Those details shall include the relevant volumes and the buying and selling prices.
+
+##### Section 3 — Aid for private storage
+
+###### Article 17 — Eligible products
+
+Aid for private storage may be granted in respect of the following products in accordance with the conditions set out in this Section and any further requirements and conditions to be adopted by the Commission, by means of delegated acts pursuant to Article 18(1) or Article 19 and implementing acts pursuant to Article 18(2) or Article 20:
+
+(a) white sugar;
+
+(b) olive oil and table olives;
+
+(c) flax fibre;
+
+(d) fresh or chilled meat of bovine animals aged eight months or more;
+
+(e) butter produced from cream obtained directly and exclusively from cow's milk;
+
+(f) cheese;
+
+(g) skimmed milk powder made from cow's milk;
+
+(h) pigmeat;
+
+(i) sheepmeat and goatmeat.
+
+Point (f) of the first paragraph is restricted to cheese benefiting from a protected designation of origin or from a protected geographical indication under Regulation (EU) No 1151/2012 that is stored beyond the period of maturation laid down in the product specification for the product referred to in Article 7 of that Regulation and/or a period of maturation that contributes to increasing the value of the cheese.
+
+###### Article 18 — Conditions for granting aid
+
+1\. In order to provide for market transparency, the Commission shall, where necessary, be empowered to adopt delegated acts in accordance with Article 227 laying down the conditions under which it may decide to grant private storage aid for the products listed in Article 17, taking into account:
+
+(a) average recorded Union market prices and the reference thresholds and production costs for the products concerned; and/or
+
+(b) the need to respond in a timely way to a particularly difficult market situation or economic developments having a significant negative impact on the margins in the sector.
+
+2\. The Commission may adopt implementing acts
+
+(a) granting private storage aid for the products listed in Article 17, taking into account the conditions referred to in paragraph 1 of this Article;
+
+(b) restricting the granting of private storage aid.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+3\. Measures on fixing the amount of aid for private storage provided for in Article 17 shall be taken by the Council in accordance with Article 43(3) TFEU.
+
+##### Section 4 — Common provisions on public intervention and aid for private storage
+
+###### Article 19 — Delegated powers
+
+1\. In order to ensure that products bought in under public intervention or subject to aid for private storage are suitable for long-term storage and are of sound, fair and marketable quality, and in order to take into account the specific characteristics of the different sectors for the purposes of ensuring the cost-effective operation of public intervention and private storage, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down the requirements and conditions to be met by those products, in addition to the requirements laid down in this Regulation. Those requirements and conditions shall aim to guarantee, for the products bought in and stored:
+
+(a) their quality with respect to quality parameters, quality groups, quality grades, categories, product characteristics and age;
+
+(b) their eligibility with respect to quantities, packaging including labelling, preservation, previous storage contracts, approval of undertakings and the stage of the products to which the public intervention price and the aid for private storage applies.
+
+2\. In order to take account of the specific characteristics of the cereals and paddy rice sectors, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down the quality criteria as regards both buying-in and sales of common wheat, durum wheat, barley, maize and paddy rice.
+
+3\. In order to ensure appropriate storage capacity and the efficiency of the public intervention system in terms of cost-effectiveness, distribution and access for operators, and in order to maintain the quality of products bought in under public intervention for their disposal at the end of the storage period, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+
+(a) the requirements to be fulfilled by storage places for all products subject to public intervention;
+
+(b) rules on the storage of products inside and outside the Member State responsible for them and for the treatment of such products as regards customs duties and any other amounts to be granted or levied under the CAP.
+
+4\. In order to ensure that aid for private storage has the desired effect on the market, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+
+(a) rules and conditions applicable where the quantity stored is lower than the contracted quantity;
+
+(b) the conditions for granting an advance payment of such aid;
+
+(c) the conditions under which it may be decided that products covered by private storage contracts may be re-marketed or disposed of.
+
+5\. In order to ensure the proper functioning of the public intervention and private storage systems, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+
+(a) providing for the use of tendering procedures guaranteeing equal access to goods and equal treatment of operators;
+
+(b) laying down the additional conditions to be fulfilled by operators in order to facilitate the effective management and control of the system for Member States and operators;
+
+(c) laying down the requirement for operators to lodge a security guaranteeing the fulfilment of their obligations.
+
+6\. In order to take account of technical developments and of the needs of sectors referred to in Article 10, as well as of the need to standardise the presentation of the different products for the purposes of improving market transparency, price recording and the application of the market intervention measures, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+
+(a) adapting and updating the provisions of Annex IV on the Union scales for the classification, identification and presentation of carcasses;
+
+(b) laying down supplementary provisions relating to classification, including by qualified classifiers, to grading, including by automated grading techniques, to identification, weighing and marking of carcasses and to the calculation of average Union prices and to the weighting coefficients used in the calculation of those prices;
+
+(c) laying down, in the beef and veal sector, derogations from provisions and specific derogations which may be granted by Member States to slaughterhouses in which few bovine animals are slaughtered, and additional provisions for the products concerned, including regarding the classes of conformation and fat cover and, in sheepmeat sector, further provisions as regards weight, colour of meat and fat cover and the criteria for the classification of light lambs;
+
+(d) providing Member States with the authorisation not to apply the grading scale for classification of pig carcasses and the authorisation to use assessment criteria in addition to weight and estimated lean-meat content, or laying down derogations from that scale.
+
+###### Article 20 — Implementing powers in accordance with the examination procedure
+
+The Commission shall adopt implementing acts laying down the measures necessary for the uniform application of this Chapter. Those measures may, in particular, concern the following:
+
+(a) the costs payable by the operator where products delivered for public intervention do not meet the minimum quality requirements;
+
+(b) the fixing of minimum storage capacity for intervention storage places;
+
+(c) the representative periods, markets, and market prices necessary for the application of this Chapter;
+
+(d) the delivery of the products to be bought in under public intervention, the transport costs to be borne by the offerer, the taking over of the products by paying agencies and the payment;
+
+(e) the different operations connected with the boning process for the beef and veal sector;
+
+(f) the practical arrangements for the packaging, marketing and labelling of products;
+
+(g) the procedures for the approval of undertakings producing butter and skimmed milk powder for the purposes of this Chapter;
+
+(h) any authorisation of storage outside the territory of the Member State where the products have been bought in and stored;
+
+(i) the sale or disposal of products bought in under public intervention, regarding, in particular, selling prices, the conditions for removal from storage, the subsequent use or destination of products released, including procedures relating to products made available for use in the scheme referred to in Article 16(2), including transfers between Member States;
+
+(j) in respect of products bought in under public intervention, the provisions relating to the possibility for Member States to sell, at their own responsibility, small quantities remaining in storage or quantities which may no longer be repackaged or which have deteriorated;
+
+(k) in respect of private storage, the conclusion and the content of contracts between the competent authority of the Member State and the applicants;
+
+(l) the placing and keeping of products in private storage and their removal from storage;
+
+(m) the duration of the private storage period and the provisions according to which such periods, once specified in the contracts, may be curtailed or extended;
+
+(n) the procedures to be followed for buying-in at a fixed price, including the procedures for, and the amount of, the security to be lodged, or for the granting of aid fixed in advance for private storage;
+
+(o) the use of tendering procedures, both for public intervention and for private storage, in particular as regards:
+
+(i) the submission of offers or tenders and the minimum quantity for an application or submission;
+
+(ii) the procedures for, and the amount of, the security to be lodged; and
+
+(iii) the selection of offers ensuring that preference is given to those which are most favourable to the Union whilst permitting that the award of a contract does not necessarily ensue;
+
+(p) the implementation of Union scales for the classification of beef, pig and sheep carcasses;
+
+(q) a different presentation of carcasses and half carcasses than the one laid down in point A.IV of Annex IV for the purpose of establishing market prices;
+
+(r) the corrective factors to be applied by Member States to be used for a different presentation of beef and sheep carcasses where the reference presentation is not used;
+
+(s) the practical arrangements for the marking of classified carcasses and for the calculation by the Commission of the weighted average Union price for beef, pig and sheep carcasses;
+
+(t) the authorisation of Member States to provide, with regard to pigs slaughtered in their territory, for a different presentation of pig carcasses than the one laid down in point B.III of Annex IV, if one of the following conditions is fulfilled:
+
+(i) normal commercial practice in their territory differs from the standard presentation defined in the first subparagraph of point B.III of Annex IV;
+
+(ii) technical requirements warrant it;
+
+(iii) carcasses are dehided in a uniform manner;
+
+(u) the provisions for the on-thespot review of the application of classification of carcasses in Member States by a Union committee composed of experts from the Commission and experts appointed by Member States in order to ensure the accuracy and reliability of the classification of carcasses. Those provisions shall provide for the Union to bear the costs resulting from the review activity.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 21 — Other implementing powers
+
+The Commission shall adopt implementing acts in order to authorise Member States to use for lambs of less than 13 kg carcass weight, by way of derogation from point C.III of Annex IV, the following criteria for classification:
+
+(a) carcass weight;
+
+(b) colour of meat;
+
+(c) fat cover.
+
+Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+#### CHAPTER II — Aid for the supply of fruit and vegetables and of milk and milk products in educational establishments
+
+###### Article 22 — Target group
+
+The aid scheme intended to improve the distribution of agricultural products and improving children's eating habits is aimed at children who regularly attend nurseries, pre-schools or primary or secondary-level educational establishments which are administered or recognised by the competent authorities of Member States.
+
+###### Article 23 — Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs
+
+1\. Union aid shall be granted in respect of children in the educational establishments referred to in Article 22:
+
+(a) for the supply and distribution of eligible products referred to in paragraphs 3, 4 and 5 of this Article;
+
+(b) for accompanying educational measures; and
+
+(c) to cover certain related costs linked to equipment, publicity, monitoring and evaluation, and, insofar as those costs are not covered by point (a) of this subparagraph, logistics and distribution.
+
+The Council shall, in accordance with Article 43(3) TFEU, lay down limits for the proportion of Union aid covering measures and costs referred to in points (b) and (c) of the first subparagraph of this paragraph.
+
+2\. For the purposes of this Section:
+
+(a) ‘school fruit and vegetables’ means the products referred to in point (a) of paragraph 3 and point (a) of paragraph 4;
+
+(b) ‘school milk’ means the products referred to in point (b) of paragraph 3 and point (b) of paragraph 4, as well as the products referred to in Annex V.
+
+3\. Member States wishing to participate in the aid scheme established pursuant to paragraph 1 (‘the school scheme’) and requesting the corresponding Union aid shall, taking into account national circumstances, prioritise the distribution of products of either or both of the following groups:
+
+(a) fruit and vegetables and fresh products of the banana sector;
+
+(b) drinking milk and lactose-free versions thereof.
+
+4\. Notwithstanding paragraph 3, in order to promote the consumption of specific products and/or to respond to particular nutritional needs of children in their territory, Member States may provide for the distribution of products of either or both of the following groups:
+
+(a) processed fruit and vegetable products, in addition to the products referred to in point (a) of paragraph 3;
+
+(b) cheese, curd, yoghurt and other fermented or acidified milk products without added flavouring, fruit, nuts or cocoa, in addition to the products referred to in point (b) of paragraph 3.
+
+5\. In cases where Member States consider it necessary for the attainment of the objectives of the school scheme and the goals stated in the strategies referred to in paragraph 8, they may supplement the distribution of products referred to in paragraphs 3 and 4 with products listed in Annex V.
+
+In such cases, the Union aid shall be paid only for the milk component of the distributed product. That milk component shall not be lower than 90 % by weight for products of Category I of Annex V and 75 % by weight for products of Category II of Annex V.
+
+The level of Union aid for the milk component shall be fixed by the Council in accordance with Article 43(3) TFEU.
+
+6\. Products distributed under the school scheme shall not contain any of the following:
+
+(a) added sugars;
+
+(b) added salt;
+
+(c) added fat;
+
+(d) added sweeteners;
+
+(e) added artificial flavour enhancers E 620 to E 650 as defined in Regulation (EC) No 1333/2008 of the European Parliament and of the Council ( 4 ).
+
+Notwithstanding the first subparagraph of this paragraph, any Member State may, after obtaining the appropriate authorisation from its national authorities responsible for health and nutrition in accordance with its national procedures, decide that eligible products referred to in paragraphs 4 and 5 may contain limited quantities of added sugar, added salt and/or added fat.
+
+7\. In addition to products referred to in paragraphs 3, 4 and 5 of this Article, Member States may provide for the inclusion of other agricultural products under the accompanying educational measures, in particular those listed in points (g) and (v) of Article 1(2).
+
+8\. As a condition for its participation in the school scheme, a Member State shall draw up, prior to its participation in the school scheme, and subsequently every six years, at national or regional level, a strategy for the implementation of the scheme. The strategy may be amended by the authority responsible for drawing it up at national or regional level, in particular in the light of monitoring and evaluation and of the results achieved. The strategy shall at least identify the needs to be met, the ranking of the needs in terms of priorities, the target group, the results expected to be achieved and, if available, the quantified targets to be attained in relation to the initial situation, and lay down the most appropriate instruments and actions for attaining those objectives.
+
+The strategy may contain specific elements relating to the implementation of the school scheme, including those intended to simplify its management.
+
+9\. Member States shall determine in their strategies the list of all the products to be supplied under the school scheme either through regular distribution or under accompanying educational measures. Without prejudice to paragraph 6, they shall also ensure the appropriate involvement of their national authorities responsible for health and nutrition in drawing up that list, or the appropriate authorisation by those authorities of that list, in accordance with national procedures.
+
+10\. Member States shall, in order to make the school scheme effective, also provide for accompanying educational measures, which may include, inter alia, measures and activities aimed at reconnecting children with agriculture through activities, such as farm visits, and the distribution of a wider variety of agricultural products as referred to in paragraph 7. Those measures may also be designed to educate children about related issues, such as healthy eating habits, local food chains, organic farming, sustainable production or combating food waste.
+
+11\. Member States shall choose the products to be featured in distribution or to be included in accompanying educational measures on the basis of objective criteria which shall include one or more of the following: health and environmental considerations, seasonality, variety and the availability of local or regional produce, giving priority to the extent practicable to products originating in the Union. Member States may encourage in particular local or regional purchasing, organic products, short supply chains or environmental benefits, including sustainable packaging, and, if appropriate, products recognised under the quality schemes established by Regulation (EU) No 1151/2012.
+
+Member States may consider, in their strategies, prioritising sustainability and fair-trade considerations.
+
+###### Article 23a — Financing provisions
+
+1\. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 220 804 135 per school year. Within that overall limit, the aid shall not exceed:
+
+(a) for school fruit and vegetables: EUR 130 608 466 per school year;
+
+(b) for school milk: EUR 90 195 669 per school year.
+
+2\. The aid referred to in paragraph 1 shall be allocated to each Member State taking into account the following:
+
+(a) the number of six- to ten-year-old children in the Member State concerned;
+
+(b) the degree of development of the regions within the Member State concerned so as to ensure that higher aid is allocated to less developed regions and to the smaller Aegean Islands within the meaning of Article 1(2) of Regulation (EU) No 229/2013; and
+
+(c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
+
+The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
+
+The allocations for school milk resulting from the application of the criteria laid down in this paragraph shall ensure that all Member States are entitled to receive at least a minimum amount of Union aid per child in the age group referred to in point (a) of the first subparagraph. —————
+
+Measures on the fixing of indicative and definitive allocations and on reallocation of Union aid for school fruit and vegetables and for school milk shall be taken by the Council in accordance with Article 43(3) TFEU.
+
+3\. Member States wishing to participate in the school scheme shall submit every year their request for Union aid, specifying the amount requested for the school fruit and vegetables and the amount requested for the school milk that they wish to distribute.
+
+4\. Without exceeding the overall limit of EUR 220 804 135 laid down in paragraph 1, any Member State may transfer once per school year up to 20 % of either one or the other of its indicative allocations.
+
+That percentage may be increased up to 25 % for the Member States with outermost regions listed in Article 349 TFEU and in other duly justified cases, such as where a Member State needs to address a specific market situation in the sector covered by the school scheme, its particular concerns regarding low consumption of either one of the groups of products, or other societal changes.
+
+Transfers may be made either:
+
+(a) prior to the fixing of definitive allocations for the following school year, between the Member State's indicative allocations; or
+
+(b) after the start of school year, between the Member State's definitive allocations, where such allocations have been set for the Member State in question.
+
+The transfers referred to in point (a) of the third subparagraph may not be made from the indicative allocation for the group of products for which the Member State concerned requests an amount exceeding its indicative allocation. Member States shall notify to the Commission the amount of any transfers between indicative allocations.
+
+5\. The school scheme shall be without prejudice to any separate national school schemes which are compatible with Union law. Union aid provided for in Article 23 may be used to extend the scope or effectiveness of any existing national school schemes or school distribution schemes providing school fruit and vegetables and school milk but shall not replace funding for those existing national schemes, except for free distribution of meals to children in educational establishments. If a Member State decides to extend the scope of an existing national school scheme or to make it more effective by requesting Union aid, it shall indicate in the strategy referred to in Article 23(8) how this will be achieved.
+
+6\. Member States may, in addition to Union aid, grant national aid for the financing of the school scheme.
+
+Member States may finance that aid by means of a levy on the sector concerned or by means of any other contribution from the private sector.
+
+7\. The Union may also finance, pursuant to Article 6 of Regulation (EU) No 1306/2013, information, publicity, monitoring and evaluation measures relating to the school scheme, including measures to raise public awareness of the scheme's objectives, and related networking measures aimed at exchanging experience and best practices in order to facilitate the implementation and management of the scheme.
+
+The Commission may develop, in accordance with Article 24(4) of this Regulation, a common identifier or graphic elements to enhance the visibility of the school scheme.
+
+8\. Member States participating in the school scheme shall publicise, at school premises or other relevant places, their involvement in the scheme and the fact that it is subsidised by the Union. Member States may use any suitable publicity tools, which may include posters, dedicated websites, informative graphic material, and information and awareness-raising campaigns. Member States shall ensure the added value and the visibility of the Union school scheme in relation to the provision of other meals in educational establishments.
+
+###### Article 24 — Delegated powers
+
+1\. In order to promote the healthy eating habits of children and to ensure that the aid under the school scheme is aimed at children in the target group referred to in Article 22, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on:
+
+(a) the additional criteria related to the eligibility of the target group referred to in Article 22;
+
+(b) the approval and selection of aid applicants by Member States;
+
+(c) the drawing up of the national or regional strategies and on the accompanying educational measures.
+
+2\. In order to ensure the efficient and targeted use of Union funds and to facilitate the implementation of the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+
+(a) the identification of costs and measures that are eligible for Union aid;
+
+(b) the obligation for Member States to monitor and evaluate the effectiveness of their school scheme.
+
+3\. In order to take account of scientific developments, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 in order to supplement the list of artificial flavour-enhancers referred to in point (e) of the first subparagraph of Article 23(6).
+
+In order to ensure that products distributed in accordance with Article 23(3), (4) and (5) meet the objectives of the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 in order to define the maximum levels for added sugar, added salt and added fat which may be allowed by Member States under the second subparagraph of Article 23(6) and which are technically necessary to prepare or manufacture processed products.
+
+4\. In order to promote awareness of the school scheme and to increase the visibility of Union aid, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 requiring the Member States participating in the school scheme to clearly publicise the fact that they are receiving Union support to implement the scheme, including in relation to:
+
+(a) if appropriate, the establishment of specific criteria regarding the presentation, composition, size and design of the common identifier or graphic elements;
+
+(b) the specific criteria related to the use of publicity tools.
+
+5\. In order to ensure the added value and the visibility of the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 in respect of the rules concerning the distribution of products in relation to the provision of other meals in educational establishments.
+
+6\. Taking into account the need to ensure that the Union aid is reflected in the price at which the products are available under the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 requiring Member States to explain in their strategies how this will be achieved.
+
+###### Article 25 — Implementing powers in accordance with the examination procedure
+
+The Commission may, by means of implementing acts, adopt the measures necessary for the application of this Section, including those concerning:
+
+(a) the information to be contained in Member States' strategies;
+
+(b) the aid applications and payments, including the simplification of procedures resulting from the common framework for the school scheme;
+
+(c) the methods of publicising, and networking measures in respect of, the school scheme;
+
+(d) the submission, format and content of annual requests for aid, monitoring and evaluation reports by Member States participating in the school scheme;
+
+(e) the application of Article 23a(4), including on the deadlines for the transfers and on the submission, format and content of transfer notifications.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+#### CHAPTER III — Scheme of authorisations for vine plantings
+
+###### Article 61 — Duration
+
+The scheme of authorisations for vine plantings established in this Chapter shall apply from 1 January 2016, with a review to be undertaken by the Commission in 2028 and every ten years thereafter to evaluate the operation of the scheme. The Commission may, if appropriate, make proposals.
+
+##### Section 1 — Management of the scheme of authorisations for vine plantings
+
+###### Article 62 — Authorisations
+
+1\. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+
+2\. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+
+3\. Authorisations granted in accordance with Article 64 shall be valid until the last day of the third marketing year following the marketing year in which they were granted. A producer who has not used an authorisation granted in accordance with Articles 64 and 68 during its period of validity shall be subject to the administrative penalties referred to in Article 90a(4).
+
+By way of derogation from the first subparagraph of this paragraph, producers who hold a valid authorisation granted in accordance with Articles 64 and 68 before 1 January 2025 shall not be subject to the administrative penalties referred to in Article 90a(4) provided that they inform the competent authorities before the date of expiry of their authorisation, and at the latest by 31 December 2026, that they do not intend to make use of it.
+
+Where a well-determined area is gravely affected by one or both of the cases of force majeure or exceptional circumstances referred to in Article 3(1), points (a) and (c), of Regulation (EU) 2021/2116, the Member State concerned may extend the validity of the authorisations granted in accordance with Article 64 of this Regulation to be used in that area that are due to expire by the end of the marketing year in which one or both of those cases of force majeure or exceptional circumstances occur by up to twelve months. Planting authorisations may be extended under this subparagraph only once. The Member State concerned shall inform the holders of every authorisation concerned that its validity has been extended. Where, by 31 December of the marketing year following the one in which one or both of the cases of force majeure or exceptional circumstances occurred, the holder of a planting authorisation informs the competent authorities of the Member State that it renounces the authorisation, the administrative penalties provided for in the first subparagraph shall not apply.
+
+By way of derogation from the first subparagraph, the competent authorities of the Member State concerned may waive the administrative penalties provided for in Article 90a(4) of this Regulation upon a justified request from the holder of a planting authorisation granted in accordance with Articles 64 and 68 of this Regulation affected by a case of force majeure or exceptional circumstances referred to in Article 3(1) of Regulation (EU) 2021/2116.
+
+Authorisations granted in accordance with Article 66 on or after 18 March 2026 and authorisations granted in accordance with that Article which are valid on that day shall be valid until the last day of the eighth marketing year following the marketing year in which they were granted. Producers who have not used an authorisation granted in accordance with Article 66 during its period of validity shall not be subject to the administrative penalties referred to in Article 90a(4).
+
+Authorisations covered by the transitional provisions of Article 68 shall expire on the last day of the last marketing year of their validity.
+
+4\. This Chapter shall not apply to the planting or replanting of areas intended for experimental purposes, for setting-up collections of vine varieties intended to preserve genetic resources or for graft nurseries, to areas whose wine or vine products are intended solely for the consumption by the wine-grower’s household or to areas to be newly planted as a result of compulsory purchases in the public interest under national law.
+
+5\. Member States may apply this Chapter to areas producing wine suitable for producing wine spirits with a geographical indication as registered in accordance with Annex III to Regulation (EC) No 110/2008 of the European Parliament and of the Council ( 5 ). For the purposes of this Chapter, those areas may be treated as areas where wines with a protected designation of origin or protected geographical indication may be produced.
+
+6\. Member States may require abandoned vineyards to be grubbed up for health and phytosanitary reasons.
+
+###### Article 63 — Safeguard mechanism for new plantings
+
+1\. Member States shall make available each year authorisations for new plantings corresponding to either:
+
+(a) 1 % of the total area actually planted with vines in their territory, as measured on 31 July of the previous year; or
+
+(b) 1 % of an area comprising the area actually planted with vines in their territory, as measured on 31 July 2015, and the area covered by planting rights granted to producers in their territory in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 that were available for conversion into authorisations on 1 January 2016, as referred to in Article 68 of this Regulation.
+
+2\. Member States may:
+
+(a) apply at national level a lower percentage than the percentage set out in paragraph 1;
+
+(b) limit the issuing of authorisations, or not issue authorisations, for new plantings at regional level, for specific areas eligible for the production of wines with a protected designation of origin, for areas eligible for the production of wines with a protected geographical indication, or for areas without a geographical indication;
+
+(c) limit the issuing of authorisations, or not issue authorisations, for new plantings at regional level, for specific areas or for vines producing specific types of wine, where national or Union measures concerning distillation of wine, green harvesting or grubbing up have been implemented in justified cases of crisis.
+
+Member States that limit the issuing of authorisations for new plantings at regional level in accordance with the first subparagraph, point (b) or (c), may require such authorisations to be used in the regions concerned.
+
+3\. Any of the limitations referred to in paragraph 2 that are applied shall contribute to the management of the production potential. They shall be justified on one or more of the following specific grounds:
+
+(a) the need to avoid a demonstrated risk of oversupply of wine products in relation to market prospects for those products, where the limitations do not exceed what is necessary to satisfy that need;
+
+(b) the need to avoid a demonstrated risk of significant devaluation or improper use by third parties seeking to profit from the reputation of a particular protected designation of origin or a protected geographical indication;
+
+(c) the wish to contribute to the development of the products in question while preserving the quality of those products.
+
+3a. Member States may take any regulatory measures necessary to prevent circumvention by operators of the restrictive measures taken pursuant to paragraphs 2 and 3.
+
+4\. Member States shall make public any decisions adopted pursuant to paragraph 2, which shall be duly justified. Member States shall notify the Commission forthwith of those decisions and justifications.
+
+###### Article 64 — Granting of authorisations for new plantings
+
+1\. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+
+Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria at national or regional level:
+
+(a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+
+(b) the applicant shall possess adequate occupational skills and competence;
+
+(c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+
+(ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+
+(d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner;
+
+(e) in regions where the Member State has decided to limit the granting of new planting authorisations pursuant to Article 63(2), point (c), the applicant shall comply with the eligibility criteria established for the purpose of avoiding excessive yields in the new vineyards to be planted.
+
+2\. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area for which they have requested the authorisation. Such granting may establish a minimum and/or a maximum area by applicant and also be partially or completely made in accordance with one or more of the following objective and non-discriminatory priority criteria that may apply at national or regional level.
+
+(a) producers who are setting up vine plantings for the first time, and who are established as the head of the holding (new entrants);
+
+(b) areas where vineyards contribute to the preservation of the environment or the conservation of the genetic resources of vines;
+
+(c) areas to be newly planted in the framework of land consolidation projects;
+
+(d) areas facing natural or other specific constraints;
+
+(e) the sustainability of projects of development or replantations on the basis of an economic evaluation;
+
+(f) areas to be newly planted which contribute to increasing the production of holdings of the wine-growing sector that show increased cost-efficiency or competitiveness or presence on the markets;
+
+(g) projects with the potential to improve products with geographical indications or their quality;
+
+(h) areas to be newly planted in the framework of increasing the size of small and medium-sized vine holdings;
+
+2a. If the Member State decides to apply one or more of the criteria referred to in paragraph 2, the Member State may add the additional condition that the applicant shall be a natural person who is no more than 40 years of age in the year of submission of the application.
+
+2b. Member States may take any necessary regulatory measures to prevent the circumvention by operators of the restrictive criteria that they apply pursuant to paragraphs 1, 2 and 2a.
+
+3\. Member States shall make public the criteria referred to in paragraphs 1, 2 and 2a that they apply and shall notify them forthwith to the Commission.
+
+###### Article 65 — Role of professional organisations
+
+When applying Article 63(2), a Member State may take into account recommendations presented by recognised professional organisations operating in the wine sector referred to in Articles 152, 156 and 157 of this Regulation, by producer groups referred to in Articles 32 and 33 of Regulation (EU) 2024/1143 or by other types of professional organisations recognised on the basis of that Member State’s legislation, provided that those recommendations are preceded by an agreement entered into by the relevant representative parties in the reference geographical area.
+
+The recommendations shall be made for no more than three years.
+
+###### Article 66 — Replantings
+
+1\. Member States shall automatically grant an authorisation to producers who have grubbed up an area planted with vines as from 1 January 2016 and submitted an application. Such authorisation shall correspond to the equivalent of that area in terms of pure crop. The areas covered by such authorisations shall not be counted for the purposes of Article 63.
+
+By way of derogation from the first subparagraph, producers who have grubbed up an area planted with vines in accordance with Article 216(1) of this Regulation or Article 58(1), first subparagraph, point (o), of Regulation (EU) 2021/2115 shall not be entitled to apply for and to receive a replanting authorisation for that area.
+
+2\. Member States may grant the authorisation referred to in paragraph 1 to producers undertaking to grub up an area planted with vines if the grubbing up of the pledged area is carried out at the latest by the end of the fourth year from the date on which new vines have been planted.
+
+3\. The authorisation referred to in paragraph 1 of this Article shall be used on the same holding on which the grubbing up was undertaken. Member States may, on the basis of a recommendation from a recognised professional organisation referred to in Articles 152, 156 and 157 of this Regulation or a producer group referred to in Articles 32 and 33 of Regulation (EU) 2024/1143, restrict in areas eligible for the production of wines with protected designation of origin or protected geographical indications the use of replanting authorisations resulting from the grubbing up of vineyards outside that area.
+
+3a. A Member State may make its granting of the replanting authorisations referred to in paragraph 1 subject to one or more of the following conditions:
+
+(a) the authorisation shall be used in the same geographical area, defined by the Member State, in which the relevant grubbed up vines were located, where maintaining viticulture in that geographical area is justified by socio-economic or environmental reasons;
+
+(b) only vines producing specific types of wine and production methods not identified by the Member State as significantly increasing the average yield of the production region, or only production methods traditional to that region shall be used where the relevant grubbed up area is located in a production region that the Member State has qualified as affected by a structural market imbalance;
+
+(c) the authorisation shall not be used in a different production region from the one in which the grubbed up area is located where the Member State has qualified that different production region as affected by a structural market imbalance;
+
+(d) Member States may set criteria for the allocation and management of replanting authorisations in order to avoid increasing vineyard areas and wine production in regions prone to oversupply in which crisis measures have been applied, as well as in order to take account of market developments, in accordance with their national or regional sectorial strategies.
+
+The conditions referred to in points (b), (c) and (d) of the second subparagraph shall not apply to replanting authorisations in areas characterised by the exceptional difficulty of cultivation due to structural and morphological factors referred to in Part D of Annex II to Commission Delegated Regulation (EU) 2018/273 ( 6 ).
+
+4\. This Article shall not apply in the case of grubbing up of non-authorised plantings.
+
+###### Article 67 — De minimis
+
+1\. The scheme of authorisations for vine plantings established in this Chapter shall not apply in Member States where the transitional planting right regime established in Subsection II of Section IVa of Chapter III of Title I of Part II of Regulation (EC) No 1234/2007 did not apply on 31 December 2007.
+
+2\. Member States to which the regime referred to in paragraph 1 applied on 31 December 2007, and in respect of which the areas currently planted with vines do not exceed 10 000 hectares, may decide not to implement the scheme of authorisations for vine plantings established in this Chapter.
+
+###### Article 68 — Transitional provisions
+
+1\. Planting rights granted to producers in accordance with Article 85h, Article 85i or Article 85k of Regulation (EC) No 1234/2007 before 31 December 2015 which have not been used by those producers and are still valid by that date may be converted into authorisations under this Chapter as from 1 January 2016.
+
+Such conversion shall take place upon a request to be submitted by those producers before 31 December 2015. Member States may decide to allow producers to submit such a request to convert rights into authorisations until 31 December 2022.
+
+2\. Authorisations granted pursuant to paragraph 1 shall have the same period of validity as the planting rights referred to in paragraph 1. If those authorisations are not used, they shall expire at the latest by 31 December 2018, or, where a Member State has taken the decision referred to in the second subparagraph of paragraph 1, at the latest by 31 December 2025.
+
+2a. From 1 January 2023, an area equivalent to the area covered by planting rights that were eligible for conversion into planting authorisations on 31 December 2022 but have not yet been converted into authorisations in accordance to paragraph 1, shall remain at the disposal of the Member States concerned, which may grant authorisations in accordance with Article 64 at the latest by 31 December 2025.
+
+3\. The areas covered by the authorisations granted pursuant to paragraphs 1 and 2a of this Article shall not be counted for the purposes of Article 63.
+
+###### Article 69 — Delegated powers
+
+The Commission is empowered to adopt delegated acts in accordance with Article 227 to supplement this Regulation by laying down additional rules concerning:
+
+(a) the conditions for the application of the exemption, referred to in Article 62(4);
+
+(b) the conditions for the grubbing up of abandoned vineyards, referred to in Article 62(6);
+
+(c) the rules relating to the criteria, referred to in Article 64(1) and (2);
+
+(d) the co-existence of vines that the producer has undertaken to grub up with newly planted vines pursuant to Article 66(2);
+
+(e) the grounds for Member State decisions under Article 66(3) and (3a).
+
+The Commission is empowered to adopt delegated acts in accordance with Article 227 to amend this Regulation by adding additional criteria to those listed in Article 64(1) and (2).
+
+###### Article 70 — Implementing powers in accordance with the examination procedure
+
+The Commission may adopt implementing acts laying down the necessary measures in relation to:
+
+(a) the procedures for granting the authorisations;
+
+(b) the records to be kept by the Member States and notifications to be sent to the Commission.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+##### Section 2 — Control of the scheme of authorisations for vine plantings
+
+###### Article 71 — Non-authorised plantings
+
+1\. Producers shall grub up at their own cost areas planted with vines without an authorisation.
+
+2\. If producers do not grub up within four months from the date on which they are notified of the irregularity, Member States shall ensure the grubbing up of such non-authorised plantings within two years following the expiry of the four-month period. The relevant cost shall be charged to the producers concerned.
+
+3\. Member States shall communicate to the Commission by 1 March each year the total size of the areas ascertained as planted with vines without an authorisation after 1 January 2016, as well as the areas grubbed up in accordance with paragraphs 1 and 2.
+
+4\. A producer who has not complied with the obligation laid down in paragraph 1 of this Article shall be subject to penalties to be laid down in accordance with Article 64 of Regulation (EU) No 1306/2013.
+
+5\. Areas planted with vines without an authorisation shall not benefit from any national or Union support measures.
+
+###### Article 72 — Implementing powers in accordance with the examination procedure
+
+The Commission may adopt implementing acts laying down necessary measures setting out the details of the communication requirements that Member States are to comply with, including possible reductions of the budgetary limits provided for in Annex VI in the case of non-compliance.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+### TITLE II — RULES CONCERNING MARKETING AND PRODUCER ORGANISATIONS
+
+#### CHAPTER I — Rules concerning marketing
+
+##### Section 1 — Marketing standards
+
+###### Subsection 1 — Introductory provisions
+
+###### Article 73 — Scope
+
+Without prejudice to any other provisions applicable to agricultural products, as well as to the provisions adopted in the veterinary, phytosanitary and food sectors to ensure that products comply with hygiene and health standards and to protect animal, plant and human health, this Section lays down the rules concerning marketing standards. Those rules shall be divided between obligatory rules and optional reserved terms for agricultural products.
+
+###### Subsection 2 — Marketing standards by sectors or products
+
+###### Article 74 — General principle
+
+The products for which marketing standards by sectors or products have been laid down in accordance with this Section may be marketed in the Union only if they conform to those standards.
+
+###### Article 75 — Establishment and content
+
+1\. Marketing standards may apply to one or more of the following sectors and products:
+
+(a) olive oil and table olives;
+
+(b) fruit and vegetables;
+
+(c) processed fruit and vegetable products;
+
+(d) bananas;
+
+(e) live plants;
+
+(f) eggs;
+
+(g) poultrymeat;
+
+(h) spreadable fats intended for human consumption;
+
+(i) hops.
+
+2\. In order to take into account the expectations of consumers and to improve the economic conditions for the production and marketing as well as the quality of the agricultural products covered by paragraphs 1 and 4 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on marketing standards by sectors or products, at all stages of the marketing, as well as derogations and exemptions from such standards in order to adapt to constantly changing market conditions, to evolving consumer demands, to developments in relevant international standards and to avoid creating obstacles to product innovation.
+
+3\. Without prejudice to Article 26 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council ( 7 ), the marketing standards referred to in paragraph 1 may cover one or more of the following, to be determined on a sectoral or product basis and based on the characteristics of each sector, the need to regulate the placing on the market and the conditions defined in paragraph 5 of this Article:
+
+(a) the technical definitions, designation and sales descriptions for sectors other than those set out in Article 78;
+
+(b) classification criteria such as grading into classes, weight, sizing, age and category;
+
+(c) the species, plant variety or animal race or the commercial type;
+
+(d) the presentation, labelling linked to obligatory marketing standards, packaging, rules to be applied in relation to packing centres, marking, year of harvesting and use of specific terms, without prejudice to Articles 92 to 123;
+
+(e) criteria such as appearance, consistency, conformation, product characteristics and the percentage of water content;
+
+(f) specific substances used in production, or components or constituents, including their quantitative content, purity and identification;
+
+(g) the type of farming and production method including oenological practices and advanced systems of sustainable production;
+
+(h) coupage of must and wine including definitions thereof, blending and restrictions thereof;
+
+(i) the frequency of collection, delivery, preservation and handling, the conservation method and temperature, storage and transport;
+
+(j) the place of farming and/or origin;
+
+(k) restrictions as regards the use of certain substances and practices;
+
+(l) specific use;
+
+(m) the conditions governing the disposal, the holding, circulation and use of products not in conformity with the marketing standards adopted pursuant to paragraph 1 or with the definitions, designations and sales descriptions as referred to in Article 78, as well as the disposal of by-products.
+
+4\. In addition to paragraph 1, marketing standards may apply to the wine sector. Points (f), (g), (h), (k) and (m) of paragraph 3 shall apply to that sector.
+
+5\. The marketing standards by sectors or products adopted pursuant to paragraph 1 of this Article shall be established without prejudice to Articles 84 to 88 and Annex IX and shall take into account:
+
+(a) the specific characteristics of the product concerned;
+
+(b) the need to ensure the conditions to facilitate the placing of the products on the market;
+
+(c) the interest of producers to communicate the product and farming characteristics, and the interest of consumers to receive adequate and transparent product information, including the place of farming to be determined on a case-by-case basis at the appropriate geographical level, after conducting an evaluation, in particular, of the costs and administrative burdens for operators and the benefits offered to producers and the end consumer;
+
+(d) the methods available for determining physical, chemical and organoleptic characteristics of the products;
+
+(e) the standard recommendations adopted by international bodies;
+
+(f) the need to preserve the natural and essential characteristics of products and to avoid causing a substantial change in the composition of the product concerned.
+
+6\. In order to take into account the expectations of consumers and the need to improve the quality and the economic conditions for the production and marketing of agricultural products, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to modify the list of sectors in paragraph 1. Such delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation, and shall be subject to a Commission report to the European Parliament and to the Council evaluating, in particular, the needs of the consumer, the costs and administrative burdens for operators, including the impact on the internal market and on international trade, and the benefits offered to producers and to the end consumer.
+
+###### Article 76 — Additional requirements for marketing of products in the fruit and vegetables sector
+
+1\. In addition, where relevant, to the applicable marketing standards referred to in Article 75, products of the fruit and vegetables sector which are intended to be sold fresh to the consumer may only be marketed if they are sound, fair and of marketable quality and if the country of origin is indicated.
+
+2\. The marketing standards referred to in paragraph 1, as well as any marketing standard applicable to the fruit and vegetables sector laid down in accordance with this subsection, shall apply at all marketing stages including import and export, and may cover quality, categorisation, weight, size, packing, packaging, storage, transport, presentation and marketing.
+
+3\. The holder of products of the fruit and vegetables sector covered by marketing standards shall not display such products, offer them for sale or deliver or market them in any manner within the Union other than in conformity with those standards and shall be responsible for ensuring such conformity.
+
+4\. In order to ensure the proper application of requirements set out in paragraph 1 of this Article and to take into account certain specific situations, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning specific derogations to this Article which are necessary for its proper application.
+
+###### Article 77 — Certification for hops
+
+1\. In addition, where relevant, to the applicable marketing standards, products of the hops sector harvested or prepared within the Union shall be subject to a certification procedure under this Article.
+
+2\. Certificates may be issued only for products having the minimum quality characteristics appropriate to a specific stage of marketing. In the case of hop powder, hop powder with higher lupulin content, extract of hops and mixed hop products, the certificate may only be issued if the alpha acid content of these products is not lower than that of the hops from which they have been prepared.
+
+3\. The certificates shall at least indicate:
+
+(a) the place(s) of production of the hops;
+
+(b) the year(s) of harvesting; and
+
+(c) the variety or varieties.
+
+4\. Products of the hops sector may be marketed or exported only if covered by a certificate issued in accordance with this Article.
+
+In the case of imported products of the hops sector, the attestation provided for in Article 190(2) shall be deemed to be equivalent to that certificate.
+
+5\. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down measures derogating from paragraph 4 of this Article:
+
+(a) in order to satisfy the trade requirements of certain third countries; or
+
+(b) for products intended for special uses.
+
+The measures referred to in the first subparagraph shall:
+
+(i) not prejudice the normal marketing of products for which the certificate has been issued; and
+
+(ii) be accompanied by guarantees intended to avoid any confusion with those products.
+
+###### Article 78 — Definitions, designations and sales descriptions for certain sectors and products
+
+1\. In addition, where relevant, to the applicable marketing standards, the definitions, designations and sales descriptions provided for in Annex VII shall apply to the following sectors or products:
+
+(a) all sectors in which edible parts of animals are produced and in particular the beef and veal, pigmeat, sheepmeat and goatmeat, and poultrymeat sectors;
+
+(b) wine;
+
+(c) milk and milk products intended for human consumption;
+
+(e) eggs;
+
+(f) spreadable fats intended for human consumption; and
+
+(g) olive oil and table olives.
+
+2\. The definitions, designations or sales descriptions provided for in Annex VII may be used in the Union only for the marketing of a product which conforms to the corresponding requirements laid down in that Annex.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.
+
+As regards Part Ia, point 3, of Annex VII, the Commission is empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by granting derogations allowing the use of designations reserved for products derived from meat, for other products the exact nature of which is clear due to an established long-term use and does not cause any possible confusion to the consumer.
+
+4\. In order to ensure that operators and Member States have a clear and proper understanding of the definitions and sales descriptions provided for in Annex VII, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the rules on their specification and application.
+
+5\. In order to take into account the expectations of consumers and the evolution of the milk products market, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to specify the milk products in respect of which the animal species from which the milk originates is to be stated, if it is not bovine, and to lay down the necessary rules.
+
+###### Article 79 — Tolerance
+
+1\. In order to take into account the specific characteristics of each product or sector, the different marketing stages, the technical conditions, any possible considerable practical difficulty, and also the accuracy and repeatability of the methods of analysis, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on tolerance for one or more specific standards in excess of which the entire batch of products shall be considered not to respect that standard.
+
+2\. When adopting the acts referred to in paragraph 1, the Commission shall take into account the need not to alter the intrinsic characteristics of the product and to avoid lowering its quality.
+
+###### Article 80 — Oenological practices and methods of analyses
+
+1\. Only oenological practices authorised in accordance with Annex VIII and provided for in point (g) of Article 75(3) and in Article 83(2) and (3) shall be used in the production and conservation of the products listed in Part II of Annex VII in the Union.
+
+The first subparagraph shall not apply to:
+
+(a) grape juice and concentrated grape juice; and
+
+(b) grape must and concentrated grape must intended for the preparation of grape juice.
+
+Authorised oenological practices shall only be used for the purposes of ensuring proper vinification, proper preservation or proper refinement of the product.
+
+Products listed in Part II of Annex VII shall be produced in the Union in accordance with the rules laid down in Annex VIII.
+
+2\. Products listed in Part II of Annex VII shall not be marketed in the Union if:
+
+(a) they have undergone unauthorised Union oenological practices;
+
+(b) they have undergone unauthorised national oenological practices; or
+
+(c) they do not comply with the rules laid down in Annex VIII.
+
+The grapevine products which are unmarketable in accordance with the first subparagraph shall be destroyed. By way of derogation from this rule, Member States may authorise the use of certain of such products, the characteristics of which they shall determine, by distilleries or vinegar factories or for industrial purposes, provided that this authorisation does not become an incentive to produce grapevine products by means of unauthorised oenological practices.
+
+3\. When authorising oenological practices for wine as referred to in point (g) of Article 75(3), the Commission shall:
+
+(a) take into account the oenological practices and methods of analyses recommended and published by the OIV, as well as the results of experimental use of as-yet unauthorised oenological practices;
+
+(b) take into account the protection of human health;
+
+(c) take into account the possible risk of consumers being misled due to their well established perception of the product and their corresponding expectations, having regard to the availability and feasibility of informational means to exclude such risks;
+
+(d) allow the preservation of the natural and essential characteristics of the wine and not cause a substantial change in the composition of the product concerned;
+
+(e) ensure an acceptable minimum level of environmental care;
+
+(f) respect the general rules concerning oenological practices and the rules laid down in Annex VIII.
+
+4\. In order to ensure the correct treatment of unmarketable wine products, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on the national procedures referred to in the second subparagraph of paragraph 2 of this Article, and derogations therefrom concerning the withdrawal or destruction of wine products that do not comply with the requirements.
+
+5\. The Commission shall, where necessary, adopt implementing acts laying down the methods referred to in point (d) of Article 75(5) for products listed in Part II of Annex VII. Those methods shall be based on any relevant methods recommended and published by the OIV, unless they would be ineffective or inappropriate in view of the objective pursued by the Union. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+Pending the adoption of such implementing acts, the methods and rules to be used shall be those allowed by the Member State concerned.
+
+###### Article 81 — Wine grape varieties
+
+1\. Products listed in Part II of Annex VII and produced in the Union shall be made from wine grape varieties classifiable in accordance with paragraph 2 of this Article.
+
+2\. Subject to paragraph 3, Member States shall classify which wine grape varieties may be planted, replanted or grafted on their territories for the purpose of wine production.
+
+Only wine grape varieties meeting the following conditions may be classified by Member States:
+
+(a) the variety concerned belongs to the species Vitis vinifera or comes from a cross between the species Vitis vinifera and other species of the genus Vitis;
+
+(b) the variety is not one of the following: Noah, Othello, Isabelle, Jacquez, Clinton and Herbemont.
+
+Where a wine grape variety is deleted from the classification referred to in the first subparagraph, grubbing up of this variety shall take place within 15 years of its deletion.
+
+3\. Member States whose wine production does not exceed 50 000 hectolitres per wine year, calculated on the basis of the average production during the last five wine years, shall be exempt from the classification obligation provided for in the first subparagraph of paragraph 2.
+
+However, also in those Member States, only wine grape varieties complying with the second subparagraph of paragraph 2 may be planted, replanted or grafted for the purpose of wine production.
+
+4\. By way of derogation from the first and third subparagraphs of paragraph 2 and the second subparagraph of paragraph 3, the planting, replanting or grafting of the following wine grape varieties shall be allowed by the Member States for scientific research and experimental purposes:
+
+(a) wine grape varieties which are not classified, in the case of the Member States other than those referred to in paragraph 3;
+
+(b) wine grape varieties which do not comply with the second subparagraph of paragraph 2, in the case of the Member States referred to in paragraph 3.
+
+5\. Areas planted with wine grape varieties for the purpose of wine production planted in breach of paragraphs 2, 3 and 4 shall be grubbed up.
+
+However, there shall be no obligation to grub up such areas where the relevant production is intended exclusively for consumption by the wine-producer's household.
+
+6\. Areas planted for purposes other than wine production with vine varieties which, in the case of Member States other than those referred to in paragraph 3, are not classified or which, in the case of Member States referred to in paragraph 3, do not comply with paragraph 2, second subparagraph, shall not be subject to a grubbing up obligation.
+
+The planting and replanting of the vine varieties referred to in the first subparagraph for purposes other than wine production shall not be subject to the scheme of authorisations for vine planting laid down in Part II, Title I, Chapter III.
+
+###### Article 82 — Specific use of wine not conforming to the categories listed in Part II of Annex VII
+
+Except for bottled wine in respect of which there is evidence that bottling was performed before 1 September 1971, wine produced from wine grape varieties listed in the classifications drawn up in accordance with the first subparagraph of Article 81(2) but not conforming to one of the categories laid down in Part II of Annex VII shall be used only for consumption by individual wine-producers' households, for the production of wine vinegar or for distillation.
+
+###### Article 83 — National rules for certain products and sectors
+
+1\. Notwithstanding Article 75(2), Member States may adopt or maintain national rules laying down different quality levels for spreadable fats. Such rules shall allow those quality levels to be assessed on the basis of criteria relating, in particular, to the raw materials used, the organoleptic characteristics of the products and their physical and microbiological stability.
+
+Member States making use of the option provided for in the first subparagraph shall ensure that other Member States' products complying with the criteria laid down by those national rules may, in a non-discriminatory way, use terms which state that those criteria have been complied with.
+
+2\. Member States may limit or prohibit the use of certain oenological practices and provide for more stringent rules for wines authorised under Union law produced in their territory with a view to reinforcing the preservation of the essential characteristics of wines with a protected designation of origin or a protected geographical indication and of sparkling wines and liqueur wines.
+
+3\. Member States may allow the experimental use of unauthorised oenological practices.
+
+4\. In order to ensure the correct and transparent application of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 setting out the conditions for the application of paragraphs 1, 2 and 3 of this Article, as well as the conditions for the holding, circulation and use of the products obtained from the experimental practices referred to in paragraph 3 of this Article.
+
+5\. Member States may only adopt or maintain additional national provisions on products covered by a Union marketing standard if those provisions comply with Union law, in particular the principle of free movement of goods, and subject to Directive 98/34/EC of the European Parliament and of the Council ( 8 ).
+
+###### Subsection 3 — Optional reserved terms
+
+###### Article 84 — General provision
+
+A scheme for optional reserved terms by sector or by product shall be established in order to make it easier for producers of agricultural products that have value-adding characteristics or attributes to communicate those characteristics or attributes within the internal market, and in particular to support and complement the specific marketing standards.
+
+This Subsection shall not apply to wine products referred to in Article 92(1).
+
+###### Article 85 — Existing optional reserved terms
+
+1\. The optional reserved terms covered by this scheme on 20 December 2013 are listed in Annex IX and the conditions of their use shall be laid down pursuant to point (a) of Article 86.
+
+2\. The optional reserved terms referred to in paragraph 1 of this Article shall remain in force, subject to any amendment, unless cancelled pursuant to Article 86.
+
+###### Article 86 — Reservation, amendment and cancellation of optional reserved terms
+
+In order to take account of the expectations of consumers, including as regards production methods and sustainability in the supply chain, developments in scientific and technical knowledge, the situation in the market and developments in marketing standards and in international standards, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+
+(a) reserving an additional optional reserved term, laying down its conditions of use;
+
+(b) amending the conditions of use of an optional reserved term; or
+
+(c) cancelling an optional reserved term.
+
+###### Article 87 — Additional optional reserved terms
+
+1\. A term shall be eligible to be reserved as an additional optional reserved term only if it fulfils all of the following requirements:
+
+(a) the term relates to a characteristic of a product or to a farming or processing attribute and relates to a sector or product;
+
+(b) the use of the term enables clearer communication of the added value of the product by its specific characteristics or farming or processing attributes;
+
+(c) when the product is placed on the market, the characteristic or attribute referred to in point (a) is identifiable by consumers in several Member States;
+
+(d) the conditions and use of the term are in conformity with Directive 2000/13/EC of the European Parliament and of the Council ( 9 ) or Regulation (EU) No 1169/2011.
+
+When introducing an additional optional reserved term, the Commission shall take account of any relevant international standard and of the existing reserved terms for the products or sectors involved.
+
+2\. In order to take the characteristics of certain sectors as well as consumer expectations into account, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down further details on the requirements for the introduction of an additional reserved term, as referred to in paragraph 1 of this Article.
+
+###### Article 88 — Restrictions on use of optional reserved terms
+
+1\. An optional reserved term may only be used to describe products that conform to the applicable conditions of use.
+
+2\. Member States shall adopt appropriate measures to ensure that product labelling does not give rise to confusion with optional reserved terms.
+
+3\. In order to ensure that products described by means of optional reserved terms conform to the applicable conditions of use, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down additional rules on the use of optional reserved terms.
+
+###### Subsection 4 — Marketing standards related to import and export
+
+###### Article 89 — General provisions
+
+In order to take into account the specific characteristics of trade between the Union and certain third countries and the special character of certain agricultural products, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+
+(a) the conditions under which imported products are considered to have an equivalent level of conformity to the Union marketing standards and conditions allowing derogation from Article 74; and
+
+(b) the rules concerning the application of the marketing standards to products exported from the Union.
+
+###### Article 90 — Special provisions for the imports of wine
+
+1\. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the provisions concerning designation of origin and geographical indications and labelling of wine set out in Section 2 of this Chapter, and the definitions, designations and sales descriptions referred to in Article 78 of this Regulation shall apply to products imported into the Union and falling within CN codes 2009 61 , 2009 69 , 2204 and, where applicable, ex 2202 99 19 (other, de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 %)
+
+2\. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, products referred to in paragraph 1 of this Article shall be produced in accordance with oenological practices authorised by the Union pursuant to this Regulation or, prior to the authorisation pursuant to Article 80(3), produced in accordance with oenological practices recommended and published by the OIV.
+
+3\. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the import of the products referred to in paragraph 1 shall be subject to the presentation of:
+
+(a) a certificate evincing compliance with the provisions referred to in paragraphs 1 and 2, drawn up by a competent body, included on a list to be made public by the Commission, in the product's country of origin;
+
+(b) an analysis report drawn up by a body or department designated by the product's country of origin, if the product is intended for direct human consumption.
+
+###### Subsection 4a — Checks and penalties
+
+###### Article 90a — Checks and penalties related to marketing rules
+
+1\. Member States shall take measures to ensure that products referred to in Article 119(1) which are not labelled in conformity with this Regulation are not placed on the market or, if they have already been placed on the market, are withdrawn from the market.
+
+2\. Without prejudice to any specific provisions which may be adopted by the Commission, imports into the Union of the products specified in Article 189(1), points (a) and (b), shall be subject to checks to determine whether the conditions provided for in paragraph 1 of that Article are met.
+
+3\. Member States shall carry out checks, based on a risk analysis, in order to verify whether the products referred to in Article 1(2) conform to the rules laid down in this Section and shall apply administrative penalties as appropriate.
+
+4\. Without prejudice to acts concerning the wine sector that have been adopted pursuant to Article 58 of Regulation (EU) 2021/2116, in the event of an infringement of Union rules in the wine sector, Member States shall apply proportionate, effective and dissuasive administrative penalties in accordance with Title IV, Chapter I, of that Regulation. Member States shall not apply such penalties where the non-compliance is of a minor nature.
+
+5\. In order to protect Union funds and to protect the identity, provenance and quality of Union wine, the Commission shall be empowered to adopt delegated acts in accordance with Article 227, supplementing this Regulation, relating to:
+
+(a) the establishment or maintenance of an analytical databank of isotopic data to help detect fraud to be constructed on the basis of samples collected by Member States;
+
+(b) rules governing control bodies and the mutual assistance between them;
+
+(c) rules governing the common use of the findings of Member States.
+
+6\. The Commission may adopt implementing acts laying down all measures necessary for:
+
+(a) the procedures relating to Member States’ respective databanks and to the analytical databank of isotopic data referred to in paragraph 5, point (a);
+
+(b) the procedures relating to cooperation and assistance between control authorities and bodies;
+
+(c) as regards the obligation referred to in paragraph 3, rules for performing checks on compliance with marketing standards, rules governing the authorities responsible for performing the checks, as well as rules on the content and the frequency of the checks and the marketing stage to which those checks are to apply.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Subsection 5 — Common provisions
+
+###### Article 91 — Implementing powers in accordance with the examination procedure
+
+The Commission may adopt implementing acts:
+
+(a) establishing the list of milk and milk products referred to in the second paragraph of point 5 of Part III of Annex VII and spreadable fats referred to in point (a) of the sixth paragraph of point I of Part VII of Annex VII,  on the basis of indicative lists of products which Member States regard as corresponding, in their territory, to those provisions and which Member States shall send to the Commission;
+
+(b) laying down rules for the implementation of the marketing standards by sector or product;
+
+(c) laying down rules for determining whether products have undergone processes contrary to the authorised oenological practices;
+
+(d) laying down rules for the methods of analysis for determining the characteristics of products;
+
+(e) laying down rules for fixing the tolerance level;
+
+(f) laying down rules for the implementation of the measures referred to in Article 89;
+
+(g) laying down rules for the identification or registration of the producer and/or the industrial facilities in which the product has been prepared or processed, for the certification procedures and for the commercial documents, accompanying documents and records to be kept.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+##### Section 2 — Designations of origin, geographical indications and traditional terms in the wine sector
+
+###### Subsection 1 — Introductory provisions
+
+###### Article 92 — Scope
+
+1\. Rules on designations of origin, geographical indications and traditional terms laid down in this Section shall apply to the products referred to in points 1, 3 to 6, 8, 9, 11, 15 and 16 of Part II of Annex VII.
+
+However, the rules laid down in this section do not apply to products referred to in Annex VII, Part II, points (1), (4), (5), (6), (8) and (9), when such products have undergone a total de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E.
+
+2\. The rules referred to in paragraph 1 shall be based on:
+
+(a) protecting the legitimate interests of consumers and producers;
+
+(b) ensuring the smooth operation of the internal market in the products concerned; and
+
+(c) promoting the production of quality products referred to in this Section, whilst allowing national quality policy measures.
+
+###### Subsection 2 — Designations of origin and geographical indications
+
+###### Article 93 — Definitions
+
+1\. For the purposes of this Section, the following definitions shall apply:
+
+(a) ‘designation of origin’ means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+
+(i) whose quality or characteristics are essentially or exclusively due to a particular geographical environment with its inherent natural and human factors;
+
+(ii) as originating in a specific place, region or, in exceptional cases, country;
+
+(iii) produced from grapes which originate exclusively from that geographical area;
+
+(iv) the production of which takes place in that geographical area; and
+
+(v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+
+(b) ‘geographical indication’ means a name, including a traditionally used name, which identifies a product referred to in Article 92(1):
+
+(i) whose specific quality, reputation or other characteristics are attributable to its geographical origin;
+
+(ii) as originating in a specific place, region or country;
+
+(iii) as having at least 85 % of the grapes used for its production originating exclusively from that geographical area;
+
+(iv) the production of which takes place in that geographical area; and
+
+(v) which is obtained from vine varieties belonging to Vitis vinifera or a cross between the Vitis vinifera species and other species of the genus Vitis.
+
+3\. Designations of origin and geographical indications, including those relating to geographical areas in third countries, shall be eligible for protection in the Union in accordance with the rules laid down in this Subsection.
+
+4\. Production as referred to in paragraph 1, points (a)(iv) and (b)(iv), includes all the operations involved, from the harvesting of the grapes to the completion of the wine-making processes, with the exception of the harvesting of grapes not coming from the geographical area concerned as referred to in paragraph 1, point (b)(iii), and with the exception of any post-production processes.
+
+5\. For the purpose of the application of point (b)(ii) of paragraph 1, the maximum 15 % share of grapes which may originate outside the demarcated area shall originate from the Member State or third country in which the demarcated area is situated.
+
+###### Article 94 — Product specification
+
+1\. The product specification shall enable interested parties to verify the relevant conditions of production relating to the designation of origin or geographical indication. The product specification shall comprise:
+
+(a) the name to be protected;
+
+(b) the categories of grapevine products;
+
+(c) the type of geographical indication, being a protected designation of origin or a protected geographical indication;
+
+(d) a description of the wine or wines:
+
+(i) in respect of a designation of origin, the principal analytical and organoleptic characteristics;
+
+(ii) in respect of a geographical indication, the principal analytical characteristics as well as an evaluation or indication of its organoleptic characteristics;
+
+(e) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+
+(f) the definition of the geographical area delimited with regard to the link referred to in point (i) of this paragraph;
+
+(g) the maximum yields per hectare;
+
+(h) an indication of the wine grape variety or varieties the wine or wines are obtained from;
+
+(i) the details on the link referred to in Article 93(1), point (a)(i), or, as the case may be, point (b)(i):
+
+(i) as regards a protected designation of origin, the link between the quality or characteristics of the product and the geographical environment referred to in Article 93(1), point (a)(i); the details concerning the human factors of that geographical environment may, where relevant, be limited to a description of the soil, plant material and landscape management, cultivation practices or any other relevant human contribution to the maintenance of the natural factors of the geographical environment referred to in that point;
+
+(ii) as regards a protected geographical indication, the link between a specific quality, the reputation or other characteristic of the product and the geographical origin referred to in Article 93(1), point (b)(i);
+
+(j) other applicable requirements where provided for by Member States or, if applicable, by a recognised producer group, provided that such requirements are objective, non-discriminatory and compatible with Union and national law.
+
+2\. The product specification may contain sustainable practices in accordance with Article 7 of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 10 ).
+
+3\. Where the wine or wines may be partially de-alcoholised, the product specification shall also contain a description of the partially de-alcoholised wine or wines in accordance with paragraph 1, point (d), mutatis mutandis, and, where applicable, the specific oenological practices used to make the partially de-alcoholised wine or wines, as well as the relevant restrictions on making them.
+
+###### Article 95 — Single document
+
+1\. The single document shall include the following:
+
+(a) the name to be protected as a designation of origin or a geographical indication;
+
+(b) the Member State or third country to which the demarcated area belongs;
+
+(c) the type of geographical indication;
+
+(d) a description of the wine or wines;
+
+(e) the categories of grapevine products;
+
+(f) the maximum yields per hectare;
+
+(g) the indication of the wine grape variety or varieties from which the wine or wines are obtained;
+
+(h) a concise definition of the demarcated geographical area;
+
+(i) a description of the link referred to in Article 94(1), point (i);
+
+(j) where applicable, the specific oenological practices used to make the wine or wines, as well as the relevant restrictions on making them;
+
+(k) where applicable, the specific rules concerning packaging and labelling as well as any other essential relevant requirements.
+
+2\. Where an application covers different categories of grapevine products, the details bearing out the link referred to in Article 94(1), point (i) shall be demonstrated for each category of grapevine products concerned.
+
+###### Article 100 — Homonyms
+
+3\. Where the name of a wine grape variety contains or consists of a protected designation of origin or a protected geographical indication, that name shall not be used for the purposes of labelling agricultural products.
+
+In order to take into account existing labelling practices, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down exceptions from that rule.
+
+4\. The protection of designations of origin and geographical indications of products covered by Article 93 of this Regulation shall be without prejudice to protected geographical indications applying to spirit drinks as defined in Article 2 of Regulation (EC) No 110/2008 of the European Parliament and of the Council ( 11 ).
+
+###### Article 103 — Protection
+
+Protected designations of origin and protected geographical indications referred to in this Regulation shall be protected in accordance with Articles 26 to 31, 35 and 36 of Regulation (EU) 2024/1143.
+
+###### Article 106a — Temporary labelling and presentation
+
+After an application for the protection of a designation of origin or geographical indication has been forwarded to the Commission, producers may indicate in the labelling and presentation of the product that an application has been filed and use national logos and indications, in compliance with Union law, in particular with Regulation (EU) No 1169/2011.
+
+Union symbols indicating the protected designation of origin or protected geographical indication and the Union indications ‘protected designation of origin’ or ‘protected geographical indication’ may appear on the labelling only after the publication of the decision conferring protection on that designation of origin or geographical indication.
+
+Where an application is rejected, any grapevine products labelled in accordance with the first paragraph may be marketed until the stocks are exhausted.
+
+###### Article 107 — Existing protected wine names
+
+1\. Wine names referred to in Articles 51 and 54 of Council Regulation (EC) No 1493/1999 ( 12 ) and Article 28 of Commission Regulation (EC) No 753/2002 ( 13 ) shall be automatically protected under this Regulation. The Commission shall list them in the register provided for in Article 104 of this Regulation.
+
+###### Article 108 — Fees
+
+Member States may charge fees to cover their costs, including those incurred in examining the applications for protection, statements of objections, applications for amendments and requests for cancellations under this Subsection.
+
+###### Article 109 — Delegated powers
+
+1\. In order to take into account the specific characteristics of the production in the demarcated geographical area, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+
+(a) the additional criteria for the demarcation of the geographical area; and
+
+(b) the restrictions and derogations concerning the production in the demarcated geographical area.
+
+2\. In order to ensure product quality and traceability, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down the conditions under which product specifications may include additional requirements.
+
+3\. In order to ensure the protection of the legitimate rights and interests of producers and operators, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on:
+
+(a) the type of applicant that may apply for the protection of a designation of origin or geographical indication;
+
+(b) the conditions to be followed in respect of an application for the protection of a designation of origin or geographical indication, scrutiny by the Commission, the objection procedure, and procedures for amendment, cancellation and conversion of protected designations of origin or protected geographical indications;
+
+(c) the conditions applicable to trans-border applications;
+
+(d) the conditions for applications concerning geographical areas in a third country;
+
+(e) the date from which a protection or an amendment to a protection shall apply;
+
+(f) the conditions related to amendments to product specifications.
+
+4\. In order to ensure an adequate level of protection, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on restrictions regarding the protected name.
+
+5\. In order to ensure that economic operators and competent authorities are not unduly affected by the application of this Subsection as regards wine names which have been granted protection prior to 1 August 2009, or for which an application for protection has been made prior to that date, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down transitional rules concerning:
+
+(a) wine names recognised by Member States as designations of origin or geographical indications by 1 August 2009, and wine names for which an application for protection has been made prior to that date;
+
+(b) wines placed on the market or labelled before a specific date; and
+
+(c) amendments to the product specifications.
+
+###### Article 110 — Implementing powers
+
+1\. The Commission may adopt implementing acts laying down rules concerning:
+
+(a) the form of the product specification;
+
+(b) the definition of the format and the online presentation of the single document referred to in Article 95;
+
+(c) the exclusion or anonymisation of personal data.
+
+2\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2) of Regulation (EU) 2024/1143.
+
+###### Subsection 3 — Traditional terms
+
+###### Article 112 — Definition
+
+A "traditional term" means a term traditionally used in Member States for the products referred to in Article 92(1) to designate:
+
+(a) that the product has a protected designation of origin or a protected geographical indication under Union or national law; or
+
+(b) the production or ageing method or the quality, colour, type of place, or a particular event linked to the history of the product with a protected designation of origin or a protected geographical indication.
+
+###### Article 113 — Protection
+
+1\. A protected traditional term may only be used for a product which has been produced in conformity with the definition provided for in Article 112.
+
+Traditional terms shall be protected against unlawful use.
+
+2\. Traditional terms shall be protected, only in the language and for the categories of grape vine products claimed in the application, against:
+
+(a) any misuse of the protected term, including where it is accompanied by an expression such as "style", "type", "method", "as produced in", "imitation", "flavour", "like" or similar;
+
+(b) any other false or misleading indication as to the nature, characteristics or essential qualities of the product, placed on the inner or outer packaging, advertising material or documents relating to it;
+
+(c) any other practice likely to mislead the consumer, in particular to give the impression that the wine qualifies for the protected traditional term.
+
+3\. Traditional terms shall not become generic in the Union.
+
+###### Article 113a — Relationship with designations of origin and geographical indications
+
+1\. The registration of a traditional term the use of which would contravene Article 26 of Regulation (EU) 2024/1143 shall be rejected if the application for registration of the traditional term is submitted after the date of submission to the Commission of the application for the registration of the designation of origin or of the geographical indication.
+
+2\. The Commission shall, by means of implementing acts, declare invalid and remove from the register referred to in Article 25 of Commission Implementing Regulation (EU) 2019/34 ( 14 ) any traditional terms registered in breach of paragraph 1 of this Article.
+
+3\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 114 — Delegated powers
+
+1\. In order to ensure an adequate level of protection, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 regarding the language and the spelling of the traditional term to be protected.
+
+2\. In order to ensure the protection of the legitimate rights and interests of producers and operators, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 establishing:
+
+(a) the type of applicants that may apply for the protection of a traditional term;
+
+(b) the conditions of validity of an application for protection of a traditional term;
+
+(c) the grounds for objecting to a proposed recognition of a traditional term;
+
+(d) the scope of the protection, the relationship with trade marks, protected traditional terms, protected designations of origin or geographical indications, homonyms, or certain wine grape names;
+
+(e) the grounds for cancellation of a traditional term;
+
+(f) the date of submission of an application or of a request for objection or cancellation;
+
+(g) the procedures to be followed in respect of an application for the protection of a traditional term, including scrutiny by the Commission, the objection procedure and the procedures on cancellation and modification.
+
+3\. In order to take into account the specific characteristics of trade between the Union and certain third countries, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down the conditions under which traditional terms may be used on products from third countries and providing for derogations from Article 112 and Article 113(2).
+
+###### Article 115 — Implementing powers in accordance with the examination procedure
+
+1\. The Commission may adopt implementing acts laying down necessary measures concerning the procedure for the examination of applications for protection or for the approval of a modification of a traditional term, as well as the procedure for requests for objection or cancellation, in particular with respect to:
+
+(a) models for documents and the transmission format;
+
+(b) time limits;
+
+(c) the details of the facts, evidence and supporting documents to be submitted in support of the application or request;
+
+(d) detailed rules on making protected traditional terms available to the public.
+
+2\. The Commission shall adopt implementing acts accepting or rejecting an application for protection of a traditional term or a request for a modification of the protected term or the cancellation of the protection of a traditional term.
+
+3\. The Commission shall adopt implementing acts providing for the protection of traditional terms in respect of which an application for protection has been accepted, in particular by classifying them in accordance with Article 112 and by publishing a definition and/or the conditions of use.
+
+4\. The implementing acts referred to in paragraphs 1, 2 and 3 of this Article shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 116 — Other implementing powers
+
+Where an objection is deemed inadmissible, the Commission shall adopt an implementing act rejecting it as inadmissible. That implementing act shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+###### Subsection 4 — Checks to verify compliance with the product specification for designations of origin and geographical indications and to verify conformity with the definition and conditions of the use of protected traditional terms, as well as on the enforcement of conditions for use of traditional terms
+
+###### Article 116a — Checks
+
+1\. Member States shall take the necessary steps to stop the unlawful use of protected traditional terms referred to in this Regulation.
+
+2\. Member States shall designate the competent authority responsible for verifying compliance with product specifications related to designations of origin and geographical indications and to verify conformity with the definition and conditions of use of traditional terms, as well as for the enforcement of the conditions for use of traditional terms. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council ( 15 ) shall apply.
+
+3\. Within the Union, the competent authority referred to in paragraph 2 of this Article or one or more delegated bodies as defined in Article 3, point (5), of Regulation (EU) 2017/625 operating as a product certification body in accordance with the criteria laid down in Title II, Chapter III, of that Regulation, shall verify compliance with the product specifications annually, both during the wine production and during or after conditioning, and shall verify conformity with the definition provided for in Article 112 of this Regulation and, where relevant, the conditions of use of the traditional term as referred to in Article 115(3) of this Regulation.
+
+Each operator wishing to participate in any activity covered by the product specification of a product designated by a designation of origin or a geographical indication shall notify the competent authority or delegated bodies referred to in the first subparagraph. Member States shall draw up and keep up-to-date a list of operators who perform activities subject to one or more obligations provided for in the product specification of a designation of origin or geographical indication entered in the Union register of geographical indications originating in their territory.
+
+4\. The Commission shall adopt implementing acts concerning:
+
+(a) the communication to be made by the Member States to the Commission;
+
+(b) rules governing the authority responsible for verifying compliance with product specifications related to protected designations of origin and protected geographical indications, including where the geographical area is in a third country, and for verifying conformity with the definition provided for in Article 112 and, where relevant, the conditions of use of traditional terms;
+
+(c) the actions to be implemented by the Member States to prevent the unlawful use of protected traditional terms;
+
+(d) the checks for verification of compliance with the product specification to be carried out by the Member States, including testing.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+##### Section 3 — Labelling and presentation in the wine sector
+
+###### Article 117 — Definition
+
+For the purposes of this Section:
+
+(a) "labelling" means any words, particulars, trade marks, brand name, pictorial matter or symbol placed on any packaging, document, notice, label, ring or collar accompanying or referring to a given product;
+
+(b) "presentation" means any information conveyed to consumers by virtue of the packaging of the product concerned, including the form and type of bottles.
+
+###### Article 118 — Applicability of horizontal rules
+
+Save as otherwise provided for in this Regulation, Council Directive 89/396/EEC ( 16 ), Directive 2000/13/EC, Directive 2007/45/EC of the European Parliament and of the Council ( 17 ), Directive 2008/95/EC and Regulation (EU) No 1169/2011 shall apply to the labelling and presentation.
+
+The labelling of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII may not be supplemented by any particulars other than those provided for in this Regulation unless those particulars satisfy the requirements of Directive 2000/13/EC or Regulation (EU) No 1169/2011.
+
+###### Article 119 — Compulsory particulars
+
+1\. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:
+
+(a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:
+
+(i) the term ‘de-alcoholised’ if the actual alcoholic strength of the product is no more than 0,5 % by volume; or
+
+(ii) the term ‘partially de-alcoholised’ if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation;
+
+(b) for wines with a protected designation of origin or a protected geographical indication:
+
+(i) the term "protected designation of origin" or "protected geographical indication"; and
+
+(ii) the name of the protected designation of origin or the protected geographical indication;
+
+(c) the actual alcoholic strength by volume;
+
+(d) an indication of provenance;
+
+(e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
+
+(f) an indication of the importer in the case of imported wines; and
+
+(g) in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, an indication of the sugar content;
+
+(h) the nutrition declaration pursuant to Article 9(1), point (l), of Regulation (EU) No 1169/2011;
+
+(i) the list of ingredients pursuant to Article 9(1), point (b), of Regulation (EU) No 1169/2011; and
+
+(j) in the case of grapevine products which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E and that have an actual alcoholic strength by volume of less than 10 %, the date of minimum durability pursuant to Article 9(1), point (f), of Regulation (EU) No 1169/2011.
+
+2\. By way of derogation from paragraph 1, point (a), for grapevine products other than those which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the reference to the category of the grapevine product may be omitted for wines whose labels include the name of a protected designation of origin or protected geographical indication.
+
+3\. By way of derogation from point (b) of paragraph 1, the reference to the terms "protected designation of origin" or "protected geographical indication" may be omitted in the following cases:
+
+(a) where a traditional term in accordance with point (a) of Article 112 is displayed on the label in accordance with the product specification referred to in Article 94(2);
+
+(b) in exceptional and duly justified circumstances to be determined by the Commission by means of delegated acts adopted in accordance with Article 227 in order to ensure compliance with existing labelling practices.
+
+4\. By way of derogation from paragraph 1, point (h), the nutrition declaration on the package or on a label attached thereto may be limited to the energy value, which may be expressed by using the symbol ‘E’ for energy. In such cases, the full nutrition declaration shall be provided by electronic means identified on the package or on a label attached thereto. That nutrition declaration shall not be displayed with other information intended for sales or marketing purposes and no user data shall be collected or tracked.
+
+5\. By way of derogation from paragraph 1, point (i), the list of ingredients may be provided by electronic means identified on the package or on a label attached thereto. In such cases, the following requirements apply:
+
+(a) no user data shall be collected or tracked;
+
+(b) the list of ingredients shall not be displayed with other information intended for sales or marketing purposes; and
+
+(c) the indication of the particulars referred to in Article 9(1), point (c), of Regulation (EU) No 1169/2011 shall appear directly on the package or on a label attached thereto.
+
+The indication referred to in the first subparagraph, point (c), of this paragraph shall comprise the word ‘contains’ followed by the name of the substance or product as listed in Annex II to Regulation (EU) No 1169/2011.
+
+6\. However, Article 1, point (8), shall apply from 19 March 2030 and Article 1, point (10)(a), shall apply from 19 September 2027.
+
+###### Article 120 — Optional particulars
+
+1\. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII may, in particular, contain the following optional particulars:
+
+(a) the vintage year;
+
+(b) the name of one or more wine grape varieties;
+
+(c) in the case of wines other than those referred to in point (g) of Article 119(1), terms indicating the sugar content;
+
+(d) for wines with a protected designation of origin or a protected geographical indication, traditional terms in accordance with point (b) of Article 112;
+
+(e) the Union symbol indicating the protected designation of origin or the protected geographical indication;
+
+(f) terms referring to certain production methods;
+
+(g) for wines bearing a protected designation of origin or a protected geographical indication, the name of another geographical unit that is smaller or larger than the area underlying the designation of origin or geographical indication;
+
+(h) the abbreviations ‘PDO’ or ‘PGI’, corresponding to the indications ‘protected designation of origin’ or ‘protected geographical indication’.
+
+2\. Without prejudice to Article 100(3), as regards the use of particulars referred to in points (a) and (b) of paragraph 1 of this Article for wines without a protected designation of origin or a protected geographical indication:
+
+(a) Member States shall introduce laws, regulations or administrative provisions to ensure certification, approval and verification procedures so as to guarantee the veracity of the information concerned;
+
+(b) Member States may, on the basis of non-discriminatory and objective criteria and with due regard to fair competition, for wine produced from wine grape varieties on their territory, draw up lists of excluded wine grape varieties, in particular if:
+
+(i) there is a risk of confusion for consumers as to the true origin of the wine due to the fact that the wine grape variety forms an integral part of an existing protected designation of origin or a protected geographical indication;
+
+(ii) checks would not be cost-effective due to the fact that the given wine grape variety represents a very small part of the Member State vineyard;
+
+(c) mixtures of wines from different Member States shall not give rise to labelling of the wine grape variety unless the Member States concerned agree otherwise and ensure the feasibility of the relevant certification, approval and verification procedures.
+
+###### Article 121 — Languages
+
+1\. The compulsory and optional particulars referred to in Articles 119 and 120 shall, where expressed in words, appear in one or more official language of the Union.
+
+2\. Notwithstanding paragraph 1, the name of a protected designation of origin or a protected geographical indication or a traditional term as referred to in point (b) of Article 112 shall appear on the label in the language or languages for which the protection applies. In the case of a protected designation of origin or a protected geographical indication or a national specific designation using a non-Latin alphabet, the name may also appear in one or more official languages of the Union.
+
+###### Article 122 — Delegated powers
+
+1\. In order to take into account the specific characteristics of the wine sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules and restrictions on:
+
+(a) the presentation and use of labelling particulars other than those provided for in this Section;
+
+(b) compulsory particulars concerning:
+
+(i) terms to be used to formulate the compulsory particulars and their conditions of use;
+
+(iii) provisions allowing the producing Member States to establish additional rules relating to compulsory particulars;
+
+(iv) provisions allowing further derogations in addition to those referred to in Article 119(2) as regards the omission of the reference to the category of the grapevine product; and
+
+(v) provisions on the use of languages;
+
+(vi) rules for the indication and designation of ingredients for the application of Article 119(1), point (i).
+
+(c) optional particulars concerning:
+
+(i) terms to be used to formulate the optional particulars and their conditions of use;
+
+(ii) provisions allowing the producing Member States to establish additional rules relating to optional particulars;
+
+(iii) terms referring to a holding, the conditions for their use and their relationship with trademarks and commercial names.
+
+(d) the presentation concerning:
+
+(i) the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle shapes;
+
+(ii) the conditions of use of "sparkling wine"-type bottles and closures;
+
+(iii) provisions allowing the producing Member States to establish additional rules relating to presentation;
+
+(iv) provisions on the use of languages;
+
+(v) the identification on the package or on the label attached thereto of the electronic means referred to in Article 119(4) and (5), including by means of a common pictogram or symbol instead of words;
+
+(vi) the form and layout of the information provided by electronic means, to simplify its presentation, to adapt it to future technological progress and to new requirements concerning compulsory information relevant to consumers as provided for by Union law or national legislation, or to improve consumer accessibility.
+
+2\. In order to ensure the protection of the legitimate interests of operators, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules as regards temporary labelling and presentation of wines bearing a designation of origin or a geographical indication, where that designation of origin or geographical indication fulfils the necessary requirements.
+
+3\. In order to ensure that economic operators are not prejudiced, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning transitional provisions as regards wine placed on the market and labelled in accordance with the relevant rules applying before 1 August 2009.
+
+4\. In order to take account of the specific characteristics in trade between the Union and certain third countries, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning derogations from this Section as regards products to be exported where required by the law of the third country concerned.
+
+###### Article 123 — Implementing powers in accordance with the examination procedure
+
+The Commission may adopt implementing acts laying down necessary measures concerning the procedures and technical criteria applicable to this Section, including the necessary measures for the certification, approval and verification procedures applicable to wines without a protected designation of origin or a protected geographical indication. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+#### CHAPTER II — Specific provisions for individual sectors
+
+##### Section 1 — Sugar
+
+###### Article 125 — Sugar sector agreements
+
+1\. The terms for buying sugar beet and sugar cane, including pre-sowing delivery contracts, shall be governed by written agreements within the trade concluded between, on the one hand, Union growers of sugar beet and sugar cane or, on their behalf, the organisations of which they are members, and, on the other hand, Union sugar undertakings or, on their behalf, the organisations of which they are members.
+
+2\. Agreements within the trade as described in point 6 of Section A of Part II of Annex II shall be notified by sugar undertakings to the competent authorities of the Member State in which they produce sugar.
+
+3\. Agreements within the trade shall conform to the purchase terms laid down in Annex X.
+
+4\. In order to take into account the specific characteristics of the sugar sector and the development of the sector in the period following the ending of production quotas, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to:
+
+(a) update the terms referred to in Section A of Part II of Annex II;
+
+(b) update the purchase terms for beet referred to in Annex X;
+
+(c) lay down further rules on the determination of gross weight, tare and sugar content of sugar beet delivered to an undertaking, and on beet pulp.
+
+5\. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article, including in respect of procedures, notifications and administrative assistance in the case of agreements within the trade covering more than one Member State. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 126 — Price reporting in the sugar market
+
+The Commission may adopt implementing acts establishing a system for reporting sugar market prices, including arrangements for publishing the price levels for this market. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+The system referred to in the first subparagraph shall be based on information submitted by undertakings producing white sugar or by other operators involved in the sugar trade. This information shall be treated as confidential.
+
+The Commission shall ensure that specific prices or names of individual economic operators are not published.
+
+##### Section 2 — Wine
+
+###### Article 145 — Vineyard register and inventory of production potential
+
+1\. Member States shall maintain a vineyard register which shall contain updated information on the production potential. From 1 January 2016, this obligation shall only apply if Member States implement the scheme of authorisations for vine plantings referred to in Chapter III of Title I, or a national support programme.
+
+2\. Until 31 December 2015, Member States in which the total area planted with vines of wine grape varieties classified in accordance with Article 81(2) is less than 500 hectares shall not be subject to the obligation laid down in paragraph 1 of this Article.
+
+3\. Member States which provide in their CAP strategic plans for restructuring and conversion of vineyards in accordance with Article 58(1), first subparagraph, point (a), of Regulation (EU) 2021/2115, shall on the basis of the vineyard register submit to the Commission by 1 March each year an updated inventory of their production potential.  From 1 January 2016, details in respect of communications to the Commission regarding wine-growing areas shall be laid down by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+4\. In order to facilitate the monitoring and the verification of the production potential by Member States, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on the content of the vineyard register and exemptions therefrom.
+
+###### Article 146 — Competent national authorities for the wine sector
+
+1\. Without prejudice to any other provisions of this Regulation concerning the determination of competent national authorities, Member States shall designate one or more authorities which shall be responsible for ensuring compliance with Union rules in the wine sector. In particular, Member States shall designate the laboratories authorised to carry out official analyses in the wine sector. The designated laboratories shall satisfy the general criteria for the operation of testing laboratories set out in ISO/IEC 17025.
+
+2\. Member States shall inform the Commission of the names and addresses of the authorities and laboratories referred to in paragraph 1. The Commission shall make this information public and shall update it periodically.
+
+###### Article 147 — Accompanying documents and register
+
+1\. The products of the wine sector shall be put into circulation in the Union with an officially authorised accompanying document.
+
+2\. Natural or legal persons or groups of persons who hold products covered by the wine sector in the exercise of their trade, in particular producers, bottlers, processors and merchants, shall keep inward and outward registers in respect of those products.
+
+3\. In order to facilitate the transport of wine products and the verification thereof by Member States, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on:
+
+(a) rules on the accompanying document and its use;
+
+(b) the conditions under which an accompanying document is to be regarded as certifying protected designations of origin or geographical indications;
+
+(c) an obligation to keep a register and its use;
+
+(d) who is obliged to keep a register and exemptions from that obligation;
+
+(e) the operations to be included in the register.
+
+4\. The Commission may adopt implementing acts establishing:
+
+(a) rules on the composition of the registers, the products to be contained therein, deadlines for entries in registers and the closures of registers;
+
+(b) measures requiring Member States to determine the maximum acceptable percentages for losses;
+
+(c) general and transitional provisions for the keeping of registers;
+
+(d) rules determining how long accompanying documents and the registers are to be kept.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 147a — Payment delays for sales of wine in bulk
+
+By way of derogation from Article 3(1) of Directive (EU) 2019/633, Member States may, upon request of an interbranch organisation recognised under Article 157 of this Regulation operating in the wine sector, provide that the prohibition referred to in Article 3(1), first subparagraph, point (a), of Directive (EU) 2019/633 does not apply to payments made under supply agreements between producers or resellers of wine and their direct buyers for sales transactions concerning wine in bulk, provided that:
+
+(a) specific terms that allow payments to be made after 60 days are included in standard contracts for sales transactions concerning wine in bulk which have been made binding by the Member State pursuant to Article 164 of this Regulation before 30 October 2021 and this extension of the standard contracts is renewed by the Member State as from that date without any significant changes to the terms of payment that would be to the disadvantage of suppliers of wine in bulk; and
+
+(b) the supply agreements between suppliers of wine in bulk and their direct buyers are multiannual or become multiannual.
+
+##### Section 3 — Milk and milk products
+
+###### Article 148 — Contractual relations in the milk and milk products sector
+
+1\. Where a Member State decides that every delivery of raw milk in its territory by a farmer to a processor of raw milk must be covered by a written contract between the parties and/or decides that first purchasers must make a written offer for a contract for the delivery of raw milk by the farmers, such contract and/or such offer for a contract shall fulfil the conditions laid down in paragraph 2.
+
+Where a Member State decides that deliveries of raw milk by a farmer to a processor of raw milk must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if the delivery of raw milk is made through one or more collectors.
+
+For the purposes of this Article, a "collector" means an undertaking which transports raw milk from a farmer or another collector to a processor of raw milk or another collector, where the ownership of the raw milk is transferred in each case.
+
+1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation, or an association of producer organisations may require that any delivery in raw milk to a processor of raw milk be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in the first subparagraph of paragraph 4 of this Article.
+
+If the first purchaser is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC, the contract and/or the contract offer is not compulsory, without prejudice to the possibility for the parties to make use of a standard contract drawn up by an interbranch organisation.
+
+2\. The contract and/or the offer for a contract referred to in paragraphs 1 and 1a shall:
+
+(a) be made in advance of the delivery,
+
+(b) be made in writing, and
+
+(c) include, in particular, the following elements:
+
+(i) the price payable for the delivery, which shall:
+
+— be static and be set out in the contract and/or
+
+— be calculated by combining various factors set out in the contract, which may include objective indicators, indices and methods of calculation of the final price that are easily accessible and comprehensible and that reflect changes in market conditions, the volume delivered and the quality or composition of the raw milk delivered; those indicators may be based on relevant prices, production and market costs; to that effect, Member States may determine indicators, in accordance with objective criteria based on studies carried out on production and the food supply chain; the parties to the contracts are free to refer to these indicators or any other indicators which they deem relevant,
+
+(ii) the volume of raw milk which may and/or must be delivered and the timing of such deliveries,
+
+(iii) the duration of the contract, which may include either a definite or an indefinite duration with termination clauses,
+
+(iv) details regarding payment periods and procedures,
+
+(v) arrangements for collecting or delivering raw milk, and
+
+(vi) rules applicable in the event of force majeure.
+
+3\. By way of derogation from paragraphs 1 and 1a, a contract and/or an offer for a contract shall not be required where raw milk is delivered by a member of a cooperative to the cooperative of which he is a member if the statutes of that cooperative or the rules and decisions provided for in or derived from these statutes contain provisions having similar effects to the provisions set out in points (a), (b) and (c) of paragraph 2.
+
+4\. All elements of contracts for the delivery of raw milk concluded by farmers, collectors or processors of raw milk, including the elements referred to in point (c) of paragraph 2, shall be freely negotiated between the parties.
+
+Notwithstanding the first subparagraph, one or more of the following shall apply:
+
+(a) where a Member State decides to make a written contract for the delivery of raw milk compulsory in accordance with paragraph 1, it may establish:
+
+(i) an obligation for the parties to agree on a relationship between a given quantity delivered and the price payable for that delivery;
+
+(ii) a minimum duration, applicable only to written contracts between a farmer and the first purchaser of raw milk; such a minimum duration shall be at least six months, and shall not impair the proper functioning of the internal market;
+
+(b) where a Member State decides that the first purchaser of raw milk must make a written offer for a contract to the farmer in accordance with paragraph 1, it may provide that the offer must include a minimum duration for the contract, set by national law for this purpose; such a minimum duration shall be at least six months, and shall not impair the proper functioning of the internal market.
+
+The second subparagraph shall be without prejudice to the farmer's right to refuse such a minimum duration provided that he does so in writing. In such a case, the parties shall be free to negotiate all elements of the contract, including the elements referred to in point (c) of paragraph 2.
+
+5\. The Member States which make use of the options referred to in this Article shall notify the Commission of how they are applied.
+
+6\. The Commission may adopt implementing acts laying down measures necessary for the uniform application of points (a) and (b) of paragraph 2 and paragraph 3 of this Article and measures relating to notifications to be made by the Member States in accordance with this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 149 — Contractual negotiations in the milk and milk products sector
+
+1\. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+
+2\. The negotiations by the producer organisation may take place:
+
+(a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+
+(b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+
+(c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+
+(i) the volume of raw milk covered by such negotiations does not exceed 7 % of total Union production;
+
+(ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 36 % of the total national production of that Member State; and
+
+(iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 36 % of the total national production of that Member State;
+
+(d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate from this condition in duly justified cases where farmers hold two distinct production units located in different geographic areas;
+
+(e) provided that the raw milk is not covered by an obligation to deliver arising from the farmer's membership of a cooperative in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from these statutes; and
+
+(f) provided that the producer organisation notifies the competent authorities of the Member State or Member States in which it operates of the volume of raw milk covered by such negotiations.
+
+3\. Notwithstanding the conditions set out in of point (c)(ii) and (iii) of paragraph 2, a producer organisation may negotiate pursuant to paragraph 1 provided that, with regard to that producer organisation, the volume of raw milk covered by the negotiations which is produced in or delivered in a Member State having a total annual raw milk production of less than 500 000 tonnes does not exceed 45 % of the total national production of that Member State.
+
+4\. For the purposes of this Article, references to producer organisations include associations of such producer organisations.
+
+5\. For the purposes of applying point (c) of paragraph 2 and paragraph 3, the Commission shall publish, by such means as it considers appropriate, the amounts of raw milk production in the Union and the Member States using the most up-to-date information available.
+
+6\. By way of derogation from point (c) of paragraph 2 and paragraph 3, even where the thresholds set out therein are not exceeded, the competition authority referred to in the second subparagraph of this paragraph may decide in an individual case that a particular negotiation by the producer organisation should either be reopened or should not take place at all if it considers that this is necessary in order to prevent competition from being excluded or in order to avoid seriously damaging SME processors of raw milk in its territory.
+
+For negotiations covering more than one Member State, the decision referred to in the first subparagraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3). In other cases, that decision shall be taken by the national competition authority of the Member State to which the negotiations relate.
+
+The decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.
+
+7\. For the purposes of this Article:
+
+(a) a "national competition authority" means the authority referred to in Article 5 of Council Regulation (EC) No 1/2003 ( 18 );
+
+(b) a "SME" means a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.
+
+8\. The Member States in which negotiations take place in accordance with this Article shall notify the Commission of the application of point (f) of paragraph 2 and of paragraph 6.
+
+###### Article 151 — Compulsory declarations in the milk and milk products sector
+
+The first purchasers of raw milk shall declare to the competent national authority the quantity of raw milk that has been delivered to them each month and the average price paid. A distinction shall be made between organic and non-organic milk.
+
+For the purposes of this Article and Article 148, a "first purchaser" means an undertaking or group which buys milk from producers in order to:
+
+(a) subject it to collecting, packing, storing, chilling or processing, including under a contract;
+
+(b) sell it to one or more undertakings treating or processing milk or other milk products.
+
+Member States shall notify the Commission of the quantities of raw milk and the average prices referred to in the first paragraph.
+
+The Commission may adopt implementing acts laying down rules on the content, format and timing of such declarations and measures relating to the notifications to be made by the Member States in accordance with this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+#### CHAPTER III — Producer organisations and associations and interbranch organisations
+
+##### Section 1 — Definition and recognition
+
+###### Article 152 — Producer organisations
+
+1\. Member States may, on request, recognise producer organisations, which:
+
+(a) are constituted by producers in a specific sector listed in Article 1(2) and are controlled by farmer members producing agricultural products of the soil or of stockfarming, in accordance with Article 153(2), point (c); a recognition may be granted for one or more of the specific sectors listed in Article 1(2) provided that the producer organisation fulfils the conditions for recognition for all of them;
+
+Member States may decide that the control by the farmer members referred to in this point can be exercised by associations of farmers producing agricultural products of the soil or stockfarming provided that these associations are controlled by those farmers;
+
+(b) are formed on the initiative of farmers producing agricultural products of the soil or of stockfarming and carry out at least one of the following activities:
+
+(i) joint processing;
+
+(ii) joint distribution, including by joint selling platforms or joint transportation;
+
+(iii) joint packaging, labelling or promotion;
+
+(iv) joint organising of quality control;
+
+(v) joint use of equipment or storage facilities;
+
+(vi) joint management of waste directly related to the production;
+
+(vii) joint procurement of inputs;
+
+(viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+
+(c) pursue a specific aim which may include at least one of the following objectives:
+
+(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+
+(ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+
+(iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+
+(iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+
+(v) promoting, and providing technical assistance for, the use of environmentally sound cultivation practices and production techniques, and sound animal welfare practices and techniques;
+
+(vi) promoting and providing technical assistance for the use of production standards, improving product quality, developing products with a protected designation of origin, with a protected geographical indication or covered by a national quality label, and carrying out initiatives promoting short supply chains or the use of the optional terms referred to in Article 88a;
+
+(vii) the management and valorisation of by-products, of residual flows and of waste, in particular to protect the quality of water, soil and landscape, preserving or encouraging biodiversity, and boosting circularity;
+
+(viii) contributing to a sustainable use of natural resources and to climate change mitigation;
+
+(ix) developing initiatives in the area of promotion and marketing;
+
+(x) managing mutual funds;
+
+(xi) providing the necessary technical assistance for the use of the futures markets and of insurance schemes.
+
+1a. By way of derogation from Article 101(1) TFEU, a producer organisation recognised under paragraph 1 of this Article, or a producer organisation, including a cooperative or any other equivalent legal form recognised by national law that has applied for recognition and has not yet been recognised as a producer organisation by a Member State, provided that it meets the requirements set out in paragraph 1 of this Article and in Article 154 of this Regulation, may plan production, optimise the production costs, place on the market and negotiate contracts for the supply of agricultural products, on behalf of its members for all or part of their total production. Such a producer organisation may avail itself of that derogation within the period provided for in Article 154(4), point (a), of this Regulation, or, if the Member State has not taken any decision on the application for recognition by the end of that period, within the period of five years from the date of submission of the application for recognition, unless the Member State concerned has decided to refuse the recognition.
+
+The activities referred to in the first subparagraph may take place:
+
+(a) provided that one or more of the activities referred to in point (b)(i) to (vii) of paragraph 1 is genuinely exercised, thus contributing to the fulfilment of the objectives set out in Article 39 TFEU;
+
+(b) provided that the producer organisation concentrates supply and places the products of its members on the market, whether or not there is a transfer of ownership of agricultural products by the producers to the producer organisation;
+
+(c) whether or not the price negotiated is the same as regards the aggregate production of some or all of the members;
+
+(d) provided that the producers concerned are not members of any other producer organisation as regards the products covered by the activities referred to in the first subparagraph;
+
+(e) provided that the agricultural product is not covered by an obligation to deliver arising from the farmer's membership of a cooperative, which is not itself a member of the producer organisations concerned, in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from those statutes.
+
+However, Member States may derogate from the condition set out in point (d) of the second subparagraph in duly justified cases where producer members hold two distinct production units located in different geographical areas.
+
+1b. For the purposes of this Article, references to producer organisations shall also include associations of producer organisations recognised under Article 156(1) if such associations meet the requirements set out in paragraph 1 of this Article.
+
+Where an association of producer organisations recognised under Article 156(1) does not comply with the conditions set out in paragraph 1a, second subparagraph, points (a) and (b), of this Article, but its members do comply with those conditions, it may also carry out the activities referred to in the first subparagraph of paragraph 1a, of this Article, provided that:
+
+(a) its members have been recognised in accordance with paragraph 1 of this Article;
+
+(b) its members are not members of another recognised association of producer organisations as regards the products covered by the activities referred to in the first subparagraph of paragraph 1a, of this Article; and
+
+(c) the volume of the product covered by the activities referred to in the first subparagraph of paragraph 1a, of this Article does not exceed 36 % of the total national production of that product in the Member State concerned.
+
+1c. The national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, for the future, one or more of the activities referred to in the first subparagraph of paragraph 1a are to be modified, discontinued or not take place at all if it considers that this is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.
+
+For negotiations covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3).
+
+When acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing before or without delay after initiating the first formal measure of the investigation and shall notify the Commission of the decisions without delay after their adoption.
+
+The decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.
+
+2\. A producer organisation recognised under paragraph 1 may continue to be recognised if it engages in the marketing of products falling within CN code ex 2208 other than those referred to in Annex I to the Treaties, provided that the proportion of such products does not exceed 49 % of the total value of marketed production of the producer organisation and that such products do not benefit from Union support. Those products do not count, for producer organisations in the fruit and vegetables sector, towards the calculation of the value of marketed production for the purposes of Article 34(2).
+
+###### Article 153 — Statutes of producer organisations
+
+1\. The statutes of a producer organisation shall require its producer members, in particular, to:
+
+(a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
+
+(b) be members of only one producer organisation for any given product of the holding, where any given product refers to products which are sufficiently distinct, in particular on the basis of their characteristics or intended final uses;
+
+however, Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+
+(c) provide the information requested by the producer organisation for statistical purposes.
+
+2\. The statutes of a producer organisation shall also provide for:
+
+(a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;
+
+(b) the imposition on members of financial contributions needed to finance the producer organisation;
+
+(c) rules enabling the farmer members producing agricultural products of the soil or of stockfarming to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;
+
+(d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;
+
+(e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;
+
+(f) the accounting and budgetary rules necessary for the operation of the organisation.
+
+2a. The statutes of a producer organisation may provide for the possibility of members being in direct contact with purchasers, provided that such direct contact does not jeopardise the objectives pursued by the producer organisation, including the concentration of supply and placing of products on the market by the producer organisation. Concentration of supply and the placing of products on the market shall be deemed to have been ensured if the essential elements of the sales, such as price, quality and volume, are negotiated and determined by the producer organisation. The statutes of a producer organisation that allows direct contact between members and purchasers may include internal control and prevention mechanisms to ensure that such contact does not adversely affect the objectives of the producer organisation, including the concentration of supply.
+
+3\. Paragraphs 1, 2 and 2a shall not apply to producer organisations in the milk and milk products sector.
+
+###### Article 154 — Recognition of producer organisations
+
+1\. In order to be recognised by a Member State, the producer organisation applying for such recognition shall be a legal entity or clearly defined part of a legal entity which:
+
+(a) fulfils the requirements laid down in points (a), (b) and (c) of Article 152(1);
+
+(b) has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates; such provisions shall not prevent the recognition of producer organisations which are dedicated to small-scale production;
+
+(c) provides sufficient evidence that it can carry out its activities properly, both over time and in terms of effectiveness, provision of human, material and technical support to its members, and as appropriate concentration of supply;
+
+(d) has statutes that are consistent with points (a), (b) and (c) of this paragraph.
+
+1a. Member States may, on request, decide to grant more than one recognition to a producer organisation operating in several sectors referred to in Article 1(2) provided the producer organisation fulfils the conditions referred to in paragraph 1 of this Article for each sector for which it seeks recognition.
+
+2\. Member States may decide that producer organisations which have been recognised before 1 January 2018 and which fulfil the conditions laid down in paragraph 1 of this Article shall be deemed to be recognised as producer organisations pursuant to Article 152.
+
+3\. Where producer organisations have been recognised before 1 January 2018 but do not fulfil the conditions set out in paragraph 1 of this Article, Member States shall withdraw their recognition no later than 31 December 2020.
+
+4\. Member States shall:
+
+(a) decide whether to grant recognition to a producer organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+
+(b) carry out, at intervals to be determined by them, checks to verify that recognised producer organisations are complying with this Chapter;
+
+(c) in the event of non-compliance or irregularities in the application of the measures provided for in this Chapter, impose on those organisations and associations the applicable penalties they have laid down and, if necessary, decide whether recognition should be withdrawn;
+
+(d) inform the Commission by 31 March of each year, of every decision to grant, refuse or withdraw recognition taken during the previous calendar year.
+
+###### Article 155 — Outsourcing
+
+Member States may permit a recognised producer organisation or a recognised association of producer organisations in the sectors specified by the Commission in accordance with point (f) of Article 173(1) to outsource any of its activities other than production, including to subsidiaries, provided that the producer organisation or association of producer organisations remains responsible for ensuring the carrying out of the outsourced activity and overall management control and supervision of the commercial arrangement for the carrying out of the activity.
+
+###### Article 156 — Associations of producer organisations
+
+1\. Member States may, on request, recognise associations of producer organisations in a specific sector listed in Article 1(2) which are formed at the initiative of recognised producer organisations.
+
+Subject to the rules adopted pursuant to Article 173, associations of producer organisations may carry out any of the activities or functions of producer organisations.
+
+2\. By way of derogation from paragraph 1, Member States may, on request, recognise an association of recognised producer organisations in the milk and milk products sector if the Member State concerned considers that the association is capable of carrying out effectively any of the activities of a recognised producer organisation, and that it fulfils the conditions laid down in Article 161(1).
+
+###### Article 157 — Interbranch organisations
+
+1\. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:
+
+(a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+
+(b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+
+(c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+
+(i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+
+(ii) forecasting of production potential, and recording public market prices;
+
+(iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+
+(iv) exploring potential export markets;
+
+(v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply of processed products to distributors and retailers, taking into account the need to achieve fair competitive conditions and to avoid market distortions;
+
+(vi) exploiting to a fuller extent the potential of the products, including at the level of market outlets, and developing initiatives to strengthen economic competitiveness and innovation;
+
+(vii) providing the information and carrying out the research necessary to innovate, rationalise, improve and adjust production and, where applicable, the processing and marketing, towards products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality, including the specific characteristics of products with a protected designation of origin or protected geographical indication, and protection of the environment, climate action, animal health and animal welfare;
+
+(viii) seeking ways of restricting the use of animal-health or plant protection products, better managing other inputs, ensuring product quality and soil and water conservation, promoting food safety, in particular through traceability of products, and improving animal health and welfare;
+
+(ix) developing methods and instruments for improving product quality at all stages of production and, where applicable, of processing and marketing;
+
+(x) taking all possible actions to uphold, protect and promote organic farming and designations of origin, quality labels and geographical indications;
+
+(xi) promoting and carrying out research into integrated, sustainable production or other environmentally sound production methods;
+
+(xii) encouraging healthy and responsible consumption of the products on the internal market and/or informing about the harm linked to hazardous consumption patterns;
+
+(xiii) promoting consumption of, and/or furnishing information concerning, products on the internal market and external markets;
+
+(xiv) contributing to the management and developing initiatives for the valorisation of by-products and the reduction and management of waste;
+
+(xv) establishing standard value sharing clauses within the meaning of Article 172a, including market bonuses and losses, determining how any evolution of relevant market prices of the products concerned or other commodity markets is to be allocated between them;
+
+(xvi) promoting and implementing measures to prevent, control and manage animal health, plant-protection and environmental risks, including by setting up and managing mutual funds or by contributing to such funds with a view to paying financial compensation to farmers for costs and economic losses arising from the promotion and implementation of such measures;
+
+(xvii) promoting the use of the optional terms referred to in Article 88a.
+
+1a. Member States may, on request, decide to grant more than one recognition to an interbranch organisation operating in several sectors referred to in Article 1(2) provided the interbranch organisation fulfils the conditions referred to in paragraph 1 for each sector for which it seeks recognition.
+
+2\. In duly justified cases, Member States may decide on the basis of objective and non-discriminatory criteria that the condition in point (c) of Article 158(1) is fulfilled by limiting the number of interbranch organisations on a regional or national level if so provided for by national rules in place before 1 January 2014, and where this does not impair the proper functioning of the internal market.
+
+###### Article 158 — Recognition of interbranch organisations
+
+1\. Member States may recognise interbranch organisations applying for such recognition, provided that they:
+
+(a) fulfil the requirements laid down in Article 157;
+
+(b) carry out their activities in one or more regions in the territory concerned;
+
+(c) account for a significant share of the economic activities referred to in point (a) of Article 157(1);
+
+(ca) strive for a balanced representation of the organisations in the stages of the supply chain referred to in Article 157(1), point (a), that constitute the interbranch organisation;
+
+(d) with the exception of the cases laid down in Article 162, do not, themselves, engage in production, processing or trade.
+
+2\. Member States may decide that interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are deemed to be recognised as interbranch organisations pursuant to Article 157.
+
+3\. Interbranch organisations which have been recognised before 1 January 2014 on the basis of national law and which do not fulfil the conditions laid down in paragraph 1 of this Article may continue to exercise their activities under national law until 1 January 2015.
+
+4\. Member States may recognise interbranch organisations in all sectors existing prior to 1 January 2014, whether they were recognised on request or established by law, even though they do not fulfil the condition laid down in Article 157(1), point (b).
+
+5\. Where Member States recognise an interbranch organisation in accordance with paragraph 1 or 2, they shall:
+
+(a) decide whether to grant recognition within four months of the lodging of an application with all relevant supporting documents; this application shall be lodged with the Member State where the organisation has its headquarters;
+
+(b) carry out, at intervals to be determined by them, checks to verify that recognised interbranch organisations are complying with the conditions governing their recognition;
+
+(c) in the event of non-compliance or irregularities in the implementation of the measures provided for in this Regulation, impose on those organisations the applicable penalties they have laid down and, if necessary, decide whether recognition should be withdrawn;
+
+(d) withdraw recognition if the requirements and conditions for recognition laid down in this Article are no longer met;
+
+(e) inform the Commission by 31 March of each year of every decision to grant, refuse or withdraw recognition taken during the previous calendar year.
+
+##### Section 2 — Additional rules for specific sectors
+
+###### Article 159 — Mandatory recognition
+
+By way of derogation from Articles 152 to 158, Member States shall, on request, recognise:
+
+(a) producer organisations in:
+
+(i) the fruit and vegetables sector in respect of one or more products of that sector and/or such products solely intended for processing,
+
+(ii) the olive oil and table olives sector,
+
+(iii) the silkworm sector,
+
+(iv) the hops sector;
+
+(b) interbranch organisations in the olive oil and table olives sector and the tobacco sector.
+
+###### Article 160 — Producer organisations in the fruit and vegetables sector
+
+In the fruit and vegetables sector producer organisations shall pursue at least one of the objectives set out in points (c)(i), (ii) and (iii) of Article 152(1).
+
+The statutes of a producer organisation in the fruit and vegetables sector shall require its producer members to market their entire production concerned through the producer organisation.
+
+Producer organisations and associations of producer organisations in the fruit and vegetables sector shall be deemed to be acting in the name and on behalf of their members in economic matters within their terms of reference.
+
+###### Article 161 — Recognition of producer organisations in the milk and milk products sector
+
+1\. Member States shall, on request, recognise as producer organisations in the milk and milk products sector all legal entities or clearly defined parts of such entities, provided that:
+
+(a) they are constituted by producers in the milk and milk products sector, are formed on their initiative and pursue a specific aim which may include one or more of the following objectives:
+
+(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+
+(ii) concentration of supply and the placing on the market of the products produced by their members;
+
+(iii) optimising production costs and stabilising producer prices;
+
+(b) they have a minimum number of members and/or cover a minimum volume of marketable production, to be laid down by the Member State concerned, in the area where they operate;
+
+(c) there is sufficient evidence that they can carry out their activities properly, both over time and in terms of effectiveness and concentration of supply;
+
+(d) they have statutes that are consistent with points (a), (b) and (c) of this paragraph.
+
+2\. Member States may decide that producer organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 are to be considered as recognised producer organisations.
+
+3\. Member States shall:
+
+(a) decide whether to grant recognition to a producer organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+
+(b) carry out, at intervals to be determined by them, checks to verify that recognised producer organisations and associations of producer organisations are complying with the provisions of this Chapter;
+
+(c) in the event of non-compliance or irregularities in the implementation of the measures provided for in this Chapter, impose on those organisations and associations the applicable penalties that they have laid down and, if necessary, decide whether recognition should be withdrawn;
+
+(d) inform the Commission by 31 March of each year of every decision to grant, refuse or withdraw recognition which they have taken during the previous calendar year.
+
+###### Article 162 — Interbranch organisations in the olive oil and table olives and tobacco sectors
+
+For interbranch organisations in the olive oil and table olives and tobacco sectors, the specific aim referred to in point (c) of Article 157(1) may also include at least one of the following objectives:
+
+(a) concentrating and co-ordinating supply and marketing of the produce of the members;
+
+(b) adapting production and processing jointly to the requirements of the market and improving the product;
+
+(c) promoting the rationalisation and improvement of production and processing.
+
+###### Article 163 — Recognition of interbranch organisations in the milk and milk products sector
+
+1\. Member States may recognise interbranch organisations in the milk and milk products sector provided that such organisations:
+
+(a) fulfil the requirements laid down in Article 157;
+
+(b) carry out their activities in one or more regions in the territory concerned;
+
+(c) account for a significant share of the economic activities referred to in Article 157(1), point (a);
+
+(d) do not themselves engage in the production of, the processing of, or the trade in, products in the milk and milk products sector.
+
+2\. Member States may decide that interbranch organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are to be considered to be recognised as interbranch organisations under Article 157(1).
+
+3\. Where Member States make use of the option to recognise an interbranch organisation in accordance with paragraph 1 or 2, they shall:
+
+(a) decide whether to grant recognition to the interbranch organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+
+(b) carry out, at intervals to be determined by them, checks to verify that recognised interbranch organisations are complying with the conditions governing their recognition;
+
+(c) in the event of non-compliance or irregularities in the implementation of the measures provided for in this Regulation, impose on those organisations the applicable penalties they have laid down and, if necessary, decide whether recognition should be withdrawn;
+
+(d) withdraw recognition if the requirements and conditions for recognition laid down in this Article are no longer fulfilled;
+
+(e) inform the Commission by 31 March of each year of every decision to grant, refuse or withdraw recognition taken during the previous calendar year.
+
+##### Section 3 — Extension of rules and compulsory contributions
+
+###### Article 164 — Extension of rules
+
+1\. In cases where a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation operating in a specific economic area or areas of a Member State is considered to be representative of the production of or trade in, or processing of, a given product, the Member State concerned may, at the request of that organisation, make binding for a limited period of time some of the agreements, decisions or concerted practices agreed within that organisation on other operators acting in the economic area or areas in question, whether individuals or groups, who do not belong to the organisation or association.
+
+2\. For the purposes of this Section, an ‘economic area’ means a geographical zone made up of adjoining or neighbouring production regions in which production and marketing conditions are homogeneous, or, for products with a protected designation of origin or protected geographical indication recognised under Union law, the geographical zone specified in the product specification.
+
+3\. An organisation or association shall be deemed representative where, in the economic area or areas concerned of a Member State, it accounts for:
+
+(a) as a proportion of the volume of production of, or of trade in, or of processing of the product or products concerned:
+
+(i) for producer organisations in the fruit and vegetables sector, at least 60 %, or
+
+(ii) in other cases, at least two thirds; and
+
+(b) in the case of producer organisations, more than 50 % of the producers concerned.
+
+However, where, in the case of interbranch organisations, the determination of the proportion of the volume of production, or of trade in, or of processing of the product or products concerned gives rise to practical difficulties, a Member State may lay down national rules for determining the specified level of representativeness referred to in point (a)(ii) of the first subparagraph.
+
+Where the request for an extension of its rules to other operators covers more than one economic area, the organisation or association shall demonstrate the minimum level of representativeness as defined in the first subparagraph for each of the branches it groups in each of the economic areas concerned.
+
+4\. The rules for which extension to other operators may be requested as provided for in paragraph 1 shall have one of the following aims:
+
+(a) production and market reporting;
+
+(b) stricter production rules than those laid down in Union or national rules;
+
+(c) the drawing up of standard contracts which are compatible with Union rules;
+
+(d) marketing;
+
+(e) protecting the environment;
+
+(f) measures to promote and exploit the potential of products;
+
+(g) measures to protect organic farming as well as designations of origin, quality labels and geographical indications;
+
+(h) research to add value to the products, in particular through new uses which do not pose a threat to public health;
+
+(i) studies to improve the quality of products;
+
+(j) research, in particular into methods of cultivation permitting reduced use of plant protection or animal health products and guaranteeing conservation of the soil and conservation or improvement of the environment;
+
+(k) the definition of minimum qualities and definition of minimum standards of packing and presentation;
+
+(l) the use of certified seed except when used for organic production within the meaning of Regulation (EU) 2018/848, and the monitoring of product quality;
+
+(m) the prevention and management of phytosanitary, animal health, food safety or environmental risks;
+
+(n) the management and valorisation of by-products.
+
+Those rules shall not cause any damage to other operators, nor prevent the entry of new operators, in the Member State concerned or the Union and shall not have any of the effects listed in Article 210(4) or be otherwise incompatible with Union law or national rules in force.
+
+5\. The extension of the rules referred to in paragraph 1 shall be brought to the attention of operators by publication in full in an official publication of the Member State concerned.
+
+6\. Member States shall notify the Commission of any decisions taken under this Article.
+
+###### Article 165 — Financial contributions of non-members
+
+Where rules of a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation are extended under Article 164 and the activities covered by those rules are in the general economic interest of economic operators whose activities relate to the products concerned, the Member State which has granted recognition may, after consulting the relevant stakeholders, decide that individual economic operators or groups which are not members of the organisation but which benefit from those activities shall pay the organisation all or part of the financial contributions paid by its members to the extent that such contributions are intended to cover costs directly incurred as a result of pursuing one or more of the activities in question. Any organisation which receives contributions from non-members under this Article, if requested by a member or a non-member that contributes financially to the activities of the organisation, shall make available those parts of its yearly budget which relate to the pursuit of activities listed in Article 164(4).
+
+##### Section 4 — Adjustment of supply
+
+###### Article 166 — Measures to facilitate the adjustment of supply to market requirements
+
+In order to encourage action by the organisations referred to in Articles 152 to 163 to facilitate the adjustment of supply to market requirements, with the exception of action relating to withdrawal from the market, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning measures in the sectors listed in Article 1(2):
+
+(a) improving quality;
+
+(b) promoting better organisation of production, processing and marketing;
+
+(c) facilitating the recording of market price trends;
+
+(d) permitting the establishment of short and long-term forecasts on the basis of the means of production used.
+
+###### Article 166a — Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication
+
+1\. Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a producer group as referred to in Article 32 of Regulation (EU) 2024/1143 or a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 46(1) and (2) of Regulation (EU) 2024/1143 or under Article 93(1), points (a) and (b), of this Regulation. Where a recognised producer group referred to in Article 33 of Regulation (EU) 2024/1143 exists, the producer group referred to in Article 32 of that Regulation shall not have that right.
+
+2\. The rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement that is to be concluded between at least two-thirds of the producers of the product as referred to in paragraph 1 of this Article or their representatives, accounting for at least two-thirds of the production of that product in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 or Article 93(1), points (a)(iii) and (b)(iv), of this Regulation for wine. Where the production of the product referred to in paragraph 1 of this Article involves processing and the product specification referred to in Article 7(1) of Regulation (EU) No 1151/2012 or in Article 94(2) of this Regulation restricts the sourcing of the raw material to a specific geographical area, Member States shall require, for the purposes of the rules to be laid down according to paragraph 1 of this Article:
+
+(a) that the producers of that raw material in the specific geographical area be consulted prior to the conclusion of the agreement referred to in this paragraph; or
+
+(b) that at least two-thirds of the producers of the raw material or their representatives, representing at least two-thirds of the production of the raw material used in the processing in the specific geographical area, are also parties to the agreement referred to in this paragraph.
+
+3\. By way of derogation from paragraph 2 of this Article, for the production of cheese benefitting from a protected designation of origin or protected geographic indication, the rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement between at least two-thirds of the milk producers or their representatives representing at least two-thirds of the raw milk used for the production of that cheese and, where relevant, at least two-thirds of the producers of that cheese or their representatives representing at least two-thirds of the production of that cheese in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012.
+
+For the purpose of the first subparagraph of this paragraph, concerning cheese benefiting from a protected geographical indication, the geographical area of origin of the raw milk, as set in the product specification for the cheese, shall be the same as the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 relating to that cheese.
+
+4\. The rules referred to in paragraph 1:
+
+(a) shall only cover the regulation of supply of the product concerned and, where applicable, the raw material and shall have the aim of adapting the supply of that product to demand;
+
+(b) shall have effect only on the product and, where applicable, the raw material, concerned;
+
+(c) may be made binding for no more than three years, except at the request of a recognised producer group as referred to in Article 33 of Regulation (EU) 2024/1143 where that period may be up to six years, but may be renewed after that period following a new request, as referred to in paragraph 1 of this Article;
+
+(d) shall not damage trade in products other than those concerned by those rules;
+
+(e) shall not relate to any transaction after the first marketing of the product concerned;
+
+(f) shall not allow for price fixing, including where prices are set for guidance or recommendation;
+
+(g) shall not render unavailable an excessive proportion of the product concerned that would otherwise be available;
+
+(h) shall not create discrimination, constitute a barrier for new entrants in the market, or lead to small producers being adversely affected;
+
+(i) shall contribute to maintaining the quality of the product concerned or to the development of the product concerned.
+
+(j) shall be without prejudice to Article 149 and Article 152(1a).
+
+5\. The rules referred to in paragraph 1 shall be published in an official publication of the Member State concerned.
+
+6\. Member States shall carry out checks in order to ensure that the conditions laid down in paragraph 4 are complied with. Where the competent national authorities find that such conditions have not been complied with, Member States shall repeal the rules referred to in paragraph 1.
+
+7\. Member States shall notify the Commission forthwith of the rules referred to in paragraph 1 which they have adopted. The Commission shall inform other Member States of any notification of such rules.
+
+8\. The Commission may at any time adopt implementing acts requiring that a Member State repeal the rules laid down by that Member State pursuant to paragraph 1 of this Article if the Commission finds that those rules do not comply with the conditions laid down in paragraph 4 of this Article, prevent or distort competition in a substantial part of the internal market or jeopardise free trade or the attainment of the objectives of Article 39 TFEU. Those implementing acts shall be adopted without applying the procedures referred to in Article 229(2) and (3) of this Regulation.
+
+###### Article 167 — Marketing rules to improve and stabilise the operation of the common market in wines
+
+1\. In order to improve and stabilise the operation of the common market in wines, including the grapes, musts and wines from which they derive, producing Member States may lay down marketing rules to regulate supply, including the setting of maximum yields and setting rules for the management of stocks. Member States may take into account, in decreasing order of priority, decisions adopted by interbranch organisations recognised under Articles 157 and 158 of this Regulation, producer groups referred to in Articles 32 and 33 of Regulation (EU) 2024/1143, and producer organisations recognised under Articles 152 and 154 of this Regulation, where such organisations and groups are considered to be representative of the wine sector in accordance with Article 164(3) and Article 166a(2) of this Regulation, in the economic area or areas where the rules are intended to be applied.
+
+Such rules shall be proportionate to the objective pursued and shall not:
+
+(a) relate to any transaction after the first marketing of the produce concerned;
+
+(b) allow for price fixing, including where prices are set for guidance or recommendation;
+
+(c) render unavailable an excessive proportion of the vintage that would otherwise be available;
+
+(d) provide scope for refusing to issue the national and Union certificates required for the circulation and marketing of wines where such marketing is in accordance with those rules.
+
+2\. The rules provided for in paragraph 1 shall be brought to the attention of operators by being published in full in an official publication of the Member State concerned.
+
+3\. Member States shall notify the Commission of any decisions taken under this Article.
+
+###### Article 167a — Marketing rules to improve and stabilise the operation of the common market in olive oils
+
+1\. In order to improve and stabilise the operation of the common market in olive oils, including the olives from which they derive, producer Member States may lay down marketing rules to regulate supply.
+
+Such rules shall be proportionate to the objective pursued and shall not:
+
+(a) relate to any transaction after the first marketing of the produce concerned;
+
+(b) allow for price fixing, including where prices are set for guidance or recommendation;
+
+(c) render unavailable an excessive proportion of the production of the marketing year that would otherwise be available.
+
+2\. The rules provided for in paragraph 1 shall be brought to the attention of operators by being published in full in an official publication of the Member State concerned.
+
+3\. Member States shall notify the Commission of any decisions taken under this Article.
+
+##### Section 5 — Contract systems
+
+###### Article 168 — Contractual relations
+
+1\. Without prejudice to Article 148 concerning the milk and milk products sector and Article 125 concerning the sugar sector, if a Member State decides, in respect of agricultural products from a sector listed in Article 1(2), other than milk and milk products and sugar:
+
+(a) that every delivery in its territory of those products by a producer to a processor or distributor must be covered by a written contract between the parties; and/or
+
+(b) that the first purchasers must make a written offer for a contract for the delivery in its territory of those agricultural products by the producer,
+
+such a contract or such an offer for a contract shall fulfil the conditions laid down in paragraphs 4 and 6 of this Article.
+
+1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation or an association of producer organisations, in respect of agricultural products in a sector referred to in Article 1(2) other than the milk, milk products and sugar sector, may require that any delivery of its products to a processor or distributor be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in paragraph 4 and in the first subparagraph of paragraph 6 of this Article.
+
+If the first purchaser is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC, the contract and/or the contract offer is not compulsory without prejudice to the possibility for the parties to make use of a standard contract drawn up by an interbranch organisation.
+
+2\. Where the Member State decides that deliveries of the products covered by this Article by a producer to a processor must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if delivery of the products concerned is made through one or more intermediaries.
+
+Member States shall ensure that the provisions that they adopt under this Article do not impair the proper functioning of the internal market.
+
+3\. In the case described in paragraph 2, the Member State may establish a mediation mechanism to cover cases in which there is no mutual agreement to conclude such a contract, thereby ensuring fair contractual relations.
+
+4\. Any contract or offer for a contract referred to in paragraphs 1 and 1a shall:
+
+(a) be made in advance of the delivery;
+
+(b) be made in writing; and
+
+(c) include, in particular, the following elements:
+
+(i) the price payable for the delivery, which shall:
+
+— be static and be set out in the contract and/or
+
+— be calculated by combining various factors set out in the contract, which may include objective indicators, indices and methods of calculation of the final price, that are easily accessible and comprehensible and that reflect changes in market conditions, the quantities delivered and the quality or composition of the agricultural products delivered; those indicators may be based on relevant prices, production and market costs; to that effect, Member States may determine indicators, in accordance with objective criteria based on studies carried out on production and the food supply chain; the parties to the contracts are free to refer to these indicators or any other indicators which they deem relevant.
+
+(ii) the quantity and quality of the products concerned which may or must be delivered and the timing of such deliveries,
+
+(iii) the duration of the contract, which may include either a definite duration or an indefinite duration with termination clauses,
+
+(iv) details regarding payment periods and procedures,
+
+(v) arrangements for collecting or delivering the agricultural products, and
+
+(vi) rules applicable in the event of force majeure.
+
+5\. By way of derogation from paragraphs 1 and 1a, a contract or an offer for a contract shall not be required where the products concerned are delivered by a member of a cooperative to the cooperative of which he is a member if the statutes of that cooperative or the rules and decisions provided for in, or derived from, these statutes contain provisions having similar effects to the provisions set out in points (a), (b) and (c) of paragraph 4.
+
+6\. All elements of contracts for the delivery of agricultural products concluded by producers, collectors, processors or distributors, including those elements referred to in point (c) of paragraph 4, shall be freely negotiated between the parties.
+
+Notwithstanding the first subparagraph, one or both of the following shall apply:
+
+(a) where a Member State decides to make written contracts for the delivery of agricultural products compulsory in accordance with paragraph 1, it may establish a minimum duration, applicable only to written contracts between a producer and the first purchaser of the agricultural products. Such a minimum duration shall be at least six months and shall not impair the proper functioning of the internal market;
+
+(b) where a Member State decides that the first purchaser of agricultural products must make the producer a written offer for a contract in accordance with paragraph 1, it may provide that the offer must include a minimum duration for the contract, set by national law for this purpose. Such a minimum duration shall be at least six months and shall not impair the proper functioning of the internal market.
+
+The second subparagraph shall be without prejudice to the producer's right to refuse such a minimum duration provided that he does so in writing. In this case, the parties shall be free to negotiate all elements of the contract, including those elements referred to in point (c) of paragraph 4.
+
+7\. Member States which make use of the options referred to in this Article shall ensure that the provisions set in place do not impair the proper functioning of the internal market.
+
+Member States shall notify the Commission of how they apply any measures introduced under this Article.
+
+8\. The Commission may adopt implementing acts laying down the measures necessary for the uniform application of points (a) and (b) of paragraph 4 and paragraph 5 of this Article and measures relating to notifications to be made by the Member States in accordance with this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+##### Section 5a — Value-sharing clauses
+
+###### Article 172a — Value sharing
+
+Without prejudice to any specific value-sharing clauses in the sugar sector, farmers, including associations of farmers, may agree with downstream operators on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices for the products concerned or other commodity markets is to be allocated between them.
+
+###### Article 172b — Guidance by interbranch organisations and producer groups for the sale of grapes, musts and wines in bulk with a protected designation of origin or protected geographical indication
+
+1\. By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation and recognised producer groups referred to in Article 33 of Regulation (EU) 2024/1143 operating in the wine sector, where such organisations and groups are considered to be representative in accordance with Article 164(3) and Article 166a(2) of this Regulation in the relevant geographical area, may provide non-mandatory price guidance indicators concerning the sale of grapes, musts and wines in bulk for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.
+
+2\. The national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in future, one or more of the price guidance indicators referred to in paragraph 1 of this Article are to be modified, discontinued or not provided at all if it considers that this is necessary in order to prevent competition being eliminated in respect of a substantial proportion of the products in question or if it considers that the objectives set out in Article 39 TFEU are jeopardised.
+
+When acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing before or without delay after initiating the first formal measure of the investigation and shall notify the Commission of the decisions without delay after their adoption.
+
+The decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.
+
+##### Section 6 — Procedural rules
+
+###### Article 173 — Delegated powers
+
+1\. In order to ensure that the objectives and responsibilities of producer organisations, associations of producer organisations and interbranch organisations are clearly defined so as to contribute to the effectiveness of the actions of such organisations and associations without resulting in undue administrative burden and without undermining the principle of freedom of association in particular toward non-members of such organisations, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the following matters regarding producer organisations, associations of producer organisations, and interbranch organisations for one or more of the sectors referred to in Article 1(2), or specific products of those sectors:
+
+(a) the specific aims which may, must or must not be pursued by such organisations and associations and, where applicable, added to those laid down in Articles 152 to 163;
+
+(b) the rules of such organisations and associations, the statutes of organisations other than producer organisations, the specific conditions applicable to the statutes of producer organisations in certain sectors, including derogations from the obligation to market the entire production through the producer organisation referred to in the second paragraph of Article 160, the structure, membership period, size, accountability and activities of such organisations and associations, the effects deriving from recognition, the withdrawal of recognition, and mergers;
+
+(c) the conditions for recognition, withdrawal and suspension of recognition, the effects deriving from recognition, withdrawal and suspension of recognition as well as requirements for such organisations and associations to take remedial measures in the event of non-respect of the recognition criteria;
+
+(d) transnational organisations and associations including the rules referred to in points (a), (b) and (c) of this paragraph;
+
+(e) rules relating to the establishment and the conditions of administrative assistance to be given by the relevant competent authorities in the case of transnational cooperation;
+
+(f) the sectors to which Article 155 applies,  the conditions for the outsourcing of activities, the nature of activities that may be outsourced and the provision of technical means by organisations or associations;
+
+(g) the basis for the calculation of minimum volume or value of marketable production of organisations and associations;
+
+(h) the acceptance of members who are not producers in the case of producer organisations and who are not producer organisations in the case of associations of producer organisations;
+
+(i) the extension of certain rules of the organisations provided for in Article 164 to non-members and the compulsory payment of subscriptions by non-members referred to in Article 165 including the use and allocation of that payment by those organisations and a list of the stricter production rules which may be extended under point (b) of the first subparagraph of Article 164(4), while ensuring that such organisations are transparent and accountable toward non-members and that members of such organisations do not enjoy a more favourable treatment than non-members, in particular as to the use of the compulsory payment of subscriptions;
+
+(j) further requirements as regards representativeness of the organisations referred to in Article 164, the economic areas concerned, including Commission scrutiny of their definition, minimum periods during which the rules shall apply before their extension, the persons or organisations to whom the rules or contributions may be applied, and the circumstances in which the Commission may require that the extension of rules or compulsory contributions be refused or withdrawn.
+
+2\. By way of derogation from paragraph 1, in order to ensure that the objectives and responsibilities of producer organisations, associations of producer organisations and interbranch organisations in the milk and milk products sector are clearly defined, so as to contribute to the effectiveness of the actions of such organisations without imposing an undue burden, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+
+(a) the conditions for recognising transnational producer organisations and transnational associations of producer organisations;
+
+(b) rules relating to the establishment and the conditions of administrative assistance to be given to producer organisations, including associations of producer organisations by the relevant competent authorities in the case of transnational cooperation;
+
+(c) additional rules regarding the calculation of the volume of raw milk covered by the negotiations referred to in point (c) of Article 149(2) and Article 149(3);
+
+(d) rules concerning the extension of certain rules of the organisations provided for in Article 164 to non-members and the compulsory payment of subscriptions by non-members referred to in Article 165.
+
+###### Article 174 — Implementing powers in accordance with the examination procedure
+
+1\. The Commission may adopt implementing acts laying down the measures necessary for the application of this Chapter, in particular:
+
+(a) measures for the implementation of the conditions for recognition of producer organisations and interbranch organisations set out in Articles 154 and 158;
+
+(b) procedures in the event of a merger of producer organisations;
+
+(c) procedures to be determined by Member States in relation to the minimum size and minimum membership period;
+
+(d) procedures relating to the extension of rules and financial contributions as referred to in Articles 164 and 165, in particular the implementation of the concept of "economic area" referred to in Article 164(2);
+
+(e) procedures relating to administrative assistance;
+
+(f) procedures relating to the outsourcing of activities;
+
+(g) procedures and technical conditions as regards the implementation of the measures referred to in Article 166.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+2\. By way of derogation from paragraph 1, as regards the milk and the milk product sector, the Commission may adopt implementing acts laying down detailed rules necessary for:
+
+(a) the implementation of the conditions for recognition of producer organisations and their associations and interbranch organisations set out in Articles 161 and 163;
+
+(b) the notification referred to in point (f) of Article 149(2);
+
+(c) the notifications to be made by the Member States to the Commission in accordance with point (d) of Article 161(3), point (e) of Article 163(3), Article 149(8) and Article 150(7);
+
+(d) the procedures relating to administrative assistance in the case of transnational cooperation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 175 — Other implementing powers
+
+The Commission may, by means of implementing acts, adopt individual decisions regarding:
+
+(a) the recognition of organisations carrying out activities in more than one Member State, pursuant to the rules adopted under point (d) of Article 173(1);
+
+(b) the objection to, or the withdrawal of, recognition of an interbranch organisation by a Member State;
+
+(c) the list of economic areas notified by Member States pursuant to the rules adopted under point (i) of Article 173(1) and point (d) of Article 173(2);
+
+(d) the requirement that a Member State refuse or repeal an extension of rules or financial contributions by non-members decided on by that Member State.
+
+Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+## PART III — TRADE WITH THIRD COUNTRIES
+
+#### CHAPTER I — Import and export licences
+
+###### Article 176 — General rules
+
+1\. Without prejudice to cases where import or export licences are required in accordance with this Regulation, the import for release into free circulation into, or the export of one or more products of the following sectors from, the Union may be made subject to the presentation of a licence:
+
+(a) cereals;
+
+(b) rice;
+
+(c) sugar;
+
+(d) seeds;
+
+(e) olive oil and table olives, with regard to products falling within CN codes 1509 , 1510 00 , 0709 92 90 , 0711 20 90 , 2306 90 19 , 1522 00 31 and 1522 00 39 ;
+
+(f) flax and hemp, as far as hemp is concerned;
+
+(g) fruit and vegetables;
+
+(h) processed fruit and vegetables;
+
+(i) bananas;
+
+(j) wine;
+
+(k) live plants;
+
+(l) beef and veal;
+
+(m) milk and milk products;
+
+(n) pigmeat;
+
+(o) sheepmeat and goatmeat;
+
+(p) eggs;
+
+(q) poultrymeat;
+
+(r) ethyl alcohol of agricultural origin.
+
+2\. Licences shall be issued by Member States to any applicant, irrespective of their place of establishment in the Union, unless an act adopted in accordance with Article 43(2) TFEU provides otherwise, and without prejudice to the application of Articles 177, 178 and 179 of this Regulation.
+
+3\. Licences shall be valid throughout the Union.
+
+###### Article 177 — Delegated powers
+
+1\. In order to take into account the international obligations of the Union and the applicable Union social, environmental and animal welfare standards, the need to monitor the evolution of trade and market developments, of imports and exports of products, the need for sound market management and the need to reduce the administrative burden, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 determining:
+
+(a) the list of the products of the sectors referred to in Article 176(1) subject to the presentation of an import or export licence;
+
+(b) the cases and situations where the presentation of an import or export licence is not required, taking account of the customs status of the products concerned, the trade arrangements to be respected, the purposes of operations, the legal status of the applicant and the quantities involved.
+
+2\. In order to provide further elements of the licence system, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down rules on:
+
+(a) the rights and obligations deriving from the licence, its legal effects, and the cases where a tolerance applies as regards compliance with the obligation to import or export the quantity mentioned in the licence or where the origin is to be indicated in the licence;
+
+(b) the issue of an import licence or the release into free circulation being subject to the presentation of a document issued by a third country or an entity certifying inter alia the origin, the authenticity and the quality characteristics of the products;
+
+(c) the transfer of the licence or restrictions on its transferability;
+
+(d) additional conditions for import licences for hemp in accordance with Article 189 and the principle of administrative assistance between Member States to prevent or deal with cases of fraud and irregularities;
+
+(e) the cases and situations where the lodging of a security guaranteeing that the products are imported or exported within the period of validity of the licence is or is not required.
+
+###### Article 178 — Implementing powers in accordance with the examination procedure
+
+The Commission shall adopt implementing acts laying down the measures necessary for the application of this Chapter, including rules on:
+
+(a) the format and content of the licence;
+
+(b) the submission of applications and the issuing of licences and their use;
+
+(c) the period of validity of the licence,
+
+(d) the procedures for, and the amount of, a security to be lodged;
+
+(e) the proof that the requirements for the use of licences have been fulfilled;
+
+(f) the level of the tolerance as regards the respect of the obligation to import or export the quantity mentioned in the licence;
+
+(g) the issue of replacement licences and duplicate licences;
+
+(h) the treatment of licences by Member States and the exchange of information needed for the management of the system, including the procedures relating to the specific administrative assistance between Member States.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 179 — Other implementing powers
+
+The Commission may adopt implementing acts:
+
+(a) limiting the quantities for which licences may be issued;
+
+(b) rejecting the quantities applied for;
+
+(c) suspending the submission of applications in order to manage the market where large quantities are applied for.
+
+Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+#### CHAPTER II — Import duties
+
+###### Article 180 — Implementation of international agreements and certain other acts
+
+The Commission shall adopt implementing acts laying down measures to comply with requirements laid down in international agreements which have been concluded in accordance with the TFEU or in any other relevant act adopted in accordance with Article 43(2) or Article 207 TFEU or the Common Customs Tariff as regards the calculation of import duties for agricultural products. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 181 — Entry price system for certain products of the fruit and vegetables, processed fruit and vegetables and wine sectors
+
+1\. For the application of the Common Customs Tariff duty rate for products of the fruit and vegetables and processed fruit and vegetables sectors and for grape juice and musts, the entry price of a consignment shall be equal to its customs value calculated in accordance with Council Regulation (EEC) No 2913/92 ( 19 ) (the Customs Code) and Commission Regulation (EEC) No 2454/93 ( 20 ).
+
+2\. In order to ensure the efficiency of the system, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to provide that the veracity of the declared entry price of a consignment is to be checked using a flat-rate import value, and to provide the conditions under which the lodging of a security is required.
+
+3\. The Commission shall adopt implementing acts establishing rules for the calculation of the flat-rate import value referred to in paragraph 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 182 — Additional import duties
+
+1\. The Commission may adopt implementing acts determining the products of the cereals, rice, sugar, fruit and vegetables, processed fruit and vegetables, beef and veal, milk and milk products, pigmeat, sheepmeat and goatmeat, eggs, poultry and bananas sectors, as well as of grape juice and grape must, to which, when imported subject to the rate of duty laid down in the Common Customs Tariff, an additional import duty shall apply in order to prevent or counteract adverse effects on the Union market which may result from those imports, if:
+
+(a) the imports are made at a price below the level notified by the Union to the WTO (the trigger price); or
+
+(b) the volume of imports in any year exceeds a certain level (the trigger volume).
+
+The trigger volume shall be equal to either 125 %, 110 % or 105 %, depending on whether market access opportunities, defined as imports expressed as a percentage of the corresponding domestic consumption during the three preceding years, are less than or equal to 10 %, greater than 10 % but less than or equal to 30 %, or greater than 30 %, respectively.
+
+Where domestic consumption is not taken into account, the trigger volume shall be equal to 125 %.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+2\. Additional import duties shall not be imposed where the imports are unlikely to disturb the Union market, or where the effects would be disproportionate to the intended objective.
+
+3\. For the purposes of point (a) of the first subparagraph of paragraph 1, import prices shall be determined on the basis of the c.i.f. import prices of the consignment under consideration. C.i.f. import prices shall be checked against the representative prices for the product on the world market or on the Union import market for that product.
+
+4\. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 183 — Other implementing powers
+
+The Commission may adopt implementing acts:
+
+(a) fixing the level of the applied import duty in accordance with the rules set out in an international agreement concluded in accordance with the TFEU, in the Common Customs Tariff and in the implementing acts referred to in Article 180;
+
+(b) fixing the representative prices and trigger volumes for the purposes of applying additional import duties in the framework of the rules adopted pursuant to Article 182(1).
+
+Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+#### CHAPTER III — Tariff quota management and special treatment of imports by third countries
+
+###### Article 184 — Tariff quotas
+
+1\. Tariff quotas for the import of agricultural products for release into free circulation in the Union or a part thereof, or tariff quotas for imports of Union agricultural products into third countries, which are to be partly or fully administered by the Union, resulting from international agreements concluded in accordance with the TFEU or any other act adopted in accordance with Article 43(2) or Article 207 TFEU, shall be opened and/or administered by the Commission by means of delegated acts pursuant to Article 186 of this Regulation and implementing acts pursuant to Article 187 of this Regulation.
+
+2\. Tariff quotas shall be administered in a manner which avoids any discrimination between the operators concerned, by applying one of the following methods or a combination of them or another appropriate method:
+
+(a) a method based on the chronological order of the submission of applications ("first come, first served" principle);
+
+(b) a method of distribution in proportion to the quantities requested when the applications were submitted (the "simultaneous examination method");
+
+(c) a method based on taking traditional trade patterns into account (the "traditional/newcomers method").
+
+3\. The method of administration adopted shall:
+
+(a) for import tariff quotas, give due weight to the supply requirements of the existing and emerging Union production, processing and consumption market in terms of competitiveness, certainty and continuity of supply and the need to safeguard the equilibrium of that market; and
+
+(b) for export tariff quotas, permit the full use of the possibilities available under the quota concerned.
+
+###### Article 185 — Specific tariff quotas
+
+In order to give effect to tariff quotas for import into Spain of 2 000 000 tonnes of maize and 300 000 tonnes of sorghum and tariff quotas for import into Portugal of 500 000 tonnes of maize, the Commission shall be empowered to adopt delegated acts, in accordance with Article 227, establishing the provisions necessary for carrying out the tariff quota imports and, where appropriate, the public storage of the quantities imported by the paying agencies of the Member States concerned and their disposal on the markets of those Member States.
+
+###### Article 186 — Delegated powers
+
+1\. In order to ensure fair access for the quantities available and the equal treatment of operators within the tariff quota, the Commission shall be empowered to adopt delegated acts in accordance with Article 227:
+
+(a) determining the conditions and eligibility requirements that an operator has to fulfil to submit an application within the tariff quota; the provisions concerned may require a minimum experience in trade with third countries and assimilated territories, or in processing activity, expressed as a minimum quantity and period of time in a given market sector; those provisions may include specific rules to suit the needs and practices in force in a certain sector and the uses and needs of the processing industries;
+
+(b) establishing rules on the transfer of rights between operators and, where necessary, the limitations to such transfer within the management of the tariff quota;
+
+(c) making participation in the tariff quota subject to the lodging of a security;
+
+(d) providing, where necessary, for any particular specific characteristics, requirements or restrictions applicable to the tariff quota as set out in the international agreement or other act referred to in Article 184(1).
+
+2\. In order to ensure that exported products may benefit from a special treatment on importation into a third country under certain conditions, pursuant to international agreements concluded by the Union in accordance with the TFEU, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 of this Regulation concerning rules requiring the competent authorities of Member States to issue, on request and after appropriate checks, a document certifying that the conditions are met for products that, if exported, may benefit from a special treatment on importation into a third country if certain conditions are respected.
+
+###### Article 187 — Implementing powers in accordance with the examination procedure
+
+The Commission may adopt implementing acts laying down:
+
+(a) the annual tariff quotas, if necessary suitably phased over the year, and the method of administration to be used;
+
+(b) procedures for the application of the specific provisions laid down in the agreement or act adopting the import or export regime, in particular, on:
+
+(i) guarantees covering the nature, provenance and origin of the product;
+
+(ii) recognition of the document used for verifying the guarantees referred to in point (i);
+
+(iii) the presentation of a document issued by the exporting country;
+
+(iv) destination and use of the products;
+
+(c) the period of validity of the licences or of the authorisations;
+
+(d) the procedures for, and the amount of, the security to be lodged;
+
+(e) the use of licences, and, where necessary, specific measures relating to, in particular, the conditions under which applications for import shall be submitted and authorisation granted within the tariff quota;
+
+(f) procedures and technical criteria for the application of Article 185;
+
+(g) necessary measures concerning the content, form, issue and use of the document referred to in Article 186(2).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 188 — Allocation process for tariff quotas
+
+1\. The Commission shall make public, via an appropriate web-publication, the results of tariff quota allocation for the applications notified taking into account the tariff quotas available and the applications notified.
+
+2\. The publication referred to in paragraph 1 shall also make reference, when appropriate, to the need of rejecting pending applications, suspending the submission of applications or allocating unused quantities.
+
+3\. Member States shall issue import licences and export licences for the quantities applied for within the import tariff quotas and export tariff quotas, subject to the respective allocation coefficients and after they are made public by the Commission in accordance with paragraph 1.
+
+#### CHAPTER IV — Special import provisions for certain products
+
+###### Article 189 — Imports of hemp
+
+1\. The following products may be imported into the Union only if the following conditions are met:
+
+(a) raw true hemp falling within CN code 5302 10 00 meeting the conditions laid down in Article 32(6) and in Article 35(3) of Regulation (EU) No 1307/2013
+
+(b) seeds of varieties of hemp falling within CN code ex 1207 99 20 for sowing accompanied by proof that the tetrahydrocannabinol level of the variety concerned does not exceed that fixed in accordance with Article 32(6) and in Article 35(3) of Regulation (EU) No 1307/2013;
+
+(c) hemp seeds other than for sowing, falling within CN code 1207 99 91 and imported only by importers authorised by the Member State in order to ensure that such seeds are not intended for sowing.
+
+2\. This Article shall apply without prejudice to more restrictive rules adopted by Member States in compliance with the TFEU and the obligations under the WTO Agreement on Agriculture.
+
+###### Article 190 — Imports of hops
+
+1\. Products of the hops sector may be imported from third countries only if their quality standards are at least equivalent to those adopted for like products harvested within the Union or made from such products.
+
+2\. Products shall be considered to be of the standard referred to in paragraph 1 if they are accompanied by an attestation issued by the authorities of the country of origin and recognised as equivalent to the certificate referred to in Article 77.
+
+In the case of hop powder, hop powder with higher lupulin content, extract of hops and mixed hop products, the attestation may be recognised as being equivalent to the certificate only if the alpha acid content of those products is not lower than that of the hops from which they have been prepared.
+
+3\. In order to minimise the administrative burden, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 setting the conditions under which obligations related to an attestation of equivalence and the labelling of packaging are not to apply.
+
+4\. The Commission shall adopt implementing acts laying down the measures necessary for the application of this Article, including the rules on the recognition of attestations of equivalence and on the checking of imports of hops. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 191 — Derogations for imported products and special security in the wine sector
+
+Derogations from point 5 of Section B or Section C of Part II of Annex VIII for imported products may be adopted in accordance with Article 43(2) TFEU, pursuant to the international obligations of the Union.
+
+In the case of derogations from point 5 of Section B of Part II of Annex VIII, importers shall lodge a security for those products with the designated customs authorities at the time of release into free circulation. The security shall be released on the presentation of proof by the importer, to the satisfaction of the customs authorities of the Member State of release into free circulation, that:
+
+(a) the products have not benefited from the derogations; or,
+
+(b) if they have benefited from the derogations, the products have not been vinified, or if they have been vinified, the resulting products have been appropriately labelled.
+
+The Commission may adopt implementing acts laying down rules to ensure the uniform application of this Article, including on the amounts of the security and appropriate labelling. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 193a — Suspension of import duties for molasses
+
+1\. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by establishing rules for the suspension of import duties in whole or in part for molasses falling within CN Code 1703 .
+
+2\. In application of the rules referred to in paragraph 1 of this Article, the Commission may adopt implementing acts to suspend in whole or in part import duties for molasses falling within CN Code 1703 , without applying the procedure referred to in Article 229(2) or (3).
+
+#### CHAPTER V — Safeguard and inward processing
+
+###### Article 194 — Safeguard measures
+
+1\. Safeguard measures against imports into the Union shall be taken by the Commission, subject to paragraph 3 of this Article, in accordance with Council Regulations (EC) No 260/2009 ( 21 ) and (EC) No 625/2009 ( 22 ).
+
+2\. Save as otherwise provided for in any other act of the European Parliament and the Council and any other act of the Council, safeguard measures against imports into the Union provided for in international agreements concluded in accordance with the TFEU shall be taken by the Commission in accordance with paragraph 3 of this Article.
+
+3\. The Commission may adopt implementing acts establishing the measures referred to in paragraphs 1 and 2 of this Article at the request of a Member State or on its own initiative. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+Where the Commission receives a request from a Member State, it shall, by means of implementing acts, take a decision thereon within five working days following the receipt of the request. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+On duly justified imperative grounds of urgency, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 229(3).
+
+The measures adopted shall be communicated to the Members States and shall take effect immediately.
+
+4\. The Commission may adopt implementing acts revoking or amending Union safeguard measures adopted pursuant to paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+On duly justified imperative grounds of urgency, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 229(3).
+
+###### Article 195 — Suspension of processing and inward processing arrangements
+
+Where the Union market is disturbed or is liable to be disturbed by processing or inward processing arrangements, the Commission may adopt implementing acts, at the request of a Member State or on its own initiative, fully or partially suspending the use of processing or inward processing arrangements for the products of the cereals, rice, sugar, olive oil and table olives, fruit and vegetables, processed fruit and vegetables, wine, beef and veal, milk and milk products, pigmeat, sheepmeat and goatmeat, eggs, poultrymeat and agricultural ethyl alcohol sectors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+Where the Commission receives a request from a Member State, it shall, by means of implementing acts, take a decision thereon within five working days following the receipt of the request. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+On duly justified imperative grounds of urgency, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 229(3).
+
+The measures adopted shall be communicated to the Members States and shall take effect immediately.
+
+#### CHAPTER VI — Export refunds
+
+#### CHAPTER VII — Outward processing
+
+###### Article 205 — Suspension of outward processing arrangements
+
+Where the Union market is disturbed or could be disturbed by outward processing arrangements, the Commission may adopt implementing acts, on a request from a Member State or on its own initiative, fully or partially suspending the use of outward processing arrangements for the products of the cereals, rice, fruit and vegetables, processed fruit and vegetables, wine, beef and veal, pigmeat, sheepmeat and goatmeat and poultrymeat sectors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+Where the Commission receives a request from a Member State, it shall, by means of implementing acts, take a decision thereon within five working days following receipt of the request. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+On duly justified imperative grounds of urgency, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 229(3).
+
+The measures adopted shall be communicated to the Members States and shall take effect immediately.
+
+## PART IV — COMPETITION RULES
+
+#### CHAPTER I — Rules applying to undertakings
+
+###### Article 206 — Commission guidelines on the application of competition rules to agriculture
+
+Save as otherwise provided in this Regulation, and in accordance with Article 42 TFEU, Articles 101 to 106 TFEU and the implementing provisions thereto shall, subject to Articles 207 to 210a of this Regulation, apply to all agreements, decisions and practices referred to in Article 101(1) and Article 102 TFEU which relate to the production of, or trade in, agricultural products.
+
+In order to ensure the functioning of the internal market and the uniform application of Union competition rules, the Commission and the competition authorities of the Member States shall apply the Union competition rules in close cooperation.
+
+In addition, the Commission shall, where appropriate, publish guidelines to assist the national competition authorities, as well as undertakings.
+
+###### Article 207 — Relevant market
+
+The definition of the relevant market is a tool to identify and define the boundaries of competition between undertakings, and shall be founded on two cumulative elements:
+
+(a) the relevant product market: for the purposes of this Chapter, "product market" means the market comprising all those products which are regarded as interchangeable or substitutable by the consumer by reason of the products' characteristics, their prices and their intended use;
+
+(b) the relevant geographic market: for the purposes of this Chapter, "geographic market" means the market comprising the area in which the undertakings concerned are involved in the supply of the relevant products, in which the conditions of competition are sufficiently homogeneous and which can be distinguished from neighbouring areas, particularly because the conditions of competition are appreciably different in those areas.
+
+###### Article 208 — Dominant position
+
+For the purposes of this Chapter, ‘dominant position’ means a position of economic strength enjoyed by an undertaking which enables it to prevent effective competition being maintained in the relevant market by giving it the power to behave to an appreciable extent independently of its competitors, of its suppliers or customers, and ultimately of consumers.
+
+###### Article 209 — Exceptions for the objectives of the CAP and farmers and their associations
+
+1\. Article 101(1) TFEU shall not apply to the agreements, decisions and practices referred to in Article 206 of this Regulation necessary for the attainment of the objectives set out in Article 39 TFEU.
+
+Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of farmers, farmers' associations, or associations of such associations, or producer organisations recognised under Article 152 or Article 161 of this Regulation, or associations of producer organisations recognised under Article 156 of this Regulation, which concern the production or sale of agricultural products or the use of joint facilities for the storage, treatment or processing of agricultural products, unless the objectives set out in Article 39 TFEU are jeopardised.
+
+This paragraph shall not apply to agreements, decisions and concerted practices which entail an obligation to charge an identical price or by which competition is excluded.
+
+2\. Agreements, decisions and concerted practices which fulfil the conditions referred to in paragraph 1 of this Article shall not be prohibited, no prior decision to that effect being required.
+
+However, farmers, farmers’ associations, or associations of such associations, or producer organisations recognised under Article 152 or Article 161 of this Regulation, or associations of producer organisations recognised under Article 156 of this Regulation, may request an opinion from the Commission on the compatibility of those agreements, decisions and concerted practices with the objectives set out in Article 39 TFEU.
+
+The Commission shall deal with requests for opinions promptly and shall send the applicant its opinion within four months of receipt of a complete request. The Commission may, at its own initiative or at the request of a Member State, change the content of an opinion, in particular if the applicant has provided inaccurate information or misused the opinion.
+
+In any national or Union proceedings for the application of Article 101 TFEU, the burden of proving an infringement of Article 101(1) TFEU shall rest on the party or the authority alleging the infringement. The party claiming the benefit of the exemptions provided in paragraph 1 of this Article shall bear the burden of proving that the conditions of that paragraph are fulfilled.
+
+###### Article 210 — Agreements and concerted practices of recognised interbranch organisations
+
+1\. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of interbranch organisations recognised under Article 157 of this Regulation which are necessary in order to meet the objectives listed in Article 157(1), point (c), of this Regulation or, as regards the olive oil and table olives and tobacco sectors, the objectives listed in Article 162 of this Regulation, and which are not incompatible with Union rules under paragraph 4 of this Article.
+
+Agreements, decisions and concerted practices which fulfil the conditions referred to in the first subparagraph of this paragraph shall not be prohibited, no prior decision to that effect being required.
+
+2\. Recognised interbranch organisations may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with this Article. The Commission shall send the requesting interbranch organisation its opinion within four months of receipt of a complete request.
+
+If the Commission finds at any time after issuing an opinion that the conditions referred to in paragraph 1 of this Article are no longer met, it shall declare that Article 101(1) TFEU shall apply in the future to the agreement, decision or concerted practice in question and inform the interbranch organisation accordingly.
+
+The Commission may change the content of an opinion at its own initiative or at the request of a Member State, in particular if the requesting interbranch organisation has provided inaccurate information or misused the opinion.
+
+4\. Agreements, decisions and concerted practices shall in any case be declared incompatible with Union rules if they:
+
+(a) may lead to the partitioning of markets within the Union in any form;
+
+(b) may affect the sound operation of the market organisation;
+
+(c) may create distortions of competition which are not essential to achieving the objectives of the CAP pursued by the interbranch organisation activity;
+
+(d) entail the fixing of prices or the fixing of quotas;
+
+(e) may create discrimination or eliminate competition in respect of a substantial proportion of the products in question.
+
+7\. The Commission may adopt implementing acts laying down the measures necessary for the uniform application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 210a — Vertical and horizontal initiatives for sustainability
+
+1\. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.
+
+2\. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.
+
+3\. For the purposes of paragraph 1, ‘sustainability standard’ means a standard which aims to contribute to one or more of the following objectives:
+
+(a) environmental objectives, including: climate change mitigation and adaptation; the sustainable use and protection of landscapes, water and soil, including through irrigation systems; the transition to a circular economy, including the reduction of food waste and the nutrient recycling of livestock manure into organic fertilisers or energy production; and pollution prevention and control; as well as the protection and restoration of biodiversity and ecosystems;
+
+(b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resistance in agricultural production; and
+
+(c) animal health and animal welfare;
+
+(d) supporting the economic viability of small farms predominantly relying on family labour with a standard output as defined in Article 2, point (8), of Council Regulation (EC) No 1217/2009 ( 23 ) that are not to exceed EUR 100 000 ;
+
+(e) attracting and supporting young producers of agricultural products; or
+
+(f) improving working and safety conditions in agricultural or processing activities.
+
+4\. Agreements, decisions and concerted practices that fulfil the conditions referred to in this Article shall not be prohibited, no prior decision to that effect being required.
+
+5\. The Commission shall issue guidelines for operators concerning the conditions for the application of this Article by 8 December 2023.
+
+6\. From 8 December 2023, producers referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with regard to the implementation of sustainability standards that aim to contribute to one or more of the objectives laid down in paragraph 3, points (a), (b) and (c), with this Article.
+
+From 19 August 2028, producers referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with regard to the implementation of sustainability standards that aim to contribute to one or more of the objectives laid down in paragraph 3, points (d), (e) and (f), with this Article.
+
+The Commission shall send its opinion to the applicant within four months of the receipt of a complete request.
+
+If the Commission finds at any time after issuing an opinion that the conditions referred to in paragraphs 1, 3 and 7 of this Article are no longer met, it shall declare that Article 101(1) TFEU is to apply in the future to the agreement, decision or concerted practice in question and inform the producers accordingly.
+
+The Commission may change the content of an opinion on its own initiative or at the request of a Member State, in particular if the applicant has provided inaccurate information or misused the opinion.
+
+7\. The national competition authority as referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in the future, one or more of the agreements, decisions and concerted practices referred to in paragraph 1 are to be modified, discontinued or not take place at all, if it considers that such a decision is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.
+
+For agreements, decisions and concerted practices covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedures referred to in Article 229(2) and (3).
+
+When acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing after initiating the first formal measure of the investigation and shall notify the Commission of any resulting decisions without delay after their adoption.
+
+The decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.
+
+#### CHAPTER II — State aid rules
+
+###### Article 211 — Application of Articles 107 to 109 TFEU
+
+1\. Articles 107 to 109 TFEU shall apply to the production of, and trade in, agricultural products.
+
+2\. By way of derogation from paragraph 1, Articles 107 to 109 TFEU shall not apply to payments made by Member States pursuant to and in conformity with either of the following:
+
+(a) the measures provided for in this Regulation which are partly or wholly financed by the Union;
+
+(b) Articles 213 to 218 of this Regulation.
+
+3\. By way of derogation from paragraph 1 of this Article, Articles 107, 108 and 109 TFEU shall not apply to national fiscal measures whereby Member States decide to deviate from general tax rules by allowing for the income tax base applied to farmers to be calculated on the basis of a multiannual period with a view to evening out the tax base over a certain number of years.
+
+###### Article 213 — National payments for reindeer in Finland and Sweden
+
+Subject to an authorisation by the Commission adopted without applying the procedure referred to in Article 229(2) or (3), national payments for the production and marketing of reindeer and reindeer products (CN codes ex 0208 and ex 0210 ) may be made by Finland and Sweden insofar as they do not entail any increase in traditional levels of production.
+
+###### Article 214 — National payments for the sugar sector in Finland
+
+Finland may make national payments of up to EUR 350 per hectare per marketing year to sugar beet growers.
+
+###### Article 214a — National payments for certain sectors in Finland
+
+Subject to authorisation by the Commission, for the period 2023-2027, Finland may continue to grant national aids which it granted in 2022 to producers on the basis of this Article provided that:
+
+(a) the total amount of income aid is degressive over the whole period and in 2027 does not exceed 67 % of the amount granted in 2022; and
+
+(b) prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+
+The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.
+
+###### Article 215 — National payments for apiculture
+
+Member States may make national payments for the protection of apiaries disadvantaged by structural or natural conditions or under economic development programmes, except for those allocated for production or trade.
+
+###### Article 216 — National payments for distillation of wine, green harvesting and grubbing up in justified cases of crisis
+
+1\. Member States may make national payments to wine producers for the voluntary or mandatory distillation of wine, voluntary green harvesting and voluntary grubbing up of productive vineyards in justified cases of crisis.
+
+The payments referred to in the first subparagraph in respect of crisis distillation and green harvesting shall not exceed the sum of the cost of the operation concerned, of an incentive to engage in such operation and, where relevant, of the cost of the product, and shall be sufficient to enable the crisis to be addressed.
+
+The payments referred to in the first subparagraph in respect of grubbing up of productive vineyards shall not exceed the sum of the direct cost of carrying out the grubbing up and financial compensation, which may cover up to 100 % of the estimated loss of revenue for one year in respect of the grubbed up area.
+
+Those payments shall be proportionate and shall be sufficient to enable the crisis to be addressed.
+
+The overall amount of payments available in a Member State in any given year for national payments for distillation and green harvesting shall not exceed 25 % of the globally available funds per Member State for that year as laid down in Annex VII to Regulation (EU) 2021/2115.
+
+2\. Member States wishing to make use of the national payments referred to in paragraph 1 shall submit a duly substantiated notification to the Commission. In those notifications, Member States shall justify the appropriateness of the measure, its duration and the amounts of support and other detailed arrangements on the basis of their specific market circumstances and those of the wine regions in which the measure would be implemented.
+
+The Commission shall decide, without applying the committee procedure referred to in Article 229(2) or (3), whether the amount, duration and other detailed arrangements of the measure are approved and whether the payments to wine producers can be made.
+
+Beneficiaries of national payments for grubbing up under this Article shall not be eligible to apply for new planting authorisations in accordance with Article 64 during the 10 marketing years following the one in which the grubbing up took place. Any valid authorisation for new plantings held by such beneficiaries shall be revoked by the Member State when the application for grubbing up is approved.
+
+Member States may exclude from the payments for grubbing up areas where vineyards play an important environmental, landscape preservation or socioeconomic role.
+
+In the production areas and for the types of wines for which one of the measures referred to in paragraph 1 of this Article has been implemented for three consecutive years, the Member State concerned shall suspend the granting of new planting authorisations in accordance with Article 64 until the end of the second marketing year following the last marketing year in which the measure was applied.
+
+Member States may establish eligibility conditions and priority criteria in order to guarantee the effectiveness and targeting of the measure.
+
+3\. The alcohol resulting from distillation referred to in paragraph 1 shall be used exclusively for industrial or energy purposes so as to avoid any distortion of competition.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 227 to supplement this Article by laying down rules concerning:
+
+(a) the general conditions of eligibility and the priority criteria to be set by Member States in respect to the allocation of the national payments referred to in paragraph 1 of this Article;
+
+(b) elements that determine the existence of a crisis situation;
+
+(c) the calculation method for the national payments; and
+
+(d) the coherence of such national payments with other Union support measures for the wine sector within the CAP, including the eligibility of beneficiaries or of the production regions covered by these national payments to other Union support measures.
+
+###### Article 217 — National payments for the distribution of products to children
+
+Member States may make national payments for supplying to children in educational establishments the groups of eligible products referred to in Article 23, for accompanying educational measures related to such products and for the related costs referred to in point (c) of Article 23(1).
+
+Member States may finance those payments by means of a levy on the sector concerned or by means of any other contribution from the private sector.
+
+###### Article 218 — National payments for nuts
+
+1\. Member States may make national payments, up to a maximum of EUR 120,75 per hectare per year, to farmers producing the following products:
+
+(a) almonds falling within CN codes 0802 11 and 0802 12 ;
+
+(b) hazelnuts or filberts falling within CN codes 0802 21 and 0802 22 ;
+
+(c) walnuts falling within CN codes 0802 31 00 and 0802 32 00 ;
+
+(d) pistachios falling within CN codes 0802 51 00 and 0802 52 00 ;
+
+(e) locust beans falling within CN code 1212 92 00 .
+
+2\. The national payments referred to in paragraph 1 may be paid only for a maximum area of:
+
+<table>
+<tbody><tr><td>Member State</td><td>Maximum area (ha)</td></tr>
+<tr><td>Belgium</td><td>100 </td></tr>
+<tr><td>Bulgaria</td><td>11 984 </td></tr>
+<tr><td>Germany</td><td>1 500 </td></tr>
+<tr><td>Greece</td><td>41 100 </td></tr>
+<tr><td>Spain</td><td>568 200 </td></tr>
+<tr><td>France</td><td>17 300 </td></tr>
+<tr><td>Italy</td><td>130 100 </td></tr>
+<tr><td>Cyprus</td><td>5 100 </td></tr>
+<tr><td>Luxembourg</td><td>100 </td></tr>
+<tr><td>Hungary</td><td>2 900 </td></tr>
+<tr><td>Netherlands</td><td>100 </td></tr>
+<tr><td>Poland</td><td>4 200 </td></tr>
+<tr><td>Portugal</td><td>41 300 </td></tr>
+<tr><td>Romania</td><td>1 645 </td></tr>
+<tr><td>Slovenia</td><td>300 </td></tr>
+<tr><td>Slovakia</td><td>3 100 </td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+3\. Member States may make the granting of national payments referred to in paragraph 1 conditional on farmers being members of a producer organisation recognised under Article 152.
+
+## PART V — GENERAL PROVISIONS
+
+#### CHAPTER I — Exceptional measures
+
+##### Section 1 — Market disturbance
+
+###### Article 219 — Measures against market disturbance
+
+1\. In order to react efficiently and effectively against threats of market disturbance caused by significant price rises or falls on internal or external markets or other events and circumstances significantly disturbing or threatening to disturb the market concerned, where that situation, or its effects on the market, is likely to continue or deteriorate, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to take the measures necessary to address that market situation, while respecting any obligations resulting from international agreements concluded in accordance with the TFEU and provided that any other measures available under this Regulation appear to be insufficient or not suitable.
+
+Where, in the cases of threats of market disturbances referred to in the first subparagraph of this paragraph, imperative grounds of urgency so require, the procedure provided for in Article 228 shall apply to delegated acts adopted pursuant to the first subparagraph of this paragraph.
+
+Those imperative grounds of urgency may include the need to take immediate action to address or prevent market disturbance, where threats of market disturbance occur so swiftly or unexpectedly that immediate action is necessary to efficiently and effectively address the situation, or where action would prevent such threats of market disturbance from materialising, continuing or turning into a more severe or prolonged disturbance, or where delaying immediate action would threaten to cause or aggravate the disturbance or would increase the extent of the measures which would later be necessary to address the threat or disturbance or would be detrimental to production or market conditions.
+
+Such measures may to the extent and for the time necessary to address the market disturbance or threat thereof extend or modify the scope, duration or other aspects of other measures provided for under this Regulation, adjust or suspend import duties in whole or in part including for certain quantities or periods as necessary, or take the form of a temporary voluntary production reduction scheme, in particular in cases of oversupply.
+
+2\. The measures referred to in paragraph 1 shall not apply to products listed in Section 2 of Part XXIV of Annex I.
+
+However, the Commission may, by means of delegated acts adopted in accordance with the urgency procedure referred to in Article 228, decide that the measures referred to in paragraph 1 shall apply to one or more of the products listed in Section 2 of Part XXIV of Annex I.
+
+3\. The Commission may adopt implementing acts laying down necessary procedural rules and technical criteria for the application of measures referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+##### Section 2 — Market support measures related to animal diseases and plant pests and loss of consumer confidence due to public, animal or plant health risks
+
+###### Article 220 — Measures concerning animal diseases and plant pests and the loss of consumer confidence due to public, animal or plant health risks
+
+1\. The Commission may adopt implementing acts taking exceptional support measures for the affected market in order to take account of:
+
+(a) restrictions on intra-Union and third-country trade which may result from the application of measures for combating the spread of diseases in animals or the spread of plant pests; and
+
+(b) serious market disturbances directly attributed to a loss in consumer confidence due to public, animal or plant health and disease risks.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+2\. The measures provided for in paragraph 1 shall apply to any of the following sectors:
+
+(-a) fruit and vegetables;
+
+(a) beef and veal;
+
+(b) milk and milk products;
+
+(c) pigmeat;
+
+(d) sheepmeat and goatmeat;
+
+(e) eggs;
+
+(f) poultrymeat.
+
+The measures provided for in point (b) of the first subparagraph of paragraph 1 related to a loss in consumer confidence due to public or plant health risks shall also apply to all other agricultural products except those listed in Section 2 of Part XXIV of Annex I.
+
+The Commission shall be empowered to adopt delegated acts in accordance with the urgency procedure referred to in Article 228, extending the list of products in the first two subparagraphs of this paragraph.
+
+3\. The measures provided for in paragraph 1 shall be taken at the request of the Member State concerned.
+
+4\. The measures provided for in paragraph 1, first subparagraph, point (a) may be taken only if the Member State concerned has taken health, veterinary or phytosanitary measures quickly to stamp out the disease or to monitor, control and eradicate or contain the pest, and only to the extent and for the duration strictly necessary to support the market concerned.
+
+5\. The Union shall provide part-financing equivalent to 50 % of the expenditure borne by Member States for the measures provided for in paragraph 1.
+
+However, with regard to the beef and veal, milk and milk products, pigmeat and sheepmeat and goatmeat sectors, the Union shall provide part-financing equivalent to 60 % of such expenditure when combating foot-and-mouth disease.
+
+6\. Member States shall ensure that, where producers contribute to the expenditure borne by Member States, this does not result in a distortion of competition between producers in different Member States.
+
+##### Section 3 — Specific problems
+
+###### Article 221 — Measures to resolve specific problems
+
+1\. The Commission shall adopt implementing acts taking necessary and justifiable emergency measures to resolve specific problems. Those measures may derogate from the provisions of this Regulation only to an extent that is strictly necessary and for a period that is strictly necessary. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+2\. To resolve specific problems, and on duly justified imperative grounds of urgency, relating to situations likely to cause a rapid deterioration of production and market conditions which could be difficult to address if the adoption of measures were delayed, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 229(3).
+
+3\. The Commission shall adopt measures under paragraph 1 or 2 only if it is not possible to adopt the required emergency measures in accordance with Article 219 or 220.
+
+4\. Measures adopted under paragraph 1 or 2 shall remain in force for a period not exceeding twelve months. If after this period the specific problems that led to the adoption of those measures persist, the Commission may, in order to establish a permanent solution, adopt delegated acts in accordance with Article 227 regarding the matter or present appropriate legislative proposals.
+
+5\. The Commission shall inform the European Parliament and the Council of any measure adopted under paragraph 1 or 2 within two working days of its adoption.
+
+##### Section 4 — Agreements and decisions during periods of severe imbalance in markets
+
+###### Article 222 — Application of Article 101(1) TFEU
+
+1\. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers’ associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:
+
+(a) market withdrawal or free distribution of their products;
+
+(b) transformation and processing;
+
+(c) storage by private operators;
+
+(d) joint promotion measures;
+
+(e) agreements on quality requirements;
+
+(f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;
+
+(g) temporary planning of production taking into account the specific nature of the production cycle.
+
+Where the Commission adopts implementing acts in accordance with the first subparagraph of this paragraph, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned. Such financial support shall provide the means necessary for the implementation without delay of those agreements and decisions by the operators concerned.
+
+The Commission shall adopt implementing acts specifying the scope of the derogation of the first subparagraph of this paragraph, and, subject to paragraph 3, the period for which the derogation applies, as well as, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the second subparagraph of this paragraph.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+3\. The agreements and decisions referred to in paragraph 1 shall only be valid for a period of up to six months.
+
+However, the Commission may adopt implementing acts authorising such agreements and decisions for a further period of up to six-months. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+#### Chapter Ia — Market transparency
+
+###### Article 222a — Union market observatories
+
+1\. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
+
+2\. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established. The Commission may make a specific distinction between organic and non-organic production within those observatories.
+
+3\. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
+
+(a) production, supply and stocks;
+
+(b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
+
+(c) short- and medium-term market forecasts;
+
+(d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
+
+The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
+
+4\. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
+
+###### Article 222b — Commission reporting on market developments
+
+1\. In their reports, Union market observatories established pursuant to Article 222a shall identify threats of market disturbance related to significant price increases or decreases in internal or external markets or to other events or circumstances having similar effects.
+
+2\. The Commission shall regularly present to the European Parliament and to the Council information on the market situation for agricultural products, the causes of market disturbances and possible measures to be taken in response to those market disturbances, in particular measures provided for in Part II, Title I, Chapter I, and Articles 219, 220, 221 and 222, as well as the rationale for those measures
+
+#### CHAPTER II — Communications and reporting
+
+###### Article 223 — Communication requirements
+
+1\. For the purposes of applying this Regulation, monitoring, analysing and managing the market in agricultural products, ensuring market transparency, the proper functioning of CAP measures, checking, controlling, monitoring, evaluating and auditing CAP measures, and complying with the requirements laid down in international agreements concluded in accordance with the TFEU, including notification requirements under those agreements, the Commission may, in accordance with the procedure referred to in paragraph 2, adopt the necessary measures regarding communications to be made by undertakings, Member States and third countries. In so doing, it shall take into account the data needs and synergies between potential data sources.
+
+The information obtained may be transmitted or made available to international organisations, Union and national financial market authorities, the competent authorities of third countries and may be made public, subject to the protection of personal data and the legitimate interest of undertakings in the protection of their business secrets, including prices.
+
+The Commission shall cooperate and exchange information with competent authorities designated in accordance with Article 22 of Regulation (EU) No 596/2014 and with the European Securities and Markets Authority (ESMA), to help them fulfil their tasks under Regulation (EU) 596/2014.
+
+2\. In order to ensure the integrity of information systems and the authenticity and legibility of documents and associated data transmitted, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 laying down:
+
+(a) the nature and type of information to be notified;
+
+(b) the categories of data to be processed, the maximum retention periods and the purpose of the processing, in particular in the event of the publication of such data and their transfer to third countries;
+
+(c) the access rights to the information or information systems made available;
+
+(d) the conditions of publication of the information.
+
+3\. The Commission shall adopt implementing acts laying down the measures necessary for the application of this Article, including:
+
+(a) the methods of notification;
+
+(b) rules on the information to be notified;
+
+(c) arrangements for the management of the information to be notified, as well as on the content, form, timing, frequency and deadlines of the notifications;
+
+(d) the arrangements for transmitting or making information and documents available to the Member States, international organisations, the competent authorities in third countries, or the public, subject to the protection of personal data and the legitimate interest of undertakings in the protection of their business secrets.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+###### Article 224 — Processing and protection of personal data
+
+1\. The Member States and the Commission shall collect personal data for the purposes set out in Article 223(1) and shall not process those data in a way incompatible with those purposes.
+
+2\. Where personal data are processed for monitoring and evaluation purposes as referred to in Article 223(1), they shall be made anonymous and shall be processed in aggregated form only.
+
+3\. Personal data shall be processed in accordance with Directive 95/46/EC and Regulation (EC) No 45/2001. In particular, such data shall not be stored in a form which permits identification of data subjects for longer than is necessary for the purposes for which they were collected or for which they are further processed, taking into account the minimum retention periods laid down in the applicable national and Union law.
+
+4\. Member States shall inform the data subjects that their personal data may be processed by national and Union bodies in accordance with paragraph 1 and that in this respect they enjoy the rights set out in, respectively, Directive 95/46/EC and Regulation (EC) No 45/2001.
+
+###### Article 225 — Reporting obligation of the Commission
+
+The Commission shall present a report to the European Parliament and to the Council:
+
+(d) by 31 December 2025, and every seven years thereafter, on the application of the competition rules as laid down in this Regulation to the agricultural sector in all Member States;
+
+(da) by 31 December 2023 on the Union market observatories set up in accordance with Article 222a;
+
+(db) by 31 December 2023, and every three years thereafter, on the use of the crisis measures in particular adopted pursuant to Articles 219, to 222;
+
+(dc) by 31 December 2024 on the use of new information and communication technologies to ensure better market transparency as referred to in Article 223;
+
+(dd) by 30 June 2024 on sales designations and carcass classification in the sheepmeat and goatmeat sector;
+
+(e) by 31 July 2023, on the application of the allocation criteria referred to in Article 23a(2);
+
+(f) by 31 July 2023, on the impact of the transfers referred to in Article 23a(4) on the effectiveness of the school scheme in relation to the distribution of school fruit and vegetables and school milk.
+
+## PART VI — DELEGATIONS OF POWER, IMPLEMENTING PROVISIONS, TRANSITIONAL AND FINAL PROVISIONS
+
+#### CHAPTER I — Delegations of power and implementing provisions
+
+###### Article 227 — Exercise of the delegation
+
+1\. The power to adopt the delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in this Regulation shall be conferred on the Commission for a period of seven years from 20 December 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the seven-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in this Regulation may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to this Regulation shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+###### Article 228 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act adopted under this Article to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act adopted under this Article in accordance with the procedure referred to in Article 227(5). In such a case, the Commission shall repeal the act without delay following the notification of the decision to object by the European Parliament or by the Council.
+
+###### Article 229 — Committee procedure
+
+1\. The Commission shall be assisted by a committee called the Committee for the Common Organisation of the Agricultural Markets. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+In the case of acts referred to in Article 80(5), points (c) and (d) of Article 91, Article 97(4), Article 99, Article 106 and Article 107(3), where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+#### CHAPTER II — Transitional and final provisions
+
+###### Article 230 — Repeals
+
+1\. Regulation (EC) No 1234/2007 is repealed.
+
+However, the following provisions of Regulation (EC) No 1234/2007 shall continue to apply:
+
+(a) as regards the system of milk production limitation: Section III of Chapter III of Title I of Part II, Article 55, Article 85 and Annexes IX and X, until 31 March 2015;
+
+(b) as regards the wine sector:
+
+(i) Articles 85a to 85e as regards areas referred to in Article 85a(2) which have not yet been grubbed up and as regards areas referred to in Article 85b(1) which have not been regularised, until such areas are grubbed up or regularised, and Article 188a(1) and (2);
+
+(ii) the transitional planting right regime set out in Subsection II of Section IVa of Chapter III of Title I of Part II until 31 December 2015;
+
+(iii) Article 118m(5) until clearance of the stocks of wines with the denomination "Mlado vino portugizac" existing on 1 July 2013;
+
+(iv) Article 118s(5) until 30 June 2017;
+
+(ba) Article 111 until 31 March 2015;
+
+(c) Article 113a(4), Articles 114, 115 and 116, Article 117(1) to (4) and point (e)(iv) of Article 121, as well as point IV of Part A, points I(2) and (3) and III(1) of Part B and Part C of Annex XIV, and points 1, 3, 5 and 6 of Part II and point 2 of Part IV of Annex XV for the purpose of applying those Articles,  until the date of application of the corresponding marketing rules to be established pursuant to the delegated acts provided for in Article 75(2), Article 76(4), Article 78(3) and (4), Article 79(1), Article 80(4), Article 83(4), Article 86, Article 87(2), Article 88(3) and Article 89 of this Regulation;
+
+(ca) Article 125a(1)(e) and (2) and, in respect of the fruit and vegetables sector, Annex XVIa, until the date of application of the related rules to be established pursuant to the delegated acts provided for in points (b) and (i) of Article 173(1);
+
+(d) Article 133a(1) and Article 140a until 30 September 2014;
+
+(da) Articles 136, 138 and 140, as well as Annex XVIII for the purposes of applying those Articles, until the date of application of the rules to be established pursuant to the implementing acts provided for in Article 180 and in point (a) of Article 183 or until 30 June 2014, whichever is the earlier;
+
+(e) the first and second subparagraphs of Article 182(3) until the end of the 2013/2014 marketing year for sugar on 30 September 2014;
+
+(f) Article 182(4) until 31 December 2017;
+
+(g) Article 182(7) until 31 March 2014;
+
+(h) Point 3 of Part III of Annex XV until 31 December 2015;
+
+(i) Annex XX until date of entry into force of legislative act replacing Regulation (EC) No 1216/2009 and Council Regulation (EC) No 614/2009 ( 24 ).
+
+2\. References to Regulation (EC) No 1234/2007 shall be construed as references to this Regulation and to Regulation (EU) No 1306/2013 and be read in accordance with the correlation table set out in Annex XIV to this Regulation.
+
+3\. Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1601/96 and (EC) No 1037/2001 are repealed.
+
+###### Article 231 — Transitional rules
+
+1\. In order to ensure the smooth transition from the arrangements provided for in Regulation (EC) No 1234/2007 to those laid down in this Regulation, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning measures necessary to protect the acquired rights and legitimate expectations of undertakings.
+
+2\. All multiannual programmes adopted before 1 January 2014 shall continue to be governed by the concerned provisions of Regulation (EC) No 1234/2007 following the entry into force of this Regulation until those programmes come to an end.
+
+3\. Article 113a shall not apply with regard to applications for protection of a traditional term submitted to the Commission before 13 May 2024.
+
+###### Article 232 — Entry into force and application
+
+1\. This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014.
+
+However:
+
+(a) Article 181 shall apply from 1 October 2014;
+
+(b) point II(3) of Part VII of Annex VII shall apply from 1 January 2016;
+
+3\. Articles 127 to 144 and Articles 192 and 193 shall apply until the end of the 2016/2017 marketing year for sugar on 30 September 2017.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF PRODUCTS REFERRED TO IN ARTICLE 1(2)**
+
+**PART I**
+
+**Cereals**
+
+The cereals sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="11">(a)</td><td>  </td><td> —  </td></tr>
+<tr><td>  </td><td> —  </td></tr>
+<tr><td>1001 91 20 </td><td>Common wheat and meslin seed</td></tr>
+<tr><td>ex 1001 99 00 </td><td>Spelt, common wheat and meslin other than for sowing</td></tr>
+<tr><td>1002 </td><td>Rye</td></tr>
+<tr><td>1003 </td><td>Barley</td></tr>
+<tr><td>1004 </td><td>Oats</td></tr>
+<tr><td>1005 10 90 </td><td>Maize (corn) seed other than hybrid</td></tr>
+<tr><td>1005 90 00 </td><td>Maize other than seed</td></tr>
+<tr><td>1007 10 90 , 1007 90 00 </td><td>Grain sorghum, other than hybrids for sowing</td></tr>
+<tr><td>1008 </td><td>Buckwheat, millet and canary seed; other cereals</td></tr>
+<tr><td>(b)</td><td>1001 11 00 , 1001 19 00 </td><td>Durum wheat</td></tr>
+<tr><td rowspan="4">(c)</td><td>1101 00 </td><td>Wheat or meslin flour</td></tr>
+<tr><td>1102 90 70 </td><td>Rye flour</td></tr>
+<tr><td>1103 11 </td><td>Groats and meal of wheat</td></tr>
+<tr><td>1107 </td><td>Malt, whether or not roasted</td></tr>
+<tr><td rowspan="53">(d)</td><td> ex 0714 </td><td>- Manioc, arrowroot, salep and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets, excluding sweet potatoes of subheading 0714 20 and Jerusalem artichokes of subheading ex 0714 90 90 ; sago pith;  </td></tr>
+<tr><td>ex 1102 </td><td>Cereal flours other than of wheat or meslin:</td></tr>
+<tr><td>1102 20 </td><td>– Maize (corn) flour</td></tr>
+<tr><td>1102 90 </td><td>– Other:</td></tr>
+<tr><td>1102 90 10 </td><td>– – Barley flour</td></tr>
+<tr><td>1102 90 30 </td><td>– – Oat flour</td></tr>
+<tr><td>1102 90 90 </td><td>– – Other</td></tr>
+<tr><td>ex 1103 </td><td>Cereal groats, meal and pellets with the exception of groats and meal of wheat (subheading 1103 11 ), groats and meal of rice (subheading 1103 19 50 ) and pellets of rice (subheading 1103 20 50 )</td></tr>
+<tr><td>ex 1104 </td><td>Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006 and flaked rice of subheading 1104 19 91 ; germ of cereals, whole, rolled, flaked or ground</td></tr>
+<tr><td>1106 20 </td><td>Flour, meal and powder of sago or of roots or tubers of heading 0714 </td></tr>
+<tr><td rowspan="2">ex 1108 </td><td>Starches; inulin:</td></tr>
+<tr><td>– Starches:</td></tr>
+<tr><td>1108 11 00 </td><td>– – Wheat starch</td></tr>
+<tr><td>1108 12 00 </td><td>– – Maize (corn) starch</td></tr>
+<tr><td>1108 13 00 </td><td>– – Potato starch</td></tr>
+<tr><td>1108 14 00 </td><td>– – Manioc (cassava) starch</td></tr>
+<tr><td>ex 1108 19 </td><td>– – Other starches:</td></tr>
+<tr><td>1108 19 90 </td><td>– – – Other</td></tr>
+<tr><td>1109 00 00 </td><td>Wheat gluten, whether or not dried</td></tr>
+<tr><td>1702 </td><td>Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel:</td></tr>
+<tr><td rowspan="2">ex 1702 30 </td><td>– Glucose and glucose syrup, not containing fructose or containing in the dry state less than 20 % by weight of fructose:</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>ex 1702 30 50 </td><td>– – – In the form of white crystalline powder, whether or not agglomerated, containing in the dry state less than 99 % by weight of glucose</td></tr>
+<tr><td>ex 1702 30 90 </td><td>– – – Other, containing in the dry state less than 99 % by weight of glucose</td></tr>
+<tr><td>ex 1702 40 </td><td>– Glucose and glucose syrup, containing in the dry state at least 20 % but less than 50 % by weight of fructose, excluding invert sugar:</td></tr>
+<tr><td>1702 40 90 </td><td>– – Other</td></tr>
+<tr><td>ex 1702 90 </td><td>– Other, including invert sugar and other sugar and sugar syrup blends containing in the dry state 50 % by weight of fructose:</td></tr>
+<tr><td rowspan="3">1702 90 50 </td><td>– – Maltodextrine and maltodextrine syrup</td></tr>
+<tr><td>– – Caramel:</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1702 90 75 </td><td>– – – – In the form of powder, whether or not agglomerated</td></tr>
+<tr><td>1702 90 79 </td><td>– – – – Other</td></tr>
+<tr><td>2106 </td><td>Food preparations not elsewhere specified or included:</td></tr>
+<tr><td rowspan="3">ex 2106 90 </td><td>– Other</td></tr>
+<tr><td>– – Flavoured or coloured sugar syrups:</td></tr>
+<tr><td>– – – Other</td></tr>
+<tr><td>2106 90 55 </td><td>– – – – Glucose syrup and maltodextrine syrup</td></tr>
+<tr><td>ex 2302 </td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals</td></tr>
+<tr><td>ex 2303 </td><td>Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets:</td></tr>
+<tr><td>2303 10 </td><td>– Residues of starch manufacture and similar residues</td></tr>
+<tr><td>2303 30 00 </td><td>– Brewing or distilling dregs and waste</td></tr>
+<tr><td rowspan="2">ex 2306 </td><td>Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetables fats or oils, other than those of headings 2304 and 2305 :</td></tr>
+<tr><td>– Other</td></tr>
+<tr><td>2306 90 05 </td><td>– – Of maize (corn) germ</td></tr>
+<tr><td>ex 2308 00 </td><td>Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included:</td></tr>
+<tr><td>2308 00 40 </td><td>– Acorns and horse-chestnuts; pomace or marc of fruit, other than grapes</td></tr>
+<tr><td>2309 </td><td>Preparations of a kind used in animal feeding:</td></tr>
+<tr><td>ex 2309 10 </td><td>– Dog or cat food, put up for retail sale:</td></tr>
+<tr><td>2309 10 11  2309 10 13  2309 10 31  2309 10 33  2309 10 51  2309 10 53 </td><td>– – Containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products</td></tr>
+<tr><td>ex 2309 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">2309 90 20 </td><td>– – Products referred to in additional note 5 to chapter 23 of the Combined Nomenclature</td></tr>
+<tr><td>– – Other, including premixes:</td></tr>
+<tr><td>2309 90 31  2309 90 33  2309 90 41  2309 90 43  2309 90 51  2309 90 53 </td><td>– – – Containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products:</td></tr>
+<tr><td colspan="3">(1) For the purposes of this subheading 'milk products' means products falling within headings 0401 to 0406 as well as subheadings 1702 11 00 , 1702 19 00 and 2106 90 51 .</td></tr>
+</tbody>
+</table>
+
+**PART II**
+
+**Rice**
+
+The rice sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="3">(a)</td><td>1006 10 21 to 1006 10 98 </td><td>Rice in the husk (paddy or rough), other than for sowing</td></tr>
+<tr><td>1006 20 </td><td>Husked (brown) rice</td></tr>
+<tr><td>1006 30 </td><td>Semi-milled or wholly milled rice, whether or not polished or glazed</td></tr>
+<tr><td>(b)</td><td>1006 40 00 </td><td>Broken rice</td></tr>
+<tr><td rowspan="6">(c)</td><td>1102 90 50 </td><td>Rice flour</td></tr>
+<tr><td>1103 19 50 </td><td>Rice groats and meal</td></tr>
+<tr><td>1103 20 50 </td><td>Pellets of rice</td></tr>
+<tr><td>1104 19 91 </td><td>Flaked grains of rice</td></tr>
+<tr><td>ex 1104 19 99 </td><td>Rolled grains of rice</td></tr>
+<tr><td>1108 19 10 </td><td>Rice starch</td></tr>
+</tbody>
+</table>
+
+**PART III**
+
+**Sugar**
+
+The sugar sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="2">(a)</td><td>1212 91 </td><td>Sugar beet</td></tr>
+<tr><td>1212 93 00 </td><td>Sugar cane</td></tr>
+<tr><td>(b)</td><td>1701 </td><td>Cane or beet sugar and chemically pure sucrose, in solid form</td></tr>
+<tr><td rowspan="4">(c)</td><td>1702 20 </td><td>Maple sugar and maple syrup</td></tr>
+<tr><td>1702 60 95 and 1702 90 95 </td><td>Other sugars in solid form and sugar syrups, not containing added flavouring or colouring matter, but not including lactose, glucose, maltodextrine and isoglucose</td></tr>
+<tr><td>1702 90 71 </td><td>Caramel containing 50 % or more by weight of sucrose in the dry matter</td></tr>
+<tr><td>2106 90 59 </td><td>Flavoured or coloured sugar syrups, other than isoglucose, lactose, glucose and maltodextrine syrups</td></tr>
+<tr><td>(d)</td><td>1702 30 10  1702 40 10  1702 60 10  1702 90 30 </td><td>Isoglucose</td></tr>
+<tr><td>(e)</td><td>1702 60 80  1702 90 80 </td><td>Inulin syrup</td></tr>
+<tr><td>(f)</td><td>1703 </td><td>Molasses resulting from the extraction or refining of sugar</td></tr>
+<tr><td>(g)</td><td>2106 90 30 </td><td>Flavoured or coloured isoglucose syrups</td></tr>
+<tr><td>(h)</td><td>2303 20 </td><td>Beet pulp, bagasse and other waste of sugar manufacture</td></tr>
+</tbody>
+</table>
+
+**PART IV**
+
+**Dried fodder**
+
+The dried fodder sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="4">(a)</td><td rowspan="2">ex 1214 10 00 </td><td>– Meal and pellets of lucerne artificially heat-dried</td></tr>
+<tr><td>– Meal and pellets of lucerne otherwise dried and ground</td></tr>
+<tr><td rowspan="2">ex 1214 90 90 </td><td>– Lucerne, sainfoin, clover, lupins, vetches and similar fodder products, artificially heat-dried, except hay and fodder kale and products containing hay</td></tr>
+<tr><td>– Lucerne, sainfoin, clover, lupins, vetches, honey lotus, chickling pea and birdsfoot, otherwise dried and ground</td></tr>
+<tr><td rowspan="2">(b)</td><td rowspan="2">ex 2309 90 96 </td><td>– Protein concentrates obtained from lucerne juice and grass juice</td></tr>
+<tr><td>– Dehydrated products obtained exclusively from solid residues and juice resulting from preparation of the abovementioned concentrates</td></tr>
+</tbody>
+</table>
+
+**PART V**
+
+**Seeds**
+
+The seeds sector shall cover the products listed in the following table
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td rowspan="2">0712 90 11 </td><td>Sweetcorn hybrids:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">0713 10 10 </td><td>Peas (Pisum sativum):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 20 00 </td><td>Chickpeas (garbanzos):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 31 00 </td><td>Beans of the species Vigna mungo (L.) Hepper or Vigna radiata (L.) Wilczek:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 32 00 </td><td>Small red (Adzuki) beans (Phaseolus or Vigna angularis):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">0713 33 10 </td><td>Kidney beans, including white pea beans (Phaseolus vulgaris):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td>ex 0713 34 00 </td><td>Bambara beans (Vigna subterranea or Voandzeia subterranea):</td></tr>
+<tr><td>ex 0713 35 00 </td><td>– for sowing</td></tr>
+<tr><td rowspan="4">ex 0713 39 00 </td><td>Cow peas (Vigna unguiculta):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td>Other:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 40 00 </td><td>Lentils:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td>ex 0713 50 00 </td><td>Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina, Vicia faba var. minor):</td></tr>
+<tr><td rowspan="3">ex 0713 60 00 </td><td>– for sowing</td></tr>
+<tr><td>Pigeon peas (Cajanus cajan):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 90 00 </td><td>Other dried leguminous vegetables:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">1001 91 10 </td><td>Spelt:</td></tr>
+<tr><td>– seed</td></tr>
+<tr><td rowspan="2">1001 91 90 </td><td>Other</td></tr>
+<tr><td>– seed</td></tr>
+<tr><td>ex 1005 10 </td><td>Hybrid maize (corn) seed</td></tr>
+<tr><td rowspan="2">1006 10 10 </td><td>Rice in the husk (paddy or rough):</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">1007 10 10 </td><td>Grain sorghum hybrids:</td></tr>
+<tr><td>– seed</td></tr>
+<tr><td rowspan="2">1201 10 00 </td><td>Soya beans, whether or not broken:</td></tr>
+<tr><td>– seed</td></tr>
+<tr><td rowspan="2">1202 30 00 </td><td>Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken:</td></tr>
+<tr><td>– seed</td></tr>
+<tr><td rowspan="2">1204 00 10 </td><td>Linseed, whether or not broken:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td>1205 10 10 and</td><td>Rape or colza seeds, whether or not broken:</td></tr>
+<tr><td>ex 1205 90 00 </td><td>– for sowing</td></tr>
+<tr><td rowspan="2">1206 00 10 </td><td>Sunflower seeds, whether or not broken:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">ex 1207 </td><td>Other oil seeds and oleaginous fruits, whether or not broken:</td></tr>
+<tr><td>– for sowing</td></tr>
+<tr><td rowspan="2">1209 </td><td>Seeds, fruit and spores, of a kind used for sowing</td></tr>
+<tr><td>  </td></tr>
+</tbody>
+</table>
+
+**PART VI**
+
+**Hops**
+
+The hops sector shall cover the products listed in the following table
+
+CN code Description
+
+1210 Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin
+
+1302 13 00 Vegetable saps and extracts of hops
+
+**PART VII**
+
+**Olive oil and table olives**
+
+The olive oil and table olives sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="2">(a)</td><td>1509 </td><td>Olive oil and its fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1510 00 </td><td>Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509 </td></tr>
+<tr><td rowspan="8">(b)</td><td>0709 92 10 </td><td>Olives, fresh or chilled, for uses other than the production of oil</td></tr>
+<tr><td>0709 92 90 </td><td>Other olives, fresh or chilled</td></tr>
+<tr><td>0710 80 10 </td><td>Olives (uncooked or cooked by steaming or boiling water), frozen</td></tr>
+<tr><td>0711 20 </td><td>Olives provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption</td></tr>
+<tr><td>ex 0712 90 90 </td><td>Olives dried, whole, cut, sliced, broken or in powder, but not further prepared</td></tr>
+<tr><td>2001 90 65 </td><td>Olives prepared or preserved by vinegar or acetic acid</td></tr>
+<tr><td>ex 2004 90 30 </td><td>Olives prepared or preserved otherwise than by vinegar or acetic acid, frozen</td></tr>
+<tr><td>2005 70 00 </td><td>Olives prepared or preserved otherwise than by vinegar or acetic acid, not frozen</td></tr>
+<tr><td rowspan="2">(c)</td><td>1522 00 31  1522 00 39 </td><td>Residues resulting from the treatment of fatty substances or animal or vegetable waxes containing oil having the characteristics of olive oil</td></tr>
+<tr><td>2306 90 11  2306 90 19 </td><td>Oil-cake and other solid residues resulting from the extractions of olive oil</td></tr>
+</tbody>
+</table>
+
+**PART VIII**
+
+**Flax and hemp**
+
+The flax and hemp sector shall cover the products listed in the following table:
+
+CN code Description
+
+5301 Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock)
+
+5302 True hemp (Cannabis sativa L.) raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock)
+
+**PART IX**
+
+**Fruit and vegetables**
+
+The fruit and vegetables sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>0702 00 00 </td><td>Tomatoes, fresh or chilled</td></tr>
+<tr><td>0703 </td><td>Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled</td></tr>
+<tr><td>0704 </td><td>Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled</td></tr>
+<tr><td>0705 </td><td>Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled</td></tr>
+<tr><td>0706 </td><td> Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots (1), fresh or chilled  </td></tr>
+<tr><td>0707 00 </td><td>Cucumbers and gherkins, fresh or chilled</td></tr>
+<tr><td>0708 </td><td>Leguminous vegetables, shelled or unshelled, fresh or chilled</td></tr>
+<tr><td>ex 0709 </td><td> Other vegetables, fresh or chilled, excluding vegetables of subheadings 0709 60 91 , 0709 60 95 , ex 0709 60 99 of genus Pimenta, 0709 92 10 and 0709 92 90   </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>0714 20 </td><td>sweet potatoes</td></tr>
+<tr><td>ex 0714 90 90 </td><td>Jerusalem artichokes</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ex 0802 </td><td>Other nuts, fresh or dried, whether or not shelled or peeled, excluding areca (or betel) and kola nuts falling within subheading 0802 70 00 , 0802 80 00 </td></tr>
+<tr><td>0803 10 10 </td><td>Fresh plantains</td></tr>
+<tr><td>0803 10 90 </td><td>Dried plantains</td></tr>
+<tr><td>0804 20 10 </td><td>Figs, fresh</td></tr>
+<tr><td>0804 30 00 </td><td>Pineapples</td></tr>
+<tr><td>0804 40 00 </td><td>Avocados</td></tr>
+<tr><td>0804 50 00 </td><td>Guavas, mangos and mangosteens</td></tr>
+<tr><td>0805 </td><td>Citrus fruit, fresh or dried</td></tr>
+<tr><td>0806 10 10 </td><td>Fresh table grapes</td></tr>
+<tr><td>0807 </td><td>Melons (including watermelons) and papaws (papayas), fresh</td></tr>
+<tr><td>0808 </td><td>Apples, pears and quinces, fresh</td></tr>
+<tr><td>0809 </td><td>Apricots, cherries, peaches (including nectarines), plums and sloes, fresh</td></tr>
+<tr><td>0810 </td><td>Other fruit, fresh</td></tr>
+<tr><td>0813 50 31  0813 50 39 </td><td>Mixtures exclusively of nuts of headings 0801 and 0802 </td></tr>
+<tr><td>0910 20 </td><td>Saffron</td></tr>
+<tr><td>ex 0910 99 </td><td>Thyme, fresh or chilled</td></tr>
+<tr><td>ex 1211 90 86 </td><td>Basil, melissa, mint, Origanum vulgare (oregano/wild marjoram), rosemary, sage, fresh or chilled</td></tr>
+<tr><td>1212 92 00 </td><td>Locust beans (carob)</td></tr>
+<tr><td colspan="2">(1)  This includes swedes. </td></tr>
+</tbody>
+</table>
+
+**PART X**
+
+**Processed fruit and vegetable products**
+
+The processed fruit and vegetable sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="10">(a)</td><td>ex 0710 </td><td>Vegetables (uncooked or cooked by steaming or boiling in water) frozen,  —  , olives of subheading 0710 80 10 and fruits of the genus Capsicum or of the genus Pimenta of subheading 0710 80 59 </td></tr>
+<tr><td>ex 0711 </td><td>Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption, excluding olives of subheading 0711 20 , fruits of the genus Capsicum or of the genus Pimenta of subheading 0711 90 10 and  —  </td></tr>
+<tr><td>ex 0712 </td><td>Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared, excluding potatoes dehydrated by artificial heat-drying and unfit for human consumption falling within subheading ex 0712 90 05 ,  sweetcorn falling within the subheadings and    and olives falling within subheading ex 0712 90 90 </td></tr>
+<tr><td>0804 20 90 </td><td>Dried figs</td></tr>
+<tr><td>0806 20 </td><td>Dried grapes</td></tr>
+<tr><td>ex 0811 </td><td>Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, not containing added sugar or other sweetening matter, excluding frozen bananas falling within subheading ex 0811 90 95 </td></tr>
+<tr><td>ex 0812 </td><td>Fruit and nuts, provisionally preserved (for example by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption, excluding bananas provisionally preserved falling within subheading ex 0812 90 98 </td></tr>
+<tr><td>ex 0813 </td><td>Fruit, dried, other than that of headings 0801 to 0806 ; mixtures of nuts or dried fruits of this chapter excluding mixtures exclusively of nuts of headings 0801 and 0802 falling within subheadings 0813 50 31 and 0813 50 39 </td></tr>
+<tr><td>0814 00 00 </td><td>Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions</td></tr>
+<tr><td>0904 21 10 </td><td>Dried sweet peppers (Capsicum annuum), neither crushed nor ground</td></tr>
+<tr><td rowspan="11">(b)</td><td>ex 0811 </td><td>Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, containing added sugar or other sweetening matter</td></tr>
+<tr><td>ex 1302 20 </td><td>Pectic substances and pectinates</td></tr>
+<tr><td>ex 2001 </td><td>Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid, excluding: — fruit of the genus Capsicum other than sweet peppers or pimentos of subheading 2001 90 20      — yams, sweet potatoes and similar edible parts of plants containing 5 % or more by weight of starch of subheading 2001 90 40  — palm hearts of subheading ex 2001 90 92  — olives of subheading 2001 90 65  — vine leaves, hop shoots and other similar edible parts of plants falling within subheading ex 2001 90 97 </td></tr>
+<tr><td>2002 </td><td>Tomatoes prepared or preserved otherwise than by vinegar or acetic acid</td></tr>
+<tr><td>2003 </td><td>Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid</td></tr>
+<tr><td>ex 2004 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than the products of heading 2006 ,  excluding sweetcorn ( var. ) of subheading   , olives of subheading ex 2004 90 30 and potatoes prepared or preserved in the form of flour, meal or flakes of subheading 2004 10 91 </td></tr>
+<tr><td>ex 2005 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006 excluding olives of subheading 2005 70 00 ,  sweetcorn ( var. ) of subheading    and fruit of the genus Capsicum, other than sweet peppers or pimentos of subheading 2005 99 10 and potatoes prepared or preserved in the form of flour, meal or flakes of subheading 2005 20 10 </td></tr>
+<tr><td>ex 2006 00 </td><td>Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised), excluding bananas preserved by sugar falling within headings ex 2006 00 38 and ex 2006 00 99 </td></tr>
+<tr><td>ex 2007 </td><td>Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter, excluding: — homogenised preparations of bananas of subheading ex 2007 10  — jams, jellies, marmalades, purée or pastes of bananas of subheadings ex 2007 99 39 , ex 2007 99 50 and ex 2007 99 97 </td></tr>
+<tr><td>ex 2008 </td><td>Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included, excluding: — peanut butter of subheading 2008 11 10  — palm hearts of subheading 2008 91 00  — maize of subheading 2008 99 85  — yams, sweet potatoes and similar edible parts of plants, containing 5 % or more by weight of starch of subheading 2008 99 91  — vine leaves, hop shoots and other similar edible parts of plants falling within subheading ex 2008 99 99  — mixtures of banana otherwise prepared or preserved of subheadings ex 2008 97 59 , ex 2008 97 78 , ex 2008 97 93 and ex 2008 97 98  — bananas otherwise prepared or preserved of subheadings ex 2008 99 49 , ex 2008 99 67 and ex 2008 99 99 </td></tr>
+<tr><td>ex 2009 </td><td>Fruit juices (excluding grape juice and grape must of subheadings 2009 61 and 2009 69 and banana juice of subheading ex 2009 89 35 , 2009 89 38 , 2009 89 79 , 2009 89 86 , 2009 89 89 and 2009 89 99 ) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter</td></tr>
+</tbody>
+</table>
+
+**PART XI**
+
+**Bananas**
+
+The bananas sector shall cover the products listed in the following table:
+
+| CN code | Description |
+| --- | --- |
+| 0803 90 10 | Fresh bananas, excluding plantains |
+| 0803 90 90 | Dried bananas, excluding plantains |
+| ex 0812 90 98 | Bananas provisionally preserved |
+| ex 0813 50 99 | Mixtures containing dried bananas |
+| 1106 30 10 | Flour, meal and powder of bananas |
+| ex 2006 00 99 | Bananas preserved by sugar |
+| ex 2007 10 99 | Homogenised preparations of bananas |
+| ex 2007 99 39 ex 2007 99 50 ex 2007 99 97 | Jams, jellies, marmalades, purées and pastes of bananas |
+| ex 2008 97 59 ex 2008 97 78 ex 2008 97 93 ex 2008 97 96 ex 2008 97 98 | Mixtures containing bananas otherwise prepared or preserved, not containing added spirit |
+| ex 2008 99 49 ex 2008 99 67 ex 2008 99 99 | Bananas otherwise prepared or preserved |
+| ex 2009 89 35 ex 2009 89 38 ex 2009 89 79 ex 2009 89 86 ex 2009 89 89 ex 2009 89 99 | Banana juice |
+
+**PART XII**
+
+**Wine**
+
+The wine sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="2">(a)</td><td>2009 61  2009 69 </td><td>Grape juice (including grape must)</td></tr>
+<tr><td>2204 30 92  2204 30 94  2204 30 96  2204 30 98 </td><td>Other grape musts, other than those in fermentation or with fermentation arrested otherwise than by the addition of alcohol</td></tr>
+<tr><td>(b)</td><td>ex 2204 </td><td>Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009 , excluding other grape must of subheadings 2204 30 92 , 2204 30 94 , 2204 30 96 and 2204 30 98 </td></tr>
+<tr><td rowspan="2">(c)</td><td>0806 10 90 </td><td>Fresh grapes other than table grapes</td></tr>
+<tr><td>2209 00 11  2209 00 19 </td><td>Wine vinegar</td></tr>
+<tr><td rowspan="4">(d)</td><td>2206 00 10 </td><td>Piquette</td></tr>
+<tr><td>2307 00 11  2307 00 19 </td><td>Wine lees</td></tr>
+<tr><td>2308 00 11  2308 00 19 </td><td>Grape marc</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>(e)</td><td>ex 2202 99 19 </td><td>- - - Other, de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 % vol.</td></tr>
+<tr><td colspan="3"></td></tr>
+</tbody>
+</table>
+
+**PART XIII**
+
+**Live trees and other plants, bulbs, roots and the like, cut flowers and ornamental foliage**
+
+The live plants sector shall cover all the products falling within Chapter 6 of the Combined Nomenclature.
+
+**PART XIV**
+
+**Tobacco**
+
+The tobacco sector shall cover raw or non-manufactured tobacco and tobacco refuse falling within CN code 2401 .
+
+**PART XV**
+
+**Beef and veal**
+
+The beef and veal sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="10">(a)</td><td>0102 29 05 to 0102 29 99 , 0102 39 10 and 0102 90 91 </td><td>Live animals of the domestic bovine species, other than pure-bred breeding animals</td></tr>
+<tr><td>0201 </td><td>Meat of bovine animals, fresh or chilled</td></tr>
+<tr><td>0202 </td><td>Meat of bovine animals, frozen</td></tr>
+<tr><td>0206 10 95 </td><td>Thick skirt and thin skirt, fresh or chilled</td></tr>
+<tr><td>0206 29 91 </td><td>Thick skirt and thin skirt, frozen</td></tr>
+<tr><td>0210 20 </td><td>Meat of bovine animals, salted, in brine, dried or smoked</td></tr>
+<tr><td>0210 99 51 </td><td>Thick skirt and thin skirt, salted, in brine, dried or smoked</td></tr>
+<tr><td>0210 99 90 </td><td>Edible flours and meals of meat or meat offal</td></tr>
+<tr><td>1602 50 10 </td><td>Other prepared or preserved meat or meat offal of bovine animals, uncooked; mixtures of cooked meat or offal and uncooked meat or offal</td></tr>
+<tr><td>1602 90 61 </td><td>Other prepared or preserved meat containing bovine meat or offal, uncooked; mixtures of cooked meat or offal and uncooked meat or offal</td></tr>
+<tr><td rowspan="7">(b)</td><td>0102 21 , 0102 31 00 and 0102 90 20 </td><td>Live bovine pure-bred breeding animals</td></tr>
+<tr><td>0206 10 98 </td><td>Edible offal of bovine animals excluding thick skirt and thin skirt, fresh or chilled, other than for the manufacture of pharmaceutical products</td></tr>
+<tr><td>0206 21 00  0206 22 00  0206 29 99 </td><td>Edible offal of bovine animals excluding thick skirt and thin skirt, frozen, other than for the manufacture of pharmaceutical products</td></tr>
+<tr><td>0210 99 59 </td><td>Edible meat offal of bovine animals, salted, in brine, dried or smoked, other than thick skirt and thin skirt</td></tr>
+<tr><td>ex 1502 10 90 </td><td>Fats of bovine animals other than those of heading 1503 </td></tr>
+<tr><td>1602 50 31 and 1602 50 95 </td><td>Other prepared or preserved meat or meat offal, of bovine animals, other than uncooked meat or meat offal and mixtures of cooked meat or offal and uncooked meat or offal</td></tr>
+<tr><td>1602 90 69 </td><td>Other prepared or preserved meat containing bovine meat or offal other than uncooked, and mixtures of cooked meat or offal and uncooked meat or offal.</td></tr>
+</tbody>
+</table>
+
+**PART XVI**
+
+**Milk and milk products**
+
+The milk and milk products sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td>(a)</td><td>0401 </td><td>Milk and cream, not concentrated nor containing added sugar or other sweetening matter</td></tr>
+<tr><td>(b)</td><td>0402 </td><td>Milk and cream, concentrated or containing added sugar or other sweetening matter</td></tr>
+<tr><td>(c)</td><td>0403 10 11 to 0403 10 39  0403 9011 to  0403 90 69 </td><td>Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter not flavoured nor containing added fruit, nuts or cocoa</td></tr>
+<tr><td>(d)</td><td>0404 </td><td>Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included</td></tr>
+<tr><td>(e)</td><td>ex 0405 </td><td>Butter and other fats and oils derived from milk; dairy spreads of a fat content of more than 75 % but less than 80 %</td></tr>
+<tr><td>(f)</td><td>0406 </td><td>Cheese and curd</td></tr>
+<tr><td>(g)</td><td>1702 19 00 </td><td>Lactose and lactose syrup not containing added flavouring or colouring matter, containing by weight less than 99 % lactose, expressed as anhydrous lactose, calculated on the dry matter</td></tr>
+<tr><td>(h)</td><td>2106 90 51 </td><td>Flavoured or coloured lactose syrup</td></tr>
+<tr><td rowspan="6">(i)</td><td>ex 2309 </td><td>Preparations of a kind used in animal feeding:</td></tr>
+<tr><td>ex 2309 10 </td><td>– Dog or cat food, put up for retail sale:</td></tr>
+<tr><td>2309 10 15  2309 10 19  2309 10 39  2309 10 59  2309 10 70 </td><td>– – Containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products</td></tr>
+<tr><td>ex 2309 90 </td><td>– Other:</td></tr>
+<tr><td>2309 90 35 </td><td>– – Other, including premixes:</td></tr>
+<tr><td>2309 90 39  2309 90 49  2309 90 59  2309 90 70 </td><td>– – – Containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products</td></tr>
+</tbody>
+</table>
+
+**PART XVII**
+
+**Pigmeat**
+
+The pigmeat sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td>(a)</td><td>ex 0103 </td><td>Live swine, of domestic species, other than pure-bred breeding animals</td></tr>
+<tr><td rowspan="5">(b)</td><td>ex 0203 </td><td>Meat of domestic swine, fresh, chilled, or frozen</td></tr>
+<tr><td>ex 0206 </td><td>Edible offal of domestic swine, other than for the manufacture of pharmaceutical products, fresh, chilled or frozen</td></tr>
+<tr><td>0209 10 </td><td>Pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked</td></tr>
+<tr><td>ex 0210 </td><td>Meat and edible meat offal of domestic swine, salted, in brine, dried or smoked</td></tr>
+<tr><td>1501 10  1501 20 </td><td>Pig fat (including lard)</td></tr>
+<tr><td rowspan="7">(c)</td><td>1601 00 </td><td>Sausages and similar products, of meat, meat offal or blood; food preparations based on these products</td></tr>
+<tr><td>1602 10 00 </td><td>Homogenised preparations of meat, meat offal or blood</td></tr>
+<tr><td>1602 20 90 </td><td>Preparations or preserves of liver of any animal, other than goose or duck</td></tr>
+<tr><td>1602 41 10  1602 42 10  1602 49 11 to  1602 49 50 </td><td>Other preparations and preserves containing meat or offal of domestic swine</td></tr>
+<tr><td>1602 90 10 </td><td>Preparations of blood of any animal</td></tr>
+<tr><td>1602 90 51 </td><td>Other preparations or preserves containing meat or meat offal of domestic swine</td></tr>
+<tr><td>1902 20 30 </td><td>Stuffed pasta, whether or not cooked or otherwise prepared, containing more than 20 % by weight of sausages and the like, of meat and meat offal of any kind, including fats of any kind or origin</td></tr>
+</tbody>
+</table>
+
+**PART XVIII**
+
+**Sheepmeat and goatmeat**
+
+The sheepmeat and goatmeat sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td rowspan="6">(a)</td><td>0104 10 30 </td><td>Lambs (up to one year old)</td></tr>
+<tr><td>0104 10 80 </td><td>Live sheep other than pure-bred breeding animals and lambs</td></tr>
+<tr><td>0104 20 90 </td><td>Live goats other than pure-bred breeding animals</td></tr>
+<tr><td>0204 </td><td>Meat of sheep or goats, fresh, chilled or frozen</td></tr>
+<tr><td>0210 99 21 </td><td>Meat of sheep and goats, with bone in, salted, in brine, dried or smoked</td></tr>
+<tr><td>0210 99 29 </td><td>Meat of sheep and goats, boneless, salted, in brine, dried or smoked</td></tr>
+<tr><td rowspan="6">(b)</td><td>0104 10 10 </td><td>Live sheep — pure-bred breeding animals</td></tr>
+<tr><td>0104 20 10 </td><td>Live goats — pure-bred breeding animals</td></tr>
+<tr><td>0206 80 99 </td><td>Edible offal of sheep and goats, fresh or chilled, other than for the manufacture of pharmaceutical products</td></tr>
+<tr><td>0206 90 99 </td><td>Edible offal of sheep and goats, frozen, other than for the manufacture of pharmaceutical products</td></tr>
+<tr><td>0210 99 85 </td><td>Edible offal of sheep and goats, salted, in brine, dried or smoked</td></tr>
+<tr><td>ex 1502 90 90 </td><td>Fats of sheep or goats, other than those of heading 1503 </td></tr>
+<tr><td rowspan="2">(c)</td><td>1602 90 91 </td><td>Other prepared or preserved meat or meat offal of sheep or goats;</td></tr>
+<tr><td>1602 90 95 </td><td>  </td></tr>
+</tbody>
+</table>
+
+**PART XIX**
+
+**Eggs**
+
+The eggs sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td>(a)</td><td>0407 11 00  0407 19 11  0407 19 19  0407 21 00  0407 29 10  0407 90 10 </td><td>Poultry eggs, in shell, fresh, preserved or cooked</td></tr>
+<tr><td>(b)</td><td>0408 11 80  0408 19 81  0408 19 89  0408 91 80  0408 99 80 </td><td>Bird's eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, other than unfit for human consumption</td></tr>
+</tbody>
+</table>
+
+**PART XX**
+
+**Poultrymeat**
+
+The poultrymeat sector shall cover the products listed in the following table:
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description</td></tr>
+<tr><td>(a)</td><td>0105 </td><td>Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls</td></tr>
+<tr><td>(b)</td><td>ex 0207 </td><td>Meat and edible offal, of the poultry of heading 0105 fresh, chilled or frozen, excluding livers falling within point (c)</td></tr>
+<tr><td rowspan="2">(c)</td><td>0207 13 91  0207 14 91  0207 26 91  0207 27 91  0207 43 00  0207 44 91  0207 45 93  0207 45 95 </td><td>Poultry liver, fresh, chilled or frozen</td></tr>
+<tr><td>0210 99 71  0210 99 79 </td><td>Poultry livers, salted, in brine, dried or smoked</td></tr>
+<tr><td>(d)</td><td>0209 90 00 </td><td>Poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked</td></tr>
+<tr><td>(e)</td><td>1501 90 00 </td><td>Poultry fat</td></tr>
+<tr><td rowspan="2">(f)</td><td>1602 20 10 </td><td>Goose or duck livers, otherwise prepared or preserved</td></tr>
+<tr><td>1602 31  1602 32  1602 39 </td><td>Meat or meat offal of poultry of heading 0105 , otherwise prepared or preserved</td></tr>
+</tbody>
+</table>
+
+**PART XXI**
+
+**Ethyl alcohol of agricultural origin**
+
+1\. The ethyl alcohol sector shall cover the products listed in the following table:
+
+| CN code | Description |
+| --- | --- |
+| ex 2207 10 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol. or higher obtained from the agricultural products listed in Annex I to the Treaties |
+| ex 2207 20 00 | Ethyl alcohol and other spirits, denatured, of any strength, obtained from the agricultural products listed in Annex I to the Treaties |
+| ex 2208 90 91 and ex 2208 90 99 | Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol. obtained from the agricultural products listed in Annex I to the Treaties |
+
+2\. The ethyl alcohol sector shall also cover products based on ethyl alcohol of agricultural origin falling within CN code 2208 put up in containers of more than two litres and presenting all the characteristics of ethyl alcohol as described in point 1.
+
+**PART XXII**
+
+**Apiculture products**
+
+The apiculture sector shall cover the products listed in the following table:
+
+CN code Description
+
+0409 00 00 Natural honey
+
+ex 0410 00 00 Royal jelly and propolis, edible
+
+ex 0511 99 85 Royal jelly and propolis, non-edible
+
+ex 1212 99 95 Pollen
+
+ex 1521 90 Beeswax
+
+**PART XXIII**
+
+**Silkworms**
+
+The silkworm sector shall cover silkworms falling within CN code ex 0106 90 00 and silkworm eggs falling within CN code ex 0511 99 85 .
+
+**PART XXIV**
+
+**Other products**
+
+"Other products" means all agricultural products other than those listed in Parts I to XXIII, including those listed in the following Sections 1 and 2 of this Part.
+
+**Section 1**
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td rowspan="2">ex 0101 </td><td>Live horses, asses, mules and hinnies:</td></tr>
+<tr><td>– Horses</td></tr>
+<tr><td>0101 21 00 </td><td>– – Pure-bred breeding animals ():</td></tr>
+<tr><td>0101 29 </td><td>– – Other:</td></tr>
+<tr><td>0101 29 90 </td><td>– – – Other than for slaughter</td></tr>
+<tr><td>0101 30 00 </td><td>– – Asses</td></tr>
+<tr><td>0101 90 00 </td><td>Other</td></tr>
+<tr><td rowspan="3">ex 0102 </td><td>Live bovine animals:</td></tr>
+<tr><td>– – Other than pure-bred breeding animals:</td></tr>
+<tr><td>– – – Other than domestic species</td></tr>
+<tr><td>0102 39 90 , 0102 90 99 </td><td>  </td></tr>
+<tr><td>ex 0103 </td><td>Live swine:</td></tr>
+<tr><td rowspan="2">0103 10 00 </td><td>– Pure-bred breeding animals ()</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>ex 0103 91 </td><td>– – Weighing less than 50 kg:</td></tr>
+<tr><td>0103 91 90 </td><td>– – – Other than domestic species</td></tr>
+<tr><td>ex 0103 92 </td><td>– – Weighing 50 kg or more</td></tr>
+<tr><td>0103 92 90 </td><td>– – Other than domestic species</td></tr>
+<tr><td>0106 </td><td>Other live animals</td></tr>
+<tr><td rowspan="2">ex 0203 </td><td>Meat of swine, fresh, chilled or frozen:</td></tr>
+<tr><td>– Fresh or chilled:</td></tr>
+<tr><td>ex 0203 11 </td><td>– – Carcasses and half-carcasses:</td></tr>
+<tr><td>0203 11 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0203 12 </td><td>– – Hams, shoulders and cuts thereof, with bone in:</td></tr>
+<tr><td>0203 12 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0203 19 </td><td>– – Other:</td></tr>
+<tr><td rowspan="2">0203 19 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>– Frozen:</td></tr>
+<tr><td>ex 0203 21 </td><td>– – Carcasses and half-carcasses:</td></tr>
+<tr><td>0203 21 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0203 22 </td><td>– – Hams, shoulders and cuts thereof, with bone in:</td></tr>
+<tr><td>0203 22 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0203 29 </td><td>– – Other:</td></tr>
+<tr><td>0203 29 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0205 00 </td><td>Meat of asses, mules or hinnies, fresh, chilled or frozen</td></tr>
+<tr><td>ex 0206 </td><td>Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen:</td></tr>
+<tr><td>ex 0206 10 </td><td>– Of bovine animals, fresh or chilled:</td></tr>
+<tr><td rowspan="2">0206 10 10 </td><td>– – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– Of bovine animals, frozen:</td></tr>
+<tr><td rowspan="2">ex 0206 22 00 </td><td>– – Livers:</td></tr>
+<tr><td>– – – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>ex 0206 29 </td><td>– – Other:</td></tr>
+<tr><td>0206 29 10 </td><td>– – – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td rowspan="5">ex 0206 30 00 </td><td>– Of swine, fresh or chilled:</td></tr>
+<tr><td>– – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>– – – other than of domestic swine</td></tr>
+<tr><td>– Of swine, frozen:</td></tr>
+<tr><td rowspan="4">ex 0206 41 00 </td><td>– – Livers:</td></tr>
+<tr><td>– – – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>– – – – other than of domestic swine</td></tr>
+<tr><td rowspan="4">ex 0206 49 00 </td><td>– – Other:</td></tr>
+<tr><td>– – – Of domestic swine:</td></tr>
+<tr><td>– – – – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– – – Other</td></tr>
+<tr><td>ex 0206 80 </td><td>– Other, fresh or chilled:</td></tr>
+<tr><td rowspan="2">0206 80 10 </td><td>– – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>0206 80 91 </td><td>– – – Of horses, asses, mules and hinnies</td></tr>
+<tr><td>ex 0206 90 </td><td>– Other, frozen:</td></tr>
+<tr><td rowspan="2">0206 90 10 </td><td>– – For the manufacture of pharmaceutical products ()</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>0206 90 91 </td><td>– – – Of horses, asses, mules and hinnies</td></tr>
+<tr><td>0208 </td><td>Other meat and edible meat offal, fresh, chilled or frozen</td></tr>
+<tr><td rowspan="2">ex 0210 </td><td>Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal:</td></tr>
+<tr><td>– Meat of swine:</td></tr>
+<tr><td>ex 0210 11 </td><td>– – Hams, shoulders and cuts thereof, with bone in:</td></tr>
+<tr><td>0210 11 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0210 12 </td><td>– – Bellies (streaky) and cuts thereof:</td></tr>
+<tr><td>0210 12 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 0210 19 </td><td>– – Other:</td></tr>
+<tr><td rowspan="2">0210 19 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>– Other, including edible flours and meals of meat or meat offal:</td></tr>
+<tr><td>0210 91 00 </td><td>– – Of primates</td></tr>
+<tr><td>0210 92 </td><td>– – Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)</td></tr>
+<tr><td>0210 93 00 </td><td>– – Of reptiles (including snakes and turtles)</td></tr>
+<tr><td rowspan="2">ex 0210 99 </td><td>– – Other:</td></tr>
+<tr><td>– – – Meat:</td></tr>
+<tr><td>0210 99 31 </td><td>– – – – Of reindeer</td></tr>
+<tr><td rowspan="3">0210 99 39 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Offal:</td></tr>
+<tr><td>– – – – Other than of domestic swine, bovine animals, sheep and goats</td></tr>
+<tr><td>0210 99 85 </td><td>– – – – – Other than poultry livers</td></tr>
+<tr><td>ex 0407 </td><td>Birds' eggs, in shell, fresh, preserved or cooked:</td></tr>
+<tr><td>0407 19 90 , 0407 29 90 and  0407 90 90 </td><td>– Other than of poultry</td></tr>
+<tr><td rowspan="2">ex 0408 </td><td>Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter:</td></tr>
+<tr><td>– Egg yolks:</td></tr>
+<tr><td>ex 0408 11 </td><td>– – Dried:</td></tr>
+<tr><td>0408 11 20 </td><td>– – – Unfit for human consumption ()</td></tr>
+<tr><td>ex 0408 19 </td><td>– – Other:</td></tr>
+<tr><td rowspan="2">0408 19 20 </td><td>– – – Unfit for human consumption ()</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>ex 0408 91 </td><td>– – Dried:</td></tr>
+<tr><td>0408 91 20 </td><td>– – – Unfit for human consumption ()</td></tr>
+<tr><td>ex 0408 99 </td><td>– – Other:</td></tr>
+<tr><td>0408 99 20 </td><td>– – – Unfit for human consumption ()</td></tr>
+<tr><td>0410 00 00 </td><td>Edible products of animal origin, not elsewhere specified or included</td></tr>
+<tr><td>0504 00 00 </td><td>Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked</td></tr>
+<tr><td>ex 0511 </td><td>Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption:</td></tr>
+<tr><td rowspan="2">0511 10 00 </td><td>– Bovine semen</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>ex 0511 99 </td><td>– – Other:</td></tr>
+<tr><td>0511 99 85 </td><td>– – – Other</td></tr>
+<tr><td>ex 0709 </td><td>Other vegetables, fresh or chilled:</td></tr>
+<tr><td rowspan="2">ex 0709 60 </td><td>– Fruits of the genus Capsicum or of the genus Pimenta:</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>0709 60 91 </td><td>– – – – Of the genus Capsicum, for the manufacture of capsicin or capsicum oleoresin dyes ()</td></tr>
+<tr><td>0709 60 95 </td><td>– – – For the industrial manufacture of essential oils or resinoids ()</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ex 0709 60 99 </td><td>- - - Other, of genus Pimenta</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ex 0710 </td><td>Vegetables (uncooked or cooked by steaming or boiling in water), frozen:</td></tr>
+<tr><td rowspan="2">ex 0710 80 </td><td>– Other vegetables:</td></tr>
+<tr><td>– – Fruits of the genus Capsicum or of the genus Pimenta:</td></tr>
+<tr><td>0710 80 59 </td><td>– – – Other than sweet peppers</td></tr>
+<tr><td>ex 0711 </td><td>Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption:</td></tr>
+<tr><td rowspan="2">ex 0711 90 </td><td>– Other vegetables; mixtures of vegetables:</td></tr>
+<tr><td>– – Vegetables:</td></tr>
+<tr><td>0711 90 10 </td><td>– – – – Fruits of the genus Capsicum or of the genus Pimenta, excluding sweet peppers</td></tr>
+<tr><td>ex 0713 </td><td>Dried leguminous vegetables, shelled, whether or not skinned or split:</td></tr>
+<tr><td>ex 0713 10 </td><td>– Peas (Pisum sativum):</td></tr>
+<tr><td>0713 10 90 </td><td>– – Other than for sowing</td></tr>
+<tr><td rowspan="3">ex 0713 20 00 </td><td>– Chickpeas (garbanzos):</td></tr>
+<tr><td>– – Other than for sowing</td></tr>
+<tr><td>– Beans (Vigna spp., Phaseolus spp.):</td></tr>
+<tr><td rowspan="2">ex 0713 31 00 </td><td>– – Beans of the species Vigna mungo (L) Hepper or Vigna radiata (L) Wilczek:</td></tr>
+<tr><td>– – – Other than for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 32 00 </td><td>– – Small red (Adzuki) beans (Phaseolus or Vigna angularis):</td></tr>
+<tr><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 33 </td><td>– – Kidney beans, including white pea beans (Phaseolus vulgaris):</td></tr>
+<tr><td>0713 33 90 </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 34 00 </td><td>– – Bambara beans (Vigna subterranea or Voandzeia subterranea)</td></tr>
+<tr><td>ex 0713 35 00 </td><td>– – – Other than for sowing</td></tr>
+<tr><td rowspan="4">ex 0713 39 00 </td><td>– – Cow peas (Vigna unguiculata):</td></tr>
+<tr><td>– – – Other than for sowing</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>– – – Other than for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 40 00 </td><td>– Lentils:</td></tr>
+<tr><td>– – Other than for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 50 00 </td><td>– Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina and Vicia faba var. minor):</td></tr>
+<tr><td>– – Other than for sowing</td></tr>
+<tr><td>ex 0713 60 00 </td><td>– Pigeon peas (Cajanus cajan):</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td rowspan="2">ex 0713 90 00 </td><td>– Other:</td></tr>
+<tr><td>– – Other than for sowing</td></tr>
+<tr><td>0801 </td><td>Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled</td></tr>
+<tr><td>ex 0802 </td><td>Other nuts, fresh or dried, whether or not shelled or peeled:</td></tr>
+<tr><td>0802 70 00 </td><td>– Kola nuts (Cola spp.)</td></tr>
+<tr><td>0802 80 00 </td><td>– Areca nuts</td></tr>
+<tr><td>ex 0804 </td><td>Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried:</td></tr>
+<tr><td>0804 10 00 </td><td>– Dates</td></tr>
+<tr><td>0902 </td><td>Tea, whether or not flavoured</td></tr>
+<tr><td>ex 0904 </td><td>Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta, excluding sweet peppers falling within subheading 0904 21 10 </td></tr>
+<tr><td>0905 </td><td>Vanilla</td></tr>
+<tr><td>0906 </td><td>Cinnamon and cinnamon-tree flowers</td></tr>
+<tr><td>0907 </td><td>Cloves (whole fruit, cloves and stems)</td></tr>
+<tr><td>0908 </td><td>Nutmeg, mace and cardamoms</td></tr>
+<tr><td>0909 </td><td>Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries</td></tr>
+<tr><td>ex 0910 </td><td>Ginger, turmeric (curcuma), bay leaves, curry and other spices excluding thyme and saffron</td></tr>
+<tr><td>ex 1106 </td><td>Flour, meal and powder of the dried leguminous vegetables of heading 0713 , of sago or of roots or tubers of heading 0714 or of the products of Chapter 8:</td></tr>
+<tr><td>1106 10 00 </td><td>– Of the dried leguminous vegetables of heading 0713 </td></tr>
+<tr><td>ex 1106 30 </td><td>– Of the products of Chapter 8:</td></tr>
+<tr><td>1106 30 90 </td><td>– – Other than bananas</td></tr>
+<tr><td>ex 1108 </td><td>Starches; inulin:</td></tr>
+<tr><td>1108 20 00 </td><td>– Inulin</td></tr>
+<tr><td>1201 90 00 </td><td>Soya beans, whether or not broken, other than seed</td></tr>
+<tr><td>1202 41 00 </td><td>Groundnuts, not roasted or otherwise cooked, in shell, other than seed</td></tr>
+<tr><td>1202 42 00 </td><td>Ground-nuts, not roasted or otherwise cooked, shelled, whether or not broken, other than seed</td></tr>
+<tr><td>1203 00 00 </td><td>Copra</td></tr>
+<tr><td>1204 00 90 </td><td>Linseed, whether or not broken, other than for sowing</td></tr>
+<tr><td>1205 10 90 and ex 1205 90 00 </td><td>Rape or colza seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1206 00 91 </td><td>Sunflower seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1206 00 99 </td><td>  </td></tr>
+<tr><td>1207 29 00 </td><td>Cotton seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 40 90 </td><td>Sesamum seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 50 90 </td><td>Mustard seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 91 90 </td><td>Poppy seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 99 91 </td><td>Hemp seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>ex 1207 99 96 </td><td>Other oilseeds and oleaginous fruits, whether or not broken, other than for sowing</td></tr>
+<tr><td>1208 </td><td>Flours and meals of oil seeds or oleaginous fruits, other than those of mustard</td></tr>
+<tr><td>ex 1211 </td><td>Plants and parts of plants (including seeds and fruits) of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered excluding the products listed under CN code ex 1211 90 86 in Part IX;</td></tr>
+<tr><td>ex 1212 </td><td>Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of Cichorium intybus var. sativum) of a kind used primarily for human consumption, not elsewhere specified or included:</td></tr>
+<tr><td>ex 1212 99 </td><td>– – Other than sugar cane:</td></tr>
+<tr><td>1212 99 41 and 1212 99 49 </td><td>– – – Locust bean seeds</td></tr>
+<tr><td>ex 1212 99 95 </td><td>– – – Other, excluding chicory root</td></tr>
+<tr><td>1213 00 00 </td><td>Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets</td></tr>
+<tr><td>ex 1214 </td><td>Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets:</td></tr>
+<tr><td>ex 1214 10 00 </td><td>– Lucerne (alfalfa) meal and pellets, excluding of lucerne artificially heat-dried or of lucerne otherwise dried and ground</td></tr>
+<tr><td>ex 1214 90 </td><td>– Other:</td></tr>
+<tr><td>1214 90 10 </td><td>– – Mangolds, swedes and other fodder roots</td></tr>
+<tr><td rowspan="3">ex 1214 90 90 </td><td>– – Other, excluding:</td></tr>
+<tr><td>– Lucerne, sainfoin, clover, lupines, vetches and similar fodder products artificially heat-dried, except hay and fodder kale and products containing hay</td></tr>
+<tr><td>– Lucerne, sainfoin, clover, lupines, vetches, honey lotus, chickling pea and birdsfoot, otherwise dried and ground</td></tr>
+<tr><td>ex 1502 </td><td>Fats of bovine animals, sheep or goats, other than those of heading 1503 :</td></tr>
+<tr><td>ex 1502 10 10  ex 1502 90 10 </td><td>– For industrial uses other than the manufacture of foodstuffs for human consumption, excluding fats obtained from bones and waste ()</td></tr>
+<tr><td>1503 00 </td><td>Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared</td></tr>
+<tr><td>ex 1504 </td><td>Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified, excluding fish liver oils and the fractions of heading 1504 10 and fats and oils and their fractions, of fish, other than liver oils of heading 1504 20 </td></tr>
+<tr><td>1507 </td><td>Soya-bean oil and its fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1508 </td><td>Groundnut oil and its fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1511 </td><td>Palm oil and its fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1512 </td><td>Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1513 </td><td>Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1514 </td><td>Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified</td></tr>
+<tr><td>ex 1515 </td><td>Other fixed vegetable fats and oils (excluding jojoba oil of subheading ex 1515 90 11 ) and their fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>ex 1516 </td><td>Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared (excluding hydrogenated castor oil, so called 'opalwax' of subheading 1516 20 10 )</td></tr>
+<tr><td>ex 1517 </td><td>Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading 1516 , excluding subheadings 1517 10 10 , 1517 90 10 and 1517 90 93 </td></tr>
+<tr><td>1518 00 31 and 1518 00 39 </td><td>Fixed vegetable oils, fluid, mixed for technical or industrial uses other than the manufacture of foodstuffs for human consumption ()</td></tr>
+<tr><td>1522 00 91 </td><td>Oil foots and dregs; soapstocks, resulting from the treatment of fatty substances or animal or vegetable waxes, excluding those containing oil having the characteristics of olive oil</td></tr>
+<tr><td>1522 00 99 </td><td>Other residues resulting from the treatment of fatty substances or animal or vegetable waxes, excluding those containing oil having the characteristics of olive oil</td></tr>
+<tr><td rowspan="2">ex 1602 </td><td>Other prepared or preserved meat, meat offal or blood:</td></tr>
+<tr><td>– Of swine:</td></tr>
+<tr><td>ex 1602 41 </td><td>– – Hams and cuts thereof:</td></tr>
+<tr><td>1602 41 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 1602 42 </td><td>– – Shoulders and cuts thereof:</td></tr>
+<tr><td>1602 42 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td>ex 1602 49 </td><td>– – Other, including mixtures:</td></tr>
+<tr><td>1602 49 90 </td><td>– – – Other than of domestic swine</td></tr>
+<tr><td rowspan="2">ex 1602 90 </td><td>– Other, including preparations of blood of any animal:</td></tr>
+<tr><td>– – Other than preparations of blood of any animal:</td></tr>
+<tr><td rowspan="4">1602 90 31 </td><td>– – – Of game or rabbit</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>– – – – Other than containing the meat or meat offal of domestic swine:</td></tr>
+<tr><td>– – – – – Other than containing bovine meat or offal:</td></tr>
+<tr><td>1602 90 99 </td><td>– – – – – – Other than of sheep or goats</td></tr>
+<tr><td>ex 1603 00 </td><td>Extracts and juices of meat</td></tr>
+<tr><td>1801 00 00 </td><td>Cocoa beans, whole or broken, raw or roasted</td></tr>
+<tr><td>1802 00 00 </td><td>Cocoa shells, husks, skins and other cocoa waste</td></tr>
+<tr><td>ex 2001 </td><td>Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:</td></tr>
+<tr><td>ex 2001 90 </td><td>– Other:</td></tr>
+<tr><td>2001 90 20 </td><td>– – Fruits of the genus Capsicum other than sweet peppers or pimentos</td></tr>
+<tr><td>ex 2005 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006 :</td></tr>
+<tr><td>ex 2005 99 </td><td>– Other vegetables and mixtures of vegetables:</td></tr>
+<tr><td>2005 99 10 </td><td>– – Fruits of the genus Capsicum other than sweet peppers or pimentos</td></tr>
+<tr><td>ex 2206 </td><td>Other fermented beverages (for example, cider, perry, mead); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included:</td></tr>
+<tr><td>2206 00 31 to 2206 00 89 </td><td>– Other than piquette</td></tr>
+<tr><td>ex 2301 </td><td>Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves:</td></tr>
+<tr><td>2301 10 00 </td><td>– Flours, meals and pellets, of meat or meat offal; greaves</td></tr>
+<tr><td>ex 2302 </td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants:</td></tr>
+<tr><td>2302 50 00 </td><td>– Of leguminous plants</td></tr>
+<tr><td>2304 00 00 </td><td>Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil</td></tr>
+<tr><td>2305 00 00 </td><td>Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil</td></tr>
+<tr><td>ex 2306 </td><td>Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 2304 or 2305 with the exception of subheading 2306 90 05 (oilcake and other solid residues resulting from the extraction of maize (corn) germ) and 2306 90 11 and 2306 90 19 (oilcake and other solid residues resulting from the extraction of olive oil)</td></tr>
+<tr><td>ex 2307 00 </td><td>Wine lees; argol:</td></tr>
+<tr><td>2307 00 90 </td><td>– Argol</td></tr>
+<tr><td>ex 2308 00 </td><td>Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included:</td></tr>
+<tr><td>2308 00 90 </td><td>– Other than grape marc, acorns and horse-chestnuts, pomace or marc of fruit, other than grapes</td></tr>
+<tr><td>ex 2309 </td><td>Preparations of a kind used in animal feeding:</td></tr>
+<tr><td>ex 2309 10 </td><td>– Dog or cat food, put up for retail sale:</td></tr>
+<tr><td>2309 10 90 </td><td>– – Other than containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products</td></tr>
+<tr><td>ex 2309 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">ex 2309 90 10 </td><td>– – Other, including premixes:</td></tr>
+<tr><td>– – Marine mammal solubles</td></tr>
+<tr><td rowspan="3">ex 2309 90 91 to 2309 90 96 </td><td>– – – Other than containing starch, glucose, glucose syrup, maltodextrine or maltodextrine syrup of subheadings 1702 30 50 , 1702 30 90 , 1702 40 90 , 1702 90 50 and 2106 90 55 or milk products, excluding</td></tr>
+<tr><td>– Protein concentrates obtained from lucerne juice and grass juice</td></tr>
+<tr><td>– Dehydrated products obtained exclusively from solid residues and juice resulting from the preparation of the concentrates referred to in the first indent</td></tr>
+<tr><td colspan="2">(1)  Entry under this subheading is subject to the conditions laid down in the relevant Union provisions (see Council Directive 94/28/EC (2) and Commission Regulation (EC) No 504/2008 (3).  (2)  Council Directive 94/28/EC of 23 June 1994 laying down the principles relating to the zootechnical and genealogical conditions applicable to imports from third countries of animals, their semen, ova and embryos, and amending Directive 77/504/EEC on pure-bred breeding animals of the bovine species (OJ L 178, 12.7.1994, p. 66).  (3)  Commission Regulation (EC) No 504/2008 of 6 June 2008 implementing Council Directives 90/426/EEC and 90/427/EEC as regards methods for the identification of equidae (OJ L 149, 7.6.2008, p. 3).  (4)  Entry under this subheading is subject to conditions laid down in the relevant Union provisions (see Council Directive 88/661/EEC (5), Directive 94/28/EC and Commission Decision 96/510/EC (6)).  (5)  Council Directive 88/661/EEC of 19 December 1988 on the zootechnical standards applicable to breeding animals of the porcine species (OJ L 382, 31.12.1988, p. 36).  (6)  Commission Decision 96/510/EC of 18 July 1996 laying down the pedigree and zootechnical certificates for the importation of breeding animals, their semen, ova and embryos (OJ L 210, 20.8.1996, p. 53).  (7)  Entry under this subheading is subject to conditions laid down in the relevant Union provisions (see Articles 291 to 300 of Regulation (EEC) No 2454/93).  (8)  Entry under this subheading is subject to conditions laid down in paragraph F of Section II of the preliminary provisions of the Combined Nomenclature. </td></tr>
+</tbody>
+</table>
+
+**Section 2**
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>0101 29 10 </td><td>Live horses, for slaughter ()</td></tr>
+<tr><td>ex 0205 00 </td><td>Meat of horses, fresh, chilled or frozen</td></tr>
+<tr><td>0210 99 10 </td><td>Horsemeat, salted in brine or dried</td></tr>
+<tr><td>0511 99 10 </td><td>Sinews or tendons; parings and similar wastes of raw hides or skins</td></tr>
+<tr><td>0701 </td><td>Potatoes, fresh or chilled</td></tr>
+<tr><td>0901 </td><td>Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion</td></tr>
+<tr><td>1105 </td><td>Flour, meal, powder, flakes, granules and pellets of potatoes</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>1212 94 00 </td><td>Chicory roots</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2209 00 91 and 2209 00 99 </td><td>Vinegar and substitutes for vinegar obtained from acetic acid other than wine vinegar</td></tr>
+<tr><td>4501 </td><td>Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork</td></tr>
+<tr><td colspan="2">(1)  Entry under this subheading is subject to conditions laid down in the relevant Union provisions (see Articles 291 to 300 of Regulation (EEC) No 2454/93). </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**DEFINITIONS REFERRED TO IN ARTICLE 3(1)**
+
+**PART I**
+
+**Definitions concerning the rice sector**
+
+I. The terms 'paddy rice', 'husked rice', 'semi-milled rice', 'wholly milled rice', 'round grain rice', 'medium grain rice', 'long grain rice A or B' and 'broken rice' shall be defined as follows:
+
+1.
+
+(a) "Paddy rice" means rice which has retained its husk after threshing.
+
+(b) "Husked rice" means paddy rice from which only the husk has been removed. Examples of rice falling within this definition are those with the commercial descriptions 'brown rice', 'cargo rice', 'loonzain' and 'riso sbramato'.
+
+(c) "Semi-milled rice" means paddy rice from which the husk, part of the germ and the whole or part of the outer layers of the pericarp but not the inner layers have been removed.
+
+(d) "Wholly milled rice" means paddy rice from which the husk, the whole of the outer and inner layers of the pericarp, the whole of the germ in the case of long grain or medium grain rice and at least part thereof in the case of round grain rice have been removed, but in which longitudinal white striations may remain on not more than 10 % of the grains.
+
+2.
+
+(a) "Round grain rice" means rice, the grains of which are of a length not exceeding 5,2 mm and of a length/width ratio of less than 2.
+
+(b) "Medium grain rice" means rice, the grains of which are of a length exceeding 5,2 mm but not exceeding 6,0 mm and of a length/width ratio no greater than 3.
+
+(c) "Long grain rice" means
+
+(i) long grain rice A, namely rice, the grains of which are of a length exceeding 6,0 mm and of a length/width ratio greater than 2 but less than 3;
+
+(ii) long grain rice B, namely rice, the grains of which are of a length exceeding 6,0 mm and of a length/width ratio equal to or greater than 3.
+
+(d) "Measurements of the grains" means grain measurements on wholly milled rice taken by the following method:
+
+(i) take a sample representative of the batch;
+
+(ii) sieve the sample so as to retain only whole grains, including immature grains;
+
+(iii) carry out two measurements of 100 grains each and work out the average;
+
+(iv) express the result in millimetres, rounded off to one decimal place.
+
+3\. "Broken rice" means grain fragments the length of which does not exceed three quarters of the average length of the whole grain.
+
+II. As regards grains and broken grains which are not of unimpaired quality, the following definitions shall apply:
+
+1\. "Whole grains" means grains from which only part of the end has been removed, irrespective of characteristics produced at each stage of milling.
+
+2\. "Clipped grains" means grains from which the entire end has been removed.
+
+3\. "Broken grains or fragments" means grains from which a part of the volume greater than the end has been removed; broken grains include:
+
+(i) large broken grains (pieces of grain of a length not less than half that of a grain, but not constituting a complete grain),
+
+(ii) medium broken grains (pieces of grain of a length not less than a quarter of the length of a grain but which are smaller than the minimum size of 'large broken grains'),
+
+(iii) fine broken grains (pieces of grain less than a quarter of the size of a grain but too large to pass through a sieve with a mesh of 1,4 mm),
+
+(iv) fragments (small pieces or particles of grain which can pass through a sieve with a mesh of 1,4 mm); split grains (pieces produced by a longitudinal split in the grain) come under this definition.
+
+4\. "Green grains" means grains which are not fully ripened.
+
+5\. "Grains showing natural malformation" means grains showing a natural malformation, whether or not of hereditary origin, as compared with the morphological characteristics typical of the variety.
+
+6\. "Chalky grains" means grains at least three-quarters of the surface of which looks opaque and chalky.
+
+7\. "Grains striated with red" means grains showing longitudinal red striations of differing intensity and shades, due to residues from the pericarp.
+
+8\. "Spotted grains" means grains showing a well-defined small circle of dark colour of more or less regular shape; spotted grains also include those which show slight black striations on the surface only; the striations and spots must not show a yellow or dark aureole.
+
+9\. "Stained grains" means grains which have undergone, on a small area of their surface, an obvious change in their natural colour; the stains may be of different colours (blackish, reddish, brown); deep black striations are also to be regarded as stains. If the colour of the stains is sufficiently marked (black, pink, reddish-brown) to be immediately visible and if they cover an area not less than half that of the grain, the grains must be considered to be yellow grains.
+
+10\. "Yellow grains" means grains which have undergone, totally or partially, otherwise than by drying, a change in their natural colour and have taken on a lemon or orange-yellow tone.
+
+11\. "Amber grains" means grains which have undergone, otherwise than by drying, a slight uniform change in colour over the whole surface; this change alters the colour of the grains to a light amber-yellow.
+
+**PART II**
+
+**Technical definitions concerning the sugar sector**
+
+**Section A**
+
+**General definitions**
+
+1\. "White sugars" means sugars, not flavoured or coloured or containing any other added substances, containing, in the dry state, 99,5 % or more by weight of sucrose, determined by the polarimetric method.
+
+2\. "Raw sugars" means sugars, not flavoured or coloured or containing any other added substances, containing, in the dry state, less than 99,5 % by weight of sucrose, determined by the polarimetric method.
+
+3\. "Isoglucose" means the product obtained from glucose or its polymers, with a content by weight in the dry state of at least 10 % fructose.
+
+4\. "Inulin syrup" means the immediate product obtained by hydrolysis of inulin or oligofructoses, containing in the dry state at least 10 % fructose in free form or as sucrose, and expressed as sugar/isoglucose equivalents. —————
+
+5\. A "delivery contract" means a contract concluded between a seller and an undertaking for the delivery of beet for the manufacture of sugar.
+
+6\. "Agreement within the trade" means one of the following:
+
+(a) an agreement concluded, prior to the conclusion of any delivery contract, between undertakings or an undertakings' organisation recognised by the Member State concerned, or a group of such undertakings' organisations, on the one hand and a sellers' association recognised by the Member State concerned or a group of such sellers' organisations on the other;
+
+(b) in the absence of any agreement as referred to in point (a), the law on companies and the law on cooperatives, in so far as they govern the delivery of sugar beet by the shareholders or members of a company or cooperative manufacturing sugar.
+
+**PART III**
+
+**Definitions concerning the hops sector**
+
+1\. "Hops" means the dried inflorescences, also known as cones, of the (female) climbing hop plant (Humulus lupulus); these inflorescences, which are greenish yellow and of an ovoid shape, have a flower stalk and their longest dimension generally varies from 2 to 5 cm.
+
+2\. "Hop powder" means the product obtained by milling the hops, containing all the natural elements thereof.
+
+3\. "Hop powder with higher lupulin content" means the product obtained by milling the hops after mechanical removal of a part of the leaves, stalks, bracts and rachides.
+
+4\. "Extract of hops" means the concentrated products obtained by the action of a solvent on the hops or on the hop powder.
+
+5\. "Mixed hop products" means a mixture of two or more of the products referred to in points 1 to 4.
+
+**PART IV**
+
+**Definitions concerning the wine sector**
+
+**Vine-related**
+
+1\. "Grubbing up" means the complete elimination of all vine stocks on an area planted with vines.
+
+2\. "Planting" means the definitive establishment of vine plants or parts of vine plants, whether or not grafted, with a view to producing grapes or to establishing a graft nursery.
+
+3\. "Grafting-on" means the grafting of a vine which has already been subject to a previous grafting.
+
+**Produce-related**
+
+4\. "Fresh grapes" means the fruit of the vine used in making wine, ripe or even slightly raisined, which may be crushed or pressed by normal wine-cellar means and which may spontaneously produce alcoholic fermentation.
+
+5\. "Fresh grape must with fermentation arrested by the addition of alcohol" means a product which:
+
+(a) has an actual alcoholic strength of not less than 12 % volume and not more than 15 % volume;
+
+(b) is obtained by addition to unfermented grape must, which has a natural alcoholic strength of not less than 8,5 % volume and is exclusively derived from wine grape varieties classifiable in accordance with Article 81(2):
+
+(i) either of neutral alcohol of vinous origin, including alcohol obtained from the distillation of dried grapes, having an actual alcoholic strength of not less than 96 % volume;
+
+(ii) or of an unrectified product derived from the distillation of wine and having an actual alcoholic strength of not less than 52 % volume and not more than 80 % volume.
+
+6\. "Grape juice" means the unfermented but fermentable liquid product which:
+
+(a) is obtained by appropriate treatment rendering it fit for consumption as it is;
+
+(b) is obtained from fresh grapes or from grape must or by reconstitution. Where obtained by reconstitution, it shall be reconstituted from concentrated grape must or concentrated grape juice.
+
+An actual alcoholic strength of the grape juice of not more than 1 % volume is permissible.
+
+7\. "Concentrated grape juice" means uncaramelised grape juice obtained by partial dehydration of grape juice carried out by any authorised method other than by direct heat in such a way that the figure indicated by a refractometer used in accordance with a method to be prescribed at a temperature of 20 °C is not less than 50,9 %.
+
+An actual alcoholic strength of the concentrated grape juice of not more than 1 % volume is permissible.
+
+8\. "Wine lees" means the residue:
+
+(a) accumulating in vessels containing wine after fermentation, during storage or after authorised treatment;
+
+(b) obtained from filtering or centrifuging the product referred to in (a);
+
+(c) accumulating in vessels containing grape must during storage or after authorised treatment; or
+
+(d) obtained from filtering or centrifuging the product referred to in (c).
+
+9\. "Grape marc" means the residue from the pressing of fresh grapes, whether or not fermented.
+
+10\. "Piquette" means a product obtained by:
+
+(a) the fermentation of untreated grape marc macerated in water; or
+
+(b) leaching fermented grape marc with water.
+
+11\. "Wine fortified for distillation" means a product which:
+
+(a) has an actual alcoholic strength of not less than 18 % volume and not more than 24 % volume;
+
+(b) is obtained exclusively by the addition to wine containing no residual sugar of an unrectified product derived from the distillation of wine and having a maximum actual alcoholic strength of 86 % volume; or
+
+(c) has a maximum volatile acidity of 1,5 grams per litre, expressed as acetic acid.
+
+12\. "Cuvée" means
+
+(a) the grape must;
+
+(b) the wine; or
+
+(c) the mixture of grape musts and/or wines with different characteristics,
+
+intended for the preparation of a specific type of sparkling wine.
+
+**Alcoholic strength**
+
+13\. "Actual alcoholic strength by volume" means the number of volumes of pure alcohol contained at a temperature of 20 °C in 100 volumes of the product at that temperature.
+
+14\. "Potential alcoholic strength by volume" means the number of volumes of pure alcohol at a temperature of 20 °C capable of being produced by total fermentation of the sugars contained in 100 volumes of the product at that temperature.
+
+15\. "Total alcoholic strength by volume" means the sum of the actual and potential alcoholic strengths.
+
+16\. "Natural alcoholic strength by volume" means the total alcoholic strength by volume of a product before any enrichment.
+
+17\. "Actual alcoholic strength by mass" means the number of kilograms of pure alcohol contained in 100 kilograms of product.
+
+18\. "Potential alcoholic strength by mass" means the number of kilograms of pure alcohol capable of being produced by total fermentation of the sugars contained in 100 kilograms of product.
+
+19\. "Total alcoholic strength by mass" means the sum of the actual and potential alcoholic strength.
+
+**PART V**
+
+**Definitions concerning the beef and veal sector**
+
+"Bovine animals" means live animals of the domestic bovine species falling within CN codes 0102 21 , ex 0102 31 00 , 0102 90 20 , ex 0102 29 10 to ex 0102 29 99 , 0102 39 10 , 0102 90 91 .
+
+**PART VI**
+
+**Definitions concerning the milk and milk products sector**
+
+For the purpose of the implementation of the tariff quota for butter of New Zealand origin, the phrase 'manufactured directly from milk or cream' does not exclude butter manufactured from milk or cream, without the use of stored materials, in a single, self-contained and uninterrupted process which may involve the cream passing through a stage of concentrated milk fat and/or the fractionation of such milk fat.
+
+**PART VII**
+
+**Definitions concerning the eggs sector**
+
+1\. "Eggs in shell" means poultry eggs in shell, fresh, preserved, or cooked, other than eggs for hatching specified in point 2.
+
+2\. "Eggs for hatching" means poultry eggs for hatching
+
+3\. "Whole products" means birds' eggs not in shell, whether or not containing added sugar or other sweetening matter suitable for human consumption.
+
+4\. "Separated products" means birds' egg yolks, whether or not containing added sugar or other sweetening matter suitable for human consumption.
+
+**PART VIII**
+
+**Definitions concerning the poultrymeat sector**
+
+1\. "Live poultry" means live fowls, ducks, geese, turkeys and guinea fowls each weighing more than 185 grams.
+
+2\. "Chicks" means live fowls, ducks, geese, turkeys and guinea fowls, each weighing not more than 185 grams.
+
+3\. "Slaughtered poultry" means dead fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls, whole, with or without offal.
+
+4\. "Derived products" means the following:
+
+(a) products specified in point (a) of Part XX of Annex I;
+
+(b) products specified in point (b) of Part XX of Annex I, excluding slaughtered poultry and edible offal, known as 'poultry cuts';
+
+(c) edible offals specified in point (b) of Part XX of Annex I;
+
+(d) products specified in point (c) of Part XX of Annex I;
+
+(e) products specified in points (d) and (e) of Part XX of Annex I;
+
+(f) products referred to in point (f) of Part XX of Annex I, other than those falling within CN code 1602 20 10 .
+
+**PART IX**
+
+**Definitions concerning the apiculture sector**
+
+1\. Honey shall be understood as honey within the meaning of Council Directive 2001/110/EC ( 25 ) including as regards to the main types of honey.
+
+2\. "Apiculture products" means honey, beeswax, royal jelly, propolis or pollen.
+
+## ANNEX III
+
+**STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLE 1a OF REGULATION (EU) No 1370/2013 ( 26 )**
+
+**A. Standard quality for paddy rice**
+
+Paddy rice of standard quality shall:
+
+(a) be of sound, fair and marketable quality, free of odour;
+
+(b) contain a moisture content of maximum 13 %;
+
+(c) have a yield of wholly milled rice 63 % by weight in whole grains (with a tolerance of 3 % of clipped grains) of which a percentage by weight of wholly milled rice grains which are not of unimpaired quality:
+
+| chalky grains of paddy rice under CN codes 1006 10 27 and 1006 10 98 | 1,5 % |
+| --- | --- |
+| chalky grains of paddy rice under CN codes other than 1006 10 27 and 1006 10 98 : | 2,0 % |
+| grains striated with red | 1,0 % |
+| spotted grains | 0,50 % |
+| stained grains | 0,25 % |
+| yellow grains | 0,02 % |
+| amber grains | 0,05 % |
+
+**B. Standard qualities for sugar**
+
+**II. Standard quality for white sugar**
+
+1\. White sugar of the standard quality shall have the following characteristics:
+
+(a) sound, fair and marketable quality; dry, in homogeneous granulated crystals, free-flowing;
+
+(b) minimum polarisation: 99,7;
+
+(c) maximum moisture content: 0,06 %;
+
+(d) maximum invert sugar content: 0,04 %;
+
+(e) the number of points determined under point 2 not exceeding a total of 22, nor:
+
+— 15 for the ash content,
+
+— 9 for the colour type, determined using the method of the Brunswick Institute of Agricultural Technology ("the Brunswick method"),
+
+— 6 for the colouring of the solution, determined using the method of the International Commission for Uniform Methods of Sugar Analysis ("the ICUMSA method").
+
+2\. One point shall correspond to:
+
+(a) 0,0018 % of ash content determined using the ICUMSA method at 28o Brix;
+
+(b) 0,5 units of colour type determined using the Brunswick method;
+
+(c) 7,5 units of colouring of the solution determined using the ICUMSA method.
+
+3\. The methods for determining the factors referred to in point 1 shall be those used for determining those factors under the intervention measures.
+
+**III. Standard quality for raw sugar**
+
+1\. Raw sugar of the standard quality shall be sugar with a yield in white sugar of 92 %.
+
+2\. The yield of raw beet sugar shall be calculated by subtracting from the degree of polarisation of that sugar:
+
+(a) its percentage ash content multiplied by four;
+
+(b) its percentage invert sugar content multiplied by two;
+
+(c) the number 1.
+
+3\. The yield of raw cane sugar shall be calculated by subtracting 100 from the degree of polarisation of that sugar multiplied by two.
+
+## ANNEX IV
+
+**UNION SCALES FOR THE CLASSIFICATION OF CARCASSES REFERRED TO IN ARTICLE 10**
+
+**A. Union scale for the classification of carcasses of bovine animals aged eight months or more**
+
+**I. Definitions**
+
+The following definitions shall apply:
+
+1\. "carcass" means the whole body of a slaughtered animal as presented after bleeding, evisceration and skinning;
+
+2\. "half-carcass" means the product obtained by separating the carcass symmetrically through the middle of each cervical, dorsal, lumbar and sacral vertebra and through the middle of the sternum and the ischiopubic symphysis.
+
+**II. Categories**
+
+The bovine carcasses shall be divided into the following categories:
+
+Z : carcasses of animals aged from 8 months to less than 12 months;
+
+A : carcasses of uncastrated male animals aged from 12 months to less than 24 months;
+
+B : carcasses of uncastrated male animals aged from 24 months;
+
+C : carcasses of castrated male animals aged from 12 months;
+
+D : carcasses of female animals that have calved;
+
+E : carcasses of other female animals aged from 12 months.
+
+**III. Classification**
+
+The carcasses shall be classified by successive assessment of:
+
+1\. Conformation, defined as follows:
+
+Development of carcass profiles, in particular the essential parts (round, back, shoulder)
+
+| Conformation class | Description |
+| --- | --- |
+| S Superior | All profiles extremely convex; exceptional muscle development (double muscled carcass type) |
+| E Excellent | All profiles convex to super-convex; exceptional muscle development |
+| U Very good | Profiles on the whole convex, very good muscle development |
+| R Good | Profiles on the whole straight; good muscle development |
+| O Fair | Profiles straight to concave; average muscle development |
+| P Poor | All profiles concave to very concave; poor muscle development |
+
+2\. Fat cover, defined as follows:
+
+— Amount of fat on the outside of the carcass and in the thoracic cavity
+
+| Class of fat cover | Description |
+| --- | --- |
+| 1 low | None up to low fat cover |
+| 2 slight | Slight fat cover, flesh visible almost everywhere |
+| 3 average | Flesh with the exception of the round and shoulder, almost everywhere covered with fat, slight deposits of fat in the thoracic cavity |
+| 4 high | Flesh covered with fat, but on the round and shoulder still partly visible, some distinctive fat deposits in the thoracic cavity |
+| 5 very high | Entire carcass covered with fat; heavy deposits in the thoracic cavity |
+
+Member States are authorised to subdivide each of the classes provided for in points 1 and 2 into a maximum of three subclasses.
+
+**IV. Presentation**
+
+Carcasses and half-carcasses shall be presented:
+
+(a) without the head and without the feet; the head shall be separated from the carcass at the atloido-occipital joint and the feet shall be severed at the carpametacarpal or tarsometatarsal joints;
+
+(b) without the organs contained in the thoracic and abdominal cavities with or without the kidneys, the kidney fat and the pelvic fat;
+
+(c) without the sexual organs and the attached muscles and without the udder or the mammary fat.
+
+**V. Classification and identification**
+
+Slaughterhouses approved under Article 4 of Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 27 ) shall take measures to ensure that all carcasses or half-carcasses bovine animals aged eight months or more slaughtered in such slaughterhouses and bearing a health mark provided for Article 5(2) in conjunction with Chapter III of Section I of Annex I to Regulation (EC) No 854/2004 of the European Parliament and of the Council ( 28 ) are classified and identified in accordance with the Union scale.
+
+Before identification by marking, Member States may grant authorisation to have the external fat removed from the carcasses or half-carcasses if this is justified by the fat cover.
+
+**B. Union scale for the classification of pig carcasses**
+
+**I. Definition**
+
+"Carcass" means the body of a slaughtered pig, bled and eviscerated, whole or divided down the mid-line.
+
+**II. Classification**
+
+Carcasses shall be divided into classes according to their estimated lean-meat content and classified accordingly:
+
+Classes Lean meat as percentage of carcass weight
+
+S 60 or more
+
+E 55 or more but less than 60
+
+U 50 or more but less than 55
+
+R 45 or more but less than 50
+
+O 40 or more but less than 45
+
+P less than 40
+
+**III. Presentation**
+
+Carcasses shall be presented without tongue, bristles, hooves, genital organs, flare fat, kidneys and diaphragm.
+
+**IV. Lean-meat content**
+
+1\. The lean-meat content shall be assessed by means grading methods authorised by the Commission. Only statistically proven assessment methods based on the physical measurement of one or more anatomical parts of the pig carcass may be authorised. Authorisation of grading methods shall be subject to compliance with a maximum tolerance for statistical error in assessment.
+
+2\. However, the commercial value of the carcasses shall not be determined solely by their estimated lean-meat content.
+
+**V. Identification of carcasses**
+
+Unless otherwise provided for by the Commission, classified carcasses shall be identified by marking in accordance with the Union scale.
+
+**C. Union scale for the classification of sheep carcasses**
+
+**I. Definition**
+
+The definitions of "carcass" and "half-carcass" laid down in point A.I shall apply.
+
+**II. Categories**
+
+The carcasses shall be divided into the following categories:
+
+A : carcasses of sheep under 12 months old,
+
+B : carcasses of other sheep.
+
+**III. Classification**
+
+The carcasses shall be classified by way of application of the provisions in point A.III. mutatis mutandis. However, the term "round" in point A.III.1 and in rows 3 and 4 of the table under point A.III.2. shall be replaced by the term "hindquarter".
+
+**IV. Presentation**
+
+Carcasses and half-carcasses shall be presented without the head (severed at the atlantooccipital joint), the feet (severed at the carpometacarpal or tarso-metatarsal joints), the tail (severed between the sixth and seventh caudal vertebrae), the udder, the genitalia, the liver and the pluck. Kidneys and kidney fat are included in the carcass.
+
+Member States are authorised to permit different presentations when the refeence presentation is not used.
+
+**V. Identification of carcasses**
+
+Classified carcasses and half-carcasses shall be identified by marking in accordance with the Union scale.
+
+## ANNEX V
+
+**PRODUCTS REFERRED TO IN ARTICLE 23(5)**
+
+**Category I**
+
+— Fermented milk products without fruit juice, naturally flavoured
+
+— Fermented milk products with fruit juice, naturally flavoured or non-flavoured
+
+— Milk-based drinks with cocoa, with fruit juice or naturally flavoured
+
+**Category II**
+
+Fermented or non-fermented milk products with fruit, naturally flavoured or non-flavoured.
+
+## ANNEX VII
+
+**DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78**
+
+For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+
+**PART I**
+
+**Meat of bovine animals aged less than 12 months**
+
+**I. Definition**
+
+For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+
+**II. Classification of bovine animals aged less than 12 months at the slaughterhouse**
+
+On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+
+(A) Category V: bovine animals aged less than eight months
+
+Category identification letter: V;
+
+(B) Category Z: bovine animals aged from 8 months to less than 12 months
+
+Category identification letter: Z.
+
+This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council ( 29 ).
+
+At the request of a group referred to in Article 3(2) of Regulation (EU) No 1151/2012, the relevant Member State may decide that the conditions referred to in this point do not apply to the meat of bovine animals with a protected designation of origin or protected geographical indication protected in accordance with Regulation (EU) No 1151/2012 registered before 29 June 2007.
+
+**III. Sales descriptions**
+
+1\. The meat of bovine animals aged less than 12 months shall only be marketed in the Member States under the following sales description(s) laid down for each Member State:
+
+(A) For the meat of bovine animals aged less than eight months (category identification letter: V):
+
+<table>
+<tbody><tr><td>Country of marketing</td><td>Sales descriptions to be used</td></tr>
+<tr><td>Belgium</td><td>veau, viande de veau/kalfsvlees/Kalbfleisch</td></tr>
+<tr><td>Bulgaria</td><td>месо от малки телета</td></tr>
+<tr><td>Czech Republic</td><td>Telecí</td></tr>
+<tr><td>Denmark</td><td>Lyst kalvekød</td></tr>
+<tr><td>Germany</td><td>Kalbfleisch</td></tr>
+<tr><td>Estonia</td><td>Vasikaliha</td></tr>
+<tr><td>Ireland</td><td>Veal</td></tr>
+<tr><td>Greece</td><td>μοσχάρι γάλακτος</td></tr>
+<tr><td>Spain</td><td>Ternera blanca, carne de ternera blanca</td></tr>
+<tr><td>France</td><td>veau, viande de veau</td></tr>
+<tr><td>Croatia</td><td>teletina</td></tr>
+<tr><td>Italy</td><td>vitello, carne di vitello</td></tr>
+<tr><td>Cyprus</td><td>μοσχάρι γάλακτος</td></tr>
+<tr><td>Latvia</td><td>Teļa gaļa</td></tr>
+<tr><td>Lithuania</td><td>Veršiena</td></tr>
+<tr><td>Luxembourg</td><td>veau, viande de veau/Kalbfleisch</td></tr>
+<tr><td>Hungary</td><td>Borjúhús</td></tr>
+<tr><td>Malta</td><td>Vitella</td></tr>
+<tr><td>Netherlands</td><td>Kalfsvlees</td></tr>
+<tr><td>Austria</td><td>Kalbfleisch</td></tr>
+<tr><td>Poland</td><td>Cielęcina</td></tr>
+<tr><td>Portugal</td><td>Vitela</td></tr>
+<tr><td>Romania</td><td>carne de vițel</td></tr>
+<tr><td>Slovenia</td><td>Teletina</td></tr>
+<tr><td>Slovakia</td><td>Teľacie mäso</td></tr>
+<tr><td>Finland</td><td>vaalea vasikanliha/ljust kalvkött</td></tr>
+<tr><td>Sweden</td><td>ljust kalvkött</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+(B) For the meat of bovine animals aged from 8 months to less than 12 months (category identification letter: Z):
+
+<table>
+<tbody><tr><td>Country of marketing</td><td>Sales descriptions to be used</td></tr>
+<tr><td>Belgium</td><td>jeune bovin, viande de jeune bovin/jongrundvlees/Jungrindfleisch</td></tr>
+<tr><td>Bulgaria</td><td>Телешко месо</td></tr>
+<tr><td>Czech Republic</td><td>hovězí maso z mladého skotu</td></tr>
+<tr><td>Denmark</td><td>Kalvekød</td></tr>
+<tr><td>Germany</td><td>Jungrindfleisch</td></tr>
+<tr><td>Estonia</td><td>noorloomaliha</td></tr>
+<tr><td>Ireland</td><td>rosé veal</td></tr>
+<tr><td>Greece</td><td>νεαρό μοσχάρι</td></tr>
+<tr><td>Spain</td><td>Ternera, carne de ternera</td></tr>
+<tr><td>France</td><td>jeune bovin, viande de jeune bovin</td></tr>
+<tr><td>Croatia</td><td>mlada junetina</td></tr>
+<tr><td>Italy</td><td>vitellone, carne di vitellone</td></tr>
+<tr><td>Cyprus</td><td>νεαρό μοσχάρι</td></tr>
+<tr><td>Latvia</td><td>jaunlopa gaļa</td></tr>
+<tr><td>Lithuania</td><td>Jautiena</td></tr>
+<tr><td>Luxembourg</td><td>jeune bovin, viande de jeune bovin/Jungrindfleisch</td></tr>
+<tr><td>Hungary</td><td>Növendék marha húsa</td></tr>
+<tr><td>Malta</td><td>Vitellun</td></tr>
+<tr><td>Netherlands</td><td>rosé kalfsvlees</td></tr>
+<tr><td>Austria</td><td>Jungrindfleisch</td></tr>
+<tr><td>Poland</td><td>młoda wołowina</td></tr>
+<tr><td>Portugal</td><td>Vitelão</td></tr>
+<tr><td>Romania</td><td>carne de tineret bovin</td></tr>
+<tr><td>Slovenia</td><td>meso težjih telet</td></tr>
+<tr><td>Slovakia</td><td>mäso z mladého dobytka</td></tr>
+<tr><td>Finland</td><td>vasikanliha/kalvkött</td></tr>
+<tr><td>Sweden</td><td>Kalvkött</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+2\. The sales descriptions referred to in paragraph 1 may be supplemented by an indication of the name or designation of the pieces of meat or offal concerned.
+
+3\. The sales descriptions listed for category V in point A of the table set out in paragraph 1 and any new name derived from those sales descriptions shall only be used if the requirements of this Annex are fulfilled.
+
+In particular, the terms "veau", "telecí", "Kalb", "μοσχάρι", "ternera", "kalv", "veal", "vitello", "vitella", "kalf", "vitela" and "teletina" shall not be used in a sales description or be indicated on the labelling of the meat of bovine animals aged more than 12 months.
+
+4\. The conditions referred to in paragraph 1 shall not apply to the meat of bovine animals with a designation of origin or geographical indication protected in accordance with Regulation (EU) No 1151/2012 registered before 29 June 2007.
+
+**IV. Compulsory indication on the label**
+
+1\. Without prejudice to Directive 2000/13/EC, Regulation (EU) No 1169/2011 and Articles 13, 14 and 15 of Regulation (EC) No 1760/2000, at each stage of production and marketing, operators shall label the meat of bovine animals aged less than 12 months with the following information:
+
+(a) the sales description in accordance with point III of this Part;
+
+(b) the age of the animals on slaughter, indicated, as the case may be, on the form:
+
+— "age on slaughter: less than 8 months";
+
+— "age on slaughter: from 8 to less than 12 months".
+
+By way of derogation from point (b) of the first subparagraph, operators may replace the indication on the age at slaughter by the indication of the category, respectively: "category V" or "category Z", at stages preceding the release to the final consumer.
+
+2\. In the case of the meat of bovine animals aged less than 12 months presented for sale un-prepacked at the point of retail sale to the final consumer, Member States shall lay down rules on how the information referred to in paragraph 1 is to be indicated.
+
+**V. Recording**
+
+At each stage of production and marketing, operators shall record the following information:
+
+(a) the identification number and the date of birth of the animals, at slaughterhouse level only;
+
+(b) a reference number making it possible to establish a link between, on the one hand, the identification of the animals from which the meat originates and, on the other hand, the sales description, the age on slaughter and the category identification letter given on the meat label;
+
+(c) the date of arrival and departure of the animals and meat in the establishment.
+
+**VI. Official checks**
+
+1\. Member States shall designate the competent authority or authorities responsible for official checks performed to verify the application of this Part and inform the Commission thereof.
+
+2\. Official checks shall be carried out by the competent authority or authorities in accordance with the general principles laid down in Regulation (EC) No 882/2004 of the European Parliament and of the Council ( 30 ).
+
+3\. The Commission's experts shall carry out, where required, jointly with the competent authorities concerned, and where applicable, the Member States' experts, on the spot checks to ensure that the provisions of this Annex are being implemented.
+
+4\. Any Member State on whose territory checks are carried out shall provide the Commission with all necessary assistance which it may require for the accomplishment of its tasks.
+
+5\. For meat imported from third countries a competent authority designated by the third country or, where applicable, an independent third-party body shall ensure that the requirements of this Part are fulfilled. The independent body shall provide full assurance of compliance with the conditions laid down in European Standard EN 45011 or ISO/IEC Guide 65.
+
+**PART II**
+
+**Categories of grapevine products**
+
+The categories of grapevine products shall be those set out in points (1) to (17). The categories of grapevine products set out in point (1) and points (4) to (9) may undergo a total or partial de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, after having fully attained their respective characteristics as described in those points.
+
+Grapevine products of the categories set out in points (4) and (8) may be obtained by second fermentation of de-alcoholised or partially de-alcoholised wines referred to in point (1).
+
+Grapevine products of the categories set out in points (7) and (9) may be obtained by the addition of carbon dioxide to de-alcoholised or partially de-alcoholised wines referred to in point (1).
+
+**(1) Wine**
+
+"Wine" means the product obtained exclusively from the total or partial alcoholic fermentation of fresh grapes, whether or not crushed, or of grape must.
+
+Wine shall:
+
+(a) have, whether or not following application of the processes specified in Section B of Part I of Annex VIII, an actual alcoholic strength of not less than 8,5 % volume provided that the wine derives exclusively from grapes harvested in wine-growing zones A and B referred to in Appendix I to this Annex, and of not less than 9 % volume in other wine-growing zones;
+
+(b) have, by way of derogation from the otherwise applicable minimum actual alcoholic strength, where it has a protected designation of origin or a protected geographical indication, whether or not following application of the processes specified in Section B of Part I of Annex VIII, an actual alcoholic strength of not less than 4,5 % volume;
+
+(c) have a total alcoholic strength of not more than 15 % volume. However, by way of derogation:
+
+— the upper limit for the total alcoholic strength may reach up to 20 % volume for wines which have been produced without any enrichment from certain wine-growing areas of the Union, to be determined by the Commission by means of delegated acts pursuant to Article 75(2),
+
+— the upper limit for the total alcoholic strength may exceed 15 % volume for wines with a protected designation of origin which have been produced without enrichment, or enriched only by partial concentration processes listed in point 1 of Section B of Part I of Annex VIII, provided that the product specification in the technical file of the protected designation of origin concerned allows for that possibility;
+
+(d) have, subject to derogations which may be adopted by the Commission by means of delegated acts pursuant to Article 75(2), a total acidity content, expressed as tartaric acid, of not less than 3,5 grams per litre or 46,6 milliequivalents per litre.
+
+"Retsina" means wine produced exclusively in the geographical territory of Greece using grape must treated with resin from the Aleppo pine. The use of Aleppo pine resin is permitted solely for the purpose of obtaining "Retsina" wine under the conditions laid down in Greece's applicable provision.
+
+By way of derogation from point (b) of the second subparagraph "Tokaji eszencia" and "Tokajská esencia" are considered to be wine.
+
+However, Member States may allow the use of the term "wine" if:
+
+(a) it is accompanied by the name of a fruit in the form of a composite name to market products obtained by the fermentation of fruit other than grapes; or
+
+(b) it is part of a composite name.
+
+Any confusion with products corresponding to the wine categories in this Annex shall be avoided.
+
+**(2) New wine still in fermentation**
+
+"New wine still in fermentation" means the product in which the alcoholic fermentation is not yet complete and which is not yet separated from its lees.
+
+**(3) Liqueur wine**
+
+"Liqueur wine" means the product:
+
+(a) with an actual alcoholic strength of not less than 15 % by volume and not more than 22 % by volume. Exceptionally, and for wines of prolonged ageing, those limits may differ in certain liqueur wines with a designation of origin or geographical indication on the list established by the Commission by means of delegated acts adopted in accordance with Article 75(2), on the condition that:
+
+— the wines put into the ageing process shall fulfil the definition of liqueur wines; and
+
+— the actual alcoholic strength of the aged wine shall not be less than 14 % by volume;
+
+(b) which has a total alcoholic strength of not less than 17,5 % volume, except for certain liqueur wines with a designation of origin or with a geographical indication appearing on a list to be drawn up by the Commission by means of delegated acts pursuant to Article 75(2);
+
+(c) which is obtained from:
+
+— grape must in fermentation,
+
+— wine,
+
+— a combination of the above products, or
+
+— grape must or a mixture thereof with wine for certain liqueur wines with a protected designation of origin or a protected geographical indication, to be determined by the Commission by means of delegated acts pursuant to Article 75(2);
+
+(d) which has an initial natural alcoholic strength of not less than 12 % volume, except for certain liqueur wines with a protected designation of origin or a protected geographical indication appearing on a list to be drawn up by the Commission by means of delegated acts pursuant to Article 75(2);
+
+(e) to which the following has been added:
+
+(i) individually or in combination:
+
+— neutral alcohol of vine origin, including alcohol produced from the distillation of dried grapes, having an actual alcoholic strength of not less than 96 % volume,
+
+— wine or dried grape distillate, having an actual alcoholic strength of not less than 52 % volume and not more than 86 % volume;
+
+(ii) together with one or more of the following products where appropriate:
+
+— concentrated grape must,
+
+— a combination of one of the products referred to in point (e)(i) with a grape must referred to in the first and fourth indent of point (c);
+
+(f) to which, by way of derogation from point (e), has been added, in so far as certain liqueur wines with a protected designation of origin or a protected geographical indication are concerned which appear on a list to be drawn up by the Commission by means of delegated acts pursuant to Article 75(2):
+
+(i) either of products listed in point (e)(i) individually or in combination; or
+
+(ii) one or more of the following products:
+
+— wine alcohol or dried grape alcohol with an actual alcoholic strength of not less than 95 % volume and not more than 96 % volume,
+
+— spirits distilled from wine or from grape marc, with an actual alcoholic strength of not less than 52 % volume and not more than 86 % volume,
+
+— spirits distilled from dried grapes, with an actual alcoholic strength of not less than 52 % volume and of less than 94,5 % volume; and
+
+(iii) one or more of the following products, where appropriate:
+
+— partially fermented grape must obtained from raisined grapes,
+
+— concentrated grape must obtained by the action of direct heat, complying, with the exception of this operation, with the definition of concentrated grape must,
+
+— concentrated grape must,
+
+— a combination of one of the products listed in point (f)(ii) with a grape must referred to in the first and fourth indents of point (c).
+
+**(4) Sparkling wine**
+
+"Sparkling wine" means the product:
+
+(a) which is obtained by first or second alcoholic fermentation:
+
+— from fresh grapes,
+
+— from grape must, or
+
+— from wine;
+
+(b) which, when the container is opened, releases carbon dioxide derived exclusively from fermentation;
+
+(c) which has an excess pressure, due to carbon dioxide in solution, of not less than 3 bar when kept at a temperature of 20 °C in closed containers; and
+
+(d) for which the total alcoholic strength of the cuvées intended for their preparation shall not be less than 8,5 % volume.
+
+**(5) Quality sparkling wine**
+
+"Quality sparkling wine" means the product:
+
+(a) which is obtained by first or second alcoholic fermentation:
+
+— from fresh grapes,
+
+— from grape must, or
+
+— from wine;
+
+(b) which, when the container is opened, releases carbon dioxide derived exclusively from fermentation;
+
+(c) which has an excess pressure, due to carbon dioxide in solution, of not less than 3,5 bar when kept at a temperature of 20 °C in closed containers; and
+
+(d) for which the total alcoholic strength of the cuvées intended for their preparation shall not be less than 9 % volume.
+
+**(6) Quality aromatic sparkling wine**
+
+"Quality aromatic sparkling wine" means the quality sparkling wine:
+
+(a) which is obtained only by making use, when constituting the cuvée, of grape must or grape must in fermentation which is derived from specific wine grape varieties on a list to be drawn up by the Commission by means of delegated acts pursuant to Article 75(2).
+
+Quality aromatic sparkling wines traditionally produced using wines when constituting the cuvée shall be determined by the Commission by means of delegated acts pursuant to in Article 75(2);
+
+(b) which has an excess pressure, due to carbon dioxide in solution, of not less than 3 bar when kept at a temperature of 20 °C in closed containers;
+
+(c) of which the actual alcoholic strength may not be less than 6 % volume; and
+
+(d) of which the total alcoholic strength may not be less than 10 % volume.
+
+**(7) Aerated sparkling wine**
+
+"Aerated sparkling wine" means the product which:
+
+(a) is obtained from wine without a protected designation of origin or a protected geographical indication;
+
+(b) releases, when the container is opened, carbon dioxide derived wholly or partially from an addition of that gas; and
+
+(c) has an excess pressure, due to carbon dioxide in solution, of not less than 3 bar when kept at a temperature of 20 °C in closed containers.
+
+**(8) Semi-sparkling wine**
+
+"Semi-sparkling wine" means the product which:
+
+(a) obtained from wine, new wine still in fermentation, grape must or grape must in fermentation in so far as these products have a total alcohol strength of at least 9 % vol;
+
+(b) has an actual alcoholic strength of not less than 7 % volume;
+
+(c) has an excess pressure, due to endogenous carbon dioxide in solution of not less than 1 bar and not more than 2,5 bar when kept at a temperature of 20 °C in closed containers; and
+
+(d) is placed in containers of 60 litres or less.
+
+**(9) Aerated semi-sparkling wine**
+
+"Aerated semi-sparkling wine" means the product which:
+
+(a) obtained from wine, new wine still in fermentation, grape must or grape must in fermentation;
+
+(b) has an actual alcoholic strength of not less than 7 % volume and a total alcoholic strength of not less than 9 % volume;
+
+(c) has an excess pressure of not less than 1 bar and not more than 2,5 bar when kept at a temperature of 20 °C in closed containers due to carbon dioxide in solution which has been wholly or partially added; and
+
+(d) is placed in containers of 60 litres or less.
+
+**(10) Grape must**
+
+"Grape must" means the liquid product obtained naturally or by physical processes from fresh grapes. An actual alcoholic strength of the grape must of not more than 1 % volume is permissible.
+
+**(11) Partially fermented grape must**
+
+"Grape must in fermentation" means the product obtained from the fermentation of grape must which has an actual alcoholic strength of more than 1 % volume but less than three fifths of its total alcoholic strength by volume.
+
+**(12) Partially fermented grape must extracted from raisined grapes**
+
+"Grape must in fermentation extracted from raisined grapes" means the product obtained from the partial fermentation of grape must obtained from raisined grapes, the total sugar content of which before fermentation is at least 272 grams per litre and the natural and actual alcoholic strength of which shall not be less than 8 % volume. However, certain wines, to be determined by the Commission by means of delegated acts pursuant to Article 75(2), that meet these requirements shall not be considered to be grape must in fermentation extracted from raisined grapes.
+
+**(13) Concentrated grape must**
+
+"Concentrated grape must" means uncaramelised grape must which is obtained by partial dehydration of grape must carried out by any authorised method other than by direct heat in such a way that the figure indicated by a refractometer used in accordance with a method to be prescribed in accordance with the first subparagraph of Article 80(5) and point (d) of the first subparagraph of Article 91 at a temperature of 20 °C is not less than 50,9 %.
+
+An actual alcoholic strength of the concentrated grape must of not more than 1 % volume is permissible.
+
+**(14) Rectified concentrated grape must**
+
+"Rectified concentrated grape must" means:
+
+(a) the liquid uncaramelised product which:
+
+(i) is obtained by partial dehydration of grape must carried out by any authorised method other than direct heat in such a way that the figure indicated by a refractometer used according to a method to be prescribed in accordance with the first subparagraph of Article 80(5) and point (d) of the first subparagraph of Article 91 at a temperature of 20 °C is not less than 61,7 %;
+
+(ii) has undergone authorised treatment for de-acidification and elimination of constituents other than sugar;
+
+(iii) has the following characteristics:
+
+— a pH of not more than 5 at 25 Brix,
+
+— an optical density at 425 nm for a thickness of 1 cm of not more than 0,100 in grape must concentrated at 25 Brix,
+
+— a sucrose content undetectable by a method of analysis to be defined,
+
+— a Folin-Ciocalteu index of not more than 6,00 at 25 Brix,
+
+— a titratable acidity of not more than 15 millequivalents per kilogram of total sugars,
+
+— a sulphur dioxide content of not more than 25 milligrams per kilogram of total sugars,
+
+— a total cation content of not more than 8 milliequivalents per kilogram of total sugars,
+
+— a conductivity at 25 Brix and 20 °C of not more than 120 micro-Siemens/cm,
+
+— a hydroxymethylfurfural content of not more than 25 milligrams per kilogram of total sugars,
+
+— presence of mesoinositol.
+
+(b) the solid uncaramelised product which:
+
+(i) is obtained by crystallisation of liquid rectified concentrated grape must without the use of solvents;
+
+(ii) has undergone authorised treatment for de-acidification and elimination of constituents other than sugar;
+
+(iii) has the following characteristics after dilution in a solution at 25 Brix:
+
+— a pH of not more than 7,5,
+
+— an optical density at 425 nm for a thickness of 1 cm of not more than 0,100,
+
+— a sucrose content undetectable by a method of analysis to be defined,
+
+— a Folin-Ciocalteu index of not more than 6,00,
+
+— a titratable acidity of not more than 15 millequivalents per kilogram of total sugars,
+
+— a sulphur dioxide content of not more than 10 milligrams per kilogram of total sugars,
+
+— a total cation content of not more than 8 millequivalents per kilogram of total sugars,
+
+— a conductivity at 20 °C of not more than 120 micro-Siemens/cm,
+
+— a hydroxymethylfurfural content of not more than 25 milligrams per kilogram of total sugars,
+
+— presence of mesoinositol.
+
+An actual alcoholic strength of the rectified concentrated grape must of not more than 1 % volume is permissible.
+
+**(15) Wine from raisined grapes**
+
+"Wine from raisined grapes" means the product which:
+
+(a) is produced without enrichment, from grapes left in the sun or shade for partial dehydration;
+
+(b) has a total alcoholic strength of at least 16 % volume and an actual alcoholic strength of at least 9 % volume; and
+
+(c) has a natural alcoholic strength of a least 16 % volume (or 272 grams sugar/litre).
+
+**(16) Wine of overripe grapes**
+
+"Wine of overripe grapes" means the product which:
+
+(a) is produced without enrichment;
+
+(b) has a natural alcoholic strength of more than 15 % volume; and
+
+(c) has a total alcoholic strength of not less than 15 % volume and an actual alcoholic strength of not less than 12 % volume.
+
+Member States may prescribe a period of ageing for this product.
+
+**(17) Wine vinegar**
+
+"Wine vinegar" means vinegar which:
+
+(a) is obtained exclusively by acetous fermentation of wine; and
+
+(b) has a total acidity of not less than 60 grams per litre expressed as acetic acid.
+
+**PART III**
+
+**Milk and milk products**
+
+1\. "Milk" means exclusively the normal mammary secretion obtained from one or more milkings without either addition thereto or extraction therefrom.
+
+However, the term "milk" may be used:
+
+(a) for milk treated without altering its composition or for milk the fat content of which is standardised under Part IV;
+
+(b) in association with a word or words to designate the type, grade, origin and/or intended use of such milk or to describe the physical treatment or the modification in composition to which it has been subjected, provided that the modification is restricted to an addition and/or withdrawal of natural milk constituents.
+
+2\. For the purposes of this Part, "milk products" means products derived exclusively from milk, on the understanding that substances necessary for their manufacture may be added provided that those substances are not used for the purpose of replacing, in whole or in part, any milk constituent.
+
+The following shall be reserved exclusively for milk products.
+
+(a) the following names used at all stages of marketing:
+
+(i) whey,
+
+(ii) cream,
+
+(iii) butter,
+
+(iv) buttermilk,
+
+(v) butteroil,
+
+(vi) caseins,
+
+(vii) anhydrous milk fat (AMF),
+
+(viii) cheese,
+
+(ix) yogurt,
+
+(x) kephir,
+
+(xi) koumiss,
+
+(xii) viili/fil,
+
+(xiii) smetana,
+
+(xiv) fil;
+
+(xv) rjaženka,
+
+(xvi) rūgušpiens;
+
+(b) names within the meaning of Article 5 of Directive 2000/13/EC or Article 17 of Regulation (EU) No 1169/2011 actually used for milk products.
+
+3\. The term 'milk' and the designations used for milk products may also be used in association with a word or words to designate composite products of which no part takes or is intended to take the place of any milk constituent and of which milk or a milk product is an essential part either in terms of quantity or for characterisation of the product.
+
+4\. As regards milk, the animal species from which the milk originates shall be stated, if it is not bovine.
+
+5\. The designations referred to in points 1, 2 and 3 may not be used for any product other than those referred to in that point.
+
+However, this provision shall not apply to the designation of products the exact nature of which is clear from traditional usage and/or when the designations are clearly used to describe a characteristic quality of the product.
+
+6\. In respect of a product other than those described in points 1, 2 and 3 of this Part, no label, commercial document, publicity material or any form of advertising as defined in Article 2 of Council Directive 2006/114/EC ( 31 ) or any form of presentation may be used which claims, implies or suggests that the product is a dairy product.
+
+However, in respect of a product which contains milk or milk products, the designation 'milk' or the designations referred to in the second subparagraph of points 2 of this Part may be used only to describe the basic raw materials and to list the ingredients in accordance with Directive 2000/13/EC or Regulation (EU) No 1169/2011.
+
+**PART IV**
+
+**Milk for human consumption falling within CN code 0401**
+
+**I. Definitions**
+
+For the purposes of this Part:
+
+(a) 'milk' means the produce of the milking of one or more cows;
+
+(b) 'drinking milk' means the products referred to in point III intended for delivery without further processing to the consumer;
+
+(c) 'fat content' means the ratio by mass of parts of milk fat per hundred parts of milk in the milk concerned;
+
+(d) 'protein content' means the ratio by mass of parts of protein per hundred parts of milk in the milk concerned (obtained by multiplying by 6,38 the total nitrogen content of the milk expressed as a percentage by mass).
+
+**II. Delivery or sale to the final consumer**
+
+1\. Only milk complying with the requirements laid down for drinking milk may be delivered or sold without processing to the final consumer, either directly or through the intermediary of restaurants, hospitals, canteens or other similar mass caterers.
+
+2\. The sales descriptions to be used for those products shall be those given in point III. Those descriptions shall be used only for the products referred to in that point, without prejudice to their use in composite descriptions.
+
+3\. Member States shall adopt measures to inform consumers of the nature and composition of the products concerned where the absence of such information is likely to cause confusion.
+
+**III. Drinking milk**
+
+1\. The following products shall be considered to be drinking milk:
+
+(a) raw milk: milk which has not been heated above 40 oC or subjected to treatment having equivalent effect;
+
+(b) whole milk: heat-treated milk which, with respect to fat content, meets one of the following requirements:
+
+(i) standardised whole milk: milk with a fat content of at least 3,50 % (m/m). However, Member States may provide for an additional category of whole milk with a fat content of 4,00 % (m/m) or above;
+
+(ii) non-standardised whole milk: milk with a fat content that has not been altered since the milking stage either by the addition or removal of milk fats or by mixture with milk the natural fat content of which has been altered. However, the fat content may not be less than 3,50 % (m/m);
+
+(c) semi-skimmed milk: heat-treated milk whose fat content has been reduced to at least 1,50 % (m/m) and at most 1,80 % (m/m);
+
+(d) skimmed-milk: heat-treated milk whose fat content has been reduced to not more than 0,50 % (m/m).
+
+Heat-treated milk not complying with the fat content requirements laid down in points (b), (c) and (d) of the first subparagraph shall be considered to be drinking milk provided that the fat content is clearly indicated with one decimal and easily readable on the packaging in form of "… % fat". Such milk shall not be described as whole milk, semi-skimmed milk or skimmed milk.
+
+2\. Without prejudice to point 1(b)(ii), only the following modifications shall be allowed:
+
+(a) in order to meet the fat contents laid down for drinking milk, modification of the natural fat content by the removal or addition of cream or the addition of whole milk, semi-skimmed milk or skimmed milk;
+
+(b) enrichment of milk with milk proteins, mineral salts or vitamins, in accordance with Regulation (EC) No 1925/2006 of the European Parliament and of the Council ( 32 );
+
+(c) reduction of the lactose content by conversion to glucose and galactose.
+
+Modifications in the composition of milk referred to in points (b) and (c) shall be allowed only if they are indelibly indicated on the packing of the product so that it can be easily seen and read. However, such indication shall not remove the obligation as regards nutrition labelling laid down by Regulation (EU) No 1169/2011. Where proteins are added, the protein content of the enriched milk must be 3,8 % (m/m) or more.
+
+However, Member States may limit or prohibit modifications to the composition of milk referred to in points (b) and (c).
+
+3\. Drinking milk shall:
+
+(a) have a freezing point close to the average freezing point for raw milk recorded in the area of origin of the drinking milk collected;
+
+(b) have a mass of not less than 1 028 grams per litre for milk containing 3,5 % (m/m) of fat at a temperature of 20 °C or the equivalent weight per litre for milk having a different fat content;
+
+(c) contain a minimum of 2,9 % (m/m) of protein for milk containing 3,5 % (m/m) of fat or an equivalent concentration in the case of milk having a different fat content.
+
+**PART V**
+
+**Products of the poultrymeat sector**
+
+I. This Part shall apply in relation to the marketing within the Union by way of business or trade, of certain types and presentations of poultrymeat, and poultrymeat or poultry offal preparations and products, of the following species
+
+— Gallus domesticus,
+
+— ducks,
+
+— geese,
+
+— turkeys,
+
+— guinea fowls.
+
+These provisions shall also apply to poultrymeat in brine falling within CN code 0210 99 39 .
+
+II. Definitions
+
+(1) "poultrymeat" means poultrymeat suitable for human consumption, which has not undergone any treatment other than cold treatment;
+
+(2) "fresh poultrymeat" means poultrymeat which has not been stiffened at any time by the cooling process prior to being kept at a temperature not below – 2 °C and not higher than + 4 °C. However, Member States may lay down slightly different temperature requirements for the minimum length of time necessary for the cutting and handling of fresh poultrymeat performed in retail shops or in premises adjacent to sales points, where the cutting and handling are performed solely for the purpose of supplying the consumer directly on the spot;
+
+(3) "frozen poultrymeat" means poultrymeat which must be frozen as soon as possible within the constraints of normal slaughtering procedures and is to be kept at a temperature no higher than – 12 °C at any time;
+
+(4) "quick-frozen poultrymeat" means poultrymeat which is to be kept at a temperature no higher than – 18 °C at any time within the tolerances as provided for in Council Directive 89/108/EEC ( 33 );
+
+(5) "poultrymeat preparation" means poultrymeat including poultrymeat that has been reduced to fragments, which has had foodstuffs, seasonings or additives added to it or which has undergone processes insufficient to modify the internal muscle fibre structure of the meat;
+
+(6) "fresh poultrymeat preparation" means a poultrymeat preparation for which fresh poultrymeat has been used.
+
+However, Member States may lay down slightly different temperature requirements to be applied for the minimum length of time necessary and only to the extent necessary to facilitate the cutting and handling performed in the factory during the production of fresh poultrymeat preparations;
+
+(7) "poultrymeat product" means a meat product as defined in point 7.1 of Annex I to Regulation (EC) No 853/2004 for which poultrymeat has been used.
+
+III. Poultrymeat and poultrymeat preparations shall be marketed in one of the following conditions:
+
+— fresh,
+
+— frozen,
+
+— quick-frozen.
+
+**PART VI**
+
+**Eggs of hens of the Gallus gallus species**
+
+**I. Scope**
+
+1\. Without prejudice to Article 75 concerning the marketing standards of eggs for hatching and of farmyard poultry chicks, this Part shall apply in relation to the marketing within the Union of the eggs produced in the Union, imported from third countries or intended for export outside the Union.
+
+2\. Member States may exempt from the requirements provided for in this Part, with the exception of point III(3), eggs sold directly to the final consumer by the producer:
+
+(a) on the production site, or
+
+(b) in a local public market or by door-to-door selling in the region of production of the Member State concerned.
+
+Where such exemption is granted, each producer shall be able to choose whether to apply such exemption or not. Where this exemption is applied, no quality and weight grading may be used.
+
+The Member State may establish, in accordance with their national law, the definition of the terms 'local public market', 'door-to-door selling' and 'region of production'.
+
+**II. Quality and weight grading**
+
+1\. Eggs shall be graded by quality as follows:
+
+(a) Class A or "fresh";
+
+(b) Class B.
+
+2\. Class A eggs shall also be graded by weight. However, grading by weight shall not be required for eggs delivered to the food and non-food industry.
+
+3\. Class B eggs shall only be delivered to the food and non-food industry.
+
+**III. Marking of eggs**
+
+1\. Class A eggs shall be marked with the producer code.
+
+Class B eggs shall be marked with the producer code and/or with another indication.
+
+Member States may exempt Class B eggs from this requirement where those eggs are marketed exclusively on their territory.
+
+2\. The marking of eggs in accordance with point 1 shall take place at the production site.
+
+2a. Member States may, based on objective criteria, exempt eggs from the requirement laid down in point 2 when the marking is carried out in the first packing centre to which eggs are delivered.
+
+3\. Eggs sold by the producer to the final consumer on a local public market in the region of production of the Member State concerned shall be marked in accordance with point 1.
+
+However, Member States may exempt from this requirement producers with up to 50 laying hens, provided that the name and address of the producer are indicated at the point of sale.
+
+**PART VII**
+
+**Spreadable fats**
+
+**I. Sales description**
+
+The products referred to in point (f) of Article 78(1) may not be supplied or transferred without processing to the ultimate consumer either directly or through restaurants, hospitals, canteens or similar establishments, unless they fulfil the requirements set out in the Appendix II.
+
+The sales descriptions of these products shall be those specified in Appendix II without prejudice to point II(2), (3) and (4).
+
+The sales descriptions in Appendix II shall be reserved to the products defined therein with the following CN codes and having a fat content of at least 10 % but less than 90 % by weight:
+
+(a) milk fats falling within CN codes 0405 and ex 2106 ;
+
+(b) fats falling within CN code ex 1517 ;
+
+(c) fats composed of plant and/or animal products falling within CN codes ex 1517 and ex 2106 .
+
+The fat content excluding salt shall be at least two-thirds of the dry matter.
+
+However, those sales descriptions shall only apply to products which remain solid at a temperature of 20 °C and which are suitable for use as spreads.
+
+These definitions shall not apply to:
+
+(a) the designation of products the exact nature of which is clear from traditional usage and/or when the designations are clearly used to describe a characteristic quality of the product;
+
+(b) concentrated products (butter, margarine, blends) with a fat content of 90 % or more.
+
+**II. Terminology**
+
+1\. The term "traditional" may be used together with the name "butter" provided for in point 1 of part A of Appendix II, where the product is obtained directly from milk or cream.
+
+For the purposes of this point, "cream" means the product obtained from milk in the form of an emulsion of the oil-in-water type with a milk-fat content of at least 10 %.
+
+2\. Terms for products referred to in Appendix II which state, imply or suggest fat content other than those referred to in that Appendix shall be prohibited.
+
+3\. By way of derogation from paragraph 2 and in addition, the term "reduced-fat" or "light" may be used for products referred to in Appendix II with a fat content of not more than 62 %.
+
+The term "reduced-fat" and the term "light" may, however, replace the terms "three-quarter-fat" or "half-fat" used in Appendix II.
+
+4\. The sales descriptions "minarine" or "halvarine" may be used for products referred to in point 3 of Part B of Appendix II.
+
+5\. The term "vegetable" may be used together with the sales descriptions in Part B of Appendix II, provided that the product contains only fat of vegetable origin with a tolerance of 2 % of the fat content for animal fats. This tolerance shall also apply where reference is made to a vegetable species.
+
+**PART VIII**
+
+**Descriptions and definitions of olive oil and olive pomace oils**
+
+The use of the descriptions and definitions of olive oils and olive pomace oils set out in this Part shall be compulsory as regards the marketing of the products concerned within the Union and, insofar as compatible with international compulsory rules, in trade with third countries.
+
+Only oils referred to in points 1(a) and (b), 3 and 6 may be marketed at the retail stage.
+
+**(1) VIRGIN OLIVE OILS**
+
+"Virgin olive oils" mean oils obtained from the fruit of the olive tree solely by mechanical or other physical means under conditions that do not lead to alterations in the oil, which have not undergone any treatment other than washing, decantation, centrifugation or filtration, to the exclusion of oils obtained using solvents or using adjuvants having a chemical or biochemical action, or by re-esterification process and any mixture with oils of other kinds.
+
+Virgin olive oils are exclusively classified and described as follows:
+
+(a) Extra virgin olive oil
+
+"Extra virgin olive oil" means virgin olive oil having a maximum free acidity in terms of oleic acid, of 0,8 g per 100 g, the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+(b) Virgin olive oil
+
+"Virgin olive oil" means virgin olive oil having a maximum free acidity in terms of oleic acid, of 2 g per 100 g, the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+(c) Lampante olive oil
+
+"Lampante olive oil" means virgin olive oil having a free acidity in terms of oleic acid, of more than 2 g per 100 g, and/or the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+**(2) REFINED OLIVE OIL**
+
+"Refined olive oil" means olive oil obtained by refining virgin olive oil, having a free acidity content, expressed as oleic acid, of not more than 0,3 g per 100 g, and the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+**(3) OLIVE OIL — COMPOSED OF REFINED OLIVE OILS AND VIRGIN OLIVE OILS**
+
+"Olive oils composed of refined olive oils and virgin olive oils" means olive oil obtained by blending refined olive oil and virgin olive oil other than lampante olive oil, having a free acidity content, expressed as oleic acid, of not more than 1 g per 100 g, and the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+**(4) CRUDE OLIVE-POMACE OIL**
+
+"Crude olive-pomace oil" means oil obtained from olive pomace by treatment with solvents or by physical means or oil corresponding to lampante olive oil, except for certain specified characteristics, excluding oil obtained by means of re-esterification and mixtures with other types of oils, and the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+**(5) REFINED OLIVE-POMACE OIL**
+
+"Refined olive-pomace oil" means oil obtained by refining crude olive-pomace oil, having free acidity content, expressed as oleic acid, of not more than 0,3 g per 100 g, and the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+**(6) OLIVE-POMACE OIL**
+
+"Olive-pomace oil" means oil obtained by blending refined olive-pomace oil and virgin olive oil other than lampante olive oil, having a free acidity content, expressed as oleic acid, of not more than 1 g per 100 g, and the other characteristics of which comply with those laid down by the Commission in accordance with Article 75(2) for this category.
+
+## Appendix I
+
+**Wine-growing zones**
+
+The wine-growing zones shall be the following:
+
+(1) Wine-growing zone A comprises:
+
+(a) in Germany: the areas planted with vines other than those included in point 2(a);
+
+(b) in Luxembourg: the Luxembourg wine-growing region;
+
+(c) in Belgium, Denmark, Estonia, Ireland, Lithuania, the Netherlands, Poland and Sweden: the wine-growing areas of these Member States;
+
+(d) in the Czech Republic: the wine growing region of Čechy.
+
+(2) Wine-growing zone B comprises:
+
+(a) in Germany, the areas planted with vines in the specified region Baden;
+
+(b) in France, the areas planted with vines in the departments not mentioned in this Annex and in the following departments:
+
+— in Alsace: Bas-Rhin, Haut-Rhin,
+
+— in Lorraine: Meurthe-et-Moselle, Meuse, Moselle, Vosges,
+
+— in Champagne: Aisne, Aube, Marne, Haute-Marne, Seine-et-Marne,
+
+— in the Jura: Ain, Doubs, Jura, Haute-Saône,
+
+— in Savoie: Savoie, Haute-Savoie, Isère (commune de Chapareillan),
+
+— in the Val de Loire: Cher, Deux-Sèvres, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Sarthe, Vendée, Vienne, and the areas planted with vines in the arrondissement of Cosne-sur-Loire in the department of Nièvre;
+
+(c) in Austria, the Austrian wine-growing area;
+
+(d) in the Czech Republic, the wine-growing region of Morava and the areas planted with vines not included in point 1(d);
+
+(e) in Slovakia, the areas planted with vines in the following regions: Malokarpatská vinohradnícka oblasť, Južnoslovenská vinohradnícka oblasť, Nitrianska vinohradnícka oblasť, Stredoslovenská vinohradnícka oblasť, Východoslovenská vinohradnícka oblasť and the wine growing areas not included in point 3(f);
+
+(f) in Slovenia, the areas planted with vines in the following regions:
+
+— in the Podravje region: Štajerska Slovenija, Prekmurje,
+
+— in the Posavje region: Bizeljsko Sremič, Dolenjska and Bela krajina, and the areas planted with vines in the regions not included in point 4(d);
+
+(g) in Romania, in the wine-growing region  of Podișul Transilvaniei;
+
+(h) in Croatia, the areas planted with vines in the following sub-regions: Moslavina, Prigorje-Bilogora, Plešivica, Pokuplje and Zagorje-Međimurje.
+
+(3) Wine-growing zone C I comprises:
+
+(a) in France, areas planted with vines:
+
+— in the following departments: Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Aveyron, Cantal, Charente, Charente-Maritime, Corrèze, Côte-d'Or, Dordogne, Haute-Garonne, Gers, Gironde, Isère (with the exception of the commune of Chapareillan), Landes, Loire, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Nièvre (except for the arrondissement of Cosne-sur-Loire), Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Rhône, Saône-et-Loire, Tarn, Tarn-et-Garonne, Haute-Vienne, Yonne,
+
+— in the arrondissements of Valence and Die in the department of Drôme (except for the cantons of Dieulefit, Loriol, Marsanne and Montélimar),
+
+— in the arrondissement of Tournon, in the cantons of Antraigues, Burzet, Coucouron, Montpezat-sous-Bauzon, Privas, Saint-Etienne de Lugdarès, Saint-Pierreville, Valgorge and la Voulte-sur-Rhône of the department of Ardèche;
+
+(b) in Italy, areas planted with vines in the Valle d'Aosta region and in the provinces of Sondrio, Bolzano, Trento and Belluno;
+
+(c) in Spain, areas planted with vines in the provinces of A Coruña, Asturias, Cantabria, Guipúzcoa and Vizcaya;
+
+(d) in Portugal, areas planted with vines in that part of the region of Norte which corresponds to the designated wine area of 'Vinho Verde' as well as the "Concelhos de Bombarral, Lourinhã, Mafra e Torres Vedras" (with the exception of "Freguesias da Carvoeira e Dois Portos"), belonging to the 'Região viticola da Extremadura';
+
+(e) in Hungary, all areas planted with vines;
+
+(f) in Slovakia, areas planted with vines in the Tokajská vinohradnícka oblasť;
+
+(g) in Romania, areas planted with vines not included in point 2(g) or 4(f);
+
+(h) in Croatia, areas planted with vines in the following sub-regions: Hrvatsko Podunavlje and Slavonija.
+
+(4) Wine-growing zone C II comprises:
+
+(a) in France, areas planted with vines:
+
+— in the following departments: Aude, Bouches-du-Rhône, Gard, Hérault, Pyrénées-Orientales (except for the cantons of Olette and Arles-sur-Tech), Vaucluse,
+
+— in the part of the department of Var bounded in the south by the northern limit of the communes of Evenos, Le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour and Sainte-Maxime,
+
+— in the arrondissement of Nyons and the canton of Loriol-sur-Drôme in the department of Drôme,
+
+— in those parts of the department of Ardèche not listed in point 3(a);
+
+(b) in Italy, areas planted with vines in the following regions: Abruzzo, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardy (except for the province of Sondrio), Marche, Molise, Piedmont, Tuscany, Umbria, Veneto (except for the province of Belluno), including the islands belonging to those regions, such as Elba and the other islands of the Tuscan archipelago, the Ponziane islands, Capri and Ischia;
+
+(c) in Spain, areas planted with vines in the following provinces:
+
+— Lugo, Orense, Pontevedra,
+
+— Ávila (except for the communes which correspond to the designated wine 'comarca' of Cebreros), Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora,
+
+— La Rioja,
+
+— Álava,
+
+— Navarra,
+
+— Huesca,
+
+— Barcelona, Girona, Lleida,
+
+— in that part of the province of Zaragoza which lies to the north of the river Ebro,
+
+— in those communes of the province of Tarragona included in the Penedés designation of origin,
+
+— in that part of the province of Tarragona which corresponds to the designated wine 'comarca' of Conca de Barberá;
+
+(d) in Slovenia, areas planted with vines in the following regions: Brda or Goriška Brda, Vipavska dolina or Vipava, Kras and Slovenska Istra;
+
+(e) in Bulgaria, areas planted with vines in the following regions: Dunavska Ravnina (Дунавска равнина), Chernomorski Rayon (Черноморски район), Rozova Dolina (Розова долина);
+
+(f) in Romania, areas planted with vines in the following wine-growing regions: Dealurile Munteniei și Olteniei with the vineyards Dealurile Buzăului, Dealu Mare, Severinului and Plaiurile Drâncei, Colinele Dobrogei, Terasele Dunării, the South wine region, including sands and other favourable regions;
+
+(g) in Croatia, areas planted with vines in the following sub-regions: Hrvatska Istra, Hrvatsko primorje and Dalmatinska zagora;
+
+(5) Wine-growing zone C III (a) comprises:
+
+(a) in Greece, areas planted with vines in the following nomoi: Florina, Imathia, Kilkis, Grevena, Larisa, Ioannina, Levkas, Akhaia, Messinia, Arkadia, Korinthia, Iraklio, Khania, Rethimni, Samos, Lasithi and the island of Thira (Santorini);
+
+(b) in Cyprus, areas planted with vines located at altitudes exceeding 600 metres;
+
+(c) in Bulgaria, areas planted with vines not included in point 4(e).
+
+(6) Wine-growing zone C III (b) comprises:
+
+(a) in France, areas planted with vines:
+
+— in the departments of Corsica,
+
+— in that part of the department of Var situated between the sea and a line bounded by the communes (which are themselves included) of Evenos, Le Beausset, Solliès-Toucas, Cuers, Puget-Ville, Collobrières, La Garde-Freinet, Plan-de-la-Tour and Sainte-Maxime,
+
+— in the cantons of Olette and Arles-sur-Tech in the department of Pyrénées-Orientales;
+
+(b) in Italy, areas planted with vines in the following regions: Calabria, Basilicata, Apulia, Sardinia and Sicily, including the islands belonging to those regions, such as Pantelleria and the Lipari, Egadi and Pelagian islands;
+
+(c) in Greece, areas planted with vines not listed in point 5(a);
+
+(d) in Spain: areas planted with vines not included in points 3(c) or 4(c);
+
+(e) in Portugal, areas planted with vines in the regions not included in point 3(d);
+
+(f) in Cyprus, areas planted with vines located at altitudes not exceeding 600 metres;
+
+(g) in Malta, areas planted with vines;
+
+(h) in Croatia, areas planted with vines in the following sub-regions: Sjeverna Dalmacija and Srednja i Južna Dalmacija.
+
+(7) The demarcation of the territories covered by the administrative units referred to in this Annex is that resulting from the national provisions in force on 15 December 1981 and, for Spain, from the national provisions in force on 1 March 1986 and, for Portugal, from the national provisions in force on 1 March 1998.
+
+## Appendix II
+
+**Spreadable fats**
+
+<table>
+<tbody><tr><td>Fat group</td><td rowspan="2">Sales description</td><td>Product categories</td></tr>
+<tr><td>Definitions</td><td>Additional description of the category with an indication of the % fat content by weight</td></tr>
+<tr><td rowspan="4">A. Milk fats Products in the form of a solid, malleable emulsion, principally of the water-in-oil type, derived exclusively from milk and/or certain milk products, for which the fat is the essential constituent of value. However, other substances necessary for their manufacture may be added, provided those substances are not used for the purpose of replacing, either in whole or in part, any milk constituents. </td><td>1. Butter</td><td>The product with a milk-fat content of not less than 80 % but less than 90 %, a maximum water content of 16 % and a maximum dry non-fat milk-material content of 2 %.</td></tr>
+<tr><td>2. Three-quarter fat butter (*1)</td><td>The product with a milk-fat content of not less than 60 % but not more than 62 %.</td></tr>
+<tr><td>3. Half fat butter (*2)</td><td>The product with a milk-fat content of not less than 39 % but not more than 41 %.</td></tr>
+<tr><td>4. Dairy spread X %</td><td>The product with the following milk-fat contents: — less than 39 %,  — more than 41 % but less than 60 %,  — more than 62 % but less than 80 %. </td></tr>
+<tr><td rowspan="4">B. Fats Products in the form of a solid, malleable emulsion, principally of the water-in-oil type, derived from solid and/or liquid vegetable and/or animal fats suitable for human consumption, with a milk-fat content of not more than 3 % or the fat content. </td><td>1. Margarine</td><td>The product obtained from vegetable and/or animal fats with a fat content of not less than 80 % but less than 90 %.</td></tr>
+<tr><td>2. Three-quarter-fat margarine (*3)</td><td>The product obtained from vegetable and/or animal fats with a fat content of not less than 60 % but nor more than 62 %.</td></tr>
+<tr><td>3. Half-fat margarine (*4)</td><td>The product obtained from vegetable and/or animal fats with a fat content of not less than 39 % but not more than 41 %.</td></tr>
+<tr><td>4. Fat spreads X %</td><td>The product obtained from vegetable and/or animal fats with the following fat contents: — less than 39 %,  — more than 41 % but less than 60 %,  — more than 62 % but less than 80 %. </td></tr>
+<tr><td rowspan="4">C. Fats composed of plant and/or animal products Products in the form of a solid, malleable emulsion principally of the water-in-oil type, derived from solid and/or liquid vegetable and/or animals fats suitable for human consumption, with a milk-fat content of between 10 % and 80 % of the fat content. </td><td>1. Blend</td><td>The product obtained from a mixture of vegetable and/or animal fats with a fat content of not less than 80 % but less than 90 %.</td></tr>
+<tr><td>2. Three-quarter-fat blend (*5)</td><td>The product obtained from a mixture of vegetable and/or animal fats with a fat content of not less than 60 % but not more than 62 %.</td></tr>
+<tr><td>3. Half-fat blend (*6)</td><td>The product obtained from a mixture of vegetable and/or animal fats with a fat content of not less than 39 % but not more than 41 %.</td></tr>
+<tr><td>4. Blended spread X %</td><td>The product obtained from a mixture of vegetable and/or animal fats with the following fat contents: — less than 39 %,  — more than 41 % but less than 60 %,  — more than 62 % but less than 80 %. </td></tr>
+<tr><td colspan="3">(*1)  corresponding to 'smør 60' in Danish.  (*2)  corresponding to 'smør 40' in Danish.  (*3)  corresponding to 'margarine 60' in Danish.  (*4)  corresponding to 'margarine 40' in Danish.  (*5)  corresponding to 'blandingsprodukt 60' in Danish.  (*6)  corresponding to 'blandingsprodukt 40' in Danish. </td></tr>
+</tbody>
+</table>
+
+The milk-fat component of the products listed in this Appendix may be modified only by physical processes.
+
+## ANNEX VIII
+
+**OENOLOGICAL PRACTICES REFERRED TO IN ARTICLE 80**
+
+**PART I**
+
+**Enrichment, acidification, de-acidification in certain wine-growing zones and de-alcoholisation**
+
+**A. Enrichment limits**
+
+1\. Where climatic conditions have made it necessary in certain wine-growing zones of the Union, the Member States concerned may allow to supplement the natural alcoholic strength by volume of fresh grapes, grape must, grape must in fermentation, new wine still in fermentation and wine obtained from wine grape varieties classifiable according to Article 81.
+
+2\. The increase in natural alcoholic strength by volume shall be achieved by means of the oenological practices referred to in Section B and shall not exceed the following limits:
+
+(a) 3 % volume in wine-growing zone A;
+
+(b) 2 % volume in wine-growing zone B;
+
+(c) 1,5 % volume in wine-growing zones C.
+
+3\. In years when climatic conditions have been exceptionally unfavourable, the limit(s) laid down in point 2 may be raised by 0,5 % by the Member States as an exception for the regions concerned. Member States shall notify the Commission of any such increase.
+
+**B. Enrichment processes**
+
+1\. The increase in natural alcoholic strength by volume provided for in Section A shall only be effected:
+
+(a) in respect of fresh grapes, grape must in fermentation or new wine still in fermentation, by adding sucrose, concentrated grape must or rectified concentrated grape must;
+
+(b) in respect of grape must, by adding sucrose, concentrated grape must or rectified concentrated grape must, or by partial concentration, including reverse osmosis;
+
+(c) in respect of wine, by partial concentration through cooling.
+
+2\. The processes referred to in point 1 shall be mutually exclusive where wine or grape must is enriched with concentrated grape must or rectified concentrated grape must and an aid has been paid under Article 103y of Regulation (EC) No 1234/2007.
+
+3\. The addition of sucrose provided for in points 1(a) and (b) may only be performed by dry sugaring and only in the following areas:
+
+(a) wine-growing zone A;
+
+(b) wine-growing zone B;
+
+(c) wine-growing zone C,
+
+with the exception of vineyards in Greece, Spain, Italy, Cyprus, Portugal and vineyards in the French departments under jurisdiction of the courts of appeal of:
+
+— Aix-en-Provence,
+
+— Nîmes,
+
+— Montpellier,
+
+— Toulouse,
+
+— Agen,
+
+— Pau,
+
+— Bordeaux,
+
+— Bastia.
+
+However, enrichment by dry sugaring may be authorised by the national authorities as an exception in the abovementioned French departments. France shall notify the Commission and the other Member States forthwith of any such authorisations.
+
+4\. The addition of concentrated grape must or rectified concentrated grape must shall not have the effect of increasing the initial volume of fresh crushed grapes, grape must, grape must in fermentation or new wine still in fermentation by more than 11 % in wine-growing zone A, 8 % in wine-growing zone B and 6,5 % in wine-growing zone C.
+
+5\. The concentration of grape must or of wine subjected to the processes referred to in point 1:
+
+(a) shall not have the effect of reducing the initial volume of these products by more than 20 %;
+
+(b) shall, notwithstanding point 2(c) of Section A, not increase the natural alcoholic strength of these products by more than 2 % volume.
+
+6\. The processes referred to in points 1 and 5 shall not raise the total alcoholic strength by volume of the fresh grapes, grape must, grape must in fermentation, new wine still in fermentation, or wine:
+
+(a) in wine-growing zone A to more than 11,5 % volume;
+
+(b) in wine-growing zone B to more than 12 % volume;
+
+(c) in wine-growing zone C I to more than 12,5 % volume;
+
+(d) in wine-growing zone C II to more than 13 % volume; and
+
+(e) in wine-growing zone C III to more than 13,5 % volume.
+
+7\. By way of derogation from point 6, Member States may:
+
+(a) in relation to red wine, raise the upper limit of total alcoholic strength by volume of the products referred to in point 6 to 12 % volume in wine-growing zone A and 12,5 % volume in wine-growing zone B;
+
+(b) raise the total alcoholic strength by volume of the products referred to in point 6 for the production of wines with a protected designation of origin or protected geographical indication to a level to be determined by Member States.
+
+**C. Acidification and de-acidification**
+
+1\. Fresh grapes, grape must, partially fermented grape must, new wine still in fermentation and wine may be subject to acidification and de-acidification.
+
+2\. Acidification of the products referred to in point 1 may be carried out only up to a limit of 4 g/l expressed as tartaric acid, or 53,3 milliequivalents per litre.
+
+3\. De-acidification of wines may be carried out only up to a limit of 1 g/l expressed as tartaric acid, or 13,3 milliequivalents per litre.
+
+4\. Grape must intended for concentration may be partially de-acidified.
+
+5\. Acidification and enrichment, except by way of derogation to be adopted by the Commission by means of delegated acts pursuant to Article 75(2), and acidification and de-acidification of one and the same product shall be mutually exclusive processes.
+
+**D. Processes**
+
+1\. None of the processes referred to in Sections B and C, with the exception of the acidification and de-acidification of wines, shall be authorised unless carried out, under conditions to be determined by the Commission by means of delegated acts pursuant to Article 75(2), at the time when the fresh grapes, grape must, grape must in fermentation or new wine still in fermentation are being turned into wine or into any other wine sector beverage intended for direct human consumption other than sparkling wine or aerated sparkling wine in the wine-growing zone where the fresh grapes used were harvested.
+
+2\. The concentration of wines shall take place in the wine-growing zone where the fresh grapes used were harvested.
+
+3\. Acidification and de-acidification of wines shall take place only in the wine-growing zone where the grapes used to produce the wine in question were harvested.
+
+4\. Each of the processes referred to in points 1, 2 and 3 shall be notified to the competent authorities. The same shall apply in respect of the quantities of concentrated grape must rectified concentrated grape must or sucrose held in the exercise of their profession by natural or legal persons or groups of persons, in particular producers, bottlers, processors and merchants to be determined by the Commission by means of delegated acts pursuant to Article 75(2), at the same time and in the same place as fresh grapes, grape must, grape must in fermentation or wine in bulk. The notification of these quantities may, however, be replaced by entry in a goods inwards and stock utilisation register.
+
+5\. Each of the processes referred to in Sections B and C shall be recorded on the accompanying document, as provided for in Article 147, under cover of which the products having undergone the processes are put into circulation.
+
+6\. The processes referred to in Sections B and C, subject to derogations justified by exceptional climatic conditions, shall not be carried out:
+
+(a) in wine-growing zone C after 1 January;
+
+(b) in wine-growing zones A and B after 16 March, and they shall be carried out only for products of the grape harvest immediately preceding those dates.
+
+7\. Notwithstanding point 6, concentration by cooling and acidification and de-acidification of wines may be practised throughout the year.
+
+**E. De-alcoholisation processes**
+
+Each of the de-alcoholisation processes listed below, whether used on its own or in combination with other listed de-alcoholisation processes, shall be allowed in order to reduce part or almost all of the ethanol content in grapevine products referred to in Annex VII, Part II, point 1 and points 4 to 9:
+
+(a) partial vacuum evaporation;
+
+(b) membrane techniques;
+
+(c) distillation.
+
+The de-alcoholisation processes used shall not result in organoleptic defects of the grapevine product. The elimination of ethanol in grapevine products shall not be done in conjunction with an increase of the sugar content in the grape must.
+
+**PART II**
+
+**Restrictions**
+
+**A. General**
+
+1\. All authorised oenological practices shall exclude the addition of water, except where required on account of a specific technical necessity.
+
+2\. All authorised oenological practices shall exclude the addition of alcohol, except for practices related to obtaining fresh grape must with fermentation arrested by the addition of alcohol, liqueur wine, sparkling wine, wine fortified for distillation and semi-sparkling wine.
+
+3\. Wine fortified for distillation shall only be used for distillation.
+
+**B. Fresh grapes, grape must and grape juice**
+
+1\. Fresh grape must in which fermentation is arrested by the addition of alcohol shall be used only during the stage of preparation of products which do not fall within CN codes 2204 10 , 2204 21 and 2204 29 . This is without prejudice to any stricter provisions which Member States may apply to the preparation in their territory of products which do not fall within CN codes 2204 10 , 2204 21 and 2204 29 .
+
+2\. Grape juice and concentrated grape juice shall not be made into wine or added to wine. They shall not undergo alcoholic fermentation in the territory of the Union.
+
+3\. Points 1 and 2 shall not apply to products intended for the production, in Ireland and Poland, of products falling within CN code 2206 00 for which Member States may allow the use of a composite name, including the sales designation ‘wine’.
+
+4\. Grape must in fermentation extracted from raisined grapes shall be put on the market only for the manufacture of liqueur wines only in the wine-growing regions where this usage was traditional on 1 January 1985, and for the manufacture of wine of overripe grapes.
+
+5\. Fresh grapes, grape must, grape must in fermentation, concentrated grape must, rectified concentrated grape must, grape must with fermentation arrested by the addition of alcohol, grape juice, concentrated grape juice and wine, or mixtures of those products, originating in third countries, may not be turned into products referred to in Part II of Annex VII or added to such products in the territory of the Union.
+
+**C. Blending of wines**
+
+Coupage of a wine originating in a third country with a Union wine and coupage between wines originating in third countries shall be prohibited in the Union.
+
+**D. By-products**
+
+1\. The over-pressing of grapes shall be prohibited. Member States shall decide, taking account of local and technical conditions, the minimum quantity of alcohol that shall be contained in the marc and the lees after the pressing of grapes.
+
+The quantity of alcohol contained in those by-products shall be decided by Member States at a level at least equal to 5 % in relation to the volume of alcohol contained in the wine produced.
+
+2\. Except for alcohol, spirits and piquette, wine or any other beverage intended for direct human consumption shall not be produced from wine lees or grape marc. The pouring of wine onto lees or grape marc or pressed aszú pulp shall be allowed under conditions to be determined by the Commission by means of delegated acts pursuant to Article 75(2) where this practice is traditionally used for the production of 'Tokaji fordítás' and 'Tokaji máslás' in Hungary and 'Tokajský forditáš' and 'Tokajský mášláš' in Slovakia.
+
+3\. The pressing of wine lees and the re-fermentation of grape marc for purposes other than distillation or production of piquette is prohibited. The filtering and centrifuging of wine lees shall not be considered to be pressing where the products obtained are of sound, fair and marketable quality.
+
+4\. Piquette, where its production is authorised by the Member State concerned, shall be used only for distillation or for consumption in wine-producers' households.
+
+5\. Without prejudice to the possibility for Member States to decide to require disposal of by-products by way of distillation, any natural or legal persons or groups of persons who hold by-products shall be required to dispose of them subject to conditions to be determined by the Commission by means of delegated acts pursuant to Article 75(2).
+
+## ANNEX IX
+
+**OPTIONAL RESERVED TERMS**
+
+| Product category (reference to combined nomenclature classification) | Optional reserved term |
+| --- | --- |
+| poultrymeat (CN codes 0207 and 0210 ) | fed with … % of … oats fed goose extensive indoor/barn-reared free range traditional free range free range — total freedom age at slaughter length of fattening period |
+| eggs (CN code 0407 ) | fresh extra or extra fresh indication on how laying hens are fed |
+| olive oil (CN code 1509 ) | first cold pressing cold extraction acidity pungent fruitiness: ripe or green bitter robust medium delicate well-balanced mild oil |
+
+## ANNEX X
+
+**PURCHASE TERMS FOR BEET DURING THE PERIODREFERRED TO IN ARTICLE 125(3)**
+
+**POINT I**
+
+1\. Delivery contracts shall be made in writing for a specified quantity of beet.
+
+2\. The duration of the delivery contracts may be pluriannual.
+
+3\. Delivery contracts may specify whether an additional quantity of beet may be supplied, and under what terms.
+
+**POINT II**
+
+1\. Delivery contracts shall indicate the purchase prices for the quantities of beet referred to in Point I.
+
+2\. The price referred to in paragraph 1 shall apply to sugar beet of sound, fair and marketable quality having a sugar content of 16 % at the reception point.
+
+The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the quality referred to in the first subparagraph.
+
+3\. The delivery contract shall specify how the evolution of market prices is to be allocated between the parties.
+
+4\. Delivery contracts shall lay down a fixed sugar content for beet. They shall include a conversion scale showing the different sugar contents and factors for converting the quantities of beet supplied into quantities corresponding to the sugar content shown in the delivery contract.
+
+The scale shall be based on the yields corresponding to the different sugar contents.
+
+**POINT III**
+
+Delivery contracts shall contain provisions concerning the staggering and normal duration of beet deliveries.
+
+**POINT IV**
+
+1\. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.
+
+2\. Delivery contracts shall provide that responsibility for loading and transport costs from the collection places are clearly stipulated. Where delivery contracts require sugar undertakings to contribute to loading and transport costs, the percentage or amounts shall be clearly stipulated.
+
+3\. Delivery contracts shall provide that the costs incumbent upon each party are clearly specified.
+
+**POINT V**
+
+1\. Delivery contracts shall provide for reception points for beet.
+
+2\. Where beet sellers and sugar undertakings have already signed a delivery contract for the previous marketing year, the reception points agreed upon by them for deliveries during that marketing year shall remain in operation. Agreements within the trade may derogate from this provision.
+
+**POINT VI**
+
+1\. Delivery contracts shall provide for the sugar content to be determined using the polarimetric method or, in order to take into account technological developments, another method agreed between the two parties. A sample of the beet shall be drawn at the time of reception.
+
+2\. Agreements within the trade may provide for samples to be drawn at another stage. In such cases, the delivery contract shall provide for a correction to compensate for any drop in the sugar content between the reception and the drawing of the sample.
+
+**POINT VII**
+
+Delivery contracts shall provide for the gross weight, tare and sugar content to be determined using procedures agreed:
+
+(a) jointly, by the sugar undertaking and the beet growers' trade organisation, if an agreement within the trade so provides;
+
+(b) by the sugar undertaking, under the supervision of the beet growers' trade organisation;
+
+(c) by the sugar undertaking, under the supervision of an expert recognised by the Member State concerned, provided the beet seller defrays the costs thereof.
+
+**POINT VIII**
+
+1\. Delivery contracts shall require sugar undertakings to do one or more of the following for the whole quantity of beet delivered:
+
+(a) to return the fresh pulp from the tonnage of beet delivered free of charge to the beet seller, ex-factory;
+
+(b) to return part of that pulp, pressed, dried or dried and molassed, free of charge to the beet seller, ex-factory;
+
+(c) to return the pulp, pressed or dried, to the beet seller, ex-factory; in this case, the sugar undertaking may require the beet seller to pay the pressing or drying costs;
+
+(d) to pay the beet seller compensation which takes account of the possibilities of selling the pulp concerned.
+
+2\. When parts of the whole quantity of beet delivered are subject to different treatment, the delivery contract shall impose more than one of the obligations provided for in paragraph 1.
+
+3\. Agreements within the trade may provide for pulp to be delivered at a stage other than that referred to in points (a), (b) and (c) of paragraph 1.
+
+**POINT IX**
+
+Delivery contracts shall fix the time limits for any advance payments and for payment of the purchase price for beet.
+
+**POINT X**
+
+Where delivery contracts lay down rules covering matters which are dealt with in this Annex, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.
+
+**POINT XI**
+
+1\. Agreements within the trade as described in Annex II, Part II, Section A, point 6, shall contain conciliation or mediation mechanisms and arbitration clauses.
+
+2\. Agreements within the trade may lay down a standard template for delivery contracts compatible with this Regulation and Union rules.
+
+3\. Where agreements within the trade at Union, regional or local level lay down rules covering matters which are dealt with in this Regulation, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.
+
+4\. Agreements referred to in paragraph 3 lay down, in particular:
+
+(a) the conversion scale referred to in Point II(4);
+
+(b) rules on the choice and supply of seeds of the varieties of beet to be produced;
+
+(c) the minimum sugar content of beet to be delivered;
+
+(d) a requirement for consultation between the sugar undertaking and the beet sellers' representatives before the starting date of beet deliveries is fixed;
+
+(e) the payment of premiums to beet sellers for early or late deliveries;
+
+(f) details of the conditions and costs relating to pulp as referred to in Point VIII;
+
+(g) the removal of the pulp by the beet seller;
+
+(h) rules on adapting prices in cases where pluriannual contracts are agreed;
+
+(i) rules on sampling and methods for determining gross weight, tare and sugar content.
+
+5\. A sugar undertaking and the beet sellers concerned may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices of sugar or other commodity markets is to be allocated between them.
+
+## ANNEX XIV
+
+**CORRELATION TABLE REFERRED TO IN ARTICLE 230**
+
+<table>
+<tbody><tr><td>Regulation (EC) No 1234/2007</td><td>This Regulation</td><td>Regulation (EU) No 1306/2013</td></tr>
+<tr><td>Article 1</td><td>Article 1</td><td>—</td></tr>
+<tr><td>Article 2(1)</td><td>Article 3(1) and (2)</td><td>—</td></tr>
+<tr><td>Article 2(2)(a) and (b)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 2(2)(c)</td><td>Article 15(1)(a)</td><td>—</td></tr>
+<tr><td>Article 3</td><td>Article 6</td><td>—</td></tr>
+<tr><td>Article 4</td><td>—</td><td>—</td></tr>
+<tr><td>Article 5, first paragraph</td><td>—</td><td>—</td></tr>
+<tr><td>Article 5, second paragraph, first part</td><td>Article 3(4)</td><td>—</td></tr>
+<tr><td>Article 5, second paragraph, second part</td><td>—</td><td>—</td></tr>
+<tr><td>Article 5, third paragraph</td><td>Article 5(a)</td><td>—</td></tr>
+<tr><td>Article 6</td><td>—</td><td>—</td></tr>
+<tr><td>Article 7</td><td>Article 9</td><td>—</td></tr>
+<tr><td>Article 8</td><td>Article 7</td><td>—</td></tr>
+<tr><td>Article 9</td><td>Article 126</td><td>—</td></tr>
+<tr><td>Article 10</td><td>Article 11</td><td>—</td></tr>
+<tr><td>Article 11</td><td>Article 12</td><td>—</td></tr>
+<tr><td>Article 12</td><td>Article 13</td><td>—</td></tr>
+<tr><td>Article 13</td><td>Article 14 (1)</td><td>—</td></tr>
+<tr><td>Article 14 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 15 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 16 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 17 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 18(1) to(4)</td><td>Article 15(2) (1)</td><td>—</td></tr>
+<tr><td>Article 18(5)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 19 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 20 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 21 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 22 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 23 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 24 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 25</td><td>Article 16(1)</td><td>—</td></tr>
+<tr><td>Article 26</td><td>—</td><td>—</td></tr>
+<tr><td>Article 27</td><td>—</td><td>—</td></tr>
+<tr><td>Article 28</td><td>—</td><td>—</td></tr>
+<tr><td>Article 29</td><td>—</td><td>—</td></tr>
+<tr><td>Article 30 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 31</td><td>Article 17</td><td>—</td></tr>
+<tr><td>Article 32</td><td>—</td><td>—</td></tr>
+<tr><td>Article 33</td><td>[Article 18]</td><td>—</td></tr>
+<tr><td>Article 34</td><td>[Article 18]</td><td>—</td></tr>
+<tr><td>Article 35 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 36 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 37</td><td>[Article 18]</td><td>—</td></tr>
+<tr><td>Article 38</td><td>[Article 18]</td><td>—</td></tr>
+<tr><td>Article 39</td><td>[Article 19(3)]</td><td>—</td></tr>
+<tr><td>Article 40</td><td>[Article 19(5)(a) and Article 20(o)(iii)]</td><td>—</td></tr>
+<tr><td>Article 41</td><td>—</td><td>—</td></tr>
+<tr><td>Article 42(1)</td><td>Article 10</td><td>—</td></tr>
+<tr><td>Article 42(2)</td><td>Article 20(u)</td><td>—</td></tr>
+<tr><td>Article 43(a) to (f), (i), (j) and (l)</td><td>Articles 19 and 20</td><td>—</td></tr>
+<tr><td>Article 43(g), (h) and (k)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 44</td><td>Article 220(1)(a), (2) and (3)</td><td>—</td></tr>
+<tr><td>Article 45</td><td>Article 220(1)(b), (2) and (3)</td><td>—</td></tr>
+<tr><td>Article 46(1)</td><td>Article 220(5)</td><td>—</td></tr>
+<tr><td>Article 46(2)</td><td>Article 220(6)</td><td>—</td></tr>
+<tr><td>Article 47</td><td>Article 219</td><td>—</td></tr>
+<tr><td>Article 48</td><td>Article 219</td><td>—</td></tr>
+<tr><td>Article 49</td><td>Article 135 (1)</td><td>—</td></tr>
+<tr><td>Article 50</td><td>Articles 125 and 127</td><td>—</td></tr>
+<tr><td>Article 51</td><td>Article 128 (1)</td><td>—</td></tr>
+<tr><td>Article 52</td><td>Article 130</td><td>—</td></tr>
+<tr><td>Article 52a</td><td>—</td><td>—</td></tr>
+<tr><td>Article 53(a)</td><td>Article 132(c)</td><td>—</td></tr>
+<tr><td>Article 53(b)</td><td>Article 130(2)</td><td>—</td></tr>
+<tr><td>Article 53(c)</td><td>Article 130(6)</td><td>—</td></tr>
+<tr><td>Article 54</td><td>Article 166</td><td>—</td></tr>
+<tr><td>Article 55</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 56</td><td>Article 136</td><td>—</td></tr>
+<tr><td>Article 57</td><td>Article 137</td><td>—</td></tr>
+<tr><td>Article 58</td><td>—</td><td>—</td></tr>
+<tr><td>Article 59</td><td>—</td><td>—</td></tr>
+<tr><td>Article 60</td><td>Article 138</td><td>—</td></tr>
+<tr><td>Article 61</td><td>Article 139</td><td>—</td></tr>
+<tr><td>Article 62</td><td>Article 140</td><td>—</td></tr>
+<tr><td>Article 63</td><td>Article 141</td><td>—</td></tr>
+<tr><td>Article 64(1)</td><td>Article 142(1)</td><td>—</td></tr>
+<tr><td>Article 64(2) and(3)</td><td>Article 142(2) (1)</td><td>—</td></tr>
+<tr><td>Article 65</td><td>— (2)</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 66</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 67</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 68</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 69</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 70</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 71</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 72</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 73</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 74</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 75</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 76</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 77</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 78</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 79</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 80</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 81</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 82</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 83</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 84</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 85</td><td>As regards milk: — (2)  As regards other sectors: </td><td>—</td></tr>
+<tr><td>— Article 85(a)</td><td>Article 143(1) and Article 144(a)</td><td>—</td></tr>
+<tr><td>— Article 85(b)</td><td>Article 144(j)</td><td>—</td></tr>
+<tr><td>— Article 85(c)</td><td>Article 144(i)</td><td>—</td></tr>
+<tr><td>— Article 85(d)</td><td>—</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 85a</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85b</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85c</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85d</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85e</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85f</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85g</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85h</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85i</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85j</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85k</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85l</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85m</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85n</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 85o</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85p</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85q</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85r</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85s</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85t</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85u</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85v</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85w</td><td>—</td><td>—</td></tr>
+<tr><td>Article 85x</td><td>—</td><td>—</td></tr>
+<tr><td>Article 86 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 87 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 88 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 89 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 90 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 91</td><td>—</td><td>—</td></tr>
+<tr><td>Article 92</td><td>—</td><td>—</td></tr>
+<tr><td>Article 93</td><td>—</td><td>—</td></tr>
+<tr><td>Article 94</td><td>—</td><td>—</td></tr>
+<tr><td>Article 94a</td><td>—</td><td>—</td></tr>
+<tr><td>Article 95</td><td>—</td><td>—</td></tr>
+<tr><td>Article 95a</td><td>—</td><td>—</td></tr>
+<tr><td>Article 96 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 97</td><td>Article 129 (1)</td><td>—</td></tr>
+<tr><td>Article 98</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 99</td><td>—</td><td>—</td></tr>
+<tr><td>Article 100</td><td>—</td><td>—</td></tr>
+<tr><td>Article 101 (deleted)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 102</td><td>Article 26 (1)</td><td>—</td></tr>
+<tr><td>Article 102(2)</td><td>Article 217</td><td>—</td></tr>
+<tr><td>Article 102a</td><td>Article 58</td><td>—</td></tr>
+<tr><td>Article 103</td><td>Articles 29, 30 and 31</td><td>—</td></tr>
+<tr><td>Article 103a</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103b</td><td>Article 32</td><td>—</td></tr>
+<tr><td>Article 103c</td><td>Article 33</td><td>—</td></tr>
+<tr><td>Article 103d</td><td>Article 34</td><td>—</td></tr>
+<tr><td>Article 103e</td><td>Article 35</td><td>—</td></tr>
+<tr><td>Article 103f</td><td>Article 36</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 103g</td><td>Article 33(1), Article 37(a) and Article 38(b)</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 103ga</td><td>Article 23</td><td>—</td></tr>
+<tr><td>Article 103ga(7)</td><td>Article 217</td><td>—</td></tr>
+<tr><td>Article 103h(a) to (e)</td><td>Articles 37 and 38</td><td>—</td></tr>
+<tr><td>Article 103h(f)</td><td>Articles 24 and 25</td><td>—</td></tr>
+<tr><td>Article 103i</td><td>Article 39</td><td>—</td></tr>
+<tr><td>Article 103j</td><td>Article 40</td><td>—</td></tr>
+<tr><td>Article 103k</td><td>Article 41</td><td>—</td></tr>
+<tr><td>Article 103l</td><td>Article 42</td><td>—</td></tr>
+<tr><td>Article 103m</td><td>Article 43</td><td>—</td></tr>
+<tr><td>Article 103n</td><td>Article 44</td><td>—</td></tr>
+<tr><td>Article 103n(4)</td><td>Article 212</td><td>—</td></tr>
+<tr><td>Article 103o</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103p</td><td>Article 45</td><td>—</td></tr>
+<tr><td>Article 103q</td><td>Article 46</td><td>—</td></tr>
+<tr><td>Article 103r</td><td>Article 47</td><td>—</td></tr>
+<tr><td>Article 103s</td><td>Article 48</td><td>—</td></tr>
+<tr><td>Article 103t</td><td>Article 49</td><td>—</td></tr>
+<tr><td>Article 103u(1)(a)</td><td>Article 50</td><td>—</td></tr>
+<tr><td>Article 103u(1)(b)</td><td>Article 51</td><td>—</td></tr>
+<tr><td>Article 103u(2) to (5)</td><td>Article 52</td><td>—</td></tr>
+<tr><td>Article 103v</td><td>Article 50</td><td>—</td></tr>
+<tr><td>Article 103w</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103x</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103y</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103z</td><td>—</td><td>—</td></tr>
+<tr><td>Article 103za</td><td>Articles 53 and 54</td><td>—</td></tr>
+<tr><td>Article 104</td><td>—</td><td>—</td></tr>
+<tr><td>Article 105(1)</td><td>Article 55(1)</td><td>—</td></tr>
+<tr><td>Article 105(2)</td><td>Article 215</td><td>—</td></tr>
+<tr><td>Article 106</td><td>Article 55(4)</td><td>—</td></tr>
+<tr><td>Article 107</td><td>Article 55(3)</td><td>—</td></tr>
+<tr><td>Article 108(1)</td><td>Article 55(2)</td><td>—</td></tr>
+<tr><td>Article 108(2)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 109, first sentence</td><td>Article 55(1), last sentence</td><td>—</td></tr>
+<tr><td>Article 110</td><td>Articles 56 and 57</td><td>—</td></tr>
+<tr><td>Article 111</td><td>—</td><td>—</td></tr>
+<tr><td>Article 112</td><td>—</td><td>—</td></tr>
+<tr><td>Article 113(1)</td><td>Article 75(1)(a) to (e) and (2)</td><td>—</td></tr>
+<tr><td>Article 113(2)</td><td>Article 75(5)</td><td>—</td></tr>
+<tr><td>Article 113(3), first subparagraph</td><td>Article 74</td><td>—</td></tr>
+<tr><td>Article 113(3), second subparagraph</td><td>—</td><td>Article 89</td></tr>
+<tr><td>Article 113a(1) to (3)</td><td>Article 76</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 113a(4)</td><td>— (2)</td><td>—</td></tr>
+<tr><td>Article 113b</td><td>Article 78</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 113c</td><td>Article 167</td><td>—</td></tr>
+<tr><td>Article 113d(1), first subparagraph</td><td>Article 78(1) and (2)</td><td>—</td></tr>
+<tr><td>Article 113d(1), second subparagraph</td><td>Annex VII, Part II(1)</td><td>—</td></tr>
+<tr><td>Article 113d(2)</td><td>Article 78(3)</td><td>—</td></tr>
+<tr><td>Article 113d(3)</td><td>Article 82</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 114</td><td>Article 78(1) (2)</td><td>—</td></tr>
+<tr><td>Article 115</td><td>Article 78(1), Article 75(1)(h) (2)</td><td>—</td></tr>
+<tr><td>Article 116</td><td>Article 78(1), Article 75(1)(f) and (g) (2)</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 117</td><td>Article 77</td><td>—</td></tr>
+<tr><td>Article 118</td><td>Article 78(1)</td><td>—</td></tr>
+<tr><td>Article 118a</td><td>Article 92</td><td>—</td></tr>
+<tr><td>Article 118b</td><td>Article 93</td><td>—</td></tr>
+<tr><td>Article 118c</td><td>Article 94</td><td>—</td></tr>
+<tr><td>Article 118d(1)</td><td>Article 94(3)</td><td>—</td></tr>
+<tr><td>Article 118d(2) and (3)</td><td>[Article 109(3)]</td><td>—</td></tr>
+<tr><td>Article 118e</td><td>Article 95</td><td>—</td></tr>
+<tr><td>Article 118f</td><td>Article 96</td><td>—</td></tr>
+<tr><td>Article 118g</td><td>Article 97</td><td>—</td></tr>
+<tr><td>Article 118h</td><td>Article 98</td><td>—</td></tr>
+<tr><td>Article 118i</td><td>Article 99</td><td>—</td></tr>
+<tr><td>Article 118j</td><td>Article 100</td><td>—</td></tr>
+<tr><td>Article 118k</td><td>Article 101</td><td>—</td></tr>
+<tr><td>Article 118l</td><td>Article 102</td><td>—</td></tr>
+<tr><td>Article 118m</td><td>Article 103</td><td>—</td></tr>
+<tr><td>Article 118n</td><td>Article 104</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 118o</td><td>—</td><td>Article 90(2)</td></tr>
+<tr><td>Article 118p</td><td>—</td><td>Article 90(3)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 118q</td><td>Article 105</td><td>—</td></tr>
+<tr><td>Article 118r</td><td>Article 106</td><td>—</td></tr>
+<tr><td>Article 118s</td><td>Article 107</td><td>—</td></tr>
+<tr><td>Article 118t</td><td>Article 108</td><td>—</td></tr>
+<tr><td>Article 118u</td><td>Article 112</td><td>—</td></tr>
+<tr><td>Article 118v</td><td>Article 113</td><td>—</td></tr>
+<tr><td>Article 118w</td><td>Article 117</td><td>—</td></tr>
+<tr><td>Article 118x</td><td>Article 118</td><td>—</td></tr>
+<tr><td>Article 118y</td><td>Article 119</td><td>—</td></tr>
+<tr><td>Article 118z</td><td>Article 120</td><td>—</td></tr>
+<tr><td>Article 118za</td><td>Article 121</td><td>—</td></tr>
+<tr><td>Article 118zb</td><td>—</td><td>—</td></tr>
+<tr><td>Article 119</td><td>—</td><td>—</td></tr>
+<tr><td>Article 120</td><td>—</td><td>—</td></tr>
+<tr><td>Article 120a</td><td>Article 81</td><td>—</td></tr>
+<tr><td>Article 120b</td><td>—</td><td>—</td></tr>
+<tr><td>Article 120c</td><td>Article 80</td><td>—</td></tr>
+<tr><td>Article 120d, first subparagraph</td><td>Article 83(2)</td><td>—</td></tr>
+<tr><td>Article 120d, second subparagraph</td><td>[Article 223]</td><td>—</td></tr>
+<tr><td>Article 120e(1)</td><td>Article 75(3) and (4)</td><td>—</td></tr>
+<tr><td>Article 120e(2)</td><td>Article 83(3) and (4)</td><td>—</td></tr>
+<tr><td>Article 120f</td><td>Article 80(3)</td><td>—</td></tr>
+<tr><td>Article 120g</td><td>Article 80(5) and Article 91(c)</td><td>—</td></tr>
+<tr><td>Article 121(a)(i)</td><td>Article 75(2)</td><td>—</td></tr>
+<tr><td>Article 121(a)(ii)</td><td>Article 75(3)</td><td>—</td></tr>
+<tr><td>Article 121(a)(iii)</td><td>Article 89</td><td>—</td></tr>
+<tr><td>Article 121(a)(iv)</td><td>Article 75(2) and Article 91(b)</td><td>—</td></tr>
+<tr><td>Article 121(b)</td><td>Article 91(a), Article 78(3)</td><td>—</td></tr>
+<tr><td>Article 121(c)(i)</td><td>Article 91(a)</td><td>—</td></tr>
+<tr><td>Article 121(c)(ii) and (iii)</td><td>Article 91(d)</td><td>—</td></tr>
+<tr><td>Article 121(c)(iv)</td><td>[Article 223]</td><td>—</td></tr>
+<tr><td>Article 121(d)(i)</td><td>Article 78(1)</td><td>—</td></tr>
+<tr><td>Article 121(d)(ii) to (v) and (vii)</td><td>Article 75(2) and (3)</td><td>—</td></tr>
+<tr><td>Article 121(d)(vi)</td><td>Article 89</td><td>—</td></tr>
+<tr><td>Article 121(e)(i)</td><td>Article 78(1)</td><td>—</td></tr>
+<tr><td>Article 121(e)(ii) to (v), (vii)</td><td>Article 75(2) and (3)</td><td>—</td></tr>
+<tr><td>Article 121(e)(vi)</td><td>Article 75(2)</td><td>—</td></tr>
+<tr><td>Article 121(f)(i)</td><td>Article 78(1)</td><td>—</td></tr>
+<tr><td>Article 121(f)(ii), (iii) and (v)</td><td>Article 75(3)</td><td>—</td></tr>
+<tr><td>Article 121(f)(iv) and (vii)</td><td>Article 91(g)</td><td>—</td></tr>
+<tr><td>Article 121(f)(vi)</td><td>[Article 223]</td><td>—</td></tr>
+<tr><td>Article 121(g)</td><td>Article 75(3)</td><td>—</td></tr>
+<tr><td>Article 121(h)</td><td>Article 91(d)</td><td>—</td></tr>
+<tr><td>Article 121(i)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 121(j)(i)</td><td>Article 75(3)</td><td>—</td></tr>
+<tr><td>Article 121(j)(ii)</td><td>Article 91(d)</td><td>  </td></tr>
+<tr><td>Article 121(k)</td><td>Article 122</td><td>—</td></tr>
+<tr><td>Article 121(l)</td><td>Articles 114, 115 and 116</td><td>—</td></tr>
+<tr><td>Article 121(m)</td><td>Article 122</td><td>—</td></tr>
+<tr><td>Article 121, second paragraph</td><td>Article 78(3)</td><td>—</td></tr>
+<tr><td>Article 121, third paragraph</td><td>Article 75(3) and (4)</td><td>—</td></tr>
+<tr><td>Article 121, fourth paragraph, (a) to (f)</td><td>Article 75(3)</td><td>—</td></tr>
+<tr><td>Article 121, fourth paragraph, (g)</td><td>Article 75(3)(m)</td><td>—</td></tr>
+<tr><td>Article 121, fourth paragraph, (h)</td><td>Article 80(4)</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 122</td><td>Articles 152 and 160</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 123</td><td>Article 157</td><td>—</td></tr>
+<tr><td>Article 124</td><td>—</td><td>—</td></tr>
+<tr><td>Article 125</td><td>—</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 125a</td><td>Articles 153 and 160</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 125b</td><td>Article 154</td><td>—</td></tr>
+<tr><td>Article 125c</td><td>Article 156</td><td>—</td></tr>
+<tr><td>Article 125d</td><td>Article 155</td><td>—</td></tr>
+<tr><td>Article 125e</td><td>—</td><td>—</td></tr>
+<tr><td>Article 125f</td><td>Article 164</td><td>—</td></tr>
+<tr><td>Article 125g</td><td>Article 164(6)</td><td>—</td></tr>
+<tr><td>Article 125h</td><td>Article 175(d)</td><td>—</td></tr>
+<tr><td>Article 125i</td><td>Article 165</td><td>—</td></tr>
+<tr><td>Article 125j</td><td>Article 164</td><td>—</td></tr>
+<tr><td>Article 125k</td><td>Article 158</td><td>—</td></tr>
+<tr><td>Article 125l</td><td>Article 164</td><td>—</td></tr>
+<tr><td>Article 125m</td><td>Article 164(6) [and Article 175(d)]</td><td>—</td></tr>
+<tr><td>Article 125n</td><td>Article 165</td><td>—</td></tr>
+<tr><td>Article 125o</td><td>Articles 154 and 158</td><td>—</td></tr>
+<tr><td>Article 126</td><td>Article 165</td><td>—</td></tr>
+<tr><td>Article 126a(1), (3) and (4)</td><td>Article 161</td><td>—</td></tr>
+<tr><td>Article 126a(2)</td><td>Article 156(2)</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 126b</td><td>Article 163</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Article 126c</td><td>Article 149</td><td>—</td></tr>
+<tr><td>Article 126d</td><td>Article 150</td><td>—</td></tr>
+<tr><td>Article 126e</td><td>Article 173(2) and Article 174(2)</td><td>—</td></tr>
+<tr><td>Article 127</td><td>Article 173</td><td>—</td></tr>
+<tr><td>Article 128</td><td>—</td><td>—</td></tr>
+<tr><td>Article 129</td><td>—</td><td>—</td></tr>
+<tr><td>Article 130</td><td>Article 176(1)</td><td>—</td></tr>
+<tr><td>Article 131</td><td>Article 176(2)</td><td>—</td></tr>
+<tr><td>Article 132</td><td>Article 176(3)</td><td>—</td></tr>
+<tr><td>Article 133</td><td>[Article 177(2)(e)]</td><td>—</td></tr>
+<tr><td>Article 133a(1)</td><td>Article 181</td><td>—</td></tr>
+<tr><td>Article 133a(2)</td><td>Article 191</td><td>—</td></tr>
+<tr><td>Article 134</td><td>Articles 177 and 178</td><td>—</td></tr>
+<tr><td>Article 135</td><td>—</td><td>—</td></tr>
+<tr><td>Article 136</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 137</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 138</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 139</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 140</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 140a</td><td>Article 181</td><td>—</td></tr>
+<tr><td>Article 141</td><td>Article 182</td><td>—</td></tr>
+<tr><td>Article 142</td><td>Article 193</td><td>—</td></tr>
+<tr><td>Article 143</td><td>Article 180</td><td>—</td></tr>
+<tr><td>Article 144</td><td>Article 184</td><td>—</td></tr>
+<tr><td>Article 145</td><td>Article 187(a)</td><td>—</td></tr>
+<tr><td>Article 146(1)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 146(2)</td><td>Article 185</td><td>—</td></tr>
+<tr><td>Article 147</td><td>—</td><td>—</td></tr>
+<tr><td>Article 148</td><td>Article 187</td><td>—</td></tr>
+<tr><td>Article 149</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 150</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 151</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 152</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Article 153</td><td>Article 192</td><td>—</td></tr>
+<tr><td>Article 154</td><td>—</td><td>—</td></tr>
+<tr><td>Article 155</td><td>—</td><td>—</td></tr>
+<tr><td>Article 156</td><td>Article 192(5)</td><td>—</td></tr>
+<tr><td>Article 157</td><td>Article 189</td><td>—</td></tr>
+<tr><td>Article 158</td><td>Article 190</td><td>—</td></tr>
+<tr><td>Article 158a</td><td>Article 90</td><td>—</td></tr>
+<tr><td>Article 159</td><td>Article 194</td><td>—</td></tr>
+<tr><td>Article 160</td><td>Article 195</td><td>—</td></tr>
+<tr><td>Article 161</td><td>Articles 176, 177, 178 and 179</td><td>—</td></tr>
+<tr><td>Article 162</td><td>Article 196</td><td>—</td></tr>
+<tr><td>Article 163</td><td>Article 197</td><td>—</td></tr>
+<tr><td>Article 164(1)</td><td>Article 198(1)</td><td>—</td></tr>
+<tr><td>Article 164(2) to (4)</td><td>Article 198(2) (1)</td><td>—</td></tr>
+<tr><td>Article 165</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 166</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 167</td><td>Article 199</td><td>—</td></tr>
+<tr><td>Article 168</td><td>Article 200</td><td>—</td></tr>
+<tr><td>Article 169</td><td>Article 201</td><td>—</td></tr>
+<tr><td>Article 170</td><td>Articles 202 and 203</td><td>—</td></tr>
+<tr><td>Article 171</td><td>Article 184</td><td>—</td></tr>
+<tr><td>Article 172</td><td>[Article 186(2)]</td><td>—</td></tr>
+<tr><td>Article 173</td><td>—</td><td>—</td></tr>
+<tr><td>Article 174</td><td>Article 205</td><td>—</td></tr>
+<tr><td>Article 175</td><td>Article 206</td><td>—</td></tr>
+<tr><td>Article 176</td><td>Article 209</td><td>—</td></tr>
+<tr><td>Article 176a</td><td>Article 210</td><td>—</td></tr>
+<tr><td>Article 177</td><td>Article 210</td><td>—</td></tr>
+<tr><td>Article 177a</td><td>Article 210</td><td>—</td></tr>
+<tr><td>Article 178</td><td>Article 164</td><td>—</td></tr>
+<tr><td>Article 179</td><td>Article 210(7)</td><td>—</td></tr>
+<tr><td>Article 180</td><td>Article 211</td><td>—</td></tr>
+<tr><td>Article 181</td><td>Article 211</td><td>—</td></tr>
+<tr><td>Article 182(1)</td><td>Article 213</td><td>—</td></tr>
+<tr><td>Article 182(2)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 182(3), third subparagraph</td><td>Article 214</td><td>—</td></tr>
+<tr><td>Article 182(3), first, second and fourth subparagraph</td><td>—</td><td>—</td></tr>
+<tr><td>Article 182(4) to (7)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 182a</td><td>Article 216</td><td>—</td></tr>
+<tr><td>Article 183</td><td>—</td><td>—</td></tr>
+<tr><td>Article 184(1)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 184(2)</td><td>Article 225(a)</td><td>—</td></tr>
+<tr><td>Article 184(3) to (8)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 184(9)</td><td>Article 225(b)</td><td>—</td></tr>
+<tr><td>Article 185</td><td>—</td><td>—</td></tr>
+<tr><td>Article 185a</td><td>Article 145</td><td>—</td></tr>
+<tr><td>Article 185b</td><td>Article 223</td><td>—</td></tr>
+<tr><td>Article 185c</td><td>Article 147</td><td>—</td></tr>
+<tr><td>Article 185d</td><td>Article 146</td><td>—</td></tr>
+<tr><td>Article 185e</td><td>Article 151</td><td>—</td></tr>
+<tr><td>Article 185f</td><td>Article 148</td><td>—</td></tr>
+<tr><td>Article 186</td><td>Article 219</td><td>—</td></tr>
+<tr><td>Article 187</td><td>Article 219</td><td>—</td></tr>
+<tr><td>Article 188</td><td>Article 219</td><td>—</td></tr>
+<tr><td>Article 188a(1) and (2)</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Article 188a(3) and (4)</td><td>—</td><td>—</td></tr>
+<tr><td>Article 188a(5) to (7)</td><td>[Article 223]</td><td>—</td></tr>
+<tr><td>Article 189</td><td>[Article 223]</td><td>—</td></tr>
+<tr><td>Article 190</td><td>—</td><td>—</td></tr>
+<tr><td>Article 190a</td><td>—</td><td>—</td></tr>
+<tr><td>Article 191</td><td>Article 221</td><td>—</td></tr>
+<tr><td>Article 192</td><td>Article 223</td><td>—</td></tr>
+<tr><td>Article 193</td><td>—</td><td>—</td></tr>
+<tr><td>Article 194</td><td>—</td><td>Articles 62 and 64</td></tr>
+<tr><td>Article 194a</td><td>—</td><td>Article 61</td></tr>
+<tr><td>Article 195</td><td>Article 229</td><td>—</td></tr>
+<tr><td>Article 196</td><td>—</td><td>—</td></tr>
+<tr><td>Article 196a</td><td>Article 227</td><td>—</td></tr>
+<tr><td>Article 196b</td><td>Article 229</td><td>—</td></tr>
+<tr><td>Article 197</td><td>—</td><td>—</td></tr>
+<tr><td>Article 198</td><td>—</td><td>—</td></tr>
+<tr><td>Article 199</td><td>—</td><td>—</td></tr>
+<tr><td>Article 200</td><td>—</td><td>—</td></tr>
+<tr><td>Article 201</td><td>230(1) and (3)</td><td>—</td></tr>
+<tr><td>Article 202</td><td>230(2)</td><td>—</td></tr>
+<tr><td>Article 203</td><td>—</td><td>—</td></tr>
+<tr><td>Article 203a</td><td>Article 231</td><td>—</td></tr>
+<tr><td>Article 203b</td><td>Article 231</td><td>—</td></tr>
+<tr><td>Article 204</td><td>Article 232</td><td>—</td></tr>
+<tr><td>Annex I</td><td>Annex I (Parts I to XX, XXIV/1)</td><td>—</td></tr>
+<tr><td>Annex II</td><td>Annex I (Parts XXI to XXIII)</td><td>—</td></tr>
+<tr><td>Annex III</td><td>Annex II</td><td>—</td></tr>
+<tr><td>Annex IV</td><td>Annex III</td><td>—</td></tr>
+<tr><td>Annex V</td><td>Annex IV</td><td>—</td></tr>
+<tr><td>Annex VI</td><td>Annex XII</td><td>—</td></tr>
+<tr><td>Annex VII</td><td>—</td><td>—</td></tr>
+<tr><td>Annex VIIa</td><td>—</td><td>—</td></tr>
+<tr><td>Annex VIIb</td><td>—</td><td>—</td></tr>
+<tr><td>Annex VIIc</td><td>—</td><td>—</td></tr>
+<tr><td>Annex VIII</td><td>Annex XIII</td><td>—</td></tr>
+<tr><td>Annex IX</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Annex X</td><td>— (1)</td><td>—</td></tr>
+<tr><td>Annex Xa</td><td>—</td><td>—</td></tr>
+<tr><td>Annex Xb</td><td>Annex VI</td><td>—</td></tr>
+<tr><td>Annex Xc</td><td>—</td><td>—</td></tr>
+<tr><td>Annex Xd</td><td>—</td><td>—</td></tr>
+<tr><td>Annex Xe</td><td>—</td><td>—</td></tr>
+<tr><td>Annex XI</td><td>—</td><td>—</td></tr>
+<tr><td>Annex XIa</td><td>Annex VII, Part I</td><td>—</td></tr>
+<tr><td>Annex XIb</td><td>Annex VII, Part II</td><td>—</td></tr>
+<tr><td>Annex XII</td><td>Annex VII, Part III</td><td>—</td></tr>
+<tr><td>Annex XIII</td><td>Annex VII, Part IV</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Annex XIV.A, points I, II and III</td><td>Annex VII, Part VI</td><td>—</td></tr>
+<tr><td>Annex XIV.A, point IV</td><td>Article 89</td><td>—</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Annex XIV.B</td><td>Annex VII, Part V</td><td>—</td></tr>
+<tr><td>Annex XIV.C</td><td>Article 75(2) and (3) (1)</td><td>—</td></tr>
+<tr><td>Annex XV</td><td>Annex VII, Part VII</td><td>—</td></tr>
+<tr><td>Annex XVa</td><td>Annex VIII, Part I</td><td>—</td></tr>
+<tr><td>Annex XVb</td><td>Annex VIII, Part II</td><td>—</td></tr>
+<tr><td>Annex XVI</td><td>Annex VII, Part VIII</td><td>—</td></tr>
+<tr><td>Annex XVIa</td><td>[Article 173(1)(i)]</td><td>—</td></tr>
+<tr><td>Annex XVII</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Annex XVIII</td><td>[Article 180]</td><td>—</td></tr>
+<tr><td>Annex XIX</td><td>—</td><td>—</td></tr>
+<tr><td>Annex XX</td><td>—</td><td>—</td></tr>
+<tr><td>Annex XXI</td><td>—</td><td>—</td></tr>
+<tr><td>Annex XXII</td><td>Annex XIV</td><td>—</td></tr>
+<tr><td colspan="3">(1)  See also Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12).  (2)  However, see Article 230. </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agriculture policy and repealing Regulation (EU) No 1306/2013 (OJ L 435, 6.12.2021, p. 187).
+
+( 2 ) Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the Common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulation (EU) No 1305/2013 of the European Parliament and of the Council and Regulation (EU) No 1307/2013 of the European Parliament and of the Council (OJ L 435, 6.12.2021, p1).
+
+( 3 ) Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (See page 85 of this Official Journal).
+
+( 4 ) Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives (OJ L 354, 31.12.2008, p. 16).
+
+( 5 ) Regulation (EC) No 110/2008 of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing Council Regulation (EEC) No 1576/89 (OJ L 39, 13.2.2008, p. 16).
+
+( 6 ) Commission Delegated Regulation (EU) 2018/273 of 11 December 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations (EC) No 555/2008, (EC) No 606/2009 and (EC) No 607/2009 and repealing Commission Regulation (EC) No 436/2009 and Commission Delegated Regulation (EU) 2015/560 (OJ L 58, 28.2.2018, p. 1, ELI: http://data.europa.eu/eli/reg_del/2018/273/oj).
+
+( 7 ) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+( 8 ) Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (OJ L 204, 21.7.1998, p. 37).
+
+( 9 ) Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs (OJ L 109, 6.5.2000, p. 29).
+
+( 10 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj);
+
+( 11 ) Regulation (EC) No 110/2008 of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks (OJ L 39, 13.2.2008, p. 16).
+
+( 12 ) Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine (OJ L 179, 14.7.1999, p. 1).
+
+( 13 ) Commission Regulation (EC) No 753/2002 of 29 April 2002 laying down certain rules for applying Council Regulation (EC) No 1493/1999 as regards the description, designation, presentation and protection of certain wine sector products (OJ L 118, 4.5.2002, p. 1).
+
+( 14 ) Commission Implementing Regulation (EU) 2019/34 of 17 October 2018laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks (OJ L 9, 11.1.2019, p. 46).
+
+( 15 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+( 16 ) Council Directive 89/396/EEC of 14 June 1989 on indications or marks identifying the lot to which a foodstuff belongs (OJ L 186, 30.6.1989, p. 21).
+
+( 17 ) Directive 2007/45/EC of the European Parliament and of the Council of 5 September 2007 laying down rules on nominal quantities for prepacked products, repealing Council Directives 75/106/EEC and 80/232/EEC, and amending Council Directive 76/211/EEC (OJ L 247, 21.9.2007, p. 17).
+
+( 18 ) Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 101 and 102 of the Treaty (OJ L 1, 4.1.2003, p. 1).
+
+( 19 ) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+
+( 20 ) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (OJ L 253, 11.10.1993, p. 1).
+
+( 21 ) Council Regulation (EC) No 260/2009 of 26 February 2009 on the common rules for imports (OJ L 84, 31.3.2009, p. 1).
+
+( 22 ) Council Regulation (EC) No 625/2009 of 7 July 2009 on common rules for imports from certain third countries (OJ L 185, 17.7.2009, p. 1).
+
+( 23 ) Council Regulation (EC) No 1217/2009 of 30 November 2009 setting up the Farm Sustainability Data Network (OJ L 328, 15.12.2009, p. 27, ELI: http://data.europa.eu/eli/reg/2009/1217/oj).
+
+( 24 ) Council Regulation (EC) No 614/2009 of 7 July 2009 on the common system of trade for ovalbumin and lactalbumin (OJ L 181, 14.7.2009, p. 8).
+
+( 25 ) Council Directive 2001/110/EC of 20 December 2001 relating to honey (OJ L 10, 12.1.2002, p. 47).
+
+( 26 ) Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12)
+
+( 27 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 28 ) Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ L 139, 30.4.2004, p. 206).
+
+( 29 ) Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products (OJ L 204, 11.8.2000, p. 1).
+
+( 30 ) Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (OJ L 165, 30.4.2004, p. 1).
+
+( 31 ) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising (OJ L 376, 27.12.2006, p. 21).
+
+( 32 ) Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods (OJ L 404, 30.12.2006, p. 26).
+
+( 33 ) Council Directive 89/108/EEC of 21 December 1988 on the approximation of the laws of the Member States relating to quick-frozen foodstuffs for human consumption (OJ L 40, 11.2.1999, p. 34).

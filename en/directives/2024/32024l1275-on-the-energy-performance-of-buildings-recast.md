@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/52 of 16 December 2025 </td><td> L 52</td><td>1</td><td>4.5.2026</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2024/1275 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1194,6 +1196,7 @@ Primary energy factors or weighting factors shall be defined by Member States. T
 
 ## ANNEX II — Template for the national building renovation plans — (referred to in Article 3)
 
+<table>
 <tbody><tr><td>This Directive Article 3</td><td>Mandatory indicators</td><td>Optional indicators</td></tr>
 <tr><td rowspan="10">(a) Overview of the national building stock</td><td>Number of buildings and total floor area (m2): — per building type (including public buildings and social housing)  — per energy performance class  — nearly zero-energy buildings  — worst-performing buildings (including a definition)  — the 43 % worst-performing residential buildings  — estimation of the share of buildings exempted pursuant to Article 9(6), point (b) </td><td>Number of buildings and total floor area (m2): — per building age  — per building size  — per climatic zone  — demolition (number and total floor area (m2)) </td></tr>
 <tr><td>Number of energy performance certificates: — per building type (including public buildings)  — per energy performance class </td><td>Number of energy performance certificates: — per construction period </td></tr>
@@ -1217,6 +1220,7 @@ Primary energy factors or weighting factors shall be defined by Member States. T
 <tr><td>(f) Minimum energy performance standards for non-residential buildings</td><td>— maximum energy performance thresholds, pursuant to Article 9(1)</td><td>  </td></tr>
 <tr><td>(g) National trajectory for the progressive renovation of the residential building stock</td><td>— the national trajectory for the progressive renovation of the residential building stock, including the 2030 and 2035 milestones for average primary energy use in kWh/(m2.y), pursuant to Article 9(2)</td><td>  </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III — Calculation of life-cycle GWP of new buildings pursuant to Article 7(2)
 
@@ -1274,6 +1278,7 @@ Member States may adopt default values for any life-cycle stages or sub-life-cyc
 
 **Life-cycle stages to be calculated, according to EN15978:2011 and prEN15978:2025 and taking into account any subsequent standard relating to the sustainability of construction works and the calculation method for the assessment of environmental performance of buildings**
 
+<table>
 <tbody><tr><td colspan="2">Life-cycle stages</td><td rowspan="2">Required/Optional</td></tr>
 <tr><td>EN15978:2011</td><td>prEN15978:2025</td></tr>
 <tr><td>A1: Raw material supply</td><td>A1: Extraction and upstream production</td><td>Required</td></tr>
@@ -1296,6 +1301,7 @@ Member States may adopt default values for any life-cycle stages or sub-life-cyc
 <tr><td rowspan="2">D: Benefits and loads beyond the system boundary</td><td>D1: Reuse, recycling and energy recovery resulting from the net flows of materials exiting the system boundary</td><td>Required Member States may choose to limit the calculation to information available at product level and equivalent generic data or default value </td></tr>
 <tr><td>D2: Potential benefits and loads from exported utilities (for example, electrical energy, thermal energy, potable water)</td><td>Required</td></tr>
 </tbody>
+</table>
 
 **6\. ALLOCATION OF EMISSIONS RELATED TO A BUILDING’S ENERGY CONSUMPTION AND ON-SITE GENERATION**
 
@@ -1307,10 +1313,12 @@ For the purpose of life-cycle GWP calculation, the allocation of operational emi
 
 **Calculation of embodied emissions of on-site renewable energy production**
 
+<table>
 <tbody><tr><td>Influencing factor</td><td>Approach A</td><td colspan="2">Approach B1 or B2</td></tr>
 <tr><td>Type of allocation of embodied emissions to the building of energy storage components</td><td colspan="3">Full allocation to the building</td></tr>
 <tr><td>Type of allocation of embodied emissions to the building of other system parts</td><td>Full allocation to the building</td><td>B1: Proportional allocation to the building based on the share of captured/generated energy used for self-consumption</td><td>B2: Allocation to the building for components integrated into the building envelope and forming its surface, as well as proportional allocation of the remaining embodied emissions to the building based on the share of captured/generated energy used for self-consumption</td></tr>
 </tbody>
+</table>
 
 **7\. SCOPE OF BUILDING ELEMENTS AND TECHNICAL EQUIPMENT**
 
@@ -1324,6 +1332,7 @@ Member States may consider adopting generic data or default values for any of th
 
 **Hierarchical scope of building elements and technical equipment**
 
+<table>
 <tbody><tr><td>Tier 1</td><td>Tier 2</td><td>Tier 3 (example)</td><td>Tier 4 (examples)</td></tr>
 <tr><td rowspan="38">Shell</td><td rowspan="18">Substructure</td><td rowspan="2">Foundation piling and underpiling</td><td>Permanent piles and caisson</td></tr>
 <tr><td>Underpinning</td></tr>
@@ -1438,6 +1447,7 @@ Member States may consider adopting generic data or default values for any of th
 <tr><td colspan="2">Composite work, prefabricated work and sundries for ‘external buildings’ (10)</td></tr>
 <tr><td colspan="4">(1)  Insulation, waterproofing, screed, connections, fittings or elements for drainage, elements for services that are inserted or applied together with the substructural works but which are not already counted under specific entries in this Table 4 or elsewhere.  (2)  Fireproofing, insulation, waterproofing, screed, connections, fittings, ramps, permanent formwork, mezzanine structures, supports for tiered seating, maintenance routes or other elements that are inserted or applied together with the structural works but which are not already counted under specific entries in this Table 4 or elsewhere.  (3)  Fireproofing, insulation, waterproofing, screed, connections and fixings to the structure, fittings, ramps, shading devices, louvres, eaves, insect protection, grilled assemblies, parapets, railings, green walls, chimneys or other elements that are inserted or applied together with the external architectural works but which are not already counted under specific entries here or elsewhere.  (4)  Built-in refers to the incorporation of the relevant building features during the construction stage and prior to handover of the building to the owner.  (5)  Fireproofing, insulation, waterproofing, screed, connections and fixings to the structure or maintenance routes, framing, sealing, adhesives, floating floors, sprung floors, finishes, line markings, trim, skirting, fittings, ramps, grilled assemblies, parapets, railings, fireplaces or other elements that are inserted or applied together with the internal architectural works but which are not already counted under specific entries in this Table 4 or elsewhere.  (6)  Any other fixtures, fittings or other elements that are inserted or applied together with the building services, system and infrastructure but which are not already counted under specific entries in this Table 4 or elsewhere.  (7)  Any other fixtures, fittings or other elements associated with the installation of water, gas, electricity, heating, ventilation, above-ground drainage, telecommunications and other services, including ducts, protective coatings, holes, chases, sleeves, covers, fire stopping, labelling, and bases, etc, which not included elsewhere.  (8)  Refers to buildings that are external to and structurally independent of the assessed building, but which are located within the curtilage of the assessed building and servicing the assessed building occupiers and/or assessed building technical systems and infrastructure. Structural independence shall be understood as a lack of shared foundations and other load-bearing structural elements.  (9)  Parking facilities which do share structural elements and that fall within the envelope of the building structure shall not be considered as external buildings but instead as a part of the whole building, thus counting their associated embodied carbon, operational carbon and floor areas in the analysis. On the contrary, for independent parking structures that are considered as external buildings, their associated embodied carbon and operational carbon may be considered in the analysis, but not their floor areas. In cases where a parking facility is part of a shared structure between more than one building, either the whole complex of buildings shall constitute one single assessment, or the embodied carbon impacts and floor area of the parking facility shall be allocated on the basis of the relative shares of parking spaces that are designated to each building.  (10)  Any other fixtures, fittings or other elements associated with the construction of external buildings which are not included elsewhere. </td></tr>
 </tbody>
+</table>
 
 **8\. RESULTS OF LIFE-CYCLE GWP**
 
@@ -1447,10 +1457,12 @@ For the purpose of reporting the results in the EPC of the building, the buildin
 
 **Disclosure of the life-cycle GWP in the building’s energy performance certificate (EPC)**
 
+<table>
 <tbody><tr><td>  </td><td>Product stage (A1-A3)</td><td>Construction process stage (A4-A5)</td><td>Use, maintenance, replacement stage (B1-B4)</td><td>Operational energy use stage (B6)</td><td>End-of-life stage (C1-C4)</td><td>Reuse, recycling, recovery potential (D1)</td><td>Potential benefits and loads from exported utilities (for example, electrical energy, thermal energy, potable water) (D2)</td></tr>
 <tr><td>GWP-total (1)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td colspan="8">(1)  GWP-total is the sum of GWP-fossil, GWP-biogenic and GWP-land use and land use change. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV — Common general framework for rating the smart readiness of buildings
 

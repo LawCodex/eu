@@ -1,0 +1,750 @@
+---
+title: "Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (Text with EEA relevance)"
+identifier: "32006R1901"
+eli: "http://data.europa.eu/eli/reg/2006/1901/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-12-12
+entry_into_force: 2006-06-27
+last_amended: 2019-01-28
+consolidated_version: "02006R1901-20190128"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1901-20190128"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (Text with EEA relevance)
+
+**REGULATION (EC) No 1901/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2006**
+
+**on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>REGULATION (EC) No 1902/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 December 2006</td><td> L 378</td><td>20</td><td>27.12.2006</td></tr>
+<tr><td></td><td>REGULATION (EU) 2019/5 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018</td><td> L 4</td><td>24</td><td>7.1.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1901/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2006**
+
+**on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004**
+
+**(Text with EEA relevance)**
+
+## TITLE I — INTRODUCTORY PROVISIONS
+
+### CHAPTER 1 — Subject matter and definitions
+
+##### Article 1
+
+This Regulation lays down rules concerning the development of medicinal products for human use in order to meet the specific therapeutic needs of the paediatric population, without subjecting the paediatric population to unnecessary clinical or other trials and in compliance with Directive 2001/20/EC.
+
+##### Article 2
+
+In addition to the definitions laid down in Article 1 of Directive 2001/83/EC, the following definitions shall apply for the purposes of this Regulation:
+
+1) ‘paediatric population’ means that part of the population aged between birth and 18 years;
+
+2) ‘paediatric investigation plan’ means a research and development programme aimed at ensuring that the necessary data are generated determining the conditions in which a medicinal product may be authorised to treat the paediatric population;
+
+3) ‘medicinal product authorised for a paediatric indication’ means a medicinal product which is authorised for use in part or all of the paediatric population and in respect of which the details of the authorised indication are specified in the summary of the product characteristics drawn up in accordance with Article 11 of Directive 2001/83/EC;
+
+4) ‘paediatric use marketing authorisation’ means a marketing authorisation granted in respect of a medicinal product for human use which is not protected by a supplementary protection certificate under Regulation (EEC) No 1768/92 or by a patent which qualifies for the granting of the supplementary protection certificate, covering exclusively therapeutic indications which are relevant for use in the paediatric population, or subsets thereof, including the appropriate strength, pharmaceutical form or route of administration for that product.
+
+### CHAPTER 2 — Paediatric committee
+
+##### Article 3
+
+1\. By 26 July 2007, a Paediatric Committee shall be established within the European Medicines Agency set up under Regulation (EC) No 726/2004, hereinafter ‘the Agency’. The Paediatric Committee shall be considered as established once the members referred to in Article 4(1)(a) and (b) have been appointed.
+
+The Agency shall fulfil the secretariat functions for the Paediatric Committee and shall provide it with technical and scientific support.
+
+2\. Save where otherwise provided for in this Regulation, Regulation (EC) No 726/2004 shall apply to the Paediatric Committee, including the provisions on the independence and impartiality of its members.
+
+3\. The Executive Director of the Agency shall ensure appropriate coordination between the Paediatric Committee and the Committee for Medicinal Products for Human Use, the Committee for Orphan Medicinal Products, their working parties and any other scientific advisory groups.
+
+The Agency shall draw up specific procedures for possible consultations between them.
+
+##### Article 4
+
+1\. The Paediatric Committee shall be composed of the following members:
+
+(a) five members, with their alternates, of the Committee for Medicinal Products for Human Use, having been appointed to that Committee in accordance with Article 61(1) of Regulation (EC) No 726/2004. These five members with their alternates shall be appointed to the Paediatric Committee by the Committee for Medicinal Products for Human Use;
+
+(b) one member and one alternate appointed by each Member State whose national competent authority is not represented through the members appointed by the Committee for Medicinal Products for Human Use;
+
+(c) three members and three alternates appointed by the Commission, on the basis of a public call for expressions of interest, after consulting the European Parliament, in order to represent health professionals;
+
+(d) three members and three alternates appointed by the Commission, on the basis of a public call for expressions of interest, after consulting the European Parliament, in order to represent patient associations.
+
+The alternates shall represent and vote for the members in their absence.
+
+For the purposes of points (a) and (b), Member States shall cooperate, under the coordination of the Executive Director of the Agency, in order to ensure that the final composition of the Paediatric Committee, including members and alternates, covers the scientific areas relevant to paediatric medicinal products, and including at least: pharmaceutical development, paediatric medicine, general practitioners, paediatric pharmacy, paediatric pharmacology, paediatric research, pharmacovigilance, ethics and public health.
+
+For the purposes of points (c) and (d), the Commission shall take into account the expertise provided by the members appointed under points (a) and (b).
+
+2\. The members of the Paediatric Committee shall be appointed for a renewable period of three years. At meetings of the Paediatric Committee, they may be accompanied by experts.
+
+3\. The Paediatric Committee shall elect its Chairman from among its members for a term of three years, renewable once.
+
+4\. The names and qualifications of the members shall be made public by the Agency.
+
+##### Article 5
+
+1\. When preparing its opinions, the Paediatric Committee shall use its best endeavours to reach a scientific consensus. If such a consensus cannot be reached, the Paediatric Committee shall adopt an opinion consisting of the position of the majority of the members. The opinion shall mention the divergent positions, with the grounds on which they are based. This opinion shall be made accessible to the public pursuant to Article 25(5) and (7).
+
+2\. The Paediatric Committee shall draw up its rules of procedure for the implementation of its tasks. The rules of procedure shall enter into force after receiving a favourable opinion from the Management Board of the Agency and, subsequently, from the Commission.
+
+3\. All meetings of the Paediatric Committee may be attended by representatives of the Commission, the Executive Director of the Agency or his representatives.
+
+##### Article 6
+
+1\. The tasks of the Paediatric Committee shall include the following:
+
+(a) to assess the content of any paediatric investigation plan for a medicinal product submitted to it in accordance with this Regulation and formulate an opinion thereon;
+
+(b) to assess waivers and deferrals and formulate an opinion thereon;
+
+(c) at the request of the Committee for Medicinal Products for Human Use, a competent authority or the applicant, to assess compliance of the application for a Marketing Authorisation with the agreed paediatric investigation plan concerned and formulate an opinion thereon;
+
+(d) at the request of the Committee for Medicinal Products for Human Use or a competent authority, to assess any data generated in accordance with an agreed paediatric investigation plan and formulate an opinion on the quality, safety or efficacy of the medicinal product for use in the paediatric population;
+
+(e) to advise on the content and format of data to be collected for the survey referred to in Article 42;
+
+(f) to support and advise the Agency on establishing the European network referred to in Article 44;
+
+(g) to assist scientifically in the elaboration of any documents related to the fulfilment of the objectives of this Regulation;
+
+(h) to provide advice on any question related to medicinal products for use in the paediatric population, at the request of the Executive Director of the Agency or the Commission;
+
+(i) to establish a specific inventory of paediatric medicinal product needs and update it on a regular basis, as referred to in Article 43;
+
+(j) to advise the Agency and the Commission regarding the communication of arrangements available for conducting research into medicinal products for use in the paediatric population;
+
+(k) to make a recommendation to the Commission on the symbol referred to in Article 32(2).
+
+2\. When carrying out its tasks, the Paediatric Committee shall consider whether or not any proposed studies can be expected to be of significant therapeutic benefit to and/or fulfil a therapeutic need of the paediatric population. The Paediatric Committee shall take into account any information available to it, including any opinions, decisions or advice given by the competent authorities of third countries.
+
+## TITLE II — MARKETING AUTHORISATION REQUIREMENTS
+
+### CHAPTER 1 — General authorisation requirements
+
+##### Article 7
+
+1\. An application for marketing authorisation under Article 6 of Directive 2001/83/EC in respect of a medicinal product for human use which is not authorised in the Community at the time of entry into force of this Regulation shall be regarded as valid only if it includes, in addition to the particulars and documents referred to in Article 8(3) of Directive 2001/83/EC, one of the following:
+
+(a) the results of all studies performed and details of all information collected in compliance with an agreed paediatric investigation plan;
+
+(b) a decision of the Agency granting a product-specific waiver;
+
+(c) a decision of the Agency granting a class waiver pursuant to Article 11;
+
+(d) a decision of the Agency granting a deferral.
+
+For the purposes of point (a), the decision of the Agency agreeing the paediatric investigation plan concerned shall also be included in the application.
+
+2\. The documents submitted pursuant to paragraph 1 shall, cumulatively, cover all subsets of the paediatric population.
+
+##### Article 8
+
+In the case of authorised medicinal products which are protected either by a supplementary protection certificate under Regulation (EEC) No 1768/92, or by a patent which qualifies for the granting of the supplementary protection certificate, Article 7 of this Regulation shall apply to applications for authorisation of new indications, including paediatric indications, new pharmaceutical forms and new routes of administration.
+
+For the purposes of the first subparagraph, the documents referred to in Article 7(1) shall cover both the existing and the new indications, pharmaceutical forms and routes of administration.
+
+##### Article 9
+
+Articles 7 and 8 shall not apply to products authorised under Articles 10, 10a, 13 to 16 or 16a to 16i of Directive 2001/83/EC.
+
+##### Article 10
+
+In consultation with the Member States, the Agency and other interested parties, the Commission shall draw up the detailed arrangements concerning the format and content which applications for agreement or modification of a paediatric investigation plan and requests for waivers or deferrals must follow in order to be considered valid and concerning the operation of the compliance check referred to in Articles 23 and 28(3).
+
+### CHAPTER 2 — Waivers
+
+##### Article 11
+
+1\. Production of the information referred to in point (a) of Article 7(1) shall be waived for specific medicinal products or for classes of medicinal products, if there is evidence showing any of the following:
+
+(a) that the specific medicinal product or class of medicinal products is likely to be ineffective or unsafe in part or all of the paediatric population;
+
+(b) that the disease or condition for which the specific medicinal product or class is intended occurs only in adult populations;
+
+(c) that the specific medicinal product does not represent a significant therapeutic benefit over existing treatments for paediatric patients.
+
+2\. The waiver provided for in paragraph 1 may be issued with reference either to one or more specified subsets of the paediatric population, or to one or more specified therapeutic indications, or to a combination of both.
+
+##### Article 12
+
+The Paediatric Committee may of its own motion adopt an opinion, on the grounds set out in Article 11(1), to the effect that a class or a product-specific waiver, as referred to in Article 11(1), should be granted.
+
+As soon as the Paediatric Committee adopts an opinion, the procedure laid down in Article 25 shall apply. In the case of a class waiver, only paragraphs 6 and 7 of Article 25 shall apply.
+
+##### Article 13
+
+1\. The applicant may, on the grounds set out in Article 11(1), apply to the Agency for a product-specific waiver.
+
+2\. Following receipt of the application, the Paediatric Committee shall appoint a rapporteur and shall within 60 days adopt an opinion as to whether or not a product-specific waiver should be granted.
+
+Either the applicant or the Paediatric Committee may request a meeting during that 60-day period.
+
+Whenever appropriate, the Paediatric Committee may request the applicant to supplement the particulars and documents submitted. Where the Paediatric Committee avails itself of this option, the 60-day time-limit shall be suspended until such time as the supplementary information requested has been provided.
+
+3\. As soon as the Paediatric Committee adopts an opinion, the procedure laid down in Article 25 shall apply.
+
+##### Article 14
+
+1\. The Agency shall maintain a list of all waivers. The list shall be regularly updated (at least every year) and made available to the public.
+
+2\. The Paediatric Committee may, at any time, adopt an opinion advocating the review of a granted waiver.
+
+In the case of a change affecting a product-specific waiver, the procedure laid down in Article 25 shall apply.
+
+In the case of a change affecting a class waiver, paragraphs 6 and 7 of Article 25 shall apply.
+
+3\. If a particular product-specific or class waiver is revoked, the requirement set out in Articles 7 and 8 shall not apply for 36 months from the date of the removal from the list of waivers.
+
+### CHAPTER 3 — Paediatric investigation plan
+
+#### Section 1 — Requests for agreement
+
+##### Article 15
+
+1\. Where the intention is to apply for a marketing authorisation in accordance with Article 7(1)(a) or (d), Article 8 or Article 30, a paediatric investigation plan shall be drawn up and submitted to the Agency with a request for agreement.
+
+2\. The paediatric investigation plan shall specify the timing and the measures proposed to assess the quality, safety and efficacy of the medicinal product in all subsets of the paediatric population that may be concerned. In addition, it shall describe any measures to adapt the formulation of the medicinal product so as to make its use more acceptable, easier, safer or more effective for different subsets of the paediatric population.
+
+##### Article 16
+
+1\. In the case of the applications for marketing authorisation referred to in Articles 7 and 8 or the applications for waiver referred to in Articles 11 and 12, the paediatric investigation plan or the application for waiver shall be submitted with a request for agreement, except in duly justified cases, not later than upon completion of the human pharmaco-kinetic studies in adults specified in Section 5.2.3 of Part I of Annex I to Directive 2001/83/EC, so as to ensure that an opinion on use in the paediatric population of the medicinal product concerned can be given at the time of the assessment of the marketing authorisation or other application concerned.
+
+2\. Within 30 days following receipt of the request referred to in paragraph 1 and in Article 15(1), the Agency shall verify the validity of the request and prepare a summary report for the Paediatric Committee.
+
+3\. Whenever appropriate, the Agency may ask the applicant to submit additional particulars and documents, in which case the time-limit of 30 days shall be suspended until such time as the supplementary information requested has been provided.
+
+##### Article 17
+
+1\. Following receipt of a proposed paediatric investigation plan which is valid in accordance with the provisions of Article 15(2), the Paediatric Committee shall appoint a rapporteur and shall within 60 days adopt an opinion as to whether or not the proposed studies will ensure the generation of the necessary data determining the conditions in which the medicinal product may be used to treat the paediatric population or subsets thereof, and as to whether or not the expected therapeutic benefits justify the studies proposed. When adopting its opinion, the Committee shall consider whether or not the measures proposed to adapt the formulation of the medicinal product for use in different subsets of the paediatric population are appropriate.
+
+Within the same period, either the applicant or the Paediatric Committee may request a meeting.
+
+2\. Within the 60-day period referred to in paragraph 1, the Paediatric Committee may request the applicant to propose modifications to the plan, in which case the time-limit referred to in paragraph 1 for the adoption of the final opinion shall be extended for a maximum of 60 days. In such cases, the applicant or the Paediatric Committee may request an additional meeting during this period. The time-limit shall be suspended until such time as the supplementary information requested has been provided.
+
+##### Article 18
+
+As soon as the Paediatric Committee adopts an opinion, whether positive or negative, the procedure laid down in Article 25 shall apply.
+
+##### Article 19
+
+If, having considered a paediatric investigation plan, the Paediatric Committee concludes that Article 11(1)(a), (b) or (c) applies to the medicinal product concerned, it shall adopt a negative opinion under Article 17(1).
+
+In such cases, the Paediatric Committee shall adopt an opinion in favour of a waiver under Article 12, whereupon the procedure laid down in Article 25 shall apply.
+
+#### Section 2 — Deferrals
+
+##### Article 20
+
+1\. At the same time as the paediatric investigation plan is submitted under Article 16(1), a request may be made for deferral of the initiation or completion of some or all of the measures set out in that plan. Such deferral shall be justified on scientific and technical grounds or on grounds related to public health.
+
+In any event, a deferral shall be granted when it is appropriate to conduct studies in adults prior to initiating studies in the paediatric population or when studies in the paediatric population will take longer to conduct than studies in adults.
+
+2\. On the basis of the experience acquired as a result of the operation of this Article, the Commission may adopt provisions, in accordance with the regulatory procedure with scrutiny referred to in Article 51(2), amending or supplementing non-essential elements of this Regulation to define further the grounds for granting a deferral.
+
+##### Article 21
+
+1\. At the same time as the Paediatric Committee adopts a positive opinion under Article 17(1), it shall, of its own motion or following a request submitted by the applicant under Article 20, adopt an opinion, if the conditions specified in Article 20 are met, in favour of deferring the initiation or completion of some or all of the measures in the paediatric investigation plan.
+
+An opinion in favour of a deferral shall specify the time-limits for initiating or completing the measures concerned.
+
+2\. As soon as the Paediatric Committee adopts an opinion in favour of deferral, as referred to in paragraph 1, the procedure laid down in Article 25 shall apply.
+
+#### Section 3 — Modification of a paediatric investigation plan
+
+##### Article 22
+
+If, following the decision agreeing the paediatric investigation plan, the applicant encounters such difficulties with its implementation as to render the plan unworkable or no longer appropriate, the applicant may propose changes or request a deferral or a waiver, based on detailed grounds, to the Paediatric Committee. Within 60 days, the Paediatric Committee shall review these changes or the request for a deferral or a waiver and adopt an opinion proposing their refusal or acceptance. As soon as the Paediatric Committee adopts an opinion, whether positive or negative, the procedure laid down in Article 25 shall apply.
+
+#### Section 4 — Compliance with the paediatric investigation plan
+
+##### Article 23
+
+1\. The competent authority responsible for granting marketing authorisation shall verify whether an application for marketing authorisation or variation complies with the requirements laid down in Articles 7 and 8 and whether an application submitted pursuant to Article 30 complies with the agreed paediatric investigation plan.
+
+Where the application is submitted in accordance with the procedure set out in Articles 27 to 39 of Directive 2001/83/EC, the verification of compliance, including, as appropriate, requesting an opinion of the Paediatric Committee in accordance with paragraph 2(b) and (c) of this Article, shall be conducted by the reference Member State.
+
+2\. The Paediatric Committee may, in the following cases, be requested to give its opinion as to whether studies conducted by the applicant are in compliance with the agreed paediatric investigation plan:
+
+(a) by the applicant, prior to submitting an application for marketing authorisation or variation as referred to in Articles 7, 8 and 30, respectively;
+
+(b) by the Agency, or the national competent authority, when validating an application, as referred to in point (a), which does not include an opinion concerning compliance adopted following a request under point (a);
+
+(c) by the Committee for Medicinal Products for Human Use, or the national competent authority, when assessing an application, as referred to in point (a), where there is doubt concerning compliance and an opinion has not been already given following a request under points (a) or (b).
+
+In the case of point (a), the applicant shall not submit its application until the Paediatric Committee has adopted its opinion, and a copy thereof shall be annexed to the application.
+
+3\. If the Paediatric Committee is requested to give an opinion under paragraph 2, it shall do so within 60 days of receiving the request.
+
+Member States shall take account of such an opinion.
+
+##### Article 24
+
+If, when conducting the scientific assessment of a valid application for Marketing Authorisation, the competent authority concludes that the studies are not in conformity with the agreed paediatric investigation plan, the product shall not be eligible for the rewards and incentives provided for in Articles 36, 37 and 38.
+
+### CHAPTER 4 — Procedure
+
+##### Article 25
+
+1\. Within ten days of its receipt, the Agency shall transmit the opinion of the Paediatric Committee to the applicant.
+
+2\. Within 30 days following receipt of the opinion of the Paediatric Committee, the applicant may submit to the Agency a written request, citing detailed grounds, for a re-examination of the opinion.
+
+3\. Within 30 days following receipt of a request for re-examination pursuant to paragraph 2, the Paediatric Committee, having appointed a new rapporteur, shall issue a new opinion confirming or revising its previous opinion. The rapporteur shall be able to question the applicant directly. The applicant may also offer to be questioned. The rapporteur shall inform the Paediatric Committee without delay in writing about details of contacts with the applicant. The opinion shall be duly reasoned and a statement of reasons for the conclusion reached shall be annexed to the new opinion, which shall become definitive.
+
+4\. If, within the 30-day period referred to in paragraph 2, the applicant does not request re-examination, the opinion of the Paediatric Committee shall become definitive.
+
+5\. The Agency shall adopt a decision within a period not exceeding 10 days following receipt of the Paediatric Committee's definitive opinion. This decision shall be communicated to the applicant in writing and shall annex the definitive opinion of the Paediatric Committee.
+
+6\. In the case of a class waiver as referred to in Article 12, the Agency shall adopt a decision within ten days following receipt of the opinion of the Paediatric Committee as referred to in Article 13(3). This decision shall annex the opinion of the Paediatric Committee.
+
+7\. Decisions of the Agency shall be made public after deletion of any information of a commercially confidential nature.
+
+### CHAPTER 5 — Miscellaneous provisions
+
+##### Article 26
+
+Any legal or natural person developing a medicinal product intended for paediatric use may, prior to the submission of a paediatric investigation plan and during its implementation, request advice from the Agency on the design and conduct of the various tests and studies necessary to demonstrate the quality, safety and efficacy of the medicinal product in the paediatric population in accordance with Article 57(1)(n) of Regulation (EC) No 726/2004.
+
+In addition, this legal or natural person may request advice on the design and conduct of pharmacovigilance and risk management systems as referred to in Article 34.
+
+The Agency shall provide advice under this Article free of charge.
+
+## TITLE III — MARKETING AUTHORISATION PROCEDURES
+
+##### Article 27
+
+Save where otherwise provided in this Title, marketing authorisation procedures for the marketing authorisations covered by this Title shall be governed by the provisions laid down in Regulation (EC) No 726/2004 or in Directive 2001/83/EC.
+
+### CHAPTER 1 — Marketing authorisation procedures for applications falling within the scope of Articles 7 and 8
+
+##### Article 28
+
+1\. Applications may be submitted in accordance with the procedure laid down in Articles 5 to 15 of Regulation (EC) No 726/2004 for a marketing authorisation as referred to in Article 7(1) of this Regulation which includes one or more paediatric indications on the basis of studies conducted in compliance with an agreed paediatric investigation plan.
+
+Where authorisation is granted, the results of all those studies shall be included in the summary of product characteristics and, if appropriate, in the package leaflet of the medicinal product, provided that the competent authority deems the information to be of use to patients, whether or not all the paediatric indications concerned were approved by the competent authority.
+
+2\. Where a marketing authorisation is granted or varied, any waiver or deferral which has been granted pursuant to this Regulation shall be recorded in the summary of product characteristics and, if appropriate, in the package leaflet of the medicinal product concerned.
+
+3\. If the application complies with all the measures contained in the agreed completed paediatric investigation plan and if the summary of product characteristics reflects the results of studies conducted in compliance with that agreed paediatric investigation plan, the competent authority shall include within the marketing authorisation a statement indicating compliance of the application with the agreed completed paediatric investigation plan. For the purpose of the application of Article 45(3), this statement shall also indicate whether significant studies contained in the agreed Paediatric Investigation Plan have been completed after the entry into force of this Regulation.
+
+##### Article 29
+
+In the case of medicinal products authorised under Directive 2001/83/EC, an application as referred to in Article 8 of this Regulation may be submitted, in accordance with the procedure laid down in Articles 32, 33 and 34 of Directive 2001/83/EC, for authorisation of a new indication, including the extension of an authorisation for use in the paediatric population, a new pharmaceutical form or a new route of administration.
+
+That application shall comply with the requirement laid down in point (a) of Article 7(1).
+
+The procedure shall be limited to the assessment of the specific sections of the summary of product characteristics to be varied.
+
+### CHAPTER 2 — Paediatric use marketing authorisation
+
+##### Article 30
+
+1\. Submission of an application for a paediatric use marketing authorisation shall in no way preclude the right to apply for a marketing authorisation for other indications.
+
+2\. An application for a paediatric use marketing authorisation shall be accompanied by the particulars and documents necessary to establish quality, safety and efficacy in the paediatric population, including any specific data needed to support an appropriate strength, pharmaceutical form or route of administration for the product, in accordance with an agreed paediatric investigation plan.
+
+The application shall also include the decision of the Agency agreeing the paediatric investigation plan concerned.
+
+3\. Where a medicinal product is or has been authorised in a Member State or in the Community, data contained in the dossier on that product may, where appropriate, be referred to, in accordance with Article 14(11) of Regulation (EC) No 726/2004 or Article 10 of Directive 2001/83/EC, in an application for a paediatric use marketing authorisation.
+
+4\. The medicinal product in respect of which a paediatric use marketing authorisation is granted may retain the name of any medicinal product which contains the same active substance and in respect of which the same holder has been granted authorisation for use in adults.
+
+##### Article 31
+
+Without prejudice to Article 3(2) of Regulation (EC) No 726/2004, an application for a paediatric use marketing authorisation may be made in accordance with the procedure laid down in Articles 5 to 15 of Regulation (EC) No 726/2004.
+
+### CHAPTER 3 — Identification
+
+##### Article 32
+
+1\. Where a medicinal product is granted a marketing authorisation for a paediatric indication, the label shall display the symbol agreed in accordance with paragraph 2. The package leaflet shall contain an explanation of the meaning of the symbol.
+
+2\. By 26 January 2008, the Commission shall select a symbol following a recommendation of the Paediatric Committee. The Commission shall make the symbol public.
+
+3\. The provisions of this Article shall also apply to medicinal products authorised before the entry into force of this Regulation, and to medicinal products authorised after the entry into force of this Regulation but before the symbol has been made public, if they are authorised for paediatric indications.
+
+In this case, the symbol and the explanation referred to in paragraph 1 shall be included in the labelling and package leaflet respectively of the medicinal products concerned not later than two years after the symbol has been made public.
+
+## TITLE IV — POST-AUTHORISATION REQUIREMENTS
+
+##### Article 33
+
+Where medicinal products are authorised for a paediatric indication following completion of an agreed paediatric investigation plan and those products have already been marketed with other indications, the marketing authorisation holder shall, within two years of the date on which the paediatric indication is authorised, place the product on the market taking into account the paediatric indication. A register, coordinated by the Agency, and made publicly available, shall mention these deadlines.
+
+##### Article 34
+
+1\. In the following cases, the applicant shall detail the measures to ensure the follow-up of efficacy and of possible adverse reactions to the paediatric use of the medicinal product:
+
+(a) applications for a marketing authorisation that includes a paediatric indication;
+
+(b) applications to include a paediatric indication in an existing marketing authorisation;
+
+(c) applications for a paediatric use marketing authorisation.
+
+2\. Where there is particular cause for concern, the competent authority shall require, as a condition for granting marketing authorisation, that a risk management system be set up or that specific post-marketing studies be performed and submitted for review. The risk management system shall comprise a set of pharmacovigilance activities and interventions designed to identify, characterise, prevent or minimise risks relating to medicinal products, including the assessment of the effectiveness of those interventions.
+
+Assessment of the effectiveness of any risk management system and the results of any studies performed shall be included in the periodic safety update reports referred to in Article 104(6) of Directive 2001/83/EC and Article 24(3) of Regulation (EC) No 726/2004.
+
+In addition, the competent authority may request submission of additional reports assessing the effectiveness of any risk minimisation system and the results of any such studies performed.
+
+3\. In addition to paragraphs 1 and 2, the provisions on pharmacovigilance as laid down in Regulation (EC) No 726/2004 and in Directive 2001/83/EC shall apply to marketing authorisations for medicinal products which include a paediatric indication.
+
+4\. In the case of a deferral, the marketing authorisation holder shall submit an annual report to the Agency providing an update on progress with paediatric studies in accordance with the decision of the Agency agreeing the paediatric investigation plan and granting a deferral.
+
+The Agency shall inform the competent authority if it is found that the marketing authorisation holder has failed to comply with the decision of the Agency agreeing the paediatric investigation plan and granting a deferral.
+
+5\. The Agency shall draw up guidelines relating to the application of this Article.
+
+##### Article 35
+
+If a medicinal product is authorised for a paediatric indication and the marketing authorisation holder has benefited from rewards or incentives under Article 36, 37 or 38, and these periods of protection have expired, and if the marketing authorisation holder intends to discontinue placing the medicinal product on the market, the marketing authorisation holder shall transfer the marketing authorisation or allow a third party, which has declared its intention to continue to place the medicinal product in question on the market, to use the pharmaceutical, pre-clinical and clinical documentation contained in the file of the medicinal product on the basis of Article 10c of Directive 2001/83/EC.
+
+The marketing authorisation holder shall inform the Agency of its intention to discontinue the placing on the market of the product no less than six months before the discontinuation. The Agency shall make this fact public.
+
+## TITLE V — REWARDS AND INCENTIVES
+
+##### Article 36
+
+1\. Where an application under Article 7 or 8 includes the results of all studies conducted in compliance with an agreed paediatric investigation plan, the holder of the patent or supplementary protection certificate shall be entitled to a six-month extension of the period referred to in Articles 13(1) and 13(2) of Regulation (EEC) No 1768/92.
+
+The first subparagraph shall also apply where completion of the agreed paediatric investigation plan fails to lead to the authorisation of a paediatric indication, but the results of the studies conducted are reflected in the summary of product characteristics and, if appropriate, in the package leaflet of the medicinal product concerned.
+
+2\. The inclusion in a marketing authorisation of the statement referred to in Article 28(3) shall be used for the purposes of applying paragraph 1 of this Article.
+
+3\. Where the procedures laid down in Directive 2001/83/EC have been used, the six-month extension of the period referred to in paragraph 1 shall be granted only if the product is authorised in all Member States.
+
+4\. Paragraphs 1, 2 and 3 shall apply to products that are protected by a supplementary protection certificate under Regulation (EEC) No 1768/92, or under a patent which qualifies for the granting of the supplementary protection certificate. They shall not apply to medicinal products designated as orphan medicinal products pursuant to Regulation (EC) No 141/2000.
+
+5\. In the case of an application under Article 8 which leads to the authorisation of a new paediatric indication, paragraphs 1, 2 and 3 shall not apply if the applicant applies for, and obtains, a one-year extension of the period of marketing protection for the medicinal product concerned, on the grounds that this new paediatric indication brings a significant clinical benefit in comparison with existing therapies, in accordance with Article 14(11) of Regulation (EC) No 726/2004 or the fourth subparagraph of Article 10(1) of Directive 2001/83/EC.
+
+##### Article 37
+
+Where an application for a marketing authorisation is submitted in respect of a medicinal product designated as an orphan medicinal product pursuant to Regulation (EC) No 141/2000 and that application includes the results of all studies conducted in compliance with an agreed paediatric investigation plan, and the statement referred to in Article 28(3) of this Regulation is subsequently included in the marketing authorisation granted, the ten-year period referred to in Article 8(1) of Regulation (EC) No 141/2000 shall be extended to twelve years.
+
+The first paragraph shall also apply where completion of the agreed paediatric investigation plan fails to lead to the authorisation of a paediatric indication, but the results of the studies conducted are reflected in the summary of product characteristics and, if appropriate, in the package leaflet of the medicinal product concerned.
+
+##### Article 38
+
+1\. Where a paediatric use marketing authorisation is granted in accordance with Articles 5 to 15 of Regulation (EC) No 726/2004, the data and marketing protection periods referred to in Article 14(11) of that Regulation shall apply.
+
+2\. Where a paediatric use marketing authorisation is granted in accordance with the procedures laid down in Directive 2001/83/EC, the data and marketing protection periods referred to in Article 10(1) of that Directive shall apply.
+
+##### Article 39
+
+1\. In addition to the rewards and incentives provided for in Articles 36, 37 and 38, medicinal products for paediatric use may be eligible for incentives provided by the Community or by the Member States to support research into, and the development and availability of, medicinal products for paediatric use.
+
+2\. By 26 January 2008, the Member States shall communicate to the Commission detailed information concerning any measures they have enacted to support research into, and the development and availability of, medicinal products for paediatric use. This information shall be updated regularly at the request of the Commission.
+
+3\. By 26 July 2008, the Commission shall make publicly available a detailed inventory of all rewards and incentives provided by the Community and Member States to support research into, and the development and availability of, medicinal products for paediatric use. This inventory shall be updated regularly and the updates shall also be made publicly available.
+
+##### Article 40
+
+1\. Funds for research into medicinal products for the paediatric population shall be provided for in the Community budget in order to support studies relating to medicinal products or active substances not covered by a patent or a supplementary protection certificate.
+
+2\. The Community funding referred to in paragraph 1 shall be delivered through the Community Framework Programmes for Research, Technological Development and Demonstration Activities or any other Community initiatives for the funding of research.
+
+## TITLE VI — COMMUNICATION AND COORDINATION
+
+##### Article 41
+
+1\. The European database created by Article 11 of Directive 2001/20/EC shall include clinical trials carried out in third countries which are contained in an agreed paediatric investigation plan, in addition to the clinical trials referred to in Articles 1 and 2 of that Directive. In the case of such clinical trials carried out in third countries, the details listed in Article 11 of that Directive shall be entered into the database by the addressee of the Agency's decision on a paediatric investigation plan.
+
+By way of derogation from the provisions of Article 11 of Directive 2001/20/EC, the Agency shall make public part of the information on paediatric clinical trials entered in the European database.
+
+2\. Details of the results of all the trials referred to in paragraph 1 and of any other trials submitted to competent authorities in compliance with Articles 45 and 46 shall be made public by the Agency, whether or not the trial was terminated prematurely. These results shall be submitted without delay to the Agency by the clinical trial sponsor, the addressee of the Agency's decision on a paediatric investigation plan, or by the marketing authorisation holder as appropriate.
+
+3\. In consultation with the Agency, Member States and interested parties, the Commission shall draw up guidance on the nature of the information referred to in paragraph 1 to be entered in the European database created by Article 11 of Directive 2001/20/EC, on which information shall be made accessible to the public in application of paragraph 1, on how clinical trial results shall be submitted and be made public in application of paragraph 2, and on the Agency's responsibilities and tasks in this regard.
+
+##### Article 42
+
+Member States shall collect available data on all existing uses of medicinal products in the paediatric population and shall communicate these data to the Agency by 26 January 2009.
+
+The Paediatric Committee shall provide guidance on the content and the format of the data to be collected by 26 October 2007.
+
+##### Article 43
+
+1\. On the basis of the information referred to in Article 42 and after consulting the Commission, the Member States and the interested parties, the Paediatric Committee shall establish an inventory of therapeutic needs, in particular with a view to identifying research priorities.
+
+The Agency shall make the inventory public at the earliest by 26 January 2009 and at the latest by 26 January 2010 and shall update it regularly.
+
+2\. In establishing the inventory of therapeutic needs, account shall be taken of the prevalence of the conditions in the paediatric population, the seriousness of the conditions to be treated, the availability and suitability of alternative treatments for the conditions in the paediatric population, including the efficacy and the adverse reaction profile of those treatments, including any unique paediatric safety issues, and any data resulting from studies in third countries.
+
+##### Article 44
+
+1\. The Agency shall, with the scientific support of the Paediatric Committee, develop a European network of existing national and European networks, investigators and centres with specific expertise in the performance of studies in the paediatric population.
+
+2\. The objectives of the European network shall be, inter alia, to coordinate studies relating to paediatric medicinal products, to build up the necessary scientific and administrative competences at European level, and to avoid unnecessary duplication of studies and testing in the paediatric population.
+
+3\. By 26 January 2008, the Management Board of the Agency shall, on a proposal from the Executive Director and following consultation with the Commission, the Member States and interested parties, adopt an implementing strategy for the launching and operation of the European network. This network must, where appropriate, be compatible with the work of strengthening the foundations of the European Research Area in the context of the Community Framework Programmes for Research, Technological Development and Demonstration Activities.
+
+##### Article 45
+
+1\. By 26 January 2008, any paediatric studies already completed, by the date of entry into force, in respect of products authorised in the Community shall be submitted by the marketing authorisation holder for assessment to the competent authority.
+
+The competent authority may update the summary of product characteristics and package leaflet, and may vary the marketing authorisation accordingly. Competent authorities shall exchange information regarding the studies submitted and, as appropriate, their implications for any marketing authorisations concerned.
+
+The Agency shall coordinate the exchange of information.
+
+2\. All existing paediatric studies, as referred to in paragraph 1, and all paediatric studies initiated prior to the entry into force of this Regulation shall be eligible to be included in a paediatric investigation plan, and shall be taken into consideration by the Paediatric Committee when assessing applications for paediatric investigation plans, waivers and deferrals and by competent authorities when assessing applications submitted pursuant to Article 7, 8 or 30.
+
+3\. Without prejudice to the previous paragraph, the rewards and incentives of Articles 36, 37 and 38 shall only be granted provided that significant studies contained in an agreed Paediatric Investigation Plan are completed after the entry into force of this Regulation.
+
+4\. In consultation with the Agency, the Commission shall draw up guidelines to establish assessment criteria for the significance of studies for the purposes of applying paragraph 3.
+
+##### Article 46
+
+1\. Any other marketing authorisation holder-sponsored studies which involve the use in the paediatric population of a medicinal product covered by a marketing authorisation, whether or not they are conducted in compliance with an agreed paediatric investigation plan, shall be submitted to the competent authority within six months of completion of the studies concerned.
+
+2\. Paragraph 1 shall apply independent of whether or not the marketing authorisation holder intends to apply for a marketing authorisation of a paediatric indication.
+
+3\. The competent authority may update the summary of product characteristics and package leaflet, and may vary the marketing authorisation accordingly.
+
+4\. Competent authorities shall exchange information regarding the studies submitted and, as appropriate, their implications for any marketing authorisations concerned.
+
+5\. The Agency shall coordinate the exchange of information.
+
+## TITLE VII — GENERAL AND FINAL PROVISIONS
+
+### CHAPTER 1 — General provisions
+
+#### Section 1 — Fees, community funding, penalties and reports
+
+##### Article 47
+
+1\. Where an application for a paediatric use marketing authorisation is submitted in accordance with the procedure laid down in Regulation (EC) No 726/2004, the amount of the reduced fees for the examination of the application and the maintenance of the marketing authorisation shall be fixed in accordance with Article 70 of Regulation (EC) No 726/2004.
+
+2\. Council Regulation (EC) No 297/95 of 10 February 1995 on fees payable to the European Medicines Agency ( 1 ) shall apply.
+
+3\. Assessments of the following by the Paediatric Committee shall be free of charge:
+
+(a) applications for waiver;
+
+(b) applications for deferral;
+
+(c) paediatric investigation plans;
+
+(d) compliance with the agreed paediatric investigation plan.
+
+##### Article 48
+
+The Community contribution provided for in Article 67 of Regulation (EC) No 726/2004 shall cover the work of the Paediatric Committee, including scientific support provided by experts, and of the Agency, including the assessment of paediatric investigation plans, scientific advice and any fee waivers provided for in this Regulation, and shall support the Agency's activities under Articles 41 and 44 of this Regulation.
+
+##### Article 49
+
+1\. Without prejudice to the Protocol on the Privileges and Immunities of the European Communities, each Member State shall determine the penalties to be applied for infringement of the provisions of this Regulation or the implementing measures adopted pursuant to it in relation to medicinal products authorised through the procedures laid down in Directive 2001/83/EC and shall take all measures necessary for their implementation. The penalties shall be effective, proportionate and dissuasive.
+
+Member States shall inform the Commission of these provisions by 26 October 2007. They shall notify any subsequent alterations as soon as possible.
+
+2\. Member States shall inform the Commission immediately of any litigation instituted for infringement of this Regulation.
+
+3\. The Commission may, in relation to medicinal products authorised in accordance with Regulation (EC) No 726/2004, impose, in accordance with the procedure laid down in Article 84a of that Regulation, financial penalties in the form of fines or periodic penalty payments for the failure to comply with the obligations set out in this Regulation that are listed in Annex II to Regulation (EC) No 726/2004.
+
+4\. The Commission shall make public the names of anyone infringing the provisions of this Regulation or of any implementing measures adopted pursuant to it and the amounts of, and reasons for, the financial penalties imposed.
+
+##### Article 50
+
+1\. On the basis of a report from the Agency, and at least on an annual basis, the Commission shall make public a list of the companies and of the products that have benefited from any of the rewards and incentives in this Regulation and the companies that have failed to comply with any of the obligations in this Regulation. The Member States shall provide this information to the Agency.
+
+2\. By 26 January 2013, the Commission shall present to the European Parliament and the Council a general report on experience acquired as a result of the application of this Regulation. This shall include in particular a detailed inventory of all medicinal products authorised for paediatric use since its entry into force.
+
+3\. By 26 January 2017, the Commission shall present a report to the European Parliament and the Council on the experience acquired as a result of the application of Articles 36, 37 and 38. The report shall include an analysis of the economic impact of the rewards and incentives, together with an analysis of the estimated consequences for public health of this Regulation, with a view to proposing any necessary amendments.
+
+4\. Provided that there are sufficient data available to allow robust analyses to be made, the provisions of paragraph 3 shall be fulfilled at the same time as the provisions of paragraph 2.
+
+#### Section 2 — Standing committee
+
+##### Article 51
+
+1\. The Commission shall be assisted by the Standing Committee on Medicinal Products for Human Use set up by Article 121 of Directive 2001/83/EC, hereinafter referred to as ‘the Committee’.
+
+2\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. The Committee shall adopt its rules of procedure.
+
+### CHAPTER 2 — Amendments
+
+##### Article 52
+
+Regulation (EEC) No 1768/92 is hereby amended as follows:
+
+1) in Article 1, the following definition shall be added:
+
+‘(e) “Application for an extension of the duration” means an application for an extension of the duration of the certificate pursuant to Article 13(3) of this Regulation and of Article 36 of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( *1 ).
+
+2) in Article 7, the following paragraphs shall be added:
+
+‘3. The application for an extension of the duration may be made when lodging the application for a certificate or when the application for the certificate is pending and the appropriate requirements of Articles 8(1)(d) or 8(1a), respectively, are fulfilled.
+
+4\. The application for an extension of the duration of a certificate already granted shall be lodged not later than two years before the expiry of the certificate.
+
+5\. Notwithstanding paragraph 4, for five years following the entry into force of Regulation (EC) No 1901/2006, the application for an extension of the duration of a certificate already granted shall be lodged not later than six months before the expiry of the certificate.’;
+
+3) Article 8 shall be amended as follows:
+
+(a) in paragraph 1, the following point shall be added:
+
+‘(d) where the application for a certificate includes a request for an extension of the duration:
+
+(i) a copy of the statement indicating compliance with an agreed completed paediatric investigation plan as referred to in Article 36(1) of Regulation (EC) No 1901/2006;
+
+(ii) where necessary, in addition to the copy of the authorisations to place the product on the market as referred to in point (b), proof that it has authorisations to place the product on the market of all other Member States, as referred to in Article 36(3) of Regulation (EC) No 1901/2006.’;
+
+(b) the following paragraphs shall be inserted:
+
+‘1a. Where an application for a certificate is pending, an application for an extended duration in accordance with Article 7(3) shall include the particulars referred to in paragraph 1(d) and a reference to the application for a certificate already filed.
+
+1b. The application for an extension of the duration of a certificate already granted shall contain the particulars referred to in paragraph 1(d) and a copy of the certificate already granted.’;
+
+(c) paragraph 2 shall be replaced by the following:
+
+‘2. Member States may provide that a fee is to be payable upon application for a certificate and upon application for the extension of the duration of a certificate.’;
+
+4) Article 9 shall be amended as follows:
+
+(a) in paragraph 1, the following subparagraph shall be added:
+
+‘The application for an extension of the duration of a certificate shall be lodged with the competent authority of the Member State concerned.’;
+
+(b) in paragraph 2, the following point shall be added:
+
+‘(f) where applicable, an indication that the application includes an application for an extension of the duration.’;
+
+(c) the following paragraph shall be added:
+
+‘3. Paragraph 2 shall apply to the notification of the application for an extension of the duration of a certificate already granted or where an application for a certificate is pending. The notification shall additionally contain an indication of the application for an extended duration of the certificate.’;
+
+5) in Article 10, the following paragraph shall be added:
+
+‘6. Paragraphs 1 to 4 shall apply mutatis mutandis to the application for an extension of the duration.’;
+
+6) in Article 11, the following paragraph shall be added:
+
+‘3. Paragraphs 1 and 2 shall apply to the notification of the fact that an extension of the duration of a certificate has been granted or of the fact that the application for an extension has been rejected.’;
+
+7) in Article 13, the following paragraph shall be added:
+
+‘3. The periods laid down in paragraphs 1 and 2 shall be extended by six months in the case where Article 36 of Regulation (EC) No 1901/2006 applies. In that case, the duration of the period laid down in paragraph 1 of this Article may be extended only once.’;
+
+8) the following Article shall be inserted:
+
+‘Article 15a
+
+Revocation of an extension of the duration
+
+1\. The extension of the duration may be revoked if it was granted contrary to the provisions of Article 36 of Regulation (EC) No 1901/2006.
+
+2\. Any person may submit an application for revocation of the extension of the duration to the body responsible under national law for the revocation of the corresponding basic patent.’;
+
+9) Article 16 shall be amended as follows:
+
+(a) the text of Article 16 becomes that Article's paragraph 1;
+
+(b) the following paragraph shall be added:
+
+‘2. If the extension of the duration is revoked in accordance with Article 15a, notification thereof shall be published by the authority referred to in Article 9(1).’;
+
+10) Article 17 shall be replaced by the following:
+
+‘Article 17
+
+Appeals
+
+The decisions of the authority referred to in Article 9(1) or of the bodies referred to in Articles 15(2) and 15a(2) taken under this Regulation shall be open to the same appeals as those provided for in national law against similar decisions taken in respect of national patents.’.
+
+##### Article 53
+
+In Article 11 of Directive 2001/20/EC, the following paragraph shall be added:
+
+‘4. By way of derogation from paragraph 1, the Agency shall make public part of the information on paediatric clinical trials entered in the European database in accordance with the provisions of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( *2 ).
+
+##### Article 54
+
+In Article 6 of Directive 2001/83/EC, the first subparagraph of paragraph 1 shall be replaced by the following:
+
+‘1. No medicinal product may be placed on the market of a Member State unless a marketing authorisation has been issued by the competent authorities of that Member State in accordance with this Directive or unless an authorisation has been granted in accordance with Regulation (EC) No 726/2004, read in conjunction with Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( *3 ).
+
+##### Article 55
+
+Regulation (EC) No 726/2004 is hereby amended as follows:
+
+1) Article 56(1) shall be replaced by the following:
+
+‘1. The Agency shall comprise:
+
+(a) the Committee for Medicinal Products for Human Use, which shall be responsible for preparing the opinion of the Agency on any question relating to the evaluation of medicinal products for human use;
+
+(b) the Committee for Medicinal Products for Veterinary Use, which shall be responsible for preparing the opinion of the Agency on any question relating to the evaluation of medicinal products for veterinary use;
+
+(c) the Committee on Orphan Medicinal Products;
+
+(d) the Committee on Herbal Medicinal Products;
+
+(e) the Paediatric Committee;
+
+(f) a Secretariat, which shall provide technical, scientific and administrative support for the committees and ensure appropriate coordination between them;
+
+(g) an Executive Director, who shall exercise the responsibilities set out in Article 64;
+
+(h) a Management Board, which shall exercise the responsibilities set out in Articles 65, 66 and 67.’;
+
+2) in Article 57(1), the following point shall be added:
+
+‘(t) taking decisions as referred to in Article 7(1) of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( *4 ).
+
+3) the following Article shall be inserted:
+
+‘Article 73a
+
+Decisions taken by the Agency under Regulation (EC) No 1901/2006 may form the subject of an action before the Court of Justice of the European Communities under the conditions laid down in Article 230 of the Treaty.’.
+
+### CHAPTER 3 — Final provisions
+
+##### Article 56
+
+The requirement laid down in Article 7(1) shall not apply to valid applications pending at the time of entry into force of this Regulation.
+
+##### Article 57
+
+1\. This Regulation shall enter into force on the thirtieth day following that of its publication in the Official Journal of the European Union.
+
+2\. Article 7 shall apply from 26 July 2008.
+
+Article 8 shall apply from 26 January 2009.
+
+Articles 30 and 31 shall apply from 26 July 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+### COMMISSION STATEMENT
+
+In view of the risks of carcinogens, mutagens and substances toxic to reproduction, the Commission will request the Committee for Medicinal Products for Human Use of the European Medicines Agency to draw up an opinion on the use of these categories of substances as excipients of medicinal products for human use, on the basis of Articles 5(3) and 57(1)(p) of Regulation (EC) No 726/2004 of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency.
+
+The Commission will transmit the opinion of the Committee for Medicinal Products for Human Use to the European Parliament and the Council.
+
+Within six months of the opinion of the Committee for Medicinal Products for Human Use, the Commission will inform the European Parliament and the Council of any necessary action it intends to take to follow-up on this opinion.
+
+( 1 ) OJ L 35, 15.2.1995, p. 1. Regulation as last amended by Regulation (EC) No 1905/2005 (OJ L 304, 23.11.2005, p. 1).
+
+( *1 ) OJ L 378, 27.12.2006, p. 1.’
+
+( *2 ) OJ L 378, 27.12.2006, p. 1.’
+
+( *3 ) OJ L 378, 27.12.2006, p. 1.’
+
+( *4 ) OJ L 378, 27.12.2006, p. 1.’

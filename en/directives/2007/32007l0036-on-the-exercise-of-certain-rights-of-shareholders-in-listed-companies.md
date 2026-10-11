@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the exercise of certain rights of shareholders in listed companies**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/59/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 173</td><td>190</td><td>12.6.2014</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2017/828 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 May 2017 </td><td> L 132</td><td>1</td><td>20.5.2017</td></tr>
 <tr><td></td><td> REGULATION (EU) 2021/23 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2020 </td><td> L 22</td><td>1</td><td>22.1.2021</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+</table>
 
 **DIRECTIVE 2007/36/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

@@ -26,6 +26,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DELEGATED DIRECTIVE 2012/50/EU of 10 October 2012 </td><td> L 348</td><td>16</td><td>18.12.2012</td></tr>
@@ -116,6 +117,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/1802 of 8 September 2025 </td><td> L 1802</td><td>1</td><td>21.11.2025</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/2363 of 8 September 2025 </td><td> L 2363</td><td>1</td><td>21.11.2025</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/2364 of 8 September 2025 </td><td> L 2364</td><td>1</td><td>21.11.2025</td></tr>
+</table>
 
 C2
 
@@ -599,6 +601,7 @@ The restriction of DEHP, BBP and DBP shall not apply to toys which are already s
 
 **Applications exempted from the restriction in Article 4(1)**
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>1</td><td>Mercury in single capped (compact) fluorescent lamps not exceeding (per burner):</td><td>  </td></tr>
@@ -782,6 +785,7 @@ The restriction of DEHP, BBP and DBP shall not apply to toys which are already s
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3">(1)  Directive 97/68/EC of the European Parliament and of the Council of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery (OJ L 59, 27.2.1998, p. 1).    (2)  Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36).  (3)  Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations (EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC (OJ L 252, 16.9.2016, p. 53).  (4)  The exemption shall not cover EEE for supply to the general public where the EEE or accessible part thereof may, during normal or foreseeable conditions of use, be placed in the mouth by children. However, the exemption shall apply where the following can be both demonstrated: <br> — the rate of lead release from such an EEE or any accessible part, whether coated or uncoated, does not exceed 0,05 μg/cm2 per hour (equivalent to 0,05 μg/g/h),  — for coated articles, that the coating is sufficient to ensure that this release rate is not exceeded for a period of at least two years of normal or reasonably foreseeable conditions of use of the EEE. <br> For the purpose of this footnote, it is considered that an EEE or accessible part of an EEE may be placed in the mouth by children if it is smaller than 5 cm in one dimension or has a detachable or protruding part of that size. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 

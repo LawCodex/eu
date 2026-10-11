@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **adapting certain Directives in the field of free movement of goods, by reason of the accession of Bulgaria and Romania**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2008/121/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 14 January 2009</td><td> L 19</td><td>29</td><td>23.1.2009</td></tr>
@@ -33,6 +34,7 @@ retrieved: 2026-10-11
 <tr><td></td><td>REGULATION (EU) No 168/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 January 2013</td><td> L 60</td><td>52</td><td>2.3.2013</td></tr>
 <tr><td></td><td>DIRECTIVE 2014/32/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 26 February 2014</td><td> L 96</td><td>149</td><td>29.3.2014</td></tr>
 <tr><td></td><td>DIRECTIVE (EU) 2015/1535 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 9 September 2015</td><td> L 241</td><td>1</td><td>17.9.2015</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2006/96/EC**
 

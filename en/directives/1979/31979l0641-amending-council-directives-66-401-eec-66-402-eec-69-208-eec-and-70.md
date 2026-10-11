@@ -32,10 +32,12 @@ amending Council Directives 66/401/EEC, 66/402/EEC, 69/208/EEC and 70/458/EEC on
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 2002/55/EC of 13 June 2002</td><td> L 193</td><td>33</td><td>20.7.2002</td></tr>
 <tr><td></td><td>Council Directive 2002/57/EC of 13 June 2002</td><td> L 193</td><td>74</td><td>20.7.2002</td></tr>
+</table>
 
 COMMISSION DIRECTIVE
 

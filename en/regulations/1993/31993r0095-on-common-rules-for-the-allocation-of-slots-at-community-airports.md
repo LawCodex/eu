@@ -1,0 +1,492 @@
+---
+title: "Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports"
+identifier: "31993R0095"
+eli: "http://data.europa.eu/eli/reg/1993/95/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1993-01-18
+entry_into_force: 1993-07-05
+last_amended: 2022-10-26
+consolidated_version: "01993R0095-20221026"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993R0095-20221026"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports
+
+**COUNCIL REGULATION (EEC) No 95/93**
+
+**of 18 January 1993**
+
+**on common rules for the allocation of slots at Community airports**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EC) No 894/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 May 2002 </td><td> L 142</td><td>3</td><td>31.5.2002</td></tr>
+<tr><td> M2</td><td> REGULATION (EC) No 1554/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 July 2003 </td><td> L 221</td><td>1</td><td>4.9.2003</td></tr>
+<tr><td></td><td> REGULATION (EC) No 793/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 21 April 2004 </td><td> L 138</td><td>50</td><td>30.4.2004</td></tr>
+<tr><td></td><td> REGULATION (EC) No 545/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 167</td><td>24</td><td>29.6.2009</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/459 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 March 2020 </td><td> L 99</td><td>1</td><td>31.3.2020</td></tr>
+<tr><td> M6</td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1477 of 14 October 2020 </td><td> L 338</td><td>4</td><td>15.10.2020</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/250 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 2021 </td><td> L 58</td><td>1</td><td>19.2.2021</td></tr>
+<tr><td> M8</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1889 of 23 July 2021 </td><td> L 384</td><td>20</td><td>29.10.2021</td></tr>
+<tr><td> M9</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/255 of 15 December 2021 </td><td> L 42</td><td>1</td><td>23.2.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2038 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 275</td><td>14</td><td>25.10.2022</td></tr>
+</table>
+
+**COUNCIL REGULATION (EEC) No 95/93**
+
+**of 18 January 1993**
+
+**on common rules for the allocation of slots at Community airports**
+
+## Article 1 — Scope
+
+1\. This Regulation shall apply to Community airports.
+
+2\. The application of this Regulation to the airport of Gibraltar is understood to be without prejudice to the respective legal positions of the Kingdom of Spain and the United Kingdom with regard to the dispute over sovereignty over the territory in which the airport is situated.
+
+3\. Application of the provisions of this Regulation to Gibraltar airport shall be suspended until the arrangements in the joint declarations made by the Foreign Ministers of the Kingdom of Spain and the United Kingdom on 2 December 1987 have come into operation. The Governments of Spain and the United Kingdom will so inform the Council of that date.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation:
+
+(a) ‘slot’ shall mean the permission given by a coordinator in accordance with this Regulation to use the full range of airport infrastructure necessary to operate an air service at a coordinated airport on a specific date and time for the purpose of landing or take-off as allocated by a coordinator in accordance with this Regulation;
+
+(b) ‘new entrant’ shall mean:
+
+(i) an air carrier requesting, as part of a series of slots, a slot at an airport on any day, where, if the carrier's request were accepted, it would in total hold fewer than five slots at that airport on that day, or
+
+(ii) an air carrier requesting a series of slots for a non-stop scheduled passenger service between two Community airports where at most two other air carriers operate the same non-stop scheduled service between these airports or airport systems on that day, where, if the air carrier's request were accepted, the air carrier would nonetheless hold fewer than five slots at that airport on that day for that non-stop service, or
+
+(iii) an air carrier requesting a series of slots at an airport for a non-stop scheduled passenger service between that airport and a regional airport where no other air carrier operates a direct scheduled passenger service between these airports or airport systems on that day, where, if the air carrier's request were accepted, the air carrier would nonetheless hold fewer than five slots at that airport on that day for that non-stop service.
+
+An air carrier holding more than 5 % of the total slots available on the day in question at a particular airport, or more than 4 % of the total slots available on the day in question in an airport system of which that airport forms part, shall not be considered as a new entrant at that airport;
+
+(ba) during the period from 30 October 2022 to 28 October 2023, ‘new entrant’ shall mean:
+
+(i) an air carrier requesting, as part of a series of slots, a slot at an airport on any day, where, if the carrier’s request were accepted, it would in total hold fewer than seven slots at that airport on that day; or
+
+(ii) an air carrier requesting a series of slots for a non-stop scheduled passenger service between two Union airports, where at most two other air carriers operate the same non-stop scheduled service between those airports on that day, and where, if the air carrier’s request were accepted, the air carrier would nonetheless hold fewer than nine slots at that airport on that day for that non-stop service.
+
+An air carrier which, together with its parent company, its own subsidiaries or the subsidiaries of its parent company, holds more than 10 % of the total slots allocated on the day in question at a particular airport, shall not be considered as a new entrant at that airport;
+
+(c) ‘direct air service’ shall mean a service between two airports including stopovers with the same aircraft and same flight number;
+
+(d) ‘scheduling period’ shall mean either the summer or winter season as used in the schedules of air carriers;
+
+(e) ‘Community air carrier’ shall mean an air carrier with a valid operating licence issued by a Member State in accordance with Council Regulation (EEC) No 2407/92 of 23 July 1992 on licensing of air carriers ( 1 );
+
+(f)
+
+(i) ‘air carrier’ shall mean an air transport undertaking holding a valid operating licence or equivalent at the latest on 31 January for the following summer scheduling period or on 31 August for the following winter scheduling period; for the purpose of Articles 4, 8, 8a, 10 and 10a, the definition of air carrier shall also include business aviation operators, when they operate according to a schedule; for the purposes of Articles 7 and 14, the definition of air carrier shall also include all civil aircraft operators;
+
+(ii) ‘group of air carriers’ shall mean two or more air carriers which together perform joint operations, franchise operations or code-sharing for the purpose of operating a specific air service;
+
+(g) ‘coordinated airport’ shall mean any airport where, in order to land or take off, it is necessary for an air carrier or any other aircraft operator to have been allocated a slot by a coordinator, with the exception of State flights, emergency landings and humanitarian flights;
+
+(h) ‘airport system’ shall mean two or more airports grouped together and serving the same city or conurbation, as indicated in Annex II to Regulation (EEC) No 2408/92;
+
+(i) ‘schedules facilitated airport’ shall mean an airport where there is potential for congestion at some periods of the day, week or year which is amenable to resolution by voluntary cooperation between air carriers and where a schedules facilitator has been appointed to facilitate the operations of air carriers operating services or intending to operate services at that airport;
+
+(j) ‘managing body of an airport’ shall mean the body which, in conjunction with other activities or otherwise, has the task under national laws or regulations of administering and managing the airport facilities and coordinating and controlling the activities of the various operators present at the airport or within the airport system concerned;
+
+(k) ‘series of slots’ shall mean at least five slots having been requested for the same time on the same day of the week regularly in the same scheduling period and allocated in that way or, if that is not possible, allocated at approximately the same time;
+
+(l) ‘business aviation’ shall mean that sector of general aviation which concerns the operation or use of aircraft by companies for the carriage of passengers or goods as an aid to the conduct of their business, where the aircraft are flown for purposes generally considered not for public hire and are piloted by individuals having, at a minimum, a valid commercial pilot license with an instrument rating;
+
+(m) ‘coordination parameters’ shall mean the expression in operational terms of all the capacity available for slot allocation at an airport during each coordination period, reflecting all technical, operational and environmental factors that affect the performance of the airport infrastructure and its different sub-systems;
+
+(n) ‘COVID-19 coordination parameters’ shall mean revised coordination parameters resulting in a reduction of available airport capacity at a coordinated airport as a result of specific sanitary measures imposed by Member States in response to the COVID-19 crisis.
+
+## Article 3 — Conditions for airport coordination
+
+1.
+
+(a) A Member State shall be under no obligation to designate any airport as schedules facilitated or coordinated save in accordance with the provisions of this Article.
+
+(b) A Member State shall not designate an airport as coordinated save in accordance with the provisions of paragraph 3.
+
+2\. A Member State may, however, provide for any airport to be designated as a schedules facilitated airport  provided that principles of transparency, neutrality and non-discrimination are met.
+
+3\. The Member State responsible shall ensure that a thorough capacity analysis is carried out at an airport with no designation status or at a schedules facilitated airport by the managing body of that airport or by any other competent body when that Member State considers it necessary, or within six months:
+
+(i) following a written request from air carriers representing more than half of the operations at an airport or from the managing body of the airport when either considers that capacity is insufficient for actual or planned operations at certain periods; or
+
+(ii) upon request from the Commission, in particular where an airport is in reality accessible only for air carriers that have been allocated slots or where air carriers and in particular new entrants encounter serious problems in securing landing and take off possibilities at the airport in question.
+
+This analysis, based on commonly recognised methods, shall determine any shortfall in capacity, taking into account environmental constraints at the airport in question. The analysis shall consider the possibilities of overcoming such shortfall through new or modified infrastructure, operational changes, or any other change, and the time frame envisaged to resolve the problems. It shall be updated if paragraph 5 has been invoked, or when there are changes at the airport influencing significantly its capacity and capacity usage. Both the analysis and the method used shall be made available to the parties having requested the analysis and, upon request, to other interested parties. The analysis shall be communicated to the Commission at the same time.
+
+4\. On the basis of the analysis, the Member State shall consult on the capacity situation at the airport with the managing body of the airport, the air carriers using the airport regularly, their representative organisations, representatives of general aviation using the airport regularly and air traffic control authorities.
+
+5\. Where capacity problems occur for at least one scheduling period, the Member State shall ensure that the airport is designated as coordinated for the relevant periods only if:
+
+(a) the shortfall is of such a serious nature that significant delays cannot be avoided at the airport, and
+
+(b) there are no possibilities of resolving these problems in the short term.
+
+6\. By way of derogation from paragraph 5, Member States may, in exceptional circumstances, designate as coordinated the airports affected for the appropriate period.
+
+7\. When a capacity sufficient to meet actual or planned operations is provided at a coordinated airport  , its desgination as a fully coordinated airport shall be lifted.
+
+## Article 4 — The schedules facilitator and the coordinator
+
+1\. The Member State responsible for a schedules facilitated or coordinated airport shall ensure the appointment of a qualified natural or legal person as schedules facilitator or airport coordinator respectively after having consulted the air carriers using the airport regularly, their representative organisations and the managing body of the airport and the coordination committee, where such a committee exists. The same schedules facilitator or coordinator may be appointed for more than one airport.
+
+2\. The Member State responsible for a schedules facilitated or coordinated airport shall ensure:
+
+(a) that at a schedules facilitated airport, the schedules facilitator acts under this Regulation in an independent, neutral, non-discriminatory and transparent manner;
+
+(b) the independence of the coordinator at a coordinated airport by separating the coordinator functionally from any single interested party. The system of financing the coordinators' activities shall be such as to guarantee the coordinator's independent status;
+
+(c) that the coordinator acts according to this Regulation in a neutral, non-discriminatory and transparent way.
+
+3\. The schedules facilitator and the coordinator shall participate in such international scheduling conferences of air carriers as are permitted by Community law.
+
+4\. The schedules facilitator shall advise air carriers and recommend alternative arrival and/or departure times when congestion is likely to occur.
+
+5\. The coordinator shall be the sole person responsible for the allocation of slots. He shall allocate the slots in accordance with the provisions of this Regulation and shall make provision so that, in an emergency, slots can also be allocated outside office hours.
+
+6\. The schedules facilitator shall monitor the conformity of air carriers' operations with the schedules recommended to them. The coordinator shall monitor the conformity of air carriers' operations with the slots allocated to them. These conformity checks shall be carried out in cooperation with the managing body of the airport and with the air traffic control authorities and shall take into account the time and other relevant parameters relating to the airport concerned. The coordinator shall submit on request to the Member States concerned and to the Commission an annual activity report, concerning, in particular, the application of Articles 8a and 14, as well as any complaints regarding the application of Articles 8 and 10 submitted to the coordination committee and the steps taken to resolve them.
+
+7\. All schedules facilitators and coordinators shall cooperate to detect inconsistencies in schedules.
+
+8\. The coordinator shall on request and within a reasonable time make available free of charge for review to interested parties, in particular to members or observers of the coordination committee, either in written form or in any other easily accessible form, the following information:
+
+(a) historical slots by airline, chronologically, for all air carriers at the airport,
+
+(b) requested slots (initial submissions), by air carriers and chronologically, for all air carriers,
+
+(c) all allocated slots, and outstanding slot requests, listed individually in chronologcial order, by air carriers, for all air carriers,
+
+(d) remaining available slots,
+
+(e) full details on the criteria being used in the allocation.
+
+9\. The information referred to in paragraph 8 shall be made available at the latest at the time of the relevant scheduling conferences and as appropriate during the conferences and thereafter. On request, the coordinator shall provide such information in a summarised format. A cost-related fee may be charged for the provision of such summarised information.
+
+10\. Where relevant and generally accepted schedules information standards are available, the schedules facilitator, the coordinator and the air carriers shall apply them provided that they comply with Community law.
+
+## Article 5 — Coordination committee
+
+1\. At a coordinated airport, the Member State responsible shall ensure that a coordination committee is set up. The same coordination committee may be designated for more than one airport. Membership of this committee shall be open at least to the air carriers using the airport(s) in question regularly and their representative organisations, the managing body of the airport concerned, the relevant air traffic control authorities and the representatives of general aviation using the airport regularly.
+
+The tasks of the coordination committee shall be:
+
+(a) to make proposals concerning or advise the coordinator and/or the Member State on:
+
+— the possibilities for increasing the capacity of the airport determined in accordance with Article 3 or for improving its usage;
+
+— the coordination parameters to be determined in accordance with Article 6;
+
+— the methods of monitoring the use of allocated slots;
+
+— local guidelines for the allocation of slots or the monitoring of the use of allocated slots, taking into account, inter alia, possible environmental concerns, as provided for in Article 8(5);
+
+— improvements to traffic conditions prevailing at the airport in question;
+
+— serious problems encountered by new entrants, as provided for in Article 10(9);
+
+— all questions relating to the capacity of the airport;
+
+(b) to mediate between all parties concerned on complaints on the allocation of slots, as provided for in Article 11.
+
+2\. Member State representatives and the coordinator shall be invited to the meetings of the coordination committee as observers.
+
+3\. The coordination committee shall draw up written rules of procedure covering, inter alia participation, elections, the frequency of meetings, and language(s) used. Any member of the coordination committee may propose local guidelines as provided for in Article 8(5). At the request of the coordinator, the coordination committee shall discuss suggested local guidelines for the allocation of slots as well as those suggested for the monitoring of the use of allocated slots. A report of the discussions in the coordination committee shall be submitted to the Member State concerned with an indication of the respective positions stated within the committee.
+
+## Article 6 — Coordination parameters
+
+1\. At a coordinated airport the Member State responsible shall ensure the determination of the parameters for slot allocation twice yearly, while taking account of all relevant technical, operational and environmental constraints as well as any changes thereto.
+
+This exercise shall be based on an objective analysis of the possibilities of accommodating the air traffic, taking into account the different types of traffic at the airport, the airspace congestion likely to occur during the coordination period and the capacity situation.
+
+The parameters shall be communicated to the airport coordinator in good time before the initial slot allocation takes place for the purpose of scheduling conferences.
+
+2\. For the purpose of the exercise referred to in paragraph 1, where the Member State does not do so, the coordinator shall define relevant coordination time intervals after consultation of the coordination committee and in conformity with the established capacity.
+
+3\. The determination of the parameters and the methodology used as well as any changes thereto shall be discussed in detail within the coordination committee with a view to increasing the capacity and number of slots available for allocation, before a final decision on the parameters for slot allocation is taken. All relevant documents shall be made available on request to interested parties.
+
+## Article 7 — Information for schedules facilitators and coordinators
+
+1\. Air carriers operating or intending to operate at a schedules facilitated or coordinated airport shall submit to the schedules facilitator or coordinator respectively all relevant information requested by them. All relevant information shall be provided in the format and within the time-limit specified by the schedules facilitator or coordinator. In particular, an air carrier shall inform the coordinator, at the time of the request for allocation, whether it would benefit from the status of new entrant, in accordance with Article 2(b) or (ba), in respect of requested slots.
+
+For all other airports with no particular designation status, the managing body of the airport shall provide, when requested by a coordinator, any information in its possession about the planned services of air carriers.
+
+2\. Where an air carrier fails to provide the information referred to in paragraph 1, unless it can satisfactorily demonstrate that mitigating circumstances exist, or provides false or misleading information, the coordinator shall not take into consideration the slot request or requests by that air carrier to which the missing, false or misleading information relates. The coordinator shall give that air carrier the opportunity to submit its observations.
+
+3\. The schedules facilitator or the coordinator, the managing body of the airport and the air traffic control authorities shall exchange all the information they require for the exercise of their respective duties, including flight data and slots.
+
+## Article 8 — Process of slot allocation
+
+1\. Series of slots are allocated from the slot pool to applicant carriers as permissions to use the airport infrastructure for the purpose of landing or take-off for the scheduling period for which they are requested, at the expiry of which they have to be returned to the slot pool as set up according to the provisions of Article 10.
+
+2\. Without prejudice to Articles 7, 8a and 9, Article 10(1) and Article 14, paragraph 1 of this Article shall not apply when the following conditions are satisfied:
+
+— a series of slots has been used by an air carrier for the operation of scheduled and programmed non-scheduled air services, and
+
+— that air carrier can demonstrate to the satisfaction of the coordinator that the series of slots in question has been operated, as cleared by the coordinator, by that air carrier for at least 80 % of the time during the scheduling period for which it has been allocated.
+
+In such case that series of slots shall entitle the air carrier concerned to the same series of slots in the next equivalent scheduling period, if requested by that air carrier within the time-limit referred to in Article 7(1).
+
+2a. During the period from 30 October 2022 to 28 October 2023, and subject to capacity being available at the airport, a series of slots which was returned to the slot pool in accordance with paragraph 1 of this Article at the end of the scheduling period (the ‘reference scheduling period’) shall, upon request, be allocated for the next equivalent scheduling period to an air carrier which has operated at least five slots of the series in question following the application of Article 10a(7) during the reference scheduling period.
+
+In the event that more than one applicant fulfils the requirements of the first subparagraph, priority shall be given to the air carrier that has operated the greater number of slots of that series.
+
+3\. Without prejudice to Article 10(2), in a situation where all slot requests cannot be accommodated to the satisfaction of the air carriers concerned, preference shall be given to commercial air services and in particular to scheduled services and programmed non-scheduled air services. In the case of competing requests within the same category of services, priority shall be given for year round operations.
+
+4\. Re-timing of series of slots before the allocation of the remaining slots from the pool referred to in Article 10 to the other applicant air carriers shall be accepted only for operational reasons or if slot timings of applicant air carriers would be improved in relation to the timings initially requested. It shall not take effect prior to the express confirmation by the coordinator.
+
+5\. The coordinator shall also take into account additional rules and guidelines established by the air transport industry world-wide or Community-wide as well as local guidelines proposed by the coordination committee and approved by the Member State or any other competent body responsible for the airport in question, provided that such rules and guidelines do not affect the independent status of the coordinator, comply with Community law and aim at improving the efficient use of airport capacity. These rules shall be communicated by the Member State in question to the Commission.
+
+6\. If a requested slot cannot be accommodated, the coordinator shall inform the requesting air carrier of the reasons therefor and shall indicate the nearest available alternative slot.
+
+6a. Within the period during which COVID-19 coordination parameters apply, and in order to enable the proper application of such coordination parameters, the coordinator may, after having heard the air carrier concerned, amend the timing of requested or allocated slots falling within the period from 30 October 2022 to 28 October 2023 or cancel them. In this context, the coordinator shall take into account the additional rules and guidelines referred to in paragraph 5, subject to the conditions set out therein.
+
+7\. The coordinator shall, in addition to the planned slot allocation for the scheduling period, endeavour to accommodate single slot requests with short notice for any type of aviation, including general aviation. To this end, slots remaining in the pool referred to in Article 10 after distribution among the applicant carriers and slots available at short notice may be used.
+
+## Article 8a — Slot mobility
+
+1\. Slots may be:
+
+(a) transferred by an air carrier from one route or type of service to another route or type of service operated by that same air carrier;
+
+(b) transferred:
+
+(i) between parent and subsidiary companies, and between subsidiaries of the same parent company,
+
+(ii) as part of the acquisition of control over the capital of an air carrier,
+
+(iii) in the case of a total or partial take-over when the slots are directly related to the air carrier taken over;
+
+(c) exchanged, one for one, between air carriers.
+
+2\. The transfers or exchanges referred to in paragraph 1 shall be notified to the coordinator and shall not take effect prior to the express confirmation by the coordinator. The coordinator shall decline to confirm the transfers or exchanges if they are not in conformity with the requirements of this Regulation and if the coordinator is not satisfied that:
+
+(a) airport operations would not be prejudiced, taking into account all technical, operational and environmental constraints;
+
+(b) limitations imposed according to Article 9 are respected;
+
+(c) a transfer of slots does not fall within the scope of paragraph 3.
+
+3.
+
+(a) Slots allocated to a new entrant as defined in Article 2(b) or (ba) may not be transferred as provided for in paragraph 1(b) of this Article for a period of two equivalent scheduling periods, except in the case of a legally authorised takeover of the activities of a bankrupt undertaking.
+
+(b) Slots allocated to a new entrant as defined in Article 2(b)(ii) and (iii) or in Article 2(ba)(ii) may not be transferred to another route as provided for in paragraph 1(a) of this Article for a period of two equivalent scheduling periods unless the new entrant would have been treated with the same priority on the new route as on the initial route.
+
+(c) Slots allocated to a new entrant as defined in Article 2(b) or (ba) may not be exchanged as provided for in paragraph 1(c) of this Article for a period of two equivalent scheduling periods, except in order to improve the slot timings for these services in relation to the timings initially requested.
+
+## Article 8b — Exclusion of compensation claims
+
+The entitlement to series of slots referred to in Article 8(2) shall not give rise to any claims for compensation in respect of any limitation, restriction or elimination thereof imposed under Community law, in particular in application of the rules of the Treaty relating to air transport. This Regulation shall not affect the powers of public authorities to require the transfer of slots between air carriers and to direct how these are allocated pursuant to national competition law or to Articles 81 or 82 of the Treaty or Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations between undertakings ( 2 ). These transfers can only take place without monetary compensation.
+
+## Article 9 — Public service obligations
+
+1\. Where public service obligations have been imposed on a route in accordance with Article 4 of Regulation (EEC) No 2408/92, a Member State may reserve at a coordinated airport the slots required for the operations envisaged on that route. If the reserved slots on the route concerned are not used, they shall be made available to any other air carrier interested in operating the route in accordance with the public service obligations, subject to paragraph 2. If no other carrier is interested in operating the route and the Member State concerned does not issue a call for tenders under Article 4(1)(d) of Regulation (EEC) No 2408/92, the slots shall either be reserved for another route subject to public service obligations or be returned to the pool.
+
+2\. The tender procedure established in Article 4(1)(d) to (g) and 4(1)(i) of Regulation (EEC) No 2408/92 shall be applied for the use of the slots referred to in paragraph 1 above if more than one Community air carrier is interested in serving the route and has not been able to obtain slots within one hour before or after the times requested from the coordinator.
+
+## Article 10 — Slot pool
+
+1\. The coordinator shall set up a pool, which shall contain all the slots not allocated on the basis of Article 8(2) and 8(4). All new slot capacity determined pursuant to Article 3(3) shall be placed in the pool.
+
+2\. A series of slots that has been allocated to an air carrier for the operation of a scheduled or a programmed non-scheduled air service shall not entitle that air carrier to the same series of slots in the next equivalent scheduling period if the air carrier cannot demonstrate to the satisfaction of the coordinator that they have been operated, as cleared by the coordinator, by that air carrier for at least 80 % of the time during the scheduling period for which they have been allocated.
+
+3\. Slots allocated to an air carrier before 31 January for the following summer season, or before 31 August for the following winter season, but which are returned to the coordinator for reallocation before those dates shall not be taken into account for the purposes of the usage calculation.
+
+4\. If the 80 % usage of the series of slots cannot be demonstrated, all the slots constituting that series shall be placed in the slot pool, unless the non-utilisation can be justified on the basis of any of the following reasons:
+
+(a) unforeseeable and unavoidable circumstances outside the air carrier's control leading to:
+
+— grounding of the aircraft type generally used for the air service in question;
+
+— closure of an airport or airspace;
+
+— serious disturbance of operations at the airports concerned, including those series of slots at other Community airports related to routes which have been affected by such disturbance, during a substantial part of the relevant scheduling period;
+
+(b) interruption of air services due to action intended to affect these services which makes it practically and/or technically impossible for the air carrier to carry out operations as planned;
+
+(c) serious financial damage for a Community air carrier concerned, with, as a result, the granting of a temporary license by the licensing authorities pending financial reorganisation of the air carrier in accordance with Article 5(5) of Regulation (EEC) No 2407/92;
+
+(d) judicial proceedings concerning the application of Article 9 of this Regulation for routes where public service obligations have been imposed according to Article 4 of Regulation (EEC) No 2408/92 resulting in the temporary suspension of the operation of such routes;
+
+Where the impact of Russia’s war of aggression against Ukraine and the destruction of critical infrastructure affects the ability to provide air services, as well as demand for air services, coordinators shall apply the first subparagraph, point (a), to the routes between the Union and Ukraine for the duration of the airspace closure or airport closure, whichever occurs later, and an additional period of 16 weeks. The coordinator shall notify the Commission of the start date and end date of the 16-week period.
+
+4a. In addition, during the period from 30 October 2022 to 28 October 2023, the non-utilisation of a slot may also be justified by the introduction, by public authorities, of restrictions intended to address any major epidemiological situation, natural disaster or political unrest at one end of a route for which the slot in question was operated or planned to be operated, on condition that those restrictions significantly impact the possibility of, or demand for, travel, and that, on the routes concerned, the restrictions lead to any of the following:
+
+(a) a partial or total closure of the border, airport or airspace during a substantial part of the relevant scheduling period;
+
+(b) a severe impediment to the ability of passengers to travel with any carrier on that direct route during a substantial part of the relevant scheduling period, for example, where the impediment is linked to any of the following reasons:
+
+— travel restrictions based on nationality or place of residence, the prohibition of all except essential travel, or bans on flights from or to certain countries or geographical areas,
+
+— restrictions of movement, or quarantine or isolation measures, within the country or region where the airport of destination is located (including intermediate points), unless quarantine can be avoided by a negative test, proof of recovery or proof of vaccination recognised by the Union,
+
+— restrictions on the availability of services essential to directly support the operation of an air service, including the closure of hospitality and public services, including transport, leading to a severe downturn in demand at either end of the route,
+
+— limitations on number of passengers per flight and frequencies per air carrier leading to a severe downturn in demand at either end of the route;
+
+(c) restrictions on airline crew movements that significantly hamper the operation of air services to or from the airports served, including sudden bans on entry or the unexpected stranding of crew due to quarantine measures, unless quarantine can be avoided by a negative test, proof of recovery or vaccination recognised by the Union.
+
+This paragraph shall apply for the period in which the restrictions referred to in the first subparagraph apply and for up to 6 additional weeks, subject to the third and fourth subparagraphs. However, where those restrictions cease to apply less than 6 weeks before the end of a scheduling period, this paragraph shall apply to the remainder of the 6-week period only where the slots in the subsequent scheduling period are used for the same route.
+
+This paragraph shall only apply to slots used for routes for which they were already used prior to the publication of the restrictions referred to in the first subparagraph.
+
+This paragraph shall cease to apply where the air carrier, using the slots in question, changes to a route not affected by the restrictions referred to in the first subparagraph.
+
+When a majority of Member States representing at least 50 % of the population of the Union apply restrictions referred to in the first subparagraph which significantly impact the possibility of, or demand for, travel and lead to any of the situations referred to in points (a) to (c) of the first subparagraph, each coordinator may, following a unanimous decision by coordinators of all Community coordinated airports to the effect that non-utilisation of slots is justified in general and its notification by them to the Commission and the Member States, apply this paragraph to all slots held at such airports for the duration of the restrictions that are in force and for up to 6 additional weeks, provided that those restrictions affect a significant number of routes to or from a Community airport, thereby rendering air traffic in the Union to a large extent unviable or leading to an uneven level playing field.
+
+4b. When the non-utilisation of a slot is justified by the restrictions referred to in paragraph 4 or 4a, the coordinators shall consider that the slot was operated within the series of slots concerned.
+
+4c. Air carriers whose operations are impeded by restrictive measures adopted pursuant to Article 29 of the Treaty on European Union (TEU) or Article 215 of the Treaty on the Functioning of the European Union (TFEU), including those in force on 26 October 2022 and air carriers subject to an operating ban within the Union which are listed in Annex A or B to Commission Regulation (EC) No 474/2006 ( 3 ) shall not be entitled to invoke a justification for the non-utilisation of slots under paragraphs 4 and 4a of this Article.
+
+However, by way of derogation from the first subparagraph, where such air carriers are permitted to operate wet-leased aircraft of an air carrier whose operations are not impeded by such restrictive measures and which is not subject to such an operating ban, they may invoke a justification for the non-utilisation of slots under paragraphs 4 and 4a, provided that safety rules applicable in the Union are complied with.
+
+4d. Coordinators shall regularly exchange best practices on the implementation of paragraphs 4 and 4a with the aim of ensuring coherent and consistent application across the Union.
+
+Coordinators shall publish and regularly update the list of destinations to which paragraphs 4 and 4a apply.
+
+5\. At the request of a Member State or on its own initiative, the Commission shall examine the application of paragraphs 4 and 4a by the coordinator of an airport falling within the scope of this Regulation.
+
+6\. Without prejudice to Article 8(2) of this Regulation and without prejudice to Article 8(1) of Regulation (EEC) No 2408/92, slots placed in the pool shall be distributed among applicant air carriers. 50 % of these slots shall first be allocated to new entrants unless requests by new entrants are less than 50 %. The coordinator shall treat the requests of new entrants and other carriers fairly, in accordance with the coordination periods of each scheduling day.
+
+Among requests from new entrants, preference shall be given to air carriers qualifying for new entrant status under Article 2(b)(i) and (ii), Article 2(b)(i) and (iii) or Article 2(ba)(i) and (ii).
+
+7\. A new entrant which has been offered a series of slots within one hour before or after the time requested but has not accepted this offer shall not retain its new entrant status for that scheduling period.
+
+8\. In the case of services operated by a group of air carriers, only one of the participating air carriers can apply for the required slots. The air carrier operating such a service assumes responsibility for meeting the operating criteria required to maintain historical precedence referred to in Article 8(2).
+
+Slots allocated to one air carrier may be used by (an)other air carrier(s) participating in a joint operation, provided that the designator code of the air carrier to whom the slots are allocated remains on the shared flight for coordination and monitoring purposes. Upon discontinuation of such operations, the slots so used will remain with the air carrier to whom they were initially allocated. Air carriers involved in shared operations shall advise coordinators of the detail of such operations prior to the beginning of such operations.
+
+9\. If serious problems continue to exist for new entrants, the Member State shall ensure that a meeting of the airport coordination committee is convened. The purpose of the meeting shall be to examine possibilities for remedying the situation. The Commission shall be invited to that meeting.
+
+## Article 10a — Allocation of slots in response to certain crisis situations
+
+3\. During the period from 30 October 2022 until 25 March 2023 and for the purposes of Article 8(2), Article 10(2) and (4) and Article 14(6), first subparagraph, if an air carrier demonstrates to the satisfaction of the coordinator that it has operated the series of slots that was allocated to it, as cleared by the coordinator, for at least 75 % of the time during the scheduling period for which it has been allocated, that air carrier shall be entitled to the same series of slots for the next equivalent scheduling period.
+
+5\. Where data published by Eurocontrol clearly shows that weekly air traffic, over a period of 2 consecutive weeks, has fallen below 80 % of 2019 levels of the corresponding weeks, due to COVID-19 crisis, other epidemiological situations or as a direct effect of Russia’s war of aggression against Ukraine, and that, on the basis of Eurocontrol traffic forecasts, the reduction in the level of air traffic as compared to the level in the corresponding period in 2019 is likely to persist, the Commission is empowered to adopt delegated acts in accordance with Article 12a to amend the percentage values set out in paragraph 3 of this Article and in Article 8(2), Article 10(2) and (4) and Article 14(6), first subparagraph, within a range between 0 % and 70 % for any scheduling period falling between 30 October 2022 and 28 October 2023. The percentage value applied shall be proportionate to the level of air traffic forecasts by Eurocontrol.
+
+When adopting those delegated acts, the Commission shall have regard to all the following elements:
+
+(a) data published by Eurocontrol on traffic levels and traffic forecasts;
+
+(b) indicators relating to demand for passenger and cargo air transport, including trends regarding forward bookings, airlines planned schedules, fleet size, fleet utilisation, and load factors;
+
+(c) measures by public authorities linked to the COVID-19 crisis or another epidemiological situation resulting in an significant effect on air traffic levels to or from Union airports, forced re-routings due to airspace closures or a prohibition on Union air carriers to enter a third-country airspace, taking into account advice from the European Union Aviation Safety Agency in its Conflict Zone Information Bulletin;
+
+(d) data from the European Centre for Disease Control and the World Health Organisation on COVID-19 or another epidemiological situation characterised as highly contagious and likely to induce a severe downturn in air travel.
+
+In view of the preparation of schedules by air carriers ahead of the scheduling period, the Commission shall endeavour to adopt those delegated acts pursuant to this paragraph before the start of the scheduling period, in order to allow air carriers to plan their flight schedules. The Commission may adopt such acts during the scheduling period in case of unforeseen circumstances.
+
+5a. Where the Commission finds that due to the destruction of infrastructure and impact on living conditions as a result of Russia’s war of aggression against Ukraine, the gradual restoration of air traffic between Ukraine and the Union requires a lower use rate for routes serving Ukraine, the Commission is empowered to adopt delegated acts in accordance with Article 12a to amend the percentage values set out in paragraph 3 of this Article and in Article 8(2), Article 10(2) and (4) and Article 14(6), first subparagraph, within a range between 0 % and 70 % for slots used on routes to or from Ukraine for any scheduling period falling between 30 October 2022 and 28 October 2023.
+
+When adopting those delegated acts, the Commission shall have regard to the following elements:
+
+(a) data published by Eurocontrol on traffic levels and traffic forecasts on routes between the Union and Ukraine;
+
+(b) indicators relating to demand for passenger and cargo air transport, including trends in forward bookings and planned airline schedules;
+
+(c) forced re-routings due to airspace closures or prohibition on Union air carriers to enter a third country airspace taking into account advice from the European Union Aviation Safety Agency in its Conflict Zone Information Bulletin.
+
+6\. Where, as a result of the prolonged impact of the COVID-19 crisis, of other epidemiological situations or of the direct effects of Russia’s war of aggression against Ukraine, imperative grounds of urgency so require, the procedure provided for in Article 12b shall apply to delegated acts adopted pursuant to this Article.
+
+7\. During a period where slot relief applies according to paragraph 3, 5 or 5a of this Article, air carriers shall make available to the coordinator, for reallocation to other air carriers, any slot that they do not intend to use, no less than 3 weeks before the date of intended operation. Without prejudice to Article 10(4) and (4a), where an air carrier fails to make available to the coordinator more than three slots in a series in accordance with this paragraph, that carrier shall be entitled to the entire series of slots in the next equivalent scheduling period only if the entire series of slots has been operated, or if the entire series of slots has been deemed to have been operated in accordance with Article 10(4b), by the carrier for at least 80 % of the time, regardless of whether Article 8(2) and Article 10(2) have been amended by the delegated act referred to in this Article.
+
+## Article 11 — Complaints and rights of appeal
+
+1\. Without prejudice to rights of appeal under national law, complaints regarding the application of Article 7(2), Articles 8, 8a and 10, Article 10a(7), Article 14(1) to (4) and Article 14(6) shall be submitted to the coordination committee. The committee shall, within a period of 1 month following submission of the complaint, consider the matter and if possible make proposals to the coordinator in an attempt to resolve the problem. If the complaint cannot be settled, the Member State responsible may, within a further 2-month period, provide for mediation by an air carriers’ or airports’ representative organisation or other third party.
+
+2\. Member States shall take appropriate measures, in accordance with national law, to protect coordinators with regard to claims for damages relating to their functions under this Regulation, save in cases of gross negligence or wilful misconduct.
+
+## Article 12 — Relations with third countries
+
+1\. Whenever it appears that, with respect to the allocation and use of slots at its airports, a third country:
+
+(a) does not grant Community air carriers treatment comparable to that granted by this Regulation to air carriers from that country, or
+
+(b) does not grant Community air carriers de facto national treatment, or
+
+(c) grants air carriers from other third countries more favourable treatment than Community air carriers,
+
+the Commission may, in accordance with the procedure referred to in Article 13(2), decide that a Member State or Member States shall take measures, including the suspension in whole or in part of the application of this Regulation in respect of an air carrier or air carriers of that third country with a view to remedying the discriminatory behaviour of the third country concerned.
+
+2\. Member States shall inform the Commission of any serious difficulties encountered, in law or in fact, by Community air carriers in obtaining slots at airports in third countries.
+
+## Article 12a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 10a shall be conferred on the Commission until 28 October 2023.
+
+3\. The delegation of power referred to in Article 10a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 10a shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 12b — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 12a(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+## Article 13 — Committee procedure
+
+1\. The Commission shall be assisted by a committee.
+
+2\. Where reference is made to this paragraph Articles 5 and 7 of Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred to the Commission ( 4 ) shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. The committee may also be consulted by the Commission on any other matter concerning application of this Regulation.
+
+4\. The committee shall adopt its rules of procedure.
+
+## Article 14 — Enforcement
+
+1\. An air carrier's flight plan may be rejected by the competent Air Traffic Management authorities if the air carrier intends to land or take off at a coordinated airport, during the periods for which it is coordinated, without having a slot allocated by the coordinator.
+
+2\. The coordinator shall withdraw the series of slots provisionally allocated to an air carrier in the process of establishing itself and place them in the pool on 31 January for the following summer season or on 31 August for the following winter season if the undertaking does not hold an operating licence or equivalent on that date or if it is not stated by the competent licensing authority that it is likely that an operating licence or equivalent will be issued before the relevant scheduling period commences.
+
+3\. The coordinator shall withdraw and place in the pool the series of slots of an air carrier, which it has received following an exchange pursuant to Article 8a(1)(c) if they have not been used as intended.
+
+4\. Air carriers that repeatedly and intentionally operate air services at a time significantly different from the allocated slot as part of a series of slots or uses slots in a significantly different way from that indicated at the time of allocation and thereby cause prejudice to airport or air traffic operations shall lose their status as referred to in Article 8(2). The coordinator may decide to withdraw from that air carrier the series of slots in question for the remainder of the scheduling period and place them in the pool after having heard the air carrier concerned and after issuing a single warning.
+
+5\. Member States shall establish and apply effective, proportionate and dissuasive penalties or equivalent measures to air carriers who repeatedly and intentionally fail to comply with this Regulation.
+
+6\. Without prejudice to Article 10(4) and (4a), if the 80 % usage rate as defined in Article 8(2) cannot be achieved by an air carrier, the coordinator may decide to withdraw from that air carrier the series of slots in question for the remainder of the scheduling period and place them in the pool after having heard the air carrier concerned.
+
+Without prejudice to Article 10(4) and (4a), if after an allotted time corresponding to 20 % of the period of the series validity no slots of that series of slots have been used, the coordinator shall place the series of slots in question in the pool for the remainder of the scheduling period, after having heard the air carrier concerned.
+
+During the period from 30 October 2022 until 28 October 2023, when a coordinator determines, on the basis of information at its disposal, that an air carrier has ceased its operations at an airport and is no longer able to operate the slots which it has been allocated, the coordinator shall withdraw from that air carrier the series of slots in question for the remainder of the scheduling period and place them in the pool, after having heard the air carrier concerned.
+
+During the period from 30 October 2022 until 28 October 2023, when a coordinator determines, on the basis of information at its disposal, that an air carrier that is subject to the restrictive measures adopted pursuant to Article 29 TEU or Article 215 TFEU, including those in force on 26 October 2022, or an air carrier that is subject to an operating ban within the Union and is listed in Annex A or B to Regulation (EC) No 474/2006, is not able to operate slots for a substantial part of the scheduling period, the coordinator shall, after having heard the air carrier concerned, withdraw from that air carrier the series of slots in question for the remainder of the scheduling period and place them in the pool.
+
+However, where an air carrier is subject to an operating ban within the Union and is listed in Annex A or B to Regulation (EC) No 474/2006, and is permitted to operate wet-leased aircraft of an air carrier whose operations are not impeded by such restrictive measures and which is not subject to such an operating ban, the fourth subparagraph of this paragraph shall not apply to that carrier’s slots, provided that safety rules applicable in the Union are complied with.
+
+## Article 14a — Report and cooperation
+
+1\. The Commission shall submit a report to the European Parliament and the Council on the operation of this Regulation at the latest three years after its entry into force. The report shall address in particular the functioning of Articles 8, 8a and 10.
+
+2\. Member States and the Commission shall cooperate in the application of this Regulation, particularly as regards the collection of information for the report mentioned in paragraph 1.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the thirtieth day following that of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ No L 240, 24.8.1992, p. 1.
+
+( 2 ) OJ L 395, 30.12.1989, p. 1. Regulation as last amended by Regulation (EC) No 1310/97 (OJ L 180, 9.7.1997, p. 1).
+
+( 3 ) Commission Regulation (EC) No 474/2006 of 22 March 2006 establishing the Community list of air carriers which are subject to an operating ban within the Community referred to in Chapter II of Regulation (EC) No 2111/2005 of the European Parliament and of the Council (OJ L 84, 23.3.2006, p. 14).
+
+( 4 ) OJ L 184, 17.7.1999, p. 23.

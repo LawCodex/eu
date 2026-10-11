@@ -1,0 +1,562 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/776 of 11 May 2021 establishing templates for certain forms as well as technical rules for the effective exchange of information under Regulation (EU) 2018/1672 of the European Parliament and of the Council on controls on cash entering or leaving the Union"
+identifier: "32021R0776"
+eli: "http://data.europa.eu/eli/reg_impl/2021/776/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-05-11
+entry_into_force: 2021-06-20
+last_amended: 2021-05-12
+consolidated_version: "02021R0776-20210512"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0776-20210512"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/776 of 11 May 2021 establishing templates for certain forms as well as technical rules for the effective exchange of information under Regulation (EU) 2018/1672 of the European Parliament and of the Council on controls on cash entering or leaving the Union
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/776**
+
+**of 11 May 2021**
+
+**establishing templates for certain forms as well as technical rules for the effective exchange of information under Regulation (EU) 2018/1672 of the European Parliament and of the Council on controls on cash entering or leaving the Union**
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/776**
+
+**of 11 May 2021**
+
+**establishing templates for certain forms as well as technical rules for the effective exchange of information under Regulation (EU) 2018/1672 of the European Parliament and of the Council on controls on cash entering or leaving the Union**
+
+## Article 1 — Declaration form
+
+The declaration form referred to in Article 3(3) of Regulation (EU) 2018/1672 (‘declaration form’) shall comply with the template set out in Part 1 of Annex I to this Regulation and shall be completed in accordance with the notes on completion specified therein.
+
+## Article 2 — Disclosure form
+
+The disclosure form referred to in Article 4(3) of Regulation (EU) 2018/1672 (‘disclosure form’) shall comply with the template set out in Part 2 of Annex I to this Regulation and shall be completed in accordance with the notes on completion specified therein.
+
+## Article 3 — Additional sheets to the forms
+
+Where the space available on the declaration form or the disclosure form, as the case may be, is not sufficient, additional sheets as in the templates set out in Part 3 or Part 4 of Annex I, respectively, shall be used. Where additional sheets are attached to a declaration or a disclosure form, they shall be deemed to be an integral part of it.
+
+## Article 4 — Forms for official use
+
+1\. Competent authorities shall use the form for official use as in the template set out in Part 1 of Annex II to this Regulation to record and transmit the information referred to in Article 10(1)(a), (b) and (c) of Regulation (EU) 2018/1672.
+
+2\. Where the obligation to declare accompanied cash under Article 3 of Regulation (EU) 2018/1672 or the obligation to disclose unaccompanied cash under Article 4 of that Regulation has not been fulfilled and competent authorities are required, pursuant to Article 5(3) of that Regulation, to compose an ex officio declaration, they shall use the template set out in Part 1 or Part 2 of Annex I to this Regulation and, if needed in accordance with Article 3 of this Regulation, the template set out in Part 3 or Part 4 of that Annex, respectively. A declaration composed pursuant to this paragraph shall be attached to and transmitted with the form for official use referred to in paragraph 1.
+
+3\. Where the competent authorities detect a carrier with an amount of cash below the threshold referred to in Article 3 of Regulation (EU) 2018/1672 and there are indications that the cash is related to criminal activity, the competent authorities shall use the template set out in Part 1 of Annex I to this Regulation and, if needed in accordance with Article 3 of this Regulation, the template set out in Part 3 of that Annex to record this information. The recording of information pursuant to this paragraph shall be attached to and transmitted with the form for official use referred to in paragraph 1.
+
+4\. Where the competent authorities find that unaccompanied cash below the threshold referred to in Article 4 of Regulation (EU) 2018/1672 is entering or leaving the Union and that there are indications that the cash is related to criminal activity, the competent authorities shall use the template set out in Part 2 of Annex I to this Regulation and, if needed in accordance with Article 3 of this Regulation, the template set out in Part 4 of that Annex to record this information. The recording of information, pursuant to this paragraph shall be attached to and transmitted with the form for official use referred to in paragraph 1.
+
+5\. Where the competent authorities find that for a declaration obtained under Article 3 or 4 of Regulation (EU) 2018/1672 there are indications that the cash is related to criminal activity, the competent authorities shall attach the declaration to and transmit it with the form for official use referred to in paragraph 1.
+
+6\. Competent authorities shall use the form for official use for the transmission of anonymised risk information and risk analysis results, as in the template set out in Part 2 of Annex II to this Regulation to record the anonymised risk information and risk analysis results referred to in Article 10(1)(d) of Regulation (EU) 2018/1672.
+
+## Article 5 — Exchange of information via the Customs Information System
+
+1\. The competent authorities shall transmit the information recorded in accordance with Articles 3 and 4, Article 5(3) and Article 6 of Regulation (EU) 2018/1672 to the Customs Information System (CIS) in any of the following manners:
+
+(a) by manually entering the information via the CIS user web interface;
+
+(b) by exporting the information from the national system(s) and importing it into the CIS using the CIS XML data format;
+
+(c) by connecting the national system(s) directly to CIS via a system to system interface provided by the CIS.
+
+2\. The competent authorities shall transmit the information referred to in Article 9(1) of Regulation (EU) 2018/1672 to the Financial Intelligence Unit (FIU) of the Member State in which it was obtained by transmitting it to the CIS in accordance with paragraph 1.
+
+3\. The competent authorities shall transmit the information referred to in Article 10(1)(a), (b) and (c) of Regulation (EU) 2018/1672 to the other Member States by transmitting it to the CIS in accordance with paragraph 1.
+
+4\. The competent authorities shall transmit the anonymised risk information and risk analysis results referred to in Article 10(1)(d) of Regulation (EU) 2018/1672 electronically via the CIS to the competent authorities of the other Member States.
+
+5\. The competent authorities shall make available the information referred to in Article 10(1) of Regulation (EU) 2018/1672 to the recipients referred to in Article 10(2) of that Regulation, by transmitting it to the CIS in accordance with paragraphs 3 and 4 of this Article, respectively, where there are indications that the cash is related to criminal activity which could adversely affect the financial interests of the Union.
+
+6\. The date of the electronic transmission in accordance with the paragraphs 1, 2, 3 and 4 of this Article shall be considered to be the date of transmission of the information for the purposes of Article 9(3) and Article 10(4) and (5) of Regulation (EU) 2018/1672.
+
+## Article 6 — Anonymised statistical information
+
+1\. The data source for the anonymised statistical information shall be the declarations, the disclosure declarations, ex officio declarations in accordance with Article 5(3) of Regulation (EU) 2018/1672, the recordings in accordance with Article 6 of that Regulation and any other information available in the CIS.
+
+2\. The transmission of the information to the CIS in a way as to make it available to the Commission shall be considered as transmission of the relevant information as provided for in Article 18(1)(c) of Regulation (EU) 2018/1672.
+
+3\. Member States shall ensure that they have transmitted to the CIS information on all declarations, controls and infractions in the reference period in question and they shall notify immediately the Commission in case that data in the CIS are subject to a revision.
+
+## Article 7 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 3 June 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PART 1**
+
+[image]
+
+[image]
+
+[image]
+
+**NOTES ON COMPLETION**
+
+GENERAL INFORMATION
+
+The obligation to declare cash on entering or leaving the EU is part of the EU’s strategy to prevent money laundering and to fight terrorism financing. This declaration form must be completed when entering or leaving the EU and carrying EUR 10 000 or more (or the equivalent in other currencies) in cash (Article 3 of Regulation (EU) 2018/1672 of the European Parliament and of the Council).
+
+If incorrect or incomplete information is provided, or if the cash is not made available for control, the carrier is not considered to have met their obligation and is liable to penalties under the applicable national legislation.
+
+Information and personal data shall be recorded and processed by the competent authorities and shall be made available to the Financial Intelligence Unit (FIU) in accordance with Article 9 of Regulation (EU) 2018/1672. In the cases referred to in Articles 10 and 11 of that Regulation, the data will also be made available to the authorities mentioned there. The competent authorities of the Member State where the declaration is submitted act as controllers of the personal data obtained and will keep personal data collected in line with Article 13 of Regulation (EU) 2018/1672, by default for 5 years. The processing of personal data takes place only for the purposes of the prevention and fight against criminal activities. For complete information, including on your rights, see attached privacy statement/ link to Member State data protection online information.
+
+EXPLANATION OF USED TERMS IN ACCORDANCE WITH REGULATION (EU) 2018/1672
+
+Carrier means any natural person entering or leaving the EU carrying cash on their person, in their luggage or in their means of transport.
+
+Currency means banknotes and coins that are in circulation as a medium of exchange or that have been in circulation as a medium of exchange and can still be exchanged through financial institutions or central banks for banknotes and coins that are in circulation as a medium of exchange.
+
+Bearer-negotiable instruments means instruments other than currency, which entitle their holders to claim a financial amount upon presentation of the instruments without having to prove their identity or entitlement to that amount. Those instruments are:
+
+(a) traveller’s cheques; [and]
+
+(b) cheques, promissory notes or money orders that are either in bearer form, signed but with the payee’s name omitted, endorsed without restriction, made out to a fictitious payee, or otherwise in such form that title thereto passes upon delivery.
+
+Commodities used as highly-liquid stores of value
+
+(a) coins with a gold content of at least 90 %; [and]
+
+(b) bullion such as bars, nuggets or clumps with a gold content of at least 99,5 %.
+
+All fields in the form are mandatory fields and must be completed. Fields in the form marked with an asterisk (*) must be completed, where applicable or available.
+
+All parts in white must be completed in block capital letters and dark ink. Forms must not contain crossing out, overwritten words or other alterations.
+
+The parts marked ‘for official use’ must remain blank.
+
+Personal identification number (i.e. personal tax, social security or similar unique personal identification number), address, postal code / ZIP code, telephone number and email address must be filled in, if applicable. If not applicable, indicate ‘N/A’ instead.
+
+Value Added Tax (VAT) number and Economic operator registration and identification Number (EORI Number -which is a unique number, across the EU, assigned by a customs authority in a Member State to economic operators involved in customs activities) must be filled in where available. If not available indicate ‘N/A’.
+
+Where information is not known to the carrier, indicate ‘unknown’.
+
+The form must be completed in one of the official languages of the EU accepted by the competent authorities of the Member State where the declaration is made.
+
+Section 1: Entering or leaving the EU
+
+Tick the appropriate box to indicate if the carrier is entering or leaving the EU. A declaration on entering and on leaving, is required also if transiting through the EU.
+
+Section 2: Details of the carrier of the cash
+
+The carrier’s personal data must be filled in this section as they appear on their ID document.
+
+Where the carrier of the cash is not legally capable of signing the declaration, the declaration is submitted by the carrier’s legal representative.
+
+Section 3: Transport details
+
+Information on the country of first departure, the country of final destination and the means of transport must be provided. Information on the transit country or countries through which the carrier transfers cash and the transport company must be specified, if applicable.
+
+— Tick box ‘Air’ if entering or leaving the EU by aircraft. The type of aircraft (commercial flight, private jet, other) must be provided. The flight number or aircraft registration number (in case of a private jet) must be provided in field ‘Reference number’.
+
+— Tick box ‘Sea / Fluvial’ if entering or leaving the EU by sea or river. The type of vessel (commercial vessel, yacht or other) must be provided. The vessel’s name must be provided in field “Reference number” and shipping line details must be provided under “Transport company”.
+
+— Tick box ‘Road’ if entering or leaving the EU by any kind of motorised road vehicle. The type of road transport (truck, car, bus, other) must be provided. The country code and licence plate of the vehicle must be provided in the field ‘Reference number’.
+
+— Tick box ‘Rail’ if entering or leaving the EU by train. The train number must be provided in the field ‘Reference number’ and the train company must be provided under ’Transport company’.
+
+— Tick box ‘Other’ if none of the other transport modes is used and specify the type of transport (e.g. pedestrian traffic, bicycle).
+
+Section 4: Details of the cash
+
+The total amount of cash carried by the carrier must be filled in this section. ‘Cash’ is defined under ‘General Information’. At least one of the options [(i) currency; (ii) bearer-negotiable instruments or (iii) commodities used as highly-liquid stores of value] must be filled in.
+
+If there is insufficient space on the declaration form, the additional sheets must be used to provide the details of the cash. All information provided constitutes a single declaration and all additional sheets must be numbered and signed.
+
+Section 5: Economic provenance and intended use of the cash
+
+Subsection 5.A must always be filled in if the carrier is a sole owner or if there is only one owner to indicate the relevant economic provenance.
+
+Subsection 5.B must always be filled in if the carrier is also the sole owner and the sole intended recipient or where there is only one recipient to indicate the intended use of the cash.
+
+It is possible to select more than one option in each Subsection. If no option is applicable, tick box ‘other’ and specify the details.
+
+If there is more than one owner or more than one intended recipient, the relevant information about the economic provenance and intended use of the cash for the owners and/or intended recipients must be filled in on additional sheets as mentioned below. In this case, tick box ‘other’ and specify ‘additional sheets’.
+
+Section 6: Owner of the cash
+
+One owner only
+
+If the carrier is the sole owner of the cash, tick the appropriate box and continue to Section 7.
+
+If the carrier is not the sole owner, specify whether the sole owner is another natural person or a legal person and tick the appropriate box. The details must be filled in Subsection 6.A (for a natural person) or Subsection 6.B (for a legal person) and continue to Section 7. If the owner is a natural person, the personal details must be filled in as they appear on their ID document.
+
+More than one owner
+
+If there is more than one owner, the total number of owners must be filled in the appropriate box. For each additional owner separate additional sheets must be filled in giving their details, the amount of cash owned and its economic provenance and its intended use. If the carrier is one of the owners, an additional sheet must be filled in for them as well, with the amount of cash owned by the carrier and its economic provenance and its intended use. All information provided constitutes a single declaration and all additional sheets must be numbered and signed.
+
+Section 7: Intended recipient of the cash
+
+One intended recipient only
+
+Indicate whether the carrier is the sole intended recipient of the cash. If that is the case, tick the appropriate box and continue to Section 8.
+
+If the carrier is not the sole intended recipient, tick the appropriate box to specify if the sole intended recipient is another natural person or a legal person. The information must be filled in Subsection 7.A (for a natural person) or Subsection 7.B (for a legal person) and continue to Section 8. In case of natural person, the personal data must be filled in as they appear on their ID document.
+
+More than one intended recipient
+
+If there is more than one intended recipient, the total number of intended recipients must be filled in the appropriate box. For each intended recipient separate additional sheets must be filled in giving the details of each intended recipient, the amount of cash to be received and its intended use. If the carrier is one of the intended recipient an additional sheet must be filled in for them as well, including the amount of cash received by the carrier and its intended use. All information provided constitutes a single declaration and all additional sheets must be numbered and signed.
+
+Section 8: Signature
+
+Enter the date, place and name and sign the declaration form. Indicate the total number of additional sheets used. If none has been used, indicate zero (0). The carrier can tick the appropriate box to request an endorsed copy of the declaration.
+
+**PART 2**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**NOTES ON COMPLETION**
+
+GENERAL INFORMATION
+
+The obligation to disclose upon request, cash on entering or leaving the EU is part of the EU’s strategy to prevent money laundering and to fight terrorism financing. The disclosure form must be completed where unaccompanied cash of a value of EUR 10 000 or more (or the equivalent in other currencies) is entering or leaving the EU and the competent authorities of the Member State, through which the cash is entering or leaving the EU, require the sender or the recipient of the cash, or a representative thereof, as the case may be, to make a disclosure declaration within a deadline of 30 days (Article 4 of Regulation (EU) 2018/1672 of the European Parliament and of the Council).
+
+If the disclosure declaration is not made within the 30 days, or if incorrect or incomplete information is provided, or if the cash is not made available for control, the declarant is not considered to have met their obligation and is liable to penalties under the applicable national legislation.
+
+Information and personal data shall be recorded and processed by the competent authorities and shall be made available to the Financial Intelligence Unit (FIU) in accordance with Article 9 of Regulation (EU) 2018/1672. In the cases referred to in Articles 10 and 11 of that Regulation, the data will also be made available to the authorities mentioned there. The competent authorities of the Member State where the disclosure declaration is submitted act as controllers of the personal data obtained and will keep personal data collected in line with Article 13 of Regulation (EU) 2018/1672, by default for 5 years. The processing of personal data takes place only for the purposes of the prevention and fight against criminal activities. For complete information, including on your rights, see attached privacy statement/ link to Member State data protection online information.
+
+EXPLANATIONS OF USED TERMS IN ACCORDANCE WITH REGULATION (EU) 2018/1672
+
+Currency means banknotes and coins that are in circulation as a medium of exchange or that have been in circulation as a medium of exchange and can still be exchanged through financial institutions or central banks for banknotes and coins that are in circulation as a medium of exchange.
+
+Bearer-negotiable instruments means instruments other than currency, which entitle their holders to claim a financial amount upon presentation of the instruments without having to prove their identity or entitlement to that amount. Those instruments are:
+
+(a) traveller’s cheques; [and]
+
+(b) cheques, promissory notes or money orders that are either in bearer form, signed but with the payee’s name omitted, endorsed without restriction, made out to a fictitious payee, or otherwise in such form that title thereto passes upon delivery.
+
+Commodities used as highly-liquid stores of value,
+
+(a) coins with a gold content of at least 90 %; [and]
+
+(b) bullion such as bars, nuggets or clumps with a gold content of at least 99,5 %.
+
+All fields in the form are mandatory fields and must be completed. Fields in the form marked with an asterisk (*) must be completed, where applicable or available.
+
+All parts in white must be completed in block capital letters and dark ink. Forms must not contain crossing out, overwritten words or other alterations.
+
+Parts marked ‘for official use’ must remain blank.
+
+Personal identification number (i.e. personal tax social security or similar unique personal identification number), address, postal code/ZIP code, telephone number and email address must be filled in, if applicable. If not applicable, indicate ‘N/A’ instead.
+
+Value Added Tax (VAT) identification number and Economic operator registration and identification number (EORI Number -which is a unique number, across the EU, assigned by a customs authority in a Member State to economic operators involved in customs activities) must be filled in where available. If not available, indicate ‘N/A’.
+
+Where information is not known to the declarant, indicate ’unknown’.
+
+The form must be completed in one of the official languages of the EU accepted by the competent authorities of the Member State where the declaration is made.
+
+Section 1: Entering or leaving the EU
+
+Tick the appropriate box to indicate if the cash is entering or leaving the EU.
+
+Section 2: Details of the declarant
+
+The declarant’s personal data must be filled in this section as they appear on their ID document.
+
+Where the declarant is not legally capable of signing the disclosure, the disclosure is submitted by the declarant’s legal representative.
+
+Section 3: Details of the cash
+
+The total amount of cash for which the disclosure has been requested must be filled in this section. ‘Cash’ is defined under ‘General Information’. At least one of the options [(i) currency; (ii) bearer-negotiable instruments or (iii) commodities used as highly-liquid stores of value] must be filled in.
+
+If there is insufficient space on the disclosure form, the additional sheets must be used to provide the details of the cash. All information provided constitutes one disclosure and all additional sheets must be numbered and signed.
+
+Section 4: Relationship to unaccompanied cash
+
+Tick the relevant boxes to identify the status of the declarant and their relationship to the cash. More options are possible.
+
+Section 5: Sender of the cash
+
+The information about the sender of the cash must be included in this section, if the declarant is not the sender of the cash. Tick the box to indicate if the sender is a natural person or a legal person. The information about the sender must be filled in Subsection 5.A (for a natural person) or Subsection 5.B (for a legal person). If the sender is a natural person, the personal details must be filled in as they appear on their ID document.
+
+Section 6: Recipient or intended recipient of the cash
+
+One recipient only
+
+When the declarant is not the sole recipient of the cash, information on the recipient or the intended recipient of the cash must be included in this section.
+
+Tick the appropriate box to indicate if there is a sole recipient of the cash and if they are a natural person or a legal person. The information on the sole recipient must be filled in Subsection 6.A (for a natural person) or Subsection 6.B (for a legal person). If the recipient or intended recipient is a natural person, the personal details must be filled in as they appear on their ID document.
+
+More than one recipient or intended recipient
+
+If there is more than one recipient or intended recipient, the total number of recipients or intended recipients must be filled in the appropriate box. For each additional recipient or intended recipient, separate additional sheets must be filled in, giving their details, the amount of cash to be received and its intended use. All information provided constitutes one disclosure and all additional sheets must be numbered and signed.
+
+Section 7: Owner of the cash
+
+One owner only
+
+If the sole owner of the cash is not the sender or the sole recipient of the cash, the details of the sole owner must be included in this section.
+
+Tick the appropriate box to indicate if there is a sole owner of the cash and if the sole owner is a natural person or a legal person. The details of the sole owner must be filled in Subsection 7.A (for a natural person) or Subsection 7.B (for a legal person). If the owner is a natural person, the personal details must be filled in as they appear on their ID document.
+
+More than one owner
+
+If there is more than one owner, the total number of owners must be filled in the appropriate box. For each additional owner, separate additional sheets must be filled in, giving their details, the amount of cash owned, its economic provenance and its intended use. All information provided constitutes one disclosure and all additional sheets must be numbered and signed.
+
+Section 8: Economic provenance and intended use of the cash
+
+Subsection 8.A must always be filled in, if there is a sole owner to indicate the relevant economic provenance.
+
+Subsection 8.B must always be filled in if there is a sole recipient to indicate the intended use of the cash.
+
+It is possible to select more than one option in each Subsection. If no option is applicable, then tick the box ‘other’ and specify the details.
+
+If there is more than one owner or more than one recipient (or intended recipient), the information about the economic provenance and intended use of the cash for the owners and/or the recipients (or intended recipients) must be filled in on additional sheets as mentioned above. In this case, tick the box ‘other’ and specify ‘additional sheets’.
+
+Section 9: Signature
+
+Enter the date, place, name and sign the disclosure. Indicate the total number of additional sheets used. If none has been used, indicate zero (0). The declarant can tick the appropriate box to request an endorsed copy of the disclosure.
+
+**PART 3**
+
+[image]
+
+[image]
+
+**NOTES ON COMPLETION**
+
+General information
+
+The notes on completion of the cash declaration form also apply here.
+
+Section A: Additional sheet number
+
+Additional sheets must be numbered with consecutive numbers (i.e. 1 on the first additional sheet used, 2 on the second etc.).
+
+Indicate the total number of additional sheets used on the second page of the cash declaration form.
+
+Section B: Additional sheet details
+
+State the reason for filling in the additional sheet. Only one option must be ticked. If more options are applicable, use a separate additional sheet for each option.
+
+B.1: Continuation of ‘Details of the cash’: Select this option only when the space available in Section 4 ‘Details of the cash’ on the declaration form is not sufficient for all the cash. Fill in Section C and skip Sections D and E.
+
+B.2: The carrier is the owner and the intended recipient of a part of the cash: Select when the carrier is also the owner and intended recipient of part of the cash. For each other owner and intended recipient a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash owned and the amount of cash to be received.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the carrier.
+
+B.3: The carrier is the owner of part of the cash: Select when the carrier is also the owner of part of the cash. For each other owner a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash owned by the carrier.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the carrier.
+
+B.4: The carrier is the intended recipient of part of the cash: Select when the carrier is also the intended recipient of part of the cash. For each other intended recipient a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash to be received by the carrier.
+
+Indicate in Subsection D.2 the intended use of the cash to be received by the carrier.
+
+B.5: Other owner who is also an intended recipient of part of the cash (other than the carrier): Select when there is more than one owner, and each owner who is also the intended recipient of the cash. For each other owner who is also an intended recipient of the cash a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash owned and to be received by the owner and intended recipient.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the owner and the intended recipient.
+
+The details of the owner and the intended recipient must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+B.6: Owner of part of the cash (other than the carrier): Select when there is more than one owner. For each other owner a separate additional sheet must be filled in.
+
+Indicate in Section C the part of the cash owned by the owner.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the owner.
+
+The details of the owner must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+B.7: Intended recipient of part of the cash (other than the carrier): Select when there is more than one intended recipient. For each intended recipient, a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash to be received by the intended recipient.
+
+Indicate in Subsection D.2 the intended use of the cash to be received by the intended recipient.
+
+The details of the intended recipient must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+Section C: Details of the cash
+
+‘Cash’ is explained under the ‘General information’ on notes on completion of the cash declaration.
+
+Section D: Economic provenance and intended use of the cash
+
+Tick the boxes to indicate the relevant economic provenance and intended use of the cash as indicated in Section B. You can select more than one option. If no option is applicable, then tick box ‘other’ and fill in the details.
+
+Section E: Persons involved
+
+Enter the personal details of the persons involved. These persons can be natural persons or legal persons. You must tick the appropriate box and fill in the details.
+
+Section F: Signature
+
+State the date, place, name, sign and attach the additional sheet to the main cash declaration form. All information provided constitutes one declaration.
+
+**PART 4**
+
+[image]
+
+[image]
+
+**NOTES ON COMPLETION**
+
+General information
+
+The notes on completion of the cash disclosure form also apply here.
+
+Section A: Additional sheet number
+
+Additional sheets must be numbered with consecutive numbers (i.e. 1 on the first additional sheet, 2 on the second etc.).
+
+Indicate the total number of additional sheets used on the second page of the cash disclosure declaration form.
+
+Section B: Additional sheet details
+
+State the reason for filling in the additional sheet. Only one option must be ticked. If more options are applicable, use a separate additional sheet for each option.
+
+B.1: Continuation of ‘Details of the cash’: Select this option only when the space available in Section 3 ‘Details of the cash’ on the disclosure declaration form is not sufficient for all the cash. Fill in Section C and skip Sections D and E.
+
+B.2: Sender and owner of part of the cash: Select this option only when there is more than one owner of the cash and one of them is also the sender of the cash. For each owner a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of the cash owned by the sender.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the amount of the cash owned by the sender.
+
+B.3: Sole recipient and owner of part of the cash: Select when there is more than one owner and one of them is also the sole recipient of the cash. For each additional owner a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash owned by the sole recipient.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the sole recipient.
+
+B.4: Recipient or intended recipient who owns part of the cash: Select when there is more than one owner who is also the recipient (or intended recipient) of the cash. For each additional owner and/or recipient (or intended recipient) a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash that is owned and is to be received by the recipient.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the owner and recipient (or intended recipient).
+
+The details of the owner who is also the recipient (or intended recipient) must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+B.5: Owner of part of the cash: Select when there is more than one owner. For each owner a separate additional sheet must be filled in.
+
+Indicate in Section C the amount of cash owned by the owner.
+
+Indicate in Subsections D.1 and D.2 the economic provenance and the intended use of the cash owned by the owner.
+
+The details of the owner must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+B.6: Recipient or intended recipient of part of the cash: Select when there is more than one recipient (or intended recipient). For each recipient (or intended recipient), a separate additional sheet must be filled in.
+
+Indicate in Section C the part of the cash to be received by the recipient (or intended recipient).
+
+Indicate in Subsection D.2 the intended use of the cash to be received by the recipient (or intended recipient).
+
+The details of the intended recipient must be filled in Subsection E.1 if they are a natural person and in Subsection E.2 if they are a legal person.
+
+Section C: Details of the cash
+
+‘Cash’ is explained under the ‘General information’ section on the notes on completion of the cash disclosure declaration.
+
+Section D: Economic provenance and intended use of the cash
+
+Tick the boxes to indicate the relevant economic provenance and intended use of the cash as indicated in Section B. You can select more than one option. If no option is applicable, then tick box ‘other’ and fill in the details.
+
+Section E: Persons involved
+
+Enter the personal details of the persons involved. These persons can be natural persons or legal persons. You must tick the appropriate box and fill in the details.
+
+Section F: Signature
+
+State the date, place, name, sign and attach the additional sheet to the main cash disclosure declaration form. All information provided constitutes one disclosure declaration.
+
+## ANNEX II
+
+**PART 1**
+
+[image]
+
+**PART 2**
+
+**Form for the exchange of anonymised risk information and risk analysis results in accordance with Article 10(1)(d) of Regulation (EU) 2018/1672**
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**NOTES ON COMPLETION**
+
+This form must be filled in and transmitted every six months in accordance with Article 10(1)(d) and 10(5) of Regulation (EU) 2018/1672 on controls on cash entering or leaving the European Union. It must include information that the Member State considers that it leads to important conclusions or brings significant value added to risk management and where the threat may present a high risk elsewhere in the EU.
+
+**Part A**
+
+Indicate the Member State sending the information, the relevant competent authority and email address.
+
+Provide the reference number in the following format: Member State, year, A (for the first semester) or B (for the second semester).
+
+Complete the date and the reference period.
+
+Indicate whether the Member State is sharing anonymised risk information and risk analysis results for the reference period. If not, then only part A should be uploaded in the Customs Information System (CIS).
+
+Insert the total number of pages being sent (including part A).
+
+**Part B**
+
+Anonymised risk information and risk analysis results that cannot be retrieved directly through CIS based on individual cases is to be provided in this part.
+
+Indicate if the information concerns accompanied or unaccompanied cash.
+
+Indicate if there is a new trend or a repetitive pattern observed and provide further information.
+
+New trend means a recently observed change or a general tendency in the field of physical movement of cash.
+
+Repetitive pattern observed means a pattern or sequence that is recurrent. Indicate if the reporting case(s) was the result of a risk based control or a random check.
+
+Risk-based controls means controls that are based on the cash movements risk criteria, and specifically on risk analysis using data-processing techniques, with the purpose of identifying and evaluating the risks and developing the necessary counter-measures, on the basis of criteria developed at national, Union and, where available, international level.
+
+Random checks means checks carried out that are not based on cash movements risk criteria.
+
+Provide details of case(s) (e.g. special modus operandi in case of similar cases, detailed information on concealment etc.) details on the kind of cash (e.g. high denomination banknotes etc.) and any other non-nominal information considered as important to share.
+
+Indicate if there are pictures attached and their number.
+
+If needed, Part B can be filled in several times for the same reference period.
+
+**Part C**
+
+Part C must be filled in when the Member State has undertaken a risk-oriented project in the field of cash controls within the reference period.
+
+Describe the project that has been undertaken.
+
+Provide information on the specifics of the case, the conclusions reached and any possible remarks. (e.g. on the period, means (e.g. sniffer dogs, scan), scale of its controls etc.).
+
+Provide information on an example case if considered needed.
+
+Indicate if the example case was the result of a risk-based control or a random check.
+
+Indicate if there are pictures attached and their number.
+
+If needed, Part C can be filled in several times depending on the number of the undertaken projects for the same reference period.
+
+**Part D**
+
+Provide information that it is considered important to share, but cannot be included under Parts B or C.
+
+Indicate if there are pictures attached and their number.

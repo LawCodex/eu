@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **concerning indirect taxes on the raising of capital**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2008/7/EC**
 

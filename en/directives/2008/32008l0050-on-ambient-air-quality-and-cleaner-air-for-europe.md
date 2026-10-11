@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on ambient air quality and cleaner air for Europe**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2015/1480 of 28 August 2015 </td><td> L 226</td><td>4</td><td>29.8.2015</td></tr>
+</table>
 
 **DIRECTIVE 2008/50/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -502,6 +504,7 @@ This Directive is addressed to the Member States.
 
 **A. Data quality objectives for ambient air quality assessment**
 
+<table>
 <tbody><tr><td>  </td><td>Sulphur dioxide, nitrogen dioxide and oxides of nitrogen and carbon monoxide</td><td>Benzene</td><td>Particulate matter (PM10/PM2,5) and lead</td><td>Ozone and related NO and NO2</td></tr>
 <tr><td>Fixed measurements (1)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>Uncertainty</td><td>15 %</td><td>25 %</td><td>25 %</td><td>15 %</td></tr>
@@ -522,6 +525,7 @@ This Directive is addressed to the Member States.
 <tr><td>Uncertainty</td><td>75 %</td><td>100 %</td><td>100 %</td><td>75 %</td></tr>
 <tr><td colspan="5">(1)  Member States may apply random measurements instead of continuous measurements for benzene, lead and particulate matter if they can demonstrate to the Commission that the uncertainty, including the uncertainty due to random sampling, meets the quality objective of 25 % and the time coverage is still larger than the minimum time coverage for indicative measurements. Random sampling must be evenly distributed over the year in order to avoid skewing of results. The uncertainty due to random sampling may be determined by the procedure laid down in ISO 11222 (2002) ‘Air Quality — Determination of the Uncertainty of the Time Average of Air Quality Measurements’. If random measurements are used to assess the requirements of the PM10 limit value, the 90,4 percentile (to be lower than or equal to 50 μg/m3) should be evaluated instead of the number of exceedances, which is highly influenced by data coverage.  (2)  Distributed over the year to be representative of various conditions for climate and traffic.  (3)  One day's measurement a week at random, evenly distributed over the year, or eight weeks evenly distributed over the year.  (4)  One measurement a week at random, evenly distributed over the year, or eight weeks evenly distributed over the year. </td></tr>
 </tbody>
+</table>
 
 The uncertainty (expressed at a 95 % confidence level) of the assessment methods will be evaluated in accordance with the principles of the CEN Guide to the Expression of Uncertainty in Measurement (ENV 13005-1999), the methodology of ISO 5725:1994 and the guidance provided in the CEN report ‘Air Quality — Approach to Uncertainty Estimation for Ambient Air Reference Measurement Methods’ (CR 14377:2002E). The percentages for uncertainty in the above table are given for individual measurements averaged over the period considered by the limit value (or target value in the case of ozone), for a 95 % confidence interval. The uncertainty for the fixed measurements shall be interpreted as being applicable in the region of the appropriate limit value (or target value in the case of ozone).
 
@@ -585,11 +589,13 @@ The following upper and lower assessment thresholds will apply:
 
 **3\. Particulate matter (PM10/PM2,5)**
 
+<table>
 <tbody><tr><td>  </td><td>24-hour average PM10</td><td>Annual average PM10</td><td>Annual average PM2,5(1)</td></tr>
 <tr><td>Upper assessment threshold</td><td>70 % of limit value (35 μg/m3, not to be exceeded more than 35 times in any calendar year)</td><td>70 % of limit value (28 μg/m3)</td><td>70 % of limit value (17 μg/m3)</td></tr>
 <tr><td>Lower assessment threshold</td><td>50 % of limit value (25 μg/m3, not to be exceeded more than 35 times in any calendar year)</td><td>50 % of limit value (20 μg/m3)</td><td>50 % of limit value (12 μg/m3)</td></tr>
 <tr><td colspan="4">(1)  The upper assessment threshold and the lower assessment threshold for PM2,5 do not apply to the measurements to assess compliance with the PM2,5 exposure reduction target for the protection of human health. </td></tr>
 </tbody>
+</table>
 
 **4\. Lead**
 
@@ -724,6 +730,7 @@ A. Minimum number of sampling points for fixed measurement to assess compliance 
 
 **1\. Diffuse sources**
 
+<table>
 <tbody><tr><td rowspan="2">Population of agglomeration or zone (thousands) </td><td colspan="2">If maximum concentrations exceed the upper assessment threshold (1)</td><td colspan="2">If maximum concentrations are between the upper and lower assessment thresholds</td></tr>
 <tr><td>Pollutants except PM</td><td>PM (2) (sum of PM10 and PM2,5)</td><td>Pollutants except PM</td><td>PM (2) (sum of PM10 and PM2,5)</td></tr>
 <tr><td>0-249</td><td>1</td><td>2</td><td>1</td><td>1</td></tr>
@@ -739,6 +746,7 @@ A. Minimum number of sampling points for fixed measurement to assess compliance 
 <tr><td>≥ 6 000 </td><td>10</td><td>15</td><td>4</td><td>7</td></tr>
 <tr><td colspan="5">(1)  For nitrogen dioxide, particulate matter, benzene and carbon monoxide: to include at least one urban background monitoring station and one traffic-orientated station provided this does not increase the number of sampling points. For these pollutants, the total number of urban-background stations and the total number of traffic oriented stations in a Member State required under Section A(1) shall not differ by more than a factor of 2. Sampling points with exceedances of the limit value for PM10 within the last three years shall be maintained, unless a relocation is necessary owing to special circumstances, in particular spatial development.  (2)  Where PM2,5 and PM10 are measured in accordance with Article 8 at the same monitoring station, these shall count as two separate sampling points. The total number of PM2,5 and PM10 sampling points in a Member State required under Section A(1) shall not differ by more than a factor of 2, and the number of PM2,5 sampling points in the urban background of agglomerations and urban areas shall meet the requirements under Section B of Annex V. </td></tr>
 </tbody>
+</table>
 
 **2\. Point sources**
 
@@ -824,6 +832,7 @@ AOT40 (expressed in (μg/m3) · hours) means the sum of the difference between h
 
 The following criteria shall be used for checking validity when aggregating data and calculating statistical parameters:
 
+<table>
 <tbody><tr><td>Parameter</td><td>Required proportion of valid data</td></tr>
 <tr><td>One hour values</td><td>75 % (i.e. 45 minutes)</td></tr>
 <tr><td>Eight hours values</td><td>75 % of values (i.e. six hours)</td></tr>
@@ -837,14 +846,17 @@ The following criteria shall be used for checking validity when aggregating data
 </tbody>
 </table>  (*) being the number of hours within the time period of AOT40 definition, (i.e. 08:00 to 20:00 CET from 1 May to 31 July each year, for vegetation protection and from 1 April to 30 September each year for forest protection). </td></tr>
 </tbody>
+</table>
 
 **B. Target values**
 
+<table>
 <tbody><tr><td>Objective</td><td>Averaging period</td><td>Target value</td><td>Date by which target value should be met (1)</td></tr>
 <tr><td>Protection of human health</td><td>Maximum daily eight-hour mean (2)</td><td>120 μg/m3 not to be exceeded on more than 25 days per calendar year averaged over three years (3)</td><td>1.1.2010</td></tr>
 <tr><td>Protection of vegetation</td><td>May to July</td><td>AOT40 (calculated from 1 h values) 18 000 μg/m3 · h averaged over five years (3) </td><td>1.1.2010</td></tr>
 <tr><td colspan="4">(1)  Compliance with target values will be assessed as of this date. That is, 2010 will be the first year the data for which is used in calculating compliance over the following three or five years, as appropriate.  (2)  The maximum daily eight-hour mean concentration shall be selected by examining eight-hour running averages, calculated from hourly data and updated each hour. Each eight -hour average so calculated shall be assigned to the day on which it ends. i.e. the first calculation period for any one day will be the period from 17:00 on the previous day to 01:00 on that day; the last calculation period for any one day will be the period from 16:00 to 24:00 on the day.  (3)  If the three or five year averages cannot be determined on the basis of a full and consecutive set of annual data, the minimum annual data required for checking compliance with the target values will be as follows:  — for the target value for the protection of human health: valid data for one year,  — for the target value for the protection of vegetation: valid data for three years. </td></tr>
 </tbody>
+</table>
 
 **C. Long-term objectives**
 
@@ -859,6 +871,7 @@ The following apply to fixed measurements:
 
 **A. Macroscale siting**
 
+<table>
 <tbody><tr><td>Type of station</td><td>Objectives of measurement</td><td>Representativeness (1)</td><td>Macroscale siting criteria</td></tr>
 <tr><td>Urban</td><td>Protection of human health: to assess the exposure of the urban population to ozone, i.e. where population density and ozone concentration are relatively high and representative of the exposure of the general population </td><td>A few km2</td><td>Away from the influence of local emissions such as traffic, petrol stations, etc.; vented locations where well mixed levels can be measured;  locations such as residential and commercial areas of cities, parks (away from the trees), big streets or squares with very little or no traffic, open areas characteristic of educational, sports or recreation facilities </td></tr>
 <tr><td>Suburban</td><td>Protection of human health and vegetation: to assess the exposure of the population and vegetation located in the outskirts of the agglomeration, where the highest ozone levels, to which the population and vegetation are likely to be directly or indirectly exposed occur </td><td>Some tens of km2</td><td>At a certain distance from the area of maximum emissions, downwind following the main wind direction/directions during conditions favourable to ozone formation; where population, sensitive crops or natural ecosystems located in the outer fringe of an agglomeration are exposed to high ozone levels;  where appropriate, some suburban stations also upwind of the area of maximum emissions, in order to determine the regional background levels of ozone </td></tr>
@@ -866,6 +879,7 @@ The following apply to fixed measurements:
 <tr><td>Rural background</td><td>Protection of vegetation and human health: to assess the exposure of crops and natural ecosystems to regional-scale ozone concentrations as well as exposure of the population </td><td>Regional/national/continental levels (1 000 to 10 000 km2) </td><td>Station located in areas with lower population density, e.g. with natural ecosystems, forests, at a distance of at least 20 km from urban and industrial areas and away from local emissions; avoid locations which are subject to locally enhanced formation of ground-near inversion conditions, also summits of higher mountains;  coastal sites with pronounced diurnal wind cycles of local character are not recommended. </td></tr>
 <tr><td colspan="4">(1)  Sampling points should, where possible, be representative of similar locations not in their immediate vicinity. </td></tr>
 </tbody>
+</table>
 
 For rural and rural background stations the location shall, where appropriate, be coordinated with the monitoring requirements of Commission Regulation (EC) No 1737/2006 of 7 November 2006 laying down detailed rules for the implementation of Regulation (EC) No 2152/2003 of the European Parliament and of the Council concerning monitoring of forests and environmental interactions in the Community ( 2 ).
 
@@ -883,6 +897,7 @@ The procedures in Section D of Annex III shall be followed, applying proper scre
 
 Minimum number of sampling points for fixed continuous measurements to assess compliance with target values, long — term objectives and information and alert thresholds where such measurements are the sole source of information.
 
+<table>
 <tbody><tr><td>Population (× 1 000 )</td><td>Agglomeration (1)</td><td>Other zones (1)</td><td>Rural background</td></tr>
 <tr><td>&lt; 250</td><td>  </td><td>1</td><td rowspan="8">1 station/50 000 km2 as an average density over all zones per country (2)</td></tr>
 <tr><td>&lt; 500</td><td>1</td><td>2</td></tr>
@@ -894,6 +909,7 @@ Minimum number of sampling points for fixed continuous measurements to assess co
 <tr><td>&gt; 3 750 </td><td>One additional station per 2 million inhabitants</td><td>One additional station per 2 million inhabitants</td></tr>
 <tr><td colspan="4">(1)  At least 1 station in areas where exposure of the population to the highest concentrations of ozone is likely to occur. In agglomerations, at least 50 % of the stations shall be located in suburban areas.  (2)  1 station per 25 000 km2 for complex terrain is recommended. </td></tr>
 </tbody>
+</table>
 
 **B. Minimum number of sampling points for fixed measurements for zones and agglomerations attaining the long-term objectives**
 
@@ -931,6 +947,7 @@ Measurements shall be taken in particular in urban or suburban areas at any moni
 
 Without prejudice to Annex I, the following criteria shall be used for checking validity when aggregating data and calculating statistical parameters:
 
+<table>
 <tbody><tr><td>Parameter</td><td>Required proportion of valid data</td></tr>
 <tr><td>One hour values</td><td>75 % (i.e. 45 minutes)</td></tr>
 <tr><td>Eight hours values</td><td>75 % of values (i.e. 6 hours)</td></tr>
@@ -939,9 +956,11 @@ Without prejudice to Annex I, the following criteria shall be used for checking 
 <tr><td>Annual mean</td><td>90 % (1) of the one hour values or (if not available) 24-hour values over the year</td></tr>
 <tr><td colspan="2">(1)  The requirements for the calculation of annual mean do not include losses of data due to the regular calibration or the normal maintenance of the instrumentation. </td></tr>
 </tbody>
+</table>
 
 **B. Limit values**
 
+<table>
 <tbody><tr><td>Averaging Period</td><td>Limit value</td><td>Margin of tolerance</td><td>Date by which limit value is to be met</td></tr>
 <tr><td colspan="4">Sulphur dioxide</td></tr>
 <tr><td>One hour</td><td>350 μg/m3, not to be exceeded more than 24 times a calendar year</td><td>150 μg/m3 (43 %)</td><td>— (1)</td></tr>
@@ -960,6 +979,7 @@ Without prejudice to Annex I, the following criteria shall be used for checking 
 <tr><td>Calendar year</td><td>40 μg/m3</td><td>20 %</td><td>— (1)</td></tr>
 <tr><td colspan="4">(1)  Already in force since 1 January 2005  (2)  The maximum daily eight hour mean concentration will be selected by examining eight hour running averages, calculated from hourly data and updated each hour. Each eight hour average so calculated will be assigned to the day on which it ends i.e. the first calculation period for any one day will be the period from 17:00 on the previous day to 01:00 on that day; the last calculation period for any one day will be the period from 16:00 to 24:00 on that day.  (3)  Already in force since 1 January 2005. Limit value to be met only by 1 January 2010 in the immediate vicinity of the specific industrial sources situated on sites contaminated by decades of industrial activities. In such cases, the limit value until 1 January 2010 will be 1,0 μg/m3. The area in which higher limit values apply must not extend further than 1 000 m from such specific sources. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX XII — INFORMATION AND ALERT THRESHOLDS
 
@@ -974,20 +994,24 @@ To be measured over three consecutive hours at locations representative of air q
 
 **B. Information and alert thresholds for ozone**
 
+<table>
 <tbody><tr><td>Purpose</td><td>Averaging period</td><td>Threshold</td></tr>
 <tr><td>Information</td><td>1 hour</td><td>180 μg/m3</td></tr>
 <tr><td>Alert</td><td>1 hour (1)</td><td>240 μg/m3</td></tr>
 <tr><td colspan="3">(1)  For the implementation of Article 24, the exceedance of the threshold is to be measured or predicted for three consecutive hours. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX XIII — CRITICAL LEVELS FOR THE PROTECTION OF VEGETATION
 
+<table>
 <tbody><tr><td>Averaging period</td><td>Critical level</td><td>Margin of tolerance</td></tr>
 <tr><td colspan="3">Sulphur dioxide</td></tr>
 <tr><td>Calendar year and winter (1 October to 31 March)</td><td>20 μg/m3</td><td>None</td></tr>
 <tr><td colspan="3">Oxides of nitrogen</td></tr>
 <tr><td>Calendar year</td><td>30 μg/m3 NOx</td><td>None</td></tr>
 </tbody>
+</table>
 
 ## ANNEX XIV — NATIONAL EXPOSURE REDUCTION TARGET, TARGET VALUE AND LIMIT VALUE FOR PM2,5
 
@@ -1003,6 +1027,7 @@ The AEI for the year 2015 shall be the three-year running mean concentration ave
 
 **B. National exposure reduction target**
 
+<table>
 <tbody><tr><td colspan="2">Exposure reduction target relative to the AEI in 2010</td><td>Year by which the exposure reduction target should be met</td></tr>
 <tr><td>Initial concentration in μg/m3</td><td>Reduction target in percent</td><td rowspan="6">2020</td></tr>
 <tr><td>&lt; 8,5 = 8,5</td><td>0 %</td></tr>
@@ -1011,6 +1036,7 @@ The AEI for the year 2015 shall be the three-year running mean concentration ave
 <tr><td>= 18 — &lt; 22</td><td>20 %</td></tr>
 <tr><td>≥ 22</td><td>All appropriate measures to achieve 18 μg/m3</td></tr>
 </tbody>
+</table>
 
 Where the AEI in the reference year is 8,5 μg/m3 or less the exposure reduction target shall be zero. The reduction target shall be zero also in cases where the AEI reaches the level of 8,5 μg/m3 at any point of time during the period from 2010 to 2020 and is maintained at or below that level.
 
@@ -1028,6 +1054,7 @@ Where the AEI in the reference year is 8,5 μg/m3 or less the exposure reduction
 
 **E. Limit value**
 
+<table>
 <tbody><tr><td>Averaging period</td><td>Limit value</td><td>Margin of tolerance</td><td>Date by which limit value is to be met</td></tr>
 <tr><td colspan="4">STAGE 1</td></tr>
 <tr><td>Calendar year</td><td>25 μg/m3</td><td>20 % on 11 June 2008, decreasing on the next 1 January and every 12 months thereafter by equal annual percentages to reach 0 % by 1 January 2015</td><td>1 January 2015</td></tr>
@@ -1035,6 +1062,7 @@ Where the AEI in the reference year is 8,5 μg/m3 or less the exposure reduction
 <tr><td>Calendar year</td><td>20 μg/m3</td><td>  </td><td>1 January 2020</td></tr>
 <tr><td colspan="4">(1)  Stage 2 — indicative limit value to be reviewed by the Commission in 2013 in the light of further information on health and environmental effects, technical feasibility and experience of the target value in Member States. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX XV — Information to be included in the local, regional or national air quality plans for improvement in ambient air quality
 

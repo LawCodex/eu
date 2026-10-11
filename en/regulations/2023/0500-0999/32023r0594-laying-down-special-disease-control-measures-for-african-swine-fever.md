@@ -1,0 +1,5318 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/594 of 16 March 2023 laying down special disease control measures for African swine fever and repealing Implementing Regulation (EU) 2021/605 (Text with EEA relevance)"
+identifier: "32023R0594"
+eli: "http://data.europa.eu/eli/reg_impl/2023/594/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-03-16
+entry_into_force: 2024-01-03
+last_amended: 2026-08-26
+consolidated_version: "02023R0594-20260826"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R0594-20260826"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/594 of 16 March 2023 laying down special disease control measures for African swine fever and repealing Implementing Regulation (EU) 2021/605 (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/594**
+
+**of 16 March 2023**
+
+**laying down special disease control measures for African swine fever and repealing Implementing Regulation (EU) 2021/605**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/835 of 19 April 2023 </td><td> L 105</td><td>9</td><td>20.4.2023</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/861 of 26 April 2023 </td><td> L 112</td><td>1</td><td>27.4.2023</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/942 of 8 May 2023 </td><td> L 126</td><td>1</td><td>12.5.2023</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/947 of 11 May 2023 </td><td> L 128</td><td>11</td><td>15.5.2023</td></tr>
+<tr><td> M5</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1080 of 2 June 2023 </td><td> L 144</td><td>14</td><td>5.6.2023</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1300 of 22 June 2023 </td><td> L 161</td><td>1</td><td>27.6.2023</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1407 of 4 July 2023 </td><td> L 170</td><td>3</td><td>5.7.2023</td></tr>
+<tr><td> M8</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1485 of 18 July 2023 </td><td> L 182</td><td>150</td><td>19.7.2023</td></tr>
+<tr><td> M9</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1590 of 1 August 2023 </td><td> L 195</td><td>4</td><td>3.8.2023</td></tr>
+<tr><td> M10</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1643 of 17 August 2023 </td><td> L 206</td><td>10</td><td>21.8.2023</td></tr>
+<tr><td> M11</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1677 of 30 August 2023 </td><td> L 216</td><td>39</td><td>1.9.2023</td></tr>
+<tr><td> M12</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1799 of 19 September 2023 </td><td> L 233</td><td>27</td><td>21.9.2023</td></tr>
+<tr><td> M13</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2396 of 28 September 2023 </td><td> L 2396</td><td>1</td><td>3.10.2023</td></tr>
+<tr><td> M14</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2213 of 16 October 2023 </td><td> L 2213</td><td>1</td><td>18.10.2023</td></tr>
+<tr><td> M15</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2421 of 24 October 2023 </td><td> L 2421</td><td>1</td><td>25.10.2023</td></tr>
+<tr><td> M16</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2469 of 31 October 2023 </td><td> L 2469</td><td>1</td><td>3.11.2023</td></tr>
+<tr><td> M17</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2708 of 28 November 2023 </td><td> L 2708</td><td>1</td><td>29.11.2023</td></tr>
+<tr><td> M18</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2894 of 19 December 2023 </td><td> L 2894</td><td>1</td><td>20.12.2023</td></tr>
+<tr><td> M19</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/413 of 25 January 2024 </td><td> L 413</td><td>1</td><td>26.1.2024</td></tr>
+<tr><td> M20</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/483 of 5 February 2024 </td><td> L 483</td><td>1</td><td>6.2.2024</td></tr>
+<tr><td> M21</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/760 of 23 February 2024 </td><td> L 760</td><td>1</td><td>26.2.2024</td></tr>
+<tr><td> M22</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/808 of 29 February 2024 </td><td> L 808</td><td>1</td><td>1.3.2024</td></tr>
+<tr><td> M23</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/870 of 13 March 2024 </td><td> L 870</td><td>1</td><td>14.3.2024</td></tr>
+<tr><td> M24</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/968 of 21 March 2024 </td><td> L 968</td><td>1</td><td>22.3.2024</td></tr>
+<tr><td> M25</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1171 of 16 April 2024 </td><td> L 1171</td><td>1</td><td>17.4.2024</td></tr>
+<tr><td> M26</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1269 of 29 April 2024 </td><td> L 1269</td><td>1</td><td>30.4.2024</td></tr>
+<tr><td> M27</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1454 of 17 May 2024 </td><td> L 1454</td><td>1</td><td>21.5.2024</td></tr>
+<tr><td> M28</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1661 of 5 June 2024 </td><td> L 1661</td><td>1</td><td>6.6.2024</td></tr>
+<tr><td> M29</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1857 of 28 June 2024 </td><td> L 1857</td><td>1</td><td>1.7.2024</td></tr>
+<tr><td> M30</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1946 of 8 July 2024 </td><td> L 1946</td><td>1</td><td>9.7.2024</td></tr>
+<tr><td> M31</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1994 of 16 July 2024 </td><td> L 1994</td><td>1</td><td>18.7.2024</td></tr>
+<tr><td> M32</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2051 of 23 July 2024 </td><td> L 2051</td><td>1</td><td>24.7.2024</td></tr>
+<tr><td> M33</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2139 of 1 August 2024 </td><td> L 2139</td><td>1</td><td>2.8.2024</td></tr>
+<tr><td> M34</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2160 of 9 August 2024 </td><td> L 2160</td><td>1</td><td>12.8.2024</td></tr>
+<tr><td> M35</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2167 of 19 August 2024 </td><td> L 2167</td><td>1</td><td>20.8.2024</td></tr>
+<tr><td> M36</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2187 of 27 August 2024 </td><td> L 2187</td><td>1</td><td>28.8.2024</td></tr>
+<tr><td> M37</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2425 of 9 September 2024 </td><td> L 2425</td><td>1</td><td>10.9.2024</td></tr>
+<tr><td> M38</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2491 of 16 September 2024 </td><td> L 2491</td><td>1</td><td>18.9.2024</td></tr>
+<tr><td> M39</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2526 of 23 September 2024 </td><td> L 2526</td><td>1</td><td>24.9.2024</td></tr>
+<tr><td> M40</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2656 of 4 October 2024 </td><td> L 2656</td><td>1</td><td>7.10.2024</td></tr>
+<tr><td> M41</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2825 of 29 October 2024 </td><td> L 2825</td><td>1</td><td>31.10.2024</td></tr>
+<tr><td> M42</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2886 of 12 November 2024 </td><td> L 2886</td><td>1</td><td>13.11.2024</td></tr>
+<tr><td> M43</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2928 of 20 November 2024 </td><td> L 2928</td><td>1</td><td>22.11.2024</td></tr>
+<tr><td> M44</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/3245 of 19 December 2024 </td><td> L 3245</td><td>1</td><td>31.12.2024</td></tr>
+<tr><td> M45</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/164 of 23 January 2025 </td><td> L 164</td><td>1</td><td>24.1.2025</td></tr>
+<tr><td> M46</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/268 of 4 February 2025 </td><td> L 268</td><td>1</td><td>6.2.2025</td></tr>
+<tr><td> M47</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/448 of 28 February 2025 </td><td> L 448</td><td>1</td><td>3.3.2025</td></tr>
+<tr><td> M48</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/498 of 11 March 2025 </td><td> L 498</td><td>1</td><td>13.3.2025</td></tr>
+<tr><td> M49</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/624 of 24 March 2025 </td><td> L 624</td><td>1</td><td>25.3.2025</td></tr>
+<tr><td> M50</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/715 of 7 April 2025 </td><td> L 715</td><td>1</td><td>8.4.2025</td></tr>
+<tr><td> M51</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/862 of 30 April 2025 </td><td> L 862</td><td>1</td><td>2.5.2025</td></tr>
+<tr><td> M52</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/902 of 12 May 2025 </td><td> L 902</td><td>1</td><td>14.5.2025</td></tr>
+<tr><td> M53</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1072 of 22 May 2025 </td><td> L 1072</td><td>1</td><td>23.5.2025</td></tr>
+<tr><td> M54</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1242 of 19 June 2025 </td><td> L 1242</td><td>1</td><td>20.6.2025</td></tr>
+<tr><td> M55</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1356 of 8 July 2025 </td><td> L 1356</td><td>1</td><td>9.7.2025</td></tr>
+<tr><td> M56</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1543 of 23 July 2025 </td><td> L 1543</td><td>1</td><td>25.7.2025</td></tr>
+<tr><td> M57</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1725 of 4 August 2025 </td><td> L 1725</td><td>1</td><td>6.8.2025</td></tr>
+<tr><td> M58</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1753 of 18 August 2025 </td><td> L 1753</td><td>1</td><td>20.8.2025</td></tr>
+<tr><td> M59</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1763 of 25 August 2025 </td><td> L 1763</td><td>1</td><td>26.8.2025</td></tr>
+<tr><td> M60</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1882 of 11 September 2025 </td><td> L 1882</td><td>1</td><td>12.9.2025</td></tr>
+<tr><td> M61</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1924 of 19 September 2025 </td><td> L 1924</td><td>1</td><td>22.9.2025</td></tr>
+<tr><td> M62</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2051 of 6 October 2025 </td><td> L 2051</td><td>1</td><td>8.10.2025</td></tr>
+<tr><td> M63</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2189 of 23 October 2025 </td><td> L 2189</td><td>1</td><td>27.10.2025</td></tr>
+<tr><td> M64</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2250 of 4 November 2025 </td><td> L 2250</td><td>1</td><td>5.11.2025</td></tr>
+<tr><td> M65</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2388 of 24 November 2025 </td><td> L 2388</td><td>1</td><td>25.11.2025</td></tr>
+<tr><td> M66</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2629 of 18 December 2025 </td><td> L 2629</td><td>1</td><td>19.12.2025</td></tr>
+<tr><td> M67</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/97 of 9 January 2026 </td><td> L 97</td><td>1</td><td>12.1.2026</td></tr>
+<tr><td> M68</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/229 of 26 January 2026 </td><td> L 229</td><td>1</td><td>27.1.2026</td></tr>
+<tr><td> M69</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/280 of 2 February 2026 </td><td> L 280</td><td>1</td><td>3.2.2026</td></tr>
+<tr><td> M70</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/483 of 25 February 2026 </td><td> L 483</td><td>1</td><td>27.2.2026</td></tr>
+<tr><td> M71</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/568 of 10 March 2026 </td><td> L 568</td><td>1</td><td>11.3.2026</td></tr>
+<tr><td> M72</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/767 of 26 March 2026 </td><td> L 767</td><td>1</td><td>27.3.2026</td></tr>
+<tr><td> M73</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/985 of 24 April 2026 </td><td> L 985</td><td>1</td><td>27.4.2026</td></tr>
+<tr><td> M74</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1136 of 20 May 2026 </td><td> L 1136</td><td>1</td><td>21.5.2026</td></tr>
+<tr><td> M75</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1192 of 28 May 2026 </td><td> L 1192</td><td>1</td><td>29.5.2026</td></tr>
+<tr><td> M76</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1409 of 19 June 2026 </td><td> L 1409</td><td>1</td><td>24.6.2026</td></tr>
+<tr><td> M77</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1795 of 16 July 2026 </td><td> L 1795</td><td>1</td><td>20.7.2026</td></tr>
+<tr><td> M78</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1908 of 30 July 2026 </td><td> L 1908</td><td>1</td><td>31.7.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1961 of 24 August 2026 </td><td> L 1961</td><td>1</td><td>25.8.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/594**
+
+**of 16 March 2023**
+
+**laying down special disease control measures for African swine fever and repealing Implementing Regulation (EU) 2021/605**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+#### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules on:
+
+(a) special disease control measures regarding African swine fever to be applied for a limited period of time by the Member States ( 1 ) which are listed or which have areas listed in Annex I and II (the Member States concerned).
+
+Those special disease control measures apply to kept and wild porcine animals and to products obtained from porcine animals in addition to the measures applicable in the protection, surveillance, further restricted and infected zones established by the competent authorities of those Member States in accordance with Article 21(1) and Article 63 of Delegated Regulation (EU) 2020/687.
+
+(b) listing at Union level in Annex I of restricted zones I, II and III following outbreaks of African swine fever;
+
+(c) listing at Union level in Annex II, following an outbreak of African swine fever in a previously disease-free Member State or zone:
+
+(i) of the restricted zones, which comprise protection and surveillance zones, in the case of an outbreak of African swine fever in kept porcine animals;
+
+(ii) of the infected zones, in the case of an outbreak of that disease in wild porcine animals.
+
+2\. This Regulation also lays down rules on special disease control measures regarding African swine fever to be applied for a limited period of time by all Member States.
+
+3\. This Regulation applies to:
+
+(a) the movements of consignments of:
+
+(i) porcine animals kept in establishments located in restricted zones I, II and III and in infected zones referred to in paragraph 1, point (c)(ii);
+
+(ii) germinal products, products of animal origin and animal by-products obtained from kept porcine animals referred to in point (a)(i);
+
+(iii) fresh meat and meat products, including casings, from restricted zones I, II and III or infected zones referred to in paragraph 1, point (c)(ii), where such meat or meat products are obtained from porcine animals kept in areas outside those restricted and infected zones and slaughtered either
+
+— in slaughterhouses located in restricted zones I, II or III or in infected zones referred to in paragraph 1, point (c)(ii); or
+
+— in slaughterhouses located outside those restricted and infected zones;
+
+(b) the movements of:
+
+(i) consignments of wild porcine animals in all Member States;
+
+(ii) consignments, including those for private use by hunters, of products of animal origin and animal by-products obtained from wild porcine in the restricted zones I, II and III or processed in establishments located in those restricted zones;
+
+(c) food business operators handling the consignments referred to in points (a) and (b);
+
+(d) all Member States concerning awareness raising on African swine fever;
+
+(e) all Member States concerning the establishment of national action plans for wild porcine animals in order to avoid the spread of African swine fever in the Union.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions laid down in Delegated Regulation (EU) 2020/687 shall apply.
+
+In addition, the following definitions shall apply:
+
+(a) ‘porcine animal’ means an animal of the species of ungulates of the family Suidae listed in Annex III to Regulation (EU) 2016/429;
+
+(b) ‘germinal products’ means porcine semen, oocytes and embryos obtained from kept porcine animals for artificial reproduction;
+
+(c) ‘restricted zone I’ means an area of a Member State listed in Part I of Annex I with a precise geographical delimitation subject to special disease control measures and bordering restricted zones II or III;
+
+(d) ‘restricted zone II’ means an area of a Member State listed in Part II of Annex I due to an outbreak of African swine fever in a wild porcine animal with a precise geographical delimitation subject to special disease control measures;
+
+(e) ‘restricted zone III’ means an area of a Member State listed in Part III of Annex I due to an outbreak of African swine fever in a kept porcine animal with a precise geographical delimitation subject to special disease control measures;
+
+(f) ‘previously disease-free Member State or zone’ means a Member State or zone of a Member State, where African swine fever has not been confirmed either in kept or in wild porcine animals during the preceding period of twelve months;
+
+(g) ‘area listed in Annex II’ means an area of a Member State listed in Annex II:
+
+(i) in Part A thereof, as an infected zone, following confirmation of an outbreak of African swine fever in a wild porcine animal in a previously disease-free Member State or zone; or
+
+(ii) in Part B thereof, as a restricted zone, comprising protection and surveillance zones, following an outbreak of African swine fever in a kept porcine animal in a previously disease-free Member State or zone;
+
+(h) ‘Category 2 materials’ means animal by-products referred to in Article 9 of Regulation (EC) No 1069/2009 obtained from kept porcine animals;
+
+(i) ‘Category 3 materials’ means animal by-products referred to in Article 10 of Regulation (EC) No 1069/2009 obtained from kept porcine animals;
+
+(j) ‘animal by-products approved plant’ means a plant approved by the competent authority in accordance with Article 24 of Regulation (EC) No 1069/2009;
+
+(k) ‘approved germinal product establishment’ means an establishment defined in Article 2, point (2), of Commission Delegated Regulation (EU) 2020/686 ( 2 );
+
+(l) ‘registered germinal product establishment’ means an establishment defined in Article 2, point (1), of Delegated Regulation (EU) 2020/686.
+
+## CHAPTER II — SPECIAL RULES FOR THE ESTABLISHMENT OF RESTRICTED AND INFECTED ZONES IN THE EVENT OF AN OUTBREAK OF AFRICAN SWINE FEVER
+
+#### Article 3 — Special rules for the immediate establishment of restricted and infected zones in the event of an outbreak of African swine fever in kept or wild porcine animals
+
+In the event of an outbreak of African swine fever in kept or wild porcine animals, the competent authority of the Member State shall immediately establish either:
+
+(a) in the case of an outbreak in kept porcine animals, a restricted zone in accordance with Article 21(1) of Delegated Regulation (EU) 2020/687 and subject to the conditions laid down in that Article; or
+
+(b) in the case of an outbreak in wild porcine animals, an infected zone in accordance with Article 63 of Delegated Regulation (EU) 2020/687.
+
+#### Article 4 — Special rules for the establishment of an additional restricted zone in the event of an outbreak of African swine fever in kept or wild porcine animals
+
+1\. In the event of an outbreak of African swine fever in kept or wild porcine animals, the competent authority of the Member State may establish, on the basis of the criteria and principles for the geographical demarcation of restricted zones laid down in Article 64(1) of Regulation (EU) 2016/429, an additional restricted zone bordering the established restricted zone or infected zone referred to in Article 3 of this Regulation in order to demarcate the restricted zone or infected zone from non-restricted areas.
+
+2\. The competent authority of the Member State concerned shall ensure that the additional restricted zone referred to in paragraph 1 of this Article corresponds to the restricted zone I listed in Part I of Annex I in accordance with Article 5.
+
+#### Article 5 — Special rules for the listing of restricted zones I in the event of an outbreak of African swine fever in kept or wild porcine animals in an area of a Member State bordering an area where no outbreak of African swine fever has been officially confirmed
+
+1\. Following an outbreak of African swine fever in kept or wild porcine animals in an area of a Member State, bordering an area where no outbreak of African swine fever has been officially confirmed in kept or wild porcine animals, that area where no outbreak has been confirmed shall be listed, where necessary, in Part I of Annex I as a restricted zone I.
+
+2\. The competent authority of the Member State concerned shall ensure that after the listing of an area in Part I of Annex I to this Regulation as a restricted zone I, an additional restricted zone established in accordance with Article 64(1) of Regulation (EU) 2016/429 is adjusted without delay to comprise at least of the relevant restricted zone I listed in Annex I to this Regulation for that Member State.
+
+3\. The competent authority of the Member State shall establish without delay the relevant additional restricted zone in accordance with Article 64(1) of Regulation (EU) 2016/429, if the restricted zone I has been listed in Annex I to this Regulation.
+
+#### Article 6 — Special rules for the listing of restricted zones II or infected zones in the event of an outbreak of African swine fever in wild porcine animals in a Member State
+
+1\. Following an outbreak of African swine fever in wild porcine animals in an area of a Member State, that area shall be listed as a restricted zone II in Part II of Annex I to this Regulation, except where that area is subject to listing in accordance with paragraph 2 of this Article.
+
+2\. Following an outbreak of African swine fever in wild porcine animals in a previously disease-free Member State or zone, that area shall be listed as an infected zone in Part A of Annex II, except where, due to the proximity of a restricted zone II and in order to ensure territorial continuity of that restricted zone II, that area is subject to listing as a restricted zone II in accordance with paragraph 1 of this Article.
+
+3\. The competent authority of the Member State concerned shall ensure that the infected zone established in accordance with Article 63 of Delegated Regulation (EU) 2020/687 is adjusted without delay to comprise, at least for that Member State, the relevant:
+
+(a) restricted zone II listed in Annex I to this Regulation for that Member State;
+
+or
+
+(b) infected zone listed in Part A of Annex II to this Regulation.
+
+#### Article 7 — Special rules for the listing of restricted zones in the event of an outbreak of African swine fever in kept porcine animals in a Member State
+
+1\. Following an outbreak of African swine fever in kept porcine animals in an area of a Member State, that area shall be listed as a restricted zone III in Part III of Annex I, except where that area is subject to listing in accordance with paragraph 2 of this Article.
+
+2\. Following a first and single outbreak of African swine fever in kept porcine animals in a previously disease-free Member State or zone, that area shall be listed as a restricted zone, which comprises protection and surveillance zones, in Part B of Annex II, except when, due to the proximity of a restricted zone III and in order to ensure territorial continuity of that restricted zone III, that area is subject to listing as a restricted zone III in accordance with paragraph 1 of this Article.
+
+3\. The competent authority of the Member State concerned shall ensure that the restricted zone established in accordance with Article 21(1) of Delegated Regulation (EU) 2020/687 is adjusted without delay to comprise, at least for that Member State, the relevant:
+
+(a) restricted zone III listed in Annex I to this Regulation for that Member State;
+
+or
+
+(b) a restricted zone, which comprises protection and surveillance zones, listed in Part B of Annex II to this Regulation.
+
+#### Article 8 — General and specific application of special disease control measures in restricted zones I, II and III and in infected zones listed in Annex II
+
+1\. The Member States concerned shall apply the special disease control measures laid down in this Regulation in restricted zones I, II and III in addition to the disease control measures required to be applied in accordance with Delegated Regulation (EU) 2020/687 in:
+
+(a) restricted zones established in accordance with Article 21(1) of Delegated Regulation (EU) 2020/687;
+
+(b) infected zones established in accordance with Article 63 of Delegated Regulation (EU) 2020/687.
+
+2\. The Member States concerned shall apply the special disease control measures laid down in this Regulation applicable to restricted zones II also in the areas listed as infected zones in Part A of Annex II to this Regulation, in addition to the measures laid down in Articles 63 to 66 of Delegated Regulation (EU) 2020/687.
+
+3\. The competent authority of the Member State concerned shall prohibit the movements of consignments of kept porcine animals and products thereof to other Member States and to third countries from the infected zone of that Member State concerned listed in Part A of Annex II.
+
+4\. The competent authority of the Member State concerned may decide that the prohibition provided for in paragraph 3 shall not apply to the movements of consignments of meat products, including casings, obtained from porcine animals kept in the infected zone listed in Part A of Annex II, which have undergone the relevant risk-mitigating treatment in accordance with Annex VII to Delegated Regulation (EU) 2020/687.
+
+## CHAPTER III — SPECIAL DISEASE CONTROL MEASURES APPLICABLE TO CONSIGNMENTS OF PORCINE ANIMALS KEPT IN RESTRICTED ZONES I, II AND III AND PRODUCTS OBTAINED THEREOF IN THE MEMBER STATES CONCERNED
+
+### SECTION 1 — Application of specific prohibitions on movements of consignments of kept porcine animals and products thereof in the member states concerned
+
+#### Article 9 — Specific prohibitions on movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones
+
+1\. The competent authority of the Member State concerned shall prohibit movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones.
+
+2\. The competent authority of the Member State concerned may decide that the prohibition provided for in paragraph 1 shall not apply to:
+
+(a) movements of consignments of porcine animals kept in a restricted zone I to establishments located in the same or other restricted zones I, to restricted zones II and III or outside those restricted zones provided that the establishment of destination is located in the territory of the same Member State concerned;
+
+(b) movements of consignments of porcine animals kept in confined establishments located in restricted zones I, II and III provided that:
+
+(i) the competent authority of the Member State concerned assessed the risks arising from such movements and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(ii) the porcine animals are only moved to another confined establishment located in the same Member State concerned.
+
+3\. By way of derogation from the prohibitions provided for in paragraph 1 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones in the cases covered by Articles 22 to 31 subject to compliance with the specific conditions laid down in those Articles.
+
+#### Article 10 — Specific prohibitions on movements of consignments of germinal products obtained from porcine animals kept in restricted zones II and III outside those restricted zones
+
+1\. The competent authority of the Member State concerned shall prohibit movements of consignments of germinal products obtained from porcine animals kept in restricted zones II and III outside those restricted zones.
+
+2\. The competent authority of the Member State concerned may decide that the prohibition provided for in paragraph 1 shall not apply to movements of consignments of germinal products of porcine animals kept in confined establishments located in restricted zones II and III provided that:
+
+(a) the competent authority of the Member State concerned assessed the risks arising from such movements and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the germinal products are only moved to another confined establishment located in the same Member State concerned.
+
+3\. By way of derogation from the prohibitions provided for in paragraph 1 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of germinal products obtained from porcine animals kept in restricted zones II and III outside those restricted zones in the cases covered by Articles 32, 33 and 34 subject to compliance with the specific conditions laid down in those Articles.
+
+#### Article 11 — Specific prohibitions on movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones
+
+1\. The competent authority of the Member State concerned shall prohibit movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones.
+
+2\. The competent authority of the Member State concerned may decide that the prohibition provided for in paragraph 1 shall not apply to movements of consignments of animal by-products obtained from porcine animals kept outside restricted zones II and III and slaughtered in slaughterhouses located in restricted zones II and III, provided that there is a clear separation of those animal by-products in establishments and during transport from animal by-products obtained from porcine animals kept in restricted zones II and III.
+
+3\. By way of derogation from the prohibitions provided for in paragraph 1 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones in the cases covered by Articles 35 to 40 subject to compliance with the specific conditions laid down in those Articles.
+
+#### Article 12 — Specific prohibitions on movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III outside those restricted zones
+
+1\. The competent authority of the Member State concerned shall prohibit movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III outside those restricted zones.
+
+2\. The competent authority of the Member State concerned may decide that the prohibition provided for in paragraph 1 of this Article shall not apply to movements of consignments of meat products, including casings, obtained from porcine animals kept in restricted zones II and III, which have undergone the relevant risk-mitigating treatment in accordance with Annex VII to Delegated Regulation (EU) 2020/687, as regards African swine fever, in establishments designated in accordance with Article 44(1) of this Regulation.
+
+3\. By way of derogation from the prohibitions provided for in paragraph 1 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III outside those restricted zones in the cases covered by Articles 41, 42 and 43 subject to compliance with the specific conditions laid down in those Articles.
+
+#### Article 13 — General prohibitions on movements of consignments of kept porcine animals and products thereof considered a risk for the spread of African swine fever
+
+The competent authority of the Member State concerned may prohibit, within the territory of the same Member State, the movements of consignments of kept porcine animals and products obtained from kept porcine animals if the competent authority considers that there is a risk for the spread of African swine fever to, from or through those kept porcine animals or products thereof.
+
+### SECTION 2 — General and specific conditions for derogations authorising movements of consignments of porcine animals kept in restricted zones i, ii and iii outside those restricted zones
+
+#### Article 14 — General conditions for derogations from specific prohibitions on movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones
+
+1\. By way of derogation from the specific prohibitions on movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones laid down in Article 9(1), the competent authority of the Member State concerned may authorise such movements in the cases covered by Articles 22 to 25 and Articles 28, 29 and 30 subject to compliance with the specific conditions laid down in those Articles, and the following conditions:
+
+(a) the general conditions laid down Article 43(2) to (7) of Delegated Regulation (EU) 2020/687; and
+
+(b) the additional general conditions concerning:
+
+(i) movements of consignments of kept porcine animals within and outside restricted zones I, II and III laid down in Article 15 where applicable;
+
+(ii) establishments for kept porcine animals located in restricted zones I, II and III laid down in Article 16;
+
+(iii) the means of transport used for the transportation of kept porcine animals from restricted zones I, II and III laid down in Article 17.
+
+2\. Prior to granting authorisations provided for in Articles 22 to 25 and Articles 28 to 31, the competent authority of the Member State concerned shall assess the risks arising from such authorisations and that assessment must indicate that the risk of the spread of African swine fever is negligible.
+
+3\. The competent authority of the Member State concerned may decide that the additional general conditions laid down in Articles 15 and 16 shall not apply to movements of consignments of porcine animals kept in slaughterhouses located in the restricted zones I, II and III provided that:
+
+(a) the kept porcine animals need to be moved to another slaughterhouse due to exceptional circumstances, such as a major breakdown in the slaughterhouse;
+
+(b) the slaughterhouse of destination is located either:
+
+(i) in restricted zones I, II or III of the same Member State; or
+
+(ii) in exceptional circumstances, such as the absence of the slaughterhouses referred to in point (b)(i), outside restricted zones I, II or III in the territory of the same Member State;
+
+(c) the movement is authorised by the competent authority of the Member State concerned.
+
+4\. The competent authority of the Member State concerned may decide that the general condition laid down in Article 43(2), point (c), of Delegated Regulation (EU) 2020/687 shall not apply to authorised movements of consignments of porcine animals kept in restricted zones I or II provided that the kept porcine animals are to be moved within the same Member State in accordance with Articles 22 and 24 of this Regulation (EU) 2023/594 for the purpose of immediate slaughter.
+
+#### Article 15 — Additional general conditions on movements of consignments of porcine animals kept and germinal products collected in restricted zones I, II and III within and outside those restricted zones
+
+1\. The competent authority of the Member State concerned shall authorise movements of consignments of porcine animals kept in restricted zones I, II and III or germinal products of those animals collected in restricted zones II and III within and outside those restricted zones in the cases covered by Articles 22 to 25 and Articles 28 to 34 subject to compliance with the specific conditions laid down in those Articles and the following additional general conditions:
+
+(a) the porcine animals have been kept in and have not been moved from the establishment of dispatch for a period of at least 30 days prior to the date of movement, or since birth, if they are younger than 30 days of age, and during that period no other kept porcine animals have been introduced from establishments located in restricted zones II that do not comply with the additional general conditions laid down in this Article and in Article 16 and from establishments located in restricted zones III into either:
+
+(i) that establishment of dispatch; or
+
+(ii) the epidemiological unit where the porcine animals to be moved were kept completely separated. The competent authority of the Member State concerned shall determine, after carrying out a risk assessment, the boundaries of such epidemiological unit confirming that the structure, size and distance between different epidemiological units and the operations being carried out ensure separate facilities for housing, keeping and feeding of kept porcine animals so that the African swine fever virus cannot spread from one epidemiological unit to another;
+
+(b) a clinical examination has been carried out on the porcine animals kept in the establishment of dispatch, including those animals to be moved or used for the collection of germinal products, with favourable results concerning African swine fever:
+
+(i) by an official veterinarian;
+
+(ii) within the period of 24 hours prior to the time of:
+
+— the movement of the consignment of porcine animals, or
+
+— the collection of the germinal products; and
+
+(iii) in accordance with Article 3(1) and (2) of Delegated Regulation (EU) 2020/687 and point A.1 of Annex I thereto.
+
+(c) if necessary, following the instructions of the competent authority, pathogen identification tests have been carried out prior to the date of the movement of those consignments from the establishment of dispatch or prior to the date of the collection of germinal products:
+
+(i) following the clinical examination referred to in point (b) for porcine animals kept in the establishment of dispatch, including those porcine animals to be moved or to be used for the collection of germinal products; and
+
+(ii) in accordance with point A.2 of Annex I to Delegated Regulation (EU) 2020/687.
+
+2\. The competent authority of the Member State concerned shall obtain, where relevant, negative results of pathogen identification tests referred to in paragraph 1, point (c), before authorising the movement of the consignments of porcine animals or prior to the date of the collection of germinal products.
+
+3\. The competent authority of the Member State concerned may decide that, in the case of movements of consignments of kept porcine animals from establishments of dispatch located in restricted zones I and II within and outside those restricted zones to establishments located within the same Member State concerned, the clinical examination referred to in paragraph 1, point (b):
+
+(a) shall be carried out only for porcine animals to be moved; or
+
+(b) shall not be required to be carried out, provided that:
+
+(i) the establishment of dispatch has been visited by an official veterinarian with a frequency rate referred to in Article 16(1), point (a)(i), and with a favourable outcome of all the visits by an official veterinarian during a period of at least twelve months prior to the date of movement of the consignment of porcine animals, indicating that:
+
+— the biosecurity requirements referred to in Article 16(1), point (b), have been implemented in the establishment of dispatch;
+
+— a clinical examination with favourable results concerning African swine fever has been carried out by an official veterinarian during those visits on the porcine animals kept in the establishment of dispatch in accordance with Article 3(1) and (2) of Delegated Regulation (EU) 2020/687 and point A.1 of Annex I thereto;
+
+(ii) the continuous surveillance referred to in Article 16(1), point (c), has been in place in the establishment of dispatch during a period of at least twelve months prior to the date of movement of the consignment of porcine animals.
+
+4\. The competent authority of the Member State concerned may decide that, in the case of movements of consignments of kept porcine animals from an establishment of dispatch located in a restricted zone III to establishments located within that restricted zone III or within restricted zones I or II in the same Member State concerned, the clinical examination referred to in paragraph 1, point (b):
+
+(a) shall be carried out only for the porcine animals to be moved; or
+
+(b) shall not be required to be carried out, provided that:
+
+(i) the establishment of dispatch has been visited by an official veterinarian with a frequency rate referred to in Article 16(1), point (a)(ii), and with a favourable outcome of all the visits by an official veterinarian during a period of at least twelve months prior to the date of movement, indicating that:
+
+— the biosecurity requirements referred to in Article 16(1), point (b), have been implemented in the establishment of dispatch;
+
+— a clinical examination with favourable results concerning African swine fever has been carried out by an official veterinarian during those visits on the porcine animals kept in the establishment of dispatch in accordance with Article 3(1) and (2) of Delegated Regulation (EU) 2020/687 and point A.1 of Annex I thereto;
+
+(ii) the continuous surveillance referred to in Article 16(1), point (c), has been in place in the establishment of dispatch during a period of at least twelve months prior to the date of movement.
+
+5\. The competent authority of the Member State concerned may decide that, in the case of movements of consignments of germinal products collected in restricted zones II and III to establishments located within the same Member State concerned or in other Member States, the clinical examination referred to in paragraph 1, point (b), shall not be required to be carried out, provided that:
+
+(a) the establishment of dispatch has been visited by an official veterinarian with a frequency rate referred to in Article 16(1), point (a)(ii), and with a favourable outcome for all the visits by an official veterinarian during a period of at least twelve months prior to the date of the collection of germinal products, indicating that:
+
+(i) the biosecurity requirements referred to in Article 16(1), point (b), have been implemented in the establishment of dispatch;
+
+(ii) a clinical examination with favourable results concerning African swine fever has been carried out by an official veterinarian during those visits on the porcine animals kept in the establishment of dispatch in accordance with Article 3(1) and (2) of Delegated Regulation (EU) 2020/687 and point A.1 of Annex I thereto;
+
+(iii) the continuous surveillance referred to in Article 16(1), point (c), has been in place in the establishment of dispatch during a period of at least twelve months prior to the date of the collection of germinal products.
+
+#### Article 16 — Additional general conditions for establishments of kept porcine animals located in restricted zones I, II and III
+
+1\. The competent authority of the Member State concerned shall only authorise movements of consignments of porcine animals kept in establishments located in restricted zones I, II or III or consignments of germinal products collected in restricted zones II or III within and outside those restricted zones, in the cases covered by Articles 22 to 25 and Articles 28 to 34 subject to compliance with the specific conditions laid down in those Articles and the following additional general conditions:
+
+(a) the establishment of dispatch has been visited by an official veterinarian at least once after the listing of the restricted zones I, II and III in Annex I to this Regulation or during the period of three months prior to the date of movement of the consignment, and is subject to regular visits by official veterinarians as provided for in Article 26(2) of Delegated Regulation (EU) 2020/687 as follows:
+
+(i) in the restricted zones I and II: at least twice a year, with an interval of at least four months between such visits;
+
+(ii) in the restricted zone III: at least once every three months.
+
+(b) the establishment of dispatch implements biosecurity requirements for African swine fever:
+
+(i) in accordance with the reinforced biosecurity measures set out in Annex III; and
+
+(ii) as established by the Member State concerned;
+
+(c) continuous surveillance by means of testing with pathogen identification tests for African swine fever is carried out in the establishment of dispatch:
+
+(i) in accordance with Article 3(2) of Delegated Regulation (EU) 2020/687 and Annex I thereto; and
+
+(ii) with negative results each week on at least the first two dead kept porcine animals over the age of 60 days or, in the absence of such dead animals over the age of 60 days, on any dead kept porcine animals after weaning, in each epidemiological unit; and
+
+(iii) at least during the monitoring period for African swine fever set out in Annex II to Delegated Regulation (EU) 2020/687 before the movement of the consignment from the establishment of dispatch; or
+
+(iv) if necessary, following the instructions of the competent authority, in accordance with Article 15(1), point (c), where there are no dead kept porcine animals in the establishment during that monitoring period for African swine fever referred to in point (c)(iii) of this paragraph.
+
+2\. The competent authority may decide to carry out visits to the establishment of dispatch in a restricted zone III referred to in paragraph 1, point (a)(ii), with a frequency rate referred to in paragraph 1, point (a)(i), based on a favourable outcome of the last visit after the listing of the restricted zones I, II and III in Annex I or during the period of three months prior to the date of movement of the consignment indicating that:
+
+(a) the biosecurity requirements referred to in paragraph 1, point (b), are implemented, and
+
+(b) the continuous surveillance referred to in paragraph 1, point (c), is in place in that establishment.
+
+3\. The competent authority of the Member State concerned may decide that the stock-proof fencing provided for in point (2)(h) of Annex III and referred to in paragraph 1, point(b)(i), of this Article shall not be required either:
+
+(a) for establishments of kept porcine animals for a period of six months from the date of confirmation of the first outbreak of African swine fever in a previously disease-free Member State or zone provided that:
+
+(i) the competent authority of the Member State has assessed the risks arising from such a decision and that assessment indicates that the risk of the spread of African swine fever is negligible;
+
+(ii) an alternative system is in place ensuring that porcine animals kept in establishments are separated from wild porcine animals in Member States where a population of wild porcine animals is present;
+
+(iii) kept porcine animals from those establishments are not moved to another Member State;
+
+(iv) porcine animals are not kept temporarily or permanently outdoors in those establishments; or
+
+(b) if the appropriate and continuous surveillance has demonstrated no evidence of the permanent presence of wild porcine animals in that Member State; or
+
+(c) for establishments of kept porcine animals for a period of six months following the date of publication of this Regulation, if consignments of porcine animals kept in restricted zones I, II and III and products thereof are only moved within those restricted zones in accordance with Articles 22, 23, 24, 28 or 30 of this Regulation.
+
+#### Article 17 — Additional general conditions concerning the means of transport used for the transportation of porcine animals kept in restricted zones I, II and III within and outside those restricted zones
+
+The competent authority of the Member State concerned shall only authorise movements of consignments of porcine animals kept in restricted zones I, II and III within and outside those restricted zones if the means of transport used for the transportation of those consignments:
+
+(a) comply with requirements laid down in Article 24(1) of Delegated Regulation (EU) 2020/687; and
+
+(b) are cleaned and disinfected in accordance with Article 24(2) of Delegated Regulation (EU) 2020/687 under the control or supervision of the competent authority of the Member State concerned.
+
+### SECTION 3 — Operators’ obligations with regard to animal health certificates
+
+#### Article 18 — Operators’ obligations with regard to animal health certificates for movements of consignments of porcine animals kept in restricted zones I, II and III outside those restricted zones
+
+Operators shall only move consignments of porcine animals kept in restricted zones I, II and III outside those restricted zones within the Member State concerned or to another Member State in the cases covered by Articles 22 to 25 and Articles 28 to 31 of this Regulation if those consignments are accompanied by an animal health certificate as provided for in Article 143(2) of Regulation (EU) 2016/429 that contains at least one of the following attestations of compliance with the requirements laid down in this Regulation:
+
+(a) ‘Porcine animals kept in a restricted zone I in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+(b) ‘Porcine animals kept in a restricted zone II in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+(c) ‘Porcine animals kept in a restricted zone III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’.
+
+However, in the case of movements of such consignments within the same Member State concerned, the competent authority may decide that an animal health certificate does not have to be issued as referred to in Article 143(2), second subparagraph, of Regulation (EU) 2016/429.
+
+#### Article 19 — Operators’ obligations with regard to animal health certificates for movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals from restricted zones I, II and III
+
+1\. Operators shall only move, from restricted zones I and II within the same Member State concerned or to another Member State, consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones I or II in the cases covered by Articles 41 and 42 of this Regulation, if those consignments are accompanied by an animal health certificate as provided for in Article 167(1) of Regulation (EU) 2016/429 that contains:
+
+(a) the information required in accordance with Article 3 of Commission Delegated Regulation (EU) 2020/2154 ( 3 ); and
+
+(b) one of the following attestations of compliance with the requirements laid down in this Regulation:
+
+(i) ‘Fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone I in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+(ii) ‘Fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’
+
+2\. Operators shall only move, from restricted zones I, II and III within the same Member State concerned or to another Member State, consignments of meat products, including casings, that have undergone the relevant risk-mitigating treatment, obtained from porcine animals kept in restricted zones I, II or III subject to compliance with the following conditions:
+
+(a) the meat products, including casings, have undergone the relevant risk-mitigating treatment set out in Annex VII to Delegated Regulation (EU) 2020/687;
+
+(b) those consignments are accompanied by an animal health certificate as provided for in Article 167(1) of Regulation (EU) 2016/429 that contains:
+
+(i) the information required in accordance with Article 3 of Delegated Regulation (EU) 2020/2154; and
+
+(ii) the following attestation of compliance with the requirements provided for in this Regulation:
+
+‘Meat products, including casings, that have undergone the relevant risk-mitigating treatment, obtained from porcine animals kept in restricted zones I, II or III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’.
+
+3\. Operators shall only move, from restricted zones I, II and III within the same Member State concerned or to another Member State, consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in areas outside restricted zones I, II and III and slaughtered either in slaughterhouses located in restricted zones I, II or III or in slaughterhouses located outside those restricted zones, if those consignments are accompanied by:
+
+(a) an animal health certificate as provided for in Article 167(1) of Regulation (EU) 2016/429 that contains the information required in accordance with Article 3 of Delegated Regulation (EU) 2020/2154; and
+
+(b) one of the following attestations of compliance with the requirements laid down in this Regulation:
+
+(i) ‘Fresh meat and meat products, including casings, obtained from porcine animals kept in areas outside restricted zones I, II and III and slaughtered in restricted zones I, II or III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’; or
+
+(ii) ‘Fresh meat and meat products, including casings, obtained from porcine animals kept and slaughtered in areas outside restricted zones I, II and III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’; or
+
+(iii) ‘Fresh meat and meat products, including casings, obtained from porcine animals kept and slaughtered in areas outside restricted zones I, II and III and produced or processed in restricted zones I, II or III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’.
+
+4\. In the cases of movements of consignments referred to in paragraphs 1, 2 and 3 of this Article within the same Member State concerned, the competent authority may decide that an animal health certificate does not have to be issued as referred to in Article 167(1), first subparagraph, of Regulation (EU) 2016/429.
+
+5\. The competent authority of the Member State concerned may decide that, in the cases not covered by Article 167(1), first subparagraph, of Regulation (EU) 2016/429, a health mark or, where relevant, an identification mark provided for in Article 5(1), point (b), of Regulation (EC) No 853/2004 applied on the fresh meat or meat products, including casings, may substitute the animal health certificate for movements of consignments to other Member States provided that:
+
+(a) a health mark or, where relevant, an identification mark is applied on the fresh meat or meat products, including casings, in either:
+
+(i) establishments designated in accordance with Article 44(1) of this Regulation; or
+
+(ii) establishments which only handle fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone I or areas outside restricted zones I, II and III, and listed in the list of establishments referred to in paragraph 6 of this Article;
+
+(b) the animal health certificate is only substituted for the following consignments:
+
+(i) fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones I or II from those restricted zones to another Member State, as laid down in paragraph 1;
+
+(ii) meat products, including casings, that have undergone the relevant risk-mitigating treatment, obtained from porcine animals kept in restricted zones I or II from those restricted zones to another Member State, as laid down in paragraph 2;
+
+(iii) fresh meat and meat products, including casings, obtained from porcine animals kept in areas outside restricted zones I, II and III and either slaughtered in those areas or slaughtered in slaughterhouses located in restricted zones I, II or III from those restricted zones to another Member State, as laid down in paragraph 3;
+
+(iv) fresh meat and meat products, including casings, obtained from porcine animals kept in areas outside restricted zones I, II and III and produced or processed in restricted zones I, II or III from those restricted zones to another Member State, as laid down in paragraph 3;
+
+(c) the competent authority of the Member State concerned ensures that an alternative system is in place ensuring that consignments referred to in point (b) are traceable and that those consignments fulfil the special disease control measures related to African swine fever laid down in this Regulation.
+
+6\. The competent authority of the Member State concerned shall:
+
+(a) provide the Commission and other Member States with a link to the website of the competent authority with a list of establishments located in restricted zones I, II and III:
+
+(i) which only handle fresh meat or meat products, including casings, obtained from porcine animals kept in restricted zones I or areas outside restricted zones I, II and III; and
+
+(ii) for which the competent authority of the Member State concerned has granted a possibility to substitute the animal health certificate for movements of consignments to other Member States with a health or, where relevant, an identification mark referred to in paragraph 5;
+
+(b) keep the list provided for in point (a) updated.
+
+#### Article 20 — Operators’ obligations with regard to animal health certificates for movements of consignments of germinal products obtained from porcine animals kept in establishments located in restricted zones II or III outside those restricted zones
+
+Operators shall only move consignments of germinal products obtained from porcine animals kept in restricted zones II or III outside those restricted zones within the same Member State concerned or to another Member State in the cases covered by Articles 32, 33 and 34 of this Regulation, if those consignments are accompanied by an animal health certificate as provided for in Article 161(1) of Regulation (EU) 2016/429 that contains at least one of the following attestations of compliance with the requirements laid down for in this Regulation:
+
+(a) ‘Germinal products obtained from porcine animals kept in restricted zones II in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+(b) ‘Germinal products obtained from porcine animals kept in restricted zone III in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’.
+
+However, in the case of movements of consignments within the same Member State concerned, the competent authority may decide that an animal health certificate does not have to be issued as referred to in Article 161(2), second subparagraph, of Regulation (EU) 2016/429.
+
+#### Article 21 — Operators’ obligations with regard to animal health certificates for movements of consignments of Category 2 and 3 materials obtained from porcine animals kept in restricted zones II or III outside those restricted zones
+
+Operators shall only move consignments of Category 2 and 3 materials obtained from porcine animals kept in restricted zones II or III outside those restricted zones within the same Member State concerned or to another Member State in the cases covered by Articles 35 to 40, if those consignments are accompanied by:
+
+(a) the commercial document referred to in Chapter III of Annex VIII to Regulation (EU) No 142/2011; and
+
+(b) an animal health certificate referred to in Article 22(5) of Delegated Regulation (EU) 2020/687 and set out in Annex VIII to Regulation (EU) No 142/2011.
+
+However, in the case of movements within the same Member State concerned, the competent authority may decide that an animal health certificate shall not be issued as referred to in Article 22(6) of Delegated Regulation (EU) 2020/687.
+
+### SECTION 4 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone I within and outside that restricted zone
+
+#### Article 22 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone I within and outside that restricted zone
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone I within and outside that restricted zone to:
+
+(a) an establishment located in the territory of the same Member State concerned:
+
+(i) in the same or another restricted zone I;
+
+(ii) in restricted zones II or III;
+
+(iii) outside the restricted zones I, II and III;
+
+(b) an establishment located in the territory of another Member State;
+
+(c) third countries.
+
+2\. The competent authority shall only grant the authorisations provided for in paragraph 1 subject to compliance with:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), points (b) and (c), Article 15(2) and (3), and Articles 16 and 17.
+
+3\. The competent authority of the Member State concerned may decide that the general condition laid down in Article 43(2), point (c), of Delegated Regulation (EU) 2020/687 shall not apply to authorised movements of consignments of porcine animals kept in a restricted zone I provided that the kept porcine animals are to be moved within the same Member State for the purpose of immediate slaughter.
+
+### SECTION 5 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone II within and outside that restricted zone
+
+#### Article 23 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone II within and outside that restricted zone in the territory of the same Member State concerned
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone II within and outside that restricted zone to an establishment located in the territory of the same Member State concerned:
+
+(a) in the same or another restricted zone II;
+
+(b) in restricted zones I or III;
+
+(c) outside the restricted zones I, II and III.
+
+2\. The competent authority shall only grant the authorisations provided for in paragraph 1 subject to compliance with:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687;
+
+(b) the additional general conditions laid down in Article 14(2) and Articles 15, 16 and 17.
+
+3\. The competent authority of the Member State concerned shall ensure that porcine animals subject to an authorised movement referred to in paragraph 1 of this Article remain in the establishment of destination for at least the monitoring period for African swine fever set out in Annex II to Delegated Regulation (EU) 2020/687.
+
+#### Article 24 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone II within and outside that restricted zone to a slaughterhouse located in the territory of the same Member State concerned for the purpose of immediate slaughter
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone II within and outside that restricted zone to a slaughterhouse located in the territory of the same Member State concerned, provided that:
+
+(a) the kept porcine animals are moved for the purpose of immediate slaughter;
+
+(b) the slaughterhouse of destination is designated in accordance with Article 44(1).
+
+2\. The competent authority shall only grant the authorisations provided for in paragraph 1 subject to compliance with:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), points (b) and (c), Article 15(2) and (3), and Articles 16 and 17.
+
+3\. By way of derogation from the prohibition provided for in Article 9(1), when the movements referred to in paragraph 1 of this Article do not comply with the conditions provided for in paragraph 2 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone II within or outside that restricted zone, provided that:
+
+(a) prior to granting the authorisation, the competent authority of the Member State concerned assessed the risks arising from such authorisation and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the kept porcine animals are moved for the purpose of immediate slaughter and in accordance with Article 28(2), Article 29(2), point (a), and Article 29(2), point (b)(i) to (v), of Delegated Regulation (EU) 2020/687;
+
+(c) the slaughterhouse of destination is designated in accordance with Article 44(1) and is located:
+
+(i) within the same or another restricted zone II as near as possible to the establishment of dispatch;
+
+(ii) in restricted zones I or III in the territory of the same Member State concerned, where it is not possible to slaughter the animals in the restricted zone II;
+
+(iii) in areas outside restricted zones I, II and III in the territory of the same Member State, where it is not possible to slaughter the animals in the restricted zones I, II or III;
+
+(d) the animal by-products obtained from porcine animals kept in a restricted zone II are processed or disposed in accordance with Articles 35 and 39;
+
+(e) the fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II are only moved from a slaughterhouse within the same Member State in accordance with Article 41(2), point (b).
+
+4\. The competent authority of the Member State concerned may decide that the general condition laid down in Article 43(2), point (c), of Delegated Regulation (EU) 2020/687 shall not apply to authorised movements of consignments of porcine animals kept in a restricted zone II provided that the kept porcine animals are to be moved within the same Member State for the purpose of immediate slaughter.
+
+#### Article 25 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone II outside that restricted zone to restricted zones II or III in another Member State
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone II outside that restricted zone to an establishment located in restricted zones II or III in another Member State.
+
+2\. The competent authority of the Member State concerned shall only grant the authorisations provided for in paragraph 1 where:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2) and Articles 15, 16 and 17 are met;
+
+(c) a channelling procedure has been set up in accordance with Article 26;
+
+(d) the kept porcine animals comply with any other additional appropriate guarantees related to African swine fever based on a positive outcome of a risk assessment of the measures against the spread of that disease:
+
+(i) required by the competent authority of the establishment of dispatch;
+
+(ii) approved by the competent authorities of the Member States of passage and of the establishment of destination, prior to the movement of the consignment of kept porcine animals;
+
+(e) no outbreak of African swine fever has been officially confirmed in kept porcine animals in accordance with Article 11 of Delegated Regulation (EU) 2020/687 in the establishment of dispatch during the period of at least twelve months prior to the date of the movement of the consignment of kept porcine animals;
+
+(f) the operator has notified the competent authority in advance of the intention to move the consignment of kept porcine animals in accordance with Article 152, point (b), of Regulation (EU) 2016/429 and Article 96 of Commission Delegated Regulation (EU) 2020/688 ( 4 ).
+
+3\. The competent authority of the Member State concerned shall:
+
+(a) draw up a list of establishments that comply with the guarantees referred to in paragraph 2, point (d);
+
+(b) inform, in the framework of the Standing Committee on Plants, Animals, Food and Feed, the Commission and the other Member States of the guarantees provided for in accordance with paragraph 2, point (d), and of the approval by the competent authorities provided for in accordance with the paragraph 2, point (d)(ii).
+
+4\. The approval provided for in paragraph 2, point (d)(ii), of this Article and the obligation of information provided for in paragraph 3, point (b), of this Article shall not be required when the establishment of dispatch, places of passage and the establishment of destination are all located in restricted zones I, II or III and those restricted zones are continuous, thereby ensuring that the consignment of kept porcine animals is only moved through those restricted zones I, II or III in accordance with specific conditions provided for in Article 22(4) of Delegated Regulation (EU) 2020/687.
+
+#### Article 26 — Specific channelling procedure for granting derogations for movements of consignments of porcine animals kept in a restricted zone II outside that restricted zone to restricted zones II or III in another Member State
+
+1\. The competent authority of the Member State concerned shall set up a channelling procedure as provided for in Article 25(2), point (c), for movements of consignments of porcine animals kept in a restricted zone II outside that restricted zone to an establishment located in restricted zones II or III in another Member State under the control of the competent authorities of:
+
+(a) the establishment of dispatch;
+
+(b) the Member States of passage;
+
+(c) the establishment of destination.
+
+2\. The competent authority of the establishment of dispatch shall:
+
+(a) ensure that each means of transport used for the movements of the consignments of kept porcine animals referred to in paragraph 1 are:
+
+(i) individually accompanied by a satellite navigation system to determine, transmit and record its real time location;
+
+(ii) sealed by an official veterinarian immediately after the loading of the consignment of kept porcine animals; only an official veterinarian or enforcement authority of the Member State concerned, as agreed with the competent authority, may break the seal and replace it with a new one, where relevant.
+
+(b) inform in advance the competent authority of the place of the establishment of destination and, where relevant, the competent authority of the Member State of passage, of the intention to send the consignment of kept porcine animals;
+
+(c) set up a system whereby operators are required to immediately notify the competent authority of the place of the establishment of dispatch of any accident or breakdown of any means of transport used for the transportation of the consignment of kept porcine animals;
+
+(d) ensure the establishment of an emergency plan, the chain of command and the necessary arrangements for cooperation between the competent authorities referred to in paragraph 1, points (a), (b) and (c), in the event of possible accidents during the transport, any major breakdown or any fraudulent action by operators.
+
+#### Article 27 — Obligations on the competent authority of the Member State concerned of the place of the establishment of destination for consignments of porcine animals kept in a restricted zone II of another Member State
+
+The competent authority of the Member State concerned of the place of the establishment of destination for consignments of porcine animals kept in a restricted zone II of another Member State shall:
+
+(a) notify without undue delay the competent authority of the establishment of dispatch of the arrival of the consignment;
+
+(b) ensure that kept porcine animals either:
+
+(i) remain in the establishment of destination for at least the monitoring period for African swine fever set out in Annex II to Delegated Regulation (EU) 2020/687; or
+
+(ii) are moved directly to a slaughterhouse designated in accordance with Article 44(1) .
+
+### SECTION 6 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone III within and outside that restricted zone
+
+#### Article 28 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone III within that zone and outside that restricted zone to a restricted zone I or II in the same Member State concerned
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), in exceptional circumstances, where as a result of that prohibition animal welfare problems arise in an establishment where porcine animals are kept, the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone III outside that restricted zone to an establishment located in a restricted zone II, or, in the absence of such a restricted zone II in that Member State, in a restricted zone I, in the territory of the same Member State provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), (2) and (4), and Articles 16 and 17 are met;
+
+(c) the establishment of destination belongs to the same supply chain and the kept porcine animals are to be moved to complete the production cycle.
+
+2\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone III to an establishment located within that restricted zone in the territory of the same Member State concerned, subject to compliance with:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), (2) and (4), and Articles 16 and 17.
+
+3\. The competent authority of the Member State concerned shall ensure that kept porcine animals are not moved from the establishment of destination located in the restricted zone I, II or III during at least the monitoring period for African swine fever set out in Annex II to Delegated Regulation (EU) 2020/687.
+
+#### Article 29 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone III outside that restricted zone for the purpose of immediate slaughter in the same Member State concerned
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), in exceptional circumstances, where as a result of that prohibition animal welfare problems arise in an establishment where porcine animals are kept, and in the case of logistic limitations in the slaughter capacity of the slaughterhouses located in the restricted zone III and designated in accordance with Article 44(1) or in the absence of a designated slaughterhouse in the restricted zone III, the competent authority of the Member State concerned may authorise for the purpose of immediate slaughter movements of porcine animals kept in a restricted zone III outside that restricted zone to a slaughterhouse designated in accordance with Article 44(1) in the same Member State as near as possible to the establishment of dispatch located:
+
+(a) in a restricted zone II;
+
+(b) in a restricted zone I, where it is not possible to slaughter the animals in the restricted zone II;
+
+(c) outside of restricted zones I, II and III, where it is not possible to slaughter the animals in those restricted zones.
+
+2\. The competent authority of the Member State concerned shall only grant an authorisation provided for in paragraph 1 where:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), points (b) and (c), Article 15(2), and Articles 16 and 17 are met;
+
+3\. The competent authority of the Member State concerned shall ensure that:
+
+(a) the kept porcine animals are destined for the purpose of immediate slaughter directly to a slaughterhouse designated in accordance with Article 44(1);
+
+(b) on arrival at the designated slaughterhouse, the porcine animals from the restricted zone III are kept separately from other porcine animals and are slaughtered either:
+
+(i) on a specific day when only porcine animals from the restricted zone III are slaughtered; or
+
+(ii) at the end of a slaughter day thereby ensuring that other kept porcine animals are not slaughtered thereafter;
+
+(c) after the slaughtering of the porcine animals from the restricted zone III, and before the slaughtering of other kept porcine animals starts, the slaughterhouse is cleaned and disinfected in accordance with the instructions of the competent authority of the Member State concerned.
+
+4\. The competent authority of the Member State concerned shall ensure that:
+
+(a) animal by-products obtained from porcine animals kept in the restricted zone III and moved outside that restricted zone are processed or disposed in accordance with Articles 35 and 40;
+
+(b) fresh meat and meat products, including casings, obtained from porcine animals kept in the restricted zone III and moved outside the restricted zone III are processed and stored in accordance with Article 43, point (d).
+
+5\. By way of derogation from the prohibition provided for in Article 9(1), when the movements referred to in paragraph 1 of this Article do not comply with the conditions laid down in paragraph 2 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone III outside that restricted zone, provided that:
+
+(a) prior to granting the authorisation, the competent authority of the Member State concerned assessed the risks arising from such authorisation and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the kept porcine animals are moved for the purpose of immediate slaughter under conditions provided for in Article 29(3), points (b) and (c), and in accordance with Article 28(2) and Article 29(2) of Delegated Regulation (EU) 2020/687;
+
+(c) the slaughterhouse of destination is designated in accordance with Article 44(1) and is located:
+
+(i) in another restricted zone III in the territory of the same Member State concerned, as near as possible to the establishment of dispatch;
+
+(ii) in restricted zones II or I in the territory of the same Member State concerned, as near as possible to the establishment of dispatch, where it is not possible to slaughter the animals in the restricted zone III;
+
+(iii) in areas outside restricted zones I, II and III in the territory of the same Member State, where it is not possible to slaughter the animals in the restricted zones I, II or III;
+
+(d) the animal by-products obtained from porcine animals kept in a restricted zone III are processed or disposed in accordance with Articles 35, 38 and 40;
+
+(e) the fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone III are only moved from a slaughterhouse within the same Member State in accordance with Article 41(2), point (b)(i).
+
+#### Article 30 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in a restricted zone III within that restricted zone to a slaughterhouse located in the territory of the same Member State concerned for the purpose of immediate slaughter
+
+1\. By way of derogation from the prohibition provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in a restricted zone III to a slaughterhouse located within that restricted zone in the territory of the same Member State concerned, provided that:
+
+(a) the kept porcine animals are moved for the purpose of immediate slaughter;
+
+(b) the slaughterhouse of destination is:
+
+(i) designated in accordance with Article 44(1); and
+
+(ii) located within the same restricted zone III;
+
+(c) the animal by-products obtained from porcine animals kept in a restricted zone III are processed or disposed in accordance with Articles 35, 38 and 40;
+
+(d) fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone III are only moved from a slaughterhouse within the same Member State in accordance with Article 43, point (d).
+
+2\. The competent authority shall only grant the authorisations provided for in paragraph 1 subject to compliance with:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687;
+
+(b) the additional general conditions laid down in Article 14(2), Article 15(1), points (b) and (c), Article 15(2) and (4), and Articles 16 and 17.
+
+3\. By way of derogation from the prohibition provided for in Article 9(1), when the movements of consignments of kept porcine animals referred to in paragraph 1 of this Article do not comply with the conditions provided for in paragraph 2 of this Article, the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in restricted zone III to a slaughterhouse within that restricted zone, provided that:
+
+(a) prior to granting the authorisation the competent authority of the Member State concerned assessed the risks arising from such authorisation and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the kept porcine animals are moved for the purpose of immediate slaughter;
+
+(c) the slaughterhouse of destination is:
+
+(i) designated in accordance with Article 44(1); and
+
+(ii) located within the same restricted zone III as near as possible to the establishment of dispatch;
+
+(d) animal by-products obtained from porcine animals kept in a restricted zone III are processed or disposed in accordance with Articles 35, 38 and 40;
+
+(e) fresh meat obtained from the porcine animals kept in a restricted zone III is marked and moved in accordance with the specific conditions for authorising movements of consignments of fresh meat obtained from kept animals of listed species from certain establishments laid down in Article 33(2) of Delegated Regulation (EU) 2020/687 to a processing establishment to undergo one of the relevant risk-mitigating treatments set out in Annex VII thereto.
+
+### SECTION 7 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in restricted zones i, ii and iii outside those restricted zones to an animal by-products approved plant
+
+#### Article 31 — Specific conditions for derogations authorising movements of consignments of porcine animals kept in restricted zones I, II or III to an animal by-products approved plant located within or outside restricted zones I, II and III situated within the same Member State concerned
+
+1\. By way of derogation from the prohibitions provided for in Article 9(1), the competent authority of the Member State concerned may authorise movements of consignments of porcine animals kept in restricted zones I, II or III to an animal by-products approved plant located within or outside restricted zones I, II and III situated within the same Member State concerned in which:
+
+(a) the kept porcine animals are immediately killed; and
+
+(b) the resulting animal by-products are disposed of in accordance with Regulation (EC) No 1069/2009.
+
+2\. The competent authority of the Member State concerned shall only grant an authorisation provided for in paragraph 1 where:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2) and Article 17 are met.
+
+### SECTION 8 — Specific conditions for authorising movements of consignments of germinal products obtained from porcine animals kept in a restricted zone II outside that restricted zone
+
+#### Article 32 — Specific conditions for derogations authorising movements of consignments of germinal products obtained from porcine animals kept in a restricted zone II from that restricted zone in the territory of the same Member State concerned
+
+By way of derogation from the prohibition provided for in Article 10(1), the competent authority of the Member State concerned may authorise movements of consignments of germinal products from a registered or approved germinal product establishment located in a restricted zone II to another restricted zone II or restricted zones I or III or to areas outside restricted zones I, II and III in the territory of the same Member State provided that:
+
+(a) the germinal products were collected or produced, processed and stored in establishments and were obtained from kept porcine animals that comply with the conditions laid down in Article 15(1), points (b) and (c), Article 15(2) and (5), and Article 16;
+
+(b) the donor males and donor females of the porcine animals were kept at germinal product establishments where no other kept porcine animals were introduced from establishments located in restricted zones II that do not comply with the additional general conditions laid down in Articles 15 and 16 and from establishments located in restricted zones III during a period of at least 30 days prior to the date of the collection or production of the germinal products.
+
+#### Article 33 — Specific conditions for derogations authorising movements of consignments of germinal products obtained from porcine animals kept in a restricted zone III from that restricted zone in the territory of the same Member State concerned
+
+By way of derogation from the prohibition provided for in Article 10(1), the competent authority of the Member State concerned may authorise movements of consignments of germinal products from an approved germinal product establishment located in a restricted zone III to another restricted zone III or restricted zones I or II or to areas outside restricted zones I, II and III in the territory of the same Member State provided that:
+
+(a) the germinal products were collected or produced, processed and stored in establishments and were obtained from kept porcine animals that comply with the conditions laid down in Article 15(1), points (b) and (c), Article 15(2) and (5), and Article 16;
+
+(b) the donor males and donor females of the porcine animals were kept at approved germinal product establishments:
+
+(i) since birth or for a period of at least three months prior to the date of collection of the germinal products;
+
+(ii) into which no other kept porcine animals were introduced from establishments located in restricted zones II that do not comply with the additional general conditions laid down in Articles 15 and 16 and from establishments located in restricted zones III during a period of at least 30 days prior to the date of the collection or production of the germinal products;
+
+(c) all kept porcine animals in the approved germinal product establishment have been subjected with favourable results to a laboratory examination for African swine fever at least annually.
+
+#### Article 34 — Specific conditions for derogations authorising movements of consignments of germinal products obtained from porcine animals kept in a restricted zone II from that restricted zone to restricted zones II or III in another Member State
+
+1\. By way of derogation from the prohibition provided for in Article 10(1), the competent authority of the Member State concerned may authorise movements of consignments of the germinal products obtained from porcine animals kept in a restricted zone II from an approved germinal product establishment located in a restricted zone II to restricted zones II or III in the territory of another Member State concerned provided that:
+
+(a) the germinal products were collected or produced, processed and stored at germinal product establishments in accordance with the conditions laid down in Article 15(1), points (b) and (c), Article 15(2), and Article 16;
+
+(b) the donor males and donor females of the porcine animals were kept in approved germinal product establishments:
+
+(i) since birth or for a period of at least three months prior to the date of collection of the germinal products;
+
+(ii) into which no other kept porcine animals were introduced from restricted zones II and III during a period of at least 30 days prior to the date of the collection or production of the germinal products;
+
+(c) the consignments of germinal products comply with any other appropriate animal health guarantees based on a positive outcome of a risk assessment of measures against the spread of African swine fever:
+
+(i) required by the competent authorities of the establishment of dispatch;
+
+(ii) approved by the competent authority of the Member State of the establishment of destination, prior to the date of movement of the consignments of germinal products;
+
+(d) all kept porcine animals in the approved germinal product establishment of dispatch are subjected with favourable results to a laboratory examination for African swine fever at least annually.
+
+2\. The competent authority of the Member State concerned shall:
+
+(a) draw up a list of approved germinal product establishments that comply with the conditions laid down in paragraph 1 of this Article and which are authorised for movements of consignments of germinal products from a restricted zone II in that Member State concerned to restricted zones II and III in another Member State concerned; that list shall contain the information required to be kept by the competent authority of the Member State concerned on approved germinal product establishments for porcine animals as laid down in Article 7 of Delegated Regulation (EU) 2020/686;
+
+(b) make the list provided for in point (a) available to the public on its website and keep it up-to-date;
+
+(c) provide the Commission and the other Member States with the link to the website referred to in point (b).
+
+### SECTION 9 — Specific conditions for derogations authorising movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones
+
+#### Article 35 — Specific conditions for derogations authorising movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones within the same Member State for the purpose of processing or disposal
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of animal by-products obtained from porcine animals kept in restricted zones II and III outside those restricted zones to a plant or establishment approved by the competent authority for the purposes of processing, disposal as waste by incineration or disposal or recovery by co-incineration of animal by-products referred to in Article 24(1), points (a), (b) and (c) of Regulation (EC) No 1069/2009, located outside restricted zones II or III situated within the same Member State provided that the means of transport are individually equipped with a satellite navigation system to determine, transmit and record its real time location.
+
+2\. The transport operator responsible for the movements of consignments of animal by-products referred to in paragraph 1 shall:
+
+(a) enable the competent authority to control, by means of a satellite navigation system, the real time movement of the means of transport;
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of the movement of the consignment.
+
+3\. The competent authority may decide that the satellite navigation system referred to in paragraph 1 shall be replaced by an individual sealing of the means of transport provided that:
+
+(a) the consignments of animal by-products obtained from porcine animals kept in restricted zones II and III are only moved within the same Member State for the purposes referred to in paragraph 1;
+
+(b) each means of transport is sealed by an official veterinarian immediately after the loading of the consignment of animal by-products; only an official veterinarian or enforcement authority of the Member State, as agreed with the competent authority of the Member State concerned, may break the seal and replace it with a new one, where relevant.
+
+4\. By way of derogation from Article 11(1), the competent authority of the Member State concerned may decide to authorize movements of consignments of animal by-products referred to in paragraph 1 of this Article through a temporary collection plant approved in accordance with Art 24(1), point (i), of Regulation (EC) No 1069/2009 provided that:
+
+(a) the competent authority of the Member State concerned assessed the risks arising from such movements and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the animal by-products are only moved to an approved temporary collection plant located as near as possible to the establishment of dispatch in the same Member State concerned.
+
+#### Article 36 — Specific conditions for derogations authorising movements of consignments of manure obtained from porcine animals kept in restricted zones II and III outside those restricted zones within the same Member State
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of manure, including litter and used bedding, obtained from porcine animals kept in restricted zones II and III to a landfill located outside those restricted zones within the same Member State in accordance with the specific conditions laid down in Article 51 of Delegated Regulation (EU) 2020/687.
+
+2\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of manure, including litter and used bedding, obtained from porcine animals kept in a restricted zone II for processing or disposal in accordance with Regulation (EC) No 1069/2009 in a plant approved for those purposes within the territory of the same Member State.
+
+3\. The transport operator responsible for the movements of consignments of manure, including litter and used bedding, referred to in paragraphs 1 and 2 shall:
+
+(a) enable the competent authority to control, by means of a satellite navigation system, the real time movement of the means of transport;
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of movement of the consignment.
+
+4\. The competent authority of the Member State concerned may decide that the satellite navigation system referred to in paragraph 3, point (a), shall be replaced by an individual sealing of the means of transport provided that each means of transport is sealed by an official veterinarian immediately after the loading of the consignment of manure, including litter and used bedding, referred to in paragraphs 1 and 2.
+
+Only an official veterinarian or enforcement authority of the Member State concerned, as agreed with that competent authority, may break that seal and replace it with a new one, where relevant.
+
+#### Article 37 — Specific conditions for authorising movements of consignments of Category 3 materials obtained from porcine animals kept in restricted zones II outside those restricted zones within the same Member State for the purposes of the processing of animal by-products referred to in Article 24(1), points (a), (e) and (g), of Regulation (EC) No 1069/2009
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of Category 3 materials obtained from porcine animals kept in a restricted zone II outside that restricted zone to a plant or establishment approved by the competent authority for the purposes of further processing into processed feed, for the manufacturing of processed pet food and derived products intended for uses outside the feed chain, or transformation of animal by-products into biogas or compost as referred to in Article 24(1), points (a), (e) and (g), of Regulation (EC) No 1069/2009 located outside the restricted zone II situated within the same Member States provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Articles 14(2) are met;
+
+(c) the Category 3 materials originate from kept porcine animals and establishments that comply with the general conditions laid down in Article 15(1), points (b) and (c), Article 15(2) and (3), and Article 16;
+
+(d) the Category 3 materials are obtained from porcine animals kept in a restricted zone II and slaughtered either:
+
+(i) in a restricted zone II of:
+
+— the same Member State concerned; or
+
+— another Member State concerned in accordance with Article 25;
+
+or
+
+(ii) outside a restricted zone II situated in the same Member State concerned in accordance with Article 24;
+
+(e) the means of transport is individually equipped with a satellite navigation system to determine, transmit and record its real time location;
+
+(f) the consignments of Category 3 materials are moved from the slaughterhouse or other establishments of food business operators designated in accordance with Article 44(1) directly to:
+
+(i) a processing plant for the processing of derived products referred to in Annex X to Regulation (EU) No 142/2011;
+
+(ii) a pet food plant approved for the production of processed pet food referred to in Chapter II, point 3(a) and point 3(b)(i), (ii) and (iii), of Annex XIII to Regulation (EU) No 142/2011;
+
+(iii) a biogas or a compost plant approved for the transformation of animal by-products into compost or biogas in accordance with the standard transformation parameters referred to in Chapter III, Section 1, of Annex V to Regulation (EU) No 142/2011; or
+
+(iv) a processing plant for the processing of derived products referred to in Annex XIII to Regulation (EU) No 142/2011.
+
+2\. The transport operator responsible for the movements of consignments of Category 3 materials referred to in paragraph 1 shall:
+
+(a) enable the competent authority to control, by means of a satellite navigation system, the real time movement of the means of transport;
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of the movement of the consignment.
+
+3\. The competent authority of the Member State concerned may decide that the satellite navigation system referred to in paragraph 1, point (e), shall be replaced by an individual sealing of the means of transport, provided that:
+
+(a) the Category 3 materials:
+
+(i) have been obtained from porcine animals kept in restricted zones II;
+
+(ii) are only moved within the same Member State for the purposes referred to in paragraph 1;
+
+(b) each means of transport is sealed by an official veterinarian immediately after the loading of the consignment of Category 3 materials referred to in paragraph 1.
+
+Only an official veterinarian or enforcement authority of the Member State concerned, as agreed with the competent authority of that Member State, may break that seal and replace it with a new one, where relevant.
+
+#### Article 38 — Specific conditions for derogations authorising movements of consignments of Category 2 materials obtained from porcine animals kept in restricted zones II and III outside those restricted zones for the purposes of processing and disposal in another Member State
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of animal by-products of Category 2 materials, other than manure, including litter and used bedding, referred to in Article 36 of this Regulation, obtained from porcine animals kept in restricted zones II and III to a processing plant to be processed by methods 1 to 5, as set out in Chapter III of Annex IV to Regulation (EU) No 142/2011, or to an incineration or co-incineration plant, as referred to in Article 24(1), points (a),(b) and (c), of Regulation (EC) No 1069/2009, located in another Member State, provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Articles 14(2) are met;
+
+(c) the means of transport is individually equipped with a satellite navigation system to determine, transmit and record its real time location;
+
+2\. The transport operator responsible for movements of consignments of Category 2 materials referred to in paragraph 1 of this Article, other than manure, including litter and used bedding, referred to in Article 36, shall:
+
+(a) enable the competent authority of the Member State concerned to control, by means of a satellite navigation system, the real time movement of the means of transport; and
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of movement of the consignment.
+
+3\. The competent authorities of the Member States of dispatch and of destination of the consignment of Category 2 materials referred to in paragraph 1 of this Article, other than manure, including litter and used bedding, referred to in Article 36 of this Regulation, shall ensure the controls of that consignment in accordance with Article 48of Regulation (EC) No 1069/2009.
+
+#### Article 39 — Specific conditions for derogations authorising movements of consignments of Category 3 materials obtained from porcine animals kept in a restricted zone II outside that restricted zone for further processing or transformation in another Member State
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of Category 3 materials obtained from porcine animals kept in a restricted zone II outside that restricted zone to a plant or establishment approved by the competent authority for the processing of Category 3 materials into processed feed, processed pet food, derived products intended for uses outside the feed chain, or the transformation of Category 3 materials into biogas or compost as referred to in Article 24(1), points (a), (e) and (g), of Regulation (EC) No 1069/2009, located in another Member State, provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2) are met;
+
+(c) the Category 3 materials originate from kept porcine animals and establishments that comply with the general conditions laid down in Article 15(1), points (b) and (c), Article 15(2) and (3), and Article 16;
+
+(d) the Category 3 materials referred to in paragraph 1 are obtained from porcine animals kept in a restricted zone II and slaughtered either:
+
+(i) in a restricted zone II of:
+
+— the same Member State concerned; or
+
+— another Member State concerned in accordance with Article 25;
+
+or
+
+(ii) outside a restricted zone II situated in the same Member State concerned in accordance with Article 24;
+
+(e) the means of transport is individually equipped with a satellite navigation system to determine, transmit and record its real time location;
+
+(f) the animal by-products are moved directly from the slaughterhouse or other establishments of food business operators designated in accordance with Article 44(1) to:
+
+(i) a processing plant for the processing of derived products referred to in Annexes X and XIII to Regulation (EU) No 142/2011;
+
+(ii) a pet food plant approved for the production of processed pet food referred to in Chapter II, point 3(b)(i), (ii) and (iii), of Annex XIII to Regulation (EU) No 142/2011;
+
+(iii) a biogas or a compost plant approved for the transformation of animal by-products into compost or biogas in accordance with the standard transformation parameters referred to in Chapter III, Section 1, of Annex V to Regulation (EU) No 142/2011.
+
+2\. The transport operator responsible for movements of consignments of Category 3 materials shall:
+
+(a) enable the competent authority to control, by means of a satellite navigation system, the real time movement of the means of transport; and
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of the movement of the consignment.
+
+#### Article 40 — Specific conditions for authorising movements of consignments of Category 3 materials obtained from porcine animals kept in restricted zones III outside that restricted zone within the same Member State for the purpose of the processing of animal by-products referred to in Article 24(1), points (a), (e) and (g), of Regulation (EC) No 1069/2009
+
+1\. By way of derogation from Article 11(1) of this Regulation, the competent authority of the Member State concerned may authorise movements of consignments of Category 3 materials obtained from porcine animals kept in a restricted zone III outside that restricted zone to a plant or establishment approved by the competent authority for the manufacturing of processed pet food, derived products intended for uses outside the feed chain, or the transformation of Category 3 materials into biogas or compost, as referred to in Article 24(1), points (a), (e) and (g), of Regulation (EC) No 1069/2009, located outside the restricted zone III situated within the same Member States provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Articles 14(2) are met;
+
+(c) the Category 3 materials originate from kept porcine animals and establishments that comply with the general conditions laid down in Article 15(1), points (b) and (c), Article 15(2) and (3), and Article 16;
+
+(d) the Category 3 materials are obtained from porcine animals kept in a restricted zone III and slaughtered in accordance with Article 29 or 30;
+
+(e) the means of transport is individually equipped with a satellite navigation system to determine, transmit and record its real time location;
+
+(f) the consignments of Category 3 materials are moved directly from the slaughterhouse or other establishments of food business operators designated in accordance with Article 44(1) to:
+
+(i) a processing plant for the processing of derived products referred to in Annexes X and XIII to Regulation (EU) No 142/2011;
+
+(ii) a pet food plant approved by the competent authority for the production of processed pet food referred to in Chapter II, point 3(a) and point 3(b)(i), (ii) and (iii), of Annex XIII to Regulation (EU) No 142/2011;
+
+(iii) a biogas or a compost plant approved by the competent authority for the transformation of animal by-products into compost or biogas in accordance with the standard transformation parameters referred to in Chapter III, Section 1, of Annex V to Regulation (EU) No 142/2011.
+
+2\. The transport operator responsible for the movements of consignments of Category 3 materials referred to in paragraph 1 shall:
+
+(a) enable the competent authority to control by means of a satellite navigation system the real time movement of the means of transport;
+
+(b) keep the electronic records of that movement for a period of at least two months from the date of movement of the consignment.
+
+3\. The competent authority of the Member State concerned may decide that the satellite navigation system referred to in paragraph 1, point (e), shall be replaced by an individual sealing of the means of transport provided that:
+
+(a) the Category 3 materials are only moved within the same Member State for the purposes referred to in paragraph 1;
+
+(b) each means of transport is sealed by an official veterinarian immediately after the loading of the consignment of Category 3 materials referred to in paragraph 1.
+
+Only an official veterinarian or enforcement authority of the Member State concerned, as agreed with the competent authority of that Member State, may break that seal and replace it with a new one, where relevant.
+
+### SECTION 10 — Specific conditions for derogations authorising movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III outside those restricted zones
+
+#### Article 41 — Specific conditions for authorising movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II outside that restricted zone in the territory of the same Member State concerned
+
+1\. By way of derogation from the prohibitions provided for in Article 12(1), the competent authority of the Member State concerned may authorise movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II outside that restricted zone in the territory of the same Member State concerned, provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the fresh meat and meat products, including casings, are obtained from porcine animals kept in establishments that comply with the additional general conditions laid down in Article 14(2), Article 15(1), points (b) and (c), Article 15(2) and (3), and Article 16;
+
+(c) the fresh meat and meat products, including casings, have been produced in establishments designated in accordance with Article 44(1).
+
+2\. By way of derogation from the prohibitions provided for in Article 12(1), where the conditions laid down in paragraph 1 of this Article are not met, the competent authority of the Member State concerned may authorise movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II outside that restricted zone in the territory of the same Member State concerned, provided that:
+
+(a) the fresh meat and meat products, including casings, have been produced in establishments designated in accordance with Article 44(1);
+
+(b) the fresh meat and meat products, including casings, either
+
+(i) in the case of fresh meat only, are marked and moved in accordance with the specific conditions for authorising movements of consignments of fresh meat obtained from kept animals of listed species from certain establishments laid down in Article 33(2) of Delegated Regulation (EU) 2020/687 to a processing establishment to undergo one of the relevant risk-mitigating treatments set out in Annex VII thereto;
+
+or
+
+(ii) have been marked in accordance with Article 47; and
+
+(iii) are only intended for movement within the same Member State concerned.
+
+#### Article 42 — Specific conditions for derogations authorising movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II outside that restricted zone to other Member States and to third countries
+
+By way of derogation from the prohibitions provided for in Article 12(1), the competent authority of the Member State concerned may authorise movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II outside that restricted zone to other Member States and to third countries, provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2) are met;
+
+(c) the fresh meat and meat products, including casings, have been obtained from porcine animals kept in establishments that comply with the general conditions laid down in:
+
+(i) Article 15(1), points (b) and (c), Article 15(2) and (3); and
+
+(ii) Article 15(1), point (a), except when the kept porcine animals are moved to establishments in accordance with Article 24; and
+
+(iii) Article 16;
+
+(d) the fresh meat and meat products, including casings, have been produced in establishments designated in accordance with Article 44(1).
+
+#### Article 43 — Specific conditions for derogations authorising movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone III to other restricted zones I, II and III or areas outside restricted zones I, II and III in the territory of the same Member State
+
+By way of derogation from the prohibitions provided for in Article 12(1), the competent authority of the Member State concerned may authorise movements of consignments of fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone III to other restricted zones I, II and III or areas outside restricted zones I, II and III in the territory of the same Member State, provided that:
+
+(a) the general conditions laid down in Article 43(2) to (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(b) the additional general conditions laid down in Article 14(2) are met;
+
+(c) the fresh meat and meat products, including casings, have been obtained from porcine animals:
+
+(i) kept in establishments that comply with the general conditions laid down in:
+
+— Article 15(1), points (b) and (c) and Article 15(2); and
+
+— Article 15(1), point (a), except when the kept porcine animals are moved to establishments in accordance with Article 29; and
+
+— Article 16;
+
+(ii) slaughtered either:
+
+— within the same restricted zone III; or
+
+— outside the same restricted zone III, after the authorised movement in accordance with Article 29;
+
+(d) the fresh meat and meat products, including casings, have been produced in establishments designated in accordance with Article 44(1); and either
+
+(i) in the case of fresh meat only, are marked and moved in accordance with the specific conditions for authorising movements of consignments of fresh meat obtained from kept animals of listed species from certain establishments laid down in Article 33(2) of Delegated Regulation (EU) 2020/687 to a processing establishment to undergo one of the relevant risk-mitigating treatments set out in Annex VII thereto;
+
+or
+
+(ii) have been marked in accordance with Article 47; and
+
+(iii) are only intended for movement within the same Member State concerned.
+
+## CHAPTER IV — SPECIAL RISK-MITIGATING MEASURES CONCERNING AFRICAN SWINE FEVER FOR FOOD BUSINESSES IN THE MEMBER STATES CONCERNED
+
+#### Article 44 — Special designation of slaughterhouses and cutting plants, cold stores, meat processing and game handling establishments
+
+1\. The competent authority of the Member State concerned shall, following an application by a food business operator, designate establishments for:
+
+(a) the immediate slaughter of kept porcine animals from restricted zones II and III:
+
+(i) within those restricted zones II and III, as referred to in Articles 24 and 30;
+
+(ii) outside those restricted zones II and III, as referred to in Articles 24 and 29;
+
+(b) the cutting, processing and storage of the fresh meat and meat products, including casings, from porcine animals kept in restricted zones II or III as referred to in Articles 41, 42 and 43;
+
+(c) the preparation of game meat as referred to in point 1(1.18) of Annex I to Regulation (EC) No 853/2004 and the processing and storage of the fresh meat and meat products from wild porcine animals obtained in restricted zones I, II or III as provided for in Articles 51 and 52 of this Regulation;
+
+(d) the preparation of game meat as referred to in point 1(1.18) of Annex I to Regulation (EC) No 853/2004 and the processing and storage of the fresh meat and meat products from wild porcine animals, where those establishments are located in restricted zones I, II or III as provided for in Articles 51 and 52 of this Regulation.
+
+2\. The competent authority may decide that the designation referred to in paragraph 1 shall not be required for establishments processing, cutting and storing fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II or III and from wild porcine animals obtained in the restricted zones I, II or III, and establishment referred to in paragraph 1, point (d), provided that:
+
+(a) the fresh meat and meat products, including casings, of porcine origin are marked with a special health mark or, where relevant, an identification mark referred to in Article 47 in those establishments;
+
+(b) the fresh meat and meat products, including casings, of porcine origin from those establishments are only intended for the same Member State concerned;
+
+(c) the animal by-products of porcine origin from those establishments are only processed or disposed of in accordance with Article 35 within the same Member State.
+
+3\. The competent authority of the Member State concerned shall:
+
+(a) provide the Commission and other Member States with a link to the website of the competent authority with a list of designated establishments and their activities referred to in paragraph 1;
+
+(b) keep the list provided for in point (a) updated.
+
+#### Article 45 — Special conditions for the designation of establishments for the immediate slaughter of porcine animals kept in restricted zones II or III
+
+The competent authority of the Member State concerned shall only designate establishments for the immediate slaughter of porcine animals kept in restricted zones II or III, subject to compliance with the following conditions:
+
+(a) the slaughtering of porcine animals kept outside restricted zones II and III and of porcine animals kept in the restricted zones II or III that are subject to authorised movements provided for in Articles 24, 29 and 30 and the production and storage of products thereof are carried out separately from the slaughtering of porcine animals kept in restricted zones I, II or III and from the production and storage of products thereof that do not comply with the relevant:
+
+(i) additional general conditions laid down in Articles 15, 16 and 17; and
+
+(ii) specific conditions provided for in Articles 24, 29 and 30;
+
+(b) the operator of the establishment has in place documented instructions or procedures approved by the competent authority of the Member State concerned to ensure that the conditions laid down in point (a) are met.
+
+#### Article 46 — Special conditions for the designation of establishments for the cutting, processing and storing of the fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III
+
+The competent authority of the Member State concerned shall only designate establishments for the cutting, processing and storing of the fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III, subject to compliance with the following conditions:
+
+(a) the cutting, processing and storing of the fresh meat and meat products, including casings, obtained from porcine animals kept outside restricted zones II and III and from porcine animals kept in restricted zones II and III are carried out separately from fresh meat and meat products, including casings, obtained from porcine animals kept in restricted zones II and III that do not comply with the relevant:
+
+(i) additional general conditions laid down in Articles 15, 16 and 17; and
+
+(ii) specific conditions provided for in Articles 41, 42 and 43;
+
+(b) the operator of the establishment has in place documented instructions or procedures approved by the competent authority of the Member State concerned to ensure that the conditions laid down in point (a) are met.
+
+#### Article 47 — Special health or identification marks
+
+1\. The competent authority of the Member State concerned shall ensure that the following products of animal origin are marked in accordance with paragraph 2:
+
+(a) the fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone III, as provided for in Article 43, point (d)(ii);
+
+(b) the fresh meat and meat products, including casings, obtained from porcine animals kept in a restricted zone II, where the specific conditions for authorising movements of consignments of those commodities outside the restricted zone II provided for in Article 41(1) are not met, as provided for in Articles 24(3), point (e), and 41(2), point (b)(ii);
+
+(c) the fresh meat and meat products from wild porcine animals moved within a restricted zone I or outside that restricted zone from the establishment designated in accordance with Article 44(1), as provided for in Article 52(1), point (c)(iii), first indent.
+
+2\. The competent authority of the Member State concerned and, where relevant, food business operators shall ensure that:
+
+(a) a health mark or, where relevant, an identification mark as provided for in Article 5(1) of Regulation (EC) No 853/2004 with two additional diagonal parallel lines is applied to products of animal origin referred to in paragraph 1 of this Article and intended for movement only within the same Member State concerned;
+
+(b) following the marking of the products of animals origin as provided for in paragraph 2, point (a), of this Article the information required for a health mark or, where relevant, an identification mark provided for in Article 5(1) of Regulation (EC) No 853/2004 remains in perfectly legible characters.
+
+3\. By way of derogation from paragraph 2 of this Article, the competent authority of the Member State concerned may authorise the use of another form of special health mark or, where relevant, an identification mark that is not oval and cannot be confused with the health mark or identification mark provided for in Article 5(1) of Regulation (EC) No 853/2004 for a period of twelve months following the date of publication of this Regulation.
+
+## CHAPTER V — SPECIAL DISEASE CONTROL MEASURES APPLICABLE TO WILD PORCINE ANIMALS IN THE MEMBER STATES
+
+#### Article 48 — Specific prohibitions on movements of consignments of wild porcine animals by operators
+
+The competent authorities of the Member States shall prohibit movements of consignments wild porcine animals by operators as provided for in Article 101 of Delegated Regulation (EU) 2020/688:
+
+(a) within the whole territory of the Member State;
+
+(b) from the whole territory of the Member State to:
+
+(i) other Member States; and
+
+(ii) third countries.
+
+#### Article 49 — Specific prohibitions on movements within restricted zones I, II and III and from those restricted zones of fresh meat, meat products and any other products of animal origin, animal by-products and derived products obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption
+
+1\. The competent authorities of the Member States concerned shall prohibit movements within and from restricted zones I, II and III of consignments of fresh meat, meat products and any other products of animal origin, animal by-products and derived products obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption.
+
+2\. The competent authorities of the Member States concerned shall prohibit movements within and from restricted zones I, II and III of fresh meat, meat products and any other products of animal origin, animal by-products and derived products obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption:
+
+(a) for private domestic use;
+
+(b) by hunters for the supply of small quantities of wild porcine game or wild game meat of porcine origin directly to the final consumer or to local retail establishments directly supplying the final consumer, as provided for in Article 1(3), point (e), of Regulation (EC) No 853/2004.
+
+#### Article 50 — General prohibitions on movements of consignments of products obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, considered as a risk for the spread of African swine fever
+
+The competent authority of the Member State concerned may prohibit within the territory of the same Member State the movements of consignments of fresh meat, meat products and any other products obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, if the competent authority considers that there is a risk for the spread of African swine fever to, from or through those wild porcine animals or products thereof.
+
+#### Article 51 — Specific conditions for derogations authorising movements within restricted zones I, II and III and from those restricted zones of consignments of meat products obtained from wild porcine animals
+
+1\. By way of derogation from the prohibition provided for in Article 49(1), the competent authority of the Member State concerned may authorise movements within and from restricted zones I, II or III of consignments of meat products obtained from wild porcine animals from establishments located in restricted zones I, II or III to:
+
+(a) other restricted zones I, II or III situated in the same Member State concerned;
+
+(b) areas outside restricted zones I, II and III of the same Member State concerned; and
+
+(c) other Member States and to third countries.
+
+2\. The competent authority of the Member State concerned shall only authorise movements of consignments of meat products obtained from wild porcine animals from establishments located in a restricted zone I, II or III referred to in paragraph 1 subject to compliance with the following conditions:
+
+(a) pathogen identification tests for African swine fever have been carried out for each wild porcine animal used for the production and processing of the meat products in the restricted zones I, II and III;
+
+(b) the competent authority obtained negative results of the pathogen identification tests for African swine fever referred to in point (a) before the treatment referred to in point (c)(ii);
+
+(c) the meat products from wild porcine animals:
+
+(i) were produced, processed and stored in establishments designated in accordance with Article 44(1); and
+
+(ii) have undergone the relevant risk-mitigating treatment for products of animal origin from restricted zones in accordance with Annex VII to Delegated Regulation (EU) 2020/687, as regards African swine fever.
+
+#### Article 52 — Specific conditions for derogations authorising movements within restricted zones I, II and III and from restricted zone I of fresh meat, meat products and any other products of animal origin obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption
+
+1\. By way of derogation from the prohibitions provided for in Article 49(1) and (2), the competent authority of the Member State concerned may authorise movements within a restricted zone I and from that restricted zone of consignments of the fresh meat, meat products and any other products of animal origin obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, to other restricted zones I, II and III or to areas outside restricted zones I, II and III of the same Member State, provided that:
+
+(a) pathogen identification tests for African swine fever have been carried out for every wild porcine animal before the movement of consignment of the fresh meat, meat products and any other products of animal origin from that wild porcine animal;
+
+(b) the competent authority of the Member State concerned obtained negative results for the pathogen identification tests for African swine fever referred to in point (a) before the movement of the consignment;
+
+(c) the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, are moved within or outside restricted zone I within the same Member State:
+
+(i) for private domestic use; or
+
+(ii) by hunters for the supply of small quantities of wild porcine game or wild game meat of porcine origin directly to the final consumer or to local retail establishments directly supplying the final consumer, as provided for in Article 1(3), point (e), of Regulation (EC) No 853/2004; or
+
+(iii) from the establishment designated in accordance with Article 44(1) where the fresh meat and meat products have been marked either:
+
+— with a special health or identification mark in accordance with Article 47(1), point (c); or
+
+— in accordance with Article 33(2) of Delegated Regulation (EU) 2020/687 and are moved to a processing establishment to undergo one of the relevant risk-mitigating treatments set out in Annex VII thereto.
+
+2\. By way of derogation from the prohibitions provided for in Article 49(1) and (2), the competent authority of the Member State concerned may authorise movements of consignments of the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, within restricted zones II and III of the same Member State, provided that:
+
+(a) pathogen identification tests for African swine fever have been carried out for every wild porcine animal before the movement of the consignment of the fresh meat, meat products and any other products of animal origin from that wild porcine or body of that wild porcine animal, which is intended for human consumption;
+
+(b) the competent authority of the Member State concerned obtained negative results for the pathogen identification tests for African swine fever referred to in point (a) before the movement of the consignment;
+
+(c) the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, are moved within restricted zones II and III within the same Member State either for:
+
+(i) private domestic use;
+
+or
+
+(ii) in accordance with the specific conditions laid down in Article 33(2) of Delegated Regulation (EU) 2020/687 are moved to a processing establishment to undergo one of the relevant risk-mitigating treatments for products of animal origin set out in Annex VII thereto.
+
+3\. The competent authority of the Member State concerned may decide that pathogen identification tests referred to in paragraph 1, point a, and paragraph 2, point a, shall not be required in restricted zone I, II or III provided that:
+
+(a) the competent authority of the Member State concerned assessed, on the basis of appropriate and continuous surveillance, the specific epidemiological situation of African swine fever and the related risks in the particular restricted zone or in the part of it that restricted zone and that assessment indicated that the risk of the spread of African swine fever is negligible;
+
+(b) the assessment referred to in point (a) is reviewed on a regular basis:
+
+(i) taking account of any development of the specific epidemiological situation of African swine fever in the particular restricted zone; and
+
+(ii) the risk of the spread of African swine fever is considered negligible by the competent authority of the Member State concerned;
+
+(c) the consignment of the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, are only moved:
+
+(i) within restricted zones I, II and III of the same Member State concerned as near as possible to the place where the wild porcine animal was hunted; and
+
+(ii) for private domestic use.
+
+#### Article 53 — Operators’ obligations with regard to animal health certificates for consignments of fresh meat, meat products and any other products of animal origin, obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, for movements from restricted zones I, II and III
+
+Operators shall only move consignments of fresh meat, meat products, and any other products of animal origin obtained from wild porcine animals and bodies of wild porcine animals, which are intended for human consumption, from restricted zones I, II and III:
+
+(a) in the cases covered by Articles 51 and 52; and
+
+(b) if those consignments are accompanied by an animal health certificate as provided for in Article 167(1) of Delegated Regulation (EU) 2016/429 that contains:
+
+(i) the information required in accordance with Article 168(1) of Regulation (EU) 2016/429 and the information set out in the Annex to Delegated Regulation (EU) 2020/2154; and
+
+(ii) at least one of the following attestations of compliance with the requirements laid down in this Regulation:
+
+— ‘Fresh meat and meat products, and any other products of animal origin, from restricted zone I obtained from wild porcine animals in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+— ‘Bodies of wild porcine animals, which are intended for human consumption, from restricted zone I in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’;
+
+— ‘Meat products, which have undergone the relevant risk-mitigating treatment, from restricted zones I, II and III obtained from wild porcine animals in compliance with the special disease control measures relating to African swine fever laid down in Commission Implementing Regulation (EU) 2023/594’.
+
+However, in the case of movements of such consignments within the same Member State concerned, the competent authority may decide that an animal health certificate does not have to be issued as referred to in Article 167(1), first subparagraph, of Regulation (EU) 2016/429.
+
+#### Article 54 — Specific conditions for authorising movements within restricted zones I, II and III and outside those restricted zones of consignments of animal by-products and derived products from wild porcine animals
+
+1\. By way of derogation from the prohibitions provided for in Article 49(1) and (2), the competent authority of the Member State concerned may authorise movements within restricted zones I, II and III and outside those restricted zones of consignments of derived products obtained from wild porcine animals to other restricted zones I, II and III or to areas outside restricted zones I, II and III of the same Member State and to other Member States provided that they have been subjected to a risk-mitigating treatment which ensures that the derived products pose no risks for the spread of African swine fever.
+
+2\. By way of derogation from the prohibitions provided for in Article 49(1), the competent authority of the Member State concerned may authorise movements within restricted zones I, II and III and outside those restricted zones of consignments of animal by-products from wild porcine animals to other restricted zones I, II and III and to areas outside restricted zones I, II and III of the same Member State provided that:
+
+(a) the animal by-products are collected, transported and disposed of in accordance with Regulation (EC) No 1069/2009;
+
+(b) for the movements outside restricted zones I, II and III, the means of transport are individually equipped with a satellite navigation system to determine, transmit and record its real time location; the transport operator shall enable the competent authority to control the real time movement of the means of transport and keep the electronic records of the movement for a period of at least two months from the time of the movement of the consignment.
+
+#### Article 55 — Operators’ obligations with regard to animal health certificates for movements of consignments of animal by-products from wild porcine animals outside restricted zones I, II and III in the territory of the same Member State concerned
+
+Operators shall only move consignments of animal by-products from wild porcine animals outside restricted zones I, II and III within the same Member State concerned in the case referred to in Article 54(2), if those consignments are accompanied by:
+
+(a) a commercial document referred to in Chapter III of Annex VIII to Regulation (EU) No 142/2011; and
+
+(b) an animal health certificate referred to in Article 22(5) of Delegated Regulation (EU) 2020/687;
+
+However, the competent authority of the Member State concerned may decide that an animal health certificate shall not be issued as referred to in Article 22(6) of Delegated Regulation (EU) 2020/687.
+
+#### Article 56 — National action plans for wild porcine animals in order to avoid the spread of African swine fever in the Union
+
+1\. All Member States shall establish national action plans covering populations of wild porcine animals on their territory in order to avoid the spread of African swine fever in the Union (national action plans) within a period of six months from the date of publication of this Regulation in the Official Journal of the European Union, in order to ensure:
+
+(a) a high level of disease awareness and preparedness with regard to the risks associated with the spread of African swine fever through wild porcine animals;
+
+(b) the prevention, containment, control and eradication of African swine fever;
+
+(c) coordinated actions covering wild porcine animals to take account of the risks posed by those animals with regard to the spread of African swine fever.
+
+2\. The national action plans shall be established in accordance with the minimum requirements laid down in Annex IV.
+
+3\. A Member State may decide not to draw up a national action plan if appropriate and continuous surveillance has demonstrated no evidence of the permanent presence of wild porcine animals in that Member State.
+
+4\. The measures taken by the Member States in the framework of national action plans shall be compatible, where relevant, with Union environmental rules, including nature protection requirements, laid down in Directives 2009/147/EC and 92/43/EEC.
+
+5\. The Member States shall present their national action plans and the annual results of their implementation to the Commission and to the other Member States.
+
+## CHAPTER VI — SPECIAL INFORMATION AND TRAINING OBLIGATIONS IN THE MEMBER STATES
+
+#### Article 57 — Special information obligations of the Member States concerned
+
+1\. The Member States concerned shall ensure that at least railway, coach, airport and port operators, travel agencies, hunting trip organisers and postal services operators are required to draw the attention of their customers to the special disease control measures laid down in this Regulation, by providing information at least on the main prohibitions laid down in Articles 9, 11, 12, 48 and 49 to travellers moving from restricted zones I, II and III and customers of postal services in an appropriate way.
+
+For that purpose, the Member States concerned shall organise and carry out regular public awareness campaigns to promote and spread information on the special disease control measures laid down in this Regulation.
+
+2\. The Member States concerned shall inform the Commission and the other Member States within the framework of the Standing Committee on Plants, Animals, Food and Feed, of the following:
+
+(a) changes in the epidemiological situation as regards African swine fever in their territory;
+
+(b) results of surveillance for African swine fever in kept and wild porcine animals carried out in restricted zones I, II and III and areas outside those restricted zones;
+
+(c) the results of surveillance for African swine fever in kept and wild porcine animals carried out in areas listed in Annex II;
+
+(d) other measures and initiatives taken to prevent, control and eradicate African swine fever.
+
+#### Article 58 — Special trainings obligations of the Member States concerned
+
+The Member States concerned shall organise and carry out regularly or at appropriate intervals specific trainings concerning the risks of African swine fever and possible prevention, control and eradication measures for at least the following targeted groups:
+
+(a) veterinarians;
+
+(b) farmers keeping porcine animals and other relevant operators and transporters;
+
+(c) hunters.
+
+#### Article 59 — Special information obligations of all Member States
+
+1\. All Member States shall ensure that:
+
+(a) on major land infrastructure routes, such as international communication roads and railways, and related land transport networks, appropriate information on the risks of the transmission of African swine fever and on the special disease control measures laid down in this Regulation are brought to the attention of travellers:
+
+(i) in a visible and prominent manner;
+
+(ii) presented in a way that is easily understood by travellers coming from, and going to:
+
+— the restricted zones I, II and III; or
+
+— third countries at risk of the spread of African swine fever;
+
+(b) the necessary measures are in place to raise awareness among stakeholders active in the kept porcine animals sector including small-size establishments of the risks for the introduction and spread of the African swine fever virus and to provide them with the most appropriate information on reinforced biosecurity measures for establishments of kept porcine animals located in the restricted zones I, II or III as provided for in Annex III, in particular the measures to be enforced in restricted zones I, II and III, by the means best suited to bring such information to their attention.
+
+2\. All Member States shall raise awareness on African swine fever among the following:
+
+(a) the public as provided for in Article 15 of Regulation (EU) 2016/429;
+
+(b) veterinarians, farmers, other relevant operators and transporters and hunters.
+
+3\. All Member States shall provide the public and professionals listed in paragraph 2 with the most appropriate information on risk mitigation and reinforced biosecurity measures as set out in:
+
+(a) Annex III;
+
+(b) The Union’s guidelines on African swine fever as agreed with the Member States at the Standing Committee on Plants, Animals, Food and Feed;
+
+(c) available scientific evidence provided by the European Food Safety Authority;
+
+(d) the Terrestrial Animal Health Code of the World Organisation for Animal Health.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+#### Article 60 — Repeal of Implementing Regulation (EU) 2021/605
+
+Implementing Regulation (EU) 2021/605 is repealed from 21 April 2023.
+
+#### Article 61 — Entry into force and application
+
+This Regulation shall enter into force on the thirtieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 April 2023 until 20 April 2028.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — RESTRICTED ZONES I, II AND III
+
+**PART I**
+
+**1\. Germany**
+
+The following restricted zones I in Germany:
+
+Bundesland Brandenburg:
+
+— Landkreis Märkisch-Oderland:
+
+— Gemeinde Bleyen-Genschmar mit Teilen der Gemarkungen Bleyen und Genschmar, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Küstriner Vorland mit der Gemarkung Neu Manschnow und mit Teilen der Gemarkungen Gorgast, Manschnow und Küstrin-Kietz,
+
+— Gemeinde Alt Tucheband mit Teilen der Gemarkung Rathstock,
+
+— Gemeinde Reitwein mit Teilen der Gemarkung Reitwein,
+
+— Gemeinde Podelzig mit Teilen der Gemarkung Podelzig,
+
+— Gemeinde Lebus mit Teilen der Gemarkungen Lebus und Wüste Kunersdorf,
+
+— Stadt Bad Freienwalde mit den Gemarkungen Altglietzen, Hohenwutzen, Hohensaaten und mit Teilen der Gemarkungen Bralitz, Schiffmühle und Neuenhagen,
+
+— Gemeinde Oderaue mit den Gemarkungen Neuküstrinchen, Neurüdnitz, Zäckericker Loose und mit Teilen der Gemarkungen Neuranft, Neuwustrow, Altwustrow, Neureetz und Altreetz,
+
+— Gemeinde Neulewin mit der Gemarkung Güstebieser Loose und mit Teilen der Gemarkungen Neulietzegöricke, Karlshof, Kerstenbruch und Neulewin,
+
+— Gemeinde Letschin mit Teilen der Gemarkungen Ortwig, Neubarnim, Zelliner Loose, Mehrin Graben, Ortwig Graben, Sophienthal, Kienitz und Groß Neuendorf, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Zechin mit Teilen der Gemarkung Zechin,
+
+— Landkreis Barnim:
+
+— Gemeinde Lunow-Stolzenhagen,
+
+— Gemeinde Parsteinsee,
+
+— Gemeinde Oderberg,
+
+— Gemeinde Liepe,
+
+— Gemeinde Hohenfinow (nördlich der B167),
+
+— Gemeinde Niederfinow,
+
+— Gemeinde (Stadt) Eberswalde mit den Gemarkungen Eberswalde nördlich der B167 und östlich der L200, Sommerfelde und Tornow nördlich der B167,
+
+— Gemeinde Chorin mit den Gemarkungen Brodowin, Chorin östlich der L200, Serwest, Neuehütte, Buchholz, Sandkrug östlich der L200,
+
+— Gemeinde Ziethen,
+
+— Landkreis Uckermark:
+
+— Stadt Schwedt/Oder mit den Gemarkungen Briest, Passow, Schönow, Grünow, Schönermark, Landin nördlich der B2, Felchow westlich der B2,
+
+— Gemeinde Angermünde mit den Gemarkungen Frauenhagen, Mürow, Angermünde nördlich und nordwestlich der B2, Dobberzin nördlich der B2, Kerkow, Welsow, Bruchhagen, Greiffenberg, Günterberg, Biesenbrow, Görlsdorf, Wolletz und Altkünkendorf,
+
+— Gemeinde Zichow,
+
+— Gemeinde Casekow mit den Gemarkungen Blumberg, Wartin, Luckow-Petershagen und den Gemarkungen Biesendahlshof und Casekow westlich der L272 und nördlich der L27,
+
+— Gemeinde Hohenselchow-Groß Pinnow mit der Gemarkung Hohenselchow nördlich der L27,
+
+— Gemeinde Tantow,
+
+— Gemeinde Mescherin mit der Gemarkung Radekow, der Gemarkung Rosow südlich der K 7311 und der Gemarkung Neurochlitz westlich der B2,
+
+— Gemeinde Gartz (Oder) mit der Gemarkung Geesow westlich der B2 sowie den Gemarkungen Gartz und Hohenreinkendorf nördlich der L27 und der B2 bis zur Kastanienallee, dort links abbiegend dem Schülerweg folgend bis Höhe Bahnhof, von hier in östlicher Richtung den Salveybach kreuzend bis zum Tantower Weg, diesen in nördlicher Richtung bis zu Stettiner Straße, diese weiter folgend bis zur B2, dieser in nördlicher Richtung folgend,
+
+— Gemeinde Pinnow nördlich und westlich der B2;
+
+— Landkreis Oder-Spree:
+
+— Gemeinde Brieskow-Finkenheerd mit Teilen der Gemarkung Brieskow-Finkenheerd,
+
+— Stadt Eisenhüttenstadt mit Teilen der Gemarkung Eisenhüttenstadt,
+
+— Gemeinde Lawitz mit Teilen der Gemarkung Lawitz,
+
+— Gemeinde Neißemünde mit den Gemarkungen Breslack, Coschen, Ratzdorf und Teilen der Gemarkung Wellmitz,
+
+— Gemeinde Neuzelle mit der Gemarkung Steinsdorf und Teilen der Gemarkung Neuzelle,
+
+— Gemeinde Vogelsang mit Teilen der Gemarkung Vogelsang,
+
+— Gemeinde Wiesenau mit Teilen der Gemarkung Wiesenau,
+
+— Gemeinde Ziltendorf mit Teilen der Gemarkung Ziltendorf;
+
+— Teile der kreisfreien Stadt Frankfurt/Oder;
+
+— Landkreis Spree-Neiße:
+
+— Gemeinde Schenkendöbern mit Teilen der Gemarkungen Grano, Schenkendöbern, Atterwasch, Kerkwitz und Groß Gastrose,
+
+— Gemeinde Guben mit Teilen der Gemarkungen Guben, Deulowitz und Schlagsdorf und der Gemarkung Bresinchen,
+
+— Gemeinde Jänschwalde mit Teilen der Gemarkung Grießen,
+
+— Stadt Forst mit Teilen der Gemarkungen Horno, Briesnig, Weißagk, Klein Bademeusel, Bohrau, Groß Bademeusel, Forst (Lausitz), Naundorf und Mulknitz,
+
+— Gemeinde Groß Schacksdorf-Simmersdorf mit einem Teil der Gemarkung Groß Schacksdorf,
+
+— Gemeinde Neiße-Malxetal mit einem Teil der Gemarkung Jerischke;
+
+Bundesland Sachsen:
+
+— Landkreis Bautzen:
+
+— Gemeinde Cunewalde,
+
+— Gemeinde Großdubrau,
+
+— Gemeinde Großpostwitz/O.L.,
+
+— Gemeinde Hochkirch,
+
+— Gemeinde Kubschütz,
+
+— Gemeinde Malschwitz,
+
+— Gemeinde Stadt Bautzen mit den Gemarkungen Auritz, Basankwitz, Bautzen, Boblitz, Burk, Malsitz, Nadelwitz, Niederkaina, Oberkaina, Oehna, Strehla,
+
+— Gemeinde Stadt Schirgiswalde-Kirschau mit den Gemarkungen Bederwitz, Halbendorf/Geb, Suppo, Wurbis,
+
+— Gemeinde Stadt Weißenberg, sofern nicht bereits Teil der Sperrzone II;
+
+— Landkreis Görlitz:
+
+— Gemeinde Beiersdorf,
+
+— Gemeinde Boxberg/O.L. mit den Gemarkungen Klitten Flure 1 bis 11 und 13 bis 28, Kringelsdorf Flure 1 bis 12, Nochten Flur 11, Reichwalde Flure 1 bis 4 und 6 bis 8,
+
+— Gemeinde Dürrhennersdorf,
+
+— Gemeinde Großschweidnitz,
+
+— Gemeinde Hähnichen, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Hohendubrau, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Horka, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Kottmar,
+
+— Gemeinde Krauschwitz i.d. O.L. östlich entlang der Straßenzüge B115/B156 nördlicher Teil (Jämlitzer Weg) bis Abzweig Forstweg, dann östlich entlang des Wildzaunes über Forstweg – Bautzener Straße – Waldstück „Drachenberge“ – S126 bis B115,
+
+— Gemeinde Kreba-Neudorf,
+
+— Gemeinde Lawalde,
+
+— Gemeinde Mittelherwigsdorf
+
+— Gemeinde Mücka, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Oderwitz,
+
+— Gemeinde Olbersdorf östlich des Mittelweges (Verbindungsweg von Zittau bis Olbersdorfer Feldgrenzweg (Niederer Grüneplanweg)),
+
+— Gemeinde Oppach,
+
+— Gemeinde Oybin südlich des Olbersdorfer Feldgrenzweges (Niederer Grüneplanweg) in westliche Richtung bis Waldweg, östlich des Verlaufes in südliche Richtung von Waldweg über Olbersdorfer Flügelweg entlang des Goldbachs bis zum Biersteig (Teufelsmühle) an der S133, östlich der S133 in südliche Richtung bis zum ersten Abzweig der Bürgerallee, östlich der Bürgerallee in südliche Richtung über den Fürstensteig bis Brandsteinweg, südlich des Brandsteinweges in Richtung Westen bis zur S133 (Kammstraße), östlich der S133 in südliche Richtung bis zur Landesgrenze,
+
+— Gemeinde Quitzdorf am See, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Rietschen,
+
+— Gemeinde Rosenbach, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Schönbach,
+
+— Gemeinde Stadt Bad Muskau östlich der Strecke B115 von Norden kommend bis zum Abzweig Weinbergweg,
+
+— Gemeinde Stadt Ebersbach-Neugersdorf,
+
+— Gemeinde Stadt Herrnhut,
+
+— Gemeinde Stadt Löbau, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Stadt Neusalza-Spremberg,
+
+— Gemeinde Stadt Niesky, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Stadt Rothenburg/O.L.,
+
+— Gemeinde Stadt Zittau mit den Gemarkungen Burkerdorf, Dittelsdorf, Drausendorf, Hirschfelde, Rosenthal, Schlegel und Wittgendorf sowie östlich der Zittauer Straßenverläufe in Richtung Süden über Neue Straße - Schillerstraße - Theaterring - Klosterstraße - Johannisstraße - Böhmische Straße - Hochwaldstraße – Mittelweg,
+
+— Gemeinde Weißkeißel nördlich der S126 aus westlicher Richtung bis zur B115 und weiter östlich des Verlaufes der B115 in südliche Richtung;
+
+Bundesland Mecklenburg-Vorpommern:
+
+— Landkreis Vorpommern Greifswald:
+
+— Gemeinde Penkun,
+
+— Gemeinde Nadrensee,
+
+— Gemeinde Krackow,
+
+— Gemeinde Glasow,
+
+— Gemeinde Grambow,
+
+— Gemeinde Ramin mit der Gemarkung Bismark östlich der B113 bis Ortslage Linken, nordwestlich der Ortslage Linken nördlich der B104 (Flur 6) und nördlich Flur 6 in 500m Abstand zur deutsch-polnischen Grenze auf Flur 102 sowie 103 bis Gemeindegrenze Ramin-Blankensee,
+
+— Gemeinde Blankensee mit der Gemarkung Blankensee nördlich der Gemeindegrenze Ramin-Blankensee in 1000 m Abstand zur deutsch-polnischen Grenze über die Fluren 5, 6 und 3 bis einschließlich Ortslage Blankensee sowie nördlich der Ortslage Blankensee zwischen der deutsch-polnischen Grenze bis 10 m westlich der Kreisstraße K81 bis Gemarkungsgrenze Blankensee-Pampow und der Gemarkung Pampow nördlich der Gemarkungsgrenze Blankensee-Pampow von der deutsch-polnischen Grenze bis 10 m westlich der Kreisstraße K81 bis einschließlich Ortslage Pampow sowie nordwestlich der Ortslage Pampow nördlich der Kreisstraße K80 mit den Fluren 8, 9, 101, 102, 103, 104, 106 sowie 7 (Ost),
+
+— Gemeinde Hintersee mit der Gemarkung Hintersee mit den Fluren 1, 4 und 10,
+
+— Gemeinde Luckow mit der Gemarkung Luckow mit den Fluren 2 und 6, mit der Gemarkung Rieth mit den Fluren 1, 2 und 3 sowie mit der Gemarkung Riether Werder mit der Flur 1,
+
+— Gemeinde Altwarp-Fischerdorf mit der Gemarkung Altwarp mit den Fluren 1, 2, 3, 4, 5, 6, 7, 8, 9 und 10,
+
+— Gemeinde Vogelsang-Warsin mit der Gemarkung Vogelsang mit den Fluren 1, 2, 3 und 5;
+
+Bundesland Hessen:
+
+— in der Gemeinde Allendorf (Eder) die Gemarkungen
+
+— Rennertehausen,
+
+— Haine,
+
+— Somplar,
+
+— Battenfeld süd-südöstlich der L3382,
+
+— Allendorf (Eder) östlich der B236, ab ca. 170m nördlich des Kreisels östlich des parallel zur B236 verlaufenden Radwegs,
+
+— Bromskirchen östlich des parallel zur B236 verlaufenden Radwegs und östlich der B236 bis zur Landesgrenze NRW;
+
+— in der Gemeinde Battenberg (Eder) die Gemarkungen
+
+— Frohnhausen,
+
+— Laisa,
+
+— Berghofen,
+
+— Battenberg (Eder) südlich der L3382,
+
+— Dodenau südlich der L3382, dann entlang des Riedgrabens in einem Bogen bis zum Abzweig nördlich der K130, ab hier entlang der K114 nach Süden bis zur Gemeindegrenze Hatzfeld;
+
+— in der Gemeinde Hatzfeld (Eder) die Gemarkungen
+
+— Eifa,
+
+— Holzhausen,
+
+— Hatzfeld (Eder) südlich der L553 bis zum Abzweig der K115 sowie östlich der K115,
+
+— Biebighausen südöstlich der K115,
+
+— Reddighausen östlich der K115;
+
+— in der Gemeinde Frankenberg (Eder) die Gemarkungen
+
+— Rengershausen,
+
+— Wangershausen,
+
+— Röddenau nördlich der B253;
+
+— Landkreis Marburg-Biedenkopf:
+
+— in der Gemeinde Biedenkopf die Gemarkungen:
+
+— Weifenbach
+
+— Wallau nördlich der B62 und westlich des Wirtschaftsweges in Verlängerung Breidenstein, Roßbacher Weg
+
+— Biedenkopf nordwestlich der B253 und Nordöstlich der B62
+
+— Breidenstein westlich der B253, Ortslage Breidnstein sowie westlich des Wirtschaftsweges in Verlängerung Breidenstein, Roßbacher Weg;
+
+— in der Gemeinde Breidenbach die Gemarkungen:
+
+— Wiesenbach,
+
+— Kleingladenbach,
+
+— Achenbach,
+
+— Breidenbach westlich der B253, mit Ausnahme der Ortslage Breidnbach östlichder Perf,
+
+— Niederdieten nordwestlich der B253,
+
+— Oberdieten westlich der B253 sowie Ortslage Oberdieten;
+
+— Lahn-Dill-Kreis:
+
+— in der Gemeinde Diezthölztal die Gemarkungen:
+
+— Steinbrücken,
+
+— Straßebersbach südlich der L3044,
+
+— Bergebersbach südöstlich der L3044;
+
+— in der Gemeinde Eschenburg die Gemarkungen:
+
+— Roth nordwestlich der B253,
+
+— Simmersbach im Bereich Ortslage Simmersbach und nördlich davon nordwestlich der B253, zwischen Simmersbach und Eschenburg nördlich der K7,
+
+— Eibelshausen nördlich der K7 zwischen Simmersbach und Eibelshausen, Ortslage Eibelshausen, zwischen Eibelshausen und Wissenbach westlich der B253,
+
+— Wissenbach nordwestlich der B253;
+
+— in der Gemeinde Haiger die Gemarkungen:
+
+— Rodenbach,
+
+— Haiger,
+
+— Flammersbach,
+
+— Langenaubach,
+
+— Weidelbach südöstlich der L3044,
+
+— Oberroßbach südöstlich der L3044,
+
+— Niederroßbach südöstlich der L3044,
+
+— Haigerseelbach westlich der A45 und alle Gebietsanteile die nicht in Schutzzone II liegen,
+
+— Allendorf südlich der A45,
+
+— Sechshelden nördlich der A, nordwestlich der Bebauungsgrenze Sechshelden, außerhalb westlich der K49;
+
+— in der Gemeinde Dillenburg die Gemarkungen:
+
+— Frohnhausen nordwestlich der B253 und K50,
+
+— Manderbach nördlich der K50 und K49;
+
+— Landkreis Rheingau-Taunus-Kreis:
+
+— Stadt Taunusstein mit der Gemarkung Seitzenhahn mit den Fluren 7 und 8,
+
+— Gemeinde Schlangenbad mit der Gemarkung Obergladenbach mit den Fluren 1, 2, 3 und 6 sowie den nordöslichen Teil der Flure 4 und 5, mit der Gemarkung Hausen v. d. H., mit der Gemarkung Bärstadt nördlich der B260, B275 sowie der L3037, mit der Gemarkung Schlangenbad, mit der Gemarkung Georgenborn sowie mit der Gemarkung Wambach nördlich der L3037,
+
+— Stadt Bad Schwalbach mit der Gemarkung Fischbach mit dem nördlichen Teil des Flures 6, nördlich der Bebauungsgrenze von Fischbach sowie Flur 5 und 4 jeweils nördlich Naturschutzgebiete,
+
+— Gemeinde Oestrich-Winkel mit der Gemarkung Winkel nördlich vom Ernstbach, mit der Gemarkung Mittelheim, mit der Gemarkung Oestrich nördlich vom Ernstbach sowie der Gemarkung Hallgarten nördlich vom Schüsselbach,
+
+— Stadt Geisenheim mit den Gemarkungen Johannisberg und Stephanshausen sowei mit der Gemarkung Geisenheim zunächst nördlich vom Rhein bis zu K630 und später östlich der K630 sowie der L3454 entlang der L3272 und der Gemarkungsgrenze zu Stephanshausen, von dort östlich vom Schmalbach,
+
+— Gemeinde Kiedrich,
+
+— Gemeine Eltville am Rhein,
+
+— Gemeinde Walluf;
+
+— Landkreis Main-Taunus-Kreis:
+
+— Stadt Hofheim am Taunus mit der Gemarkung Wallau nördlich der A66, mit der Gemarkung Diedenbergen, mit der Gemarkung Marxheim, mit der Gemarkung Hofheim sowie der Gemarkung Langenhain südlich der L3018,
+
+— Gemeinde Hochheim am Main mit der Gemarkung Massenheim nördlich der A3,
+
+— Stadt Flörsheim mit der Gemarkung Weilbach nördlich der A3,
+
+— Stadt Hattersheim mit der Gemarkung Hattersheim, mit der Gemarkung Okriftel sowie der Gemarkung Eddersheim nördlich der A3,
+
+— Gemeinde Kriftel;
+
+— Stadt Offenbach am Main:
+
+— Stadtteil Rosenhöhe mit dem Flur 26,
+
+— Stadtteil Tempelsee mit den Fluren 11, 12 und 13,
+
+— Stadtteil Buchrain mit dem Flur 8 südlich der Bebauungsgrenze, den Fluren 9, 16, 17, 18, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35 sowie 36;
+
+— Landkreis Offenbach:
+
+— Stadt Dreieich mit der Gemarkung Buchschlag östlich der Bahnlinie, mit der Gemarkung Sprendlingen nördlich der L3262, mit der Gemarkung Dreieichenhain nordöstlich der Straße An der Trift, östlich der K172 und nördlich der Straße Im Haag, mit der Gemarkung Offenthal nördlich der B486, dann nördlich der Straße In der Quelle sowie der Straße A. d. Lippsäckern, der Neckarstraße sowie der Bahnhofsstraße bis zur Bahnstrecke und ab dort nördlich der Bahnstrecke,
+
+— Stadt Dietzenbach,
+
+— Stadt Neu-Isenburg mit der Gemarkung Neu-Isenburg östlich des Feldweges, der westlich vom Gehspitzweiher bei Neu-Isenburg verläuft,
+
+— Stadt Rödermark mit der Gemarkung Messenhausen, mit der Gemarkung Urberach nördlich der Bahnstrecke sowie mit der Gemarkung Ober-Roden nördlich des Rödermarkringes, östlich der Dieburger Straße sowie nördlich der B45,
+
+— Stadt Heusenstamm,
+
+— Stadt Obertshausen mit der Gemarkung Obertshausen südlich der A3,
+
+— Stadt Rodgau mit der Gemarkung Weiskirchen sülich der A3, mit der Gemarkung Hainhausen, mit der Gemarkung Jügesheim, mit der Gemarkung Dudenhofen sowie mit der Gemarkung Nieder-Roden,
+
+— Gemeinde Hainburg mit der Gemarkung Klein-Krotzenburg südlich der A3,
+
+— Stadt Seligenstadt mit der Gemarkung Froschhausen südlich der A3 sowie mit der Gemarkung Seligenstadt südlich der A3,
+
+— Gemeinde Mainhausen mit der Gemarkung Zellhausen südlich der A3;
+
+— Landkreis Odenwaldkreis:
+
+— Stadt Breuberg,
+
+— Gemeinde Höchst i. Odw.,
+
+— Gemeinde Lützelbach mit der Gemarkung Rimhorn, mit der Gemarkung Lützel-Wiebelsbach mit den Fluren 8 westlich der Hartdstraße 9, 10 und 2 westlich Neustädter Straße und der Breitenbrunner Straße sowie der Gemarkung Lützelbach mit dem bewaldeten Gebiet westlich vom Offenland um Breitenbrunn in den Fluren 6, 7, 8, 9 und 11,
+
+— Stadt Bad König mit der Gemarkung Ober-Kinzig, mit der Gemarkung Nieder-Kinzig, mit der Gemarkung Etzen-Gesäß, mit der Gemarkung Zell, mit der Gemarkung Fürstengrund mit den Fluren 1, 2, 3, 4, 5, 6, 7 und 8, mit der Gemarkung Bad-König mit den Fluren 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 westlich der Hochspannungsleitung, 14 westlich der Ölmühle, 15, 16 mit den westlichen Zipfeln sowie den Fluren 25 und 26 sowie mit der Gemarkung Momart westlich der Hochspannungsleitung,
+
+— Gemeinde Brombachtal,
+
+— Gemeinde Brensbach mit der Gemarkung Wallbach, mit der Gemarkung Affhöllerbach mit der Gemarkung Höllerbach mit dem Bereich der Flur 1 östlich des Schafhofwegs, mit dem Bereich der Flur 2 östlich der Breubergstraße, mit dem Bereich der Flur 3 östlich der L3106 bis zu Querung des Höllerbachs, diesem folgend nach Vereinigung mit dem Hollebach, diesem bachaufwärts folgend ab der Querung des Waldwegs diesem in folgend bis zur Gemarkungsgrenze, mit dem Bereich der Flur 4 östlich der Verlängerung des Schafhofwegs bis zum Matzbach, mit der Gemarkung Brensbach mit dem Bereich der Flur 11, östlich des Weges ab der Grenze zur Flur 4 Gemarkung Höllebach nach Süden zum Grundweg ziehend, den Grundweg entlang bis zur Flurgrenze, mit dem Bereich der Flur 12 östlich des Verlängerungswegs der Straße Beuneberg, dann der K82 östlich folgend bis zum Weg am Kilsbach und von diesem südlich des Waldstreifens zur Flurgrenze, sowie der Gemarkung Nieder-Kainsbach mit dem Bereich der Flur 1 östlich der Linie Affhöllerbacher Straße, Bachgasse, Mühlweg, mit dem Bereich der Flur 2 östlich des Weges in nördlicher Verlängerung der Goethestraße bis zum Weg am Kilsbach diesem folgend zur Flurgrenze, mit dem Beriech der Flur 3 östlich des Weges in südlicher Verlängerung des Mühlwegs bis zur Flurgrenze,
+
+— Gemeinde Reichelsheim (Odenwald) mit der Gemarkung Erzbach, mit der Gemarkung Ober-Kainsbach mit den Fluren 1,2, 3, 6, 7, 8, 9, 11, 12 und der Flur 5, ausgenommen des Bereiches, westlich der Talstraße und ab deren Kreuzung mit der Verlängerung des Mühlwegs dieser folgend zur Flurgrenze, der Flur 10 ausgenommen der Bereiche westlich des Feldwegs nordöstlich der Gebäude Am Mosberg Nr. 21 und 27 und westliche des Weges, der östliche des Gebäudes Am Morsberg 20 nach Süden zieht, mit der Gemarkung Gersprenz mit dem Bereich der Flur 3 östlich einer Linie auf dem Weg südlich des Sendemasten am Talweg in den Wald hineinziehend bis zur Flurgrenze, mit dem Bereich der Flur 4 östlich des Weges westlich des Parkplatzes des Friedhofs Ober-Kainsbach, mit dem Bereich der Flur 5 östlich des Weges vom Parkplatz des Friedhofs Nieder-Kainsbach bis zur Kreuzung Reichelsheimer Weg, mit der Gemarkung Kirch-Beerfurth mit dem Bereich der Flur 5 östlich des Leipziger Wegs, mit der Gemarkung Bockenrod mit dem Bereich der Flur 3 östlich des Leipziger Wegs beginnen von der nördlichen Flurgrenze, bei der Geiswiese nach Westen abbiegend unterhalb des Schießplatzes Vierstöck zur Flurgrenze, mit der Gemarkung Unter-Ostern mit der Flur 4, mit dem Bereich der Flur 1 südlich der Straße Irrbach, mit dem Bereich der Flur 2 südlich des Wegs nördlich des Irrbachs, mit dem Bereich der Flur 3 östlich des Weges westlich parallel zum Irrbach, mit dem Bereich der Flur 5 ausgenommen nördlich der Formbachstraße, mit dem Bereich der Flur 6 ausgenommen nördlich der Formbachstraße, mit dem Bereich der Flur 7, der zwischen Formbachstraße, und Formbach beim Gebäudekomplex Formbachstr. 13 umschlossen wird, mit dem Bereich der Flur 8 östlich der Wege, die die nordöstliche Spitze der Flur begrenzen, mit dem Bereich der Flur 9 ausgenommen westlich des Leipziger Wegs, mit der Gemarkung Rohrbach ausgenommen nördlich der Formbachstraße bis zum Schnittpunkt des Leipziger Wegs mit der Gemarkungsgrenze , mit der Gemarkung Ober-Ostern mit den Fluren 1, 4, 5 und mit dem Bereich der Flur 2 ausgenommen nordwestlich des Weges, der von der Schutzhütte Werts südlich führt und im Wald in westlicher Richtung abgeht, mit der Flur 3 ausgenommen dem Bereich südwestlich des Weges der südlich des Rangen von der westlichen Gemarkungsgrenz zur Schutzhütte Werts und dann südlich zur Flurgrenze führt, mit der Gemarkung Groß-Gumpen mit Bereich demder Flur 4 östlich des Weges, der von der östlichen Flurgrenze zum Marbach und von dort zur südlichen Gemarkungsgrenze zieht,
+
+— Gemeinde Mossautal,
+
+— Stadt Erbach mit der Gemarkung Haisterbach, mit der Gemarkung Günterfürst, mit der Gemarkung Elsbach, mit der Gemarkung Erbach, mit der Gemarkung Lauerbach westlich der B45, mit der Gemarkung Schönnen mit dem Flur 1 westlich der B45 und dem Flur 2 westlich der B45, nördlich der Straße In der Katzenklinge und westlich der Bahnstrecke sowie der Gemarkung Ebersberg mit den Fluren 1, 2 und 4 jeweils westlich der Bahnstrecke,
+
+— Stadt Michelstadt mit der Gemarkung Rehbach, mit der Gemarkung Steinbuch, mit der Gemarkung Steinbach westlich der B45, mit der Gemarkung Michelstadt westlich der B45 und der Bebauungsgrenze von Michelstadt sowiemit der Gemarkung Weiten-Gesäß, Flur 9 mit der ordwestlichen Spitze nördlich des Heuberger Hofs,
+
+— Stadt Oberzent mit der Gemarkung Rothenberg, mit der Gemarkung Finkenbach, mit der Gemarkung Raubach, mit der Gemarkung Olfen, mit der Gemarkung Airlenbach, mit der Gemarkung Falken-Gesäß, mit der Gemarkung Etzean, mit der Gemarkung Hetzbach mit den Fluren 5, 6, 7, 8, 9 sowie den Fluren 1 und 4 jeweils westlich der Bahnstrecke, mit der Gemarkung Beerfelden mit den Fluren 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 sowie den westlichen Teilen der Flure 3, 4 und 17 sowie mit der Gemarkung Gammelsbach mit den Fluren 1, 2, 5, 6, 7, 8, 9, 10, 11, 12,und 13 sowie den westlichen Teilen der Flure 2, 3, 14, 15, 16 und 17;
+
+— Landkreis Darmstadt-Dieburg:
+
+— Gemeinde Eppertshausen mit der Gemarkung Eppertshausen mit der Flur 4 und den östlichen Teilen der Flure 3, 5, 6 und 8,
+
+— Stadt Babenhausen mit der Gemarkung Schaafheimer Wiesen, mit der Gemarkung Babenhausen, mit der Gemarkung Harreshausen, mit der Gemarkung Sickenhofen, mit der Gemarkung Langstadt, mit der Gemarkung Harpertshausen sowie mit der Gemarkung Hergershausen ausgenommen der westlichen Teile der Fluren 8 und 9, ausgenommen des Bereichs der Flur 7 im NSG Auf dem Sand zwischen Hergershausen und Altheim sowie des Bereichs südlich der Verlängerung der nördlichen NSG Grenze bis zur Flurgrenze,
+
+— Gemeinde Münster (Hessen) mit der Gemarkung Altheim mit dem östlichen Teil des Flures 3 und mit dem Flur 4 nördlich der Richer Straße,
+
+— Gemeinde Schaafheim,
+
+— Stadt Groß-Umstadt mit der Gemarkung Kleestadt, mit der Gemarkung Klein-Umstadt, mit der Gemarkung Raibach, mit der Gemarkung Heubach, mit der Gemarkung Frau-Nauses, mit der Gemarkung Wiebelsbach, mit der Gemarkung Dorndiel, mit der Gemarkung Richen östlich des Richer Baches sowie mit der Gemarkung Groß-Umstadt östlich der Ohlebach, des Bruchweges, der Oberen Marktstraße, der Obergasse, dem Riegelgartenweg des Herrnwiesenweges und ab der Straße Im Kühlen Grund östlich der Bahnstrecke sowie östlich des Ohlebachs,
+
+— Gemeinde Otzberg mit der Gemarkung Schloß-Nauses, mit der Gemarkung Ober-Nauses, mit der Gemarkung Lengfeld mit den Fluren 17, 18, 19, 20 und dem Teil von Flur 16 östlich der Waldgrenze sowie mit der Gemarkung Hering mit dem östlichen Teil des Flures 4;
+
+— Landkreis Bergstraße:
+
+— Gemeinde Fürth, mit der Gemarkung Fürther Centwald mit den Fluren 1, 3, 4 sowie der Flur 2, ausgenommen deren Ecke in der westlichen Begrenzung im Bereich der Quelle des Nebenzuflusses zur Weschnitz, mit der Gemarkung Weschnitz mit Teilen der Flur 1 östlich der Odenwaldstaße von dort abbiegend in die Walburgisstraße bis zum Friedhof Weschnitz, ab dort dem Weg oberhalb der Förster Fahrner Hütte folgend bis zur Flurgrenze,
+
+— Gemeinde Grasellenbach, mit der Gemarkung Wahlen mit der Flur 2 sowie den Teilen von Flur 1 östlich der Bebauung von Wahlen sowie in Norden entlang des Siegfriedrings, mit der Gemarkung Gras-Ellenbach mit den Fluren 2, 3, 10, 11, 12, 13 sowie den Teilen der Flur 1 östlich der Siegfriedstraße und ab der Kreuzung Amselweg nördlich des Amselwegs, den Teilen der Flur 4 und 5 östlich des Weges in Verlängerung der Straße Am Steinbruch, den Teilen der Flur 9 östlich des Waldrands, mit der Gemarkung Hammelbach mit der Flur 15, mit der Gemarkung Hammelbach mit deren Bereich der Flur 14 östlich des zweiten, östlichen Parallelwegs zur Straße Außerhalb 2,
+
+— Gemeinde Wald-Michelbach mit der Germarkung Unter-Schönmattenwag, ausgenommen der nordwestlichen Spitze von Flur 11 sowie ausgenommen des Bereichs von Flur 10 westlich des Weges östlich der Windkraftanlagen am Stillfüßel, mit der Gemarkung Ober-Schönmattenwag ausgenommen des Bereichs von Flur 11 westlich des Weges an der Windkraftanlage, mit der Gemarkung Wald-Michelbach mit den Fluren 31, 32, 33, 34, 35, 36 (ausgenommen eines ca. 30 m breiten Streifens am südwestlichen Rand des Waldgebietes) sowie den Teilen von Flur 4 östlich der L3105 und südlich der Straße Am Wetzel, den Teilen von Flur 30 östlich der Straßen Binzig, Straßburg und Seckenrain, mit der Gemarkung Aschbach mit den Fluren 2, 3, 4 und 5 sowie des Bereichs der Flur 1 östlich der Bebauungsgrenze von Aschbach und östlich des Weges, der nach Ende der Bebauung der Dürr-Ellenbacher-Straße nach Norden zur Flurgrenze zieht, mit der Gemarkung Affolterbach mit den Fluren 9, 10 (ausgenommen eines ca. 30 m breiten Streifens südlich der Bebauung Am Rossert 1), 11, 12, 13, 14, 15, 16, 17, 18, 19 sowie des Bereichs der Flur 1 östlich der Straße Am Hofacker von dort östlich abbiegend auf die Beerfelder Str. und bei deren Hausnummer 32 dem Weg nördlich zur Flurgrenze folgend, des Bereichs der Flur 2 der östlich des Weges westlich des Waldrandes liegt, des Bereichs der Flur 7 östlich des Waldwegs, der unmittelbar an der nordwestlichen Flurecke in südöstlicher Richtung führt und des Bereichs der Flur 8 östlich des Waldrands,
+
+— Stadt Hirschhorn (Neckar),
+
+— gemeindefreies Gebiet Michelbuch,
+
+— Stadt Neckarsteinach;
+
+— Stadt Wiesbaden:
+
+— Ortsbezirk Wiesbaden-Frauenstein,
+
+— Ortsbezirk Wiesbaden-Dotzheim südlich der L3037,
+
+— Ortsbezirk Wiesbaden-Nordost südlich der L3037 und der Bebauungsgrenze den Nordfriedhof miteinschließend,
+
+— Ortsbezirk Wiesbaden-Bierstadt südlich der Bebauungsgrenze und südlich der Kloppenheimer Straße,
+
+— Ortsbezirk Wiesbaden-Sonnenberg südlich der Bebauungsgrenze,
+
+— Ortsbezirk Wiesbaden-Kloppenheim südlich der Bebauungsgrenze und östlich der K659,
+
+— Ortsbezirk Wiesbaden-Auringen östlich der L3028 und südlich der Bahnstrecke,
+
+— Ortsbezirk Wiesbaden-Medenbach mit den Fluren 1, 2, 4, 5, 6 und 7,
+
+— Ortsbezirk Wiesbaden-Klarenthal südlich der Lahnstraße,
+
+— Ortsbezirk Wiesbaden-Igstadt,
+
+— Ortsbezirk Wiesbaden-Breckenheim,
+
+— Ortsbezirk Wiesbaden-Nordenstadt nördlich der A66,
+
+— Ortsbezirk Wiesbaden-Erbenheim östlich der Berliner Straße, der Boelckestraße und nördlich der A66,
+
+— Ortsbezirk Wiesbaden-Biebrich nördlich der A66 bis zur östlichen Bebauungsgrenze,
+
+— Ortsbezirk Wiesbaden-Schierstein ausgenommen Rettbergsaue,
+
+— OrtsbezirkWiesbaden-Mitte,
+
+— Ortsbezirk Wiesbaden-Rheingauviertel,
+
+— Ortsbezirk Wiesbaden-Südost,
+
+— Ortsbezirk Wiesbaden-Westend;
+
+— Stadt Frankfurt am Main:
+
+— Stadtteil Niederrad,
+
+— Bezirk 30,
+
+— Bezirk 31,
+
+— Bezirk 32,
+
+— Bezirk 33,
+
+— Stadtteil Oberrad,
+
+— Stadtteil Wald,
+
+— Stadtteil Schwanheim,
+
+— Stadtteil Höchst südwestlich der Königsteiner Straße,
+
+— Stadtteil Unterliederbach ausgenommen nordöstlich der Königsteiner Straße,
+
+— Stadtteil Zeilsheim,
+
+— Stadtteil Sindlingen,
+
+— Flughafen nördlich der A3;
+
+Bundesland Rheinland-Pfalz:
+
+— Stadt Mainz,
+
+— Stadtteil Drais,
+
+— Stadtteil Finthen,
+
+— Stadtteil Gonsenheim,
+
+— Stadtteil Mombach;
+
+— Landkreis Mainz-Bingen:
+
+— Stadt Bingen, Naturschutzgebiet-7300-019 „Fulderaue-Ilmenaue“,
+
+— Gemeinde Essenheim,
+
+— Gemeinde Stadecken-Elsheim,
+
+— Gemeinde Nieder-Olm, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Ober-Olm, sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Budenheim,
+
+— Stadt Gau-Algesheim,
+
+— Gemeinde Schwabenheim an der Selz,
+
+— Stadt Ingelheim am Rhein,
+
+— Landkreis Alzey-Worms:
+
+— Gemeinde Partenheim,
+
+— Gemeinde Saulheim,
+
+— Gemeinde Udenheim,
+
+— Gemeinde Vendersheim,
+
+— Gemeinde Gau-Weinheim,
+
+— Gemeinde Wallertheim,
+
+— Gemeinde Sulzheim,
+
+— Gemeinde Wörrstadt,
+
+— Gemeinde Schornsheim,
+
+— Gemeinde Gau-Bickelheim,
+
+— Gemeinde Armsheim,
+
+— Gemeinde Ensheim,
+
+— Gemeinde Spiesheim,
+
+— Gemeinde Gabsheim,
+
+— Gemeinde Gumbsheim,
+
+— Gemeinde Wöllstein,
+
+— Gemeinde Siefersheim,
+
+— Gemeinde Eckelsheim,
+
+— Gemeinde Flonheim,
+
+— Gemeinde Biebelnheim,
+
+— Gemeinde Bornheim,
+
+— Gemeinde Lonsheim,
+
+— Gemeinde Bermersheim v.d. Höhe,
+
+— Gemeinde Albig,
+
+— Stadt Alzey,
+
+— Gemeinde Gau-Heppenheim,
+
+— Gemeinde Mauchenheim,
+
+— Gemeinde Freimersheim,
+
+— Gemeinde Wahlheim,
+
+— Gemeinde Kettenheim,
+
+— Gemeinde Esselborn,
+
+— Gemeinde Dintesheim,
+
+— Gemeinde Eppelsheim,
+
+— Gemeinde Hangen-Weisheim,
+
+— Gemeinde Hochborn,
+
+— Gemeinde Flomborn,
+
+— Gemeinde Ober-Flörsheim,
+
+— Gemeinde Gundersheim,
+
+— Gemeinde Bermersheim,
+
+— Gemeinde Mölsheim,
+
+— Gemeinde Flörsheim-Dalsheim,
+
+— Gemeinde Gundheim,
+
+— Gemeinde Mörstadt,
+
+— Gemeinde Wachenheim,
+
+— Gemeinde Monsheim,
+
+— Gemeinde Hohen-Sülzen,
+
+— Gemeinde Offstein,
+
+— Landkreis Bad Dürkheim:
+
+— Stadt Bad Dürkheim östlich der S-Bahnlinie bis zur B 37, nördlich der B 37 und A 650,
+
+— Stadt Grünstadt mit den Gemarkungen RLP. 853 und Gemarkung 1420 Asselheim,
+
+— Gemeinde Dackenheim mit Gemarkung RLP. 2118,
+
+— Gemeinde Ebertsheim,
+
+— Gemeinde Freinsheim mit Gemarkung RLP. 1655,
+
+— Gemeinde Herxheim am Berg,
+
+— Gemeinde Kirchheim mit Gemarkung RLP. 191,
+
+— Gemeinde Neuleiningen nördlich der L 453/Tiefenthaler Straße/Schlossberg/Sausenheimer Straße, nördlich der Mittelgasse und östlich der Verbindung zwischen Mittelgasse und Talstraße,
+
+— Gemeinde Quirnheim,
+
+— Gemeinde Weisenheim am Sand mit Gemarkung RLP. 806,
+
+— Gemeinde Bockenheim,
+
+— Gemeinde Dirmstein,
+
+— Gemeinde Obrigheim,
+
+— Gemeinde Kindenheim,
+
+— Gemeinde Bissersheim,
+
+— Gemeinde Ellerstadt in Teilen,
+
+— Gemeinde Erpolzheim mit Gemarkung RLP. 1454,
+
+— Gemeinde Gönnheim,
+
+— Gemeinde Gerolsheim,
+
+— Gemeinde Großkarlbach,
+
+— Gemeinde Laumersheim,
+
+— Gemeinde Obersülzen,
+
+— Gemeinde Mertesheim,
+
+— Gemeinde Sausenheim,
+
+— Gemeinde Kleinkarlbach,
+
+— Landkreis Rhein-Pfalz-Kreis:
+
+— Gemeinde Heuchelheim bei Frankenthal,
+
+— Gemeinde Heßheim,
+
+— Gemeinde Lambsheim,
+
+— Gemeinde Maxdorf,
+
+— Gemeinde Birkenheide,
+
+— Gemeinde Fußgönnheim,
+
+— Gemeinde Mutterstadt,
+
+— Gemeinde Limburgerhof,
+
+— Gemeinde Neuhofen,
+
+— Gemeinde Altrip,
+
+— Stadt Frankenthal (Pfalz), sofern nicht bereits Teil der Sperrzone II,
+
+— Gemeinde Otterstadt,
+
+— Gemeinde Schifferstadt: Gebiet im Westen an Grenze nach Böhl-Iggelheim das Gebiet nördlich der L454 bis zum Kurzgraben und dann dem Scheidegraben nach Süden folgend bis zur A 61 nach Süden folgend bis zum Staudamm Rehbach/ Neugraben. Dann dem Neugraben nach Südosten folgend der bebauten Grenze von Schifferstadt entlang bis zur Waldseer Straße im Osten folgend. Entlang der Waldseer Straße nach Osten bis zur südlichen Grenze des Kiesabgrabungsgebietes (Flurbezeichnung Heuplatte) folgend bis zum Ranschgraben. Dem Ranschgraben nach Nordosten folgend bis zur Gemeindegrenze Neuhofen,
+
+— Gemeinde Waldsee,
+
+— Stadt Ludwigshafen am Rhein, sofern nicht Teil der Sperrzone II,
+
+— Stadt Speyer, gesamtes Gebiet nördlich der AB61, sowie das Teichgebiet südlich der AB61, westlich begrenzt durch Spitzenreiherhofgraben und Franzosengraben, einschließlich Steinhäuserwühlsee, Wammsee und Kläranlage der Stadt Speyer;
+
+— Landkreis Donnersbergkreis:
+
+— Gemeinde Ilbesheim,
+
+— Gemeinde Stetten,
+
+— Gemeinde Albisheim,
+
+— Gemeinde Einselthum,
+
+— Gemeinde Zellertal mit den Ortsteilen Zell, Harxheim und Niefernheim,
+
+— Gemeinde Bubenheim,
+
+— Gemeinde Immesheim,
+
+— Gemeinde Morschheim,
+
+— Gemeinde Rittersheim,
+
+— Gemeinde Gauersheim,
+
+— Gemeinde Ottersheim,
+
+— Gemeinde Rüssingen,
+
+— Gemeinde Biedesheim,
+
+— Gemeinde Lautersheim,
+
+— Landkreis Altenkirchen:
+
+— Gemeinde Friesenhagen,
+
+— Gemeinde Harbach,
+
+— Gemeinde Kirchen (Sieg),
+
+— Gemeinde Niederfischbach,
+
+— Gemeinde Mudersbach,
+
+— Gemeinde Brachbach,
+
+— Gemeinde Grünebach,
+
+— Gemeinde Herdorf,
+
+— Gemeinde Daaden,
+
+— Gemeinde Emmerzhausen;
+
+Bundesland Baden-Württemberg:
+
+— Stadt Heidelberg:
+
+— Gesamtes Stadtgebiet;
+
+— Landkreis Rhein-Neckar-Kreis:
+
+— Gemeinde Brühl,
+
+— Stadt Schwetzingen,
+
+— Gemeinde Plankstadt,
+
+— Stadt Eppelheim,
+
+— Gemeinde Ketsch,
+
+— Gemeinde Oftersheim,
+
+— Stadt Hockenheim,
+
+— Stadt Leimen (Stadt),
+
+— Stadt Leimen (St. Ilgen),
+
+— Gemeinde Sandhausen,
+
+— Gemeinde Gaiberg,
+
+— Gemeinde Bammental,
+
+— Stadt Neckargemünd,
+
+— Gemeinde Wiesenbach,
+
+— Gemeinde Schönau,
+
+— Gemeinde Heddesbach,
+
+— Gemeinde Schönbrunn (Schönbrunn),
+
+— Gemeinde Schönbrunn (Moosbrunn),
+
+— Stadt Eberbach (Pleutersbach),
+
+— Stadt Eberbach (Brombach),
+
+— Stadt Eberbach (Gebiet westlich der B45);
+
+Bundesland Nordrhein-Westfalen:
+
+— Kreis Olpe:
+
+— Hansestadt Attendorn mit den Jagdrevieren A12, A02, A23, A24, A25, A03b, A03a, A15, A26, A13, A04a, A19, A01, A20, A16, A17.a, A17.b, A11, A04b, A10, A06, A05, F.27.b, A07, A09, A18,
+
+— Stadt Drolshagen,
+
+— Gemeinde Finnentrop mit den Jagdrevieren F.13a, F.13c, F.26, F.13b, F.36, F.11, F.20, F.19, F.33, F.15, F.12.1, F.12.2, F.14, F.17, F.25, F.24, F.02, F.32, F.29, F.01, F.30, F.03, F.16, F.18, F.28, F.22, F.09, F.35, F.27a, F.10, F.08, F.06a, F.23, F.31,
+
+— Stadt Lennestadt mit dem Jagdrevier F.27a,
+
+— Stadt Olpe mit den Jagdrevieren OE.11, OE.14, OE.21, OE.09a, OE.09c,
+
+— Gemeinde Wenden mit den Jagdrevieren W.05b, W.14, W.17, W.09, W.08, W.07.a, W.07.4, W.06, W.05a;
+
+— Hochsauerlandkreis:
+
+— Gemeinde Bestwig mit den Jagdrevieren M5-10, M2-26,
+
+— Gemeinde Eslohe (Sauerland) mit den Jagdrevieren A5-23, M3-09, M3-02, M3-07, M3-03, M3-20, M3-19, M3-30, M3-31, M3-39, M3-04, M3-16, M3-29, M3-35, M3-01, M3-17, M3-26, M3-16, M3-29, M3-32, M3-34, M3-06, M3-05, M3-12, M3-18, M3-15, M3-14, M3-40, M3-28, M3-33, M3-38,
+
+— Stadt Hallenberg mit den Jagdrevieren B4-09, B4-10, B4-12, B4-07, B4-02, B4-07, B4-06, B4-08, B4-49, B5-29, B5-05,
+
+— Stadt Medebach mit den Jagdrevieren B5-10, B0-10, B5-27, B5-15, B5-16, B5-29, B5-17, B5-14, B5-05, B4-10,
+
+— Stadt Meschede mit den Jagdrevieren M4-07, M3-38, M4-21, M4-01, M4-19, M4-13, M4-02, M4-08, M4-09, M4-14, M5-10, M4-17, M4-16, M4-15, M4-08, M4-09, M3-38, A2-02, A2-03, 02-13,
+
+— Stadt Olsberg mit dem Jagdrevier M2-26,
+
+— Stadt Schmallenberg mit den Jagdrevieren M3-40, M5-13, M5-26, M5-33, M5-27, M5-28, M5-29, M5-32, M5-09, M4-17, M5-10, M5-08, M5-34, M5-11, M5-38, M5-07, M5-40, M5-37, M5-01, M5-03, B4-52, M0-04,
+
+— Stadt Sundern (Sauerland) mit den Jagdrevieren A5-17, A5-35, A5-05, A5-07, A2-06, A5-20, A5-22, A5-31, A5-23, A2-05, A2-02, A2-03, A2-13, F.32,
+
+— Stadt Winterberg mit den Jagdrevieren M5-07, M5-03, B4-39, B4-38, B4-13, B4-04, B5-05, B4-52, B0-14, B4-29, B4-17, B4-47, B4-19, B4-45, B4-46, B4-44, B4-36, B4-22, B4-18, B4-27, B4-24, B4-20, B4-40, B4-25, B4-42, B4-03, B4-48, B4-41, B4-50;
+
+— Kreis Siegen-Wittgenstein:
+
+— Stadt Bad Berleburg mit den Jagdrevieren 10_199, 10_129, 10_128,
+
+— Stadt Bad Laasphe mit den Jagdrevieren 10_126, 10_199, 10_129, 10_62, 10_128, 10_194, 10_195, 10_168, 10_78, 10_140, 10_120, 10_23, 10_22, 10_118, 10_125,
+
+— Gemeinde Burbach,
+
+— Stadt Freudenberg mit den Jagdrevieren 10_193, 10_95, 10_222, 10_49, 10_48, 10_50, 10_176, 10_80, 10_169, 10_61, 10_97, 10_98, 10_96, 10_37,
+
+— Gemeinde Neunkirchen,
+
+— Stadt Siegen mit den Jagdrevieren 10_186, 10_214, 10_2, 10_1, 10_70, 10_71, 10_72, 10_73, 10_171, 10_172, 10_107, 10_173,
+
+— Gemeinde Wilnsdorf mit dem Jagdrevier 10_241.
+
+**2\. Estonia**
+
+The following restricted zones I in Estonia:
+
+— Hiiu maakond.
+
+**3\. Latvia**
+
+The following restricted zones I in Latvia:
+
+— Dienvidkurzemes novada, Nīcas pagasta daļa uz ziemeļiem no apdzīvotas vietas Bernāti, autoceļa V1232, A11, V1222, Bārtas upes, Otaņķu pagasts.
+
+**4\. Hungary**
+
+The following restricted zones I in Hungary:
+
+— Baranya vármegye 501151, 501152, 501160, 501450, 501550, 501570, 501650, 501660, 501850, 501860, 502950, 503050, 503250, 503350, 503360, 503650 és 504050 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Békés vármegye 950150, 950250, 950350, 950450, 950550, 950650, 950660, 950750, 950850, 950860, 951050, 951150, 951250, 951260, 951350, 951450, 951460, 951550, 951650, 951750, 952150, 952250, 952350, 952450, 952550, 952650, 953250, 953260, 953270, 953350, 953450, 953550, 953560, 953950, 954050, 954150, 954950, 955050, 955550, 955650, 955750, 955760, 955950, 956050, 956060, 956150, 956160, 956250, 956350, 956450, 956550, 956650 és 956750 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Bács-Kiskun vármegye 600150, 600850, 608350, 608460, 608550, 609450 és 609650 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Fejér vármegye 400150, 400250, 400351, 400352, 400450, 400550, 401150, 401250, 401350, 402050, 402350, 402360, 402850, 402950, 403050, 403450, 403550, 403650, 403750, 403950, 403960, 403970, 404650, 404750, 404850, 404950, 404960, 405050, 405750, 405850, 405950, 406050, 406150, 406550, 406650 és 406750 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Győr-Moson-Sopron vármegye 100550, 100650, 100950, 101050, 101350, 101450, 101550, 101560 és 102150 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Jász-Nagykun-Szolnok vármegye 750150, 750160, 750260, 750350, 750450, 750460, 750850, 750970, 750980, 751050, 751150, 751160, 751250, 751260, 751350, 751360, 751450, 751460, 751470, 751550, 751650, 751750, 751850, 751950, 752250, 752350, 752650, 752750, 752850, 752950, 753070, 753060, 753150, 753250, 753310, 753450, 753550, 753650, 753660, 753750, 753850, 753950, 753960, 754050, 754150, 754250, 754360, 754370, 754850, 755550, 755650 és 755750 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Komárom-Esztergom vármegye 250150, 250250, 250450, 250460, 250550, 250650, 250750, 251050, 251150, 251250, 251350, 251360, 251650, 251750, 251850, 252250, kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Pest vármegye 572550, 572950, 573150, 573250, 573260, 573350, 573360, 573450, 573850, 573950, 573960, 574050, 574150, 574350, 574360, 574550, 574650, 574750, 574850, 574860, 574950, 575050, 575150, 575250, 575350, 575550, 575650, 575750, 575850, 575950, 576050, 576150, 576250, 576350, 576450, 576650, 576750, 576950, 577050, 577150, 577250, 577350, 577450, 577650, 578050, 578150, 578250, 578350, 578360, 578450, 578550, 579050, 580250 és 580450 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Somogy vármegye: 354750, 355450, 355550, 355650, 355750, 355760, 355851, 355950, 355960, 356050, 356060, 356450, 356550, 356560, 356570 és 356580 kódszámú vadgazdálkodási egységeinek teljes területe;
+
+— Tolna vármegye 451250, 451860 és 451950 kódszámú vadgazdálkodási egységeinek teljes területe.
+
+**5\. Poland**
+
+The following restricted zones I in Poland:
+
+w województwie kujawsko - pomorskim:
+
+— gmina Bartniczka, Brzozie, Górzno, Świedziebnia, część gminy Osiek położona na południe od linii wyznaczonej przez drogę łącząca miejscowości Dzierzno – Kretki Małe – Osiek – Łapinóżek w powiecie brodnickim;
+
+— gminy Brzuze, Rypin, z miastem Rypin, część gminy Wąpielsk położona na południe od drogi łączącej miejscowości Osiek – Łapinóżek – Radziki Małe – Radziki Duże – Szczawniki – Pólka Duże – Pusta Dąbrówka w powiecie rypińskim;
+
+— część gminy Dębowa Łąka w obrębie miejscowości Łobdowo w powiecie wąbrzeskim;
+
+— gmina Zbójno, część gminy Radomin niewymieniona w części III załącznika I, część gminy Kowalewo Pomorskie niewymieniona w części III załącznika I, część gminy wiejskiej Golub – Dobrzyń położona na południe od linii wyznaczonej przez drogę łącząca miejscowości Pólka Duże – Pusta Dąbrówka – Cieszyny - Wrocki – Łobdowo oraz na północ od linii wyznaczonej przez wschodnie i północne granice miejscowości Karczewo – Kujawa oraz w obrębie miejscowości Macikowo na południe od linii wyznaczonej przez drogę łączącą miejscowości – Nowogród – Babiak – Wądoły - Macikowo - Sitno , część gminy Ciechocin położona na południe od linii wyznaczonej przez drogę łączącą miejscowości Babiak – Dębowo - Rudaw – Przydatki – Kujawy Ciechocin – Elgiszewo, do przecięcia z granicą miejscowości Elgiszewo, a następnie dalej na północ od linii wyznaczonej przez południową granicę miejscowości Elgiszewo, w powiecie golubsko – dobrzyńskim;
+
+— gmina Świekatowo, część gminy Lniano niewymieniona w części II załącznika I, część gminy Pruszcz niewymieniona w części II załącznika I, część gminy Bukowiec niewymieniona w części II załącznika I w powiecie świeckim;
+
+— gminy Lubicz, Łysomice, Wielka Nieszawka, część gminy Łubianka położona na południe od linii wyznaczonej przez drogę nr 551 łączącą miejscowości Nawra – Grzybno, część gminy Zławieś Wielka niewymieniona w części II załącznika I część gminy Obrowo położona na północny- wschód od linii wyznaczonej przez drogę nr 10, część gminy Czernikowo położona na północny - wschód od linii wyznaczonej przez drogę nr 10 w powiecie toruńskim;
+
+— powiat miejski Toruń;
+
+— gminy Koronowo, Sicienko, część gminy Białe Błota niewymieniona w części II załącznika I, część gminy Nowa Wieś Wielka niewymieniona w części II załącznika I, część gminy Osielsko niewymieniona w części II załącznika I, część gminy Dobrcz niewymieniona w części II załącznika I w powiecie bydgoskim;
+
+— część powiatu miejskiego Bydgoszcz niewymieniona w części II załącznika I;
+
+— gminy Janowiec Wielkopolski, Rogowo część gminy Łabiszyn położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Rynarzewo – Władysławowo – Pszczółczyn - Łabiszyn do punktu przecięcia się z ul. Szubińską w miejscowości Łabiszyn i dalej od przecięcia na północ i wschód od linii wyznaczonej przez ulice Szubińska – Bydgoska – Cmentarna w miejscowości Łabiszyn, następnie na wschód od linii wyznaczonej przez drogę łączącą miejscowości Łabiszyn – Ojrzanowo - Będzitowo w powiecie żnińskim;
+
+— gminy Cekcyn, Śliwice w powiecie tucholskim;
+
+— gminy Rojewo, Złotniki Kujawskie w powiecie inowrocławskim;
+
+w województwie warmińsko-mazurskim:
+
+— powiat szczycieński;
+
+— część powiatu działdowskiego niewymieniona w części II załącznika I;
+
+— część powiatu nidzickiego niewymieniona w części II załącznika I;
+
+— gmina Grodziczno, część gminy Kurzętnik położona na południe od linii wyznaczonej przez drogę łącząca miejscowości Nowe Miasto Lubawskie – Marzęcice – Małe Bałówki – Tereszewo – Szafarnia – Strzemiuszczek w powiecie nowomiejskim;
+
+— gmina Piecki w powiecie mrągowskim;
+
+— gmina Ruciane-Nida w powiecie piskim;
+
+w województwie podlaskim:
+
+— część powiatu wysokomazowieckiego niewymieniona w części II załącznika I;
+
+— część powiatu łomżyńskiego niewymieniona w części II załącznika I;
+
+— część powiatu kolneńskiego niewymieniona w części II załącznika I;
+
+— część powiatu zambrowskiego niewymieniona w części II załącznika I;
+
+— powiat miejski Łomża;
+
+w województwie mazowieckim:
+
+— gminy Lelis, Łyse, Kadzidło, Myszyniec w powiecie ostrołęckim;
+
+— powiat żyrardowski;
+
+— gminy Grodzisk Mazowiecki, Jaktorów, Żabia Wola, miasto Milanówek, miasto Podkowa Leśna w powiecie grodziskim;
+
+— gminy Andrzejewo, część gminy Boguty-Pianki niewymieniona w części II załącznika I, część gminy Nur niewymieniona w części II załącznika I w powiecie ostrowskim;
+
+— gminy Błędów, Nowe Miasto nad Pilicą, Pniewy w powiecie grójeckim;
+
+— część powiatu przysuskiego nie wymieniona w części II załącznika I;
+
+— miasto Zielonka, miasto Ząbki w powiecie wołomińskim;
+
+— część powiatu siedleckiego niewymieniona w części II załącznika I;
+
+— powiat miejski Siedlce;
+
+— powiat miński;
+
+— gminy Bielany, Jabłonna Lacka, Repki, Sabnie, Stedryń, gmina wiejska Sokołów Podlaski, część gminy Ceranów położona na wschód od linii wyznaczonej przez drogę nr 63 bięgnącą od południowej grancy gminy do przecięcia z zachodnia granicą miejscowości Pustelnik, następnie od tego przecięcia na wschód od linii wynaczonej przez zachodnie granice miejscowości Pustelnik- Długie Grzymki do wschodniej granicy gminy w powiecie sokołowskim;
+
+— gminy Borowie, Górzno, Miastków Kościelny, Żelechów, misto Garwolin, część gminy wiejskiej Garwolin położona na wschód od linii wyznaczonej przez linię kolejową, część gminy wiejskiej Łaskarzew położona na wschód od linii wyznaczonej przez linię kolejową, część miasta Łaskarzew położona na wschód od linii wyznaczonej przez linię kolejową, część gminy Sobolew położona na wschód od linii wyznaczonej przez linię kolejową, część gminy Trojanów położona na wschód od linii wyznaczonej przez linię kolejową w powiecie garwolińskim;
+
+— powiat pruszkowski;
+
+— powiat miejski Warszawa;
+
+— gmina Wiązowna w powiecie otwockim;
+
+— gmina Tarczyn w powiecie piaseczyńskim;
+
+w województwie podkarpackim:
+
+— gmina Grodzisko Dolne, część gminy wiejskiej Leżajsk położona na południowy wschód od linii wyznaczonej przez drogę nr 877 biegnącej od południowej granicy miasta Leżąjsk do południowej granicy gminy w powiecie leżajskim;
+
+— część gminy Jeżowe położona na zachód od linii wyznaczonej przez drogę nr 878 w powiecie niżańskim;
+
+— gminy Bojanów, Stalowa Wola w powiecie stalowowolskim;
+
+— gminy Pawłosiów, Jarosław z miastem Jarosław w powiecie jarosławskim;
+
+— część gminy Bircza położona na południe od linii wyznaczonej przez północne, wschodnie granice miejscowości Leszczawka – Leszczawa Dolna – Łomna w powiecie przemyskim;
+
+— część powiatu przeworskiego niewymieniona w części II załącznika I;
+
+— gminy Dzikowiec, Raniżów w powiecie kolbuszowskim;
+
+— gmina Cisna w powiecie leskim;
+
+— gminy Lutowiska, Czarna, Ustrzyki Dolne w powiecie bieszczadzkim;
+
+— część gminy Głogów Małopolski niewymieniona w części II załącznika I, część gminy Świlcza niewymieniona w części II załącznika I, część gminy Boguchwała niewymieniona w części II załącznika I, część gminy Trzebownisko niewymieniona w części II załącznika I, część gminy Kamień niewymieniona w części II załącznika I, część gminy Sokołów Małopolski niewymieniona w części II załącznika I w powiecie rzeszowskim;
+
+— część powiatu łańcuckiego niewymieniona w części II załącznika I;
+
+— powiat miejski Tarnobrzeg;
+
+— gminy Gorzyce, Grębów w powiecie tarnobrzeskim;
+
+— gminy Czudec, Niebylec w powiecie strzyżowskim;
+
+— gminy Brzozów, Jasienica Rosielna, Dydnia, część gminy Domaradz niewymieniona w części II załącznika I, cześć gminy Nozdrzec niewymieniona w części II załącznika I w powiecie brzozowskim;
+
+— gmina Tyrawa Wołoska, część gminy wiejskiej Sanok położona na wschód od linii wyznaczonej przez drogę łącząca miejsowości Końskie – Raczkowa -Srogów Górny biegnącą od północnej granicy gminy do skrzyżowania z drogą łącząca miejscowości Srogów Górny – Srogów Dolny i dalej od tego skrzyżowania na północ od linii wyznaczonej przez drogę łącząca miejscowości Srogów Górny- Srogów Dolny - Trepcza do granicy miasta Sanok oraz na północ i na wschód od linii wyznaczonych przez północne i wschodnie granice miasta Sanok w powiecie sanockim;
+
+— część gminy Sędziszów Małopolski położona na południe od linii wyznaczonej przez drogę A4 biegnącą od wschodniej granicy gminy do przecięcia z drogą nr 987 i dalej od tego przecięcia na wschód od linii wyznaczonej przez drogę 987 biegnącą do południowej granicy gminy, część gminy Iwierzyce położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Sędziszów Małopolski – Sielec – Iwierzyce – Wiercany – Olimpów – Dolna Wiśniowa - Dolna Bystrzyca – Kamieniec – Pyrówki w powiecie ropczycko-sędziszowskim;
+
+w województwie świętokrzyskim:
+
+— część powiatu opatowskiego niewymieniona w części II załącznika I;
+
+— część powiatu sandomierskiego niewymieniona w części II załącznika I;
+
+— gminy Bogoria, Staszów w powiecie staszowskim;
+
+— powiat miejski Kielce;
+
+— gminy Daleszyce, Miedziana Góra, Masłów, Mniów, Raków, Strawczyn, część gminy Łopuszno położona na północ od linii wyznaczonej przez drogę łączącą miejscowości Mnin – Jasień – Łopuszno do skrzyżowania z drogą nr 786 w miejscowości Łopuszno i dalej od tego skrzyżowania na północ od linii wyznaczonej przez drogę nr 786 w powiecie kieleckim;
+
+— gminy Fałków, Słupia Konecka, część gminy Ruda Maleniecka niewymieniona w części II załącznika I, część gminy Radoszyce niewymieniona w części II załącznika I w powiecie koneckim;
+
+w województwie łódzkim:
+
+— część gminy Inowłódz położona na południe od linii wyznaczonej przez drogę nr 48 do jej przecięcią z droga nr 726 w miejscowości Inowłódz i dalej od tego przecięcią na wschód od linii wyznaczonej przez drogę nr 726 biegnącą do północnej granicy gminy, część gminy Rzeczyca położona na wschód od linii wyznaczonej przez drogę nr 726 do przecięcia się tej drogi w miejscowości Rzeczyca z drogą łącząca miejscowości Rzeczyca - Lubocz, a następnie od tego skrzyżowania na południe od linii wyznaczonej przez drogę łaczącą miejscowości Rzeczyca – Lubocz - Roszkowa Wola – Domaniewice, miasto Tomaszów Mazowiecki, część gminy wiejskiej Tomaszów Mazowiecki położona na południe od linii wyznaczonej przez północne granice miejcowości Sługocice oraz na południe od linii wyznaczonej przez południowe granice miejscowości Zawada – Godaszewice w powiecie tomaszowskim;
+
+— gmina Kowiesy w powiecie skierniewickim;
+
+— gminy Biała Rawska, Regnów i Sadkowice w powiecie rawskim;
+
+— część gminy Poświętne położona na północ od linii wyznaczonej przez zachodnią i północną granicę miejscowości Buczek, część gminy Sławno położona na zachód od linii wyznaczonej przez zachodnie i północne granice miejscowości Zachorzów – Prymusowa Wola – Grążowice - Gawrony, część gminy Paradyż niewymieniona w części II załącznika I, część gminy Żarnów niewymieniona w części II załącznika I, część gminy Mniszków niewmieniona w części II załącznika I, część gminy Opoczno położona na północ od linii wyznaczonej przez południową granicę miejscowości Kraśnica w powiecie opoczyńskim;
+
+— część gminy Wolbórz położona na północ od linii wyznaczonej przez północne i wschodnie granice miejscowości Lubiaszów Nowy – Bronisławów oraz na zachód od zachodnich granic miejscowości Krzykowice oraz Komorniki, część gminy Moszczenica położona na południe od linii wyznaczonej przez południowe i wschodnie granice miejscowości Dąbrówka – Srock Prywatny – Gościmowice II – Gościmowice I – Baby – Raciborowice, część gminy Grabica położona na południe od linii wyznaczonej przez południowe i wschodnie granice miejscowości Boryszów – Grabica – Lutosławice Rządowe, część gminy Wola Krzysztoporska niewymieniona w częśći II załącznika I, część gminy Gorzkowice niewymieniona w części II załącznika I, część gminy Łęki Szlacheckie niewymieniona w części II załącznika I, część gminy Ręczno niewymieniona w części II załącznika I, część gminy Aleksandrów niewmieniona w części II załącznika I w powiecie piotrkowskim;
+
+— część gminy Drużbice położona na wschód od linii wyznaczonej przez północne i zachodnie granice miejscowości Wdowin – Kazimierzów-Zbijowa – Bukowie Dolne – Bukowie Górne, część gminy wiejskiej Bełchatów położona na wschód od linii wyznaczonej przez północne, południowe i zachodnie granice miejscowości Kałduny – Dobrzelów – Myszaki – Dobiecin – Zdzieszulice Górne – Zdzieszulice Dolne – Mazury – Wółka Łękawska – Łękawa – Kalisko-Kisie w powiecie bełchatowskim;
+
+— gminy Gomunice, Kamieńsk, część gminy Dobryszyce położona na wschód od linii wyznaczonej przez północno-zachodnie granice miejscowości Borowiecko – Blok Dobryszyce, część gminy Kodrąb położona na północ od linii wyznaczonej przez południowe granice miejscowości Gosławice – Łagiewniki – Zakrzew Wielki – Kodrąb – Józefów – Gembartówka – Rzejowice, część gminy Masłowice położona na północ od linii wyznaczonej przez południowe granice miejscowości Tworowice – Strzelce Małe – Kawęczyn - Łączkowice, część gminy Przedbórz położona na północ od linii wyznaczonej przez południowo - wschodnią granicę miasta Przedbórz i dalej na północ od linii wyznacznej przez południowe - wschodnie granice miejscowości Jabłonna – Wygwizdów w powiecie radomszczańskim;
+
+w województwie pomorskim:
+
+— gminy Sulęczyno, Stężyca, w powiecie kartuskim;
+
+— gminy Karsin, Kościerzyna i miasto Kościerzyna, Stara Kiszewa w powiecie kościerskim;
+
+— gmina Ustka, miasto Ustka, część gminy Redzikowo położona na północ od linii wyznaczonej przez linię kolejową łącząca miejscowości Kobylnica – Słupsk - Damnica, część gminy Kobylnica położona na zachód od linii wyznaczonej przez linię kolejową łącząca miejscowości Słupsk – Kobylnica – Widzino do punktu przecięcia z drogą łącząca miejscowości Słonowice – Kończewo, a następnie na południe od tej drogi biegnącej od tego przecięcia oraz dalej na zachód od linii wyznaczonej przez drogę łącząca miejscowości Słonowice – Kończewo – Kuleszewo – Mielęcino, część gminy Kępice położona na północ od linii wyznaczonej przez drogę łączącą miejscowości Nowy Żytnik – Osowo- Ciecholub - Darnowo – Tursko w powiecie słupskim;
+
+— część miasta powiatowego Słupsk położona na zachód od linii wyznaczonej przez linię kolejową łącząca Kobylnica- Słupsk- Damnica;
+
+— gmina Czersk w powiecie chojnickim;
+
+— gminy Borzytuchom, Bytów, Koczygłowy, Trzebielino, Parchowo w powiecie bytowskim;
+
+w województwie dolnośląskim:
+
+— gminy Międzybórz, Syców, część gminy wiejskiej Oleśnica położona na północ od linii wyznaczonej przez drogę nr S8, część gminy Dobroszyce położona na wschód od linii wyznaczonej przez linię kolejową biegnącą od północnej do południowej granicy gminy w powiecie oleśnickim;
+
+— część powiatu wrocławskiego niewymieniona w części II załącznika I;
+
+— część gminy Domaniów położona na południowy zachód od linii wyznaczonej przez autostradę A4 w powiecie oławskim;
+
+— gminy Borów i Wiązów w powiecie strzelińskim;
+
+— gminy Pielgrzymka, Zagrodno, Złotoryja, miasto Złotoryja w powiecie złotoryjskim;
+
+— gminy Męcinka, Mściwojów, Wądroże Wielkie, miasto Jawor w powiecie jaworskim;
+
+— powiat zgorzelecki;
+
+— powiat lubański;
+
+— powiat bolesławiecki;
+
+— powiat polkowicki;
+
+— powiat średzki;
+
+— powiat legnicki;
+
+— powiat miejski Legnica;
+
+w województwie wielkopolskim:
+
+— gminy Kobylin, Krotoszyn, Zduny, miasto Sulmierzyce w powiecie krotoszyńskim;
+
+— gminy Dolsk, Książ Wielkopolski w powiecie śremskim;
+
+— gminy Borek Wielkopolski, Gostyń, Piaski, Pogorzela, w powiecie gostyńskim;
+
+— gminy Kiszkowo, Kłecko, Łubowo, Mieleszyn w powiecie gnieźnieńskim;
+
+— gmina Czarnków, miasto Czarnków, część gminy Lubasz położona na północ od linii wyznacznej przez linię kolejową w powiecie czarnkowsko – trzcianeckim;
+
+— gminy Margonin, Szamocin, Chodzież z miastem Chodzież w powiecie chodzieskim;
+
+— gminy Damasławek, Gołańcz, Wapno, miasto Wągrowiec, część gminy Mieścisko położona na wschód od linii wyznaczonej przez drogę nr 190, część gminy Wągrowiec położona na wschód od linii wyznaczonej przez drogę nr 190 biegnącej od południowej granicy miasta Wągrowiec do południowej granicy gminy oraz na północ i na wschód od linii wyznaczonej przez drogę biegnącą od granicy z gminą Budzyń przez miejscowości Kamienica – Bartodzieje do granicy z miastem Wągrowiec w powiecie wągrowieckim;
+
+— gminy Odolanów, Sośnie, część gminy wiejskiej Ostrów Wielkopolski położona na zachód od miasta Ostrów Wielkopolski w powiecie ostrowskim;
+
+— gmina Kobyla Góra w powiecie ostrzeszowskim;
+
+— gminy Baranów, Bralin, Perzów, Łęka Opatowska w powiecie kępińskim;
+
+— powiat średzki;
+
+— gminy Białośliwie, Kaczory, Miasteczko Krajeńskie, Ujście, Wysoka, część gminy Szydłowo niewymieniona w części II załącznika I, miasto Piła w powiecie pilskim;
+
+— gminy Krajenka, Tarnówka, Jastrowie w powiecie złotowskim;
+
+— gminy Kostrzyn, Pobiedziska w powiecie poznańskim;
+
+w województwie opolskim:
+
+— część gminy Gogolin położona na północ od linii wyznaczonej przez drogę A4 w powiecie krapkowickim;
+
+— gmina Gorzów Śląski, Praszka, Rudniki w powiecie oleskim;
+
+— gmina Grodków w powiecie brzeskim;
+
+— gminy Komprachcice, Niemodlin, Prószków, Tarnów Opolski, Tułowice, część gminy Łubniany położona na południe od linii wyznaczonej przez drogę łącząca miejscowości Świerkle – Masów, ulicę Leśną w miejscowości Masów oraz na południe od ulicy Kolanowskiej biegnącej do wschodniej granicy gminy w powiecie opolskim;
+
+— powiat miejski Opole;
+
+— gminy Izbicko, Strzelce Opolskie, część gminy Ujazd położona na północ od linii wyznaczonej przez autostradę A4 w powiecie strzeleckim,
+
+— gmina Byczyna w powiecie kluczborskim;
+
+w województwie zachodniopomorskim:
+
+— gmina Rąbino, część gminy Sławoborze położona na wschód od linii wyznaczonej przez drogę nr 162, część gminy Brzeżno położona na wschód od linii wyznaczonej przez drogę nr 162, miasto Świdwin, część gminy wiejskiej Świdwin położona wschód od linii wyznaczonej przez drogę nr 162 biegnącą od północnej granicy gminy do granicy miasta Świdwin i dalej na północ i wschód od granicy miasta Świdwin w powiecie świdwińskim;
+
+— część gminy Międzyzdroje położona na zachód od linii wyznaczonej przez zachodnie granice – Wolińskiego Parku Narodowego w powiecie kamieńskim;
+
+— część powiatu miejskiego Świnoujście położona na południe od linii wyznaczonej przez rzekę Stara Świna biegnącą od wschodniej granicy gminy do przecięcia z rzeką Świna, a następnie na zachód od linii wyznaczonej przez rzekę Świna biegnącą od przecięcia z linią wyznaczoną przez rzekę Stara Świna do ujścia do Morza Bałtyckiego;
+
+— część gminy Czaplinek położona na północ od linii wyznaczonej przez linię kolejową łączącą miejscowości Złocieniec – Czaplinek do przecięcia z drogą nr 177 i dalej na wschód od linii wyznaczonej przez drogę nr 177 biegnącą od tego przecięcia do południowej granicy gminy, część gminy Drawsko Pomorskie położona na północ od linii wyznaczonej linię kolejową łączącą miejscowości Węgorzyno – Drawsko Pomorskie - Złocieniec, część gminy Złocieniec położona na północ od linii wyznaczonej przez linię kolejową łączącą miejscowości Drawsko Pomorskie – Złocieniec – Czaplinek w powiecie drawskim;
+
+— gmina Borne Sulinowo w powiecie szczecineckim;
+
+— gmina Dygowo, część gminy Ustronie Morskie położna na południe od linii wyznaczonej przez linię kolejową łączącą miejscowości Kołobrzeg – Tymień do przecięcia linii kolejowej z wschodnią granicą miejscowości Bagicz, następnie od tego przecięcia na zachód od linii wyznaczonej przez wschodnią granicę miejscowości Bagicz, część gminy wiejskiej Kołobrzeg niewymieniona w części II załącznika I, miasto Kołobrzeg, część gminy Gościno niewymieniona w części II załącznika I w powiecie kołobrzeskim;
+
+— część gminy wiejskiej Białogard położona na zachód od linii wyznaczonej przez wschodnie granice miejscowości Zagórze – Rychowo – Podwilcze, część gminy Karlino położona na zachód od linii wyznaczonej przez wschodnie granice miejscowości Czerwięcino – Karścino – Chotyń – Kozia Góra – Garnki w powiecie białogardzkim;
+
+— część gminy Postomino położna na wschód od linii wyznaczonej przez północne, zachodnie granice miejscowości Pieszcz – Pałowo – Pałówko, część gminy wiejskiej Sławno położona na południe od linii wyznaczonej przez północne, zachodnie granice miejscowości Wrześnica – Warszkowo do wschodniej granicy miasta Sławno oraz część położna na wschód od linii wyznaczonej przez zachodnie granice miejscowości Bobrowiczki – Kwasowo i dalej na północ od linii wyznaczonej przez południowe granice miejscowości Kwasowo – Tychowo i dalej na wschód od linii wyznaczonej przez zachodnie granice miejscowości Żukowo - Łętowo, miasto Sławno w powiecie sławieńskim;
+
+w województwie lubelskim:
+
+— część powiatu łukowskiego nie wymieniona w części II załącznika I;
+
+w województwie śląskim:
+
+— gminy Krzepice, Panki, Przystajń w powiecie kłobuckim;
+
+— gminy Ciasna, Pawonków, Herby, Kochanowice, miasto Lubliniec w powiecie lublinieckim;
+
+— gmina Krupski Młyn, część gminy Tworóg położona na zachód od linii wyznaczonej przez drogę nr 907 w powiecie tarnogórskim;
+
+— gminy Toszek, Wielowieś w powiecie gliwickim;
+
+w województwie lubuskim:
+
+— gminy Cybinka, Ośno Lubuskie, Rzepin, Słubice, część gminy Górzyca niewymieniona w części II załącznika I w powiecie słubickim;
+
+— powiat zielonogórski;
+
+— powiat miejski Zielona Góra;
+
+— powiat nowosolski;
+
+— powiat świebodziński;
+
+— powita żagański;
+
+— gminy Bytnica, Maszewo w powiecie krośnieńskim.
+
+**6\. Slovakia**
+
+The following restricted zones I in Slovakia:
+
+— in the district of Nové Zámky the municipalities of Jatov, Rastislavice, Veľký Kýr, Komjatice, Lipová;
+
+— in the district of Šaľa the municipalities of Selice, Trnovec nad Váhom, Žihárec, Tešedíkovo;
+
+— in the district of Dunajská Streda the municipalities of Okoč, Topoľníky, Trhová Hradská, Veľký Meder, Čiližská Radvaň, Kľúčovec, Medveďov, Sap, Ňarad, Baloň, Pataš;
+
+— in the district of Galanta the municipalities of Dolný Chotár, Trstice, Kráľov Brod, Dolné Saliby;
+
+— the whole district of Ružomberok;
+
+— in the district of Martin, municipalties of Blatnica, Folkušová, Necpaly, Belá-Dulice, Ďanová, Turčianske Jaseno, Záborie, Sklabiňa, Sklabinský Podzámok, Turčianska Štiavnička, Podhradie, Nolčovo, Krpeľany, Šútovo, Turany, Sučany;
+
+— in the district of Dolný Kubín, the municipalities of Kraľovany, Žaškov, Jasenová, Vyšný Kubín, Oravská Poruba, Leštiny, Osádka, Malatiná, Chlebnice, Krivá;
+
+— in the district of Tvrdošín, the municipalities of Oravský Biely Potok, Habovka, Zuberec;
+
+— the whole district of Žilina, except municipalities included in part II;
+
+— the whole district of Kysucké Nové Mesto;
+
+— in the district of Čadca, the municipalities of Makov, Vysoká and Kysucou;
+
+— the whole district of Bytča, except municipalities included in part II;
+
+— the whole district of Nitra, except municipalities included in part II;
+
+— in the district of Bánovce nad Bebravou, the municipalities of Chudá Lehota, Dolné Naštice, Rybany, Pečeňany, Borčany, Šišov, Libichava, Veľké Hoste, Malé Hoste, Pochabany, Zlatníky, Otrhánky, Veľké Chlievany, Haláčovce, Dvorec, Veľké Držkovce, Cimenná, Malá Hradná;
+
+— in the district of Trenčín, the municipalities of Dubodiel, Veľká Hradná, Trenčianske Jastrabie, Neporadza, Trenčianske Mitice, Mníchova Lehota, Soblahov, Trenčín, Trenčianske Teplice, Trenčianska Teplá, Zamarovce, Hrabovka, Skalka and Váhom, Horná Súča, Dolná Súča, Nemšová, Horné Sŕnie;
+
+— the whole district of Ilava, except municipalities included in part II;
+
+— the whole district of Púchov, except municipalities included in part II;
+
+— the whole district of Považská Bystrica, except municipalities included in part II;
+
+— in the district of Nové Mesto nad Váhom, the municipalities of Kálnica, Hôrka nad Váhom, Hrádok, Nová Lehota, Stará Lehota, Modrová;
+
+— in the district of Piešťany, the municipalities of Hubina, Morava nad Váhom, Banka, Ratnovce, Sokolovce, Piešťany, Drahovce;
+
+— in the district of Hlohovec, the municipalities of Jalšové, Horné Otrokovce, Horné Trhovište, Tekolďany, Dolné Otrokovce, Dolné Trhovište, Merašice, Pastuchov, Kľačany, Sasinkovo;
+
+— the whole district of Gelnica;
+
+— the whole district of Poprad;
+
+— the whole district of Spišská Nová Ves;
+
+— the whole district of Levoča;
+
+— the whole district of Kežmarok;
+
+— the whole district of Michalovce, except municipalities included in part II;
+
+— the whole district of Medzilaborce;
+
+— the whole district of Košice-okolie;
+
+— the whole district of Rožnava;
+
+— the whole city of Košice;
+
+— the whole district of Vranov nad Topľou;
+
+— the whole district of Humenné;
+
+— the whole district of Prešov;
+
+— the whole district of Sabinov;
+
+— the whole district of Svidník;
+
+— the whole district of Stropkov;
+
+— the whole district of Stará Ľubovňa;
+
+— the whole district of Trebišov, except municipalities included in part II;
+
+— the whole district of Liptovsky Mikuláš;
+
+— the whole district of Bardejov.
+
+**7\. Italy**
+
+The following restricted zones I in Italy:
+
+Piedmont Region:
+
+— in the province of Alessandria the following Municipalities: Alzano Scrivia, Castelnuovo Scrivia, Guazzora, Isola Sant'antonio, Molino Dei Torti, Pietra Marazzi, Sale, Bergamasco, Alessandria, Felizzano, Tortona, Masio, Quattordio, Oviglio, Solero;
+
+— in the province of Asti the following Municipalities: Coazzolo, Costigliole D’asti, Castagnole delle Lanze, Isola d'Asti, Vigliano d’Asti, Castello di Annone, Castelnuovo Calcea, Montaldo Scarampi, Castelnuovo Belbo, Cortiglione, Cerro Tanaro, Belveglio, Rocchetta Tanaro, Montegrosso D'Asti, Vinchio, Agliano Terme, Vaglio Serra, Rocca D'Arazzo, Incisa Scapaccino, Mombercelli;
+
+— in the province of Cuneo the following Municipalities: Neive, Neviglie, Barbaresco, Monchiero, Novello, Verduno, Lequio Tanaro, Barolo, Piozzo, Roddi, La Morra, Farigliano, Narzole, Clavesana, Battifollo, Marsaglia, Magliano Alfieri, Monticello D'Alba, Bene Vagienna, Bastia Mondovì, Bagnasco, Vezza D'Alba, Santa Vittoria D'Alba, Castagnito, Cigliè, Castellino Tanaro, Guarene, Carrù, Rocca Cigliè, Corneliano D'Alba, Igliano, Nucetto, Torresina, Roascio, Piobesi D'Alba, Salmour, Ceva, Cervere, Cherasco;
+
+Liguria Region:
+
+— in the province of Savona the following Municipalities: Mallare, Bormida, Rialto, Calice Ligure, Pietra Ligure, Tovo San Giacomo, Magliolo, Loano, Giustenice, Borgio Verezzi, Calizzano, Massimino;
+
+Emilia-Romagna Region:
+
+— in the Province of Piacenza, the following Municipalities: Caorso, Calendasco, Piacenza, Monticelli D'Ongina, Castelvetro Piacentino, Villanova Sull'Arda, Sarmato, Rottofreno, Gragnano Trebbiense, Gossolengo, Castel San Giovanni;
+
+— in the Province of Parma, the following Municipalities: Soragna, Fontanellato, Parma (a nord della via Emilia e della tangenziale e ad est del fiume Parma), Fontevivo, Busseto (a est della ferrovia) Montechiarugolo, Polesine Zibello;
+
+— in the Province of Reggio-Emilia, the following Municipalities: Casina, Vezzano Sul Crostolo, Albinea, Castellarano, San Polo D'Enza, Quattro Castella, Baiso, Viano, Scandiano, Canossa, Montecchio, Bibbiano;
+
+— in the Province of Modena the following Municipalities: Pavullo nel Frignano, Prignano Sulla Secchia, Polinago, Serramazzoni, Montese;
+
+— in the Province of Bologna the following Municipalities: Camugnano, Gaggio Montano, Castiglione dei Pepoli, Castel di Casio;
+
+Toscana Region:
+
+— in the Province of Lucca, the following Municipalities: Lucca (a sud dell’autostrada A11 Firenze-Viareggio), Capannori (a sud dell’autostrada A11 Firenze-Viareggio), Altopascio (a sud dell’autostrada A11 Firenze-Viareggio), Porcari (a sud dell’autostrada A11 Firenze-Viareggio), Massarosa (a sud dell’autostrada A11 Firenze-Viareggio), Viareggio;
+
+— in the Province of Pistoia the following Municipalities: Larciano, Monsummano Terme, Uzzano, Buggiano, Quarrata, Agliana, Ponte Buggianese, Montecatini Terme, Pieve A Nievole, Massa E Cozzile, Chiesina Uzzanese (a sud dell’autostrada A11 Firenze-Viareggio), Lamporecchio, Montale, Serravalle Pistoiese;
+
+— in the Province of Prato the following Municipalities: Montemurlo, Cantagallo, Vaiano, Vernio, Prato;
+
+— in the Province of Pisa the following Municipalities: Castelfranco Di Sotto, San Giuliano Terme, Vecchiano, Santa Croce Sull’Arno, Vicopisano, Bientina. Buti, Calci, Santa Maria A Monte;
+
+— in the Province of Firenze the following Municipalities: Fucecchio;
+
+Lombardia Region:
+
+— in the Province of Pavia, the following Municipalities: Monticelli Pavese, Albaredo Arnaboldi, Albuzzano, Arena Po, Badia Pavese, Bastida Pancarana, Belgioioso, Bosnasco, Campospinoso, Carbonara al Ticino, Casanova Lonati, Casei Gerola, Cava Manara, Cervesina, Corana, Cornale e Bastida, Costa De' Nobili, Cura Carpignano, Dorno, Ferrera Erbognone, Gropello Cairoli, Linarolo, Mezzana Bigli, Mezzana Rabattone, Mezzanino, Pancarana, Pavia, Pieve Albignola, Pieve Porto Morone, Portalbera, Rea, San Cipriano Po, San Martino Siccomario, San Zenone al Po, Sannazzaro De' Burgondi, Scaldasole, Silvano Pietra, Sommo, Spessa, Stradella, Torre De' Negri, Travacò Siccomario, Valle Salimbene, Verrua Po, Villanova S'ardenghi, Zenevredo, Zerbo, Zinasco.
+
+**8\. Czechia**
+
+The following restricted zones I in Czechia:
+
+Liberecký kraj:
+
+— v okrese Liberec katastrální území obcí Andělská Hora u Chrastavy, Arnoltice u Bulovky, Hajniště pod Smrkem, Nové Město pod Smrkem, Dětřichovec, Bulovka, Horní Řasnice, Dlouhý Most, Dolní Hanychov, Dolní Pertoltice, Doubí u Liberce, Františkov u Liberce, Hluboká u Liberce, Horní Hanychov, Horní Růžodol, Horní Suchá u Liberce, Krásný Les u Frýdlantu, Jindřichovice pod Smrkem, Horní Pertoltice, Dolní Řasnice, Raspenava, Dolní Oldřiš, Ludvíkov pod Smrkem, Lázně Libverda, Háj u Habartic, Habartice u Frýdlantu, Kunratice u Frýdlantu, Víska u Frýdlantu, Poustka u Frýdlantu, Višňová u Frýdlantu, Předlánce, Černousy, Boleslav, Ves, Andělka, Frýdlant, Srbská, Hejnice, Bílý Potok pod Smrkem, Horní Vítkov, Dolní Vítkov, Václavice u Hrádku nad Nisou, Mníšek u Liberce, Mlýnice, Nová Ves u Chrastavy, Dolní Chrastava, Horní Chrastava, Chrastava I, Chrastava II, Oldřichov v Hájích, Albrechtice u Frýdlantu, Dětřichov u Frýdlantu, Heřmanice u Frýdlantu, Kristiánov, Polesí u Rynoltic, Loučná, Hrádek nad Nisou, Bílý Kostel nad Nisou, Petrovice v Lužických horách, Rynoltice, Grabštejn, Lvová, Janovice v Podještědí, Janův Důl u Liberce, Javorník u Českého Dubu, Javorník u Dlouhého Mostu, Jeřmanice, Jítrava, Donín u Hrádku nad Nisou, Oldřichov na Hranicích, Karlinky, Kněžice v Lužických horách, Kryštofovo Údolí, Křižany, Chotyně, Dolní Suchá u Chotyně, Dolní Sedlo, Fojtka, Kateřinky u Liberce, Krásná Studánka, Kunratice u Liberce, Liberec, Machnín, Minkovice, Nové Pavlovice, Novina u Liberce, Ostašov u Liberce, Panenská Hůrka, Pilínkov, Proseč pod Ještědem, Radčice u Krásné Studánky, Rašovka, Rochlice u Liberce, Rudolfov, Ruprechtice, Růžodol I, Staré Pavlovice, Starý Harcov, Stráž nad Nisou, Svárov u Liberce, Světlá pod Ještědem, Šimonovice, Vesec u Liberce, Vratislavice nad Nisou, Zdislava, Žibřidice;
+
+— v okrese Jablonec nad Nisou katastrální území obcí Albrechtice v Jizerských horách, Antonínov, Bedřichov u Jablonce nad Nisou, Desná I, Desná III, Dolní Maxov, Horní Maxov, Hraničná nad Nisou, Jablonec nad Nisou, Jablonecké Paseky, Janov nad Nisou, Jindřichov nad Nisou, Jiřetín pod Bukovou, Jizerka, Josefův Důl u Jablonce nad Nisou, Karlov u Josefova Dolu, Loučná nad Nisou, Lučany nad Nisou, Lukášov, Mšeno nad Nisou, Polubný, Proseč nad Nisou, Rádlo, Rýnovice, Smržovka, Tanvald.
+
+**9\. Greece**
+
+The following restricted zones I in Greece:
+
+— in the regional unit of Kavala:
+
+— the municipal departments of Keramoti and Chrisoupoli, the community departments of Agiasma, Nea Karia, Piges, Gravouni, Eratino, Perni, Petropigi, Pontolivado and Chrisochori (Nestos Municipality);
+
+— the municipal departments of Nea Peramos, the community departments of Amisianes, Kokinochoma, Agios Andreas, Eleochori, Eleftheri, Mirtofito, Nea Iraklitsa (Paggaio Municipality);
+
+— the municipal departments of Kavala, Nea Karvali, Zigos the community departments of Chalkero, Amigdaleonas, Korifes, Krioneri, Palea Kavala, Polistilos and Filipi (Kavala Municipality);
+
+— in the regional unit of Xanthi:
+
+— the municipal departments of Kimmerion and Xanthi (Xanthi Municipality);
+
+— the community departments of Satres, Thermes and the municipal departments of Myki, Echinos and Kotyli (Myki Municipality);
+
+— the community departments of Sounio, Avdira, Mandra, Mirodato, Nea Kesani, Koutsos, Magiko, Pigadia, Polisito and Selino, the municipal department of Selero, Genisea and Diomidia (Avdira Municipality);
+
+— the municipal department of Evlalo and the community departments of Avato, Exohi, Erasmio, Maggana and Olvio (Topiros Municipality);
+
+— in the regional unit of Rodopi:
+
+— the municipal department of Komotini and the community departments of Anthochorio, Gratini, Thrylorio, Kalhas, Karydia, Kikidio, Kosmio, Pandrosos, Aigeiros, Meleti, Itea, Sidirades, Stilari and Mega Doukato (in Komotini municipality);
+
+— the municipal department of Organi and the community departments of Dilina, Kinira, Nikites, Plagia, Skaloma, Strofi, Agra, Ardia, Vragia, Dokos, Drosia, Drimi, Esochi, Kato Drosini, Lampro, Neo Kalintirio, Nevra, Omiriko, Passo, Paterma, Ragada, Skiada, Arriana, Darmeni, Fillyra, Ano Drosini, Kehros and (in Arriana municipality);
+
+— the municipal departments of Iasmos, Asomatoi, and the community departments of Sostis, Kerasea, Linos, Megas Postos, Mischos, Amvrosia, Amaxades, Polyanthos (in Iasmos municipality);
+
+— the municipal department of Amaranta and the community department of Nea Santa (in Maroneia Sapon municipality);
+
+— in the regional unit of Evros:
+
+— the municipal departments of Soufli and Mikro Dereio and the community departments of Amorio, Lavara, Dadia, Kyriaki, Mandra, Mavrokklisi, Protokklisi, (in Soufli municipality);
+
+— the municipal departments of Nea Vyssa, Orestiada and the community departments of Galini, Thourio, Neo Chimonio, Milea, Dikaia, Arzos, Elaia, Therapio, Komara, Marasia, Ormenio, Pentalofos, Petrota, Plati, Ptelea, Kyprinos, Zoni, Fulakio, Spilaio, Kavili, Kastanies, Rizia, Sterna, Ampelakia, Valtos, Megali Doxipara, Neochori and Chandras (in Orestiada municipality);
+
+— the municipal departments of Ellinochori, Didymoteixo and the community departments of Asimenio, Isaakio, Petrades, Praggi, Pithio, Sofiko, Asvestades, Karoti, Koufovouno, Kiani, Mani, Sitochori, Alepochori, Asproneri, Metaxades, Vrysika, Doksa, Elafoxori, Ladi, Paliouri and Poimeniko (in Didymoteixo municipality);
+
+— in the regional unit of Kilkis:
+
+— the community departments of Anthofito, Mikrokampos, Neo Agioneri, Paleo Agioneri, Gallikos, Pedino, Mavroneri, Neo Ginekokatsro, Xilokeratea (Kilkis Municipality);
+
+— the municipal departments of Agios Petros and Axiochori (Peonia Municipality);
+
+— in the regional unit of Thessaloniki:
+
+— the community departments of Adam, Nea Kalindia andPetrokerasa (Langadas Municipality);
+
+— the municipal departments of Panorama, and Pilea (Pilaia-Chortiatis Municipality);
+
+— the municipal department of Koufalia, Agios Athanasios, Vathilakos, Gefira, Nea Mesimvria, Prochoma, Adendro, Mikro Monastiri, Chalkidona and the community departments of Agchialos, Xirochori, Valtochori, Eleousa and Partheni (Chalkidona Municipality);
+
+— the municipal departments of Vasilika, Neo Risio, Plagiari, Trilofos, Thermi and the community departments of Agia Paraskevi, Agios Antonios, Livadi, Peristera, Souroti, Tagarades, Kardia, Kato Scholari and Nea Redestos (Thermi municipality);
+
+— the municipal departments of Liti and Oreokastro and the community departments of Nea Filadelfia, Neochorouda, Pentalofos, Mesaio, Melissochori (Oreokastro Municipality);
+
+— the municipal departments of Ampelokipi and Menemeni (Ampelokipi-Menemeni Municipality);
+
+— the municipal departments of Diavata, Kalochori, Nea Magnisia and Sindos (Delta Municipality);
+
+— the municipality of Thessaloniki and the municipal department of Triandria (Thessaloniki Municipality);
+
+— the municipality of Kalamaria (Kalamaria Municipality);
+
+— the municipal department of Evosmos, Eleftherio-Kordelio (Kordelio-Evosmos Municipality);
+
+— the municipal departments of Agios Pavlos, Neapoli, Pefka and Sikies (Neapoli-Sikeon Municipality);
+
+— the municipal departments of Efkarpia, Polichni and Stavroupoli (Pavlos Melas Municipality);
+
+— the municipal departments of Epanomi, Agia Triada, Nei Epivates, Perea, Nea Michaniona and community departments of Mesimeri, Aggelochori and Nea Kerasia (Thermaikos Municipality);
+
+— in the regional unit of Chalkidiki:
+
+— the municipal departments of Megali Panagia, Ierisos and the community departments of Gomati, Pirgadikia, Stratoniki and Stratoni (Aristotelis Municipality);
+
+— the municipal departments of Galatista, Ormilia, Poligiros and the community departments of Vavdos, Galarinos, Doumpia, Geroplatanos, Palaiochora, Riza, Metamorfosi, Agios Prodromos, Vrastama, Palaiokastro, Taxiarhis and Sana (Poligiros Municipality);
+
+— the community department of Metagkitsi (Sithonia Municipality);
+
+— the municipal departments of Nea Kallikratia, Simantra, Nea Triglia and community departments of Agios Pavlos, Lakkoma, Nea Gonia, Nea Silata, Agios Panteleimonas, Eleochori, Krini, Nea Tenedos, Nea Plagia and Petralona (Nea Propontida Municipality);
+
+— in the regional unit of Pella:
+
+— the community departments of Grammatiko, and Flamouria (Edessa Municipality);
+
+— the municipal departments of Kria Vrisi, Pella and the community departments of Akrolimni, Agrosikia, Athira, Ditiko, Nea Pella, Rachona, (Pella Municipality);
+
+— in the regional unit of Imathia:
+
+— the municipal departments of Kopanos and Naousa and the community departments of Lefkadia, Monospita, Chariesa, Aggelochori, Zervochori, Poliptalanos, Arkochori, Gianakochori, Rodochori, Stenimachos, Episkopi Naousis, Marina (Naousa municipality);
+
+— the municipal departments of Alexandria, Korifi, Plati and the community departments of Vrisaki, Kampochori, Loutros, Neochori, Nisi, Episkopi, Kavasila, Kefalochori, Xechasmeni, Paleo Skilitsi, Stavros, Agathia, Kipseli, Prodromos, Arachos, Lianovegi, Platanos, Prasinada and Trikala (Alexandria Municipality);
+
+— the municipal departments of Macrochori, Veria and the community departments of Diavatos, Kouloura, Lykogianni, Nea Nikomideia, Kato Vermio, Agia Marina, Agios Georgios, Patrida, Trilofos and Fitia (Veria Municipality);
+
+— in the regional unit of Kozani:
+
+— the municipal department of Ptolemaida and the community departments of Agios Christoforos, Ermakia, Kariochori, Spilia, Anatoliko, Komnina, Mesovouno, Pirgi, Vlasti, Anarrachi, Ardassa, Emporio, Milochori, Asvestopetra, Pentavrysos, Kardia, Komanos, Mavropigi, Pteleonas and Proastio (Eordea Municipality);
+
+— the community departments of Livera, Pontokomi, Sideras, Kleitos, Exohi and Charavgi (Kozani Municipality);
+
+— the municipal department of Galatini and the community departments of Sisani, Eratira, Namata, Pelekanos, Driovouni, Molocha, Platania, Simantro and Dragatsia (Voio Municipality);
+
+— in the regional unit of Florina:
+
+— the community departments of Antigono, Farangi, Maniaki, Pelargos (Aminteo Municipality);
+
+— in the regional unit of Kastoria:
+
+— the municipal departments of Mesopotamia, Maniaki, Kastoria and the community departments of Korisos, Lithia, Melisotopos, Metamorfosi, Oxia, Polikeraso, Sidirochori, Tichio, Avgi, Koromilia, Lefki, Omorfoklissia, Pentavriso, Tsakoni, Chiliodenro, Agia Kiriaki, Kalochori, Inoi, Pteria, Agios Antonios, Gavros, Kranionas, Mavrokampos, Chalara, Dispilio, Mavrochori and the community departments of Dendrochori and Ieropigi (Kastoria Municipality);
+
+— the community departments of Polianemo, Dipotamia, Komninades, Chionado, Kotili, Kipseli, Nestorio, Ptelea, Eptachori, Chrisi and Gramos (Nestorio Municipality);
+
+— the municipal departments of Argos Orestiko and the community departments of Ampelokipoi, Vogatsiko, Germa, Kostarazi, Militsa, Vrachos, Kastanofito, Lagka, Lakkomata, Melanthio and Spilea (Orestidos Municipality);
+
+— in the regional unit of Ioannina:
+
+— the community departments of Agios Minas, Aristi, Elafotopos, Mesovouni, Monodendri, Vradeto, Vrisochori, Kapesovo, Koukouli, Tsepelovo and Papigko (Zagori Municipality);
+
+— the community departments of Ligopsas, Soulopoulo, Dafnofito, Karitsa, Vrosina, Zaloggo, Vatatades, Vlachatano, Vasilopoulo, Raiko, Zitsa, Lithino, Aetopetra Dodonis, Voutsaras, Vrisoula, Gkrimpovo, Granitsopoula, Despotiko, Ekklisochori, Kalochori, Rizo and Fotino (Zitsa Municipality);
+
+— the municipal departments of Konitsa and the community departments of Agia Varvara, Agia Paraskevi, Aetopetra Konitsas, Aidonochori, Amarantos, Ganadio, Elefthero, Exochi, Iliorachi, Kavasila, Kallithea, Klidonia, Mazi, Melissopetra, Molista, Molivdoskepastos, Monastiri, Nikanoras, Pades, Paleoselli, Pigi, Pournia, Pirgos, Asimochori, Vourmpiani, Gorgopotamos, Drosopigi, Kastanea, Kefalochori, Lagkada, Oxia, Plagia, Plikati, Pirsogianni, Chionades and the community departments of Aetomilitsa and Fourka (Konitsa Municipality);
+
+— the community departments of Areti, Vrontismeni, Ieromnimi, Katarraktis, Kouklii, Mazaraki, Mavronoros, Parakalamos, Repetista, Riachovo, Sitaria, Agios Kosmas, Vasiliko, Kakolakkos, Kato Meropi, Kefalovriso, Meropi, Paleopirgos, Roupsia, Oreokastro, Agia Marina, Argirochori, Vissani, Delvinaki, Kastaniani, Kerasovo, Krioneri, Ktismata, Limni, Μavropoulo, Orinos Xirovaltos, Peristeri, Pontikates, Stratinista, Teriachi, Faraggi, Charavgi, Ano Ravenia, Geroplatanos, Doliana, Kalpaki, Kato Ravenia, Mavrovouni, Negrades, Chrisorrachi, Dimokori, Lavdani, Dolo, Drimades, Pogoniani and Stavroskiadi (Pogoni Municipality);
+
+— in the regional unit of Thesprotia:
+
+— the municipal departments of Igoumenitsa and the community departments of Agia Marina, Dramesa, Koritiani, Agios Vlasios, Grekochori, Kastri, Kriovrisi, Ladochori, Mavroudi, Nea Selefkia, Geroplatanos, Drimitsa, Parapotamos and Plataria (Igoumenitsa Municipality);
+
+— the community departments of Pente Ekklisies, Plakoti and Polidroso (Souli Municipality);
+
+— the municipal department of Filiates and the community departments of Asprokklisi, Kestrini, Ragio, Sagiada, Smertos, Agios Nikolaos, Agii Pantes, Aetos, Ampelonas, Anavrito, Achladia, Vavouri, Vrisella, Gardiki, Giromeri, Gola, Kallithea Filiaton, Kato Xechoro, Keramitsa, Kerasochori, Kefalochori, Kokkinia, Kokkinolithari, Kouremadi, Krioneri, Kiparisso, Leptokaria, Lia, Lista, Malouni, Milea, Xechoro, Paleokklisi, Paleochori, Palampas, Pigadoulia, Plaisio, Platanos, Raveni, Rizo, Sideri, Trikorifo, Tsamantas, Faneromeni, Finiki and Charavgi (Filiates Municipality).
+
+**10\. Croatia**
+
+The following restricted zones I in Croatia:
+
+Brodsko-posavska županija:
+
+— Općina Donji Andrijevci;
+
+— Općina Oprisavci;
+
+— Općina Sikirevci;
+
+— Općina Slavonski Šamac;
+
+— Općina Velika Kopanica;
+
+— Općina Vrpolje;
+
+Osječko-baranjska županija:
+
+— Općina Levanjska Varoš, naselja Borojevci, Breznica Đakovačka, Čenkovo, Levanjska Varoš, Milinac, Musić, Ovčara, Paučje, Ratkov Dol i Slobodna Vlast;
+
+— Grad Našice, naselja Ceremošnjak, Crna Klada, Gradac Našički, Granice, Londžica, Polubaše i Rozmajerovac;
+
+— Općina Trnava, naselja Dragotin, Hrkanci Đakovački, Lapovci, Svetoblažje, i Trnava;
+
+Virovitičko-podravska županija:
+
+— Općina Sopje, naselje, Kapinci, Novaki, Španat, Vaška i Višnjica;
+
+— Općina Čačinci, naselje Slatinski Drenovac;
+
+— Grad Slatina naselja Bistrica, Donji Meljani, Golenić, Gornji Miholjac, Ivanbrijeg, Lukavac, Radosavci, Sladojevački Lug i Sladojevci;
+
+— Općina Voćin, naselja Bokane, Dobrić, Donje Kusonje, Đuričić, Gornje Kusonje, Gornji Meljani, Hum, Hum Varoš, Kometnik-Jorgići, Kometnik-Zubići, Lisičine, Macute, Mačkovac, Novo Kusonje, Popovac Sekulinci, Smude i Voćin;
+
+— Općina Gradina, naselje Budakovac, Detkovac i Vladimirovac;
+
+— Općina Suhopolje, naselja Budanica, Cabuna, Gaćište, Jugovo Polje, Levinovac, Naudovac, Orešac, Trnava Cabunska, Zvonimirovo, Žiroslavlje i Žubrica;
+
+Požeško-slavonska županija
+
+— Općina Čaglin, naselja Čaglin, Darkovac, Dobra Voda, Duboka, Jasik, Jezero, Jurkovac, Kneževac, Latinovac, Migalovci, Milanlug, Mokreš, Nova Lipovica, Nova Ljeskovica, Novi Zdenkovac, Sapna, Sibokovac, Stara Ljeskovica, Stari Zdenkovac, Stojčinovac, Vlatkovac i Vukojevica;
+
+— Općina Kaptol;
+
+— Grad Kutjevo, naselja Bektež, Bjeliševac, Ferovac, Gradište, Hrnjevac, Kula, Kutjevo, Lukač, Mitrovac, Ovčare, Poreč, Tominovac, Venje i Vetovo;
+
+— Općina Velika, naselja Antunovac, Biškupci, Draga, Doljanci, Gornji Vrhovci, Kantrovci, Poljanska, Trenkovo, Trnovac, Potočani, Radovanci, Stražeman i Velika;
+
+— Općina Brestovac, naselja Kamenski Vučjak, Novo Zvečevo i Šušnjari;
+
+— Grad Požega naselje Novi Mihaljevci.
+
+**11\. Spain**
+
+The following restricted zones I in Spain:
+
+The municipalities of:
+
+— Alella;
+
+— Ametlla del Vallès;
+
+— Avinyonet del Penedès;
+
+— Badalona;
+
+— Bruc;
+
+— Bigues i Riells del Fai;
+
+— Cabrera d’Anoia;
+
+— Cabrils;
+
+— Caldes de Montbui;
+
+— Canovelles;
+
+— Canyelles;
+
+— Castellar del Vallès;
+
+— Castellbell i el Vilar;
+
+— Castellet i la Gornal;
+
+— Collbató;
+
+— Cubelles;
+
+— Puigdàlber (only the enclave ‘El Gorner’ placed in ZR I, the rest of the municipality of Puigdàber is placed in free zone);
+
+— Gallifa;
+
+— Granollers;
+
+— Hostalets de Pierola;
+
+— Granada (only the enclave ‘La Llinda’ placed in ZR I, the rest of the municipality of La Granada is placed in free zone);
+
+— Llagosta;
+
+— Lliçà d'Amunt;
+
+— Lliçà de Vall;
+
+— Marganell;
+
+— Martorelles;
+
+— Masnou;
+
+— Matadepera;
+
+— Mollet del Vallès;
+
+— Monistrol de Montserrat;
+
+— Montcada i Reixac (only the enclave ‘Estany de Gallecs’ placed in ZR I, the rest of the municipality of Montcada i Reixac is placed in ZR II);
+
+— Montgat;
+
+— Montmeló;
+
+— Montornès del Vallès;
+
+— Mura;
+
+— Olèrdola;
+
+— Olesa de Bonesvalls;
+
+— Olivella;
+
+— Òrrius;
+
+— Palau-solità i Plegamans;
+
+— Parets del Vallès;
+
+— Piera;
+
+— Pla del Penedès;
+
+— Premià de Dalt;
+
+— Premià de Mar;
+
+— Rellinars;
+
+— Roca del Vallès;
+
+— Sant Adrià de Besòs;
+
+— Sant Cugat Sesgarrigues;
+
+— Sant Feliu de Codines;
+
+— Sant Fost de Campsentelles;
+
+— Sant Llorenç Savall;
+
+— Sant Pere de Ribes;
+
+— Sant Sadurní d’Anoia;
+
+— Sant Vicenç de Castellet;
+
+— Santa Eulàlia de Ronçana;
+
+— Santa Margarida i els Monjos;
+
+— Santa Maria de Martorelles;
+
+— Sentmenat;
+
+— Sitges;
+
+— Subirats;
+
+— Teià;
+
+— Tiana;
+
+— Torrelavit;
+
+— Vacarisses;
+
+— Vallbona d’Anoia;
+
+— Vallromanes;
+
+— Vilanova del Vallès;
+
+— Vilanova i La Geltrú;
+
+— Vilassar de Dalt;
+
+**12\. Lithuania**
+
+The following restricted zones I in Lithuania:
+
+— Jurbarko rajono savivaldybės: Skirsnemunės, Jurbarko miesto, Šimkaičių, Jurbarkų, Raudonės, Smalininkų, Girdžių, Viešvilės seniūnijos;
+
+— Šakių rajono savivaldybė;
+
+Vilkaviškio rajono savivaldybės: Klausučių, Kybartų, Pajevonio, Šeimenos, Vilkaviškio miesto, Virbalio, Vištyčio seniūnijos.
+
+**PART II**
+
+**1\. Bulgaria**
+
+The following restricted zones II in Bulgaria:
+
+— the whole region of Haskovo,
+
+— the whole region of Yambol,
+
+— the whole region of Stara Zagora,
+
+— the whole region of Pernik,
+
+— the whole region of Kyustendil,
+
+— the whole region of Plovdiv,
+
+— the whole region of Pazardzhik,
+
+— the whole region of Smolyan,
+
+— the whole region of Dobrich,
+
+— the whole region of Sofia city,
+
+— the whole region of Sofia Province,
+
+— the whole region of Blagoevgrad,
+
+— the whole region of Razgrad,
+
+— the whole region of Kardzhali,
+
+— the whole region of Burgas,
+
+— the whole region of Varna, excluding the areas in Part III,
+
+— the whole region of Silistra,
+
+— the whole region of Ruse,
+
+— the whole region of Veliko Tarnovo,
+
+— the whole region of Pleven,
+
+— the whole region of Targovishte,
+
+— the whole region of Shumen,
+
+— the whole region of Sliven,
+
+— the whole region of Vidin,
+
+— the whole region of Gabrovo,
+
+— the whole region of Lovech,
+
+— the whole region of Montana,
+
+— the whole region of Vratza.
+
+**2\. Germany**
+
+The following restricted zones II in Germany:
+
+Bundesland Brandenburg:
+
+— Landkreis Spree-Neiße:
+
+— Gemeinde Schenkendöbern mit einem Teil der Gemarkung Groß Gastrose,
+
+— Gemeinde Guben mit Teilen der Gemarkungen Schlagsdorf und Guben,
+
+— Gemeinde Jänschwalde mit Teilen der Gemarkung Grießen,
+
+— Stadt Forst mit Teilen der Gemarkungen Horno, Briesnig, Bohrau, Naundorf, Forst (Lausitz), Groß Bademeusel und Klein Bademeusel,
+
+— Gemeinde Neiße-Malxetal mit einem Teil der Gemarkung Jerischke,
+
+— Landkreis Uckermark:
+
+— Gemeinde Angermünde mit den Gemarkungen Crussow, Stolpe, Gellmersdorf, Neukünkendorf, Bölkendorf, Herzsprung, Schmargendorf und den Gemarkungen Angermünde südlich und südöstlich der B2 und Dobberzin südlich der B2,
+
+— Stadt Schwedt/Oder mit den Gemarkungen Criewen, Zützen, Schwedt, Stendell, Kummerow, Kunow, Vierraden, Blumenhagen, Oderbruchwiesen, Enkelsee, Gatow, Hohenfelde, Schöneberg, Flemsdorf und der Gemarkung Felchow östlich der B2, Berkholz-Meyenburg, Landin südlich der B2 und Jamikow,
+
+— Gemeinde Pinnow südlich und östlich der B2,
+
+— Gemeinde Casekow mit der Gemarkung Woltersdorf und den Gemarkungen Biesendahlshof und Casekow östlich der L272 und südlich der L27,
+
+— Gemeinde Hohenselchow-Groß Pinnow mit der Gemarkung Groß Pinnow und der Gemarkung Hohenselchow südlich der L27,
+
+— Gemeinde Gartz (Oder) mit der Gemarkung Friedrichsthal, der Gemarkung Geesow östlich der B2 und den Gemarkungen Gartz und Hohenreinkendorf südlich der L27 und der B2 bis Kastanienallee, dort links abbiegend dem Schülerweg folgend bis Höhe Bahnhof, von hier in östlicher Richtung den Salveybach kreuzend bis zum Tantower Weg, diesen in nördlicher Richtung bis zu Stettiner Straße, diese weiter folgend bis zur B2, dieser in nördlicher Richtung folgend,
+
+— Gemeinde Mescherin mit der Gemarkung Mescherin, der Gemarkung Neurochlitz östlich der B2 und der Gemarkung Rosow nördlich der K 7311,
+
+— Landkreis Märkisch Oderland:
+
+— Gemeinde Bleyen-Genschmar mit Teilen der Gemarkungen Bleyen und Genschmar,
+
+— Gemeinde Letschin mit Teilen der Gemarkungen Zelliner Loose, Mehrin Graben, Ortwig Graben, Sophienthal, Kienitz und Groß Neuendorf,
+
+Bundesland Hessen:
+
+— Landkreis Waldeck-Frankenberg:
+
+— in der Gemeinde Allendorf (Eder) die Gemarkungen
+
+— Battenfeld nördlich der L3382,
+
+— Allendorf (Eder) westlich der B236, ab ca. 170m nördlich des Kreisels westlich des parallel zur B236 verlaufenden Radwegs,
+
+— Bromskirchen westlich des parallel zur B236 verlaufenden Radwegs und westlich der B236 bis zur Landesgrenze NRW,
+
+— in der Gemeinde Battenberg (Eder) die Gemarkungen
+
+— Dodenau westlich der K114 bis nördlich des Abzweigs K130, ab dort nördlich eines Bogens verlaufend bis zum Riedgraben, nördlich des Riedgrabens bis zur L3382 und nördlich der L3382,
+
+— Battenberg nördlich der L3382,
+
+— in der Gemeinde Hatzfeld (Eder) die Gemarkungen
+
+— Hatzfeld ab der Landesgrenze zu NRW bei Beddelhausen nördlich der L553 bis Abzweig K115 und westlich der K115,
+
+— Biebighausen nord-westlich der K115,
+
+— Reddighausen westlich der K114 und nördlich der Gemarkung Biebighausen,
+
+— Lahn-Dill-Kreis:
+
+— in der Gemeinde Dietzhölztal die Gemarkungen:
+
+— Mandeln,
+
+— Rittershausen,
+
+— Straßebersbach nördlich der L3044,
+
+— Bergebersbach nordwestlich der L3044,
+
+— in der Gemeinde Gemeinde Haiger die Gemarkungen:
+
+— Offdilln,
+
+— Dillbrecht,
+
+— Fellerdilln,
+
+— Steinbach,
+
+— Weidelbach nordwestlich der L3044,
+
+— Oberroßbach nordwestlich der L3044,
+
+— Niederroßbach nordwestlich der L3044,
+
+— Haigerseelbach nördlich der Bebauungsgrenze Industriegebiet Kalteiche und östlich der A45,
+
+— Allendorf nördlich der A45,
+
+— Landkreis Groß-Gerau,
+
+— Landkreis Bergstraße:
+
+— Stadt Heppenheim (Bergstraße),
+
+— Stadt Lampertheim,
+
+— Gemeinde Lautertal (Odenwald),
+
+— Stadt Viernheim,
+
+— Stadt Lindenfels,
+
+— Gemeinde Mörlenbach,
+
+— Gemeinde Fürth, ausgenommen der Teile der Gemarkungen Fürth Centwald und Weschnitz, die Teil der Sperrzone I sind,
+
+— Gemeinde Rimbach,
+
+— Gemeinde Grasellenbach, ausgenommen der Teile der Gemarkungen Gras-Ellenbach, Hammelbach und Wahlen, die Teil der Sperrzone I sind,
+
+— Gemeinde Birkenau,
+
+— Gemeinde Gorxheimertal,
+
+— Gemeinde Abtsteinach,
+
+— Gemeinde Wald-Michelbach, ausgenommen der Teile der Gemarkung Affolterbach, Aschbach, Ober-Schönmattenwag, Unter-Schönmattenwag und Wald-Michelbach, die Teil der Sperrzone I sind,
+
+— Gemeinde Groß-Rohrheim,
+
+— Stadt Zwingenberg,
+
+— Stadt Bensheim,
+
+— Gemeinde Einhausen,
+
+— Gemeinde Biblis,
+
+— Stadt Lorsch,
+
+— Stadt Bürstadt,
+
+— Landkreis Main-Taunus-Kreis:
+
+— Gemeinde Hochheim am Main mit der Gemarkung Hochheim sowie mit der Gemarkung Massenhaim südlich der A3,
+
+— Stadt Flörsheim mit der Gemarkung Wicker, mit der Gemarkung Flörsheim sowie mit der Gemarkung Weilbach südlich der A3,
+
+— Stadt Hattersheim mit der Gemarkung Eddersheim südlich der A3,
+
+— Stadt Hofheim am Taunus mit der Gemarkung Wallau südlich der A66,
+
+— Landkreis Offenbach:
+
+— Stadt Neu-Isenburg mit der Gemarkung Zeppelinheim sowie der Gemarkung Neu-Isenburg südwestlich des Feldweges, der westlich vom Gehspitzweiher bei Neu-Isenburg verläuft,
+
+— Stadt Langen,
+
+— Gemeinde Egelsbach,
+
+— Stadt Dreieich mit der Gemarkung Buchschlag mit den Fluren 5, 6, 7, 8, 9, 10 sowie 3 südlich der Eisenbahnstraße und den Fluren 1 und 2 westlich der Bahnstrecke, Sprendlingen südlich der L3262, mit der Gemarkung Dreieichenhain südwestlich der Hainer Chausee sowie westlich der A661und südwestlich der Straße An der Trift sowie westlich der K172,
+
+— Stadt Rödermark mit der Gemarkung Urberach südlich der Bahnstrecke und der Gemarkung Ober-Roden südwestlich einer Linie von der Bahnstrecke, nach Süden abbiegend auf den Rödermarkring, von dort weiter entlang der Bahnstecke bis zur Gemarkungsgrenze,
+
+— Stadt Darmstadt,
+
+— Landkreis Darmstadt-Dieburg:
+
+— Gemeinde Messel,
+
+— Stadt Dieburg,
+
+— Gemeinde Roßdorf,
+
+— Gemeinde Groß-Zimmern,
+
+— Stadt Reinheim,
+
+— Stadt Groß-Bieberau,
+
+— Gemeinde Fischbachtal,
+
+— Gemeinde Modautal,
+
+— Groß-Umstadt mit der Gemarkung Semd, mit der Gemarkung Richen westlich des Richer Baches sowie mit der Gemarkung Groß-Umstadt westlich der Ohlebach, des Bruchweges, der Oberen Marktstraße, der Obergasse, dem Riegelgartenweg des Herrnwiesenweges und ab der Straße Im Kühlen Grund westlich der Bahnstrecke sowie westlich des Ohlebachs,
+
+— Gemeinde Eppertshausen mit der Gemarkung Eppertshausen mit den westlichen Teilen der Flure 3, 5, 6 und 8 sowie den Fluren 1, 2, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 sowie 23,
+
+— Gemeinde Münster (Hessen) mit der Gemarkung Münster, mit der Gemarkung Altheim mit dem westlichen Teil des Flures 3 und mit dem Flur 4 südlich der Richer Straße sowie den Fluren 1, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 sowie 16,
+
+— Stadt Babenhausen mit der Gemarkung Hergershausen mit den südwestlichen Teilen der Flure 7, 8 sowie 9,
+
+— Gemeinde Otzberg mit der Gemarkung Habitzheim, mit der Gemarkung Nieder-Klingen, mit der Gemarkung Lengfeld mit den Fluren 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 sowie dem Flur 3 östlich des Feldweges und dem Flur 16 bis zur östlichen Waldgrenze, mit der Gemarkung Ober-Klingen ausgenommen des östlichen Anteils des Flures 17 sowie mit der Gemarkung Hering ausgenommen deren östlicher Anteil,
+
+— Stadt Ober-Ramstadt,
+
+— Gemeinde Mühltal,
+
+— Gemeinde Seeheim-Jugenheim,
+
+— Gemeinde Erzhausen,
+
+— Stadt Weiterstadt,
+
+— Stadt Griesheim,
+
+— Gemeinde Alsbach-Hähnlein,
+
+— Gemeinde Bickenbach,
+
+— Stadt Pfungstadt,
+
+— Stadt Frankfurt am Main:
+
+— Flughafen nördlich der A3 und westlich der A5,
+
+— Stadt Wiesbaden:
+
+— Ortsbezirk Wiesbaden-Biebrich südlich der A3 und östlich der Bebauungsgrenze von Wiesbaden, in diesem Bereich auch nördlich der A3,
+
+— Ortsbezirk Mainz-Amöneburg
+
+— Ortsbezirk Mainz-Kastel,
+
+— Ortsbezirk Wiesbaden-Erbenheim südwestlich der Berliner Straße, der Boelckestraße und südlich der A66,
+
+— Ortsbezirk Wiesbaden-Delkenheim,
+
+— Ortsbezirk Wiesbaden-Nordenstadt südlich der A66,
+
+— Ortsbezirk Mainz-Kostheim,
+
+— Ortsbezirk Wiesbaden-Schierstein mit der Rettbergsaue,
+
+— Landkreis Odenwaldkreis:
+
+— Gemeinde Brensbach, ausgenommen der Gemarkungen Affhöllerbach und Wallbach und ausgenommen Teile der Gemarkungen Brensbach, Höllerbach und Nieder-Kainsbach, die Teil der Sperrzone I sind,
+
+— Gemeinde Fränkisch-Crumbach,
+
+— Gemeinde Reichelsheim (Odenwald) mit der Gemarkung Laudenau, mit der Gemarkung Eberbach, mit der Gemarkung Reichelsheim, mit der Gemarkung Pfaffen-Beerfurth, mit der Gemarkung Ober-Klein-Gumpen und der Gemarkung Klein-Gumpen sowie den Teilen der Gemarkungen Ober-Kainsbach, Gersprenz, Kirch-Beerfurth Bockenrod, Unter-Ostern, Rohrbach, Ober-Ostern sowie Groß-Gumpen, die nicht Teil der Sperrzone I sind,
+
+Bundesland Rheinland-Pfalz:
+
+— Stadt Mainz
+
+— Stadtteil Altstadt,
+
+— Stadtteil Neustadt,
+
+— Stadtteil Oberstadt,
+
+— Stadtteil Hartenberg/Münchfeld,
+
+— Stadttteil Bretzenheim,
+
+— Stadtteil Ebersheim,
+
+— Stadtteil Hechtsheim,
+
+— Stadtteil Laubenheim,
+
+— Stadtteil Lerchenberg,
+
+— Stadtteil Marienborn,
+
+— Stadtteil Weisenau,
+
+— Landkreis Mainz-Bingen:
+
+— Gemeinde Dolgesheim,
+
+— Gemeinde Dorn-Dürkheim,
+
+— Gemeinde Hahnheim,
+
+— Gemeinde Hillesheim,
+
+— Gemeinde Klein-Winternheim,
+
+— Gemeinde Nieder-Olm (östlich der A63),
+
+— Gemeinde Ober-Olm (östlich der A63),
+
+— Gemeinde Sörgenloch,
+
+— Gemeinde Undenheim,
+
+— Gemeinde Weinolsheim,
+
+— Gemeinde Zornheim,
+
+— Gemeinde Bodenheim,
+
+— Gemeinde Dalheim,
+
+— Gemeinde Dexheim,
+
+— Gemeinde Dienheim,
+
+— Gemeinde Eimsheim,
+
+— Gemeinde Friesenheim,
+
+— Gemeinde Gau-Bischofsheim,
+
+— Gemeinde Guntersblum,
+
+— Gemeinde Harxheim,
+
+— Gemeinde Köngernheim,
+
+— Gemeinde Lörzweiler,
+
+— Gemeinde Ludwigshöhe,
+
+— Gemeinde Mommenheim,
+
+— Gemeinde Nackenheim,
+
+— Stadt Nierstein,
+
+— Stadt Oppenheim,
+
+— Gemeinde Selzen,
+
+— Gemeinde Uelversheim,
+
+— Gemeinde Wintersheim,
+
+— Landkreis Alzey-Worms:
+
+— Gemeinde Bechtolsheim,
+
+— Gemeinde Dittelsheim-Heßloch,
+
+— Gemeinde Framersheim,
+
+— Gemeinde Frettenheim,
+
+— Gemeinde Gau-Odernheim,
+
+— Gemeinde Monzernheim,
+
+— Gemeinde Westhofen,
+
+— Gemeinde Alsheim,
+
+— Gemeinde Bechtheim,
+
+— Gemeinde Mettenheim,
+
+— Gemeinde Osthofen,
+
+— Stadt Worms,
+
+— Gemeinde Eich,
+
+— Gemeinde Gimbsheim,
+
+— Gemeinde Hamm am Rhein,
+
+— Landkreis Rhein-Pfalz-Kreis:
+
+— Stadt Ludwighafen a. Rh. (BASF Werksgelände, bebaute Ortslage Oppau, Stadtteil Edigheim),
+
+— Gemeinde Beindersheim,
+
+— Gemeinde Bobenheim-Roxheim,
+
+— Stadt Frankenthal (Pfalz) (bebaute Flächen und östlich davon gelegene Freiflächen),
+
+— Gemeinde Großniedesheim,
+
+— Gemeinde Kleinniedesheim,
+
+Bundesland Baden-Württemberg:
+
+— Stadt Mannheim,
+
+— Landkreis Rhein-Neckar-Kreis:
+
+— Gemeinde Laudenbach,
+
+— Stadt Hemsbach,
+
+— Stadt Weinheim,
+
+— Gemeinde Heddesheim,
+
+— Gemeinde Hirschberg,
+
+— Gemeinde Ilvesheim,
+
+— Stadt Ladenburg,
+
+— Stadt Schriesheim,
+
+— Gemeinde Wilhelmsfeld,
+
+— Gemeinde Heiligkreuzsteinach,
+
+— Gemeinde Dossenheim,
+
+— Gemeinde Edingen-Neckarhausen,
+
+Bundesland Nordrhein-Westfalen:
+
+— Kreis Olpe:
+
+— Hansestadt Attendorn mit dem Jagdrevier A08,
+
+— Gemeinde Finnentrop mit den Jagdrevieren F.07, F.06b, F.04, F.37, F.05,
+
+— Gemeinde Kirchhundem,
+
+— Stadt Lennestadt ohne Jagrevier F.27.a,
+
+— Stadt Olpe mit den Jagdrevieren OE.10, OE.2, OE.01b, OE.01a, OE.12, OE.03.a, OE.13, K41, OE.03b, OE.04.2, OE.04.3, OE.06a, OE.06a, OE.07.2, OE.08a, OE.09b, OE.19, OE.05, OE.15, OE.04.1.a, OE.04.1, OE.20, OE.08b, OE.06b,
+
+— Gemeinde Wenden mit den Jagdrevieren W.02, W.03, W.11, W.16, W.13, W.12, W.04, W.01, W.15, W.07.c, W.18, W.07, W.07b, W.10a, W.10.b,
+
+— Hochsauerlandkreis:
+
+— Gemeinde Eslohe (Sauerland) mit den Jagdrevieren M3-42, M3-37, M3-08, M3-27, M3-43, M3-10, M3-24, M3-11, M3-41, M3-26, M3-25, M3-13, M5-20,
+
+— Stadt Hallenberg mit den Jagdrevieren B4-33, B4-34, B4-32, B4-35, B4-30, B4-08,
+
+— Stadt Schmallenberg mit den Jagdrevieren M6-39, M6-33, M5-16, M3-25, M5-20, M5-23, M3-13, M5-35, M5-14, M5-15, M5-25, M5-31, M5-30, M5-12, M5-05, M5-04, M5-02, M5-22, M5-18, m5-17, M5-21, M6-42, M6-32, M5-19, M5-24, M5-36, M5-41, M5-06, M0-02, M6-46, M6-52, M6-37, M6-36, M6-40, M6-34, M5-42, M6-17, M0-01, M6-46, M6-53, M6-38, M6-30, M6-49, M6-20, M6-45, M6-44, M6-31, M6-35, M6-43, M6-24, M6-23, M6-29, M6-26, M6-22, M6-16, M6-28, M6-19, M6-21, M0-04, M0-06, M6-03, M6-02, M6-04, M6-05, M6-01, M6-07, M6-48, M6-08, M6-09, M6-10, M6-27, M6-15, M6-25, M6-14, M0-05, M0-07, M6-06, M0-03, M6-50, M6-13, M6-12, M6-11, M6-41, M6-18,
+
+— Stadt Winterberg mit den Jagdrevieren B4-31, M6-41, M6-18, B4-01, B4-28, B4-26, B4-51, B4-21, B4-43, B4-23,
+
+— Kreis Siegen-Wittgenstein:
+
+— Stadt Bad Berleburg mit den Jagdrevieren 10_33, 10_63, 10_106, 10_197, 10_27, 10_272, 10_79, 10_60, 10_6, 10_76, 10_77, 10_75, 10_25, 10_24, 10_200, 10_201, 10_209, 10_257, 10_23, 10_203, 10_189, 10_31, 10_20, 10_16, 10_15, 10_14, 10-267, 10_268, 10_104, 10_105, 10_29, 10_19, 10_17, 10_211, 10_258, 10_127, 10_134, 10_30, 10_141, 10_259, 10_18, 10_40, 10_53, 10_32, 10_196, 10_147, 10_117, 10_66, 10_65, 10_269, 10_212, 10_13, 10_213, 10_12,
+
+— Stadt Bad Laasphe mit den Jagdrevieren 10_252, 10_254, 10_253, 10_94, 10_146, 10_206, 10_88, 10_199, 10_34, 10_113, 10_182, 10_87,
+
+— Gemeinde Erndtebrück,
+
+— Stadt Freudenberg mit den Jagdrevieren 10_41, 10_177, 10_239, 10_5,
+
+— Stadt Hilchenbach,
+
+— Stadt Kreuztal,
+
+— Stadt Netphen,
+
+— Stadt Siegen mit den Jagdrevieren 10_239, 10_143, 10_155, 10_220, 10_270, 10_100, 10_56, 10_174, 10_188, 10_255, 10_42, 10_242, 10_39, 10_89, 10_131, 10_79, 10_132, 10_145, 10_144, 10_74, 10_90, 10_238, 10_114, 10_115, 10_256, 10_142,
+
+— Gemeinde Wilnsdorf mit den Jagdrevieren 10_202, 10_187, 10_166, 10_79, 10_165, 10_92, 10_10, 10_11, 10_101, 10_102, 10_205, 10_263, 10_93, 10_133, 10_265, 10_175, 10_178, 10_266, 10_264,
+
+Bundesland Sachsen:
+
+— Landkreis Bautzen:
+
+— Gemeinde Hochkirch mit den Gemarkungen Breitendorf, Kohlwesa, Niethen, Rodewitz/Pommritz, Zschorna,
+
+— Gemeinde Stadt Weißenberg mit den Gemarkungen Cortnitz, Gröditz, Kotitz, Lauske/W, Maltitz, Nechern, Nostitz, Särka, Spittel, Trauschwitz, Weicha, Weißenberg, Wuischke/W,
+
+— Landkreis Görlitz:
+
+— Gemeinde Hänichen mit der Gemarkung Trebus Flure 7 bis 10,
+
+— Gemeinde Hohendubrau mit den Gemarkungen Gebelzig Flure 1 und 2, Groß-Radisch Flur 1, Weigersdorf Flure 1 bis 6, 8 bis 10 und 15 bis 17,
+
+— Gemeinde Horka mit den Gemarkungen Biehain Flure 1 bis 6, Horka Flure 2 bis 9, Mückenhain Flure 1 bis 3,
+
+— Gemeinde Kodersdorf,
+
+— Gemeinde Königshain,
+
+— Gemeinde Markersdorf,
+
+— Gemeinde Mücka mit den Gemarkungen Förstgen Flure 2 und 3, Mücka Flure 1 und 6,
+
+— Gemeinde Neißeaue,
+
+— Gemeinde Quitzdorf am See mit den Gemarkungen Kollm Flur 1, Petershain Flure 3, 4 und 8 bis 12, Sproitz Flure 1 bis 7,
+
+— Gemeinde Rosenbach nördlich des Verlaufes der K8681 in östliche Richtung, Verbindungsstaße Herwigsdorf – Buschschenkhäuser,
+
+— Gemeinde Schönau-Berzdorf a.d. Eigen,
+
+— Gemeinde Schöpstal,
+
+— Gemeinde Stadt Bernstadt a.d. Eigen,
+
+— Gemeinde Stadt Görlitz,
+
+— Gemeinde Stadt Löbau nördlich der BAB A4 in östliche Richtung bis Eiserode, in südliche Richtung Verbindungsstraße Eiserode - Großdehsa, dann S115 bis B178, B178 bis zum Löbauer Wasser, in nördliche Richtung Löbauer Wasser bis Niedere Dorfstraße Stadt Löbau, in östliche Richtung niedere Dorfstraße - Schulberg - Niederer Viebig bis zur K8681, K8681 in östliche Richtung,
+
+— Gemeinde Stadt Niesky mit der Gemarkung Niesky Flure 1 bis 6 und 11 bis 17,
+
+— Gemeinde Stadt Ostritz,
+
+— Gemeinde Stadt Reichenbach/O.L.,
+
+— Gemeinde Vierkirchen,
+
+— Gemeinde Waldhufen.
+
+**3\. Estonia**
+
+The following restricted zones II in Estonia:
+
+— Eesti Vabariik (välja arvatud Hiiu maakond).
+
+**4\. Latvia**
+
+The following restricted zones II in Latvia:
+
+— Aizkraukles novads,
+
+— Alūksnes novads,
+
+— Augšdaugavas novads,
+
+— Ādažu novads,
+
+— Balvu novads,
+
+— Bauskas novads,
+
+— Cēsu novads,
+
+— Dienvidkurzemes novada Aizputes, Cīravas, Lažas, Durbes, Dunalkas, Tadaiķu, Vecpils, Bārtas, Sakas, Bunkas, Priekules, Gramzdas, Kalētu, Virgas, Dunikas, Vaiņodes, Gaviezes, Grobiņas, Rucavas, Vērgales, Medzes, Embūtes, Kalvenes, Kazdangas pagasts, Nīcas pagasta daļa uz dienvidiem no apdzīvotas vietas Bernāti, autoceļa V1232, A11, V1222, Bārtas upes, Aizputes, Durbes, Pāvilostas, Priekules, Grobiņas pilsēta, Grobiņas pilsēta,
+
+— Dobeles novads,
+
+— Gulbenes novads,
+
+— Jelgavas novads,
+
+— Jēkabpils novads,
+
+— Krāslavas novads,
+
+— Kuldīgas novads,
+
+— Ķekavas novads,
+
+— Limbažu novads,
+
+— Līvānu novads,
+
+— Ludzas novads,
+
+— Madonas novads,
+
+— Mārupes novads,
+
+— Ogres novads,
+
+— Olaines novads,
+
+— Preiļu novads,
+
+— Rēzeknes novads,
+
+— Ropažu novads,
+
+— Salaspils novads,
+
+— Saldus novads,
+
+— Saulkrastu novads,
+
+— Siguldas novads,
+
+— Smiltenes novads,
+
+— Talsu novads,
+
+— Tukuma novads,
+
+— Valkas novads,
+
+— Valmieras novads,
+
+— Ventspils novads,
+
+— Daugavpils valstspilsētas pašvaldība,
+
+— Jelgavas valstspilsētas pašvaldība,
+
+— Jūrmalas valstspilsētas pašvaldība,
+
+— Rēzeknes valstspilsētas pašvaldība,
+
+— Rīgas valstspilsētas pašvaldība.
+
+**5\. Lithuania**
+
+The following restricted zones II in Lithuania:
+
+— Alytaus miesto savivaldybė,
+
+— Alytaus rajono savivaldybė,
+
+— Anykščių rajono savivaldybė,
+
+— Akmenės rajono savivaldybė,
+
+— Birštono savivaldybė,
+
+— Biržų miesto savivaldybė,
+
+— Biržų rajono savivaldybė,
+
+— Druskininkų savivaldybė,
+
+— Elektrėnų savivaldybė,
+
+— Ignalinos rajono savivaldybė,
+
+— Jonavos rajono savivaldybė,
+
+— Joniškio rajono savivaldybė,
+
+— Jurbarko rajono savivaldybės: Eržvilko, Juodaičių, Seredžiaus, Veliuonos seniūnijos,
+
+— Kaišiadorių rajono savivaldybė,
+
+— Kalvarijos savivaldybė,
+
+— Kauno miesto savivaldybė,
+
+— Kauno rajono savivaldybė,
+
+— Kazlų rūdos savivaldybė,
+
+— Kelmės rajono savivaldybės: Kelmės apylinkių, Kelmės, Kražių, Kukečių, Liolių, Pakražančio, Šaukėnų, Užvenčio, Vaiguvos seniūnijos,
+
+— Kėdainių rajono savivaldybė,
+
+— Klaipėdos rajono savivaldybė,
+
+— Kupiškio rajono savivaldybė,
+
+— Kretingos rajono savivaldybė,
+
+— Lazdijų rajono savivaldybė,
+
+— Mažeikių rajono savivaldybė,
+
+— Molėtų rajono savivaldybė,
+
+— Marijampolės savivaldybė,
+
+— Pagėgių savivaldybė,
+
+— Pakruojo rajono savivaldybė,
+
+— Panevėžio miesto savivaldybė,
+
+— Panevėžio rajono savivaldybė,
+
+— Palangos miesto savivaldybė,
+
+— Pasvalio rajono savivaldybė,
+
+— Radviliškio rajono savivaldybės: Aukštelkų, Baisogalos, Grinkiškio, Skėmių, Šeduvos miesto, Pakalniškių, Radviliškio miesto, Sidabravo seniūnijos,
+
+— Rietavo savivaldybė,
+
+— Prienų rajono savivaldybė,
+
+— Plungės rajono savivaldybė,
+
+— Raseinių rajono savivaldybės: Ariogalos miesto, Ariogalos, Betygalos, Girkalnio, Kalnujų, Nemakščių, Pagojukų, Paliepių, Raseinių miesto, Raseinių, Viduklės seniūnijos,
+
+— Rokiškio rajono savivaldybė,
+
+— Skuodo rajono savivaldybė,
+
+— Šalčininkų rajono savivaldybė,
+
+— Šiaulių miesto savivaldybė,
+
+— Šiaulių rajono savivaldybės: Bubių seniūnijos vakarinė dalis nuo Dubysos upės, Ginkūnų, Gruzdžių, Kairių, Kuršėnų kaimiškoji, Kuršėnų miesto, Kužių, Meškuičių, Raudėnų, Šakynos seniūnijos ir Šiaulių kaimiškosios seniūnijos šiaurinė dalis nuo 77 kelio,
+
+— Šilutės rajono savivaldybė,
+
+— Širvintų rajono savivaldybė,
+
+— Šilalės rajono savivaldybė,
+
+— Švenčionių rajono savivaldybė,
+
+— Tauragės rajono savivaldybė,
+
+— Telšių rajono savivaldybė,
+
+— Trakų rajono savivaldybė,
+
+— Ukmergės rajono savivaldybė,
+
+— Utenos rajono savivaldybė,
+
+— Varėnos rajono savivaldybė,
+
+— Vilkaviškio rajono savivaldybės: Bartninkų, Gižų, Gražiškių, Keturvalakių, Pilviškių seniūnijos,
+
+— Vilniaus miesto savivaldybė,
+
+— Vilniaus rajono savivaldybė,
+
+— Visagino savivaldybė,
+
+— Širvintų rajono savivaldybė,
+
+— Zarasų rajono savivaldybė.
+
+**6\. Hungary**
+
+The following restricted zones II in Hungary:
+
+— Baranya vármegye:
+
+— 501460, 501470, 501560, 501670, 502750, 502850, 503550, 503551, 503660, 503670, 503680, 503850, 503950, 504550, 504560, 504650, 504660, 504750, 504760, 504950 és 505050 kódszámú vadgazdálkodási egységek teljes területe:
+
+— az 502150 kódszámú vadgazdálkodási egység területének Zádor, Pettend, Szörény, Gyöngyösmellék és Kistamási közigazgatási területén kívüli része;
+
+— az 502250 kódszámú vadgazdálkodási egység területének Endrőc, Teklafalu, Bürüs, Kétújfalu, Várad, Gyöngyösmellék közigazgatási területén kívüli része;
+
+— az 502350 kódszámú vadgazdálkodási egység területének Dencsháza, Katádfa, Bánfa, Rózsafa, Szentdénes és Sumony közigazgatási területén kívüli része;
+
+— az 501580 kódszámú vadgazdálkodási egység területének Sumony, Szentdénes, Gyöngyfa, Királyegyháza, Magyarmecske és Magyartelek közigazgatási területén kívüli része;
+
+— az 502650 kódszámú vadgazdálkodási egység területének Kisasszonyfa, Magyartelek, Királyegyháza és Gerde közigazgatási területén kívüli része;
+
+— az 502660 kódszámú vadgazdálkodási egység területének Bogármindszent, Páprád, Gilvánfa, Magyarmecske, Gyöngyfa, Magyartelek, Kisasszonyfa és Ózdfalu közigazgatási területén kívüli része;
+
+— az 503490 kódszámú vadgazdálkodási egység területének Bogármindszent, Páprád és Vajszló közigazgatási területén kívüli része:
+
+— Borsod-Abaúj-Zemplén vármegye valamennyi vadgazdálkodási egységének teljes területe,
+
+— Budapest 1 kódszámú, vadgazdálkodási tevékenységre nem alkalmas területe,
+
+— Fejér vármegye 403150, 403160, 403250, 403260, 403350, 404250, 404550, 404560, 404570, 405450, 405550, 405650, 406450 és 407050 kódszámú vadgazdálkodási egységeinek teljes területe,
+
+— Hajdú-Bihar vármegye valamennyi vadgazdálkodási egységének teljes területe,
+
+— Heves vármegye valamennyi vadgazdálkodási egységének teljes területe,
+
+— Jász-Nagykun-Szolnok vármegye 750250, 750550, 750650, 750750, 752150, 752450, 752460, 752550 és 752560 kódszámú vadgazdálkodási egységeinek teljes területe,
+
+— Komárom-Esztergom vármegye 250350, 250850, 250950, 251450, 251550, 251950, 252050, 252150, 252350, 252450, 252460, 252550, 252650, 252750, 252850, 252860, 252950, 252960, 253050, 253150, 253250, 253350, 253450 és 253550 kódszámú vadgazdálkodási egységeinek teljes területe,
+
+— Nógrád vármegye valamennyi vadgazdálkodási egységeinek teljes területe,
+
+— Pest vármegye 570150, 570250, 570350, 570450, 570550, 570650, 570750, 570850, 570950, 571050, 571150, 571250, 571350, 571550, 571650, 571750, 571760, 571850, 571950, 572050, 572150, 572250, 572350, 572650, 572750, 572850, 573550, 573650, 574250, 580050 és 580150 kódszámú vadgazdálkodási egységeinek teljes területe,
+
+— Somogy vármegye:
+
+— 355852, és 356150 kódszámú vadgazdálkodási egységek teljes területe;
+
+— a 356250 kódszámú vadgazdálkodási egység területének Drávatamási közigazgatási területén kívüli része;
+
+— a 356260 kódszámú vadgazdálkodási egység területének azon kívüli része, amelynek északi, észak-nyugati határa a 6-os főút és a 60-as számú vasútvonal metszéspontjáig a 6-os főút, onnan pedig a 60-as számú vasútvonal:
+
+— Szabolcs-Szatmár-Bereg megye vadgazdálkodási egységeinek teljes területe, kivéve az alábbi területeket:
+
+— a 857050 kódszámú vadgazdálkodási egység teljes területe, valamint
+
+— a 856051 kódszámú vadgazdálkodási egység területének az a része, amely Nyírpilis, Bátorliget és Terem települések közigazgatási területéhez tartozik,
+
+— a 856150 kódszámú vadgazdálkodási egység területének az a része, amely Terem és Fábiánháza települések közigazgatási területéhez tartozik,
+
+— a 857150 kódszámú vadgazdálkodási egység területének az a része, amelynek nyugati határa a Szénási-folyás addig a pontig, ahol az a 49133-as számú mellékutat (Önböly településen a Szaniszlói utcát) metszi, onnan pedig a 49133-as számú mellékút az országhatárig,
+
+— a 856260 kódszámú vadgazdálkodási egység területének az a része, amely Fábiánháza település közigazgatási területéhez tartozik, és
+
+— a 856250 kódszámú vadgazdálkodási egység területének az a része, amely a Lápi-főcsatornától nyugatra, délnyugatra fekszik.
+
+**7\. Poland**
+
+The following restricted zones II in Poland:
+
+w województwie kujawsko - pomorskim:
+
+— gminy Jabłonowo Pomorskie, Bobrowo, Zbiczno, Brodnica z miastem Brodnica, część gminy Osiek położona na pólnoc od linii wyznaczonej przez drogę łącząca miejscowości Dzierzno – Kretki Małe – Osiek – Łapinóżek w powiecie brodnickim;
+
+— część gminy Wąpielsk położona na północ od drogi łączącej miejscowości Osiek – Łapinóżek – Radziki Małe – Radziki Duże – Szczawniki – Pólka Duże – Cieszyny w powiecie rypińskim;
+
+— część gminy wiejskiej Golub - Dobrzyń położona na północ od linii wyznaczonej przez drogę łącząca miejscowości Pólka Duże – Pusta Dąbrówka – Cieszyny- Wrocki – Łobdowo, część gminy Kowalewo Pomorskie położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Zieleń – Pluskowęsy – Napole do skrzyżowania z drogą nr 15 i dalej na północ od linii wyznaczonej przez drogę nr 15 biegnącą do wschodniej granicy gminy w powiecie golubsko – dobrzyńskim;
+
+— część powiatu chełmińskiego niewymieniona w części III załącznika I;
+
+— gminy Osie, Nowe, część gminy Warlubie niewymieniona w części III załącznika I, cześć gminy Dragacz nie wymieniona w części III załącznika I, część gminy Drzycim niewymieniona w części III załącznika I, część gminy Świecie niewymienina w części III załącznika I, część gminy Jeżewo w obrębie miejscowości Krąplewice położona na zachód od linii wyznaczonej przez drogę łączącą miejscowości Żur – Krąplewice – Lipno do skrzyżowania tej drogi z drogą łączącą miejscowości Gródek – Krąplewice -Laskowice i dalej na północ od tej drogi do zachodniej granicy miejscowości Krąplewice oraz w obrębie miejscowości Czersk Świecki na zachód od linii wyznaczonej przez linię kolejową łączącą miejscowości Nowy Jaszcz – Czersk Świecki – Jeżewo do przecięcia z drogą łączącą miejscowości Czersk Świecki – Pięćmorgi i dalej od tego skrzyżowania na północ i na zachód od linii wyznaczonej przez drogę łączącą miejscowości Piećmorgi - Czersk Świecki – Skrzynki oraz miejscowość Pięćmorgi, część gminy Lniano położona na północ od linii wyznaczonej przez drogę nr 240 biegnącą od granicy gminy do przecięcia z drogą łącząca miejscowości Tuszyny – Ostrowie – Jędrzejewo – Mszano i dalej od tego przecięcia na wschód od linii wyznaczonej przez tę drogę biegnącą do granicy gminy, część gminy Pruszcz położona na wschód od linii wyznaczonej przez linię kolejową, część gminy Bukowiec położona na południe od linii wyznaczonej przez drogę biegnącą od południowej granicy gminy, łączącej miejscowości Gołuszyce – Różanna – Gawroniec do skrzyżowania z drogą łącząca miejscowości Polskie Łąki – Poledno i dalej od tego skrzyżowania na północ droga łącząca miejscowości Poledno – Polskie Łąki – Korytowo – Tuszynki – Tuszyny w powiecie świeckim;
+
+— powiat miejski Grudziądz;
+
+— część powiatu grudziądzkiego niewymieniona w części III załącznika I;
+
+— gminy Dąbrowa Chełmińska, Solec Kujawski, część gminy Białe Błota położona na wschód od linii wyznaczonej przez linię kolejową łączącą miejscowości Bydgoszcz – Trzciniec – Brzoza, część gminy Nowa Wieś Wielka położona na wschód od linii wyznaczonej przez linię kolejową łączącą miejscowości Trzciniec – Brzoza – Nowa Wieś Wielka do przecięcia tej linii kolejowej z Aleja Pokoju w miejscowości Nowa Wieś Wielka i od tego przecięcia na północ od linii wyznaczonej przez drogę łączącą miejscowości Nowa Wieś Wielka - Chrośna, część gminy Dobrcz położona na wschód od linii wyznaczonej przez linię kolejową łączącą miejscowości Pruszcz – Bydgoszcz, część gminy Osielsko położona na wschód od linii wyznaczonej przez linię kolejową łączącą Pruszcz – Bydgoszcz w powiecie bydgoskim;
+
+— część powiatu miejskiego Bydgoszcz położona na wschód od linii wyznaczonej przez linię kolejową łączącą miejscowości Pruszcz – Bydgoszcz – Trzciniec;
+
+— gmina wiejska Chełmża, miasto Chełmża, część gminy Zławieś Wielka położona na zachód od linii wyznaczonej przez drogę łączącą miejscowości Głażewo – Siemoń – Łążyn i dalej na północ od drogi łączącej miejscowości Łążyn – Rzęczkowo i dalej na zachód od drogi łączącej miejscowości Rzęczkowo – Zławieś Wielka do przecięcia z drogą nr 80 i dalej na południe od drogi nr 80 do przecięcia się drogi nr 80 z wschodnią granicą miejscowości Zławieś Wielka i dalej na zachód od wschodniej granicy miejscowości Zławieś Wielka, część gminy Łubianka położona na północ od linii wyznaczonej przez drogę nr 551 łącząca miejscowości Nawra – Grzybno w powiecie toruńskim;
+
+— część powiatu wąbrzeskiego niewymieniona w części I i III załącznika I;
+
+w województwie warmińsko-mazurskim:
+
+— gminy Kalinowo, Stare Juchy, Prostki oraz gmina wiejska Ełk w powiecie ełckim;
+
+— powiat elbląski;
+
+— powiat miejski Elbląg;
+
+— powiat gołdapski;
+
+— część powiatu piskiego niewymieniona w części I załącznika I;
+
+— powiat bartoszycki;
+
+— powiat olecki;
+
+— powiat giżycki;
+
+— powiat braniewski;
+
+— powiat kętrzyński;
+
+— powiat lidzbarski;
+
+— część powiatu mrągowskiego niewymieniona w części I załącznika I;
+
+— powiat węgorzewski;
+
+— powiat olsztyński;
+
+— powiat miejski Olsztyn;
+
+— powiat ostródzki;
+
+— powiat iławski;
+
+— część powiatu nowomiejskiego niewymieniona w części I załącznika I;
+
+— część gminy wiejskiej Działdowo położona na północ od linii wyznaczonej przez drogę nr 538 w powiecie działdowskim;
+
+— część gminy Kozłowo położona na północ od linii wyznaczonej przez drogę nr 538, część gminy Nidzica położna na północ od linii wyznaczonej przez drogę nr 538 biegnącą od zachodniej granicy gminy do przecięcia z drogą nr 545 i dalej na północ od linii wyznaczonej przez drogę nr 545 biegnącą do wschodniej granicy gminy w powiecie nidzickim;
+
+w województwie podlaskim:
+
+— powiat bielski;
+
+— powiat grajewski;
+
+— powiat moniecki;
+
+— powiat sejneński;
+
+— powiat siemiatycki;
+
+— powiat hajnowski;
+
+— powiat białostocki;
+
+— powiat suwalski;
+
+— powiat miejski Suwałki;
+
+— powiat augustowski;
+
+— powiat sokólski;
+
+— powiat miejski Białystok;
+
+— gmina Rutki w powiecie zambrowskim;
+
+— gminy Stawiski, Mały Płock w powiecie kolneńskim;
+
+— gminy Jedwabne, Piątnica, Przytuły, Wizna w powiecie łomżyńskim;
+
+— gminy Ciechanowiec, Klukowo, Kobylin-Borzymy, Kulesze Kościelne, Sokoły, część gminy Szepietowo położona na południe od linii wyznaczonej przez drogę łaczącą miejscowości Stare Warele – Nowe Warele – Wyliny-Ruś – Nowe Rzepki w powiecie wysokomazowieckim;
+
+w województwie mazowieckim:
+
+— gminy Korczew, Mordy, Paprotnia, Przesmyki w powiecie siedleckim;
+
+— powiat łosicki;
+
+— powiat zwoleński;
+
+— powiat kozienicki;
+
+— powiat radomski;
+
+— powiat lipski;
+
+— powiat miejski Radom;
+
+— powiat szydłowiecki;
+
+— część powiatu garwolińskiego niewymieniona w części I załącznika I;
+
+— część powiatu otwockiego niewymieniona w części I załącznika I;
+
+— część powiatu piaseczyńskiego niewymieniona w części I załącznika I;
+
+— część powiatu grójeckiego niewymieniona w części I załącznika I;
+
+— powiat białobrzeski;
+
+— gminy Borkowice, Gielniów, Przysucha, Rusinów, Wieniawa, część gminy Odrzywół położona na południe od drogi nr 48 biegnącą od zachodniej do wschodniej granicy gminy, część gminy Klwów położona na południe od drogi nr 48 biegnącej od zachodniej do wschodniej granicy gminy, część gminy Potworów położona na południe od drogi nr 48 biegnącej od zachodniej granicy gminy do skrzyżowania tej drogi z drogą nr 740 a następnie na południe od tego skrzyżowania od linii wyznaczonej przez drogę 740 biegnącą do wschodniej granicy gminy w powiecie przysuskim;
+
+— część gminy Boguty - Pianki położona na południowy - wschód od linii wyznaczonej przez drogę nr 690 do przecięcia z drogą łącząca miejscowości Boguty-Pianki - Żebry-Laskowiec i dalej na wschód od linii wyznaczonej przez drogę łącząca miejscowości Boguty-Pianki - Żebry-Laskowiec, część gminy Nur położona na wschód od linii wyznaczonej przez drogę łącząca miejscowości Boguty-Pianki - Żebry-Laskowiec biegnącą od północnej granicy gminy do skrzyżowania z drogą nr 694, a następnie na południowy – wschód od linii wyznaczonej przez drogę nr 694 biegnącą od tego skrzyżowania do południowej granicy gminy w powiecie ostrowskim;
+
+w województwie lubelskim:
+
+— powiat bialski;
+
+— powiat miejski Biała Podlaska;
+
+— powiat janowski;
+
+— powiat puławski;
+
+— powiat rycki;
+
+— gminy Adamów, Krzywda, Serokomla, Wojcieszków w powiecie łukowskim;
+
+— powiat lubelski;
+
+— powiat miejski Lublin;
+
+— powiat lubartowski;
+
+— powiat łęczyński;
+
+— powiat świdnicki;
+
+— powiat biłgorajski;
+
+— powiat hrubieszowski;
+
+— powiat krasnostawski;
+
+— powiat chełmski;
+
+— powiat miejski Chełm;
+
+— powiat tomaszowski;
+
+— powiat kraśnicki;
+
+— powiat parczewski;
+
+— powiat opolski;
+
+— powiat włodawski;
+
+— powiat radzyński;
+
+— powiat miejski Zamość;
+
+— powiat zamojski;
+
+w województwie podkarpackim:
+
+— część powiatu stalowowolskiego niewymieniona w części I załącznika I;
+
+— powiat lubaczowski;
+
+— część powiatu przemyskiego niewymieniona w części I załącznika I;
+
+— powiat miejski Przemyśl;
+
+— gminy Chłopice, Laszki, Pruchnik, Rokietnica, Roźwienica, Wiązownica, Radymno z miastem Radymno w powiecie jarosławskim;
+
+— część powiatu leżajskiego niewymieniona w części I załącznika I;
+
+— część powiatu niżańskiego niewymieniona w części I załącznika I;
+
+— gminy Hyżne, Błażowa, Chmielnik, Krasne, Lubenia, Tyczyn, część gminy Głogów Małopolski położona na południe od linii wyznaczonej przez drogę A4, część gminy Świlcza położona na południe od linii wyznaczonej przez drogę A4 biegnącą od wschodniej granicy gminy do przecięcia się drogi A4 z drogą łączącą miejscowości Bartkowice – Trzciana i dalej od tego przecięcia na wschód od linii wyznaczonej przez drogę łączącą miejscowości Bartkowice – Trzciana – Błędowa Zgłobieńska -Zgłobień, część gminy Trzebowisko położona na południe od linii wyznaczonej przez drogę nr A4, miasto Dynów, gmina wiejska Dynów, część gminy Kamień położona na wschód od linii wyznaczonej przez drogę nr 878, część gminy Sokołów Małopolski położona na wschód od linii wyznaczonej przez drogę biegnącą od północnej granicy gminy i łącząca miejscowości Górno - Wólka Sokołowska-Wólka Niedźwiecka do skrzyżowania z drogą nr 875 i dalej na północ od linii wyznaczonej przez drogę nr 875 biegnącą od tego skrzyżowania do wschodniej granicy gminy, część gminy Boguchwała położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Błędowa Zgłobieńska – Zgłobień – Niechobrz – Mogielnica – Boguchwała do przecięcia z drogą S19 i dalej od tego przecięcia na wschód od linii wyznaczonej przez drogę S19 biegnącą do południowej granicy gminy w powiecie rzeszowskim;
+
+— powiat miejski Rzeszów;
+
+— gminy Adamówka, Gać, Jawornik Polski, Kańczuga, Zarzecze, część miasta Przeworsk położona na południe od linii wyznaczonej przez drogę A4, część gminy wiejskiej Przeworsk położona na południe i zachód od linii wyznaczonej przez drogę A4, część gminy Tryńcza położona na południowy-zachód od linii wyznaczonej przez drogę A4 w powiecie przeworskim;
+
+— gmina Markowa, część gminy Czarna położona na południe od linii wyznaczonej przez drogę A4, część miasta Łańcut położna na południe od linii wyznaczonej przez drogę A4, gmina wiejska Łańcut, część gminy Białobrzegi położona na południe od linii wyznaczonej przez drogę A4 w powiecie łańcuckim;
+
+— część gminy Domaradz położona na wchód od linii wyznaczonej przez drogę łącząca miejscowości Gwoźnica Górna – Jahońka – Ropa – Magierów, część gminy Nozdrzec położona na północ od linii wyznacznej przez rzekę Jaworka biegnącą od wschodniej granicy gminy do jej połącznia się z rzeką San, następnie na wschód od linii wyznaczonej przez rzekę San aż do ujścia rzeki Magierka do rzeki San, i dalej od tego ujścia na północ od linii wyznaczonej przez rzekę Magierka do jej przecięcia z droga nr 835 i dalej na północ od tego skrzyżowania od linii wyznaczonej prze drogę łącząca miejscowości Dżyłówka – Wara – Izdebki – Magierów do zachodniej granicy gminy w powiecie brzozowskim;
+
+w województwie pomorskim:
+
+— powiat sztumski;
+
+— powiat kwidzyński;
+
+— powiat malborski;
+
+— powiat nowodworski;
+
+— część powiatu miejskiego Gdańsk z wyłączeniem obszaru dzielnicy Nowy Port oraz Wyspy Portowej ograniczonej wodami Zatoki Gdańskiej, Martwej Wisły i Wisły Śmiałej oraz obszaru położonego na północ od linii wyznaczonej przez ulice: Przemysłową, biegnącą od Kanału Portowego do skrzyżowania z ul. Ignacego Krasickiego, a następnie na północ od linii wyznaczonej przez ulicę Ignacego Krasickiego biegnącej od tego skrzyżowania do skrzyżowania z ul. Zdrojową i dalej na wschód od linii wyznaczonej przez ul. Zdrojową biegnącą od skrzyżowania z ul. Ignacego Krasickiego do linii brzegowej Zatoki Gdańskiej;
+
+— powiat gdański;
+
+— powiat miejski Gdynia;
+
+— powiat miejski Sopot;
+
+— powiat pucki;
+
+— powiat wejherowski;
+
+— gminy Chmielno, Kartuzy, Przodkowo, Sierakowice, Somonino, Żukowo w powiecie kartuskim;
+
+— powiat tczewski;
+
+— powiat starogardzki;
+
+— gminy Damnica, Dębnica Kaszubska, Główczyce, Potęgowo, Smołdzino, część gminy Redzikowo niewymieniona w części I załącznika I, część gminy Kobylnica niewymieniona w części I załącznika I w powiecie słupskim;
+
+— część powiatu miejskiego Słupsk niewymieniona w części I załącznika I;
+
+— powiat lęborski;
+
+— gminy Liniewo, Nowa Karczma w powiecie kościerskim;
+
+— gmina Czarna Dąbrówka w powiecie bytowskim;
+
+w województwie świętokrzyskim:
+
+— gminy Tarłów, Ożarów, Sadowie, Wojciechowice, część gminy Opatów położona na północ od linii wyznaczonej przez drogę nr 74 biegnącą od zachodniej granicy gminy do skrzyżowania z droga nr 9 w miejscowości Opatów, a następnie od tego skrzyżowania na wschód od linii wyznaczonej przez drogę nr 9 do południowej granicy gminy w powiecie opatowskim;
+
+— gminy Dwikozy, Wilczyce, Zawichost, miasto Sandomierz, część gminy Obrazów położona na wschód od linii wyznaczonej przez ulicę Rolniczą w miejscowości Chwałki w powiecie sandomierskim;
+
+— powiat starachowicki;
+
+— powiat ostrowiecki;
+
+— powiat skarżyski;
+
+— gminy Bieliny, Bodzentyn, Górno, Łagów, Nowa Słupia, Zagnańsk w powiecie kieleckim;
+
+— gminy Końskie, Gowarczów, Stąporków, Smyków, część gminy Ruda Maleniecka położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Grębenice – Maleniec – Wyszyna Rudzka – Młotkowice – Lipa – Radoszyce, część gminy Radoszyce położona na północ od linii wyznaczonej przez południowo- wschodnie granice miejscowości Zychy do jej przecięcia się z rzeką Plebanka i dalej na wschód oraz północ od linii wyznaczonej przez rzekę Plebanka do jej przecięcia z zachodnią granicą miejscowości Wyrębów i dalej na północ od linii wyznaczonej przez północne granice miejscowości Wyrębów w powiecie koneckim;
+
+w województwie lubuskim:
+
+— powiat gorzowski;
+
+— powiat miejski Gorzów Wielkopolski;
+
+— powiat sulęciński;
+
+— powiat międzyrzecki;
+
+— powiat wschowski;
+
+— część powiatu strzelecko – drezdeneckiego niewymieniona w części III załącznika I;
+
+— część gminy Górzyca położona na północny -wschód od linii wyznaczonej przez drogę nr 139 do skrzyżowania z drogą nr 31, następnie na północ od linii wyznaczonej przez drogę nr 31 do przecięcia z ul. Odrzańską w miejscowości Górzyca i dalej na północ od linii wyznaczonej przez ul. Odrzańską, której przedłużenie biegnie do zachodniej granicy gminy w powiecie słubickim;
+
+w województwie dolnośląskim:
+
+— powiat wołowski;
+
+— powiat lubiński;
+
+— powiat trzebnicki;
+
+— powiat miejski Wrocław;
+
+— gminy Czernica, Długołęka, Siechnice w powiecie wrocławskim;
+
+— gminy Jelcz - Laskowice, Oława z miastem Oława i część gminy Domaniów położona na północny wschód od linii wyznaczonej przez autostradę A4 w powiecie oławskim;
+
+— gminy Bierutów, Dziadowa Kłoda, Twardogóra, miasto Oleśnica, część gminy wiejskiej Oleśnica położona na południe od linii wyznaczonej przez drogę nr S8, część gminy Dobroszyce położona na zachód od linii wyznaczonej przez linię kolejową biegnącą od północnej do południowej granicy gminy w powiecie oleśnickim;
+
+— powiat milicki;
+
+— powiat górowski;
+
+— powiat głogowski;
+
+w województwie wielkopolskim:
+
+— powiat wolsztyński;
+
+— powiat grodziski;
+
+— powiat kościański;
+
+— część powiatu śremskiego niewymieniona w części I załącznika I;
+
+— gminy Rychtal, Trzcinica w powiecie kępińskim;
+
+— powiat międzychodzki;
+
+— powiat nowotomyski;
+
+— część powiatu poznańskiego niewymieniona w części I załącznika I;
+
+— powiat miejski Poznań;
+
+— powiat rawicki;
+
+— powiat szamotulski;
+
+— część powiatu gostyńskiego niewymieniona w części I załącznika I;
+
+— powiat leszczyński;
+
+— powiat miejski Leszno;
+
+— gminy Krzyż Wielkopolski, Drawsko, Wieleń, Połajewo, Trzcianka, część gminy Lubasz niewymieniona w części I załącznika I w powiecie czarnkowsko-trzcianeckim;
+
+— część gminy Szydłowo położona na południe od linii wyznaczonej przez linię kolejową łącząca miejscowości Wałcz – Szydłowo – Piła w powiecie pilskim;
+
+— gmina Skoki, część gminy Mieścisko położona na zachód od linii wyznaczonej przez drogę nr 190, część gminy Wągrowiec położona na zachód od linii wyznaczonej przez drogę nr 190 biegnącej od południowej granicy miasta Wągrowiec i dalej na zachód od granic miasta Wągrowiec, następnie na zachód od linii wyznaczonej przez drogę łącząca miejscowości Wągrowiec – Bartodzieje – Nowe – Kamienica – Budzyń biegnącą od północno-zachodniej granicy miasta Wągrowiec do zachodniej granicy gminy w powiecie wągrowieckim;
+
+— powiat obornicki;
+
+— gmina Budzyń w powiecie chodzieskim;
+
+w województwie zachodniopomorskim:
+
+— część powiatu myśliborskiego niewymieniona w części III załącznika I;
+
+— część powiatu gryfińskiego niewymieniona w części III załącznika I;
+
+— powiat policki;
+
+— powiat miejski Szczecin;
+
+— powiat goleniowski;
+
+— część powiatu drawskiego niewymieniona w części I załącznika I;
+
+— część powiatu choszczeńskiego niewymieniona w części III załącznika I;
+
+— powiat wałecki;
+
+— powiat stargardzki;
+
+— część powiatu pyrzyckiego niewymieniona w części III załącznika I;
+
+— powiat gryficki;
+
+— część powiatu kamieńskiego niewymieniona w części I załącznika I w powiecie kamieńskim;
+
+— powiat łobeski;
+
+— gminy Siemyśl, Rymań, część gminy wiejskiej Kołobrzeg położona na zachód od linii wyznaczonej przez rzekę Błotnica, część gminy Gościno położona na zachód od linii wyznaczonej przez drogę nr 162 w powiecie kołobrzeskim;
+
+— części gminy wiejskiej Świdwin położona na zachód od linii wyznaczonej część powiatu pyrzyckiego niewymieniona w części III załącznika I przez drogę nr 162 biegnącą od północnej granicy gminy do granic miasta Świdwin i dalej na zachód od granicy miasta Świdwin, część gminy Brzeżno położona na zachód od linii wyznaczonej przez drogę nr 162, część gminy Sławoborze położona na zachód od linii wyznaczonej przez drogę nr 162 w powiecie świdwińskim;
+
+w województwie opolskim:
+
+— gminy Brzeg, Lubsza, Lewin Brzeski, Olszanka, Skarbimierz w powiecie brzeskim;
+
+— gminy Chrząstowice, Dąbrowa, Dobrzeń Wielki, Popielów, Murów, Turawa, Ozimek, część gminy Łubniany położona na północ od linii wyznaczonej przez drogę łącząca miejscowości Świerkle – Masów, ulicę Leśną w miejscowości Masów oraz na północ od ulicy Kolanowskiej biegnącej do wschodniej granicy gminy w powiecie opolskim;
+
+— część powiatu kluczborskiego niewymieniona w części I załącznika I,
+
+— powiat namysłowski;
+
+— część powiatu oleskiego niewymieniona w części I załącznika I;
+
+— gminy Kolonowskie, Jemielnica, Zawadzkie w powiecie strzeleckim;
+
+w województwie łódzkim:
+
+— gminy Drzewica, Białaczów, część gminy Paradyż położona na wschód od linii wyznaczonej przez drogę łącząc miejscowości Dąbrowa – Alfonsów Wielka Wola - Paradyż do przecięcia z drogą nr 74 w miejscowości Paradyż, a następnie od tego przecięcia na wschód od linii wyznaczonej przez drogę nr 74 biegnącą do południowej granicy gminy, cześć gminy Żarnów położona na wschód od linii wyznaczonej przez drogę nr 74, część gminy Opoczno niewymieniona w części I załącznika I, część gminy Sławno niewymieniona w części I załącznika I, część gminy Poświętne niewymieniona w części I załącznika I, część gminy Mniszków położona na zachód od linii wyznaczonej przez wschodnie granice miejscowości Błogie Rządowe – Błogie Szlacheckie – Stoczki w powiecie opoczyńskim;
+
+— powiat miejski Piotrków Trybunalski;
+
+— gminy Rozprza, Sulejów, część gminy Wolbórz położona na południe od linii wyznaczonej przez północne i wschodnie granice miejscowości Lubiaszów Nowy – Bronisławów, część gminy Wola Krzysztoporska położona na wschód od linii wyznaczonej przez północne i zachodnie granice miejscowości Rokszyce II – Rokszyce I – Wola Rokszycka – Krężna – Wola Krzysztoporska – Jeżów, część gminy Gorzkowice położona na północ od linii wyznaczonej przez południowe granice miejscowości Gorzkowiczki – Gorzkowice – Bujnice PGR – Bujnice- Daniszewice, część gminy Łęki Szlacheckie położona na północ od linii wyznaczonej przez południowe granice miejscowości Bęczkowice – Ogrodzona – Ignaców Szlachecki – Łęki Szlacheckie, część gminy Ręczno położona na północ od linii wyznaczonej przez południowe granice miejscowości Ręczno – Łęg Ręczyński, część gminy Aleksandrów położona na zachód od linii wyznaczonej przez południowe, wschodnie i północne granice miejscowości Skotniki – Stara - Dąbrówka – Kawęczyn – Aleksandrów – Kawęczyn – Kamocka Wola - Dębowa Góra Kolonia – Dąbrowa n/ Czarną - Włodzimierzów – Jaksonek w powiecie piotrkowskim.
+
+**8\. Slovakia**
+
+The following restricted zones II in Slovakia:
+
+— the whole district of Snina,
+
+— the whole district of Sobrance,
+
+— in the district of Michalovce municipalities of Bajany, Vysoká nad Uhom, Pavlovce nad Uhom, Krišovská Liesková, Liesková, Liesková, Čierne Pole, Ižkovce, Beša, Čičarovce, Vojany, Veľké Kapušany, Maťovské Vojkovce, Budince, Ruská, Kapušianske Kľačany, Veľké Slemence, Ptrukša,
+
+— in the district of Trebišov municipalities of Bačka, Biel, Boľ, Boťany, Čierna, Čierna nad Tisou, Dobrá, Klin nad Bodrogom, Kráľovský Chlmec, Kapoňa, Leles, Malé Trakany, Malý Horeš, Nový Horeš, Malý Kamenec, Poľany, Pribeník, Rad, Solnička, Nová Vieska pri Bodrogu, Somotor, Véč, Strážne, Pavlovo, Svätá Mária, Streda nad Bodrogom, Svätuše, Svinice, Veľké Trakany, Veľký Horeš, Veľký Kamenec, Vojka, Zatín, Zemplín,
+
+— the whole district of Revúca,
+
+— the whole district of Rimavská Sobota,
+
+— the whole district of Veľký Krtíš,
+
+— the whole district of Lučenec,
+
+— the whole district of Poltár,
+
+— the whole district of Zvolen except the municipalities included in zone III,
+
+— the whole district of Detva,
+
+— the whole district of Krupina except the municipalities included in zone III,
+
+— the whole district of Žarnovica except the municipalities included in zone III,
+
+— the whole district of Banská Bystrica,
+
+— the whole district of Brezno,
+
+— the whole district of Zlaté Moravce,
+
+— the whole district of Levice except the municipalities included in zone III,
+
+— the whole district Turčianske Teplice except the municipalities included in zone III,
+
+— the whole district of Martin except the municipalities included in zone I,
+
+— in the district of Žilina, municipalities of Čičmany, Fačkov, Rajecká Lesná, Ďurčiná, Rajec, Šuja, Kamenná Poruba, Kunerad, Stránske, Rajecké Teplice, Turie,Višňové, Stráňavy, Strečno, Rosina, Lietavská Lúčka, Lietava, Porúbka, Lietavská Svinná - Babkov, Podhorie, Zbyňov, Konská, Kľače, Jasenové, Malá Čierna, Veľká Čierna, Brezany, Bitarová, Hôrky, Ovčiarsko, Dolný Hričov, Hričovské Podhradie, Paština Závada, Žilina, Teplička and Váhom, Mojš, Nezbudská Lúčka, Varín, Gbeľany, Nededza, Kotričná Lúka,
+
+— in the district of Bytča, the municipalities of Bytča, Hlboké and Váhom, Jablonové, Súľov, Predmier, Maršová – Rašov,
+
+— in the district of Ilava, the municipalities of Nová Dubnica, Dubnica nad Váhom, Ilava, Horná Poruba, Košecké Podhradie, Košeca, Ladce,
+
+— in the district of Púchov, the municipalities of Mojtín, Beluša,
+
+— in the district of Považská Bystrica, the municipalities of Pružina, Dolný Lieskov, Slopná, Bodiná, Prečín, Počarová, Malé Lednice, Domaniža, Podskalie, Ďurďové, Čelkova Lehota, Sádočné, Považská Bystrica, Plevník – Drienové, Záskalie, Kostolec, Vrchtelá, Horný Lieskov, Visolaje, Sverepec,
+
+— in the district of Žiar nad Hronom municipality of Hronská Dúbrava,
+
+— the whole district of Prievidza except the municipalities included in zone III,
+
+— the whole district of Partizánske,
+
+— in the district of Nitra, the municipalities of Nová Ves nad Žitavou, Čifáre, Horné Lefantovce, Jelenec,
+
+— the whole district of Topoľčany,
+
+— the whole district of Bánovce nad Bebravou except the municipalities included in part I,
+
+— in the district of Trenčín, the municipalities of Svinná, Bobot, Horňany, Motešice, Petrova Lehota, Omšenie, Dolná Poruba,Trenčianske Teplice,
+
+— in the district of Ilava, the municipality of Zliechov,
+
+— the whole district of Nové Zámky except the municipalities included in part I,
+
+— the whole district of Komárno,
+
+— in the district of Šaľa, the municipalities of Neded, Vlčany.
+
+**9\. Italy**
+
+The following restricted zones II in Italy:
+
+Piedmont Region:
+
+— in the Province of Alessandria the following Municipalities: Carbonara Scrivia, Frugarolo, Paderna, Spineto Scrivia, Castellazzo Bormida, Bosco Marengo, Castelspina, Casal Cermelli, Alice Bel Colle, Castelnuovo Bormida, Cabella Ligure, Carrega Ligure, Francavilla Bisio, Carpeneto, Costa Vescovato, Orsara Bormida, Pasturana, Mornese, Ovada, Predosa, Lerma, Fraconalto, Rivalta Bormida, Fresonara, San Cristoforo, Sezzadio, Rocca Grimalda, Garbagna, Tassarolo, Mongiardino Ligure, Morsasco, Montaldo Bormida, Prasco, Montaldeo, Belforte Monferrato, Albera Ligure, Bosio, Cantalupo Ligure, Castelletto D'orba, Arquata Scrivia, Parodi Ligure, Ricaldone, Gavi, Cremolino, Brignano-Frascata, Novi Ligure, Molare, Cassinelle, Morbello, Avolasca, Carezzano, Basaluzzo, Dernice, Trisobbio, Strevi, Sant'Agata Fossili, Visone, Voltaggio, Tagliolo Monferrato, Casaleggio Boiro, Capriata D'orba, Castellania Coppi, Carrosio, Cassine, Vignole Borbera, Serravalle Scrivia, Silvano D'orba, Villalvernia, Roccaforte Ligure, Rocchetta Ligure, Sardigliano, Stazzano, Borghetto Di Borbera, Grondona, Cassano Spinola, Montacuto, Gremiasco, San Sebastiano Curone, Fabbrica Curone, Pozzolo Formigaro, Cerreto Grue, Casasco, Montegioco, Montemarzino, Momperone, Pozzol Groppo, Villaromagnano, Sarezzano, Monleale, Volpedo, Casalnoceto, Berzano di Tortona, Castellar Guidobono, Pontecurone, Viguzzolo, Volpeglino, Gamalero, Borgoratto Alessandrino, Carentino, Frascaro;
+
+— in the province of Asti the following Municipalities: Moasca, Calosso, Castel Rocchero, Montabone, Rocchetta Palafea, Castel Boglione, Calamandrana, Castelletto Molina, Fontanile, Maranzana, Mombaruzzo, Quaranti, Bruno, Canelli, Nizza Monferrato, San Marzano Oliveto;
+
+— in the Province of Cuneo, the following Municipalities: Castiglione Tinella, Pezzolo Valle Uzzone, Santo Stefano Belbo, Bosia, Castino, Bergolo, Mango, Cossano Belbo, Gorzegno, Castelletto Uzzone, Gottasecca, Levice, Prunetto, Saliceto, Torre Bormida, Rocchetta Belbo, Rodello, Benevello, Albaretto Della Torre, Bossolasco, Arguello, Niella Belbo, Sinio, Serravalle Langhe, Montelupo Albese, Lequio Berria, Cravanzana, Cerreto Langhe, Borgomale, Cissone, Somano, Roddino, Feisoglio, Alba, Belvedere Langhe, Bonvicino, Camerana, Castelnuovo di Ceva, Castiglione Falletto, Diano D'Alba, Dogliani, Grinzane Cavour, Mombarcaro, Monesiglio, Monforte D'Alba, Montezemolo, Murazzano, Paroldo, Perlo, Priero, Sale Delle Langhe, Sale San Giovanni, San Benedetto Belbo, Serralunga D'alba, Treiso, Trezzo Tinella;
+
+Liguria Region:
+
+— in the province of Genova the following Municipalities: Bogliasco, Arenzano, Ceranesi, Ronco Scrivia, Mele, Isola del Cantone, Lumarzo, Genova, Masone, Serra Riccò, Campo Ligure, Mignanego, Busalla, Bargagli, Savignone, Torriglia, Rossiglione, Sant'Olcese, Valbrevenna, Sori, Tiglieto, Campomorone, Cogoleto, Pieve Ligure, Davagna, Casella, Montoggio, Crocefieschi, Vobbia, Fascia, Gorreto, Propata, Rondanina, Neirone, Montebruno, Uscio, Avegno, Recco, Tribogna, Moconesi, Favale Di Malvaro, Cicagna, Lorsica, Rapallo, Rezzoaglio, Fontanigorda, Rovegno, Coreglia Ligure, Mezzanego, Borzonasca, Orero, Ne, San Colombano Certenoli, Carasco, Santo Stefano D'aveto, Cogorno, Chiavari, Leivi, Camogli, Sestri Levante, Casarza Ligure, Lavagna, Zoagli, Santa Margherita Ligure, Portofino, Castiglione Chiavarese, Moneglia,
+
+— in the province of Savona the following Municipalities: Urbe, Sassello, Celle Ligure, Albisola Superiore, Albissola Marina, Quiliano, Bergeggi, Varazze, Stella, Cairo Montenotte, Savona, Pontinvrea, Vado Ligure, Altare, Dego, Carcare, Piana Crixia, Giusvalla, Finale Ligure, Spotorno, Noli, Orco Feglino, Vezzi Portio, Cosseria, Cengio, Altare, Plodio, Osiglia, Pallare, Roccavignale, Murialdo, Millesimo;
+
+— In the Province of La Spezia the following Municipality: Varese Ligure, Maissana, Sesta Godano, Brugnato, Carro, Carrodano, Rocchetta di Vara, Zignago, Borghetto di Vara, Beverino, Calice al Cornoviglio, Deiva Marina, Framura, Arcola, Bolano, Sarzana, Santo Stefano di Magra, Follo, Vezzano Ligure, Monterosso al Mare, Ameglia, Castelnuovo Magra, Luni, Levanto, Riccò del Golfo di Spezia, Vernazza, Bonassola, Portovenere, Lerici, Pignone, Riomaggiore, La spezia.
+
+Lombardia Region:
+
+— In the Province of Pavia the following Municipalities: Ponte Nizza, Bagnaria, Brallo di Pregola, Menconico, Zavattarello, Romagnese, Varzi, Val di Nizza, Santa Margherita di Staffora, Cecima, Colli Verdi, Godiasco, Rocca de’ Giorgi, Montalto Pavese, Montesegale, Borgo Priolo, Bressana Bottarone, Barbianello, Rivanazzano, Torrazza Coste, Retorbido, Calvignano, Codevilla, Corvino San Quirico, Mornico Losana, Casatisma, Castelletto di Branduzzo, Borgoratto Mormorolo, Casteggio, Fortunago, Rocca Susella, Redavalle, Lungavilla, Robecco Pavese, Pinarolo Po, Pizzale, Torricella Verzate, Montebello della Battaglia, Oliva Gessi, Pietra de' Giorgi, Santa Giuletta, Verretto, Voghera, Montescano, Canneto Pavese, Santa Maria della Versa, Lirio, Cigognola, Castana, Broni, Golferenzo, Montù Beccaria, Montecalvo Versiggia, Rovescala, San Damiano al Colle, Volpara.
+
+Emilia-Romagna Region:
+
+— in the province of Piacenza, the following Municipalities: Vernasca, Ottone, Zerba, Cerignale, Corte Brugnatella, Ferriere, Agazzano, Bobbio, Coli, Farini, Pianello Val Tidone, Piozzano, Alta Val Tidone, Borgonovo Val Tidone, Morfasso, Ziano Piacentino, Castell’Arquato, Alseno, Fiorenzuola D’Arda, Lugagnano Val d'Arda, Carpaneto Piacentino, Ponte Dell’Olio, Gropparello, Gazzola, Travo, Bettola, Rivergaro, Podenzano, Vigolzone, San Giorgio Piacentino, San Pietro in Cerro, Besenzone, Cortemaggiore, Cadeo, Pontenure;
+
+— in the Province of Parma, the following Municipalities: Fornovo di Taro, Terenzo, Solignano, Varano de’ Melegari, Noceto, Medesano, Salsomaggiore Terme, Pellegrino Parmense, Calestano, Bore, Tornolo, Bedonia, Compiano, Albareto, Bardi, Borgo Val di Taro, Varsi, Valmozzola, Berceto, Corniglio, Fidenza, Langhirano, Collecchio, Sala Baganza, Calestano, Felino, Palanzano, Monchio Delle Corti, Tizzano Val Parma, Parma (a sud della via Emilia e della tangenziale e ad ovest del fiume Parma), Busseto (a ovest della ferrovia), Neviano degli Arduini, Traversetolo, Lesignano de’ Begni;
+
+— in the Province of Reggio-Emilia, the following Municipalities: Ventasso, Villa Minozzo, Toano, Vetto, Carpineti, Castelnuovo Ne’ Monti;
+
+— in the Province of Modena, the following Municipalities: Pievepelago, Frassinoro, Riolunato, Fiumalbo, Lama Mocogno, Palagano, Montefiorino, Fanano a nord della SP324, Montecreto, Sestola;
+
+Toscana Region:
+
+— in the Province of Massa Carrara, the following Municipalities: Zeri, Pontremoli, Mulazzo, Filattiera, Tresana, Bagnone, Villafranca in Lunigiana, Licciana Nardi, Aulla, Podenzana, Fosdinovo, Fivizzano), Comano, Carrara, Casola in Lunigiana, Montignoso, Massa;
+
+— in the Province of Lucca the following Municipalilties: Molazzana, Castelnuovo di Garfagnana, Pieve Fosciana, Minucciano, Careggine, San Romano in Garfagnana, Vagli Sotto, Castiglione di Garfagnana, Camporgiano, Fosciandora, Piazza al Serchio, Villa Collemandina, Sillano Giuncugnano, Barga, Gallicano, Coreglia Antelminelli, Seravezza, Fabbriche di Vergemoli, Stazzema, Villa Basilica, Borgo a Mozzano, Pescaglia, Altopascio (a nord dell’autostrada A11 Firenze-Viareggio), Massarossa (a nord dell’autostrada A11 Firenze-Viareggio), Lucca (a nord dell’autostrada A11 Firenze-Viareggio), Capannori (a nord dell’autostrada A11 Firenze-Viareggio), Porcari (a nord dell’autostrada A11 Firenze-Viareggio), Montecarlo, Pietrasanta, Forte Dei Marmi, Camaiore, Pescaglia;
+
+— in the Province of Pistoia the following Municipalities: Chiesina Uzzanese (a nord dell’autostrada A11 Firenze-Viareggio).
+
+**10\. Greece**
+
+The following restricted zones II in Greece:
+
+— in the regional unit of Serres:
+
+— the community departments of Ligaria and Sisamia (Visaltia Municipality),
+
+— the municipal departments of Neo Souli, Chryso, Neos Skopos and the community departments of Agio Pnevma, Dafnoudi, Emmanouil Pappas, Metalla, Pentapoli, Toumba, Valtotopi, Mesokomi, Monovrisi, Neochori Serron, Paralimni, Penthelino and Psichiko (Emmanouil Pappas Municipality),
+
+— the community departments of Melenikitsi, Nea Tiroloi, Palaiokastro and Skotousa (Irakleia Municipality),
+
+— the community departments of Agios Xristoforos, Agriani, Anastasia, Draviskos, Gazoros, Tholos, Nea Petra (Nea Zichni Municipality),
+
+— the municipal departments of Mitrousi, Lefkonas, Serres, Skoutari and the community departments of Kala Dendra, Christos, Orini, Elaionas, Eptamila, Oinousa, Agia Eleni, Adelfiko, Vamvakousa, Kato Kamila, Kouvouklia, Koumaria, Konstantinato, Peponia, Ano Vrontou, Ano Kamila and Monoklisia (Serres Municipality),
+
+— part of the municipal department of Sidirokastro and the community departments of Agkistro, Vamvakofito, Achladochori and Kapnofito (Sintiki Municipality),
+
+— in the regional unit of Drama:
+
+— the community departments of Vathitopos, Granitis, Dasoto, Exohi, Katafito, Kato Vrontou, Ochiro and Perithorio (Kato Nevrokopi Municipality),
+
+— the community departments of Tholo, Adriani, Ano Pixari, Nikiforos, Platania, Platanovrisi, Ptelea Platania, Ipsili Rachi, Paranesti and Sili (Paranesti Municipality),
+
+— the municipal departments of Drama, Xiropotamos and Choritsi, the community department of Skaloti, Kalifito, Livadero, Makriplagio, Monastiraki, Milopotamos and part of the community department of Sidironero (Drama Municipality),
+
+— the municipal departments of Doxato, Kirgia and the community departments of Agora and Pigadia (Doxato Municipality),
+
+— the municipal departments of Petrousi and Prosotsani, the community departments of Anthochori, Grameni, Kali Vrisi, Kokinogia, Mikropoli, Panorama, Pirgi and Charitomeni (Prosotsani Municipality),
+
+— in the regional unit of Kavala:
+
+— the community departments of Limnes and Polinero (Kavala Municipality),
+
+— the community departments of Elafochori and Platamonas (Nestos Municipality),
+
+— in the regional unit of Kilkis:
+
+— the municipal departments of Axioupoli, Goumenissa, Polykastro, Evropos and the community departments of Gorgopi, Idomeni, Plagies, Rizia, Fanos, Grivas, Karpi, Pentalofos, Stathis, Filiria, Mesia, Polypetro, Toumpa, Aspro, Vafiochori, Iriniko, Evzoni, Korona, Limnotopos, Mikro Dasos, Pefkodasos, Pontoirakleia, Skra, Kastaneri and Livadia (Peonia Municipality),
+
+— the community departments of Akritas, Vaptistis, Kastanies, Kristoni, Megali Vrisi, Mesiano, Chorigi, Iliolousto and Megali Sterna (Kilkis Municipality),
+
+— in the regional unit of Kastoria:
+
+— the community departments of Vissinea, Macrochori, Kleisoura, and Vasileiada (Kastoria Municipality),
+
+— in the regional unit of Kozani:
+
+— the community departments of Olympiada, Perdikkas, Galateia, Drosero and Fufas (Eordaia Municipality),
+
+— in the regional unit of Florina:
+
+— the community departments of Aetos, Agios Panteleimonas, Kelli, Kleidi, Xino Nero, Petres, Agrapidies, Pedino, Valtonera, Rodonas, Vegora, Levea, Filotas, Asprogeia, Sklithro, Limnochori, Lechovo, Anargiri, Variko, Fanos and municipal department of Amyntaio (Amyntaio Municipality),
+
+— the community departments of Vatochori, Krystallopigi, Kottas, Agios Achillios, Agios Germanos, Antartiko, Vrontero, Kallithea, Karies, Lemos, Lefkonas, Mikrolimni, Plati, Prasino and Psarades (Prespes Municipality),
+
+— the community departments of Achlada, Vevi, Lofoi, Meliti, and Skopos (Florina Municipality),
+
+— in the regional unit of Pella:
+
+— the community departments of Aloros, Apsalos, Voreino, Garefi, Dorothea, Loutraki, Lykostomo, Megaplatanos, Xifiani, Orma, Piperies, Polikarpi, Promachi, Sarakinoi, Sosandra, Tsaki, Archagellos, Exaplatanos, Theodoraki, Thiriopetra, Ida, Konstantia, Milea, Neromili, Notia, Periklia, Filoteia, Foustani, Chrisi and municipal department of Aridea (Almopia Municipality),
+
+— the community departments of Agios Athanasios, Arnissa, Panagitsa, Perea, Agras, Vrita, Karydia, Mesimeri, Nisi, Platani, Rizari, Sotiras and municipal department of Edessa (Edessa Municipality),
+
+— the community departments of Ampelies, Melissi, Agios Loukas, Esovalta, Axos, Aravissos, Achladchori, Lakka, Paleos Milotopos, Plagiari, Agios Georgios, Drosero, Kariotissa, Liparo, Palefito, Trifilli and the municipal departments of Giannitsa, Milotopos and Galatades (Pella Municipality),
+
+— the community departments of Anidro, Kalli, Kallipoli, Kranea, Mandalos, Profitis Ilias, Arseni, Aspro, Dafni, Kalivia, Lipochori, Mavrovouni, Nea Zoi, Petrea, Rizo, Sevastiana and municipal departments of Skidra (Skidra Municipality).
+
+**11\. Spain**
+
+The following restricted zones II in Spain:
+
+The municipalities of:
+
+— Abrera
+
+— Badia del Vallès
+
+— Barberà del Vallès
+
+— Barcelona
+
+— Begues
+
+— Castellbisbal
+
+— Castelldefels
+
+— Castellví de Rosanes
+
+— Cerdanyola del Vallès
+
+— Cervelló
+
+— Corbera de Llobregat
+
+— Cornellà de Llobregat
+
+— Esparreguera
+
+— Esplugues de Llobregat
+
+— Gavà
+
+— Gelida
+
+— Hospitalet de Llobregat
+
+— Martorell
+
+— Masquefa
+
+— Molins de Rei
+
+— Montcada i Reixac (except enclave of ‘Estany de Gallecs’ placed in ZR I)
+
+— Olesa de Montserrat
+
+— Pallejà
+
+— Palma de Cervelló
+
+— Papiol
+
+— Polinyà
+
+— Prat de Llobregat
+
+— Ripollet
+
+— Rubí
+
+— Sabadell
+
+— Sant Andreu de la Barca
+
+— Sant Boi de Llobregat
+
+— Sant Climent de Llobregat
+
+— Sant Cugat del Vallès
+
+— Sant Esteve de Sesrovires
+
+— Sant Feliu de Llobregat
+
+— Sant Joan Despí
+
+— Sant Just Desvern
+
+— Sant Quirze del Vallès
+
+— Sant Llorenç d'Hortons
+
+— Sant Vicenç dels Horts
+
+— Santa Coloma de Cervelló
+
+— Santa Coloma de Gramenet
+
+— Santa Perpètua de Mogoda
+
+— Terrassa
+
+— Torrelles de Llobregat
+
+— Ullastrell
+
+— Vallirana
+
+— Viladecans
+
+— Viladecavalls.
+
+**PART III**
+
+**1\. Romania**
+
+The following restricted zones III in Romania:
+
+— Zona orașului București,
+
+— Județul Constanța,
+
+— Județul Satu Mare,
+
+— Județul Tulcea,
+
+— Județul Bacău,
+
+— Județul Bihor,
+
+— Județul Bistrița Năsăud,
+
+— Județul Brăila,
+
+— Județul Buzău,
+
+— Județul Călărași,
+
+— Județul Dâmbovița,
+
+— Județul Galați,
+
+— Județul Giurgiu,
+
+— Județul Ialomița,
+
+— Județul Ilfov,
+
+— Județul Prahova,
+
+— Județul Sălaj,
+
+— Județul Suceava
+
+— Județul Vaslui,
+
+— Județul Vrancea,
+
+— Județul Teleorman,
+
+— Județul Mehedinți,
+
+— Județul Gorj,
+
+— Județul Argeș,
+
+— Județul Olt,
+
+— Județul Dolj,
+
+— Județul Arad,
+
+— Județul Timiș,
+
+— Județul Covasna,
+
+— Județul Brașov,
+
+— Județul Botoșani,
+
+— Județul Vâlcea,
+
+— Județul Iași,
+
+— Județul Hunedoara,
+
+— Județul Alba,
+
+— Județul Sibiu,
+
+— Județul Caraș-Severin,
+
+— Județul Neamț,
+
+— Județul Harghita,
+
+— Județul Mureș,
+
+— Județul Cluj,
+
+— Județul Maramureș.
+
+**2\. Greece**
+
+The following restricted zones III in Greece:
+
+— in the regional unit of Drama
+
+— the municipal departments of Agios Athanasios, Kalampaki and community departments of Kefalari, Agia Paraskevi, Kalamona, Nerofraktis and Ftelia (Doxato Municipality)
+
+— the municipal department of Kato Nevrokopi and the community departments of Achladea, Mikrokleisoura, Pagoneri, Potamoi, Volakas, Lefkogeia, Mikromilea and Chrysokefalo (Kato Nevrokopi Municipality),
+
+— the community departments of Kalos Agros, Koudounia, Mavrovatos, Microchori, Nikotsaras and part of the community department of Sidironero (Drama Municipality),
+
+— the community departments of Kallithea, Argiroupoli, Mavrolefki, Megalokampos, Microkampos, Perichora, Sitagroi and Fotolivos (Prosotsani Municipality)
+
+— in the regional unit of Serres:
+
+— the municipal department of Irakleia and the community departments of Valtero, Dasochori, Karperi, Koimisi, Lithotopos, Limnochori, Pontismeno, Chrysochorafa, Ammoudia, Gefiroudi, Triada, Cheimaros, Ζeugolatio, Kalokastro, Livadochori and Strimoniko (Irakleia Municipality),
+
+— the municipal departments of Kerkini, Neo Petritsi and the community departments of Kamaroto, Anatoli, Livadia, Makrynitsa, Neochori Sintikis, Platanakia, Kastanousi, Rodopoli, Ano Poroia, Kato Poroia, Akritochori, Vyroneia, Megalochori, Mandraki, Strymonochori, Charopo, Chortero, Gonimo, part of the municipal department of Sidirokastro and Promahonas (Sintiki Municipality),
+
+— the community departments of Anagennisi, Vamvakia and Provatas (Serres Municipality),
+
+— the municipal departments of Nigrita, Terpni and the community departments of Ampeloi, Vergi, Dimitritsi, Nikokleia, Triantafilia, Agios Dimitrios, Aidonochori, Eukarpia, Ivira, Mavrothalasa, Tragilos, Achinos, Dafni, Zervochori, Lefkotopos, Patrikios, Sitochori, Choumniko, Agia Paraskevi, Anthi, Therma, Flampouro and Kastanochori (Visaltia Municipality),
+
+— the municipal department of Rodolivos, and the community departments of Amfipoli, Messolakia, Nea Kerdilia, Palaiokomi, Iliokomi, Kormisti, Nea Bafra, Simvoli, Aggisti, Krinides, Proti, Domiros and Mikro Souli (Amfipoli Municipality),
+
+— the municipal departments of Alistrati, Nea Zichni and the community departments of Agiochori, Lefkothea, Mandili, Skopia, Stathmos Aggistis, Dimitra, Draviskos, Mavrolofos, Messorachi, Mirkinos, Mirrini and Sfelino (Nea Zichni Municipality),
+
+— in the regional unit of Kilkis:
+
+— the municipal departments of Kilkis and the community departments of Kampani, Mandres, Nea Santa, Chrisopetra, Vathi, Agios Markos, Pontokerasea, Drosato, Amaranta, Antigoneia, Gerakario, Kokkinia, Tripotamos, Fyska, Myriofyto, Kentriko, Mouries, Agia Paraskevi, Stathmos Mourion, Kato Theodoraki, Melanthio, Anavrito, Elliniko, Eptalofos, Eukarpia, Theodosia, Isoma, Koiladi, Koronouda, Lipsidrio, Stavrochori, Plagia, Cherso and Terpillos (Kilkis Municipality),
+
+— in the regional unit of Thessaloniki:
+
+— the municipal departments of Sochos, Assiros, Zagliveri, Langadas, Lagina and the community departments of Krithia, Exalofos, Lofiskos, Irakleio, Chrisavgi, Vertiskos, Ossa, Karteres, Lahanas, Leukochori, Nikopoli, Xilopoli, Krioneri, Askos, Sarakina, Agios Vasileios, Ardameri, Vasiloudi, Gerakarou, Lagadikia, Analipsi, Kavalari, Kolchiko and Perivolaki (Langadas Municipality),
+
+— the municipal departments of Asprovalta, Vrasna, Nea Apolonia, Stavros and the community departments of Arethousa, Mavrouda, Skepasto, Stefanina, Melisourgos, Peristeronas, Nimfopetra, Profitis, Apolonia, Modi, Nea Maditos, Ano Stavros, Volvi, Nikomidino, Stivos, Evaggelismos, Scholari, and Philadelphio (Volvi Municipality),
+
+— the municipal departments of Asvestochori, Filiro, Chortiatis, and the community department of Exochi (Pilaia-Chortiatis Municipality),
+
+— the municipal department of Drimos (Oreokastro Municipality),
+
+— in the regional unit of Chalkidiki:
+
+— the municipal departments of Arnaia and the community departments of Varvara, Neochori, Palaiochori, Stanos, Olimpiada and Stagira (Aristotelis Municipality),
+
+— the community departments of Krimni and Marathousa (Poligiros Municipality).
+
+— in the regional unit of Kavala:
+
+— the community departments of Agios Kosmas, Dipotamos, Disvato, Kechrokampos, Lekani, Makrichori, Avramilia, Gerontas, Dialekto, Zarkadia, Xerias and Paradeisos (Nestos Municipality),
+
+— the municipal department of Krinides and the community department of Lidia (Kavala Municiplaity)
+
+— the municipal departments of Eleftheroupoli, Nikisiani and the community departments of Antifillipoi, Kipoi, Xrysokastro, Folea, Akropotamos, Galipsos, Kariani, Orfanio, Ofrynio, Podochori, Georgianoi, Paleochori, Avli, Domatia, Melissokomio, Mesia, Messoropi, Moustheni, Platanotopos and Sidirochori (Paggeo Municipality),
+
+— in the regional unit of Xanthi:
+
+— the municipal department of Evmiro and the community departments of Gerakas, Dafnonas, Karyofito, Komnhna, Neochori, Pasxalia and Stavroupoli (Xanthi Municipality),
+
+— the municipal department of Toxotes and community department of Galani (Topeiros Municipality),
+
+— the community department of Oreo (Miki Municipality).
+
+— in the regional unit of Florina:
+
+— the community department of Nimfeo (Aminteo Municipality),
+
+— the community of Pissoderi (Prespes Municipality),
+
+— the mucipal department of Florina and the community departments of Agia Paraskevi, Akritas, Ano Kalliniki, Ano Klines, Ethniko, Kato Kalliniki, Kato Klines, Kladorrachi, Krateros, Marina, Mesokampos, Mesochori, Neos Kafkasos, Niki, Parorio, Polyplatanos, Itea, Neochorakio, Palaistra, Papagiannis, Sitaria, Tripotamos, Agios Vartholomaios, Ammochori, Ano Idrousa, Atrapos, Drosopigi, Kolchiki, Leptokarya, Perasma, Polypotamos, Triantafyllea, Tropaiouchos, Idrousa, Flampouro, Alona, Armenochori, Korifi, Mesonisi, Proti, Skopia and Trivouno (Florina Municipality),
+
+— in the regional unit of Kastoria:
+
+— the community department of Mela (Kastoria Municipality),
+
+**3\. Croatia**
+
+The following restricted zones III in Croatia:
+
+Vukovarsko srijemska županija:
+
+— Općina Andrijaševci
+
+— Općina Babina Greda
+
+— Općina Bogdanovci
+
+— Općina Borovo
+
+— Općina Bošnjaci
+
+— Općina Cerna
+
+— Općina Drenovci
+
+— Općina Gradište
+
+— Općina Gunja
+
+— Grad Ilok
+
+— Općina Ivankovo
+
+— Općina Jarmina
+
+— Općina Lovas
+
+— Općina Markušica
+
+— Općina Negoslavci
+
+— Općina Nijemci
+
+— Općina Nuštar
+
+— Grad Otok
+
+— Općina Privlaka
+
+— Općina Stari Jankovci
+
+— Općina Stari Mikanovci
+
+— Općina Štitar
+
+— Općina Tompojevci
+
+— Općina Tordinci
+
+— Općina Tovarnik
+
+— Općina Trpinja
+
+— Grad Vinkovci
+
+— Općina Vođinci
+
+— Općina Vrbanja
+
+— Grad Vukovar
+
+— Grad Županja.
+
+Brodsko-posavska županija:
+
+— Općina Gundinci.
+
+Osječko-baranjska županija:
+
+— Općina Antunovac
+
+— Grad Beli Manastir
+
+— Grad Belišće
+
+— Općina Bilje
+
+— Općina Bizovac
+
+— Općina Čeminac
+
+— Općina Čepin
+
+— Općina Darda
+
+— Grad Donji Miholjac
+
+— Općina Draž
+
+— Općina Drenje
+
+— Grad Đakovo
+
+— Općina Đurđenovac
+
+— Općina Erdut
+
+— Općina Ernestinovo
+
+— Općina Gorjani
+
+— Općina Jagodnjak
+
+— Općina Kneževi Vinogradi
+
+— Općina Koška
+
+— Općina Levanjska Varoš, naselje Majar
+
+— Općina Magadenovac
+
+— Općina Marijanci
+
+— Grad Osijek
+
+— Općina Petlovac
+
+— Općina Petrijevci
+
+— Općina Podgorač
+
+— Općina Popovac
+
+— Općina Punitovci
+
+— Općina Semeljci
+
+— Općina Strizivojna
+
+— Općina Šodolovci
+
+— Grad Valpovo
+
+— Općina Viljevo
+
+— Općina Viškovci
+
+— Općina Vladislavci
+
+— Općina Vuka
+
+— Općina Satnica Đakovačka
+
+— Općina Trnava, naselje Kondrić
+
+— Općina Donja Motičina, naselje Donja Motičina, Gornja Motičina i Seona
+
+— Općina Feričanci
+
+— Grad Našice, naselja Brezik Našički, Jelisavac, Lađanska, Lila, Makloševac, Markovac Našički, Martin, Našice, Ribnjak, Velimirovac, Vukojevci i Zoljan
+
+— Općina Podravska Moslavina.
+
+Virovitičko-podravska županija:
+
+— Općina Crnac
+
+— Grad Orahovica
+
+— Općina Zdenci, naselja Bankovci, Donje Predrijevo, Duga Međa, Grudnjak, Kutovi, Obradovci, Slavonske Bare, Zdenci i Zokov Gaj
+
+— Općina Čačinci, naselja Krajna, Bukvik, Brezovljani Vojlovički, Humljani, Krasković, Prekoračani, Pušina, Vojlovica, Čačinci, Paušinci i Rajino Polje
+
+— Općina Nova Bukovica
+
+— Općina Mikleuš
+
+— Općina Čađavica, naselja Čađavica, Čađavički Lug, Donje Bazije, Ilmin Dvor, Noskovačka Dubrava, Noskovci, Starin, Šaševo, Vraneševci i Zvonimirovac
+
+— Općina Sopje, naselje Gornje Predrijevo, Grabić, Josipovo, Nova Šarovka, Sopjanska Greda i Sopje
+
+— Grad Slatina, naselja Bakić, Kozice, Markovo, Medinci, Novi Senkovac i Slatina
+
+— Općina Voćin, naselja Ćeralije i Rijenci.
+
+**4\. Lithuania**
+
+The following restricted zones III in Lithuania:
+
+— Kelmės rajono savivaldybės: Tytuvėnų, Tytuvėnų apylinkių seniūnijos,
+
+— Radviliškio rajono savivaldybės: Radviliškio, Tyrulių, Šaukoto, Šiaulėnų seniūnijos,
+
+— Raseinių rajono savivaldybės: Šiluvos seniūnija,
+
+— Šiaulių rajono savivaldybės: Bubių seniūnijos rytinė dalis nuo Dubysos upės, Šiaulių kaimiškosios seniūnijos pietinė dalis nuo 77 kelio.
+
+**5\. Italy**
+
+The following restricted zones III in Italy:
+
+Piedmont Region:
+
+— in the province of Alessandria the following Municipalities: Melazzo, Ponzone, Merana, Malvicino, Castelletto D'Erro, Montechiaro D'Acqui, Grognardo, Bistagno, Cartosio, Acqui Terme, Pareto, Spigno Monferrato, Denice, Cavatore, Terzo, Ponti;
+
+— in the province of Asti the following Municipalities: Monastero Bormida, Cassinasco, Loazzolo, Bubbio, Cessole, Mombaldone, Serole, Vesime, Olmo Gentile, San Giorgio Scarampi, Sessame, Roccaverano;
+
+— in the province of Cuneo the following Municipalities: Cortemilia, Perletto;
+
+Liguria Region:
+
+— in the province of Savona the following Municipality: Mioglia;
+
+Toscana Region:
+
+— in the province of Massa Carrara the following Municipalities: Aulla, Licciana Nardi, Fivizzano, Bagnone, Comano, Casola in Lunigiana;
+
+— In the Province of Pistoia, the following Municipalities: Marliana, Pistoia, Pescia, Abetone Cutigliano, San Marcello Piteglio, Sambuca Pistoiese,
+
+— In the Province of Lucca, the following Municipaliy: Bagni di Lucca
+
+Emilia-Romagna Region:
+
+— In the Province of Bologna, the following Municipalities: Alto Reno Terme, Lizzano in Belvedere;
+
+— In the Province of Modena the following Municipality: Fanano a sud della SP324
+
+— in the province of Parma the following Municipalities: Monchio delle Corti (la porzione di Parco Nazionale dell’Appennino Tosco Emiliano che confina con la Regione Toscana);
+
+— in the province of Reggio Emilia the following Municipalities: Ventasso (la porzione di Parco Nazionale dell’Appennino Tosco Emiliano che confina con la Regione Toscana).
+
+**6\. Slovakia**
+
+— the whole district of Žiar nad Hronom except the municipality of Hronská Dúbrava,
+
+— in the district of Žarnovica, the municipalities of Hrabičov, Župkov, Ostrý Grúň, Žarnovica, Hodruša – Hámre, Voznica,
+
+— the whole district of of Banská Štiavnica,
+
+— in the district of of Prievidza the municipalities of Handlová, Ráztočno,
+
+— in the district of Turčianske Teplice the municipalities of Turček, Sklené, Horná Štubňa,
+
+— in the district of Zvolen the municipalities of Železná Breznica, Babiná, Dobrá Niva,
+
+— in the district of Levice the municipalities of Uhliská, Bohunice, Jabloňovce,
+
+— in the district of Krupina the municipalities of Žibritov, Kráľovce – Krnišov, Krupina, Hontianske Nemce.
+
+**7\. Poland**
+
+The following restricted zones III in Poland:
+
+w województwie lubuskim:
+
+— część gminy Strzelce Krajeńskie położona na północny - zachód od linii wyznaczonej przez drogę nr 22 w powiecie strzelecko – drezdeneckim;
+
+w województwie zachodniopomorskim:
+
+— część gminy Barlinek położona na wschód od linii wyznaczonej przez zachodnie i północne granice miejscowości Krzynka – Płonno w powiecie myśliborskim;
+
+— część gminy Pełczyce położona na południowy - wschód od linii wyznaczonej przez zachodnie i północne granice miejscowości Łysakowo-Sarnik – Pełczyce – Bolewice – Boguszyny, część gminy Krzęcin położona na zachód od linii wyznaczonej przez wschodnie granice miejscowości Żeńsko – Krzęcin – Chłopowo – Roszkowice, część gminy Bierzwnik położona na zachód od linii wyznaczonej przez wschodnią granicę miejscowości Górzno w powiecie choszczeńskim;
+
+— część gminy Bielice położona na zachód od linii wyznaczonej przez drogę S3 w powiecie pyrzyckim;
+
+— część gminy Banie położona na północ i zachód od linii wyznaczonej przez południowe, północne i wschodnie granice miejscowości Baniewice – Banie – Kunowo, część gminy Widuchowa położona na północ od linii wyznaczonej przez północne i wschodnie granice miejscowości Ognica – Rynica oraz na zachód, północ i wschód od granicy miejscowości Polesiny, część gminy Gryfino położona na południe od linii wyznaczonej przez drogę nr 120 biegnącą od zachodniej granicy gminy do przecięcia z drogą S3 i dalej od tego przecięcia na zachód od linii wyznaczonej przez drogę S3 biegnącą do południowej granicy gminy w powiecie gryfińskim;
+
+w województwie kujawsko-pomorskim:
+
+— część gminy wiejskiej Grudziądz położona na zachód od linii wyznaczonej przez wschodnie granice miejscowości Rozgarty – Szynych – Gogolin w powiecie grudziądzkim;
+
+— część gminy wiejskiej Chełmno położona na wschód od linii wyznaczonej przez wschodnią granicę miasta Chełmno, w gminie Stolno miejscowości Wabcz- Kolonia oraz Trzebiełuch w powiecie chełmińskim;
+
+— część gminy Świecie położona na wchód od linii wyznaczonej wschodnie- północne – południowe granice miejscowości Polski Konopat – Wielki Konopat – Przechówko – Niedźwiedź, część gminy Drzycim położona na południe i wschód od linii wyznaczonej przez północne i zachodnie granice miejscowości Gródek – Lubocheń – Dolsk i dalej w miejscowości Biechowo na wschód od linii wyznaczonej przez drogę łączącą miejscowości Biechowo – Abisynia – Nowe Dobra, część gminy Jeżewo niewymieniona w części II załącznika I, część gminy Warlubie położona na południe od linii wyznaczonej przez północną granicę miejscowości Rulewo, cześć gminy Dragacz położona na zachód od linii wyznaczonej zachodnie i południowe granice miejscowości Fletnowo – Dolna grupa – Dragacz – Michale w powiecie świeckim;
+
+— część gminy Ryńsk w obrębie miejscowości Pływaczewo, Małe Radowiska oraz część miejscowości Zieleń położona na południowy wschód od linii wyznaczonej przez drogę łączącą miejscowości Pływaczewo – Małe Radowiska oraz część miejscowości Wałyczyk na południowy wschód od linii wyznaczonej przez drogę łącząca miejscowości Małe Radowiska – Wałycz, część gminy Dębowa Łąką położna na południowy - zachód od linii wyznaczonej przez północną i zachodnią granicę miejscowości Wielkie Radowiska do przecięcia granicy obrębu miejscowości z drogą łączącą miejscowości Wielkie Radowiska - Kurkocin w obrębie miejscowości Kurkocin i dalej od tego przecięcia na południe od drogi łączącej miejscowości Wielkie Radowiska – Kurkocin – Wielkie Pułkowo w obrębie miejscowości Kurkocin i dalej na południowy - zachód od linii wyznaczonej przez północno - wschodnią granicę miejscowości Wielkie Pułkowo w powiecie wąbrzeskim,
+
+— miasto Golub-Dobrzyń, część gminy wiejskiej Golub-Dobrzyń położona na południowy – zachód od linii wyznaczonej północno – wschodnie granice miejscowości Karczewo – Kujawa oraz w obrębie miejscowości Macikowo na północ i wschód od linii wyznaczonej przez drogę łączącą miejscowości – Nowogród – Babiak – Wądoły - Macikowo - Sitno, część gminy Radomin położona na zachód od linii wyznaczonej przez wschodnią granicę miejscowości Płonne do przecięcia granicy miejscowości z drogą łączącą miejscowości Półwiesk Mały - Płonne – Szafarnia i dalej od tego przecięcia na północny - zachód od linii wyznaczonej przez drogę łączącą miejscowości Półwiesk Mały - Płonne – Szafarnia do przecięcia z granicą miejscowości Szafarnia i od tego przecięcia na zachód i północny - zachód od linii wyznaczonej przez wschodnie i południowe granice miejscowości Szafarnia – Bocheniec – Kamionka do przecięcia z drogą łączącą miejscowości Kamionka – Dulsk i dalej na północny zachód od linii wyznaczonej przez drogę łączącą miejscowości Kamionka - Dulsk aż do przedłużenia do granicy miejscowości Dulsk, cześć gminy Ciechocin położona na północ od linii wyznaczonej przez drogę łączącą miejscowości Babiak – Dębowo- Rudaw – Przydatki – Kujawy Ciechocin – Elgiszewo do przecięcia z granicą miejscowości Elgiszewo i dalej na północ od linii wyznaczonej przez południową granicę miejscowości Elgiszewo, część gminy Kowalewo Pomorskie położona na wschód od linii wyznaczonej przez zachodnią granicę miejscowości Sierakowo do przecięcia w miejscowości Mariany z linią kolejową łączącą Wąbrzeżno - Toruń i dalej na południe od linii kolejowej łączącej Wąbrzeżno - Toruń do granic miejscowości Mariany, następnie na północ od południowej granicy miejscowości Mariany i dalej na wschód od wschodniej granicy miejscowości Elzanowo do przecięcia z drogą łączącą miejscowości Bielsk - Elzanowo i dalej od tego przecięcia na południowy wchód od linii wyznaczonej przez drogę równoległą do drogi nr 15, łączącą miejscowości Bielsk – Elzanowo – Wielka Łąką do przejęcia z granicą miejscowości Wielka Łąką i dalej na południe od północnej granicy miejscowości Wielka Łąką oraz północ i wschód od północnej i wschodniej granicy miejscowości Pruska Łąka w powiecie golubsko-dobrzyńskim.
+
+**8\. Hungary**
+
+The following restricted zone III in Hungary:
+
+Baranya vármegyében az alábbi területek:
+
+— az 502160, 502450, 503450, 503460, 503470, 503480, 504150, 504250, 504350, 504360 és az 504450 vadgazdálkodási egységek teljes területe, valamint;
+
+— az 502150 kódszámú vadgazdálkodási egység területének az a része, amely Zádor, Pettend, Szörény, Gyöngyösmellék és Kistamási közigazgatási területébe tartozik;
+
+— az 502250 kódszámú vadgazdálkodási egység területének az a része, amely Endrőc, Teklafalu, Bürüs, Kétújfalu, Várad, Gyöngyösmellék és közigazgatási területébe tartozik;
+
+— az 502350 kódszámú vadgazdálkodási egység területének az a része, amely Dencsháza, Katádfa, Bánfa, Rózsafa, Szentdénes és Sumony közigazgatási területébe tartozik;
+
+— az 501580 kódszámú vadgazdálkodási egység területének az a része, amely Sumony, Szentdénes, Gyöngyfa, Királyegyháza, Magyarmecske és Magyartelek közigazgatási területébe tartozik;
+
+— az 502650 kódszámú vadgazdálkodási egység területének az a része, amely Kisasszonyfa, Magyartelek, Királyegyháza és Gerde közigazgatási területébe tartozik;
+
+— az 502660 kódszámú vadgazdálkodási egység területének az a része, amely Bogármindszent, Páprád, Gilvánfa, Magyarmecske, Gyöngyfa, Magyartelek, Kisasszonyfa és Ózdfalu közigazgatási területébe tartozik;
+
+— az 503490 kódszámú vadgazdálkodási egység területének az a része, amely Bogármindszent, Páprád és Vajszló közigazgatási területébe tartozik.
+
+Somogy vármegyében az alábbi területek:
+
+— a 356350 kódszámú vadgazdálkodási egység teljes területe;
+
+— a 356250 kódszámú vadgazdálkodási egység területének az a része, amely Drávatamási közigazgatási területéhez tartozik;
+
+— a 356260 kódszámú vadgazdálkodási egység területének az a része, amelynek északi, észak-nyugati határa a 6-os főút, addig a ponting amig a 6-os főút metszi a 60-as számú vasútvonalat, onnan a 60-as számú vasútvonal:
+
+Szabolcs-Szatmár-Bereg vármegyében az alábbi területek:
+
+— a 857050 kódszámú vadgazdálkodási egység teljes területe, valamint;
+
+— a 856051 kódszámú vadgazdálkodási egység területének az a része, amely Nyírpilis, Bátorliget és Terem települések közigazgatási területéhez tartozik;
+
+— a 856150 kódszámú vadgazdálkodási egység területének az a része, amely Terem és Fábiánháza települések közigazgatási területéhez tartozik;
+
+— a 857150 kódszámú vadgazdálkodási egység területének az a része, amelynek nyugati határa a Szénási-folyás addig a pontig, ahol az a 49133-as számú mellékutat (Önböly településen a Szaniszlói utcát) a Szénási-folyás metszi, onnan pedig a 49133-as számú mellékút az országhatárig;
+
+— a 856260 kódszámú vadgazdálkodási egység területének az a része, amely Fábiánháza település közigazgatási területéhez tartozik, és
+
+— a 856250 kódszámú vadgazdálkodási egység területének az a része, amely a Lápi-főcsatornától nyugatra, délnyugatra fekszik.
+
+**9\. Bulgaria**
+
+The following restricted zones III in Bulgaria:
+
+the Varna region:
+
+— the whole teritory of municipality Dolni Chiflik;
+
+— the whole teritory of municipality Avren;
+
+— the whole teritory of municipality Dalgopol;
+
+— the whole teritory of municipality Provadia.
+
+## ANNEX II — AREAS ESTABLISHED AT UNION LEVEL AS INFECTED ZONES OR AS RESTRICTED ZONES, COMPRISING OF PROTECTION AND SURVEILLANCE ZONES
+
+(as referred to in Articles 6(2) and 7(2))
+
+Part A – Areas established as infected zones following an outbreak of African swine fever in wild porcine animals in a previously disease-free Member State or zone:
+
+| Areas established as infected zone in Finland as referred to in Article 1 | Date until applicable |
+| --- | --- |
+| Virolahden kunta Miehikkälän kunta Lappeenrannan kaupunki: Lappeenrannan kaupungista Lappeenrannan Vainikkalan asemalle johtavan rautatien etelänpuoleinen alue. | 31.10.2026 |
+
+## ANNEX III
+
+**REINFORCED BIOSECURITY MEASURES FOR ESTABLISHMENTS OF KEPT PORCINE ANIMALS LOCATED IN RESTRICTED ZONES I, II AND III**
+
+**(as referred to in Article 16(1), point (b)(i))**
+
+1\. The following reinforced biosecurity measures, as referred to in Article 16(1), point (b)(i), shall be implemented in establishments of kept porcine animals located in restricted zones I, II and III situated in the Member States concerned in the case of movements of the following consignments, authorised by the competent authority in accordance with this Regulation:
+
+(a) porcine animals kept in restricted zones I, II and III within and outside those zones, as provided for in Articles 22 to 25, and Articles 28 and 29;
+
+(b) germinal products obtained from porcine animals kept in restricted zone II outside that zone, as provided for in Articles 32, 33 and 34;
+
+(c) animal by-products obtained from porcine animals kept in restricted zone II outside that zone, as provided for in Articles 37 and 39;
+
+(d) fresh meat, meat products, including casings, obtained from porcine animals kept in restricted zones II and III outside those zones, as provided for in Articles 41, 42 and 43.
+
+2\. The operators of establishments of kept porcine animals located in restricted zones I, II and III situated in the Member States concerned in the case of authorised movements referred to in point 1, within and outside those zones, shall ensure that the following reinforced biosecurity measures are implemented in establishments of kept porcine animals:
+
+(a) there must be no direct or indirect contact between the kept porcine animals in the establishment and at least:
+
+(i) other kept porcine animals from other establishments, except for kept porcine animals that are allowed to be moved into the establishment by an operator and, where required by this Regulation, are authorised for such movement by the competent authority;
+
+(ii) wild porcine animals;
+
+(b) appropriate hygienic measures, such as a change of clothes and footwear on entering and leaving the premises where porcine animals are kept;
+
+(c) washing and disinfection of hands and disinfection of footwear at the entrance to the premises where porcine animals are kept;
+
+(d) the absence of any contact with kept porcine animals for a period of at least 48 hours from the time of ending of any hunting activity related to wild porcine animals or any other contact with wild porcine animals;
+
+(e) a prohibition on unauthorised persons or means of transport entering the establishment, including the premises and buildings, where porcine animals are kept;
+
+(f) adequate record-keeping of persons and means of transport accessing the establishment where the porcine animals are kept;
+
+(g) the premises and buildings of the establishment where porcine animals are kept must:
+
+(i) be built in such a way that no other animals that could transmit African swine fever virus can enter the premises and buildings or have contact with the kept porcine animals or their feed and bedding material. In particular the structure and buildings of the establishment must ensure that kept porcine animals do not have any contacts with wild porcine animals;
+
+(ii) allow for the washing and disinfection of hands;
+
+(iii) where appropriate, allow for the cleaning and disinfection of the premises and buildings, except for land near the buildings of the establishment where porcine animals are kept outdoors where such cleaning and disinfection would not be feasible;
+
+(iv) have appropriate changing facilities for footwear and clothes at the entrance to the premises and buildings where porcine animals are kept;
+
+(v) have appropriate protection from insects and ticks, if required by the competent authority of the Member State concerned on the basis of a risk assessment tailored to the specific epidemiological situation of African swine fever in that Member State.
+
+(h) stock-proof fencing of at least the premises where the porcine animals are kept and buildings where feed and bedding are kept, in order to ensure that kept porcine animals, and their feed and bedding do not have any contact with unauthorised persons and, where relevant, with other porcine animals;
+
+(i) a biosecurity plan approved by the competent authority of the Member State concerned taking account of the profile of the establishment and national legislation must be in place; where appropriate, that biosecurity plan must include at least:
+
+(i) the establishment of the ‘clean’ and ‘dirty’ areas for personnel appropriate to the typology of the establishment, such as changing rooms, showers, a dining room, etc.;
+
+(ii) the setting up and the review, when applicable, of the logistical arrangements for the entry of new kept porcine animals into the establishment;
+
+(iii) the procedures for the cleaning and disinfection of the facilities, transport, equipment and personnel hygiene;
+
+(iv) rules on food for personnel on site and a prohibition on the keeping of porcine animals by the personnel, where relevant and if applicable on the basis of national legislation of the Member State concerned;
+
+(v) a dedicated recurrent awareness programme for personnel on the establishment;
+
+(vi) the setting up and the review, when applicable, of logistical arrangements in order to ensure a proper separation between different epidemiological units and to avoid porcine animals being in contact, either directly or indirectly, with animal by-products and other units on the establishment;
+
+(vii) the procedures and instructions for the enforcement of biosecurity requirements during the construction or repair of the premises or buildings;
+
+(viii) internal audits or self-evaluation for enforcing the biosecurity measures;
+
+(ix) assessment of specific biosecurity risks and procedures for the application of relevant risk-mitigating measures related to establishments where porcine animals are kept temporally or permanently outdoors.
+
+## ANNEX IV
+
+**MINIMUM REQUIREMENTS FOR NATIONAL ACTION PLANS FOR WILD PORCINE ANIMALS IN ORDER TO AVOID THE SPREAD OF AFRICAN SWINE FEVER IN THE UNION**
+
+**(as referred to in Article 56)**
+
+National action plans for wild porcine animals in order to avoid the spread of African swine fever in the Union shall include at least the following:
+
+(a) the strategic objectives and priorities of the national action plan;
+
+(b) the scope of the plan, including the territory covered by the national action plan;
+
+(c) a description of the scientific data guiding the measures set out in the national action plan, where relevant, or reference to the Union’s guidelines on African swine fever as agreed with the Member States at the Standing Committee on Plants, Animals, Food and Feed ( 5 );
+
+(d) a description of the roles and functions of the relevant institutions and stakeholders;
+
+(e) estimates of the size of the population of wild porcine animals within the Member State or regions thereof and a description of the estimation method;
+
+(f) a description of hunting management within the Member State, including an overview of the hunting grounds, hunting associations, hunting seasons, specific hunting methods and tools;
+
+(g) a description of qualitative and / or quantitative annual, intermediate and long-term targets and the means for an appropriate control and, if necessary, reduction of the population of wild porcine animals, including targets for annual hunting bags, where relevant;
+
+(h) a description or links to national biosecurity requirements related to the hunting of wild porcine animals;
+
+(i) a description and links to relevant Union or national biosecurity measures for establishments of kept porcine animals aimed at the protection of such animals from wild porcine animals;
+
+(j) implementation arrangements, including a timetable for different measures;
+
+(k) a communication strategy for hunters, a description of targeted awareness and training campaigns concerning African swine fever and related links to such campaigns for hunters to prevent the introduction and dissemination of that disease by hunters;
+
+(l) joint programmes of cooperation between the agriculture and environmental sectors ensuring sustainable hunting management, an implementation of a ban on supplementary feeding and agricultural practices aimed at facilitating the prevention, control and eradication of African swine fever, where relevant;
+
+(m) a description of cross-border cooperation with other Member States and third countries, where relevant, in relation to the management of wild porcine animals;
+
+(n) a description of compulsory continuous surveillance by means of the testing of dead wild porcine animals with pathogen identification tests for African swine fever in the whole territory of the Member State;
+
+(o) an assessment of possible significant negative effects of hunting activities on species and habitats protected under relevant Union environmental rules, including nature protection requirements, laid down in Directives 2009/147/EC and 92/43/EEC and the description of prevention and mitigation measures reducing the negative impact on the environment, where necessary.
+
+( 1 ) In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, for the purposes of this Regulation references to Member States include the United Kingdom in respect of Northern Ireland.
+
+( 2 ) Commission Delegated Regulation (EU) 2020/686 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of germinal product establishments and the traceability and animal health requirements for movements within the Union of germinal products of certain kept terrestrial animals (OJ L 174, 3.6.2020, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2020/2154 of 14 October 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards animal health, certification and notification requirements for movements within the Union of products of animal origin from terrestrial animals (OJ L 431, 21.12.2020, p. 5).
+
+( 4 ) Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (OJ L 174, 3.6.2020, p. 140).
+
+( 5 ) https://food.ec.europa.eu/animals/animal-diseases/diseases-and-control-measures/african-swine-fever_en

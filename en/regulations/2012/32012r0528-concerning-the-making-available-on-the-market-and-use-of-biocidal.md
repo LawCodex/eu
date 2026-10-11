@@ -1,0 +1,3914 @@
+---
+title: "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products Text with EEA relevance"
+identifier: "32012R0528"
+eli: "http://data.europa.eu/eli/reg/2012/528/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-05-22
+entry_into_force: 2012-07-01
+last_amended: 2026-08-19
+consolidated_version: "02012R0528-20260819"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0528-20260819"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products Text with EEA relevance
+
+**REGULATION (EU) No 528/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 May 2012**
+
+**concerning the making available on the market and use of biocidal products**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 736/2013 of 17 May 2013 </td><td> L 204</td><td>25</td><td>31.7.2013</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 837/2013 of 25 June 2013 </td><td> L 234</td><td>1</td><td>3.9.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) No 334/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2014 </td><td> L 103</td><td>22</td><td>5.4.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1819 of 8 August 2019 </td><td> L 279</td><td>1</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1820 of 8 August 2019 </td><td> L 279</td><td>4</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION 2019/1821 of 8 August 2019 </td><td> L 279</td><td>7</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1822 of 8 August 2019 </td><td> L 279</td><td>10</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1823 of 8 August 2019 </td><td> L 279</td><td>13</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1824 of 8 August 2019 </td><td> L 279</td><td>16</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1825 of 8 August 2019 </td><td> L 279</td><td>19</td><td>31.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/407 of 3 November 2020 </td><td> L 81</td><td>15</td><td>9.3.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/525 of 19 October 2020 </td><td> L 106</td><td>3</td><td>26.3.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/806 of 10 March 2021 </td><td> L 180</td><td>78</td><td>21.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/807 of 10 March 2021 </td><td> L 180</td><td>81</td><td>21.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1290 of 29 February 2024 </td><td> L 1290</td><td>1</td><td>6.5.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1398 of 14 March 2024 </td><td> L 1398</td><td>1</td><td>22.5.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1165 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2026 </td><td> L 1165</td><td>1</td><td>26.5.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/447 of 27 February 2026 </td><td> L 447</td><td>1</td><td>30.7.2026</td></tr>
+</table>
+
+**REGULATION (EU) No 528/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 May 2012**
+
+**concerning the making available on the market and use of biocidal products**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+#### Article 1 — Purpose and subject matter
+
+1\. The purpose of this Regulation is to improve the functioning of the internal market through the harmonisation of the rules on the making available on the market and the use of biocidal products, whilst ensuring a high level of protection of both human and animal health and the environment. The provisions of this Regulation are underpinned by the precautionary principle, the aim of which is to safeguard the health of humans, the health of animals and the environment. Particular attention shall be paid to the protection of vulnerable groups.
+
+2\. This Regulation lays down rules for:
+
+(a) the establishment at Union level of a list of active substances which may be used in biocidal products;
+
+(b) the authorisation of biocidal products;
+
+(c) the mutual recognition of authorisations within the Union;
+
+(d) the making available on the market and the use of biocidal products within one or more Member States or the Union;
+
+(e) the placing on the market of treated articles.
+
+#### Article 2 — Scope
+
+1\. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.
+
+2\. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:
+
+(a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community ( 1 );
+
+(b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;
+
+(c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products ( 2 ), Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( 3 ) and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency ( 4 );
+
+(d) Regulation (EC) No 1831/2003;
+
+(e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs ( 5 ) and Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin ( 6 );
+
+(f) Regulation (EC) No 1333/2008;
+
+(g) Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods ( 7 );
+
+(h) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed ( 8 );
+
+(i) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market ( 9 );
+
+(j) Regulation (EC) No 1223/2009;
+
+(k) Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys ( 10 ).
+
+Notwithstanding the first subparagraph, when a biocidal product falls within the scope of one of the abovementioned instruments and is intended to be used for purposes not covered by those instruments, this Regulation shall also apply to that biocidal product insofar as those purposes are not addressed by those instruments.
+
+3\. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall be without prejudice to the following instruments:
+
+(a) Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances ( 11 );
+
+(b) Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work ( 12 );
+
+(c) Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work ( 13 );
+
+(d) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption ( 14 );
+
+(e) Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations ( 15 );
+
+(f) Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work ( 16 );
+
+(g) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy ( 17 );
+
+(h) Directive 2004/37/EC of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work ( 18 );
+
+(i) Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants ( 19 );
+
+(j) Regulation (EC) No 1907/2006;
+
+(k) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising ( 20 );
+
+(l) Regulation (EC) No 689/2008 of the European Parliament and of the Council of 17 June 2008 concerning the export and import of dangerous chemicals ( 21 );
+
+(m) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures ( 22 );
+
+(n) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides ( 23 );
+
+(o) Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer ( 24 );
+
+(p) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes ( 25 );
+
+(q) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions ( 26 ).
+
+4\. Article 69 shall not apply to the carriage of biocidal products by rail, road, inland waterway, sea or air.
+
+5\. This Regulation shall not apply to:
+
+(a) food or feed used as repellents or attractants;
+
+(b) biocidal products when used as processing aids within the meaning of Regulation (EC) No 1831/2003 and Regulation (EC) No 1333/2008.
+
+6\. Biocidal products which obtained final approval under the International Convention for the Control and Management of Ships’ Ballast Water and Sediments shall be considered as authorised under Chapter VIII of this Regulation. Articles 47 and 68 shall apply accordingly.
+
+7\. Nothing in this Regulation shall prevent Member States from restricting or banning the use of biocidal products in the public supply of drinking water.
+
+8\. Member States may allow for exemptions from this Regulation in specific cases for certain biocidal products, on their own or in a treated article, where necessary in the interests of defence.
+
+9\. The disposal of active substances and biocidal products shall be carried out in accordance with the Union and national waste legislation in force.
+
+#### Article 3 — Definitions
+
+1\. For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘biocidal product’ means
+
+— any substance or mixture, in the form in which it is supplied to the user, consisting of, containing or generating one or more active substances, with the intention of destroying, deterring, rendering harmless, preventing the action of, or otherwise exerting a controlling effect on, any harmful organism by any means other than mere physical or mechanical action,
+
+— any substance or mixture, generated from substances or mixtures which do not themselves fall under the first indent, to be used with the intention of destroying, deterring, rendering harmless, preventing the action of, or otherwise exerting a controlling effect on, any harmful organism by any means other than mere physical or mechanical action.
+
+A treated article that has a primary biocidal function shall be considered a biocidal product.
+
+(b) ‘micro-organism’ means any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including lower fungi, viruses, bacteria, yeasts, moulds, algae, protozoa and microscopic parasitic helminths;
+
+(c) ‘active substance’ means a substance or a micro-organism that has an action on or against harmful organisms;
+
+(d) ‘existing active substance’ means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated research and development;
+
+(e) ‘new active substance’ means a substance which was not on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated research and development;
+
+(f) ‘substance of concern’ means any substance, other than the active substance, which has an inherent capacity to cause an adverse effect, immediately or in the more distant future, on humans, in particular vulnerable groups, animals or the environment and is present or is produced in a biocidal product in sufficient concentration to present risks of such an effect.
+
+Such a substance would, unless there are other grounds for concern, normally be:
+
+— a substance classified as dangerous or that meets the criteria to be classified as dangerous according to Directive 67/548/EEC, and that is present in the biocidal product at a concentration leading the product to be regarded as dangerous within the meaning of Articles 5, 6 and 7 of Directive 1999/45/EC, or
+
+— a substance classified as hazardous or that meets the criteria for classification as hazardous according to Regulation (EC) No 1272/2008, and that is present in the biocidal product at a concentration leading the product to be regarded as hazardous within the meaning of that Regulation,
+
+— a substance which meets the criteria for being a persistent organic pollutant (POP) under Regulation (EC) No 850/2004, or which meets the criteria for being persistent, bio-accumulative and toxic (PBT) or very persistent and very bio-accumulative (vPvB) in accordance with Annex XIII to Regulation (EC) No 1907/2006;
+
+(g) ‘harmful organism’ means an organism, including pathogenic agents, which has an unwanted presence or a detrimental effect on humans, their activities or the products they use or produce, on animals or the environment;
+
+(h) ‘residue’ means a substance present in or on products of plant or animal origin, water resources, drinking water, food, feed or elsewhere in the environment and resulting from the use of a biocidal product, including such a substance’s metabolites, breakdown or reaction products;
+
+(i) ‘making available on the market’ means any supply of a biocidal product or of a treated article for distribution or use in the course of a commercial activity, whether in return for payment or free of charge;
+
+(j) ‘placing on the market’ means the first making available on the market of a biocidal product or of a treated article;
+
+(k) ‘use’ means all operations carried out with a biocidal product, including storage, handling, mixing and application, except any such operation carried out with a view to exporting the biocidal product or the treated article outside the Union;
+
+(l) ‘treated article’ means any substance, mixture or article which has been treated with, or intentionally incorporates, one or more biocidal products;
+
+(m) ‘national authorisation’ means an administrative act by which the competent authority of a Member State authorises the making available on the market and the use of a biocidal product or a biocidal product family in its territory or in a part thereof;
+
+(n) ‘Union authorisation’ means an administrative act by which the Commission authorises the making available on the market and the use of a biocidal product or a biocidal product family in the territory of the Union or in a part thereof;
+
+(o) ‘authorisation’ means national authorisation, Union authorisation or authorisation in accordance with Article 26;
+
+(p) ‘authorisation holder’ means the person established within the Union who is responsible for the placing on the market of a biocidal product in a particular Member State or in the Union and specified in the authorisation;
+
+(q) ‘product-type’ means one of the product-types specified in Annex V;
+
+(r) ‘single biocidal product’ means a biocidal product with no intended variations as to the percentage of the active or non-active substances it contains;
+
+(s) ‘biocidal product family’ means a group of biocidal products having:
+
+(i) similar uses;
+
+(ii) the same active substances;
+
+(iii) similar composition with specified variations; and
+
+(iv) similar levels of risk and efficacy;
+
+(t) ‘letter of access’ means an original document, signed by the data owner or its representative, which states that the data may be used for the benefit of a third party by competent authorities, the Agency, or the Commission for the purposes of this Regulation;
+
+(u) ‘food’ and ‘feed’ mean food as defined in Article 2 of Regulation (EC) No 178/2002 and feed as defined in Article 3(4) of that Regulation;
+
+(w) ‘technical equivalence’ means similarity, as regards the chemical composition and hazard profile, of a substance produced either from a source different to the reference source, or from the reference source but following a change to the manufacturing process and/or manufacturing location, compared to the substance of the reference source in respect of which the initial risk assessment was carried out, as established in Article 54;
+
+(x) ‘Agency’ means the European Chemicals Agency established by Regulation (EC) No 1907/2006;
+
+(y) ‘advertisement’ means a means of promoting the sale or use of biocidal products by printed, electronic or other media;
+
+(z) ‘nanomaterial’ means a natural or manufactured active substance or non-active substance containing particles, in an unbound state or as an aggregate or as an agglomerate and where, for 50 % or more of the particles in the number size distribution, one or more external dimensions is in the size range 1-100 nm.
+
+Fullerenes, graphene flakes and single-wall carbon nanotubes with one or more external dimensions below 1 nm shall be considered as nanomaterials.
+
+For the purposes of the definition of nanomaterial, ‘particle’, ‘agglomerate’ and ‘aggregate’ are defined as follows:
+
+— ‘particle’ means a minute piece of matter with defined physical boundaries,
+
+— ‘agglomerate’ means a collection of weakly bound particles or aggregates where the resulting external surface area is similar to the sum of the surface areas of the individual components,
+
+— ‘aggregate’ means a particle comprising strongly bound or fused particles;
+
+(aa) ‘administrative change’ means an amendment of an existing authorisation of a purely administrative nature involving no change to the properties or efficacy of the biocidal product or biocidal product family;
+
+(ab) ‘minor change’ means an amendment of an existing authorisation that is not of a purely administrative nature and requires only a limited re-assessment of the properties or efficacy of the biocidal product or biocidal product family;
+
+(ac) ‘major change’ means an amendment of an existing authorisation which is neither an administrative change nor a minor change;
+
+(ad) ‘vulnerable groups’ means persons needing specific consideration when assessing the acute and chronic health effects of biocidal products. These include pregnant and nursing women, the unborn, infants and children, the elderly and, when subject to high exposure to biocidal products over the long term, workers and residents;
+
+(ae) ‘small and medium-sized enterprises’ or ‘SMEs’ means small and medium-sized enterprises as defined in Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises ( 27 ).
+
+2\. For the purposes of this Regulation, the definitions laid down in Article 3 of Regulation (EC) No 1907/2006 shall apply for the following terms:
+
+(a) ‘substance’;
+
+(b) ‘mixture’;
+
+(c) ‘article’;
+
+(d) ‘product and process-orientated research and development’;
+
+(e) ‘scientific research and development’.
+
+3\. The Commission may, at the request of a Member State, decide, by means of implementing acts, whether a substance is a nanomaterial, having regard in particular to Commission Recommendation 2011/696/EU of 18 October 2011 on the definition of nanomaterial ( 28 ), and whether a specific product or group of products is a biocidal product or a treated article or neither. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 83 in order to adapt the definition of nanomaterial set out in point (z) of paragraph 1 of this Article in view of technical and scientific progress and taking into account the Recommendation 2011/696/EU.
+
+## CHAPTER II — APPROVAL OF ACTIVE SUBSTANCES
+
+#### Article 4 — Conditions for approval
+
+1\. An active substance shall be approved for an initial period not exceeding 10 years if at least one biocidal product containing that active substance may be expected to meet the criteria laid down in point (b) of Article 19(1) taking into account the factors set out in Article 19(2) and (5). An active substance that falls under Article 5 may only be approved for an initial period not exceeding five years.
+
+2\. The approval of an active substance shall be restricted to those product-types for which relevant data have been submitted in accordance with Article 6.
+
+3\. The approval shall specify the following conditions, as appropriate:
+
+(a) the minimum degree of purity of the active substance;
+
+(b) the nature and maximum content of certain impurities;
+
+(c) the product-type;
+
+(d) manner and area of use including, where relevant, use in treated articles;
+
+(e) designation of categories of users;
+
+(f) where relevant, characterisation of the chemical identity with regard to stereoisomers;
+
+(g) other particular conditions based on the evaluation of the information related to that active substance;
+
+(h) the date of approval and the expiry date of the approval of the active substance.
+
+4\. The approval of an active substance shall not cover nanomaterials except where explicitly mentioned.
+
+#### Article 5 — Exclusion criteria
+
+1\. Subject to paragraph 2, the following active substances shall not be approved:
+
+(a) active substances which have been classified in accordance with Regulation (EC) No 1272/2008 as, or which meet the criteria to be classified as, carcinogen category 1A or 1B;
+
+(b) active substances which have been classified in accordance with Regulation (EC) No 1272/2008 as, or which meet the criteria to be classified as, mutagen category 1A or 1B;
+
+(c) active substances which have been classified in accordance with Regulation (EC) No 1272/2008 as, or which meet the criteria to be classified as, toxic for reproduction category 1A or 1B;
+
+(d) active substances which, on the basis of the criteria specified pursuant to the first subparagraph of paragraph 3 or, pending the adoption of those criteria, on the basis of the second and third subparagraphs of paragraph 3, are considered as having endocrine-disrupting properties that may cause adverse effects in humans or which are identified in accordance with Articles 57(f) and 59(1) of Regulation (EC) No 1907/2006 as having endocrine disrupting properties;
+
+(e) active substances which meet the criteria for being PBT or vPvB according to Annex XIII to Regulation (EC) No 1907/2006.
+
+2\. Without prejudice to Article 4(1), active substances referred to in paragraph 1 of this Article may be approved if it is shown that at least one of the following conditions is met:
+
+(a) the risk to humans, animals or the environment from exposure to the active substance in a biocidal product, under realistic worst case conditions of use, is negligible, in particular where the product is used in closed systems or under other conditions which aim at excluding contact with humans and release into the environment;
+
+(b) it is shown by evidence that the active substance is essential to prevent or control a serious danger to human health, animal health or the environment; or
+
+(c) not approving the active substance would have a disproportionate negative impact on society when compared with the risk to human health, animal health or the environment arising from the use of the substance.
+
+When deciding whether an active substance may be approved in accordance with the first subparagraph, the availability of suitable and sufficient alternative substances or technologies shall be a key consideration.
+
+The use of a biocidal product containing active substances approved in accordance with this paragraph shall be subject to appropriate risk-mitigation measures to ensure that exposure of humans, animals and the environment to those active substances is minimised. The use of the biocidal product with the active substances concerned shall be restricted to Member States in which at least one of the conditions set out in this paragraph is met.
+
+3\. No later than 13 December 2013, the Commission shall adopt delegated acts in accordance with Article 83 specifying scientific criteria for the determination of endocrine-disrupting properties.
+
+Pending the adoption of those criteria, active substances that are classified in accordance with Regulation (EC) No 1272/2008 as, or meet the criteria to be classified as, carcinogen category 2 and toxic for reproduction category 2, shall be considered as having endocrine-disrupting properties.
+
+Substances such as those that are classified in accordance with Regulation (EC) No 1272/2008 as, or that meet the criteria to be classified as, toxic for reproduction category 2 and that have toxic effects on the endocrine organs, may be considered as having endocrine-disrupting properties.
+
+#### Article 6 — Data requirements for an application
+
+1\. An application for approval of an active substance shall contain at least the following elements:
+
+(a) a dossier for the active substance satisfying the requirements set out in Annex II;
+
+(b) a dossier satisfying the requirements set out in Annex III for at least one representative biocidal product that contains the active substance; and
+
+(c) if the active substance meets at least one of the exclusion criteria listed in Article 5(1), evidence that Article 5(2) is applicable.
+
+2\. Notwithstanding paragraph 1, the applicant need not provide data as part of the dossiers required under points (a) and (b) of paragraph 1 where any of the following applies:
+
+(a) the data are not necessary owing to the exposure associated with the proposed uses;
+
+(b) it is not scientifically necessary to supply the data; or
+
+(c) it is not technically possible to generate the data.
+
+However, sufficient data shall be provided in order to make it possible to determine whether an active substance meets the criteria referred to in Article 5(1) or Article 10(1), if required by the evaluating competent authority under Article 8(2).
+
+3\. An applicant may propose to adapt the data as part of the dossiers required under points (a) and (b) of paragraph 1 in accordance with Annex IV. The justification for the proposed adaptations to the data requirements shall be clearly stated in the application with a reference to the specific rules in Annex IV.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 83 specifying criteria for determining what constitutes adequate justification to adapt the data requirements under paragraph 1 of this Article on the grounds referred to in point (a) of paragraph 2 of this Article.
+
+#### Article 7 — Submission and validation of applications
+
+1\. The applicant shall submit an application for approval of an active substance, or for making subsequent amendments to the conditions of approval of an active substance, to the Agency, informing it of the name of the competent authority of the Member State that it proposes should evaluate the application and providing written confirmation that that competent authority agrees to do so. That competent authority shall be the evaluating competent authority.
+
+2\. The Agency shall inform the applicant of the fees payable under Article 80(1) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant and the evaluating competent authority accordingly.
+
+Upon receipt of the fees payable under Article 80(1), the Agency shall accept the application and inform the applicant and the evaluating competent authority accordingly, indicating the date of the acceptance of the application and its unique identification code.
+
+3\. Within 30 days of the Agency accepting an application, the evaluating competent authority shall validate the application if the data required in accordance with points (a) and (b) and, where relevant, point (c) of Article 6(1), and any justifications for the adaptation of data requirements, have been submitted.
+
+In the context of the validation referred to in the first subparagraph, the evaluating competent authority shall not make an assessment of the quality or the adequacy of the data or justifications submitted.
+
+The evaluating competent authority shall, as soon as possible after the Agency has accepted an application, inform the applicant of the fees payable under Article 80(2) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+4\. Where the evaluating competent authority considers that the application is incomplete, it shall inform the applicant as to what additional information is required for the validation of the application and shall set a reasonable time limit for the submission of that information. That time limit shall not normally exceed 90 days.
+
+The evaluating competent authority shall, within 30 days of receipt of the additional information, validate the application if it determines that the additional information submitted is sufficient to comply with the requirement laid down in paragraph 3.
+
+The evaluating competent authority shall reject the application if the applicant fails to submit the requested information within the deadline and shall inform the applicant and the Agency accordingly. In such cases, part of the fees paid in accordance with Article 80(1) and (2) shall be reimbursed.
+
+5\. On validating an application in accordance with paragraph 3 or 4, the evaluating competent authority shall without delay inform the applicant, the Agency and other competent authorities accordingly, indicating the date of the validation.
+
+6\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraph 2 of this Article.
+
+#### Article 8 — Evaluation of applications
+
+1\. The evaluating competent authority shall, within 365 days of the validation of an application, evaluate it in accordance with Articles 4 and 5, including, where relevant, any proposal to adapt data requirements submitted in accordance with Article 6(3), and send an assessment report and the conclusions of its evaluation to the Agency.
+
+Prior to submitting its conclusions to the Agency, the evaluating competent authority shall give the applicant the opportunity to provide written comments on the assessment report and on the conclusions of the evaluation within 30 days. The evaluating competent authority shall take due account of those comments when finalising its evaluation.
+
+2\. Where it appears that additional information is necessary to carry out the evaluation, the evaluating competent authority shall ask the applicant to submit such information within a specified time limit, and shall inform the Agency accordingly. As specified in the second subparagraph of Article 6(2), the evaluating competent authority may, as appropriate, require the applicant to provide sufficient data to permit a determination of whether an active substance meets the criteria referred to in Article 5(1) or Article 10(1). The 365-day period referred to in paragraph 1 of this Article shall be suspended from the date of issue of the request until the date the information is received. The suspension shall not exceed 180 days in total unless it is justified by the nature of the data requested or by exceptional circumstances.
+
+3\. Where the evaluating competent authority considers that there are concerns for human health, animal health or the environment as a result of the cumulative effects from the use of biocidal products containing the same or different active substances, it shall document its concerns in accordance with the requirements of the relevant parts of Section II.3 of Annex XV to Regulation (EC) No 1907/2006 and include this as part of its conclusions.
+
+4\. Within 270 days of receipt of the conclusions of the evaluation, the Agency shall prepare and submit to the Commission an opinion on the approval of the active substance having regard to the conclusions of the evaluating competent authority.
+
+#### Article 9 — Approval of an active substance
+
+1\. The Commission shall, on receipt of the opinion of the Agency referred to in Article 8(4), either:
+
+(a) adopt an implementing Regulation providing that an active substance is approved, and under which conditions, including the dates of approval and of expiry of the approval; or
+
+(b) in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, adopt an implementing decision that an active substance is not approved.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+2\. Approved active substances shall be included in a Union list of approved active substances. The Commission shall keep the list up to date and make it electronically available to the public.
+
+#### Article 10 — Active substances which are candidates for substitution
+
+1\. An active substance shall be considered a candidate for substitution if any of the following conditions are met:
+
+(a) it meets at least one of the exclusion criteria listed in Article 5(1) but may be approved in accordance with Article 5(2);
+
+(b) it meets the criteria to be classified, in accordance with Regulation (EC) No 1272/2008, as a respiratory sensitiser;
+
+(c) its acceptable daily intake, acute reference dose or acceptable operator exposure level, as appropriate, is significantly lower than those of the majority of approved active substances for the same product-type and use scenario;
+
+(d) it meets two of the criteria for being PBT in accordance with Annex XIII to Regulation (EC) No 1907/2006;
+
+(e) there are reasons for concern linked to the nature of the critical effects which, in combination with the use patterns, amount to use that could still cause concern, such as high potential of risk to groundwater, even with very restrictive risk management measures;
+
+(f) it contains a significant proportion of non-active isomers or impurities.
+
+2\. When preparing its opinion on the approval or renewal of the approval of an active substance, the Agency shall examine whether the active substance fulfils any of the criteria listed in paragraph 1 and address the matter in its opinion.
+
+3\. Prior to submitting its opinion on the approval or renewal of the approval of an active substance to the Commission, the Agency shall make publicly available, without prejudice to Articles 66 and 67, information on potential candidates for substitution during a period of no more than 60 days, during which time interested third parties may submit relevant information, including information on available substitutes. The Agency shall take due account of the information received when finalising its opinion.
+
+4\. By way of derogation from Article 4(1) and Article 12(3), the approval of an active substance that is considered as a candidate for substitution and each renewal shall be for a period not exceeding seven years.
+
+5\. Active substances that are considered as candidates for substitution in accordance with paragraph 1 shall be identified as such in the relevant Regulation adopted in accordance with Article 9.
+
+#### Article 11 — Technical guidance notes
+
+The Commission shall draw up technical guidance notes to facilitate the implementation of this Chapter, in particular Article 5(2) and Article 10(1).
+
+## CHAPTER III — RENEWAL AND REVIEW OF APPROVAL OF AN ACTIVE SUBSTANCE
+
+#### Article 12 — Conditions for renewal
+
+1\. The Commission shall renew the approval of an active substance if the active substance still meets the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2).
+
+2\. In the light of scientific and technical progress, the Commission shall review and, where appropriate, amend the conditions specified for the active substance referred to in Article 4(3).
+
+3\. The renewal of an approval of an active substance shall be for 15 years for all product-types to which the approval applies, unless a shorter period is specified in the implementing regulation adopted in accordance with point (a) of Article 14(4) renewing such an approval.
+
+#### Article 13 — Submission and acceptance of applications
+
+1\. Applicants wishing to seek renewal of the approval of an active substance for one or more product-types shall submit an application to the Agency at least 550 days before the expiry of the approval. Where there are different expiry dates for different product-types, the application shall be submitted at least 550 days before the earliest expiry date.
+
+2\. When applying for the renewal of the approval of the active substance, the applicant shall submit:
+
+(a) without prejudice to Article 21(1), all relevant data required under Article 20 that it has generated since the initial approval or, as appropriate, previous renewal; and
+
+(b) its assessment of whether the conclusions of the initial or previous assessment of the active substance remain valid and any supporting information.
+
+3\. The applicant shall also submit the name of the competent authority of the Member State that it proposes should evaluate the application for renewal and provide written confirmation that that competent authority agrees to do so. That competent authority shall be the evaluating competent authority.
+
+The Agency shall inform the applicant of the fees payable under Article 80(1) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant and the evaluating competent authority accordingly.
+
+Upon receipt of the fees payable under Article 80(1), the Agency shall accept the application and inform the applicant and the evaluating competent authority accordingly, indicating the date of the acceptance.
+
+4\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraph 3 of this Article.
+
+#### Article 14 — Evaluation of applications for renewal
+
+1\. On the basis of an assessment of the available information and the need to review the conclusions of the initial evaluation of the application for approval or, as appropriate, the previous renewal, the evaluating competent authority shall, within 90 days of the Agency accepting an application in accordance with Article 13(3), decide whether, in the light of current scientific knowledge, a full evaluation of the application for renewal is necessary taking account of all product-types for which renewal is requested.
+
+2\. Where the evaluating competent authority decides that a full evaluation of the application is necessary, the evaluation shall be carried out in accordance with paragraphs 1, 2 and 3 of Article 8.
+
+Where the evaluating competent authority decides that a full evaluation of the application is not necessary, it shall, within 180 days of the Agency accepting the application in accordance with Article 13(3), prepare and submit to the Agency a recommendation on the renewal of the approval of the active substance. It shall provide the applicant with a copy of its recommendation.
+
+The evaluating competent authority shall, as soon as possible after the Agency has accepted an application, notify the applicant of the fees payable under Article 80(2). The evaluating competent authority shall reject the application if the applicant fails to pay the fees within 30 days of the notification and shall inform the applicant accordingly.
+
+3\. Within 270 days of receipt of a recommendation from the evaluating competent authority, if it has carried out a full evaluation of the application, or 90 days otherwise, the Agency shall prepare and submit to the Commission an opinion on renewal of the approval of the active substance.
+
+4\. The Commission shall, on receipt of the opinion of the Agency, adopt:
+
+(a) an implementing regulation providing that the approval of an active substance is renewed for one or more product-types, and under which conditions; or
+
+(b) an implementing decision that the approval of an active substance is not renewed.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+Article 9(2) shall apply.
+
+5\. Where, for reasons beyond the control of the applicant, the approval of the active substance is likely to expire before a decision has been taken on its renewal, the Commission shall, by means of implementing acts, adopt a decision postponing the expiry date of approval for a period sufficient to enable it to examine the application. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 82(2).
+
+6\. Where the Commission decides not to renew or decides to amend the approval of an active substance for one or more product-types, the Member States or, in the case of a Union authorisation, the Commission shall cancel or, where appropriate, amend the authorisations of biocidal products of the product-type(s) concerned containing that active substance. Articles 48 and 52 shall apply accordingly.
+
+#### Article 15 — Review of approval of an active substance
+
+1\. The Commission may review the approval of an active substance for one or more product-types at any time where there are significant indications that the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2) are no longer met. The Commission may also review the approval of an active substance for one or more product-types at the request of a Member State if there are indications that the use of the active substance in biocidal products or treated articles raises significant concerns about the safety of such biocidal products or treated articles. The Commission shall make publicly available the information that it is carrying out a review and shall provide an opportunity for applicant to submit comments. The Commission shall take due account of those comments in its review.
+
+Where those indications are confirmed, the Commission shall adopt an implementing Regulation amending the conditions of approval of an active substance or cancelling its approval. That implementing Regulation shall be adopted in accordance with the examination procedure referred to in Article 82(3). Article 9(2) shall apply. The Commission shall inform the initial applicants for the approval accordingly.
+
+On duly justified imperative grounds of urgency the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 82(4).
+
+2\. The Commission may consult the Agency on any questions of a scientific or technical nature related to the review of approval of an active substance. The Agency shall, within 270 days of the request, prepare an opinion and submit it to the Commission.
+
+3\. Where the Commission decides to cancel or amend the approval of an active substance for one or more product-types, the Member States or, in the case of a Union authorisation, the Commission shall cancel or, where appropriate, amend the authorisations of biocidal products of the product-type(s) concerned containing that active substance. Articles 48 and 52 shall apply accordingly.
+
+#### Article 16 — Implementing measures
+
+The Commission may adopt, by means of implementing acts, detailed measures for the implementation of Articles 12 to 15, further specifying the procedures for the renewal and review of the approval of an active substance. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+## CHAPTER IV — GENERAL PRINCIPLES CONCERNING THE AUTHORISATION OF BIOCIDAL PRODUCTS
+
+#### Article 17 — Making available on the market and use of biocidal products
+
+1\. Biocidal products shall not be made available on the market or used unless authorised in accordance with this Regulation.
+
+2\. Applications for authorisation shall be made by, or on behalf of, the prospective authorisation holder.
+
+Applications for national authorisation in a Member State shall be submitted to the competent authority of that Member State (‘the receiving competent authority’).
+
+Applications for Union authorisation shall be submitted to the Agency.
+
+3\. An authorisation may be granted for a single biocidal product or a biocidal product family.
+
+4\. An authorisation shall be granted for a maximum period of 10 years.
+
+5\. Biocidal products shall be used in compliance with the terms and conditions of the authorisation stipulated in accordance with Article 22(1) and the labelling and packaging requirements laid down in Article 69.
+
+Proper use shall involve the rational application of a combination of physical, biological, chemical or other measures as appropriate, whereby the use of biocidal products is limited to the minimum necessary and appropriate precautionary steps are taken.
+
+Member States shall take necessary measures to provide the public with appropriate information about the benefits and risks associated with biocidal products and ways of minimising their use.
+
+6\. The authorisation holder shall notify each competent authority that has granted a national authorisation for a biocidal product family of each product within the biocidal product family at least 30 days before placing it on the market, except where a particular product is explicitly identified in the authorisation or the variation in composition concerns only pigments, perfumes and dyes within the permitted variations. The notification shall indicate the exact composition, trade name and suffix to the authorisation number. In the case of a Union authorisation, the authorisation holder shall notify the Agency and the Commission.
+
+7\. The Commission shall, by means of an implementing act, specify procedures for the authorisation of the same biocidal products by the same or different enterprises under the same terms and conditions. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+#### Article 18 — Measures geared to the sustainable use of biocidal products
+
+By 18 July 2015 the Commission shall, on the basis of experience gained with the application of this Regulation, submit to the European Parliament and the Council a report on how this Regulation is contributing to the sustainable use of biocidal products, including on the need to introduce additional measures, in particular for professional users, to reduce the risks posed to human health, animal health and the environment by biocidal products. That report shall, inter alia, examine:
+
+(a) the promotion of best practices as a means of reducing the use of biocidal products to a minimum;
+
+(b) the most effective approaches for monitoring the use of biocidal products;
+
+(c) the development and application of integrated pest management principles with respect to the use of biocidal products;
+
+(d) the risks posed by the use of biocidal products in specific areas such as schools, workplaces, kindergartens, public spaces, geriatric care centres or in the vicinity of surface water or groundwater and whether additional measures are needed to address those risks;
+
+(e) the role that improved performance of the equipment used for applying biocidal products could play in sustainable use.
+
+On basis of that report, the Commission shall, if appropriate, submit a proposal for adoption in accordance with the ordinary legislative procedure.
+
+#### Article 19 — Conditions for granting an authorisation
+
+1\. A biocidal product other than those eligible for the simplified authorisation procedure in accordance with Article 25 shall be authorised provided the following conditions are met:
+
+(a) the active substances are included in Annex I or approved for the relevant product-type and any conditions specified for those active substances are met;
+
+(b) it is established, according to the common principles for the evaluation of dossiers for biocidal products laid down in Annex VI, that the biocidal product, when used as authorised and having regard to the factors referred to in paragraph 2 of this Article, fulfils the following criteria:
+
+(i) the biocidal product is sufficiently effective;
+
+(ii) the biocidal product has no unacceptable effects on the target organisms, in particular unacceptable resistance or cross-resistance or unnecessary suffering and pain for vertebrates;
+
+(iii) the biocidal product has no immediate or delayed unacceptable effects itself, or as a result of its residues, on the health of humans, including that of vulnerable groups, or animals, directly or through drinking water, food, feed, air, or through other indirect effects;
+
+(iv) the biocidal product has no unacceptable effects itself, or as a result of its residues, on the environment, having particular regard to the following considerations:
+
+— the fate and distribution of the biocidal product in the environment,
+
+— contamination of surface waters (including estuarial and seawater), groundwater and drinking water, air and soil, taking into account locations distant from its use following long-range environmental transportation,
+
+— the impact of the biocidal product on non-target organisms,
+
+— the impact of the biocidal product on biodiversity and the ecosystem;
+
+(c) the chemical identity, quantity and technical equivalence of active substances in the biocidal product and, where appropriate, any toxicologically or ecotoxicologically significant and relevant impurities and non-active substances, and its residues of toxicological or environmental significance, which result from uses to be authorised, can be determined according to the relevant requirements in Annexes II and III;
+
+(d) the physical and chemical properties of the biocidal product have been determined and deemed acceptable for the purposes of the appropriate use and transport of the product;
+
+(e) where appropriate, maximum residue limits for food and feed have been established with respect to active substances contained in a biocidal product in accordance with Council Regulation (EEC) No 315/93 ( 29 ), Regulation (EC) No 396/2005 of the European Parliament and of the Council ( 30 ), Regulation (EC) No 470/2009 of the European Parliament and of the Council ( 31 ) or Directive 2002/32/EC of the European Parliament and of the Council ( 32 ), or specific migration limits or limits for the residual content in food contact materials have been established with respect to such active substances in accordance with Regulation (EC) No 1935/2004 of the European Parliament and of the Council ( 33 );
+
+(f) where nanomaterials are used in that product, the risk to human health, animal health and the environment has been assessed separately.
+
+2\. The evaluation of whether a biocidal product fulfils the criteria set out in point (b) of paragraph 1 shall take into account the following factors:
+
+(a) realistic worst case conditions under which the biocidal product may be used;
+
+(b) the way in which treated articles treated with the biocidal product or containing the biocidal product may be used;
+
+(c) the consequences of use and disposal of the biocidal product;
+
+(d) cumulative effects;
+
+(e) synergistic effects.
+
+3\. A biocidal product shall only be authorised for uses for which relevant information has been submitted in accordance with Article 20.
+
+4\. A biocidal product shall not be authorised for making available on the market for use by the general public where:
+
+(a) it meets the criteria according to Directive 1999/45/EC for classification as:
+
+— toxic or very toxic,
+
+— a category 1 or 2 carcinogen,
+
+— a category 1 or 2 mutagen, or
+
+— toxic for reproduction category 1 or 2;
+
+(b) it meets the criteria according to Regulation (EC) No 1272/2008 for classification as:
+
+— acute oral toxicity category 1, 2 or 3,
+
+— acute dermal toxicity category 1, 2 or 3,
+
+— acute inhalation toxicity (gases and dust/mist) category 1, 2 or 3,
+
+— acute inhalation toxicity (vapours) category 1 or 2,
+
+— specific target organ toxicity by single or repeated exposure category 1,
+
+— a category 1A or 1B carcinogen,
+
+— a category 1A or 1B mutagen, or
+
+— toxic for reproduction category 1A or 1B;
+
+(c) it consists of, contains or generates, a substance that meets the criteria for being PBT or vPvB in accordance with Annex XIII to Regulation (EC) No 1907/2006;
+
+(d) it has endocrine-disrupting properties; or
+
+(e) it has developmental neurotoxic or immunotoxic effects.
+
+5\. Notwithstanding paragraphs 1 and 4, a biocidal product may be authorised when the conditions laid down in paragraph 1(b)(iii) and (iv) are not fully met, or may be authorised for making available on the market for use by the general public when the criteria referred to in paragraph 4(c) are met, where not authorising the biocidal product would result in disproportionate negative impacts for society when compared to the risks to human health, animal health or the environment arising from the use of the biocidal product under the conditions laid down in the authorisation.
+
+The use of a biocidal product authorised pursuant to this paragraph shall be subject to appropriate risk mitigation measures to ensure that exposure of humans and the environment to that biocidal product is minimised. The use of a biocidal product authorised pursuant to this paragraph shall be restricted to Member States in which the condition of the first subparagraph is met.
+
+6\. The assessment of the biocidal product family conducted according to the common principles set out in Annex VI shall consider the maximum risks to human health, animal health and the environment and the minimum level of efficacy over the whole potential range of products within the biocidal product family.
+
+A biocidal product family shall be authorised only if:
+
+(a) the application explicitly identifies the maximum risks to human health, animal health and the environment, and the minimum level of efficacy, on which the assessment is based, as well as the permitted variations in composition and uses referred to in point (s) of Article 3(1) together with their respective classification, hazard and precautionary statements and any appropriate risk mitigation measures; and
+
+(b) it can be established based on the assessment referred to in the first subparagraph of this paragraph that all the biocidal products within the family comply with the conditions set out in paragraph 1.
+
+7\. Where appropriate, the prospective authorisation holder or its representative shall apply for the establishment of maximum residue limits with respect to active substances contained in a biocidal product in accordance with Regulation (EEC) No 315/93, Regulation (EC) No 396/2005, Regulation (EC) No 470/2009 or Directive 2002/32/EC, or for the establishment of specific migration limits or limits for the residual content in food contact materials with respect to such substances in accordance with Regulation (EC) No 1935/2004.
+
+8\. Where, for active substances covered by Article 10(1)(a) of Regulation (EC) No 470/2009, no maximum residue limit has been established in accordance with Article 9 of that Regulation at the time of the approval of the active substance, or where a limit established in accordance with Article 9 of that Regulation needs to be amended, the maximum residue limit shall be established or amended in accordance with the procedure referred to in Article 10(1)(b) of that Regulation.
+
+9\. Where a biocidal product is intended for direct application to the external parts of the human body (epidermis, hair system, nails, lips and external genital organs), or to the teeth and the mucous membranes of the oral cavity, it shall not contain any non-active substance that may not be included in a cosmetic product pursuant to Regulation (EC) No 1223/2009.
+
+#### Article 20 — Requirements for applications for authorisation
+
+1\. The applicant for an authorisation shall submit the following documents together with the application:
+
+(a) for biocidal products other than biocidal products meeting the conditions laid down in Article 25:
+
+(i) a dossier or letter of access for the biocidal product satisfying the requirements set out in Annex III;
+
+(ii) a summary of the biocidal product characteristics including the information referred to in points (a), (b) and (e) to (q) of Article 22(2), as applicable;
+
+(iii) a dossier or a letter of access for the biocidal product satisfying the requirements set out in Annex II for each active substance in the biocidal product;
+
+(b) for biocidal products that the applicant considers meet the conditions laid down in Article 25:
+
+(i) a summary of the biocidal product characteristics as referred to in point (a)(ii) of this paragraph;
+
+(ii) efficacy data; and
+
+(iii) any other relevant information in support of the conclusion that the biocidal product meets the conditions laid down in Article 25.
+
+2\. The receiving competent authority may require that applications for national authorisation be submitted in one or more of the official languages of the Member State where that competent authority is situated.
+
+3\. For applications for Union authorisations submitted under Article 43, the applicant shall submit the summary of the biocidal product characteristics referred to in point (ii) of paragraph (1)(a) of this Article in one of the official languages of the Union accepted by the evaluating competent authority at the time of application and in all official languages of the Union before the authorisation of the biocidal product.
+
+#### Article 21 — Waiving of data requirements
+
+1\. By way of derogation from Article 20, the applicant need not provide data required under that Article where any of the following applies:
+
+(a) the data are not necessary owing to the exposure associated with the proposed uses;
+
+(b) it is not scientifically necessary to supply the data; or
+
+(c) it is not technically possible to generate the data.
+
+2\. The applicant may propose to adapt the data requirements of Article 20 in accordance with Annex IV. The justification for the proposed adaptations to the data requirements shall be clearly stated in the application with reference to the specific rules in Annex IV.
+
+3\. In order to ensure the harmonised application of paragraph 1(a) of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 specifying criteria for defining when the exposure associated with the proposed uses would justify adapting the data requirements of Article 20.
+
+#### Article 22 — Content of authorisation
+
+1\. An authorisation shall stipulate the terms and conditions relating to the making available on the market and use of the single biocidal product or the biocidal product family and include a summary of the biocidal product characteristics.
+
+2\. Without prejudice to Articles 66 and 67, the summary of the biocidal product characteristics for a single biocidal product or, in the case of a biocidal product family, the biocidal products within that biocidal product family, shall include the following information:
+
+(a) trade name of the biocidal product;
+
+(b) name and address of the authorisation holder;
+
+(c) date of the authorisation and its date of expiry;
+
+(d) authorisation number of the biocidal product, together with, in the case of a biocidal product family, the suffixes to apply to individual biocidal products within the biocidal product family;
+
+(e) qualitative and quantitative composition in terms of the active substances and non-active substances, knowledge of which is essential for proper use of biocidal products; and in the case of a biocidal product family, the quantitative composition shall indicate a minimum and maximum percentage for each active and non-active substance, where the minimum percentage indicated for certain substances may be 0 %;
+
+(f) manufacturers of the biocidal product (names and addresses including location of manufacturing sites);
+
+(g) manufacturers of the active substances (names and addresses including location of manufacturing sites);
+
+(h) type of formulation of the biocidal product;
+
+(i) hazard and precautionary statements;
+
+(j) product-type and, where relevant, an exact description of the authorised use;
+
+(k) target harmful organisms;
+
+(l) application doses and instructions for use;
+
+(m) categories of users;
+
+(n) particulars of likely direct or indirect adverse effects and first aid instructions and emergency measures to protect the environment;
+
+(o) instructions for safe disposal of the product and its packaging;
+
+(p) conditions of storage and shelf-life of the biocidal product under normal conditions of storage;
+
+(q) where relevant, other information about the biocidal product.
+
+#### Article 23 — Comparative assessment of biocidal products
+
+1\. The receiving competent authority or, in the case of an evaluation of an application for a Union authorisation, the evaluating competent authority, shall perform a comparative assessment as part of the evaluation of an application for authorisation or for renewal of authorisation of a biocidal product containing an active substance that is a candidate for substitution in accordance with Article 10(1).
+
+2\. The results of the comparative assessment shall be forwarded, without delay, to the competent authorities of other Member States and the Agency and, in the case of evaluation of an application for a Union authorisation, also to the Commission.
+
+3\. The receiving competent authority or, in the case of a decision on an application for a Union authorisation, the Commission, shall prohibit or restrict the making available on the market or the use of a biocidal product containing an active substance that is a candidate for substitution where a comparative assessment, performed in accordance with the technical guidance notes referred to in Article 24, demonstrates that both of the following criteria are met:
+
+(a) for the uses specified in the application, another authorised biocidal product or a non-chemical control or prevention method already exists which presents a significantly lower overall risk for human health, animal health and the environment, is sufficiently effective and presents no other significant economic or practical disadvantages;
+
+(b) the chemical diversity of the active substances is adequate to minimise the occurrence of resistance in the target harmful organism.
+
+4\. By way of derogation from paragraph 1, a biocidal product containing an active substance that is a candidate for substitution may be authorised for a period of up to four years without comparative assessment in exceptional cases where it is necessary to acquire experience first through using that product in practice.
+
+5\. Where the comparative assessment involves a question which, by reason of its scale or consequences, would be better addressed at Union level, in particular where it is relevant to two or more competent authorities, the receiving competent authority may refer the question to the Commission for a decision. The Commission shall adopt that decision by means of implementing acts in accordance with the examination procedure referred to in Article 82(3).
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 83 specifying the criteria for determining when comparative assessments involve questions better addressed at Union level and the procedures for such comparative assessments.
+
+6\. Notwithstanding Article 17(4), and without prejudice to paragraph 4 of this Article, an authorisation for a biocidal product containing an active substance that is a candidate for substitution shall be granted for a period not exceeding five years and renewed for a period not exceeding five years.
+
+7\. Where it is decided not to authorise or to restrict the use of a biocidal product pursuant to paragraph 3, that cancellation or amendment of the authorisation shall take effect four years after that decision. However, where the approval of the active substance which is a candidate for substitution expires on an earlier date, the cancellation of the authorisation shall take effect on that earlier date.
+
+#### Article 24 — Technical guidance notes
+
+The Commission shall draw up technical guidance notes to facilitate the implementation of this Chapter and, in particular, Article 22(2) and Article 23(3).
+
+## CHAPTER V — SIMPLIFIED AUTHORISATION PROCEDURE
+
+#### Article 25 — Eligibility for the simplified authorisation procedure
+
+For eligible biocidal products, an application for authorisation may be made under a simplified authorisation procedure. A biocidal product shall be eligible if all the following conditions are met:
+
+(a) all the active substances contained in the biocidal product appear in Annex I and satisfy any restriction specified in that Annex;
+
+(b) the biocidal product does not contain any substance of concern;
+
+(c) the biocidal product does not contain any nanomaterials;
+
+(d) the biocidal product is sufficiently effective; and
+
+(e) the handling of the biocidal product and its intended use do not require personal protective equipment.
+
+#### Article 26 — Applicable procedure
+
+1\. Applicants seeking the authorisation of a biocidal product meeting the conditions of Article 25 shall submit an application to the Agency, informing it of the name of the competent authority of the Member State that it proposes should evaluate the application and providing written confirmation that that competent authority agrees to do so. That competent authority shall be the evaluating competent authority.
+
+2\. The evaluating competent authority shall inform the applicant of the fees payable under Article 80(2) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+Upon receipt of the fees payable under Article 80(2), the evaluating competent authority shall accept the application and inform the applicant accordingly, indicating the date of the acceptance.
+
+3\. Within 90 days of accepting an application, the evaluating competent authority shall authorise the biocidal product if satisfied that the product meets the conditions laid down in Article 25.
+
+4\. Where the evaluating competent authority considers that the application is incomplete, it shall inform the applicant as to what additional information is required and shall set a reasonable time limit for the submission of that information. That time limit shall not normally exceed 90 days.
+
+The evaluating competent authority shall, within 90 days of receipt of the additional information, authorise the biocidal product if satisfied, on the basis of the additional information submitted, that the product meets the conditions laid down in Article 25.
+
+The evaluating competent authority shall reject the application if the applicant fails to submit the requested information within the deadline and shall inform the applicant accordingly. In such cases, where fees have been paid, part of the fees paid in accordance with Article 80(2) shall be reimbursed.
+
+#### Article 27 — Making available on the market of biocidal products authorised in accordance with the simplified authorisation procedure
+
+1\. A biocidal product authorised in accordance with Article 26 may be made available on the market in all Member States without the need for mutual recognition. However, the authorisation holder shall notify each Member State no later than 30 days before placing the biocidal product on the market within the territory of that Member State and shall use the official language or languages of that Member State in the product’s labelling, unless that Member State provides otherwise.
+
+2\. Where a Member State other than that of the evaluating competent authority considers that a biocidal product authorised in accordance with Article 26 has not been notified or labelled in accordance with paragraph 1 of this Article or does not meet the requirements of Article 25, it may refer that matter to the coordination group established in accordance with Article 35(1). Article 35(3) and Article 36 shall apply mutatis mutandis.
+
+Where a Member State has valid reasons to consider that a biocidal product authorised in accordance with Article 26 does not meet the criteria laid down in Article 25 and a decision pursuant to Articles 35 and 36 has not yet been taken, that Member State may provisionally restrict or prohibit making available on the market or use of that product on its territory.
+
+#### Article 28 — Amendment of Annex I
+
+1\. The Commission shall be empowered to adopt delegated acts in accordance with Article 83 amending Annex I, after receiving the opinion of the Agency, in order to include active substances provided that there is evidence that they do not give rise to concern according to paragraph 2 of this Article.
+
+2\. Active substances give rise to concern where:
+
+(a) they meet the criteria for classification according to Regulation (EC) No 1272/2008 as:
+
+— explosive/highly flammable,
+
+— organic peroxide,
+
+— acutely toxic of category 1, 2 or 3,
+
+— corrosive of category 1A, 1B or 1C,
+
+— respiratory sensitiser,
+
+— skin sensitiser,
+
+— germ cell mutagen of category 1 or 2;
+
+— carcinogen of category 1 or 2,
+
+— human reproductive toxicant of category 1 or 2 or with effects on or via lactation,
+
+— specific target organ toxicant by single or repeated exposure, or
+
+— toxic to aquatic life of acute category 1;
+
+(b) they fulfil any of the substitution criteria set out in Article 10(1); or
+
+(c) they have neurotoxic or immunotoxic properties.
+
+Active substances also give rise to concern, even if none of the specific criteria in points (a) to (c) are met, where a level of concern equivalent to that arising from points (a) to (c) can be reasonably demonstrated based on reliable information.
+
+3\. The Commission shall also be empowered to adopt delegated acts in accordance with Article 83 amending Annex I, after receiving the opinion of the Agency, in order to restrict or to remove the entry for an active substance if there is evidence that biocidal products containing that substance do not, in certain circumstances, satisfy the conditions set out in paragraph 1 of this Article or in Article 25. Where imperative grounds of urgency so require, the procedure provided for in Article 84 shall apply to delegated acts adopted pursuant to this paragraph.
+
+4\. The Commission shall apply paragraph 1 or 3 at its own initiative or at the request of an economic operator or a Member State providing the necessary evidence as referred to in those paragraphs.
+
+Whenever the Commission amends Annex I it shall adopt a separate delegated act in respect of each substance.
+
+5\. The Commission may adopt implementing acts further specifying the procedures to be followed with respect to an amendment of Annex I. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+## CHAPTER VI — NATIONAL AUTHORISATIONS OF BIOCIDAL PRODUCTS
+
+#### Article 29 — Submission and validation of applications
+
+1\. Applicants wishing to apply for a national authorisation in accordance with Article 17 shall submit an application to the receiving competent authority. The receiving competent authority shall inform the applicant of the fees payable under Article 80(2), and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly. Upon receipt of the fees payable under Article 80(2), the receiving competent authority shall accept the application and inform the applicant accordingly, indicating the date of the acceptance.
+
+2\. Within 30 days of acceptance, the receiving competent authority shall validate the application if it complies with the following requirements:
+
+(a) the relevant information referred to in Article 20 has been submitted; and
+
+(b) the applicant states that it has not applied to any other competent authority for a national authorisation for the same biocidal product for the same use(s).
+
+In the context of the validation referred to in the first subparagraph, the receiving competent authority shall not make an assessment of the quality or the adequacy of the data or justifications submitted.
+
+3\. Where the receiving competent authority considers that the application is incomplete, it shall inform the applicant as to what additional information is required for the validation of the application and shall set a reasonable time limit for the submission of that information. That time limit shall not normally exceed 90 days.
+
+The receiving competent authority shall, within 30 days of receipt of the additional information, validate the application if it determines that the additional information submitted is sufficient to comply with the requirements laid down in paragraph 2.
+
+The receiving competent authority shall reject the application if the applicant fails to submit the requested information within the deadline and shall inform the applicant accordingly.
+
+4\. Where the Register for Biocidal Products referred to in Article 71 shows that a competent authority other than the receiving competent authority is examining an application relating to the same biocidal product or has already authorised the same biocidal product, the receiving competent authority shall decline to evaluate the application. In that event, the receiving competent authority shall inform the applicant of the possibility of seeking mutual recognition in accordance with Article 33 or 34.
+
+5\. If paragraph 3 does not apply and the receiving competent authority considers that the application is complete, it shall validate the application and without delay inform the applicant accordingly, indicating the date of the validation.
+
+#### Article 30 — Evaluation of applications
+
+1\. The receiving competent authority shall, within 365 days of the validation of an application in accordance with Article 29, decide whether to grant an authorisation in accordance with Article 19. It shall take into account the results of the comparative assessment carried out in accordance with Article 23, if applicable.
+
+2\. Where it appears that additional information is necessary to carry out the evaluation, the receiving competent authority shall ask the applicant to submit such information within a specified time limit. The 365-day period referred to in paragraph 1 shall be suspended from the date of issue of the request until the date the information is received. The suspension shall not exceed 180 days in total unless it is justified by the nature of the data requested or by exceptional circumstances.
+
+The receiving competent authority shall reject the application if the applicant fails to submit the requested information within the deadline and shall inform the applicant accordingly.
+
+3\. Within the 365-day period referred to in paragraph 1, the receiving competent authority shall:
+
+(a) draft a report summarising the conclusions of its assessment and the reasons for authorising the biocidal product or for refusing to grant an authorisation (the ‘assessment report’);
+
+(b) send an electronic copy of the draft assessment report to the applicant and provide it with the opportunity to submit comments within 30 days; and
+
+(c) take due account of those comments when finalising its assessment.
+
+#### Article 31 — Renewal of a national authorisation
+
+1\. An application by or on behalf of an authorisation holder wishing to seek the renewal of a national authorisation for one or more product-types shall be submitted to the receiving competent authority at least 550 days before the expiry date of the authorisation. Where renewal is sought for more than one product-type, the application shall be submitted at least 550 days before the earliest expiry date.
+
+2\. The receiving competent authority shall renew the national authorisation, provided that the conditions set out in Article 19 are still satisfied. It shall take into account the results of the comparative assessment carried out in accordance with Article 23, if applicable.
+
+3\. When applying for renewal, the applicant shall submit:
+
+(a) without prejudice to Article 21(1), all relevant data required under Article 20 that it has generated since the initial authorisation or, as appropriate, previous renewal; and
+
+(b) its assessment of whether the conclusions of the initial or previous assessment of the biocidal product remain valid and any supporting information.
+
+4\. The receiving competent authority shall inform the applicant of the fees payable under Article 80(2) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+Upon receipt of the fees payable under Article 80(2), the receiving competent authority shall accept the application and inform the applicant accordingly, indicating the date of the acceptance.
+
+5\. On the basis of an assessment of the available information and the need to review the conclusions of the initial evaluation of the application for authorisation or, as appropriate, the previous renewal, the receiving competent authority shall, within 90 days of accepting an application in accordance with paragraph 4, decide whether, in the light of current scientific knowledge, a full evaluation of the application for renewal is necessary taking account of all product-types for which renewal is requested.
+
+6\. Where the receiving competent authority decides that a full evaluation of the application is necessary, it shall decide on the renewal of the authorisation after carrying out an evaluation of the application in accordance with paragraphs 1, 2 and 3 of Article 30.
+
+Where the receiving competent authority decides that a full evaluation of the application is not necessary, it shall decide on the renewal of the authorisation within 180 days of accepting the application in accordance with paragraph 4 of this Article.
+
+7\. Where, for reasons beyond the control of the holder of a national authorisation, no decision is taken on the renewal of that authorisation before its expiry, the receiving competent authority shall grant a renewal for the period necessary to complete the evaluation.
+
+## CHAPTER VII — MUTUAL RECOGNITION PROCEDURES
+
+#### Article 32 — Authorisation through mutual recognition
+
+1\. Applications for mutual recognition of a national authorisation shall be made in accordance with the procedures set out in Article 33 (mutual recognition in sequence) or Article 34 (mutual recognition in parallel).
+
+2\. Without prejudice to Article 37, all Member States receiving applications for mutual recognition of a national authorisation for a biocidal product shall, in accordance with and subject to the procedures set out in this Chapter, authorise the biocidal product under the same terms and conditions.
+
+#### Article 33 — Mutual recognition in sequence
+
+1\. Applicants wishing to seek the mutual recognition in sequence, in one or more Member States (‘the Member States concerned’), of the national authorisation of a biocidal product already granted in another Member State in accordance with Article 17 (‘the reference Member State’) shall submit an application to each of the competent authorities of the Member States concerned containing, in each case, a translation of the national authorisation granted by the reference Member State into such official languages of the Member State concerned as it may require.
+
+The competent authorities of the Member States concerned shall inform the applicant of the fees payable under Article 80 and shall reject the application if the applicant fails to pay the fees within 30 days. They shall inform the applicant and the other competent authorities accordingly. Upon receipt of the fees payable under Article 80, the competent authorities of the Member States concerned shall accept the application and inform the applicant indicating the date of acceptance.
+
+2\. Within 30 days of acceptance referred to in paragraph 1, the Member States concerned shall validate the application and inform the applicant accordingly, indicating the date of the validation.
+
+Within 90 days of validating the application, and subject to Articles 35, 36 and 37, the Member States concerned shall agree on the summary of biocidal product characteristics referred to in Article 22(2) and shall record their agreement in the Register for Biocidal Products.
+
+3\. Within 30 days of reaching agreement, each of the Member States concerned shall authorise the biocidal product in conformity with the agreed summary of biocidal product characteristics.
+
+4\. Without prejudice to Articles 35, 36, and 37, if no agreement is reached within the 90-day period referred to in the second subparagraph of paragraph 2, each Member State that agrees to the summary of biocidal product characteristics referred to in paragraph 2, may authorise the product accordingly.
+
+#### Article 34 — Mutual recognition in parallel
+
+1\. Applicants wishing to seek the mutual recognition in parallel of a biocidal product which has not yet been authorised in accordance with Article 17 in any Member State shall submit to the competent authority of the Member State of its choice (‘the reference Member State’) an application containing:
+
+(a) the information referred to in Article 20;
+
+(b) a list of all other Member States where a national authorisation is sought (‘the Member States concerned’).
+
+The reference Member State shall be responsible for the evaluation of the application.
+
+2\. The applicant shall, at the same time as submitting the application to the reference Member State in accordance with paragraph 1, submit to the competent authorities of each of the Member States concerned an application for mutual recognition of the authorisation for which it has applied to the reference Member State. This application shall contain:
+
+(a) the names of the reference Member State and of the Member States concerned;
+
+(b) the summary of biocidal product characteristics referred to in Article 20(1)(a)(ii) in such official languages of the Member States concerned as they may require.
+
+3\. The competent authorities of the reference Member State and of the Member States concerned shall inform the applicant of the fees payable in accordance with Article 80 and shall reject the application if the applicant fails to pay the fees within 30 days. They shall inform the applicant and the other competent authorities accordingly. Upon receipt of the fees payable under Article 80, the competent authorities of the reference Member State and of the Member States concerned shall accept the application and inform the applicant indicating the date of acceptance.
+
+4\. The reference Member State shall validate the application in accordance with Article 29(2) and (3) and inform the applicant and the Member States concerned accordingly.
+
+Within 365 days of validating an application, the reference Member State shall evaluate the application and draft an assessment report in accordance with Article 30 and shall send its assessment report and the summary of biocidal product characteristics to the Member States concerned and to the applicant.
+
+5\. Within 90 days of receipt of the documents referred to in paragraph 4, and subject to Articles 35, 36 and 37, the Member States concerned shall agree on the summary of biocidal product characteristics, and shall record their agreement in the Register for Biocidal Products. The reference Member State shall enter the agreed summary of biocidal product characteristics and the final assessment report in the Register for Biocidal Products, together with any agreed terms or conditions imposed on the making available on the market or use of the biocidal product.
+
+6\. Within 30 days of reaching agreement, the reference Member State and each of the Member States concerned shall authorise the biocidal product in conformity with the agreed summary of biocidal product characteristics.
+
+7\. Without prejudice to Articles 35, 36, and 37, if no agreement is reached within the 90-day period referred to in paragraph 5, each Member State that agrees to the summary of biocidal product characteristics referred to in paragraph 5 may authorise the product accordingly.
+
+#### Article 35 — Referral of objections to the coordination group
+
+1\. A coordination group shall be set up to examine any question, other than matters referred to in Article 37, relating to whether a biocidal product for which an application for mutual recognition has been made in accordance with Article 33 or 34 meets the conditions for granting an authorisation laid down in Article 19.
+
+All Member States and the Commission shall be entitled to participate in the work of the coordination group. The Agency shall provide the secretariat of the coordination group.
+
+The coordination group shall establish its rules of procedure.
+
+2\. If any of the Member States concerned considers that a biocidal product assessed by the reference Member State does not meet the conditions laid down in Article 19, it shall send a detailed explanation of the points of disagreement and the reasons for its position to the reference Member State, the other Member States concerned, the applicant, and, where applicable, to the authorisation holder. The points of disagreement shall be referred without delay to the coordination group.
+
+3\. Within the coordination group, all Member States referred to in paragraph 2 of this Article shall use their best endeavours to reach agreement on the action to be taken. They shall allow the applicant the opportunity to make its point of view known. Where they reach agreement within 60 days of the referral of the points of disagreement referred to in paragraph 2 of this Article, the reference Member State shall record the agreement in the Register for Biocidal Products. The procedure shall then be considered to be closed and the reference Member State and each of the Member States concerned shall authorise the biocidal product in accordance with Article 33(3) or 34(6) as appropriate.
+
+#### Article 36 — Referral of unresolved objections to the Commission
+
+1\. If the Member States referred to in Article 35(2) fail to reach agreement within the 60-day period laid down in Article 35(3), the reference Member State shall immediately inform the Commission, and provide it with a detailed statement of the matters on which Member States have been unable to reach agreement and the reasons for their disagreement. A copy of that statement shall be forwarded to the Member States concerned, the applicant and, where applicable, the authorisation holder.
+
+2\. The Commission may ask the Agency for an opinion on scientific or technical questions raised by Member States. Where the Commission does not ask the Agency for an opinion it shall provide the applicant and, where applicable, the authorisation holder with the opportunity to provide written comments within 30 days.
+
+3\. The Commission shall adopt, by means of implementing acts, a decision on the matter referred to it. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+4\. The decision referred to in paragraph 3 shall be addressed to all Member States and reported for information to the applicant and, where applicable, the authorisation holder. The Member States concerned and the reference Member State shall, within 30 days of notification of the decision, either grant, refuse to grant or cancel the authorisation, or vary its terms and conditions as necessary to comply with the decision.
+
+#### Article 37 — Derogations from mutual recognition
+
+1\. By way of derogation from Article 32(2), any of the Member States concerned may propose to refuse to grant an authorisation or to adjust the terms and conditions of the authorisation to be granted, provided that such a measure can be justified on grounds of:
+
+(a) the protection of the environment;
+
+(b) public policy or public security;
+
+(c) the protection of health and life of humans, particularly of vulnerable groups, or of animals or plants;
+
+(d) the protection of national treasures possessing artistic, historic or archaeological value; or
+
+(e) the target organisms not being present in harmful quantities.
+
+Any of the Member States concerned may, in particular, propose in accordance with the first subparagraph to refuse to grant an authorisation or to adjust the terms and conditions of the authorisation to be granted for a biocidal product containing an active substance to which Article 5(2) or Article 10(1) applies.
+
+2\. The Member State concerned shall communicate to the applicant a detailed statement of the grounds for seeking a derogation pursuant to paragraph 1 and shall seek to reach an agreement with the applicant on the proposed derogation.
+
+If the Member State concerned is unable to reach agreement with the applicant or receives no reply from the applicant within 60 days of that communication it shall inform the Commission. In that case, the Commission:
+
+(a) may ask the Agency for an opinion on scientific or technical questions raised by the applicant or the Member State concerned;
+
+(b) shall adopt a decision on the derogation in accordance with the examination procedure referred to in Article 82(3).
+
+The Commission’s decision shall be addressed to the Member State concerned and the Commission shall inform the applicant thereof.
+
+The Member State concerned shall take necessary measures to comply with the Commission’s decision within 30 days of its notification.
+
+3\. If the Commission has not adopted a decision pursuant to paragraph 2 within 90 days of being informed in accordance with the second subparagraph of paragraph 2, the Member State concerned may implement the derogation proposed pursuant to paragraph 1.
+
+‘While the procedure under this Article is ongoing, the Member States’ obligation to authorise a biocidal product within three years of the date of approval, referred to in the first subparagraph of Article 89(3), shall be temporarily suspended.
+
+4\. By way of derogation from Article 32(2), a Member State may refuse to grant authorisations for product-types 15, 17 and 20 on grounds of animal welfare. Member States shall without delay inform other Member States and the Commission of any decision taken in this respect and its justification.
+
+#### Article 38 — Opinion of the Agency
+
+1\. If so requested by the Commission pursuant to Article 36(2) or Article 37(2), the Agency shall issue an opinion within 120 days from the date on which the matter in question was referred to it.
+
+2\. Before issuing its opinion, the Agency shall provide the applicant and, where applicable, the authorisation holder with an opportunity to provide written comments within a specified time limit not exceeding 30 days.
+
+The Agency may suspend the time limit referred to in paragraph 1 to allow the applicant or the authorisation holder to prepare the comments.
+
+#### Article 39 — Application for mutual recognition by official or scientific bodies
+
+1\. Where no application for a national authorisation has been submitted in a Member State for a biocidal product that is already authorised in another Member State, official or scientific bodies involved in pest control activities or the protection of public health may apply, under the mutual recognition procedure provided for in Article 33 and with the consent of the authorisation holder in that other Member State, for a national authorisation for the same biocidal product, with the same use and the same conditions for use as in that Member State.
+
+The applicant shall demonstrate that the use of such a biocidal product is of general interest for that Member State.
+
+The application shall be accompanied by the fees payable under Article 80.
+
+2\. Where the competent authority of the Member State concerned considers that the biocidal product fulfils the conditions referred to in Article 19 and the conditions under this Article are met, the competent authority shall authorise the making available on the market and use of the biocidal product. In that case, the body that made the application shall have the same rights and obligations as other authorisation holders.
+
+#### Article 40 — Supplementary rules and technical guidance notes
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 83 laying down supplementary rules for the renewal of authorisations subject to mutual recognition.
+
+The Commission shall also draw up technical guidance notes to facilitate the implementation of this Chapter and, in particular, Articles 37 and 39.
+
+## CHAPTER VIII — UNION AUTHORISATIONS OF BIOCIDAL PRODUCTS
+
+### SECTION 1 — Granting of Union authorisations
+
+#### Article 41 — Union authorisation
+
+A Union authorisation issued by the Commission in accordance with this Section shall be valid throughout the Union unless otherwise specified. It shall confer the same rights and obligations in each Member State as a national authorisation. For those categories of biocidal products referred to in Article 42(1), the applicant may apply for Union authorisation as an alternative to applying for a national authorisation and mutual recognition.
+
+#### Article 42 — Biocidal products for which Union authorisation may be granted
+
+1\. Applicants may apply for Union authorisation for biocidal products which have similar conditions of use across the Union with the exception of biocidal products that contain active substances that fall under Article 5 and those of product-types 14, 15, 17, 20 and 21. The Union authorisation may be granted:
+
+(a) from 1 September 2013, to biocidal products containing one or more new active substances and biocidal products of product-types 1, 3, 4, 5, 18 and 19;
+
+(b) from 1 January 2017, to biocidal products of product-types 2, 6 and 13; and
+
+(c) from 1 January 2020, to biocidal products of all remaining product-types.
+
+2\. The Commission shall by 1 September 2013 draw up guidance documents on the definition of ‘similar conditions of use across the Union’.
+
+3\. The Commission shall submit a report to the European Parliament and the Council on the application of this Article by 31 December 2017. That report shall contain an assessment of the exclusion of product-types 14, 15, 17, 20 and 21 from the Union authorisation.
+
+The report shall, if appropriate, be accompanied by relevant proposals for adoption in accordance with the ordinary legislative procedure.
+
+#### Article 43 — Submission and validation of applications
+
+1\. Applicants wishing to apply for Union authorisation in accordance with Article 42(1) shall submit an application to the Agency, including a confirmation that the biocidal product would have similar conditions of use across the Union, informing the Agency of the name of the competent authority of the Member State that they propose should evaluate the application and providing written confirmation that that competent authority agrees to do so. That competent authority shall be the evaluating competent authority.
+
+2\. The Agency shall inform the applicant of the fees payable under Article 80(1), and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant and the evaluating competent authority accordingly.
+
+Upon receipt of the fees payable under Article 80(1), the Agency shall accept the application and inform the applicant and the evaluating competent authority accordingly, indicating the date of acceptance.
+
+3\. Within 30 days of the Agency accepting an application, the evaluating competent authority shall validate the application if the relevant information referred to in Article 20 has been submitted.
+
+In the context of the validation referred to in the first subparagraph, the evaluating competent authority shall not make an assessment of the quality or the adequacy of the data or justifications submitted.
+
+The evaluating competent authority shall, as soon as possible after the Agency has accepted an application, inform the applicant of the fees payable under Article 80(2) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+4\. Where the evaluating competent authority considers that the application is incomplete, it shall inform the applicant what additional information is required for the evaluation of the application and shall set a reasonable time limit for the submission of that information. That time limit shall not normally exceed 90 days.
+
+The evaluating competent authority shall, within 30 days of receipt of the additional information, validate the application if it determines that the additional information submitted is sufficient to comply with the requirement laid down in paragraph 3.
+
+The evaluating competent authority shall reject the application if the applicant fails to submit the requested information within the deadline and shall inform the applicant accordingly. In such cases, part of the fees paid in accordance with Article 80(1) and (2) shall be reimbursed.
+
+5\. On validating the application in accordance with paragraph 3 or 4, the evaluating competent authority shall, without delay, inform the applicant, the Agency and other competent authorities accordingly, indicating the date of the validation.
+
+6\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraph 2 of this Article.
+
+#### Article 44 — Evaluation of applications
+
+1\. The evaluating competent authority shall, within 365 days of the validation of an application, evaluate it in accordance with Article 19, including, where relevant, any proposal to adapt data requirements submitted in accordance with Article 21(2), and send an assessment report and the conclusions of its evaluation to the Agency.
+
+Prior to submitting its conclusions to the Agency, the evaluating competent authority shall provide the applicant with the opportunity to provide written comments on the conclusions of the evaluation within 30 days. The evaluating competent authority shall take due account of those comments when finalising its evaluation.
+
+2\. Where it appears that additional information is necessary to carry out the evaluation, the evaluating competent authority shall ask the applicant to submit such information within a specified time limit, and shall inform the Agency accordingly. The 365-day period referred to in paragraph 1 shall be suspended from the date of issue of the request until the date the information is received. However, the suspension shall not exceed 180 days in total other than in exceptional cases and where justified by the nature of the information requested.
+
+3\. Within 180 days of receipt of the conclusions of the evaluation, the Agency shall prepare and submit to the Commission an opinion on the authorisation of the biocidal product.
+
+If the Agency recommends the authorisation of the biocidal product, the opinion shall contain at least the following elements:
+
+(a) a statement on whether the conditions laid down in Article 19(1) are fulfilled, and a draft summary of biocidal product characteristics, as referred to in Article 22(2);
+
+(b) where relevant, details of any terms or conditions which should be imposed on the making available on the market or use of the biocidal product;
+
+(c) the final assessment report on the biocidal product.
+
+4\. Within 30 days of submitting its opinion to the Commission, the Agency shall transmit to the Commission, in all the official languages of the Union, the draft summary of the biocidal product characteristics, as referred to in Article 22(2), where applicable.
+
+5\. On receipt of the opinion of the Agency, the Commission shall adopt either an implementing regulation granting the Union authorisation to the biocidal product or an implementing decision stating that the Union authorisation of the biocidal product has not been granted. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+The Commission shall, at the request of a Member State, decide to adjust certain conditions of a Union authorisation specifically for the territory of that Member State or decide that a Union authorisation shall not apply in the territory of that Member State, provided that such a request can be justified on one or more of the grounds referred to in Article 37(1).
+
+### SECTION 2 — Renewal of Union authorisations
+
+#### Article 45 — Submission and acceptance of applications
+
+1\. An application by or on behalf of an authorisation holder wishing to seek the renewal of a Union authorisation shall be submitted to the Agency at least 550 days before the expiry date of the authorisation.
+
+2\. When applying for renewal, the applicant shall submit:
+
+(a) without prejudice to Article 21(1), all relevant data required under Article 20 that it has generated since the initial authorisation or, as appropriate, previous renewal; and
+
+(b) its assessment of whether the conclusions of the initial or previous assessment of the biocidal product remain valid and any supporting information.
+
+3\. The applicant shall also submit the name of the competent authority of the Member State that it proposes should evaluate the application for renewal and provide written confirmation that that competent authority agrees to do so. That competent authority shall be the evaluating competent authority.
+
+The Agency shall inform the applicant of the fees payable to it under Article 80(1) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant and the evaluating competent authority accordingly.
+
+Upon receipt of the fees payable to it under Article 80(1), the Agency shall accept the application and inform the applicant and the evaluating competent authority accordingly, indicating the date of acceptance.
+
+4\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraph 3 of this Article.
+
+#### Article 46 — Evaluation of applications for renewal
+
+1\. On the basis of an assessment of the available information and the need to review the conclusions of the initial evaluation of the application for Union authorisation or, as appropriate, the previous renewal, the evaluating competent authority shall, within 30 days of the Agency accepting the application in accordance with Article 45(3), decide whether, in the light of current scientific knowledge, a full evaluation of the application for renewal is necessary.
+
+2\. Where the evaluating competent authority decides that a full evaluation of the application is necessary, the evaluation shall be carried out in accordance with paragraphs 1 and 2 of Article 44.
+
+Where the evaluating competent authority decides that a full evaluation of the application is not necessary, it shall, within 180 days of the Agency accepting the application, prepare and submit to the Agency a recommendation on the renewal of the authorisation. It shall provide the applicant with a copy of its recommendation.
+
+The evaluating competent authority shall, as soon as possible after the Agency has accepted the application, inform the applicant of the fees payable under Article 80(2) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+3\. Within 180 days of receipt of a recommendation from the evaluating competent authority, the Agency shall prepare and submit to the Commission an opinion on the renewal of the Union authorisation.
+
+4\. On receipt of the opinion of the Agency, the Commission shall adopt either an implementing Regulation to renew the Union authorisation or an implementing decision to refuse to renew the Union authorisation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+The Commission shall renew a Union authorisation, provided that the conditions set out in Article 19 are still satisfied.
+
+5\. Where, for reasons beyond the control of the holder of the Union authorisation, no decision is taken on the renewal of the authorisation before its expiry, the Commission shall grant the renewal of the Union authorisation for the period necessary to complete the evaluation by means of implementing acts. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 82(2).
+
+## CHAPTER IX — CANCELLATION, REVIEW AND AMENDMENT OF AUTHORISATIONS
+
+#### Article 47 — Obligation for notification of unexpected or adverse effects
+
+1\. On becoming aware of information concerning the authorised biocidal product, or the active substance(s) it contains, that may affect the authorisation, the holder of an authorisation shall without delay notify the competent authority that granted the national authorisation and the Agency or, in the case of a Union authorisation, the Commission and the Agency. In particular, the following shall be notified:
+
+(a) new data or information on the adverse effects of the active substance or biocidal product for humans, in particular vulnerable groups, animals or the environment;
+
+(b) any data indicating the potential of the active substance for the development of resistance;
+
+(c) new data or information indicating that the biocidal product is not sufficiently effective.
+
+2\. The competent authority that granted the national authorisation or, in the case of a Union authorisation, the Agency, shall examine whether the authorisation needs to be amended or cancelled in accordance with Article 48.
+
+3\. The competent authority that granted the national authorisation or, in the case of a Union authorisation, the Agency, shall without delay notify competent authorities of other Member States and, where appropriate, the Commission of any such data or information it receives.
+
+Competent authorities of Member States that have issued a national authorisation for the same biocidal product under the mutual recognition procedure shall examine whether the authorisation needs to be amended or cancelled in accordance with Article 48.
+
+#### Article 48 — Cancellation or amendment of an authorisation
+
+1\. Without prejudice to Article 23, the competent authority of a Member State or, in the case of a Union authorisation, the Commission shall at any time cancel or amend an authorisation it has granted where it considers that:
+
+(a) the conditions referred to in Article 19 or, where relevant, in Article 25 are not satisfied;
+
+(b) the authorisation was granted on the basis of false or misleading information; or
+
+(c) the authorisation holder has failed to comply with its obligations under the authorisation or this Regulation.
+
+2\. Where the competent authority or, in the case of a Union authorisation, the Commission, intends to cancel or amend an authorisation, it shall inform the authorisation holder thereof and give it the opportunity to submit comments or additional information within a specified time limit. The evaluating competent authority or, in the case of a Union authorisation, the Commission, shall take due account of those comments when finalising its decision.
+
+3\. Where the competent authority or, in the case of a Union authorisation, the Commission, cancels or amends an authorisation in accordance with paragraph 1, it shall without delay notify the authorisation holder, the competent authorities of other Member States and, where relevant, the Commission.
+
+Competent authorities that have issued authorisations under the mutual recognition procedure for biocidal products for which the authorisation has been cancelled or amended shall, within 120 days of the notification, cancel or amend the authorisations and shall notify the Commission accordingly.
+
+In the case of disagreement between competent authorities of certain Member States concerning national authorisations subject to mutual recognition the procedures laid down in Articles 35 and 36 shall apply mutatis mutandis.
+
+#### Article 49 — Cancellation of an authorisation at the request of the authorisation holder
+
+At the reasoned request of an authorisation holder, the competent authority that granted the national authorisation or, in the case of Union authorisation, the Commission shall cancel the authorisation. Where such a request concerns a Union authorisation, it shall be submitted to the Agency.
+
+#### Article 50 — Amendment of an authorisation at the request of the authorisation holder
+
+1\. Amendments to the terms and conditions of an authorisation shall be made only by the competent authority that authorised the biocidal product concerned, or in the case of a Union authorisation, by the Commission.
+
+2\. An authorisation holder seeking to change any of the information submitted in relation to the initial application for authorisation of the product shall apply to the competent authorities of relevant Member States having authorised the biocidal product concerned, or in the case of a Union authorisation, the Agency. Those competent authorities shall decide, or, in the case of a Union authorisation, the Agency shall examine and the Commission decide whether the conditions of Article 19 or, where relevant, Article 25 are still met and whether the terms and conditions of the authorisation need to be amended.
+
+The application shall be accompanied by the fees payable under Article 80(1) and (2).
+
+3\. An amendment to an existing authorisation shall fall under one of the following categories of changes:
+
+(a) administrative change;
+
+(b) minor change; or
+
+(c) major change.
+
+#### Article 51 — Detailed rules
+
+In order to ensure a harmonised approach to the cancellation and amendment of authorisations, the Commission shall lay down detailed rules for the application of Articles 47 to 50 by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+The rules referred to in the first paragraph of this Article shall be based, inter alia, on the following principles:
+
+(a) a simplified notification procedure shall be applied for administrative changes;
+
+(b) a reduced evaluation period shall be established for minor changes;
+
+(c) in the case of major changes, the evaluation period shall be proportionate to the extent of the proposed change.
+
+#### Article 52 — Period of grace
+
+Notwithstanding Article 89, where the competent authority or, in the case of a biocidal product authorised at Union level, the Commission, cancels or amends an authorisation or decides not to renew it, it shall grant a period of grace for the making available on the market and use of existing stocks, except in cases where continued making available on the market or use of the biocidal product would constitute an unacceptable risk to human health, animal health or the environment.
+
+The period of grace shall not exceed 180 days for the making available on the market and an additional maximum period of 180 days for the use of existing stocks of the biocidal products concerned.
+
+## CHAPTER X — PARALLEL TRADE
+
+#### Article 53 — Parallel trade
+
+1\. By way of derogation from Article 17, a competent authority of a Member State (‘Member State of introduction’) shall, at the request of the applicant, grant a parallel trade permit for a biocidal product that is authorised in another Member State (‘Member State of origin’) to be made available on the market and used in the Member State of introduction, if it determines in accordance with paragraph 3 that the biocidal product is identical to a biocidal product already authorised in the Member State of introduction (‘the reference product’).
+
+The applicant who intends to place the biocidal product on the market in the Member State of introduction shall submit the application for a parallel trade permit to the competent authority of the Member State of introduction.
+
+The application shall be accompanied by the information referred to in paragraph 4 and all other information necessary to demonstrate that the biocidal product is identical to the reference product as defined in paragraph 3.
+
+2\. Where the competent authority of the Member State of introduction determines that a biocidal product is identical to the reference product, it shall grant a parallel trade permit within 60 days of receipt of the fees payable under Article 80(2). The competent authority of the Member State of introduction may request from the competent authority of the Member State of origin additional information necessary to determine whether the product is identical to the reference product. The competent authority of the Member State of origin shall provide the requested information within 30 days of receiving the request.
+
+3\. A biocidal product shall be considered as identical to the reference product only if all the following conditions are met:
+
+(a) they have been manufactured by the same company, by an associated undertaking or under license in accordance with the same manufacturing process;
+
+(b) they are identical in specification and content in respect of the active substances and the type of formulation;
+
+(c) they are the same in respect of the non-active substances present; and
+
+(d) they are either the same or equivalent in packaging size, material or form, in terms of the potential adverse impact on the safety of the product with regard to human health, animal health or the environment.
+
+4\. An application for a parallel trade permit shall include the following information and items:
+
+(a) name and authorisation number of the biocidal product in the Member State of origin;
+
+(b) name and address of the competent authority of the Member State of origin;
+
+(c) name and address of the authorisation holder in the Member State of origin;
+
+(d) original label and instructions for use with which the biocidal product is distributed in the Member State of origin if it is considered as necessary for the examination by the competent authority of the Member State of introduction;
+
+(e) name and address of the applicant;
+
+(f) name to be given to the biocidal product to be distributed in the Member State of introduction;
+
+(g) a draft label for the biocidal product intended to be made available on the market in the Member State of introduction in the official language or languages of the Member State of introduction, unless that Member State provides otherwise;
+
+(h) a sample of the biocidal product which is intended to be introduced if it is considered as necessary by the competent authority of the Member State of introduction;
+
+(i) name and authorisation number of the reference product in the Member State of introduction.
+
+The competent authority of the Member State of introduction may require a translation of the relevant parts of the original instructions for the use referred to in point (d).
+
+5\. The parallel trade permit shall prescribe the same conditions for making available on the market and use as the authorisation of the reference product.
+
+6\. The parallel trade permit shall be valid for the duration of authorisation of the reference product in the Member State of introduction.
+
+If the authorisation holder of the reference product applies for cancellation of authorisation in accordance with Article 49 and the requirements of Article 19 are still fulfilled, the validity of the parallel trade permit shall expire on the date on which the authorisation of the reference product would normally have expired.
+
+7\. Without prejudice to specific provisions in this Article, Articles 47 to 50 and Chapter XV shall apply mutatis mutandis to biocidal products made available on the market under a parallel trade permit.
+
+8\. The competent authority of the Member State of introduction may withdraw a parallel trade permit if the authorisation of the introduced biocidal product is withdrawn in the Member State of origin because of safety or efficacy reasons.
+
+## CHAPTER XI — TECHNICAL EQUIVALENCE
+
+#### Article 54 — Assessment of technical equivalence
+
+1\. Where it is necessary to establish the technical equivalence of active substances, the person seeking to establish that equivalence (‘the applicant’) shall submit an application to the Agency.
+
+2\. The applicant shall submit all data that the Agency requires to assess technical equivalence.
+
+3\. The Agency shall inform the applicant of the fees payable under Article 80(1) and shall reject the application if the applicant fails to pay the fees within 30 days. It shall inform the applicant accordingly.
+
+4\. After giving the applicant the opportunity to submit comments, the Agency shall take a decision within 90 days of receipt of the application referred to in paragraph 1 and shall communicate it to Member States and to the applicant.
+
+5\. Where, in the opinion of the Agency, additional information is necessary to carry out the assessment of technical equivalence, the Agency shall ask the applicant to submit such information within a time limit specified by the Agency. The Agency shall reject the application if the applicant fails to submit the additional information within the specified time limit. The 90-day period referred to in paragraph 4 shall be suspended from the date of issue of the request until the information is received. The suspension shall not exceed 180 days except where justified by the nature of the data requested or in exceptional circumstances.
+
+6\. Where appropriate, the Agency may consult the competent authority of the Member State which acted as the evaluating competent authority for the evaluation of the active substance.
+
+7\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraphs 3, 4 and 5 of this Article.
+
+8\. The Agency shall draw up technical guidance notes to facilitate the implementation of this Article.
+
+## CHAPTER XII — DEROGATIONS
+
+#### Article 55 — Derogation from the requirements
+
+1\. By way of derogation from Articles 17 and 19, a competent authority may permit, for a period not exceeding 180 days, the making available on the market or use of a biocidal product which does not fulfil the conditions for authorisation laid down in this Regulation, for a limited and controlled use under the supervision of the competent authority, if such a measure is necessary because of a danger to public health, animal health or the environment which cannot be contained by other means.
+
+The competent authority referred to in the first subparagraph shall, without delay, inform the other competent authorities and the Commission of its action and the justification for it. The competent authority shall, without delay, inform the other competent authorities and the Commission of the revocation of such action.
+
+On receipt of a reasoned request from the competent authority, the Commission shall, without delay and by means of implementing acts, decide whether, and under what conditions, the action taken by that competent authority may be extended, for a period not exceeding 550 days. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+2\. By way of derogation from point (a) of Article 19(1) and until an active substance is approved, competent authorities and the Commission may authorise, for a period not exceeding three years, a biocidal product containing a new active substance.
+
+Such a provisional authorisation may be issued only if, after dossiers have been evaluated in accordance with Article 8, the evaluating competent authority has submitted a recommendation for approval of the new active substance and the competent authorities which received the application for the provisional authorisation or, in the case of a provisional Union authorisation, the Agency, consider that the biocidal product is expected to comply with points (b), (c) and (d) of Article 19(1) taking into account the factors set out in Article 19(2).
+
+If the Commission decides not to approve the new active substance, the competent authorities which granted the provisional authorisation or the Commission shall cancel that authorisation.
+
+Where a decision on the approval of the new active substance has not yet been adopted by the Commission when the period of three years expires, the competent authorities which granted the provisional authorisation, or the Commission, may extend the provisional authorisation for a period not exceeding one year, provided that there are good reasons to believe that the active substance will satisfy the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2). Competent authorities which extend the provisional authorisation shall inform the other competent authorities and the Commission of such action.
+
+3\. By way of derogation from point (a) of Article 19(1), the Commission may, by means of implementing acts, allow a Member State to authorise a biocidal product containing a non-approved active substance if it is satisfied that that active substance is essential for the protection of cultural heritage and that no appropriate alternatives are available. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 82(2). A Member State wishing to obtain such a derogation shall apply to the Commission, providing due justification.
+
+#### Article 56 — Research and development
+
+1\. By way of derogation from Article 17, an experiment or a test for the purposes of scientific or product and process-orientated research and development involving an unauthorised biocidal product or a non-approved active substance intended exclusively for use in a biocidal product (‘experiment’ or ‘test’) may take place only under the conditions provided for in this Article.
+
+Persons carrying out an experiment or test shall draw up and maintain written records detailing the identity of the biocidal product or active substance, labelling data, quantities supplied and the names and addresses of those persons receiving the biocidal product or active substance, and shall compile a dossier containing all available data on possible effects on human or animal health or impact on the environment. They shall make this information available to the competent authority on request.
+
+2\. Any person intending to carry out an experiment or test that may involve, or result in, release of the biocidal product into the environment shall first notify the competent authority of the Member State where the experiment or test will occur. The notification shall include the identity of the biocidal product or active substance, labelling data and quantities supplied, and all available data on possible effects on human or animal health or impact on the environment. The person concerned shall make available any other information requested by the competent authorities.
+
+In the absence of an opinion from the competent authority within 45 days of the notification referred to in the first subparagraph, the notified experiment or test may take place.
+
+3\. If the experiments or tests could have harmful effects, whether immediate or delayed, on the health of humans, particularly of vulnerable groups, or animals, or any unacceptable adverse effect on humans, animals or the environment, the relevant competent authority of the Member State concerned may prohibit them or allow them subject to such conditions as it considers necessary to prevent those consequences. The competent authority shall, without delay, inform the Commission and other competent authorities of its decision.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 83 specifying detailed rules supplementing this Article.
+
+#### Article 57 — Exemption from registration under Regulation (EC) No 1907/2006
+
+In addition to the active substances referred to in Article 15(2) of Regulation (EC) No 1907/2006, active substances manufactured or imported for use in biocidal products authorised for placing on the market in accordance with Article 27, 55 or 56 shall be regarded as being registered and the registration as completed for manufacture or import for use in a biocidal product and therefore as fulfilling the requirements of Chapters 1 and 5, Title II of Regulation (EC) No 1907/2006.
+
+## CHAPTER XIII — TREATED ARTICLES
+
+#### Article 58 — Placing on the market of treated articles
+
+1\. This Article shall apply exclusively to treated articles that are not biocidal products. It shall not apply to treated articles where the sole treatment undertaken was the fumigation or disinfection of premises or containers used for storage or transport and where no residues are expected to remain from such treatment.
+
+2\. A treated article shall not be placed on the market unless all active substances contained in the biocidal products that it was treated with or incorporates are included in the list drawn up in accordance with Article 9(2), for the relevant product-type and use, or in Annex I, and any conditions or restrictions specified therein are met.
+
+3\. The person responsible for the placing on the market of a treated article shall ensure that the label provides the information listed in the second subparagraph, where:
+
+— in the case of a treated article containing a biocidal product, a claim is made by the manufacturer of that treated article regarding the biocidal properties of the article, or
+
+— in relation to the active substance(s) concerned, having particular regard to the possibility of contact with humans or the release into the environment, the conditions associated with the approval of the active substance(s) so require.
+
+The label referred to in the first subparagraph shall provide the following information:
+
+(a) a statement that the treated article incorporates biocidal products;
+
+(b) where substantiated, the biocidal property attributed to the treated article;
+
+(c) without prejudice to Article 24 of Regulation (EC) No 1272/2008, the name of all active substances contained in the biocidal products;
+
+(d) the name of all nanomaterials contained in the biocidal products, followed by the word ‘nano’ in brackets;
+
+(e) any relevant instructions for use, including any precautions to be taken because of the biocidal products with which a treated article was treated or which it incorporates.
+
+This paragraph shall not apply where at least equivalent labelling requirements already exist under sector-specific legislation for biocidal products in treated articles to meet information requirements concerning those active substances.
+
+4\. Notwithstanding the labelling requirements set out in paragraph 3, the person responsible for the placing on the market of a treated article shall label it with any relevant instructions for use, including any precautions to be taken, if this is necessary to protect humans, animals and the environment.
+
+5\. Notwithstanding the labelling requirements set out in paragraph 3, the supplier of a treated article shall, where a consumer so requests, provide that consumer, within 45 days, free of charge, with information on the biocidal treatment of the treated article.
+
+6\. The labelling shall be clearly visible, easily legible and appropriately durable. Where necessary because of the size or the function of the treated article, the labelling shall be printed on the packaging, on the instructions for use or on the warranty in the official language or languages of the Member State of introduction, unless that Member State provides otherwise. In the case of treated articles that are not produced as part of a series but rather designed and manufactured to meet a specific order, the manufacturer may agree other methods of providing the customer with the relevant information.
+
+7\. The Commission may adopt implementing acts for the application of paragraph 2 of this Article, including appropriate notification procedures, possibly involving the Agency, and further specifying the labelling requirements under paragraphs 3, 4 and 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+8\. Where there are significant indications that an active substance contained in a biocidal product with which a treated article is treated or which it incorporates does not meet the conditions laid down in Article 4(1), Article 5(2) or Article 25, the Commission shall review the approval of that active substance or its inclusion in Annex I in accordance with Article 15(1) or Article 28(2).
+
+## CHAPTER XIV — DATA PROTECTION AND DATA-SHARING
+
+#### Article 59 — Protection of data held by competent authorities or the Agency
+
+1\. Without prejudice to Articles 62 and 63, data submitted for the purposes of Directive 98/8/EC or of this Regulation shall not be used by competent authorities or the Agency for the benefit of a subsequent applicant, except where:
+
+(a) the subsequent applicant submits a letter of access; or
+
+(b) the relevant time limit for data protection has expired.
+
+2\. When submitting data to a competent authority or to the Agency for the purposes of this Regulation the applicant shall, where relevant, indicate the name and contact details of the data owner for all data submitted. The applicant shall also specify whether it is the data owner or holds a letter of access.
+
+3\. The applicant shall, without delay, inform the competent authority or the Agency about any changes to the ownership of the data.
+
+4\. The advisory scientific committees set up under Commission Decision 2004/210/EC of 3 March 2004 setting up Scientific Committees in the field of consumer safety, public health and the environment ( 34 ) shall also have access to the data referred to in paragraph 1 of this Article.
+
+#### Article 60 — Data protection periods
+
+1\. Data submitted for the purposes of Directive 98/8/EC or of this Regulation shall benefit from data protection under the conditions laid down in this Article. The protection period for the data shall start when they are submitted for the first time.
+
+Without prejudice to Article 95(5), second subparagraph, protection periods under this Article which have expired shall not start to run again.
+
+2\. The protection period for data submitted with a view to the approval of an existing active substance shall end 10 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+
+The protection period for data submitted with a view to the approval of a new active substance shall end 15 years from the first day of the month following the date of adoption of a decision in accordance with Article 9 on the approval of the relevant active substance for the particular product-type.
+
+The protection period for new data submitted with a view to the renewal or review of the approval of an active substance shall end five years from the first day of the month following the date of the adoption of a decision in accordance with Article 14(4) concerning the renewal or the review.
+
+3\. The protection period for data submitted with a view to the authorisation of a biocidal product containing only existing active substances shall end 10 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).
+
+The protection period for data submitted with a view to the authorisation of a biocidal product containing a new active substance shall end 15 years from the first day of the month following the first decision concerning the authorisation of the product taken in accordance with Article 26(3), 30(1), 33(3), 33(4), 34(6), 34(7), 36(4), 37(2), 37(3) or 44(5).
+
+The protection period for new data submitted with a view to the renewal or amendment of the authorisation of a biocidal product shall end five years from the first day of the month following the decision concerning the renewal or amendment of the authorisation.
+
+#### Article 61 — Letter of access
+
+1\. A letter of access shall contain at least the following information:
+
+(a) the name and contact details of the data owner and the beneficiary;
+
+(b) the name of the active substance or biocidal product for which access to the data is authorised;
+
+(c) the date on which the letter of access takes effect;
+
+(d) a list of the submitted data to which the letter of access grants citation rights.
+
+2\. Revocation of a letter of access shall not affect the validity of the authorisation issued on the basis of the letter of access in question.
+
+#### Article 62 — Data sharing
+
+1\. In order to avoid animal testing, testing on vertebrates for the purposes of this Regulation shall be undertaken only as a last resort. Testing on vertebrates shall not be repeated for the purposes of this Regulation.
+
+2\. Any person intending to perform tests or studies (‘the prospective applicant’)
+
+(a) shall, in the case of data involving tests on vertebrates; and
+
+(b) may, in the case of data not involving tests on vertebrates,
+
+submit a written request to the Agency to determine whether such tests or studies have already been submitted to the Agency or to a competent authority in connection with a previous application under this Regulation or Directive 98/8/EC. The Agency shall verify whether such tests or studies have already been submitted.
+
+Where such tests or studies have already been submitted to the Agency or to a competent authority in connection with a previous application, under this Regulation or Directive 98/8/EC, the Agency shall, without delay, communicate the name and contact details of the data submitter and data owner to the prospective applicant.
+
+The data submitter shall, where relevant, facilitate contacts between the prospective applicant and the data owner.
+
+Where the data acquired under those tests or studies are still protected under Article 60, the prospective applicant:
+
+(a) shall, in the case of data involving tests on vertebrates; and
+
+(b) may, in the case of data not involving tests on vertebrates,
+
+request from the data owner all the scientific and technical data related to the tests and studies concerned as well as the right to refer to these data when submitting applications under this Regulation.
+
+#### Article 63 — Compensation for data sharing
+
+1\. Where a request has been made in accordance with Article 62(2), the prospective applicant and the data owner shall make every effort to reach an agreement on the sharing of the results of the tests or studies requested by the prospective applicant. Such an agreement may be replaced by submission of the matter to an arbitration body and a commitment to accept the arbitration order.
+
+2\. Where such agreement is reached, the data owner shall make all the scientific and technical data related to the tests and studies concerned available to the prospective applicant or shall give the prospective applicant permission to refer to the data owner’s tests or studies when submitting applications under this Regulation.
+
+3\. Where no agreement is reached with respect to data involving tests or studies on vertebrates, the prospective applicant shall inform the Agency and the data owner thereof, at the earliest one month after the prospective applicant receives the name and address of the data submitter from the Agency.
+
+Within 60 days of being informed, the Agency shall give the prospective applicant permission to refer to the requested tests or studies on vertebrates, provided that the prospective applicant demonstrates that every effort has been made to reach an agreement and that the prospective applicant has paid the data owner a share of the costs incurred. Where the prospective applicant and data owner cannot agree, national courts shall decide on the proportionate share of the cost that the prospective applicant is to pay to the data owner.
+
+The data owner shall not refuse to accept any payment offered pursuant to the second subparagraph. Any acceptance is without prejudice, however, to his right to have the proportionate share of the cost determined by a national court, in accordance with the second subparagraph.
+
+4\. Compensation for data sharing shall be determined in a fair, transparent and non-discriminatory manner, having regard to the guidance established by the Agency ( 35 ). The prospective applicant shall be required to share only in the costs of information that it is required to submit for the purposes of this Regulation.
+
+5\. An appeal may be brought, in accordance with Article 77, against decisions of the Agency under paragraph 3 of this Article.
+
+#### Article 64 — Use of data for subsequent applications
+
+1\. Where the relevant data protection period according to Article 60 has expired in relation to an active substance, the receiving competent authority or the Agency may agree that a subsequent applicant for authorisation may refer to data provided by the first applicant in so far as the subsequent applicant can provide evidence that the active substance is technically equivalent to the active substance for which the data protection period has expired, including the degree of purity and the nature of any relevant impurities.
+
+Where the relevant data protection period according to Article 60 has expired in relation to a biocidal product, the receiving competent authority or the Agency may agree that a subsequent applicant for authorisation may refer to data provided by the first applicant in so far as the subsequent applicant can provide evidence that the biocidal product is the same as the one already authorised, or the differences between them are not significant in relation to the risk assessment and the active substance(s) in the biocidal product are technically equivalent to those in the biocidal product already authorised, including the degree of purity and the nature of any impurities.
+
+An appeal may be brought, in accordance with Article 77, against decisions of the Agency under the first and second subparagraphs of this paragraph.
+
+2\. Notwithstanding paragraph 1, subsequent applicants shall provide the following data accordingly to the receiving competent authority or the Agency, as applicable:
+
+(a) all necessary data for the identification of the biocidal product, including its composition;
+
+(b) the data needed to identify the active substance and to establish technical equivalence of the active substance;
+
+(c) the data needed to demonstrate the comparability of the risk from and efficacy of the biocidal product to that of the authorised biocidal product.
+
+## CHAPTER XV — INFORMATION AND COMMUNICATION
+
+### SECTION 1 — Monitoring and reporting
+
+#### Article 65 — Compliance with requirements
+
+1\. Member States shall make the necessary arrangements for the monitoring of biocidal products and treated articles which have been placed on the market to establish whether they comply with the requirements of this Regulation. Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products ( 36 ) shall apply accordingly.
+
+2\. Member States shall make the necessary arrangements for official controls to be carried out in order to enforce compliance with this Regulation.
+
+In order to facilitate such enforcement, manufacturers of biocidal products placed on the Union market shall maintain, in relation to the manufacturing process, appropriate documentation in paper or electronic format relevant for the quality and safety of the biocidal product to be placed on the market and shall store production batch samples. The documentation shall include as a minimum:
+
+(a) safety data sheets and specifications of active substances and other ingredients used for manufacturing the biocidal product;
+
+(b) records of the various manufacturing operations performed;
+
+(c) results of internal quality controls;
+
+(d) identification of production batches.
+
+Where necessary in order to ensure uniform application of this paragraph, the Commission may adopt implementing acts in accordance with the examination procedure referred to in Article 82(3).
+
+Measures taken pursuant to this paragraph shall avoid causing disproportionate administrative burden to economic operators and Member States.
+
+3\. Every five years, from 1 September 2015, Member States shall submit to the Commission a report on the implementation of this Regulation in their respective territories. The report shall include in particular:
+
+(a) information on the results of official controls carried out in accordance with paragraph 2;
+
+(b) information on any poisonings and, where available, occupational diseases involving biocidal products, especially regarding vulnerable groups, and any specific measures taken to mitigate the risk of future cases;
+
+(c) any available information on adverse environmental effects experienced through using biocidal products;
+
+(d) information on the use of nanomaterials in biocidal products and the potential risks thereof.
+
+Reports shall be submitted by 30 June of the relevant year and shall cover the period until 31 December of the year preceding their submission.
+
+The reports shall be published on the relevant website of the Commission.
+
+4\. On the basis of the reports received in accordance with paragraph 3, and within 12 months from the date referred to in the second subparagraph of that paragraph, the Commission shall draw up a composite report on the implementation of this Regulation, in particular Article 58. The Commission shall submit the report to the European Parliament and to the Council.
+
+#### Article 66 — Confidentiality
+
+1\. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 37 ) and the rules of the Management Board of the Agency, adopted in accordance with Article 118(3) of Regulation (EC) No 1907/2006, shall apply to documents held by the Agency for the purposes of this Regulation.
+
+2\. The Agency and the competent authorities shall refuse access to information where disclosure would undermine the protection of the commercial interests or the privacy or safety of the persons concerned.
+
+Disclosure of the following information shall normally be deemed to undermine the protection of the commercial interests or the privacy or safety of the persons concerned:
+
+(a) details of the full composition of a biocidal product;
+
+(b) the precise tonnage of the active substance or biocidal product manufactured or made available on the market;
+
+(c) links between a manufacturer of an active substance and the person responsible for the placing of a biocidal product on the market or between the person responsible for the placing of a biocidal product on the market and the distributors of the product;
+
+(d) names and addresses of persons involved in testing on vertebrates.
+
+However, where urgent action is essential to protect human health, animal health, safety or the environment or for other reasons of overriding public interest, the Agency or the competent authorities shall disclose the information referred to in this paragraph.
+
+3\. Notwithstanding paragraph 2, after the authorisation has been granted, access to the following information shall not in any case be refused:
+
+(a) the name and address of the authorisation holder;
+
+(b) the name and address of the biocidal product manufacturer;
+
+(c) the name and address of the active substance manufacturer;
+
+(d) the content of the active substance or substances in the biocidal product and the name of the biocidal product;
+
+(e) physical and chemical data concerning the biocidal product;
+
+(f) any methods for rendering the active substance or biocidal product harmless;
+
+(g) a summary of the results of the tests required pursuant to Article 20 to establish the product’s efficacy and effects on humans, animals and the environment and, where applicable, its ability to promote resistance;
+
+(h) recommended methods and precautions to reduce dangers from handling, transport and use as well as from fire or other hazards;
+
+(i) safety data sheets;
+
+(j) methods of analysis referred to in Article 19(1)(c);
+
+(k) methods of disposal of the product and of its packaging;
+
+(l) procedures to be followed and measures to be taken in the case of spillage or leakage;
+
+(m) first aid and medical advice to be given in the case of injury to persons.
+
+4\. Any person submitting information related to an active substance or a biocidal product to the Agency or a competent authority for the purposes of this Regulation may request that the information in Article 67(3) and (4) not be made available, including a justification as to why the disclosure of the information could be harmful for that person’s commercial interests or those of any other party concerned.
+
+#### Article 67 — Electronic public access
+
+1\. From the date on which the Commission adopts an implementing Regulation providing that an active substance is approved, as referred to in point (a) of Article 9(1), the following up-to-date information held by the Agency or the Commission on that active substance shall be made publicly and easily available free of charge:
+
+(a) where available, the ISO name and the name in the International Union of Pure and Applied Chemistry (IUPAC) nomenclature;
+
+(b) if applicable, the name as given in the European Inventory of Existing Commercial Chemical Substances;
+
+(c) the classification and labelling, including whether the active substance meets any of the criteria set out in Article 5(1);
+
+(d) physicochemical endpoints and data on pathways and environmental fate and behaviour;
+
+(e) the result of each toxicological and ecotoxicological study;
+
+(f) acceptable exposure level or predicted no-effect concentration established in accordance with Annex VI;
+
+(g) the guidance on safe use provided in accordance with Annexes II and III;
+
+(h) analytical methods referred to under Sections 5.2 and 5.3 of Title 1, and Section 4.2 of Title 2 of Annex II.
+
+2\. From the date on which a biocidal product is authorised, the Agency shall make publicly and easily available free of charge the following up-to-date information:
+
+(a) the terms and conditions of the authorisation;
+
+(b) the summary of the biocidal product characteristics; and
+
+(c) analytical methods referred to under Sections 5.2 and 5.3 of Title 1, and Section 5.2 of Title 2 of Annex III.
+
+3\. From the date on which the Commission adopts an implementing Regulation providing that an active substance is approved, as referred to in point (a) of Article 9(1), the Agency shall, except where the data supplier submits a justification in accordance with Article 66(4) accepted as valid by the competent authority or the Agency as to why such publication is potentially harmful for its commercial interests or any other party concerned, make publicly available, free of charge, the following up-to-date information on that active substance:
+
+(a) if essential to classification and labelling, the degree of purity of the substance and the identity of impurities and/or additives of active substances which are known to be hazardous;
+
+(b) the study summaries or robust study summaries of studies submitted to support the approval of the active substance;
+
+(c) information, other than that listed in paragraph 1 of this Article, contained in the safety data sheet;
+
+(d) the trade name(s) of the substance;
+
+(e) the assessment report.
+
+4\. From the date on which a biocidal product is authorised, the Agency shall, except where the data supplier submits a justification in accordance with Article 66(4) accepted as valid by the competent authority or the Agency as to why such publication is potentially harmful for its commercial interests or any other party concerned, make publicly available, free of charge, the following up-to date information:
+
+(a) study summaries, or robust study summaries, of studies submitted to support the biocidal product authorisation; and
+
+(b) the assessment report.
+
+#### Article 68 — Record-keeping and reporting
+
+1\. Authorisation holders shall keep records of the biocidal products they place on the market for at least 10 years after placing on the market, or 10 years after the date on which the authorisation was cancelled or expired, whichever is the earlier. They shall make available the relevant information contained in these records to the competent authority on request.
+
+2\. To ensure the uniform application of paragraph 1 of this Article, the Commission shall adopt implementing acts to specify the form and content of the information in records. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 82(2).
+
+### SECTION 2 — Information about biocidal products
+
+#### Article 69 — Classification, packaging and labelling of biocidal products
+
+1\. Authorisation holders shall ensure that biocidal products are classified, packaged and labelled in accordance with the approved summary of biocidal product characteristics, in particular the hazard statements and the precautionary statements, as referred to in point (i) of Article 22(2), and with Directive 1999/45/EC and, where applicable, Regulation (EC) No 1272/2008.
+
+In addition, products which may be mistaken for food, including drink, or feed shall be packaged to minimise the likelihood of such a mistake being made. If they are available to the general public, they shall contain components to discourage their consumption and, in particular, shall not be attractive to children.
+
+2\. In addition to compliance with paragraph 1, authorisation holders shall ensure that labels are not misleading in respect of the risks from the product to human health, animal health or the environment or its efficacy and, in any case, do not mention the indications ‘low-risk biocidal product’, ‘non-toxic’, ‘harmless’, ‘natural’, ‘environmentally friendly’, ‘animal friendly’ or similar indications. In addition, the label must show clearly and indelibly the following information:
+
+(a) the identity of every active substance and its concentration in metric units;
+
+(b) the nanomaterials contained in the product, if any, and any specific related risks, and, following each reference to nanomaterials, the word ‘nano’ in brackets;
+
+(c) the authorisation number allocated to the biocidal product by the competent authority or the Commission;
+
+(d) the name and address of the authorisation holder;
+
+(e) the type of formulation;
+
+(f) the uses for which the biocidal product is authorised;
+
+(g) directions for use, frequency of application and dose rate, expressed in metric units, in a manner which is meaningful and comprehensible to the user, for each use provided for under the terms of the authorisation;
+
+(h) particulars of likely direct or indirect adverse side effects and any directions for first aid;
+
+(i) if accompanied by a leaflet, the sentence ‘Read attached instructions before use’ and, where applicable, warnings for vulnerable groups;
+
+(j) directions for the safe disposal of the biocidal product and its packaging, including, where relevant, any prohibition on the reuse of packaging;
+
+(k) the formulation batch number or designation and the expiry date relevant to normal conditions of storage;
+
+(l) where applicable, the period of time needed for the biocidal effect, the interval to be observed between applications of the biocidal product or between application and the next use of the product treated, or the next access by humans or animals to the area where the biocidal product has been used, including particulars concerning decontamination means and measures and duration of necessary ventilation of treated areas; particulars for adequate cleaning of equipment; particulars concerning precautionary measures during use and transport;
+
+(m) where applicable, the categories of users to which the biocidal product is restricted;
+
+(n) where applicable, information on any specific danger to the environment particularly concerning protection of non-target organisms and avoidance of contamination of water;
+
+(o) for biocidal products containing micro-organisms, labelling requirements in accordance with Directive 2000/54/EC.
+
+By way of derogation from the first subparagraph, where this is necessary because of the size or the function of the biocidal product, the information referred to in points (e), (g), (h), (j), (k), (l) and (n) may be indicated on the packaging or on an accompanying leaflet integral to the packaging.
+
+3\. Member States may require:
+
+(a) the provision of models or drafts of the packaging, labelling and leaflets;
+
+(b) that biocidal products made available on the market in their territories be labelled in their official language or languages.
+
+#### Article 70 — Safety data sheets
+
+Safety data sheets for active substances and biocidal products shall be prepared and made available in accordance with Article 31 of Regulation (EC) No 1907/2006, where applicable.
+
+#### Article 71 — Register for Biocidal Products
+
+1\. The Agency shall establish and maintain an information system which shall be referred to as the Register for Biocidal Products.
+
+2\. The Register for Biocidal Products shall be used for the exchange of information between competent authorities, the Agency and the Commission and between applicants and competent authorities, the Agency and the Commission.
+
+3\. Applicants shall use the Register for Biocidal Products to submit applications and data for all procedures covered by this Regulation.
+
+4\. Upon submission of applications and data by applicants, the Agency shall check that these have been submitted in the correct format and notify the relevant competent authority accordingly without delay.
+
+Where the Agency decides that the application has not been submitted in the correct format, it shall reject the application and inform the applicant accordingly.
+
+5\. Once the relevant competent authority has validated or accepted an application, it shall be made available via the Register for Biocidal Products to all other competent authorities and to the Agency.
+
+6\. The competent authorities and the Commission shall use the Register for Biocidal Products to record and communicate the decisions they have taken in relation to the authorisations of biocidal products and shall update the information in the Register for Biocidal Products at the time such decisions are taken. The competent authorities shall, in particular, update the information in the Register for Biocidal Products relating to biocidal products which have been authorised within their territory or for which a national authorisation has been refused, amended, renewed or cancelled, or for which a parallel trade permit has been granted, refused or cancelled. The Commission shall, in particular, update the information relating to biocidal products which have been authorised in the Union or for which a Union authorisation has been refused, amended, renewed or cancelled.
+
+The information to be introduced into the Register for Biocidal Products shall include, as appropriate:
+
+(a) the terms and conditions of the authorisation;
+
+(b) the summary of the biocidal product characteristics referred to in Article 22(2);
+
+(c) the assessment report of the biocidal product.
+
+The information referred to in this paragraph shall also be made available to the applicant through the Register for Biocidal Products.
+
+7\. In the event that the Register for Biocidal Products is not fully operational by 1 September 2013 or ceases to be operational after that date, all obligations in relation to submissions and communication placed upon Member States, competent authorities, the Commission and applicants by this Regulation shall continue to apply. With a view to ensuring the uniform application of this paragraph, particularly with regard to the format in which information may be submitted and exchanged, the Commission shall adopt the necessary measures in accordance with the examination procedure referred to in Article 82(3). Those measures shall be limited in time to the period strictly necessary for the Register for Biocidal Products to become fully operational.
+
+8\. The Commission may adopt implementing acts laying down detailed rules on the types of information to be entered in the Register for Biocidal Products. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 82(2).
+
+9\. The Commission shall be empowered to adopt delegated acts in accordance with Article 83 laying down supplementary rules for the use of the Register.
+
+#### Article 72 — Advertising
+
+1\. Any advertisement for biocidal products shall, in addition to complying with Regulation (EC) No 1272/2008, include the sentences ‘Use biocides safely. Always read the label and product information before use.’. The sentences shall be clearly distinguishable and legible in relation to the whole advertisement.
+
+2\. Advertisers may replace the word ‘biocides’ in the prescribed sentences with a clear reference to the product-type being advertised.
+
+3\. Advertisements for biocidal products shall not refer to the product in a manner which is misleading in respect of the risks from the product to human health, animal health or the environment or its efficacy. In any case, the advertising of a biocidal product shall not mention ‘low-risk biocidal product’, ‘non-toxic’, ‘harmless’, ‘natural’, ‘environmentally friendly’, ‘animal friendly’ or any similar indication.
+
+#### Article 73 — Poison control
+
+Article 45 of Regulation (EC) No 1272/2008 shall apply for the purposes of this Regulation.
+
+## CHAPTER XVI — THE AGENCY
+
+#### Article 74 — Role of the Agency
+
+1\. The Agency shall carry out the tasks conferred on it by this Regulation.
+
+2\. Articles 78 to 84, 89 and 90 of Regulation (EC) No 1907/2006 shall apply mutatis mutandis taking into account the role of the Agency with respect to this Regulation.
+
+#### Article 75 — Biocidal Products Committee
+
+1\. A Biocidal Products Committee is hereby established within the Agency.
+
+The Biocidal Products Committee shall be responsible for preparing the opinion of the Agency on the following issues:
+
+(a) applications for approval and renewal of approval of active substances;
+
+(b) review of approval of active substances;
+
+(c) applications for inclusion in Annex I of active substances meeting the conditions laid down in Article 28 and review of the inclusion of such active substances in Annex I;
+
+(d) identification of active substances which are candidates for substitution;
+
+(e) applications for Union authorisation of biocidal products and for renewal, cancellation and amendments of Union authorisations, except where the applications are for administrative changes;
+
+(f) scientific and technical matters concerning mutual recognition in accordance with Article 38;
+
+(g) at the request of the Commission or of Member States’ competent authorities, any other questions that arise from the operation of this Regulation relating to technical guidance or risks to human health, animal health or the environment.
+
+2\. Each Member State shall be entitled to appoint a member of the Biocidal Products Committee. Member States may also appoint an alternate member.
+
+In order to facilitate its work, the Committee may, by a decision of the Management Board of the Agency in agreement with the Commission, be divided into two or more parallel committees. Each parallel committee shall be responsible for the tasks of the Biocidal Products Committee assigned to it. Each Member State shall be entitled to appoint one Member for each of the parallel committees. The same person may be appointed to more than one parallel committee.
+
+3\. Committee members shall be appointed on the basis of their experience relevant to performing the tasks specified in paragraph 1 and may work within a competent authority. They shall be supported by the scientific and technical resources available to Member States. To this end, Member States shall provide adequate scientific and technical resources to Committee members that they have nominated.
+
+4\. Article 85, paragraphs 4, 5, 8 and 9, and Articles 87 and 88 of Regulation (EC) No 1907/2006 shall apply mutatis mutandis to the Biocidal Products Committee.
+
+#### Article 76 — Secretariat of the Agency
+
+1\. The Secretariat of the Agency referred to in point (g) of Article 76(1) of Regulation (EC) No 1907/2006 shall undertake the following tasks:
+
+(a) establishing and maintaining the Register for Biocidal Products;
+
+(b) performing the tasks relating to the acceptance of the applications covered by this Regulation;
+
+(c) establishing technical equivalence;
+
+(d) providing technical and scientific guidance and tools for the application of this Regulation by the Commission and Member States’ competent authorities and providing support to national helpdesks;
+
+(e) providing advice and assistance to applicants, in particular to SMEs, for the approval of an active substance or its inclusion in Annex I to this Regulation or for a Union authorisation;
+
+(f) preparing explanatory information on this Regulation;
+
+(g) establishing and maintaining database(s) with information on active substances and biocidal products;
+
+(h) at the request of the Commission, providing technical and scientific support to improve cooperation between the Union competent authorities, international organisations and third countries on scientific and technical issues relating to biocidal products;
+
+(i) notification of decisions taken by the Agency;
+
+(j) specification of formats and software packages for the submission of information to the Agency;
+
+(k) providing support and assistance to Member States in order to avoid the parallel assessment of applications relating to the same or similar biocidal products referred to in Article 29(4);
+
+(l) providing support and assistance to Member States with regard to control and enforcement activities.
+
+2\. The Secretariat shall make the information identified in Article 67 publicly available, free of charge, over the internet, except where a request made under Article 66(4) is considered justified. The Agency shall make other information available on request in accordance with Article 66.
+
+#### Article 77 — Appeal
+
+1\. Appeals against decisions of the Agency taken pursuant to Articles 7(2), 13(3), 43(2) and 45(3), Article 54(3), (4) and (5), and Articles 63(3) and 64(1) shall lie with the Board of Appeal set up in accordance with Regulation (EC) No 1907/2006.
+
+Article 92(1) and (2) and Articles 93 and 94 of Regulation (EC) No 1907/2006 shall apply to appeal procedures lodged under this Regulation.
+
+Fees may be payable, in accordance with Article 80(1) of this Regulation, by the person bringing an appeal.
+
+2\. An appeal lodged pursuant to paragraph 1 shall have suspensive effect.
+
+#### Article 78 — The budget of the Agency
+
+1\. For the purposes of this Regulation, the revenues of the Agency shall consist of:
+
+(a) a subsidy from the Union, entered in the general budget of the European Union (Commission Section);
+
+(b) the fees paid to the Agency in accordance with this Regulation;
+
+(c) any charges paid to the Agency for services that it provides under this Regulation;
+
+(d) any voluntary contributions from Member States.
+
+2\. Revenue and expenditure for activities related to this Regulation and to Regulation (EC) No 1907/2006 shall be dealt with separately in the Agency’s budget and shall have separate budgetary and accounting reporting.
+
+Revenues of the Agency as referred to in Article 96(1) of Regulation (EC) No 1907/2006 shall not be used for carrying out tasks under this Regulation, unless for a joint purpose or a temporary transfer to ensure the proper functioning of the Agency. Revenues of the Agency as referred to in paragraph 1 of this Article shall not be used for carrying out tasks under Regulation (EC) No 1907/2006, unless for a joint purpose or a temporary transfer to ensure the proper functioning of the Agency.
+
+#### Article 79 — Formats and software for submission of information to the Agency
+
+The Agency shall specify formats and software packages and make them available free of charge on its website for submissions to the Agency. The competent authorities and applicants shall use these formats and packages in their submissions pursuant to this Regulation.
+
+The technical dossier referred to in Article 6(1) and Article 20 shall be submitted using the IUCLID software package.
+
+## CHAPTER XVII — FINAL PROVISIONS
+
+#### Article 80 — Fees and charges
+
+1\. The Commission shall adopt, on the basis of the principles set out in paragraph 3, an implementing Regulation specifying:
+
+(a) the fees payable to the Agency, including an annual fee for products granted a Union authorisation in accordance with Chapter VIII and a fee for applications for mutual recognition in accordance with Chapter VII;
+
+(b) the rules defining conditions for reduced fees, fee waivers and the reimbursement of the member of the Biocidal Products Committee who acts as a rapporteur; and
+
+(c) conditions of payment.
+
+That implementing Regulation shall be adopted in accordance with the examination procedure referred to in Article 82(3). It shall apply only with respect to fees paid to the Agency.
+
+The Agency may collect charges for other services it provides.
+
+The fees payable to the Agency shall be set at such a level as to ensure that the revenue derived from the fees, when combined with other sources of the Agency’s revenue pursuant to this Regulation, is sufficient to cover the cost of the services delivered. The fees payable shall be published by the Agency.
+
+2\. Member States shall directly charge applicants fees for services that they provide with respect to the procedures under this Regulation, including the services undertaken by Member States’ competent authorities when acting as evaluating competent authority.
+
+Based on the principles set out in paragraph 3, the Commission shall issue guidance concerning a harmonised structure of fees.
+
+Member States may levy annual fees with respect to biocidal products made available on their markets.
+
+Member States may collect charges for other services they provide.
+
+Member States shall set and publish the amount of fees payable to their competent authorities.
+
+3\. Both the implementing Regulation referred to in paragraph 1 and Member States’ own rules concerning fees shall respect the following principles:
+
+(a) fees shall be set at such a level as to ensure that the revenue derived from the fees is, in principle, sufficient to cover the cost of the services delivered and shall not exceed what is necessary to cover those costs;
+
+(b) partial reimbursement of the fee if the applicant fails to submit the information requested within the specified time limit;
+
+(c) the specific needs of SMEs shall be taken into account, as appropriate, including the possibility of splitting payments into several instalments and phases;
+
+(d) the structure and amount of fees shall take into account whether information has been submitted jointly or separately;
+
+(e) in duly justified circumstances, and where it is accepted by the Agency or the competent authority, the whole fee or a part of it may be waived; and
+
+(f) the deadlines for the payment of fees shall be fixed taking due account of the deadlines of the procedures provided for in this Regulation.
+
+#### Article 81 — Competent authorities
+
+1\. Member States shall designate a competent authority or competent authorities responsible for the application of this Regulation.
+
+Member States shall ensure that competent authorities have a sufficient number of suitably qualified and experienced staff so that the obligations laid down in this Regulation can be carried out efficiently and effectively.
+
+2\. Competent authorities shall provide advice to applicants, in particular to SMEs, and to any other interested parties on their respective responsibilities and obligations under this Regulation. That shall include the provision of advice about the possibility of adapting the data requirements of Articles 6 and 20, the grounds on which such an adaptation can be made, and on how to prepare a proposal. It shall be in addition to the advice and assistance that the Secretariat of the Agency shall provide in accordance with Article 76(1)(d).
+
+Competent authorities may in particular provide advice by establishing helpdesks. Helpdesks already established under Regulation (EC) No 1907/2006 may act as helpdesks under this Regulation.
+
+3\. Member States shall inform the Commission of the names and addresses of the designated competent authorities and, where they exist, helpdesks by 1 September 2013. Member States shall, without undue delay, inform the Commission of any changes to the names and addresses of the competent authorities or helpdesks.
+
+The Commission shall make publicly available a list of competent authorities and helpdesks.
+
+#### Article 82 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on Biocidal Products (‘the committee’). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 83 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3(4), Article 5(3), Article 6(4), Article 21(3), Article 23(5), Article 28(1) and (3), Article 40, Article 56(4), Article 71(9), Article 85 and Article 89(1) shall be conferred on the Commission for a period of five years from 17 July 2012. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3(4), Article 5(3), Article 6(4), Article 21(3), Article 23(5), Article 28(1) and (3), Article 40, Article 56(4), Article 71(9), Article 85 and Article 89(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 3(4), Article 5(3), Article 6(4), Article 21(3), Article 23(5), Article 28(1) and (3), Article 40, Article 56(4), Article 71(9), Article 85 and Article 89(1) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 84 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 83(5). In such a case, the Commission shall repeal the act without delay following the notification of the decision to object by the European Parliament or by the Council.
+
+#### Article 85 — Adaptation to scientific and technical progress
+
+In order to allow the provisions of this Regulation to be adapted to scientific and technical progress, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the adaptation of Annexes II, III and IV to such scientific and technical progress.
+
+#### Article 86 — Active substances included in Annex I to Directive 98/8/EC
+
+Active substances for which the Commission has adopted directives including them in Annex I to Directive 98/8/EC shall be deemed to have been approved under this Regulation on the date of inclusion and shall be included in the list referred to in Article 9(2). Approval shall be subject to the conditions set out in those Commission directives.
+
+#### Article 87 — Penalties
+
+Member States shall lay down the provisions on penalties applicable to infringement of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission no later than 1 September 2013 and shall notify the Commission without delay of any subsequent amendment affecting them.
+
+#### Article 88 — Safeguard clause
+
+Where, on the basis of new evidence, a Member State has justifiable grounds to consider that a biocidal product, although authorised in accordance with this Regulation, constitutes a serious immediate or long-term risk to the health of humans, particularly of vulnerable groups, or animals, or to the environment, it may take appropriate provisional measures. The Member State shall, without delay, inform the Commission and the other Member States accordingly and give reasons for its decision based on the new evidence.
+
+The Commission shall, by means of implementing acts, either permit the provisional measure for a time period defined in the decision or require the Member State to revoke the provisional measure. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3).
+
+#### Article 89 — Transitional measures
+
+1\. The Commission shall carry on with the work programme for the systematic examination of all existing active substances commenced in accordance with Article 16(2) of Directive 98/8/EC with the aim of achieving it by 31 December 2030.  To that end, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the carrying out of the work programme and specification of the related rights and obligations of the competent authorities and the participants in the programme.
+
+Depending upon the progress of the work programme, the Commission shall be empowered to adopt delegated acts in accordance with Article 83 concerning the extension of the duration of the work programme for a determined period.
+
+In order to facilitate a smooth transition from Directive 98/8/EC to this Regulation, during the work programme the Commission shall adopt either implementing regulations providing that an active substance is approved, and under which conditions, or, in cases where the conditions laid down in Article 4(1) or, where applicable, the conditions set out in Article 5(2), are not satisfied or where the requisite information and data have not been submitted within the prescribed period, implementing decisions stating that an active substance is not approved. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 82(3). Regulations approving an active substance shall specify the date of approval. Article 9(2) shall apply.
+
+2\. By way of derogation from Articles 17(1), 19(1) and 20(1) of this Regulation, and without prejudice to paragraphs 1 and 3 of this Article, a Member State may continue to apply its current system or practice of making available on the market or using a given biocidal product for up to three years after the date of approval of the last of the active substances to be approved in that biocidal product. The Member State concerned may, in accordance with its national rules, authorise the making available on the market or use in its territory only of a biocidal product containing only:
+
+(a) existing active substances which:
+
+(i) have been evaluated under Commission Regulation (EC) No 1451/2007 ( 38 ), but which have not yet been approved for that product-type; or
+
+(ii) are being evaluated, under Regulation (EC) No 1451/2007, but which have not yet been approved for that product-type;
+
+or
+
+(b) a combination of active substances referred to in point (a) and active substances approved in accordance with this Regulation.
+
+By way of derogation from the first subparagraph, in the case of a decision not to approve an active substance, a Member State may continue to apply its current system or practice of making biocidal products available on the market for up to 12 months after the date of the decision not to approve an active substance in accordance with the third subparagraph of paragraph 1, and may continue to apply its current system or practice of using biocidal products for up to 18 months after that decision.
+
+3\. Following a decision to approve a particular active substance for a specific product-type, Member States shall ensure that authorisations for biocidal products of that product-type and containing that active substance are granted, modified or cancelled, as appropriate, in accordance with this Regulation within three years of the date of approval.
+
+To that effect, those wishing to apply for the authorisation or mutual recognition in parallel of biocidal products of that product-type containing no active substances other than existing active substances shall submit applications for authorisation or mutual recognition in parallel no later than the date of approval of the active substance(s). In the case of biocidal products containing more than one active substance, applications shall be submitted no later than the date of approval of the last active substance for that product-type.
+
+Where no application for authorisation or mutual recognition in parallel has been submitted in accordance with the second subparagraph:
+
+(a) the biocidal product shall no longer be made available on the market with effect from 180 days after the date of approval of the active substance(s); and
+
+(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of approval of the active substance(s).
+
+4\. Where a Member State’s competent authority, or where relevant, the Commission, decides to reject an application submitted in accordance with paragraph 3 for authorisation of a biocidal product already made available on the market, or decides not to grant an authorisation or to impose conditions for the authorisation making it necessary to change such a product, the following shall apply:
+
+(a) a biocidal product which has not been authorised or, where relevant, which does not comply with the conditions of the authorisation, shall no longer be made available on the market with effect from 180 days after the date of the decision of the authority; and
+
+(b) use of existing stocks of the biocidal product may continue for up to 365 days after the date of the decision of the authority.
+
+#### Article 90 — Transitional measures concerning active substances evaluated under Directive 98/8/EC
+
+1\. The Agency shall be responsible for coordinating the process of evaluation of dossiers submitted after 1 September 2012 and shall facilitate the evaluation by providing organisational and technical support to the Member States and the Commission.
+
+2\. Applications submitted for the purposes of Directive 98/8/EC for which the Member States’ evaluation in accordance with Article 11(2) of Directive 98/8/EC has not been completed by 1 September 2013 shall be evaluated by the competent authorities in accordance with the provisions of this Regulation and, where relevant, Regulation (EC) No 1451/2007.
+
+That evaluation shall be carried out on the basis of the information provided in the dossier submitted under Directive 98/8/EC.
+
+Where the evaluation identifies concerns arising from the application of provisions of this Regulation which were not included in Directive 98/8/EC, the applicant shall be given the opportunity to provide additional information.
+
+Every effort shall be made to avoid additional testing on vertebrates and to avoid causing delays to the review programme laid down in Regulation (EC) No 1451/2007 as a result of these transitional arrangements.
+
+Notwithstanding paragraph 1, the Agency shall also be responsible for coordinating the evaluation process of dossiers submitted for the purposes of Directive 98/8/EC for which the evaluation has not been completed by 1 September 2013 and shall facilitate the preparation of the evaluation by providing organisational and technical support to the Member States and the Commission from 1 January 2014.
+
+#### Article 91 — Transitional measures concerning applications for biocidal product authorisations submitted under Directive 98/8/EC
+
+Applications for biocidal product authorisations submitted for the purposes of Directive 98/8/EC for which the evaluation has not been completed by 1 September 2013 shall be evaluated by the competent authorities in accordance with that Directive.
+
+Notwithstanding the first paragraph, the following shall apply:
+
+— where the risk assessment of the active substance indicates that one or more of the criteria listed under Article 5(1) is met, the biocidal product shall be authorised in accordance with Article 19,
+
+— where the risk assessment of the active substance indicates that one or more of the criteria listed under Article 10 is met, the biocidal product shall be authorised in accordance with Article 23.
+
+Where the evaluation identifies concerns arising from the application of provisions of this Regulation which were not included in Directive 98/8/EC, the applicant shall be given the opportunity to provide additional information.
+
+#### Article 92 — Transitional measures concerning biocidal products authorised/registered under Directive 98/8/EC
+
+1\. Biocidal products for which an authorisation or registration in accordance with Article 3, 4, 15 or 17 of Directive 98/8/EC was granted before 1 September 2013 can continue to be made available on the market and used subject, where applicable, to any conditions of authorisation or registration stipulated under that Directive until the expiry date of the authorisation or registration or its cancellation.
+
+2\. Notwithstanding paragraph 1, this Regulation shall apply to biocidal products referred to in that paragraph from 1 September 2013.
+
+Biocidal products authorised in accordance with Article 3 or 4 of Directive 98/8/EC shall be considered as authorised in accordance with Article 17 of this Regulation.
+
+#### Article 93 — Transitional measures concerning biocidal products not covered by the scope of Directive 98/8/EC
+
+By way of derogation from Article 17(1), a Member State may continue to apply its current system or practice of making available on the market and using a biocidal product not covered by the scope of Directive 98/8/EC, but falling within the scope of this Regulation, and consisting of, containing or generating only active substances that were available on the market, or used in biocidal products, on 1 September 2013. The derogation shall apply until one of the following dates:
+
+(a) where applications for approval of all those active substances, which the biocidal product consists of, contains or generates, are submitted for the relevant product-type by 1 September 2016, the deadlines provided for in the second subparagraph of Article 89(2), in Article 89(3) and in Article 89(4); or
+
+(b) where an application is not submitted in accordance with point (a) for one of the active substances, until 1 September 2017.
+
+#### Article 94 — Transitional measures concerning treated articles
+
+1\. By way of derogation from Article 58(2), a treated article treated with or intentionally incorporating one or more biocidal products containing only active substances that are under examination for the relevant product-type in the work programme referred to in Article 89(1) on 1 September 2016 or for which an application for approval for the relevant product-type is submitted by that date, or containing only a combination of such substances and active substances included in the list drawn up in accordance with Article 9(2) for the relevant product-type and use or included in Annex I, may be placed on the market until one of the following dates:
+
+(a) in the case of a decision adopted after 1 September 2016 to reject the application for approval of, or not to approve, one of the active substances for the relevant use, the date falling 180 days after such a decision;
+
+(b) in other cases, the date of approval for the relevant product-type and use of the last active substance to be approved and contained in the biocidal product.
+
+2\. By way of further derogation from Article 58(2), a treated article treated with or intentionally incorporating one or more biocidal products containing any active substances other than those referred to in paragraph 1 of this Article or those included in the list drawn up in accordance with Article 9(2) for the relevant product-type and use or included in Annex I, may be placed on the market until 1 March 2017.
+
+#### Article 95 — Transitional measures concerning access to the active substance dossier
+
+1\. As of 1 September 2013, the Agency shall make publicly available and shall regularly update a list of all active substances, and all substances generating an active substance, for which a dossier complying with Annex II to this Regulation or with Annex IIA or IVA to Directive 98/8/EC and, where relevant, Annex IIIA to that Directive (‘the complete substance dossier’) has been submitted and accepted or validated by a Member State in a procedure provided for by this Regulation or that Directive (‘the relevant substances’). For each relevant substance, the list shall also include all persons having made such a submission or a submission to the Agency in accordance with the second subparagraph of this paragraph, and indicate their role as specified in that subparagraph, and the product-type(s) for which they have made a submission, as well as the date of inclusion of the substance in the list.
+
+A person established within the Union who manufactures or imports a relevant substance, on its own or in biocidal products (‘the substance supplier’) or who manufactures or makes available on the market a biocidal product consisting of, containing or generating that relevant substance (‘the product supplier’), may at any time submit to the Agency either a complete substance dossier for that relevant substance, a letter of access to a complete substance dossier, or a reference to a complete substance dossier for which all data protection periods have expired. Following the renewal of the approval of an active substance, any substance supplier or product supplier may submit to the Agency a letter of access to all the data which was considered by the evaluating competent authority as relevant for the purpose of the renewal, and for which the protection period has not yet expired (‘the relevant data’).
+
+The Agency shall inform the submitting supplier of the fees payable under Article 80(1). It shall reject the application if the submitting supplier fails to pay those fees within 30 days and shall inform the submitting supplier accordingly.
+
+Upon receipt of the fees payable under Article 80(1), the Agency shall verify whether the submission complies with the second subparagraph of this paragraph and shall inform the submitting supplier accordingly.
+
+2\. As of 1 September 2015, a biocidal product consisting of, containing or generating a relevant substance, included in the list referred to in paragraph 1, shall not be made available on the market unless either the substance supplier or the product supplier is included in the list referred to in paragraph 1 for the product-type(s) to which the product belongs.
+
+3\. For the purposes of making a submission in accordance with the second subparagraph of paragraph 1 of this article, Article 63(3) of this Regulation shall apply to all toxicological, ecotoxicological and environmental fate and behaviour studies relating to substances listed in Annex II to Regulation (EC) No 1451/2007, including any such studies not involving tests on vertebrates.
+
+4\. A substance supplier or a product supplier included in the list referred to in paragraph 1 to whom a letter of access has been issued for the purpose of this Article or a right to refer to a study has been granted in accordance with paragraph 3 shall be entitled to allow applicants for the authorisation of a biocidal product to make reference to that letter of access or that study for the purposes of Article 20(1).
+
+5\. By way of derogation from Article 60, all data protection periods for active substance/product-type combinations listed in Annex II to Regulation (EC) No 1451/2007, but for which a decision on inclusion in Annex I to Directive 98/8/EC was not taken before 1 September 2013, shall end on 31 December 2025.
+
+By way of derogation from the first subparagraph of this paragraph, all data protection periods for active substance/product-type combinations for which a decision on the approval has not been adopted in accordance with Article 89(1), third subparagraph, by 7 June 2018, shall end on 31 December 2030.
+
+Data owners may claim compensation for access to their data for the period from 1 January 2026 to 15 June 2026 from a substance supplier or product supplier having benefitted from the absence of protection and having been included in the list referred to in paragraph 1 of this Article during that period.
+
+6\. Paragraphs 1 to 5 shall not apply to substances listed in Annex I in categories 1 to 5 and category 7 or to biocidal products containing only such substances.
+
+7\. The Agency shall regularly update the list referred to in paragraph 1 of this Article. Following the renewal of the approval of an active substance, the Agency shall remove from the list any substance supplier or product supplier who has not, within 12 months of the renewal, submitted all the relevant data or a letter of access to all the relevant data, either in accordance with the second subparagraph of paragraph 1 of this Article or in an application in accordance with Article 13.
+
+#### Article 96 — Repeal
+
+Without prejudice to Articles 86, 89 to 93 and 95 of this Regulation, Directive 98/8/EC is hereby repealed with effect from 1 September 2013.
+
+References to the repealed Directive shall be construed as references to this Regulation and read in accordance with the correlation table in Annex VII.
+
+#### Article 97 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 September 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)**
+
+<table>
+<tbody><tr><td>EC number</td><td>Name/group</td><td>Restriction</td><td>Comment</td></tr>
+<tr><td colspan="4">Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008</td></tr>
+<tr><td>200-018-0</td><td>Lactic acid</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 270</td></tr>
+<tr><td>204-823-8</td><td>Sodium acetate</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 262</td></tr>
+<tr><td>208-534-8</td><td>Sodium benzoate</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 211</td></tr>
+<tr><td>201-766-0</td><td>(+)-Tartaric acid</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 334</td></tr>
+<tr><td>200-580-7</td><td>Acetic acid</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 260</td></tr>
+<tr><td>201-176-3</td><td>Propionic acid</td><td>Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008</td><td>E 280</td></tr>
+<tr><td colspan="4">Category 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006</td></tr>
+<tr><td>200-066-2</td><td>Ascorbic acid</td><td>  </td><td>  </td></tr>
+<tr><td>232-278-6</td><td>Linseed oil</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>—</td><td>Nitrogen generated from ambient air</td><td>Applications for product authorisations shall include evidence that exposure of the user and the general public to a hypoxic atmosphere is avoided and, where appropriate, the necessary measures are taken.</td><td>—</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Category 3 — Weak acids</td></tr>
+<tr><td colspan="4">Category 4 — Traditionally used substances of natural origin</td></tr>
+<tr><td>Natural oil</td><td>Lavender oil</td><td>  </td><td>CAS 8000-28-0</td></tr>
+<tr><td>Natural oil</td><td>Peppermint oil</td><td>  </td><td>CAS 8006-90-4</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Vinegar (1)</td><td>Excluding vinegar that is not food and excluding vinegar that contains more than 10 % acetic acid (whether or not it is food).</td><td>CAS No 8028-52-2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Saccharomyces cerevisiae (yeast) (2)</td><td>Excluding Saccharomyces cerevisiae that is not food or feed.</td><td>CAS No 68876-77-7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Powdered egg (3)</td><td>Excluding powdered egg that is not food or feed.</td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Honey (4)</td><td>Excluding honey that is not food or feed.</td><td>CAS No 8028-66-8</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>200-333-3</td><td>D-Fructose (5)</td><td>Excluding D-fructose that is not food or feed.</td><td>CAS No 57-48-7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Cheese (6)</td><td>Excluding cheese that is not food or feed.</td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>Concentrated apple juice (7)</td><td>Excluding concentrated apple juice that does not fall within the definition in point (2) of Part I of Annex I to Council Directive 2001/112/EC (8).</td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Category 5 — Pheromones</td></tr>
+<tr><td>222-226-0</td><td>Oct-1-en-3-ol</td><td>  </td><td>  </td></tr>
+<tr><td>Mixture</td><td>Webbing clothes moths pheromone</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>204-696-9</td><td>Carbon dioxide</td><td>The authorisation of biocidal products containing carbon dioxide as an active substance shall be subject to the following conditions: (a) the exposure of professional users to carbon dioxide remains below the acceptable exposure concentration (AEC) of:  (i) 1,5 % volume/volume (v/v) carbon dioxide for the short-term exposure limit (STEL) of 15 minutes; and  (ii) 0,5 % v/v carbon dioxide for the time-weighted average (TWA) of 8 hours;  (b) the exposure of general public users or by-standers to carbon dioxide remains below 0,1 % v/v carbon dioxide;  (c) where appropriate, the necessary measures shall be taken by the user as described in the summary of product characteristics. </td><td>—</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>204-696-9</td><td>Carbon dioxide generated from propane, butane or a mixture of both by combustion (10)</td><td>  </td><td>CAS No 124-38-9</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>201-069-1</td><td>Citric acid</td><td>Minimum degree of purity of the active substance (9): 995 g/kg</td><td>CAS No 77-92-9</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>231-783-9</td><td>Nitrogen</td><td>Only for use in limited quantities in ready-for-use canisters</td><td>  </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>246-376-1</td><td>Potassium (E,E)-hexa-2,4-dienoate (potassium sorbate) (11)</td><td>Minimum degree of purity of the active substance (12): 990 g/kg</td><td>CAS No 24634-61-5</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Not available</td><td>(9Z,12E)-tetradeca-9,12-dien-1-yl acetate</td><td>  </td><td>CAS 30507-70-1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Category 7 — Other</td></tr>
+<tr><td>  </td><td>Baculovirus</td><td>  </td><td>  </td></tr>
+<tr><td>215-108-5</td><td>Bentonite</td><td>  </td><td>  </td></tr>
+<tr><td>203-376-6</td><td>Citronellal</td><td>  </td><td>  </td></tr>
+<tr><td>231-753-5</td><td>Iron sulphate</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">(1)  The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.    (2)  The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (3)  The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (4)  The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (5)  The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (6)  The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (7)  The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.  (8)  Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).  (9)  The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.  (10)  The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.  (11)  The date of approval of potassium sorbate for product-type 6 for the purposes of Article 89(3) is 1 February 2023.  (12)  The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated active substance. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**INFORMATION REQUIREMENTS FOR ACTIVE SUBSTANCES**
+
+1\. This Annex sets out the information requirements for the preparation of the dossier referred to in point (a) of Article 6(1).
+
+2\. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all active substances. However, in some cases the physical or chemical properties of the substance may mean that it is impossible or unnecessary to provide specific data elements belonging to the CDS.
+
+With regard to the ADS, the data elements to be provided for a specific active substance shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the substance, existing data, information which is part of the CDS and the types of products in which the active substance will be used and the exposure patterns related to these uses.
+
+Specific indications for the inclusion of some data elements are provided in column 1 of the Annex II table. The general considerations regarding adaptation of information requirements as set out in Annex IV shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the Annex II table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates. The information submitted shall, in any case, be sufficient to support a risk assessment demonstrating that the criteria referred to in Article 4(1) are met.
+
+The applicant should consult the detailed technical guidance regarding the application of this Annex and the preparation of the dossier referred to in point (a) of Article 6(1), which is available on the website of the Agency.
+
+The applicant shall initiate a pre-submission consultation with the prospective evaluating body. In addition to the obligation set out in Article 62(2), applicant may also consult with the competent authority that will evaluate the dossier with regard to the proposed information requirements and in particular the testing on vertebrates that the applicant proposes to carry out. The applicant shall document such pre-submission consultations and their outcomes and shall include the relevant documents in the application.
+
+Additional information may need to be submitted if it is necessary to carry out the evaluation as indicated in Article 8(2).
+
+3\. A detailed and full description of the studies conducted or referred to and of the methods used shall be included. It is important to ensure that the data available is relevant and is of sufficient quality to fulfil the requirements. Evidence should also be provided to demonstrate that the active substance upon which the tests have been carried out is the same as the substance for which the application has been submitted.
+
+4\. The formats made available by the Agency must be used for submission of the dossiers. In addition, IUCLID must be used for those parts of the dossiers to which IUCLID applies. Formats and further guidance on data requirements and dossier preparation are available on the website of the Agency.
+
+5\. Tests submitted for the purpose of the approval of an active substance shall be conducted in accordance with the methods described in Commission Regulation (EC) No 440/2008 ( 39 ), or any revised version of these methods not yet included in that Regulation.
+
+However, if a method is inappropriate or not described in Commission Regulation (EC) No 440/2008, other methods shall be used which are scientifically appropriate and their appropriateness shall be justified in the application.
+
+When test methods are applied to nano-materials, an explanation shall be provided of their scientific appropriateness for nanomaterials, and where applicable, of the technical adaptations or adjustments that have been made in order to respond to the specific characteristics of these materials.
+
+6\. Tests performed should comply with the relevant requirements of protection of laboratory animals, set out in Directive 2010/63/EU of the European Parliament and the Council of 22 September 2010 on the protection of animals used for scientific purposes ( 40 ) and in the case of ecotoxicological and toxicological tests, good laboratory practice, set out in Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their application for tests on chemical substances ( 41 ) or other international standards recognised as being equivalent by the Commission or the Agency. Tests on physico-chemical properties and safety-relevant substance data should be performed at least according to international standards.
+
+7\. Where testing is done, a detailed description (specification) of the active substance used and its impurities must be provided. Testing should be performed with the active substance as manufactured or, in the case of some of the physical and chemical properties (see indications given in column I of the table), with a purified form of the active substance.
+
+8\. Where test data exist that have been generated before 1 September 2013 by methods other than those laid down in Regulation (EC) No 440/2008, the adequacy of such data for the purposes of this Regulation and the need to conduct new tests according to the Regulation (EC) No 440/2008 must be decided by the competent authority of the Member State concerned, on a case-by-case basis, taking into account, among other factors, the need to minimise testing on vertebrates.
+
+9\. New tests involving vertebrates shall be conducted as the last available option to comply with the data requirements set out in this Annex when all the other data sources have been exhausted. In-vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall also be avoided.
+
+**TITLE 1**
+
+**CHEMICAL SUBSTANCES**
+
+**Core data set and additional data set for active substances**
+
+Information required to support the approval of an active substance is listed in the table below.
+
+Conditions for not requiring a specific test that are set out in the appropriate test methods in the Regulation (EC) No 440/2008 and are not repeated in column 3, also apply.
+
+<table>
+<tbody><tr><td>Column 1 Information required </td><td>Column 2 All data is CDS unless indicated as ADS </td><td><br> Column 3 <br> Specific rules for adaptation from column 1   </td></tr>
+<tr><td colspan="3">1. APPLICANT</td></tr>
+<tr><td>1.1. Name and address</td><td>  </td><td>  </td></tr>
+<tr><td>1.2. Contact person</td><td>  </td><td>  </td></tr>
+<tr><td>1.3. Active substance manufacturer (name, address and location of manufacturing plant(s))</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">2. IDENTITY OF THE ACTIVE SUBSTANCE (AND ITS PRECURSOR(S) IF THE ACTIVE SUBSTANCE IS GENERATED IN SITU)</td></tr>
+<tr><td>For the active substance and, if applicable, its precursors, the information given in this Section shall be sufficient to enable the active substance to be identified. If it is not technically possible or if it does not appear scientifically necessary to give information on one or more of the items listed in this Section, the reasons shall be clearly stated</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.1. Common name proposed or accepted by ISO and synonyms (usual name, trade name, abbreviation)</td><td>  </td><td>  </td></tr>
+<tr><td>2.2. Chemical name (IUPAC and CA nomenclature or other international chemical name(s))</td><td>  </td><td>  </td></tr>
+<tr><td>2.3. Manufacturer’s development code number(s)</td><td>  </td><td>  </td></tr>
+<tr><td>2.4. CAS number plus EC, INDEX and CIPAC numbers</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.5. Molecular and structural formula (including SMILES notation, if available and appropriate). For precursor(s) and for active substances generated in situ, information about all generated chemical substances (intended and unintended) </td><td>  </td><td>In case it is not possible to exactly define the molecular structure of the precursor(s) and/or active substance, the molecular and structural formulas do not need to be provided</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.6. Information on optical activity and full details of any isomeric composition (if applicable and appropriate)</td><td>  </td><td>  </td></tr>
+<tr><td>2.7. Molar mass</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.8. Method of manufacture (syntheses pathways) of active substance including information on starting materials and solvents including suppliers, specifications and commercial availability. For active substances generated in situ, a description of the reaction schemes including all intermediate reactions and their associated chemical substances (intended and unintended) shall be provided </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.9. Specification of purity of the active substance as manufactured in g/kg, g/l or %w/w (v/v) as appropriate, providing inclusively the upper and lower limit</td><td>  </td><td>  </td></tr>
+<tr><td>2.10. The identity of any impurities and additives including by-products of synthesis, optical isomers, degradation products (if the substance is unstable) un-reacted and end-groups etc. of polymers and un-reacted starting materials of UVC-substances</td><td>  </td><td>  </td></tr>
+<tr><td>2.11. Analytical profile of at least five representative batches (g/kg active substance) including information on content of the impurities referred to in 2.10.</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.11.1. Analytical profile of at least five representative samples taken from the in situ generated substance(s), providing information on the content of the active substance(s) and any other constituent above 0,1 % w/w, including residues of precursor(s)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.12. The origin of the natural active substance or the precursor(s) of the active substance, e.g. an extract of a flower</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3. PHYSICAL AND CHEMICAL PROPERTIES OF THE ACTIVE SUBSTANCE</td></tr>
+<tr><td colspan="3">3.1. Appearance (1)</td></tr>
+<tr><td>3.1.1. Aggregate state (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.2. Physical state (i.e. viscous, crystalline, powder) (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.3. Colour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.4. Odour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.2. Melting/freezing point (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.3. Acidity, alkalinity</td><td>  </td><td>  </td></tr>
+<tr><td>3.4. Boiling point (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.5. Relative Density (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.6. Absorption spectra data (UV/VIS, IR, NMR) and a mass spectrum, molar extinction coefficient at relevant wavelengths, where relevant (2)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.7. Vapour pressure (2)</td></tr>
+<tr><td>3.7.1. Henry’s law constant must always be stated for solids and liquids if it can be calculated</td><td>  </td><td>  </td></tr>
+<tr><td>3.8. Surface tension (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.9. Water solubility (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.10. Partition coefficient (n-octanol/water) and its pH dependency (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.11. Thermal stability, identity of breakdown products (2)</td><td>  </td><td>  </td></tr>
+<tr><td>3.12. Reactivity towards container material</td><td>  </td><td>  </td></tr>
+<tr><td>3.13. Dissociation constant</td><td>ADS</td><td>  </td></tr>
+<tr><td>3.14. Granulometry</td><td>  </td><td>  </td></tr>
+<tr><td>3.15. Viscosity</td><td>ADS</td><td>  </td></tr>
+<tr><td>3.16. Solubility in organic solvents, including effect of temperature on solubility (2)</td><td>ADS</td><td>  </td></tr>
+<tr><td>3.17. Stability in organic solvents used in biocidal products and identity of relevant breakdown products (1)</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">4. PHYSICAL HAZARDS AND RESPECTIVE CHARACTERISTICS</td></tr>
+<tr><td>4.1. Explosives</td><td>  </td><td>  </td></tr>
+<tr><td>4.2. Flammable gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.3. Flammable aerosols</td><td>  </td><td>  </td></tr>
+<tr><td>4.4. Oxidising gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.5. Gases under pressure</td><td>  </td><td>  </td></tr>
+<tr><td>4.6. Flammable liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.7. Flammable solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.8. Self-reactive substances and mixtures</td><td>  </td><td>  </td></tr>
+<tr><td>4.9. Pyrophoric liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.10. Pyrophoric solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.11. Self-heating substances and mixtures</td><td>  </td><td>  </td></tr>
+<tr><td>4.12. Substances and mixtures which in contact with water emit flammable gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.13. Oxidising liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.14. Oxidising solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.15. Organic peroxides</td><td>  </td><td>  </td></tr>
+<tr><td>4.16. Corrosive to metals</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">4.17. Additional physical indicators for hazards</td></tr>
+<tr><td>4.17.1. Auto-ignition temperature (liquids and gases)</td><td>  </td><td>  </td></tr>
+<tr><td>4.17.2. Relative self ignition temperature for solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.17.3. Dust explosion hazard</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">5. METHODS OF DETECTION AND IDENTIFICATION</td></tr>
+<tr><td>5.1. Analytical methods including validation parameters for the determination of active substance as manufactured and where appropriate, for relevant residues, isomers and impurities of the active substance and additives (e.g. stabilisers) For impurities other than relevant impurities this only applies if they are present at ≥ 1 g/kg </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">5.2. Analytical methods for monitoring purposes including recovery rates and the limits of quantification and detection for the active substance, and for residues thereof in/on the following where relevant</td></tr>
+<tr><td>5.2.1. Soil</td><td>  </td><td>  </td></tr>
+<tr><td>5.2.2. Air</td><td>  </td><td>  </td></tr>
+<tr><td>5.2.3. Water (surface, drinking etc.) and sediment</td><td>  </td><td>  </td></tr>
+<tr><td>5.2.4. Animal and human body fluids and tissues</td><td>  </td><td>  </td></tr>
+<tr><td>5.3. Analytical methods for monitoring purposes including recovery rates and the limit of quantification and detection for the active substance, and for residues thereof, in/on food of plant and animal origin or feeding stuffs and other products where relevant (not necessary if neither the active substance nor articles treated with it come into contact with food-producing animals, food of plant or animal origin or feeding stuffs)</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">6. EFFECTIVENESS AGAINST TARGET ORGANISMS</td></tr>
+<tr><td>6.1. Function, e.g. fungicide, rodenticide, insecticide, bactericide and mode of control e.g. attracting, killing, inhibiting</td><td>  </td><td>  </td></tr>
+<tr><td>6.2. Representative organism(s) to be controlled and products, organisms or objects to be protected</td><td>  </td><td>  </td></tr>
+<tr><td>6.3. Effects on representative target organism(s)</td><td>  </td><td>  </td></tr>
+<tr><td>6.4. Likely concentration at which the active substance will be used in products and, where appropriate, in treated articles</td><td>  </td><td>  </td></tr>
+<tr><td>6.5. Mode of action (including time delay)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.6. Efficacy data to support: — the innate activity of the active substance for the intended use(s), and  — any claims made on treated articles regarding the biocidal properties conferred to the article.  Efficacy data shall include any available standard protocols, laboratory tests or field trials and performance standards where appropriate, or data similar to those available for suitable reference products </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">6.7. Any known limitations on efficacy</td></tr>
+<tr><td>6.7.1. Information on the occurrence or possible occurrence of the development of resistance and appropriate management strategies</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.7.2. Observations on undesirable or unintended side effects on non-target organisms or on objects and material to be protected</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">7. INTENDED USES AND EXPOSURE</td></tr>
+<tr><td>7.1. Field of use(s) envisaged for biocidal products and, where appropriate, treated articles</td><td>  </td><td>  </td></tr>
+<tr><td>7.2. Product-type(s)</td><td>  </td><td>  </td></tr>
+<tr><td>7.3. Detailed description of the intended use pattern(s) including in treated articles</td><td>  </td><td>  </td></tr>
+<tr><td>7.4. Users e.g. industrial, trained professional, professional or general public (non-professional)</td><td>  </td><td>  </td></tr>
+<tr><td>7.5. Likely tonnage to be placed on the market per year and, where relevant, for the envisaged major use categories</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7.6. Exposure data in conformity with Annex VI to this Regulation</td></tr>
+<tr><td>7.6.1. Information on human exposure associated with the intended uses and disposal of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>7.6.2. Information on environmental exposure associated with the intended uses and disposal of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>7.6.3. Information on exposure of food- producing animals and food and feeding stuffs associated with the intended uses of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>7.6.4. Information on exposure from treated articles including leaching data (either laboratory studies or model data)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">8. TOXICOLOGICAL PROFILE FOR HUMAN AND ANIMAL INCLUDING METABOLISM</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.1. Skin corrosion or irritation The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) skin corrosion, in vitro testing;  (c) skin irritation, in vitro testing;  (d) skin corrosion or irritation, in vivo testing </td><td>  </td><td>The study/ies in column 1 do(es) not need to be conducted if: — the available information indicates that the substance meets the criteria for classification for skin corrosion or irritation,  — the substance is a strong acid (pH≤ 2,0) or base (pH≥ 11,5),  — the substance is spontaneously flammable in air or in contact with water or moisture at room temperature,  — the substance meets the classification criteria for acute toxicity (Category 1) by the dermal route, or  — an acute toxicity study by the dermal route provides conclusive evidence on skin corrosion or irritation adequate for classification.  If results from one of the two studies listed in point (b) or point (c) in column 1 of this row already allow conclusive decision on the classification of a substance or on the absence of skin irritation potential, the second study does not need to be conducted  An in vivo study for skin corrosion or irritation shall be considered only if the in vitro studies listed in points (b) and (c) in column 1 of this row are not applicable, or the results of these studies are not adequate for classification and risk assessment  In vivo studies for skin corrosion or irritation that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td>8.2. Serious eye damage or eye irritation The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) serious eye damage or eye irritation, in vitro testing;  (c) serious eye damage or eye irritation, in vivo testing </td><td>  </td><td>The study/ies in column 1 do(es) not need to be conducted if: — the available information indicates that the substance meets the criteria for classification for eye irritation or causing serious damage to eyes,  — the substance is a strong acid (pH≤ 2,0) or base (pH≥ 11,5),  — the substance is spontaneously flammable in air or in contact with water or moisture at room temperature, or  — the substance meets the classification criteria for skin corrosion leading to classification of the substance as ‘serious eye damage’ (category 1).  If results from a first in vitro study do not allow a conclusive decision on the classification of the substance or on the absence of eye irritation potential (an)other(s) in vitro study(ies) for this endpoint shall be considered.  An in vivo study for serious eye damage or eye irritation shall be considered only if the in vitro study(ies) listed in point (b) in column 1 of this row are not applicable, or the results obtained from these studies are not adequate for classification and risk assessment  In vivo studies for serious eye damage or eye irritation that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td>8.3. Skin sensitisation The information shall allow to conclude whether the substance is a skin sensitiser and whether it can be presumed to have the potential to produce significant sensitisation in humans (Category 1A). The information should be sufficient to perform a risk assessment where required  The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) skin sensitisation, in vitro testing. Information from in vitro or in chemico test method(s) referred to in point 5 of the introductory part of this Annex and addressing each of the following key events of skin sensitisation:  (i) molecular interaction with skin proteins;  (ii) inflammatory response in keratinocytes;  (iii) activation of dendritic cells;  (c) skin sensitisation in vivo testing. The Murine Local Lymph Node Assay (LLNA) is the first-choice method for in vivo testing. Another skin sensitisation test may only be used in exceptional cases. If another skin sensitisation test is used, justification shall be provided </td><td>  </td><td>The study/ies in column 1 do(es) not need to be conducted if: — the available information indicates that the substance meets the criteria for classification for skin sensitisation or skin corrosion,  — the substance is a strong acid (pH≤ 2,0) or base (pH≥ 11,5), or  — the substance is spontaneously flammable in air or in contact with water or moisture at room temperature.  In vitro tests do not need to be conducted if:  — an in vivo study referred to in point (c) of column 1 of this row is available, or  — the available in vitro or in chemico test methods are not applicable for the substance or the results obtained from those studies are not adequate for classification and risk assessment.  If information from test method(s) addressing one or two of the key events described under point (b) in column 1 of this row allows for classification of the substance and risk assessment, studies addressing the other key event(s) do not need to be conducted  An in vivo study for skin sensitisation shall be conducted only if in vitro or in chemico test methods described under point (b) in column 1 of this row are not applicable, or the results obtained from those studies are not adequate for classification and risk assessment  In vivo skin sensitisation studies that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.4. Respiratory sensitisation</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">8.5. Mutagenicity</td></tr>
+<tr><td>The assessment of this endpoint shall comprise the following consecutive steps: — an assessment of the available in vivo genotoxicity data  — an in vitro test for gene mutations in bacteria, an in vitro cytogenicity test in mammalian cells and an in vitro gene mutation test in mammalian cells are required  — appropriate in vivo genotoxicity studies shall be considered in case of a positive result in any of the in vitro genotoxicity studies </td><td>  </td><td>  </td></tr>
+<tr><td>8.5.1. In vitro gene mutation study in bacteria</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.2. In vitro cytogenicity study in mammalian cells</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.3. In vitro gene mutation study in mammalian cells</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.6. In vivo genotoxicity study The assessment shall comprise the following tiers:  (a) If there is a positive result in any of the in vitro genotoxicity studies as listed in 8.5 and there are no reliable results available from an appropriate in vivo somatic cell genotoxicity study, an appropriate in vivo somatic cell genotoxicity study shall be conducted;  (b) A second in vivo somatic cell genotoxicity study may be necessary depending on the in vitro and in vivo results, type of effects, quality and relevance of all available data;  (c) If there is a positive result from an in vivo somatic cell genotoxicity study available, the potential for germ cell mutagenicity should be considered based on all available data, including toxicokinetic evidence to demonstrate whether the substance has the capacity to reach germ cells. If no clear conclusions about germ cell mutagenicity can be made, additional investigations shall be considered </td><td>ADS</td><td>The study/ies in column 1 do(es) not need to be conducted if: — the results are negative for the three in vitro tests listed in 8.5 and no other concern has been identified (e.g. metabolites of concern formed in mammals), or  — the substance meets the criteria to be classified as a germ cell mutagen category 1A or 1B.  The germ cell genotoxicity test does not need to be conducted if the substance meets the criteria to be classified as a carcinogen, category 1A or 1B and a germ cell mutagen category 2 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.7. Acute toxicity In addition to the oral route of administration (8.7.1), for substances other than gases, the information mentioned under 8.7.2 to 8.7.3 shall be provided for at least one other route of administration  — The choice for the second route will depend on the nature of the substance and the likely route of human exposure  — Gases and volatile liquids should be administered by the inhalation route  — If the only route of exposure is the oral route, then information for only that route need be provided. If either the dermal or inhalation route is the only route of exposure to humans then an oral test may be considered. Before a new dermal acute toxicity study is carried out, an in vitro dermal penetration study (OECD 428) should be conducted to assess the likely magnitude and rate of dermal bioavailability  — There may be exceptional circumstances where all routes of administration are deemed necessary </td><td>  </td><td>The study/ies do(es) not generally need to be conducted if: — the substance is classified as corrosive to the skin </td></tr>
+<tr><td>8.7.1. By oral route The Acute Toxic Class Method is the preferred method for the determination of this endpoint </td><td>  </td><td>The study need not be conducted if: — the substance is a gas or a highly volatile substance </td></tr>
+<tr><td>8.7.2. By inhalation Testing by the inhalation route is appropriate if exposure of humans via inhalation is likely taking into account:  — the vapour pressure of the substance (a volatile substance has vapour pressure &gt; 1 × 10–2 Pa at 20 °C) and/or  — the active substance is a powder containing a significant proportion (e.g. 1 % on a weight basis) of particles with particle size MMAD &lt; 50 micrometers or  — the active substance is included in products that are powders or are applied in a manner that generates exposure to aerosols, particles or droplets of an inhalable size (MMAD &lt; 50 micrometers)  — the Acute Toxic Class Method is the preferred method for the determination of this endpoint </td><td>  </td><td>  </td></tr>
+<tr><td>8.7.3. By dermal route Testing by the dermal route is necessary only if:  — inhalation of the substance is unlikely, or  — skin contact in production and/or use is likely, and either  — the physicochemical and toxicological properties suggest potential for a significant rate of absorption through the skin, or  — the results of an in vitro dermal penetration study (OECD 428) demonstrate high dermal absorption and bioavailability </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">8.8. Toxicokinetics and metabolism studies in mammals</td></tr>
+<tr><td>The toxicokinetics and metabolism studies should provide basic data about the rate and extent of absorption, the tissue distribution and the relevant metabolic pathway including the degree of metabolism, the routes and rate of excretion and the relevant metabolites</td><td>  </td><td>  </td></tr>
+<tr><td>8.8.1. Further toxicokinetic and metabolism studies in mammals Additional studies might be required based on the outcome of the toxicokinetic and metabolism study conducted in rat. These further studies shall be required if:  — there is evidence that metabolism in the rat is not relevant for human exposure  — route-to-route extrapolation from oral to dermal/inhalation exposure is not feasible  Where it is considered appropriate to obtain information on dermal absorption, the assessment of this endpoint shall proceed using a tiered approach for assessment of dermal absorption </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.9. Repeated dose toxicity In general, only one route of administration is necessary and the oral route is the preferred route. However, in some cases it may be necessary to evaluate more than one route of exposure.  For the evaluation of the safety of consumers in relation to active substances that may end up in food or feed, it is necessary to conduct toxicity studies by the oral route  Testing by the dermal route shall be considered if:  — skin contact in production and/or use is likely, and  — inhalation of the substance is unlikely, and  — one of the following conditions is met:—  (i) toxicity is observed in an acute dermal toxicity test at lower doses than in the oral toxicity test, or  (ii) information or test data indicate dermal absorption is comparable or higher than oral absorption, or  (iii) dermal toxicity is recognised for structurally related substances and for example is observed at lower doses than in the oral toxicity test or dermal absorption is comparable or higher than oral absorption  Testing by the inhalation route shall be considered if:  — exposure of humans via inhalation is likely taking into account the vapour pressure of the substance (volatile substances and gases have vapour pressure &gt; 1 × 10–2 Pa at 20 °C), and/or  — there is the possibility of exposure to aerosols, particles or droplets of an inhalable size (MMAD &lt; 50 micrometers) </td><td>  </td><td>The repeated dose toxicity study (28 or 90 days) does not need to be conducted if: — a substance undergoes immediate disintegration and there are sufficient data on the cleavage products for systemic and local effects and no synergistic effects are expected, or  — relevant human exposure can be excluded in accordance with Section 3 of Annex IV  In order to reduce testing carried out on vertebrates and in particular the need for free-standing single-endpoint studies, the design of the repeated dose toxicity studies shall take account of the possibility to explore several endpoints within the framework of one study </td></tr>
+<tr><td>8.9.1. Short-term repeated dose toxicity study (28 days), preferred species is rat</td><td>  </td><td>The short-term toxicity study (28 days) does not need to be conducted if: (i) a reliable sub-chronic (90 day) study is available, provided that the most appropriate species, dosage, solvent and route of administration were used,  (ii) the frequency and duration of human exposure indicates that a longer term study is appropriate and one of the following conditions is met:  — other available data indicate that the substance may have a dangerous property that cannot be detected in a short-term toxicity study, or  — appropriately designed toxicokinetic studies reveal accumulation of the substance or its metabolites in certain tissues or organs which would possibly remain undetected in a short term toxicity study but which are liable to result in adverse effects after prolonged exposure </td></tr>
+<tr><td>8.9.2. Sub-chronic repeated dose toxicity study (90 days), preferred species is rat</td><td>  </td><td>The sub-chronic toxicity study (90 days) does not need to be conducted if: — a reliable short-term toxicity study (28 days) is available showing severe toxicity effects according to the criteria for classifying the substance as H372 and H373 (Regulation (EC) No 1272/2008), for which the observed NOAEL-28 days, with the application of an appropriate uncertainty factor allows the extrapolation towards the NOAEL-90 days for the same route of exposure, and  — a reliable chronic toxicity study is available, provided that an appropriate species and route of administration were used, or  — the substance is unreactive, insoluble, not bioaccumulative and not inhalable and there is no evidence of absorption and no evidence of toxicity in a 28-day ‘limit test’, particularly if such a pattern is coupled with limited human exposure </td></tr>
+<tr><td>8.9.3. Long-term repeated dose toxicity (≥ 12 months)</td><td>  </td><td>The long-term toxicity study (≥ 12 months) does not need to be conducted if: — Long-term exposure can be excluded and no effects have been seen at the limit dose in the 90-day study or  — a combined long-term repeated dose/carcinogenicity study (8.11.1) is undertaken </td></tr>
+<tr><td>8.9.4. Further repeat dose studies Further repeat dose studies including testing on a second species (non-rodent), studies of longer duration or through a different route of administration shall be undertaken in case of:  — no other information on toxicity for a second non-rodent species is provided for, or  — failure to identify a no observed adverse effect level (NOAEL) in the 28- or the 90-day study, unless the reason is that no effects have been observed at the limit dose, or  — substances bearing positive structural alerts for effects for which the rat or mouse is an inappropriate or insensitive model, or  — toxicity of particular concern (e.g. serious/severe effects), or  — indications of an effect for which the available data is inadequate for toxicological and/or risk characterisation. In such cases it may also be more appropriate to perform specific toxicological studies that are designed to investigate these effects (e.g. immunotoxicity, neurotoxicity, hormonal activity), or  — concern regarding local effects for which a risk characterisation cannot be performed by route-to route extrapolation, or  — particular concern regarding exposure (e.g. use in biocidal products leading to exposure levels which are close to the toxicologically relevant dose levels), or  — effects shown in substances with a clear relationship in molecular structure with the substance being studied were not detected in the 28- or the 90-day study, or  — the route of administration used in the initial repeated dose study was inappropriate in relation to the expected route of human exposure and route-to-route extrapolation cannot be made. </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.10. Reproductive toxicity For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to conduct toxicity studies by the oral route </td><td>  </td><td>The studies do not need to be conducted if: — the substance meets the criteria to be classified as a genotoxic carcinogen (classified both as germ cell mutagen category 2, 1A or 1B and carcinogenic category 1A or 1B), and appropriate risk management measures are implemented including measures related to reproductive toxicity,  — the substance meets the criteria to be classified as a germ cell mutagen category 1A or 1B and appropriate risk management measures are implemented including measures related to reproductive toxicity,  — the substance is of low toxicological activity (no evidence of toxicity seen in any of the tests available provided that the dataset is sufficiently comprehensive and informative), it can be proven from toxicokinetic data that no systemic absorption occurs via relevant routes of exposure (e.g. plasma or blood concentrations below detection limit using a sensitive method and absence of the substance and of metabolites of the substance in urine, bile or exhaled air) and the pattern of use indicates that there is no or negligible human or animal exposure,  — the substance meets the criteria to be classified as reproductive toxicity category 1A or 1B: May damage fertility (H360F), and the available data are adequate to support a robust risk assessment, then no further testing for sexual function and fertility will be necessary. A full justification must be provided and documented if investigations for developmental toxicity are not conducted, or  — the substance is known to cause developmental toxicity, meeting the criteria for classification as reproductive toxicity category 1A or 1B: May damage the unborn child (H360D), and the available data are adequate to support a robust risk assessment, then no further testing for developmental toxicity will be necessary. A full justification must be provided and documented if investigations for sexual function and fertility is not conducted.  Notwithstanding the provisions of this column of this row, studies on reproductive toxicity may need to be conducted to obtain information on endocrine disrupting properties as laid down in 8.13.3.1. </td></tr>
+<tr><td>8.10.1. Pre-natal development toxicity study (OECD TG 414) on two species, preferred first species is rabbit (non-rodent) and preferred second species is rat (rodent); oral route of administration is the preferred route</td><td>  </td><td>The study on the second species shall not be conducted if the study performed on the first species or other available data indicate that the substance causes developmental toxicity meeting the criteria for classification as toxic for reproduction category 1A or 1B: May damage the unborn child (H360D), and the available data are adequate to support a robust risk assessment</td></tr>
+<tr><td>8.10.2. Extended One-Generation Reproductive Toxicity Study (OECD TG 443), with cohorts 1A and 1B and extension of cohort 1B to include the F2 generation with the aim to produce 20 litters per dose group, F2 pups must be followed to weaning and investigated similarly as F1 pups. Rat is the preferred species and oral route of administration is the preferred route. The highest dose level should be based on toxicity and selected with the aim to induce reproductive and/or other systemic toxicity </td><td>  </td><td>A two-generation reproductive toxicity study conducted in accordance with OECD TG 416 (adopted 2001 or later) or equivalent information shall be considered appropriate to address this information requirement, if the study is available and was initiated before 15 April 2022.</td></tr>
+<tr><td>8.10.3. Developmental neurotoxicity Developmental Neurotoxicity Study in accordance with OECD TG 426, or any relevant study (set) providing equivalent information, or cohorts 2A and 2B of an Extended One-Generation Reproductive Toxicity study (OECD TG 443) with additional investigation for cognitive functions </td><td>  </td><td>The study shall not be conducted if the available data: — indicate that the substance causes developmental toxicity and meets the criteria to be classified as toxic for reproduction category 1A or 1B: May damage the unborn child (H360D), and  — are adequate to support a robust risk assessment </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.10.4. Further studies A decision on the need to perform additional studies including those informing on the mechanisms should be based on the outcomes of the studies listed in 8.10.1, 8.10.2 and 8.10.3 and all other relevant available data </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.11. Carcinogenicity See 8.11.1 for new study requirements </td><td>  </td><td>A carcinogenicity study does not need to be conducted if: — the substance is classified as mutagen category 1A or 1B. The default presumption would be that a genotoxic mechanism for carcinogenicity is likely. In these cases, a carcinogenicity test will normally not be required </td></tr>
+<tr><td>8.11.1. Combined carcinogenicity study and long-term repeated dose toxicity Rat, oral route of administration is the preferred route. If an alternative route is proposed a justification must be provided.  For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to conduct toxicity studies by the oral route </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.11.2. Carcinogenicity testing in a second species (a) A second carcinogenicity study should be conducted using the mouse as test species;  (b) For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to conduct toxicity studies by the oral route </td><td>  </td><td>The second carcinogenicity study does not need to be conducted if the applicant can justify on the basis of scientific grounds that it is not necessary</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">8.12. Relevant health data, observations and treatments</td></tr>
+<tr><td>Justification should be provided if data is not available</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.12.1. Information on signs of poisoning, clinical tests, first aid measures, antidotes, medical treatment and prognosis following poisoning</td><td>  </td><td>  </td></tr>
+<tr><td>8.12.2. Epidemiological studies</td><td>  </td><td>  </td></tr>
+<tr><td>8.12.3. Medical surveillance data, health records and case reports</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.13. Additional studies Additional data which may be required depending on the characteristics and intended use of the active substance  Other available data: Available data from emerging methods and models, including toxicity pathway-based risk assessment, in vitro and ‘omic’ (genomic, proteomic, metabolomic, etc.) studies, systems biology, computational toxicology, bioinformatics, and high-throughput screening shall be submitted in parallel </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.13.1. Phototoxicity</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.13.2. Neurotoxicity If the active substance is an organophosphorus compound or if there is an indication, knowledge of the mechanism of action or knowledge from acute or repeated dose studies that the active substance may have neurotoxic properties, additional information or specific studies (such as OECD TG 424 or OECD TG 418 or 419 or equivalent) will be required  If anticholinesterase activity is detected a test for response to reactivating agents should be considered  For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to conduct toxicity studies by the oral route </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.13.3. Endocrine disruption The assessment of endocrine disruption shall comprise the following tiers:  (a) An assessment of the available information from the following studies and any other relevant information, including in vitro and in silico methods:  (i) 8.9.1 A 28-day oral toxicity study in rodents (OECD TG 407);  (ii) 8.9.2 A 90-day oral toxicity study in rodents (OECD TG 408);  (iii) 8.9.4 A repeated dose oral toxicity study in non-rodents (OECD TG 409);  (iv) 8.10.1 A prenatal developmental toxicity study (OECD TG 414);  (v) 8.10.2 An extended one-generation reproductive toxicity study (OECD TG 443) or two-generation reproductive toxicity study (OECD TG 416);  (vi) 8.10.3 A developmental neurotoxicity study (OECD TG 426);  (vii) 8.11.1 A combined carcinogenicity study and long-term repeated dose toxicity study (OECD TG 451-3);  (viii) A systematic review of the literature including studies on mammals and non-mammalian organisms;  (b) If there is any information suggesting that the active substance may have endocrine disrupting properties, or if there is incomplete information on key parameters relevant for concluding on endocrine disruption, then additional information or specific studies shall be required to elucidate:  (1) the mode or the mechanism of action; and/or  (2) potentially relevant adverse effects in humans or animals  For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to consider the oral route and conduct animal studies by the oral route </td><td>  </td><td>Where sufficient weight of evidence to conclude on the presence or absence of a particular endocrine disrupting mode of action is available: — further testing on vertebrate animals for that effect shall be omitted for that mode of action,  — further testing not involving vertebrate animals may be omitted for that mode of action.  In all cases, adequate and reliable documentation shall be provided </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.13.3.1. Specific additional studies to investigate potential endocrine disrupting properties may include, but are not limited to the following: (a) the mammalian toxicity studies listed in 8.13.3(a);  (b) the in vitro assays:  (i) Estrogen receptor transactivation assay (OECD TG 455);  (ii) Androgen receptor transactivation assay, (OECD TG 458);  (iii) H295R steroidogenesis assay (OECD TG 456);  (iv) the Aromatase assay (human recombinant) OPPTS 890.1200;  (c) Uterotrophic bioassay in rodents (OECD TG 440) and Hershberger bioassay in rats (OECD TG 441);  (d) Pubertal development and Thyroid Function in Intact Juvenile or Peripubertal Male Rats (OPPTS 890.1500).  The decision to carry out studies in mammals shall be taken based on all available information, including a systematic review of the literature (including information on endocrine disrupting effects in non-target organisms) and the availability of suitable in silico or in vitro methods </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.13.4. Immunotoxicity and developmental immunotoxicity If there is any evidence from repeat dose or reproductive toxicity studies that the active substance may have immunotoxic properties, then additional information or specific studies shall be required to elucidate:  (1) the mode or the mechanism of action; and/or  (2) potentially relevant adverse effects in humans or animals.  For evaluation of consumer safety of active substances that may end up in food or feed, it is necessary to consider the oral route and conduct animal studies by the oral route </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.13.5. Further mechanistic studies A decision on the need to perform additional studies should be based on all relevant data </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.14. Studies related to the exposure of humans to the active substance</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.15. Toxic effects on livestock and pets</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16. Food and feeding stuffs studies including for food-producing animals and their products (milk, eggs and honey) Additional information related to the exposure of humans to the active substance contained in biocidal products </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.1. Proposed acceptable residue levels i.e. maximum residue limits (MRL) and the justification of their acceptability</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.2. Behaviour of the residue of the active substance on the treated or contaminated food or feeding stuffs including the kinetics of disappearance Residue definitions should be provided where relevant. It is also important to compare residues found in toxicity studies with residues formed in food-producing animals and their products, as well as food and feed </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.3. Overall material balance for the active substance Sufficient residue data from supervised trials on food- producing animals and their products, as well as food and feed, to demonstrate that residues likely to arise from the proposed use would not be of concern for human or animal health </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.4. Estimation of potential or actual exposure of humans to the active substance and residues through diet and other means</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.5. If residues of the active substance occur in or on feeding stuffs for a significant period of time or are found in food of animal origin after treatment on or around food-producing animals (e.g. direct treatment on animals or indirect treatment of animal houses or surroundings) then feeding and metabolism studies in livestock shall be required to permit evaluation of residues in food of animal origin</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.6. Effects of industrial processing and/or domestic preparation on the nature and magnitude of residues of the active substance</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.7. Any other available information that is relevant It may be appropriate to include information on migration into food, especially in the case of treatment of food contact materials </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.16.8. Summary and evaluation of data submitted under 8.16.1 to 8.16.8 It is important to establish whether the metabolites found in food (from animals or plants) are the same as those tested in toxicity studies. Otherwise values for risk assessment (e.g. ADI) are not valid for the residues found </td><td>ADS</td><td>  </td></tr>
+<tr><td>8.17. If the active substance is to be used in products for action against plants including algae then tests shall be required to assess toxic effects of metabolites from treated plants, if any, where different from those identified in animals</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">9. ECOTOXICOLOGICAL STUDIES</td></tr>
+<tr><td colspan="3">9.1. Toxicity to Aquatic Organisms</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.1.1. Short-term toxicity testing on fish When short-term fish toxicity data is required, the threshold approach (tiered strategy) should be applied.  A long-term toxicity testing on fish in accordance with point 9.1.6.1 shall be considered if the substance is poorly water soluble, i.e. below 1 mg/L </td><td>  </td><td>The study does not need to be conducted if: — a valid long-term aquatic toxicity study on fish is available,  — sufficient weight of evidence including the use of other data such as the Fish Embryo Acute Toxicity (FET, OECD TG 236) and/or results obtained from non-animal methods is available for this data requirement </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">9.1.2. Short-term toxicity testing on aquatic invertebrates</td></tr>
+<tr><td>9.1.2.1. Daphnia magna</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.2.2. Other species</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">9.1.3. Growth inhibition study on algae</td></tr>
+<tr><td>9.1.3.1. Effects on growth rate of green algae</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.3.2. Effects on growth rate of cyanobacteria or diatoms</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.4. Bioconcentration</td><td rowspan="3">  </td><td rowspan="3">The experimental determination may not need to be carried out if: — it can be demonstrated on the basis of physico-chemical properties (e.g. log Kow &lt; 3) or other evidence that the substance has a low potential for bioconcentration </td></tr>
+<tr><td>9.1.4.1. Estimation methods</td></tr>
+<tr><td>9.1.4.2. Experimental determination</td></tr>
+<tr><td>9.1.5. Inhibition of microbial activity The study may be replaced by a nitrification inhibition test if available data show that the substance is likely to be an inhibitor of microbial growth or function, in particular nitrifying bacteria </td><td>  </td><td>  </td></tr>
+<tr><td>9.1.6. Further Toxicity Studies on Aquatic Organisms If the results of the ecotoxicological studies, studies on fate and behaviour and/or the intended use(s) of the active substance indicate a risk for the aquatic environment, or if long-term exposure is expected, then one or more of the tests described in this Section shall be conducted </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.1.6.1. Long term toxicity testing on fish The information shall be provided from long-term toxicity testing on fish in which early life-stages (eggs, larvae or juveniles) are exposed </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.1.6.2. Long term toxicity testing on invertebrates (a) Daphnia growth and reproduction study  (b) Other species reproduction and growth (e.g. Mysid)  (c) Other species development and emergence (e.g. Chironomus) </td><td>ADS</td><td>  </td></tr>
+<tr><td>9.1.7. Bioaccumulation in an appropriate aquatic species</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.1.8. Effects on any other specific, non-target organisms (flora and fauna) believed to be at risk</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.1.9. Studies on sediment- dwelling organisms</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.1.10. Effects on aquatic macrophytes</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.2. Terrestrial toxicity, initial tests</td><td rowspan="4">ADS</td><td rowspan="4">  </td></tr>
+<tr><td>9.2.1. Effects on soil micro-organisms</td></tr>
+<tr><td>9.2.2. Effects on earthworms or other soil- dwelling non-target invertebrates</td></tr>
+<tr><td>9.2.3. Acute toxicity to plants</td></tr>
+<tr><td>9.3. Terrestrial tests, long term</td><td rowspan="2">ADS</td><td rowspan="2">  </td></tr>
+<tr><td>9.3.1. Reproduction study with earthworms or other soil-dwelling non-target invertebrates</td></tr>
+<tr><td>9.4. Effects on birds</td><td rowspan="4">ADS</td><td rowspan="4">For endpoint 9.4.3 the study does not need to be conducted if: — the dietary toxicity study shows that the LC50 is above 2 000 mg/kg </td></tr>
+<tr><td>9.4.1. Acute oral toxicity</td></tr>
+<tr><td>9.4.2. Short-term toxicity — eight-day dietary study in at least one species (other than chickens, ducks and geese)</td></tr>
+<tr><td>9.4.3. Effects on reproduction</td></tr>
+<tr><td>9.5. Effects on arthropods</td><td rowspan="3">ADS</td><td rowspan="3">  </td></tr>
+<tr><td>9.5.1. Effects on honeybees</td></tr>
+<tr><td>9.5.2. Other non-target terrestrial arthropods, e.g. predators</td></tr>
+<tr><td>9.6. Bioconcentration, terrestrial</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.7. Bioaccumulation, terrestrial</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.8. Effects on other non-target, non-aquatic organisms</td><td>ADS</td><td>  </td></tr>
+<tr><td>9.9. Effects on mammals</td><td rowspan="5">ADS</td><td rowspan="5">Data are derived from the mammalian toxicological assessment. The most sensitive relevant mammalian long-term toxicological endpoint (NOAEL) expressed as mg test compound/kg bw/day shall be reported</td></tr>
+<tr><td>9.9.1. Acute oral toxicity</td></tr>
+<tr><td>9.9.2. Short term toxicity</td></tr>
+<tr><td>9.9.3. Long term toxicity</td></tr>
+<tr><td>9.9.4. Effects on reproduction</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.10. Endocrine disruption The assessment of endocrine disruption properties shall comprise the following tiers:  (a) An assessment of the mammalian data set in accordance with 8.13.3 to assess whether the substance has endocrine disrupting properties based on data in relation to mammals;  (b) If it cannot be concluded based on the mammalian data in accordance with 8.13.3 or 9.1.6.1 that the substance has endocrine disrupting properties, then studies set out in 9.10.1 or 9.10.2 shall be considered taking account of any other available relevant information, including a systematic review of the literature </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.10.1. Endocrine disruption in fish Specific studies to investigate potential endocrine disrupting properties may include, but are not limited to the following data requirements:  (a) Medaka extended one-generation test (MEOGRT, OECD TG 240);  (b) Fish life cycle toxicity test (FLCTT, OPPTS 850.1500) covering all the ‘estrogen-, androgen- and steroidogenic-mediated’ (EAS) parameters foreseen to be measured in the MEOGRT study </td><td>  </td><td>The study does not need to be carried out if: — there is no indication for endocrine activity or endocrine related effects from a sufficient mammalian data set in accordance with 8.13.3 or from any other relevant information (e.g. literature), and  — valid in vivo data is available, with no information suggesting that the active substance may elicit endocrine activity or effects potentially related to endocrine activity in either the Fish short term reproduction assay (FSTRA; OECD TG 229), or the 21-days fish assay (OECD TG 230) or Fish sexual developmental test (FSDT, OECD TG 234).  If other data are available covering the estrogenic, androgenic and steroidogenic, (EAS) related modalities or parameters investigated in OECD TG 229 or OECD TG 230 or OECD TG 234, then those data can be used instead </td></tr>
+<tr><td>9.10.2. Endocrine disruption in amphibians Specific additional studies to investigate potential endocrine disrupting properties may include, but are not limited to Larval amphibian growth and development assay (LAGDA; OECD TG 241) </td><td>  </td><td>The study does not need to be carried out if: — there is no indication for endocrine activity or endocrine related effects from a sufficient mammalian data set in accordance with 8.13.3 or from any other relevant information (e.g. literature), and  — valid in vivo data is available, with no information suggesting that the active substance may have endocrine disrupting properties in an Amphibian metamorphosis assay (AMA; OECD 231) </td></tr>
+<tr><td>9.10.3. If there is information suggesting that the active substance may have endocrine disrupting properties, or if there is incomplete information on key parameters relevant for concluding on endocrine disruption, additional information or specific studies, as necessary, shall be required to elucidate: (a) the mode or the mechanism of action; and/or  (b) potentially relevant adverse effects in humans or animals. </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">10. ENVIRONMENTAL FATE AND BEHAVIOUR</td></tr>
+<tr><td colspan="3">10.1. Fate and behaviour in water and sediment</td></tr>
+<tr><td colspan="3">10.1.1. Degradation, initial studies</td></tr>
+<tr><td>If the assessment performed indicates the need to investigate further the degradation of the substance and its degradation products or the active substance has an overall low or absent abiotic degradation, then the tests described in 10.1.3 and 10.3.2 and where appropriate — in 10.4 shall be required. The choice of the appropriate test(s) depends on the results of the initial assessment performed</td><td>  </td><td>  </td></tr>
+<tr><td>10.1.1.1. Abiotic</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Hydrolysis as a function of pH and identification of breakdown products — The identification of breakdown products is required when the breakdown products at any sampling time are present at ≥ 10 % </td><td>  </td><td>  </td></tr>
+<tr><td>(b) Phototransformation in water, including identification of transformation products</td><td>  </td><td>  </td></tr>
+<tr><td>10.1.1.2. Biotic</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Ready biodegradability</td><td>  </td><td>  </td></tr>
+<tr><td>(b) Inherent biodegradability (where appropriate)</td><td>  </td><td>  </td></tr>
+<tr><td>10.1.2. Adsorption/desorption</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">10.1.3. Rate and route of degradation including identification of metabolites and degradation products</td></tr>
+<tr><td>10.1.3.1. Biological sewage treatment</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Aerobic biodegradation</td><td>ADS</td><td>  </td></tr>
+<tr><td>(b) Anaerobic biodegradation</td><td>ADS</td><td>  </td></tr>
+<tr><td>(c) STP simulation test</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.3.2. Biodegradation in freshwater</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Aerobic aquatic degradation study</td><td>ADS</td><td>  </td></tr>
+<tr><td>(b) Water/sediment degradation test</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.3.3. Biodegradation in sea water</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.3.4. Biodegradation during manure storage</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.4. Adsorption and desorption in water/aquatic sediment systems and, where relevant, adsorption and desorption of metabolites and degradation products</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.5. Field study on accumulation in sediment</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.1.6. Inorganic substances: information on fate and behaviour in water</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2. Fate and behaviour in soil</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.1. Laboratory study on rate and route of degradation including identification of the processes involved and identification of any metabolites and degradation products in one soil type (unless pH dependent route) under appropriate conditions Laboratory studies on rate of degradation in three additional soil types </td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.2. Field studies, two soil types</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.3. Soil accumulation studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.4. Adsorption and desorption in at least three soil types and, where relevant, adsorption and desorption of metabolites and degradation products</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.5. Further studies on sorption</td><td>  </td><td>  </td></tr>
+<tr><td>10.2.6. Mobility in at least three soil types and where relevant mobility of metabolites and degradation products</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.6.1. Column leaching studies</td><td>  </td><td>  </td></tr>
+<tr><td>10.2.6.2. Lysimeter studies</td><td>  </td><td>  </td></tr>
+<tr><td>10.2.6.3. Field leaching studies</td><td>  </td><td>  </td></tr>
+<tr><td>10.2.7. Extent and nature of bound residues The determination and characteristics of bound residues is recommended to be combined with a soil simulation study </td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.8. Other soil degradation studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.2.9. Inorganic substances: information on fate and behaviour in soil</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">10.3. Fate and behaviour in air</td></tr>
+<tr><td>10.3.1. Phototransformation in air (estimation method) Identification of transformation products </td><td>  </td><td>  </td></tr>
+<tr><td>10.3.2. Fate and behaviour in air, further studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.4. Additional studies on fate and behaviour in the environment</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.5. Definition of the residue</td><td rowspan="2">ADS</td><td rowspan="2">  </td></tr>
+<tr><td>10.5.1. Definition of the residue for risk assessment</td></tr>
+<tr><td>10.5.2. Definition of the residue for monitoring</td><td>  </td><td>  </td></tr>
+<tr><td>10.6. Monitoring data</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.6.1. Identification of all degradation products (&gt; 10 %) must be included in the studies on degradation in soil, water and sediments</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">11. MEASURES NECESSARY TO PROTECT HUMANS, ANIMALS AND THE ENVIRONMENT</td></tr>
+<tr><td>11.1. Recommended methods and precautions concerning handling, use, storage, transport or fire</td><td>  </td><td>  </td></tr>
+<tr><td>11.2. In case of fire, nature of reaction products, combustion gases etc.</td><td>  </td><td>  </td></tr>
+<tr><td>11.3. Emergency measures in case of accident</td><td>  </td><td>  </td></tr>
+<tr><td>11.4. Possibility of destruction or decontamination following release in or on the following: (a) air  (b) water, including drinking water  (c) soil </td><td>  </td><td>  </td></tr>
+<tr><td>11.5. Procedures for waste management of the active substance for industry or professional users</td><td>  </td><td>  </td></tr>
+<tr><td>11.6. Possibility of reuse or recycling</td><td>  </td><td>  </td></tr>
+<tr><td>11.7. Possibility of neutralisation of effects</td><td>  </td><td>  </td></tr>
+<tr><td>11.8. Conditions for controlled discharge including leachate qualities on disposal</td><td>  </td><td>  </td></tr>
+<tr><td>11.9. Conditions for controlled incineration</td><td>  </td><td>  </td></tr>
+<tr><td>11.10. Identification of any substances falling within the scope of List I or List II of the Annex to Council Directive 80/68/EEC of 17 December 1979 on the protection of groundwater against pollution caused by certain dangerous substances (3), of Annexes I and II to Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration (4), of Annex I to Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy (5), of Part B of Annex I to Directive 98/83/EC or Annexes VIII and X to Directive 2000/60/EC</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">12. CLASSIFICATION, LABELLING AND PACKAGING</td></tr>
+<tr><td>12.1. State any existing classification and labelling</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">12.2. The hazard classification of the substance resulting from the application of Regulation (EC) No 1272/2008</td></tr>
+<tr><td>In addition, for each entry, the reasons why no classification is given for an endpoint should be provided</td><td>  </td><td>  </td></tr>
+<tr><td>12.2.1. Hazard classification</td><td>  </td><td>  </td></tr>
+<tr><td>12.2.2. Hazard pictogram</td><td>  </td><td>  </td></tr>
+<tr><td>12.2.3. Signal word</td><td>  </td><td>  </td></tr>
+<tr><td>12.2.4. Hazard statements</td><td>  </td><td>  </td></tr>
+<tr><td>12.2.5. Precautionary statements including prevention, response, storage and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>12.3. Specific concentration limits, where applicable, resulting from the application of Regulation (EC) No 1272/2008</td><td>  </td><td>  </td></tr>
+<tr><td>13. SUMMARY AND EVALUATION The key information identified from the endpoints in each subsection (2-12) is summarised, evaluated and a draft risk assessment is performed </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">(1)  The information provided should be for the purified active substance of stated specification or for the active substance as manufactured, if different.  (2)  The information provided should be for the purified active substance of stated specification.  (3)  OJ L 20, 26.1.1980, p. 43.  (4)  OJ L 372, 27.12.2006, p. 19.  (5)  OJ L 348, 24.12.2008, p. 84. </td></tr>
+</tbody>
+</table>
+
+**TITLE 2**
+
+**MICRO-ORGANISMS**
+
+**Core data set and additional data set for active substances**
+
+Information required to support the approval of an active substance is listed in the table below.
+
+Conditions for not requiring a specific test that are set out in the appropriate test methods in Regulation (EC) No 440/2008 that are not repeated in column 3, also apply.
+
+<table>
+<tbody><tr><td>Column 1 Information required </td><td>Column 2 All data is CDS unless indicated as ADS </td><td><br> Column 3 <br> Specific rules for adaptation from column 1   </td></tr>
+<tr><td colspan="3">1. APPLICANT</td></tr>
+<tr><td>1.1. Name and address</td><td>  </td><td>  </td></tr>
+<tr><td>1.2. Contact person</td><td>  </td><td>  </td></tr>
+<tr><td>1.3. Manufacturer (name, address and location of manufacturing plant)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">2. IDENTITY OF THE MICRO-ORGANISM</td></tr>
+<tr><td>2.1. Common name of the micro-organism (including alternative and superseded names)</td><td>  </td><td>  </td></tr>
+<tr><td>2.2. Taxonomic name and strain</td><td>  </td><td>  </td></tr>
+<tr><td>2.3. Collection and culture reference number where the culture is deposited</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.4. Specification of the technical grade active ingredient</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.4.1. Content of the active micro-organism and identity and content of relevant metabolites or toxins</td><td>  </td><td>  </td></tr>
+<tr><td>2.4.2. Identity and content of impurities, additives, contaminating micro-organisms</td><td>  </td><td>  </td></tr>
+<tr><td>2.4.3. Analytical profile of batches</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.5. Method of production and quality control</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">3. BIOLOGICAL PROPERTIES OF THE MICRO-ORGANISM</td></tr>
+<tr><td colspan="3">3.1. General information on the micro-organism</td></tr>
+<tr><td>3.1.1. Historical background</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.2. Historical uses</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.3. Origin, natural occurrence and geographical distribution</td><td>  </td><td>  </td></tr>
+<tr><td>3.2. Development stages/life cycle of the micro-organism</td><td>  </td><td>  </td></tr>
+<tr><td>3.3. Relationships to known plant or animal or human pathogens</td><td>  </td><td>  </td></tr>
+<tr><td>3.4. Genetic stability and factors affecting it</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>3.5. Information on the production of relevant metabolites and toxins</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>3.6. Production and resistance to antibiotics and other anti-microbial agents</td><td>  </td><td>  </td></tr>
+<tr><td>3.7. Robustness to environmental factors</td><td>  </td><td>  </td></tr>
+<tr><td>3.8. Further information on the micro-organism</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">4. METHODS OF DETECTION AND IDENTIFICATION</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>4.1. Methods, procedures and criteria used to establish the presence and identity of the micro-organism</td><td>  </td><td>  </td></tr>
+<tr><td>4.2. Analytical methods for the analysis of the micro-organism as manufactured</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>4.3. Methods used for monitoring purposes to determine and quantify residues (viable or non-viable)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">5. EFFECTIVENESS AGAINST TARGET ORGANISM</td></tr>
+<tr><td>5.1. Function and mode of control e.g. attracting, killing, inhibiting</td><td>  </td><td>  </td></tr>
+<tr><td>5.2. Infectiveness, dispersal and colonisation ability</td><td>  </td><td>  </td></tr>
+<tr><td>5.3. Representative organism(s) controlled and products, organisms or objects to be protected</td><td>  </td><td>  </td></tr>
+<tr><td>5.4. Effects on representative target organism(s) Effects on materials, substances and products </td><td>  </td><td>  </td></tr>
+<tr><td>5.5. Likely concentration at which the micro-organism will be used</td><td>  </td><td>  </td></tr>
+<tr><td>5.6. Mode of action (including time delay)</td><td>  </td><td>  </td></tr>
+<tr><td>5.7. Efficacy data</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">5.8. Any known limitations on efficacy</td></tr>
+<tr><td>5.8.1. Information on the occurrence or possible occurrence of the development of resistance of the target organism(s) and appropriate management strategies</td><td>  </td><td>  </td></tr>
+<tr><td>5.8.2. Observations on undesirable or unintended side effects</td><td>  </td><td>  </td></tr>
+<tr><td>5.8.3. Host specificity, range and effects on species other than the target organism</td><td>  </td><td>  </td></tr>
+<tr><td>5.9. Methods to prevent loss of virulence of seed stock of the micro-organism</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">6. INTENDED USES AND EXPOSURE</td></tr>
+<tr><td>6.1. Field of use(s) envisaged</td><td>  </td><td>  </td></tr>
+<tr><td>6.2. Product-type(s)</td><td>  </td><td>  </td></tr>
+<tr><td>6.3. Detailed description of the use pattern(s)</td><td>  </td><td>  </td></tr>
+<tr><td>6.4. Category of users for which the micro-organism should be approved</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">6.5. Exposure data applying, as appropriate, the methodologies described in Section 5 of Annex I to Regulation (EC) No 1907/2006</td></tr>
+<tr><td>6.5.1. Information on human exposure associated with the intended uses and disposal of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>6.5.2. Information on environmental exposure associated with the intended uses and disposal of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>6.5.3. Information on exposure of food-producing animals and food and feeding stuffs associated with the intended uses of the active substance</td><td>  </td><td>  </td></tr>
+<tr><td>7. EFFECT ON HUMAN AND ANIMAL HEALTH</td><td>  </td><td>Information requirements in this Section may be adapted as appropriate in accordance with the specifications of Title 1 of this Annex.</td></tr>
+<tr><td colspan="3">7.1. Basic information</td></tr>
+<tr><td>7.1.1. Medical data</td><td>  </td><td>  </td></tr>
+<tr><td>7.1.2. Medical surveillance on manufacturing plant personnel</td><td>  </td><td>  </td></tr>
+<tr><td>7.1.3. Sensitisation/allergenicity observations</td><td>  </td><td>  </td></tr>
+<tr><td>7.1.4. Direct observation, e.g. clinical cases Any pathogenicity and infectiveness to humans and other mammals under conditions of immunosuppression </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7.2. Basic studies</td></tr>
+<tr><td>7.2.1. Sensitisation</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7.2.2. Acute toxicity, pathogenicity, and infectiveness</td></tr>
+<tr><td>7.2.2.1. Acute oral toxicity, pathogenicity and infectiveness</td><td>  </td><td>  </td></tr>
+<tr><td>7.2.2.2. Acute inhalatory toxicity, pathogenicity and infectiveness</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.2.2.3. Intraperitoneal/subcutaneous single dose</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.2.3. In vitro genotoxicity testing</td><td>  </td><td>  </td></tr>
+<tr><td>7.2.4. Cell culture study</td><td>  </td><td>  </td></tr>
+<tr><td>7.2.5. Information on short-term toxicity and pathogenicity</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.2.5.1. Health effects after repeated inhalatory exposure</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.2.6. Proposed treatment: first aid measures, medical treatment</td><td>  </td><td>  </td></tr>
+<tr><td>7.3. Specific toxicity, pathogenicity and infectiveness studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.4. Genotoxicity — in vivo studies in somatic cells</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.5. Genotoxicity — in vivo studies in germ cells</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.6. Summary of mammalian toxicity, pathogenicity and infectiveness and overall evaluation</td><td>  </td><td>  </td></tr>
+<tr><td>7.7. Residues in or on treated articles, food and feedingstuffs</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.7.1. Persistence and likelihood of multiplication in or on treated articles, feedingstuffs or foodstuffs</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.7.2. Further information required</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.7.2.1. Non-viable residues</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.7.2.2. Viable residues</td><td>ADS</td><td>  </td></tr>
+<tr><td>7.8. Summary and evaluation of residues in or on treated articles, food and feedingstuffs</td><td>ADS</td><td>  </td></tr>
+<tr><td>8. EFFECTS ON NON-TARGET ORGANISMS</td><td>  </td><td>Information requirements in this Section may be adapted as appropriate in accordance with the specifications of Title 1 of this Annex.</td></tr>
+<tr><td colspan="3">8.1. Effects on aquatic organisms</td></tr>
+<tr><td>8.1.1. Effects on fish</td><td>  </td><td>  </td></tr>
+<tr><td>8.1.2. Effects on freshwater invertebrates</td><td>  </td><td>  </td></tr>
+<tr><td>8.1.3. Effects on algae growth</td><td>  </td><td>  </td></tr>
+<tr><td>8.1.4. Effects on plants other than algae</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.2. Effects on earthworms</td><td>  </td><td>  </td></tr>
+<tr><td>8.3. Effects on soil micro-organisms</td><td>  </td><td>  </td></tr>
+<tr><td>8.4. Effects on birds</td><td>  </td><td>  </td></tr>
+<tr><td>8.5. Effects on bees</td><td>  </td><td>  </td></tr>
+<tr><td>8.6. Effects on arthropods other than bees</td><td>  </td><td>  </td></tr>
+<tr><td>8.7. Further studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.7.1. Terrestrial plants</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.7.2. Mammals</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.7.3. Other relevant species and processes</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.8. Summary and evaluation of effects on non-target organisms</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">9. ENVIRONMENTAL FATE AND BEHAVIOUR</td></tr>
+<tr><td colspan="3">9.1. Persistence and multiplication</td></tr>
+<tr><td>9.1.1. Soil</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.2. Water</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.3. Air</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.4. Mobility</td><td>  </td><td>  </td></tr>
+<tr><td>9.1.5. Summary and evaluation of fate and behaviour in the environment</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">10. MEASURES NECESSARY TO PROTECT HUMANS, ANIMALS AND THE ENVIRONMENT</td></tr>
+<tr><td>10.1. Recommended methods and precautions concerning handling, storage, transport or fire</td><td>  </td><td>  </td></tr>
+<tr><td>10.2. Emergency measures in case of an accident</td><td>  </td><td>  </td></tr>
+<tr><td>10.3. Procedures for destruction or decontamination</td><td>  </td><td>  </td></tr>
+<tr><td>10.4. Procedures for waste management</td><td>  </td><td>  </td></tr>
+<tr><td>10.5. Monitoring plan to be used for the active micro-organism including handling, storage, transport and use</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">11. CLASSIFICATION, LABELLING AND PACKAGING OF THE MICRO-ORGANISM</td></tr>
+<tr><td>11.1. Relevant risk group specified in Article 2 of Directive 2000/54/EC</td><td>  </td><td>  </td></tr>
+<tr><td>12. SUMMARY AND EVALUATION The key information identified from the endpoints in each subsection (2-12) is summarised, evaluated and a draft risk assessment is performed </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**INFORMATION REQUIREMENTS FOR BIOCIDAL PRODUCTS**
+
+1\. This Annex sets out the information requirements that shall be included in the dossier for the biocidal product accompanying an application for the approval of an active substance in accordance with point (b) of Article 6(1) and the dossier accompanying an application for the authorisation of a biocidal product in accordance with point (a) of Article 20(1).
+
+2\. The data elements set down in this Annex comprise a Core Data Set (CDS) and an Additional Data Set (ADS). The data elements belonging to the CDS are considered as the basic data which should, in principle, be provided for all biocidal products.
+
+With regard to the ADS, the data elements to be provided for a specific biocidal product shall be determined by considering each of the ADS data elements indicated in this Annex taking into account, inter alia, the physical and chemical properties of the product, existing data, information which is part of the CDS and the types of products and the exposure patterns related to these uses.
+
+Specific indications for the inclusion of some data elements are provided in column 1 of the Annex III table. The general considerations regarding adaptation of information requirements as set out in Annex IV to this Regulation shall also apply. In light of the importance of reducing testing on vertebrates, column 3 of the table gives specific indications for the adaptation of some of the data elements which might require the use of such tests on vertebrates.
+
+For some of the information requirements set out in this Annex, it may be possible to satisfy these requirements based on available information of the properties of the active substance(s) contained in the product and the properties of non-active substance(s) included in the product. For non-active substances, applicants shall use the information provided to them in the context of Title IV of Regulation (EC) No 1907/2006, where relevant, and the information made available by the Agency in accordance with point (e) of Article 77(2) of that Regulation. However, the information may be not sufficient or adequate to determine whether a non-active substance contained in a biocidal product has hazardous properties and the evaluating body may conclude that further data are required.
+
+The relevant calculation methods used for the classification of mixtures as laid down in Regulation (EC) No 1272/2008 shall, where appropriate, be applied in the hazard assessment of the biocidal product. Such calculation methods shall not be used if, in relation to a particular hazard, synergistic and antagonistic effects between the different substances contained in the product are considered likely.
+
+Detailed technical guidance regarding the application of this Annex and the preparation of the dossier is available on the website of the Agency.
+
+The applicant shall initiate a pre-submission consultation with the prospective evaluating body. In addition to the obligation set out in Article 62(2), the applicant may also consult with the competent authority that will evaluate the dossier with regard to the proposed information requirements and in particular the testing on vertebrates that the applicant proposes to carry out. The applicant shall document such pre-submission consultations and their outcomes and shall include the relevant documents in the application.
+
+Additional information may need to be submitted if necessary to carry out the evaluation as indicated in Article 29(3) or Article 44(2).
+
+The information submitted shall, in any case, be sufficient to support a risk assessment demonstrating that the criteria in Article 19(1)(b) are met.
+
+3\. A detailed and full description of studies conducted and of the methods used shall be included. It is important to ensure that the data available is relevant and is of sufficient quality to fulfil the requirements.
+
+4\. The formats made available by the Agency shall be used for submission of the dossiers. In addition, IUCLID shall be used for those parts of the dossiers to which IUCLID applies. Formats and further guidance on data requirements and dossier preparation are available on the Agency homepage.
+
+5\. Tests submitted for the purpose of authorisation shall be conducted in accordance with the methods described in Commission Regulation (EC) No 440/2008, or any revised version of these methods not yet included in that Regulation.
+
+However, if a method is inappropriate or not described in Commission Regulation (EC) No 440/2008, ( 42 ) other methods shall be used which are scientifically appropriate and their appropriateness shall be justified in the application.
+
+When test methods are applied to nano-materials, an explanation shall be provided of their scientific appropriateness for nanomaterials, and where applicable, of the technical adaptations or adjustments that have been made in order to respond to the specific characteristics of these materials.
+
+6\. Tests performed should comply with the relevant requirements of protection of laboratory animals, set out in Directive 2010/63/EU and, in the case of ecotoxicological and toxicological tests, good laboratory practice, set out in Directive 2004/10/EC or other international standards recognised as being equivalent by the Commission or the Agency. Tests on physico-chemical properties and safety-relevant substance data should be performed at least according to international standards.
+
+7\. Where testing is done, a detailed quantitative and qualitative description (specification) of the product used for each test and its impurities must be provided.
+
+8\. Where test data exist that have been generated before 17 July 2012 by methods other than those laid down in Regulation (EC) No 440/2008, the adequacy of such data for the purposes of this Regulation and the need to conduct new tests according to the Regulation (EC) No 440/2008 must be decided by the competent authority of the Member State, on a case-by-case basis, taking into account, among other factors, the need to avoid unnecessary testing.
+
+9\. New tests involving vertebrates shall be conducted as the last available option to comply with the data requirements set out in this Annex when all the other data sources have been exhausted. In vivo testing with corrosive substances at concentration/dose levels causing corrosivity shall also be avoided.
+
+**TITLE 1**
+
+**CHEMICAL PRODUCTS**
+
+**Core data set and additional data set for chemical products**
+
+Information required to support the authorisation of a biocidal product is listed in the table below.
+
+For each information requirement set down in this Annex the indications given in columns 1 and 3 of Annex II for the same information requirement shall also apply.
+
+<table>
+<tbody><tr><td>Column 1 Information required: </td><td>Column 2 All data is CDS unless indicated as ADS </td><td><br> Column 3 <br> Specific rules for adaptation from column 1   </td></tr>
+<tr><td colspan="3">1. APPLICANT</td></tr>
+<tr><td>1.1. Name and address, etc.</td><td>  </td><td>  </td></tr>
+<tr><td>1.2. Contact person</td><td>  </td><td>  </td></tr>
+<tr><td>1.3. Manufacturer and formulator of the biocidal product and the active substance(s) (names, addresses, including location of plant(s))</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">2. IDENTITY OF THE BIOCIDAL PRODUCT</td></tr>
+<tr><td>2.1. Trade name or proposed trade name</td><td>  </td><td>  </td></tr>
+<tr><td>2.2. Manufacturer’s development code and number of the product, if appropriate</td><td>  </td><td>  </td></tr>
+<tr><td>2.3. Complete quantitative (g/kg, g/l or % w/w (v/v)) composition of the biocidal product, i.e. declaration of all active substances and non-active substances (substance or mixture according to Article 3 of Regulation (EC) No 1907/2006), which are intentionally added to the biocidal product (formulation) as well as detailed quantitative and qualitative information on the composition of the active substance(s) contained in the biocidal product. For non-active substances, a safety data sheet in compliance with Article 31 of Regulation (EC) No 1907/2006 has to be provided. In addition, all relevant information on individual ingredients, their function and, in the case of a reaction mixture, the final composition of the biocidal product shall be given </td><td>  </td><td>  </td></tr>
+<tr><td>2.4. Formulation type and nature of the biocidal product, e.g. emulsifiable concentrate, wettable powder, solution</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.5. Where the biocidal product contains an active substance that has been manufactured in locations or according to processes or from starting materials other than those of the active substance evaluated for the purpose of approval pursuant to Article 9 of this Regulation, evidence has to be provided that technical equivalence has been established in accordance with Article 54 of this Regulation or has been established, following an evaluation having started before 1 September 2013, by a competent authority designated in accordance with Article 26 of Directive 98/8/EC</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">3. PHYSICAL, CHEMICAL AND TECHNICAL PROPERTIES</td></tr>
+<tr><td colspan="3">3.1. Appearance (at 20 °C and 101,3 kPa)</td></tr>
+<tr><td>3.1.1. Physical state (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.2. Colour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.1.3. Odour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.2. Acidity/alkalinity The test is applicable when the pH of the biocidal product or its dispersion in water (1 %) is outside the pH range 4-10 </td><td>  </td><td>  </td></tr>
+<tr><td>3.3. Relative density (liquids) and bulk, tap density (solids)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.4. Storage stability, stability and shelf-life</td></tr>
+<tr><td colspan="3">3.4.1. Storage stability tests</td></tr>
+<tr><td>3.4.1.1. Accelerated storage test</td><td>  </td><td>  </td></tr>
+<tr><td>3.4.1.2. Long term storage test at ambient temperature</td><td>  </td><td>  </td></tr>
+<tr><td>3.4.1.3. Low temperature stability test (liquids)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.4.2. Effects on content of the active substance and technical characteristics of the biocidal product</td></tr>
+<tr><td>3.4.2.1. Light</td><td>  </td><td>  </td></tr>
+<tr><td>3.4.2.2. Temperature and humidity</td><td>  </td><td>  </td></tr>
+<tr><td>3.4.2.3. Reactivity towards container material</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.5. Technical characteristics of the biocidal product</td></tr>
+<tr><td>3.5.1. Wettability</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.2. Suspensibility, spontaneity and dispersion stability</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.3. Wet sieve analysis and dry sieve test</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.4. Emulsifiability, re-emulsifiability and emulsion stability</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.5. Disintegration time</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.6. Particle size distribution, content of dust/fines, attrition, friability</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.7. Persistent foaming</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.8. Flowability/Pourability/Dustability</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.9. Burning rate — smoke generators</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.10. Burning completeness — smoke generators</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.11. Composition of smoke — smoke generators</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.12. Spraying pattern — aerosols</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.13. Other technical characteristics</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.6. Physical and chemical compatibility with other products including other biocidal products with which its use is to be authorised</td></tr>
+<tr><td>3.6.1. Physical compatibility</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.2. Chemical compatibility</td><td>  </td><td>  </td></tr>
+<tr><td>3.7. Degree of dissolution and dilution stability</td><td>  </td><td>  </td></tr>
+<tr><td>3.8. Surface tension</td><td>  </td><td>  </td></tr>
+<tr><td>3.9. Viscosity</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">4. PHYSICAL HAZARDS AND RESPECTIVE CHARACTERISTICS</td></tr>
+<tr><td>4.1. Explosives</td><td>  </td><td>  </td></tr>
+<tr><td>4.2. Flammable gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.3. Flammable aerosols</td><td>  </td><td>  </td></tr>
+<tr><td>4.4. Oxidising gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.5. Gases under pressure</td><td>  </td><td>  </td></tr>
+<tr><td>4.6. Flammable liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.7. Flammable solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.8. Self-reactive substances and mixtures</td><td>  </td><td>  </td></tr>
+<tr><td>4.9. Pyrophoric liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.10. Pyrophoric solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.11. Self-heating substances and mixtures</td><td>  </td><td>  </td></tr>
+<tr><td>4.12. Substances and mixtures which in contact with water emit flammable gases</td><td>  </td><td>  </td></tr>
+<tr><td>4.13. Oxidising liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.14. Oxidising solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.15. Organic peroxides</td><td>  </td><td>  </td></tr>
+<tr><td>4.16. Corrosive to metals</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">4.17. Additional physical indications of hazard</td></tr>
+<tr><td>4.17.1. Auto-ignition temperatures of products (liquids and gases)</td><td>  </td><td>  </td></tr>
+<tr><td>4.17.2. Relative self-ignition temperature for solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.17.3. Dust explosion hazard</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">5. METHODS OF DETECTION AND IDENTIFICATION</td></tr>
+<tr><td>5.1. Analytical method including validation parameters for determining the concentration of the active substance(s), residues, relevant impurities and substances of concern in the biocidal product</td><td>  </td><td>  </td></tr>
+<tr><td>5.2. In so far as not covered by Annex II 5.2 and 5.3, analytical methods for monitoring purposes including recovery rates and the limits of determination of relevant components of the biocidal product and/or residues thereof, where relevant in or on the following:</td><td>ADS</td><td>  </td></tr>
+<tr><td>5.2.1. Soil</td><td>ADS</td><td>  </td></tr>
+<tr><td>5.2.2. Air</td><td>ADS</td><td>  </td></tr>
+<tr><td>5.2.3. Water (including drinking water) and sediment</td><td>ADS</td><td>  </td></tr>
+<tr><td>5.2.4. Animal and human body fluids and tissues</td><td>ADS</td><td>  </td></tr>
+<tr><td>5.3. Analytical methods for monitoring purposes including recovery rates and the limit of quantification and detection for the active substance, and for residues thereof, in/on food of plant and animal origin or feeding stuffs and other products where relevant (not necessary if neither the active substance nor the material treated with it come into contact with food- producing animals, food of plant and animal origin or feeding stuffs)</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">6. EFFECTIVENESS AGAINST TARGET ORGANISMS</td></tr>
+<tr><td>6.1. Function, e.g. fungicide, rodenticide, insecticide, bactericide Mode of control e.g. attracting, killing, inhibiting </td><td>  </td><td>  </td></tr>
+<tr><td>6.2. Representative organism(s) to be controlled and products, organisms or objects to be protected</td><td>  </td><td>  </td></tr>
+<tr><td>6.3. Effects on representative target organisms</td><td>  </td><td>  </td></tr>
+<tr><td>6.4. Likely concentration at which the active substance will be used</td><td>  </td><td>  </td></tr>
+<tr><td>6.5. Mode of action (including time delay)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.6. The proposed claims for the product and, where claims are made, for treated articles regarding the biocidal properties conferred to the article</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.7. Efficacy data to support these claims, including any available standard protocols, laboratory tests or field trials used including performance standards where appropriate and relevant</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">6.8. Any known limitations on efficacy</td></tr>
+<tr><td>6.8.1. Information on the occurrence or possible occurrence of the development of resistance and appropriate management strategies</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.8.2. Observations on undesirable or unintended side-effects on non-target organisms or on objects and material to be protected</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>6.9. Summary and evaluation</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7. INTENDED USES AND EXPOSURE</td></tr>
+<tr><td>7.1. Field(s) of use envisaged for biocidal products and, where appropriate, treated articles</td><td>  </td><td>  </td></tr>
+<tr><td>7.2. Product-type</td><td>  </td><td>  </td></tr>
+<tr><td>7.3. Detailed description of intended use pattern(s) for biocidal products and, where appropriate, treated articles</td><td>  </td><td>  </td></tr>
+<tr><td>7.4. User e.g. industrial, trained professional, professional or general public (non-professional)</td><td>  </td><td>  </td></tr>
+<tr><td>7.5. Likely tonnage to be placed on the market per year and, where relevant, for different use categories</td><td>  </td><td>  </td></tr>
+<tr><td>7.6. Method of application and a description of this method</td><td>  </td><td>  </td></tr>
+<tr><td>7.7. Application rate and, if appropriate, the final concentration of the biocidal product and active substance in a treated article or in the system in which the product is to be used, e.g. cooling water, surface water, water used for heating purposes</td><td>  </td><td>  </td></tr>
+<tr><td>7.8. Number and timing of applications, and where relevant, any particular information relating to geographical location or climatic variations including necessary waiting periods, clearance times, withdrawal periods or other precautions to protect human health, animal health and the environment</td><td>  </td><td>  </td></tr>
+<tr><td>7.9. Proposed instructions for use</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7.10. Exposure data in conformity with Annex VI to this Regulation</td></tr>
+<tr><td>7.10.1. Information on human exposure associated with production and formulation, proposed/expected uses and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>7.10.2. Information on environmental exposure associated with production and formulation, proposed/expected uses and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>7.10.3. Information on exposure from treated articles including leaching data (either laboratory studies or model data)</td><td>  </td><td>  </td></tr>
+<tr><td>7.10.4. Information regarding other products that the product is likely to be used together with, in particular the identity of the active substances in these products, if relevant, and the likelihood of any interactions</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">8. TOXICOLOGICAL PROFILE FOR HUMANS AND ANIMALS</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.1. Skin corrosion or irritation The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) skin corrosion, in vitro testing;  (c) skin irritation, in vitro testing;  (d) skin corrosion or irritation, in vivo testing </td><td>  </td><td>Testing of the product or mixture does not need to be conducted if: — there are sufficient valid data on each component of the product or mixture to allow its classification in accordance with Regulation (EC) No 1272/2008, and synergistic effects between any of the components are not expected,  — the product or mixture is a strong acid (pH≤ 2,0) or base (pH≥ 11,5),  — the product or mixture is spontaneously flammable in air or in contact with water or moisture at room temperature,  — the product or mixture meets the classification criteria for acute toxicity category 1 by the dermal route, or  — an acute toxicity study by the dermal route provides conclusive evidence on skin corrosion or irritation adequate for classification.  If results from one of the two studies listed in points (b) or (c) in column 1 of this row already allow conclusive decision on the classification of product or mixture or on the absence of skin irritation potential, the second study does not need to be conducted  An in vivo study for skin corrosion or irritation shall be considered only if the in vitro studies listed in points (b) and (c) in column 1 of this row are not applicable, or the results of these studies are not adequate for classification and risk assessment and the calculation method or bridging principles laid down in Regulation (EC) No 1272/2008 are not applicable  In vivo studies for skin corrosion or irritation that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td>8.2. Serious eye damage or eye irritation The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) serious eye damage or eye irritation, in vitro testing;  (c) serious eye damage or eye irritation, in vivo testing </td><td>  </td><td>Testing on the product or mixture does not need to be conducted if: — there are sufficient valid data available on each component of the product or mixture to allow its classification in accordance with Regulation (EC) No 1272/2008, and synergistic effects between any of the components are not expected,  — the product or mixture is a strong acid (pH≤ 2,0) or base (pH≥ 11,5),  — the product or mixture is spontaneously flammable in air or in contact with water or moisture at room temperature, or  — the product or mixture meets the classification criteria for skin corrosion leading to its classification as ‘serious eye damage’ category 1  If results from a first in vitro study do not allow a conclusive decision on the classification of the product or mixture or on the absence of eye irritation potential (an)other(s) in vitro study(ies) for this endpoint shall be considered  An in vivo study for serious eye damage or eye irritation shall be considered only if the in vitro study(ies) under point (b) in column 1 of this row are not applicable, or the results obtained from these studies are not adequate for classification and risk assessment and the calculation method or bridging principles laid down in Regulation (EC) No 1272/2008 are not applicable  In vivo studies for serious eye damage or eye irritation that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td>8.3. Skin sensitisation The information shall allow to conclude whether the substance is a skin sensitiser and whether it can be presumed to have the potential to produce significant sensitisation in humans (Category 1A). The information should be sufficient to perform a risk assessment where required  The assessment shall comprise the following tiers:  (a) assessment of the available human, animal and non-animal data;  (b) skin sensitisation, in vitro testing. Information from in vitro or in chemico test method(s) conducted in accordance with point 5 of the introductory part of this Annex and addressing each of the following key events of skin sensitisation:  (i) molecular interaction with skin proteins;  (ii) inflammatory response in keratinocytes;  (iii) activation of dendritic cells.  (c) skin sensitisation in vivo testing. The Murine Local Lymph Node Assay (LLNA) is the first-choice method for in vivo testing. Another skin sensitisation test may only be used in exceptional circumstances. If another skin sensitisation test is used, scientific justification shall be provided. </td><td>  </td><td>Testing on the product or mixture does not need to be conducted if: — there are sufficient valid data available on each component of the product or mixture to allow its classification in accordance with Regulation (EC) No 1272/2008, and synergistic effects between any of the components are not expected,  — the available information indicates that the product or mixture should be classified for skin sensitisation or skin corrosion,  — the product or mixture is a strong acid (pH≤ 2,0) or base (pH≥ 11,5), or  — the product or mixture is spontaneously flammable in air or in contact with water or moisture at room temperature.  In vitro tests do not need to be conducted if:  — an in vivo study referred to in point (c) in column 1 of this row is available, or  — the available in vitro or in chemico test methods are not applicable for the product or mixture or the results obtained from these studies are not adequate for classification and risk assessment.  If information from test method(s) addressing one or two of the key events described in point (b) in column 1 of this row already allows for classification of the substance and risk assessment, studies addressing the other key event(s) do not need to be conducted  An in vivo study for skin sensitisation shall be considered only if in vitro or in chemico studies referred to in point (b) in column 1 of this row are not applicable, or the results obtained from these studies are not adequate for classification and risk assessment and the calculation method or bridging principles laid down in Regulation (EC) No 1272/2008 are not applicable  In vivo studies for skin sensitisation that were carried out or initiated before 15 April 2022 shall be considered appropriate to address this information requirement </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.4. Respiratory sensitisation</td><td>ADS</td><td>Testing on the product/mixture does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC and Regulation (EC) No 1272/2008 (CLP), and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.5. Acute toxicity — Classification using the tiered approach to classification of mixtures for acute toxicity in Regulation (EC) No 1272/2008 is the default approach </td><td>  </td><td>Testing on the product/mixture does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC and Regulation (EC) No 1272/2008 (CLP), and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.5.1. By oral route</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.2. By inhalation</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.3. By dermal route</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.4. For biocidal products that are intended to be authorised for use with other biocidal products, the risks to human health, animal health and the environment arising from the use of these product combinations shall be assessed. As an alternative to acute toxicity studies, calculations can be used. In some cases, for example where there are no valid data available of the kind set out in column 3, this may require a limited number of acute toxicity studies to be carried out using combinations of the products</td><td>  </td><td>Testing on the mixture of products does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC and Regulation (EC) No 1272/2008 (CLP), and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.6. Information on dermal absorption Information on dermal absorption when exposure occurs to the biocidal product. The assessment of this endpoint shall proceed using a tiered approach </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.7. Available toxicological data relating to: (a) non-active substance(s) (i.e. substance(s) of concern); and  (b) a mixture that a substance(s) of concern is a component of  Tests listed in Section 8 of the table in Title 1 of Annex II shall be carried out for the substance(s) of concern or a mixture that a substance(s) of concern is a component of if insufficient data are available and cannot be inferred through read-across, in silico or other accepted non-testing approaches </td><td>  </td><td>Testing on the product or mixture does not need to be conducted if all of the following conditions are met: — there are valid data available on each of the components in the mixture to allow classification of the mixture in accordance with the rules laid down in Regulation (EC) No 1272/2008,  — a conclusion can be made whether the biocidal product can be considered as having endocrine disrupting properties,  — synergistic effects between any of the components are not expected </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>8.8. Food and feedingstuffs studies</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.8.1. If residues of the biocidal product remain in or on feedingstuffs for a significant period of time, then feeding and metabolism studies in livestock shall be required to permit evaluation of residues in food of animal origin</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.9. Effects of industrial processing and/or domestic preparation on the nature and magnitude of residues of the biocidal product</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.10. Other test(s) related to the exposure to humans Suitable test(s) and a reasoned case will be required for the biocidal product  In addition, for certain biocides which are applied directly or around livestock (including horses) residue studies might be needed </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">9. ECOTOXICOLOGICAL STUDIES</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.1. Available ecotoxicological data relating to: (a) non-active substance(s) (i.e. substance(s) of concern);  (b) a mixture that a substance(s) of concern is a component of  Tests listed in Section 9 of Title 1 of Annex II shall be carried out for the substance(s) of concern or a mixture that a substance(s) of concern is a component of if insufficient data are available and cannot be inferred through read-across, in silico or other accepted non-testing approaches </td><td>  </td><td>Testing on the product or mixture does not need to be conducted if all the following conditions are met: — there are valid data available on each of the components in the mixture to allow classification of the mixture in accordance with the rules laid down in Regulation (EC) No 1272/2008,  — a conclusion can be made whether the biocidal product can be considered as having endocrine disrupting properties,  — synergistic effects between any of the components are not expected </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>9.2. Further Ecotoxicological studies Further studies chosen from among the endpoints referred to in Section 9 of Annex II for relevant components of the biocidal product or the biocidal product itself may be required if the data on the active substance cannot give sufficient information and if there are indications of risk due to specific properties of the biocidal product </td><td>  </td><td>  </td></tr>
+<tr><td>9.3. Effects on any other specific, non-target organisms (flora and fauna) believed to be at risk</td><td>ADS</td><td>Data for the assessment of hazards to wild mammals are derived from the mammalian toxicological assessment</td></tr>
+<tr><td colspan="3">9.4. If the biocidal product is in the form of bait or granules the following studies may be required:</td></tr>
+<tr><td>9.4.1. Supervised trials to assess risks to non-target organisms under field conditions</td><td>  </td><td>  </td></tr>
+<tr><td>9.4.2. Studies on acceptance by ingestion of the biocidal product by any non-target organisms thought to be at risk</td><td>  </td><td>  </td></tr>
+<tr><td>9.5. Secondary ecological effect e.g. when a large proportion of a specific habitat type is treated</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">10. ENVIRONMENTAL FATE AND BEHAVIOUR</td></tr>
+<tr><td>The test requirements below are applicable only to the relevant components of the biocidal product</td><td>  </td><td>  </td></tr>
+<tr><td>10.1. Foreseeable routes of entry into the environment on the basis of the use envisaged</td><td>  </td><td>  </td></tr>
+<tr><td>10.2. Further studies on fate and behaviour in the environment Further studies chosen from among the endpoints referred to in Section 10 of Annex II for relevant components of the biocidal product or the biocidal product itself may be required.  For products that are used outside, with direct emission to soil, water or surfaces, the components in the product may influence the fate and behaviour (and ecotoxicity) of the active substance. Data are required unless it is scientifically justified that the fate of the components in the product is covered by the data provided for the active substance and other identified substances of concern </td><td>ADS</td><td>  </td></tr>
+<tr><td>10.3. Leaching behaviour</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.4. Testing for distribution and dissipation in the following:</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.4.1. Soil</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.4.2. Water and sediment</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.4.3. Air</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.5. If the biocidal product is to be sprayed near to surface waters then an overspray study may be required to assess risks to aquatic organisms or plants under field conditions</td><td>ADS</td><td>  </td></tr>
+<tr><td>10.6. If the biocidal product is to be sprayed outside or if potential for large scale formation of dust is given then data on overspray behaviour may be required to assess risks to bees and non-target arthropods under field conditions</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">11. MEASURES TO BE ADOPTED TO PROTECT HUMANS, ANIMALS AND THE ENVIRONMENT</td></tr>
+<tr><td>11.1. Recommended methods and precautions concerning handling, use, storage, disposal, transport or fire</td><td>  </td><td>  </td></tr>
+<tr><td>11.2. Identity of relevant combustion products in cases of fire</td><td>  </td><td>  </td></tr>
+<tr><td>11.3. Specific treatment in case of an accident, e.g. first-aid measures, antidotes, medical treatment if available; emergency measures to protect the environment</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">11.4. Possibility of destruction or decontamination following release in or on the following:</td></tr>
+<tr><td>11.4.1. Air</td><td>  </td><td>  </td></tr>
+<tr><td>11.4.2. Water, including drinking water</td><td>  </td><td>  </td></tr>
+<tr><td>11.4.3. Soil</td><td>  </td><td>  </td></tr>
+<tr><td>11.5. Procedures for waste management of the biocidal product and its packaging for industrial use, use by trained professionals, professional users and non-professional users (e.g. possibility of reuse or recycling, neutralisation, conditions for controlled discharge, and incineration)</td><td>  </td><td>  </td></tr>
+<tr><td>11.6. Procedures for cleaning application equipment where relevant</td><td>  </td><td>  </td></tr>
+<tr><td>11.7. Specify any repellents or poison control measures included in the product that are present to prevent action against non-target organisms</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">12. CLASSIFICATION, LABELLING, AND PACKAGING</td></tr>
+<tr><td>As established in point (b) of Article 20(1), proposals including justification for the hazard and precautionary statements in accordance with the provisions set in Directive 1999/45/EC and Regulation (EC) No 1272/2008 must be submitted. Example labels, instructions for use and safety data sheets shall be provided </td><td>  </td><td>  </td></tr>
+<tr><td>12.1. Hazard classification</td><td>  </td><td>  </td></tr>
+<tr><td>12.2. Hazard pictogram</td><td>  </td><td>  </td></tr>
+<tr><td>12.3. Signal word</td><td>  </td><td>  </td></tr>
+<tr><td>12.4. Hazard statements</td><td>  </td><td>  </td></tr>
+<tr><td>12.5. Precautionary statements including prevention, response, storage and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>12.6. Proposals for safety-data sheets should be provided, where appropriate</td><td>  </td><td>  </td></tr>
+<tr><td>12.7. Packaging (type, materials, size, etc.), compatibility of the product with proposed packaging materials to be included</td><td>  </td><td>  </td></tr>
+<tr><td>13. EVALUATION AND SUMMARY The key information identified from the endpoints in each subsection (2-12) is summarised, evaluated and a draft risk assessment is performed </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">(1)  Eye-irritation test shall not be necessary where the biocidal product has been shown to have potential corrosive properties. </td></tr>
+</tbody>
+</table>
+
+**TITLE 2**
+
+**MICRO-ORGANISMS**
+
+**Core data set and additional data set**
+
+Information required to support the authorisation of a biocidal product is listed in the table below.
+
+For each information requirement set down in this Annex the indications given in columns 1 and 3 of Annex II for the same information requirement shall also apply.
+
+<table>
+<tbody><tr><td>Column 1 Information required: </td><td>Column 2 All data is CDS unless indicated as ADS </td><td><br> Column 3 <br> Specific rules for adaptation from column 1   </td></tr>
+<tr><td colspan="3">1. APPLICANT</td></tr>
+<tr><td>1.1. Name and address</td><td>  </td><td>  </td></tr>
+<tr><td>1.2. Contact person</td><td>  </td><td>  </td></tr>
+<tr><td>1.3. Manufacturer and formulator of the biocidal product and the micro-organism(s) (names, addresses, including location of plant(s))</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">2. IDENTITY OF THE BIOCIDAL PRODUCTS</td></tr>
+<tr><td>2.1. Trade name or proposed trade name</td><td>  </td><td>  </td></tr>
+<tr><td>2.2. Manufacturer’s development code and number of the biocidal product, if appropriate</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.3. Detailed quantitative (g/kg, g/l, % w/w (v/v), cfu/g, cfu/l or IU/mg or any other appropriate unit) and qualitative information on the constitution, composition and function of the biocidal product, e.g. micro-organism, active substance(s) and non-active substances and any other relevant components All relevant information on individual ingredients and the final composition of the biocidal product shall be given </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.4. Formulation type and nature of the biocidal product</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2.5. Where the biocidal product contains an active substance that has been manufactured in locations or according to processes or from starting materials other than those of the active substance evaluated for the purpose of approval pursuant to Article 9 of this Regulation, evidence has to be provided that technical equivalence has been established in accordance with Article 54 of this Regulation or has been established, following an evaluation having started before 1 September 2013, by a competent authority designated in accordance with Article 26 of Directive 98/8/EC</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">3. BIOLOGICAL, PHYSICAL, CHEMICAL AND TECHNICAL PROPERTIES OF THE BIOCIDAL PRODUCT</td></tr>
+<tr><td>3.1. Biological properties of the micro-organism in the biocidal product</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.2. Appearance (at 20 °C and 101,3 kPa)</td></tr>
+<tr><td>3.2.1. Colour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.2.2. Odour (at 20 °C and 101,3 kPa)</td><td>  </td><td>  </td></tr>
+<tr><td>3.3. Acidity, alkalinity and pH value</td><td>  </td><td>  </td></tr>
+<tr><td>3.4. Relative density</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.5. Storage stability, stability and shelf-life</td></tr>
+<tr><td>3.5.1. Effects of light</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.2. Effects of temperature and humidity</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.3. Reactivity towards the container</td><td>  </td><td>  </td></tr>
+<tr><td>3.5.4. Other factors affecting stability</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">3.6. Technical characteristics of the biocidal product</td></tr>
+<tr><td>3.6.1. Wettability</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.2. Suspensibility and suspension stability</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.3. Wet sieve analysis and dry sieve test</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.4. Emulsifiability, re-emulsifiability, emulsion stability</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.5. Particle size distribution content of dust/fines, attrition and friability</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.6. Persistent foaming</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.7. Flowability/Pourability/Dustability</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>3.6.8. Spraying patterns – aerosols</td><td>  </td><td>  </td></tr>
+<tr><td>3.6.9. Other technical characteristics</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">3.7. Physical, chemical and biological compatibility with other products including biocidal products with which its use is to be authorised or registered</td></tr>
+<tr><td>3.7.1. Physical compatibility</td><td>  </td><td>  </td></tr>
+<tr><td>3.7.2. Chemical compatibility</td><td>  </td><td>  </td></tr>
+<tr><td>3.7.3. Biological compatibility</td><td>  </td><td>  </td></tr>
+<tr><td>3.8. Surface tension</td><td>  </td><td>  </td></tr>
+<tr><td>3.9. Viscosity</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">4. PHYSICAL HAZARDS AND RESPECTIVE CHARACTERISITICS</td></tr>
+<tr><td>4.1. Explosives</td><td>  </td><td>  </td></tr>
+<tr><td>4.2. Flammable aerosols</td><td>  </td><td>  </td></tr>
+<tr><td>4.3. Flammable liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.4. Flammable solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.5. Oxidising liquids</td><td>  </td><td>  </td></tr>
+<tr><td>4.6. Oxidising solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.7. Corrosive to metals</td><td>  </td><td>  </td></tr>
+<tr><td>4.8. Other physical indications of hazard</td><td>  </td><td>  </td></tr>
+<tr><td>4.8.1. Auto-ignition temperatures of products (liquids and gases)</td><td>  </td><td>  </td></tr>
+<tr><td>4.8.2. Relative self-ignition temperature for solids</td><td>  </td><td>  </td></tr>
+<tr><td>4.8.3. Dust explosion hazard</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">5. METHODS OF DETECTION AND IDENTIFICATION</td></tr>
+<tr><td>5.1. Analytical method for determining the concentration of the micro-organism(s) and substances of concern in the biocidal product</td><td>  </td><td>  </td></tr>
+<tr><td>5.2. Analytical methods for monitoring purposes including recovery rates and the limit of quantification and detection for the active substance, and for residues thereof, in/on food of plant and animal origin or feeding stuffs and other products where relevant (not necessary if neither the active substance nor the article treated with it does not come into contact with food-producing animals, food of plant and animal origin or feeding stuffs)</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">6. EFFECTIVENESS AGAINST TARGET ORGANISM</td></tr>
+<tr><td>6.1. Function and mode of control</td><td>  </td><td>  </td></tr>
+<tr><td>6.2. Representative pest organism(s) to be controlled and products, organisms or objects to be protected</td><td>  </td><td>  </td></tr>
+<tr><td>6.3. Effects on representative target organisms</td><td>  </td><td>  </td></tr>
+<tr><td>6.4. Likely concentration at which micro-organism will be used</td><td>  </td><td>  </td></tr>
+<tr><td>6.5. Mode of action</td><td>  </td><td>  </td></tr>
+<tr><td>6.6. The proposed label claims for the product</td><td>  </td><td>  </td></tr>
+<tr><td>6.7. Efficacy data to support these claims, including any available standard protocols, laboratory tests, or field trials used including performance standards, where appropriate and relevant</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">6.8. Any other known limitations on efficacy including resistance</td></tr>
+<tr><td>6.8.1. Information on the occurrence or possible occurrence of the development of resistance and appropriate management strategies</td><td>  </td><td>  </td></tr>
+<tr><td>6.8.2. Observations on undesirable or unintended side effects</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7. INTENDED USES AND EXPOSURE</td></tr>
+<tr><td>7.1. Field of use envisaged</td><td>  </td><td>  </td></tr>
+<tr><td>7.2. Product-type</td><td>  </td><td>  </td></tr>
+<tr><td>7.3. Detailed description of intended use</td><td>  </td><td>  </td></tr>
+<tr><td>7.4. User e.g. industrial, trained professional, professional or general public (non-professional)</td><td>  </td><td>  </td></tr>
+<tr><td>7.5. Method of application and a description of this method</td><td>  </td><td>  </td></tr>
+<tr><td>7.6. Application rate and if appropriate the final concentration of the biocidal product or the micro-organism active substance in a treated article or the system in which the product is to be used (e.g. in the application device or bait)</td><td>  </td><td>  </td></tr>
+<tr><td>7.7. Number and timing of applications and duration of protection Any particular information relating to the geographical location or climatic variations including necessary waiting periods for re-entry or necessary withdrawal period or other precautions to protect human health, animal health and the environment </td><td>  </td><td>  </td></tr>
+<tr><td>7.8. Proposed instructions for use</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">7.9. Exposure data</td></tr>
+<tr><td>7.9.1. Information on human exposure associated with the proposed/expected uses and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>7.9.2. Information on environmental exposure associated with the proposed/expected uses and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>8. TOXICOLOGICAL PROFILE FOR HUMANS AND ANIMALS</td><td>  </td><td>Testing on the product/mixture does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC, Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP) and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.1. Skin corrosion or irritation</td><td>  </td><td>  </td></tr>
+<tr><td>8.2. Eye irritation</td><td>  </td><td>  </td></tr>
+<tr><td>8.3. Skin sensitisation</td><td>  </td><td>  </td></tr>
+<tr><td>8.4. Respiratory sensitisation</td><td>ADS</td><td>  </td></tr>
+<tr><td>8.5. Acute toxicity — Classification using the tiered approach to classification of mixtures for acute toxicity in Regulation (EC) No 1272/2008 is the default approach </td><td>  </td><td>  </td></tr>
+<tr><td>8.5.1. Oral</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.2. Inhalation</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.3. Dermal</td><td>  </td><td>  </td></tr>
+<tr><td>8.5.4. Additional acute toxicity studies</td><td>  </td><td>  </td></tr>
+<tr><td>8.6. Information on dermal absorption if required</td><td>  </td><td>  </td></tr>
+<tr><td>8.7. Available toxicological data relating to: — non-active substance(s) (i.e. substance(s) of concern), or  — a mixture that a substance(s) of concern is a component of — If insufficient data are available for a non-active substance(s) and cannot be inferred through read-across or other accepted non-testing approaches, targeted test(s) described in Annex II, shall be carried out for the substance(s) of concern or a mixture that a substance(s) of concern is a component of </td><td>  </td><td>Testing on the product/mixture does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC, Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP), and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.8. Supplementary studies for combinations of biocidal products For biocidal products that are intended to be authorised for use with other biocidal products, the risks to humans, animals and the environment arising from the use of these product combinations shall be assessed. As an alternative to acute toxicity studies, calculations can be used. In some cases, for example where there are no valid data available of the kind set out in column 3, this may require a limited number of acute toxicity studies to be carried using combinations of the products </td><td>  </td><td>Testing on the mixture of products does not need to be conducted if: — there are valid data available on each of the components in the mixture to allow classification of the mixture according to the rules laid down in Directive 1999/45/EC, Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP), and synergistic effects between any of the components are not expected </td></tr>
+<tr><td>8.9. Residues in or on treated articles, food and feedingstuffs</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">9. ECOTOXICOLOGICAL STUDIES</td></tr>
+<tr><td>9.1. Information relating to the ecotoxicity of the biocidal product which is sufficient to enable a decision to be made concerning the classification of the product is required — Where there are valid data available on each of the components in the mixture and synergistic effects between any of the components are not expected, classification of the mixture can be made according to the rules laid down in Directive 1999/45/EC, Regulation (EC) No 1907/2006 (REACH) and Regulation (EC) No 1272/2008 (CLP)  — Where valid data on the components are not available or where synergistic effects may be expected then testing of components and/or the biocidal product itself may be necessary </td><td>  </td><td>  </td></tr>
+<tr><td>9.2. Further ecotoxicological studies Further studies chosen from among the endpoints referred to in Section 8 of Annex II ‘Micro-organisms’ for relevant components of the biocidal product or the biocidal product itself may be required if the data on the active substance cannot give sufficient information and if there are indications of risk due to specific properties of the biocidal product </td><td>  </td><td>  </td></tr>
+<tr><td>9.3. Effects on any other specific non-target organisms (flora and fauna) believed to be at risk</td><td>ADS</td><td>Data for the assessment of hazards to wild mammals are derived from the mammalian toxicological assessment</td></tr>
+<tr><td>9.4. If the biocidal product is in the form of bait or granules</td><td rowspan="3">ADS</td><td rowspan="3">  </td></tr>
+<tr><td>9.4.1. Supervised trials to assess risks to non-target organisms under field conditions</td></tr>
+<tr><td>9.4.2. Studies on acceptance by ingestion of the biocidal product by any non-target organisms thought to be at risk</td></tr>
+<tr><td>9.5. Secondary ecological effect e.g. when a large proportion of a specific habitat type is treated</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">10. ENVIRONMENTAL FATE AND BEHAVIOUR</td></tr>
+<tr><td>10.1. Foreseeable routes of entry into the environment on the basis of the use envisaged</td><td>  </td><td>  </td></tr>
+<tr><td>10.2. Further studies on fate and behaviour in the environment Where relevant, all the information required in Section 9 of Annex II ‘Micro-organisms’ may be required for the product  For products that are used outside, with direct emission to soil, water or surfaces, the components in the product may influence the fate and behaviour (and ecotoxicity) of the active substance. Data are required unless it is scientifically justified that the fate of the components in the product is covered by the data provided for the active substance and other identified substances of concern </td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>10.3. Leaching behaviour and/or mobility</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>10.4. If the biocidal product is to be sprayed outside or if potential for large scale formation of dust is given then data on overspray behaviour may be required to assess risks to bees under field conditions</td><td>ADS</td><td>  </td></tr>
+<tr><td colspan="3">11. MEASURES TO BE ADOPTED TO PROTECT HUMANS, ANIMALS AND THE ENVIRONMENT</td></tr>
+<tr><td>11.1. Recommended methods and precautions concerning: handling, storage, transport or fire</td><td>  </td><td>  </td></tr>
+<tr><td>11.2. Measures in the case of an accident</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">11.3. Procedures for destruction or decontamination of the biocidal product and its packaging</td></tr>
+<tr><td>11.3.1. Controlled incineration</td><td>  </td><td>  </td></tr>
+<tr><td>11.3.2. Others</td><td>  </td><td>  </td></tr>
+<tr><td>11.4. Packaging and compatibility of the biocidal product with proposed packaging materials</td><td>  </td><td>  </td></tr>
+<tr><td>11.5. Procedures for cleaning application equipment where relevant</td><td>  </td><td>  </td></tr>
+<tr><td>11.6. Monitoring plan to be used for the active micro-organism and other micro-organism(s) contained in the biocidal product including handling, storage, transport and use</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">12. CLASSIFICATION, LABELLING AND PACKAGING</td></tr>
+<tr><td>Example labels, instructions for use and safety data sheets shall be provided</td><td>  </td><td>  </td></tr>
+<tr><td>12.1. Indication on the need for the biocidal product to carry the biohazard sign specified in Annex II to Directive 2000/54/EC</td><td>  </td><td>  </td></tr>
+<tr><td>12.2. Precautionary statements including prevention, response, storage and disposal</td><td>  </td><td>  </td></tr>
+<tr><td>12.3. Proposals for safety-data sheets should be provided, where appropriate</td><td>  </td><td>  </td></tr>
+<tr><td>12.4. Packaging (type, materials, size, etc.), compatibility of the product with proposed packaging materials to be included</td><td>  </td><td>  </td></tr>
+<tr><td>13. SUMMARY AND EVALUATION The key information identified from the endpoints in each subsection (2-12) is summarised, evaluated and a draft risk assessment is performed </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**GENERAL RULES FOR THE ADAPTATION OF THE DATA REQUIREMENTS**
+
+This Annex sets out rules to be followed when the applicant proposes to adapt the data requirements set out in Annexes II and III in accordance with Article 6(2) and (3) or Article 21(1) and (2), without prejudice to the specific rules set out in Annex III on the use of the calculation methods for classification of mixtures to avoid testing on vertebrates.
+
+The reasons for such adaptations to the data requirements must be clearly stated under the appropriate heading of the dossier referring to the specific rule(s) of this Annex.
+
+**1\. TESTING DOES NOT APPEAR SCIENTIFICALLY NECESSARY**
+
+**1.1. Use of existing data**
+
+1.1.1. Data on physical-chemical properties from experiments not carried out according to GLP or the relevant test methods.
+
+Data shall be considered to be equivalent to data generated by the corresponding test methods if the following conditions are met:
+
+(1) adequacy of the data for the purpose of classification and labelling and risk assessment;
+
+(2) sufficient adequate and reliable documentation is provided to assess the equivalency of the study; and
+
+(3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
+
+1.1.2. Data on human health and environmental properties from experiments not carried out according to GLP or the relevant test methods.
+
+Data shall be considered to be equivalent to data generated by the corresponding test methods if the following conditions are met:
+
+(1) adequacy of the data for the purpose of classification and labelling and risk assessment;
+
+(2) adequate and reliable coverage of the key parameters/endpoints foreseen to be investigated in the corresponding test methods;
+
+(3) exposure duration comparable to or longer than the corresponding test methods if exposure duration is a relevant parameter;
+
+(4) adequate and reliable documentation of the study is provided; and
+
+(5) the study is performed using a system of quality assurance.
+
+1.1.3. Historical human data
+
+As a general rule, in accordance with Article 7(3) of Regulation (EC) No 1272/2008, tests on humans shall not be performed for the purposes of this Regulation. However, existing historical human data, such as epidemiological studies on exposed populations, accidental or occupational exposure data, biomonitoring studies, clinical studies and human volunteer studies performed in accordance with internationally accepted ethical standards shall be considered.
+
+Data collected on humans shall not be used to lower the safety margins resulting from tests or studies on animals.
+
+The strength of the data for a specific human health effect depends, among other things, on the type of analysis and the parameters covered, and on the magnitude and specificity of the response and consequently the predictability of the effect. Criteria for assessing the adequacy of the data include:
+
+(1) the proper selection and characterisation of the exposed and control groups;
+
+(2) adequate characterisation of exposure;
+
+(3) sufficient length of follow-up for disease occurrence;
+
+(4) valid method for observing an effect;
+
+(5) proper consideration of bias and confounding factors; and
+
+(6) a reasonable statistical reliability to justify the conclusion.
+
+In all cases adequate and reliable documentation shall be provided.
+
+**1.2. Weight of evidence**
+
+There may be sufficient weight of evidence from several independent sources of information leading to the assumption/conclusion that a substance has or does not have a particular dangerous property, while the information from each single source alone is considered insufficient to support this notion. There may be sufficient weight of evidence from the use of positive results of newly developed test methods, not yet included in the relevant test methods or from an international test method recognised by the Commission as being equivalent, leading to the conclusion that a substance has a particular dangerous property. However, if the newly developed test method has been approved by the Commission, but has not yet been published, its results may be taken into account even where this leads to the conclusion that a substance does not have a particular dangerous property.
+
+Where consideration of all the available data provides sufficient weight of evidence for the presence or absence of a particular dangerous property:
+
+— further testing on vertebrates for that property shall not be undertaken,
+
+— further testing not involving vertebrates may be omitted.
+
+In all cases adequate and reliable documentation shall be provided.
+
+**1.3. Qualitative or Quantitative structure-activity relationship ((Q)SAR)**
+
+Results obtained from valid qualitative or quantitative structure-activity relationship models ((Q)SARs) may indicate the presence, but not the absence of a given dangerous property. Results of (Q)SARs may be used instead of testing when the following conditions are met:
+
+— the results are derived from a (Q)SAR model whose scientific validity has been established,
+
+— the substance falls within the applicability domain of the (Q)SAR model,
+
+— the results are adequate for the purpose of classification and labelling and risk assessment, and
+
+— adequate and reliable documentation of the applied method is provided.
+
+The Agency shall, in collaboration with the Commission, Member States and interested parties, develop and provide guidance on the use of (Q)SARs.
+
+**1.4. In vitro methods**
+
+Results obtained from suitable in vitro methods may indicate the presence of a given dangerous property or may be important in relation to a mechanistic understanding, which may be important for the assessment. In this context, ‘suitable’ means sufficiently well-developed according to internationally agreed test development criteria.
+
+Where such in vitro tests are positive, it is necessary to confirm the dangerous property by adequate in vivo tests. However, such confirmation may be waived if the following conditions are met:
+
+(1) results are derived from an in vitro method whose scientific validity has been established by a validation study, according to internationally agreed validation principles;
+
+(2) results are adequate for the purpose of classification and labelling and risk assessment; and
+
+(3) adequate and reliable documentation of the applied method is provided.
+
+In the case of negative results, these exemptions do not apply. A confirmation test may be requested on a case-by-case basis.
+
+**1.5. Grouping of substances and read-across approach**
+
+Substances whose physico-chemical, toxicological and ecotoxicological properties are similar or follow a regular pattern as a result of structural similarity may be considered as a group or ‘category’ of substances. Application of the group concept requires that physico-chemical properties, human and animal health effects, and environmental effects or environmental fate may be predicted from data for reference substance(s) within the group by interpolation to other substances in the group (read-across approach). This avoids the need to test every substance for every endpoint.
+
+The similarities may be based on:
+
+(1) a common functional group indicating the presence of dangerous properties;
+
+(2) common precursors and/or the likelihood of common breakdown products via physical and biological processes, which result in structurally similar chemicals and indicates the presence of dangerous properties; or
+
+(3) a constant pattern in the changing of the potency of the properties across the category.
+
+If the group concept is applied, substances shall be classified and labelled on this basis.
+
+In all cases results shall:
+
+— be adequate for the purpose of classification and labelling and risk assessment,
+
+— have adequate and reliable coverage of the key parameters addressed in the corresponding test method, and
+
+— cover an exposure duration comparable to or longer than the corresponding test method if exposure duration is a relevant parameter.
+
+In all cases, adequate and reliable documentation of the applied method shall be provided.
+
+The Agency shall, in collaboration with the Commission, Member States and interested parties, develop and provide guidance on technically and scientifically justified methodology for the grouping of substances.
+
+**2\. TESTING IS TECHNICALLY NOT POSSIBLE**
+
+Testing for a specific endpoint may be omitted if it is technically not possible to conduct the study as a consequence of the properties of the substance: e.g. very volatile, highly reactive or unstable substances cannot be used, mixing of the substance with water may cause danger of fire or explosion, or the radio-labelling of the substance required in certain studies may not be possible. The guidance given in the relevant test methods, more specifically on the technical limitations of a specific method, shall always be respected.
+
+**3\. PRODUCT-TAILORED EXPOSURE-DRIVEN TESTING**
+
+3.1. Testing in accordance with some endpoints in Sections 8 and 9 of Annexes II and III, notwithstanding Article 6(2), may be omitted based on exposure considerations, where exposure data in accordance with Annex II or III are available.
+
+In that case, the following conditions shall be met:
+
+— An exposure assessment shall be performed, covering primary and secondary exposure under realistic worst case for all intended uses of the biocidal product that contains the active substance for which approval is applied, or of the biocidal product for which the authorisation is sought.
+
+— If a new exposure scenario is introduced at a later stage, during the product authorisation process, additional data shall be submitted to assess whether the justification for data adaptation still applies.
+
+— The reasons why the outcome of the exposure assessment justifies waiving of data requirements shall be clearly and transparently explained.
+
+However, testing cannot be omitted for non-threshold effects. As a consequence, certain core data shall always be obligatory, e.g. genotoxicity testing.
+
+If relevant, the Agency shall, in collaboration with the Commission, Member States and interested parties, develop and provide further guidance on the criteria established in accordance with Article 6(4) and Article 21(3).
+
+3.2. In all cases, adequate justification and documentation shall be provided. The justification shall be based on an exposure assessment, in accordance with the relevant Technical Notes for Guidance where available.
+
+## ANNEX V
+
+**BIOCIDAL PRODUCT-TYPES AND THEIR DESCRIPTIONS AS REFERRED TO IN ARTICLE 2(1)**
+
+**MAIN GROUP 1: Disinfectants**
+
+These product-types exclude cleaning products that are not intended to have a biocidal effect, including washing liquids, powders and similar products.
+
+**Product-type 1: Human hygiene**
+
+Products in this group are biocidal products used for human hygiene purposes, applied on or in contact with human skin or scalps for the primary purpose of disinfecting the skin or scalp.
+
+**Product-type 2: Disinfectants and algaecides not intended for direct application to humans or animals**
+
+Products used for the disinfection of surfaces, materials, equipment and furniture which are not used for direct contact with food or feeding stuffs.
+
+Usage areas include, inter alia, swimming pools, aquariums, bathing and other waters; air conditioning systems; and walls and floors in private, public, and industrial areas and in other areas for professional activities.
+
+Products used for disinfection of air, water not used for human or animal consumption, chemical toilets, waste water, hospital waste and soil.
+
+Products used as algaecides for treatment of swimming pools, aquariums and other waters and for remedial treatment of construction materials.
+
+Products used to be incorporated in textiles, tissues, masks, paints and other articles or materials with the purpose of producing treated articles with disinfecting properties.
+
+**Product-type 3: Veterinary hygiene**
+
+Products used for veterinary hygiene purposes such as disinfectants, disinfecting soaps, oral or corporal hygiene products or with anti-microbial function.
+
+Products used to disinfect the materials and surfaces associated with the housing or transportation of animals.
+
+**Product-type 4: Food and feed area**
+
+Products used for the disinfection of equipment, containers, consumption utensils, surfaces or pipework associated with the production, transport, storage or consumption of food or feed (including drinking water) for humans and animals.
+
+Products used to be incorporated into materials which may enter into contact with food.
+
+**Product-type 5: Drinking water**
+
+Products used for the disinfection of drinking water for both humans and animals.
+
+**MAIN GROUP 2: Preservatives**
+
+Unless otherwise stated these product-types include only products to prevent microbial and algal development.
+
+**Product-type 6: Preservatives for products during storage**
+
+Products used for the preservation of manufactured products, other than foodstuffs, feedingstuffs, cosmetics or medicinal products or medical devices by the control of microbial deterioration to ensure their shelf life.
+
+Products used as preservatives for the storage or use of rodenticide, insecticide or other baits.
+
+**Product-type 7: Film preservatives**
+
+Products used for the preservation of films or coatings by the control of microbial deterioration or algal growth in order to protect the initial properties of the surface of materials or objects such as paints, plastics, sealants, wall adhesives, binders, papers, art works.
+
+**Product-type 8: Wood preservatives**
+
+Products used for the preservation of wood, from and including the saw-mill stage, or wood products by the control of wood-destroying or wood-disfiguring organisms, including insects.
+
+This product-type includes both preventive and curative products.
+
+**Product-type 9: Fibre, leather, rubber and polymerised materials preservatives**
+
+Products used for the preservation of fibrous or polymerised materials, such as leather, rubber or paper or textile products by the control of microbiological deterioration.
+
+This product-type includes biocidal products which antagonise the settlement of micro-organisms on the surface of materials and therefore hamper or prevent the development of odour and/or offer other kinds of benefits.
+
+**Product-type 10: Construction material preservatives**
+
+Products used for the preservation of masonry, composite materials, or other construction materials other than wood by the control of microbiological, and algal attack.
+
+**Product-type 11: Preservatives for liquid-cooling and processing systems**
+
+Products used for the preservation of water or other liquids used in cooling and processing systems by the control of harmful organisms such as microbes, algae and mussels.
+
+Products used for the disinfection of drinking water or of water for swimming pools are not included in this product-type.
+
+**Product-type 12: Slimicides**
+
+Products used for the prevention or control of slime growth on materials, equipment and structures, used in industrial processes, e.g. on wood and paper pulp, porous sand strata in oil extraction.
+
+**Product-type 13: Working or cutting fluid preservatives**
+
+Products to control microbial deterioration in fluids used for working or cutting metal, glass or other materials.
+
+**MAIN GROUP 3: Pest control**
+
+**Product-type 14: Rodenticides**
+
+Products used for the control of mice, rats or other rodents, by means other than repulsion or attraction.
+
+**Product-type 15: Avicides**
+
+Products used for the control of birds, by means other than repulsion or attraction.
+
+**Product-type 16: Molluscicides, vermicides and products to control other invertebrates**
+
+Products used for the control of molluscs, worms and invertebrates not covered by other product-types, by means other than repulsion or attraction.
+
+**Product-type 17: Piscicides**
+
+Products used for the control of fish, by means other than repulsion or attraction.
+
+**Product-type 18: Insecticides, acaricides and products to control other arthropods**
+
+Products used for the control of arthropods (e.g. insects, arachnids and crustaceans), by means other than repulsion or attraction.
+
+**Product-type 19: Repellents and attractants**
+
+Products used to control harmful organisms (invertebrates such as fleas, vertebrates such as birds, fish, rodents), by repelling or attracting, including those that are used for human or veterinary hygiene either directly on the skin or indirectly in the environment of humans or animals.
+
+**Product-type 20: Control of other vertebrates**
+
+Products used for the control of vertebrates other than those already covered by the other product-types of this main group, by means other than repulsion or attraction.
+
+**MAIN GROUP 4: Other biocidal products**
+
+**Product-type 21: Antifouling products**
+
+Products used to control the growth and settlement of fouling organisms (microbes and higher forms of plant or animal species) on vessels, aquaculture equipment or other structures used in water.
+
+**Product-type 22: Embalming and taxidermist fluids**
+
+Products used for the disinfection and preservation of human or animal corpses, or parts thereof.
+
+## ANNEX VI
+
+**COMMON PRINCIPLES FOR THE EVALUATION OF DOSSIERS FOR BIOCIDAL PRODUCTS**
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td></td><td>Terms and definitions</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td></td><td>Assessment</td></tr>
+<tr><td>—</td><td>General principles</td></tr>
+<tr><td>—</td><td>Effects on human and animal health</td></tr>
+<tr><td>—</td><td>Effects on the environment</td></tr>
+<tr><td>—</td><td>Effects on target organisms</td></tr>
+<tr><td>—</td><td>Efficacy</td></tr>
+<tr><td>—</td><td>Summary</td></tr>
+<tr><td></td><td>Conclusions</td></tr>
+<tr><td>—</td><td>General principles</td></tr>
+<tr><td>—</td><td>Effects on human and animal health</td></tr>
+<tr><td>—</td><td>Effects on the environment</td></tr>
+<tr><td>—</td><td>Effects on target organisms</td></tr>
+<tr><td>—</td><td>Efficacy</td></tr>
+<tr><td>—</td><td>Summary</td></tr>
+<tr><td></td><td>Overall integration of conclusions</td></tr>
+</table>
+
+**TERMS AND DEFINITIONS**
+
+Correspondence with the criteria set out in Article 19(1)(b)
+
+The subheadings ‘Effects on human and animal health’, ‘Effects on the Environment’, ‘Effects on Target Organisms’ and ‘Efficacy’ used in the Sections ‘Assessment’ and ‘Conclusions’ correspond to the four criteria set out in Article 19(1)(b) as follows:
+
+‘Efficacy’ corresponds to criterion (i): ‘is sufficiently effective’.
+
+‘Effects on target organisms’ corresponds to criterion (ii): ‘has no unacceptable effects on the target organisms, in particular unacceptable resistance or cross resistance or unnecessary suffering and pain for vertebrates’.
+
+‘Effects on human and animal health’ corresponds to criterion (iii): ‘has no immediate or delayed unacceptable effects itself, or as a result of its residues, on human health, including that of vulnerable groups ( 43 ), or animal health, directly or through drinking water, food, feed, air, or through other indirect effects’.
+
+‘Effects on the environment’ corresponds to criterion iv: ‘has no unacceptable effects itself, or as a result of its residues, on the environment, having particular regard to the following considerations:
+
+— its fate and distribution in the environment,
+
+— contamination of surface waters (including estuarial and seawater), groundwater and drinking water, air and soil, taking into account locations distant from its use following long-range environmental transportation,
+
+— its impact on non-target organisms,
+
+— its impact on biodiversity and the ecosystem’.
+
+**Technical definitions**
+
+(a) Hazard identification
+
+The identification of the adverse effects which a biocidal product has an inherent capacity to cause.
+
+(b) Dose (concentration) — response (effect) assessment
+
+The estimate of the relationship between the dose, or level of exposure, of an active substance or substance of concern in a biocidal product and the incidence and severity of an effect.
+
+(c) Exposure assessment
+
+The determination of the emissions, pathways and rates of movement of an active substance or a substance of concern in a biocidal product and its transformation or degradation in order to estimate the concentration/doses to which human populations, animals or environmental compartments are or may be exposed.
+
+(d) Risk characterisation
+
+The estimation of the incidence and severity of the adverse effects likely to occur in a human population, animals or environmental compartments due to actual or predicted exposure to any active substance or substance of concern in a biocidal product. This may include ‘risk estimation’, i.e. the quantification of that likelihood.
+
+(e) Environment
+
+Water, including sediment, air, soil, wild species of fauna and flora, and any interrelationship between them, as well as any relationship with living organisms.
+
+**INTRODUCTION**
+
+1\. This Annex sets out the common principles for the evaluation of dossiers for biocidal products referred to in Article 19(1)(b). A decision by a Member State or the Commission to authorise a biocidal product shall be taken on the basis of the conditions set down in Article 19, taking account of the evaluation carried out according to this Annex. Detailed technical guidance regarding the application of this Annex is available on the website of the Agency.
+
+2\. The principles set out in this Annex can be applied in their entirety to the evaluation of biocidal products comprised of chemical substances. For biocidal products containing micro-organisms, these principles should be further developed in technical guidance taking into account practical experience gained, and be applied taking into account the nature of the product and the latest scientific information. In the case of biocidal products containing nanomaterials, the principles set out in this Annex will also need to be adapted and elaborated in technical guidance to take account of the latest scientific information.
+
+3\. In order to ensure a high and harmonised level of protection of human health, animal health and the environment, any risks arising from the use of a biocidal product shall be identified. To achieve this, a risk assessment shall be carried out to determine the acceptability or otherwise of any risks that are identified. This is done by carrying out an assessment of the risks associated with the relevant individual components of the biocidal product, taking into account any cumulative and synergistic effects.
+
+4\. A risk assessment on the active substance(s) present in the biocidal product is always required. This risk assessment shall entail hazard identification, and, as appropriate, dose (concentration) - response (effect) assessment, exposure assessment and risk characterisation. Where a quantitative risk assessment cannot be made a qualitative assessment shall be produced.
+
+5\. Additional risk assessments shall be carried out, in the same manner as described above, on any substance of concern present in the biocidal product. Information submitted in the framework of Regulation (EC) No 1907/2006 shall be taken into account where appropriate.
+
+6\. In order to carry out a risk assessment, data are required. These data are detailed in Annexes II and III and take account of the fact that there are a wide variety of applications as well as different product-types and that this has an impact on the associated risks. The data required shall be the minimum necessary to carry out an appropriate risk assessment. The evaluating body shall take due consideration of the requirements of Articles 6, 21 and 62 in order to avoid duplication of data submissions. Data may also be required on a substance of concern present in a biocidal product. For in-situ generated active substances, the risk assessment includes also the possible risks from the precursor(s).
+
+7\. The results of the risk assessments carried out on the active substance and on the substances of concern present in the biocidal product shall be integrated to produce an overall assessment for the biocidal product itself.
+
+8\. When making evaluations of a biocidal product the evaluating body shall:
+
+(a) take into consideration other relevant technical or scientific information which is reasonably available to them with regard to the properties of the biocidal product, its components, metabolites, or residues;
+
+(b) evaluate, where relevant, justifications submitted by the applicant for not supplying certain data.
+
+9\. The application of these common principles shall, when taken together with the other conditions set out in Article 19, lead to the competent authorities or the Commission deciding whether or not a biocidal product can be authorised. Such authorisation may include restrictions on use or other conditions. In certain cases the competent authorities may conclude that more data are required before an authorisation decision can be made.
+
+10\. In the case of biocidal products containing active substances covered by the exclusion criteria in Article 5(1), the competent authorities or the Commission shall also evaluate whether the conditions of Article 5(2) can be satisfied.
+
+11\. During the process of evaluation, applicants and the evaluating bodies shall cooperate in order to resolve quickly any questions on the data requirements, to identify at an early stage any additional studies required, to amend any proposed conditions for the use of the biocidal product, or to modify its nature or its composition in order to ensure full compliance with the requirements of Article 19 and of this Annex. The administrative burden, especially for SMEs, shall be kept to the minimum necessary without prejudicing the level of protection afforded to humans, animals and the environment.
+
+12\. The judgments made by the evaluating body during the evaluation must be based on scientific principles, preferably recognised at international level, and must be made with the benefit of expert advice.
+
+**ASSESSMENT**
+
+**General principles**
+
+13\. The data submitted in support of an application for authorisation of a biocidal product shall be validated by the evaluating or receiving competent authority in accordance with the relevant articles of the Regulation. After validation of these data the competent authorities shall utilise them by carrying out a risk assessment based on the proposed use. Information submitted in the framework of Regulation (EC) No 1907/2006 shall be taken into account where appropriate.
+
+14\. A risk assessment on the active substance present in the biocidal product shall always be carried out. If there are, in addition, any substances of concern present in the biocidal product then a risk assessment shall be carried out for each of these. The risk assessment shall cover the proposed normal use of the biocidal product, together with a realistic worst-case scenario including any relevant production and disposal issue. The assessment shall also take account of how any ‘treated articles’ treated with or containing the product may be used and disposed of. Active substances that are generated in-situ and the associated precursors shall also be considered.
+
+15\. In carrying out the assessment, the possibility of cumulative or synergistic effects shall also be taken into account. The Agency shall, in collaboration with the Commission, Member States and interested parties, develop and provide further guidance on the scientific definitions and methodologies for the assessment of cumulative and synergistic effects.
+
+16\. For each active substance and each substance of concern present in the biocidal product, the risk assessment shall entail hazard identification and the establishment of appropriate reference values for dose or effect concentrations such as NOAEL or Predicted No Effect Concentrations (PNEC), where possible. It shall also include, as appropriate, a dose (concentration) — response (effect) assessment, together with an exposure assessment and a risk characterisation.
+
+17\. The results arrived at from a comparison of the exposure to the appropriate reference values for each of the active substances and for any substances of concern shall be integrated to produce an overall risk assessment for the biocidal product. Where quantitative results are not available the results of the qualitative assessments shall be integrated in a similar manner.
+
+18\. The risk assessment shall determine:
+
+(a) the hazards due to the physico-chemical properties,
+
+(b) the risk to humans and animals,
+
+(c) the risk to the environment,
+
+(d) the measures necessary to protect humans, animals and the environment, both during the proposed normal use of the biocidal product and in a realistic worst-case situation.
+
+19\. In certain cases it may be concluded that further data are required before a risk assessment can be finalised. Any such additional data requested shall be the minimum necessary to complete such a risk assessment.
+
+20\. The information provided on the biocidal product family shall permit the evaluating body to reach a decision on whether all the products within the biocidal product family comply with the criteria under Article 19(1)(b).
+
+21\. Where relevant the technical equivalence for every active substance contained in the biocidal product shall be established with reference to active substances already included in the list of approved active substances.
+
+**Effects on human and animal health**
+
+Effects on human health
+
+22\. The risk assessment shall take account of the following potential effects arising from the use of the biocidal product and the populations liable to exposure.
+
+23\. The effects previously mentioned result from the properties of the active substance and any substance of concern present. They are:
+
+— acute toxicity,
+
+— irritation,
+
+— corrosivity,
+
+— sensitisation,
+
+— repeated dose toxicity,
+
+— mutagenicity,
+
+— carcinogenicity,
+
+— reproductive toxicity,
+
+— neurotoxicity,
+
+— immunotoxicity,
+
+— disruption of the endocrine system,
+
+— any other special properties of the active substance or substance of concern,
+
+— other effects due to physico-chemical properties.
+
+24\. The populations previously mentioned are:
+
+— professional users,
+
+— non-professional users,
+
+— humans exposed directly or indirectly via the environment.
+
+In considering these populations, particular attention should be given to the need to protect vulnerable groups within these populations.
+
+25\. The hazard identification shall address the properties and potential adverse effects of the active substance and any substances of concern present in the biocidal product.
+
+26\. The evaluating body shall apply points 27 to 30 when carrying out a dose (concentration) - response (effect) assessment on an active substance or a substance of concern present in a biocidal product.
+
+27\. For repeated dose toxicity and reproductive toxicity the dose-response relationship shall be assessed for each active substance or substance of concern and, where possible, a NOAEL identified. If it is not possible to identify a NOAEL, the lowest-observed-adverse-effect level (LOAEL) shall be identified. Where appropriate, other dose-effect descriptors may be used as reference values.
+
+28\. For acute toxicity, corrosivity and irritation, it is not usually possible to derive a NOAEL or LOAEL on the basis of tests conducted in accordance with the requirements of this Regulation. For acute toxicity, the LD50 (median lethal dose) or LC50 (median lethal concentration) value or another appropriate dose-effect descriptor shall be derived. For the other effects it shall be sufficient to determine whether the active substance or substance of concern has an inherent capacity to cause such effects during use of the biocidal product.
+
+29\. For mutagenicity and carcinogenicity, a non-threshold assessment should be carried out if the active substance or substance of concern is genotoxic and carcinogenic. If the active substance or a substance of concern is not genotoxic a threshold assessment shall be carried out.
+
+30\. With respect to skin sensitisation and respiratory sensitisation, in so far as there is no consensus on the possibility of identifying a dose/concentration below which adverse effects are unlikely to occur, particularly in a subject already sensitised to a given substance, it shall be sufficient to evaluate whether the active substance or substance of concern has an inherent capacity to cause such effects as a result of the use of the biocidal product.
+
+31\. When carrying out the risk assessment special consideration shall be given to toxicity data derived from observations of human exposure where such data are available, e.g. information gained from manufacture, from poison centres or epidemiology surveys.
+
+32\. An exposure assessment shall be carried out for each of the human populations (professional users, non-professional users and humans exposed directly or indirectly via the environment), for which exposure to a biocidal product occurs or can reasonably be foreseen, with particular attention paid to the pathways of exposure relevant for vulnerable groups. The objective of the assessment shall be to make a quantitative or qualitative estimate of the dose/concentration of each active substance or substance of concern, including relevant metabolites and degradation products to which a population is, or may be exposed during use of the biocidal product and articles treated with that product.
+
+33\. The exposure assessment shall be based on the information in the technical dossier provided in conformity with Articles 6 and 21 and on any other available and relevant information. Particular account shall be taken, as appropriate, of:
+
+— adequately measured exposure data,
+
+— the form in which the biocidal product is marketed,
+
+— the type of biocidal product,
+
+— the application method and application rate,
+
+— the physico-chemical properties of the biocidal product,
+
+— the likely routes of exposure and potential for absorption,
+
+— the frequency and duration of exposure,
+
+— maximum residue levels,
+
+— the type and size of specific exposed populations, where such information is available.
+
+34\. When conducting the exposure assessment, special consideration shall be given to adequately measured, representative exposure data where such data are available. Where calculation methods are used for the estimation of exposure levels, adequate models shall be applied.
+
+These models shall:
+
+— make a best possible estimation of all relevant processes taking into account realistic parameters and assumptions,
+
+— be subjected to an analysis taking into account possible elements of uncertainty,
+
+— be reliably validated with measurements carried out under circumstances relevant for the use of the model,
+
+— be relevant to the conditions in the area of use.
+
+Relevant monitoring data from substances with analogous use and exposure patterns or analogous properties shall also be considered.
+
+35\. Where, for any of the effects set out in point 23 a reference value has been identified, the risk characterisation shall entail comparison of the reference value with the evaluation of the dose/concentration to which the population will be exposed. Where a reference value cannot be established a qualitative approach shall be used.
+
+Assessment factors account for the extrapolation from animal toxicity to the exposed human population. The setting of an overall assessment factor considers the degree of uncertainty in inter-species and intra-species extrapolation. In the absence of suitable chemical-specific data, a default assessment factor of 100 is applied to the relevant reference value. Additional elements can also be considered for assessment factors, including toxicokinetics and toxicodynamics, the nature and severity of the effect, human (sub-)populations, exposure deviations between study results and human exposure with regard to frequency and duration, study duration extrapolation (e.g. sub-chronic to chronic), dose-response relationship and the overall quality of the toxicity data package.
+
+Effects on animal health
+
+36\. Using the same relevant principles as described in the section dealing with effects on humans, the evaluating body shall consider the risks posed to animals from the biocidal product.
+
+**Effects on the environment**
+
+37\. The risk assessment shall take account of any adverse effects arising in any of the three environmental compartments — air, soil and water (including sediment) — and of the biota, following the use of the biocidal product.
+
+38\. The hazard identification shall address the properties and potential adverse effects of the active substance and any substances of concern present in the biocidal product.
+
+39\. A dose (concentration) — response (effect) assessment shall be carried out in order to predict the concentration below which adverse effects in the environmental compartment of concern are not expected to occur. This shall be carried out for the active substance and for any substance of concern present in the biocidal product. This concentration is known as PNEC. However, in some cases, it may not be possible to establish a PNEC and a qualitative estimation of the dose (concentration) — response (effect) then has to be made.
+
+40\. The PNEC shall be determined from the data on effects on organisms and ecotoxicity studies submitted in accordance with requirements of Articles 6 and 20. It shall be calculated by applying an assessment factor to the reference values resulting from tests on organisms, e.g. LD50 (median lethal dose), LC50 (median lethal concentration), EC50 (median effective concentration), IC50 (concentration causing 50 % inhibition of a given parameter, e.g. growth), NOEL(C) (no-observed-effect level (concentration)), or LOEL(C) (lowest-observed-effect level (concentration)). Where appropriate, other dose-effect descriptors may be used as reference values.
+
+41\. An assessment factor is an expression of the degree of uncertainty in extrapolation from test data on a limited number of species to the real environment. Therefore, in general, the more extensive the data and the longer the duration of the tests, the smaller the degree of uncertainty and the size of the assessment factor.
+
+42\. For each environmental compartment, an exposure assessment shall be carried out in order to predict the likely concentration of each active substance or substance of concern present in the biocidal product. This concentration is known as the predicted environmental concentration (PEC). However, in some cases it may not be possible to establish a PEC and a qualitative estimate of exposure then has to be made.
+
+43\. A PEC, or where necessary a qualitative estimate of exposure, need only be determined for the environmental compartments to which emissions, discharges, disposal or distributions (including any relevant contribution from articles treated with biocidal products) are known or are reasonably foreseeable.
+
+44\. The PEC, or the qualitative estimation of exposure, shall be determined taking account of, in particular and where appropriate:
+
+— adequately measured exposure data,
+
+— the form in which the product is marketed,
+
+— the type of biocidal product,
+
+— the application method and application rate,
+
+— the physico-chemical properties,
+
+— breakdown/transformation products,
+
+— likely pathways to environmental compartments and potential for adsorption/desorption and degradation,
+
+— the frequency and duration of exposure,
+
+— long range environmental transportation.
+
+45\. When conducting the exposure assessment, special consideration shall be given to adequately measured, representative exposure data where such data are available. Where calculation methods are used for the estimation of exposure levels, adequate models shall be applied. The characteristics of these models shall be as listed in point 34. Where appropriate, on a case-by-case basis, relevant monitoring data from substances with analogous use and exposure patterns or analogous properties should also be considered.
+
+46\. For any given environmental compartment, the risk characterisation shall, as far as possible, entail comparison of the PEC with the PNEC so that a PEC/PNEC ratio may be derived.
+
+47\. If it has not been possible to derive a PEC/PNEC ratio, the risk characterisation shall entail a qualitative evaluation of the likelihood that an effect is occurring under the current conditions of exposure or will occur under the expected conditions of exposure.
+
+48\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) if it contains any substance of concern or relevant metabolites or breakdown or reaction products fulfilling the criteria for being PBT or vPvB in accordance with Annex XIII to Regulation (EC) No 1907/2006, or if it has endocrine-disrupting properties unless it is scientifically demonstrated that under relevant field conditions there is no unacceptable effect.
+
+**Effects on target organisms**
+
+49\. An assessment shall be made to demonstrate that the biocidal product does not cause unnecessary suffering in its effect on target vertebrates. This shall include an evaluation of the mechanism by which the effect is obtained and the observed effects on the behaviour and health of the target vertebrates; where the intended effect is to kill the target vertebrate, the time necessary to obtain the death of the target vertebrate and the conditions under which death occurs shall be evaluated.
+
+50\. The evaluating body shall, where relevant, evaluate the possibility of the development by the target organism of resistance or cross-resistance to an active substance in the biocidal product.
+
+**Efficacy**
+
+51\. Data submitted by the applicant shall be sufficient to substantiate the efficacy claims for the product. Data submitted by the applicant or held by the evaluating body must be able to demonstrate the efficacy of the biocidal product against the target organism when used normally in accordance with the conditions of authorisation.
+
+52\. Testing should be carried out according to Union guidelines where these are available and applicable. Where appropriate, other methods from the list below can be used. If relevant acceptable field data exist, these can be used.
+
+— ISO, CEN or other international standard method
+
+— national standard method
+
+— industry standard method (if accepted by the evaluating body)
+
+— individual producer standard method (if accepted by the evaluating body)
+
+— data from the actual development of the biocidal product (if accepted by the evaluating body).
+
+**Summary**
+
+53\. In each of the areas where risk assessments have been carried out, the evaluating body shall combine the results for the active substance together with the results for any substance of concern to produce an overall assessment for the biocidal product itself. This shall also take account of any cumulative or synergistic effects.
+
+54\. For biocidal product containing more than one active substance, any adverse effects shall also be considered together to produce an overall assessment for the biocidal product itself.
+
+**CONCLUSIONS**
+
+**General principles**
+
+55\. The purpose of the evaluation is to establish whether or not the product complies with the criteria set down in point (b) of Article 19(1). The evaluating body shall reach its conclusion as a result of the integration of the risks arising from each active substance together with the risks from each substance of concern present in the biocidal product, based on the assessment carried out in accordance with points 13 to 54 of this Annex.
+
+56\. In establishing compliance with the criteria set out in point (b) of Article 19(1), the evaluating body shall arrive at one of the following conclusions for each product-type and each area of use of the biocidal product for which application has been made:
+
+(1) that the biocidal product complies with the criteria;
+
+(2) that, subject to specific conditions/restrictions, the biocidal product can comply with the criteria;
+
+(3) that it is not possible, without additional data, to establish if the biocidal product complies with the criteria;
+
+(4) that the biocidal product does not comply with the criteria.
+
+57\. The evaluating body shall, when seeking to establish whether a biocidal product complies with the criteria in point (b) of Article 19(1), take into account uncertainty arising from the variability in the data used in the evaluation process.
+
+58\. If the conclusion arrived at by the evaluating body is that additional information or data are required, then the evaluating body shall justify the need for any such information or data. This additional information or data shall be the minimum necessary to carry out a further appropriate risk assessment.
+
+**Effects on human and animal health**
+
+Effects on human health
+
+59\. The evaluating body shall consider possible effects on all human populations, namely professional users, non-professional users and humans exposed directly or indirectly through the environment. In reaching these conclusions, particular attention shall be paid to vulnerable groups among the different populations.
+
+60\. The evaluating body shall examine the relationship between exposure and effect. A number of factors need to be considered when examining this relationship. One of the most important factors is the nature of the adverse effect of the substance under consideration. These effects include acute toxicity, irritancy, corrosivity, sensitisation, repeated dose toxicity, mutagenicity, carcinogenicity, neurotoxicity, immunotoxicity, reproductive toxicity, disruption of the endocrine system together with physico-chemical properties, and any other adverse properties of the active substance or substance of concern, or of their relevant metabolites or degradation products.
+
+61\. Typically, the margin of exposure (MOEref) — the ratio between the dose descriptor and the exposure concentration — is in the region of 100, but a MOEref that is higher or lower than this may also be appropriate depending on, among other things, the nature of the critical effects and the sensitivity of the population.
+
+62\. The evaluating body shall, where appropriate, conclude that criterion (iii) under point (b) of Article 19(1) can only be complied with by application of prevention and protection measures including the design of work processes, engineering controls, use of adequate equipment and materials, application of collective protection measures and, where exposure cannot be prevented by other means, application of individual protection measures including the wearing of personal protective equipment such as respirators, breathing-masks, overalls, gloves and goggles, in order to reduce exposure for professional operators.
+
+63\. If, for non-professional users, the wearing of personal protective equipment would be the only possible method for reducing exposure to an acceptable level for this population, the product shall not normally be considered as complying with criterion (iii) under point (b) of Article 19(1) for this population.
+
+Effects on animal health
+
+64\. Using the same relevant criteria as described in the section dealing with effects on human health, the evaluating body shall consider whether criterion (iii) under point (b) of Article 19(1) is complied with for animal health.
+
+**Effects on the environment**
+
+65\. The basic tool used in the decision-making is the PEC/PNEC ratio or, if this is not available, a qualitative estimation. Due consideration shall be given to the accuracy of this ratio due to variability in the data used both in measurements of concentration and of estimation.
+
+In the determination of the PEC, the most appropriate model should be used taking into account the environmental fate and behaviour of the biocidal product.
+
+66\. For any given environmental compartment, if the PEC/PNEC ratio is equal to or less than 1, the risk characterisation shall be that no further information and/or testing is necessary. If the PEC/PNEC ratio is greater than 1, the evaluating body shall judge, on the basis of the size of that ratio and on other relevant factors, whether further information and/or testing is required to clarify the concern or appropriate risk reduction measures are necessary, or whether the biocidal product cannot comply with criterion (iv) under point (b) of Article 19(1).
+
+Water
+
+67\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where, under the proposed conditions of use, the foreseeable concentration of the active substance or any other substance of concern, or of relevant metabolites or breakdown or reaction products in water (or its sediments) has an unacceptable impact on non-target organisms in the aquatic, marine or estuarine environment, unless it is scientifically demonstrated that under relevant field conditions there is no unacceptable effect. In particular, the evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1), where under the proposed conditions of use, the foreseeable concentration of the active substance or any other substance of concern, or of relevant metabolites or breakdown or reaction products in water (or its sediments), would undermine the achievement of compliance with the standards laid down in:
+
+— Directive 2000/60/EC,
+
+— Directive 2006/118/EC,
+
+— Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy ( 44 ),
+
+— Directive 2008/105/EC, or
+
+— international agreements on the protection of river systems or marine waters from pollution.
+
+68\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where, under the proposed conditions of use, the foreseeable concentration of the active substance or any other substance of concern, or of relevant metabolites or breakdown or reaction products in groundwater, exceeds the lower of the following concentrations:
+
+— the maximum permissible concentration laid down by Directive 98/83/EC, or
+
+— the maximum concentration as laid down following the procedure for approving the active substance under this Regulation, on the basis of appropriate data, in particular toxicological data,
+
+unless it is scientifically demonstrated that under relevant field conditions the lower concentration is not exceeded.
+
+69\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where the foreseeable concentration of the active substance or a substance of concern, or of relevant metabolites, breakdown or reaction products to be expected in surface water or its sediments after use of the biocidal product under the proposed conditions of use:
+
+— exceeds, where the surface water in or from the area of envisaged use is intended for the abstraction of drinking water, the values fixed by:
+
+— Directive 2000/60/EC,
+
+— Directive 98/83/EC, or
+
+— has an impact deemed unacceptable on non-target organisms,
+
+unless it is scientifically demonstrated that under relevant field conditions this concentration is not exceeded.
+
+70\. The proposed instructions for use of the biocidal product, including procedures for cleaning application equipment, must be such that, if followed, they minimise the likelihood of accidental contamination of water or its sediments.
+
+Soil
+
+71\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where, under the proposed conditions of use, the foreseeable concentration of the active substance or any other substance of concern, or of relevant metabolites or breakdown or reaction products in soil, has an unacceptable impact on non-target species, unless it is scientifically demonstrated that under relevant field conditions there is no unacceptable effect.
+
+Air
+
+72\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) of point (b) of Article 19(1) where there is a reasonably foreseeable possibility of unacceptable effect on the air compartment, unless it is scientifically demonstrated that under relevant field conditions there is no unacceptable effect.
+
+Non-target organisms
+
+73\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where there is a reasonably foreseeable possibility of non-target organisms being exposed to the biocidal product, if for any active substance or substance of concern:
+
+— the PEC/PNEC is above 1, or
+
+— the concentration of the active substance or any other substance of concern, or of relevant metabolites or breakdown or reaction products, has an unacceptable impact on non-target species, unless it is scientifically demonstrated that under relevant field conditions there is no unacceptable effect.
+
+74\. The evaluating body shall conclude that the biocidal product does not comply with criterion (iv) under point (b) of Article 19(1) where there is a reasonably foreseeable possibility of micro-organisms in sewage treatment plants being exposed to the biocidal product, if for any active substance, substance of concern, relevant metabolite, breakdown or reaction product the PEC/PNEC ratio is above 1, unless it is clearly established in the risk assessment that under field conditions no unacceptable impact, either directly or indirectly, occurs on the viability of such micro-organisms.
+
+**Effects on target organisms**
+
+75\. Where the development of resistance or cross-resistance to the active substance in the biocidal product is likely, the evaluating body shall consider actions to minimise the consequences of this resistance. This may involve modification of the conditions under which an authorisation is given. However, where the development of resistance or cross-resistance cannot be reduced sufficiently, the evaluating authority shall conclude that the biocidal product does not satisfy criterion (ii) under point (b) of Article 19(1).
+
+76\. A biocidal product intended to control vertebrates shall not normally be regarded as satisfying criterion (ii) under point (b) of Article 19(1) unless:
+
+— death is synchronous with the extinction of consciousness, or
+
+— death occurs immediately, or
+
+— vital functions are reduced gradually without signs of obvious suffering.
+
+For repellent products, the intended effect shall be obtained without unnecessary suffering and pain for the target vertebrate.
+
+**Efficacy**
+
+77\. The level, consistency and duration of protection, control or other intended effects must, as a minimum, be similar to those resulting from suitable reference products, where such products exist, or to other means of control. Where no reference products exist, the biocidal product must give a defined level of protection or control in the areas of proposed use. Conclusions as to the performance of the biocidal product must be valid for all areas of proposed use and for all areas in the Member State or, where appropriate, in the Union, except where the biocidal product is intended for use in specific circumstances. The evaluating body shall evaluate dose-response data generated in appropriate trials (which must include an untreated control) involving dose rates lower than the recommended rate, in order to assess if the recommended dose is the minimum necessary to achieve the desired effect.
+
+**Summary**
+
+78\. In relation to the criteria set out in points (iii) and (iv) of Article 19(1)(b), the evaluating body shall combine the conclusions arrived at for the active substance(s) and the substances of concern to produce overall summary conclusions for the biocidal product itself. A summary of the conclusions in relation to the criteria set out in points (i) and (ii) of Article 19(1)(b) shall also be made.
+
+**OVERALL INTEGRATION OF CONCLUSIONS**
+
+The evaluating body shall, on the basis of the evaluation carried out in accordance with the principles set down in this Annex, come to a conclusion as to whether or not it is established that the biocidal product complies with the criteria laid down under point (b) of Article 19(1).
+
+## ANNEX VII
+
+**CORRELATION TABLE**
+
+| Directive 98/8/EC | This Regulation |
+| --- | --- |
+| — | Article 1 |
+| Article 1 | Article 2 |
+| Article 2 | Article 3 |
+| Article 10 | Article 4 |
+| Article 10 | Article 5 |
+| — | Article 6 |
+| Article 11(1)(a) | 6(1) |
+| Article 11(1)(a)(i) and (ii) | 6(2) |
+| — | 6(3) |
+| — | 6(4) |
+| — | Article 7 |
+| Article 11(1)(a) | 7(1) |
+| — | 7(2) |
+| — | 7(3) |
+| — | 7(4) |
+| — | 7(5) |
+| — | 7(6) |
+| — | Article 8 |
+| Article 11(2), first subparagraph | 8(1) |
+| Article 11(2), second subparagraph | 8(2) |
+| Article 10(1), first subparagraph | 8(3) |
+| — | 8(4) |
+| — | Article 9 |
+| 11(4) | 9(1) |
+| — | 9(2) |
+| — | Article 10 |
+| Article 33 | Article 11 |
+| Article 10(4) | Article 12 |
+| — | 12(1) |
+| — | 12(2) |
+| — | 12(3) |
+| — | Article 13 |
+| — | Article 14 |
+| — | Article 15 |
+| — | Article 16 |
+| — | Article 17 |
+| Article 3(1) | 17(1) |
+| Article 8(1) | 17(2) |
+| — | 17(3) |
+| Article 3(6) | 17(4) |
+| Article 3(7) | 17(5) |
+| — | 17(6) |
+| — | Article 18 |
+| — | Article 19 |
+| Article 5(1) | 19(1) |
+| Article 5(1)(b) | 19(2) |
+| — | 19(3) |
+| Article 5(2) | 19(4) |
+| — | 19(5) |
+| Article 2(1)(j) | 19(6) |
+| — | 19(7) |
+| — | 19(8) |
+| — | 19(9) |
+| — | Article 20 |
+| Article 8(2) | 20(1) |
+| Article 8(12) | 20(2) |
+| — | 20(3) |
+| — | Article 21 |
+| — | Article 22 |
+| Article 5(3) | 22(1) |
+| — | 22(2) |
+| — | Article 23 |
+| — | 23(1) |
+| Article 10(5)(i) | 23(2) |
+| — | 23(3) |
+| — | 23(4) |
+| — | 23(5) |
+| — | 23(6) |
+| Article 33 | Article 24 |
+| — | Article 25 |
+| — | Article 26 |
+| — | Article 27 |
+| — | Article 28 |
+| — | Article 29 |
+| — | Article 30 |
+| — | Article 31 |
+| Article 4 | Article 32 |
+| — | Article 33 |
+| — | Article 34 |
+| — | Article 35 |
+| Article 4(4) | Article 36 |
+| — | Article 37 |
+| — | Article 38 |
+| — | Article 39 |
+| — | Article 40 |
+| — | Article 41 |
+| — | Article 42 |
+| — | Article 43 |
+| — | Article 44 |
+| — | Article 45 |
+| — | Article 46 |
+| — | Article 47 |
+| Article 7 | Article 48 |
+| Article 7 | Article 49 |
+| Article 7 | Article 50 |
+| — | Article 51 |
+| — | Article 52 |
+| — | Article 53 |
+| — | Article 54 |
+| Article 15 | Article 55 |
+| Article 17 | Article 56 |
+| — | Article 57 |
+| — | Article 58 |
+| Article 12 | Article 59 |
+| — | Article 60 |
+| — | 60(1) |
+| Article 12(1)(c)(ii) and (1)(b) and (1)(d)(ii) | 60(2) |
+| Article 12(2)(c)(i) and (ii) | 60(3) |
+| — | Article 61 |
+| — | Article 62 |
+| — | Article 63 |
+| Article 13(2) | 63(1) |
+| — | 63(2) |
+| — | 63(3) |
+| Article 13(1) | Article 64 |
+| — | Article 65 |
+| Article 24 | 65(1) |
+| — | 65(2) |
+| Article 24 | 65(3) |
+| — | 65(4) |
+| — | Article 66 |
+| — | 66(1) |
+| — | 66(2) |
+| — | 66(3) |
+| Article 19(1) | 66(4) |
+| — | Article 67 |
+| — | Article 68 |
+| — | Article 69 |
+| Article 20(1) and 20(2) | Article 69(1) |
+| Article 20(3) | Article 69(2) |
+| Article 20(6) | Article 69(2) |
+| Article 21, second subparagraph | Article 70 |
+| — | Article 71 |
+| — | Article 72 |
+| Article 22(1), first and second subparagraphs | 72(1) |
+| Article 22(1), third subparagraph | 72(2) |
+| Article 22(2) | 72(3) |
+| — | Article 73 |
+| — | Article 74 |
+| — | Article 75 |
+| — | Article 76 |
+| — | Article 77 |
+| — | Article 78 |
+| — | Article 79 |
+| — | Article 80 |
+| — | 80(1) |
+| Article 25 | 80(2) |
+| — | 80(3) |
+| Article 26 | Article 81 |
+| Article 28 | Article 82 |
+| — | Article 83 |
+| — | Article 84 |
+| Article 29 | Article 85 |
+| — | Article 86 |
+| — | Article 87 |
+| Article 32 | Article 88 |
+| — | Article 89 |
+| — | Article 90 |
+| — | Article 91 |
+| — | Article 92 |
+| — | Article 93 |
+| — | Article 94 |
+| — | Article 95 |
+| — | Article 96 |
+| — | Article 97 |
+| Annex IA | Annex I |
+| Annex II A, III A and IV A | Annex II |
+| Annex II B, III B and IV B | Annex III |
+| — | Annex IV |
+| Annex V | Annex V |
+| Annex VI | Annex VI |
+
+( 1 ) OJ L 92, 7.4.1990, p. 42.
+
+( 2 ) OJ L 311, 28.11.2001, p. 1.
+
+( 3 ) OJ L 311, 28.11.2001, p. 67.
+
+( 4 ) OJ L 136, 30.4.2004, p. 1.
+
+( 5 ) OJ L 139, 30.4.2004, p. 1.
+
+( 6 ) OJ L 139, 30.4.2004, p. 55.
+
+( 7 ) OJ L 354, 31.12.2008, p. 34.
+
+( 8 ) OJ L 229, 1.9.2009, p. 1.
+
+( 9 ) OJ L 309, 24.11.2009, p. 1.
+
+( 10 ) OJ L 170, 30.6.2009, p. 1.
+
+( 11 ) OJ 196, 16.8.1967, p. 1.
+
+( 12 ) OJ L 183, 29.6.1989, p. 1.
+
+( 13 ) OJ L 131, 5.5.1998, p. 11.
+
+( 14 ) OJ L 330, 5.12.1998, p. 32.
+
+( 15 ) OJ L 200, 30.7.1999, p. 1.
+
+( 16 ) OJ L 262, 17.10.2000, p. 21.
+
+( 17 ) OJ L 327, 22.12.2000, p. 1.
+
+( 18 ) OJ L 158, 30.4.2004, p. 50.
+
+( 19 ) OJ L 158, 30.4.2004, p. 7.
+
+( 20 ) OJ L 376, 27.12.2006, p. 21.
+
+( 21 ) OJ L 204, 31.7.2008, p. 1.
+
+( 22 ) OJ L 353, 31.12.2008, p. 1.
+
+( 23 ) OJ L 309, 24.11.2009, p. 71.
+
+( 24 ) OJ L 286, 31.10.2009, p. 1.
+
+( 25 ) OJ L 276, 20.10.2010, p. 33.
+
+( 26 ) OJ L 334, 17.12.2010, p. 17.
+
+( 27 ) OJ L 124, 20.5.2003, p. 36.
+
+( 28 ) OJ L 275, 20.10.2011, p. 38.
+
+( 29 ) Council Regulation (EEC) No 315/93 of 8 February 1993 laying down Community procedures for contaminants in food (OJ L 37, 13.2.1993, p. 1).
+
+( 30 ) Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC (OJ L 70, 16.3.2005, p. 1).
+
+( 31 ) Regulation (EC) No 470/2009 of the European Parliament and of the Council of 6 May 2009 laying down Community procedures for the establishment of residue limits of pharmacologically active substances in foodstuffs of animal origin, repealing Council Regulation (EEC) No 2377/90 and amending Directive 2001/82/EC of the European Parliament and of the Council and Regulation (EC) No 726/2004 of the European Parliament and of the Council (OJ L 152, 16.6.2009, p. 11).
+
+( 32 ) Directive 2002/32/EC of the European Parliament and of the Council of 7 May 2002 on undesirable substances in animal feed (OJ L 140, 30.5.2002, p. 10).
+
+( 33 ) Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4).
+
+( 34 ) OJ L 66, 4.3.2004, p. 45.
+
+( 35 ) Guidance on data sharing established in accordance with Regulation (EC) No 1907/2006.
+
+( 36 ) OJ L 218, 13.8.2008, p. 30.
+
+( 37 ) OJ L 145, 31.5.2001, p. 43.
+
+( 38 ) Commission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market (OJ L 325, 11.12.2007, p. 3).
+
+( 39 ) Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (OJ L 142, 31.5.2008, p. 1).
+
+( 40 ) OJ L 276, 20.10.2010, p. 33.
+
+( 41 ) OJ L 50, 20.2.2004, p. 44.
+
+( 42 ) Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (OJ L 142, 31.5.2008, p. 1).
+
+( 43 ) See definition of vulnerable groups in Article 3.
+
+( 44 ) OJ L 164, 25.6.2008, p. 19.

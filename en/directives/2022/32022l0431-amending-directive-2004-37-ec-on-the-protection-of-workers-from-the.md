@@ -340,14 +340,17 @@ The Annexes to Directive 2004/37/EC are amended as follows:
 
 (a) the row related to benzene is replaced by the following:
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>mg/m3</td><td>ppm</td><td>f/ml</td></tr>
 <tr><td>‘Benzene</td><td>200-753-7</td><td>71-43-2</td><td>0,66 </td><td>0,2 </td><td>–</td><td>–</td><td>–</td><td>–</td><td>Skin (8)</td><td>Limit value 1 ppm (3,25 mg/m3) until 5 April 2024. Limit value 0,5 ppm (1,65 mg/m3) from 5 April 2024 until 5 April 2026.’</td></tr>
 </tbody>
+</table>
 
 (b) the following rows are added:
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3 (5)</td><td>ppm  (6)</td><td>f/ml (7)</td><td>mg/m3</td><td>ppm</td><td>f/ml</td></tr>
@@ -366,6 +369,7 @@ The Annexes to Directive 2004/37/EC are amended as follows:
 <tr><td>Bisphenol A; 4,4′-Isopropylidenediphenol</td><td>201-245-8</td><td>80-05-7</td><td>2  (13)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Carbon monoxide</td><td>211-128-3</td><td>630-08-0</td><td>23 </td><td>20 </td><td></td><td>117 </td><td>100 </td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 (2) the following annex is inserted:
 
@@ -375,6 +379,7 @@ The Annexes to Directive 2004/37/EC are amended as follows:
 
 **(Article 16(4))**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Lead and its ionic compounds<table><tbody><tr><td>1.1.</td><td>Biological monitoring must include measuring the blood-lead level (PbB) using absorption spectrometry or a method giving equivalent results. The binding biological limit value is: 70 μg Pb/100 ml blood </td></tr>
 </tbody>
 </table>
@@ -383,6 +388,7 @@ The Annexes to Directive 2004/37/EC are amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 ’.
 

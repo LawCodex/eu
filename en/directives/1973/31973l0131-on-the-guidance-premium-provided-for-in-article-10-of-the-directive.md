@@ -32,9 +32,11 @@ on the guidance premium provided for in Article 10 of the Directive of 17 April 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 78/1017/EEC of 24 November 1978</td><td> L 349</td><td>32</td><td>13.12.1978</td></tr>
+</table>
 
 NB: This consolidated version contains references to the European unit of accout and/or the ecu, which from 1 January 1999 should be understood as references to the euro — Council Regulation (EEC) No 3308/80 (OJ L 345, 20.12.1980, p. 1) and Coundil Regulation (EC) No 1103/97 (OJ L 162, 19.6.1997, p. 1).
 

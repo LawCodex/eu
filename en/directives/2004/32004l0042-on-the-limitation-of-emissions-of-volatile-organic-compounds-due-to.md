@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products and amending Directive 1999/13/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DIRECTIVE 2010/79/EU of 19 November 2010 </td><td> L 304</td><td>18</td><td>20.11.2010</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1020 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 169</td><td>1</td><td>25.6.2019</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
 
 **DIRECTIVE 2004/42/EC  OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -246,6 +248,7 @@ e) ‘special finishes’means coatings designed for application as topcoats req
 
 A. MAXIMUM VOC CONTENT LIMIT VALUES FOR PAINTS AND VARNISHES
 
+<table>
 <tbody><tr><td>  </td><td>Product Subcategory</td><td>Type</td><td>Phase I (g/l (*1)) (from 1.1.2007) </td><td>Phase II (g/l (*1)) (from 1.1.2010) </td></tr>
 <tr><td rowspan="2">a</td><td rowspan="2">Interior matt walls and ceilings (Gloss &lt; 25@60°)</td><td>WB</td><td>75</td><td>30</td></tr>
 <tr><td>SB</td><td>400</td><td>30</td></tr>
@@ -273,9 +276,11 @@ A. MAXIMUM VOC CONTENT LIMIT VALUES FOR PAINTS AND VARNISHES
 <tr><td>SB</td><td>500</td><td>200</td></tr>
 <tr><td colspan="5">(*1)  g/l ready to use </td></tr>
 </tbody>
+</table>
 
 B. MAXIMUM VOC CONTENT LIMIT VALUES FOR VEHICLE REFINISHING PRODUCTS
 
+<table>
 <tbody><tr><td>  </td><td>Product Subcategory</td><td>Coatings</td><td>VOC g/l (*1) (1.1.2007) </td></tr>
 <tr><td rowspan="2">a</td><td rowspan="2">Preparatory and cleaning</td><td>Preparatory</td><td>850</td></tr>
 <tr><td>Pre-cleaner</td><td>200</td></tr>
@@ -286,6 +291,7 @@ B. MAXIMUM VOC CONTENT LIMIT VALUES FOR VEHICLE REFINISHING PRODUCTS
 <tr><td>e</td><td>Special finishes</td><td>All types</td><td>840</td></tr>
 <tr><td colspan="4">(*1)  g/l of ready for use product. Except for subcategory (a) any water content of the product ready for use should be discounted. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
@@ -293,24 +299,30 @@ B. MAXIMUM VOC CONTENT LIMIT VALUES FOR VEHICLE REFINISHING PRODUCTS
 
 Permitted method for products with VOC content below 15 % by mass where reactive diluents are not present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-2</td><td>2006</td></tr>
 </tbody>
+</table>
 
 Permitted methods for products with VOC content equal to or greater than 15 % by mass where reactive diluents are not present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-1</td><td>2007</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-2</td><td>2006</td></tr>
 </tbody>
+</table>
 
 Permitted method for products with VOC content where reactive diluents are present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ASTMD 2369</td><td>2003</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 123, 12.5.2016, p. 1.

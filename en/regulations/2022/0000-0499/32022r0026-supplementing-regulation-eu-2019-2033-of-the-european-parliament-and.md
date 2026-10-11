@@ -1,0 +1,74 @@
+---
+title: "Commission Delegated Regulation (EU) 2022/26 of 24 September 2021 supplementing Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to regulatory technical standards specifying the notion of segregated accounts to ensure client money’s protection in the event of an investment firm’s failure (Text with EEA relevance)"
+identifier: "32022R0026"
+eli: "http://data.europa.eu/eli/reg_del/2022/26/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2021-09-24
+entry_into_force: 2022-11-29
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0026"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2022/26 of 24 September 2021 supplementing Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to regulatory technical standards specifying the notion of segregated accounts to ensure client money’s protection in the event of an investment firm’s failure (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2022/26**
+
+**of 24 September 2021**
+
+**supplementing Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to regulatory technical standards specifying the notion of segregated accounts to ensure client money’s protection in the event of an investment firm’s failure**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (1), and in particular the third subparagraph of Article 15(5), in conjunction with point (b) of the first subparagraph of Article 15(5) thereof,
+
+Whereas:
+
+(1) Segregated accounts are defined in point (49) of Article 4(1) of Regulation (EU) 2019/2033 for the purposes of Table 1 in Article 15(2) of that Regulation. To enable investment firms to apply lower coefficients for the calculation of the own funds requirement “client money held”, where client money is held on segregated accounts, the notion of segregated accounts should be specified as embracing the conditions, which ensure the protection of client money in the event of the failure of an investment firm. As those conditions are set out in Article 2(1) of Commission Delegated Directive (EU) 2017/593 (2), it is appropriate to refer to the same conditions for the purposes of specifying the notion of segregated accounts under this Regulation. Therefore, this Regulation should establish a set of similar requirements as those laid down in Article 2(1) of Delegated Directive (EU) 2017/593.
+
+(2) This Regulation is based on the draft regulatory technical standards submitted to the Commission by the European Banking Authority.
+
+(3) The European Banking Authority has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the advice of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council (3),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Notion of segregated accounts
+
+As regards the conditions that ensure the protection of client money in the event of failure of an investment firm, the notion of segregated accounts referred to in Article 15(5)(b) of Regulation (EU) 2019/2033 shall mean that:
+
+(a) records and accounts are kept in a way that enables investment firms at any time and without delay to distinguish funds held for one client from funds held for any other client and from their own funds;
+
+(b) records and accounts are maintained in a way that ensures their accuracy, and in particular their correspondence to the funds held for clients, and that they may be used as an audit trail;
+
+(c) reconciliations are conducted on a regular basis between the internal accounts and records of investment firms and those of any third parties by whom those funds are held;
+
+(d) necessary steps have been taken to ensure that client funds deposited are held in an account or accounts identified separately from any accounts used to hold funds belonging to the investment firm;
+
+(e) adequate organisational arrangements have been introduced to minimise the risk of the loss or diminution of client funds, or of rights in connection with those funds, as a result of misuse of the funds, fraud, poor administration, inadequate record-keeping or negligence.
+
+## Article 2 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 September 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 314, 5.12.2019, p.1.
+
+(2) Commission Delegated Directive (EU) 2017/593supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to safeguarding of financial instruments and funds belonging to clients, product governance obligations and the rules applicable to the provision or reception of fees, commissions or any monetary or non-monetary benefits (OJ L 87, 31.3.2017, p. 500).
+
+(3) Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12).

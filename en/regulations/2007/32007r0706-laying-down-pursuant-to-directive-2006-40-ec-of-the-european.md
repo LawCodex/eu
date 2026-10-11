@@ -1,0 +1,821 @@
+---
+title: "Commission Regulation (EC) No 706/2007 of 21 June 2007 laying down, pursuant to Directive 2006/40/EC of the European Parliament and of the Council, administrative provisions for the EC type-approval of vehicles, and a harmonised test for measuring leakages from certain air conditioning systems (Text with EEA relevance)"
+identifier: "32007R0706"
+eli: "http://data.europa.eu/eli/reg/2007/706/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-06-22
+entry_into_force: 2007-02-11
+last_amended: 2013-07-01
+consolidated_version: "02007R0706-20130701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007R0706-20130701"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 706/2007 of 21 June 2007 laying down, pursuant to Directive 2006/40/EC of the European Parliament and of the Council, administrative provisions for the EC type-approval of vehicles, and a harmonised test for measuring leakages from certain air conditioning systems (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 706/2007**
+
+**of 21 June 2007**
+
+**laying down, pursuant to Directive 2006/40/EC of the European Parliament and of the Council, administrative provisions for the EC type-approval of vehicles, and a harmonised test for measuring leakages from certain air conditioning systems**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 519/2013 of 21 February 2013 </td><td> L 158</td><td>74</td><td>10.6.2013</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 706/2007**
+
+**of 21 June 2007**
+
+**laying down, pursuant to Directive 2006/40/EC of the European Parliament and of the Council, administrative provisions for the EC type-approval of vehicles, and a harmonised test for measuring leakages from certain air conditioning systems**
+
+**(Text with EEA relevance)**
+
+### Article 1 — Subject matter
+
+This Regulation lays down certain measures for the implementation of Articles 4 and 5 of Directive 2006/40/EC.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+1\. ‘vehicle type with regard to emissions from air-conditioning systems’ means a group of vehicles which do not differ as regards the refrigerant used or other main characteristics of the air-conditioning system or as regards the evaporator system, whether single or dual;
+
+2\. ‘type of air-conditioning system’ means a group of air-conditioning systems which do not differ either as regards their trade name or mark of their manufacturer or as regards the leak components included therein;
+
+3\. ‘leak component’ means any of the following parts of an air-conditioning system or an assembly of such parts:
+
+(a) hose including crimping;
+
+(b) individual connections, whether male or female;
+
+(c) valves, switches and sensors;
+
+(d) thermal expansion valves with connections;
+
+(e) evaporator with external connections;
+
+(f) compressor with connections;
+
+(g) condenser with integrated serviceable dryer;
+
+(h) receiver/dryer with connections;
+
+(i) accumulator with connections;
+
+4\. ‘type of leak component’ means a group of leak components which do not differ either as regards their trade name or mark of their manufacturer or as regards their main function.
+
+Leak components made of different materials or combinations of different leak components shall be considered as belonging to the same type of leak component, as defined in point 4 of the first paragraph, provided that they do not increase the leakage rate.
+
+### Article 3 — EC component type-approval
+
+Member States may not, on grounds relating to emissions from air-conditioning systems, refuse to grant an EC component type-approval to a type of leak component or a type of air-conditioning system if it complies with the provisions of this Regulation.
+
+### Article 4 — Administrative provisions for EC component type-approval
+
+1\. The manufacturer or his representative shall submit to the type-approval authority the application for EC component type-approval for a type of leak component or air-conditioning system.
+
+The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I.
+
+2\. The manufacturer or his representative shall submit to the technical service responsible for conducting the type-approval tests a leak component or an air-conditioning system to be approved.
+
+For that purpose, a sample with the highest leakage rate (hereinafter ‘the worst case sample’) shall be used.
+
+3\. If the relevant requirements are met, EC component type-approval shall be granted and a component type-approval number issued in accordance with the numbering system set out in Annex VII to Directive 70/156/EEC.
+
+A Member State may not assign the same number to another type of leak component or air-conditioning system.
+
+4\. For the purposes of paragraph 3, the type-approval authority shall deliver an EC component type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+
+### Article 5 — EC component type-approval mark
+
+Every leak component or air-conditioning system conforming to a type in respect of which EC component type-approval has been granted pursuant to this Regulation shall bear an EC component type-approval mark set out in Part 3 of Annex I.
+
+### Article 6 — Administrative provisions for EC type-approval of a vehicle with regard to emissions from an air-conditioning system
+
+1\. The manufacturer or his representative shall submit to the type-approval authority the application for EC type-approval of a vehicle with regard to emissions from an air-conditioning system.
+
+The application shall be drawn up in accordance with the model of the information document set out in Part 4 of Annex I.
+
+2\. The manufacturer or his representative shall submit with the application, in the case of a whole vehicle testing, the worst case sample of the complete vehicle type to be approved or, in the case of a component testing, type-approval certificates for the relevant leak components or for the air-conditioning system.
+
+3\. If the relevant requirements are met, EC type-approval shall be granted and a type-approval number issued in accordance with the numbering system set out in Annex VII to Directive 70/156/EEC.
+
+A Member State may not assign the same number to another vehicle type.
+
+4\. For the purposes of paragraph 3, the type-approval authority shall deliver an EC type-approval certificate established in accordance with the model set out in Part 5 of Annex I.
+
+### Article 7 — Harmonised leakage detection test
+
+The harmonised leakage detection test for examining whether the maximum permissible leakage limits, referred to in Article 5(2) and 5(3) of Directive 2006/40/EC, have been exceeded is laid down in Annex II to this Regulation.
+
+### Article 8 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall apply from 5 January 2008.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## List of Annexes
+
+Annex I Administrative documents for EC type-approval
+
+Part 1: Information document — EC component type-approval
+
+Part 2: EC type-approval certificate (component)
+
+Part 3: EC component type-approval mark
+
+Part 4: Information document — EC type-approval of a vehicle
+
+Part 5: EC type-approval certificate (vehicle)
+
+Annex II Technical provisions for the determination of leakages from air-conditioning systems
+
+Appendix: Calibration of equipment for leakage testing
+
+## ANNEX I — ADMINISTRATIVE DOCUMENTS FOR EC TYPE-APPROVAL
+
+**PART 1**
+
+**MODEL**
+
+**Information document No … relating to EC component type-approval of an air-conditioning system or of a component thereof**
+
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, must show sufficient detail.
+
+If the components have electronic controls, information concerning their performance must be supplied.
+
+**0 GENERAL**
+
+0.1 Make (trade name of manufacturer): …
+
+0.2 Type: …
+
+0.2.1 Commercial name(s), if available: …
+
+0.2.2 Component material: …
+
+0.2.3 Drawing or scheme of a component: …
+
+0.2.4 Reference or part number of the component: …
+
+0.5 Name and address of manufacturer: …
+
+0.7 Location and method of affixing of the EC type-approval mark: …
+
+0.8 Address(es) of assembly plant(s): …
+
+**9\. BODYWORK**
+
+9.10.8. Leakage in g/year of the leak component/air-conditioning system (if tested by the manufacturer) ( 3 ):
+
+**PART 2**
+
+**MODEL**
+
+**EC TYPE-APPROVAL CERTIFICATE**
+
+**(maximum format: A4 (210 × 297 mm))**
+
+STAMP OF ADMINISTRATION
+
+Communication concerning the
+
+— type-approval
+
+— extension of type-approval ( 4 )
+
+— refusal of type-approval (4)
+
+— withdrawal of type-approval (4)
+
+of a type of vehicle/component/separate technical unit (4) with regard to Directive 2006/40/EC, as implemented by Regulation (EC) No 706/2007 (4) .
+
+Type-approval number …
+
+Reason for extension …
+
+**SECTION I**
+
+0.1 Make (trade name of manufacturer): …
+
+0.2 Type: …
+
+0.2.1 Commercial name(s), if available: …
+
+0.3 Means of identification of type, if marked on the vehicle/component/separate technical unit (4) …
+
+0.5 Name and address of manufacturer: …
+
+0.7 In the case of components and separate technical units, location and method of affixing of the EC type-approval mark: …
+
+0.8 Address(es) of assembly plant(s): …
+
+**SECTION II**
+
+1 Additional information (where applicable): (see Addendum)
+
+2 Technical service responsible for carrying out the tests: …
+
+3 Date of test report: …
+
+4 Number of test report: …
+
+5 Remarks (if any): (see Addendum)
+
+6 Place: …
+
+7 Date: …
+
+8 Signature: …
+
+9 The index to the information package lodged with the approval authority, which may be obtained on request, is attached.
+
+### Addendum — to EC type-approval certificate No … — concerning the type-approval of an air-conditioning system or leak component with regard to Directive 2006/40/EC
+
+1 Additional information
+
+1.1 Brief description of the system or leak component: …
+
+1.2 Leakage in g/year ( 5 ): …
+
+1.3 Remarks: (e.g., valid for left-hand drive and right-hand drive vehicles): …
+
+**PART 3**
+
+**EC COMPONENT TYPE-APPROVAL MARK**
+
+**1\. GENERAL**
+
+1.1. The EC component type-approval mark consists of:
+
+1.1.1. a rectangle surrounding the lower case letter ‘e’ followed by the distinguishing number or letters of the Member State which has granted the EC component type-approval:
+
+1 for Germany
+
+2 for France
+
+3 for Italy
+
+4 for the Netherlands
+
+5 for Sweden
+
+6 for Belgium
+
+7 for Hungary
+
+8 for the Czech Republic
+
+9 for Spain
+
+11 for the United Kingdom
+
+12 for Austria
+
+13 for Luxembourg
+
+17 for Finland
+
+18 for Denmark
+
+19 for Romania
+
+20 for Poland
+
+21 for Portugal
+
+23 for Greece
+
+24 for Ireland
+
+25 for Croatia
+
+26 for Slovenia
+
+27 for Slovakia
+
+29 for Estonia
+
+32 for Latvia
+
+34 for Bulgaria
+
+36 for Lithuania
+
+49 for Cyprus
+
+50 for Malta,
+
+1.1.2. in the vicinity of the rectangle the ‘base approval number’ contained in Section 4 of the type-approval number referred to in Annex VII of Directive 70/156/EEC, preceded by the two figures indicating the sequence number assigned to the most recent major technical amendment to Directive 2006/40/EC or this Regulation on the date the EC component type-approval was granted. For this Regulation, the sequence number is 00.
+
+1.2. The EC component type-approval mark must be clearly legible and indelible.
+
+**2\. EXAMPLE OF THE EC COMPONENT TYPE-APPROVAL MARK**
+
+a ≥ 8 mm or at least 2,5 mm if the 8 mm size is not suitable.
+
+The above component type-approval mark shows that the part in question has been approved in Germany (e1) under approval number 2439. The first two digits (00) indicate that this part was approved according to this Regulation.
+
+**PART 4**
+
+**MODEL**
+
+**Information document No … relating to EC type-approval of a vehicle with regard to emissions from air-conditioning system**
+
+The following information, if applicable, must be supplied in triplicate and include a list of contents. Any drawings must be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, must show sufficient detail.
+
+If the components have electronic controls, information concerning their performance must be supplied.
+
+**0 GENERAL**
+
+0.1 Make (trade name of manufacturer): …
+
+0.2 Type: …
+
+0.2.1 Commercial name(s), if available: …
+
+0.3 Means of identification of type, if marked on the vehicle/component/separate technical unit ( 6 ) …
+
+0.3.1 Location of that marking: …
+
+0.4 Category of vehicle: …
+
+0.5 Name and address of manufacturer: …
+
+0.7 In the case of components and separate technical units, location and method of affixing of the EC type-approval mark …
+
+0.8 Address(es) of assembly plant(s) …
+
+**9\. BODYWORK**
+
+9.10.8 The air-conditioning system is designed to contain fluorinated greenhouse gases with a global warming potential higher than 150: YES/NO (6)
+
+Gas used as refrigerant: …
+
+If YES, fill in the following sections
+
+9.10.8.1 Drawing and brief description of the air-conditioning system, including the reference or part number and material of the leak components: …
+
+9.10.8.2 Leakage in g/year of the air-conditioning system: …
+
+9.10.8.2.1. In case of leak component testing: list of leak components including the corresponding reference or part number and material, with their respective yearly leakages and information about the test (e.g. test report no., approval No, etc.): …
+
+9.10.8.2.2. In case of system testing: reference or part number and material of the components of the system and information about the test (e.g. test report No, approval no., etc.): …
+
+**PART 5**
+
+**MODEL**
+
+**EC TYPE-APPROVAL CERTIFICATE**
+
+**(maximum format: A4 (210 × 297 mm))**
+
+STAMP OF ADMINISTRATION
+
+Communication concerning the
+
+— type-approval
+
+— extension of type-approval ( 7 )
+
+— refusal of type-approval (7)
+
+— withdrawal of type-approval (7)
+
+of a type of vehicle/component/separate technical unit (7) with regard to Directive 2006/40/EC, as implemented by Regulation (EC) No 706/2007.
+
+Type-approval Number: …
+
+Reason for extension: …
+
+**SECTION I**
+
+0.1 Make (trade name of manufacturer): …
+
+0.2 Type: …
+
+0.2.1 Commercial name(s), if available: …
+
+0.3 Means of identification of type, if marked on the vehicle/component/separate technical unit (7) …
+
+0.3.1 Location of that marking: …
+
+0.4 Category of vehicle: …
+
+0.5 Name and address of manufacturer: …
+
+0.7 In the case of components and separate technical units, location and method of affixing of the EC type-approval mark: …
+
+0.8 Address(es) of assembly plant(s): …
+
+**SECTION II**
+
+1 Additional information (where applicable): (see Addendum)
+
+2 Technical service responsible for carrying out the tests: …
+
+3 Date of test report: …
+
+4 Number of test report: …
+
+5 Remarks (if any): (see Addendum)
+
+6 Place: …
+
+7 Date: …
+
+8 Signature: …
+
+9 The index to the information package lodged with the approval authority, which may be obtained on request, is attached.
+
+### Addendum — to EC type-approval certificate No … — concerning the type-approval of a vehicle with regard to Directive 2006/40/EC
+
+1 Additional information
+
+1.1 Brief description of the vehicle type as regards its air-conditioning system: …
+
+1.2 The air-conditioning system using a fluorinated greenhouse gas with a global warming potential higher than 150: YES/NO
+
+Gas used as refrigerant:
+
+If YES, fill in the following sections
+
+1.3 Overall leakage in g/year: …
+
+1.4 Remarks: (e.g., valid for left-hand drive and right-hand drive vehicles): …
+
+## ANNEX II
+
+**TECHNICAL PROVISIONS FOR THE DETERMINATION OF LEAKAGES FROM AIR-CONDITIONING SYSTEMS**
+
+**1\. INTRODUCTION**
+
+This annex applies to vehicles with an air-conditioning system (AC) designed to contain fluorinated greenhouse gases with a global warming potential higher than 150, in order to evaluate the release to the atmosphere of refrigerant fluid. Topics addressed in this Annex include:
+
+1\. Equipment requirements
+
+2\. Test conditions
+
+3\. Test procedure and data requirements
+
+**2\. DESCRIPTION OF TEST**
+
+2.1. The air-conditioning leakage test is designed to determine the amount of hydro-fluoro-carbons (HFC-134a) released to the atmosphere from vehicles fitted with an air-conditioning system, as a consequence of the normal operation of such a system.
+
+2.2. The test can be undertaken on the whole vehicle, on the air-conditioning system or on individual leak components.
+
+2.3. Leak components need to be tested without additional oil involved. Residual oil from the manufacturing process can stay in. Compressors use standard charge of oil.
+
+2.4. The individual components boundaries have to be within a metal tube area. The boundary sections have to be sealed tightly by welding or brazing. One of the components boundaries may, if appropriate, be connected to a suitable volume metal container holding the two-phase refrigerant.
+
+2.5. The HFC-134a container and leak component has to be filled with two-phase (liquid and vapour) refrigerant HFC-134a to maintain constant pressure at the required temperature level by heating means. The leak component under pre-conditioning or under test is installed in the sealed enclosure. The temperature of the component is maintained at the requested preconditioning or testing temperature in order to have only the vapour phase of HFC-134a inside the component. For complete air-conditioning systems the actual nominal charge has to be used. The manufacturer recommended oil concentration and type should be used.
+
+2.6. Every leak component of the air-conditioning system shall be submitted to a test except those considered as leak free.
+
+2.6.1. The following components are considered leak free:
+
+— Evaporator without connections
+
+— Metallic tubes without connections
+
+— Condenser without serviceable integrated dryer without connections
+
+— Receiver/dryer without connections
+
+— Accumulator without connections.
+
+2.7. The worst case sample of a leak component or an air-conditioning system shall be chosen for testing.
+
+2.8. Mass leakage of refrigerant fluid from any leak component is added up to provide an overall result for the test.
+
+**3\. TEST EQUIPMENT**
+
+The test has to be undertaken in a sealed enclosure including an equipment to ensure a homogeneous concentration of gas and the use of a gas analysis method.
+
+All the equipment used during the test shall be calibrated with relation to reference equipment.
+
+**3.1. Measurement enclosure**
+
+3.1.1. For the pre-conditioning phase, the temperature conditioning system must be capable of controlling the internal air temperature throughout the duration of this phase, with a tolerance of ± 3 K.
+
+3.1.2. For the measurement phase, the leakage measurement enclosure must be a sealed gas-tight measurement enclosure able to contain the system, component under test. The enclosure when sealed must be gas tight in accordance with the Appendix. The inner surface of the enclosure must be impermeable and non-reactive to the air-conditioning refrigerant fluid. The temperature conditioning system must be capable of controlling the internal enclosure air temperature throughout the test, with an average tolerance of ± 1 K over the duration of the test.
+
+3.1.3. The measurement enclosure must be constructed with rigid panels that maintain a fixed enclosure volume.
+
+3.1.4. The inner size of the measurement enclosure shall be appropriate to contain the components or systems to be tested with the required accuracy.
+
+3.1.5. Gas and temperature homogeneity inside the measurement enclosure shall be ensured by mean of at least one recirculation fan or an alternative method that can be demonstrated to provide homogeneous temperature and gas concentration.
+
+**3.2. Measuring equipment**
+
+3.2.1. The amount of HFC-134a released shall be measured by means of gas chromatography, infrared spectro-photometry, mass spectrometry, infrared photo-acoustic spectroscopy (see the Appendix).
+
+3.2.2. If the used technique is not one of the mentioned before, equivalency shall have to be demonstrated and the equipment has to be calibrated with a procedure similar as described in the Appendix.
+
+3.2.3. The target accuracy of the measuring equipment for the total air-conditioning system is established in ± 2 g/year.
+
+3.2.4. Equipment for gas analysis, combined with any other equipment, which allows an accuracy down to 0,2 grams/year shall be used for any component test.
+
+3.2.5. For components where it is very difficult to achieve the above mentioned accuracy the number of samples in each test can be increased.
+
+3.2.6. The repeatability of the analyser expressed as one standard deviation must be better than 1 % of full scale deflection at zero and at 80 % ± 20 % of full scale on all ranges used.
+
+3.2.7. The zero and span of the gas analyser must be calibrated before any test according to manufacturer instructions.
+
+3.2.8. The operational ranges of the analyser must be chosen to give best resolution over the measurement, calibration and leak checking procedures.
+
+**3.3. Gas analyser data recording system**
+
+3.3.1. The gas analyser must be fitted with a device to record electrical signal output either by strip chart recorder or other data processing system at a frequency of at least once per 60 minutes. The recording system must have operating characteristics at least equivalent to the signal being recorded and must provide a permanent record of results. The record must show a positive indication of the beginning and end of the test (including beginning and end of sampling periods along with the time elapsed between start and completion of each test).
+
+**3.4. Additional equipment**
+
+3.4.1. Temperature recording
+
+3.4.1.1. The temperature in the measurement enclosure is recorded at one or two points by temperature sensors which are connected so as to show a mean value. The measuring points shall be representative of the temperature inside the measurement enclosure.
+
+3.4.1.2. Temperatures must, throughout the HFC-134a leakage measurements, be recorded or entered into a data processing system having a frequency of at least once per minute.
+
+3.4.1.3. The accuracy of the temperature recording system must be within ± 1,0 K.
+
+3.4.2. Pressure measuring device
+
+3.4.2.1. The accuracy of the pressure recording system for Pshed must be within ± 2 hPa and the pressure must be capable of being resolved to ± 0,2 hPa.
+
+3.4.3. Fans
+
+3.4.3.1. By the use of one or more fans, blowers or other appropriate method, like N2 flush, it must be possible to reduce the HFC-134a concentration in the measurement enclosure to the ambient level.
+
+3.4.3.2. The leak component or system to be tested in the enclosure must not be subjected to a direct stream of air from the fans or blowers when used.
+
+3.4.4. Gases
+
+3.4.4.1. Where specified by the supplier of the gas analyser, the following gases must be available for calibration and operation:
+
+— purified synthetic air with an oxygen content between 18 % and 21 % by volume,
+
+— HFC-134a, 99,5 % minimum purity,
+
+3.4.4.2. Calibration and span gases must be available containing mixtures of HFC-134a and purified synthetic air or any other suitable inert gas. The true concentrations of a calibration gas must be within ± 2 % of stated figures.
+
+**4\. PRECONDITIONING**
+
+**4.1. General requirement**
+
+4.1.1. Before preconditioning and leakage measurement is performed, the air-conditioning system is to be evacuated and charged with the specified nominal charge of HFC-134a.
+
+4.1.2. In order to ensure saturated conditions during the whole duration of the test, including preconditioning phase, each ‘leak’ component, with or without additional container, is to be evacuated and charged with sufficient amount of HFC-134a but not exceeding 0,65 g/cm3 of the total inner volume of the leak component or container.
+
+**4.2. Preconditioning conditions**
+
+4.2.1. The applicant for approval may choose to conduct preconditioning either in a single step at 40 °C or in a two step approach of shorter total duration. The two step approach shall involve two sequential stages, the first at 50 °C immediately followed by the second at 40 °C. The duration of preconditioning shall be as shown below.
+
+<table>
+<tbody><tr><td>  </td><td>Option 1</td><td colspan="2">Option 2</td></tr>
+<tr><td>System part</td><td>40 °C Time  [h] </td><td>Step 1 — 50 °C Time  [h] </td><td>Step 2 — 40 °C Time  [h] </td></tr>
+<tr><td>Complete system</td><td>480 </td><td>240 </td><td>24 </td></tr>
+<tr><td>Compressor</td><td>144 </td><td>72 </td><td>24 </td></tr>
+<tr><td>Hose assemblies</td><td>480 </td><td>240 </td><td>24 </td></tr>
+<tr><td>All other leak parts</td><td>96 </td><td>48 </td><td>24 </td></tr>
+</tbody>
+</table>
+
+Shorter preconditioning times can be used if it can be demonstrated the steady state (constant loss rate) regarding permeation losses has been reached.
+
+4.2.2. After preconditioning, the leak components or system have to be placed in the measurement enclosure for the leak test within four hours.
+
+**4.3. Compressor**
+
+4.3.1. When necessary for lubrication and seal running-in, compressor may be run in between preconditioning and test during a minimum period of 1 min at minimum speed of 200 rpm.
+
+4.3.2. The HFC-134a charge in the leak component or air-conditioning system has to be kept intact between preconditioning and measurement in order not to loose the preconditioning effect. This means that the same configuration has to be submitted to both preconditioning and measurement without disassembling and re-assembling in between.
+
+**5\. TEST SEQUENCE**
+
+**5.1. General requirements**
+
+The test sequence, in figure I, shows the steps to be followed during the development of the test.
+
+**5.2. Leakage test**
+
+5.2.1. The test is to be undertaken at static and steady state conditions at the temperature of 313 K (40 °C). Differences in HFC-134a concentration over the test time is used to calculate annual losses.
+
+5.2.2. The measurement enclosure must be purged for several minutes until a stable background is obtained.
+
+5.2.3. Prior to the test the background level in the measurement enclosure must be measured and the gas analyzer zeroed and spanned.
+
+5.2.4. In case the configuration is moved from the preconditioning to a different measurement chamber, the start of the measuring period shall be not earlier than four hours after the measurement enclosure is closed, sealed and test temperature set.
+
+5.2.5. The leak component or system is then introduced in the measurement enclosure.
+
+5.2.6. The measurement enclosure is closed and sealed gas-tight. The test chamber has to be completely filled at atmospheric pressure with a reference gas (e.g. clean air).
+
+Figure I
+
+5.2.7. The test period begins when the measurement enclosure is sealed and the temperature in the measurement enclosure reaches 313 K (40 °C). The temperature is maintained at that value until the end of the testing period. The HFC-134a concentration, temperature and barometric pressure are measured to give the initial readings CHFC-134ai; Pshed and Tshed for the testing period but not earlier than four hours after closing the measurement enclosure and setting the test temperature as specified in section 5.2.4. These values are used in the leakage calculation according to section 5.3.
+
+5.2.8. The nominal measurement period shall be 24 hours. A shorter period is allowed provided that sufficient accuracy can be demonstrated.
+
+5.2.9. The gas analyser must be zeroed and spanned immediately after the end of the testing period.
+
+5.2.10. At the end of the testing period the HFC-134a concentration, temperature and barometric pressure in the measurement enclosure must be measured. These are the final readings CHFC-134af, Pshed and Tshed for the leakage calculation according to section 5.3.
+
+**5.3. Calculation**
+
+5.3.1. The test described in section 5.2 allows the HFC-134a emissions to be calculated. Leakage is calculated using the initial and final HFC-134a concentrations, temperatures and pressures in the enclosure, together with the net measurement enclosure volume.
+
+The total Leakage-Mass HFC-134a is calculated by means of the following formula:
+
+[image]
+
+where:
+
+| [image] HFC-134a | = Leak flow rate of HFC-134a | [kg/s] |
+| --- | --- | --- |
+| nHFC-134a | = Number of moles of HFC-134a | [mol] |
+| Vshed | = SHED-chamber net volume | [m3] |
+| VAC | = Gross volume of the air-conditioning system or component | [m3] |
+| Tshed | = Temperature in the SHED | [K] |
+| Pshed | = Pressure in the SHED | [kPa] |
+| CHFC-134ae | = HFC-134a final concentration | [ppmv] |
+| CHFC-134ai | = HFC-134a initial concentration | [ppmv] |
+| te | = Final time | [s] |
+| ti | = Initial time | [s] |
+| MHFC-134a | = Molar mass of HFC-134a(=102 kg/kmol) | [kg/kmol] |
+| R | = Gas constant(= 8,314 kJ/(kmol*K)) | [kJ/(kmol*K)] |
+
+NB: CHFC-134a is defined as the number of moles of HFC-134a (nHFC-134a) per mole of air (nair+HFC-134a)
+
+[image]
+
+ppmv: parts per million volume/volume equivalent to mol/mol.
+
+5.3.2. The mass in grams, obtained as a function of the time, shall be transformed to grams/year (g/y).
+
+**5.4. Overall results of test**
+
+The total leakage for the complete air-conditioning system is calculated by adding the partial values for any of the leak component tested.
+
+1\. System testing
+
+AC Leakage, L(g/y) = CF * [image] HFC-134a (g/y)
+
+2\. Component testing
+
+AC Leakage, L(g/y) = CF * Σ [image] HFC-134a (g/y)
+
+where CF (Correlation Factor) = 0,277.
+
+**6\. APPROVAL**
+
+1\. The tested air-conditioning system shall be approved if the value L (g/y) is lower than the values expressed in the next table, according to Directive 2006/40/EC:
+
+<table>
+<tbody><tr><td>L (g/y)</td><td>AC Refrigerant</td></tr>
+<tr><td>40/60 (*1)</td><td>HFC-134a</td></tr>
+<tr><td colspan="2">(*1)  In case of dual evaporation system. </td></tr>
+</tbody>
+</table>
+
+2\. The leak component shall be approved if it has been tested in accordance with the requirements of Sections 2 to 5.3.
+
+## Appendix
+
+**Calibration of equipment for leakage testing**
+
+**1\. CALIBRATION FREQUENCY AND METHODS**
+
+1.1. All equipment must be calibrated before its initial use and then calibrated as often as necessary and in any case in the period of six months before type-approval testing. The calibration methods to be used (for equipment listed in paragraph 3.2.1 of Annex II to this Regulation) are described in this Appendix.
+
+**2\. CALIBRATION OF THE MEASUREMENT ENCLOSURE**
+
+**2.1. Initial determination of measurement enclosure internal volume**
+
+2.1.1. Before its initial use, the internal volume of the measurement enclosure must be determined as follows. The internal dimensions of the measurement enclosure are carefully measured, allowing for any irregularities such as bracing struts. The internal volume of the measurement enclosure is determined from these measurements.
+
+2.1.2. The net internal volume is determined by subtracting the volume of the test component or system from the internal volume of the measurement enclosure.
+
+2.1.3. The measurement enclosure must be leak checked as in 2.3. If the gas mass does not agree with the injected mass to within ± 2 % then corrective action is required.
+
+**2.2. Determination of measurement enclosure background emissions**
+
+This operation determines that the measurement enclosure does not contain any materials that emit significant amounts of HFC-134a. The check must be carried out at the enclosure's introduction to service, after any operations in the enclosure which may affect background emissions and at a frequency of at least once per year.
+
+2.2.1. The temperature within the measurement enclosure must be maintained at 313 K ± 1 K (40 °C ± 1 °C) throughout the four-hour period mentioned below.
+
+2.2.2. The measurement enclosure may be sealed and the mixing fan operated for a period of up to two hours before the four-hour background sampling period begins.
+
+2.2.3. The analyser (if required) must be calibrated, then zeroed and spanned.
+
+2.2.4. The measurement enclosure must be purged until a stable reading is obtained, and the mixing fan turned on if not already on.
+
+2.2.5. The measurement enclosure is then sealed and the background concentration, temperature and barometric pressure are measured. Preferably the HFC-134a concentration is set to zero by purging or by evacuating the measuring enclosure. These are the initial readings CHFC-134a, Pshed and Tshed used in the enclosure background calculation.
+
+2.2.6. The enclosure is allowed to stand undisturbed with the mixing fan on for a period of four hours.
+
+2.2.7. At the end of this time the same analyser is used to measure the concentration in the measuring enclosure. The temperature and the barometric pressure are also measured. These are the final readings CHFC-134a, Pshed and Tshed.
+
+**2.3. Calibration and HFC-134a retention test of the measuring enclosure**
+
+The calibration and HFC-134a gas retention test in the measuring enclosure provides a check on the calculated volume in 2.1 and also measures any leak rate. The measuring enclosure leak rate must be determined at the chamber's introduction to service, after any operations in the measuring enclosure which may affect the integrity of the enclosure, and at least quarterly thereafter.
+
+2.3.1. The measuring enclosure must be purged until a stable concentration is reached. The mixing fan is turned on, if not already switched on. The analyser is zeroed, calibrated if required, and spanned.
+
+2.3.2. The ambient temperature control system is then turned on (if not already on) and adjusted for a temperature of 313 K (40 °C).
+
+2.3.3. When the measuring enclosure stabilizes at 313 K ± 1 K (40 °C ± 1 °C), the enclosure is sealed and the background concentration, temperature and barometric pressure measured. These are the initial readings CHFC-134a, Pshed and Tshed used in the enclosure calibration.
+
+2.3.4. A known quantity of HFC-134a is injected in the measurement enclosure. The mass to be injected depends on the volume of the measurement enclosure using the following equation:
+
+[image]
+
+where:
+
+| mHFC-134a | = Mass of HFC-134a | [kg] |
+| --- | --- | --- |
+| Vshed | = Volume of the chamber | [m3] |
+| Tshed | = Temperature in the SHED | [K] |
+| Pshed | = Pressure in the SHED | [kPa] |
+| C | = HFC-134a concentration | [ppmv] |
+| MHFC-134a | = Molar mass of HFC-134a (= 102 kg/kmol) | [kg/kmol] |
+| R | = Gas constant (= 8,314 kJ/(kmol*K)) | [kJ/(kmol*K)] |
+
+NB: CHFC-134a is defined as the number of moles of HFC-134a (nHFC-134a) per mole of air (nair+HFC-134a)
+
+[image]
+
+Using this equation the following table shows for different volumes of measurement enclosures the quantity of HFC-134a to be injected. The assumptions are: pressure is the atmospheric pressure (101,3 kPa), and the temperature in the measurement enclosure is of 40 °C.
+
+| Volume of measurement enclosure (L) | Injected mass (g) |
+| --- | --- |
+| 5 | 6,0E-04 |
+| 10 | 1,2E-03 |
+| 50 | 6,0E-03 |
+| 100 | 1,2E-02 |
+| 500 | 6,0E-02 |
+| 1 000 | 1,2E-01 |
+| 2 000 | 2,4E-01 |
+| 3 000 | 3,6E-01 |
+| 4 000 | 4,8E-01 |
+
+For the very small injected quantities, standard compositions of HFC-134a in nitrogen can be used. The measurement enclosure has to be evacuated and filled in with a non standard concentration.
+
+2.3.5. The content of the measurement enclosure must be allowed to mix for five minutes and then the gas concentration, temperature and barometric pressure are measured. These are the final readings CHFC-134af, Pshed and Tshed for the calibration of the measurement enclosure as well as the initial readings CHFC-134ai, Pshed and Tshed for the retention check.
+
+2.3.6. On the basis of the readings taken in sections 2.3.3 and 2.3.5 and the formula in section 2.3.4, the mass of HFC-134a in the measurement enclosure is calculated.
+
+2.3.7. The process is then begun, maintaining the ambient temperature at a level of 313 K ± 1 K (40 °C ± 1 °C) over a 24-hour period.
+
+2.3.8. At the completion of the 24-hour period, the final HFC-134a concentration, temperature and barometric pressure are measured and recorded. These are the final readings CHFC-134af, Tshed and Pshed for the HFC-134a retention check.
+
+2.3.9. Using the formula in section 2.3.4, the HFC-134a mass is then calculated from the readings taken in section 2.3.8. The mass may not differ by more than 5 % from the HFC mass given by section 2.3.6.
+
+**3\. CALIBRATION OF THE HFC ANALYSER**
+
+3.1. The analyser must be adjusted as specified by the instrument manufacturer
+
+3.2. The analyser should be calibrated using the appropriate reference gases.
+
+3.3. Establish the calibration curve by at least five calibration points spaced as evenly as possible over the operating range. The nominal concentration of the calibration gas with the highest concentrations to be at least 80 % of the measured values.
+
+3.4. Calculate the calibration curve by the method of least squares. If the resulting polynomial degree is greater than 3, then the number of calibration points must be at least the number of the polynomial degree plus 2.
+
+3.5. The calibration curve must not differ by more than 2 % from the nominal value of each calibration gas.
+
+3.6. Using the coefficients of the polynomial derived from section 3.4, a table of indicated reading against true concentration shall be drawn up in steps of no greater than 1 % of full scale. This is to be carried out for each analyser range calibrated. The table shall also contain other relevant data such as:
+
+— date of calibration,
+
+— span and zero potentiometer readings (where applicable),
+
+— nominal scale,
+
+— reference data of each calibration gas used,
+
+— the actual and indicated value of each calibration gas used together with the percentage differences.
+
+3.7. If it can be shown to the satisfaction of the approval authority that alternative technology (e.g. computer, electronically controlled range switch) can give equivalent accuracy, then those alternatives may be used.
+
+( 1 ) OJ L 161, 14.6.2006, p. 12.
+
+( 2 ) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81).
+
+( 3 ) Delete where appropriate. Fill in only if the component/system is designed for use of a fluorinated greenhouse gas with a global warming potential higher than 150.
+
+( 4 ) Delete where appropriate.
+
+( 5 ) Fill in only if the system is designed for use of a fluorinated greenhouse gas with a global warming potential higher than 150.
+
+( 6 ) Delete where appropriate.
+
+( 7 ) Delete where appropriate.

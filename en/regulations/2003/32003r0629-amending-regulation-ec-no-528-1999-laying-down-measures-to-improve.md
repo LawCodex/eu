@@ -1,0 +1,93 @@
+---
+title: "Commission Regulation (EC) No 629/2003 of 8 April 2003 amending Regulation (EC) No 528/1999 laying down measures to improve the quality of olive oil production, as regards activities eligible for Community funding"
+identifier: "32003R0629"
+eli: "http://data.europa.eu/eli/reg/2003/629/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2003-04-08
+entry_into_force: 2003-12-02
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R0629"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 629/2003 of 8 April 2003 amending Regulation (EC) No 528/1999 laying down measures to improve the quality of olive oil production, as regards activities eligible for Community funding
+
+Commission Regulation (EC) No 629/2003
+
+of 8 April 2003
+
+amending Regulation (EC) No 528/1999 laying down measures to improve the quality of olive oil production, as regards activities eligible for Community funding
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation No 136/66/EEC of 22 September 1966 on the establishment of a common organisation of the market in oils and fats(1), as last amended by Regulation (EC) No 1513/2001(2), and in particular Article 5(11) thereof,
+
+Whereas:
+
+(1) Under Article 5(9) of Regulation No 136/66/EEC, from 1 November 2001 1,4 % of the production aid to olive oil and table olive producers is assigned to finance regional measures in the Member States to improve the quality of olive oil and table olive production and its environmental impact. However, Commission Regulation (EC) No 528/1999(3), as amended by Regulation (EC) No 593/2001(4), makes no reference to table olive production.
+
+(2) Regulation (EC) No 528/1999 should therefore be amended accordingly.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 528/1999 is hereby amended as follows:
+
+1\. the title is replaced by the following:
+
+"Commission Regulation (EC) No 528/1999 of 10 March 1999 laying down measures to improve the quality of olive oil and table olive production";
+
+2\. Article 1 is amended as follows:
+
+(a) paragraph 1 is replaced by the following:
+
+"1. This Regulation specifies the measures to be undertaken and procedures to be followed to improve the quality of olive oil and table olive production at regional level and its impact on the environment.";
+
+(b) paragraph 2 is amended as follows:
+
+(i) points (b), (c), (d) and (e) are replaced by the following:
+
+"(b) improvement of the conditions under which olive trees are grown and treated, olives are harvested, stored and processed and the resulting oils and table olives are stored;
+
+(c) technical assistance to growers, mills and table olive processors to help improve the environment, the quality of the olives produced and their processing into oil and table olives;
+
+(d) improvement of the disposal of crushing and processing residues so that the environment is not harmed;
+
+(e) training, information provision and demonstrations for farmers, mills and table olive processors on olive oil and table olive quality and the environmental impact of olive oil and table olive production;";
+
+(ii) point (g) is replaced by the following:
+
+"(g) collaboration with specialist agencies on research programmes to improve the quality of virgin olive oil and table olives and at the same time help improve the environment.";
+
+(c) in paragraph 3, the second subparagraph is replaced by the following:"Insecticides against olive fly must be used in conjunction with protein baits. However in special circumstances the use of insecticides without protein baits may be authorised under the direction of the agency responsible for prescribing treatments. Insecticides and their mode of application must be such that no residue in olives from the zones in question or in the oil or table olives produced from them exceeds the maximum levels authorised by Community legislation."
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 November 2001.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 8 April 2003.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ 172, 30.9.1966, p. 3025/66.
+
+(2) OJ L 201, 26.7.2001, p. 4.
+
+(3) OJ L 62, 11.3.1999, p. 8.
+
+(4) OJ L 88, 28.3.2001, p. 6.

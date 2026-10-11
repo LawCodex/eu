@@ -125,6 +125,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘347</td><td>Sintofen CAS No 130561-48-7  CIPAC No 717 </td><td>1-(4-chlorophenyl)-1,4-dihydro-5-(2-methoxyethoxy)-4-oxocinnoline-3-carboxylic acid</td><td>≥ 980 g/kg Impurities: <table><tbody><tr><td></td><td>2-methoxyethanol, not more than 0,25 g/kg</td></tr>
 </tbody>
@@ -146,5 +147,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission: the information set out in points (1) (2) and (3) by 1 December 2011 and the information set out in point (4) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

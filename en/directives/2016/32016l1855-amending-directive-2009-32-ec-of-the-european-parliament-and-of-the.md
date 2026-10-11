@@ -80,9 +80,11 @@ Jean-Claude JUNCKER
 
 In Part II of Annex I to Directive 2009/32/EC, the row for ‘Dimethyl ether’ is replaced by the following:
 
+<table>
 <tbody><tr><td rowspan="2">‘Dimethyl ether</td><td>Preparation of defatted animal protein products including gelatine (*1)</td><td>0,009 mg/kg in the defatted animal protein products including gelatine</td></tr>
 <tr><td>Preparation of collagen (*2) and collagen derivatives, except gelatine</td><td>3 mg/kg in the collagen and collagen derivatives, except gelatine</td></tr>
 </tbody>
+</table>
 
 (*1) ‘Gelatine’ means natural, soluble protein, gelling or non-gelling, obtained by the partial hydrolysis of collagen produced from bones, hides and skins, tendons and sinews of animals, in accordance with the relevant requirements of Regulation (EC) No 853/2004.
 

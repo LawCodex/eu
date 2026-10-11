@@ -125,6 +125,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘359</td><td>Dazomet CAS No: 533-74-4  CIPAC No: 146 </td><td>3,5-dimethyl-1,3,5-thiadiazinane-2-thione or  tetrahydro-3,5-dimethyl-1,3,5-thiadiazine-2-thione </td><td>≥ 950 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as nematicide, fungicide, herbicide and insecticide may be authorised. Only application as soil fumigant may be authorised. Use shall be limited to one application every third year.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on dazomet, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>(a)</td><td>the risk to operators, workers and bystanders;</td></tr>
 </tbody>
@@ -149,5 +150,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (a), (b), (c) and (d) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

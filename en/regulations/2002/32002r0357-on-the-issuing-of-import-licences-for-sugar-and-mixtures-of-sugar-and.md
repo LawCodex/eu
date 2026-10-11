@@ -1,0 +1,67 @@
+---
+title: "Commission Regulation (EC) No 357/2002 of 26 February 2002 on the issuing of import licences for sugar and mixtures of sugar and cocoa qualifying as ACP/OCT and EC/OCT originating products"
+identifier: "32002R0357"
+eli: "http://data.europa.eu/eli/reg/2002/357/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-02-26
+entry_into_force: 2002-08-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0357"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 357/2002 of 26 February 2002 on the issuing of import licences for sugar and mixtures of sugar and cocoa qualifying as ACP/OCT and EC/OCT originating products
+
+Commission Regulation (EC) No 357/2002
+
+of 26 February 2002
+
+on the issuing of import licences for sugar and mixtures of sugar and cocoa qualifying as ACP/OCT and EC/OCT originating products
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Decision 2001/822/EC of 27 November 2001 on the association of the overseas countries and territories with the European Community (Overseas Association Decision)(1),
+
+Having regard to Commission Regulation (EC) No 192/2002 of 31 January 2002 laying down detailed rules for issuing import licences for sugar and sugar and cocoa mixtures with ACP/OCT or EC/OCT cumulation of origin(2), and in particular Article 6(3) thereof,
+
+Whereas:
+
+(1) Article 6(4) of Annex III to Decision 2002/822/EC allows ACP/EC-OCT cumulation of origin in the case of products falling within Chapter 17 and CN codes 1806 10 30 and 1806 10 90 up to an annual quantity of 28000 tonnes of sugar.
+
+(2) Applications have been submitted to the national authorities in accordance with Regulation (EC) No 192/2002 for the issuing of import licences for a total quantity exceeding that allowed under Decision 2001/822/EC.
+
+(3) Article 6(3) of Regulation (EC) No 192/2002 provides that, where licence applications cover an annual quantity in excess of 28000 tonnes, the Commission is to adopt a regulation fixing a single reducing coefficient to be applied to each application submitted and suspend the submission of further applications for the year in progress.
+
+(4) The Commission must therefore fix the reducing coefficient for the issuing of import licences and suspend the submission of further licence applications for 2002,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Import licences covered by applications submitted by 14 February 2002 pursuant to Article 6 of Regulation (EC) No 192/2002 for 45000 tonnes shall be issued for 62,22222 % of the quantity applied for.
+
+## Article 2
+
+The submission of further applications for 2002 is hereby suspended.
+
+## Article 3
+
+This Regulation shall enter into force on 27 February 2002.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 26 February 2002.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ L 314, 30.11.2001, p. 1.
+
+(2) OJ L 31, 1.2.2002, p. 55.

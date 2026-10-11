@@ -123,6 +123,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘360</td><td>Metaldehyde CAS No:  108-62-3 (tetramer)  9002-91-9 (homopolymer)  CIPAC No: 62 </td><td>r-2, c-4, c-6, c-8-tetramethyl-1,3,5,7- tetroxocane</td><td>≥ 985 g/kg acetaldehyde max. 1,5 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as molluscicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on metaldehyde, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>(a)</td><td>the risk to operators and workers;</td></tr>
 </tbody>
@@ -135,5 +136,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  Member States shall ensure that authorisations shall contain an effective dog repellent agent.  Conditions of use shall include risk mitigation measures, where appropriate.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE (EU) 2016/2341 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 14 December 2016</td><td> L 354</td><td>37</td><td>23.12.2016</td></tr>
+</table>
 
 **DIRECTIVE 2013/14/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

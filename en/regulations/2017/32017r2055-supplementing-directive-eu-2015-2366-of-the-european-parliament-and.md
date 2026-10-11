@@ -1,0 +1,410 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/2055 of 23 June 2017 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for the cooperation and exchange of information between competent authorities relating to the exercise of the right of establishment and the freedom to provide services of payment institutions (Text with EEA relevance. )"
+identifier: "32017R2055"
+eli: "http://data.europa.eu/eli/reg_del/2017/2055/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2017-06-23
+entry_into_force: 2017-12-01
+last_amended: 2025-02-20
+consolidated_version: "02017R2055-20250220"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2055-20250220"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/2055 of 23 June 2017 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for the cooperation and exchange of information between competent authorities relating to the exercise of the right of establishment and the freedom to provide services of payment institutions (Text with EEA relevance. )
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/2055**
+
+**of 23 June 2017**
+
+**supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for the cooperation and exchange of information between competent authorities relating to the exercise of the right of establishment and the freedom to provide services of payment institutions**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/212 of 13 September 2024 </td><td> L 212</td><td>1</td><td>31.1.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/2055**
+
+**of 23 June 2017**
+
+**supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to regulatory technical standards for the cooperation and exchange of information between competent authorities relating to the exercise of the right of establishment and the freedom to provide services of payment institutions**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation establishes rules on the cooperation and exchange of information between competent authorities of home and host Member States regarding notifications for the exercise of the right of establishment or the freedom to provide services by payment institutions, in accordance with Article 28 of Directive 2015/2366/EC.
+
+2\. This Regulation applies mutatis mutandis to notifications between competent authorities of home and host Member States for the exercise of the right of establishment or of the freedom to provide services by electronic money institutions, including where they distribute electronic money by engaging a natural or legal person, in accordance with Article 3(1), (4) and (5) of Directive 2009/110/EC and Article 111 of Directive 2015/2366/EC.
+
+3\. The scope and treatment of information exchanged between competent authorities under the framework for cooperation defined in this Regulation does not entail any consequence on the competence of the home and host authorities as defined under Directive (EU) 2015/2366.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘passport application’ means a branch passport application, a services passport application or an agent passport application;
+
+(b) ‘branch passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution wishing to establish a branch in another Member State;
+
+(c) ‘services passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution seeking to provide services in another Member State;
+
+(d) ‘agent passport application’ means an application made in accordance with Article 28(1) of Directive (EU) 2015/2366 by an authorised payment institution seeking to provide payment services in another Member State by engaging an agent as referred to in Article 19(5) of that Directive.
+
+### Article 3 — General requirements
+
+1\. Notifications referred to in Article 1(1) shall be transmitted by means of the templates set out in Annexes II, III, V and VI.
+
+2\. Notifications referred to in Article 1(2) shall be transmitted by means of the templates set out in Annexes II, III, V and VI.
+
+3\. Notifications referred to in Article 1(2) where electronic money institutions distribute electronic money by engaging a natural or legal person shall be transmitted by means of the templates set out in Annexes IV and VI.
+
+4\. The templates referred to in paragraphs 1, 2 and 3, and the information contained therein, shall comply with the following requirements:
+
+(a) they shall be in writing and in a language accepted by the competent authorities of both the home and the host Member States;
+
+(b) they shall be transmitted by electronic means, where those means are accepted by the competent authorities of the host Member State in which the payment institution intends to provide payment services, followed by an electronic confirmation of receipt by those competent authorities, or transmitted by post with acknowledgement of receipt.
+
+5\. Each competent authority shall make the following information available to the other competent authorities:
+
+(a) the languages accepted, in accordance with point (a) of paragraph 4;
+
+(b) the email address to which information and templates are to be transmitted where submitted by electronic means or the address to which information and templates are to be sent where submitted by post.
+
+### Article 4 — Assessment of completeness and accuracy
+
+1\. On receipt of a passport application by a payment institution, the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided pursuant to Article 28(1) of Directive (EU) 2015/2366.
+
+2\. Where the information provided in the application is assessed to be incomplete or incorrect pursuant to paragraph 1, the competent authority of the home Member State shall inform the payment institution without delay, indicating in which respect the information is considered to be incomplete or incorrect.
+
+3\. The time periods referred to in the first subparagraph of Article 28(2) and the first subparagraph of Article 28(3) of Directive (EU) 2015/2366 shall be considered as having commenced on the date of receipt of a complete and accurate passport application.
+
+### Article 5 — Settlement of disagreements between competent authorities
+
+Where a procedure for settlement of disagreements between competent authorities of different Member States has been initiated in accordance with Article 27 of Directive (EU) 2015/2366 in relation to a passport application from a payment institution pursuant to Article 28 of that Directive, the competent authorities of the home Member State shall inform the payment institution of the deferral of a decision on the application pending resolution under Article 19 of Regulation (EU) No 1093/2010.
+
+## CHAPTER 2 — BRANCH PASSPORT APPLICATION
+
+### Article 6 — Information to be transmitted
+
+1\. For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where a branch passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:
+
+(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;
+
+(b) the Member State in which the payment institution intends to operate;
+
+(c) the type of the passport application;
+
+(d) the name, the address and, where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I;
+
+(e) where available, the Legal Entity Identifier of the payment institution;
+
+(f) the identity and contact details of a contact person at the payment institution submitting the branch notification;
+
+(g) the address of the branch to be established in the host Member State;
+
+(h) the identity and contact details of the persons responsible for the management of the branch to be established in the host Member State;
+
+(i) the payment services to be provided in the host Member State;
+
+(j) the organisational structure of the branch to be established in the host Member State;
+
+(k) a business plan, including a forecast budget calculation for the first three financial years, which demonstrates that the branch is able to employ the appropriate and proportionate systems, resources and procedures to operate soundly in the host Member State;
+
+(l) a description of the branch's governance arrangements and internal control mechanisms, including administrative procedures and risk management procedures, which demonstrates that these governance arrangements, control mechanisms and procedures are proportionate, appropriate, sound and adequate with regard to the payment service business in the host Member State and comply with requirements on money laundering and terrorist financing under Directive (EU) 2015/849 of the European Parliament and of the Council ( 1 ).
+
+2\. Where a payment institution has informed the competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.
+
+### Article 7 — Transmission of the information
+
+1\. The competent authorities of the home Member State shall transmit the information referred to in Article 6 to the competent authorities of the host Member State by means of the template set out in Annex II, and inform the payment institution that they have transmitted the information.
+
+2\. Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex II.
+
+### Article 8 — Communication of changes to the application
+
+1\. Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.
+
+2\. For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex II to this Regulation that are affected by the changes.
+
+### Article 9 — Information on the start of activities of the branch
+
+For the purposes of the third subparagraph of Article 28(3) of Directive (EU) 2015/2366, the competent authorities of the home Member State shall communicate the date from which a payment institution commences its activities in a host Member State to the competent authorities of that host Member State without undue delay, by means of the template set out in Annex VI to this Regulation.
+
+## CHAPTER 3 — AGENT PASSPORT APPLICATION
+
+### Article 10 — Information to be transmitted
+
+1\. For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where an agent passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:
+
+(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;
+
+(b) the Member State in which the payment institution intends to operate by engaging an agent;
+
+(c) the type of the passport application;
+
+(d) the nature of the passport application and, where the use of the agent in the host Member State does not give rise to an establishment, a description of the circumstances taken into account by the competent authority in the home Member State in its assessment;
+
+(e) the name, the address and, where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I;
+
+(f) where available, the Legal Entity Identifier of the payment institution;
+
+(g) the identity and contact details of a contact person within the payment institution submitting the agent passport notification;
+
+(h) the identity and contact details of the agent engaged by the payment institution;
+
+(i) the unique identification number of the agent in the Member State where it is located, where applicable, in accordance with the formats provided in Annex I;
+
+(j) where applicable, the identity and contact details of the persons responsible for the central contact point, where this has been appointed in accordance with Article 29(4) of Directive (EU) 2015/2366;
+
+(k) the payment services to be provided in the host Member State by engaging the agent;
+
+(l) a description of the internal control mechanisms that will be applied by the agent in order to comply with requirements on anti-money laundering and terrorist financing under Directive (EU) 2015/849;
+
+(m) the identity and contact details of directors and persons responsible for the management of the agent to be used in the provision of payment services and, for agents other than payment service providers, evidence that they are fit and proper persons.
+
+2\. Where a payment institution has informed competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.
+
+### Article 11 — Transmission of the information
+
+1\. The competent authorities of the home Member State shall transmit the information referred to in Article 10 to the competent authorities of the host Member State by means of the template set out in Annex III, and inform the payment institution that they have transmitted the information.
+
+2\. Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex III.
+
+### Article 12 — Communication of changes to the application
+
+1\. Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous agent passport application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.
+
+2\. For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex III that are affected by the changes.
+
+### Article 13 — Information on the start of the activities of the agent
+
+For the purposes of the third subparagraph of Article 28(3) of Directive (EU) 2015/2366, the competent authorities of the home Member State shall communicate the date from which a payment institution commences its activities through an agent in a host Member State to the competent authorities of that host Member State without undue delay, by means of the template laid down in Annex VI to this Regulation.
+
+## CHAPTER 4 — SERVICES PASSPORT APPLICATION
+
+### Article 14 — Information to be transmitted
+
+1\. For the purposes of the first subparagraph of Article 28(2) of Directive (EU) 2015/2366, where a services passport application is submitted by a payment institution, the competent authorities of the home Member State shall communicate the following information to the competent authorities of the host Member State:
+
+(a) the date of receipt of a complete and accurate passport application from the payment institution in accordance with Article 4;
+
+(b) the Member State in which the payment institution intends to provide services;
+
+(c) the type of the passport application;
+
+(d) the name, the address and where applicable, the authorisation number and the unique identification number of the payment institution in the home Member State in accordance with the formats set out in Annex I
+
+(e) where available, the Legal Entity Identifier of the payment institution;
+
+(f) the identity and contact details of a contact person within the payment institution submitting the services passport application;
+
+(g) the intended date of start of the provision of services in the host Member State;
+
+(h) the payment service(s) to be provided in the host Member State.
+
+2\. Where a payment institution has informed the competent authorities in the home Member State of its intention to outsource operational functions of payment services to other entities in the host Member State, the competent authorities of the home Member State shall inform the competent authorities of the host Member State accordingly.
+
+### Article 15 — Transmission of information
+
+1\. The competent authorities of the home Member State shall transmit the information referred to in Article 14 to the competent authorities of the host Member State by means of the template set out in Annex V, and inform the payment institution that they have transmitted the information.
+
+2\. Where there are multiple notifications to communicate, competent authorities may communicate aggregated information by using the fields set out in Annex V.
+
+### Article 16 — Communication of changes to a services passport application
+
+1\. Where, in accordance with Article 28(4) of Directive (EU) 2015/2366, a payment institution notifies the competent authorities of the home Member State of any relevant change to a previous services passport application, the competent authorities of the home Member State shall communicate those relevant changes to the competent authorities of the host Member State.
+
+2\. For the purposes of paragraph 1, the competent authorities of the home Member State shall transmit the relevant changes to the competent authorities of the host Member State by compiling only those parts of the template set out in Annex V that are affected by the changes.
+
+## CHAPTER 5 — FINAL PROVISIONS
+
+### Article 17 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Format of the relevant unique identification number in each Member State**
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td colspan="2">Legal person</td><td colspan="2">Natural person</td></tr>
+<tr><td>ID number type</td><td>ID number format</td><td>ID number type</td><td>ID number format</td></tr>
+<tr><td>Austria</td><td>If registered: Firmenbuchnummer (https://www.justiz.gv.at/web2013/html/default/8ab4a8a422985de30122a90fc2ca620b.de.html) </td><td>Maximum: six digits plus one check letter</td><td>If not registered: Umsatzsteuer-Identifikations-Nummer (UID-Nummer) (https://www.bmf.gv.at/steuern/selbststaendige-unternehmer/umsatzsteuer/UID-und-ZM.html) </td><td>—</td></tr>
+<tr><td>Belgium</td><td>KBO/BCE number (KBO = KruispuntBank van Ondernemingen; BCE = Banque-Carrefour des Entreprises) http://economie.fgov.be/nl/ondernemingen/KBO/#.VlbmZpYcTcu </td><td>0 + VAT number (0XXX.XXX.XXX)</td><td>KBO/BCE number (KBO, KruispuntBank van Ondernemingen; BCE, Banque-Carrefour des Entreprises) http://economie.fgov.be/nl/ondernemingen/KBO/#.VlbmZpYcTcu </td><td>10 digits (0 + 9 digit- VAT number)</td></tr>
+<tr><td>Bulgaria</td><td>Unified Identification Code' as regulated by Art. 23, para. 1 of the Bulgarian Commercial Register Act.</td><td>9 digits</td><td>Unified Identification Code' as regulated by Art. 23, para. 1 of the Bulgarian Commercial Register Act.</td><td>9 digits</td></tr>
+<tr><td>Croatia</td><td>OIB (fiscal number; Osobni identifikacijski broj — Personal Identification Number) </td><td>11 digits (10 random digits + 1 check digit) </td><td>OIB (fiscal number; Osobni identifikacijski broj — Personal Identification Number) </td><td>11 digits (10 random digits + 1 check digit) </td></tr>
+<tr><td>Cyprus</td><td>Tax Identification Number (TIN) https://ec.europa.eu/taxation_customs/tin/tinByCountry.html </td><td>8 digits and 1 letter (e.g: 99999999L)</td><td>Tax Identification Code (TIC) https://ec.europa.eu/taxation_customs/tin/tinByCountry.html </td><td>8 digits and 1 letter (the first digit is always zero)</td></tr>
+<tr><td>Czech Republic</td><td>Personal identification number (Identifikační číslo osoby (IČO))</td><td>8 digits (e.g.:12345678)</td><td>Personal identification number (Identifikační číslo osoby (IČO))</td><td>8 digits (e.g. 12345678)</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Denmark</td><td>Company registration number (CVR number)</td><td>8-digit number (e.g. 12345678)</td><td>For sole proprietorship: Company registration number (CVR number) For other natural persons than sole proprietorships: Personal registration number (CPR number) </td><td>8 digit number in the format 12345678 10 digit number in the format 123456-7890 </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Estonia</td><td>Company registry code, accessible at the Company Commercial Registry website. https://ariregister.rik.ee/index?lang=eng</td><td>8-digit number</td><td>Personal identification code (ID code)</td><td>Personal identification code (ID code)</td></tr>
+<tr><td>Finland</td><td>Local business ID (https://www.ytj.fi/en/index/businessid.html) or  international VAT number </td><td>Local business ID: 7 digits, a dash and a control mark, e.g. 1234567-8 VAT number: 8 digits — e.g. FI12345678 </td><td>—</td><td>—</td></tr>
+<tr><td>France</td><td>SIREN</td><td>9 digits</td><td>SIREN</td><td>9 digits</td></tr>
+<tr><td>Germany</td><td>If registered: Handelsregisternummer (HReg-Nr.) (Commercial Register-number; https://www.handelsregister.de/rp_web/mask.do), incl. place of registration  HRA; HRB; GnR; PR;VR </td><td>HRA xxxx HRB xxxx  GnR xxxx  PR xxxxx  VR xxxx  Choose the applicable format, depending on the (legal) person type, followed by a number with different length </td><td>If not registered: Umsatzsteuer-Identifikationsnummer (USt-IdNr.) (http://www.bzst.de/DE/Steuern_International/USt_Identifikationsnummer/Merkblaetter/Aufbau_USt_IdNr.html?nn=19560)  (VAT-number) </td><td>DExxxxxxxxx followed by a 9 digit number </td></tr>
+<tr><td>Greece</td><td>Tax Identification Number (TIN — ΑΦΜ) https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_EL_en.pdf </td><td>9 digits</td><td>Tax Identification Number (TIN — ΑΦΜ) https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_EL_en.pdf </td><td>9 digits</td></tr>
+<tr><td>Hungary</td><td>Company registration number</td><td>Numbers (##-##-######)</td><td>Register number of private entrepreneurs Company registration number for sole proprietorships </td><td>Numbers (########); Numbers (##-##-######) </td></tr>
+<tr><td>Iceland</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>Ireland</td><td>Company registration number https://www.cro.ie/ </td><td>6 digits</td><td>—</td><td>—</td></tr>
+<tr><td>Italy</td><td>Registration number</td><td>5 digits</td><td>Fiscal code, available on the website of the OAM (Organismo per la Gestione degli Elenchi degli Agenti in Attivita' Finanziaria e dei Mediatori Creditizi): https://www.organismo-am.it/elenco-agenti-servizi-di-pagamento </td><td>Alphanumerical code of 16 characters (‘SP’ followed by digits)</td></tr>
+<tr><td>Latvia</td><td>Tax registration number (http://www.csb.gov.lv/en/node/29890)</td><td>11 digits</td><td>Personal ID number (XXXXXX-XXXXX), or if person is a tax payer — individual entrepreneur, tax registration number (http://www.csb.gov.lv/en/node/29890)</td><td>Tax registration number: 11 digits</td></tr>
+<tr><td>Liechtenstein</td><td>If available, the Legal Entity Identifier of the entity, or if not available: Commercial register number (Handelsregister-Nummer) </td><td>Prefix FL + 11 digits (FL-XXXX.XXX.XXX-X).</td><td>Personenidentifikationsnummer (Personal Identification Number)</td><td>Maximum 12 digits</td></tr>
+<tr><td>Lithuania</td><td>Company code from the Register of Legal Entities managed by the Centre of Registers of the Republic of Lithuania (http://www.registrucentras.lt/jar/p_en/); or </td><td>9 digits (used to be 7 until 2004)</td><td>Taxpayer's code — Name and Surname (the taxpayer's code is identical to personal code; however, for data protection reasons it is not normally disclosed), or</td><td>Name and Surname (letters)</td></tr>
+<tr><td>Luxembourg</td><td>Company registration number</td><td>The letter B followed by 6 digits (e.g. B 123456)</td><td>Social security number</td><td>13 digits (first 8 digits are the person's date of birth: YYYYMMDD)</td></tr>
+<tr><td>Malta</td><td>Company registration number: http://rocsupport.mfsa.com.mt/pages/default.aspx </td><td>The letter C followed by 5 digits — e.g. C 28938</td><td>Identity Card number OR Passport number: http://www.consilium.europa.eu/prado/en/prado-documents/mlt/all/index.html </td><td>6 digits and a capital letter — Example: 034976M OR  6 digits — e.g. 728349 </td></tr>
+<tr><td>Netherlands</td><td>Chamber of Commerce (KvK) number</td><td>8 digits</td><td>Chamber of Commerce (KvK) number</td><td>8 digits</td></tr>
+<tr><td>Norway</td><td>Business Register Number (Organisation number)</td><td>9 digits (for example 981 276 957)</td><td>National identity number/D-number</td><td>11 digits (first 6 digits are the person's date of birth: DD.MM.YY.)</td></tr>
+<tr><td>Poland</td><td colspan="2">Polish NIP (numer identyfikacji podatkowej)</td><td colspan="2">Polish NIP (numer identyfikacji podatkowej)</td></tr>
+<tr><td>Portugal</td><td>Número de Identificação de Pessoa Coletiva (NIPC)</td><td>9 digits</td><td>Número de Identificação Fiscal (NIF)</td><td>9 digits</td></tr>
+<tr><td>Romania</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>Slovak Republic</td><td>Identifikačné číslo organizácie/Company Registration Number (IČO)</td><td>8 digits IČO — 00 000 000 </td><td>Company Registration Number (IČO) is assigned to legal persons and entrepreneurs http://slovak.statistics.sk/wps/portal/ext/Databases/register_organizacii/!ut/p/b1/jY7RCoIwGEafKPfPqdsuV-BcLGnJlu0mLCKEpl1E0dtn0m3Wd_fBOXCQRzXyXXNvz82t7bvm8v4-2zu9ZvM5FsCwo6DyyiTGrrA06QDsBmAhRZFQDcC0TEGJwm64IQQE-c-HLxPwy18i3x5C9DiGCKKE4pRzChnlLOYEbZEffWGMqbRzIF2cgyJYQmktQE4_wFT_CEwElkUfTugabP2s1OwFKhgzhg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/ </td><td>8 digits IČO — 00 000 000 </td></tr>
+<tr><td>Slovenia</td><td>Identification (registration) number assigned by the Agency of the Republic of Slovenia for Public Legal Records and Related Services (www.ajpes.si)</td><td>10 digits</td><td>Identification (registration) number assigned by the Agency of the Republic of Slovenia for Public Legal Records and Related Services (www.ajpes.si)</td><td>10 digits</td></tr>
+<tr><td>Spain</td><td>LEI code In absence:  NIF (‘Número de Identificación Fiscal’) a.k.a tax identification number.  Further information about the structure of the tax ID number is available at the following links:  NIF (Legal Entities):  http://www.agenciatributaria.es/AEAT.internet/Inicio_es_ES/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml </td><td>It is composed of 20 characters as follows: Characters 1-4: A 4-character prefix allocated uniquely to each LOU (Local Operating Unit).  Characters 5-6: 2 reserved characters set to zero.  Characters 7-18: Entity-specific part of the code generated and assigned by LOUs according to transparent, sound and robust allocation policies.  Characters 19-20: Two check digits as described in the ISO 17442 standard.  It is composed of 9 characters as follows:  a) A letter providing information on its legal form:  A. Corporations.  B. Limited liability companies.  C. General partnerships  D. Limited partnerships  E. Co-ownerships and inheritances in abeyance  F. Cooperatives  G. Associations  H. Homeowners communities  J. Civil corporations  N. Foreign entities  P. Local government  Q. Public organisms  R. Religious congregations and institutions  S. Central government and autonomous regions bodies  U. Joint ventures with legal personality  V. Others not defined in the preceding list  W. Permanent establishments settled by non-resident entities  b) A random number of 7 digits.  c) A letter or a number, depending on legal form (check code). </td><td>NIF (‘Número de Identificación Fiscal’), or tax identification number. For Non-Resident Spanish Individuals, for Spanish Individuals under 14 and for Non-Resident Foreign Individuals doing transactions with tax transcendence:  For Foreign Individuals: NIE (‘Número de Identidad de Extranjero’).  Further information about the structure of the tax ID number is available at the following links:  NIF (Individuals) and NIE:  http://www.agenciatributaria.es/AEAT.internet/Inicio_es_ES/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Ciudadanos/Informacion/NIF_de_personas_fisicas.shtml </td><td>It is composed of 9 characters: 8 digits and a final letter as check code at the end.  It is composed of a letter (‘L’ for Spanish Non-Residents, ‘K’ for under 14 and ‘M’ for Non-Resident Foreigners),  7 alphanumeric characters and a letter (check control)  It is composed of 9 characters: an initial letter, ‘X’, followed by 7 digits, and a final letter as check code.  Having exhausted the numerical capacity of the letter ‘X’, the sequence will be continued in alphabetical order (first with ‘Y’ and then ‘Z’). </td></tr>
+<tr><td>Sweden</td><td>Registration number (www.bolagsverket.se)</td><td>NNNNNN-XXXX</td><td>Social Security Number</td><td>YYMMDD-XXXX</td></tr>
+<tr><td>United Kingdom</td><td colspan="2">Tax Identification Number (TIN) https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_UK_en.pdf </td><td colspan="2">Tax Identification Number (TIN) https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_UK_en.pdf </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Notification template for the exchange of information in relation to branch passport applications by payment institutions and e-money institutions**
+
+| 1) | Home Member State |  |
+| --- | --- | --- |
+| 2) | Name of the competent authorities of the home Member State |  |
+| 3) | Date of receipt by the competent authority of the home Member State of the complete and accurate application from the payment institution/e-money institution | DD/MM/YY |
+| 4) | Member State where the branch is to be established |  |
+| 5) | Type of application | □First application □Change to previous application □End of business activity/cessation |
+| 6) | Type of Institution | □Payment Institution □E-Money Institution |
+| 7) | Name of the payment institution/e-money institution |  |
+| 8) | Head office address of the payment institution/e-money institution |  |
+| 9) | Unique identification number of the payment institution/e-money institution in the format of the home Member State as specified in Annex I (where applicable) |  |
+| 10) | Legal Entity Identifier (LEI) of the payment institution/e-money institution (where available) |  |
+| 11) | Home Member State authorisation number of the payment institution/e-money institution (where applicable) |  |
+| 12) | Contact person within the payment institution/e-money institution |  |
+| 13) | Email of the contact person within the payment institution/e-money institution |  |
+| 14) | Telephone number of the contact person within the payment institution/e-money institution |  |
+| 15) | Branch address |  |
+| 16) | Identity of persons responsible for the management of the branch |  |
+| 17) | Email of the persons responsible for the management of the branch |  |
+| 18) | Telephone number of the persons responsible for the management of the branch |  |
+| 19) | Payment services to be provided | 1. □Services enabling cash to be placed on a payment account as well as all the operations required for operating a payment account 2. □Services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account 3. Execution of payment transactions, including transfers of funds on a payment account with the user's payment provider or with another payment service provider: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ 4. Execution of payment transactions where the funds are covered by a credit line for a payment service user: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 5. □Issuing of payment instruments □Acquiring of payment transactions Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 6. □Money remittance 7. □Payment initiation services 8. □Account information services |
+| 20) | Electronic money services to be provided (applicable only to e-money institutions) | □Issuing of electronic money □Distribution and/or Redemption of electronic money |
+| 21) | Description of the organisational structure of the branch |  |
+| 22) | Business plan, which demonstrates that the branch is able to employ the appropriate and proportionate systems, resources and procedures to operate soundly in the host Member State, comprising: a. main objectives and business strategy of the branch and an explanation of how the branch will contribute to the strategy of the institution and, where applicable, of its group; b. a forecast budget calculation for the first three complete financial years. |  |
+| 23) | Governance arrangements and internal control mechanisms, comprising the following items: a. description of the governance structure of the branch, including functional and legal reporting lines and the position and role of the branch within the corporate structure of the institution and, where applicable, of its group; b. description of internal control mechanisms of the branch, including the following items: i. internal risk control procedures of the branch, the link with the internal risk control procedure of the payment institution/e-money institution, and where applicable, of its group; ii. details of the internal audit arrangements of the branch; iii. details of the anti-money laundering procedures to be adopted by the branch in the host Member State, under Directive (EU) 2015/849. |  |
+| 24) | In case of outsourcing of operational functions of payment/e-money services: a. Name and address of the entity to which operational functions are to be outsourced; b. Contact details (email and telephone number) of a contact person within the entity to which operational functions are to be outsourced; c. Type and exhaustive description of the operational functions outsourced. |  |
+
+## ANNEX III
+
+**Notification template for the exchange of information in relation to passport applications by payment institutions and e-money institutions using agents**
+
+| 1) | Home Member State |  |
+| --- | --- | --- |
+| 2) | Host Member State in which the agent is to provide payment services |  |
+| 3) | Name of the competent authority of the home Member State |  |
+| 4) | Date of receipt by the competent authority of the home Member State of the complete and accurate application from the payment institution/e-money institution | DD/MM/YY |
+| 5) | Type of application | □First application □Change to previous application □Additional agents □Agent deactivation |
+| 6) | Nature of the application (assessment of the competent authority of the home Member State) | □Right of establishment □Freedom to provide services, based on the following circumstances: … … … |
+| 7) | Type of Institution | □Payment Institution □E-Money Institution |
+| 8) | Name of the payment institution/e-money institution |  |
+| 9) | Head office address of the payment/e-money institution |  |
+| 10) | Unique identification number of the payment institution/e-money institution in the format of the home Member State as specified in Annex I (where applicable) |  |
+| 11) | Legal Entity Identifier (LEI) of the payment institution/e-money institution (where available) |  |
+| 12) | Home Member State authorisation number of the payment institution/e-money institution (where applicable) |  |
+| 13) | Contact person within the payment institution/e-money institution |  |
+| 14) | Email of the contact person within the payment institution/e-money institution |  |
+| 15) | Telephone number of the contact person within the payment institution/e-money institution |  |
+| 16) | Agent details: a. If legal person: i. Name ii. Registered address(es) iii. Unique identification number in the format of the Member State where the agent is located as specified in Annex I (where applicable) iv. Legal Entity Identifier (LEI) of the agent (where available) v. Telephone number vi. Email vii. Name, place and date of birth of legal representatives b. If natural person: i. Name, date and place of birth ii. Registered business address(es) iii. Unique identification number in the format of the Member State where the agent is located as specified in Annex I (where applicable) iv. Telephone number v. Email |  |
+| 17) | If under the right of establishment, central contact point, if already appointed and/or required by the host authorities in accordance with Article 29(4) of Directive (EU) 2015/2366: a. Name of representative b. Address c. Telephone number d. Email |  |
+| 18) | Payment services to be provided by the agent | 1. □Services enabling cash to be placed on a payment account as well as all the operations required for operating a payment account 2. □Services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account 3. Execution of payment transactions, including transfers of funds on a payment account with the user's payment provider or with another payment service provider: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ 4. Execution of payment transactions where the funds are covered by a credit line for a payment service user: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 5. □Issuing of payment instruments □Acquiring of payment transactions Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 6. □Money remittance 7. □Payment initiation services 8. □Account information services |
+| 19) | Description of the internal control mechanisms that will be used by the payment institution/e-money institution/agent in order to comply with the obligations in relation to the prevention of money laundering and terrorist financing under Directive (EU) 2015/849 |  |
+| 20) | Identity and contact details of directors and persons responsible for the management of the agent engaged |  |
+| 21) | For agents other than payment service providers, criteria considered to ensure that directors and persons responsible for the management of the agent to be used in the provision of payment services are fit and proper persons. | a. □Evidence gathered by the Payment Institution attesting that directors and persons responsible for the management of the agent to be used in the provision of payment services are fit and proper persons. b. □Actions taken by the competent authority in the home Member State pursuant to Article 19(3) of Directive (EU) 2015/2366 to verify the information provided by the payment institution. |
+| 22) | In case of outsourcing of operational functions of payment/e-money services: a. Name and address of the entity to which operational functions are to be outsourced b. Contact details (email and telephone number) of a contact person within the entity to which operational functions are to be outsourced c. Type and exhaustive description of the operational functions outsourced |  |
+
+## ANNEX IV
+
+**Notification template for the exchange of information in relation to passport applications by e-money institutions using distributors**
+
+| 1) | Home Member State |  |
+| --- | --- | --- |
+| 2) | Host Member State in which e-money services are to be provided |  |
+| 3) | Name of the competent authority of the home Member State |  |
+| 4) | Date of receipt by the competent authority of the home Member State of the complete and accurate application from the e-money institution | DD/MM/YY |
+| 5) | Type of application | □First application □Change to previous application □Additional distributors □Distributor deactivation |
+| 6) | Nature of the application (assessment of the competent authority of the home Member State) | □Right of establishment □Freedom to provide services, based on the following circumstances: … … … |
+| 7) | Name of the e-money institution |  |
+| 8) | Head office address of the e-money institution |  |
+| 9) | Unique identification number of the e-money institution in the format of the home Member State as specified in Annex I (where applicable) |  |
+| 10) | Legal Entity Identifier (LEI) of the e-money institution (where available) |  |
+| 11) | Home Member State authorisation number of the e-money institution (where applicable) |  |
+| 12) | Contact person within the e-money institution |  |
+| 13) | Email of the contact person within the e-money institution |  |
+| 14) | Telephone number of the contact person within the e-money institution |  |
+| 15) | Distributor details: a. If legal person: i. Name ii. Registered Address(es) iii. Unique identification number in the format of the Member State where the distributor is located as specified in Annex I (where applicable) iv. Legal Entity Identifier (LEI) of the distributor (where available) v. Telephone number vi. Email vii. Name, place and date of birth of legal representatives b. If natural person: i. Name, date and place of birth ii. Registered Business address(es) iii. Unique identification number in the format of the Member State where the distributor is located as specified in Annex I (where applicable) iv. Telephone number v. Email |  |
+| 16) | Electronic money services to be provided by the distributor | □Distribution □Redemption of electronic money |
+| 17) | Description of the internal control mechanisms that will be used by the e-money institution/distributor in order to comply with the obligations in relation to the prevention of money laundering and terrorist financing under Directive (EU) 2015/849. |  |
+| 18) | In case of outsourcing of operational functions of e-money services: a. Name and address of the entity to which operational functions are to be outsourced b. Contact details (email and telephone number) of a contact person within the entity to which operational functions are to be outsourced c. Type and exhaustive description of the operational functions outsourced |  |
+
+## ANNEX V
+
+**Notification template for the exchange of information in relation to freedom to provide services applications with no agent or distributor**
+
+| 1) | Home Member State |  |
+| --- | --- | --- |
+| 2) | Name of the competent authority of the home Member State |  |
+| 3) | Date of receipt by the competent authority of the home Member State of the complete and accurate application from the payment institution/e-money institution | DD/MM/YY |
+| 4) | Member State where the services are to be provided |  |
+| 5) | Type of application | □First application □Change to previous application □End of business activity/cessation |
+| 6) | Type of Institution | □Payment Institution □E-Money Institution |
+| 7) | Name of the payment institution/e-money institution |  |
+| 8) | Head office address of the payment institution/e-money institution |  |
+| 9) | Unique identification number of the payment institution/e-money institution in the format of the home Member State as specified in Annex I (where applicable) |  |
+| 10) | Legal Entity Identifier (LEI) of the payment institution/e-money institution (where available) |  |
+| 11) | Home Member State authorisation number of the payment institution/e-money institution (where applicable) |  |
+| 12) | Contact person within the payment institution/e-money institution |  |
+| 13) | Email of the contact person within the payment institution/e-money institution |  |
+| 14) | Telephone number of the contact person within the payment institution/e-money institution |  |
+| 15) | The intended date of start of the provision of payment/e-money services (shall not precede the communication of the decision of the competent authority of the home Member State referred to in Article 28(3) of Directive (EU) 2015/2366 | DD/MM/YYYY |
+| 16) | Payment services to be provided | 1. □Services enabling cash to be placed on a payment account as well as all the operations required for operating a payment account 2. □Services enabling cash withdrawals from a payment account as well as all the operations required for operating a payment account 3. Execution of payment transactions, including transfers of funds on a payment account with the user's payment provider or with another payment service provider: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ 4. Execution of payment transactions where the funds are covered by a credit line for a payment service user: a) execution of direct debits, including one-off direct debits□ b) execution of payment transactions through a payment card or a similar device□ c) execution of credit transfers, including standing orders□ Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 5. □Issuing of payment instruments □Acquiring of payment transactions Including granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366:□yes□no 6. □Money remittance 7. □Payment initiation services 8. □Account information services |
+| 17) | E-money services to be provided (applicable only to e-money institutions) | □Issuing of electronic money □Distribution and/or Redemption of electronic money |
+| 18) | In case of outsourcing of operational functions of payment/e-money services: a. Name and address of the entity to which operational functions are to be outsourced b. Contact details (email and telephone number) of a contact person within the entity to which operational functions are to be outsourced c. Type and exhaustive description of the operational functions outsourced |  |
+
+## ANNEX VI
+
+**Notification template for the exchange of information in relation to start of branch/agent/distributor passport activities by payment institutions and e-money institutions**
+
+<table>
+<tbody><tr><td colspan="3">Start of activities</td></tr>
+<tr><td>1)</td><td>Home Member State</td><td>  </td></tr>
+<tr><td>2)</td><td>Name of the competent authority of the home Member State</td><td>  </td></tr>
+<tr><td>3)</td><td>Date of the initial application according to Annex II or III or IV.</td><td>  </td></tr>
+<tr><td>4)</td><td>Member State where the branch/agent/distributor is to start activities</td><td>  </td></tr>
+<tr><td>5)</td><td>Type of Institution</td><td>□Payment Institution □E-Money Institution </td></tr>
+<tr><td>6)</td><td>Name of the payment institution/e-money institution</td><td>  </td></tr>
+<tr><td>7)</td><td>Head office address of the payment institution/e-money institution</td><td>  </td></tr>
+<tr><td>8)</td><td>Unique identification number of the payment institution/e-money institution in the format of the home Member State as specified in Annex I (where applicable)</td><td>  </td></tr>
+<tr><td>9)</td><td>Legal Entity Identifier (LEI) of the payment institution/e-money institution (where available)</td><td>  </td></tr>
+<tr><td>10)</td><td>Home Member State authorisation number of the payment institution/e-money institution (where applicable)</td><td>  </td></tr>
+<tr><td>11)</td><td>Type of passporting</td><td>□Branch □Agent  □Distributor </td></tr>
+<tr><td>12)</td><td>For agents/distributors,</td><td>a. If legal person: i. Name  ii. Unique identification number in the format of the Member State where the agent/distributor is located as specified in Annex I (where applicable)  iii. Legal Entity Identifier (LEI) of the agent/distributor (where available)  iv. Telephone number  b. If natural person:  i. Name, date and place of birth  ii. Unique identification number in the format of the Member State where the agent/distributor is located as specified in Annex I (where applicable) </td></tr>
+<tr><td>13)</td><td>For agents and branches, date of entry in the register of the competent authorities of the Home Member State</td><td>DD/MM/YYYY</td></tr>
+<tr><td>14)</td><td>Start date of the branch/agent/distributor activities (for agents and branches, the date shall not precede the date of entry of the agent/branch in the register of the home Member State as referred to in Article 28(3) of Directive (EU) 2015/2366)</td><td>DD/MM/YYYY</td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).

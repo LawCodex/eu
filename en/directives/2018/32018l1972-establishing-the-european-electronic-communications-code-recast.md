@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/2555 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 333</td><td>80</td><td>27.12.2022</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2018/1972 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -2812,6 +2814,7 @@ Any car radio receiver integrated in a new vehicle of category M which is placed
 
 **(referred to in Article 125)**
 
+<table>
 <tbody><tr><td colspan="2">Directive 2002/21/EC of the European Parliament and of the Council (OJ L 108, 24.4.2002, p. 33) </td><td>  </td></tr>
 <tr><td>  </td><td>Directive 2009/140/EC of the European Parliament and of the Council (OJ L 337, 18.12.2009, p. 37) </td><td>Article 1</td></tr>
 <tr><td>  </td><td>Regulation (EC) No 544/2009 of the European Parliament and of the Council (OJ L 167, 29.6.2009, p. 12) </td><td>Article 2</td></tr>
@@ -2824,6 +2827,7 @@ Any car radio receiver integrated in a new vehicle of category M which is placed
 <tr><td>  </td><td>Directive 2009/136/EC of the European Parliament and of the Council (OJ L 337, 18.12.2009, p. 11) </td><td>Article 1 and Annex I</td></tr>
 <tr><td>  </td><td>Regulation (EU) 2015/2120 of the European Parliament and of the Council (OJ L 310, 26.11.2015, p. 1) </td><td>Article 8</td></tr>
 </tbody>
+</table>
 
 **Part B**
 

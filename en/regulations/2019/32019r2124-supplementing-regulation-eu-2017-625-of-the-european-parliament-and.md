@@ -1,0 +1,817 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/2124 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No 798/2008, (EC) No 1251/2008, (EC) No 119/2009, (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC (Text with EEA relevance)"
+identifier: "32019R2124"
+eli: "http://data.europa.eu/eli/reg_del/2019/2124/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-10-10
+entry_into_force: 2019-11-28
+last_amended: 2022-01-01
+consolidated_version: "02019R2124-20220101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2124-20220101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/2124 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No 798/2008, (EC) No 1251/2008, (EC) No 119/2009, (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2124**
+
+**of 10 October 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No 798/2008, (EC) No 1251/2008, (EC) No 119/2009, (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/2190 of 29 October 2020 </td><td> L 434</td><td>3</td><td>23.12.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2305 of 21 October 2021 </td><td> L 461</td><td>5</td><td>27.12.2021</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2124**
+
+**of 10 October 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No 798/2008, (EC) No 1251/2008, (EC) No 119/2009, (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — Subject matter, scope and definitions
+
+#### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down:
+
+(a) rules establishing the cases where and the conditions under which, the competent authorities of a border control post may authorise the onward transportation of consignments of the following categories of goods to the place of final destination in the Union pending the availability of the results of laboratory analyses and tests carried out as part of the physical checks referred to in Article 49(1) of Regulation (EU) 2017/625:
+
+(i) plants, plant products, and other objects referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+
+(ii) plants, plant products and other objects subject to an emergency measure referred to in point (e) of Article 47(1) of Regulation (EU) 2017/625;
+
+(iia) plants, plant products and other objects referred to in points (i) and (ii) that are subject to official controls at border control posts pursuant to Article 45(5) of Regulation (EU) 2018/848 of the European Parliament and of the Council ( 1 );
+
+(iii) food and feed of non-animal origin subject to the measures provided for by the acts referred to in points (d), (e) and (f) of Article 47(1) of Regulation (EU) 2017/625;
+
+(b) rules establishing the cases where and the conditions under which, identity checks and physical checks of animals arriving by air or sea and staying on the same means of transport for onward travel may be performed at a border control post other than the one of first arrival into the Union;
+
+(c) specific rules for official controls at border control posts of transhipped consignments of animals and the following categories of goods:
+
+(i) products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products;
+
+(ii) plants, plant products, and other objects as referred in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+
+(iii) plants, plant products, and other objects subject to an emergency measure provided for by the Articles of Regulation (EU) 2016/2031 referred to in point (e) of Article 47(1) of Regulation (EU) 2017/625;
+
+(iv) food and feed of non-animal origin subject to measures or acts referred to in points (d), (e) and (f) of Article 47(1) of Regulation (EU) 2017/625;
+
+(d) specific rules for controls of consignments in transit of animals and of the following categories of goods:
+
+(i) products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products;
+
+(ii) plants, plant products, and other objects referred to in the lists established pursuant to Articles 72(1) and 74(1) of Regulation (EU) 2016/2031;
+
+(iii) plants, plant products, and other objects subject to an emergency measure provided for by the point (e) of Article 47(1) of Regulation (EU) 2017/625.
+
+2\. This Regulation shall apply to vertebrate and invertebrate animals with the exception of:
+
+(a) pet animals as defined in Article 4(11) of Regulation (EU) 2016/429 of the European Parliament and of the Council ( 2 ); and
+
+(b) invertebrate animals intended for scientific purposes as referred to in Article 3 of Commission Delegated Regulation (EU) 2019/2122 ( 3 ).
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘common health entry document’ or ‘CHED’ means the common health entry document, which is used for the prior notification of the arrival of consignments at the border control post, and which is used to record the outcome of official controls performed and of decisions taken by the competent authorities in relation to the consignment which it accompanies;
+
+(2) ‘transhipped consignments’ means consignments of animals or goods entering the Union by sea or by air transport from a third country, when those animals or goods are moved from a vessel or aircraft and are transported under customs supervision to another vessel or aircraft in the same port or airport in preparation for onward travel;
+
+(3) ‘warehouse’ means:
+
+(a) a customs warehouse, a warehouse in a free zone, a temporary storage facility approved, authorised or designated in accordance with Articles 147(1), 240(1), 243(1) respectively of Regulation (EU) No 952/2013; or
+
+(b) a warehouse specialised in supplying goods for NATO or US military bases;
+
+(4) ‘onward transportation’ means the movement of consignments of goods from a border control post to their place of final destination in the Union pending the availability of the results of laboratory analyses and tests;
+
+(5) ‘onward transportation facility’ means the facility at the place of final destination in the Union or at a place situated under the remit of the same competent authority as the place of final destination, designated by the Member State of destination for the storage of consignments of goods subject to onward transportation prior to the release for free circulation of such consignments;
+
+(6) ‘information management system for official controls’ or ‘IMSOC’ means the information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625;
+
+(7) ‘border control post of introduction into the Union’ means the border control post where animals and goods are presented for official controls and through which they enter the Union for subsequent placing on the market or for transit through the Union territory ( 4 ) and which may be the border control post of first arrival into the Union;
+
+(8) ‘Union regulated non-quarantine pest’ means a pest that fulfils all the conditions listed in Article 36 of the Regulation (EU) 2016/2031;
+
+(9) ‘approved warehouse’ means a warehouse approved by the competent authorities as provided for in Article 23 of this Regulation;
+
+(10) ‘specified pathogen-free eggs’ means hatching eggs which are derived from chicken flocks free from specified pathogens, as described in the European Pharmacopoeia ( 5 ), and which are intended solely for diagnostic, research or pharmaceutical use.
+
+## CHAPTER II — Onward transportation of consignments of plants, plant products and other objects and of food and feed of non-animal origin as referred to in point (a) of Article 1(1)
+
+### SECTION 1 — Conditions for onward transportation
+
+#### Article 3 — Operators’ obligations before onward transportation authorisation
+
+1\. Requests for the authorisation for onward transportation shall be made by the operator responsible for the consignments of goods referred to in point (a) of Article 1(1) to the competent authorities of the border control post of introduction into the Union prior to arrival of the consignment at the border control post. Such request shall be made by giving notification as referred to in point (a) of Article 56(3) of Regulation (EU) 2017/625 by completing Part I of the CHED.
+
+2\. For consignments of goods referred to in point (a) of Article 1(1) which are selected for sampling and laboratory analysis at the border control post, the operator responsible for the consignments may make a request for the authorisation for onward transportation to the competent authorities of the border control post of introduction into the Union by completing Part I of the CHED.
+
+#### Article 4 — Authorisation for onward transportation
+
+The competent authorities of the border control post of introduction into the Union may authorise the onward transportation of consignments of goods referred to in point (a) of Article 1(1) provided that the following conditions are fulfilled:
+
+(a) the outcome of the documentary checks, identity checks and physical checks, other than of the laboratory analyses and tests carried out as part of those physical checks, performed at the border control post is satisfactory;
+
+(b) the operator responsible for the consignment has requested the onward transportation as provided for in Article 3.
+
+#### Article 5 — Operators’ obligations after authorisation for onward transportation
+
+When the competent authorities of the border control post of introduction into the Union authorise the onward transportation of the consignments of goods referred to in point (a) of Article 1(1), the operator responsible for the consignment shall:
+
+(a) complete Part I of a separate CHED for the same consignment, linked in the IMSOC to the CHED referred to in Article 3, by declaring therein the means of transport and the date of arrival of the consignment at the selected onward transportation facility;
+
+(b) submit the CHED referred to in point (a) in the IMSOC for transmission to the competent authorities of the border control post which has authorised the onward transportation.
+
+#### Article 6 — Conditions for transportation and storage of consignments subject to onward transportation
+
+1\. The operator responsible for the consignments authorised for onward transportation in accordance with Article 4 shall ensure that:
+
+(a) during transport to, and storage at, the onward transportation facility, the consignment is not tampered with in any manner;
+
+(b) the consignment is not subject to any alteration, processing, substitution or change of packaging;
+
+(c) the consignment does not leave the onward transportation facility pending the decision on the consignment being taken by the competent authorities of the border control post in accordance with Article 55 of Regulation (EU) 2017/625.
+
+2\. The operator responsible for the consignment shall transport the consignment under customs supervision directly from the border control post of introduction into the Union to the onward transportation facility, without the goods being unloaded during transport, and shall store it in the onward transportation facility.
+
+3\. The operator responsible for the consignment shall ensure that the packaging or the means of transport of the consignment of plants, plant products and other objects referred to in Article 1(1), point (a)(i), (ii) and (iia), has been closed or sealed in such a way that, during their transport to and storage at the onward transportation facility:
+
+(a) they do not cause an infestation of or an infection to other plants, plant products or other objects with pests listed as Union quarantine pests or as Union regulated non-quarantine pests;
+
+(b) they do not become infested or infected by non-quarantine pests.
+
+4\. The operator responsible for the consignment shall ensure that a copy, on paper or in electronic form, of the CHED referred to in Article 3 accompanies the consignment from the border control post of introduction into the Union to the onward transportation facility.
+
+5\. The operator responsible for the consignment shall notify the competent authorities at the place of final destination of the arrival of consignment at the onward transportation facility.
+
+6\. After the competent authorities of the border control post of introduction into the Union have authorised the onward transportation of the consignment to the onward transportation facility, the operator responsible for the consignment shall not transport the consignment to a onward transportation facility that is different from the one indicated in the CHED, unless the competent authorities of the border control post of introduction into the Union authorise the change in accordance with Article 4 and provided that the conditions laid down in paragraphs 1 to 5 of this Article are complied with.
+
+#### Article 7 — Operations to be carried out by the competent authorities of the border control post after authorisation of onward transportation
+
+1\. When authorising the onward transportation of a consignment in accordance with Article 4, the competent authorities of the border control post of introduction into the Union shall notify the competent authorities at the place of final destination of the transportation of the consignment by submitting the CHED referred to in Article 3 into the IMSOC.
+
+2\. Upon finalisation of the CHED referred to in Article 5 of this Regulation in accordance with Article 56(5) of Regulation (EU) 2017/625, the competent authorities of the border control post of introduction into the Union shall immediately notify the competent authorities at the place of final destination through the IMSOC.
+
+3\. Where the consignment does not comply with the rules referred to in Article 1(2) of Regulation (EU) 2017/625, the competent authorities of the border control post of introduction into the Union shall take measures in accordance with Article 66(3) to (6) of that Regulation.
+
+4\. Where the competent authorities of the border control post of introduction into the Union have not received confirmation from the competent authorities of the place of destination of the arrival of a consignment within a period of 15 days from the date on which the consignment was authorised for onward transportation to the onward transportation facility, they shall:
+
+(a) verify with the competent authorities at the place of destination whether or not the consignment has arrived at onward transportation facility;
+
+(b) inform the customs authorities of the non-arrival of the consignment;
+
+(c) undertake further investigation to determine the actual location of the consignment in cooperation with customs authorities and other authorities in accordance with Article 75(1) of Regulation (EU) 2017/625.
+
+#### Article 8 — Operations to be carried out by the competent authorities at the place of final destination
+
+1\. The competent authorities at the place of final destination shall confirm the arrival of the consignment at the onward transportation facility by completing in the IMSOC Part III of the CHED referred to in Article 3.
+
+2\. The competent authorities at the place of final destination shall place consignments which do not comply with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 under official detention in accordance with Article 66(1) of that Regulation, and shall take all necessary steps to apply the measures ordered by the competent authorities of the border control post in accordance with Article 66(3) and (4) of that Regulation.
+
+### SECTION 2 — Onward transportation facilities
+
+#### Article 9 — Conditions for the designation of onward transportation facilities
+
+1\. Member States may designate onward transportation facilities for consignments of one or more categories of goods as referred to in point (a) of Article 1(1), provided that they comply with the following requirements:
+
+(a) they are customs warehouses or temporary storage facilities as referred to in Articles 240(1) and 147(1) of Regulation (EU) No 952/2013, respectively;
+
+(b) where the designation concerns:
+
+(i) food of non-animal origin referred to in point (a)(iii) of Article 1(1) of this Regulation, the onward transportation facilities are registered with the competent authority as provided for in Article 6(2) of Regulation (EC) No 852/2004;
+
+(ii) feed of non-animal origin referred to in point (a)(iii) of Article 1(1) of this Regulation, the onward transportation facilities are registered with the competent authority as provided for in Article 9(2) of Regulation (EC) No 183/2005;
+
+(c) they have the necessary technology and equipment for the efficient operation of the IMSOC.
+
+2\. Where onward transportation facilities cease to comply with the requirements referred to in paragraph 1, Member States shall:
+
+(a) temporarily suspend the designation pending the implementation of corrective actions or permanently withdraw the designation for all or some of the categories of goods for which the designation was made;
+
+(b) ensure that information on the onward transportation facilities referred to in Article 10 is updated accordingly.
+
+#### Article 10 — Registration of designated onward transportation facilities in the IMSOC
+
+Member States shall maintain and keep up-to-date in the IMSOC the list of onward transportation facilities designated in accordance with Article 9(1), and provide the following information:
+
+(a) the name and address of the onward transportation facility;
+
+(b) the category of goods for which it is designated.
+
+## CHAPTER III — Onward travel of animals staying on the same means of transport and transhipped consignments of animals and goods
+
+#### Article 11 — Documentary checks, identity checks and physical checks of consignments of animals staying on the same means of transport
+
+1\. The competent authorities of the border control post shall perform documentary checks on originals or copies of official certificates or documents that are required to accompany consignments of animals which arrive by air or sea and stay on the same means of transport for onward travel, where such animals are intended to be placed on the market in the Union or to transit through the Union.
+
+2\. The competent authorities referred to in paragraph 1 shall return to the operator responsible for the consignment the official certificates or documents on which they performed documentary checks to allow such official certificates or documents to accompany the consignment for onward travel.
+
+3\. When non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 is suspected, the competent authorities of the border control post shall perform documentary checks, identity checks and physical checks on the consignments.
+
+Documentary checks shall be performed on original official certificates or documents that are required to accompany the consignment of animals as provided for by the rules referred to point (d) of Article 1(2) of Regulation (EU) 2017/625.
+
+4\. The competent authorities of the border control post of introduction into the Union shall perform documentary checks, identity checks and physical checks, except where documentary checks, identity checks and physical checks have been performed at another border control post in accordance with paragraph 3.
+
+#### Article 12 — Documentary checks, identity checks and physical checks of transhipped consignments of animals
+
+The competent authorities of the border control post of transhipment shall perform documentary checks, identity checks and physical checks of transhipped consignments of animals.
+
+#### Article 13 — Documentary checks, identity checks and physical checks of transhipped consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products
+
+1\. The competent authorities of the border control post of transhipment shall perform documentary checks on originals or copies of official certificates or documents that are required to accompany transhipped consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products in the following cases:
+
+(a) for goods subject to the animal health requirements and the rules for the prevention and minimisation of risks to human and animal health arising from animal by-products and derived products referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625 where the transhipment period:
+
+(i) at the airport exceeds 3 days;
+
+(ii) at the port exceeds 30 days;
+
+(b) for goods other than those referred to in point (a), where the transhipment period exceeds 90 days.
+
+2\. The competent authorities referred to in paragraph 1 shall return to the operator responsible for the consignment the official certificates or documents on which they performed documentary checks to allow such official certificates or documents to accompany the consignment for onward travel.
+
+3\. Where the competent authorities of the border control post of transhipment suspects non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625, they shall perform documentary checks, identity checks and physical checks on the consignment.
+
+Those documentary checks shall be performed on original official certificates or documents where such official certificates or documents are required to accompany the consignment, as provided for by the rules referred to in Article 1(2) of Regulation (EU) 2017/625.
+
+4\. Where a consignment intended for dispatch to third countries exceeds the time period referred to in paragraph 1 and where it does not comply with the rules referred to in Article 1(2) of Regulation (EU) 2017/625, the competent authorities of the border control post shall order the operator either to destroy the consignment or to ensure that it leaves the Union territory without delay.
+
+5\. The competent authorities of the border control post of introduction into the Union shall perform the documentary, identity and physical checks provided for in Article 49(1) of Regulation (EU) 2017/625 of goods intended to be placed on the Union market, except where documentary checks, identity checks and physical checks have been performed at another border control post in accordance with paragraph 3.
+
+6\. The competent authorities of the border control post of introduction into the Union shall perform checks referred in Article 19 of goods intended for transit through the Union territory, except where documentary checks, identity checks and physical checks have been performed at another border control post in accordance with paragraph 3.
+
+#### Article 14 — Storage of transhipped consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products
+
+The operator responsible for consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products shall ensure that those consignments are only stored during the transhipment period either in:
+
+(i) the customs or free zone area of the same port or airport in sealed containers; or
+
+(ii) commercial storage facilities under the control of the same border control post, in compliance with the conditions laid down in Article 3(11) and (12) of Commission Implementing Regulation (EU) 2019/1014 ( 6 ).
+
+#### Article 15 — Documentary checks, identity checks and physical checks of transhipped consignments of plants, plant products and other objects
+
+1\. The competent authorities of the border control post of transhipment shall perform documentary checks on a risk basis of transhipped consignments of plants, plant products and other objects referred to in point (c)(ii) and (iii) of Article 1(1) where the transhipment period exceeds 3 days at the airport or 30 days at the port.
+
+2\. The competent authorities referred to in paragraph 1 shall return to the operator responsible for the consignment the official certificates or documents on which they performed documentary checks to allow the official certificates or documents to accompany the consignment for onward travel.
+
+3\. Where non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 is suspected, the competent authorities of the border control post of transhipment shall perform documentary checks, identity checks and physical checks on the consignment.
+
+4\. The documentary checks, identity checks and physical checks shall be performed at the border control post of introduction into the Union, except where documentary checks, identity checks and physical checks have been performed at another border control post in accordance with paragraph 3.
+
+#### Article 16 — Notification of information before the transhipment period expires
+
+1\. For consignments intended for transhipment within the periods referred to in Articles 13(1) and 15(1), the operator responsible for the consignments shall provide notification before the arrival of the consignments to the competent authorities of the border control post of transhipment through the IMSOC or another information system designated by the competent authorities for that purpose, indicating the following:
+
+(a) the information necessary for the identification and location of the consignment in the airport or port;
+
+(b) the identification of the means of transportation;
+
+(c) the estimated time of arrival and departure of the consignment;
+
+(d) the destination of the consignment.
+
+2\. For the purposes of the notification referred to in paragraph 1, the competent authorities shall designate an information system which allows the competent authorities of the border control post of transhipment to:
+
+(a) consult the information provided by operators;
+
+(b) verify in respect of each consignment that the transhipment periods provided for in Articles 13(1) and 15(1) are not exceeded.
+
+3\. In addition to the prior notification provided for in paragraph 1 of this Article, the operator responsible for the consignment shall also notify the competent authorities of the border control post of transhipment by completing and submitting the relevant part of the CHED in the IMSOC as provided for in Article 56 of Regulation (EU) 2017/625 in the following cases:
+
+(a) the transhipment period referred to in Articles 13(1) and 15(1) has expired; or
+
+(b) the competent authorities of the border control post of transhipment inform the operator responsible for the consignment of their decision to perform documentary checks, identity checks and physical checks based on a suspicion of non-compliance as provided for in Article 13(3) or 15(3).
+
+#### Article 17 — Documentary checks, identity checks and physical checks of transhipped consignments of food and feed of non-animal origin
+
+1\. The competent authorities of the border control post of introduction into the Union shall perform documentary checks, identity checks and physical checks on transhipped consignments of food and feed of non-animal origin subject to the measures provided for by the acts referred to in points (d), (e) and (f) of Article 47(1) of Regulation (EU) 2017/625.
+
+2\. The operator responsible for the consignment shall give prior notification of the arrival of the consignment of goods referred to in paragraph 1 of this Article as provided for in Article 56(4) of Regulation (EU) 2017/625, to the competent authorities of the border control post of introduction into the Union.
+
+## CHAPTER IV — Transit of animals and goods from one third country to another third country, passing through the Union territory
+
+### SECTION 1 — Official controls at the border control post of introduction into the Union
+
+#### Article 18 — Documentary checks, identity checks and physical checks of consignments of animals in transit
+
+The competent authorities of the border control post of introduction into the Union shall only authorise the transit of consignments of animals from one third country to another third country, passing through the territory of the Union where documentary checks, identity checks and physical checks have been favourable.
+
+#### Article 19 — Conditions for the authorisation of transit of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products
+
+The competent authorities of the border control post of introduction into the Union shall only authorise the transit of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products subject to compliance with the following conditions:
+
+(a) the goods comply with the applicable requirements laid down in the rules referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625;
+
+(b) the consignment has been subjected to documentary checks and identity checks at the border control post with favourable results;
+
+(c) the consignment has been subjected to physical checks at the border control post, where non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 was suspected;
+
+(d) the consignment is accompanied by the CHED, and leaves the border control post in vehicles or transport containers sealed by the authority at the border control post;
+
+(e) the consignment must be directly transported under customs supervision, without the goods being unloaded or split, within a maximum period of 15 days from the border control post to one of the following destinations:
+
+(i) to a border control post in order to leave the Union territory;
+
+(ii) to an approved warehouse;
+
+(iii) to a NATO or US military base located in the Union territory;
+
+(iv) to a vessel leaving the Union, where, the consignment is intended for ship supplying purposes.
+
+#### Article 20 — Follow-up measures by the competent authorities
+
+The competent authorities of the border control post of introduction into the Union which have not received, within a period of 15 days from the date on which transit was authorised at the border control post, confirmation of the arrival of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products at one of the destinations referred to in points (e)(i) to (iv) of Article 19, shall:
+
+(a) verify with the competent authorities at the place of destination whether or not the consignment has arrived at the place of destination;
+
+(b) inform the customs authorities of the non-arrival of the consignment;
+
+(c) undertake further investigation to determine the actual location of the consignment in cooperation with customs authorities and other authorities in accordance with Article 75(1) of Regulation (EU) 2017/625.
+
+#### Article 21 — Transportation of consignments to a vessel leaving the Union territory
+
+1\. Where a consignment of goods referred to in Article 19 is destined to a vessel leaving the Union territory, the competent authorities of the border control post of introduction into the Union shall, in addition to the CHED, issue an official certificate in accordance with the model laid down in Annex to Commission Implementing Regulation (EU) 2019/2128 ( 7 ) which shall accompany the consignment to the vessel.
+
+2\. In the case where several consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products are delivered together to the same vessel, the competent authorities of the border control post of introduction into the Union may issue one single official certificate as referred to in paragraph 1 which shall accompany such consignments to the vessel, provided that it has indicated the reference of the CHED for each consignment.
+
+#### Article 22 — Documentary checks and physical checks of plants, plant products and other objects in transit
+
+1\. Where consignments of plants, plant products and other objects referred to in point (d)(ii) and (iii) of Article 1(1) are presented for transit at a border control post of introduction into the Union, the competent authorities of that border control post may authorise the transit of such plants, plant products, and other objects, provided that the consignments are transported under customs supervision.
+
+2\. The competent authorities of the border control post referred to in paragraph 1 shall perform the following checks on a risk basis:
+
+(a) documentary checks of the signed declaration referred to in point (a) of Article 47(1) of Regulation (EU) 2016/2031;
+
+(b) physical checks of the consignments to ensure that it is adequately packed and transported as referred to in point (b) of Article 47(1) of Regulation (EU) 2016/2031.
+
+3\. Where official controls are performed, the competent authorities shall authorise the transit of the goods referred to in paragraph 1 provided that the consignments:
+
+(a) comply with Article 47 of Regulation (EU) 2016/2031;
+
+(b) are transported to the point of exit from the Union under customs supervision.
+
+4\. The operator responsible for consignments of plants, plant products and other objects referred to in paragraph 1 shall ensure that the packaging or the means of transport of the consignments is closed or sealed in such a way that, during their transport to and storage at warehouses:
+
+(a) the plants, plant products and other objects cannot cause an infestation or an infection to other plants, plant products or other objects with the pests listed as Union quarantine pests or as Union regulated non-quarantine pests referred to in the first subparagraph of Article 5(2) and Article 30(1) of Regulation (EU) 2016/2031, respectively and, in the case of protected zones, with the respective pests included on lists established pursuant to Article 32(3) of that Regulation;
+
+(b) plants, plant products and other objects cannot become infested or infected by the pests referred in point (a).
+
+### SECTION 2 — Conditions for the storage of consignments in transit in approved warehouses
+
+#### Article 23 — Conditions for the approval of warehouses
+
+1\. The competent authorities shall approve the warehouses for the storage of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products for which transit has been authorised in accordance with Article 19.
+
+2\. The competent authorities shall only approve warehouses referred to in paragraph 1 that comply with the following requirements:
+
+(a) the warehouses storing products of animal origin, composite products, animal by-products and derived products must comply with either:
+
+(i) the hygiene requirements laid down in Article 4 of Regulation (EC) No 852/2004; or
+
+(ii) the requirements laid down in points (b) and (c) of Article 19 of Regulation (EU) No 142/2011;
+
+(b) they must have been authorised, approved or designated by the customs authorities in accordance with Articles 147(1), 240(1) and 243(1) of Regulation (EU) No 952/2013;
+
+(c) the warehouses must consist of a closed space with entrances and exits subject to permanent control by the operators;
+
+(d) the warehouses must possess storage or refrigeration rooms allowing for the separate storage of the goods referred to in paragraph 1;
+
+(e) the warehouses must have arrangements for the daily logging of all consignments entering or leaving the facilities, with details of the nature and quantity of the goods, the name and address of the recipients and copies of the CHED and certificates accompanying the consignments; the warehouses must keep those records for a period at least of three years;
+
+(f) all goods referred to in paragraph 1 must be identified by labelling or by electronic means with the reference number of the CHED accompanying the consignment; those goods must not be subjected to any alteration, processing, substitution or change of packaging;
+
+(g) the warehouses must have the technology and equipment necessary for the efficient operation of the IMSOC;
+
+(h) the operators of the warehouses shall provide premises and the means of communication necessary to enable them to perform official controls and other official activities effectively, upon request by the competent authority.
+
+3\. Where warehouses no longer comply with the requirements laid down in paragraph 2, the competent authority shall withdraw or temporary suspend the approval of the warehouse.
+
+#### Article 24 — Transportation of goods from warehouses
+
+The operator responsible for the consignment shall transport the consignments of goods referred to in Article 23(1) from approved warehouses to one of the following destinations:
+
+(a) a border control post in order to leave the Union territory to go to:
+
+(i) a NATO or US military base; or
+
+(ii) any other destination;
+
+(b) another approved warehouse;
+
+(c) a NATO or US military base located in the Union territory;
+
+(d) a vessel leaving the Union, where, the consignments are intended for ship supplying purposes;
+
+(e) a place where the consignments are to be disposed of in accordance with Chapter II of Title I of Regulation (EC) No 1069/2009 of the European Parliament and of the Council ( 8 ).
+
+#### Article 25 — Maintaining and keeping up-to-date the list of approved warehouses
+
+Member States shall maintain and keep up-to-date in the IMSOC the list of approved warehouses, and provide the following information:
+
+(a) the name and address of each warehouse;
+
+(b) the categories of goods for which it is approved.
+
+#### Article 26 — Official controls in warehouses
+
+1\. The competent authorities shall perform regular official controls in approved warehouses to verify the compliance with the requirements for approval laid down in Article 23.
+
+2\. The competent authorities responsible for official controls in approved warehouses shall verify the effectiveness of the systems in place to ensure the traceability of consignments, including by comparing the quantities of goods entering and leaving warehouses.
+
+3\. The competent authorities shall verify that consignments moved to or stored in warehouses are accompanied by the relevant CHED and authenticated paper or electronic copy of the official certificate as referred to in Article 50(2) of Regulation (EU) 2017/625.
+
+4\. When consignments arrive at approved warehouses, the competent authorities shall:
+
+(a) perform an identity check to confirm that the consignment corresponds to the relevant information in the accompanying CHED;
+
+(b) verify that the seals fixed on the vehicles or transport containers, in accordance with point (d) of Article 19 or point (d) of Article 28, are still intact;
+
+(c) record the outcome of identity checks in Part III of the CHED and communicate that information through the IMSOC.
+
+#### Article 27 — Operators’ obligations at warehouses
+
+1\. The operator responsible for the consignment shall inform the competent authorities of the arrival of the consignment at the approved warehouse.
+
+2\. By way of derogation from paragraph 1, the competent authority may exempt the operator responsible for the approved warehouse from the obligation to inform competent authorities of the arrival of the consignment at the warehouse provided that the operator is approved by the customs authorities as an authorised economic operator referred to in Article 38 of Regulation (EU) No 952/2013.
+
+3\. By way of derogation from paragraph 1, the competent authority may exempt consignments from identity checks provided that the operator responsible for the consignment is approved by the customs authorities as an authorised economic operator referred to in Article 38 of Regulation (EU) No 952/2013.
+
+4\. The operator responsible for the consignment shall ensure that goods referred in paragraph 1 moved to or stored in the warehouses are accompanied by the relevant CHED and authenticated paper or electronic copy of the official certificate as referred to in Article 50(2) of Regulation (EU) 2017/625.
+
+#### Article 28 — Conditions for transportation of goods from warehouses to third countries, other warehouses and disposal places
+
+The operator responsible for the consignment shall transport the goods referred to in Article 23(1) from the approved warehouse to one of the destinations referred to in points (a)(ii), (b) and (e) of Article 24 provided that the following requirements are fulfilled:
+
+(a) the operator responsible for the consignment submits the CHED through the IMSOC for the entire consignment and declares therein the means of transport and the place of destination; where the initial consignment is split at the warehouse, the operator responsible for the consignment must submit the CHED through the IMSOC for each part of the split consignment and declare therein the quantity, means of transport and place of destination for the relevant part of the split consignment;
+
+(b) the competent authorities must authorise the movement and finalise the CHED for:
+
+(i) the entire consignment, or
+
+(ii) individual parts of the split consignment, provided that the total sum of the quantities declared in the CHEDs issued for the individual parts does not exceed the total quantity set out in the CHED for the entire consignment;
+
+(c) the operator responsible for the consignment must ensure that, in addition to the CHED accompanying the consignment, an authenticated copy of the official certificate which accompanied the consignment to the warehouse, as referred to in Article 27(4), travels onwards with the consignment unless an electronic copy of the official certificate was uploaded into the IMSOC and was verified by the competent authorities of the border control post of introduction into the Union; where the initial consignment is split and the copy of the official certificate was not uploaded into the IMSOC by the competent authorities of the border control post of introduction into the Union, the competent authorities issue the operator responsible for the consignment authenticated copies of the official certificate in order to accompany the parts of the split consignment to their destinations;
+
+(d) the operator responsible for the consignment transports the goods under customs supervision from the warehouses in vehicles or transport containers sealed by the competent authorities;
+
+(e) the operator responsible for the consignment transports the goods directly from the warehouse to the place of destination without the goods being unloaded or split, within a maximum period of 15 days from the date of authorisation of transportation.
+
+#### Article 29 — Conditions for transportation of goods from warehouses to NATO or US military bases and vessels leaving the Union
+
+The operator responsible for the consignment shall transport the goods referred to in Article 23(1) from the approved warehouses to one of the destinations referred to in points (a)(i),(c) and (d) of Article 24 provided that the following requirements are fulfilled:
+
+(a) the operator responsible for the warehouse declares the movement of the goods to the competent authorities by completing Part I of the official certificate referred to in point (c);
+
+(b) the competent authority authorises the movement of the goods and issues to the operator responsible for the consignment a finalised official certificate referred to in point (c), that may be used for the delivery of the consignment containing goods derived from more than one consignment of origin or product categories;
+
+(c) the operator responsible for the consignment ensures that an official certificate in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128 accompanies the consignment to its place of destination or to the border control post where the goods leave the Union territory;
+
+(d) the operator responsible for the consignment transports the goods under customs supervision;
+
+(e) the operator responsible for the consignment transports the goods from the warehouses in vehicles or transport containers which were sealed under the supervision of the competent authorities.
+
+#### Article 30 — Follow-up measures by the competent authorities
+
+The competent authorities of a warehouse which have not received, within a period of 15 days from the date on which transit from the warehouse was authorised, confirmation of arrival of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products at one of the destinations referred to in Article 24, shall:
+
+(a) verify with the competent authorities at places of destination whether or not the consignment has arrived;
+
+(b) inform the customs authorities of the non-arrival of the consignments;
+
+(c) undertake further investigation to determine the actual location of the goods in cooperation with customs authorities and other authorities in accordance with Article 75(1) of Regulation (EU) 2017/625.
+
+#### Article 31 — Monitoring of delivery of goods to a vessel leaving the Union territory
+
+1\. The competent authorities of the border control post of introduction into the Union or of the warehouse shall notify the dispatch of consignments of goods referred to in Article 19 and Article 23(1) and their place of destination to the competent authority of the port of destination, through the IMSOC.
+
+2\. The operator responsible for the consignments of goods referred to in paragraph 1 may unload those consignments at the port of destination before the delivery of the consignments to the vessel leaving the Union territory provided that the operation is authorised and supervised by the customs authority, and the conditions of delivery indicated in the notification referred to in paragraph 1 are met.
+
+3\. Upon completion of delivery on board the vessel of the consignments of goods referred to in paragraph 1, the competent authority of the port of destination or the representative of the master of the vessel shall confirm the delivery to the competent authorities of the border control post of introduction into the Union or of the warehouse, either by:
+
+(a) countersigning the official certificate referred to in point (c) of Article 29; or
+
+(b) use of electronic means, including through IMSOC or existing national systems.
+
+4\. The representative referred to in paragraph 3 or the operator responsible for the delivery of the consignments to the vessel leaving the Union territory shall return to the competent authorities of the border control post of introduction into the Union or of the warehouse, within a period of 15 days from the date on which transit was authorised at the border control post of introduction into the Union or at the warehouse, the countersigned official certificate referred to in point (a) of paragraph 3.
+
+5\. The competent authority of the port of destination, the competent authorities of border control post of introduction into the Union or the competent authority of the warehouse shall verify that the confirmation of delivery referred to in paragraph 3 is recorded in the IMSOC or that the countersigned documents referred to in point (a) of paragraph 3 are returned to the competent authorities of the border control post of introduction into the Union or to the competent authority of the warehouse.
+
+### SECTION 3 — Official controls at the border control post where goods leave the Union territory
+
+#### Article 32 — Operator’s obligations to present goods leaving the Union territory for official controls
+
+1\. The operator responsible for consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products that leave the Union territory to be transported to a third country shall present those consignments for official controls to the competent authorities of the border control post indicated in the CHED, at a location indicated by those competent authorities.
+
+2\. The operator responsible for the consignments of goods referred to in paragraph 1 that leave the Union territory to be dispatched to a NATO or US military base located in a third country shall present those consignments for official controls to the competent authorities of the border control post indicated in the official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128.
+
+#### Article 33 — Official controls at the border control post where goods leave the Union territory
+
+1\. The competent authorities of the border control post where products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products leave the Union territory shall perform an identity check to ensure that the consignment presented corresponds to the consignment referred to in the CHED or in the official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128 accompanying the consignment. In particular, they shall verify that the seals fixed on the vehicles or transport containers in accordance with point (d) of Article 19, point (d) of Article 28 or point (e) of Article 29 are still intact.
+
+2\. The competent authorities of the border control post where goods referred to in paragraph 1 leave the Union territory shall record the outcome of official controls in part III of the CHED or part III of the official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128.
+
+3\. The competent authorities of the border control post responsible for the checks referred to in paragraph 1 shall confirm to the competent authorities of the border control post of introduction into Union or of the warehouse, within a period of 15 days from the date on which transit was authorised at the border control post of introduction into the Union or at the warehouse, the arrival and compliance of the consignment with this Regulation, either by:
+
+(a) entering the relevant information in the IMSOC; or
+
+(b) countersigning the official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128 and returning to the competent authorities of the warehouse the original certificate or transmitting a copy thereof.
+
+### SECTION 4 — Derogations for consignments in transit
+
+#### Article 34 — Transit of certain animals and certain goods
+
+1\. By way of derogation from Articles 18 and 19, the competent authorities of the border control posts of introduction into the Union may authorise transit through the Union territory of the following consignments subject to the compliance with the conditions laid down in paragraph 2:
+
+(a) Transit by road through Lithuania of consignments of bovine animals for breeding and production, coming from the Russian region of Kaliningrad and consigned to a destination outside the Union, entering and exiting through the designated border control posts of Lithuania.
+
+(b) Transit by road or by rail through the Union of consignments of aquaculture animals, between border control posts in Latvia, Lithuania and Poland, coming from and destined for Russia, directly or via another third country.
+
+(c) Transit by road or by rail through the Union of consignments of products of animal origin, composite products, animal by-products, derived products and germinal products of bovine, porcine, ovine, caprine, equine animals, specified pathogen-free eggs, between border control posts in Latvia, Lithuania and Poland, coming from and destined to Russia, directly or via another third country.
+
+(d) Transit by road or rail of consignments of eggs, egg products and poultry meat, between border control posts in Lithuania, coming from Belarus and destined for the Russian region of Kaliningrad.
+
+(e) Transit by road through Croatia of consignments of aquaculture animals, products of animal origin, composite products, animal by-products, derived products and germinal products of bovine, porcine, ovine, caprine, equine animals, specific pathogen free eggs coming from Bosnia and Herzegovina, entering at the road border control post of Nova Sela and exiting at the port border control post of Ploče.
+
+2\. The authorisation referred to in paragraph 1 shall be subject to compliance with the following conditions:
+
+(a) The competent authorities of the border control post of introduction into the Union shall:
+
+(i) perform documentary checks, identity checks and physical checks for consignments of animals as provided for in Article 18;
+
+(ii) perform documentary checks and identity checks for consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products as provided for in Article 19;
+
+(iii) stamp the official certificates accompanying the consignments intended for the third country of destination ‘ONLY FOR TRANSIT VIA THE EU’;
+
+(iv) retain copies or electronic equivalents of the certificates referred to in (iii) at the border control post of introduction into the Union;
+
+(v) seal the vehicles or transport containers transporting the consignments.
+
+(b) The operator responsible for the consignment shall ensure that consignments are directly transported under customs supervision, without being unloaded, to the border control post where consignments are to leave the Union territory.
+
+(c) The competent authorities of the border control post where the goods leave the Union territory shall:
+
+(i) perform an identity check to confirm that the consignment covered by the accompanying CHED actually leaves the Union territory. In particular, they shall verify that the seals fixed on the vehicles or transport containers are still intact;
+
+(ii) record the outcome of the official controls referred to in (i) in the IMSOC.
+
+(d) The competent authorities of the Member States shall carry out risk-based controls to ensure that the number of consignments and the quantities of animals and goods leaving the Union territory match the number and quantities entering the Union territory.
+
+#### Article 35 — Transit of goods to NATO or US military base located in the Union territory
+
+1\. Products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products destined for a NATO or US military base located in the Union territory, shall be presented by the operator responsible for the consignment for official controls at the NATO or US military base indicated in the CHED or in the accompanying official certificate in accordance with the model set out in Annex to Implementing Regulation (EU) 2019/2128.
+
+2\. The competent authorities responsible for controls at the NATO or US military base at the place of destination shall perform an identity check to confirm that the consignment corresponds to the one covered by the CHED or by the accompanying official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128. In particular, they shall verify that the seals fixed on the vehicles or transport containers in accordance with point (d) of Article 19 and point (e) of Article 29 are still intact.
+
+3\. The competent authorities responsible for controls at the NATO or US military base at the place of destination shall confirm to the competent authorities of the border control post of introduction into the Union or of the warehouse, within a period of 15 days from the date on which transit was authorised at the border control post of introduction into the Union or at the warehouse, the arrival and compliance of the consignment with this Regulation, either by:
+
+(a) entering the relevant information in the IMSOC; or
+
+(b) countersigning the official certificate issued in accordance with the model set out in the Annex to Implementing Regulation (EU) 2019/2128 and returning to the competent authorities of the warehouse the original certificate or transmitting a copy thereof.
+
+#### Article 36 — Transit of goods refused by a third country after their transit through the Union
+
+1\. The competent authorities of the road or of the rail border control post of introduction into the Union may authorise further transit through the Union territory of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products subject to compliance with the following conditions:
+
+(a) the consignment of goods was refused entry by a third country immediately after their transit through the Union or the seals placed by the competent authorities referred to in point (d) of Article 19, point (d) of Article 28 or point (e) of Article 29 on the vehicle or transport container are still intact;
+
+(b) the consignment complies with the rules laid down in points (a), (b) and (c) of Article 19.
+
+2\. The competent authorities of the road or of the rail border control post of introduction into the Union shall re-seal the consignment after the checks referred to in points (b) and (c) of Article 19.
+
+3\. The operator responsible for the consignment of goods referred to in paragraph 1 shall directly transport the consignment to one of the following destinations:
+
+(a) the border control post which authorised transit through the Union; or
+
+(b) the warehouse where it was stored before refusal by a third country.
+
+## CHAPTER V — Transit of animals and goods from one part of the Union territory to another part of the Union territory, and passing through the territory of a third country
+
+#### Article 37 — Transit of animals, products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products
+
+1\. The competent authorities of the Member States shall ensure that consignments of animals and products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products, which are moved from one part of the Union territory to another part of the Union territory, passing through the territory of a third country are transported under customs supervision.
+
+2\. The operators responsible for consignments referred to in paragraph 1 which have passed through the territory of a third country shall present the consignments when they are re-introduced into the Union territory to:
+
+(a) to the competent authorities of a border control post designated for any category of the animals and the goods referred to in paragraph 1; or
+
+(b) a location, indicated by the competent authorities referred to in point (a), which is in the close vicinity of the border control post.
+
+3\. The competent authorities of the border control post of re-introduction into the Union shall:
+
+(a) perform a documentary check to verify the origin of the animals and goods comprising the consignment;
+
+(b) where required by the rules referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625, verify the animal health status of the third countries through which the consignments have transited and the relevant official certificates and documents accompanying the consignments;
+
+(c) where required by the rules referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625, perform an identity check to verify that the seals put on the vehicles or transport containers are still intact.
+
+4\. When non-compliance with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 is suspected, the competent authorities of the border control post of re-introduction into the Union shall perform in addition identity checks and physical checks in addition to those provided for in paragraph 3.
+
+4a. For the consignments of goods referred to in paragraph 1 of this Article that are not subject to animal health requirements for entry into the Union in accordance with the rules referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625 and that are moved from one part of the Union territory to another part of the Union territory, passing through the United Kingdom, excluding Northern Ireland, the operators referred to in paragraph 2 of this Article may give prior notification of arrival of those consignments to the competent authorities of the border control post of re-introduction into the Union through an information system or a combination of information systems other than the IMSOC, provided such system or combination of systems:
+
+(a) has been designated by the competent authorities;
+
+(b) allows the operators to provide the following information:
+
+(i) the description of the goods in transit;
+
+(ii) the identification of the means of transport;
+
+(iii) the estimated time of arrival;
+
+(iv) the origin and destination of the consignments; and
+
+(c) allows the competent authorities of the border control post of re-introduction into the Union to:
+
+(i) assess the information provided by the operators;
+
+(ii) inform the operators if the consignments must be presented for the additional checks provided for in paragraph 4.
+
+5\. The operators responsible for consignments of animals that are moved from one part of the Union territory to another part of the Union territory, passing through the territory of a third country, shall present those consignments for official controls at the exit point from the Union territory.
+
+6\. The competent authority at the exit point from the Union shall:
+
+(a) perform the checks where required by the rules referred to in points (d) and (e) of Article 1(2) of Regulation (EU) 2017/625;
+
+(b) stamp the official certificate accompanying the consignment with the following wording ‘ONLY FOR TRANSIT BETWEEN DIFFERENT PARTS OF THE EUROPEAN UNION VIA [third country name]’.
+
+#### Article 38 — Neum corridor
+
+1\. When consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products come from the territory of Croatia for transit through the territory of Bosnia and Herzegovina at the Neum corridor and before those consignments leave the territory of Croatia via the points of entry of Klek or Zaton Doli, the competent authorities of Croatia shall:
+
+(a) seal the vehicles or transport containers before the consignment transits the Neum corridor;
+
+(b) record the date and time of departure of the vehicles transporting the consignments.
+
+2\. When the consignments referred to in paragraph 1 re-enter the territory of Croatia at the points of entry of Klek or Zaton Doli, the competent authorities of Croatia shall:
+
+(a) verify that the seals on vehicles or transport containers are still intact;
+
+(b) record the date and time of arrival of the vehicles transporting consignments.
+
+3\. The competent authorities of Croatia shall take appropriate measures in accordance with Article 65 of Regulation (EU) 2017/625 where:
+
+(a) the seal referred to in paragraph 1 has been broken during the transit through the Neum corridor; or
+
+(b) the time of transit exceeds the time necessary to travel between the points of entry of Klek and Zaton Doli.
+
+## CHAPTER VI — Final provisions
+
+#### Article 39 — Repeals
+
+Decisions 2000/208/EC and 2000/571/EC, and Implementing Decision 2011/215/EU are repealed with effect from 14 December 2019.
+
+#### Article 40 — Amendments to Decision 2007/777/EC
+
+Decision 2007/777/EC is amended as follows:
+
+(1) Article 6 is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted;
+
+(2) Article 6a is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted.
+
+#### Article 41 — Amendments to Regulation (EC) No 798/2008
+
+Article 18 of Regulation (EC) No 798/2008 is amended as follows:
+
+(1) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(2) in paragraph 2, points (b), (c) and (d) are deleted;
+
+(3) paragraphs 3 and 4 are deleted.
+
+#### Article 42 — Amendments to Regulation (EC) No 1251/2008
+
+Article 17 of Regulation (EC) No 1251/2008 is amended as follows:
+
+(1) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(2) paragraphs 2 and 3 are deleted.
+
+#### Article 43 — Amendments to Regulation (EC) No 119/2009
+
+Article 5 of Regulation (EC) No 119/2009 is amended as follows:
+
+(1) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(2) paragraphs 2 and 3 are deleted.
+
+#### Article 44 — Amendments to Regulation (EU) No 206/2010
+
+Regulation (EU) No 206/2010 is amended as follows:
+
+(1) Article 12a is amended as follows:
+
+(a) in paragraph 1, points (d) and (e) are deleted;
+
+(b) paragraph 2 is deleted;
+
+(c) paragraph 4 is deleted;
+
+(2) Article 17 is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted;
+
+(3) Article 17a is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted.
+
+#### Article 45 — Amendments to Regulation (EU) No 605/2010
+
+Regulation (EU) No 605/2010 is amended as follows:
+
+(1) Article 7 is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted
+
+(2) in Article 7a, paragraphs 2 and 3 are deleted.
+
+#### Article 46 — Amendments to Regulation (EU) No 142/2011
+
+Regulation (EU) No 142/2011 is amended as follows:
+
+(1) Article 29 is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted;
+
+(2) Article 29a is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted.
+
+#### Article 47 — Amendments to Regulation (EU) No 28/2012
+
+Regulation (EU) No 28/2012 is amended as follows:
+
+(1) Article 5 is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted;
+
+(2) Article 5a is amended as follows:
+
+(a) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(b) paragraphs 2 and 3 are deleted.
+
+#### Article 48 — Amendments to Implementing Regulation (EU) 2016/759
+
+Article 5 of Implementing Regulation (EU) 2016/759 is amended as follows:
+
+(1) in paragraph 1, points (b), (c) and (d) are deleted;
+
+(2) paragraphs 2 and 3 are deleted.
+
+#### Article 49 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+
+( 2 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (OJ L 84, 31.3.2016, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2019/2122 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Regulation (EU) No 142/2011 (See page 45 of this Official Journal).
+
+( 4 ) The notion ‘Union territory’ includes Northern Ireland for the purposes of the application of this Regulation.
+
+( 5 ) http://www.edqm.eu (latest edition).
+
+( 6 ) Commission Implementing Regulation (EU) 2019/1014 of 12 June 2019 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points (OJ L 165, 21.6.2019, p. 10).
+
+( 7 ) Commission Implementing Regulation (EU) 2019/2128 of 12 November 2019 establishing the model official certificate and rules for issuing official certificates for goods which are delivered to vessels leaving the Union and intended for ship supply or consumption by the crew and passengers, or to NATO or a United States’ military base (See page 114 of this Official Journal).
+
+( 8 ) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (OJ L 300, 14.11.2009, p. 1).

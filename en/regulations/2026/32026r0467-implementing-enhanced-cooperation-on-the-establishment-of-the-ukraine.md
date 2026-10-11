@@ -1,0 +1,725 @@
+---
+title: "Regulation (EU) 2026/467 of the European Parliament and of the Council of 24 February 2026 implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027"
+identifier: "32026R0467"
+eli: "http://data.europa.eu/eli/reg/2026/467/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2026-02-24
+entry_into_force: 2026-10-01
+last_amended: 2026-02-26
+consolidated_version: "02026R0467-20260226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02026R0467-20260226"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2026/467 of the European Parliament and of the Council of 24 February 2026 implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027
+
+**REGULATION (EU) 2026/467 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 February 2026**
+
+**implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027**
+
+**REGULATION (EU) 2026/467 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 February 2026**
+
+**implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1
+
+Subject matter
+
+1\. This Regulation implements enhanced cooperation on the establishment of an instrument for providing Union assistance to Ukraine for 2026 and 2027 in the form of a loan to be repaid by reparations due by Russia (the ‘Ukraine Support Loan’).
+
+2\. It lays down the objective of the Ukraine Support Loan, its financing, the forms of Union funding under it and the rules for providing such funding.
+
+### Article 2
+
+Objective of the Ukraine Support Loan
+
+1\. The general objective of the Ukraine Support Loan shall be to provide financial and economic assistance to Ukraine in a predictable, continuous, orderly, flexible and timely manner with a view to supporting Ukraine in covering its financing needs resulting particularly from Russia’s war of aggression against Ukraine and Russia’s non-payment of reparations due.
+
+2\. To achieve the general objective referred to in paragraph 1, the specific objectives of the Ukraine Support Loan shall be:
+
+(a) to support macro-financial stability via the easing of Ukraine’s external and internal financing constraints; and
+
+(b) to support Ukraine’s defence industrial capacities through economic, financial and technical cooperation.
+
+### Article 3
+
+Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘defence product’ means goods, services and works that fall within the scope of Directive 2009/81/EC, as set out in Article 2 thereof;
+
+(2) ‘EEA EFTA State’ means a Member of the European Free Trade Association which is a member of the European Economic Area;
+
+(3) ‘ERA Loans’ means eligible bilateral loans and the Union’s macro-financial assistance loan pursuant to Regulation (EU) 2024/2773;
+
+(4) ‘Non-Participating Member State’ means a Member State which does not participate in the enhanced cooperation established by Decision (EU) 2026/258;
+
+(5) ‘Participating Member State’ means a Member State which participates in the enhanced cooperation established by Decision (EU) 2026/258;
+
+(6) ‘other products for defence purposes’ means any good, service and work other than those falling within the scope of Directive 2009/81/EC, as set out in Article 2 thereof, which are necessary for or aimed at defence purposes.
+
+### Article 4
+
+Available assistance under the Ukraine Support Loan
+
+1\. The Ukraine Support Loan shall be for a maximum amount of EUR 90 000 000 000 . That amount shall be made available to Ukraine in accordance with Ukraine’s financing needs, as provided for in the Ukrainian Financing Strategy approved in accordance with Article 8.
+
+2\. The Ukraine Support Loan shall be available until 31 December 2027. It shall be made available by the Commission in instalments, which may be disbursed to Ukraine in one or more tranches. The disbursement of all such tranches shall take place by 31 December 2028.
+
+3\. If the financing needs of Ukraine decrease fundamentally during the period of availability of the Ukraine Support Loan, including in the event of a settlement by Russia of Ukraine’s war damages, the Commission, acting in accordance with the examination procedure referred to in Article 27(3), may reduce the undisbursed amount of the Ukraine Support Loan or cancel it.
+
+4\. In accordance with Article 332 TFEU, Non-Participating Member States shall be entitled to an adjustment in accordance with Article 11 of Regulation (EU, Euratom) No 609/2014 in respect of expenditure financed from the voted budget resulting from the implementation of the enhanced cooperation other than administrative costs entailed for the institutions, borne by the Union budget. Such adjustment shall in particular comprise any debt service costs as well as calls on the guarantee.
+
+### Article 5
+
+Preconditions for assistance under the Ukraine Support Loan
+
+1\. A precondition for granting the assistance under the Ukraine Support Loan shall be that Ukraine continue to uphold and respect effective democratic mechanisms, including a multi-party parliamentary system and the rule of law, and to guarantee respect for human rights, including the rights of persons belonging to minorities. Upholding and respecting the rule of law shall include the fight against corruption.
+
+2\. The Commission and the European External Action Service (EEAS) shall monitor the fulfilment of the precondition set out in paragraph 1 of this Article, in particular before the adoption of the Council implementing decision referred to in Article 8 and the release of funds referred to in Article 23. Furthermore, that monitoring shall take into account the relevant recommendations of international bodies, such as the Council of Europe and its Venice Commission. The Commission shall inform the European Parliament and the Council of its monitoring.
+
+## CHAPTER II — IMPLEMENTATION OF THE UKRAINE SUPPORT LOAN
+
+### Article 6
+
+Ukrainian Financing Strategy
+
+1\. In order to receive financial and economic assistance under the Ukraine Support Loan, Ukraine shall submit to the Commission, in principle each year, the Ukrainian Financing Strategy. The Ukrainian Financing Strategy shall provide details on Ukraine’s financing needs and financing sources, in principle for the forthcoming 12 months.
+
+2\. The Ukrainian Financing Strategy shall contain:
+
+(a) the main macroeconomic assumptions underpinning the Ukrainian Financing Strategy;
+
+(b) information on Ukraine’s budget, per quarter and per year, including:
+
+(i) the targeted budget balance for the general government, broken down by subsector of general government;
+
+(ii) the projections for expenditure and revenue for the general government and its main subsectors, and their main components according to their economic classification;
+
+(iii) relevant information on general government expenditure by function, particularly on defence;
+
+(iv) a description and quantification of the expenditure and revenue measures to be included in the budget;
+
+(v) an annex containing the methodology and assumptions, and any other relevant parameters, underpinning the budgetary forecasts.
+
+(c) information on Ukraine’s past and projected financial developments in the general government, per quarter and per year, including:
+
+(i) information on the liquidity situation (cash balance) for the general government and its main subsectors;
+
+(ii) debt amortisations;
+
+(iii) a debt issuance strategy;
+
+(iv) other debt creating and reducing flows;
+
+(v) the stock of payment arrears and its projected developments.
+
+(d) information on the implementation of previously granted assistance under the Ukraine Support Loan, including any financial recoveries thereof;
+
+(e) information on projected in-kind military assistance needs;
+
+(f) on the basis of Ukraine’s budget and the projected in-kind military assistance needs, the expected external financing needs for the period covered by that Ukrainian Financing Strategy, including a breakdown of the amounts in that budget necessary for the objectives set out in Article 2(2). That breakdown shall contain the value of defence products to be purchased outside the Union and Ukraine;
+
+(g) committed and expected external financing and in-kind military assistance at the time of submission of the Ukrainian Financing Strategy for the period covered by that Ukrainian Financing Strategy, including a breakdown of the amounts of that external financing to be used in line with the objectives set out in Article 2(2);
+
+(h) on the basis of the information in points (f) and (g) of this paragraph, the expected external financing gap for which Ukraine seeks assistance under the Ukraine Support Loan under that Ukrainian Financing Strategy, including a breakdown of the amounts of that expected external financing gap for the objectives set out in Article 2(2); and
+
+(i) in order to support multiannual expenditure under Chapter IV of this Regulation, information on potential multiannual needs and a corresponding budget.
+
+3\. Ukraine may submit updated Ukrainian Financing Strategies until such time as the maximum amount of the Ukraine Support Loan referred to in Article 4(1) has been made accessible under the Ukraine Support Loan in accordance with Article 8.
+
+### Article 7
+
+Commission’s assessment of the Ukrainian Financing Strategy
+
+1\. The Commission shall assess the Ukrainian Financing Strategy submitted in accordance with Article 6 without undue delay.
+
+2\. When carrying out the assessment referred to in paragraph 1, the Commission shall act in close cooperation with Ukraine. The Commission may make observations or seek additional information, including verifying information with Member States, third countries and international organisations. Ukraine shall provide any requested additional information and may revise the Ukrainian Financing Strategy if necessary, including after its submission.
+
+3\. The Commission shall assess the Ukrainian Financing Strategy and shall, in particular assess:
+
+(a) the completeness, feasibility and coherence of the Ukrainian Financing Strategy with the underlying assumptions;
+
+(b) the consistency of the information in the Ukrainian Financing Strategy with external sources, including any recent reviews of the IMF and information from the Ukraine Donor Platform and the Ukraine Defence Contact Group;
+
+(c) the consistency of the expected external financing gap with the following indicative distribution of the Ukraine Support Loan:
+
+(i) EUR 30 000 000 000 for macro-financial assistance in accordance with Chapter III of this Regulation or for budget assistance in the form of a loan to be implemented under the Ukraine Facility pursuant to Chapter III of Regulation (EU) 2024/792;
+
+(ii) EUR 60 000 000 000 to support Ukraine’s defence industrial capacities in accordance with Chapter IV of this Regulation;
+
+(d) compliance with the precondition set out in Article 5(1).
+
+4\. Where the Commission gives a positive assessment of the Ukrainian Financing Strategy, it shall, without delay, submit a proposal for a Council implementing decision in accordance with Article 8.
+
+5\. Where the Commission gives a negative assessment of the Ukrainian Financing Strategy, it shall, without delay, inform Ukraine, giving reasons for its assessment. A negative assessment shall not prevent Ukraine from submitting a revised Ukrainian Financing Strategy.
+
+6\. Where the Commission assesses an update to the Ukrainian Financing Strategy, this Article shall apply.
+
+### Article 8
+
+Council implementing decision
+
+1\. Where the Commission makes a positive assessment of the Ukrainian Financing Strategy or its update, the Commission shall submit a proposal to the Council for an implementing decision making the financial and economic assistance accessible.
+
+2\. The Council implementing decision referred to in paragraph 1 shall:
+
+(a) determine the amount of assistance to be made accessible to Ukraine to assist in the implementation of the Ukrainian Financing Strategy, including the amount of that assistance accessible:
+
+(i) for budget assistance in the form of a loan to be implemented pursuant to Chapter III of Regulation (EU) 2024/792;
+
+(ii) for macro-financial assistance in accordance with Chapter III of this Regulation;
+
+(iii) to support Ukraine’s defence industrial capacities in accordance with Chapter IV of this Regulation;
+
+(b) establish the maximum number and indicative value of instalments for the assistance accessible for macro-financial assistance in accordance with Chapter III of this Regulation.
+
+3\. The determination of the amounts of the Ukraine Support Loan to be made accessible shall:
+
+(a) respect the maximum amount available for the Ukraine Support Loan provided for in Article 4(1);
+
+(b) take into account the need to ensure a fair burden sharing with other donors in covering Ukraine’s financing needs.
+
+(c) for budget assistance, determine to what extent regular budget assistance can be provided in the form of a loan to be implemented pursuant to Chapter III of Regulation (EU) 2024/792 or as macro-financial assistance in accordance with Chapter III of this Regulation, as appropriate.
+
+4\. The Council shall adopt the implementing decision referred to in paragraph 1 without undue delay.
+
+### Article 9
+
+Complementarity and coordination
+
+1\. In the implementation of the Ukraine Support Loan, the Commission shall act in close cooperation with Ukraine, Member States, relevant international bodies and donors to Ukraine, particularly through the Ukraine Donor Platform and the Ukraine Defence Contact Group, to ensure a coherent and consistent approach from those supporting Ukraine to address Ukraine’s financial and economic assistance needs. In doing so, the Commission shall draw on the expertise of the EEAS.
+
+2\. Articles 5, 7, 13, 14 and 15 and Article 23(1), point (b), of this Regulation shall apply in accordance with Decision 2010/427/EU.
+
+## CHAPTER III — BUDGET ASSISTANCE IN THE FORM OF MACRO-FINANCIAL ASSISTANCE
+
+### Article 10
+
+Purpose
+
+1\. The macro-financial assistance shall contribute to covering Ukraine’s financing gap, as identified in a positively assessed Ukrainian Financing Strategy.
+
+2\. The release of the macro-financial assistance shall be managed by the Commission on the basis of its assessment of the precondition set out in Article 5(1) and of the satisfactory fulfilment of the policy conditions included in the Memorandum of Understanding referred to in Article 11.
+
+### Article 11
+
+Memorandum of Understanding
+
+1\. In respect of the approved amounts of macro-financial assistance as referred to in Article 8(2), point (a)(ii), the Commission shall agree with Ukraine on policy conditions to which the macro-financial assistance is to be linked. Those policy conditions shall be set out in a Memorandum of Understanding (MoU).
+
+2\. The policy conditions shall include robust and ambitious reform commitments, including those that aim, in particular, to strengthen revenue mobilisation to support Ukraine’s financing needs and to tackle the root causes of corruption in public finances, including via improving the sustainability and quality of public expenditure and enhancing the efficiency, transparency and accountability of the public finance management systems. Where relevant, those commitments shall be consistent with any programme that Ukraine has with the IMF whilst going further where appropriate. Progress in attaining the commitments shall be regularly monitored by the Commission.
+
+3\. The Commission shall approve the signature of the MoU, and of amendments to the MoU, by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(3).
+
+## CHAPTER IV — ASSISTANCE TO SUPPORT UKRAINE’S DEFENCE INDUSTRIAL CAPACITIES
+
+### Article 12
+
+Purpose
+
+1\. The assistance to support Ukraine’s defence industrial capacities shall aim to enable Ukraine to carry out urgent and major public investments in support of the Ukrainian defence industry and its integration into the European defence industry in response to and following the current crisis situation. That assistance shall contribute, in particular, to the reconstruction, recovery and modernisation of the Ukrainian Defence Technological and Industrial Base, with a view to increasing its defence industrial readiness, taking into account its gradual future integration into the European Defence Technological and Industrial Base and through support for the timely availability of defence products and other products for defence purposes, through cooperation between the Union and Ukraine.
+
+2\. The activities, expenditures and measures to support Ukraine’s defence industrial capacities shall be related to defence products or other products for defence purposes and shall aim to:
+
+(a) speed up the adjustment of the Ukrainian defence industry to structural changes, including through the creation and ramp-up of its manufacturing capacities as well as related supporting activities;
+
+(b) improve the timely availability of defence products or other products for defence purposes for Ukraine, including through the reduction of their delivery lead time, reservation of manufacturing slots or stockpiling of defence products or other products for defence purposes, intermediate products or raw materials; or
+
+(c) enhance cross-border cooperation between the European Defence Technological and Industrial Base and the Ukrainian Defence Technological and Industrial Base, taking into account the defence industrial reinforcement and defence procurement needs of Ukraine, allowing for interchangeability of defence products or other products for defence purposes manufactured by the Ukrainian defence industry and the European defence industry.
+
+### Article 13
+
+Eligibility
+
+1\. The activities, expenditures and measures to support Ukraine’s defence industrial capacities related to defence products and other products for defence purposes shall be eligible for assistance provided that they comply with the eligibility conditions set out in this Article.
+
+2\. Defence products shall belong to one of the following categories:
+
+(a) category one: ammunition and missiles; artillery systems, including deep precision strike capabilities; ground combat capabilities and their support systems, including soldier equipment and infantry weapons; small drones (NATO class 1) and related anti-drone systems; critical infrastructure protection; cyber; and military mobility including counter-mobility;
+
+(b) category two: air and missile defence systems; maritime surface and underwater capabilities; drones other than small drones (NATO classes 2 and 3) and related anti-drone systems; strategic enablers such as, but not limited to, strategic airlift, air-to-air refuelling, C4ISTAR systems as well as space assets and services; space assets protection; artificial intelligence and electronic warfare.
+
+3\. The activities, expenditures and measures to support Ukraine’s defence industrial capacities related to defence products or other products for defence purposes shall not contravene the security and defence interests of the Union and its Member States as established in the framework of the common foreign and security policy (CFSP) pursuant to Title V of the TEU, including respect for the principle of good neighbourly relations, or the objectives set out in Article 2 of this Regulation.
+
+4\. Defence products shall be produced in compliance with the following conditions:
+
+(a) manufacturers and subcontractors involved in the production of the defence products shall be established and have their executive management structures in the Union, in an EEA EFTA State or in Ukraine. They shall not be subject to control by a third country which is not an EEA EFTA State or Ukraine or by another third-country entity which is not established in the Union, in an EEA EFTA State or in Ukraine;
+
+(b) by way of derogation from point (a), in order to take into account industrial cooperation with non-EU partners, defence products that involve a subcontractor involved in the production which is allocated between 15 % and 35 % of the value of the contract, and that is not established or does not have its executive management structures in the Union, in an EEA EFTA State or in Ukraine, shall be eligible provided that at least one of the following conditions are met:
+
+(i) a direct contractual relationship related to the defence product has been established between the manufacturer and that subcontractor prior to 28 May 2025; or
+
+(ii) the manufacturer commits to studying, within two years, the feasibility of replacing the input provided by that subcontractor with an alternative, restriction-free input originating in the Union, in an EEA EFTA State or in Ukraine, and meeting technical and time requirements;
+
+(c) by way of derogation from point (a) of this paragraph, defence products involving manufacturers or subcontractors established in the Union and controlled by another third country which is not an EEA EFTA State or Ukraine or by another third-country entity which is not established in the Union, in an EEA EFTA State or in Ukraine shall be eligible if that manufacturer or subcontractor has been subject to screening within the meaning of Regulation (EU) 2019/452 of the European Parliament and of the Council ( 1 ) and, where necessary, to appropriate mitigation measures, or if that manufacturer or subcontractor provides guarantees in accordance with point (d) of this paragraph, verified by the Member State in which it is established;
+
+(d) the guarantees referred to in point (c) of this paragraph shall provide assurances that the involvement of the manufacturer or subcontractor in the production of the defence product does not contravene the security and defence interests of the Union and its Member States as established in the framework of the CFSP pursuant to Title V of the TEU. Those guarantees shall in particular substantiate that, for the purposes of activities, expenditures and measures, measures are in place to ensure that:
+
+(i) control over the manufacturer or subcontractor is not exercised in a manner that restrains or restricts its ability to carry out the activities, expenditures and measures supported; and
+
+(ii) access by a non-associated third country or by a non-associated third-country entity to classified or sensitive information relating to the defence product produced is prevented and the employees or other persons involved in the production of the defence product have national security clearance issued by a Member State, where appropriate, in accordance with national laws and regulations;
+
+(e) the infrastructure, facilities, assets and resources of the manufacturers and subcontractors involved in the production of the defence products shall be located in the territory of a Member State, an EEA EFTA State or Ukraine. Where manufacturers or subcontractors involved in the production of the defence products have no readily available alternatives or relevant infrastructure, facilities, assets and resources in the territory of a Member State, an EEA EFTA State or Ukraine, they may use their infrastructure, facilities, assets and resources which are located or held outside those territories, provided that such use does not contravene the security and defence interests of the Union and its Member States;
+
+(f) manufacturers and subcontractors involved in the production of the defence products may be considered to fulfil the eligibility conditions referred to in this paragraph where they have fulfilled equivalent conditions under Regulations (EU) 2018/1092 ( 2 ), (EU) 2021/697 ( 3 ), (EU) 2023/1525 ( 4 ), or (EU) 2023/2418 ( 5 ) of the European Parliament and of the Council or under Regulation (EU) 2025/1106 and provided that no subsequent changes call into question the fulfilment of those conditions;
+
+(g) the cost of components originating outside the Union, EEA EFTA States and Ukraine shall not be higher than 35 % of the estimated cost of the components of the defence product. No component shall be sourced from a third country that contravenes the security and defence interests of the Union and its Member States;
+
+(h) for defence products related to category two as referred to in paragraph 2, point (b), of this Article, manufacturers shall have the ability to decide, without restrictions imposed by third countries or by third-country entities, on the definition, adaptation and evolution of the design of the defence product procured, including the legal authority to substitute or remove components that are subject to restrictions imposed by third countries or by third-country entities.
+
+For the purposes of the first subparagraph of this paragraph, ‘subcontractors involved in the production of the defence products’ means any legal entity which provides critical inputs that possess unique attributes essential for the functioning of the defence product, which is allocated at least 15 % of the value of the contract, and which needs access to classified information for the performance of the contract.
+
+5\. By way of derogation from paragraphs 2 and 4 and in full respect of paragraph 3, where there is an urgent need for the delivery of a given defence product stemming from Russia’s war of aggression against Ukraine, the procurement of a defence product which does not comply with one or more of the conditions set out in paragraphs 2 and 4 shall be eligible for financial assistance under this Chapter provided that:
+
+(a) there is no equivalent product that responds to that urgent need which complies with the conditions set out in paragraphs 2 and 4 or it is not available at the required scale and whose delivery lead time is commensurate with the urgency of the situation and Ukraine’s immediate operational needs; or
+
+(b) the delivery lead time for such defence product is significantly shorter than for a defence product which would comply with the conditions set out in paragraphs 2 and 4 of this Article, even if that defence product was subject to a priority-rated request as referred to in Article 19.
+
+In such a case, Ukraine shall provide the information reasonably available to it demonstrating that the conditions for the application of this derogation are met. That information shall be checked by the Commission after consultation with the Expert Group referred to in Article 15 without undue delay.
+
+The procurement of defence products from manufacturers established in third countries other than EEA EFTA States and Ukraine shall be made only where there are no other alternatives available in the Union, EEA EFTA States and Ukraine under the conditions set out in the first subparagraph, points (a) and (b). In the context of the first subparagraph, points (a) and (b), that information shall include a legal commitment on compliance with the delivery lead time.
+
+The Commission shall approve the derogations referred to in this paragraph by means of implementing acts, acting in accordance with the examination procedure referred to in Article 27(3).
+
+6\. Where applicable, Participating Member States shall ensure that the procurement procedures and contracts for other products for defence purposes resulting from procurements receiving support under the Ukraine Support Loan contain appropriate eligibility conditions to protect the security and defence interests of the Union and its Member States.
+
+7\. By way of derogation from paragraph 4, contributions in accordance with paragraph 8, point (e), shall be utilised in line with the eligibility conditions of the Union programme concerned.
+
+8\. Activities, expenditures and measures related to defence products or other products for defence purposes shall be implemented in accordance with one of the following methods of implementation:
+
+(a) procurements by Ukraine, subject to the procurement and delivery being validated by the Commission or Participating Member States. Ukraine shall be responsible for such procurements in accordance with Ukrainian law, where validations by the Commission or Participating Member States shall include, on a sample basis, checks on contractual documentation, invoices and delivery certificates, physical inspections to suppliers and physical verification of deliveries;
+
+(b) procurements by Ukraine that are a common procurement in accordance with Regulation (EU) 2025/1106;
+
+(c) agreements between Ukraine and Member States or the European Defence Agency (EDA);
+
+(d) procurement agreements between Ukraine and international or intergovernmental organisations; or
+
+(e) contributions by Ukraine to the Ukraine Support Instrument established by Regulation (EU) 2025/2643, the Ukraine Investment Framework established by Regulation (EU) 2024/792 for dual-use goods or other Union programmes.
+
+Activities, expenditures and measures related to other products for defence purposes may also be implemented by procurements by Ukraine for procurements below EUR 7 000 000 , provided that sound financial management and the protection of the financial interest of the Union are ensured.
+
+9\. Contracts entered into by Ukraine relating to procurements, agreements or contributions referred to in paragraph 8 shall be eligible if signed after 14 January 2026 provided that they comply with this Article.
+
+10\. The Commission is empowered to adopt delegated acts in accordance with Article 26 to supplement this Regulation by extending eligibility to third countries other than EEA EFTA States and Ukraine that do not contravene the security and defence interests of the Union and its Member States, provided that those third countries have concluded an agreement with the Union in accordance with Article 17 of Regulation (EU) 2025/1106. Each delegated act shall specify, for each of the third countries concerned, to which of the defence products this provision shall apply. Upon entry into force of a delegated act, the third country shall be considered to be included among the EEA EFTA States and Ukraine for the purpose of Article 13(4) as regards those defence products.
+
+11\. Notwithstanding paragraph 10, the Council, acting on a proposal from the Commission, may adopt an implementing act to determine that a third country other than EEA EFTA States and Ukraine that does not contravene the security and defence interests of the Union and its Member States and that has not concluded an agreement with the Union in accordance with Article 17 of Regulation (EU) 2025/1106, fulfils the following cumulative conditions:
+
+(a) the third country has committed to provide a fair and proportionate financial contribution to the costs arising from borrowing, commensurate with the value of contracts awarded to entities established in that third country. Such contribution shall take the form of cash to the borrowing costs subsidy on the basis of a contribution agreement between the third country and the Union. It shall constitute external assigned revenue in accordance with Article 21(2), point (e), of Regulation (EU, Euratom) 2024/2509;
+
+(b) the third country has entered into a Security and Defence Partnership with the Union; and
+
+(c) the third country is providing financial and military support to Ukraine in a significant manner.
+
+The Council implementing act shall specify, for each of the third countries concerned, to which defence products this provision is to apply, taking into account the conditions of this paragraph.
+
+Upon entry into force of the Council implementing act, the third country shall be considered to be included among the EEA EFTA States and Ukraine for the purpose of Article 13(4) as regards those defence products.
+
+The Council, acting by qualified majority, may amend the Commission’s proposal and adopt the amended text by means of an implementing decision.
+
+### Article 14
+
+Product schedules
+
+1\. In respect of the approved amounts of assistance to support Ukraine’s defence industrial capacities as referred to in Article 8(2), point (a)(iii), Ukraine shall draw up a schedule for each activity, expenditure or measure related to a defence product or other product for defence purposes for which it intends to request assistance. That schedule shall set out:
+
+(a) a description of the defence product or other product for defence purposes; and
+
+(b) information on compliance with Article 13.
+
+2\. Ukraine shall consult the schedule with the Commission with a view to ensuring compliance with Article 13. Should Ukraine not identify a method of implementation in accordance with Article 13(8) or should the Commission consider that an alternative method of implementation is more economical, efficient or effective, the Commission may propose a method of implementation to Ukraine. When proposing to Ukraine the most appropriate method of implementation, the Commission shall take into consideration the timeliness of delivery of the relevant defence product or other product for defence purposes, activity, expenditure or measure, the prices available, the past experience with that method of implementation and, where warranted, past experience with manufacturers under that method of implementation. In determining whether an alternative method of implementation is more economical or when considering the prices available, the Commission shall take into consideration any co-financing that is to be provided by Member States.
+
+3\. By derogation from paragraph 1 of this Article, Ukraine shall not be required to draw up a schedule for implementation in accordance with Article 13(8), first subparagraph, point (e).
+
+### Article 15
+
+Ukraine’s Defence Industrial Capacities Expert Group
+
+1\. To support the implementation of assistance to support Ukraine’s defence industrial capacities, the Commission shall establish Ukraine’s Defence Industrial Capacities Expert Group.
+
+2\. In addition to representatives of the Commission, the EEAS and the EDA, Ukraine’s Defence Industrial Capacities Expert Group shall include representatives of Participating Member States and the EEA EFTA States. Third countries referred to in Article 13(10) shall be permitted to nominate representatives. Ukraine shall be invited to the meetings of Ukraine’s Defence Industrial Capacities Expert Group as appropriate.
+
+3\. Ukraine’s Defence Industrial Capacities Expert Group shall provide advice, expertise and support on the defence products and other products for defence purposes, on the method of implementation, on the derogations under Article 13(5) and on the product schedules.
+
+### Article 16
+
+Administration of the assistance to support Ukraine’s defence industrial capacities
+
+Ukraine shall open a special account for the sole purpose of the management of the financial and economic assistance received to support Ukraine’s defence industrial capacities. The following rules shall apply in relation to that account:
+
+(a) all payments of the contracts or agreements that are requested for assistance to support Ukraine’s defence industrial capacities shall be paid from that account;
+
+(b) the Commission shall be granted monitoring rights of that account;
+
+(c) Ukraine shall provide the Commission with a monthly report, to be submitted within 10 working days of the end of each month, containing the following information:
+
+(i) the date and amount of each payment made from the account during the preceding month;
+
+(ii) the name of the recipient of each payment;
+
+(iii) a description of the purpose of each payment and how it relates to the contracts or agreements submitted in requests for funds;
+
+(iv) any other information as may be reasonably requested by the Commission.
+
+### Article 17
+
+Monitoring of implementation
+
+1\. The Commission shall monitor the implementation of assistance to support Ukraine’s defence industrial capacities, including particularly the delivery of products, in accordance with this Article.
+
+2\. For procurements by Ukraine in accordance with Article 13(8), first subparagraph, point (a), that are validated by the Commission, the Commission shall utilise the validation process therein.
+
+3\. For procurements by Ukraine in accordance with Article 13(8), first subparagraph, point (a), that are validated by Participating Member States, the Participating Member State shall monitor the implementation of the procurement and the delivery in accordance with that provision and report to the Commission.
+
+4\. For procurements by Ukraine in accordance with Article 13(8), first subparagraph, point (b), the Participating Member States that are part of such a common procurement shall monitor the implementation of the procurement and the delivery and report to the Commission. Where in the context of a common procurement under Regulation (EU) 2025/1106 a Non-Participating Member State agrees to be bound by and to apply the eligibility rules set out in this Regulation, ensures the protection of the financial interests of the Union and is the contracting authority which acts on behalf of the other countries, Ukraine shall require as a condition of the participation of that Non-Participating Member State that it monitors the implementation of the procurement and the delivery and reports to the Commission.
+
+5\. For agreements between Ukraine and Participating Member States in accordance with Article 13(8), first subparagraph, point (c), the Participating Member State shall monitor the implementation of the agreement and the delivery and report to the Commission. For agreements between Ukraine and Non-Participating Member States in accordance with Article 13(8), first subparagraph, point (c), Ukraine shall include in such agreements obligations on the respective Non-Participating Member State to be bound by and to apply the eligibility rules set out in this Regulation, to ensure the protection of the financial interests of the Union and to monitor the implementation of the agreement and the delivery and to report to the Commission.
+
+6\. For agreements between Ukraine and the EDA in accordance with Article 13(8), first subparagraph, point (c), the EDA shall monitor the implementation of the agreement and the delivery and report to the Commission.
+
+7\. For procurement agreements between Ukraine and international or intergovernmental organisations in accordance with Article 13(8), first subparagraph, point (d), Ukraine shall include in such procurement agreements obligations on the respective international or intergovernmental organisations to monitor the implementation of the procurement and the delivery and to report to the Commission.
+
+8\. Paragraphs 1 to 7 of this Article shall not apply to procurements by Ukraine in accordance with Article 13(8) regarding activities, expenditures and measures related to other products for defence purposes below EUR 7 000 000 . However, Ukraine shall regularly report to the Commission on how it monitors the implementation of these procurements and delivery. The Commission shall undertake risk-based controls.
+
+9\. Should the Commission be notified by Ukraine of the non-implementation of a contract or agreement in accordance with Article 20(2), point (g), or become aware of the non-delivery of products under this Article or the non-use of funds in the account referred to in Article 16, the Commission shall engage with Ukraine to repurpose those funds in accordance with this Regulation.
+
+### Article 18
+
+Modification of framework agreements or contracts
+
+1\. Where activities, expenditures and measures related to defence products are implemented through the methods referred to in Article 13(8), first subparagraph, point (b) or point (c), within the Union, the rules provided for in paragraphs 2 to 4 of this Article shall apply to an existing framework agreement or contract that has as its object the purchase of defence products, which is used in that implementation method, and which does not provide for the possibility to substantially amend it. When applying paragraphs 2 and 3 of this Article, the contracting authority that concluded the framework agreement or contract shall obtain the prior agreement of the undertaking with which it has concluded that framework agreement or contract.
+
+2\. A contracting authority of a Participating Member State may modify an existing framework agreement or contract for defence products, where that framework agreement or contract has been concluded with an undertaking complying with criteria equivalent to those laid down in Article 13(4) and (5) of this Regulation, in order to add Ukraine as a party to that framework agreement or contract.
+
+3\. By way of derogation from Article 29(2), third subparagraph, of Directive 2009/81/EC, a contracting authority of a Participating Member State may make substantial amendments to the quantities set out in a framework agreement or contract, with an estimated value above the thresholds laid down in Article 8 of Directive 2009/81/EC, where that framework agreement or contract has been concluded with an undertaking that complies with criteria equivalent to those laid down in Article 13(4) and (5) of this Regulation, and insofar as the modification is strictly necessary for the application of paragraph 2 of this Article.
+
+4\. For the purpose of calculating the value referred to in paragraph 3, the updated value shall be the reference point when the contract includes an indexation clause.
+
+5\. A contracting authority which has modified a framework agreement or contract in the cases referred to in paragraph 2 or paragraph 3 of this Article shall publish a notice to that effect in the Official Journal of the European Union in accordance with Article 32 of Directive 2009/81/EC.
+
+6\. In the cases referred to in paragraphs 2 and 3, the principle of equal rights and obligations shall apply between the contracting authorities which are party to the framework agreement or contract, in particular regarding the cost of additional quantities procured.
+
+### Article 19
+
+Voluntary prioritisation of defence products
+
+1\. For the sole purpose of this Regulation and where Ukraine is confronted with severe difficulties in the placing or in the execution of a contract for the supply of defence products that are urgently needed and meet the eligibility requirements set out in Article 13(4) or (5), an economic operator together with the Participating Member State on the territory of which its production site is located may jointly submit a request to the Commission to issue a prioritisation measure to prioritise a certain order of such products manufactured by that economic operator.
+
+2\. The joint request referred to in paragraph 1 shall include the following elements:
+
+(a) the initial request from Ukraine;
+
+(b) the list of products to be subject to the prioritisation measure, their specifications and the quantities in which they are to be supplied;
+
+(c) the time limits within which the delivery of the defence products is to be completed;
+
+(d) evidence that the economic operator cannot meet the request from Ukraine referred to in point (a) without a prioritisation measure; and
+
+(e) an indication of a fair and reasonable price at which the prioritisation measure could be placed as well as elements substantiating that price.
+
+3\. Upon receipt of a request as referred to in paragraph 1, the Commission shall assess that request without undue delay.
+
+4\. The Commission shall base the assessment referred to in paragraph 3 on objective, factual, measurable and substantiated data, with the aim of determining whether such prioritisation is indispensable in order to address the severe difficulties referred to in paragraph 1.
+
+5\. Where the assessment referred to in paragraph 3 concludes that the prioritisation is indispensable, the Commission shall, by means of an implementing act, adopt a prioritisation measure setting out:
+
+(a) the legal basis of the priority-rated request to be complied with by the economic operator;
+
+(b) the list of products subject to the priority-rated request, their specifications and the quantities in which they are to be supplied;
+
+(c) the time limits within which the priority-rated request is to be completed;
+
+(d) the beneficiaries of the priority-rated request;
+
+(e) the scope of contractual obligations over which the priority-rated request shall have precedence;
+
+(f) the waiver of contractual liability under the conditions laid down in paragraph 7; and
+
+(g) the penalties provided for in paragraphs 12 to 18 for non-compliance with the obligations stemming from that implementing act.
+
+The implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 27(3).
+
+6\. The prioritisation measure referred to in paragraph 5 shall:
+
+(a) be placed at a fair and reasonable price, adequately taking into account the economic operator’s opportunity costs when fulfilling the prioritisation measure as compared to existing contractual obligations; and
+
+(b) take precedence over any contractual obligations under private or public law related to the defence products subject to the prioritisation measure, under the conditions laid down in the implementing act referred to in paragraph 5.
+
+7\. The economic operator subject to a prioritisation measure pursuant to paragraph 5 shall not be liable for any breach of contractual obligation that is governed by the law of a Participating Member State, provided that:
+
+(a) the breach of contractual obligation is strictly necessary for compliance with the required prioritisation;
+
+(b) the implementing act referred to in paragraph 5 has been complied with; and
+
+(c) the request referred to in paragraph 1 did not have the sole purpose of unduly avoiding a prior performance obligation under private or public law.
+
+8\. The economic operator subject to a prioritisation measure may request the Commission to amend the implementing act referred to in paragraph 5 where it considers it to be duly justified based on one of the following grounds:
+
+(a) the economic operator is unable to perform the prioritisation measure on account of insufficient production capability or production capacity, even under preferential treatment of the request;
+
+(b) completion of the prioritisation measure would place an unreasonable economic burden on, and entail particular hardship for, the economic operator.
+
+9\. The economic operator shall provide all relevant and substantiated information to allow the Commission to assess the merits of the request for amendment referred to in paragraph 8.
+
+10\. Based on the examination of the reasons and evidence provided by the economic operator, the Commission may, after consultation and prior agreement of the Participating Member State on the territory of which the relevant production site of the economic operator concerned is located, amend its implementing act to release, partially or in totality, the economic operator concerned from its obligations under this Article.
+
+11\. Where an economic operator, after having expressly accepted to prioritise the orders requested by the Commission, intentionally or through gross negligence does not comply with the obligation to prioritise those orders, it shall be subject to fines set out in paragraphs 12 to 18, except where:
+
+(a) the economic operator is unable to perform the priority-rated request on account of insufficient production capability or production capacity, or on technical grounds; or
+
+(b) performance or completion of the request would place an unreasonable economic burden on, and entail particular hardship for, the economic operator, including substantial risks relating to business continuity.
+
+The revenue from the fines shall constitute external assigned revenue within the meaning of Article 21(5) of Regulation (EU, Euratom) 2024/2509 to an external assistance programme under which Ukraine is eligible.
+
+12\. Where it deems it to be necessary and proportionate, the Commission may, by means of implementing acts, impose on the economic operators fines not exceeding EUR 300 000 where the economic operator, intentionally or through gross negligence, does not comply with the obligation to perform the priority-rated request pursuant to this Article.
+
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 27(3).
+
+13\. Before taking a decision pursuant to paragraph 12, the Commission shall provide an opportunity for the economic operator concerned to be heard in accordance with paragraph 15. The Commission shall take into account any duly reasoned justification presented by the economic operator for the purpose of determining whether fines are deemed necessary and proportionate.
+
+14\. In fixing the amount of the fine, the Commission shall take into consideration the nature, gravity and duration of the infringement, including whether the economic operator has partially complied with the priority-rated order or the priority-rated request.
+
+15\. Before taking a decision pursuant to paragraph 12, the Commission shall ensure that the economic operators concerned have been given the opportunity to submit observations on:
+
+(a) the preliminary findings of the Commission, including any matter in relation to which the Commission has raised objections;
+
+(b) the measures that the Commission may intend to take in view of the preliminary findings pursuant to point (a) of this paragraph.
+
+16\. The economic operators concerned may submit to the Commission their observations on the Commission’s preliminary findings within a time limit which shall be fixed by the Commission in its preliminary findings, and which may not be less than 14 working days.
+
+17\. The Commission shall base its imposition of fines only on objections on which the economic operators concerned have been able to comment.
+
+18\. Where the Commission has informed the economic operators concerned of its preliminary findings as referred to in paragraph 15, it shall give access, if so requested, to the Commission’s file under the terms of a negotiated disclosure, subject to the legitimate interest of economic operators in the protection of their business secrets, or in order to preserve business secrets or other confidential information of any person. The right of access to the file shall not extend to confidential information and internal documents of the Commission or the authorities of the Participating Member States, in particular to correspondence between the Commission and the authorities of the Participating Member States. This paragraph shall not prevent the Commission from disclosing and using information necessary to prove an infringement.
+
+19\. This Article is without prejudice to the rights of the Participating Member States to protect their essential security interests in accordance with Article 346(1), point (b), TFEU.
+
+## CHAPTER V — FINANCING AND IMPLEMENTATION
+
+### Article 20
+
+Ukraine Support Loan Agreement
+
+1\. The detailed financial terms of the Ukraine Support Loan shall be laid down in the Ukraine Support Loan Agreement.
+
+2\. In addition to the elements laid down in Article 223(4) of Regulation (EU, Euratom) 2024/2509, the Ukraine Support Loan Agreement shall require that:
+
+(a) the Ukraine Support Loan is to be a limited recourse loan that becomes due and payable upon the occurrence of a repayment trigger as defined in subparagraph (j);
+
+(b) Ukraine provides the Union with a security interest over its claim on Russia for reparations as security for the Ukraine Support Loan. The value of that security interest shall at any given time be equal to the value of disbursed funds under the Ukraine Support Loan;
+
+(c) the rights, responsibilities and obligation provided for in the Framework Agreement under the Ukraine Facility referred to in Article 9 of Regulation (EU) 2024/792 apply to the Ukraine Support Loan Agreement and the funds therein;
+
+(d) the amount of assistance referred to in Article 8(2), point (a)(i), of this Regulation is to be implemented in accordance with Chapter III of Regulation (EU) 2024/792, with the exception of rules on the duration and repayment of the loan, including the borrowing costs subsidy, as referred to in Article 22, which are to be governed by this Regulation;
+
+(e) Ukraine utilises the same management and control systems as proposed in the Ukraine Plan established under Regulation (EU) 2024/792, including beyond the availability period referred to in Article 6(2) of that Regulation;
+
+(f) the Commission has the right to monitor activities, expenditures and measures under Chapter IV of this Regulation that are carried out by the Ukrainian authorities, along the whole project cycle;
+
+(g) Ukraine is to immediately notify the Commission should a draft contract or agreement financed through the Ukraine Support Loan not be implemented;
+
+(h) Ukraine continues to respect the precondition set out in Article 5(1);
+
+(i) Ukraine does not reverse any measure taken under any other current or previous instruments of support provided by the Union or IMF concerning anti-corruption;
+
+(j) Ukraine is to be liable for the repayment of the principal of the Ukraine Support Loan within 30 days, if any of the following conditions are fulfilled, each constituting a repayment trigger for the purposes of this Regulation:
+
+(i) the receipt of cash by Ukraine for war reparations, indemnities or any financial settlement from Russia, up to the amount of such settlement;
+
+(ii) 90 days from the receipt of non-monetary assets by Ukraine for war reparations, indemnities or any financial settlement from Russia, except territory, up to the amount of such settlement which is to be determined by an independent valuation. Upon request of Ukraine, the Commission may grant an extension of this timeframe if strictly warranted;
+
+(iii) that Ukraine is in breach of point (h); or
+
+(iv) it has been established that, in relation to the management of the Ukraine Support Loan, Ukraine has engaged in any act of fraud, corruption or any other illegal activity detrimental to the financial interests of the Union.
+
+(k) Ukraine is liable to repay the Ukraine Support Loan:
+
+(i) where the conditions set out in point (j)(i) and (ii) are fulfilled, for an amount of the monetary value of the war reparations, indemnities or any financial settlement from Russia equal to the proportion of the Ukraine Support Loan outstanding against the sum of the value of the Ukraine Support Loan outstanding, any outstanding reparations loans provided by G7 members and any outstanding liabilities under ERA Loans;
+
+(ii) where the condition set out in point (j)(iii) is fulfilled, for the total outstanding amount of the Ukraine Support Loan;
+
+(iii) where the condition set out in point (j)(iv) is fulfilled, for the value of fraud, corruption or any other illegal activity detrimental to the financial interests of the Union.
+
+(l) any amounts of the Ukraine Support Loan not covered by the liability referred to in point (k) are to remain in place until future repayment trigger events occur;
+
+(m) in the case of payments or recoveries, Ukraine is to indicate the relevant payments from the Ukraine Support Loan that are being repaid or recovered;
+
+(n) the Union has the right to make use of Russian assets immobilised in the Union to repay the loan, in full accordance with Union and international law;
+
+(o) Ukraine is to ensure that the procurement procedures and contracts for other products for defence purpose resulting from procurement receiving support under the Ukraine Support Loan contain appropriate eligibility conditions to protect the security and defence interests of the Union and its Member States.
+
+The Ukraine Support Loan Agreement shall also include any other requirements needed for the implementation of the Ukraine Support Loan, including those necessary to implement Article 17 of this Regulation.
+
+3\. Non-compliance with the terms of the Ukraine Support Loan Agreement shall constitute a ground for the Commission to suspend or cancel, in full or in part, the release of the instalment or tranches. Non-compliance with repayment terms of the Ukraine Support Loan Agreement shall additionally constitute a ground for the total or part of the outstanding amount of the Ukraine Support Loan to become due and payable.
+
+4\. The Ukraine Support Loan Agreement shall be made available, upon request, simultaneously to the European Parliament and to the Council.
+
+### Article 21
+
+Request for funds
+
+1\. To receive financial and economic assistance, Ukraine shall submit to the Commission a duly justified request for funds. Such a request for funds may be submitted by Ukraine to the Commission, in principle, six times per year.
+
+2\. For budget assistance in the form of a loan to be implemented pursuant to Chapter III of Regulation (EU) 2024/792, the request for funds shall be submitted in accordance with Chapter III of Regulation (EU) 2024/792.
+
+3\. For macro-financial assistance in accordance with Chapter III of this Regulation, the request for funds shall be accompanied by a report in accordance with the provisions of the MoU.
+
+4\. For assistance to support Ukraine’s defence industrial capacities in accordance with Chapter IV of this Regulation:
+
+(a) the request for funds may cover multiple products. For each covered product, the request for funds shall contain a contract or agreement in compliance with Article 13 and a schedule in accordance with Article 14. Such contracts or agreements may be signed or in a finalised draft form;
+
+(b) if the request for funds requests funding for an amount greater than 20 % of the amount made accessible in accordance with the Council implementing decision referred to in Article 8, Ukraine shall provide a detailed justification, including on the impact for future requests for funds under that implementing decision.
+
+### Article 22
+
+Borrowing costs subsidy
+
+1\. By way of derogation from Article 223(4), point (e), of Regulation (EU, Euratom) 2024/2509 and subject to available resources, the Union may bear the costs arising from the borrowing for a loan to Ukraine that would otherwise be borne by Ukraine (‘borrowing costs subsidy’). Those costs comprise service costs (cost of funding, cost of liquidity management, and cost of service for administrative overheads related to the borrowing and lending).
+
+2\. Ukraine may request the borrowing costs subsidy each year. The Commission may award the borrowing costs subsidy for an amount not exceeding the limits of the appropriations made available in the context of the budgetary procedure.
+
+### Article 23
+
+Decision on the release of assistance
+
+1\. The Commission shall decide on the release of assistance subject to its assessment of the following requirements:
+
+(a) for macro-financial assistance:
+
+(i) compliance with the precondition set out in Article 5(1);
+
+(ii) the satisfactory fulfilment of the policy conditions set out in the MoU; and
+
+(iii) compliance with the Ukraine Support Loan Agreement referred to in Article 20;
+
+(b) for assistance to support Ukraine’s defence industrial capacities:
+
+(i) compliance with the precondition set out in Article 5(1);
+
+(ii) confirmation that the contracts or agreements are for products in compliance with Article 13 and that the Commission does not object to the methods of implementation;
+
+(iii) confirmation that Ukraine broadly respects the qualitative and quantitative steps contained in the Annex to Council Implementing Decision (EU) 2024/1447 ( 6 ) and any amendments thereto;
+
+(iv) compliance with the obligations referred to in Article 16 and the Ukraine Support Loan Agreement referred to in Article 20; and
+
+(v) to the extent necessary, the adequacy of the detailed justification of Ukraine, taking into account the situation in Ukraine and the committed and expected external financing available.
+
+For budget assistance in the form of a loan to be implemented pursuant to Chapter III of Regulation (EU) 2024/792, the release of assistance shall be implemented in accordance with Chapter III of Regulation (EU) 2024/792.
+
+2\. Subject to compliance with the amount of assistance accessible provided for in the Council implementing decision adopted in accordance with Article 8, where the Commission makes a positive assessment of the request for funds, it shall adopt, without undue delay, a decision authorising the disbursement of the Ukraine Support Loan. For assistance to support Ukraine’s defence industrial capacities, that amount to be disbursed shall be equal to the value of the contracts or agreements included in the request for funds.
+
+3\. The Commission may proceed with the decision referred to in paragraph 2 for paragraph 1, points (a) and (b), collectively or individually.
+
+4\. Where the Commission gives a negative assessment to the request for funds, it shall, without undue delay, inform Ukraine, giving reasons for its assessment. A negative assessment shall not prevent Ukraine from submitting a new request for funds.
+
+### Article 24
+
+Financing of the Ukraine Support Loan
+
+1\. In order to finance the assistance under the Ukraine Support Loan, the Commission shall be empowered, on behalf of the Union, to borrow the necessary funds on the capital markets or from financial institutions under the diversified funding strategy referred to in Article 224 of Regulation (EU, Euratom) 2024/2509.
+
+2\. The borrowing and lending operations for the Ukraine Support Loan shall be carried out in euro.
+
+3\. By way of derogation from Article 31(3), second sentence, of Regulation (EU) 2021/947, the financial assistance provided to Ukraine under the Ukraine Support Loan shall not be supported by the External Action Guarantee. No provisioning for the Ukraine Support Loan shall be constituted and, by way of derogation from Article 214(1) of Regulation (EU, Euratom) 2024/2509, no provisioning rate shall be set.
+
+### Article 25
+
+Application of the rules on classified information and sensitive information
+
+1\. Classified information that is created, handled, stored, exchanged or shared under this Regulation shall be protected in accordance with the security rules set out in Commission Decision (EU, Euratom) 2015/444 ( 7 ) or the Agreement between the Member States of the European Union, meeting within the Council, regarding the protection of classified information exchanged in the interests of the Union, as appropriate.
+
+2\. The Commission shall use a secured exchange system in order to facilitate the exchange of classified information and sensitive information between the Commission and Ukraine and, where appropriate, with the Participating Member States.
+
+3\. The Commission shall have access to information, including classified information, necessary for the tasks assigned to it under this Regulation, in particular for the purpose of verifying the conditions for disbursement of payments and carrying out the checks, reviews, audits, investigations, reports as well as the controls and audits, as referred to in Article 20.
+
+4\. Information received as a result of the application of this Regulation shall be used only for the purpose for which it was requested.
+
+5\. The Commission and Participating Member States shall ensure the protection of trade and business secrets and other sensitive information acquired and generated in application of this Regulation in accordance with Union law and respective national law.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 26
+
+Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 13(10) shall be conferred on the Commission for an indeterminate period of time from 6 March 2026.
+
+3\. The delegation of power referred to in Article 13(10) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 13(10) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 27
+
+Committee procedure
+
+1\. The Commission shall be assisted by a committee of representatives of the Participating Member States. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. The EDA shall be invited to provide its views and expertise to the committee as an observer. The EEAS shall also be invited to assist in the work of the committee.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 28
+
+Ukraine Support Loan dialogue
+
+1\. In order to enhance the dialogue between the Union institutions, in particular the European Parliament, the Council and the Commission, and to ensure greater transparency and accountability, the competent committee of the European Parliament may invite the Commission to discuss the implementation of this Regulation.
+
+2\. The European Parliament may express its views in resolutions as regards the Ukraine Support Loan.
+
+3\. The Commission shall take into account any elements arising from the views expressed through the Ukraine Support Loan dialogue, including resolutions from the European Parliament if provided.
+
+### Article 29
+
+Information to the European Parliament and to the Council
+
+1\. The Commission shall inform the European Parliament and the Council of developments regarding the implementation of this Regulation, including Article 4(3), Article 6(1), Article 7(5), Article 11(3), Article 20(3) and Article 23(2), and shall provide  the European Parliament and the Council with the relevant documents without undue delay. Information transmitted by the Commission to the Council in the context of this Regulation or its implementation shall simultaneously be made available to the European Parliament, subject to confidentiality arrangements if necessary.
+
+2\. By 30 June 2027 and 30 June 2028, the Commission shall submit to the European Parliament and to the Council a report on the implementation of this Regulation in the preceding year, including an evaluation of that implementation. That report shall:
+
+(a) examine progress made in implementing the Ukraine Support Loan;
+
+(b) provide information on the monitoring referred to in Article 17; and
+
+(c) assess the economic situation and prospects of Ukraine, as well as progress made in implementing the policy conditions referred to in Article 11(1).
+
+3\. By 30 June 2029, the Commission shall submit to the European Parliament and to the Council an evaluation report, assessing the results and efficiency of the Ukraine Support Loan provided under this Regulation and the extent to which it has contributed to the aims of the assistance.
+
+### Article 30
+
+Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+For those Member States which participate in enhanced cooperation by virtue of a decision adopted pursuant to Article 331(1) TFEU, second or third subparagraph, this Regulation shall apply from the date indicated in the decision concerned.
+
+This Regulation shall be binding in its entirety and directly applicable in the participating Member States in accordance with the Treaties.
+
+( ) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union (OJ L 79 I, 21.3.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/452/oj).
+
+( ) Regulation (EU) 2018/1092 of the European Parliament and of the Council of 18 July 2018 establishing the European Defence Industrial Development Programme aiming at supporting the competitiveness and innovation capacity of the Union’s defence industry (OJ L 200, 7.8.2018, p. 30, ELI: http://data.europa.eu/eli/reg/2018/1092/oj).
+
+( ) Regulation (EU) 2021/697 of the European Parliament and of the Council of 29 April 2021 establishing the European Defence Fund and repealing Regulation (EU) 2018/1092 (OJ L 170, 12.5.2021, p. 149, ELI: http://data.europa.eu/eli/reg/2021/697/oj).
+
+( ) Regulation (EU) 2023/1525 of the European Parliament and of the Council of 20 July 2023 on supporting ammunition production (ASAP) (OJ L 185, 24.7.2023, p. 7, ELI: http://data.europa.eu/eli/reg/2023/1525/oj).
+
+( ) Regulation (EU) 2023/2418 of the European Parliament and of the Council of 18 October 2023 on establishing an instrument for the reinforcement of the European defence industry through common procurement (EDIRPA) (OJ L, 2023/2418, 26.10.2023, ELI: http://data.europa.eu/eli/reg/2023/2418/oj).
+
+( ) Council Implementing Decision (EU) 2024/1447 of 14 May 2024 on the approval of the assessment of the Ukraine Plan (OJ L, 2024/1447, 24.5.2024, ELI: http://data.europa.eu/eli/dec_impl/2024/1447/oj).
+
+( ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53, ELI: http://data.europa.eu/eli/dec/2015/444/oj).

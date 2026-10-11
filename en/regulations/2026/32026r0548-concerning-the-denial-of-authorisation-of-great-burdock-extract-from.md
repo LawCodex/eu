@@ -1,0 +1,88 @@
+---
+title: "Commission Implementing Regulation (EU) 2026/548 of 13 March 2026 concerning the denial of authorisation of great burdock extract from Arctium lappa L. as a feed additive for cats and dogs"
+identifier: "32026R0548"
+eli: "http://data.europa.eu/eli/reg_impl/2026/548/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-03-13
+entry_into_force: 2026-10-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0548"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2026/548 of 13 March 2026 concerning the denial of authorisation of great burdock extract from Arctium lappa L. as a feed additive for cats and dogs
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2026/548**
+
+**of 13 March 2026**
+
+**concerning the denial of authorisation of great burdock extract from Arctium lappa L. as a feed additive for cats and dogs**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the grounds and procedures for granting or denying such authorisation. Article 10 of that Regulation provides for the re-evaluation of additives authorised pursuant to Council Directive 70/524/EEC (2).
+
+(2) The substance great burdock extract from Arctium lappa L. was authorised without a time limit in accordance with Directive 70/524/EEC as a feed additive for cats and dogs. This substance was subsequently entered in the Register of Feed Additives as existing product, in accordance with Article 10(1), point (b), of Regulation (EC) No 1831/2003.
+
+(3) In accordance with Article 10(2) of Regulation (EC) No 1831/2003, in conjunction with Article 7 thereof, an application was submitted for the authorisation of great burdock extract from Arctium lappa L. as a feed additive for cats and dogs, requesting the additive to be classified in the additive category ‘sensory additives’ and in the functional group ‘flavouring compounds’. The application was accompanied by the particulars and documents required under Article 7(3) of Regulation (EC) No 1831/2003.
+
+(4) As provided for by Article 5(1) of Regulation (EC) No 1831/2003, it is for the applicant for the authorisation of a feed additive to adequately and sufficiently demonstrate, in accordance with the implementing rules referred to in Article 7 of that Regulation, that the conditions for authorisation set out in Article 5(2) and (3) of that Regulation are satisfied.
+
+(5) The European Food Safety Authority (‘the Authority’) in its opinion of 17 March 2021 (3), could not conclude on the safety of great burdock extract from Arctium lappa L. for the user and for cats and dogs, since the applicant did not provide the full characterisation of the additive. In addition, the Authority was unable to conclude on the efﬁcacy of great burdock extract from Arctium lappa L. due to lack of convincing evidence.
+
+(6) By letter of 3 September 2021, the Commission gave the applicant the opportunity to submit supplementary information to address the inconclusive opinion of the Authority. In the absence of a reply, an email was sent to the applicant on 4 February 2025 informing about the intention to deny the authorisation. Despite several reminders, the applicant has not reacted on substance.
+
+(7) It derives from the Authority’s opinion of 17 March 2021 that the applicant has not adequately and sufficiently demonstrated that great burdock extract from Arctium lappa L. is safe under the proposed conditions of use, when used as feed additives for cats and dogs. In addition, it derives from the Authority’s opinion that the efficacy of great burdock extract from Arctium lappa L. has not been adequately and sufficiently demonstrated.
+
+(8) In view of the above, it cannot be considered that great burdock extract from Arctium lappa L. satisfies the conditions for authorisation provided for in Article 5 of Regulation (EC) No 1831/2003. Accordingly, the authorisation of this substance as a feed additive belonging to the additive category ‘sensory additives’ and in the functional group ‘flavouring compounds’ for use for cats and dogs should be denied.
+
+(9) Therefore, great burdock extract from Arctium lappa L. and feed containing it should be withdrawn from the market as soon as possible as far as the use for cats and dogs is concerned. However, a limited period should be allowed for the withdrawal from the market of the existing stocks of those products, in order to enable operators to comply properly with the withdrawal obligation.
+
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Denial of authorisation
+
+The authorisation of great burdock extract from Arctium lappa L. as additive in animal nutrition, belonging to the category ‘sensory additives’ and in the functional group ‘flavouring compounds’, for use for cats and dogs, is denied.
+
+## Article 2 — Withdrawal from the market
+
+1\. Existing stocks of the additive referred to in Article 1, which is intended for dogs and cats, and of premixtures containing it, which are intended for dogs and cats, shall be withdrawn from the market by 5 July 2026.
+
+2\. Feed materials and compound feed which have been produced with the additive or premixtures referred to in paragraph 1 before 5 July 2026, and which are intended for dogs and cats, shall be withdrawn from the market by 5 October 2026.
+
+## Article 3 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 March 2026.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 268, 18.10.2003, p. 29, ELI: http://data.europa.eu/eli/reg/2003/1831/oj.
+
+(2) Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs (OJ L 270, 14.12.1970, p. 1, ELI: http://data.europa.eu/eli/dir/1970/524/oj).
+
+(3) EFSA Journal 2021;19(4):6527, https://doi.org/10.2903/j.efsa.2021.6527.
+
+ELI: http://data.europa.eu/eli/reg_impl/2026/548/oj
+
+ISSN 1977-0677 (electronic edition)

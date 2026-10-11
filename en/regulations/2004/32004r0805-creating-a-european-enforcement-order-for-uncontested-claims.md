@@ -1,0 +1,428 @@
+---
+title: "Regulation (EC) No 805/2004 of the European Parliament and of the Council of 21 April 2004 creating a European Enforcement Order for uncontested claims"
+identifier: "32004R0805"
+eli: "http://data.europa.eu/eli/reg/2004/805/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-04-21
+entry_into_force: 2004-12-28
+last_amended: 2025-05-01
+consolidated_version: "02004R0805-20250501"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0805-20250501"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 805/2004 of the European Parliament and of the Council of 21 April 2004 creating a European Enforcement Order for uncontested claims
+
+**REGULATION (EC) No 805/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**creating a European Enforcement Order for uncontested claims**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1869/2005 of 16 November 2005 </td><td> L 300</td><td>6</td><td>17.11.2005</td></tr>
+<tr><td> M2</td><td> REGULATION (EC) No 1103/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 304</td><td>80</td><td>14.11.2008</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2040 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 275</td><td>30</td><td>25.10.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2844 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2844</td><td>1</td><td>27.12.2023</td></tr>
+</table>
+
+**REGULATION (EC) No 805/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**creating a European Enforcement Order for uncontested claims**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+The purpose of this Regulation is to create a European Enforcement Order for uncontested claims to permit, by laying down minimum standards, the free circulation of judgments, court settlements and authentic instruments throughout all Member States without any intermediate proceedings needing to be brought in the Member State of enforcement prior to recognition and enforcement.
+
+### Article 2 — Scope
+
+1\. This Regulation shall apply in civil and commercial matters, whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters or the liability of the State for acts and omissions in the exercise of State authority (‘acta iure imperii’).
+
+2\. This Regulation shall not apply to:
+
+(a) the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills and succession;
+
+(b) bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
+
+(c) social security;
+
+(d) arbitration.
+
+3\. In this Regulation, the term ‘Member State’ shall mean Member States with the exception of Denmark.
+
+### Article 3 — Enforcement titles to be certified as a European Enforcement Order
+
+1\. This Regulation shall apply to judgments, court settlements and authentic instruments on uncontested claims.
+
+A claim shall be regarded as uncontested if:
+
+(a) the debtor has expressly agreed to it by admission or by means of a settlement which has been approved by a court or concluded before a court in the course of proceedings; or
+
+(b) the debtor has never objected to it, in compliance with the relevant procedural requirements under the law of the Member State of origin, in the course of the court proceedings; or
+
+(c) the debtor has not appeared or been represented at a court hearing regarding that claim after having initially objected to the claim in the course of the court proceedings, provided that such conduct amounts to a tacit admission of the claim or of the facts alleged by the creditor under the law of the Member State of origin; or
+
+(d) the debtor has expressly agreed to it in an authentic instrument.
+
+2\. This Regulation shall also apply to decisions delivered following challenges to judgments, court settlements or authentic instruments certified as European Enforcement Orders.
+
+### Article 4 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1\. ‘judgment’: any judgment given by a court or tribunal of a Member State, whatever the judgment may be called, including a decree, order, decision or writ of execution, as well as the determination of costs or expenses by an officer of the court;
+
+2\. ‘claim’: a claim for payment of a specific sum of money that has fallen due or for which the due date is indicated in the judgment, court settlement or authentic instrument;
+
+3\. ‘authentic instrument’:
+
+(a) a document which has been formally drawn up or registered as an authentic instrument, and the authenticity of which:
+
+(i) relates to the signature and the content of the instrument; and
+
+(ii) has been established by a public authority or other authority empowered for that purpose by the Member State in which it originates;
+
+or
+
+b) an arrangement relating to maintenance obligations concluded with administrative authorities or authenticated by them;
+
+4\. ‘Member State of origin’: the Member State in which the judgment has been given, the court settlement has been approved or concluded or the authentic instrument has been drawn up or registered, and is to be certified as a European Enforcement Order;
+
+5\. ‘Member State of enforcement’: the Member State in which enforcement of the judgment, court settlement or authentic instrument certified as a European Enforcement Order is sought;
+
+6\. ‘court of origin’: the court or tribunal seised of the proceedings at the time of fulfilment of the conditions set out in Article 3(1)(a), (b) or (c);
+
+7\. in Sweden, in summary proceedings concerning orders to pay (betalningsföreläggande), the expression ‘court’ includes the Swedish enforcement service (kronofogdemyndighet).
+
+## CHAPTER II — EUROPEAN ENFORCEMENT ORDER
+
+### Article 5 — Abolition of exequatur
+
+A judgment which has been certified as a European Enforcement Order in the Member State of origin shall be recognised and enforced in the other Member States without the need for a declaration of enforceability and without any possibility of opposing its recognition.
+
+### Article 6 — Requirements for certification as a European Enforcement Order
+
+1\. A judgment on an uncontested claim delivered in a Member State shall, upon application at any time to the court of origin, be certified as a European Enforcement Order if:
+
+(a) the judgment is enforceable in the Member State of origin; and
+
+(b) the judgment does not conflict with the rules on jurisdiction as laid down in sections 3 and 6 of Chapter II of Regulation (EC) No 44/2001; and
+
+(c) the court proceedings in the Member State of origin met the requirements as set out in Chapter III where a claim is uncontested within the meaning of Article 3(1)(b) or (c); and
+
+(d) the judgment was given in the Member State of the debtor's domicile within the meaning of Article 59 of Regulation (EC) No 44/2001, in cases where
+
+— a claim is uncontested within the meaning of Article 3(1)(b) or (c); and
+
+— it relates to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside his trade or profession; and
+
+— the debtor is the consumer.
+
+2\. Where a judgment certified as a European Enforcement Order has ceased to be enforceable or its enforceability has been suspended or limited, a certificate indicating the lack or limitation of enforceability shall, upon application at any time to the court of origin, be issued, using the standard form in Annex IV.
+
+3\. Without prejudice to Article 12(2), where a decision has been delivered following a challenge to a judgment certified as a European Enforcement Order in accordance with paragraph 1 of this Article, a replacement certificate shall, upon application at any time, be issued, using the standard form in Annex V, if that decision on the challenge is enforceable in the Member State of origin.
+
+### Article 7 — Costs related to court proceedings
+
+Where a judgment includes an enforceable decision on the amount of costs related to the court proceedings, including the interest rates, it shall be certified as a European Enforcement Order also with regard to the costs unless the debtor has specifically objected to his obligation to bear such costs in the course of the court proceedings, in accordance with the law of the Member State of origin.
+
+### Article 8 — Partial European Enforcement Order certificate
+
+If only parts of the judgment meet the requirements of this Regulation, a partial European Enforcement Order certificate shall be issued for those parts.
+
+### Article 9 — Issue of the European Enforcement Order certificate
+
+1\. The European Enforcement Order certificate shall be issued using the standard form in Annex I.
+
+2\. The European Enforcement Order certificate shall be issued in the language of the judgment.
+
+### Article 10 — Rectification or withdrawal of the European Enforcement Order certificate
+
+1\. The European Enforcement Order certificate shall, upon application to the court of origin, be
+
+(a) rectified where, due to a material error, there is a discrepancy between the judgment and the certificate;
+
+(b) withdrawn where it was clearly wrongly granted, having regard to the requirements laid down in this Regulation.
+
+2\. The law of the Member State of origin shall apply to the rectification or withdrawal of the European Enforcement Order certificate.
+
+3\. An application for the rectification or withdrawal of a European Enforcement Order certificate may be made using the standard form in Annex VI.
+
+4\. No appeal shall lie against the issuing of a European Enforcement Order certificate.
+
+### Article 11 — Effect of the European Enforcement Order certificate
+
+The European Enforcement Order certificate shall take effect only within the limits of the enforceability of the judgment.
+
+## CHAPTER III — MINIMUM STANDARDS FOR UNCONTESTED CLAIMS PROCEDURES
+
+### Article 12 — Scope of application of minimum standards
+
+1\. A judgment on a claim that is uncontested within the meaning of Article 3(1)(b) or (c) can be certified as a European Enforcement Order only if the court proceedings in the Member State of origin met the procedural requirements as set out in this Chapter.
+
+2\. The same requirements shall apply to the issuing of a European Enforcement Order certificate or a replacement certificate within the meaning of Article 6(3) for a decision following a challenge to a judgment where, at the time of that decision, the conditions of Article 3(1)(b) or (c) are fulfilled.
+
+### Article 13 — Service with proof of receipt by the debtor
+
+1\. The document instituting the proceedings or an equivalent document may have been served on the debtor by one of the following methods:
+
+(a) personal service attested by an acknowledgement of receipt, including the date of receipt, which is signed by the debtor;
+
+(b) personal service attested by a document signed by the competent person who effected the service stating that the debtor has received the document or refused to receive it without any legal justification, and the date of the service;
+
+(c) postal service attested by an acknowledgement of receipt including the date of receipt, which is signed and returned by the debtor;
+
+(d) service by electronic means such as fax or e-mail, attested by an acknowledgement of receipt including the date of receipt, which is signed and returned by the debtor;
+
+(e) electronic means of service provided for in Articles 19 and 19a of Regulation (EU) 2020/1784 of the European Parliament and of the Council ( 1 ).
+
+2\. Any summons to a court hearing may have been served on the debtor in compliance with paragraph 1 or orally in a previous court hearing on the same claim and stated in the minutes of that previous court hearing.
+
+### Article 14 — Service without proof of receipt by the debtor
+
+1\. Service of the document instituting the proceedings or an equivalent document and any summons to a court hearing on the debtor may also have been effected by one of the following methods:
+
+(a) personal service at the debtor's personal address on persons who are living in the same household as the debtor or are employed there;
+
+(b) in the case of a self-employed debtor or a legal person, personal service at the debtor's business premises on persons who are employed by the debtor;
+
+(c) deposit of the document in the debtor's mailbox;
+
+(d) deposit of the document at a post office or with competent public authorities and the placing in the debtor's mailbox of written notification of that deposit, provided that the written notification clearly states the character of the document as a court document or the legal effect of the notification as effecting service and setting in motion the running of time for the purposes of time limits;
+
+(e) postal service without proof pursuant to paragraph 3 where the debtor has his address in the Member State of origin;
+
+(f) electronic means attested by an automatic confirmation of delivery, provided that the debtor has expressly accepted this method of service in advance.
+
+2\. For the purposes of this Regulation, service under paragraph 1 is not admissible if the debtor's address is not known with certainty.
+
+3\. Service pursuant to paragraph 1, (a) to (d), shall be attested by:
+
+(a) a document signed by the competent person who effected the service, indicating:
+
+(i) the method of service used; and
+
+(ii) the date of service; and
+
+(iii) where the document has been served on a person other than the debtor, the name of that person and his relation to the debtor,
+
+or
+
+b) an acknowledgement of receipt by the person served, for the purposes of paragraphs 1(a) and (b).
+
+### Article 15 — Service on the debtor's representatives
+
+Service pursuant to Articles 13 or 14 may also have been effected on a debtor's representative.
+
+### Article 16 — Provision to the debtor of due information about the claim
+
+In order to ensure that the debtor was provided with due information about the claim, the document instituting the proceedings or the equivalent document must have contained the following:
+
+(a) the names and the addresses of the parties;
+
+(b) the amount of the claim;
+
+(c) if interest on the claim is sought, the interest rate and the period for which interest is sought unless statutory interest is automatically added to the principal under the law of the Member State of origin;
+
+(d) a statement of the reason for the claim.
+
+### Article 17 — Provision to the debtor of due information about the procedural steps necessary to contest the claim
+
+The following must have been clearly stated in or together with the document instituting the proceedings, the equivalent document or any summons to a court hearing:
+
+(a) the procedural requirements for contesting the claim, including the time limit for contesting the claim in writing or the time for the court hearing, as applicable, the name and the address of the institution to which to respond or before which to appear, as applicable, and whether it is mandatory to be represented by a lawyer;
+
+(b) the consequences of an absence of objection or default of appearance, in particular, where applicable, the possibility that a judgment may be given or enforced against the debtor and the liability for costs related to the court proceedings.
+
+### Article 18 — Cure of non-compliance with minimum standards
+
+1\. If the proceedings in the Member State of origin did not meet the procedural requirements as set out in Articles 13 to 17, such non-compliance shall be cured and a judgment may be certified as a European Enforcement Order if:
+
+(a) the judgment has been served on the debtor in compliance with the requirements pursuant to Article 13 or Article 14; and
+
+(b) it was possible for the debtor to challenge the judgment by means of a full review and the debtor has been duly informed in or together with the judgment about the procedural requirements for such a challenge, including the name and address of the institution with which it must be lodged and, where applicable, the time limit for so doing; and
+
+(c) the debtor has failed to challenge the judgment in compliance with the relevant procedural requirements.
+
+2\. If the proceedings in the Member State of origin did not comply with the procedural requirements as set out in Article 13 or Article 14, such non-compliance shall be cured if it is proved by the conduct of the debtor in the court proceedings that he has personally received the document to be served in sufficient time to arrange for his defence.
+
+### Article 19 — Minimum standards for review in exceptional cases
+
+1\. Further to Articles 13 to 18, a judgment can only be certified as a European Enforcement Order if the debtor is entitled, under the law of the Member State of origin, to apply for a review of the judgment where:
+
+(a)
+
+(i) the document instituting the proceedings or an equivalent document or, where applicable, the summons to a court hearing, was served by one of the methods provided for in Article 14; and
+
+(ii) service was not effected in sufficient time to enable him to arrange for his defence, without any fault on his part;
+
+or
+
+(b) the debtor was prevented from objecting to the claim by reason of force majeure, or due to extraordinary circumstances without any fault on his part,
+
+provided in either case that he acts promptly.
+
+2\. This Article is without prejudice to the possibility for Member States to grant access to a review of the judgment under more generous conditions than those mentioned in paragraph 1.
+
+## CHAPTER IV — ENFORCEMENT
+
+### Article 20 — Enforcement procedure
+
+1\. Without prejudice to the provisions of this Chapter, the enforcement procedures shall be governed by the law of the Member State of enforcement.
+
+A judgment certified as a European Enforcement Order shall be enforced under the same conditions as a judgment handed down in the Member State of enforcement.
+
+2\. The creditor shall be required to provide the competent enforcement authorities of the Member State of enforcement with:
+
+(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity; and
+
+(b) a copy of the European Enforcement Order certificate which satisfies the conditions necessary to establish its authenticity; and
+
+(c) where necessary, a transcription of the European Enforcement Order certificate or a translation thereof into the official language of the Member State of enforcement or, if there are several official languages in that Member State, the official language or one of the official languages of court proceedings of the place where enforcement is sought, in conformity with the law of that Member State, or into another language that the Member State of enforcement has indicated it can accept. Each Member State may indicate the official language or languages of the institutions of the European Community other than its own which it can accept for the completion of the certificate. The translation shall be certified by a person qualified to do so in one of the Member States.
+
+3\. No security, bond or deposit, however described, shall be required of a party who in one Member State applies for enforcement of a judgment certified as a European Enforcement Order in another Member State on the ground that he is a foreign national or that he is not domiciled or resident in the Member State of enforcement.
+
+### Article 21 — Refusal of enforcement
+
+1\. Enforcement shall, upon application by the debtor, be refused by the competent court in the Member State of enforcement if the judgment certified as a European Enforcement Order is irreconcilable with an earlier judgment given in any Member State or in a third country, provided that:
+
+(a) the earlier judgment involved the same cause of action and was between the same parties; and
+
+(b) the earlier judgment was given in the Member State of enforcement or fulfils the conditions necessary for its recognition in the Member State of enforcement; and
+
+(c) the irreconcilability was not and could not have been raised as an objection in the court proceedings in the Member State of origin.
+
+2\. Under no circumstances may the judgment or its certification as a European Enforcement Order be reviewed as to their substance in the Member State of enforcement.
+
+### Article 22 — Agreements with third countries
+
+This Regulation shall not affect agreements by which Member States undertook, prior to the entry into force of Regulation (EC) No 44/2001, pursuant to Article 59 of the Brussels Convention on jurisdiction and the enforcement of judgments in civil and commercial matters, not to recognise judgments given, in particular in other Contracting States to that Convention, against defendants domiciled or habitually resident in a third country where, in cases provided for in Article 4 of that Convention, the judgment could only be founded on a ground of jurisdiction specified in the second paragraph of Article 3 of that Convention.
+
+### Article 23 — Stay or limitation of enforcement
+
+Where the debtor has
+
+— challenged a judgment certified as a European Enforcement Order, including an application for review within the meaning of Article 19, or
+
+— applied for the rectification or withdrawal of a European Enforcement Order certificate in accordance with Article 10,
+
+the competent court or authority in the Member State of enforcement may, upon application by the debtor:
+
+(a) limit the enforcement proceedings to protective measures; or
+
+(b) make enforcement conditional on the provision of such security as it shall determine; or
+
+(c) under exceptional circumstances, stay the enforcement proceedings.
+
+## CHAPTER V — COURT SETTLEMENTS AND AUTHENTIC INSTRUMENTS
+
+### Article 24 — Court settlements
+
+1\. A settlement concerning a claim within the meaning of Article 4(2) which has been approved by a court or concluded before a court in the course of proceedings and is enforceable in the Member State in which it was approved or concluded shall, upon application to the court that approved it or before which it was concluded, be certified as a European Enforcement Order using the standard form in Annex II.
+
+2\. A settlement which has been certified as a European Enforcement Order in the Member State of origin shall be enforced in the other Member States without the need for a declaration of enforceability and without any possibility of opposing its enforceability.
+
+3\. The provisions of Chapter II, with the exception of Articles 5, 6(1) and 9(1), and of Chapter IV, with the exception of Articles 21(1) and 22, shall apply as appropriate.
+
+### Article 25 — Authentic instruments
+
+1\. An authentic instrument concerning a claim within the meaning of Article 4(2) which is enforceable in one Member State shall, upon application to the authority designated by the Member State of origin, be certified as a European Enforcement Order, using the standard form in Annex III.
+
+2\. An authentic instrument which has been certified as a European Enforcement Order in the Member State of origin shall be enforced in the other Member States without the need for a declaration of enforceability and without any possibility of opposing its enforceability.
+
+3\. The provisions of Chapter II, with the exception of Articles 5, 6(1) and 9(1), and of Chapter IV, with the exception of Articles 21(1) and 22, shall apply as appropriate.
+
+## CHAPTER VI — TRANSITIONAL PROVISION
+
+### Article 26 — Transitional provision
+
+This Regulation shall apply only to judgments given, to court settlements approved or concluded and to documents formally drawn up or registered as authentic instruments after the entry into force of this Regulation.
+
+## CHAPTER VII — RELATIONSHIP WITH OTHER COMMUNITY INSTRUMENTS
+
+### Article 27 — Relationship with Regulation (EC) No 44/2001
+
+This Regulation shall not affect the possibility of seeking recognition and enforcement, in accordance with Regulation (EC) No 44/2001, of a judgment, a court settlement or an authentic instrument on an uncontested claim.
+
+### Article 28 — Relationship with Regulation (EC) No 1348/2000
+
+This Regulation shall not affect the application of Regulation (EC) No 1348/2000.
+
+## CHAPTER VIII — GENERAL AND FINAL PROVISIONS
+
+### Article 29 — Information on enforcement procedures and authorities
+
+The Member States shall cooperate to provide the general public and professional circles with information on:
+
+(a) the methods and procedures of enforcement in the Member States; and
+
+(b) the competent authorities for enforcement in the Member States,
+
+in particular via the European Judicial Network in civil and commercial matters established in accordance with Decision 2001/470/EC ( 2 ).
+
+### Article 30 — Information relating to redress procedures, languages and authorities
+
+1\. The Member States shall notify the Commission of:
+
+(a) the procedures for rectification and withdrawal referred to in Article 10(2) and for review referred to in Article 19(1);
+
+(b) the languages accepted pursuant to Article 20(2)(c);
+
+(c) the lists of the authorities referred to in Article 25;
+
+and any subsequent changes thereof.
+
+2\. The Commission shall make the information notified in accordance with paragraph 1 publicly available through publication in the Official Journal of the European Union and through any other appropriate means.
+
+### Article 31 — Amendments to the Annexes
+
+The Commission is empowered to adopt delegated acts in accordance with Article 31a to amend the Annexes, in order to update the standard forms.
+
+### Article 31a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 31 shall be conferred on the Commission for a period of five years from 26 October 2022. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 31 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 3 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 31 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on 21 January 2005.
+
+It shall apply from 21 October 2005, with the exception of Articles 30, 31 and 32, which shall apply from 21 January 2005.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.
+
+## ANNEX I
+
+## ANNEX II
+
+## ANNEX III
+
+## ANNEX IV
+
+## ANNEX V
+
+## ANNEX VI
+
+( 1 ) Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (OJ L 405, 2.12.2020, p. 40).
+
+( 2 ) OJ L 174, 27.6.2001, p. 25.
+
+( 3 ) OJ L 123, 12.5.2016, p. 1.

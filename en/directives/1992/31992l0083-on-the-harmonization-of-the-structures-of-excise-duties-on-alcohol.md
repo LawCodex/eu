@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the harmonization of the structures of excise duties on alcohol and alcoholic beverages**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2020/1151 of 29 July 2020 </td><td> L 256</td><td>1</td><td>5.8.2020</td></tr>
+</table>
 
 | A1 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
 | --- | --- | --- | --- | --- |

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **setting out the schedules indicating the conditions to be met by vegetable propagating and planting material, other than seed pursuant to Council Directive 92/33/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2024/3010 of 29 November 2024 </td><td> L 3010</td><td>1</td><td>4.12.2024</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 93/61/EEC**
 
@@ -111,6 +113,7 @@ This Directive is addressed to the Member States.
 
 **RNQPs concerning vegetable propagating and planting material**
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Vegetable propagating and planting material (genus or species)</td><td>Threshold for the presence of RNQPs on the vegetable propagating and planting material</td></tr>
 <tr><td>Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. [CORBMI]</td><td>Solanum lycopersicum L.</td><td>0 %</td></tr>
@@ -138,6 +141,7 @@ This Directive is addressed to the Member States.
 <tr><td>Tomato spotted wilt tospovirus [TSWV00]</td><td>Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L.</td><td>0 %</td></tr>
 <tr><td>Tomato yellow leaf curl virus [TYLCV0]</td><td>Solanum lycopersicum L.</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 ( ) OJ No L 26, 31. 1. 1977, p. 20.
 

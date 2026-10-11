@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(91/674/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2003/51/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 18 June 2003</td><td> L 178</td><td>16</td><td>17.7.2003</td></tr>
 <tr><td></td><td>DIRECTIVE 2006/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 14 June 2006</td><td> L 224</td><td>1</td><td>16.8.2006</td></tr>
+</table>
 
 NB: This consolidated version contains references to the European unit of accout and/or the ecu, which from 1 January 1999 should be understood as references to the euro — Council Regulation (EEC) No 3308/80 (OJ L 345, 20.12.1980, p. 1) and Coundil Regulation (EC) No 1103/97 (OJ L 162, 19.6.1997, p. 1).
 
@@ -253,6 +255,7 @@ III. Other prepayments and accrued income.
 
 Liabilities
 
+<table>
 <tbody><tr><td colspan="3">A. Capital and reserves I. Subscribed capital or equivalent funds  (unless national law requires called-up capital to be shown under this item. In that case, the amounts of subscribed capital and paid-up capital must be shown separately).  II. Share premium account.  III. Revaluation reserve.  IV. Reserve.  V. Profit or loss brought forward.  VI. Profit or loss for the financial year  (unless national law requires it to be shown as an asset under H or as a liability under I). </td></tr>
 <tr><td>B. Subordinated liabilities</td><td></td><td></td></tr>
 <tr><td>C. Technical provisions</td><td></td><td></td></tr>
@@ -282,6 +285,7 @@ Liabilities
 <tr><td>(b)reinsurance amount (-)</td><td>…</td><td></td></tr>
 <tr><td></td><td></td><td>…</td></tr>
 </tbody>
+</table>
 
 **E. Other provisions**
 
@@ -575,6 +579,7 @@ Where an undertaking ceding reinsurance has received as a deposit securities whi
 
 ### Article 34 — Profit and loss account
 
+<table>
 <tbody><tr><td colspan="4">I. Technical account — Non-life-insurance business</td></tr>
 <tr><td>1.Earned premiums, net of reinsurance:</td><td></td><td></td><td></td></tr>
 <tr><td>(a)gross premiums written</td><td>…</td><td></td><td></td></tr>
@@ -667,6 +672,7 @@ Where an undertaking ceding reinsurance has received as a deposit securities whi
 <tr><td>15.Other taxes not shown under the preceding items</td><td></td><td></td><td>…</td></tr>
 <tr><td>16.Profit or loss for the financial year</td><td></td><td></td><td>…</td></tr>
 </tbody>
+</table>
 
 ## SECTION 6 — Special provisions relating to certain profit-and-loss-account items
 

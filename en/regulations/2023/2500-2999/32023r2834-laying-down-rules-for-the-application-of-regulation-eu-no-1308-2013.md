@@ -1,0 +1,1310 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/2834 of 10 October 2023 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards imports in the sectors of rice, cereals, sugar and hops"
+identifier: "32023R2834"
+eli: "http://data.europa.eu/eli/reg_impl/2023/2834/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-10-10
+entry_into_force: 2024-01-11
+last_amended: 2026-04-01
+consolidated_version: "02023R2834-20260401"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R2834-20260401"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/2834 of 10 October 2023 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards imports in the sectors of rice, cereals, sugar and hops
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/2834**
+
+**of 10 October 2023**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards imports in the sectors of rice, cereals, sugar, hops, poultrymeat and eggs, and egg albumin**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1835 of 27 June 2024 </td><td> L 1835</td><td>1</td><td>28.6.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1271 of 6 May 2025 </td><td> L 1271</td><td>1</td><td>10.7.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/524 of 11 March 2026 </td><td> L 524</td><td>1</td><td>12.3.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/525 of 11 March 2026 </td><td> L 525</td><td>1</td><td>12.3.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/2834**
+
+**of 10 October 2023**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards imports in the sectors of rice, cereals, sugar, hops, poultrymeat and eggs, and egg albumin**
+
+## CHAPTER 1 — RICE
+
+### SECTION 1 — Conversion rates for rice
+
+#### Article 1 — Conversion rates
+
+1\. The conversion rate between husked rice and paddy rice shall be as follows:
+
+Husked rice Paddy rice
+
+1 1,25
+
+2\. The conversion rate between husked rice and milled rice shall be as follows:
+
+|  | Husked rice | Milled rice |
+| --- | --- | --- |
+| Round-grained rice | 1 | 0,775 |
+| Medium-grained or long-grained rice | 1 | 0,69 |
+| Other rice | 1 | 0,7325 |
+
+3\. The conversion rate between milled rice and semi-milled rice shall be as follows:
+
+|  | Milled rice | Semi-milled rice |
+| --- | --- | --- |
+| Round-grained rice | 1 | 1,065 |
+| Medium-grained or long-grained rice | 1 | 1,072 |
+| Other rice | 1 | 1,06849 |
+
+#### Article 2 — Processing costs
+
+1\. The processing costs to be taken into consideration when paddy rice is converted into husked rice shall be EUR 47,13 per tonne of paddy rice.
+
+2\. The processing costs to be taken into consideration when husked rice is converted into milled rice shall be EUR 47,13 per tonne of husked rice.
+
+3\. The processing costs for converting semi-milled rice into milled rice shall not be taken into consideration.
+
+#### Article 3 — Value of the by-products
+
+1\. The value of the by-products obtained from processing paddy rice into husked rice shall be considered to be zero.
+
+2\. The value of the by-products obtained from processing husked rice into milled rice shall be:
+
+(a) EUR 41,00 per tonne of husked round grain rice;
+
+(b) EUR 52,00 per tonne of husked medium-grained or long-grained rice.
+
+3\. The value of the by-products obtained from processing semi-milled rice into milled rice shall be:
+
+(a) EUR 12,62 per tonne of semi-milled round grain rice;
+
+(b) EUR 14,05 per tonne of semi-milled medium-grained or long-grained rice.
+
+#### Article 4 — Value conversion
+
+1\. The conversion of the value of a quantity of husked rice into the value of the same quantity of rice at another stage of processing shall be done on the basis of husked rice containing 3 % broken rice. If the husked rice contains more than 3 % broken rice, the conversion shall be done after an adjustment is made on the basis of a value of EUR 110 per tonne of broken rice.
+
+2\. The conversion of the value of a quantity of semi-milled rice or milled rice into the value of the same quantity of rice at another stage of processing shall be done on the basis of semi-milled or milled rice containing no broken rice. If any semi-milled or milled rice contains broken rice, the conversion shall be done after an adjustment is made on the basis of a value of EUR 150 per tonne of broken rice.
+
+3\. The adjustments provided for in paragraphs 1 and 2 shall not be effected when the prices of husked rice and the prices of semi-milled or milled rice taken into consideration for fixing the levies are lower than:
+
+(a) EUR 110 per tonne of husked rice;
+
+(b) EUR 150 per tonne of semi-milled or milled rice.
+
+#### Article 5 — Value conversion
+
+1\. The conversion of the value of a quantity of husked rice into the value of the same quantity of paddy rice shall be done by:
+
+(a) dividing the value to be converted by the rate fixed in Article 1(1) for paddy rice; and
+
+(b) reducing the amount thus obtained by the processing costs fixed in Article 2(1).
+
+The conversion of the value of a quantity of paddy rice into the value of the same quantity of husked rice shall be done by:
+
+(a) increasing the value to be converted by the processing costs fixed in Article 2(1); and
+
+(b) multiplying the amount thus obtained by the rate fixed in Article 1(1) for paddy rice.
+
+2\. The conversion of the value of a quantity of husked rice into the value of the same quantity of milled rice shall be done by:
+
+(a) increasing the value to be converted by the processing costs fixed in Article 2(2);
+
+(b) reducing the value to be converted by the value of the by-products fixed in Article 3(2); and
+
+(c) dividing the amount thus obtained by the rate fixed in Article 1(2) for milled rice.
+
+The conversion of the value of a quantity of milled rice into the value of the same quantity of husked rice shall be done by:
+
+(a) multiplying the value to be converted by the rate fixed in Article 1(2) for milled rice;
+
+(b) reducing the amount thus obtained by the processing costs fixed in Article 2(2); and
+
+(c) increasing the amount thus obtained by the value of the by-products fixed in Article 3(2).
+
+3\. The conversion of the value of a quantity of milled rice into the value of the same quantity of semi-milled rice shall be done by:
+
+(a) dividing the value to be converted by the rate fixed in Article 1(3) for semi-milled rice; and
+
+(b) increasing the amount thus obtained by the value of the by-products fixed in Article 3(3).
+
+The conversion of the value of a quantity of semi-milled rice into the value of the same quantity of milled rice shall be done by:
+
+(a) reducing the value to be converted by the value of the by-products fixed in Article 3(3); and
+
+(b) multiplying the amount thus obtained by the rate fixed in Article 1(3) for semi-milled rice of the group in question.
+
+#### Article 6 — Quantity conversion
+
+1\. The conversion of a quantity of husked rice into a corresponding quantity of paddy rice or milled rice shall be done by multiplying the quantity to be converted by the rate fixed in Article 1(1) for paddy rice, or by the rate fixed in Article 1(2) for milled rice, as the case may be.
+
+The conversion of a quantity of paddy rice or milled rice into a corresponding quantity of husked rice shall be done by dividing the quantity to be converted by the rate fixed in Article 1(1) for paddy rice or by the rate fixed in Article 1(2) for milled rice, as the case may be.
+
+2\. The conversion of a quantity of milled rice into a corresponding quantity of semi-milled rice shall be done by multiplying the quantity to be converted by the rate fixed in Article 1(3) for semi-milled rice.
+
+The conversion of a quantity of semi-milled rice into a corresponding quantity of milled rice shall be done by dividing the quantity to be converted by the rate fixed in Article 1(3) for semi-milled rice.
+
+### SECTION 2 — Special rules for imports of Basmati rice
+
+#### Article 7 — Applicable rules
+
+Implementing Regulation (EU) 2016/1239 shall apply, unless otherwise provided for in this Regulation.
+
+#### Article 8 — Import licences applications
+
+1\. Import licence applications for Basmati rice as referred to in Article 176(1) of Regulation (EU) No 1308/2013 shall contain the following details:
+
+(a) in box 8, indication of the country of origin and the word ‘yes’ marked with a cross;
+
+(b) in box 20, one of the entries listed in Annex I.
+
+2\. Import licence applications for Basmati rice as referred to in Article 176(1) of Regulation (EU) No 1308/2013 for licences issued in accordance with Annex I.1 to Implementing Regulation (EU) 2016/1239 shall contain the following details:
+
+(a) the ISO 3166-1 alpha-2 code of the country of origin in Section ‘Country of origin’ or, alternatively, the full name of the country of origin;
+
+(b) the code BA01 in Section ‘Special particulars/special conditions’, or, alternatively, the corresponding entry laid down in point (p) of Part A.1 of Annex I.1 to Implementing Regulation (EU) 2016/1239.
+
+#### Article 9 — Authenticity certificate
+
+1\. The authenticity certificate referred to in Article 4 of Delegated Regulation (EU) 2023/2835 shall be drawn up on a form in accordance with the specimen set out in Annex II to this Regulation.
+
+The text of the form in the other Union languages shall be published in the C series of the Official Journal of the European Union.
+
+The authenticity certificates may be stored and made available in the electronic system ELAN to be set up by the Commission.
+
+2\. The licence issuing authority issuing the import licence shall keep the original of the authenticity certificate and give the applicant a duplicate.
+
+The authenticity certificate shall be valid for 90 days from the date of issue.
+
+It shall be valid only if the boxes are duly completed and it is signed.
+
+3\. In accordance with Article 72c of Commission Implementing Regulation (EU) 2020/761 ( 1 ), as of 17 January 2028 authenticity certificates shall be issued in ELAN in accordance with Annex XIV.8 to that Implementing Regulation and indicate the document subtype ‘Authenticity certificate’.
+
+4\. The transitional rules laid down in Articles 72a to 72d of Implementing Regulation (EU) 2020/761 shall apply to the authenticity certificates referred to in this Article.
+
+#### Article 10 — Import licences
+
+1\. Import licences for Basmati rice shall contain the following details:
+
+(a) in box 8, indication of the country of origin and the word ‘yes’ marked with a cross;
+
+(b) in box 20, one of the entries set out in Annex III.
+
+1a. Import licences for Basmati rice issued in accordance with Annex I.1 to Implementing Regulation (EU) 2016/1239 shall contain the following details:
+
+(a) the ISO 3166-1 alpha-2 code of the country of origin in Section ‘Country of origin’;
+
+(b) the code BA01 in Section ‘Special particulars/special conditions’, with the corresponding entry laid down in point (p) of Part A.1 of Annex I.1 to Implementing Regulation (EU) 2016/1239.
+
+2\. The duplicate of the authenticity certificate referred to in Article 9(2) shall be annexed to the import licence. If the licence is issued as an electronic document, the authority issuing the licence may transfer the duplicate of the authenticity certificate to the customs authorities by electronic means.
+
+3\. By derogation from Article 5(1) of Implementing Regulation (EU) 2016/1239, the security relating to import licences for Basmati rice shall be EUR 70 per tonne.
+
+#### Article 11 — Tolerance on quantity
+
+In accordance with Article 5(5), first subparagraph, of Delegated Regulation (EU) 2016/1237, the tolerance on quantity shall be 0 %.
+
+#### Article 12 — Notification of quantities
+
+Member States shall notify the Commission:
+
+(a) no later than 2 working days following a refusal, of the quantities in respect of which applications for import licences for Basmati rice have been refused, with an indication of the date of refusal and the grounds, the CN code, the country of origin, the issuing body and the number of the authenticity certificate, as well as the holder’s name and address;
+
+(b) no later than 2 working days following their issue, of the quantities in respect of which applications for import licences for Basmati rice have been issued, with an indication of the date, the CN code, the country of origin, the issuing body and the number of the authenticity certificate, as well as the holder’s name and address;
+
+(c) in the event of the cancellation of a licence, no later than 2 working days after cancellation, of the quantities in respect of which licences have been cancelled and the names and addresses of the holders of the cancelled licences;
+
+(d) on the last working day of each month following the month of release for free circulation, of the quantities actually released for free circulation, with an indication of the CN code, the country of origin, the issuing body and the number of the authenticity certificate.
+
+The notifications shall be made in accordance with Commission Delegated Regulation (EU) 2017/1183 ( 2 ) and Commission Implementing Regulation (EU) 2017/1185 ( 3 ).
+
+#### Article 13 — Sample checks of imported Basmati rice
+
+1\. In the context of random checks or checks targeted at operations entailing a risk of fraud, Member States shall take representative samples of imported Basmati rice in accordance with Article 238 of Commission Implementing Regulation (EU) 2015/2447 ( 4 ). The samples shall be sent to the competent body in the country of origin, as made public by the Commission on its website, for a DNA-based variety test.
+
+The Member States may also carry out variety tests on the same sample in an Union laboratory.
+
+2\. If the results of one of the tests referred to in paragraph 1 show that the product analysed does not correspond to what is indicated on the authenticity certificate, the import duty on husked rice falling within CN code 1006 20 , provided for by the Agreement in the form of an Exchange of Letters between the European Community and the United States relating to the method of calculation of applied duties for husked rice, approved by Council Decision 2005/476/EC ( 5 ), shall apply.
+
+However, the presence up to 5 % of husked rice falling within CN code 1006 20 17 or CN code 1006 20 98 not corresponding to any of the varieties listed in Article 2(1) of Delegated Regulation (EU) 2023/2835 shall be accepted.
+
+3\. If the tests referred to in paragraph 1 or other information available to the Commission indicate a serious and lasting problem as regards the control procedures applied by a competent body in the country of origin, the Commission may contact the competent authorities in the country concerned. If such contacts fail to yield a satisfactory solution, the Commission may decide to apply the rate of import duty for husked rice falling within CN code 1006 20 , provided for by the Agreement in the form of an Exchange of Letters between the European Community and the United States of America relating to the method of calculation of applied duties for husked rice, approved by Decision 2005/476/EC and under the conditions laid down in this Regulation and in Delegated Regulation (EU) 2023/2835.
+
+#### Article 14 — Market disturbances
+
+1\. The rice market shall be considered to be disturbed when, inter alia, a substantial increase in Basmati rice imports is noted for one quarter of the year as compared to the previous quarter and there is no satisfactory explanation.
+
+2\. If a disturbance of the rice market persists and if the Commission’s consultations of the exporting countries concerned fail to yield a satisfactory solution, the import duty on husked rice falling within CN code 1006 20 , provided for by the Agreement in the form of an Exchange of Letters between the European Community and the United States of America relating to the method of calculation of applied duties for husked rice, approved by Decision 2005/476/EC, may also be applied to imports of Basmati rice, by a Commission decision, subject to the conditions laid down in Section 2 of Chapter 1 of this Regulation and in Section 2 of Delegated Regulation (EU) 2023/2835.
+
+## CHAPTER 2 — CEREALS
+
+### SECTION 1 — Import duties on cereals
+
+#### Article 15 — Import duties
+
+1\. By way of derogation to the rates of import duty in the Common Customs Tariff, the import duty on cereal products falling within CN codes 1001 11 00 , 1001 19 00 , ex 1001 91 20 (common wheat seed), ex 1001 99 00 (high-quality common wheat other than seed), 1002 10 00 , 1002 90 00 , 1005 10 90 , 1005 90 00 , 1007 10 90 and 1007 90 00 shall be equal to the intervention price on importation, increased by 55 %, minus the CIF import price determined in accordance with Article 16(1) applicable to the consignment in question. However, that import duty may not exceed the conventional rate of duty as determined on the basis of the Combined Nomenclature. This paragraph is not applicable to cereal products originating in or exported directly or indirectly from Belarus and Russia for which the rates of import duty in the Common Customs Tariff apply.
+
+2\. For the purpose of calculating the import duty referred to in paragraph 1, representative CIF import prices shall be established on a regular basis for the products referred to in that paragraph.
+
+3\. The Common Customs Tariff duty rates referred to in paragraph 1 shall be those applicable on the date referred to in Article 172(2) of Regulation (EU) No 952/2013.
+
+#### Article 16 — Fixing of import duties
+
+1\. The Commission shall calculate on a daily basis the import duty referred to in Article 15(1).
+
+The intervention price to be used for the calculation of import duty shall be EUR 101,31 per tonne.
+
+The CIF import price for the calculation of the import duty shall be the daily CIF representative import price determined by using the method provided for in Article 19.
+
+2\. The import duty for the cereal products referred to in Article 15(1) fixed by the Commission shall be fixed equal to the average of the import duties calculated during the previous 10 working days.
+
+The Commission shall fix the import duty if the average of the import duties calculated during the previous 10 working days differs by more than EUR 5 per tonne compared to the duty that is in force, including when the import duty is zero.
+
+The amount of the fixed import duty and the factors used for their calculation shall be published in the Official Journal of the European Union. Between the fixing of two duties, the Commission shall publish the factors taken into account for the calculation on the Commission’s website.
+
+The import duty fixed shall apply from the date of publication and until a new import duty is fixed and enters into force.
+
+3\. Where the port of unloading in the Union is located:
+
+(a) on the Mediterranean (beyond the Strait of Gibraltar) or on the Black Sea and where the goods arrive through the Atlantic Ocean or the Suez Canal, the Commission shall reduce the import duty by EUR 3 per tonne;
+
+(b) on the Atlantic coast of the Iberian Peninsula, in Ireland, in Denmark, in Estonia, in Latvia, in Lithuania, in Poland, in Finland and in Sweden and where the goods arrive through the Atlantic Ocean, the Commission shall reduce the import duty by EUR 2 per tonne.
+
+The customs authority at the port of unloading shall issue a document of unloading in accordance with the model set out in Annex IV attesting the quantity of each product unloaded. For the import duty reduction provided for in the first subparagraph to be granted, the document of unloading shall accompany the goods until completion of the customs import formalities.
+
+The above document may be stored and made available in the electronic system ELAN to be set up by the Commission.
+
+4\. With regard to cereal products originating in Canada and falling within CN codes 1001 11 00 , 1001 19 00 , ex 1001 99 00 (high quality common wheat other than seed), 1002 10 00 and 1002 90 00 , the import duty shall be equal to a percentage of the duty fixed in accordance with paragraph 2 and, if appropriate, paragraph 3. The percentage to be applied is set out in Annex V. The import duty shall be rounded down at least to the nearest EUR 0,001.
+
+#### Article 17 — Flint maize
+
+1\. Import duties shall be reduced by EUR 24 per tonne on flint maize meeting the specifications laid down in Annex VI.
+
+2\. In order to benefit from the reduction provided for in paragraph 1, flint maize shall be processed into a product of CN codes 1904 10 10 , 1103 13 or 1104 23 within 6 months from the date of acceptance of entry for free circulation in the Union.
+
+3\. The provisions on the end-use of imported products from Article 254(1), (4) and (5) of Regulation (EU) No 952/2013 shall apply accordingly.
+
+4\. The guarantee referred to in Article 6 of Delegated Regulation (EU) 2023/2835 shall be EUR 24 per tonne.
+
+If, however, the import duty applicable on the date of the acceptance of the declaration of release for free circulation in the Union is less than EUR 24 per tonne of maize, the specific guarantee shall be equal to the amount of the import duty.
+
+#### Article 18 — Quality standards for common wheat, durum wheat, and flint maize
+
+The product quality classification standards to be met on importation into the Union, and the tolerances acceptable in the analysis applied towards this classification, shall be those set out in Annex VI.
+
+#### Article 19 — Determination of representative CIF import prices for high quality common wheat and maize other than seed
+
+1\. For high quality common wheat and maize other than seed falling within the CN codes referred to in Article 15(1), the components determining the CIF representative import prices referred to in Article 15(2) shall be:
+
+(a) the representative exchange quotation on the market of the United States;
+
+(b) the known commercial premiums and discounts attached to that quotation in the United States market on the quotation day;
+
+(c) sea freight and associated costs between the United States (Gulf of Mexico or Duluth) and the port of Rotterdam for a vessel of at least 25 000 tonnes.
+
+2\. The Commission shall record each working day:
+
+(a) the component referred to in paragraph 1, point (a), from the exchanges and using the reference varieties laid down in Annex VII;
+
+(b) the components referred to in paragraph 1, points (b) and (c), from publicly available information.
+
+3\. With a view to calculating the component referred to in paragraph 1, point (b), or the relevant free on board quotation, a premium of EUR 14 per tonne of high quality common wheat shall apply.
+
+4\. The representative CIF import prices for high quality common wheat and maize other than seed shall be the sum of the components referred to in paragraph 1.
+
+The representative CIF import prices for high quality durum wheat, durum wheat seed and common wheat seed shall be the price calculated for high quality common wheat.
+
+The representative CIF import price for medium quality durum wheat and low quality durum wheat shall be the price calculated for high quality common wheat, to which a discount of EUR 10 per tonne shall apply for medium quality durum wheat, and a discount of EUR 30 per tonne for low quality durum wheat.
+
+The representative CIF import price for sorghum other than seed, sorghum seed falling within CN code 1007 10 90 , rye other than seed, rye seed and maize seed falling within CN code 1005 10 90 shall be the price calculated for maize other than seed.
+
+#### Article 20 — Guarantee for importation
+
+1\. For high quality common wheat, the specific guarantee referred to in Article 6 of Delegated Regulation (EU) 2023/2835 to be lodged with the customs authority on the date of acceptance of the declaration of release for free circulation in the Union shall be at the amount of EUR 95 per tonne.
+
+2\. For durum wheat, the amount of the specific guarantee referred to in Article 7 of Delegated Regulation (EU) 2023/2835 shall be the difference on the day of acceptance of the declaration of release for free circulation in the Union between the highest import duty and that applicable to the quality shown, plus a supplement of EUR 5 per tonne.
+
+#### Article 21 — Sampling for import duty calculation
+
+1\. The customs office of release for free circulation in the Union shall take representative samples, in accordance with Annex I to Commission Regulation (EC) No 152/2009 ( 6 ), of every consignment of high quality common wheat (other than seed), of durum wheat and of flint maize. However, sampling shall not take place where the import duty for the different qualities is the same.
+
+If, however, the Commission officially recognises a quality certificate for high quality common wheat, durum wheat or flint maize issued by the country of origin of the cereals, samples shall be taken for verification of the certified quality only from a sufficiently representative number of consignments.
+
+2\. The following certificates of conformity shall be officially recognised by the Commission pursuant to the principles laid down in Articles 58 and 59 of Implementing Regulation (EU) 2015/2447:
+
+(a) certificates issued by the Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) of Argentina for flint maize;
+
+(b) certificates issued by the Federal Grains Inspection Services (FGIS) of the United States for high quality common wheat and high quality durum wheat;
+
+(c) certificates issued by the Canadian Grain Commission (CGC) of Canada for high quality common wheat and high quality durum wheat.
+
+Annex VIII contains a blank specimen of the certificates of conformity issued by Senasa. Reproduction of the stamps authorised by the government of Argentina shall be published in the Official Journal of the European Union.
+
+Annex IX contains blank specimens of the certificates of conformity and stamps issued by the FGIS.
+
+Annex X contains blank specimens of the certificates of conformity, export specifications and stamps issued by the CGC.
+
+The certificates of conformity may be stored and made available in the electronic system ELAN to be set up by the Commission.
+
+When the analytical parameters entered in the certificates of conformity issued by the entities referred to in the first subparagraph show conformity with the high quality common wheat, durum wheat and flint maize quality standards set out in Annex VI, samples shall be taken of at least 3 % of the cargoes arriving at each entry port during the marketing year.
+
+The goods shall be classified in the standard quality for which all the requirements laid down in Annex VI are met.
+
+3\. The standard] reference methods laid down in Commission Implementing Regulation (EU) 2016/1240 ( 7 ) shall apply to the classification of the imported cereals by standard quality.
+
+For the purpose of this paragraph, ‘flint maize’ means maize of the species Zea mays indurata the grains of which present a dominantly vitreous endosperm (hard or horny texture). They are generally orange or red. The upper part (opposite the germ), or crown, shows no fissure.
+
+Vitreous grains of flint maize are defined as grains meeting two criteria:
+
+(a) their crown shows no fissure;
+
+(b) when cut lengthwise their endosperm shows a central mealy part completely surrounded by a horny part. The horny part must account for the dominant part of the total cut surface.
+
+The vitreous grain percentage shall be established by counting in a representative sample of 100 grains the number meeting the criteria referred to in the third subparagraph.
+
+The reference method for determining the flotation index for flint maize is set out in Annex XI.
+
+4\. If the analysis results show the imported high quality common wheat, durum wheat and flint maize to be of a lower standard quality than entered on the declaration of release for free circulation in the Union, the importer shall pay the difference between the import duty applicable to the product shown on the declaration and that on the product actually imported. In this case, the specific guarantee provided for in Article 17(4) of this Regulation and in Article 7(1) and (2) of Delegated Regulation (EU) 2023/2835 shall be released, except for the EUR 5 supplement provided for in Article 7(2), second subparagraph, of that Delegated Regulation.
+
+If the difference referred to in the first subparagraph is not paid within 1 month, the specific guarantee provided for in Article 17(4) of this Regulation and in Article 7(1) and (2) of Delegated Regulation (EU) 2023/2835 shall be forfeit.
+
+5\. Representative samples of imported cereals taken by the competent authority of the Member State shall be retained for 6 months.
+
+### SECTION 2 — Imports of residues from the manufacture of maize starch from the United States
+
+#### Article 22 — Laboratory analysis
+
+1\. A laboratory analysis shall be carried out, under the responsibility of the competent authority of the Member State, to verify the conformity of residues from the manufacture of maize starch imported into the Union from the United States of America under CN code 2309 90 20 with the definition of this code for all shipments not accompanied by a certificate issued by the FGIS and a certificate issued by the United States wet milling industry as set out in Annex XII.
+
+The above certificates may be stored and made available in the electronic system ELAN to be set up by the Commission.
+
+2\. Shipments from the United States of America which are accompanied by the two certificates referred to in paragraph 1 shall be subject to the customs measures for checking imports.
+
+### SECTION 3 — Procedures for the importation of rye from Türkiye
+
+#### Article 23 — Proof of payment of the special export charge
+
+Proof that the special export charge referred to in Article 5 of Regulation (EC) No 2008/97 has been paid shall be furnished by the operator to the competent authority of the Member State of import by presentation of A.TR movement certificate. In that case, the respective entry referred to in Annex XIII to this Regulation shall be made in the ‘Remarks’ section by the competent authority.
+
+## CHAPTER 3 — SUGAR
+
+## Trade with third countries in the sugar sector
+
+#### Article 24 — Determination of CIF representative prices for white sugar and raw sugar
+
+1\. The Commission shall determine the CIF representative prices for white sugar and raw sugar on the basis of the most favourable purchasing opportunities on the world market.
+
+2\. When establishing the most favourable purchasing opportunities on the world market, the Commission shall take into account the relevant information available to it, in particular:
+
+(a) quotations on exchanges which are important to the international sugar trade;
+
+(b) sales concluded in international trade.
+
+3\. Paragraph 2 shall not apply where:
+
+(a) the sugar is not of sound and fair marketable quality; or
+
+(b) if the possibility of obtaining sugar at the price indicated in the offer relates only to a small quantity which is not representative of the market; or
+
+(c) if the general trend of prices or the information available to the Commission leads the Commission to assume that the price indicated in the offer is not representative of actual market trends.
+
+4\. When establishing the most favourable purchasing opportunities on the world market, the Commission may take an average of several prices as a basis, provided that this average can be regarded as being representative of actual market trends.
+
+5\. Representative prices for white sugar and raw sugar on the world market or on the Union import market as referred to in Article 182(3) of Regulation (EU) No 1308/2013 shall mean the CIF representative prices established in accordance with this Article.
+
+6\. The CIF representative prices shall be fixed for each marketing year in accordance with the procedure referred to in Article 183 of Regulation (EU) No 1308/2013. The Commission may amend those prices during that period if the fluctuation in the elements of the calculation produces a rise or fall of EUR 2,5 per 100 kilograms or more in relation to the CIF representative prices fixed previously.
+
+7\. The CIF representative price for sugar products falling within CN code 1702 90 95 shall be the representative price fixed for white sugar applied per 1 % of sucrose content per 100 kilograms net of the product in question.
+
+#### Article 25 — Determination of CIF representative prices for molasses
+
+1\. The Commission shall determine the CIF representative prices for molasses on the basis of the most favourable purchasing opportunities on the world market.
+
+2\. When establishing the most favourable purchasing opportunities on the world market, the Commission shall take in to account the relevant information available to it, in particular:
+
+(a) offers on the world market;
+
+(b) sales concluded in international trade.
+
+3\. Paragraph 2 shall not apply where:
+
+(a) the molasses are not of sound and fair marketable quality; or
+
+(b) if the possibility of obtaining molasses at the price indicated in the offer relates only to a small quantity which is not representative of the market; or
+
+(c) if the general trend of prices or the information available to the Commission leads the Commission to assume that the price indicated in the offer is not representative of actual market trends.
+
+4\. When establishing the most favourable purchasing opportunities on the world market, the Commission may take an average of several prices as a basis, provided that this average can be regarded as being representative of actual market trends.
+
+5\. Representative prices for molasses on the world market or on the Union import market as referred to Article 182(3) of Regulation (EU) No 1308/2013 shall mean the CIF representative prices established in accordance with this Article.
+
+6\. The CIF representative prices shall be fixed for each marketing year in accordance with the procedure referred to in Article 183 of Regulation (EU) No 1308/2013. The Commission may amend them during that period if the fluctuation in the elements of the calculation produces a rise or fall of EUR 1,5 per 100 kilograms or more in relation to the CIF representative prices fixed previously.
+
+#### Article 26 — Additional import duties for certain sugar products
+
+If imposed, the additional import duties referred to in Article 182(1) of Regulation (EU) No 1308/2013 shall be applied to sugar products falling within CN codes 1701 13 10 , 1701 14 10 , 1701 13 90 , 1701 14 90 , 1701 12 10 , 1701 12 90 , 1701 91 00 , 1701 99 10 , 1701 99 90 and 1702 90 95 .
+
+#### Article 27 — Additional import duties for molasses
+
+If imposed, the additional import duties referred to in Article 182(1) of Regulation (EU) No 1308/2013 shall be applied to molasses falling within CN codes 1703 10 00 and 1703 90 00 .
+
+#### Article 28 — Trigger prices for certain sugar products
+
+For 100 kilograms of net sugar product, the trigger price referred to in Article 182(1), point (a), of Regulation (EU) No 1308/2013 shall be equivalent to:
+
+(a) EUR 53,10 for white sugar falling within CN codes 1701 99 10 and 1701 99 90 of the standard quality referred to in Point B II of Annex III to Regulation (EU) No 1308/2013;
+
+(b) EUR 64,70 for sugar falling within CN code 1701 91 00 ;
+
+(c) EUR 54,10 for raw beet sugar falling within CN code 1701 12 90 of the standard quality referred to in Point B III of Annex III to Regulation (EU) No 1308/2013;
+
+(d) EUR 41,30 for raw beet sugar falling within CN code 1701 12 10 of the standard quality referred to in Point B III of Annex III to Regulation (EU) No 1308/2013;
+
+(e) EUR 55,20 for raw cane sugar falling within CN codes 1701 13 90 and 1701 14 90 of the standard quality referred to in Point B III of Annex III to Regulation (EU) No 1308/2013;
+
+(f) EUR 41,80 for raw cane sugar falling within CN code 1701 13 10 and 1701 14 10 of the standard quality referred to in Point B III of Annex III to Regulation (EU) No 1308/2013;
+
+(g) EUR 1,184 for the products falling within CN code 1702 90 95 per 1 % of sucrose content.
+
+#### Article 29 — Trigger prices for molasses
+
+For 100 kilograms of molasses of the standard quality referred to in Article 31 of this Regulation, the trigger price referred to in Article 182(1), first subparagraph, point (a), of Regulation (EU) No 1308/2013 shall be equivalent to:
+
+(a) EUR 7,90 for molasses falling within CN code 1703 10 00 ;
+
+(b) EUR 8,20 for molasses falling within CN code 1703 90 00 .
+
+#### Article 30 — Provisions on proofs, guarantee, release of the guarantee and recovery of import duties
+
+1\. The amount of the additional import duties for each type of molasses referred to in Article 27 and the sugar products referred to in Article 26 shall be established on the basis of the CIF import price of the consignment in question in accordance with Article 33.
+
+For molasses, the CIF import price of the consignment in question shall be converted into the price of molasses of standard quality in accordance with Article 32.
+
+In the case of white and raw sugar, the CIF import price of the consignment in question shall be converted into the equivalent price of sugar of standard quality as defined, respectively, in Point B II and III of Annex III to Regulation (EU) No 1308/2013 or the equivalent price for the product falling within CN code 1702 90 95 , as the case may be.
+
+2\. When the CIF import price per 100 kilograms of a consignment is higher than the applicable CIF representative price determined in accordance with Articles 24 and 25, the importer shall present to the customs authorities of the Member State of import at least the following proofs:
+
+(a) the purchasing contract, or any other equivalent document;
+
+(b) the insurance contract for the consignment;
+
+(c) the invoice;
+
+(d) the certificate of origin (where applicable);
+
+(e) the transport contract;
+
+(f) in the case of sea transport, the bill of lading.
+
+For the verification of the CIF import price of the consignment in question, the authorities of the Member State of import may require any other information and documents they deem necessary.
+
+3\. In the case referred to in paragraph 2, the importer shall provide a guarantee referred to in Articles 89 to 100 of Regulation (EU) No 952/2013, equal to the difference between the amount of additional import duty calculated on the basis of the CIF representative price applicable to the product in question and the amount of additional import duty calculated on the basis of CIF import price of the consignment in question.
+
+4\. The importer shall have 2 months from the sale of the products in question, subject to a limit of 9 months from the date of acceptance of the declaration of release for free circulation, to prove that the consignment was disposed of under conditions confirming the correctness of the information referred to in paragraph 2. Failure to meet one or other of these deadlines shall entail the loss of the guarantee provided. However, the time limit of 9 months may be extended by the customs authorities by a maximum of 3 months following a duly substantiated request of the importer. If the products are under the end-use procedure, Article 254 of Regulation (EU) No 952/2013 shall apply.
+
+The guarantee provided in accordance with paragraph 3 shall be released to the extent that proof of the conditions of disposal is provided to the satisfaction of the customs authorities. Otherwise, the guarantee shall be forfeit by way of payment of the additional import duties.
+
+5\. If, on verification, the customs authorities establish that the requirements of this Article have not been met, they shall recover the duty due in accordance with Article 105 of Regulation (EU) No 952/2013. The amount of the duty to be recovered or remaining to be recovered shall include interest from the date the products were released for free circulation up to the date of recovery. The interest rate applied shall be that in force for recovery operations under national law.
+
+#### Article 31 — Standard quality of molasses
+
+The standard quality molasses shall:
+
+(a) be of sound and fair marketable quality;
+
+(b) have a total sugar content of 48 %.
+
+#### Article 32 — Adjustments of CIF import prices to that of the standard quality for molasses
+
+CIF import prices for molasses which do not relate to the standard quality shall be:
+
+(a) increased by one forty-eighth for each percentage point of total sugar content where the sugar content of the molasses concerned is less than 48 %;
+
+(b) reduced by one forty-eighth for each percentage point of total sugar content where the sugar content of the molasses concerned is more than 48 %.
+
+#### Article 33 — Calculation of the additional import duty referred to in Articles 26 and 27
+
+Where the difference between the trigger price determined in accordance with Article 28 for certain sugar products and in accordance with Article 29 for molasses and the CIF import price of the consignment in question:
+
+(a) is 10 % or less than the trigger price, the additional duty shall be zero;
+
+(b) is more than 10 % but less than or equal to 40 % of the trigger price, the additional duty shall be 30 % of the amount over and above 10 %;
+
+(c) is more than 40 % but less than or equal to 60 % of the trigger price, the additional duty shall be 50 % of the amount over and above 40 %, to which shall be added the additional duty referred to in point (b);
+
+(d) is more than 60 % but less than or equal to 75 % of the trigger price, the additional duty shall be 70 % of the amount over and above 60 %, to which shall be added the additional duties referred to in points (b) and (c);
+
+(e) is more than 75 % of the trigger price, the additional duty shall be 90 % of the amount over and above 75 %, to which shall be added the additional duties referred to in points (b), (c) and (d).
+
+#### Article 34 — Adjustment of the import duty for imported raw sugar
+
+If the yield of imported raw sugar as determined in accordance with Point B III of Annex III to Regulation (EU) No 1308/2013 differs from the yield fixed for the standard quality, the import duty for products falling within CN codes 1701 12 10 , 1701 13 10 and 1701 14 10 , and the additional duty for products falling within CN codes 1701 12 10 , 1701 12 90 , 1701 13 10 , 1701 13 90 , 1701 14 10 and 1701 14 90 to be levied per 100 kilograms of the said raw sugar shall be calculated by multiplying the corresponding duty fixed for raw sugar of the standard quality by a correcting coefficient. The correcting coefficient shall be obtained by dividing the percentage of the yield of the imported raw sugar by 92.
+
+## CHAPTER 4 — HOPS
+
+## Imports of products of the hops sector
+
+#### Article 35 — Subject matter
+
+1\. Entry into free circulation in the Union of products of the hops sector from third countries referred to in Article 1(2), point (f), of Regulation (EU) No 1308/2013 shall be conditional upon proof being furnished that the requirements specified in Article 190(1) of that Regulation have been met.
+
+2\. The proof referred to in paragraph 1 shall be furnished through the presentation of the attestation provided for in Article 190(2) of Regulation (EU) No 1308/2013 (‘attestation of equivalence’).
+
+#### Article 36 — Use of terms
+
+For the purposes of this Chapter, ‘consignment’ means a quantity of a product having the same characteristics and sent by the same consignor at the same time to the same consignee.
+
+For the purposes of this Chapter, the products of the hop sector include hop cones CN code: 1210 10 , hop powders or pellets CN code: 1210 20 , saps and extracts of hops CN code: 1302 13 00 .
+
+#### Article 37 — Agencies authorised to issue an attestation of equivalence
+
+1\. Attestations of equivalence accompanying imported hops and hop products shall be issued by an agency authorised by the third country of origin or, where non-existent in the country of origin, an already authorised agency outside the product’s country of origin.
+
+2\. On the basis of notifications from the competent authorities of third countries pursuant to Article 190 of Regulation (EU) No 1308/2013, the Commission shall draw up and update a list of agencies authorised to issue attestations of equivalence in the hop product’s country of origin, containing the name, postal and email address of those agencies.
+
+3\. The Commission shall make public on its website the name and address of the agencies notified by the competent authorities of third countries.
+
+#### Article 38 — Attestation of equivalence of imported products of the hops sector
+
+1\. The attestation of equivalence shall be issued for each consignment and shall consist of an original and a copy to be drawn up on a form corresponding to the model set out in Annex XIV and in accordance with the rules set out in Annex XVI.
+
+2\. The attestation of equivalence shall be valid only if it is duly completed and authenticated by one of the agencies referred to in the list drawn up and made public by the Commission in accordance with Article 37(3).
+
+3\. A duly authenticated attestation of equivalence is one which shows the place and date of issue, and which has been signed and bears the stamp or electronic signature of the issuing agency.
+
+The attestation of equivalence may be stored and made available in the electronic system ELAN to be set up by the Commission.
+
+#### Article 39 — Labelling of the packaging of products of the hops sector
+
+1\. Each unit of packaging covered by an attestation of equivalence shall bear the following particulars in one of the official languages of the Union:
+
+(a) the description of the hop or hop product;
+
+(b) the variety or varieties;
+
+(c) the country of origin;
+
+(d) the marks and numbers indicated in Section 9 of the attestation of equivalence or the extract.
+
+2\. The particulars provided for in paragraph 1 shall appear in legible, indelible characters of uniform size on the outside of the package.
+
+#### Article 40 — Customs procedure and keeping attestations of equivalence
+
+For products of the hop sector, when they are presented to customs in accordance with Article 139 of Regulation (EU) No 952/2013 or at the latest before their release for free circulation in the Union, the original of the related attestation of equivalence shall be submitted to the customs authorities who shall countersign and retain it.
+
+The customs authorities shall transmit, where available, an electronic copy of the attestation of equivalence to the competent authority of the Member State in which the product is brought into the customs territory of the Union.
+
+A copy of the countersigned attestation of equivalence issued by the competent authority of the third country shall be returned to the importer, who must keep it for at least 3 years.
+
+#### Article 41 — Splitting up of consignments of hop products before release for free circulation in the Union
+
+1\. Where, before its entry into free circulation in the Union, a consignment covered by an attestation of equivalence is split up and redispatched, an attestation extract shall be drawn up in respect of each new consignment resulting from such splitting.
+
+The attestation of equivalence shall be replaced by the necessary number of attestation extracts.
+
+Each attestation extract shall be drawn up by the party concerned in an original on a form corresponding to the model set out in Annex XV and in accordance with the rules set out in Annex XVI and shall be sent to the customs authorities.
+
+2\. The customs authorities shall endorse accordingly the original of the attestation of equivalence and shall countersign the original of the extract.
+
+For this purpose, the customs authority shall enter the quantities indicated in the extracts in the sections provided for this purpose on the attestation of equivalence and shall confirm the entry or confirm, where provided for by national administrative provisions, the quantities indicated by the declarant in the relevant sections.
+
+The customs authorities shall retain the original of the endorsed attestation of equivalence and of the countersigned extract, send a copy of the endorsed attestation and each countersigned extract to the competent certification authority of the Member State and return a copy of each extract to the operator concerned.
+
+#### Article 42 — Splitting up of consignments of hop products after entry into free circulation in the Union
+
+If the consignment of the products of the hop sector is resold or split up after it has been released for free circulation in the Union, the product must be accompanied by an invoice or other commercial document drawn up by the vendor, giving the reference number of the attestation of equivalence or of the extract, together with the name of the authority which issued them.
+
+The following information from the attestation of equivalence or, as the case may be, the extract shall also be included on the invoice or commercial document:
+
+(a) for hop cones:
+
+(i) the description of the product;
+
+(ii) the gross weight;
+
+(iii) the place of production;
+
+(iv) the year of harvest;
+
+(v) the variety;
+
+(vi) the country of origin;
+
+(vii) the markings and identification numbers set out in section 9 of the attestation of equivalence;
+
+(b) for hop products, in addition to the particulars listed under point (a): the place and date of processing.
+
+#### Article 43 — Controls on imported products of the hops sector and reporting
+
+1\. The Member States shall regularly carry out checks on a random basis to verify whether hop products under CN code 1210 entering the customs territory of the Union in order to be imported pursuant to Article 190 of Regulation (EU) No 1308/2013 comply with the minimum marketing requirements for hop cones set out in Annex I to Commission Regulation (EC) No 1850/2006 ( 8 ) for those purposes.
+
+2\. The Member States shall report to the Commission, every year by 30 June, the frequency, type and result of the checks which were carried out over the year preceding that date. The checks shall cover at least 5 % of the number of consignments of hops expected to be imported from a third country into the Member State in question during the year.
+
+3\. If the competent authorities of the Member States find that the samples examined do not satisfy the minimum marketing requirements referred to in paragraph 1, the corresponding consignments shall not be marketed in the Union.
+
+## CHAPTER 4a — POULTRYMEAT AND EGGS AND EGG ALBUMIN
+
+#### Article -43a — Import duties
+
+1\. The additional import duties referred to in Article 182 of Regulation (EU) No 1308/2013 and in Article 5 of Regulation (EU) No 510/2014 of the European Parliament and of the Council ( 9 ), hereinafter referred to as ‘additional duties’, shall be applied to the products falling within the CN codes listed in Annex XVII to this Regulation for which representative prices are fixed according to Article -43b.
+
+2\. The corresponding trigger prices referred to in Article 182(1), first subparagraph, point (a), of Regulation (EU) No 1308/2013 and in Article 5(1), first subparagraph, point (a), of Regulation (EU) No 510/2014 are set out in Annex XVII to this Regulation.
+
+#### Article -43b — Fixing representative prices
+
+1\. The representative prices referred to in Article 182(3) of Regulation (EU) No 1308/2013 and in Article 5(3) of Regulation (EU) No 510/2014 shall be determined at regular intervals on the basis of data collected under the surveillance system referred to in Article 55 of Implementing Regulation (EU) 2015/2447.
+
+2\. The representative price, per product (by CN code line) and per origin, is the average import price of the latest month with a minimum volume of 20 tonnes of imports, provided that:
+
+(a) there was a sequence of at least three consecutive months with a minimum volume of imports of 20 tonnes in the past six months; and
+
+(b) there was no sequence of more than two consecutive months under this minimum volume of imports of 20 tonnes since the sequence referred to in point (a).
+
+3\. If necessary, the Commission may, at the request of a Member State or on its own initiative, adjust the representative prices for poultrymeat and eggs and egg albumin.
+
+However, the Commission may adjust these representative prices only if these prices are at least 5 % different from the determined prices.
+
+4\. The representative prices referred to paragraph 1 shall be published by the Commission via the Integrated Tariff of the European Union database ( 10 ) (TARIC) and on the dedicated page of the Commission website.
+
+#### Article -43c — Provisions on proofs, guarantee, release of guarantee and recovery of import duties
+
+1\. The additional duty for poultrymeat and eggs and egg albumin shall be established on the basis of the cost, insurance and freight (CIF) import price of the consignment in question in accordance with Article -43d.
+
+2\. When the CIF import price per 100 kg of a consignment is higher than the applicable representative price referred to in Article -43b(1), the importer shall present to the competent authorities of the importing Member State at least the following proofs:
+
+(a) the purchasing contract of the consignment, or any other equivalent document;
+
+(b) the insurance contract of the consignment;
+
+(c) the invoice of the consignment;
+
+(d) the certificate of origin (where applicable) of the consignment;
+
+(e) the transport contract of the consignment;
+
+(f) and, in the case of sea transport, the bill of lading of the consignment.
+
+3\. In the case referred to in paragraph 2, the importer shall provide a guarantee referred to in Articles 89, 90 and 195 of Regulation (EU) No 952/2013, equal to the difference between the amount of additional import duty calculated on the basis of the representative price applicable to the product in question and the amount of additional import duty calculated on the basis of the CIF import price of the consignment in question.
+
+4\. The importer shall have two months from the sale of the products in question, subject to a limit of nine months from the date of acceptance of the declaration of release for free circulation, to prove that the consignment was disposed of under conditions confirming the correctness of the prices referred to in paragraph 2. Failure to meet either of these deadlines shall entail the loss of the guarantee lodged. However, the time limit of nine months may be extended by the competent authorities by a maximum of three months at the request of the importer, which must be duly substantiated.
+
+The guarantee lodged shall be released to the extent that proof of the conditions of disposal is provided to the satisfaction of the customs authorities. Otherwise, the guarantee shall be forfeit by way of payment of the additional duties.
+
+5\. If on verification the competent authorities establish that the requirements of this Article have not been met, they shall recover the duty due in accordance with Article 105 of Regulation (EU) No 952/2013. The amount of the duty to be recovered or remaining to be recovered shall include interest from the date the goods were released for free circulation up to the date of recovery. The interest rate applied shall be that in force for recovery operations under national law.
+
+#### Article -43d — Calculation of the additional import duty referred to in Article -43a
+
+If the difference between the trigger price in question referred to in Article -43a(2) and the CIF import price of the consignment in question:
+
+(a) is less than or equal to 10 % of the trigger price, no additional duty shall be imposed;
+
+(b) is greater than 10 % but less than or equal to 40 % of the trigger price, the additional duty shall equal 30 % of the amount by which the difference exceeds 10 %;
+
+(c) is greater than 40 % but less than or equal to 60 % of the trigger price, the additional duty shall equal 50 % of the amount by which the difference exceeds 40 %, plus the additional duty allowed under point (b);
+
+(d) is greater than 60 % but less than or equal to 75 %, the additional duty shall equal 70 % of the amount by which the difference exceeds 60 % of the trigger price, plus the additional duties allowed under points (b) and (c);
+
+(e) is greater than 75 % of the trigger price, the additional duty shall equal 90 % of the amount by which the difference exceeds 75 %, plus the additional duties allowed under points (b), (c) and (d).
+
+#### Article -43e — Exemption of additional duties
+
+The additional duties shall not apply in the case of imports under Commission Implementing Regulations (EU) 2020/761 ( 11 ) and (EU) 2020/1988 ( 12 ).
+
+## CHAPTER 5 — FINAL PROVISIONS
+
+#### Article 43a — Transitional provisions applicable to import licences based on Annex I.1 to Regulation (EU) 2016/1239
+
+Where the provisions of this Regulation refer to import licences issued in accordance with Annex I.1 to Implementing Regulation (EU) 2016/1239, the transitional rules laid down in Articles 21a to 21d of that Implementing Regulation apply.
+
+#### Article 44 — Entry into force
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Entries referred to in Article 8, point (b)
+
+— In Bulgarian: ориз басмати с код по КН 1006 20 17 или 1006 20 98 , внесен с нулева ставка на митото в съответствие с Делегиран регламент (ЕС) 2023/2835 на Комисията и Регламент за изпълнение (ЕС) 2023/2834 на Комисията, прид…ружен от сертификат за автентичност № …, издаден от [наименование на компетентния орган]
+
+— In Spanish: arroz Basmati de los códigos NC 1006 20 17 o 1006 20 98 e importado con un tipo de derecho nulo en virtud del Reglamento Delegado (UE) 2023/2835 de la Comisión y del Reglamento de Ejecución (UE) 2023/2834 de la Comisión, acompañado del certificado de autenticidad n.°... expedido por [nombre de la autoridad competente]
+
+— In Czech: rýže Basmati kódu KN 1006 20 17 nebo 1006 20 98 , která se dováží za nulové clo na základě nařízení Komise v přenesené pravomoci (EU) 2023/2835 a prováděcího nařízení Komise (EU) 2023/2834, a ke které se připojí osvědčení o pravosti č. … vydané [název příslušného subjektu]
+
+— In Danish: Basmati-ris henhørende under KN-kode 1006 20 17 eller 1006 20 98 og importeret med nultold i henhold til Kommissionens delegerede forordning (EU) 2023/2835 og Kommissionens gennemførelsesforordning (EU) 2023/2834, ledsaget af ægthedscertifikat nr. … udstedt af [den kompetente myndigheds navn]
+
+— In German: Basmati-Reis des KN-Codes 1006 20 17 oder 1006 20 98 , eingeführt zum Zollsatz Null gemäß der Delegierten Verordnung (EU) 2023/2835 der Kommission und der Durchführungsverordnung (EU) 2023/2834 der Kommission und begleitet vom Echtheitszeugnis Nr. …, ausgestellt durch [Name der zuständigen Behörde]
+
+— In Estonian: CN-koodi 1006 20 17 või 1006 20 98 alla kuuluv basmati riis, mida imporditakse tollimaksu nullmääraga vastavalt komisjoni delegeeritud määrusele (EL) 2023/2835 ja komisjoni rakendusmäärusele (EL) 2023/2834 ning millele on lisatud [pädeva asutuse nimi] koostatud autentsussertifikaat nr..
+
+— In Greek: Ρύζι μπασμάτι του κωδικού ΣΟ 1006 20 17 ή 1006 20 98 εισαγόμενο με μηδενικό δασμό κατ’ εφαρμογή του κατ’ εξουσιοδότηση κανονισμού (ΕΕ) 2023/2835 της Επιτροπής και του εκτελεστικού κανονισμού (ΕΕ) 2023/2834 της Επιτροπής, συνοδευόμενο από το πιστοποιητικό γνησιότητας αριθ. … που εκδόθηκε από την/τον [ονομασία της αρμόδιας αρχής]
+
+— In English: Basmati rice falling within code of CN 1006 20 17 or 1006 20 98 and imported at a zero rate of duty under Commission Delegated Regulation (EU) 2023/2835 and Commission Implementing Regulation (EU) 2023/2834, accompanied by authenticity certificate No … drawn up by [name of the competent authority]
+
+— In French: riz Basmati du code NC 1006 20 17 ou 1006 20 98 importé à droit nul en application du règlement délégué (UE) 2023/2835 de la Commission et du règlement d’exécution (UE) 2023/2834 de la Commission, accompagné du certificat d’authenticité no … établi par [nom de l’autorité compétente]
+
+— In Irish: rís Basmati atá faoi chód AC 1006 20 17 nó 1006 20 98 agus a allmhairítear ar ráta nialasach dleachta faoi Rialachán Tarmligthe (AE) 2023/2835 ón gCoimisiún agus Rialachán Cur Chun Feidhme (AE) 2023/2834 ón gCoimisiún, a mbeidh deimhniú barántúlachta Uimh. ... arna tharraingt suas ag [ainm an údaráis inniúil] ag gabháil léi
+
+— In Croatian: basmati riža oznake KN 1006 20 17 ili 1006 20 98 i uvezena uz nultu stopu carine u skladu s Delegiranom uredbom Komisije (EU) 2023/2835 i Provedbenom uredbom Komisije (EU) 2023/2834, popraćena potvrdom o autentičnosti br. … koju je izdao [naziv nadležnog tijela]
+
+— In Italian: Riso Basmati di cui al codice NC 1006 20 17 o 1006 20 98 importato a dazio zero ai sensi del regolamento delegato (UE) della Commissione 2023/2835 e del regolamento di esecuzione (UE) della Commissione 2023/2834, corredato del certificato di autenticità n. … rilasciato da [nome dell’autorità competente]
+
+— In Latvian: basmati rīsi ar KN kodu 1006 20 17 vai 1006 20 98 , kas importēti ar nulles nodokļa likmi saskaņā ar Komisijas Deleģēto regulu (ES) 2023/2835 un Komisijas Īstenošanas regulu (ES) 2023/2834 un kam pievienota [kompetentās iestādes nosaukums] sagatavota autentiskuma apliecība Nr. ....
+
+— In Lithuanian: Basmati ryžiai, kurių KN kodas 1006 20 17 arba 1006 20 98 ir kurie importuoti taikant nulinę muito normą pagal Komisijos deleguotąjį reglamentą (ES) 2023/2835 ir Komisijos įgyvendinimo reglamentą (ES) 2023/2834, prie kurių pridėtas [kompetentingos institucijos pavadinimas] parengtas autentiškumo sertifikatas Nr. …
+
+— In Hungarian: az 1006 20 17 vagy az 1006 20 98 KN-kód alá sorolt, az (EU) 2023/2835 felhatalmazáson alapuló bizottsági rendelet és az (EU) 2023/2834 bizottsági végrehajtási rendelet alkalmazásában nulla vámtétel mellett behozott basmati rizs, a/az [illetékes hatóság neve] által kiállított, … számú eredetiségigazolással együtt
+
+— In Maltese: ross Basmati li jaqa’ taħt il-kodiċi NM 1006 20 17 jew 1006 20 98 u importat b’rata ta’ dazju żero skont ir-Regolament Delegat tal-Kummissjoni (UE) 2023/2835 u r-Regolament ta’ Implimentazzjoni tal-Kummissjoni (UE) 2023/2834, akkumpanjat miċ-ċertifikat ta’ awtentiċità Nru... imfassal minn [isem l-awtorità kompetenti]
+
+— In Dutch: Basmati-rijst van GN-code 1006 20 17 of 1006 20 98 , ingevoerd met nulrecht overeenkomstig Gedelegeerde Verordening (EU) 2023/2835 van de Commissie en Uitvoeringsverordening (EU) 2023/2834 van de Commissie, vergezeld van het echtheidscertificaat nr. …, opgesteld door [naam van de bevoegde instantie]
+
+— In Polish: ryż Basmati objęty kodem CN 1006 20 17 lub 1006 20 98 i przywożony z zastosowaniem zerowej stawki celnej zgodnie z rozporządzeniem delegowanym Komisji (UE) 2023/2835 i rozporządzeniem wykonawczym Komisji (UE) 2023/2834, któremu towarzyszy świadectwo autentyczności nr... sporządzone przez [name of the competent authority]
+
+— In Portuguese: arroz basmáti do código NC 1006 20 17 ou 1006 20 98 e importado com um direito nulo ao abrigo do Regulamento Delegado (UE) 2023/2835 da Comissão e do Regulamento de Execução (UE) 2023/2834 da Comissão, acompanhado do certificado de autenticidade n.°..., emitido por [nome da autoridade competente]
+
+— In Romanian: orez Basmati de la codul NC 1006 20 17 sau 1006 20 98 importat cu o rată a taxelor vamale egală cu zero în temeiul Regulamentului delegat (UE) 2023/2835 al Comisiei și al Regulamentului de punere în aplicare (UE) 2023/2834 al Comisiei, însoțit de certificatul de autenticitate nr. … întocmit de [denumirea autorității competente]
+
+— In Slovak: ryža Basmati s kódom KN 1006 20 17 alebo 1006 20 98 dovážaná s nulovou sadzbou cla v súlade s delegovaným nariadením Komisie (EÚ) 2023/2835 a vykonávacím nariadením Komisie (EÚ) 2023/2834, sprevádzaná osvedčením o pravosti č. … vystavenom [názov príslušného orgánu]
+
+— In Slovenian: Riž basmati iz oznake KN 1006 20 17 ali 1006 20 98 , uvožen po stopnji nič v skladu z Delegirano uredbo Komisije (EU) 2023/2835 in Izvedbeno uredbo Komisije (EU) 2023/2834, s priloženim potrdilom o pristnosti št. …, ki ga je izdal [naziv pristojnega organa]
+
+— In Finnish: komission delegoidun asetuksen (EU) 2023/2835 ja komission täytäntöönpanoasetuksen (EU) 2023/2834, mukaisesti tullivapaasti tuotu CN-koodiin 1006 20 17 tai 1006 20 98 kuuluva Basmati-riisi, jonka mukana on [toimivaltaisen viranomaisen nimi] myöntämä aitoustodistus nro …
+
+— In Swedish: Basmatiris med KN-nummer 1006 20 17 eller 1006 20 98 som importeras tullfritt i enlighet med kommissionens delegerade förordning (EU) 2023/2835 och kommissionens genomförandeförordning (EU) 2023/2834, åtföljt av äkthetsintyg nr … som utfärdats av [den behöriga myndighetens namn].
+
+## ANNEX II — Specimen authenticity certificate referred to in Article 9(1)
+
+The form shall measure approximately 210 × 297 millimetres. The original shall be drawn up on a paper which shows up any tampering by mechanical or chemical means.
+
+The forms shall be printed and completed in English.
+
+The original and the duplicate thereof shall be either typewritten or handwritten. In the latter case, they shall be completed in ink and in block capitals.
+
+Each authenticity certificate shall contain a serial number in the top right-hand box. The duplicate shall bear the same number as the original.
+
+<table>
+<tbody><tr><td>1. Exporter (Name and full address)</td><td colspan="2" rowspan="2">CERTIFICATE OF AUTHENTICITY BASMATI RICE  for export to the European Union </td></tr>
+<tr><td rowspan="3">2. Consignee (Name and full address)</td></tr>
+<tr><td>No (1)</td><td>ORIGINAL</td></tr>
+<tr><td colspan="2">issued by (Name and full address of issuing body)</td></tr>
+<tr><td>  </td><td colspan="2">3. Country and place of cultivation</td></tr>
+<tr><td>  </td><td colspan="2">4. FOB value in US dollars</td></tr>
+<tr><td>  </td><td colspan="2">5. Number and date of invoice</td></tr>
+<tr><td colspan="2" rowspan="2">6. Marks and numbers – Number and kind of packages – Description of goods (2)</td><td>7. Gross weight (kg)</td></tr>
+<tr><td>8. Net weight (kg)</td></tr>
+<tr><td colspan="3">9. DECLARATION BY EXPORTER The undersigned declares that the information shown above is correct. </td></tr>
+<tr><td>Place and date:</td><td colspan="2">Signature:</td></tr>
+<tr><td colspan="3">10. CERTIFICATION BY THE ISSUING BODY It is hereby certified that the rice described above is BASMATI RICE and that the information shown in this certificate is correct. </td></tr>
+<tr><td>Place and date:</td><td>Signature:</td><td>Stamp:</td></tr>
+<tr><td colspan="3">11. CERTIFICATION BY COMPETENT CUSTOMS OFFICE OF COUNTRY OF EXPORT Customs formalities for export to the European Union of the rice described above have been completed.  Type, number and date of export document: Name and country of customs office: </td></tr>
+<tr><td>  </td><td>Signature:</td><td>Stamp:</td></tr>
+<tr><td colspan="3">12. FOR COMPETENT AUTHORITIES IN THE UNION</td></tr>
+<tr><td colspan="3">(1)  The number of the certificate of authenticity shall be a number of a continuous series given by the country delivering the certificate.  (2)  The operator shall specify:  — for marks and numbers: the reference and number of the batch,  — for number and kind of packages: the number and weight of packages,  — for the description of goods: the information on the rice, the CN code as well as the variety or varieties, which shall be on the list provided for in Commission Delegated Regulation (EU) 2023/2835. The description of goods should correspond to the information included in the invoice, the number and date of which is specified in box 5.  NB: This certificate is issued in conformity with the national legislation. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Entries referred to in Article 10(1), point (b)
+
+— In Bulgarian: ориз басмати с код по КН 1006 20 17 или 1006 20 98 , внесен с нулева ставка на митото в съответствие с Делегиран регламент (ЕС) 2023/2835 на Комисията и Регламент за изпълнение (ЕС) 2023/2834 на Комисията, придружен от дубликат на сертификат за автентичност № …, издаден от [наименование на компетентния орган],
+
+— In Spanish: arroz Basmati de los códigos NC 1006 20 17 o 1006 20 98 e importado con un tipo de derecho nulo en virtud del Reglamento Delegado (UE) 2023/2835 de la Comisión y del Reglamento de Ejecución (UE) 2023/2834 de la Comisión, acompañado de un duplicado del certificado de autenticidad n.°... expedido por [nombre de la autoridad competente]
+
+— In Czech: rýže Basmati kódu KN 1006 20 17 nebo 1006 20 98 , která se dováží za nulové clo na základě nařízení Komise v přenesené pravomoci (EU) 2023/2835 a prováděcího nařízení Komise (EU) 2023/2834, a ke které se připojí duplikát osvědčení o pravosti č. … vydaného [název příslušného subjektu]
+
+— In Danish: Basmati-ris henhørende under KN-kode 1006 20 17 eller 1006 20 98 og importeret med nultold i henhold til Kommissionens delegerede forordning (EU) 2023/2835 og Kommissionens gennemførelsesforordning (EU) 2023/2834, ledsaget af en genpart af ægthedscertifikat nr. … udstedt af [den kompetente myndigheds navn]
+
+— In German: Basmati-Reis des KN-Codes 1006 20 17 oder 1006 20 98 , eingeführt zum Zollsatz Null gemäß der Delegierten Verordnung (EU) 2023/2835 der Kommission und der Durchführungsverordnung (EU) 2023/2834 der Kommission und begleitet von einem Duplikat des Echtheitszeugnisses Nr. …, ausgestellt durch [Name der zuständigen Behörde]
+
+— In Estonian: CN-koodi 1006 20 17 või 1006 20 98 alla kuuluv basmati riis, mida imporditakse tollimaksu nullmääraga vastavalt komisjoni delegeeritud määrusele (EL) 2023/2835 ja komisjoni rakendusmäärusele (EL) 2023/2834 ning millele on lisatud [pädeva asutuse nimi] koostatud autentsussertifikaadi nr... duplikaat
+
+— In Greek: Ρύζι μπασμάτι του κωδικού ΣΟ 1006 20 17 ή 1006 20 98 εισαγόμενο με μηδενικό δασμό κατ’ εφαρμογή του κατ’ εξουσιοδότηση κανονισμού (ΕΕ) 2023/2835 της Επιτροπής και του εκτελεστικού κανονισμού (ΕΕ) 2023/2834 της Επιτροπής, συνοδευόμενο από αντίτυπο του πιστοποιητικού γνησιότητας αριθ. … που εκδόθηκε από την/τον [ονομασία της αρμόδιας αρχής]
+
+— In English: Basmati rice falling within code of CN 1006 20 17 or 1006 20 98 and imported at a zero rate of duty under Commission Delegated Regulation (EU) 2023/2835 and Commission Implementing Regulation (EU) 2023/2834, accompanied by a duplicate of authenticity certificate No … drawn up by [name of the competent authority]
+
+— In French: riz Basmati du code NC 1006 20 17 ou 1006 20 98 importé à droit nul en application du règlement délégué (UE) 2023/2835 de la Commission et du règlement d’exécution (UE) 2023/2834 de la Commission, accompagné d’une copie conforme du certificat d’authenticité no … établi par [nom de l’autorité compétente]
+
+— In Irish: Rís Basmati atá faoi chód AC 1006 20 17 nó 1006 20 98 agus a allmhairítear ar ráta nialasach dleachta faoi Rialachán Tarmligthe (AE) 2023/2835 ón gCoimisiún agus Rialachán Cur Chun Feidhme (AE) 2023/2834 ón gCoimisiún, a mbeidh dúblach de dheimhniú barántúlachta Uimh. ... arna tharraingt suas ag [ainm an údaráis inniúil] ag gabháil léi
+
+— In Croatian: basmati riža oznake KN 1006 20 17 ili 1006 20 98 i uvezena uz nultu stopu carine u skladu s Delegiranom uredbom Komisije (EU) 2023/2835 i Provedbenom uredbom Komisije (EU) 2023/2834, popraćena duplikatom potvrde o autentičnosti br. … koju je izdao [naziv nadležnog tijela]
+
+— In Italian: Riso Basmati di cui al codice NC 1006 20 17 o 1006 20 98 importato a dazio zero ai sensi del regolamento delegato (UE) della Commissione 2023/2835 e del regolamento di esecuzione (UE) della Commissione 2023/2834, corredato di una copia del certificato di autenticità n. … rilasciato da [nome dell’autorità competente]
+
+— In Latvian: basmati rīsi ar KN kodu 1006 20 17 vai 1006 20 98 , kas importēti ar nulles nodokļa likmi saskaņā ar Komisijas Deleģēto regulu (ES) 2023/2835 un Komisijas Īstenošanas regulu (ES) 2023/2834 un kam pievienots [kompetentās iestādes nosaukums] sagatavotas autentiskuma apliecības Nr. .... dublikāts
+
+— In Lithuanian: Basmati ryžiai, kurių KN kodas 1006 20 17 arba 1006 20 98 ir kurie importuoti taikant nulinę muito normą pagal Komisijos deleguotąjį reglamentą (ES) 2023/2835 ir Komisijos įgyvendinimo reglamentą (ES) 2023/2834, prie kurių pridėtas [kompetentingos institucijos pavadinimas] parengto autentiškumo sertifikato Nr. … dublikatas
+
+— In Hungarian: Az 1006 20 17 vagy az 1006 20 98 KN-kód alá sorolt, az (EU) 2023/2835 felhatalmazáson alapuló bizottsági rendelet és az (EU) 2023/2834 bizottsági végrehajtási rendelet alkalmazásában nulla vámtétel mellett behozott basmati rizs, a/az [illetékes hatóság neve] által kiállított, … számú eredetiségigazolás másolatával együtt
+
+— In Maltese: ross Basmati li jaqa’ taħt il-kodiċi NM 1006 20 17 jew 1006 20 98 u importat b’rata ta’ dazju żero skont ir-Regolament Delegat tal-Kummissjoni (UE) 2023/2835 u r-Regolament ta’ Implimentazzjoni (UE) 2023/2834, akkumpanjat minn duplikat taċ-ċertifikat ta’ awtentiċità Nru... imfassal minn [isem l-awtorità kompetenti]
+
+— In Dutch: Basmati-rijst van GN-code 1006 20 17 of 1006 20 98 , ingevoerd met nulrecht overeenkomstig Gedelegeerde Verordening (EU) 2023/2835 van de Commissie en Uitvoeringsverordening (EU) 2023/2834 van de Commissie, vergezeld van een duplicaat van het echtheidscertificaat nr. …, opgesteld door [naam van de bevoegde instantie]
+
+— In Polish: ryż Basmati objęty kodem CN 1006 20 17 lub 1006 20 98 i przywożony z zastosowaniem zerowej stawki celnej zgodnie z rozporządzeniem delegowanym Komisji (UE) 2023/2835 i rozporządzeniem wykonawczym Komisji (UE) 2023/2834, któremu towarzyszy duplikat świadectwa autentyczności nr... sporządzony przez [name of the competent authority]
+
+— In Portuguese: arroz basmáti do código NC 1006 20 17 ou 1006 20 98 e importado com um direito nulo ao abrigo do Regulamento Delegado (UE) 2023/2835 da Comissão e do Regulamento de Execução (UE) 2023/2834 da Comissão, acompanhado de um duplicado do certificado de autenticidade n.°..., emitido por [nome da autoridade competente]
+
+— In Romanian: orez Basmati de la codul NC 1006 20 17 sau 1006 20 98 importat cu o rată a taxelor vamale egală cu zero în temeiul Regulamentului delegat (UE) 2023/2835 al Comisiei și al Regulamentului de punere în aplicare (UE) 2023/2834 al Comisiei, însoțit de un duplicat al certificatului de autenticitate nr. … întocmit de [denumirea autorității competente]
+
+— In Slovak: ryža Basmati s kódom KN 1006 20 17 alebo 1006 20 98 dovážaná s nulovou sadzbou cla v súlade s delegovaným nariadením Komisie (EÚ) 2023/2835 a vykonávacím nariadením Komisie (EÚ) 2023/2834, sprevádzaná duplikátom osvedčenia o pravosti č. … vystavenom [názov príslušného orgánu]
+
+— In Slovenian: Riž basmati iz oznake KN 1006 20 17 ali 1006 20 98 , uvožen po stopnji nič v skladu z Delegirano uredbo Komisije (EU) 2023/2835 in Izvedbeno uredbo Komisije (EU) 2023/2834, s priloženim dvojnikom potrdila o pristnosti št. …, ki ga je izdal [naziv pristojnega organa]
+
+— In Finnish: komission delegoidun asetuksen (EU) 2023/2835 ja komission täytäntööpanoasetuksen (EU) 2023/2834 mukaisesti tullivapaasti tuotu CN-koodiin 1006 20 17 tai 1006 20 98 kuuluva Basmati-riisi, jonka mukana on [toimivaltaisen viranomaisen nimi] myöntämän aitoustodistuksen nro … kaksoiskappale
+
+— In Swedish: Basmatiris med KN-nummer 1006 20 17 eller 1006 20 98 som importeras tullfritt i enlighet med kommissionens delegerade förordning (EU) 2023/2835 och kommissionens genomförandeförordning (EU) 2023/2834, åtföljt av ett duplikat av äkthetsintyg nr … som utfärdats av [den behöriga myndighetens namn].
+
+## ANNEX IV — Model of document of unloading referred to in Article 16(3)
+
+Product unloaded (CN code and, for common wheat, durum wheat and maize, quality declared in accordance with Article 18 of Commission Implementing Regulation (EU) 2023/2834): …
+
+Quantity unloaded (in kilograms): …
+
+## ANNEX V — Percentage referred to in Article 16(4)
+
+| Year | Percentage |
+| --- | --- |
+| 2023 | 12,5 |
+| 2024 and each subsequent year | 0 (duty-free) |
+
+## ANNEX VI
+
+**Classification standards for imported products referred to in Article 18**
+
+**(on the basis of a moisture content of 12 % by weight or equivalent)**
+
+<table>
+<tbody><tr><td>Product</td><td colspan="3">Common wheat</td><td colspan="3">Durum wheat</td><td>Flint maize</td></tr>
+<tr><td>CN code</td><td colspan="3">ex 1001 99 00 </td><td colspan="3">ex 1001 19 00 </td><td>ex 1005 90 00 </td></tr>
+<tr><td>Quality (1)</td><td>High</td><td>Medium</td><td>Low</td><td>High</td><td>Medium</td><td>Low</td><td>  </td></tr>
+<tr><td>1. Minimum protein percentage</td><td>14,0 </td><td>11,5 </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>2. Minimum specific weight kg/hl</td><td>77,0 </td><td>74,0 </td><td>—</td><td>76,0 </td><td>76,0 </td><td>—</td><td>76,0 </td></tr>
+<tr><td>3. Maximum impurity percentage (Schwarzbesatz)</td><td>1,5 </td><td>1,5 </td><td>—</td><td>1,5 </td><td>1,5 </td><td>—</td><td>—</td></tr>
+<tr><td>4. Minimum vitreous grain percentage</td><td>—</td><td>—</td><td>—</td><td>75,0 </td><td>62,0 </td><td>—</td><td>95,0 </td></tr>
+<tr><td>5. Maximum flotation index</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>25,0 </td></tr>
+<tr><td colspan="8">(1)  The methods of analysis provided for in Implementing Regulation (EU) 2016/1240 are applicable. </td></tr>
+</tbody>
+</table>
+
+**Tolerances**
+
+<table>
+<tbody><tr><td>Permitted tolerance</td><td>Common/durum wheat</td><td>Flint maize</td></tr>
+<tr><td>Protein percentage</td><td>0,7 </td><td>—</td></tr>
+<tr><td>Minimum specific weight</td><td>0,5 </td><td>0,5 </td></tr>
+<tr><td>Maximum impurity percentage</td><td>0,5 </td><td>—</td></tr>
+<tr><td>Vitreous grain percentage</td><td>-2,0 </td><td>-3,0 </td></tr>
+<tr><td>Flotation index</td><td>—</td><td>1,0 </td></tr>
+<tr><td colspan="3">‘—’: not applicable.</td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — Quotation exchanges and reference varieties referred to in Article 19(2), point (a)
+
+| Product | Common wheat | Maize |
+| --- | --- | --- |
+| Standard quality | High |  |
+| Reference variety (type/grade) for exchange quotation | Hard Red Spring No 2 | Yellow Corn No 2 |
+| Quotation exchange | Minneapolis Grain Exchange | Chicago Mercantile Exchange |
+
+## ANNEX VIII — Blank certificate of conformity from Senasa authorised by the Government of Argentina — (referred to in Article 21(2), first subparagraph, point (a))
+
+[image]
+
+## ANNEX IX
+
+**Blank certificate of conformity authorised by the Government of the United States of America for common wheat**
+
+**(referred to in Article 21(2), first subparagraph, point (b))**
+
+[image]
+
+**Blank certificate of conformity authorised by the Government of the United States of America for durum wheat**
+
+**(referred to in Article 21(2), first subparagraph, point (b))**
+
+[image]
+
+## ANNEX X
+
+**Blank certificate of conformity authorised by the Government of Canada for common and durum wheat and export grade specifications**
+
+**(referred to in Article 21(2), first subparagraph, point (c))**
+
+[image]
+
+**Export grade specifications for Canadian common and durum wheat**
+
+**COMMON WHEAT**
+
+| Canada Western Red Spring (CWRS) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CWRS | (Min.) 79,0 kg/hL | (Max.) 0,4 % including 0,2 % other seeds |
+| No 2 CWRS | (Min.) 77,5 kg/hL | (Max.) 0,75 % including. 0,2 % other seeds |
+| No 3 CWRS | (Min.) 76,5 kg/hL | (Max.) 1,25 % including 0,2 % other seeds |
+
+| Canada Western Extra Strong Red Spring (CWES) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CWES | (Min.) 78,0 kg/hL | (Max.) 0,75 % including 0,2 % other seeds |
+| No 2 CWES | (Min.) 76,0 kg/hL | (Max.) 1,5 % including 0,2 % other seeds |
+
+| Canada Prairie Spring Red (CPSR) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CPSR | (Min.) 77,0 kg/hL | (Max.) 0,75 % including 0,2 % other seeds |
+| No 2 CPSR | (Min.) 75,0 kg/hL | (Max.) 1,5 % including 0,2 % other seeds |
+
+| Canada Prairie Spring White (CPSW) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 (CPSW) | (Min.) 77,0 kg/hL | (Max.) 0,75 % including 0,2 % other seeds |
+| No 2 (CPSW) | (Min.) 75,0 kg/hL | (Max.) 1,5 % including 0,2 % other seeds |
+
+| Canada Western Red Winter (CWRW) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CWRW | (Min.) 78,0 kg/hL | (Max.) 1,0 % including 0,2 % other seeds |
+| No 2 CWRW | (Min.) 74,0 kg/hL | (Max.) 2,0 % including 0,2 % other seeds |
+
+| Canada Western Soft White Spring (CWSWS) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CWSWS | (Min.) 78,0 kg/hL | (Max.) 0,75 % including 0,2 % other seeds |
+| No 2 CWSWS | (Min.) 75,5 kg/hL | (Max.) 1,0 % including 0,2 % other seeds |
+| No 3 CWSWS | (Min.) 75,0 kg/hL | (Max.) 1,5 % including 0,2 % other seeds |
+
+**DURUM WHEAT**
+
+| Canada Western Amber Durum (CWAD) | Test weight | Total foreign material including other cereal grains |
+| --- | --- | --- |
+| No 1 CWAD | (Min.) 80,0 kg/hL | (Max.) 0,5 % including 0,2 % other seeds |
+| No 2 CWAD | (Min.) 79,5 kg/hL | (Max.) 0,8 % including 0,2 % other seeds |
+| No 3 CWAD | (Min.) 78,0 kg/hL | (Max.) 1,0 % including 0,2 % other seeds |
+| No 4 CWAD | (Min.) 75,0 kg/hL | (Max.) 3,0 % including 0,2 % other seeds |
+
+**Notes:**
+
+| ‘Other Cereal Grains’: | In these grades, include only oats, barley, rye and triticale. |
+| --- | --- |
+| ‘Common wheat’: | For common wheat exports, the Canadian Grain Commission will supply documentation with the certificate specifying the protein percentage for the cargo in question. |
+| ‘Durum wheat’: | For durum wheat exports, the Canadian Grain Commission will supply documentation with the certificate attesting to the vitreous kernel percentage and specific weight (kilograms/hectolitre) of the cargo in question. |
+
+## ANNEX XI — Standard method for determining the flotation index for flint maize — (referred to in Article 21(3))
+
+Prepare an aqueous solution of sodium nitrate of specific weight 1,25 and conserve it at 35 °C.
+
+Place in the solution 100 grains of maize from a representative sample of maximum moisture content 14,5 %.
+
+Shake the solution at 30 second intervals for 5 minutes to eliminate air bubbles.
+
+Separate the floating from the submerged grains and count them.
+
+Flotation index for trial = (number of floating grains/number of submerged grains) × 100
+
+Repeat five times.
+
+The flotation index is the arithmetic means for the five trials excluding the two extreme values.
+
+## ANNEX XII — Certificate issued by the Federal Grain Inspection Service (FGIS) and certificate issued by the United States wet milling industry referred to in Article 22(1)
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX XIII — Entries referred to in Article 23
+
+— In Bulgarian: Специална експортна такса съгласно Регламент (ЕО) № 2008/97 платена в размер на …;
+
+— In Spanish: Tasa especial aplicable a la exportación según el Reglamento (CE) no 2008/97 satisfecha con la suma de …
+
+— In Czech: Zvláštní vývozní dávka podle nařízení (ES) č. 2008/97 zaplacena ve výši …
+
+— In Danish: Særlig udførselsafgift i henhold til forordning (EF) nr. 2008/97, betalt med et beløb på …
+
+— In German: Besondere Ausfuhrabgabe gemäß Verordnung (EG) Nr. 2008/97 in Höhe von … entrichtet
+
+— In Estonian: Ekspordi erimaks makstud summas … vastavalt määrusele (EÜ) nr 2008/97
+
+— In Greek: Ειδικός φόρος κατά την εξαγωγή σύμφωνα με τον κανονισμό (ΕΚ) αριθ. 2008/97 που πληρώθηκε για ποσό …
+
+— In English: Special export tax under Regulation (EC) No 2008/97 paid to an amount of …
+
+— In French: Taxe spéciale à l’exportation selon le règlement (CE) no 2008/97 acquittée pour un montant de …
+
+— In Irish: Dleacht onnmhairiúcháin speisialta faoi Rialachán (CE) Uimh. 2008/97 a íoctar suas le ...
+
+— In Croatian: Posebna izvozna pristojba u skladu s Uredbom (EZ) br. 2008/97 plaćena u iznosu od …
+
+— In Italian: Tassa speciale per l’esportazione pagata, secondo il regolamento (CE) n. 2008/97, per un importo di …
+
+— In Latvian: Saskaņā ar Regulu (EK) Nr. 2008/97, samaksāta speciālā izvešanas nodeva … apmērā
+
+— In Lithuanian: Vadovaujantis Reglamentu (EB) Nr. 2008/97, sumokėtas … dydžio specialusis eksporto mokestis
+
+— In Hungarian: A 2008/97/EK rendelet szerinti különleges exportadó … összegben megfizetve
+
+— In Maltese: Taxxa speċjali fuq l-esportazzjoni, skond ir-Regolament (KE) Nru 2008/97, imħallsa għall-ammont ta’ …
+
+— In Dutch: Speciale heffing bij uitvoer bedoeld in Verordening (EG) nr. 2008/97 ten bedrage van … voldaan
+
+— In Polish: Specjalny podatek eksportowy według rozporządzenia (WE) nr 2008/97 zapłacony w wysokości …
+
+— In Portuguese: Imposição especial de exportação, nos termos do Regulamento (CE) n.o 2008/97, paga num montante de …
+
+— In Romanian: Taxă specială de export, conform Regulamentului (CE) nr. 2008/97, achitată pentru o valoare de …
+
+— In Slovak: Osobitný vývozný poplatok podľa nariadenia (ES) č. 2008/97 vo výške …
+
+— In Slovenian: Posebna izvozna dajatev v skladu z Uredbo (ES) št. 2008/97, plačilo za znesek …
+
+— In Finnish: Asetuksen (EY) N:o 2008/97 mukainen erityisvientivero määrältään …
+
+— In Swedish: Särskild exportskatt i enlighet med förordning (EG) nr 2008/97, betalt med ett belopp på …
+
+## ANNEX XIV — Attestation of equivalence referred to in Article 38(1)
+
+<table>
+<tbody><tr><td>1. Consignor (full name and address)</td><td>2. No</td><td>ORIGINAL</td></tr>
+<tr><td>  </td><td colspan="2" rowspan="2">ATTESTATION OF EQUIVALENCE FOR THE IMPORTATION OF HOPS AND HOP PRODUCTS INTO THE EUROPEAN UNION</td></tr>
+<tr><td>3. Consignee (full name and address)</td></tr>
+<tr><td>  </td><td colspan="2">Виж превода на гърба – Véase traducción al dorso – Viz překlad na druhé straně – Oversættelse se bagsiden – Übersetzung siehe Rückseite – Vaata tõlget pöördel – Δείτε μετάφραση στην πίσω σελίδα – See translation overleaf – Voir traduction au verso – Féach an t-aistriúchán ar an taobh thall – Vidjeti prijevod na poleđini – Vedi traduzione a tergo – skatīt tulkojumu nākamajā lappusē – Žr. vertimą kitame puslapyje – a fordítást lásd a túlsó oldalon – Ara t-traduzzjoni mniżżla fuq wara – Zie vertaling aan ommezijde – Zob. tłumaczenie na odwrocie – Ver tradução no verso – A se vedea traducerea pe verso – Pozri preklad na druhej strane – Glej prevod na hrbtni strani – Katso kääntöpuolella oleva käännös – För översättning se baksidan</td></tr>
+<tr><td>IMPORTANT NOTES</td><td>4. Country of Origin</td><td>  </td></tr>
+<tr><td rowspan="2">A. This attestation must be submitted to the customs authorities in the Union when the products are released for free circulation in the Union or when the consignment is split up before it is released for free circulation. B. When the consignment is split up, the customs authorities, after endorsing the attestation, shall retain the original and forward a copy to the authorities responsible for hops in the Member State concerned.  C. When the products are released for free circulation, after endorsing the attestations, the customs authorities should retain the original, return one copy to the declarant and forward one copy to the authorities responsible for hops in the Member State concerned. </td><td>5. Place of production of hops</td><td>6. Harvesting year</td></tr>
+<tr><td>7. Place of processing</td><td>8. Date of processing</td></tr>
+<tr><td colspan="2">9. Marks, numbers, number and kind of packages – description of products – variety</td><td>10. Gross weight (kg)</td></tr>
+<tr><td colspan="3">11. ATTESTATION BY ISSUING AUTHORITY I the undersigned certify that the products described above comply with the rules on hops and hop products applicable in the European Union. </td></tr>
+<tr><td>12. Issuing authority (full name and address)</td><td>At …,</td><td>on …</td></tr>
+<tr><td>  </td><td>… (Signature) </td><td>(Stamp)</td></tr>
+<tr><td colspan="3">13. RESERVED FOR THE CUSTOMS AUTHORITIES IN THE UNION The products described above have been released for free circulation (1)  This attestation has been replaced by the extracts noted in Section 18 (1) </td></tr>
+<tr><td>At …, on …</td><td>… (Signature) </td><td>(Stamp)</td></tr>
+<tr><td colspan="3">(1)  Delete as appropriate. </td></tr>
+</tbody>
+</table>
+
+back side
+
+<table>
+<tbody><tr><td colspan="4">14. ATTRIBUTIONS Indicate the quantity available in part 1 of column 16 and the quantity attributed in Part 2 thereof. </td></tr>
+<tr><td colspan="2">15. Gross weight (kg)</td><td rowspan="2">18. Extract No</td><td rowspan="2">19. Name, Member State, stamp and signature of the attributing authority</td></tr>
+<tr><td>16. In figures</td><td>17. In words for the quantity attributed</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td>1</td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td></tr>
+<tr><td>2</td></tr>
+<tr><td colspan="4">20. Extension to be attached hereto.</td></tr>
+</tbody>
+</table>
+
+## ANNEX XV — Extract of attestation of equivalence referred to in Article 41(1)
+
+<table>
+<tbody><tr><td>1. Consignor (name and full address)</td><td>2. No</td><td>ORIGINAL</td></tr>
+<tr><td>  </td><td colspan="2" rowspan="2">EXTRACT FROM AN ATTESTATION OF EQUIVALENCE FOR THE IMPORTATION OF HOPS AND HOP PRODUCTS INTO THE EUROPEAN UNION</td></tr>
+<tr><td>3. Consignee (name and full address)</td></tr>
+<tr><td>  </td><td colspan="2">Виж превода на гърба – Véase traducción al dorso – Viz překlad na druhé straně – Oversættelse se bagsiden – Übersetzung siehe Rückseite – Vaata tõlget pöördel – Δείτε μετάφραση στην πίσω σελίδα – See translation overleaf – Voir traduction au verso – Féach an t-aistriúchán ar an taobh thall – Vidjeti prijevod na poleđini – Vedi traduzione a tergo – skatīt tulkojumu nākamajā lappusē – Žr. vertimą kitame puslapyje – a fordítást lásd a túlsó oldalon – Ara t-traduzzjoni mniżżla fuq wara – Zie vertaling aan ommezijde – Zob. tłumaczenie na odwrocie – Ver tradução no verso – A se vedea traducerea pe verso – Pozri preklad na druhej strane – Glej prevod na hrbtni strani – Katso kääntöpuolella oleva käännös – För översättning se baksidan</td></tr>
+<tr><td>IMPORTANT NOTES</td><td colspan="2">4. Country of origin</td></tr>
+<tr><td rowspan="2">A. This extract must be submitted to the customs authorities in the Union when the products are released for free circulation. B. After endorsing the documents, the customs authorities in the Union shall retain the original, return one copy to the declarant and forward the other copy to the authorities responsible for hops in the Member State concerned. </td><td>5. Place of production of hops</td><td>6. Harvesting year</td></tr>
+<tr><td>7. Place of processing</td><td>8. Date of processing</td></tr>
+<tr><td colspan="2">9. Marks, numbers, number and kind of packages – description of products – variety</td><td>10. Gross weight (kg)</td></tr>
+<tr><td colspan="3">11. DECLARATION BY THE CONSIGNOR I the undersigned declare that the products above were covered by the attestation of equivalence issued on… (date), reference No … by the following issuing authority… (name and full address) </td></tr>
+<tr><td>At …, on …</td><td>  </td><td>… (Signature) </td></tr>
+<tr><td colspan="3">12. ENDORSEMENT BY THE CUSTOMS AUTHORITIES Declaration certified as correct. The information on this extract corresponds to that given relevant attestation of equivalence. </td></tr>
+<tr><td>13. Customs office (full name and address)</td><td>At …,</td><td>on …</td></tr>
+<tr><td>  </td><td>… (Signature) </td><td>(Stamp)</td></tr>
+<tr><td colspan="3">14. RESERVED FOR THE CUSTOMS AUTHORITIES IN THE MEMBER STATE WHERE THE PRODUCTS ARE RELEASED FOR FREE CIRCULATION The products described above have been released for free circulation </td></tr>
+<tr><td>At …, on …</td><td>… (Signature) </td><td>(Stamp)</td></tr>
+</tbody>
+</table>
+
+## ANNEX XVI — Rules governing the forms referred to in Articles 38 and 41
+
+**I. PAPER**
+
+The paper to be used is a white paper weighing at least 40 g/m2.
+
+**II. SIZE**
+
+The size is: 210 × 297 mm.
+
+**III. LANGUAGES**
+
+A. The attestation of equivalence must be printed in one of the official languages of the Union; it can also be printed in the official language or one of the official languages of the issuing country.
+
+B. The extract of the attestation of equivalence must be printed in one of the official languages of the Union designated by the competent authorities of the issuing Member State.
+
+**IV. COMPLETION OF THE FORMS**
+
+A. The forms shall be completed in typescript or by computerised means or by hand; in the latter case, they shall be completed legibly in ink and in printed characters.
+
+B. Each form is individualised by a number given by the issuing authority.
+
+C. In the case of the attestation of equivalence and its extracts:
+
+1\. Section 5 shall not be completed for hop products made from blends of hops;
+
+2\. Sections 7 and 8 shall be completed for all products made from hops;
+
+3\. the description of the products (Section 9) shall be one of the following:
+
+(a) ‘unprepared hops’: i.e. hops which have only undergone preliminary drying and packaging;
+
+(b) ‘prepared hops’: i.e. hops which have undergone final drying and packaging;
+
+(c) ‘hop powder’ (which shall include hop pellets and enriched hop powder);
+
+(d) ‘isomerised hop extract’: i.e. an extract in which the alpha acids have been almost totally isomerised;
+
+(e) ‘extract of hops’: i.e. other extracts than isomerised extract of hops;
+
+(f) ‘mixed hop products’: i.e. a mixture of the products referred to in points (c), (d) and (e), excluding hops;
+
+4\. the description ‘unprepared hops’ or ‘prepared hops’ shall be followed by the word ‘seedless’ if the seed content is less than 2 % of the weight of the hops, and by the word ‘seeded’ in other cases;
+
+5\. in cases where products made from hops are obtained from hops of different varieties and/or different places of production, these different varieties and/or places of production shall be stated in Section 9, followed by the percentage by weight of each variety from each production area making up the blend.
+
+**V. SPACE**
+
+If the space for making attributions in case of a paper-based attestation of equivalence is not sufficient, the customs authorities may attach extension pages, validated through allongement stamping.
+
+## ANNEX XVII — Product list and trigger prices referred to in Article -43a
+
+| CN code | Trigger price EUR/100 kg |
+| --- | --- |
+| 0105 11 11 | 8 588,0 |
+| 0105 11 19 | 8 588,0 |
+| 0105 11 91 | 8 588,0 |
+| 0105 11 99 | 588,0 |
+| 0105 12 00 0105 19 20 | 3 242,3 |
+| 0105 19 90 | 14 525,0 |
+| 0105 92 00 0105 93 00 | 55,8 |
+| 0105 99 10 | 115,1 |
+| 0105 99 20 | 185,9 |
+| 0105 99 30 | 147,8 |
+| 0105 99 50 | 133,3 |
+| 0207 11 10 | 142,3 |
+| 0207 11 30 | 100,2 |
+| 0207 11 90 | 128,5 |
+| 0207 24 10 | 170,0 |
+| 0207 24 90 | 250,0 |
+| 0207 32 11 | 158,8 |
+| 0207 32 15 | 185,1 |
+| 0207 32 19 | 173,5 |
+| 0207 32 51 | 207,1 |
+| 0207 32 59 | 257,3 |
+| 0207 32 90 | 173,2 |
+| 0207 12 10 | 98,8 |
+| 0207 12 90 | 131,2 |
+| 0207 25 10 | 177,7 |
+| 0207 25 90 | 179,8 |
+| 0207 33 11 | 170,1 |
+| 0207 33 19 | 167,9 |
+| 0207 33 51 | 200,0 |
+| 0207 33 59 | 248,2 |
+| 0207 33 90 | 204,5 |
+| 0207 13 10 | 339,8 |
+| 0207 13 20 | 100,0 |
+| 0207 13 30 | 180,0 |
+| 0207 13 50 | 227,1 |
+| 0207 13 60 | 158,1 |
+| 0207 13 70 | 310,7 |
+| 0207 13 99 | 100,0 |
+| 0207 26 10 | 339,0 |
+| 0207 26 20 | 342,3 |
+| 0207 26 50 | 279,9 |
+| 0207 26 60 | 142,9 |
+| 0207 26 70 | 177,8 |
+| 0207 26 80 | 200,0 |
+| 0207 26 99 | 216,7 |
+| 0207 35 11 | 435,3 |
+| 0207 35 15 | 423,2 |
+| 0207 35 23 | 133,3 |
+| 0207 35 31 | 100,0 |
+| 0207 35 41 | 78,3 |
+| 0207 35 51 | 463,4 |
+| 0207 35 53 | 331,9 |
+| 0207 35 61 | 309,7 |
+| 0207 35 63 | 164,2 |
+| 0207 14 10 | 333,5 |
+| 0207 14 20 | 251,1 |
+| 0207 14 30 | 97,5 |
+| 0207 14 40 | 80,0 |
+| 0207 14 50 | 235,7 |
+| 0207 14 60 | 158,9 |
+| 0207 14 70 | 316,6 |
+| 0207 14 99 | 143,4 |
+| 0207 27 10 | 329,9 |
+| 0207 27 20 | 337,8 |
+| 0207 27 40 | 80,8 |
+| 0207 27 50 | 280,0 |
+| 0207 27 60 | 111,1 |
+| 0207 27 70 | 172,7 |
+| 0207 27 80 | 233,3 |
+| 0207 27 99 | 131,3 |
+| 0207 36 11 | 465,3 |
+| 0207 36 15 | 354,5 |
+| 0207 36 21 | 100,0 |
+| 0207 36 23 | 133,3 |
+| 0207 36 31 | 107,8 |
+| 0207 36 41 | 81,1 |
+| 0207 36 51 | 432,4 |
+| 0207 36 53 | 308,3 |
+| 0207 36 61 | 309,7 |
+| 0207 36 63 | 166,0 |
+| 0207 36 71 | 234,5 |
+| 0207 36 79 | 500,0 |
+| 0207 36 90 | 163,2 |
+| 0209 00 90 | 135,8 |
+| 1602 32 11 1602 39 21 | 318,6 |
+| 0407 00 11 | 935,9 |
+| 0407 00 19 | 743,6 |
+| 0407 00 30 | 52,7 |
+| 0408 11 80 | 343,3 |
+| 0408 19 81 | 69,6 |
+| 0408 19 89 | 111,9 |
+| 0408 91 80 | 271,4 |
+| 0408 99 80 | 59,7 |
+| 3502 11 90 | 521,5 |
+| 3502 19 90 | 51,7 |
+
+( 1 ) Commission Implementing Regulation (EU) 2020/761 of 17 December 2019 laying down rules for the application of Regulations (EU) No 1306/2013, (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the management system of tariff quotas with licences (OJ L 185, 12.6.2020, p. 24, ELI: http://data.europa.eu/eli/reg_impl/2020/761/oj).
+
+( 2 ) Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents (OJ L 171, 4.7.2017, p. 100).
+
+( 3 ) Commission Implementing Regulation (EU) 2017/1185 of 20 April 2017 laying down rules for the application of Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council as regards notifications to the Commission of information and documents and amending and repealing several Commission Regulations (OJ L 171, 4.7.2017, p. 113).
+
+( 4 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558).
+
+( 5 ) Council Decision 2005/476/EC of 21 June 2005 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the United States of America relating to the method of calculation of applied duties for husked rice and amending Decisions 2004/617/EC, 2004/618/EC and 2004/619/EC (OJ L 170, 1.7.2005, p. 67).
+
+( 6 ) Commission Regulation (EC) No 152/2009 of 27 January 2009 laying down the methods of sampling and analysis for the official control of feed (OJ L 54, 26.2.2009, p. 1).
+
+( 7 ) Commission Implementing Regulation (EU) 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage (OJ L 206, 30.7.2016, p. 71).
+
+( 8 ) Commission Regulation (EC) No 1850/2006 of 14 December 2006 laying down detailed rules for the certification of hops and hop products (OJ L 355, 15.12.2006, p. 72).
+
+( 9 ) Regulation (EU) No 510/2014 of the European Parliament and of the Council of 16 April 2014 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products and repealing Council Regulations (EC) No 1216/2009 and (EC) No 614/2009 (OJ L 150, 20.5.2014, p. 1, ELI: http://data.europa.eu/eli/reg/2014/510/oj).
+
+( 10 ) https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp.
+
+( 11 ) Commission Implementing Regulation (EU) 2020/761 of 17 December 2019 laying down rules for the application of Regulations (EU) No 1306/2013, (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the management system of tariff quotas with licences (OJ L 185, 12.6.2020, p. 24, ELI: http://data.europa.eu/eli/reg_impl/2020/761/oj).
+
+( 12 ) Commission Implementing Regulation (EU) 2020/1988 of 11 November 2020 laying down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 510/2014 of the European Parliament and of the Council as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle (OJ L 422, 14.12.2020, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2020/1988/oj).

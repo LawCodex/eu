@@ -1,0 +1,232 @@
+---
+title: "Commission Regulation (EC) No 1238/95 of 31 May 1995 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office"
+identifier: "31995R1238"
+eli: "http://data.europa.eu/eli/reg/1995/1238/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1995-05-31
+entry_into_force: 1995-04-29
+last_amended: 2023-07-01
+consolidated_version: "01995R1238-20230701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01995R1238-20230701"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1238/95 of 31 May 1995 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office
+
+**COMMISSION REGULATION (EC) No 1238/95**
+
+**of 31 May 1995**
+
+**establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 329/2000 of 11 February 2000 </td><td> L 37</td><td>19</td><td>12.2.2000</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 569/2003 of 28 March 2003 </td><td> L 82</td><td>13</td><td>29.3.2003</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EC) No 1177/2005 of 20 July 2005 </td><td> L 189</td><td>26</td><td>21.7.2005</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EC) No 2039/2005 of 14 December 2005 </td><td> L 328</td><td>33</td><td>15.12.2005</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 572/2008 of 19 June 2008 </td><td> L 161</td><td>7</td><td>20.6.2008</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 510/2012 of 15 June 2012 </td><td> L 156</td><td>38</td><td>16.6.2012</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 623/2013 of 27 June 2013 </td><td> L 177</td><td>20</td><td>28.6.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1294/2014 of 4 December 2014 </td><td> L 349</td><td>30</td><td>5.12.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/2206 of 30 November 2015 </td><td> L 314</td><td>22</td><td>1.12.2015</td></tr>
+<tr><td> M10</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/2141 of 6 December 2016 </td><td> L 332</td><td>13</td><td>7.12.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1978 of 26 November 2019 </td><td> L 308</td><td>58</td><td>29.11.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1104 of 6 June 2023 </td><td> L 147</td><td>65</td><td>7.6.2023</td></tr>
+</table>
+
+NB: This consolidated version contains references to the European unit of accout and/or the ecu, which from 1 January 1999 should be understood as references to the euro — Council Regulation (EEC) No 3308/80 (OJ L 345, 20.12.1980, p. 1) and Coundil Regulation (EC) No 1103/97 (OJ L 162, 19.6.1997, p. 1).
+
+**COMMISSION REGULATION (EC) No 1238/95**
+
+**of 31 May 1995**
+
+**establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office**
+
+## Article 1 — Scope
+
+1\. Fees due to the Office, as provided for in the Basic Regulation and the Proceedings Regulation, shall be charged in accordance with this Regulation.
+
+2\. The fees due to the Office shall be laid down, charged and paid in euros  .
+
+3\. Paragraphs 1 and 2 shall apply mutatis mutandis to any surcharge, due to the Office.
+
+4\. Details of the fees which may be charged by authorities of Member States by virtue of provisions of the Basic Regulation or this Regulation shall be governed by the relevant national rules of the Member States concerned.
+
+5\. Where the President of the Office is empowered to take a decision as to the amount of fees and the way in which they are to be paid, such decisions shall be published in the Official Gazette of the Office.
+
+## Article 2 — General provisions
+
+1\. For each individual matter, a party to proceedings as specified in the Proceedings Regulation shall be liable to pay fees or surcharges. In the case of several parties to proceedings acting in common or on whose behalf a common course of action is pursued, each shall be liable to such payment as joint debtor.
+
+2\. Unless otherwise provided in this Regulation, the provisions relating to proceedings before the Office, including provisions as to languages, as laid down in the Basic Regulation and the Proceedings Regulation, shall apply.
+
+## Article 3 — Manner of payment
+
+1\. Fees and surcharges due to the Office shall be paid by transfer to a bank account held by the Office.
+
+2\. The President of the Office may allow alternative forms of payment in accordance with rules on working methods which shall be established pursuant to Article 36(1)(d) of Council Regulation (EC) No 2100/94.
+
+## Article 4 — Date to be regarded as the date on which payment is received
+
+1\. The date on which a payment of fees and surcharges shall be considered to have been received by the Office shall be the date on which the full amount of the transfer referred to in Article 3(1) is entered in a bank account held by the Office.
+
+2\. Where the President of the Office allows other forms of payment in accordance with Article 3 (2), he shall simultaneously include in the conditions the date to be regarded as the date on which the payment is received.
+
+3\. Where the payment is considered not to have been received by the Office within the requisite time limit, such time limit shall be considered to have been observed vis-à-vis the Office where sufficient documentary evidence is produced within that time limit to show that the person making the payment duly gave an order to a banking establishment or a post office to transfer the amount of the payment in euro to a bank account held by the Office within the time limit.
+
+5\. Documentary evidence shall be regarded as sufficient within the meaning of point 3 where an acknowledgement of provision of the transfer order, issued by a banking establishment or a post office, is produced. However, where the transfer ordered was a transfer using the SWIFT electronic bank payment method, the acknowledgement of provision of the transfer order shall take the form of a copy of the SWIFT report, stamped and signed by a duly authorised official of the bank or post office.
+
+## Article 5 — Name of the person making the payment and the purpose of payment
+
+1\. A person making a payment of fees or surcharges shall indicate in writing his name and the purpose of such payment.
+
+2\. If the Office cannot establish the purpose of a payment, it shall require the person having made the payment to inform it thereof in writing within one month. If the purpose is not indicated within that period, the payment shall be deemed not to have been made and shall be refunded to the person having made it.
+
+3\. If after enquiry with the bank concerned, the identity of the person making the payment cannot be confirmed and the amount cannot be refunded to any particular person, the amount shall be considered as other revenues within the deadlines outlined in the internal financial provisions of the Office referred to in Article 112 of the Basic Regulation and adopted by the Administrative Council of the Office.
+
+## Article 6 — Underpayment
+
+A time-limit for payment of fees or surcharges shall, in principle, be deemed to have been observed only if the full amount of the fee or surcharge has been paid in due time. If the fees or surcharges are not paid in full, the amount which has been paid shall be refunded after any time-limit for payment has expired. The Office may, however, where this is considered justified, overlook any small deficiencies, without prejudicing the rights of the person making the payment.
+
+## Article 7 — Application fee
+
+1\. The applicant for a Community Plant Variety Right (the applicant) shall pay a fee of EUR 450 for the processing of an application filed and submitted via a web form by electronic means, made through the Office’s online application system.
+
+The applicant shall accept the Terms and Conditions of use of the secure electronic communications platform maintained by the Office and shall use that platform for submitting applications referred to in the first subparagraph and other documents, receiving notifications and documents sent by the Office, replying to such notifications and performing other actions.
+
+The applicant shall pay a fee of EUR 800 for the processing of an application submitted by means other than through the Office’s online application system.
+
+2\. The applicant shall take the necessary steps for payment of the application fee, in accordance with Article 3 of this Regulation, prior to or on the date on which the application is filed, directly at the Office or at one of the sub-offices established or national agencies entrusted pursuant to Article 30(4) of the Basic Regulation.
+
+3\. If the payment of the application fee is considered not to have been received at the same time as the application is received by the Office, the Office shall specify, in accordance with Article 51 of the Basic Regulation, a period of two weeks during which the formal date of application, assigned in accordance with the aforesaid Article 51, shall not be affected; a new request for payment as provided for in Article 83 (2) of the Basic Regulation shall not be issued to the applicant prior to the expiry of that period.
+
+4\. If the payment of the application fee is considered not to have been received within the time limit specified pursuant to paragraph 3, the date of receipt of payment shall be treated as the date of application for the purposes of Article 51 of the Basic Regulation.
+
+5\. Paragraph 4 shall not apply where the application is accompanied by sufficient documentary evidence showing that the person making the payment duly gave an order to a banking establishment or a post office to transfer the amount of the payment in euro to a bank account held by the Office; Article 4 (5) shall apply mutatis mutandis.
+
+6\. As long as payment of the application fee is considered not to have been received by the Office, it shall not publish the application concerned and shall defer the technical examination.
+
+7\. Where the application fee is received but the application is not valid under Article 50 of the basic Regulation, the Office shall refund the application fee when notifying the applicant of the deficiencies found in the application.
+
+## Article 8 — Fees relating to technical examination
+
+1\. Fees for arranging and carrying out the technical examination of a variety being the subject of an application for a Community plant variety right (examination fee) shall be paid in accordance with Annex I for each growing period started. In the case of varieties for which material with specific components has to be used repeatedly for the production of material, the examination fee laid down in Annex I shall be due in respect of such variety and in respect of each of the components for which an official description is not available and which must also be examined.
+
+2\. The examination fee for the first growing period shall be due and payable no later than one month after  the closing date for receipt of the material for the technical examination.
+
+3\. The examination fee for each subsequent growing period shall be due and payable no later than one month prior to the beginning of such period unless the Office decides otherwise.
+
+4\. The President of the Office shall publish the dates for payment of the examination fees in the Official Gazette of the Office.
+
+5\. In the case of an examination report on the results of a technical examination which has already been carried out, in accordance with Article 27 of the Proceedings Regulation  , prior to the date of application under Article 51 of the Basic Regulation, an administrative fee shall be due within such time limit as the Office shall specify.
+
+The amount of that fee shall be determined by the President of the Office after consultation of the Administrative Council and shall be published in the Official Gazette of the Office.
+
+## Article 9 — Annual fee
+
+1\. The Office shall charge a holder of a Community plant variety right (‘the holder’) a fee of EUR 380 for each year of the duration of a Community plant variety right (‘annual fee’), as referred to in Article 113(2), point (d), of the Basic Regulation.
+
+2\. Payment of the annual fee shall be due:
+
+(a) in relation to the first year of the term of the Community plant variety right, within 60 days of date of the grant of the right; and
+
+(b) in relation to subsequent years of the term of the Community plant variety right, on the first day of the calendar month preceding the month in which the anniversary of the date grant falls.
+
+3\. The Office shall issue to the holder a request containing the subject of payment, the amount due, the date for payment, and information on the possibility of a surcharge pursuant to Article 13 (2) (a).
+
+4\. The Office shall not refund any payments in relation to the annual fee which have been effected in order to keep the Community plant variety right in force, unless the Office has received a surrender of a Community plant variety right between the date for payment and the anniversary of the date grant as specified under point (b) of paragraph 2. Surrenders received after the anniversary of the date grant shall not be taken into account for such payments.
+
+## Article 10 — Fees for processing specific requests
+
+1\. Fees for the processing of a request, payable by the person making such request, shall be as follows:
+
+(a) for an application for a compulsory exploitation right, including any entries in the Registers, an application for an exploitation right to be granted by the Office pursuant to Article 100 (2) of the Basic Regulation, or a request to amend such exploitation rights, once granted, (compulsory licence fee), save for the Commission or a Member State in the circumstances referred to in Article 29 (2) thereof: EUR  1 500 ;
+
+(b) for a request for the following entries into the Register of Community plant variety rights (register fee):
+
+— transfer of a Community plant variety right, contractual exploitation right,
+
+— identification of varieties as initial or essentially derived,
+
+— institution of actions in respect of claims referred to in Articles 98 (1), (2) and 99 of the Basic Regulation,
+
+— a Community plant variety right given as a security or as the subject of rights in rem, or
+
+— any levy of execution as referred to in Article 24 of the Basic Regulation: EUR 100  ;
+
+(c) for a request for any entry in the Register of Applications for Community plant variety rights or the Register of Community plant variety rights, other than those referred to in (a) and (b) above: EUR  100;
+
+(d) for a request for determining amount of costs pursuant to Article 85 (5) of the Regulation: EUR  100.
+
+2\. The fees referred to in paragraph 1 shall be due and payable on the date of receipt of the request to which they relate. Where the payment is not received in good time, Article 83 (2) of the Basic Regulation shall apply.
+
+3\. Where a request for an entry referred to in point (b) or (c) of paragraph 1 concerns more than one application or registered right, applied for or held by the same person, only one fee shall be charged.
+
+## Article 11 — Appeal fee
+
+1\. The appellant shall pay an appeal fee of EUR 2 100 for the processing of an appeal, as provided for in Article 113(2), point (c), of the Basic Regulation.
+
+2\. A third of the appeal fee shall be due on the date of receipt of the appeal at the Office; Article 83 (2) of the Basic Regulation shall apply to that third. The remaining two-thirds of the appeal fee shall be due, upon request of the Office, within one month after remittal of the case by the relevant body of the Office of the Board of Appeal.
+
+3\. A refund of the appeal fee already paid shall be ordered, in the event of an interlocutory revision, under the authority of the President of the Office and in other cases by the Board of Appeal, provided that the conditions laid down in Article 83 (4) of the Basic Regulation are met.
+
+4\. Paragraph 1 shall not apply to the Commission or a Member State, being the appellant against a decision taken under Article 29 (2) of the Basic Regulation.
+
+## Article 12 — Fees laid down by the President of the Office
+
+1\. The President of the Office shall fix the fees for the following matters:
+
+(a) the administrative fee referred to in Article 8(5);
+
+(b) fees for issuing certified copies of documents;
+
+(c) the administrative fee referred to in Article 82(2) of the Proceedings Regulation;
+
+(d) the administrative fee concerning the declaration of Community plant variety right null and void, as referred to in Article 20 of the Basic Regulation;
+
+(e) the administrative fee concerning a written objection to granting a Community plant variety right, as referred to in Article 59 of the Basic Regulation.
+
+2\. The President of the Office may decide to make the services mentioned under paragraph (1(a) to (e) dependent on an advance payment.
+
+## Article 14 — Derogations
+
+1\. Notwithstanding Article 7, the formal date of application assigned under Article 51 of the Basic Regulation shall remain valid in respect of all applications filed in accordance with Article 116 (1) or (2) thereof if sufficient evidence is produced on 30 September 1995 at the latest that the applicant for the Community plant variety right carried out the acts necessary for payment of the application fee.
+
+2\. Notwithstanding Article 8 (5), an administrative fee of EUR  100 shall be paid where a technical examination of the variety is carried out on the basis of the available findings from any proceedings for the grant of a national plant variety right in accordance with Article 116 (3) of the Basic Regulation. Such administrative fee shall be due on 30 November 1995 at the latest.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Fees relating to technical examination as referred to in Article 8
+
+The fee to be paid for the technical examination of a variety shall be determined in accordance with the table:
+
+<table>
+<tbody><tr><td colspan="3">(in EUR)</td></tr>
+<tr><td>  </td><td>Cost group</td><td>Fee</td></tr>
+<tr><td colspan="3">Agricultural group</td></tr>
+<tr><td>1</td><td>Potato</td><td>2 580 </td></tr>
+<tr><td>2</td><td>Grasses</td><td>3 650 </td></tr>
+<tr><td>3</td><td>Other agricultural species</td><td>1 980 </td></tr>
+<tr><td colspan="3">Fruit group</td></tr>
+<tr><td>4</td><td>Apple</td><td>4 130 </td></tr>
+<tr><td>5</td><td>Other fruit species</td><td>4 130 </td></tr>
+<tr><td colspan="3">Ornamental group</td></tr>
+<tr><td>6</td><td>Ornamental living greenhouse</td><td>2 390 </td></tr>
+<tr><td>7</td><td>Ornamental living outdoor</td><td>3 070 </td></tr>
+<tr><td>8</td><td>Ornamental non-living greenhouse</td><td>2 760 </td></tr>
+<tr><td>9</td><td>Ornamental non-living outdoor</td><td>2 890 </td></tr>
+<tr><td>10</td><td>Ornamental special</td><td>3 550 </td></tr>
+<tr><td colspan="3">Vegetable group</td></tr>
+<tr><td>11</td><td>Vegetable greenhouse</td><td>3 570 </td></tr>
+<tr><td>12</td><td>Vegetable outdoor</td><td>3 280 </td></tr>
+</tbody>
+</table>

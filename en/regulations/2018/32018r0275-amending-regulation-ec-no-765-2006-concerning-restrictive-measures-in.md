@@ -1,0 +1,97 @@
+---
+title: "Council Regulation (EU) 2018/275 of 23 February 2018 amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus"
+identifier: "32018R0275"
+eli: "http://data.europa.eu/eli/reg/2018/275/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2018-02-23
+entry_into_force: 2018-11-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0275"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2018/275 of 23 February 2018 amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus
+
+**COUNCIL REGULATION (EU) 2018/275**
+
+**of 23 February 2018**
+
+**amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,
+
+Having regard to Council Decision 2012/642/CFSP of 15 October 2012 concerning restrictive measures against Belarus (1),
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and of the European Commission,
+
+Whereas:
+
+(1) Council Regulation (EC) No 765/2006 (2) prohibits the export of equipment which might be used for internal repression to any person, entity or body or for use in Belarus, as well as related technical assistance, brokering services, financing or financial assistance.
+
+(2) Regulation (EC) No 765/2006 gives effect to the measures provided for in Decision 2012/642/CFSP.
+
+(3) Council Decision (CFSP) 2018/280 (3), which amends Decision 2012/642/CFSP, provides for derogations from the export ban on certain types of small-calibre sporting rifles, small-calibre sporting pistols and small-calibre ammunition, and from the ban on assistance or services related thereto, while recognising that the export of such equipment should be limited.
+
+(4) Regulation (EC) No 765/2006 should therefore be amended accordingly.
+
+(5) Nothing in this Regulation affects the licence requirements laid down in Regulation (EU) No 258/2012 of the European Parliament and of the Council (4).
+
+(6) In order to ensure that the measures provided for in this Regulation are effective, this Regulation should enter into force immediately,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 765/2006 is amended as follows:
+
+1\. In Article 1a, the following paragraphs are added:
+
+‘5. By way of derogation from paragraph 1, the competent authorities in the Member States as listed in Annex II may authorise the sale, supply, transfer or export of sporting rifles, sporting pistols and their ammunition, as listed in Annex V, which also comply with the specifications defined in the equipment control guide of International Shooting Sport Federation, under such conditions as those authorities deem appropriate, if they determine that such equipment is intended exclusively for use in sports events and sports training recognised by the International Shooting Sport Federation.
+
+6\. The Member State concerned shall notify the other Member States and the Commission of its intention to grant an authorisation pursuant to paragraph 5 at least 10 days prior to the authorisation, including the type and quantity of the equipment concerned and the purpose for which it is intended.’;
+
+2\. In Article 1b, the following paragraphs are added:
+
+‘5. By way of derogation from paragraph 1, the competent authorities in the Member States as listed in Annex II may authorise the provision, directly or indirectly, of technical assistance or brokering services, financing or financial assistance related to sporting rifles, sporting pistols and their ammunition, as listed in Annex V, which also comply with the specifications defined in the equipment control guide of International Shooting Sport Federation, under such conditions as those authorities deem appropriate, if they determine that such equipment is intended exclusively for use in sports events and sports training recognised by the International Shooting Sport Federation.
+
+6\. The Member State concerned shall notify the other Member States and the Commission of its intention to grant an authorisation pursuant to paragraph 5 at least 10 days prior to the authorisation, including on the nature of the assistance or services related thereto.’;
+
+3\. The text set out in the Annex to this Regulation is added as Annex V.
+
+## Article 2
+
+This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 23 February 2018.
+
+For the Council
+
+The President
+
+E. ZAHARIEVA
+
+(1) OJ L 285, 17.10.2012, p. 1.
+
+(2) Council Regulation (EC) No 765/2006 of 18 May 2006 concerning restrictive measures in respect of Belarus (OJ L 134, 20.5.2006, p. 1).
+
+(3) Council Decision (CFSP) 2018/280 of 23 February 2018 amending Decision 2012/642/CFSP concerning restrictive measures against Belarus (see page 16 of this Official Journal).
+
+(4) Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition (OJ L 94, 30.3.2012, p. 1).
+
+## ANNEX — ‘ANNEX V
+
+Sporting rifles, sporting pistols and ammunition as referred to in paragraph 5 of Article 1a and in paragraph 5 of Article 1b, intended exclusively for use in sports events and sports training, as follows:
+
+| ex 9303 30 | Sporting rifles of calibre .22 inches |
+| --- | --- |
+| ex 9302 | Sporting pistols of calibre .22 inches |
+| ex 9306 30 10 | Ammunition for sporting pistols of calibre .22 inches |
+| ex 9306 30 90 | Ammunition for sporting rifles of calibre .22 inches. |
+
+’

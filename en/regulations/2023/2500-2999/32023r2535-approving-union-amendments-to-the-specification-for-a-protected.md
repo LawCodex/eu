@@ -1,0 +1,70 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/2535 of 10 November 2023 approving Union amendments to the specification for a Protected Designation of Origin (Dealu Mare (PDO))"
+identifier: "32023R2535"
+eli: "http://data.europa.eu/eli/reg_impl/2023/2535/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-11-10
+entry_into_force: 2023-10-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2535"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/2535 of 10 November 2023 approving Union amendments to the specification for a Protected Designation of Origin (Dealu Mare (PDO))
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/2535**
+
+**of 10 November 2023**
+
+**approving Union amendments to the specification for a Protected Designation of Origin (‘Dealu Mare’ (PDO))**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Commission Delegated Regulation (EU) 2019/33 of 17 October 2018 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation (1), and in particular Article 15(2) thereof,
+
+Whereas:
+
+(1) The Commission has examined the application for the approval of Union amendments to the product specification for the Protected Designation of Origin ‘Dealu Mare’, forwarded by Romania in accordance with Article 105 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council (2) in conjunction with Article 15 of Commission Delegated Regulation (EU) 2019/33.
+
+(2) The Commission has published the application for the approval of the Union amendments to the product specification in the Official Journal of the European Union (3), as required by Article 97(3) of Regulation (EU) No 1308/2013.
+
+(3) No statement of objection has been received by the Commission under Article 98 of Regulation (EU) No 1308/2013.
+
+(4) The Union amendments to the product specification should therefore be approved in accordance with Article 99 of Regulation (EU) No 1308/2013 in conjunction with Article 15(2) of Delegated Regulation (EU) 2019/33,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The amendments to the product specification published in the Official Journal of the European Union regarding the name ‘Dealu Mare’ (PDO) are hereby approved.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 November 2023.
+
+For the Commission,
+
+On behalf of the President,
+
+Janusz WOJCIECHOWSKI
+
+Member of the Commission
+
+(1) OJ L 9, 11.1.2019, p. 2.
+
+(2) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+(3) OJ C 253, 18.7.2023, p. 11.
+
+ELI: http://data.europa.eu/eli/reg_impl/2023/2535/oj
+
+ISSN 1977-0677 (electronic edition)

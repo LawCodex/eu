@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 2006/97/EC of 20 November 2006 </td><td> L 363</td><td>107</td><td>20.12.2006</td></tr>
 <tr><td></td><td> DIRECTIVE 2007/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2007 </td><td> L 335</td><td>31</td><td>20.12.2007</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/23/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 94</td><td>1</td><td>28.3.2014</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

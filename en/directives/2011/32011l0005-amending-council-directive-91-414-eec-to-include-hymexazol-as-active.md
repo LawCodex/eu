@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘318</td><td>Hymexazol CAS No:  10004-44-1  CIPAC No: 528 </td><td>5-methylisoxazol-3-ol (or 5-methyl-1,2-oxazol-3-ol)</td><td>≥ 985 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide for seed pelleting of sugar beets in professional seed treatment facilities may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on hymexazol, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 23 November 2010 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>the operators and workers safety. Conditions of authorisation shall include protective measures, where appropriate,</td></tr>
 </tbody>
@@ -133,5 +134,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  Conditions of use shall include risk mitigation measures, where appropriate.  The Member States concerned shall request the submission of confirmatory information as regards the nature of residues in root crops and the risk for granivorous birds and mammals.  The Member States concerned shall ensure that the applicant submits such confirmatory information to the Commission by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

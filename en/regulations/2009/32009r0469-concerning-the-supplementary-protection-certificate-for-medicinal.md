@@ -1,0 +1,470 @@
+---
+title: "Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products (Codified version) (Text with EEA relevance )"
+identifier: "32009R0469"
+eli: "http://data.europa.eu/eli/reg/2009/469/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-05-06
+entry_into_force: 2009-11-12
+last_amended: 2019-07-01
+consolidated_version: "02009R0469-20190701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0469-20190701"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products (Codified version) (Text with EEA relevance )
+
+**REGULATION (EC) No 469/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 May 2009**
+
+**concerning the supplementary protection certificate for medicinal products**
+
+**(Codified version)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/933 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 </td><td> L 153</td><td>1</td><td>11.6.2019</td></tr>
+</table>
+
+|  | ACT concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community | L 112 | 21 | 24.4.2012 |
+| --- | --- | --- | --- | --- |
+
+**REGULATION (EC) No 469/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 May 2009**
+
+**concerning the supplementary protection certificate for medicinal products**
+
+**(Codified version)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘medicinal product’ means any substance or combination of substances presented for treating or preventing disease in human beings or animals and any substance or combination of substances which may be administered to human beings or animals with a view to making a medical diagnosis or to restoring, correcting or modifying physiological functions in humans or in animals;
+
+(b) ‘product’ means the active ingredient or combination of active ingredients of a medicinal product;
+
+(c) ‘basic patent’ means a patent which protects a product as such, a process to obtain a product or an application of a product, and which is designated by its holder for the purpose of the procedure for grant of a certificate;
+
+(d) ‘certificate’ means the supplementary protection certificate;
+
+(e) ‘application for an extension of the duration’ means an application for an extension of the duration of the certificate pursuant to Article 13(3) of this Regulation and Article 36 of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( 1 );
+
+(f) ‘maker’ means the person, established in the Union, on whose behalf the making of a product, or a medicinal product containing that product, for the purpose of export to third countries or for the purpose of storing, is carried out.
+
+## Article 2 — Scope
+
+Any product protected by a patent in the territory of a Member State and subject, prior to being placed on the market as a medicinal product, to an administrative authorisation procedure as laid down in Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( 2 ) or Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products ( 3 ) may, under the terms and conditions provided for in this Regulation, be the subject of a certificate.
+
+## Article 3 — Conditions for obtaining a certificate
+
+A certificate shall be granted if, in the Member State in which the application referred to in Article 7 is submitted and at the date of that application:
+
+(a) the product is protected by a basic patent in force;
+
+(b) a valid authorisation to place the product on the market as a medicinal product has been granted in accordance with Directive 2001/83/EC or Directive 2001/82/EC, as appropriate;
+
+(c) the product has not already been the subject of a certificate;
+
+(d) the authorisation referred to in point (b) is the first authorisation to place the product on the market as a medicinal product.
+
+## Article 4 — Subject matter of protection
+
+Within the limits of the protection conferred by the basic patent, the protection conferred by a certificate shall extend only to the product covered by the authorisation to place the corresponding medicinal product on the market and for any use of the product as a medicinal product that has been authorised before the expiry of the certificate.
+
+## Article 5 — Effects of the certificate
+
+1\. Subject to the provisions of Article 4, the certificate shall confer the same rights as conferred by the basic patent and shall be subject to the same limitations and the same obligations.
+
+2\. By way of derogation from paragraph 1, the certificate referred to in paragraph 1 shall not confer protection against certain acts which would otherwise require the consent of the holder of the certificate (‘the certificate holder’), if the following conditions are met:
+
+(a) the acts comprise:
+
+(i) the making of a product, or a medicinal product containing that product, for the purpose of export to third countries; or
+
+(ii) any related act that is strictly necessary for the making, in the Union, referred to in point (i), or for the actual export; or
+
+(iii) the making, no earlier than six months before the expiry of the certificate, of a product, or a medicinal product containing that product, for the purpose of storing it in the Member State of making, in order to place that product, or a medicinal product containing that product, on the market of Member States after the expiry of the corresponding certificate; or
+
+(iv) any related act that is strictly necessary for the making, in the Union, referred to in point (iii), or for the actual storing, provided that such related act is carried out no earlier than six months before the expiry of the certificate.
+
+(b) the maker, through appropriate and documented means, notifies the authority referred to in Article 9(1) in the Member State in which that making is to take place, and informs the certificate holder, of the information listed in paragraph 5 of this Article no later than three months before the start date of the making in that Member State, or no later than three months before the first related act, prior to that making, that would otherwise be prohibited by the protection conferred by a certificate, whichever is the earlier;
+
+(c) if the information listed in paragraph 5 of this Article changes, the maker notifies the authority referred to in Article 9(1) and informs the certificate holder, before those changes take effect;
+
+(d) in the case of products, or medicinal products containing those products, made for the purpose of export to third countries, the maker ensures that a logo, in the form set out in Annex -I, is affixed to the outer packaging of the product, or the medicinal product containing that product, referred to in point (a)(i) of this paragraph, and, where feasible, to its immediate packaging;
+
+(e) the maker complies with paragraph 9 of this Article and, if applicable, with Article 12(2).
+
+3\. The exception referred to in paragraph 2 shall not apply to any act or activity carried out for the import of products, or medicinal products containing those products, into the Union merely for the purpose of repackaging, re-exporting or storing.
+
+4\. The information provided to the certificate holder for the purposes of points (b) and (c) of paragraph 2 shall be used exclusively for the purposes of verifying whether the requirements of this Regulation have been met and, where applicable, initiating legal proceedings for non-compliance.
+
+5\. The information to be provided by the maker for the purposes of point (b) of paragraph 2 shall be as follows:
+
+(a) the name and address of the maker;
+
+(b) an indication of whether the making is for the purpose of export, for the purpose of storing, or for the purpose of both export and storing;
+
+(c) the Member State in which the making and, if applicable, also the storing is to take place, and the Member State in which the first related act, if any, prior to that making is to take place;
+
+(d) the number of the certificate granted in the Member State of making, and the number of the certificate granted in the Member State of the first related act, if any, prior to that making; and
+
+(e) for medicinal products to be exported to third countries, the reference number of the marketing authorisation, or the equivalent of such authorisation, in each third country of export, as soon as it is publicly available.
+
+6\. For the purposes of notification to the authority under points (b) and (c) of paragraph 2, the maker shall use the standard form for notification contained in Annex -Ia.
+
+7\. Failure to comply with the requirements of point (e) of paragraph 5 with regard to a third country shall only affect exports to that country, and those exports shall, therefore, not benefit from the exception.
+
+8\. The maker shall ensure that medicinal products made pursuant to point (a)(i) of paragraph 2 do not bear an active unique identifier within the meaning of Commission Delegated Regulation (EU) 2016/161 ( 4 ).
+
+9\. The maker shall ensure, through appropriate and documented means, that any person in a contractual relationship with the maker who performs acts falling under point (a) of paragraph 2 is fully informed and aware of the following:
+
+(a) that those acts are subject to paragraph 2;
+
+(b) that the placing on the market, import or re-import of the product, or the medicinal product containing that product, referred to in point (a)(i) of paragraph 2 or the placing on the market of the product, or the medicinal product containing that product, referred to in point (a)(iii) of paragraph 2 could infringe the certificate referred to in paragraph 2 where, and for as long as, that certificate applies.
+
+10\. Paragraph 2 shall apply to certificates that are applied for on or after 1 July 2019.
+
+Paragraph 2 shall also apply to certificates that have been applied for before 1 July 2019 and that take effect on or after that date. Paragraph 2 shall only apply to such certificates from 2 July 2022.
+
+Paragraph 2 shall not apply to certificates that take effect before 1 July 2019.
+
+## Article 6 — Entitlement to the certificate
+
+The certificate shall be granted to the holder of the basic patent or his successor in title.
+
+## Article 7 — Application for a certificate
+
+1\. The application for a certificate shall be lodged within six months of the date on which the authorisation referred to in Article 3(b) to place the product on the market as a medicinal product was granted.
+
+2\. Notwithstanding paragraph 1, where the authorisation to place the product on the market is granted before the basic patent is granted, the application for a certificate shall be lodged within six months of the date on which the patent is granted.
+
+3\. The application for an extension of the duration may be made when lodging the application for a certificate or when the application for the certificate is pending and the appropriate requirements of Article 8(1)(d) or Article 8(2), respectively, are fulfilled.
+
+4\. The application for an extension of the duration of a certificate already granted shall be lodged not later than two years before the expiry of the certificate.
+
+5\. Notwithstanding paragraph 4, for five years following the entry into force of Regulation (EC) No 1901/2006, the application for an extension of the duration of a certificate already granted shall be lodged not later than six months before the expiry of the certificate.
+
+## Article 8 — Content of the application for a certificate
+
+1\. The application for a certificate shall contain:
+
+(a) a request for the grant of a certificate, stating in particular:
+
+(i) the name and address of the applicant;
+
+(ii) if he has appointed a representative, the name and address of the representative;
+
+(iii) the number of the basic patent and the title of the invention;
+
+(iv) the number and date of the first authorisation to place the product on the market, as referred to in Article 3(b) and, if this authorisation is not the first authorisation for placing the product on the market in the Community, the number and date of that authorisation;
+
+(b) a copy of the authorisation to place the product on the market, as referred to in Article 3(b), in which the product is identified, containing in particular the number and date of the authorisation and the summary of the product characteristics listed in Article 11 of Directive 2001/83/EC or Article 14 of Directive 2001/82/EC;
+
+(c) if the authorisation referred to in point (b) is not the first authorisation for placing the product on the market as a medicinal product in the Community, information regarding the identity of the product thus authorised and the legal provision under which the authorisation procedure took place, together with a copy of the notice publishing the authorisation in the appropriate official publication;
+
+(d) where the application for a certificate includes a request for an extension of the duration:
+
+(i) a copy of the statement indicating compliance with an agreed completed paediatric investigation plan as referred to in Article 36(1) of Regulation (EC) No 1901/2006;
+
+(ii) where necessary, in addition to the copy of the authorisation to place the product on the market as referred to in point (b), proof of possession of authorisations to place the product on the market of all other Member States, as referred to in Article 36(3) of Regulation (EC) No 1901/2006.
+
+2\. Where an application for a certificate is pending, an application for an extended duration in accordance with Article 7(3) shall include the particulars referred to in paragraph 1(d) of this Article and a reference to the application for a certificate already filed.
+
+3\. The application for an extension of the duration of a certificate already granted shall contain the particulars referred to in paragraph 1(d) and a copy of the certificate already granted.
+
+4\. Member States may provide that a fee is to be payable upon application for a certificate and upon application for the extension of the duration of a certificate.
+
+## Article 9 — Lodging of an application for a certificate
+
+1\. The application for a certificate shall be lodged with the competent industrial property office of the Member State which granted the basic patent or on whose behalf it was granted and in which the authorisation referred to in Article 3(b) to place the product on the market was obtained, unless the Member State designates another authority for the purpose.
+
+The application for an extension of the duration of a certificate shall be lodged with the competent authority of the Member State concerned.
+
+2\. Notification of the application for a certificate shall be published by the authority referred to in paragraph 1. The notification shall contain at least the following information:
+
+(a) the name and address of the applicant;
+
+(b) the number of the basic patent;
+
+(c) the title of the invention;
+
+(d) the number and date of the authorisation to place the product on the market, referred to in Article 3(b), and the product identified in that authorisation;
+
+(e) where relevant, the number and date of the first authorisation to place the product on the market in the Community;
+
+(f) where applicable, an indication that the application includes an application for an extension of the duration.
+
+3\. Paragraph 2 shall apply to the notification of the application for an extension of the duration of a certificate already granted or where an application for a certificate is pending. The notification shall additionally contain an indication of the application for an extended duration of the certificate.
+
+## Article 10 — Grant of the certificate or rejection of the application for a certificate
+
+1\. Where the application for a certificate and the product to which it relates meet the conditions laid down in this Regulation, the authority referred to in Article 9(1) shall grant the certificate.
+
+2\. The authority referred to in Article 9(1) shall, subject to paragraph 3, reject the application for a certificate if the application or the product to which it relates does not meet the conditions laid down in this Regulation.
+
+3\. Where the application for a certificate does not meet the conditions laid down in Article 8, the authority referred to in Article 9(1) shall ask the applicant to rectify the irregularity, or to settle the fee, within a stated time.
+
+4\. If the irregularity is not rectified or the fee is not settled under paragraph 3 within the stated time, the authority shall reject the application.
+
+5\. Member States may provide that the authority referred to in Article 9(1) is to grant certificates without verifying that the conditions laid down in Article 3(c) and (d) are met.
+
+6\. Paragraphs 1 to 4 shall apply mutatis mutandis to the application for an extension of the duration.
+
+## Article 11 — Publication
+
+1\. Notification of the fact that a certificate has been granted shall be published by the authority referred to in Article 9(1). The notification shall contain at least the following information:
+
+(a) the name and address of the holder of the certificate;
+
+(b) the number of the basic patent;
+
+(c) the title of the invention;
+
+(d) the number and date of the authorisation to place the product on the market referred to in Article 3(b) and the product identified in that authorisation;
+
+(e) where relevant, the number and date of the first authorisation to place the product on the market in the Community;
+
+(f) the duration of the certificate.
+
+2\. Notification of the fact that the application for a certificate has been rejected shall be published by the authority referred to in Article 9(1). The notification shall contain at least the information listed in Article 9(2).
+
+3\. Paragraphs 1 and 2 shall apply to the notification of the fact that an extension of the duration of a certificate has been granted or of the fact that the application for an extension has been rejected.
+
+4\. The authority referred to in Article 9(1) shall publish, as soon as possible, the information listed in Article 5(5), together with the date of notification of that information. It shall also publish, as soon as possible, any changes to the information notified in accordance with point (c) of Article 5(2).
+
+## Article 12 — Fees
+
+1\. Member States may require that the certificate be subject to the payment of annual fees.
+
+2\. Member States may require that the notifications referred to in points (b) and (c) of Article 5(2) be subject to the payment of a fee.
+
+## Article 13 — Duration of the certificate
+
+1\. The certificate shall take effect at the end of the lawful term of the basic patent for a period equal to the period which elapsed between the date on which the application for a basic patent was lodged and the date of the first authorisation to place the product on the market in the Community, reduced by a period of five years.
+
+2\. Notwithstanding paragraph 1, the duration of the certificate may not exceed five years from the date on which it takes effect.
+
+3\. The periods laid down in paragraphs 1 and 2 shall be extended by six months in the case where Article 36 of Regulation (EC) No 1901/2006 applies. In that case, the duration of the period laid down in paragraph 1 of this Article may be extended only once.
+
+4\. Where a certificate is granted for a product protected by a patent which, before 2 January 1993, had its term extended or for which such extension was applied for, under national law, the term of protection to be afforded under this certificate shall be reduced by the number of years by which the term of the patent exceeds 20 years.
+
+## Article 14 — Expiry of the certificate
+
+The certificate shall lapse:
+
+(a) at the end of the period provided for in Article 13;
+
+(b) if the certificate holder surrenders it;
+
+(c) if the annual fee laid down in accordance with Article 12 is not paid in time;
+
+(d) if and as long as the product covered by the certificate may no longer be placed on the market following the withdrawal of the appropriate authorisation or authorisations to place on the market in accordance with Directive 2001/83/EC or Directive 2001/82/EC. The authority referred to in Article 9(1) of this Regulation may decide on the lapse of the certificate either of its own motion or at the request of a third party.
+
+## Article 15 — Invalidity of the certificate
+
+1\. The certificate shall be invalid if:
+
+(a) it was granted contrary to the provisions of Article 3;
+
+(b) the basic patent has lapsed before its lawful term expires;
+
+(c) the basic patent is revoked or limited to the extent that the product for which the certificate was granted would no longer be protected by the claims of the basic patent or, after the basic patent has expired, grounds for revocation exist which would have justified such revocation or limitation.
+
+2\. Any person may submit an application or bring an action for a declaration of invalidity of the certificate before the body responsible under national law for the revocation of the corresponding basic patent.
+
+## Article 16 — Revocation of an extension of the duration
+
+1\. The extension of the duration may be revoked if it was granted contrary to the provisions of Article 36 of Regulation (EC) No 1901/2006.
+
+2\. Any person may submit an application for revocation of the extension of the duration to the body responsible under national law for the revocation of the corresponding basic patent.
+
+## Article 17 — Notification of lapse or invalidity
+
+1\. If the certificate lapses in accordance with point (b), (c) or (d) of Article 14, or is invalid in accordance with Article 15, notification thereof shall be published by the authority referred to in Article 9(1).
+
+2\. If the extension of the duration is revoked in accordance with Article 16, notification thereof shall be published by the authority referred to in Article 9(1).
+
+## Article 18 — Appeals
+
+The decisions of the authority referred to in Article 9(1) or of the bodies referred to in Articles 15(2) and 16(2) taken under this Regulation shall be open to the same appeals as those provided for in national law against similar decisions taken in respect of national patents.
+
+## Article 19 — Procedure
+
+1\. In the absence of procedural provisions in this Regulation, the procedural provisions applicable under national law to the corresponding basic patent shall apply to the certificate, unless the national law lays down special procedural provisions for certificates.
+
+2\. Notwithstanding paragraph 1, the procedure for opposition to the granting of a certificate shall be excluded.
+
+## Article 20 — Additional provisions relating to the enlargement of the Community
+
+Without prejudice to the other provisions of this Regulation, the following provisions shall apply:
+
+(a) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained after 1 January 2000 may be granted a certificate in Bulgaria, provided that the application for a certificate was lodged within six months from 1 January 2007;
+
+(b) any medicinal product protected by a valid basic patent in the Czech Republic and for which the first authorisation to place it on the market as a medicinal product was obtained:
+
+(i) in the Czech Republic after 10 November 1999 may be granted a certificate, provided that the application for a certificate was lodged within six months of the date on which the first market authorisation was obtained;
+
+(ii) in the Community not earlier than six months prior to 1 May 2004 may be granted a certificate, provided that the application for a certificate was lodged within six months of the date on which the first market authorisation was obtained;
+
+(c) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Estonia prior to 1 May 2004 may be granted a certificate, provided that the application for a certificate was lodged within six months of the date on which the first market authorisation was obtained or, in the case of those patents granted prior to 1 January 2000, within the six months provided for in the Patents Act of October 1999;
+
+(d) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Cyprus prior to 1 May 2004 may be granted a certificate, provided that the application for a certificate was lodged within six months of the date on which the first market authorisation was obtained; notwithstanding the above, where the market authorisation was obtained before the grant of the basic patent, the application for a certificate must be lodged within six months of the date on which the patent was granted;
+
+(e) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Latvia prior to 1 May 2004 may be granted a certificate. In cases where the period provided for in Article 7(1) has expired, the possibility of applying for a certificate shall be open for a period of six months starting no later than 1 May 2004;
+
+(f) any medicinal product protected by a valid basic patent applied for after 1 February 1994 and for which the first authorisation to place it on the market as a medicinal product was obtained in Lithuania prior to 1 May 2004 may be granted a certificate, provided that the application for a certificate was lodged within six months from 1 May 2004;
+
+(g) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained after 1 January 2000 may be granted a certificate in Hungary, provided that the application for a certificate was lodged within six months from 1 May 2004;
+
+(h) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Malta prior to 1 May 2004 may be granted a certificate. In cases where the period provided for in Article 7(1) has expired, the possibility of applying for a certificate shall be open for a period of six months starting no later than 1 May 2004;
+
+(i) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained after 1 January 2000 may be granted a certificate in Poland, provided that the application for a certificate was lodged within six months starting no later than 1 May 2004;
+
+(j) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained after 1 January 2000 may be granted a certificate in Romania. In cases where the period provided for in Article 7(1) has expired, the possibility of applying for a certificate shall be open for a period of six months starting no later than 1 January 2007;
+
+(k) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Slovenia prior to 1 May 2004 may be granted a certificate, provided that the application for a certificate was lodged within six months from 1 May 2004, including in cases where the period provided for in Article 7(1) has expired;
+
+(l) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained in Slovakia after 1 January 2000 may be granted a certificate, provided that the application for a certificate was lodged within six months of the date on which the first market authorisation was obtained or within six months of 1 July 2002 if the market authorisation was obtained before that date;
+
+(m) any medicinal product protected by a valid basic patent and for which the first authorisation to place it on the market as a medicinal product was obtained after 1 January 2003 may be granted a certificate in Croatia, provided that the application for a certificate is lodged within six months from the date of accession.
+
+## Article 21 — Transitional provisions
+
+1\. This Regulation shall not apply to certificates granted in accordance with the national legislation of a Member State before 2 January 1993 or to applications for a certificate filed in accordance with that legislation before 2 July 1992.
+
+With regard to Austria, Finland and Sweden, this Regulation shall not apply to certificates granted in accordance with their national legislation before 1 January 1995.
+
+2\. This Regulation shall apply to supplementary protection certificates granted in accordance with the national legislation of the Czech Republic, Estonia, Croatia, Cyprus, Latvia, Lithuania, Malta, Poland, Romania, Slovenia and Slovakia prior to their respective date of accession.
+
+## Article 21a — Evaluation
+
+No later than five years after the date referred to in Article 5(10), and every five years thereafter, the Commission shall carry out an evaluation of Article 5(2) to (9) and Article 11 in order to assess whether the objectives of those provisions have been achieved, and present a report on the main findings to the European Parliament, the Council and the European Economic and Social Committee. In addition to evaluating the impact of the exception of making for the purpose of export, special account shall be taken of the effects of making for the purpose of storing in order to place that product, or a medicinal product containing that product, on the market of Member States after the expiry of the corresponding certificate on access to medicines and on public health expenditure, and of whether the waiver and in particular the period provided for in point (a)(iii) of Article 5(2) is sufficient to achieve the objectives referred to in Article 5, including public health.
+
+## Article 22 — Repeal
+
+Regulation (EEC) No 1768/92, as amended by the acts listed in Annex I, is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.
+
+## Article 23 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**REPEALED REGULATION WITH LIST OF ITS SUCCESSIVE AMENDMENTS**
+
+**(referred to in Article 22)**
+
+| Council Regulation (EEC) No 1768/92 (OJ L 182, 2.7.1992, p. 1) |  |
+| --- | --- |
+| Annex I, point XI.F.I, of the 1994 Act of Accession (OJ C 241, 29.8.1994, p. 233) |  |
+| Annex II, point 4.C.II, of the 2003 Act of Accession (OJ L 236, 23.9.2003, p. 342) |  |
+| Annex III, point 1.II, of the 2005 Act of Accession (OJ L 157, 21.6.2005, p. 56) |  |
+| Regulation (EC) No 1901/2006 of the European Parliament and of the Council (OJ L 378, 27.12.2006, p. 1) | Only Article 52 |
+
+## ANNEX -I
+
+**Logo**
+
+This logo shall appear in black and in such a size as to be sufficiently visible.
+
+[image]
+
+## ANNEX -Ia
+
+Standard form for notification pursuant to points (b) and (c) of Article 5(2)
+
+<table>
+<tbody><tr><td>Tick the appropriate box</td><td colspan="2">□ New notification □ Update of an existing notification </td></tr>
+<tr><td>(a) Name and address of the maker</td><td colspan="2">…</td></tr>
+<tr><td>(b) Purpose of making</td><td colspan="2">□ Export □ Storing  □ Export and storing </td></tr>
+<tr><td rowspan="2">(c) Member State in which making is to take place and Member State in which first related act (if any) prior to making is to take place</td><td>Member State of making</td><td>…</td></tr>
+<tr><td>(Member State of first related act (if any))</td><td>…</td></tr>
+<tr><td rowspan="2">(d) Number of certificate granted in the Member State of making and number of certificate granted in Member State of first related act (if any) prior to making</td><td>Certificate of Member State of making</td><td>…</td></tr>
+<tr><td>(Certificate of Member State of first related act (if any))</td><td>…</td></tr>
+<tr><td rowspan="3">(e) For medicinal products to be exported to third countries, reference number of marketing authorisation, or the equivalent of such authorisation, in each third country of export</td><td colspan="2">…</td></tr>
+<tr><td colspan="2">…</td></tr>
+<tr><td colspan="2">…</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**CORRELATION TABLE**
+
+| Regulation (EEC) No 1768/92 | This Regulation |
+| --- | --- |
+| — | Recital 1 |
+| Recital 1 | Recital 2 |
+| Recital 2 | Recital 3 |
+| Recital 3 | Recital 4 |
+| Recital 4 | Recital 5 |
+| Recital 5 | Recital 6 |
+| Recital 6 | Recital 7 |
+| Recital 7 | Recital 8 |
+| Recital 8 | Recital 9 |
+| Recital 9 | Recital 10 |
+| Recital 10 | — |
+| Recital 11 | — |
+| Recital 12 | — |
+| Recital 13 | Recital 11 |
+| Article 1 | Article 1 |
+| Article 2 | Article 2 |
+| Article 3, introductory wording | Article 3, introductory wording |
+| Article 3, point (a) | Article 3, point (a) |
+| Article 3, point (b), first sentence | Article 3, point (b) |
+| Article 3, point (b), second sentence | — |
+| Article 3, points (c) and (d) | Article 3, points (c) and (d) |
+| Articles 4 to 7 | Articles 4 to 7 |
+| Article 8(1) | Article 8(1) |
+| Article 8(1a) | Article 8(2) |
+| Article 8(1b) | Article 8(3) |
+| Article 8(2) | Article 8(4) |
+| Articles 9 to 12 | Articles 9 to 12 |
+| Article 13(1), (2) and (3) | Article 13(1), (2) and (3) |
+| Articles 14 and 15 | Articles 14 and 15 |
+| Article 15a | Article 16 |
+| Articles 16, 17 and 18 | Articles 17, 18 and 19 |
+| Article 19 | — |
+| Article 19a, introductory wording | Article 20, introductory wording |
+| Article 19a, point (a), points (i) and (ii) | Article 20, point (b), introductory wording, points (i) and (ii) |
+| Article 19a, point (b) | Article 20, point (c) |
+| Article 19a, point (c) | Article 20, point (d) |
+| Article 19a, point (d) | Article 20, point (e) |
+| Article 19a, point (e) | Article 20, point (f) |
+| Article 19a, point (f) | Article 20, point (g) |
+| Article 19a, point (g) | Article 20, point (h) |
+| Article 19a, point (h) | Article 20, point (i) |
+| Article 19a, point (i) | Article 20, point (k) |
+| Article 19a, point (j) | Article 20, point (l) |
+| Article 19a, point (k) | Article 20, point (a) |
+| Article 19a, point (l) | Article 20, point (j) |
+| Article 20 | Article 21 |
+| Article 21 | — |
+| Article 22 | Article 13(4) |
+| — | Article 22 |
+| Article 23 | Article 23 |
+| — | Annex I |
+| — | Annex II |
+
+( 1 ) OJ L 378, 27.12.2006, p. 1.
+
+( 2 ) OJ L 311, 28.11.2001, p. 67.
+
+( 3 ) OJ L 311, 28.11.2001, p. 1.
+
+( 4 ) Commission Delegated Regulation (EU) 2016/161 of 2 October 2015 supplementing Directive 2001/83/EC of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use (OJ L 32, 9.2.2016, p. 1).

@@ -83,6 +83,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 6(b) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘6(b)</td><td>Lead as an alloying element in aluminium containing up to 0,4 % lead by weight</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments,</td></tr>
 </tbody>
 </table>
@@ -96,3 +97,4 @@ In Annex III to Directive 2011/65/EU, point 6(b) is replaced by the following:
 <tr><td>6(b)-I</td><td>Lead as an alloying element in aluminium containing up to 0,4 % lead by weight, provided it stems from lead-bearing aluminium scrap recycling</td><td>Expires on 21 July 2021 for categories 1-7 and 10.</td></tr>
 <tr><td>6(b)-II</td><td>Lead as an alloying element in aluminium for machining purposes with a lead content up to 0,4 % by weight</td><td>Expires on 18 May 2021 for categories 1-7 and 10.’</td></tr>
 </tbody>
+</table>

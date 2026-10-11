@@ -1,0 +1,3535 @@
+---
+title: "Commission Delegated Regulation (EU) 2023/2429 of 17 August 2023 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011"
+identifier: "32023R2429"
+eli: "http://data.europa.eu/eli/reg_del/2023/2429/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2023-08-17
+entry_into_force: 2023-09-30
+last_amended: 2025-10-04
+consolidated_version: "02023R2429-20251004"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R2429-20251004"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2023/2429 of 17 August 2023 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/2429**
+
+**of 17 August 2023**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2652 of 16 October 2025 </td><td> L 2652</td><td>1</td><td>23.12.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/2429**
+
+**of 17 August 2023**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011**
+
+## CHAPTER I — Introductory provisions
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules supplementing Regulation (EU) No 1308/2013 as regards the marketing standards referred to in Article 75(1) of that Regulation, the minimum marketing requirements for products of the fruit and vegetables sector intended to be sold fresh as referred to in Article 76 of that Regulation, the conformity of imported products to Union marketing standards as referred to in Article 89 of that Regulation.
+
+2\. This Regulation applies to the following sectors and products:
+
+(a) the fruit and vegetables sector referred to in Article 1(2), point (i), of Regulation (EU) No 1308/2013;
+
+(b) dried fruits of CN codes 0804 20 90 , 0806 20 and ex 0813 listed in Part X of Annex I to that Regulation;
+
+(c) the bananas of CN code 0803 90 10 listed in Part XI of Annex I to that Regulation.
+
+3\. For the purpose of this regulation, the country of origin of a product shall be determined in accordance with Article 60 of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 1 ).
+
+## CHAPTER II — Marketing standards
+
+### Article 2 — General marketing standard for fruits and vegetables referred to in Article 1(2), point (a)
+
+1\. The requirements of Article 76(1) of Regulation (EU) No 1308/2013 shall constitute the general marketing standard for the fruits and vegetables referred to in Article 1(2), point (a).
+
+Fruit and vegetables referred to in Article 1(2), point (a) shall conform to that general marketing standard unless they are subject to a specific marketing standard.
+
+The details of the general marketing standard are set out in Part A of Annex I to this Regulation.
+
+2\. Where the holder of fruit and vegetables referred to in paragraph 1 is able to show that the products are in conformity with any applicable standard adopted by the United Nations Economic Commission for Europe (UNECE), they shall be considered as conforming to the general marketing standard referred to in paragraph 1.
+
+3\. For the purposes of this Article, ‘holder’ means any natural or legal person who is in physical possession of the products concerned or offers them for sale at distance or by any digital means.
+
+### Article 3 — Indication of the origin for certain processed fruit and vegetable products and ripened bananas
+
+The following products shall carry an indication of the country of origin:
+
+(a) dried fruits of CN code ex 0813 , as defined in Part X of Annex I to Regulation (EU) No 1308/2013;
+
+(b) dried figs of CN code 0804 20 90 ;
+
+(c) dried grapes of CN code 0806 20 ;
+
+(d) ripened bananas of CN code 0803 90 10 and resulting of the ripening on the Union territory.
+
+### Article 4 — Specific marketing standards for fruits and vegetables and for bananas
+
+1\. The following products or sector shall conform to the specific marketing standards set out in Part B of Annex I:
+
+(a) apples;
+
+(b) citrus fruit;
+
+(c) kiwifruit;
+
+(d) lettuces, curled leaved and broad-leaved endives;
+
+(e) peaches and nectarines;
+
+(f) pears;
+
+(g) strawberries;
+
+(h) sweet peppers;
+
+(i) table grapes;
+
+(j) tomatoes;
+
+(k) bananas.
+
+2\. For the purposes of paragraph 1, point (k), the following shall apply:
+
+(a) the specific marketing standard of the bananas sector is set out in Part B, Part 11 of Annex I for bananas of the varieties listed in the Appendix to that Annex, excluding bananas intended for processing. This marketing standard shall apply to bananas originating in third countries at the stage of release for free circulation, to bananas originating in the Union at the stage of first unloading in the Union, and to bananas delivered fresh to the consumer in the producing region at the stage of leaving the packing shed;
+
+(b) the specific marketing standard referred to in point (a) shall not affect the application, at later stages of marketing, of national rules which:
+
+(i) do not impede the free circulation of bananas originating in third countries or other regions of the Union and complying with the marketing standard referred to in the first subparagraph; and
+
+(ii) are not incompatible with the marketing standard referred to in the first subparagraph.
+
+### Article 5 — Exceptions and exemptions from the application of marketing standards
+
+1\. By way of derogation from Article 76(2) and (3) of Regulation (EU) No 1308/2013:
+
+(a) the following products shall not be required to conform to the marketing standards:
+
+(i) products that are clearly marked with the words ‘intended for processing’ or ‘for animal feed’ or any other equivalent wording and are:
+
+— intended for industrial processing, or
+
+— presented for retail sale to consumers for their personal use and intended for processing by them, or
+
+— intended for the preparation of the products referred to in subparagraph (b)(xvii) of this paragraph, or
+
+— intended for animal feed or other non-food use;
+
+(ii) products sold by the producer directly to consumers for their personal use on their holding or, within a given production area as defined by the competent authority:
+
+— on a local market in a place reserved only to producers, or
+
+— by direct delivery;
+
+(iii) products marketed as edible sprouts, following germination of seeds of plants classified as fruit and vegetables listed in Part IX of Annex I to Regulation (EU) No 1308/2013;
+
+(iv) products of a given region which are sold by the retail trade of that region in case of well-established traditional local consumption or in exceptional and duly justified cases, subject to the conditions laid down in paragraph 4 of this Article;
+
+(b) the following products shall not be required to conform to the marketing standard except regarding the indication of the country of origin as referred to in Article 76(1) of Regulation (EU) No 1308/2013:
+
+(i) non-cultivated mushrooms of CN code ex 0709 51 to ex 0709 56 and 0709 59 ;
+
+(ii) capers of CN code 0709 99 40 ;
+
+(iii) bitter almonds of CN code 0802 11 10 ;
+
+(iv) shelled almonds of CN code 0802 12 ;
+
+(v) shelled hazelnuts of CN code 0802 22 ;
+
+(vi) shelled walnuts of CN code 0802 32 ;
+
+(vii) shelled pistachios of CN code 0802 52 ;
+
+(viii) shelled macadamia of CN code 0802 62 ;
+
+(ix) shelled pine nuts of CN code 0802 92 ;
+
+(x) pecans of CN code 0802 99 10 ;
+
+(xi) other nuts of CN code 0802 99 90 ;
+
+(xii) dried plantains of CN code 0803 10 90 ;
+
+(xiii) dried citrus of CN code ex 0805 ;
+
+(xiv) mixtures of tropical nuts of CN code 0813 50 31 ;
+
+(xv) mixtures of other nuts of CN code 0813 50 39 ;
+
+(xvi) saffron of CN code 0910 20 ;
+
+(xvii) products classified as fruit and vegetables and listed in Part IX of Annex I to Regulation (EU) No 1308/2013, having undergone any preparation beyond the extent of trimming as indicated in the applicable UNECE specific standard, or not intact within the meaning of the general marketing standard and making them ready to be directly consumed fresh or cooked;
+
+(c) in case of donation, other than the free distribution covered by agreements and decisions referred to in Article 222 of Regulation (EU) No 1308/2013 or supported within operational programs under Article 52 of Regulation (EU) 2021/2115 of the European Parliament and of the Council ( 2 ), the products covered by this Regulation shall be required to conform to the general marketing standard except regarding marking provisions, provided they are clearly marked with the words ‘intended for donation’ or equivalent marking.
+
+2\. By way of derogation from Article 76(2) and (3) of Regulation (EU) No 1308/2013, the following products shall not be required to conform to the marketing standards within a given production area defined by the Member State concerned, including where that production area is a transnational area as defined by the Member States concerned:
+
+(a) products sold or delivered by the grower to preparation and packaging stations or storage facilities, or shipped from his holding to such stations;
+
+(b) products shipped from storage facilities to preparation and packaging stations;
+
+(c) products of EU origin that do not conform to the marketing standards set in this Regulation due to a situation of ‘force majeure’ ( 3 ) which allows Member States to decide that the products may be marketed within their territory under the conditions they specify.
+
+3\. In order to apply the derogations provided for in paragraph 1, point (a), (i) and (ii), and point (c), and paragraph 2, traders shall provide evidence to the competent authority of the Member State that the products covered fulfil the conditions laid down in those paragraphs, in particular with regard to their intended use.
+
+4\. Traders may only apply the derogation provided for in paragraph 1, point (a)(iv), if Member States have previously adopted rules to exempt such products. Such rules shall not be likely to prevent or to distort competition in a substantial part of the internal market, jeopardise free trade or the attainment of any of the objectives of Article 39 of the Treaty. Member States shall notify the Commission forthwith of the rules which they have adopted in this respect. The Commission shall inform other Member States of any notification of such rules.
+
+5\. The notifications referred to in paragraph 2, point (c), and in paragraph 4 shall be made in accordance with Commission Delegated Regulation (EU) 2017/1183 ( 4 ).
+
+6\. By way of derogation from Article 76(1) of Regulation (EU) No 1308/2013 and from Article 3 of this Regulation, for products referred to in Article 1(2) of this Regulation originating in the non-self-governing territory of Western Sahara that are subject to the control of the Moroccan custom authorities and are imported and marketed in the Union, the indication of the country of origin shall be replaced by the indication of the region in which the concerned product originates as indicated in the certificate of origin accompanying those products when imported into the Union.
+
+### Article 6 — Information particulars along the supply chain
+
+1\. The information particulars required by the marking provisions laid down in Annex I shall be shown legibly and obviously on one side of the packaging, either indelibly printed directly onto the package or on a label which is an integral part of the package or affixed to it and shall not be misleading.
+
+2\. For goods shipped in bulk and loaded directly onto a means of transport, the information particulars referred to in paragraph 1 shall be given in a document accompanying the goods or shown on a notice placed in an obvious position inside the means of transport.
+
+3\. In the case of distance contracts within the meaning of Article 2(7) of Directive 2011/83/EU of the European Parliament and of the Council ( 5 ), the information particulars shall be available before the purchase is concluded, including the single country of origin of the product actually offered for sale.
+
+4\. Invoices and accompanying documents, excluding receipts for the consumer, shall indicate the name and the country of origin of the products and, where appropriate, the class, the variety or commercial type if required in a specific marketing standard, or the fact that it is intended for processing.
+
+5\. The possibility of labelling the regional or the local origin as referred to in Part B of Annex I is without prejudice to the protection granted to certain geographical indications pursuant to Regulation (EU) No 1151/2012 of the European Parliament and of the Council ( 6 ).
+
+### Article 7 — Information particulars at the retail stage
+
+1\. At retail stage, the information particulars required by this Regulation shall be legible and conspicuous. Products may be presented for sale provided the retailer displays prominently, adjacent to and legibly, the information particulars relating to country of origin and, where appropriate, class, size and variety or commercial type in such a way as not to mislead the consumer.
+
+Additional terms which suggest better/superior quality may not be included. In particular, the label may not include any descriptor of quality except the information specified in the marking requirement as set out in Annex I.
+
+When the country of the packer and/or the dispatcher is indicated or when the variety indicated evokes a location, the characters to indicate the country of origin shall be larger and more visible than those used for the country of the packer and/or the dispatcher and the variety if different.
+
+2\. For products which are prepacked within the meaning of Regulation (EU) No 1169/2011 of the European Parliament and of the Council ( 7 ), in addition to all the information required by the marketing standards, the net weight shall be indicated in accordance with the rules set out in that Regulation.
+
+### Article 8 — Mixes
+
+1\. The marketing of packages of a net weight of 10 kg or less containing mixes of different products or species of products covered by this Regulation shall be allowed, provided that:
+
+(a) the products and species of products are of uniform quality and each one complies with the relevant specific marketing standard as applicable or, where no specific marketing standard exists for a particular product, the general marketing standard as applicable;
+
+(b) the package is labelled in accordance with this Regulation and the applicable provisions of Regulation (EU) No 1169/2011; and
+
+(c) the mix of different products is not such as to mislead the consumer.
+
+2\. The requirements of paragraph 1, point (a), shall not apply to products included in a mix which are not products of the fruit and vegetables, dried fruits or bananas sectors referred to in Article 1.
+
+3\. If the products in a mix of different products or species of products covered by this Regulation originate in more than one Member State or third country, the names of the countries of origin may be replaced with one of the following indications, as appropriate:
+
+(a) ‘EU’;
+
+(b) ‘non-EU’;
+
+(c) ‘EU and non-EU’.
+
+## CHAPTER III — Marketing standards related to imported products
+
+### Article 9 — Conditions to consider imported products to have equivalent level of conformity
+
+1\. For the sector referred to in Article 1(2), point (a), at the request of a third country, the Commission may approve checks on conformity to marketing standards carried out by that third country prior to import into the Union.
+
+2\. The approval referred to in paragraph 1 may be granted to third countries where the Union marketing standards, or at least equivalent standards, are met for products exported to the Union in accordance with Article 8(2) of Commission Implementing Regulation (EU) 2023/2430 ( 8 ).
+
+3\. The approval shall only apply to products originating in the third country concerned and may be limited to certain products.
+
+However, the Commission may approve checks of conformity to marketing standards carried out by Moroccan competent authorities in respect of products originating in the non-self-governing territory of Western Sahara that are subject to the control of Moroccan custom authorities.
+
+4\. In order to obtain the approval referred to in paragraph 1, the third country inspection bodies that will be in charge of checks on conformity to marketing standards, must:
+
+(a) be official bodies or bodies officially recognised by a third country’s competent authority;
+
+(b) provide satisfactory guarantees and dispose of the necessary personnel, equipment and facilities to carry out checks in accordance with the methods referred to in Article 10(1) of Implementing Regulation (EU) 2023/2430 or equivalent methods.
+
+## CHAPTER IV — Final provisions
+
+### Article 10 — Repeals
+
+Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011 and Regulation (EC) No 1666/1999 are repealed.
+
+References to the repealed Regulations shall be construed as references to this Regulation and to Implementing Regulation (EU) 2023/2430, as appropriate, and be read in accordance with the correlation table set out in Annex II to this Regulation.
+
+### Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2025, with the exception of Article 5(1), point (c), which shall apply the same day of entering into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — MARKETING STANDARDS REFERRED TO IN ARTICLES 2, 4 AND 6
+
+**PART A**
+
+**GENERAL MARKETING STANDARD**
+
+This general marketing standard defines the quality requirements for fruit and vegetables, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— a slight deterioration due to their development and their tendency to perish.
+
+**1\. MINIMUM REQUIREMENTS**
+
+Subject to the tolerances allowed, the products must be:
+
+— intact,
+
+— sound; products affected by rotting or deterioration such as to make them unfit for consumption are excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+— The condition of the products must be such as to enable them:
+
+— to withstand transportation and handling,
+
+— to arrive in satisfactory condition at the place of destination.
+
+**2\. MINIMUM MATURITY REQUIREMENTS**
+
+The products must be sufficiently developed, but not over-developed, and fruit must display satisfactory ripeness and must not be overripe.
+
+The development and state of maturity of the products must be such as to enable them to continue their ripening process and to reach a satisfactory degree of ripeness.
+
+**3\. TOLERANCE**
+
+A tolerance of 10 % by number or weight of product not satisfying the minimum quality requirements shall be permitted in each lot. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+**4\. MARKING**
+
+Each package ( 9 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside.
+
+**A. Identification**
+
+Name and physical address of the packer and/or the dispatcher (for example: street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+**B. Origin**
+
+Full name of the country of origin ( 10 ). For products originating in a Member State this shall be in the language of the country of origin or any other language understandable by the consumers of the country of destination. For other products, this shall be in any language understandable by the consumers of the country of destination.
+
+Packages need not to bear the particulars mentioned in the first subparagraph, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead the consumer. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART B**
+
+**SPECIFIC MARKETING STANDARDS**
+
+**PART 1**
+
+**Marketing standard for apples**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to apples of varieties (cultivars) grown from Malus domestica Borkh., to be supplied fresh to the consumer, apples for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for apples, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, apples must be:
+
+— intact,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free from serious watercore, except for varieties marked with ‘V’ listed in the appendix to this standard,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of the apples must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Maturity requirements
+
+The apples must be sufficiently developed, and display satisfactory ripeness.
+
+The development and state of maturity of the apples must be such as to enable them to continue their ripening process and to reach the degree of ripeness required in relation to the varietal characteristics.
+
+In order to verify the minimum maturity requirements, several parameters may be considered (for example morphological aspect, taste, firmness and refractometric index).
+
+C. Classification
+
+Apples are classified in three classes defined as follows:
+
+(i) ‘Extra’ Class
+
+Apples in this class must be of superior quality. They must be characteristic of the variety ( 11 ) and with the stalk which must be intact.
+
+Apples must express the following minimum surface colour characteristic of the variety:
+
+— 3/4 of total surface red coloured in case of colour group A,
+
+— 1/2 of total surface mixed red coloured in case of colour group B,
+
+— 1/3 of total surface slightly red coloured, blushed or striped in case of colour group C,
+
+— no minimum colour requirement in case of colour group D.
+
+The flesh must be perfectly sound.
+
+They must be free from defects with the exception of very slight superficial defects provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— very slight skin defects,
+
+— very slight russeting ( 12 ) such as:
+
+— brown patches that may not go outside the stem cavity and may not be rough, and/or
+
+— slight isolated traces of russeting.
+
+(ii) Class I
+
+Apples in this class must be of good quality. They must be characteristic of the variety ( 13 ).
+
+Apples must express the following minimum surface colour characteristic of the variety:
+
+— 1/2 of total surface red coloured in case of colour group A,
+
+— 1/3 of total surface mixed red coloured in case of colour group B,
+
+— 1/10 of total surface slightly red coloured, blushed or striped in case of colour group C,
+
+— no minimum colour requirement in case of colour group D.
+
+The flesh must be perfectly sound.
+
+The following slight defects, however, may be allowed, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— a slight defect in development,
+
+— a slight defect in colouring,
+
+— slight bruising not exceeding 1 cm2 of total surface area and not discoloured,
+
+— slight skin defects which must not extend over more than:
+
+— 2 cm in length for defects of elongated shape,
+
+— 1 cm2 of total surface area for other defects, with the exception of scab (Venturia inaequalis), which must not extend over more than 0,25 cm2, cumulative, in area,
+
+— slight russeting ( 14 ) such as:
+
+— brown patches that may go slightly beyond the stem or pistil cavities but may not be rough, and/or
+
+— thin net-like russeting not exceeding 1/5 of the total fruit surface and not contrasting strongly with the general colouring of the fruit, and/or
+
+— dense russeting not exceeding 1/20 of the total fruit surface, while
+
+— thin net-like russeting and dense russeting taken together may not exceed a maximum of 1/5 of the total surface of the fruit.
+
+The stalk may be missing, provided the break is clean and the adjacent skin is not damaged.
+
+(iii) Class II
+
+This class includes apples which do not qualify for inclusion in the higher classes but satisfy the minimum requirements specified in point A.
+
+The flesh must be free from major defects.
+
+The following defects may be allowed, provided the apples retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— defects in development,
+
+— defects in colouring,
+
+— slight bruising not exceeding 1,5 cm2 in area which may be slightly discoloured,
+
+— skin defects which must not extend over more than:
+
+— 4 cm in length for defects of elongated shape,
+
+— 2,5 cm2 of total surface area for other defects, with the exception of scab (Venturia inaequalis), which must not extend over more than 1 cm2, cumulative, in area;
+
+— slight russeting ( 15 ) such as:
+
+— brown patches that may go beyond the stem or pistil cavities and may be slightly rough, and/or
+
+— thin net-like russeting not exceeding 1/2 of the total fruit surface and not contrasting strongly with the general colouring of the fruit, and/or
+
+— dense russeting not exceeding 1/3 of the total fruit surface, while
+
+— thin net-like russeting and dense russeting taken together may not exceed a maximum of 1/2 of the total surface of the fruit.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined either by the maximum diameter of the equatorial section or by weight.
+
+The minimum size shall be 60 mm, if measured by diameter or 90 g, if measured by weight. Fruit of smaller sizes may be accepted, if the Brix level ( 16 ) of the produce is equal to or greater than to 10,5° Brix and the size is not smaller than 50 mm or 70 g.
+
+To ensure the uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) for fruit sized by diameter:
+
+— 5 mm for ‘Extra’ Class fruit and for Classes I and II fruit packed in rows and layers. However, for apples of the varieties Bramley’s Seedling (Bramley, Triomphe de Kiel) and Horneburger, the difference in diameter may amount to 10 mm, and
+
+— 10 mm for Class I fruit packed in sales packages or loose in the package. However, for apples of the varieties Bramley’s Seedling (Bramley, Triomphe de Kiel) and Horneburger, the difference in diameter may amount to 20 mm.
+
+(b) for fruit sized by weight:
+
+— For ‘Extra’ Class and Classes I and II apples packed in rows and layers:
+
+Range (g) Weight difference (g)
+
+70 -90 15
+
+91 -135 20
+
+136 -200 30
+
+201 -300 40
+
+> 300 50
+
+— For Class I fruit packed in sales packages or loose in the package:
+
+Range (g) Uniformity (g)
+
+70 -135 35
+
+136 -300 70
+
+> 300 100
+
+There is no sizing uniformity requirement for Class II fruit packed in sales packages or loose in the package.
+
+Varieties of miniature apples, marked with an ‘M’ in the appendix to this standard, are exempted from the sizing provisions. Those miniature varieties must have a minimum Brix level ( 17 ) of 12°.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of apples not satisfying the requirements of the class, but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of apples not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of apples satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of apples not satisfying the requirements as regards sizing is allowed. This tolerance may not be extended to include produce with a size:
+
+— 5 mm or more below the minimum diameter,
+
+— 10 g or more below the minimum weight.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only apples of the same origin, variety, quality and size (if sized) and the same degree of ripeness.
+
+In the case of the ‘Extra’ Class, uniformity also applies to colouring.
+
+However, a mixture of apples of distinctly different varieties may be packed together in a sales package provided they are uniform in quality and, for each variety concerned, in origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents. Information lasered on single fruit should not lead to flesh or skin defects.
+
+B. Packaging
+
+The apples must be packed in such a way as to protect the produce properly. In particular, sales packages of a net weight exceeding 3 kg shall be sufficiently rigid to ensure proper protection of the produce.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed on the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 18 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside.
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Apples’ if the contents are not visible from the outside.
+
+— Name of the variety. In the case of a mixture of apples of distinctly different varieties, names of the different varieties.
+
+— The name of the variety may be replaced by a synonym. A trade name ( 19 ) may only be given in addition to the variety or the synonym.
+
+— In the case of mutants with varietal protection, this variety name may replace the basic variety name. In case of mutants without varietal protection, this mutant name may only be indicated in addition to the basic variety name.
+
+— ‘Miniature variety’, where appropriate.
+
+C. Origin of produce
+
+Country of origin ( 20 ) and, optionally, district where grown, or national, regional or local place name.
+
+In the case of a mixture of distinctly different varieties of apples of different origins, the indication of each country of origin shall appear next to the name of the variety concerned.
+
+D. Commercial specifications
+
+— Class,
+
+— Size, or for fruit packed in rows and layers, number of units.
+
+If identification is by the size, this should be expressed:
+
+(a) for produce subject to the uniformity rules, as minimum and maximum diameters or minimum and maximum weights;
+
+(b) optionally, for produce not subject to the uniformity rules, as the diameter or the weight of the smallest fruit in the package followed by ‘and over’ or equivalent denomination or, where appropriate, followed by the diameter or weight of the largest fruit in the package.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+## Appendix — Non-exhaustive list of apple varieties
+
+Fruits of varieties that are not part of the list must be graded according to their varietal characteristics.
+
+Some of the varieties listed in the following table may be marketed under names for which trademark protection has been sought or obtained in one or more countries. The three first columns of the table hereunder do not intend to include such trademarks. References to known trademarks have been included in the fourth column for information only.
+
+Legend:
+
+M = miniature variety
+
+R = russet variety
+
+V = watercore
+
+* = mutant without varietal protection but linked to a registered/protected trademark; mutants not marked with the asterisk are protected varieties
+
+| Varieties | Mutant | Synonyms | Trademarks | Colour group | Additional specifications |
+| --- | --- | --- | --- | --- | --- |
+| African Red |  |  | African Carmine ™ | B |  |
+| Akane |  | Tohoku 3, Primerouge |  | B |  |
+|  |  |  |  |  |  |
+| Alkmene |  | Early Windsor |  | C |  |
+|  |  |  |  |  |  |
+| Alwa |  |  |  | B |  |
+| Amasya |  |  |  | B |  |
+| Ambrosia |  |  | Ambrosia ® | B |  |
+|  |  |  |  |  |  |
+| Annurca |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Ariane |  |  | Les Naturianes ® | B |  |
+| Arlet |  | Swiss Gourmet |  | B | R |
+|  |  |  |  |  |  |
+| AW 106 |  |  | Sapora ® | C |  |
+|  |  |  |  |  |  |
+| Belgica |  |  |  | B |  |
+| Belle de Boskoop |  | Schone van Boskoop, Goudreinette |  | D | R |
+|  |  |  |  |  |  |
+|  | Boskoop rouge | Red Boskoop, Roter Boskoop, Rode Boskoop |  | B | R |
+|  | Boskoop Valastrid |  |  | B | R |
+|  |  |  |  |  |  |
+| Berlepsch |  | Freiherr von Berlepsch |  | C |  |
+|  |  |  |  |  |  |
+|  | Berlepsch rouge | Red Berlepsch, Roter Berlepsch |  | B |  |
+| Bonita |  |  |  | A |  |
+| Braeburn |  |  |  | B |  |
+|  |  |  |  |  |  |
+|  | Hidala |  | Hillwell ® | A |  |
+|  | Joburn |  | Aurora ™, Red Braeburn ™, Southern Rose ™ | A |  |
+|  | Lochbuie Red Braeburn |  |  | A |  |
+|  | Mahana Red Braeburn |  | Redfield ® | A |  |
+|  | Mariri Red |  | Eve ™, Aporo ® | A |  |
+|  |  |  |  |  |  |
+|  | Royal Braeburn |  |  | A |  |
+| Bramley’s Seedling |  | Bramley, Triomphe de Kiel |  | D |  |
+|  |  |  |  |  |  |
+| Cardinal |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Caudle |  |  | Cameo ®, Camela® | B |  |
+|  | Cauflight |  | Cameo ®, Camela® | A |  |
+|  |  |  |  |  |  |
+| CIV323 |  |  | Isaaq ® | B |  |
+| CIVG198 |  |  | Modi ® | A |  |
+| Civni |  |  | Rubens ® | B |  |
+| Collina |  |  |  | C |  |
+| Coop 38 |  |  | Goldrush ®, Delisdor ® | D | R |
+| Coop 39 |  |  | Crimson Crisp ® | A |  |
+| Coop 43 |  |  | Juliet ® | B |  |
+| Coromandel Red |  | Corodel |  | A |  |
+| Cortland |  |  |  | B |  |
+| Cox’s Orange Pippin |  | Cox orange, Cox’s O.P. |  | C | R |
+|  |  |  |  |  |  |
+| Cripps Pink |  |  | Pink Lady ®, Flavor Rose ® | C |  |
+|  |  |  |  |  |  |
+|  | Lady in Red |  | Pink Lady ® | B |  |
+|  | Rosy Glow |  | Pink Lady ® | B |  |
+|  | Ruby Pink |  |  | B |  |
+| Cripps Red |  |  | Sundowner ™, Joya ® | B |  |
+| Dalinbel |  |  | Antares ® | B | R |
+| Dalitron |  |  | Altess ® | D |  |
+| Delblush |  |  | Tentation ® | D |  |
+| Delcorf |  |  | Delbarestivale ® | C |  |
+|  |  |  |  |  |  |
+|  | Celeste |  |  | B |  |
+|  | Bruggers Festivale |  | Sissired ® | A |  |
+|  | Dalili |  | Ambassy ® | A |  |
+|  | Wonik* |  | Appache ® | A |  |
+|  |  |  |  |  |  |
+| Delcoros |  |  | Autento ® | A |  |
+| Delgollune |  |  | Delbard Jubilé ® | B |  |
+| Delicious ordinaire |  | Ordinary Delicious |  | B |  |
+|  |  |  |  |  |  |
+| Discovery |  |  |  | C |  |
+|  |  |  |  |  |  |
+| Dykmanns Zoet |  |  |  | C |  |
+| Egremont Russet |  |  |  | D | R |
+|  |  |  |  |  |  |
+| Elise |  | De Roblos, Red Delight |  | A |  |
+|  |  |  |  |  |  |
+| Elstar |  |  |  | C |  |
+|  |  |  |  |  |  |
+|  | Bel-El |  | Red Elswout ® | C |  |
+|  | Daliest |  | Elista ® | C |  |
+|  | Daliter |  | Elton ™ | C |  |
+|  | Elshof |  |  | C |  |
+|  | Elstar Boerekamp |  | Excellent Star ® | C |  |
+|  | Elstar Palm |  | Elstar PCP ® | C |  |
+|  | Goedhof |  | Elnica ® | C |  |
+|  | Red Elstar |  |  | C |  |
+|  | RNA9842 |  | Red Flame ® | C |  |
+|  | Valstar |  |  | C |  |
+|  | Vermuel |  | Elrosa ® | C |  |
+| Empire |  |  |  | A |  |
+| Fengapi |  |  | Tessa ® | B |  |
+| Fiesta |  | Red Pippin |  | C |  |
+|  |  |  |  |  |  |
+| Fresco |  |  | Wellant ® | B | R |
+| Fuji |  |  |  | B | V |
+|  |  |  |  |  |  |
+|  | Aztec |  | Fuji Zhen ® | A | V |
+|  | Brak |  | Fuji Kiku ® 8 | B | V |
+|  | FUCIV51 |  | SAN-CIV ® | A | V |
+|  | Fuji Fubrax |  | Fuji Kiku ® Fubrax | B | V |
+|  | Fuji Supreme |  |  | A | V |
+|  | Fuji VW |  | King Fuji ® | A | V |
+|  | Heisei Fuji |  | Beni Shogun ® | A | V |
+|  | Raku-Raku |  |  | B | V |
+| Gala |  |  |  | C |  |
+|  | Alvina |  |  | A |  |
+|  | ANABP 01 |  | Bravo ™ | A |  |
+|  | Baigent |  | Brookfield ® | A |  |
+|  | Bigigalaprim |  | Early Red Gala ® | B |  |
+|  | Devil Gala |  |  | A |  |
+|  | Fengal |  | Gala Venus | A |  |
+|  | Gala Schnico |  | Schniga ® | A |  |
+|  | Gala Schnico Red |  | Schniga ® | A |  |
+|  | Galafresh |  | Breeze ® | A |  |
+|  | Galaval |  |  | A |  |
+|  | Galaxy |  | Selekta ® | B |  |
+|  | Gilmac |  | Neon ® | A |  |
+|  | Imperial Gala |  |  | B |  |
+|  | Jugala |  |  | B |  |
+|  | Mitchgla |  | Mondial Gala ® | B |  |
+|  | Natali Gala |  |  | B |  |
+|  |  |  |  |  |  |
+|  | Regal Prince |  | Gala Must ® | B |  |
+|  | Royal Beaut |  |  | A |  |
+|  | Simmons |  | Buckeye ® Gala | A |  |
+|  | Tenroy |  | Royal Gala ® | B |  |
+|  | ZoukG1 |  | Gala One® | A |  |
+| Galmac |  |  | Camelot ® | B |  |
+| Gloster |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Golden 972 |  |  |  | D |  |
+| Golden Delicious |  | Golden |  | D |  |
+|  |  |  |  |  |  |
+|  | CG10 Yellow Delicious |  | Smothee ® | D |  |
+|  | Golden Delicious Reinders |  | Reinders ® | D |  |
+|  | Golden Parsi |  | Da Rosa ® | D |  |
+|  | Leratess |  | Pink Gold ® | D |  |
+|  | Quemoni |  | Rosagold ® | D |  |
+|  |  |  |  |  |  |
+| Goldstar |  |  | Rezista Gold Granny ® | D |  |
+| Gradigold |  |  | Golden Supreme ™, Golden Extreme ™ | D |  |
+| Gradiyel |  |  | Goldkiss ® | D |  |
+| Granny Smith |  |  |  | D |  |
+|  | Dalivair |  | Challenger ® | D |  |
+|  |  |  |  |  |  |
+| Gravensteiner |  | Gravenstein |  | D |  |
+| GS 66 |  |  | Fräulein ® | B |  |
+| HC2-1 |  |  | Easy pep’s! Zingy ® | A |  |
+| Hokuto |  |  |  | C |  |
+| Holsteiner Cox |  | Holstein |  | C | R |
+|  |  |  |  |  |  |
+| Honeycrisp |  |  | Honeycrunch ® | C |  |
+|  |  |  |  |  |  |
+| Horneburger |  |  |  | D |  |
+|  |  |  |  |  |  |
+| Idared |  |  |  | B |  |
+|  | Idaredest |  |  | B |  |
+|  | Najdared |  |  | B |  |
+|  |  |  |  |  |  |
+| Ingrid Marie |  |  |  | B | R |
+| Inored |  |  | Story ®, LoliPop ® | A |  |
+| James Grieve |  |  |  | D |  |
+|  |  |  |  |  |  |
+| Jonagold |  |  |  | C |  |
+|  |  |  |  |  |  |
+|  | Early Jonagold |  | Milenga ® | C |  |
+|  | Dalyrian |  |  | C |  |
+|  | Decosta |  |  | C |  |
+|  |  |  |  |  |  |
+|  | Jonagold Boerekamp |  | Early Queen ® | C |  |
+|  |  |  |  |  |  |
+|  | Jonagold Novajo | Veulemanns |  | C |  |
+|  | Jonagored |  | Morren’s Jonagored ® | C |  |
+|  | Jonagored Supra |  | Morren’s Jonagored ® Supra ® | C |  |
+|  |  |  |  |  |  |
+|  | Red Jonaprince |  | Wilton’s ®, Red Prince ® | C |  |
+|  |  |  |  |  |  |
+|  | Rubinstar |  |  | C |  |
+|  | Schneica | Jonica |  | C |  |
+|  | Vivista |  |  | C |  |
+|  |  |  |  |  |  |
+| Jonathan |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Karmijn de Sonnaville |  |  |  | C | R |
+| Kizuri |  |  | Morgana ® | B |  |
+| Ladina |  |  |  | A |  |
+| La Flamboyante |  |  | Mairac ® | B |  |
+| Laxton’s Superb |  |  |  | C | R |
+| Ligol |  |  |  | B |  |
+| Lobo |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Lurefresh |  |  | Redlove ® Era ® | A |  |
+| Lureprec |  |  | Redlove ® Circe ® | A |  |
+| Luregust |  |  | Redlove ® Calypso ® | A |  |
+| Luresweet |  |  | Redlove ® Odysso ® | A |  |
+| Maigold |  |  |  | B |  |
+| Maribelle |  |  | Lola ® | B |  |
+| MC38 |  |  | Crimson Snow ® | A |  |
+| McIntosh |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Melrose |  |  |  | C |  |
+|  |  |  |  |  |  |
+| Milwa |  |  | Diwa ®, Junami ® | B |  |
+| Minneiska |  |  | SweeTango ® | B |  |
+| Moonglo |  |  |  | C |  |
+| Morgenduft |  | Imperatore |  | B |  |
+| Mountain Cove |  |  | Ginger Gold ™ | D |  |
+| Mored |  |  | Joly Red ® | A |  |
+| Mutsu |  | Crispin |  | D |  |
+| Newton |  |  |  | C |  |
+| Nicogreen |  |  | Greenstar ® | D |  |
+| Nicoter |  |  | Kanzi ® | B |  |
+| Northern Spy |  |  |  | C |  |
+| Ohrin |  | Orin |  | D |  |
+|  |  |  |  |  |  |
+| Paula Red |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Pinova |  |  | Corail ® | C |  |
+|  | RoHo 3615 |  | Evelina ® | B |  |
+|  |  |  |  |  |  |
+| Piros |  |  |  | C |  |
+| Plumac |  |  | Koru ® | B |  |
+| Prem A153 |  |  | Lemonade ®, Honeymoon ® | C |  |
+| Prem A17 |  |  | Smitten ® | C |  |
+| Prem A280 |  |  | Sweetie™ | B |  |
+| Prem A96 |  |  | Rockit ™ | B | M |
+| R201 |  |  | Kissabel ® Rouge | A |  |
+| Rafzubin |  |  | Rubinette ® | C |  |
+|  | Frubaur |  | Rubinette ® Rossina | A |  |
+|  | Rafzubex |  | Rubinette ® Rosso | A |  |
+| Rajka |  |  | Rezista Romelike ® | B |  |
+| Regalyou |  |  | Candine ® | A |  |
+| Red Delicious |  | Rouge américaine |  | A |  |
+|  |  |  |  |  |  |
+|  | Campsur |  | Red Chief ® | A |  |
+|  | Erovan |  | Early Red One ® | A |  |
+|  | Evasni |  | Scarlet Spur ® | A |  |
+|  |  |  |  |  |  |
+|  | Stark Delicious |  |  | A |  |
+|  | Starking |  |  | C |  |
+|  | Starkrimson |  |  | A |  |
+|  | Starkspur |  |  | A |  |
+|  | Topred |  |  | A |  |
+|  | Trumdor |  | Oregon Spur Delicious ® | A |  |
+|  |  |  |  |  |  |
+| Reine des Reinettes |  | Gold Parmoné, Goldparmäne |  | C | V |
+|  |  |  |  |  |  |
+| Reinette grise du Canada |  | Graue Kanadarenette, Renetta Canada |  | D | R |
+| RM1 |  |  | Red Moon ® | A |  |
+| Rome Beauty |  | Belle de Rome, Rome, Rome Sport |  | B |  |
+| RS1 |  |  | Red Moon ® | A |  |
+| Rubelit |  |  |  | A |  |
+| Rubin |  |  |  | C |  |
+|  |  |  |  |  |  |
+| Rubinola |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Šampion |  | Shampion, Champion, Szampion |  | B |  |
+|  | Reno 2 |  |  | A |  |
+|  | Šampion Arno | Szampion Arno |  | A |  |
+| Santana |  |  |  | B |  |
+| Sciearly |  |  | Pacific Beauty ™, NZ Beauty | A |  |
+| Scifresh |  |  | Jazz ™ | B |  |
+| Sciglo |  |  | Southern Snap ™ | A |  |
+| Scilate |  |  | Envy ® | B |  |
+| Sciray |  | GS48 |  | A |  |
+| Scired |  |  | NZ Queen | A | R |
+| Sciros |  |  | Pacific Rose ™, NZ Rose | A |  |
+| Senshu |  |  |  | C |  |
+| Shinano Gold |  |  | Yello ® | D |  |
+| Spartan |  |  |  | A |  |
+| SQ 159 |  |  | Natyra ®, Magic Star ® | A |  |
+| Stayman |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Summerred |  |  |  | B |  |
+|  |  |  |  |  |  |
+| Sunrise |  |  |  | A |  |
+| Sunset |  |  |  | D | R |
+| Suntan |  |  |  | D | R |
+| Sweet Caroline |  |  |  | C |  |
+| TCL3 |  |  | Posy ® | A |  |
+| Topaz |  |  |  | B |  |
+| Tydeman’s Early Worcester |  | Tydeman’s Early |  | B |  |
+| Tsugaru |  |  |  | C |  |
+| UEB32642 |  |  | Opal ® | D |  |
+| WA 2 |  |  | Sunrise Magic ™ | A |  |
+| WA 38 |  |  | Cosmic Crisp ™ | A |  |
+| Worcester Pearmain |  |  |  | B |  |
+| Xeleven |  |  | Swing ® natural more | A |  |
+| York |  |  |  | B |  |
+| Zari |  |  |  | B |  |
+| Zouk 16 |  |  | Flanders Pink ®, Mariposa ® | B |  |
+| Zouk 31 |  |  | Rubisgold ® | D |  |
+| Zouk 32 |  |  | Coryphée ® | A |  |
+
+**PART 2**
+
+**Marketing standard for citrus fruit**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to citrus fruit of varieties (cultivars) grown from the following species, to be supplied fresh to the consumer, citrus fruit for industrial processing being excluded:
+
+— lemons grown from the species Citrus limon (L.) Burm. f. and hybrids thereof,
+
+— Persian limes grown from the species Citrus latifolia (Yu. Tanaka) Tanaka, a large fruited acid lime known also as Bearss or Tahiti and hybrids thereof,
+
+— Mexican limes grown from the species Citrus aurantiifolia (Christm.) Swingle, also known as sour limes and key limes and hybrids thereof,
+
+— Indian sweet limes, Palestine sweet limes grown from the species Citrus limettioides Tanaka and hybrids thereof,
+
+— mandarins grown from the species Citrus reticulata Blanco, including satsumas (Citrus unshiu Marcow), clementines (Citrus clementina hort. ex Tanaka), common mandarins (Citrus deliciosa Ten.) and tangerines (Citrus tangerina Tanaka) grown from these species and hybrids thereof,
+
+— oranges grown from the species Citrus sinensis (L.) Osbeck and hybrids thereof,
+
+— grapefruit grown from the species Citrus paradisi Macfad. and hybrids thereof,
+
+— pummelos or Shaddock grown from the species Citrus maxima (Burm.) Merr. And hybrids thereof.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for citrus fruit after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to theirdevelopment and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the citrus fruit must be:
+
+— intact,
+
+— free of bruising and/or extensive healed overcuts,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of signs of shrivelling and dehydration,
+
+— free of damage caused by low temperature or frost,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of the citrus fruit must be such as to enable it:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Maturity requirements
+
+The citrus fruit must have reached an appropriate degree of development and ripeness, account being taken of criteria proper to the variety, the time of picking and the growing area.
+
+Maturity of citrus fruit is defined by the following parameters specified for each species as follows:
+
+— minimum juice content,
+
+— minimum total soluble solids content, i.e. minimum sugar content,
+
+— minimum sugar/acid ratio ( 21 ),
+
+— colouring.
+
+The degree of colouring shall be such that following normal development the citrus fruit reach the colour typical of the variety at their destination point.
+
+<table>
+<tbody><tr><td>Fruit</td><td>Minimum juice content (%)</td><td>Minimum sugar content (°Brix) </td><td>Minimum sugar/acid ratio</td><td>Colouring</td></tr>
+<tr><td>Lemons</td><td>20 </td><td>  </td><td>  </td><td>Must be typical of the variety. Fruit with a green (but not dark green) colour is allowed, provided it satisfies the minimum requirements as to juice content</td></tr>
+<tr><td colspan="5">Limes</td></tr>
+<tr><td>Persian lime</td><td>42 </td><td>  </td><td>  </td><td rowspan="3">The fruit should be green but may show yellow patches up to 30 % of its surface for Persian limes and up to 20 % for Mexican and Indian limes</td></tr>
+<tr><td>Mexican and Indian sweet limes</td><td>40 </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">Satsumas, clementines, other mandarin varieties and their hybrids</td></tr>
+<tr><td>Satsumas</td><td>33 </td><td>  </td><td>6,5 :1 </td><td rowspan="4">Must be typical of the variety on at least one third of the surface of the fruit</td></tr>
+<tr><td>Clementines</td><td>40 </td><td>  </td><td>7,0 :1 </td></tr>
+<tr><td>Other mandarin varieties and their hybrids</td><td>33 </td><td>  </td><td>7,5 :1 (1)</td></tr>
+<tr><td colspan="5">Oranges</td></tr>
+<tr><td>Blood oranges</td><td>30 </td><td>  </td><td>6,5 :1 </td><td rowspan="6">Must be typical of the variety. However, fruit with light green colour not exceeding one fifth of the total surface area of the fruit is allowed, provided it satisfies the minimum requirements as to juice content. Oranges produced in areas with high temperatures and high relative humidity conditions during the developing period having a green colour exceeding one fifth of the surface area of the fruit are allowed, provided they satisfy the minimum requirements as to juice content. </td></tr>
+<tr><td>Navels group</td><td>33 </td><td>  </td><td>6,5 :1 </td></tr>
+<tr><td>Other varieties</td><td>35 </td><td>  </td><td>6,5 :1 </td></tr>
+<tr><td>Mosambi, Sathgudi and Pacitan with more than one fifth green colour</td><td>33 </td><td>  </td><td>  </td></tr>
+<tr><td>Other varieties with more than one fifth green colour</td><td>45 </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">Grapefruit and hybrids</td></tr>
+<tr><td>All varieties and hybrids</td><td>35 </td><td>  </td><td>  </td><td rowspan="2">Must be typical of the variety. Fruit with a greenish colour (green in Oroblanco) is allowed, provided it satisfies the minimum requirements as to juice content </td></tr>
+<tr><td>Oroblanco</td><td>35 </td><td>9 </td><td>  </td></tr>
+<tr><td>Pummelos (Shaddock) and hybrids</td><td>  </td><td>8 </td><td>  </td><td>Must be typical of the variety on at least two thirds of the surface of the fruit</td></tr>
+<tr><td colspan="5">(1)  For the varieties Mandora and Minneola the minimum sugar/acid ratio is 6,0:1 until the end of the marketing year starting 1 January 2023. </td></tr>
+</tbody>
+</table>
+
+Citrus fruit meeting these maturity requirements may be ‘degreened’. This treatment is only permitted if the other natural organoleptic characteristics are not modified.
+
+C. Classification
+
+Citrus fruit is classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Citrus fruit in this class must be of superior quality. It must be characteristic of the variety and/or commercial type.
+
+It must be free from defects, with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Citrus fruit in this class must be of good quality. It must be characteristic of the variety and/or commercial type.
+
+The following slight defects, however, may be allowed provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— slight defects in colouring, including slight sunburn,
+
+— slight progressive skin defects, provided they do not affect the flesh,
+
+— slight skin defects occurring during the formation of the fruit, such as silver scurfs, russets or pest damage,
+
+— slight healed defects due to a mechanical cause such as hail damage, rubbing or damage from handling,
+
+— slight and partial detachment of the peel (or rind) for all fruit of the mandarin group.
+
+(iii) Class II
+
+This class includes citrus fruit which does not qualify for inclusion in the higher classes but satisfies the minimum requirements specified in point A.
+
+The following defects may be allowed, provided the citrus fruit retains its essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— defects in colouring, including sunburn,
+
+— progressive skin defects, provided they do not affect the flesh,
+
+— skin defects occurring during the formation of the fruit, such as silver scurfs, russets or pest damage,
+
+— healed defects due to a mechanical cause such as hail damage, rubbing or damage from handling,
+
+— superficial healed skin alterations,
+
+— rough skin,
+
+— a slight and partial detachment of the peel (or rind) for oranges and a partial detachment of the peel (or rind) for all fruit of the mandarin group.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the maximum diameter of the equatorial section of the fruit or by count.
+
+A. Minimum size
+
+The following minimum sizes apply:
+
+| Fruit | Diameter (mm) |
+| --- | --- |
+| Lemons | 45 |
+| Persian limes | 42 |
+| Mexican and Indian sweet limes | 25 |
+| Satsumas, other mandarin varieties and hybrids | 45 |
+| Clementines | 35 |
+| Oranges | 53 |
+| Grapefruit and hybrids | 70 |
+| Pummelos and hybrids | 100 |
+
+B. Uniformity
+
+Citrus fruit may be sized by one of the following options:
+
+(a) To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+— 10 mm, if the diameter of the smallest fruit (as indicated on the package) is &lt; 60 mm,
+
+— 15 mm, if the diameter of the smallest fruit (as indicated on the package) is ≥ 60 mm but &lt; 80 mm,
+
+— 20 mm, if the diameter of the smallest fruit (as indicated on the package) is ≥ 80 mm but &lt; 110 mm,
+
+— there is no limitation of difference in diameter for fruit ≥ 110 mm.
+
+(b) When size codes are applied, the codes and ranges in the following tables must be respected:
+
+<table>
+<tbody><tr><td>Fruit</td><td>Size code</td><td>Diameter (mm)</td></tr>
+<tr><td colspan="3">Lemons</td></tr>
+<tr><td>  </td><td>0</td><td>79 – 90 </td></tr>
+<tr><td>  </td><td>1</td><td>72 – 83 </td></tr>
+<tr><td>  </td><td>2</td><td>68 – 78 </td></tr>
+<tr><td>  </td><td>3</td><td>63 – 72 </td></tr>
+<tr><td>  </td><td>4</td><td>58 – 67 </td></tr>
+<tr><td>  </td><td>5</td><td>53 – 62 </td></tr>
+<tr><td>  </td><td>6</td><td>48 – 57 </td></tr>
+<tr><td>  </td><td>7</td><td>45 – 52 </td></tr>
+<tr><td>Limes</td><td>  </td><td>  </td></tr>
+<tr><td>Persian limes</td><td>1</td><td>58 – 67 </td></tr>
+<tr><td>  </td><td>2</td><td>53 – 62 </td></tr>
+<tr><td>  </td><td>3</td><td>48 – 57 </td></tr>
+<tr><td>  </td><td>4</td><td>45 – 52 </td></tr>
+<tr><td>  </td><td>5</td><td>42 – 49 </td></tr>
+<tr><td>Mexican and Indian sweet limes</td><td>1</td><td>&gt; 45 </td></tr>
+<tr><td>  </td><td>2</td><td>40,1 – 45 </td></tr>
+<tr><td>  </td><td>3</td><td>35,1 – 40 </td></tr>
+<tr><td>  </td><td>4</td><td>30,1 – 35 </td></tr>
+<tr><td>  </td><td>5</td><td>25 – 30 </td></tr>
+<tr><td colspan="3">Satsumas, clementines, and other mandarin varieties and hybrids</td></tr>
+<tr><td>  </td><td>1 – XXX</td><td>78 and above</td></tr>
+<tr><td>  </td><td>1 – XX</td><td>67 – 78 </td></tr>
+<tr><td>  </td><td>1 or 1 – X</td><td>63 – 74 </td></tr>
+<tr><td>  </td><td>2</td><td>58 – 69 </td></tr>
+<tr><td>  </td><td>3</td><td>54 – 64 </td></tr>
+<tr><td>  </td><td>4</td><td>50 – 60 </td></tr>
+<tr><td>  </td><td>5</td><td>46 – 56 </td></tr>
+<tr><td>  </td><td>6 (1)</td><td>43 – 52 </td></tr>
+<tr><td>  </td><td>7</td><td>41 – 48 </td></tr>
+<tr><td>  </td><td>8</td><td>39 – 46 </td></tr>
+<tr><td>  </td><td>9</td><td>37 – 44 </td></tr>
+<tr><td>  </td><td>10</td><td>35 – 42 </td></tr>
+<tr><td colspan="3">Oranges</td></tr>
+<tr><td>  </td><td>0</td><td>92 – 110 </td></tr>
+<tr><td>  </td><td>1</td><td>87 – 100 </td></tr>
+<tr><td>  </td><td>2</td><td>84 – 96 </td></tr>
+<tr><td>  </td><td>3</td><td>81 – 92 </td></tr>
+<tr><td>  </td><td>4</td><td>77 – 88 </td></tr>
+<tr><td>  </td><td>5</td><td>73 – 84 </td></tr>
+<tr><td>  </td><td>6</td><td>70 – 80 </td></tr>
+<tr><td>  </td><td>7</td><td>67 – 76 </td></tr>
+<tr><td>  </td><td>8</td><td>64 – 73 </td></tr>
+<tr><td>  </td><td>9</td><td>62 – 70 </td></tr>
+<tr><td>  </td><td>10</td><td>60 – 68 </td></tr>
+<tr><td>  </td><td>11</td><td>58 – 66 </td></tr>
+<tr><td>  </td><td>12</td><td>56 – 63 </td></tr>
+<tr><td>  </td><td>13</td><td>53 – 60 </td></tr>
+<tr><td colspan="3">Grapefruit and hybrids</td></tr>
+<tr><td>  </td><td>0</td><td>&gt; 139 </td></tr>
+<tr><td>  </td><td>1</td><td>109 – 139 </td></tr>
+<tr><td>  </td><td>2</td><td>100 – 119 </td></tr>
+<tr><td>  </td><td>3</td><td>93 – 110 </td></tr>
+<tr><td>  </td><td>4</td><td>88 – 102 </td></tr>
+<tr><td>  </td><td>5</td><td>84 – 97 </td></tr>
+<tr><td>  </td><td>6</td><td>81 – 93 </td></tr>
+<tr><td>  </td><td>7</td><td>77 – 89 </td></tr>
+<tr><td>  </td><td>8</td><td>73 – 85 </td></tr>
+<tr><td>  </td><td>9</td><td>70 – 80 </td></tr>
+<tr><td colspan="3">Pummelos and hybrids</td></tr>
+<tr><td>  </td><td>0</td><td>&gt; 170 </td></tr>
+<tr><td>  </td><td>1</td><td>156 – 170 </td></tr>
+<tr><td>  </td><td>2</td><td>148 – 162 </td></tr>
+<tr><td>  </td><td>3</td><td>140 – 154 </td></tr>
+<tr><td>  </td><td>4</td><td>132 – 146 </td></tr>
+<tr><td>  </td><td>5</td><td>123 – 138 </td></tr>
+<tr><td>  </td><td>6</td><td>116 – 129 </td></tr>
+<tr><td>  </td><td>7</td><td>100 – 118 </td></tr>
+<tr><td colspan="3">(1)  Sizes below 45 mm refer to clementines only. </td></tr>
+</tbody>
+</table>
+
+Uniformity in size is achieved by the above-mentioned size scales, unless otherwise stated as follows:
+
+For fruit in bulk bins and fruit in sales packages of a maximum net weight of 5 kg, the maximum difference must not exceed the range obtained by grouping three consecutive sizes in the size scale.
+
+(c) For fruit sized by count, the difference in size should be consistent with point (a).
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of citrus fruit not satisfying the requirements of the class, but meeting those of Class I is allowed. Within this tolerance, not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of citrus fruit not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance, not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of citrus fruit satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance, not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of citrus fruit corresponding to the size immediately below and/or above that (or those, in the case of the combination of three sizes) mentioned on the packages is allowed.
+
+In any case, the tolerance of 10 % applies only to fruit not smaller than the following minima:
+
+| Fruit | Diameter (mm) |
+| --- | --- |
+| Lemons | 43 |
+| Persian limes | 40 |
+| Mexican and Indian sweet limes | Not applicable |
+| Satsumas, other mandarin varieties and hybrids | 43 |
+| Clementines | 34 |
+| Oranges | 50 |
+| Grapefruit and hybrids | 67 |
+| Pummelos and hybrids | 98 |
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only citrus fruit of the same origin, variety or commercial type, quality and size, and appreciably of the same degree of ripeness and development.
+
+In addition, for the ‘Extra’ Class, uniformity in colouring is required.
+
+However, a mixture of citrus fruit of distinctly different species may be packed together in a sales package, provided they are uniform in quality and, for each species concerned, in variety or commercial type and origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The citrus fruit must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed on the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects. Information lasered on single fruit should not lead to flesh or skin defects.
+
+If the fruit is wrapped, thin, dry, new and odourless ( 22 ) paper must be used.
+
+The use of any substance tending to modify the natural characteristics of the citrus fruit, especially its taste or smell ( 23 ), is prohibited.
+
+Packages must be free of all foreign matter. However, a presentation where a short (not wooden) twig with some green leaves adheres to the fruit is allowed.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 24 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside.
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+‘Lemons’, ‘Limes’, ‘Persian limes’, ‘Mexican limes’, ‘Indian sweet limes’/‘Palestine sweet limes’, ‘Mandarins’, ‘Oranges’, ‘Grapefruit’, ‘Pummelos’/‘Shaddock’ if the produce is not visible from the outside.
+
+‘Mixture of citrus fruit’ or equivalent denomination and common names of the different species, in case of a mixture of citrus fruit of distinctly different species.
+
+For oranges, name of the variety, and/or the respective variety group in the case of ‘Navels’, and ‘Valencias’.
+
+For ‘Satsumas’ and ‘Clementines’, the common name of the species is required and the name of the variety is optional.
+
+For other mandarins and hybrids thereof, the name of the variety is required.
+
+For all other species: the name of the variety is optional.
+
+The name of a variety may be replaced by a synonym. A trade name ( 25 ) may only be given in addition to the variety or the synonym.
+
+Flesh colour ‘white’, ‘pink’ or ‘red’ for grapefruit and pummelos where appropriate.
+
+‘Seeded’ in case of clementines with more than 10 seeds.
+
+‘Seedless’ (optional, seedless citrus fruit may occasionally contain seeds)
+
+C. Origin of produce
+
+— Country of origin ( 26 ) and, optionally, district where grown, or national, regional or local place name.
+
+— In the case of a mixture of citrus fruit of distinctly different species of different origins, the indication of each country of origin shall appear next to the name of the species concerned.
+
+D. Commercial specifications
+
+— Class.
+
+— Size expressed as:
+
+— Minimum and maximum sizes (in mm), or
+
+— Size code(s) followed, optionally, by a minimum and maximum size, or
+
+— Count.
+
+— When used, mention of the preserving agent or other chemical substances used at post-harvest stage.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 3**
+
+**Marketing standard for kiwifruit**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to kiwifruit (also known as Actinidia or kiwi) of varieties (cultivars) grown from Actinidia chinensis Planch. and Actinidia deliciosa (A. Chev.), C.F. Liang and A.R. Ferguson to be supplied fresh to the consumer, kiwifruit for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for kiwifruit, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the kiwifruit must be:
+
+— intact (but free of peduncle),
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— adequately firm; not soft, shrivelled or water-soaked,
+
+— well formed, double/multiple fruit being excluded,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of the kiwifruit must be such as to enable it:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Minimum maturity requirements
+
+The kiwifruit must be sufficiently developed and display satisfactory ripeness.
+
+In order to satisfy this requirement, the fruit at packing must have attained a degree of ripeness of at least 6,2° Brix ( 27 ) or an average dry matter content of 15 %, which should lead to 9,5° Brix when entering the distribution chain.
+
+C. Classification
+
+Kiwifruit is classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Kiwifruit in this class must be of superior quality. It must be characteristics of the variety.
+
+The fruit must be firm and the flesh must be perfectly sound.
+
+It must be free from defects with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+The ratio of the minimum/maximum diameter of the fruit measured at the equatorial section must be 0,8 or greater.
+
+(ii) Class I
+
+Kiwifruit in this class must be of good quality. It must be characteristic of the variety.
+
+The fruit must be firm and the flesh must be perfectly sound.
+
+The following slight defects, however, may be allowed provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape (but free of swelling or malformations),
+
+— slight defects in colouring,
+
+— slight skin defects, provided the total area affected does not exceed 1 cm2,
+
+— small ‘Hayward mark’ like longitudinal lines and without protuberance.
+
+The ratio of the minimum/maximum diameter of the fruit measured at the equatorial section must be 0,7 or greater.
+
+(iii) Class II
+
+This class includes kiwifruit that does not qualify for inclusion in the higher classes, but satisfies the minimum requirements specified in point A.
+
+The fruit must be reasonably firm and the flesh should not show any serious defects.
+
+The following defects may be allowed provided the kiwifruit retains its essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— defects in colouring,
+
+— skin defects such as small healed cuts or scarred/grazed tissue, provided that the total area affected does not exceed 2 cm2,
+
+— several more pronounced ‘Hayward marks’ with a slight protuberance,
+
+— slight bruising.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the weight of the fruit.
+
+The minimum weight for ‘Extra’ Class is 90 g, for Class I is 70 g and for Class II is 65 g.
+
+To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+— 10 g for fruit of weight up to 85 g,
+
+— 15 g for fruit weighing between 85 g and 120 g,
+
+— 20 g for fruit weighing between 120 g and 150 g,
+
+— 40 g for fruit weighing 150 g or more.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of kiwifruit not satisfying the requirements of the class but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of kiwifruit not satisfying the requirements of the class but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of kiwifruit satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of kiwifruit not satisfying the requirements as regards sizing is allowed.
+
+However, the kiwifruit must not weigh less than 85 g in ‘Extra’ Class, 67 g in Class I and 62 g in Class II.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only kiwifruit of the same origin, variety, quality and size.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The kiwifruit must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps, bearing trade specifications is allowed, provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed to the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects. Information lasered on single fruit should not lead to flesh or skin defects.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 28 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Kiwifruit’ and/or ‘Actinidia’, if the contents are not visible from the outside.
+
+— Name of the variety (optional).
+
+— Flesh colour or equivalent indication, if not green.
+
+C. Origin of produce
+
+Country of origin ( 29 ) and, optionally, district where grown, or national, regional or local place name.
+
+D. Commercial specifications
+
+— Class.
+
+— Size expressed by the minimum and maximum weight of the fruit.
+
+— Number of fruits (optional).
+
+E. Official control mark (optional)
+
+Packages need not bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 4**
+
+**Marketing standard for lettuces, curled-leaved endives and broad-leaved (Batavian) endives**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to:
+
+— lettuces of varieties (cultivars) grown from:
+
+— Lactuca sativa var. capitata L. (head lettuces including crisphead and ‘Iceberg’ type lettuces),
+
+— Lactuca sativa var. longifolia Lam. (cos or romaine lettuces),
+
+— Lactuca sativa var. crispa L. (leaf lettuces),
+
+— crosses of these varieties and
+
+— curled-leaved endives of varieties (cultivars) grown from Cichorium endivia var. crispum Lam. and
+
+— broad-leaved (Batavian) endives (escaroles) of varieties (cultivars) grown from Cichorium endivia var. latifolium Lam.
+
+to be supplied fresh to the consumer.
+
+This standard does not apply to produce for industrial processing, produce presented as individual leaves, lettuces with root ball or lettuces in pots.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for produce, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the produce must be:
+
+— intact,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean and trimmed, i.e. practically free from all earth or other growing medium and practically free of any visible foreign matter,
+
+— fresh in appearance,
+
+— practically free from pests,
+
+— practically free from damage caused by pests,
+
+— turgescent,
+
+— not running to seed,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+In the case of lettuce, a reddish discolouration, caused by low temperature during growth, is allowed, unless it seriously affects the appearance of the lettuce.
+
+The roots must be cut close to the base of the outer leaves and the cut must be neat.
+
+The produce must be of normal development. The development and condition of the produce must be such as to enable it:
+
+— to withstand transportation and handling, and
+
+— to arrive in a satisfactory condition at the place of destination.
+
+B. Classification
+
+The produce is classified in two classes, defined as follows:
+
+(i) Class I
+
+Produce in this class must be of good quality. It must be characteristic of the variety and/or commercial type.
+
+The produce must also be:
+
+— well formed,
+
+— firm, taking into account the cultivation methods and the type of produce,
+
+— free from damage or deterioration impairing edibility,
+
+— free from frost damage.
+
+Head lettuces must have a single well-formed heart. However, in the case of head lettuces grown under protection, the heart may be small.
+
+Cos lettuces must have a heart, which may be small.
+
+The centre of curled-leaved endives and broad-leaved (Batavian) endives must be yellow in colour.
+
+(ii) Class II
+
+This class includes produce which do not qualify for inclusion in Class I, but satisfy the minimum requirements specified in point A.
+
+The produce must be:
+
+— reasonably well-formed,
+
+— free from damage and deterioration which may seriously impair edibility.
+
+The following defects may be allowed provided the produce retains its essential characteristics as regards the quality, the keeping quality and presentation:
+
+— slight discolouration,
+
+— slight damage caused by pests.
+
+Head lettuces must have a heart, which may be small. However, in the case of head lettuces grown under protection, absence of heart is permissible.
+
+Cos lettuces may show no heart.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the weight of one unit.
+
+To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) Lettuces:
+
+— 40 g when the lightest unit weighs less than 150 g per unit,
+
+— 100 g when the lightest unit weighs between 150 g and 300 g per unit,
+
+— 150 g when the lightest unit weighs between 300 g and 450 g per unit,
+
+— 300 g when the lightest unit weighs more than 450 g per unit.
+
+(b) Curled-leaved and broad-leaved (Batavian) endives:
+
+— 300 g.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) Class I
+
+A total tolerance of 10 %, by number, of produce not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(ii) Class II
+
+A total tolerance of 10 %, by number, of produce satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number, of produce not satisfying the requirements as regards sizing is allowed.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only produce of the same origin, variety or commercial type, quality and size.
+
+However, a mixture of lettuces and/or endives of distinctly different, varieties, commercial types and/or colours may be packed together in a package, provided they are uniform in quality and, for each variety, commercial type and/or colour, in origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The produce must be packed in such a way as to protect it properly. It must be reasonably packed having regard to the size and type of packaging, without empty spaces or crushing.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly paper or stamps bearing trade specifications is allowed, provided the printing or labelling has been done with non-toxic ink or glue.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 30 ) must bear the following particulars in letters grouped on the same side, legibly and indelibly marked, and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Lettuces’, ‘butterhead lettuces’, ‘batavia’, ‘crisphead lettuces (Iceberg)’, ‘cos lettuces’, ‘leaf lettuce’ (or, for example and where appropriate, ‘Oak leaf’, ‘Lollo bionda’, ‘Lollo rossa’), ‘curled-leaved endives’, ‘broad-leaved (Batavian) endives’, or equivalent denomination if the contents are not visible from the outside.
+
+— ‘Grown under protection’, or equivalent denomination where appropriate.
+
+— Name of the variety (optional).
+
+— ‘Mixture of lettuces/endives’, or equivalent denomination in the case of a mixture of lettuces and/or endives of distinctly different varieties, commercial types and/or colours. If the produce is not visible from the outside, the varieties, commercial types and/or colours, and the quantity of each in the package must be indicated.
+
+C. Origin of produce
+
+— Country of origin ( 31 ) and, optionally, district where grown, or national, regional or local place name.
+
+— In the case of a mixture of lettuces and/or endives of distinctly different varieties, commercial types and/or colours of different origins, the indication of each country of origin shall appear next to the name of the variety, commercial type and/or colour concerned.
+
+D. Commercial specifications
+
+— Class,
+
+— Size, expressed by the minimum weight per unit, or number of units.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 5**
+
+**Marketing standard for peaches and nectarines**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to peaches and nectarines of varieties (cultivars) grown from Prunus persica Sieb. and Zucc., to be supplied fresh to the consumer, peaches and nectarines for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for peaches and nectarines, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, peaches and nectarines must be:
+
+— intact,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of fruit split at the stalk cavity,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of peaches and nectarines must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Maturity requirements
+
+The fruit must be sufficiently developed and display satisfactory ripeness. The minimum refractometric index of the flesh should be greater than or equal to 8° Brix ( 32 ).
+
+C. Classification
+
+Peaches and nectarines are classified into three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Peaches and nectarines in this class must be of a superior quality. They must be characteristic of the variety.
+
+The flesh must be perfectly sound.
+
+They must be free from defects with the exception of very slight superficial defects, provided that these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Peaches and nectarines in this class must be of good quality. They must be characteristic of the variety. The flesh must be perfectly sound.
+
+The following slight defects, however, may be allowed provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— a slight defect in development,
+
+— slight defects in colouring,
+
+— slight pressure marks not exceeding 1 cm2 in total surface area,
+
+— slight skin defects which must not extend over more than:
+
+— 1,5 cm in length for defects of elongated shape,
+
+— 1 cm2 in total surface area for other defects.
+
+(iii) Class II
+
+This class includes peaches and nectarines which do not qualify for inclusion in the higher classes, but satisfy the minimum requirements specified in point A.
+
+The flesh must be free from major defects.
+
+The following defects may be allowed provided the peaches and nectarines retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— defects in development, including split stones, provided the fruit is closed and the flesh is sound,
+
+— defects in colouring,
+
+— bruises which may be slightly discoloured and not exceeding 2 cm2 in total surface area,
+
+— skin defects which must not extend over more than
+
+— 2,5 cm in length for defects of elongated shape,
+
+— 2 cm2 in total surface area for other defects.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined either by the maximum diameter of the equatorial section, by weight, or by count.
+
+The minimum size shall be:
+
+— 56 mm or 85 g in ‘Extra’ Class,
+
+— 51 mm or 65 g in Classes I and II.
+
+However, fruit below 56 mm or 85 g, is not marketed in the period from 1 July to 31 October (northern hemisphere) and from 1 January to 30 April (southern hemisphere).
+
+The following provisions are optional for Class II.
+
+To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) For fruit sized by diameter:
+
+— 5 mm for fruit below 70 mm,
+
+— 10 mm for fruit of 70 mm and more.
+
+(b) For fruit sized by weight:
+
+— 30 g for fruit below 180 g,
+
+— 80 g for fruit of 180 g and more.
+
+(c) For fruit sized by count, the difference in size should be consistent with point (a) or (b).
+
+If size codes are applied, those in the table below have to be respected.
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="2">Diameter</td><td rowspan="11">or</td><td colspan="2">weight</td></tr>
+<tr><td>  </td><td>code</td><td>from</td><td>To</td><td>from</td><td>to</td></tr>
+<tr><td>  </td><td>  </td><td>(mm)</td><td>(mm)</td><td>(g)</td><td>(g)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td></tr>
+<tr><td>1</td><td>D</td><td>51 </td><td>56 </td><td>65 </td><td>85 </td></tr>
+<tr><td>2</td><td>C</td><td>56 </td><td>61 </td><td>85 </td><td>105 </td></tr>
+<tr><td>3</td><td>B</td><td>61 </td><td>67 </td><td>105 </td><td>135 </td></tr>
+<tr><td>4</td><td>A</td><td>67 </td><td>73 </td><td>135 </td><td>180 </td></tr>
+<tr><td>5</td><td>AA</td><td>73 </td><td>80 </td><td>180 </td><td>220 </td></tr>
+<tr><td>6</td><td>AAA</td><td>80 </td><td>90 </td><td>220 </td><td>300 </td></tr>
+<tr><td>7</td><td>AAAA</td><td colspan="2">&gt; 90 </td><td colspan="2">&gt; 300 </td></tr>
+</tbody>
+</table>
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements for the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of peaches or nectarines not satisfying the requirements of the class, but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of peaches or nectarines not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of peaches or nectarines satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes (if sized): a total tolerance of 10 %, by number or weight, of peaches or nectarines not satisfying the requirements as regards sizing is allowed.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only peaches or nectarines of the same origin, variety, quality, degree of ripeness and size (if sized), and for the ‘Extra’ Class, the contents must also be uniform in colouring.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The peaches or nectarines must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed to the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects. Information lasered on single fruit should not lead to flesh or skin defect.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 33 ) must bear the following particulars in letters grouped on the same side, legibly and indelibly marked and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Peaches’ or ‘Nectarines’, if the contents are not visible from the outside.
+
+— Colour of the flesh.
+
+— Name of the variety (optional).
+
+C. Origin of produce
+
+Country of origin ( 34 ) and, optionally, district where grown, or national, regional or local place name.
+
+D. Commercial specifications
+
+— Class.
+
+— Size (if sized) expressed as minimum and maximum diameters (in mm) or minimum and maximum weights (in g) or as size code.
+
+— Number of units (optional).
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 6**
+
+**Marketing standard for pears**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to pears of varieties (cultivars) grown from Pyrus communis L. to be supplied fresh to the consumer, pears for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for pears, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, pears must be:
+
+— intact,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of the pears must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Maturity requirements
+
+The development and state of maturity of the pears must be such as to enable them to continue their ripening process and to reach the degree of ripeness required in relation to the varietal characteristics.
+
+C. Classification
+
+Pears are classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Pears in this class must be of superior quality. They must be characteristic of the variety ( 35 ).
+
+The flesh must be perfectly sound, and the skin free from rough russeting.
+
+They must be free from defects with the exception of very slight superficial defects provided these do not affect the general appearance of the fruit, the quality, the keeping quality and presentation in the package.
+
+The stalk must be intact.
+
+Pears must not be gritty.
+
+(ii) Class I
+
+Pears in this class must be of good quality. They must be characteristic of the variety ( 36 ).
+
+The flesh must be perfectly sound.
+
+The following slight defects, however, may be allowed, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— a slight defect in development,
+
+— slight defects in colouring,
+
+— very slight rough russeting,
+
+— slight skin defects which must not extend over more than:
+
+— 2 cm in length for defects of elongated shape,
+
+— 1 cm2 of total surface area for other defects, with the exception of scab (Venturia pirina and V. inaequalis), which must not extend over more than 0,25 cm2 cumulative in area,
+
+— slight bruising not exceeding 1 cm2 in area.
+
+The stalk may be slightly damaged.
+
+Pears must not be gritty.
+
+(iii) Class II
+
+This class includes pears that do not qualify for inclusion in the higher classes but satisfy the minimum requirements specified in point A.
+
+The flesh must be free from major defects.
+
+The following defects may be allowed provided the pears retain their essential characteristics as regards the quality, the keeping quality and presentation.
+
+— defects in shape,
+
+— defects in development,
+
+— defects in colouring,
+
+— slight rough russeting,
+
+— skin defects which must not extend over more than:
+
+— 4 cm in length for defects of elongated shape,
+
+— 2,5 cm2 of total surface area for other defects, with the exception of scab (Venturia pirina and V. inaequalis), which must not extend over more than 1 cm2 cumulative in area,
+
+— slight bruising not exceeding 2 cm2 in area.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by maximum diameter of the equatorial section or by weight.
+
+The minimum size shall be:
+
+(a) For fruit sized by diameter:
+
+|  | ‘Extra’ (mm) | Class I (mm) | Class II (mm) |
+| --- | --- | --- | --- |
+| Large-fruited varieties | 60 | 55 | 55 |
+| Other varieties | 55 | 50 | 45 |
+
+(b) For fruit sized by weight:
+
+|  | ‘Extra’ (g) | Class I (g) | Class II (g) |
+| --- | --- | --- | --- |
+| Large-fruited varieties | 130 | 110 | 110 |
+| Other varieties | 110 | 100 | 75 |
+
+Summer pears included in the appendix to this standard do not have to respect the minimum size.
+
+To ensure the uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) For fruit sized by diameter:
+
+— 5 mm for ‘Extra’ Class fruit and for Class I and II fruit packed in rows and layers,
+
+— 10 mm for Class I fruit packed in sales packages or loose in the package.
+
+(b) For fruit sized by weight:
+
+— for ‘Extra’ Class fruit and Class I and II fruit packed in rows and layers:
+
+Range (g) Weight difference (g)
+
+75 – 100 15
+
+100 – 200 35
+
+200 -250 50
+
+> 250 80
+
+— for Class I fruit packed in sales packages or loose in the package:
+
+Range (g) Weight difference (g)
+
+100 – 200 50
+
+> 200 100
+
+There is no sizing uniformity limit for Class II fruit packed in sales packages or loose in the package.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of pears not satisfying the requirements of the class but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of pears not satisfying the requirements of the class but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of pears satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of pears not satisfying the requirements as regards sizing is allowed. This tolerance may not be extended to include produce with a size:
+
+— 5 mm or more below the minimum diameter,
+
+— 10 g or more below the minimum weight.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only pears of the same origin, variety, quality, and size (if sized) and the same degree of ripeness.
+
+In the case of the ‘Extra’ Class, uniformity also applies to colouring.
+
+However, a mixture of pears of distinctly different varieties may be packed together in a sales package, provided they are uniform in quality and, for each variety concerned, in origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+Pears must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed on the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects. Information lasered on single fruit should not lead to flesh or skin defects.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 37 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside.
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Pears’, if the contents of the package are not visible from the outside.
+
+— Name of the variety. In the case of a mixture of pears of distinctly different varieties, names of the different varieties.
+
+— The name of the variety may be replaced by a synonym. A trade name ( 38 ) may only be given in addition to the variety or the synonym.
+
+C. Origin of produce
+
+Country of origin ( 39 ) and, optionally, district where grown, or national, regional or local place name.
+
+In the case of a mixture of distinctly different varieties of pears of different origins, the indication of each country of origin shall appear next to the name of the variety concerned.
+
+D. Commercial specifications
+
+— Class.
+
+— Size, or for fruit packed in rows and layers, number of units.
+
+— If identification is by the size, this should be expressed:
+
+(a) for produce subject to the uniformity rules, as minimum and maximum diameters or minimum and maximum weights;
+
+(b) optionally, for produce not subject to the uniformity rules, as the diameter or the weight of the smallest fruit in the package followed by ‘and over’ or equivalent denomination or, where appropriate, the diameter or the weight of the largest fruit in the package.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+## Appendix — Non-exhaustive list of large-fruited and summer pear varieties
+
+Small-fruited and other varieties which do not appear in the table may be marketed as long as they meet the size requirements for other varieties as described in Section III of the standard.
+
+Some of the varieties listed in the following table may be marketed under names for which trade mark protection has been sought or obtained in one or more countries. The first and second columns of the table do not intend to include such trade marks. References to known trade marks have been included in the third column for information only.
+
+Legend:
+
+L = Large-fruited variety
+
+SP = Summer pear, for which no minimum size is required.
+
+| Variety | Synonyms | Trade marks | Size |
+| --- | --- | --- | --- |
+| Abbé Fétel | Abate Fetel |  | L |
+| Abugo o Siete en Boca |  |  | SP |
+| Aκςa |  |  | SP |
+| Alka |  |  | L |
+| Alsa |  |  | L |
+| Amfora |  |  | L |
+| Alexandrine Douillard |  |  | L |
+| Bambinella |  |  | SP |
+| Bergamotten |  |  | SP |
+| Beurré Alexandre Lucas | Lucas |  | L |
+| Beurré Bosc | Bosc, Beurré d’Apremont, Empereur Alexandre, Kaiser Alexander |  | L |
+| Beurré Clairgeau |  |  | L |
+| Beurré d’Arenberg | Hardenpont |  | L |
+| Beurré Giffard |  |  | SP |
+| Beurré précoce Morettini | Morettini |  | SP |
+| Blanca de Aranjuez | Agua de Aranjuez, Espadona, Blanquilla |  | SP |
+| Carusella |  |  | SP |
+| Castell | Castell de Verano |  | SP |
+| Colorée de Juillet | Bunte Juli |  | SP |
+| Comice rouge |  |  | L |
+| Concorde |  |  | L |
+| Condoula |  |  | SP |
+| Coscia | Ercolini |  | SP |
+| Curé | Curato, Pastoren, Del cura de Ouro, Espadon de invierno, Bella de Berry, Lombardia de Rioja, Batall de Campana |  | L |
+| D’Anjou |  |  | L |
+| Dita |  |  | L |
+| D. Joaquina | Doyenné de Juillet |  | SP |
+| Doyenné d’hiver | Winterdechant |  | L |
+| Doyenné du Comice | Comice, Vereinsdechant |  | L |
+| Erika |  |  | L |
+| Etrusca |  |  | SP |
+| Flamingo |  |  | L |
+| Forelle |  |  | L |
+| Général Leclerc |  | Amber Grace™ | L |
+| Gentile |  |  | SP |
+| Golden Russet Bosc |  |  | L |
+| Grand champion |  |  | L |
+| Harrow Delight |  |  | L |
+| Jeanne d’Arc |  |  | L |
+| Joséphine |  |  | L |
+| Kieffer |  |  | L |
+| Klapa Mīlule |  |  | L |
+| Leonardeta | Mosqueruela, Margallon, Colorada de Alcanadre, Leonarda de Magallon |  | SP |
+| Lombacad |  | Cascade ® | L |
+| Moscatella |  |  | SP |
+| Mramornaja |  |  | L |
+| Mustafabey |  |  | SP |
+| Packham’s Triumph | Williams d’Automne |  | L |
+| Passe Crassane | Passa Crassana |  | L |
+| Perita de San Juan |  |  | SP |
+| Pérola |  |  | SP |
+| Pitmaston | Williams Duchesse |  | L |
+| Précoce de Trévoux | Trévoux |  | SP |
+| Président Drouard |  |  | L |
+| Rosemarie |  |  | L |
+| Santa Maria | Santa Maria Morettini |  | SP |
+| Spadoncina | Agua de Verano, Agua de Agosto |  | SP |
+| Suvenirs |  |  | L |
+| Taylors Gold |  |  | L |
+| Triomphe de Vienne |  |  | L |
+| Vasarine Sviestine |  |  | L |
+| Williams Bon Chrétien | Bon Chrétien, Bartlett, Williams, Summer Bartlett |  | L |
+
+**PART 7**
+
+**Marketing standard for strawberries**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to strawberries of varieties (cultivars) grown from the genus Fragaria L. to be supplied fresh to the consumer, strawberries for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for strawberries, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the strawberries must be:
+
+— intact, undamaged,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— fresh in appearance, but not washed,
+
+— practically free from pests,
+
+— practically free from damage caused by pests,
+
+— with the calyx (except in the case of wood strawberries); the calyx and the stalk (if present) must be fresh,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The strawberries must be sufficiently developed and display satisfactory ripeness. The development and the condition must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Classification
+
+The strawberries are classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+The strawberries in this class must be of superior quality. They must be characteristic of the variety.
+
+They must be:
+
+— bright in appearance, allowing for the characteristics of the variety,
+
+— free from soil.
+
+They must be free from defects with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Strawberries in this class must be of good quality. They must be characteristic of the variety.
+
+The following slight defects, however, may be allowed provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— presence of a small white patch, not exceeding one tenth of the total surface area of the fruit,
+
+— slight superficial pressure marks.
+
+They must be practically free from soil.
+
+(iii) Class II
+
+This class includes strawberries that do not qualify for inclusion in the higher classes, but satisfy the minimum requirements specified in point A.
+
+The following defects may be allowed provided the strawberries retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— a white patch not exceeding one fifth of the total surface area of the fruit,
+
+— slight dry bruising not likely to spread,
+
+— slight traces of soil.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the maximum diameter of the equatorial section.
+
+The minimum size shall be:
+
+— 25 mm in ‘Extra’ Class,
+
+— 18 mm in Classes I and II.
+
+There is no minimum size for wood strawberries.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of strawberries not satisfying the requirements of the class but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of strawberries not satisfying the requirements of the class but meeting those of Class II is allowed. Within this tolerance not more than 2 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of strawberries satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of strawberries not satisfying the requirements as regards the minimum size is allowed.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only strawberries of the same origin, variety and quality.
+
+In the ‘Extra’ Class, strawberries, with the exception of wood strawberries, must be particularly uniform and regular with respect to degree of ripeness, colour and size. In Class I, strawberries may be less uniform in size.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The strawberries must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly of paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 40 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Strawberries’ if the contents of the package are not visible from the outside.
+
+— Name of the variety (optional).
+
+C. Origin of produce
+
+Country of origin ( 41 ) and, optionally, district where grown or national, regional or local place name.
+
+D. Commercial specifications
+
+— Class.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point IV, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 8**
+
+**Marketing standard for sweet peppers**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to sweet peppers of varieties ( 42 ) (cultivars) grown from Capsicum annuum L., to be supplied fresh to the consumer, sweet peppers for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for sweet peppers, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the sweet peppers must be:
+
+— intact,
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— fresh in appearance,
+
+— firm,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of damage caused by low temperature or frost,
+
+— with peduncles attached; the peduncle must be neatly cut and the calyx be intact,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+The development and condition of the sweet peppers must be such as to enable them to:
+
+— withstand transport and handling, and
+
+— arrive in satisfactory condition at the place of destination.
+
+B. Classification
+
+Sweet peppers are classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Sweet peppers in this class must be of superior quality. They must be characteristic of the variety and/or commercial type.
+
+They must be free from defects, with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Sweet peppers in this class must be of good quality. They must be characteristic of the variety and/or commercial type.
+
+The following slight defects, however, may be allowed, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape,
+
+— slight silvering or damage caused by thrips covering not more than 1/3 of the total surface area,
+
+— slight skin defects, such as:
+
+— pitting, scratching, sunburn, pressure marks covering in total not more than 2 cm for defects of elongated shape, and 1cm2 for other defects, or
+
+— dry superficial cracks covering in total not more than 1/8 of the total surface area,
+
+— slightly damaged peduncle.
+
+(iii) Class II
+
+This class includes sweet peppers which do not qualify for inclusion in the higher classes but satisfy the minimum requirements specified in point A.
+
+The following defects may be allowed provided the sweet peppers retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— silvering or damage caused by thrips covering not more than 2/3 of the total surface area,
+
+— skin defects, such as:
+
+— pitting, scratching, sunburn, bruising, and healed injuries covering in total not more than 4 cm in length for defects of elongated shape and 2,5 cm2 of the total area for other defects; or
+
+— dry superficial cracks covering in total not more than 1/4 of the total surface area
+
+— blossom end deterioration not more than 1 cm2,
+
+— shrivelling not exceeding 1/3 of the surface,
+
+— damaged peduncle and calyx, provided the surrounding flesh remains intact.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the maximum diameter of the equatorial section or by weight. To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) For sweet peppers sized by diameter:
+
+— 20 mm.
+
+(b) For sweet peppers sized by weight:
+
+— 30 g where the heaviest piece weighs 180 g or less,
+
+— 80 g where the lightest piece weighs more than 180 g but less than 260,
+
+— No limit where the lightest piece weighs 260 g or more.
+
+Elongated sweet peppers should be sufficiently uniform in length.
+
+Uniformity in size is not compulsory for Class II.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of sweet peppers not satisfying the requirements of the class but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of sweet peppers not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements or of produce affected by decay.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of sweet peppers satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+B. Size tolerances
+
+For all classes (if sized): a total tolerance of 10 %, by number or weight, of sweet peppers not satisfying the requirements as regards sizing is allowed.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only sweet peppers of the same origin, variety or commercial type, quality, size (if sized) and, in the case of ‘Extra’ Class and Class I, of appreciably the same degree of ripeness and colouring.
+
+However, a mixture of sweet peppers of distinctly different commercial types and/or colours may be packed together in a package, provided they are uniform in quality, and for each commercial type and/or colour concerned, in origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The sweet peppers must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly paper or stamps bearing trade specifications is allowed, provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed on the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects. Information lasered on single fruit should not lead to flesh or skin defect.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 43 ) must bear the following particulars, in letters grouped on the same side, legibly and indelibly marked, and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Sweet peppers’ if the contents are not visible from the outside.
+
+— ‘Mixture of sweet peppers’, or equivalent denomination, in the case of a mixture of distinctly different commercial types and/or colours of sweet peppers. If the produce is not visible from the outside, the commercial types and/or colours and the quantity of each in the package must be indicated.
+
+C. Origin of produce
+
+Country of origin ( 44 ) and, optionally, district where grown or national, regional or local place name.
+
+In the case of a mixture of distinctly different commercial types and/or colours of sweet peppers of different origins, the indication of each country of origin shall appear next to the name of the commercial type and/or colour concerned.
+
+D. Commercial specifications
+
+— Class.
+
+— Size (if sized) expressed as minimum and maximum diameters or minimum and maximum weights.
+
+— Number of units (optional).
+
+— ‘Hot’ or equivalent denomination, where appropriate.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 9**
+
+**Marketing standard for table grapes**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to table grapes of varieties (cultivars) grown from Vitis vinifera L. to be supplied fresh to the consumer, table grapes for industrial processing being excluded.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for table grapes, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, bunches and berries must be:
+
+— sound; produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— practically free from pests,
+
+— practically free from damage caused by pests,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+In addition, berries must be:
+
+— intact,
+
+— well formed,
+
+— normally developed.
+
+Pigmentation due to sun is not a defect.
+
+The development and condition of the table grapes must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+**B. Maturity requirements**
+
+The juice of the fruit shall have a refractometric index ( 45 ) of at least:
+
+— 12 ° Brix for the Alphonse Lavallée, Cardinal and Victoria varieties,
+
+— 13 ° Brix for all other seeded varieties,
+
+— 14 ° Brix for all seedless varieties.
+
+In addition, all varieties must have satisfactory sugar/acidity ratio levels.
+
+C. Classification
+
+The table grapes are classified into three classes defined as follows:
+
+(i) ‘Extra’ Class
+
+Table grapes in this class must be of superior quality. They must be characteristic of the variety, allowing for the district in which they are grown.
+
+Berries must be firm, firmly attached, evenly spaced along the stalk and have their bloom virtually intact.
+
+They must be free from defects, with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Table grapes in this class must be of good quality. They must be characteristic of the variety, allowing for the district in which they are grown.
+
+Berries must be firm, firmly attached and, as far as possible, have their bloom intact. They may, however, be less evenly spaced along the stalk than in the ‘Extra’ Class.
+
+The following slight defects, however, may be allowed, provided these do not affect the general appearance of the produce, the quality, the keeping quality, and presentation in the package:
+
+— a slight defect in shape,
+
+— slight defects in colouring,
+
+— very slight sun scorch affecting the skin only,
+
+— slight skin defects.
+
+(iii) Class II
+
+This class includes table grapes that do not qualify for inclusion in the higher classes, but satisfy the minimum requirements specified in point A.
+
+The bunches may show slight defects in shape, development and colouring, provided these do not impair the essential characteristics of the variety, allowing for the district in which they are grown.
+
+The berries must be sufficiently firm and sufficiently firmly attached, and, where possible, still have their bloom. They may be less evenly spaced along the stalk than in Class I.
+
+The following defects may be allowed provided the table grapes retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape,
+
+— defects in colouring,
+
+— slight sun scorch affecting the skin only,
+
+— slight bruising,
+
+— skin defects.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the weight of the bunch.
+
+The minimum bunch weight shall be 75 g for ‘Extra’ Class and Class I. This provision does not apply to packages intended for single servings in all classes.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by weight, of bunches not satisfying the requirements of the class, but meeting those for Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by weight, of bunches not satisfying the requirements of the class, but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce satisfying neither the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+In addition to those tolerances, a maximum of 10 %, by weight, of loose berries, i.e. berries detached from the bunch/cluster, are allowed provided that the berries are sound and intact.
+
+(iii) Class II
+
+A total tolerance of 10 %, by weight, of bunches satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+In addition to those tolerances, a maximum of 10 %, by weight, of loose berries, i.e. berries detached from the bunch/cluster, are allowed provided that the berries are sound and intact.
+
+B. Size tolerances
+
+For all classes (if sized): a total tolerance of 10 %, by weight, of bunches not satisfying the requirements as regards sizing is allowed. In each sales package (except for single servings), one bunch weighing less than 75 g is allowed to adjust the weight, provided the bunch meets all other requirements of the specified class.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only bunches of the same origin, variety, quality and degree of ripeness.
+
+In the case of the ‘Extra’ Class, the bunches must be approximately uniform in size and colouring.
+
+However, a mixture of table grapes of distinctly different varieties may be packed together in a package, provided they are uniform in quality and, for each variety concerned, in origin.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+The table grapes must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly paper or stamps, bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed on the produce shall be such that, when removed, they neither leave visible traces of glue, nor lead to skin defects.
+
+Packages must be free of all foreign matter, although a fragment of vine shoot no more than 5 cm in length may be left on the stem of the bunch as a form of special presentation.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 46 ) must bear the following particulars in letters grouped on the same side, legibly and indelibly marked, and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Table Grapes’ if the contents are not visible from the outside.
+
+— Name of the variety. In the case of a mixture of table grapes of distinctly different varieties, names of the different varieties.
+
+The name of the variety can be replaced by a synonym. A trade name can only be given in addition to the variety or the synonym.
+
+C. Origin of produce
+
+— Country of origin ( 47 ) and, optionally, district where grown, or national, regional or local place name.
+
+— In the case of a mixture of distinctly different varieties of table grapes of different origins, the indication of each country of origin shall appear next to the name of the variety concerned.
+
+D. Commercial specifications
+
+— Class.
+
+‘Bunches below 75 g intended for single servings’ or equivalent denomination, where appropriate.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point VI, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 10**
+
+**Marketing standard for tomatoes**
+
+**I. DEFINITION OF PRODUCE**
+
+This standard applies to tomatoes of varieties (cultivars) grown from Solanum lycopersicum L. to be supplied fresh to the consumer, tomatoes for industrial processing being excluded.
+
+Tomatoes may be classified into four commercial types:
+
+— ‘round’,
+
+— ‘ribbed’,
+
+— ‘oblong’ or ‘elongated’,
+
+— ‘cherry/cocktail’ tomatoes (miniature varieties) of all shapes.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+The purpose of the standard is to define the quality requirements for tomatoes, after preparation and packaging.
+
+However, at stages following dispatch products may show in relation to the requirements of the standard:
+
+— a slight lack of freshness and turgidity,
+
+— for products graded in classes other than the ‘Extra’ Class, a slight deterioration due to their development and their tendency to perish.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the tomatoes must be:
+
+— intact,
+
+— sound, produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— fresh in appearance,
+
+— practically free from pests,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of abnormal external moisture,
+
+— free of any foreign smell and/or taste.
+
+In the case of trusses of tomatoes, the stalks must be fresh, healthy, clean and free from all leaves and any visible foreign matter.
+
+The development and condition of the tomatoes must be such as to enable them:
+
+— to withstand transportation and handling, and
+
+— to arrive in satisfactory condition at the place of destination.
+
+B. Maturity requirements
+
+The development and state of maturity of the tomatoes must be such as to enable them to continue their ripening process and to reach a satisfactory degree of ripeness.
+
+C. Classification
+
+Tomatoes are classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Tomatoes in this class must be of superior quality. They must be firm and characteristic of the variety.
+
+They must be free from greenbacks and other defects, with the exception of very slight superficial defects, provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package.
+
+(ii) Class I
+
+Tomatoes in this class must be of good quality. They must be reasonably firm and characteristic of the variety.
+
+They must be free of cracks and visible greenbacks.
+
+The following slight defects, however, may be allowed provided these do not affect the general appearance of the produce, the quality, the keeping quality and presentation in the package:
+
+— a slight defect in shape and development,
+
+— slight defects in colouring,
+
+— slight skin defects,
+
+— very slight bruises.
+
+Furthermore, ‘ribbed’ tomatoes may show:
+
+— healed cracks not more than 1 cm long,
+
+— no excessive protuberances,
+
+— small umbilicus, but no suberisation,
+
+— suberisation of the stigma up to 1 cm2,
+
+— fine blossom scar in elongated form (like a seam), but not longer than two-thirds of the greatest diameter of the fruit.
+
+(iii) Class II
+
+This class includes tomatoes which do not qualify for inclusion in the higher classes, but satisfy the minimum requirements specified in point A.
+
+They must be reasonably firm (but may be slightly less firm than in Class I) and must not show unhealed cracks.
+
+The following defects may be allowed provided the tomatoes retain their essential characteristics as regards the quality, the keeping quality and presentation:
+
+— defects in shape and development,
+
+— defects in colouring,
+
+— skin defects or bruises, provided the fruit is not seriously affected,
+
+— healed cracks not more than 3 cm in length for round, ribbed or oblong tomatoes.
+
+Furthermore, ‘ribbed’ tomatoes may show:
+
+— more pronounced protuberances than allowed under Class I, but without being misshapen,
+
+— an umbilicus,
+
+— suberisation of the stigma up to 2 cm2,
+
+— fine blossom scar in elongated form (like a seam).
+
+**III. PROVISIONS CONCERNING SIZING**
+
+Size is determined by the maximum diameter of the equatorial section, by weight or by count.
+
+The following provisions shall not apply to trusses of tomatoes and are optional for:
+
+— cherry and cocktail tomatoes below 40 mm in diameter;
+
+— ribbed tomatoes of irregular shape; and
+
+— Class II.
+
+To ensure uniformity in size, the range in size between produce in the same package shall not exceed:
+
+(a) For tomatoes sized by diameter:
+
+— 10 mm, if the diameter of the smallest fruit (as indicated on the package) is under 50 mm,
+
+— 15 mm, if the diameter of the smallest fruit (as indicated on the package) is 50 mm and over but under 70 mm,
+
+— 20 mm, if the diameter of the smallest fruit (as indicated on the package) is 70 mm and over but under 100 mm,
+
+— there is no limitation of difference in diameter for fruit equal or over 100 mm.
+
+In case size codes are applied, the codes and ranges in the following table have to be respected:
+
+Size code Diameter (mm)
+
+0 ≤ 20
+
+1 > 20 ≤ 25
+
+2 > 25 ≤ 30
+
+3 > 30 ≤ 35
+
+4 > 35 ≤ 40
+
+5 > 40 ≤ 47
+
+6 > 47 ≤ 57
+
+7 > 57 ≤ 67
+
+8 > 67 ≤ 82
+
+9 > 82 ≤ 102
+
+10 > 102
+
+(b) For tomatoes sized by weight or by count, the difference in size should be consistent with the difference indicated in point (a).
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+At all marketing stages, tolerances in respect of quality and size shall be allowed in each lot for produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+A total tolerance of 5 %, by number or weight, of tomatoes not satisfying the requirements of the class but meeting those of Class I is allowed. Within this tolerance not more than 0,5 % in total may consist of produce satisfying the requirements of Class II quality.
+
+(ii) Class I
+
+A total tolerance of 10 %, by number or weight, of tomatoes not satisfying the requirements of the class but meeting those of Class II is allowed. Within this tolerance not more than 1 % in total may consist of produce neither satisfying the requirements of Class II quality nor the minimum requirements, or of produce affected by decay.
+
+In the case of trusses of tomatoes, 5 %, by number or weight, of tomatoes detached from the stalk is allowed.
+
+(iii) Class II
+
+A total tolerance of 10 %, by number or weight, of tomatoes satisfying neither the requirements of the class nor the minimum requirements is allowed. Within this tolerance not more than 2 % in total may consist of produce affected by decay.
+
+In the case of trusses of tomatoes, 10 %, by number or weight, of tomatoes detached from the stalk is allowed.
+
+B. Size tolerances
+
+For all classes: a total tolerance of 10 %, by number or weight, of tomatoes not satisfying the requirements as regards sizing is allowed.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and contain only tomatoes of the same origin, variety or commercial type, quality and size (if sized).
+
+The ripeness and colouring of tomatoes in ‘Extra’ Class and Class I must be practically uniform. In addition, the length of ‘oblong’ tomatoes must be sufficiently uniform.
+
+However, a mixture of tomatoes of distinctly different colours, varieties and/or commercial types may be packed together in a package, provided they are uniform in quality and, for each colour, variety and/or commercial type concerned, in origin. Uniformity in size is not required.
+
+The visible part of the contents of the package must be representative of the entire contents.
+
+B. Packaging
+
+Tomatoes must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be clean and of a quality such as to avoid causing any external or internal damage to the produce. The use of materials, particularly paper or stamps bearing trade specifications is allowed provided the printing or labelling has been done with non-toxic ink or glue.
+
+Stickers individually affixed to the produce shall be such that, when removed, they neither leave visible traces of glue nor lead to skin defects. Information lasered on single fruitshould not lead to flesh or skin defects.
+
+Packages must be free of all foreign matter.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package ( 48 ) must bear the following particulars in letters grouped on the same side, legibly and indelibly marked and visible from the outside:
+
+A. Identification
+
+Name and physical address of the packer and/or the dispatcher (for example street/city/region/postal code and, if different from the country of origin, the country).
+
+This mention may be replaced:
+
+— for all packages with the exception of pre-packages, by the officially issued or accepted code mark representing the packer and/or the dispatcher, indicated in close connection with the reference ‘Packer and/or Dispatcher’ (or equivalent abbreviations). The code mark shall be preceded by the ISO 3166 (alpha) country/area code of the recognising country, if not the country of origin;
+
+— for pre-packages only, by the name and the address of a seller established within the Union indicated in close connection with the mention ‘Packed for:’ or an equivalent mention. In this case, the labelling shall also include a code representing the packer and/or the dispatcher. The seller shall give all information deemed necessary by the inspection body as to the meaning of this code.
+
+B. Nature of produce
+
+— ‘Tomatoes’ or ‘trusses of tomatoes’ and the commercial type, or ‘cherry/cocktail tomatoes’ or ‘trusses of cherry/cocktail tomatoes’) or equivalent denomination for other miniature varieties if the contents are not visible from the outside.
+
+— ‘Mixture of tomatoes’, or equivalent denomination, in the case of a mixture of distinctly different varieties, commercial types and/or colours of tomatoes. If the produce is not visible from the outside, the colours, varieties or commercial types and the quantity of each in the package must be indicated.
+
+— Name of the variety (optional).
+
+C. Origin of produce
+
+Country of origin ( 49 ) and, optionally, district where grown, or national, regional or local place name.
+
+In the case of a mixture of distinctly different colours, varieties and/or commercial types of tomatoes of different origins, the indication of each country of origin shall appear next to the name of the colour, variety and/or commercial type concerned.
+
+D. Commercial specifications
+
+— Class.
+
+— Size (if sized) expressed as:
+
+— minimum and maximum diameters; or
+
+— minimum and maximum weights; or
+
+— size code as specified in Section III; or
+
+— count followed by the minimum and maximum sizes.
+
+E. Official control mark (optional)
+
+Packages need not to bear the particulars mentioned in the first subparagraph of point IV, when they contain sales packages, clearly visible from the outside, and all bearing these particulars. These packages shall be free from any indications such as could mislead. When these packages are palletised, the particulars shall be given on a notice placed in an obvious position on at least two sides of the pallet.
+
+**PART 11**
+
+**Marketing standard for bananas**
+
+**I. DEFINITION OF PRODUCT**
+
+This standard applies to bananas of the varieties (cultivars) of Musa spp., as well as hybrids thereof, intended to be supplied fresh to the consumer, after preparation and packaging, at the stages defined in Article 4(2). Bananas intended for cooking only (plantains) or for industrial processing are excluded. Varieties covered by this standard are included in the Appendix.
+
+**II. PROVISIONS CONCERNING QUALITY**
+
+This standard defines the quality requirements to be met by bananas as defined in section I.
+
+A. Minimum requirements
+
+In all classes, subject to the special provisions for each class and the tolerances allowed, the bananas must be:
+
+— green and unripened,
+
+— intact,
+
+— firm,
+
+— sound, produce affected by rotting or deterioration such as to make it unfit for consumption is excluded,
+
+— clean, practically free of any visible foreign matter,
+
+— fresh in appearance,
+
+— practically free from pests,
+
+— practically free from damage caused by pests,
+
+— with the stalk intact, without bending, fungal damage or dessication,
+
+— with pistils removed,
+
+— free from malformation or abnormal curvature of the fingers,
+
+— practically free from bruises,
+
+— practically free from damage due to low temperatures,
+
+— free from abnormal external moisture,
+
+— free from damage caused by pests affecting the flesh,
+
+— free of any foreign smell and/or taste.
+
+In addition, hands and clusters (parts of hands) must include:
+
+— a sufficient portion of crown of normal colouring, sound and free from fungal contamination,
+
+— a cleanly cut crown, not beveled or torn, with no stalk fragments.
+
+The physical development and ripeness of the bananas must be such as to enable them to:
+
+— to withstand transportation and handling, and
+
+— arrive in satisfactory condition at the place of destination in order to attain an appropriate degree of maturity after ripening.
+
+B. Classification
+
+Bananas are classified in three classes, defined as follows:
+
+(i) ‘Extra’ Class
+
+Bananas in this class must be of superior quality. They must have the characteristics typical of the variety and/or commercial type.
+
+The fingers must be free from defects, apart from slight superficial blemishes not covering a total of more than 1 cm2 of the surface of the finger, which must not impair the general appearance of the hand or cluster, its quality, its keeping quality or the presentation of the package.
+
+(ii) Class I
+
+Bananas in this class must be of good quality. They must display the characteristics typical of the variety and/or commercial type.
+
+However, the following slight defects of the fingers are allowed, provided they do not impair the general appearance of each hand or cluster, its quality, its keeping quality or the presentation of the package:
+
+— slight defects in shape,
+
+— slight skin defects due to rubbing and other slight superficial blemishes not covering a total of more than 2 cm2 of the surface of the finger,
+
+Under no circumstances may such slight defects affect the flesh of the fruit.
+
+(iii) Class II
+
+This class covers bananas which do not qualify for inclusion in the higher classes but satisfy the minimum requirements specified in point A.
+
+The following defects of the fingers are allowed, provided the bananas retain their essential characteristics as regards quality, keeping quality and presentation:
+
+— defects of shape,
+
+— skin defects due to scraping, rubbing or other causes, provided that the total area affected does not cover more than 4 cm2 of the surface of the finger.
+
+Under no circumstances may the defects affect the flesh of the fruit.
+
+**III. PROVISIONS CONCERNING SIZING**
+
+For the purposes of sizing bananas of the Gros Michel and Cavendish sub-groups:
+
+— the length of the fingers is determined along the outside curve from the blossom end to the base of the pedicel where the edible pulp ends and the diameter is defined as the thickness of a transverse section between the lateral faces;
+
+— the grade, that is the measurement, in millimetres, of the thickness of a transverse section of the fruit between the lateral faces and the middle, perpendicularly to the longitudinal axis.
+
+The reference fruit for measurement of the length and grade is:
+
+— the median finger on the outer row of the hand;
+
+— the finger next to the cut sectioning the hand, on the outer row of the cluster.
+
+The minimum length permitted is 14 cm and the minimum grade permitted is 27 mm.
+
+As an exception to the third paragraph, bananas of the Gros Michel and Cavendish sub-groups produced in Madeira, the Azores, the Algarve, Canary Islands, Crete, Lakonia and Cyprus which are less than 14 cm in length may be marketed in the Union.
+
+Provisions concerning sizing do not apply to fig bananas.
+
+**IV. PROVISIONS CONCERNING TOLERANCES**
+
+Tolerances in respect of quality and size shall be allowed within each package in respect of produce not satisfying the requirements of the class indicated.
+
+A. Quality tolerances
+
+(i) ‘Extra’ Class
+
+5 % by number or weight of bananas not satisfying the requirements for the ‘extra’ class but meeting those for Class I, or, exceptionally, coming within the tolerances for that class.
+
+(ii) Class I
+
+10 % by number or weight of bananas not satisfying the requirements of Class I but meeting those for Class II, or, exceptionally, coming within the tolerances for that class.
+
+(iii) Class II
+
+10 % by number or weight of bananas satisfying neither the requirements for Class II nor the minimum requirements, with the exception of produce affected by rotting or any other deterioration rendering it unfit for consumption.
+
+B. Size tolerances
+
+For all classes, 10 % by number of bananas of the Gros Michel and Cavendish sub-groups not satisfying the sizing characteristics, up to a limit of 1 cm for the minimum length of 14 cm except for bananas produced in Madeira, the Azores, the Algarve, Canary Islands, Crete, Lakonia and Cyprus.
+
+**V. PROVISIONS CONCERNING PRESENTATION**
+
+A. Uniformity
+
+The contents of each package must be uniform and consist exclusively of bananas of the same origin, variety and/or commercial type, and quality.
+
+The visible part of the contents of each package must be representative of the entire contents.
+
+B. Packaging
+
+The bananas must be packed in such a way as to protect the produce properly.
+
+The materials used inside the package must be new, clean and of a nature such as to avoid causing any external or internal deterioration of the produce. The use of materials such as, in particular, wrapping papers or adhesive labels bearing commercial indications is allowed provided that the printing and labelling is done with a non-toxic ink or glue.
+
+Packages must be free of all foreign matter.
+
+C. Presentation
+
+The bananas may be presented in hands or clusters (parts of hands) or as single fingers.
+
+Stalk is not torn but cleanly cut.
+
+In the producing regions, bananas may be marketed by the stem.
+
+**VI. PROVISIONS CONCERNING MARKING**
+
+Each package must bear the following particulars in writing, all on the same side, legibly and indelibly marked and visible from the outside:
+
+A. Identification
+
+Name and address or officially issued or recognised conventional mark of the packer and/or dispatcher.
+
+B. Nature of produce
+
+— The word ‘Bananas’ where the contents are not visible from the outside.
+
+— The name of the variety or commercial type.
+
+C. Origin of produce
+
+Country of origin and, in the case of Union produce:
+
+— production area, and
+
+— (optionally) national, regional or local name.
+
+D. Commercial specifications
+
+— Class.
+
+— Net weight.
+
+— Size, expressed as minimum length and, optionally, as maximum length.
+
+E. Official control mark (optional)
+
+## Appendix — List of the main groups, sub-groups and cultivars of dessert bananas marketed in the Union
+
+<table>
+<tbody><tr><td>Groups</td><td>Subgroups</td><td>Main cultivar (non-exhaustive list) </td></tr>
+<tr><td>AA</td><td>Sweet-fig</td><td>Sweet-fig, Pisang Mas, Amas Date, Bocadillo</td></tr>
+<tr><td>AB</td><td>Ney-Poovan</td><td>Ney Poovan, Safet Velchi</td></tr>
+<tr><td rowspan="14">AAA</td><td rowspan="8">Cavendish</td><td>Dwarf Cavendish</td></tr>
+<tr><td>Giant Cavendish</td></tr>
+<tr><td>Lacatan</td></tr>
+<tr><td>Poyo (Robusta)</td></tr>
+<tr><td>Williams</td></tr>
+<tr><td>Americani</td></tr>
+<tr><td>Valery</td></tr>
+<tr><td>Arvis</td></tr>
+<tr><td rowspan="2">Gros Michel</td><td>Gros Michel (‘Big Mike’)</td></tr>
+<tr><td>Highgate</td></tr>
+<tr><td>Hybrids</td><td>Flhorban 920</td></tr>
+<tr><td rowspan="2">Pink Fig</td><td>Figue Rose</td></tr>
+<tr><td>Figue Rose Verte</td></tr>
+<tr><td>Ibota</td><td>  </td></tr>
+<tr><td rowspan="4">AAB</td><td>Fig apple</td><td>Fig apple, Silk</td></tr>
+<tr><td rowspan="2">Pome (Prata)</td><td>Pacovan</td></tr>
+<tr><td>Prata Ana</td></tr>
+<tr><td>Mysore</td><td>Mysore, Pisang Ceylan, Gorolo</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — CORRELATION TABLE REFERRED TO IN ARTICLE 10
+
+| Regulation (EU) No 543/2011 | Regulation (EU) No 1333/2011 | This Regulation | Implementing Regulation (EU) 2023/2430 |
+| --- | --- | --- | --- |
+| Article 1 | — | Article 1 | Article 1 |
+| Article 2 | — | — | — |
+| Article 3(1) and (3) | — | Article 2 | — |
+| Article 3(2) |  | Article 4 |  |
+| Article 4 | — | Article 5 | — |
+| Article 5 | — | Article 6 | — |
+| Article 6 | — | Article 7 | — |
+| Article 7 | — | Article 8 | — |
+| Article 8 | — | — | — |
+| Article 9 | — | — | Article 2 |
+| Article 10 | — | — | Article 3 |
+| Article 11 | — |  | Article 5 |
+| Article 12 | — |  | Article 4 |
+| Article 13 | — | — | Article 6 |
+| Article 14 | — | — | Article 7 |
+| Article 15 | — | Article 9 | Article 8 |
+| Article 16 | — | — | Article 9 |
+| Article 17 | — | — | Article 10 |
+| Article 18 | — | — | Article 11 |
+| Articles 19 to 151 | — | — | — |
+| — | Article 1 | Article 4(1) | — |
+| — | Article 2 | Article 4(2) | — |
+| — | Article 3 | — | — |
+| — | Article 4 | — | — |
+| — | Article 5 | — | — |
+| — | Article 6 | — | Article 10 |
+| — | Article 7 | — | — |
+| — | Article 8 | — | Article 5 |
+| — | Article 9 | — | Article 4 |
+| — | Article 10 | — | — |
+| — | Article 11 | — | — |
+| — | Article 12 | — | — |
+| — | Article 13 | — | — |
+| Annex I | — | Annex I, Part A and B, Parts 1 to 10 |  |
+| Annex II | — | — | Annex I |
+| Annex III | — | — | Annex III |
+| Annex IV |  | — | Annex IV |
+| Annex V |  | — | Annex V |
+| Annex Va to Annex XX | — | — | — |
+| — | Annex I | Annex I, Part B, Part 11 | — |
+| — | Annex II | — | Annex III |
+| — | Annex III | — | Annex II |
+| — | Annex IV | Appendix to Annex I, Part B, Part 11 |  |
+| — | Annex V | — | — |
+| — | Annex VI | — | — |
+
+( 1 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 2 ) Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013 (OJ L 435, 6.12.2021, p. 1).
+
+( 3 ) Commission notice C(88) 1696 concerning ‘force majeure in European agricultural law’ (OJ C 259, 6.10.1988, p. 10).
+
+( 4 ) Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents (OJ L 171, 4.7.2017, p. 100).
+
+( 5 ) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64).
+
+( 6 ) Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (OJ L 343, 14.12.2012, p. 1).
+
+( 7 ) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+( 8 ) Commission Implementing Regulation (EU) 2023/2430 of 17 August 2023 laying down rules concerning checks on conformity to marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector (OJ L, 2023/2430, 3.11.2023, ELI link: http://data.europa.eu/eli/reg_impl/2023/2430/oj).
+
+( 9 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 10 ) The full or commonly used name shall be indicated.
+
+( 11 ) A non-exhaustive list of varieties providing a classification on colouring and russeting is set out in the appendix to this standard.
+
+( 12 ) Varieties marked with ‘R’ in the appendix to this standard are exempt from the provisions on russeting.
+
+( 13 ) A non-exhaustive list of varieties providing a classification on colouring and russeting is set out in the appendix to this standard.
+
+( 14 ) Varieties marked with ‘R’ in the appendix to this standard are exempt from the provisions on russeting.
+
+( 15 ) Varieties marked with ‘R’ in the appendix to this standard are exempt from the provisions on russeting.
+
+( 16 ) Calculated as described in the OECD guidance on objective tests, available at: https://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 17 ) Calculated as described in the OECD guidance on objective tests, available at: https://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 18 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 19 ) A trade name can be a trade mark for which protection has been sought or obtained or any other commercial denomination.
+
+( 20 ) The full or commonly used name shall be indicated.
+
+( 21 ) Calculated as described in the OECD guidance on objective tests, available at: http://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 22 ) The use of preserving agents or any other chemical substance liable to leave a foreign smell on the skin of the fruit is permitted where it is compatible with the applicable Union provisions.
+
+( 23 ) The use of preserving agents or any other chemical substance liable to leave a foreign smell on the skin of the fruit is permitted where it is compatible with the applicable Union provisions.
+
+( 24 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 25 ) A trade name can be a trademark for which protection has been sought or obtained or any other commercial denomination.
+
+( 26 ) The full or commonly used name shall be indicated.
+
+( 27 ) Calculated as described in the OECD guidance on objective tests, available at: https://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 28 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 29 ) The full or the commonly used name shall be indicated.
+
+( 30 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 31 ) The full or the commonly used name shall be indicated.
+
+( 32 ) Calculated as described in the OECD guidance on objective tests, available at: https://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 33 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 34 ) The full or the commonly used name shall be indicated.
+
+( 35 ) A non-exhaustive list of large fruited and summer pear varieties is included in the appendix to this standard.
+
+( 36 ) A non-exhaustive list of large fruited and summer pear varieties is included in the appendix to this standard.
+
+( 37 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 38 ) A trade name can be a trade mark for which protection has been sought or obtained or any other commercial denomination.
+
+( 39 ) The full or the commonly used name shall be indicated.
+
+( 40 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 41 ) The full or the commonly used name shall be indicated.
+
+( 42 ) Some sweet pepper varieties may have hot taste. Examples of commercial varieties of sweet peppers having a slightly hot taste are Sivri, Padron, and Somborka.
+
+( 43 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 44 ) The full or the commonly used name shall be indicated.
+
+( 45 ) Calculated as described in the OECD guidance on objective tests, available at: http://www.oecd.org/agriculture/fruit-vegetables/publications/guidelines-on-objective-tests.pdf
+
+( 46 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 47 ) The full or the commonly used name shall be indicated.
+
+( 48 ) These marking provisions do not apply to sales packages presented in packages. However, they do apply to sales packages presented separately.
+
+( 49 ) The full or the commonly used name shall be indicated.

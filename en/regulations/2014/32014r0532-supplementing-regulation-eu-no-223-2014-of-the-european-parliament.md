@@ -1,0 +1,440 @@
+---
+title: "Commission Delegated Regulation (EU) No 532/2014 of 13 March 2014 supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived"
+identifier: "32014R0532"
+eli: "http://data.europa.eu/eli/reg_del/2014/532/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-03-13
+entry_into_force: 2014-12-22
+last_amended: 2021-04-20
+consolidated_version: "02014R0532-20210420"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0532-20210420"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 532/2014 of 13 March 2014 supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived
+
+**COMMISSION DELEGATED REGULATION (EU) No 532/2014**
+
+**of 13 March 2014**
+
+**supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/629 of 4 November 2020 </td><td> L 132</td><td>4</td><td>19.4.2021</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 532/2014**
+
+**of 13 March 2014**
+
+**supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down the following provisions supplementing Regulation (EU) No 223/2014:
+
+(a) rules specifying the information in relation to the data to be recorded and stored in computerised form within the monitoring system established by the managing authority;
+
+(b) detailed minimum requirements for the audit trail in respect of the accounting records to be maintained and the supporting documents to be held at the level of the certifying authority, managing authority, intermediate bodies and beneficiaries;
+
+(c) the scope and content of audits of operations and audits of the accounts and the methodology for the selection of the sample of operations;
+
+(d) detailed rules on the use of data collected during audits carried out by Commission officials or authorised Commission representatives;
+
+(e) detailed rules concerning the criteria for determining serious deficiencies in the effective functioning of management and control systems, including the main types of such deficiencies, the criteria for establishing the level of financial correction to be applied and the criteria for applying flat rates or extrapolated financial corrections.
+
+## CHAPTER II — SPECIFIC PROVISIONS FOR MANAGEMENT AND CONTROL SYSTEMS
+
+### Article 2
+
+Data to be recorded and stored in computerised form
+
+(Article 32(8) of Regulation (EU) No 223/2014)
+
+1\. The information on data to be recorded and stored in computerised form for each operation in the monitoring system set up in accordance with Article 32(2)(d) of Regulation (EU) No 223/2014 is set out in Annex I to this Regulation.
+
+2\. Data shall be recorded and stored for each operation, including, in case of operations supported by OP II, data on individual participants, broken down by gender where available, in order to allow it to be aggregated where this is necessary for the purposes of monitoring, evaluation, financial management, verification and audit. It shall also allow the aggregation of such data cumulatively for the entire programming period.
+
+### Article 3
+
+Detailed minimum requirements for the audit trail
+
+(Article 32(9) of Regulation (EU) No 223/2014)
+
+1\. The detailed minimum requirements for the audit trail in respect of the accounting records to be maintained and the supporting documents to be held shall be the following:
+
+(a) the audit trail shall allow the application of the selection criteria established in the food and/or basic material assistance operational programme (OP I), or by the monitoring committee for OP II to be verified;
+
+(b) in relation to grants under Article 25(1)(a) of Regulation (EU) No 223/2014, the audit trail shall allow the aggregate amounts certified to the Commission to be reconciled with the detailed accounting records and supporting documents held by the certifying authority, managing authority, intermediate bodies and beneficiaries as regards operations co-financed under the operational programme;
+
+(c) in relation to grants under Articles 25(1)(b) and (c), the audit trail shall allow the aggregate amounts certified to the Commission to be reconciled with the detailed data relating to outputs or results and supporting documents held by the certifying authority, managing authority, intermediate bodies and beneficiaries, including where applicable documents on the method of setting the standard scales for unit costs and the lump sums, as regards operations co-financed under the operational programme;
+
+(d) in relation to costs determined in accordance with Articles 25(1)(d) of Regulation (EU) No 223/2014, the audit trail shall demonstrate and justify the calculation method, where applicable, and the basis on which the flat rates have been decided, and the eligible direct costs or costs declared under other chosen categories to which the flat rate applies;
+
+(e) in relation to costs determined in accordance with Article 26(2)(b), (c), (e) and 26(3) second part, of Regulation (EU) No 223/2014, the audit trail shall allow the eligible direct costs or cost declared under other categories of costs to which the flat rate applies to be substantiated;
+
+(f) the audit trail shall allow the payment of the public contribution to the beneficiary to be verified;
+
+(g) for each operation, as appropriate, the audit trail shall include the technical specifications and financing plan, documents concerning the grant approval, documents relating to public procurement procedures, reports by the beneficiary and reports on verifications and audits carried out;
+
+(h) the audit trail shall include information on management verifications and audits carried out on the operation;
+
+(i) the audit trail shall allow data in relation to output indicators for the operation to be reconciled with reported data and result and, where appropriate, targets for the programme.
+
+For costs referred to in points (c) and (d), the audit trail shall allow the calculation method used by the managing authority to be verified for compliance with Article 25(3) of Regulation (EU) No 223/2014.
+
+2\. The managing authority shall ensure that a record is available of the identity and location of bodies holding all the supporting documents required to ensure an adequate audit trail meeting all the minimum requirements laid down in paragraph 1.
+
+### Article 3a
+
+Detailed minimum requirements for the audit trail for support provided indirectly to the most deprived, such as through vouchers, cards or other instruments
+
+(Article 32(9) of Regulation (EU) No 223/2014)
+
+1\. In addition to the detailed minimum requirements for the audit trail set out in Article 3, the audit trail for operations providing food or basic material assistance, or both, to the most deprived, through vouchers, cards or other instruments in accordance with Article 23(4a) of Regulation (EU) No 223/2014 shall:
+
+(a) allow to reconcile the total number of vouchers, cards or other instruments issued with the total number of vouchers, cards or other instruments delivered to end-recipients and used based on accounting records and supporting documents held by the certifying authority, managing authority, intermediate bodies and beneficiaries;
+
+(b) allow, with regard to the eligible costs set out in Article 26(2), point (a), to reconcile the aggregate amounts certified to the Commission with the value of vouchers, cards or other instruments used by end-recipients;
+
+(c) include documents concerning the granting of vouchers, cards or other instruments to end-recipients, their distribution to end-recipients and their use.
+
+For the use of cards, vouchers, or other instruments, the audit trail shall demonstrate that the vouchers, cards or other instruments are used only for the purchase of food or basic material assistance, or both.
+
+2\. Where food and/or basic material assistance is provided to the most deprived through vouchers, cards or other instruments in a paper format, the audit trail shall also include the following:
+
+(a) security measures avoiding falsification taken by the managing authority, intermediate bodies and beneficiaries;
+
+(b) measures to safeguard the stock of vouchers;
+
+(c) identification of the bodies identifying end-recipients and the bodies distributing the vouchers, cards or other instruments to end-recipients;
+
+(d) documentation that the vouchers, cards or other instruments have been received by end-recipients.
+
+### Article 4
+
+Use of the data collected during audits carried out by Commission officials or authorised Commission representatives
+
+(Article 34(8) of Regulation (EU) No 223/2014)
+
+1\. The Commission shall take all necessary measures to prevent any unauthorised disclosure of, or access to, the data collected by the Commission in the course of its audits.
+
+2\. The Commission shall use the data collected in the course of its audits for the sole purpose of fulfilling its responsibilities under Article 36 of Regulation (EU) No 223/2014. The European Court of Auditors and the European Anti-Fraud Office shall have access to the data collected.
+
+3\. The data collected shall not be sent to persons other than those in the Member States or within the Union institutions whose duties require that they have access to it in accordance with the applicable rules without the express agreement of the Member State supplying the data.
+
+### Article 5
+
+Audits of operations
+
+(Article 34(7) of Regulation (EU) No 223/2014)
+
+1\. Audits of operations shall be carried out in respect of each accounting year on a sample of operations selected by a method established or approved by the audit authority in accordance with Article 6 of this Regulation.
+
+2\. Audits of operations shall be carried out on the basis of supporting documents constituting the audit trail and shall verify the legality and regularity of expenditure declared to the Commission, including the following aspects:
+
+(a) that the operation was selected in accordance with the selection criteria for the operational programme, was not physically completed or fully implemented before the beneficiary submitted the application for funding under the operational programme, has been implemented in accordance with the approval decision and fulfilled any conditions applicable at the time of the audit concerning its functionality, use, and objectives to be attained;
+
+(b) that the expenditure declared to the Commission corresponds to the accounting records and that the required supporting documentation demonstrates an adequate audit trail as set out in Article 3 of this Regulation;
+
+(c) that for expenditure declared to the Commission determined in accordance with Article 25(1)(b) and (c), outputs and results underpinning payments to the beneficiary have been delivered, participant data, where applicable, or other records related to outputs and results are consistent with the information submitted to the Commission and that the required supporting documentation demonstrates an adequate audit trail as set out in Article 3 of this Regulation.
+
+Audits shall also verify that the public contribution has been paid to the beneficiary in accordance with Article 42(2) of Regulation (EU) No 223/2014.
+
+3\. Audits of operations shall, where applicable, include on-the-spot verification of the physical implementation of the operation.
+
+4\. Audits of operations shall verify the accuracy and completeness of the corresponding expenditure recorded by the certifying authority in its accounting system and the reconciliation of the audit trail at all levels.
+
+5\. Where problems detected appear to be systemic in nature and therefore entail a risk for other operations under the operational programme, the audit authority shall ensure further examination, including, where necessary, additional audits to establish the scale of such problems, and shall recommend the necessary corrective actions.
+
+6\. Only expenditure falling within the scope of an audit carried out pursuant to paragraph 1 shall be counted towards the amount of expenditure audited, for the purposes of reporting to the Commission on annual coverage. For those purposes, the model for the control report set out on the basis of Article 34(6) of Regulation (EU) No 223/2014 shall be used.
+
+### Article 6
+
+Methodology for the selection of the sample of operations
+
+(Article 34(7) of Regulation (EU) No 223/2014)
+
+1\. The audit authority shall establish the method for the selection of the sample (the sampling method) in accordance with the requirements set out in this Article taking into account the internationally accepted auditing standards, INTOSAI, IFAC or IIA.
+
+2\. In addition to the explanations provided in the audit strategy, the audit authority shall keep a record of the documentation and professional judgement used to establish the sampling methods, covering the planning, selection, testing and evaluation stages, in order to demonstrate that the established method is suitable.
+
+3\. A sample shall be representative of the population from which it is selected and enable the audit authority to draw up a valid audit opinion in accordance with Article 34(5)(a) of Regulation (EU) No 223/2014. That population shall comprise the expenditure of an operational programme which is included in the payment applications submitted to the Commission in accordance with Article 41 of Regulation (EU) No 223/2014 for a given accounting year. The sample may be selected during or after the accounting year.
+
+4\. For the purpose of application of Article 34(1) of Regulation (EU) No 223/2014, a sampling method is statistical when it ensures:
+
+(i) a random selection of the sample items;
+
+(ii) the use of probability theory to evaluate sample results, including measurement and control of the sampling risk and of the planned and achieved precision.
+
+5\. The sampling method shall ensure a random selection of each sampling unit in the population by using random numbers generated for each population unit in order to select the units constituting the sample or through systematic selection by using a random starting point and applying a systematic rule to select the additional items.
+
+6\. The sampling unit shall be determined by the audit authority, based on professional judgement. The sampling unit may be an operation, a project within an operation or a payment claim by a beneficiary. Information on the type of sampling unit determined and on the professional judgement used for that purpose shall be included in the control report.
+
+7\. Where the total expenditure relating to a sampling unit for the accounting year is a negative amount it shall be excluded from the population referred to in paragraph 3 above and shall be audited separately. The audit authority may also draw a sample of this separate population.
+
+8\. Where conditions for the proportional control provided for in Article 58(1) of Regulation (EU) No 223/2014 apply, the audit authority may exclude the items referred to in that Article from the population to be sampled. If the operation concerned has already been selected in the sample, the audit authority shall replace it using an appropriate random selection.
+
+9\. All expenditure declared to the Commission in the sample shall be subject to audit.
+
+Where the selected sampling units include a large number of underlying payment claims or invoices, the audit authority may audit them through sub-sampling, selecting the underlying payment claims or invoices by using the same sampling parameters used to select the sampling units of the main sample.
+
+In that case, appropriate sample sizes shall be calculated within each sample unit to be audited and, in any event, shall not be less than 30 underlying payment claims or invoices for each sampling unit.
+
+10\. The audit authority may stratify a population by dividing a population into sub-populations, each of which is a group of sampling units which have similar characteristics, in particular in terms of risk or expected error rate or where the population includes operations consisting of financial contributions from an operational programme to high-value items.
+
+11\. The audit authority shall evaluate the reliability of the system as high, average or low, taking into account the results of systems audits to determine the technical parameters of sampling so that the combined level of assurance obtained from the systems audits and audits of operations is high. For a system assessed as having high reliability the confidence level used for sampling operations shall not be less than 60 %. For a system assessed as having low reliability the confidence level used for sampling operations shall not be less than 90 %. The maximum materiality level shall be 2 % of the expenditure referred to in paragraph 3.
+
+12\. Where irregularities or a risk of irregularities have been detected, the audit authority shall decide on the basis of professional judgement whether it is necessary to audit a complementary sample of additional operations or parts of operations that were not audited in the random sample in order to take account of specific risk factors identified.
+
+13\. The audit authority shall analyse the results of the audits of the complementary sample separately, draw conclusions based on those results and communicate them to the Commission in the annual control report. Irregularities detected in the complementary sample shall not be included in the calculation of the projected random error of the random sample.
+
+14\. On the basis of the results of the audits of operations for the purpose of the audit opinion and control report referred to in Article 34(5)(a) and (b) of Regulation (EU) No 223/2014, the audit authority shall calculate a total error rate, which shall be the sum of the projected random errors and, if applicable, systemic errors and uncorrected anomalous errors, divided by the population.
+
+### Article 7
+
+Audits of accounts
+
+(Article 34(7) of Regulation (EU) No 223/2014)
+
+1\. The audits of accounts referred to in Article 49(1) of Regulation (EU) No 223/2014 shall be carried out by the audit authority in respect of each accounting year.
+
+2\. The audit of the accounts shall provide reasonable assurance on the completeness, accuracy and veracity of the amounts declared in the accounts.
+
+3\. For the purposes of paragraphs 1 and 2, the audit authority shall take into account, in particular, the results of the system audits carried out on the certifying authority and of the audits on operations.
+
+4\. The system audit shall include verification of the reliability of the accounting system of the certifying authority and, on a sample basis, of the accuracy of expenditure of amounts withdrawn and amounts recovered recorded in the certifying authority's accounting system.
+
+5\. For the purpose of the audit opinion, in order to conclude that the accounts give a true and fair view, the audit authority shall verify that all elements required by Article 49 of Regulation (EU) No 223/2014 are correctly included in the accounts and correspond to the supporting accounting records maintained by all relevant authorities or bodies and beneficiaries during the audit work performed by the audit authority. The audit authority shall in particular, on the basis of the accounts to be provided to it by the certifying authority, verify that:
+
+(a) the total amount of eligible public expenditure declared in accordance with Article 49(1)(a) of Regulation (EU) No 223/2014 agrees with the expenditure and the corresponding public contribution included in payment applications submitted to the Commission for the relevant accounting year and, if there are differences, that adequate explanations have been provided in the accounts for the reconciling amounts;
+
+(b) the amounts withdrawn and recovered during the accounting year, the amounts to be recovered as at the end of the accounting year and the irrecoverable amounts presented in the accounts correspond to the amounts entered in the accounting systems of the certifying authority and are based on decisions by the responsible managing authority or certifying authority;
+
+(c) expenditure has been excluded from the accounts in accordance with Article 49(2) of Regulation (EU) No 223/2014, where applicable, and that all the required corrections are reflected in the accounts for the accounting year concerned.
+
+Verifications referred to in points (b) and (c) may be carried out on a sample basis.
+
+## CHAPTER III — SPECIFIC PROVISIONS FOR FINANCIAL MANAGEMENT AND FINANCIAL CORRECTIONS
+
+### Article 8
+
+Criteria for determining serious deficiencies in the effective functioning of management and control systems
+
+(Article 55(4) of Regulation (EU) No 223/2014)
+
+1\. The Commission shall base its assessment of the effective functioning of management and control systems on the results of all available systems audits, including tests of controls, and of audits of operations.
+
+The assessment shall cover the internal control environment of the programme, the management and control activities of the managing and certifying authorities, monitoring by the managing and certifying authority, and the control activities of the audit authority and shall be based on verification of compliance with the key requirements set out in Table 1 of Annex II.
+
+The fulfilment of these key requirements shall be assessed on the basis of the categories set out in Table 2 of Annex II.
+
+2\. The main types of serious deficiency in the effective functioning of the management and control system shall be cases where any of the key requirements referred to in points 2, 4, 5, 13, 15, 16 and 18 of Table 1 of Annex II, or two or more of the other key requirements in Table 1 of Annex II are assessed as falling into categories 3 or 4 set out in Table 2 of Annex II.
+
+### Article 9
+
+Criteria for applying flat rates or extrapolated financial corrections and criteria for determining the level of financial correction
+
+(Article 55(4) of Regulation (EU) No 223/2014)
+
+1\. Financial corrections shall be applied for all or part of an operational programme, where the Commission identifies one or more serious deficiencies in the functioning of the management and control system.
+
+Notwithstanding the first subparagraph, extrapolated financial corrections shall be applied, for all or part of an operational programme, where the Commission identifies systemic irregularities in a representative sample of operations, allowing for a more accurate quantification of the risk for the Union budget. In this case, the results of the examination of the representative sample shall be extrapolated to the rest of the population from which the sample was drawn for the purpose of determining the financial correction.
+
+2\. The level of flat-rate correction shall be fixed taking into account the following elements:
+
+(a) the relative importance of the serious deficiency or serious deficiencies in the context of the management and control system as a whole;
+
+(b) the frequency and extent of the serious deficiency or serious deficiencies;
+
+(c) the degree of risk of loss for the Union budget.
+
+3\. Taking into account these elements, the level of financial correction shall be fixed as follows:
+
+(a) where the serious deficiency or serious deficiencies in the management and control system is so fundamental, frequent or widespread that it represents a complete failure of the system that puts at risk the legality and regularity of all expenditure concerned, a flat rate of 100 % shall be applied;
+
+(b) where the serious deficiency or serious deficiencies in the management and control system is so frequent and widespread that it represents an extremely serious failure of the system that puts at risk the legality and regularity of a very high proportion of the expenditure concerned, a flat rate of 25 % shall be applied;
+
+(c) where the serious deficiency or serious deficiencies in the management and control system is due to the system not fully functioning or functioning so poorly or so infrequently that it puts at risk the legality and regularity of a high proportion of the expenditure concerned, a flat rate of 10 % shall be applied;
+
+(d) where the serious deficiency or serious deficiencies in the management and control system is due to the system not functioning consistently so that it puts at risk the legality and regularity of a significant proportion of the expenditure concerned, a flat rate of 5 % shall be applied.
+
+4\. Where the application of a flat rate fixed in accordance with paragraph 3 would be disproportionate, the level of correction shall be reduced.
+
+5\. Where, due to a failure of the responsible authorities to take adequate corrective measures following the application of a financial correction in an accounting year, the same serious deficiency or serious deficiencies is identified in a subsequent accounting year, the rate of correction may, due to the persistence of the serious deficiency or serious deficiencies, be increased to a level not exceeding that of the next higher category.
+
+### Article 10
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+Article 3 shall apply from 1 December 2014, as regards information on data recorded and stored referred to in Annex I.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of data to be recorded and stored in computerised form in the monitoring system (referred to in Article 2)
+
+Data is required for operations supported by OP I and OP II ( 1 ) and for all types of delivery unless otherwise specified in the second column.
+
+<table>
+<tbody><tr><td>Data fields</td><td>Indication of type of OP or type of delivery for which data is not required</td></tr>
+<tr><td colspan="2">Data on the beneficiary(1)</td></tr>
+<tr><td>1. Name or unique identifier of each beneficiary</td><td>  </td></tr>
+<tr><td>2. Information whether the beneficiary is public law body or private law body</td><td>  </td></tr>
+<tr><td>3. Information whether VAT on expenditure incurred by the beneficiary is non-recoverable under national VAT legislation</td><td>  </td></tr>
+<tr><td>4. Contact details of the beneficiary</td><td>  </td></tr>
+<tr><td colspan="2">Data on the operation</td></tr>
+<tr><td>5. Name or unique identifier of the operation</td><td>  </td></tr>
+<tr><td>6. Short description of the operation</td><td>  </td></tr>
+<tr><td>7. Date of submission of the application for the operation</td><td>  </td></tr>
+<tr><td>8. Starting date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>9. End date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>10. Actual date when the operation is physically completed or fully implemented</td><td>  </td></tr>
+<tr><td>11. Body issuing the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>12. Date of the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>13. Currency of the operation</td><td>  </td></tr>
+<tr><td>14. CCI of the programme(s) under which the operation is supported</td><td>  </td></tr>
+<tr><td>15. Type(s) of material assistance addressed</td><td>Not applicable for OP II</td></tr>
+<tr><td>16. Type(s) of actions supported</td><td>Not applicable for OP I</td></tr>
+<tr><td>17. Code(s) for form of finance</td><td>  </td></tr>
+<tr><td>18. Code(s) for location</td><td>  </td></tr>
+<tr><td>19. Quantity of food purchased by a public body or partner organisation, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>20. Quantity of food obtained by a public body, where applicable, in accordance with Article 23(4) of Regulation (EU) No 223/2014, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>21. Quantity of food delivered to partner organisations, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>22. Quantity of food delivered to end-recipients, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>23. Quantity of basic material assistance purchased by a public body or a partner organisation, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>24. Quantity of basic material assistance delivered to partner organisations, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>25. Quantity of basic material assistance delivered to end-recipients, where applicable</td><td>Not applicable for OP II Not applicable to indirect delivery of food, such as through vouchers, cards or other instruments </td></tr>
+<tr><td>26. Number of vouchers or cards (or other instruments of indirect delivery) issued</td><td>Not applicable for OP II Not applicable to direct delivery of food and/or basic material assistance </td></tr>
+<tr><td>27. Number of vouchers or cards (or other instruments of indirect delivery) delivered to end-recipients</td><td>Not applicable for OP II Not applicable to direct delivery of food and/or basic material assistance </td></tr>
+<tr><td>28. Number of vouchers or cards (or other instruments of indirect delivery) used by end-recipients</td><td>Not applicable for OP II Not applicable to direct delivery of food and/or basic material assistance </td></tr>
+<tr><td>29. Total amount of expenditure loaded in vouchers or cards (or other instruments of indirect delivery) delivered to end-recipients</td><td>Not applicable for OP II Not applicable to direct delivery of food and/or basic material assistance </td></tr>
+<tr><td>30. Total amount of expenditure in vouchers or cards (or other instruments of indirect delivery) used by end-recipients</td><td>Not applicable for OP II Not applicable to direct delivery of food and/or basic material assistance </td></tr>
+<tr><td colspan="2">Data on indicators</td></tr>
+<tr><td>31. Title of common indicators relevant for the operation</td><td>  </td></tr>
+<tr><td>32. Identifier for the common indicators relevant for the operation</td><td>  </td></tr>
+<tr><td>33. Achievement level of common indicators for each year of implementation or at the end of the operation</td><td>  </td></tr>
+<tr><td>34. Title of programme specific indicators relevant for the operation</td><td>Not applicable for OP I</td></tr>
+<tr><td>35. Identifier for the programme specific indicators relevant for the operation</td><td>Not applicable for OP I</td></tr>
+<tr><td>36. Specific targets for programme specific output indicators</td><td>Not applicable for OP I</td></tr>
+<tr><td>37. Achievement level of programme specific output indicators for each year of implementation or at the end of the operation,</td><td>Not applicable for OP I</td></tr>
+<tr><td>38. Measurement unit for each output target</td><td>Not applicable for OP I</td></tr>
+<tr><td>39. Baseline for result indicators</td><td>Not applicable for OP I</td></tr>
+<tr><td>40. Target level for result indicators</td><td>Not applicable for OP I</td></tr>
+<tr><td>41. Measurement unit for each result target and baseline</td><td>Not applicable for OP I</td></tr>
+<tr><td>42. Measurement unit for each indicator</td><td>  </td></tr>
+<tr><td colspan="2">Financial data on each operation (in the currency applicable to the operation)</td></tr>
+<tr><td>43. Amount of the total eligible cost of the operation approved in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>44. Amount of the total eligible costs constituting public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014</td><td>  </td></tr>
+<tr><td>45. Amount of public support, as set out in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td colspan="2">Data on payment claims from the beneficiary (in the currency applicable to the operation)</td></tr>
+<tr><td>46. Date of receipt of each payment claim from the beneficiary</td><td>  </td></tr>
+<tr><td>47. Date of each payment to the beneficiary on basis of payment claim</td><td>  </td></tr>
+<tr><td>48. Amount of eligible expenditure in payment claim forming the basis for each payment to the beneficiary</td><td>  </td></tr>
+<tr><td>49. Amount of public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the eligible expenditure forming the basis for each payment</td><td>  </td></tr>
+<tr><td>50. Amount of each payment to the beneficiary on basis of payment claim</td><td>  </td></tr>
+<tr><td>51. Start date of on the spot verifications on the operation carried out pursuant to Article 32(5)(b) of Regulation (EU) No 223/2014</td><td>  </td></tr>
+<tr><td>52. Date of on the spot audits of the operation pursuant to Article 34(1) of Regulation (EU) No 223/2014 and Article 6 of Delegated Regulation (EU) No 532/2014 (2)</td><td>  </td></tr>
+<tr><td>53. Body carrying out the audit or verification</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on real costs(in the currency applicable to the operation)</td></tr>
+<tr><td>54. Eligible public expenditure declared to the Commission established on the basis of costs actually incurred and paid</td><td>  </td></tr>
+<tr><td>55. Public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the eligible public expenditure declared to the Commission established on the basis of costs actually reimbursed and paid</td><td>  </td></tr>
+<tr><td>56. Contract type if the contract award is subject to the provisions of Directive 2004/18/EC of the European Parliament and of the Council (3) (provision of services/provision of goods) or Directive 2014/23/EU of the European Parliament and of the Council (4)</td><td>  </td></tr>
+<tr><td>57. Contract amount if the contract award is subject to the provisions of Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>58. Eligible expenditure incurred and paid based on a contract if the contract is subject to the provisions of Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>59. The procurement procedure used if the contract award is subject to the provisions of Directive 2004/18/EC or Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td>60. Name or unique identifier of the contractor if the contract award is subject to the provisions of Directive 2014/23/EU</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on standard scales of unit costs (amounts in the currency applicable to the operation)</td></tr>
+<tr><td>61. Amount of eligible public expenditure declared to the Commission established on the basis of standard scales of unit costs</td><td>  </td></tr>
+<tr><td>62. Public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the eligible public expenditure declared to the Commission established on the basis of standard scales of unit costs</td><td>  </td></tr>
+<tr><td>63. Definition of a unit to be used for the purposes of the standard scale of unit costs</td><td>  </td></tr>
+<tr><td>64. Number of units delivered as indicated in the payment claim for each unit item</td><td>  </td></tr>
+<tr><td>65. Unit cost for a single unit for each unit item</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on lump sum payments (amounts in the currency applicable to the operation)</td></tr>
+<tr><td>66. Amount of eligible public expenditure declared to the Commission established on the basis of lump sums</td><td>  </td></tr>
+<tr><td>67. Public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the eligible public expenditure declared to the Commission established on the basis of lump sums</td><td>  </td></tr>
+<tr><td>68. For each lump sum, deliverables (outputs or results) agreed in the document setting out the conditions for support as the basis for disbursement of lump sum payments</td><td>  </td></tr>
+<tr><td>69. For each lump sum, agreed amount in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary based on flat rates (in the currency applicable to the operation)</td></tr>
+<tr><td>70. Amount of eligible public expenditure declared to the Commission established on the basis of a flat rate</td><td>  </td></tr>
+<tr><td>71. Public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the eligible public expenditure declared to the Commission established on the basis of a flat rate</td><td>  </td></tr>
+<tr><td colspan="2">Data on recoveries from the beneficiary</td></tr>
+<tr><td>72. Date of each recovery decision</td><td>  </td></tr>
+<tr><td>73. Amount of public support affected by each recovery decision</td><td>  </td></tr>
+<tr><td>74. Total eligible expenditure affected by each recovery decision</td><td>  </td></tr>
+<tr><td>75. Date of receipt of each amount paid back by the beneficiary following a recovery decision</td><td>  </td></tr>
+<tr><td>76. Amount of public support paid back by the beneficiary following a recovery decision (without interest or penalties)</td><td>  </td></tr>
+<tr><td>77. Total eligible expenditure corresponding to the public support paid back by the beneficiary</td><td>  </td></tr>
+<tr><td>78. Amount of public support irrecoverable following a recovery decision</td><td>  </td></tr>
+<tr><td>79. Total eligible expenditure corresponding to irrecoverable public support</td><td>  </td></tr>
+<tr><td colspan="2">Data on payment applications to the Commission (in EUR)</td></tr>
+<tr><td>80. Date of submission of each payment application including eligible expenditure from the operation</td><td>  </td></tr>
+<tr><td>81. The total amount of eligible public expenditure incurred by the beneficiary and paid in implementing the operation included in each payment application</td><td>  </td></tr>
+<tr><td>82. The total amount of public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 of the operation included in each payment application</td><td>  </td></tr>
+<tr><td colspan="2">Data on accounts submitted to the Commission under Article 48 of Regulation (EU) No 223/2014 (in EUR)</td></tr>
+<tr><td>83. The date of submission of each set of accounts including expenditure under the operation</td><td>  </td></tr>
+<tr><td>84. Date of submission of the accounts in which the final expenditure of the operation is included following the completion of the operation (where the total eligible expenditure is EUR 1 000 000 or more (Article 51 of Regulation (EU) No 223/2014))</td><td>  </td></tr>
+<tr><td>85. Total amount of eligible public expenditure of the operation entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>86. Total amount of public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 incurred in implementing the operation corresponding to the total amount of eligible public expenditure entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>87. Total amount of payments made to the beneficiary under Article 42(2) of Regulation (EU) No 223/2014 corresponding to the total amount of public eligible expenditure entered into the accounting systems of the certifying authority which has been included in the accounts</td><td>  </td></tr>
+<tr><td>88. Total public eligible expenditure of the operation withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>89. Total public expenditure as defined in Article 2(12) of Regulation (EU) No 223/2014 corresponding to the public eligible expenditure withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>90. Total public eligible expenditure of the operation recovered during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>91. Total public expenditure corresponding to the total public eligible expenditure of the operation recovered during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>92. Total public eligible expenditure of the operation to be recovered as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>93. Total public expenditure of the operation corresponding to the total public eligible expenditure to be recovered as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>94. Total eligible amount of public expenditure of the operation irrecoverable as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>95. Total public expenditure of the operation corresponding to the total eligible amount of public expenditure irrecoverable as at the end of the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Beneficiary includes, where applicable, other bodies incurring expenditure under the operation which is treated as expenditure incurred by the beneficiary.  (2)  Commission Delegated Regulation (EU) No 532/2014 of 13 March 2014 supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived (OJ L. 148, 20.5.2014, p. 54).  (3)  Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, 30.4.2004, p. 114).  (4)  Directive of the European Parliament and of the Council 2014/23/EU of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Key requirements of management and control systems and their classification with regard to their effective functioning referred to in Article 9
+
+**Table 1**
+
+**Key requirements**
+
+<table>
+<tbody><tr><td colspan="2">Key requirements of management and control system</td><td>Bodies/authorities concerned</td><td>Scope</td></tr>
+<tr><td>1</td><td>Adequate separation of functions and adequate systems for reporting and monitoring in cases where the responsible authority entrusts execution of tasks to another body.</td><td>Managing authority</td><td>Internal control environment</td></tr>
+<tr><td>2</td><td>Appropriate selection of operations.</td><td>Managing authority</td><td rowspan="3">Management and control activities</td></tr>
+<tr><td>3</td><td>Adequate information to beneficiaries on applicable conditions for the selected operations.</td><td>Managing authority</td></tr>
+<tr><td>4</td><td>Adequate management verifications.</td><td>Managing authority</td></tr>
+<tr><td>5</td><td>Effective system in place to ensure that all documents regarding expenditure and audits are held to ensure an adequate audit trail.</td><td>Managing authority</td><td rowspan="2">Management and control activities/Monitoring</td></tr>
+<tr><td>6</td><td>Reliable system for collecting, recording and storing data for monitoring, evaluation, financial management, verification and audit purposes.</td><td>Managing authority</td></tr>
+<tr><td>7</td><td>Effective implementation of proportionate anti-fraud measures.</td><td>Managing authority</td><td rowspan="2">Management and control activities</td></tr>
+<tr><td>8</td><td>Appropriate procedures for drawing up the management declaration and annual summary of final audit reports and of controls carried out.</td><td>Managing authority</td></tr>
+<tr><td>9</td><td>Adequate separation of functions and adequate systems for reporting and monitoring in cases where the responsible authority entrusts execution of tasks to another body.</td><td>Certifying authority</td><td>Internal control environment</td></tr>
+<tr><td>10</td><td>Appropriate procedures for drawing up and submitting payment applications.</td><td>Certifying authority</td><td>Management and control activities/Monitoring</td></tr>
+<tr><td>11</td><td>Appropriate computerised records of expenditure declared and of the corresponding public contribution are maintained.</td><td>Certifying authority</td><td rowspan="3">Management and control activities</td></tr>
+<tr><td>12</td><td>Appropriate and complete account of amounts recoverable, recovered and withdrawn.</td><td>Certifying authority</td></tr>
+<tr><td>13</td><td>Appropriate procedures for drawing up and certifying the completeness, accuracy and veracity of the annual accounts.</td><td>Certifying authority</td></tr>
+<tr><td>14</td><td>Adequate separation of functions and adequate systems for ensuring that any other body that carries out audits in accordance with the programme audit strategy has the necessary functional independence and takes account of internationally accepted audit standards.</td><td>Audit authority</td><td>Internal control environment</td></tr>
+<tr><td>15</td><td>Adequate systems audits.</td><td>Audit authority</td><td rowspan="4">Control activities</td></tr>
+<tr><td>16</td><td>Adequate audits of operations.</td><td>Audit authority</td></tr>
+<tr><td>17</td><td>Adequate audits of accounts.</td><td>Audit authority</td></tr>
+<tr><td>18</td><td>Adequate procedures for providing a reliable audit opinion and for preparing the annual control report.</td><td>Audit authority</td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Classification of key requirements for management and control systems with regard to their functioning**
+
+Category 1 Works well. No, or only minor improvement(s) needed.
+
+Category 2 Works. Some improvement(s) needed.
+
+Category 3 Works partially. Substantial improvements needed.
+
+Category 4 Essentially does not work.
+
+( 1 ) OP I refers to food and/or material assistance operational programmes and OP II refers to social inclusion of the most deprived persons operational programmes.

@@ -1,0 +1,1283 @@
+---
+title: "Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety"
+identifier: "32002R0178"
+eli: "http://data.europa.eu/eli/reg/2002/178/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-01-28
+entry_into_force: 2002-07-15
+last_amended: 2026-01-01
+consolidated_version: "02002R0178-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002R0178-20260101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety
+
+**REGULATION (EC) No 178/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 January 2002**
+
+**laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1642/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 July 2003 </td><td> L 245</td><td>4</td><td>29.9.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 575/2006 of 7 April 2006 </td><td> L 100</td><td>3</td><td>8.4.2006</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EC) No 202/2008 of 4 March 2008 </td><td> L 60</td><td>17</td><td>5.3.2008</td></tr>
+<tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
+<tr><td></td><td> REGULATION (EU) No 652/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>1</td><td>27.6.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/228 of 9 February 2017 </td><td> L 35</td><td>10</td><td>10.2.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2017 </td><td> L 117</td><td>1</td><td>5.5.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/908 of 17 January 2024 </td><td> L 908</td><td>1</td><td>20.3.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2457 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 November 2025 </td><td> L 2457</td><td>1</td><td>12.12.2025</td></tr>
+</table>
+
+**REGULATION (EC) No 178/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 January 2002**
+
+**laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+#### Article 1 — Aim and scope
+
+1\. This Regulation provides the basis for the assurance of a high level of protection of human health and consumers' interest in relation to food, taking into account in particular the diversity in the supply of food including traditional products, whilst ensuring the effective functioning of the internal market. It establishes common principles and responsibilities, the means to provide a strong science base, efficient organisational arrangements and procedures to underpin decision-making in matters of food and feed safety.
+
+2\. For the purposes of paragraph 1, this Regulation lays down the general principles governing food and feed in general, and food and feed safety in particular, at Community and national level.
+
+It establishes the European Food Safety Authority.
+
+It lays down procedures for matters with a direct or indirect impact on food and feed safety.
+
+3\. This Regulation shall apply to all stages of production, processing and distribution of food and feed. It shall not apply to primary production for private domestic use or to the domestic preparation, handling or storage of food for private domestic consumption.
+
+#### Article 2 — Definition of ‘food’
+
+For the purposes of this Regulation, ‘food’ (or ‘foodstuff’) means any substance or product, whether processed, partially processed or unprocessed, intended to be, or reasonably expected to be ingested by humans.
+
+‘Food’ includes drink, chewing gum and any substance, including water, intentionally incorporated into the food during its manufacture, preparation or treatment. It includes water after the point of compliance as defined in Article 6 of Directive 98/83/EC and without prejudice to the requirements of Directives 80/778/EEC and 98/83/EC.
+
+‘Food’ shall not include:
+
+(a) feed;
+
+(b) live animals unless they are prepared for placing on the market for human consumption;
+
+(c) plants prior to harvesting;
+
+(d) medicinal products within the meaning of Council Directives 65/65/EEC ( 1 ) and 92/73/EEC ( 2 );
+
+(e) cosmetics within the meaning of Council Directive 76/768/EEC ( 3 );
+
+(f) tobacco and tobacco products within the meaning of Council Directive 89/622/EEC ( 4 );
+
+(g) narcotic or psychotropic substances within the meaning of the United Nations Single Convention on Narcotic Drugs, 1961, and the United Nations Convention on Psychotropic Substances, 1971;
+
+(h) residues and contaminants;
+
+(i) medical devices within the meaning of Regulation (EU) 2017/745 of the European Parliament and of the Council ( 5 ).
+
+#### Article 3 — Other definitions
+
+For the purposes of this Regulation:
+
+1\. ‘food law’ means the laws, regulations and administrative provisions governing food in general, and food safety in particular, whether at Community or national level; it covers any stage of production, processing and distribution of food, and also of feed produced for, or fed to, food-producing animals;
+
+2\. ‘food business’ means any undertaking, whether for profit or not and whether public or private, carrying out any of the activities related to any stage of production, processing and distribution of food;
+
+3\. ‘food business operator’ means the natural or legal persons responsible for ensuring that the requirements of food law are met within the food business under their control;
+
+4\. ‘feed’ (or ‘feedingstuff’) means any substance or product, including additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals;
+
+5\. ‘feed business’ means any undertaking whether for profit or not and whether public or private, carrying out any operation of production, manufacture, processing, storage, transport or distribution of feed including any producer producing, processing or storing feed for feeding to animals on his own holding;
+
+6\. ‘feed business operator’ means the natural or legal persons responsible for ensuring that the requirements of food law are met within the feed business under their control;
+
+7\. ‘retail’ means the handling and/or processing of food and its storage at the point of sale or delivery to the final consumer, and includes distribution terminals, catering operations, factory canteens, institutional catering, restaurants and other similar food service operations, shops, supermarket distribution centres and wholesale outlets;
+
+8\. ‘placing on the market’ means the holding of food or feed for the purpose of sale, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution, and other forms of transfer themselves;
+
+9\. ‘risk’ means a function of the probability of an adverse health effect and the severity of that effect, consequential to a hazard;
+
+10\. ‘risk analysis’ means a process consisting of three interconnected components: risk assessment, risk management and risk communication;
+
+11\. ‘risk assessment’ means a scientifically based process consisting of four steps: hazard identification, hazard characterisation, exposure assessment and risk characterisation;
+
+12\. ‘risk management’ means the process, distinct from risk assessment, of weighing policy alternatives in consultation with interested parties, considering risk assessment and other legitimate factors, and, if need be, selecting appropriate prevention and control options;
+
+13\. ‘risk communication’ means the interactive exchange of information and opinions throughout the risk analysis process as regards hazards and risks, risk-related factors and risk perceptions, among risk assessors, risk managers, consumers, feed and food businesses, the academic community and other interested parties, including the explanation of risk assessment findings and the basis of risk management decisions;
+
+14\. ‘hazard’ means a biological, chemical or physical agent in, or condition of, food or feed with the potential to cause an adverse health effect;
+
+15\. ‘traceability’ means the ability to trace and follow a food, feed, food-producing animal or substance intended to be, or expected to be incorporated into a food or feed, through all stages of production, processing and distribution;
+
+16\. ‘stages of production, processing and distribution’ means any stage, including import, from and including the primary production of a food, up to and including its storage, transport, sale or supply to the final consumer and, where relevant, the importation, production, manufacture, storage, transport, distribution, sale and supply of feed;
+
+17\. ‘primary production’ means the production, rearing or growing of primary products including harvesting, milking and farmed animal production prior to slaughter. It also includes hunting and fishing and the harvesting of wild products;
+
+18\. ‘final consumer’ means the ultimate consumer of a foodstuff who will not use the food as part of any food business operation or activity.
+
+## CHAPTER II — GENERAL FOOD LAW
+
+#### Article 4 — Scope
+
+1\. This Chapter relates to all stages of the production, processing and distribution of food, and also of feed produced for, or fed to, food-producing animals.
+
+2\. The principles laid down in Articles 5 to 10 shall form a general framework of a horizontal nature to be followed when measures are taken.
+
+3\. Existing food law principles and procedures shall be adapted as soon as possible and by 1 January 2007 at the latest in order to comply with Articles 5 to 10.
+
+4\. Until then, and by way of derogation from paragraph 2, existing legislation shall be implemented taking account of the principles laid down in Articles 5 to 10.
+
+### SECTION 1 — GENERAL PRINCIPLES OF FOOD LAW
+
+#### Article 5 — General objectives
+
+1\. Food law shall pursue one or more of the general objectives of a high level of protection of human life and health and the protection of consumers' interests, including fair practices in food trade, taking account of, where appropriate, the protection of animal health and welfare, plant health and the environment.
+
+2\. Food law shall aim to achieve the free movement in the Community of food and feed manufactured or marketed according to the general principles and requirements in this Chapter.
+
+3\. Where international standards exist or their completion is imminent, they shall be taken into consideration in the development or adaptation of food law, except where such standards or relevant parts would be an ineffective or inappropriate means for the fulfilment of the legitimate objectives of food law or where there is a scientific justification, or where they would result in a different level of protection from the one determined as appropriate in the Community.
+
+#### Article 6 — Risk analysis
+
+1\. In order to achieve the general objective of a high level of protection of human health and life, food law shall be based on risk analysis except where this is not appropriate to the circumstances or the nature of the measure.
+
+2\. Risk assessment shall be based on the available scientific evidence and undertaken in an independent, objective and transparent manner.
+
+3\. Risk management shall take into account the results of risk assessment, and in particular, the opinions of the Authority referred to in Article 22, other factors legitimate to the matter under consideration and the precautionary principle where the conditions laid down in Article 7(1) are relevant, in order to achieve the general objectives of food law established in Article 5.
+
+4\. Risk communication shall fulfil the objectives and respect the general principles set out in Articles 8a and 8b.
+
+#### Article 7 — Precautionary principle
+
+1\. In specific circumstances where, following an assessment of available information, the possibility of harmful effects on health is identified but scientific uncertainty persists, provisional risk management measures necessary to ensure the high level of health protection chosen in the Community may be adopted, pending further scientific information for a more comprehensive risk assessment.
+
+2\. Measures adopted on the basis of paragraph 1 shall be proportionate and no more restrictive of trade than is required to achieve the high level of health protection chosen in the Community, regard being had to technical and economic feasibility and other factors regarded as legitimate in the matter under consideration. The measures shall be reviewed within a reasonable period of time, depending on the nature of the risk to life or health identified and the type of scientific information needed to clarify the scientific uncertainty and to conduct a more comprehensive risk assessment.
+
+#### Article 8 — Protection of consumers' interests
+
+1\. Food law shall aim at the protection of the interests of consumers and shall provide a basis for consumers to make informed choices in relation to the foods they consume. It shall aim at the prevention of:
+
+(a) fraudulent or deceptive practices;
+
+(b) the adulteration of food; and
+
+(c) any other practices which may mislead the consumer.
+
+### SECTION 1A — RISK COMMUNICATION
+
+#### Article 8a — Objectives of risk communication
+
+Taking into account the respective roles of risk assessors and risk managers, risk communication shall pursue the following objectives:
+
+(a) raise awareness and understanding of the specific issues under consideration, including in cases of divergences in scientific assessment, during the entire risk analysis process;
+
+(b) ensure consistency, transparency and clarity in formulating risk management recommendations and decisions;
+
+(c) provide a sound basis, including, where appropriate, a scientific basis, for understanding risk management decisions;
+
+(d) improve the overall effectiveness and efficiency of the risk analysis;
+
+(e) foster public understanding of the risk analysis, including of the respective tasks and responsibilities of risk assessors and risk managers to enhance confidence in its outcome;
+
+(f) ensure appropriate involvement of consumers, feed and food businesses, the academic community and all other interested parties;
+
+(g) ensure appropriate and transparent exchange of information with interested parties in relation to risks associated with the food chain;
+
+(h) ensure the provision of information to consumers about risk prevention strategies; and
+
+(i) contribute to the fight against the dissemination of false information and the sources thereof.
+
+#### Article 8b — General principles of risk communication
+
+Taking into account the respective roles of risk assessors and risk managers, risk communication shall:
+
+(a) ensure that accurate and all appropriate information is exchanged in an interactive and timely manner with all interested parties, based on the principles of transparency, openness, and responsiveness;
+
+(b) provide transparent information at each stage of the risk analysis process from the framing of requests for scientific advice to the provision of risk assessment and the adoption of risk management decisions, including information on how risk management decisions were reached and which factors were considered;
+
+(c) take into account risk perceptions of all interested parties;
+
+(d) facilitate understanding and dialogue amongst all interested parties; and
+
+(e) be clear and accessible, including to those not directly involved in the process or not having a scientific background, while duly respecting the applicable legal provisions on confidentiality and protection of personal data.
+
+#### Article 8c — General plan for risk communication
+
+1\. The Commission shall adopt, by means of implementing acts, a general plan for risk communication in order to achieve the objectives set out in Article 8a, in accordance with the general principles set out in Article 8b. The Commission shall keep that general plan updated, taking into account technical and scientific progress and experience gained. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 58(2). When preparing those implementing acts, the Commission shall consult the Authority.
+
+2\. The general plan for risk communication shall promote an integrated risk communication framework to be followed both by the risk assessors and the risk managers in a coherent and systematic manner both at Union and national level. It shall:
+
+(a) identify the key factors that need to be taken into account when considering the type and level of risk communication activities needed;
+
+(b) identify the different types and levels of risk communication activities, and the appropriate main tools and channels to be used for risk communication purposes, taking into account the needs of relevant target audience groups;
+
+(c) establish appropriate mechanisms of coordination and cooperation in order to strengthen coherence of risk communication amongst risk assessors and risk managers; and
+
+(d) establish appropriate mechanisms to ensure an open dialogue amongst consumers, food and feed businesses, the academic community and all other interested parties, and their appropriate involvement.
+
+### SECTION 2 — PRINCIPLES OF TRANSPARENCY
+
+#### Article 9 — Public consultation
+
+There shall be open and transparent public consultation, directly or through representative bodies, during the preparation, evaluation and revision of food law, except where the urgency of the matter does not allow it.
+
+#### Article 10 — Public information
+
+Without prejudice to the applicable provisions of Community and national law on access to documents, where there are reasonable grounds to suspect that a food or feed may present a risk for human or animal health, then, depending on the nature, seriousness and extent of that risk, public authorities shall take appropriate steps to inform the general public of the nature of the risk to health, identifying to the fullest extent possible the food or feed, or type of food or feed, the risk that it may present, and the measures which are taken or about to be taken to prevent, reduce or eliminate that risk.
+
+### SECTION 3 — GENERAL OBLIGATIONS OF FOOD TRADE
+
+#### Article 11 — Food and feed imported into the Community
+
+Food and feed imported into the Community for placing on the market within the Community shall comply with the relevant requirements of food law or conditions recognised by the Community to be at least equivalent thereto or, where a specific agreement exists between the Community and the exporting country, with requirements contained therein.
+
+#### Article 12 — Food and feed exported from the Community
+
+1\. Food and feed exported or re-exported from the Community for placing on the market of a third country shall comply with the relevant requirements of food law, unless otherwise requested by the authorities of the importing country or established by the laws, regulations, standards, codes of practice and other legal and administrative procedures as may be in force in the importing country.
+
+In other circumstances, except in the case where foods are injurious to health or feeds are unsafe, food and feed can only be exported or re-exported if the competent authorities of the country of destination have expressly agreed, after having been fully informed of the reasons for which and the circumstances in which the food or feed concerned could not be placed on the market in the Community.
+
+2\. Where the provisions of a bilateral agreement concluded between the Community or one of its Member States and a third country are applicable, food and feed exported from the Community or that Member State to that third country shall comply with the said provisions.
+
+#### Article 13 — International standards
+
+Without prejudice to their rights and obligations, the Community and the Member States shall:
+
+(a) contribute to the development of international technical standards for food and feed and sanitary and phytosanitary standards;
+
+(b) promote the coordination of work on food and feed standards undertaken by international governmental and non-governmental organisations;
+
+(c) contribute, where relevant and appropriate, to the development of agreements on recognition of the equivalence of specific food and feed-related measures;
+
+(d) give particular attention to the special development, financial and trade needs of developing countries, with a view to ensuring that international standards do not create unnecessary obstacles to exports from developing countries;
+
+(e) promote consistency between international technical standards and food law while ensuring that the high level of protection adopted in the Community is not reduced.
+
+### SECTION 4 — GENERAL REQUIREMENTS OF FOOD LAW
+
+#### Article 14 — Food safety requirements
+
+1\. Food shall not be placed on the market if it is unsafe.
+
+2\. Food shall be deemed to be unsafe if it is considered to be:
+
+(a) injurious to health;
+
+(b) unfit for human consumption.
+
+3\. In determining whether any food is unsafe, regard shall be had:
+
+(a) to the normal conditions of use of the food by the consumer and at each stage of production, processing and distribution, and
+
+(b) to the information provided to the consumer, including information on the label, or other information generally available to the consumer concerning the avoidance of specific adverse health effects from a particular food or category of foods.
+
+4\. In determining whether any food is injurious to health, regard shall be had:
+
+(a) not only to the probable immediate and/or short-term and/or long-term effects of that food on the health of a person consuming it, but also on subsequent generations;
+
+(b) to the probable cumulative toxic effects;
+
+(c) to the particular health sensitivities of a specific category of consumers where the food is intended for that category of consumers.
+
+5\. In determining whether any food is unfit for human consumption, regard shall be had to whether the food is unacceptable for human consumption according to its intended use, for reasons of contamination, whether by extraneous matter or otherwise, or through putrefaction, deterioration or decay.
+
+6\. Where any food which is unsafe is part of a batch, lot or consignment of food of the same class or description, it shall be presumed that all the food in that batch, lot or consignment is also unsafe, unless following a detailed assessment there is no evidence that the rest of the batch, lot or consignment is unsafe.
+
+7\. Food that complies with specific Community provisions governing food safety shall be deemed to be safe insofar as the aspects covered by the specific Community provisions are concerned.
+
+8\. Conformity of a food with specific provisions applicable to that food shall not bar the competent authorities from taking appropriate measures to impose restrictions on it being placed on the market or to require its withdrawal from the market where there are reasons to suspect that, despite such conformity, the food is unsafe.
+
+9\. Where there are no specific Community provisions, food shall be deemed to be safe when it conforms to the specific provisions of national food law of the Member State in whose territory the food is marketed, such provisions being drawn up and applied without prejudice to the Treaty, in particular Articles 28 and 30 thereof.
+
+#### Article 15 — Feed safety requirements
+
+1\. Feed shall not be placed on the market or fed to any food-producing animal if it is unsafe.
+
+2\. Feed shall be deemed to be unsafe for its intended use if it is considered to:
+
+— have an adverse effect on human or animal health;
+
+— make the food derived from food-producing animals unsafe for human consumption.
+
+3\. Where a feed which has been identified as not satisfying the feed safety requirement is part of a batch, lot or consignment of feed of the same class or description, it shall be presumed that all of the feed in that batch, lot or consignment is so affected, unless following a detailed assessment there is no evidence that the rest of the batch, lot or consignment fails to satisfy the feed safety requirement.
+
+4\. Feed that complies with specific Community provisions governing feed safety shall be deemed to be safe insofar as the aspects covered by the specific Community provisions are concerned.
+
+5\. Conformity of a feed with specific provisions applicable to that feed shall not bar the competent authorities from taking appropriate measures to impose restrictions on it being placed on the market or to require its withdrawal from the market where there are reasons to suspect that, despite such conformity, the feed is unsafe.
+
+6\. Where there are no specific Community provisions, feed shall be deemed to be safe when it conforms to the specific provisions of national law governing feed safety of the Member State in whose territory the feed is in circulation, such provisions being drawn up and applied without prejudice to the Treaty, in particular Articles 28 and 30 thereof.
+
+#### Article 16 — Presentation
+
+Without prejudice to more specific provisions of food law, the labelling, advertising and presentation of food or feed, including their shape, appearance or packaging, the packaging materials used, the manner in which they are arranged and the setting in which they are displayed, and the information which is made available about them through whatever medium, shall not mislead consumers.
+
+#### Article 17 — Responsibilities
+
+1\. Food and feed business operators at all stages of production, processing and distribution within the businesses under their control shall ensure that foods or feeds satisfy the requirements of food law which are relevant to their activities and shall verify that such requirements are met.
+
+2\. Member States shall enforce food law, and monitor and verify that the relevant requirements of food law are fulfilled by food and feed business operators at all stages of production, processing and distribution.
+
+For that purpose, they shall maintain a system of official controls and other activities as appropriate to the circumstances, including public communication on food and feed safety and risk, food and feed safety surveillance and other monitoring activities covering all stages of production, processing and distribution.
+
+Member States shall also lay down the rules on measures and penalties applicable to infringements of food and feed law. The measures and penalties provided for shall be effective, proportionate and dissuasive.
+
+#### Article 18 — Traceability
+
+1\. The traceability of food, feed, food-producing animals, and any other substance intended to be, or expected to be, incorporated into a food or feed shall be established at all stages of production, processing and distribution.
+
+2\. Food and feed business operators shall be able to identify any person from whom they have been supplied with a food, a feed, a food-producing animal, or any substance intended to be, or expected to be, incorporated into a food or feed.
+
+To this end, such operators shall have in place systems and procedures which allow for this information to be made available to the competent authorities on demand.
+
+3\. Food and feed business operators shall have in place systems and procedures to identify the other businesses to which their products have been supplied. This information shall be made available to the competent authorities on demand.
+
+4\. Food or feed which is placed on the market or is likely to be placed on the market in the Community shall be adequately labelled or identified to facilitate its traceability, through relevant documentation or information in accordance with the relevant requirements of more specific provisions.
+
+5\. Provisions for the purpose of applying the requirements of this Article in respect of specific sectors may be adopted in accordance with the procedure laid down in Article 58(2).
+
+#### Article 19 — Responsibilities for food: food business operators
+
+1\. If a food business operator considers or has reason to believe that a food which it has imported, produced, processed, manufactured or distributed is not in compliance with the food safety requirements, it shall immediately initiate procedures to withdraw the food in question from the market where the food has left the immediate control of that initial food business operator and inform the competent authorities thereof. Where the product may have reached the consumer, the operator shall effectively and accurately inform the consumers of the reason for its withdrawal, and if necessary, recall from consumers products already supplied to them when other measures are not sufficient to achieve a high level of health protection.
+
+2\. A food business operator responsible for retail or distribution activities which do not affect the packaging, labelling, safety or integrity of the food shall, within the limits of its respective activities, initiate procedures to withdraw from the market products not in compliance with the food-safety requirements and shall participate in contributing to the safety of the food by passing on relevant information necessary to trace a food, cooperating in the action taken by producers, processors, manufacturers and/or the competent authorities.
+
+3\. A food business operator shall immediately inform the competent authorities if it considers or has reason to believe that a food which it has placed on the market may be injurious to human health. Operators shall inform the competent authorities of the action taken to prevent risks to the final consumer and shall not prevent or discourage any person from cooperating, in accordance with national law and legal practice, with the competent authorities, where this may prevent, reduce or eliminate a risk arising from a food.
+
+4\. Food business operators shall collaborate with the competent authorities on action taken to avoid or reduce risks posed by a food which they supply or have supplied.
+
+#### Article 20 — Responsibilities for feed: feed business operators
+
+1\. If a feed business operator considers or has reason to believe that a feed which it has imported, produced, processed, manufactured or distributed does not satisfy the feed safety requirements, it shall immediately initiate procedures to withdraw the feed in question from the market and inform the competent authorities thereof. In these circumstances or, in the case of Article 15(3), where the batch, lot or consignment does not satisfy the feed safety requirement, that feed shall be destroyed, unless the competent authority is satisfied otherwise. The operator shall effectively and accurately inform users of the feed of the reason for its withdrawal, and if necessary, recall from them products already supplied when other measures are not sufficient to achieve a high level of health protection.
+
+2\. A feed business operator responsible for retail or distribution activities which do not affect the packaging, labelling, safety or integrity of the feed shall, within the limits of its respective activities, initiate procedures to withdraw from the market products not in compliance with the feed-safety requirements and shall participate in contributing to the safety of food by passing on relevant information necessary to trace a feed, cooperating in the action taken by producers, processors, manufacturers and/or the competent authorities.
+
+3\. A feed business operator shall immediately inform the competent authorities if it considers or has reason to believe that a feed which it placed on the market may not satisfy the feed safety requirements. It shall inform the competent authorities of the action taken to prevent risk arising from the use of that feed and shall not prevent or discourage any person from cooperating, in accordance with national law and legal practice, with the competent authorities, where this may prevent, reduce or eliminate a risk arising from a feed.
+
+4\. Feed business operators shall collaborate with the competent authorities on action taken in order to avoid risks posed by a feed which they supply or have supplied.
+
+#### Article 21 — Liability
+
+The provisions of this Chapter shall be without prejudice to Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products ( 6 ).
+
+## CHAPTER III — EUROPEAN FOOD SAFETY AUTHORITY
+
+### SECTION 1 — MISSION AND TASKS
+
+#### Article 22 — Mission of the Authority
+
+1\. A European Food Safety Authority, hereinafter referred to as the ‘Authority’, is hereby established.
+
+2\. The Authority shall provide scientific advice and scientific and technical support for the Community's legislation and policies in all fields which have a direct or indirect impact on food and feed safety. It shall provide independent information on all matters within these fields and communicate on risks.
+
+3\. The Authority shall contribute to a high level of protection of human life and health, and in this respect take account of animal health and welfare, plant health and the environment, in the context of the operation of the internal market.
+
+4\. The Authority shall collect and analyse data to allow the characterisation and monitoring of risks which have a direct or indirect impact on food and feed safety.
+
+5\. The mission of the Authority shall also include the provision of:
+
+(a) scientific advice and scientific and technical support on human nutrition in relation to Community legislation and, at the request of the Commission, assistance concerning communication on nutritional issues within the framework of the Community health programme;
+
+(b) scientific opinions on other matters relating to animal health and welfare and plant health;
+
+(c) scientific opinions on products other than food and feed relating to genetically modified organisms as defined by Directive 2001/18/EC and without prejudice to the procedures established therein.
+
+6\. The Authority shall provide scientific opinions which will serve as the scientific basis for the drafting and adoption of Community measures in the fields falling within its mission.
+
+7\. The Authority shall carry out its tasks in conditions which enable it to serve as a point of reference by virtue of its independence, the scientific and technical quality of the opinions it issues and the information it disseminates, the transparency of its procedures and methods of operation, and its diligence in performing the tasks assigned to it.
+
+It shall act in close cooperation with the competent bodies in the Member States that carry out similar tasks to those of the Authority and, where appropriate, with the relevant Union agencies.
+
+8\. The Authority, Commission and Member States shall cooperate to promote the effective coherence between risk assessment, risk management and risk communication functions.
+
+9\. The Member States shall cooperate with the Authority to ensure the accomplishment of its mission.
+
+#### Article 23 — Tasks of the Authority
+
+The tasks of the Authority shall be the following:
+
+(a) to provide the Community institutions and the Member States with the best possible scientific opinions in all cases provided for by Community legislation and on any question within its mission;
+
+(b) to promote and coordinate the development of uniform risk assessment methodologies in the fields falling within its mission;
+
+(c) to provide scientific and technical support to the Commission in the areas within its mission and, when so requested, in the interpretation and consideration of risk assessment opinions;
+
+(d) to commission scientific studies necessary for the accomplishment of its mission;
+
+(e) to search for, collect, collate, analyse and summarise scientific and technical data in the fields within its mission;
+
+(f) to undertake action to identify and characterise emerging risks, in the fields within its mission;
+
+(g) to establish a system of networks of organisations operating in the fields within its mission and be responsible for their operation;
+
+(h) to provide scientific and technical assistance, when requested to do so by the Commission, in the crisis management procedures implemented by the Commission with regard to the safety of food and feed;
+
+(i) to provide scientific and technical assistance, when requested to do so by the Commission, with a view to improving cooperation between the Community, applicant countries, international organisations and third countries, in the fields within its mission;
+
+(j) to ensure that the public and interested parties receive rapid, reliable, objective and comprehensible information in the fields within its mission;
+
+(k) to express independently its own conclusions and orientations on matters within its mission;
+
+(l) to undertake any other task assigned to it by the Commission within its mission;
+
+(m) to cooperate with the competent bodies in the Member States that carry out similar tasks to those of the Authority and with other scientific bodies established under Union law, in particular the European Chemicals Agency, the European Medicines Agency and the European Environment Agency, on the provision of relevant scientific opinions, on the exchange of data and information, including the potential establishment of related data formats and controlled vocabularies to facilitate such an exchange, and on the development of scientific methodologies for the assessment of chemicals.
+
+### SECTION 2 — ORGANISATION
+
+#### Article 24 — Bodies of the Authority
+
+The Authority shall comprise:
+
+(a) a Management Board;
+
+(b) an Executive Director and his staff;
+
+(c) an Advisory Forum;
+
+(d) a Scientific Committee and Scientific Panels.
+
+#### Article 25 — Management Board
+
+1\. Each Member State shall nominate a member and an alternate member as its representatives to the Management Board. The members and alternate members thus nominated shall be appointed by the Council and have the right to vote.
+
+1a. In addition to members and alternate members referred to in paragraph 1, the Management Board shall include:
+
+(a) two members and two alternate members appointed by the Commission as its representatives, with the right to vote;
+
+(b) two members appointed by the European Parliament, with the right to vote;
+
+(c) four members and four alternate members with the right to vote as representatives of civil society and food chain interests, namely one member and one alternate member from consumer organisations, one member and one alternate member from environmental non-governmental organisations, one member and one alternate member from farmers organisations, and one member and one alternate member from industry organisations.
+
+The members and alternate members referred to in point (c) of the first subparagraph shall be appointed by the Council in consultation with the European Parliament on the basis of a list which shall be drawn up by the Commission and sent to the Council. The list shall include more names than there are posts to be filled. The list drawn up by the Commission shall be forwarded to the European Parliament by the Council, together with the relevant background documents. As quickly as possible and at the latest within three months of the receipt of that list, the European Parliament may submit its views for consideration to the Council which shall then appoint those members.
+
+1b. The members and the alternate members of the Management Board shall be nominated and appointed on the basis of their relevant experience and expertise in the field of food chain law and policy, including risk assessment, whilst ensuring that there is relevant expertise in the fields of managerial, administrative, financial and legal matters within the Management Board.
+
+2\. The term of office of members and alternate members shall be four years and may be renewed. However, the term of office of the members and alternate members referred to in point (c) of the first subparagraph of paragraph 1a may be renewed only once.
+
+3\. The Management Board shall adopt the Authority's internal rules on the basis of a proposal by the Executive Director. These rules shall be made public.
+
+4\. The Management Board shall elect one of its members as its Chair for a two-year period, which shall be renewable.
+
+5\. The Management Board shall adopt its rules of procedure.
+
+Unless otherwise provided, the Management Board shall act by a majority of its members. Alternate members shall represent the members in their absence and vote on their behalf.
+
+6\. The Management Board shall meet at the invitation of the Chair or at the request of at least a third of its members.
+
+7\. The Management Board shall ensure that the Authority carries out its mission and performs the tasks assigned to it under the conditions laid down in this Regulation.
+
+8\. Before 31 January each year, the Management Board shall adopt the Authority's programme of work for the coming year. It shall also adopt a revisable multi-annual programme. The Management Board shall ensure that these programmes are consistent with the Community's legislative and policy priorities in the area of food safety.
+
+Before 30 March each year, the Management Board shall adopt the general report on the Authority's activities for the previous year.
+
+9\. The financial rules applicable to the Authority shall be adopted by the Management Board after the Commission has been consulted. They may not depart from Commission Regulation (EC, Euratom) No 2343/2002 of 19 November 2002 on the framework Financial Regulation for the bodies referred to in Article 185 of Council Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities ( 7 ) unless such departure is specifically required for the Authority's operation and the Commission has given its prior consent.
+
+10\. The Executive Director shall take part in the meetings of the Management Board, without voting rights, and shall provide the Secretariat. The Management Board shall invite the Chair of the Scientific Committee to attend its meetings without voting rights.
+
+#### Article 26 — Executive Director
+
+1\. The Executive Director shall be appointed by the Management Board, on the basis of a list of candidates proposed by the Commission after an open competition, following publication in the Official Journal of the European Communities and elsewhere of a call for expressions of interest, for a period of five years which shall be renewable. Before appointment the candidate nominated by the Management Board shall be invited without delay to make a statement before the European Parliament and answer questions put by members of this institution. The Executive Director may be removed from office by a majority of the Management Board.
+
+2\. The Executive Director shall be the legal representative of the Authority and shall be responsible for:
+
+(a) the day-to-day administration of the Authority;
+
+(b) drawing up a proposal for the Authority's work programmes in consultation with the Commission;
+
+(c) implementing the work programmes and the decisions adopted by the Management Board;
+
+(d) ensuring the provision of appropriate scientific, technical and administrative support for the Scientific Committee and the Scientific Panels;
+
+(e) ensuring that the Authority carries out its tasks in accordance with the requirements of its users, in particular with regard to the adequacy of the services provided and the time taken;
+
+(f) the preparation of the Authority's draft statement of estimates of revenue and expenditure, and the execution of its budget;
+
+(g) all staff matters;
+
+(h) developing and maintaining contact with the European Parliament, and for ensuring a regular dialogue with its relevant committees.
+
+3\. Each year, the Executive Director shall submit to the Management Board for approval:
+
+(a) a draft general report covering all the activities of the Authority in the previous year;
+
+(b) draft programmes of work.
+
+The Executive Director shall, following adoption by the Management Board, forward the programmes of work to the European Parliament, the Council, the Commission and the Member States, and shall have them published.
+
+The Executive Director shall, following adoption by the Management Board and by 15 June, forward the Authority's general report to the European Parliament, the Council, the Commission, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions, and shall have it published.
+
+The Executive Director shall forward annually to the budgetary authority all information relevant to the outcome of the evaluation procedures.
+
+#### Article 27 — Advisory Forum
+
+1\. The Advisory Forum shall be composed of representatives from competent bodies in the Member States which undertake tasks similar to those of the Authority, on the basis of one representative designated by each Member State. Representatives may be replaced by alternates, appointed at the same time.
+
+2\. Members of the Advisory Forum may not be members of the Management Board.
+
+3\. The Advisory Forum shall advise the Executive Director in the performance of his duties under this Regulation, in particular in drawing up a proposal for the Authority's work programme. The Executive Director may also ask the Advisory Forum for advice on the prioritisation of requests for scientific opinions.
+
+4\. The Advisory Forum shall constitute a mechanism for an exchange of information on potential risks and the pooling of knowledge. It shall ensure close cooperation between the Authority and the competent bodies in the Member States in particular on the following items:
+
+(a) avoidance of duplication of the Authority's scientific studies with Member States, in accordance with Article 32;
+
+(b) in those circumstances identified in Article 30(2), where the Authority and a national body are obliged to cooperate;
+
+(c) in the promoting of the European networking of organisations operating within the fields of the Authority's mission, in accordance with Article 36(1);
+
+(d) where the Authority or a Member State identifies an emerging risk.
+
+5\. The Advisory Forum shall be chaired by the Executive Director. It shall meet regularly at the invitation of the Chair or at the request of at least a third of its members, and not less than four times per year. Its operational procedures shall be specified in the Authority's internal rules and shall be made public.
+
+6\. The Authority shall provide the technical and logistic support necessary for the Advisory Forum and provide the Secretariat for its meetings.
+
+7\. Representatives of the Commission's departments may participate in the work of the Advisory Forum. The Executive Director may invite representatives of the European Parliament and from other relevant bodies to take part.
+
+Where the Advisory Forum discusses the matters referred to in Article 22(5)(b), representatives from competent bodies in the Member States which undertake tasks similar to those referred to in Article 22(5)(b) may participate in the work of the Advisory Forum, on the basis of one representative designated by each Member State.
+
+#### Article 28 — Scientific Committee and Scientific Panels
+
+1\. The Scientific Committee and permanent Scientific Panels shall be responsible for providing the scientific opinions of the Authority, each within their own spheres of competence, and shall have the possibility, where necessary, of organising public hearings.
+
+2\. The Scientific Committee shall be responsible for the general coordination necessary to ensure the consistency of the scientific opinion procedure, in particular with regard to the adoption of working procedures and harmonisation of working methods. It shall provide opinions on multisectoral issues falling within the competence of more than one Scientific Panel, and on issues which do not fall within the competence of any of the Scientific Panels.
+
+Where necessary, and particularly in the case of subjects which do not fall within the competence of any of the Scientific Panels, the Scientific Committee shall set up working groups. In such cases, it shall draw on the expertise of those working groups when establishing scientific opinions.
+
+3\. The Scientific Committee shall be composed of the Chairs of the Scientific Panels and six independent scientific experts who do not belong to any of the Scientific Panels.
+
+4\. The Scientific Panels shall be composed of independent scientific experts. When the Authority is established, the following Scientific Panels shall be set up:
+
+(a) the Panel on food additives and flavourings;
+
+(b) the Panel on additives and products or substances used in animal feed;
+
+(c) the Panel on plant protection products and their residues;
+
+(d) the Panel on genetically modified organisms;
+
+(e) the Panel on nutrition, novel foods and food allergens;
+
+(f) the Panel on biological hazards;
+
+(g) the Panel on contaminants in the food chain;
+
+(h) the Panel on animal health and welfare;
+
+(i) the Panel on plant health;
+
+(j) the Panel on food enzymes;
+
+(k) the Panel on food contact materials.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 57a amending the first subparagraph as regards the number and names of the Scientific Panels, in the light of technical and scientific development, at the Authority’s request.
+
+5\. The members of the Scientific Committee who are not members of the Scientific Panels and the members of the Scientific Panels shall be appointed by the Management Board, acting upon a proposal from the Executive Director, for a five-year term of office, which may be renewed, following publication of a call for expression of interest in the Official Journal of the European Union, in relevant leading scientific publications and on the Authority's website. The Authority shall publish such a call for expression of interest after having informed the Member States about the necessary criteria and fields of expertise.
+
+The Member States shall:
+
+(a) publish the call for expression of interest on the websites of their competent authorities and of their competent bodies which undertake tasks similar to those of the Authority;
+
+(b) inform relevant scientific organisations located on their territory;
+
+(c) encourage potential candidates to apply; and
+
+(d) take any other appropriate measures to support the call for expression of interest.
+
+5a. The members of the Scientific Committee who are not members of Scientific Panels and the members of the Scientific Panels shall be selected and appointed in accordance with the following procedure:
+
+(a) on the basis of the applications received to a call for expression of interest, the Executive Director shall draw up a draft list of suitable candidates including at least twice the number of candidates necessary to fill the posts in the Scientific Committee and the Scientific Panels and send the draft list to the Management Board, indicating the specific multidisciplinary expertise needed in each Scientific Panel;
+
+(b) on the basis of that draft list, the Management Board shall appoint the members of the Scientific Committee who are not members of the Scientific Panels and the members of the Scientific Panels and draw up the reserve list of candidates for the scientific Committee and the Scientific Panels;
+
+(c) the selection procedure and the appointments of the members of the Scientific Committee who are not members of the Scientific Panels and the members of the Scientific Panels shall be made on the basis of the following criteria:
+
+(i) a high level of scientific expertise;
+
+(ii) independence and absence of conflict of interests in accordance with Article 37(2) and the Authority's independence policy and implementation of that policy in respect of the members of the Scientific Panels;
+
+(iii) meeting the needs for the specific multi-disciplinary expertise of the Scientific Panel to which they will be appointed and the applicable language regime;
+
+(d) where candidates have equivalent scientific expertise, the Management Board shall ensure that the broadest possible geographical distribution is achieved in the appointments.
+
+5b. When the Authority identifies that specific expertise is missing in one or several Scientific Panels, the Executive Director shall propose to the Management Board, in accordance with the procedure laid down in paragraphs 5 and 5a, the appointment of additional members of the relevant Scientific Panels.
+
+5c. The Management Board shall adopt, on the basis of a proposal of the Executive Director, rules on the detailed organisation and timing of the procedures set up in paragraphs 5a and 5b.
+
+5d. Member States and employers of the members of the Scientific Committee and of the Scientific Panels shall refrain from giving those members, or the external experts participating in the working groups of the Scientific Committee or the Scientific Panels, any instruction which is incompatible with the individual tasks of those members and experts, or with the tasks, responsibilities and independence of the Authority.
+
+5e. The Authority shall support the tasks of the Scientific Committee and Scientific Panels by organising their work, in particular the preparatory work to be undertaken by the Authority's staff or by designated national scientific organisations referred to in Article 36, including by organising the possibility for preparing scientific opinions to be peer-reviewed by the Scientific Panels before they adopt them.
+
+5f. Each Scientific Panel shall include a maximum of 21 members.
+
+5g. Members of Scientific Panels shall have access to comprehensive training on the risk assessment.
+
+6\. The Scientific Committee and the Scientific Panels shall each choose a Chair and two Vice-Chairs from among their members.
+
+7\. The Scientific Committee and the Scientific Panels shall act by a majority of their members. Minority opinions shall be recorded.
+
+8\. The representatives of the Commission's departments shall be entitled to be present in the meetings of the Scientific Committee, the Scientific Panels and their working groups. If invited to do so, they may assist for the purposes of clarification or information but shall not seek to influence discussions.
+
+9\. The procedures for the operation and cooperation of the Scientific Committee and the Scientific Panels shall be laid down in the Authority's internal rules.
+
+These procedures shall relate in particular to:
+
+(a) the number of times that a member can serve consecutively on a Scientific Committee or Scientific Panel;
+
+(b) the number of members in each Scientific Panel but no more than the maximum number provided for in paragraph 5f;
+
+(c) the procedure for reimbursing the expenses of members of the Scientific Committee and the Scientific Panels;
+
+(d) the manner in which tasks and requests for scientific opinions are assigned to the Scientific Committee and the Scientific Panels;
+
+(e) the creation and organisation of the working groups of the Scientific Committee and the Scientific Panels, and the possibility of external experts being included in those working groups;
+
+(f) the possibility of observers being invited to meetings of the Scientific Committee and the Scientific Panels;
+
+(g) the possibility of organising public hearings.
+
+### SECTION 3 — OPERATION
+
+#### Article 29 — Scientific opinions
+
+1\. The Authority shall issue a scientific opinion:
+
+(a) at the request of the Commission, in respect of any matter within its mission, and in all cases where Community legislation makes provision for the Authority to be consulted;
+
+(b) on its own initiative, on matters falling within its mission.
+
+The European Parliament or a Member State may request the Authority to issue a scientific opinion on matters falling within its mission.
+
+2\. Requests referred to in paragraph 1 shall be accompanied by background information explaining the scientific issue to be addressed and the Community interest.
+
+3\. Where Community legislation does not already specify a time limit for the delivery of a scientific opinion, the Authority shall issue scientific opinions within the time limit specified in the requests for opinions, except in duly justified circumstances.
+
+4\. Where different requests are made on the same issues or where the request is not in accordance with paragraph 2, or is unclear, the Authority may either refuse, or propose amendments to a request for an opinion in consultation with the institution or Member State(s) that made the request. Justifications for the refusal shall be given to the institution or Member State(s) that made the request.
+
+5\. Where the Authority has already delivered a scientific opinion on the specific topic in a request, it may refuse the request if it concludes there are no new scientific elements justifying the re-examination. Justifications for the refusal shall be given to the institution or Member State(s) that made the request.
+
+6\. In order to apply this Article, the Commission after consulting the Authority shall adopt:
+
+(a) delegated acts in accordance with Article 57a in order to supplement this Regulation by establishing the procedure to be applied by the Authority to the requests for a scientific opinion;
+
+(b) implementing acts laying down the guidelines governing the scientific evaluation of substances, products or processes which are subject, under Union legislation, to a system of prior authorisation or entry on a positive list, in particular where Union legislation makes provision for, or authorises, a dossier to be presented for this purpose by the applicant. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 58(2).
+
+7\. The Authority's internal rules shall specify requirements in regard to format, explanatory background and publication of a scientific opinion.
+
+#### Article 30 — Diverging scientific opinions
+
+1\. The Authority shall take the necessary and appropriate measures to monitor and identify at an early stage any potential source of divergence between its scientific opinions and the scientific opinions issued by other bodies carrying out similar tasks.
+
+2\. Where the Authority identifies a potential source of divergence as referred to in paragraph 1, it shall contact the other body in order to ensure that all relevant scientific or technical information is shared and to identify potentially contentious scientific or technical issues.
+
+The Authority and the other body shall cooperate to resolve any divergence, taking into consideration the objective of a high level of protection of health and the environment. If the Authority and the other body are not able to resolve the divergence, they shall draw up a joint report. The report shall clearly outline the contentious scientific issues, identify any relevant uncertainties in the data and give the underlying reasons for the divergence of opinions, including reasons related to methodological differences. The report shall be made publicly available.
+
+Where the other body is a Union agency or a scientific committee, the Authority shall also present the joint report to the Commission.
+
+3\. Where relevant, and where the divergence concerns conflicting scientific opinions of the Authority and another Union body on whether a substance fulfils the criteria laid out in Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 8 ), the Commission may request the European Chemicals Agency to prepare a proposal for the harmonised classification and labelling of substances and, where appropriate, specific concentration limits, M-factors or acute toxicity estimates, or a proposal for the revision of such classification and labelling of substances, and, where appropriate, for the revision of such limits, factors or estimates in accordance with the procedure laid down in Article 37 of Regulation (EC) No 1272/2008. The Authority and the other Union body shall cooperate with the European Chemicals Agency in preparing that proposal.
+
+#### Article 31 — Scientific and technical assistance
+
+1\. The Authority may be requested by the Commission to provide scientific or technical assistance in any field within its mission. The tasks of providing scientific and technical assistance shall consist of scientific or technical work involving the application of well-established scientific or technical principles which does not require scientific evaluation by the Scientific Committee or a Scientific Panel. Such tasks may include in particular assistance to the Commission for the establishment or evaluation of technical criteria and also assistance to the Commission in the development of technical guidelines.
+
+2\. Where the Commission refers a request for scientific or technical assistance to the Authority, it shall specify, in agreement with the Authority, the time limit within which the task must be completed.
+
+#### Article 32 — Scientific studies
+
+1\. Using the best independent scientific resources available, the Authority shall commission scientific studies necessary for the performance of its mission. Such studies shall be commissioned in an open and transparent fashion. The Authority shall seek to avoid duplication with Member State or Community research programmes and shall foster cooperation through appropriate coordination.
+
+2\. The Authority shall inform the European Parliament, the Commission and the Member States of the results of its scientific studies.
+
+#### Article 32a — Pre-submission advice
+
+1\. Where Union law contains provisions for the Authority to provide a scientific output, including a scientific opinion, the staff of the Authority shall, at the request of a potential applicant or notifier, provide advice on the rules applicable to, and the content required for, the application or notification, prior to its submission. Such advice provided by the staff of the Authority shall be without prejudice and non-committal as to any subsequent assessment of applications or notifications by the Scientific Panels. The staff of the Authority providing the advice shall not be involved in any preparatory scientific or technical work that is directly or indirectly relevant to the application or notification that is the subject of the advice.
+
+2\. The Authority shall publish general guidance on its website regarding the rules applicable to, and the content required for, applications and notifications, including, where appropriate, general guidance on the design of required studies.
+
+#### Article 32b — Notification of studies
+
+1\. The Authority shall establish and manage a database of studies commissioned or carried out by business operators to support an application or notification in relation to which Union law contains provisions for the Authority to provide a scientific output, including a scientific opinion.
+
+2\. For the purposes of paragraph 1, business operators shall, without delay, notify the Authority of the title and the scope of any study commissioned or carried out by them to support an application or a notification, as well as the laboratory or testing facility carrying out that study, and its starting and planned completion dates.
+
+3\. For the purposes of paragraph 1, laboratories and other testing facilities located in the Union shall also, without delay, notify the Authority of the title and the scope of any study commissioned by business operators and carried out by such laboratories or other testing facilities to support an application or a notification, its starting and planned completion dates, as well as the name of the business operator who commissioned such a study.
+
+This paragraph shall also apply, mutatis mutandis, to laboratories and other testing facilities located in third countries insofar as set out in relevant agreements and arrangements with those third countries, including as referred to in Article 49.
+
+4\. An application or notification shall not be considered valid or admissible where it is supported by studies that have not been previously notified in accordance with paragraph 2 or 3, unless the applicant or notifier provides a valid justification for the non-notification of such studies.
+
+Where studies have not been previously notified in accordance with paragraph 2 or 3, and where a valid justification has not been provided, an application or notification may be re-submitted, provided that the applicant or notifier notifies to the Authority those studies, in particular their title and their scope, the laboratory or testing facility carrying them out as well as their starting and planned completion dates.
+
+The assessment of the validity or the admissibility of such re-submitted application or notification shall commence six months after the notification of the studies pursuant to the second subparagraph.
+
+5\. An application or notification shall not be considered valid or admissible, where studies that have previously been notified in accordance with paragraph 2 or 3 are not included in the application or notification, unless the applicant or notifier provides a valid justification for the non-inclusion of such studies.
+
+Where the studies which have previously been notified in accordance with paragraph 2 or 3 were not included in the application or notification, and where a valid justification has not been provided, an application or notification may be resubmitted, provided that the applicant or notifier submits all the studies that were notified in accordance with paragraph 2 or 3.
+
+The assessment of the validity or admissibility of such re-submitted application or notification shall commence six months after the submission of the studies pursuant to the second subparagraph.
+
+6\. Where the Authority detects, during its risk assessment, that studies notified in accordance with paragraph 2 or 3 are not included in the corresponding application or notification in full, and in the absence of a valid justification of the applicant or notifier to that effect, the applicable time limits within which the Authority is required to deliver its scientific output shall be suspended. That suspension shall end six months after the submission of all data of those studies.
+
+7\. The Authority shall make public the notified information only in cases where it received a corresponding application or notification and after the Authority has decided on the disclosure of the accompanying studies in accordance with Articles 38 to 39e.
+
+8\. The Authority shall lay down the practical arrangements for implementing the provisions of this Article, including arrangements for requesting and making public the valid justifications in the cases referred to in paragraphs 4, 5 and 6. Those arrangements shall be in accordance with this Regulation and other relevant Union law.
+
+#### Article 32c — Consultation of third parties
+
+1\. Where the relevant Union law provides that an approval or an authorisation, including by means of a notification, may be renewed, the potential applicant or notifier for the renewal shall notify the Authority of the studies it intends to perform for that purpose, including information on how the various studies are to be carried out to ensure compliance with regulatory requirements. Following such notification of studies, the Authority shall launch a consultation of stakeholders and the public on the intended studies for renewal, including on the proposed design of studies. Taking into account the received comments from the stakeholders and the public which are relevant for the risk assessment of the intended renewal, the Authority shall provide advice on the content of the intended renewal application or notification, as well as on the design of the studies. The advice provided by the Authority shall be without prejudice and non-committal as to the subsequent assessment of the applications or notifications for renewal by the Scientific Panels.
+
+2\. The Authority shall consult stakeholders and the public on the basis of the non-confidential version of the application or notification made public by the Authority in accordance with Articles 38 to 39e, and immediately after such disclosure to the public, in order to identify whether other relevant scientific data or studies are available on the subject matter concerned by the application or notification. In duly justified cases, where there is a risk that the results of the public consultation performed in accordance with this paragraph cannot be given proper consideration because of the applicable time limits within which the Authority is required to deliver its scientific output, those time limits may be extended for a maximum period of seven weeks. This paragraph is without prejudice to the Authority's obligations under Article 33 and does not apply to the submission of any supplementary information by the applicants or notifiers during the risk assessment process.
+
+3\. The Authority shall lay down the practical arrangements for implementing the procedures referred to in this Article and Article 32a.
+
+#### Article 32d — Verification studies
+
+Without prejudice to the obligation on applicants to demonstrate the safety of a subject matter submitted to a system of authorisation, the Commission, in exceptional circumstances of serious controversies or conflicting results, may request the Authority to commission scientific studies with the objective of verifying evidence used in its risk assessment process. The studies commissioned may have a wider scope than the evidence subject to verification.
+
+#### Article 33 — Collection of data
+
+1\. The Authority shall search for, collect, collate, analyse and summarise relevant scientific and technical data in the fields within its mission. This shall involve in particular the collection of data relating to:
+
+(a) food consumption and the exposure of individuals to risks related to the consumption of food;
+
+(b) incidence and prevalence of biological risk;
+
+(c) contaminants in food and feed;
+
+(d) residues.
+
+2\. For the purposes of paragraph 1, the Authority shall work in close cooperation with all organisations operating in the field of data collection, including those from applicant countries, third countries or international bodies.
+
+3\. The Member States shall take the necessary measures to enable the data they collect in the fields referred to in paragraphs 1 and 2 to be transmitted to the Authority.
+
+4\. The Authority shall forward to the Member States and the Commission appropriate recommendations which might improve the technical comparability of the data it receives and analyses, in order to facilitate consolidation at Community level.
+
+5\. Within one year following the date of entry into force of this Regulation, the Commission shall publish an inventory of data collection systems existing at Community level in the fields within the mission of the Authority.
+
+The report, which shall be accompanied, where appropriate, by proposals, shall indicate in particular:
+
+(a) for each system, the role which should be assigned to the Authority, and any modifications or improvements which might be required to enable the Authority to carry out its mission, in cooperation with the Member States;
+
+(b) the shortcomings which should be remedied to enable the Authority to collect and summarise at Community level relevant scientific and technical data in the fields within its mission.
+
+6\. The Authority shall forward the results of its work in the field of data collection to the European Parliament, the Commission and the Member States.
+
+#### Article 34 — Identification of emerging risks
+
+1\. The Authority shall establish monitoring procedures for systematically searching for, collecting, collating and analysing information and data with a view to the identification of emerging risks in the fields within its mission.
+
+2\. Where the Authority has information leading it to suspect an emerging serious risk, it shall request additional information from the Member States, other Community agencies and the Commission. The Member States, the Community agencies concerned and the Commission shall reply as a matter of urgency and forward any relevant information in their possession.
+
+3\. The Authority shall use all the information it receives in the performance of its mission to identify an emerging risk.
+
+4\. The Authority shall forward the evaluation and information collected on emerging risks to the European Parliament, the Commission and the Member States.
+
+#### Article 35 — Rapid alert system
+
+To enable it to perform its task of monitoring the health and nutritional risks of foods as effectively as possible, the Authority shall be the recipient of any messages forwarded via the rapid alert system. It shall analyse the content of such messages with a view to providing the Commission and the Member States with any information required for the purposes of risk analysis.
+
+#### Article 36 — Networking of organisations operating in the fields within the Authority's mission
+
+1\. The Authority shall promote the European networking of organisations operating in the fields within the Authority's mission. The aim of such networking is, in particular, to facilitate a scientific cooperation framework by the coordination of activities, the exchange of information, the development and implementation of joint projects, the exchange of expertise and best practices in the fields within the Authority's mission.
+
+2\. The Management Board, acting on a proposal from the Executive Director, shall draw up a list to be made public of competent organisations designated by the Member States which may assist the Authority, either individually or in networks, with its mission. The Authority may entrust to these organisations certain tasks, in particular preparatory work for scientific opinions, scientific and technical assistance, collection of data and identification of emerging risks. Some of these tasks may be eligible for financial support.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 57a in order to supplement this Regulation by establishing the criteria for the inclusion of an institute on the list of competent organisations designated by the Member States, the arrangements for setting out harmonised quality requirements and the financial rules governing any financial support.
+
+Other implementing rules for the application of paragraphs 1 and 2 shall be laid down by the Commission, after consulting the Authority, in accordance with the regulatory procedure referred to in Article 58(2).
+
+4\. Within one year following the entry into force of this Regulation, the Commission shall publish an inventory of Community systems existing in the fields within the mission of the Authority which make provision for Member States to carry out certain tasks in the field of scientific evaluation, in particular the examination of authorisation dossiers. The report, which shall be accompanied, where appropriate, by proposals, shall indicate in particular, for each system, any modifications or improvements which might be required to enable the Authority to carry out its mission, in cooperation with the Member States.
+
+### SECTION 4 — INDEPENDENCE, TRANSPARENCY, CONFIDENTIALITY AND COMMUNICATION
+
+#### Article 37 — Independence
+
+1\. The members of the Management Board, the members of the Advisory Forum and the Executive Director shall undertake to act independently in the public interest.
+
+For this purpose, they shall make a declaration of commitment and a declaration of interests indicating either the absence of any interests which might be considered prejudicial to their independence or any direct or indirect interests which might be considered prejudicial to their independence. Those declarations shall be made annually in writing.
+
+2\. The members of the Scientific Committee and the Scientific Panels shall undertake to act independently of any external influence.
+
+For this purpose, they shall make a declaration of commitment and a declaration of interests indicating either the absence of any interests which might be considered prejudicial to their independence or any direct or indirect interests which might be considered prejudicial to their independence. Those declarations shall be made annually in writing.
+
+3\. The members of the Management Board, the Executive Director, the members of the Advisory Forum, the members of the Scientific Committee and the Scientific Panels, as well as external experts participating in their working groups shall declare at each meeting any interests which might be considered prejudicial to their independence in relation to the items on the agenda.
+
+#### Article 38 — Transparency
+
+1\. The Authority shall carry out its activities with a high level of transparency. It shall in particular make public:
+
+(a) agendas, participant lists and minutes of the Management Board, the Advisory Forum, the Scientific Committee and the Scientific Panels and their working groups;
+
+(b) all its scientific outputs, including the opinions of the Scientific Committee and the Scientific Panels after adoption, minority opinions and results of consultations performed during the risk assessment process always being included;
+
+(c) scientific data, studies and other information supporting applications, including supplementary information supplied by applicants, as well as other scientific data and information supporting requests from the European Parliament, the Commission and the Member States for a scientific output, including a scientific opinion, taking into account the protection of confidential information and the protection of personal data in accordance with Articles 39 to 39e;
+
+(d) the information on which its scientific outputs, including scientific opinions are based, taking into account the protection of confidential information and the protection of personal data in accordance with Articles 39 to 39e;
+
+(e) the annual declarations of interest made by the members of the Management Board, the Executive Director and the members of the Advisory Forum, the Scientific Committee and the Scientific Panels, as well as the members of the working groups, and the declarations of interest made in relation to items on the agendas of meetings;
+
+(f) its scientific studies in accordance with Articles 32 and 32d;
+
+(g) the annual report of its activities;
+
+(h) requests from the European Parliament, from the Commission or from a Member State for scientific opinions which have been refused or modified and the justifications for the refusal or modification;
+
+(i) a summary of the advice provided to potential applicants at pre-submission phase pursuant to Articles 32a and 32c.
+
+Information referred to in the first subparagraph shall be made public without delay, with the exception of the information referred to in point (c) thereof, as far as applications are concerned, and in point (i) thereof, which shall be made public without delay once an application has been considered valid or admissible.
+
+The information referred to in the second subparagraph shall be made public in a dedicated section of the Authority's website. That dedicated section shall be publicly available and easily accessible. That information shall be available to be downloaded, printed and searched through in an electronic format.
+
+1a. The disclosure of the information referred to in points (c), (d) and (i) of the first subparagraph of paragraph 1 to the public shall be without prejudice to:
+
+(a) any existing rules concerning intellectual property rights which set out limitations on certain uses of the disclosed documents or their content; and
+
+(b) any provisions set out in Union law protecting the investment made by innovators in gathering the information and data supporting relevant applications for authorisations (‘data exclusivity rules’).
+
+The disclosure to the public of the information referred to in point (c) of the first subparagraph of paragraph 1 shall not be considered to be explicit or implicit permission or licence for the relevant data and information and their content to be used, reproduced, or otherwise exploited in breach of any intellectual property right or data exclusivity rules, and the Union shall not be responsible for its use by third parties. The Authority shall ensure that clear undertakings or signed statements are given to that effect by those who access the relevant information prior to its disclosure.
+
+2\. The Management Board shall hold its meetings in public unless, acting on a proposal from the Executive Director, it decides otherwise for specific administrative points of its agenda, and may authorise consumer representatives or other interested parties to observe the proceedings of some of the Authority's activities.
+
+3\. The Authority shall lay down the practical arrangements for implementing the transparency rules referred to in paragraphs 1, 1a and 2 of this Article, taking into account Articles 39 to 39g and 41.
+
+#### Article 39 — Confidentiality
+
+1\. By way of derogation from Article 38, the Authority shall not make public any information for which confidential treatment has been requested under the conditions laid down in this Article.
+
+2\. Upon the request of an applicant, the Authority may grant confidential treatment only with respect to the following items of information where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+
+(a) the manufacturing or production process, including the method and innovative aspects thereof, as well as other technical and industrial specifications inherent to that process or method, except for information which is relevant to the assessment of safety;
+
+(b) commercial links between a producer or importer and the applicant or the authorisation holder, where applicable;
+
+(c) commercial information revealing sourcing, market shares or business strategy of the applicant; and
+
+(d) quantitative composition of the subject matter of the request, except for information which is relevant to the assessment of safety.
+
+3\. The list of information referred to in paragraph 2 shall be without prejudice to any sectoral Union law.
+
+4\. Notwithstanding paragraphs 2 and 3:
+
+(a) where urgent action is essential to protect human health, animal health or the environment, such as in emergency situations, the Authority may disclose the information referred to in paragraphs 2 and 3;
+
+(b) information which forms part of conclusions of scientific outputs, including scientific opinions, delivered by the Authority and which relate to foreseeable effects on human health, animal health or the environment, shall nevertheless be made public.
+
+#### Article 39a — Confidentiality request
+
+1\. When submitting an application, supporting scientific data and other supplementary information in accordance with Union law, the applicant may request certain parts of the information submitted to be treated as confidential in accordance with Article 39(2) and (3). Such request shall be accompanied by verifiable justification that demonstrates how making public the information concerned significantly harms the interests concerned in accordance with Article 39(2) and (3).
+
+2\. Where an applicant submits a confidentiality request, it shall provide a non-confidential version and a confidential version of the information submitted in accordance with standard data formats, where they exist, pursuant to Article 39f. The non-confidential version shall not include the information the applicant deems confidential on the basis of Article 39(2) and (3) and shall indicate the places where such information has been deleted. The confidential version shall contain all information submitted, including information the applicant deems confidential. Information requested to be treated as confidential in the confidential version shall be clearly marked. The applicant shall clearly indicate the grounds on the basis of which confidentiality is requested for the different pieces of information.
+
+#### Article 39b — Decision on confidentiality
+
+1\. The Authority shall:
+
+(a) make public the non-confidential version of the application as submitted by the applicant without delay once that application has been considered valid or admissible;
+
+(b) proceed, without delay, to a concrete and individual examination of the confidentiality request in accordance with this Article;
+
+(c) inform the applicant in writing of its intention to disclose information and the reasons for that, before the Authority formally takes a decision on the confidentiality request. If the applicant disagrees with the assessment of the Authority, the applicant may state its views or withdraw its application within two weeks of the date on which it was notified of the Authority's position;
+
+(d) adopt a reasoned decision on the confidentiality request, taking into account the observations of the applicant, within 10 weeks of the date of receipt of the confidentiality request with respect to applications and without delay in the case of supplementary data and information; notify the applicant of its decision and provide information on the right to submit a confirmatory application in accordance with paragraph 2; and inform the Commission and the Member States, where appropriate, of its decision; and
+
+(e) make public any additional data and information for which the confidentiality request has not been accepted as justified at the earliest two weeks after the notification of its decision to the applicant has taken place pursuant to point (d).
+
+2\. Within two weeks of the notification of the Authority's decision on the confidentiality request to the applicant pursuant to paragraph 1, the applicant may submit a confirmatory application asking the Authority to reconsider its decision. The confirmatory application shall have suspensive effect. The Authority shall examine the grounds for the confirmatory application and shall adopt a reasoned decision on that confirmatory application. It shall notify the applicant of that decision within three weeks of submitting the confirmatory application and shall include in that notification information on the available remedies, namely an action before the Court of Justice of the European Union (the ‘Court of Justice’) against the Authority pursuant to paragraph 3. The Authority shall make public any additional data and information for which the confidentiality request has not been accepted by the Authority as justified, at the earliest two weeks after the notification of the Authority's reasoned decision on the confirmatory application to the applicant has taken place pursuant to this paragraph.
+
+3\. Decisions taken by the Authority pursuant to this Article may be subject to an action before the Court of Justice, under the conditions laid down in Articles 263 and 278 of the Treaty on the Functioning of the European Union (TFEU) respectively.
+
+#### Article 39c — Review of confidentiality
+
+Before the Authority issues its scientific outputs, including scientific opinions, it shall review whether information that has been previously accepted as confidential may nevertheless be made public in accordance with point (b) of Article 39(4). Should that be the case, the Authority shall follow the procedure laid down in Article 39b, which shall apply mutatis mutandis.
+
+#### Article 39d — Obligations with regard to confidentiality
+
+1\. The Authority shall make available, upon request, to the Commission and the Member States all information in its possession relating to an application or to a request by the European Parliament, by the Commission or by the Member States for a scientific output, including a scientific opinion, unless otherwise indicated in Union law.
+
+2\. The Commission and the Member States shall take the necessary measures so that information received by them under Union law for which confidential treatment has been requested is not made public until a decision on the confidentiality request has been taken by the Authority and has become final. The Commission and the Member States shall also take the necessary measures so that information for which confidential treatment has been accepted by the Authority is not made public.
+
+3\. If an applicant withdraws or has withdrawn an application, the Authority, the Commission and the Member States shall respect the confidentiality of information as granted by the Authority in accordance with Articles 39 to 39e. The application shall be considered withdrawn as of the moment the written request to that effect is received by the competent body that had received the original application. Where the withdrawal of the application takes place before a final decision on the confidentiality request has been adopted by the Authority pursuant to, where appropriate, Article 39b(1) or (2), the Commission, the Member States and the Authority, shall not make public the information for which confidentiality has been requested.
+
+4\. Members of the Management Board, the Executive Director, members of the Scientific Committee and Scientific Panels as well as external experts participating in their working groups, members of the Advisory Forum and members of the staff of the Authority, even after their duties have ceased, shall be subject to the requirements of the obligation of professional secrecy pursuant to Article 339 TFEU.
+
+5\. The Authority shall lay down in consultation with the Commission the practical arrangements for implementing the confidentiality rules laid down in Articles 39, 39a, 39b, 39e and in this Article, including arrangements concerning the submission and treatment of confidentiality requests with respect to information to be made public under Article 38, and taking into account Articles 39f and 39g. As regards Article 39b(2), the Authority shall ensure that appropriate separation of tasks is applied for the assessment of confirmatory applications.
+
+#### Article 39e — Protection of personal data
+
+1\. With respect to requests for scientific outputs, including scientific opinions under Union law, the Authority shall always make public:
+
+(a) the name and address of the applicant;
+
+(b) the names of authors of published or publicly available studies supporting such requests; and
+
+(c) the names of all participants and observers in meetings of the Scientific Committee and the Scientific Panels, their working groups and any other ad hoc group meeting on the subject matter.
+
+2\. Notwithstanding paragraph 1, disclosure of names and addresses of natural persons involved in testing on vertebrate animals or in obtaining toxicological information shall be deemed to significantly harm the privacy and the integrity of those natural persons and shall not be made publicly available unless otherwise specified in Regulations (EU) 2016/679 ( 9 ) and (EU) 2018/1725 ( 10 ) of the European Parliament and of the Council.
+
+3\. Regulations (EU) 2016/679 and (EU) 2018/1725 shall apply to the processing of personal data carried out pursuant to this Regulation. Any personal data made public pursuant to Article 38 of this Regulation and this Article shall only be used to ensure the transparency of the risk assessment under this Regulation and shall not be further processed in a manner that is incompatible with these purposes, in accordance with point (b) of Article 5(1) of Regulation (EU) 2016/679 and point (b) of Article 4(1) of Regulation (EU) 2018/1725, as the case may be.
+
+#### Article 39f — Standard data formats
+
+1\. For the purposes of point (c) of Article 38(1) and in order to ensure the efficient processing of requests to the Authority for a scientific output, standard data formats shall be adopted in accordance with paragraph 2 of this Article to allow documents to be submitted, searched, copied and printed, while ensuring compliance with regulatory requirements set out in Union law. Those standard data formats shall:
+
+(a) not be based on proprietary standards;
+
+(b) ensure interoperability with existing data submission approaches to the extent possible;
+
+(c) be user-friendly and adapted for the use by small and medium-sized enterprises.
+
+2\. For the adoption of standard data formats referred to in paragraph 1, the following procedure shall be followed:
+
+(a) the Authority shall draw up draft standard data formats for the purposes of the different authorisation procedures and relevant requests for a scientific output by the European Parliament, by the Commission and by the Member States;
+
+(b) the Commission shall, taking into account the applicable requirements in the different authorisation procedures and other legal frameworks and following any necessary adaptations, adopt, by means of implementing acts, standard data formats. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 58(2);
+
+(c) the Authority shall make the standard data formats, as adopted, available on its website;
+
+(d) where standard data formats have been adopted pursuant to this Article, applications as well as requests for a scientific output, including a scientific opinion by the European Parliament, by the Commission and by the Member States, shall only be submitted in accordance with those standard data formats.
+
+#### Article 39g — Information systems
+
+The information systems operated by the Authority to store its data, including confidential and personal data shall be designed in a way that guarantees that any access to it is fully auditable and that the highest standards of security appropriate to the security risks at stake are attained, taking into account Articles 39 to 39f.
+
+#### Article 40 — Communications from the Authority
+
+1\. The Authority shall communicate on its own initiative in the fields within its mission without prejudice to the Commission's competence to communicate its risk management decisions.
+
+2\. The Authority shall ensure that the public and any interested parties are rapidly given objective, reliable and easily accessible information, in particular with regard to the results of its work. In order to achieve these objectives, the Authority shall develop and disseminate information material for the general public.
+
+3\. The Authority shall act in close collaboration with the Commission and the Member States to promote the necessary coherence in the risk communication process.
+
+The Authority shall make public all scientific outputs including the scientific opinions issued by it and supporting scientific data and other information in accordance with Articles 38 to 39e.
+
+4\. The Authority shall ensure appropriate cooperation with the competent bodies in the Member States and other interested parties with regard to public information campaigns.
+
+#### Article 41 — Access to documents
+
+1\. Notwithstanding the rules on confidentiality provided for in Articles 39 to 39d of this Regulation, Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 11 ) shall apply to documents held by the Authority.
+
+Where environmental information is concerned, Regulation (EC) No 1367/2006 of the European Parliament and of the Council ( 12 ) shall also apply. Directive 2003/4/EC of the European Parliament and of the Council ( 13 ) shall apply to environmental information held by Member States, notwithstanding the rules on confidentiality provided for in Articles 39 to 39d of this Regulation.
+
+2\. The Management Board shall adopt the practical arrangements for implementing Regulation (EC) No 1049/2001 and Articles 6 and 7 of Regulation (EC) No 1367/2006 by 27 March 2020, ensuring as wide access as possible to documents in its possession.
+
+3\. Decisions taken by the Authority pursuant to Article 8 of Regulation (EC) No 1049/2001 may form the subject of a complaint to the Ombudsman or of an action before the Court of Justice, under the conditions laid down in Articles 195 and 230 of the EC Treaty respectively.
+
+#### Article 42 — Consumers, producers and other interested parties
+
+The Authority shall develop effective contacts with consumer representatives, producer representatives, processors and any other interested parties.
+
+### SECTION 5 — FINANCIAL PROVISIONS
+
+#### Article 43 — Adoption of the Authority's budget
+
+1\. The revenues of the Authority shall consist of a contribution from the Community and, from any State with which the Community has concluded the agreements referred to in Article 49, and charges for publications, conferences, training and any other similar activities provided by the Authority.
+
+2\. The expenditure of the Authority shall include the staff, administrative, infrastructure and operational expenses, and expenses resulting from contracts entered into with third parties or resulting from the financial support referred to in Article 36.
+
+3\. The Executive Director shall draw up, in good time before the date referred to in paragraph 5, a draft statement of estimates of the Authority's revenue and expenditure for the following financial year and shall forward it to the Management Board, together with the establishment plan.
+
+4\. Revenue and expenditure shall be in balance.
+
+5\. Each year the Management Board, on the basis of a draft statement of estimates of revenue and expenditure, shall produce a statement of estimates of revenue and expenditure of the Authority for the following financial year. This statement of estimates, which shall include a draft establishment plan together with the provisional work programmes, shall be forwarded by 31 March at the latest by the Management Board to the Commission and to the countries with which the Community has concluded agreements in accordance with Article 49.
+
+6\. The statement of estimates shall be forwarded by the Commission to the European Parliament and the Council (hereinafter referred to as the budgetary authority) together with the preliminary draft general budget of the European Union.
+
+7\. On the basis of the statement of estimates, the Commission shall enter in the preliminary draft general budget of the European Union the estimates it deems necessary for the establishment plan and the amount of the subsidy to be charged to the general budget, which it shall place before the budgetary authority in accordance with Article 272 of the Treaty.
+
+8\. The budgetary authority shall authorise the appropriations for the subsidy to the Authority.
+
+The budgetary authority shall adopt the establishment plan for the Authority.
+
+9\. The budget shall be adopted by the Management Board. It shall become final following final adoption of the general budget of the European Union. Where appropriate, it shall be adjusted accordingly.
+
+10\. The Management Board shall, as soon as possible, notify the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of the budget, in particular any projects relating to property such as the rental or purchase of buildings. It shall inform the Commission thereof.
+
+Where a branch of the budgetary authority has notified its intention to deliver an opinion, it shall forward its opinion to the Management Board within a period of six weeks from the date of notification of the project.
+
+#### Article 44 — Implementation of the Authority's budget
+
+1\. The Executive Director shall implement the Authority's budget.
+
+2\. By 1 March at the latest following each financial year, the Authority's accounting officer shall communicate the provisional accounts to the Commission's accounting officer together with a report on the budgetary and financial management for that financial year. The Commission's accounting officer shall consolidate the provisional accounts of the institutions and decentralised bodies in accordance with Article 128 of the general Financial Regulation.
+
+3\. By 31 March at the latest following each financial year, the Commission's accounting officer shall forward the Authority's provisional accounts to the Court of Auditors, together with a report on the budgetary and financial management for that financial year. The report on the budgetary and financial management for the financial year shall also be forwarded to the European Parliament and the Council.
+
+4\. On receipt of the Court of Auditors' observations on the Authority's provisional accounts under Article 129 of the general Financial Regulation, the Executive Director shall draw up the Authority's final accounts under his own responsibility and submit them to the Management Board for an opinion.
+
+5\. The Management Board shall deliver an opinion on the Authority's final accounts.
+
+6\. The Executive Director shall, by 1 July at the latest following each financial year, forward the final accounts to the European Parliament, the Council, the Commission and the Court of Auditors, together with the Management Board's opinion.
+
+7\. The final accounts shall be published.
+
+8\. The Executive Director shall send the Court of Auditors a reply to its observations by 30 September at the latest. He shall also send this reply to the Management Board.
+
+9\. The Executive Director shall submit to the European Parliament, at the latter's request, all information necessary for the smooth application of the discharge procedure for the financial year in question, as laid down in Article 146(3) of the general Financial Regulation.
+
+10\. The European Parliament, on a recommendation from the Council acting by a qualified majority, shall, before 30 April of year N + 2, give a discharge to the Executive Director in respect of the implementation of the budget for year N.
+
+#### Article 45 — Fees received by the Authority
+
+Within three years following the date of entry into force of this Regulation and after consulting the Authority, the Member States and the interested parties, the Commission shall publish a report on the feasibility and advisability of presenting a legislative proposal under the co-decision procedure and in accordance with the Treaty and for other services provided by the Authority.
+
+### SECTION 6 — GENERAL PROVISIONS
+
+#### Article 46 — Legal personality and privileges
+
+1\. The Authority shall have legal personality. In all Member States it shall enjoy the widest powers granted by law to legal persons. In particular, it may acquire and dispose of movable and immovable property and institute legal proceedings.
+
+2\. The Protocol on the privileges and immunities of the European Communities shall apply to the Authority.
+
+#### Article 47 — Liability
+
+1\. The contractual liability of the Authority shall be governed by the law applicable to the contract in question. The Court of Justice of the European Communities shall have jurisdiction to give judgment pursuant to any arbitration clause contained in a contract concluded by the Authority.
+
+2\. In the case of non-contractual liability, the Authority shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by it or its servants in the performance of their duties. The Court of Justice shall have jurisdiction in any dispute relating to compensation for such damage.
+
+3\. The personal liability of its servants towards the Authority shall be governed by the relevant provisions applying to the staff of the Authority.
+
+#### Article 48 — Staff
+
+1\. The staff of the Authority shall be subject to the rules and regulations applicable to officials and other staff of the European Communities.
+
+2\. In respect of its staff, the Authority shall exercise the powers which have been devolved to the appointing authority.
+
+#### Article 49 — Participation of third countries
+
+The Authority shall be open to the participation of countries which have concluded agreements with the European Community by virtue of which they have adopted and apply Community legislation in the field covered by this Regulation.
+
+Arrangements shall be made under the relevant provisions of those agreements, specifying in particular the nature, extent and manner in which these countries will participate in the Authority's work, including provisions relating to participation in the networks operated by the Authority, inclusion in the list of competent organisations to which certain tasks may be entrusted by the Authority, financial contributions and staff.
+
+## CHAPTER IV — RAPID ALERT SYSTEM, CRISIS MANAGEMENT AND EMERGENCIES
+
+### SECTION 1 — RAPID ALERT SYSTEM
+
+#### Article 50 — Rapid alert system
+
+1\. A rapid alert system for the notification of a direct or indirect risk to human health deriving from food or feed is hereby established as a network. It shall involve the Member States, the Commission and the Authority. The Member States, the Commission and the Authority shall each designate a contact point, which shall be a member of the network. The Commission shall be responsible for managing the network.
+
+2\. Where a member of the network has any information relating to the existence of a serious direct or indirect risk to human health deriving from food or feed, this information shall be immediately notified to the Commission under the rapid alert system. The Commission shall transmit this information immediately to the members of the network.
+
+The Authority may supplement the notification with any scientific or technical information, which will facilitate rapid, appropriate risk management action by the Member States.
+
+3\. Without prejudice to other Community legislation, the Member States shall immediately notify the Commission under the rapid alert system of:
+
+(a) any measure they adopt which is aimed at restricting the placing on the market or forcing the withdrawal from the market or the recall of food or feed in order to protect human health and requiring rapid action;
+
+(b) any recommendation or agreement with professional operators which is aimed, on a voluntary or obligatory basis, at preventing, limiting or imposing specific conditions on the placing on the market or the eventual use of food or feed on account of a serious risk to human health requiring rapid action;
+
+(c) any rejection, related to a direct or indirect risk to human health, of a batch, container or cargo of food or feed by a competent authority at a border post within the European Union.
+
+The notification shall be accompanied by a detailed explanation of the reasons for the action taken by the competent authorities of the Member State in which the notification was issued. It shall be followed, in good time, by supplementary information, in particular where the measures on which the notification is based are modified or withdrawn.
+
+The Commission shall immediately transmit to members of the network the notification and supplementary information received under the first and second subparagraphs.
+
+Where a batch, container or cargo is rejected by a competent authority at a border post within the European Union, the Commission shall immediately notify all the border posts within the European Union, as well as the third country of origin.
+
+4\. Where a food or feed which has been the subject of a notification under the rapid alert system has been dispatched to a third country, the Commission shall provide the latter with the appropriate information.
+
+5\. The Member States shall immediately inform the Commission of the action implemented or measures taken following receipt of the notifications and supplementary information transmitted under the rapid alert system. The Commission shall immediately transmit this information to the members of the network.
+
+6\. Participation in the rapid alert system may be opened up to applicant countries, third countries or international organisations, on the basis of agreements between the Community and those countries or international organisations, in accordance with the procedures defined in those agreements. The latter shall be based on reciprocity and shall include confidentiality measures equivalent to those applicable in the Community.
+
+#### Article 51 — Implementing measures
+
+The measures for implementing Article 50 shall be adopted by the Commission, after discussion with the Authority, in accordance with the procedure referred to in Article 58(2). These measures shall specify, in particular, the specific conditions and procedures applicable to the transmission of notifications and supplementary information.
+
+#### Article 52 — Confidentiality rules for the rapid alert system
+
+1\. Information, available to the members of the network, relating to a risk to human health posed by food and feed shall in general be available to the public in accordance with the information principle provided for in Article 10. In general, the public shall have access to information on product identification, the nature of the risk and the measure taken.
+
+However, the members of the network shall take steps to ensure that members of their staff are required not to disclose information obtained for the purposes of this Section which by its nature is covered by professional secrecy in duly justified cases, except for information which must be made public, if circumstances so require, in order to protect human health.
+
+2\. Protection of professional secrecy shall not prevent the dissemination to the competent authorities of information relevant to the effectiveness of market surveillance and enforcement activities in the field of food and feed. The authorities receiving information covered by professional secrecy shall ensure its protection in conformity with paragraph 1.
+
+### SECTION 2 — EMERGENCIES
+
+#### Article 53 — Emergency measures for food and feed of Community origin or imported from a third country
+
+1\. Where it is evident that food or feed originating in the Community or imported from a third country is likely to constitute a serious risk to human health, animal health or the environment, and that such risk cannot be contained satisfactorily by means of measures taken by the Member State(s) concerned, the Commission, acting in accordance with the procedure provided for in Article 58(2) on its own initiative or at the request of a Member State, shall immediately adopt one or more of the following measures, depending on the gravity of the situation:
+
+(a) in the case of food or feed of Community origin:
+
+(i) suspension of the placing on the market or use of the food in question;
+
+(ii) suspension of the placing on the market or use of the feed in question;
+
+(iii) laying down special conditions for the food or feed in question;
+
+(iv) any other appropriate interim measure;
+
+(b) in the case of food or feed imported from a third country:
+
+(i) suspension of imports of the food or feed in question from all or part of the third country concerned and, where applicable, from the third country of transit;
+
+(ii) laying down special conditions for the food or feed in question from all or part of the third country concerned;
+
+(iii) any other appropriate interim measure.
+
+2\. However, in eMERGENCIES, the Commission may provisionally adopt the measures referred to in paragraph 1 after consulting the Member State(s) concerned and informing the other Member States.
+
+As soon as possible, and at most within 10 working days, the measures taken shall be confirmed, amended, revoked or extended in accordance with the procedure referred to in Article 58(2), and the reasons for the Commission's decision shall be made public without delay.
+
+#### Article 54 — Other emergency measures
+
+1\. Where a Member State officially informs the Commission of the need to take emergency measures, and where the Commission has not acted in accordance with Article 53, the Member State may adopt interim protective measures. In this event, it shall immediately inform the other Member States and the Commission.
+
+2\. Within 10 working days, the Commission shall put the matter before the Committee set up in Article 58(1) in accordance with the procedure provided for in Article 58(2) with a view to the extension, amendment or abrogation of the national interim protective measures.
+
+3\. The Member State may maintain its national interim protective measures until the Community measures have been adopted.
+
+### SECTION 3 — CRISIS MANAGEMENT
+
+#### Article 55 — General plan for crisis management
+
+1\. The Commission shall draw up, in close cooperation with the Authority and the Member States, a general plan for crisis management in the field of the safety of food and feed (hereinafter referred to as ‘the general plan’).
+
+2\. The general plan shall specify the types of situation involving direct or indirect risks to human health deriving from food and feed which are not likely to be prevented, eliminated or reduced to an acceptable level by provisions in place or cannot adequately be managed solely by way of the application of Articles 53 and 54.
+
+The general plan shall also specify the practical procedures necessary to manage a crisis, including the principles of transparency to be applied and a communication strategy.
+
+#### Article 56 — Crisis unit
+
+1\. Without prejudice to its role of ensuring the application of Community law, where the Commission identifies a situation involving a serious direct or indirect risk to human health deriving from food and feed, and the risk cannot be prevented, eliminated or reduced by existing provisions or cannot adequately be managed solely by way of the application of Articles 53 and 54, it shall immediately notify the Member States and the Authority.
+
+2\. The Commission shall set up a crisis unit immediately, in which the Authority shall participate, and provide scientific and technical assistance if necessary.
+
+#### Article 57 — Tasks of the crisis unit
+
+1\. The crisis unit shall be responsible for collecting and evaluating all relevant information and identifying the options available to prevent, eliminate or reduce to an acceptable level the risk to human health as effectively and rapidly as possible.
+
+2\. The crisis unit may request the assistance of any public or private person whose expertise it deems necessary to manage the crisis effectively.
+
+3\. The crisis unit shall keep the public informed of the risks involved and the measures taken.
+
+## CHAPTER V — PROCEDURES AND FINAL PROVISIONS
+
+### SECTION 1 — EXERCISE OF THE DELEGATION, COMMITTEE AND MEDIATION PROCEDURES
+
+#### Article 57a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred upon the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 28(4), Article 29(6) and Article 36(3) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 28(4), Article 29(6) and Article 36(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 14 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 28(4), Article 29(6) and Article 36(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 58 — Committee
+
+1\. The Commission shall be assisted by a Standing Committee on Plants, Animals, Food and Feed, hereinafter referred to as the ‘Committee’. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 15 ). The Committee shall be organised in sections to deal with all relevant matters.
+
+All references in Union law to the Standing Committee on the Food Chain and Animal Health shall be construed as references to the Committee referred to in the first subparagraph.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+#### Article 59 — Functions assigned to the Committee
+
+The Committee shall carry out the functions assigned to it by this Regulation and by other relevant Community provisions, in the cases and conditions provided for in those provisions. It may also examine any issue falling under those provisions, either at the initiative of the Chairman or at the written request of one of its members.
+
+#### Article 60 — Mediation procedure
+
+1\. Without prejudice to the application of other Community provisions, where a Member State is of the opinion that a measure taken by another Member State in the field of food safety is either incompatible with this Regulation or is likely to affect the functioning of the internal market, it shall refer the matter to the Commission, which will immediately inform the other Member State concerned.
+
+2\. The two Member States concerned and the Commission shall make every effort to solve the problem. If agreement cannot be reached, the Commission may request an opinion on any relevant contentious scientific issue from the Authority. The terms of that request and the time limit within which the Authority is requested to give its opinion shall be established by mutual agreement between the Commission and the Authority, after consulting the two Member States concerned.
+
+### SECTION 2 — FINAL PROVISIONS
+
+#### Article 61 — Review clause
+
+1\. The Commission shall ensure the regular review of the application of this Regulation.
+
+2\. By 28 March 2026, and every five years thereafter, the Commission shall evaluate the Authority's performance in relation to its objectives, mandate, tasks, procedures and location, in accordance with Commission guidelines. That evaluation shall also cover the impact of Article 32a on the functioning of the Authority with particular attention to the relevant workload and mobilisation of staff, and to any shifts in the allocation of the Authority's resources that may have taken place, at the expense of activities of public interest. That evaluation shall address the possible need to modify the mandate of the Authority, and the financial implications of any such modification.
+
+3\. In the evaluation referred to in paragraph 2, the Commission shall also evaluate whether the organisational framework of the Authority needs to be further updated with regard to decisions on requests for confidentiality and confirmatory applications, namely by setting up a specific Board of Appeal or by other appropriate means.
+
+4\. Where the Commission considers that the continued operation of the Authority is no longer justified with regard to its assigned objectives, mandate and tasks, it may propose that the relevant provisions of this Regulation be amended accordingly or repealed.
+
+5\. The Commission shall report to the European Parliament, to the Council and to the Management Board on the findings of its reviews and evaluations under this Article. Those findings shall be made public.
+
+#### Article 61a — Fact-finding missions
+
+Commission experts shall perform fact-finding missions in Member States to assess the application, by laboratories and by other testing facilities, of the relevant standards for carrying out tests and studies submitted to the Authority as part of an application, as well as compliance with the notification obligation set out in Article 32b(3), by 28 March 2025. By that date, Commission experts shall also perform fact-finding missions to assess the application of those standards by laboratories and other testing facilities located in third countries insofar as set out in relevant agreements and arrangements with those third countries, including as referred to in Article 49.
+
+Non-compliance identified during those fact-finding missions shall be brought to the attention of the Commission, Member States, the Authority as well as the assessed laboratories and other testing facilities. The Commission, the Authority and Member States shall ensure the appropriate follow-up to such identified non-compliance.
+
+The outcome of these fact-finding missions shall be presented in an overview report. On the basis of that report, the Commission shall submit a legislative proposal, if appropriate, as regards, in particular, any necessary control procedures, including audits.
+
+#### Article 62 — References to the European Food Safety Authority and to the Standing Committee on the Food Chain and Animal Health
+
+1\. Every reference in Community legislation to the Scientific Committee on Food, the Scientific Committee on Animal Nutrition, the Scientific Veterinary Committee, the Scientific Committee on Pesticides, the Scientific Committee on Plants and the Scientific Steering Committee shall be replaced by a reference to the European Food Safety Authority.
+
+2\. Every reference in Community legislation to the Standing Committee on Foodstuffs, the Standing Committee for Feedingstuffs and the Standing Veterinary Committee shall be replaced by a reference to the Standing Committee on the Food Chain and Animal Health.
+
+Every reference to the Standing Committee on Plant Health in Community legislation based upon and including Directives 76/895/EEC, 86/362/EEC, 86/363/EEC, 90/642/EEC and 91/414/EEC relating to plant protection products and the setting of maximum residue levels shall be replaced by a reference to the Standing Committee on the Food Chain and Animal Health.
+
+3\. For the purpose of paragraphs 1 and 2, ‘Community legislation’ shall mean all Community Regulations, Directives and Decisions.
+
+4\. Decisions 68/361/EEC, 69/414/EEC and 70/372/EEC are hereby repealed.
+
+#### Article 63 — Competence of the European Agency for the Evaluation of Medicinal Products
+
+This Regulation shall be without prejudice to the competence conferred on the European Agency for the Evaluation of Medicinal Products by Regulation (EEC) No 2309/93, Regulation (EEC) No 2377/90, Council Directive 75/319/EEC ( 16 ) and Council Directive 81/851/EEC ( 17 ).
+
+#### Article 64 — Commencement of the Authority's operation
+
+The Authority shall commence its operations on 1 January 2002.
+
+#### Article 65 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.
+
+Articles 11 and 12 and Articles 14 to 20 shall apply from 1 January 2005.
+
+Articles 29, 56, 57 and 60 and Article 62(1) shall apply as from the date of appointment of the members of the Scientific Committee and of the Scientific Panels which shall be announced by means of a notice in the ‘C’ series of the Official Journal.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ 22, 9.2.1965, p. 369. Directive as last amended by Directive 93/39/EEC (OJ L 214, 24.8.1993, p. 22).
+
+( 2 ) OJ L 297, 13.10.1992, p. 8.
+
+( 3 ) OJ L 262, 27.9.1976, p. 169. Directive as last amended by Commission Directive 2000/41/EC (OJ L 145, 20.6.2000, p. 25).
+
+( 4 ) OJ L 359, 8.12.1989, p. 1. Directive as last amended by Directive 92/41/EEC) (OJ L 158, 11.6.1992, p. 30).
+
+( 5 ) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+
+( 6 ) OJ L 210, 7.8.1985, p. 29. Directive as last amended by Directive 1999/34/EC of the European Parliament and of the Council (OJ L 141, 4.6.1999, p. 20).
+
+( 7 ) OJ L 357, 31.12.2002, p. 72; corrigendum in OJ L 2, 7.1.2003, p. 39.
+
+( 8 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1, ELI: http://data.europa.eu/eli/reg/2008/1272/oj).
+
+( 9 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 10 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 11 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 12 ) Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies (OJ L 264, 25.9.2006, p. 13).
+
+( 13 ) Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.2.2003, p. 26).
+
+( 14 ) OJ L 123, 12.5.2016, p. 1.
+
+( 15 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 16 ) OJ L 147, 9.6.1975, p. 13. Directive amended by Directive 2001/83/EC of the European Parliament and of the Council (OJ L 311, 28.11.2001, p. 67).
+
+( 17 ) OJ L 317, 6.11.1981, p. 1. Directive amended by Directive 2001/82/EC of the European Parliament and of the Council (OJ L 311, 28.11.2001, p. 1).

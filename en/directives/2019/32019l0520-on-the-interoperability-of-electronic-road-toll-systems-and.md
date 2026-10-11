@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/362 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2022 </td><td> L 69</td><td>1</td><td>4.3.2022</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2019/520 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -636,6 +638,7 @@ This Directive is addressed to the Member States.
 
 **Data elements necessary to conduct the automated search referred to in Article 23(1)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks</td></tr>
 <tr><td>Data relating to the vehicle</td><td>M</td><td>  </td></tr>
 <tr><td>Member State of registration</td><td>M</td><td>  </td></tr>
@@ -646,11 +649,13 @@ This Directive is addressed to the Member States.
 <tr><td>Reference time of the occurrence</td><td>M</td><td>  </td></tr>
 <tr><td colspan="3">(1)  M = mandatory when available in national register, O = optional.  (2)  Harmonised Union code, see Council Directive 1999/37/EC of 29 April 1999 on the registration documents for vehicles (OJ L 138, 1.6.1999, p. 57). </td></tr>
 </tbody>
+</table>
 
 **Data elements provided as a result of the automated search conducted pursuant to Article 23(1)**
 
 **Part I. Data relating to vehicles**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks</td></tr>
 <tr><td>Registration number</td><td>M</td><td>  </td></tr>
 <tr><td>Chassis number/Vehicle identification number (VIN)</td><td>M</td><td>  </td></tr>
@@ -665,9 +670,11 @@ This Directive is addressed to the Member States.
 <tr><td>Technically permissible maximum laden mass of the vehicle</td><td>M</td><td>  </td></tr>
 <tr><td colspan="3">(1)  M = mandatory when available in national register, O = optional.  (2)  Harmonised Union code, see Directive 1999/37/EC. </td></tr>
 </tbody>
+</table>
 
 **Part II. Data relating to owners or holders of the vehicles**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks</td></tr>
 <tr><td>Data relating to holders of the vehicle</td><td>  </td><td>(C.1 (2)) The data refer to the holder of the specific registration certificate. </td></tr>
 <tr><td>Registration holders' (company) name</td><td>M</td><td>(C.1.1) Separate fields shall be used for surname, infixes, titles, etc., and the name in printable format shall be communicated. </td></tr>
@@ -690,6 +697,7 @@ This Directive is addressed to the Member States.
 <tr><td>  </td><td>  </td><td>In case of scrap vehicles, stolen vehicles or number plates, or outdated vehicle registration no owner/holder information shall be provided. Instead, the message ‘Information not disclosed’ shall be returned.</td></tr>
 <tr><td colspan="3">(1)  M = mandatory when available in national register, O = optional.  (2)  Harmonised Union code, see Directive 1999/37/EC. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 

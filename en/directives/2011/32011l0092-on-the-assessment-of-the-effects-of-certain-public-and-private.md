@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/52/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 </td><td> L 124</td><td>1</td><td>25.4.2014</td></tr>
+</table>
 
 **DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

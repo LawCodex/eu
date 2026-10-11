@@ -146,6 +146,7 @@ http://www.efsa.europa.eu/cs/BlobServer/Scientific_Opinion/contam_op_ej716_dicla
 
 The following points are added in Annex I to Directive 2002/32/EC:
 
+<table>
 <tbody><tr><td>‘Undesirable substances</td><td>Products intended for animal feed (*1)</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td rowspan="6"><table><tbody><tr><td>1.</td><td>Lasalocid sodium</td></tr>
 </tbody>
@@ -346,6 +347,7 @@ The following points are added in Annex I to Directive 2002/32/EC:
 </td><td>0,03 </td></tr>
 <tr><td>Premixtures for use in feed in which the use of diclazuril is not authorised.</td><td> (*2)</td></tr>
 </tbody>
+</table>
 
 (*1) Without prejudice to the authorised levels in the frame of Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition.
 

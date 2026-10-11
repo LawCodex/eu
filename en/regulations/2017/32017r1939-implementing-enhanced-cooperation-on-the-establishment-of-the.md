@@ -1,0 +1,1875 @@
+---
+title: "Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)"
+identifier: "32017R1939"
+eli: "http://data.europa.eu/eli/reg/2017/1939/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-10-12
+entry_into_force: 2017-11-15
+last_amended: 2021-01-10
+consolidated_version: "02017R1939-20210110"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1939-20210110"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+
+**COUNCIL REGULATION (EU) 2017/1939**
+
+**of 12 October 2017**
+
+**implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/2153 of 14 October 2020 </td><td> L 431</td><td>1</td><td>21.12.2020</td></tr>
+</table>
+
+C1
+
+**COUNCIL REGULATION (EU) 2017/1939**
+
+**of 12 October 2017**
+
+**implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+#### Article 1 — Subject matter
+
+This Regulation establishes the European Public Prosecutor’s Office (‘the EPPO’) and sets out rules concerning its functioning.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘Member State’ means, except where otherwise indicated, in particular in Chapter VIII, a Member State which participates in enhanced cooperation on the establishment of the EPPO, as deemed to be authorised in accordance with the third subparagraph of Article 86(1) TFEU, or by virtue of a decision adopted in accordance with the second or third subparagraph of Article 331(1) TFEU;
+
+(2) ‘person’ means any natural or legal person;
+
+(3) ‘financial interests of the Union’ means all revenues, expenditures and assets covered by, acquired through, or due to the Union budget and the budgets of the institutions, bodies, offices and agencies established under the Treaties and budgets managed and monitored by them;
+
+(4) ‘staff of the EPPO’ means the personnel at the central level who supports the College, the Permanent Chambers, the European Chief Prosecutor, the European Prosecutors, the European Delegated Prosecutors and the Administrative Director in the day-to-day activities in the performance of the tasks of this Office under this Regulation;
+
+(5) ‘handling European Delegated Prosecutor’ means a European Delegated Prosecutor responsible for the investigations and prosecutions, which he/she has initiated, which have been allocated to him/her or which he/she has taken over using the right of evocation according to Article 27;
+
+(6) ‘assisting European Delegated Prosecutor’ means a European Delegated Prosecutor located in a Member State, other than the Member State of the handling European Delegated Prosecutor, where an investigation or other measure assigned to him/her is to be carried out;
+
+(7) ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+
+(8) ‘processing’ means any operation or set of operations which are performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
+
+(9) ‘restriction of processing’ means the marking of stored personal data with the aim of limiting their processing in the future;
+
+(10) ‘profiling’ means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
+
+(11) ‘pseudonymisation’ means the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person;
+
+(12) ‘filing system’ means any structured set of personal data which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis;
+
+(13) ‘controller’ means the EPPO or another competent authority which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union law or the law of a Member State of the European Union, the controller or the specific criteria for its nomination may be provided for by Union law or the law of a Member State of the European Union;
+
+(14) ‘processor’ means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;
+
+(15) ‘recipient’ means a natural or legal person, public authority, agency or any other body to which the personal data are disclosed, whether a third party or not. However, Member States of the European Unions’ public authorities other than competent authorities defined in point 7(a) of Article 3 of Directive (EU) 2016/680, which receive personal data in the framework of a particular inquiry of the EPPO shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing;
+
+(16) ‘personal data breach’ means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;
+
+(17) ‘administrative personal data’ means all personal data processed by the EPPO apart from operational personal data;
+
+(18) ‘operational personal data’ means all personal data processed by the EPPO for the purposes laid down in Article 49;
+
+(19) ‘genetic data’ means personal data relating to the inherited or acquired genetic characteristics of a natural person which give unique information about the physiology or the health of that natural person and which result, in particular, from an analysis of a biological sample from the natural person in question;
+
+(20) ‘biometric data’ means personal data resulting from specific technical processing relating to the physical, physiological or behavioural characteristics of a natural person, which allow or confirm the unique identification of that natural person, such as facial images or dactyloscopic data;
+
+(21) ‘data concerning health’ means personal data related to the physical or mental health of a natural person, including the provision of health care services, which reveal information about his/her health status;
+
+(22) ‘supervisory authority’ means an independent public authority which is established by a Member State of the European Union pursuant to Article 51 of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 1 ) or pursuant to Article 41 of Directive (EU) 2016/680;
+
+(23) ‘international organisation’ means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries.
+
+## CHAPTER II — ESTABLISHMENT, TASKS AND BASIC PRINCIPLES OF THE EPPO
+
+#### Article 3 — Establishment
+
+1\. The EPPO is hereby established as a body of the Union.
+
+2\. The EPPO shall have legal personality.
+
+3\. The EPPO shall cooperate with Eurojust and rely on its support in accordance with Article 100.
+
+#### Article 4 — Tasks
+
+The EPPO shall be responsible for investigating, prosecuting and bringing to judgment the perpetrators of, and accomplices to, criminal offences affecting the financial interests of the Union which are provided for in Directive (EU) 2017/1371 and determined by this Regulation. In that respect the EPPO shall undertake investigations, and carry out acts of prosecution and exercise the functions of prosecutor in the competent courts of the Member States, until the case has been finally disposed of.
+
+#### Article 5 — Basic principles of the activities
+
+1\. The EPPO shall ensure that its activities respect the rights enshrined in the Charter.
+
+2\. The EPPO shall be bound by the principles of rule of law and proportionality in all its activities.
+
+3\. The investigations and prosecutions on behalf of the EPPO shall be governed by this Regulation. National law shall apply to the extent that a matter is not regulated by this Regulation. Unless otherwise specified in this Regulation, the applicable national law shall be the law of the Member State whose European Delegated Prosecutor is handling the case in accordance with Article 13(1). Where a matter is governed by both national law and this Regulation, the latter shall prevail.
+
+4\. The EPPO shall conduct its investigations in an impartial manner and shall seek all relevant evidence whether inculpatory or exculpatory.
+
+5\. The EPPO shall open and conduct investigations without undue delay.
+
+6\. The competent national authorities shall actively assist and support the investigations and prosecutions of the EPPO. Any action, policy or procedure under this Regulation shall be guided by the principle of sincere cooperation.
+
+#### Article 6 — Independence and accountability
+
+1\. The EPPO shall be independent. The European Chief Prosecutor, the Deputy European Chief Prosecutors, the European Prosecutors, the European Delegated Prosecutors, the Administrative Director, as well as the staff of the EPPO shall act in the interest of the Union as a whole, as defined by law, and neither seek nor take instructions from any person external to the EPPO, any Member State of the European Union or any institution, body, office or agency of the Union in the performance of their duties under this Regulation. The Member States of the European Union and the institutions, bodies, offices and agencies of the Union shall respect the independence of the EPPO and shall not seek to influence it in the exercise of its tasks.
+
+2\. The EPPO shall be accountable to the European Parliament, to the Council and to the Commission for its general activities, and shall issue annual reports in accordance with Article 7.
+
+#### Article 7 — Reporting
+
+1\. Every year the EPPO shall draw up and publicly issue an Annual Report on its general activities in the official languages of the institutions of the Union. It shall transmit the report to the European Parliament and to national parliaments, as well as to the Council and to the Commission.
+
+2\. The European Chief Prosecutor shall appear once a year before the European Parliament and before the Council, and before national parliaments of the Member States at their request, to give account of the general activities of the EPPO, without prejudice to the EPPO’s obligation of discretion and confidentiality as regards individual cases and personal data. The European Chief Prosecutor may be replaced by one of the Deputy European Chief Prosecutors for hearings organised by national parliaments.
+
+## CHAPTER III — STATUS, STRUCTURE AND ORGANISATION OF THE EPPO
+
+### SECTION 1 — Status and structure of the EPPO
+
+#### Article 8 — Structure of the EPPO
+
+1\. The EPPO shall be an indivisible Union body operating as one single Office with a decentralised structure.
+
+2\. The EPPO shall be organised at a central level and at a decentralised level.
+
+3\. The central level shall consist of a Central Office at the seat of the EPPO. The Central Office shall consist of the College, the Permanent Chambers, the European Chief Prosecutor, the Deputy European Chief Prosecutors, the European Prosecutors and the Administrative Director.
+
+4\. The decentralised level shall consist of European Delegated Prosecutors who shall be located in the Member States.
+
+5\. The Central Office and the European Delegated Prosecutors shall be assisted by the staff of the EPPO in their duties under this Regulation.
+
+#### Article 9 — The College
+
+1\. The College of the EPPO shall consist of the European Chief Prosecutor and one European Prosecutor per Member State. The European Chief Prosecutor shall chair the meetings of the College and shall be responsible for their preparation.
+
+2\. The College shall meet regularly and shall be responsible for the general oversight of the activities of the EPPO. It shall take decisions on strategic matters, and on general issues arising from individual cases, in particular with a view to ensuring coherence, efficiency and consistency in the prosecution policy of the EPPO throughout the Member States, as well on other matters as specified in this Regulation. The College shall not take operational decisions in individual cases. The internal rules of procedure of the EPPO shall provide for modalities on the exercise by the College of the general oversight activities and for taking decisions on strategic matters and general issues in accordance with this Article.
+
+3\. On a proposal by the European Chief Prosecutor and following the internal rules of procedure of the EPPO, the College shall set up Permanent Chambers.
+
+4\. The College shall adopt internal rules of procedure of the EPPO in accordance with Article 21, and shall further stipulate the responsibilities for the performance of functions of the members of the College and the staff of the EPPO.
+
+5\. Unless otherwise stated in this Regulation, the College shall take decisions by simple majority. Any member of the College shall have the right to initiate voting on matters to be decided by the College. Each member of the College shall have one vote. The European Chief Prosecutor shall have a casting vote in the event of a tie vote on any matter to be decided by the College.
+
+#### Article 10 — The Permanent Chambers
+
+1\. The Permanent Chambers shall be chaired by the European Chief Prosecutor or one of the Deputy European Chief Prosecutors, or a European Prosecutor appointed as Chair in accordance with the internal rules of procedure of the EPPO. In addition to the Chair, the Permanent Chambers shall have two permanent Members. The number of Permanent Chambers, and their composition, as well as the division of competences between the Chambers, shall take due account of the functional needs of the EPPO and be determined in accordance with the internal rules of procedure of the EPPO.
+
+The internal rules of procedure of the EPPO shall ensure an equal distribution of workload on the basis of a system of random allocation of cases and shall, in exceptional cases, establish procedures, where necessary for the proper functioning of the EPPO, to allow the European Chief Prosecutor to decide to deviate from the principle of random allocation.
+
+2\. The Permanent Chambers shall monitor and direct the investigations and prosecutions conducted by the European Delegated Prosecutors in accordance with paragraphs 3, 4 and 5 of this Article. They shall also ensure the coordination of investigations and prosecutions in cross-border cases, and shall ensure the implementation of decisions taken by the College in accordance with Article 9(2).
+
+3\. In accordance with the conditions and procedures set out by this Regulation, where applicable after reviewing a draft decision proposed by the handling European Delegated Prosecutor, the Permanent Chambers shall decide on the following issues:
+
+(a) to bring a case to judgment in accordance with Article 36(1), (3) and (4);
+
+(b) to dismiss a case in accordance with point (a) to (g) of Article 39(1);
+
+(c) to apply a simplified prosecution procedure and to instruct the European Delegated Prosecutor to act with a view to finally dispose of the case in accordance with Article 40;
+
+(d) to refer a case to the national authorities in accordance with Article 34(1), (2), (3) or (6);
+
+(e) to reopen an investigation in accordance with Article 39(2).
+
+4\. Where necessary, the Permanent Chambers shall take the following decisions, in accordance with the conditions and procedures set out in this Regulation:
+
+(a) to instruct the European Delegated Prosecutor to initiate an investigation in accordance with the rules in Article 26(1) to (4) where no investigation has been initiated;
+
+(b) to instruct the European Delegated Prosecutor to exercise the right of evocation in accordance with Article 27(6) where the case has not been evoked;
+
+(c) to refer to the College strategic matters or general issues arising from individual cases in accordance with Article 9(2);
+
+(d) to allocate a case in accordance with Article 26(3);
+
+(e) to reallocate a case in accordance with Article 26(5) or 28(3);
+
+(f) to approve the decision of a European Prosecutor to conduct the investigation himself or herself in accordance with Article 28(4).
+
+5\. The competent Permanent Chamber, acting through the European Prosecutor who is supervising the investigation or the prosecution, may in a specific case give instructions in compliance with applicable national law to the handling European Delegated Prosecutor, where it is necessary for the efficient handling of the investigation or prosecution, in the interest of justice, or to ensure the coherent functioning of the EPPO.
+
+6\. The Permanent Chamber shall take decisions by simple majority. The Chamber shall vote at the request of any of its members. Each member shall have one vote. The Chair shall have a casting vote in the event of a tie vote. Decisions shall be taken after deliberation in meetings of the Chamber on the basis, where applicable, of the draft decision proposed by the handling European Delegated Prosecutor.
+
+All case material shall be accessible upon request to the competent Permanent Chamber for the purpose of preparing decisions.
+
+7\. The Permanent Chambers may decide to delegate their decision-making power under point (a) or (b) of paragraph 3 of this Article, and in the latter case only in respect of the rules set out in points (a) to (f) of Article 39(1) to the European Prosecutor supervising the case in accordance with Article 12(1) where such delegations can be duly justified with reference to the degree of seriousness of the offence or the complexity of the proceedings in the individual case, with regard to an offence that has caused or is likely to cause damage to the financial interests of the Union of less than EUR 100 000 . The internal rules of procedure of the EPPO shall set guidelines with a view to ensuring a consistent application within the EPPO.
+
+The Permanent Chamber shall inform the European Chief Prosecutor of any decision to delegate their decision-making power. On reception of that information, the European Chief Prosecutor may within 3 days request the Permanent Chamber to review its decision if the European Chief Prosecutor considers that the interest to ensure the coherence of the investigations and prosecutions of the EPPO so requires. If the European Chief Prosecutor is a Member of the relevant Permanent Chamber, one of the Deputy European Chief Prosecutors shall exercise the right to request the said review. The supervising European Prosecutor shall report to the Permanent Chamber about the final disposal of the case as well as any information or circumstance he/she deems to be likely to necessitate a new assessment of the opportunity to maintain the delegation, in particular in circumstances referred to in Article 36(3).
+
+The decision to delegate decision-making power may be withdrawn at any time on the request of one of the Members of the Permanent Chamber and shall be decided in accordance with paragraph 6 of this Article. A delegation shall be withdrawn when a European Delegated Prosecutor has substituted the European Prosecutor in accordance with Article 16(7).
+
+To ensure coherent application of the principle of delegation, each Permanent Chamber shall report annually to the College on the use of delegation.
+
+8\. The internal rules of procedure of the EPPO shall authorise the Permanent Chambers to take decisions by means of a written procedure to be laid down in detail in the internal rules of procedure of the EPPO.
+
+All decisions taken and instructions given in accordance with paragraphs 3, 4, 5 and 7 shall be recorded in writing and become part of the case file.
+
+9\. In addition to the permanent Members, the European Prosecutor who is supervising an investigation or a prosecution in accordance with Article 12(1) shall participate in the deliberations of the Permanent Chamber. The European Prosecutor shall have a right to vote, except as regards the Permanent Chamber’s decisions on delegation or withdrawal of delegation in accordance with paragraph 7 of this Article, on allocation and reallocation under Article 26(3), (4) and (5) and Article 27(6) and on bringing a case to judgment in accordance with Article 36(3), where more than one Member State has jurisdiction for the case, as well as situations described in Article 31(8).
+
+A Permanent Chamber may also, either at the request of a European Prosecutor or a European Delegated Prosecutor or on its own initiative, invite other European Prosecutors or European Delegated Prosecutors who are concerned by a case to attend its meetings without a right to vote.
+
+10\. The Chairs of the Permanent Chambers shall, in accordance with the internal rules of procedure of the EPPO, keep the College informed of the decisions taken pursuant to this Article, in order to enable the College to fulfil its role under Article 9(2).
+
+#### Article 11 — The European Chief Prosecutor and the Deputy European Chief Prosecutors
+
+1\. The European Chief Prosecutor shall be the Head of the EPPO. The European Chief Prosecutor shall organise the work of the EPPO, direct its activities, and take decisions in accordance with this Regulation and the internal rules of procedure of the EPPO.
+
+2\. Two Deputy European Chief Prosecutors shall be appointed to assist the European Chief Prosecutor in the discharge of his/her duties and to act as replacement when he/she is absent or is prevented from attending to those duties.
+
+3\. The European Chief Prosecutor shall represent the EPPO vis-à-vis the institutions of the Union and of the Member States of the European Union, and third parties. The European Chief Prosecutor may delegate his/her tasks relating to representation to one of the Deputy European Chief Prosecutors or to a European Prosecutor.
+
+#### Article 12 — The European Prosecutors
+
+1\. On behalf of the Permanent Chamber and in compliance with any instructions it has given in accordance with Article 10(3), (4) and (5), the European Prosecutors shall supervise the investigations and prosecutions for which the European Delegated Prosecutors handling the case in their Member State of origin are responsible. The European Prosecutors shall present summaries of the cases under their supervision and, where applicable, proposals for decisions to be taken by the said Chamber, on the basis of draft decisions prepared by the European Delegated Prosecutors.
+
+The internal rules of procedure of the EPPO shall, without prejudice to Article 16(7), provide for a mechanism of substitution between European Prosecutors where the supervising European Prosecutor is temporarily absent from his/her duties or is for other reasons not available to carry out the functions of the European Prosecutors. The substitute European Prosecutor may fulfil any function of a European Prosecutor, except the possibility to conduct an investigation provided for in Article 28(4).
+
+2\. A European Prosecutor may request, on an exceptional basis, on grounds related to the workload resulting from the number of investigations and prosecutions in the European Prosecutor’s Member State of origin, or a personal conflict of interest, that the supervision of investigations and prosecutions of individual cases handled by European Delegated Prosecutors in his/her Member State of origin be assigned to other European Prosecutors, subject to the agreement of the latter. The European Chief Prosecutor shall decide on the request based on the workload of a European Prosecutor. In the case of a conflict of interests concerning a European Prosecutor, the European Chief Prosecutor shall grant that request. The internal rules of procedure of the EPPO shall lay down the principles governing that decision and the procedure for the subsequent allocation of the cases concerned. Article 28(4) shall not apply to investigations and prosecutions supervised in accordance with this paragraph.
+
+3\. The supervising European Prosecutors may, in a specific case and in compliance with applicable national law and with the instructions given by the competent Permanent Chamber, give instructions to the handling European Delegated Prosecutor, whenever necessary for the efficient handling of the investigation or prosecution or in the interest of justice, or to ensure the coherent functioning of the EPPO.
+
+4\. Where the national law of a Member State provides for the internal review of certain acts within the structure of a national prosecutor’s office, the review of such acts taken by the European Delegated Prosecutor shall fall under the supervisory powers of the supervising European Prosecutor in accordance with the internal rules of procedure of the EPPO without prejudice to the supervisory and monitoring powers of the Permanent Chamber.
+
+5\. The European Prosecutors shall function as liaisons and information channels between the Permanent Chambers and the European Delegated Prosecutors in their respective Member States of origin. They shall monitor the implementation of the tasks of the EPPO in their respective Member States, in close consultation with the European Delegated Prosecutors. They shall ensure, in accordance with this Regulation and the internal rules of procedure of the EPPO that all relevant information from the Central Office is provided to European Delegated Prosecutors and vice versa.
+
+#### Article 13 — The European Delegated Prosecutors
+
+1\. The European Delegated Prosecutors shall act on behalf of the EPPO in their respective Member States and shall have the same powers as national prosecutors in respect of investigations, prosecutions and bringing cases to judgment, in addition and subject to the specific powers and status conferred on them, and under the conditions set out in this Regulation.
+
+The European Delegated Prosecutors shall be responsible for those investigations and prosecutions that they have initiated, that have been allocated to them or that they have taken over using their right of evocation. The European Delegated Prosecutors shall follow the direction and instructions of the Permanent Chamber in charge of a case as well as the instructions from the supervising European Prosecutor.
+
+The European Delegated Prosecutors shall also be responsible for bringing a case to judgment, in particular have the power to present trial pleas, participate in taking evidence and exercise the available remedies in accordance with national law.
+
+2\. There shall be two or more European Delegated Prosecutors in each Member State. The European Chief Prosecutor shall, after consulting and reaching an agreement with the relevant authorities of the Member States, approve the number of European Delegated Prosecutors, as well as the functional and territorial division of competences between the European Delegated Prosecutors within each Member State.
+
+3\. The European Delegated Prosecutors may also exercise functions as national prosecutors, to the extent that this does not prevent them from fulfilling their obligations under this Regulation. They shall inform the supervising European Prosecutor of such functions. In the event that a European Delegated Prosecutor at any given moment is unable to fulfil his/her functions as a European Delegated Prosecutor because of the exercise of such functions as national prosecutor, he/she shall notify the supervising European Prosecutor, who shall consult the competent national prosecution authorities in order to determine whether priority should be given to their functions under this Regulation. The European Prosecutor may propose to the Permanent Chamber to reallocate the case to another European Delegated Prosecutor in the same Member State or that he/she conduct the investigations himself/herself in accordance with Article 28(3) and (4).
+
+### SECTION 2 — Appointment and dismissal of the members of the EPPO
+
+#### Article 14 — Appointment and dismissal of the European Chief Prosecutor
+
+1\. The European Parliament and the Council shall appoint by common accord the European Chief Prosecutor for a non-renewable term of 7 years. The Council shall act by simple majority.
+
+2\. The European Chief Prosecutor shall be selected from among candidates:
+
+(a) who are active members of the public prosecution service or judiciary of the Member States, or active European Prosecutors;
+
+(b) whose independence is beyond doubt;
+
+(c) who possess the qualifications required for appointment to the highest prosecutorial or judicial offices in their respective Member States and have relevant practical experience of national legal systems, financial investigations and of international judicial cooperation in criminal matters, or have served as European Prosecutors, and
+
+(d) who have sufficient managerial experience and qualifications for the position.
+
+3\. The selection shall be based on an open call for candidates, to be published in the Official Journal of the European Union, following which a selection panel shall draw up a shortlist of qualified candidates to be submitted to the European Parliament and to the Council. The selection panel shall comprise twelve persons chosen from among former members of the Court of Justice and the Court of Auditors, former national members of Eurojust, members of national supreme courts, high level prosecutors and lawyers of recognised competence. One of the persons chosen shall be proposed by the European Parliament. The Council shall establish the selection panel’s operating rules and shall adopt a decision appointing its members on a proposal from the Commission.
+
+4\. If a European Prosecutor is appointed to be the European Chief Prosecutor, his/her position of European Prosecutor shall without delay be filled in accordance with the procedure set out in Article 16(1) and (2).
+
+5\. The Court of Justice may, upon the application of the European Parliament, of the Council or of the Commission, dismiss the European Chief Prosecutor if it finds that he/she is no longer able to perform his/her duties, or that he/she is guilty of serious misconduct.
+
+6\. If the European Chief Prosecutor resigns, if he/she is dismissed or leaves his/her position for any reason, the position shall immediately be filled in accordance with the procedure set out in paragraphs 1, 2 and 3.
+
+#### Article 15 — Appointment and dismissal of the Deputy European Chief Prosecutors
+
+1\. The College shall appoint two European Prosecutors to serve as Deputy European Chief Prosecutors for a renewable mandate period of 3 years, which shall not exceed the periods for their mandates as European Prosecutors. The selection process shall be regulated by the internal rules of procedure of the EPPO. The Deputy European Chief Prosecutors shall retain their status as European Prosecutors.
+
+2\. The rules and conditions for the exercise of the function of Deputy European Chief Prosecutor shall be set out in the internal rules of procedure of the EPPO. If a European Prosecutor is no longer able to perform his/her duties as Deputy European Chief Prosecutor, the College may decide in accordance with the internal rules of procedure of the EPPO to dismiss the Deputy European Chief Prosecutor from that position.
+
+3\. If a Deputy European Chief Prosecutor resigns, is dismissed or leaves his/her position as a Deputy European Chief Prosecutor for any reason, the position shall, without delay, be filled in accordance with the procedure set out in paragraph 1 of this Article. Subject to the rules in Article 16, he/she shall remain European Prosecutor.
+
+#### Article 16 — Appointment and dismissal of the European Prosecutors
+
+1\. Each Member State shall nominate three candidates for the position of European Prosecutor from among candidates:
+
+(a) who are active members of the public prosecution service or judiciary of the relevant Member State;
+
+(b) whose independence is beyond doubt; and
+
+(c) who possess the qualifications required for appointment to high prosecutorial or judicial office in their respective Member States, and who have relevant practical experience of national legal systems, of financial investigations and of international judicial cooperation in criminal matters.
+
+2\. After having received the reasoned opinion of the selection panel referred to in Article 14(3), the Council shall select and appoint one of the candidates to be the European Prosecutor of the Member State in question. If the selection panel finds that a candidate does not fulfil the conditions required for the performance of the duties of a European Prosecutor, its opinion shall be binding on the Council.
+
+3\. The Council, acting by simple majority, shall select and appoint the European Prosecutors for a non-renewable term of 6 years. The Council may decide to extend the mandate for a maximum of 3 years at the end of the 6-year period.
+
+4\. Every 3 years there shall be a partial replacement of one third of the European Prosecutors. The Council, acting by simple majority, shall adopt transitional rules for the appointment of European Prosecutors for and during the first mandate period.
+
+5\. The Court of Justice may, upon application of the European Parliament, of the Council or of the Commission, dismiss a European Prosecutor if it finds that he/she is no longer able to perform his/her duties or that he/she is guilty of serious misconduct.
+
+6\. If a European Prosecutor resigns, is dismissed or leaves his/her position for any other reason, the position shall without delay be filled in accordance with the procedure set out in paragraphs 1 and 2. If the European Prosecutor in question also serves as Deputy European Chief Prosecutor, he/she shall automatically be dismissed from the latter position.
+
+7\. The College shall, upon nomination of each European Prosecutor, designate one of the European Delegated Prosecutors of the same Member State to substitute the European Prosecutor in case he/she is unable to carry out his/her functions or left his/her position according to paragraphs 5 and 6.
+
+Where the College acknowledges the need for substitution, the designated person shall act as an interim European Prosecutor, pending replacement or return of the European Prosecutor, for a period not exceeding 3 months. The College may, upon request, prolong that period if necessary. The mechanisms and modalities of temporary substitution shall be determined and governed by the internal rules of procedure of the EPPO.
+
+#### Article 17 — Appointment and dismissal of the European Delegated Prosecutors
+
+1\. Upon a proposal by the European Chief Prosecutor, the College shall appoint the European Delegated Prosecutors nominated by the Member States. The College may reject a person who has been nominated if he/she does not fulfil the criteria referred to in paragraph 2. The European Delegated Prosecutors shall be appointed for a renewable term of 5 years.
+
+2\. The European Delegated Prosecutors shall, from the time of their appointment as European Delegated Prosecutors until dismissal, be active members of the public prosecution service or judiciary of the respective Member States which nominated them. Their independence shall be beyond doubt and they shall possess the necessary qualifications and relevant practical experience of their national legal system.
+
+3\. The College shall dismiss a European Delegated Prosecutor if it finds that he/she no longer fulfils the requirements set out in paragraph 2, is unable to perform his/her duties, or is guilty of serious misconduct.
+
+4\. If a Member State decides to dismiss, or to take disciplinary action against, a national prosecutor who has been appointed as European Delegated Prosecutor for reasons not connected with his/her responsibilities under this Regulation, it shall inform the European Chief Prosecutor before taking such action. A Member State may not dismiss, or take disciplinary action against, a European Delegated Prosecutor for reasons connected with his/her responsibilities under this Regulation without the consent of the European Chief Prosecutor. If the European Chief Prosecutor does not consent, the Member State concerned may request the College to review the matter.
+
+5\. If a European Delegated Prosecutor resigns, if his/her services are no longer necessary to fulfil the duties of the EPPO, or if he/she is dismissed or leaves his/her position for any other reason, the relevant Member State shall immediately inform the European Chief Prosecutor and, where necessary, nominate another prosecutor to be appointed as the new European Delegated Prosecutor in accordance with paragraph 1.
+
+#### Article 18 — Status of the Administrative Director
+
+1\. The Administrative Director shall be engaged as a temporary agent of the EPPO under Article 2(a) of the Conditions of Employment.
+
+2\. The Administrative Director shall be appointed by the College from a list of candidates proposed by the European Chief Prosecutor, following an open and transparent selection procedure in accordance with the internal rules of procedure of the EPPO. For the purpose of concluding the contract of the Administrative Director, the EPPO shall be represented by the European Chief Prosecutor.
+
+3\. The term of office of the Administrative Director shall be 4 years. By the end of that period, the College shall undertake an assessment which takes into account an evaluation of the performance of the Administrative Director.
+
+4\. The College, acting on a proposal from the European Chief Prosecutor which takes into account the assessment referred to in paragraph 3, may extend once the term of office of the Administrative Director for a period of no more than 4 years.
+
+5\. An Administrative Director whose term of office has been extended may not participate in another selection procedure for the same post at the end of the overall period.
+
+6\. The Administrative Director shall be accountable to the European Chief Prosecutor and the College.
+
+7\. Upon a decision of the College on the basis of a two-thirds majority of its members and without prejudice to the applicable rules pertaining to the termination of contract in the Staff Regulations and the Conditions of Employment, the Administrative Director may be removed from the EPPO.
+
+#### Article 19 — Responsibilities of the Administrative Director
+
+1\. For administrative and budgetary purposes, the EPPO shall be managed by its Administrative Director.
+
+2\. Without prejudice to the powers of the College or the European Chief Prosecutor, the Administrative Director shall be independent in the performance of his/her duties and shall neither seek nor take instructions from any government or any other body.
+
+3\. The Administrative Director shall be the legal representative of the EPPO for administrative and budgetary purposes. The Administrative Director shall implement the budget of the EPPO.
+
+4\. The Administrative Director shall be responsible for the implementation of the administrative tasks assigned to the EPPO, in particular:
+
+(a) the day-to-day administration of the EPPO and staff management;
+
+(b) implementing the decisions adopted by the European Chief Prosecutor or the College;
+
+(c) preparing a proposal for the annual and multi-annual programming document and submitting it to the European Chief Prosecutor;
+
+(d) implementing the annual and multi-annual programming documents and reporting to the College on their implementation;
+
+(e) preparing the administrative and budgetary parts of the annual report on the EPPO’s activities;
+
+(f) preparing an action plan following-up on the conclusions of the internal or external audit reports, evaluations and investigations, including those of the European Data Protection Supervisor and OLAF and reporting to them and to the College twice a year;
+
+(g) preparing an internal anti-fraud strategy for the EPPO and presenting it to the College for approval;
+
+(h) preparing a proposal for the draft financial rules applicable to the EPPO, and submitting it to the European Chief Prosecutor;
+
+(i) preparing a proposal for the EPPO’s draft statement of estimates of revenues and expenditures, and submitting it to the European Chief Prosecutor;
+
+(j) providing necessary administrative support to facilitate the operational work of the EPPO;
+
+(k) providing support to the European Chief Prosecutor and the Deputy European Chief Prosecutors in the carrying out of their duties.
+
+#### Article 20 — Provisional administrative arrangements of the EPPO
+
+1\. Based on provisional budgetary appropriations allocated in its own budget, the Commission shall be responsible for the establishment and initial administrative operation of the EPPO until the latter has the capacity to implement its own budget. For that purpose the Commission may:
+
+(a) designate, after consulting with the Council, a Commission official to act as interim Administrative Director and exercise the duties assigned to the Administrative Director, including the powers conferred by the Staff Regulations and the Conditions of Employment on the appointing authority regarding administrative staff of the EPPO, in respect of any staff positions which need to be filled before the Administrative Director takes up his or her duties in accordance with Article 18;
+
+(b) offer assistance to the EPPO, in particular by seconding a limited number of Commission officials necessary to carry out the administrative activities of the EPPO under the responsibility of the interim Administrative Director.
+
+2\. The interim Administrative Director may authorise all payments covered by appropriations entered in the EPPO’s budget and may conclude contracts, including staff contracts.
+
+3\. Once the College takes up its duties in accordance with Article 9(1), the interim Administrative Director shall exercise his/her duties in accordance with Article 18. The interim Administrative Director shall cease to exercise that function once the Administrative Director has taken up duties following appointment by the College in accordance with Article 18.
+
+4\. Until the College takes up its duties in accordance with Article 9(1), the Commission shall exercise its functions set out in this Article in consultation with a group of experts composed of representatives of the Member States.
+
+### SECTION 3 — Internal rules of procedure of the EPPO
+
+#### Article 21 — Internal rules of procedure of the EPPO
+
+1\. The organisation of the work of the EPPO shall be governed by its internal rules of procedure
+
+2\. Once the EPPO has been set up, the European Chief Prosecutor shall without delay prepare a proposal for the internal rules of procedure of the EPPO, to be adopted by the College by a two-thirds majority.
+
+3\. Modifications to the internal rules of procedure of the EPPO may be proposed by any European Prosecutor and shall be adopted if the College so decides by a two-thirds majority.
+
+## CHAPTER IV — COMPETENCE AND EXERCISE OF THE COMPETENCE OF THE EPPO
+
+### SECTION 1 — Competence of the EPPO
+
+#### Article 22 — Material competence of the EPPO
+
+1\. The EPPO shall be competent in respect of the criminal offences affecting the financial interests of the Union that are provided for in Directive (EU) 2017/1371, as implemented by national law, irrespective of whether the same criminal conduct could be classified as another type of offence under national law. As regards offences referred to in point (d) of Article 3(2) of Directive (EU) 2017/1371, as implemented by national law, the EPPO shall only be competent when the intentional acts or omissions defined in that provision are connected with the territory of two or more Member States and involve a total damage of at least EUR 10 million.
+
+2\. The EPPO shall also be competent for offences regarding participation in a criminal organisation as defined in Framework Decision 2008/841/JHA, as implemented in national law, if the focus of the criminal activity of such a criminal organisation is to commit any of the offences referred to in paragraph 1.
+
+3\. The EPPO shall also be competent for any other criminal offence that is inextricably linked to criminal conduct that falls within the scope of paragraph 1 of this Article. The competence with regard to such criminal offences may only be exercised in conformity with Article 25(3).
+
+4\. In any case, the EPPO shall not be competent for criminal offences in respect of national direct taxes including offences inextricably linked thereto. The structure and functioning of the tax administration of the Member States shall not be affected by this Regulation.
+
+#### Article 23 — Territorial and personal competence of the EPPO
+
+The EPPO shall be competent for the offences referred to in Article 22 where such offences:
+
+(a) were committed in whole or in part within the territory of one or several Member States;
+
+(b) were committed by a national of a Member State, provided that a Member State has jurisdiction for such offences when committed outside its territory, or
+
+(c) were committed outside the territories referred to in point (a) by a person who was subject to the Staff Regulations or to the Conditions of Employment, at the time of the offence, provided that a Member State has jurisdiction for such offences when committed outside its territory.
+
+### SECTION 2 — Exercise of the competence of the EPPO
+
+#### Article 24 — Reporting, registration and verification of information
+
+1\. The institutions, bodies, offices and agencies of the Union and the authorities of the Member States competent under applicable national law shall without undue delay report to the EPPO any criminal conduct in respect of which it could exercise its competence in accordance with Article 22, Article 25(2) and (3).
+
+2\. When a judicial or law enforcement authority of a Member State initiates an investigation in respect of a criminal offence for which the EPPO could exercise its competence in accordance with Article 22, Article 25(2) and (3), or where, at any time after the initiation of an investigation, it appears to the competent judicial or law enforcement authority of a Member State that an investigation concerns such an offence, that authority shall without undue delay inform the EPPO so that the latter can decide whether to exercise its right of evocation in accordance with Article 27.
+
+3\. When a judicial or law enforcement authority of a Member State initiates an investigation in respect of a criminal offence as defined in Article 22 and considers that the EPPO could, in accordance with Article 25(3), not exercise its competence, it shall inform the EPPO thereof.
+
+4\. The report shall contain, as a minimum, a description of the facts, including an assessment of the damage caused or likely to be caused, the possible legal qualification and any available information about potential victims, suspects and any other involved persons.
+
+5\. The EPPO shall also be informed, in accordance with paragraphs 1 and 2 of this Article, of cases where an assessment of whether the criteria in Article 25(2) are met is not possible.
+
+6\. Information provided to the EPPO shall be registered and verified in accordance with its internal rules of procedure. The verification shall assess whether, on the basis of the information provided in accordance with paragraphs 1 and 2, there are grounds to initiate an investigation or to exercise the right of evocation.
+
+7\. Where upon verification the EPPO decides that there are no grounds to initiate an investigation in accordance with Article 26, or to exercise its right of evocation in accordance with Article 27, the reasons shall be noted in the case management system.
+
+The EPPO shall inform the authority that reported the criminal conduct in accordance with paragraph 1 or 2, as well as crime victims and if so provided by national law, other persons who reported the criminal conduct.
+
+8\. Where it comes to the knowledge of the EPPO that a criminal offence outside of the scope of the competence of the EPPO may have been committed, it shall without undue delay inform the competent national authorities and forward all relevant evidence to them.
+
+9\. In specific cases, the EPPO may request further relevant information available to the institutions, bodies, offices and agencies of the Union and the authorities of the Member States. The requested information may concern infringements which caused damage to the Union’s financial interests, other than those within the competence of the EPPO in accordance with Article 25(2).
+
+10\. The EPPO may request other information in order to enable the College, in accordance with Article 9(2), to issue general guidelines on the interpretation of the obligation to inform the EPPO of cases falling within the scope of Article 25(2).
+
+#### Article 25 — Exercise of the competence of the EPPO
+
+1\. The EPPO shall exercise its competence either by initiating an investigation under Article 26 or by deciding to use its right of evocation under Article 27. If the EPPO decides to exercise its competence, the competent national authorities shall not exercise their own competence in respect of the same criminal conduct.
+
+2\. Where a criminal offence that falls within the scope of Article 22 caused or is likely to cause damage to the Union’s financial interests of less than EUR 10 000 , the EPPO may only exercise its competence if:
+
+(a) the case has repercussions at Union level which require an investigation to be conducted by the EPPO; or
+
+(b) officials or other servants of the Union, or members of the institutions of the Union could be suspected of having committed the offence.
+
+The EPPO shall, where appropriate, consult the competent national authorities or bodies of the Union to establish whether the criteria set out in points (a) and (b) of the first subparagraph are met.
+
+3\. The EPPO shall refrain from exercising its competence in respect of any offence falling within the scope of Article 22 and shall, upon consultation with the competent national authorities, refer the case without undue delay to the latter in accordance with Article 34 if:
+
+(a) the maximum sanction provided for by national law for an offence falling within the scope of Article 22(1) is equal to or less severe than the maximum sanction for an inextricably linked offence as referred to in Article 22(3) unless the latter offence has been instrumental to commit the offence falling within the scope of Article 22(1); or
+
+(b) there is a reason to assume that the damage caused or likely to be caused, to the Union’s financial interests by an offence as referred to in Article 22 does not exceed the damage caused, or likely to be caused to another victim.
+
+Point (b) of the first subparagraph of this paragraph shall not apply to offences referred to in Article 3(2)(a), (b) and (d) of Directive (EU) 2017/1371 as implemented by national law.
+
+4\. The EPPO may, with the consent of the competent national authorities, exercise its competence for offences referred to in Article 22 in cases which would otherwise be excluded due to application of paragraph 3(b) of this Article if it appears that the EPPO is better placed to investigate or prosecute.
+
+5\. The EPPO shall inform the competent national authorities without undue delay of any decision to exercise or to refrain from exercising its competence.
+
+6\. In the case of disagreement between the EPPO and the national prosecution authorities over the question of whether the criminal conduct falls within the scope of Article 22(2), or (3) or Article 25(2) or (3), the national authorities competent to decide on the attribution of competences concerning prosecution at national level shall decide who is to be competent for the investigation of the case. Member States shall specify the national authority which will decide on the attribution of competence.
+
+## CHAPTER V — RULES OF PROCEDURE ON INVESTIGATIONS, INVESTIGATION MEASURES, PROSECUTION AND ALTERNATIVES TO PROSECUTION
+
+### SECTION 1 — Rules on investigations
+
+#### Article 26 — Initiation of investigations and allocation of competences within the EPPO
+
+1\. Where, in accordance with the applicable national law, there are reasonable grounds to believe that an offence within the competence of the EPPO is being or has been committed, a European Delegated Prosecutor in a Member State which according to its national law has jurisdiction over the offence shall, without prejudice to the rules set out in Article 25(2) and (3), initiate an investigation and note this in the case management system.
+
+2\. Where upon verification in accordance with Article 24(6), the EPPO decides to initiate an investigation, it shall without undue delay inform the authority that reported the criminal conduct in accordance with Article 24(1) or (2).
+
+3\. Where no investigation has been initiated by a European Delegated Prosecutor, the Permanent Chamber to which the case has been allocated shall, under the conditions set out in paragraph 1, instruct a European Delegated Prosecutor to initiate an investigation.
+
+4\. A case shall as a rule be initiated and handled by a European Delegated Prosecutor from the Member State where the focus of the criminal activity is or, if several connected offences within the competences of the EPPO have been committed, the Member State where the bulk of the offences has been committed. A European Delegated Prosecutor of a different Member State that has jurisdiction for the case may only initiate or be instructed by the competent Permanent Chamber to initiate an investigation where a deviation from the rule set out in the previous sentence is duly justified, taking into account the following criteria, in order of priority:
+
+(a) the place of the suspect’s or accused person’s habitual residence;
+
+(b) the nationality of the suspect or accused person;
+
+(c) the place where the main financial damage has occurred.
+
+5\. Until a decision to prosecute under Article 36 is taken, the competent Permanent Chamber may, in a case concerning the jurisdiction of more than one Member State and after consultation with the European Prosecutors and/or European Delegated Prosecutors concerned, decide to:
+
+(a) reallocate the case to a European Delegated Prosecutor in another Member State;
+
+(b) merge or split cases and, for each case choose the European Delegated Prosecutor handling it,
+
+if such decisions are in the general interest of justice and in accordance with the criteria for the choice of the handling European Delegated Prosecutor in accordance with paragraph 4 of this Article.
+
+6\. Whenever the Permanent Chamber is taking a decision to reallocate, merge or split a case, it shall take due account of the current state of the investigations.
+
+7\. The EPPO shall inform the competent national authorities without undue delay of any decision to initiate an investigation.
+
+#### Article 27 — Right of evocation
+
+1\. Upon receiving all relevant information in accordance with Article 24(2), the EPPO shall take its decision on whether to exercise its right of evocation as soon as possible, but no later than 5 days after receiving the information from the national authorities and shall inform the national authorities of that decision. The European Chief Prosecutor may in a specific case take a reasoned decision to prolong the time limit by a maximum period of 5 days, and shall inform the national authorities accordingly.
+
+2\. During the periods referred to in paragraph 1, the national authorities shall refrain from taking any decision under national law that may have the effect of precluding the EPPO from exercising its right of evocation.
+
+The national authorities shall take any urgent measures necessary, under national law, to ensure effective investigation and prosecution.
+
+3\. If the EPPO becomes aware, by means other than the information referred to in Article 24(2), of the fact that an investigation in respect of a criminal offence for which it could be competent is already undertaken by the competent authorities of a Member State, it shall inform these authorities without delay. After being duly informed in accordance with Article 24(2), the EPPO shall take a decision on whether to exercise its right of evocation. The decision shall be taken within the time limits set out in paragraph 1 of this Article.
+
+4\. The EPPO shall, where appropriate, consult the competent authorities of the Member State concerned before deciding whether to exercise its right of evocation.
+
+5\. Where the EPPO exercises its right of evocation, the competent authorities of the Member States shall transfer the file to the EPPO and refrain from carrying out further acts of investigation in respect of the same offence.
+
+6\. The right of evocation set out in this Article may be exercised by a European Delegated Prosecutor from any Member State whose competent authorities have initiated an investigation in respect of an offence that falls within the scope of Articles 22 and 23.
+
+Where a European Delegated Prosecutor, who has received the information in accordance with Article 24(2), considers not to exercise the right of evocation, he/she shall inform the competent Permanent Chamber through the European Prosecutor of his/her Member State with a view to enabling the Permanent Chamber to take a decision in accordance with Article 10(4).
+
+7\. Where the EPPO has refrained from exercising its competence, it shall inform the competent national authorities without undue delay. At any time in the course of the proceedings, the competent national authorities shall inform the EPPO of any new facts which could give the EPPO reasons to reconsider its decision not to exercise competence.
+
+The EPPO may exercise its right of evocation after receiving such information, provided that the national investigation has not already been finalised and that an indictment has not been submitted to a court. The decision shall be taken within the time limit set out in paragraph 1.
+
+8\. Where, with regard to offences which caused or are likely to cause damage to the Union’s financial interests of less than EUR 100 000 , the College considers that, with reference to the degree of seriousness of the offence or the complexity of the proceedings in the individual case, there is no need to investigate or to prosecute at Union level, it shall in accordance with Article 9(2), issue general guidelines allowing the European Delegated Prosecutors to decide, independently and without undue delay, not to evoke the case.
+
+The guidelines shall specify, with all necessary details, the circumstances to which they apply, by establishing clear criteria, taking specifically into account the nature of the offence, the urgency of the situation and the commitment of the competent national authorities to take all necessary measures in order to fully recover the damage to the Union’s financial interests.
+
+9\. To ensure coherent application of the guidelines, a European Delegated Prosecutor shall inform the competent Permanent Chamber of each decision taken in accordance with paragraph 8 and each Permanent Chamber shall report annually to the College on the application of the guidelines.
+
+#### Article 28 — Conducting the investigation
+
+1\. The European Delegated Prosecutor handling a case may, in accordance with this Regulation and with national law, either undertake the investigation measures and other measures on his/her own or instruct the competent authorities in his/her Member State. Those authorities shall, in accordance with national law, ensure that all instructions are followed and undertake the measures assigned to them. The handling European Delegated Prosecutor shall report through the case management system to the competent European Prosecutor and to the Permanent Chamber any significant developments in the case, in accordance with the rules laid down in the internal rules of procedure of the EPPO.
+
+2\. At any time during the investigations conducted by the EPPO, the competent national authorities shall take urgent measures in accordance with national law necessary to ensure effective investigations even where not specifically acting under an instruction given by the handling European Delegated Prosecutor. The national authorities shall without undue delay inform the handling European Delegated Prosecutor of the urgent measures they have taken.
+
+3\. The competent Permanent Chamber may, on proposal of the supervising European Prosecutor decide to reallocate a case to another European Delegated Prosecutor in the same Member State when the handling European Delegated Prosecutor:
+
+(a) cannot perform the investigation or prosecution; or
+
+(b) fails to follow the instructions of the competent Permanent Chamber or the European Prosecutor.
+
+4\. In exceptional cases, after having obtained the approval of the competent Permanent Chamber, the supervising European Prosecutor may take a reasoned decision to conduct the investigation personally, either by undertaking personally the investigation measures and other measures or by instructing the competent authorities in his/her Member State, where this appears to be indispensable in the interest of the efficiency to the investigation or prosecution by reasons of one or more of the following criteria:
+
+(a) the seriousness of the offence, in particular in view of its possible repercussions at Union level;
+
+(b) when the investigation concerns officials or other servants of the Union or members of the institutions of the Union;
+
+(c) in the event of failure of the reallocation mechanism provided for in paragraph 3.
+
+In such exceptional circumstances Member States shall ensure that the European Prosecutor is entitled to order or request investigative measures and other measures and that he/she has all the powers, responsibilities and obligations of a European Delegated Prosecutor in accordance with this Regulation and national law.
+
+The competent national authorities and the European Delegated Prosecutors concerned by the case shall be informed without undue delay of the decision taken under this paragraph.
+
+#### Article 29 — Lifting privileges or immunities
+
+1\. Where the investigations of the EPPO involve persons protected by a privilege or immunity under national law, and such privilege or immunity presents an obstacle to a specific investigation being conducted, the European Chief Prosecutor shall make a reasoned written request for its lifting in accordance with the procedures laid down by that national law.
+
+2\. Where the investigations of the EPPO involve persons protected by privileges or immunities under the Union law, in particular the Protocol on the privileges and immunities of the European Union, and such privilege or immunity presents an obstacle to a specific investigation being conducted, the European Chief Prosecutor shall make a reasoned written request for its lifting in accordance with the procedures laid down by Union law.
+
+### SECTION 2 — Rules on investigation measures and other measures
+
+#### Article 30 — Investigation measures and other measures
+
+1\. At least in cases where the offence subject to the investigation is punishable by a maximum penalty of at least 4 years of imprisonment, Member States shall ensure that the European Delegated Prosecutors are entitled to order or request the following investigation measures:
+
+(a) search any premises, land, means of transport, private home, clothes and any other personal property or computer system, and take any conservatory measures necessary to preserve their integrity or to avoid the loss or contamination of evidence;
+
+(b) obtain the production of any relevant object or document either in its original form or in some other specified form;
+
+(c) obtain the production of stored computer data, encrypted or decrypted, either in their original form or in some other specified form, including banking account data and traffic data with the exception of data specifically retained in accordance with national law pursuant to the second sentence of Article 15(1) of Directive 2002/58/EC of the European Parliament and of the Council ( 2 );
+
+(d) freeze instrumentalities or proceeds of crime, including assets, that are expected to be subject to confiscation by the trial court, where there is reason to believe that the owner, possessor or controller of those instrumentalities or proceeds will seek to frustrate the judgement ordering confiscation.
+
+(e) intercept electronic communications to and from the suspect or accused person, over any electronic communication means that the suspect or accused person is using;
+
+(f) track and trace an object by technical means, including controlled deliveries of goods.
+
+2\. Without prejudice to Article 29, the investigation measures set out in paragraph 1 of this Article may be subject to conditions in accordance with the applicable national law if the national law contains specific restrictions that apply with regard to certain categories of persons or professionals who are legally bound by an obligation of confidentiality.
+
+3\. The investigation measures set out in points(c), (e) and (f) of paragraph 1 of this Article may be subject to further conditions, including limitations, provided for in the applicable national law. In particular, Member States may limit the application of points (e) and (f) of paragraph 1 of this Article to specific serious offences. A Member State intending to make use of such limitation shall notify the EPPO of the relevant list of specific serious offences in accordance with Article 117.
+
+4\. The European Delegated Prosecutors shall be entitled to request or to order any other measures in their Member State that are available to prosecutors under national law in similar national cases, in addition to the measures referred to in paragraph 1.
+
+5\. The European Delegated Prosecutors may only order the measures referred to in paragraphs 1 and 4 where there are reasonable grounds to believe that the specific measure in question might provide information or evidence useful to the investigation, and where there is no less intrusive measure available which could achieve the same objective. The procedures and the modalities for taking the measures shall be governed by the applicable national law.
+
+#### Article 31 — Cross-border investigations
+
+1\. The European Delegated Prosecutors shall act in close cooperation by assisting and regularly consulting each other in cross-border cases. Where a measure needs to be undertaken in a Member State other than the Member State of the handling European Delegated Prosecutor, the latter European Delegated Prosecutor shall decide on the adoption of the necessary measure and assign it to a European Delegated Prosecutor located in the Member State where the measure needs to be carried out.
+
+2\. The handling European Delegated Prosecutor may assign any measures, which are available to him/her in accordance with Article 30. The justification and adoption of such measures shall be governed by the law of the Member States’ of the handling European Delegated Prosecutor. Where the handling European Delegated Prosecutor assigns an investigation measure to one or several European Delegated Prosecutors from another Member State, he/she shall at the same time inform his supervising European Prosecutor.
+
+3\. If judicial authorisation for the measure is required under the law of the Member State of the assisting European Delegated Prosecutor, the assisting European Delegated Prosecutor shall obtain that authorisation in accordance with the law of that Member State.
+
+If judicial authorisation for the assigned measure is refused, the handling European Delegated Prosecutor shall withdraw the assignment.
+
+However, where the law of the Member State of the assisting European Delegated Prosecutor does not require such a judicial authorisation, but the law of the Member State of the handling European Delegated Prosecutor requires it, the authorisation shall be obtained by the latter European Delegated Prosecutor and submitted together with the assignment.
+
+4\. The assisting European Delegated Prosecutor shall undertake the assigned measure, or instruct the competent national authority to do so.
+
+5\. Where the assisting European Delegated Prosecutor considers that:
+
+(a) the assignment is incomplete or contains a manifest relevant error;
+
+(b) the measure cannot be undertaken within the time limit set out in the assignment for justified and objective reasons;
+
+(c) an alternative but less intrusive measure would achieve the same results as the measure assigned; or
+
+(d) the assigned measure does not exist or would not be available in a similar domestic case under the law of his/her Member State,
+
+he/she shall inform his supervising European Prosecutor and consult with the handling European Delegated Prosecutor in order to resolve the matter bilaterally.
+
+6\. If the assigned measure does not exist in a purely domestic situation, but would be available in a cross-border situation covered by legal instruments on mutual recognition or cross-border cooperation, the European Delegated Prosecutors concerned may, in agreement with the supervising European Prosecutors concerned, have recourse to such instruments.
+
+7\. If the European Delegated Prosecutors cannot resolve the matter within 7 working days and the assignment is maintained, the matter shall be referred to the competent Permanent Chamber. The same applies where the assigned measure is not undertaken within the time limit set out in the assignment or within a reasonable time.
+
+8\. The competent Permanent Chamber shall to the extent necessary hear the European Delegated Prosecutors concerned by the case and then decide without undue delay, in accordance with applicable national law as well as this Regulation, whether and by when the assigned measure needed, or a substitute measure, shall be undertaken by the assisting European Delegated Prosecutor, and communicate this decision to the said European Delegated Prosecutors through the competent European Prosecutor.
+
+#### Article 32 — Enforcement of assigned measures
+
+The assigned measures shall be carried out in accordance with this Regulation and the law of the Member State of the assisting European Delegated Prosecutor. Formalities and procedures expressly indicated by the handling European Delegated Prosecutor shall be complied with unless such formalities and procedures are contrary to the fundamental principles of law of the Member State of the assisting European Delegated Prosecutor.
+
+#### Article 33 — Pre-trial arrest and cross-border surrender
+
+1\. The handling European Delegated Prosecutor may order or request the arrest or pre-trial detention of the suspect or accused person in accordance with the national law applicable in similar domestic cases.
+
+2\. Where it is necessary to arrest and surrender a person who is not present in the Member State in which the handling European Delegated Prosecutor is located, the latter shall issue or request the competent authority of that Member State to issue a European Arrest Warrant in accordance with Council Framework Decision 2002/584/JHA ( 3 ).
+
+### SECTION 3 — Rules on prosecution
+
+#### Article 34 — Referrals and transfers of proceedings to the national authorities
+
+1\. Where an investigation conducted by the EPPO reveals that the facts subject to investigation do not constitute a criminal offence for which it is competent under Articles 22 and 23, the competent Permanent Chamber shall decide to refer the case without undue delay to the competent national authorities.
+
+2\. Where an investigation conducted by the EPPO reveals that the specific conditions for the exercise of its competence set out in Article 25(2) and (3) are no longer met, the competent Permanent Chamber shall decide to refer the case to the competent national authorities without undue delay and before initiating prosecution at national courts.
+
+3\. Where, with regard to offences which caused or are likely to cause damage to the financial interests of the Union of less than EUR 100 000 , the College considers that, with reference to the degree of seriousness of the offence or the complexity of the proceedings in the individual case, there is no need to investigate or to prosecute a case at Union level and that it would be in the interest of the efficiency of investigation or prosecution, it shall in accordance with Article 9(2), issue general guidelines allowing the Permanent Chambers to refer a case to the competent national authorities.
+
+Such guidelines shall also allow the Permanent Chambers to refer a case to the competent national authorities where the EPPO exercises a competence in respect of offences referred to in points (a) and (b) of Article 3(2) of Directive (EU) 2017/1371 and where the damage caused or likely to be caused to the Union’s financial interests does not exceed the damage caused or likely to be caused to another victim.
+
+To ensure coherent application of the guidelines, each Permanent Chamber shall report annually to the College on the application of the guidelines.
+
+Such referrals shall also include any inextricably linked offences within the competence of the EPPO as referred to in Article 22(3).
+
+4\. The Permanent Chamber shall communicate any decision to refer a case to national authorities on the basis of paragraph 3 to the European Chief Prosecutor. Within 3 days of receiving of this information, the European Chief Prosecutor may request the Permanent Chamber to review its decision if the European Chief Prosecutor considers that the interest to ensure the coherence of the referral policy of the EPPO so requires. If the European Chief Prosecutor is a Member of the relevant Permanent Chamber, one of the Deputy European Chief Prosecutors shall exercise the right to request the said review.
+
+5\. Where the competent national authorities do not accept to take over the case in accordance with paragraph 2 and 3 within a timeframe of maximum 30 days, the EPPO shall remain competent to prosecute or dismiss the case, in accordance with the rules laid down in this Regulation.
+
+6\. Where the EPPO considers a dismissal in accordance with Article 39(3), and if the national authority so requires, the Permanent Chamber shall refer the case without delay to that authority.
+
+7\. If, following a referral in accordance with paragraph (1), (2) or (3) of this Article and Article 25(3), the national authority decides to open an investigation, the EPPO shall transfer the file to that national authority, refrain from taking further investigative or prosecutorial measures and close the case.
+
+8\. If a file is transferred in accordance with paragraph (1), (2) or (3) of this Article and Article 25(3), the EPPO shall inform the relevant institutions, bodies, offices and agencies of the Union, as well as, where appropriate under national law, suspects or accused persons and the crime victims of the transfer.
+
+#### Article 35 — Termination of the investigation
+
+1\. When the handling European Delegated Prosecutor considers the investigation to be completed, he/she shall submit a report to the supervising European Prosecutor, containing a summary of the case and a draft decision whether to prosecute before a national court or to consider a referral of the case, dismissal or simplified prosecution procedure in accordance with Article 34, 39 or 40. The supervising European Prosecutor shall forward those documents to the competent Permanent Chamber accompanied, if he/she considers it to be necessary, by his/her own assessment. When the Permanent Chamber, in accordance with Article 10(3), takes the decision as proposed by the European Delegated Prosecutor, he/she shall pursue the matter accordingly.
+
+2\. If the Permanent Chamber, based on the reports received, considers that it will not take the decision as proposed by the European Delegated Prosecutor, it shall, where necessary, undertake its own review of the case file before taking a final decision or giving further instructions to the European Delegated Prosecutor.
+
+3\. Where applicable, the report of the European Delegated Prosecutor shall also provide sufficient reasoning for bringing the case to judgment either at a court of the Member State where he/she is located, or, in accordance with Article 26(4) at a court of a different Member State which has jurisdiction over the case.
+
+#### Article 36 — Prosecution before national Courts
+
+1\. When the European Delegated Prosecutor submits a draft decision proposing to bring a case to judgment, the Permanent Chamber shall, following the procedures set out in Article 35, decide on this draft within 21 days. The Permanent Chamber cannot decide to dismiss the case if a draft decision proposes bringing a case to judgment.
+
+2\. Where the Permanent Chamber does not take a decision within the 21-day time limits, the decision proposed by the European Delegated Prosecutor shall be deemed to be accepted.
+
+3\. Where more than one Member State has jurisdiction over the case, the Permanent Chamber shall in principle decide to bring the case to prosecution in the Member State of the handling European Delegated Prosecutor. However, the Permanent Chamber may, taking into account the report provided in accordance with Article 35(1), decide to bring the case to prosecution in a different Member State, if there are sufficiently justified grounds to do so, taking into account the criteria set out in Article 26(4) and (5), and instruct a European Delegated Prosecutor of that Member State accordingly.
+
+4\. Before deciding to bring a case to judgment, the competent Permanent Chamber may, on the proposal of the handling European Delegated Prosecutor, decide to join several cases, where investigations have been conducted by different European Delegated Prosecutors against the same person(s) with a view to prosecuting these cases in the courts of a single Member State which, in accordance with its law, has jurisdiction for each of those cases.
+
+5\. Once a decision on the Member State in which the prosecution shall be brought has been taken, the competent national court within that Member State shall be determined on the basis of national law.
+
+6\. Where necessary for the purposes of recovery, administrative follow-up or monitoring, the Central Office shall notify the competent national authorities, interested persons and the relevant institutions, bodies, offices and agencies of the Union of the decision to prosecute.
+
+7\. Where, following a judgment of the Court, the prosecution has to decide whether to lodge an appeal, the European Delegated Prosecutor shall submit a report including a draft decision to the competent Permanent Chamber and await its instructions. Should it be impossible to await those instructions within the deadline set by national law, the European Delegated Prosecutor shall be entitled to lodge the appeal without prior instructions from the Permanent Chamber, and shall subsequently submit the report to the Permanent Chamber without delay. The Permanent Chamber shall then instruct the European Delegated Prosecutor either to maintain or withdraw the appeal. The same procedure shall apply when, in the course of the court proceedings and in accordance with applicable national law, the handling European Delegated Prosecutor would take a position that would lead to the dismissal of the case.
+
+#### Article 37 — Evidence
+
+1\. Evidence presented by the prosecutors of the EPPO or the defendant to a court shall not be denied admission on the mere ground that the evidence was gathered in another Member State or in accordance with the law of another Member State.
+
+2\. The power of the trial court to freely assess the evidence presented by the defendant or the prosecutors of the EPPO shall not be affected by this Regulation.
+
+#### Article 38 — Disposition of confiscated assets
+
+Where, in accordance with the requirements and procedures under national law including the national law transposing Directive 2014/42/EU of the European Parliament and of the Council ( 4 ), the competent national court has decided by a final ruling to confiscate any property related to, or proceeds derived from, an offence within the competence of the EPPO, such assets or proceeds shall be disposed of in accordance with applicable national law. This disposition shall not negatively affect the rights of the Union or other victims to be compensated for damage that they have incurred.
+
+### SECTION 4 — Rules on alternatives to prosecution
+
+#### Article 39 — Dismissal of the case
+
+1\. Where prosecution has become impossible, pursuant to the law of the Member State of the handling European Delegated Prosecutor, the Permanent Chamber shall, based on a report provided by the European Delegated Prosecutor handling the case in accordance with Article 35(1), decide to dismiss the case against a person on account of any of the following grounds:
+
+(a) the death of the suspect or accused person or winding up of a suspect or accused legal person;
+
+(b) the insanity of the suspect or accused person;
+
+(c) amnesty granted to the suspect or accused person;
+
+(d) immunity granted to the suspect or accused person, unless it has been lifted;
+
+(e) expiry of the national statutory limitation to prosecute;
+
+(f) the suspect’s or accused person’s case has already been finally disposed of in relation to the same acts;
+
+(g) the lack of relevant evidence.
+
+2\. A decision in accordance with paragraph 1 shall not bar further investigations on the basis of new facts which were not known to the EPPO at the time of the decision and which become known after the decision. The decision to reopen investigations on the basis of such new facts shall be taken by the competent Permanent Chamber.
+
+3\. Where the EPPO is competent in accordance with Article 22(3), it shall dismiss a case only after consultation with the national authorities of the Member State referred to in Article 25(6). If applicable, the Permanent Chamber shall refer the case to the competent national authorities in accordance with Article 34(6), (7) and (8).
+
+The same applies where the EPPO exercises a competence in respect of offences referred to in points (a) and (b) of Article 3(2) of Directive (EU) 2017/1371 and where the damage caused or likely to be caused to the Union’s financial interests does not exceed the damage caused or likely to be caused to another victim.
+
+4\. Where a case has been dismissed, the EPPO shall officially notify the competent national authorities and shall inform the relevant institutions, bodies, offices and agencies of the Union, as well as, where appropriate under national law, the suspects or accused persons and the crime victims, of such dismissal. The dismissed cases may also be referred to OLAF or to the competent national administrative or judicial authorities for recovery or other administrative follow-up.
+
+### SECTION 5 — Rules on simplified procedures
+
+#### Article 40 — Simplified prosecution procedures
+
+1\. If the applicable national law provides for a simplified prosecution procedure aiming at the final disposal of a case on the basis of terms agreed with the suspect, the handling European Delegated Prosecutor may, in accordance with Article 10(3) and Article 35(1), propose to the competent Permanent Chamber to apply that procedure in accordance with the conditions provided for in national law.
+
+Where the EPPO exercises a competence in respect of offences referred to in points (a) and (b) of Article 3(2) of Directive (EU) 2017/1371 and where the damage caused or likely to be caused to the Union’s financial interest does not exceed the damage caused or likely to be caused to another victim, the handling European Delegated Prosecutor shall consult national prosecution authorities before proposing to apply a simplified prosecution procedure.
+
+2\. The Permanent Chamber shall decide on the proposal of the handling European Delegated Prosecutor taking into account the following grounds:
+
+(a) the seriousness of the offence, based on in particular the damage caused;
+
+(b) the willingness of the suspected offender to repair the damage caused by the illegal conduct;
+
+(c) the use of the procedure would be in accordance with the general objectives and basic principles of the EPPO as set out in this Regulation.
+
+The College shall, in accordance with Article 9(2), adopt guidelines on the application of those grounds.
+
+3\. If the Permanent Chamber agrees with the proposal, the handling European Delegated Prosecutor shall apply the simplified prosecution procedure in accordance with the conditions provided for in national law and register it in the case management system. When the simplified prosecution procedure has been finalised upon fulfilment of the terms agreed with the suspect, the Permanent Chamber shall instruct the European Delegated Prosecutor to act with a view to finally dispose of the case.
+
+## CHAPTER VI — PROCEDURAL SAFEGUARDS
+
+#### Article 41 — Scope of the rights of the suspects and accused persons
+
+1\. The activities of the EPPO shall be carried out in full compliance with the rights of suspects and accused persons enshrined in the Charter, including the right to a fair trial and the rights of defence.
+
+2\. Any suspected or accused person in the criminal proceedings of the EPPO shall, at aa minimum, have the procedural rights provided for in Union law, including directives concerning the rights of suspects and accused persons in criminal procedures, as implemented by national law, such as:
+
+(a) the right to interpretation and translation, as provided for in Directive 2010/64/EU;
+
+(b) the right to information and access to the case materials, as provided for in Directive 2012/13/EU;
+
+(c) the right of access to a lawyer and the right to communicate with and have third persons informed in the event of detention, as provided for in Directive 2013/48/EU;
+
+(d) the right to remain silent and the right to be presumed innocent as provided for in Directive (EU) 2016/343;
+
+(e) the right to legal aid as provided for in Directive (EU) 2016/1919.
+
+3\. Without prejudice to the rights referred to in this Chapter, suspects and accused persons as well as other persons involved in the proceedings of the EPPO shall have all the procedural rights available to them under the applicable national law, including the possibility to present evidence, to request the appointment of experts or expert examination and hearing of witnesses, and to request the EPPO to obtain such measures on behalf of the defence.
+
+#### Article 42 — Judicial review
+
+1\. Procedural acts of the EPPO that are intended to produce legal effects vis-à-vis third parties shall be subject to review by the competent national courts in accordance with the requirements and procedures laid down by national law. The same applies to failures of the EPPO to adopt procedural acts which are intended to produce legal effects vis-à-vis third parties and which it was legally required to adopt under this Regulation.
+
+2\. The Court of Justice shall have jurisdiction, in accordance with Article 267 TFEU, to give preliminary rulings concerning:
+
+(a) the validity of procedural acts of the EPPO, in so far as such a question of validity is raised before any court or tribunal of a Member State directly on the basis of Union law;
+
+(b) the interpretation or the validity of provisions of Union law, including this Regulation;
+
+(c) the interpretation of Articles 22 and 25 of this Regulation in relation to any conflict of competence between the EPPO and the competent national authorities.
+
+3\. By way of derogation from paragraph 1 of this Article, the decisions of the EPPO to dismiss a case, in so far as they are contested directly on the basis of Union law, shall be subject to review before the Court of Justice in accordance with the fourth paragraph of Article 263 TFEU.
+
+4\. The Court of Justice shall have jurisdiction in accordance with Article 268 TFEU in any dispute relating to compensation for damage caused by the EPPO.
+
+5\. The Court of Justice shall have jurisdiction in accordance with Article 272 TFEU in any dispute concerning arbitration clauses contained in contracts concluded by the EPPO.
+
+6\. The Court of Justice shall have jurisdiction in accordance with Article 270 TFEU in any dispute concerning staff-related matters.
+
+7\. The Court of Justice shall have jurisdiction on the dismissal of the European Chief Prosecutor or European Prosecutors, in accordance, respectively, with Article 14(5) and Article 16(5).
+
+8\. This Article is without prejudice to judicial review by the Court of Justice in accordance with the fourth paragraph of Article 263 TFEU of decisions of the EPPO that affect the data subjects’ rights under Chapter VIII and of decisions of the EPPO which are not procedural acts, such as decisions of the EPPO concerning the right of public access to documents, or decisions dismissing European Delegated Prosecutors adopted pursuant to Article 17(3) of this Regulation, or any other administrative decisions.
+
+## CHAPTER VII — PROCESSING OF INFORMATION
+
+#### Article 43 — Access to information by the EPPO
+
+1\. European Delegated Prosecutors shall be able to obtain any relevant information stored in national criminal investigation and law enforcement databases, as well as other relevant registers of public authorities, under the same conditions as those that apply under national law in similar cases.
+
+2\. The EPPO shall also be able to obtain any relevant information falling within its competence that is stored in databases and registers of the institutions, bodies, offices and agencies of the Union.
+
+#### Article 44 — Case management system
+
+1\. The EPPO shall establish a case management system, which shall be held and managed in accordance with the rules established in this Regulation and in the internal rules of procedure of the EPPO.
+
+2\. The purpose of the case management system shall be to:
+
+(a) support the management of investigations and prosecutions conducted by the EPPO, in particular by managing internal information workflows and by supporting investigative work in cross-border cases;
+
+(b) ensure secure access to information on investigations and prosecutions at the Central Office and by the European Delegated Prosecutors;
+
+(c) allow for the cross-referencing of information and the extraction of data for operational analysis and statistical purposes;
+
+(d) facilitate monitoring to ensure that the processing of operational personal data is lawful and complies with the relevant provisions of this Regulation.
+
+3\. The case management system may be linked to the secure telecommunications connection referred to in Article 9 of Council Decision 2008/976/JHA ( 5 ).
+
+4\. The case management system shall contain:
+
+(a) a register of information obtained by the EPPO in accordance with Article 24, including any decisions in relation to that information,
+
+(b) an index of all case files;
+
+(c) all information from the case files stored electronically in the case management system in accordance with Article 45(3).
+
+The index shall not contain any operational personal data other than data needed to identify cases or establish cross-links between different case files.
+
+5\. For the processing of operational personal data, the EPPO may only establish automated data files other than case files in accordance with this Regulation and with the internal rules of procedure of the EPPO. Details on such other automated data files shall be notified to the European Data Protection Supervisor.
+
+#### Article 45 — Case files of the EPPO
+
+1\. Where the EPPO decides to open an investigation or exercise its right of evocation in accordance with this Regulation, the handling European Delegated Prosecutor shall open a case file.
+
+The case file shall contain all the information and evidence available to the European Delegated Prosecutor that relates to the investigation or prosecution by the EPPO.
+
+Once an investigation has been opened, the information from the register referred to in Article 44(4)(a) shall become part of the case file.
+
+2\. The case file shall be managed by the handling European Delegated Prosecutor in accordance with the law of his/her Member State.
+
+The internal rules of procedure of the EPPO may include rules on the organisation and management of the case files to the extent necessary to ensure the functioning of the EPPO as a single office. Access to the case file by suspects and accused persons as well as other persons involved in the proceedings shall be granted by the handling European Delegated Prosecutor in accordance with the national law of that Prosecutor’s Member State.
+
+3\. The case management system of the EPPO shall include all information and evidence from the case file that may be stored electronically, in order to enable the Central Office to carry out its functions in accordance with this Regulation. The handling European Delegated Prosecutor shall ensure that the content of information in the case management system reflects at all times the case file, in particular that operational personal data contained in the case management system is erased or rectified whenever such data has been erased or rectified in the corresponding case file.
+
+#### Article 46 — Access to the case management system
+
+The European Chief Prosecutor, the Deputy European Chief Prosecutors, other European Prosecutors and the European Delegated Prosecutors shall have direct access to the register and to the index.
+
+The supervising European Prosecutor as well as the competent Permanent Chamber shall, when exercising their competences in accordance with Articles 10 and 12, have direct access to information stored electronically in the case management system. The supervising European Prosecutor shall also have direct access to the case file. The competent Permanent Chamber shall have access to the case file at its request.
+
+Other European Delegated Prosecutors may request access to information stored electronically in the case management system as well as any case file. The handling European Delegated Prosecutor shall decide on granting such access to other European Delegated Prosecutors in accordance with applicable national law. If the access is not granted, the matter may be referred to the competent Permanent Chamber. The competent Permanent Chamber shall, to the extent necessary, hear the European Delegated Prosecutors concerned and then decide in accordance with applicable national law as well as this Regulation.
+
+The internal rules of procedure of the EPPO shall set out further rules regarding the right to access, and the procedure to establish the level of access to the case management system by the European Chief Prosecutor, the Deputy European Chief Prosecutors, other European Prosecutors, the European Delegated Prosecutors and the staff of the EPPO, to the extent required for the performance of their duties.
+
+## CHAPTER VIII — DATA PROTECTION
+
+#### Article 47 — Principles relating to processing of personal data
+
+1\. Personal data shall be:
+
+(a) processed lawfully and fairly (‘lawfulness and fairness’);
+
+(b) collected for specified, explicit and legitimate purposes and not further processed in a manner incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall not be considered to be incompatible with the initial purposes provided that the EPPO provides appropriate safeguards for the rights and freedoms of data subjects (‘purpose limitation’);
+
+(c) adequate, relevant, and not excessive in relation to the purposes for which they are processed (‘data minimisation’);
+
+(d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);
+
+(e) kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes provided that the EPPO provides appropriate safeguards for the rights and freedoms of data subjects, in particular by the implementation of the appropriate technical and organisational measures required by this Regulation (‘storage limitation’);
+
+(f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘integrity and confidentiality’).
+
+2\. The EPPO shall be responsible for, and be able to demonstrate compliance with paragraph 1 (‘accountability’) when processing personal data wholly or partly by automated means and when processing other than by automated means personal data which form part of a filing system or are intended to form part of a filing system.
+
+3\. Processing by the EPPO for any of the purposes set out in Article 49 other than that for which the operational personal data are collected shall be permitted in so far as:
+
+(a) the EPPO is authorised to process such operational personal data for such a purpose in accordance with this Regulation; and
+
+(b) processing is necessary and proportionate to that other purpose in accordance with Union law; and
+
+(c) where relevant, the use of operational personal data is not prohibited by the applicable national procedural law on the investigative measures taken in accordance with Article 30. The applicable national procedural law is the law of the Member State where the data was obtained.
+
+#### Article 48 — Administrative personal data
+
+1\. Regulation (EC) No 45/2001 applies to all administrative personal data processed by the EPPO.
+
+2\. The EPPO shall determine the time limits for the storage of administrative personal data in the data protection provisions of its internal rules of procedure.
+
+#### Article 49 — Processing of operational personal data
+
+1\. The EPPO shall process operational personal data by automated means or in structured manual files in accordance with this Regulation, and only for the following purposes:
+
+(a) criminal investigations and prosecutions undertaken in accordance with this Regulation; or
+
+(b) information exchange with the competent authorities of Member States of the European Union and other institutions, bodies, offices and agencies of the Union in accordance with this Regulation; or
+
+(c) cooperation with third countries and international organisations in accordance with this Regulation.
+
+2\. Categories of operational personal data, and the categories of data subjects whose operational personal data may be processed in the index as referred to in point (b) of Article 44(4) by the EPPO for each purpose referred to in paragraph 1 of this Article shall be listed in an Annex in accordance with paragraph 3.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 115 to list the categories of operational personal data and the categories of data subjects referred to in paragraph 2 of this Article and to update such a list in order to take account of developments in information technology and in the light of the state of progress in the information society.
+
+Where imperative grounds of urgency so require, the procedure provided for in Article 116 shall apply to delegated acts adopted pursuant to this paragraph.
+
+4\. The EPPO may temporarily process operational personal data for the purpose of determining whether such data are relevant to its tasks and for the purposes referred to in paragraph 1. The College, acting on a proposal from the European Chief Prosecutor and after consulting the European Data Protection Supervisor, shall further specify the conditions relating to the processing of such operational personal data, in particular with respect to access to and the use of the data, as well as time limits for the storage and deletion of the data.
+
+5\. The EPPO shall process operational personal data in such a way that it can be established which authority provided the data or where the data has been retrieved from.
+
+6\. When applying Articles 57 to 62, the EPPO shall, where relevant, act in compliance with national procedural law on the obligation to provide information to the data subject and the possibilities to omit, restrict or delay such information. Where appropriate, the handling European Delegated Prosecutor shall consult other European Delegated Prosecutors concerned by the case before taking a decision in respect of Articles 57 to 62.
+
+#### Article 50 — Time limits for the storage of operational personal data
+
+1\. The EPPO shall review periodically the need for the storage of the operational personal data processed. At the latest, such a review shall be carried out not later than 3 years after the operational personal data were first processed and then every 3 years. If operational personal data are stored for a period exceeding 5 years, the European Data Protection Supervisor shall be informed of that fact.
+
+2\. Operational personal data processed by the EPPO shall not be stored beyond 5 years after an acquitting decision in respect of the case has become final; in case the accused was found guilty the time limits shall be extended until the penalty that has been imposed, is enforced or can no longer be enforced under the law of the sentencing Member State.
+
+3\. Before one of the deadlines referred to in paragraph 2 expires, the EPPO shall review the need for the continued storage of the operational personal data where and as long this is necessary to perform its tasks. The reasons for the continued storage shall be justified and recorded. If no decision is taken on the continued storage of operational personal data, those data shall be deleted automatically.
+
+#### Article 51 — Distinction between different categories of data subject
+
+The EPPO shall, where applicable and as far as possible, make a clear distinction between operational personal data of different categories of data subjects, such as:
+
+(a) persons with regard to whom there are serious grounds for believing that they have committed or are about to commit a criminal offence;
+
+(b) persons convicted of a criminal offence;
+
+(c) victims of a criminal offence or persons with regard to whom certain facts give rise to reasons for believing that they could be the victim of a criminal offence; and
+
+(d) other parties to a criminal offence, such as persons who might be called upon to testify in investigations in connection with criminal offences or subsequent criminal proceedings, persons who can provide information on criminal offences, or contacts or associates of one of the persons referred to in points (a) and (b).
+
+#### Article 52 — Distinction between operational personal data and verification of quality of personal data
+
+1\. The EPPO shall distinguish, as far as possible, operational personal data based on facts from operational personal data based on personal assessments.
+
+2\. The EPPO shall take all reasonable steps to ensure that operational personal data which are inaccurate, incomplete or no longer up to date are not transmitted or made available. To that end, the EPPO shall, as far as practicable, verify the quality of operational personal data before they are transmitted or made available. As far as possible, in all transmissions of operational personal data, the EPPO shall add necessary information enabling the recipient to assess the degree of accuracy, completeness and reliability of operational personal data, and the extent to which they are up to date.
+
+3\. If it emerges that incorrect operational personal data have been transmitted or operational personal data have been unlawfully transmitted, the recipient shall be notified without delay. In such a case, the operational personal data shall be rectified or erased or processing shall be restricted in accordance with Article 61.
+
+#### Article 53 — Specific processing conditions
+
+1\. When required by this Regulation, the EPPO shall provide for specific conditions for processing and shall inform the recipient of such operational personal data of those conditions and the requirement to comply with them.
+
+2\. The EPPO shall comply with specific processing conditions for processing provided by a national authority in accordance with Article 9(3) and (4) of Directive (EU) 2016/680.
+
+#### Article 54 — Transmission of operational personal data to institutions, bodies, offices and agencies of the Union
+
+1\. Subject to any further restrictions pursuant to this Regulation, in particular Article 53, the EPPO shall only transmit operational personal data to another institution, body, office or agency of the Union if the data are necessary for the legitimate performance of tasks covered by the competence of the other institution, body, office or agency of the Union.
+
+2\. Where the operational personal data are transmitted following a request from the other institution, body, office or agency of the Union, both the controller and the recipient shall bear the responsibility for the legitimacy of this transfer.
+
+The EPPO shall be required to verify the competence of the other institution, body, office or agency of the Union and to make a provisional evaluation of the necessity for the transmission of the operational personal data. If doubts arise as to this necessity, the EPPO shall seek further information from the recipient.
+
+The other institution, body, office or agency of the Union shall ensure that the necessity for the transmission of the operational personal data can be subsequently verified.
+
+3\. The other institution, body, office or agency of the Union shall process the operational personal data only for the purposes for which they were transmitted.
+
+#### Article 55 — Processing of special categories of operational personal data
+
+1\. Processing of operational personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, operational personal data concerning health or operational personal data concerning a natural person’s sex life or sexual orientation shall be allowed only where strictly necessary for the EPPO’s investigations, subject to appropriate safeguards for the rights and freedoms of the data subject and only if they supplement other operational personal data already processed by the EPPO.
+
+2\. The Data Protection Officer shall be informed immediately of recourse to this Article.
+
+#### Article 56 — Automated individual decision-making, including profiling
+
+The data subject shall have the right not to be subject to a decision of the EPPO based solely on automated processing, including profiling, which produces legal effects concerning him/her or similarly significantly affects him/her.
+
+#### Article 57 — Communication and modalities for exercising the rights of the data subject
+
+1\. The EPPO shall take reasonable steps to provide any information referred to in Article 58. It shall make any communication with regard to Articles 56, 59 to 62 and 75 relating to processing to the data subject in a concise, intelligible and easily accessible form, using clear and plain language. The information shall be provided by any appropriate means, including by electronical means. As a general rule, the controller shall provide the information in the same form as the request.
+
+2\. The EPPO shall facilitate the exercise of the rights of the data subject under Articles 58 to 62.
+
+3\. The EPPO shall inform the data subject in writing about the follow up to his/her request without undue delay, and in any case at the latest after 3 months after receipt of the request by the data subject.
+
+4\. The EPPO shall provide for the information provided under Article 58 and any communication made or action taken pursuant to Articles 56, 59 to 62 and 75 to be provided free of charge. Where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character, the EPPO may either:
+
+(a) charge a reasonable fee, taking into account the administrative costs of providing the information or communication, or taking the action requested; or
+
+(b) refuse to act on the request.
+
+The EPPO shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
+
+5\. Where the EPPO has reasonable doubts concerning the identity of the natural person making a request referred to in Article 59 or 61, the EPPO may request the provision of additional information necessary to confirm the identity of the data subject.
+
+#### Article 58 — Information to be made available or given to the data subject
+
+1\. The EPPO shall make available to the data subject at least the following information:
+
+(a) the identity and the contact details of the EPPO;
+
+(b) the contact details of the data protection officer;
+
+(c) the purposes of the processing for which the operational personal data are intended;
+
+(d) the right to lodge a complaint with the European Data Protection Supervisor and its contact details;
+
+(e) the existence of the right to request from the EPPO access to and rectification or erasure of operational personal data and restriction of processing of the operational personal data concerning the data subject.
+
+2\. In addition to the information referred to in paragraph 1, the EPPO shall give to the data subject, in specific cases, the following further information to enable the exercise of his/her rights:
+
+(a) the legal basis for the processing;
+
+(b) the period for which the operational personal data will be stored, or, where that is not possible, the criteria used to determine that period;
+
+(c) where applicable, the categories of recipients of the operational personal data, including in third countries or international organisations;
+
+(d) where necessary, further information, in particular where the operational personal data are collected without the knowledge of the data subject.
+
+3\. The EPPO may delay, restrict or omit the provision of the information to the data subject pursuant to paragraph 2 to the extent that, and for as long as, such a measure constitutes a necessary and proportionate measure in a democratic society with due regard for the fundamental rights and the legitimate interests of the natural person concerned, in order to:
+
+(a) avoid obstructing official or legal inquiries, investigations or procedures;
+
+(b) avoid prejudicing the prevention, detection, investigation or prosecution of criminal offences or the execution of criminal penalties;
+
+(c) protect public security of the Member States of the European Union;
+
+(d) protect national security of the Member States of the European Union;
+
+(e) protect the rights and freedoms of others.
+
+#### Article 59 — Right of access by the data subject
+
+The data subject shall have the right to obtain from the EPPO confirmation as to whether or not operational personal data concerning him/her are being processed, and, where that is the case, access to the operational personal data and the following information:
+
+(a) the purposes of and legal basis for the processing;
+
+(b) the categories of operational personal data concerned;
+
+(c) the recipients or categories of recipients to whom the operational personal data have been disclosed, in particular recipients in third countries or international organisations;
+
+(d) where possible, the envisaged period for which the operational personal data will be stored, or, if not possible, the criteria used to determine that period;
+
+(e) the existence of the right to request from the EPPO rectification or erasure of operational personal data or restriction of processing of operational personal data concerning the data subject;
+
+(f) the right to lodge a complaint with the European Data Protection Supervisor and the contact details of the European Data Protection Supervisor;
+
+(g) the communication of the operational personal data undergoing processing and of any available information as to their origin.
+
+#### Article 60 — Limitations to the right of access
+
+1\. The EPPO may restrict, wholly or partly, the data subject’s right of access to the extent that, and for as long as, such a partial or complete restriction constitutes a necessary and proportionate measure in a democratic society with due regard for the fundamental rights and legitimate interests of the natural person concerned, in order to:
+
+(a) avoid obstructing official or legal inquiries, investigations or procedures;
+
+(b) avoid prejudicing the prevention, detection, investigation or prosecution of criminal offences or the execution of criminal penalties;
+
+(c) protect public security of the Member States of the European Union;
+
+(d) protect national security of the Member States of the European Union;
+
+(e) protect the rights and freedoms of others.
+
+2\. Where the provision of such information would undermine the purpose of paragraph 1, the EPPO shall only notify the data subject concerned that it has carried out the checks, without giving any information which might reveal to him/her whether or not operational personal data concerning him/her are processed by the EPPO.
+
+The EPPO shall inform the data subject of the possibility of lodging a complaint with the European Data Protection Supervisor or seeking a judicial remedy in the Court of Justice against the EPPO’s decision.
+
+3\. The EPPO shall document the factual or legal reasons on which the decision is based. That information shall be made available to the European Data Protection Supervisor on request.
+
+#### Article 61 — Right to rectification or erasure of operational personal data and restriction of processing
+
+1\. The data subject shall have the right to obtain from the EPPO without undue delay the rectification of inaccurate operational personal data relating to him/her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete operational personal data completed, including by means of providing a supplementary statement.
+
+2\. The EPPO shall erase operational personal data without undue delay and the data subject shall have the right to obtain from the EPPO the erasure of operational personal data concerning him/her without undue delay where processing infringes Article 47, 49 or 55, or where operational personal data must be erased in order to comply with a legal obligation to which the EPPO is subject.
+
+3\. Instead of erasure, the EPPO shall restrict processing where:
+
+(a) the accuracy of the operational personal data is contested by the data subject and their accuracy or inaccuracy cannot be ascertained; or
+
+(b) the operational personal data must be maintained for the purposes of evidence.
+
+Where processing is restricted pursuant to point (a) of the first subparagraph, the EPPO shall inform the data subject before lifting the restriction of processing.
+
+4\. Where processing has been restricted under paragraph 3, such operational personal data shall, with the exception of storage, only be processed for the protection of the rights of the data subject or another natural or legal person who is a party of the proceedings of the EPPO, or for the purposes laid down in point (b) of paragraph 3.
+
+5\. The EPPO shall inform the data subject in writing of any refusal of rectification or erasure of operational personal data or restriction of processing and of the reasons for the refusal. The EPPO may restrict, wholly or partly, the obligation to provide such information to the extent that such a restriction constitutes a necessary and proportionate measure in a democratic society with due regard for the fundamental rights and legitimate interests of the natural person concerned in order to:
+
+(a) avoid obstructing official or legal inquiries, investigations or procedures;
+
+(b) avoid prejudicing the prevention, detection, investigation or prosecution of criminal offences or the execution of criminal penalties;
+
+(c) protect public security of the Member States of the European Union;
+
+(d) protect national security of the Member States of the European Union;
+
+(e) protect the rights and freedoms of others.
+
+The EPPO shall inform the data subject of the possibility of lodging a complaint with the European Data Protection Supervisor or of seeking a judicial remedy from the Court of Justice against the EPPO’s decision.
+
+6\. The EPPO shall communicate the rectification of inaccurate operational personal data to the competent authority from which the inaccurate operational personal data originate.
+
+7\. The EPPO shall, where operational personal data has been rectified or erased or processing has been restricted pursuant to paragraphs 1, 2 and 3, notify the recipients and inform them that they have to rectify or erase the operational personal data or restrict processing of the operational personal data under their responsibility.
+
+#### Article 62 — Exercise of rights by the data subject and verification by the European Data Protection Supervisor
+
+1\. In the cases referred to in Articles 58(3), 60(2) and 61(5), the rights of the data subject may also be exercised through the European Data Protection Supervisor.
+
+2\. The EPPO shall inform the data subject of the possibility of exercising his/her rights through the European Data Protection Supervisor pursuant to paragraph 1.
+
+3\. Where the right referred to in paragraph 1 is exercised, the European Data Protection Supervisor shall inform the data subject at least that all necessary verifications or a review by it have taken place. The European Data Protection Supervisor shall also inform the data subject of his/her right to seek a judicial remedy in the Court of Justice against the European Data Protection Supervisor’s decision.
+
+#### Article 63 — Obligations of the EPPO
+
+1\. Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the EPPO shall implement appropriate technical and organisational measures to ensure, and to be able to demonstrate that processing is performed in accordance with this Regulation. Those measures shall be reviewed and updated where necessary.
+
+2\. Where proportionate in relation to processing activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the EPPO.
+
+#### Article 64 — Joint controllers
+
+1\. Where the EPPO together with one or more controllers jointly determine the purposes and means of processing, they shall be joint controllers. They shall, in a transparent manner, determine their respective responsibilities for compliance with their data protection obligations, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information, by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union law or the law of a Member State of the European Union to which the controllers are subject. The arrangement may designate a contact point for data subjects.
+
+2\. The arrangement referred to in paragraph 1 shall duly reflect the respective roles and relationships of the joint controllers vis-à-vis the data subjects. The essence of the arrangement shall be made available to the data subject.
+
+3\. Irrespective of the terms of the arrangement referred to in paragraph 1, the data subject may exercise his/her rights under this Regulation in respect, and against each, of the controllers.
+
+#### Article 65 — Processor
+
+1\. Where processing is to be carried out on behalf of the EPPO, the EPPO shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.
+
+2\. The processor shall not engage another processor without prior specific or general written authorisation of the EPPO. In the case of general written authorisation, the processor shall inform the EPPO of any intended changes concerning the addition or replacement of other processors, thereby giving the controller the opportunity to object to such changes.
+
+3\. Processing by a processor shall be governed by a contract or other legal act under Union law, or the law of a Member State of the European Union, that is binding on the processor with regard to the EPPO and that sets out the subject matter and duration of the processing, the nature and purpose of the processing, the type of operational personal data and categories of data subjects and the obligations and rights of the EPPO. That contract or other legal act shall stipulate, in particular, that the processor:
+
+(a) acts only on instructions from the controller;
+
+(b) ensures that persons authorised to process the operational personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;
+
+(c) assists the controller by any appropriate means to ensure compliance with the provisions on the data subject’s rights;
+
+(d) at the choice of the EPPO, deletes or returns all the operational personal data to the EPPO after the end of the provision of services relating to processing, and deletes existing copies unless Union law or the law of a Member State of the European Union requires storage of the operational personal data;
+
+(e) makes available to the EPPO all information necessary to demonstrate compliance with the obligations laid down in this Article;
+
+(f) complies with the conditions referred to in paragraphs 2 and 3 for engaging another processor.
+
+4\. The contract or the other legal act referred to in paragraphs 3 shall be in writing, including in electronic form.
+
+5\. If a processor infringes this Regulation by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing.
+
+#### Article 66 — Processing under the authority of the controller or processor
+
+The processor and any person acting under the authority of the EPPO or of the processor, who has access to operational personal data, shall not process those data except on instructions from the EPPO, unless required to do so by Union law or the law of a Member State of the European Union.
+
+#### Article 67 — Data protection by design and by default
+
+1\. The EPPO shall, taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing, as well as the risks of varying likelihood and severity for rights and freedoms of natural persons posed by the processing, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures, such as pseudonymisation, which are designed to implement data protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the processing, in order to meet the requirements of this Regulation and protect the rights of the data subjects.
+
+2\. The EPPO shall implement appropriate technical and organisational measures ensuring that, by default, only operational personal data which are adequate, relevant and not excessive in relation to the purpose of the processing are processed. That obligation applies to the amount of operational personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default operational personal data are not made accessible without the individual’s intervention to an indefinite number of natural persons.
+
+#### Article 68 — Records of categories of processing activities
+
+1\. The EPPO shall maintain a record of all categories of processing activities under its responsibility. That record shall contain all of the following information:
+
+(a) its contact details and the name and the contact details of the data protection officer;
+
+(b) the purposes of the processing;
+
+(c) a description of the categories of data subjects and of the categories of operational personal data;
+
+(d) the categories of recipients to whom the operational personal data have been or will be disclosed including recipients in third countries or international organisations;
+
+(e) where applicable, transfers of operational personal data to a third country or an international organisation, including the identification of that third country or international organisation;
+
+(f) where possible, the envisaged time limits for erasure of the different categories of data;
+
+(g) where possible, a general description of the technical and organisational security measures referred to in Article 73.
+
+2\. The records referred to in paragraph 1 shall be in writing, including in electronic form.
+
+3\. The EPPO shall make the record available to the European Data Protection Supervisor on request.
+
+#### Article 69 — Logging in respect of automated processing
+
+1\. The EPPO shall keep logs of any of the following processing operations in automated processing systems: collection, alteration, consultation, disclosure including transfers, combination and erasure of operational personal data used for operational purposes. The logs of consultation and disclosure shall make it possible to establish the justification for, and the date and time of, such operations, the identification of the person who consulted or disclosed operational personal data, and, as far as possible, the identity of the recipients of such operational personal data.
+
+2\. The logs shall be used solely for verification of the lawfulness of processing, self-monitoring, ensuring the integrity and security of the operational personal data, and for criminal proceedings. Such logs shall be deleted after 3 years, unless they are required for on-going control.
+
+3\. The EPPO shall make the logs available to the European Data Protection Supervisor on request.
+
+#### Article 70 — Cooperation with the European Data Protection Supervisor
+
+The EPPO shall, on request, cooperate with the European Data Protection Supervisor in the performance of its tasks.
+
+#### Article 71 — Data protection impact assessment
+
+1\. Where a type of processing, in particular, using new technologies, and taking into account the nature, scope, context and purposes of the processing is likely to result in a high risk to the rights and freedoms of natural persons, the EPPO shall carry out, prior to the processing, an assessment of the impact of the envisaged processing operations on the protection of operational personal data.
+
+2\. The assessment referred to in paragraph 1 shall contain at least a general description of the envisaged processing operations, an assessment of the risks to the rights and freedoms of data subjects, the measures envisaged to address those risks, safeguards, security measures and mechanisms to ensure the protection of operational personal data and to demonstrate compliance with this Regulation, taking into account the rights and legitimate interests of the data subjects and other persons concerned.
+
+#### Article 72 — Prior consultation of the European Data Protection Supervisor
+
+1\. The EPPO shall consult the European Data Protection Supervisor prior to processing which will form part of a new filing system to be created, where:
+
+(a) a data protection impact assessment as provided for in Article 71 indicates that the processing would result in a high risk in the absence of measures taken by the EPPO to mitigate the risk; or
+
+(b) the type of processing, in particular, where using new technologies, mechanisms or procedures, involves a high risk to the rights and freedoms of data subjects.
+
+2\. The European Data Protection Supervisor may establish a list of the processing operations which are subject to prior consultation pursuant to paragraph 1.
+
+3\. The EPPO shall provide the European Data Protection Supervisor with the data protection impact assessment pursuant to Article 71 and, on request, with any other information to allow the European Data Protection Supervisor to make an assessment of the compliance of the processing and in particular of the risks for the protection of operational personal data of the data subject and of the related safeguards.
+
+4\. Where the European Data Protection Supervisor is of the opinion that the intended processing referred to in paragraph 1 of this Article would infringe this Regulation, in particular where the EPPO has insufficiently identified or mitigated the risk, the European Data Protection Supervisor shall provide, within a period of up to 6 weeks of receipt of the request for consultation, written advice to the EPPO according to its powers in accordance with Article 85. That period may be extended by a month, taking into account the complexity of the intended processing. The European Data Protection Supervisor shall inform the EPPO of any such extension within 1 month of receipt of the request for consultation, together with the reasons for the delay.
+
+#### Article 73 — Security of processing of operational personal data
+
+1\. The EPPO shall, taking into account the state of the art, costs of implementation and the nature, scope, context and purposes of the processing as well as risk of varying likelihood and severity for the rights and freedoms of natural persons, implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, in particular as regards the processing of special categories of operational personal data referred to in Article 55.
+
+2\. In respect of automated processing, the EPPO shall, following an evaluation of the risks, implement measures designed to:
+
+(a) deny unauthorised persons access to data processing equipment used for processing (equipment access control);
+
+(b) prevent the unauthorised reading, copying, modification or removal of data media (data media control);
+
+(c) prevent the unauthorised input of data and the unauthorised inspection, modification or deletion of stored operational personal data (storage control);
+
+(d) prevent the use of automated processing systems by unauthorised persons using data communication equipment (user control);
+
+(e) ensure that persons authorised to use an automated processing system have access only to the operational personal data covered by their access authorisation (data access control);
+
+(f) ensure that it is possible to verify and establish the bodies to which operational personal data have been or may be transmitted or made available using data communication (communication control);
+
+(g) ensure that it is subsequently possible to verify and establish which operational personal data have been input into automated data processing systems, and when and by whom the data were input (input control);
+
+(h) prevent unauthorised reading, copying, modification or deletion of operational personal data during transfers of operational personal data or during transportation of data media (transport control);
+
+(i) ensure that installed systems may, in the case of interruption, be restored (recovery);
+
+(j) ensure that the functions of the system perform, that the appearance of faults in the functions is reported (reliability) and that stored operational personal data cannot be corrupted by means of a malfunctioning of the system (integrity).
+
+#### Article 74 — Notification of a personal data breach to the European Data Protection Supervisor
+
+1\. In the case of a personal data breach, the EPPO shall notify without undue delay and, where feasible, not later than 72 hours after having become aware of it, the personal data breach to the European Data Protection Supervisor, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons. Where the notification to the European Data Protection Supervisor is not made within 72 hours, it shall be accompanied by reasons for the delay.
+
+2\. The notification referred to in paragraph 1 shall at least:
+
+(a) describe the nature of the personal data breach including, where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
+
+(b) communicate the name and contact details of the data protection officer;
+
+(c) describe the likely consequences of the personal data breach;
+
+(d) describe the measures taken or proposed to be taken by the EPPO to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
+
+3\. Where, and in so far as, it is not possible to provide the information referred to in paragraph 2 at the same time, the information may be provided in phases without undue further delay.
+
+4\. The EPPO shall document any personal data breaches referred to in paragraph 1, comprising the facts relating to the personal data breach, its effects and the remedial action taken. That documentation shall enable the European Data Protection Supervisor to verify compliance with this Article.
+
+5\. Where the personal data breach involves personal data that have been transmitted by or to another controller, the EPPO shall communicate the information referred to in paragraph 3 to that controller without undue delay.
+
+#### Article 75 — Communication of a personal data breach to the data subject
+
+1\. Where the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the EPPO shall communicate the personal data breach to the data subject without undue delay.
+
+2\. The communication to the data subject referred to in paragraph 1 of this Article shall describe, in clear and plain language the nature of the personal data breach and shall contain at least the information and the recommendations provided for in points (b), (c) and (d) of Article 74(2).
+
+3\. The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:
+
+(a) the EPPO has implemented appropriate technological and organisational protection measures, and that those measures were applied to the personal data affected by the personal data breach, in particular those that render the personal data unintelligible to any person who is not authorised to access it, such as encryption;
+
+(b) the EPPO has taken subsequent measures which ensure that the high risk to the rights and freedoms of data subjects referred to in paragraph 1 is no longer likely to materialise;
+
+(c) it would involve a disproportionate effort. In such a case, there shall instead be a public communication or a similar measure whereby the data subjects are informed in an equally effective manner.
+
+4\. If the EPPO has not already communicated the personal data breach to the data subject, the European Data Protection Supervisor, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so, or may decide that any of the conditions referred to in paragraph 3 are met.
+
+5\. The communication to the data subject referred to in paragraph 1 of this Article may be delayed, restricted or omitted subject to the conditions and on the grounds referred to in Article 60(3).
+
+#### Article 76 — Authorised access to operational personal data within the EPPO
+
+Only the European Chief Prosecutor, the European Prosecutors, the European Delegated Prosecutors and authorised staff assisting them may, for the purpose of achieving their tasks and within the limits provided for in this Regulation, have access to operational personal data processed by the EPPO.
+
+#### Article 77 — Designation of the Data Protection Officer
+
+1\. The College shall designate a Data Protection Officer, on the basis of a proposal from the European Chief Prosecutor. The Data Protection Officer shall be a member of staff specifically appointed for this purpose. In the performance of his/her duties, the Data Protection Officer shall act independently and may not receive any instructions.
+
+2\. The Data Protection Officer shall be selected on the basis of the Officer’s professional qualities and, in particular, expert knowledge of data protection law and practice, and the ability to fulfil the tasks referred to in this Regulation, in particular those referred to in Article 79.
+
+3\. The selection of the Data Protection Officer shall not be liable to result in a conflict of interests between the Officer’s duty as Data Protection Officer and any other official duties, in particular in relation to the application of this Regulation.
+
+4\. The Data Protection Officer shall be appointed for a term of 4 years and shall be eligible for reappointment up to a maximum total term of 8 years. The Officer may be dismissed from the post of Data Protection Officer by the College only with the agreement of the European Data Protection Supervisor, if the Officer no longer fulfils the conditions required for the performance of his/her duties.
+
+5\. The EPPO shall publish the contact details of the data protection officer and communicate them to the European Data Protection Supervisor.
+
+#### Article 78 — Position of the Data Protection Officer
+
+1\. The EPPO shall ensure that the Data Protection Officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data.
+
+2\. The EPPO shall support the data protection officer in performing the tasks referred to in Article 79 by providing resources necessary to carry out those tasks and by providing access to personal data and processing operations, and to maintain his or her expert knowledge.
+
+3\. The EPPO shall ensure that the data protection officer does not receive any instructions regarding the exercise of those tasks. The Officer shall not be dismissed or penalised by the College for performing his/her tasks. The data protection officer shall directly report to the European Chief Prosecutor.
+
+4\. Data subjects may contact the data protection officer with regard to all issues related to processing of their personal data and to the exercise of their rights under this Regulation and under Regulation (EC) No 45/2001.
+
+5\. The College shall adopt implementing rules concerning the Data Protection Officer. Those implementing rules shall in particular concern the selection procedure for the position of the Data Protection Officer and the Officer’s dismissal, tasks, duties and powers and safeguards for independence of the Data Protection Officer.
+
+6\. The EPPO shall provide the Data Protection Officer with the staff and resources necessary for him/her to carry out his/her duties.
+
+7\. The Data Protection Officer and his/her staff shall be bound by the obligation of confidentiality in accordance with Article 108.
+
+#### Article 79 — Tasks of the data protection officer
+
+1\. The Data Protection Officer shall in particular have the following tasks, regarding the processing of personal data:
+
+(a) ensuring, in an independent manner the EPPO’s compliance with the data protection provisions of this Regulation, of Regulation (EC) No 45/2001 and of the relevant data protection provisions in the internal rules of procedure of the EPPO; this includes monitoring compliance with this Regulation, with other Union or national data protection provisions and with the policies of the EPPO in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+
+(b) informing and advising the EPPO and the staff who carry out processing of their obligations pursuant to this Regulation and to other Union or national data protection provisions;
+
+(c) providing advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 71;
+
+(d) ensuring that a record of the transfer and receipt of personal data is kept in accordance with the provisions to be laid down in the internal rules of procedure of the EPPO;
+
+(e) cooperating with the staff of the EPPO responsible for procedures, training and advice on data processing;
+
+(f) cooperating with the European Data Protection Supervisor;
+
+(g) ensuring that data subjects are informed of their rights under this Regulation;
+
+(h) acting as the contact point for the European Data Protection Supervisor; on issues relating to processing, including the prior consultation referred to in Article 72, and consulting, where appropriate, with regard to any other matter;
+
+(i) preparing an annual report and communicate that report to the European Chief Prosecutor and to the European Data Protection Supervisor.
+
+2\. The Data Protection Officer shall carry out the functions provided for in Regulation (EC) No 45/2001 with regard to administrative personal data.
+
+3\. The Data Protection Officer and the staff members of the EPPO assisting the Data Protection Officer in the performance of duties shall have access to the personal data processed by the EPPO and to its premises to the extent necessary for the performance of their tasks.
+
+4\. If the Data Protection Officer considers that the provisions of Regulation (EC) No 45/2001 related to the processing of administrative personal data or the provisions of this Regulation related to the processing of operational personal data have not been complied with, the Officer shall inform the European Chief Prosecutor, requesting him/her to resolve the non-compliance within a specified time. If the European Chief Prosecutor does not resolve the non-compliance of the processing within the specified time, the Data Protection Officer shall refer the matter to the European Data Protection Supervisor.
+
+#### Article 80 — General principles for transfers of operational personal data
+
+1\. The EPPO may transfer operational personal data to a third country or international organisation, subject to compliance with the other provisions of this Regulation, in particular Article 53, only where the conditions laid down in the Articles 80 to 83 are met, namely:
+
+(a) the transfer is necessary for the performance of the tasks of the EPPO;
+
+(b) the operational personal data are transferred to a controller in a third country or international organisation that is an authority competent for the purpose of Article 104;
+
+(c) where the operational personal data to be transferred in accordance with this Article have been transmitted or made available by a Member State of the European Union to the EPPO, the latter shall obtain prior authorisation for the transfer by the relevant competent authority of that Member State of the European Union in compliance with its national law, unless that Member State of the European Union has granted this authorisation to such transfer in general terms or subject to specific conditions;
+
+(d) the Commission has decided pursuant to Article 81 that the third country or international organisation in question ensures an adequate level of protection, or in the absence of such an adequacy decision, where appropriate safeguards are adduced or exist pursuant to Article 82, or both in absence of an adequacy decision and of such appropriate safeguards, derogation for specific situations apply pursuant to Article 83; and
+
+(e) in the case of an onward transfer to another third country or international organisation by a third country or international organisation, the EPPO shall require the third country or international organisation to seek its prior authorisation for that onward transfer, which the EPPO may provide only after taking into due account all relevant factors, including the seriousness of the criminal offence, the purpose for which the operational personal data was originally transferred and the level of personal data protection in the third country or an international organisation to which operational personal data are onward transferred.
+
+2\. The EPPO may transfer operational personal data without prior authorisation by a Member State of the European Union in accordance with point (c) of paragraph 1 only if the transfer of the operational personal data is necessary for the prevention of an immediate and serious threat to public security of a Member State of the European Union or a third country or to essential interests of a Member State of the European Union and the prior authorisation cannot be obtained in good time. The authority responsible for giving prior authorisation shall be informed without delay.
+
+3\. The transfer of operational personal data received from the EPPO to a third country or an international organisation by a Member State of the European Union, or institution, body, office or agency of the Union shall be prohibited. This shall not apply in cases where the EPPO has authorised such transfer, after taking into due account all relevant factors, including the seriousness of the criminal offence, the purpose for which the operational personal data was originally transmitted and the level of personal data protection in the third country or an international organisation to which operational personal data are transferred. That obligation to obtain prior authorisation from the EPPO shall not apply to cases that have been referred to competent national authorities in accordance with Article 34.
+
+4\. Articles 80 to 83 shall be applied in order to ensure that the level of protection of natural persons ensured by this Regulation and by Union law is not undermined.
+
+#### Article 81 — Transfers on the basis of an adequacy decision
+
+The EPPO may transfer operational personal data to a third country or an international organisation where the Commission has decided in accordance with Article 36 of Directive (EU) 2016/680 that the third country, a territory or one or more specified sectors within that third country, or the international organisation in question ensures an adequate level of protection.
+
+#### Article 82 — Transfers subject to appropriate safeguards
+
+1\. In the absence of an adequacy decision, the EPPO may transfer operational personal data to a third country or an international organisation where:
+
+(a) appropriate safeguards with regard to the protection of operational personal data are provided for in a legally binding instrument; or
+
+(b) the EPPO has assessed all the circumstances surrounding the transfer of operational personal data and concludes that appropriate safeguards exist with regard to the protection of operational personal data.
+
+2\. The EPPO shall inform the European Data Protection Supervisor about categories of transfers under point (b) of paragraph 1.
+
+3\. When a transfer is based on point (b) of paragraph 1, such a transfer shall be documented and the documentation shall be made available to the European Data Protection Supervisor on request, including the date and time of the transfer, and information about the receiving competent authority, about the justification for the transfer and about the operational personal data transferred.
+
+#### Article 83 — Derogations for specific situations
+
+1\. In the absence of an adequacy decision, or of appropriate safeguards pursuant to Article 82, the EPPO may transfer operational personal data to a third country or an international organisation only on the condition that the transfer is necessary:
+
+(a) in order to protect the vital interests of the data subject or another person;
+
+(b) to safeguard legitimate interests of the data subject;
+
+(c) for the prevention of an immediate and serious threat to public security of a Member State of the European Union or a third country; or
+
+(d) in individual cases for the performance of the tasks of the EPPO, unless the EPPO determines that fundamental rights and freedoms of the data subject concerned override the public interest in the transfer.
+
+2\. Where a transfer is based on paragraph 1, such a transfer shall be documented and the documentation shall be made available to the European Data Protection Supervisor on request, including the date and time of the transfer, and information about the receiving competent authority, about the justification for the transfer and about the operational personal data transferred.
+
+#### Article 84 — Transfers of operational personal data to recipients established in third countries
+
+1\. By way of derogation from point (b) of Article 80(1) and without prejudice to any international agreement referred to in paragraph 2 of this Article, the EPPO, in individual and specific cases, may transfer operational personal data directly to recipients established in third countries only if the other provisions of this Chapter are complied with and all of the following conditions are fulfilled:
+
+(a) the transfer is strictly necessary for the performance of its tasks as provided for by this Regulation for the purposes set out in Article 49(1);
+
+(b) the EPPO determines that no fundamental rights and freedoms of the data subject concerned override the public interest necessitating the transfer in the case at hand;
+
+(c) the EPPO considers that the transfer to an authority that is competent for the purposes referred to in Article 49(1) in the third country is ineffective or inappropriate, in particular because the transfer cannot be achieved in good time;
+
+(d) the authority that is competent for the purposes referred to in Article 49(1) in the third country is informed without undue delay, unless this is ineffective or inappropriate;
+
+(e) the EPPO informs the recipient of the specified purpose or purposes for which the operational personal data are only to be processed by the latter provided that such processing is necessary.
+
+2\. An international agreement referred to in paragraph 1 shall be any bilateral or multilateral international agreement in force between the Union and third countries in the field of judicial cooperation in criminal matters and police cooperation.
+
+3\. Where a transfer is based on paragraph 1, such a transfer shall be documented and the documentation shall be made available to the European Data Protection Supervisor on request, including the date and time of the transfer, and information about the receiving competent authority, about the justification for the transfer and about the operational personal data transferred.
+
+#### Article 85 — Supervision by the European Data Protection Supervisor
+
+1\. The European Data Protection Supervisor shall be responsible for monitoring and ensuring the application of the provisions of this Regulation relating to the protection of fundamental rights and freedoms of natural persons with regard to processing of operational personal data by the EPPO, and for advising the EPPO and data subjects on all matters concerning the processing of operational personal data. To this end, the European Data Protection Supervisor shall fulfil the duties set out in paragraph 2 of this Article, shall exercise the powers granted in paragraph 3 of this Article and shall cooperate with the national supervisory authorities in accordance with Article 87.
+
+2\. The European Data Protection Supervisor shall have the following duties under this Regulation:
+
+(a) hear and investigate complaints, and inform the data subject of the outcome within a reasonable period;
+
+(b) conduct inquiries either on his/her own initiative or on the basis of a complaint, and inform the data subjects of the outcome within a reasonable period;
+
+(c) monitor and ensure the application of the provisions of this Regulation relating to the protection of natural persons with regard to the processing of operational personal data by the EPPO;
+
+(d) advise the EPPO, either on his/her own initiative or in response to a consultation, on all matters concerning the processing of operational personal data, in particular before it draws up internal rules relating to the protection of fundamental rights and freedoms with regard to the processing of operational personal data.
+
+3\. The European Data Protection Supervisor may under this Regulation:
+
+(a) give advice to data subjects in the exercise of their rights;
+
+(b) refer the matter to the EPPO in the event of an alleged breach of the provisions governing the processing of operational personal data, and, where appropriate, make proposals for remedying that breach and for improving the protection of the data subjects;
+
+(c) consult the EPPO when requests to exercise certain rights in relation to operational personal data have been refused in breach of Articles 56 to 62;
+
+(d) refer the matter to the EPPO;
+
+(e) order the EPPO to carry out the rectification, restriction or erasure of operational personal data which have been processed by the EPPO in breach of the provisions governing the processing of operational personal data and the notification of such actions to third parties to whom such data have been disclosed, provided that this does not interfere with investigations and prosecutions led by the EPPO;
+
+(f) refer the matter to the Court of Justice under the conditions set out in the Treaties;
+
+(g) intervene in actions brought before the Court of Justice.
+
+4\. The European Data Protection Supervisor shall have access to the operational personal data processed by the EPPO and to its premises to the extent necessary for the performance of its tasks.
+
+5\. The European Data Protection Supervisor shall draw up an annual report on the supervisory activities on the EPPO.
+
+#### Article 86 — Professional secrecy of the European Data Protection Supervisor
+
+The European Data Protection Supervisor and staff shall, both during and after their term of office, be subject to a duty of professional secrecy with regard to any confidential information which has come to their knowledge in the course of the performance of official duties.
+
+#### Article 87 — Cooperation between the European Data Protection Supervisor and national supervisory authorities
+
+1\. The European Data Protection Supervisor shall act in close cooperation with national supervisory authorities with respect to specific issues requiring national involvement, in particular if the European Data Protection Supervisor or a national supervisory authority finds major discrepancies between practices of Member States of the European Union or finds potentially unlawful transfers using the communication channels of the EPPO, or in the context of questions raised by one or more national supervisory authorities on the implementation and interpretation of this Regulation.
+
+2\. In the cases referred to in paragraph 1, the European Data Protection Supervisor and the national supervisory authorities competent for data protection supervision may, each acting within the scope of their respective competences, exchange relevant information, and assist each other in carrying out audits and inspections, examine difficulties of interpretation or application of this Regulation, study problems related to the exercise of independent supervision or to the exercise of the rights of data subjects, draw up harmonised proposals for joint solutions to any problems, and promote awareness of data protection rights, as necessary.
+
+3\. The European Data Protection Board established by Regulation (EU) 2016/679 shall also carry out the tasks laid down in Article 51 of Directive (EU) 2016/680 with regard to matters covered by this Regulation, in particular those referred to in paragraphs 1 and 2 of this Article.
+
+#### Article 88 — Right to lodge a complaint with the European Data Protection Supervisor
+
+1\. Every data subject shall have the right to lodge a complaint with the European Data Protection Supervisor, if the data subject considers that the processing by the EPPO of operational personal data relating to the data subject infringes this Regulation.
+
+2\. The European Data Protection Supervisor shall inform the data subject of the progress and the outcome of the complaint, including of the possibility of a judicial remedy pursuant to Article 89.
+
+#### Article 89 — Right to judicial review against the European Data Protection Supervisor
+
+Actions against decisions of the European Data Protection Supervisor shall be brought before the Court of Justice.
+
+## CHAPTER IX — FINANCIAL AND STAFF PROVISIONS
+
+### SECTION 1 — Financial provisions
+
+#### Article 90 — Financial actors
+
+1\. The European Chief Prosecutor shall be responsible for preparing decisions on the establishment of the budget and submitting them to the College for adoption.
+
+2\. The Administrative Director shall be responsible as authorising officer for implementing the budget of the EPPO.
+
+#### Article 91 — Budget
+
+1\. The European Chief Prosecutor shall prepare estimates of the revenue and expenditure of the EPPO for each financial year, corresponding to the calendar year, on the basis of a proposal drawn up by the Administrative Director. Those estimates shall be shown in the budget of the EPPO.
+
+2\. The budget of the EPPO shall be balanced in terms of revenue and expenditure.
+
+3\. Without prejudice to other resources, the revenue of the EPPO shall comprise:
+
+(a) a contribution from the Union entered in the general budget of the Union, subject to paragraphs 7 and 8;
+
+(b) charges for publications and any service provided by the EPPO.
+
+4\. The expenditure of the EPPO shall include the remuneration of the European Chief Prosecutor, European Prosecutors, European Delegated Prosecutors, the Administrative Director and the staff of the EPPO, administrative and infrastructure expenses, and operational expenditure.
+
+5\. Where European Delegated Prosecutors act within the framework of the EPPO, the relevant expenditure incurred by the European Delegated Prosecutors in the course of those activities shall be regarded as operational expenditure of the EPPO.
+
+The operational expenditure of the EPPO’s shall in principle not include costs related to investigation measures carried out by competent national authorities or costs of legal aid. However, it shall, within the budget of the EPPO, include certain costs related to its investigation and prosecution activities as set out in paragraph 6.
+
+The operational expenditure shall also include the setting up of a case management system, training, missions and translations necessary for the internal functioning of the EPPO, such as translations for the Permanent Chamber.
+
+6\. Where an exceptionally costly investigation measure is carried out on behalf of the EPPO, the European Delegated Prosecutors may, on their own initiative or at the reasoned request of the competent national authorities, consult the Permanent Chamber as to whether the cost of the investigation measure could partly be met by the EPPO. Such consultations shall not delay the investigation.
+
+The Permanent Chamber may then, upon consultation with the Administrative Director and based on the proportionality of the measure carried out in the specific circumstances and the extra-ordinary nature of the cost it entails decide to accept or refuse the request, in accordance with the rules on the assessment of these criteria to be set out in the internal rules of procedure of the EPPO. The Administrative Director shall then decide on the amount of the grant to be awarded based on the available financial resources. The Administrative Director shall without delay inform the handling European Delegated Prosecutor of the decision on the amount.
+
+7\. In accordance with Article 332 TFEU, the expenditure of the EPPO referred to in paragraphs 4 and 5 of this Article shall be borne by the Member States. Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO shall receive an adjustment in accordance with Article 11 of Council Regulation (EU, Euratom) No 609/2014 ( 6 ).
+
+8\. Paragraph 7 shall not apply to the administrative costs entailed for the Union’s institutions resulting from implementation of enhanced cooperation on the establishment of the EPPO.
+
+#### Article 92 — Establishment of the budget
+
+1\. Each year the European Chief Prosecutor shall prepare a provisional draft estimate of the revenue and expenditure of the EPPO for the following financial year on the basis of a proposal drawn up by the Administrative Director. The European Chief Prosecutor shall send the provisional draft estimate to the College for adoption.
+
+2\. The provisional draft estimate of the revenue and expenditure of the EPPO shall be sent to the Commission by 31 January each year. The EPPO shall send a final draft estimate, which shall include a draft establishment plan, to the Commission by 31 March each year.
+
+3\. The Commission shall send the statement of estimates to the European Parliament and to the Council (‘the budgetary authority’) together with the draft general budget of the Union.
+
+4\. On the basis of the statement of estimates, the Commission shall enter in the draft general budget of the Union the estimates it considers to be necessary for the establishment plan and the amount of the contribution to be charged to the general budget, which it shall submit to the budgetary authority in accordance with Articles 313 and 314 TFEU.
+
+5\. The budgetary authority shall authorise the appropriations for the contribution from the general budget of the Union to the EPPO.
+
+6\. The budgetary authority shall adopt the establishment plan of the EPPO.
+
+7\. The College shall adopt the budget of the EPPO on a proposal from the European Chief Prosecutor. It shall become final following the final adoption of the general budget of the Union. Where necessary, it shall be adjusted in accordance with the same procedure as for the adoption of the initial budget.
+
+8\. For any building project likely to have significant implications for the budget of the EPPO, Article 88 of Commission Delegated Regulation (EU) No 1271/2013 ( 7 ) shall apply.
+
+#### Article 93 — Implementation of the budget
+
+1\. The Administrative Director acting as the authorising officer of the EPPO, shall implement its budget under his/her own responsibility and within the limits authorised in the budget.
+
+2\. Each year the Administrative Director shall send to the budgetary authority all information relevant to the findings of any evaluation procedures.
+
+#### Article 94 — Presentation of accounts and discharge
+
+1\. The accounting officer of the EPPO shall send the provisional accounts for the financial year (year N) to the Commission’s Accounting Officer and to the Court of Auditors by 1 March of the following financial year (year N + 1).
+
+2\. The EPPO shall send the report on the budgetary and financial management to the European Parliament, to the Council and to the Court of Auditors, by 31 March of the following financial year.
+
+3\. The Commission’s Accounting Officer shall send the provisional accounts of the EPPO consolidated with the Commission’s accounts, to the Court of Auditors by 31 March following each financial year.
+
+4\. In accordance with Article 148(1) of Regulation (EU, Euratom) No 966/2012, the Court of Auditors shall, make its observations on the provisional accounts of the EPPO by 1 June of the following year at the latest.
+
+5\. On receipt of the Court of Auditors’ observations on the provisional accounts of the EPPO pursuant to Article 148 of Regulation (EU, Euratom) No 966/2012, the accounting officer of the EPPO shall draw up its final accounts under his/her own responsibility and submit these to the College for an opinion.
+
+6\. The accounting officer of the EPPO shall, by 1 July following each financial year, send the final accounts to the European Parliament, to the Council, to the Commission and to the Court of Auditors, together with the opinion of the College referred to in paragraph 5.
+
+7\. The final accounts of the EPPO shall be published in the Official Journal of the European Union by 15 November of the year following each financial year.
+
+8\. The Administrative Director shall send the Court of Auditors a reply to its observations by 30 September following each financial year at the latest. The Administrative Director shall also send the reply to the Commission.
+
+9\. The Administrative Director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for the financial year in question as laid down in Article 109(3) of Delegated Regulation (EU) No 1271/2013.
+
+10\. On a recommendation from the Council acting by a qualified majority, the European Parliament, shall, before 15 May of year N + 2, give a discharge to the Administrative Director in respect of the implementation of the budget for year N.
+
+#### Article 95 — Financial rules
+
+The European Chief Prosecutor shall draw up the draft financial rules applicable to the EPPO on the basis of a proposal from the Administrative Director. Those rules shall be adopted by the College after consultation with the Commission. The financial rules shall not depart from those contained in Delegated Regulation (EU) No 1271/2013 unless such departure is specifically required for the operation of the EPPO and the Commission has given its prior consent.
+
+### SECTION 2 — Staff provisions
+
+#### Article 96 — General provisions
+
+1\. The Staff Regulations and the Conditions of Employment and the rules adopted by agreement between the institutions of the Union for giving effect to those Staff Regulations and Conditions of Employment shall apply to the European Chief Prosecutor and the European Prosecutors, the European Delegated Prosecutors, the Administrative Director and the staff of the EPPO, unless otherwise provided for in this Regulation.
+
+The European Chief Prosecutor and the European Prosecutors shall be engaged as temporary agents of the EPPO under Article 2(a) of the Conditions of Employment.
+
+2\. The staff of the EPPO shall be recruited according to the rules and regulations applicable to officials and other servants of the European Union.
+
+3\. The powers conferred on the appointing authority by the Staff Regulations and the Conditions of Employment to conclude contracts of employment shall be exercised by the College. The College may delegate these powers to the Administrative Director with respect to the staff of the EPPO. Delegation of powers referred to in this paragraph shall not concern the European Chief Prosecutor, the European Prosecutors, the European Delegated Prosecutors or the Administrative Director.
+
+4\. The College shall adopt appropriate rules to implement the Staff Regulations and the Conditions of Employment in accordance with Article 110 of the Staff Regulations. The College shall also adopt staff resource programming as part of the programming document.
+
+5\. The Protocol on the Privileges and Immunities of the European Union shall apply to the EPPO and its staff.
+
+6\. European Delegated Prosecutors shall be engaged as Special Advisors in accordance with Articles 5, 123 and 124 of the Conditions of Employment. The competent national authorities shall facilitate the exercise of the functions of European Delegated Prosecutors under this Regulation and refrain from any action or policy that may adversely affect their career or status in the national prosecution system. In particular, the competent national authorities shall provide the European Delegated Prosecutors with the resources and equipment necessary to exercise their functions under this Regulation, and shall ensure that they are fully integrated into their national prosecution services. It shall be ensured that adequate arrangements are in place so that the European Delegated Prosecutors’ rights relating to social security, pension and insurance coverage under the national scheme are maintained. It shall also be ensured that the total remuneration of a European Delegated Prosecutor is not lower than what it would be if that prosecutor would only have remained a national prosecutor. The general working conditions and work environment of the European Delegated Prosecutors shall fall under the responsibility of the competent national judicial authorities.
+
+7\. The European Prosecutors and the European Delegated Prosecutors shall not receive in the exercise of their investigation and prosecution powers, any orders, guidelines or instructions other than those expressly provided for in Article 6.
+
+#### Article 97 — Temporary agents and contract agents
+
+1\. Temporary agents employed under point (a) of Article 2 of the Conditions of Employment in the institutions, bodies, offices or agencies of the Union who are engaged by the EPPO with a contract concluded before and no later than 1 year after the EPPO becomes operational in accordance with the decision mentioned in Article 120(2) shall be offered contracts under point (f) of Article 2 of the Conditions of Employment whereas all other conditions of the contract shall remain unchanged, without prejudice to the need to respect the obligations stemming from the Conditions of Employment. Those temporary agents shall be deemed to have served their entire service in the EPPO.
+
+2\. Contract agents employed under Article 3a or 3b of the Conditions of Employment in the institutions of the Union who are engaged by the EPPO with a contract concluded before and no later than 1 year after the EPPO becomes operational in accordance with the decision mentioned in Article 120(2) shall be offered contracts under Article 3a Conditions of Employment whereas all other conditions of the contract shall remain unchanged. Those contract agents shall be deemed to have served their entire service in the EPPO.
+
+3\. Temporary agents employed under point (f) of Article 2 of the Conditions of Employment and contract agents employed under Article 3a of the Conditions of Employment in the institutions, bodies, offices or agencies of the Union who are engaged by the EPPO with a contract concluded before and no later than 1 year after the EPPO becomes operational in accordance with the decision mentioned in Article 120(2) shall be offered contracts under the same conditions. Those agents shall be deemed to have served their entire service in the EPPO.
+
+#### Article 98 — Seconded national experts and other staff
+
+1\. The EPPO may make use, in addition to its own staff, of seconded national experts or other persons put at its disposal but not employed by it. The seconded national experts shall be subject to the authority of the European Chief Prosecutor in the exercise of tasks related to the functions of the EPPO.
+
+2\. The College shall adopt a decision laying down rules on the secondment of national experts to the EPPO or other persons put at its disposal but not employed by it.
+
+## CHAPTER X — PROVISIONS ON THE RELATIONS OF THE EPPO WITH ITS PARTNERS
+
+#### Article 99 — Common provisions
+
+1\. In so far as necessary for the performance of its tasks, the EPPO may establish and maintain cooperative relations with institutions, bodies, offices or agencies of the Union in accordance with their respective objectives, and with the authorities of Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO, the authorities of third countries and international organisations.
+
+2\. In so far as relevant to the performance of its tasks, the EPPO may, in accordance with Article 111, directly exchange all information, with the entities referred to in paragraph 1 of this Article, unless otherwise provided for in this Regulation.
+
+3\. For the purposes set out in paragraphs 1 and 2, the EPPO may conclude working arrangements with the entities referred to in paragraph 1. Those working arrangements shall be of a technical and/or operational nature, and shall in particular aim to facilitate cooperation and the exchange of information between the parties thereto. The working arrangements may neither form the basis for allowing the exchange of personal data nor have legally binding effects on the Union or its Member States.
+
+#### Article 100 — Relations with Eurojust
+
+1\. The EPPO shall establish and maintain a close relationship with Eurojust based on mutual cooperation within their respective mandates and on the development of operational, administrative and management links between them as defined in this Article. To this end, the European Chief Prosecutor and the President of Eurojust shall meet on a regular basis to discuss issues of common concern.
+
+2\. In operational matters, the EPPO may associate Eurojust with its activities concerning cross-border cases, including by:
+
+(a) sharing information, including personal data, on its investigations in accordance with the relevant provisions in this Regulation;
+
+(b) inviting Eurojust or its competent national member(s) to provide support in the transmission of its decisions or requests for mutual legal assistance to, and execution in, Member States of the European Union that are members of Eurojust but do not take part in the establishment of the EPPO, as well as third countries.
+
+3\. The EPPO shall have indirect access to information in Eurojust’s case management system on the basis of a hit/no-hit system. Whenever a match is found between data entered into the case management system by the EPPO and data held by Eurojust, the fact that there is a match shall be communicated to both Eurojust and the EPPO, as well as the Member State of the European Union which provided the data to Eurojust. The EPPO shall take appropriate measures to enable Eurojust to have access to information in its case management system on the basis of a hit/no-hit system.
+
+4\. The EPPO may rely on the support and resources of the administration of Eurojust. To that end, Eurojust may provide services of common interest to the EPPO. The details shall be regulated by means of an Arrangement.
+
+#### Article 101 — Relations with OLAF
+
+1\. The EPPO shall establish and maintain a close relationship with OLAF based on mutual cooperation within their respective mandates and on information exchange. The relationship shall aim in particular to ensure that all available means are used to protect the Union’s financial interests through the complementarity and support by OLAF to the EPPO.
+
+2\. Without prejudice to the actions set out in paragraph 3, where the EPPO conducts a criminal investigation in accordance with this Regulation, OLAF shall not open any parallel administrative investigation into the same facts.
+
+3\. In the course of an investigation by the EPPO, the EPPO may request OLAF, in accordance with OLAF’s mandate, to support or complement the EPPO’s activity in particular by:
+
+(a) providing information, analyses (including forensic analyses), expertise and operational support;
+
+(b) facilitating coordination of specific actions of the competent national administrative authorities and bodies of the Union;
+
+(c) conducting administrative investigations.
+
+4\. The EPPO may, with a view to enabling OLAF to consider appropriate administrative action in accordance with its mandate, provide relevant information to OLAF on cases where the EPPO has decided not to conduct an investigation or has dismissed a case.
+
+5\. The EPPO shall have indirect access to information in OLAF’s case management system on the basis of a hit/no hit system. Whenever a match is found between data entered into the case management system by the EPPO and data held by OLAF, the fact that there is a match shall be communicated to both OLAF and the EPPO. The EPPO shall take appropriate measures to enable OLAF to have access to information in its case management system on the basis of a hit/no-hit system.
+
+#### Article 102 — Relations with Europol
+
+1\. The EPPO shall establish and maintain a close relationship with Europol. To that end, they shall conclude a working arrangement setting out the modalities of their cooperation.
+
+2\. Where necessary for the purpose of its investigations, the EPPO shall be able to obtain, at its request, any relevant information held by Europol, concerning any offence within its competence, and may also ask Europol to provide analytical support to a specific investigation conducted by the EPPO.
+
+#### Article 103 — Relations with other institutions, bodies, offices and agencies of the Union
+
+1\. The EPPO shall establish and maintain a cooperative relationship with the Commission for the purpose of protecting the financial interests of the Union. To that end, they shall conclude an agreement setting out the modalities for their cooperation.
+
+2\. Without prejudice to the proper conduct and confidentiality of its investigations, the EPPO shall without delay, provide the institution, body, office or agency of the Union and other victims concerned sufficient information in order to allow them to take appropriate measures, in particular:
+
+(a) administrative measures, such as precautionary measures to protect the financial interests of the Union, in this regard. The EPPO may recommend specific measures to the institution, body, office or agency of the Union;
+
+(b) intervention as a civil party in the proceedings;
+
+(c) measures for the purpose of administrative recovery of sums due to the Union budget or disciplinary action.
+
+#### Article 104 — Relations with third countries and international organisations
+
+1\. The working arrangements referred to in Article 99(3) with the authorities of third countries and international organisations may in particular, concern the exchange of strategic information and the secondment of liaison officers to the EPPO.
+
+2\. The EPPO may designate, in agreement with the competent authorities concerned, contact points in third countries in order to facilitate cooperation in line with the operational needs of the EPPO.
+
+3\. International agreements with one or more third countries concluded by the Union or to which the Union has acceded in accordance with Article 218 TFEU in areas that fall under the competence of the EPPO, such as international agreements concerning cooperation in criminal matters between the EPPO and those third countries, shall be binding on the EPPO.
+
+4\. In the absence of an agreement pursuant to paragraph 3, the Member States shall, if permitted under the relevant multilateral international agreement and subject to the third country’s acceptance, recognise and, where applicable, notify the EPPO as a competent authority for the purpose of the implementation of multilateral international agreements on legal assistance in criminal matters concluded by them, including, where necessary and possible, by way of an amendment to those agreements.
+
+The Member States may also notify the EPPO as a competent authority for the purpose of the implementation of other international agreements on legal assistance in criminal matters concluded by them, including, by way of an amendment to those agreements.
+
+5\. In the absence of an agreement pursuant to paragraph 3 of this Article or a recognition pursuant to paragraph 4 of this Article, the handling European Delegated Prosecutor, in accordance with Article 13(1), may have recourse to the powers of a national prosecutor of his/her Member State to request legal assistance in criminal matters from authorities of third countries, on the basis of international agreements concluded by that Member State or applicable national law and, where required, through the competent national authorities. In that case, the European Delegated Prosecutor shall inform and where appropriate shall endeavour to obtain consent from the authorities of third countries that the evidence collected on that basis will be used by the EPPO for the purposes of this Regulation. In any case, the third country shall be duly informed that the final recipient of the reply to the request is the EPPO.
+
+Where the EPPO cannot exercise its functions on the basis of a relevant international agreement as referred to in paragraph 3 or 4 of this Article, the EPPO may also request legal assistance in criminal matters from authorities of third countries in a particular case and within the limits of its material competence. The EPPO shall comply with the conditions which may be set by those authorities concerning the use of the information that they provided on that basis.
+
+6\. Subject to the other provisions of this Regulation, the EPPO may, upon request, provide the competent authorities of third countries or international organisations, for the purpose of investigations or use as evidence in criminal investigations, with information or evidence which is already in the possession of the EPPO. After consulting the Permanent Chamber, the handling European Delegated Prosecutor shall decide on any such transfer of information or evidence in accordance with the national law of his/her Member State and this Regulation.
+
+7\. Where it is necessary to request the extradition of a person, the handling European Delegated Prosecutor may request the competent authority of his/her Member State to issue an extradition request in accordance with applicable treaties and/or national law.
+
+#### Article 105 — Relations with Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO
+
+1\. The working arrangements referred to in Article 99(3) with the authorities of Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO may in particular, concern the exchange of strategic information and the secondment of liaison officers to the EPPO.
+
+2\. The EPPO may designate, in agreement with the competent authorities concerned, contact points in the Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO in order to facilitate cooperation in line with the EPPO’s needs.
+
+3\. In the absence of a legal instrument relating to cooperation in criminal matters and surrender between the EPPO and the competent authorities of the Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO, the Member States shall notify the EPPO as a competent authority for the purpose of implementation of the applicable Union acts on judicial cooperation in criminal matters in respect of cases falling within the competence of the EPPO, in their relations with Member States of the European Union which do not participate in enhanced cooperation on the establishment of the EPPO.
+
+## CHAPTER XI — GENERAL PROVISIONS
+
+#### Article 106 — Legal status and operating conditions
+
+1\. In each of the Member States the EPPO shall have the legal capacity accorded to legal persons under national law.
+
+2\. The necessary arrangements concerning the accommodation provided for the EPPO and the facilities made available by Luxembourg, as well as the specific rules applicable in that Member State to the Members of the College, the Administrative Director and the staff of the EPPO, and members of their families, shall be laid down in a Headquarters Agreement to be concluded between the EPPO and Luxembourg by the date the EPPO assumes its investigative and prosecutorial tasks determined in accordance with Article 120(2).
+
+#### Article 107 — Language arrangements
+
+1\. Council Regulation (EEC) No 1/58 ( 8 ) shall apply to the acts referred to in Articles 21 and 114 of this Regulation.
+
+2\. The College shall decide by a two-thirds majority of its members on the internal language arrangements of the EPPO.
+
+3\. The translation services required for the administrative functioning of the EPPO at the central level shall be provided by the Translation Centre of the bodies of the European Union, unless the urgency of the matter requires another solution. European Delegated Prosecutors shall decide on the modalities of translation for the purpose of investigations in accordance with applicable national law.
+
+#### Article 108 — Confidentiality and professional secrecy
+
+1\. The members of the College, the Administrative Director and the staff of the EPPO, seconded national experts and other persons put at the disposal of the EPPO but not employed by it, and European Delegated Prosecutors shall be bound by an obligation of confidentiality in accordance with Union legislation with respect to any information held by the EPPO.
+
+2\. Any other person who participates or assists in carrying out the functions of the EPPO at the national level shall be bound by an obligation of confidentiality as provided for under applicable national law.
+
+3\. The obligation of confidentiality shall also apply to the persons referred to in paragraphs 1 and 2 after they have left office or employment and after the termination of activities.
+
+4\. The obligation of confidentiality shall, in accordance with applicable national or Union law, apply to all information received by the EPPO, unless that information has already lawfully been made public.
+
+5\. Investigations carried out under the authority of the EPPO shall be protected by the rules concerning professional secrecy under the applicable Union law. Any person who participates or assists in carrying out the functions of the EPPO shall be bound to respect professional secrecy under the applicable national law.
+
+#### Article 109 — Transparency
+
+1\. Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 9 ) shall apply to documents other than case files, including electronic images of those files, that are kept in accordance with Article 45 of this Regulation.
+
+2\. The European Chief Prosecutor shall, within 6 months of the date of his/her appointment, prepare a proposal for detailed rules for applying this Article. That proposal shall be adopted by the College.
+
+3\. Decisions taken by the EPPO under Article 8 of Regulation (EC) No 1049/2001 may form the subject of a complaint to the European Ombudsman or of an action before the Court of Justice, under the conditions laid down in Articles 228 and 263 TFEU respectively.
+
+#### Article 110 — OLAF and the Court of Auditors
+
+1\. In order to facilitate combating fraud, corruption and other unlawful activities under Regulation (EU, Euratom) No 883/2013, by 6 months after the date to be set by the Commission pursuant to Article 120(2), the EPPO shall accede to the Interinstitutional Agreement of 25 May 1999 concerning internal investigations by the European Anti-Fraud Office (OLAF) ( 10 ), and shall adopt the appropriate provisions applicable to the European Chief Prosecutor, the European Prosecutors, the Administrative Director and the staff of the EPPO, seconded national experts and other persons put at the disposal of the EPPO but not employed by it, and European Delegated Prosecutors using the template set out in the Annex to that Agreement.
+
+2\. The Court of Auditors shall have the power of audit, on the basis of documents and on the spot, over all contractors and subcontractors who have received Union funds from the EPPO.
+
+3\. OLAF may carry out investigations, including on-the-spot checks and inspections, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/96 ( 11 ) with a view to establishing whether there have been any irregularities affecting the financial interests of the Union in connection with expenditure funded by the EPPO.
+
+4\. Without prejudice to paragraphs 1, 2 and 3, working arrangements with bodies of the Union, authorities of third countries and international organisations, and contracts of the EPPO shall contain provisions expressly empowering the Court of Auditors and OLAF to conduct such audits and investigations, according to their respective competences.
+
+#### Article 111 — Rules on the protection of sensitive non-classified and classified information
+
+1\. The EPPO shall establish internal rules on the protection of sensitive non-classified information, including the creation and processing of such information at the EPPO.
+
+2\. The EPPO shall establish internal rules on the protection of the EU classified information that shall be consistent with Council Decision 2013/488/EU ( 12 ) in order to ensure an equivalent level of protection for such information.
+
+#### Article 112 — Administrative inquiries
+
+The administrative activities of the EPPO shall be subject to the inquiries of the European Ombudsman in accordance with Article 228 TFEU.
+
+#### Article 113 — General regime of liability
+
+1\. The contractual liability of the EPPO shall be governed by the law applicable to the contract in question.
+
+2\. The Court of Justice shall have jurisdiction to give judgment pursuant to any arbitration clause contained in a contract concluded by the EPPO.
+
+3\. In the case of non-contractual liability, the EPPO shall, in accordance with the general principles common to the laws of the Member States of the European Union make good any damage caused by the EPPO or its staff in the performance of their duties in so far as it may be imputed to them.
+
+4\. Paragraph 3 shall also apply to damage caused through the fault of a European Delegated Prosecutor in the performance of his/her duties.
+
+5\. The Court of Justice shall have jurisdiction in disputes over compensation for damages as referred to in paragraph 3.
+
+6\. The national courts of the Member States of the European Union competent to deal with disputes involving the contractual liability of the EPPO as referred to in this Article shall be determined by reference to Regulation (EU) No 1215/2012 of the European Parliament and of the Council ( 13 ).
+
+7\. The personal liability of the staff of the EPPO shall be governed by the applicable provisions laid down in the Staff Regulations and the Conditions of Employment.
+
+#### Article 114 — Implementing rules and programme documents
+
+The College, on the proposal of the European Chief Prosecutor, shall adopt in particular:
+
+(a) on an annual basis, the programming document containing annual and multi-annual programming of the EPPO;
+
+(b) an anti-fraud strategy, which is proportionate to the fraud risks having regard to the cost-benefit of the measures to be implemented;
+
+(c) rules on the conditions of employment, performance criteria, professional insufficiency, rights and obligations of the European Delegated Prosecutors, including rules on the prevention and management of conflicts of interest;
+
+(d) detailed rules concerning the application of Regulation (EC) No 1049/2001 in the activities of the EPPO;
+
+(e) implementing rules referred to in Article 24(8) of Regulation (EC) No 45/2001.
+
+#### Article 115 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 49(3) shall be conferred on the Commission for an indeterminate period of time from 20 November 2017.
+
+3\. The delegation of power referred to in Article 49(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the date of publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement on Better Law Making of 13 April 2016.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 49(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+#### Article 116 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 115(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+#### Article 117 — Notifications
+
+Each Member State shall designate the authorities that are competent for the purposes of implementing this Regulation. Information on the designated authorities, as well as on any subsequent change thereto, shall be notified simultaneously to the European Chief Prosecutor, to the Council and to the Commission. Member States shall also notify to the EPPO an extensive list of the national substantive criminal law provisions that apply to the offences defined in Directive (EU) 2017/1371 and any other relevant national law. The EPPO shall ensure that the information received through these lists is made public. Furthermore, Member States that, in accordance with Article 30(3), intend to limit the application of points (e) and (f) of Article 30(1) to specific serious offences shall notify the EPPO of a list of those offences.
+
+#### Article 118 — Review of the rules relating to the protection of natural persons with regard to the processing of personal data by the EPPO
+
+In the context of the adaptation of Regulation (EC) No 45/2001 in accordance with Article 2(3) and Article 98 of Regulation (EU) 2016/679, the Commission shall review the provisions relating to the protection of natural persons with regard to the processing of personal data by the EPPO laid down in this Regulation. The Commission shall, if appropriate, submit a legislative proposal with a view to amending or repealing those provisions.
+
+#### Article 119 — Review clause
+
+1\. No later than 5 years after the date to be set by the Commission pursuant to Article 120(2), and every 5 years thereafter, the Commission shall commission an evaluation and shall submit an evaluation report on the implementation and impact of this Regulation, as well as on the effectiveness and efficiency of the EPPO and its working practices. The Commission shall forward the evaluation report together with its conclusions to the European Parliament and to the Council and to national parliaments. The findings of the evaluation shall be made public.
+
+2\. The Commission shall submit legislative proposals to the European Parliament and the Council if it concludes that it is necessary to have additional or more detailed rules on the setting up of the EPPO, its functions or the procedure applicable to its activities, including its cross-border investigations.
+
+#### Article 120 — Entry into force
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. The EPPO shall exercise its competence with regard to any offence within its competence committed after the date on which this Regulation has entered into force.
+
+The EPPO shall assume the investigative and prosecutorial tasks conferred on it by this Regulation on a date to be determined by a decision of the Commission on a proposal of the European Chief Prosecutor once the EPPO is set up. The decision of the Commission shall be published in the Official Journal of the European Union.
+
+The date to be set by the Commission shall not be earlier than 3 years after the date of entry into force of this Regulation.
+
+For those Member States which participate in enhanced cooperation by virtue of a decision adopted in accordance with the second or third subparagraph of Article 331(1) TFEU, this Regulation shall apply as from the date indicated in the decision concerned.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX — Categories of data subjects and categories of operational personal data referred to in Article 49(3)
+
+**A. Categories of data subjects whose operational personal data may be processed in the index:**
+
+(a) suspected or accused persons in the criminal proceedings of the EPPO;
+
+(b) persons convicted following the criminal proceedings of the EPPO;
+
+(c) natural persons who reported or are victims of offences that fall within the competence of the EPPO;
+
+(d) contacts or associates of one of the persons referred to in points (a) and (b).
+
+**B. Categories of operational personal data of the categories of data subjects referred to in points (a) and (b) of section A that may be processed in the index:**
+
+(a) surname, maiden name, given names and any alias or assumed names;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) place of residence, profession and whereabouts of the person concerned;
+
+(f) social security numbers, ID-codes, driving licences, identification documents, passport data, customs and tax identification numbers;
+
+(g) description and nature of the alleged offences, the date on which they were committed and the criminal category of the offences;
+
+(h) information concerning legal persons related to identified or identifiable individuals who are the subject to an investigation conducted by the European Public Prosecutor’s Office;
+
+(i) suspected membership of a criminal organisation;
+
+(j) details of accounts held with banks and other financial institutions;
+
+(k) telephone numbers, SIM-card numbers, email addresses, IP addresses, and account and user names used on online platforms;
+
+(l) vehicle registration data;
+
+(m) identifiable assets owned or utilised by the person, such as crypto-assets and real estate.
+
+**C. Categories of operational personal data of the categories of data subjects referred to in point (c) of section A that may be processed in the index, limited to what is necessary and proportionate in order for the EPPO to perform its investigative and prosecutorial tasks:**
+
+(a) surname, maiden name, given names and any alias or assumed names;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) place of residence, profession and whereabouts of the person concerned;
+
+(f) ID-codes, identification documents, and passport data;
+
+(g) description and nature of the offences involving or reported by the person concerned, the date on which the offences were committed and the criminal category of the offences.
+
+**D. Categories of operational personal data of the categories of data subjects referred to in point (d) of section A that may be processed in the index, limited to what is necessary and proportionate in order for the EPPO to perform its investigative and prosecutorial tasks:**
+
+(a) surname, maiden name, given names and any alias or assumed names;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) place of residence, profession and whereabouts of the person concerned;
+
+(f) ID-codes, identification documents, and passport data.
+
+( 1 ) Regulation (EU) 2016/679 of the European Parliament and the of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation (OJ L 119, 4.5.2016, p. 1).
+
+( 2 ) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (OJ L 201, 31.7.2002, p. 37).
+
+( 3 ) Council Framework Decision 2002/584/JHA of 13 June 2002 on the European Arrest Warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1).
+
+( 4 ) Directive 2014/42/EU of the European Parliament and of the Council of 3 April 2014 on the freezing and confiscation of instrumentalities and proceeds of crime in the European Union (OJ L 127, 29.4.2014, p. 39).
+
+( 5 ) Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network (OJ L 348, 24.12.2008, p. 130).
+
+( 6 ) Council Regulation (EU, Euratom) No 609/2014 of 26 May 2014 on the methods and procedure for making available the traditional, VAT and GNI-based own resources and on the measures to meet cash requirements (OJ L 168, 7.6.2014, p. 39).
+
+( 7 ) Commission Delegated Regulation (EU) No 1271/2013 of 30 September 2013 on the framework financial regulation for the bodies referred to in Article 208 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council (OJ L 328, 7.12.2013, p. 42).
+
+( 8 ) Council Regulation (EEC) No 1/58 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385/58).
+
+( 9 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 10 ) Interinstitutional agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by the European Anti-fraud Office (OLAF) (OJ L 136, 31.5.1999, p. 15).
+
+( 11 ) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities’ financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).
+
+( 12 ) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).
+
+( 13 ) Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 351, 20.12.2012, p. 1).

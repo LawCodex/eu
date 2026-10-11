@@ -32,9 +32,11 @@ amending Council Directive 66/402/EEC on the marketing of cereal seed
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 88/380/EEC of 13 June 1988</td><td> L 187</td><td>31</td><td>16.7.1988</td></tr>
+</table>
 
 COMMISSION DIRECTIVE
 

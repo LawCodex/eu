@@ -1,0 +1,81 @@
+---
+title: "Council Regulation (EEC) No 3020/81 of 19 October 1981 amending Regulation (EEC) No 3237/76 on the advance implementation of the Technical Annexes and the advance use of the specimen TIR carnet of the Customs Convention on the international transport of goods under cover of TIR carnets (TIR Convention) of 14 November 1975, Geneva"
+identifier: "31981R3020"
+eli: "http://data.europa.eu/eli/reg/1981/3020/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1981-10-19
+entry_into_force: 1981-03-25
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3020"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC) No 3020/81 of 19 October 1981 amending Regulation (EEC) No 3237/76 on the advance implementation of the Technical Annexes and the advance use of the specimen TIR carnet of the Customs Convention on the international transport of goods under cover of TIR carnets (TIR Convention) of 14 November 1975, Geneva
+
+COUNCIL REGULATION (EEC) No 3020/81 of 19 October 1981 amending Regulation (EEC) No 3237/76 on the advance implementation of the Technical Annexes and the advance use of the specimen TIR carnet of the Customs Convention on the international transport of goods under cover of TIR carnets (TIR Convention) of 14 November 1975, Geneva
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas Regulation (EEC) No 3237/76 (1) put into effect the advance implementation of the Technical Annexes and the specimen TIR carnet of the TIR Convention concluded on 14 November 1975;
+
+Whereas a number of amendments have recently been made to the Technical Annexes and to the rules regarding the use of the TIR carnet, under the amending procedure provided for in the Convention;
+
+Whereas, in the interests of the Community, such amendments should be incorporated as soon as possible into the Technical Annexes to the TIR Convention and into the rules regarding the use of the TIR carnet;
+
+Whereas one main aim of such amendments is to allow the use of loading lists in support of the TIR carnet, although such loading lists would not have the effect of replacing the manifest of the TIR carnet but of simply being annexed to it;
+
+Whereas Regulation (EEC) No 3237/76 should therefore be amended,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EEC) No 3237/76 shall be amended as follows: 1. in Annex 1, No 10 (c) of the Rules regarding the use of the TIR carnet shall be replaced by the following:
+
+"(c) Separate sheets of the same model as the manifest or commercial documents providing all the information required by the manifest may be attached to the vouchers. In such cases, all the vouchers must contain the following particulars: (i) the number of sheets attached (box 10)
+
+(ii) the number and type of packages or articles and the total gross weight of the goods listed on the attached sheets (boxes 11 to 13).";
+
+2\. in Annex 2, Article 3 (8) shall be replaced by the following:
+
+"8. The spaces between the rings and the spaces between the eyelets shall not exceed 200 mm. The space may however be greater but shall not exceed 300 mm between rings and eyelets on either side of the upright if the construction of the vehicle and the sheet is such as to prevent all access to the load compartment. The eyelets shall be reinforced."; (1) OJ No L 368, 31.12.1976, p. 1.
+
+3\. in Annex 6: (a) the following Explanatory Note shall be inserted after the introduction:
+
+"1. ANNEX 1
+
+1.10. (c) Rules regarding the use of the TIR carnet
+
+- Loading lists annexed to the goods manifest
+
+No 10 (c) of the rules regarding the use of the TIR carnet permits the use of loading lists as annexed to the TIR carnet even when there would otherwise be enough space in the manifest to enter all the goods carried. However, this is permissible only if the loading lists contain all the particulars required by the goods manifest in legible and recognizable form an all other provisions of Rule 10 (c) are complied with.";
+
+(b) the following Explanatory Note shall be inserted after Explanatory Note 2.3.6. (b):
+
+"2.3.8. Paragraph 8 - Spaces between the rings and between the eyelets
+
+Spaces exceeding 200 mm but not exceeding 300 mm are acceptable over the uprights if the rings are recessed in the side boards and the eyelets are oval and so small that they can just pass over the rings."
+
+## Article 2
+
+The Commission shall inform the Executive Secretary of the Economic Commission for Europe of the provisions adopted in Article 1.
+
+## Article 3
+
+This Regulation shall enter into force on 1 January 1982.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Luxembourg, 19 October 1981.
+
+For the Council
+
+The President
+
+P. WALKER

@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the minimum safety and health requirements for improved medical treatment on board vessels**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td> M3</td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2019/1834 of 24 October 2019 </td><td> L 279</td><td>80</td><td>31.10.2019</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 92/29/EEC**
 
@@ -206,6 +208,7 @@ C. Harbour vessels, boats and craft staying very close to shore or with no cabin
 
 **I. MEDICINES**
 
+<table>
 <tbody><tr><td>  </td><td colspan="3">Categories of vessels</td></tr>
 <tr><td>  </td><td>A</td><td>B</td><td>C</td></tr>
 <tr><td>1. Cardiovascular</td><td>  </td><td>  </td><td>  </td></tr>
@@ -264,9 +267,11 @@ C. Harbour vessels, boats and craft staying very close to shore or with no cabin
 <tr><td>— Local anaesthetics using freezing</td><td>x</td><td>  </td><td>  </td></tr>
 <tr><td>— Local anaesthetics given by subcutaneous injection</td><td>x</td><td>x</td><td>  </td></tr>
 </tbody>
+</table>
 
 **II. MEDICAL EQUIPMENT**
 
+<table>
 <tbody><tr><td>  </td><td colspan="3">Categories of vessels</td></tr>
 <tr><td>  </td><td>A</td><td>B</td><td>C</td></tr>
 <tr><td>1. Resuscitation equipment</td><td>  </td><td>  </td><td>  </td></tr>
@@ -325,6 +330,7 @@ C. Harbour vessels, boats and craft staying very close to shore or with no cabin
 <tr><td>— Powder insecticide</td><td>x</td><td>  </td><td>  </td></tr>
 <tr><td colspan="4">(1)  Under the conditions of use prescribed by national laws and/or practices </td></tr>
 </tbody>
+</table>
 
 **III. ANTIDOTES**
 
@@ -410,6 +416,7 @@ Home port: …
 
 **II. Medical supplies**
 
+<table>
 <tbody><tr><td>  </td><td>Quantities required</td><td>Quantities actually carried on board</td><td>Remarks (in particular, any expiry date)</td></tr>
 <tr><td colspan="4">1. MEDICINE</td></tr>
 <tr><td>1.1. Cardiovascular</td><td colspan="3">  </td></tr>
@@ -534,6 +541,7 @@ Home port: …
 <tr><td>3.9. Necessary for the administration of oxygen (including maintenance requisites)</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td colspan="4">(1)  Under the conditions of use prescribed by national laws and/or practices. </td></tr>
 </tbody>
+</table>
 
 Venue and date: …
 
@@ -555,6 +563,7 @@ Home port: …
 
 **II. Medical supplies**
 
+<table>
 <tbody><tr><td>  </td><td>Quantities required</td><td>Quantities actually carried on board</td><td>Remarks (in particular, any expiry date)</td></tr>
 <tr><td colspan="4">1. MEDICINE</td></tr>
 <tr><td>1.1. Cardiovascular</td><td colspan="3">  </td></tr>
@@ -660,6 +669,7 @@ Home port: …
 <tr><td>3.9. Necessary for the administration of oxygen (including maintenance requisites)</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td colspan="4">(1)  Under the conditions of use prescribed by national laws and/or practices. </td></tr>
 </tbody>
+</table>
 
 Venue and date: …
 
@@ -681,6 +691,7 @@ Home port: …
 
 **II. Medical supplies**
 
+<table>
 <tbody><tr><td>  </td><td>Quantities required</td><td>Quantities actually carried on board</td><td>Remarks (in particular, any expiry date)</td></tr>
 <tr><td colspan="4">1. MEDICINE</td></tr>
 <tr><td>1.1. Cardiovascular</td><td colspan="3">  </td></tr>
@@ -717,6 +728,7 @@ Home port: …
 <tr><td>3.8. Other</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>3.9. Necessary for the administration of oxygen (including maintenance requisites)</td><td>0</td><td>0</td><td>0</td></tr>
 </tbody>
+</table>
 
 Venue and date: …
 

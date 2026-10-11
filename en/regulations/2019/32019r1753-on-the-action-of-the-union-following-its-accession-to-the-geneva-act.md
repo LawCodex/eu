@@ -1,0 +1,282 @@
+---
+title: "Regulation (EU) 2019/1753 of the European Parliament and of the Council of 23 October 2019 on the action of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications"
+identifier: "32019R1753"
+eli: "http://data.europa.eu/eli/reg/2019/1753/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-10-23
+entry_into_force: 2019-01-01
+last_amended: 2025-12-01
+consolidated_version: "02019R1753-20251201"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1753-20251201"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/1753 of the European Parliament and of the Council of 23 October 2019 on the action of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications
+
+**REGULATION (EU) 2019/1753 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2019**
+
+**on the action of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2411 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 October 2023 </td><td> L 2411</td><td>1</td><td>27.10.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1143 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1143</td><td>1</td><td>23.4.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2019/1753 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2019**
+
+**on the action of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications**
+
+## Article 1 — Subject matter
+
+1\. This Regulation establishes rules and procedures concerning actions of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications (‘the Geneva Act’).
+
+2\. For the purposes of this Regulation, the term ‘geographical indications’ covers appellations of origin within the meaning of the Geneva Act, including designations of origin within the meaning of Regulations (EU) No 1151/2012 and (EU) No 1308/2013, as well as geographical indications within the meaning of Regulations (EU) No 1151/2012, (EU) No 1308/2013, (EU) 2019/787 and (EU) 2023/2411 of the European Parliament and of the Council ( 1 ). In respect of appellations of origin relating to craft and industrial products which are the subject of an international registration, protection in the Union shall be construed as specified in Articles 6 and 40 of Regulation (EU) 2023/2411.
+
+3\. For the purposes of this Regulation, ‘the Office’ means the European Union Intellectual Property Office, established under Article 2 of Regulation (EU) 2017/1001 of the European Parliament and of the Council ( 2 ).
+
+## Article 2 — International registration of geographical indications
+
+1\. Upon the accession of the Union to the Geneva Act and thereafter on a regular basis, the Commission or the Office shall, in their respective capacity as Competent Authority within the meaning of Article 3 of the Geneva Act as specified in Article 4(1) of Decision (EU) 2019/1754, file applications for the international registration of geographical indications protected and registered under Union law and pertaining to products originating in the Union pursuant to Article 5(1) and (2) of the Geneva Act with the International Bureau of the World Intellectual Property Organization (‘the International Bureau’).
+
+2\. For the purposes of paragraph 1, Member States may request the Commission or, in respect of geographical indications for craft and industrial products, the Office, to register in the International Register geographical indications that originate in the territory of a Member State and that are registered and protected under Union law. Such requests shall be based on:
+
+(a) a request by a natural person or legal entity as referred to in point (ii) of Article 5(2) of the Geneva Act or by a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act; or
+
+(b) their own initiative.
+
+2a. By way of derogation from paragraph 2, where the request addressed to the Member State referred to in paragraph 2, point (a), comes from a recognised producer group referred to in Article 33 of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 3 ), that request shall comprise verifiable information on the economic interest in international protection of the geographical indication concerned.
+
+On the basis of the request referred to in the first subparagraph, the Member State concerned shall evaluate the economic interest in international protection of that geographical indication. Where that evaluation establishes such economic interest, that Member State shall request the Commission to register that geographical indication.
+
+3\. On the basis of such requests, the Commission shall adopt implementing acts listing the geographical indications referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+4\. In respect of requests to register geographical indications for craft and industrial products in the International Register, the Office shall, in its capacity as Competent Authority within the meaning of Article 3 of the Geneva Act as specified in Article 4(1) of Decision (EU) 2019/1754, proceed on the basis of the decision on granting protection in accordance with Articles 21 to 37 of Regulation (EU) 2023/2411.
+
+## Article 3 — Cancellation of a geographical indication that originates in a Member State and is registered in the International Register
+
+1\. The Commission shall adopt an implementing act in order to request the International Bureau to cancel a registration in the International Register of a geographical indication originating in a Member State, in any of the following circumstances:
+
+(a) the geographical indication is no longer protected in the Union;
+
+(b) at the request of the Member State in which the geographical indication originates, based on:
+
+(i) a request by a natural person or legal entity as referred to in point (ii) of Article 5(2) of the Geneva Act or by a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act; or
+
+(ii) its own initiative.
+
+2\. The implementing act referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+3\. The Commission shall, without delay, notify the International Bureau of the request for cancellation.
+
+4\. In respect of geographical indications for craft and industrial products, the Office shall request the International Bureau to cancel a registration in the International Register of a geographical indication originating in a Member State in any of the circumstances referred to in paragraph 1.
+
+## Article 4 — Publication of third country geographical indications registered in the International Register
+
+1\. The Commission or, in respect of geographical indications for craft and industrial products, the Office shall publish any international registration notified by the International Bureau pursuant to Article 6(4) of the Geneva Act, which concerns a geographical indication registered in the International Register in respect of which the Contracting Party of Origin, as defined in point (xv) of Article 1 of the Geneva Act, is not a Member State.
+
+2\. The international registration referred to in paragraph 1 shall be published in the C series of the Official Journal of the European Union. The publication shall include a reference to the product type and country of origin.
+
+## Article 5 — Assessment of third country geographical indications registered in the International Register
+
+1\. The Commission or, in respect of geographical indications for craft and industrial products, the Office shall assess any international registration notified by the International Bureau pursuant to Article 6(4) of the Geneva Act concerning a geographical indication registered in the International Register and in respect of which the Contracting Party of Origin, as defined in point (xv) of Article 1 of the Geneva Act, is not a Member State, in order to determine whether it includes the mandatory contents laid down in Rule 5(2) of the Common Regulations under the Lisbon Agreement and the Geneva Act (the ‘Common Regulations’), and the particulars concerning the quality, reputation or characteristics as laid down in Rule 5(3) of the Common Regulations.
+
+2\. The assessment referred to in paragraph 1 shall be carried out within four months from the date of the registration of the geographical indication in the International Register and shall not include an assessment of other specific Union provisions relating to the placing of products on the market and, in particular, to sanitary and phytosanitary standards, marketing standards or food labelling.
+
+## Article 6 — Opposition procedure for third country geographical indications registered in the International Register
+
+1\. Within four months of the date of publication of the international registration in accordance with Article 4, the competent authorities of a Member State or of a third country other than the Contracting Party of Origin as defined in point (xv) of Article 1 of the Geneva Act, or a natural or legal person having a legitimate interest and established in the Union or in a third country other than the Contracting Party of Origin, may lodge an opposition with the Commission or, in respect of geographical indications for craft and industrial products, the Office. The opposition shall be in one of the official languages of the Union.
+
+2\. The opposition referred to in paragraph 1 of this Article shall be admissible only if it is lodged within the time limit set out in paragraph 1 of this Article and if it is based upon one or more of the following grounds:
+
+(a) the geographical indication registered in the International Register conflicts with a name of a plant variety or an animal breed and is likely to mislead the consumer as to the true origin of the product;
+
+(b) the geographical indication registered in the International Register is wholly or partially homonymous with a geographical indication already protected in the Union and there is insufficient distinction in practice between the conditions of local and traditional usage and presentation of the geographical indication proposed for protection and the geographical indication already protected in the Union, taking into account the need to ensure equitable treatment of the producers concerned and not to mislead consumers;
+
+(c) the protection in the Union of the geographical indication registered in the International Register would infringe a prior trade mark right at Union, regional or national level;
+
+(d) the protection in the Union of the third country geographical indication would jeopardise the use of an entirely or partly identical name or the exclusive nature of a trade mark at Union, regional, or national level or the existence of products which have been legally placed on the market for at least five years preceding the date of the publication of the international registration in accordance with Article 4;
+
+(f) the name for which registration is requested is a generic term in the territory of the Union;
+
+(g) the conditions referred to in points (i) and (ii) of Article 2(1) of the Geneva Act are not complied with;
+
+(h) the geographical indication registered in the International Register is a homonymous name which misleads the consumer into believing that products come from another territory, even if the name is accurate as far as the actual territory, region or place of origin of the products in question is concerned.
+
+3\. The grounds for opposition set out in paragraph 2 shall be assessed by the Commission or, in respect of geographical indications for craft and industrial products, the Office, in relation to the territory of the Union or part thereof.
+
+## Article 7 — Decision on protection in the Union of third country geographical indications registered in the International Register
+
+1\. Where, based on the assessment carried out pursuant to Article 5, the conditions laid down in that Article are fulfilled and no opposition or no admissible opposition has been received, the Commission shall, as appropriate, by means of an implementing act, reject any inadmissible opposition and decide to grant protection of the geographical indication. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2). In respect of geographical indications for craft and industrial products, the Office shall reject any inadmissible opposition and decide to grant protection of the geographical indication.
+
+2\. Where, based on the assessment carried out pursuant to Article 5, the conditions laid down in that Article are not fulfilled or an admissible opposition as set out in Article 6(2) has been received, the Commission shall, by means of an implementing act, decide whether to grant protection of a geographical indication registered in the International Register. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2). In respect of geographical indications for craft and industrial products, the decision whether to grant protection shall be adopted by the Office or, in cases referred to in Article 30 of Regulation (EU) 2023/2411, by the Commission. Where the decision to grant protection is adopted by the Commission it shall do so by means of an implementing act adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+3\. The decision to grant protection of a geographical indication in accordance with paragraph 1 or 2 of this Article shall set out the scope of protection granted and may include conditions which are compatible with the Geneva Act, and in particular grant a defined transitional period as specified in Article 17 of the Geneva Act and Rule 14 of the Common Regulations.
+
+4\. In accordance with Article 15(1) of the Geneva Act, the Commission or, in respect of geographical indications for craft and industrial products, the Office shall notify the International Bureau of the refusal of the effects of the international registration concerned in the territory of the Union, within twelve months of the receipt of the notification of international registration in accordance with Article 6(4) of the Geneva Act.
+
+5\. The Commission may, on its own initiative or following a duly substantiated request by a Member State, a third country or a natural or legal person having a legitimate interest, withdraw, in whole or in part, by means of an implementing act, a refusal previously notified to the International Bureau. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+Where a refusal has been notified by the Office to the International Bureau in respect of the protection of geographical indications, the Office may, on its own initiative or following a duly substantiated request by a Member State, a third country or a natural or legal person having a legitimate interest, withdraw, in whole or in part, that refusal.
+
+The Commission or, in respect of geographical indications for craft and industrial products, the Office shall notify the International Bureau of such withdrawal without delay.
+
+## Article 8 — Use of geographical indications
+
+1\. The implementing acts adopted by the Commission pursuant to Article 7 shall apply without prejudice to other specific Union provisions relating to the placing of products on the market and, in particular, to the common organisation of agricultural markets, sanitary and phytosanitary standards, and food labelling.
+
+In respect of geographical indications for craft and industrial products, the first subparagraph shall apply mutatis mutandis to the decisions of the Office.
+
+2\. Subject to paragraph 1, geographical indications protected pursuant to this Regulation may be used by any operator marketing a product in accordance with the international registration of those geographical indications.
+
+## Article 9 — Invalidation of the effects in the Union of a third-country geographical indication registered in the International Register
+
+1\. The Commission or, in respect of geographical indications for craft and industrial products, the Office may, on its own initiative or following a duly substantiated request by a Member State, a third country or a natural or legal person having a legitimate interest, invalidate, in whole or in part the effects of protection in the Union of a geographical indication, in one or more of the following circumstances:
+
+(a) the geographical indication is no longer protected in the Contracting Party of Origin;
+
+(b) the geographical indication is no longer registered in the International Register;
+
+(c) there is no longer compliance with the mandatory contents laid down in Rule 5(2) of the Common Regulations or with the particulars concerning the quality, reputation or characteristics as laid down in Rule 5(3) of the Common Regulations.
+
+2\. The Commission shall adopt implementing acts for the purpose of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation and only after the natural persons or legal entities as referred to in point (ii) of Article 5(2) of the Geneva Act or the beneficiaries as defined in point (xvii) of Article 1 of the Geneva Act have been given an opportunity to defend their rights.
+
+3\. Where the invalidation is no longer subject to appeal, the Commission, or in respect of geographical indications for craft and industrial products, the Office shall notify the International Bureau without delay of the invalidation of the effects in the territory of the Union of the international registration of the geographical indication in accordance with point (a) or (c) of paragraph 1.
+
+## Article 10 — Relationship with trade marks
+
+1\. The protection of a geographical indication shall not prejudice the validity of a prior trade mark at Union, regional or national level applied for or registered in good faith, or acquired through use in good faith in the territory of a Member State, regional union of Member States or the Union.
+
+2\. A geographical indication registered in the International Register shall not be protected in the territory of the Union where, in the light of a trade mark’s reputation and renown and the length of time it has been used, protection of that geographical indication in the territory of the Union would be liable to mislead the consumer as to the true identity of the product.
+
+3\. Without prejudice to paragraph 2, a trade mark which has been applied for or registered in good faith, or acquired through use, if that possibility is provided for by the applicable law, in good faith within the territory of a Member State, regional union of Member States or the Union, before the date on which the International Bureau has notified the Commission of the publication of the International Registration of the geographical indication, and the use of which would contravene the protection of the geographical indication, may continue to be used and renewed for the product concerned notwithstanding the protection of the geographical indication, provided that no grounds for invalidity or revocation exist under Regulation (EU) 2017/1001 of the European Parliament and of the Council ( 4 ) or under Directive (EU) 2015/2436 of the European Parliament and the Council ( 5 ). In such cases, both the use of the geographical indication and the use of the trade mark concerned shall be permitted.
+
+## Article 11 — Transitional provisions for appellations of origin originating in Member States already registered under the Lisbon Agreement
+
+1\. In respect of each appellation of origin originating in a Member State which is party to the Lisbon Agreement, for a product that is protected under one of the Regulations referred to in Article 1 of this Regulation, the Member State concerned shall, on the basis of a request by a natural person or legal entity as referred to in point (ii) of Article 5(2) of the Geneva Act or a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act, or on its own initiative, choose to request either:
+
+(a) the international registration of that appellation of origin under the Geneva Act, if the Member State concerned has ratified or acceded to the Geneva Act pursuant to the authorisation referred to in Article 3 of Decision (EU) 2019/1754; or
+
+(b) the cancellation of the registration of that appellation of origin in the International Register.
+
+The Member State concerned shall notify the Commission of the choice referred to in the first subparagraph by 14 November 2022.
+
+In the situations referred to in point (a) of the first subparagraph, the Member State concerned shall, in coordination with the Commission, verify with the International Bureau whether there are any modifications to be made under Rule 7(4) of the Common Regulations for the purpose of registration under the Geneva Act.
+
+The Commission shall, by means of an implementing act, authorise the Member State concerned to provide for the necessary modifications and to notify the International Bureau. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+2\. In respect of each appellation of origin originating in a Member State which is party to the Lisbon Agreement, for a product falling within the scope of one of the Regulations referred to in Article 1(2) of this Regulation, but not protected under any of those Regulations, the Member State concerned shall, on the basis of a request by a natural person or legal entity referred to in point (ii) of Article 5(2) of the Geneva Act or a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act, or on its own initiative, choose to request either:
+
+(a) the registration of that appellation of origin under the Regulation concerned; or
+
+(b) the cancellation of the registration of that appellation of origin in the International Register.
+
+The Member State concerned shall notify the Commission of the choice referred to in the first subparagraph, and lodge the respective request, by 14 November 2022.
+
+In the situations referred to in point (a) of the first subparagraph, the Member State concerned shall request the international registration of that appellation of origin under the Geneva Act, if that Member State has ratified or acceded to the Geneva Act pursuant to the authorisation referred to in Article 3 of Decision (EU) 2019/1754, within one year from the date of registration of the geographical indication under the applicable Regulation. The third and fourth subparagraphs of paragraph 1 shall apply.
+
+If the request for registration under the applicable Regulation is refused and related administrative and judicial remedies have been exhausted, or if the request for registration under the Geneva Act has not been made pursuant to the third subparagraph of this paragraph, the Member State concerned shall, without delay, request the cancellation of the registration of that appellation of origin in the International Register.
+
+2a. In respect of each appellation of origin originating in a Member State which is party to the Lisbon Agreement, for a product which does not fall within the scope of Regulation (EU) No 1151/2012 but which falls within the scope of Regulation (EU) 2024/1143, the Member State concerned shall, on the basis of a request by a natural person or legal entity referred to in point (ii) of Article 5(2) of the Geneva Act or by a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act, or on its own initiative, choose to request either:
+
+(a) the international registration of that appellation of origin under the Geneva Act within 12 months from the date of its registration under Regulation (EU) 2024/1143, if that Member State has ratified or acceded to the Geneva Act pursuant to the authorisation referred to in Article 3 of Decision (EU) 2019/1754; or
+
+(b) the cancellation of the registration of that appellation of origin in the International Register.
+
+In the case of the request referred to in point (a) of the first subparagraph, the Member State concerned shall notify the Commission of the choice referred to in that subparagraph within one month from the date of registration of that appellation of origin under Regulation (EU) 2024/1143 and, in the case of the request referred to in point (b) of that subparagraph by 14 May 2025.
+
+In the situations referred to in point (a) of the first subparagraph, the Member State concerned shall, in coordination with the Commission, verify with the International Bureau whether there are any modifications to be made under Rule 7(4) of the Common Regulations for the purpose of registration under the Geneva Act. The Commission shall, by means of an implementing act, authorise the Member State concerned to provide for the necessary modifications and to notify the International Bureau thereof. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+If the request for registration under Regulation (EU) 2024/1143 is refused and related administrative and judicial remedies have been exhausted, or if the request for registration under the Geneva Act has not been made, the Member State concerned shall, without delay, request the cancellation of the registration of that appellation of origin in the International Register.
+
+3\. In respect of an appellation of origin originating in a Member State which is party to the Lisbon Agreement, for a product falling within the scope of Regulation (EU) 2023/2411, but not yet protected under that Regulation, the Member State concerned shall, on the basis of a request by a natural person or legal entity referred to in point (ii) of Article 5(2) of the Geneva Act or a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act, or on its own initiative, choose to request either:
+
+(a) the registration of that appellation of origin under Regulation (EU) 2023/2411; or
+
+(b) the cancellation of the registration of that appellation of origin in the International Register.
+
+The Member State concerned shall notify the Office of its choice pursuant to the first subparagraph of this paragraph, and lodge the respective request by 2 December 2026. The registration procedure provided for in Article 70 (4) of Regulation (EU) 2023/2411 shall apply mutatis mutandis.
+
+In the case referred to in the first subparagraph, point (a), of this paragraph, the Member State concerned shall request the international registration of that appellation of origin under the Geneva Act, if that Member State has ratified or acceded to the Geneva Act pursuant to the authorisation referred to in Article 3 of Decision (EU) 2019/1754, within twelve months of the date of registration of the geographical indication under Regulation (EU) 2023/2411.
+
+The Member State concerned shall, in coordination with the Office, verify with the International Bureau whether there are any modifications to be made under Rule 7(4) of the Common Regulations for the purpose of the registration under the Geneva Act. The Office shall authorise the Member State concerned to provide for the necessary modifications and to notify the International Bureau.
+
+If the registration under Regulation (EU) 2023/2411 is refused and the related administrative and judicial remedies have been exhausted, or if the request for registration under the Geneva Act has not been made pursuant to the third subparagraph of this paragraph, the Member State concerned shall, without delay, request the cancellation of the registration of that appellation of origin in the International Register.
+
+## Article 12 — Transitional protection for appellations of origin originating in a third country registered under the Lisbon Agreement
+
+1\. The Member States which were party to the Lisbon Agreement before the accession of the Union to the Geneva Act may continue to protect appellations of origin originating in a third country which is party to the Lisbon Agreement by means of a national protection system, with effect from the date on which the Union becomes a contracting party to the Geneva Act, as regards appellations of origin registered by that date under the Lisbon Agreement.
+
+2\. The protection referred to in paragraph 1 shall:
+
+(a) be superseded by protection under the Union protection system for a particular appellation of origin if it is provided by a decision taken under Article 7 of this Regulation subsequent to the accession of the third country concerned to the Geneva Act, on condition that the protection provided by a decision taken under Article 7 of this Regulation preserves the continuity of protection of the respective appellation of origin in the respective Member State;
+
+(b) cease for a particular appellation of origin when the effects of international registration end.
+
+3\. Where an appellation of origin originating in a third country is not registered under this Regulation, or the national protection is not superseded in accordance with point (a) of paragraph 2, the consequences of such national protection shall be the sole responsibility of the Member State concerned.
+
+4\. The measures taken by Member States under paragraph 1 shall have effects at national level only, and shall have no effect on intra-Union or international trade.
+
+5\. The Member States referred to in paragraph 1 shall transmit to the Commission any notification made by the International Bureau under the Lisbon Agreement. The Commission shall then transmit that notification to all other Member States.
+
+6\. The Member States referred to in paragraph 1 of this Article shall declare to the International Bureau that they cannot ensure national protection of an appellation of origin for a product falling within the scope of one of the Regulations referred to in Article 1(2) of this Regulation, registered and notified to them under the Lisbon Agreement from the date on which the Union becomes a Contracting Party to the Geneva Act.
+
+## Article 13 — Fees
+
+Fees to be paid under Article 7 of the Geneva Act, as specified in the Common Regulations, shall be borne by the Member State in which the geographical indication originates, or by a natural person or legal entity as referred to in point (ii) of Article 5(2) of the Geneva Act or by a beneficiary as defined in point (xvii) of Article 1 of the Geneva Act. Member States may require that natural person or legal entity or beneficiary to pay some or all of the fees.
+
+## Article 14 — Special financial contribution
+
+If the income from the Special Union is derived in accordance with point (v) of Article 24(2) of the Geneva Act, the Union may make a special contribution within the means available for that purpose from the annual budget of the Union.
+
+## Article 15 — Committee procedure
+
+1\. The Commission shall be assisted by the following committees within the meaning of Regulation (EU) No 182/2011, in respect of the following products:
+
+(a) for wine-sector products falling within the scope of Article 92(1) of Regulation (EU) No 1308/2013, by the Committee for the Common Organisation of the Agricultural Markets established by Article 229 of that Regulation;
+
+(b) for aromatised wine products as defined in Article 3 of Regulation (EU) No 251/2014, by the Committee on aromatised wine products established by Article 34 of that Regulation;
+
+(c) for spirit drinks as defined in Article 2 of Regulation (EC) No 110/2008 of the European Parliament and of the Council ( 6 ), by the Committee for Spirit Drinks referred to in Article 47 of Regulation (EU) 2019/787;
+
+(d) for agricultural products and foodstuffs falling within the scope of the first subparagraph of Article 2(1) of Regulation (EU) No 1151/2012, by the Agricultural Product Quality Policy Committee established by Article 57 of that Regulation;
+
+(e) for craft and industrial products falling within the scope of Regulation (EU) 2023/2411, by the Committee for Craft and Industrial Geographical Indications established by Article 68 of that Regulation.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 16 — Monitoring and review
+
+By 14 November 2021, the Commission shall assess the participation of the Union in the Geneva Act and submit a report on the main findings to the European Parliament and to the Council. The assessment shall be based, inter alia, on the following aspects:
+
+(a) the number of geographical indications which are protected and registered under Union law and for which applications for international registration have been submitted, and the cases in which the protection was rejected by third Contracting Parties;
+
+(b) the evolution in the number of third countries participating in the Geneva Act and the action taken by the Commission to increase that number, as well as the impact of the current state of Union law as regards geographical indications on the attractiveness of the Geneva Act to third countries; and
+
+(c) the number and type of third country geographical indications which have been rejected by the Union.
+
+## Article 17 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2023/2411 of the European Parliament and of the Council of 18 October 2023 on the protection of geographical indications for craft and industrial products and amending Regulations (EU) 2017/1001 and (EU) 2019/1753 (OJ L, 2023/2411, 27.10.2023, ELI: http://data.europa.eu/eli/reg/2023/2411/oj).
+
+( 2 ) Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (OJ L 154, 16.6.2017, p. 1).
+
+( 3 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj);
+
+( 4 ) Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (OJ L 154, 16.6.2017, p. 1).
+
+( 5 ) Directive (EU) 2015/2436 of the European Parliament and the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks (OJ L 336, 23.12.2015, p. 1).
+
+( 6 ) Regulation (EC) No 110/2008 of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing Council Regulation (EEC) No 1576/89 (OJ L 39, 13.2.2008, p. 16), partly in force until 24 May 2021.

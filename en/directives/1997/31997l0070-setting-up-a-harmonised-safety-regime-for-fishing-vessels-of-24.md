@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **setting up a harmonised safety regime for fishing vessels of 24 metres in length and over**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE 1999/19/EC Text with EEA relevance of 18 March 1999</td><td> L 83</td><td>48</td><td>27.3.1999</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE 2002/35/EC Text with EEA relevance of 25 April 2002</td><td> L 112</td><td>21</td><td>27.4.2002</td></tr>
 <tr><td></td><td>DIRECTIVE 2002/84/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 5 November 2002</td><td> L 324</td><td>53</td><td>29.11.2002</td></tr>
 <tr><td></td><td>REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009</td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 97/70/EC**
 

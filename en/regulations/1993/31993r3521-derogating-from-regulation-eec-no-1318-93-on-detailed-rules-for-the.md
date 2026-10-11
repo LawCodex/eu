@@ -1,0 +1,59 @@
+---
+title: "Commission Regulation (EC) No 3521/93 of 21 December 1993 derogating from Regulation (EEC) No 1318/93 on detailed rules for the application of Council Regulation (EEC) No 2067/92 on measures to promote and market quality beef and veal and repealing Regulation (EC) No 3380/93"
+identifier: "31993R3521"
+eli: "http://data.europa.eu/eli/reg/1993/3521/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1993-12-21
+entry_into_force: 1993-07-05
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993R3521"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 3521/93 of 21 December 1993 derogating from Regulation (EEC) No 1318/93 on detailed rules for the application of Council Regulation (EEC) No 2067/92 on measures to promote and market quality beef and veal and repealing Regulation (EC) No 3380/93
+
+COMMISSION REGULATION (EC) No 3521/93 of 21 December 1993 derogating from Regulation (EEC) No 1318/93 on detailed rules for the application of Council Regulation (EEC) No 2067/92 on measures to promote and market quality beef and veal and repealing Regulation (EC) No 3380/93
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2067/92 of 30 June 1992 on measures to promote and market quality beef and veal (1), and in particular Article 4 thereof,
+
+Whereas Commission Regulation (EEC) No 1318/93 (2), as last amended by Regulation (EC) No 3380/93 (3), restricts the field of application for promotion activities provided for in Regulation (EEC) No 2067/92 to meat obtained from carcases classified in fat cover categories 2 and 3; whereas, given the supply difficulties for castrated animals falling within these categories, provision should be made to allow meat in the next highest fat cover category to be used in the promotion programmes adopted in 1993;
+
+Whereas, although this measure is already the subject to Commission Regulation (EC) No 3380/93, that Regulation covers by mistake all animals of the bovine species without being restricted to castrated animals only; whereas, as a result, that error should be corrected by replacing the aforementioned Regulation by this Regulation; whereas, under these circumstances, provision should be made for it to enter into force as quickly as possible;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Notwithstanding the quality requirements referred to in Article 3 (2) of Regulation (EEC) No 1318/93, Member States may allow the use of meat obtained from the carcases of castrated animals in fat cover categories 4L or 4 where it is proved to the satisfaction of the competent authority that the supply of meat obtained from carcases classified in fat cover categories 2 and 3 is not sufficient to cover the needs of the promotion programmes adopted in 1993.
+
+## Article 2
+
+Regulation (EC) No 3380/93 is hereby repealed.
+
+## Article 3
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 December 1993.
+
+For the Commission
+
+René STEICHEN
+
+Member of the Commission
+
+(1) OJ No L 215, 30. 7. 1992, p. 57.
+
+(2) OJ No L 132, 29. 5. 1993, p. 83.
+
+(3) OJ No L 303, 10. 12. 1993, p. 15.

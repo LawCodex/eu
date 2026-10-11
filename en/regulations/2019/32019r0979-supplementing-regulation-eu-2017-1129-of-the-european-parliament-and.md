@@ -1,0 +1,615 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301 (Text with EEA relevance)"
+identifier: "32019R0979"
+eli: "http://data.europa.eu/eli/reg/2019/979/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-03-14
+entry_into_force: 2020-01-16
+last_amended: 2026-07-10
+consolidated_version: "02019R0979-20260710"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0979-20260710"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301 (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/979**
+
+**of 14 March 2019**
+
+**supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1272 of 4 June 2020 </td><td> L 300</td><td>1</td><td>14.9.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/395 of 23 February 2026 </td><td> L 395</td><td>1</td><td>2.6.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/979**
+
+**of 14 March 2019**
+
+**supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated Regulation (EU) No 382/2014 and Commission Delegated Regulation (EU) 2016/301**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — KEY FINANCIAL INFORMATION IN THE PROSPECTUS SUMMARY
+
+### SECTION 1 — Content of the key financial information in the prospectus summary
+
+#### Article 1 — Minimum content of the key financial information in the summary of a prospectus
+
+1\. The key financial information in the summary of a prospectus shall be made up of the financial information laid down in the Annexes to Commission Delegated Regulation 2019/980 ( 1 ).
+
+2\. Where any information referred to in the relevant tables set out in Annexes I to VI to this Regulation is not included in the financial statements of the issuer, the issuer shall disclose a corresponding item from its financial statements instead.
+
+3\. The issuer may include additional line items or alternative performance measures in the summary of a prospectus where these are key financial information on the issuer or on the securities being offered or admitted to trading on a regulated market. For the purposes of the first sentence, alternative performance measures shall be financial measures of historical or future financial performance, financial position or cash flows, other than financial measures defined in the applicable financial reporting framework.
+
+4\. Issuers who do not fall under any of the types of issuers identified in Articles 2 to 8 shall present the key financial information referred to in the tables that they consider correspond most closely to the type of securities issued.
+
+5\. The key financial information shall be presented for the number of years required by Delegated Regulation 2019/980 for the type of issuance and the type of securities being issued.
+
+#### Article 2 — Key financial information for non-financial entities issuing equity securities
+
+Where the issuer is a non-financial entity issuing equity securities, the summary of a prospectus shall contain the key financial information referred to in the tables set out in Annex I.
+
+#### Article 3 — Key financial information for non-financial entities issuing non-equity securities
+
+Where the issuer is a non-financial entity issuing non-equity securities, the summary of a prospectus shall contain the key financial information referred to in the tables set out in Annex II.
+
+#### Article 4 — Key financial information for credit institutions
+
+Where the issuer is a credit institution, the summary of a prospectus shall contain the key financial information referred to in the tables set out in Annex III.
+
+#### Article 5 — Key financial information for insurance companies
+
+Where the issuer is an insurance company, the summary of a prospectus shall contain the key financial information referred to in the tables set out in Annex IV.
+
+#### Article 6 — Key financial information for special purpose vehicles issuing asset backed securities
+
+Where the issuer is a special purpose vehicle issuing asset backed securities, the prospectus summary shall contain the key financial information referred to in the tables set out in Annex V.
+
+#### Article 7 — Key financial information for closed end funds
+
+Where the issuer is a closed end fund, the summary of a prospectus shall contain the key financial information referred to in the tables set out in Annex VI.
+
+#### Article 8 — Key financial information for guarantors
+
+Where a guarantee is attached to the securities, the key financial information on the guarantor shall be presented as if the guarantor were the issuer of the same type of security that is the subject of the guarantee using the tables set out in Annexes I to VI. Where the guarantee is given for asset-backed securities, the key financial information on the guarantor shall be presented as if the guarantor were the issuer of the underlying securities.
+
+### SECTION 2 — Format of the key financial information in the prospectus summary
+
+#### Article 9 — Format of the key financial information in the summary of a prospectus
+
+1\. The key financial information shall be presented in tabular format in accordance with the tables of Annexes I to VI to this Regulation.
+
+2\. Any historical financial information in the summary of a prospectus, which is not extracted from the financial statements, shall be identified as such.
+
+3\. Where pro forma information to be included in the summary of a prospectus affects the key financial information referred to in the relevant table of Annexes I to VI to this Regulation, that pro forma information shall be presented in additional columns in the tables set out in Annexes I to VI to this Regulation or as a separate table. Where necessary for its understanding, the pro forma information shall be accompanied by a brief explanation of the figures presented in the additional columns or separate table.
+
+Where in the case of a significant gross change only qualitative information is included in the prospectus, a statement to that effect shall be included in the summary of that prospectus.
+
+4\. Where the issuer has a complex financial history as set out in Article 18 of Delegated Regulation 2019/980, the key financial information in the summary of the prospectus shall be presented in a manner consistent with the prospectus and using the relevant tables in Annexes I to VI to this Regulation.
+
+## CHAPTER II — PUBLICATION OF THE PROSPECTUS
+
+#### Article 10 — Publication of the prospectus
+
+1\. Where a prospectus, whether a single document or consisting of separate documents, contains hyperlinks to websites, it shall include a statement to the effect that the information on the websites does not form part of the prospectus and has not been scrutinised or approved by the competent authority. That requirement shall not apply to hyperlinks to information that is incorporated by reference.
+
+2\. Where a prospectus is published in accordance with Article 21(2) of Regulation (EU) 2017/1129, measures shall be taken on websites used for the publication of the prospectus to avoid targeting residents of Member States or third countries other than those where the securities are offered to the public.
+
+## CHAPTER III — MACHINE READABLE DATA FOR THE CLASSIFICATION OF PROSPECTUSES
+
+#### Article 11 — Data for classification of prospectuses
+
+When providing ESMA with an electronic copy of an approved prospectus, including any supplements thereto and final terms where applicable, the competent authority shall also provide to ESMA with the relevant accompanying data for the classification of prospectuses in accordance with the tables set out in Annex VII to this Regulation.
+
+#### Article 11a — Information accessible on European Single Access Point
+
+For the purposes of Article 21a of Regulation (EU) 2017/1129, competent authorities may make the information referred to in Article 21a(1) accessible on European Single Access Point (ESAP) by providing ESMA via the notification portal referred to in Article 25(6) of that Regulation with an electronic copy of that information, and the data necessary for its classification in the storage mechanism referred to in Article 21(6) of Regulation (EU) 2017/1129, in accordance with the tables set out in Annex VII to this Regulation.
+
+#### Article 11b — Electronic copy of exemption documents
+
+Competent authorities may provide ESMA via the notification portal referred to in Article 25(6) of Regulation (EU) 2017/1129 with an electronic copy of the documents referred to in Article 1(4), points (da) and (db), and Article 1(5), point (ba), of Regulation (EU) 2017/1129 for the analysis referred to in Article 47(3), point (a), of that Regulation.
+
+#### Article 12 — Practical arrangements to ensure the machine readability of the data
+
+The competent authority shall provide the accompanying data referred to in Articles 11, 11a and 11b in a common XML format and in accordance with the format and standards set out in the tables in Annex VII.
+
+## CHAPTER IV — ADVERTISEMENTS
+
+#### Article 13 — Identification of the prospectus
+
+Where the issuer, the offeror or the person asking for admission to trading on a regulated market is subject to the obligation to draw up a prospectus, an advertisement shall clearly identify that prospectus by:
+
+(a) clearly identifying the website where the prospectus is published, or will be published, where the advertisement is disseminated in written form and by means other than electronic means;
+
+(b) including a hyperlink to the prospectus and to the relevant final terms of a base prospectus where the advertisement is disseminated in written form by electronic means, or by including a hyperlink to the page of the website where the prospectus will be published if the prospectus has not yet been published;
+
+(c) including accurate information on where the prospectus may be obtained, and accurate information on the offer of securities or the admission to trading on a regulated market to which it relates, where the advertisement is disseminated in a form or by means not falling within the scope of points (a) or (b).
+
+#### Article 14 — Required content
+
+1\. Advertisements disseminated to potential retail investors shall include the following elements:
+
+(a) the word ‘advertisement’, in a prominent manner. Where an advertisement is disseminated in an oral form, the purpose of the communication shall be clearly identified at the beginning of the message;
+
+(b) a statement that the approval of the prospectus should not be understood as an endorsement of the securities offered or admitted to trading on a regulated market where the advertisement contains a reference to a prospectus approved by a competent authority;
+
+(c) a recommendation that potential investors read the prospectus before making an investment decision in order to fully understand the potential risks and rewards associated with the decision to invest in the securities where the advertisement contains a reference to a prospectus approved by a competent authority;
+
+(d) the comprehension alert required pursuant to point (b) of Article 8(3) of Regulation (EU) No 1286/2014 of the European Parliament and of the Council ( 2 ) where:
+
+(i) the advertisement relates to complex securities other than the financial instruments referred to in points (i), (ii) and (vi) of Article 25(4)(a) of Directive 2014/65/EU of the European Parliament and of the Council ( 3 ) and;
+
+(ii) the comprehension alert is, or will be, included in the summary of the prospectus.
+
+2\. Advertisements in written form, which are disseminated to potential retail investors, shall be sufficiently different in format and length from the prospectus that no confusion with the prospectus is possible.
+
+#### Article 15 — Dissemination of advertisements
+
+1\. Advertisements disseminated to potential investors shall be amended where:
+
+(a) a supplement to the prospectus is subsequently published in accordance with Article 23 of Regulation (EU) 2017/1129;
+
+(b) the significant new factor, material mistake or material inaccuracy mentioned in the supplement renders the previously disseminated advertisement materially inaccurate or misleading.
+
+The first subparagraph shall not apply after the final closing of the offer period to the public or after the time when trading on a regulated market begins, whichever occurs later.
+
+2\. Advertisements amended as referred to in paragraph 1 shall be disseminated to potential investors without undue delay following the publication of the supplement to the prospectus and shall contain all of the following:
+
+(a) a clear reference to the inaccurate or misleading version of the advertisement;
+
+(b) an explanation that the advertisement has been amended as it contained materially inaccurate or misleading information;
+
+(c) a clear description of the differences between the two versions of the advertisement.
+
+3\. With the exception of orally disseminated advertisements, advertisements amended pursuant to paragraph 1 shall be disseminated through at least the same means as the previous advertisement.
+
+#### Article 16 — Information concerning offers of securities
+
+1\. Information disclosed in oral or written form concerning an offer of securities to the public or an admission to trading on a regulated market, whether as an advertisement or for other purposes, shall not:
+
+(a) contradict the information in the prospectus;
+
+(b) refer to information which contradicts the information in the prospectus;
+
+(c) present the information in the prospectus in a materially unbalanced way, including by way of presentation of negative aspects of such information with less prominence than the positive aspects, omission or selective presentation of certain information;
+
+(d) contain alternative performance measures unless they are contained in the prospectus.
+
+2\. For the purposes of the paragraph 1, information in the prospectus shall consist of either information included in the prospectus, where already published, or information to be included in the prospectus, where the prospectus is to be published at a later date.
+
+3\. For the purposes of point (d) of the paragraph 1, alternative performance measures shall consist of financial measures of historical or future financial performance, financial position or cash flows, other than financial measures defined in the applicable financial reporting framework.
+
+#### Article 17 — Procedure for the cooperation between competent authorities
+
+1\. Where the competent authority of a Member State in which an advertisement is disseminated believes that the content of that advertisement is inconsistent with the information in the prospectus, it may request the assistance of the competent authority of the home Member State. Where requested, the competent authority in which the advertisement is disseminated shall communicate the following to the competent authority of the home Member State:
+
+(a) its reasons for believing that the content of the advertisement is inconsistent with the information in the prospectus;
+
+(b) the relevant advertisement and, where necessary, a translation of the advertisement in the language of the prospectus or in a language customary in the sphere of international finance.
+
+2\. The competent authority of the home Member State shall transmit to the competent authority in which the advertisement is disseminated as soon as possible the results of its assessment of the consistency of the advertisement with the information in the prospectus.
+
+## CHAPTER V — SUPPLEMENTS TO THE PROSPECTUS
+
+#### Article 18 — Publication of a supplement to the prospectus
+
+1\. A supplement to the prospectus shall be published where:
+
+(a) new annual audited financial statements are published by any of the following:
+
+(i) an issuer where a prospectus relates to shares or other transferrable securities equivalent to shares;
+
+(ii) an issuer of the underlying shares or other transferable securities equivalent to shares in case of securities referred to in Articles 19(2) or 20(2) of Delegated Regulation (EU) 2019/980;
+
+(iii) an issuer of the underlying shares of depository receipts referred to in Articles 6 and 14 of Delegated Regulation 2019/980;
+
+(b) an issuer has published a profit forecast or estimate following the approval of the prospectus, where a profit forecast or estimate is required to be included in the prospectus pursuant to Delegated Regulation 2019/980;
+
+(c) an amendment to, or a withdrawal of, a profit forecast or a profit estimate is included in the prospectus;
+
+(d) a change in control occurs in respect of any of the following:
+
+(i) an issuer where a prospectus relates to shares or other transferrable securities equivalent to shares;
+
+(ii) an issuer of the underlying shares or other transferable securities equivalent to shares where a prospectus relates to securities referred to in Articles 19(2) or 20(2) of Delegated Regulation (EU) 2019/980;
+
+(iii) an issuer of the underlying shares of depository receipts referred to in Articles 6 and 14 of Delegated Regulation 2019/980;
+
+(e) third parties make a new takeover bid as defined in Article 2(1)(a) of Directive 2004/25/EC of the European Parliament and of the Council ( 4 ) or the result of any takeover bid becomes available in respect of any of the following:
+
+(i) the equity of the issuer where a prospectus relates to shares or other transferrable securities equivalent to shares;
+
+(ii) the equity of the issuer of the underlying shares or other transferable securities equivalent to shares where a prospectus relates to the securities referred to in Articles 19(2) or 20(2) of Delegated Regulation (EU) 2019/980;
+
+(iii) the equity of the issuer of the underlying shares of depository receipts where a prospectus is drawn up in accordance with Articles 6 and 14 of Delegated Regulation (EC) 2019/980;
+
+(f) the working capital statement included in a prospectus becomes sufficient or insufficient for the issuer’s present requirements, in relation to:
+
+(i) shares or other transferrable securities equivalent to shares;
+
+(ii) securities as referred to in Article 19(2) of Delegated Regulation (EU) 2019/980;
+
+(iii) depository receipts issued over shares as referred to in Articles 6 and 14 of Delegated Regulation 2019/980.
+
+(g) an issuer is seeking admission to trading on at least one additional regulated market in at least one additional Member State or is intending to make an offer of securities to the public in at least one additional Member State that is not mentioned in the prospectus;
+
+(h) in the case of a prospectus relating to shares or other transferrable securities equivalent to shares or to the securities referred to in Articles 19(2) or 20(2) of Delegated Regulation (EU) 2019/980, a new significant financial commitment is likely to give rise to a significant gross change as defined in Article 1, point (e), of that Delegated Regulation;
+
+(i) the aggregate nominal amount of the offering programme is increased.
+
+## CHAPTER VI — TECHNICAL ARRANGEMENTS FOR THE FUNCTIONING OF THE NOTIFICATION PORTAL
+
+#### Article 19 — Upload of documents and accompanying data
+
+When uploading any documents referred to in Article 25(6) of Regulation (EU) 2017/1129 into the notification portal, the competent authority shall ensure those documents are in a searchable electronic format that cannot be modified and are accompanied by the data relating to those documents as specified in the tables of Annex VII to this Regulation in a common XML format.
+
+#### Article 20 — Processing and notification of documents and accompanying data
+
+1\. ESMA shall ensure that the notification portal automatically processes and checks all uploaded documents and accompanying data and notifies the uploading competent authority of whether the upload was successful and whether the upload contained any error.
+
+2\. ESMA shall ensure that the notification portal sends notifications of uploaded documents and accompanying data to the relevant competent authorities.
+
+#### Article 21 — Download of documents and accompanying data
+
+ESMA shall ensure that the notification portal makes any uploaded documents and accompanying data available to the relevant competent authorities.
+
+## CHAPTER VIa — DOCUMENTS FOR INCORPORATION BY REFERENCE INTO A PROSPECTUS AS REFERRED TO IN ARTICLE 19 OF REGULATION (EU) 2017/1129
+
+#### Article 21a
+
+In addition to the documents set out in Article 19(1) of Regulation (EU) 2017/1129, the following documents may be incorporated by reference into a prospectus:
+
+(a) documents which have been approved by a competent authority, or filed with it, in accordance with Directive 2003/71/EC of the European Parliament and of the Council ( 5 );
+
+(b) pre-issuance disclosures for issuers of bonds marketed as environmentally sustainable or of sustainability-linked bonds as referred to in Article 20 of Regulation (EU) 2023/2631 of the European Parliament and of the Council ( 6 ).
+
+## CHAPTER VII — FINAL PROVISIONS
+
+#### Article 22 — Repeal
+
+Delegated Regulation (EU) No 382/2014 is repealed.
+
+Delegated Regulation (EU) 2016/301 is repealed.
+
+#### Article 22a — Summaries of prospectuses approved between 21 July 2019 and 16 September 2020 for non-financial entities issuing equity securities
+
+Summaries of prospectuses that contain information as referred to in Table 3 of Annex I and that have been approved between 21 July 2019 and 16 September 2020 shall continue to be valid until the end of the validity of those prospectuses.
+
+#### Article 23 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 July 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**NON-FINANCIAL ENTITIES (EQUITY SECURITIES)**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Income statement for non-financial entities (equity securities)**
+
+|  | Year | Year -1 | Year -2 | Interim | Comparative interim from same period in prior year |
+| --- | --- | --- | --- | --- | --- |
+| *Total revenue |  |  |  |  |  |
+| *Operating profit/loss or another similar measure of financial performance used by the issuer in the financial statements |  |  |  |  |  |
+| *Net profit or loss (for consolidated financial statements net profit or loss attributable to equity holders of the parent) |  |  |  |  |  |
+| #Year on year revenue growth |  |  |  |  |  |
+| #Operating profit margin |  |  |  |  |  |
+| #Net profit margin |  |  |  |  |  |
+| #Earnings per share |  |  |  |  |  |
+
+**Table 2**
+
+**Balance sheet for non-financial entities (equity securities)**
+
+|  | Year | Year -1 | Year -2 | Interim |
+| --- | --- | --- | --- | --- |
+| *Total assets |  |  |  |  |
+| *Total equity |  |  |  |  |
+| #Net financial debt (long term debt plus short term debt minus cash) |  |  |  |  |
+
+**Table 3**
+
+**Cash flow statement for non-financial entities (equity securities)**
+
+|  | Year | Year -1 | Year -2 | Interim | Comparative interim from same period in prior year |
+| --- | --- | --- | --- | --- | --- |
+| *Relevant net Cash flows from operating activities and/or cash flows from investing activities and/or cash from financing activities |  |  |  |  |  |
+
+## ANNEX II
+
+**NON-FINANCIAL ENTITIES (NON-EQUITY SECURITIES)**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Income statement for non-equity securities**
+
+|  | Year | Year -1 | Interim | Comparative interim from same period in prior year |
+| --- | --- | --- | --- | --- |
+| *Operating profit/loss or another similar measure of financial performance used by the issuer in the financial statements |  |  |  |  |
+
+**Table 2**
+
+**Balance sheet for non-equity securities**
+
+|  | Year | Year -1 | Interim |
+| --- | --- | --- | --- |
+| *Net financial debt (long term debt plus short term debt minus cash) |  |  |  |
+| #Current ratio (current assets/current liabilities) |  |  |  |
+| #Debt to equity ratio (total liabilities/total shareholder equity) |  |  |  |
+| #Interest cover ratio (operating income/interest expense) |  |  |  |
+
+**Table 3**
+
+**Cash flow statement for non-equity securities**
+
+|  | Year | Year -1 | Interim | Comparative interim from same period in prior year |
+| --- | --- | --- | --- | --- |
+| *Net Cash flows from operating activities |  |  |  |  |
+| *Net Cash flows from financing activities |  |  |  |  |
+| *Net Cash flow from investing activities |  |  |  |  |
+
+## ANNEX III
+
+**CREDIT INSTITUTIONS (EQUITY AND NON-EQUITY SECURITIES)**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Income statement for credit institutions**
+
+<table>
+<tbody><tr><td>  </td><td>Year</td><td>Year -1</td><td>Year -2 (1)</td><td>Interim</td><td>Comparative interim from same period in prior year</td></tr>
+<tr><td>*Net interest income (or equivalent)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net fee and commission income</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net impairment loss on financial assets</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net trading income</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Measure of financial performance used by the issuer in the financial statements such as operating profit</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net profit or loss (for consolidated financial statements net profit or loss attributable to equity holders of the parent)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Earnings per share (for equity issuers only)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(1)  Please indicate the key financial information for the number of years for which the relevant information requirement applies pursuant to Delegated Regulation 2019/980. </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Balance sheet for credit institutions**
+
+<table>
+<tbody><tr><td>  </td><td>Year</td><td>Year -1</td><td>Year -2 (1)</td><td>Interim</td><td>#Value as outcome from the most recent Supervisory Review and Evaluation Process (‘SREP’)</td></tr>
+<tr><td>*Total assets</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Senior debt</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Subordinated debt</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Loans and receivables from customers (net)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Deposits from customers</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Total equity</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Non performing loans (based on net carrying amount)/Loans and receivables)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Common Equity Tier 1 capital (CET1) ratio or other relevant prudential capital adequacy ratio depending on the issuance</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Total Capital Ratio</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Leverage Ratio calculated under applicable regulatory framework</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(1)  Please indicate the key financial information for the number of years for which the relevant information requirement applies pursuant to Delegated Regulation 2019/980. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**INSURANCE COMPANIES (EQUITY AND NON-EQUITY SECURITIES)**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Income statement for insurance companies**
+
+<table>
+<tbody><tr><td>  </td><td>Year</td><td>Year -1</td><td>Year -2 (1)</td><td>Interim</td><td>Comparative interim from same period in prior year</td></tr>
+<tr><td>*Net premiums</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net benefits and claims</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Earnings before tax</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Operating profit (distinguishing between life and non-life insurance)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Net profit or loss (for consolidated financial statements net profit or loss attributable to equity holders of the parent)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Year on year revenue growth (net premiums)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Earnings per share (for equity issuers only)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(1)  Please indicate the key financial information for the number of years for which the relevant information requirement applies pursuant to Delegated Regulation 2019/980. </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Balance sheet for insurance companies**
+
+<table>
+<tbody><tr><td>  </td><td>Year</td><td>Year -1</td><td>Year -2 (1)</td><td>Interim</td></tr>
+<tr><td>*Investments including financial assets related to unit linked contracts</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Total assets</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Insurance contract liabilities</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Financial liabilities</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Total liabilities</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>*Total equity</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Solvency Cover Ratio (Solvency II ratio — SII ratio) or other relevant other relevant prudential capital requirement ratio depending on the issuance</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Loss ratio</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>#Combined ratio (claims + expenses/premiums for the period)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(1)  Please indicate the key financial information for the number of years for which the relevant information requirement applies pursuant to Delegated Regulation 2019/980. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**SPECIAL PURPOSE VEHICLES (‘SPVS’) ISSUING ASSET BACKED SECURITIES**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Income statement for SPVs in relation to asset backed securities**
+
+|  | Year | Year -1 |
+| --- | --- | --- |
+| *Net profit or loss |  |  |
+
+**Table 2**
+
+**Balance sheet for SPVs in relation to asset backed securities**
+
+|  | Year | Year -1 |
+| --- | --- | --- |
+| *Total Assets |  |  |
+| *Total Liabilities |  |  |
+| *Financial Assets designated at fair value through profit or loss |  |  |
+| *Derivative financial assets |  |  |
+| *Non-financial assets if material to the entity’s business |  |  |
+| *Financial Liabilities designated at fair value through profit or loss |  |  |
+| *Derivative financial liabilities |  |  |
+
+## ANNEX VI
+
+**CLOSED END FUNDS**
+
+— An entry which is marked with ‘*’ refers to mandatory information or corresponding information where the issuer does not use International Financial Reporting Standards (IFRS). The issuer can use a different title to present substantially the same information as set out in the table, where this alternative title is used in its financial statements.
+
+— An entry which is marked with ‘#’ denotes that if this information appears elsewhere in the prospectus, it is mandatory.
+
+— An entry which is marked with ‘~’ in relation to closed end funds refers to investments at fair value through profit or loss at the same date as the date of the net asset value (NAV).
+
+**Table 1**
+
+**Additional information relevant to closed end funds**
+
+| Share Class | Total NAV | No. of shares/units | ~NAV/share or Market price/share/unit | #Historical performance of the fund |
+| --- | --- | --- | --- | --- |
+| A | XXX | XX | X |  |
+|  | Overall Total | Overall Total |  |  |
+
+**Table 2**
+
+**Income statement for closed end funds**
+
+|  | Year | Year -1 | Year -2 | Interim | Comparative interim from same period in prior year |
+| --- | --- | --- | --- | --- | --- |
+| *Total net Income/Net investment Income or total income before operating expenses |  |  |  |  |  |
+| *Net Profit/(Loss) |  |  |  |  |  |
+| *Performance fee (accrued/paid) |  |  |  |  |  |
+| *Investment management fee (accrued/paid) |  |  |  |  |  |
+| *Any other material fees (accrued/paid) to service providers |  |  |  |  |  |
+| #Earnings per share |  |  |  |  |  |
+
+**Table 3**
+
+**Balance sheet for closed end funds**
+
+|  | Year | Year -1 | Year -2 | Interim |
+| --- | --- | --- | --- | --- |
+| *Total Net Assets |  |  |  |  |
+| #Leverage ratio |  |  |  |  |
+
+## ANNEX VII — MACHINE-READABLE DATA TO BE PROVIDED TO ESMA
+
+**Table 1**
+
+| Number | Field | Content to be reported | Format and Standard to be used for reporting |
+| --- | --- | --- | --- |
+| 1. | National identifier | Unique identifier of the uploaded record, assigned by the sending NCA | {ALPHANUM-50} |
+| 2. | Related national identifier | Unique identifier of the record to which the uploaded record relates, assigned by the sending NCA Not reported in case the related national identifier is not applicable | {ALPHANUM-50} |
+| 3. | Sending Member State | Country code of the Member State which approved the uploaded record or with which the uploaded record was filed | {COUNTRYCODE_2} |
+| 4. | Receiving Member State(s) | Country code of the Member State(s) to which uploaded record is to be notified or communicated When multiple Member States shall be communicated, field 4 shall be reported as many times as necessary | {COUNTRYCODE_2} |
+| 5. | Document type | The type of uploaded document(s) | Choice from list of predefined fields: — ‘BPFT’ – Base prospectus with final terms — ‘BPWO’ – Base prospectus without final terms — ‘STDA’ – Standalone prospectus — ‘REGN’ – Registration document — ‘URGN’ – Universal registration document — ‘SECN’ – Securities note — ‘FTWS’ – Final terms, including the summary of the individual issue annexed to them — ‘SMRY’ – Summary — ‘SUPP’ – Supplement — ‘SUMT’ – Translation of summary — ‘APPT’ – Translation of appendix — ‘COAP’ – Certificate of Approval — ‘AMND’ – Amendment — ‘EXMP’ – Exemption document under Article 1(4), point (da), Article 1(4), point (db), Article 1(5), point (ba), Article 1(4), point (f), Article 1(4), point (g), Article 1(5), point (e), or Article 1(5), point (f), of Regulation (EU) 2017/1129 — ‘FOPA’ – Final offer price and amount of securities under Article 17(2) of Regulation (EU) 2017/1129 When multiple documents shall be communicated, field [5] shall be reported as many times as necessary to describe each document composing the record |
+| 6. | Exemption category | Reason for the exemption Multiple categories may be selected | — ‘EDPR’ – Exemption document under Article 1(4), point (da), Article 1(4), point (db) or Article 1(5), point (ba), of Regulation (EU) 2017/1129 [fungible securities] — ‘EDMD’ – Exemption document under Article 1(4), point (g), or Article 1(5), point (f), of Regulation (EU) 2017/1129 [merger or division] — ‘EDTK’ – Exemption document under Article 1(4), point (f), or Article 1(5), point (e), of Regulation (EU) 2017/1129 [takeover] |
+| 7. | Structure type | The format chosen for the prospectus | Choice from list of predefined fields: — ‘SNGL’ – Single document prospectus — ‘SPWS’ – Prospectus consisting of separate documents with summary — ‘SPWO’ – Prospectus consisting of separate documents without summary |
+| 8. | Approval or filing date | The date on which the uploaded record was approved or filed | {DATEFORMAT} |
+| 9. | Language | The EU language in which the uploaded record is drafted | {LANGUAGE} |
+| 10. | Offeror standardised name | Name and surname of the offeror in case the offeror is a natural person When multiple offerors shall be communicated, field [10] shall be reported as many times as necessary | {ALPHANUM-280} |
+| 11. | Guarantor standardised name | Name and surname of the guarantor in case the guarantor is a natural person When multiple guarantors shall be communicated, field [11] shall be reported as many times as necessary | {ALPHANUM-280} |
+| 12. | Issuer LEI | Legal Entity Identifier of the issuer When multiple issuers shall be communicated, field [12] shall be reported as many times as necessary | {LEI} |
+| 13. | Offeror LEI | Legal Entity Identifier of the offeror When multiple offerors shall be communicated, field [13] shall be reported as many times as necessary | {LEI} |
+| 14. | Guarantor LEI | Legal Entity Identifier of the guarantor When multiple guarantors shall be communicated, field [14] shall be reported as many times as necessary | {LEI} |
+| 15. | Offeror residency | Offeror’s residency in case the offeror is a natural person When multiple offerors shall be communicated, field [15] shall be reported as many times as necessary | {COUNTRYCODE_2} |
+| 16. | Guarantor residency | Guarantor’s residency in case the guarantor is a natural person When multiple guarantors shall be communicated, field [16] shall be reported as many times as necessary | {COUNTRYCODE_2} |
+| 17. | FISN | Financial Instrument Short Name of the security This field should be repeated for each ISIN | {FISN} |
+| 18. | ISIN | International Securities Identification Number | {ISIN} |
+| 19. | CFI | Classification of Financial Instrument code This field should be repeated for each ISIN | {CFI_CODE} |
+| 20. | Issuance currency | Code representing the currency in which the nominal or notional value is denominated This field should be repeated for each ISIN | {CURRENCYCODE_3} |
+| 21. | Denomination per unit | Nominal value or notional value per unit in the issuance currency This field should be repeated for each ISIN Field applicable to securities with defined denomination | {DECIMAL-18/5} |
+| 22. | Identifier or name of the underlying | ISIN code of the underlying security/index or name of the underlying security/index if an ISIN does not exist When basket of securities, to be identified accordingly Field applicable to securities with defined underlying. This field should be repeated for each ISIN of such securities | For unique underlying: — in case of security or index with existing ISIN: {ISIN} — in case the index has no ISIN: {INDEX} — otherwise: {ALPHANUM-50} For multiple underlyings (more than one): ‘BSKT’ |
+| 23. | Maturity or expiry date | Date of maturity or expiry date of the security, when applicable This field should be repeated for each ISIN Field applicable to securities with defined maturity | {DATEFORMAT} For perpetual debt securities field 22 shall be populated with the value 9999-12-31 |
+| 24. | Volume offered | Number of securities offered Field applicable only to equity This field should be repeated for each applicable ISIN | {INTEGER-18} Either as single value, range of values, maximum |
+| 25. | Price offered | Price per security offered, in monetary value. The currency of the price is the consideration offered currency Field applicable only to equity This field should be repeated for each applicable ISIN | {DECIMAL-18/5} Either as single value, range of values, maximum ‘PNDG’ in case the price offered is not available but pending ‘NOAP’ in case the price offered is not applicable |
+| 26. | Consideration offered | Total amount offered, in monetary value of the currency of the consideration offered This field should be repeated for each ISIN | {DECIMAL-18/5} Either as single value, range of values, maximum ‘PNDG’ in case the consideration offered is not available but pending ‘NOAP’ in case the consideration offered is not applicable |
+| 27. | Consideration offered currency | Code representing the currency of the consideration offered This field should be repeated for each ISIN | {CURRENCYCODE_3} |
+| 28. | Final offer price | Price per security offered, in monetary value. Field applicable only to equity Field applicable only to final offers This field should be repeated for each applicable ISIN | {DECIMAL-18/5} Single value |
+| 29. | Final offer price currency | The currency of the final offer Field applicable only to equity | {CURRENCYCODE_3} |
+| 30. | Final offer volume | Number of securities offered Field applicable only to final offers This field should be repeated for each applicable ISIN | {INTEGER-18} Single value |
+| 31. | Final offer consideration | Total amount offered, in monetary value of the consideration offered currency This field should be repeated for each ISIN | {DECIMAL-18/5} Single value |
+| 32. | Type of security | Classification of categories of equity and non-equity securities This field should be repeated for each ISIN | Choice from list of predefined fields: Equity — ‘SHRS’: Share — ‘UCEF’: Unit or share in closed end funds — ‘CVTS’: Convertible security — ‘DPRS’: Depository receipt — ‘OTHR’: Other equity Debt — ‘DWLD’: Debt with denomination per unit of at least EUR 100 000 — ‘DWHD’: Debt with denomination per unit of less than EUR 100 000 — ‘DLRM’: Debt with denomination per unit of less than EUR 100 000 traded on a regulated market to which only qualified investors have access — ‘ABSE’: ABS — ‘DERV’: Derivative security |
+| 33. | Type of offer/admission | Taxonomy according to Regulation (EU) 2017/1129, Directive 2014/65/EU and Regulation (EU) No 600/2014 This field should be repeated for each ISIN | Choice from list of predefined fields: — ‘IOWA’: Initial offer without admission to trading on a regulated market — ‘IORM’: Initial offer with admission to trading on a regulated market — ‘SOWA’: Secondary offer without admission to trading on a regulated market — ‘IRMT’: Initial admission to trading on regulated market — ‘IPTM’: Initial admission to trading on regulated market from previously being traded on MTF — ‘IMTF’: Initial admission to trading on MTF with offer to the public — ‘SOOA’: Secondary offer with admission to trading on a regulated market — ‘SIWO’: Secondary issuance on a regulated market without an offer to the public — ‘SIOP’: Secondary issuance on an MTF with an offering to the public |
+| 34. | Characteristics of the trading venue where the security is initially admitted to trading | Taxonomy according to Regulation (EU) 2017/1129, Directive 2014/65/EU and Regulation (EU) No 600/2014 This field should be repeated for each ISIN | Choice from list of predefined fields: — ‘RMKT’: RM open to all investors — ‘RMQI’: RM, or segment thereof, limited to qualified investors — ‘MSGM’: MTF which is a SME growth market — ‘MLTF’: MTF which is not a SME growth market |
+| 35. | Disclosure regime | The annex number in accordance with which the prospectus is drafted under Delegated Regulation (EU) 2019/980 When multiple annexes shall be communicated, field 35 shall be reported as many times as necessary | {INTEGER-2} From 1 to [50] |
+| 36. | EU Growth issuance prospectus | Reason based on which an EU Growth issuance prospectus has been used | Choice from list of predefined fields: — ‘S15A’: issuers under Article 15a(1), point (a), of Regulation (EU) 2017/1129 — ‘I15B’: issuers under Article 15a(1), point (b), of Regulation (EU) 2017/1129 — ‘I15C’: issuers under Article 15a(1), point (c), of Regulation (EU) 2017/1129 — ‘O15D’: offerors of securities under Article 15a(1), point (d), of Regulation (EU) 2017/1129 |
+| 37. | EU Follow-on prospectus | Reason why an EU Follow-on prospectus has been used | Choice from list of predefined fields: — ‘I14A’: issuers under Article 14a(1), point (a), of Regulation (EU) 2017/1129 — ‘I14B’: issuers under Article 14a(1), point (b), of Regulation (EU) 2017/1129 — ‘I14C’: issuers under Article 14a(1), point (c), of Regulation (EU) 2017/1129 — ‘O14D’: offerors of securities under Article 14a(1), point (d), of Regulation (EU) 2017/1129 |
+| 38. | Regulation (EU) 2023/2631 | Flag indicating whether the security qualifies as ‘European Green Bond’ or ‘EuGB’, a bond marketed as environmentally sustainable or a sustainability-linked bond This field should be repeated for each ISIN | — EuGB: security using the designation ‘European Green Bond’ or ‘EuGB’ under Article 3 of Regulation (EU) 2023/2631 — ESSL: bonds marketed as environmentally sustainable or sustainability-linked bonds whose issuers make voluntary disclosures under Articles 20 and 21 of Regulation (EU) 2023/2631 — SEGB: securitisation bond designated as ‘European Green Bond’ or ‘EuGB’ under Article 16 of Regulation (EU) 2023/2631 In case of EuGB or SEGB: {LEI} of the external reviewer |
+
+**Table 2**
+
+| Symbol | Data Type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field |
+| {CFI_CODE} | 6 characters | CFI code, as defined in ISO 10962 |
+| {COUNTRYCODE_2} | 2 alphanumerical characters | 2-letter country code, as defined by ISO 3166-1 alfa-2 country code |
+| {DATEFORMAT} | Dates in the following format: YYYY-MM-DD Dates shall be reported in UTC | ISO 8601 date format |
+| {LANGUAGE} | 2-letter code | ISO 639-1 |
+| {LEI} | 20 alphanumerical characters | Legal entity identifier as defined in ISO 17442 |
+| {FISN} | 35 alphanumerical characters with the following structure | FISN code, as defined in ISO 18774 |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {CURRENCYCODE_3} | 3 alphanumerical characters | 3-letter currency code, as defined by ISO 4217 currency codes |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total, of which up to m digits can be fraction digits | Numerical field Decimal separator is ‘.’ (full stop) Values are rounded and not truncated |
+| {INTEGER-n} | Integer number of up to n digits in total | Numerical field |
+| {INDEX} | 4 alphabetic characters | ‘ESTR’ – €STR ‘EURI’ – EURIBOR ‘EUUS’ – EURODOLLAR ‘EUCH’ – EuroSwiss ‘GCFR’ – GCF REPO ‘ISDA’ – ISDAFIX ‘LIBI’ – LIBID ‘MAAA’ – Muni AAA ‘PFAN’ – Pfandbriefe ‘TIBO’ – TIBOR ‘STBO’ – STIBOR ‘BBSW’ – BBSW ‘JIBA’ – JIBAR ‘BUBO’ – BUBOR ‘CDOR’ – CDOR ‘CIBO’ – CIBOR ‘MOSP’ – MOSPRIM ‘NIBO’ – NIBOR ‘PRBO’ – PRIBOR ‘TLBO’ – TELBOR ‘WIBO’ – WIBOR ‘TREA’ – Treasury ‘SWAP’ – SWAP ‘FUSW’ – Future SWAP ‘EFFR’ – Effective Federal Funds Rate ‘OBFR’ – Overnight Bank Funding Rate ‘CZNA’ – CZEONIA ‘TONA’ – TONA |
+
+( 1 ) Commission Delegated Regulation 2019/980 of 14 March 2019 supplementing Regulation (EU) 2017/1129 of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004 (See page 26 of this Official Journal).
+
+( 2 ) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1).
+
+( 3 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 4 ) Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).
+
+( 5 ) Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64, ELI: http://data.europa.eu/eli/dir/2003/71/oj).
+
+( 6 ) Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as environmentally sustainable and for sustainability-linked bonds (OJ L, 2023/2631, 30.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2631/oj).

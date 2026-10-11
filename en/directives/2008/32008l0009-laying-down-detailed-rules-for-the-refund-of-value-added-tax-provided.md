@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2010/66/EU of 14 October 2010 </td><td> L 275</td><td>1</td><td>20.10.2010</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2008/9/EC**
 

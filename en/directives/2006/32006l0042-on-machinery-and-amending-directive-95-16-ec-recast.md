@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
@@ -32,6 +33,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE 2014/33/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 96</td><td>251</td><td>29.3.2014</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2749 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2749</td><td>1</td><td>8.11.2024</td></tr>
+</table>
 
 **DIRECTIVE 2006/42/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

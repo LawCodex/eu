@@ -1,0 +1,62 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/1849 of 21 October 2021 correcting certain language versions of Implementing Regulation (EU) 2020/464 laying down certain rules for the application of Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the documents needed for the retroactive recognition of periods for the purpose of conversion, the production of organic products and information to be provided by Member States (Text with EEA relevance)"
+identifier: "32021R1849"
+eli: "http://data.europa.eu/eli/reg_impl/2021/1849/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-10-21
+entry_into_force: 2021-11-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1849"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/1849 of 21 October 2021 correcting certain language versions of Implementing Regulation (EU) 2020/464 laying down certain rules for the application of Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the documents needed for the retroactive recognition of periods for the purpose of conversion, the production of organic products and information to be provided by Member States (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/1849**
+
+**of 21 October 2021**
+
+**correcting certain language versions of Implementing Regulation (EU) 2020/464 laying down certain rules for the application of Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the documents needed for the retroactive recognition of periods for the purpose of conversion, the production of organic products and information to be provided by Member States**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (1), and in particular Article 10(6), Article 14(3), Article 15(3), Article 16(3), Article 17(3) and Article 26(7), point (d), thereof,
+
+Whereas:
+
+(1) The German, Maltese and Spanish language versions of Commission Implementing Regulation (EU) 2020/464 (2) contain errors in Article 26(1) to (7), since those language versions refer to the date of entry into force instead of the date of application of that Implementing Regulation.
+
+(2) The German, Maltese and Spanish language versions of Implementing Regulation (EU) 2020/464 should therefore be corrected accordingly. The other language versions are not affected.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Committee on Organic Production,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(does not concern the English language)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 October 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 150, 14.6.2018, p. 1.
+
+(2) Commission Implementing Regulation (EU) 2020/464 of 26 March 2020 laying down certain rules for the application of Regulation (EU) 2018/848 of the European Parliament and of the Council as regards the documents needed for the retroactive recognition of periods for the purpose of conversion, the production of organic products and information to be provided by Member States (OJ L 98, 31.3.2020, p. 2).

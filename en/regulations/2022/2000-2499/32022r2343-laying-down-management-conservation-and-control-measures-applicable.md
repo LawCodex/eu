@@ -1,0 +1,1627 @@
+---
+title: "Regulation (EU) 2022/2343 of the European Parliament and of the Council of 23 November 2022 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007"
+identifier: "32022R2343"
+eli: "http://data.europa.eu/eli/reg/2022/2343/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-11-23
+entry_into_force: 2022-11-29
+last_amended: 2026-01-18
+consolidated_version: "02022R2343-20260118"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2343-20260118"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2022/2343 of the European Parliament and of the Council of 23 November 2022 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007
+
+**REGULATION (EU) 2022/2343 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 November 2022**
+
+**laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/117 of 3 November 2025 </td><td> L 117</td><td>1</td><td>15.1.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2022/2343 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 November 2022**
+
+**laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation implements into Union law management, conservation and control measures established by the Indian Ocean Tuna Commission (IOTC) that are binding on the Union.
+
+#### Article 2 — Scope
+
+This Regulation shall apply to:
+
+(a) Union fishing vessels which operate in the Area;
+
+(b) Union fishing vessels in the case of transhipments and landings of IOTC species outside the Area; and
+
+(c) third-country fishing vessels making use of ports in Member States and which carry IOTC species or fishery products originating from such species.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘the Agreement’ means the Agreement for the establishment of the Indian Ocean Tuna Commission;
+
+(2) ‘the Area’ means those parts of the Indian Ocean as defined in Article II of and Annex A to the Agreement;
+
+(3) ‘Union fishing vessel’ means any vessel of any size flying the flag of a Member State, equipped for commercial exploitation of marine biological resources, including support vessels, fish processing vessels, vessels engaged in transhipment and carrier vessels equipped for the transportation of fishery products, except container vessels;
+
+(4) ‘IOTC species’ means tuna and tuna-like species and sharks listed in Annex B to the Agreement, and other species caught in association with those species;
+
+(5) ‘contracting parties and cooperating non-contracting parties’ or ‘CPCs’ means contracting parties to the Agreement or cooperating non-contracting parties;
+
+(6) ‘conservation and management measure’ or ‘CMM’ means an applicable conservation and management measure adopted by the IOTC pursuant to Articles V(2)(c) and IX(1) of the Agreement;
+
+(7) ‘unfit for human consumption’ means a fish that is meshed or crushed in the purse seine, or is damaged due to depredation, or has died and spoiled in the net where a gear failure has prevented both the normal retrieval of the net and catch, and efforts to release the fish alive without including a fish that is considered undesirable in terms of size, marketability or species composition, or a fish that is spoiled or contaminated as the result of an act or omission of the crew of the Union fishing vessel;
+
+(8) ‘fish aggregating device’ or ‘FAD’ means a permanent, semi-permanent or temporary object, structure or device of any material, man-made or natural, which is deployed and/or tracked for the purpose of aggregating target tuna species for consequent capture;
+
+(9) ‘drifting FAD’ or ‘DFAD’ means a FAD not tethered to the bottom of the ocean;
+
+(10) ‘anchored FAD’ or ‘AFAD’ means a FAD tethered to the bottom of the ocean;
+
+(11) ‘data buoys’ means floating devices, either drifting or anchored, that are deployed by governmental or recognised scientific organisations or entities for the purpose of electronically collecting and measuring environmental data, and not for the purpose of fishing activities;
+
+(12) ‘IOTC transhipment declaration’ means the document set out in Annex 7;
+
+(13) ‘IMO number’ means a 7-digit number, which is assigned to a vessel under the authority of the International Maritime Organization (IMO);
+
+(14) ‘chartering’ means an agreement or an arrangement by which a fishing vessel flying the flag of a CPC is contracted for a defined period of time by an operator in another CPC without a change of flag; the ‘chartering CPC’ refers to the CPC that holds the quota allocation or fishing possibilities and the ‘flag CPC’ refers to the CPC in which the chartered vessel is registered;
+
+(15) ‘carrier vessel’ means a support vessel engaged in transhipment and receiving IOTC species from another vessel;
+
+(16) ‘e-Port State Measures application’ or ‘e-PSM application’ means the web-based application designed and developed to facilitate and assist a CPC to implement the IOTC resolutions related to port State measures;
+
+(17) ‘illegal, unreported and unregulated fishing’ or ‘IUU fishing’ means fishing activities as defined in Article 2, points (1) to (4), of Regulation (EC) No 1005/2008.
+
+## CHAPTER II — MANAGEMENT AND CONSERVATION
+
+### SECTION 1 — Tropical Tunas
+
+#### Article 4 — Discard ban
+
+1\. Union purse seine vessels shall retain on board and land all catches of tropical tunas (bigeye tuna (Thunnus obesus), yellowfin tuna (Thunnus albacares) and skipjack tuna (Katsuwonus pelamis)), except where the master of the vessel determines that:
+
+(a) fish are unfit for human consumption, or
+
+(b) there is insufficient storage capacity to accommodate tropical tuna and the non-targeted species caught during the final set of a trip.
+
+2\. Fish referred to in paragraph 1, point (b), may only be discarded if the master and crew attempt to release the tropical tuna and the non-targeted species alive as soon as possible, while taking into consideration the safety of the crew, and no further fishing is undertaken after the discard until the tropical tuna and the non-targeted species on board the vessel have been landed or transhipped.
+
+3\. The master of a Union fishing vessel shall record the exceptions referred to in paragraph 1, points (a) and (b), in the relevant logbook, including estimated tonnage and species composition of discarded fish, and estimated tonnage and species composition of retained fish from that set.
+
+4\. For the purposes of this Article, non-targeted species includes non-targeted tuna species, as well as rainbow runner (Elagatis bipinnulata), dolphinfish (Coryphaena hippurus), triggerfish (family Balistidae), billfish (families Xyphiidae and Istiophoridae), wahoo (Acanthocybium solandri) and barracuda (family Sphyraenidae).
+
+#### Article 5 — Prohibition of fishing on data buoys
+
+1\. Union fishing vessels shall not intentionally fish within one nautical mile of a data buoy or interact with a data buoy in the Area, in particular by:
+
+(a) encircling the buoy with fishing gear;
+
+(b) tying up to or attaching the vessel, or any fishing gear, part or portion of the vessel, to a data buoy or its mooring; or
+
+(c) cutting a data buoy anchor line.
+
+2\. By way of derogation from paragraph 1, Union fishing vessels may operate within one nautical mile of data buoys provided that they operate under scientific research programmes of Member States notified to the IOTC and they do not interact with those data buoys.
+
+3\. Union fishing vessels shall not take on board a data buoy in the Area, unless the owner responsible for that buoy has explicitly authorised or requested them to do so.
+
+4\. Union fishing vessels operating in the Area shall keep watch for moored data buoys at sea and shall take all reasonable measures to avoid fishing gear entanglement or directly interacting in any way with those data buoys. When a Union fishing vessel’s gear becomes entangled with a data buoy, it shall remove the entangled fishing gear with as little damage to the data buoy as possible.
+
+5\. Union fishing vessels shall report to their flag Member States any data buoy that they have observed to be damaged or otherwise inoperable, along with the details of observation, the buoy’s location, and any discernible identifying information on it. Member States shall send such reports, and information on the location of data buoys assets that they have deployed throughout the Area to the Commission, in accordance with Article 51(5).
+
+### SECTION 2 — Billfishes
+
+#### Article 6 — Billfishes
+
+1\. Union fishing vessels shall not retain on board, tranship, or land, any specimens of striped marlin (Tetrapturus audax), black marlin (Istiompax indica), blue marlin (Makaira nigricans) or Indo-pacific sailfish (Istiophorus platypterus) with a lower jaw fork length of less than 60 cm. If they catch such fish, they shall return them immediately to the sea, in a manner that maximises post-release survival potential without compromising the safety of the crew.
+
+2\. Union fishing vessels catching striped marlin, black marlin, blue marlin or Indo-pacific sailfish shall record the relevant catch and effort data in accordance with Annex 1.
+
+3\. Member States shall implement a data collection programme to ensure accurate reporting of striped marlin, black marlin, blue marlin or Indo-pacific sailfish catches in accordance with Article 51(1).
+
+4\. Member States shall report on actions taken to monitor catches and to manage fisheries for the sustainable exploitation and conservation of striped marlin, black marlin, blue marlin and Indo-pacific sailfish in their national scientific report in accordance with Article 51(6).
+
+### SECTION 3 — Blue Sharks
+
+#### Article 7 — Blue sharks
+
+1\. Catches of blue shark (Prionace glauca) by Union fishing vessels shall be recorded in the logbook in accordance with Article 14 of Regulation (EC) No 1224/2009.
+
+2\. Member States shall implement data collection programmes to ensure improved reporting of accurate blue shark catch, effort, size and discard data. Member States shall report data on catches of blue sharks in accordance with Article 51(1).
+
+3\. Member States shall include in their implementation report information on the actions taken to monitor catches of blue sharks in accordance with Article 51(5).
+
+4\. Member States are encouraged to undertake scientific research on blue shark that would provide information on key biological, ecological, behavioural characteristics, life-history, migrations, post-release survival and guidelines for safe release and identification of nursery grounds, as well as improving fishing practices. Such information shall be included in the reports that are sent to the Commission in accordance with Article 51(6).
+
+### SECTION 4 — Fishing using aircraft, FADs and artificial lights
+
+#### Article 8 — Prohibition of the use of aircraft to catch fish
+
+1\. Union fishing vessels, including support and supply vessels, shall not use aircraft or unmanned aerial vehicles as fishing aids. Any occurrence of a fishing operation undertaken in the Area with the aid of aircraft or an unmanned aerial vehicle shall be immediately reported to the flag Member State, the Commission or a body designated by it. The Commission, or a body designated by it, shall inform the IOTC Secretariat thereof without delay.
+
+2\. Aircraft and unmanned aerial vehicles may be used for scientific, monitoring, control and surveillance purposes.
+
+#### Article 9 — Fish aggregating devices
+
+1\. Union fishing vessels shall record fishing activities in association with drifting FADs and anchored FADs, separately, using the specific data elements set out in Annex 2. Member States shall send that information to the Commission in accordance with Article 51.
+
+2\. Daily information on all active FADs shall be transmitted to the Commission containing the following information: date, instrumented buoy identification and assigned vessel and daily position, compiled at monthly intervals and submitted not earlier than 60 days but no later than 90 days after the monthly compilation of the information concerned. The Commission shall send that information to the IOTC Secretariat.
+
+3\. Member States shall draw up national management plans for the use of drifting FADs by their purse seine vessels. Those management plans shall:
+
+(a) as a minimum follow the guidelines set out in Annex II to CMM 19/02;
+
+(b) include initiatives or surveys to investigate, and to the extent possible, minimise the capture of small bigeye and yellowfin tuna and non-target species associated with FADs; and
+
+(c) include guidelines to prevent, to the extent possible, the loss or abandonment of FADs.
+
+4\. No later than 75 days before the IOTC annual meeting, Member States shall submit to the Commission, in accordance with Article 51(5), a report on the progress of the management plans of FADs, including reviews of the initially submitted management plans and reviews of the application of the principles of Annex V to CMM 19/02. The Commission shall send that information to the IOTC Secretariat no later than 60 days before the IOTC annual meeting.
+
+#### Article 10 — Non-entangling and biodegradable FADs
+
+1\. Union fishing vessels shall use non-entangling designs and materials for the construction of FADs ensuring that the surface structure of the FAD is not covered or is covered only with non-meshed material. If a sub-surface component is used, it shall not be made from netting but from non-meshed materials, such as ropes or canvas sheets.
+
+2\. Union fishing vessels shall endeavour to transition to the use of biodegradable FADs in all circumstances except for materials used for the instrumented buoys.
+
+3\. Operators shall endeavour to conduct trials using biodegradable materials to facilitate the transition to the use of only biodegradable material for drifting FADs construction by their fleets.
+
+#### Article 11 — Prohibition of the use of artificial lights to attract fish
+
+1\. Union fishing vessels shall not use, install or operate surface or submerged artificial lights for the purpose of aggregating tuna and tuna-like species beyond territorial waters.
+
+2\. The use of lights on drifting FADs is prohibited.
+
+3\. Where Union fishing vessels encounter drifting FADs equipped with artificial lights in the Area, they shall immediately remove them and bring them back to port.
+
+4\. Union fishing vessels shall not conduct fishing activities around or near any vessel or drifting FAD equipped with artificial lights for the purpose of attracting tuna and tuna-like species in the Area.
+
+5\. Navigation lights and lights necessary to ensure safe working conditions shall not be subject to the prohibition laid down in paragraph 1.
+
+### SECTION 5 — Transhipments in port
+
+#### Article 12 — Transhipment
+
+All transhipment operations of IOTC species shall take place in ports designated in accordance with Article 5 of Regulation (EC) No 1005/2008, or in ports designated and publicised for that purpose by a CPC and communicated to the IOTC Secretariat.
+
+#### Article 13 — Transhipment operations
+
+1\. Transhipment operations in port may only be undertaken in accordance with the following procedure:
+
+(a) prior to transhipping, the master of a Union fishing vessel shall notify the following information to the port state authorities, at least 48 hours in advance:
+
+— the name of the fishing vessel and its number in the IOTC record of fishing vessels;
+
+— the name of the carrier vessel, and the product to be transhipped;
+
+— the tonnage by product to be transhipped;
+
+— the date and location of transhipment;
+
+— the major fishing grounds of the tuna and tuna-like species and sharks catches;
+
+(b) the master of a Union fishing vessel shall record and transmit by electronic means a transhipment declaration in accordance with Article 22 of Regulation (EC) No 1224/2009.
+
+2\. No later than 15 days after the transhipment, the master of a Union fishing vessel concerned shall complete the IOTC transhipment declaration and transmit it to its flag Member State in one of the official languages of the IOTC, along with the vessel’s number in the IOTC record of fishing vessels. The master of a Union carrier vessel shall also, within 24 hours after the transhipment, complete and transmit to the competent port state authorities the IOTC transhipment declaration in one of the official languages of the IOTC.
+
+#### Article 14 — Landing of transhipped catches by Union carrier vessels
+
+1\. By way of derogation from Article 17(1) of Regulation (EC) No 1224/2009, the period for prior notification shall be at least 48 hours before the estimated time of arrival at the port.
+
+2\. Member States where transhipped catches are landed shall take the appropriate measures to verify the accuracy of the information received and shall cooperate with the flag Member State of the carrier vessel, the port State where the transhipment took place and the flag states of the catching fishing vessels involved to ensure that landings are consistent with the catch amount reported for each fishing vessel. That verification shall be carried out in such a way that the carrier vessel suffers the minimum interference and inconvenience and that degradation of the fish is avoided.
+
+3\. The master of a Union carrier vessel landing in a third country shall, at least 48 hours before entry into port and in addition to the prior notification referred to in paragraph 1, give prior notification in accordance with the national legislation of the third country in whose port the vessel intends to land transhipped catches. The master shall also send the IOTC transhipment declaration in one of the official languages of the IOTC to the competent authorities of the State in which transhipped catches are to be landed and shall not land before being authorised to do so.
+
+4\. Where landings take place in a third country, the master of the carrier vessel shall cooperate with the port state authorities.
+
+5\. Flag Member States of the Union fishing vessels shall include details on the transhipments by its vessels in their reports in accordance with Article 51(5).
+
+## CHAPTER III — PROTECTION OF CERTAIN MARINE SPECIES
+
+### SECTION 1 — Elasmobranchs
+
+#### Article 15 — General conservation measures for sharks
+
+1\. Union fishing vessels shall take all reasonable steps to apply the IOTC identification guides and handling practices.
+
+2\. Union fishing vessels shall, to the extent possible, promptly release unharmed unwanted shark species caught alive on board of vessels, with the exception of blue sharks. Such catches shall be reported in the logbook in accordance with Article 14 of Regulation (EC) No 1224/2009, including the status on release (dead or alive).
+
+3\. Member States shall report data on all catches of sharks, including all available historical data, estimates and life status of discards and release (dead or alive) and size frequencies of sharks caught by their fishing vessels to the Commission, in accordance with Article 51(1).
+
+#### Article 16 — Oceanic whitetip sharks
+
+1\. Union fishing vessels shall not retain on board, tranship, land, store, sell or offer for sale any part or whole carcass of oceanic whitetip sharks (Carcharhinus longimanus).
+
+2\. By way of derogation from paragraph 1, scientific observers shall be allowed to collect biological samples from oceanic whitetip sharks taken in the Area that are dead at haul back, provided that the samples are a part of a research project approved by the IOTC Scientific Committee or the IOTC Working Party on Ecosystems and Bycatch.
+
+3\. Where possible, Member States and the Commission shall endeavour to conduct research on oceanic whitetip sharks taken in the Area, in order to identify potential nursery areas.
+
+#### Article 17 — Thresher sharks
+
+1\. Union fishing vessels shall not retain on board, tranship, land, store, sell or offer for sale any part or whole carcass of thresher sharks of all species of the family Alopiidae.
+
+2\. By way of derogation from paragraph 1, scientific observers shall be allowed to collect biological samples from thresher sharks taken in the Area that are dead at haul back, provided that the samples are a part of a research project approved by the IOTC Scientific Committee or the IOTC Working Party on Ecosystems and Bycatch.
+
+3\. Recreational and sport fishers shall release all thresher sharks alive. Under no circumstances shall they retain them on board, tranship, land, store, sell or offer them for sale. Member States shall ensure that recreational and sport fishers carrying out fishing with risk of catching thresher sharks are equipped with instruments suitable for releasing the animals alive.
+
+4\. Member States and the Commission shall endeavour to conduct research on thresher sharks taken in the Area, in order to identify potential nursery areas.
+
+#### Article 18 — Mobulid rays
+
+1\. Union fishing vessels shall be prohibited from intentionally setting any gear type around a mobulid ray (species of the genus Mobula) if the animal is sighted prior to commencement of the set.
+
+2\. Union fishing vessels shall not retain on board, tranship, land, store, sell or offer for sale any part or whole carcass of a mobulid ray.
+
+3\. Union fishing vessels shall promptly release alive and unharmed, to the extent practicable, mobulid rays caught unintentionally as soon as they are seen in the net, on the hook, or on the deck, in a manner that will result in the least possible harm to the individual rays captured. They shall take all reasonable steps to apply handling procedures for mobulid rays, while taking into consideration the safety of the crew.
+
+4\. Notwithstanding paragraph 3, where a Union purse seine vessel unintentionally catches and freezes a mobulid ray in the course of its operations, it shall surrender the whole mobulid ray to the responsible governmental authorities, or other competent authority, or discard it at the point of landing. Mobulid rays surrendered in that manner may not be sold or bartered but may be donated for the purposes of domestic human consumption.
+
+5\. Union fishing vessels shall use proper mitigation, identification, handling and releasing techniques and keep on board all necessary equipment to release mobulid rays.
+
+#### Article 19 — Whale sharks
+
+1\. Union fishing vessels shall be prohibited from intentionally setting a purse seine net around a whale shark (Rhincodon typus) in the Area, if it is sighted prior to the commencement of the set.
+
+2\. Where a whale shark is unintentionally encircled or entangled in the fishing gear, Union fishing vessels shall:
+
+(a) take all reasonable steps to ensure its safe release, in line with available IOTC Scientific Committee’s best practice guidelines for the safe release and handling of whale sharks, while taking into consideration the safety of the crew;
+
+(b) report the incident to the vessel’s flag Member State, with the following information:
+
+— the number of individuals;
+
+— a short description of the interaction, including details of how and why the interaction occurred, if possible;
+
+— the location of the encirclement;
+
+— the steps taken to ensure safe release; and
+
+— an assessment of the life status of the whale shark on release, including whether it was released alive but subsequently died.
+
+### SECTION 2 — Other Species
+
+#### Article 20 — Cetaceans
+
+1\. Union fishing vessels shall be prohibited from intentionally setting a purse seine net around a cetacean in the Area, if it is sighted prior to the commencement of the set.
+
+2\. Where a cetacean is unintentionally encircled in a purse seine net, or caught by other gear types fishing for tuna and tuna-like species associated with cetaceans, Union fishing vessels shall:
+
+(a) take all the reasonable steps to ensure its safe release, in line with the IOTC Scientific Committee’s available best practice guidelines for the safe release and handling of cetaceans, while taking into consideration the safety of the crew;
+
+(b) report the incident to the vessel’s flag Member State, with the following information:
+
+— the species (if known);
+
+— the number of individuals;
+
+— a short description of the interaction, including details of how and why the interaction occurred, if possible;
+
+— the location of the encirclement;
+
+— the steps taken to ensure safe release; and
+
+— an assessment of the life status of the animal on release, including whether the cetacean was released alive but subsequently died.
+
+3\. Member States shall report the information referred to in paragraph 2, point (b), of this Article through logbooks in accordance with Article 14 of Regulation (EC) No 1224/2009 including the status upon release (dead or alive), or when an observer is on board through observer programmes and send it to the Commission, in accordance with Article 51(1) and (5).
+
+#### Article 21 — Marine turtles
+
+1\. Union fishing vessels shall apply the following mitigation measures:
+
+(a) longline vessels shall carry line cutters and de-hookers in order to facilitate the appropriate handling and prompt release of marine turtles (species of families Cheloniidae and Dermochelyidae) that have been caught or entangled, taking all reasonable steps to ensure safe release and handling following the IOTC handling guidelines;
+
+(b) purse seine vessels shall, to the extent practicable:
+
+— avoid encirclement of marine turtles, and if a marine turtle is encircled or entangled, take practicable measures to safely release the turtle in accordance with the IOTC handling guidelines;
+
+— release all marine turtles found entangled in FADs or fishing gear;
+
+— where a marine turtle is entangled in the net, stop the net roll as soon as the turtle comes out of the water; before resuming the net roll, the operator shall disentangle the turtle without injuring it, and assist its recovery before returning it to the water; and
+
+— carry and employ dip nets, when appropriate, to handle marine turtles.
+
+2\. Union fishing vessels shall bring aboard, if practicable, any captured marine turtle that is comatose or inactive as soon as possible and foster its recovery, including aiding in its resuscitation, before safely returning it to the water.
+
+3\. Member States shall ensure that Union fishing vessels use proper mitigation, identification, handling and de-hooking techniques and keep on board all necessary equipment for the release of marine turtles, taking all reasonable steps in accordance with handling guidelines in the IOTC Marine Turtle Identification Cards provided in IOTC handling guidelines referred to in paragraph 1, point (a).
+
+4\. Member States shall report on the implementation of the Guidelines of the Food and Agriculture Organization of the United Nations (FAO) to Reduce Sea Turtle Mortality in Fishing Operations.
+
+5\. Member States shall send all data on their vessels interactions with marine turtles to the Commission, in accordance with Article 51(1). Those data shall include the level of logbook or observer coverage and an estimate of total mortality of marine turtles incidentally caught in their fisheries.
+
+6\. Union fishing vessels shall record all incidents involving marine turtles during fishing operations, including status on release (dead or alive) in the logbooks in accordance with Article 14 of Regulation (EC) No 1224/2009. They shall report such incidents to their flag Member States with information, where possible, on the species, location of capture, conditions, actions taken on board and location of release. Member States shall send that information to the Commission, in accordance with Article 51(1).
+
+#### Article 22 — Seabirds
+
+1\. Union fishing vessels shall use mitigation measures to reduce in levels of seabird bycatch across all fishing areas, seasons and fisheries. In the area south of 25 degrees South latitude, all longline vessels shall use at least two of the three mitigation measures set out in Annex 4 and shall comply with the minimum standards for those measures. The design and deployment of bird scaring lines shall comply with the additional specifications set out in Annex 5.
+
+2\. Union fishing vessels shall record data on incidental seabird bycatch by species, in particular through the Regional Observer Scheme referred to in Article 30, and report them to the Commission in accordance with Article 51(1). Observers shall, to the extent possible, take photographs of seabirds caught by Union fishing vessels and transmit them to national seabird experts or the IOTC Secretariat for confirmation of identification.
+
+3\. Member States shall inform the Commission, or a body designated by it, as to how the Regional Observer Scheme referred to in Article 30 is implemented, in accordance with Article 51(5).
+
+## CHAPTER IV — CONTROL MEASURES
+
+### SECTION 1 — General conditions
+
+#### Article 23 — Documentation on board Union fishing vessels
+
+1\. Union fishing vessels shall maintain fishing logbooks in accordance with this Regulation. The original recording contained in the fishing logbooks shall be kept on board the fishing vessel for at least 12 months.
+
+2\. Union fishing vessels shall carry on board valid documents issued by the competent authority of the flag Member State including:
+
+(a) licence, permit or authorisation to fish and terms and conditions attached to the licence, permit or authorisation;
+
+(b) vessel’s name;
+
+(c) port in which the vessel is registered and the registration number(s);
+
+(d) international call sign;
+
+(e) names and addresses of the owner(s) and, if applicable, the charterer;
+
+(f) overall length; and
+
+(g) engine power, in kw/horsepower, where appropriate.
+
+3\. Member States shall verify the validity of the documents to be carried on board fishing vessels regularly, and at least once a year.
+
+4\. Member States shall ensure that all documents carried on board and any further amendments to them are issued and certified by the competent authority and that fishing vessels are marked in such a way that they can be readily identified with generally accepted international standards, such as the FAO Standard Specification for the Marking and Identification of Fishing Vessels.
+
+### SECTION 2 — Record of vessels
+
+#### Article 24 — Record of authorised fishing vessels
+
+1\. The following Union fishing vessels shall be registered in the IOTC record of fishing vessels:
+
+(a) vessels of 24 metres or more in overall length;
+
+(b) vessels of less than 24 metres in overall length, if they fish outside the exclusive economic zone (EEZ) of a Member State.
+
+2\. Union fishing vessels that are not registered in the IOTC record referred to in paragraph 1 shall not be authorised to fish for, retain on board, tranship or land IOTC species or support any fishing activity or set DFADs in the Area.
+
+This paragraph shall not apply to vessels of less than 24 metres in overall length operating in the EEZ of a Member State.
+
+3\. Member States shall submit to the Commission the list of vessels complying with the requirements of paragraph 1 which are authorised to operate in the Area. That list shall include the following information for each vessel:
+
+(a) name of vessel(s), register number(s);
+
+(b) IMO number;
+
+(c) previous name(s) (if any) or indication of its non-availability;
+
+(d) previous flag(s) (if any) or indication of its non-availability;
+
+(e) details of previous deletion from other registries (if any) or indication of their non-availability;
+
+(f) international radio call sign(s) (if any) or indication of its non-availability;
+
+(g) port of registration;
+
+(h) type of vessel(s), overall length (m) and gross tonnage (GT);
+
+(i) total volume of fish hold(s) in cubic metres;
+
+(j) name and address of owner(s) and operator(s);
+
+(k) name and address of beneficial owner(s), if known and different from vessel owner/operator, or indication of their non-availability;
+
+(l) name, address and registration number of company operating the vessel (if any);
+
+(m) gear used;
+
+(n) time period(s) authorised for fishing and/or transhipping;
+
+(o) colour photographs of the vessel showing:
+
+— the starboard and portsides, each showing the whole structure;
+
+— the bow;
+
+(p) at least one colour photograph clearly showing at least one of the external markings specified in point (a).
+
+4\. Member States shall promptly notify the Commission of any addition to, deletion from, or amendment of the IOTC record. The Commission shall send that information to the IOTC Secretariat without delay.
+
+5\. During each year, the Commission shall, if necessary, provide the IOTC Secretariat with updated information on Union fishing vessels registered in the IOTC record referred to in paragraph 1.
+
+#### Article 25 — Communication of information
+
+The information to be notified by Member States to the Commission in accordance with Article 24 of this Regulation shall be submitted in an electronic format in accordance with Article 39 of Regulation (EU) 2017/2403 of the European Parliament and of the Council ( 1 ).
+
+#### Article 26 — Authorisation of fishing vessels
+
+1\. Member States shall issue an authorisation to fish for IOTC species for fishing vessels flying their flag in accordance with Article 21 of Regulation (EU) 2017/2403.
+
+2\. Member States shall submit to the Commission an updated template of the official authorisation to fish outside national jurisdictions, and update the information in the template whenever necessary. The Commission shall send this information to the IOTC Secretariat without delay. The template shall include the following information:
+
+(a) name of the competent authority;
+
+(b) name and contact of personnel of the competent authority;
+
+(c) signature of the personnel of the competent authority; and
+
+(d) official stamp of the competent authority.
+
+3\. The template referred to in paragraph 2 shall be used exclusively for monitoring, control and surveillance purposes. A difference between the template and the authorisation carried onboard the vessel shall not constitute an infringement, but shall prompt the controlling State to clarify the issue with the identified competent authority of the flag State of the vessel in question.
+
+#### Article 27 — Obligations for Member States issuing fishing authorisations
+
+1\. Member States shall:
+
+(a) authorise their vessels to operate in the Area only if they are able to fulfil the requirements and responsibilities under the IOTC Agreement, this Regulation and CMMs;
+
+(b) take the necessary measures to ensure that their fishing vessels comply with this Regulation and CMMs;
+
+(c) take the necessary measures to ensure that their auxiliary fishing vessels keep on board valid certificates of vessel registration and valid authorisations to fish or tranship;
+
+(d) ensure that their authorised fishing vessels have no history of IUU fishing activities or that, if a vessel has such a history, the new owner has provided sufficient evidence demonstrating that:
+
+— the previous owners and operators have no legal, beneficial or financial interest in, or control over that vessel;
+
+— the parties involved in the IUU incident have officially resolved the matter and sanctions have been completed; and
+
+— having taken into account all relevant facts, their auxiliary fishing vessels are not engaged in or associated with IUU fishing;
+
+(e) ensure, to the extent possible under national legislation, that the owners and operators of their auxiliary fishing vessels are not engaged in or associated with tuna fishing activities conducted by vessels not registered in the IOTC record referred to in Article 24(1); and
+
+(f) take the necessary measures to ensure, to the extent possible under national legislation, that the owners of auxiliary fishing vessels registered in the IOTC record referred to in Article 24(1) are citizens of, or legal entities in, the flag Member State, so that any control or punitive action can be taken against them where required.
+
+2\. Member States shall report the results of the review of the actions and measures taken pursuant to paragraph 1 of this Article to the Commission, or to a body designated by it, in accordance with Article 51(5).
+
+3\. Member States which issue licences to their authorised fishing vessels shall report annually to the Commission, or to a body designated by it, all measures taken in accordance with Annex I to CMM 05/07, using the format set out in Annex II to CMM 05/07, and in accordance with Article 51 of this Regulation.
+
+#### Article 28 — Measures against vessels not registered in the IOTC record of vessels
+
+1\. Union fishing vessels not registered in the IOTC record referred to in Article 24(1) shall not fish for, retain on board, tranship or land IOTC species in the Area.
+
+2\. To ensure the effectiveness of this Regulation with regard to species covered by statistical document programmes, Member States shall:
+
+(a) validate statistical documents only for Union vessels registered in the IOTC record;
+
+(b) require that, when imported into the territory of a CPC, the species covered by statistical document programmes caught by Union fishing vessels in the Area shall be accompanied by statistical documents; and
+
+(c) cooperate, when importing catch of species covered by statistical document programmes, with the flag Member States of vessels catching those species to ensure that statistical documents are not forged or do not contain misinformation.
+
+3\. Member States shall notify the Commission, or a body designated by it, of any factual information showing that there are reasonable grounds for suspecting that vessels not registered in the IOTC record are engaged in fishing for or transhipment of IOTC species in the Area. The Commission, or a body designated by it, shall notify the IOTC Secretariat of that information immediately.
+
+#### Article 29 — Record of active vessels fishing for tuna and swordfish
+
+1\. Member States with vessels fishing for tunas and swordfish in the Area shall, using the appropriate IOTC report template, submit to the Commission by 1 February of each year a list of fishing vessels flying their flag that were active in the Area during the previous year and that:
+
+(a) are 24 metres in overall length or above, or
+
+(b) in the case of vessels shorter than 24 metres in overall length, operated in waters outside the EEZ of their Member State.
+
+2\. Member States with vessels fishing for yellowfin tunas in the Area shall, using the appropriate IOTC report template, submit to the Commission by 1 February of each year a list of all fishing vessels flying their flag which have fished for yellowfin tuna in the Area during the previous year.
+
+3\. The Commission shall forward the information referred to in paragraphs 1 and 2 to the IOTC Secretariat before 15 February of each year.
+
+4\. The list of vessels referred to in paragraph 1 shall contain the following information for each vessel:
+
+(a) the IOTC number;
+
+(b) name and registration number;
+
+(c) IMO number, if available;
+
+(d) previous flag (if any);
+
+(e) international radio call sign (if any);
+
+(f) vessel type, length and gross tonnage (GT);
+
+(g) name and address of owner, charterer or operator (where relevant);
+
+(h) main target species; and
+
+(i) period of authorisation.
+
+### SECTION 3 — Regional Observer Scheme
+
+#### Article 30 — Regional Observer Scheme
+
+1\. In order to improve the collection of scientific data, Union fishing vessels of 24 metres in overall length and above, and those under 24 metres fishing outside the EEZ of a Member State, shall ensure that at least 5 % of the number of operations or sets for each gear type while fishing in the Area are covered by observers endorsed by the Regional Observer Scheme.
+
+2\. When purse seine vessels are carrying an observer as referred to in paragraph 1, that observer shall also monitor the catches at landing to identify the composition of bigeye tuna catches.
+
+3\. Paragraph 2 shall not apply to Member States that already have a sampling scheme the coverage of which fulfil requirements set out in paragraph 1.
+
+#### Article 31 — Observers’ obligations
+
+1\. Observers on board Union fishing vessels shall:
+
+(a) record and report their fishing activities and verify positions of the vessel;
+
+(b) observe and estimate catches as far as possible with a view to identifying catch composition and monitoring discards, by-catches and size frequency;
+
+(c) record gear type, mesh size and attachments employed by the master;
+
+(d) collect information to enable the cross-checking of entries recorded in the logbooks (species composition and quantities, live and processed weight and location, where available); and
+
+(e) carry out scientific work as requested by the IOTC Scientific Committee.
+
+2\. The observer shall, within 30 days of completion of each trip, provide a report to the flag Member State. The report shall be provided by area of 1°latitude by 1°longitude. Member States shall send each report to the Commission, or to a body designated by it, within 140 days from reception, and shall ensure that the reports from the observer placed on the longline fleet are sent regularly throughout the year. The Commission, or the body designated by it, shall forward the reports to the IOTC Secretariat within 10 days of their receipt.
+
+#### Article 32 — Field samplers
+
+1\. Field samplers shall monitor the number of landings by Union artisanal fishing vessels at the landing place. As regards artisanal fishing vessels, the samplers should cover at least 5 % of the total number of fishing trips by such vessels or of the total number of active fishing vessels.
+
+2\. Field samplers shall collect information on land during unloading of fishing vessels. Field sampling programmes can be used for quantifying catch, retained bycatch and collecting tag returns.
+
+3\. Field samplers shall monitor catches at the landing place with a view to estimating catch-at-size by type of boat, gear and species, or carry out such scientific work as requested by the IOTC Scientific Committee.
+
+#### Article 33 — Member States obligations
+
+1\. Member States shall recruit qualified observers to place on board vessels flying their flag.
+
+2\. Member States shall:
+
+(a) take the necessary measures to ensure that observers are able to carry out their duties in a competent and safe manner;
+
+(b) ensure that observers alternate vessels between their assignments;
+
+(c) ensure that the vessel on which an observer is placed provides suitable food and lodging during the observer’s deployment of the same level as that of the officers on board, where possible;
+
+(d) ensure that the master of a vessel cooperates with observers in order for them to carry out their duties safely including providing access, as required, to the retained catch, and catch which is intended to be discarded; and
+
+(e) bear the cost of the observer scheme.
+
+3\. Member States shall report the number of vessels monitored and the coverage achieved by gear type to the Commission, in accordance with Article 51(6).
+
+### SECTION 4 — Monitoring and surveillance
+
+#### Article 34 — Vessel monitoring system (VMS)
+
+1\. Member States shall, no later than two working days following detection or notification of technical failure or non-functioning of the vessel monitoring device on board a Union fishing vessel, forward the geographical position of the vessel to the IOTC Secretariat, or shall ensure that these positions are forwarded to the IOTC Secretariat by the master or the owner of the vessel, or their representative.
+
+2\. Where a Member State suspects that one or more vessel monitoring devices on board the vessel of another flag Member State or another CPC do not meet required operational conditions, or have been tampered with, it shall immediately notify the Commission, or a body designated by it. The Commission, or the body designated by it, shall forward the notification to the IOTC Secretariat and the vessel’s flag State.
+
+#### Article 35 — Chartering
+
+1\. Chartering shall be subject to the following conditions:
+
+(a) the flag CPC has consented in writing to the chartering agreement;
+
+(b) the duration of the fishing operation under the chartering agreement does not exceed 12 months in any calendar year;
+
+(c) fishing vessels to be chartered shall be registered with the responsible CPC which shall explicitly agree to comply with the CMMs and enforce them on their vessels; all flag CPCs shall effectively fulfil their duty to control their fishing vessels to ensure compliance with CMMs;
+
+(d) fishing vessels to be chartered shall be registered in the IOTC record referred to in Article 24 and shall be authorised to operate in the Area;
+
+(e) if the chartered vessel is allowed by the chartering CPC to operate in the high seas, the flag CPC shall be responsible for controlling the high seas fishing conducted pursuant to the chartering arrangement;
+
+(f) chartered vessels shall report VMS and catch data to both the chartering CPC and flag CPC, and to the IOTC Secretariat, as provided in the Charter Notification Scheme set out in Annex 6;
+
+(g) all catches, including bycatches and discards, taken pursuant to the chartering agreement shall be counted against quota or fishing possibilities of the chartering CPC; the observer coverage on board such chartered vessels shall be counted against the coverage rate of the chartering CPC for the duration of its fishing activity under the chartering agreement;
+
+(h) the chartering CPC shall report to the IOTC all catches, including bycatches and discards, and other information required by the IOTC;
+
+(i) chartered vessels shall be duly equipped with VMS, and fishing gear shall be marked for effective fishery management;
+
+(j) observer coverage of at least 5 % of fishing effort;
+
+(k) chartered vessels shall have a fishing licence issued by the chartering CPC and shall not be on the IOTC IUU vessel list, that of any other regional fisheries management organisation (RFMO), or on the Union IUU vessel list;
+
+(l) chartered vessels shall not be authorised to use the quota of the flag CPC, and under no circumstances shall chartered vessels be authorised to fish under more than one chartering agreement at the same time;
+
+(m) landing shall take place in the ports of the CPC, or under the direct supervision of CPC, in order to ensure that the activities of the chartered vessels do not undermine CMMs.
+
+#### Article 36 — Chartering notification scheme
+
+1\. The chartering Member State shall notify the Commission of any vessel to be identified as chartered in accordance with this Article without delay within 15 days and no later than 72 hours before commencement of fishing activities under a chartering agreement, by submitting electronically the following information with respect to each chartered vessel:
+
+(a) the name (in both original registration language and Latin alphabets), registration number of the chartered vessel, and IMO number;
+
+(b) the name and contact address of the beneficial owner of the vessel;
+
+(c) the description of the vessel, including the overall length, type of vessel and the type of fishing method(s) to be used under the chartering agreement;
+
+(d) a copy of the chartering agreement and any fishing authorisation or licence it has issued to the vessel, including the quota allocation or fishing possibility assigned to the vessel, and the duration of the chartering arrangement;
+
+(e) its consent to the chartering agreement; and
+
+(f) the measures adopted to implement the provisions included in the chartering agreement.
+
+2\. The flag Member State shall notify the Commission of any vessel to be identified as chartered in accordance with this Article, without delay within 17 days and no later than 96 hours before commencement of fishing activities under a chartering agreement by submitting electronically the information with respect to each chartered vessel referred to in paragraph 1.
+
+3\. Upon receiving the information from Member States set out in paragraph 1 or 2, the Commission shall forward the following information to the IOTC Secretariat:
+
+(a) its consent to the chartering agreement;
+
+(b) the measures adopted to implement the provisions included in the chartering agreement; and
+
+(c) its agreement to comply with CMMs.
+
+4\. Member States referred to in paragraphs 1 and 2 shall immediately inform the Commission of the start, suspension, resumption and termination of the fishing operations under the chartering agreement.
+
+5\. Member States chartering fishing vessels shall report to the Commission by 10 February of each year the particulars of chartering agreements made in the previous calendar year, including information on catches taken and fishing effort deployed by the chartered vessels as well as the level of observer coverage achieved on the chartered vessels in accordance with Article 35(1), point (j). The Commission shall forward that information to the IOTC Secretariat by 28 February of each year.
+
+#### Article 37 — Vessels with no nationality
+
+Where a Member State’s vessel or aircraft makes any sighting of fishing vessels that are suspected of, or confirmed as, being without nationality that may be fishing in the high seas of the Area, that Member State shall report the sighting to the Commission, or to a body designated by it. The Commission, or the body designated by it, shall forward the information to the IOTC Secretariat immediately.
+
+#### Article 38 — Fishing vessels with flags of convenience
+
+Member States shall, as regards large scale tuna longline vessels with flags of convenience (FOCs):
+
+(a) refuse landing and transhipment by flag of convenience vessels which are engaged in fishing activities diminishing the effectiveness of the measures laid down in this Regulation or measures adopted by the IOTC;
+
+(b) take every possible action to urge their importers, transporters and other operators concerned to refrain from transacting in and transhipping tunas and tuna-like species caught by vessels carrying out flag of convenience fishing activities;
+
+(c) inform their general public of fishing activities which are carried out by large scale tuna longline vessels with FOCs and which diminish the effectiveness of IOTC conservation and management measures, and urge their general public not to purchase fish harvested by such vessels;
+
+(d) urge their manufacturers and other business people concerned to prevent their vessels and equipment or devices from being used for flag of convenience longline fishing operations; and
+
+(e) monitor and exchange information concerning flag of convenience fishing vessels activities, including the port sampling activities conducted by the IOTC Secretariat.
+
+## CHAPTER V — CATCH DATA
+
+#### Article 39 — Record of catch and effort data
+
+1\. Union fishing vessels shall keep an electronic logbook to record data that includes, as minimum requirements, the information and data set out in Annex 1.
+
+2\. The logbook shall be completed by the master of the fishing vessel and be submitted to the flag Member State, as well as to the coastal State in whose EEZ the Union fishing vessel has fished. Only the part of the logbook corresponding to the activity deployed in the coastal State EEZ shall be provided to the coastal State.
+
+3\. Member States shall report to the Commission all the data for any given year on an aggregated basis in their annual reports, in accordance with Article 51(1).
+
+#### Article 40 — Bigeye tuna catch certificate
+
+1\. All bigeye tuna imported into the territory of a Member State shall be accompanied by an IOTC Bigeye Tuna Statistical Document, as provided for in Annex 8, or an IOTC bigeye tuna re-export certificate which meets the requirements of Annex 9.
+
+2\. By way of derogation from paragraph 1, bigeye tuna caught by purse seine vessel or pole and line (bait) vessels and destined principally for the canneries in the Area are not subject to this statistical requirement.
+
+3\. The documents referred to in paragraph 1 shall be validated in accordance with the format set out in Annex IV to CMM 03/03 and the following rules:
+
+(a) the IOTC bigeye tuna statistical document shall be validated by the flag Member State of the vessel that caught the tuna, or if the vessel is operating under a chartering arrangement, by the State that exported the tuna;
+
+(b) the IOTC bigeye tuna re-export certificate shall be validated by the State that re-exported the tuna;
+
+(c) statistical documents for bigeye tuna caught by Union vessels may be validated by the Member State where the products are landed, provided the corresponding quantities of bigeye tuna are exported outside the Union from the territory of the Member States of landing.
+
+4\. By 15 March of each year, for the period from 1 July to 31 December of the previous year, and by 15 September of each year, for the period from 1 January to 30 June of the current year, Member States that import bigeye tuna shall report to the Commission the data collected under the bigeye tuna statistical document programme, using the format set out in Annex III to CMM 03/03. The Commission shall examine the information and shall transmit it to the IOTC Secretariat by 1 April and 1 October, respectively.
+
+5\. Member States which export bigeye tuna shall examine export data upon receiving the import data referred to in paragraph 4 of this Article, and shall report the results to the Commission annually, in accordance with Article 51(5).
+
+## CHAPTER VI — PORT STATE MEASURES, INSPECTION, ENFORCEMENT AND IUU
+
+### SECTION 1 — Port state measures
+
+#### Article 41 — Points of contact and designated ports
+
+1\. A Member State wishing to grant access to its ports to third-country fishing vessels carrying IOTC species caught in the Area or fishery products originating from IOTC species that have not been previously landed or transhipped shall:
+
+(a) designate the port to which third-country fishing vessels may request entry pursuant to Article 5 of Regulation (EC) No 1005/2008;
+
+(b) designate a point of contact for the purposes of receiving prior notice pursuant to Article 6 of Regulation (EC) No 1005/2008;
+
+(c) designate a point of contact for the purposes of receiving inspection reports pursuant to Article 11(3) of Regulation (EC) No 1005/2008.
+
+2\. Member States shall transmit any changes to the list of designated points of contact and designated ports to the Commission, or to a body designated by it, at least 30 days before the changes take effect. The Commission, or the body designated by it, shall forward that information to the IOTC Secretariat at least 15 days before the changes take effect.
+
+#### Article 42 — Prior notice
+
+1\. By way of derogation from Article 6(1) of Regulation (EC) No 1005/2008, the period for prior notification shall be at least 24 hours before the estimated time of arrival at the port or immediately after the end of the fishing operations, if the time distance to the port is less than 24 hours.
+
+2\. By way of derogation from Article 6(1) of Regulation (EC) No 1005/2008, the information to be provided by masters of third country fishing vessels or their representatives shall be that required under Annex 10 to this Regulation which shall be accompanied by a catch certificate validated in accordance with Chapter III of Regulation (EC) No 1005/2008 if those third-country fishing vessels carry on board IOTC fishery products.
+
+3\. The prior notice referred to in Article 6 of Regulation (EC) No 1005/2008 and the information required under paragraph 2 of this Article may be transmitted electronically through e-PSM application.
+
+4\. Port Member States may request any additional information in order to determine whether the fishing vessels referred to in paragraph 1 have engaged in IUU fishing or related activities.
+
+#### Article 43 — Authorisation to enter, land and tranship in ports
+
+1\. After receiving the relevant information pursuant to Article 42, a port Member State shall decide whether to authorise or deny the third-country fishing vessel entry into and use of its ports. Where a third-country fishing vessel has been denied entry, the port Member State shall inform the flag State of the vessel and the Commission, or a body designated by it. The Commission, or the body designated by it, shall forward the information to the IOTC Secretariat without delay. Port Member States shall deny entry to fishing vessels included in the IOTC IUU vessel list, that of any other RFMO or the Union IUU vessel list.
+
+2\. Where a prior notice has been received through e-PSM application, the port Member State shall communicate its decision to authorise or deny entry into port through the same application.
+
+3\. Pursuant to Article 8(1) of Regulation (EC) No 1005/2008, in the case of carrier vessels, the IOTC transhipment declaration is required and shall be submitted at least 48 hours prior to the intended time of landing. In order to ensure that landings are consistent with the reported catch amount of each catching fishing vessel, the Member States where transhipped catches are to be landed shall take the appropriate measures to verify the accuracy of the information received and shall cooperate with the flag State of the carrier vessel, any port State involved in the transhipments to be landed and the flag states of the catching fishing vessels involved. That verification shall be carried out in such a way that the carrier vessel suffers the minimum interference and inconvenience and that degradation of the fish is avoided.
+
+4\. Where a landing or transhipment declaration is received by the port Member State from a catching fishing vessel pursuant to Article 8(1) of Regulation (EC) No 1005/2008, the port Member States shall take appropriate measures to verify the accuracy of the information received and shall cooperate with the flag CPC to ensure that landings and/or transhipments are consistent with the amount of catches reported for each catching vessel.
+
+5\. Each port Member State shall submit to the Commission by 15 June of each year the list of fishing vessels that are not flagged to that port Member State and which have landed in its ports tuna and tuna-like species caught in the Area in the preceding calendar year. That information shall be included in the appropriate IOTC report template and shall detail the catch composition by weight and species landed. The Commission shall examine such reports and transmit them to the IOTC Secretariat by 30 June of each year.
+
+### SECTION 2 — Inspection
+
+#### Article 44 — Port inspection
+
+1\. Each year, each port Member State shall inspect in its designated ports at least 5 % of all landings or transhipments related to IOTC species made by fishing vessels that are not flagged to that port Member State.
+
+2\. Inspections shall involve the monitoring of the entire landing or transhipment and include a cross-check between the quantities, by species, recorded in the prior notice and the quantities by species actually landed or transhipped. When the landing or transhipment is completed, the inspector shall verify and note the quantities by species of fish remaining on board.
+
+#### Article 45 — Inspection procedure
+
+1\. This Article shall apply in addition to the rules on the inspection procedure laid down in Article 10 of Regulation (EC) No 1005/2008.
+
+2\. Inspectors from port Member States shall be properly qualified inspectors authorised for that purpose, and shall carry a valid document of identity that they shall present to the master of the vessel to be inspected.
+
+3\. As a minimum standard, port Member States shall ensure that their inspectors carry out the tasks set out in Annex II to CMM 16/11. Port Member States, in carrying out inspections in their ports, shall require the master of the vessel to give inspectors all necessary assistance and information, and to present relevant material and documents as may be required, or certified copies thereof.
+
+4\. In the written report of the results of each inspection, each port Member State shall, as a minimum, include the information set out in Annex III to CMM 16/11. Within three working days of the completion of the inspection, the port Member State shall transmit a copy of the inspection report and, upon request, an original or certified copy thereof, to the master of the inspected vessel, to the flag State, to the Commission, or to a body designated by it. The Commission, or the body designated by it, shall forward the report to the IOTC Secretariat.
+
+5\. By 15 June of each year, each port Member State shall submit to the Commission the list of fishing vessels not flagged to that port Member State which have landed in its ports tuna and tuna-like species caught in the IOTC area the preceding calendar year. That information shall detail the catch composition by weight and species landed. The Commission shall forward that information to the IOTC Secretariat by 1 July of each year.
+
+### SECTION 3 — Enforcement
+
+#### Article 46 — Procedure in the case of evidence of infringements of IOTC measures during port inspections
+
+1\. If the information collected during the inspection provides evidence that a fishing vessel has committed a breach of the IOTC measures, this Article shall apply in addition to Article 11 of Regulation (EC) No 1005/2008.
+
+2\. The competent authorities of the port Member State shall forward a copy of the inspection report to the Commission, or to a body designated by it, as soon as possible and in any case within three working days. The Commission, or the body designated by it, shall transmit that report to the IOTC Secretariat and to the flag CPC point of contact without delay.
+
+3\. Port Member States shall promptly notify the action taken in the event of infringements to the competent authority of the flag CPC and to the Commission, or to a body designated by it. The Commission, or the body designated by it, shall transmit that information to the IOTC Secretariat.
+
+#### Article 47 — Alleged infringements reported by Member States
+
+1\. Member States shall submit to the Commission, using the reporting form of Annex I to CMM 18/03, any documented information that indicates possible instances of non-compliance by any fishing vessel with IOTC conservation and management measures in the Area over the past two years at least 80 days in advance of the annual meeting of the IOTC. The Commission shall examine that information and, if appropriate, forward it to the IOTC Secretariat at least 70 days in advance of the compliance committee meeting.
+
+2\. The documented information referred to in paragraph 1 shall be accompanied by the information concerning the IUU fishing activity of each of the listed vessels, including:
+
+(a) reports regarding the alleged IUU fishing activity relating to CMMs in force;
+
+(b) trade information obtained on the basis of relevant trade statistics such as those from statistical documents and other verifiable national or international statistics;
+
+(c) any information obtained from other sources or gathered from fishing grounds, such as:
+
+— information gathered from inspections undertaken in port or at sea;
+
+— information from coastal states including VMS transponder or Automatic Identification System (AIS) data, surveillance data from satellites or airborne or seaborne assets;
+
+— IOTC programmes, except where such a programme stipulates that information gathered is to be kept confidential; or
+
+— information and intelligence collected by third parties.
+
+#### Article 48 — Alleged infringements reported by CPC and the IOTC Secretariat
+
+1\. Where the Commission receives from a CPC or the IOTC Secretariat any information indicating alleged IUU fishing activities by a Union fishing vessel, it shall transmit that information to the Member State concerned without delay.
+
+2\. The Member State concerned shall provide the Commission with the findings of any investigation undertaken in relation to the allegations of non-compliance by fishing vessels flying its flag, and any actions taken to address compliance concerns, at least 45 days in advance of the annual meeting of the IOTC. The Commission shall forward that information to the IOTC at least 15 days in advance of the annual meeting.
+
+#### Article 49 — Draft IOTC IUU vessel list
+
+1\. If the Commission receives official notification of the inclusion of a Union fishing vessel in the draft IOTC IUU vessel list from the IOTC Secretariat, it shall transmit that notification, including the supporting evidence and any other documented information provided by the IOTC Secretariat, to the flag Member State concerned.
+
+2\. The Member State concerned shall provide comments no later than 30 days in advance of the annual meeting of the IOTC Compliance Committee. The Commission shall examine and forward that information to the IOTC Secretariat at least 15 days in advance of the annual meeting of the Compliance Committee.
+
+3\. Once notified by the Commission, the authorities of the flag Member State concerned shall:
+
+(a) notify the owner and the operators of the fishing vessel of its inclusion in the draft IOTC IUU vessel list and of the possible consequences that may result from that inclusion being confirmed in the IUU vessel list adopted by the IOTC; and
+
+(b) closely monitor the vessels included in the draft IOTC IUU vessel list, in order to determine their activities and detect possible changes of name, flag, or registered owner of those vessels.
+
+#### Article 50 — Provisional IOTC IUU vessel list
+
+1\. In order to prevent a Union fishing vessel included in the draft IOTC IUU vessel list, as referred to in Article 49, from being included in the provisional IOTC IUU vessel list, the flag Member State shall provide the following information to the Commission demonstrating that:
+
+(a) the vessel has, at all relevant times, complied with the conditions of its authorisation and:
+
+— conducted fishing activities in a manner consistent with the CMMs,
+
+— conducted fishing activities within the waters under the jurisdiction of a coastal State in a manner consistent with the laws and regulations of that coastal State, or
+
+— fished exclusively for species not covered by the Agreement; or
+
+(b) effective punitive action has been taken in response to the IUU fishing activities in question, including prosecution and imposition of sanctions of adequate severity to be effective in securing compliance and deterring further infringements.
+
+2\. The Commission shall examine the information referred to in paragraph 1 and transmit it to the IOTC Secretariat without delay.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+#### Article 51 — Data reporting
+
+1\. No later than 15 June of each year, Member States shall submit to the Commission, using the table set out in Annex II to CMM 18/07, the information for the preceding calendar year, concerning the following elements:
+
+(a) estimates of the total catch by species and gear, if possible quarterly, separated, whenever possible, by retained catches in live weight and by discards in live weight or numbers, for all species under the IOTC mandate as well as the most commonly caught elasmobranch species according to records of catches and incidents;
+
+(b) total catch data concerning cetaceans, marine turtles and seabirds data as referred to in Articles 20, 21 and 22, respectively;
+
+(c) for purse seine and pole and line fisheries, data on catch and effort stratified by fishing mode and extrapolated to the total national monthly catches for each gear; documents describing the extrapolation procedures shall also be submitted routinely;
+
+(d) for longline fisheries, data on catches by species, in numbers or weight, and effort as the number of hooks deployed, provided by 5° grid area and monthly strata; documents describing the extrapolation procedures shall also be submitted routinely;
+
+(e) a summary of the most recent yellowfin tuna catches in accordance with Article 39;
+
+(f) zero catches, that shall be reported using the table set out in Annex II to CMM 18/07.
+
+2\. In addition to the information referred to in paragraph 1, Member States shall include the following fishing effort data by the purse seiners fleet using supply vessels and FADs:
+
+(a) the number and characteristics of purse seine supply vessels, operating under their flag, or assisting purse seine vessels operating under their flag, or licensed to operate in their EEZ, which have been operated in the Area;
+
+(b) number and days at sea by purse seine vessels and purse seine supply vessels by 1° grid area and month to be reported by the flag Member State of the supply vessel;
+
+(c) the positions, dates and the time of setting, FAD identifier and type, and FAD design characteristics of each FAD.
+
+3\. The information referred to in paragraph 1, for type of vessels and in regard to provisional and final data, shall be submitted to the Commission on the following dates:
+
+(a) provisional data for longline fleets operating on the high seas for the previous year shall be submitted no later than 15 June of each year; final data shall be submitted no later than 15 December of each year;
+
+(b) final data for all other fleets, including supply vessels, shall be submitted no later than 15 June each year.
+
+4\. The Commission shall analyse the information, and send it to the IOTC Secretariat by the specific deadlines provided for in this Regulation.
+
+5\. Member States shall submit to the Commission 75 days before the annual meeting of the IOTC information for the preceding calendar year, containing the information on actions taken to implement their reporting obligations for all IOTC fisheries, including shark species caught in association with IOTC fisheries, in particular the steps taken to improve their data collection for direct and incidental catches. The Commission shall compile the information in a Union implementation report and send it to the IOTC Secretariat.
+
+6\. Flag Member States shall send annually to the Commission a national scientific report, no later than 45 days before the session of the IOTC Scientific Committee, at a date communicated by the Commission, containing the following information:
+
+(a) general fisheries statistics;
+
+(b) report on the implementation of Committee recommendations;
+
+(c) the progress achieved undertaking research as provided in Article 15(3), Article 16(3), Article 17(4) and Article 18(5); and
+
+(d) other relevant information related to fishing activities for IOTC species as well as sharks, other byproduct and bycatch species.
+
+7\. The report referred to in paragraph 6 shall be drawn up in accordance with the template prescribed by the Scientific Committee of the IOTC. The Commission shall send to the flag Member States the required template. The Commission shall analyse the information in the report, compile it in a Union report and send it to the IOTC Secretariat.
+
+#### Article 52 — Confidentiality and data protection
+
+1\. Data collected and exchanged in the framework of this Regulation shall be treated in accordance with the applicable rules on confidentiality pursuant to Articles 112 and 113 of Regulation (EC) No 1224/2009.
+
+2\. The collection, transfer, storage or other processing of any data pursuant to this Regulation shall be in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725.
+
+3\. Personal data processed under this Regulation shall not be stored for a period longer than 10 years, except if the personal data are necessary to enable the follow-up of an infringement, an inspection, or judicial or administrative procedures. In those cases, the personal data may be stored for 20 years. If personal data are retained for a longer period, those data shall be anonymised.
+
+#### Article 53 — Guidelines
+
+The Commission shall provide Member States which have fishing opportunities in the fisheries managed by the IOTC with any guidelines developed by the IOTC, in particular with regard to:
+
+(a) identification guides and handling practices for sharks;
+
+(b) handling procedures for mobulid rays;
+
+(c) the IOTC Scientific Committee’s best practice guidelines for the safe release and handling of whale sharks;
+
+(d) the IOTC Scientific Committee’s best practice guidelines for the safe release and handling of cetaceans; and
+
+(e) handling guidelines on marine turtles.
+
+The Member States concerned shall ensure that those guidelines are provided to the masters of their vessels engaged in the fisheries concerned. Those masters shall take all reasonable steps to apply such guidelines.
+
+#### Article 54 — Procedure for amendments
+
+1\. Where necessary in order to implement into Union law amendments or supplements to the existing IOTC resolutions which become binding on the Union, and insofar as amendments to Union law do not go beyond the IOTC resolutions, the Commission is empowered to adopt delegated acts in accordance with Article 55 for the purpose of amending:
+
+(a) description of FADs in Article 10;
+
+(b) CPC ports to be used for transhipment in Article 12;
+
+(c) information per vessel for the list of active vessels for tuna and swordfish, set out in Article 24(3);
+
+(d) percentage of observer coverage set out in Article 30(1);
+
+(e) field samplers coverage for artisanal fisheries set out in Article 32(1);
+
+(f) conditions of chartering set out in Article 35(1);
+
+(g) percentage of inspections for port landings set out in Article 44(1);
+
+(h) reporting deadlines set out in Article 29(1) and (3), Article 45(5) and Article 51;
+
+(i) Annexes 1 to 10;
+
+(j) references to international acts set out in Article 9(3), point (a), Article 9(4), Article 21(4), Article 23(4), Article 27(3), Article 40(3) and (4), Article 42(3), Article 45(3) and (4), Article 47(1) and Article 51(1).
+
+2\. Any amendments adopted in accordance with paragraph 1 shall be strictly limited to the implementation into Union law of amendments and supplements to the IOTC resolutions concerned that are binding on the Union.
+
+#### Article 55 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 54 shall be conferred on the Commission for a period of five years from 22 December 2022. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 54 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 54 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 56 — Amendments to Regulations (EC) No 1936/2001, (EC) No 1984/2003, and (EC) No 520/2007
+
+1\. Article 2, point (b) and Articles 20 to 21a of Regulation (EC) No 1936/2001 are deleted.
+
+2\. Article 1, point (b), Article 8, point (b), and Annexes VII, XII, XIV, and XVIII to Regulation (EC) No 1984/2003 are deleted.
+
+3\. Article 4(2) and Articles 18 to 20 of Regulation (EC) No 520/2007 are deleted.
+
+#### Article 57 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX 1 — Record once per set/shot/operation
+
+Note: for all gears in this Annex use the follow format for date and time
+
+For date: when recording date of the set/shot/operation: record the YYYY/MM/DD
+
+For time: record 24hr time as either the local time, GMT or national time and clearly specify which time has been used.
+
+**OPERATION**
+
+For longline:
+
+Date of set
+
+Position in latitude and longitude: either position at noon or position of start of gear or area code of operation (e.g. Seychelles EEZ, high seas, etc.) may be optionally used
+
+Time of starting setting and, when possible, retrieving the gear
+
+Number of hooks between floats: if there are different hooks counts between floats in a single set then record the most representative (average) number
+
+Total number of hooks used in the set
+
+Number of light–sticks used in the set
+
+Type of bait used in the set: e.g. fish, squid, etc.
+
+Optionally, sea surface temperature at noon with one decimal point (XX.XoC)
+
+For purse seine:
+
+Date of set
+
+Type of event: fishing set or deployment of a new fish aggregating device (FAD)
+
+Position in latitude and longitude and time of event, or if no event during the day, at noon
+
+If fishing set: specify if the set was successful, its duration, the hold utilised, type of school (free swimming school or FAD associated. If FAD associated, specify the type (e.g. log or other natural object, drifting FAD, anchored FAD, etc.). Refer to the CMM 18/08
+
+Procedures on a FADs management plan, including a limitation on the number of FADs, more detailed specification of catch reporting from FAD sets, and the development of improved FAD designs to reduce the incidence of entanglement of non-target species (or any subsequent superseding Resolution)
+
+Optionally, sea surface temperature at noon with one decimal point (XX.XoC)
+
+For gillnet:
+
+Date of set: record the date for each set or day at sea (for days without sets)
+
+Total length of net (meters): floatline length used for each set in meters
+
+Start fishing time: record the time when starting each set and, when possible, gear retrieving
+
+Start and end position in latitude and longitude: record start and end latitude and longitude that represent the area that your gear is set between or, if no set, record the latitude and longitude at noon for days without sets
+
+Depth at which net is set (meters): approximate depth at which the gillnet is set
+
+For Pole and Line:
+
+Fishing effort information in logbooks shall be recorded by day. Catch information in logbooks shall be recorded by trip or, when possible, by fishing day.
+
+Date of operation: record the day or date
+
+Position in latitude and longitude at noon
+
+Number of fishing poles used during that day
+
+Start fishing time (record the time immediately after bait fishing is complete and the vessel heads to the ocean for fishing. For multiple days, the time at which search starts should be recorded) and end fishing time (record the time immediately after fishing is complete from the last school; on multiple days this is the time fishing stopped from the last school). For multiple days number of fishing days should be recorded.
+
+Type of school: FAD associated and/or free school
+
+**CATCH**
+
+Catch weight (kg) or number by species per set/shot/fishing event for each of the species and form of processing in section ‘Species’ below:
+
+For longline by number and weight
+
+For purse seine by weight
+
+For gillnet by weight
+
+For pole and line by weight or number
+
+**SPECIES**
+
+For longline:
+
+<table>
+<tbody><tr><td>Primary Species</td><td>FAO code</td><td>Other Species</td><td>FAO code</td></tr>
+<tr><td>Southern bluefin tuna (Thunnus maccoyii)</td><td>SBF</td><td>Shortbill spearfish (Tetrapturus angustirostris)</td><td>SSP</td></tr>
+<tr><td>Albacore (Thunnus alalunga)</td><td>ALB</td><td>Blue shark (Prionace glauca)</td><td>BSH</td></tr>
+<tr><td>Bigeye tuna (Thunnus obesus)</td><td>BET</td><td>Mako sharks (Isurus spp.)</td><td>MAK</td></tr>
+<tr><td>Yellowfin tuna (Thunnus albacares)</td><td>YFT</td><td>Porbeagle shark (Lamna nasus)</td><td>POR</td></tr>
+<tr><td>Skipjack tuna (Katsuwonus pelamis)</td><td>SKJ</td><td>Hammerhead sharks (Sphyrna spp.)</td><td>SPN</td></tr>
+<tr><td>Swordfish (Xiphias gladius)</td><td>SWO</td><td>Silky shark (Carcharhinus falciformis)</td><td>FAL</td></tr>
+<tr><td>Striped marlin (Tetrapturus audax)</td><td>MLS</td><td>Other bony fishes</td><td>MZZ</td></tr>
+<tr><td>Blue marlin (Makaira nigricans)</td><td>BUM</td><td>Other sharks</td><td>SKH</td></tr>
+<tr><td>Black marlin (Istiompax indica)</td><td>BLM</td><td>Seabirds (in number) (1)</td><td>  </td></tr>
+<tr><td>Indo–Pacific sailfish (Istiophorus platypterus)</td><td>SFA</td><td>Marine Mammals (in number)</td><td>MAM</td></tr>
+<tr><td>  </td><td>  </td><td>Marine turtles (in number)</td><td>TTX</td></tr>
+<tr><td>  </td><td>  </td><td>Thresher sharks (Alopias spp.)</td><td>THR</td></tr>
+<tr><td>  </td><td>  </td><td>Oceanic whitetip shark (Carcharhinus longimanus)</td><td>OCS</td></tr>
+<tr><td>  </td><td>  </td><td>Optional species to be recorded</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>Tiger shark (Galeocerdo cuvier)</td><td>TIG</td></tr>
+<tr><td>  </td><td>  </td><td>Crocodile shark (Pseudocarcharias kamoharai)</td><td>PSK</td></tr>
+<tr><td>  </td><td>  </td><td>Great white shark (Carcharodon carcharias)</td><td>WSH</td></tr>
+<tr><td>  </td><td>  </td><td>Mantas and devil rays (Mobulidae)</td><td>MAN</td></tr>
+<tr><td>  </td><td>  </td><td>Pelagic stingray (Pteroplatytrygon violacea)</td><td>PLS</td></tr>
+<tr><td>  </td><td>  </td><td>Other rays</td><td>  </td></tr>
+<tr><td colspan="4">(1)  When a CPC is fully implementing the observer program the provision of seabird data is optional </td></tr>
+</tbody>
+</table>
+
+For purse seine:
+
+| Primary Species | FAO code | Other species | FAO code |
+| --- | --- | --- | --- |
+| Albacore (Thunnus alalunga) | ALB | Marine turtles (in number) | TTX |
+| Bigeye tuna (Thunnus obesus) | BET | Marine mammals (in number) | MAM |
+| Yellowfin tuna (Thunnus albacares) | YFT | Whale sharks (Rhincodon typus) (in number) | RHN |
+| Skipjack tuna (Katsuwonus pelamis) | SKJ | Thresher sharks (Alopias spp.) | THR |
+| Other IOTC species |  | Oceanic whitetip shark (Carcharhinus longimanus) | OCS |
+|  |  | Silky sharks (Carcharhinus falciformis) | FAL |
+|  |  | Optional species to be recorded | FAO code |
+|  |  | Mantas and devil rays (Mobulidae) | MAN |
+|  |  | Other sharks | SKH |
+|  |  | Other rays |  |
+|  |  | Other bony fish | MZZ |
+
+For gillnet:
+
+<table>
+<tbody><tr><td>Primary Species</td><td>FAO code</td><td>Other Species</td><td>FAO code</td></tr>
+<tr><td>Albacore (Thunnus alalunga)</td><td>ALB</td><td>Shortbill spearfish (Tetrapturus angustirostris)</td><td>SSP</td></tr>
+<tr><td>Bigeye tuna (Thunnus obesus)</td><td>BET</td><td>Blue shark (Prionace glauca)</td><td>BSH</td></tr>
+<tr><td>Yellowfin tuna (Thunnus albacares)</td><td>YFT</td><td>Mako sharks (Isurus spp.)</td><td>MAK</td></tr>
+<tr><td>Skipjack tuna (Katsuwonus pelamis)</td><td>SKJ</td><td>Porbeagle shark (Lamna nasus)</td><td>POR</td></tr>
+<tr><td>Longtail tuna (Thunnus tonggol)</td><td>LOT</td><td>Hammerhead sharks (Sphyrna spp.)</td><td>SPN</td></tr>
+<tr><td>Frigate tuna (Auxis thazard)</td><td>FRI</td><td>Other sharks</td><td>SKH</td></tr>
+<tr><td>Bullet tuna (Auxis rochei)</td><td>BLT</td><td>Other bony fish</td><td>MZZ</td></tr>
+<tr><td>Kawakawa (Euthynnus affinis)</td><td>KAW</td><td>Marine turtles (in number)</td><td>TTX</td></tr>
+<tr><td>Narrow barred Spanish mackerel (Scomberomorus commerson)</td><td>COM</td><td>Marine mammals (in number)</td><td>MAM</td></tr>
+<tr><td>Indo–Pacific king mackerel (Scomberomorus guttatus)</td><td>GUT</td><td>Whale sharks (Rhincodon typus) (in number)</td><td>RHN</td></tr>
+<tr><td>Swordfish (Xiphias gladius)</td><td>SWO</td><td>Seabirds (in number) (1)</td><td>  </td></tr>
+<tr><td>Indo–Pacific sailfish (Istiophorus platypterus)</td><td>SFA</td><td>Thresher sharks (Alopias spp.)</td><td>THR</td></tr>
+<tr><td>Marlins (Tetrapturus spp., Makaira spp.)</td><td>BIL</td><td>Oceanic whitetip shark (Carcharhinus longimanus)</td><td>OCS</td></tr>
+<tr><td>Southern bluefin tuna (Thunnus maccoyii)</td><td>SBF</td><td>Optional species to be recorded</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>Tiger shark (Galeocerdo cuvier)</td><td>TIG</td></tr>
+<tr><td>  </td><td>  </td><td>Crocodile shark (Pseudocarcharias kamoharai)</td><td>PSK</td></tr>
+<tr><td>  </td><td>  </td><td>Mantas and devil rays (Mobulidae)</td><td>MAN</td></tr>
+<tr><td>  </td><td>  </td><td>Pelagic stingray (Pteroplatytrygon violacea)</td><td>PLS</td></tr>
+<tr><td>  </td><td>  </td><td>Other rays</td><td>  </td></tr>
+<tr><td colspan="4">(1)  When a CPC is fully implementing the observer program the provision of seabird data is optional </td></tr>
+</tbody>
+</table>
+
+For pole and line:
+
+| Primary Species | FAO code | Other Species | FAO code |
+| --- | --- | --- | --- |
+| Albacore (Thunnus alalunga) | ALB | Other bony fish | MZZ |
+| Bigeye tuna (Thunnus obesus) | BET | Sharks | SKH |
+| Yellowfin tuna (Thunnus albacares) | YFT | Rays |  |
+| Skipjack tuna (Katsuwonus pelamis) | SKJ | Marine turtles (in number) | TTX |
+| Frigate and bullet tuna (Auxis spp.) | FRZ |  |  |
+| Kawakawa (Euthynnus affinis) | KAW |  |  |
+| Longtail tuna (Thunnus tonggol) | LOT |  |  |
+| Narrow barred Spanish mackerel (Scomberomorus commerson) | COM |  |  |
+| Other IOTC species |  |  |  |
+
+**REMARKS**
+
+Discard of tuna, tuna-like fish and sharks to be recorded by species in weight (kg) or number for all gears should be recorded in the remarks.
+
+Any interactions with whale sharks (Rhincodon typus), marine mammals, and seabirds should be recorded in the remarks.
+
+Other information should also be written in the remarks.
+
+Note: The species included in the logbooks are regarded as minimum requirement. Optionally other frequently caught shark and/or fish species should be added as required across different areas and fisheries.
+
+## ANNEX 2
+
+**Guidelines for preparation of drifting fish aggregating device (DFAD) management plans**
+
+To support obligations in respect of the DFAD management plan (DFAD–MP) to be submitted to the Commission by Member States with fleets fishing in the IOTC area of competence, associated to DFADs, DFAD–MP should include:
+
+1\. An objective
+
+2\. Scope
+
+Description of its application with respect to:
+
+vessel-types and support and tender vessels
+
+DFAD numbers and DFAD beacon numbers to be deployed
+
+reporting procedures for DFAD deployment
+
+incidental bycatch reduction and utilisation policy
+
+consideration of interaction with other gear types
+
+plans for monitoring and retrieval of lost DFADs
+
+statement or policy on ‘DFAD ownership’
+
+3\. Institutional arrangements for management of the DFAD–MPs:
+
+institutional responsibilities
+
+application processes for DFAD and/or DFAD beacons deployment approval
+
+obligations of vessel owners and masters in respect of DFAD and/or DFAD beacons deployment and use
+
+DFAD and/or DFAD beacons replacement policy
+
+reporting obligations
+
+4\. DFAD construction specifications and requirements:
+
+DFAD design characteristics (a description)
+
+DFAD markings and identifiers, including DFAD beacons
+
+lighting requirements
+
+radar reflectors
+
+visible distance
+
+radio buoys (requirement for serial numbers)
+
+satellite transceivers (requirement for serial numbers)
+
+5\. Applicable areas:
+
+details of any closed areas or periods e.g. territorial waters, shipping lanes, proximity to artisanal fisheries, etc.
+
+6\. Applicable period for the DFAD–MP.
+
+7\. Means for monitoring and reviewing implementation of the DFAD–MP.
+
+8\. DFAD logbook template (data to be collected specified in Annex 3).
+
+**Guidelines for preparation of anchored fish aggregating device (AFAD) management plans**
+
+To support obligations in respect of the AFAD management plan (AFAD–MP) to be submitted to the IOTC Secretariat by CPCs with fleets fishing in the IOTC area of competence, associated to AFADs, AFAD–MP should include:
+
+1\. An objective
+
+2\. Scope:
+
+Description of its application with respect to:
+
+a) vessel types
+
+b) AFAD numbers and/or AFAD beacons numbers to be deployed (per AFAD type)
+
+c) reporting procedures for AFAD deployment
+
+d) distances between AFADs
+
+e) incidental bycatch reduction and utilisation policy
+
+f) consideration of interaction with other gear types
+
+g) the establishment of inventories of the AFADs deployed, detailing AFAD identifiers, characteristics and equipment of each AFAD as laid down in point 4 of this Annex, coordinates of the AFAD’s mooring sites, date of set, lost and reset
+
+h) plans for monitoring and retrieval of lost AFADs
+
+i) statement or policy on ‘AFAD ownership’
+
+3\. Institutional arrangements for management of the AFAD–MP:
+
+a) institutional responsibilities
+
+b) regulations applicable to the setting and use of AFADs
+
+c) AFAD repairs, maintenance rules and replacement policy
+
+d) data collection system
+
+e) reporting obligations
+
+4\. AFAD construction specifications and requirements:
+
+a) AFAD design characteristics (a description of both the floating structure and the underwater structure, with special emphasis on any netting materials used)
+
+b) anchorage used for mooring
+
+c) AFAD markings and identifiers, including AFAD beacons if any
+
+d) lighting requirements, if any
+
+e) radar reflectors
+
+f) visible distance
+
+g) radio buoys, if any (requirement for serial numbers)
+
+h) satellite transceivers (requirement for serial numbers)
+
+i) echo sounder
+
+5\. Applicable areas:
+
+a) coordinates of mooring sites, if applicable
+
+b) details of any closed areas e.g., shipping lanes, Marine Protected Areas, reserves etc.
+
+6\. Means for monitoring and reviewing implementation of the AFAD–MP.
+
+7\. AFAD logbook template (data to be collected specified in Annex IV).
+
+## ANNEX 3 — Data collection for drifting fish aggregating devices (DFADs) and anchored fish aggregating devices (AFADs)
+
+**DATA COLLECTION FOR DFADs**
+
+a) For each activity on a DFAD, whether followed by a set or not, each fishing, support and supply vessel to report the following information:
+
+i. Vessel (name and registration number of the fishing, support or supply vessel)
+
+ii. Position (as the geographic location of the event (Latitude and Longitude) in degrees and minutes)
+
+iii. Date (as DD/MM/YYYY, day/month/year)
+
+iv. DFAD identifier (DFAD or beacon ID)
+
+v. DFAD type (drifting natural FAD, drifting artificial FAD)
+
+vi. DFAD design characteristics
+
+Dimension and material of the floating part and of the underwater hanging structure
+
+vii. Type of the activity (visit, deployment, hauling, retrieving, loss, intervention to service electronic equipment).
+
+b) If the visit is followed by a set, the results of the set in terms of catch and bycatch, whether retained or discarded dead or alive. CPCs to report this data aggregated per vessel at 1*1 degree (where applicable) and monthly to the Secretariat
+
+**DATA COLLECTION FOR AFADs**
+
+a) Any activity around an AFAD.
+
+b) For each activity on an AFAD (repair, intervention, consolidation, etc.), whether followed or not by a set or other fishing activities:
+
+i. Position (as the geographic location of the event (Latitude and Longitude) in degrees and minutes)
+
+ii. Date (as DD/MM/YYYY, day/month/year)
+
+iii. AFAD identifier (i.e. AFAD marking or beacon ID or any information allowing to identify the owner).
+
+c) If the visit is followed by a set or other fishing activities, the results of the set in terms of catch and bycatch, whether retained or discarded dead or alive.
+
+## ANNEX 4 — Mitigation measures for seabirds in longline fisheries
+
+| Mitigation | Description | Specification |
+| --- | --- | --- |
+| Night setting with minimum deck lighting | No setting between nautical dawn and before nautical dusk. Deck lighting to be kept to a minimum. | Nautical dusk and nautical dawn are defined as set out in the Nautical Almanac tables for relevant latitude, local time and date. Minimum deck lighting should not breach minimum standards for safety and navigation. |
+| Bird-scaring lines (Tori lines) | Bird-scaring lines shall be deployed during the entire longline setting to deter birds from approaching the branch line. | For vessels greater than or equal to 35 m: — Deploy at least 1 bird-scaring line. Where practical, vessels are encouraged to use a second tori pole and bird scaring line at times of high bird abundance or activity; both tori lines should be deployed simultaneously, one on each side of the line being set. — Aerial extent of bird-scaring lines must be greater than or equal to 100 m. — Long streamers of sufficient length to reach the sea surface in calm conditions must be used. — Long streamers must be at intervals of no more than 5 m. |
+|  |  | For vessels less than 35 m: — Deploy at least 1 bird-scaring line. — Aerial extent must be greater than or equal to 75 m. — Long and/or short (but greater than 1 m in length) streamers must be used and placed at intervals as follows: — — Short: intervals of no more than 2 m. — Long: intervals of no more than 5 m for the first 55 m of bird scaring line. Additional design and deployment guidelines for bird-scaring lines are provided in Annex 5 to this Regulation. |
+| Line weighting | Line weights to be deployed on the snood prior to setting. | Greater than a total of 45 g attached within 1 m of the hook or; Greater than a total of 60 g attached within 3,5 m of the hook or; Greater than a total of 98 g weight attached within 4 m of the hook. |
+
+## ANNEX 5 — Supplemental Guidelines for Design and Deployment of Tori Lines
+
+**Preamble**
+
+Minimum technical standards for deployment of tori lines are found in Annex 4 to this Regulation, and are not repeated here. These supplemental guidelines are designed to assist in the preparation and implementation of tori line regulations for longline vessels. While these guidelines are relatively explicit, improvement in tori line effectiveness through experimentation is encouraged, within the requirements of Annex 4 to the Regulation. The guidelines take into account environmental and operational variables such as weather conditions, setting speed and ship size, all of which influence tori line performance and design in protecting baits from birds. Tori line design and use may change to take account of these variables provided that line performance is not compromised. On-going improvement in tori line design is envisaged and consequently review of these guidelines should be undertaken in the future.
+
+**Tori line design (see Figure 1)**
+
+1\. An appropriate towed device on the section of the tori line in the water can improve the aerial extension.
+
+2\. The above water section of the line should be sufficiently light that its movement is unpredictable to avoid habituation by birds and sufficiently heavy to avoid deflection of the line by wind.
+
+3\. The line is best attached to the vessel with a robust barrel swivel to reduce tangling of the line.
+
+4\. The streamers should be made of material that is conspicuous and produces an unpredictable lively action (e.g. strong fine line sheathed in red polyurethane tubing) suspended from a robust three-way swivel (that again reduces tangles) attached to the tori line.
+
+5\. Each streamer should consist of two or more strands.
+
+6\. Each streamer pair should be detachable by means of a clip so that line stowage is more efficient.
+
+**Deployment of tori lines**
+
+1\. The line should be suspended from a pole affixed to the vessel. The tori pole should be set as high as possible so that the line protects bait a good distance astern of the vessel and will not tangle with fishing gear. Greater pole height provides greater bait protection. For example, a height of around 7 m above the water line can give about 100 m of bait protection.
+
+2\. If vessels use only one tori line it should be set to windward of sinking baits. If baited hooks are set outboard of the wake, the streamer line attachment point to the vessel should be positioned several meters outboard of the side of the vessel that baits are deployed. If vessels use two tori lines, baited hooks should be deployed within the area bounded by the two tori lines.
+
+3\. Deployment of multiple tori lines is encouraged to provide even greater protection of baits from birds.
+
+4\. Because there is the potential for line breakage and tangling, spare tori lines should be carried onboard to replace damaged lines and to ensure fishing operations can continue uninterrupted. Breakaways can be incorporated into the tori line to minimize safety and operational problems should a longline float foul or tangle with the in-water extent of a streamer line.
+
+5\. When fishers use a bait casting machine (BCM), they must ensure coordination of tori line and machine by: i) ensuring the BCM throws directly under the tori line protection, and ii) when using a BCM (or multiple BCMs) that allows throwing to both port and starboard, two tori lines should be used.
+
+6\. When casting branchline by hand, fishers should ensure that the baited hooks and coiled branchline sections are cast under the tori line protection, avoiding the propeller turbulence which may slow the sink rate.
+
+7\. Fishers are encouraged to install manual, electric or hydraulic winches to improve ease of deployment and retrieval of tori lines.
+
+[image]
+
+Longline (Gear Configuration): Average branch line length (meters): straight length in meters between snap and hook.
+
+Translation:
+
+Float
+
+Sea level
+
+Sea-surface temperature
+
+Float line length
+
+Main line material
+
+Average length between branches
+
+Branch line length
+
+Light sticks
+
+Leader/trace type
+
+Hook type
+
+Bait type
+
+Hooks between floats (hooks per basket)
+
+## ANNEX 6 — General provisions of chartering agreement
+
+The chartering agreement shall contain the following conditions:
+
+The flag CPC has consented in writing to the chartering agreement;
+
+The duration of the fishing operations under the chartering agreement does not exceed 12 months in any calendar year.
+
+Fishing vessels to be chartered shall be registered to responsible contracting parties and cooperating non-contracting parties, which explicitly agree to apply IOTC conservation and management measures and enforce them on their vessels. All flag contracting parties or cooperating non-contracting parties, concerned shall effectively exercise their duty to control their fishing vessels to ensure compliance with IOTC conservation and management measures.
+
+Fishing vessels to be chartered shall be on the IOTC record of vessels authorized to operate in the IOTC Area of Competence.
+
+Without prejudice to the duties of the chartering CPC, the flag CPC shall ensure that the chartered vessel complies with both the legislation of the chartering CPC and of the flag CPCs and shall ensure compliance by chartered vessels with relevant Conservation and Management Measures established by IOTC, in accordance with their rights, obligations and jurisdiction under international law. If the chartered vessel is allowed by the chartering CPC to go and fish in the high seas, the flag CPC is then responsible for controlling the high seas fishing conducted pursuant to the charter arrangement. The chartered vessel shall report VMS and catch data to both the CPCs (chartering and flag) and to the IOTC Secretariat.
+
+All catches (historical and current/future), including bycatch and discards, taken pursuant to the chartering agreement, shall be counted against the quota or fishing possibilities of the chartering CPC. The observer coverage (historical, current/future) on board such vessels shall also be counted against the coverage rate of the chartering CPC for the duration that the vessel fishes under the Charter Agreement.
+
+The chartering CPC shall report to the IOTC all catches, including bycatch and discards, and other information required by the IOTC, and as per the Charter Notification Scheme detailed in Part IV of CMM 19/07.
+
+Vessel Monitoring Systems (VMS) and, as appropriate, tools for differentiation of fishing areas, such as fish tags or marks, shall be used, according to the relevant IOTC Conservation and Management Measures, for effective fishery management.
+
+There shall be observer coverage of at least 5 % of fishing effort.
+
+The chartered vessels shall have a fishing license issued by the chartering CPC, and shall not be on the IOTC IUU list, and/or IUU list of other Regional Fisheries Management Organisations.
+
+When operating under charter agreements, the chartered vessels shall not, to the extent possible, be authorized to use the quota (if any) or entitlement of the flag Contracting Parties or Cooperating Non-Contracting Parties. In no case shall the vessel be authorized to fish under more than one chartering agreement at the same time.
+
+Unless specifically provided in the chartering agreement, and consistent with relevant domestic law and regulation, the catches of the chartered vessels shall be unloaded exclusively in the Ports of the chartering Contracting Party or under its direct supervision in order to assure that the activities of the chartered vessels do not undermine IOTC Conservation and Management Measures.
+
+The chartered vessel shall at all times carry a copy of the charter documentation.
+
+## ANNEX 7 — IOTC Transhipment Declaration
+
+| Carrier Vessel | Fishing Vessel |
+| --- | --- |
+| Name of the Vessel and Radio Call Sign: Flag: IMO number: Flag State licence number: National Register Number, if available: IOTC Register Number, if available: | Name of the Vessel and Radio Call Sign: Flag: IMO number: Flag State licence number: National Register Number, if available: IOTC Register Number, if available: |
+
+<table>
+<tbody><tr><td>  </td><td>Day (1)</td><td>Month</td><td>Hour</td><td>Year</td><td>  </td><td>Agent’s name:</td><td>Master’s name of LSTV:</td><td>Master’s name of Carrier:</td></tr>
+<tr><td>Departure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>from</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Return</td><td>  </td><td>  </td><td>  </td><td>  </td><td>to</td><td>Signature:</td><td>Signature:</td><td>Signature:</td></tr>
+<tr><td>Transhipment</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(1)  For the purpose of completing this Transshipment Declaration, UTC should be used to indicate the time and date of the transshipment. </td></tr>
+</tbody>
+</table>
+
+Indicate the weight in kilograms or the unit used (e.g. box, basket) and the landed weight in kilograms of this unit: ________kilograms
+
+**LOCATION OF TRANSHIPMENT**
+
+<table>
+<tbody><tr><td>Species</td><td colspan="2">Port</td><td>Sea</td><td colspan="8">Type of product</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Whole</td><td>Gutted</td><td>Headed</td><td>Filleted</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+If transhipment effected at sea, IOTC Observer Name and Signature:
+
+## ANNEX 8 — IOTC Bigeye Tuna Statistical Document
+
+<table>
+<tbody><tr><td colspan="2">DOCUMENT NUMBER</td><td colspan="3">IOTC BIGEYE TUNA STATISTICAL DOCUMENT</td></tr>
+<tr><td colspan="5">EXPORT SECTION 1. FLAG OF COUNTRY/ENTITY/FISHING ENTITY </td></tr>
+<tr><td colspan="5">2. DESCRIPTION OF VESSEL AND REGISTRATION NUMBER (if applicable) Vessel Name…  Registration Number…  LOA (m) …  IOTC Record No. (if applicable): … </td></tr>
+<tr><td colspan="5">3. TRAPS (if applicable)</td></tr>
+<tr><td colspan="5">4. POINT OF EXPORT (City, State/Province, Country/Entity/Fishing Entity)</td></tr>
+<tr><td colspan="5">5. AREA OF CATCH (check one of the following)</td></tr>
+<tr><td>(a) Indian</td><td>(b) Pacific</td><td>(c) Atlantic</td><td colspan="2">  </td></tr>
+<tr><td colspan="5">* In case of (b) or (c) checked, the item 6 and 7 below do not need to be filled out.</td></tr>
+<tr><td colspan="5">6. DESCRIPTION OF FISH</td></tr>
+<tr><td colspan="2">Product Type (*1)</td><td rowspan="2">Time of Harvest (mm/yy)</td><td rowspan="2">Gear Code (*2)</td><td rowspan="2">Net Weight (Kg) </td></tr>
+<tr><td>F/FR</td><td>D/GG/DR/FL/OT</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">*1 = F=Fresh, FR = Frozen, RD = Round, GG = Gilled and Gutted, DR = Dressed, FL = Fillet OT = Other, describe the type of product  *2 = When the Gear Code is OT, describe the type of gear, </td></tr>
+<tr><td colspan="5">7. EXPORTER CERTIFICATION I certify that the above information is complete, true, and correct to the best of my knowledge and belief. Name:… Company name: … Address: … Signature: … Date: … License Number (if applicable): … </td></tr>
+<tr><td colspan="5">8. GOVERNMENT VALIDATION I validate that information listed above is complete, true, and correct to the best of my knowledge and belief. Total weight of the shipment: Kg  Name& Title… Signature: … Date: … Government Seal… </td></tr>
+<tr><td colspan="5">IMPORT SECTION: 9. IMPORTER CERTIFICATION I certify that the above information is complete, true, and correct to the best of my knowledge and belief.  Importer Certification (Intermediate Country/Entity/Fishing Entity)  Name… Address: … Signature: … Date: … License # (if applicable): …  Importer Certification (Intermediate Country/Entity/Fishing Entity)  Name: … Address: … Signature: … Date: … License # (if applicable): …  Final Point of Import  City: … State/Province: … Country/Entity/Fishing Entity: … </td></tr>
+<tr><td colspan="5">NOTE: If a language other than English or French is used in completing this form, please add an English translation of this document.</td></tr>
+</tbody>
+</table>
+
+INSTRUCTIONS:
+
+DOCUMENT NUMBER: Block for the issuing Country to designate a country coded Document Number.
+
+(1) FLAG COUNTRY/ENTITIES/FISHING ENTITIES: Fill in the name of the country of the vessel that harvested the Bigeye tuna in the shipment and issued this Document. According to the Recommendation, only the flag state of the vessel that harvested the Bigeye tuna in the shipment or, if the vessel is operating under a charter arrangement, the exporting state can issue this Document.
+
+(2) DESCRIPTION OF VESSEL (if applicable): Fill in the name and registration number, length overall(LOA) and IOTC Record number of the vessel that harvested the Bigeye tuna in the shipment.
+
+(3) TRAPS (if applicable): Fill in the name of the trap that harvested the Bigeye tuna in the shipment.
+
+(4) POINT OF EXPORT: Identify the City, State or Province, and Country from which the Bigeye tuna was exported.
+
+(5) AREA OF CATCH: Check the area of catch. (If (b) or (c) checked, items 6 and 7 below do not need to be filled out.)
+
+(6) DESCRIPTION OF FISH: The exporter must provide, to the highest degree of accuracy, the following information.
+
+NOTE: One row should describe one product type
+
+(1) Product Type: Identify the type of product being shipped as either FRESH or FROZEN, and in ROUND, GILLED AND GUTTED, DRESSED, FILLET or OTHER form. For OTHER, describe the type of products in the shipment.
+
+(2) Time of Harvest: Fill in the time of harvest (in month and year) of the Bigeye tuna in the shipment
+
+(3) Gear Code: Identify the gear type which was used to harvest the Bigeye tuna using the list below. For OTHER TYPE, describe the type of gear, including farming.
+
+(4) Net product weight: in kilograms.
+
+(5) EXPORTER CERTIFICATION: The person or company exporting the Bigeye tuna shipment must provide his/her name, company name, address, signature, date the shipment was exported, and dealer license number (if applicable).
+
+(6) GOVERNMENT VALIDATION: Fill in the name and full title of the official signing the Document. The official must be employed by a competent authority of the flag state government of the vessel that harvested the Bigeye tuna appearing on the Document or other individual or institution authorised by the flag state. When appropriate, this requirement is waived according validation of the document by a government official, or if the vessel is operating under a charter arrangement, by a government official or other authorised individual or institution of the exporting state. The total weight of the shipment shall also be specified in this block.
+
+(7) IMPORTER CERTIFICATION: The person or company that imports Bigeye tuna must provide his/her name, address, signature, date the Bigeye tuna was imported, license number (if applicable), and final point of import. This includes imports into intermediate countries/entities/fishing entities. For fresh and chilled products, the signature of the importer may be substituted by a person of a customs clearance company when the authority for signature is properly accredited to it by the importer.
+
+GEAR CODE:
+
+GEAR CODE GEAR TYPE,
+
+BB BAITBOAT
+
+GILL GILLNET
+
+HAND HANDLINE
+
+HARP HARPOON
+
+LL LONGLINE
+
+MWT MID-WATER TRAWL
+
+PS PURSE SEINE
+
+RR ROD AND REEL
+
+SPHL SPORT HANDLINE
+
+SPOR SPORT FISHERIES UNCLASSIFIED
+
+SURF SURFACE FISHERIES UNCLASSIFIED
+
+TL TENDED LINE
+
+TRAP TRAP
+
+TROL TROLL
+
+UNCL UNSPECIFIED METHODS
+
+OT OTHER TYPE
+
+RETURN A COPY OF COMPLETED DOCUMENT TO: (the name of the office of the competent authority of the flag state).
+
+## ANNEX 9 — IOTC bigeye tuna re-export certificate
+
+<table>
+<tbody><tr><td colspan="2">DOCUMENT NUMBER</td><td colspan="3">IOTC BIGEYE TUNA RE-EXPORT CERTIFICATE</td></tr>
+<tr><td colspan="5">RE-EXPORT SECTION: 1. RE-EXPORTING COUNTRY/ENTITY/FISHING ENTITY </td></tr>
+<tr><td colspan="5">2. POINT OF RE-EXPORT</td></tr>
+<tr><td colspan="5">3. DESCRIPTION OF IMPORTED FISH</td></tr>
+<tr><td colspan="2">Product Type(*)</td><td rowspan="2">Net Weight (Kg) </td><td rowspan="2">Flag country/Entity/Fishing Entity</td><td rowspan="2">Date of Import</td></tr>
+<tr><td>F/FR</td><td>RD/GG/DR/FL/OT</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">4. DESCRIPTION OF FISH FOR RE-EXPORT</td></tr>
+<tr><td colspan="2">Product Type(*)</td><td rowspan="2">Net Weight (Kg) </td><td colspan="2" rowspan="2">  </td></tr>
+<tr><td>F/FR</td><td>RD/GG/DR/FL/OT</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="2">  </td></tr>
+<tr><td colspan="5">*F = FRESH, FR = Frozen, RD = Round, GG = Gilled and Gutted, DR = Dressed, FL = Fillet OT = Other(Describe the type of product) </td></tr>
+<tr><td colspan="5">5. RE-EXPORTER CERTIFICATION: I certify that the above information is complete, true and correct to the best of my knowledge and belief. Name/Company Name… Address… Signature… Date… License Number (if applicable) … </td></tr>
+<tr><td colspan="5">6. GOVERNMENT VALIDATION: I validate that the above information is complete, true and correct to the best of my knowledge and belief. Name & Title… Signature… Date… Government Seal… </td></tr>
+<tr><td colspan="5">IMPORT SECTION: 7. IMPORTER CERTIFICATION: I certify that the above information is complete, true and correct to the best of my knowledge and belief.  Importer Certification (Intermediate Country/Entity/Fishing Entity)  Name: … Address: … Signature: … Date: … License # (if applicable) …  Importer Certification (Intermediate Country/Entity/Fishing Entity)  Name: … Address: … Signature: … Date: … License # (if applicable) …  Importer Certification (Intermediate Country/Entity/Fishing Entity)  Name: … Address: … Signature: … Date: … License # (if applicable) …  Final Point of Import  City: … State/Province: … Country/Entity/Fishing Entity: … </td></tr>
+<tr><td colspan="5">NOTE: If a language other than English or French is used in completing this form, please add the English translation of this document.</td></tr>
+</tbody>
+</table>
+
+INSTRUCTIONS
+
+DOCUMENT NUMBER: Block for the issuing Country/Entity/Fishing Entity to designate a Country/Entity/Fishing Entity coded document number.
+
+(1) RE-EXPORTING COUNTRY/ENTITY/FISHING ENTITY
+
+Fill in the name of the Country/Entity/Fishing Entity which re-exports the Bigeye tuna in the shipment and issued this Certificate. According to the Recommendation, only the re-exporting Country/Entity/Fishing Entity can issue this Certificate.
+
+(2) POINT OF RE-EXPORT
+
+Identify the City/State Province and Country/Entity/Fishing Entity from which the Bigeye tuna was re-exported.
+
+(3) DESCRIPTION OF IMPORTED FISH
+
+The exporter must provide, to the highest degree of accuracy, the following information: NOTE: One row should describe one product type. (1)Product type: Identify the type of product being shipped as either FRESH or FROZEN, and in ROUND, GILLED AND GUTTED, DRESSED, FILLET or OTHER form. For OTHER, describe the type of products in the shipment. (2) Net weight: Net product weight in kilograms. (3) Flag Country/Entity/Fishing Entity: the name of the Country/Entity/Fishing Entity of the vessel that harvested the Bigeye tuna in the shipment. (4) Date of import: Imported date.
+
+(4) DESCRIPTION OF FISH FOR RE-EXPORT
+
+The exported must provide, to the highest degree of accuracy, the following information: NOTE: One row should describe one product type. (1) Product type: Identify the type of product being shipped as either FRESH or FROZEN, and in ROUND, GILLED AND GUTTED, DRESSED FILLET or OTHER form. For OTHER, describe the type of products in the shipment. (2) Net weight: Net product weight in kilograms.
+
+(5) RE-EXPORTER CERTIFICATION
+
+The person or company re-exporting the Bigeye tuna shipment must provide his/her name, address, signature, date the shipment was re-exported, and re-exporter’s license number (if applicable).
+
+(6) GOVERNMENT VALIDATION
+
+Fill in the name and full title of the official signing the Certificate. The official must be employed by a competent government authority of the re-exporting Country/Entity/Fishing Entity appearing on the Certificate, or other individual or institution authorised to validate such certificates by the competent government authority.
+
+(7) IMPORTER CERTIFICATION
+
+The person or company that imports Bigeye tuna must provide his/her name, address, signature, date the Bigeye tuna was imported, license number (if applicable) and re-exported final point of import. This includes imports into intermediate Countries/Entities/Fishing Entities. For fresh and chilled products, the signature of the importer may be substituted by a person of a customs clearance company when the authority for signature is properly accredited to it by the importer.
+
+RETURN A COPY OF THE COMPLETED CERTIFICATE TO: (the name of the office of the competent authority of the re-exporting Country/Entity/Fishing Entity).
+
+## ANNEX 10 — Information to be provided in advance by vessels requesting port entry
+
+<table>
+<tbody><tr><td colspan="4">1. Intended port of call</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">2. Port State</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">3. Estimated date and time of arrival</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">4. Purpose(s)</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">5. Port and date of last port call</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">6. Name of the vessel</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">7. Flag State</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">8. Type of vessel</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">9. International Radio Call Sign</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">10. Vessel contact information</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">11. Vessel owner(s)</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">12. Certificate of registry ID</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">13. IMO ship ID, if available</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">14. External ID, if available</td><td colspan="6">  </td></tr>
+<tr><td colspan="4">15. IOTC ID</td><td colspan="6">  </td></tr>
+<tr><td colspan="2">16. VMS</td><td>No</td><td colspan="3">Yes: National</td><td colspan="2">Yes: RFMO(s)</td><td colspan="2">Type:</td></tr>
+<tr><td colspan="2">17. Vessel dimensions</td><td>Length</td><td colspan="3">  </td><td>Beam</td><td>  </td><td>Draft</td><td>  </td></tr>
+<tr><td colspan="4">18. Vessel master name and nationality</td><td colspan="6">  </td></tr>
+<tr><td colspan="10">19. Relevant fishing authorization(s)</td></tr>
+<tr><td>Identifier</td><td>Issued by</td><td colspan="2">Validity</td><td colspan="2">Fishing area(s)</td><td colspan="2">Species</td><td colspan="2">Gear</td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="10">20. Relevant transhipment authorization(s)</td></tr>
+<tr><td>Identifier</td><td>  </td><td colspan="2">Issued by</td><td colspan="2">  </td><td>Validity</td><td colspan="3">  </td></tr>
+<tr><td>Identifier</td><td>  </td><td colspan="2">Issued by</td><td colspan="2">  </td><td>Validity</td><td colspan="3">  </td></tr>
+<tr><td colspan="9">21. Transhipment information concerning donor vessels</td><td>  </td></tr>
+<tr><td>Date</td><td>Location</td><td>Name</td><td>Flag State</td><td>ID number</td><td>Species</td><td colspan="2">Product form</td><td>Catch area</td><td>Quantity</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">22. Total catch onboard</td><td colspan="3">23. Catch to be offloaded</td></tr>
+<tr><td>Species</td><td colspan="2">Product form</td><td>Catch area</td><td colspan="3">Quantity</td><td colspan="3">Quantity</td></tr>
+<tr><td>  </td><td colspan="2">  </td><td>  </td><td colspan="3">  </td><td colspan="3">  </td></tr>
+<tr><td>  </td><td colspan="2">  </td><td>  </td><td colspan="3">  </td><td colspan="3">  </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008 (OJ L 347, 28.12.2017, p. 81).

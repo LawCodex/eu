@@ -151,6 +151,7 @@ Harmful virus diseases, especially grapevine fanleaf and leafroll, must be elimi
 |  | 1. | The propagation material shall have varietal identity and purity, and if necessary clonal purity; a tolerance of 1 % is admitted at the time of the marketing of standard material. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>The propagation material shall have a minimum technical purity of 96 %. The following are considered technical impurities: <table><tbody><tr><td>(a)</td><td>propagation material desiccated wholly or partly, even when it has been steeped in water after desiccation;</td></tr>
 </tbody>
 </table>
@@ -162,6 +163,7 @@ Harmful virus diseases, especially grapevine fanleaf and leafroll, must be elimi
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | Vine shoots shall have reached a sufficient state of maturity of the wood. |
 | --- | --- | --- |
@@ -251,6 +253,7 @@ The cut shall be made at a sufficient distance below the diaphragm so as not to 
 
 **Composition of packages or bundles**
 
+<table>
 <tbody><tr><td>1 — Type</td><td>2 — Number of individuals</td><td>3 — Maximum quantity</td></tr>
 <tr><td><table><tbody><tr><td>1.</td><td>Rooted grafts</td></tr>
 </tbody>
@@ -281,6 +284,7 @@ The cut shall be made at a sufficient distance below the diaphragm so as not to 
 </table>
 </td><td>100, or multiples of 100</td><td>500 </td></tr>
 </tbody>
+</table>
 
 **SPECIAL CONDITIONS**
 

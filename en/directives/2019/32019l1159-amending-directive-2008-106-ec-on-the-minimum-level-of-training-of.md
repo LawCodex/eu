@@ -353,6 +353,7 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 |  | 7. | Masters, engineer officers and all personnel with immediate responsibility for the care and use of fuels and fuel systems on ships subject to the IGF Code shall hold a certificate in advanced training for service on ships subject to the IGF Code. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>8.</td><td>Every candidate for a certificate in advanced training for service on ships subject to the IGF Code shall, while holding the certificate of proficiency described in paragraph 4, have:<table><tbody><tr><td>8.1.</td><td>completed approved advanced training for service on ships subject to the IGF Code and meet the standard of competence as specified in Section A-V/3, paragraph 2, of the STCW Code; and</td></tr>
 </tbody>
 </table>
@@ -361,7 +362,9 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>9.</td><td>Masters, engineer officers and any person with immediate responsibility for the care and use of fuels on ships subject to the IGF Code who have been qualified and certified according to the standards of competence specified in Section A–V/1-2, paragraph 2, of the STCW Code for service on liquefied gas tankers shall be considered to have met the requirements specified in Section A-V/3, paragraph 2, of the STCW Code for advanced training for ships subject to the IGF Code, provided they have also:<table><tbody><tr><td>9.1.</td><td>met the requirements of paragraph 6;</td></tr>
 </tbody>
 </table>
@@ -382,6 +385,7 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 10. | Member States shall ensure that a certificate of proficiency is issued to seafarers, who are qualified in accordance with paragraph 4 or 7, as appropriate. |
 | --- | --- | --- |
@@ -402,6 +406,7 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 |  | 3. | Masters and chief mates on ships operating in polar waters shall hold a certificate in advanced training for ships operating in polar waters, as required by the Polar Code. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>Every candidate for a certificate in advanced training for ships operating in polar waters shall:<table><tbody><tr><td>4.1.</td><td>meet the requirements for certification in basic training for ships in polar waters;</td></tr>
 </tbody>
 </table>
@@ -413,10 +418,12 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5. | Member States shall ensure that a certificate of proficiency is issued to seafarers who are qualified in accordance with paragraph 2 or 4, as appropriate. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Until 1 July 2020, seafarers who commenced approved seagoing service in polar waters prior to 1 July 2018 shall be able to establish that they meet the requirements of paragraph 2 by:<table><tbody><tr><td>6.1.</td><td>having completed approved seagoing service on board a ship that operates in polar waters or equivalent approved seagoing service, performing duties in the deck department at the operational or management level, for a period of at least three months in total during the preceding five years; or</td></tr>
 </tbody>
 </table>
@@ -425,7 +432,9 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>Until 1 July 2020, seafarers who commenced approved seagoing service in polar waters prior to 1 July 2018 shall be able to establish that they meet the requirements of paragraph 4 by:<table><tbody><tr><td>7.1.</td><td>having completed approved seagoing service on board a ship operating in polar waters or equivalent approved seagoing service, performing duties in the deck department at management level, for a period of at least three months in total during the preceding five years; or</td></tr>
 </tbody>
 </table>
@@ -434,3 +443,4 @@ In Annex I to Directive 2008/106/EC, Chapter V is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>

@@ -83,6 +83,7 @@ Note 1 Terms in "quotations" are defined terms. Refer to 'Definitions of Terms u
 
 Note 2 In some instances chemicals are listed by name and Chemical abstract service (CAS) number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.
 
+<table>
 <tbody><tr><td>ML (1)1</td><td></td><td>Smooth-bore weapons with a calibre of less than 20 mm, other arms and automatic weapons with a calibre of 12,7 mm (calibre 0,50 inches) or less and accessories, as follows, and specially designed components therefor:<table><tbody><tr><td>Note</td><td>ML1. does not apply to:<table><tbody><tr><td>a.</td><td>Firearms specially designed for dummy ammunition and which are incapable of discharging a projectile;</td></tr>
 </tbody>
 </table>
@@ -2389,6 +2390,7 @@ Note 2 In some instances chemicals are listed by name and Chemical abstract serv
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **DEFINITIONS OF TERMS USED IN THIS LIST**
 
@@ -2398,6 +2400,7 @@ Note 1 Definitions apply throughout the List. The references are purely advisory
 
 Note 2 Words and terms contained in this List of Definitions only take the defined meaning where this is indicated by their being enclosed in "double quotations marks". Definitions of terms between 'single quotation marks' are given in a Technical to the relevant item. Elsewhere, words and terms take their commonly accepted (dictionary) meanings.
 
+<table>
 <tbody><tr><td>ML8</td><td></td><td>"Additives" Substances used in explosive formulations to improve their properties. </td></tr>
 <tr><td>ML8, 10, 14</td><td></td><td>"Aircraft" A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle. </td></tr>
 <tr><td></td><td></td><td>"Airship" A power-driven airborne vehicle that is kept buoyant by a body of gas (usually helium, formerly hydrogen) which is lighter than air. </td></tr>
@@ -2537,6 +2540,7 @@ Note 2 Words and terms contained in this List of Definitions only take the defin
 <tr><td>ML10</td><td></td><td>"Unmanned aerial vehicle" ("UAV") Any "aircraft" capable of initiating flight and sustaining controlled flight and navigation without any human presence on board. </td></tr>
 <tr><td>ML21</td><td></td><td>"Vulnerability disclosure" The process of identifying, reporting or communicating a vulnerability to, or analysing a vulnerability with, individuals or organisations responsible for conducting or coordinating remediation for the purpose of resolving the vulnerability. </td></tr>
 </tbody>
+</table>
 
 (1) Military List.
 

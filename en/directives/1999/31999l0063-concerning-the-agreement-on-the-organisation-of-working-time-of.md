@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **concerning the Agreement on the organisation of working time of seafarers concluded by the European Community Shipowners' Association (ECSA) and the Federation of Transport Workers' Unions in the European Union (FST)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2009/13/EC of 16 February 2009 </td><td> L 124</td><td>30</td><td>20.5.2009</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 1999/63/EC**
 

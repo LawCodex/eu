@@ -1,0 +1,88 @@
+---
+title: "Council Implementing Regulation (EU) 2016/603 of 18 April 2016 implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran"
+identifier: "32016R0603"
+eli: "http://data.europa.eu/eli/reg_impl/2016/603/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-04-18
+entry_into_force: 2016-05-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0603"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Regulation (EU) 2016/603 of 18 April 2016 implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran
+
+**COUNCIL IMPLEMENTING REGULATION (EU) 2016/603**
+
+**of 18 April 2016**
+
+**implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EU) No 267/2012 of 23 March 2012 concerning restrictive measures against Iran and repealing Regulation (EU) No 961/2010 (1), and in particular Article 46(2) thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 23 March 2012, the Council adopted Regulation (EU) No 267/2012.
+
+(2) On 14 July 2015, China, France, Germany, the Russian Federation, the United Kingdom and the United States, supported by the High Representative of the Union for Foreign Affairs and Security Policy, reached an agreement with Iran on a long-term comprehensive solution to the Iranian nuclear issue. The successful implementation of the Joint Comprehensive Plan of Action (JCPOA) will ensure the exclusively peaceful nature of the Iranian nuclear programme and provide for the comprehensive lifting of all nuclear-related sanctions.
+
+(3) On 20 July 2015, the United Nations Security Council adopted Resolution (UNSCR) 2231 (2015) endorsing the JCPOA, urging its full implementation in accordance with the timetable established in the JCPOA and providing for actions to take place in accordance with the JCPOA.
+
+(4) The JCPOA, as endorsed by UNSCR 2231 (2015), provides in particular that the Union is to remove the restrictive measures in place against certain persons and entities on ‘Transition Day’ (18 October 2023), which is the date eight years after ‘Adoption Day’ (18 October 2015), or at an earlier moment on the basis of a report from the Director-General of the International Atomic Energy Agency (IAEA) to the IAEA Board of Governors and in parallel to the UN Security Council stating that the IAEA has concluded that all nuclear material in Iran remains in peaceful activities (‘Broader Conclusion’).
+
+(5) The Council has reviewed the statement of reasons concerning one entity which is to be subject to restrictive measures until Transition Day and decided that it should be supplemented.
+
+(6) The entry in the Annex to this Regulation should apply until 22 October 2016.
+
+(7) Regulation (EU) No 267/2012 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex IX to Regulation (EU) No 267/2012 is amended as set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the date following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Luxembourg, 18 April 2016.
+
+For the Council
+
+The President
+
+F. MOGHERINI
+
+(1) OJ L 88, 24.3.2012, p. 1.
+
+## ANNEX
+
+The following entry is inserted in part I.B of Annex IX to Regulation (EU) No 267/2012 until 22 October 2016:
+
+**I. Persons and entities involved in nuclear or ballistic missile activities and persons and entities providing support to the Government of Iran.**
+
+**B Entities**
+
+<table>
+<tbody><tr><td></td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td rowspan="2">‘7a. (*1)</td><td>Bank Saderat Iran (including all branches) and subsidiaries:</td><td>Bank Saderat Tower, 43 Somayeh Ave, Tehran, Iran.</td><td>By handling letters of credit of Defence Industries Organisation (DIO) in March 2009, Bank Saderat violated the provisions of UNSCR 1737 which designated DIO and therefore required the freezing of its, and prohibited the making available to it of any, funds, financial assets and economic resources. By handling those letters of credit, Bank Saderat also assisted DIO in violating the prohibition contained in UNSCR 1747 on the procurement and the provision by Iran of any arms and related materiel.</td><td></td></tr>
+<tr><td><table><tbody><tr><td>(a)</td><td>Bank Saderat PLC (London)</td></tr>
+</tbody>
+</table>
+</td><td>5 Lothbury, London, EC2R 7 HD, UK</td><td>100 % owned subsidiary of Bank Saderat</td><td></td></tr>
+</tbody>
+</table>
+
+(*1) In accordance with Council Implementing Regulation (EU) 2016/603, this entry shall apply until 22 October 2016.’

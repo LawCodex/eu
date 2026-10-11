@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 93/68/EEC of 22 July 1993 </td><td> L 220</td><td>1</td><td>30.8.1993</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td> M3</td><td> DIRECTIVE 2005/32/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 July 2005 </td><td> L 191</td><td>29</td><td>22.7.2005</td></tr>
 <tr><td> M4</td><td> DIRECTIVE 2008/28/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 81</td><td>48</td><td>20.3.2008</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) No 813/2013 of 2 August 2013 </td><td> L 239</td><td>136</td><td>6.9.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 92/42/EEC**
 

@@ -1,0 +1,1029 @@
+---
+title: "Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011"
+identifier: "32016R0044"
+eli: "http://data.europa.eu/eli/reg/2016/44/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-01-18
+entry_into_force: 2018-04-29
+last_amended: 2026-06-16
+consolidated_version: "02016R0044-20260616"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0044-20260616"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011
+
+**COUNCIL REGULATION (EU) 2016/44**
+
+**of 18 January 2016**
+
+**concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/466 of 31 March 2016 </td><td> L 85</td><td>3</td><td>1.4.2016</td></tr>
+<tr><td> M2</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/690 of 4 May 2016 </td><td> L 120</td><td>1</td><td>5.5.2016</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/819 of 24 May 2016 </td><td> L 136</td><td>8</td><td>25.5.2016</td></tr>
+<tr><td> M4</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/1334 of 4 August 2016 </td><td> L 212</td><td>3</td><td>5.8.2016</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/1687 of 20 September 2016 </td><td> L 255</td><td>12</td><td>21.9.2016</td></tr>
+<tr><td> M6</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/1752 of 30 September 2016 </td><td> L 268</td><td>77</td><td>1.10.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/488 of 21 March 2017 </td><td> L 76</td><td>1</td><td>22.3.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/489 of 21 March 2017 </td><td> L 76</td><td>3</td><td>22.3.2017</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/1325 of 17 July 2017 </td><td> L 185</td><td>16</td><td>18.7.2017</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/1419 of 4 August 2017 </td><td> L 204</td><td>1</td><td>5.8.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1423 of 4 August 2017 </td><td> L 204</td><td>80</td><td>5.8.2017</td></tr>
+<tr><td> M12</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1456 of 10 August 2017 </td><td> L 208</td><td>31</td><td>11.8.2017</td></tr>
+<tr><td> M13</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1974 of 30 October 2017 </td><td> L 281</td><td>27</td><td>31.10.2017</td></tr>
+<tr><td> M14</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/2006 of 8 November 2017 </td><td> L 290</td><td>17</td><td>9.11.2017</td></tr>
+<tr><td> M15</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/2260 of 5 December 2017 </td><td> L 324</td><td>39</td><td>8.12.2017</td></tr>
+<tr><td> M16</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/126 of 24 January 2018 </td><td> L 22</td><td>12</td><td>26.1.2018</td></tr>
+<tr><td> M17</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/166 of 2 February 2018 </td><td> L 31</td><td>82</td><td>3.2.2018</td></tr>
+<tr><td> M18</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/200 of 9 February 2018 </td><td> L 38</td><td>11</td><td>10.2.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/711 of 14 May 2018 </td><td> L 119</td><td>35</td><td>15.5.2018</td></tr>
+<tr><td> M20</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/870 of 14 June 2018 </td><td> L 152</td><td>1</td><td>15.6.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1073 of 30 July 2018 </td><td> L 194</td><td>30</td><td>31.7.2018</td></tr>
+<tr><td> M22</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1245 of 18 September 2018 </td><td> L 235</td><td>1</td><td>19.9.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1285 of 24 September 2018 </td><td> L 240</td><td>4</td><td>25.9.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1863 of 28 November 2018 </td><td> L 304</td><td>1</td><td>29.11.2018</td></tr>
+<tr><td> M25</td><td> COUNCIL REGULATION (EU) 2018/2004 of 17 December 2018 </td><td> L 322</td><td>12</td><td>18.12.2018</td></tr>
+<tr><td> M26</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1292 of 31 July 2019 </td><td> L 204</td><td>1</td><td>2.8.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/371 of 5 March 2020 </td><td> L 71</td><td>5</td><td>6.3.2020</td></tr>
+<tr><td> M29</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1130 of 30 July 2020 </td><td> L 247</td><td>14</td><td>31.7.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1309 of 21 September 2020 </td><td> L 305I</td><td>1</td><td>21.9.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1380 of 1 October 2020 </td><td> L 320</td><td>1</td><td>2.10.2020</td></tr>
+<tr><td> M32</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1481 of 14 October 2020 </td><td> L 341</td><td>7</td><td>15.10.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/538 of 26 March 2021 </td><td> L 108</td><td>8</td><td>29.3.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/667 of 23 April 2021 </td><td> L 141</td><td>1</td><td>26.4.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1005 of 21 June 2021 </td><td> L 222</td><td>1</td><td>22.6.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/1241 of 29 July 2021 </td><td> L 272</td><td>1</td><td>30.7.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/1909 of 4 November 2021 </td><td> L 389I</td><td>1</td><td>4.11.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/1932 of 9 November 2021 </td><td> L 396</td><td>1</td><td>10.11.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/2192 of 13 December 2021 </td><td> L 445I</td><td>1</td><td>13.12.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/183 of 10 February 2022 </td><td> L 30</td><td>1</td><td>11.2.2022</td></tr>
+<tr><td> M41</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1308 of 26 July 2022 </td><td> L 198</td><td>1</td><td>27.7.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1502 of 9 September 2022 </td><td> L 235</td><td>4</td><td>12.9.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2525 of 21 December 2022 </td><td> L 328</td><td>64</td><td>22.12.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/1433 of 10 July 2023 </td><td> L 176</td><td>1</td><td>11.7.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2501 of 9 November 2023 </td><td> L 2501</td><td>1</td><td>10.11.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2504 of 9 November 2023 </td><td> L 2504</td><td>1</td><td>10.11.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/757 of 26 February 2024 </td><td> L 757</td><td>1</td><td>27.2.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2011 of 22 July 2024 </td><td> L 2011</td><td>1</td><td>23.7.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/190 of 27 January 2025 </td><td> L 190</td><td>1</td><td>28.1.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/813 of 25 April 2025 </td><td> L 813</td><td>1</td><td>28.4.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1583 of 29 July 2025 </td><td> L 1583</td><td>1</td><td>30.7.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/1332 of 12 June 2026 </td><td> L 1332</td><td>1</td><td>15.6.2026</td></tr>
+</table>
+
+C1
+
+C2
+
+C3
+
+**COUNCIL REGULATION (EU) 2016/44**
+
+**of 18 January 2016**
+
+**concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘funds’ means financial assets and benefits of every kind, including but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly- and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale;
+
+(vii) documents evidencing an interest in funds or financial resources;
+
+(b) ‘freezing of funds’ means preventing any move, transfer, alteration or use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(c) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds but may be used to obtain funds, goods or services;
+
+(d) ‘freezing of economic resources’ means preventing their use to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(e) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, the transmission of working knowledge or skills or consulting services, including verbal forms of assistance;
+
+(f) ‘Sanctions Committee’ means the Committee of the United Nations Security Council which was established pursuant to paragraph 24 of UNSCR 1970 (2011);
+
+(g) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace;
+
+(h) ‘designated vessels’ means vessels designated by the Sanctions Committee as referred to in paragraph 11 of UNSCR 2146 (2014), as listed in Annex V to this Regulation;
+
+(i) ‘the Government of Libya focal point’ means the focal point appointed by the Government of Libya as notified to the Sanctions Committee in accordance with paragraph 3 of UNSCR 2146 (2014);
+
+(j) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology, or of financial and technical services, from a third country to any other third country; or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, that are located in third countries for their transfer to another third country;
+
+(k) ‘financing or financial assistance’ means any action, irrespective of the particular means chosen, whereby the natural or legal person, entity or body concerned, conditionally or unconditionally, disburses or commits to disburse its own funds or economic resources, including but not limited to grants, loans, guarantees, suretyships, bonds, letters of credit, supplier credits, buyer credits, import or export advances and all types of insurance and reinsurance, including export credit insurance. Payment as well as terms and conditions of payment of the agreed price for a good or a service, made in line with normal business practice, do not constitute financing or financial assistance;
+
+(l) ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex IV.
+
+## Article 2
+
+1\. It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, equipment which might be used for internal repression as listed in Annex I, whether or not originating in the Union, to any natural or legal person, entity or body in Libya or for use in Libya;
+
+(b) to provide, directly or indirectly, technical assistance or brokering services related to equipment which might be used for internal repression as listed in Annex I, to any natural or legal person, entity or body in Libya or for use in Libya;
+
+(c) to provide, directly or indirectly, financing or financial assistance related to equipment which might be used for internal repression as listed in Annex I, for any sale, supply, transfer or export of such items, or for any provision of related technical assistance to any natural or legal person, entity or body in Libya or for use in Libya;
+
+(d) to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibitions referred to in points (a) to (c).
+
+2\. It shall be prohibited to purchase, import or transport from Libya equipment which might be used for internal repression as listed in Annex I, whether or not the item concerned originates in Libya.
+
+3\. Paragraph 1 shall not apply to protective clothing, including flak jackets and military helmets, temporarily exported to Libya by UN personnel, personnel of the Union or its Member States, representatives of the media and humanitarian and development workers and associated personnel for their personal use only.
+
+4\. By way of derogation from paragraph 1, the competent authorities may authorise the sale, supply, transfer or export of equipment which might be used for internal repression, under such conditions as they deem appropriate, if they determine that such equipment is intended solely for humanitarian or protective use.
+
+5\. By way of derogation from paragraph 1, the competent authorities, may authorise the provision of technical assistance, financing and financial assistance related to equipment which might be used for internal repression, under such conditions as they deem appropriate, if they determine that such equipment is intended solely for humanitarian or protective use.
+
+## Article 2a
+
+1\. Prior authorisation shall be required for:
+
+(a) the sale, supply, transfer or export, directly or indirectly, of the goods set out in Annex VII, whether or not originating in the Union, to any person, entity or body in Libya or for use in Libya;
+
+(b) the provision of technical assistance or brokering services related to goods set out in Annex VII or related to the provision, manufacture, maintenance and use of such goods, directly or indirectly, to any person, entity or body in Libya or for use in Libya;
+
+(c) the provision of financing or financial assistance related to goods set out in Annex VII, including in particular grants, loans and export credit insurance for any sale, supply, transfer or export of such items, or for any provision of related technical assistance or brokering services, directly or indirectly, to any person, entity or body in Libya or for use in Libya.
+
+2\. Annex VII shall include the items which could be used for the smuggling of migrants and trafficking in human beings.
+
+3\. Paragraph 1 shall not apply to the sale, supply, transfer or export, directly or indirectly, of goods set out in Annex VII, as well as the provision of technical assistance, brokering services, financing or financial assistance related to those goods by authorities of Member States to the Libyan government.
+
+4\. The competent authority concerned shall not grant authorisation referred to in paragraph 1 when there are reasonable grounds to believe that the goods would be used for the purpose of smuggling of migrants and trafficking in human beings.
+
+5\. Where a competent authority listed in Annex IV refuses to grant authorisation, or annuls, suspends, substantively modifies or revokes authorisation in accordance with this Article, the Member State concerned shall notify the other Member States and the Commission thereof and share the relevant information with them.
+
+## Article 3
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, the goods and technology listed in the Common Military List of the European Union ( 1 ) (the Common Military List), as well as firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012 of the European Parliament and of the Council ( 2 ), whether or not originating in the Union, to any natural or legal person, entity or body in Libya or for use in Libya.
+
+2\. It shall be prohibited:
+
+(a) to provide, directly or indirectly, technical assistance or brokering services related to the goods and technology listed in the Common Military List or firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012 or related to the provision, manufacture, maintenance and use of such items, to any natural or legal person, entity or body in Libya or for use in Libya;
+
+(b) to provide, directly or indirectly, financing or financial assistance related to the goods and technology listed in the Common Military List or firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012 for any sale, supply, transfer or export of such items, or for any provision of related technical assistance or brokering services to any natural or legal person, entity or body in Libya or for use in Libya;
+
+(c) to provide, directly or indirectly, technical assistance, financing or financial assistance related to the provision of armed mercenary personnel in Libya or for use in Libya;
+
+(d) to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibitions referred to in points (a) to (c).
+
+3\. Paragraphs 1 and 2 shall not apply to:
+
+(a) the sale, supply, transfer or export of non-lethal military equipment or the provision of related technical assistance, brokering services, financing or financial assistance intended solely for humanitarian purposes or protective use;
+
+(b) protective clothing, including flak jackets and military helmets, temporarily exported to Libya by UN personnel, personnel of the Union or its Member States, representatives of the media and humanitarian and development workers and associated personnel for their personal use only;
+
+(c) the sale, supply, transfer or export of non-lethal military equipment or the provision of related technical assistance, brokering services, financing or financial assistance intended solely for security or disarmament assistance to the Libyan government.
+
+4\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the sale, supply, transfer or export of goods and technology referred to in paragraph 1 or the provision of technical assistance, brokering services, financing or financial assistance referred to in paragraph 2, provided that the Sanctions Committee has approved such sale, supply, transfer or export, or the provision of related technical assistance, brokering services, financing or financial assistance in advance.
+
+5\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the sale, supply, transfer or export of goods and technology referred to in paragraph 1 or the provision of technical assistance, brokering services, financing or financial assistance referred to in paragraph 2 intended solely for security or disarmament assistance to the Libyan government, provided that the Sanctions Committee has approved such sale, supply, transfer or export, or the provision of related technical assistance, brokering services, financing or financial assistance in advance.
+
+6\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the sale, supply, transfer or export of arms, light weapons and related materiel, temporarily exported to Libya for the sole use of UN personnel, representative of the media and humanitarian and development workers and associated personnel, provided that the Member State concerned has notified the Sanctions Committee in advance and the Sanctions Committee has not objected to that course of action within five working days of such a notification.
+
+7\. Paragraphs 1 and 2 shall not apply to the provision of technical assistance referred to in paragraph 2 by Member States to Libyan security forces intended solely to promote the process of reunification of Libyan military and security institutions, as well as the temporary entry into Libya of goods and technology referred to in paragraph 1 intended solely for use by the non-Libyan providers of such technical assistance, for the delivery of such assistance or for their protective use, provided that the Member State concerned has notified the Sanctions Committee in advance.
+
+8\. Paragraphs 1 and 2 shall not apply to military aircraft or naval vessels, temporarily introduced into the territory of Libya by a Member State, solely to deliver items or to facilitate activities otherwise exempted or not covered by paragraphs 1 and 2, including humanitarian assistance, as well as to goods and technology referred to in paragraph 1 for defensive purposes that remain at all times aboard the vessel or aircraft while temporarily in Libya, or on the person of any non-Libyan personnel temporarily disembarked from such vessel or aircraft.
+
+## Article 3a
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, the goods and technology listed in the Common Military List, as well as firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012 of the European Parliament and of the Council, from Libya, whether or not originating in the territory of Libya.
+
+## Article 4
+
+To prevent the transfer of goods and technology which are covered by the Common Military List or the supply, sale, transfer, export or import of which is prohibited by this Regulation, for all goods brought into or leaving the customs territory of the Union from or to Libya, in addition to the rules governing the obligation to provide pre-arrival and pre-departure information as determined in the relevant provisions concerning entry and exit summary declarations as well as customs declarations in Regulations (EC) No 450/2008 ( 3 ) and (EU) No 952/2013 ( 4 ) of the European Parliament and of the Council, the person who provides that information shall declare whether the goods are covered by the Common Military List or by this Regulation and, where the exported goods are subject to authorisation, specify the particulars of the export licence granted. These additional elements shall be submitted to the competent customs authorities of the Member State concerned either in written form or using a customs declaration, as appropriate.
+
+## Article 5
+
+1\. All funds and economic resources belonging to, owned, held or controlled by the natural or legal persons, entities and bodies listed in Annexes II and III shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities or bodies listed in Annexes II and III.
+
+3\. The participation, knowingly and intentionally, in activities the object or effect of which is, directly or indirectly, to circumvent the measures referred to in paragraphs 1 and 2 shall be prohibited.
+
+4\. All funds and economic resources belonging to, or owned, held or controlled on 16 September 2011 by the entities listed in Annex VI and located outside Libya on that date, shall remain frozen.
+
+5\. Paragraphs 1 and 2 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental Organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Sanctions Committee as regards Annexes II and VI, and by the Council as regards Annex III.
+
+## Article 6
+
+1\. Annex II shall include the natural or legal persons, entities and bodies designated by the Security Council or by the Sanctions Committee in accordance with paragraph 22 of UNSCR 1970 (2011), paragraph 19, 22 or 23 of UNSCR 1973 (2011), paragraph 4 of UNSCR 2174 (2014), paragraph 11 of UNSCR 2213 (2015), paragraph 11 of UNSCR 2362 (2017), paragraph 11 of UNSCR 2441 (2018), paragraph 18 of UNSCR 2769 (2025) or paragraph 19 of UNSCR 2819 (2026).
+
+2\. Annex III shall consist of natural or legal persons, entities and bodies, not covered by Annex II that:
+
+(a) are involved in or complicit in ordering, controlling, or otherwise directing the commission of serious human rights abuses against persons in Libya, including by being involved or complicit in planning, commanding, ordering or conducting attacks, including aerial bombardments, in violation of international law on civilian populations or facilities;
+
+(b) have violated or have assisted in violating the provisions of UNSCR 1970 (2011), UNSCR 1973 (2011) or of this Regulation;
+
+(c) have been identified as having been involved in the repressive policies of the former regime of Muammar Qadhafi in Libya, or otherwise formerly associated with that regime, and pose a continued risk to the peace, stability or security of Libya, or to the successful completion of the Libyan political transition;
+
+(d) are engaged in or provide support for acts that threaten the peace, stability or security of Libya or obstruct or undermine the successful completion of Libya’s political transition, including by:
+
+(i) planning, directing, or committing acts in Libya that violate applicable international human rights law or international humanitarian law, or acts that constitute human rights abuses, in Libya;
+
+(ii) attacks against any air, land or sea port in Libya, or against a Libyan state institution or installation, or against any foreign mission in Libya;
+
+(iii) providing support for armed groups or criminal networks through the illicit exploitation of crude oil or any other natural resources in Libya;
+
+(iv) threatening or coercing Libyan State financial institutions and the Libyan National Oil Company, or engaging in any action that may lead to or result in the misappropriation of Libyan State funds;
+
+(v) violating, or assisting in the evasion of, the provisions of the arms embargo in Libya established in UNSCR 1970 (2011) and Article 1 of this Regulation;
+
+(vi) obstructing or undermining the elections planned for in the Libyan Political Dialogue Forum roadmap;
+
+(vii) being persons, entities or bodies acting for or on behalf or at the direction of any of the above, or being entities or bodies owned or controlled by them or by persons, entities or bodies listed in Annex II or III; or
+
+(e) own or control Libyan State funds misappropriated during the former regime of Muammar Qadhafi in Libya which could be used to threaten the peace, stability or security of Libya, or to obstruct or undermine the successful completion of its political transition.
+
+3\. Annexes II and III shall include the grounds for the listing of listed persons, entities and bodies, as provided by the Security Council or by the Sanctions Committee for Annex II.
+
+4\. Annexes II and III shall include, where available, information necessary to identify the natural or legal persons, entities and bodies concerned, as provided by the Security Council or by the Sanctions Committee for Annex II. With regard to natural persons, such information may include names, including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business. Annex II shall also include the date of designation by the Security Council or by the Sanctions Committee.
+
+5\. Annex VI shall include the grounds for listing for the persons, entities and bodies referred to in Article 5(4) of this Regulation, as provided by the Security Council or the Sanctions Committee.
+
+## Article 7
+
+With regard to persons, entities and bodies not designated in Annex II or III, in which a person, entity or body designated in those Annexes has a stake, the obligation to freeze the funds and economic resources of the designated person, entity or body shall not prevent such non-designated persons, entities or bodies from continuing to conduct legitimate business in so far as this business does not involve making available any funds or economic resources to a designated person, entity or body.
+
+## Article 8
+
+1\. By way of derogation from Article 5, the competent authorities in the Member States, as indicated on the websites listed in Annex IV, may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources are:
+
+(a) necessary to satisfy the basic needs of persons listed in Annex II or III or referred to in Article 5(4), and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources,
+
+provided that, where the authorisation concerns a person, entity or body listed in Annex II or referred to in Article 5(4), the Member State concerned has notified the Sanctions Committee of that determination and its intention to grant an authorisation, and the Sanctions Committee has not objected to that course of action within five working days of notification.
+
+2\. By way of derogation from Article 5, the competent authorities of the Member States, as indicated on the websites listed in Annex IV, may authorise the release of certain frozen funds or economic resources, or the making available of certain frozen funds or economic resources, after having determined that the frozen funds or economic resources are necessary for extraordinary expenses provided that the following conditions are met:
+
+(a) where the authorisation concerns a person, entity or body listed in Annex II or referred to in Article 5(4), the Sanctions Committee has been notified of that determination by the Member State concerned and the determination has been approved by that Committee; and
+
+(b) where the authorisation concerns a person, entity or body listed in Annex III, the competent authority has notified the grounds on which it considers that a specific authorisation should be granted to the competent authorities of the other Member States and to the Commission at least two weeks before the authorisation.
+
+## Article 9
+
+1\. By way of derogation from Article 5, with regard to persons, entities or bodies listed in Annex II and entities referred to in Article 5(4), the competent authorities in the Member States, as listed in Annex IV, may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources in question are the subject of a judicial, administrative or arbitral lien established or of a judicial, administrative or arbitral judgement rendered:
+
+(i) prior to the date on which the person, entity or body was included in Annex II; or
+
+(ii) prior to the date on which the entity referred to in Article 5(4) was designated by the Security Council;
+
+(b) the funds or economic resources in question will be used exclusively to satisfy claims secured by such a lien or recognised as valid in such a judgment, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the lien or judgment is not for the benefit of a person, entity or body listed in Annex II or III;
+
+(d) recognising the lien or judgment is not contrary to public policy in the Member State concerned; and
+
+(e) the Sanctions Committee has been notified by the Member State of the lien or judgment.
+
+2\. By way of derogation from Article 5, with regard to persons, entities or bodies listed in Annex III, the competent authorities in the Member States, as listed in Annex IV, may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources in question are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 5 was included in Annex III, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources in question will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex II or III; and
+
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+3\. The relevant Member State shall inform the other Member States and the Commission of any authorisation granted under this Article.
+
+## Article 10
+
+Without prejudice to Article 5(5), by way of derogation from Article 5(1) and (2) the competent authorities in the Member States, as listed in Annex IV, may authorise the release of frozen funds or economic resources belonging to persons, entities or bodies listed in Annex III, or the making available of certain funds or economic resources to persons, entities or bodies listed in Annex III, under such conditions as they deem appropriate, where they consider it necessary for humanitarian purposes, such as the delivery and facilitation of delivery of humanitarian aid, the delivery of materials and supplies necessary for essential civilian needs, including food and agricultural materials for its production, medical products and the provision of electricity, or for evacuations from Libya. The Member State concerned shall inform other Member States and the Commission of authorisations made under this Article within two weeks of the authorisation.
+
+## Article 11
+
+1\. Without prejudice to Article 5(5), the competent authorities of the Member States, as indicated on the websites listed in Annex IV, may authorise the release of certain frozen funds or economic resources, provided that:
+
+(a) the funds or economic resources are used for one or more of the following purposes:
+
+(i) humanitarian needs;
+
+(ii) fuel, electricity and water for strictly civilian uses;
+
+(iii) resuming Libyan production and sale of hydrocarbons;
+
+(iv) establishing, operating, or strengthening institutions of civilian government and civilian public infrastructure; or,
+
+(v) facilitating the resumption of banking sector operations, including to support or facilitate international trade with Libya;
+
+(b) the Member State concerned has notified to the Sanctions Committee its intention to authorise access to funds or economic resources, and the Sanctions Committee has not objected within five working days of such a notification;
+
+(c) the Member State concerned has notified the Sanctions Committee that those funds or economic resources shall not be made available to or for the benefit of any person, entity or body listed in Annex II or III;
+
+(d) the Member State concerned has consulted in advance with the Libyan authorities about the use of such funds or economic resources; and
+
+(e) the Member State concerned has shared with the Libyan authorities the notifications submitted pursuant to points (b) and (c) of this paragraph and the Libyan authorities have not objected within five working days to the release of such funds or economic resources.
+
+2\. By way of derogation from Article 5(4) and provided that a payment is due under a contract or agreement that was concluded by, or an obligation that arose for, the person, entity or body concerned, before the date on which that person, entity or body had been designated by the Security Council or the Sanctions Committee, the competent authorities of the Member States, as indicated on the websites listed in Annex IV, may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the competent authority concerned has determined that the payment is not in breach of Article 5(2) nor is it for the benefit of an entity referred to in Article 5(4);
+
+(b) the Sanctions Committee has been notified by the relevant Member State of the intention to grant an authorisation ten working days in advance.
+
+## Article 11a
+
+1\. After notification by the Member State concerned to the Sanctions Committee and provided that the Sanctions Committee has approved the use of frozen cash reserves as referred to in, and in accordance with, paragraph 14 of UNSCR 2769 (2025), which includes consultation with the Government of Libya, and paragraph 14 of UNSCR 2819 (2026), the competent authorities of that Member State shall authorise the use of frozen cash reserves belonging to the entity listed under entry number 1 in Annex VI, exclusively for investment in:
+
+(a) low-risk time deposits with an appropriate financial institution selected by the entity listed under entry number 1 in Annex VI and located in the Member State in which the funds are frozen, in the case of frozen cash reserves referred to in ‘recommendation 7.1’ referred to in UNSCR 2769 (2025); or
+
+(b) fixed income instruments, in the case of frozen cash reserves referred to in ‘recommendation 7.2’ referred to in UNSCR 2769 (2025);
+
+in accordance with the approval of the Sanctions Committee.
+
+2\. The low-risk time deposits referred to in point (a) of paragraph 1 and the interests accrued thereon shall remain frozen. The fixed income instruments referred to in point (b) of paragraph 1 and the income accrued thereon shall remain frozen. Each reinvestment shall be subject to the procedure referred to in paragraph 1.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1, within two weeks of the authorisation.
+
+## Article 11b
+
+1\. After notification by the Member State concerned to the Sanctions Committee and provided that the Sanctions Committee has approved the transfer of frozen funds or economic resources, and in accordance with paragraph 15 of UNSCR 2819 (2026), the competent authorities of that Member State shall authorise the transfer of certain frozen funds or economic resources belonging to the entity listed under entry number 1 in Annex VI, within the same jurisdiction, between the custodial bank, or financial institution acting as global custodian (or any sub-custodians acting on their behalf), to another custodial bank, or financial institution (or any sub-custodians acting on their behalf), for the purpose of transferring the role of global custodian to that custodial bank or financial institution, provided that:
+
+(a) throughout and upon completion of the transfer, the assets shall be treated as frozen and subject to measures imposed by this Regulation;
+
+(b) the transfer shall be executed in a manner maintaining the form and value of the funds or economic resources being transferred.
+
+2\. The notification referred to in paragraph 1 by the Member State concerned to the Sanctions Committee shall include the amount and nature of the frozen funds or economic resources to be transferred and the identity of the current and proposed custodial banks, or financial institutions acting in a custodial capacity.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1, within two weeks of the authorisation.
+
+## Article 12
+
+1\. Article 5(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 5 has been designated by the Sanctions Committee, the Security Council or by the Council;
+
+(c) payments due under judicial, administrative or arbitral lien or judgment, as referred to in Article 9(1); or
+
+(d) payments due under judicial, administrative or arbitral decisions rendered in the Union, or enforceable in the Member State concerned, as referred to in Article 9(2),
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 5(1).
+
+2\. Article 5(2) shall not prevent financial or credit institutions in the Union from crediting frozen accounts where they receive funds transferred to the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+## Article 13
+
+By way of derogation from Article 5, and provided that a payment by a person, entity or body listed in Annex II or III is due under a contract or agreement that was concluded by, or an obligation that arose for the person, entity or body concerned, before the date on which that person, entity or body had been designated, the competent authorities of the Member States, as indicated on the websites listed in Annex IV, may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the competent authority concerned has determined that:
+
+(i) the funds or economic resources shall be used for a payment by a person, entity or body listed in Annex II or III;
+
+(ii) the payment is not in breach of Article 5(2);
+
+(b) where the authorisation concerns a person, entity or body listed in Annex II, the Sanctions Committee has been notified by the relevant Member State of the intention to grant an authorisation ten working days in advance;
+
+(c) where the authorisation concerns a person, entity or body listed in Annex III, the Member State concerned has, at least two weeks prior to the grant of the authorisation, notified the other Member States and the Commission of that determination and its intention to grant an authorisation.
+
+## Article 14
+
+By way of derogation from Article 5(2), the competent authorities in the Member States, as indicated on the websites listed in Annex IV, may authorise the making available of certain funds or economic resources to port authorities listed in Annex III in relation to the execution, until 15 July 2011, of contracts concluded before 7 June 2011, with the exception of contracts relating to oil, gas and refined oil products. The Member State shall inform other Member States and the Commission of authorisations made under this Article within two weeks of the authorisation.
+
+## Article 15
+
+1\. It shall be prohibited to load, transport or discharge petroleum, including crude oil and refined petroleum products from Libya on designated vessels flying the flag of a Member State unless authorised by the competent authority of that Member State after consultation with the Government of Libya focal point.
+
+2\. It shall be prohibited to accept or provide access to ports in the territory of the Union to designated vessels, if the Sanctions Committee has so specified.
+
+3\. The measure laid down in paragraph 2 shall not apply where the entry to a port in the territory of the Union is necessary for an inspection, in the case of an emergency or where the vessel is returning to Libya.
+
+4\. The provision by nationals of Member States or from territories of Member States of bunkering or ship supply services, or any other servicing of vessels, to designated vessels, including the provision of fuel or supplies, shall, if the Sanctions Committee has so specified, be prohibited.
+
+5\. The competent authorities of the Member States identified in Annex IV may grant exemptions to the measure imposed by paragraph 4 where necessary for humanitarian or safety purposes, or where the vessel is returning to Libya. Any such authorisation shall be notified in writing to the Sanctions Committee and the Commission.
+
+6\. Financial transactions including the sale, the use as credit and the taking out of transport insurance, with respect to petroleum, including crude oil and refined petroleum products aboard designated vessels, shall be prohibited, if the Sanctions Committee has so specified. Such prohibition shall not apply to the acceptance of port fees in the cases referred to in paragraph 3.
+
+## Article 16
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to liability of any kind on their part, if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 17
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of that type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated persons, entities or bodies listed in Annex II or III;
+
+(b) any other Libyan person, entity or body, including the Libyan government;
+
+(c) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a) or (b).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 18
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as accounts and amounts frozen in accordance with Article 5 to the competent authority in the Member State where they are resident or located, as indicated on the websites listed in Annex IV, and shall transmit such information, either directly or through the Member States, to the Commission; and
+
+(b) cooperate with that competent authority in any verification of this information.
+
+2\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+3\. Paragraph 2 shall not prevent Member States from sharing that information, in accordance with their national law, with the relevant authorities of Libya and other Member States where necessary for the purpose of assisting the recovery of misappropriated assets.
+
+## Article 19
+
+Member States and the Commission shall immediately inform each other of the measures taken under this Regulation and shall supply each other with any other relevant information at their disposal in connection with this Regulation, in particular information in respect of violation and enforcement problems and judgments handed down by national courts.
+
+## Article 20
+
+The Commission shall be empowered to:
+
+(a) amend Annex IV on the basis of information supplied by Member States;
+
+(b) amend Annex V pursuant to amendments of Annex V to Decision (CFSP) 2015/1333 and on the basis of determinations made by the Sanctions Committee under paragraphs 11 and 12 of UNSCR 2146 (2014);
+
+(c) amend Annex VII in order to refine or adapt the list of goods included which could be used for smuggling of migrants and trafficking in human beings or to update the nomenclature codes from the Combined Nomenclature as set out in Annex I to Regulation (EEC) No 2658/87.
+
+## Article 21
+
+1\. Where the Security Council or the Sanctions Committee lists a natural or legal person, entity or body, the Council shall include that natural or legal person, entity or body in Annex II or VI.
+
+2\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 6(2), it shall amend Annex III accordingly.
+
+3\. The Council shall communicate its decision, including the grounds for listing, to the natural or legal person, entity or body referred to in paragraphs 1 and 2 either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+4\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body referred to in paragraphs 1 and 2 accordingly.
+
+5\. Where the Security Council or the Sanctions Committee decides to de-list a person, entity or body, or to amend the identifying data of a listed natural or legal person, entity or body, the Council shall amend Annex II or VI accordingly.
+
+6\. The list in Annex III shall be reviewed at regular intervals and at least every 12 months.
+
+## Article 22
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission of those rules without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 22a
+
+1\. A Member State assisting EUNAVFOR MED IRINI in accordance with Article 2(5) of Council Decision (CFSP) 2020/472 ( 5 ) shall take the necessary measures to dispose on behalf of EUNAVFOR MED IRINI of arms or related materiel, including goods and technology which are covered by the Union’s Common Military List, which are transported on the high seas in breach of the prohibition referred to in Article 5a(1) of Decision (CFSP) 2015/1333, and which were seized by EUNAVFOR MED IRINI on the high seas pursuant to Article 2(3) of Decision (CFSP) 2020/472.
+
+2\. The disposal referred to in paragraph 1 may take place, notably, through destruction of those items, rendering them inoperable or by allowing their use, including by a third party, whilst preventing their subsequent transfer to Libya or to any other third country to which the transfer of arms or related materiel is prohibited.
+
+## Article 23
+
+Where there is, in this Regulation, a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex IV.
+
+## Article 24
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 25
+
+Regulation (EU) No 204/2011 is repealed. References to the repealed Regulation shall be construed as references to this Regulation.
+
+## Article 26
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF EQUIPMENT WHICH MIGHT BE USED FOR INTERNAL REPRESSION AS REFERRED TO IN ARTICLES 2, 3 AND 4**
+
+1\. Firearms, ammunition and related accessories therefor, as follows:
+
+1.1 Firearms not controlled by ML 1 and ML 2 of the Common Military List of the European Union ( 6 ) (Common Military List);
+
+1.2 Ammunition specially designed for the firearms listed in item 1.1 and specially designed components therefor;
+
+1.3 Weapon-sights not controlled by the Common Military List.
+
+2\. Bombs and grenades not controlled by the Common Military List.
+
+3\. Vehicles as follows:
+
+3.1 Vehicles equipped with a water cannon, specially designed or modified for the purpose of riot control;
+
+3.2 Vehicles specially designed or modified to be electrified to repel borders;
+
+3.3 Vehicles specially designed or modified to remove barricades, including construction equipment with ballistic protection;
+
+3.4 Vehicles specially designed for the transport or transfer of prisoners and/or detainees;
+
+3.5 Vehicles specially designed to deploy mobile barriers;
+
+3.6 Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control.
+
+Note 1: This item does not control vehicles specially designed for the purposes of fire-fighting.
+
+Note 2: For the purposes of item 3.5 the term ‘vehicles’ includes trailers.
+
+4\. Explosive substances and related equipment as follows:
+
+4.1 Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including firing sets, detonators, igniters, boosters and detonating cord, and specially designed components therefor; except those specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the creation of explosions (e.g., car air-bag inflaters, electric-surge arresters of fire sprinkler actuators);
+
+4.2 Linear cutting explosive charges not controlled by the Common Military List;
+
+4.3 Other explosives not controlled by the Common Military List and related substances as follows:
+
+(a) amatol;
+
+(b) nitrocellulose (containing more than 12,5 % nitrogen);
+
+(c) nitroglycol;
+
+(d) pentaerythritol tetranitrate (PETN);
+
+(e) picryl chloride;
+
+(f) 2,4,6-trinitrotoluene (TNT).
+
+5\. Protective equipment not controlled by ML 13 of the Common Military List as follows:
+
+5.1 Body armour providing ballistic and/or stabbing protection;
+
+5.2 Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.
+
+Note: This item does not control:
+
+— equipment specially designed for sports activities;
+
+— equipment specially designed for safety of work requirements.
+
+6\. Simulators, other than those controlled by ML 14 of the Common Military List, for training in the use of firearms, and specially designed software therefor.
+
+7\. Night vision, thermal imaging equipment and image intensifier tubes, other than those controlled by the Common Military List.
+
+8\. Razor barbed wire.
+
+9\. Military knives, combat knives and bayonets with blade lengths in excess of 10 cm.
+
+10\. Production equipment specially designed for the items specified in this list.
+
+11\. Specific technology for the development, production or use of the items specified in this list.
+
+## ANNEX II
+
+**LIST OF NATURAL AND LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLE 6(1)**
+
+**A. Persons**
+
+**6\. Name: 1: ABU 2: ZAYD 3: UMAR 4: DORDA**
+
+Title: na Designation: a) Director, External Security Organisation. b) Head of external intelligence agency. DOB: 4 Apr. 1944 POB: Alrhaybat Good quality a.k.a.: a) Dorda Abuzed OE b) Abu Zayd Umar Hmeid Dorda Low quality a.k.a.: na Nationality: na Passport no: Libya number FK117RK0, issued on 25 Nov. 2018, issued in Tripoli (Date of expiration: 24 Nov 2026) National identification no: na Address: Libya (Believed status/location: deceased) Listed on: 26 Feb. 2011 (amended on 27 Jun. 2014, 1 Apr. 2016, 25 Feb. 2020, 18 Jul. 2022) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+
+**7\. Name: 1: ABU 2: BAKR 3: YUNIS 4: JABIR**
+
+Title: Major General Designation: Defence Minister. DOB: 1952 POB: Jalo, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 2 Apr. 2012) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525775
+
+**8\. Name: 1: MATUQ 2: MOHAMMED 3: MATUQ 4: na**
+
+Title: na Designation: Secretary for Utilities DOB: 1956 POB: Khoms, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 2 Apr. 2012) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed status/location: unknown, believed captured. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525795
+
+**10\. Name: 1: HANNIBAL 2: MUAMMAR 3: QADHAFI 4: na**
+
+Title: na Designation: na DOB: 20 Sep. 1975 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: Libya B/002210 National identification no: na Address: Lebanon (In custody) Listed on: 26 Feb. 2011 (amended on 11 Nov. 2016, 26 Sep. 2014, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525835
+
+**11\. Name: 1: KHAMIS 2: MUAMMAR 3: QADHAFI 4: na**
+
+Title: na Designation: na DOB: 1978 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 26 Sep. 2014, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525855
+
+**12\. Name: 1: MOHAMMED 2: MUAMMAR 3: QADHAFI 4: na**
+
+Title: na Designation: na DOB: 1970 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: Sultanate of Oman (Believed status/location: Sultanate of Oman) Listed on: 26 Feb. 2011 (amended on 26 Sep. 2014, 4 Sep. 2013, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525875
+
+**13\. Name: 1: MUAMMAR 2: MOHAMMED 3: ABU MINYAR 4: QADHAFI**
+
+Title: na Designation: Leader of the Revolution, Supreme Commander of Armed Forces DOB: 1942 POB: Sirte, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 4 Sep. 2013, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525895
+
+**14\. Name: 1: MUTASSIM 2: QADHAFI 3: na 4: na**
+
+Title: na Designation: National Security Adviser DOB: a) 1976 b) 5 Feb. 1974 POB: Tripoli, Libya Good quality a.k.a.: a) Almuatesem Bellah Muammer Qadhafi b) Mutassim Billah Abuminyar Qadhafi Low quality a.k.a.: a) Muatasmblla b) Muatasimbllah c) Moatassam Nationality: na Passport no: Libya B/001897 National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 1 Apr. 2016, 26 Sep. 2014, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). Believed status/location: deceased. Reportedly deceased in Sirte, Libya, on 20 October 2011. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525915
+
+**15\. Name: 1: SAADI 2: QADHAFI 3: na 4: na**
+
+Title: na Designation: Commander Special Forces DOB: a) 27 May 1973 b) 1 Jan. 1975 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: a) 014797 b) 524521 c) Libya number AA862825, issued on 19 May 2021, issued in Tripoli (expires 18 May 2029) National identification no: na Address: Libya (in custody) Listed on: 26 Feb. 2011 (amended on 28 Jan. 2022, 26 Mar. 2015, 2 Apr. 2012, 14 Mar. 2012) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+
+**16\. Name: 1: SAIF AL-ARAB 2: QADHAFI 3: na 4: na**
+
+Title: na Designation: na DOB: 1982 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 26 Feb. 2011 (amended on 2 Apr. 2012) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). Believed status/location: deceased. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525955
+
+**17\. Name: 1: SAIF AL-ISLAM 2: QADHAFI 3: na 4: na**
+
+Title: na Designation: Director, Qadhafi Foundation DOB: 25 Jun. 1972 POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: Libya B014995 National identification no: na Address: Libya (Believed status/location: restricted freedom of movement in Zintan, Libya) Listed on: 26 Feb. 2011 (amended on 11 Nov. 2016, 26 Sep. 2014, 2 Apr. 2012) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525975
+
+**18\. Name: 1: ABDULLAH 2: AL-SENUSSI 3: na 4: na**
+
+Title: Colonel Designation: Director Military Intelligence DOB: 1949 POB: Sudan Good quality a.k.a.: a) Abdoullah Ould Ahmed (Passport number: B0515260; DOB: 1948; POB: Anefif (Kidal), Mali; Date of issue: 10 Jan 2012; Place of issue: Bamako, Mali; Date of expiration: 10 Jan 2017.) b) Abdoullah Ould Ahmed (Mali ID Number 073/SPICRE; POB: Anefif, Mali; Date of issue: 6 Dec 2011; Place of issue: Essouck, Mali) Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: Libya (Believed status/location: in custody in Libya.) Listed on: 26 Feb. 2011 (amended on 27 Jun. 2014, 21 Mar. 2013) Other information: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5525995
+
+**19\. Name: 1: SAFIA 2: FARKASH 3: AL-BARASSI 4: na**
+
+Title: na Designation: na DOB: Approximately 1952 POB: Al Bayda, Libya Good quality a.k.a.: Safia Farkash Mohammed Al-Hadad, born 1 Jan. 1953 (Oman passport no 03825239, date of issue 4 May 2014, expiry 3 May 2024.) Low quality a.k.a.: na Nationality: na Passport no: 03825239 National identification no: 98606491 Address: a) Sultanate of Oman b) (Believed location — Egypt) Listed on: 24 Jun. 2011 (amended on 31 Jan. 2024, 1 Apr. 2016, 26 Mar. 2015, 26 Sep. 2014, 4 Sep. 2013, 2 Apr. 2012, 13 Feb. 2012) Other information: Listed pursuant to paragraph 19 of resolution 1973 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.
+
+**21\. Name: 1: ERMIAS 2: ALEM 3: na 4: na**
+
+Title: na Designation: Leader of a transnational trafficking network DOB: Approximately 1980 POB: Eritrea Good quality a.k.a.: Ermias Ghermay, Guro Low quality a.k.a.: a) Ermies Ghermay b) Ermias Ghirmay Nationality: Eritrea Passport no: na National identification no: na Address: (Known address: Tripoli, Tarig sure no. 51, likely moved to Sabratha in 2015.) Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015).
+
+Additional information
+
+Ermias Alem is extensively documented by multiple reliable sources, including criminal investigations, identifying him as one of the most important sub-Saharan actors involved in the illicit trafficking of migrants in Libya. Ermias Alem is a leader of a transnational network responsible for trafficking and smuggling tens of thousands of migrants, mainly from the Horn of Africa to the coast of Libya and onwards to destination countries in Europe and the United States. He has armed men at his disposal, as well as warehouses and detention camps where serious human rights abuses are reportedly being committed against migrants. He works in close cooperation with Libyan smuggling networks like that of Mustafa, and he is considered their ‘Eastern supply chain’. His network stretches from Sudan to the coast of Libya and to Europe (Italy, France, Germany, the Netherlands, Sweden, the United Kingdom) and the United States. Alem controls private detention camps around the Libyan northwest coast where migrants are detained, and where serious abuses against migrants have taken place. From these camps, migrants are transported to Sabratha or Zawiya. In recent years, Alem has organised countless perilous journeys across the sea, exposing migrants (including numerous minors) to the risk of death. The Court of Palermo (Italy) issued arrest warrants in 2015 against Ermias Alem in relation to the smuggling of thousands of migrants under inhumane circumstances, including the shipwrecking on 13 October 2013 near Lampedusa in which 266 people died.
+
+**22\. Name: 1: FITIWI 2: ABDELRAZAK 3: na 4: na**
+
+Title: na Designation: Leader of a transnational trafficking network DOB: Approximately (30-35 years old) POB: Massaua, Eritrea Good quality a.k.a.: Abdurezak, Abdelrazaq, Abdulrazak, Abdrazzak Low quality a.k.a.: Fitwi Esmail Abdelrazak Nationality: Eritrea Passport no: na National identification no: na Address: na Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015).
+
+Additional information
+
+Fitiwi Abdelrazak is a leader of a transnational network responsible for trafficking and smuggling tens of thousands of migrants, mainly from the Horn of Africa to the coast of Libya and onwards to destination countries in Europe and the United States. Fitiwi Abdelrazak has been identified in open sources and in several criminal investigations as one of the top-level actors responsible for the exploitation and abuse of a large number of migrants in Libya. Abdelrazak has extensive contacts within Libyan smuggling networks and has accumulated immense wealth through the illicit trafficking of migrants. He has armed men at his disposal, as well as warehouses and detention camps where serious human rights abuses are being committed. His network is composed of cells reaching from Sudan, Libya, Italy and onwards to destination countries for migrants. Migrants in his camps are also bought from other parties, such as other local detention facilities. From these camps, migrants are transported to the Libyan coast. Abdelrazak has organised countless perilous maritime journeys, exposing migrants (including minors) to the risk of death. Abdelrazak is linked to at least two shipwrecks with fatal consequences between April 2014 and July 2014.
+
+**23\. Name: 1: AHMAD 2: OUMAR 3: IMHAMAD 4: AL-FITOURI**
+
+Title: na Designation: Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking network DOB: 7 May 1988 POB: (possibly Sabratha, Talil neighbourhood) Good quality a.k.a.: na Low quality a.k.a.: a) Al-Dabachi b) Al Ammu c) The Uncle d) Al-Ahwal e) Al Dabbashi Nationality: Libya Passport no: Libya number LY53FP76; issued on 29 September 2015; issued in Tripoli National identification no: 119880387067 Address: a) Garabulli, Libya b) Zawiya, Libya c) Dbabsha-Sabratah Listed on: 7 June 2018 (amended on 17 September 2018, 25 February 2020) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/
+
+Additional information
+
+Ahmad Imhamad is the commander of the Anas al-Dabbashi militia, formerly operating in the coastal area between Sabratha and Melita. Imhamad is a significant leader in illicit activities related to the trafficking of migrants. The al-Dabbashi clan and militia also cultivate relationships with terrorist and violent extremist groups. Imhamad is currently active around Zawiya, after violent clashes broke out with other militia and rivalling smuggling organisations around the coastal area in October 2017, resulting in over 30 deaths including civilians. In response to his ouster, Ahmad Imhamad on 4 December 2017 publicly vowed to return to Sabratha with weapons and force. There is extensive evidence that Imhamad's militia has been directly involved in the illicit trafficking and smuggling of migrants, and that his militia controls departure areas for migrants, camps, safe houses and boats. There is information that supports the conclusion that Imhamad has exposed migrants (including minors) to brutal conditions and sometimes fatal circumstances on land and at sea. After violent clashes between Imhamad's militia and other militia in Sabratha, thousands of migrants were found (many in serious condition), most of them held in centres of the Martyrs Anas al-Dabbashi brigade and al-Ghul militia. The al-Dabbashi clan, and the connected Anas al-Dabbashi militia, have long-standing links with Islamic State in the Levante (ISIL) and its affiliates.
+
+Several ISIL operatives have been in their ranks, including Abdallah al-Dabbashi, the ISIL ‘caliph’ of Sabratha. Imhamad was also allegedly involved in orchestrating the murder of Sami Khalifa al-Gharabli, who was appointed by the Sabratha municipal council to counter migrant smuggling operations in July 2017. Imhamad's activities largely contribute to the mounting violence and insecurity in western Libya and threaten peace and stability in Libya and neighbouring countries.
+
+**24\. Name: 1: MUS'AB 2: MUSTAFA 3: ABU AL QASSIM 4: OMAR**
+
+Title: na Designation: Leader of a transnational trafficking network DOB: 19 Jan. 1983 POB: Sabratha, Libya Good quality a.k.a.: Mus'ab Abu Qarin Low quality a.k.a.: a) ABU-AL QASSIM OMAR Musab Boukrin b) The Doctor c) Al-Grein Nationality: Libya Passport no: a) 782633, issued on 31 May 2005 b) 540794, issued on 12 Jan. 2008 National identification no: na Address: na Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/
+
+Additional information
+
+Mus'ab Mustafa is seen as a central actor in human trafficking and migrant smuggling activities in the area of Sabratha, but also works from Zawiya and Garibulli. His transnational network covers Libya, European destinations, sub-Saharan countries for the recruitment of migrants and Arab countries for the financial sector. Reliable sources have documented his collusion in human trafficking and smuggling with Ermias Alem, who takes care of the ‘Eastern supply chain’ on behalf of Mustafa. There is evidence that Mustafa has cultivated relationships with other actors in the trafficking business, notably Mohammed al-Hadi (cousin and head of the al-Nasr brigade, also proposed for listing) in Zawiya. A former accomplice of Mustafa, who is now cooperating with the Libyan authorities, claims that Mustafa organised journeys over sea for 45 000 people in 2015 alone, exposing migrants (including minors) to the risk of death. Mustafa is the organiser of a journey on 18 April 2015 ending in a shipwrecking in the Sicilian Canal that caused the death of 800 people. Evidence, including from the UN Panel of Experts, documents that he is responsible for the detention of migrants under brutal conditions, including in Tripoli near the al-Wadi area and seaside resorts near Sabratha where migrants are held. Mustafa is reported to have been close to the al-Dabbashi clan in Sabratha, until a conflict broke out over a ‘protection tax’. Sources have reported that Mustafa has paid persons close to violent extremists in the Sabratha area, in exchange for the approval to smuggle migrants on behalf of violent extremist circles, that financially benefit from the exploitation of illegal immigration. Mustafa is connected to a network of smugglers composed of Salafi armed groups in Tripoli, Sebha and Kufra.
+
+**25\. Name: 1: MOHAMMED 2: AL AMIN 3: AL-ARABI 4: KASHLAF**
+
+Title: na Designation: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya's refinery DOB: 2 December 1985 POB: Zawiya, Libya Good quality a.k.a.: na Low quality a.k.a.: a) Kashlaf b) Koshlaf c) Keslaf d) al-Qasab Nationality: Libya Passport no: C17HLRL3, issued on 30 December 2015, issued in Zawiya National identification no: na Address: Zawiya, Libya Listed on: 7 June 2018 (amended on 17 September 2018, 25 February 2020) Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015).
+
+Additional information
+
+Mohammed al-Hadi is the head of the Shuhada al Nasr brigade in Zawiya, Western Libya. His militia controls the Zawiya refinery, a central hub of migrant smuggling operations. Al-Hadi also controls detention centres, including the Nasr detention centre – nominally under the control of the DCIM. As documented in various sources, the network of al-Hadi is one of the most dominant in the field of migrant smuggling and the exploitation of migrants in Libya. Al-Hadi has extensive links with the head of the local unit of the coast guard of Zawiya, al-Rahman al-Milad, whose unit intercepts boats with migrants, often of rivalling migrant smuggling networks. Migrants are then brought to detention facilities under the control of the Al Nasr militia, where they are reportedly held in critical conditions. The Panel of Experts for Libya collected evidence of migrants that were frequently beaten, while others, notably women from sub-Saharan countries and Morocco, were sold on the local market as ‘sex slaves’. The Panel has also found that al-Hadi collaborates with other armed groups and has been involved in repeated violent clashes in 2016 and 2017.
+
+**26\. Name: 1: ABD 2: AL-RAHMAN 3: AL-MILAD 4: na**
+
+Title: na Designation: Commander of the Coast Guard in Zawiya DOB: Approximately (29 years old) POB: Tripoli, Libya Good quality a.k.a.: na Low quality a.k.a.: a) Rahman Salim Milad b) al-Bija Nationality: Libya Passport no: na National identification no: na Address: Zawiya, Libya Listed on: 7 June 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)
+
+Listed pursuant to paragraph 22(a) of resolution 1970 (2011); paragraph 4(a) of resolution 2174 (2014); paragraph 11(a) of resolution 2213 (2015).
+
+Additional information
+
+Abd al Rahman al-Milad heads the regional unit of the Coast Guard in Zawiya that is consistently linked with violence against migrants and other human smugglers. The UN Panel of Experts claims that Milad, and other coastguard members, are directly involved in the sinking of migrant boats using firearms. Al-Milad collaborates with other migrant smugglers such as Mohammed al-Hadi (also proposed for listing) who, sources suggest, is providing protection to him to carry out illicit operations related to the trafficking and smuggling of migrants. Several witnesses in criminal investigations have stated they were picked up at sea by armed men on a Coast Guard ship called Tallil (used by al-Milad) and taken to the al-Nasr detention centre, where they are reportedly held in brutal conditions and subjected to beatings.
+
+**27\. Name: 1: IBRAHIM 2: SAEED 3: SALIM 4: JADHRAN**
+
+Title: na Designation: Leader of armed militias DOB: 29 October 1982 POB: na Good quality a.k.a.: Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al Jadhran Low quality a.k.a.: na Nationality: Libya Passport no: S/263963; issued on 8 November 2012 National identification no: a) 119820043341 b) Personal identification no.: 137803 Address: na Listed on: 11 Sept. 2018 (amended on 25 February 2020) Other information: Name of mother Salma Abdula Younis.Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze). INTERPOL-UN Security Council Special Notice web link: www.interpol.int/en/notice/search/un/xxxx.
+
+Listed pursuant to paragraphs 11 (b), 11 (c) and 11 (d) of resolution 2213 (2015); paragraph 11 of resolution 2362 (2017).
+
+Additional information
+
+— Libya's Attorney General's Office has issued an arrest warrant against the person concerned accusing him of perpetrating a number of crimes.
+
+— The person concerned carried out armed actions and attacks against oil installations located in the oil crescent region that caused its destruction, the latest of which was on 14 June 2018.
+
+— The attacks on the crescent oil region resulted in many casualties among the inhabitants of the region and endangered the lives of civilians.
+
+— The attacks intermittently halted Libyan oil exports from 2013 to 2018, which led to significant losses for the Libyan economy.
+
+— The person concerned attempted to export oil illegally.
+
+— The person concerned recruits foreign fighters for his repeated attacks against ‘oil crescent’ region.
+
+— The person concerned, through his actions, is working against the stability of Libya, and constitutes an obstacle in the way of the Libyan parties to resolve the political crisis and implement the United Nations Plan of Action.
+
+**28\. Name: 1: SALAH 2: BADI 3: na 4: na**
+
+Title: na Designation: Senior commander of the armed anti-GNA Al-Somood front, also known as Fakhr or ‘Pride of Libya’, and the Misratan Al Marsa Central Shield brigade DOB: na POB: na Good quality a.k.a.: na Low quality a.k.a.: na Nationality: na Passport no: na National identification no: na Address: na Listed on: 16 Nov. 2018 Other information: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).
+
+Listed pursuant to paragraph 22 (a) of resolution 1970 (2011), paragraph 4 (a) of resolution 2174 (2014) and paragraph 11 (a) of resolution 2213 (2015).
+
+Additional information:
+
+— Salah Badi has consistently attempted to undermine a political resolution in Libya through his support for armed resistance. Open source evidence confirms Salah Badi is a senior commander of the armed anti-GNA Al-Somood front, also known as Fakhr or ‘Pride of Libya’, and the Misratan Al Marsa Central Shield brigade.
+
+— He has played a leading role in the recent fighting in Tripoli which began on 27 August 2018, in which at least 115 people were killed, most of which are civilians. Forces under his command were specifically referred to by UNSMIL when it called on all parties to the fighting to cease acts of violence (and reminded them that targeting civilians and civilian installations is prohibited by IHL).
+
+— During late 2016 and 2017, Salah Badi led anti-GNA militias in attacks on Tripoli in repeated attempts to remove power from the GNA and restore the unrecognised ‘National Salvation Government’ of Khalifa Ghwell. On 21 February 2017, Badi appeared next to tanks in a YouTube video recorded outside the Rixos hotel in Tripoli, and threatened to confront the Unrecognised Government of National Accord. On 26 and 27 May 2017 Fakhr Libya (‘Pride of Libya’) forces led by Salah Badi attacked locations in Tripoli including the Abu Sleem area and airport road. Reliable media reports, corroborated by social media, said Badi's forces used tanks and heavy artillery in the attack.
+
+**29\. Name: 1: OSAMA 2: AL KUNI 3: IBRAHIM 4: n/a**
+
+Title: Manager of Al Nasr Detention Centre in Zawiyah Designation: n/a DOB: 4 April 1976 POB: Tripoli, Libya Good quality a.k.a.: a) Osama Milad b) Osama al-Milad c) Osama Zawiya d) Osama Zawiyah e) Osama al Kuni Low quality a.k.a.: n/a Nationality: Libya Passport No: n/a National identification No: n/a Address: Zawiyah, Libya Listed on: 25 October 2021 Other information: As de facto manager of the Al Nasr detention centre the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026). Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).
+
+Listed pursuant to paragraphs 11 (a), 11 (f) of resolution 2213 (2015); paragraph 11 of resolution 2441 (2018).
+
+Additional information
+
+As de facto manager of the Al Nasr detention centre the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026). For years, the Al Nasr detention centre in Zawiyah has been singled out in public and in confidential reports describing the plight of migrants and asylum seekers in Libya, including torture, sexual and gender-based violence and human trafficking. Humanitarian organizations and victims of trafficking have consistently identified the person concerned as the de facto manager of the detention centre. Three individuals who had been working in the Al Nasr detention centre were served prison sentences for torturing migrants in the detention centre.
+
+## ANNEX III
+
+**LIST OF NATURAL AND LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLE 6(2)**
+
+**A. Persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 1.  </td><td>ABU SHAARIYA</td><td>Position: Deputy Head, External Security Organisation</td><td>Brother-in-law of Muammar Qadhafi. Prominent member of the Qadhafi regime and as such closely associated with the former regime of Muammar Qadhafi. </td><td>28.2.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 2.  </td><td>ALSHARGAWI, Bashir Saleh Bashir</td><td>Date of birth: 1946 Place of birth: Traghen </td><td>Head of Cabinet of Muammar Qadhafi. Closely associated with the former regime of Muammar Qadhafi.</td><td>28.2.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 4.  </td><td>FARKASH, Mohammed Boucharaya</td><td>Date of birth: 1 July 1949 Place of birth: Al-Bayda </td><td>Former director of intelligence in External Security Office. Closely associated with the former regime of Muammar Qadhafi. </td><td>28.2.2011</td></tr>
+<tr><td> 5.  </td><td>EL-KASSIM ZOUAI, Mohamed Abou</td><td>  </td><td>Former Secretary General of the General People's Congress. Closely associated with the former regime of Muammar Qadhafi. </td><td>21.3.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 7.  </td><td>HIJAZI, Mohamad Mahmoud</td><td>  </td><td>Minister for Health and Environment in Colonel Qadhafi's Government. Closely associated with the former regime of Muammar Qadhafi. </td><td>21.3.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 10.  </td><td>AL-CHARIF, Ibrahim Zarroug</td><td>  </td><td>Minister for Social Affairs in Colonel Qadhafi's Government. Closely associated with the former regime of Muammar Qadhafi. </td><td>21.3.2011</td></tr>
+<tr><td> 11.  </td><td>FAKHIRI, Abdelkebir Mohamad</td><td>Date of birth: 4 May 1963 Passport number: B/014965 (expired end 2013) </td><td>Minister for Education, Higher Education and Research in Colonel Qadhafi's Government. Closely associated with the former regime of Muammar Qadhafi.</td><td>21.3.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 13.  </td><td>DIBRI, Abdulqader Yusef</td><td>Position: Head of Muammar Qadhafi's personal security Date of Birth: 1946  Place of Birth: Houn, Libya </td><td>Responsibility for regime security. History of directing violence against dissidents. Closely associated with the former regime of Muammar Qadhafi. </td><td>28.2.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>15.</td><td>AL QADHAFI, Quren Salih Quren a.k.a. Akrin Akrin Saleh, Al Qadhafi Qurayn Salih Qurayn, Al Qadhafi Qu’ren Salih Qu’ren, Salah Egreen </td><td>Gender: male</td><td>Former Libyan Ambassador to Chad. Has left Chad for Sabha. Involved directly in recruiting and coordinating mercenaries for the regime of the late Muammar Qadhafi. Closely associated with the former regime of Muammar Qadhafi.  Member of the Popular Front for the Liberation of Libya (PFLL), a militia and political party loyal to the late Muammar Qadhafi. Involved in undermining the successful completion of Libya’s political transition by opposing the UN and undermining the UN-facilitated political process, including the Libyan Political Dialogue Forum (LPDF), thereby posing a continued risk to the peace, stability and security of Libya. </td><td>12.4.2011</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td> 16.  </td><td>AL KUNI, Colonel Amid Husain</td><td>Believed status/location: South Libya</td><td>Former Governor of Ghat (South Libya). Directly involved in recruiting mercenaries. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>21.</td><td>DIAB, Moussa a.k.a. DIAB, Mousa </td><td>Gender: male</td><td>Moussa Diab is responsible for and has directly engaged in serious human rights abuses including human trafficking and the kidnapping, raping and killing of migrants and refugees. He held migrants and refugees in captivity in an illegal detention camp near Bani Walid, where they were treated in an inhuman and degrading manner. Several migrants and refugees were killed when they tried to escape from the detention camp. </td><td>21.9.2020</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>23.</td><td>KUZNETSOV, Aleksandr (Alexander) Sergeevich (Александр Сергеевич КУЗНЕЦОВ) </td><td>Position (s): Commander of 1st Attack and Reconnaissance Company of the Wagner Group Callsign: Ratibor  Date of birth: 8 October 1977  Place of birth: Nikolskoye, former USSR (now Russian Federation)  Nationality: Russian  Wagner Group ID: M-0271  Gender: male </td><td>Aleksandr Sergeevich Kuznetsov belongs to the command structure of the Wagner Group, a Russia-based unincorporated private military entity. He took command of the 1st Attack and Reconnaissance Company of the Wagner Group in 2014. He was injured in September 2019 in Libya while fighting alongside the Libyan National Liberation Army (NLA) as commander of the Wagner Group’s military operatives. Through his position and actions, Kuznetsov is responsible for the Wagner Group’s activities that threaten the peace, stability and security of Libya.</td><td>13.12.2021</td></tr>
+</tbody>
+</table>
+
+**B. Entities**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Gaddafi International Charity and Development Foundation</td><td>Contact details of administration: Hay Alandalus — Jian St. — Tripoli — PoBox: 1101 — LIBYA Telephone: (+ 218) 214778301 — Fax (+ 218) 214778766; email: info@gicdf.org</td><td>Closely associated with the former regime of Muammar Qadhafi.</td><td>21.3.2011</td></tr>
+<tr><td>3.</td><td>Waatassimou Foundation</td><td>Based in Tripoli.</td><td>Closely associated with the former regime of Muammar Qadhafi.</td><td>21.3.2011</td></tr>
+<tr><td>4.</td><td>Libyan Jamahirya Broadcasting Corporation</td><td>Contact details: tel. 00 218 21 444 59 26; 00 21 444 59 00; fax 00 218 21 340 21 07 http://www.ljbc.net; email: info@ljbc.net</td><td>Closely associated with the former regime of Muammar Qadhafi. Involved in public incitement to hatred and violence through participation in disinformation campaigns concerning violence against demonstrators. </td><td>21.3.2011</td></tr>
+<tr><td>5.</td><td>Revolutionary Guard Corps</td><td>  </td><td>Closely associated with the former regime of Muammar Qadhafi. Involved in violence against demonstrators. </td><td>21.3.2011</td></tr>
+<tr><td>6.</td><td>Libyan Agricultural Bank (a.k.a. Agricultural Bank; a.k.a. Al Masraf Al Zirae Agricultural Bank; a.k.a. Al Masraf Al Zirae; a.k.a. Libyan Agricultural Bank)</td><td>El Ghayran Area, Ganzor El Sharqya, P.O. Box 1100, Tripoli, Libya; Al Jumhouria Street, East Junzour, Al Gheran, Tripoli, Libya; Email Address agbank@agribankly.org; SWIFT/BIC AGRULYLT (Libya); Tel. No. (218)214870586;  Tel. No. (218) 214870714;  Tel. No. (218) 214870745;  Tel. No. (218) 213338366;  Tel. No. (218) 213331533;  Tel. No. (218) 213333541;  Tel. No. (218) 213333544;  Tel. No. (218) 213333543;  Tel. No. (218) 213333542;  Fax No. (218) 214870747;  Fax No. (218) 214870767;  Fax No. (218) 214870777;  Fax No. (218) 213330927;  Fax No. (218) 213333545 </td><td>Libyan subsidiary of the Central Bank of Libya. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>7.</td><td>Al-Inma Holding Co. for Services Investments</td><td>  </td><td>Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>8.</td><td>Al-Inma Holding Co. For Industrial Investments</td><td>  </td><td>Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>9.</td><td>Al-Inma Holding Company for Tourism Investment</td><td>Hasan al-Mashay Street (off al- Zawiyah Street) Tel. No.: (218) 213345187 Fax +218.21.334.5188 email: info@ethic.ly</td><td>Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>10.</td><td>Al-Inma Holding Co. for Construction and Real Estate Developments</td><td>  </td><td>Libyan subsidiary of the Economic & Social Development Fund. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>11.</td><td>LAP Green Networks (a.k.a. Lap GreenN, LAP Green Holding Company)</td><td>9th Floor, Ebene Tower, 52, Cybercity, Ebene, Mauritius</td><td>Libyan subsidiary of the Libyan Africa Investment Portfolio. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td>12.</td><td>Sabtina Ltd</td><td>530-532 Elder Gate, Elder House, Milton Keynes, UK Other info: Reg no 01794877 (UK) </td><td>UK-incorporated subsidiary of the Libyan Investment Authority. Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>14.</td><td>Capitana Seas Limited</td><td>  </td><td>BVI-incorporated entity owned by Saadi Qadhafi Closely associated with the former regime of Muammar Qadhafi. </td><td>12.4.2011</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>17.</td><td>Sigma Airlines a.k.a. Sigma Aviation; Air Sigma </td><td>Address: Markov Str. 11  050013, Almaty, Kazakhstan  Tel.: +77272922305  Website: https://airsigma.pro/  Registered under name: Kenesbayev Umirbek Zharmenovich </td><td>Sigma Airlines is a commercial cargo air company which operates aircrafts found to have violated the arms embargo in Libya established in UNSCR 1970 (2011) and transposed in Article 1 of Decision (CFSP) 2015/1333. The UN has identified Sigma Airlines as one of the commercial air cargo providers operating in non-compliance with the UN embargo on the transfer of military material to Libya. </td><td>21.9.2020</td></tr>
+<tr><td>18.</td><td>Avrasya Shipping</td><td>Address: Liman Mh. Gezi Cd. No:22/3 İlkadım, Samsun, Turkey  Tel.: +90 549 720 1748  E-mail: info@avrasyashipping.com  Website: http://www.avrasyashipping.com/iletisim </td><td>Avrasya Shipping is a maritime company which operates a vessel called Cirkin found to have violated the arms embargo in Libya established in UNSCR 1970 (2011) and transposed in Article 1 of Decision (CFSP) 2015/1333. In particular, the Cirkin has been linked to transports of military material to Libya in May and June 2020. </td><td>21.9.2020</td></tr>
+<tr><td>19.</td><td>Med Wave Shipping</td><td>Address: Office 511, 5th Floor, Baraka Building, Dauwar Al-Waha, Jordan;  Adel Al-Hojrat building n°3, 1st Floor, opposite Swefieh, Mall-Swefieh Po Box 850880 Amman, 11185 Jordan;  Ground Floor, Orient Queen Homes Building, John Kennedy, Ras Beirut, Lebanon  Tel.: +962787064121; +96265865550; +96265868550  E-mail: operation@medwave.co </td><td>Med Wave Shipping is a maritime company which operates a vessel called Bana found to have violated the arms embargo in Libya established in UNSCR 1970 (2011) and transposed in Article 1 of Decision (CFSP) 2015/1333. In particular, the Bana has been linked to transports of military material to Libya in January 2020. </td><td>21.9.2020</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**LIST OF COMPETENT AUTHORITIES IN THE MEMBER STATES REFERRED TO IN ARTICLES 8(1), 9(1), 13 AND 18(1) AND ADDRESS FOR NOTIFICATIONS TO THE EUROPEAN COMMISSION**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+## ANNEX V
+
+**LIST OF VESSELS REFERRED TO IN POINT (H) OF ARTICLE 1 AND ARTICLE 15 AND APPLICABLE MEASURES AS SPECIFIED BY THE SANCTIONS COMMITTEE**
+
+## ANNEX VI
+
+**LIST OF LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLE 5(4)**
+
+**1\. Name: LIBYAN INVESTMENT AUTHORITY**
+
+A.k.a.: Libyan Foreign Investment Company (LFIC) F.k.a.: na Address: 1 Fateh Tower Office, No 99 22nd Floor, Borgaida Street, Tripoli, 1103, Libya Listed on: 17 Mar. 2011 Other information: Listed pursuant to paragraph 17 of resolution 1973, as modified on 16 September pursuant to paragraph 15 of resolution 2009. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5526075
+
+**2\. Name: LIBYAN AFRICA INVESTMENT PORTFOLIO**
+
+A.k.a.: na F.k.a.: na Address: Jamahiriya Street, LAP Building, PO Box 91330, Tripoli, Libya Listed on: 17 Mar. 2011 Other information: Listed pursuant to paragraph 17 of resolution 1973, as modified on 16 September pursuant to paragraph 15 of resolution 2009. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5525715
+
+## ANNEX VII
+
+**Items which could be used for smuggling of migrants and trafficking in human beings as referred to in Article 2a**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature (CN) as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and are set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | CN Code | Description |
+| --- | --- | --- |
+|  | 8407 21 | outboard motors for marine propulsion (spark ignition) |
+| Ex | 8408 10 | outboard motors for marine propulsion (compression ignition) |
+| Ex | 8501 31 | Electrical outboard motors for marine propulsion, of an output not exceeding 750 W |
+| Ex | 8501 32 | Electrical outboard motors for marine propulsion, of an output exceeding 750 W but not exceeding 75 kW |
+| Ex | 8903 10 | inflatable vessels, for pleasure or sports |
+| Ex | 8903 99 | outboard motor boats |
+
+( 1 ) Latest version published in OJ C, C/2024/1945, 1.3.2024, ELI: http://data.europa.eu/eli/C/2024/1945/oj.
+
+( 2 ) Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations’ Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition (OJ L 94, 30.3.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/258/oj).
+
+( 3 ) Regulation (EC) No 450/2008 of the European Parliament and of the Council of 23 April 2008 laying down the Community Customs Code (Modernised Customs Code) (OJ L 145, 4.6.2008, p. 1).
+
+( 4 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 5 ) Council Decision (CFSP) 2020/472 of 31 March 2020 on a European Union military operation in the Mediterranean (EUNAVFOR MED IRINI) (OJ L 101, 1.4.2020, p. 4).
+
+( 6 ) OJ C 69, 18.3.2010, p. 19.

@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION REGULATION (EC) No 1177/2009 of 30 November 2009 </td><td> L 314</td><td>64</td><td>1.12.2009</td></tr>
@@ -37,6 +38,7 @@ retrieved: 2026-10-11
 <tr><td> M9</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1950 of 10 November 2021 </td><td> L 398</td><td>19</td><td>11.11.2021</td></tr>
 <tr><td> M10</td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2510 of 15 November 2023 </td><td> L 2510</td><td>1</td><td>16.11.2023</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2487 of 2 December 2025 </td><td> L 2487</td><td>1</td><td>4.12.2025</td></tr>
+</table>
 
 **DIRECTIVE 2009/81/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -46,6 +48,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td colspan="2">CONTENTS</td></tr>
 <tr><td>TITLE I</td><td>DEFINITIONS, SCOPE AND GENERAL PRINCIPLES</td></tr>
 <tr><td>Article 1.</td><td>Definitions</td></tr>
@@ -159,6 +162,7 @@ retrieved: 2026-10-11
 <tr><td>Annex VI</td><td>Features concerning publication</td></tr>
 <tr><td>Annex VII</td><td>Registers</td></tr>
 <tr><td>Annex VIII</td><td>Requirements relating to devices for the electronic receipt of requests to participate and tenders</td></tr>
+</table>
 
 ## TITLE I — DEFINITIONS, SCOPE AND GENERAL PRINCIPLES
 
@@ -1590,6 +1594,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — Services referred to in Articles 2 and 15
 
+<table>
 <tbody><tr><td>Category No</td><td>Subject</td><td>CPV Reference No</td></tr>
 <tr><td>1</td><td>Maintenance and repair services</td><td>50000000-5, from 50100000-6 to 50884000-5 (except from 50310000-1 to 50324200-4 and 50116510-9, 50190000-3, 50229000-6, 50243000-0) and from 51000000-9 to 51900000-1</td></tr>
 <tr><td>2</td><td>Foreign military-aid-related services</td><td>75211300-1</td></tr>
@@ -1613,9 +1618,11 @@ This Directive is addressed to the Member States.
 <tr><td>20</td><td>Training and simulation services in the fields of defence and security</td><td>80330000-6, 80600000-0, 80610000-3, 80620000-6, 80630000-9, 80640000-2, 80650000-5, 80660000-8</td></tr>
 <tr><td colspan="3">(1)  Except research and development services referred to in Article 13(j).  (2)  Except arbitration and conciliation services. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — Services referred to in Articles 2 and 16
 
+<table>
 <tbody><tr><td>Category No</td><td>Subject</td><td>CPV Reference No</td></tr>
 <tr><td>21</td><td>Hotel and restaurant services</td><td>From 55100000-1 to 55524000-9 and from 98340000-8 to 98341100-6</td></tr>
 <tr><td>22</td><td>Supporting and auxiliary transport services</td><td>From 63000000-9 to 63734000-3 (except 63711200-8, 63712700-0, 63712710-3), from 63727000-1 to 63727200-3 and 98361000-1</td></tr>
@@ -1625,6 +1632,7 @@ This Directive is addressed to the Member States.
 <tr><td>26</td><td>Other services</td><td>  </td></tr>
 <tr><td colspan="3">(1)  Except employment contracts. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III — Definition of certain technical specifications referred to in Article 18
 

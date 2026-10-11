@@ -1,0 +1,265 @@
+---
+title: "Commission Regulation (EU) 2024/3190 of 19 December 2024 on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food, amending Regulation (EU) No 10/2011 and repealing Regulation (EU) 2018/213"
+identifier: "32024R3190"
+eli: "http://data.europa.eu/eli/reg/2024/3190/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-12-19
+entry_into_force: 2024-12-16
+last_amended: 2026-02-23
+consolidated_version: "02024R3190-20260223"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R3190-20260223"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2024/3190 of 19 December 2024 on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food, amending Regulation (EU) No 10/2011 and repealing Regulation (EU) 2018/213
+
+**COMMISSION REGULATION (EU) 2024/3190**
+
+**of 19 December 2024**
+
+**on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food, amending Regulation (EU) No 10/2011 and repealing Regulation (EU) 2018/213**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2026/250 of 2 February 2026 </td><td> L 250</td><td>1</td><td>3.2.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) 2024/3190**
+
+**of 19 December 2024**
+
+**on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food, amending Regulation (EU) No 10/2011 and repealing Regulation (EU) 2018/213**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation is a specific measure within the meaning of Article 5 of Regulation (EC) No 1935/2004.
+
+2\. This Regulation establishes specific requirements concerning 4,4’-isopropylidenediphenol (‘bisphenol A’ or ‘BPA’) (CAS No 80-05-7) and its salts as well as other hazardous bisphenols and hazardous bisphenol derivatives, as regards their use in the manufacture of the following groups of food contact materials and articles falling within the scope of Article 1(2) of Regulation (EC) No 1935/2004, which are placed on the Union market:
+
+(a) adhesives;
+
+(b) rubbers;
+
+(c) ion-exchange resins;
+
+(d) plastics;
+
+(e) printing inks;
+
+(f) silicones; and
+
+(g) varnishes and coatings.
+
+3\. This Regulation also establishes specific requirements on the content of BPA in food contact materials and articles, which have been manufactured using another bisphenol or bisphenol derivative.
+
+## Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the definitions in Article 3 of Regulation (EU) No 10/2011 shall apply.
+
+2\. For the purposes of this Regulation, the following definitions shall also apply:
+
+(a) ‘final food contact articles’ means products composed of one or more food contact materials and articles that fall within the scope of Article 1(2) of Regulation (EC) No 1935/2004, which are in their finished state for end use, without undergoing any further chemical, biological or physical processing or modification, except their further processing or modification for filling with food, in order for them to be used for single-use packaging, including the sealing process;
+
+(b) ‘intermediate food contact materials’ means materials that are intended to undergo further chemical, biological or physical processing or modification in order to become all or part of a final food contact article, other than the further processing or modification for filling with food, in order for them to be used for single-use packaging, including the sealing process;
+
+(c) ‘bisphenol’ means a substance consisting of two hydroxyphenyl functional groups linked by one bridging atom, in accordance with structure A laid down in Annex I and includes the salt form of the bisphenol. Additional groups may be attached to the bridging atom;
+
+(d) ‘bisphenol derivative’ means a substance indicated by the general structure B laid down in Annex I, not including the salt form of a bisphenol;
+
+(e) ‘hazardous bisphenol or hazardous bisphenol derivative’ means a bisphenol or a bisphenol derivative listed in Part 3 of Annex VI to Regulation (EC) No 1272/2008 due to its harmonised classification as category 1A or 1B ‘mutagenic’, ‘carcinogenic’, ‘toxic to reproduction’ or category 1 ‘endocrine disrupting’ for human health.
+
+## Article 3 — Prohibition of the use of BPA
+
+1\. The use of BPA in the manufacture of food contact materials and articles referred to in Article 1(2) and the placing on the Union market of food contact materials and articles manufactured using BPA is prohibited.
+
+2\. By way of derogation from paragraph 1, BPA may be used in the manufacture of food contact materials and articles for a specific application and the placing on the Union market of such food contact materials and articles is allowed in accordance with Annex II, subject to the restrictions laid down therein.
+
+## Article 4 — Prohibition on the presence of BPA in food contact materials and articles for which other bisphenols or bisphenol derivatives are used in their manufacture
+
+Food contact materials and articles that have been manufactured using another bisphenol or bisphenol derivative shall not contain any residual BPA.
+
+## Article 5 — Prohibition of the use of hazardous bisphenols other than BPA or hazardous bisphenol derivatives
+
+1\. The use of hazardous bisphenols other than BPA or hazardous bisphenol derivatives in the manufacture of food contact materials and articles referred to in Article 1(2) and the placing on the market of food contact materials and articles manufactured using hazardous bisphenols other than BPA or hazardous bisphenol derivatives is prohibited.
+
+2\. By way of derogation from paragraph 1, a hazardous bisphenol other than BPA or hazardous bisphenol derivatives may be used in the manufacture of food contact materials and articles for a specific application and those food contact materials and articles may be placed on the market if that use has been authorised in accordance with Article 6 and is set out in Annex II.
+
+3\. By way of derogation from paragraph 1, a hazardous bisphenol other than BPA or hazardous bisphenol derivative, the use of which has not been authorised in accordance with Article 6 and set out in Annex II, may be used in the manufacture of food contact materials and articles for a specific application and the placing on the market of those food contact materials and articles is allowed if the following conditions are fulfilled:
+
+(a) it was already used in the manufacture of the same food contact materials and articles for that specific application on one of the following dates:
+
+(i) either the date on which the European Food Safety Authority (‘the Authority’) publishes the information referred to in Article 6(4) for hazardous bisphenols and bisphenol derivatives for which the harmonised classification applies on that date; or
+
+(ii) once the Authority has published the information referred to in Article 6(4), the date on which the harmonised classification applies to the hazardous bisphenol or hazardous bisphenol derivative listed in Part 3 of Annex VI to Regulation (EC) No 1272/2008; and
+
+(b) the application referred to in Article 6(1) is submitted within 9 months from one of the following dates:
+
+(i) either the date on which the Authority publishes the information referred to Article 6(4) for hazardous bisphenols and bisphenol derivatives for which the harmonised classification applies on that date; or
+
+(ii) once the Authority has published the information referred to in Article 6(4), the date on which the harmonised classification applies to the hazardous bisphenol or hazardous bisphenol derivative listed in Part 3 of Annex VI to Regulation (EC) No 1272/2008; and
+
+(c) the food contact materials and articles comply with the rules as applicable before the date of entry into force of this Regulation; and
+
+(d) the Commission has not taken a decision on the application pursuant to Article 6(3).
+
+## Article 6 — Authorisation for the use of hazardous bisphenols other than BPA or hazardous bisphenol derivatives in the manufacture of food contact materials and articles for a specific application
+
+1\. To obtain an authorisation for the use of a hazardous bisphenol other than BPA or hazardous bisphenol derivative in the manufacture of a food contact material or article for a specific application, an application shall be submitted in accordance with Article 9 of Regulation (EC) No 1935/2004.
+
+2\. In accordance with Article 10 of Regulation (EC) No 1935/2004, the Authority shall issue an opinion for the use of the hazardous bisphenol or hazardous bisphenol derivative in the manufacture of a food contact material or article for a specific application for which a valid application was submitted in accordance with Article 9 of Regulation (EC) No 1935/2004. In case the Authority receives several applications regarding the same hazardous bisphenol or hazardous bisphenol derivative, the Authority may publish a single opinion concerning that hazardous bisphenol or hazardous bisphenol derivative.
+
+3\. The Commission shall thereafter adopt a specific measure in accordance with Article 11 of Regulation (EC) No 1935/2004, either authorising, subject to restrictions where appropriate, or not authorising the use of the hazardous bisphenol or hazardous bisphenol derivative for the manufacture of the food contact material or article for a specific application. In case of authorisation, the hazardous bisphenol or hazardous bisphenol derivative shall be included in Annex II to this Regulation accordingly.
+
+4\. For the purpose of paragraph 1, and before 20 January 2027, the Authority shall publish scientific output detailing the information necessary for the assessment of the use of hazardous bisphenols or hazardous bisphenol derivatives, in the manufacture of a food contact materials and articles for a specific application, supplementing or updating where necessary the detailed guidelines referred to in Article 9(2) of Regulation (EC) No 1935/2004. The Authority and the European Chemicals Agency shall collaborate with each other for this purpose.
+
+5\. Upon request by the Authority, business operators using bisphenols or bisphenol derivatives in the manufacture of food contact materials and articles shall provide data on the use of the bisphenols and bisphenol derivatives in the manufacture of food contact materials and articles to inform the preparation of the information referred to in paragraph 4.
+
+## Article 7 — Reporting obligations concerning alternative substances to BPA, hazardous bisphenols and hazardous bisphenol derivatives laid down in Annex II
+
+1\. Business operators using BPA, other hazardous bisphenols or hazardous bisphenol derivatives listed in Annex II, shall provide information to the Commission regarding the status of alternative substances.
+
+By derogation, such reporting shall be voluntary for micro, small and medium-sized enterprises as defined by Commission Recommendation of 6 May 2003 ( 1 ).
+
+2\. The information referred to in paragraph 1 shall be made available to the Commission after 4 years and at the latest 5 years after the date from which the use of the hazardous bisphenol or hazardous bisphenol derivative is authorised for use in the manufacture of the food contact material or article for a specific application. This information shall be updated and made available to the Commission after 4 years and at the latest 5 years from the previous date of submission, if the authorisation for the use of the hazardous bisphenol or derivative for the final food contact article for a specific application remains in place.
+
+## Article 8 — Declaration of compliance and supporting documentation
+
+1\. Business operators shall ensure that food contact materials and articles covered by this Regulation which are not yet in contact with food, as well as bisphenols and bisphenol derivatives intended to be used as monomers or other starting substances in the manufacture of those food contact materials and articles, are accompanied at all marketing stages other than the retail stage by a written declaration as referred to in Article 16(1) of Regulation (EC) No 1935/2004 stating that they comply with the rules applicable to them (‘declaration of compliance’).
+
+2\. The declaration of compliance shall contain the information laid down in Annex III.
+
+3\. Appropriate supporting documentation shall be available to demonstrate such compliance. That documentation shall be made available without delay to the competent authorities on their demand.
+
+## Article 9 — Verification of compliance with the requirements of this Regulation
+
+1\. For the verification of compliance with the requirements of this Regulation, appropriate test methods shall be selected in accordance with Article 34 of Regulation (EU) 2017/625 of the European Parliament and of the Council ( 2 ).
+
+2\. For the selection of methods used to verify that a food contact material or article does not contain residual BPA, another hazardous bisphenol or a hazardous bisphenol derivative, or does not release those substances into food above the specified detection limit or specific migration limit, the following additional rules apply:
+
+(a) where the European Union Reference Laboratory (‘EURL’) for food contact materials has developed or recommended a method, that method shall be used;
+
+(b) a method shall have a detection limit of 1 μg/kg unless a different detection limit is set out in Annex II, or as part of the method recommended in accordance with point (a);
+
+(c) to verify that a food contact material or article does not contain residual BPA, another hazardous bisphenol or a hazardous bisphenol derivative, an extraction method shall be used.
+
+3\. The EURL for food contact materials shall consult the national reference laboratories and relevant stakeholders to identify possible methods for the purpose of paragraph 2. In case it concludes that a suitable method does not exist at Union level for a specific verification purpose forthcoming from paragraph 2, it shall complete the development of such a method within a date agreed with the Commission.
+
+4\. The following rules shall apply for the purposes of verification with specific detection or migration limits:
+
+(a) test results shall be expressed in accordance with the rules laid down in Article 17 of Regulation (EU) No 10/2011;
+
+(b) compliance with a migration limit shall be established in accordance with Article 18, Annex III and Chapters 1 and 2 of Annex V to Regulation (EU) No 10/2011;
+
+(c) in case the foreseeable contact occurs under continuous flow conditions, such as in pipes or filtration assemblies, the testing time shall equal the average residence time of the food in that pipe or filtration assembly.
+
+## Article 10 — Amendment to Regulation (EU) No 10/2011
+
+Regulation (EU) No 10/2011 is amended as follows:
+
+(1) In Article 6, the following paragraph is added:
+
+‘6. By way of derogation from Article 5, 2,2-bis(4-hydroxyphenyl)propane (“bisphenol A” or “BPA”) (CAS No 80-05-7) and other hazardous bisphenols or hazardous bisphenol derivatives as defined and falling within the scope of Regulation (EU) 2024/3190 may only be used in the manufacture of plastic materials and articles in accordance with that Regulation.’
+
+;
+
+(2) in Table 1 of Annex I, the entries concerning substance No 151 (2,2-bis(4-hydroxyphenyl)propane) and substance No 154 (4,4’-dihydroxydiphenyl sulphone) are deleted.
+
+## Article 11 — Transitional provisions concerning single-use final food contact articles
+
+1\. Single-use final food contact articles manufactured using BPA and complying with the rules as applicable before the date of entry into force of this Regulation, which do not comply with the rules in this Regulation, may be first placed on the market until 20 July 2026.
+
+2\. By way of derogation from paragraph 1, the following single-use final food contact articles complying with the rules as applicable before the date of entry into force of this Regulation, which do not comply with the rules in this Regulation, may be first placed on the market until 20 January 2028:
+
+(a) single-use final food contact articles intended for the preservation of the following foodstuffs:
+
+(i) fruits or vegetables, excluding products defined in Annex I to Council Directive 2001/112/EC ( 3 ); or
+
+(ii) fishery products as defined by Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 4 );
+
+(b) single-use final food contact articles on which a varnish or coating manufactured using BPA has only been applied to the exterior metal surface.
+
+3\. Single-use final food contact articles first placed on the market in accordance with paragraphs 1 and 2 may be filled with food and sealed during the 12 months following the expiry of the applicable transitional period. The resulting packaged food may be placed on the market until exhaustion of stocks.
+
+## Article 12 — Transitional provisions concerning repeat-use final food contact articles
+
+1\. Repeat-use final food contact articles manufactured using BPA and complying with the rules as applicable before the date of entry into force of this Regulation, which do not comply with the rules in this Regulation, may be first placed on the market until 20 July 2026.
+
+2\. By way of derogation from paragraph 1, repeat-use final food contact articles used as professional food production equipment, complying with the rules as applicable before the date of entry into force of this Regulation, which do not comply with the rules in this Regulation, may be first placed on the market until 20 January 2028.
+
+3\. Repeat-use final food contact articles that were first placed on the market in accordance with paragraph 1 may remain on the market until 20 July 2027. Repeat-use final food contact articles that were first placed on the market in accordance with paragraph 2 may remain on the market until 20 January 2029.
+
+## Article 13 — Repeal
+
+Regulation (EU) 2018/213 is repealed.
+
+## Article 14 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+The chemical structure of substances for which the definition ‘bisphenol’ and ‘bisphenol derivative’ applies is as follows:
+
+| (A) Bisphenol structure | (B) Bisphenol derivative structure |
+| --- | --- |
+| [image] | [image] |
+
+Notes. X refers to any bridging group separating the two phenyl rings by one single atom, but the atom can have any substituent(s).
+
+R1 to R10 refers to any substituent. At least one of the substituents is not a hydrogen atom (H).
+
+## ANNEX II — Union list of BPA and other hazardous bisphenols and hazardous bisphenol derivatives authorised for use in the manufacture of food contact materials and articles for specific applications
+
+Column 1 (FCM substance No): the Food Contact Materials (FCM) substance number
+
+Column 2 (CAS No): the Chemical Abstracts Service (CAS) registry number
+
+Column 3 (Substance name): the IUPAC chemical name
+
+Column 4 (Material type): the group of materials and articles which may be covered by specific measures
+
+Column 5 (Specific application): the specific application for which the use of the substance is restricted and for which the derogation applies
+
+Column 6 (Other restrictions): other restrictions that apply
+
+<table>
+<tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td></tr>
+<tr><td>FCM substance No</td><td>CAS No</td><td>Substance name</td><td>Material type</td><td>Specific application</td><td>Other restrictions</td></tr>
+<tr><td rowspan="2">151</td><td rowspan="2">80-05-7</td><td rowspan="2">4,4’-isopropylidenediphenol (bisphenol A)</td><td>Varnishes and coatings</td><td>For use as a monomer or starting substance in the manufacture of liquid epoxy resins to be applied on self-supporting food contact materials or articles with a capacity greater than 1 000 litres</td><td>Migration into food shall not be detectable. Final food contact articles shall be cleaned and flushed prior to first being brought into contact with food </td></tr>
+<tr><td>Plastics</td><td>For use as a monomer or starting substance in the manufacture of polysulfone filtration membrane assemblies</td><td>Migration into food shall not be detectable. Final food contact articles shall be cleaned and flushed prior to first being brought into contact with food </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+The declaration of compliance referred to in Article 8 shall contain the following information:
+
+(1) the identity and address as well as contact details including either a current telephone number or email address of the business operator issuing the declaration of compliance;
+
+(2) the identity and address as well as contact details including either a current telephone number or email address of the business operator which manufactures or imports the food contact material or article;
+
+(3) the identity of the intermediate food contact materials or final food contact articles;
+
+(4) the date of the declaration;
+
+(5) a list of any bisphenols or bisphenol derivatives used in the manufacture of the food contact material or article;
+
+(6) a statement that the intermediate food contact material or article or final food contact article complies with this Regulation and the requirements set out in Articles 3, 15 and 17 of Regulation (EC) No 1935/2004.
+
+( 1 ) Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
+
+( 2 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products (OJ L 95, 7.4.2017, p. 1, ELI: http://data.europa.eu/eli/reg/2017/625/oj).
+
+( 3 ) Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58, ELI: http://data.europa.eu/eli/dir/2001/112/oj).
+
+( 4 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55, ELI: http://data.europa.eu/eli/reg/2004/853/oj).

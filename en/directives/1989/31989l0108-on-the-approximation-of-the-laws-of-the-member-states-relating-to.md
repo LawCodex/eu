@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(89/108/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/107/EC of 20 November 2006 </td><td> L 363</td><td>411</td><td>20.12.2006</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/20/EU of 13 May 2013 </td><td> L 158</td><td>234</td><td>10.6.2013</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

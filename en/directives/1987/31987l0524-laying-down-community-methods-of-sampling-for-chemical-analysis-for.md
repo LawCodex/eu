@@ -304,6 +304,7 @@ The short type borer shall have a detachable grip of wood or plastic, fitted wit
 
 The borers shall conform to the dimensions (subject to a tolerance of 10 %) given in the table hereafter:
 
+<table>
 <tbody><tr><td colspan="3">(Dimensions in mm)</td></tr>
 <tr><td></td><td>Type A long</td><td>Type B short</td></tr>
 <tr><td>Length of blade</td><td>800</td><td>400</td></tr>
@@ -313,6 +314,7 @@ The borers shall conform to the dimensions (subject to a tolerance of 10 %) give
 <tr><td>Slit width at point</td><td>4</td><td>20</td></tr>
 <tr><td>Slit width at grip or stem</td><td>14</td><td>14</td></tr>
 </tbody>
+</table>
 
 **5\. Note on use of borers**
 

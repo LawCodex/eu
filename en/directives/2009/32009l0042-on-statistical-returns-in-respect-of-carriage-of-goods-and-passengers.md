@@ -26,11 +26,13 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DECISION of 14 April 2010 </td><td> L 94</td><td>33</td><td>15.4.2010</td></tr>
 <tr><td></td><td> REGULATION (EU) No 1090/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 </td><td> L 325</td><td>1</td><td>9.12.2010</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DECISION of 3 February 2012 </td><td> L 101</td><td>5</td><td>11.4.2012</td></tr>
+</table>
 
 **DIRECTIVE 2009/42/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -278,6 +280,7 @@ For goods carried in containers or Ro-Ro units, the following additional particu
 
 **Type of cargo classification**
 
+<table>
 <tbody><tr><td>Category (6)</td><td>Code 1 digit </td><td>Code 2 digits </td><td>Description</td><td>Tonnage</td><td>Number of units</td></tr>
 <tr><td rowspan="5">Liquid bulk</td><td rowspan="5">1</td><td>1X</td><td>Liquid bulk goods (no cargo unit)</td><td>X</td><td>  </td></tr>
 <tr><td>11</td><td>Liquefied gas</td><td>X</td><td>  </td></tr>
@@ -313,9 +316,11 @@ For goods carried in containers or Ro-Ro units, the following additional particu
 <tr><td>92</td><td>Iron and steel products</td><td>X</td><td>  </td></tr>
 <tr><td>99</td><td>Other general cargo</td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 **Supplement to the type of cargo classification for ro-ro containers**
 
+<table>
 <tbody><tr><td>Category (6)</td><td>Code 1 digit </td><td>Code 2 digits </td><td>Description</td><td>Tonnage</td><td>Number of units</td></tr>
 <tr><td rowspan="5">Large Ro-Ro Containers</td><td rowspan="5">R</td><td>RX</td><td>Large Ro-Ro containers</td><td>  </td><td>X</td></tr>
 <tr><td>R1</td><td>20 ft freight units</td><td>  </td><td>X</td></tr>
@@ -323,6 +328,7 @@ For goods carried in containers or Ro-Ro units, the following additional particu
 <tr><td>R3</td><td>Freight units &gt; 20 ft and &lt; 40 ft</td><td>  </td><td>X</td></tr>
 <tr><td>R4</td><td>Freight units &gt; 40 ft</td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
@@ -378,6 +384,7 @@ The nomenclature to be used is the Geonomenclature (the nomenclature of countrie
 
 The code consists of four digits: the ISO alpha 2 standard code for each country from the abovementioned nomenclature, followed by two zeros (e.g. code GR00 for Greece), except for countries which are divided into two or more maritime coastal areas, which are identified by a fourth digit other than zero (from 1 to 7), as below:
 
+<table>
 <tbody><tr><td>Code</td><td>Maritime coastal areas</td></tr>
 <tr><td>FR01</td><td>France: Atlantic and North Sea</td></tr>
 <tr><td>FR02</td><td>France: Mediterranean</td></tr>
@@ -428,6 +435,7 @@ The code consists of four digits: the ISO alpha 2 standard code for each country
 <tr><td>ZZ01</td><td>Offshore installations not elsewhere specified</td></tr>
 <tr><td>ZZ02</td><td>Aggregates and not elsewhere specified</td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 
@@ -479,6 +487,7 @@ US02 Puerto Rico
 
 **TYPE OF SHIP CLASSIFICATION (ICST-COM)**
 
+<table>
 <tbody><tr><td>  </td><td>Type</td><td>Ship categories included</td></tr>
 <tr><td>10</td><td>Liquid bulk</td><td>Oil tanker Chemical tanker  LG tanker  Tanker barge  Other tanker </td></tr>
 <tr><td>20</td><td>Dry bulk</td><td>Bulk/oil carrier Bulk carrier </td></tr>
@@ -495,6 +504,7 @@ US02 Puerto Rico
 <tr><td>XX</td><td>Unknown</td><td>Unknown type of vessel</td></tr>
 <tr><td colspan="3">(*1)  Not covered by this Directive. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VII
 
@@ -504,6 +514,7 @@ US02 Puerto Rico
 
 This classification applies only to vessels with a gross tonnage of 100 or more.
 
+<table>
 <tbody><tr><td rowspan="2">Class</td><td colspan="2">Lower limit</td><td colspan="2">Upper limit</td></tr>
 <tr><td>DWT</td><td>GT</td><td>DWT</td><td>GT</td></tr>
 <tr><td>01</td><td>—</td><td>100 </td><td>up to 499</td><td>up to 499</td></tr>
@@ -530,6 +541,7 @@ This classification applies only to vessels with a gross tonnage of 100 or more.
 <tr><td>22</td><td>≥ 300 000 </td><td>≥ 300 000 </td><td>—</td><td>—</td></tr>
 <tr><td colspan="5">NB: If vessels with a gross tonnage of less than 100 were to be included pursuant to this Directive, they would be allocated class code ‘99’.</td></tr>
 </tbody>
+</table>
 
 ## ANNEX VIII
 
@@ -553,6 +565,7 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 
 — Data sets C2 and F1 are voluntary.
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="8">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>A1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -564,7 +577,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Type of cargo</td><td>One-character alphanumeric</td><td>Type of cargo, Annex II</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="8">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>A2</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -576,7 +591,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Type of cargo</td><td>Two-character alphanumeric</td><td>Type of cargo (non-unit-load only), Annex II (subcategories 1X, 11, 12, 13, 19, 2X, 21, 22, 23, 29, 9X, 91, 92 and 99)</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="5">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>A3</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -585,7 +602,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Direction</td><td>One-character alphanumeric</td><td>Inwards, outwards (1, 2)</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes. Number of passengers (excluding cruise passengers).  Number of cruise passengers starting and ending a cruise.  Number of cruise passengers on cruise passenger excursion: direction: inwards (1) only – (optional). </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="9">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>B1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -598,7 +617,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Commodity</td><td>Two-character alphanumeric</td><td>Goods nomenclature, Annex III</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="8">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>C1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -610,7 +631,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Type of cargo</td><td>Two-character alphanumeric</td><td>Type of cargo (container, Ro-Ro only) Annex II (subcategories 3X, 31, 32, 33, 34, 5X, 51, 52, 53, 54, 56, 59, 6X, 61, 62, 64, 65, 66 and 69)</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes (type of cargo: subcategories 3X, 31, 32, 33, 34, 5X, 51, 54, 56, 59, 6X, 61, 62, 64, 65, 66 and 69). Total number of units (type of cargo: subcategories 3X, 31, 32, 33, 34, 5X, 51, 52, 53, 54, 56, 59, 6X, 61, 62, 64, 65, 66 and 69).  Number of units without cargo (type of cargo: subcategories 3X, 31, 32, 33, 34, 5X, 51, 59, 6X, 61, 64, 65, 66 and 69). </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="8">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>C2</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -622,7 +645,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Type of cargo</td><td>Two-character alphanumeric</td><td>Type of cargo (Ro-Ro container only) Annex II (subcategories RX, R1, R2, R3, R4)</td></tr>
 <tr><td colspan="4">Data: Total number of units (type of cargo: subcategories RX, R1, R2, R3, R4). Number of units without cargo (type of cargo: subcategories RX, R1, R2, R3, R4) – (optional). </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="8">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>D1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -634,7 +659,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Nationality of registration of vessel (optional)</td><td>Four-character alphanumeric</td><td>Nationality of registration of vessels, Annex V</td></tr>
 <tr><td colspan="4">Data: Number of passengers excluding cruise passengers starting and ending a cruise and cruise passengers on excursion.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="9">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>E1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -647,7 +674,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Nationality of registration of vessel</td><td>Four-character alphanumeric</td><td>Nationality of registration of vessels, Annex V</td></tr>
 <tr><td colspan="4">Data: Gross weight of goods in tonnes.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="7">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>F1</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -658,7 +687,9 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Size of vessel DWT</td><td>Two-character alphanumeric</td><td>Deadweight size classes, Annex VII</td></tr>
 <tr><td colspan="4">Data: Number of vessels. Deadweight of vessels in tonnes. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Variables</td><td>Coding detail</td><td>Nomenclature</td></tr>
 <tr><td rowspan="7">Dimensions</td><td>Data set</td><td>Two-character alphanumeric</td><td>F2</td></tr>
 <tr><td>Reference year</td><td>Four-character alphanumeric</td><td>(e.g. 1997)</td></tr>
@@ -669,6 +700,7 @@ The data sets specified in this Annex define the periodicity for the maritime tr
 <tr><td>Size of vessel GT</td><td>Two-character alphanumeric</td><td>Gross tonnage size classes, Annex VII</td></tr>
 <tr><td colspan="4">Data: Number of vessels. Gross tonnage of vessels. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IX
 

@@ -90,6 +90,7 @@ Annex I to Directive 2002/32/EC is amended as follows:
 
 1\. Row 4, Mercury, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="9"><table><tbody><tr><td>‘4.</td><td>Mercury (*1) (*2)</td></tr>
@@ -120,9 +121,11 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>0,3 </td></tr>
 </tbody>
+</table>
 
 2\. Row 5, Nitrites, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="7"><table><tbody><tr><td>‘5.</td><td>Nitrites</td></tr>
@@ -145,9 +148,11 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>—’</td></tr>
 </tbody>
+</table>
 
 3\. Row 9, Free gossypol is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="10"><table><tbody><tr><td>‘9.</td><td>Free gossypol</td></tr>
@@ -182,6 +187,7 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>60 ’</td></tr>
 </tbody>
+</table>
 
 4\. Row 32, ‘Mowrah, Bassia, Madhuca – Madhuca longifolia (L.) Macbr. (= Bassia longifolia L. = Illiped malabrorum Engl.) Madhuca indica Gmelin (= Bassia latifolia Roxb.) = Illipe latifolia (Roscb.) F. Mueller)’ is deleted.
 

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **on access to the groundhandling market at Community airports**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> DECISION (EU) 2024/1254 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 </td><td> L 1254</td><td>1</td><td>30.4.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 96/67/EC**
 

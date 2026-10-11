@@ -454,6 +454,7 @@ This Annex describes in general terms the elements to be considered and the proc
 
 **A. Elements of assessment**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>The following should be considered as potentially harmful effects:<table><tbody><tr><td>—</td><td>disease to humans, including allergenic or toxic effects,</td></tr>
 </tbody>
 </table>
@@ -471,7 +472,9 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>The assessment referred to in Article 4(2) should be based on the following:<table><tbody><tr><td>(a)</td><td>the identification of any potentially harmful effects, in particular those associated with:<table><tbody><tr><td>(i)</td><td>the recipient micro-organism;</td></tr>
 </tbody>
 </table>
@@ -501,12 +504,14 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **B. Procedure**
 
 |  | 3. | The first stage in the assessment process should be to identify the harmful properties of the recipient and, where appropriate, the donor micro-organism, and any harmful properties associated with the vector or inserted material, including any alteration in the recipient’s existing properties. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>In general, only GMMs which show the following characteristics would be considered appropriate for inclusion in class 1 as defined in Article 4(3):<table><tbody><tr><td>(i)</td><td>the recipient or parental micro-organism is unlikely to cause disease to humans, animals or plants (2);</td></tr>
 </tbody>
 </table>
@@ -518,6 +523,7 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5. | In order to obtain the necessary information to implement this process the user may firstly take into account relevant Community legislation (in particular Directive 2000/54/EC). International or national classification schemes (e.g. World Health Organisation, National Institutes of Health) and their revisions due to new scientific knowledge and technical progress may also be considered. These schemes concern natural micro-organisms and as such are usually based on the ability of micro-organisms to cause disease to humans, animals or plants and on the severity and transmissibility of the disease likely to be caused. Directive 2000/54/EC classifies micro-organisms, as biological agents, into four classes of risk on the basis of potential effects on a healthy human adult. These classes of risk can be used as guidance for the purposes of categorisation of the contained use activities in the four classes of risk referred to in Article 4(3). The user may also take into consideration classification schemes referring to plant and animal pathogens (which are usually established on a national basis). The abovementioned classification schemes give only a provisional indication of the risk class of the activity and the corresponding set of containment and control measures. |
 | --- | --- | --- |
@@ -525,6 +531,7 @@ This Annex describes in general terms the elements to be considered and the proc
 |  | 6. | The hazard identification process carried out in accordance with points 3 to 5 should lead to the identification of the level of risk associated with the GMM. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>Selection of the containment and other protective measures should then be made on the basis of the level of risk associated with the GMMs together with consideration of:<table><tbody><tr><td>(i)</td><td>the characteristics of the environment likely to be exposed (e.g. whether in the environment likely to be exposed to the GMMs there are known biota which can be adversely affected by the micro-organisms used in the contained use activity);</td></tr>
 </tbody>
 </table>
@@ -536,6 +543,7 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
  Consideration of items (i) to (iii) for the particular activity may increase, reduce or leave unaltered the level of risk associated with the GMM as identified under point 6. </td></tr>
 </tbody>
+</table>
 
 |  | 8. | The analysis carried out as described above will finally lead to the assignment of the activity to one of the classes described in Article 4(3). |
 | --- | --- | --- |
@@ -553,6 +561,7 @@ This Annex describes in general terms the elements to be considered and the proc
 
 **General principles**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>These tables present the normal minimum requirements and measures necessary for each level of containment. Containment is also achieved through the use of good work practices, training, containment equipment and special installation design. For all activities involving GMMs the principles of good microbiological practice and the following principles of good occupational safety and hygiene shall apply: <table><tbody><tr><td>(i)</td><td>to keep workplace and environmental exposure to any GMM to the lowest practicable level;</td></tr>
 </tbody>
 </table>
@@ -600,7 +609,9 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>The titles of the tables are indicative:<table><tbody><tr><td></td><td>Table I A presents minimum requirements for laboratory activities.</td></tr>
 </tbody>
 </table>
@@ -615,6 +626,7 @@ This Annex describes in general terms the elements to be considered and the proc
 </table>
  In some particular cases, it might be necessary to apply a combination of measures, from Table I A and Table II, of the same level.  In some cases users may, with the agreement of the competent authority, not apply a specification under a particular containment level or combine specifications from two different levels.  In these tables ‘optional’ means that the user may apply these measures on a case-by-case basis, subject to the assessment referred to in Article 4(2). </td></tr>
 </tbody>
+</table>
 
 |  | 3. | In implementing this Annex, Member States may in addition incorporate in the following tables the general principles set out in points 1 and 2, with a view to clarifying the requirements. |
 | --- | --- | --- |
@@ -623,6 +635,7 @@ This Annex describes in general terms the elements to be considered and the proc
 
 **Containment and other protective measures for laboratory activities**
 
+<table>
 <tbody><tr><td colspan="2" rowspan="2">Specifications</td><td colspan="4">Containment levels</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td>1</td><td>Laboratory suite: isolation (1)</td><td>Not required</td><td>Not required</td><td>Required</td><td>Required</td></tr>
@@ -653,6 +666,7 @@ This Annex describes in general terms the elements to be considered and the proc
 <tr><td>21</td><td>Laboratory to contain its own equipment</td><td>Not required</td><td>Not required</td><td>Optional</td><td>Required</td></tr>
 <tr><td>23</td><td>An observation window or alternative is to be present so that occupants can be seen</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Required</td></tr>
 </tbody>
+</table>
 
 **Table I B**
 
@@ -662,6 +676,7 @@ The terms ‘glasshouse’ and ‘growth-room’ refer to a structure with walls
 
 All provisions of Table I A shall apply with the following additions/modifications:
 
+<table>
 <tbody><tr><td colspan="2" rowspan="2">Specifications</td><td colspan="4">Containment levels</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="6">Building</td></tr>
@@ -676,6 +691,7 @@ All provisions of Table I A shall apply with the following additions/modificatio
 <tr><td>6</td><td>Measures to control undesired species such as insects, rodents, arthropods</td><td>Required</td><td>Required</td><td>Required</td><td>Required</td></tr>
 <tr><td>7</td><td>Procedures for transfer of living material between the glasshouse/growth-room, protective structure and laboratory shall control dissemination of GMMs</td><td>Minimise dissemination</td><td>Minimise dissemination</td><td>Prevent dissemination</td><td>Prevent dissemination</td></tr>
 </tbody>
+</table>
 
 **Table I C**
 
@@ -683,6 +699,7 @@ All provisions of Table I A shall apply with the following additions/modificatio
 
 All provisions of Table I A shall apply with the following additions/modifications:
 
+<table>
 <tbody><tr><td colspan="2" rowspan="2">Specifications</td><td colspan="4">Containment levels</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="6">Facilities</td></tr>
@@ -694,11 +711,13 @@ All provisions of Table I A shall apply with the following additions/modificatio
 <tr><td>5</td><td>Animals kept in appropriate containment facilities such as cages, pens or tanks</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
 <tr><td>6</td><td>Filters on isolators or isolated room (11)</td><td>Not required</td><td>Optional</td><td>Required</td><td>Required</td></tr>
 </tbody>
+</table>
 
 **Table II**
 
 **Containment and other protective measures for other activities**
 
+<table>
 <tbody><tr><td colspan="2" rowspan="2">Specifications</td><td colspan="4">Containment levels</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="6">General</td></tr>
@@ -729,6 +748,7 @@ All provisions of Table I A shall apply with the following additions/modificatio
 <tr><td>22</td><td>Inactivation of GMMs in effluent from hand-washing sinks and showers or similar effluents</td><td>Not required</td><td>Not required</td><td>Optional</td><td>Required</td></tr>
 <tr><td>23</td><td>Inactivation of GMMs in contaminated material and waste, including those in process effluent before final discharge</td><td>Optional</td><td>Required, by validated means</td><td>Required, by validated means</td><td>Required, by validated means</td></tr>
 </tbody>
+</table>
 
 (1)
 

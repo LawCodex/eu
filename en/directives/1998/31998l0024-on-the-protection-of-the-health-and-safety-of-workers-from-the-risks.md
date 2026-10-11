@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2007/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2007 </td><td> L 165</td><td>21</td><td>27.6.2007</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/27/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 65</td><td>1</td><td>5.3.2014</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 869</td><td>1</td><td>19.3.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 98/24/EC**
 
@@ -407,12 +409,14 @@ This Directive is addressed to the Member States.
 
 **LIST OF BINDING OCCUPATIONAL EXPOSURE LIMIT VALUES**
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>μg/m3(5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>μg/m3(5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
 <tr><td>Diisocyanates (measured as NCO (10)) </td><td>  </td><td>  </td><td>6</td><td>  </td><td>  </td><td>12</td><td>  </td><td>  </td><td>Skin (8) Dermal and respiratory sensitisation (9) </td><td>A limit value of 10 μg NCO/m3 in relation to a reference period of 8 hours and a short-term exposure limit value of 20 μg NCO/m3 shall apply until 31 December 2028.</td></tr>
 <tr><td colspan="11">(1)  EC No, i.e., Einecs, ELINCS or NLP, is the official number of the substance within the European Union, as defined in Annex VI, Part 1, Section 1.1.1.2, to Regulation (EC) No 1272/2008.  (2)  CAS No: Chemical Abstract Service Registry Number.  (3)  Measured or calculated in relation to a reference period of 8-hour time-weighted average (TWA).  (4)  Short-term exposure limit (STEL). A limit value above which exposure should not occur and which is related to a 15-minute period unless otherwise specified.  (5)  μg/m3 = micrograms per cubic metre of air at 20 °C and 101,3 kPa (760 mm mercury pressure).  (6)  ppm = parts per million by volume in air (ml/m3).  (7)  f/ml = fibres per millilitre.  (8)  Substantial contribution to the total body burden via dermal exposure possible.  (9)  The substance can cause sensitisation of the skin and of the respiratory tract.  (10)  NCO refers to isocyanate functional groups of the diisocyanate compounds. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — BINDING BIOLOGICAL LIMIT VALUES AND HEALTH SURVEILLANCE MEASURES
 
@@ -422,6 +426,7 @@ The production, manufacture or use at work of the chemical agents and activities
 
 **(a) Chemical Agents**
 
+<table>
 <tbody><tr><td>EINECS No (1)</td><td>CAS No (2)</td><td>Name of agent</td><td>Concentration limit for exemption</td></tr>
 <tr><td>202-080-4</td><td>91-59-8</td><td>2-naphthylamine and its salts</td><td>0,1 % w/w</td></tr>
 <tr><td>202-177-1</td><td>92-67-1</td><td>4-aminodiphenyl and its salts</td><td>0,1 % w/w</td></tr>
@@ -429,6 +434,7 @@ The production, manufacture or use at work of the chemical agents and activities
 <tr><td>202-204-7</td><td>92-93-3</td><td>4-nitrodiphenyl</td><td>0,1 % w/w</td></tr>
 <tr><td colspan="4">(1)  EINECS: European Inventory of Existing Commercial Chemical Substances  (2)  CAS: Chemical Abstracts Service </td></tr>
 </tbody>
+</table>
 
 **(b) Work activities**
 

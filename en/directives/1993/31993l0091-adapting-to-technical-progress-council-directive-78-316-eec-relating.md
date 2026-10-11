@@ -30,9 +30,11 @@ adapting to technical progress Council Directive 78/316/EEC relating to the inte
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Directive 94/53/EC of 15 November 1994</td><td> L 299</td><td>26</td><td>22.11.1994</td></tr>
+</table>
 
 COMMISSION DIRECTIVE 93/91/EEC
 

@@ -1,0 +1,67 @@
+---
+title: "Council Regulation (EC) No 313/2003 of 18 February 2003 extending Regulation (EC) No 310/2002 concerning certain restrictive measures in respect of Zimbabwe"
+identifier: "32003R0313"
+eli: "http://data.europa.eu/eli/reg/2003/313/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2003-02-18
+entry_into_force: 2004-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R0313"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 313/2003 of 18 February 2003 extending Regulation (EC) No 310/2002 concerning certain restrictive measures in respect of Zimbabwe
+
+Council Regulation (EC) No 313/2003
+
+of 18 February 2003
+
+extending Regulation (EC) No 310/2002 concerning certain restrictive measures in respect of Zimbabwe
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 60 and 301 thereof,
+
+Having regard to Council Common Position 2003/115/CFSP of 18 February 2003 amending and extending Common Position 2002/145/CFSP concerning restrictive measures against Zimbabwe(1),
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) Regulation (EC) No 310/2002 of 18 February 2002 concerning certain restrictive measures in respect of Zimbabwe(2) expires on 20 February 2003 and Article 13 of that Regulation provides expressly for the possibility of renewal.
+
+(2) There has been a further deterioration in the situation in Zimbabwe, where serious violations of human rights and freedom of opinion, association and peaceful assembly continue to occur.
+
+(3) Accordingly, Common Position 2003/115/CFSP provides for the extension until 20 February 2004 of the restrictive measures provided for by Common Position 2002/145/CFSP of 18 February 2002 concerning restrictive measures against Zimbabwe(3). In particular those measures include the freezing of funds, financial assets or economic resources of individual members of the government and natural or legal persons associated with them as well as a ban on the export of equipment which might be used for internal repression, and a ban on technical advice, assistance or training related to military activities.
+
+(4) Consequently, Regulation (EC) No 310/2002 needs to be extended for a further 12 months,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The period of application of Regulation (EC) No 310/2002 is extended by 12 months, i.e. until 20 February 2004, unless its period of application is further renewed.
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 February 2003.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 February 2003.
+
+For the Council
+
+The President
+
+N. Christodoulakis
+
+(1) See page 30 of this Official Journal.
+
+(2) OJ L 50, 21.2.2002, p 4. Regulation as last amended by Commission Regulation (EC) No 1643/2002 (OJ L 247, 14.9.2002, p. 22).
+
+(3) OJ L 50, 21.2.2002, p. 1. Common Position as last amended by Council Decision 2002/754/CFSP (OJ L 247, 14.9.2002, p. 56).

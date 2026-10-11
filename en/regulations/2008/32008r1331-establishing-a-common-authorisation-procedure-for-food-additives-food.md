@@ -1,0 +1,205 @@
+---
+title: "Regulation (EC) No 1331/2008 of the European Parliament and of the Council of 16 December 2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings (Text with EEA relevance)"
+identifier: "32008R1331"
+eli: "http://data.europa.eu/eli/reg/2008/1331/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-12-16
+entry_into_force: 2008-02-25
+last_amended: 2021-03-27
+consolidated_version: "02008R1331-20210327"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R1331-20210327"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1331/2008 of the European Parliament and of the Council of 16 December 2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings (Text with EEA relevance)
+
+**REGULATION (EC) No 1331/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2008**
+
+**establishing a common authorisation procedure for food additives, food enzymes and food flavourings**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1331/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2008**
+
+**establishing a common authorisation procedure for food additives, food enzymes and food flavourings**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PRINCIPLES
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down a common procedure for the assessment and authorisation (hereinafter referred to as the common procedure) of food additives, food enzymes, food flavourings and source materials of food flavourings and of food ingredients with flavouring properties used or intended for use in or on foodstuffs (hereinafter referred to as the substances), which contributes to the free movement of food within the Community and to a high level of protection of human health and to a high level of consumer protection, including the protection of consumer interests. This Regulation shall not apply to smoke flavourings falling within the scope of Regulation (EC) No 2065/2003 of the European Parliament and of the Council of 10 November 2003 on smoke flavourings used or intended for use in or on foods ( 1 ).
+
+2\. The common procedure shall lay down the procedural arrangements for updating the lists of substances the marketing of which is authorised in the Community pursuant to Regulation (EC) No 1333/2008 [on food additives], Regulation (EC) No 1332/2008 [on food enzymes] and Regulation (EC) No 1334/2008 [on flavourings and certain food ingredients with flavouring properties for use in and on foods] (hereinafter referred to as the sectoral food laws).
+
+3\. The criteria according to which substances can be included on the Community list provided for in Article 2, the content of the regulation referred to in Article 7 and, where applicable, the transitional provisions concerning ongoing procedures are laid down in each sectoral food law.
+
+### Article 2 — Community list of substances
+
+1\. Under each sectoral food law, substances that have been authorised to be placed on the Community market shall be included on a list the content of which is determined by the said law (hereinafter referred to as the Community list). The Community list shall be updated by the Commission. It shall be published in the Official Journal of the European Union.
+
+2\. ‘Updating the Community list’ means:
+
+(a) adding a substance to the Community list;
+
+(b) removing a substance from the Community list;
+
+(c) adding, removing or changing conditions, specifications or restrictions associated with the presence of a substance on the Community list.
+
+## CHAPTER II — COMMON PROCEDURE
+
+### Article 3 — Main stages of the common procedure
+
+1\. The common procedure for updating the Community list may be started either on the initiative of the Commission or following an application. Applications may be made by a Member State or by an interested party, who may represent several interested parties, in accordance with the conditions provided for by the implementing measures referred to in Article 9(1)(a) (hereinafter referred to as the applicant). Applications shall be sent to the Commission.
+
+2\. The Commission shall seek the opinion of the European Food Safety Authority (hereinafter referred to as the Authority), to be given in accordance with Article 5.
+
+However, for the updates referred to in Article 2(2)(b) and (c), the Commission shall not be required to seek the opinion of the Authority if the updates in question are not liable to have an effect on human health.
+
+3\. The common procedure shall end with the adoption by the Commission of a regulation implementing the update, in accordance with Article 7.
+
+4\. By way of derogation from paragraph 3, the Commission may end the common procedure and decide not to proceed with a planned update, at any stage of the procedure, if it judges that such an update is not justified. Where applicable, it shall take account of the opinion of the Authority, the views of Member States, any relevant provisions of Community law and any other legitimate factors relevant to the matter under consideration.
+
+In such cases, where applicable, the Commission shall inform the applicant and the Member States directly, indicating in its letter the reasons for not considering the update justified.
+
+### Article 4 — Initiating the procedure
+
+1\. On receipt of an application to update the Community list, the Commission:
+
+(a) shall acknowledge receipt of the application in writing to the applicant within 14 working days of receiving it;
+
+(b) where applicable, shall as soon as possible notify the Authority of the application and request its opinion in accordance with Article 3(2).
+
+The application shall be made available to the Member States by the Commission.
+
+2\. Where it starts the procedure on its own initiative, the Commission shall inform the Member States and, where applicable, request the opinion of the Authority.
+
+### Article 5 — Opinion of the Authority
+
+1\. The Authority shall give its opinion within nine months of receipt of a valid application.
+
+2\. The Authority shall forward its opinion to the Commission, the Member States and, where applicable, the applicant.
+
+### Article 6 — Additional information concerning risk assessment
+
+1\. In duly justified cases where the Authority requests additional information from applicants, the period referred to in Article 5(1) may be extended. After consulting the applicant, the Authority shall lay down a period within which this information can be provided and shall inform the Commission of the additional period needed. If the Commission does not object within eight working days of being informed by the Authority, the period referred to in Article 5(1) shall be automatically extended by the additional period. The Commission shall inform the Member States of the extension.
+
+2\. If the additional information is not sent to the Authority within the additional period referred to in paragraph 1, the Authority shall finalise its opinion on the basis of the information already provided.
+
+3\. Where applicants submit additional information on their own initiative, they shall send it to the Authority and to the Commission. In such cases, the Authority shall give its opinion within the original period without prejudice to Article 10.
+
+4\. The additional information shall be made available to the Member States and the Commission by the Authority.
+
+5\. The Authority shall make public the additional information supplied by the applicant in accordance with Articles 11 and 12.
+
+### Article 7 — Updating the Community list
+
+1\. Within nine months of the Authority giving its opinion, the Commission shall submit to the Committee referred to in Article 14(1) a draft regulation updating the Community list, taking account of the opinion of the Authority, any relevant provisions of Community law and any other legitimate factors relevant to the matter under consideration.
+
+In those cases where an opinion of the Authority has not been requested, the nine-month period shall start from the date the Commission receives a valid application.
+
+2\. In the Regulation updating the Community list, the considerations on which it is based shall be explained.
+
+3\. Where the draft regulation is not in accordance with the opinion of the Authority, the Commission shall explain the reasons for its decision.
+
+4\. The measures, designed to amend non-essential elements of each sectoral food law, relating to the removal of a substance from the Community list, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+5\. On grounds of efficiency, the measures designed to amend non-essential elements of each sectoral food law, inter alia, by supplementing it, relating to the addition of a substance to the Community list and for adding, removing or changing conditions, specifications or restrictions associated with the presence of the substance on the Community list, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(4).
+
+6\. On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 14(5) for the removal of a substance from the Community list and for adding, removing or changing conditions, specifications or restrictions associated with the presence of a substance on the Community list.
+
+### Article 8 — Additional information concerning risk management
+
+1\. Where the Commission requests additional information from applicants on matters concerning risk management, it shall determine, together with the applicant, a period within which that information can be provided. In such cases, the period referred to in Article 7 may be extended accordingly. The Commission shall inform the Member States of the extension and shall make the additional information available to the Member States once it has been provided.
+
+2\. If the additional information is not sent within the additional period referred to in paragraph 1, the Commission shall act on the basis of the information already provided.
+
+## CHAPTER III — MISCELLANEOUS PROVISIONS
+
+### Article 9 — Implementing measures
+
+1\. In accordance with the regulatory procedure referred to in Article 14(2), within a period of no longer than 24 months from the adoption of each sectoral food law, the implementing measures for this Regulation shall be adopted by the Commission, and shall concern in particular:
+
+(a) the content, drafting and presentation of the application referred to in Article 4(1);
+
+(b) the arrangements for checking the validity of applications;
+
+(c) the type of information that must be included in the opinion of the Authority referred to in Article 5.
+
+2\. With a view to the adoption of the implementing measures referred to in paragraph 1(a), the Commission shall consult the Authority, which, within six months of the date of entry into force of each sectoral food law, shall present it with a proposal concerning the data required for risk assessment of the substances concerned.
+
+### Article 10 — Extension of time periods
+
+In exceptional circumstances, the periods referred to in Article 5(1) and Article 7 may be extended by the Commission on its own initiative or, where applicable, at the Authority’s request, if the nature of the matter in question so justifies, without prejudice to Article 6(1) and Article 8(1). In such cases the Commission shall, where appropriate, inform the applicant and the Member States of the extension and the reasons for it.
+
+### Article 11 — Transparency
+
+Where the Commission requests the opinion of the Authority in accordance with Article 3(2) of this Regulation, the Authority shall make public without delay the application for authorisation, relevant supporting information and any supplementary information supplied by the applicant, as well as its scientific opinions, in accordance with Articles 38 to 39e of Regulation (EC) No 178/2002. The Authority shall also make public any request for its opinion as well as any extension of period pursuant to Article 6(1) of this Regulation.
+
+### Article 12 — Confidentiality
+
+1\. The applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification, upon submission of the application.
+
+2\. Where an opinion by the Authority is required in accordance with Article 3(2) of this Regulation, the Authority shall assess the confidentiality request submitted by the applicant, in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002.
+
+3\. In addition to the items of information referred to in Article 39(2) of Regulation (EC) No 178/2002 and pursuant to Article 39(3) thereof, the Authority may also grant confidential treatment with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+
+(a) where applicable, information provided in detailed descriptions of starting substances and starting preparations and on how they are used to manufacture the substance subject to the authorisation, and detailed information on the nature and composition of the materials or products in which the applicant intends to use the substance subject to the authorisation, except for information which is relevant to the assessment of safety;
+
+(b) where applicable, detailed analytical information on the variability and stability of individual production batches of the substance subject to the authorisation, except for information which is relevant to the assessment of safety.
+
+4\. Where an opinion by the Authority is not required in accordance with Article 3(2) of this Regulation, the Commission shall assess the confidentiality request submitted by the applicant. Articles 39, 39a and 39d of Regulation (EC) No 178/2002 and paragraph 3 of this Article shall apply mutatis mutandis.
+
+5\. This Article is without prejudice to Article 41 of Regulation (EC) No 178/2002.
+
+### Article 13 — Emergencies
+
+In the event of an emergency concerning a substance on the Community list, particularly in the light of an opinion of the Authority, measures shall be adopted in accordance with the procedures referred to in Articles 53 and 54 of Regulation (EC) No 178/2002.
+
+### Article 14 — Committee
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health established by Article 58 of Regulation (EC) No 178/2002.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1) to (4) and (5)(b) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time-limits laid down in Article 5a(3)(c) and (4)(b) and (e) of Decision 1999/468/EC shall be two months, two months and four months respectively.
+
+5\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 15 — Competent authorities of the Member States
+
+Not later than six months after the entry into force of each sectoral food law, Member States shall forward to the Commission and to the Authority, in relation to each sectoral food law, the name and address of the national competent authority for the purposes of the common procedure, as well as a contact point therein.
+
+## CHAPTER IV — FINAL PROVISION
+
+### Article 16 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+For each sectoral food law, it shall apply from the date of application of the measures referred to in Article 9(1).
+
+Article 9 shall apply from 20 January 2009.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 309, 26.11.2003, p. 1.

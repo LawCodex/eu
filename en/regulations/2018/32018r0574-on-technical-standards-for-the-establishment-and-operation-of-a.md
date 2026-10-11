@@ -1,0 +1,1460 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/574 of 15 December 2017 on technical standards for the establishment and operation of a traceability system for tobacco products (Text with EEA relevance. )"
+identifier: "32018R0574"
+eli: "http://data.europa.eu/eli/reg_impl/2018/574/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-12-15
+entry_into_force: 2018-11-07
+last_amended: 2023-12-21
+consolidated_version: "02018R0574-20231221"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0574-20231221"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/574 of 15 December 2017 on technical standards for the establishment and operation of a traceability system for tobacco products (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/574**
+
+**of 15 December 2017**
+
+**on technical standards for the establishment and operation of a traceability system for tobacco products**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/448 of 1 March 2023 </td><td> L 65</td><td>28</td><td>2.3.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/574**
+
+**of 15 December 2017**
+
+**on technical standards for the establishment and operation of a traceability system for tobacco products**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down the technical standards for the establishment and operation of the traceability system provided for in Article 15 of Directive 2014/40/EU.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, in addition to the definitions laid down in Article 2 of Directive 2014/40/EU, the following definitions shall apply:
+
+(1) ‘unique identifier’ means the alphanumeric code enabling the identification of a unit pack or an aggregated packaging of tobacco products;
+
+(2) ‘economic operator’ means any natural or legal person who is involved in the trade of tobacco products, including for export, from the manufacturer to the last economic operator before the first retail outlet;
+
+(3) ‘first retail outlet’ means the facility where tobacco products are placed on the market for the first time, including vending machines used for the sale of tobacco products;
+
+(4) ‘export’ means shipment from the Union to a third country;
+
+(5) ‘aggregated packaging’ means any packaging containing more than one unit packet of tobacco products;
+
+(5a) ‘disaggregation of aggregated packaging’ means any disassembly of aggregated packaging of tobacco products;
+
+(6) ‘facility’ means any location, building, office or vending machine where tobacco products are manufactured, stored, logistically or financially handled or placed on the market;
+
+(7) ‘anti-tampering device’ means the device allowing for the recording of the verification process following the application of each unit level unique identifier by means of a video or a log file, which once recorded cannot be further altered by an economic operator;
+
+(8) ‘offline flat-files’ means the electronic files established and maintained by each ID issuer that contain data in a plain text format allowing for the extraction of information encoded in the unique identifiers (excluding the time stamp) used at the unit packet and aggregated packaging levels without accessing the repositories system;
+
+(9) ‘registry’ means the record established and maintained by each ID issuer of all the identifier codes generated for economic operators, operators of first retail outlets, facilities and machines along with the corresponding information;
+
+(10) ‘data carrier’ means a carrier representing data in a form readable with the aid of a device;
+
+(11) ‘machine’ means assemblies of machinery that are used for the manufacture of tobacco products and are integral to the manufacturing process;
+
+(11a) ‘machine part’ means any identifiable fixed or mobile part of a machine provided that such a part constitutes a complete module. A mobile part may be used for one or more machines simultaneously or interchangeably;
+
+(12) ‘time stamp’ means the date and time of occurrence of a particular event recorded in UTC (Coordinated Universal Time) time in a prescribed format;
+
+(13) ‘primary repository’ means a repository storing traceability data relating exclusively to the products of a given manufacturer or importer;
+
+(14) ‘secondary repository’ means a repository containing a copy of all traceability data stored in the primary repositories;
+
+(15) ‘router’ means a device established within the secondary repository that transfers data between different components of the repositories system;
+
+(16) ‘repositories system’ means the system consisting of the primary repositories, the secondary repository and the router;
+
+(17) ‘common data dictionary’ means a set of information describing the contents, format, and structure of a database and the relationship between its elements, used to control access to and manipulation of the databases common for all primary and secondary repositories;
+
+(18) ‘working day’ means every day of work in the Member State for which the ID issuer is competent;
+
+(19) ‘trans-loading’ means any transfer of tobacco products from one vehicle to another during which tobacco products do not enter and exit a facility;
+
+(20) ‘vending van’ means a vehicle used for the delivery of tobacco products to multiple retail outlets in quantities that have not been predetermined in advance of the delivery;
+
+(21) ‘IT service provider’ means a service provider that is tasked by an economic operator with transmitting information on product movements and transactional information to the repositories system.
+
+## CHAPTER II — TECHNICAL SPECIFICATIONS RELATED TO THE UNIQUE IDENTIFIER
+
+### SECTION 1 — Common provisions
+
+#### Article 3 — ID issuer
+
+1\. Each Member State shall appoint an entity (the ‘ID issuer’) responsible for generating and issuing unique identifiers, in accordance with Articles 8, 9, 11 and 13, within a maximum period of one year from the date of entry into force of this Implementing Regulation.
+
+2\. Member States shall ensure that an ID issuer that intends to have recourse to subcontractors for the performance of its functions shall only be considered for appointment if the identity of any subcontractors proposed has been communicated to them.
+
+3\. The ID issuer shall be independent and comply with the criteria set out in Article 35.
+
+4\. Each ID issuer shall be equipped with a unique identification code. The code shall be composed of alphanumeric characters and comply with the International Organization for Standardisation/International Electrotechnical Commission standard (‘ISO/IEC’) 15459-2:2015.
+
+5\. Where the same ID issuer is appointed in more than one Member State, it shall be identifiable by the same code.
+
+6\. Member States shall notify the Commission of the appointment of the ID issuer and of its identification code within one month of its appointment.
+
+7\. Member States shall ensure that information related to the identity of the ID issuer appointed and its identification code is made publicly available and accessible online.
+
+8\. Each Member State shall put in place adequate measures to ensure:
+
+(a) that the ID issuer it has appointed continues to comply with the requirement of independence in accordance with Article 35; and
+
+(b) the continuous operation of the services provided by successive ID issuers, in case a new ID issuer is appointed to take over the services from the previous ID issuer. For this purpose Member States shall require the ID issuer to develop an exit plan laying down the procedure to be followed to guarantee the continuity of the operations until the new ID issuer is appointed.
+
+9\. The ID issuer may establish and charge fees to economic operators for generating and issuing unique identifiers. Fees are to be non-discriminatory, cost-based and proportionate to the number of unique identifiers generated and issued to economic operators taking into account the mode of delivery. Fees may reflect all fixed and variable costs incurred by the ID issuer in meeting its requirements under this Regulation.
+
+#### Article 4 — Competent ID issuers for generating and issuing unique identifiers
+
+1\. For tobacco products manufactured in the Union, the competent ID issuer shall be the entity appointed for the Member State in which the products are manufactured.
+
+By derogation to the first subparagraph, the competent ID issuer shall be the entity appointed for the Member State on whose market the products are placed, where such a requirement is imposed by that Member State.
+
+2\. For tobacco products imported into the Union, the competent ID issuer shall be the entity appointed for the Member State on whose market the products are placed.
+
+3\. For tobacco products aggregated in the Union, the competent ID issuer shall be the entity appointed for the Member State in which the products are aggregated.
+
+4\. For tobacco products destined for export, the competent ID issuer shall be the entity appointed for the Member State in which the products are manufactured.
+
+5\. In the event of the temporary absence of the competent ID issuer, the Commission may authorise economic operators to use the services of another ID issuer that has been appointed in accordance with Article 3.
+
+#### Article 5 — Validity of unique identifiers and deactivation
+
+1\. Unique identifiers generated by ID issuers may be used to mark unit packets or aggregated packaging, as provided for by Articles 6 and 10, within a maximum period of six months from the date of receipt of the unique identifiers by the economic operator. After this time period unique identifiers shall become invalid and economic operators shall ensure that they are not used to mark unit packets or aggregated packaging.
+
+2\. The repositories system shall ensure that the unique identifiers that have not been used within the six months period referred to in paragraph 1 shall be automatically deactivated.
+
+3\. At any time, manufacturers and importers may obtain the deactivation of unique identifiers by transmitting a deactivation request to the relevant primary repository. Other economic operators may obtain the deactivation of the unique identifiers by transmitting a deactivation request via the router. The deactivation request shall be introduced electronically, in accordance with Article 36, and shall contain the information listed in point 2.3 of Section 2 of Chapter II of Annex II, in the format indicated therein. The deactivation shall not interfere with the integrity of the information already stored related to the unique identifier.
+
+### SECTION 2 — Unique identifiers at unit packet level
+
+#### Article 6 — Marking by means of unit level UIs
+
+1\. Manufacturers and importers shall mark each unit packet manufactured or imported in the Union with a unique identifier (‘unit level UI’) compliant with Article 8.
+
+2\. In the case of tobacco products that are manufactured outside the Union, the unit level UI shall be applied on the unit packet before the tobacco product is imported in the Union.
+
+#### Article 7 — Verification of unit level UIs
+
+1\. Manufacturers and importers shall ensure that the application of unit level UIs is directly followed by the verification of those unit level UIs in terms of correct application and readability.
+
+2\. The process referred to in paragraph 1 shall be protected with an anti-tampering device supplied and installed by an independent third party who shall provide a declaration to the relevant Member States and the Commission that the installed device meets the requirements of this Regulation. The record generated by the device shall provide proof of correct application and readability of each unit level unique identifier. The device shall ensure that any omission in the marking process referred to in Article 6 is recorded.
+
+3\. Where the process referred to in paragraph 1 fails to confirm the correct application and full readability of the unit level UI, manufacturers and importers shall re-apply the unit level UI.
+
+4\. Manufacturers and importers shall ensure that the information recorded by the anti-tampering device remains available for a period of nine months from the time of recording.
+
+5\. Manufacturers and importers shall, upon request from Member States, provide full access to the record of the verification process created by the anti-tampering device.
+
+6\. By way of derogation from paragraphs 2, 4 and 5, the obligation to install an anti-tampering device shall not apply:
+
+(a) until 20 May 2020 to production processes operated by economic operators, or where applicable, the group of undertakings to which they belong, that handled less than 120 million unit level UIs at Union level during the calendar year 2019;
+
+(b) until 20 May 2021 to production processes operated by economic operators falling under the definition of small and medium enterprises set out in Commission Recommendation 2003/361/EC ( 1 );
+
+(c) to fully manual production processes.
+
+#### Article 8 — Structure of unit level UIs
+
+1\. Each unit packet of tobacco products shall be marked with a unit level UI. It shall consist of as short a sequence of alphanumeric characters as possible, not exceeding 50 characters. The sequence shall be unique to a given unit packet and shall be composed of the following data elements:
+
+(a) in the first position, the alphanumeric characters that constitute the ID issuer identification code assigned pursuant to Article 3(4);
+
+(b) an alphanumeric sequence, whose probability to be guessed shall be negligible and in any case lower than one in ten thousand (‘serial number’);
+
+(c) a code (‘product code’) allowing for the determination of the following:
+
+i. the place of manufacturing;
+
+ii. the manufacturing facility referred to in Article 16;
+
+iii. the machine used to manufacture the tobacco products referred to in Article 18;
+
+iv. the product description;
+
+v. the intended market of retail sale;
+
+vi. the intended shipment route;
+
+vii. where applicable, the importer into the Union;
+
+(d) in the last position, the time stamp in the form of a numeric sequence of eight characters, in the format YYMMDDhh, indicating the date and time of manufacture.
+
+2\. ID issuers shall be responsible for the generation of a code consisting of the elements listed in paragraph 1, points (a), (b), and (c).
+
+ID issuers shall prepare and make publicly available instructions for encoding and decoding unit level UIs in accordance with Annex III.
+
+3\. Manufacturers or importers shall add the time stamp referred to in paragraph 1, point (d), to the code generated by the ID issuer pursuant to paragraph 2.
+
+4\. Unit level UIs shall not include any data elements other than those listed in paragraph 1.
+
+Where ID issuers use encryption or compression for the generation of unit level UIs, they shall inform the competent authorities of the Member States and the Commission of algorithms used for such encryption and compression. Unit level UIs shall not be reused.
+
+#### Article 9 — Request and issuing of unit level UIs
+
+1\. Manufacturers and importers shall send a request to the competent ID issuer for unit level UIs referred to in Article 8 and the corresponding human-readable codes referred to in Article 23. Requests shall be introduced electronically, in accordance with Article 36.
+
+2\. Manufacturers and importers introducing such a request shall supply the information listed in point 2.1. of Section 2 of Chapter II of Annex II, in the format indicated therein.
+
+3\. The ID issuer shall, within two working days from the receipt of the request and in the order indicated:
+
+(a) generate the codes referred to in Article 8(2) and the corresponding human-readable codes referred to in Article 23;
+
+(b) transmit both sets of codes along with the information referred to in paragraph 2 via the router to the primary repository of the requesting manufacturer or importer, as established under Article 26; and
+
+(c) electronically transmit both sets of codes to the requesting manufacturer or importer.
+
+4\. However, a Member State may require ID issuers to offer physical delivery of unit level UIs as an alternative to electronic delivery. In cases where physical delivery of unit level UIs is offered, manufacturers and importers shall specify whether physical delivery is requested. In that case, the ID issuer shall within 10 working days from the receipt of the request, and in the following order:
+
+(a) generate the codes referred to in Article 8(2) and the corresponding human-readable codes referred to in Article 23;
+
+(b) transmit both sets of codes along with the information referred to in paragraph 2 via the router to the primary repository of the requesting manufacturer or importer, as established under Article 26;
+
+(c) electronically transmit both sets of codes to the requesting manufacturer or importer;
+
+(d) deliver both sets of codes to the requesting manufacturer or importer in the form of optical barcodes, compliant with Article 21, placed on physical carriers, such as adhesive labels.
+
+5\. Within one working day, manufacturers and importers may cancel a request which was sent pursuant to paragraph 1 by means of a recall message as further defined in Point 5 of Section 5 of Chapter II of Annex II.
+
+### SECTION 3 — Unique identifiers at aggregated packaging level
+
+#### Article 10 — Marking by means of aggregated level UIs
+
+1\. Where economic operators choose to comply with the recording obligations provided for under Article 15(5) of Directive 2014/40/EU by means of the recording of aggregated packaging, they shall mark aggregated packages containing tobacco products with a unique identifier (‘aggregated level UI’).
+
+2\. Aggregated level UIs shall be generated and issued on the basis of a request to the competent ID issuer or directly by the economic operator.
+
+3\. Where the aggregated level UI is generated on the basis of a request to the competent ID issuer, it shall comply with the structure set out in Article 11(1).
+
+4\. Where the aggregated level UI is generated directly by the economic operator, it shall consist of an individual unit code generated in accordance with ISO/IEC 15459-1:2014 or ISO/IEC 15459-4:2014 or their latest equivalents.
+
+#### Article 11 — Structure of aggregated level UIs generated by ID issuers
+
+1\. For aggregated level UI generated on the basis of a request to the competent ID issuer, the structure of the aggregated level UI shall consist of a sequence of a maximum of 100 alphanumeric characters that is unique to a given aggregated package and shall be composed of the following data elements:
+
+(a) in the first position, the alphanumeric characters that constitute the ID issuer identification code assigned under Article 3(4);
+
+(b) an alphanumeric sequence, whose probability to be guessed shall be negligible and in any case lower than one in ten thousand (‘serial number’);
+
+(c) the identifier code of the facility (as set out in Article 16) in which the aggregation process took place;
+
+(d) in the last position, the time stamp in the form of a numeric sequence of eight characters, in the format YYMMDDhh, indicating the date and time of aggregation.
+
+2\. ID issuers shall be responsible for the generation of a code consisting of the elements listed in paragraph 1, points (a), (b), and (c).
+
+ID issuers shall prepare and make publicly available instructions for encoding and decoding aggregated level UIs.
+
+3\. Economic operators shall add the time stamp, referred to in paragraph 1, point (d), to the code generated by the ID issuer pursuant to paragraph 2.
+
+4\. The aggregated level UI may be completed by the economic operator with additional information, provided that the maximum character limit set out in paragraph 1 is not exceeded. Any such information may only appear after the data referred to in paragraph 1.
+
+#### Article 12 — Link between UI levels
+
+1\. The aggregated level UI shall be capable of identifying the list of all unique identifiers contained within the aggregated packaging by means of an electronically accessible link to the repositories system.
+
+2\. In order to establish the link referred to in paragraph 1, manufacturers and importers shall transmit to their primary repository the information listed in point 3.2 of Section 3 of Chapter II of Annex II, in the format indicated therein.
+
+3\. In order to establish the link referred to in paragraph 1, economic operators other than manufacturers and importers shall transmit via the router to the secondary repository the information listed in point 3.2 of Section 3 of Chapter II of Annex II, in the format indicated therein.
+
+#### Article 13 — Request and issuing of aggregated level UIs generated by ID issuers
+
+1\. Economic operators requesting aggregated level UIs on the basis of a request to the competent ID issuer shall introduce such requests electronically, in accordance with Article 36.
+
+2\. Economic operators introducing such requests shall supply the information listed in point 2.2. of Section 2 of Chapter II of Annex II, in the format indicated therein.
+
+3\. For manufacturers and importers, the ID issuer shall, within two working days from the receipt of the request and in the order indicated:
+
+(a) generate the code referred to in Article 11(2);
+
+(b) transmit the codes along with the information referred to in paragraph 2 via the router to the primary repository of the requesting manufacturer or importer, as established under Article 26; and
+
+(c) transmit the codes electronically to the requesting manufacturer or importer.
+
+4\. For economic operators other than manufacturers and importers, the ID issuer shall, within two working days from the receipt of the request and in the order indicated:
+
+(a) generate the code referred to in Article 11(2);
+
+(b) transmit the codes along with the information referred to in paragraph 2 via the router to the secondary repository established under Article 27; and
+
+(c) transmit the codes electronically to the requesting economic operators.
+
+5\. Within one working day, economic operators may cancel a request which was sent pursuant to paragraph 1 by means of a recall message as further defined in point 5 of Section 5 of Chapter II of Annex II, in the format indicated therein.
+
+6\. Aggregated level UIs issued by competent ID issuers shall not be reused.
+
+## CHAPTER III — IDENTIFIER CODES FOR ECONOMIC OPERATORS, FACILITIES AND MACHINES
+
+#### Article 14 — Request for an economic operator identifier code
+
+1\. Economic operators and operators of first retail outlets shall apply for a single code (‘economic operator identifier code’) from the ID issuer competent for each Member State in which they operate at least one facility. Importers shall also apply for an identifier code from the ID issuer competent for each Member State on whose market they place their products.
+
+Economic operators managing standalone warehouses that are not based in the Union and that handle products manufactured in the Union and destined for the Union markets in transit through third countries may apply for an economic operator identifier code from the ID issuer competent for the Member State on whose market most of the products handled by these economic operators are placed.
+
+2\. Economic operators and operators of first retail outlets introducing a request pursuant to paragraph 1 shall provide the information listed in point 1.1 of Section 1 of Chapter II of Annex II, in the format indicated therein.
+
+3\. For operators of first retail outlets the obligation to apply for an economic operator identifier code may also be discharged by any other registered economic operator. Such registration by the third party shall be subject to the consent of the operator of the first retail outlet. The third party shall inform the operator of the first retail outlet of the full details of the registration, including the allocated economic operator identifier code.
+
+4\. Economic operators and operators of first retail outlets shall inform the ID issuer of any economic operator identifier codes allocated to them by other ID issuers. If not available at the time of registration, economic operators shall provide that information at the latest within two working days from the receipt of the economic operator identifier codes allocated by another ID issuer.
+
+5\. Any modification of the information submitted in the initial application form and any cessation of the operator activities shall be notified by the relevant operator to the ID issuer without delay, in the formats indicated in points 1.2 and 1.3 of Section 1 of Chapter II of Annex II accordingly. In case the operator ceases to exist, the ID issuer shall de-register the economic operator identifier code.
+
+The de-registration of an economic operator identifier code shall lead to the automatic de-registration of related facility identifier codes and machine identifier codes by the ID issuer.
+
+#### Article 15 — Issuing and registration of economic operator identifier codes
+
+1\. Upon receipt of a request pursuant to Article 14, the ID issuer shall generate an economic operator identifier code, which consists of the following data elements, to be placed in the following order:
+
+(a) in the first position, the alphanumeric characters that constitute the ID issuer identification code assigned under Article 3(4); and
+
+(b) in the second position, an alphanumeric sequence which is unique within the code pool of the ID issuer.
+
+2\. Within two working days, the ID issuer shall transmit the code to the requesting operator.
+
+If the requesting operator is a manufacturer or an importer, it shall, within two working days from receiving the code, further transmit the code along with the information on its primary repository established in accordance with Article 26 to the operator of the secondary repository.
+
+3\. All the information submitted to the ID issuer in accordance with Article 14(2), and the corresponding identifier codes, shall form part of a registry to be established, managed and kept up to date by the competent ID issuer. The competent ID issuer shall keep a record of the information stored in the register for as long as the traceability system is operational.
+
+4\. In duly justified cases, Member States may, in accordance with their national laws, require the ID issuer to deactivate an economic operator identifier code. In such cases the Member State shall inform the economic operator or the operator of a first retail outlet of the deactivation, together with the grounds for such deactivation. The deactivation of an economic operator identifier code shall lead to the automatic deactivation of related facility identifier codes and machine identifier codes.
+
+5\. Economic operators and operators of first retail outlets shall exchange information on their respective economic operator identifier codes in order to allow economic operators to record and transmit the transactional information, as provided under Article 33.
+
+#### Article 16 — Request for a facility identifier code
+
+1\. All facilities from manufacturing to the first retail outlet shall be identified by a single code (‘facility identifier code’) generated by the ID issuer competent for the territory in which the facility is located.
+
+By way of derogation from the first subparagraph, a first retail outlet that is integrated into a non-retail type of facility shall be identified with a separate facility identifier code that corresponds to its function.
+
+2\. Economic operators and operators of first retail outlets shall apply for a facility identifier code providing to the ID issuer the information listed in point 1.4 of Section 1 of Chapter II of Annex II, in the format indicated therein.
+
+Economic operators managing standalone warehouses that are not based in the Union and that handle products manufactured in the Union and destined for the Union markets in transit through third countries may apply for a facility identifier code for a standalone warehouse that is located in a third country from the ID issuer competent for the Member State on whose market most of the products handled by these economic operators are placed. To this end, they shall provide to the ID issuer the information listed in point 1.4 of Section 1 of Chapter II of Annex II, in the format indicated therein.
+
+3\. For first retail outlets, the obligation to apply for a facility identifier code shall lie with the operator of the first retail outlet. This obligation may also be discharged by any other registered economic operator, who may act on behalf of the operator of the first retail outlet. The registration by the third party shall be subject to the consent of the operator of the first retail outlet. The third party shall inform the operator of the first retail outlet about the full details of the registration, including the allocated facility identifier code.
+
+4\. The obligation to apply for a facility identifier code related to manufacturing facilities located outside the Union shall lie with the importer established inside the Union. The importer shall apply to any ID issuer appointed by a Member State on whose market they place their products. The registration by the importer shall be subject to the consent of the entity responsible for the third country manufacturing facility. The importer shall inform the economic operator responsible for the third country manufacturing facility about the full details of registration, including the allocated facility identifier code.
+
+5\. Any modification of the information submitted in the initial application form and any facility closure shall be notified by the economic operator to the ID issuer without delay, in the formats indicated in points 1.5 and 1.6 of Section 1 of Chapter II of Annex II.
+
+The de-registration of a facility identifier code shall lead to the automatic de-registration of related machine identifier codes by the ID issuer.
+
+#### Article 17 — Issuing and registration of facility identifier codes
+
+1\. Upon receipt of a request pursuant to Article 16, the ID issuer shall generate a facility identifier code, which consists of the following data elements, to be placed in the following order:
+
+(a) in the first position, the alphanumeric characters that constitute the ID issuer identification code assigned under Article 3(4); and
+
+(b) in the second position, an alphanumeric sequence which is unique within the code pool of the ID issuer.
+
+2\. Within two working days from the receipt of the request, the ID issuer shall transmit the code to the requesting operator.
+
+3\. All the information submitted to the ID issuer in accordance with Article 16(2), and the corresponding identifier codes shall form part of a registry to be established, managed and kept up to date by the competent ID issuer. The competent ID issuer shall keep a record of the information stored in the register for as long as the traceability system is operational.
+
+4\. In duly justified cases, Member States may require the ID issuer to deactivate a facility identifier code. In such cases the Member State shall inform the economic operator or the operator of a first retail outlet of the deactivation, together with the grounds for such deactivation. The deactivation of a facility identifier code shall lead to the automatic deactivation of related machine identifier codes.
+
+5\. Economic operators and operators of first retail outlets shall exchange the information on their respective facility identifier codes in order to allow economic operators to record and transmit the information on product movements, as provided under Article 32.
+
+#### Article 18 — Request for a machine identifier code
+
+1\. Each machine and machine part shall be identified by a single code (‘machine identifier code’) generated by the ID issuer competent for the territory in which the machine is located.
+
+2\. Manufacturers and importers shall apply for a machine identifier code by providing to the ID issuer the information listed in point 1.7. of Section 1 of Chapter II of Annex II, in the format indicated therein.
+
+3\. The obligation to apply for a machine identifier code related to machines and machine parts located in manufacturing facilities outside the Union shall lie with the importer established inside the Union. The importer shall apply to any ID issuer appointed by a Member State on whose market it places its products. The registration by the importer shall be subject to the consent of the entity responsible for the third country manufacturing facility. The importer shall inform the economic operator responsible for the third country manufacturing facility as to the full details of the registration, including the allocated machine identifier code.
+
+4\. Any modification of the information submitted in the initial application form and any decommissioning of the registered machines and machine parts shall be notified by the manufacturer or the importer to the ID issuer without delay, in the formats indicated in points 1.8 and 1.9 of Section 1 of Chapter II of Annex II.
+
+Manufacturers and importers shall carry out all necessary modifications of the information submitted in the initial application forms in order to provide the necessary information on machine parts which require a machine identifier code by 20 May 2024. The modifications shall take place in the format indicated in point 1.8 of Section 1 of Chapter II of Annex II. This requirement shall also apply to the information on machines containing no separately identifiable machine parts.
+
+#### Article 19 — Issuing and registration of machine identifier codes
+
+1\. Upon receipt of a request pursuant to Article 18, the ID issuer shall generate a machine identifier code, which consists of the following data elements, to be placed in the indicated position:
+
+(a) in the first position, the alphanumeric characters that constitute the ID issuer identification code assigned under Article 3(4); and
+
+(b) in the second position, an alphanumeric sequence which is unique within the code pool of the ID issuer.
+
+2\. Within two working days, the ID issuer shall transmit the code to the requesting operator.
+
+3\. All the information submitted to the ID issuer in accordance with Article 18(2), and the corresponding identifier codes shall form part of a registry to be established, managed and kept up to date by the competent ID issuer. The competent ID issuer shall keep a record of the information stored in the register for as long as the traceability system is operational.
+
+4\. In duly justified cases, Member States may require the ID issuer to deactivate a machine identifier code. In such cases the Member State shall inform the manufacturers and importers of the deactivation, together with the grounds for such deactivation.
+
+#### Article 20 — Transfer of offline flat-files and registries
+
+1\. ID issuers shall establish offline flat-files, as well as registries relating to the information referred to in Articles 14(2), 16(2) and 18(2), along with explanatory notes on the structures thereof.
+
+2\. Offline flat-files shall be no larger than two gigabytes per ID issuer. Each line of the flat-file shall hold one record with fields separated by delimiters such as commas or tabs.
+
+3\. ID issuers shall ensure that an up-to-date copy of all offline flat-files, registries and related explanatory notes are electronically provided via the router to the secondary repository.
+
+4\. Member States may adapt the size limit for offline flat-files referred to in paragraph 2, taking into account both the average size of available memory installed on the verification devices used for offline checks of unique identifiers and the total number of ID issuers.
+
+5\. ID issuers shall provide a secure online service for economic operators and operators of first retail outlets allowing them to consult the registries referred to in paragraph 1 as far as their own economic operator, facility and machine identifier codes are concerned. This service shall include a secure procedure for economic operators and operators of first retail outlets to reclaim their own economic operator identifier codes.
+
+## CHAPTER IV — DATA CARRIERS
+
+#### Article 21 — Data carriers for the Unique Identifiers
+
+1\. Unit level UIs shall be encoded using at least one of the following types of data carriers:
+
+(a) an optical device-readable Data Matrix with error detection and correction equivalent to or higher than those of the Data Matrix ECC200. Barcodes conforming to ISO/IEC 16022:2006 shall be presumed to fulfil the requirements set out in this point;
+
+(b) an optical device-readable QR Code with a recovery capacity of approximately 30 %. Barcodes conforming to ISO/IEC 18004:2015 with the error correction level H shall be presumed to fulfil the requirements set out in this point;
+
+(c) an optical device-readable DotCode with the error detection and correction equivalent to or higher than those provided with the Reed-Solomon error correction algorithm with the number of check characters (NC) equal to three plus the number of data characters (ND) divided by two (NC = 3 + ND/2). Barcodes conforming to the ISS DotCode Symbology Specification published by the Association for Automatic Identification and Mobility (‘AIM’) (revision 3.0, August 2014) shall be presumed to fulfil the requirements set out in this point.
+
+2\. In the case of unit level UIs delivered electronically, manufacturers and importers are responsible for encoding unit level UIs in accordance with paragraph 1 and with Annex III.
+
+3\. In the case of unit level UIs delivered physically, ID issuers are responsible for encoding the codes generated pursuant to Article 8(2), in accordance with paragraph 1 and with Annex III.
+
+4\. By way of derogation from paragraph 1, manufacturers and importers may add the time stamp separately from the data carrier in the format YYMMDDhh as a human readable code.
+
+5\. Aggregated level UIs shall be encoded by economic operators using at least one of the following types of data carriers:
+
+(a) an optical device-readable Data Matrix with error detection and correction equivalent to or higher than those of the Data Matrix ECC200. Barcodes conforming to ISO/IEC 16022:2006 shall be presumed to fulfil the requirements set out in this point;
+
+(b) an optical device-readable QR Code with a recovery capacity of approximately 30 %. Barcodes conforming to ISO/IEC 18004:2015 with the error correction level H shall be presumed to fulfil the requirements set out in this point;
+
+(c) an optical device-readable Code 128 with the error detection equivalent to or higher than the one provided with the algorithm based on the even/odd — bar/space character parity and the check character. Barcodes conforming to ISO/IEC 15417:2007 shall be presumed to fulfil the requirements set out in this point.
+
+6\. In order to distinguish the data carriers referred to in paragraph 1 from any other data carrier placed on unit packets, economic operators may add the marking ‘TTT’ or ‘EU TTT’ next to such data carriers.
+
+In order to distinguish the data carriers referred to in paragraph 5 from any other data carrier placed on aggregated packaging, economic operators shall add the marking ‘EU TTT’ next to such data carriers.
+
+#### Article 22 — Quality of the optical data carriers
+
+1\. Economic operators shall ensure high readability of the optical data carriers. A quality of the optical data carriers rated at least 3.5 in accordance with ISO/IEC 15415:2011 for the two-dimensional data carriers, or in accordance with ISO/IEC 15416:2016 for the linear symbols shall be presumed to fulfil the requirements set out in this Article.
+
+2\. Economic operators shall ensure that the optical data carriers are capable of remaining readable for at least five years after their creation.
+
+#### Article 23 — Human-readable code
+
+1\. Economic operators shall ensure that each data carrier includes a human-readable code that enables electronic access to the information related to the unique identifiers stored in the repositories system.
+
+2\. Where the dimensions of the packaging allow, the human-readable code shall be adjacent to the optical data carrier carrying the unique identifier.
+
+## CHAPTER V — REPOSITORIES SYSTEM
+
+#### Article 24 — Components of the repositories system
+
+1\. The repositories system shall be composed of the following sub-systems:
+
+(a) repositories which are established for the purpose of storing data relating to tobacco products of individual manufacturers and importers (‘primary repositories’);
+
+(b) a repository which contains a copy of all data stored in the primary repositories system (‘secondary repository’);
+
+(c) a routing service (‘router’) set up and managed by the provider of the secondary repository system.
+
+2\. The sub-systems referred to in paragraph 1 shall be fully interoperable with one another, irrespective of the service provider used.
+
+#### Article 25 — General characteristics of the repositories system
+
+1\. The repositories system shall satisfy the following conditions:
+
+(a) it shall allow for functional integration of the repositories system into the traceability system, as well as uninterrupted electronic data exchange between the repositories system and other relevant components of the traceability system;
+
+(b) it shall allow for electronic identification and authentication of tobacco products, at unit packet and aggregation level, in accordance with the requirements set out in this Regulation;
+
+(c) it shall allow for automatic deactivation of unique identifiers in accordance with the rules set out in Article 5;
+
+(d) it shall ensure electronic receipt and storing of information recorded and sent to the repositories system by economic operators and ID issuers, in accordance with the requirements of this Regulation;
+
+(e) it shall ensure storage of data for a minimum period of five years as of the moment the data are uploaded into the repositories system;
+
+(f) it shall allow for automatic status messaging to economic operators, and to Member States and the Commission as requested, such as in the event of success, error or changes related to reporting activities, in accordance with the requirements of this Regulation;
+
+(g) it shall allow for automatic validation of messages received from economic operators at each entry point to the system, including refusal of incorrect or incomplete messages, in particular reporting activities related to non-registered or duplicated unique identifiers, whereby the repositories system shall store the information concerning any refused message. Messages transmitted by the ID issuers and the primary repositories to the router and the secondary repository shall be validated again by the recipient;
+
+(h) it shall ensure messaging between all of its components which shall take place instantaneously, in accordance with the requirements of this Regulation, in particular the overall response time of the repositories system in sending acknowledgment messages, not considering the speed of the internet connection of the end user, which shall be no more than 60 seconds;
+
+(i) it shall ensure continuous availability of all components and services with a monthly uptime of at least 99,5 % and sufficient back-up mechanisms in place;
+
+(j) it shall be guarded by security procedures and systems ensuring that access to the repositories and download of the data stored therein is only granted to persons authorised according to this Regulation;
+
+(k) it shall be accessible by the competent authorities of Member States and by the Commission. National administrators designated by the Member States and Commission services shall be granted access rights enabling them to create, manage, and withdraw user access rights for repositories, and related operations stipulated in this Chapter, via a graphical user management interface. Modes of accessing the graphical user management interface shall be compatible with Regulation (EU) No 910/2014, in particular the relevant reusable solutions provided as building blocks under the telecommunication part of the Connecting Europe Facility.  National administrators designated by the Member States shall be able to grant subsequent access rights to other users under their responsibility;
+
+(l) it shall enable Member States and the Commission to carry out downloads of full and selected sets of data stored in a repository;
+
+(m) it shall maintain a complete record (‘audit trail’) of all operations concerning the stored data of the users performing those operations and of the nature of these operations, including the history of users access. The audit trail shall be created when the data is uploaded for the first time and, notwithstanding any additional national requirements, be maintained until at least five years after.
+
+2\. Data stored in the repositories system shall be used only for the purposes referred to in Directive 2014/40/EU and this Regulation.
+
+#### Article 26 — Primary repositories
+
+1\. Each manufacturer and importer shall ensure the establishment of a primary repository. To that end each manufacturer and importer shall contract an independent third party provider, in accordance with the contractual requirements set out in Commission Delegated Regulation (EU) 2018/573 ( 2 ). The selection of the independent third party shall take place in accordance with the procedural rules laid down in Annex I, Part A.
+
+2\. Each primary repository shall exclusively host information which relates to the tobacco products of the manufacturer or importer who contracted the repository.
+
+3\. Whenever data are received by the primary repository on the basis of a reporting activity, or for any other permitted reason, it shall be forwarded to the secondary repository instantaneously.
+
+4\. In forwarding all data received to the secondary repository, the primary repositories shall use the data format and data exchange modalities defined by the secondary repository.
+
+5\. Primary repositories shall store the data in accordance with the common data dictionary provided by the secondary repository.
+
+6\. Member States, the Commission, and external auditors approved by the Commission shall be able to carry out basic query requests in relation to all data stored in a primary repository.
+
+#### Article 27 — Secondary repository
+
+1\. A single secondary repository containing a copy of all data stored in primary repositories shall be established. The operator of the secondary repository shall be appointed from among the providers of primary repositories in accordance with the procedure laid down in Annex I, Part B.
+
+2\. The secondary repository shall provide for graphical and non-graphical interfaces, including an application programming interface, stationary and mobile user interfaces containing an inspection application for the leading mobile operating systems, that enable Member States and the Commission to access and query the data stored in the repositories system, using all commonly available database search functions, including Structured Query Language (SQL) or equivalent syntax for building custom queries, in particular by remotely carrying out the following operations:
+
+(a) retrieval of any information concerning one or multiple unique identifier(s), including the comparison and cross-checking of multiple unique identifiers and the related information, in particular their location in the supply chain;
+
+(b) creation of lists and statistics, such as product stocks and inflow/outflow numbers, associated with one or multiple elements of reporting information listed as Data Fields in Annex II;
+
+(c) identification of all tobacco products that have been reported by an economic operator to the system, including the products reported as recalled, withdrawn, stolen, missing or intended for destruction.
+
+3\. The user interfaces referred to in paragraph 2 shall enable each Member State and the Commission to configure their own rules for:
+
+(a) automatic alerting based on exceptions and specific reporting events, such as abrupt fluctuations or irregularities in trade, attempts to introduce duplicate unique identifiers into the system, deactivation of the identifiers referred to in Articles 15(4), 17(4) and 19(4), or where a product is indicated by economic operators as stolen or missing;
+
+(b) the receipt of periodic reports based on any combination of the elements of reporting information listed as Data Field in Annex II;
+
+(c) tailor-made dashboards, for stationary interfaces.
+
+4\. Automatic alerts and periodic reports referred to in paragraph 3 shall be forwarded to recipient addresses indicated by Member States and the Commission such as individual email addresses and/or internet Protocol (IP) addresses belonging to external systems used and managed by national authorities or the Commission.
+
+5\. The user interfaces referred to in paragraph 2 shall enable Member States and the Commission to:
+
+(a) connect remotely to the data stored in the repositories system with the analytical software of their choice;
+
+(b) flag individual data points for analytical purposes, with flags and their values stored in the secondary repository and made visible to all or only selected users;
+
+(c) upload external data elements, such as brand normalisation patterns, that may be required for improvements in data analytical functionalities.
+
+6\. The user interfaces referred to in paragraph 2 shall be provided in all official languages of the Union.
+
+7\. The overall response time of the repository to any already established type of query or alert trigger, not considering the speed of the internet connection of the end user, shall be no more than 10 seconds for the data stored for less than 2 years and no more than 15 seconds for the data stored for 2 years or more, in at least 99 % of all types of already established queries and automatic alerts foreseen under paragraphs 2 and 3. The provider of the secondary repository shall prepare datasets necessary for responding, in line with the prescribed timelines, to any new query or alert trigger within 4 weeks from receiving a request from Member States or the Commission. After this period, the newly requested types of queries or alert triggers shall be deemed to be already established for the purpose of the response times stipulated in this paragraph.
+
+8\. As regards individual data points and messages, the overall time between the arrival of reporting activity data and its accessibility, via the graphical and non-graphical interfaces, in the primary and secondary repositories shall be no more than 60 seconds in at least 99 % of all data transfer activities. As regards pre-structured analytical datasets, the overall time between the arrival of reporting activity data and its accessibility, via the graphical interfaces, in the secondary repository shall be no more than 24 hours in at least 99 % of all data transfer activities.
+
+9\. The repository shall allow for the receipt, storing and making available of offline flat-files for the purpose of updating verification devices used by Member States for offline decoding of unique identifiers.
+
+10\. The provider of the secondary repository shall establish and maintain a register of the information transferred to it in accordance with Article 20(3). The provider of the secondary repository shall keep a record of the information stored in the register for as long as the traceability system is operational.
+
+ID issuers and providers of primary repositories may have access to the register referred to in the first subparagraph in order to validate the messages sent to them by manufacturers and importers.
+
+11\. Member States and the Commission shall retain the right to enter into additional service level agreements with the provider of the secondary repository for the purpose of contracting the latter to carry out additional services not provided for by this Regulation. The provider of the secondary repository may charge proportionate fees for providing such additional services.
+
+12\. The repository services provided to Member States and the Commission under this Article shall be compatible with Regulation (EU) No 910/2014 and in particular allow for the use of reusable solutions provided as building blocks under the telecommunication part of the Connecting Europe Facility.
+
+13\. The provider of the secondary repository shall organise at least one full-day technical training session per year for the users from each Member State and from the Commission, on the use of the user interfaces referred to in paragraph 2. The provider of the secondary repository shall also develop and keep updated a full set of technical and user documentation for the competent authorities available in all official languages of the Union.
+
+14\. The provider of the secondary repository shall provide an inspection application for the leading mobile operating systems that enables Member States and the Commission to connect to the secondary repository via the mobile user interfaces referred to paragraph 2.
+
+#### Article 28 — Coordination tasks of the provider of the secondary repository
+
+1\. The provider operating the secondary repository shall communicate to providers operating primary repositories, ID issuers and economic operators, the list of specifications, including common validation rules, required for the data exchange with the secondary repository and the router. All specifications shall be based on non-proprietary open standards.
+
+Any newly selected replacement provider operating the secondary repository shall rely on the latest version of the list of specifications communicated by its predecessor. Any updates to the list of specifications going beyond the change of the provider’s identity shall be made in accordance with the procedure laid down in paragraph 3.
+
+The list referred to in the first subparagraph shall be communicated no later than 2 months following the date when the provider operating the secondary repository was selected.
+
+2\. On the basis of the information listed in Annex II, the provider operating the secondary repository shall establish a common data dictionary. The common data dictionary shall refer to labels of data fields in the human readable format.
+
+Any newly selected replacement provider operating the secondary repository shall rely on the latest version of the data dictionary communicated by its predecessor. Any updates to the data dictionary going beyond the change of the provider’s identity shall be made in accordance with the procedure laid down in paragraph 3.
+
+The common data dictionary shall be communicated to the providers operating primary repositories no later than 2 months following the date when the provider operating the secondary repository was selected.
+
+3\. Whenever necessary to ensure the effective operation of the repositories system in accordance with the requirements of this Regulation, the provider operating the secondary repository shall update the list referred to in paragraph 1 and the common data dictionary referred to in paragraph 2. Any such update shall be consulted on with providers operating primary repositories and ID issuers, and subsequently communicated to providers operating primary repositories, ID issuers and economic operators at least 2 months before the date of implementing the update into the system.
+
+4\. Upon request from the provider of a primary repository, the provider of the secondary repository may carry out data reprocessing operations as far as they are necessary to eliminate consequences of past IT incidents and failures. Such operations shall be possible only to complete or correct the information stored in the secondary repository and be limited to the re-running of regular operations of the secondary repository. They shall exclude to the maximum extent possible negative consequences for any economic operators unrelated to the requesting primary repository.
+
+5\. The provider of the secondary repository shall establish a helpdesk service for the competent authorities of Member States, the Commission, ID issuers, providers of repository services, economic operators and IT service providers. The helpdesk service shall concern only the activities and functions of the router and the secondary repository and be available across all Member States for at least 8 hours on working days, with the exception of 1 January, 25 December and 26 December, and at least in English, French and German. The response times shall be no more than 2 working days in at least 75 % of all requests. The average monthly response time per request shall be no more than 4 working days. The provider of the secondary repository may regulate access to the helpdesk service for economic operators as a part of its fair use policy set out under the terms and conditions referred to in Article 29(6) and the contracts referred to in paragraph 4 of Part B of Annex I.
+
+6\. The provider of the secondary repository shall set up a test environment allowing ID issuers, providers operating primary repositories and economic operators to perform quality assurance of their technical solutions and routines before connecting to the repositories system. The test environment shall closely simulate the repositories system.
+
+The provider of the secondary repository shall set up a user-acceptance-testing environment allowing ID issuers, providers operating primary repositories and economic operators to perform quality assurance of their technical solutions and routines in anticipation of the next version of the repositories system. The user-acceptance-testing environment shall reflect any planned changes to the repositories system upon their communication in accordance with paragraph 3.
+
+#### Article 29 — Router
+
+1\. The provider of the secondary repository shall set up and manage a router.
+
+2\. Data exchange between the router and the primary and secondary repositories shall take place using the data format and data exchange modalities defined by the router.
+
+3\. Data exchange between the router and an ID issuer shall take place using the data format and data exchange modalities defined by the router.
+
+4\. Economic operators other than manufacturers and importers shall send the information recorded pursuant to Article 15 of Directive 2014/40/EU and in accordance with this Regulation to the router, which shall transfer it to the primary repository serving the manufacturer or importer whose tobacco products are concerned. A copy of those data shall be transferred instantaneously to the secondary repository system.
+
+5\. Manufacturers and importers who doubt the correct functioning of their primary repositories shall have the possibility to verify against the router, by consulting the operator of the router, whether messages concerning the final dispatch of products out of their physical possession that are sent to the primary repositories, have been transmitted correctly. The operator of the router may set a daily limit on the use of this functionality.
+
+6\. The provider of the secondary repository shall establish and communicate to economic operators and IT service providers the terms and conditions, including the fair use policy, applicable to the use of the secondary repository and the router. The terms and conditions shall guarantee the right of economic operators to use the secondary repository and the router in line with their business needs and shall prevent repeated cases of negligent use.
+
+#### Article 30 — Costs of the repositories system
+
+1\. All ordinary costs related to the repositories system referred to in Article 24(1), including those that arise from its establishment, operation and maintenance, shall be borne by manufacturers and importers of tobacco products. Those costs shall be fair, reasonable, and proportionate:
+
+(a) to the services rendered; and
+
+(b) to the amount of unit level UIs requested over a given period of time.
+
+2\. The ordinary costs, as applicable, of establishing, operating and maintaining the secondary repository and the router shall be passed onto the manufacturers and importers of tobacco products through the costs charged to them by the providers of the primary repositories.
+
+3\. All extraordinary costs related to the reprocessing operations referred to in Article 28(4) charged by the provider of the secondary repository to the provider of the primary repository that made the request shall be fair, reasonable and proportionate to the services rendered. The provider of the secondary repository shall however itself bear any extraordinary costs of the reprocessing operations referred to in Article 28(4) to the extent that it is responsible for the causes leading to the reprocessing operations.
+
+#### Article 31 — Deadline for the establishment of the repositories system
+
+The repositories system shall be established and functional for testing purposes by 20 March 2019.
+
+## CHAPTER VI — RECORDING AND TRANSMITTING
+
+#### Article 32 — Recording and transmission of information on product movements
+
+1\. To allow the determination of the actual shipment route of unit packets manufactured in, or imported into the Union, economic operators shall record the following events:
+
+(a) application of unit level UIs on unit packets;
+
+(b) application of aggregated level UIs on aggregated packaging;
+
+(c) dispatch of tobacco products from a facility;
+
+(d) arrival of tobacco products at a facility;
+
+(e) trans-loading.
+
+2\. Manufacturers and importers shall transmit the information listed in points 3.1 to 3.5 of Section 3 of Chapter II of Annex II, in the format indicated therein, to the primary repository contracted by them. All other economic operators shall transmit the information listed in points 3.1 to 3.5 of Section 3 of Chapter II of Annex II, in the format indicated therein, via the router.
+
+For dispatch of tobacco products to laboratories, waste disposal centres, national authorities, international governmental organisations, embassies and military bases, manufacturers and importers shall transmit the information listed in point 3.8 of Section 3 of Chapter II of Annex II, in the format indicated therein, to the primary repository contracted by them. All other economic operators shall transmit the information listed in point 3.8 of Section 3 of Chapter II of Annex II, in the format indicated therein, via the router.
+
+3\. For disaggregation of aggregated packaging marked pursuant to Article 10(4), where an economic operator intends to reuse an aggregated level UI in any future operations, manufacturers and importers shall transmit the information listed in point 3.6 of Section 3 of Chapter II of Annex II, in the format indicated therein, to the primary repository contracted by them. All other economic operators shall transmit the information listed in point 3.6 of Section 3 of Chapter II of Annex II, in the format indicated therein, via the router.
+
+4\. For deliveries to multiple first retail outlets by means of a vending van, manufactures and importers shall transmit the information listed in point 3.7 of Section 3 of Chapter II of Annex II, in the format indicated therein, to the primary repository contracted by them. All other economic operators shall transmit the information listed in point 3.7 of Section 3 of Chapter II of Annex II, in the format indicated therein, via the router.
+
+5\. For dispatch and trans-loading of unit or aggregated packaging of tobacco products with total weight below 10 kg destined outside the Union, Member States in which the dispatch facility is located may allow the recording obligation referred to in paragraph 1 in points (c) to (e) to be discharged by means of providing access to the logistic or postal operator's own track and trace system records.
+
+6\. If, after the application of the unique identifier, tobacco products are destroyed or stolen, economic operators shall promptly transmit a deactivation request in accordance with the scope and format specified in point 2.3 of Section 2 of Chapter II of Annex II.
+
+If tobacco products reported as stolen are recovered, economic operators may transmit a reactivation request in accordance with the scope and format specified in point 2.4 of Section 2 of Chapter II of Annex II.
+
+7\. The information concerning the event shall be deemed to have been transmitted correctly upon a positive acknowledgement by the primary repository or the router. The positive acknowledgement shall include the feedback information enabling the recipient to establish the correctness of its reporting activity, in particular the number of unit-level unique identifiers concerned by the event and in the case of disaggregation referred to in paragraph 3, the subordinate unique identifiers. The acknowledgement shall include a message recall code to be applied by the economic operator if the original message needs to be cancelled.
+
+8\. The responsibility for recording and transmitting the information concerning the events referred to in paragraph 1 shall lie with the economic operator that is in possession of the tobacco products. To that end, all the reporting activities shall use the identifier code of this economic operator. IT service providers may also transmit this information on behalf of the economic operator that is in possession of the tobacco products.
+
+#### Article 33 — Recording and transmission of transactional information
+
+1\. To allow the determination of the transactional information referred to in Article 15(2), points (j) and (k) of Directive 2014/40/EU, economic operators shall record the following events:
+
+(a) issuing of the order number;
+
+(b) issuing of the invoice;
+
+(c) receipt of the payment.
+
+2\. Manufacturers and importers shall transmit the information listed in Section 4 of Chapter II of Annex II, in the format indicated therein, to the primary repository contracted by them. All other economic operators shall transmit the information listed in Section 4 of Chapter II of Annex II, in the format indicated therein, via the router.
+
+3\. The responsibility for recording and transmitting the information referred to in paragraph 2 shall lie with the economic operator who is the vendor. To this end, all the reporting activities shall use the identifier code of this economic operator. IT service providers may also transmit this information on behalf of the economic operator who is the vendor of the tobacco products.
+
+4\. The information referred to in paragraph 2 shall be deemed to have been transmitted correctly upon the positive acknowledgement by the primary repositories or the router. The acknowledgement shall include a message recall code to be applied by the economic operator if the original message needs to be cancelled.
+
+#### Article 34 — Time frame for transmission of required information
+
+1\. Economic operators shall transmit the information referred to in Article 32(1), points (a), (b) and (d), Article 32(3) and (4), and Article 33(1), within 3 hours from the occurrence of the event.
+
+The information referred to in Article 32 shall be transmitted in the order of the occurrence of the events.
+
+2\. For the purposes of paragraph 1, the events referred to in Article 33 shall be deemed to occur at the moment when they can be associated with the relevant unit packets for the first time.
+
+3\. Economic operators shall transmit the information concerning the dispatch of tobacco products from a facility and trans-loading referred to in Article 32(1) points (c) and (e), within 24 hours prior to the occurrence of the event.
+
+4\. By way of derogation from paragraph 1, economic operators may transmit the information referred to in Article 32(1) points (a), (b) and (d), Articles 32(3) and (4), and Article 33(1), within 24 hours from the occurrence of the event, if they fulfil any of the following conditions:
+
+(a) they, or where applicable, the group of undertakings to which they belong, handled less than 120 million unit level UIs at Union level during the previous calendar year;
+
+(b) they are small and medium enterprises within the meaning of Commission Recommendation 2003/361/EC.
+
+5\. The first subparagraph of paragraph 1 shall apply from 20 May 2028. Until that date all economic operators may transmit the information referred to in paragraph 1 within 24 hours from the occurrence of the event.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+#### Article 35 — Independence
+
+1\. ID issuers, providers of repository services and anti-tampering devices as well as, where applicable, their subcontractors shall be independent and exercise their functions impartially.
+
+2\. For the purposes of paragraph 1, the following criteria shall be used to assess independence:
+
+(a) independence from the tobacco industry in terms of legal form, organisation and decision making. In particular it shall be assessed whether the undertaking or the group of undertakings is not under the direct or indirect control of the tobacco industry, including a minority shareholding;
+
+(b) independence from the tobacco industry in financial terms, which will be presumed if, before assuming their functions the undertaking or the group of undertakings concerned generates less than 10 % of its annual worldwide turnover, excluding VAT and any other indirect taxes, from goods and services supplied to the tobacco sector over the past two calendar years, as may be determined on the basis of the most recent approved accounts. For each subsequent calendar year, the annual worldwide turnover, excluding VAT and any other indirect taxes, from goods and services supplied to the tobacco sector shall not exceed 20 %;
+
+(c) absence of conflicts of interests with the tobacco industry of the persons responsible for the management of the undertaking or the group of undertakings, including members of the board of directors or any other form of governing body. In particular, they:
+
+(1) shall not have participated in company structures of the tobacco industry for the last five years;
+
+(2) shall act independently from any pecuniary or non-pecuniary interest linked to the tobacco industry, including possession of stocks, participation in private pension programmes or interest held by their partners, spouses or direct relatives in the ascending or descending line.
+
+3\. Where ID issuers, providers of repository services and providers of anti-tampering devices have recourse to sub-contractors, they shall remain responsible for ensuring compliance by those subcontractors with the independence criteria set out in paragraph 2.
+
+4\. For the purposes of complying with their obligations under Article 3(8)(a) Member States, as well as the Commission may require ID issuers, providers of repository services and providers of anti-tampering devices, including where applicable their sub-contractors to provide them with documents necessary to assess compliance with the criteria set out in paragraph 2. Such documents may include annual declarations of conformity with the independence criteria set out in paragraph 2. Member States and the Commission may require that the annual declarations include a full list of services provided to the tobacco industry during the last calendar year as well as individual declarations of financial independence from the tobacco industry provided by all management members of the independent provider.
+
+5\. Any change in circumstances related to the criteria referred to in paragraph 2, capable of affecting the independence of ID issuers, providers of repository services and providers of anti-tampering devices (including, where applicable, their subcontractors), that subsist for two consecutive calendar years, shall be communicated without delay to the relevant Member States and to the Commission.
+
+6\. Where, information obtained in accordance with paragraph 4, or the communication referred to in paragraph 5, discloses that providers of repository services and providers of anti-tampering devices (including, where applicable, their subcontractors), no longer meet the requirements laid down in paragraph 2, then within a reasonable time period and at the latest by the end of the calendar year following the calendar year in which the information or communication was received, Member States and, in relation to the provider of secondary repository, the Commission shall take all measures to ensure compliance with the criteria set out in paragraph 2.
+
+7\. ID issuers, providers of repository services and providers of anti-tampering devices shall inform without delay the relevant Member States and the Commission about any occurrences of threats or other attempts at exercising undue influence that may actually or potentially undermine their independence.
+
+8\. Public authorities or undertakings governed by public law along with their subcontractors shall be presumed independent from the tobacco industry.
+
+9\. The procedures governing the appointment of ID issuers, providers of repository services and providers of anti-tampering devices and the monitoring of their compliance with the independence criteria set out in paragraph 2 shall be subject to periodic review by the Commission with a view to assessing their conformity with the requirements of Article 15 of Directive 2014/40/EU and this Regulation. Conclusions of the review shall be published and form part of the report on the application of Directive 2014/40/EU provided for under Article 28 of that Directive.
+
+#### Article 36 — Security and interoperability of communications and data
+
+1\. All electronic communication provided for under this Regulation shall be carried out using secure means. Applicable security protocols and connectivity rules shall be based on non-proprietary open standards. They shall be established by:
+
+(a) the ID issuer for communications between the ID issuer, the operators of the first retail outlets and the economic operators registering with the ID issuer or requesting unique identifiers;
+
+(b) the providers of the primary repositories for communications between the primary repositories and manufactures or importers;
+
+(c) the provider of the secondary repository for communications between the secondary repository and the router and:
+
+i. the ID issuers;
+
+ii. the primary repositories; and
+
+iii. economic operators using the router, i.e. economic operators other than manufacturers and importers.
+
+2\. Providers of primary and secondary repositories shall be responsible for the security and integrity of hosted data. Data portability shall be secured in accordance with the common data dictionary set out in Article 28.
+
+3\. For all transfers of data, the sending party is responsible for the completeness of transferred data. In order for the sending party to discharge this obligation, the receiving party shall acknowledge the receipt of transferred data including a checksum value of actual transmitted data or any alternative mechanism allowing for validating the integrity of transmission, in particular its completeness.
+
+#### Article 36a — Quality of data
+
+1\. The Member States may, issue reports on the inadequate quality of data reported by economic operators to the repositories system. These reports shall be addressed to the concerned economic operators and include examples of misreporting.
+
+2\. Member States shall require ID issuers to perform checks of addresses and other electronically verifiable data that are provided to the system by economic operators and operators of first retail outlets through ID issuers.
+
+#### Article 37 — Transitional provision
+
+1\. Cigarettes and roll-your-own tobacco that were manufactured in the Union or imported into the Union before 20 May 2019 and not marked by means of unit level UIs in accordance with Article 6 may remain in free circulation until 20 May 2020. In relation to these tobacco products which are allowed to remain in free circulation, but not marked with a unit level UIs, the obligations referred to in Chapter VI shall not apply.
+
+2\. Tobacco products other than cigarettes and roll-your-own tobacco that were manufactured in the Union or imported into the Union before 20 May 2024 and not marked by means of unit level UIs in accordance with Article 6 may remain in free circulation until 20 May 2026. In relation to these tobacco products which are allowed to remain in free circulation, but not marked with a unit level UIs, the obligations referred to in Chapter VI shall not apply.
+
+#### Article 38 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**SELECTION PROCEDURE FOR INDEPENDENT THIRD PARTY PROVIDERS OF REPOSITORY SYSTEMS**
+
+**PART A**
+
+The following procedures shall apply to the selection of an independent third party provider operating a primary repository:
+
+1\. Each manufacturer and importer of cigarettes and roll-your-own tobacco shall notify to the Commission, no later than two months following the entry into force of Delegated Regulation (EU) 2018/573:
+
+(a) the identity of the third party that it proposes to appoint to operate a primary repository (the ‘proposed provider’), and
+
+(b) a draft data storage contract containing the key elements laid down in the Delegated Regulation for approval by the Commission.
+
+1a. Where several legal persons constitute the same manufacturer or importer, the notification shall be submitted jointly by all legal persons.
+
+1b. In cases where the importer concerned cooperates with only one non-EU manufacturer or belongs to the same group of companies as the latter, the data storage contract may be co-signed by both the importer and the non-EU manufacturer. In cases where the importer concerned cooperates with several non-EU manufacturers or is also a Union manufacturer itself, the data storage contract shall be signed solely by the importer.
+
+2\. The notification shall be accompanied by:
+
+(a) the written declaration of technical and operational expertise, referred to in Article 4 of Delegated Regulation (EU) 2018/573,
+
+(b) the written declaration of legal and financial independence, referred to in Article 8 of Delegated Regulation (EU) 2018/573, and
+
+(c) a table setting out the correspondence between the contractual clauses and the requirements laid down in Delegated Regulation (EU) 2018/573.
+
+3\. The Commission shall, within three months of the date of receiving the notification, and on the basis of an examination of the suitability of the proposed provider, in particular, as regards its independence and technical capacities as referred to in Article 15(8) of Directive 2014/40/EU, approve or reject the proposed provider and the draft contract. In the absence of a reply by the Commission within that timeframe, the provider and the draft contract shall be deemed to be approved.
+
+4\. Where the Commission does not approve the proposed provider or the draft contract, or where it considers that the contract does not incorporate the key elements laid down in Delegated Regulation (EU) 2018/573, the manufacturer or importer concerned shall, within one month of being informed by the Commission, propose an alternative provider and/or make necessary amendments to the draft contract for further consideration by the Commission.
+
+5\. Once the proposed provider and the draft contract have been approved, the manufacturers and importers shall, within two weeks of such approval, provide in electronic format:
+
+(a) a copy of the contract signed by both parties, and
+
+(b) the declarations required to be provided as part of the contract under Articles 4 and 8 of Delegated Regulation (EU) 2018/573.
+
+6\. Manufacturers and importers of tobacco products other than cigarettes and roll-your-own tobacco shall notify to the Commission, by 31 December 2022, the identity of the proposed provider, a draft data storage contract containing the key elements laid down in Delegated Regulation (EU) 2018/573 for approval by the Commission, and the additional documentation referred to in paragraph 2.
+
+7\. The provider appointed to operate the primary repository shall only integrate its repository into the traceability system following the conclusion of the approved contract.
+
+8\. A list of notified and approved third parties shall be made publicly available by the Commission on a website.
+
+9\. Any amendment to the key elements of the contract, as defined in Delegated Regulation (EU) 2018/573, shall be subject to approval by the Commission. In the absence of a reply by the Commission within three months of the date of notification of the amendment, the amendment shall be deemed to be approved. This deadline can be extended by the Commission once by a maximum of another three months, by means of a letter to the notifying operator. Any other amendment to the contract than to its key elements shall only require prior communication to the Commission.
+
+**PART B**
+
+The following procedure shall apply to the selection of an independent third party operating the secondary repository system:
+
+1\. The Commission shall appoint, from amongst the providers of the primary repositories who have been approved in accordance with Part A within six months following the entry into force of Delegated Regulation (EU) 2018/573  , a provider tasked with operating the secondary repository (‘the operator of the secondary repository’) for the purpose of carrying out the services specified in Chapter V of this Regulation.
+
+2\. The appointment of the operator of the secondary repository shall be based on an assessment of objective criteria and take place by means of a concession contract concluded in writing between the Commission and each successive operator of the secondary repository.
+
+3\. The result of the appointment of the operator of the secondary repository shall be made publicly available by the Commission on a website.
+
+4\. Each primary repository provider appointed in accordance with Part A shall enter into an individual contract with the provider appointed to operate the secondary repository for the purpose of carrying out the services specified in Chapter V of this Regulation.
+
+5\. The contracts between each primary repository provider and the operator of the secondary repository shall be signed and submitted to the Commission within three monthsfrom the date of the appointment of each successive operator of the secondary repository.
+
+**PART C**
+
+The following requirements shall apply in addition to the selection procedures outlined in Parts A and B:
+
+1\. Where the contractual relationship between a manufacturer or importer and the provider of a primary repository is terminated, or expected to be terminated, by any of the parties to the contract, for any reason, including the failure to comply with the criteria for independence laid down in Article 35, the manufacturer or importer shall immediately inform the Commission of such termination, or expected termination, and of the date of the notification of such termination to the provider, as well as the date at which the termination is or is expected to take effect. The manufacturer or importer shall propose and notify to the Commission a replacement provider at the latest three months prior to the termination date of the existing contract. The appointment of the replacement provider shall take place in accordance with Part A.
+
+2\. In the event that the operator of the secondary repository gives notice of its intention to cease operating that repository in accordance with the concession contract referred to in paragraph 2 of Part B, it shall immediately inform the Commission thereof and of the date at which the termination is to take effect. The notice period shall not be shorter than nine months. The contract shall provide for the Commission to be able to unilaterally extend it by up to six months if required for establishing and operationalising a replacement operator of the secondary repository. The Commission shall inform the competent authorities of the Member States about the notice period and its potential extension.
+
+3\. Where paragraph 1 applies, the contract referred to in paragraph 4 of Part B shall, in turn, be terminated by the parties immediately after the closure of the affected primary repository.
+
+## ANNEX II
+
+**Key messages to be sent by the economic operators**
+
+The messages required for regulatory purposes shall contain at least the data fields listed in this Annex.
+
+Member States and the Commission may require an extension of the address data to include exact geographic coordinates (latitude and longitude). Both ID issuers and providers of data repositories (including the router) may decide to extend the message content for strictly technical reasons to secure smooth functioning of the traceability system. ID issuers may also decide to extend the message content for non-technical reasons to secure smooth functioning of the tobacco products traceability system with other systems used for regulatory purposes. Before becoming effective, such extensions shall be reflected in the technical specifications updated in accordance with Article 28.
+
+The messages listed in this Annex do not include the messages to be sent back by ID issuers and providers of data repositories (including the router) to the economic operators, such as acknowledgments of receipt.
+
+All the messages generated within the traceability system shall contain the identification of the message originator and a timestamp up to the millisecond (see Data Type: Time(L)). This timestamp does not replace the time of the occurrence of a reported event, which shall be reported separately in accordance with the data fields prescribed in this Annex. The identification of the message originator, which may concern a third-party IT service provider, does not replace the identification of the economic operator responsible for the reporting activity (via an EOID to be indicated in the EO_ID field). The means of the identification of the message originator shall be specified in the technical specifications established and updated in accordance with Article 28.
+
+ID issuers and providers of data repositories (including the router) shall timestamp each received message up to the millisecond.
+
+In case of amendments to this Annex, any changes in the key messages listed herein become applicable to the economic operators as of the moment such changes are duly reflected in the technical specifications and the common data dictionary established and updated in accordance with Article 28.
+
+**CHAPTER I**
+
+**FIELD DESCRIPTIONS**
+
+**SECTION 1**
+
+**Data Type**
+
+<table>
+<tbody><tr><td>Data Type</td><td>Description</td><td>Example</td></tr>
+<tr><td>ARC</td><td>Administrative Reference Code (ARC) or any successive code adopted under the Excise Movement and Control System (EMCS)</td><td>‘15GB0123456789ABCDEF0’</td></tr>
+<tr><td>aUI</td><td>Aggregated level unique identifier coded with: either the invariant set of ISO646:1991 and composed of four blocks: (a) ID issuer's prefix in accordance with ISO15459-2:2015, (b) serialisation element in the format established by the ID issuer, (c) tobacco facility identifier code following the Data Type: FID and (d) timestamp following the Data Type: Time(s)  or the invariant set of ISO646:1991 forming a code structured in accordance with ISO15459-1:2014 or ISO15459-4:2014 (or their latest equivalent) </td><td>  </td></tr>
+<tr><td>Boolean</td><td>Boolean value</td><td>— ‘0’ (false/disabled) — ‘1’ (true/enabled) </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Country</td><td>Country name coded with ISO-3166-1:2013 alpha-2 (or its latest equivalent). For overseas and autonomous regions, the country code of the relevant Member State is applicable. In case of Northern Ireland, the ‘XI’ code is applicable.  In case of the international waters, the ‘XZ’ code is applicable. </td><td>‘DE’</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Currency</td><td>Currency name coded with ISO 4217:2015 (or its latest equivalent)</td><td>‘EUR’</td></tr>
+<tr><td>Date</td><td>UTC (Coordinated Universal Time) date corresponding to the following format: YYYY-MM-DD</td><td>‘2019-05-20’</td></tr>
+<tr><td>Decimal</td><td>Number values, decimal allowed</td><td>‘1’ or ‘2,2’ or ‘3,33’</td></tr>
+<tr><td>EOID</td><td>Economic operator identifier code corresponding to the format established by the ID issuer coded with the invariant set of ISO646:1991</td><td>  </td></tr>
+<tr><td>FID</td><td>Tobacco facility identifier code corresponding to the format established by the ID issuer coded with the invariant set of ISO646:1991</td><td>  </td></tr>
+<tr><td>Integer</td><td>Rounded number values, no decimal numbers</td><td>‘1’ or ‘22’ or ‘333’</td></tr>
+<tr><td>MID</td><td>Machine identifier code corresponding to the format established by the ID issuer coded with the invariant set of ISO646:1991</td><td>  </td></tr>
+<tr><td>MRN</td><td>Movement Reference Number (MRN) is a unique customs registration number. It contains 18 digits and is composed of the following elements: (a) last two digits of the year of formal acceptance of export movement (YY), (b) country name coded with ISO-3166-1:2013 alpha-2 (or its latest equivalent) of the Member State to which the declaration was sent, (c) unique identifier for entry/import per year and country, and (d) check digit.</td><td>‘11IT9876AB88901235’</td></tr>
+<tr><td>SEED</td><td>Excise number composed of: (a) country name coded with ISO-3166-1:2013 alpha-2 (or its latest equivalent) (e.g. ‘LU’) and (b) eleven alphanumeric characters, if needed, padded to the left with zeroes (e.g. ‘00000987ABC’).</td><td>‘LU00000987ABC’</td></tr>
+<tr><td>ITU</td><td>Individual transport unit code (e.g. SSCC) generated in accordance with ISO15459-1:2014 (or its latest equivalent)</td><td>‘001234560000000018’</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Text</td><td>Set of characters coded with ISO8859-15:1999</td><td>‘Abcde:12345’</td></tr>
+<tr><td>Time(L)</td><td>UTC (Coordinated Universal Time) in the following format: YYYY-MM- DDTHH:mm:ss.SSSZ </td><td>‘2019-07-16T19:20:30.205Z’</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Time(s)</td><td>UTC (Coordinated Universal Time) in the following format: YYMMDDhh</td><td>‘19071619’</td></tr>
+<tr><td>TPID</td><td>Tobacco Product Identifier (TP-ID) – numeric identifier used in the EU-CEG system in the format: NNNNN-NN-NNNNN</td><td>‘02565-16-00230’</td></tr>
+<tr><td>PN</td><td>Product number – numeric identifier used in the EU-CEG system to identify product presentations (e.g. GTIN (Global Trade Identification Number) of the product)</td><td>‘00012345600012’</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>upUI(L)</td><td>Unit packet level unique identifier coded with the invariant set of ISO646:1991 and composed of three blocks: (i) ID issuer’s prefix in accordance with ISO15459-2:2015, (ii) middle block in the format established by the ID issuer and (iii) timestamp following the Data Type: Time(s)</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>upUI(i)</td><td>Unit packet level unique identifier coded with the invariant set of ISO646:1991 and composed of two blocks: (i) ID issuer’s prefix in accordance with ISO15459-2:2015 and (ii) middle block in the format established by the ID issuer (i.e. upUI(i) is upUI(L) without the timestamp, a code to be generated by ID issuers in accordance with Article 8(2) of this Regulation)</td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>upUI(s)</td><td>Unit packet level unique identifier coded with the invariant set of ISO646:1991 and composed of two blocks: (i) ID issuer’s prefix in accordance with ISO15459-2:2015 and (ii) serialisation element in the format established by the ID issuer (i.e. UI made visible in the human readable format on the unit packets in accordance with Article 23 of this Regulation) Whenever possible ID issuers are requested not to use upper-case letter ‘O’ (Oscar) and lower-case letter ‘l’ (lima) as well as upper-case letter ‘I’ (India) in order to avoid confusions with digits ‘0’ (zero) and ‘1’ (one), respectively. </td><td>  </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Year</td><td>UTC (Coordinated Universal Time) year in the following format: YYYY</td><td>‘2024’</td></tr>
+</tbody>
+</table>
+
+**SECTION 2**
+
+**Cardinality Type**
+
+Type Description
+
+Simple (S) Single value
+
+Multiple (M) Multiple values
+
+**SECTION 3**
+
+**Priority Type**
+
+Type Description
+
+Mandatory (M) The variable must be completed to successfully submit the message
+
+Optional (O) The variable relates to supplementary fields which remain optional
+
+**CHAPTER II**
+
+**MESSAGES**
+
+**SECTION 1**
+
+**Identifier codes for economic operators, facilities and machines**
+
+1.1. Request for an economic operator identifier code
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>1-1</td></tr>
+<tr><td>  </td><td>EO_Name1</td><td>Economic operator's registered name</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_Name2</td><td>Economic operator's alternative or abridged name</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>EO_street</td><td>Economic operator’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_municipality</td><td>Economic operator’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_postcode</td><td>Economic operator’s postal code</td><td>Text</td><td>S</td><td>M</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>EO_A_info</td><td>Additional information on economic operator’s address (e.g. location in the shopping mall or industrial area)</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>EO_CountryReg</td><td>Economic operator's country of registration</td><td>Country</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_Email</td><td>Economic operator's email address used to inform about registration process, including subsequent changes and other required correspondence</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>VAT_R</td><td>Indication of the VAT registration status</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No VAT registration 1 – VAT number exists </td></tr>
+<tr><td>  </td><td>VAT_N</td><td>Economic operator's VAT number</td><td>Text</td><td>S</td><td>M, if VAT_R = 1</td><td>  </td></tr>
+<tr><td>  </td><td>TAX_N</td><td>Economic operator's tax registration number</td><td>Text</td><td>S</td><td>M, if VAT_R = 0</td><td>  </td></tr>
+<tr><td>  </td><td>EO_ExciseNumber1</td><td>Indication if the economic operator has an excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No SEED number 1 – SEED number exists </td></tr>
+<tr><td>  </td><td>EO_ExciseNumber2</td><td>Economic operator's excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>SEED</td><td>S</td><td>M, if EO_ExciseNumber1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>OtherEOID_R</td><td>Indication if the economic operator has been allocated an identifier by another ID Issuer</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>OtherEOID_N</td><td>Economic operator identifier codes allocated by other ID Issuers</td><td>EOID</td><td>M</td><td>M, if OtherEOID_R = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Reg_3RD</td><td>Indication if the registration is made on behalf of a retail outlet operator not involved otherwise in the tobacco trade</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Reg_EOID</td><td>Identifier of the economic operator that acts on behalf of a retail outlet operator not involved otherwise in the tobacco trade</td><td>EOID</td><td>S</td><td>M, if Reg_3RD = 1</td><td>  </td></tr>
+</tbody>
+</table>
+
+1.2. Correction of information concerning the economic operator identifier code
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>1-2</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_CODE</td><td>Economic operator's confirmation code provided in response to the registration of economic operator</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_Name1</td><td>Economic operator's registered name</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_Name2</td><td>Economic operator's alternative or abridged name</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>EO_street</td><td>Economic operator’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_municipality</td><td>Economic operator’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_postcode</td><td>Economic operator’s postal code</td><td>Text</td><td>S</td><td>M</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>EO_A_info</td><td>Additional information on economic operator’s address (e.g. location in the shopping mall or industrial area)</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>EO_CountryReg</td><td>Economic operator's country of registration</td><td>Country</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_Email</td><td>Economic operator's email address used to inform about registration process, including subsequent changes</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>VAT_R</td><td>Indication of the VAT registration status</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No VAT registration 1 – VAT number exists </td></tr>
+<tr><td>  </td><td>VAT_N</td><td>Economic operator's VAT number</td><td>Text</td><td>S</td><td>M, if VAT_R = 1</td><td>  </td></tr>
+<tr><td>  </td><td>TAX_N</td><td>Economic operator's tax registration number</td><td>Text</td><td>S</td><td>M, if VAT_R = 0</td><td>  </td></tr>
+<tr><td>  </td><td>EO_ExciseNumber1</td><td>Indication if the economic operator has an excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No SEED number 1 – SEED number exists </td></tr>
+<tr><td>  </td><td>EO_ExciseNumber2</td><td>Economic operator's excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>SEED</td><td>S</td><td>M, if EO_ExciseNumber1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>OtherEOID_R</td><td>Indication if the economic operator has been allocated an identifier by another ID Issuer</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>OtherEOID_N</td><td>Economic operator identifier codes allocated by other ID Issuers</td><td>EOID</td><td>M</td><td>M, if OtherEOID_R = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Reg_3RD</td><td>Indication if the registration is made on behalf of the retail outlet operator not involved otherwise in the tobacco trade</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Reg_EOID</td><td>Identifier of the economic operator that acts on behalf of the retail outlet operator not involved otherwise in the tobacco trade</td><td>EOID</td><td>S</td><td>M, if Reg_3RD = 1</td><td>  </td></tr>
+</tbody>
+</table>
+
+1.3. De-registration of economic operator identifier code
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 1-3 |
+|  | EO_ID | Economic operator identifier code | EOID | S | M |  |
+|  | EO_CODE | Economic operator's confirmation code provided in response to the registration of economic operator | Text | S | M |  |
+|  | Reg_3RD | Indication if the registration is made on behalf of the retail outlet operator not involved otherwise in the tobacco trade | Boolean | S | M | 0 – No 1 – Yes |
+|  | Reg_EOID | Identifier of the economic operator that acts on behalf of the retail outlet operator not involved otherwise in the tobacco trade | EOID | S | M, if Reg_3RD = 1 |  |
+
+1.4. Request for a facility identifier code
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>1-4</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_CODE</td><td>Economic operator's confirmation code provided in response to the registration of economic operator</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>F_street</td><td>Facility’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_municipality</td><td>Facility’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_postcode</td><td>Facility’s postal code</td><td>Text</td><td>S</td><td>M</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>F_A_info</td><td>Additional information on facility’s address (e.g. location in the shopping mall or industrial area)</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>F_Country</td><td>Facility's country</td><td>Country</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_Type</td><td>Type of facility</td><td>Integer</td><td>S</td><td>M</td><td>1 – manufacturing site with warehouse 2 – standalone warehouse  3 – retail outlet  4 – other </td></tr>
+<tr><td>  </td><td>F_Type_Other</td><td>Description of other facility</td><td>Text</td><td>S</td><td>M, if F_Type = 4</td><td>  </td></tr>
+<tr><td>  </td><td>F_Status</td><td>Indication if a part of the facility has a tax (excise) warehouse status</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>F_ExciseNumber1</td><td>Indication if the facility has an excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No SEED number 1 – SEED number exists </td></tr>
+<tr><td>  </td><td>F_ExciseNumber2</td><td>Facility's excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>SEED</td><td>S</td><td>M, if F_ExciseNumber1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>OtherFID_R</td><td>Indication if the facility has been allocated an identifier by another ID Issuer</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes (possible only for non-EU facilities) </td></tr>
+<tr><td>  </td><td>OtherFID_N</td><td>Facility identifier codes allocated by other ID Issuers</td><td>FID</td><td>M</td><td>M, if OtherFID_R = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>PrevFID_B</td><td>Indication if the facility was acquired from another operator and had already a facility identifier code</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No (first time registration) 1 – Yes </td></tr>
+<tr><td>  </td><td>PrevFID_ID</td><td>Previous facility identifier used by the former operator of the facility</td><td>FID</td><td>S</td><td>M, if PrevFID_B = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Reg_3RD</td><td>Indication if the registration is made on behalf of a retail outlet operator not involved otherwise in the tobacco trade</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes (possible only if F_Type = 3) </td></tr>
+<tr><td>  </td><td>Reg_EOID</td><td>Identifier of the economic operator that acts on behalf of the retail outlet operator not involved otherwise in the tobacco trade</td><td>EOID</td><td>S</td><td>M, if Reg_3RD = 1</td><td>  </td></tr>
+</tbody>
+</table>
+
+1.5. Correction of information concerning the facility identifier code
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>1-5</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>EO_CODE</td><td>Economic operator's confirmation code provided in response to the registration of economic operator</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_ID</td><td>Facility identifier code</td><td>FID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>F_street</td><td>Facility’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_municipality</td><td>Facility’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_postcode</td><td>Facility’s postal code</td><td>Text</td><td>S</td><td>M</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>F_A_info</td><td>Additional information on facility’s address (e.g. location in the shopping mall or industrial area)</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>F_Country</td><td>Facility's country</td><td>Country</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_Type</td><td>Type of facility</td><td>Integer</td><td>S</td><td>M</td><td>1 – manufacturing site with warehouse 2 – standalone warehouse  3 – retail outlet  4 – other </td></tr>
+<tr><td>  </td><td>F_Type_Other</td><td>Description of other facility</td><td>Text</td><td>S</td><td>M, if F_Type = 4</td><td>  </td></tr>
+<tr><td>  </td><td>F_Status</td><td>Indication if a part of the facility has a tax (excise) warehouse status</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>F_ExciseNumber1</td><td>Indication if the facility has an excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No SEED number 1 – SEED number exists </td></tr>
+<tr><td>  </td><td>F_ExciseNumber2</td><td>Facility's excise number issued by the competent authority for the purpose of identification of persons/premises</td><td>SEED</td><td>S</td><td>M, if F_ExciseNumber1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>OtherFID_R</td><td>Indication if the facility has been allocated an identifier by another ID Issuer</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes (possible only for non-EU facilities) </td></tr>
+<tr><td>  </td><td>OtherFID_N</td><td>Facility identifier codes allocated by other ID Issuers</td><td>FID</td><td>M</td><td>M, if OtherFID_R = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>PrevFID_B</td><td>Indication if the facility was acquired from another operator and had already a facility identifier code</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No (first time registration) 1 – Yes </td></tr>
+<tr><td>  </td><td>PrevFID_ID</td><td>Previous facility identifier used by the former operator of the facility</td><td>FID</td><td>S</td><td>M, if PrevFID_B = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Reg_3RD</td><td>Indication if the registration is made on behalf of the retail outlet operator not involved otherwise in the tobacco trade</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes (possible only if F_Type = 3) </td></tr>
+<tr><td>  </td><td>Reg_EOID</td><td>Identifier of the economic operator that acts on behalf of the retail outlet operator not involved otherwise in the tobacco trade</td><td>EOID</td><td>S</td><td>M, if Reg_3RD = 1</td><td>  </td></tr>
+</tbody>
+</table>
+
+1.6. De-registration of facility identifier code
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 1-6 |
+|  | EO_ID | Economic operator identifier code | EOID | S | M |  |
+|  | EO_CODE | Economic operator's confirmation code provided in response to the registration of economic operator | Text | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | Reg_3RD | Indication if the de-registration is made on behalf of a retail outlet operator not involved otherwise in the tobacco trade | Boolean | S | M | 0 – No 1 – Yes |
+|  | Reg_EOID | Identifier of the economic operator that acts on behalf of the retail outlet operator not involved otherwise in the tobacco trade | EOID | S | M, if Reg_3RD = 1 |  |
+
+1.7. Request for a machine identifier code
+
+| Item # | Field | Comments | Data Type | Cardin-ality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 1-7 |
+|  | EO_ID | Economic operator identifier code | EOID | S | M |  |
+|  | EO_CODE | Economic operator’s confirmation code provided in response to the registration of economic operator | Text | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | PrevMID_B | Indication if the object of this request was already registered, e.g. in relation to another facility identifier code | Boolean | S | M | 0 – No (first time registration) 1 – Yes |
+|  | PrevMID_ID | Previous machine identifier used for the object of this request | MID | S | M, if PrevMID_B = 1 |  |
+|  | M_entirety | Indication if this request concerns the machine (v. a part of thereof) | Boolean | S | M | 0 – No (machine part) 1 – Yes (machine) |
+|  | P_Producer | Part’s producer | Text | S | M, if M_entirety = 0 |  |
+|  | P_Model | Part’s model | Text | S | M, if M_entirety = 0 |  |
+|  | P_Number | Part’s serial number | Text | S | M, if M_entirety = 0 |  |
+|  | P_Mobile | Indication if this part is intended to be used with multiple machines (fixed v. mobile part) | Boolean | S | M, if M_entirety = 0 | 0 – No (fixed part) 1 – Yes (mobile part) |
+|  | P_ATD1 | Indication if an anti-tampering device in the sense of Article 2(7) records the functioning of this part | Boolean | S | M, if M_entirety = 0 | 0 – No 1 – Yes |
+|  | P_ATD2 | Anti-tampering device’s serial number | Text | S | M, if M_entirety = 0 and P_ATD1 = 1 |  |
+|  | P_Description | Part’s description explaining its technical function | Text | S | O |  |
+|  | M_Producer | Machine’s producer | Text | S | M, if M_entirety = 1 |  |
+|  | M_Model | Machine’s model | Text | S | M, if M_entirety = 1 |  |
+|  | M_Number | Machine’s serial number | Text | S | M, if M_entirety = 1 |  |
+|  | M_parts | Indication if the machine consists of multiple separately identifiable parts | Boolean | S | M, if M_entirety = 1 | 0 – No 1 – Yes |
+|  | M_plist | List of the identifiable parts | MID | M | M, if M_entirety = 1 and M_parts = 1 |  |
+|  | M_ATD | Serial number of the anti-tampering device in the sense of Article 2(7) | Text | S | M, if M_entirety = 1 and M_parts = 0 |  |
+|  | M_Capacity | Maximum capacity over 24-hour production cycle expressed in unit packets | Integer | S | M, if M_entirety = 1 |  |
+
+1.8. Correction of information concerning the machine identifier code
+
+| Item # | Field | Comments | Data Type | Cardin-ality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 1-8 |
+|  | EO_ID | Economic operator identifier code | EOID | S | M |  |
+|  | EO_CODE | Economic operator’s confirmation code provided in response to the registration of economic operator | Text | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | M_ID | Machine identifier code (subject to the correction of information) | MID | S | M |  |
+|  | PrevMID_B | Indication if the object of this request was already registered, e.g. in relation to another facility identifier code | Boolean | S | M | 0 – No (first time registration) 1 – Yes |
+|  | PrevMID_ID | Previous machine identifier code used for the object of this request | MID | S | M, if PrevMID_B = 1 |  |
+|  | M_entirety | Indication if this request concerns the machine (v. a part of thereof) | Boolean | S | M | 0 – No (machine part) 1 – Yes (machine) |
+|  | P_Producer | Part’s producer | Text | S | M, if M_entirety = 0 |  |
+|  | P_Model | Part’s model | Text | S | M, if M_entirety = 0 |  |
+|  | P_Number | Part’s serial number | Text | S | M, if M_entirety = 0 |  |
+|  | P_Mobile | Indication if this part is intended to be used with multiple machines (fixed v. mobile part) | Boolean | S | M, if M_entirety = 0 | 0 – No (fixed part) 1 – Yes (mobile part) |
+|  | P_ATD1 | Indication if an anti-tampering device in the sense of Article 2(7) records the functioning of this part | Boolean | S | M, if M_entirety = 0 | 0 – No 1 – Yes |
+|  | P_ATD2 | Anti-tampering device’s serial number | Text | S | M, if M_entirety = 0 and P_ATD1 = 1 |  |
+|  | P_Description | Part’s description explaining its technical function | Text | S | O |  |
+|  | M_Producer | Machine’s producer | Text | S | M, if M_entirety = 1 |  |
+|  | M_Model | Machine’s model | Text | S | M, if M_entirety = 1 |  |
+|  | M_Number | Machine’s serial number | Text | S | M, if M_entirety = 1 |  |
+|  | M_parts | Indication if the machine consists of multiple separately identifiable parts | Boolean | S | M, if M_entirety = 1 | 0 – No 1 – Yes |
+|  | M_plist | List of the identifiable parts | MID | M | M, if M_entirety = 1 and M_parts = 1 |  |
+|  | M_ATD | Serial number of the anti-tampering device in the sense of Article 2(7) | Text | S | M, if M_entirety = 1 and M_parts = 0 |  |
+|  | M_Capacity | Maximum capacity over 24-hour production cycle expressed in unit packets | Integer | S | M, if M_entirety = 1 |  |
+
+1.9. De-registration of machine identifier code
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 1-9 |
+|  | EO_ID | Economic operator identifier code | EOID | S | M |  |
+|  | EO_CODE | Economic operator's confirmation code provided in response to the registration of economic operator | Text | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | M_ID | Machine identifier code | MID | S | M |  |
+
+**SECTION 2**
+
+**Unique identifiers (UIs)**
+
+2.1. Request for unit level UIs
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>2-1</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity (either EU manufacturer or EU importer)</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_ID</td><td>Facility identifier code</td><td>FID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Process_Type</td><td>Indication if the production process involves machinery</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No (only for fully hand made products) 1 – Yes </td></tr>
+<tr><td>  </td><td>M_ID</td><td>Machine identifier code</td><td>MID</td><td>S</td><td>M, if Process_Type = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>P_Type</td><td>Type of tobacco product</td><td>Integer</td><td>S</td><td>M</td><td>1 – Cigarette 2 – Cigar  3 – Cigarillo  4 – Roll your own tobacco  5 – Pipe tobacco  6 – Waterpipe tobacco  7 – Oral tobacco  8 – Nasal tobacco  9 – Chewing tobacco  11 – Novel tobacco product  12 – Other (product placed on the market before 19 May 2014, not covered by categories 1-9) </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>P_OtherType</td><td>Description of other type of tobacco product</td><td>Text</td><td>S</td><td>M, if P_Type = 11</td><td>  </td></tr>
+<tr><td>  </td><td>P_CN</td><td>Combined Nomenclature (CN) code</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>P_Brand</td><td>Brand of tobacco product under which the product will be marketed on its intended market</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>P_SubType_Exist</td><td>Indicates if the product ‘subtype name’ exists. Subtype name provides further product identification beyond a product’s brand name. </td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>P_SubType_Name</td><td>The product ‘subtype name’ (if any) as marketed on its intended market</td><td>Text</td><td>S</td><td>M, if P_SubType_Exist = 1</td><td>  </td></tr>
+<tr><td>  </td><td>P_units</td><td>The number of individual units in the unit packet (number of sticks in the package).</td><td>Integer</td><td>S</td><td>M, if P_Type = 1 or 2 or 3</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>P_weight</td><td>Average gross weight of unit packet, including packaging, in grams with 0,1 gram accuracy</td><td>Decimal</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>TP_ID</td><td>Tobacco product identifier used in the EU-CEG system</td><td>TPID</td><td>S</td><td>M, if Intended_Market is an EU country</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>TP_PN</td><td>Tobacco product number used in the EU-CEG system (EAN or GTIN or SKU or UPC)</td><td>PN</td><td>S</td><td>M, if Intended_ Market is a Member State O, if Intended_ Market is a third country </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Intended_Market</td><td>Intended country of retail sale</td><td>Country</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Intended_Route1</td><td>Indication if the product is intended to be moved across country boarders with terrestrial/water/air transport</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Intended_Route2</td><td>The first country of terrestrial/water/air transport after the product leaves the Member State of manufacturing or the Member State of importation established on the basis of a check point on the land border, next seaport or next airport respectively</td><td>Country</td><td>S</td><td>M, if Intended_Route1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Import</td><td>Indication if the product is imported into the EU</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Req_Quantity</td><td>Requested quantity of unit packet level UIs</td><td>Integer</td><td>S</td><td>M</td><td>  </td></tr>
+</tbody>
+</table>
+
+2.2. Request for aggregated level UIs
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 2-2 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | Req_Quantity | Requested quantity of aggregated level UIs | Integer | S | M |  |
+
+2.3. Request for deactivation of UIs
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>2-3</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Deact_Type</td><td>Deactivation of unit packet or aggregated level UIs</td><td>Integer</td><td>S</td><td>M</td><td>1 – Unit packet level UIs 2 – Aggregated level UIs </td></tr>
+<tr><td>  </td><td>Deact_Reason1</td><td>Identification of the reason for deactivation</td><td>Integer</td><td>S</td><td>M</td><td>1 – Product destroyed 2 – Product stolen  3 – UI destroyed  4 – UI stolen  5 – UI unused  6 – Other </td></tr>
+<tr><td>  </td><td>Deact_Reason2</td><td>Description of other reason</td><td>Text</td><td>S</td><td>M, if Deact_Reason1 = 6</td><td>  </td></tr>
+<tr><td>  </td><td>Deact_Reason3</td><td>Additional description of the reason</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td>  </td><td>Deact_upUI</td><td>List of unit packet level UIs to be deactivated</td><td>upUI(s)</td><td>M</td><td>M, if Deact_Type = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Deact_upUI</td><td>List of unit packet level UIs to be deactivated</td><td>upUI(L) or  upUI(i)  or  upUI(s) </td><td>M</td><td>M, if Deact_Type = 1</td><td>  </td></tr>
+</tbody>
+</table>
+
+2.4. Request for reactivation of UIs for products reported as stolen but recovered (only permitted if in preceding message type 2-3, field Deact_Reason1 = 2)
+
+| Item # | Field | Comments | Data Type | Cardin-ality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 2-4 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Facility identifier code (facility of recovery) | FID | S | M |  |
+|  | React_Type | Reactivation of unit packet or aggregated level UIs | Integer | S | M | 1 – Unit packet level UIs 2 – Aggregated level UIs |
+|  | React_Reason | Description of the context of reactivation | Text | S | O |  |
+|  | React_upUI | List of unit packet level UIs to be reactivated | upUI(L) or upUI(i) or upUI(s) | M | M, if React_Type = 1 |  |
+|  | React_aUI | List of aggregated level UIs to be reactivated | aUI | M | M, if React_Type = 2 |  |
+
+**SECTION 3**
+
+**Recording and transmission of information on product movements**
+
+3.1. Application of unit level UIs on unit packets
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-1 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | upUI_1 | List of unit packet level UIs to be recorded (full length) | upUI(L) | M | M |  |
+|  | upUI_2 | List of corresponding unit packet level UIs to be recorded (as visible in human readable format) indicated in the same order as upUI_1 | upUI(s) | M | M |  |
+|  | upUI_comment | Comments by the reporting entity | Text | S | O |  |
+
+3.2. Application of aggregated level UIs on aggregated packaging
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-2 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Facility identifier code | FID | S | M |  |
+|  | Event_Time | Time of event occurrence | Time(s) | S | M |  |
+|  | aUI | Aggregated level UI | aUI | S | M |  |
+|  | Aggregation_Type | Identification of aggregation type | Integer | S | M | 1 – aggregation of only unit packet level UIs 2 – aggregation of only aggregated level UIs 3 – aggregation of both unit packet and aggregated level UIs |
+|  | Aggregated_UIs1 | List of unit packet level UIs subject to aggregation | upUI(L) | M | M, if Aggregation_ Type = 1 or 3 |  |
+|  | Aggregated_UIs2 | List of aggregated level UIs subject to further aggregation | aUI | M | M, if Aggregation_ Type = 2 or 3 |  |
+|  | aUI_comment | Comments by the reporting entity | Text | S | O |  |
+
+3.3. Dispatch of tobacco products from a facility
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>3-3</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Event_Time</td><td>Intended time of event occurrence</td><td>Time(s)</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>F_ID</td><td>Dispatch facility identifier code</td><td>FID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID1</td><td>Indication of destination type: if the destination facility is located on the EU territory and if it is delivery to a vending machine (VM) or by means of a vending van (VV) delivering to multiple retail outlets in quantities that have not been predetermined in advance of the delivery</td><td>Integer</td><td>S</td><td>M</td><td>1 – Non EU dest. 2 – EU destination other than VM – fixed quantity delivery  3 – EU VM(s)  4 – EU destination other than VM – delivery with VV </td></tr>
+<tr><td>  </td><td>Destination_ID2</td><td>Destination facility identifier code</td><td>FID</td><td>S</td><td>M, if Destination_ID1 = 2</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID3</td><td>Destination facility identifier code(s) – possible multiple vending machines</td><td>FID</td><td>M</td><td>M, if Destination_ID1 = 3</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID4</td><td>Destination facility identifier code(s)</td><td>FID</td><td>M</td><td>M, if Destination_ID1 = 4</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Destination_ID5</td><td>Destination facility’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID6</td><td>Destination facility’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID7</td><td>Destination facility’s postal code</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 1</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>Destination_ID8</td><td>Destination facility’s country</td><td>Country</td><td>S</td><td>M, if Destination_ID1 = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Transport_mode</td><td>Mode of transport by which the product leaves the facility, see: Commission Regulation (EC) No 684/2009, Annex II, Code List 7</td><td>Integer</td><td>S</td><td>M</td><td>0 – Other 1 – Sea Transport  2 – Rail transport  3 – Road transport  4 – Air transport  5 – Postal consignment  6 – Fixed transport installations  7 – Inland waterway transport </td></tr>
+<tr><td>  </td><td>Transport_vehicle</td><td>Identification of the vehicle (i.e. number plates, train number, plane/flight number, ship name or other identification)</td><td>Text</td><td>S</td><td>M</td><td>‘n/a’ is permitted value if Transport_mode = 0 and product movement takes place between adjacent facilities and is delivered manually</td></tr>
+<tr><td>  </td><td>Transport_cont1</td><td>Indication if the transport is containerised and uses an individual transport unit code (e.g. SSCC)</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Transport_cont2</td><td>Individual transport unit code of the container</td><td>ITU</td><td>S</td><td>M, if Transport_cont1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Transport_s1</td><td>Indication if the dispatch takes place with the logistic/postal operator who operates its own track and trace system accepted by the Member State of the dispatch facility. Only for small quantities of tobacco products (net weight of the products dispatched below 10 kg) destined for exports to third countries</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Transport_s2</td><td>The logistic operator's tracking number</td><td>Text</td><td>S</td><td>M, if Transport_s1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>EMCS</td><td>Dispatch under the Excise Movement and Control System (EMCS)</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>EMCS_ARC</td><td>Administrative Reference Code (ARC)</td><td>ARC</td><td>S</td><td>M, if EMCS = 1</td><td>  </td></tr>
+<tr><td>  </td><td>SAAD</td><td>Dispatch with a simplified accompanying document, see: Commission Regulation (EEC) No 3649/92</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>SAAD_number</td><td>Reference number of the declaration and/or authorization which has to be given by the competent authority in the Member State of destination before the movement starts</td><td>Text</td><td>S</td><td>M, if SAAD = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Exp_Declaration</td><td>Indication if the Movement Reference Number (MRN) has been issued by the customs office</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Exp_ DeclarationNumber</td><td>Movement Reference Number (MRN)</td><td>MRN</td><td>S</td><td>M, if Exp_Declaration = 1</td><td>  </td></tr>
+<tr><td>  </td><td>UI_Type</td><td>Identification of UI types in the dispatch (recorded at the highest level of available aggregation)</td><td>Integer</td><td>S</td><td>M</td><td>1 – only unit packet level UIs 2 – only aggregated level UIs  3 – both unit packet and aggregated level UIs </td></tr>
+<tr><td>  </td><td>upUIs</td><td>List of unit packet level UIs subject to the dispatch</td><td>upUI(L)</td><td>M</td><td>M, if UI_Type = 1 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>aUIs</td><td>List of aggregated level UIs subject to the dispatch</td><td>aUI</td><td>M</td><td>M, if UI_Type = 2 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>Dispatch_comment</td><td>Comments by the reporting entity</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+</tbody>
+</table>
+
+3.4. Arrival of tobacco products at a facility
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-4 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Arrival facility identifier code | FID | S | M |  |
+|  | Event_Time | Time of event occurrence | Time(s) | S | M |  |
+|  | Product_Return | Indication if the arriving products are a return following complete or partial non-delivery | Boolean | S | M | 0 – No 1 – Yes |
+|  | UI_Type | Identification of UI types received (recorded at the highest level of available aggregation) | Integer | S | M | 1 – only unit packet level UIs 2 – only aggregated level UIs 3 – both unit packet and aggregated level UIs |
+|  | upUIs | List of unit packet level UIs received | upUI(L) | M | M, if UI_Type = 1 or 3 |  |
+|  | aUIs | List of aggregated level UIs received | aUI | M | M, if UI_Type = 2 or 3 |  |
+|  | Arrival_comment | Comments by the reporting entity | Text | S | O |  |
+
+3.5. Trans-loading
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>3-5</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Event_Time</td><td>Intended time of event occurrence</td><td>Time(s)</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID1</td><td>Indication if the destination facility is located on the EU territory</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Destination_ID2</td><td>Destination facility identifier code</td><td>FID</td><td>S</td><td>M, if Destination_ID1 = 1</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Destination_ID3</td><td>Destination facility’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID4</td><td>Destination facility’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Destination_ID5</td><td>Destination facility’s postal code</td><td>Text</td><td>S</td><td>M, if Destination_ID1 = 0</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td>  </td><td>Destination_ID6</td><td>Destination facility’s country</td><td>Country</td><td>S</td><td>M, if Destination_ID1 = 0</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Transport_mode</td><td>Mode of transport to which the product is trans-loaded, see: Commission Regulation (EC) No 684/2009, Annex II, Code List 7</td><td>Integer</td><td>S</td><td>M</td><td>0 – Other 1 – Sea Transport  2 – Rail transport  3 – Road transport  4 – Air transport  5 – Postal consignment  6 – Fixed transport installations  7 – Inland waterway transport </td></tr>
+<tr><td>  </td><td>Transport_vehicle</td><td>Identification of the vehicle (i.e. number plates, train number, plane/flight number, ship name or other identification)</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Transport_cont1</td><td>Indication if the transport is containerised and uses an individual transport unit code (e.g. SSCC)</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Transport_cont2</td><td>Individual transport unit code of the container</td><td>ITU</td><td>S</td><td>M, if Transport_cont1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>EMCS</td><td>Dispatch under the Excise Movement and Control System (EMCS)</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>EMCS_ARC</td><td>Administrative Reference Code (ARC)</td><td>ARC</td><td>S</td><td>M, if EMCS = 1</td><td>  </td></tr>
+<tr><td>  </td><td>UI_Type</td><td>Identification of UI types subject to the trans-loading (recorded at the highest level of available aggregation)</td><td>Integer</td><td>S</td><td>M</td><td>1 – only unit packet level UIs 2 – only aggregated level UIs  3 – both unit packet and aggregated level UIs </td></tr>
+<tr><td>  </td><td>upUIs</td><td>List of unit packet level UIs subject to the trans-loading</td><td>upUI(L)</td><td>M</td><td>M, if UI_Type = 1 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>aUIs</td><td>List of aggregated level UIs subject to the trans-loading</td><td>aUI</td><td>M</td><td>M, if UI_Type = 2 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>Transloading_comment</td><td>Comments by the reporting entity</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+</tbody>
+</table>
+
+3.6. Disaggregation of aggregated level UIs
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-6 |
+|  | EO_ID | Economic operator's identifier | EOID | S | M |  |
+|  | F_ID | Facility's identifier | FID | S | M |  |
+|  | Event_Time | Time of event occurrence | Time(s) | S | M |  |
+|  | aUI | Aggregated level UI subject to disaggregation | aUI | S | M |  |
+|  | disaUI_comment | Comments by the reporting entity | Text | S | O |  |
+
+3.7. Report of delivery carried out with a vending van to retail outlet (required if in message type 3-3, field Destination_ID1 = 4)
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-7 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | F_ID | Facility identifier code of retail outlet | FID | S | M |  |
+|  | Event_Time | Time of event occurrence | Time(s) | S | M |  |
+|  | UI_Type | Identification of UI types delivered (recorded at the highest level of available aggregation) | Integer | S | M | 1 – only unit packet level UIs 2 – only aggregated level UIs 3 – both unit packet and aggregated level UIs |
+|  | upUIs | List of unit packet level UIs delivered | upUI(L) | M | M, if UI_Type = 1 or 3 |  |
+|  | aUIs | List of aggregated level UIs delivered | aUI | M | M, if UI_Type = 2 or 3 |  |
+|  | Delivery_comment | Comments by the reporting entity | Text | S | O |  |
+
+3.8. Dispatch of tobacco products from a facility to laboratories, waste disposal centres, national authorities, international governmental organisations, embassies and military bases
+
+| Item # | Field | Comments | Data Type | Cardi-nality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 3-8 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | Event_Time | Intended time of event occurrence | Time(s) | S | M |  |
+|  | F_ID | Dispatch facility identifier code | FID | S | M |  |
+|  | Destination_1 | Indication of destination type | Integer | S | M | 1 – Laboratory 2 – Waste disposal centre 3 – National authority 4 – International governmental organisation 5 – Embassy 6 – Military base |
+|  | Destination_2 | Destination’s street name and house number (or road number and kilometre) | Text | S | M |  |
+|  | Destination_3 | Destination’s municipality (city, town or village) | Text | S | M |  |
+|  | Destination_4 | Destination’s postal code | Text | S | M | ‘n/a’ is permitted value if no postal code has been assigned |
+|  | Destination_5 | Destination’s country | Country | S | M |  |
+|  | Transport_mode | Mode of transport by which the product leaves the facility, see Annex II, Code List 7 of Regulation (EC) No 684/2009 | Integer | S | M | 0 – Other 1 – Sea Transport 2 – Rail transport 3 – Road transport 4 – Air transport 5 – Postal consignment 6 – Fixed transport installations 7 – Inland waterway transport |
+|  | Transport_vehicle | Identification of the vehicle (i.e. number plates, train number, plane/flight number, ship name or other identification) | Text | S | M | ‘n/a’ is permitted value if Transport_mode = 0 and product movement takes place between adjacent facilities and is delivered manually |
+|  | Transport_cont1 | Indication if the transport is containerised and uses an individual transport unit code (e.g. SSCC) | Boolean | S | M | 0 – No 1 – Yes |
+|  | Transport_cont2 | Individual transport unit code of the container | ITU | S | M, if Transport_cont1 = 1 |  |
+|  | UI_Type | Identification of UI types in the dispatch (recorded at the highest level of available aggregation) | Integer | S | M | 1 – only unit packet level UIs 2 – only aggregated level UIs 3 – both unit packet and aggregated level UIs |
+|  | upUIs | List of unit packet level UIs subject to the dispatch | upUI(L) | M | M, if UI_Type = 1 or 3 |  |
+|  | aUIs | List of aggregated level UIs subject to the dispatch | aUI | M | M, if UI_Type = 2 or 3 |  |
+|  | S_Dispatch_comment | Comments by the reporting entity | Text | S | O |  |
+
+**SECTION 4**
+
+**Transactional events**
+
+4.1. Issuing of the invoice
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>4-1</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Event_Time</td><td>Time of event occurrence</td><td>Time(s)</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Type1</td><td>Type of the invoice</td><td>Integer</td><td>S</td><td>M</td><td>1 – Original 2 – Correction  3 – Other </td></tr>
+<tr><td>  </td><td>Invoice_Type2</td><td>Description of the other type of the invoice</td><td>Text</td><td>S</td><td>M, if Invoice_Type1 = 3</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Number</td><td>Number of the invoice</td><td>Text</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Date</td><td>Date of the invoice</td><td>Date</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Seller</td><td>Identity of the seller</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Buyer1</td><td>Indication if the buyer is located in the EU</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Invoice_Buyer2</td><td>Identity of the buyer</td><td>EOID</td><td>S</td><td>M, if Invoice_Buyer1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Buyer_Name</td><td>Buyer's registered legal name</td><td>Text</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Buyer_Address_1</td><td>Buyer’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Buyer_Address_2</td><td>Buyer’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Buyer_Address_3</td><td>Buyer’s postal code</td><td>Text</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Buyer_CountryReg</td><td>Buyer's country of registration</td><td>Country</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Buyer_TAX_N</td><td>Buyer's tax registration number</td><td>Text</td><td>S</td><td>M, if Invoice_Buyer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>First_Seller_EU</td><td>Indication if the invoice is issued by the first seller in the EU, i.e. the EU manufacturer or the importer, and the product is destined for the EU market</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Product_Items_1</td><td>List of TPIDs corresponding to the product items listed on the invoice</td><td>TPID</td><td>M</td><td>M, if First_Seller_EU = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Product_Items_2</td><td>List of product numbers corresponding to the product items listed on the invoice (in the same order as Product_Items_1)</td><td>PN</td><td>M</td><td>M, if First_Seller_EU = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Product_Price</td><td>Net unit packet price per each pair of TPID and product number (in the same order as Product_ Items_1) </td><td>Decimal</td><td>M</td><td>M, if First_Seller_EU = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Net</td><td>Total net amount of the invoice</td><td>Decimal</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_Currency</td><td>Currency of the invoice</td><td>Currency</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>UI_Type</td><td>Identification of UI types covered by the invoice (recorded at the highest level of available aggregation)</td><td>Integer</td><td>S</td><td>M</td><td>1 – only unit packet level UIs 2 – only aggregated level UIs  3 – both unit packet and aggregated level UIs </td></tr>
+<tr><td>  </td><td>upUIs</td><td>List of unit packet level UIs covered by the invoice</td><td>upUI(L)</td><td>M</td><td>M, if UI_Type = 1 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>aUIs</td><td>List of aggregated level UIs covered by the invoice</td><td>aUI</td><td>M</td><td>M, if UI_Type = 2 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>Invoice_comment</td><td>Comments by the reporting entity</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+</tbody>
+</table>
+
+4.2. Issuing of the order number
+
+| Item # | Field | Comments | Data Type | Cardinality | Priority | Values |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Message_Type | Identification of message type | Text | S | M | 4-2 |
+|  | EO_ID | Economic operator identifier code of the submitting entity | EOID | S | M |  |
+|  | Event_Time | Time of event occurrence | Time(s) | S | M |  |
+|  | Order_Number | Number of the purchase order | Text | S | M |  |
+|  | Order_Date | Date of the purchase order | Date | S | M |  |
+|  | UI_Type | Identification of UI types covered by the purchase order (recorded at the highest level of available aggregation) | Integer | S | M | 1 – only unit packet level UIs 2 – only aggregated level UIs 3 – both unit packet and aggregated level UIs |
+|  | upUIs | List of unit packet level UIs covered by the purchase order | upUI(L) | M | M, if UI_Type = 1 or 3 |  |
+|  | aUIs | List of aggregated level UIs covered by the purchase order | aUI | M | M, if UI_Type = 2 or 3 |  |
+|  | Order_comment | Description of the reason for delayed recording of the purchase order | Text | S | O |  |
+
+4.3. Receipt of the payment
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardinality</td><td>Priority</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>4-3</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Event_Time</td><td>Time of event occurrence</td><td>Time(s)</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Date</td><td>Date of the payment receipt</td><td>Date</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Type</td><td>Type of payment</td><td>Integer</td><td>S</td><td>M</td><td>1 – bank transfer 2 – bank card  3 – cash  4 – other </td></tr>
+<tr><td>  </td><td>Payment_Amount</td><td>Amount of the payment</td><td>Decimal</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Currency</td><td>Currency of the payment</td><td>Currency</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Payer1</td><td>Indication if the payer is located in the EU</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Payment_Payer2</td><td>Identity of the payer</td><td>EOID</td><td>S</td><td>M, if Payment_Payer1 = 1</td><td>  </td></tr>
+<tr><td>  </td><td>Payer_Name</td><td>Payer's registered legal name</td><td>Text</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Payer_Address_1</td><td>Payer’s street name and house number (or road number and kilometre)</td><td>Text</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Payer _Address_2</td><td>Payer’s municipality (city, town or village)</td><td>Text</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Payer _Address_3</td><td>Payer’s postal code</td><td>Text</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>‘n/a’ is permitted value if no postal code has been assigned</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>  </td><td>Payer_CountryReg</td><td>Payer's country of registration</td><td>Country</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Payer_TAX_N</td><td>Payer's tax registration number</td><td>Text</td><td>S</td><td>M, if Payment_Payer1 = 0</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Recipient</td><td>Identity of the recipient</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_Invoice</td><td>Indication if the payment corresponds to the existing invoice</td><td>Boolean</td><td>S</td><td>M</td><td>0 – No 1 – Yes </td></tr>
+<tr><td>  </td><td>Invoice_Paid</td><td>Number of the invoice paid with the payment</td><td>Text</td><td>S</td><td>M, if Payment_Invoice = 1</td><td>  </td></tr>
+<tr><td>  </td><td>UI_Type</td><td>Identification of UI types covered by the payment (recorded at the highest level of available aggregation)</td><td>Integer</td><td>S</td><td>M, if Payment_Invoice = 0</td><td>1 – only unit packet level UIs 2 – only aggregated level UIs  3 – both unit packet and aggregated level UIs </td></tr>
+<tr><td>  </td><td>upUIs</td><td>List of unit packet level UIs covered by the payment</td><td>upUI(L)</td><td>M</td><td>M, if Payment_Invoice = 0 and UI_Type = 1 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>aUIs</td><td>List of aggregated level UIs covered by the payment</td><td>aUI</td><td>M</td><td>M, if Payment_Invoice = 0 and UI_Type = 2 or 3</td><td>  </td></tr>
+<tr><td>  </td><td>Payment_comment</td><td>Comments by the reporting entity</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+</tbody>
+</table>
+
+**SECTION 5**
+
+**Recalls**
+
+5\. Recalls of requests, operational and transactional messages (possible for message types 2-1, 2-2, 2-3 (only within 24 hours from the original reporting of message 2-3, for Deact_Reason1 other than ‘2 – Product stolen’), 3-1 to 3-8, 4-1, 4-2 and 4-3)
+
+<table>
+<tbody><tr><td>Item #</td><td>Field</td><td>Comments</td><td>Data Type</td><td>Cardi-nality</td><td>Prioritt</td><td>Values</td></tr>
+<tr><td>  </td><td>Message_Type</td><td>Identification of message type</td><td>Text</td><td>S</td><td>M</td><td>5</td></tr>
+<tr><td>  </td><td>EO_ID</td><td>Economic operator identifier code of the submitting entity</td><td>EOID</td><td>S</td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Recall_CODE</td><td>Message recall code provided to the message sender in the acknowledgement of the original message to be recalled</td><td>Text</td><td>S</td><td>M</td><td>Recall_CODE</td></tr>
+<tr><td>  </td><td>Recall_ Reason1 </td><td>Reason for recalling the original message</td><td>Integer</td><td>S</td><td>M</td><td>1 – reported event did not materialise (only for message types 3-3, 3-5 and 3-8) 2 – message contained erroneous information  3 – other </td></tr>
+<tr><td>  </td><td>Recall_ Reason2 </td><td>Description of the reason for recalling the original message</td><td>Text</td><td>S</td><td>M, if Recall_ Reason1 = 3 </td><td>  </td></tr>
+<tr><td>  </td><td>Recall_ Reason3 </td><td>Any additional explanations on the reason for recalling the original message</td><td>Text</td><td>S</td><td>O</td><td>  </td></tr>
+<tr><td colspan="7">Notice: A recall with respect to operational and logistic events results in flagging the recalled message as cancelled but does not lead to the deletion of the existing database record.</td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Structure of a unit-level unique identifier
+
+<table>
+<tbody><tr><td>  </td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td><td>(9)</td></tr>
+<tr><td>Element:</td><td>Symbology identifier</td><td>Mandatory data qualifier</td><td>ID issuer’s identification code</td><td>Optional data qualifier</td><td>Serial number</td><td>Optional data qualifier</td><td>Product code</td><td>Optional data qualifier</td><td>Time stamp</td></tr>
+<tr><td>Type:</td><td>Qualifier</td><td>Qualifier</td><td>String (data element)</td><td>Qualifier</td><td>String (data element)</td><td>Qualifier</td><td>String (data element)</td><td>Qualifier</td><td>String (data element)</td></tr>
+<tr><td>Position within the unique identifier:</td><td>Fixed</td><td>Fixed</td><td>Fixed</td><td>Non-fixed</td><td>Non-fixed</td><td>Non-fixed</td><td>Non-fixed</td><td>Fixed</td><td>Fixed</td></tr>
+<tr><td>Regulated by:</td><td>Art. 21(1) and ID issuer’s coding structure</td><td>Art.3(4), Art.8(1)(a), Art. 21(1) and ID issuer’s coding structure</td><td>Art.3(4) and Art.8(1)(a)</td><td>Art. 21(1) and ID issuer’s coding structure</td><td>Art.8(1)(b)</td><td>Art. 21(1) and ID issuer’s coding structure</td><td>Art.8(1)(c)</td><td>Art. 21(1), Art. 21(4) and ID issuer’s coding structure</td><td>Art.8(1)(d) and Art.21(4)</td></tr>
+<tr><td>Applicable international standards:</td><td>ISO/IEC 16022:2006, or ISO/IEC 18004:2015, or ISS DotCode Symbology Spec.</td><td>ISO 15459-2:2015 and ISO 15459-3:2014</td><td>ISO 15459-2:2015 and ISO 15459-3:2014</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Process:</td><td>Applied by economic operators</td><td>Applied by economic operators</td><td>Generated by ID issuers</td><td>Applied by economic operators</td><td>Generated by ID issuers</td><td>Applied by economic operators</td><td>Generated by ID issuers</td><td>Applied by economic operators</td><td>Applied by economic operators</td></tr>
+<tr><td>Transmission to the repositories system:</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td></tr>
+<tr><td colspan="10">Note: For the purpose of the above schema, group separators (/FNC1) are considered in the same manner as optional data qualifiers, i.e. their use depends on the ID issuer’s coding structure.</td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+
+( 2 ) Commission Delegated Regulation (EU) 2018/573 of 15 December 2017 on key elements of data storage contracts to be concluded as part of a traceability system for tobacco products (see page 1 of this Official Journal).

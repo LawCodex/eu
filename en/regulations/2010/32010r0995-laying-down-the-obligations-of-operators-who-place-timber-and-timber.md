@@ -1,0 +1,351 @@
+---
+title: "Regulation (EU) No 995/2010 of the European Parliament and of the Council of 20 October 2010 laying down the obligations of operators who place timber and timber products on the market Text with EEA relevance"
+identifier: "32010R0995"
+eli: "http://data.europa.eu/eli/reg/2010/995/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2010-10-20
+entry_into_force: 2010-09-01
+last_amended: 2020-01-01
+consolidated_version: "02010R0995-20200101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R0995-20200101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 995/2010 of the European Parliament and of the Council of 20 October 2010 laying down the obligations of operators who place timber and timber products on the market Text with EEA relevance
+
+**REGULATION (EU) No 995/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 October 2010**
+
+**laying down the obligations of operators who place timber and timber products on the market**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+</table>
+
+**REGULATION (EU) No 995/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 October 2010**
+
+**laying down the obligations of operators who place timber and timber products on the market**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation lays down the obligations of operators who place timber and timber products on the internal market for the first time, as well as the obligations of traders.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘timber and timber products’ means the timber and timber products set out in the Annex, with the exception of timber products or components of such products manufactured from timber or timber products that have completed their lifecycle and would otherwise be disposed of as waste, as defined in Article 3(1) of Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste ( 1 ),
+
+(b) ‘placing on the market’ means the supply by any means, irrespective of the selling technique used, of timber or timber products for the first time on the internal market for distribution or use in the course of a commercial activity, whether in return for payment or free of charge. It also includes the supply by means of distance communication as defined in Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts ( 2 ). The supply on the internal market of timber products derived from timber or timber products already placed on the internal market shall not constitute ‘placing on the market’;
+
+(c) ‘operator’ means any natural or legal person that places timber or timber products on the market;
+
+(d) ‘trader’ means any natural or legal person who, in the course of a commercial activity, sells or buys on the internal market timber or timber products already placed on the internal market;
+
+(e) ‘country of harvest’ means the country or territory where the timber or the timber embedded in the timber products was harvested;
+
+(f) ‘legally harvested’ means harvested in accordance with the applicable legislation in the country of harvest;
+
+(g) ‘illegally harvested’ means harvested in contravention of the applicable legislation in the country of harvest;
+
+(h) ‘applicable legislation’ means the legislation in force in the country of harvest covering the following matters:
+
+— rights to harvest timber within legally gazetted boundaries,
+
+— payments for harvest rights and timber including duties related to timber harvesting,
+
+— timber harvesting, including environmental and forest legislation including forest management and biodiversity conservation, where directly related to timber harvesting,
+
+— third parties’ legal rights concerning use and tenure that are affected by timber harvesting, and
+
+— trade and customs, in so far as the forest sector is concerned.
+
+## Article 3 — Status of timber and timber products covered by FLEGT and CITES
+
+Timber embedded in timber products listed in Annexes II and III to Regulation (EC) No 2173/2005 which originate in partner countries listed in Annex I to that Regulation and which comply with that Regulation and its implementing provisions shall be considered to have been legally harvested for the purposes of this Regulation.
+
+Timber of species listed in Annex A, B or C to Regulation (EC) No 338/97 and which complies with that Regulation and its implementing provisions shall be considered to have been legally harvested for the purposes of this Regulation.
+
+## Article 4 — Obligations of operators
+
+1\. The placing on the market of illegally harvested timber or timber products derived from such timber shall be prohibited.
+
+2\. Operators shall exercise due diligence when placing timber or timber products on the market. To that end, they shall use a framework of procedures and measures, hereinafter referred to as a ‘due diligence system’, as set out in Article 6.
+
+3\. Each operator shall maintain and regularly evaluate the due diligence system which it uses, except where the operator makes use of a due diligence system established by a monitoring organisation referred to in Article 8. Existing supervision systems under national legislation and any voluntary chain of custody mechanism which fulfil the requirements of this Regulation may be used as a basis for the due diligence system.
+
+## Article 5 — Obligation of traceability
+
+Traders shall, throughout the supply chain, be able to identify:
+
+(a) the operators or the traders who have supplied the timber and timber products; and
+
+(b) where applicable, the traders to whom they have supplied timber and timber products.
+
+Traders shall keep the information referred to in the first paragraph for at least five years and shall provide that information to competent authorities if they so request.
+
+## Article 6 — Due diligence systems
+
+1\. The due diligence system referred to in Article 4(2) shall contain the following elements:
+
+(a) measures and procedures providing access to the following information concerning the operator’s supply of timber or timber products placed on the market:
+
+— description, including the trade name and type of product as well as the common name of tree species and, where applicable, its full scientific name,
+
+— country of harvest, and where applicable:
+
+(i) sub-national region where the timber was harvested; and
+
+(ii) concession of harvest,
+
+— quantity (expressed in volume, weight or number of units),
+
+— name and address of the supplier to the operator,
+
+— name and address of the trader to whom the timber and timber products have been supplied,
+
+— documents or other information indicating compliance of those timber and timber products with the applicable legislation;
+
+(b) risk assessment procedures enabling the operator to analyse and evaluate the risk of illegally harvested timber or timber products derived from such timber being placed on the market.
+
+Such procedures shall take into account the information set out in point (a) as well as relevant risk assessment criteria, including:
+
+— assurance of compliance with applicable legislation, which may include certification or other third-party-verified schemes which cover compliance with applicable legislation,
+
+— prevalence of illegal harvesting of specific tree species,
+
+— prevalence of illegal harvesting or practices in the country of harvest and/or sub-national region where the timber was harvested, including consideration of the prevalence of armed conflict,
+
+— sanctions imposed by the UN Security Council or the Council of the European Union on timber imports or exports,
+
+— complexity of the supply chain of timber and timber products.
+
+(c) except where the risk identified in course of the risk assessment procedures referred to in point (b) is negligible, risk mitigation procedures which consist of a set of measures and procedures that are adequate and proportionate to minimise effectively that risk and which may include requiring additional information or documents and/or requiring third party verification.
+
+2\. Detailed rules necessary to ensure the uniform implementation of paragraph 1, except as regards further relevant risk assessment criteria referred to in the second sentence of paragraph 1(b) of this Article, shall be adopted in accordance with the regulatory procedure referred to in Article 18(2). Those rules shall be adopted by 3 June 2012.
+
+3\. Taking into account market developments and the experience gained in the implementation of this Regulation, in particular as identified through the exchange of information referred to in Article 13 and the reporting referred to in Article 20(3), the Commission may adopt delegated acts in accordance with Article 290 TFEU as regards further relevant risk assessment criteria that may be necessary to supplement those referred to in the second sentence of paragraph 1(b) of this Article with a view to ensuring the effectiveness of the due diligence system.
+
+For the delegated acts referred to in this paragraph the procedures set out in Articles 15, 16 and 17 shall apply.
+
+## Article 7 — Competent authorities
+
+1\. Each Member State shall designate one or more competent authorities responsible for the application of this Regulation.
+
+Member States shall inform the Commission of the names and addresses of the competent authorities by 3 June 2011. Member States shall inform the Commission of any changes to the names or addresses of the competent authorities.
+
+2\. The Commission shall make publicly available, including on the Internet, a list of the competent authorities. The list shall be regularly updated.
+
+## Article 8 — Monitoring organisations
+
+1\. A monitoring organisation shall:
+
+(a) maintain and regularly evaluate a due diligence system as set out in Article 6 and grant operators the right to use it;
+
+(b) verify the proper use of its due diligence system by such operators;
+
+(c) take appropriate action in the event of failure by an operator to properly use its due diligence system, including notification of competent authorities in the event of significant or repeated failure by the operator.
+
+2\. An organisation may apply for recognition as a monitoring organisation if it complies with the following requirements:
+
+(a) it has legal personality and is legally established within the Union;
+
+(b) it has appropriate expertise and the capacity to exercise the functions referred to in paragraph 1; and
+
+(c) it ensures the absence of any conflict of interest in carrying out its functions.
+
+3\. The Commission, after consulting the Member State(s) concerned, shall recognise as a monitoring organisation an applicant that fulfils the requirements set out in paragraph 2.
+
+The decision to grant recognition to a monitoring organisation shall be communicated by the Commission to the competent authorities of all the Member States.
+
+4\. The competent authorities shall carry out checks at regular intervals to verify that the monitoring organisations operating within the competent authorities’ jurisdiction continue to fulfil the functions laid down in paragraph 1 and comply with the requirements laid down in paragraph 2. Checks may also be carried out when the competent authority of the Member State is in possession of relevant information, including substantiated concerns from third parties or when it has detected shortcomings in the implementation by operators of the due diligence system established by a monitoring organisation. A report of the checks shall be made available in accordance with Directive 2003/4/EC.
+
+5\. If a competent authority determines that a monitoring organisation either no longer fulfils the functions laid down in paragraph 1 or no longer complies with the requirements laid down in paragraph 2, it shall without delay inform the Commission.
+
+6\. The Commission shall withdraw recognition of a monitoring organisation when, in particular on the basis of the information provided pursuant to paragraph 5, it has determined that the monitoring organisation no longer fulfils the functions laid down in paragraph 1 or the requirements laid down in paragraph 2. Before withdrawing recognition of a monitoring organisation, the Commission shall inform the Member States concerned.
+
+The decision to withdraw recognition of a monitoring organisation shall be communicated by the Commission to the competent authorities of all the Member States.
+
+7\. In order to supplement the procedural rules with regard to the recognition and withdrawal of recognition of monitoring organisations and, if experience so requires, to amend them, the Commission may adopt delegated acts in accordance with Article 290 TFEU, while ensuring that the recognition and withdrawal of recognition are performed in a fair and transparent manner.
+
+For the delegated acts referred to in this paragraph the procedures set out in Articles 15, 16 and 17 shall apply. Those acts shall be adopted by 3 March 2012.
+
+8\. Detailed rules concerning the frequency and the nature of the checks referred to in paragraph 4, necessary to ensure the effective oversight of monitoring organisations and the uniform implementation of that paragraph, shall be adopted in accordance with the regulatory procedure referred to in Article 18(2). Those rules shall be adopted by 3 June 2012.
+
+## Article 9 — List of monitoring organisations
+
+The Commission shall publish the list of the monitoring organisations in the Official Journal of the European Union, C series, and shall make it available on its website. The list shall be regularly updated.
+
+## Article 10 — Checks on operators
+
+1\. The competent authorities shall carry out checks to verify if operators comply with the requirements set out in Articles 4 and 6.
+
+2\. The checks referred to in paragraph 1 shall be conducted in accordance with a periodically reviewed plan following a risk-based approach. In addition, checks may be conducted when a competent authority is in possession of relevant information, including on the basis of substantiated concerns provided by third parties, concerning compliance by an operator with this Regulation.
+
+3\. The checks referred to in paragraph 1 may include, inter alia:
+
+(a) examination of the due diligence system, including risk assessment and risk mitigation procedures;
+
+(b) examination of documentation and records that demonstrate the proper functioning of the due diligence system and procedures;
+
+(c) spot checks, including field audits.
+
+4\. Operators shall offer all assistance necessary to facilitate the performance of the checks referred to in paragraph 1, notably as regards access to premises and the presentation of documentation or records.
+
+5\. Without prejudice to Article 19, where, following the checks referred to in paragraph 1, shortcomings have been detected, the competent authorities may issue a notice of remedial actions to be taken by the operator. Additionally, depending on the nature of the shortcomings detected, Member States may take immediate interim measures, including inter alia:
+
+(a) seizure of timber and timber products;
+
+(b) prohibition of marketing of timber and timber products.
+
+## Article 11 — Records of checks
+
+1\. The competent authorities shall keep records of the checks referred to in Article 10(1), indicating in particular their nature and results, as well as of any notice of remedial actions issued under Article 10(5). Records of all checks shall be kept for at least five years.
+
+2\. The information referred to in paragraph 1 shall be made available in accordance with Directive 2003/4/EC.
+
+## Article 12 — Cooperation
+
+1\. Competent authorities shall cooperate with each other, with the administrative authorities of third countries and with the Commission in order to ensure compliance with this Regulation.
+
+2\. The competent authorities shall exchange information on serious shortcomings detected through the checks referred to in Articles 8(4) and 10(1) and on the types of penalties imposed in accordance with Article 19 with the competent authorities of other Member States and with the Commission.
+
+## Article 13 — Technical assistance, guidance and exchange of information
+
+1\. Without prejudice to the operators’ obligation to exercise due diligence under Article 4(2), Member States, assisted by the Commission where appropriate, may provide technical and other assistance and guidance to operators, taking into account the situation of small and medium-sized enterprises, in order to facilitate compliance with the requirements of this Regulation, in particular in relation to the implementation of a due diligence system in accordance with Article 6.
+
+2\. Member States, assisted by the Commission where appropriate, may facilitate the exchange and dissemination of relevant information on illegal logging, in particular with a view to assisting operators in assessing risk as set out in Article 6(1)(b), and on best practices regarding the implementation of this Regulation.
+
+3\. Assistance shall be provided in a manner which avoids compromising the responsibilities of competent authorities and preserves their independence in enforcing this Regulation.
+
+## Article 14 — Amendments of the Annex
+
+In order to take into account, on the one hand, the experience gained in the implementation of this Regulation, in particular as identified through the reporting referred to in Article 20(3) and (4) and through the exchange of information as referred to in Article 13, and, on the other hand, developments with regard to technical characteristics, end-users and production processes of timber and timber products, the Commission may adopt delegated acts in accordance with Article 290 TFEU by amending and supplementing the list of timber and timber products set out in the Annex. Such acts shall not create a disproportionate burden on operators.
+
+For the delegated acts referred to in this Article the procedures set out in Articles 15, 16 and 17 shall apply.
+
+## Article 15 — Exercise of the delegation
+
+1\. The power to adopt the delegated acts referred to in Articles 6(3), 8(7) and 14 shall be conferred on the Commission for a period of seven years from 2 December 2010. The Commission shall make a report in respect of the delegated powers not later than three months before the end of a three-year period after the date of application of this Regulation. The delegation of powers shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 16.
+
+2\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 16 and 17.
+
+## Article 16 — Revocation of the delegation
+
+1\. The delegation of powers referred to in Articles 6(3), 8(7) and 14 may be revoked at any time by the European Parliament or by the Council.
+
+2\. The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.
+
+3\. The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+## Article 17 — Objections to delegated acts
+
+1\. The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification. At the initiative of the European Parliament or the Council this period shall be extended by two months.
+
+2\. If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3\. If the European Parliament or the Council objects to a delegated act, the act shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.
+
+## Article 18 — Committee
+
+1\. The Commission shall be assisted by the Forest Law Enforcement Governance and Trade (FLEGT) Committee established under Article 11 of Regulation (EC) No 2173/2005.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+## Article 19 — Penalties
+
+1\. The Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented.
+
+2\. The penalties provided for must be effective, proportionate and dissuasive and may include, inter alia:
+
+(a) fines proportionate to the environmental damage, the value of the timber or timber products concerned and the tax losses and economic detriment resulting from the infringement, calculating the level of such fines in such way as to make sure that they effectively deprive those responsible of the economic benefits derived from their serious infringements, without prejudice to the legitimate right to exercise a profession, and gradually increasing the level of such fines for repeated serious infringements;
+
+(b) seizure of the timber and timber products concerned;
+
+(c) immediate suspension of authorisation to trade.
+
+3\. The Member States shall notify those provisions to the Commission and shall notify it without delay of any subsequent amendments affecting them.
+
+## Article 20 — Monitoring of implementation and access to information
+
+1\. Member States shall make available to the public and the Commission, at the latest by 30 April of each year, information on the application of this Regulation during the previous calendar year. The Commission shall establish, by means of implementing acts, the format and procedure for Member States to make available such information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18(2).
+
+2\. Based on the information referred to in paragraph 1, the Commission services shall make publicly available, on an annual basis, a Union-wide overview on the basis of the data submitted by the Member States. In preparing that overview, the Commission services shall have regard to the progress made in respect of the conclusion and operation of the FLEGT VPAs pursuant to Regulation (EC) No 2173/2005 and their contribution to minimising the presence of illegally harvested timber and timber products derived from such timber on the internal market.
+
+3\. By 3 December 2021 and every five years thereafter, the Commission shall, on the basis of information, in particular the information referred to in paragraph 1, and experience with the application of this Regulation, review the functioning and effectiveness of this Regulation, including in preventing illegally harvested timber or timber products derived from such timber being placed on the market. It shall in particular consider the administrative consequences for small and medium-sized enterprises and product coverage. The Commission shall report to the European Parliament and to the Council on the results of the review and accompany such reports, if necessary, by appropriate legislative proposals.
+
+4\. The first of the reports referred to in paragraph 3 shall include an evaluation of the current Union economic and trade situation with regard to the products listed under Chapter 49 of the Combined Nomenclature, taking particularly into account the competitiveness of the relevant sectors, in order to consider their possible inclusion in the list of timber and timber products set out in the Annex to this Regulation.
+
+The report referred to in the first subparagraph shall also include an assessment of the effectiveness of the prohibition of the placing on the market of illegally harvested timber and timber products derived from such timber as set out in Article 4(1) as well as of the due diligence systems set out in Article 6.
+
+## Article 21 — Entry into force and application
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply as from 3 March 2013. However, Articles 6(2), 7(1), 8(7) and 8(8) shall apply as from 2 December 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Timber and timber products as classified in the Combined Nomenclature set out in Annex I to Council Regulation (EEC) No 2658/87 ( 3 ) , to which this Regulation applies**
+
+— 4401 Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms
+
+— 4403 Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared
+
+— 4406 Railway or tramway sleepers (cross-ties) of wood
+
+— 4407 Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm
+
+— 4408 Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm
+
+— 4409 Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed
+
+— 4410 Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances
+
+— 4411 Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances
+
+— 4412 Plywood, veneered panels and similar laminated wood
+
+— 4413 00 00 Densified wood, in blocks, plates, strips or profile shapes
+
+— 4414 00 Wooden frames for paintings, photographs, mirrors or similar objects
+
+— 4415 Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood
+
+(Not packing material used exclusively as packing material to support, protect or carry another product placed on the market.)
+
+— 4416 00 00 Casks, barrels, vats, tubs and other coopers’ products and parts thereof, of wood, including staves
+
+— 4418 Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes
+
+— Pulp and paper of Chapters 47 and 48 of the Combined Nomenclature, with the exception of bamboo-based and recovered (waste and scrap) products
+
+— 9403 30 , 9403 40 , 9403 50 00 , 9403 60 and 9403 90 30 Wooden furniture
+
+— 9406 00 20 Prefabricated buildings
+
+( 1 ) OJ L 312, 22.11.2008, p. 3.
+
+( 2 ) OJ L 144, 4.6.1997, p. 19.
+
+( 3 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).

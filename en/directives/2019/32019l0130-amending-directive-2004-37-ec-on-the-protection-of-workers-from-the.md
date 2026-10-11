@@ -168,6 +168,7 @@ G. CIAMBA
 
 **A. LIMIT VALUES FOR OCCUPATIONAL EXPOSURE**
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
@@ -194,6 +195,7 @@ G. CIAMBA
 <tr><td>Polycyclic aromatic hydrocarbons mixtures, particularly those containing benzo[a]pyrene, which are carcinogens within the meaning of this Directive</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>skin (10)</td><td></td></tr>
 <tr><td>Mineral oils that have been used before in internal combustion engines to lubricate and cool the moving parts within the engine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>skin (10)</td><td></td></tr>
 </tbody>
+</table>
 
 **B. OTHER DIRECTLY RELATED PROVISIONS**
 

@@ -1,0 +1,2125 @@
+---
+title: "Commission Regulation (EC) No 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein"
+identifier: "32006R0865"
+eli: "http://data.europa.eu/eli/reg/2006/865/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-05-04
+entry_into_force: 2006-05-25
+last_amended: 2025-02-18
+consolidated_version: "02006R0865-20250218"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R0865-20250218"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein
+
+**COMMISSION REGULATION (EC) No 865/2006**
+
+**of 4 May 2006**
+
+**laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 100/2008 of 4 February 2008 </td><td> L 31</td><td>3</td><td>5.2.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 791/2012 of 23 August 2012 </td><td> L 242</td><td>1</td><td>7.9.2012</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 792/2012 of 23 August 2012 </td><td> L 242</td><td>13</td><td>7.9.2012</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EU) No 1283/2013 of 10 December 2013 </td><td> L 332</td><td>14</td><td>11.12.2013</td></tr>
+<tr><td> M5</td><td> COMMISSION REGULATION (EU) 2015/56 of 15 January 2015 </td><td> L 10</td><td>1</td><td>16.1.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/870 of 5 June 2015 </td><td> L 142</td><td>3</td><td>6.6.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/220 of 6 February 2019 </td><td> L 35</td><td>3</td><td>7.2.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/2280 of 16 December 2021 </td><td> L 473</td><td>1</td><td>30.12.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/130 of 28 January 2025 </td><td> L 130</td><td>1</td><td>29.1.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 865/2006**
+
+**of 4 May 2006**
+
+**laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein**
+
+## CHAPTER I — DEFINITIONS
+
+### Article 1
+
+Definitions
+
+For the purposes of this Regulation, in addition to the definitions laid down in Article 2 of Regulation (EC) No 338/97, the following definitions shall apply:
+
+(1) ‘date of acquisition’ means the date on which a specimen was taken from the wild, born in captivity or artificially propagated, or, if such date is unknown, the earliest provable date on which it was possessed by any person;
+
+(2) ‘second-generation offspring (F2)’ and ‘subsequent generation offspring (F3, F4, and so on)’ means specimens produced in a controlled environment from parents that were also produced in a controlled environment, as distinct from specimens produced in a controlled environment from parents at least one of which was conceived in or taken from the wild (first-generation offspring (F1));
+
+(3) ‘breeding stock’ means all the animals in a breeding operation that were or are used for reproduction;
+
+(4) ‘controlled environment’ means an environment that is manipulated for the purpose of producing animals of a particular species, that has boundaries designed to prevent animals, eggs or gametes of the species from entering or leaving, and the general characteristics of which may include but are not limited to artificial housing, waste removal, health care, protection from predators and the artificial supply of food;
+
+(4a) ‘cultivated parental stock’ means the ensemble of plants grown under controlled conditions that are used for reproduction, and which must have been, to the satisfaction of the competent management authority, in consultation with a competent scientific authority of the Member State concerned:
+
+(i) established in accordance with the provisions of CITES and relevant national laws and in a manner not detrimental to the survival of the species in the wild; and
+
+(ii) maintained in sufficient quantities for propagation so as to minimise or eliminate the need for augmentation from the wild, with such augmentation occurring only as an exception and limited to the amount necessary to maintain the vigour and productivity of the cultivated parental stock;
+
+(4b) ‘hunting trophy’ means a whole animal, or a readily recognisable part or derivative of an animal, specified on any accompanying CITES permit or certificate that fulfils the following conditions:
+
+(i) is raw, processed or manufactured;
+
+(ii) was legally obtained by the hunter through hunting for the hunter's personal use;
+
+(iii) is being imported, exported or re-exported by or on behalf of the hunter, as part of the transfer from its country of origin, ultimately to the hunter's State of usual residence;
+
+(5) ‘a person normally residing in the Community’ means a person who lives in the Community for at least 185 days in each calendar year because of occupational ties, or, in the case of a person with no occupational ties, because of personal ties which show close links between that person and the place where he is living;
+
+(6) ‘travelling exhibition’ means a sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public;
+
+(7) ‘transaction-specific certificates’ means certificates issued in accordance with Article 48 that are valid only for one or more specified transactions;
+
+(8) ‘specimen-specific certificates’ means certificates issued in accordance with Article 48, other than transaction-specific certificates;
+
+(9) ‘sample collection’ means a collection of legally acquired dead specimens, parts and derivatives thereof, that are transported across borders for presentation purposes;
+
+(10) ‘pre-Convention specimen’ means a specimen acquired before the species concerned was first included in the Appendices to the Convention.
+
+## CHAPTER II — FORMS AND TECHNICAL REQUIREMENTS
+
+### Article 4
+
+Completion of forms
+
+1\. Forms referred to in Article 2 of Commission Implementing Regulation (EU) No 792/2012 ( 1 ) shall be completed in typescript.
+
+However, applications for import and export permits, for re-export certificates, for the certificates provided for in Articles 5(2)(b), 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97, for personal ownership certificates, for sample collection certificates, for musical instrument certificates and for travelling exhibition certificates as well as import notifications, continuation sheets and labels may be completed in manuscript, provided this is done legibly, in ink and in block capitals.
+
+2\. Forms 1 to 4 of Annex I provided for in Implementing Regulation (EU) No 792/2012, forms 1 and 2 of Annex II provided for in Implementing Regulation (EU) No 792/2012, forms 1 and 2 of Annex III provided for in Implementing Regulation (EU) No 792/2012, forms 1 and 2 of Annex V provided for in Implementing Regulation (EU) No 792/2012, the continuation sheets referred to in Article 2(4) of Implementing Regulation (EU) No 792/2012 and the labels referred to in Article 2(6) of Implementing Regulation (EU) No 792/2012 may not contain any erasures or alterations, unless those erasures or alterations have been authenticated by the stamp and signature of the issuing management authority. In the case of the import notifications as referred to in Article 2(2) of Implementing Regulation (EU) No 792/2012 and the continuation sheets referred to in Article 2(4) of Implementing Regulation (EU) No 792/2012, erasures or alterations may also be authenticated by the stamp and signature of the customs office of introduction.
+
+### Article 5
+
+Contents of permits, certificates and applications for the issue of such documents
+
+Information and references in permits and certificates, as well as in applications for the issue of such documents, shall comply with the following requirements:
+
+(1) the description of specimens must, where it is provided for, include one of the codes contained in Annex VII;
+
+(2) for the indication of units of quantity and net mass, those contained in Annex VII must be used;
+
+(3) the taxa to which the specimens belong must be indicated to species level except where the species is differentiated to subspecies level in accordance with the Annexes to Regulation (EC) No 338/97 or where the Conference of the Parties to the Convention has decided that differentiation to a higher taxonomic level is sufficient;
+
+(4) the standard references for nomenclature contained in Annex VIII to this Regulation must be used to indicate the scientific names of taxa;
+
+(5) where required, the purpose of a transaction must be determined applying the criteria set out in Article 5c and indicated on the relevant permit or certificate, using one of the codes contained in point 1 of Annex IX to this Regulation;
+
+(6) the source of specimens must be indicated using one of the codes contained in point 2 of Annex IX to this Regulation.
+
+Where the use of the codes referred to in point (6) is subject to compliance with the criteria laid down in Regulation (EC) No 338/97 or in this Regulation, they must comply with those criteria.
+
+### Article 5a — Specific content of permits, certificates and applications for plant specimens
+
+In case of plant specimens that cease to qualify for an exemption from the provisions of the Convention or Regulation (EC) No 338/97 in accordance with the ‘Notes on the interpretation of Annexes A, B, C and D’ in the Annex thereto, under which they were legally exported and imported, the country to be indicated in box 15 of the forms in Annexes I and III provided for in Implementing Regulation (EU) No 792/2012, box 4 of the forms in Annex II provided for in Implementing Regulation (EU) No 792/2012 and box 10 of the forms in Annex V provided for in Implementing Regulation (EU) No 792/2012 may be the country in which the specimens ceased to qualify for the exemption.
+
+In those cases the box reserved for the entry of ‘special conditions’ in the permit or certificate shall include the statement ‘Legally imported under exemption from the provisions of CITES’ and shall specify to which exemption this refers.
+
+### Article 5b — Specific content of permits and certificates for live rhinoceros and live elephants
+
+Permits and certificates issued under Article 4 or Article 5 of Regulation (EC) No 338/97 for import or re-export of live rhinoceroses or live elephants from populations included in Annex B to that Regulation shall contain a condition stating that horn or ivory from those animals or from their progeny may not enter commercial trade or commercial activities within the Union. In addition, live rhinoceroses or live elephants from those populations shall not be subject to trophy hunting outside of their historic range.
+
+### Article 5c — Purpose of transaction
+
+1\. The purpose of a transaction shall be indicated using one of the codes in point 1 of Annex IX to this Regulation. Where non-commercial aspects are not clearly predominant, the purpose-of-transaction code T shall be used, except where there is an alternative code that more precisely reflects the nature of the transaction between the (re-)exporter and importer or the intended use by the importer, in which case that other code shall be used.
+
+Where non-commercial aspects of the transaction are clearly predominant, the code that best describes the nature of the transaction or the intended use shall be used.
+
+2\. For an export permit, the nature of the transaction between the exporter and importer shall determine the purpose-of-transaction code. For a re-export certificate, the nature of the transaction between the re-exporter and importer shall determine the purpose-of-transaction code.
+
+The code shall indicate the reason why there is an exchange or movement of the specimen(s) from the exporter to the importer or from the re-exporter to the importer.
+
+3\. For an import permit or introduction-from-the-sea certificate, the intended use of the specimens by the importer shall determine the purpose-of-transaction code. The code shall indicate the reason why the importer has requested or is receiving the specimen.
+
+4\. When an export permit and an import permit or a re-export certificate and an import permit are issued, the purpose-of-transaction code used on the import permit may differ from that on the export permit or re-export certificate, respectively.
+
+### Article 6 — Annexes to forms
+
+1\. If an annex attached to any of the forms referred to in Article 2 of Implementing Regulation (EU) No 792/2012 is an integral part of that form, that fact and the number of pages shall be clearly indicated on the permit or certificate concerned and each page of the annex shall include the following:
+
+(a) the number of the permit or certificate and its date of issue;
+
+(b) the signature and the stamp or seal of the management authority which issued the permit or certificate.
+
+2\. Where the forms referred to in Article 2(1) of Implementing Regulation (EU) No 792/2012 are used for more than one species in a shipment, an annex shall be attached which, in addition to the information required under paragraph 1 of this Article, shall, for each species in the shipment, reproduce boxes 8 to 22 of the form concerned as well as the spaces contained in box 27 thereof for ‘quantity/net mass actually imported or (re-)exported’ and, where appropriate, ‘number of animals dead on arrival’.
+
+3\. Where the forms referred to in Article 2(3) of Implementing Regulation (EU) No 792/2012 are used for more than one species, an annex shall be attached which, in addition to the information required under paragraph 1 of this Article, shall, for each species, reproduce boxes 8 to 18 of the form concerned.
+
+4\. Where the forms referred to in Article 2(5) of Implementing Regulation (EU) No 792/2012 are used for more than one species, an annex shall be attached which, in addition to the information required under paragraph 1 of this Article, shall, for each species, reproduce boxes 4 to 18 of the form concerned.
+
+### Article 7
+
+Permits and certificates issued by third countries
+
+1\. Article 4(1) and (2), Article 5(3), (4) and (5) and Article 6 shall apply in the case of decisions on the acceptability of permits and certificates issued by third countries for specimens to be introduced into the Community.
+
+2\. Where the permits and certificates referred to in paragraph 1 concern specimens of species that are subject to voluntarily fixed export quotas or export quotas allocated by the Conference of the Parties to the Convention, they shall be accepted only if they specify the total number of specimens already exported in the current year, including those covered by the permit in question, and the quota for the species concerned.
+
+3\. Re-export certificates issued by third countries shall be accepted only if they specify the country of origin and the number and date of issue of the relevant export permit and, where applicable, the country of last re-export and the number and date of issue of the relevant re-export certificate, or if they contain a satisfactory justification for the omission of such information.
+
+4\. Permits and certificates issued by third countries with source code ‘O’ shall be accepted only if they cover specimens that conform to the definition of pre-Convention specimen set out in Article 1(10) and include either the date of acquisition of the specimens or a statement that the specimens were acquired before a specific date.
+
+5\. Export permits and re-export certificates shall be endorsed, with quantity, signature and stamp, by an official from the export or re-export country, in the export endorsement block of the document. If the export document has not been endorsed at the time of export, the management authority of the importing country should liaise with the exporting country's management authority, considering any extenuating circumstances or documents, to determine the acceptability of the document.
+
+6\. Export permits and re-export certificates issued by third countries shall be accepted only if the competent authority from the third country concerned provides, where requested to do so, satisfactory information that the specimens were obtained in accordance with the legislation on the protection of the species concerned.
+
+7\. Export permits and re-export certificates issued by third countries shall only be accepted if issued by the Management Authority officially designated as competent by the exporting or re-exporting Party.
+
+## CHAPTER III — ISSUE, USE AND VALIDITY OF DOCUMENTS
+
+### Article 8
+
+Issue and use of documents
+
+1\. Documents shall be issued and used in accordance with the provisions and under the conditions laid down in this Regulation and in Regulation (EC) No 338/97, and in particular in Article 11(1) to (4) of the latter Regulation. Permits and certificates may be issued in paper format or in electronic format.
+
+In order to ensure compliance with those Regulations and with the provisions of national law adopted for their implementation, the issuing management authority may impose stipulations, conditions and requirements, which shall be set out in the documents concerned.
+
+2\. The use of documents shall be without prejudice to any other formalities relating to the movement of goods within the Community, to the introduction of goods into the Community or to their export or re-export therefrom, or to the issue of the documents used for such formalities.
+
+3\. Management authorities shall decide on the issue of permits and certificates within one month of the date of submission of a complete application.
+
+However, where the issuing management authority consults third parties, such a decision may be taken only after the satisfactory completion of such consultation. Applicants shall be notified of significant delays in processing their applications.
+
+### Article 9 — Shipments of specimens
+
+Without prejudice to Articles 31, 38, 44b, 44i and 44p, a separate import permit, import notification, export permit or re-export certificate shall be issued for each shipment of specimens shipped together as part of one load.
+
+### Article 10 — Validity of import and export permits, re-export certificates, travelling exhibition certificates, personal ownership certificates, sample collection certificates and musical instrument certificates
+
+1\. The period of validity of import permits issued in accordance with Articles 20 and 21 shall not exceed 12 months. An import permit shall, however, not be valid in the absence of a valid corresponding document from the country of export or re-export.
+
+As regards caviar of sturgeon species (Acipenseriformes spp.) from shared stocks subject to export quotas, which is covered by an export permit, import permits referred to in the first subparagraph shall not be valid beyond the last day of the quota year in which the caviar was harvested and processed or the last day of the 12-month period referred to in the first subparagraph, whichever is the earlier.
+
+As regards caviar of sturgeon species (Acipenseriformes spp.) covered by a re-export certificate, import permits referred to in the first subparagraph shall not be valid beyond the last day of the period of 18 months after the date of issuance of the relevant original export permit or the last day of the 12-month period referred to in the first subparagraph, whichever is the earlier.
+
+2\. The period of validity of export permits and re-export certificates issued in accordance with Article 26 shall not exceed six months.
+
+As regards caviar of sturgeon species (Acipenseriformes spp.) from shared stocks subject to export quotas, export permits referred to in the first subparagraph shall not be valid beyond the last day of the quota year in which the caviar was harvested and processed or the last day of the six-month period referred to in the first subparagraph, whichever is the earlier.
+
+As regards caviar of sturgeon species (Acipenseriformes spp.), re-export certificates referred to in the first subparagraph shall not be valid beyond the last day of the period of 18 months after the date of issuance of the relevant original export permit or the last day of the six-month period referred to in the first subparagraph, whichever is the earlier.
+
+2a. For the purpose of paragraph 1, second subparagraph and paragraph 2 second subparagraph, the quota year shall be that agreed by the Conference of the Parties to the Convention.
+
+2b. When a species has been transferred to Appendix I to the Convention at a meeting of the Conference of the Parties, and the Union has not made a reservation on this transfer, the validity of any import or export permit or re-export certificate for specimens of that species shall not extend beyond the date of entry into force of the transfer to Appendix I.
+
+3\. The period of validity of the travelling exhibition certificates, personal ownership certificates and musical instrument certificates issued in accordance with Articles 30, 37 and 44h respectively shall not exceed three years.
+
+3a. The period of validity of sample collection certificates issued in accordance with Article 44a shall not exceed six months. The date of expiry of a sample collection certificate shall not be later than that of the ATA carnet accompanying it.
+
+4\. After their expiry, the permits and certificates referred to in paragraphs 1, 2, 3 and 3a shall be considered as void.
+
+5\. Travelling exhibition certificates, personal ownership certificates or musical instrument certificates shall cease to be valid if the specimen is sold, lost, destroyed or stolen, or if ownership of the specimen is otherwise transferred, or, in the case of a live specimen, if it has died, escaped or been released to the wild.
+
+6\. The holder shall, without undue delay, return to the issuing management authority the original and all copies of any import permit, export permit, re-export certificate, travelling exhibition certificate, personal ownership certificate, sample collection certificate or musical instrument certificate, which has expired or which is unused or no longer valid.
+
+### Article 11
+
+Validity of used import permits and of the certificates referred to in Articles 47, 48, 49, 60 and 63
+
+1\. Copies for the holder of used import permits shall cease to be valid in the following cases:
+
+(a) where live specimens referred to therein have died;
+
+(b) where live animals referred to therein have escaped or have been released to the wild;
+
+(c) where specimens referred to therein have been lost, destroyed or stolen;
+
+(d) where any of the entries in boxes 3, 6 or 8 no longer reflects the actual situation.
+
+2\. The certificates referred to in Articles 47, 48, 49 and 63 shall cease to be valid in the following cases:
+
+(a) where live specimens referred to therein have died;
+
+(b) where live animals referred to therein have escaped or have been released to the wild;
+
+(c) where specimens referred to therein have been lost, destroyed or stolen;
+
+(d) where any of the entries in boxes 2 and 4 no longer reflects the actual situation;
+
+(e) where any special conditions specified in box 20 are no longer fulfilled.
+
+3\. Certificates issued in accordance with Articles 48 and 63 shall be transaction-specific unless the specimens covered by such certificates are uniquely and permanently marked or, in the case of dead specimens which can not be marked, identified by other means.
+
+The management authority of the Member State in which the specimen is located may also, in consultation with the relevant scientific authority, decide to issue transaction‐specific certificates where it is considered that there are other factors relating to the conservation of the species that militate against the issuance of a specimen-specific certificate.
+
+Where a transaction specific certificate is issued for the purpose of allowing several transactions, it shall be valid only within the territory of the issuing Member State. Where transaction specific certificates are to be used in a Member State other than the issuing Member State, they shall be issued for one transaction only and their validity shall be limited to that transaction. It shall be indicated in box 20 whether the certificate is for one or more transactions and the Member State(s) in whose territory it is valid.
+
+4\. The certificates referred to in Article 48(1)(d) and Article 60 shall cease to be valid where the entry in box 1 no longer reflects the actual situation.
+
+4a. Certificates as referred to in Article 48 which concern elephant ivory specimens and which were issued before 19 January 2022 shall cease to be valid on 19 January 2023.
+
+5\. Documents that cease to be valid in accordance with this Article shall, without undue delay, be returned to the issuing management authority which, where appropriate, may issue a certificate reflecting the required changes in accordance with Article 51.
+
+### Article 12
+
+Documents cancelled, lost, stolen, destroyed or expired
+
+1\. Where a permit or certificate is issued to replace a document that has been cancelled, lost, stolen or destroyed, or that, in the case of a permit or re-export certificate, has expired, the number of the replaced document and the reason for the replacement shall be indicated in the box for ‘special conditions’.
+
+2\. Where an export permit or re-export certificate has been cancelled, lost, stolen or destroyed, the issuing management authority shall inform the management authority of the country of destination and the Secretariat of the Convention thereof.
+
+### Article 13
+
+Time of application for import and (re)-export documents and assignation to a customs procedure
+
+1\. Import permits, export permits and re-export certificates shall, taking account of Article 8(3), be applied for in sufficient time to allow their issue prior to the introduction of specimens into or their export or re-export from the Community.
+
+2\. The assignation of specimens to a customs procedure shall not be authorised until after presentation of the requisite documents.
+
+### Article 14
+
+Validity of documents from third countries
+
+In the case of the introduction of specimens into the Community, the requisite documents from third countries shall be considered valid only where they have been issued for export or re-export from that country and used for that purpose prior to their last day of validity and are used for introduction of specimens into the Community no later than six months from their date of issue.
+
+However, certificates of origin for specimens of species listed in Annex C to Regulation (EC) No 338/97 may be used for the introduction of specimens into the Union until 12 months from their date of issue and travelling exhibition certificates, personal ownership certificates and musical instrument certificates may be used for the introduction of specimens into the Union and for the purpose of applying for respective certificates in accordance with Articles 30, 37 and 44h of this Regulation until three years from their date of issue.
+
+### Article 15
+
+Retrospective issue of certain documents
+
+1\. By way of derogation from Article 13(1) and Article 14 of this Regulation, and provided that the importer or (re-)exporter informs the competent management authority on arrival or before departure of the shipment of the reasons why the required documents are not available, documents for specimens of species listed in Annex B or C to Regulation (EC) No 338/97, as well as for specimens of species listed in Annex A to that Regulation and referred to in Article 4(5) thereof, may exceptionally be issued retrospectively.
+
+2\. The derogation provided for in paragraph 1 shall apply where the competent management authority of the Member State, in consultation with the competent authorities of a third country where appropriate, is satisfied that any irregularities which have occurred are not attributable to the importer or the (re-)exporter, and that the import or (re-)export of the specimens concerned is otherwise in compliance with Regulation (EC) No 338/97, the Convention and the relevant legislation of the third country.
+
+As regards specimens imported or (re-)exported as personal and household effects, to which the provisions of Chapter XIV apply, as regards personally owned live animals, which are legally acquired and held for personal non-commercial purposes, and, in exceptional cases, as regards imported dead specimens listed in Annex B to Regulation (EC) No 338/97 which are legally exported, the derogation provided for in paragraph 1 shall also apply where the competent management authority of the Member State, in consultation with the relevant enforcement authority, is satisfied that there is evidence that a genuine error has been made and that there was no attempt to deceive and the import or (re-)export of the specimens concerned otherwise complies with Regulation (EC) No 338/97, the Convention and the country of export’s relevant legislation. This derogation shall not apply if the importer or (re-)exporter has made a similar error before.
+
+3\. Documents issued pursuant to paragraph 1 shall clearly indicate that they have been issued retrospectively and the reasons for such issue.
+
+In the case of Community import permits, Community export permits and Community re-export certificates, that information shall be indicated in box 23.
+
+3a. For personally owned live animals, which are legally acquired and held for personal non-commercial purposes, for which an import permit is issued pursuant to the second subparagraph of paragraph 2, commercial activities, as laid down in Article 8(1) of Regulation (EC) No 338/97, shall be prohibited for two years from the date of issuance of the permit and no exemptions for specimens of Annex A species, as provided for in Article 8(3) of that Regulation, shall be granted during that period.
+
+In the case of import permits issued pursuant to the second subparagraph of paragraph 2 for those personally owned live animals and for specimens of species listed in Annex A to Regulation (EC) No 338/97 and referred to in Article 4(5)(b) thereof, the stipulation ‘by way of derogation to Article 8(3) or (5) of Regulation (EC) No 338/97, commercial activities, as laid down in Article 8(1) of that Regulation, shall be prohibited for at least two years from the date of issuance of this permit’ shall be included in box 23.
+
+4\. The Secretariat of the Convention shall be notified of export permits and re-export certificates issued in accordance with paragraphs 1, 2 and 3.
+
+### Article 16
+
+Specimens in transit through the Community
+
+Articles 14 and 15 of this Regulation shall apply mutatis mutandis to specimens of species listed in Annexes A and B to Regulation (EC) No 338/97 which are in transit through the Community where that transit is otherwise in accordance with the latter Regulation.
+
+### Article 17
+
+Phytosanitary certificates
+
+1\. In the case of artificially propagated plants of the species listed in Annexes B and C to Regulation (EC) No 338/97 and of artificially propagated hybrids produced from the unannotated species listed in Annex A thereto, the following shall apply:
+
+(a) Member States may decide that a phytosanitary certificate is to be issued instead of an export permit;
+
+(b) phytosanitary certificates issued by third countries shall be accepted instead of an export permit.
+
+2\. Where a phytosanitary certificate as referred to in paragraph 1 is issued, it shall include the scientific name at the species level or, if this is impossible for those taxa included by family in the Annexes to Regulation (EC) No 338/97, at the generic level.
+
+However, artificially propagated orchids and cacti listed in Annex B to Regulation (EC) No 338/97 may be referred to as such.
+
+Phytosanitary certificates shall also include the type and quantity of specimens and bear a stamp, seal or other specific indication stating that ‘the specimens are artificially propagated as defined by CITES’.
+
+### Article 18
+
+Simplified procedures with regard to certain trade in biological samples
+
+1\. In the case of trade that will have no impact on the conservation of the species concerned or only a negligible impact, simplified procedures on the basis of pre‐issued permits and certificates may be used for biological samples of the type and size specified in Annex XI, where those samples are urgently required to be used in the manner specified in that Annex and provided that the following conditions are satisfied:
+
+(a) each Member State must establish and maintain a register of the persons and bodies that may benefit from simplified procedures, hereinafter ‘registered persons and bodies’, as well as of the species that they may trade under such procedures, and must ensure that the register is reviewed by the management authority every five years;
+
+(b) Member States must provide registered persons and bodies with partially completed permits and certificates;
+
+(c) Member States must authorise registered persons or bodies to enter specific information on the face of the permit or certificate where the management authority of the relevant Member State has included the following items in box 23, or in an equivalent place, or in an annex to the permit or certificate:
+
+(i) a list of the boxes that registered persons or bodies are authorised to complete for each shipment;
+
+(ii) a place for the signature of the person who completed the document.
+
+If the list referred to in point (c)(i) includes scientific names, the management authority shall include an inventory of approved species on the face of the permit or certificate or in an annex thereto.
+
+2\. Persons and bodies may be entered in the register for a particular species only after a competent scientific authority has advised in accordance with Articles 4(1)(a), 4(2)(a), 5(2)(a) and 5(4) of Regulation (EC) No 338/97 that multiple transactions involving the biological samples listed in Annex XI to this Regulation will not have a harmful effect on the conservation status of the species in question.
+
+3\. The container in which biological samples referred to in paragraph 1 are shipped shall bear a label that specifies ‘Muestras biológicas CITES’, or ‘CITES Biological Samples’, or ‘Échantillons biologiques CITES’, as well as the number of the document issued in accordance with the Convention.
+
+### Article 19
+
+Simplified procedures with regard to export or re-export of dead specimens
+
+1\. In the case of the export or re-export of dead specimens of species, including any parts or derivatives thereof, listed in Annexes B and C to Regulation (EC) No 338/97, Member States may provide for the use of simplified procedures on the basis of pre-issued export permits or re-export certificates, provided that the following conditions are satisfied:
+
+(a) a competent scientific authority must advise that such export or re-export will have no detrimental impact on the conservation of the species concerned;
+
+(b) each Member State must establish and maintain a register of the persons and bodies that may benefit from simplified procedures, hereinafter ‘registered persons and bodies’, as well as of the species that they may trade under such procedures, and must ensure that the register is reviewed by the management authority every five years;
+
+(c) Member States must provide registered persons and bodies with partially completed export permits and re-export certificates;
+
+(d) Member States must authorise registered persons or bodies to enter specific information in boxes 3, 5, 8 and 9 or 10 of the permit or certificate provided that they comply with the following requirements:
+
+(i) they sign the completed permit or certificate in box 23;
+
+(ii) they immediately send a copy of the permit or certificate to the issuing management authority;
+
+(iii) they maintain a record which they produce to the competent management authority on request and which contains details of the specimens sold, including the species name, the type of specimen, the source of the specimen, the dates of sale and the names and addresses of the persons to whom they were sold.
+
+2\. The export or re-export referred to in paragraph 1 shall otherwise be in accordance with Article 5(4) and (5) of Regulation (EC) No 338/97.
+
+## CHAPTER IV — IMPORT PERMITS
+
+### Article 20
+
+Applications
+
+1\. The applicant for an import permit shall, where appropriate, complete boxes 1, 3 to 6 and 8 to 23 of the application form and boxes 1, 3, 4, 5 and 8 to 22 of the original and all copies. Member States may, however, provide that only an application form is to be completed, in which case such an application may relate to more than one shipment.
+
+2\. The duly completed form shall be submitted to the management authority of the Member State of destination and shall contain the information and be accompanied by the documentary evidence that the authority deems necessary in order to enable it to determine whether, on the basis of Article 4 of Regulation (EC) No 338/97, a permit should be issued.
+
+The omission of information from the application must be justified.
+
+3\. Where an application is made for an import permit relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+4\. For import permits concerning the specimens referred to in Article 64(1)(a) to (f), the applicant shall satisfy the management authority that the marking requirements laid down in Article 66 have been fulfilled.
+
+5\. As regards applications for permits for import for commercial purposes of specimens of animal species listed in Appendix I to the Convention that are born and bred in captivity submitted after 31 December 2026, the applicant shall satisfy the management authority that the specimen originates from an operation that is registered by the Secretariat of the Convention for that species as an operation that breeds specimens of animal species listed in Appendix I to the Convention in captivity for commercial purposes.
+
+### Article 20a — Rejection of applications for import permits
+
+Member States shall reject applications for import permits for caviar and meat of sturgeon species (Acipenseriformes spp.) from shared stocks unless export quotas have been set for the species in accordance with the procedure approved by the Conference of the Parties to the Convention.
+
+### Article 21
+
+Import permits issued for specimens of species included in Appendix I to the Convention and listed in Annex A to Regulation (EC) No 338/97
+
+In the case of an import permit issued for specimens of species included in Appendix I to the Convention and listed in Annex A to Regulation (EC) No 338/97, the copy for the exporting or re-exporting country may be returned to the applicant for submission to the management authority of the country of export or re-export, for the purposes of the issue of an export permit or re-export certificate. The original of that import permit shall, in accordance with Article 4(1)(b)(ii) of that Regulation, be withheld pending presentation of the corresponding export permit or re-export certificate.
+
+Where the copy for the exporting or re-exporting country is not returned to the applicant, the latter shall be given a written statement that an import permit will be issued and on what conditions.
+
+### Article 22
+
+Documents to be surrendered by the importer to the customs office
+
+Without prejudice to Article 53, the importer or his authorised representative shall surrender all the following documents to the border customs office at the point of introduction into the Community, designated in accordance with Article 12(1) of Regulation (EC) No 338/97:
+
+(1) the original import permit (form 1);
+
+(2) the ‘copy for the holder’ (form 2);
+
+(3) where specified in the import permit, any documentation from the country of export or re-export.
+
+Where appropriate, the importer or his authorised representative shall indicate in box 26 the number of the bill of lading or air waybill.
+
+### Article 23
+
+Handling by the customs office
+
+The customs office referred to in Article 22, or, where applicable, Article 53(1), shall, after completing box 27 of the original import permit (form 1) and the ‘copy for the holder’ (form 2), return the latter to the importer or to his authorised representative.
+
+The original import permit (form 1) and any documentation from the country of export or re‐export shall be forwarded in accordance with Article 45.
+
+## CHAPTER V — IMPORT NOTIFICATIONS
+
+### Article 24
+
+Documents to be surrendered by the importer to the customs office
+
+1\. The importer or his authorised representative shall, where appropriate, complete boxes 1 to 13 of the original import notification (form 1) and the ‘copy for the importer’ (form 2) and, without prejudice to Article 25, surrender them together with any documentation from the country of export or re-export to the border customs office at the point of introduction into the Community designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+2\. In the case of import notifications that relate to specimens of species listed in Annex C to Regulation (EC) No 338/97, customs offices may, where necessary, retain such specimens pending verification of the validity of the accompanying documents referred to in Article 4(3)(a) and (b) of that Regulation.
+
+### Article 25
+
+Handling by the customs office
+
+The customs office referred to in Article 24, or, where applicable, Article 53(1), shall, after completing box 14 of the original import notification (form 1) and the ‘copy for the importer’ (form 2), return the latter to the importer or to his authorised representative.
+
+The original import notification (form 1) and any documentation from the country of export or re-export shall be forwarded in accordance with Article 45.
+
+## CHAPTER VI — EXPORT PERMITS AND RE-EXPORT CERTIFICATES
+
+### Article 26
+
+Applications
+
+1\. The applicant for an export permit or re-export certificate shall, where appropriate, complete boxes 1, 3, 4, 5 and 8 to 23 of the application form and boxes 1, 3, 4 and 5 and 8 to 22 of the original and all copies. Member States may, however, provide that only an application form is to be completed, in which case such an application may relate to more than one shipment.
+
+2\. The duly completed form shall be submitted to the management authority of the Member State in whose territory the specimens are located and shall contain the information and be accompanied by the documentary evidence that the authority deems necessary to enable it to determine whether, on the basis of Article 5 of Regulation (EC) No 338/97, a permit/certificate should be issued.
+
+The omission of information from the application must be justified.
+
+3\. When an application is made for an export permit or a re-export certificate relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+4\. For export permits and re-export certificates concerning specimens referred to in Article 65, the applicant shall satisfy the management authority that the marking requirements laid down in Article 66 have been fulfilled.
+
+4a. As regards applications for permits and certificates for export and re-export for commercial purposes of specimens of animal species listed in Appendix I to the Convention that are born and bred in captivity submitted after 31 December 2026, the applicant shall satisfy the management authority that the specimen originates from an operation that is registered by the Secretariat of the Convention for that species as an operation that breeds specimens of animal species listed in Appendix I to the Convention in captivity for commercial purposes.
+
+5\. Where in support of an application for a re-export certificate, a ‘copy for the holder’ of an import permit, or a ‘copy for the importer’ of an import notification, or a certificate issued on the basis thereof is presented, such documents shall be returned to the applicant only after amendment of the number of specimens for which the document remains valid.
+
+Such a document shall not be returned to the applicant if the re-export certificate is granted for the total number of specimens for which the document is valid, or where the document is replaced in accordance with Article 51.
+
+6\. The management authority shall establish the validity of any supporting documents, where necessary in consultation with a management authority of another Member State.
+
+7\. Paragraphs 5 and 6 shall apply where a certificate is presented in support of an application for an export permit.
+
+8\. Where, under the supervision of a management authority of a Member State, specimens have been individually marked so as to allow an easy reference to the documents referred to in paragraphs 5 and 7, those documents shall not be required to be physically presented together with the application, provided that their number is included in the application.
+
+9\. In the absence of the supporting evidence referred to in paragraphs 5 to 8, the management authority shall establish the legal introduction into or acquisition in the Community of the specimens to be (re-)exported, where necessary in consultation with a management authority of another Member State.
+
+10\. Where, for the purposes of paragraphs 3 to 9, a management authority consults a management authority of another Member State, the latter shall respond within a period of one week.
+
+### Article 26a — Rejection of applications for export permits
+
+Member States shall reject applications for export permits for caviar and meat of sturgeon species (Acipenseriformes spp.) from shared stocks unless export quotas have been set for the species in accordance with the procedure approved by the Conference of the Parties to the Convention.
+
+### Article 27
+
+Documents to be surrendered by the (re-)exporter to the customs office
+
+The (re-)exporter or his authorised representative shall surrender the original export permit or re-export certificate (form 1), the copy for the holder (form 2) and the copy for return to the issuing management authority (form 3) to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+Where appropriate, the (re-)exporter or his authorised representative shall indicate in box 26 the number of the bill of lading or air waybill.
+
+### Article 28
+
+Handling by the customs office
+
+The customs office referred to in Article 27 shall, after completing box 27, return the original export permit or re-export certificate (form 1) and the copy for the holder (form 2) to the (re‐)exporter or to his authorised representative.
+
+The copy for return to the issuing management authority (form 3) of the export permit or re‐export certificate shall be forwarded in accordance with Article 45.
+
+### Article 29
+
+Pre-issued permits for nurseries
+
+Where, in compliance with the guidelines adopted by the Conference of the Parties to the Convention, a Member State registers nurseries which export artificially propagated specimens of species included in Annex A to Regulation (EC) No 338/97, it may make pre‐issued export permits for species listed in Annexes A or B to that Regulation available to the nurseries concerned.
+
+In box 23 of those pre-issued export permits, the registration number of the nursery shall be indicated, as well as the following statement:
+
+‘Permit valid only for artificially propagated plants as defined by CITES Resolution Conf. 11.11 (Rev. CoP13). Valid only for the following taxa: …’.
+
+## CHAPTER VII — TRAVELLING EXHIBITION CERTIFICATES
+
+### Article 30
+
+Issue
+
+1\. Member States may issue travelling exhibition certificates in respect of legally acquired specimens which form part of a travelling exhibition and which meet either of the following criteria:
+
+(a) they were born and bred in captivity in accordance with Articles 54 and 55, or artificially propagated in accordance with Article 56;
+
+(b) they were acquired in, or introduced into, the Community before the provisions relating to species listed in Appendices I, II or III to the Convention, or in Annex C to Regulation (EEC) No 3626/82, or in Annexes A, B and C to Regulation (EC) No 338/97 became applicable to them.
+
+2\. In the case of live animals, a travelling exhibition certificate shall cover only one specimen.
+
+3\. A continuation sheet shall be attached to the travelling exhibition certificate, for use in accordance with Article 35.
+
+4\. In the case of specimens other than live animals, the management authority shall attach to the travelling exhibition certificate an inventory sheet displaying, in respect of each specimen, all the information required by boxes 8 to 18 of the model form set out in Annex III provided for in Implementing Regulation (EU) No 792/2012.
+
+### Article 31
+
+Use
+
+A travelling exhibition certificate may be used as follows:
+
+(1) as an import permit, in accordance with Article 4 of Regulation (EC) No 338/97;
+
+(2) as an export permit or re-export certificate, in accordance with Article 5 of Regulation (EC) No 338/97;
+
+(3) as a certificate in accordance with Article 8(3) of Regulation (EC) No 338/97 for the sole purpose of allowing the specimens to be displayed to the public for commercial purposes.
+
+### Article 32
+
+Issuing authority
+
+1\. Where the travelling exhibition originates in the Community, the issuing authority for a travelling exhibition certificate shall be the management authority of the Member State in which the travelling exhibition originates.
+
+2\. Where the travelling exhibition originates in a third country, the issuing authority for a travelling exhibition certificate shall be the management authority of the Member State of first destination and the issue of that certificate shall be based on the provision of an equivalent certificate, issued by that third country.
+
+3\. Where, during a stay in a Member State, an animal covered by a travelling exhibition certificate gives birth, the management authority of that Member State shall be notified and shall issue a permit or certificate as appropriate.
+
+### Article 33
+
+Requirement for specimens
+
+1\. Where a specimen is covered by a travelling exhibition certificate, all the following requirements shall be met:
+
+(a) the specimen must be registered by the issuing management authority;
+
+(b) the specimen must be returned to the Member State in which it is registered before the date of expiry of the certificate;
+
+(c) the specimen must be uniquely and permanently marked, in accordance with Article 66 in the case of live animals, or otherwise identified in such a way that the authorities of each Member State into which the specimen enters can verify that the certificate corresponds to the specimen being imported or exported.
+
+2\. In the case of travelling exhibition certificates issued in accordance with Article 32(2), points (a) and (b) of paragraph 1 of this Article shall not apply. In such cases, the certificate shall include the following text in box 20:
+
+‘This certificate is not valid unless accompanied by an original travelling exhibition certificate issued by a third country.’
+
+### Article 34
+
+Applications
+
+1\. The applicant for a travelling exhibition certificate shall, where appropriate, complete boxes 3 and 9 to 18 of the application form (form 3) and boxes 3 and 9 to 18 of the original and all copies.
+
+Member States may, however, provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
+
+2\. The duly completed form shall be submitted to the management authority of the Member State in which the specimens are located, or in the case referred to in Article 32(2), to the management authority of the Member State of first destination, together with the necessary information and the documentary evidence that that authority deems necessary so as to enable it to determine whether a certificate should be issued.
+
+The omission of information from the application must be justified.
+
+3\. Where an application is made for a certificate relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+### Article 35
+
+Documents to be surrendered to the customs office by the holder
+
+1\. In the case of a travelling exhibition certificate issued in accordance with Article 32(1), the holder or his authorised representative shall, for verification purposes, surrender the original of that certificate (form 1), and the original and a copy of the continuation sheet, to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+The customs office shall, after completing the continuation sheet, return the original documents to the holder or his authorised representative, endorse the copy of the continuation sheet and forward that endorsed copy to the relevant management authority in accordance with Article 45.
+
+2\. In the case of a travelling exhibition certificate issued in accordance with Article 32(2), paragraph 1 of this Article shall apply, except that the holder or his authorised representative shall also submit the original certificate and the continuation sheet issued by the third country for verification purposes.
+
+The customs office shall, after completing both continuation sheets, return the original travelling exhibition certificates and continuation sheets to the importer or his authorised representative and forward an endorsed copy of the continuation sheet of the certificate issued by the Member State's management authority to that authority in accordance with Article 45.
+
+### Article 36
+
+Replacement
+
+A travelling exhibition certificate that has been lost, stolen or destroyed may be replaced only by the authority which issued it.
+
+The replacement shall bear the same number, if possible, and the same date of validity as the original document, and shall include, in box 20, one of the following statements:
+
+‘This certificate is a true copy of the original’, or ‘This certificate cancels and replaces the original bearing the number xxxx issued on xx.xx.xxxx.’
+
+## CHAPTER VIII — PERSONAL OWNERSHIP CERTIFICATE
+
+### Article 37
+
+Issue
+
+1\. Member States may issue personal ownership certificates to the legal owner of legally acquired live animals, held for personal non-commercial purposes.
+
+2\. A personal ownership certificate shall cover only one specimen.
+
+3\. A continuation sheet shall be attached to the certificate for use in accordance with Article 42.
+
+### Article 38
+
+Use
+
+Provided that the specimen covered by a personal ownership certificate is accompanied by its legal owner, the certificate may be used as follows:
+
+(1) as an import permit in accordance with Article 4 of Regulation (EC) No 338/97;
+
+(2) as an export permit or re-export certificate in accordance with Article 5 of Regulation (EC) No 338/97, where the country of destination so agrees.
+
+### Article 39
+
+Issuing authority
+
+1\. Where the specimen originates within the Community, the issuing authority for a personal ownership certificate shall be the management authority of the Member State in whose territory the specimen is located.
+
+2\. Where the specimen is introduced from a third country, the issuing authority for a personal ownership certificate shall be the management authority of the Member State of first destination and the issue of that certificate shall be based on the provision of an equivalent document, issued by that third country.
+
+3\. The personal ownership certificate shall include the following text in box 23 or in an appropriate annex to the certificate:
+
+‘Valid for multiple cross-border movements where the specimen is accompanied by its owner. Legal owner to retain original form.
+
+The specimen covered by this certificate may not be sold or otherwise transferred except in accordance with Article 43 of Commission Regulation (EC) No 865/2006. This certificate is non-transferable. If the specimen dies, is stolen, destroyed or lost, or if it is sold or if ownership of the specimen is otherwise transferred, this certificate must be immediately returned to the issuing management authority.
+
+This certificate is not valid unless accompanied by a continuation sheet, which must be stamped and signed by a customs official at each border crossing.
+
+This certificate shall in no way affect the right to adopt stricter national measures regarding restrictions or conditions for the holding/keeping of live animals.’
+
+4\. Where, during a stay in a Member State, an animal covered by a personal ownership certificate gives birth, the management authority of that State shall be notified and shall issue a permit or certificate as appropriate.
+
+### Article 40
+
+Requirements for specimens
+
+1\. Where a specimen is covered by a personal ownership certificate, the following requirements shall be met:
+
+(a) the specimen must be registered by the management authority of the Member State in which the owner has his usual residence;
+
+(b) the specimen must be returned to the Member State in which it is registered before the date of expiry of the certificate;
+
+(c) the specimen may not be used for commercial purposes except subject to the conditions provided for in Article 43;
+
+(d) the specimen must be uniquely and permanently marked in accordance with Article 66.
+
+2\. In the case of personal ownership certificates issued in accordance with Article 39(2), points (a) and (b) of paragraph 1 of this Article shall not apply.
+
+In such cases, the certificate shall include the following text in box 23:
+
+‘This certificate is not valid unless accompanied by an original personal ownership certificate issued by a third country and unless the specimen to which it relates is accompanied by its owner.’
+
+### Article 41
+
+Applications
+
+1\. The applicant for a personal ownership certificate shall, where appropriate, complete boxes 1, 4 and 6 to 23 of the application form and boxes 1, 4 and 6 to 22 of the original and all copies.
+
+Member States may, however, provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
+
+2\. The duly completed form shall be submitted to a management authority of the Member State in which the specimens are located, or in the case referred to in Article 39(2), to the management authority of the Member State of first destination, together with the necessary information and the documentary evidence that that authority deems necessary so as to enable it to determine whether a certificate should be issued.
+
+The omission of information from the application must be justified.
+
+Where an application is made for a certificate relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+### Article 42
+
+Documents to be surrendered by the holder to the customs office
+
+1\. In the case of the import, export or re-export of a specimen covered by a personal ownership certificate issued in accordance with Article 39(1), the holder of the certificate shall, for verification purposes, surrender the original of that certificate (form 1) and the original and a copy of the continuation sheet to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+The customs office shall, after completing the continuation sheet, return the original documents to the holder, endorse the copy of the continuation sheet and forward that endorsed copy to the relevant management authority in accordance with Article 45 of this Regulation.
+
+2\. In the case of a personal ownership certificate issued in accordance with Article 39(2), paragraph 1 of this Article shall apply, except that the holder shall also submit for verification purposes the original certificate issued by the third country.
+
+The customs office shall, after completing both continuation sheets, return the original documents to the holder and forward an endorsed copy of the continuation sheet of the certificate issued by the Member State's management authority to that authority in accordance with Article 45.
+
+### Article 43
+
+Sales of specimens covered
+
+Where the holder of a personal ownership certificate issued in accordance with Article 39(1) of this Regulation wishes to sell the specimen, he shall first surrender the certificate to the issuing management authority and, where the specimen belongs to a species listed in Annex A to Regulation (EC) No 338/97, shall apply to the competent authority for a certificate in accordance with Article 8(3) of that Regulation.
+
+### Article 44
+
+Replacement
+
+A personal ownership certificate that has been lost, stolen or destroyed may be replaced only by the authority which issued it.
+
+The replacement shall bear the same number, if possible, and the same date of validity as the original document, and shall include, in box 23, one of the following statements:
+
+‘This certificate is a true copy of the original.’, or ‘This certificate cancels and replaces the original bearing the number xxxx issued on xx.xx.xxxx.’
+
+## CHAPTER VIIIa — SAMPLE COLLECTION CERTIFICATES
+
+### Article 44a — Issue
+
+Member States may issue sample collection certificates in respect of sample collections, provided the collection is covered by a valid ATA carnet and includes specimens, parts or derivatives of species listed in Annexes A, B or C of Regulation (EC) No 338/97.
+
+For the purposes of the first paragraph, specimens, parts or derivatives of species listed in Annex A must comply with Chapter XIII of this Regulation.
+
+### Article 44b — Use
+
+Provided that a sample collection covered by a sample collection certificate is accompanied by a valid ATA carnet, a certificate, issued in accordance with Article 44a, may be used as follows:
+
+(1) as an import permit in accordance with Article 4 of Regulation (EC) No 338/97;
+
+(2) as an export permit or re-export certificate in accordance with Article 5 of Regulation (EC) No 338/97, where the country of destination recognises and allows the use of ATA carnets;
+
+(3) as a certificate in accordance with Article 8(3) of Regulation (EC) No 338/97 for the sole purpose of allowing the specimens to be displayed to the public for commercial purposes.
+
+### Article 44c — Issuing authority
+
+1\. Where the sample collection originates within the Community the issuing authority for a sample collection certificate shall be the management authority of the Member State in which the sample collection originates.
+
+2\. Where the sample collection originates in a third country, the issuing authority for a sample collection certificate shall be the management authority of the Member State of first destination and the issuance of that certificate shall be based on the provision of an equivalent document, issued by that third country.
+
+### Article 44d — Requirements
+
+1\. A sample collection covered by a sample collection certificate must be re-imported into the Community before the date of expiry of the certificate.
+
+2\. The specimens covered by a sample collection certificate may not be sold or otherwise transferred whilst outside the territory of the State that issued the certificate.
+
+3\. A sample collection certificate shall not be transferable. If the specimens covered by a sample collection certificate are stolen, destroyed, or lost, the issuing management authority and the management authority of the country in which this occurred shall be immediately informed.
+
+4\. A sample collection certificate shall indicate that the document is for ‘other: Sample Collection’ and shall include the number of the accompanying ATA carnet in box 23.
+
+The following text shall be included in box 23 or in an appropriate annex to the certificate:
+
+‘For sample collection accompanied by ATA carnet No: xxx
+
+This certificate covers a sample collection and is not valid unless accompanied by a valid ATA carnet. This certificate is not transferable. The specimens covered by this certificate may not be sold or otherwise transferred whilst outside the territory of the State that issued this document. This certificate may be used for (re-)export from [indicate the country of (re-)export] via [indicate the countries to be visited] for presentation purposes and import back to [indicate the country of (re-)export].’
+
+5\. In the case of sample collection certificates issued in accordance with Article 44c(2), paragraphs 1 and 4 of this Article shall not apply. In such cases, the certificate shall include the following text in box 23:
+
+‘This certificate is not valid unless accompanied by an original CITES document issued by a third country in accordance with the provisions established by the Conference of the Parties to the Convention.’
+
+### Article 44e — Applications
+
+1\. The applicant for a sample collection certificate shall, where appropriate, complete boxes 1, 3, 4 and 7 to 23 of the application form and boxes 1, 3, 4 and 7 to 22 of the original and all copies. The entries in box 1 and 3 must be identical. The list of countries to be visited must be indicated in box 23.
+
+Member States may, however, provide that only an application form is to be completed.
+
+2\. The duly completed form shall be submitted to a management authority of the Member State in which the specimens are located, or in the case referred to in Article 44c(2), to the management authority of the Member State of first destination, together with the necessary information and the documentary evidence that that authority deems necessary so as to allow it to determine whether a certificate should be issued.
+
+The omission of information from the application must be justified.
+
+3\. Where an application is made for a certificate relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+### Article 44f — Documents to be surrendered by the holder to the customs office
+
+1\. In the case of a sample collection certificate issued in accordance with Article 44c(1), the holder or his authorised representative shall, for verification purposes, surrender the original (form 1) and a copy of that certificate, and where appropriate the copy for the holder (form 2) and the copy for return to the issuing management authority (form 3), as well as the original of the valid ATA carnet to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+The customs office shall, after processing the ATA carnet in accordance with the customs rules contained in Regulation (EC) No 2454/93, and, if necessary, entering the number of the accompanying ATA carnet into the original and copy of the sample collection certificate, return the original documents to the holder or his authorised representative, endorse the copy of the sample collection certificate and forward that endorsed copy to the relevant management authority in accordance with Article 45.
+
+However, at the time of the first export from the Community, the customs office shall, after completing box 27, return the original sample collection certificate (form 1) and the copy for the holder (form 2) to the holder or his authorised representative, and forward the copy for return to the issuing management authority (form 3) in accordance with Article 45.
+
+2\. In the case of a sample collection certificate issued in accordance with Article 44c(2), paragraph (1) of this Article shall apply, except that the holder or his authorised representative shall also submit, for verification purposes, the original certificate issued by the third country.
+
+### Article 44g — Replacement
+
+A sample collection certificate that has been lost, stolen, or destroyed may be replaced only by the authority which issued it.
+
+The replacement shall bear the same number, if possible, and the same date of validity as the original document, and shall include, in box 23, one of the following statements:
+
+‘This certificate is a true copy of the original’, or ‘This certificate cancels and replaces the original bearing the number xxxx issued on xx/xx/xxxx’.
+
+## CHAPTER VIIIb — MUSICAL INSTRUMENT CERTIFICATE
+
+### Article 44h — Issue
+
+1\. Member States may issue a musical instrument certificate for non-commercial cross-border movement of musical instruments for purposes including, but not limited to, personal use, performance, production (recordings), broadcast, teaching, display or competition, where such instruments meet all of the following requirements:
+
+(a) they are derived from species listed in Annexes A, B or C of Regulation (EC) No 338/97, other than specimens of species listed in Annex A of Regulation (EC) No 338/97 acquired after the species was included in Appendices to the Convention;
+
+(b) the specimen used in the manufacture of the musical instrument has been legally acquired;
+
+(c) the musical instrument is appropriately identified.
+
+2\. A continuation sheet shall be attached to the certificate for use in accordance with Article 44m.
+
+### Article 44i — Use
+
+The certificate may be used in either of the following ways:
+
+(a) as an import permit in accordance with Article 4 of Regulation (EC) No 338/97;
+
+(b) as an export permit or re-export certificate in accordance with Article 5 of Regulation (EC) No 338/97.
+
+### Article 44j — Issuing authority
+
+1\. The management authority of the State of usual residence of the applicant shall be the issuing authority for a musical instrument certificate.
+
+2\. The musical instrument certificate shall include the following text in box 23 or in an appropriate annex to the certificate:
+
+‘Valid for multiple cross-border movements. Original to be retained by holder.
+
+The musical instrument covered by this certificate, which permits multiple cross-border movements, is for non-commercial use for purposes including, but not limited to, personal use, performance, production (recordings), broadcast, teaching, display or competition. The musical instrument covered by this certificate may not be sold or possession of it transferred whilst it is outside the State in which the certificate was issued.
+
+This certificate must be returned to the management authority of the State which issued the certificate before the expiration of the certificate.
+
+This certificate is not valid unless accompanied by a continuation sheet, which must be stamped and signed by a customs official at each border crossing.’
+
+.
+
+### Article 44k — Requirements for specimens
+
+Where a specimen is covered by a musical instrument certificate, the following requirements shall be met:
+
+(a) the musical instrument must be registered by the issuing management authority;
+
+(b) the musical instrument must be returned to the Member State in which it is registered before the date of expiry of the certificate;
+
+(c) the specimen may not be sold or possession of it transferred whilst outside the applicant's State of usual residence except subject to the conditions provided for in Article 44n;
+
+(d) the musical instrument must be appropriately identified.
+
+### Article 44l — Applications
+
+1\. An applicant for a musical instrument certificate shall provide information as set out in Articles 44h and 44k and, where appropriate, complete boxes 1, 4 and 7 to 23 of the application form and boxes 1, 4 and 7 to 22 of the original and all copies of the certificate.
+
+Member States may provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
+
+2\. The duly completed application form shall be submitted to a management authority of the Member State of usual residence of the applicant together with the necessary information and the documentary evidence that that authority deems necessary in order for it to determine whether a certificate should be issued.
+
+Any omission of information from the application must be justified.
+
+3\. Where an application is made for a certificate relating to specimens for which an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+### Article 44m — Documents to be surrendered by the holder to the customs office
+
+In the case of the introduction into the Union, export or re-export of a specimen covered by a musical instrument certificate issued in accordance with Article 44j, the holder of the certificate shall, for verification purposes, surrender the original of that certificate and the original and a copy of the continuation sheet to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
+
+The customs office shall, after completing the continuation sheet, return the original documents to the holder, endorse the copy of the continuation sheet and forward the endorsed copy to the relevant management authority in accordance with Article 45.
+
+### Article 44n — Sales of specimens covered
+
+Where the holder of a musical instrument certificate issued in accordance with Article 44j of this Regulation wishes to sell the specimen, he shall first surrender the certificate to the issuing management authority and, where the specimen belongs to a species listed in Annex A to Regulation (EC) No 338/97, shall apply to the competent authority for a certificate in accordance with Article 8(3) of that Regulation.
+
+### Article 44o — Replacement
+
+A musical instrument certificate that has been lost, stolen or destroyed may be replaced only by the authority which issued it.
+
+The replacement shall bear the same number, if possible, and the same date of validity as the original document, and shall include, in box 23, one of the following statements:
+
+‘This certificate is a true copy of the original.’, or ‘This certificate cancels and replaces the original bearing the number xxxx issued on xx/xx/xxxx.’
+
+### Article 44p — Introduction of musical instruments into the Union with certificates issued by third countries
+
+The introduction into the Union of a musical instrument shall not require the presentation of an export document or an import permit provided that it is covered by a musical instrument certificate issued by a third country under similar conditions to those set out in Articles 44h and 44j. Re-export of that musical instrument shall not require the presentation of a re-export certificate.
+
+## CHAPTER IX — CUSTOMS PROCEDURE
+
+### Article 45
+
+Forwarding of documents presented to customs offices
+
+1\. Customs offices shall without delay forward to the relevant management authority of their Member State all documents which have been presented to them in accordance with Regulation (EC) No 338/97 and this Regulation.
+
+Management authorities receiving such documents shall without delay forward those issued by other Member States to the relevant management authorities, together with any supporting documents issued in accordance with the Convention. For reporting purposes, original import notifications shall also be forwarded to the management authorities of the country of import, when it is different from the country where the specimen was introduced into the Union.
+
+2\. By way of derogation from paragraph 1, customs offices may confirm the presentation of documents issued by the management authority of their Member State in electronic form.
+
+## CHAPTER X — CERTIFICATES PROVIDED FOR IN ARTICLES 5(2)(b), 5(3), 5(4), 8(3) AND 9(2)(b) OF REGULATION (EC) No 338/97
+
+### Article 46
+
+Issuing authority
+
+Certificates provided for in Articles 5(2)(b), 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97 may be issued by the management authority of the Member State in which the specimens are located, on receiving an application in accordance with Article 50 of this Regulation.
+
+### Article 47
+
+Certificates provided for in Article 5(2)(b), (3) and (4) of Regulation (EC) No 338/97 (certificates required for export or re-export)
+
+The certificates provided for in Article 5(2)(b), (3) and (4) of Regulation (EC) No 338/97 shall indicate which of the following statements apply in the case of the specimens covered:
+
+(1) they were taken from the wild in accordance with the legislation of the Member State of origin;
+
+(2) they were abandoned or had escaped and were recovered in accordance with the legislation of the Member State where the recovery took place;
+
+(3) they were acquired in, or introduced into the Community, in accordance with Regulation (EC) No 338/97;
+
+(4) they were acquired in, or introduced into the Community, before 1 June 1997 in accordance with Regulation (EEC) No 3626/82;
+
+(5) they were acquired in, or introduced into, the Community before 1 January 1984 in accordance with the Convention;
+
+(6) they were acquired in, or introduced into, the territory of a Member State before the Regulations referred to in points (3) or (4) or the Convention became applicable to them, or became applicable in that Member State.
+
+### Article 48
+
+Certificate provided for in Article 8(3) of Regulation (EC) No 338/97 (certificate for commercial use)
+
+1\. A certificate for the purposes of Article 8(3) of Regulation (EC) No 338/97 shall state that specimens of species listed in Annex A thereto are exempted from one or more of the prohibitions laid down in Article 8(1) of that Regulation for any of the following reasons:
+
+(a) they were acquired in, or introduced into, the Community before the provisions relating to species listed in Annex A to Regulation (EC) No 338/97, or in Appendix I to the Convention, or in Annex C1 to Regulation (EEC) No 3626/82 became applicable to them;
+
+(b) they originate in a Member State and were taken from the wild in accordance with the legislation of that Member State;
+
+(c) they are, or are parts of, or are derived from animals born and bred in captivity;
+
+(d) they are authorised to be used for one of the purposes referred to in Article 8(3)(c) and (e) to (g) of Regulation (EC) No 338/97;
+
+(e) they are worked specimens containing elephant ivory that were acquired more than 50 years previously as defined in Article 2(w) of Regulation (EC) No 338/97.
+
+2\. The competent management authority of a Member State may deem an import permit acceptable as a certificate for the purposes of Article 8(3) of Regulation (EC) No 338/97 upon presentation of, the ‘copy for the holder’ (form 2), if that form states that, as provided for in Article 8(3) thereof, the specimens are exempted from one or more of the prohibitions laid down in Article 8(1) of that Regulation.
+
+### Article 49
+
+Certificate provided for in Article 9(2)(b) of Regulation (EC) No 338/97 (certificate for movement of live specimens)
+
+A certificate for the purposes of Article 9(2)(b) of Regulation (EC) No 338/97 shall state that the movement of live specimens of a species listed in Annex A thereto, from the prescribed location indicated in the import permit, or in a previously issued certificate, is authorised.
+
+### Article 50
+
+Application for the certificates provided for in Articles 5(2)(b), 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97
+
+1\. The applicant for the certificates provided for in Articles 5(2)(b), 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97 shall, where appropriate, complete boxes 1, 2 and 4 to 19 of the application form and boxes 1 and 4 to 18 of the original and all copies.
+
+Member States may, however, provide that only an application form is to be completed, in which case such an application may be for more than one certificate.
+
+2\. The duly completed form shall be submitted to a management authority of the Member State in which the specimens are located, together with the necessary information and the documentary evidence that that authority deems necessary so as to enable it to determine whether a certificate should be issued.
+
+The omission of information from the application must be justified.
+
+Where an application is made for a certificate relating to specimens for which such an application has previously been rejected, the applicant shall inform the management authority of that fact.
+
+### Article 51
+
+Amendments to permits, notifications and certificates
+
+1\. Where a shipment, covered by a ‘copy for the holder’ (form 2) of an import permit, or a ‘copy for the importer’ (form 2) of an import notification, or a certificate, is split or where, for other reasons, the entries in those documents no longer reflect the actual situation, the management authority may take either of the following actions:
+
+(a) it may make the necessary amendments to those documents in accordance with Article 4(2).
+
+(b) it may issue one or more corresponding certificates for the purposes referred to in Articles 47 and 48.
+
+For the purposes of point (b), the management authority must first establish the validity of the document to be replaced, where necessary in consultation with the management authority of another Member State.
+
+2\. Where certificates are issued to replace a ‘copy for the holder’ (form 2) of an import permit, or a ‘copy for the importer’ (form 2) of an import notification, or a previously issued certificate, that document shall be retained by the management authority issuing the certificate.
+
+3\. A permit, notification or certificate that has been lost, stolen or destroyed may be replaced only by the authority which issued it.
+
+4\. Where, for the purposes of paragraph 1, a management authority consults a management authority of another Member State, the latter shall respond within a period of one week.
+
+## CHAPTER XI — LABELS
+
+### Article 52
+
+Use of labels
+
+1\. The labels referred to in Article 2(6) of Implementing Regulation (EU) No 792/2012 shall be used only for the movement between duly registered scientists and scientific institutions of non-commercial loans, donations and exchanges of herbarium, diagnostic and forensic research specimens (as described in Annex XI to this Regulation), preserved, dried or embedded museum specimens and live plant material for scientific study.
+
+2\. A registration number shall be attributed to the scientists and scientific institutions referred to in paragraph 1 by the management authority of the Member State in which they are located.
+
+That registration number shall contain five digits, the first two of which shall be the two-letter ISO country code for the Member State concerned and the last three a unique number assigned to each institution by the competent management authority.
+
+3\. The scientists and scientific institutions concerned shall complete boxes 1 to 5 of the label and, by the return of the part of the label provided for that purpose, immediately inform the management authority with which they are registered of all details about the use of every label.
+
+## CHAPTER XII — DEROGATIONS FROM CUSTOMS PROCEDURES AS REFERRED TO IN ARTICLE 4(7) OF REGULATION (EC) No 338/97
+
+### Article 53
+
+Customs offices other than the border customs office at the point of introduction
+
+1\. Where a shipment to be introduced into the Community arrives at a border customs office by sea, air or rail for dispatch by the same mode of transport, and without intermediate storage, to another customs office in the Community designated in accordance with Article 12(1) of Regulation (EC) No 338/97, the completion of checks and the presentation of import documents shall take place at the latter.
+
+2\. Where a shipment has been checked at a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97 and is dispatched to another customs office for any subsequent customs procedure, the latter shall require presentation of the ‘copy for the holder’ (form 2) of an import permit, completed in accordance with Article 23 of this Regulation, or the ‘copy for the importer’ (form 2) of an import notification, completed in accordance with Article 24 of this Regulation, and may carry out any checks it deems necessary in order to establish compliance with Regulation (EC) No 338/97 and this Regulation.
+
+## CHAPTER XIII — SPECIMENS BORN AND BRED IN CAPTIVITY, ARTIFICIALLY PROPAGATED SPECIMENS AND THE REGISTRATION OF OPERATIONS THAT BREED SPECIMENS OF ANIMAL SPECIES LISTED IN APPENDIX I TO THE CONVENTION IN CAPTIVITY FOR COMMERCIAL PURPOSES
+
+### Article 54
+
+Specimens born and bred in captivity of animal species
+
+Without prejudice to Article 55, a specimen of an animal species shall be considered to be born and bred in captivity only if a competent management authority, in consultation with a competent scientific authority of the Member State concerned, is satisfied that the following criteria are met:
+
+(1) the specimen is, or is derived from, the offspring born or otherwise produced in a controlled environment of either of the following:
+
+(a) parents that mated or had gametes otherwise transferred in a controlled environment, if reproduction is sexual;
+
+(b) parents that were in a controlled environment when development of the offspring began, if reproduction is asexual;
+
+(2) the breeding stock was established in accordance with the legal provisions applicable to it at the time of acquisition and in a manner not detrimental to the survival of the species concerned in the wild;
+
+(3) the breeding stock is maintained without the introduction of specimens from the wild, except for the occasional addition, in accordance with the legal provisions applicable and in a manner not detrimental to the survival of the species concerned in the wild, of animals, eggs or gametes exclusively for one or more of the following purposes:
+
+(a) to prevent or alleviate deleterious inbreeding, the magnitude of such addition being determined by the need for new genetic material;
+
+(b) to dispose of confiscated animals in accordance with Article 16(3) of Regulation (EC) No 338/97;
+
+(c) exceptionally, for use as breeding stock;
+
+(4) the breeding stock has itself produced second or subsequent generation offspring (F2, F3 and so on) in a controlled environment, or is managed in a manner that has been demonstrated to be capable of reliably producing second-generation offspring in a controlled environment.
+
+### Article 54a — Registration of operations that breed specimens of animal species listed in Appendix I to the Convention in captivity for commercial purposes
+
+1\. To register an operation with the Secretariat of the Convention as an operation that breeds specimens of animal species listed in Appendix I to the Convention in captivity for commercial purposes, the natural or legal person in charge of the operation (the operator) shall submit an application for registration to the management authority of the Member State in which the operation is located. The application shall include the information set out in Annex XIV and demonstrate that the operation meets all of the following requirements:
+
+(a) the breeding stock is established in accordance with the provisions of the Convention and of the relevant legislation of the Member State where the operation is located, in a manner not detrimental to the survival of the species in the wild;
+
+(b) the specimens produced by the operation qualify as ‘born and bred in captivity’ under this chapter;
+
+(c) the operator ensures that an appropriate and secure marking system is used to clearly identify all breeding stock and specimens in trade in accordance with Article 66;
+
+(d) the operation makes a continuing meaningful contribution based on the conservation needs of the species concerned.
+
+2\. The management authority may submit to the Secretariat of the Convention the application for registration, when, in consultation with the scientific authority, it is satisfied that all the information set out in Annex XIV has been provided and that the requirements for registration set out in paragraph 1 are fulfilled, and that there are no other factors relating to the conservation of the species that militate against registration.
+
+The registration shall take effect when the operation is included in the register of operations that breed specimens of animal species listed in Appendix I to the Convention in captivity for commercial purposes, maintained by the Secretariat of the Convention (the Register).
+
+3\. If the nature of the operation or the types of products being produced for export change, the operator shall notify the management authority to allow for the update of the information in the Register.
+
+4\. The management authority, in consultation with the scientific authority, may ask the Secretariat of the Convention to remove an operation in its jurisdiction from the Register upon request by the operator or if it becomes aware that one or more requirements for the registration referred to in paragraph 1 are no longer fulfilled. From the date of the request of the management authority, no export permits or re-export certificates for the specimens of the animal species listed in Appendix I to the Convention shall be granted for that operation.
+
+The registration shall cease to be valid when the operation is removed from the Register by the Secretariat of the Convention.
+
+### Article 55
+
+Establishment of ancestry
+
+Where, for the purposes of Articles 54, 62(1) or 63(1), a competent authority considers it necessary to establish the ancestry of an animal through the analysis of blood or other tissue, such analysis or the necessary samples shall be made available in a manner established by that authority.
+
+### Article 56
+
+Artificially propagated specimens of plant species
+
+1\. A specimen of a plant species shall be considered to be artificially propagated only if a competent management authority, in consultation with a competent scientific authority of the Member State concerned, is satisfied that the following criteria are met:
+
+(a) the specimen is, or is derived from, plants grown from seeds, cuttings, divisions, callus tissues or other plant tissues, spores or other propagules under controlled conditions;
+
+(b) the cultivated parental stock is established and maintained in accordance with the definition set out in Article 1(4a);
+
+(d) in the case of grafted plants, both the root stock and the graft have been artificially propagated in accordance with points (a) and (b).
+
+For the purposes of point (a), controlled conditions refers to a non-natural environment that is intensively manipulated by human intervention, which may include but is not limited to tillage, fertilisation, weed control, irrigation, or nursery operations such as potting, bedding and protecting from weather. For agarwood producing taxa, which are grown from seeds, cuttings, grafting, marcoting-air-layering, divisions, callus tissues or other plant tissues, spores or other propagules ‘under controlled conditions’ refers to a tree plantation, including other non-natural environment that is manipulated by human intervention for the purpose of producing plants or plant's parts and derivatives.
+
+2\. Timber and other parts or derivatives of trees taken from trees grown in monospecific plantations shall be considered to be artificially propagated in accordance with paragraph 1.
+
+3\. Trees of agarwood producing taxa grown in cultivation such as:
+
+a) gardens (home and/or community garden);
+
+b) state, private or community production plantation, either monospecific or mixed species,
+
+shall be considered to be artificially propagated in accordance with paragraph 1.
+
+## CHAPTER XIV — PERSONAL AND HOUSEHOLD EFFECTS
+
+### Article 57
+
+Introduction and reintroduction into the Community of personal and household effects
+
+1\. The derogation from Article 4 of Regulation (EC) No 338/97 for personal or household effects, provided for in Article 7(3) of that Regulation, shall not apply to specimens used for commercial gain, sold, displayed for commercial purposes, kept for sale, offered for sale or transported for sale.
+
+That derogation shall only apply to specimens, including hunting trophies, if they meet one of the following conditions:
+
+(a) they are contained in the personal luggage of travellers coming from a third country;
+
+(b) they are contained in the personal property of a natural person transferring his normal place of residence from a third country to the Community;
+
+(c) they are hunting trophies taken by a traveller and imported at a later date.
+
+2\. The derogation from Article 4 of Regulation (EC) No 338/97 for personal or household effects, provided for in Article 7(3) of that Regulation, shall not apply to specimens of species listed in Annex A thereto where they are introduced into the Community for the first time by a person normally residing in, or taking up residence in, the Community.
+
+3\. The first introduction into the Community of personal or household effects, including hunting trophies, by a person normally residing in the Community and involving specimens of species listed in Annex B to Regulation (EC) No 338/97 shall not require the presentation to customs of an import permit, provided that the original of a (re-)export document and a copy thereof are presented.
+
+Customs shall forward the original in accordance with Article 45 of this Regulation and return the stamped copy to the holder.
+
+3a. By way of derogation from paragraph 3, the first introduction into the Union of hunting trophies of specimens of species or populations listed in Annex B to Regulation (EC) No 338/97 and in Annex XIII to this Regulation shall be subject to Article 4 of Regulation (EC) No 338/97.
+
+4\. The reintroduction into the Community, by a person normally residing in the Community, of personal or household effects, including hunting trophies, that are specimens of species listed in Annex A or B to Regulation (EC) No 338/97 shall not require the presentation to customs of an import permit, provided that one of the following is presented:
+
+(a) the customs-endorsed ‘copy for the holder’ (form 2) of a previously used Community import or export permit;
+
+(b) the copy of the (re-)export document referred to in paragraph 3;
+
+(c) proof that the specimens were acquired within the Community.
+
+5\. By way of derogation from paragraphs 3 and 4, the introduction or re-introduction into the Community of the following items listed in Annex B to Regulation (EC) No 338/97 shall not require the presentation of a (re-)export document or an import permit:
+
+(a) caviar of sturgeon species (Acipenseriformes spp.), up to a maximum of 125 grams per person, in containers that are individually marked in accordance with Article 66(6);
+
+(b) rainsticks of Cactaceae spp., up to three per person;
+
+(c) dead worked specimens of Crocodylia spp., excluding meat and hunting trophies, up to four per person;
+
+(d) shells of Strombus gigas, up to three per person;
+
+(e) Hippocampus spp. up to four dead specimens per person;
+
+(f) shells of Tridacnidae spp. up to three specimens per person not exceeding three kg in total, where a specimen may be one intact shell or two matching halves;
+
+(g) specimens of agarwood (Aquilaria spp. and Gyrinops spp.) — up to 1 kg woodchips, 24 ml oil, and two sets of beads or prayer beads (or two necklaces or bracelets) per person.
+
+### Article 58
+
+Export and re-export from the Community of personal and household effects
+
+1\. The derogation from Article 5 of Regulation (EC) No 338/97 for personal or household effects, provided for in Article 7(3) of that Regulation, shall not apply to specimens used for commercial gain, sold, displayed for commercial purposes, kept for sale, offered for sale or transported for sale.
+
+That derogation shall apply to specimens only if they meet one of the following conditions:
+
+(a) they are contained in the personal luggage of travellers going to a third country;
+
+(b) they are contained in the personal property of a natural person transferring his normal place of residence from the Community to a third country.
+
+2\. In the case of export, the derogation from Article 5 of Regulation (EC) No 338/97 for personal or household effects, provided for in Article 7(3) of that Regulation, shall not apply to specimens of species listed in Annexes A or B to that Regulation.
+
+3\. The re-export, by a person normally residing in the Community, of personal or household effects, including personal hunting trophies, that are specimens of species listed in Annexes A or B to Regulation (EC) No 338/97 shall not require the presentation to customs of a re-export certificate, provided that one of the following is presented:
+
+(a) the customs-endorsed ‘copy for the holder’ (form 2) of a previously used Community import or export permit;
+
+(b) the copy of the (re-)export document referred to in Article 57(3) of this Regulation;
+
+(c) proof that the specimens were acquired within the Community.
+
+The provisions in the previous subparagraph do not apply to re-export of rhino horn or elephant ivory contained in personal or household effects; for these specimens the presentation to customs of a re-export certificate shall be required.
+
+3a. The re-export by a person not normally residing in the Union of personal or household effects acquired outside his/her State of usual residence, including personal hunting trophies, that are specimens of species listed in Annex A to Regulation (EC) No 338/97, shall be subject to the presentation to customs of a re-export certificate. The same requirement applies to the re-export as personal or household effects of rhino horn or elephant ivory from specimens from populations listed in Annex B to Regulation (EC) No 338/97.
+
+4\. By way of derogation from paragraphs 2 and 3, the export or re-export of the items listed in points (a) to (g) of Article 57(5) shall not require the presentation of a (re-)export document.
+
+### Article 58a — Commercial use of personal and household effects within the Union
+
+1\. Commercial activities for specimens of species listed in Annex B to Regulation (EC) No 338/97 which are introduced into the Union in accordance with Article 7(3) of Regulation (EC) No 338/97 may be authorised by a management authority of a Member State only under the following conditions:
+
+(a) the applicant needs to demonstrate that the specimen has been introduced into the Union at least two years before it can be used for commercial purpose; and
+
+(b) the management authority of the Member State concerned has verified that the specimen in question could have been imported for commercial purposes in accordance with Article 4(2) of Regulation (EC) No 338/97 at the time when it was introduced into the Union.
+
+Once those conditions are fulfilled, the management authority shall deliver a written statement attesting that the specimen can be used for commercial purposes.
+
+2\. Commercial activities shall be prohibited for specimens of species listed in Annex A to Regulation (EC) No 338/97 which were introduced into the Union in accordance with Article 7(3) of Regulation (EC) No 338/97, or for specimens of species listed in Appendix I to the Convention or in Annex C1 to Regulation (EEC) No 3626/82 and introduced into the Union as personal and household effects.
+
+## CHAPTER XV — EXEMPTIONS AND DEROGATIONS
+
+### Article 59
+
+Exemptions from Article 8(1) of Regulation (EC) No 338/97 as provided for in Article 8(3) thereof
+
+1\. The exemption for specimens referred to in Article 8(3)(a), (b) and (c) of Regulation (EC) No 338/97 shall be granted only if the applicant has satisfied the competent management authority that the conditions referred to therein and in Article 48 of this Regulation are met.
+
+1a. The exemption for specimens referred to in Article 8(3) of Regulation (EC) No 338/97 shall be granted only if the applicant has satisfied the competent management authority that the specimens concerned have been acquired in accordance with the legislation in force for the conservation of wild fauna and flora.
+
+2\. The exemption for specimens referred to in Article 8(3)(d) of Regulation (EC) No 338/97 shall be granted only if the applicant has satisfied the competent management authority, the latter having consulted a competent scientific authority, that the conditions referred to in Article 48 of this Regulation are met and that the specimens concerned were born and bred in captivity or artificially propagated in accordance with Articles 54, 55 and 56 of this Regulation.
+
+3\. The exemption for specimens referred to in Article 8(3)(e), (f) and (g) of Regulation (EC) No 338/97 shall be granted only if the applicant has satisfied the competent management authority, the latter having consulted with a competent scientific authority, that the conditions referred to therein and in Article 48 of this Regulation are met.
+
+4\. The exemption for specimens referred to in Article 8(3)(h) of Regulation (EC) No 338/97 shall be granted only if the applicant has satisfied the competent management authority that the specimens concerned were taken from the wild in a Member State in compliance with its legislation.
+
+5\. An exemption provided for in Article 8(3) of Regulation (EC) No 338/97 shall be granted with regard to live vertebrates only if the applicant has satisfied the competent management authority that the relevant provisions of Article 66 of this Regulation have been met.
+
+### Article 60
+
+Derogation from Article 8(1) of Regulation (EC) No 338/97 for the benefit of scientific institutions
+
+Without prejudice to Article 9 of Regulation (EC) No 338/97 a derogation from the prohibition laid down in Article 8(1) thereof may be granted to scientific institutions, approved by a management authority in consultation with a scientific authority, by the issue of a certificate covering all specimens in their collection of species listed in Annex A to that Regulation, that are intended for either of the following:
+
+(1) captive breeding or artificial propagation from which conservation benefits will accrue to the species concerned;
+
+(2) research or education aimed at the preservation or conservation of the species concerned.
+
+Any sale of specimens covered by such a certificate may be made only to other scientific institutions holding such a certificate.
+
+### Article 61
+
+Exemptions from Article 8(1) and (3) of Regulation (EC) No 338/97
+
+Without prejudice to Article 9 of Regulation (EC) No 338/97, neither the prohibition laid down in Article 8(1) thereof of the purchase, offer of purchase, or acquisition of specimens of species listed in Annex A thereto for commercial purposes nor the provision laid down in Article 8(3) thereof, to the effect that exemptions from those prohibitions are to be granted by the issue of a certificate on a case-by-case basis, shall apply where the specimens involved meet either of the following criteria:
+
+(1) they are covered by one of the specimen-specific certificates provided for in Article 48 of this Regulation;
+
+(2) they are covered by one of the general exemptions provided for in Article 62 of this Regulation.
+
+### Article 62
+
+General exemptions from Article 8(1) and (3) of Regulation (EC) No 338/97
+
+The provision laid down in Article 8(3) of Regulation (EC) No 338/97, to the effect that exemptions from the prohibitions in Article 8(1) are to be granted by the issue of a certificate on a case-by-case basis, shall not apply to, and no certificate shall be required for, the following:
+
+(1) specimens of captive born and bred animals of the species listed in Annex X to this Regulation, and hybrids thereof, provided that specimens of annotated species are marked in accordance with Article 66(1) of this Regulation;
+
+(2) artificially propagated specimens of plant species;
+
+(3) worked specimens that were acquired more than 50 years previously, as defined in Article 2(w) of Regulation (EC) No 338/97, except specimens containing elephant ivory;
+
+(4) dead specimens of Crocodylia species included in Annex A with source code D, provided that they are marked or identified via other means in accordance with this Regulation;
+
+(5) caviar of Acipenser brevirostrum and its hybrids, with source code D, provided that it is contained in a container marked in accordance with this Regulation.
+
+### Article 63
+
+Pre-issued certificates under Article 8(3) of Regulation (EC) No 338/97
+
+1\. For the purposes of Article 8(3)(d) of Regulation (EC) No 338/97, a Member State may make pre-issued certificates available to breeders approved for that purpose by a management authority, provided that they maintain breeding records and that they produce those records, on request, to the competent management authority.
+
+Such certificates shall, in box 20, include the following statement:
+
+‘Certificate only valid for the following taxon/taxa: …’
+
+2\. For the purposes of Article 8(3)(d) and (h) of Regulation (EC) No 338/97, a Member State may make pre-issued certificates available to persons who have been approved by a management authority to sell on the basis of such certificates dead captive-bred specimens and/or small numbers of dead specimens legally taken from the wild within the Community, provided that any such person meets the following requirements:
+
+(a) he maintains a record, which is produced on request to the competent management authority and which contains details of specimens/species sold, the cause of death if known, the persons from whom specimens were acquired and the persons to whom they were sold;
+
+(b) he submits an annual report to the competent management authority which contains details of sales during that year, the type and number of specimens, the species concerned and how the specimens were acquired.
+
+3\. Pre-issued certificates shall only be valid once they have been completed and a copy of the certificate is transmitted to the issuing management authority by the applicant.
+
+## CHAPTER XVI — MARKING REQUIREMENTS
+
+### Article 64
+
+Marking of specimens for the purpose of imports and commercial activities within the Community
+
+1\. Import permits for the following items shall be issued only if the applicant has satisfied the competent management authority that the specimens have been individually marked in accordance with Article 66(6):
+
+(a) specimens that derive from a captive breeding operation that was approved by the Conference of the Parties to the Convention;
+
+(b) specimens that derive from a ranching operation that was approved by the Conference of the Parties to the Convention;
+
+(c) specimens from a population of a species listed in Appendix I to the Convention for which an export quota has been approved by the Conference of the Parties to the Convention;
+
+(d) raw tusks of African elephant and cut pieces thereof that are both 20 cm or more in length and 1 kg or more in weight;
+
+(e) raw, tanned and/or finished crocodilian skins, flanks, tails, throats, feet, backstrips and other parts thereof that are exported to the Community, and entire raw, tanned, or finished crocodilian skins and flanks that are re-exported to the Community;
+
+(f) live vertebrates of species listed in Annex A to Regulation (EC) No 338/97 that belong to a travelling exhibition;
+
+(g) any container of caviar of Acipenseriformes spp., including tins, jars or boxes into which such caviar is directly packed.
+
+2\. For the purposes of Article 8(5) of Regulation (EC) No 338/97, all containers of caviar as specified in point (g) of paragraph 1 of this Article shall be marked in accordance with Article 66(6) of this Regulation, subject to the additional requirements set out in Article 66(7) thereof.
+
+### Article 65
+
+Marking of specimens for the purpose of export and re-export
+
+1\. Re-export certificates for specimens referred to in Article 64(1)(a) to (d) and (f) that were not substantially modified shall be issued only if the applicant has satisfied the management authority that the original marks are intact.
+
+2\. Re-export certificates for entire raw, tanned, and/or finished crocodilian skins and flanks shall be issued only if the applicant has satisfied the management authority that the original tags are intact or, where the original tags have been lost or removed, the specimens have been marked with a re-export tag.
+
+3\. Export permits and re-export certificates for any container of caviar as specified in point (g) of Article 64(1) shall be issued only if the container is marked in accordance with Article 66(6).
+
+4\. Export permits shall be issued with regard to live vertebrates of species listed in Annex A to Regulation (EC) No 338/97 only if the applicant has satisfied the competent management authority that the relevant requirements laid down in Article 66 of this Regulation have been met. This does not apply to specimens of species listed in Annex X to this Regulation, unless:
+
+a) an annotation in Annex X prescribes marking;
+
+b) the specimens were bred at a breeding operation included in the Register.
+
+### Article 66
+
+Marking methods
+
+1\. For the purposes of Article 33(1), Article 40(1), Article 54a, Article 59(5) and Article 65(4), paragraphs 2 and 3 of this Article shall apply.
+
+2\. Captive born and bred birds shall be marked in accordance with paragraph 8, or, where the competent management authority is satisfied that this method is not appropriate because of the physical or behavioural properties of the animal, by means of a uniquely numbered, unalterable microchip transponder conforming to ISO Standards 11784: 1996 (E) and 11785: 1996 (E).
+
+3\. Live vertebrates other than captive born and bred birds shall be marked by means of a uniquely numbered unalterable microchip transponder conforming to ISO Standards 11784: 1996 (E) and 11785: 1996 (E), or, where the competent management authority is satisfied that this method is not appropriate because of the physical or behavioural properties of the specimen/species, the specimens concerned shall be marked by means of uniquely numbered rings, bands, tags, tattoos or similar means, or be made identifiable by any other appropriate means.
+
+4\. Articles 33(1), 40(1), 48(2), 59(5) and 65(4) shall not apply where the competent management authority is satisfied that, at the time of issue of the relevant certificate, the physical properties of the specimens involved do not allow the safe application of any marking method.
+
+Where that is the case, the management authority concerned shall issue a transaction‐specific certificate and shall record that fact in box 20 of the certificate, or, where a marking method can be safely applied at a later date, shall include the appropriate stipulations therein.
+
+Specimen-specific certificates, travelling exhibition certificates and personal ownership certificates shall not be issued in respect of live specimens covered by this paragraph.
+
+5\. Specimens marked by means of a microchip transponder other than one conforming to ISO Standards 11784: 1996 (E) and 11785: 1996 (E) before 1 January 2002, or by means of one of the methods referred to in paragraph 3 before 1 June 1997, or in compliance with paragraph 6 before their introduction into the Community, shall be deemed to have been marked in compliance with paragraphs 2 and 3.
+
+6\. The specimens referred to in Articles 64 and 65 shall be marked in accordance with the method approved or recommended by the Conference of the Parties to the Convention for the specimens concerned and, in particular, the containers of caviar referred to in Articles 57(5)(a), 64(1)(g), 64(2) and 65(3) shall be individually marked by means of non-reusable labels affixed to each primary container. Where the non-reusable label does not seal the primary container, the caviar shall be packaged in such a manner as to permit visual evidence of any opening of the container.
+
+Caviar from different Acipenseriformes species shall not be mixed into a primary container, except in the case of pressed caviar (i.e. caviar composed of unfertilized eggs (roe) of one or more sturgeon or paddlefish species, remaining after the processing and preparation of higher quality caviar).
+
+7\. Only those processing plants and (re-)packaging plants that are licensed by the management authority of a Member State shall be entitled to process and package or re-package caviar for export, re-export or intra-Community trade.
+
+Licensed processing and (re-)packaging plants shall be required to maintain adequate records of the quantities of caviar imported, exported, re-exported, produced in situ or stored, as appropriate. These records must be available for inspection by the management authority in the relevant Member State.
+
+A unique registration code shall be attributed to each such processing or (re-)packaging plant by that management authority.
+
+The list of facilities licensed in accordance with this paragraph, as well as any changes thereto, shall be notified to the Secretariat of the Convention and to the Commission.
+
+For the purpose of this paragraph processing plants shall include caviar producing aquaculture operations.
+
+8\. Captive born and bred birds, as well as other birds born in a controlled environment shall be marked by means of a uniquely marked seamlessly closed leg-ring.
+
+A seamlessly closed leg-ring refers to a ring or band in a continuous circle, without any break or join, which has not been tampered with in any way, of a size which cannot be removed from the bird when its leg is fully grown after having been applied in the first days of the bird's life and which has been commercially manufactured for that purpose.
+
+### Article 67
+
+Humane marking methods
+
+Where, in the territory of the Community, the marking of live animals requires the attachment of a tag, band, ring or other device, or the marking of a part of the animal's anatomy, or the implantation of microchip transponders, this shall be undertaken with due regard to humane care, well-being and natural behaviour of the specimen concerned.
+
+### Article 68
+
+Mutual recognition of marking methods
+
+1\. The competent authorities of the Member States shall recognise marking methods approved by the competent authorities of other Member States that comply with Article 66.
+
+2\. Where a permit or certificate is required pursuant to this Regulation, full details of the marking of the specimen shall be provided on such a document.
+
+## CHAPTER XVII — REPORTS AND INFORMATION
+
+### Article 69 — Reports on imports, exports and re-exports and on implementation
+
+1\. Member States shall collect data on imports into and exports and re-exports from the Union that have taken place on the basis of permits and certificates issued by their management authorities, irrespective of the actual place of introduction or (re-) export.
+
+Member States shall, in accordance with Article 15(4), point (a), of Regulation (EC) No 338/97, report that information to the Commission, for a calendar year, in accordance with the time schedule set out in paragraph 6 of this Article, for species listed in Annexes A, B and C to Regulation (EC) No 338/97, in computerised form and in accordance with the Guidelines for the preparation and submission of CITES annual reports issued by the Secretariat of the Convention.
+
+2\. The information referred to in paragraph 1 shall be presented in two separate parts, as follows:
+
+(a) one part on imports, exports and re-exports of specimens of species listed in the Appendices to the Convention;
+
+(b) one part on imports, exports and re-exports of specimens of other species listed in Annexes A, B and C to Regulation (EC) No 338/97 and on the introduction into the Union of specimens of species listed in Annex D to that Regulation.
+
+3\. With regard to imports of shipments containing live animals, Member States shall, where possible, maintain records of the percentage of specimens of species listed in Annexes A and B to Regulation (EC) No 338/97 that were dead at the time of introduction into the Union.
+
+4\. The information referred to in Article 15(4), point (c), of Regulation (EC) No 338/97 shall include details on the legislative, regulatory and administrative measures taken to implement and enforce the provisions of Regulation (EC) No 338/97 and this Regulation.
+
+Member States shall also report on the following:
+
+(a) persons and bodies registered in accordance with Articles 18 and 19 of this Regulation;
+
+(b) scientific institutions registered in accordance with Article 60 of this Regulation;
+
+(c) breeders approved in accordance with Article 63 of this Regulation;
+
+(d) caviar (re-)packaging plants licensed in accordance with Article 66(7) of this Regulation;
+
+(e) their use of phytosanitary certificates in accordance with Article 17 of this Regulation;
+
+(f) cases where export permits and re-export certificates were issued retrospectively in accordance with Article 15 of this Regulation.
+
+5\. The information referred to in paragraph 4, first sentence, shall be submitted in computerised form and in accordance with the ‘Implementation Report Format’ issued by the Secretariat of the Convention and amended by the Commission, and shall correspond to the three-year period ending on 31 December of the previous year.
+
+The information referred to in paragraph 4, second subparagraph, if not included in the communication pursuant to Article 15(4), point (a) of Regulation (EC) No 338/97 or in the notification pursuant to Article 66(7) of this Regulation, shall be submitted in computerised form together with the communication pursuant to Article 15(4), point (c) of Regulation (EC) No 338/97.
+
+6\. The information referred to in paragraphs 1, 2 and 3 shall be communicated to the Commission for each calendar year before 15 June of the following year on a species-by-species basis and per country of (re-)export.
+
+The information referred to in paragraph 4, first sentence, shall be communicated to the Commission by 15 June of the year before the year of each meeting of the Conference of the Parties to the Convention.
+
+### Article 70
+
+Amendments to the Annexes to Regulation (EC) No 338/97
+
+1\. With a view to the preparation of amendments to Regulation (EC) No 338/97 pursuant to Article 15(5) of that Regulation, Member States shall, with regard to species already listed in the Annexes to that Regulation and those that may be eligible for listing, forward all relevant information to the Commission relating to the following aspects:
+
+(a) their biological and trade status;
+
+(b) the uses to which specimens of such species are put;
+
+(c) methods of controlling specimens in trade.
+
+2\. Any draft amendments to Annexes B or D to Regulation (EC) No 338/97 pursuant to Article 3(2)(c) or (d), or Article 3(4)(a) of that Regulation shall be submitted by the Commission to the Scientific Review Group, referred to in Article 17 of that Regulation, for advice before they are submitted to the Committee.
+
+## CHAPTER XVIII — FINAL PROVISIONS
+
+### Article 71 — Rejection of applications for import permits following the establishment of restrictions
+
+1\. Immediately on the establishment of a restriction in accordance with Article 4(6) of Regulation (EC) No 338/97 and until such time as it is lifted, Member States shall reject applications for import permits concerning specimens exported from the affected country or countries of origin.
+
+2\. By way of derogation from paragraph 1, an import permit may be issued where an application for an import permit was submitted prior to the establishment of the restriction, and the competent management authority of the Member State is satisfied that a contract or order exists for which payment has been made or as a result of which the specimens have already been shipped.
+
+3\. The period of validity of an import permit issued under paragraph 2 shall not exceed one month.
+
+4\. Save where otherwise provided, the restrictions referred to in paragraph 1 shall not apply to the following specimens:
+
+(a) specimens born and bred in captivity in accordance with Articles 54 and 55, or artificially propagated in accordance with Article 56;
+
+(b) specimens being imported for the purposes specified in Article 8(3)(e), (f) or (g) of Regulation (EC) No 338/97;
+
+(c) specimens, alive or dead, that are part of the household possessions of persons moving into the Community to take up residence there.
+
+### Article 72
+
+Transitional measures
+
+1\. Certificates issued in accordance with Article 11 of Regulation (EEC) No 3626/82 and Article 22 of Commission Regulation (EEC) No 3418/83 ( 2 ) may continue to be used for the purposes of Articles 5(2)(b), 5(3)(b), (c) and (d), Article 5(4), and Article 8(3)(a) and (d) to (h) of Regulation (EC) No 338/97.
+
+2\. Exemptions granted from the prohibitions laid down in Article 6(1) of Regulation (EEC) No 3626/82 shall remain valid until their last day of validity, where specified.
+
+3\. Member States may continue to issue import and export permits, re-export certificates, travelling exhibition and personal ownership certificates in the forms laid out in Annexes I, III and IV, import notifications in the form laid out in Annex II and EU certificates in the form laid out in Annex V to Implementing Regulation (EU) No 792/2012 for one year after the entry into force of Commission Implementing Regulation (EU) 2015/57 ( 3 ).
+
+### Article 73
+
+Notification of implementing provisions
+
+Each Member State shall notify to the Commission and the Secretariat to the Convention the provisions which it adopts specifically for the application of this Regulation and all legal instruments used and measures taken for the application and enforcement thereof. The Commission shall communicate this information to the other Member States.
+
+### Article 74
+
+Repeal
+
+Regulation (EC) No 1808/2001 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex XII.
+
+### Article 75
+
+Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX VII
+
+Codes to be included in the description of specimens and units of measure to be used in permits and certificates pursuant to Article 5(1) and (2)
+
+| Description | Trade term code | Preferred unit | Alternative unit | Explanation |
+| --- | --- | --- | --- | --- |
+| baleen | BAL | kg | no. | elastic sheets of keratin that hang from the upper jaw of baleen whales (Mysticeti) and allow them to feed |
+| bark | BAR | kg |  | tree bark (raw, dried or powdered; unprocessed) |
+| body | BOD | no. | kg | substantially whole dead animals, including whole fish, stuffed turtles, preserved butterflies, reptiles in alcohol, whole stuffed hunting trophies, etc. If referring to specimens of sharks and rays (Elasmobranchii spp.), the preferred unit is kg. |
+| bone | BON | kg | no. | bones, including jaws |
+| calipee | CAL | kg |  | calipee or calipash (turtle cartilage for soup) |
+| carapace | CAP | no. | kg | raw or unworked whole shells of Testudines species. |
+| carving | CAR | kg | no. | carved products other than ivory, bone or horn – for example coral and wood (including handicrafts). N.B: Ivory carvings should be specified as such (see below – ‘IVC’). Also, for species from which more than one type of product may be carved (e.g. horn and bone), the trade term code should indicate the type of product in trade (e.g. bone carving ‘BOC’ or horn carving – ‘HOC’), where possible. |
+| carving - bone | BOC | kg | no. | bone carving |
+| carving - horn | HOC | kg | no. | horn carving |
+| carving – ivory (worked ivory) | IVC | kg | no. | ivory carvings, including e.g. smaller worked pieces of ivory (knife handles, chess sets, mahjong sets etc). N.B. Whole carved tusk should be reported as carving – ivory (IVC) not as tusks (see ‘TUS’ below). Jewellery made from carved ivory should be reported as ‘jewellery – ivory’ (see IJW below). |
+| caviar | CAV | kg |  | unfertilized dead processed eggs from all species of Acipenseriformes; also known as roe. |
+| chips (woodchips) | CHP | kg |  | chips of timber, especially Aquilaria spp., Gyrinops spp. and Pterocarpus santalinus |
+| claw | CLA | no. | kg | claws – e.g. of Felidae, Ursidae or Crocodylia (NB: 'turtle claws' are usually scales and not real claws) |
+| cloth | CLO | m2 | kg | cloth – if the cloth is not made entirely from the hair of a CITES species, the weight of hair of the species concerned should instead, if possible, be recorded under ‘HAI’ |
+| coral (raw) | COR | no. | kg | raw or unworked coral and coral rock (also live rock and substrate) [as defined in Resolution Conf. 11.10 (Rev. CoP15)]. Coral rock should be recorded as ‘Scleractinia spp.’ NB: the trade should be recorded by number of pieces only if the coral specimens are transported in water. Live rock (transported moist in boxes) should be reported in kg; coral substrate should be reported as number of pieces (since these are transported in water as the substrate to which non-CITES corals are attached). |
+| cosmetics | COS | g | ml | Any product or mixture of products which is applied to an external part of the body only (e.g. skin, hair, nails, genitals, lips or teeth or the mucous membranes of the oral cavity) with the intent to clean, odorise, change the appearance or protect. Cosmetics may include the following: make-up, perfume, skin cream, nail polish, hair colourants, soap, shampoo, shaving cream, deodorant, sunscreens, toothpaste. Cosmetics which include extracts of CITES-listed species. The quantity should reflect the amount of CITES-listed species present. |
+| culture | CUL | no. of flasks, etc. |  | cultures of artificially propagated plants |
+| derivatives | DER | kg/l |  | derivatives (other than those included elsewhere in this table) |
+| dried plant | DPL | no. |  | dried plants – e.g. herbarium specimens |
+| ear | EAR | no. |  | ears – usually elephant |
+| egg | EGG | no. | kg | whole dead or blown eggs (see also 'caviar') |
+| egg (live) | EGL | no. | kg | live fertilized eggs – usually birds and reptiles but includes fish and invertebrates |
+| eggshell | ESH | g/kg |  | raw or unworked eggshell except whole eggs |
+| extract | EXT | kg | l | extract – usually plant extracts |
+| feather | FEA | kg/ no. of wings | no. | feathers – in the case of objects (e.g. pictures) made of feathers, record the number of objects |
+| fibre | FIB | kg | m | natural fibre: generic term for several types of material of natural (i.e. plant or animal) origin. Animal fibre can usually be spun and woven and is usually very fine and has good flexibility. – e.g. fibre coming from the shearing of live vicunas. It also includes fibres from animal intestines used to make strings for tennis rackets |
+| fin (dried) | DFN | kg |  | dried fins and parts of fins (including flippers) |
+| fin (wet) | FFN | kg |  | fresh, chilled of frozen fins and parts of fins (including flippers) |
+| fingerlings | FIG | kg | no. | live juvenile fish for the aquarium trade, aquaculture, hatcheries, consumption or for release, including live European eels (Anguilla anguilla) up to 12cm in length |
+| flower | FLO | kg |  | flowers |
+| flower pot | FPT | no. |  | flower pots made from parts of a plant – e.g. treefern fibres (NB: live plants traded in so- called 'community pots' should be recorded as 'live plants', not as flower pots) |
+| frog legs | LEG | kg |  | frog legs |
+| fruit | FRU | kg |  | fruit |
+| foot | FOO | no. |  | feet – e.g. of elephant, rhinoceros, hippopotamus, lion, crocodile, etc. |
+| fur products (large) | FPL | no. |  | large manufactured products of fur – e.g. bear or lynx fur blankets or other fur products of a substantial size. |
+| fur product (small) | FPS | no. |  | small manufactured products of fur– including handbags, key fobs, purses, pillows, trim, etc. |
+| gall | GAL | kg |  | gall |
+| gall bladder | GAB | no. | kg | gall bladder |
+| garment | GAR | no. |  | garments – including gloves and hats but not shoes. Includes trimming or decoration on garments |
+| genitalia | GEN | kg | no. | castrates and dried penes |
+| gill plates | GIL | kg | no. | gill plates (e.g. for sharks) |
+| graft rootstock | GRS | no. |  | graft rootstocks (without the grafts) |
+| hair | HAI | kg | g | includes all unprocessed animal hair, e.g. of elephant, yak, guanaco, wolf, bear, panther, etc. |
+| hair products | HAP | no. | g | products made of hair (e.g. elephant hair bracelets) |
+| horn | HOR | no. | kg | horns – includes antlers |
+| jewellery | JWL | no. | g | jewellery – including bracelets, necklaces, and other items of jewellery from products other than ivory (e.g. wood, coral, etc.) |
+| jewellery – ivory (worked ivory) | IJW | no. | g | jewellery made of ivory – includes ekipas |
+| kernel | KNL | kg |  | also known as 'endosperm', 'pulp' or 'copra' |
+| leather product (large) | LPL | no. |  | large manufactured products of leather – e.g. briefcases, furniture, suitcases, travel trunks |
+| leather product (small) | LPS | no. |  | small manufactured products of leather – e.g. belts, braces, bicycle saddles, cheque book or credit card holders, handbags, key fobs, notebooks, purses, shoes, tobacco pouches, wallets, watch-straps and trim |
+| live | LIV | no. | kg | live animals and plants, excluding live fingerling fish – see FIG |
+| leaf | LVS | kg | no. | leaves |
+| logs | LOG | m3 |  | all wood in the rough, whether or not stripped of bark or sapwood, or roughly squared, for processing notably into sawn wood, pulpwood or veneer sheets. NB: trade in logs of special purpose timbers traded by weight (e.g. lignum vitae, Guaiacum spp.) should be recorded in kg |
+| meat | MEA | kg |  | meat, including flesh of fish if not whole (see ‘body’), fresh or unprocessed meat as well as processed meat (e.g. smoked, raw, dried, frozen or tinned) The code for meat (MEA) should be used in preference for trade in eels for human consumption. |
+| medicine | MED | kg/l |  | medicine |
+| musk | MUS | g |  | musk |
+| oil | OIL | kg | l | oil – e.g. from turtles, seals, whales, fish, various plants |
+| pearl | PRL | no. |  | pearl (e.g. for Strombus gigas) |
+| piano keys (worked ivory) | KEY | no. |  | ivory piano keys (e.g. one standard piano would be 52 ivory piano keys) |
+| piece – bone | BOP | kg |  | pieces of bone, not manufactured |
+| piece – horn | HOP | kg |  | pieces of horn, not manufactured – includes scrap |
+| piece – ivory (raw ivory) | IVP | kg |  | ivory pieces, not manufactured – includes scrap |
+| plate | PLA | m2 |  | plates of multiple skins – includes rugs if made of several skins |
+| plywood | PLY | m2 | m3 | material consisting of three or more sheets of wood glued and pressed one on the other and generally disposed so that the grains of successive layers are at an angle |
+| powder | POW | kg |  | a dry, solid substance in the form of fine or coarse particles |
+| pupae | PUP | no. |  | butterfly pupae |
+| root | ROO | no. | kg | roots, bulbs, corms or tubers NB: For the agarwood-producing taxa Aquilaria spp. and Gyrinops spp., the preferred unit is 'kilograms'. The alternative unit is 'number'. |
+| rug | RUG | no. |  | rugs |
+| sawfish rostrum | ROS | no. | kg | sawfish rostrum |
+| sawn wood | SAW | m3 |  | wood simply sawn lengthwise or produced by a profile-chipping process; normally exceeds 6mm in thickness. NB: trade in sawn wood of special purpose timbers traded by weight (e.g. lignum vitae, Guaiacum spp.) should be recorded in kg |
+| scale | SCA | kg |  | scales – e.g. of turtle, other reptiles, fish, pangolin |
+| seed | SEE | kg |  | seeds |
+| shell | SHE | no. | kg | raw or unworked shell of molluscs |
+| side | SID | no. |  | sides or flanks of skins; does not include crocodilian Tinga frames (see under 'skin') |
+| skeleton | SKE | no. |  | substantially whole skeletons |
+| skin | SKI | no. |  | substantially whole skins, raw or tanned, including hides, crocodilian Tinga frames, external body lining, with or without scales |
+| skin piece | SKP | kg | no. | skin pieces – including scraps, raw or tanned |
+| skull | SKU | no. |  | skulls |
+| soup | SOU | kg | l | soup – e.g. of turtle |
+| specimen (scientific) | SPE | kg/l/ml/ no. |  | scientific specimens – includes blood, tissue (e.g. kidney, spleen, etc.), histological preparations, preserved museum specimens, etc. |
+| stem | STE | no. | kg | plant stems NB: For the agarwood-producing taxa Aquilaria spp. and Gyrinops spp., the preferred unit is 'kilograms'. The alternative unit is 'number'. |
+| swim bladder | SWI | kg |  | hydrostatic organ, including isinglass / sturgeon glue |
+| tail | TAI | no. | kg | tails – e.g. of caiman (for leather) or fox (for garment trimming, collars, boas, etc.), also includes flukes of cetaceans. |
+| thread | THD | kg |  | thread – a processed long strand of multiple hairs or fibres of natural (e.g. plant or animal) origin, e.g. vicuna, guanaco |
+| tooth | TEE | no. | kg | teeth – e.g. of whale, lion, hippopotamus, crocodile, etc. |
+| timber | TIM | m3 | kg | raw timber except saw-logs, sawn wood and transformed wood |
+| transformed wood | TRW | m3 | kg | defined by Harmonized System code 44.09: Wood (including strips, friezes for parquet flooring, not assembled), continuously shaped (tongued, grooved, v-jointed, beaded or the like) along any edges, ends or faces, whether or not planed, sanded or end-jointed. |
+| trophy | TRO | no. |  | trophy – all the trophy parts of one animal if they are exported together: e.g. horns (2), skull, cape, backskin, tail and feet (i.e. ten specimens) constitute one trophy. But if, for example, the skull and horns are the only specimens of an animal that are exported, then these items together should be recorded as one trophy. Otherwise the items should be recorded separately. A whole stuffed body is recorded under ‘BOD’. A skin alone is recorded under ‘SKI’. Trade in ‘full mount’, ‘shoulder mount’ and ‘half mount’, along with any corresponding parts of the same animal exported together on the same permit, should be reported as ‘1 TRO’ |
+| trunk | TRU | no. | kg | elephant trunk. N.B.: An elephant trunk exported with other trophy items from the same animal on the same permit as part of a hunting trophy should be reported as ‘TRO’. |
+| tusk (raw ivory) | TUS | no. | kg | substantially whole tusks, not worked. Includes tusks of elephant, hippopotamus, walrus, narwhal, but not other teeth - N.B. Whole carved tusks should be reported as carving – ivory (see ‘IVC’ above). |
+| veneer sheets — rotary veneer — sliced veneer | VEN VEN | m3 m2 | kg kg | thin layers or sheets of wood of uniform thickness, usually 6mm or less in thickness, usually peeled (rotary veneer) or sliced (sliced veneer), for use in making plywood, for veneering furniture, veneer containers, etc. |
+| wax | WAX | kg |  | wax |
+| wood product | WPR | no. | kg | manufactured wood products, including finished wood products such as furniture and musical instruments. |
+
+**Key to units of measure**
+
+<table>
+<tbody><tr><td>Unit of measure</td><td>Unit code</td></tr>
+<tr><td>grams</td><td>g</td></tr>
+<tr><td>kilograms</td><td>kg</td></tr>
+<tr><td>liters</td><td>l</td></tr>
+<tr><td>cubic centimeters</td><td>cm3</td></tr>
+<tr><td>milliliters</td><td>ml</td></tr>
+<tr><td>meters</td><td>m</td></tr>
+<tr><td>square meters</td><td>m2</td></tr>
+<tr><td>cubic meters</td><td>m3</td></tr>
+<tr><td>number of specimens</td><td>no.</td></tr>
+<tr><td colspan="2">NB.: If no unit of measure is specified, the unit will be assumed to be number (e.g. of live animals).</td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII
+
+**Standard references for nomenclature to be used pursuant to Article 5(4) to indicate scientific names of species in permits and certificates**
+
+**FAUNA**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>Taxon concerned</td><td>Taxonomic reference</td></tr>
+<tr><td colspan="4">MAMMALIA</td></tr>
+<tr><td>  </td><td>  </td><td>All MAMMALIA taxa — with the exception of the recognition of the following names for wild forms of species (in preference to names for domestic forms): Bos gaurus, Bos mutus, Bubalus arnee, Equus africanus, Equus przewalskii, and  — with the exception of the taxa noted under the different Mammalia orders below </td><td>Wilson, D. E. & Reeder, D. M. (ed.) (2005). Mammal Species of the World. A Taxonomic and Geographic Reference. Third edition, Vol. 1-2, xxxv + 2142 pp. Baltimore (John Hopkins University Press).</td></tr>
+<tr><td>ARTIODACTYLA</td><td>Bovidae</td><td>Ovis spp.</td><td>Valdez, R. & Weinberg, P.J. (2011). Species accounts 188-207 for Ovis spp., pp. 727-739 in Wilson, D.E., & Mittermeier, R.A. (eds.), Handbook of the Mammals of the World. Vol.2. Hoofed Mammals. Lynx Edicions, Barcelona. ISBN 978-84-96553-77-4.</td></tr>
+<tr><td>  </td><td>Camelidae</td><td>Lama guanicoe</td><td>Wilson, D. E. & Reeder, D. M. (1993): Mammal Species of the World: a Taxonomic and Geographic Reference. Second edition. xviii + 1207 pp., Washington (Smithsonian Institution Press).</td></tr>
+<tr><td>CARNIVORA</td><td>Felidae</td><td>Felidae spp.,</td><td>Kitchener A. C., Breitenmoser-Würsten CH., Eizirik E., Gentry A., Werdelin L., Wilting A., Yamaguchi N., Abramov A. V., Christiansen P., Driscoll C., Duckworth J. W., Johnson W., Luo S.-J., Meijaard E., O’Donoghue P., Sanderson J., Seymour K., Bruford M., Groves C., Hoffmann M., Nowell K., Timmons Z. & Tobe S. (2017). A revised taxonomy of the Felidae. The final report of the Cat Classification Task Force of the IUCN/SSC Cat Specialist Group. Cat News Special Issue 11, 80 pp.</td></tr>
+<tr><td>  </td><td>Mustelidae: Lutrinae</td><td>Aonyx cinereus</td><td>Larivière, S., & Jennings, A.P. 2009. Species account 37 for Asian Small-clawed Otter Aonyx cinereus, p. 647 in Wilson, D.E., & Mittermeier, R.A. (eds.), Handbook of the Mammals of the World. Vol.1. Carnivores. Lynx Edicions, Barcelona. ISBN 978-84-96553-49-1.</td></tr>
+<tr><td>CETACEA</td><td>Balaenopteridae</td><td>Balaenoptera omurai</td><td>Wada, S., Oishi, M. & Yamada, T. K. (2003). A newly discovered species of living baleen whales. – Nature, 426: 278-281.</td></tr>
+<tr><td>  </td><td>Delphinidae</td><td>Orcaella heinsohni</td><td>Beasly, I., Robertson, K. M. & Arnold, P. W. (2005). Description of a new dolphin, the Australian Snubfin Dolphin, Orcaella heinsohni sp. n. (Cetacea, Delphinidae). -- Marine Mammal Science, 21 (3): 365-400.</td></tr>
+<tr><td>  </td><td>Delphinidae</td><td>Sotalia fluviatilis Sotalia guianensis </td><td>Caballero, S., Trujillo, F., Vianna, J. A., Barrios-Garrido, H., Montiel, M. G., Beltrán-Pedreros, S., Marmontel, M., Santos, M. C., Rossi-Santos, M. R. & Baker, C. S. (2007). Taxonomic status of the genus Sotalia: species level ranking for "tucuxi" (Sotalia fluviatilis) and "costero" (Sotalia guianensis) dolphins. - Marine Mammal Science, 23: 358-386.</td></tr>
+<tr><td>  </td><td>Delphinidae</td><td>Sousa plumbea Sousa sahulensis </td><td>Jefferson, T. A.& Rosenbaum, H. C. (2014). Taxonomic revision of the humpback dolphins (Sousa spp.), and description of a new species from Australia. Marine Mammal Science, 30 (4): 1494-1541.</td></tr>
+<tr><td>  </td><td>Delphinidae</td><td>Tursiops australis</td><td>Charlton-Robb, K., Gershwin, L.-A., Thompson, R., Austin, J., Owen, K. & McKechnie, S. (2011). A new dolphin species, the Burrunan Dolphin Tursiops australis sp. nov., endemic to southern Australian coastal waters. PLoS ONE, 6 (9): e24047.</td></tr>
+<tr><td>  </td><td>Iniidae</td><td>Inia araguaiaensis</td><td>Hrbek, T., da Silva, V. M. F., Dutra, N., Gravena, W., Martin, A. R. & Farias, I. P. (2014): A new species of river dolphin from Brazil or: How little do we know our biodiversity. PLoS ONE83623: 1-12.</td></tr>
+<tr><td>  </td><td>Phocoenidae</td><td>Neophocaena asiaeorientalis</td><td>Jefferson, T. A. & Wang, J. Y. (2011). Revision of the taxonomy of finless porpoises (genus Neophocaena): The existence of two species. Journal of Marine Animals and their Ecology, 4 (1): 3-16.</td></tr>
+<tr><td>  </td><td>Physeteridae</td><td>Physeter macrocephalus</td><td>Rice, D. W. (1998). Marine Mammals of the World: Systematics and Distribution - Society of Marine Mammalogy Special Publication Number 4, The Society for Marine Mammalogy, Lawrence, Kansas.</td></tr>
+<tr><td>  </td><td>Platanistidae</td><td>Platanista gangetica</td><td>Rice, D. W. (1998). Marine Mammals of the World: Systematics and Distribution - Society of Marine Mammalogy Special Publication Number 4, The Society for Marine Mammalogy, Lawrence, Kansas.</td></tr>
+<tr><td>  </td><td>Ziphiidae</td><td>Mesoplodon hotaula</td><td>Dalebout, M. L., Scott Baker, C., Steel, D., Thompson, K., Robertson, K. M., Chivers, S. J., Perrin, W. F., Goonatilake, M., Anderson, C. R., Mead, J. G., Potter, C. W., Thompson, L., Jupiter, D. & Yamada, T. K. (2014). Resurrection of Mesoplodon hotaula Deraniyagala 1963: A new species of beaked whale in the tropical Indo-Pacific. Marine Mammal Science, 30 (3): 1081-1108.</td></tr>
+<tr><td>PRIMATES</td><td>Aotidae</td><td>Aotus jorgehernandezi</td><td>Defler, T. R. & Bueno, M. L. (2007). Aotus diversity and the species problem. – Primate Conservation, 22: 55-70.</td></tr>
+<tr><td>  </td><td>Aotidae</td><td>Aotus lemurinus (incl. A. hershkovitzi)</td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Atelidae</td><td>Alouatta palliata (incl. A. coibensis)</td><td>Ruiz-García, M., Cerrón, Á., Sánchez-Castillo, S., Rueda-Zozaya, P., Pinedo-Castro, M., Gutierrez-Espeleta, G. & Shostell, J.M. (2017): Phylogeography of the Mantled Howler Monkey (Alouatta palliata; Atelidae, Primates) across its geographical range by means of mitochondrial genetic analyses and new insights about the phylogeny of Alouatta. Folia Primatologica 88: 421-454</td></tr>
+<tr><td>  </td><td>Atelidae</td><td>Ateles geoffroyi</td><td>Rylands, A. B., Groves, C. P., Mittermeier, R. A., Cortes-Ortiz, L. & Hines, J. J. (2006). Taxonomy and distributions of Mesoamerican primates. In: A. Estrada, P. Garber, M. Pavelka and L. Luecke (eds), New Perspectives in the Study of Mesoamerican Primates: Distribution, Ecology, Behavior and Conservation, pp. 29–79. Springer, New York, USA.</td></tr>
+<tr><td>  </td><td>Cebidae</td><td>Callithrix manicorensis</td><td>Garbino, T. & Siniciato, G. (2014). The taxonomic status of Mico marcai (Alperin 1993) and Mico manicorensis (van Roosmalen et al. 2000) (Cebidae, Callitrichinae) from Southwestern Brazilian Amazonia. International Journal of Primatology, 35 (2): 529-546. (for Mico marcai lumped with Mico manicorensis treated as Callithrix manicorensis under CITES]</td></tr>
+<tr><td>  </td><td>Cebidae</td><td>Cebus flavius</td><td>Oliveira, M. M. de & Langguth, A. (2006). Rediscovery of Marcgrave’s Capuchin Monkey and designation of a neotype for Simia flava Schreber, 1774 (Primates, Cebidae). – Boletim do Museu Nacional do Rio de Janeiro, N.S., Zoologia, 523: 1-16.</td></tr>
+<tr><td>  </td><td>Cebidae</td><td>Mico rondoni</td><td>Ferrari, S. F., Sena, L., Schneider, M. P. C. & Júnior, J. S. S. (2010). Rondon’s Marmoset, Mico rondoni sp. n., from southwestern Brazilian Amazonia. International Journal of Primatology, 31: 693-714.</td></tr>
+<tr><td>  </td><td>Cebidae</td><td>Saguinus ursulus</td><td>Gregorin, R. & de Vivo, M. (2013). Revalidation of Saguinus ursula Hoffmannsegg (Primates: Cebidae: Callitrichinae). Zootaxa, 3721 (2): 172-182.</td></tr>
+<tr><td>  </td><td>Cebidae</td><td>Saimiri collinsi</td><td>Merces, M. P., Alfaro, J. W. L., Ferreira, W. A. S., Harada, M. L. & Júnior, J. S. S. (2015). Morphology and mitochondrial phylogenetics reveal that the Amazon River separates two eastern squirrel monkey species: Saimiri sciureus and S. collinsi. Molecular Phylogenetics and Evolution, 82: 426-435.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Allochrocebus lhoesti Allochrocebus preussi  Allochrocebus solatus </td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Cercopithecus lomamiensis</td><td>Hart, J.A., Detwiler, K.M., Gilbert, C.C., Burrell, A.S., Fuller, J.L., Emetshu, M., Hart, T.B., Vosper, A., Sargis, E.J. & Tosi, A.J. (2012). Lesula: A new species of Cercopithecus monkey endemic to the Democratic Republic of Congo and implications for conservation of Congo’s Central Basin. PLoS ONE, 7 (9): e44271.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Macaca leucogenys</td><td>Li, C., Zhao, C., & Fan, P.F. (2015). White-cheeked macaque (Macaca leucogenys): A new macaque species from Modog, southeastern Tibet. American Journal of Primatology, 77:753-766.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Macaca munzala</td><td>Sinha, A., Datta, A., Madhusudan, M. D. & Mishra, C. (2005). Macaca munzala: A new species from western Arunachal Pradesh, northeastern India. International Journal of Primatology, 26 (4): 977-989: doi:10.1007/s10764-005-5333-3.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Piliocolobus bouvieri Piliocolobus epieni  Piliocolobus temminckii  Piliocolobus waldronae </td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Rhinopithecus strykeri</td><td>Geismann, T., Lwin, N., Aung, S. S., Aung, T. N., Aung, Z. M., Hla, T. H., Grindley, M. & Momberg, F. (2011). A new species of snub-nosed monkey, genus Rhinopithecus Milne-Edwards, 1872 (Primates, Colobinae), from Northern Kachin State, Northeastern Myanmar. – American Journal of Primatology, 73: 96-107.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Rungwecebus kipunji</td><td>Davenport, T. R. B., Stanley, W. T., Sargis, E. J., de Luca, D. W., Mpunga, N. E., Machaga, S. J. & Olson, L. E. (2006). A new genus of African monkey, Rungwecebus: Morphology, ecology, and molecular phylogenetics. Science, 312: 1378-1381.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Trachypithecus villosus</td><td>Brandon- Jones, D., Eudey, A. A., Geissmann, T., Groves, C. P., Melnick, D. J., Morales J. C., Shekelle, M. & Steward, C.-B. (2004). Asian primate classification. International Journal of Primatology, 25: 97-163.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Cheirogaleus andysabini</td><td>Lei, R., McLain, A.T., Frasier, C.L., Taylor, J.M., Bailey, C.A., Enberg, S.E., Ginter, A.L., Nash, S.D., Randriamampionona, R., Groves, C.P., Mittermeier, R.A., & Louis, Jr., E.E. (2015): A new species in the genus Cheirogaleus (Cheirogaleidae). Primate Conservation 29 (2): 1–12</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Cheirogaleus lavasoensis</td><td>Thiele, D., Razafimahatratra, E. & Hapke, A. (2013). Discrepant partitioning of genetic diversity in mouse lemurs and dwarf lemurs – biological reality or taxonomic bias? Molecular Phylogenetics and Evolution, 69: 593-609.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Cheirogaleus chethi</td><td>Frasier, C.L., Lei, R., McLain, A.T., Taylor, J.M., Bailey, C.A., Ginter, A.L., Nash, S.D., Randriamampionona, R., Groves, C.P., Mittermeier, R.A. & Louis, Jr., E.E. (2016). A New Species ofDwarf Lemur (Cheirogaleidae: Cheirogaleus medius Group) from the Ankarana and Andrafiamena- Andavakoera Massifs, Madagascar. Primate Conservation (30): 59–72.</td></tr>
+<tr><td>  </td><td>Cheirogaleidae</td><td>Microcebus ganzhorni Microcebus manitatra </td><td>Hotaling, S., Foley, M.E., Lawrence, N.M., Bocanegra, J., Blanco, M.B., Rasoloarison, R. Kappeler, P.M., Barrett, M.A., Yoder, A.D. & Weisrock, D.W. (2016). Species discovery and validation in a cryptic radiation of endangered primates: coalescent-based species delimitation in Madagascar's mouse lemurs". Molecular Ecology. 25 (9): 2029–2045. doi:10.1111/mec.13604</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Microcebus gerpi</td><td>Radespiel, U., Ratsimbazafy, J. H., Rasoloharijaona, S., Raveloson, H., Andriaholinirina, N., Rakotondravony, R., Randrianarison, R. M. & Randrianambinina, B. (2012). First indications of a highland specialist among mouse lemurs (Microcebus spp.) and evidence for a new mouse lemur species from eastern Madagascar. Primates, 53: 157-170.</td></tr>
+<tr><td>  </td><td>Cercopithecidae</td><td>Microcebus marohita Microcebus tanosi </td><td>Rasoloarison, R. M., Weisrock, D. W., Yoder, A. D., Rakotondravony, D. & Kappeler, P. M. [2013]. Two new species of mouse lemurs (Cheirogaleidae: Microcebus) from Eastern Madagascar. - International Journal of Primatology, 34: 455-469.</td></tr>
+<tr><td>  </td><td>Galagidae</td><td>Paragalago cocos Paragalago granti  Paragalago orinus  Paragalago rondoensis  Paragalago zanzibaricus </td><td>Masters, J.C., Génin, F., Couette, S., Groves, C.P., Nash, S.D., Delpero, M. & Pozzi, L. (2017). A new genus for the eastern dwarf galagos (Primates: Galagidae). - Zoological Journal of the Linnean Society 181 (1): 229–241. https://doi.org/10.1093/zoolinnean/zlw028</td></tr>
+<tr><td>  </td><td>Galagidae</td><td>Galagoides kumbirensis</td><td>Svensson, M.S., Bersacola,, E., Mills, M.S.L., Munds, R.A., Nijman, V., Perkin, A., Masters, J.C., Couette, S., Nekaris, K.A. & Bearder, S.K. (2017): A giant among dwarfs: a new species of galago (Primates: S., Galagidae) from Angola. Am. J. Phys. Anthropol. 163 (1): 30-43. doi: 10.1002/ajpa.23175</td></tr>
+<tr><td>  </td><td>Hominidae</td><td>Pongo tapanuliensis</td><td>Nater, A. Greminger, M.P., Nurcahyo, A., Nowak, M.G., De Manuel Montero, M., Desai, T., Groves, C.P., Pybus, M., Sonay, T.B., Roos, C., Lameira, A.R., Wich, S.A., Askew, J., Davila-Ross, M., Fredriksson, G.M., De Valles, G., Casals, F., Prado-Martinez, J., Goossens, B., Verschoor, E.J., Warren, K.S., Singleton, I., Marques, D.A., Pamungkas, J., Perwitasari-Farajallah, D., Rianti, P., Tuuga, A., Gut, I.G., Gut, M., Orozco-Ter Wengel, P., Van Schaik, C.P., Bertranpetit, J., Anisimova, M., Scally, A., Marques-Bonet, T., Meijaard, E & Krutzen, M. (2017): Morphometric, behavioural, and genomic evidence for a new orangutan species. Current Biology 27: DOI: 10.1016/j.cub.2017.09.047</td></tr>
+<tr><td>  </td><td>Hylobatidae</td><td>Hylobates abbotti Hylobates funereus </td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Hylobatidae</td><td>Nomascus annamensis</td><td>Van Ngoc Thinh, Mootnick, A. R., Vu Ngoc Thanh, Nadler, T. & Roos, C. (2010). A new species of crested gibbon from the central Annamite mountain range. Vietnamese Journal of Primatology, 4: 1-12.</td></tr>
+<tr><td>  </td><td>Indriidae</td><td>Propithecus candidus Propithecus coronatus </td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Lemuriidae</td><td>Eulemur flavifrons</td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Lorisidae</td><td>Nycticebus javanicus</td><td>Mittermeier, R.A., Rylands, A.B., & Wilson, D.E. 2013. Handbook of the Mammals of the World: Volume 3. Primates. Lynx Edicions, Barcelona.</td></tr>
+<tr><td>  </td><td>Lorisidae</td><td>Nycticebus kayan</td><td>Munds, R.A., Nekaris, K.A.I. & Ford, S.M. (2013). Taxonomy of the bornean slow loris, with new species Nycticebus kayan (Primates, Lorisidae). American Journal of Primatology, 75: 46-56.</td></tr>
+<tr><td>  </td><td>Pitheciidae</td><td>Cacajao melanocephalus Cacajao oukary </td><td>Ferrari, S. F., Guedes, P. G., Figueiredo-Ready, W. M. B. & Barnett, A. A. (2014). Reconsidering the taxonomy of the Black-faced Uacaris, Cacajao melanocephalus group (Mammalia: Pitheciidae), from the northern Amazon Basin. Zootaxa, 3866 (3): 353-370.</td></tr>
+<tr><td>  </td><td>Pitheciidae</td><td>Cheracebus spp. Plecturocebus spp. </td><td>Byrne, H, Rylands, A.B., Cameiro, J.C., Alfaro, J.W.L., Bertuol, F., Da Silva, M.N.F., Messias, M., Groves, C.P., Mittermeier, R.A., Farias, I., Hrbek, T., Schneider, H., Sampaio, I. & Boubli, J.P. (2016). Phylogenetic relationships of the New World titi monkeys (Callicebus): first appraisal of taxonomy based on molecular evidence. Frontiers in Zoology 13 (10): 1-25. https://doi.org/10.1186/s12983-016-0142-4</td></tr>
+<tr><td>  </td><td>Pitheciidae</td><td>Pithecia cazuzai Pithecia chrysocephala  Pithecia hirsuta  Pithecia inusta  Pithecia isabela  Pithecia milleri  Pithecia mittermeieri  Pithecia napensis  Pithecia pissinattii  Pithecia rylandsi  Pithecia vanzolinii </td><td>Marsh, L.K. (2014). A taxonomic revision of the saki monkeys, Pithecia Desmarest, 1804. Neotropical Primates, 21: 1-163.</td></tr>
+<tr><td>  </td><td>Pitheciidae</td><td>Plecturocebus grovesi</td><td>Boubli, J.P., Byrne, H., Da Silva, M.N.F., Silva-Junior, J., Araujo, R.C., Bertuol, F., Goncalves, J., De Melo, F.R., Rylands, A.B., Mittermeier, R.A., Silva, F.E., Nash, S.D., Canale, G., Alencar, R De M., Rossi, R.V., Carneiro, J., Sampaio, I., Farias, I.P., Schneider, H & Hrbek, T. (2018). On a new species of titi monkey (Primates: Plecturocebus Byrne et al., 2016), from Alta Floresta, southern Amazon, Brazil. Molecular Phylogenetics and Evolution 132: 117-137.</td></tr>
+<tr><td>  </td><td>Tarsiidae</td><td>Tarsius lariang</td><td>Merker, S. & Groves, C.P. (2006). Tarsius lariang: A new primate species from Western Central Sulawesi. International Journal of Primatology, 27 (2): 465-485.</td></tr>
+<tr><td>  </td><td>Tarsiidae</td><td>Tarsius spectrumgurskyae Tarsius supriatnai </td><td>Shekelle, M., Groves, C.P., Maryanto, I. & Mittermeier, R.A. (2017). Two new tarsier species (Tarsiidae, Primates) and the biogeography of Sulawesi, Indonesia. Primate Conservation 31: 61-70.</td></tr>
+<tr><td>  </td><td>Tarsiidae</td><td>Tarsius tumpara</td><td>Shekelle, M., Groves, C., Merker, S. & Supriatna, J. (2010). Tarsius tumpara: A new tarsier species from Siau Island, North Sulawesi. Primate Conservation, 23: 55-64.</td></tr>
+<tr><td>PROBOSCIDEA</td><td>Elephantidae</td><td>Loxodonta africana</td><td>Wilson, D. E. & Reeder, D. M. (1993). Mammal Species of the World: a Taxonomic and Geographic Reference. Second edition. xviii + 1207 pp., Washington (Smithsonian Institution Press).</td></tr>
+<tr><td>SCANDENTIA</td><td>Tupaiidae</td><td>Tupaia everetti</td><td>Roberts, T. E., Lanier, H. C., Sargis, E. J. & Olson, L. E. (2011). Molecular phylogeny of treeshrews (Mammalia: Scandentia) and the timescale of diversification in Southeast Asia. Molecular Phylogenetics and Evolution, 60 (3): 358-372.</td></tr>
+<tr><td>  </td><td>Tupaiidae</td><td>Tupaia palawanensis</td><td>Sargis, E. J., Campbell, K. K. & Olson, L. E. ( 2014). Taxonomic boundaries and craniometric variation in the treeshrews (Scandentia, Tupaiidae) from the Palawan faunal region. Journal of Mammalian Evolution, 21 (1): 111-123.</td></tr>
+<tr><td colspan="4">AVES</td></tr>
+<tr><td>  </td><td>  </td><td>Order- and family-level names for birds</td><td>Morony, J. J., Bock, W. J. & Farrand, J., Jr. (1975). Reference List of the Birds of the World. American Museum of Natural History. 207 pp.</td></tr>
+<tr><td>  </td><td>  </td><td>All bird species – with the exception of the taxa mentioned below</td><td>Dickinson, E.C. (ed.) (2003). The Howard and Moore Complete Checklist of the Birds of the World. Revised and enlarged 3rd Edition. 1039 pp. London (Christopher Helm). in combination with  Dickinson, E.C. (2005). Corrigenda 4 (02.06.2005) to Howard & Moore Edition 3 (2003). </td></tr>
+<tr><td>APODIFORMES</td><td>Trochilidae</td><td>Amazilia hoffmanni Amazilia saucerottei </td><td>Jiménez, R.A. & Ornelas, J.F. (2016). Historical and current introgression in a Mesoamerican hummingbird species complex: a biogeographic perspective. PeerJ. 2016; 4: e1556. doi:10.7717/peerj.1556.</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Anthracothorax nigricollis iridescens Phaethornis longirostris  Phaethornis mexicanus  Selasphorus calliope </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Hylocharis leucotis Hylocharis xantusii  Campylopterus curvipennis  Campylopterus excellens  Phaeochroa cuvierii </td><td>Dickinson, E.C. & Remsen, J.V. (eds.) (2013). The Howard & Moore complete checklist of the birds of the world. 4th edition, Vol. 1: Non-Passerines. Aves Press, Eastbourne, UK. ISBN 978-0-9568611-0- 8.</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Chlorostilbon lucidus</td><td>Pacheco, J. F. & Whitney, B. M. (2006). Mandatory changes to the scientific names of three Neotropical birds Bull. Brit. Orn. Club, 126: 242-244.</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Eriocnemis isabellae</td><td>Cortés-Diago, A., Ortega, L. A., Mazariegos-Hurtado, L. & Weller, A.-A. (2007) A new species of Eriocnemis (Trochilidae) from southwest Colombia. Ornitologia Neotropical,18:161-170.</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Oreotrochilus cyanolaemus</td><td>Sornoza-Molina, F., Freile, J.F., Nilsson, J., Krabbe, N. & Bonaccorso, E. (2018). A striking, critically endangered, new species of hillstar (Trochilidae: Oreotrochilus) from the southwestern Andes of Ecuador. The Auk: Ornithological Advances, 135(4), 1146-1171. https://doi.org/10.1642/AUK-18-58.1</td></tr>
+<tr><td>  </td><td>Trochilidae</td><td>Phaethornis aethopyga</td><td>Piacentini, V. Q., Aleixo, A. & Silveira, L. F. (2009). Hybrid, subspecies or species? The validity and taxonomic status of Phaethornis longuemareus aethopyga Zimmer, 1950 (Trochilidae). Auk,126: 604-612.</td></tr>
+<tr><td>CICONIIFORMES</td><td>Phoenicopteridae</td><td>Phoenicopterus roseus Phoenicopterus ruber </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>FALCONIFORMES</td><td>Accipitridae</td><td>Accipiter hiogaster Accipiter novaehollandiae  Buteo nitidus  Buteo plagiatus  Buteogallus anthracinus  Buteogallus gundlachii  Buteogallus solitarius  Chondrohierax uncinatus  Chondrohierax wilsonii  Circus cyaneus  Circus hudsonius  Leptodon cayanensis  Leptodon forbesi  Pseudastur albicollis  Rupornis magnirostris  Spizaetus melanoleucus </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Accipitridae</td><td>Aquila hastata</td><td>Parry, S. J., Clark, W. S. & Prakash, V. (2002). On the taxonomic status of the Indian Spotted Eagle Aquila hastata. Ibis, 144: 665-675.</td></tr>
+<tr><td>  </td><td>Accipitridae</td><td>Buteo socotraensis</td><td>Porter, R. F. & Kirwan, G. M. (2010). Studies of Socotran birds VI. The taxonomic status of the Socotra Buzzard. Bulletin of the British Ornithologists‘ Club, 130 (2): 116–131.</td></tr>
+<tr><td>  </td><td>Accipitridae</td><td>Geranoaetus albicaudatus</td><td>Dickinson, E.C. & Remsen, J.V. (eds.) (2013). The Howard & Moore complete checklist of the birds of the world. 4th edition, Vol. 1: Non-Passerines. Aves Press, Eastbourne, UK. ISBN 978-0-9568611-0- 8.</td></tr>
+<tr><td>  </td><td>Falconidae</td><td>Falco peregrinus (incl. Falco pelegrinoides)</td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Falconidae</td><td>Micrastur mintoni</td><td>Whittaker, A. (2002). A new species of forest-falcon (Falconidae: Micrastur) from southeastern Amazonia and the Atlantic rainforests of Brazil. Wilson Bulletin, 114: 421-445.</td></tr>
+<tr><td>GRUIFORMES</td><td>Gruidae</td><td>Antigone antigone Antigone canadensis  Antigone rubicunda  Antigone vipio  Leucogeranus leucogeranus </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Rallidae</td><td>Hypotaenidia sylvestris</td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>PASSERIFORMES</td><td>Muscicapidae</td><td>Garrulax taewanus</td><td>Collar, N. J. (2006). A partial revision of the Asian babblers (Timaliidae). Forktail, 22: 85-112.</td></tr>
+<tr><td>  </td><td>Paradisaeidae</td><td>Lophorina niedda Lophorina minor  Lophorina superba </td><td>Scholes, E. & Laman, T.G. (2018). Distinctive courtship phenotype of the Vogelkop Superb Bird-of-Paradise Lophorina niedda Mayr, 1930 confirms new species status. PeerJ 6:e4621 https://doi.org/10.7717/peerj.4621.</td></tr>
+<tr><td>PSITTACIFORMES</td><td>Cacatuidae</td><td>Cacatua goffiniana</td><td>Roselaar, C. S. & Michels, J. P. (2004). Nomenclatural chaos untangled, resulting in the naming of the formally undescribed Cacatua species from the Tanimbar Islands, Indonesia (Psittaciformes: Cacatuidae). Zoologische Verhandelingen, 350: 183-196.</td></tr>
+<tr><td>  </td><td>Cacatuidae</td><td>Zanda baudinii Zanda latirostris </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Loriidae</td><td>Trichoglossus haematodus</td><td>Collar, N. J. (1997). Family Psittacidae (Parrots). In del Hoyo, J., Elliot, A. and Sargatal, J. (eds.), Handbook of the Birds of the World, 4 (Sandgrouse to Cuckoos): 280-477. Barcelona (Lynx Edicions).</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Aratinga maculata</td><td>Nemesio, A. & Rasmussen, C. (2009). The rediscovery of Buffon’s ‘Guarouba’ or ‘Perriche jaune’: two senior synonyms of Aratinga pintoi Silveira, Lima & Höfling, 2005 (Aves: Psittaciformes). Zootaxa, 2013: 1-16.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Eupsittula canicularis Eupsittula nana  Myiopsitta luchsi  Myiopsitta monachus  Psephotellus chrysopterygius  Psephotellus dissimilis  Psephotellus pulcherrimus  Psephotellus varius  Psittacara holochlorus  Pyrilia haematotis </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Forpus modestus</td><td>Pacheco, J. F. & Whitney, B. M. (2006). Mandatory changes to the scientific names of three Neotropical birds. Bulletin of the British Ornithologists’ Club, 126: 242-244.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Pionopsitta aurantiocephala</td><td>Gaban-Lima, R., Raposo, M. A. & Hofling, E. (2002). Description of a new species of Pionopsitta (Aves: Psittacidae) endemic to Brazil. Auk, 119: 815-819.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Poicephalus robustus Poicephalus fuscicollis </td><td>Coetzer, W.G., Downs, C.T., Perrin, M.R. & Willows-Munro, S. (2015). Molecular Systematics of the Cape Parrot (Poicephalus robustus). Implications for Taxonomy and Conservation. PLoS ONE, 10(8): e0133376. doi: 10.1371/journal.pone.0133376.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Psittacara strenuus Pezoporus flaviventris  Pezoporus wallicus </td><td>Dickinson, E.C. & Remsen, J.V. (eds.) (2013). The Howard & Moore complete checklist of the birds of the world. 4th edition, Vol. 1: Non-Passerines. Aves Press, Eastbourne, UK. ISBN 978-0-9568611-0- 8.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Psittacula intermedia</td><td>Collar, N. J. (1997) Family Psittacidae (Parrots). In del Hoyo, J., Elliot, A. and Sargatal, J. (eds.), Handbook of the Birds of the World, 4 (Sandgrouse to Cuckoos): 280-477. Barcelona (Lynx Edicions).</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Pyrrhura griseipectus</td><td>Olmos, F., Silva, W. A. G. & Albano, C. (2005). Grey-breasted Conure Pyrrhura griseipectus, an overlooked endangered species. Cotinga, 24: 77-83.</td></tr>
+<tr><td>  </td><td>Psittacidae</td><td>Pyrrhura parvifrons</td><td>Arndt, T. (2008). Anmerkungen zu einigen Pyrrhura-Formen mit der Beschreibung einer neuen Art und zweier neuer Unterarten. Papageien, 8: 278-286.</td></tr>
+<tr><td>STRIGIFORMES</td><td>Strigidae</td><td>Ciccaba virgata Megascops asio  Megascops barbarus  Megascops guatemalae  Megascops kennicottii  Megascops seductus  Megascops trichopsis  Psiloscops flammeolus </td><td>Del Hoyo, J. & Collar, N.J. (2014). HBW and Birdlife International Illustrated Checklist of the Birds of the World. Volume 1: Non-Passerines. Lynx Edicions, Barcelona. ISBN 978-84-96553-94-1.</td></tr>
+<tr><td>  </td><td>Strigidae</td><td>Glaucidium mooreorum</td><td>da Silva, J. M. C., Coelho, G. & Gonzaga, P. (2002). Discovered on the brink of extinction: a new species of pygmy owl (Strigidae: Glaucidium) from Atlantic forest of northeastern Brazil. Ararajuba, 10(2): 123-130.</td></tr>
+<tr><td>  </td><td>Strigidae</td><td>Megascops gilesi</td><td>Krabbe, N.K. (2017). A new species of Megascops (Strigidae) from the Sierra Nevada de Santa Marta, Colombia, with notes on voices of New World screech-owls. Ornitología Colombiana16: 1–27.</td></tr>
+<tr><td>  </td><td>Strigidae</td><td>Ninox burhani</td><td>Indrawan, M. & Somadikarta, S. (2004). A new hawk-owl from the Togian Islands, Gulf of Tomini, central Sulawesi, Indonesia. Bulletin of the British Ornithologists' Club, 124: 160-171.</td></tr>
+<tr><td>  </td><td>Strigidae</td><td>Otus thilohoffmanni</td><td>Warakagoda, D. H. & Rasmussen, P. C. (2004). A new species of scops-owl from Sri Lanka. Bulletin of the British Ornithologists' Club, 124 (2): 85-105.</td></tr>
+<tr><td>  </td><td>Strigidae</td><td>Strix butleri Strix hadorami </td><td>Kirwan, G.M., Schweizer, M. & Copete, J.L. (2015). Multiple lines of evidence confirm that Hume's Owl Strix butleri (A. O. Hume, 1878) is two species, with description of an unnamed species (Aves: Non- Passeriformes: Strigidae). Zootaxa.3904(1): 28–50.</td></tr>
+<tr><td colspan="4">REPTILIA</td></tr>
+<tr><td>CROCODYLIA & RHYNCHOCEPHALIA </td><td>  </td><td>Crocodylia & Rhynchocephalia except for the taxa listed below</td><td>Wermuth, H. & Mertens, R. (1996) (reprint). Schildkröte, Krokodile, Brückenechsen. xvii + 506 pp. Jena (Gustav Fischer Verlag).</td></tr>
+<tr><td>  </td><td>Crocodylidae</td><td>Crocodylus johnstoni</td><td>Tucker, A. D. (2010). The correct name to be applied to the Australian freshwater crocodile, Crocodylus johnstoni [Krefft, 1873]. Australian Zoologist, 35 (2): 432-434.</td></tr>
+<tr><td>  </td><td>Sphenodontidae</td><td>Sphenodon spp.</td><td>Hay, J. M., Sarre, S. D., Lambert, D. M., Allendorf, F. W. & Daugherty, C. H. (2010). Genetic diversity and taxonomy: a reassessment of species designation in tuatara (Sphenodon: Reptilia). Conservation Genetics, 11 (93): 1063-1081.</td></tr>
+<tr><td>SAURIA</td><td>  </td><td>For delimitation of families within the Sauria</td><td>Pough, F. H., Andrews, R. M., Cadle, J. E., Crump, M. L., Savitzky, A. H. & Wells, K. D. (1998). Herpetology. Upper Saddle River/New Jersey (Prentice Hall).</td></tr>
+<tr><td>  </td><td>Agamidae</td><td>Ceratophora spp. Cophotis spp.  Lyriocephalus spp. </td><td>Uetz, P., Freed, P., Aguilar, R. & Hosek, J. (eds.) (eds.) (2022). Taxonomic Checklist of Reptile taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from The Reptile Database: an online Reference, version of 2 May 2020, accessed 5 May 2020 for species in the Families Agamidae, Gekkonidae and Viperidae https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Reptiles_Added_CoP18lr_CITES. pdf</td></tr>
+<tr><td>  </td><td>Agamidae</td><td>Saara spp. Uromastyx spp. </td><td>Wilms, T. M., Böhme, W., Wagner, P., Lutzmann, N. & Schmitz, A. (2009). On the phylogeny and taxonomy of the genus Uromastyx Merrem, 1820 (Reptilia: Squamata: Agamidae: Uromastycinae) – resurrection of the genus Saara Gray, 1845. Bonner zool. Beiträge, 56 (1-2): 55-99.</td></tr>
+<tr><td>  </td><td>Anguidae</td><td>Abronia spp.</td><td>UETZ, P., FREED, P. & HŎSEK, J. (eds.) (2016). Taxonomic checklist of the species of the genus Abronia. Species information extracted from ‘The Reptile Database’, version of 15 August 2016, accessed 11 May 2017. See Annex 2 of AC29 Doc.35. at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A2.pdf</td></tr>
+<tr><td>  </td><td>Anguidae</td><td>Abronia morenica</td><td>Clause, A.G., Luna-Reyes, R. & Nieto-Montes de Oca, A. (2020): A New Species of Abronia (Squamata: Anguidae) from a Protected Area in Chiapas, Mexico. Herpetologica 76(3): 330-343. https://doi.org/10.1655/Herpetologica-D-19-00047</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Chamaleonidae spp. except the taxa mentioned below</td><td>Glaw, F. (2015). Taxonomic checklist of chamaeleons (Squamata: Chamaeleonidae). Vertebrate Zoology, 65 (2): 167-246. (http://www.senckenberg.de/files/content/forschung/publikationen/vertebratezoology/vz65-2/01_vertebrate_zoology_65-2_glaw_167-246.pdf) </td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Brookesia antakarana (incl. B.ambreensis)</td><td>SCHERZ, M. D., GLAW, F., RAKOTOARISON, A., WAGLER, M. & VENCES, M. (2018): Polymorphism and synonymy of Brookesia antakarana and B. ambreensis, leaf chameleons from Montagne d’Ambre in north Madagascar. Salamandra 54 (4): 259-268</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Calumma gehringi</td><td>PRÖTZEL, D., VENCES, M., SCHERZ, M. D., VIEITES, D. R. & GLAW, F. (2017): Splitting and lumping: An integrative taxonomic assessment of Malagasy chameleons in the Calumma guibei complex results in the new species C. gehringi sp. nov. - Vertebrate Zoology 67 (2): 231–249.</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Calumma juliae Calumma lefona  Calumma uetzi </td><td>PRÖTZEL, D., HAWLITSCHEK, O., SCHERZ, M. D., RATSOAVINA. F. M. & GLAW, F. (2018): Endangered beauties: micro-CT cranial osteology, molecular genetics and external morphology reveal three new species of chameleons in the Calumma boettgeri complex (Squamata: Chamaeleonidae). Zoological Journal of the Linnean Society zlx112, DOI: 10.1093/zoolinnean/zlx112</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Calumma roaloko</td><td>PRÖTZEL, D., LAMBERT, S. M., ANDRIANOSOLO, G. T., HUTTER, C. R., COBB, K. A., SCHERZ, M. D. & GLAW, F. (2018): The smallest ‘true chameleon’ from Madagascar: a new, distinctly colored species of the Calumma boettgeri complex (Squamata, Chamaeleonidae). - Zoosystematics and Evolution 94 (2): 409-423</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Kinyongia itombwensis Kinyongia rugegensis  Kinyongia tolleyae </td><td>HUGHES, D. F., KUSAMBA, C., BEHANGANA, M. & GREENBAUM, E. (2017): Integrative taxonomy of the Central African forest chameleon, Kinyongia adolfifriderici (Sauria: Chamaeleonidae), reveals underestimated species diversity in the Albertine Rift. - Zoological Journal of the Linnean Society 181 (2): 400–438.</td></tr>
+<tr><td>  </td><td>Chamaeleonidae</td><td>Kinyongia msuyae</td><td>MENEGON, M., LOADER, S. P., DAVENPORT, T. R. B., HOWELL, K. M, TILBURY, C. R., MACHAGA, S. & TOLLEY, K.A. (2015): A new species of chameleon (Sauria: Chamaeleonidae: Kinyongia) highlights the biological affinities between the Southern Highlands and Eastern Arc Mountains of Tanzania. - Acta Herpetologica 10 (2): 111-120.</td></tr>
+<tr><td>  </td><td>Cordylidae</td><td>Cordylidae spp. except the taxa mentioned below</td><td>Stanley, E. L., Bauer, A. M., Jackman, T. R., Branch, W. R. & P. le F. N. (2011). Between a rock and a hard polytomy: rapid radiation in the rupicolous girdled lizards (Squamata: Cordylidae). Molecular Phylogenetics and Evolution, 58 (1): 53-70.</td></tr>
+<tr><td>  </td><td>Cordylidae</td><td>Cordylus marunguensis</td><td>Greenbaum, E., Stanley, E. L., Kusamba, C., Moninga, W. M., Goldberg, S. R. & Cha (2012). A new species of Cordylus (Squamata: Cordylidae) from the Marungu Plateau of south-eastern Democratic Republic of the Congo. African Journal of Herpetology, 61 (1): 14-39.</td></tr>
+<tr><td>  </td><td>Cordylidae</td><td>Cordylus namakuiyus</td><td>STANLEY, E. L., CERÍACO, L. M. P., BANDEIRA, S., VALERIO, H., BATES, M. F. & BRANCH, W. R. (2016): A review of Cordylus machadoi (Squamata: Cordylidae) in southwestern Angola, with the description of a new species from the Pro-Namib desert. - Zootaxa 4061 (3): 201–226.</td></tr>
+<tr><td>  </td><td>Eublepharidae</td><td>Goniurosaurus spp.</td><td>UETZ, P., FREED, P., AGUILAR, R., & HÖSEK, J. (eds.) (2022): Taxonomic Checklist of Reptile taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from The Reptile Database: an online Reference, version of 20 March 2022, accessed 5 May 2022 for species in the Family Eublepharidae. https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Reptiles_Added_CoP18lr_CITES. pdf</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Cnemaspis psychedelica</td><td>Grismer, L. L., Ngo, V. T. & Grismer, J. L. (2010). A colorful new species of insular rock gecko (Cnemaspis Strauch 1887) from southern Vietnam. Zootaxa, 58: 46–58.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Dactylonemis spp. Hoplodactylus spp.  Mokopirirakau spp. </td><td>Nielsen, S. V., Bauer, A. M., Jackman, T. R., Hitchmough, R. A. & Daugherty, C. H. (2011). New Zealand geckos (Diplodactylidae): Cryptic diversity in a post-Gondwanan lineage with trans-Tasman affinities. Molecular Phylogenetics and Evolution, 59 (1): 1-22.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Gekko gecko (incl. Gekko reevesii)</td><td>UETZ, P., FREED, P., AGUILAR, R., & HÖSEK, J. (eds.) (2022): Taxonomic Checklist of Reptile taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from The Reptile Database: an online Reference, version of 2 May 2020 accessed 5 May 2020 for species in the Families Agamidae, Gekkonidae and Viperidae. https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Reptiles_Added_CoP18lr_CITES. pdf</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Gonatodes daudini</td><td>POWELL, R., & R.W. HENDERSON. 2005. A new species of Gonatodes (Squamata: Gekkonidae) from the West Indies. Carib. J. Sci. 41 (4): 709-715</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Lygodactylus williamsi</td><td>Species information extracted from UETZ, P., FREED, P. & HŎSEK, J. (eds.) (2016). The Reptile Database, version of 15 August 2016, accessed 11 May 2017. See Annex 2 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A2.pdf</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Nactus serpensinsula</td><td>Kluge, A.G. (1983). Cladistic relationships among gekkonid lizards. Copeia, 2: 465-475.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Naultinus spp.</td><td>Nielsen, S. V., Bauer, A. M., Jackman, T. R., Hitchmough, R. A. & Daugherty, C. H. (2011). New Zealand geckos (Diplodactylidae): Cryptic diversity in a post-Gondwanan lineage with trans-Tasman affinities. Molecular Phylogenetics and Evolution, 59 (1): 1-22.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Paroedura androyensis</td><td>UETZ, P., FREED, P., AGUILAR, R., & HÖSEK, J. (eds.) (2022): Taxonomic Checklist of Reptile taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from The Reptile Database: an online Reference, version of 2 May 2020 accessed 5 May 2020 for species in the Families Agamidae, Gekkonidae and Viperidae. https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Reptiles_Added_CoP18lr_CITES. pdf</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Paroedura masobe</td><td>Nussbaum, R.A. & Raxworthy, C.J. (1994). A new rainforest gecko of the genus Paroedura Günther from Madagascar. Herpetological Natural History, 2 (1): 43-49.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Phelsuma spp. Rhoptropella spp. </td><td>Glaw, F. & Rösler, H. (2015). Taxonomic checklist of the day geckos of the genera Phelsuma Gray, 1825 and Rhoptropella Hewitt, 1937 (Squamata: Gekkonidae). Vertebrate Zoology, 65 (2): 167-246.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Toropuku spp. Tukutuku spp.  Woodworthia spp. </td><td>Nielsen, S. V., Bauer, A. M., Jackman, T. R., Hitchmough, R. A. & Daugherty, C. H. (2011). New Zealand geckos (Diplodactylidae): Cryptic diversity in a post-Gondwanan lineage with trans-Tasman affinities. Molecular Phylogenetics and Evolution, 59 (1): 1-22.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus spp. except for the taxa mentioned below</td><td>Raxworthy, C.J. (2003). Introduction to the reptiles. In: Goodman, S.M. & Bernstead, J.P. (eds.), The natural history of Madagascar: 934-949. Chicago.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus fiera</td><td>RATSOAVINA, F. M., RANJANAHARISOA, F. A., GLAW, F., RASELIMANANA, A. P., MIRALLES, A. & VENCES, M. (2015): A new leaf-tailed gecko of the Uroplatus ebenaui group (Squamata: Gekkonidae) from Madagascar's central eastern rainforests. – Zootaxa 4006 (1): 143-160.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus fotsivava Uroplatus kelirambo </td><td>RATSOAVINA, F. M., GEHRING, P.-S., SCHERZ, M. D., VIEITES, D. R., GLAW, F. & VENCES, M. (2017): Two new species of leaf-tailed geckos (Uroplatus) from the Tsaratanana mountain massif in northern Madagascar. Zootaxa 4347 (3): 446-464.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus finiavana</td><td>Ratsoavina, F. M., Louis jr., E. E., Crottini, A., Randrianiaina, R. -D., Glaw, F. & Vences, M. (2011). A new leaf tailed gecko species from northern Madagascar with a preliminary assessment of molecular and morphological variability in the Uroplatus ebenaui group. Zootaxa, 3022: 39-57.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus giganteus</td><td>Glaw, F., Kosuch, J., Henkel, W. F., Sound, P. & Böhme, W. (2006). Genetic and morphological variation of the leaf-tailed gecko Uroplatus fimbriatus from Madagascar, with description of a new giant species. Salamandra, 42: 129-144.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus pietschmanni</td><td>Böhle, A. & Schönecker, P. (2003). Eine neue Art der Gattung Uroplatus Duméril, 1805 aus Ost-Madagaskar (Reptilia: Squamata: Gekkonidae). Salamandra, 39 (3/4): 129-138.</td></tr>
+<tr><td>  </td><td>Gekkonidae</td><td>Uroplatus sameiti</td><td>Raxworthy, C. J., Pearson, R. G., Zimkus, B. M., Reddy, S., Deo, A. J., Nussbaum, R. A. & Ingram, C. M. (2008). Continental speciation in the tropics: contrasting biogeographic patterns of divergence in the Uroplatus leaf-tailed gecko radiation of Madagascar. Journal of Zoology, 275: 423–440.</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Iguanidae spp. except for the taxa mentioned below</td><td>Hollingsworth, B. D. (2004). The Evolution of Iguanas: An Overview of Relationships and a Checklist of Species. In: Iguanas: Biology and Conservation (Alberts, A. C., Carter, R. L., Hayes, W. K. & Martins, E. P., Eds): 19-44.. Berkeley (University of California Press).</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Brachylophus bulabula</td><td>Keogh, J. S., Edwards, D. L., Fisher, R. N. & Harlow, P. S. (2008). Molecular and morphological analysis of the critically endangered Fijian iguanas reveals cryptic diversity and a complex biogeographic history. Philosophical Transactions of the Royal Society B, 363 (1508): 3413-3426.</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Brachylophus gau</td><td>FISHER, R. N., NIUKULA, J., WATLING, D. & HARLOW, P. S. (2017): A new species of iguana Brachylophus Cuvier 1829 (Sauria: Iguania: Iguanidae) from Gau Island, Fiji Islands. Zootaxa 4273(3): 407–422.</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Conolophus marthae</td><td>Gentile, G. & Snell, H. (2009). Conolophus marthae sp. nov. (Squamata, Iguanidae), a new species of land iguana from the Galápagos archipelago. Zootaxa, 2201: 1-10.</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Ctenosaura spp.</td><td>Iguana Taxonomy Working Group (2016). A checklist of the iguanas of the world (Iguanidae; Iguaninae). In: Iguanas: Biology, Systematics, and Conservation (J. B. Iverson, T.D. Grant, C .R. Knapp, and S. A. Pasachnik, Eds.): 4–46. Herpetological Conservation and Biology 11(Monograph 6).</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Cyclura lewisi</td><td>Burton, F. J. (2004). Revision to Species Cyclura nubila lewisi, the Grand Cayman Blue Iguana. Caribbean Journal of Science, 40 (2): 198-203.</td></tr>
+<tr><td>  </td><td>Iguanidae</td><td>Phrynosoma blainvillii Phrynosoma cerroense  Phrynosoma wigginsi </td><td>Montanucci, R.R. (2004). Geographic variation in Phrynosoma coronatum (Lacertilia, Phrynosomatidae): further evidence for a peninsular archipelago. Herpetologica, 60: 117.</td></tr>
+<tr><td>  </td><td>Lanthanotidae</td><td>Lanthanotidae spp.</td><td>UETZ, P., FREED, P. & HŎSEK, J. (eds.) (2016). Family, genus and species information extracted from the Integrated Taxonomic Information Service (ITIS), an online reference; and species information extracted from The Reptile Database, version of 15 August 2016, accessed 11 May 2017. See Annex 2 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A2.pdf</td></tr>
+<tr><td>  </td><td>Teiidae</td><td>Teiidae spp. except for the taxa mentioned below</td><td>Harvey, M. B., Ugueto, G. N. & Gutberlet, R. L. Jr. (2012). Review of teiid morphology with a revised taxonomy and phylogeny of the Teiidae (Lepidosauria: Squamata). Zootaxa, 3459: 1–156.</td></tr>
+<tr><td>  </td><td>Teiidae</td><td>Tupinambis cryptus Tupinambis cuzcoensis  Tupinambis zuliensis </td><td>MURPHY, J.C., JOWERS, M.J., LEHTINEN, R.M., CHARLES, S.P., COLLI, G.R., PERES, A.K. JR, HENDRY, C.R. & PYRON, R.A. (2016): Cryptic, sympatric diversity in tegu lizards of the Tupinambis teguixin group (Squamata, Sauria, Teiidae) and the description of three new species. - PLoS ONE 11(8): e0158542.doi:10.1371/journal.pone.0158542.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanidae spp. except for the taxa mentioned below</td><td>Böhme, W. (2003). Checklist of the living monitor lizards of the world (family Varanidae) Zoologische Verhandelingen, Leiden, 341: 1-43. in combination with  Koch, A., Auliya, M. & Ziegler, T. (2010.: Updated Checklist of the living monitor lizards of the world (Squamata: Varanidae). - Bonn zoological Bulletin, 57 (2): 127-136. </td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus bangonorum Varanus dalubhasa  Varanus samarensis </td><td>Welton, L. J., Travers, S. L., Siler, C. D. & Brown, R. M. (2014). Integrative taxonomy and phylogeny-based species delimitation of Philippine water monitor lizards (Varanus salvator complex) with descriptions of two new cryptic species. Zootaxa, 3881 (3): 201–227.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus douarrha Varanus indicus </td><td>WEIJOLA, V., KRAUS, F., VAHTERA, V., LINDQVIST, C. & DONNELLAN, S.C. (2017): Reinstatement of Varanus douarrha Lesson, 1830 as a valid species with comments on the zoogeography of monitor lizards (Squamata: Varanidae) in the Bismarck Archipelago, Papua New Guinea. - Australian Journal of Zoology, doi: 10.1071/ZO16038.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus semotus</td><td>WEIJOLA, V., DONNELLAN, S.C. & LINDQVIST, C. (2016): A new blue-tailed monitor lizard (Reptilia, Squamata, Varanus) of the Varanus indicus group from Mussau Island, Papua New Guinea. - ZooKeys 568: 129- 154, doi: 10.3897/zookeys.568.6872.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus hamersleyensis</td><td>Maryan, B., Oliver, P. M., Fitch, A. J. & O’Connell, M. (2014). Molecular and morphological assessment of Varanus pilbarensis (Squamata: Varanidae), with a description of a new species from the southern Pilbara, Western Australia. Zootaxa, 3768 (2): 139–158.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus nesterovi</td><td>Böhme, W., Ehrlich, K., Milto, K. D., Orlov, N. & Scholz, S. (2015). A new species of desert monitor lizard (Varanidae: Varanus: Psammosaurus) from the western Zagros region (Iraq, Iran). Russian Journal of Herpetology, 22 (1): 41-52.</td></tr>
+<tr><td>  </td><td>Varanidae</td><td>Varanus sparnus</td><td>Doughty, P., Kealley, L., Fitch, A. & Donnellan, S. C. (2014). A new diminutive species of Varanus from the Dampier Peninsula, western Kimberley region, Western Australia. Records of the Western Australian Museum, 29: 128–140.</td></tr>
+<tr><td>SERPENTES</td><td>  </td><td>Loxocemidae spp. Pythonidae spp.  Boidae spp.  Bolyeriidae spp.  Tropidophiidae spp.  Viperidae spp.  except for the retention of the genera Acrantophis, Sanzinia, Calabaria, Lichanura,  and except for the species mentioned below </td><td>McDiarmid, R. W., Campbell, J. A. & Touré, T. A. (1999). Snake Species of the World. A Taxonomic and Geographic Reference. Volume 1, Washington, D.C. (The Herpetologists’ League).</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Candoia paulsoni Candoia superciliosa </td><td>Smith, H. M., Chiszar, D., Tepedelen, K. & van Breukelen, F. (2001). A revision of the bevelnosed boas (Candoia carinata complex) (Reptilia: Serpentes). Hamadryad, 26 (2): 283-315.</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Corallus batesii</td><td>Henderson, R. W., Passos, P. & Feitosa, D. (2009). Geographic variation in the Emerald Treeboa, Corallus caninus (Squamata: Boidae). Copeia, 2009 (3): 572-582.</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Epicrates crassus Epicrates assisi  Epicrates alvarezi </td><td>Passos, P. & Fernandes, R. (2008). Revision of the Epicrates cenchria complex (Serpentes: Boidae). Herpetological Monographs, 22: 1-30.</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Epicrates cenchria Epicrates maurus  Chilabothrus spp. </td><td>REYNOLDS, R.G., NIEMILLER, M.L., HEDGES, S.B., DORNBURG, A., PUENTE-ROLÓN, A.R., & REVELL, L.J. (2013): Molecular phylogeny and historical biogeography of West Indian boid snakes (Chilabothrus). Molecular Phylogenetics and Evolution 68(3):461-470. doi:10.1016/j.ympev.2013.04.02</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Eryx borrii</td><td>Lanza, B. & Nistri, A. (2005). Somali Boidae (genus Eryx Daudin 1803) and Pythonidae (genus Python Daudin 1803) (Reptilia Serpentes). Tropical Zoology, 18 (1): 67-136.</td></tr>
+<tr><td>  </td><td>Boidae</td><td>Eunectes beniensis</td><td>Dirksen, L. (2002). Anakondas. NTV Wissenschaft.</td></tr>
+<tr><td>  </td><td>Colubridae</td><td>Xenochrophis piscator Xenochrophis schnurrenbergeri  Xenochrophis tytleri </td><td>Vogel, G. & David, P. (2012). A revision of the species group of Xenochrophis piscator (Schneider, 1799) (Squamata: Natricidae). Zootaxa, 3473: 1-60.</td></tr>
+<tr><td>  </td><td>Elapidae</td><td>Micrurus ruatanus</td><td>McCranie, J. R. (2015). A checklist of the amphibians and reptiles of Honduras, with additions, comments on taxonomy, some recent taxonomic decisions, and areas of further studies needed. Zootaxa, 3931 (3): 352–386.</td></tr>
+<tr><td>  </td><td>Elapidae</td><td>Naja atra Naja kaouthia </td><td>Wüster, W. (1996). Taxonomic change and toxinology: systematic revisions of the Asiatic cobras (Naja naja species complex). Toxicon, 34: 339-406.</td></tr>
+<tr><td>  </td><td>Elapidae</td><td>Naja mandalayensis</td><td>Slowinski, J. B. & Wüster, W. (2000). A new cobra (Elapidae: Naja) from Myanmar (Burma). Herpetologica, 56: 257-270.</td></tr>
+<tr><td>  </td><td>Elapidae</td><td>Naja oxiana Naja philippinensis  Naja sagittifera  Naja samarensis  Naja siamensis  Naja sputatrix  Naja sumatrana </td><td>Wüster, W. (1996). Taxonomic change and toxinology: systematic revisions of the Asiatic cobras (Naja naja species complex). Toxicon, 34: 339-406.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Leiopython bennettorum Leiopython biakensis  Leiopython fredparkeri  Leiopython huonensis  Leiopython hoserae </td><td>Schleip, W. D. (2008). Revision of the genus Leiopython Hubrecht 1879 (Serpentes: Pythonidae) with the redescription of taxa recently described by Hoser (2000) and the description of new species. Journal of Herpetology, 42 (4): 645–667.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Malayopython reticulatus Malayopython timoriensis </td><td>REYNOLDS, R.G., NIEMILLER, M.L, AND REVELL, L.J. (2014): Toward a Tree-of-Life for the boas and pythons: Multilocus species-level phylogeny with unprecedented taxon sampling. Molecular Phylogenetics and Evolution 71: 201–213.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Morelia clastolepis Morelia kinghorni  Morelia nauta  Morelia tracyae </td><td>Harvey, M. B., Barker, D. B., Ammerman, L. K. & Chippindale, P. T. (2000). Systematics of pythons of the Morelia amethistina complex (Serpentes: Boidae) with the description of three new species. Herpetological Monographs, 14: 139-185.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Python bivittatus Python molurus </td><td>Jacobs, H. J., Auliya, M. & Böhme, W. (2009). Zur Taxonomie des Dunklen Tigerpythons, Python molurus bivittatus KUHL, 1820, speziell der Population von Sulawesi. Sauria, 31: 5-16.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Python breitensteini Python brongersmai </td><td>Keogh, J. S., Barker, D. G. & Shine, R. (2001). Heavily exploited but poorly known: systematics and biogeography of commercially harvested pythons (Python curtus group) in Southeast Asia. Biological Journal of the Linnean Society, 73: 113-129.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Python kyaiktiyo</td><td>Zug, G.R., Grotte, S. W. & Jacobs, J. F. (2011). Pythons in Burma: Short-tailed python (Reptilia: Squamata). Proceedings of the biological Society of Washington, 124 (2): 112-136.</td></tr>
+<tr><td>  </td><td>Pythonidae</td><td>Python natalensis</td><td>Broadley, D. G. (1999). The southern African python, Python natalensis A. Smith 1840, is a valid species. African Herp News, 29: 31-32.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis spp. except for the taxa mentioned below</td><td>Hedges, S.B. (2002). Morphological variation and the definition of species in the snake genus Tropidophis (Serpentes, Tropidophiidae). Bulletin of the Natural History Museum, London (Zoology), 68 (2): 83-90.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis celiae</td><td>Hedges, B. S., Estrada, A. R. & Diaz, L. M. (1999): New snake (Tropidophis) from western Cuba. Copeia, 1999 (2): 376-381.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis grapiuna</td><td>Curcio, F. F., Sales Nunes, P. M., Suzart Argolo, A. J., Skuk, G. & Rodrigues, M. T. (2012). Taxonomy of the South American dwarf boas of the genus Tropidophis Bibron, 1840, with the description of two new species from the Atlantic forest (Serpentes: Tropidophiidae). Herpetological Monographs, 26 (1): 80-121.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis hendersoni</td><td>Hedges, B. S. & Garrido, O. (2002). A new snake of the genus Tropidophis (Tropidophiidae) from Eastern Cuba Journal of Herpetology, 36:157-161.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis morenoi</td><td>Hedges, B. S., Garrido, O. & Diaz, L. M. (2001). A new banded snake of the genus Tropidophis (Tropidophiidae) from north-central Cuba. Journal of Herpetology, 35: 615-617.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis preciosus</td><td>Curcio, F. F., Sales Nunes, P. M., Suzart Argolo, A. J., Skuk, G. & Rodrigues, M. T. (2012). Taxonomy of the South American dwarf boas of the genus Tropidophis Bibron, 1840, with the description of two new species from the Atlantic forest (Serpentes: Tropidophiidae). Herpetological Monographs, 26 (1): 80-121.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis spiritus</td><td>Hedges, B. S. & Garrido, O. (1999). A new snake of the genus Tropidophis (Tropidophiidae) from central Cuba. Journal of Herpetology, 33: 436-441.</td></tr>
+<tr><td>  </td><td>Tropidophiidae</td><td>Tropidophis xanthogaster</td><td>Domínguez, M., Moreno, L. V. & Hedges, S. B. (2006). A new snake of the genus Tropidophis (Tropidophiidae) from the Guanahacabibes Peninsula of Western Cuba. Amphibia-Reptilia, 27 (3): 427-432.</td></tr>
+<tr><td>  </td><td>Viperidae</td><td>Atheris desaixi Bitis worthingtoni </td><td>UETZ, P., FREED, P. & HŎSEK, J. (eds.) (2016). Species information extracted from The Reptile Database, version of 15 August 2016, accessed 11 May 2017. See Annex 2 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A2.pdf</td></tr>
+<tr><td>  </td><td>Viperidae</td><td>Montivipera wagneri</td><td>GARRIGUES, T., DAUGA, C., FERQUEL, E., VALÉRIE CHOUMET, V., & FAILLOUX, A-B. (2005): Molecular phylogeny of Vipera Laurenti, 1768 and the related genera Macrovipera (Reuss, 1927) and Daboia (Gray, 1842), with comments about neurotoxic Vipera aspis aspis populations. Molecular Phylogenetics and Evolution 35(1): 35-47. </td></tr>
+<tr><td>  </td><td>Viperidae</td><td>Protobothrops mangshanensis</td><td>SNETKOV, P.B. & ORLOV, N.L. (2017) Phylogenetic Analysis of Old World Viperid Snakes (Serpentes, Viperidae) Based on Skeletal Morphology. Russian Journal of Herpetology, 24(1):22-34.</td></tr>
+<tr><td>  </td><td>Viperidae</td><td>Pseudocerastes urarachnoides</td><td>UETZ, P., FREED, P., AGUILAR, R., & HÖSEK, J. (eds.) (2022): Taxonomic Checklist of Reptile taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from The Reptile Database. https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Reptiles_Added_CoP18lr_CITE S.pdf</td></tr>
+<tr><td>TESTUDINES</td><td>  </td><td>Testudines order names</td><td>Wermuth, H. & Mertens, R. (1996) (reprint). Schildkröte, Krokodile, Brückenechsen. xvii + 506 pp. Jena (Gustav Fischer Verlag).</td></tr>
+<tr><td>  </td><td>  </td><td>Species and family names – with the exception of the retention of the following names Mauremys iversoni, Mauremys pritchardi, Ocadia glyphistoma, Ocadia philippeni, Sacalia pseudocellata, and except for the taxa mentioned below</td><td>Fritz, U. & Havaš, P. (2007): Checklist of Chelonians of the World. Vertebrate Zoology, 57 (2): 149-368. Dresden. ISSN 1864-5755 [without its appendix]</td></tr>
+<tr><td>  </td><td>Emydidae</td><td>Graptemys pearlensis</td><td>Ennen, J. R., Lovich, J. E., Kreiser, B. R., Selman, W. & Qualls, C. P. (2010). Genetic and morphological variation between populations of the Pascagoula Map Turtle (Graptemys gibbonsi) in the Pearl and Pascagoula Rivers with description of a new species. Chelonian Conservation and Biology, 9 (1): 98-113.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Batagur affinis</td><td>Praschag, P., Sommer, R. S., Mccarthy, C., Gemel, R. & Fritz, U. (2008). Naming one of the world's rarest chelonians, the southern Batagur. Zootaxa, 1758: 61-68.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Batagur borneoensis Batagur dhongoka  Batagur kachuga  Batagur trivittata </td><td>Praschag, P., Hundsdörfer, A. K. & Fritz, U. (2007). Phylogeny and taxonomy of endangered South and South-east Asian freshwater turtles elucidated by mtDNA sequence variation (Testudines: Geoemydidae: Batagur, Callagur, Hardella, Kachuga, Pangshura). Zoologica Scripta, 36: 429-442.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Cuora bourreti Cuora picturata </td><td>Spinks, P. Q., Thomson, R. C., Zhang, Y.P., Che, J., Wu, Y. & Shaffer, H. B. (2012). Species boundaries and phylogenetic relationships in the critically endangered Asian box turtle genus Cuora. Molecular Phylogenetics and Evolution, 63: 656–667. doi:10.1016/j.ympev.2012.02.014.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Cyclemys enigmatica Cyclemys fusca  Cyclemys gemeli  Cyclemys oldhamii </td><td>Fritz, U., Guicking, D., Auer, M., Sommer, R. S., Wink, M. & Hundsdörfer, A. K. (2008). Diversity of the Southeast Asian leaf turtle genus Cyclemys: how many leaves on its tree of life? Zoologica Scripta, 37: 367-390.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Malayemys khoratensis</td><td>IHLOW, F., VAMBERGER, M., FLECKS, M., HARTMANN, T., COTA, M., MAKCHAI, S., MEEWATTANA, P., DAWSON, J.E., KHENG, L., RÖDDER, D., & FRITZ, U. (2016). Integrative taxonomy of Southeast Asian snail-eating turtles (Geoemydidae: Malayemys) reveals a new species and mitochondrial introgression. PLoS ONE 11(4): e0153108:1-26.</td></tr>
+<tr><td>  </td><td>Geoemydidae</td><td>Mauremys reevesii</td><td>Barth, D., Bernhard, D., Fritzsch, G. & U. Fritz (2004). The freshwater turtle genus Mauremys (Testudines, Geoemydidae) – a textbook example of an east-west disjunction or a taxonomic misconcept? Zoologica Scripta, 33: 213-221.</td></tr>
+<tr><td>  </td><td>Testudinidae</td><td>Centrochelys sulcata</td><td>Turtle Taxonomy Working Group [van Dijk, P. P., Iverson, J. B., Rhodin, A. G. J., Shaffer, H. B. & Bour, R. ]. (2014): Turtles of the world, 7TH edition: Annotated checklist of taxonomy, synonymy, distribution with maps, and conservation status. 000.v7. Chelonian Research Monographs, 5 doi: 10.3854/crm.5.000.checklist.v7.2014.</td></tr>
+<tr><td>  </td><td>Testudinidae</td><td>Chelonoidis carbonarius Chelonoidis denticulatus  Chelonoidis niger </td><td>Olson, S .L. & David, N. (2014). The gender of the tortoise genus Chelonoidis Fitzinger, 1835 (Testudines: Testudinidae). - Proceedings of the Biological Society of Washington, 126(4): 393-394.</td></tr>
+<tr><td>  </td><td>Testudinidae</td><td>Chersobius spp.</td><td>HOFMEYR, M.D., & BRANCH, W.R. (2018). The padloper’s tortuous path (Chelonia: Testudinidae): Two genera, not one. African Journal of Herpetology, 2018:1-15. https://doi.org/10.1080/21564574.2017.1398187</td></tr>
+<tr><td>  </td><td>Testudinidae</td><td>Gopherus evgoodei Gopherus morafkai </td><td>Murphy, R. W., Berry, K. H., Edwards, T., Leviton, A. E., Lathrop, A. & Riedle, J. D. (2011). The dazed and confused identity of Agassiz’s land tortoise, Gopherus agassizii (Testudines, Testudinidae) with the description of a new species, and its consequences for conservation. Zookeys, 113: 39-71.</td></tr>
+<tr><td>  </td><td>Testudinidae</td><td>Kinixys nogueyi Kinixys zombensis </td><td>Kindler, C., Branch, W. R., Hofmeyr, M. D., Maran, J., Široký, P., Vences, M., Harvey, J., Hauswaldt, J. S., Schleicher, A., Stuckas, H. & Fritz, U. (2012). Molecular phylogeny of African hinge-back tortoises (Kinixys): implications for phylogeography and taxonomy (Testudines: Testudinidae). Journal of Zoological Systematics and Evolutionary Research, 50: 192–201.</td></tr>
+<tr><td>  </td><td>Trionychidae</td><td>Lissemys ceylonensis</td><td>Praschag, P., Stuckas, H., Päckert, M., Maran, J. & Fritz, U. (2011). Mitochondrial DNA sequences suggest a revised taxonomy of Asian flapshell turtles (Lissemys Smith, 1931) and the validity of previously unrecognized taxa (Testudines: Trionychidae). Vertebrate Zoology, 61 (1): 147-160.</td></tr>
+<tr><td>  </td><td>Trionychidae</td><td>Nilssonia gangeticus Nilssonia hurum  Nilssonia leithii  Nilssonia nigricans </td><td>Praschag, P., Hundsdörfer, A.K., Reza, A.H.M.A. & Fritz, U. (2007). Genetic evidence for wild-living Aspideretes nigricans and a molecular phylogeny of South Asian softshell turtles (Reptilia: Trionychidae: Aspideretes, Nilssonia). Zoologica Scripta, 36:301-310.</td></tr>
+<tr><td colspan="4">AMPHIBIA</td></tr>
+<tr><td>  </td><td>  </td><td>Amphibia spp. except for the taxa listed below</td><td>Frost, D. R. (ed.) (2015). Taxonomic Checklist of Amphibian Species listed in the CITES Appendices and the Annexes of EC Regulation 338/97. Species information extracted from Amphibian Species of the World: a taxonomic and geographic reference, an online reference, version 6.0 as of May2015 with additional comments by the Nomenclature Specialist of the CITES Animals Committee. See Annex 5 of CoP17 Doc. 81.1 at https://cites.org/sites/default/files/eng/cop/17/WorkingDocs/E-CoP17-81-01-A5.pdf </td></tr>
+<tr><td>  </td><td>  </td><td>Anura: Microhylidae: Dyscophus spp. and Scaphiophryne spp.;  Telmatobiidae:  Telmatobius culeus </td><td>FROST, D. R. (ed.) (2017). Species information extracted from Amphibian Species of the World: a taxonomic and geographic reference, an online reference, version 6.0, accessed 12 May 2017. See Annex 3 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A3.pdf</td></tr>
+<tr><td>  </td><td>Bufonidae</td><td>Sclerophrys channingi Sclerophrys superciliaris </td><td>OHLER, A., & DUBOIS, A. (2016): The identity of the South African toad Sclerophrys capensis Tschudi, 1838 (Amphibia, Anura). PeerJ 4(e1553): 1–13.</td></tr>
+<tr><td>  </td><td>Dendrobatidae</td><td>Ameerega munduruku</td><td>NEVES, M.DE O., DA SILVA, L.A., AKIEDA, P.S., CABRERA, R., KOROIVA, R., & SANTANA, D.J. (2017): A new species of poison frog, genus Ameerega (Anura: Dendrobatidae), from the southern Amazonian rain forest. Salamandra 53(4): 485–493.</td></tr>
+<tr><td>  </td><td>Dendrobatidae</td><td>Ameerega shihuemoy</td><td>Serrano-Rojas, S.J., Whitworth, A., Villacampa-Ortega, J., von May, R., Gutiérrez, R.C., Padial, J.M., & CHAPARRO, J.C. (2017): A new species of poison-dart frog (Anura: Dendrobatidae) from Manu province, Amazon region of southeastern Peru, with notes on its natural history, bioacoustics, phylogenetics, and recommended conservation status. Zootaxa 4221(1): 71–94.</td></tr>
+<tr><td>  </td><td>Dendrobatidae</td><td>Andinobates victimatus</td><td>Márquez, R., Mejía-Vargas, D., Palacios-Rodríguez, P., Ramírez-Castañeda, V., & Amézquita, A. (2017): A new species of Andinobates (Anura: Dendrobatidae) from the Urabá region of Colombia. Zootaxa 4290(3): 531–546. </td></tr>
+<tr><td>  </td><td>Dendrobatidae</td><td>Epipedobates maculatus Paruwrobates andinus  Paruwrobates erythromos </td><td>GRANT, T., RADA, M., ANGANOY-CRIOLLO, M. A., BATISTA, A., DOS S. DIAS, P.H., JECKEL, A.M., MACHADO, D.J., & RUEDA-ALMONACID, J.V. (2017): Phylogenetic systematics of dart-poison frogs and their relatives revisited (Anura: Dendrobatoidea). South American Journal of Herpetology 12 (Special Issue): 1–90</td></tr>
+<tr><td>  </td><td>Dendrobatidae</td><td>Oophaga anchicayensis Oophaga andresi  Oophaga solanensis </td><td>POSSO-TERRANOVA, A. & ANDRÉS, J. (2018): Multivariate species boundaries and conservation of harlequin poison frogs. Molecular Ecology 27: 3432–3451. DOI: 10.1111/mec.14803.</td></tr>
+<tr><td>  </td><td>Hylidae</td><td>Agalychnis lemur</td><td>FROST, D.R. (2021): Amphibian Species of the World: an Online Reference. Version 6.1. doi.org/10.5531/db.vz.0001</td></tr>
+<tr><td>  </td><td>Hylidae</td><td>Agalychnis terranova</td><td>RIVERA-CORREA, M., DUARTE-CUBIDES, F., RUEDA-ALMONACID, J.V., & DAZA-R., J.M. (2013): A new red-eyed treefrog of Agalychnis (Anura: Hylidae: Phyllomedusinae) from middle Magdalena River valley of Colombia with comments on its phylogenetic position. Zootaxa 3636 (1): 85–100.</td></tr>
+<tr><td>CAUDATA</td><td>Salamandridae</td><td>Echinotriton spp. Paramesotriton spp.  Tylototriton spp. </td><td>FROST, D. R. (ed.) (2022). Taxonomic Checklist of Amphibian taxa included in the Appendices at the 18th Meeting of the Conference of the Parties (Geneva, August 2019). Species information extracted from Amphibian Species of the World: an online Reference, Version 6.1, accessed 5 May 2020 for species of the genera Echinotriton and 5 May 2022 for species of the genus Tylototriton. https://cites.org/sites/default/files/eng/resources/checklists/Checklist_Amphibian_Added_CoP18_CITES.pdf</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">ELASMOBRANCHII, ACTINOPTERI, COELACANTHI, and DIPNEUSTI</td></tr>
+<tr><td>  </td><td>  </td><td>All fish species, except the taxa listed below</td><td>Eschmeyer, W.N. & Fricke, R. (eds.) (2015). Taxonomic Checklist of Fish species listed in the CITES Appendices and the Annexes of EC Regulation 338/97 (Elasmobranchii, Actinopteri, Coelacanthi, and Dipneusti, except the genus Hippocampus). Information extracted from Catalog of Fishes, an online reference, version update from 3 February 2015. See Annex 6 of CoP17 Doc. 81.1 at https://cites.org/sites/default/files/eng/cop/17/WorkingDocs/E-CoP17-81-01-A6.pdf</td></tr>
+<tr><td>  </td><td>  </td><td>Elasmobranchii: Carcharhiniformes: Carcharhinidae: Carcharhinus falciformis; Lamniformes: Alopiidae: Alopias spp.;  Myliobatiformes: Myliobatidae: Mobula spp. except the taxa mentioned below;  Potamotrygonidae:  Potamotrygon spp.;  Actinopteri: Perciformes: Pomacanthidae: Holacanthus clarionensis </td><td>ESCHMEYER, W. N., FRICKE, R., & VAN DER LAAN, R. (eds.) (2017). Information extracted from Catalog of Fishes: Genera, Species, References, an online reference, version of 28 April 2017, accessed 12 May 2017. See Annex 4 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A4.pdf</td></tr>
+<tr><td>  </td><td>  </td><td>Elasmobranchii: Lamniformes: Lamnidae: Isurus spp.; Rhinopristiformes: Glaucostegidae: Glaucostegus spp.;  Rhinidae spp. </td><td>ESCHMEYER, W.N., R. FRICKE, & R. VAN DER LAAN (eds.) (2019) Taxonomic Checklist of Fish taxa included in the Appendices at the 18th Meeting of the Conference of the Parties. Species information extracted from Catalog of Fishes: Genera, Species, References, an online reference, version of 4 May 2020, accessed 5 May 2020. See Annex 3 of AC31 Doc. 37 at https://cites.org/sites/default/files/eng/com/ac/31/Docs/E-AC31-37-A3.pdf</td></tr>
+<tr><td>  </td><td>Mobulidae</td><td>Mobula alfredi Mobula birostris  Mobula hypostoma (incl. M. rochebrunei) </td><td>WHITE, W. T. & P. R. LAST. (2016). DEVILRAYS, FAMILY MOBULIDAE. PP. 741-749 IN LAST, P. R., W. T. WHITE, M. R. DE CARVALHO, B. SÉRET, M. F. W. STEHMANN & G. J. P. NAYLOR (EDS.). Rays of the World. CSIRO Publishing, Comstock Publishing Associates. i-ix + 1-790</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Rhinobatidae spp.</td><td>LAST, P. R., SERET, B., & NAYLOR, G. J. (2016a): A new species of guitarfish, Rhinobatos borneensis sp. nov. with a redefinition of the family-level classification in the order Rhinopristiformes (Chondrichthyes: Batoidea). Zootaxa, 4117(4), 451-475. DOI 10.11646/zootaxa.4117.4.1</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Acroteriobatus andysabini Acroteropbatus stehmanni </td><td>WEIGMANN, S., EBERT, D. A., & SÉRET, B. (2021): Resolution of the Acroteriobatus leucospilus species complex, with a redescription of A. leucospilus (Norman, 1926) and descriptions of two new western Indian Ocean species of Acroteriobatus (Rhinopristiformes, Rhinobatidae). Mar. Biodivers., 51(4), 1-30.</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Acroteriobatus omanensis</td><td>LAST, P. R., HENDERSON, A. C., & NAYLOR, G. J. (2016b): Acroteriobatus omanensis (Batoidea: Rhinobatidae), a new guitarfish from the Gulf of Oman. Zootaxa, 4144(2): 276-286.</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Pseudobatos buthi</td><td>RUTLEDGE, K. M. (2019): A new guitarfish of the genus Pseudobatos (Batoidea: Rhinobatidae) with key to the guitarfishes of the Gulf of California. Copeia, 107(3): 451-463.</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Rhinobatos austini</td><td>EBERT, D. A., & GON, O. (2017): Rhinobatos austini n. sp., a new species of guitarfish (Rhinopristiformes: Rhinobatidae) from the southwestern Indian Ocean. Zootaxa, 4276(2), 204-214.</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Rhinobatos manai</td><td>WHITE, W. T., LAST, P. R., & NAYLOR, G. J. (2016): Rhinobatos manai sp. nov., a new species of guitarfish (Rhinopristiformes: Rhinobatidae) from New Ireland, Papua New Guinea. Zootaxa, 4175(6), 588-600.</td></tr>
+<tr><td>  </td><td>Rhinobatidae</td><td>Rhinobatos ranongensis</td><td>LAST, P.R., SERET, B., & NAYLOR, G.J. (2019): Description of Rhinobatos ranongensis sp. nov. (Rhinopristiformes: Rhinobatidae) from the Andaman Sea and Bay of Bengal with a review of its northern Indian Ocean congeners. Zootaxa, 4576(2), 257–287.</td></tr>
+<tr><td>SYNGNATHIFORMES</td><td>Syngnathidae</td><td>Hippocampus spp. except the taxa listed below</td><td>Lourie, S. A., Pollom, R. A. and Foster, S. J. (2016). A global revision of the Seahorses Hippocampus Rafinesque 1810 (Actinopterygii: Sygnathiformes): Taxonomy and biogeography with recommendations for further research. Zootaxa, 4146 (1): 1-066.</td></tr>
+<tr><td>  </td><td>Syngnathidae</td><td>Hippocampus casscsio</td><td>ZHANG, Y-H., QIN, G., WANG, X., & LIN, Q. (2016): A new species of seahorse (Teleostei: Syngnathidae) from the South China Sea. Zootaxa 4170 (2): 384–392. http://doi.org/10.11646/zootaxa.4170.2.11</td></tr>
+<tr><td>  </td><td>Syngnathidae</td><td>Hippocampus haema</td><td>HAN, S-Y., KIM, J-K., KAI, Y., & SENOU, H. (2017): Seahorses of the Hippocampus coronatus complex: taxonomic revision, and description of Hippocampus haema, a new species from Korea and Japan (Teleostei, Syngnathidae). ZooKeys 712: 113–139. doi: 10.3897/zookeys.712.14955</td></tr>
+<tr><td>  </td><td>Syngnathidae</td><td>Hippocampus japapigu</td><td>SHORT, G., SMITH, R., MOTOMURA, H., HARASTI, D., & HAMILTON, H. (2018): Hippocampus japapigu, a new species of pygmy seahorse from Japan, with a redescription of H. pontohi (Teleostei, Syngnathidae). ZooKeys 779: 27–49. doi: 10.3897/zookeys.779.24799</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">ARACHNIDA</td></tr>
+<tr><td>ARANEAE</td><td>Theraphosidae</td><td>Aphonopelma pallidum Brachypelma spp. except for the taxa mentioned below </td><td>Platnick, N. (2006). Taxonomic Checklist of CITES listed Spider Species. Information extracted from The World Spider Catalog, an online reference, Version 6.5 as of 7 April 2006. [available at http://www.cites.org/common/docs/Res/12_11/spider_checklist.pdf]</td></tr>
+<tr><td>  </td><td>Theraphosidae</td><td>Brachypelma albiceps Brachypelma smithi  Tliltocatl albopilosum  Tliltocatl epicureanum  Tliltocatl kahlenbergi  Tliltocatl sabulosum  Tliltocatl schroederi  Tliltocatl vagans  Tliltocatl verdezi </td><td>MENDOZA, J. & FRANCKE, O. (2019): Systematic revision of Mexican threatened tarantulas Brachypelma (Araneae: Theraphosidae: Theraphosinae), with a description of a new genus, and implications on the conservation. Zoological Journal of the Linnean Society, 2019, XX; 1–66. http://zoobank.orgurn:lsid:zoobank.org:pub:E4D09A17-444F-45A0-95DB-059ECA175569</td></tr>
+<tr><td>  </td><td>Theraphosidae</td><td>Poecilotheria spp., except the taxa mentioned below</td><td>WORLD SPIDER CATALOG. (2020). Taxonomic Checklist of Spider taxa included in the Appendices at the 18th Meeting of the Conference of the Parties. Species information extracted from the World Spider Catalog (2020). Version 21.0. Natural History Museum Bern, online at http://wsc.nmbe.ch, accessed on 5 May 2020. doi: 10.24436/2. See Annex 4 of AC31 Doc. 37 at https://cites.org/sites/default/files/eng/com/ac/31/Docs/E-AC31-37-A4.pdf</td></tr>
+<tr><td>  </td><td>Theraphosidae</td><td>Poecilotheria srilankensis</td><td>NANAYAKKARA, R. P., GANEHIARACHI, G. A. S. M., KUSUMINDA, T., VISHVANATH, N., KARUNARATNE, M. K. & KIRK, P. (2019): A new species of tiger spider in the genus Poecilotheria Pocock, 1899 (Araneae: Theraphosidae) from Belihuloya, Sri Lanka. Journal of the British Tarantula Society 34(3): 3-17</td></tr>
+<tr><td>  </td><td>Theraphosidae</td><td>Poecilotheria tigrinawesseli</td><td>SHERWOOD, D. (2019): Revised taxonomical placement of Poecilotheria chaojii Mirza, Sanap & Bhosale, 2014 (Araneae: Theraphosidae). Arachnology 18(1): 19-21. doi:10.13156/arac.2018.18.1.19</td></tr>
+<tr><td>  </td><td>Theraphosidae</td><td>Sericopelma angustum Sericopelma embrithes </td><td>GABRIEL, R., & LONGHORN, S.J. 2015. Revised generic placement of Brachypelma embrithes (Chamberlin & Ivie, 1936) and Brachypelma angustum Valerio, 1980, with definition of the taxonomic features for identification of female Sericopelma Ausserer, 1875 (Araneae, Theraphosidae). ZooKeys 526: 75–104.</td></tr>
+<tr><td>SCORPIONES</td><td>Scorpionidae</td><td>Pandinus spp. except for the taxa mentioned below</td><td>Lourenço, W. R. & Cloudsley-Thompson, J. C. (1996). Recognition and distribution of the scorpions of the genus Pandinus Thorell, 1876 accorded protection by the Washington Convention. Biogeographica, 72 (3): 133-143.</td></tr>
+<tr><td>  </td><td>Scorpionidae</td><td>Pandinus camerounensis Pandinus roeseli </td><td>Lourenço, W. R. (2014). Further considerations on the identity and distribution of Pandinus imperator (C. L. Koch, 1841) and description of a new species from Cameroon (Scorpiones: Scorpionidae). Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg, 17 (192): 139-151.</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">INSECTA</td></tr>
+<tr><td>COLEOPTERA</td><td>Lucanidae</td><td>Colophon spp. except the taxa mentioned below</td><td>Bartolozzi, L. (2005). Description of two new stag beetle species from South Africa (Coleoptera: Lucanidae). African Entomology, 13 (2): 347-352.</td></tr>
+<tr><td>  </td><td>Lucanidae</td><td>Colophon deschodti Colophon eastmani  Colophon nagaii  Colophon switalae  Colophon struempheri </td><td>JACOBS, C.T., SCHOLTZ, C.H., & STRÜMPHER, W.P. 2015. Taxonomy of Colophon Gray (Coleoptera: Lucanidae): new species and a status change. Zootaxa 4057(1): 135–142. Doi 10.11646/zootaxa.4057.1.9</td></tr>
+<tr><td>LEPIDOPTERA</td><td>Papilionidae</td><td>Achillides spp. [only the species of the Philippines]</td><td>Page, M. G. P. & Treadaway, C. G. (2004). Papilionidae of the Philippine Island. In: E. Bauer, and T. Frankenbach, Eds.). Butterflies of the world, Supplement 8. Goecke & Evers, Keltern. 58 pp.</td></tr>
+<tr><td>  </td><td>Papilionidae</td><td>Ornithoptera spp. Trogonoptera spp.  Troides spp. </td><td>Matsuka, H. (2001). Natural History of Birdwing Butterflies. 367 pp. Tokyo (Matsuka Shuppan).(ISBN 4-9900697-0-6).</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">HIRUDINOIDEA</td></tr>
+<tr><td>ARHYNCHOBDELLIDA</td><td>Hirudinidae</td><td>Hirudo medicinalis Hirudo verbana </td><td>Nesemann, H. & Neubert, E. (1999). Annelida: Clitellata: Branchiobdellida, Acanthobdellea, Hirudine.. Süßwasserfauna von Mitteleuropa, 6 (2), 178 pp., Berlin (Spektrum Akad. Verlag). ISBN 3-8274-0927-6.</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">BIVALVIA</td></tr>
+<tr><td>VENEROIDA</td><td>Tridacnidae</td><td>Tridacna lorenzi Tridacna mbalavuana (incl. T. tevoroa)  Tridacna noae (incl. T. ningaloo)  Tridacna squamosina </td><td>WoRMS Editorial Board. 2018. Genus Tridacna.</td></tr>
+<tr><td colspan="4">CEPHALOPODA</td></tr>
+<tr><td>  </td><td>Nautilidae</td><td>Nautilidae spp.</td><td>Family, genus and species information extracted from the Integrated Taxonomic Information Service (ITIS), an online reference. See Annex 5 of AC29 Doc.35 at https://cites.org/sites/default/files/eng/com/ac/29/E-AC29-35-A5.pdf</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td>ANTHOZOA & HYDROZOA</td><td>  </td><td>All CITES listed species</td><td>Taxonomic Checklist of all CITES listed Coral Species, based on information compiled by UNEP-WCMC 2012.</td></tr>
+</tbody>
+</table>
+
+FLORA
+
+|  |  | Taxon concerned | Taxonomic reference |
+| --- | --- | --- | --- |
+| AMARYLLIDACEAE, PRIMULACEAE |  | Cyclamen, Galanthus and Sternbergia | Davis, A.P. et al. (1999). CITES Bulb Checklist, compiled by the Royal Botanic Gardens, Kew, United Kingdom of Great Britain and Northern Ireland) as a guideline when making reference to the names of species of Cyclamen and Galanthus and Sternbergia |
+| APOCYNACEAE |  | Pachypodium spp. | CITES Aloe and Pachypodium Checklist (U. Eggli et al., 2001, compiled by Städtische Sukkulenten-Sammlung, Zurich, Switzerland, in collaboration with the Royal Botanic Gardens, Kew, United Kingdom of Great Britain and Northern Ireland) and its update: An Update and Supplement to the CITES Aloe & Pachypodium Checklist [J. M. Lüthy (2007), CITES Management Authority of Switzerland, Bern, Switzerland] as a guideline when making reference to the names of species of Aloe and Pachypodium. |
+|  |  | Hoodia spp. | Plants of Southern Africa: an annotated checklist. Germishuizen, G. & Meyer N. L. (eds.) (2003). Strelitzia 14: 150-151. National Botanical Institute, Pretoria, South Africa as a guideline when making reference to the names of species of Hoodia. |
+| CACTACEAE |  | All Cactaceae, except Aztekium valdezii | CITES Cactaceae Checklist third edition (2016, compiled by D. Hunt) as a guideline when making reference to names of species of Cactaceae, and the amendments and updates outlined in A Supplement to the CITES Cactaceae Checklist Third Edition 2016 (Hunt, D. 2018). The checklist and its supplement can be found on the website of the Royal Botanic Gardens, Kew, UK at ‘goo.gl/M26yL8’. |
+| CACTACEAE |  | Aztekium valdezii | Marcía, C.G.V., Vázquez, M.A.A. & Montes, S.A. (2013). A new species of Aztekium (Cactaceae) from Nuevo León, Mexico. Xerophilia, Special Issue 2: 3–25. Accessible at: https://cites.org/sites/default/files/eng/com/nc/flora/Aztekium-valdezii_Xerophilia-Special-Issue-No.-2-2013.pdf |
+| CYCADACEAE, STANGERIACEAE and ZAMIACEAE |  | All Cycadaceae, Stangeriaceae and Zamiaceae. | The World List of Cycads: CITES and Cycads: Checklist 2013 (Roy Osborne, Michael A. Calonje, Ken D. Hill, Leonie Stanberg and Dennis Wm. Stevenson) in CITES and Cycads a user’s guide (Rutherford, C. et al., Royal Botanic Gardens, Kew. UK 2013), as a guideline when making reference to names of species of Cycadaceae, Stangeriaceae and Zamiaceae. |
+| DICKSONIACEAE |  | Dicksonia species of the Americas. | Dicksonia species of the Americas (2003, compiled by Bonn Botanic Garden and the Federal Agency for Nature Conservation, Bonn, Germany) as a guideline when making reference to the names of species of Dicksonia. |
+| DROSERACEAE, NEPENTHACEAE, SARRACENIACEAE |  | Dionaea, Nepenthes and Sarracenia. | CITES Carnivorous Plant Checklist (B. von Arx et al., 2001, Royal Botanic Gardens, Kew, UK) as a guideline when making reference to names of species of Dionaea, Nepenthes and Sarracenia. |
+| EBENACEAE |  | Diospyros spp. – populations of Madagascar. (large tree species) | Lowry et al. 2022. Large tree species of Diospyros from Madagascar. Catalogue of Plants of Madagascar. http://legacy.tropicos.org/ProjectWebPortal.aspx?pagename=Diospyros_LT&projectid=17. Accessible at: https://cites.org/sites/default/files/eng/prog/timber/Ebenaceae_Diospyros_spp_populations_of_Madagascar_052022.pdf |
+| EUPHORBIACEAE |  | Succulent species of Euphorbia. | The CITES Checklist of Succulent Euphorbia Taxa (Euphorbiaceae), Second edition (S. Carter and U. Eggli, 2003, published by the Federal Agency for Nature Conservation, Bonn, Germany) as a guideline when making reference to the names of species of succulent euphorbias. |
+| LEGUMINOSAE |  | Dalbergia spp. | Cowell C., Williams E., Bullough L.-A., Grey J., Klitgaard B., Govaerts R., Andriambololonera S., Cervantes A., Crameri S., Lima, H.C., Lachenaud O., Li S.-J., Linares J.L., Phillipson P., Rakotonirina N., Wilding N., van der Burgt X., Vatanparast M., Barker A., Barstow M., Beentje H., and Plummer J. 2022. CITES Dalbergia Checklist. Commissioned by the CITES Secretariat. Royal Botanic Gardens, Kew, Surrey. Accessible in English, French and Spanish at: https://www.kew.org/science/our-science/science-services/UK-CITES/cites-resources |
+| LEGUMINOSAE |  | Dipteryx spp. | Carvalho, C.S., de Fraga, N.C., Cardoso, D.B.O.S. and Lima, H.C. 2020. Tonka, baru and cumaru: Nomenclatural overview, typification and updated checklist of Dipteryx (Leguminosae). Taxon. 69(3), pp.582-592 |
+| LEGUMINOSAE |  | Guibourtia pellegriniana | Leonard, J. (1949). Notulae Systematicae IV (Caesalpiniaceae-Amherstieae africanae americanaeque). Bulletin du Jardin Botanique de l'État a Bruxelles 19(4): 383–408. [Guibourtia pellegriniana treated on p. 405]. https://doi.org/10.2307/3666831 |
+| LEGUMINOSAE |  | Paubrasilia echinata | Gagnon, E., Bruneau, A., Hughes, C.E., de Queiroz, L. P. & Lewis, G.P. (2016). A new generic system for the pantropical Caesalpinia group (Leguminosae) as a guideline making reference to the name of this taxon. This reference can be found on ‘https://phytokeys.pensoft.net/articles.php?id=9203’, with free access, and additional information on the taxon can be found at ‘http://floradobrasil.jbrj.gov.br/reflora/listaBrasil’ |
+| LEGUMINOSAE |  | Platymiscium pleiostachyum | Bente B. Klitgraard (2005). Platymiscium (Leguminosae: Dalbergieae); biogeography, systematics, morphology, taxonomy and uses. Kew Bulletin. Vol. 60, No. 3 (2005), pp. 321 – 400 be used as a guideline when making reference to the name of this taxon. This reference is available online at “https://www.jstor.org/stable/4111062?seq=1#page_scan_tab_contents“. Free access is possible to this reference. |
+| LEGUMINOSAE |  | Pterocarpus spp. | Royal Botanical Gardens Kew, Plants of the World Online, (POWO, 2022) Accessible at: https://cites.org/sites/default/files/common/docs/Res/12_11/Pterocarpus_POWO_19-1-2023.pdf |
+| LILIACEAE |  | Aloe spp. | CITES Aloe and Pachypodium Checklist (U. Eggli et al., 2001, compiled by Städtische Sukkulenten-Sammlung, Zurich, Switzerland, in collaboration with the Royal Botanic Gardens, Kew, United Kingdom of Great Britain and Northern Ireland) and its update: An Update and Supplement to the CITES Aloe & Pachypodium Checklist [J. M. Lüthy (2007), CITES Management Authority of Switzerland, Bern, Switzerland] as a guideline when making reference to the names of species of Aloe and Pachypodium. |
+| LILIACEAE |  | Aloe spp. — supplement to existing standard reference | Klopper, R.R. 2021. Supplement of aloe spp. names and synonyms. Compiled by Dr. Ronell R Klopper, with input from the PC25 Nomenclature Working Group, 10 June 2021. PC25 Com. 5, Annex. Accessible at: https://cites.org/sites/default/files/eng/com/pc/25/com/E-PC25-Com-005.pdf |
+| MELIACEAE |  | Khaya spp. | Royal Botanical Gardens Kew, Plants of the World Online, (POWO, 2022) Accessible at: https://cites.org/sites/default/files/common/docs/Res/12_11/Khaya_POWO_19-1-2023.pdf |
+| ORCHIDACEAE |  | Orchidaceae - Appendix I listed orchids: Paphiopedilum spp., Phragmipedium spp., Aerangis ellisii, Cattleya jongheana, Cattleya lobata, Dendrobium cruentum, Mexipedium xerophyticum, Peristeria elata and Renanthera imschootiana | Govaerts, R., Caromel, A., Dhanda, S., Davis, F., Pavitt, A., Sinovas, P., & Vaglica, V. (2019). CITES Appendix I Orchid Checklist. Second Version, Royal Botanic Gardens, Kew, Surrey, and UNEP-WCMC, Cambridge. This reference should be used as a guideline when making reference to the names of Paphiopedilum spp., Phragmipedium spp., Aerangis ellisii, Cattleya jongheana, Cattleya lobata, Dendrobium cruentum, Mexipedium xerophyticum, Peristeria elata and Renanthera imschootiana. This reference can be found on the website of the Royal Botanic Gardens, Kew, UK at ‘goo.gl/M26yL8’. |
+| ORCHIDACEAE |  | Orchidaceae — Appendix II listed orchids: genera Aerangis (not A. ellisii), Aerides, Angraecum, Bletilla, Brassavola, Bulbophyllum, Calanthe, Catasetum, Cattleya (not C. jongheana or C. lobata), Coelogyne, Comparettia, Cymbidium, Cypripedium, Dendrobium (not D. cruentum), Disa, Dracula, Encyclia, Laelia, Masdevallia, Miltonia, Miltoniopsis, Phalaenopsis, Pleione, Renanthera, Rhynchostylis, Rossioglossum, Vanda, and Vandopsis | Dhanda, S., Caromel A., Govaerts R., Pavitt A., Bullough, L.-A. & Hartley, H. 2022. CITES Appendix II Orchid Checklist. Royal Botanic Gardens, Kew, Surrey, and UNEP-WCMC, Cambridge. Accessible at: https://www.kew.org/science/our-science/science-services/UK-CITES/cites-resources |
+| PALMAE |  | Dypsis decipiens and Dypsis decaryi. | Proposed Standard Reference for two CITES-listed palms endemic to Madagascar (CVPM 2016) based on the Catalogue of the Vascular Plants of Madagascar can be found as a pdf on the US Fish & Wildlife Service website. This is to be used as a guideline when making reference to Dypsis decipiens and Dypsis decaryi. See: http://www.fws.gov/international/ |
+| TAXACEAE |  | Taxus spp. | World Checklist and Bibliography of Conifers (A. Farjon, 2001) as a guideline when making reference to the names of species of Taxus. |
+| ZYGOPHYLLACEAE |  | Guaiacum spp. | Lista de especies, nomenclatura y distribución en el genero Guaiacum. Davila Aranda. P. & Schippmann, U. (2006): Medicinal Plant Conservation 12:50 as a guideline when making reference to the names of species of Guaiacum. |
+
+## ANNEX IX
+
+**1\. Codes for the indication in permits and certificates of the purpose of a transaction, referred to in Article 5(5)**
+
+B Breeding in captivity or artificial propagation
+
+E Educational. Where the transaction is for the purpose of use in educational and training programs or for display in an institution with a primarily educational remit.
+
+G Botanical gardens
+
+H Hunting trophies
+
+L Law enforcement/judicial/forensic. Where the transaction is for the purpose of transfer of specimens between, or in support of, government agencies for law enforcement, judicial or forensic purposes.
+
+M Medical (including bio-medical research). Where the transaction is for the purpose of medical or veterinary testing, diagnosis, treatment or research, including biomedical research.
+
+N Reintroduction or introduction into the wild. Where the transaction is for the purpose of reinforcement and reintroduction within a species’ natural and historical range, and for conservation introductions, comprising assisted colonization and ecological replacement, outside the species’ natural and historical range.
+
+P Personal
+
+Q Travelling exhibitions (sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public).
+
+S Scientific
+
+T Commercial
+
+Z Zoos. Where the transaction is for the purpose of movement of a specimen to a zoo and/or aquarium or by a zoo and/or aquarium for public display, care, reproduction, public education and awareness, scientific research, rescue, rehabilitation, or conservation.
+
+**2\. Codes for the indication in permits and certificates of the source of specimens, referred to in Article 5(6)**
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 4 )
+
+O Pre-Convention1
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+## ANNEX X — ANIMAL SPECIES REFERRED TO IN ARTICLE 62(1)
+
+**Aves**
+
+**ANSERIFORMES**
+
+**Anatidae**
+
+Anas laysanensis
+
+Anas querquedula
+
+Aythya nyroca
+
+Branta ruficollis
+
+Branta sandvicensis
+
+Oxyura leucocephala
+
+**COLUMBIFORMES**
+
+**Columbidae**
+
+Columba livia
+
+**GALLIFORMES**
+
+**Phasianidae**
+
+Catreus wallichii
+
+Colinus virginianus ridgwayi
+
+Crossoptilon crossoptilon
+
+Crossoptilon mantchuricum
+
+Lophophorus impejanus
+
+Lophura edwardsi
+
+Lophura swinhoii
+
+Polyplectron napoleonis
+
+Syrmaticus ellioti
+
+Syrmaticus humiae
+
+Syrmaticus mikado
+
+**PASSERIFORMES**
+
+**Fringillidae**
+
+Carduelis cucullata
+
+**PSITTACIFORMES**
+
+**Psittacidae**
+
+Cyanoramphus novaezelandiae
+
+Psephotellus dissimilis
+
+## ANNEX XI — Types of biological samples referred to in Article 18 and their use
+
+<table>
+<tbody><tr><td>Type of sample</td><td>Typical size of sample</td><td>Use of sample</td></tr>
+<tr><td>blood and its derivative components</td><td>5 ml maximum for liquid samples or dry blood sample on a microscope slide, filter paper or swab</td><td>biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis, including serology</td></tr>
+<tr><td>internal tissues (botanical or zoological), fixed</td><td>tissues (5 mm3-25 mm3) in a fixative or histological glass slide containing a +/-5um section of fixed tissue</td><td>Histology and electon microscopy to detect organisms and poisons; taxonomic research; biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis</td></tr>
+<tr><td>internal tissues (botanical or zoological), frozen</td><td>pieces of tissues (5 mm3-25 mm3)</td><td>biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis</td></tr>
+<tr><td>internal tissues (botanical or zoological), fresh (excluding ova, sperm and embryos)</td><td>pieces of tissues (5 mm3 - 25 mm3)</td><td>biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis</td></tr>
+<tr><td>external tissues including hair, skin, feathers, scales, bone, egg shell, teeth, ivory, horn, leaves, bark, seeds, fruit or flowers</td><td>Individual samples with or without fixative for ivory: pieces of ivory approximately 3 cm x 3 cm and 1 cm thick or less depending on analysis method, in accordance with ICCWC Guidelines on methods and procedures for ivory and laboratory analysis(1) for rhino horn: small amounts of powder/shavings sealed in a tamper proof sample bottle, in accordance with the Procedure for Rhino horn DNA Sampling(2) </td><td>species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis; age analysis; biomedical research</td></tr>
+<tr><td>buccal/cloacal/ mucus/nasal/urinary tract/rectal swabs</td><td>small amounts of tissue or cells on a swab in a tube</td><td>species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis, including serology; biomedical research</td></tr>
+<tr><td>cell lines and tissue cultures</td><td>no limitation of sample size</td><td>biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis; age analysis</td></tr>
+<tr><td>DNA or RNA (purified)</td><td>up to 0.5 ml volumes per individual specimen of purified DNA or RNA</td><td>biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis; age analysis</td></tr>
+<tr><td>secretions, (saliva, venom, milk, plant secretions)</td><td>1-5 ml in vials</td><td>production of anti-venom; biomedical research; species identification; determination of geographic origin; sex determination; individual identification; parentage testing; toxicology analysis; disease testing/diagnosis, including serology; age analysis</td></tr>
+<tr><td colspan="3">(1)  https://www.unodc.org/documents/Wildlife/Guidelines_Ivory.pdf  (2)  Republic of South Africa, Department of Environmental Affairs, Procedures for Rhino horn DNA Sampling. </td></tr>
+</tbody>
+</table>
+
+## ANNEX XII — Correlation Table
+
+| Regulation (EC) No 1808/2001 | This Regulation |
+| --- | --- |
+| Article 1 (a) and (b) | Article 1 (1) and (2) |
+| Article 1 (c) | — |
+| Article 1 (d), (e) and (f) | Article 1 (3), (4) and (5) |
+| — | Article 1 (6), (7) and (8) |
+| Article 2(1) and (2) | Article 2(1) and (2) |
+| — | Article 2(3) and (4) |
+| Article 2(3) and (4) | Article 2(5) and (6) |
+| Article 3 | Article 3 |
+| Article 4(1) and (2) | Article 4(1) and (2) |
+| Article 4(3) (a) and (b) | Article 5, first paragraph, (1) and (2) |
+| — | Article 5, first paragraph, (3) |
+| Article 4(3) (c), (d) and (e) | Article 5, first paragraph, (4), (5) and (6) |
+| Article 4(4) | Article 6 |
+| Article 4(5) | Article 7 |
+| Article 5 | Article 8 |
+| Article 6 | Article 9 |
+| Article 7(1) | Article 10 |
+| Article 7(2) | Article 11 |
+| Article 7(3) and (4) | Article 12 |
+| Article 8(1) | Article 13 |
+| Article 8(2) | Article 14 |
+| Article 8(3) | Article 15(1) and (2) |
+| Article 8(4) | Article 15(3) and (4) |
+| Article 8(5) | Article 16 |
+| Article 8(6) and (7) | Article 17 |
+| — | Article 18-19 |
+| Article 9 | Article 20 |
+| Article 10 | Article 21 |
+| Article 11 | Article 22 |
+| Article 12 | Article 23 |
+| Article 13 | Article 24 |
+| Article 14 | Article 25 |
+| Article 15 | Article 26 |
+| Article 16 | Article 27 |
+| Article 17 | Article 28 |
+| Article 18 | Article 29 |
+| — | Articles 30-44 |
+| Article 19 | Article 45 |
+| Article 20(1) | Article 46 |
+| Article 20(2) | Article 47 |
+| Article 20(3) (a) and (b) | Article 48(1) (a) and (b) |
+| Article 20(3) (c) | — |
+| Article 20(3) (d) and (e) | Article 48(1) (c) and (d) |
+| Article 20(4) | Article 49 |
+| Article 20(5) and (6) | Article 50(1) and (2) |
+| Article 21 | Article 51 |
+| Article 22 | Article 52 |
+| Article 23 | Article 53 |
+| Article 24 | Article 54 |
+| Article 25 | Article 55 |
+| Article 26 | Article 56 |
+| Article 27(1) first and second indents and subsequent text | Article 57(1) (a), (b) and (c) |
+| Article 27(2), (3) and (4) | Article 57(2), (3) and (4) |
+| Article 27(5) (a) and (b) | Article 57(5) (a) and (b) |
+| — | Article 57(5) (c) and (d) |
+| Article 28(1), first and second indents | Article 58(1) (a) and (b) |
+| Article 28(2) and (3) | Article 58(2) and (3) |
+| Article 28(4) (a) and (b) | Article 58(4) |
+| Article 29 | Article 59 |
+| Article 30 | Article 60 |
+| Article 31 | Article 61 |
+| Article 32 | Article 62 |
+| Article 33 | Article 63 |
+| Article 34(1) | — |
+| Article 34(2) (a) to (f) | Article 64(1) (a) to (f) |
+| Article 34(2) (g) and (h) | Article 64(2) |
+| Article 35(1) and (2) | Article 65(1) and (2) |
+| Article 35(3) (a) and (b) | Article 65(3) |
+| — | Article 65(4) |
+| Article 36(1) | Article 66(1), (2) and (3) |
+| Article 36(2) | Article 66(4) |
+| Article 36(3) and (4) | Article 66(5) and (6) |
+| — | Article 66(7) |
+| Article 36(5) | Article 66(8) |
+| Article 37 | Article 67 |
+| Article 38 | Article 68 |
+| Article 39 | Article 69 |
+| Article 40 | Article 70 |
+| Article 41 | Article 71 |
+| Article 42 | Article 74 |
+| Article 43 | Article 72 |
+| Article 44 | Article 73 |
+| Article 45 | Article 75 |
+| Annex I | Annex I |
+| Annex II | Annex II |
+| — | Annex III |
+| — | Annex IV |
+| Annex III | Annex V |
+| Annex IV | Annex VI |
+| Annex V | Annex VII |
+| Annex VI | Annex VIII |
+| Annex VII | Annex IX |
+| Annex VIII | Annex X |
+| — | Annex XI |
+| — | Annex XII |
+
+## ANNEX XIII — SPECIES AND POPULATIONS REFERRED TO IN ARTICLE 57(3a)
+
+Ceratotherium simum simum
+
+Hippopotamus amphibius
+
+Loxodonta africana
+
+Ovis ammon
+
+O. collium
+
+O. darwini
+
+O. jubata
+
+O. karelini
+
+O. polii
+
+O. severtzovi
+
+Panthera leo
+
+Ursus maritimus
+
+## ANNEX XIV
+
+Information to be submitted by an operation to apply for registration by the Secretariat of the Convention pursuant to Article 54a:
+
+(1) Name and address of the owner and manager of the operation.
+
+(2) Date of establishment of the operation.
+
+(3) Appendix-I animal species bred in the operation proposed for registration.
+
+(4) Numbers and ages (if known or appropriate) of males and females that comprise the breeding stock.
+
+(5) Evidence that the breeding stock has been obtained in accordance with Article 54(2).
+
+(6) Current stock (numbers, by sex and age, held in addition to the breeding stock referred to in point 4 above).
+
+(7) Information on the percentage mortalities, if possible reported by age and sex.
+
+(8) Documentation showing that the operation meets the requirements set out in Article 54(4).
+
+(9) Past, current and expected annual production of offspring and, where possible, information on:
+
+(a) the number of females producing offspring each year;
+
+(b) unusual fluctuations in the annual production of offspring (including an explanation of the probable cause).
+
+(10) An assessment of the anticipated need for, and source of, additional specimens to augment the breeding stock to increase the genetic pool of the captive population in order to avoid any deleterious inbreeding.
+
+(11) Type of product exported (e.g. live specimens, skins, hides, other body parts, etc.).
+
+(12) Detailed description of the marking methods (e.g. bands, tags, transponders, branding, etc.) used for the breeding stock and offspring and for the types of specimens (e.g. skins, meat, live animals, etc.) that will be exported.
+
+(13) Description of the facilities to house the current and expected captive stock, including security measures to prevent escapes and thefts. Detailed information should be provided on the number and size of breeding and rearing enclosures, tanks, ponds, egg incubation capacity, food production or supply, availability of veterinary services and record-keeping.
+
+(14) Description of the strategies used or activities conducted by the breeding operation to contribute to the conservation of wild populations of the species.
+
+(15) Assurance that the operation shall be carried out at all stages in a humane (non-cruel) manner.
+
+( 1 ) OJ L 242, 7.9.2012, p. 13.
+
+( 1 ) OJ L 344, 7.12.1983, p. 1.
+
+( 2 ) Commission Implementing Regulation (EU) 2015/57 of 15 January 2015 amending Implementing Regulation (EU) No 792/2012 as regards the rules for the design of permits, certificates and other documents provided for in Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein and in Commission Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 (OJ L 10, 16.1.2015, p. 19).
+
+( 3 ) To be used only in conjunction with another source code.

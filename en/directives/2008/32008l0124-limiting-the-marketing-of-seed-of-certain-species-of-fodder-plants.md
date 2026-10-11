@@ -54,6 +54,7 @@ HAS ADOPTED THIS DIRECTIVE:
 
 1\. Member States shall provide that it shall not be permitted to place on the market seed of:
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>—</td><td>Poa pratensis L.</td></tr>
 </tbody>
 </table>
@@ -179,11 +180,13 @@ HAS ADOPTED THIS DIRECTIVE:
 </table>
 </td><td>hairy vetch</td></tr>
 </tbody>
+</table>
 
 unless it has been officially certified as ‘basic seed’ or ‘certified seed’.
 
 2\. Member States shall provide that it shall not be permitted to place on the market seed of:
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>—</td><td>Glycine max (L.) Merr.</td></tr>
 </tbody>
 </table>
@@ -193,6 +196,7 @@ unless it has been officially certified as ‘basic seed’ or ‘certified seed
 </table>
 </td><td>linseed</td></tr>
 </tbody>
+</table>
 
 unless it has been officially certified as ‘basic seed’, ‘certified seed, first generation’ or ‘certified seed, second generation’.
 

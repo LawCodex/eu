@@ -1,0 +1,68 @@
+---
+title: "Council Implementing Regulation (EU) No 705/2012 of 1 August 2012 implementing Article 11(4) of Regulation (EU) No 753/2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan"
+identifier: "32012R0705"
+eli: "http://data.europa.eu/eli/reg_impl/2012/705/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-08-01
+entry_into_force: 2012-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0705"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Regulation (EU) No 705/2012 of 1 August 2012 implementing Article 11(4) of Regulation (EU) No 753/2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan
+
+**COUNCIL IMPLEMENTING REGULATION (EU) No 705/2012**
+
+**of 1 August 2012**
+
+**implementing Article 11(4) of Regulation (EU) No 753/2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EU) No 753/2011 of 1 August 2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan (1), and in particular Article 11(4) thereof,
+
+Whereas:
+
+(1) On 1 August 2011, the Council adopted Regulation (EU) No 753/2011.
+
+(2) On 19 July 2012, the Committee established pursuant to paragraph 30 of United Nations Security Council Resolution 1988 (2011) deleted two persons from the list of individuals, groups, undertakings and entities subject to restrictive measures.
+
+(3) Annex I to Regulation (EU) No 753/2011 should be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The entries for the persons appearing in the Annex to this Regulation are deleted from the list set out in Annex I to Regulation (EU) No 753/2011.
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 1 August 2012.
+
+For the Council
+
+The President
+
+A. D. MAVROYIANNIS
+
+(1) OJ L 199, 2.8.2011, p. 1.
+
+## ANNEX
+
+**Entries referred to in Article 1**
+
+|  | (1) | Tahis (alias Tahib). |
+| --- | --- | --- |
+
+|  | (2) | Abdul Wasay Mu’tasim Agha. (alias (a) Mutasim Aga Jan, (b) Agha Jan, (c) Abdul Wasay Agha Jan Motasem). |
+| --- | --- | --- |

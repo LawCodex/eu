@@ -30,10 +30,12 @@ amending Directive 86/465/EEC concerning the Community list of less-favoured far
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Commission Decision of 22 April 1993</td><td> L 99</td><td>1</td><td>26.4.1993</td></tr>
 <tr><td> M3</td><td>Commission Decision of 13 January 1995</td><td> L 11</td><td>26</td><td>17.1.1995</td></tr>
+</table>
 
 COUNCIL DIRECTIVE 92/92/EEC
 
@@ -129,6 +131,7 @@ Mindre gynnade områden i enlighet med artikel 3.3 i direktiv 75/268/EEG
 
 Land: SACHSEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>14171</td><td>Annaberg</td><td>649</td></tr>
 <tr><td>14171150</td><td>Hammerunterwiesenthal</td><td>210</td></tr>
@@ -145,6 +148,7 @@ Land: SACHSEN
 <tr><td>*Gemarkungen*</td><td>  </td></tr>
 <tr><td>*Gem. Tellerhäuser</td><td>9</td></tr>
 </tbody>
+</table>
 
 ANEXO II
 
@@ -194,6 +198,7 @@ Land: NIEDERSACHSEN (Ergänzung)
 
 Von Mecklenburg-Vorpommern nach Niedersachsen umgegliederte Gemeinden:
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>335</td><td>Landkreis Lüneburg</td><td>15828</td></tr>
 <tr><td rowspan="4">335009</td><td>Bleckede, Stadt</td><td>  </td></tr>
@@ -202,9 +207,11 @@ Von Mecklenburg-Vorpommern nach Niedersachsen umgegliederte Gemeinden:
 <tr><td>*Gem. Neu-Wendischthum</td><td>299</td></tr>
 <tr><td>335049</td><td>Neuhaus</td><td>14 907</td></tr>
 </tbody>
+</table>
 
 Land: BERLIN (OST)
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td rowspan="7">11000</td><td>Berlin (Ost)</td><td>4901</td></tr>
 <tr><td>*Hellersdorf</td><td>800</td></tr>
@@ -214,9 +221,11 @@ Land: BERLIN (OST)
 <tr><td>*Hohenschönhausen</td><td>200</td></tr>
 <tr><td>*Köpenick</td><td>801</td></tr>
 </tbody>
+</table>
 
 Land: BRANDENBURG
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td rowspan="7">12051</td><td>Brandenburg a. d. Havel, St.</td><td>3450</td></tr>
 <tr><td>*Gemarkungen*</td><td>  </td></tr>
@@ -1672,9 +1681,11 @@ Land: BRANDENBURG
 <tr><td>12073632</td><td>Wolletz</td><td>415</td></tr>
 <tr><td>12073636</td><td>Wollschow</td><td>1 539</td></tr>
 </tbody>
+</table>
 
 Land: MECKLENBURG-VORPOMMERN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>13051</td><td>Bad Doberan</td><td>24431</td></tr>
 <tr><td>13051008</td><td>Benitz</td><td>799</td></tr>
@@ -2344,9 +2355,11 @@ Land: MECKLENBURG-VORPOMMERN
 <tr><td>13002000</td><td>Weitin</td><td>450</td></tr>
 <tr><td>13002000</td><td>Küssow</td><td>507</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>14166</td><td>Plauen, Stadt</td><td>2797</td></tr>
 <tr><td rowspan="13">14166000</td><td>Plauen, Stadt</td><td>  </td></tr>
@@ -3107,9 +3120,11 @@ Land: SACHSEN
 <tr><td>14389350</td><td>Wildenhain</td><td>759</td></tr>
 <tr><td>14389370</td><td>Wörblitz</td><td>913</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN-ANHALT
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>151</td><td>Kreis Anhalt-Zerbst</td><td>  </td></tr>
 <tr><td>151002</td><td>Bornum</td><td>1 636</td></tr>
@@ -3447,9 +3462,11 @@ Land: SACHSEN-ANHALT
 <tr><td>370111</td><td>Thielbeer</td><td>695</td></tr>
 <tr><td>370126</td><td>Ziemendorf</td><td>635</td></tr>
 </tbody>
+</table>
 
 Land: THÜRINGEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>16061</td><td>Kreis Eichsfeld</td><td>28242</td></tr>
 <tr><td>16061002</td><td>Asbach-Sickenberg</td><td>241</td></tr>
@@ -4355,6 +4372,7 @@ Land: THÜRINGEN
 <tr><td>*Gem. Wichtshausen</td><td>142</td></tr>
 <tr><td>*Gem. Vesser</td><td>113</td></tr>
 </tbody>
+</table>
 
 ANEXO III
 
@@ -4402,6 +4420,7 @@ Mindre gynnade områden i enlighet med artikel 3.5 i direktiv 75/268/EEG
 
 Land: BRANDENBURG
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>12073</td><td>Kreis Uckermark</td><td>8494</td></tr>
 <tr><td>12073064</td><td>Blumberg</td><td>1 348</td></tr>
@@ -4415,6 +4434,7 @@ Land: BRANDENBURG
 <tr><td>*Gem. Heinersdorf</td><td>1 200</td></tr>
 <tr><td>12073580</td><td>Vierraden</td><td>1 491</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN
 
@@ -4426,6 +4446,7 @@ Land: SACHSEN
 
 Land: THÜRINGEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>16053</td><td>Jena, Stadt</td><td>482</td></tr>
 <tr><td rowspan="8">16053000</td><td>Jena, Stadt</td><td>  </td></tr>
@@ -4437,6 +4458,7 @@ Land: THÜRINGEN
 <tr><td>*Gem. Wöllnitz\Lobeda</td><td>59</td></tr>
 <tr><td>*Gem. Göschwitz</td><td>38</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1. Directive as last amended by Regulation (EEC) No 797/85 (OJ No L 93, 30. 3. 1985, p. 1).
 

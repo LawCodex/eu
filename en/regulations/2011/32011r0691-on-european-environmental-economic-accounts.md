@@ -1,0 +1,1668 @@
+---
+title: "Regulation (EU) No 691/2011 of the European Parliament and of the Council of 6 July 2011 on European environmental economic accounts Text with EEA relevance"
+identifier: "32011R0691"
+eli: "http://data.europa.eu/eli/reg/2011/691/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-07-06
+entry_into_force: 2011-07-06
+last_amended: 2026-01-01
+consolidated_version: "02011R0691-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0691-20260101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 691/2011 of the European Parliament and of the Council of 6 July 2011 on European environmental economic accounts Text with EEA relevance
+
+**REGULATION (EU) No 691/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2011**
+
+**on European environmental economic accounts**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 538/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 </td><td> L 158</td><td>113</td><td>27.5.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/125 of 19 November 2021 </td><td> L 20</td><td>40</td><td>31.1.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/3024 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3024</td><td>1</td><td>6.12.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/472 of 2 September 2024 </td><td> L 472</td><td>1</td><td>11.3.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1131 of 26 March 2025 </td><td> L 1131</td><td>1</td><td>4.6.2025</td></tr>
+</table>
+
+**REGULATION (EU) No 691/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2011**
+
+**on European environmental economic accounts**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation establishes a common framework for the collection, compilation, transmission and evaluation of European environmental economic accounts, for the purpose of setting up environmental economic accounts as satellite accounts to the European System of Accounts 2010 (ESA 2010) set out in Regulation (EU) No 549/2013 of the European Parliament and of the Council ( 1 ), by providing methodology, common standards, definitions, classifications and accounting rules intended to be used for compiling environmental economic accounts.
+
+This Regulation also contributes to providing sound information on key trends of, pressures on, and drivers for environmental change and thereby supports monitoring and evaluation of the Union’s progress in meeting its environmental objectives laid down in Union law as well as its international environmental commitments.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(1) ‘air emission’ means the physical flow of gaseous or particulate materials from the national economy (production or consumption processes) to the atmosphere (as part of the environmental system);
+
+(2) ‘environmentally related tax’ means a tax whose tax base is a physical unit (or a proxy of a physical unit) of something that has a proven, specific negative impact on the environment, and which is identified in ESA 2010  as a tax;
+
+(3) ‘economy-wide material flow accounts (EW-MFA)’ means consistent compilations of the material inputs into national economies, the changes of material stock within the economy and the material outputs to other economies or to the environment;
+
+(4) ‘environmental protection expenditure’ means the economic resources devoted by resident units to environmental protection. Environmental protection includes all activities and actions which have as their main purpose the prevention, reduction and elimination of pollution and of any other degradation of the environment. Those activities and actions include all measures taken in order to restore the environment after it has been degraded. Activities which, while beneficial to the environment, primarily satisfy the technical needs or the internal requirements for hygiene or safety and security of an enterprise or other institution are excluded from this definition;
+
+(5) ‘environmental goods and services sector’ means the production activities of a national economy that generate environmental products (environmental goods and services). Environmental products are products that have been produced for the purpose of environmental protection, as referred to in point (4), and resource management. Resource management includes the preservation, maintenance and enhancement of the stock of natural resources and therefore the safeguarding of those resources against depletion;
+
+(6) ‘physical energy flow accounts’ means consistent compilations of the physical energy flows into national economies, the flows circulating within the economy and the outputs to other economies or to the environment;
+
+(7) ‘forest accounts’ means asset accounts for forest resources, comprising wooded land and timber on wooded land, and economic activity accounts for forestry and logging;
+
+(8) ‘environmental subsidies and similar transfers’ means current and capital transfers within the meaning of the ESA 2010, intended to support activities protecting the environment and safeguarding natural resources and related products;
+
+(9) ‘ecosystem accounts’ means a set of accounts designed to provide consistent information on the extent and condition of ecosystems and on the flows of services from those ecosystems to the socioeconomic system.
+
+## Article 3 — Modules
+
+1\. The environmental economic accounts to be compiled within the common framework referred to in Article 1 shall be grouped in the following modules:
+
+(a) a module for air emissions accounts, as set out in Annex I;
+
+(b) a module for environmentally related taxes by economic activity, as set out in Annex II;
+
+(c) a module for economy-wide material flow accounts, as set out in Annex III;
+
+(d) a module for environmental protection expenditure accounts, as set out in Annex IV;
+
+(e) a module for environmental goods and services sector accounts, as set out in Annex V;
+
+(f) a module for physical energy flow accounts, as set out in Annex VI;
+
+(g) a module for forest accounts, as set out in Annex VII;
+
+(h) a module for environmental subsidies and similar transfers accounts, as set out in Annex VIII;
+
+(i) a module for ecosystem accounts, as set out in Annex IX.
+
+2\. Each Annex shall contain the following information:
+
+(a) the objectives for which the accounts are to be compiled;
+
+(b) the coverage of the accounts;
+
+(c) the list of characteristics for which data are to be compiled and transmitted;
+
+(d) the first reference year, frequency and transmission deadlines for the compilation of the accounts;
+
+(e) the reporting tables;
+
+(f) the maximum duration of the transitional periods referred to in Article 8 during which the Commission may grant derogations.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 9 where necessary to take account of environmental, economic and technical developments:
+
+(a) to supplement this Regulation by providing methodological guidance;
+
+(b) to amend Annexes I to VI as regards the information referred to in paragraph 2, points (c), (d) and (e);
+
+(c) to amend Annexes VII, VIII and IX as regards the information referred to in paragraph 2, points (c), (d) and (e), provided that:
+
+(i) the list of characteristics referred to in paragraph 2, point (c), is only amended by up to four characteristics for each Annex every 3 years, and
+
+(ii) the information referred to in paragraph 2, point (d), is amended only in order to set out the first reference year, frequency and transmission deadlines of any added characteristics.
+
+In exercising its power pursuant to this paragraph, the Commission shall ensure that its delegated acts do not impose a significant additional burden on the Member States or on the respondents. The Commission shall duly justify its delegated acts.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 9 in order to specify the energy products referred to in Section 3 of Annex VI, based on the lists set out in the Annexes to Regulation (EC) No 1099/2008 of the European Parliament and of the Council ( 2 ).
+
+Such delegated acts shall not impose a significant additional burden on the Member States or on the respondents. When establishing and subsequently updating the lists referred to in the first subparagraph, the Commission shall duly justify the actions, using, where appropriate, input from relevant experts on a cost-effectiveness analysis, including an assessment of the burden on respondents and of the production costs.
+
+5\. In order to facilitate a uniform application of Annex V, the Commission shall, by 31 December 2015, by means of implementing acts, establish an indicative compendium of environmental goods and services and of the economic activities to be covered by Annex V based on the following categories: environmental specific services, environmental sole purpose products (connected products), adapted goods and environmental technologies. The Commission shall update the compendium where necessary.
+
+The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+
+## Article 4 — Pilot and feasibility studies
+
+1\. The Commission shall draw up a programme for pilot and feasibility studies to be carried out by Member States on a voluntary basis in order to develop reporting and improve data quality, establish long time series and develop methodology. The programme shall include pilot studies to test the new environmental economic account modules. In drawing up the programme, the Commission shall give particular attention to modules producing data on energy subsidies, including fossil fuel subsidies, and ensure that no additional administrative or financial burdens are placed on the Member States and on the respondents.
+
+2\. The findings of the pilot studies shall be evaluated and published by the Commission, taking into account the benefits of the availability of the data in relation to the cost of collection and the administrative burden of responding. These findings shall be taken into account in the proposals for introducing new environmental economic account modules that the Commission may include in the report referred to in Article 10.
+
+3\. In addition to the programme for pilot and feasibility studies, the Commission (Eurostat) shall by 27 June 2026, in cooperation with the Member States, carry out an assessment of methodological possibilities and the feasibility of monetary valuation, possible reporting values where those values are missing and possible alternative ways of measuring for ecosystem services accounts, taking into account international standards of the System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA EA). Based on the results of that assessment and those studies, the Commission may submit to the European Parliament and to the Council a legislative proposal amending this Regulation in order to include the monetary ecosystem accounts.
+
+## Article 5 — Data collection
+
+1\. In accordance with the Annexes to this Regulation, Member States shall collect the necessary data for the observation of the characteristics referred to in Article 3(2)(c).
+
+2\. Member States shall collect the necessary data using a combination of the different sources specified below and applying the principle of administrative simplification:
+
+(a) surveys;
+
+(b) statistical estimation procedures in cases where some of the characteristics have not been observed for all of the units;
+
+(c) administrative sources;
+
+(d) any other relevant sources, methods or innovative approaches insofar as they allow for the production of environmental economic accounts that are comparable and compliant with the applicable specific quality requirements.
+
+Member States which decide to use the sources, methods or innovative approaches referred to in point (d) shall inform the Commission (Eurostat) as soon as possible before the end of the year preceding the implementation of the method and shall provide details concerning the quality of the data obtained.
+
+3\. Member States shall inform the Commission and shall provide details concerning the methods and sources used.
+
+## Article 6 — Transmission to the Commission (Eurostat)
+
+1\. Member States shall transmit to the Commission (Eurostat) the data set out in the Annexes, including the confidential data, within the time limits specified therein.
+
+2\. The data shall be transmitted in an appropriate technical format, which is to be laid down by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+
+## Article 7 — Quality assessment
+
+1\. For the purposes of this Regulation, the quality criteria as referred to in Article 12(1) of Regulation (EC) No 223/2009 shall apply to the data to be transmitted.
+
+2\. Member States shall provide the Commission (Eurostat) with a report on the quality of the data transmitted.
+
+3\. In applying the quality criteria, referred to in paragraph 1, to the data covered by this Regulation, the Commission shall adopt implementing acts with a view to defining the modalities, structure and periodicity of the quality reports. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+
+4\. The Commission (Eurostat) shall assess the quality of the data transmitted and may, within 1 month of receipt of the data, request the Member State in question to submit additional information regarding the data or a revised dataset, as appropriate.
+
+## Article 8 — Derogations
+
+1\. The Commission may adopt implementing acts granting derogations to Member States in so far as their national statistical systems require major adaptions. Derogations may be granted from the Annexes during the transitional period referred to therein. Derogations may also be granted from the implementing measures and delegated acts adopted pursuant to this Regulation. Those derogations may be granted for a maximum duration of 2 years. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+
+The first subparagraph of this paragraph shall not apply to changes resulting from modifications in classifications and nomenclatures or changes to accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013.
+
+2\. For the purpose of obtaining a derogation from Annexes VII, VIII and IX under paragraph 1, the Member State concerned shall submit a duly justified request to the Commission by 27 December 2026. For the purpose of obtaining a derogation under paragraph 1 from implementing measures or delegated acts adopted pursuant to this Regulation which enter into force after 26 December 2024, the Member State concerned shall submit a duly justified request to the Commission within three months of the date of entry into force of the measure or act concerned.
+
+## Article 8a — Financing
+
+1\. For the implementation of this Regulation, the Union shall provide financial support from the Single Market Programme established by Regulation (EU) 2021/690 of the European Parliament and of the Council ( 3 ) to the national statistical institutes and other national authorities referred to in Article 5(2) of Regulation (EC) No 223/2009, for:
+
+(a) developing methodologies for statistics under this Regulation, including the participation of Member States in the representative pilot and feasibility studies referred to in Article 4;
+
+(b) improving the statistical quality of accounts, in particular for the development or enhancement of processes, including digitally based solutions that aim to produce statistics of a higher quality;
+
+(c) improving timeliness of accounts and reducing the administrative and reporting burden.
+
+2\. The amount of the Union financial contribution under this Article shall be established in accordance with the rules of the Single Market Programme as part of the annual budgetary procedure, subject to the availability of funding. The budgetary authority shall determine the appropriation available each year.
+
+3\. For the implementation of this Regulation, a financial contribution may also be made available to the national statistical institutes and other national authorities referred to in Article 5(2) of Regulation (EC) No 223/2009 from other applicable financial programmes of the Union in accordance with the rules of such programmes.
+
+## Article 9 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3(3) and (4) and Article 10 shall be conferred on the Commission for a period of five years from 11 August 2011. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3(3) and (4) and Article 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 3(3) or (4) or Article 10 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.
+
+## Article 9a — Environmental Economic Account Statistical Data Portal (‘Dashboard’)
+
+1\. The Commission (Eurostat) shall establish an Environmental Economic Account Statistical Data Portal (‘Dashboard’), which shall summarise the key indicators from environmental economic accounts in a user-friendly and interactive way.
+
+The data portal shall display the data provided by Member States in each of the modules set out in this Regulation and on the climate change mitigation investments referred to in Article 10, fourth paragraph.
+
+2\. The data portal shall be operational by 31 December 2024 and shall be updated by the Commission (Eurostat) once a year. The data portal shall be made publicly available on the Eurostat website.
+
+## Article 10 — Report and review
+
+By 31 December 2013 and every 3 years thereafter, the Commission shall submit a report on the implementation of this Regulation to the European Parliament and the Council. That report shall evaluate in particular the quality of the data transmitted, the data collection methods, the administrative burden on the Member States and on the respondent units, as well as the feasibility and effectiveness of those statistics.
+
+The report shall, if appropriate and taking into account the findings referred to in Article 4(2), be accompanied by proposals:
+
+— for introducing new environmental economic account modules, such as water accounts (quantitative and qualitative), resource management expenditure accounts, subsidies or support measures potentially harmful to the environment and waste accounts;
+
+— designed to further improve data quality and data collection methods, thereby improving the coverage and comparability of data and reducing the administrative burden on business and administration.
+
+By 31 December 2024 and at least every 2 years thereafter, the Commission (Eurostat) shall issue a digital publication that contains data and statistics on climate change mitigation, including investments, compiled from the relevant data available from the environmental economic account modules and, if appropriate, from other data sources.
+
+The Commission shall adopt delegated acts in accordance with Article 9 in order to amend, as appropriate, Annex V, Section 3, to include characteristics regarding other investments on climate change mitigation. The data included in the digital publication referred to in the third paragraph of this Article shall provide a breakdown of that data per Member State, including on investments, and shall cover all sectors of the economy and activities.
+
+By 27 December 2026, the Commission shall assess the quality of the data available on energy subsidies, including fossil fuel subsidies, on climate change adaptation and on water and, where appropriate, submit a legislative proposal to the European Parliament and to the Council for the introduction of new environmental economic account modules for energy subsidies, including fossil fuel subsidies; climate change adaptation, including expenditure on it, and for water accounts.
+
+## Article 11 — Committee
+
+1\. The Commission shall be assisted by the European Statistical System Committee established by Regulation (EC) No 223/2009. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 12 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**MODULE FOR AIR EMISSIONS ACCOUNTS**
+
+**Section 1**
+
+**OBJECTIVES**
+
+Air emissions accounts record and present data on air emissions in a way that is compatible with the system of national accounts. They record national economies’ emissions to air in a breakdown by emitting economic activity as delineated in ESA 2010  . Economic activities comprise production and consumption.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for air emissions accounts by the Member States. Those data will be developed in a way that links emissions to economic production and consumption activities by industries and households. The direct emissions data reported under this Regulation will be combined with the economic input-output tables, supply and use tables and household consumption data that are already reported to the Commission (Eurostat) as part of ESA 2010  reporting.
+
+**Section 2**
+
+**COVERAGE**
+
+Air emissions accounts have the same system boundaries as ESA 2010  and are also based on the residence principle.
+
+In accordance with ESA 2010  , the concept of residence is based on the following principle: a unit is said to be a resident unit of a country when it has a centre of economic interest in the economic territory of that country, that is, when it engages for an extended period (1 year or more) in economic activities in that territory.
+
+Air emissions accounts record emissions arising from the activities of all resident units, regardless of where these emissions actually occur geographically.
+
+Air emissions accounts record the flows of residual gaseous and particulate materials originating from the national economy and flowing into the atmosphere. For the purpose of this Regulation, the term ‘atmosphere’ refers to a component of the environmental system. The system boundary relates to the borderline between the national economy (as part of the economic system) and the atmosphere (as part of the environmental system). After having crossed the system boundary, the emitted substances are out of any human control and become part of natural materials cycles and may induce several types of environmental impacts.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce statistics on the emissions of the following air pollutants:
+
+| Name | Symbol | Reporting unit |
+| --- | --- | --- |
+| Carbon dioxide without emissions from biomass | CO2 | 1 000 tonnes (Gg) |
+| Carbon dioxide from biomass | Biomass CO2 | 1 000 tonnes (Gg) |
+| Nitrous oxide | N2O | tonnes (Mg) |
+| Methane | CH4 | tonnes (Mg) |
+| Perfluorocarbons | PFCs | tonnes (Mg) CO2-equivalents |
+| Hydrofluorocarbons | HFCs | tonnes (Mg) CO2-equivalents |
+| Sulphur hexafluoride and nitrogen trifluoride | SF6 NF3 | tonnes (Mg) CO2-equivalents |
+| Nitrogen oxides | NOX | tonnes (Mg) NO2-equivalents |
+| Non-methane volatile organic compounds | NMVOCs | tonnes (Mg) |
+| Carbon monoxide | CO | tonnes (Mg) |
+| Particulate matter < 10 μm | PM10 | tonnes (Mg) |
+| Particulate matter < 2,5 μm | PM2,5 | tonnes (Mg) |
+| Sulphur oxides | SOX | tonnes (Mg) SO2-equivalents |
+| Ammonia | NH3 | tonnes (Mg) |
+
+All data shall be reported to one decimal place.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 21 months of the end of the reference year.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27 totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is the year in which this Regulation enters into force.
+
+5\. In the first data transmission, Member States shall include annual data from 2008 to the first reference year.
+
+6\. In each subsequent data transmission to the Commission, Member States shall provide annual data for the years n-4, n-3, n-2, n-1 and n, where n is the reference year.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. For each of the characteristics referred to in Section 3, data shall be produced by a hierarchical classification of economic activities, NACE Rev. 2 (A*64 aggregation level), fully compatible with ESA 2010  . In addition, data shall be produced for:
+
+— Household air emissions,
+
+— Bridging items, by which is meant reporting items which clearly reconcile the differences between the air emissions accounts reported under this Regulation and those data reported in official national air emission inventories.
+
+2\. The hierarchical classification referred to in paragraph 1 is as follows:
+
+Air emissions by industry – NACE Rev. 2 (A*64)
+
+Household air emissions
+
+— Transport
+
+— Heating/cooling
+
+— Other
+
+Bridging items
+
+Total air emission accounts (production activities + households) for each of the characteristics referred to in Section 3
+
+Less national residents abroad
+
+— National fishing vessels operating abroad
+
+— Land transport
+
+— Water transport
+
+— Air transport
+
+Plus non-residents on the territory
+
++ Land transport
+
++ Water transport
+
++ Air transport
+
+(+ or –) Other adjustments and statistical discrepancies
+
+= Total emissions of pollutant X as reported to UNFCCC ( 4 )/CLRTAP ( 5 )
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years, from the first transmission deadline.
+
+## ANNEX II
+
+**MODULE FOR ENVIRONMENTALLY RELATED TAXES BY ECONOMIC ACTIVITY**
+
+**Section 1**
+
+**OBJECTIVES**
+
+Statistics on environmentally related taxes record and present data seen from the perspective of the entities paying the taxes in a way that is fully compatible with the data reported under ESA 2010  . They record national economies’ environmentally related tax revenues according to economic activity. Economic activities comprise production and consumption.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for environmentally related tax revenues by economic activity by the Member States.
+
+The environmentally related tax statistics can make use of the tax statistics and government finance statistics directly, but there are some advantages in using the tax data reported under ESA 2010  if this is possible.
+
+The environmentally related tax statistics are based on the amounts evidenced by assessments and declarations or time-adjusted cash receipts, to ensure consistency with ESA 2010  and improve international comparability.
+
+The ESA 2010  also contains information about which industries and sectors are paying the taxes. Information on taxes reported under ESA 2010  can be found in the institutional sector accounts and supply and use tables.
+
+**Section 2**
+
+**COVERAGE**
+
+Environmentally related taxes have the same system boundaries as ESA 2010  and consist of compulsory, unrequited payments, in cash or in kind, which are levied by general government or by the institutions of the Union.
+
+Environmentally related taxes fall within the following ESA 2010  categories:
+
+— taxes on production and imports (D.2),
+
+— current taxes on income, wealth, etc. (D.5),
+
+— capital taxes (D.91).
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce statistics on environmentally related taxes according to the following characteristics:
+
+— energy taxes,
+
+— transport taxes,
+
+— pollution taxes,
+
+— resource taxes,
+
+Member States shall also report, as a distinct characteristic, government tax revenue recorded in the European System of Accounts in relation to their participation in the EU Emissions Trading System.
+
+Member States shall also report, as a distinct characteristic, other environmentally related taxes which have been included in total energy, transport, pollution or resource taxes and are levied on carbon content of fuels (other CO2 taxes).
+
+All data shall be reported in million national currency.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 16 months of the end of the reference year. This applies from the reference year 2020.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27 totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is the year 2020.
+
+5\. In each data transmission to the Commission, Member States shall provide annual data for the years n-4, n-3, n-2, n-1 and n, where n is the reference year. Member States may provide any available data for the years preceding 2016.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+For each of the characteristics referred to in Section 3, data shall be reported from the perspective of the entities paying the taxes.
+
+For producers, data shall be reported on a breakdown by hierarchical classification of economic activities, NACE Rev.2 (A*64 aggregation level as set out in ESA 2010  ).
+
+For consumers, data shall be reported for:
+
+— households,
+
+— non-residents.
+
+Where the tax cannot be attributed to one of the above groupings of activities, the data shall be reported as not allocated.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years, from the first transmission deadline.
+
+## ANNEX III
+
+**MODULE FOR ECONOMY-WIDE MATERIAL FLOW ACCOUNTS (EW-MFA)**
+
+**Section 1**
+
+**OBJECTIVES**
+
+EW-MFA covers all solid, gaseous, and liquid materials, except for flows of air and water, measured in mass units per year. Like the system of national accounts, EW-MFA serves two major purposes. The detailed material flows provide a rich empirical database for numerous analytical studies. They are also used to compile different economy-wide material flow indicators for national economies.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for EW-MFA by the Member States.
+
+**Section 2**
+
+**COVERAGE**
+
+The distinction between stocks and flows is a fundamental principle of a material flow system. In general, a flow is a variable that measures a quantity per time period, whereas a stock is a variable that measures a quantity at a certain point in time. EW-MFA is a flow concept. It measures the flows of material inputs, outputs and stock changes within the economy in mass units per year.
+
+EW-MFA is coherent with the principles of the system of national accounts, such as the residence principle. It accounts for material flows associated with the activities of all resident units of a national economy regardless of their geographic location.
+
+In EW-MFA, there are two types of material flows across system boundaries that are relevant:
+
+(1) material flows between the national economy and its natural environment. This consists of the extraction of materials (i.e. raw, crude or virgin) from and the discharge of materials (often called residuals) to the natural environment;
+
+(2) material flows between the national economy and the rest of the world economy. This encompasses imports and exports.
+
+All flows that cross these system boundaries are included in EW-MFA, as well as the additions to the man-made stocks. All other material flows within the economy are not represented in EW-MFA. This means that the national economy is treated in its entirety in EW-MFA and e.g. inter-industry deliveries of products are not described. Natural flows within the natural environment are likewise excluded.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce statistics on the characteristics listed in Section 5 for EW-MFA where applicable.
+
+1\. Domestic extraction (DE) covers the annual amount of solid, liquid and gaseous materials (excluding air and water) extracted from the natural environment to be used as inputs in the economy.
+
+2\. Physical imports and physical exports covers all imported or exported commodities in mass units. Traded commodities comprise goods at all stages of processing from raw products to finished goods.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 16 months of the end of the reference year. This applies from the reference year 2021.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27 totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2021.
+
+5\. In each data transmission to the Commission, Member States shall provide annual data for the years n-4, n-3, n-2, n-1 and n, where n is the reference year. Member States may provide any available data for the years preceding 2017.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+Data, expressed in mass units, shall be produced for the characteristics listed in the following tables.
+
+Table A – Domestic extraction
+
+MF.1 Biomass
+
+MF.1.1 Crops (excluding fodder crops)
+
+MF.1.1.1 Cereals
+
+MF.1.1.2 Roots, tubers
+
+MF.1.1.3 Sugar crops
+
+MF.1.1.4 Pulses
+
+MF.1.1.5 Nuts
+
+MF.1.1.6 Oil-bearing crops
+
+MF.1.1.7 Vegetables
+
+MF.1.1.8 Fruits
+
+MF.1.1.9 Fibres
+
+MF.1.1.A Other crops (excluding fodder crops) n.e.c.
+
+MF.1.2 Crop residues (used), fodder crops and grazed biomass
+
+MF.1.2.1 Crop residues (used)
+
+MF.1.2.1.1 Straw
+
+MF.1.2.1.2 Other crop residues (sugar and fodder beet leaves, etc.)
+
+MF.1.2.2 Fodder crops and grazed biomass
+
+MF.1.2.2.1 Fodder crops (including biomass harvest from grassland)
+
+MF.1.2.2.2 Grazed biomass
+
+MF.1.3 Wood
+
+MF.1.3.1 Timber (industrial roundwood)
+
+MF.1.3.2 Wood fuel and other extraction
+
+MF.1.4 Wild fish catch, aquatic plants and animals, hunting and gathering
+
+MF.1.4.1 Wild fish catch
+
+MF.1.4.2 All other aquatic animals and plants
+
+MF.1.4.3 Hunting and gathering
+
+MF.2 Metal ores (gross ores)
+
+MF.2.1 Iron
+
+MF.2.2 Non-ferrous metal
+
+MF.2.2.1 Copper
+
+MF.2.2.2 Nickel
+
+MF.2.2.3 Lead
+
+MF.2.2.4 Zinc
+
+MF.2.2.5 Tin
+
+MF.2.2.6 Gold, silver, platinum and other precious metals
+
+MF.2.2.7 Bauxite and other aluminium
+
+MF.2.2.8 Uranium and thorium
+
+MF.2.2.9 Other non-ferrous metals
+
+MF.3 Non-metallic minerals
+
+MF.3.1 Marble, granite, sandstone, porphyry, basalt, other ornamental or building stone (excluding slate)
+
+MF.3.2 Chalk and dolomite
+
+MF.3.3 Slate
+
+MF.3.4 Chemical and fertiliser minerals
+
+MF.3.5 Salt
+
+MF.3.6 Limestone and gypsum
+
+MF.3.7 Clays and kaolin
+
+MF.3.8 Sand and gravel
+
+MF.3.9 Other non-metallic minerals n.e.c.
+
+MF.3.A Excavated earthen materials (including soil), only if used (optional reporting)
+
+MF.4 Fossil energy materials/carriers
+
+MF.4.1 Coal and other solid energy materials/carriers
+
+MF.4.1.1 Lignite (brown coal)
+
+MF.4.1.2 Hard coal
+
+MF.4.1.3 Oil shale and tar sands
+
+MF.4.1.4 Peat
+
+MF.4.2 Liquid and gaseous energy materials/carriers
+
+MF.4.2.1 Crude oil, condensate and natural gas liquids (NGL)
+
+MF.4.2.2 Natural gas
+
+Tables B (Imports – Total trade) and D (Exports – Total trade)
+
+MF.1 Biomass
+
+MF.1.1 Crops (excluding fodder crops)
+
+MF.1.1.1 Cereals
+
+MF.1.1.2 Roots, tubers
+
+MF.1.1.3 Sugar crops
+
+MF.1.1.4 Pulses
+
+MF.1.1.5 Nuts
+
+MF.1.1.6 Oil-bearing crops
+
+MF.1.1.7 Vegetables
+
+MF.1.1.8 Fruits
+
+MF.1.1.9 Fibres
+
+MF.1.1.A Other crops (excluding fodder crops) n.e.c.
+
+MF.1.2 Crop residues (used), fodder crops and grazed biomass
+
+MF.1.2.1 Crop residues (used)
+
+MF.1.2.1.1 Straw
+
+MF.1.2.1.2 Other crop residues (sugar and fodder beet leaves, etc.)
+
+MF.1.2.2 Fodder crops and grazed biomass
+
+MF.1.2.2.1 Fodder crops (including biomass harvest from grassland)
+
+MF.1.3 Wood
+
+MF.1.3.1 Timber (industrial roundwood)
+
+MF.1.3.2 Wood fuel and other extraction
+
+MF.1.4 Wild fish catch, aquatic plants and animals, hunting and gathering
+
+MF.1.4.1 Wild fish catch
+
+MF.1.4.2 All other aquatic animals and plants
+
+MF.1.5 Live animals and animal products (excluding wild fish, aquatic plants and animals, hunted and gathered animals)
+
+MF.1.5.1 Live animals (excluding wild fish, aquatic plants and animals, hunted and gathered animals)
+
+MF.1.5.2 Meat and meat preparations
+
+MF.1.5.3 Dairy products, birds, eggs and honey
+
+MF.1.5.4 Other products from animals (animal fibres, skins, furs, leather, etc.)
+
+MF.1.6 Products mainly from biomass
+
+MF.2 Metal ores (gross ores)
+
+MF.2.1 Iron
+
+MF.2.2 Non-ferrous metal
+
+MF.2.2.1 Copper
+
+MF.2.2.2 Nickel
+
+MF.2.2.3 Lead
+
+MF.2.2.4 Zinc
+
+MF.2.2.5 Tin
+
+MF.2.2.6 Gold, silver, platinum and other precious metals
+
+MF.2.2.7 Bauxite and other aluminium
+
+MF.2.2.8 Uranium and thorium
+
+MF.2.2.9 Other non-ferrous metals
+
+MF.2.3 Products mainly from metals
+
+MF.3 Non-metallic minerals
+
+MF.3.1 Marble, granite, sandstone, porphyry, basalt, other ornamental or building stone (excluding slate)
+
+MF.3.2 Chalk and dolomite
+
+MF.3.3 Slate
+
+MF.3.4 Chemical and fertiliser minerals
+
+MF.3.5 Salt
+
+MF.3.6 Limestone and gypsum
+
+MF.3.7 Clays and kaolin
+
+MF.3.8 Sand and gravel
+
+MF.3.9 Other non-metallic minerals n.e.c.
+
+MF.3.B Products mainly from non-metallic minerals
+
+MF.4 Fossil energy materials/carriers
+
+MF.4.1 Coal and other solid energy materials/carriers
+
+MF.4.1.1 Lignite (brown coal)
+
+MF.4.1.2 Hard coal
+
+MF.4.1.3 Oil shale and tar sands
+
+MF.4.1.4 Peat
+
+MF.4.2 Liquid and gaseous energy materials/carriers
+
+MF.4.2.1 Crude oil, condensate and natural gas liquids (NGL)
+
+MF.4.2.2 Natural gas
+
+MF.4.2.3 Fuels bunkered (Imports: by resident units abroad; Exports: by non-resident units domestically)
+
+MF.4.2.3.1 Fuel for land transport
+
+MF.4.2.3.2 Fuel for water transport
+
+MF.4.2.3.3 Fuel for air transport
+
+MF.4.3 Products mainly from fossil energy products
+
+MF.5 Other products
+
+MF.6 Waste for final treatment and disposal
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex the maximum duration of the transitional period is 2 years, from the first transmission deadline.
+
+## ANNEX IV — MODULE FOR ENVIRONMENTAL PROTECTION EXPENDITURE ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Environmental protection expenditure accounts present data, in a way that is compatible with the data reported under ESA, on the expenditure for environmental protection, i.e. the economic resources devoted by resident units to environmental protection. Such accounts allow for the compiling of national expenditure for environmental protection which is defined as the sum of uses of environmental protection services by resident units, gross fixed capital formation (GFCF) for environmental protection activities, and transfers for environmental protection which are not a counterpart of previous items, less financing by the rest of the world.
+
+The environmental protection expenditure accounts should make use of the already existing information from the national accounts (production and generation of income accounts; GFCF by NACE, supply and use tables; data based on the classification of functions of government), structural business statistics, business register and other sources.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for the purposes of environmental protection expenditure accounts by the Member States.
+
+**Section 2**
+
+**COVERAGE**
+
+Environmental protection expenditure accounts have the same system boundaries as ESA and show environmental protection expenditure for principal, secondary and ancillary activities. The following sectors are covered:
+
+— general government (including non-profit institutions serving households) and corporations as institutional sectors producing environmental protection services. Specialist producers produce environmental protection services as their principal activity,
+
+— households, general government and corporations as consumers of environmental protection services,
+
+— the rest of the world as beneficiary, or origin, of transfers for environmental protection.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce environmental protection expenditure accounts according to the following characteristics which are defined in accordance with ESA:
+
+— output of environmental protection services. Market output, non-market output and output of ancillary activities are distinguished,
+
+— intermediate consumption of environmental protection services
+
+— intermediate consumption of environmental protection services for production of environmental protection services,
+
+— imports and exports of environmental protection services,
+
+— valued added tax (VAT) and other taxes less subsidies on products on environmental protection services,
+
+— gross fixed capital formation and acquisitions less disposals of non-financial non-produced assets for the production of environmental protection services,
+
+— final consumption of environmental protection services.
+
+All data shall be reported in million national currency.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 24 months of the end of the reference year. This applies from the reference year 2020.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27  totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2020.
+
+5\. In each data transmission to the Commission, Member States shall provide annual data for the years n – 2, n – 1 and n, where n is the reference year. Member States may provide any available data for the years preceding 2018.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. For the characteristics referred to in Section 3, data shall be reported in a breakdown by:
+
+— type of producers/consumers of environmental protection services as defined in Section 2,
+
+— groups of the classification of environmental purposes (CEP) grouped as follows:
+
+— CEP 01 – Air and climate,
+
+— CEP 0301 – Wastewater management,
+
+— CEP 0401 – Waste management,
+
+— CEP 0501 – Protection of soil, surface and groundwater,
+
+— CEP 0502 – Protection of biodiversity and landscape,
+
+— CEP 06 – Noise and radiation,
+
+— Sum of CEP 0701, CEP 0703, CEP 0705, CEP 0707, CEP 0709 – R & D for reduction and control of air emissions, wastewater management, waste management, soil, surface, groundwater and biodiversity and noise and radiation.
+
+— The following NACE breakdowns for the ancillary production of environmental protection services: NACE Sections B, C, D and Division 36. Data for section C shall be presented as follows:
+
+— NACE C10-C12 – Manufacture of food products; beverages and tobacco products
+
+— NACE C17 – Manufacture of paper and paper products
+
+— NACE C19-20 – Manufacture of coke, chemicals and refined petroleum and chemical products
+
+— NACE C 21-23 – Manufacture of pharmaceuticals, rubber, plastic and other non-metallic products
+
+— NACE C 24 – Manufacture of basic metals
+
+— NACE C 25-30 – Manufacture of fabricated metal products, including machinery and equipment
+
+— NACE C13-16, 18, 31-33 – other manufacturing activities
+
+Member States where the total amount of the turnover or the number of persons employed in one or more of these NACE breakdowns represents less than 1 % of the Union total do not need to provide data for those NACE breakdowns.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+## ANNEX V — MODULE FOR ENVIRONMENTAL GOODS AND SERVICES SECTOR ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Statistics on environmental goods and services record and present data on national economy production activities that generate environmental products in a way that is compatible with the data reported under ESA.
+
+The environmental goods and services sector accounts should make use of the already existing information from the national accounts, structural business statistics, business register and other sources.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for environmental goods and services accounts, by the Member States.
+
+**Section 2**
+
+**COVERAGE**
+
+The environmental goods and services sector has the same system boundaries as ESA and consists of all environmental goods and services that are created within the production boundary. ESA defines production as the activity carried out under the control and responsibility of an institutional unit that uses inputs of labour, capital and goods and services to produce goods and services.
+
+Environmental goods and services fall within the following categories: environmental specific services, environmental sole purpose products (connected products), adapted goods and environmental technologies.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce statistics on the environmental goods and services sector according to the following characteristics:
+
+— output of the total environmental goods and services sector and of market activities,
+
+— exports of the total environmental goods and services sector,
+
+— value added of the total environmental goods and services sector and of market activities,
+
+— employment in the total environmental goods and services sector and of market activities,
+
+— gross fixed capital formation (GFCF) for climate change mitigation activities, broken down by corporations, government and households together with non-profit institutions serving households (NPISH),
+
+— GFCF for products mitigating climate change, not already included in GFCF for climate change mitigation activities, broken down by corporations, government and households together with NPISH,
+
+— final consumption of products mitigating climate change, broken down by government and households together with NPISH.
+
+All data shall be reported in million national currency, except for the characteristic ‘employment’, for which the reporting unit shall be ‘full-time equivalent’.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 22 months of the end of the reference year. This applies from the reference year 2020.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27  totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2020.
+
+5\. In each data transmission to the Commission, Member States shall provide annual data for the years n – 2, n – 1 and n, where n is the reference year. Member States may provide any available data for the years preceding 2018.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. For the characteristics referred to in Section 3, data shall be reported cross-classified by:
+
+— classification of economic activities, NACE grouped as follows:
+
+— NACE A
+
+— NACE B
+
+— NACE C
+
+— NACE D
+
+— NACE E
+
+— NACE F
+
+— NACE J + NACE K
+
+— NACE N
+
+— NACE P
+
+— NACE Q
+
+— Sum of NACE G + NACE H + NACE I + NACE L + NACE M + NACE O + NACE R + NACE S + NACE T + NACE U + NACE V
+
+— groups of the classification of environmental purposes (CEP) grouped as follows:
+
+— CEP 01 – Air and climate,
+
+— CEP 0201 – Energy from renewable sources,
+
+— CEP 0202 – Energy saving and management,
+
+— CEP 0301 – Wastewater management,
+
+— CEP 0302 – Water savings and management of natural water resources,
+
+— CEP 0401 – Waste management,
+
+— CEP 0402 – Materials recovery and savings,
+
+— CEP 0501 – Protection of soil, surface and groundwater,
+
+— CEP 0502 – Protection of biodiversity and landscape,
+
+— CEP 0503 – Management of forest resources,
+
+— CEP 06 – Noise and radiation,
+
+— Sum of CEP 0701, CEP 0703, CEP 0705, CEP 0707, CEP 0709 – R & D for reduction and control of air emissions, wastewater management, waste management, soil, surface, groundwater and biodiversity and noise and radiation,
+
+— Sum of CEP 0702, CEP 0704, CEP 0706, CEP 0708 – R & D for energy, water resources, materials recovery and savings and forest management,
+
+— CEP 08 – Cross-cutting and other environmental purposes.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+## ANNEX VI — MODULE FOR PHYSICAL ENERGY FLOW ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Physical energy flow accounts present data on the physical flows of energy expressed in terajoules in a way that is fully compatible with the ESA. Physical energy flow accounts record energy data in relation to the economic activities of resident units of national economies in a breakdown by economic activity. They present the supply and use of natural energy inputs, energy products and energy residuals. Economic activities comprise production, consumption, and accumulation.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for physical energy flow accounts by the Member States.
+
+**Section 2**
+
+**COVERAGE**
+
+Physical energy flow accounts have the same system boundaries as ESA and are also based on the residence principle.
+
+In accordance with ESA, a unit is said to be a resident unit of a country when it has a centre of economic interest in the economic territory of that country, that is, when it engages for an extended period (1 year or more) in economic activities in that territory.
+
+Physical energy flow accounts record physical energy flows arising from the activities of all resident units, regardless of where these flows actually occur geographically.
+
+Physical energy flow accounts record the physical flows of energy from the environment to the economy, within the economy, and from the economy back to the environment.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce physical energy flow accounts according to the following characteristics:
+
+— the physical energy flows grouped into three generic categories:
+
+(i) natural energy inputs,
+
+(ii) energy products,
+
+(iii) energy residuals,
+
+— the origin of the physical energy flows, grouped into five categories: production, consumption, accumulation, rest of the world and environment,
+
+— the destination of the physical flows, grouped into the same five categories as the origin of the physical energy flows.
+
+All data shall be reported in terajoules.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 21 months of the end of the reference year.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data becomes available, estimates for the EU-27  totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2015.
+
+5\. In the first transmission of data, Member States shall include annual data from 2014 to the first reference year.
+
+6\. In each subsequent data transmission to the Commission, Member States shall provide annual data for the years n – 2, n – 1 and n, where n is the reference year. Member States may provide any available data for the years preceding 2014.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. For the characteristics referred to in Section 3, the following data shall be reported in physical units:
+
+— Supply table for energy flows. This table records the supply of natural energy inputs, energy products, and energy residuals (row-wise) by origin, i.e. ‘supplier’ (column-wise).
+
+— Use table for energy flows. This table records the use of natural energy inputs, energy products, and energy residuals (row-wise) by destination, i.e. ‘user’ (column-wise).
+
+— Table of emission-relevant use of energy flows. This table records the emission-relevant use of natural energy inputs and energy products (row-wise) by the using and emitting unit (column-wise).
+
+— Bridge table showing the various elements which make up the difference between the energy accounts and the energy balances.
+
+2\. The supply and use tables of energy flows (including emission-relevant flows) have a common layout in terms of rows and columns.
+
+3\. The columns denote the origins (supply) or destinations (use) of the physical flows. The columns are grouped into five categories:
+
+— ‘Production’ relates to the production of goods and services. Production activities are classified according to NACE Rev. 2 and data is reported in A*64 aggregation level.
+
+— ‘Consumption’ activities are presented in total and also divided into three sub-classes (transport, heating/cooling, other) for private households' final consumption.
+
+— ‘Accumulation’ refers to the changes in stocks of energy products within the economy.
+
+— ‘Rest of the world’ records the flows of imported and exported products.
+
+— ‘Environment’ records the origin of natural input flows and the destination of residual flows.
+
+4\. The rows describe the type of physical flows classified in the first indent of Section 3.
+
+5\. The classification of natural energy inputs, energy products, and energy residuals is as follows:
+
+— natural energy inputs are grouped into non-renewable natural energy inputs and renewable natural energy inputs,
+
+— energy products are grouped according to the classification used in European energy statistics,
+
+— energy residuals include waste (without monetary value); losses during extraction/abstraction, distribution/transport, transformation/conversion and storage; as well as balancing items to balance the supply and use tables.
+
+6\. The ‘bridge’ from the residence principle indicator to the territory-based indicator is presented for the entire national economy (no breakdown by industries) and is obtained as follows:
+
+total energy use by resident units:
+
+– energy use by resident units abroad
+
++ energy use by non-residents on the territory
+
++ statistical differences
+
+= gross inland energy consumption (territory-based)
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+## ANNEX VII — MODULE FOR FOREST ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Forest accounts record and present data on forest resources and economic activity in the forestry and logging industry in a way that is fully compatible with the data reported under the ESA 2010. Forest accounts provide complementary information and use concepts adapted to the particular nature of forests and of the forestry and logging industry.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for forest accounts by Member States.
+
+**Section 2**
+
+**COVERAGE**
+
+Forest accounts record the stocks and flows of forest resources (wooded land and timber) and economic activity in the forestry and logging industry, including production of roundwood and the extraction and gathering of wild growing non-wood forest products.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce forest accounts according to the characteristics described in this Section.
+
+1\. Asset accounts of wooded land and timber. Wooded land is defined as the sum of the three following points.
+
+(a) Forest available for wood supply: forests where any environmental, social or economic restrictions do not have a significant impact on the current or potential supply of wood. Those restrictions can be established by legal rules, managerial or owner’s decisions or because of other reasons.
+
+(b) Forest not available for wood supply: all forests that are not considered available for wood supply in accordance with point (a). Those are forests where environmental, social, economic or legal restrictions prevent any significant wood supply. It includes (i) forests with legal restrictions or restrictions resulting from other political decisions that totally exclude or severely limit wood supply for reasons such as environmental or biodiversity conservation (protection forests, national parks, nature reserves and other protected areas such as those of special environmental, scientific, historical, cultural or spiritual interest); (ii) forests where physical productivity or wood quality is too low or harvesting and transport costs are too high to justify wood harvesting, apart from occasional cuttings for own final use.
+
+(c) Other wooded land.
+
+‘Forest’ is defined as land spanning more than 0,5 hectares with trees higher than five metres and a canopy cover of more than 10 % or trees able to reach those thresholds in situ. It does not include land that is predominantly under agricultural land use or trees in urban settings, such as city parks, alleys and gardens.
+
+‘Other wooded land’ is defined as land not classified as forest, spanning more than 0,5 hectares; with trees higher than five metres and a canopy cover of 5 to 10 % or trees able to reach those thresholds in situ; or with a combined cover of shrubs, bushes and trees greater than 10 %. It does not include land that is predominantly under agricultural land use or trees in urban settings, such as city parks, alleys and gardens.
+
+‘Net annual increment of timber’ is defined as the average annual volume growth of live trees less the average annual mortality.
+
+‘Removals’ are defined as the volume of all trees, living or dead, that are felled and removed from the forest, other wooded land or other felling sites. It includes unsold roundwood stored at the forest roadside. It also includes natural losses that are recovered, removals during the year of wood felled in an earlier period, removals of non-stem wood (such as stumps and branches), and removal of trees killed or damaged by natural causes (known as natural losses), e.g. fire, wind, insects and diseases. It does not include non-woody biomass or any wood that is left in the forest and not removed during the year, e.g. stumps, branches, tree tops and felling residues (harvesting waste).
+
+‘Irretrievable losses’ are defined as felling residues and all fellings from windthrow that cannot be removed from the forest, and timber lost through forest fires.
+
+2\. Economic accounts reporting economic activity in the forestry and logging industry. The forest and logging industry is defined as all local kind-of-activity units (local KAU) which perform activities classified under NACE Rev. 2, Division A02.
+
+The following characteristics, using the ESA 2010 definitions, shall be reported:
+
+— output;
+
+— of which: output for own final use;
+
+— intermediate consumption;
+
+— gross value added;
+
+— consumption of fixed capital;
+
+— other taxes on production;
+
+— other subsidies on production;
+
+— compensation of employees;
+
+— gross fixed capital formation and acquisitions less disposals of non-financial non-produced assets;
+
+— changes in inventories;
+
+— capital transfers.
+
+Member States shall report employment in the forestry and logging industry in thousand annual work units (AWUs) as defined in Regulation (EC) No 138/2004 of the European Parliament and of the Council ( 6 ).
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 21 months of the end of the reference year.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data become available, estimates for the EU totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2023.
+
+5\. In the first data transmission, Member States shall include annual data from 2022 to the first reference year.
+
+6\. In each subsequent data transmission to the Commission, Member States shall provide annual data for the years n-2, n-1 and n, where n is the reference year. Member States shall resubmit data for years from 2022 onwards whenever the data are revised. Member States may provide any available data for the years preceding 2022.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+For the characteristics laid down in Section 3, the following data shall be reported:
+
+1\. Area of wooded land, broken down by:
+
+— forest available for wood supply;
+
+— forest not available for wood supply;
+
+— other wooded land.
+
+Each of those categories shall be further broken down by:
+
+— opening area at the beginning of the reference year;
+
+— afforestation and other increases;
+
+— deforestation and other decreases;
+
+— statistical reclassification;
+
+— closing area at the end of the reference year.
+
+Data shall be reported in thousand hectares.
+
+2\. Volume of timber, broken down by:
+
+— forest available for wood supply;
+
+— forest not available for wood supply;
+
+— other wooded land.
+
+Forest available for wood supply shall be further broken down by:
+
+— opening stock at the beginning of the reference year;
+
+— net increment;
+
+— removals;
+
+— irretrievable losses;
+
+— statistical reclassification;
+
+— balancing item;
+
+— closing stock at the end of the reference year.
+
+Forest not available for wood supply and other wooded land shall be further broken down by:
+
+— opening stock at the beginning of the reference year;
+
+— removals;
+
+— other changes (between opening and closing stocks);
+
+— closing stock at the end of the reference year.
+
+Data shall be reported in over-bark, in thousand m3.
+
+3\. Value of timber, broken down by:
+
+— forest available for wood supply;
+
+— forest not available for wood supply;
+
+— other wooded land.
+
+Forest available for wood supply shall be further broken down by:
+
+— opening stock at the beginning of the reference year;
+
+— net increment;
+
+— removals;
+
+— irretrievable losses;
+
+— revaluation;
+
+— statistical reclassification;
+
+— balancing item;
+
+— closing stock at the end of the reference year.
+
+Forest not available for wood supply and other wooded land shall be further broken down by:
+
+— opening stock at the beginning of the reference year;
+
+— removals;
+
+— other changes (between opening and closing stocks);
+
+— closing stock at the end of the reference year.
+
+Data shall be reported in million national currency.
+
+4\. For economic accounts, the output referred to in Section 3 shall be reported according to the following breakdown, with products defined in terms of the classification of products by activity version 2.1:
+
+— live forest tree plants (product 02.10.11) and forest tree seeds (product 02.10.12);
+
+— forest trees, defined as the net increment of timber in cultivated forests (product 02.10.30);
+
+— wood in the rough (product 02.20.1), including sales of timber from uncultivated forests, comprising the following items to be reported in two separate rows:
+
+(i) fuel wood (products 02.20.14 and 02.20.15);
+
+(ii) logs, i.e. the sum of logs of coniferous wood (product 02.20.11), logs of non-coniferous wood except tropical wood (product 02.20.12), and logs of tropical wood (product 02.20.13);
+
+— wild growing non-wood products (product 02.30);
+
+— services characteristic of the forestry and logging activity defined as forest tree nursery services (product 02.10.2), support services to forestry (product 02.4), and any other services provided by a local kind-of-activity unit (KAU) of the forestry industry;
+
+— other products from related secondary activities in the local KAU, such as mushrooms and truffles (01.13.8), other berries, the fruits of the genus vaccinium n.e.c. (01.25.19), natural rubber (01.29.10), other wood in the rough, including split poles and pickets (16.10.39), wood charcoal (20.14.72), nature reserve services, including wildlife preservation services (91.04.12), and any other product produced by a local KAU.
+
+Intermediate consumption of the forestry and logging industry referred to in Section 3 shall be reported according to the following breakdown, with products defined in terms of the classification of products by activity version 2.1:
+
+— the sum of live forest tree plants (product 02.10.11), forest tree seeds (product 02.10.12), and forest trees (product 02.10.3) used to produce timber;
+
+— the sum of energy and lubricants, including electricity (product 35.11.10), motor spirit (gasoline) (product 19.20.21), natural gas – liquefied or in a gaseous state (product 06.20.10), lubricating petroleum oils and heavy preparations n.e.c. (product 19.20.29), and other similar products;
+
+— the sum of services characteristic of forestry and logging, including forest tree nursery services (product 02.10.2), support services to forestry (product 02.4), and any other services provided by a local KAU of the forestry and logging industry;
+
+— other goods and services not accounted for in any of the variables of intermediate consumption.
+
+Changes in inventories of the forestry and logging industry referred to in Section 3 shall be reported according to the following breakdown:
+
+— changes in work-in-progress on cultivated biological assets;
+
+— other changes in inventories.
+
+All characteristics shall be reported in million national currency.
+
+5\. Data on other wooded land shall be reported on a voluntary basis.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+## ANNEX VIII — MODULE FOR ENVIRONMENTAL SUBSIDIES AND SIMILAR TRANSFERS ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Environmental subsidies and similar transfers accounts collect and present data on current and capital transfers intended to support activities that protect the environment and natural resources, including the production and use of environmental products, in a way that is compatible with the concepts and definitions of the ESA 2010.
+
+This Annex defines the data to be collected, compiled, transmitted and evaluated for environmental subsidies and similar transfers accounts by the Member States. Those data are also used for compiling national environmental protection expenditure as set out in Annex IV.
+
+**Section 2**
+
+**COVERAGE**
+
+The environmental subsidies and similar transfers accounts record unrequited payments from the general government to institutional sectors (within the domestic economy and to the rest of the world) and from non-residents (rest of the world), for the purpose of protecting the environment or reducing the use and extraction of natural resources.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce environmental subsidies and similar transfers accounts according to the following characteristics:
+
+— subsidies (ESA 2010 code D.3);
+
+— other current transfers (ESA 2010 codes D.6 and D.7);
+
+— capital transfers (ESA 2010 code D.9).
+
+All data shall be reported in million national currency.
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted on a yearly basis.
+
+2\. Statistics shall be transmitted within 24 months of the end of the reference year.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data become available, estimates for the EU totals for the main aggregates of this module. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2023.
+
+5\. In the first data transmission, Member States shall include annual data from 2022 to the first reference year.
+
+6\. In each subsequent data transmission to the Commission, Member States shall provide annual data for the years n-2, n-1 and n, where n is the reference year. Member States shall resubmit data for years from 2022 onwards whenever the data are revised. Member States may provide any available data for the years preceding 2022.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. For the characteristics referred to in Section 3, data shall be reported by:
+
+— paying institutional sector, as follows:
+
+— general government;
+
+— rest of the world;
+
+— receiving institutional sector, as follows:
+
+— general government;
+
+— corporations;
+
+— households;
+
+— non-profit institutions serving households;
+
+— rest of the world.
+
+2\. For each of the reporting categories referred to in point 1, data shall be reported by groups of the classification of environmental purposes (CEP) grouped as follows:
+
+— CEP 01 – Air and climate,
+
+— CEP 0201 – Energy from renewable sources,
+
+— CEP 0202 – Energy saving and management,
+
+— CEP 0301 – Wastewater management,
+
+— CEP 0302 – Water savings and management of natural water resources,
+
+— CEP 0401 – Waste management,
+
+— CEP 0402 – Materials recovery and savings,
+
+— CEP 0501 – Protection of soil, surface and groundwater,
+
+— CEP 0502 – Protection of biodiversity and landscape,
+
+— CEP 0503 – Management of forest resources,
+
+— CEP 06 – Noise and radiation,
+
+— Sum of CEP 0701, CEP 0703, CEP 0705, CEP 0707, CEP 0709 – R & D for reduction and control of air emissions, wastewater management, waste management, soil, surface, groundwater and biodiversity and noise and radiation,
+
+— Sum of CEP 0702, CEP 0704, CEP 0706, CEP 0708 – R & D for energy, water resources, materials recovery and savings and forest management,
+
+— CEP 08 – Cross-cutting and other environmental purposes.
+
+3\. Transfers receivable by corporations from general government grouped by the sum of all CEP divisions (CEP 01-08) shall be further grouped according to the classification of economic activities NACE Rev. 2 as follows:
+
+— NACE A – agriculture, forestry and fishing;
+
+— NACE B – mining and quarrying;
+
+— NACE C – manufacturing;
+
+— NACE D – electricity, gas, steam and air-conditioning supply;
+
+— NACE E – water supply, sewerage, waste management and remediation;
+
+— NACE F – construction;
+
+— NACE G – wholesale and retail trade, repair of motor vehicles and motorcycles;
+
+— NACE H – transportation and storage;
+
+— NACE I-U – other NACE sections.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+## ANNEX IX — MODULE FOR ECOSYSTEM ACCOUNTS
+
+**Section 1**
+
+**OBJECTIVES**
+
+Ecosystem accounts present data on the extent and condition of ecosystem assets and the services they provide to society and the economy. The data are in line with the SEEA EA and compatible with the data reported under the ESA 2010.
+
+Ecosystem accounts use existing information, where possible, including from Earth observation, environmental reporting and other data sources.
+
+**Section 2**
+
+**COVERAGE**
+
+Ecosystem accounts record the extent of ecosystems, the condition of ecosystems, and the flows of ecosystem services.
+
+Ecosystem extent is the size of ecosystems in an area. Ecosystem extent accounts cover terrestrial (including freshwater) and marine ecosystems on the national territory.
+
+Ecosystem condition is the quality of an ecosystem measured in terms of its abiotic, biotic and landscape characteristics, by ecosystem types.
+
+Ecosystem services are the benefits ecosystems provide to economic and other human activities. They include (i) provisioning, (ii) regulating and maintenance, and (iii) cultural services. Ecosystem services accounts record the actual supply and use of ecosystem services provided by the ecosystems in the national territory.
+
+Thematic accounts are accounts that organise data according to specific policy themes such as biodiversity, climate change, oceans and urban areas.
+
+**Section 3**
+
+**LIST OF CHARACTERISTICS**
+
+Member States shall produce ecosystem accounts according to the following characteristics:
+
+1\. Ecosystem extent accounts recording the area and change in area for each ecosystem type within the national territory. Member States shall report ecosystem extent accounts in thousand hectares.
+
+2\. As a component of the ecosystem extent accounts, a conversion matrix recording conversions between ecosystem types between two points in time, in hectares.
+
+3\. Ecosystem condition accounts recording ecosystem characteristics as follows:
+
+(a) for settlements and other artificial areas:
+
+— green areas in cities and adjacent towns and suburbs shall be reported in % of total area, calculated for the entire area of the cities and adjacent towns and suburbs, including all ecosystem types in that area;
+
+— concentration of particulate matter, with a diameter up to 2,5 μm in cities, shall be reported in μg/m3 as a national average for the reporting period.
+
+(b) for cropland:
+
+— soil organic carbon stock in topsoil shall be reported in tonne/ha, as a national average for the reporting period;
+
+(c) for grassland:
+
+— soil organic carbon stock in topsoil shall be reported in tonne/ha, as a national average for the reporting period;
+
+(d) for cropland and grassland together:
+
+— common farmland bird index shall be reported as a national aggregate index for the reporting period;
+
+(e) for forest and woodland:
+
+— dead wood shall be reported in m3/ha, as a national average for the reporting period;
+
+— tree cover density shall be reported in %, as a national average for the reporting period;
+
+— common forest bird index; the forest bird index describes trends in the abundance of common forest birds across their European ranges over time; it is a composite index created from observational data of bird species characteristic for forest habitats in Europe; the index is based on a specific list of species in each Member State;
+
+(f) for coastal beaches, dunes and wetlands:
+
+— the share of artificial impervious area cover, present in a coastal area that includes ecosystem type coastal beaches, dunes and wetlands shall be reported in % as a national average for the reporting period.
+
+Cities, towns and suburbs are local administrative units, categorised according to the degree of urbanisation typology set out in Regulation (EU) 2017/2391 of the European Parliament and of the Council ( 7 ).
+
+4\. Ecosystem services accounts recording the supply and use of ecosystem services in supply and use tables. The supply table shall record the supply of ecosystem services from ecosystems to socioeconomic systems. The use table shall record the use of ecosystem services by the type of use as defined in Section 5.
+
+The supply and use tables shall be reported in the following physical units.
+
+(a) Provisioning services
+
+— Crop provision is defined as the ecosystem contribution to plant growth as approximated by the amount of harvested crops for different uses. This includes food and fibre production, fodder and energy, and grazed biomass, as set out in Annex III, Table A, Sections 1.1 and 1.2.
+
+— Pollination is defined as the ecosystem contribution by wild pollinators to the production of the crops referred to in the first indent. The contributions shall be reported in tonnes of pollinator-dependent crops that can be attributed to wild pollinators, by type of crop for the main types of pollinator-dependent crops comprising fruit trees, berries, tomatoes, oilseeds and ‘other’.
+
+— Wood provision is defined as the ecosystem contribution to the growth of trees and other woody biomass and shall be reported as net increment as defined in Annex VII in over-bark, in thousand m3.
+
+(b) Regulating and maintenance services
+
+— Air filtration is defined as the ecosystem contribution to filtering air-borne pollutants through the deposition, uptake, fixing and storage of pollutants by ecosystem components (particularly trees). This mitigates the harmful effects of the pollutants. The contributions shall be reported in tonnes of particulate matter adsorbed.
+
+— Global climate regulation is defined as the ecosystem contribution to reducing concentrations of greenhouse gases in the atmosphere through the removal (net sequestration) of carbon from the atmosphere and the retention (storage) of carbon in ecosystems. The contributions shall be reported in terms of tonnes of net sequestration of carbon and tonnes of organic carbon stored in terrestrial ecosystems, including above ground and below ground stock.
+
+— Local climate regulation is defined as the ecosystem contribution to regulating ambient atmospheric conditions in urban areas through vegetation that improves the living conditions of people and supports economic production. It shall be expressed and reported as the reduction of temperature in cities, due to the effect of urban vegetation, in degrees Celsius on days exceeding 25 degrees Celsius.
+
+(c) Cultural services
+
+— Nature-based tourism-related services are defined as the ecosystem contribution, in particular through the biophysical characteristics and qualities of ecosystems, that enable people to use and enjoy the environment through direct, in situ, physical and experiential interactions with the environment. Those contributions shall be reported in number of overnight stays in hotels, hostels, camping grounds, etc. that can be attributed to visits to ecosystems.
+
+5\. Ecosystem accounts shall use the following table of ecosystem types:
+
+Category Ecosystem type
+
+1 Settlements and other artificial areas
+
+2 Cropland
+
+3 Grassland (pastures, semi-natural and natural grassland)
+
+4 Forest and woodland
+
+5 Heathland and shrub
+
+6 Sparsely vegetated ecosystems
+
+7 Inland wetlands
+
+8 Rivers and canals
+
+9 Lakes and reservoirs
+
+10 Marine inlets and transitional waters
+
+11 Coastal beaches, dunes and wetlands
+
+12 Marine ecosystems (coastal waters, shelf and open ocean)
+
+**Section 4**
+
+**FIRST REFERENCE YEAR, FREQUENCY AND TRANSMISSION DEADLINES**
+
+1\. Statistics shall be compiled and transmitted:
+
+— every 3 years for ecosystem extent and ecosystem condition accounts; the data shall refer to a representative average for the reference year, and to the conversion matrix to the change in the 3 years between 2 reference years;
+
+— on a yearly basis, provided that modelling tools are made available by the Commission (Eurostat) for calculating ecosystem services for ecosystem services accounts; in the absence of such tools, every 3 years for ecosystem services accounts.
+
+2\. Statistics shall be transmitted within 24 months of the end of the reference year.
+
+3\. In order to meet user needs for complete and timely datasets, the Commission (Eurostat) shall produce, as soon as sufficient country data become available, estimates for the EU totals. The Commission (Eurostat) shall, wherever possible, produce and publish estimates for data that have not been transmitted by Member States within the deadline specified in point 2.
+
+4\. The first reference year is 2024. For the conversion matrix, the first reference year is 2027.
+
+5\. In the first data transmission, Member States shall include data from 2024 for extent and condition accounts and for ecosystem services supply and use tables in physical units. For the conversion matrix, the data shall show the changes between 2024 and 2027.
+
+6\. In each subsequent data transmission to the Commission, Member States shall provide ecosystem services, extent and condition accounts data for years n-3 and n, where n is the reference year. Member States shall resubmit data from 2024 onwards whenever the data are revised. Member States may provide any available data for the years preceding 2024.
+
+**Section 5**
+
+**REPORTING TABLES**
+
+1\. Ecosystem extent accounts: for all ecosystem types referred to in Section 3, data in the first transmission shall be reported for the first reference year. For all subsequent data transmissions, data shall be reported as follows:
+
+— extent in the previous reference year;
+
+— additions;
+
+— reductions;
+
+— extent in the current reference year.
+
+The conversion matrix shall report conversions between all ecosystem types referred to in Section 3 between the previous and current reference year.
+
+2\. Ecosystem services accounts: for ecosystem services referred to in Section 3, data shall be reported in supply and use tables as follows:
+
+(a) supply table recording the annual supply of the services as referred to in Section 3 by all ecosystem types as referred to in Section 3, except categories 10 and 12;
+
+(b) use table recording the use of ecosystem services according to the following breakdown:
+
+— intermediate consumption of industries;
+
+— government final consumption;
+
+— households final consumption;
+
+— gross capital formation;
+
+— exports.
+
+3\. A Member State shall not be obliged to report data if its total land area does not exceed 0,3 % of the Union’s total land area.
+
+**Section 6**
+
+**MAXIMUM DURATION OF THE TRANSITIONAL PERIODS**
+
+For the implementation of the provisions of this Annex, the maximum duration of the transitional period is 2 years from the first transmission deadline.
+
+( 1 ) Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).
+
+( 2 ) Regulation (EC) No 1099/2008 of the European Parliament and of the Council of 22 October 2008 on energy statistics (OJ L 304, 14.11.2008, p. 1).
+
+( 3 ) Regulation (EU) 2021/690 of the European Parliament and of the Council of 28 April 2021 establishing a programme for the internal market, competitiveness of enterprises, including small and medium-sized enterprises, the area of plants, animals, food and feed, and European statistics (Single Market Programme) and repealing Regulations (EU) No 99/2013, (EU) No 1287/2013, (EU) No 254/2014 and (EU) No 652/2014 (OJ L 153, 3.5.2021, p. 1).
+
+( 4 ) United Nations Framework Convention on Climate Change.
+
+( 5 ) Convention on Long-Range Transboundary Air Pollution.
+
+( 6 ) Regulation (EC) No 138/2004 of the European Parliament and of the Council of 5 December 2003 on the economic accounts for agriculture in the Community (OJ L 33, 5.2.2004, p. 1).
+
+( 7 ) Regulation (EU) 2017/2391 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EC) No 1059/2003 as regards the territorial typologies (Tercet) (OJ L 350, 29.12.2017, p. 1).

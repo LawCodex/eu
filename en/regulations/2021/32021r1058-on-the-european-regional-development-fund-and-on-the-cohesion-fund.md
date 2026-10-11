@@ -1,0 +1,745 @@
+---
+title: "Regulation (EU) 2021/1058 of the European Parliament and of the Council of 24 June 2021 on the European Regional Development Fund and on the Cohesion Fund"
+identifier: "32021R1058"
+eli: "http://data.europa.eu/eli/reg/2021/1058/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-06-24
+entry_into_force: 2021-11-07
+last_amended: 2025-09-20
+consolidated_version: "02021R1058-20250920"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R1058-20250920"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/1058 of the European Parliament and of the Council of 24 June 2021 on the European Regional Development Fund and on the Cohesion Fund
+
+**REGULATION (EU) 2021/1058 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**on the European Regional Development Fund and on the Cohesion Fund**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/795 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 February 2024 </td><td> L 795</td><td>1</td><td>29.2.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/3236 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 2024 </td><td> L 3236</td><td>1</td><td>23.12.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/1914 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 September 2025 </td><td> L 1914</td><td>1</td><td>19.9.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2021/1058 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**on the European Regional Development Fund and on the Cohesion Fund**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>CHAPTER I</td><td>COMMON PROVISIONS</td></tr>
+<tr><td>Article 1</td><td>Subject matter</td></tr>
+<tr><td>Article 2</td><td>Tasks of the ERDF and the Cohesion Fund</td></tr>
+<tr><td>Article 3</td><td>Specific objectives for the ERDF and the Cohesion Fund</td></tr>
+<tr><td>Article 4</td><td>Thematic concentration of ERDF support</td></tr>
+<tr><td>Article 5</td><td>Scope of support from the ERDF</td></tr>
+<tr><td>Article 6</td><td>Scope of support from the Cohesion Fund</td></tr>
+<tr><td>Article 7</td><td>Exclusion from the scope of the ERDF and the Cohesion Fund</td></tr>
+<tr><td>Article 7a</td><td>Specific provisions linked to the mid-term review and related flexibility</td></tr>
+<tr><td>Article 8</td><td>Indicators</td></tr>
+<tr><td>CHAPTER II</td><td>SPECIFIC PROVISIONS ON TREATMENT OF PARTICULAR TERRITORIAL FEATURES AND INTERREGIONAL INNOVATION INVESTMENTS</td></tr>
+<tr><td>Article 9</td><td>Integrated territorial development</td></tr>
+<tr><td>Article 10</td><td>Support for disadvantaged areas</td></tr>
+<tr><td>Article 11</td><td>Sustainable urban development</td></tr>
+<tr><td>Article 12</td><td>European Urban Initiative</td></tr>
+<tr><td>Article 13</td><td>Interregional Innovation Investments</td></tr>
+<tr><td>Article 14</td><td>Outermost regions</td></tr>
+<tr><td>CHAPTER III</td><td>TRANSITIONAL AND FINAL PROVISIONS</td></tr>
+<tr><td>Article 15</td><td>Transitional provisions</td></tr>
+<tr><td>Article 16</td><td>Exercise of the delegation</td></tr>
+<tr><td>Article 17</td><td>Review</td></tr>
+<tr><td>Article 18</td><td>Entry into force</td></tr>
+<tr><td>ANNEX I</td><td>COMMON OUTPUT AND RESULT INDICATORS FOR ERDF AND THE COHESION FUND – ARTICLE 8(1)</td></tr>
+<tr><td>ANNEX II</td><td>CORE SET OF PERFORMANCE INDICATORS FOR ERDF AND COHESION FUND REFERRED TO IN ARTICLE 8(3), To Be Used BY THE COMMISSION IN COMPLIANCE WITH ITS REPORTING REQUIREMENT PURSUANT TO POINT (H)(iii) Of ARTICLE 41(3) OF THE FINANCIAL REGULATION</td></tr>
+</table>
+
+## CHAPTER I — COMMON PROVISIONS
+
+### Article 1 — Subject matter
+
+1\. This Regulation sets out the specific objectives and the scope of support from the European Regional Development Fund (ERDF) with regard to the Investment for jobs and growth goal and the European territorial cooperation goal (Interreg) referred to in Article 5(2) of Regulation (EU) 2021/1060.
+
+2\. This Regulation also sets out the specific objectives and the scope of support from the Cohesion Fund with regard to the Investment for jobs and growth goal referred to in point (a) of Article 5(2) of Regulation (EU) 2021/1060.
+
+### Article 2 — Tasks of the ERDF and the Cohesion Fund
+
+1\. The ERDF and the Cohesion Fund shall contribute to the overall objective of strengthening the economic, social and territorial cohesion of the Union.
+
+2\. The ERDF shall contribute to reducing disparities between the levels of development of the various regions within the Union, and to reducing the backwardness of the least favoured regions through participation in the structural adjustment of regions whose development is lagging behind and in the conversion of declining industrial regions, including by promoting sustainable development and addressing environmental challenges.
+
+3\. The Cohesion Fund shall contribute to projects in the field of environment and trans-European networks in the area of transport infrastructure (TEN-T).
+
+### Article 3 — Specific objectives for the ERDF and the Cohesion Fund
+
+1\. In accordance with the policy objectives set out in Article 5(1) of Regulation (EU) 2021/1060, the ERDF shall support the following specific objectives:
+
+(a) a more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity (PO 1) by:
+
+(i) developing and enhancing research and innovation capacities and the uptake of advanced technologies;
+
+(ii) reaping the benefits of digitisation for citizens, companies, research organisations and public authorities;
+
+(iii) enhancing sustainable growth and competitiveness of SMEs and job creation in SMEs, including by productive investments;
+
+(iv) developing skills for smart specialisation, industrial transition and entrepreneurship;
+
+(v) enhancing digital connectivity;
+
+(vi) supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council ( 1 );
+
+(vii) enhancing industrial capacities to foster defence capabilities, prioritising capabilities of a dual-use nature;
+
+(b) a greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility (PO 2) by:
+
+(i) promoting energy efficiency and reducing greenhouse gas emissions;
+
+(ii) promoting renewable energy in accordance with Directive (EU) 2018/2001, including the sustainability criteria set out therein;
+
+(iii) developing smart energy systems, grids and storage outside the Trans-European Energy Network (TEN-E);
+
+(iv) promoting climate change adaptation and disaster risk prevention and resilience, taking into account eco-system based approaches;
+
+(v) promoting secure access to water, sustainable water management, including integrated water management, and water resilience;
+
+(vi) promoting the transition to a circular and resource efficient economy;
+
+(vii) enhancing protection and preservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all forms of pollution;
+
+(viii) promoting sustainable multimodal urban mobility, as part of transition to a net zero carbon economy;
+
+(ix) supporting investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii), of Regulation (EU) 2024/795;
+
+(x) supporting investments aimed at reconstruction in response to a natural disaster that occurs between 1 January 2024 and 31 December 2025;
+
+(xi) promoting access to affordable and sustainable housing;
+
+(xii) promoting energy interconnectors and related transmission, distribution, storage and supporting infrastructure, as well as the protection of critical energy infrastructure and the deployment of recharging infrastructure;
+
+(c) a more connected Europe by enhancing mobility (PO 3) by:
+
+(i) developing a climate resilient, intelligent, secure, sustainable and intermodal TEN-T;
+
+(ii) developing and enhancing sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility;
+
+(iii) developing resilient defence infrastructure, prioritising that of a dual-use nature, including to foster military mobility in the Union, as well as enhancing civil preparedness;
+
+(d) a more social and inclusive Europe implementing the European Pillar of Social Rights (PO 4) by:
+
+(i) enhancing the effectiveness and inclusiveness of labour markets and access to quality employment through developing social infrastructure and promoting social economy;
+
+(ii) improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training;
+
+(iii) promoting the socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups, including people with special needs, through integrated actions, including housing and social services;
+
+(iv) promoting the socio-economic integration of third country nationals, including migrants through integrated actions, including housing and social services;
+
+(v) ensuring equal access to health care and fostering resilience of health systems, including primary care, and promoting the transition from institutional to family-based and community-based care;
+
+(vi) enhancing the role of culture and sustainable tourism in economic development, social inclusion and social innovation;
+
+(vii) promoting access to affordable and sustainable housing;
+
+(e) a Europe closer to citizens by fostering the sustainable and integrated development of all types of territories and local initiatives (PO 5) by:
+
+(i) fostering the integrated and inclusive social, economic and environmental development, culture, natural heritage, sustainable tourism and security in urban areas;
+
+(ii) fostering the integrated and inclusive social, economic and environmental local development, culture, natural heritage, sustainable tourism and security in areas other than urban areas;
+
+(iii) fostering integrated territorial development, through access to affordable and sustainable housing in all types of territories;
+
+(iv) ensuring civil preparedness in all types of territories.
+
+Support under PO5 shall be provided through territorial and local development strategies, through the forms set out in points (a), (b) and (c) of Article 28 of Regulation (EU) 2021/1060.
+
+Operations supported under the specific objective set out in the first subparagraph, point (c)(iii), fostering military mobility shall primarily focus, where relevant, on one or more of the four Priority Military Mobility Corridors identified by Member States in Annex II to the Military Requirements for Military Mobility within and beyond the EU as adopted by the Council on 18 March 2025. Supported operations which are part of those Corridors shall comply with the infrastructure requirements laid down in implementing acts based on Article 12(2) of Regulation (EU) 2021/1153 of the European Parliament and of the Council ( 2 ).
+
+1a. The resources under the specific objective referred to in paragraph 1, first subparagraph, points (a)(vi) and (b)(ix), shall be programmed under dedicated priorities corresponding to the relevant policy objective.
+
+Where a programme amendment is submitted to the Commission by 31 December 2025, the Commission shall pay 20 % of the allocation to such dedicated priorities as set out in the decision approving the programme amendment as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060 or in Article 51(2), (3) and (4) of Regulation (EU) 2021/1059 of the European Parliament and of the Council ( 3 ). Where such dedicated priorities have been included in a programme amendment submitted to the Commission by 31 March 2025, the Commission shall pay exceptional one-off pre-financing of 30 % of the allocation to those priorities as set out in the decision approving the programme amendment. The exceptional one-off pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment.
+
+In accordance with Article 90(5) of Regulation (EU) 2021/1060 and Article 51(5) of Regulation (EU) 2021/1059, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF and shall be included in the accounts for the final accounting year.
+
+In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.
+
+In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.
+
+By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be 100 %.
+
+1b. For the purposes of paragraph 1, point (b)(x), of this Article, a natural disaster shall be understood to be a major natural disaster or a regional natural disaster as defined, respectively, in Article 2(2) and (3) of Council Regulation (EC) No 2012/2002 ( 4 ). This may include a natural disaster resulting in direct damage below the thresholds set in Article 2(2) and (3) of that Regulation, provided that it was recognised as a natural disaster by a competent public authority of the Member State.
+
+Where the natural disaster resulting in direct damage below the thresholds set in Article 2(2) and (3) of Regulation (EC) No 2012/2002 occurs after 24 December 2024, it shall be understood to be a natural disaster provided that it is recognised as such by a competent public authority of the relevant Member State within 12 weeks of the date of the first occurrence of damage as a consequence of that natural disaster.
+
+The resources allocated under the specific objective referred to in paragraph 1, point (b)(x), of this Article shall be programmed under dedicated priorities of programmes under the Investment for jobs and growth goal corresponding to the respective policy objective. For the entire programming period, the resources allocated under that specific objective and the dedicated priorities established pursuant to Article 12b(2) of Regulation (EU) 2021/1057 shall be limited to a maximum of 10 % of the initial total national allocation of the ESF+ and the ERDF. The programme amendment concerned shall be submitted within six months of the date on which the damage as a consequence of the natural disaster first occurred or, where the natural disaster occurred before 24 December 2024, by 25 June 2025.
+
+The Commission shall pay 25 % of the allocation to the priorities referred to in the third subparagraph of this paragraph in accordance with the decision approving the programme amendment as exceptional pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060. That exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment, subject to the availability of funds. Where the allocation to those priorities is subsequently increased, an additional pre-financing amount shall be paid, corresponding to 25 % of the increase.
+
+In accordance with Article 90(5), first subparagraph, of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF or the Cohesion Fund and shall be included in the accounts for the final accounting year.
+
+In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.
+
+In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.
+
+By way of derogation from Article 112(3) of Regulation (EU) 2021/1060, the maximum co-financing rate for a dedicated priority established to support the specific objective referred to in paragraph 1, point (b)(x), of this Article shall be 95 %.
+
+Member States shall ensure that support from another Union instrument, from a national instrument or from a private insurance scheme received for operations selected under the specific objective referred to in paragraph 1, point (b)(x), of this Article is deducted from the expenditure included in the payment application submitted to the Commission.
+
+By way of derogation from Article 63(6) of Regulation (EU) 2021/1060, the managing authority concerned may select for support, under a dedicated priority, operations that have been physically completed or fully implemented before the submission of the application for funding to the managing authority, provided that the operation provides a response to a natural disaster which occurs between 1 January 2024 and 31 December 2025.
+
+1c. The resources under the specific objectives referred to in paragraph 1, first subparagraph, point (a)(vii), points (b)(v), (xi) and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv), shall be programmed under dedicated priorities corresponding to the relevant policy objective.
+
+Where a programme amendment is submitted to the Commission by 31 December 2025, the Commission shall pay 20 % of the allocation to such dedicated priorities as set out in the decision approving the programme amendment as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060 and in Article 51(2), (3) and (4) of Regulation (EU) 2021/1059. The exceptional one-off pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment.
+
+The amount paid as exceptional one-off pre-financing shall, pursuant to Article 90(5) of Regulation (EU) 2021/1060, be cleared from the Commission accounts no later than with the final accounting year.
+
+Any interest generated by such exceptional one-off pre-financing shall, pursuant to Article 90(6) of Regulation (EU) 2021/1060, be used for the programme concerned in the same way as the ERDF or the Cohesion Fund and be included in the accounts for the final accounting year.
+
+Pursuant to Article 97(1) of Regulation (EU) 2021/1060, such exceptional one-off pre-financing shall not be suspended.
+
+The pre-financing to be taken into account for the purpose of calculating amounts to be decommitted shall, pursuant to Article 105(1) of Regulation (EU) 2021/1060, include any exceptional one-off pre-financing paid.
+
+By way of derogation from Article 112(3) and (4) of Regulation (EU) 2021/1060, the maximum co-financing rate for dedicated priorities established to support the specific objectives referred to in paragraph 1, first subparagraph, point (a)(vii), points (b)(v), (xi) and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv), of this Article shall be increased by 10 percentage points above the co-financing rate applicable, not exceeding 100 %.
+
+2\. Under the two specific objectives of point (e) of paragraph 1, Member States may also support operations which can be funded under the specific objectives set out under points (a) to (d) of that paragraph.
+
+3\. The Cohesion Fund shall support PO 2 and 3, including the specific objectives set out in paragraph 1, first subparagraph, points (b)(x), (xi) and (xii) and point (c)(iii), of this Article, insofar as such support is in line with the scope of support as set out in Articles 6 and 7.
+
+4\. Within the specific objectives set out in paragraph 1, the ERDF or the Cohesion Fund, as appropriate, may also support activities under the Investment for jobs and growth goal, where they:
+
+(a) improve the capacity of programme authorities;
+
+(b) improve the capacity of sectoral or territorial actors responsible for carrying out activities relevant to the implementation of the ERDF and the Cohesion Fund, provided that it contributes to the objectives of the programme; or
+
+(c) enhance cooperation with partners both within and outside a given Member State.
+
+Cooperation referred to in point (c) shall include cooperation with partners from cross-border regions, from non-contiguous regions or from regions located in the territory covered by a European Grouping of Territorial Cooperation, a macro-regional or sea-basin strategy or a combination thereof.
+
+5\. By way of derogation from Article 49(3) of Regulation (EU) 2021/1060, for operations supported under the specific objectives referred to in paragraph 1, first subparagraph, points (a)(vii) and (c)(iii), of this Article, the Member State concerned shall not be required to make the data relating to those operations publicly available where such disclosure is not permitted for reasons of security or public order pursuant to Article 69(5) of Regulation (EU) 2021/1060. To that end, Member States shall inform the Commission before selecting the operation concerned for support. This subparagraph is without prejudice to the rights of the Commission and of the European Court of Auditors to access the information necessary to perform their functions in relation to verifications and audits and the European Parliament’s duty to exercise political control pursuant to Article 14 TEU and monitor the implementation of the Union budget pursuant to Article 319 TFEU.
+
+Beneficiaries shall not be subject to the requirements set out in Article 50(1), points (c), (d) and (e), of Regulation (EU) 2021/1060 for operations linked to the specific objectives referred to in paragraph 1, points (a)(vii) and (c)(iii), of this Article where the public display of information on the support or the organisation of a communication event or activity is not required for reasons of security or public order pursuant to Article 69(5) of Regulation (EU) 2021/1060.
+
+The Commission shall inform the European Parliament at least once a year of the number of operations that are the subject of the derogation provided for in the second subparagraph, as well as their total cost, in an aggregated manner, with due regard to confidentiality requirements.
+
+### Article 4 — Thematic concentration of ERDF support
+
+1\. With regard to programmes implemented under the Investment for jobs and growth goal, the total ERDF resources, other than for technical assistance, in each Member State shall be concentrated at national level or at the level of category of region in accordance with paragraphs 3 to 9.
+
+2\. With regard to the thematic concentration of support for Member States comprising outermost regions, the ERDF resources allocated specifically to programmes for the outermost regions and those allocated to all other regions shall be treated separately.
+
+3\. Member States may decide to comply with thematic concentration at national level or at the level of category of region. Each Member State shall indicate its choice in its Partnership Agreement referred to in Article 10 of Regulation (EU) 2021/1060. That choice shall apply to the total of that Member State’s ERDF resources referred to in paragraph 1 of this Article for the entire programming period.
+
+4\. For the purposes of a thematic concentration at national level, Member States shall be classified, in terms of their gross national income ratio, as follows:
+
+(a) those with a gross national income ratio equal to or above 100 % of the EU average (‘group 1’);
+
+(b) those with a gross national income ratio equal to or above 75 % and below 100 % of the EU average (‘group 2’);
+
+(c) those with a gross national income ratio below 75 % of the EU average (‘group 3’).
+
+For the purposes of this Article, the gross national income ratio means the ratio between the gross national income per capita of a Member State, measured in purchasing power standards and calculated on the basis of Union figures for the period from 2015 to 2017, and the average gross national income per capita in purchasing power standards of the 27 Member States for that same reference period.
+
+With regard to programmes under the Investment for jobs and growth goal for the outermost regions, they shall be classified as falling within group 3.
+
+With regard to programmes under the Investment for jobs and growth goal for island Member States which receive support from the Cohesion Fund, they shall be classified as falling within group 3.
+
+5\. For the purposes of a thematic concentration at the level of category of region, regions shall be classified by categories of region in accordance with Article 108(2) of Regulation (EU) 2021/1060, as:
+
+(a) more developed regions;
+
+(b) transition regions;
+
+(c) less developed regions.
+
+6\. Member States shall comply at national level with the following thematic concentration requirements:
+
+(a) Member States of group 1 or more developed regions shall allocate at least 85 % of their ERDF resources referred to in paragraph 1 to PO 1 and PO 2, and at least 30 % to PO 2;
+
+(b) Member States of group 2 or transition regions shall allocate at least 40 % of their ERDF resources referred to in paragraph 1 to PO 1, and at least 30 % to PO 2;
+
+(c) Member States of group 3 or less developed regions shall allocate at least 25 % of their ERDF resources referred to in paragraph 1 to PO 1, and at least 30 % to PO 2.
+
+Where a Member State decides to comply with thematic concentration requirements at the level of category of regions, the thresholds set out in the first subparagraph of this paragraph shall apply to the ERDF resources referred to in paragraph 1 aggregated together for all regions falling in the respective category of region.
+
+7\. Where a Member State allocates to PO 2 more than 50 % of its total Cohesion Fund resources other than for technical assistance as calculated after the transfer set out in Article 110(4) of Regulation (EU) 2021/1060, excluding resources under the specific objective referred to in point (b)(viii) of the first subparagraph of Article 3(1) of this Regulation, the allocation exceeding the 50 % may be taken into account when calculating the compliance with the thematic concentration requirements set out in paragraph 6 of this Article.
+
+If a Member State decides to comply with thematic concentration at the level of category of regions, the Cohesion Fund resources that are taken into account for thematic concentration requirements in accordance with the first subparagraph shall be allocated pro rata to the different categories of regions based on their relative share of the total population of the Member State concerned.
+
+Member States shall set out in their Partnership Agreement referred to in Article 10 of Regulation (EU) 2021/1060 whether the Cohesion Fund resources will be taken into account for thematic concentration requirements for PO 2.
+
+8\. The resources under the specific objective referred to in point (a)(v) of the first subparagraph of Article 3(1) shall be programmed under a dedicated priority.
+
+By way of derogation from paragraph 6, 40 % of such resources shall be taken into account when calculating compliance with the thematic concentration requirements for PO1 set out in paragraph 6.
+
+The resources taken into account for thematic concentration requirements in accordance with the second subparagraph of this paragraph shall not exceed 40 % of the minimum thematic concentration requirements for PO 1 set out in paragraph 6.
+
+9\. The resources under the specific objective referred to in point (b)(viii) of the first subparagraph of Article 3(1) shall be programmed under a dedicated priority.
+
+By way of derogation from paragraph 6, 50 % of such ERDF resources shall be taken into account when calculating compliance with the thematic concentration requirements for PO 2 set out in paragraph 6.
+
+The resources taken into account for thematic concentration requirements in accordance with the second subparagraph of this paragraph shall not exceed 50 % of the minimum thematic concentration requirements for PO 2 set out in paragraph 6.
+
+10\. The thematic concentration requirements set out in paragraph 6 of this Article shall be complied with throughout the entire programming period, including when ERDF allocations are transferred between priorities of a programme or between programmes and at the mid-term review in accordance with Article 18 of Regulation (EU) 2021/1060. Where a Member State submits a request for an amendment of a programme in accordance with Article 24 of Regulation (EU) 2021/1060, amounts programmed for the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi) and (b)(ix) of this Regulation, as well as for the specific objectives referred to in Article 3(1), first subparagraph, point (a)(vii), points (b)(v), (xi), and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv), of this Regulation, may be counted towards either the amounts required for PO 1 or PO 2 or divided between the two.
+
+Where a Member State complies with the thematic concentration requirements at the level of category of regions, amounts programmed for the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi) and (b)(ix), as well as for the specific objectives referred to in Article 3(1), first subparagraph, point (a)(vii), points (b)(v), (xi), and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv), which exceed the thresholds for thematic concentration for a category of region, may be counted towards the thematic concentration thresholds in other categories of regions within the same policy objective.
+
+This paragraph shall apply solely when transferring allocations for the specific objectives referred herein from more developed regions or transition regions to less developed regions and from more developed regions to transition regions.
+
+11\. Where the ERDF allocation with regard to PO 1 or PO 2, or both, of a given programme is reduced following a decommitment under Article 105 of Regulation (EU) 2021/1060, or due to financial corrections by the Commission in accordance with Article 104 of that Regulation, compliance with the thematic concentration requirements set out in paragraph 6 of this Article shall not be re-assessed.
+
+12\. This Article shall not apply to the additional funding for northern sparsely populated regions referred to in point (e) of Article 110(1) of Regulation (EU) 2021/1060.
+
+### Article 5 — Scope of support from the ERDF
+
+1\. The ERDF shall support the following:
+
+(a) investments in infrastructure;
+
+(b) activities for applied research and innovation, including industrial research, experimental development and feasibility studies;
+
+(c) investments in access to services;
+
+(d) productive investments in SMEs and investments aiming at safeguarding existing jobs and creating new jobs;
+
+(e) equipment, software and intangible assets;
+
+(f) networking, cooperation, exchange of experience and activities involving innovation clusters including between businesses, research organisations and public authorities;
+
+(g) information, communication and studies; and
+
+(h) technical assistance.
+
+2\. Productive investments in enterprises other than SMEs may be supported:
+
+(a) when they involve cooperation with SMEs in research and innovation activities supported under point (a)(i) of the first subparagraph of Article 3(1);
+
+(b) when primarily supporting energy efficiency measures and renewable energy under points (b)(i) and (b)(ii) of the first subparagraph of Article 3(1);
+
+(c) when they are made in small mid-cap and mid-cap companies as defined in points (6) and (7) of Article 2 of Regulation (EU) 2015/1017 of the European Parliament and the Council ( 5 ) through financial instruments; or
+
+(d) when they are made in small mid-cap companies in research and innovation activities supported under point (a)(i) of the first subparagraph of Article 3(1);
+
+(e) when they contribute to the specific objectives under PO 1 set out in Article 3(1), first subparagraph, points (a)(vi) and (vii), or to the specific objective under PO 2 set out in Article 3(1), first subparagraph, point (b)(ix), in less developed and transition regions, as well as in more developed regions of Member States whose average GDP per capita is below the EU-27 average measured in purchasing power standards and calculated on the basis of Union figures for the period 2015-2017, while preserving a focus on SMEs;
+
+(f) when they contribute to an important project of common European interest which the Commission has found to be compatible with the internal market pursuant to Article 107(3), point (b), TFEU having taken into account the Commission communication of 25 November 2021 entitled ‘Criteria for the analysis of the compatibility with the internal market of State aid to promote the execution of important projects of common European interest’, while preserving a focus on SMEs; or
+
+(g) where they facilitate industrial adjustment linked to the decarbonisation of production processes and products in less developed and transition regions, as well as in more developed regions of Member States whose average GDP per capita is below the EU-27 average measured in purchasing power standards and calculated on the basis of Union figures for the period 2015-2017, while preserving a focus on SMEs.
+
+Points (e) and (g) of the first subparagraph shall apply to Interreg programmes where the geographical coverage of the programme within the Union consists exclusively of categories of regions set out in those points.
+
+3\. In order to contribute to the specific objective under PO 1 set out in point (a)(iv) of the first subparagraph of Article 3(1), the ERDF shall also support training, life-long learning, reskilling and education activities.
+
+3a. In order to contribute to the specific objectives under PO 1 set out in Article 3(1), point (a)(vi), and under PO 2 set out in point (b)(ix) of that subparagraph, the ERDF shall also support training, life-long learning, reskilling and education activities.
+
+4\. In order to contribute to the specific objective under PO 2 set out in point (b)(iv) of the first subparagraph of Article 3(1) and to the specific objective under PO 4 set out in point (d)(v) of that subparagraph, the ERDF shall also support the purchase of supplies necessary for strengthening the resilience of health systems and for strengthening disaster resilience.
+
+5\. Under Interreg, the ERDF may also support:
+
+(a) sharing of facilities and of human resources; and
+
+(b) accompanying soft investments and other activities linked to PO 4 under the European Social Fund Plus as set out in Regulation (EU) 2021/1057.
+
+6\. The ERDF may support the financing of working capital in SMEs in the form of grants, where strictly necessary as a temporary measure to respond to exceptional or unusual circumstances referred to in Article 20 of Regulation (EU) 2021/1060.
+
+7\. Where, upon a request submitted by the Member States concerned, the Commission finds that the requirements laid down in paragraph 6 are fulfilled, it shall adopt an implementing decision specifying the period during which the temporary additional support from ERDF is authorised.
+
+8\. The Commission shall keep the European Parliament and the Council informed about the implementation of paragraph 6 and assess whether the temporary additional support from the ERDF is sufficient to facilitate the use of the fund in response to the exceptional or unusual circumstances. On the basis of its assessment, the Commission shall, where deemed appropriate, make proposals for amendments to this Regulation, including on thematic concentration requirements in Article 4.
+
+9\. The European Parliament or the Council may invite the Commission for a structured dialogue on the application of paragraphs 6, 7 and 8 of this Article in accordance with Article 20(3) of Regulation (EU) 2021/1060.
+
+10\. In addition to the possibilities set out in Article 14 of Regulation (EU) 2021/1060, Member States may, with the agreement of the managing authorities concerned, allocate resources from the ERDF and the Cohesion Fund to the Member State compartment of the InvestEU Fund to deploy them through the financial instrument provided for in the InvestEU Programme. Such contributions shall either be subject to the procedures set out in Article 14 of Regulation (EU) 2021/1060 and count towards the ceilings set out in that Article, or be counted cumulatively, provided that total transfers do not exceed EUR 50 million. Resources generated by or attributable to the amounts contributed to the InvestEU financial instrument in accordance with Article 14 of Regulation (EU) 2021/1060 shall be made available to the Member State in accordance with the contribution agreement and shall be used for support under the same objective or objectives in the form of financial instruments or budgetary guarantees.
+
+11\. In addition to the possibilities set out in Article 73(4) of Regulation (EU) 2021/1060, for projects directly participating in an important project of common European interest which the Commission has found to be compatible with the internal market pursuant to Article 107(3), point (b), TFEU having taken into account the Commission communication of 25 November 2021 entitled ‘Criteria for the analysis of the compatibility with the internal market of State aid to promote the execution of important projects of common European interest’, the managing authority may decide to grant support from the ERDF directly, provided that such operations meet the requirements set out in Article 73(2), points (a), (b) and (g), of Regulation (EU) 2021/1060.
+
+### Article 6 — Scope of support from the Cohesion Fund
+
+1\. The Cohesion Fund shall support the following:
+
+(a) investments in the environment, including investments related to sustainable development and energy presenting environmental benefits, with a particular focus on renewable energy;
+
+(b) investments in TEN-T;
+
+(c) technical assistance;
+
+(d) information, communication, and studies.
+
+Member States shall ensure an appropriate balance between investments under points (a) and (b), based on the investment and infrastructure needs specific to each Member State.
+
+2\. The amount of the Cohesion Fund transferred to the Connecting Europe Facility shall be used for TEN-T projects.
+
+### Article 7 — Exclusion from the scope of the ERDF and the Cohesion Fund
+
+1\. The ERDF and the Cohesion Fund shall not support:
+
+(a) the decommissioning or the construction of nuclear power stations;
+
+(b) investment to achieve the reduction of greenhouse gas emissions from activities listed in Annex I to Directive 2003/87/EC;
+
+(c) the manufacturing, processing and marketing of tobacco and tobacco products;
+
+(d) an undertaking in difficulty, as defined in point (18) of Article 2 of Regulation (EU) No 651/2014, unless authorised under de minimis aid or temporary State aid rules established to address exceptional circumstances;
+
+(e) investment in airport infrastructure, except for outermost regions or in existing regional airports as defined in point (153) of Article 2 of Regulation (EU) No 651/2014, in any of the following cases:
+
+(i) in environmental impact mitigation measures; or
+
+(ii) in security, safety, and air traffic management systems resulting from Single European Sky ATM Research;
+
+(f) investment in disposal of waste in landfill, except:
+
+(i) for the outermost regions, in duly justified cases only; or
+
+(ii) for investments for decommissioning, reconverting or making safe existing landfills provided that such investments do not increase their capacity;
+
+(g) investment increasing the capacity of facilities for the treatment of residual waste, except for:
+
+(i) the outermost regions in duly justified cases only;
+
+(ii) investment in technologies to recover materials from residual waste for circular economy purposes;
+
+(h) investment related to production, processing, transport, distribution, storage or combustion of fossil fuels, with the exception of:
+
+(i) the replacement of solid fossil fuels fired, namely coal, peat, lignite, oil-shale, heating systems with gas-fired heating systems for the purpose of:
+
+— upgrading district heating and cooling systems to the status of ‘efficient district heating and cooling’ as defined in point (41) of Article 2 of Directive 2012/27/EU;
+
+— upgrading combined heat and power installations to the status of ‘high-efficiency co-generation’ as defined in point (34) of Article 2 of Directive 2012/27/EU;
+
+— investment in natural gas-fired boilers and heating systems in housing and buildings replacing coal-, peat-, lignite- or oil shale-based installations;
+
+(ii) investment in the expansion and repurposing, conversion or retrofitting of gas transmission and distribution networks provided that such investment makes the networks ready for adding renewable and low carbon gases, such as hydrogen, biomethane and synthesis gas, into the system and allows to substitute solid fossil fuels installations;
+
+(iii) investment in:
+
+— clean vehicles as defined in Directive 2009/33/EC of the European Parliament and of the Council ( 6 ) for public purposes; and
+
+— vehicles, aircraft and vessels designed and constructed or adapted for use by civil protection and fire services.
+
+2\. The total amount of Union support for Union investment referred to in points (h)(i) and (h)(ii) of paragraph 1 shall not exceed the following limits of the total programmes allocation from the ERDF and the Cohesion Fund under the Investment for jobs and growth goal for the Member State concerned:
+
+(a) for Member States whose gross national income (GNI) per capita is below 60 % of the EU average GNI per capita, or for Member States whose GNI per capita is below 90 % of the EU average GNI per capita and which have a share of solid fossil fuels in gross inland energy consumption equal to or above 25 %, the limit shall be 1,55 %;
+
+(b) for Member States other than those in point (a) whose GNI per capita is below 90 % of the EU average GNI per capita, the limit shall be 1 %;
+
+(c) for Member States whose GNI per capita is equal to or above 90 % of the EU average GNI per capita, the limit shall be 0,2 %.
+
+3\. For the purposes of this Article, the gross national income per capita of a given Member State shall be measured in purchasing power standards and calculated on the basis of Union figures for the period from 2015 to 2017, and expressed as a percentage of the national income per capita in purchasing power standards of the 27 Member States for that same reference period.
+
+For the purposes of this Article, the share of solid fossil fuels in energy consumption means the share of coal, lignite, peat and oil shale measured in 2018.
+
+4\. Operations supported by the ERDF and the Cohesion Fund under points (h)(i) and (h)(ii) of paragraph 1 shall be selected by the managing authority by 31 December 2025. Such operations shall not be phased to the next programming period.
+
+5\. The Cohesion Fund shall not support investment in housing unless related to the promotion of energy efficiency or renewable energy use.
+
+6\. Overseas countries and territories shall not be eligible for support from the ERDF or the Cohesion Fund, but may participate in Interreg programmes in accordance with the conditions set out in Regulation (EU) 2021/1059 of the European Parliament and of the Council ( 7 ).
+
+### Article 7a — Specific provisions linked to the mid-term review and related flexibility
+
+1\. In 2026, the Commission shall pay 1,5 % of the total support from the ERDF, the Cohesion Fund and the Just Transition Fund (JTF) established by Regulation (EU) 2021/1056 of the European Parliament and of the Council ( 8 ), pursuant to the decision approving the programme amendment, as additional one-off pre-financing. That additional one-off pre-financing percentage shall be increased to 9,5 % for programmes under the Investment for jobs and growth goal covering one or more NUTS level 2 regions bordering Russia, Belarus or Ukraine, provided that the programme does not cover the entire territory of the Member State concerned. However, where NUTS level 2 regions bordering Russia, Belarus or Ukraine are included only in programmes covering the entire territory of the Member State concerned, the increased percentage shall also apply to such programmes.
+
+2\. The additional one off pre-financing referred to in paragraph 1 of this Article shall apply only where reallocations of at least 10 % of the financial resources of the programme to one or more of the dedicated priorities established for the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi), and (vii), points (b)(v),(ix), (xi), and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv), have been approved in the context of the mid-term review, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025 (the ‘10 % threshold’).
+
+The following reallocations within the same programme shall also count towards the 10 % threshold:
+
+(a) reallocations from the ESF+ to one or more of the dedicated priorities established pursuant to Articles 12a, 12c and 12d of Regulation (EU) 2021/1057 in the context of the mid-term review;
+
+(b) reallocations from the JTF to the dedicated priorities established to support investments contributing to STEP objectives or established for the promotion of access to affordable and sustainable housing pursuant to Regulation (EU) 2021/1056 in the context of the mid-term review;
+
+(c) reallocations from the ERDF or the Cohesion Fund to the dedicated priorities for the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi) and (b)(ix), of this Regulation or from the ESF+ to dedicated priorities established pursuant to Article 12a of Regulation (EU) 2021/1057 or from the JTF to the dedicated priorities established to support investments contributing to STEP objectives approved in programme amendments prior to the mid-term review;
+
+(d) reallocations from the ERDF or the Cohesion Fund to the priorities established for the specific objective referred to in Article 3(1), first subparagraph, point (b)(v), approved in programme amendments since 1 January 2025.
+
+3\. The following resources shall not be taken into account for the purpose of calculating the amount corresponding to the 10 % threshold:
+
+(a) resources from the European Union Recovery Instrument referred to in Article 4 of Regulation (EU) 2021/1056;
+
+(b) the additional funding for outermost regions referred to in Article 110(1), point (e), of Regulation (EU) 2021/1060;
+
+(c) the resources reallocated to one or more of the dedicated priorities established to support the response to natural disasters pursuant to Article 12b of Regulation (EU) 2021/1057 or under the specific objective referred to in Article 3(1), point (b)(x), of this Regulation.
+
+4\. The additional one-off pre-financing which is due to the Member State and which results from programme amendments pursuant to reallocation to the priorities referred to in paragraph 2 of this Article shall be counted as payments made in 2025 for the purpose of calculating the amounts to be decommitted pursuant to Article 105 of Regulation (EU) 2021/1060, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+5\. By way of derogation from Article 63(2) and Article 105(2) of Regulation (EU) 2021/1060, the final date for the eligibility of expenditure and decommitment shall be 31 December 2030 where programme amendments reallocating at least 10 % of the financial resources of the programme to one or more of the dedicated priorities referred to in paragraph 2 of this Article have been approved.
+
+6\. Where a Member State has only one programme covering its entire territory and that programme is financed from the ERDF, the Cohesion Fund, the ESF+ and the JTF, the derogation referred to in paragraph 5 shall apply where at least 7 % of the financial resources of the programme are reallocated to one or more of the dedicated priorities established for the specific objectives referred to in paragraph 2.
+
+7\. With regard to the programmes referred to in paragraphs 5 and 6 of this Article, where Regulation (EU) 2021/1060 or one of the fund-specific Regulations establishes the final date for the purposes of the application of the performance framework, financial management, reporting and evaluation requirements, that date shall be deemed to refer to the same date in the following year. In addition, by way of derogation from Article 2, point (29), of Regulation (EU) 2021/1060, for such programmes the final accounting year shall be deemed to refer to the period from 1 July 2030 to 30 June 2031.
+
+8\. Member States may, in requests for programme amendments submitted pursuant to Article 24 of Regulation (EU) 2021/1060, request the reallocation of ERDF resources programmed under the Investment for jobs and growth goal to the European Urban Initiative and to the Interregional Innovation Investments Instruments referred to, respectively, in Articles 12 and 13 of this Regulation. Reallocated resources shall be implemented for the benefit of the Member State concerned. Such reallocations shall not constitute transfers within the meaning of Article 26 of Regulation (EU) 2021/1060.
+
+9\. In accordance with Article 40(2), point (d), and Article 8 of Regulation (EU) 2021/1060, requests for programme amendments to reallocate resources under the mid-term review shall be submitted only after approval by the monitoring committee. Where such reallocation concerns resources programmed under Article 28 of that Regulation, it shall follow consultation with the responsible local and regional authorities, in accordance with the European code of conduct on partnership.
+
+10\. By way of derogation from Article 112(3) and (4) of Regulation (EU) 2021/1060, the maximum co-financing rate for priorities in programmes under the Investment for jobs and growth goal covering one or more NUTS level 2 regions bordering Russia, Belarus or Ukraine shall be increased by 10 percentage points above the co-financing rate applicable, not exceeding 100 %. The higher co-financing rate shall not apply to programmes covering the entire territory of the Member State concerned, unless those NUTS level 2 regions are included only in programmes covering the entire territory of the Member State concerned.
+
+The derogation provided for in the first subparagraph of this paragraph shall apply only where reallocations of at least 10 % of the financial resources of the programme to one or more of the dedicated priorities referred to in paragraph 2 of this Article, have been approved, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+11\. In addition to the assessment for each programme on the outcome of the mid-term review to be submitted pursuant to Article 18(2) of Regulation (EU) 2021/1060, Member States may, by 31 December 2025, resubmit a complementary assessment as well as related requests for programme amendments to the Commission, taking into account the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi), and (vii), points (b)(v),(ix), (xi), and (xii), point (c)(iii), point (d)(vii) and points (e)(iii) and (iv). The deadlines set in Article 24 of Regulation (EU) 2021/1060 shall apply.
+
+12\. Where the climate contribution of the Cohesion Fund referred to in Article 6(1) of Regulation (EU) 2021/1060 would exceed the target of 37 % of its total allocation, the amount exceeding that target may be taken into account when calculating the climate contribution of the ERDF for the purpose of reaching the target of 30 % of its total allocation. The amounts exceeding the ERDF climate contribution target of 30 % of its total allocation may be taken into account when calculating the climate contribution of the Cohesion Fund.
+
+### Article 8 — Indicators
+
+1\. Common output and result indicators, as set out in Annex I with regard to the ERDF and to the Cohesion Fund, and, where relevant, programme-specific output and result indicators shall be used in accordance with point (a) of the second subparagraph of Article 16(1), point (d)(ii) of Article 22(3) and point (b) of Article 42(2), of Regulation (EU) 2021/1060.
+
+2\. For output indicators, baselines shall be set at zero. The milestones set for 2024 and targets set for 2029 shall be cumulative.
+
+3\. In compliance with its reporting requirement pursuant to point (h) of Article 41(3) of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 9 ) (the ‘Financial Regulation’), the Commission shall present to the European Parliament and to the Council information on performance in accordance with Annex II.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 16 to amend Annex II in order to make the relevant adjustments to the information on performance to be provided to the European Parliament and to the Council.
+
+5\. The Commission shall assess how the strategic importance of the investments co-financed by the ERDF and the Cohesion Fund is taken into account in the context of the implementation of the Stability and Growth Pact and submit a report to the European Parliament and to the Council.
+
+## CHAPTER II — SPECIFIC PROVISIONS ON THE TREATMENT OF PARTICULAR TERRITORIAL FEATURES AND INTERREGIONAL INNOVATION INVESTMENTS
+
+### Article 9 — Integrated territorial development
+
+1\. The ERDF may support integrated territorial development within programmes under both goals referred to in Article 5(2) of Regulation (EU) 2021/1060 in accordance with Chapter II of Title III of that Regulation.
+
+2\. Member States shall implement integrated territorial development, supported by the ERDF, exclusively through the forms referred to in Article 28 of Regulation (EU) 2021/1060.
+
+### Article 10 — Support for disadvantaged areas
+
+In accordance with Article 174 TFEU, the ERDF shall pay special attention to addressing the challenges of disadvantaged regions and areas, in particular rural areas and areas which suffer from severe and permanent natural or demographic handicaps. Member States shall, where appropriate, set out an integrated approach to addressing demographic challenges or specific needs of such regions and areas in their partnership agreements in accordance with point (i) of the first subparagraph of Article 11 of Regulation (EU) 2021/1060. Such an integrated approach may include a commitment on dedicated funding for that purpose.
+
+### Article 11 — Sustainable urban development
+
+1\. To address economic, environmental, climate, demographic and social challenges, the ERDF shall support integrated territorial development based on territorial or community-led local development strategies in accordance with Article 29 or 32 of Regulation (EU) 2021/1060, respectively, that are focused on urban areas, including functional urban areas (‘sustainable urban development’) within programmes under both goals referred to in Article 5(2) of that Regulation.
+
+Special attention shall be given to tackling environmental and climate challenges, in particular the transition towards a climate-neutral economy by 2050, to harnessing the potential of digital technologies for innovation purposes, and to support the development of functional urban areas. In this context, sustainable urban development resources programmed under priorities corresponding to PO 1 and 2 shall count towards the thematic concentration requirements under Article 4.
+
+2\. At least 8 % of the ERDF resources at national level under the Investment for jobs and growth goal, other than for technical assistance, shall be allocated to sustainable urban development in one or more of the forms referred to in Article 28 of Regulation (EU) 2021/1060.
+
+The relevant territorial authorities or bodies shall select or shall be involved in the selection of operations in accordance with Article 29(3) and point (d) of Article 32(3) of Regulation (EU) 2021/1060.
+
+The programmes concerned shall set out the planned amounts for that purpose under point (d)(viii) of Article 22(3) of Regulation (EU) 2021/1060.
+
+3\. The percentage allocated to sustainable urban development under paragraph 2 of this Article shall be complied with throughout the entire programming period when ERDF allocations are transferred between priorities of a programme or between programmes, including at the mid-term review in accordance with Article 18 of Regulation (EU) 2021/1060.
+
+4\. Where the ERDF allocation is reduced following a decommitment under Article 105 of Regulation (EU) 2021/1060, or due to financial corrections by the Commission in accordance with Article 104 of that Regulation, compliance with paragraph 2 of this Article shall not be re-assessed.
+
+### Article 12 — European Urban Initiative
+
+1\. The ERDF shall support the European Urban Initiative, implemented by the Commission in direct and indirect management.
+
+This initiative shall cover all urban areas, including functional urban areas, and shall support the Urban Agenda for the EU, including support for the participation of local authorities in the thematic partnerships developed under the Urban Agenda for the EU.
+
+2\. The European Urban Initiative shall, with regard to sustainable urban development, consist of the following two strands:
+
+(a) support of innovative actions;
+
+(b) support of capacity and knowledge building, territorial impact assessments, policy development and communication.
+
+Upon the request of one or more Member States, the European Urban Initiative may also support inter-governmental cooperation on urban matters. Particular attention should be given to cooperation aimed at capacity building at local level to achieve UN Sustainable Development Goals.
+
+The Commission shall submit a report every two years to the European Parliament and to the Council on developments in connection with the European Urban Initiative.
+
+3\. The governance model of the European Urban Initiative shall include the involvement of Member States, regional and local authorities and cities and shall ensure appropriate coordination and complementarities with the dedicated programme under point (b) of Article 3(3) of Regulation (EU) 2021/1059 dealing with sustainable urban development.
+
+4\. Innovative actions which have been assessed in a call for proposals under the European Urban Initiative, comply with the minimum quality requirements of that call, and cannot be financed due to budgetary constraints, may be attributed a Seal of Excellence by the Commission.
+
+For the purposes of the Seal of Excellence, the European Urban Initiative is considered to be another Union source distinct from the programmes implemented and prepared in accordance with Article 7 of Regulation (EU) 2021/1060.
+
+### Article 13 — Interregional Innovation Investments
+
+1\. The ERDF shall support the Interregional Innovation Investments Instrument.
+
+2\. The Interregional Innovation Investments Instrument shall support the commercialisation and scaling up of interregional innovation projects having the potential to encourage the development of European value chains.
+
+3\. The Interregional Innovation Investments Instrument shall consist of the following two strands, supporting equally:
+
+(a) financial and advisory support for investments in interregional innovation projects in shared smart specialisation areas;
+
+(b) financial and advisory support, and capacity building for the development of value chains in less developed regions.
+
+4\. Up to 2 % of the resources may be dedicated to learning and evaluation activities, in order to capitalise on and disseminate the outcome of projects supported under the two strands.
+
+5\. The Commission shall implement those investments under direct or indirect management.
+
+6\. The Commission shall be supported in its work by a group of experts.
+
+The expert group shall be composed of representatives from Member States, regional authorities and cities, and representatives of business, research and civil society organisations. The composition of the expert group shall aim to ensure gender balance.
+
+The expert group shall support the Commission in defining a long-term work programme and in preparing calls for proposals.
+
+7\. When implementing this instrument, the Commission shall ensure coordination and synergy with other Union funding programmes and instruments and in particular with strand ‘Interreg C’ as defined in point 3 of Article 3 of Regulation (EU) 2021/1059.
+
+8\. The Interregional Innovation Investments Instrument shall cover the entire territory of the Union.
+
+Third countries can participate in this instrument, in accordance with the arrangements laid down in Articles 16 and 23 of Regulation (EU) 2021/695 of the European Parliament and of the Council ( 10 ) (the ‘Horizon Europe Regulation’).
+
+### Article 14 — Outermost regions
+
+1\. Article 4 shall not apply to the specific additional allocation for the outermost regions. This specific additional allocation for the outermost regions shall be used to offset the additional costs incurred in these regions as a result of one or several of the permanent restraints to their development referred to in Article 349 TFEU.
+
+2\. The allocation referred to in paragraph 1 of this Article shall support:
+
+(a) the activities within the scope as set out in Article 5 of this Regulation;
+
+(b) by way of derogation from Article 5 of this Regulation, measures covering operating costs with a view to offsetting the additional costs incurred in the outermost regions as a result of one or several of the permanent restraints to their development referred to in Article 349 TFEU.
+
+The allocation referred to in paragraph 1 of this Article may also support expenditure covering compensation granted for the provision of public service obligations and contracts in the outermost regions.
+
+3\. The allocation, referred to in paragraph 1 of this Article, shall not support:
+
+(a) operations involving products listed in Annex I to the TFEU;
+
+(b) aid for the transport of persons authorised under point (a) of Article 107(2) TFEU;
+
+(c) tax exemptions and exemption of social charges;
+
+(d) public services obligations not discharged by undertakings and where the State acts by exercising public power.
+
+4\. By way of derogation from point (d) of Article 5(1), the ERDF may support productive investments in enterprises in the outermost regions, irrespective of the size of those enterprises.
+
+## CHAPTER III — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 15 — Transitional provisions
+
+Regulations (EU) No 1300/2013 and (EU) No 1301/2013 or any act adopted thereunder shall continue to apply to programmes and operations supported by the ERDF or the Cohesion Fund under the 2014-2020 programming period.
+
+### Article 16 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 8(4) shall be conferred on the Commission for an indeterminate period of time from 1 July 2021.
+
+3\. The delegation of power referred to in Article 8(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 8(4) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 17 — Review
+
+The European Parliament and the Council shall review this Regulation by 31 December 2027, in accordance with Article 177 TFEU.
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — COMMON OUTPUT AND RESULT INDICATORS FOR ERDF AND THE COHESION FUND – ARTICLE 8(1) ( 11 )
+
+**Table 1**
+
+**Common output and result indicators for ERDF (Investment for jobs and growth and Interreg) and the Cohesion Fund ()**
+
+<table>
+<tbody><tr><td>Policy objective</td><td>Specific objective</td><td>Outputs</td><td>Results</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td rowspan="9">1. A more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity (PO 1)</td><td>(i) Developing and enhancing research and innovation capacities and the uptake of advanced technologies</td><td>RCO (2) 01 - Enterprises supported (of which: micro, small, medium, large)* (3) RCO 02 - Enterprises supported by grants* </td><td>RCR (4) 01 - Jobs created in supported entities* RCR 102 - Research jobs created in supported entities* </td></tr>
+<tr><td>  </td><td>RCO 03 - Enterprises supported by financial instruments* RCO 04 - Enterprises with non-financial support*  RCO 05 - New enterprises supported*  RCO 06 - Researchers working in supported research facilities  RCO 07 - Research organisations participating in joint research projects </td><td>RCR 02 - Private investments matching public support (of which: grants, financial instruments)* (3) RCR 03 - Small and medium-size enterprises (SMEs) introducing product or process innovation*  RCR 04 - SMEs introducing marketing or organisational innovation* </td></tr>
+<tr><td>  </td><td>RCO 08 - Nominal value of research and innovation equipment RCO 10 - Enterprises cooperating with research organisations  RCO 96 - Interregional investments for innovation in Union projects* </td><td>RCR 05 - SMEs innovating in-house* RCR 06 - Patent applications submitted*  RCR 07 - Trademark and design applications*  RCR 08 - Publications from supported projects </td></tr>
+<tr><td>(ii) Reaping the benefits of digitisation for citizens, companies, research organisations and public authorities</td><td>RCO 13 - Value of digital services, products and processes developed for enterprises* RCO 14 - Public institutions supported to develop digital services, products and processes* </td><td>RCR 11 - Users of new and upgraded public digital services, products and processes* RCR 12 - Users of new and upgraded digital services, products and processes developed by enterprises*  RCR 13 - Enterprises reaching high digital intensity* </td></tr>
+<tr><td>(iii) Enhancing sustainable growth and competitiveness of SMEs and job creation in SMEs, including by productive investments</td><td>RCO 15 - Capacity of incubation created* RCO 103 - High growth enterprises supported* </td><td>RCR 17 - New enterprises surviving in the market* RCR 18 - SMEs using incubator services after incubator creation*  RCR 19 - Enterprises with higher turnover*  RCR 25 - SMEs with higher value added per employee* </td></tr>
+<tr><td>(iv) Developing skills for smart specialisation, industrial transition and entrepreneurship</td><td>RCO 16 - Participations of institutional stakeholders in entrepreneurial discovery process RCO 101 - SMEs investing in skills for smart specialisation, for industrial transition and entrepreneurship* </td><td>RCR 97 - Apprenticeships supported in SMEs RCR 98 - SMEs staff completing training for skills for smart specialisation, for industrial transition and entrepreneurship (by type of skill: technical, management, entrepreneurship, green, other) (3) * </td></tr>
+<tr><td>(v) Enhancing digital connectivity</td><td>RCO 41 - Additional dwellings with broadband access of very high capacity RCO 42 - Additional enterprises with broadband access of very high capacity </td><td>RCR 53 - Dwellings with broadband subscriptions to a very high capacity network RCR 54 - Enterprises with broadband subscriptions to a very high capacity network </td></tr>
+<tr><td><br> (vi) supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795   </td><td> Any RCO listed for specific objectives (i), (iii) and (iv) RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource-efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]  </td><td> Any RCR listed for specific objectives (i), (iii) and (iv)  </td></tr>
+<tr><td><br> (vii) Enhancing industrial capacities to foster defence capabilities, prioritising capabilities of a dual-use nature;   </td><td><br> Any RCO listed for specific objectives (i) or (iii) <br> RCO 128 – Enterprises supported linked primarily to foster dual use and defence capabilities (RearmEU) – enterprises   </td><td> Any RCR listed for specific objectives (i) or (iii)  </td></tr>
+<tr><td rowspan="12">2. A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility (PO 2)</td><td>(i) Promoting energy efficiency and reducing greenhouse gas emissions</td><td>RCO 18 - Dwellings with improved energy performance RCO 19 - Public buildings with improved energy performance  RCO 20 - District heating and cooling network lines newly constructed or improved  RCO 104 - Number of high efficiency co-generation units  RCO123 - Dwellings benefitting from natural gas-fired boilers and heating systems replacing solid fossil fuels based installations </td><td>RCR 26 - Annual primary energy consumption (of which: dwellings, public buildings, enterprises, other) (3) RCR 29 - Estimated greenhouse gas emissions*  RCR 105 - Estimated greenhouse emissions by boilers and heating systems converted from solid fossil fuels to gas </td></tr>
+<tr><td>(ii) Promoting renewable energy in accordance with Directive (EU) 2018/2001, including the sustainability criteria set out therein</td><td>RCO 22 - Additional production capacity for renewable energy (of which: electricity, thermal) (3) * RCO 97 -Renewable energy communities supported* </td><td>RCR 31 - Total renewable energy produced (of which: electricity, thermal) (3) * RCR 32 - Additional operational capacity installed for renewable energy* </td></tr>
+<tr><td>(iii) Developing smart energy systems, grids and storage outside the Trans-European Energy Network (TEN-E)</td><td>RCO 23 - Digital management systems for smart energy systems RCO 105 - Solutions for electricity storage  RCO124: Gas transmission and distribution network lines newly constructed or improved </td><td>RCR 33 - Users connected to smart energy systems RCR 34 - Roll-out of projects for smart energy systems </td></tr>
+<tr><td>(iv) Promoting climate change adaptation and disaster risk prevention, and resilience, taking into account eco-system based approaches</td><td>RCO 24 - Investments in new or upgraded disaster monitoring, preparedness, warning and response systems against natural disasters* RCO 122 - Investments in new or upgraded disaster monitoring, preparedness, warning and response systems against non-climate related natural risks and risks related to human activities  RCO 25 - Coastal strip, river bank and lakeshore flood protection newly built or consolidated  RCO 106 - Landslide protection newly built or consolidated  RCO 26 - Green infrastructure built or upgraded for adaptation to climate change*  RCO 27 - National and sub-national strategies addressing climate change adaptation*  RCO 28 - Area covered by protection measures against wildfires  RCO 121 - Area covered by protection measures against climate related natural disasters (other than floods and wildfire) </td><td>RCR 35 - Population benefiting from flood protection measures RCR 36 - Population benefiting from wildfire protection measures  RCR 37 - Population benefiting from protection measures against climate related natural disasters (other than floods or wildfire)  RCR 96 - Population benefiting from protection measures against non-climate related natural risks and risks related to human activities* </td></tr>
+<tr><td><br> (v) Promoting secure access to water, sustainable water management, including integrated water management, and water resilience   </td><td><br> RCO 30 – Length of new or upgraded pipes for the distribution systems of public water supply – km <br> RCO 31 – Length of new or upgraded pipes for the public network for collection of waste water – km <br> RCO 32 – New or upgraded capacity for waste water treatment – population equivalent   </td><td><br> RCR 41 – Population connected to improved public water supply – persons <br> RCR 42 – Population connected to at least secondary public waste water treatment – persons <br> RCR 43 – Water losses in distribution systems for public water supply – cubic metres per year   </td></tr>
+<tr><td>(vi) Promoting the transition to a circular and resource efficient economy</td><td>RCO 34 - Additional capacity for waste recycling RCO 107 - Investments in facilities for separate waste collection  RCO 119 - Waste prepared for re-use </td><td>RCR 103 - Waste collected separately RCR 47 - Waste recycled  RCR 48 - Waste used as raw materials </td></tr>
+<tr><td>(vii) Enhancing protection and preservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all forms of pollution</td><td>RCO 36 - Green infrastructure supported for other purposes than adaptation to climate change RCO 37 - Surface of Natura 2000 sites covered by protection and restoration measures  RCO 38 - Surface area of rehabilitated land supported  RCO 39 - Area covered by systems for monitoring air pollution installed </td><td>RCR 50 - Population benefiting from measures for air quality* RCR 95 - Population having access to new or improved green infrastructure*  RCR 52 - Rehabilitated land used for green areas, social housing, economic or other uses </td></tr>
+<tr><td>(viii) Promoting sustainable multimodal urban mobility, as part of transition to a net zero carbon economy</td><td>RCO 55 - Length of new tram and metro lines RCO 56 - Length of reconstructed or modernised tram and metro lines  RCO 57 - Capacity of environmentally friendly rolling stock for collective public transport*  RCO 58 - Dedicated cycling infrastructure supported*  RCO 59 - Alternative fuels infrastructure (refuelling/recharging points)*  RCO 60 - Cities and towns with new or modernised digitised urban transport systems </td><td>RCR 62 - Annual users of new or modernised public transport RCR 63 - Annual users of new or modernised tram and metro lines  RCR 64 - Annual users of dedicated cycling infrastructure </td></tr>
+<tr><td><br> (ix) supporting investments contributing to the STEP objectives referred to in Article 2(1), point (a)(ii) of Regulation (EU) 2024/795   </td><td> Any RCO listed for specific objectives (i), (iii), (iv) and (vi) under policy objective 1 RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]  </td><td> Any RCR listed for specific objectives (i), (iii) and (iv) under policy objective 1  </td></tr>
+<tr><td><br> (x) supporting investments aimed at reconstruction in response to a natural disaster that occurs between 1 January 2024 and 31 December 2025.   </td><td> Any RCO listed for specific objectives under POs 1 to 4  </td><td> Any RCR listed for specific objectives under POs 1 to 4  </td></tr>
+<tr><td><br> (xi) Promoting access to affordable and sustainable housing   </td><td><br> RCO 18 – Affordable and sustainable dwellings with improved energy performance – dwellings <br> RCO 65 – Capacity of new or modernised affordable, sustainable and social housing – persons   </td><td><br> RCR 26 – Annual primary energy consumption (of which: affordable and sustainable dwellings, public buildings, enterprises, other) – MWh/year <br> RCR 29 –Estimated greenhouse emissions – tonnes CO2 eq./year <br> RCR67 Annual users of new or modernised affordable, sustainable and social housing – users/year   </td></tr>
+<tr><td><br> (xii) Promoting energy interconnectors and related transmission, distribution, storage and supporting infrastructure, as well as the protection of critical energy infrastructure and the deployment of recharging infrastructure   </td><td><br> RCO 59 – Alternative fuels infrastructure (refuelling/ recharging points) <br> RCO 131 – Energy transmission or distribution network lines and interconnectors – newly constructed or improved <br> RCO 105 – Solutions for electricity storage   </td><td><br>    </td></tr>
+<tr><td rowspan="3">3. A more connected Europe by enhancing mobility (PO 3)</td><td>(i) Developing a climate resilient, intelligent, secure, sustainable and intermodal TEN-T</td><td>RCO 43 - Length of new or upgraded roads - TEN-T (5) RCO 45 - Length of roads reconstructed or modernised - TEN-T  RCO 108 - Length of roads with new or modernised traffic management systems - TEN-T  RCO 47 - Length of new or upgraded rail - TEN-T  RCO 49 - Length of rail reconstructed or modernised - TEN-T  RCO 51 - Length of new, upgraded or modernised inland waterways - TEN-T  RCO 109 - Length of European Rail Traffic Management System equipped railways in operation - TEN-T </td><td rowspan="2">RCR 55 - Annual users of newly built, reconstructed, upgraded or modernised roads RCR 56 - Time savings due to improved road infrastructure  RCR 101- Time savings due to improved rail infrastructure  RCR 58 - Annual users of newly built, upgraded, reconstructed or modernised railways  RCR 59 - Freight transport on rail  RCR 60 - Freight transport on inland waterways </td></tr>
+<tr><td>(ii) Developing and enhancing sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility</td><td>RCO 44 - Length of new or upgraded roads -non-TEN-T RCO 46 - Length of roads reconstructed or modernised - non-TEN-T  RCO 110 - Length of roads with new or modernised traffic management systems - non-TEN-T  RCO 48 - Length of new or upgraded rail - non-TEN-T  RCO 50 - Length of rail reconstructed or modernised - non-TEN-T  RCO 111 - Length of European Rail Traffic Management System equipped railways in operation - non-TEN-T  RCO 52 - Length of new, upgraded or modernised inland waterways -non-TEN-T  RCO 53 - New or modernised railway stations and stops*  RCO 54 - New or modernised intermodal connections* </td></tr>
+<tr><td><br> (iii) Developing resilient defence infrastructure, prioritising that of a dual-use nature, including to foster military mobility in the Union, as well as enhancing civil preparedness;   </td><td><br> Any RCO listed for specific objectives (i), or (ii) <br> RCO 129 – Infrastructure adapted to military mobility requirements RCO29 Capacity of multi-purpose shelters built or renovated (persons)   </td><td> Any RCR listed for specific objectives (i), or (ii)  </td></tr>
+<tr><td rowspan="7">4. more social and inclusive Europe implementing the European Pillar of Social Rights (PO 4)</td><td>(i) Enhancing the effectiveness and inclusiveness of labour markets and access to quality employment through developing social infrastructure and promoting social economy</td><td>RCO 61 - Surface of new or modernised facilities for employment services</td><td>RCR 65 - Annual users of new or modernised facilities for employment services</td></tr>
+<tr><td>(ii) Improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training</td><td>RCO 66 - Classroom capacity of new or modernised childcare facilities RCO 67 - Classroom capacity of new or modernised education facilities </td><td>RCR 70 - Annual users of new or modernised childcare facilities RCR 71 - Annual users of new or modernised education facilities </td></tr>
+<tr><td>(iii) Promoting the socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups, including people with special needs, through integrated actions, including housing and social services</td><td>RCO 65 - Capacity of new or modernised social housing* RCO113 - Population covered by projects in the framework of integrated actions for socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups* </td><td>RCR 67 - Annual users of new or modernised social housing</td></tr>
+<tr><td>(iv) Promoting the socio-economic integration of third country nationals, including migrants through integrated actions, including housing and social services</td><td>RCO 63 - Capacity of new or modernised temporary reception facilities</td><td>RCR 66 - Annual users of new or modernised temporary reception facilities</td></tr>
+<tr><td>(v) Ensuring equal access to health care and fostering resilience of health systems, including primary care, and promoting the transition from institutional to family-based and community-based care</td><td>RCO 69 - Capacity of new or modernised health care facilities RCO 70 - Capacity of new or modernised social care facilities (other than housing) </td><td>RCR 72 - Annual users of new or modernised e-health care services RCR 73 - Annual users of new or modernised health care facilities  RCR 74 - Annual users of new or modernised social care facilities </td></tr>
+<tr><td>(vi) Enhancing the role of culture and sustainable tourism in economic development, social inclusion and social innovation</td><td>RCO 77 - Number of cultural and tourism sites supported*</td><td>RCR 77 - Visitors of cultural and tourism sites supported*</td></tr>
+<tr><td><br> (vii) Promoting access to affordable and sustainable housing   </td><td><br> RCO 18 – Affordable and sustainable dwellings with improved energy performance – dwellings <br> RCO65 – Capacity of new or modernised social, affordable and sustainable housing – persons   </td><td><br> RCR 26 – Annual primary energy consumption (of which: affordable and sustainable dwellings, public buildings, enterprises, other) – MWh/year <br> RCR 29 – Estimated greenhouse emissions – tonnes CO2 eq./year <br> RCR 67 – Annual users of new or modernised affordable, sustainable and social housing – users/year   </td></tr>
+<tr><td rowspan="3">5. A Europe closer to citizens by fostering the sustainable and integrated development of all types of territories and local initiatives (PO 5)</td><td>(i) Fostering the integrated and inclusive social, economic and environmental development, culture, natural heritage, sustainable tourism, and security in urban areas</td><td rowspan="2">RCO 74 - Population covered by projects in the framework of strategies for integrated territorial development* RCO 75 - Strategies for integrated territorial development supported*  RCO 76 - Integrated projects for territorial development  RCO 80 - Community-led local development strategies supported*  RCO 112 - Stakeholders involved in the preparation and implementation of strategies for integrated territorial development  RCO 114 - Open space created or rehabilitated in urban areas* </td><td rowspan="2">  </td></tr>
+<tr><td>(ii) Fostering the integrated and inclusive social, economic and environmental local development, culture, natural heritage, sustainable tourism and security in areas other than urban areas</td></tr>
+<tr><td><br> (iii) Fostering integrated territorial development, through access to affordable and sustainable housing in all types of territories   </td><td><br> RCO 18 – Affordable and sustainable dwellings with improved energy performance – dwellings <br> RCO 65 – Capacity of new or modernised affordable, sustainable and social housing – persons   </td><td><br> RCR 26 – Annual primary energy consumption (of which: affordable and sustainable dwellings, public buildings, enterprises, other) – MWh/year <br> RCR 29 – Estimated greenhouse emissions – tonnes CO2 eq./year <br> RCR 67 – Annual users of new or modernised affordable, sustainable and social housing – users/year   </td></tr>
+<tr><td colspan="4">(1)  For presentational reasons common output and result indicators are grouped by, but not limited to, a specific objective within a policy objective. In particular, PO 5, may use relevant common indicators listed for POs 1 to 4. In addition, in order to develop a full picture of the expected and actual performance of the programmes, the common indicators indicated by * may be used by specific objectives under any of the POs 1 to 4, when relevant.  (2)  RCO: REGIO Common Output Indicator.  (3)  Breakdown not requested for programming but only for reporting.  (4)  RCR: REGIO Common Result Indicator.  (5)  Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1). </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Additional common output and result indicators for the ERDF for Interreg**
+
+| Interreg-specific indicators | RCO 81 - Participations in joint actions across borders RCO 115 - Public events across borders jointly organised RCO 82 - Participations in joint actions promoting gender equality, equal opportunities and social inclusion RCO 83 - Strategies and action plans jointly developed RCO 84 - Pilot actions developed jointly and implemented in projects RCO 116 - Jointly developed solutions RCO 85 - Participations in joint training schemes RCO 117 - Solutions for legal or administrative obstacles across border identified RCO 86 - Joint administrative or legal agreements signed RCO 87 - Organisations cooperating across borders RCO 118 - Organisations cooperating for the multi-level governance of macroregional strategies RCO 90 - Projects for innovation networks across borders RCO 120 - Projects supporting cooperation across borders to develop urban-rural linkages | RCR 79 - Joint strategies and action plans taken up by organisations RCR 104 - Solutions taken up or up-scaled by organisations RCR 81 - Completions of joint training schemes RCR 82 - Legal or administrative obstacles across borders alleviated or resolved RCR 83 - Persons covered by joint administrative or legal agreements signed RCR 84 - Organisations cooperating across borders after project completion RCR 85 - Participations in joint actions across borders after project completion |
+| --- | --- | --- |
+
+## ANNEX II — CORE SET OF PERFORMANCE INDICATORS FOR ERDF AND COHESION FUND REFERRED TO IN ARTICLE 8(3), TO BE USED BY THE COMMISSION IN COMPLIANCE WITH ITS REPORTING REQUIREMENT PURSUANT TO POINT (H)(III) OF ARTICLE 41(3) OF THE FINANCIAL REGULATION
+
+<table>
+<tbody><tr><td>Policy objective</td><td>Specific objective</td><td>Outputs</td><td>Results</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td rowspan="6">1. A more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity (PO 1)</td><td>(i) Developing and enhancing research and innovation capacities and the uptake of advanced technologies</td><td>CCO (1) 01 - Enterprises supported to innovate CCO 02 - Researchers working in supported research facilities </td><td>CCR (2) 01 - Small and medium-sized enterprises (3) (SMEs) introducing product, process, marketing or organisational innovation</td></tr>
+<tr><td>(ii) Reaping the benefits of digitisation for citizens, companies, research organisations and public authorities</td><td>CCO 03 - Enterprises and public institutions supported to develop digital products, services and processes</td><td>CCR 02 - Annual users of new or upgraded digital products, services and processes</td></tr>
+<tr><td>(iii) Enhancing sustainable growth and competitiveness of SMEs and job creation in SMEs, including by productive investments</td><td>CCO 04 - SMEs supported to enhance growth and competitiveness</td><td>CCR 03 - Jobs created in enterprises supported</td></tr>
+<tr><td>(iv) Developing skills for smart specialisation, industrial transition and entrepreneurship</td><td>CCO 05 - SMEs investing in skills for smart specialisation, for industrial transition and entrepreneurship</td><td>CCR 04 - SMEs staff completing training for skills for smart specialisation, for industrial transition and entrepreneurship</td></tr>
+<tr><td>(v) Enhancing digital connectivity</td><td>CCO 13 - Additional dwellings and enterprises with broadband access of very high capacity</td><td>CCR 12 - Additional dwellings and enterprises with broadband subscriptions to a very high capacity network</td></tr>
+<tr><td><br> (vi) supporting investments contributing to the STEP objectives referred to Article 2 of Regulation (EU) 2024/795   </td><td> Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1  </td><td> Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1  </td></tr>
+<tr><td rowspan="9">2. A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility (PO 2)</td><td>(i) Promoting energy efficiency measures and reducing green-house gas emissions</td><td>CCO 06 - Investments in measures to improve energy performance</td><td>CCR 05 - Savings in annual primary energy consumption</td></tr>
+<tr><td>(ii) Promoting renewable energy in accordance with Directive (EU) 2018/2001, including the sustainability criteria set out therein</td><td>CCO 07 - Additional production capacity for renewable energy</td><td>CCR 06 - Additional renewable energy produced</td></tr>
+<tr><td>(iii) Developing smart energy systems, grids and storage outside the Trans-European Energy Network (TEN-E)</td><td>CCO 08 - Digital management systems for smart energy systems</td><td>CCR 07 - Additional users connected to smart energy systems</td></tr>
+<tr><td>(iv) Promoting climate change adaptation and disaster risk prevention and resilience, taking into account eco-system based approaches</td><td>CCO 09 - Investments in new or upgraded disaster monitoring, preparedness, warning and response systems</td><td>CCR 08 - Additional population benefiting from protection measures against floods, wild fires, and other climate related natural disasters</td></tr>
+<tr><td>(v) Promoting access to water and sustainable water management</td><td>CCO 10 - New or upgraded capacity for waste water treatment</td><td>CCR 09 - Additional population connected to at least secondary waste water treatment</td></tr>
+<tr><td>(vi) Promoting the transition to a circular and resource efficient economy</td><td>CCO 11 - New or upgraded capacity for waste recycling</td><td>CCR 10 - Additional waste recycled</td></tr>
+<tr><td>(vii) Enhancing protection and preservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all forms of pollution</td><td>CCO 12 - Surface area of green infrastructure</td><td>CCR 11 - Population benefiting from measures for air quality</td></tr>
+<tr><td>(viii) Promoting sustainable multimodal urban mobility, as part of transition to a net zero carbon economy</td><td>CCO 16 - Extension and modernisation of tram and metro lines</td><td>CCR 15 - Annual users served by new and modernised tram and metro lines</td></tr>
+<tr><td><br> (ix) supporting investments contributing to the STEP objectives referred to Article 2(1), point (a)(ii) of Regulation (EU) 2024/795   </td><td> Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1  </td><td> Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1  </td></tr>
+<tr><td rowspan="2">3. A more connected Europe by enhancing mobility (PO 3)</td><td>(i) Developing a climate resilient, intelligent, secure, sustainable and intermodal TEN-T</td><td>CCO 14 - Road TEN-T: New upgraded, reconstructed, or modernised roads CCO 15 - Rail TEN-T: New, upgraded, reconstructed, or modernised railways </td><td rowspan="2">CCR 13 - Time savings due to improved road infrastructure CCR 14 - Annual number of passengers served by improved rail transport </td></tr>
+<tr><td>(ii) Developing and enhancing a sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility</td><td>CCO 22 - Road non-TEN-T: New, upgraded, reconstructed, or modernised roads CCO 23 - Rail non-TEN-T: New, upgraded, reconstructed, or modernised railways </td></tr>
+<tr><td rowspan="6">4. A more social and inclusive Europe implementing the European Pillar of Social Rights (PO 4)</td><td>(i) Enhancing the effectiveness and inclusiveness of labour markets and access to quality employment through developing social infrastructure and promoting social economy</td><td>CCO 17 - Surface of new or modernised facilities for employment services</td><td>CCR 16 -Annual users of new or modernised facilities for employment services</td></tr>
+<tr><td>(ii) Improving equal access to inclusive and quality services in education, training and lifelong learning through developing accessible infrastructure, including by fostering resilience for distance and on-line education and training</td><td>CCO 18 - New or modernised capacity for childcare and education facilities</td><td>CCR 17 - Annual users served by new or modernised childcare and education facilities</td></tr>
+<tr><td>(iii) Promoting the socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups including people with special needs, through integrated actions including housing and social services</td><td>CCO 19 - New or modernised capacity of social housing facilities CCO 25 - Population covered by projects in the framework of integrated actions for socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups </td><td>CCR 18 - Annual users of new or modernised social housing facilities</td></tr>
+<tr><td>(iv) Promoting the socio-economic integration of third country nationals, including migrants through integrated actions, including housing and social services</td><td>CCO 26 - New or modernised capacity for temporary reception facilities</td><td>CCR20 - Annual users of new or modernised temporary reception facilities</td></tr>
+<tr><td>(v) Ensuring equal access to health care and fostering resilience of health systems, including primary care, and promoting the transition from institutional to family-based and community-based care</td><td>CCO 20 - New or modernised capacity for health care facilities</td><td>CCR 19 - Annual users of new or modernised health care services</td></tr>
+<tr><td>(vi) Enhancing the role of culture and sustainable tourism in economic development, social inclusion and social innovation</td><td>CCO24 - Culture and tourism sites supported</td><td>CCR21 - Visitors of culture and tourism sites supported</td></tr>
+<tr><td rowspan="2">5. A Europe closer to citizens by fostering the sustainable and integrated development of all types of territories and local initiatives (PO 5)</td><td>(i) Fostering the integrated and inclusive social, economic and environmental development, culture, natural heritage, sustainable tourism, and security in urban areas</td><td rowspan="2">CCO 21 - Population covered by strategies for integrated territorial development</td><td rowspan="2">  </td></tr>
+<tr><td>(ii) Fostering the integrated and inclusive social, economic and environmental local development, culture, natural heritage, sustainable tourism and security in areas other than urban areas</td></tr>
+<tr><td colspan="4">(1)  CCO: REGIO Core Common Output.  (2)  CCR: REGIO Core Common Result.  (3)  Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36). </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).
+
+( 2 ) Regulation (EU) 2021/1153 of the European Parliament and of the Council of 7 July 2021 establishing the Connecting Europe Facility and repealing Regulations (EU) No 1316/2013 and (EU) No 283/2014 (OJ L 249, 14.7.2021, p. 38, ELI: http://data.europa.eu/eli/reg/2021/1153/oj).
+
+( 3 ) Regulation (EU) 2021/1059 of the European Parliament and of the Council of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94, ELI: http://data.europa.eu/eli/reg/2021/1059/oj).
+
+( 4 ) Council Regulation (EC) No 2012/2002 of 11 November 2002 establishing the European Union Solidarity Fund (OJ L 311, 14.11.2002, p. 3, ELI: http://data.europa.eu/eli/reg/2002/2012/oj).
+
+( 5 ) Regulation (EU) 2015/1017 of the European Parliament and the Council of 25 June 2015 on the European Fund for Strategic Investments, the European Investment Advisory Hub and the European Investment Project Portal and amending Regulations (EU) No 1291/2013 and (EU) No 1316/2013 – the European Fund for Strategic Investments (OJ L 169, 1.7.2015, p. 1).
+
+( 6 ) Directive 2009/33/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of clean and energy-efficient road transport vehicles (OJ L 120, 15.5.2009, p. 5).
+
+( 7 ) Regulation (EU) 2021/1059 of the European Parliament and of the Council of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (see page 94 of this Official Journal).
+
+( 8 ) Regulation (EU) 2021/1056 of the European Parliament and of the Council of 24 June 2021 establishing the Just Transition Fund (OJ L 231, 30.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/1056/oj).
+
+( 9 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 10 ) Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1).
+
+( 11 ) To be used, for the Investment for jobs and growth and Interreg in accordance with point (a) of the second subparagraph of Article 16(1), and point (b) of Article 41(2) of Regulation (EU) 2021/1060 (CPR) and, for Investment for jobs and growth in accordance with point (d)(ii) of Article 22(3) of Regulation (EU) 2021/1060 (CPR) and, for Interreg, in accordance with point (e)(ii) of Article 22(4) of Regulation (EU) 2021/1059 (Interreg).

@@ -1,0 +1,821 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/552 of 30 March 2021 granting a Union authorisation for the biocidal product family ‘DEC-AHOL® Product Family’ (Text with EEA relevance)"
+identifier: "32021R0552"
+eli: "http://data.europa.eu/eli/reg_impl/2021/552/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-03-30
+entry_into_force: 2022-01-04
+last_amended: 2024-07-15
+consolidated_version: "02021R0552-20240715"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0552-20240715"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/552 of 30 March 2021 granting a Union authorisation for the biocidal product family ‘DEC-AHOL® Product Family’ (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/552**
+
+**of 30 March 2021**
+
+**granting a Union authorisation for the biocidal product family ‘DEC-AHOL® Product Family’**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1752 of 24 June 2024 </td><td> L 1752</td><td>1</td><td>25.6.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/552**
+
+**of 30 March 2021**
+
+**granting a Union authorisation for the biocidal product family ‘DEC-AHOL® Product Family’**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+A Union authorisation with authorisation number EU-0024324-0000 is granted to Veltek Associates Inc. Europe for the making available on the market and use of the biocidal product family ‘DEC-AHOL® Product Family’ in accordance with the summary of the biocidal product characteristics set out in the Annex.
+
+The Union authorisation is valid from 20 April 2021 until 31 March 2031.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**SUMMARY OF PRODUCT CHARACTERISTICS FOR A BIOCIDAL PRODUCT FAMILY**
+
+DEC-AHOL® Product Family
+
+Product type(s)
+
+PT02: Disinfectants and algaecides not intended for direct application to humans or animals
+
+Authorisation number EU-0024324-0000
+
+R4BP asset number EU-0024324-0000
+
+**PART I.**
+
+**FIRST INFORMATION LEVEL**
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+1.1. Family name
+
+Name DEC-AHOL® Product Family
+
+1.2. Product type(s)
+
+| Product type(s) | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+
+1.3. Authorisation holder
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>Veltek Associates Inc. Europe</td></tr>
+<tr><td>Address</td><td>Rozengaard 1940 8212DT Lelystad NL</td></tr>
+<tr><td>Authorisation number</td><td colspan="2">EU-0024324-0000</td></tr>
+<tr><td>R4BP asset number</td><td colspan="2">EU-0024324-0000</td></tr>
+<tr><td>Date of the authorisation</td><td colspan="2">20 April 2021</td></tr>
+<tr><td>Expiry date of the authorisation</td><td colspan="2">31 March 2031</td></tr>
+</tbody>
+</table>
+
+1.4. Manufacturer(s) of the product
+
+| Name of manufacturer | Veltek Associates, Inc., |
+| --- | --- |
+| Address of manufacturer | 15 Lee Blvd. PA19355 Malvern United States (the) |
+| Location of manufacturing sites | 15 Lee Blvd. PA19355 Malvern United States (the) |
+
+1.5. Manufacturer(s) of the active substance(s)
+
+| Active substance | Propan-2-ol |
+| --- | --- |
+| Name of manufacturer | Exxon Mobil Chemical Company |
+| Address of manufacturer | 4045 Scenic Hwy, Baton Rouge, LA 70805 Louisiana United States (the) |
+| Location of manufacturing sites | Exxon Mobil Chemical Company site 1 4045 Scenic Hwy, Baton Rouge, LA 70805 Louisiana United States (the) |
+
+| Active substance | Propan-2-ol |
+| --- | --- |
+| Name of manufacturer | Monument Chemical Houston, LTD |
+| Address of manufacturer | 16717 Jacintoport Boulevard 77015 Houston United States (the) |
+| Location of manufacturing sites | Monument Chemical Houston, LTD site 1 16717 Jacintoport Boulevard 77015 Houston United States (the) |
+
+| Active substance | Propan-2-ol |
+| --- | --- |
+| Name of manufacturer | Shell Chemicals |
+| Address of manufacturer | 150 St Claire Parkway ON N0N 1G0 Corunna Canada |
+| Location of manufacturing sites | Shell Chemicals site 1 150 St Claire Parkway ON N0N 1G0 Corunna Canada |
+
+**2\. PRODUCT FAMILY COMPOSITION AND FORMULATION**
+
+2.1. Qualitative and quantitative information on the composition of the family
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-2-ol |  | active substance | 67-63-0 | 200-661-7 | 64,8 - 65,4 % (w/w) |
+
+2.2. Type(s) of formulation
+
+| Formulation type(s) | AE Aerosol dispenser AL Any other liquid XX others - RTU wipe |
+| --- | --- |
+
+**PART II.**
+
+**SECOND INFORMATION LEVEL - META SPC(S)**
+
+**1\. META SPC 1 ADMINISTRATIVE INFORMATION**
+
+1.1. Meta SPC 1 identifier
+
+Identifier Meta SPC: Meta SPC 1
+
+1.2. Suffix to the authorisation number
+
+Number 1-1
+
+1.3. Product type(s)
+
+| Product type(s) | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+
+**2\. META SPC 1 COMPOSITION**
+
+2.1. Qualitative and quantitative information on the composition of the meta SPC 1
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-2-ol |  | active substance | 67-63-0 | 200-661-7 | 65,4 - 65,4 % (w/w) |
+
+2.2. Type(s) of formulation of the meta SPC 1
+
+| Formulation type(s) | XX other - RTU wipe |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 1**
+
+| Hazard statements | H225: Highly flammable liquid and vapour. H319: Causes serious eye irritation. H336: May cause drowsiness or dizziness. EUH066: Repeated exposure may cause skin dryness or cracking. |
+| --- | --- |
+| Precautionary statements | P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P261: Avoid breathing vapours. P264: Wash hands thoroughly after handling. P280: Wear protective gloves. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P312: Call a doctor if you feel unwell. P337+P313: If eye irritation persists: Get medical advice. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P405: Store locked up. P501: Dispose of contents to in accordance with local/national regulations. P280: Wear eye protection. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+4.1. Use description
+
+**Table 1.**
+
+**1.1 Disinfection of hard non-porous surfaces; Wipes (individual wipes and multi-pack wipes)**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: - Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant wipe for use in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities for the disinfection of hard non-porous inanimate surfaces, materials and equipment which are not used for direct contact with food or feeding stuffs. |
+| Application method(s) | Method: Wiping of surfaces Detailed description: - |
+| Application rate(s) and frequency | Application rate: - Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Contact time: 2 min Individual wipes: 15.2 cm x 15.2 cm wipe - 4 wipes per m2 30.5 cm x 30.5 cm wipe - 1 wipe per m2 45.7 cm x 45.7 cm wipe - 1 wipe per m2 Multi pack wipes: 23 cm x 23 cm - 2 wipes per m2 30.5 cm x 30.5 cm - 1 wipe per m2 |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | Pre-saturated 65.4% w/w propan-2-ol and water for injection (WFI) wipes. Individual wipes A wipe is composed of 100% continuous filament polyester fibre. The wipes are packaged in individual heat-sealed plastic bags made of low density polyethylene. Pack sizes: 15.2 cm x 15.2 cm wipe - 100/case, non- sterile 15.2 cm x 15.2 cm wipe - 100/case, sterile 30.5 cm x 30.5 cm wipe - 100/case, sterile 45.7 cm x 45.7 cm wipe - 100/case, sterile Multi pack wipes A wipe is composed of 100% continuous filament knitted polyester fibre; 20 wipes per pack; folded together in a re-closable bag package. Pack sizes: 100% polyester 30.5 cm x 30.5 cm wipe - 200/case, non-sterile 100% polyester 30.5 cm x 30.5 cm wipe - 200/case, sterile 100% polyester 23 cm x 23 cm wipe - 200/case, sterile |
+
+4.1.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to Good Manufacturing Practice (GMP) EU classification in grade A to D.
+
+Clean and dry surfaces prior to disinfection. Only use wet wipes. Remove one or two wipes at a time for individual wipes and one wipe at a time for multipack wipes. Make sure to wet surfaces completely. Allow to take effect for at least 2 minutes. Discard wipe after use in a closed container and for multipack wipes close the package after opening.
+
+Individual wipes:
+
+15.2 cm x 15.2 cm wipe - 4 wipes per m2
+
+30.5 cm x 30.5 cm wipe - 1 wipe per m2
+
+45.7 cm x 45.7 cm wipe - 1 wipe per m2
+
+Multi pack wipes:
+
+30.5 cm x 30.5 cm - 1 wipe per m2
+
+23 cm x 23 cm wipe - 2 wipes per m2
+
+4.1.2. Use-specific risk mitigation measures
+
+See general directions for use
+
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 1**
+
+5.1. Instructions for use
+
+See use-specific instructions for use.
+
+5.2. Risk mitigation measures
+
+Use adequate ventilation with an air change rate of 8 per hour or more.
+
+Apply away from eyes and face.
+
+Hand protection: Wear chemically resistant protective gloves.
+
+Eye protection: Wear eye protection.
+
+Avoid contact with eyes.
+
+Do not breathe vapours.
+
+Do not eat, drink or smoke when using the product.
+
+Wash hands thoroughly after handling.
+
+5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+Symptoms/injuries after inhalation : May cause drowsiness or dizziness
+
+Symptoms/injuries after skin contact: Repeated and/or prolonged skin contact may cause irritation, dryness or cracking.
+
+Symptoms/injuries after eye contact: Causes serious eye irritation
+
+Symptoms/injuries after ingestion: Symptoms reported in humans are nausea and vomiting due to local irritation and systemic effects like drunkenness, drowsiness, sometimes unconsciousness and low blood sugar (especially in children). Because of the type of formulations (wipes, aerosol and spray) the systemic effects are however less likely.
+
+First-aid measures general: Never give anything orally to an unconscious person. If you feel unwell, seek medical advice (show the label if possible).
+
+IF INHALED: Move to fresh air and keep at rest in a position that is comfortable for breathing. Call a POISON CENTRE or a doctor.
+
+IF ON SKIN: Rinse skin with water/ or shower. Remove all contaminated clothing immediately. Gently wash with plenty of soap and water. If symptoms develop, seek medical attention.
+
+IF IN EYES: Rinse with water. Remove contact lenses, if present and easy to do. Continue rinsing for 5 minutes. Call a POISON CENTRE or a doctor
+
+IF SWALLOWED: Rinse mouth. Give something to drink if conscious. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+5.4. Instructions for safe disposal of the product and its packaging
+
+Empty containers must be discharged as normal waste or recycled where possible.
+
+Additional information: Handle empty containers with care because residual vapours are flammable.
+
+5.5. Conditions of storage and shelf-life of the product under normal conditions of storage
+
+Keep container tightly closed. Keep in a cool, well-ventilated place. Keep away from open flames, hot surfaces and sources of ignition. Store at temperatures below 30°C.
+
+Shelf-life: 3 years
+
+**6\. OTHER INFORMATION**
+
+The product contains propan-2-ol (CAS No.: 67-63-0), for which a European reference value of 129,28 mg/m3 for the professional user was agreed and used for the risk assessment of the product.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 1**
+
+7.1. Trade name(s), authorisation number and specific composition of each individual product
+
+<table>
+<tbody><tr><td colspan="3" rowspan="2">Trade name(s)</td><td>ALCOH-WIPE®</td><td colspan="2">Market area: EU</td></tr>
+<tr><td>PROCESS2WIPE® IPA70</td><td colspan="2">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="3">EU-0024324-0001 1-1</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td>Function</td><td>CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Propan-2-ol</td><td>  </td><td>active substance</td><td>67-63-0</td><td>200-661-7</td><td>65,4</td></tr>
+</tbody>
+</table>
+
+**1\. META SPC 2 ADMINISTRATIVE INFORMATION**
+
+1.1. Meta SPC 2 identifier
+
+Identifier Meta SPC: Meta SPC 2
+
+1.2. Suffix to the authorisation number
+
+Number 1-2
+
+1.3. Product type(s)
+
+| Product type(s) | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+
+**2\. META SPC 2 COMPOSITION**
+
+2.1. Qualitative and quantitative information on the composition of the meta SPC 2
+
+| Common name | UPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-2-ol |  | active substance | 67-63-0 | 200-661-7 | 64,8 - 64,8 % (w/w) |
+
+2.2. Type(s) of formulation of the meta SPC 2
+
+| Formulation type(s) | AE Aerosol dispenser |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 2**
+
+| Hazard statements | H222 : Extremely flammable aerosol, H229 : Pressurised container: May burst if heated H229: Pressurised container: May burst if heated H319: Causes serious eye irritation. H336: May cause drowsiness or dizziness. EUH066: Repeated exposure may cause skin dryness or cracking. |
+| --- | --- |
+| Precautionary statements | P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P211: Do not spray on an open flame or other ignition source. P251: Do not pierce or burn, even after use. P261: Avoid breathing vapours. P264: Wash hands thoroughly after handling. P280: Wear protective gloves. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P312: Call a doctor if you feel unwell. P337+P313: If eye irritation persists: Get medical advice. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P405: Store locked up. P410+P412: Protect from sunlight. Do no expose to temperatures exceeding 50°C/ 122°F. P501: Dispose of contents to in accordance with local/national regulations. P280: Wear eye protection. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+4.1. Use description
+
+**Table 1.**
+
+**2.1 Disinfection of hard non-porous surfaces in cleanrooms; Aerosols (propellant)**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: - Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant for use in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities for the disinfection of hard non-porous inanimate surfaces, materials and equipment which are not used for direct contact with food or feeding stuffs. |
+| Application method(s) | Method: Aerosol spraying on surfaces Detailed description: - |
+| Application rate(s) and frequency | Application rate: Maximal application 35 ml/m2 Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Apply product by spraying from 15-20 cm distance for 20 seconds/m2. Contact time: 1 minute |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | 325 ml (11 oz) - aerosol can (aluminium coated on the inside with epoxy phenolic resin) |
+
+4.1.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to GMP EU classification in grade A to D.
+
+Clean and dry surfaces prior to disinfection. Spray the surface to be disinfected from a distance of 15-20 cm. Thoroughly wet surface with product for 20 seconds/m2, make sure to wet surfaces completely. Allow to take effect for at least 1 minute. After the required contact time has been achieved, allow surface to air dry or wipe dry with sterilised cloth or wipe. Clothes or wipes treated with the product must be discarded in a closed container.
+
+4.1.2. Use-specific risk mitigation measures
+
+Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure.
+
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 2**
+
+5.1. Instructions for use
+
+See use-specific instructions for use.
+
+5.2. Risk mitigation measures
+
+Use adequate ventilation with an air change rate of 8 per hour or more.
+
+Apply away from eyes and face.
+
+Hand protection: Wear chemically resistant protective gloves.
+
+Eye protection: Wear eye protection.
+
+Avoid contact with eyes.
+
+Do not breathe vapours.
+
+Do not eat, drink or smoke when using the product.
+
+Wash hands thoroughly after handling.
+
+5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+Symptoms/injuries after inhalation : May cause drowsiness or dizziness
+
+Symptoms/injuries after skin contact: Repeated and/or prolonged skin contact may cause irritation, dryness or cracking.
+
+Symptoms/injuries after eye contact: Causes serious eye irritation
+
+Symptoms/injuries after ingestion: Symptoms reported in humans are nausea and vomiting due to local irritation and systemic effects like drunkenness, drowsiness, sometimes unconsciousness and low blood sugar (especially in children). Because of the type of formulations (wipes, aerosol and spray) the systemic effects are however less likely.
+
+First-aid measures general: Never give anything orally to an unconscious person. If you feel unwell, seek medical advice (show the label if possible).
+
+IF INHALED: Move to fresh air and keep at rest in a position that is comfortable for breathing. Call a POISON CENTRE or a doctor.
+
+IF ON SKIN: Rinse skin with water/or shower. Remove all contaminated clothing immediately. Gently wash with plenty of soap and water. If symptoms develop, seek medical attention.
+
+IF IN EYES: Rinse with water. Remove contact lenses, if present and easy to do. Continue rinsing for 5 minutes. Call a POISON CENTRE or a doctor
+
+IF SWALLOWED: Rinse mouth. Give something to drink if conscious. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+5.4. Instructions for safe disposal of the product and its packaging
+
+Empty containers must be discharged as normal waste or recycled where possible.
+
+Additional information: Handle empty containers with care because residual vapours are flammable.
+
+5.5. Conditions of storage and shelf-life of the product under normal conditions of storage
+
+Keep away from open flames, hot surfaces and sources of ignition.
+
+Keep container tightly closed. Keep in a cool, well-ventilated place. Store at temperatures below 40°C. Protect from frost.
+
+Shelf-life: 3 years
+
+**6\. OTHER INFORMATION**
+
+The product contains propan-2-ol (CAS No.: 67-63-0), for which a European reference value of 129.28 mg/m3 for the professional user was agreed and used for the risk assessment of the product.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 2**
+
+7.1. Trade name(s), authorisation number and specific composition of each individual product
+
+<table>
+<tbody><tr><td colspan="3">Trade name(s)</td><td>DEC-AHOL® AEROSOL WFI Formula</td><td colspan="2">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="3">EU-0024324-0002 1-2</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td>Function</td><td>CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Propan-2-ol</td><td>  </td><td>active substance</td><td>67-63-0</td><td>200-661-7</td><td>64,8</td></tr>
+</tbody>
+</table>
+
+**1\. META SPC 3 ADMINISTRATIVE INFORMATION**
+
+1.1. Meta SPC 3 identifier
+
+Identifier Meta SPC: Meta SPC 3
+
+1.2. Suffix to the authorisation number
+
+Number 1-3
+
+1.3. Product type(s)
+
+| Product type(s) | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+
+**2\. META SPC 3 COMPOSITION**
+
+2.1. Qualitative and quantitative information on the composition of the meta SPC 3
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-2-ol |  | active substance | 67-63-0 | 200-661-7 | 65,4 - 65,4 % (w/w) |
+
+2.2. Type(s) of formulation of the meta SPC 3
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 3**
+
+| Hazard statements | H225: Highly flammable liquid and vapour. H319: Causes serious eye irritation. H336: May cause drowsiness or dizziness. EUH066: Repeated exposure may cause skin dryness or cracking. |
+| --- | --- |
+| Precautionary statements | P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233: Keep container tightly closed. P261: Avoid breathing vapours. P264: Wash hands thoroughly after handling. P280: Wear protective gloves. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P312: Call a doctor if you feel unwell. P337+P313: If eye irritation persists: Get medical advice. P403+P235: Store in a well-ventilated place. Keep cool. P405: Store locked up. P501: Dispose of contents to in accordance with local/national regulations. P261: Avoid breathing spray. P280: Wear eye protection. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+4.1. Use description
+
+**Table 1**
+
+**3.1 Disinfection of hard non-porous surfaces in cleanrooms; Trigger Spray, Liquid**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: no data Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant for use in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities for the disinfection of hard non-porous inanimate surfaces, materials and equipment which are not used for direct contact with food or feeding stuffs. |
+| Application method(s) | Method: Trigger Spraying on surfaces Detailed description: - |
+| Application rate(s) and frequency | Application rate: Maximal application 35 ml/m2 Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Apply product by spraying from 15-20 cm distance. Use 40 squeezes/m2 Contact time: 1 minute |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | Trigger: 473 ml (16 oz) - trigger spray - 12/case, sterile 946 ml (32 oz) - trigger spray - 12/case, sterile 473 ml (16 oz) - trigger spray - 12/case, non-sterile 946 ml (32 oz) - trigger spray - 12/case, non-sterile Bottles are made of high density polyethylene, the dip tube is polypropylene. The bottle cap is polypropylene, the induction seal is polypropylene. Bottles are provided with a polyethylene sprayer already on the bottle or provided separately for customer to put on themselves. If triggers are not installed, a polyethylene screw cap is supplied on the bottles. Bottles are individually triple bagged in cardboard boxes. The product is only supplied to the users in sealed cases. Bag in bottle- Trigger: 500 ml (16 oz)– Bag in bottle trigger spray - 12/case, sterile 1000 ml (32 oz) - Bag in bottle trigger spray - 12/case, sterile Bottles are made of high density polyethylene, they are provided with a polyethylene sprayer already on the bottle, the dip tube is polypropylene. The bag inside the bottle is Surlyn® (thermoplastic resins). Bottles are individually triple bagged in cardboard boxes. The product is only supplied to the users in sealed cases. |
+
+4.1.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to GMP EU classification in grade A to D.
+
+Clean and dry surfaces prior to disinfection. Direct the spray onto the surface from a distance of 15-20 cm. Make sure to wet the surface completely (40 squeezes/m2). Allow to take effect for at least 1 minute. After the required contact time has been achieved, allow surface to air dry or wipe dry with sterilised cloth or wipe, if necessary. Only small surfaces may be disinfected. Cloths or wipes treated with the product must be discarded in a closed container.
+
+4.1.2. Use-specific risk mitigation measures
+
+Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure.
+
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+4.2. Use description
+
+**Table 2.**
+
+**3.2 Disinfection of hard non-porous surfaces (including floors) in cleanrooms; Wiping**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: - Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant for use in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities for the disinfection of hard non-porous inanimate surfaces, materials and equipment which are not used for direct contact with food or feeding stuffs. |
+| Application method(s) | Method: Wetting of sterile wipe/cloth prior to wiping of surface Detailed description: - |
+| Application rate(s) and frequency | Application rate: Maximal application 35 ml/m2 Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Contact time: 1 minute. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | Squeeze bottle: 473 ml (16 oz) – squeeze individually bagged- 12/case, sterile 473 ml (16 oz) – squeeze, bulk group in one large bag – 12/case, sterile. Bulk pack bottles are not individually bagged. Bottle is made of low density polyethylene Drum or bottle: 18.9 litre (5 gallon drum) - container double bagged- 1/case, sterile 3.79 litre (1 gallon bottle) – each container double bagged- 4/case, sterile 3.79 litre (1 gallon bottle) – each container double bagged- 4/case, non-sterile |
+
+4.2.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to GMP EU classification in grade A to D.
+
+Clean and dry surfaces prior to disinfection. Thoroughly wet a sterile wipe/cloth with the product, make sure to wet the surfaces completely. Allow to take effect for at least 1 minute. After the required contact time has been achieved, allow surface to air dry or wipe dry with sterilised cloth or wipe, if necessary. Only small surfaces may be disinfected. Cloths or wipes treated with the product must be discarded in a closed container.
+
+4.2.2. Use-specific risk mitigation measures
+
+Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure.
+
+4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+4.3. Use description
+
+**Table 3.**
+
+**3.3 Disinfection of cleanroom gloves**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: - Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant for use on gloved hands in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities. |
+| Application method(s) | Method: Dispensing of liquid droplets on gloves Detailed description: - |
+| Application rate(s) and frequency | Application rate: 1.5 ml per glove Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Contact time: 1 minute. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | 946 ml (32 oz) bottle - 12/case, sterile 946 ml (32 oz) bottle - 12/case, non-sterile The bottle is low density polyethylene |
+
+4.3.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to GMP EU classification in grade A to D.
+
+Hold gloved hands under spout sensor to catch liquid. Thoroughly rub to distribute liquid evenly and wet clean glove surfaces with product. Do not wipe off and allow to remain wet for a minimum of 1 minute. After the required contact time has been achieved, allow surface to air dry or wipe dry with sterilised cloth or wipe, if necessary. Cloths or wipes treated with the product must be discarded in a closed container.
+
+Do not use on bare hands.
+
+4.3.2. Use-specific risk mitigation measures
+
+Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure.
+
+4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 3**
+
+5.1. Instructions for use
+
+See use-specific instructions for use.
+
+5.2. Risk mitigation measures
+
+Use adequate ventilation with an air change rate of 8 per hour or more.
+
+Apply away from eyes and face.
+
+Hand protection: Wear chemically resistant protective gloves.
+
+Eye protection: Wear eye protection.
+
+Avoid contact with eyes.
+
+Do not breathe vapours.
+
+Do not eat, drink or smoke when using the product.
+
+Wash hands thoroughly after handling.
+
+5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+Symptoms/injuries after inhalation : May cause drowsiness or dizziness
+
+Symptoms/injuries after skin contact: Repeated and/or prolonged skin contact may cause irritation, dryness or cracking.
+
+Symptoms/injuries after eye contact: Causes serious eye irritation
+
+Symptoms/injuries after ingestion: Symptoms reported in humans are nausea and vomiting due to local irritation and systemic effects like drunkenness, drowsiness, sometimes unconsciousness and low blood sugar (especially in children). Because of the type of formulations (wipes, aerosol and spray) the systemic effects are however less likely.
+
+First-aid measures general: Never give anything orally to an unconscious person. If you feel unwell, seek medical advice (show the label if possible).
+
+IF INHALED: Move to fresh air and keep at rest in a position that is comfortable for breathing. Call a POISON CENTRE or a doctor.
+
+IF ON SKIN: Rinse skin with water/or shower. Remove all contaminated clothing immediately. Gently wash with plenty of soap and water. If symptoms develop, seek medical attention.
+
+IF IN EYES: Rinse with water. Remove contact lenses, if present and easy to do. Continue rinsing for 5 minutes. Call a POISON CENTRE or a doctor
+
+IF SWALLOWED: Rinse mouth. Give something to drink if conscious. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+5.4. Instructions for safe disposal of the product and its packaging
+
+Empty containers must be discharged as normal waste or recycled where possible.
+
+Additional information: Handle empty containers with care because residual vapours are flammable.
+
+5.5. Conditions of storage and shelf-life of the product under normal conditions of storage
+
+Keep container tightly closed. Keep in a cool, well-ventilated place. Keep away from open flames, hot surfaces and sources of ignition. Store at temperatures below 40°C.
+
+Protect from frost.
+
+Shelf-life : 3 years
+
+**6\. OTHER INFORMATION**
+
+The product contains propan-2-ol (CAS No.: 67-63-0), for which a European reference value of 129.28 mg/m3 for the professional user was agreed and used for the risk assessment of the product.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 3**
+
+7.1. Trade name(s), authorisation number and specific composition of each individual product
+
+<table>
+<tbody><tr><td colspan="3" rowspan="2">Trade name(s)</td><td>DEC-AHOL® WFI Formula</td><td colspan="2">Market area: EU</td></tr>
+<tr><td>DEC-AHOL® ASEPTI-CLEANSE</td><td colspan="2">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="3">EU-0024324-0003 1-3</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td>Function</td><td>CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Propan-2-ol</td><td>  </td><td>active substance</td><td>67-63-0</td><td>200-661-7</td><td>65,4</td></tr>
+</tbody>
+</table>
+
+**1\. META SPC 4 ADMINISTRATIVE INFORMATION**
+
+1.1. Meta SPC 4 identifier
+
+Identifier Meta SPC: Meta SPC 4
+
+1.2. Suffix to the authorisation number
+
+Number 1-4
+
+1.3. Product type(s)
+
+| Product type(s) | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+
+**2\. META SPC 4 COMPOSITION**
+
+2.1. Qualitative and quantitative information on the composition of the meta SPC 4
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-2-ol |  | active substance | 67-63-0 | 200-661-7 | 65,4 - 65,4 % (w/w) |
+
+2.2. Type(s) of formulation of the meta SPC 4
+
+| Formulation type(s) | AE Aerosol dispenser |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 4**
+
+| Hazard statements | H222 : Extremely flammable aerosol, H229 : Pressurised container: May burst if heated H229: Pressurised container: May burst if heated H319: Causes serious eye irritation. H336: May cause drowsiness or dizziness. EUH066: Repeated exposure may cause skin dryness or cracking. |
+| --- | --- |
+| Precautionary statements | P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P211: Do not spray on an open flame or other ignition source. P251: Do not pierce or burn, even after use. P261: Avoid breathing vapours. P264: Wash hands thoroughly after handling. P280: Wear protective gloves. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P312: Call a doctor if you feel unwell. P337+P313: If eye irritation persists: Get medical advice. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P405: Store locked up. P410+P412: Protect from sunlight. Do no expose to temperatures exceeding 50°C/ 122°F. P501: Dispose of contents to in accordance with local/national regulations. P280: Wear eye protection. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+4.1. Use description
+
+**Table 1.**
+
+**4.1 Disinfection of hard non-porous surfaces in cleanrooms; Aerosols**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: no data Common name: Bacteria Development stage: - Scientific name: no data Common name: yeast Development stage: - |
+| Field(s) of use | indoor use Disinfectant for use in cleanrooms of pharmaceutical, biopharmaceutical, medical device and diagnostic product manufacturing facilities for the disinfection of hard non-porous inanimate surfaces, materials and equipment which are not used for direct contact with food or feeding stuffs. |
+| Application method(s) | Method: Aerosol spraying on surfaces Detailed description: - |
+| Application rate(s) and frequency | Application rate: Maximal application 35 ml/m2 Dilution (%): RTU Number and timing of application: Product may be used multiple times a day, if required. Apply product by spraying from 15-20 cm distance for 20 seconds/m2. Contact time: 1 minute |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | 325 ml (11 oz) – Inverta-Spray® mist spray Aluminium coated inside with epoxy phenolic resin fitted with low density polyethylene bag liner (bag-on-valve), compressed air propellant. |
+
+4.1.1. Use-specific instructions
+
+Use product only in cleanrooms which are classified according to ISO 14644-1 in class 1 to 9 or according to GMP EU classification in grade A to D.
+
+Clean and dry surfaces prior to disinfection. Spray the surface to be disinfected from a distance of 15-20 cm. Thoroughly wet surface with product for 20 seconds/m2, make sure to wet surfaces completely. Allow to take effect for at least 1 minute. After the required contact time has been achieved, allow surface to air dry or wipe dry with sterilised cloth or wipe. Cloths or wipes treated with the product must be discarded in a closed container.
+
+4.1.2. Use-specific risk mitigation measures
+
+Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure.
+
+4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+See general directions for use.
+
+4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging
+
+See general directions for use.
+
+4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage
+
+See general directions for use.
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 4**
+
+5.1. Instructions for use
+
+See use-specific instructions for use.
+
+5.2. Risk mitigation measures
+
+Use adequate ventilation with an air change rate of 8 per hour or more.
+
+Apply away from eyes and face.
+
+Hand protection: Wear chemically resistant protective gloves.
+
+Eye protection: Wear eye protection.
+
+Avoid contact with eyes.
+
+Do not breathe vapours.
+
+Do not eat, drink or smoke when using the product.
+
+Wash hands thoroughly after handling.
+
+5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment
+
+Symptoms/injuries after inhalation : May cause drowsiness or dizziness
+
+Symptoms/injuries after skin contact: Repeated and/or prolonged skin contact may cause irritation, dryness or cracking.
+
+Symptoms/injuries after eye contact: Causes serious eye irritation
+
+Symptoms/injuries after ingestion: Symptoms reported in humans are nausea and vomiting due to local irritation and systemic effects like drunkenness, drowsiness, sometimes unconsciousness and low blood sugar (especially in children). Because of the type of formulations (wipes, aerosol and spray) the systemic effects are however less likely.
+
+First-aid measures general: Never give anything orally to an unconscious person. If you feel unwell, seek medical advice (show the label if possible).
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTRE or a doctor.
+
+IF ON SKIN: Rinse skin with water or shower. Remove all contaminated clothing immediately. Gently wash with plenty of soap and water. If symptoms develop, seek medical attention.
+
+IF IN EYES: Rinse with water. Remove contact lenses, if present and easy to do. Continue rinsing for 5 minutes. Call a POISON CENTRE or a doctor
+
+IF SWALLOWED: Rinse mouth. Give something to drink if conscious. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+5.4. Instructions for safe disposal of the product and its packaging
+
+Empty containers must be discharged as normal waste or recycled where possible.
+
+Additional information: Handle empty containers with care because residual vapours are flammable.
+
+5.5. Conditions of storage and shelf-life of the product under normal conditions of storage
+
+Keep away from open flames, hot surfaces and sources of ignition.
+
+Keep container tightly closed. Keep in a cool, well-ventilated place. Store at temperatures below 40°C. Protect from frost.
+
+Shelf-life: 3 years
+
+**6\. OTHER INFORMATION**
+
+The product contains propan-2-ol (CAS No.: 67-63-0), for which a European reference value of 129.28 mg/m3 for the professional user was agreed and used for the risk assessment of the product.
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 4**
+
+7.1. Trade name(s), authorisation number and specific composition of each individual product
+
+<table>
+<tbody><tr><td colspan="2">Trade name(s)</td><td>DEC-AHOL® AEROSOL WFI Formula Invertaspray</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Authorisation number</td><td colspan="4">EU-0024324-0004 1-4</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td>Function</td><td>CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Propan-2-ol</td><td>  </td><td>active substance</td><td>67-63-0</td><td>200-661-7</td><td>65,4</td></tr>
+</tbody>
+</table>

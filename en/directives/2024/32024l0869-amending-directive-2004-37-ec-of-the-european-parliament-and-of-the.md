@@ -196,11 +196,13 @@ Annex I to Directive 98/24/EC is replaced by the following:
 
 **LIST OF BINDING OCCUPATIONAL EXPOSURE LIMIT VALUES**
 
+<table>
 <tbody><tr><td rowspan="3">Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>μg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>μg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
 <tr><td>Diisocyanates (measured as NCO (10)) </td><td></td><td></td><td>6</td><td></td><td></td><td>12</td><td></td><td></td><td>Skin (8) Dermal and respiratory sensitisation (9) </td><td>A limit value of 10 μg NCO/m3 in relation to a reference period of 8 hours and a short-term exposure limit value of 20 μg NCO/m3 shall apply until 31 December 2028.</td></tr>
 </tbody>
+</table>
 
 ’.
 
@@ -234,11 +236,13 @@ Annexes I, III and IIIa to Directive 2004/37/EC are amended as follows:
 
 (2) in Annex III, point A, the row related to inorganic lead and its compounds is replaced by the following:
 
+<table>
 <tbody><tr><td rowspan="3">‘Name of agent</td><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td colspan="6">Limit values</td><td rowspan="3">Notation</td><td rowspan="3">Transitional measures</td></tr>
 <tr><td colspan="3">8 hours (3)</td><td colspan="3">Short-term (4)</td></tr>
 <tr><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td><td>mg/m3 (5)</td><td>ppm (6)</td><td>f/ml (7)</td></tr>
 <tr><td>Lead and its inorganic compounds</td><td></td><td></td><td>0,03 (8)</td><td></td><td></td><td></td><td></td><td></td><td>Non-threshold reprotoxic substance</td><td></td></tr>
 </tbody>
+</table>
 
 (3) Annex IIIa is replaced by the following:
 

@@ -89,6 +89,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 32 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘32</td><td>Lead oxide in seal frit used for making window assemblies for Argon and Krypton laser tubes</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10,</td></tr>
 </tbody>
 </table>
@@ -103,3 +104,4 @@ In Annex III, entry 32 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

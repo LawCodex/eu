@@ -1,0 +1,967 @@
+---
+title: "Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC (Text with EEA relevance)"
+identifier: "32009R0767"
+eli: "http://data.europa.eu/eli/reg/2009/767/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-07-13
+entry_into_force: 2009-12-31
+last_amended: 2018-12-26
+consolidated_version: "02009R0767-20181226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0767-20181226"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC (Text with EEA relevance)
+
+**REGULATION (EC) No 767/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 July 2009**
+
+**on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 568/2010 of 29 June 2010 </td><td> L 163</td><td>30</td><td>30.6.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 939/2010 of 20 October 2010 </td><td> L 277</td><td>4</td><td>21.10.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/2279 of 11 December 2017 </td><td> L 328</td><td>3</td><td>12.12.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/1903 of 5 December 2018 </td><td> L 310</td><td>22</td><td>6.12.2018</td></tr>
+</table>
+
+**REGULATION (EC) No 767/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 July 2009**
+
+**on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — INTRODUCTORY PROVISIONS
+
+### Article 1 — Objective
+
+The objective of this Regulation, in accordance with the general principles laid down in Regulation (EC) No 178/2002, is to harmonise the conditions for the placing on the market and the use of feed, in order to ensure a high level of feed safety and thus a high level of protection of public health, as well as to provide adequate information for users and consumers and to strengthen the effective functioning of the internal market.
+
+### Article 2 — Scope
+
+1\. This Regulation lays down rules on the placing on the market and use of feed for both food-producing and non-food producing animals within the Community, including requirements for labelling, packaging and presentation.
+
+2\. This Regulation shall apply without prejudice to other Community provisions applicable in the field of animal nutrition, in particular:
+
+(a) Directive 90/167/EEC;
+
+(b) Directive 2002/32/EC;
+
+(c) Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies ( 1 );
+
+(d) Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption ( 2 );
+
+(e) Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( 3 );
+
+(f) Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22 September 2003 concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms ( 4 );
+
+(g) Regulation (EC) No 1831/2003; and
+
+(h) Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products ( 5 ).
+
+3\. This Regulation shall not apply to water, either taken in directly by the animals or intentionally incorporated into feed. It shall, however, apply to feed designed to be administered in water.
+
+### Article 3 — Definitions
+
+1\. For the purposes of this Regulation, the following definitions shall apply:
+
+(a) the definitions of ‘feed’, ‘feed business’, and ‘placing on the market’ as laid down in Regulation (EC) No 178/2002;
+
+(b) the definitions of ‘feed additive’, ‘premixture’, ‘processing aids’ and ‘daily ration’ as laid down in Regulation (EC) No 1831/2003; and
+
+(c) the definitions of ‘establishment’ and ‘competent authority’ as laid down in Regulation (EC) No 183/2005.
+
+2\. The following definitions shall also apply:
+
+(a) ‘feed-business operator’ means any natural or legal person responsible for ensuring that the requirements of this Regulation are met within the feed business under their control;
+
+(b) ‘oral feeding of animals’ means the introduction of feed into an animal’s gastrointestinal tract through the mouth with the aim of meeting the animal’s nutritional needs and/or maintaining the productivity of normally healthy animals;
+
+(c) ‘food-producing animal’ means any animal that is fed, bred or kept for the production of food for human consumption, including animals that are not used for human consumption, but that belong to a species that is normally used for human consumption in the Community;
+
+(d) ‘non-food producing animals’ means any animal that is fed, bred or kept but that is not used for human consumption, such as fur animals, pets and animals kept in laboratories, zoos or circuses;
+
+(e) ‘fur animals’ means any non-food producing animal fed, bred or kept for the production of fur, and which is not used for human consumption;
+
+(f) ‘pet’ or ‘pet animal’ means any non-food producing animal belonging to species fed, bred or kept, but not normally used for human consumption in the Community;
+
+(g) ‘feed materials’ means products of vegetable or animal origin, whose principal purpose is to meet animals’ nutritional needs, in their natural state, fresh or preserved, and products derived from the industrial processing thereof, and organic or inorganic substances, whether or not containing feed additives, which are intended for use in oral animal-feeding either directly as such, or after processing, or in the preparation of compound feed, or as carrier of premixtures;
+
+(h) ‘compound feed’ means a mixture of at least two feed materials, whether or not containing feed additives, for oral animal-feeding in the form of complete or complementary feed;
+
+(i) ‘complete feed’ means compound feed which, by reason of its composition, is sufficient for a daily ration;
+
+(j) ‘complementary feed’ means compound feed which has a high content of certain substances but which, by reason of its composition, is sufficient for a daily ration only if used in combination with other feed;
+
+(k) ‘mineral feed’ means complementary feed containing at least 40 % crude ash;
+
+(l) ‘milk replacer’ means compound feed administered in dry form or after dilution in a given quantity of liquid for feeding young animals as a complement to, or substitute for, post-colostral milk or for feeding young animals such as calves, lambs or kids intended for slaughter;
+
+(m) ‘carrier’ means a substance used to dissolve, dilute, disperse or otherwise physically modify a feed additive in order to facilitate its handling, application or use without altering its technological function and without exerting any technological effect itself;
+
+(n) ‘particular nutritional purpose’ means the purpose of meeting the specific nutritional needs of animals whose process of assimilation, absorption or metabolism is, or could be, temporarily or irreversibly impaired and who can therefore benefit from the ingestion of feed appropriate to their condition;
+
+(o) ‘feed intended for particular nutritional purposes’ means feed which can satisfy a particular nutritional purpose by virtue of its particular composition or method of manufacture, which clearly distinguishes it from ordinary feed. Feed intended for particular nutritional purposes does not include medicated feedingstuffs within the meaning of Directive 90/167/EEC;
+
+(p) ‘contaminated materials’ means feed containing a level of undesirable substances in excess of that which is acceptable under Directive 2002/32/EC;
+
+(q) ‘minimum storage life’ means the period during which, under proper storage conditions, the person responsible for the labelling guarantees that the feed retains its declared properties; only one minimum storage life may be indicated in respect of the feed as a whole, and it is determined on the basis of the minimum storage life of each of its components;
+
+(r) ‘batch’ or ‘lot’ means an identifiable quantity of feed determined to have common characteristics, such as origin, variety, type of packaging, packer, consignor or labelling, and, in the case of a production process, a unit of production from a single plant using uniform production parameters or a number of such units, when produced in continuous order and stored together;
+
+(s) ‘labelling’ means the attribution of any words, particulars, trade marks, brand name, pictorial matter or symbol to a feed by placing this information on any medium referring to or accompanying such feed, such as packaging, container, notice, label, document, ring, collar or the Internet, including for advertising purposes;
+
+(t) ‘label’ means any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed, impressed on, or attached to the packaging or the container of feed; and
+
+(u) ‘presentation’ means the shape, appearance or packaging and the packaging materials used for the feed, further to the way in which it is arranged and the setting in which it is displayed.
+
+## CHAPTER 2 — GENERAL REQUIREMENTS
+
+### Article 4 — Safety and marketing requirements
+
+1\. Feed may only be placed on the market and used if:
+
+(a) it is safe; and
+
+(b) it does not have a direct adverse effect on the environment or animal welfare.
+
+The requirements set out in Article 15 of Regulation (EC) No 178/2002 shall apply, mutatis mutandis, to feed for non-food producing animals.
+
+2\. In addition to the requirements set out in paragraph 1 of this Article, feed business operators placing feed on the market shall ensure that the feed:
+
+(a) is sound, genuine, unadulterated, fit for its purpose and of merchantable quality; and
+
+(b) is labelled, packaged and presented in accordance with the provisions laid down in this Regulation and other applicable Community legislation.
+
+The requirements set out in Article 16 of Regulation (EC) No 178/2002 shall apply, mutatis mutandis, to feed for non-food producing animals.
+
+3\. Feed shall comply with the technical provisions on impurities and other chemical determinants set out in Annex I to this Regulation.
+
+### Article 5 — Responsibilities and obligations of feed businesses
+
+1\. Feed business operators shall comply, mutatis mutandis, with obligations set out in Articles 18 and 20 of Regulation (EC) No 178/2002 and Article 4(1) of Regulation (EC) No 183/2005 in respect of feed for non-food producing animals.
+
+2\. The person responsible for the labelling of feed shall make available to the competent authorities any information concerning the composition or claimed properties of the feed placed on the market by that person, which allows the accuracy of the information given by the labelling to be verified, including the exact percentages by weight of feed materials used in compound feed.
+
+3\. In the event of any urgency relating to human or animal health or to the environment and without prejudice to the provisions of Directive 2004/48/EC, the competent authority may provide the purchaser with information that is available to it under paragraph 2 of this Article provided that, after having balanced the respective legitimate interests of the manufacturers and the purchasers, it concludes that the provision of such information is justified. If appropriate, the competent authority shall provide such information subject to the signing of a confidentiality clause by the purchaser.
+
+### Article 6 — Restriction and prohibition
+
+1\. Feed shall not contain or consist of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited. The list of such materials is set out in Annex III.
+
+2\. The Commission shall amend the list of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited taking into account in particular scientific evidence, technological developments, notifications under the Rapid Alert System for Food and Feed (RASFF) or results of official controls pursuant to Regulation (EC) No 882/2004.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 28(5) with a view to adopting those measures.
+
+## CHAPTER 3 — PLACING ON THE MARKET OF SPECIFIC TYPES OF FEED
+
+### Article 7 — Characteristics of types of feed
+
+1\. In accordance with the regulatory procedure referred to in Article 28(3), the Commission may adopt guidelines clarifying the distinction between feed materials, feed additives and other products such as veterinary drugs.
+
+2\. The Commission may, where necessary, adopt measures in order to clarify whether a certain product constitutes feed for the purposes of this Regulation.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+### Article 8 — Content of feed additives
+
+1\. Without prejudice to the conditions of use provided for in the relevant legal act authorising the respective feed additive, feed materials and complementary feed shall not contain levels of feed additives that are higher than 100 times the relevant fixed maximum content in complete feed or five times in case of coccidiostats and histomonostats.
+
+2\. The level of 100 times the relevant fixed maximum content in complete feed referred to in paragraph 1 may only be exceeded if the composition of the products concerned fulfils the particular nutritional purpose in respect of the relevant intended use under Article 10 of this Regulation. The conditions of use for such feed shall be further specified in the list of intended uses. Establishments under the control of a producer of such feed who uses feed additives referred to in Chapter 2 of Annex IV to Regulation (EC) No 183/2005 must be approved in accordance with point 1(b) of Article 10 of that Regulation.
+
+### Article 9 — Marketing of feed intended for particular nutritional purposes
+
+Feed intended for particular nutritional purposes may only be marketed as such if its intended use is included in the list of intended uses established in accordance with Article 10 and if it meets the essential nutritional characteristics for the respective particular nutritional purpose set forth in that list.
+
+### Article 10 — List of intended uses of feed intended for particular nutritional purposes
+
+1\. The Commission may update the list of intended uses set out in Directive 2008/38/EC by adding an intended use, withdrawing an intended use or by adding, removing or changing the conditions associated with a particular intended use.
+
+2\. The procedure for updating the list of intended uses may be started by the submission to the Commission of an application by a natural or legal person established in the Community or by a Member State. A valid application shall include a dossier demonstrating that the specific composition of the feed fulfils the particular intended nutritional purpose and that it has no adverse effects on animal health, human health, the environment or animal welfare.
+
+3\. The Commission shall make the application, including the dossier, available to the Member States without delay.
+
+4\. If, on the basis of available scientific and technological information, the Commission, has reason to believe that the use of the specific feed may not fulfil the particular intended nutritional purpose or may have adverse effects on animal health, human health, the environment or animal welfare, the Commission shall, within three months of receipt of a valid application, seek an opinion from the European Food Safety Authority (hereinafter referred to as ‘the Authority’). The Authority shall give an opinion within six months of receipt of the request. This time limit shall be extended whenever the Authority seeks supplementary information from the applicant.
+
+5\. Within six months of receipt of a valid application or, where appropriate, after receiving the opinion of the Authority, the Commission shall adopt a Regulation updating the list of intended uses if the conditions laid down in paragraph 2 are met.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(6).
+
+6\. By way of derogation from paragraph 5, within six months after receiving a valid application or, where appropriate, after receiving the opinion of the Authority, the Commission shall end the procedure and decide not to proceed with the update, at any stage of the procedure, if it considers that such an update is not justified. The Commission shall do so in accordance with the regulatory procedure referred to in Article 28(3).
+
+In such cases, where applicable, the Commission shall inform the applicant and the Member States directly, indicating in its letter the reasons for failing to consider the update justified.
+
+7\. The Commission may, in accordance with the regulatory procedure referred to in Article 28(3), adopt implementing measures concerning the preparation and presentation of the application.
+
+## CHAPTER 4 — LABELLING, PRESENTATION AND PACKAGING
+
+### Article 11 — Principles for labelling and presentation
+
+1\. The labelling and the presentation of feed shall not mislead the user, in particular:
+
+(a) as to the intended use or characteristics of the feed, in particular, the nature, method of manufacture or production, properties, composition, quantity, durability, species or categories of animals for which it is intended;
+
+(b) by attributing to the feed effects or characteristics that it does not possess or by suggesting that it possesses special characteristics when in fact all similar feeds possess such characteristics; or
+
+(c) as to the compliance of the labelling with the Community Catalogue and the Community Codes referred to in Articles 24 and 25.
+
+2\. Feed materials or compound feed marketed in bulk or in unsealed packages or containers in accordance with Article 23(2) shall be accompanied by a document containing all mandatory labelling particulars required under this Regulation.
+
+3\. Where feed is offered for sale by means of distance communication as defined in Article 2 of Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts ( 6 ) the mandatory labelling particulars required by this Regulation, except for the particulars provided for in Articles 15(b), (d), (e), and 16(2)(c) or 17(1)(d), shall appear on the material supporting the distance selling or they shall be provided through other appropriate means prior to the conclusion of a distance contract. The particulars referred to in Articles 15(b), (d), (e), and 16(2)(c) or 17(1)(d) shall be provided at the latest at the time of delivery of the feed.
+
+4\. Labelling provisions additional to those set forth in this Chapter are laid down in Annex II.
+
+5\. Permitted tolerances for discrepancies between the labelled compositional values of a feed material or compound feed and the values analysed in official controls in compliance with Regulation (EC) No 882/2004 are listed in Annex IV to this Regulation.
+
+### Article 12 — Responsibility
+
+1\. The person responsible for the labelling shall ensure the presence and substantive accuracy of the labelling particulars.
+
+2\. The person responsible for the labelling shall be the feed business operator who first places feed on the market or, where applicable, the feed business operator under whose name or business name the feed is marketed.
+
+3\. To the extent that their activities affect labelling within the business under their control, feed business operators shall ensure that the information provided through whatever medium satisfies the requirements of this Regulation.
+
+4\. Feed business operators responsible for retail or distribution activities which do not affect labelling shall act with due care to help ensure compliance with the labelling requirements, in particular by refraining from supplying feed which they know or should have presumed, on the basis of the information in their possession and as professionals, does not comply with those requirements.
+
+5\. Within the businesses under their control feed business operators shall ensure that mandatory labelling particulars are transmitted throughout the food chain in order to allow the information to be provided to the final feed user in accordance with this Regulation.
+
+### Article 13 — Claims
+
+1\. The labelling and the presentation of feed materials and compound feed may draw particular attention to the presence or the absence of a substance in the feed, to a specific nutritional characteristic or process or to a specific function related to any of these, provided that the following conditions are met:
+
+(a) the claim is objective, verifiable by the competent authorities and understandable by the user of the feed; and
+
+(b) the person responsible for the labelling provides, at the request of the competent authority, scientific substantiation of the claim, either by reference to publicly available scientific evidence or through documented company research. The scientific substantiation shall be available at the time the feed is placed on the market. Purchasers shall have the right to bring to the attention of the competent authority their doubts in respect of the truthfulness of the claim. Where the conclusion is reached that the claim is not sufficiently substantiated, the labelling in respect of such claim shall be considered misleading for the purposes of Article 11. Where the competent authority has doubts regarding the scientific substantiation of the claim concerned, it may submit the issue to the Commission. The Commission may adopt a decision, where appropriate after obtaining an opinion from the Authority, in accordance with the advisory procedure laid down in Article 28(2).
+
+2\. Without prejudice to paragraph 1, claims concerning optimisation of the nutrition and support or protection of the physiological conditions are permitted, unless they contain a claim of the type referred to in paragraph 3(a).
+
+3\. The labelling or the presentation of feed materials and compound feed shall not claim that:
+
+(a) it will prevent, treat or cure a disease, except for coccidiostats and histomonostats as authorised under Regulation (EC) No 1831/2003; this point shall not, however, apply to claims concerning nutritional imbalances provided that there is no pathological symptom associated therewith;
+
+(b) it has a particular nutritional purpose, as provided for in the list of intended uses as referred to in Article 9, unless it satisfies the requirements laid down therein.
+
+4\. Specifications relating to the requirements laid down in paragraphs 1 and 2 may be included in the Community Codes referred to in Article 25.
+
+### Article 14 — Presentation of labelling particulars
+
+1\. The mandatory labelling particulars shall be given in their entirety in a prominent place on the packaging, the container, on a label attached thereto or on the accompanying document provided for in Article 11(2), in a conspicuous, clearly legible and indelible manner, in the official language or at least one of the official languages of the Member State or region in which it is placed on the market.
+
+2\. The mandatory labelling particulars shall be easily identifiable and shall not be obscured by any other information. They shall be displayed in a colour, font and size that does not obscure or emphasise any part of the information, unless such variation is to draw attention to precautionary statements.
+
+3\. Specifications relating to the requirements laid down in paragraphs 1 and 2 and the presentation of the voluntary labelling referred to in Article 22 may be included in the Community Codes referred to in Article 25.
+
+### Article 15 — General mandatory labelling requirements
+
+A feed material or compound feed shall not be placed on the market unless the following particulars are indicated by labelling:
+
+(a) the type of feed: ‘feed material’, ‘complete feed’ or ‘complementary feed’, as appropriate;
+
+— for ‘complete feed’, the designation ‘complete milk replacer feed’ may be used, if appropriate,
+
+— for ‘complementary feed’, the following designations may be used if appropriate: ‘mineral feed’ or ‘complementary milk replacer feed’,
+
+— for pets other than cats and dogs, ‘complete feed’ or ‘complementary feed’ may be replaced by ‘compound feed’;
+
+(b) the name or business name and the address of the feed business operator responsible for the labelling;
+
+(c) if available, the establishment approval number of the person responsible for the labelling granted in accordance with Article 13 of Regulation (EC) No 1774/2002 for establishments authorised in accordance with Article 23(2)(a), (b) and (c) of Regulation (EC) No 1774/2002 or Article 17 of Regulation (EC) No 1774/2002 or with Article 10 of Regulation (EC) No 183/2005. If a person responsible for the labelling has several approval numbers he shall use the one granted in accordance with Regulation (EC) No 183/2005;
+
+(d) the batch or lot reference number;
+
+(e) the net quantity expressed in units of mass in the case of solid products, and in units of mass or volume in the case of liquid products;
+
+(f) the list of feed additives preceded by the heading ‘additives’ in accordance with Chapter I of Annex VI or VII, as applicable, and without prejudice to labelling provisions laid down in the legal act authorising the respective feed additive; and
+
+(g) the moisture content in accordance with point 6 of Annex I.
+
+### Article 16 — Specific mandatory labelling requirements for feed materials
+
+1\. In addition to the requirements provided for in Article 15, the labelling of feed materials shall also include:
+
+(a) the name of the feed material; the name shall be used in compliance with Article 24(5); and
+
+(b) the compulsory declaration corresponding to the respective category as set out in the list in Annex V; the compulsory declaration may be replaced by the particulars laid down in the Community Catalogue referred to in Article 24 for each feed material in the respective category.
+
+2\. In addition to the requirements provided for in paragraph 1, the labelling of feed materials shall include the following when additives are incorporated:
+
+(a) the species or categories of animals for which the feed material is intended where the additives in question have not been authorised for all animal species or have been authorised with maximum limits for some species;
+
+(b) instructions for proper use in accordance with point 4 of Annex II, where a maximum content of the additives in question is set; and
+
+(c) the minimum storage life for additives other than technological additives.
+
+### Article 17 — Specific mandatory labelling requirements for compound feed
+
+1\. In addition to the requirements provided for in Article 15, the labelling of compound feed shall also include the following:
+
+(a) the species or categories of animals for which the compound feed is intended;
+
+(b) the instructions for proper use indicating the purpose for which the feed is intended; such instructions shall, where applicable, be in accordance with point 4 of Annex II;
+
+(c) in cases where the producer is not the person responsible for the labelling, the following shall be provided:
+
+— the name or business name and address of the producer, or
+
+— the approval number of the producer as referred to in Article 15(c) or an identifying number in accordance with Articles 9, 23 or 24 of Regulation (EC) No 183/2005; if such number is not available, an identifying number allocated at the request of the producers or the importing feed business operator, which shall be in accordance with the format laid down in Chapter II of Annex V to Regulation (EC) No 183/2005;
+
+(d) the indication of the minimum storage life in accordance with the following requirements:
+
+— ‘use before …’ followed by the date indicating a certain day in the case of feed highly perishable due to degradation processes,
+
+— ‘best before …’ followed by the date indicating a certain month in the case of other feed.
+
+If the date of manufacture is indicated on the label, the date indicating minimum storage life may be provided as well as ‘… (time period in days or months) after the date of manufacture’;
+
+(e) a list of the feed materials of which the feed is composed, bearing the heading ‘composition’ and indicating the name of each feed material in accordance with Article 16(1)(a), and listing those feed materials in descending order by weight calculated on the moisture content in the compound feed; that list may include the percentage by weight; and
+
+(f) the compulsory declarations provided for in Chapter II of Annex VI or VII, as applicable.
+
+2\. As regards the list provided for in paragraph 1(e), the following requirements shall apply:
+
+(a) the name and percentage by weight of a feed material shall be indicated if its presence is emphasised on the labelling in words, pictures or graphics;
+
+(b) if the percentages by weight of the feed materials contained in compound feed for food-producing animals are not indicated on the labelling, the person responsible for the labelling shall, without prejudice to Directive 2004/48/EC, make available to the purchaser, on request, information on the quantitative composition data within a range of +/– 15 % of the value according to the feed formulation; and
+
+(c) in the case of compound feed intended for non-food producing animals except fur animals, the indication of the specific name of the feed material may be replaced by the name of the category to which the feed materials belong.
+
+3\. In the event of any urgency relating to human or animal health or to the environment, and without prejudice to Directive 2004/48/EC, the competent authority may provide the purchaser with information that is available to it under Article 5(2), provided that, after having balanced the respective legitimate interests of the manufacturers and the purchasers, it concludes that the provision of such information is justified. If appropriate, the competent authority shall provide such information subject to the signing of a confidentiality clause by the purchaser.
+
+4\. For the purposes of paragraph 2(c), the Commission shall establish a list of categories of feed materials which may be indicated instead of individual feed materials on the labelling of feed for non-food producing animals except fur animals.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+### Article 18 — Additional mandatory labelling requirements for feed intended for particular nutritional purposes
+
+In addition to the general mandatory requirements laid down in Articles 15, 16 and 17, as applicable, the labelling of feed intended for particular nutritional purposes shall also include:
+
+(a) the qualifying expression ‘dietetic’, in the case, exclusively, of feed intended for particular nutritional purposes, next to the designation of the feed as laid down in Article 15(a);
+
+(b) the particulars prescribed for the respective intended use in columns 1 to 6 of the list of intended uses referred to in Article 9; and
+
+(c) an indication that the opinion of a nutrition expert or veterinarian should be sought before using the feed or before extending its period of use.
+
+### Article 19 — Additional mandatory labelling requirements for pet food
+
+On the label of pet food a free telephone number or other appropriate means of communication shall be indicated in order to allow the purchaser to obtain information in addition to the mandatory particulars on:
+
+(a) the feed additives contained in the pet food; and
+
+(b) the feed materials contained therein that are designated by category as referred to in Article 17(2)(c).
+
+### Article 20 — Additional mandatory labelling requirements for non-compliant feed
+
+1\. In addition to the requirements laid down in Articles 15, 16, 17 and 18, feed which does not comply with the requirements under Community law set out in Annex VIII, such as contaminated materials, shall bear the labelling particulars laid down in that Annex.
+
+2\. The Commission may amend Annex VIII in order to bring it into line with legislative progress towards the development of standards.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+### Article 21 — Derogations
+
+1\. The particulars referred to in Article 15(c), (d), (e), and (g) and Article 16(1)(b) shall not be required where, before each transaction, the purchaser has stated in writing that he does not require this information. A transaction may consist of several consignments.
+
+2\. On packaged feed the particulars referred to in Article 15(c), (d) and (e) and Article 16(2)(c) or Article 17(1)(c), (d), and (e) may be given on the packaging outside the place of the label as referred to in Article 14(1). In such cases it shall be pointed out where these particulars appear.
+
+3\. Without prejudice to Annex I to Regulation (EC) No 183/2005, the particulars referred to in Article 15(c), (d), (e) and (g) and Article 16(1)(b) of this Regulation shall not be mandatory for feed materials that do not contain feed additives, with the exception of preservatives or silage additives, and which are produced and delivered by a feed business operator in accordance with Article 5(1) of Regulation (EC) No 183/2005 to a feed user involved in primary production for use within his own holding.
+
+4\. The compulsory declarations referred to in Article 17(1)(f) shall not be required for mixes of whole plant grains, seeds and fruit.
+
+5\. In the case of compound feed constituted from no more than three feed materials the particulars referred to in Article 17(1)(a) and (b) shall not be required where the feed materials used are clearly indicated in the description.
+
+6\. For quantities not exceeding 20 kg of feed materials or compound feed intended for the final user and sold in bulk, the particulars referred to in Articles 15, 16 and 17 may be brought to the purchaser’s attention by means of an appropriate notice at the point of sale. In such cases, the particulars referred to in Article 15(a) and Article 16(1) or Article 17(1)(a) and (b), as appropriate, shall be provided for the purchaser at the latest on or with the invoice.
+
+7\. For quantities of pet food sold in packages with several containers, the particulars referred to in Article 15(b), (c), (f) and (g) and Article 17(1)(b), (c), (e) and (f) may be given only on the outer packaging instead of on each container, provided that the combined total weight of the package does not exceed 10 kg.
+
+8\. By way of derogation from the provisions of this Regulation, Member States may apply national provisions for feed intended for animals kept for scientific or experimental purposes on condition that such purpose is clearly indicated on the label. The Member States shall notify those provisions to the Commission without delay.
+
+### Article 22 — Voluntary labelling
+
+1\. In addition to the mandatory labelling requirements, the labelling of feed materials and compound feed may also include voluntary labelling particulars, provided that the general principles laid down in this Regulation are complied with.
+
+2\. Further conditions for voluntary labelling may be provided in the Community Codes referred to in Article 25.
+
+### Article 23 — Packaging
+
+1\. Feed materials and compound feed may be placed on the market only in sealed packages or containers. Packages or containers shall be sealed in such a way that, when the package or container is opened, the seal is damaged and cannot be reused.
+
+2\. By way of derogation from paragraph 1, the following feed may be placed on the market in bulk or in unsealed packages or containers:
+
+(a) feed materials;
+
+(b) compound feed obtained exclusively by mixing grain or whole fruit;
+
+(c) deliveries between producers of compound feed;
+
+(d) deliveries of compound feed directly from the producer to the feed user;
+
+(e) deliveries from producers of compound feed to packaging firms;
+
+(f) quantities of compound feed not exceeding 50 kilograms in weight which are intended for the final user and are taken directly from a sealed package or container; and
+
+(g) blocks or licks.
+
+## CHAPTER 5 — COMMUNITY CATALOGUE OF FEED MATERIALS AND COMMUNITY CODES OF GOOD LABELLING PRACTICE
+
+### Article 24 — Community Catalogue of feed materials
+
+1\. The Community Catalogue of feed materials (hereinafter ‘the Catalogue’) shall be created as a tool to improve the labelling of feed materials and compound feed. The Catalogue shall facilitate the exchange of information on the product properties and list feed materials in a non-exhaustive manner. It shall include for each feed material listed at least the following particulars:
+
+(a) the name;
+
+(b) the identification number;
+
+(c) a description of the feed material including information on the manufacturing process, if appropriate;
+
+(d) particulars replacing the compulsory declaration for the purpose of Article 16(1)(b); and
+
+(e) a glossary with the definition of the different processes and technical expressions mentioned.
+
+2\. The first version of the Community Catalogue shall be adopted in accordance with the advisory procedure referred to in Article 28(2) by 21 March 2010 at the latest and its entries shall consist of those listed in Part B of the Annex to Directive 96/25/EC and columns 2 to 4 of the Annex to Directive 82/471/EEC. Point IV of Part A of the Annex to Directive 96/25/EC shall constitute the glossary.
+
+3\. The procedure laid down in Article 26 shall apply to amendments to the Catalogue.
+
+4\. This Article applies without prejudice to the safety requirements laid down in Article 4.
+
+5\. Use of the Catalogue by the feed business operators shall be voluntary. However, the name of a feed material listed in the Catalogue may be used only on condition that all relevant provisions of the Catalogue are complied with.
+
+6\. The person who, for the first time, places on the market a feed material that is not listed in the Catalogue shall immediately notify its use to the representatives of the European feed business sectors referred to in Article 26(1). The representatives of the European feed business sectors shall publish a register of such notifications on the Internet and update the register on a regular basis.
+
+### Article 25 — Community Codes of good labelling practice
+
+1\. The Commission shall encourage the development of two Community Codes of good labelling practice (hereinafter ‘the Codes’), one for pet food and one for compound feed for food producing animals, which may include a section concerning compound feed for fur animals.
+
+2\. The Codes shall aim to improve the appropriateness of the labelling. They shall, in particular, include provisions on the presentation of labelling particulars provided for in Article 14, on the voluntary labelling provided for in Article 22 and on the use of claims provided for in Article 13.
+
+3\. The procedure laid down in Article 26 shall apply for the establishment of the Codes and for any amendment thereto.
+
+4\. Use of the Codes by the feed business operators shall be voluntary. However, use of any of the Codes may be indicated on the labelling only on condition that all relevant provisions of such Code are complied with.
+
+### Article 26 — Establishment of the Codes and amendments to the Community Catalogue and the Community Codes
+
+1\. The draft amendments to the Community Catalogue and drafts of the Codes as well as any draft amendments thereof shall be developed and amended by all appropriate representatives of European feed business sectors:
+
+(a) in consultation with other concerned parties, such as feed users;
+
+(b) in collaboration with the competent authorities of the Member States and, where appropriate, the Authority;
+
+(c) taking into account relevant experience from opinions issued by the Authority and scientific or technological developments.
+
+2\. Without prejudice to paragraph 3, the Commission shall approve measures for the purposes of this Article in accordance with the advisory procedure referred to in Article 28(2).
+
+3\. Amendments to the Community Catalogue setting the maximum content of chemical impurities as referred to in point 1 of Annex I or levels of botanical purity as referred to in point 2 of Annex I or levels of moisture content as referred to in point 6 of Annex I or particulars replacing the compulsory declaration as referred to in Article 16(1)(b), shall be adopted. Such measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+4\. Measures under this Article shall be adopted only on condition that the following conditions are met:
+
+(a) they have been developed in accordance with paragraph 1;
+
+(b) their content is capable of being applied throughout the Community in the sectors to which they refer; and
+
+(c) they are suitable for meeting the objectives of this Regulation.
+
+5\. The Catalogue shall be published in the L Series of the Official Journal of the European Union. The title and the references of the Codes shall be published in the C Series of the Official Journal of the European Union.
+
+## CHAPTER 6 — GENERAL AND FINAL PROVISIONS
+
+### Article 27 — Implementing measures
+
+1\. The Commission may amend the Annexes in order to adapt them in light of scientific and technological developments.
+
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+2\. Other implementing measures necessary for the application of this Regulation shall be adopted in accordance with the regulatory procedure referred to in Article 28(3), unless specifically provided otherwise.
+
+### Article 28 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health set up by Article 58 of Regulation (EC) No 178/2002 (hereinafter referred to as ‘the Committee’).
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+4\. Where reference is made to this paragraph, Article 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+5\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+6\. Where reference is made to this paragraph, Article 5a(1) to (4) and (5)(b), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time limits laid down in Article 5a(3)(c), (4)(b) and (4)(e) of Decision 1999/468/EC shall be set at two months, one month and two months respectively.
+
+### Article 29 — Amendment to Regulation (EC) No 1831/2003
+
+Article 16 of Regulation (EC) No 1831/2003 shall be amended as follows:
+
+1\. paragraph 1 is amended as follows:
+
+(a) point (d) is replaced by the following:
+
+‘(d) where appropriate, the approval number of the establishment manufacturing or placing on the market the feed additive or the premixture pursuant to Article 10 of Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene ( *1 ) or, as applicable, to Article 5 of Directive 95/69/EC;
+
+(b) the following subparagraph is added at the end of paragraph 1:
+
+‘In the case of premixtures, points (b), (d), (e) and (g) shall not apply to the incorporated feed additives.’;
+
+2\. paragraph 3 is replaced by the following:
+
+‘3. In addition to the information specified in paragraph 1, the packaging or container of a feed additive belonging to a functional group specified in Annex III or of a premixture containing an additive belonging to a functional group specified in Annex III shall bear the information, presented in a conspicuous, clearly legible and indelible manner, indicated in that Annex.’;
+
+3\. paragraph 4 is replaced by the following:
+
+‘4. In the case of premixtures, the word “premixture” shall appear on the label. Carriers shall be declared, in the case of feed materials, in compliance with Article 17(1)(e) of Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed ( *2 ), and, where water is used as a carrier, the moisture content of the premixture shall be declared. Only one minimum storage life may be indicated in respect of each premixture as a whole; such minimum storage life shall be determined on the basis of the minimum storage life of each of its components.
+
+### Article 30 — Repeal
+
+Article 16 of Directive 70/524/EEC and Directives 79/373/EEC, 80/511/EEC, 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC, and Decision 2004/217/EC are repealed with effect from 1 September 2010.
+
+References to the repealed Directives and to the repealed Decision shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex IX.
+
+### Article 31 — Penalties
+
+Member States shall lay down penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+Member States shall notify such provisions to the Commission by 1 September 2010 at the latest and shall notify it without delay of any subsequent amendment affecting them.
+
+### Article 32 — Transitional measures
+
+1\. By way of derogation from the second subparagraph of Article 33, feed placed on the market or labelled in accordance with Directives 79/373/EEC, 82/471/EEC, 93/74/EEC and 96/25/EC before 1 September 2010 may be placed or remain on the market until stocks are exhausted.
+
+2\. By way of derogation from Article 8(2), types of feed referred to in that Article that have already been legally placed on the market before 1 September 2010 may be placed or remain on the market until a decision on the application for updating the list of intended uses as referred to in Article 10 has been taken, provided that such application has been submitted before 1 September 2010.
+
+3\. By way of derogation from point 1 of Annex I to this Regulation, feed materials may be placed on the market and used until the specific maximum content of chemical impurities resulting from their manufacturing process and from processing aids is fixed, provided that they comply at least with the conditions set out in point 1 of Part A, Title II of the Annex to Directive 96/25/EC. This derogation shall cease to apply, however, on 1 September 2012.
+
+4\. Measures may be adopted in order to facilitate transition to the application of this Regulation. In particular, conditions may be specified under which feed may be labelled in accordance with this Regulation prior to the date of its application. Such measures, designed to amend the non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(4).
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 September 2010.
+
+However, Articles 31 and 32 shall apply from the date of entry into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Technical provisions on impurities, milk replacer, feed materials for binding or denaturising, the ash level and moisture content as referred to in Article 4**
+
+1\. In accordance with good practice as referred to in Article 4 of Regulation (EC) No 183/2005, feed materials shall be free from chemical impurities resulting from their manufacturing process and from processing aids, unless a specific maximum content is fixed in the Catalogue referred to in Article 24.
+
+2\. The botanical purity of feed materials shall not be less than 95 %, unless a different level has been laid down in the Catalogue referred to in Article 24. Botanical impurities comprise impurities of plant materials which do not have adverse effects on the animals e.g. straw and seeds of other cultivated species or weeds. Botanical impurities such as residues of other oil seeds or oil fruits derived from a previous manufacturing process, shall not exceed 0,5 % for each type of oil seed or fruit.
+
+3\. The iron level in milk replacer feed for calves of a live weight less than or equal to 70 kilograms shall be at least 30 milligrams per kilogram of the complete feed at a moisture content of 12 %.
+
+4\. Where feed materials are used to denature or bind other feed materials, the product may still be considered to be a feed material. Name, nature and quantity of the feed material used to bind or denature shall be labelled. If a feed material is bound by another feed material the percentage of the latter shall not exceed 3 % of the total weight.
+
+5\. The level of ash insoluble in hydrochloric acid shall not exceed 2,2 % of the dry matter. The 2,2 % level may, however, be exceeded for:
+
+— feed materials,
+
+— compound feed containing authorised mineral binding agents,
+
+— mineral feed,
+
+— compound feed containing more than 50 % of rice or sugar beet by-products,
+
+— compound feed intended for farmed fish with a fish meal content of over 15 %,
+
+provided that the level is declared on the label.
+
+6\. Provided that no other level is laid down in Annex V or the Catalogue referred to in Article 24 the moisture content of the feed must be stated if it exceeds:
+
+— 5 % in the case of mineral feed containing no organic substances,
+
+— 7 % in the case of milk replacer feeds and other compound feed with a milk-product content exceeding 40 %,
+
+— 10 % in the case of mineral feed containing organic substances,
+
+— 14 % in the case of other feed.
+
+## ANNEX II
+
+**General provisions on labelling as referred to in Article 11(4)**
+
+1\. Contents or levels indicated or to be declared relate to the weight of the feed, unless otherwise stated.
+
+2\. The numeric indication of dates shall follow the order of day, month and year and the format shall be indicated on the label by means of the following abbreviation: ‘DD/MM/YY’.
+
+3\. Synonymic expressions in certain languages;
+
+(a) in Czech the designation ‘krmiva’ may be replaced by ‘produkty ke krmení’ as applicable; in German the designation ‘Einzelfuttermittel’ may be replaced by ‘Futtermittel-Ausgangserzeugnis’; in Greek ‘πρώτη ύλη ζωοτροφών’ may be replaced by ‘απλή ζωοτροφή’; in Italian ‘materia prima per mangimi’ may be replaced by ‘mangime semplice’;
+
+(b) in the designation of feed for pets the following expressions shall be allowed: in Bulgarian ‘храна’; in Spanish ‘alimento’; in Czech the designation ‘kompletní krmná směs’ may be replaced by ‘kompletní krmivo’ and ‘doplňková krmná směs’ may be replaced by ‘doplňkové krmivo’; in English ‘pet food’; in Italian ‘alimento’; in Hungarian ‘állateledel’; in Dutch ‘samengesteld voeder’; in Polish ‘karma’; in Slovenian ‘hrana za hišne živali’; in Finnish ‘lemmikkieläinten ruoka’; in Estonian ‘lemmikloomatoit’; in Croatian ‘hrana za kućne ljubimce’.
+
+4\. The instructions for proper use of complementary feed and feed materials containing additives in excess of the maximum levels fixed for complete feed shall state the maximum quantity:
+
+— in grams or kilograms or units of volume of complementary feed and feed materials per animal per day, or
+
+— percentage of the daily ration, or
+
+— per kilo of complete feed or percentage in complete feed,
+
+in order to ensure that the respective maximum contents of feed additives in the daily ration are complied with.
+
+5\. Without affecting the analytical methods, for pet food the expression ‘crude protein’ may be replaced by ‘protein’, ‘ crude fat  ’ may be replaced by ‘fat content’ and ‘crude ash’ may be replaced by ‘incinerated residue’ or ‘inorganic matter’.
+
+## ANNEX III
+
+**List of materials whose placing on the market or use for animal nutritional purposes is restricted or prohibited as referred to in Article 6**
+
+Chapter 1: Prohibited materials
+
+1\. Faeces, urine and separated digestive tract content resulting from the emptying or removal of digestive tract, irrespective of any form of treatment or admixture.
+
+2\. Hide treated with tanning substances, including its waste.
+
+3\. Seeds and other plant-propagating materials which, after harvest, have undergone specific treatment with plant-protection products for their intended use (propagation), and any by-products derived therefrom.
+
+4\. Wood, including sawdust or other materials derived from wood, which has been treated with wood preservatives as defined in Annex V to Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market ( 7 ).
+
+5\. All waste obtained from the various phases of the treatment of the urban, domestic and industrial waste water, as defined in Article 2 of Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment ( 8 ), irrespective of any further processing of that waste and irrespective of the origin of the waste waters ( 9 ).
+
+6\. Solid urban waste ( 10 ), such as household waste.
+
+7\. Packaging from the use of products from the agri-food industry, and parts thereof.
+
+8\. Protein products obtained from yeasts of the Candida variety cultivated on n-alkanes.
+
+Chapter 2: Restricted materials
+
+## ANNEX IV
+
+**Permitted tolerances for the compositional labelling of feed materials or compound feed provided for in Article 11(5)**
+
+**Part A: Tolerances for the analytical constituents set out in Annexes I, V, VI and VII**
+
+(1) The tolerances laid down in this Part include technical and analytical deviations. Once analytical tolerances covering measurement uncertainties and procedural variations are fixed at Union level, the values set in point 2 should be adapted accordingly in order to cover only the technical tolerances.
+
+(2) Where the composition of a feed material or compound feed is found to deviate from the labelled value of the analytical constituents set out in Annexes I, V, VI and VII the following tolerances shall apply:
+
+<table>
+<tbody><tr><td>Constituent</td><td>Declared content of the constituent</td><td colspan="2">Tolerance (1)</td></tr>
+<tr><td>  </td><td>[%]</td><td>Below the labelled value</td><td>Above the labelled value</td></tr>
+<tr><td rowspan="3">crude fat</td><td>&lt; 8</td><td>1</td><td>2</td></tr>
+<tr><td>8 - 24</td><td>12,5 %</td><td>25 %</td></tr>
+<tr><td>&gt; 24</td><td>3</td><td>6</td></tr>
+<tr><td rowspan="3">crude fat, feed for non-food producing animals</td><td>&lt; 16</td><td>2</td><td>4</td></tr>
+<tr><td>16 - 24</td><td>12,5 %</td><td>25 %</td></tr>
+<tr><td>&gt; 24</td><td>3</td><td>6</td></tr>
+<tr><td rowspan="3">crude protein</td><td>&lt; 8</td><td>1</td><td>1</td></tr>
+<tr><td>8 - 24</td><td>12,5 %</td><td>12,5 %</td></tr>
+<tr><td>&gt; 24</td><td>3</td><td>3</td></tr>
+<tr><td rowspan="3">crude protein, feed for non-food producing animals</td><td>&lt; 16</td><td>2</td><td>2</td></tr>
+<tr><td>16 - 24</td><td>12,5 %</td><td>12,5 %</td></tr>
+<tr><td>&gt; 24</td><td>3</td><td>3</td></tr>
+<tr><td rowspan="3">crude ash</td><td>&lt; 8</td><td>2</td><td>1</td></tr>
+<tr><td>8 - 32</td><td>25 %</td><td>12,5 %</td></tr>
+<tr><td>&gt; 32</td><td>8</td><td>4</td></tr>
+<tr><td rowspan="3">crude fibre</td><td>&lt; 10</td><td>1,75</td><td>1,75</td></tr>
+<tr><td>10 - 20</td><td>17,5 %</td><td>17,5 %</td></tr>
+<tr><td>&gt; 20</td><td>3,5</td><td>3,5</td></tr>
+<tr><td rowspan="3">sugar</td><td>&lt; 10</td><td>1,75</td><td>3,5</td></tr>
+<tr><td>10 - 20</td><td>17,5 %</td><td>35 %</td></tr>
+<tr><td>&gt; 20</td><td>3,5</td><td>7</td></tr>
+<tr><td rowspan="3">starch</td><td>&lt; 10</td><td>3,5</td><td>3,5</td></tr>
+<tr><td>10 - 20</td><td>35 %</td><td>35 %</td></tr>
+<tr><td>&gt; 20</td><td>7</td><td>7</td></tr>
+<tr><td rowspan="3">calcium</td><td>&lt; 1</td><td>0,3</td><td>0,6</td></tr>
+<tr><td>1 - 5</td><td>30 %</td><td>60 %</td></tr>
+<tr><td>&gt; 5</td><td>1,5</td><td>3</td></tr>
+<tr><td rowspan="3">magnesium</td><td>&lt; 1</td><td>0,3</td><td>0,6</td></tr>
+<tr><td>1 - 5</td><td>30 %</td><td>60 %</td></tr>
+<tr><td>&gt; 5</td><td>1,5</td><td>3</td></tr>
+<tr><td rowspan="3">sodium</td><td>&lt; 1</td><td>0,3</td><td>0,6</td></tr>
+<tr><td>1 - 5</td><td>30 %</td><td>60 %</td></tr>
+<tr><td>&gt; 5</td><td>1,5</td><td>3</td></tr>
+<tr><td rowspan="3">total phosphorus</td><td>&lt; 1</td><td>0,3</td><td>0,3</td></tr>
+<tr><td>1 - 5</td><td>30 %</td><td>30 %</td></tr>
+<tr><td>&gt; 5</td><td>1,5</td><td>1,5</td></tr>
+<tr><td rowspan="3">ash insoluble in hydrochloric acid</td><td>&lt; 1</td><td rowspan="3">no limits are set</td><td>0,3</td></tr>
+<tr><td> 1 - 5  </td><td>30 %</td></tr>
+<tr><td>&gt; 5</td><td>1,5</td></tr>
+<tr><td rowspan="3">potassium</td><td>&lt; 1</td><td>0,2</td><td>0,4</td></tr>
+<tr><td>1 - 5</td><td>20 %</td><td>40 %</td></tr>
+<tr><td>&gt; 5</td><td>1</td><td>2</td></tr>
+<tr><td rowspan="4">moisture</td><td>&lt; 2</td><td rowspan="4">no limits are set</td><td>0,4</td></tr>
+<tr><td>2 - &lt; 5</td><td>20 %</td></tr>
+<tr><td>5 - 12,5</td><td>1</td></tr>
+<tr><td>&gt; 12,5</td><td>8 %</td></tr>
+<tr><td>energy value (2)</td><td>  </td><td>5 %</td><td>10 %</td></tr>
+<tr><td>protein value (2)</td><td>  </td><td>10 %</td><td>20 %</td></tr>
+<tr><td colspan="4">(1)  The tolerances are given either as an absolute percentage value (this value must be subtracted from/added to the declared content) or as a relative value marked with ‘%’ after the value (this percentage must be applied to the declared content to calculate the acceptable deviation).  (2)  The tolerances are applicable where no tolerance has been laid down in accordance with an EU method or in accordance with an official national method in the Member State in which the feed is placed on the market or in accordance with an method adopted by the European Committee for Standardisation (https://standards.cen.eu/dyn/www/f?p=204:32:0::::FSP_ORG_ID,FSP_LANG_ID:6308,25&cs=1C252307F473504B6354F4EE56B99E235). </td></tr>
+</tbody>
+</table>
+
+**Part B: Tolerances for feed additives labelled according to Annexes I, V, VI and VII**
+
+1\. The tolerances laid down in this Part include technical deviation only. They shall apply to feed additives in the list of feed additives and in the list of analytical constituents.
+
+As regards feed additives listed as analytical constituents, the tolerances shall apply to the total amount labelled as the guaranteed quantity at the end of the minimum storage life of the feed.
+
+Where the content of a feed additive in a feed material or compound feed is found to be below the declared content, the following tolerances shall apply ( 11 ):
+
+(a) 10 % of the declared content if the declared content is 1 000 units or more;
+
+(b) 100 units if the declared content is less than 1 000 units but not less than 500 units;
+
+(c) 20 % of the declared content if the declared content is less than 500 units but not less than 1 unit;
+
+(d) 0,2 units if the declared content is less than 1 unit but not less than 0,5 units;
+
+(e) 40 % of the declared content if the declared content is less than 0,5 units.
+
+2\. Where a minimum and/or a maximum content of an additive in a feed is laid down in the respective authorisation act for that feed additive, the technical tolerances laid down in point 1 shall only apply above a minimum content or below a maximum content, where appropriate.
+
+3\. As long as the fixed maximum content of an additive as referred to in point 2 is not exceeded, the deviation above the declared content may go up to three times the tolerance laid down in point 1. However, if for feed additives belonging to the group of micro-organisms a maximum content is laid down in the respective authorising act for that feed additive, the maximum content shall constitute the upper permitted value.
+
+## ANNEX V
+
+**Compulsory declaration for feed materials as referred to in Article 16(1)(b)**
+
+|  | Feed material consisting of | Compulsory declaration of |
+| --- | --- | --- |
+| 1. | Forages and roughage | Crude protein, if > 10 % Crude fibre |
+| 2. | Cereal grains |  |
+| 3. | Products and by-products of cereal grains | Starch, if > 20 % Crude protein, if > 10 % Crude fat  , if > 5 % Crude fibre |
+| 4. | Oil seeds, oil fruits |  |
+| 5. | Products and by-products of oil seeds, oil fruits | Crude protein, if > 10 % Crude fat  , if > 5 % Crude fibre |
+| 6. | Legume seeds |  |
+| 7. | Products and by-products of legume seeds | Crude protein, if > 10 % Crude fibre |
+| 8. | Tubers, roots |  |
+| 9. | Products and by-products of tubers and roots | Starch Crude fibre Ash insoluble in HCl, if > 3,5 % of dry matter |
+| 10. | Products and by-products of the sugar beet processing industry | Crude fibre, if > 15 % Total sugar, calculated as sucrose Ash insoluble in HCl, if > 3,5 % of dry matter |
+| 11. | Products and by-products of the sugar cane processing industry | Crude fibre, if > 15 % Total sugar calculated as sucrose |
+| 12. | Other seeds and fruits, their products and by-products, except those mentioned in 2-7 | Crude protein Crude fibre Crude fat  , if > 10 % |
+| 13. | Other plants, their products and by-products, except those mentioned in 8-11 | Crude protein, if > 10 % Crude fibre |
+| 14. | Milk products and by-products | Crude protein Moisture, if > 5 % Lactose, if > 10 % |
+| 15. | Land animal products and by-products | Crude protein, if > 10 % Crude fat  , if > 5 % Moisture, if > 8 % |
+| 16. | Fish, other marine animals, their products and by-products | Crude protein, if > 10 % Crude fat  , if > 5 % Moisture, if > 8 % |
+| 17. | Minerals | Calcium Sodium Phosphorus Other relevant minerals |
+| 18. | Miscellaneous | Crude protein, if > 10 % Crude fibre Crude fat  , if > 10 % Starch, if > 30 % Total sugar, as sucrose, if > 10 % Ash insoluble in HCl, if > 3,5 % of dry matter |
+
+## ANNEX VI
+
+**Labelling particulars for feed materials and compound feed for food-producing animals**
+
+**Chapter I: Compulsory and voluntary labelling of feed additives as referred to in Article 15(f) and 22(1)**
+
+1\. The following additives shall be listed, along with their specific names, identification numbers, added amount and the name of the functional group as laid down in Annex I to Regulation (EC) No 1831/2003 or the category referred to in Article 6(1) of that Regulation:
+
+(a) additives where a maximum content is set for at least one food producing animal;
+
+(b) additives belonging to the categories ‘zootechnical additives’ and ‘coccidiostats and histomonostats’;
+
+(c) additives for which the recommended maximum contents established in the legal act authorising the feed additive are exceeded.
+
+The labelling particulars shall be indicated in accordance with the legal act authorising the feed additive in question.
+
+The added amount referred to in the first paragraph shall be expressed as the amount of the feed additive except where the legal act authorising the respective feed additive indicates a substance in the column ‘minimum/maximum content’. In this latter case, the added amount shall be expressed as the amount of that substance.
+
+2\. For feed additives of the functional group vitamins, pro-vitamins and chemically well-defined substances having similar effect which must be listed pursuant to point 1, the labelling may indicate the total amount guaranteed during the complete shelf-life under the heading ‘Analytical constituents’ instead of indicating the added amount under the heading ‘Additives’.
+
+3\. The name of the functional group as referred to in point 1, 4 and 6 may be replaced by the following abbreviation, if such abbreviation is not established in Annex I to Regulation (EC) No 1831/2003:
+
+| Functional group | Name and description | Abbreviated name |
+| --- | --- | --- |
+| 1h | Substances for control of radionuclide contamination: substances that suppress absorption of radionuclides or promote their excretion | Radionuclide controllers |
+| 1m | Substances for reduction of the contamination of feed by mycotoxins: substances than can suppress or reduce the absorption, promote the excretion of mycotoxins or modify their mode of action | Mycotoxin reducers |
+| 1n | Hygiene condition enhancers: substances or, when applicable, microorganisms which favourably affect the hygienic characteristics of feed by reducing a specific microbiological contamination | Hygiene improvers |
+| 2b | Flavouring compounds: substances the inclusion of which in feedingstuffs increase feed smell or palatability. | Flavourings |
+| 3a | Vitamins, pro-vitamins and chemically well-defined substances having similar effect | Vitamins |
+| 3b | Compounds of trace elements | Trace elements |
+| 3c | Amino acids, theirs salts and analogues | Amino acids |
+| 3d | Urea and its derivatives | Urea |
+| 4c | Substances affecting favourably the environment | Environment improvers |
+
+4\. Feed additives emphasised on the labelling in words, pictures or graphics shall be indicated in accordance with point 1 or 2, as applicable.
+
+5\. The person responsible for the labelling shall disclose the names, the identification number and the functional group of the feed additives not mentioned in point 1, 2 and 4 to the purchaser at his request. This provision shall not apply to flavouring compounds.
+
+6\. Feed additives not mentioned in points 1, 2 and 4 may be voluntarily indicated at least with their name or, in the case of flavouring compounds, at least with their functional group.
+
+7\. Without prejudice to point 6, where a sensory or nutritional feed additive is labelled on a voluntary basis, the added amount shall be indicated in accordance with point 1 or in case of feed additives of the functional group vitamins, pro-vitamins and chemically well-defined substances having similar effect, the total amount guaranteed during the complete shelf-life shall be indicated in accordance with point 2.
+
+8\. If an additive belongs to more than one of the functional groups, the functional group or category appropriate to its principal function in the case of the feed in question shall be indicated.
+
+9\. Labelling particulars concerning the proper use of feed materials and compound feed which are laid down in the legal act authorising the feed additive in question shall be indicated.
+
+**Chapter II: Labelling of analytical constituents as referred to in Articles 17(1)(f) and 22(1)**
+
+1\. The analytical constituents of compound feed for food producing animals shall be indicated on the label, preceded by the heading ‘Analytical constituents’ ( 12 ), as follows:
+
+| Compound feed | Target species | Analytical constituents and levels |
+| --- | --- | --- |
+| Complete feed | All species All species All species All species All species All species All species Pigs and poultry Pigs and poultry | — Crude protein — Crude fibre — Crude fat — Crude ash — Calcium — Sodium — Phosphorus — Lysine — Methionine |
+| Complementary feed — Mineral | All species All species All species Pigs and poultry Pigs and poultry Ruminants | — Calcium — Sodium — Phosphorus — Lysine — Methionine — Magnesium |
+| Complementary feed — Other | All species All species All species All species All species All species All species Pigs and poultry Pigs and poultry Ruminants | — Crude protein — Crude fibre — Crude fat — Crude ash — Calcium ≥ 5 % — Sodium — Phosphorus ≥ 2 % — Lysine — Methionine — Magnesium ≥ 0,5 % |
+
+2\. Substances indicated under this heading, which are also sensory or nutritional additives, shall be declared along with the total amount thereof.
+
+3\. If the energy value and/or protein value are indicated, such indication shall be in accordance with Article 11 of Regulation (EC) No 882/2004.
+
+## ANNEX VII
+
+**Labelling particulars for feed materials and compound feed for non-food producing animals**
+
+**Chapter I: Compulsory and voluntary labelling of feed additives as referred to in Articles 15(f) and 22(1)**
+
+1\. The following additives shall be listed, along with their specific names and/or identification numbers, added amount and the name of the functional group as laid down in Annex I to Regulation (EC) No 1831/2003 or the category referred to in Article 6(1) of that Regulation:
+
+(a) additives where a maximum content is set for at least one non-food producing animal;
+
+(b) additives belonging to the categories ‘zootechnical additives’ and ‘coccidiostats and histomonostats’;
+
+(c) additives for which the recommended maximum contents established in the legal act authorising the feed additive are exceeded.
+
+The labelling particulars shall be indicated in accordance with the legal act authorising the feed additive in question.
+
+The added amount referred to in the first paragraph shall be expressed as the amount of the feed additive except where the legal act authorising the respective feed additive indicates a substance in the column ‘minimum/maximum content’. In this latter case, the added amount shall be expressed as the amount of that substance.
+
+2\. For feed additives of the functional group vitamins, pro-vitamins and chemically well-defined substances having similar effect which must be listed pursuant to point 1, the labelling may indicate the total amount guaranteed during the complete shelf-life under the heading ‘Analytical constituents’ instead of indicating the added amount under the heading ‘Additives’.
+
+3\. The name of the functional group as referred to in point 1, 5 and 7 may be replaced by the abbreviation in accordance with the table in point 3 of Annex VI, if such abbreviation is not established in Annex I to Regulation (EC) No 1831/2003.
+
+4\. Feed additives emphasised on the labelling in words, pictures or graphics shall be indicated in accordance with point 1 or 2, as applicable.
+
+5\. By way of derogation from point 1, for additives of the functional groups ‘preservatives’, ‘antioxidants’, ‘colourants’ and ‘flavouring compounds’, only the functional group in question needs to be indicated. In this case the information referred to in point 1 and 2 shall be disclosed by the person responsible for the labelling to the purchaser at his request.
+
+6\. The person responsible for the labelling shall disclose the names, the identification number and the functional group of the feed additives not mentioned in point 1, 2 and 4 to the purchaser at his request. This provision shall not apply to flavouring compounds.
+
+7\. Feed additives not mentioned in point 1, 2 and 4 may be voluntarily indicated at least with their name or, in the case of flavouring compounds, at least with their functional group.
+
+8\. Without prejudice to point 7, where a sensory or nutritional feed additive is labelled on a voluntary basis, the added amount shall be indicated in accordance with point 1 or in case of feed additives of the functional group vitamins, pro-vitamins and chemically well-defined substances having similar effect, the total amount guaranteed during the complete shelf-life shall be indicated in accordance with point 2.
+
+9\. If an additive belongs to more than one of the functional groups, the functional group or category appropriate to its principal function in the case of the feed in question shall be indicated.
+
+10\. Labelling particulars concerning the proper use of feed materials and compound feed which are laid down in the legal act authorising the feed additive in question shall be indicated.
+
+**Chapter II: Labelling of analytical constituents as referred to in Articles 17(1)(f) and 22(1)**
+
+1\. The analytical constituents of compound feed for non-food producing animals shall be listed under the heading ‘Analytical constituents’ ( 13 ) and shall be labelled as follows:
+
+| Compound feed | Target species | Analytical constituents |
+| --- | --- | --- |
+| Complete feed | Cats, dogs and fur animals Cats, dogs and fur animals Cats, dogs and fur animals Cats, dogs and fur animals | — Crude protein — Crude fibres — Crude fat — Crude ash |
+| Complementary feed — Mineral | All species All species All species | — Calcium — Sodium — Phosphorus |
+| Complementary feed — Other | Cats, dogs and fur animals Cats, dogs and fur animals Cats, dogs and fur animals Cats, dogs and fur animals | — Crude protein — Crude fibres — Crude fat — Crude ash |
+
+2\. Substances indicated under this heading, which are also sensory or nutritional additives, shall be declared along with the total amount thereof.
+
+3\. If the energy value and/or protein value are indicated, such indication shall be in accordance with Article 11 of Regulation (EC) No 882/2004.
+
+## ANNEX VIII
+
+**Specific provisions for the labelling of feed which does not comply with safety and marketing requirements under Community law as referred to in Article 20(1)**
+
+1\. Contaminated materials shall be labelled as ‘feed with excessive level(s) of … (designation of the undesirable substance(s) in accordance with Annex I to Directive 2002/32/EC), only to be used as feed after detoxification in approved establishments’. The approval of such establishments shall be in accordance with Article 10(2) or (3) of Regulation (EC) No 183/2005.
+
+2\. Where the contamination is intended to be reduced or eliminated by cleaning, the labelling of contaminated materials shall contain the following addition: ‘feed with excessive level(s) of … (designation of the undesirable substance(s) in accordance with Annex I to Directive 2002/32/EC), only to be used as feed after adequate cleaning’.
+
+3\. Without prejudice to point 1 and 2, former foodstuffs that need to be processed before they can be used as feed, shall be labelled as: ‘former food, only to be used as feed material after … (designation of the adequate process in accordance with part B of the Annex to Regulation (EU) No 68/2013)’.
+
+## ANNEX IX
+
+**CORRELATION TABLE**
+
+| Directive 79/373/EEC | Directive 96/25/EC | Other acts: Directives 80/511/EEC (1), 82/471/EEC (2), 93/74/EEC (3), 93/113 EC (4), or Decision 2004/217/EC (5) | This Regulation |
+| --- | --- | --- | --- |
+| — | — | — | Article 1 |
+| Article 1 | Article 1 | (2), (4): Article 1 (3): Article 4 | Article 2 |
+| Article 2 | Article 2 | (2), (3): Article 2 | Article 3 |
+| — | — | — | Article 4(1) |
+| Article 3 | Article 3 | (3): Article 1(2) | Article 4(2) |
+|  | Article 4 |  | Article 4(3) |
+| — | — | — | Article 5(1) |
+| Article 12 |  | (3): Article 10(2) | Article 5(2) |
+| Article 10a(3) | Article 11(b) | (2): Article 8 | Article 6 |
+| — | — | — | Article 7 |
+| — | — | — | Article 8 |
+|  |  | (3): Article 3 | Article 9 |
+|  |  | (3): Article 6 | Article 10 |
+| Article 5e |  |  | Article 11(1) |
+| Article 5(2) | Article 5(1) | (2): Article 5(2) | Article 11(2) |
+| — | — | — | Article 11(3) |
+| Article 5(6) | Articles 4 and 6(4) |  | Article 11(4) |
+| Article 6 | Article 4 |  | Article 11(5) |
+| Article 5(1) | Article 5(1) |  | Article 12 |
+| Article 5e | Article 5(2) | (3): Article 5(6) | Article 13 |
+| Article 5(1), Article 11 | Article 5(1), Article 9 |  | Article 14 |
+| Articles 5(1) and 5(5)(c) | Article 5(1) | (4): Article 7(1)E and Directive 70/524/EEC: Article 16 | Article 15 |
+|  | Article 5(1)(c), (d) and 7 |  | Article 16 |
+| Articles 5(1), 5c and 5d |  |  | Article 17(1) |
+| — | — | — | Article 17(2) |
+| Article 5c(3) |  |  | Article 17(3) |
+|  |  | (3): Articles 5(1), (4), (7) and 6(a) | Article 18 |
+| — | — | — | Article 19 |
+|  | Article 8 |  | Article 20 |
+|  | Article 6(1)(a) |  | Article 21(1) |
+| Article 5(5)(d) |  |  | Article 21(2) |
+|  | Article 6(3)(a) |  | Article 21(3) |
+| Article 5(5)(b) |  |  | Article 21(4) |
+| Article 5(5)(a) |  |  | Article 21(5) |
+| Article 5(2) | Article 5(3), 6(1)(b) |  | Article 21(6) |
+| — | — | — | Article 21(7) |
+| Article 14(c) |  |  | Article 21(8) |
+| Article 5(3), 5c(4) and 5e | Article 5(2) |  | Article 22 |
+| Article 4(1) |  | (1): Article 1 | Article 23 |
+| — | — | — | Article 24 |
+| — | — | — | Article 25 |
+| — | — | — | Article 26 |
+| Article 10 | Article 11 |  | Article 27 |
+| Article 13 | Article 13 | (2): Articles 13 and 14 (3): Article 9 | Article 28 |
+| — | — | — | Article 29 |
+| — | — | — | Article 30 |
+| — | — | — | Article 31 |
+| — | — | — | Article 32 |
+| — | — | — | Article 33 |
+| Annex Part A(2), (3), (4) | Annex Part A(II), (VI), |  | Annex I |
+| Annex Part A(1) and Article 5(6), | Article 6(4) |  | Annex II |
+|  |  | (5): Annex | Annex III |
+| Annex Part A(5), (6) | Annex Part A(VII) |  | Annex IV |
+|  | Annex Part C |  | Annex V |
+| Annex Part B |  |  | Annex VI |
+| Annex Part B |  |  | Annex VII |
+
+( 1 ) OJ L 147, 31.5.2001, p. 1.
+
+( 2 ) OJ L 273, 10.10.2002, p. 1.
+
+( 3 ) OJ L 268, 18.10.2003, p. 1.
+
+( 4 ) OJ L 268, 18.10.2003, p. 24.
+
+( 5 ) OJ L 189, 20.7.2007, p. 1.
+
+( 6 ) OJ L 144, 4.6.1997, p. 19.
+
+( *1 ) OJ L 35, 8.2.2005, p. 1.’;
+
+( *2 ) OJ L 229, 1.9.2009, p. 1.’.
+
+( 7 ) OJ L 123, 24.4.1998, p. 1.
+
+( 8 ) OJ L 135, 30.5.1991, p. 40.
+
+( 9 ) The term ‘waste water’ does not refer to ‘process water’, i.e. water from independent conduits integrated in food or feed industries; where these conduits are supplied with water, no water may be used for animal nutrition unless it is wholesome and clean water as specified in Article 4 of Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32). In the case of fish industries, the conduits concerned may also be supplied with clean seawater as defined in Article 2 of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1). Process water may not be used for animal nutrition unless it carries feed or food material and is technically free from cleaning agents, disinfectants or other substances not authorised by the animal nutrition legislation.
+
+( 10 ) The term ‘solid urban waste’ does not refer to catering waste as defined by Regulation (EC) No 1774/2002.
+
+( 11 ) 1 unit in this point means 1 mg, 1 000 IU, 1 × 109 CFU or 100 enzyme activity units of the respective feed additive per kg feed, as appropriate.
+
+( 12 ) In German language ‘analytische Bestandteile’ may be replaced by ‘Inhaltsstoffe’. In Swedish language ‘Analytiska beståndsdelar’ may be replaced by ‘Analyserat innehåll’.
+
+( 13 ) In German language ‘analytische Bestandteile’ may be replaced by ‘Inhaltsstoffe’. In Swedish language ‘Analytiska beståndsdelar’ may be replaced by ‘Analyserat innehåll’.

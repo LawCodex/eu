@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE (EU) 2015/565 Text with EEA relevance of 8 April 2015</td><td> L 93</td><td>43</td><td>9.4.2015</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2006/86/EC**
 
@@ -646,6 +648,7 @@ Recommendations for preventive and corrective actions
 
 **Rapid notification for suspected serious adverse events**
 
+<table>
 <tbody><tr><td colspan="5">Tissue establishment</td></tr>
 <tr><td colspan="5">EU tissue establishment code (if applicable)</td></tr>
 <tr><td colspan="5">Report identification</td></tr>
@@ -662,6 +665,7 @@ Recommendations for preventive and corrective actions
 <tr><td>Materials</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Others (specify)</td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **PART B**
 
@@ -755,11 +759,13 @@ Corrective measures taken (details)
 
 **THE STRUCTURE OF THE SINGLE EUROPEAN CODE**
 
+<table>
 <tbody><tr><td colspan="3">DONATION IDENTIFICATION SEQUENCE</td><td colspan="4">PRODUCT IDENTIFICATION SEQUENCE</td></tr>
 <tr><td colspan="2">EU TISSUE ESTABLISHMENT CODE</td><td rowspan="2">UNIQUE DONATION NUMBER</td><td colspan="2">PRODUCT CODE</td><td rowspan="2">SPLIT NUMBER</td><td rowspan="2">EXPIRY DATE (YYYYMMDD) </td></tr>
 <tr><td>ISO country code</td><td>Tissue establishment number</td><td>Product Coding System identifier</td><td>Product number</td></tr>
 <tr><td>2 alphabetic characters</td><td>6 alpha-numeric characters</td><td>13 alpha-numeric characters</td><td>1 alphabetic character</td><td>7 alpha-numeric characters</td><td>3 alpha-numeric characters</td><td>8 numeric characters</td></tr>
 </tbody>
+</table>
 
 ## ANNEX VIII
 

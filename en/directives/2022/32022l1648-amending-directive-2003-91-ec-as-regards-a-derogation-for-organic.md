@@ -116,6 +116,7 @@ The following shall apply to organic varieties of vegetable species suitable for
 |  | 1.1. | As regards distinctness and stability, all characteristics of the protocols and guidelines referred to in Annexes I and II shall be observed and described. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>1.2.</td><td>As regards uniformity, all characteristics of the protocols and guidelines referred to in Annexes I and II shall be observed and described and the following shall apply to the characteristics listed under point 2:<table><tbody><tr><td>(a)</td><td>those characteristics may be assessed in a less stringent way;</td></tr>
 </tbody>
 </table>
@@ -124,6 +125,7 @@ The following shall apply to organic varieties of vegetable species suitable for
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **2\. Derogation from technical protocols**
 

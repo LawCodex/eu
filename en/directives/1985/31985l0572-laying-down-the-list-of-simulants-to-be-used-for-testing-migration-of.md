@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(85/572/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2007/19/EC of 30 March 2007 </td><td> L 91</td><td>17</td><td>31.3.2007</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) No 10/2011 of 14 January 2011 </td><td> L 12</td><td>1</td><td>15.1.2011</td></tr>
+</table>
 
 C1
 

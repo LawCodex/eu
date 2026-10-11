@@ -1,0 +1,780 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2979 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets"
+identifier: "32024R2979"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2979/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-11-28
+entry_into_force: 2024-12-16
+last_amended: 2026-08-11
+consolidated_version: "02024R2979-20260811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2979-20260811"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2979 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2979**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1731 of 15 July 2026 </td><td> L 1731</td><td>1</td><td>22.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2979**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+This Regulation lays down rules for the integrity and core functionalities of the wallets, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;
+
+(2) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;
+
+(3) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;
+
+(4) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;
+
+(5) ‘wallet user’ means a user who is in control of the wallet unit;
+
+(6) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;
+
+(7) ‘wallet provider’ means a natural or legal person who provides wallet solutions;
+
+(8) ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;
+
+(9) ‘embedded disclosure policy’ means a set of rules, embedded in an electronic attestation of attributes by its provider, that indicates the conditions that a wallet-relying party has to meet to access the electronic attestation of attributes;
+
+(10) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;
+
+(11) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;
+
+(12) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;
+
+(13) ‘wallet cryptographic operation’ means a cryptographic mechanism necessary in the context of authentication of the wallet user and the issuance or presentation of person identification data or electronic attestations of attributes;
+
+(14) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;
+
+(15) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State.
+
+## CHAPTER II — INTEGRITY OF EUROPEAN DIGITAL IDENTITY WALLETS
+
+### Article 3 — Wallet unit integrity
+
+1\. Wallet units shall not perform any functionality listed in Article 5a(4) of Regulation (EU) No 910/2014, except wallet user authentication to access the wallet unit, until the wallet unit has successfully authenticated the wallet user.
+
+### Article 4 — Wallet instances
+
+1\. Wallet instances shall use at least one wallet secure cryptographic device to manage critical assets.
+
+2\. Wallet providers shall ensure integrity, authenticity and confidentiality of the communication between wallet instances and wallet secure cryptographic applications.
+
+3\. Where critical assets relate to performing electronic identification at assurance level high, the wallet cryptographic operations or other operations processing critical assets shall be performed in accordance with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Commission Implementing Regulation (EU) 2015/1502 ( 1 ).
+
+### Article 5 — Wallet secure cryptographic applications
+
+1\. Wallet providers shall ensure that wallet secure cryptographic applications:
+
+(a) perform wallet cryptographic operations involving critical assets, stored in a wallet secure cryptographic device and not required for the authentication of the wallet user only in cases where those applications have successfully authenticated wallet users;
+
+(b) where they authenticate wallet users in the context of performing electronic identification at assurance level high; perform authentication of wallet users, in accordance with, the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502;
+
+(c) are able to securely generate new cryptographic keys;
+
+(d) are able to perform secure erasure of critical assets;
+
+(e) are able to generate a proof of possession of private keys;
+
+(f) protect the private keys generated by those wallet secure cryptographic applications during the existence of the keys;
+
+(g) comply with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502;
+
+(h) are the only components able to execute wallet cryptographic operations and any other operation with critical assets in the context of performing electronic identification at assurance level high.
+
+2\. Where wallet providers decide to provide a wallet secure cryptographic application to an embedded secure element these wallet providers shall base their technical solution on the technical specifications listed in Annex I or on other equivalent technical specifications.
+
+### Article 5a — Cryptographic mechanisms
+
+Wallet providers shall, for the purposes of paragraph 2 of Article 4, use only the cryptographic mechanisms referred to in Annex Ia.
+
+### Article 6 — Wallet unit authenticity and validity
+
+1\. Wallet providers shall issue wallet unit attestations for each wallet unit. Wallet providers shall sign or seal the wallet unit attestations in a way that the signatures or seals can be validated by means of a certificate listed in accordance with Annex II section 2, point (1), letter (h) of Implementing Regulation (EU) 2024/2980.
+
+2\. Wallet providers shall ensure that the wallet unit attestations referred to in paragraph 1 comply with the technical specifications set out in Annex Ib.
+
+3\. Wallet providers shall:
+
+(a) inform wallet users of their rights and obligations in relation to their wallet unit;
+
+(b) provide secure identification and authentication mechanisms for wallet users that are independent of wallet units;
+
+(c) ensure wallet users have the right to request revocation of their wallet unit attestations, using the authentication mechanisms referred to in point (b).
+
+### Article 7 — Revocation of wallet unit attestations
+
+1\. Wallet providers shall be the only entities capable of revoking wallet unit attestations for wallet units that they have provided.
+
+2\. Wallet providers shall establish a publicly available policy specifying the conditions and the timeframe for the revocation of wallet unit attestations.
+
+3\. Where wallet providers have revoked wallet unit attestations, they shall inform affected wallet users within 24 hours of the revocation of their wallet units, including the reason for the revocation and the consequences for the wallet user. This information shall be provided in a manner that is concise, easily accessible and using clear and plain language.
+
+4\. Where wallet providers have revoked wallet unit attestations, they shall make publicly available the validity status of the wallet unit attestation in a privacy preserving manner and describe the location of that information in the wallet unit attestation.
+
+## CHAPTER III — CORE FUNCTIONALITIES AND FEATURES OF EUROPEAN DIGITAL IDENTITY WALLETS
+
+### Article 8 — Formats for person identification data and electronic attestations of attributes
+
+Wallet providers shall ensure that wallet solutions support the usage of person identification data and electronic attestations of attributes issued in compliance with the list of standards set out in Annex II.
+
+### Article 9 — Transaction logs
+
+1\. Irrespective of whether or not a transaction is successfully completed, wallet instances shall log all transactions with wallet-relying parties and other wallet units, including electronic signing and sealing.
+
+2\. The logged information shall at least contain:
+
+(a) the time and date of the transaction;
+
+(b) the name, contact details, and the unique identifier of the corresponding wallet-relying party and the Member State in which that wallet-relying party is established;
+
+(c) the type or types of data requested and presented in the transaction;
+
+(d) in the case of non-completed transactions, the reason for such non-completion.
+
+3\. Wallet providers shall ensure integrity, authenticity and confidentiality of the logged information.
+
+4\. Wallet instances shall log reports sent by the wallet user to the data protection authorities via their wallet unit.
+
+5\. The logs referred to in paragraphs 1 and 2 shall be accessible to the wallet provider, where it is necessary for the provision of wallet services, on the basis of explicit prior consent by the wallet user.
+
+6\. The logs referred to in paragraphs 1 and 2 shall remain accessible for as long as they are required by Union law or national law.
+
+7\. Wallet providers shall enable wallet users to export the logged information referred to in paragraph 2.
+
+### Article 10 — Embedded disclosure
+
+1\. Wallet providers shall ensure that electronic attestations of attributes issued in accordance with the technical specifications applicable for common embedded disclosure policies set out in Annex III can be processed by the wallet units that they provide.
+
+2\. Wallet instances shall be able to process and present such embedded disclosure policies referred to in paragraph 1 in conjunction with data received from the requesting wallet-relying party.
+
+3\. Wallet instances shall verify whether the wallet-relying party complies with the requirements of the embedded disclosure policy and inform the wallet user of the result.
+
+### Article 11 — Qualified electronic signatures and seals
+
+1\. Wallet providers shall ensure that wallet users are able to receive, qualified certificates for qualified electronic signatures or seals which are linked to qualified signature or seal creation devices that are either local, external, or remote in relation to the wallet instances.
+
+2\. Wallet providers shall ensure that wallet solutions are able to securely interface with one of the following types of qualified signature or seal creation devices: local, external, or remotely managed qualified signature or seal creation devices for the purposes of using the qualified certificates referred to in paragraph 1.
+
+3\. Wallet providers shall ensure that wallet users who are natural persons have, at least for non-professional purposes, free-of-charge access to signature creation applications which allow the creation of free-of-charge qualified electronic signatures using the certificates referred to in paragraph 1.
+
+### Article 12 — Signature creation applications
+
+1\. The signature creation applications used by wallet units may be provided either by wallet providers, by providers of trust services or by wallet-relying parties.
+
+2\. Signature creation applications shall have the following functions:
+
+(a) signing or sealing wallet user-provided data;
+
+(b) signing or sealing relying party-provided data;
+
+(c) creating signatures or seals in accordance with at least the mandatory signature or seal format referred to in Annex IV;
+
+(d) informing wallet users about the result of the signature or seal creation process.
+
+3\. The signature creation applications may either be integrated into or be external to wallet instances.
+
+4\. The signature creation applications used by wallet units shall support at least the application programming interface referred to in Annex IV.
+
+### Article 13 — Data export and portability
+
+Wallet units shall, where technically feasible and excepting cases of critical assets, support secure export and portability of personal data of the wallet user, to allow the wallet user to migrate to a wallet unit of a different wallet solution in a way that ensures level of assurance high as set out in Implementing Regulation (EU) 2015/1502.
+
+### Article 14 — Pseudonyms
+
+2\. Wallet units shall support the generation, upon the request of a wallet-relying party, of a pseudonym which is specific and unique to that wallet-relying party and provide this pseudonym to the wallet-relying party, either standalone or in combination with any person identification data or electronic attribute attestation requested by that wallet-relying party.
+
+### Article 14a — EU Digital Identity Wallet Trust Mark
+
+1\. Wallet providers shall ensure that wallet units display the EU Digital Identity Wallet Trust Mark. The EU Digital Identity Wallet Trust Mark shall be in the form set out in Annexes VI and VII.
+
+2\. Wallet providers shall ensure that wallet units enable wallet users to access information allowing them to verify the certification status of the wallet solution. For that purpose, wallet providers shall ensure that, following the registration of a wallet solution, the corresponding wallet units include the URLs provided by the European Commission for such verification. Wallet providers shall ensure that their wallet units have access to EU Digital Identity Wallet Trust Mark data that comply with the technical specifications set out in Annex VIII.
+
+3\. The reference colours for the EU Digital Identity Wallet Trust Mark shall be Pantone No 661 and 116, or blue (100 % cyan + 67 % magenta + 0 % yellow + 40 % black) and yellow (0 % cyan + 20 % magenta + 100 % yellow + 0 % black), when a four colour process is used; when RGB colours are used the reference colours shall be blue (0 red + 51 green + 153 blue) and yellow (255 red + 204 green + 0 blue).
+
+4\. Only where the use of colour is not practicable, the EU Digital Identity Wallet Trust Mark may be used in black and white as set out in Annex VII.
+
+5\. Where the EU Digital Identity Wallet Trust Mark is used on a dark background, it may be used in negative format using the same background colour. Where the EU Digital Identity Wallet Trust Mark is used in colour on a coloured background that makes it difficult to see it, a delimiting outer line around the EU Digital Identity Wallet Trust Mark may be used to improve contrast with the background colours.
+
+6\. The EU Digital Identity Wallet Trust Mark shall have a minimum size of 64 × 85 pixels at 150 dpi.
+
+7\. Wallet providers shall ensure that the EU Digital Identity Wallet Trust Mark is used in a manner enabling the clear indication of the wallet unit that the EU Digital Identity Wallet Trust Mark pertains to. The EU Digital Identity Wallet Trust Mark may be associated with graphic or textual elements clearly indicating the wallet unit it is used for, provided that they do not change its recognisability as an EU Digital Identity Wallet Trust Mark, nor alter the association with the list of certified European Digital Identity Wallets referred to in Article 5d of Regulation (EU) No 910/2014.
+
+8\. Where wallet providers have revoked a wallet unit attestation, they shall ensure that the EU Digital Identity Wallet Trust Mark is no longer displayed by the corresponding wallet unit.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 15 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LIST OF STANDARDS REFERRED TO IN ARTICLE 5
+
+— SAM.01 Secured Applications for Mobile – Requirements for supporting 3rd party Applets on eSIM and eSE via SAM. v1.1 2023, GSMA;
+
+— GPC_GUI_ 217 GlobalPlatform SAM Configuration Technical specification for implementation of SAM v1.0 2024-04;
+
+— GPC_SPE_0 34 GlobalPlatform Card Specification Technical specification for smart cards v2.3.1 2018-03;
+
+— GPC_SPE_0 07 GlobalPlatform Amendment A Confidential Card Content Management v1.2 2019-07;
+
+— GPC_SPE_0 13 GlobalPlatform Amendment D Secure Channel Protocol 03 v1.2 2020-04;
+
+— GPC_SPE_0 93 GlobalPlatform Amendment F Secure Channel Protocol 11 v1.4 2024-03;
+
+— GPD_SPE_0 75 Open Mobile API Specification OMAPI API for mobile apps to access secure elements on user devices. v3.3 2018-08, GlobalPlatform.
+
+## ANNEX Ia — CRYPTOGRAPHIC MECHANISMS REFERRED TO IN ARTICLE 5A
+
+European Cybersecurity Certification Group, Sub-group on Cryptography: ‘Agreed Cryptographic Mechanisms’ published by the European Union Agency for Cybersecurity (‘ENISA’) ( 2 ).
+
+## ANNEX Ib — TECHNICAL SPECIFICATIONS FOR WALLET UNIT ATTESTATIONS REFERRED TO IN ARTICLE 6(2A)
+
+1\. A wallet unit attestation shall comprise one or more wallet instance attestations and one or more key attestations.
+
+2\. The wallet instance attestation and the key attestations shall meet the following requirements:
+
+(a) Format requirements
+
+— FR-WIA-1: A wallet instance attestation shall be a JSON Web Token (JWT) as specified in RFC 7519 ( 3 ), signed or sealed by the wallet provider by means of compact JAdES baseline B signature.
+
+— FR-WIA-1.1: A wallet instance attestation shall be a wallet attestation as specified in Appendix E of OpenID for Verifiable Credential Issuance v1.0 ( 4 ) ('OID4VCI') and extended as specified in C-WIA-1 and C-WIA-2 below.
+
+— FR-KA-1: A key attestation shall be a JWT as specified in RFC 7519, signed or sealed by the wallet provider by means of compact JAdES baseline B signature.
+
+— FR_KA_1.1: A key attestation shall be a key attestation as specified in Appendix D of OID4VCI, extended as specified in C_KA-1 and C_KA-2 below.
+
+(b) Transport requirements
+
+— TR-WIA-1: A wallet unit shall use a wallet instance attestation during the issuance of person identification data, qualified or non-qualified electronic attestations of attributes, or electronic attestations of attributes, provided by or on behalf of a public sector body responsible for an authentic source.
+
+— TR-WIA-2: A wallet provider shall verify the integrity of the wallet instance and sign or seal the wallet instance attestation.
+
+— TR-WIA-2.1: Where a wallet provider issues a wallet instance attestation, the difference between the time when the wallet provider verified the integrity of the wallet instance and the time they will indicate in the 'exp' header parameter of the issued wallet instance attestation shall be less than 24 hours.
+
+— TR-WIA-2.2: The wallet provider shall ensure that a wallet unit contains wallet instance attestations as needed for issuance of person identification data and electronic attestations of attributes.
+
+— TR-WIA-3: During issuance, a wallet unit shall send a wallet instance attestation to the authorisation server in the pushed authorisation request and the token request, as specified in OID4VCI.
+
+— TR-WIA-3.1: A wallet unit shall send the wallet instance attestation together with a Proof-of-Possession ('PoP') as specified in Appendix E of OID4VCI.
+
+— TR-WIA-3.2: A wallet unit shall send the same wallet instance attestation to only one authorisation server.
+
+— TR-WIA-3.2.1: Where a wallet provider uses the 'per-issuer reuse' option specified in R_WIA_1 below, a wallet unit may send a wallet instance attestation to the same authorisation server multiple times.
+
+— TR-WIA-3.2.2: Where a wallet provider does not use the 'per-issuer reuse' option, a wallet unit shall use a wallet instance attestation in at most one issuance process.
+
+— TR-WIA-4: Where an authorisation server receives a wallet instance attestation, it shall verify the signature of the wallet instance attestation using the public key in the signing certificate included in the 'x5c' parameter in the JOSE header of the wallet instance attestation.
+
+— TR-WIA-4.1: The authorisation server shall also verify that this signing certificate can be verified with a trust anchor on the list of wallet providers referred to in Article 5 of Implementing Regulation (EU) 2024/2980, potentially using intermediate certificates included in the x5c parameter.
+
+— TR-WIA-4.2: The authorisation server shall verify that the wallet instance attestation has not expired.
+
+— TR-WIA-4.3: The authorisation server shall verify the signature of the PoP under the public key present in the 'cnf' claim.
+
+— TR_KA-1: A wallet unit shall use a key attestation during the issuance of person identification data and during the issuance of device-bound qualified or non-qualified electronic attestations of attributes, or electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source.
+
+— TR_KA-1.1: A wallet unit shall not use a key attestation during the issuance of non-device-bound qualified or non-qualified electronic attestations of attributes, or electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source.
+
+— TR_KA-2: A wallet provider shall provide a wallet unit with different key attestations for the WSCD of the wallet unit and for each of its keystores.
+
+— TR_KA-2.1: The wallet provider shall sign or seal a key attestation, after the wallet provider has verified that the keys attested to in the key attestation are stored in the WSCD of the wallet unit or keystore described in the key attestation.
+
+— TR_KA-2.2: A key attestation shall contain at least one attested public key. The number of keys in the key attestation sent to a credential issuer should not exceed the maximum batch size specified by that credential issuer in its Credential Issuer metadata; see ETSI TS 119 472-3 ( 5 ), parameter 'credential_configurations_supported. credential_metadata.credential_reuse_policy.options.batch_size'.
+
+— TR_KA-2.3: A wallet provider shall include a public key (corresponding to a private key stored in the WSCD or keystore of the wallet unit) in at most one key attestation.
+
+— TR_KA-2.4: A wallet unit shall use a key attestation during at most one credential issuance or re-issuance process.
+
+— TR_KA-2.5: A wallet provider shall ensure that a wallet unit is in possession of key attestations as needed for issuance of person identification data and device-bound electronic attestations of attributes.
+
+— TR_KA-3: Where needed during issuance, a wallet unit shall include a key attestation in the field 'proofs' of a Credential Request to the credential issuer, as specified in OID4VCI, in a proof of either type 'jwt' or type 'attestation'.
+
+— TR_KA_3.1: Where a wallet unit includes a key attestation in a 'jwt' element, it shall sign or seal the key attestation using the private key corresponding to the public key at index 0 of the 'attested_keys' array within the 'key_attestation' object.
+
+— TR_KA-4: Where a credential issuer issues device-bound credentials, it shall indicate in the 'proof_types_supported' parameter in its Issuer Credential Metadata, as specified in Section 12.2.4 OID4VCI, that it supports both the 'jwt' and the 'attestation' proof type for key attestations that shall include the 'key_attestations_required' object.
+
+— TR_KA-4.1: Where a credential issuer issues non-device-bound credentials, it shall omit the 'proof_types_supported' and the 'cryptographic_binding_methods_supported' parameters in the Credential Issuer Metadata.
+
+— TR_KA-5: Where a credential issuer receives a key attestation in a 'jwt' or an 'attestation' proof type, it shall verify the signature of the key attestation under the public key in the signing certificate included in the 'x5c' parameter in the JOSE header of the key attestation and that this signing certificate with a trust anchor on the list for wallet providers referred to in Article 5 of Implementing Regulation (EU) 2024/2980, potentially using intermediate certificates included in the 'x5c' parameter.
+
+— TR_KA-6: Where a credential issuer receives a key attestation in a 'jwt' proof type, it shall verify the signature of the 'jwt' element under the key at index 0 of the 'attested_keys' array within the 'key_attestation' object included in the 'jwt' element.
+
+— TR_KA-6.1: The credential issuer shall verify that the 'nonce' field of the 'jwt' element includes a valid c_nonce from their nonce_endpoint, as specified in OID4VCI.
+
+— TR_KA-7: Where a credential issuer receives a key attestation in an 'attestation' proof type, it shall verify that the 'key_attestation' object includes a valid c_nonce from their nonce_endpoint.
+
+— TR_KA-8: A provider of person identification data shall ensure that person identification data is bound to a public key that originates from a key attestation mentioning a WSCD.
+
+(c) Content requirements
+
+— C_WIA-1: A wallet instance attestation shall include the following:
+
+— the 'wallet_name' claim specified in Appendix E of OID4VCI, where its value shall be the identifier of the wallet solution that can be found on the list of wallet providers referred to in Article 5 of Implementing Regulation (EU) 2024/2980.
+
+— a 'wallet_version' claim ( 6 ), that shall be a string whose value shall be the version of the wallet solution.
+
+— a 'wallet_solution_certification_information' claim, that shall be a JSON object containing information about the conformity assessment body that certified the wallet solution, the certification number, as applicable, and other relevant details as regards certification.
+
+— a 'client_status' claim, containing two sub-fields:
+
+— 'status': a status list reference as specified in Appendix E of OID4VCI that represents the revocation status of the wallet instance. See section (e) below for details;
+
+— 'exp': a NumericDate, as specified in RFC 7519, defining the time until which the wallet provider will maintain the revocation status at the status list index referenced in 'status'.
+
+— the 'exp' claim specified in Appendix E of OID4VCI.
+
+— NOTE: The 'client_status.status' claim in a wallet instance attestation represents the revocation status of the wallet instance, not the revocation status of the attestation itself. As described in R_WIA-1 below, a wallet provider can decide to scope each wallet instance attestation to a specific authorisation server based on the fact that all attestations sent to that server contain the same index value in the 'client_status.status' entry.
+
+— NOTE: The 'idx' value in the 'status' claim can be used as a (pairwise) unique identifier of the wallet instance and of the wallet unit.
+
+— C_WIA-2: A wallet instance attestation should also include the 'wallet_link' claim specified in Appendix E of OID4VCI and the value of this claim shall be a URI where further information about the wallet solution can be obtained.
+
+— C_WIA-3: An authorization server shall not interpret the 'exp' parameter in the top level of a wallet instance attestation as the end of the revocation maintenance period of the wallet instance.
+
+— NOTE: The 'exp' parameter in the top level of a wallet instance attestation denotes when the attestation itself expires.
+
+— C_KA-1: A key attestation shall include:
+
+— the 'key_storage' and 'user_authentication' claims specified in Appendix D of OID4VCI.
+
+— The 'key_storage' and 'user_authentication' attributes shall have value 'iso_18045_high' where a key attestation mentions a WSCD,
+
+— the 'certification' claim specified in Appendix D of OID4VCI, containing a URL where information can be obtained about the certification achieved by the WSCD or keystore, indicatively the scheme such as Common Criteria or GlobalPlatform, the evaluated requirements such as the applicable Protection Profile, and the evaluation level.
+
+— It shall be possible to determine from this information whether the key storage is a WSCD.
+
+— a 'key_storage_status' claim, containing two sub-fields:
+
+— 'status': a status list reference as specified in Appendix D.1 of OID4VCI. The value represents either the revocation status of the WSCD or keystore type used to store the attested keys, or -- under the per-key-attestation index option -- the revocation status of an individual wallet unit's WSCD or keystore. See R_KA_1 below for the available index assignment options;
+
+— 'exp': a NumericDate, as specified in RFC 7519, defining the time until which the wallet provider will maintain the revocation status at the status list index referenced in 'status'.
+
+— the 'exp' claim specified in Appendix D of OID4VCI.
+
+— NOTE on the 'idx' value in the 'key_storage_status.status' claim in a key attestation: Where the wallet provider uses the 'type-shared index' option (see R_KA_1 below), all key attestations for the same type of WSCD or keystore share the same status list index. Therefore, the 'idx' value is not unique per wallet unit. On the contrary, where the wallet provider uses the 'per-key-attestation index' option, the 'idx' value is unique to the wallet unit (or pairwise unique per credential issuer). In all cases, however, a credential issuer shall not use the 'idx' value in a key attestation as a wallet unit identifier, but shall instead use the 'idx' value in a wallet instance attestation.
+
+— C_KA-2: Where a key attestation is sent in an 'attestation' proof type, it shall also include a valid c_nonce as specified in Appendix F.3 of OID4VCI.
+
+— C_KA-3: A credential issuer shall not interpret the 'exp' parameter in the top level of a key attestation as the end of the revocation maintenance period of the WSCD or keystore.
+
+— NOTE: The 'exp' parameter in the top level of a key attestation denotes when the key attestation itself expires.
+
+(d) Life cycle requirements
+
+— This Annex specifies the following Credential Issuer metadata parameters:
+
+— 'preferred_client_status_period': OPTIONAL. An integer specifying the preferred remaining status maintenance period of the wallet instance attestation to be presented by the wallet unit during issuance, in seconds. The remaining status maintenance period is defined as the value of 'client_status.exp' in the attestation minus the time of reception of the attestation.
+
+— 'preferred_key_storage_status_period': OPTIONAL. An integer specifying the preferred remaining status maintenance period of the key attestation to be presented by the wallet unit during issuance, in seconds. The remaining status maintenance period is defined as the value 'key_storage_status.exp' in the attestation minus the time of reception of the attestation.
+
+— LC_WIA-1: An authorisation server may communicate its preferences for the remaining status maintenance period in wallet instance attestations by including the 'preferred_client_status_period' metadata parameter in their Credential Issuer metadata endpoint as specified in Section 12.2.2 of OID4VCI.
+
+— LC_WIA-1.1: This field shall be placed at the top level of the Credential Issuer metadata.
+
+— LC_WIA_2: An authorisation server shall not interpret the 'exp' parameter in the top level of a wallet instance attestation as the end of the revocation maintenance period of the wallet instance.
+
+— LC_WIA_3: Where a wallet provider signs or seals a wallet instance attestation, it shall maintain the revocation status of the relevant wallet instance until the 'wallet_instance_status.exp' indicated in that wallet instance attestation has passed.
+
+— LC_KA-1: Where a key attestation is needed, a credential issuer may communicate its preferences for the remaining status maintenance period in key attestations by including the 'preferred_key_storage_status_period' metadata parameter specified above in their Credential Issuer Metadata endpoint as specified in Section 12.2.2 of OID4VCI.
+
+— LC_KA-1.1: This field shall be placed within the 'key_attestations_required' object as specified in Section 12.2.4 of OID4VCI.
+
+— LC_KA-2: A wallet provider shall choose the technical validity period of the key attestations it issues.
+
+— LC_KA-3: Where a wallet provider signs or seals a key attestation, it shall maintain the revocation status of the relevant WSCD or keystore until the 'key_storage_status.exp' indicated in that key attestation has passed.
+
+— LC_GEN-1: A wallet provider shall ensure that a wallet unit can always present wallet unit attestations and key attestations whose 'client_status.exp' and 'key_storage_status.exp' (respectively) are at least 31 days in the future at the time of presentation to an authorization server or credential issuer.
+
+— NOTE: This guarantees that providers of person identification data can rely on revocation chaining without being forced to issue short-lived person identification data.
+
+— LC_GEN-2: A wallet provider shall ensure that a wallet unit fetches the Credential Issuer metadata during issuance.
+
+— LC_GEN_2.1: If a 'preferred_key_storage_status_period' field is included in this metadata, then the wallet unit shall send a key attestation with ('key_storage_status.exp' – current time) – 'preferred_key_storage_status_period' as small as possible but non-negative. If no such key attestation is available to the wallet unit, it shall obtain a new key attestation from the wallet provider that satisfies 'key_storage_status.exp' – current time ≥ 'preferred_key_storage_status_period'.
+
+— LC_GEN_2.2: If a 'preferred_client_status_period' field is included in this metadata, then the wallet unit shall send a wallet instance attestation with ('client_status.exp' – current time) – 'preferred_client_status_period' as small as possible but non-negative. If no such wallet instance attestation is available to the wallet unit, it shall request a new wallet instance attestation from the wallet provider that satisfies 'client_status.exp' – current time ≥ 'preferred_client_status_period'.
+
+— LC_GEN-3: The technical validity period of person identification data shall end before both the 'client_status.exp' of the wallet instance attestation and the 'key_storage_status.exp' of the key attestation sent to the provider of person identification data in the issuance process.
+
+— LC_GEN-4: A provider of person identification data having a technical validity period of more than 24 hours shall check the revocation status of both the wallet instance attestation and the key attestation received during issuance at least once every 24 hours, during the technical validity period of the person identification data. Where either is revoked, the provider shall revoke the person identification data.
+
+(e) Revocation requirements
+
+— R_GEN-1: A wallet provider shall use Token Status Lists (specified in IETF Token Status List) as the revocation mechanism for both key attestations and wallet instance attestations, as specified in OID4VCI Appendix D and E, respectively.
+
+— NOTE: To improve scalability of its status lists, a wallet provider can use the following optimisations:
+
+— Dividing the status list into multiple chunks, where the wallet providers have a sizeable number of users and issued attestations. Many chunking strategies exist, for example based on a fixed size or by time period. The strategy for chunking is left to wallet provider discretion. Considerations can include the size of a status list for downloading and the privacy of the user.
+
+— Having multiple status lists.
+
+— Compressing a status list to reduce its size.
+
+— R_WIA-1: A wallet provider may assign the same value to the 'idx' claim in the 'client_status.status' claim in all wallet instance attestations that a given wallet unit presents to the same authorization server. This is called the 'per-issuer reuse' option. If this option is used:
+
+— R_WIA-1.1: The wallet unit shall maintain state on which index value it has used for each authorization server it has previously interacted with, and shall request a wallet instance attestation containing that same index value when interacting with the same authorization server again.
+
+— R_WIA-1.2: Where a wallet provider receives a request for a wallet instance attestation containing a specific index value, it shall verify that the requesting wallet unit has received that index value previously, before issuing a new wallet instance attestation with that index value.
+
+— R_WIA-1.3: The wallet unit shall not reuse the same index value for interactions with different authorization servers.
+
+— NOTE: If the 'per-issuer reuse' option is used, the wallet provider will be able to determine how many authorization servers a wallet unit has interacted with and how frequently it interacts with each.
+
+— R_WIA-2: In its privacy policy, a wallet provider shall document whether it uses the 'per-issuer reuse' option for wallet instance revocation.
+
+— R_WIA-3: Where a wallet provider does not use the 'per-issuer reuse' option, the wallet provider shall assign a fresh, unlinkable index value to each wallet instance attestation it issues.
+
+— R_WIA-4: Where a wallet unit must be revoked, a wallet provider shall revoke the index values in the 'client_status.status' claim in all wallet instance attestations associated with that wallet unit.
+
+— R_WIA-5: A wallet provider shall take into consideration the scale of its deployment and the underlying architecture when determining the size of its wallet instance attestation status lists, ensuring that they are sufficiently large to prevent correlation and protect user privacy. At a minimum, a status list shall, where possible, relate to at least 10 000 attestations.
+
+— R_KA_1: A wallet provider shall choose one of the following index assignment options for the 'key_storage_status.status' claim in a key attestation:
+
+— Option 1, called 'type-shared index', in which all key attestations attesting keys stored in the same type of WSCD or keystore contain the same index value in 'key_storage_status.status'.
+
+— Option 2, called 'per-key-attestion index', in which a key attestation attesting keys stored in an individual WSCD or keystore contains a (pairwise) unique index value in 'key_storage_status.status'.
+
+— NOTE: Where a wallet provider uses option 1, a single revocation action invalidates all key attestations of the affected type across all wallet units. Moreover, because all key attestations for the same type of WSCD or keystore share a single status list index, the number of entries in a key attestation status list reflects the number of WSCD or keystore types supported by the wallet provider, not the number of deployed wallet units. The privacy considerations that motivate the minimum status list size for wallet instance status lists therefore do not apply to key attestation status lists under option 1, provided that there are sufficiently many wallet units using the same type of WSCD or keystore.
+
+— NOTE: Where a wallet provider uses option 2, each index represents the revocation state of the specific WSCD or keystore attested in that key attestation.
+
+— NOTE: Where a wallet provider uses option 2, a specific WSCD or keystore can also be revoked on User request.
+
+— R_KA-2: Where a wallet provider uses option 2, the wallet provider may optionally use the 'per-issuer reuse' option described in R_WIA-1. If the wallet provider uses this option, the requirements R_WIA-1 - R_WIA-3 shall apply mutatis mutandis.
+
+— R_KA-3: Where a wallet provider uses option 2, the wallet provider shall take into consideration the scale of its deployment and the underlying architecture when determining the size of its key attestation status lists, ensuring that they are sufficiently large to prevent correlation and protect user privacy. At a minimum, a status list shall, where possible, relate to at least 10 000 key attestations.
+
+— R_KA-4: Where a wallet provider uses option 1 (type-shared index), the wallet provider shall only revoke a 'key_storage_status.status' entry if the type of WSCD or keystore has a security vulnerability.
+
+(f) Requirements regarding signature algorithms
+
+— SA-1: For signing wallet instance attestations, key attestations, related proof-of-possessions and token status lists, one of the following algorithms shall be used:
+
+— ES256 (ECDSA with SHA-256 and P-256)
+
+— ES384 (ECDSA with SHA-384 and P-384)
+
+— ES512 (ECDSA with SHA-512 and P-521)
+
+— SA-2: A wallet provider shall choose which of the algorithms mentioned in SA-1 it will use.
+
+— SA-3: An authorization server or a credential issuer (as specified in OID4VCI) shall support all of the algorithms mentioned in SA-1.
+
+## ANNEX II — LIST OF STANDARDS REFERRED TO IN ARTICLE 8
+
+The technical specifications set out in clauses 2 to 6 of ETSI TS 119 472 -1 V1.2.1 (2026-02) apply. They shall be read with the following adaptations:
+
+(1)
+
+2.1 Normative references
+
+— [16] ETSI EN 319 412 -1 V1.6.1 (2025-06): 'Electronic Signatures and Infrastructures (ESI); Certificate Profiles; Part 1: Overview and common data structures'.
+
+— [17] ETSI TS 119 412 -6 V1.1.1 (2025-09): 'Electronic Signatures and Trust Infrastructures (ESI); Certificate Profiles; Part 6: Certificate profile requirements for PID, Wallet, EAA, QEAA, and PSBEAA providers'.
+
+— [25] IETF Token Status List (TSL), draft-ietf-oauth-status-list-20: 'Token Status List', 20 April 2026.
+
+(2)
+
+4.2.11.1 General requirements
+
+— EAA-4.2.11.1-06: When a status element is used for person identification data, qualified electronic attestations of attributes, or electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source, it shall only indicate whether the attestation is revoked or not revoked and shall not support any other status values, such as suspension.
+
+— EAA-4.2.11.1-06.1: Where an attestation is revoked, it shall be permanently revoked.
+
+(3)
+
+4.2.13 EAA short-lived
+
+— EAA-4.2.13-03: Where short-lived electronic attestations of attributes with a validity period of 24 hours or less are issued, revocation shall not be required.
+
+(4)
+
+4.6.3 Requirements for EU EAA issued by or on behalf of a public body responsible for an authentic source (PuB-EAA)
+
+— PuB-EAA-4.6.2-03: void.
+
+— Pub-EAA-4.6.2-04: void.
+
+— PuB-EAA-4.6.3-03: The PuB-EAA digital signature should contain the qualified certificate supporting the PuB-EAA digital signature.
+
+— PuB-EAA-4.6.3-04: The qualified certificate supporting the PuB-EAA digital signature shall meet the requirements of clause 8 of ETSI TS 119 412 -6 v1.1.1 and shall contain the QcType qcStatement as defined in ETSI EN 319 412 -5 v2.5.1, with the value id-etsi-qct-eidaspsbeaa defined as follows:
+
+id-etsi-qct-eidaspsbeaa OBJECT IDENTIFIER ::= { id-etsi-eidas2-qct-extensions 3 } -- Certificate referred to in Art.45f(1)(b) supporting the qualified electronic signature or qualified electronic seal of the public sector body referred to in Article 3, point (46) of Regulation (EU) No 910/2014.
+
+(5)
+
+5.2.10.1 General requirements
+
+— EAA-5.2.10.1-04: void.
+
+— EAA-5.2.10.1-05: void.
+
+— EAA-5.2.10.1-06: The status member may contain the status_list member as specified in clause 6.2 of IETF draft-ietf-oauth-status-list-20 [25].
+
+— EAA-5.2.10.1-07: void.
+
+— EAA-5.2.10.1-08: void.
+
+— EAA-5.2.10.1-09: void.
+
+— EAA-5.2.10.1-10: void.
+
+— EAA-5.2.10.1-11: void.
+
+— EAA-5.2.10.1-12: void.
+
+(6)
+
+6.2.10.1 General requirements
+
+— EAA-6.2.10.1-01: When an electronic attestation of attributes compliant with ISO/IEC mdoc uses the attestation status list mechanism as set out in EAA-6.2.10.1-02.2 or the attestation revocation list mechanism as set out in EAA-6.2.10.1-02.3, its Mobile Security Object (MSO) shall contain the status structure, as specified in EAA-6.2.10.1-17, which contains MSO revocation information.
+
+— EAA-6.2.10.1-01.1: When implementing the identifier list mechanism, the status element shall contain the identifier_list element as set out in EAA-6.2.10.1-11.
+
+— EAA-6.2.10.1-01.2: When implementing the status list mechanism, the status element shall contain the status_list element as set out in EAA-6.2.10.1-13.
+
+— NOTE:
+
+— The status structure contains a reference to an MSO revocation list.
+
+— The MSO revocation list is a COSE_Sign1 structure that indicates whether a particular MSO is revoked or not.
+
+— The status structure contains all the information necessary for the wallet-relying party to determine whether the MSO revocation list is authentic.
+
+— EAA-6.2.10.1-02: The provider of person identification data, the provider of qualified electronic attestations of attributes or the provider of electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source shall use one of the following methods for revocation of person identification data, qualified electronic attestations of attributes or electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source:
+
+— EAA-6.2.10.1-02.1: Where they issue short-lived electronic attestations of attributes having a validity period of equal to or less than 24 hours, then revocation shall not be required.
+
+— EAA-6.2.10.1-02.2: Use an attestation status list mechanism to encode the revocation information as a status list.
+
+— EAA-6.2.10.1-02.2.1: The status list mechanism revokes an MSO based on whether the bit of the issuer-defined bit position in the MSO is set to true in the status list.
+
+— EAA-6.2.10.1-02.2.2: The status list mechanism is specified in the token status list (draft-ietf-oauth-status-list-20) specification.
+
+— EAA-6.2.10.1-02.3: Use an attestation revocation list mechanism to encode the revocation information as an identifier list.
+
+— EAA-6.2.10.1-02.3.1: The identifier list mechanism revokes an MSO based on whether the issuer-defined identifier in the MSO is present on the identifier list.
+
+— EAA-6.2.10.1-02.3.2: EAA-6.2.10.1-06, EAA-6.2.10.1-08, EAA-6.2.10.1-09, EAA-6.2.10.1-10 and EAA-6.2.10.1-11 specify the identifier list mechanism, based on the requirements from the token status list specification including the commonality between the status list and identifier list mechanism.
+
+— EAA-6.2.10.1-03: When a status element is used for person identification data, qualified electronic attestations of attributes or electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source, the status 'revoked' shall be exclusively used.
+
+— EAA-6.2.10.1-03.1: For a status list this implies that only values 'valid' and 'invalid', as specified in the token status list specification shall be used.
+
+— EAA-6.2.10.1-03.2: For the identifier list, only revoked MSOs, as opposed to temporarily suspended MSOs, shall be put in the identifier list.
+
+— EAA-6.2.10.1-04: Where an MSO is revoked, the MSO shall be permanently revoked.
+
+— EAA-6.2.10.1-05: Verification of the MSO revocation list is optional for the wallet-relying party and where applicable, verification shall comply with the verification requirements specified in the token status list specification and the status structure specification set out in in EAA-6.2.10.1-01.
+
+— EAA-6.2.10.1-05.1: Where a wallet-relying party needs to be able to verify the revocation status of person identification data or electronic attestations of attributes, it shall support both the attestation status list mechanism and the attestation revocation list mechanism set out in EAA-6.2.10.1-02.
+
+— EAA-6.2.10.1-06: The identifier_list and status_list in the MSO may contain the certificate element.
+
+— EAA-6.2.10.1-06.1: Where the certificate element is present, it shall contain a certificate containing the public key that signed or sealed the top-level certificate in the x5chain element in the MSO revocation list structure.
+
+— EAA-6.2.10.1-06.1.1: The wallet-relying party instance shall use that certificate as a trust anchor for the verification of the x5chain element in the MSO revocation list structure.
+
+— EAA-6.2.10.1-06.2: Where the certificate element is not present, the top-level certificate in the x5chain element in the MSO revocation list structure shall be signed or sealed by the certificate used to sign the certificate in the x5chain element of the MSO.
+
+— EAA-6.2.10.1-06.2.1: The wallet-relying party instance shall use that certificate as a trust anchor for the verification of the x5chain element in the MSO revocation list structure.
+
+— EAA-6.2.10.1-07: An MSO revocation list shall be implemented in accordance with the token status list specification as a status list token in CWT format.
+
+— EAA-6.2.10.1-08: For the MSO revocation list for the identifier list and status list mechanism, the following requirements apply:
+
+— the exp claim shall be present.
+
+— the ttl claim may be present.
+
+— the aggregation_uri claim in the IdentifierList or StatusList claim may be present and the provider of person identification data, the provider of qualified electronic attestations of attributes, or the provider of electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source may use the aggregation_uri claim to indicate support for the aggregation mechanism as specified in the token status list specification.
+
+— the CWT shall be a COSE_Sign1 object using one of the following signature algorithms for calculating the signature:
+
+(a) 'ES256' (ECDSA with curve NIST P-256 and SHA-256);
+
+(b) 'ES384' (ECDSA with curve NIST P-384 and SHA-384);
+
+(c) 'ES512' (ECDSA with curve NIST P-521 and SHA-512);
+
+(d) 'ESB256' (ECDSA with curve brainpoolP256r1 and SHA-256);
+
+(e) 'ESB384' (ECDSA with curve brainpoolP384r1 and SHA-384);
+
+(f) 'ESB512' (ECDSA with curve brainpoolP512r1 and SHA-512);
+
+— the CWT shall contain the x5chain in the protected header that contains the certificate or chain of certificates to verify the signature of the MSO revocation list.
+
+— the extended key usage of the object identifier specified in the token status list specification may be used for the status list and the identifier list signing certificate and the wallet-relying party instances may support the extended key usage of object identifiers specified in the token status list specification and for the object identifier, the provider of qualified electronic attestations of attributes, or the provider of electronic attestations of attributes provided by or on behalf of a public sector body are not to make the extended key usage field critical when using the extended key usage OID specified in the token status list specification.
+
+— EAA-6.2.10.1-09: In deviation to the requirements of the token status list specification, for the identifier list mechanism the following requirements apply:
+
+— the value of the type claim shall be 'application/identifierlist+cwt';
+
+— the StatusList claim shall not be present in the CWT claims set;
+
+— the IdentifierList structure defined in EAA-6.2.10.1-11 shall be present as a claim in the CWT claims set using the key 65530.
+
+— EAA-6.2.10.1-10: The IdentifierList structure shall be a CBOR structure with the following CDDL:
+
+IdentifierList = {
+
+'identifiers': { * Identifier => IdentifierInfo },
+
+? 'aggregation_uri': Aggregation_uri
+
+* tstr => RFU
+
+}
+
+IdentifierInfo = { tstr/int => RFU }
+
+Identifier = bstr
+
+Aggregation_uri = tstr
+
+— EAA-6.2.10.1-10.1: Where the identifier in the IdentifierList is present the MSO that contains the identifier in the status element is revoked.
+
+— EAA-6.2.10.1-10.2: The Aggregation_uri claim is specified in section 9.2 of the token status list specification.
+
+— EAA-6.2.10.1-10.3: The identifier list content-type shall be 'application/identifierlist+cwt' set out in the requirements specified in section 8.2 of token status list specification.
+
+— EAA-6.2.10.1-11: The following requirements apply to the identifier_list element in the MSO (see EAA-6.2.10.1-17).
+
+— EAA-6.2.10.1-11.1: The identifier_list element is a CBOR structure with the following CDDL:
+
+IdentifierListInfo = {
+
+'id': Identifier,
+
+'uri': URI,
+
+? 'certificate': Certificate
+
+* tstr => RFU
+
+}
+
+URI = tstr
+
+Certificate = bstr
+
+— EAA-6.2.10.1-11.2: REV-11.2: To prevent the identifier from being used as a correlation across presentations, it shall be unique per MSO.
+
+— EAA-6.2.10.1-12: The following requirements apply to the status list:
+
+— EAA-6.2.10.1-12.1: The bits element in the StatusList structure shall be set to 1.
+
+— EAA-6.2.10.1-13: The following requirements apply to the status_list element in the MSO (see EAA-6.2.10.1-17):
+
+— EAA-6.2.10.1-13.1: The status_list element shall follow the requirements for the StatusListInfo structure as specified in the token status list specification and the optional certificate element defined in EAA-6.2.10.1-06 shall be added.
+
+— EAA-6.2.10.1-13.2: To prevent the status index from being a correlation across presentations, the combination of status index and URI shall be unique per MSO.
+
+— EAA-6.2.10.1-14: The wallet provider shall use the second (EAA-6.2.10.1-02.2) or the third (EAA-6.2.10.1-02.3) of the methods specified in EAA-6.2.10.1-02 for the revocation of a wallet instance attestation (WIA) and for the revocation of a key attestation (KA).
+
+— EAA-6.2.10.1-15: The wallet provider shall implement the attestation revocation mechanisms specified in EAA-6.2.10.1-02 in their wallet solution.
+
+— EAA-6.2.10.1-16: The provider of person identification data and the provider of electronic attestations of attributes shall support both the attestation status list mechanism and the attestation revocation list mechanism specified in EAA-6.2.10.1-02 for verifying the revocation status of a wallet instance attestation (WIA) and of a key attestation (KA).
+
+— EAA-6.2.10.1-17: The status structure in the MSO shall be a CBOR structure with the following CDDL:
+
+Status = {
+
+? 'identifier_list' : IdentifierListInfo,
+
+? 'status_list' : StatusListInfo,
+
+* tstr => RFU
+
+}
+
+## ANNEX III — TECHNICAL SPECIFICATIONS REFERRED TO IN ARTICLE 10
+
+— Technical specifications:
+
+— Clause 4.2.5 of ETSI TS 119 472 -3 V1.1.1 (2026-03).
+
+## ANNEX IV — SIGNATURE AND SEAL FORMATS REFERRED TO IN ARTICLE 12
+
+1\. Mandatory signature or seal format:
+
+(a) PAdES (PDF Advanced Electronic Signature) as specified in ETSI EN 319 142 -1 V1.2.1 (2024-01); Electronic Signatures and Infrastructures (ESI); PAdES digital signatures; Part 1: Building blocks and PAdES baseline signatures.
+
+2\. List of optional signature or seal formats:
+
+(a) XAdES as specified in ‘ETSI EN 319 132-1 V1.2.1 (2022-02) Electronic Signatures and Infrastructures (ESI); XAdES digital signatures; Part 1: Building blocks and XAdES baseline signatures (XAdES)’ for signing of XML format;
+
+(b) JAdES as specified in ‘ETSI TS 119 182-1 V1.2.1 (2024-07) Electronic Signatures and Infrastructures (ESI); JAdES digital signatures; Part 1: Building blocks and JAdES baseline signatures’ for signing of JSON format;
+
+(c) CAdES (CMS Advanced Electronic Signature) as specified in ‘ETSI EN 3191 22-1 V1.3.1 (2023-06) Electronic Signatures and Infrastructures (ESI); CAdES digital signatures; Part 1: Building blocks and CAdES baseline signatures’ for the signing of CMS format;
+
+(d) ASiC (Associated Signature Container) as specified in ‘ETSI EN 319 162-1 V1.1.1 (2016-04) Electronic Signatures and Infrastructures (ESI); Associated Signature Containers (ASiC); Part 1: Building blocks and ASiC baseline containers and ETSI EN 319 162-2 V1.1.1 (2016-04) Electronic Signatures and Infrastructures (ESI); Associated Signature Containers (ASiC); Part 2: Additional ASiC containers’ for the signing of containers.
+
+3\. Application programming interface:
+
+ETSI TS 119 432 v1.3.1 (2026-03) clauses 6.4.3, A.6, A.7 and A.8.
+
+## ANNEX VI — EU DIGITAL IDENTITY WALLET TRUST MARK IN COLOUR
+
+[image]
+
+## ANNEX VII — EU DIGITAL IDENTITY WALLET TRUST MARK IN BLACK AND WHITE
+
+[image]
+
+## ANNEX VIII — EU DIGITAL IDENTITY WALLET TRUST MARK DATA
+
+<table>
+<tbody><tr><td>Data</td><td>Description</td><td>Encoding</td><td>Status</td></tr>
+<tr><td>TrustMarkResourceURL</td><td>URL of the EU Digital Identity Wallet Trust Mark graphics and user info resources in the wallet user interface.</td><td>URL</td><td>mandatory</td></tr>
+<tr><td>ListOfCertifiedWalletsURL</td><td>URL of the public list of certified wallet solutions in EU as set out in Commission Implementing Regulation (EU) 2025/849 (1).</td><td>URL</td><td>mandatory</td></tr>
+<tr><td>ListOfCertifiedWalletsQRCode</td><td>QR Code containing the information of ListOfCertifiedWalletsURL</td><td>ISO-8859-1 Byte mode QR code</td><td>optional</td></tr>
+<tr><td>WalletSolutionInfoPageURL</td><td>URL to the information page of the certified wallet solution in the list of certified wallet solution page from the ListOfCertifiedWalletsURL URL appended with a '?' and the WalletSolutionID identifier of the wallet solution.</td><td>URL</td><td>mandatory</td></tr>
+<tr><td>WalletSolutionInfoPageQRCode</td><td>QR Code containing the information of WalletSolutionInfoPageURL</td><td>ISO-8859-1 Byte mode QR code</td><td>optional</td></tr>
+<tr><td>WalletVerifierToolURL*</td><td>URL pointing to the wallet verification tool /.well-known/openid-credential-issuer endpoint used for retrieval of the attestation provider metadata.</td><td>URL</td><td>optional</td></tr>
+<tr><td colspan="4">(1)  Commission Implementing Regulation (EU) 2025/849 of 6 May 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the submission of information to the Commission and to the Cooperation Group for the list of certified European Digital Identity Wallets (OJ L, 2025/849, 7.5.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/849/oj). </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (OJ L 235, 9.9.2015, p. 7, ELI: http://data.europa.eu/eli/reg_impl/2015/1502/oj).
+
+( 2 ) https://certification.enisa.europa.eu/publications/eucc-guidelines-cryptography_en.
+
+( 3 ) RFC 7519: JSON Web Token (JWT), May 2015.
+
+( 4 ) OpenID for Verifiable Credential Issuance v1.0, https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html.
+
+( 5 ) ETSI, ‘Electronic Signatures and Infrastructures (ESI); JAdES digital signatures; Part 3: JAdES levels and baseline profiles’, ETSI TS 119 472-3, V1.1.1, March 2026.
+
+( 6 ) This claim is defined in this CIR as it is not part of the OID4VCI specification.

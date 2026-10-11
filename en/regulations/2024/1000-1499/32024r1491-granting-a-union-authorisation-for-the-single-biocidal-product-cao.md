@@ -1,0 +1,894 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/1491 of 29 May 2024 granting a Union authorisation for the single biocidal product CaO PT02-PT03 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council"
+identifier: "32024R1491"
+eli: "http://data.europa.eu/eli/reg_impl/2024/1491/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-05-29
+entry_into_force: 2024-11-13
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1491"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/1491 of 29 May 2024 granting a Union authorisation for the single biocidal product CaO PT02-PT03 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/1491**
+
+**of 29 May 2024**
+
+**granting a Union authorisation for the single biocidal product ‘CaO PT02-PT03’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (1), and in particular Article 44(5), first subparagraph, thereof,
+
+Whereas:
+
+(1) On 12 April 2018, Lhoist submitted an application to the European Chemicals Agency (‘the Agency’) in accordance with Article 43(1) of Regulation (EU) No 528/2012 and Article 4 of Commission Implementing Regulation (EU) No 414/2013 (2) for Union authorisation of the same single biocidal product, as referred to in Article 1 of Implementing Regulation (EU) No 414/2013, named ‘CaO PT02-PT03’, of product-types 2 and 3, as described in Annex V to Regulation (EU) No 528/2012. The application was recorded under case number BC-TT038696-96 in the Register for Biocidal Products. The application also indicated the case number of the related reference single biocidal product ‘EuLA oxi-lime 23’ later authorised by Commission Implementing Regulation (EU) 2023/2703 (3), recorded in that register under case number BC-VJ038509-19.
+
+(2) The single biocidal product ‘CaO PT02-PT03’ contains calcium oxide / lime/ burnt lime / quicklime as the active substance, included in the Union list of approved active substances referred to in Article 9(2) of Regulation (EU) No 528/2012 for product-types 2 and 3.
+
+(3) On 20 September 2022, the Agency submitted to the Commission its opinion (4) and the draft summary of the biocidal product characteristics (‘SPC’) of ‘CaO PT02-PT03’ in accordance with Article 6 of Implementing Regulation (EU) No 414/2013.
+
+(4) In its opinion, the Agency concludes that the proposed differences between the single biocidal product ‘CaO PT02-PT03’ and the related reference single biocidal product ‘EuLA oxi-lime 23’ are limited to information which can be the subject of an administrative change in accordance with Commission Implementing Regulation (EU) No 354/2013 (5), and that based on the assessment of the related reference single biocidal product ‘EuLA oxi-lime 23’ and subject to compliance with the draft SPC, the same single biocidal product ‘CaO PT02-PT03’ meets the conditions laid down in Article 19(1) of Regulation (EU) No 528/2012.
+
+(5) On 26 January 2024, the Agency transmitted to the Commission the revised draft SPCs of ‘CaO PT02-PT03’ in all the official languages of the Union in accordance with Article 44(4) of Regulation (EU) No 528/2012.
+
+(6) The Commission concurs with the opinion of the Agency and considers it therefore appropriate to grant a Union authorisation for the same single biocidal product ‘CaO PT02-PT03’.
+
+(7) The expiry date of this authorisation is aligned to the expiry date of the authorisation of the related reference single biocidal product ‘EuLA oxi-lime 23’.
+
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Biocidal Products,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+A Union authorisation with authorisation number EU-0029493-0000 is hereby granted to Lhoist for the making available on the market and use of the same single biocidal product ‘CaO PT02-PT03’ in accordance with the summary of the biocidal product characteristics set out in the Annex.
+
+The Union authorisation is valid from 19 June 2024 until 30 November 2033.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 29 May 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 167, 27.6.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/528/oj.
+
+(2) Commission Implementing Regulation (EU) No 414/2013 of 6 May 2013 specifying a procedure for the authorisation of same biocidal products in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 125, 7.5.2013, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2013/414/oj).
+
+(3) Commission Implementing Regulation (EU) 2023/2703 of 4 December 2023 granting a Union authorisation for the single biocidal product ‘EuLA oxi-lime 23’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L, 2023/2703, 5.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2703/oj).
+
+(4) European Chemicals Agency opinion of 20 September 2022 on the Union authorisation of the same single biocidal product ‘CaO PT02-PT03’, https://echa.europa.eu/opinions-on-union-authorisation.
+
+(5) Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 109, 19.4.2013, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2013/354/oj).
+
+## ANNEX
+
+**SUMMARY OF PRODUCT CHARACTERISTICS FOR A BIOCIDAL PRODUCT**
+
+CaO PT02-PT03
+
+Product type(s)
+
+PT02: Disinfectants and algaecides not intended for direct application to humans or animals
+
+PT03: Veterinary hygiene
+
+Authorisation number: EU-0029493-0000
+
+R4BP asset number: EU-0029493-0000
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+**1.1. Trade name(s) of the product**
+
+| Trade name(s) | Neutralac® Q 1/3 Neutralac® Q90 HR Neutralac® Q90 VHR Saniblanc® Q |
+| --- | --- |
+
+**1.2. Authorisation holder**
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>Lhoist</td></tr>
+<tr><td>Address</td><td>Rue Charles Dubois, 28 1342 Ottignies-Louvain-La-Neuve BE</td></tr>
+<tr><td>Authorisation number</td><td></td><td>EU-0029493-0000</td></tr>
+<tr><td>R4BP asset number</td><td></td><td>EU-0029493-0000</td></tr>
+<tr><td>Date of the authorisation</td><td></td><td>19 June 2024</td></tr>
+<tr><td>Expiry date of the authorisation</td><td></td><td>30 November 2033</td></tr>
+</tbody>
+</table>
+
+**1.3. Manufacturer(s) of the product**
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Cal Industrial SL</td></tr>
+<tr><td>Address of manufacturer</td><td>Pedro I 19-21 31 007 Pamplona Spain</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Cal Industrial SL site 1</td></tr>
+<tr><td>Pedro I 19-21 31 007 Pamplona Spain</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>CalGov</td></tr>
+<tr><td>Address of manufacturer</td><td>Carretera Fuente, Apartado 2 41 560 Estepa Spain</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>CalGov site 1</td></tr>
+<tr><td>Carretera Fuente, Apartado 2 41 560 Estepa Spain</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Carrières et Chaux Balthazard et Cotte</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue du Pra Paris 38360 Sassenage France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et Chaux Balthazard et Cotte site 1</td></tr>
+<tr><td>Rue du Pra Paris 38360 Sassenage France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Carrières et fours à chaux de Dugny</td></tr>
+<tr><td>Address of manufacturer</td><td>B.P.1 55 100 Dugny-sur-Meuse France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et fours à chaux de Dugny site 1</td></tr>
+<tr><td>B.P.1 55 100 Dugny-sur-Meuse France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Chaux de Boran</td></tr>
+<tr><td>Address of manufacturer</td><td>Route de Boran 60 640 Précy-Sur-Oise France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de Boran site 1</td></tr>
+<tr><td>Route de Boran 60640 Précy-Sur-Oise France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Chaux de Provence</td></tr>
+<tr><td>Address of manufacturer</td><td>Ancien Chemin de Martigues 13 160 Châteauneuf Les Martigues France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de Provence site 1</td></tr>
+<tr><td>Ancien Chemin de Martigues 13 160 Châteauneuf Les Martigues France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Chaux et Dolomies du Boulonnais</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue Jules Guesde 62 720 Réty France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux et Dolomies du Boulonnais site 1</td></tr>
+<tr><td>Rue Jules Guesde 62 720 Réty France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Chaux de la Tour</td></tr>
+<tr><td>Address of manufacturer</td><td>1 chemin des Chaux de la Tour 13 820 Ensues La Redonne France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de la Tour site 1</td></tr>
+<tr><td>1 chemin des Chaux de la Tour 13 820 Ensues La Redonne France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Carrières et Fours à Chaux Dumont Wautier</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue la Mallieue, 95 B-4470 Saint-Georges-sur-Meuse Belgium</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et Fours à Chaux Dumont Wautier site 1</td></tr>
+<tr><td>Rue la Mallieue, 95 B-4470 Saint-Georges-sur-Meuse Belgium</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Etablissement Leon Lhoist</td></tr>
+<tr><td>Address of manufacturer</td><td>Usine de On-Jemelle 6900 Marche-en-Famenne Belgium</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Etablissement Leon Lhoist site 1</td></tr>
+<tr><td>Usine de On-Jemelle 6900 Marche-en-Famenne Belgium</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Lhoist Bukowa Sp. z o.o.</td></tr>
+<tr><td>Address of manufacturer</td><td>Bukowa, ul. Osiedlowa 10 29-105 Krasocin Poland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lhoist Bukowa Sp. z o.o. site 1</td></tr>
+<tr><td>Bukowa, ul. Osiedlowa 10 29-105 Krasocin Poland</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Vápenka Čertovy schody a.s</td></tr>
+<tr><td>Address of manufacturer</td><td>Tmaň 200 267 21 Tmaň Czechia</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Vápenka Čertovy schody a.s site 1</td></tr>
+<tr><td>Tmaň 200 267 21 Tmaň Czechia</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Faxe Kalk</td></tr>
+<tr><td>Address of manufacturer</td><td>Hovedgaden 13 4654 Faxe Ladeplads Denmark</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Faxe Kalk site 1</td></tr>
+<tr><td>Nordkajen 17 7100 Vejle Denmark</td></tr>
+<tr><td>Faxe Kalk site 2</td></tr>
+<tr><td>Gl. Strandvej 14 4640 Faxe Denmark</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Lhoist France Ouest</td></tr>
+<tr><td>Address of manufacturer</td><td>15 rue Henri Dagallier 38 100 Grenoble France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lhoist France Ouest site 1</td></tr>
+<tr><td>15 rue Henri Dagallier 38 100 Grenoble France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Lusical</td></tr>
+<tr><td>Address of manufacturer</td><td>Valverde 2025-201 Alcanede Portugal</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lusical site 1</td></tr>
+<tr><td>Valverde 2025-201 Alcanede Portugal</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Société des fours à chaux de Sorcy</td></tr>
+<tr><td>Address of manufacturer</td><td>Route de Sorcy, B.P.16 55 190 Void France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Société des fours à chaux de Sorcy site 1</td></tr>
+<tr><td>Route de Sorcy, B.P.16 55 190 Void France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Zakłady Wapiennicze Lhoist S.A.</td></tr>
+<tr><td>Address of manufacturer</td><td>ul. Wapiennicza 7 46-050 Tarnów Opolski Poland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Zakłady Wapiennicze Lhoist S.A. site 1</td></tr>
+<tr><td>ul. Fabryczna 22 47-316 Górażdże Poland</td></tr>
+<tr><td>Zakłady Wapiennicze Lhoist S.A. site 3</td></tr>
+<tr><td>ul. Wapiennicza 7 46-050 Tarnów Opolski Poland</td></tr>
+<tr><td>Zakłady Wapiennicze Lhoist S.A. site 2</td></tr>
+<tr><td>ul. Bolesława Chrobrego 77B 59-550 Wojcieszów Poland</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**1.4. Manufacturer(s) of the active substance(s)**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Cal Industrial SL</td></tr>
+<tr><td>Address of manufacturer</td><td>Pedro I 19-21 31 007 Pamplona Spain</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Cal Industrial SL site 1</td></tr>
+<tr><td>Pedro I, 19-21 31 007 Pamplona Spain</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>CalGov</td></tr>
+<tr><td>Address of manufacturer</td><td>Carretera Fuente, Apartado 2 41 560 Estepa Spain</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>CalGov site 1</td></tr>
+<tr><td>Carretera Fuente, Apartado 2 41 560, Estepa, Spain</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Carrières et Chaux Balthazard et Cotte</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue du Pra Paris 38 360 Sassenage France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et Chaux Balthazard et Cotte site 1</td></tr>
+<tr><td>Rue du Pra Paris 38360 Sassenage France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Carrières et fours à chaux de Dugny</td></tr>
+<tr><td>Address of manufacturer</td><td>B.P.1 55 100 Dugny-sur-Meuse France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et fours à chaux de Dugny site 1</td></tr>
+<tr><td>B.P.1, 55 100 Dugny-sur-Meuse France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Chaux de Boran</td></tr>
+<tr><td>Address of manufacturer</td><td>Route de Boran 60 640 Précy-Sur-Oise France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de Boran site 1</td></tr>
+<tr><td>Route de Boran 60640 Précy-Sur-Oise France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Chaux de Provence</td></tr>
+<tr><td>Address of manufacturer</td><td>Ancien Chemin de Martigues 13160 Châteauneuf Les Martigues France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de Provence site 1</td></tr>
+<tr><td>Ancien Chemin de Martigues 13160 Châteauneuf Les Martigues France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Chaux et Dolomies du Boulonnais</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue Jules Guesde, 62 720 Réty France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux et Dolomies du Boulonnais site 1</td></tr>
+<tr><td>Rue Jules Guesde, 62 720 Réty France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Chaux de la Tour</td></tr>
+<tr><td>Address of manufacturer</td><td>1 chemin des Chaux de la Tour 13 820 Ensues La Redonne France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Chaux de la Tour site 1</td></tr>
+<tr><td>1 chemin des Chaux de la Tour, 13 820 Ensues La Redonne France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Carrières et Fours à Chaux Dumont Wautier</td></tr>
+<tr><td>Address of manufacturer</td><td>Rue la Mallieue, 95 B-4470 Saint-Georges-sur-Meuse Belgium</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Carrières et Fours à Chaux Dumont Wautier site 1</td></tr>
+<tr><td>Rue la Mallieue, 95, B-4470 Saint-Georges-sur-Meuse, Belgium</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Etablissement Leon Lhoist</td></tr>
+<tr><td>Address of manufacturer</td><td>Usine de On-Jemelle 6900 Marche-en-Famenne Belgium</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Etablissement Leon Lhoist site 1</td></tr>
+<tr><td>Usine de On-Jemelle 6900 Marche-en-Famenne Belgium</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Lhoist Bukowa Sp. z o.o</td></tr>
+<tr><td>Address of manufacturer</td><td>Bukowa, ul. Osiedlowa 10, 29-105 Krasocin Poland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lhoist Bukowa Sp. z o.o site 1</td></tr>
+<tr><td>Bukowa, ul. Osiedlowa 10, 29-105 Krasocin Poland</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Lhoist France Ouest</td></tr>
+<tr><td>Address of manufacturer</td><td>15 rue Henri Dagallier, 38 100 Grenoble France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lhoist France Ouest site 1</td></tr>
+<tr><td>15 rue Henri Dagallier, 38 100 Grenoble France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Lusical</td></tr>
+<tr><td>Address of manufacturer</td><td>Valverde 2025-201 Alcanede Portugal</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Lusical site 1</td></tr>
+<tr><td>Valverde 2025-201 Alcanede Portugal</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Société des fours à chaux de Sorcy</td></tr>
+<tr><td>Address of manufacturer</td><td>Route de Sorcy B.P.16 55 190 Void France</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Société des fours à chaux de Sorcy site 1</td></tr>
+<tr><td>Route de Sorcy B.P.16 55 190 Void France</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Zakłady Wapiennicze Lhoist S.A.</td></tr>
+<tr><td>Address of manufacturer</td><td>ul. Wapiennicza 7 46-050 Tarnów Opolski, Poland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Zakłady Wapiennicze Lhoist S.A. site 1</td></tr>
+<tr><td>ul. Fabryczna 22 47-316 Górażdże Poland</td></tr>
+<tr><td>Zakłady Wapiennicze Lhoist S.A. site 2</td></tr>
+<tr><td>ul. Wapiennicza 7 46-050 Tarnów Opolski, Poland</td></tr>
+<tr><td>Zakłady Wapiennicze Lhoist S.A. site 3</td></tr>
+<tr><td>ul. Bolesława Chrobrego 77B 59-550 Wojcieszów Poland</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Faxe Kalk</td></tr>
+<tr><td>Address of manufacturer</td><td>Hovedgaden 13 4654 Faxe Ladeplads Denmark</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Faxe Kalk site 1</td></tr>
+<tr><td>Nordkajen 17 7100 Vejle Denmark</td></tr>
+<tr><td>Faxe Kalk site 2</td></tr>
+<tr><td>Gl. Strandvej 14 4640 Faxe Denmark</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Active substance</td><td>Calcium oxide/lime/burnt lime/quicklime</td></tr>
+<tr><td>Name of manufacturer</td><td>Vápenka Čertovy schody a.s</td></tr>
+<tr><td>Address of manufacturer</td><td>Tmaň 200 267 21 Tmaň Czechia</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Vápenka Čertovy schody a.s site 1</td></tr>
+<tr><td>Tmaň 200 267 21 Tmaň Czechia</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**2\. PRODUCT COMPOSITION AND FORMULATION**
+
+**2.1. Qualitative and quantitative information on the composition of the product**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Calcium oxide/lime/burnt lime/quicklime |  | active substance | 1305-78-8 | 215-138-9 | 100 |
+
+**2.2. Type(s) of formulation**
+
+DP Dustable powder
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS**
+
+| Hazard statements | H315: Causes skin irritation. H318: Causes serious eye damage. H335: May cause respiratory irritation. EUH014: Reacts violently with water. |
+| --- | --- |
+| Precautionary statements | P261: Avoid breathing dust. P264: Wash hands thoroughly after handling. P271: Use only outdoors or in a well-ventilated area. P280: Wear protective gloves, protective clothing, eye protection and face protection. P302+P352: IF ON SKIN: Wash with plenty of water. P321: Specific treatment (see instructions on this label). P332+P313: If skin irritation occurs: Get medical advice. P362+P364: Take off contaminated clothing and wash it before reuse. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P310: Immediately call a POISON CENTRE or doctor/physician. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P312: Call a poison center/doctor if you feel unwell. P403+P233: Store in a well-ventilated place. Keep container tightly closed. P501: Dispose of container to accordance with local regulations. P405: Store locked up. |
+
+**4\. AUTHORISED USE(S)**
+
+**4.1. Use description**
+
+**Table 1.**
+
+**Disinfection of sewage sludge**
+
+| Product type | PT02: Disinfectants and algaecides not intended for direct application to humans or animals |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: Bacteria Common name: Bacteria Development stage: - Scientific name: Endoparasites Common name: Helminth eggs Development stage: - |
+| Field(s) of use | indoor use |
+| Application method(s) | Method: automatic direct application Detailed description: The product is dosed into the sewage sludge and mixed by means of a blender. The dry product is mixed by means of a blender. The dry product is mixed with the sewage sludge in an open mixer. The product should be loaded by fully automated processes. |
+| Application rate(s) and frequency | Application Rate: 0,15 - 1,5 kg product / kg dry weight of substance; typical dry solid content - 12-25 % in sewage sludge Dilution (%): - Ready to use (RTU) product Number and timing of application: The application rate must be sufficient to maintain a pH of > 12 and a temperature >50°C during the contact time. Contact time: 24 hours |
+| Category(ies) of users | professional |
+| Pack sizes and packaging material | Bulk powder Big bags or sacks (with Polypropylene (PP) or Polyethylene (PE) inner layer): 500 - 1 200 kg |
+
+**4.1.1. Use-specific instructions for use**
+
+— The dose must be sufficient to maintain a pH of > 12 and a temperature >50°C during the 24 hour contact time.
+
+— Application rate : 0,15 – 1,5 kg product / kg dry weight of substrate; typical dry solids content - 12-25% in sewage sludge.
+
+— The ratio may vary between application and treatment plant designs. The user must ensure that the treatment is effective through preliminary laboratory test that guarantee efficacy according to the legislation applicable to each case.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+— The loading of the product into the treatment unit and the application must be done fully automatically.
+
+— The loading into the treatment unit and the disposal of empty big bags or sacks (500 - 1 200 kg) must be performed using a telehandler (including a closed cabin).
+
+— During the loading of the product and the disposal of empty bags or sacks, wear:
+
+— a respiratory protective equipment (RPE) at least assigned protection factor (APF) 40 (airtight face piece covering eyes, nose, mouth and chin according to European Standard (EN) 149 with a P3 filter or equivalent);
+
+— chemical resistant gloves EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— protective coverall in accordance with EN 13982 or equivalent (coverall material to be specified by the authorisation holder within the product information).
+
+— During the treatment of sewage sludge, the wearing of air-fed or canister RPE specific for ammonia gas in accordance with EN 14387 or equivalent, is recommended in absence of collective management measures to estimate and prevent an exposure greater than the EU occupational exposure limit value (OEL) of 14 mg/m3 for that gas.
+
+— During the manual handling of treated sewage sludge wear protective gloves in accordance with EN 374 or equivalent and protection coverall in accordance with EN 14126 or equivalent protecting against the intrinsic properties of the sewage sludge.
+
+— The provisions on personal protective equipment are without prejudice to the application of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+— See section 6 for the full titles of the EN standards and legislation.
+
+— The cleaning of the treatment unit must be avoided or performed with an automated process with no exposure of the professional.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+—
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+—
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+—
+
+**4.2. Use description**
+
+**Table 2.**
+
+**Disinfection of manure**
+
+| Product type | PT03: Veterinary hygiene |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: Bacteria Common name: Bacteria Development stage: - Scientific name: Viruses Common name: Viruses Development stage: - Scientific name: Endoparasites Common name: Helminth eggs Development stage: - |
+| Field(s) of use | indoor use |
+| Application method(s) | Method: Automatic direct application Detailed description: The product is mixed with the manure. The product is dosed into the manure and mixed by means of a blender.The product shall be loaded by fully automated processes. |
+| Application rate(s) and frequency | Application Rate: - Dilution (%): - RTU product Number and timing of application: The application rate must be sufficient to maintain a pH of > 12 and a temperature > 60°C during the contact time. Contact time: 24 hours |
+| Category(ies) of users | professional |
+| Pack sizes and packaging material | Bulk powder Big bags or sacks (with PP or PE inner layer): 500 - 1 200 kg |
+
+**4.2.1. Use-specific instructions for use**
+
+— The application rate must be sufficient to maintain a pH of > 12 and a temperature > 60°C during the 24 hour contact time.
+
+— Do not apply more than 100 kg product /m3 of manure.
+
+— The mixture should be moistened and any self-ignition that might occur should be extinguished with water.
+
+— After the necessary contact time, remove the treated manure from the animal house. Use of the treated manure according to local legislation.
+
+**4.2.2. Use-specific risk mitigation measures**
+
+— The loading of the product into the treatment unit and the application must be done fully automatically.
+
+— The loading into the treatment unit and the disposal of empty bags pr sacks must be performed using a telehandler (including a closed cabin).
+
+— During the loading of the product and the disposal of empty bags or sacks, wear:
+
+— RPE of at least APF 40 (airtight face piece covering eyes, nose, mouth and chin according to EN 149 with a P3 filter or equivalant);
+
+— chemical resistant gloves in accordance with EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— protective coverall in accordance with EN 13982 or equivalant (coverall material to be specified by the authorisation holder within the product information).
+
+— During the treatment of the manure, the wearing of air-fed or canister RPE specific for ammonia gas in accordance with EN 374 or equivalent, is recommended in the absence of collective management measures to estimate and prevent an exposure greater than the EU OEL of 14 mg/m3 for that gas.
+
+— During the manual handling of treated manure wear protective gloves in accordance with EN 374 or equivalent and protection coverall in accordance with EN 14126 or equivalent protecting against the intrinsic properties of the manure.
+
+— The provisions on personal protective equipment are without prejudice to the application of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+— See section 6 for the full titles of the EN standards and legislations.
+
+— The cleaning of the treatment unit must be avoided or performed with an automated process with no exposure of the professional.
+
+— Do not apply the product if releases from animal housings or manure/slurry storage areas can be directed to a sewage treatment plant or directly to surface water.
+
+**4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+—
+
+**4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+—
+
+**4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+—
+
+**4.3. Use description**
+
+**Table 3.**
+
+**Disinfection of indoor floor surfaces of animal accommodations and transportation**
+
+| Product type | PT03: Veterinary hygiene |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: Bacteria Common name: Bacteria Development stage: - Scientific name: Yeast Common name: Yeasts Development stage: - Scientific name: Fungi Common name: fungi Development stage: - Scientific name: viruses Common name: Viruses Development stage: - |
+| Field(s) of use | indoor use |
+| Application method(s) | Method: Direct application Detailed description: The product is spread directly onto the floors of animal accomodations using manual or automated techniques. Manual spreading using a shovel or semi-automated using a low-impact spreader. |
+| Application rate(s) and frequency | Application Rate: 800 g product / m2 Dilution (%): - RTU product Number and timing of application: Frequency in animal housing: before each production cycle. Frequency in animal transportation: after each animal transport. Contact time: 48 hours |
+| Category(ies) of users | professional |
+| Pack sizes and packaging material | Bulk powder Big bags or sacks (with PP or PE inner layer): 500 - 1 200 kg Paper sacks (with PP or PE inner layer): 25 kg |
+
+**4.3.1. Use-specific instructions for use**
+
+— The product is spread onto the floors of animal accommodations and transportation using manual or automated techniques. Manual spreading using a shovel or semi-automated using a low-impact spreader.
+
+— A long-handled shovel must be used for the manual spreading application.
+
+A. On concrete floors:
+
+1\. Wash the surface with running water;
+
+2\. Sprinkle approximatively 800 g of product / m2 to cover the damp ground and add 0,9 litre/m2 of water;
+
+3\. Leave to act for at least 48 hours.
+
+B. On beaten-earth floor:
+
+1\. Brush and wet the surface;
+
+2\. Sprinkle approx. 800 g of product / m2 on the damp ground and add 0,9 litre/m2 of water;
+
+3\. Leave to act for at least 48 hours.
+
+**4.3.2. Use-specific risk mitigation measures**
+
+— During the loading, the application of the product and the disposal of empty bags or sacks, wear:
+
+— RPE of at least APF 40 (airtight face piece covering eyes, nose, mouth and chin according to EN 149 with a P3 filter or equivalent);
+
+— chemical resistant gloves in accordance with EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— a protective coverall in accordance with EN 13982 or equivalent (coverall material to be specified by the authorisation holder within the product information).
+
+— For the use of big bags or sacks (500-1 200 kg), the loading of the product and the disposal of empty bags or sacks must be performed fully automatically using a telehandler (including a closed cabin).
+
+— During the loading of small sacks (25 kg), thoroughly empty out the sacks in order to minimise the remaining powder.
+
+— Fold carefully the small bag in order to avoid any spills.
+
+— During the disposal of any residues of the product after the application, wear:
+
+— RPE of at least APF 40 (airtight face piece covering eyes, nose, mouth and chin according to EN 149 with a P3 filter or equivalent);
+
+— chemical resistant gloves in accordance with EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— protective coverall in accordance with EN 13982 or equivalent (coverall material to be specified by the authorisation holder within the product information).
+
+— The provisions on personal protective equipment are without prejudice to the application of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+— See section 6 for the full titles of the EN standards and legislation.
+
+— Animals must not be present during the entire treatment duration.
+
+— Remove residues of the product on the ground by sweeping before re-entry of animals.
+
+— Feed and drinking water must be carefully covered or removed during the application of the product.
+
+— Do not apply the product if releases from animal housings, manure/slurry storage areas or animal transportation disinfection areas can be directed to a sewage treatment plant or directly to surface water.
+
+**4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+—
+
+**4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+— After treatment, remove the product by brushing. Collect the resulting dry waste and recycle it as agricultural liming material or dispose of the dry waste according to local requirements.
+
+For animal transportation use only: after brushing, rinse and clean the vehicle.
+
+**4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+—
+
+**4.4. Use description**
+
+**Table 4.**
+
+**Disinfection of floors of outdoor animal enclosures**
+
+| Product type | PT03: Veterinary hygiene |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | - |
+| Target organism(s) (including development stage) | Scientific name: Bacteria Common name: Bacteria Development stage: - Scientific name: Yeast Common name: Yeasts Development stage: - Scientific name: other fungi Common name: fungi Development stage: - Scientific name: Virus Common name: Virus Development stage: - |
+| Field(s) of use | outdoor use |
+| Application method(s) | Method: Direct application Detailed description: The product is spread directly onto the surfaces (floors) of animal enclosures using manual or automated techniques. Manual spreading using a shovel or semi-automated using a low-impact spreader. |
+| Application rate(s) and frequency | Application Rate: 600 - 800 g product/m2 Dilution (%): - RTU product Number and timing of application: Contact time 48 hours Frequency: maximum two applications per year. |
+| Category(ies) of users | professional |
+| Pack sizes and packaging material | Bulk powder Big bags or sacks (with PP or PE inner layer): 500 - 1 200 kg Paper sacks (with PP or PE inner layer): 25 kg |
+
+**4.4.1. Use-specific instructions for use**
+
+Before the introduction of new animals:
+
+— Brush and wet the floor.
+
+— spread 600 - 800 g product/m2 onto the ground then add 0,9 litre/m2 of water.
+
+— leave to act for at least 48 hours.
+
+Do not apply in the case of wind or rain.
+
+**4.4.2. Use-specific risk mitigation measures**
+
+— During the loading, the application of the product on the floor and the disposal of empty bags, wear:
+
+— RPE of at least APF 40 (airtight face piece covering eyes, nose, mouth and chin according to EN 149 with a P3 filter or equivalent);
+
+— chemical resistant gloves in accordance with EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— a protective coverall in accordance with EN 13982 or equivalent (coverall material to be specified by the authorisation holder within the product information).
+
+— For the use of big bags or sacks (500-1 200 kg), the loading of the product and the disposal of empty bags or sacks must be performed fully automatically using a telehandler (including a closed cabin).
+
+— During the loading of small sacks (25 kg), thoroughly empty out the sacks to minimise the remaining powder.
+
+— Fold carefully the small bag in order to avoid any spills.
+
+— During the disposal of the product after the application, wear:
+
+— RPE of at least APF 40 (airtight face piece covering eyes, nose, mouth and chin according to NF EN 149 with a P3 filter or equivalent);
+
+— chemical resistant gloves in accordance with EN 374 or equivalent (glove material to be specified by the authorisation holder within the product information);
+
+— protective coverall in accordance with EN 13982 or equivalent (coverall material to be specified by the authorisation holder within the product information).
+
+— The provisions on personal protective equipment are without prejudice to the application of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+— See section 6 for the full titles of the EN standards and legislation.
+
+— Do not exceed two applications per year.
+
+— Animals must not be present during the entire treatment duration.
+
+— Remove the residues of the product on the ground by thorough sweeping before allowing re-entry of animals.
+
+— Feed and drinking water must be carefully covered or removed during the application of the product.
+
+**4.4.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+—
+
+**4.4.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+— After treatment, remove the product by brushing. Collect the resulting dry waste and recycle it as agricultural liming material or dispose of the dry waste according to local requirements.
+
+**4.4.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+—
+
+**5\. GENERAL DIRECTIONS FOR USE (1)**
+
+**5.1. Instructions for use**
+
+— Comply with the instructions for use.
+
+— Respect the conditions of use of the product.
+
+— Refer to hygiene plan in place in order to ensure that necessary efficacy level is achieved.
+
+— For outdoor uses, do not apply in the case of rain or wind
+
+**5.2. Risk mitigation measures**
+
+— Do not let bystanders (including co-workers and children) and pets enter the treatment area during the entire treatment duration (including the loading, the application of the product, the disposal of empty bags or sacks, the required contact time and the subsequent removal of the product and its residues from the ground).
+
+— Use only in a well-ventilated area.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+— IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+— IF SWALLOWED: Immediately rinse mouth. Give something to drink, if exposed person is able to swallow. Do NOT induce vomiting. Call 112/ambulance for medical assistance.
+
+— IF ON SKIN: Immediately wash skin with plenty of water. Thereafter take off all contaminated clothing and wash it before reuse. Continue to wash the skin with water for 15 minutes. Call a POISON CENTER or a doctor.
+
+— IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes. Call 112/ambulance for medical assistance.Information to Healthcare personnel/doctor: The eyes should also be rinsed repeatedly on the way to the doctor if eye exposure to alkaline chemicals (pH > 11), amines and acids like acetic acid or propionic acid.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+— Do not discharge unused product on the ground, into water courses, into pipes (e.g. sink, toilets) or down the drains.
+
+— Dispose of unused product, its packaging and all other waste, in accordance with local regulations.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+— Do not store at a temperature above 30°C.
+
+— Protect from humidity.
+
+— Shelf-life: 15 months.
+
+**6\. OTHER INFORMATION**
+
+Full titles of EN standards and legislation referred to in sections 4.1.2 - 4.4.2:
+
+EN 149 - Respiratory protective devices - Filtering half masks to protect against particles - Requirements, testing, marking;
+
+EN 374 - EN ISO 374-1: 2018: Protective gloves against dangerous chemicals and micro-organisms. Part 1: terminology and performance requirements for chemical risks;
+
+EN 13982 - Protective clothing for use against solid particulates - Part 1: Performance requirements for chemical protective clothing providing protection to the full body against airborne solid particulates;
+
+EN 14387 - EN 14387:2021: Respiratory protective devices - Gas filter(s) and combined filter(s) - Requirements, testing, marking;
+
+EN 14126 - BS EN 14126: 2003 - Protective clothing. Performance requirements and tests methods for protective clothing against infective agent;
+
+Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 131, 5.5.1998, p. 11.
+
+(1) Instructions for use, risk mitigation measures and other directions for use under this section are valid for any authorised uses.
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/1491/oj
+
+ISSN 1977-0677 (electronic edition)

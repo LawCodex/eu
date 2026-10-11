@@ -1,0 +1,190 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/34 of 28 September 2017 laying down implementing technical standards with regard to the standardised presentation format of the fee information document and its common symbol according to Directive 2014/92/EU of the European Parliament and of the Council (Text with EEA relevance. )"
+identifier: "32018R0034"
+eli: "http://data.europa.eu/eli/reg_impl/2018/34/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-09-28
+entry_into_force: 2018-12-19
+last_amended: 2018-01-11
+consolidated_version: "02018R0034-20180111"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0034-20180111"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/34 of 28 September 2017 laying down implementing technical standards with regard to the standardised presentation format of the fee information document and its common symbol according to Directive 2014/92/EU of the European Parliament and of the Council (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/34**
+
+**of 28 September 2017**
+
+**laying down implementing technical standards with regard to the standardised presentation format of the fee information document and its common symbol according to Directive 2014/92/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/34**
+
+**of 28 September 2017**
+
+**laying down implementing technical standards with regard to the standardised presentation format of the fee information document and its common symbol according to Directive 2014/92/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Template for the fee information document and its common symbol
+
+1\. Payment service providers shall use the template as laid down in the Annex and complete it as set out in Articles 2 to 13.
+
+2\. Payment service providers shall not modify the template for the fee information document in completing it other than provided for in this Regulation. In particular, payment service providers shall follow the order of information, headings and sub-headings laid down in the template. The fee information document shall:
+
+(a) be presented in A4 portrait format;
+
+(b) contain the title ‘Fee Information Document’ at the top of the first page, with the title centred and positioned between the logo of the payment service provider at the top left-hand side of the document and the common symbol at the top right-hand side of the document;
+
+(c) contain the common symbol of the size 2,5 cm × 2,5 cm and displayed as shown in the template laid down in the Annex;
+
+(d) use font type Arial or another font type similar to Arial and font size 11, with exceptions for the title ‘Fee Information Document’, which uses font size 16 in bold type; font size 14 in bold type for the headings, and font size 12 in bold for the sub-headings, unless an increase in the font size or use of braille font type for visually impaired persons is either required under national law or agreed between the consumer and the payment service provider;
+
+(e) be produced in black and white, with exception of the logo of the payment service provider and the common symbol which may be presented in colour, as laid down in Article 2;
+
+(f) contain the headings in semi-dark grey using the colour pattern with reference number 166,166,166 of the RGB colour model and the sub-headings in light-grey colour using the colour pattern with reference number 191,191,191 of the RGB colour model;
+
+(g) have its pages numbered.
+
+3\. A payment service provider shall provide a separate fee information document in respect of each of the payment accounts it offers to consumers.
+
+4\. Notwithstanding the provision of a payment account with basic features referred to in Chapter IV of Directive 2014/92/EU, where a payment service provider offers only one payment account to consumers that can be combined with different packages of services referred to in Article 4(3) of Directive 2014/92/EU, the payment service provider may produce more than one fee information document in respect of that account, provided that each fee information document contains at least one package.
+
+## Article 2 — Common symbol and logo of the payment service provider
+
+1\. Where the common symbol is displayed in colour it shall follow the colour pattern with reference number 0/51/153 (hexadecimal: 003399) of the RGB colour model for the background and colour pattern 255/204/0 (hexadecimal: FFCC00) of the RGB colour model for the symbol.
+
+2\. The logo of the payment service provider shall be of an equivalent size to the size of the common symbol.
+
+3\. The logo may only be displayed in colour if the common symbol is also displayed in colour. Where printed in black and white the common symbol shall be clearly readable.
+
+## Article 3 — Name of the account provider
+
+The name of the payment services provider that provides the account shall be included in bold type and left aligned.
+
+## Article 4 — Account name
+
+The name of the account shall be included in bold type, left aligned and below the name of the account provider.
+
+## Article 5 — Date
+
+The date when the payment service provider last updated the fee information document shall be included, using the font prescribed in Article 1(2)(d), left aligned and included below the account name.
+
+## Article 6 — Introductory statement
+
+1\. The text of the introductory statement specified in the template shall be reproduced in the fee information document, using line spacing 1,15, 0 pt before and 10 pt after the text.
+
+2\. Payment service providers shall replace the square brackets with the names of the relevant pre-contractual and contractual documents.
+
+## Article 7 — ‘Services and Fees’ table
+
+1\. Payment service providers shall list the services that are included in the national final list of most representative services linked to a payment account referred to in Article 3(5) of the Directive 2014/92/EU, where payment service provider offer such services, and their corresponding fees in the table on services and fees as follows:
+
+(a) the services shall be inserted in the column ‘Service’, left aligned, in bold type;
+
+(b) each service shall be listed only once and shall be displayed under the respective sub-heading shown in the table, such as the provision or the maintenance of the account shall be listed under sub-heading ‘General account services’;
+
+(c) the fees corresponding to the services shall be shown in the column ‘Fee’, right aligned;
+
+(d) where the fee is charged with regular frequency rather than on a per use basis, the frequency shall be indicated in the column ‘Fee’, left aligned, followed by the corresponding fee for that period, right aligned; the total annual fee shall be disclosed on the line directly underneath the frequency, in bold type, left aligned and using the wording ‘Total annual fee’ with the corresponding fee right aligned;
+
+(e) the line spacing shall be single, 0 pt before and 0 pt after each service and fee.
+
+2\. Where none of the services offered by a payment services provider, which would correspond a sub-heading, are included in the national final list of most representative services linked to a payment account, the entire row related to that sub-heading shall be deleted, including the title of the sub-heading.
+
+3\. Where payment service providers do not offer one or more services from the national final list of the most representative services referred to in Article 3(5) of the Directive 2014/92/EU, or where the service is not made available with the account, the phrase ‘service not available’ shall be used.
+
+4\. Where separate fees are charged in one or more of the following ways, payment services providers shall provide, in the column ‘Fee’ of that service and on a separate line, a description of each fee-charging instance, channel or condition (‘types of fees’):
+
+(a) for different fee-charging instances of the provision of the same service, such as an initial set-up fee and subsequent execution fees for the same service;
+
+(b) for different channels through which the same service is requested, used or provided, such as by phone, branch or online;
+
+(c) depending on whether a specific condition for the same service is met, such as adherence to a minimum or maximum threshold amount for credit transfers or cash withdrawals.
+
+The description shall be left aligned and the fee shall be right aligned.
+
+5\. Where fees are charged dependent on a combination of several types of fees, such as fees that differ by channel and are then further separated depending on whether a threshold amount is met, payment service providers shall, in addition to applying paragraph 4, right indent  the description of each additional type of fee.
+
+## Article 8 — Presentation of packages of services charged as part of fees under the sub-heading ‘General account services’
+
+1\. Where a package of services linked to a payment account is charged as part of the fees under the sub-heading ‘General account services’, all services included in the package, regardless of whether they are included in the final national list of most representative services linked to a payment account referred to in Article 3(5) of the Directive 2014/92/EU, shall be listed in the section of the table on general account service, in the row on package of services.
+
+2\. Payment service providers shall include information on the additional fee for any service that exceeds the quantity covered by the package of services as set out in Article 10.
+
+3\. Where the number of all services covered by the package of services is not limited, payment service providers shall delete the statement at the bottom of the row ‘Services beyond these quantities will be charged separately’.
+
+4\. The entire row on package of services shall be deleted, where a package of services is not offered with the account and when the package of services is charged separately from any fees for general account services.
+
+## Article 9 — Presentation of packages of services charged separately from fees under the sub-heading a ‘General account services’
+
+1\. Where payment service providers offer a package of services linked to a payment account with the account and the package is charged separately from any fees under the sub-heading ‘General account services’, as referred to in the table of services and fees, payment service providers shall include the following information in the table on package of services:
+
+(a) a list of all services included in the package, regardless of whether they are included in the final national list of most representative services linked to a payment account referred to in Article 3(5) of Directive 2014/92/EU;
+
+(b) the quantity of each service covered by the package fee, which may be either a number or an indication that the number of services is not limited;
+
+(c) the package fee, in the column ‘Fee’, right aligned.
+
+2\. Where the package is charged with regular frequency, the frequency shall be displayed in the ‘Fee’ column and left aligned, with the total annual fee displayed on the line directly underneath the frequency, in bold type and using the wording ‘Total annual fee’.
+
+3\. Payment service providers shall include information on the additional fee for any service that exceeds the quantity covered by the package of services as set out in Article 10.
+
+4\. Where the number of all services in the package is not limited, payment service providers shall delete the statement at the bottom of the table that reads ‘Services beyond these quantities will be charged separately’.
+
+5\. Where more than one package falling under paragraph 1 is included in the fee information document, payment service providers shall provide the information under this Article for each package in a separate table, indicating the brand name of the package of services, where applicable.
+
+6\. Payment service providers shall delete the entire table, where the package of services is not offered with the account, or where the package of services is charged as part of the fee for any general account services.
+
+## Article 10 — Table on additional fees for services exceeding the quantity covered by packages of services linked to a payment account
+
+1\. Payment service providers shall include in this table information on additional fees for any service that exceeds the quantity covered by a package referred to in Articles 8 and 9, if this information is not included in the table of services and fees, or where the corresponding fee for the service is different than shown in the table.
+
+2\. Where payment services providers offer more than one package and the additional fees referred to in paragraph 1 differ dependent on the package, payment service providers shall list the different fees separately for each package and use the brand name of the package, where applicable.
+
+3\. In completing this table, payment service providers shall follow the same presentation and structure as set out in this Regulation, where applicable.
+
+4\. Where a fee information document does not include any information on packages of services, payment service providers shall delete the table referred to in paragraph 1.
+
+## Article 11 — Comprehensive cost indicator
+
+1\. Payment service providers shall display the comprehensive cost indicator summarising the overall annual cost of the payment account, in a separate table, where required by national provisions.
+
+2\. Payment service providers shall delete the table on comprehensive cost indicator, if national provisions do not require payment service providers to display the comprehensive cost indicator.
+
+## Article 12 — Brand names
+
+Where a brand name is used, the brand name shall follow directly after the name of the service, using the font prescribed in Article 1(2)(d) and in square brackets.
+
+## Article 13 — Use of electronic means
+
+1\. Where the fee information document is provided by electronic means payment service providers may, provided that at the same time the consumer is provided with a copy of the fee information document in line with the template laid down in the Annex and completed as set out in Articles 2 to 12, modify the template in only the following ways:
+
+(a) by way of derogation from point (d) of Article 1(2), increase the font sizes, provided that the proportion of sizes as set out in Article 1(2) is retained;
+
+(b) where the dimensions of the electronic tools are such that using several tables and columns would make the fee information document difficult to read, use a single column or a single table if the order of information, headings and sub-headings are retained;
+
+(c) use electronic tools, such as layering and pop-ups, provided that the title of the fee information document, the common symbol, introductory statements, headings and sub-headings, are displayed prominently and the order of information is retained.
+
+2\. The use of the electronic tools referred to in point (c) of the paragraph 1 shall not be intrusive that it could distract the consumer from the information in the fee information document. Information provided through layering and pop-ups shall be limited to the information referred to in this Regulation.
+
+## Article 14 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Fee information document template**
+
+[image]
+
+[image]

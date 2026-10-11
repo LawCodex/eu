@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2017/845 of 17 May 2017 </td><td> L 125</td><td>27</td><td>18.5.2017</td></tr>
+</table>
 
 **DIRECTIVE 2008/56/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -526,6 +528,7 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 
 **Anthropogenic pressures, uses and human activities in or affecting the marine environment**
 
+<table>
 <tbody><tr><td colspan="4">2a. Anthropogenic pressures on the marine environment with particular relevance for points (a) and (b) of Article 8(1), and Articles 9, 10 and 11 </td></tr>
 <tr><td>Theme</td><td>Pressure (Note 1)</td><td>Possible parameters</td><td>Relevant qualitative descriptors laid down in Annex I (Notes 2 and 3)</td></tr>
 <tr><td rowspan="6">Biological</td><td>Input or spread of non-indigenous species</td><td rowspan="16">Intensity of, and spatial and temporal variation in, the pressure in the marine environment and, where relevant, at source For assessment of environmental impacts of the pressure, select relevant ecosystem elements and parameters from Table 1 </td><td>(2)</td></tr>
@@ -545,7 +548,9 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 <tr><td>Input of other forms of energy (including electromagnetic fields, light and heat)</td></tr>
 <tr><td>Input of water — point sources (e.g. brine)</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="2">2b. Uses and human activities in or affecting the marine environment with particular relevance for points (b) and (c) of Article 8(1) (only activities marked * are relevant for point (c) of Article 8(1)), and Articles 10 and 13 </td></tr>
 <tr><td>Theme</td><td>Activity</td></tr>
 <tr><td rowspan="5">Physical restructuring of rivers, coastline or seabed (water management)</td><td>Land claim</td></tr>
@@ -580,6 +585,7 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 <tr><td>Security/defence</td><td>Military operations (subject to Article 2(2))</td></tr>
 <tr><td>Education and research</td><td>Research, survey and educational activities*</td></tr>
 </tbody>
+</table>
 
 **Notes related to Table 2**
 

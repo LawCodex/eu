@@ -1,0 +1,1036 @@
+---
+title: "Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency Text with EEA relevance"
+identifier: "32011R1227"
+eli: "http://data.europa.eu/eli/reg/2011/1227/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-10-25
+entry_into_force: 2011-04-07
+last_amended: 2025-02-05
+consolidated_version: "02011R1227-20250205"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R1227-20250205"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency Text with EEA relevance
+
+**REGULATION (EU) No 1227/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2011**
+
+**on wholesale energy market integrity and transparency**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1106 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1106</td><td>1</td><td>17.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1789</td><td>1</td><td>15.7.2024</td></tr>
+</table>
+
+**REGULATION (EU) No 1227/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2011**
+
+**on wholesale energy market integrity and transparency**
+
+**(Text with EEA relevance)**
+
+### Article 1 — Subject matter, scope and relationship with other Union legislation
+
+1\. This Regulation establishes rules prohibiting abusive practices affecting wholesale energy markets which are coherent with the rules applicable in financial markets and with the proper functioning of those wholesale energy markets whilst taking into account their specific characteristics. It provides for the monitoring of wholesale energy markets by the Agency for the Cooperation of Energy Regulators (‘the Agency’) in close collaboration with national regulatory authorities and taking into account the interactions between the Emissions Trading Scheme and wholesale energy markets.
+
+2\. This Regulation applies to trading in wholesale energy products. It is without prejudice to the application of Regulations (EU) No 648/2012 ( 1 ), (EU) No 596/2014 ( 2 ) and (EU) No 600/2014 ( 3 ) of the European Parliament and of the Council and of Directive 2014/65/EU of the European Parliament and of the Council ( 4 ) as regards activities involving financial instruments as defined in Article 4(1), point (15), of Directive 2014/65/EU, as well as to the application of Union competition law to the practices covered by this Regulation.
+
+3\. The Agency, national regulatory authorities, ESMA, competent financial authorities of the Member States and, where appropriate, national competition authorities shall cooperate to ensure that a coordinated approach is taken to the enforcement of the relevant rules where actions relate to one or more financial instruments to which Article 2 of Regulation (EU) No 596/2014  applies and also to one or more wholesale energy products to which Articles 3, 4 and 5 of this Regulation apply.
+
+The Agency, national regulatory authorities, ESMA and competent financial authorities of the Member States shall exchange relevant information and data on a regular, if possible quarterly, basis regarding potential breaches of Regulation (EU) No 596/2014 involving wholesale energy products covered by this Regulation.
+
+4\. The Agency’s Administrative Board shall ensure that the Agency carries out the tasks assigned to it pursuant to this Regulation and to Regulation (EU) 2019/942 of the European Parliament and of the Council ( 5 ) and that the Agency allocates the necessary resources, including human resources, to fulfil the new obligations assigned to it.
+
+5\. The Director of the Agency shall consult the Agency's Board of Regulators on all aspects of implementation of this Regulation and give due consideration to its advice and opinions.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(1) ‘inside information’ means information of a precise nature which has not been made public, which relates, directly or indirectly, to one or more wholesale energy products and which, if it were made public, would be likely to significantly affect the prices of those wholesale energy products.
+
+For the purposes of this definition, ‘information’ means:
+
+(a) information which is required to be made public in accordance with Regulation (EU) 2019/943  and (EC) No 715/2009, including guidelines and network codes adopted pursuant to those Regulations;
+
+(b) information relating to the capacity and use of facilities for production, storage, consumption or transmission of electricity, hydrogen or natural gas  or related to the capacity and use of LNG facilities, including planned or unplanned unavailability of these facilities;
+
+(c) information which is required to be disclosed in accordance with legal or regulatory provisions at Union or national level, market rules, and contracts or customs on the relevant wholesale energy market, in so far as this information is likely to have a significant effect on the prices of wholesale energy products;
+
+(ca) information which is conveyed by a market participant, or by other persons acting on the market participant’s behalf, to a service provider trading on the market participant’s behalf and relating to the market participant’s pending orders in wholesale energy products, which is of a precise nature and relates directly or indirectly to one or more wholesale energy products; and
+
+(d) other information that a reasonable market participant would be likely to use as part of the basis of its decision to enter into a transaction relating to, or to issue an order to trade in, a wholesale energy product.
+
+Information shall be considered to be of a precise nature if it indicates a set of circumstances which exists or may reasonably be expected to come into existence, or an event which has occurred or may reasonably be expected to occur, and if it is specific enough to enable a conclusion to be drawn as to the possible effect of that set of circumstances or event on the prices of wholesale energy products. Information may be considered to be of a precise nature if it relates to a protracted process that is intended to bring about, or that results in, particular circumstances or a particular event, including future circumstances or future events, and also if it relates to the intermediate steps of that process which are connected with bringing about or resulting in those future circumstances or future events.
+
+An intermediate step in a protracted process shall be considered to be inside information if it, by itself, satisfies the criteria of inside information as referred to in the first subparagraph of this point.
+
+For the purposes of the first subparagraph of this point, information shall be considered to be directly or indirectly related to the wholesale energy product if it has a possible effect on the demand, supply or prices of a wholesale energy product, or on the expectations of the demand, supply or prices of a wholesale energy product.
+
+For the purposes of the first subparagraph of this point, information which, if it were made public, would be likely to significantly affect the prices of the wholesale energy products means information that a reasonable market participant would be likely to use as part of the basis of his or her decision concerning trading with wholesale energy products;
+
+(2) ‘market manipulation’ means:
+
+(a) entering into any transaction, or issuing, modifying or withdrawing any order to trade or engaging in any other behaviour relating to wholesale energy products which:
+
+(i) gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+
+(ii) secures, or is likely to secure, by a person, or persons acting in collaboration, the price of one or more wholesale energy products at an artificial level, unless the person who entered into the transaction or issued the order to trade establishes that his reasons for doing so are legitimate and that such transaction or order to trade conforms to accepted market practices on the wholesale energy market concerned; or
+
+(iii) employs a fictitious device or any other form of deception or contrivance which gives, or is likely to give, false or misleading signals regarding the supply of, demand for, or price of wholesale energy products;
+
+(b) disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of wholesale energy products, including the dissemination of rumours and false or misleading news, where the disseminating person knew, or ought to have known, that the information was false or misleading.
+
+When information is disseminated for the purposes of journalism or artistic expression, such dissemination of information shall be assessed taking into account the rules governing the freedom of the press and freedom of expression in other media, unless:
+
+(i) those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question; or
+
+(ii) the disclosure or dissemination is made with the intention of misleading the market as to the supply of, demand for, or price of wholesale energy products.
+
+or
+
+(c) transmitting false or misleading information or providing false or misleading input in relation to a benchmark where the person who made the transmission or provided the input knew or ought to have known that it was false or misleading, or engaging in any other behaviour which leads to the manipulation of the calculation of a benchmark.
+
+Market manipulation may designate the conduct of a legal person, or, in accordance with Union or national law, of a natural person who participates in the decision to carry out activities for the account of the legal person concerned;
+
+(3) ‘attempt to manipulate the market’ means:
+
+(a) entering into any transaction, issuing any order to trade or taking any other action relating to a wholesale energy product with the intention of:
+
+(i) giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+
+(ii) securing the price of one or several wholesale energy products at an artificial level, unless the person who entered into the transaction or issued the order to trade establishes that his reasons for doing so are legitimate and that that transaction or order to trade conforms to accepted market practices on the wholesale energy market concerned; or
+
+(iii) employing a fictitious device or any other form of deception or contrivance which gives, or is likely to give, false or misleading signals regarding the supply of, demand for, or price of wholesale energy products;
+
+or
+
+(b) disseminating information through the media, including the internet, or by any other means with the intention of giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+
+(4) ‘wholesale energy products’ means the following contracts and derivatives, irrespective of where and how they are traded:
+
+(a) contracts for the supply of electricity, hydrogen or natural gas  , including LNG, where delivery is in the Union, or contracts for the supply of electricity which may result in delivery in the Union as a result of single day-ahead and intraday coupling;
+
+(b) derivatives relating to electricity, hydrogen or natural gas  produced, traded or delivered in the Union, or derivatives relating to electricity which may result in delivery in the Union as a result of single day-ahead and intraday coupling;
+
+(c) contracts relating to the transportation of electricity, hydrogen or natural gas  in the Union;
+
+(d) derivatives relating to the transportation of electricity, hydrogen or natural gas  in the Union;
+
+(e) contracts relating to the storage of electricity, hydrogen or natural gas  in the Union;
+
+(f) derivatives relating to the storage of electricity, hydrogen or natural gas  in the Union.
+
+Contracts for the supply and distribution of electricity, hydrogen or natural gas  for the use of final customers are not wholesale energy products. However, contracts for the supply and distribution of electricity, hydrogen or natural gas  to final customers with a consumption capacity greater than the threshold set out in the second paragraph of point (5) shall be treated as wholesale energy products;
+
+(5) ‘consumption capacity’ means the consumption of a final customer of either electricity, hydrogen or natural gas  at full use of that customer's production capacity. It comprises all consumption by that customer as a single economic entity, in so far as consumption takes place on markets with interrelated wholesale prices.
+
+For the purposes of this definition, consumption at individual plants under the control of a single economic entity that have a consumption capacity of less than 600 GWh per year shall not be taken into account in so far as those plants do not exert a joint influence on wholesale energy market prices due to their being located in different relevant geographical markets;
+
+(6) ‘wholesale energy market’ means any market within the Union on which wholesale energy products are traded;
+
+(7) ‘market participant’ means any person, including transmission system operators, distribution system operators, storage system operators and LNG system operators, who enters into transactions, including the placing of orders to trade, in one or more wholesale energy markets;
+
+(8) ‘person’ means any natural or legal person;
+
+(8a) ‘person professionally arranging or executing transactions’ means a person professionally engaged in the reception and transmission of orders for, or in the execution of transactions in, wholesale energy products;
+
+(9) ‘competent financial authority’ means a competent authority designated in accordance with the procedure laid down in Article 22 of Regulation (EU) No 596/2014  ;
+
+(10) ‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 35(1) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity ( 6 ) or Article 39(1) of Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas ( 7 );
+
+(11) ‘transmission system operator’ has the meaning set out in point 4 of Article 2 of Directive 2009/72/EC and in point 4 of Article 2 of Directive 2009/73/EC;
+
+(11a) ‘distribution system operator’ means distribution system operator as defined in Article 2, point (6), of Directive 2009/73/EC and in Article 2, point (29), of Directive (EU) 2019/944;
+
+(11b) ‘storage system operator’ means storage system operator as defined in Article 2, point (10), of Directive 2009/73/EC or operator of an ‘energy storage facility’ as defined in Article 2, point (60), of Directive (EU) 2019/944;
+
+(11c) ‘LNG system operator’ means LNG system operator as defined in Article 2, point (12), of Directive 2009/73/EC;
+
+(12) ‘parent undertaking’ means a parent undertaking within the meaning of Articles 1 and 2 of the Seventh Council Directive 83/349/EEC of 13 June 1983 based on Article 54(3)(g) of the Treaty on consolidated accounts ( 8 );
+
+(13) ‘related undertaking’ means either a subsidiary or other undertaking in which a participation is held, or an undertaking linked with another undertaking by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+
+(14) ‘distribution of natural gas’ has the meaning set out in point (5) of Article 2 of Directive 2009/73/EC;
+
+(15) ‘distribution of electricity’ has the meaning set out in point (5) of Article 2 of Directive 2009/72/EC;
+
+(16) ‘registered reporting mechanism’ or ‘RRM’ means a legal person authorised pursuant to this Regulation to report or to provide the service of reporting details of transactions, including orders to trade, and fundamental data to the Agency on its own behalf or on behalf of market participants;
+
+(17) ‘inside information platform’ or ‘IIP’ means a person authorised pursuant to this Regulation to provide the service of operating a platform for the disclosure of inside information and for the reporting of disclosed inside information to the Agency on behalf of market participants;
+
+(18) ‘algorithmic trading’ means trading, including high-frequency trading, in wholesale energy products where a computer algorithm automatically determines individual parameters of orders to trade such as whether to initiate the order, the timing, price or quantity of the order or how to manage the order after its submission, with limited human intervention or no such intervention at all, not including any system that is only used for the purpose of routing orders to one or more organised marketplaces or for the processing of orders involving no determination of any trading parameters or for the confirmation of orders or the post-trade processing of executed transactions;
+
+(19) ‘direct electronic access’ means an arrangement whereby a member, participant or client of an organised marketplace allows another person to use its trading code so the person can electronically transmit orders to trade relating to a wholesale energy product directly to the organised marketplace, including arrangements which involve the use by a person of the information technology infrastructure of the member, participant or client, or any connecting system provided by the member, participant, or client, to transmit the orders to trade (direct market access) and arrangements whereby such an infrastructure is not used by a person (sponsored access);
+
+(20) ‘organised marketplace’ or ‘OMP’ means an energy exchange, an energy broker, an energy capacity platform or any other system or facility in which multiple third-party buying or selling interests in wholesale energy products interact in a manner that may result in a transaction;
+
+(21) ‘order book’ means all the details of wholesale energy products executed at an OMP, including matched and unmatched orders as well as system-generated orders and life cycle events;
+
+(22) ‘benchmark’ means an index as defined in Article 3(1), point 3, of Regulation (EU) 2016/1011 of the European Parliament and of the Council ( 9 ), by reference to which the amount payable under a wholesale energy product, or a contract relating to a wholesale energy product, or the value of a wholesale energy product is determined;
+
+(23) ‘LNG trading’ means bids, offers or transactions, including but not limited to those taking place over the counter or in an OMP, for the purchase or sale of LNG:
+
+(a) that specify delivery in the Union;
+
+(b) that result in delivery in the Union; or
+
+(c) in which one counterparty re-gasifies the LNG at a terminal in the Union;
+
+(24) ‘LNG market data’ means records of bids, offers or transactions for LNG trading with corresponding information;
+
+(25) ‘LNG market participant’ means any natural or legal person, irrespective of that person’s place of incorporation or domicile, who engages in LNG trading;
+
+(26) ‘LNG price assessment’ means the determination of a daily reference price for LNG trading in accordance with a methodology established by the Agency;
+
+(27) ‘LNG benchmark’ means the determination of a spread between the daily LNG price assessment and the settlement price for the TTF Gas Futures front-month contract established by ICE Endex Markets B.V. on a daily basis.
+
+### Article 3 — Prohibition of insider trading
+
+1\. Persons who possess inside information in relation to a wholesale energy product shall be prohibited from:
+
+(a) using that information by acquiring or disposing of, or by trying to acquire or dispose of, for their own account or for the account of a third party, either directly or indirectly, wholesale energy products to which that information relates;
+
+(b) disclosing that information to any other person unless such disclosure is made in the normal course of the exercise of their employment, profession or duties;
+
+(c) recommending or inducing another person, on the basis of inside information, to acquire or dispose of wholesale energy products to which that information relates.
+
+The use of inside information by cancelling or amending an order, or any other trading action concerning a wholesale energy product to which the information relates, where the order was placed before the person concerned possessed the inside information, shall also be considered to be insider trading.
+
+2\. The prohibition set out in paragraph 1 applies to the following persons who possess inside information in relation to a wholesale energy product:
+
+(a) members of the administrative, management or supervisory bodies of an undertaking;
+
+(b) persons with holdings in the capital of an undertaking;
+
+(c) persons with access to the information through the exercise of their employment, profession or duties;
+
+(d) persons who have acquired such information through criminal activity;
+
+(e) persons who know, or ought to know, that it is inside information.
+
+3\. Points (a) and (c) of paragraph 1 of this Article shall not apply to transmission system operators when purchasing electricity, hydrogen or natural gas  in order to ensure the safe and secure operation of the system in accordance with their obligations under points (d) and (e) of Article 12 of Directive 2009/72/EC or points (a) and (c) of Article 13(1) of Directive 2009/73/EC.
+
+4\. This Article shall not apply to:
+
+(a) transactions conducted in the discharge of an obligation that has become due to acquire or dispose of wholesale energy products where that obligation results from an agreement concluded, or an order to trade placed, before the person concerned came into possession of inside information;
+
+(b) transactions entered into by electricity and natural gas producers, operators of natural gas storage facilities or operators of LNG import facilities the sole purpose of which is to cover the immediate physical loss resulting from unplanned outages, where not to do so would result in the market participant not being able to meet existing contractual obligations or where such action is undertaken in agreement with the transmission system operator(s) concerned in order to ensure safe and secure operation of the system. In such a situation, the relevant information relating to the transactions shall be reported to the Agency and the national regulatory authority. This reporting obligation is without prejudice to the obligation set out in Article 4(1);
+
+(c) market participants acting under national emergency rules, where national authorities have intervened in order to secure the supply of electricity, hydrogen or natural gas  and market mechanisms have been suspended in a Member State or parts thereof. In this case the authority competent for emergency planning shall ensure publication in accordance with Article 4.
+
+5\. Where the person who possesses inside information in relation to a wholesale energy product is a legal person, the prohibitions laid down in paragraph 1 shall also apply to the natural persons who take part in the decision to carry out the transaction for the account of the legal person concerned.
+
+6\. When information is disseminated for the purposes of journalism or artistic expression such dissemination of information shall be assessed taking into account the rules governing the freedom of the press and freedom of expression in other media, unless:
+
+(a) those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question; or
+
+(b) the disclosure or dissemination is made with the intention of misleading the market as to the supply of, demand for, or price of wholesale energy products.
+
+### Article 4 — Obligation to publish inside information
+
+1\. Market participants shall publicly disclose in an effective and timely manner inside information which they possess in respect of business or facilities which the market participant concerned, or its parent undertaking or related undertaking, owns or controls or for whose operational matters that market participant or undertaking is responsible, either in whole or in part. Such disclosure shall include information relevant to the capacity and use of facilities for production, storage, consumption or transmission of electricity, hydrogen or natural gas  or related to the capacity and use of LNG facilities, including planned or unplanned unavailability of these facilities.
+
+Market participants shall disclose the inside information through IIPs. The IIPs shall ensure that the inside information is made public in a manner which enables prompt access to that information, including through a website or a clear application programming interface, and a complete, correct and timely assessment of that information by the public.
+
+2\. A market participant may under its own responsibility exceptionally delay the public disclosure of inside information so as not to prejudice its legitimate interests provided that such omission is not likely to mislead the public and provided that the market participant is able to ensure the confidentiality of that information and does not make decisions relating to trading in wholesale energy products based upon that information. In such a situation the market participant shall without delay provide that information, together with a justification for the delay of the public disclosure, to the Agency and the relevant national regulatory authority having regard to Article 8(5).
+
+3\. Whenever a market participant or a person employed by, or acting on behalf of, a market participant discloses inside information in relation to a wholesale energy product in the normal exercise of his employment, profession or duties as referred to in point (b) of Article 3(1), that market participant or person shall ensure simultaneous, complete and effective public disclosure of that information. In the event of a non-intentional disclosure the market participant shall ensure complete and effective public disclosure of the information as soon as possible following the non-intentional disclosure. This paragraph shall not apply if the person receiving the information has a duty of confidentiality, regardless of whether such duty derives from law, regulation, articles of association or a contract.
+
+4\. The publication of inside information, including in aggregated form, in accordance with Regulation (EU) 2019/943 of the European Parliament and of the Council ( 10 ) or Regulation (EC) No 715/2009, and with guidelines and network codes adopted pursuant to those Regulations shall constitute effective disclosure but not necessarily timely and public disclosure within the meaning of paragraph 1 of this Article.
+
+4a. By 8 May 2025, the Agency shall develop and operate a platform serving as a sector-specific electronic access point for inside information disclosed pursuant to paragraph 1.
+
+5\. Where an exemption from the obligation to publish certain data has been granted to a transmission system operator, in accordance with Regulation (EU) 2019/943  or (EC) No 715/2009, that operator is thereby also exempted from the obligation set out in paragraph 1 of this Article in respect of that data.
+
+6\. Paragraphs 1 and 2 are without prejudice to the obligations of market participants under Directives 2009/72/EC and 2009/73/EC, and Regulation (EU) 2019/943  and (EC) No 715/2009, including guidelines and network codes adopted pursuant to those Directives and Regulations, in particular regarding the timing and method of publication of information.
+
+7\. Paragraphs 1 and 2 are without prejudice to the right of market participants to delay the disclosure of sensitive information relating to the protection of critical infrastructure as provided for in point (d) of Article 2 of Council Directive 2008/114/EC of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection ( 11 ), if it is classified in their country.
+
+### Article 4a — Authorisation and supervision of inside information platforms
+
+8\. By 8 May 2025, the Commission shall adopt a delegated act in accordance with Article 20 to supplement this Regulation by specifying:
+
+(a) the means by which an IIP is to fulfil the obligation to make public the inside information laid down in paragraph 3 of this Article;
+
+(b) the content and any relevant further details of the inside information made public pursuant to paragraphs 3 and 4 of this Article in such a manner as to enable the publication of information required under this Article;
+
+(c) the specific organisational requirements for the implementation of paragraph 5 of this Article;
+
+(d) the details concerning the process of withdrawing an authorisation of an IIP referred to in paragraph 7 of this Article;
+
+(e) the procedural safeguards referred to in paragraph 6 of this Article;
+
+(f) the details concerning the process of orderly substitution referred to in paragraph 7 of this Article;
+
+(g) the detailed arrangements for informing market participants of a decision to withdraw the authorisation of an IIP.
+
+### Article 5 — Prohibition of market manipulation
+
+Any engagement in, or attempt to engage in, market manipulation on wholesale energy markets shall be prohibited.
+
+### Article 5a — Algorithmic trading
+
+1\. A market participant that engages in algorithmic trading shall have in place effective systems and risk controls suitable to the business it operates to ensure that its trading systems are resilient and have sufficient capacity, are subject to appropriate trading thresholdsand limits and prevent the sending of erroneous orders to trade or otherwise function in a way that may create or contribute to a disorderly market. The market participant shall also have in place effective systems and risk controls to ensure that the trading systems comply with this Regulation and with the rules of an OMP to which it is connected. The market participant shall have in place effective business continuity arrangements to deal with any failure of its trading systems and shall ensure that its systems are fully tested and properly monitored so that they meet the requirements laid down in this paragraph.
+
+2\. A market participant that engages in algorithmic trading in a Member State shall notify that engagement to the national regulatory authority of the Member State where it is registered pursuant to Article 9(1) and to the Agency.
+
+The national regulatory authority of the Member State where the market participant is registered pursuant to Article 9(1), may require the market participant to provide, on a regular or ad hoc basis, a description of the nature of its algorithmic trading strategies, details of the trading parameters or limits to which the trading system is subject, key compliance and risk controls that are in place to ensure that the requirements laid down in paragraph 1 of this Article are satisfied and details of the testing of its trading systems.
+
+The market participant shall arrange for records to be kept for five years in relation to the matters referred to in this paragraph and shall ensure that those records are sufficient to enable the national regulatory authority of the Member State where the market participant is registered pursuant to Article 9(1) to monitor compliance with this Regulation.
+
+3\. A market participant that provides direct electronic access to an OMP shall notify the national regulatory authority of the Member State where the market participant is registered pursuant to Article 9(1) and the Agency accordingly.
+
+The national regulatory authority of the Member State where the market participant is registered pursuant to Article 9(1) may require the market participant to provide, on a regular or ad hoc basis, a description of the systems and risk controls referred to in paragraph 1 of this Article and evidence that those have been applied.
+
+The market participant shall arrange for records to be kept for five years in relation to the matters referred to in this paragraph and shall ensure that those records be sufficient to enable the national regulatory authority of the Member State where the market participant is registered pursuant to Article 9(1) to monitor compliance with this Regulation.
+
+4\. This Article is without prejudice to the obligations laid down in Directive 2014/65/EU.
+
+### Article 6 — Technical updating of definitions of inside information and market manipulation
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 20:
+
+(a) to amend this Regulation by:
+
+(i) aligning the definitions set out in Article 2, points (1), (2), (3) and (5), for the purpose of ensuring coherence with other relevant Union law in the fields of financial services and energy;
+
+(ii) updating the definitions referred to in point (i) for the sole purpose of taking into account future developments on wholesale energy markets;
+
+(b) to supplement this Regulation by establishing, taking into account national specificities, minimum thresholds for the identification of events which, if they were made public, would be likely to significantly affect the prices of the wholesale energy products.
+
+2\. The delegated acts referred to in paragraph 1 shall take into account at least:
+
+(a) the specific functioning of wholesale energy markets, including the specificities of electricity, hydrogen and natural gas markets  , and the interaction between commodity markets and derivative markets;
+
+(b) the potential for manipulation across borders, between electricity, hydrogen and natural gas markets  and across commodity markets and derivative markets;
+
+(c) the potential impact on wholesale energy market prices of actual or planned production, consumption, use of transmission, or use of storage capacity; and
+
+(d) network codes and framework guidelines adopted in accordance with Regulation (EU) 2019/943  and (EC) No 715/2009.
+
+### Article 7 — Market monitoring
+
+1\. The Agency shall monitor trading activity in wholesale energy products to detect and prevent trading based on inside information and market manipulation or attempts thereof. It shall collect the data for assessing and monitoring wholesale energy markets as provided for in Article 8.
+
+2\. National regulatory authorities shall cooperate at regional level and with the Agency in carrying out the monitoring of wholesale energy markets referred to in paragraph 1. For this purpose national regulatory authorities shall have access to relevant information held by the Agency which it has collected in accordance with paragraph 1 of this Article, subject to Article 10(2). National regulatory authorities may also monitor trading activity in wholesale energy products at national level.
+
+Member States may provide for their national competition authority or a market monitoring body established within that authority to carry out market monitoring with the national regulatory authority. In carrying out such market monitoring, the national competition authority or the market monitoring body shall have the same rights and obligations as the national regulatory authority pursuant to the first subparagraph of this paragraph, the second sentence of the second subparagraph of paragraph 3 of this Article, the second sentence of Article 4(2), the first sentence of Article 8(5), and Article 16.
+
+3\. The Agency shall, at least on an annual basis, submit a report to the Commission on its activities under this Regulation and on the application by the Agency of this Regulation, and make that report publicly available. In that report the Agency shall assess, inter alia, the operation and transparency of different categories of marketplaces and ways of trading and may make recommendations to the Commission as regards market rules, standards, and procedures which could improve market integrity and the functioning of the internal market. It may also evaluate whether any minimum requirements for organised markets could contribute to enhanced market transparency. That report may be combined with the report referred to in Article 15(2) of Regulation (EU) 2019/942.
+
+### Article 7a — Tasks and powers of the Agency with regard to LNG price assessments and LNG benchmarks
+
+1\. The Agency shall produce and publish a daily LNG price assessment and a daily LNG benchmark. For the purpose of the LNG price assessment and the LNG benchmark, the Agency shall systematically collect and process LNG market data on transactions. The price assessment shall where appropriate take into account regional differences and market conditions.
+
+2\. By way of derogation from Article 3(4), point (b), of this Regulation, the market participant obligations and prohibitions laid down in this Regulation shall apply to LNG market participants. The powers conferred to the Agency under this Regulation and Implementing Regulation (EU) No 1348/2014 shall also apply in relation to LNG market participants including the provisions on confidentiality.
+
+### Article 7b — Publication of LNG price assessments and LNG benchmarks
+
+1\. The LNG price assessment shall be published daily, and by no later than 18:00 CET for the outright transaction price assessment. In addition to the publication of the LNG price assessment, the Agency shall also, on a daily basis, publish the LNG benchmark by no later than 19:00 CET or as soon as technically possible.
+
+2\. For the purposes of this Article, the Agency may make use of the services of a third party.
+
+### Article 7c — Provision of LNG market data to the Agency
+
+1\. LNG market participants shall submit daily to the Agency the LNG market data, free of charge, by means of the reporting channels established by the Agency, in a standardised format, through a high-quality transmission protocol, and as close to real-time as technologically possible before the publication of the daily LNG price assessment (18:00 CET).
+
+2\. The Commission may adopt implementing acts specifying the point in time by which LNG market data is to be submitted before the publication of the daily LNG price assessment as referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2).
+
+3\. Where appropriate, the Agency shall, after consulting the Commission, issue guidance with regard to:
+
+(a) the details of the information to be reported, in addition to the current details of reportable transactions and fundamental data under Implementing Regulation (EU) No 1348/2014, including bids and offers; and
+
+(b) the procedure, the standard and electronic format, and the technical and organisational requirements for submitting data to be used for the provision of the required LNG market data.
+
+### Article 7d — LNG market data quality
+
+1\. LNG market data shall include:
+
+(a) the parties to the contract, including buy or sell indicator;
+
+(b) the reporting party;
+
+(c) the transaction price;
+
+(d) the contract quantities;
+
+(e) the value of the contract;
+
+(f) the arrival window for the LNG cargo;
+
+(g) the terms of delivery;
+
+(h) the delivery points;
+
+(i) the timestamp information on all of the following:
+
+(i) the date and time of placing the bid or offer;
+
+(ii) the transaction date and time;
+
+(iii) the date and time of reporting of the bid, offer or transaction;
+
+(iv) the receipt of LNG market data by the Agency.
+
+2\. LNG market participants shall provide the Agency with LNG market data in the following units and currencies:
+
+(a) transaction, bid and offer unit prices shall be reported in the currency specified in the contract and in EUR/MWh and shall include the applied conversion and exchange rates, if applicable;
+
+(b) contract quantities shall be reported in the units specified in the contract and in MWh;
+
+(c) arrival windows shall be reported in terms of delivery dates expressed in UTC format;
+
+(d) the delivery point shall indicate a valid identifier listed by the Agency such as referred to in the list of LNG facilities subject to reporting pursuant to this Regulation and Implementing Regulation (EU) No 1348/2014; the timestamp information shall be reported in UTC format;
+
+(e) if relevant, the price formula in the long-term contract from which the price is derived shall be reported in its integrity.
+
+3\. The Agency shall issue guidance regarding the criteria under which a single submitter accounts for a significant portion of LNG market data submitted within a certain reference period and how this situation shall be addressed in its daily LNG price assessment and LNG benchmark.
+
+### Article 7e — Business continuity
+
+The Agency shall regularly review, update and publish its LNG reference price assessment and LNG benchmark methodology, as well as the methodology used for LNG market data reporting and the publication of its LNG price assessments and LNG benchmarks, taking into account the views of LNG market data contributors.
+
+### Article 8 — Data collection
+
+1\. Market participants, or a person or an entity listed in paragraph 4, points (b) to (f) acting on their behalf, shall provide the Agency with a record of wholesale energy market transactions, including orders to trade. The information reported shall include the precise identification of the wholesale energy products bought and sold, the price and quantity agreed, the dates and times of execution, the parties to the transaction and the intermediate or final beneficiaries of the transaction and any other relevant information. Market participants shall include information about their exposures, detailed by product, including the transactions that occur over the counter. While overall responsibility lies with market participants, once the required information is received from a person or an entity listed in paragraph 4, points (b) to (f), the reporting obligation on the market participant in question shall be considered to be fulfilled. The information referred to in this paragraph shall be provided through RRMs.
+
+1a. For the purpose of reporting records of transactions on the wholesale energy market, including orders to trade, that are entered into, concluded or executed at OMPs, those OMPs, or third parties on their behalf, shall:
+
+(a) make available to the Agency data relating to the order book, in accordance with the specifications set out in the Implementing Regulation (EU) No 1348/2014, thereby fulfilling on behalf of market participants their obligations pursuant to paragraph 1 of this Article; or
+
+(b) upon the Agency’s request, give the Agency access without delay to the order book so that the Agency is able to monitor trading on the wholesale energy market.
+
+By 8 May 2025, the Commission shall adopt implementing acts specifying the further details regarding the operation of this paragraph, including the specific arrangements for ensuring effective data reporting. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2).
+
+1b. LNG market participants and any other person or entity listed in paragraph 4, points (b) to (f), of this Article acting on their behalf shall systematically provide the Agency with a record of LNG market data, in accordance with the specifications laid down in the Implementing Regulation (EU) No 1348/2014.
+
+2\. The Commission shall, by means of implementing acts:
+
+(a) draw up a list of the contracts and derivatives, including orders to trade, which are to be reported in accordance with paragraph 1 and appropriate de minimis thresholds for the reporting of transactions where appropriate;
+
+(b) adopt uniform rules on the reporting of information which is to be provided in accordance with paragraph 1;
+
+(c) lay down the timing and form in which that information is to be reported.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2). They shall take account of existing transaction reporting systems for monitoring trading activity to detect market abuse.
+
+3\. The persons and entities referred to in paragraph 4, points (a) to (d), of this Article that have reported transactions in accordance with Regulation (EU) No 600/2014 or Regulation (EU) No 648/2012 shall not be subject to double reporting obligations relating to those transactions.
+
+Without prejudice to the first subparagraph of this paragraph, the implementing acts referred to in paragraphs 1a and 2 may allow organised markets and trade matching or trade reporting systems to provide the Agency with records of wholesale energy transactions.
+
+4\. For the purposes of paragraphs 1, 1a and 1b, information shall be provided by:
+
+(a) the market participant;
+
+(b) a third party acting on behalf of the market participant;
+
+(c) a trade reporting system;
+
+(d) an OMP, a trade-matching system or other person professionally arranging or executing transactions;
+
+(e) a trade repository registered or recognised under applicable Union legislation on derivative transactions, central counterparties and trade repositories; or
+
+(f) a competent authority which has received that information in accordance with Article 25(3) of Directive 2004/39/EC or ESMA when it has received that information in accordance with applicable Union legislation on derivative transactions, central counterparties and trade repositories.
+
+5\. Market participants shall provide the Agency and national regulatory authorities with information related to the capacity and use of facilities for production, storage, consumption or transmission of electricity, hydrogen or natural gas  or related to the capacity and use of LNG facilities, including planned or unplanned unavailability of those facilities, and with inside information that is publicly disclosed pursuant to Article 4, for the purpose of monitoring trading on wholesale energy markets. The reporting obligations on market participants shall be minimised by collecting the required information or parts thereof, where possible, from existing sources.
+
+6\. The Commission shall, by means of implementing acts:
+
+(a) adopt uniform rules on the reporting of information to be provided in accordance with paragraph 5 and on appropriate thresholds for such reporting where appropriate;
+
+(b) lay down the timing and form in which that information is to be reported.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2). They shall take account of existing reporting obligations under Regulation (EU) 2019/943  and (EC) No 715/2009.
+
+### Article 9 — Registration of market participants
+
+1\. Market participants entering into transactions which are required to be reported to the Agency pursuant to Article 8(1) shall register with the national regulatory authority in the Member State in which they are established or resident.
+
+By 8 November 2024, market participants established or resident in a third country that enter into transactions that are required to be reported to the Agency pursuant to Article 8(1):
+
+(a) shall designate a representative in a Member State in which the market participants are active on the wholesale energy markets, and shall register with the national regulatory authority of that Member State. The representative shall be designated by a written mandate and shall be authorised to act on the market participants’ behalf;
+
+(b) shall mandate their designated representative for the purpose of being addressed in addition to or on their behalf, by the national regulatory authorities or the Agency, on all issues necessary for the receipt of, compliance with and enforcement of decisions or requests for information issued in relation to this Regulation;
+
+(c) shall provide their designated representative with the necessary powers and means to guarantee their efficient and timely cooperation with the national regulatory authorities or the Agency and to comply with the decisions and requests for information of the national regulatory authorities or the Agency issued in relation to this Regulation, including providing access to the requested information; and
+
+(d) shall notify the name, email address, postal address and telephone number of their designated representative to the national regulatory authority of the Member State where that designated representative resides or is established and to the Agency.
+
+The designation of a representative shall be without prejudice to legal actions which could be initiated against the market participant itself.
+
+A market participant shall register only with one national regulatory authority. Member States shall not require a market participant already registered in another Member State to register again.
+
+The registration of market participants is without prejudice to obligations to comply with applicable trading and balancing rules.
+
+2\. Not later than 3 months after the date on which the Commission adopts the implementing acts set out in Article 8(2), national regulatory authorities shall establish national registers of market participants which they shall keep up to date. The register shall give each market participant a unique identifier and shall contain sufficient information to identify the market participant, including relevant details relating to its value added tax number, its place of establishment, the persons responsible for its operational and trading decisions, and the ultimate controller or beneficiary of the market participant's trading activities.
+
+3\. National regulatory authorities shall transmit the information in their national registers to the Agency in a format determined by the Agency. The Agency shall, in cooperation with those authorities, determine that format and shall publish it. On the basis of the information provided by national regulatory authorities, the Agency shall establish a European register of market participants. National regulatory authorities and other relevant authorities shall have access to that register. Subject to Article 17, the Agency shall make the European register of market participants, or extracts thereof, publicly available provided that commercially sensitive information on individual market participants is not disclosed.
+
+4\. Market participants referred to in paragraph 1 of this Article shall submit the registration form to the national regulatory authority prior to entering into a transaction which is required to be reported to the Agency in accordance with Article 8(1).
+
+5\. Market participants referred to in paragraph 1 shall communicate promptly to the national regulatory authority any change which has taken place as regards the information provided in the registration form.
+
+### Article 9a — Authorisation and supervision of registered reporting mechanisms
+
+6\. By 8 May 2025, the Commission shall adopt a delegated act in accordance with Article 20 to supplement this Regulation by specifying:
+
+(a) the means by which an RRM is to fulfil the obligation referred to in paragraph 1 of this Article;
+
+(b) the specific organisational requirements for the implementation of paragraphs 2 and 3 of this Article;
+
+(c) the details concerning the process of withdrawing an authorisation of an RRM referred to in paragraph 5 of this Article;
+
+(d) the procedural safeguards referred to in paragraph 4 of this Article;
+
+(e) the details concerning the process of orderly substitution referred to in paragraph 5 of this Article;
+
+(f) the detailed arrangements for informing market participants of a decision to withdraw the authorisation of an RRM.
+
+### Article 10 — Sharing of information between the Agency and other authorities
+
+1\. The Agency shall establish mechanisms to share information it receives in accordance with Article 7(1) and Article 8 with the Commission, national regulatory authorities, competent financial authorities of the Member States, national competition authorities, ESMA, Eurofisc and other relevant authorities at Union level. Before establishing such mechanisms, the Agency shall consult with those authorities.
+
+The Agency shall give access to the mechanisms referred to in the first subparagraph of this paragraph only to authorities which have set up systems enabling the Agency to meet the requirements set out in Article 12(1).
+
+2\. National regulatory authorities shall establish mechanisms to share information they receive in accordance with Article 7(2) and Article 8 with the competent financial authorities of the Member States, the national competition authorities, the national tax authorities and other relevant authorities at national level. Before establishing such mechanisms, the national regulatory authority shall consult with the Agency and with those authorities on such mechanisms, unless such mechanisms were established before 7 May 2024. The Agency shall, where appropriate, issue non-binding guidelines to facilitate the establishment of such mechanisms by national regulatory authorities.
+
+National regulatory authorities shall give access to the mechanisms referred to in the first subparagraph of this paragraph only to authorities which have set up systems enabling the national regulatory authorities to meet the requirements set out in Article 12(1).
+
+3\. Trade repositories registered or recognised under applicable Union legislation on derivative transactions, central counterparties and trade repositories shall make relevant information regarding wholesale energy products and derivatives of emissions allowances collected by them available to the Agency.
+
+ESMA shall transmit to the Agency reports of transactions in wholesale energy products received pursuant to Article 25(3) of Directive 2004/39/EC and under applicable Union legislation on derivative transactions, central counterparties and trade repositories. Competent authorities receiving reports of transactions in wholesale energy products received pursuant to Article 25(3) of Directive 2004/39/EC shall transmit those reports to the Agency.
+
+The Agency and authorities responsible for overseeing trading in emissions allowances or derivatives relating to emissions allowances shall cooperate with each other and establish appropriate mechanisms to provide the Agency with access to records of transactions in such allowances and derivatives where those authorities collect information on such transactions.
+
+### Article 11 — Data protection
+
+This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( 12 ) or the obligations of the Agency, when fulfilling its responsibilities, relating to its processing of personal data under Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 13 ).
+
+### Article 12 — Operational reliability
+
+1\. The Agency shall ensure the confidentiality, integrity and protection of the information received pursuant to Article 4(2) and Articles 8 and 10. The Agency shall take all necessary measures to prevent any misuse of, and unauthorised access to, the information maintained in its systems.
+
+The Commission, national regulatory authorities, competent financial authorities of the Member States, national tax authorities, Eurofisc, national competition authorities, ESMA and other relevant authorities shall ensure the confidentiality, integrity and protection of the information that they receive pursuant to Article 4(2), Article 7(2), Article 8(5) or Article 10, shall take steps to prevent any misuse of such information, and shall ensure compliance with the applicable data protection law.
+
+The Agency shall identify sources of operational risk and minimise them through the development of appropriate systems, controls and procedures.
+
+2\. By 8 May 2025, the Agency shall develop a reference centre containing information on Union wholesale energy market data (the ‘Reference Centre’). Subject to Article 17, the Agency shall make public, by means of the Reference Centre, parts of the information which it possesses, provided that commercially sensitive information on individual market participants, individual transactions or individual marketplaces are not disclosed and cannot be identified from the information made public. The Agency may also make public, by means of the Reference Centre, aggregated information on OMPs, IIPs and RRMs in accordance with the applicable data protection law, excluding commercially sensitive information.
+
+The Agency shall make its commercially non-sensitive trade database available for scientific purposes, subject to confidentiality requirements.
+
+Information shall be published or made available in the interest of improving transparency of wholesale energy markets and provided it is not likely to create any distortion in competition on those energy markets.
+
+The Agency shall disseminate information in a fair manner in accordance with transparent rules which it shall draw up and make publicly available.
+
+### Article 13 — Implementation of prohibitions against market abuse
+
+1\. National regulatory authorities shall ensure that the prohibitions laid down in Articles 3 and 5 and the obligations laid down in Articles 4, 7c, 8, 9 and 15 are complied with and enforced.
+
+National regulatory authorities shall be competent to investigate all the acts carried out on their national wholesale energy markets and enforce this Regulation, irrespective of where the market participant carrying out those acts is registered or under an obligation to register pursuant to Article 9(1).
+
+Each Member State shall ensure that its national regulatory authority has the investigatory and enforcement powers necessary for the exercise of the functions referred to in the first and second subparagraphs. Those powers shall be exercised in a proportionate manner.
+
+Those powers may be exercised:
+
+(a) directly;
+
+(b) in collaboration with other authorities;
+
+(c) by application to the competent national judicial authorities; or
+
+(d) following a recommendation by the Agency.
+
+Where appropriate, the national regulatory authorities may exercise their investigatory powers in collaboration with OMPs, trade-matching systems or other persons professionally arranging or executing transactions as referred to in Article 8(4), point (d).
+
+2\. The investigatory and enforcement powers referred to in paragraph 1 shall be limited to the aim of the investigation. They shall be exercised in conformity with national law and include the right to:
+
+(a) have access to any relevant document in any form, and to receive a copy of it;
+
+(b) demand information from any relevant person, including those who are successively involved in the transmission of orders or conduct of the operations concerned, as well as their principals, and, if necessary, the right to summon and hear any such person or principal;
+
+(c) carry out on-site inspections;
+
+(d) require existing telephone and existing data traffic records;
+
+(e) require the cessation of any practice that is contrary to this Regulation or delegated acts or implementing acts adopted on the basis thereof;
+
+(f) request a court to freeze or sequester assets;
+
+(g) request a court or any competent authority to impose a temporary prohibition of professional activity.
+
+3\. In order to combat breaches of this Regulation, to support and complement the enforcement activities of the national regulatory authorities, and to contribute to a uniform application of this Regulation throughout the Union, the Agency may, in close and active cooperation with the relevant national regulatory authorities, carry out investigations by exercising the powers conferred on it by and in accordance with Articles 13a, 13b and 13c.
+
+4\. In sufficient time before exercising the powers referred to in paragraph 3 within the jurisdiction of a Member State where the acts that the Agency reasonably suspects to be in breach of this Regulation are carried out, the Agency shall inform the national regulatory authority and other authorities concerned of that Member State. The Agency may exercise its powers in that jurisdiction, unless the national regulatory authority objects on the grounds that it:
+
+(a) has formally opened or is conducting an investigation on the same facts; or
+
+(b) has conducted an investigation on the same facts and determined the existence or the absence of a breach.
+
+The Agency may continue to exercise its powers in the remaining jurisdictions of those national regulatory authorities that have not raised an objection pursuant to the first subparagraph, point (a). The Agency shall not exercise its powers if an investigation has already been conducted on the same facts and has concluded on the existence or the absence of a breach.
+
+The national regulatory authority shall inform the Agency of its objection within three months of being informed pursuant to the first subparagraph. In such cases, the national regulatory authority shall cooperate with the Agency, including by:
+
+(a) sharing information and findings relevant for the Agency to exercise its powers under paragraph 3 in other relevant jurisdictions concerned; and
+
+(b) participating, upon the request of the Agency, in an investigatory group established pursuant to Article 16(4), point (c).
+
+The Agency shall inform the Commission of the establishment of the investigatory group and, upon the request of one of the national regulatory authorities concerned, the Agency may invite the Commission to participate, as an observer, in that investigatory group.
+
+5\. The Agency may exercise its powers to ensure that the prohibitions set out in Articles 3 and 5 are enforced where:
+
+(a) acts are being or have been carried out on wholesale energy products for delivery in at least two Member States;
+
+(b) the competent national regulatory authority, without prejudice to the derogations referred to in Article 16(5), does not take the necessary measures as soon as possible to comply with the request of the Agency pursuant to Article 16(4), point (b), where there is a cross-border impact;
+
+(c) without prejudice to paragraph 4, the national regulatory authority requests the Agency to exercise its powers with regard to acts that, even if not falling within the scope of point (a) or (b) of this paragraph, have a cross-border impact.
+
+6\. The Agency may exercise its powers to ensure that the obligations laid down in Article 4 are fulfilled where the relevant inside information is likely to significantly affect the prices of wholesale energy products for delivery in at least two Member States.
+
+7\. The Agency may exercise its powers to ensure that the obligations laid down in Article 8 are fulfilled where:
+
+(a) a suspected breach affects the monitoring referred to in Article 7 by the Agency, of trading activity in wholesale energy products in at least two Member States; or
+
+(b) a suspected breach affects the quality of information sharing referred to in Article 10 in at least two Member States.
+
+8\. The Agency may exercise its powers to ensure that the obligations laid down in Article 15 are fulfilled where the persons referred to in that Article are professionally arranging or executing transactions in wholesale energy products for delivery in at least two Member States.
+
+9\. In exercising its powers pursuant to paragraphs 5 to 8, the Agency may give priority to the cases with the most significant cross-border impact. For that purpose, the Agency shall establish criteria for identifying the cases with the most significant cross-border impact, after consulting and in cooperation with the national regulatory authorities.
+
+10\. For the purpose of establishing whether the conditions for the exercise of the Agency’s powers set out in paragraphs 5, points (a) and (b), 6, 7 and 8 are met, the delivery of wholesale energy products within a bidding or balancing zone that encompasses the territory of at least two Member States shall be considered to be delivery in a single Member State.
+
+This paragraph shall be without prejudice to the possibility of a national regulatory authority concerned to submit a request pursuant to paragraph 5, point (c) or to object pursuant to paragraph 4.
+
+11\. Upon completion of its actions taken to exercise its powers pursuant to paragraphs 5 to 8, the Agency shall draw up an investigation report setting out the Agency’s findings. The investigation report shall also include all evidence on which the findings were based. If the Agency considers in the investigation report that a breach of this Regulation took place, it shall inform the national regulatory authorities of the Member States concerned accordingly and require that they take the necessary measures including, as appropriate, in accordance with Article 18. In the investigation report, the Agency may also recommend certain follow-up measures to the relevant national regulatory authorities, and, where necessary, inform the Commission. Within three months of the receipt of the investigation report, the relevant national regulatory authorities shall communicate to the Agency and, where necessary, to the Commission, the measures that they consider to be necessary.
+
+12\. The Agency shall, on a regular basis and in any event at least once a year, submit summaries of the reports that it has drawn up, in an aggregated and anonymised form, to the European Parliament and to the Council. Such summaries and their content shall be treated as confidential.
+
+### Article 13a — On-site inspections by the Agency
+
+1\. The Agency shall prepare and conduct on-site inspections in close cooperation and in coordination with the relevant authorities of the Member State concerned.
+
+2\. In order to fulfil its obligations as laid down in Article 13(5) to (8), the Agency may conduct all necessary on-site inspections at the premises of the persons subject to the investigation where business records could be kept. Where the proper conduct and efficiency of the on-site inspection so require, the Agency may carry out that inspection without prior announcement to the persons subject to the investigation.
+
+3\. To the extent necessary for the on-site inspection, the officials of, and persons authorised or appointed by, the Agency to conduct that inspection shall be empowered, with respect to the persons subject to a decision adopted by the Agency pursuant to paragraph 6, to:
+
+(a) enter the relevant premises of those persons;
+
+(b) examine the books and other records related to their business, irrespective of the medium on which they are stored;
+
+(c) take or obtain in any form copies of or extracts from such books or records;
+
+(d) seal any business premises and books or records for the period and to the extent necessary for the inspection;
+
+(e) ask any representative or member of staff of those persons for explanations on facts or documents relating to the subject matter and purpose of the on-site inspection and to record the answers.
+
+Except in duly substantiated cases, seals referred to in the first subparagraph, point (d) shall not be affixed for more than 72 hours.
+
+4\. If a reasonable suspicion exists that business records related to the subject matter of an on-site inspection, which may be relevant to prove a breach of this Regulation, are being kept in private premises of directors, managers or other members of staff of businesses concerned by an investigation, the Agency may by decision carry out an on-site inspection in such private premises. In such cases, the decision referred to in paragraph 6 shall also state the reasons that have led the Agency to conclude that a reasonable suspicion exists.
+
+5\. The officials of, and persons authorised or appointed by, the Agency to conduct an on-site inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the on-site inspection.
+
+6\. The persons subject to investigation shall submit to on-site inspections ordered by a decision that shall be adopted by the Agency. The decision shall specify the subject matter and purpose of the on-site inspection, indicate the date on which it is to begin, the periodic penalty payments provided for in Article 13g where the person concerned does not submit to the on-site inspection in accordance with paragraph 3 of this Article, as well as the right to have the decision reviewed by the Court of Justice of the European Union (the “Court of Justice”). The Agency shall consult the national regulatory authority of the Member State where the on-site inspection is to be conducted prior to adopting such decision.
+
+7\. Officials of, and persons authorised or appointed by, the national regulatory authority of the Member State where the on-site inspection is to be conducted shall, upon the request of the Agency, actively assist the officials of, and persons authorised or appointed by, the Agency. To that end they shall have the powers set out in this Article. Officials of the national regulatory authority may also attend the on-site inspection upon request.
+
+8\. Where the officials of, and persons authorised or appointed by, the Agency find that a person opposes an on-site inspection ordered pursuant to this Article, the national regulatory authority of the Member State concerned shall provide them, or other relevant national regulatory authorities, with the necessary assistance, requesting, where appropriate, the assistance of the police or of an equivalent enforcement authority, to enable them to conduct their on-site inspection.
+
+9\. If the on-site inspection provided for in paragraph 1 or the assistance provided for in paragraphs 7 and 8 requires authorisation by a national judicial authority in accordance with the applicable national law, the Agency shall apply for such authorisation. The Agency may also apply for such authorisation as a precautionary measure. In the cases referred to in paragraph 4, an on-site inspection shall not be carried out without the prior authorisation of a national judicial authority.
+
+10\. Where the Agency applies for an authorisation as referred to in paragraph 9, the national judicial authority shall verify:
+
+(a) that the decision of the Agency is authentic; and
+
+(b) that any measures to be taken are proportionate and not arbitrary or excessive having regard to the subject matter of the on-site inspection.
+
+For the purposes of the first subparagraph, point (b), of this paragraph, the national judicial authority may ask the Agency for detailed explanations, in particular relating to the grounds the Agency has for suspecting that a breach referred to in Article 13(3) has taken place, the seriousness of the suspected breach and the nature of the involvement of the person subject to the investigation. By way of derogation from Articles 28 and 29 of Regulation (EU) 2019/942, the Agency’s decision shall be subject to review only by the Court of Justice.
+
+### Article 13b — Request for information
+
+1\. At the Agency’s request any person shall provide to it the information necessary for the purpose of fulfilling the Agency’s obligations laid down in Article 13(5) to (8). In its request the Agency shall:
+
+(a) refer to this Article as the legal basis for the request;
+
+(b) state the purpose of the request;
+
+(c) specify what information is required, and following which data format;
+
+(d) set a time-limit, proportionate to the request, within which the information is to be provided;
+
+(e) inform the person that the reply to the request for information is not to be incorrect or misleading.
+
+2\. For the purpose of information requests as referred to in paragraph 1 of this Article, the Agency shall also have the power to adopt decisions. In such a decision the Agency shall, in addition to the elements listed in paragraph 1 of this Article, indicate the person’s obligation to respond to the request, the periodic penalty payments provided for in Article 13g where the person concerned does not comply with the request, and the right to have the decision reviewed by the Court of Justice.
+
+By way of derogation from Articles 28 and 29 of Regulation (EU) 2019/942, the Agency’s decision shall be subject to review only by the Court of Justice.
+
+3\. The persons in receipt of a request for information pursuant to paragraph 1 or 2, or their representatives, shall supply the information requested. Those persons shall be fully responsible for ensuring that the supplied information is complete, correct and not misleading.
+
+4\. Where the officials of, and persons authorised or appointed by, the Agency find that a person does not comply with a request for information, the national regulatory authority of the Member State concerned shall, at the Agency’s request, provide the Agency with the necessary assistance in ensuring the fulfilment of the obligation laid down in paragraph 3, including through the imposition of fines in accordance with the applicable national law.
+
+5\. Where the officials of, and persons authorised or appointed by, the Agency find that a person refuses to supply the information requested, the Agency may draw conclusions on the basis of available information.
+
+6\. The Agency shall, without delay, send a copy of the request referred to in paragraph 1 or the decision referred to in paragraph 2 to the national regulatory authorities of the Member States concerned.
+
+### Article 13c — Power to take statements
+
+1\. In order to fulfil its obligations under Article 13(5) to (8), the Agency may interview and take statements from any person who consents to being interviewed for the purpose of collecting information relating to the subject matter of an investigation. The Agency may record the answers.
+
+2\. Where an interview pursuant to paragraph 1 is conducted at the premises of the person concerned, the Agency shall inform the national regulatory authority of the Member State on whose territory the interview takes place. The officials of the national regulatory authority of that Member State may assist the officials of, and persons authorised or appointed by, the Agency to conduct the interview.
+
+### Article 13d — Procedural safeguards
+
+1\. The Agency shall carry out on-site inspections, request information and take statements in full respect of the procedural safeguards of persons subject to an investigation, including:
+
+(a) the right not to make self-incriminating statements;
+
+(b) the right to be assisted by a person of choice;
+
+(c) the right to use any of the official languages of the Member State where the on-site inspection takes place;
+
+(d) the right to comment on facts concerning them before the adoption of the investigation report pursuant to Article 13(11);
+
+(e) the right to receive a copy of the record of interview and either approve it or add observations to it.
+
+The invitation to comment on facts pursuant to the right referred to in point (d) shall include a summary of the facts concerning the person in question and shall indicate an adequate time limit for submitting comments. In duly substantiated cases where necessary to preserve the confidentiality of the on-site inspection or of an on-going or future administrative or criminal investigation by a national authority, the Agency may decide to defer the invitation to comment.
+
+2\. The Agency shall seek evidence for and against the persons subject to an investigation, and carry out on-site inspections, request information and take statements objectively and impartially and in accordance with the principle of the presumption of innocence.
+
+3\. The Agency shall carry out on-site inspections, request information and take statements in full respect of applicable confidentiality and Union data protection rules.
+
+4\. Article 14(6) of Regulation (EU) 2019/942 shall not apply to the Agency’s decisions adopted pursuant to Article 13a(6) or Article 13b(2).
+
+### Article 13e — Mutual assistance
+
+In order to ensure compliance with the relevant requirements set out in Articles 13 to 13c national regulatory authorities and the Agency shall assist each other in the course of an investigation.
+
+### Article 13f — Investigating officer
+
+1\. In order to fulfil its obligations under Article 13(5) to (8), the Agency may, where it considers to be appropriate to ensure the effectiveness and efficiency of the investigation and taking into account its available internal resources, appoint a dedicated investigating officer within the Agency to lead the investigation.
+
+2\. In order to carry out his or her tasks, the investigating officer may exercise the powers available to the Agency, including the powers set out in Articles 13a, 13b and 13c, while respecting the procedural safeguards set out in Article 13d. When carrying out his or her tasks, the investigating officer shall have access to all documents and information collected by the Agency in its supervisory activities that are relevant for carrying out the investigation.
+
+### Article 13g — Periodic penalty payments
+
+1\. The Agency shall, by means of a decision, impose a periodic penalty payment in respect of a person subject to an investigation in order to compel that person:
+
+(a) to submit to an on-site inspection ordered by a decision adopted pursuant to Article 13a(6);
+
+(b) to supply the information requested by a decision adopted pursuant to Article 13b(2).
+
+2\. The periodic penalty payment shall be imposed on a daily basis until the person concerned complies with the relevant decisions referred to in Article 13a(6) or Article 13b(2).
+
+3\. Periodic penalty payments shall be effective and proportionate. To that effect, the amount of a periodic penalty payment shall be, in the case of legal persons, 3 % of the average daily turnover in the preceding business year or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. A periodic penalty payment shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+
+4\. A periodic penalty payment may be imposed for a period of no more than six months from the notification of the Agency’s decision.
+
+5\. By way of derogation from Articles 28 and 29 of Regulation (EU) 2019/942, the Agency’s decision shall be subject to review only by the Court of Justice.
+
+### Article 13h — Procedural safeguards with regard to periodic penalty payment decisions
+
+1\. Notwithstanding Article 14(6) of Regulation (EU) 2019/942, before taking any decision imposing a periodic penalty payment under Article 13g of this Regulation, the Agency shall give the persons to whom it intends to address such decision the opportunity to be heard on the Agency’s findings. The Agency shall base its decisions only on findings on which the persons concerned have had the opportunity to comment.
+
+2\. The rights of defence of the persons concerned shall be fully respected throughout the investigation. They shall be entitled to have access to those documents in the Agency’s file that are relevant for the Agency’s decision to impose the periodic penalty payment, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or internal preparatory documents of the Agency.
+
+### Article 13i — Nature, enforcement and allocation of periodic penalty payments
+
+1\. Periodic penalty payments imposed pursuant to Article 13g shall be of an administrative nature.
+
+2\. Periodic penalty payments imposed pursuant to Article 13g shall be enforceable.
+
+Enforcement shall be governed by the applicable national procedural rules of the Member States concerned.
+
+The order for its enforcement shall be appended to the Agency’s decision without any other formality than verification of the authenticity of the decision by the national authority which the government of each Member State shall designate for that purpose and which it shall make known to the Agency and to the Court of Justice.
+
+When the designated national authority has completed the formalities referred to in the third subparagraph, upon application by the Agency, the Agency may proceed to enforcement in accordance with the applicable national law, by bringing the matter directly before the designated national authority.
+
+Enforcement may be suspended only by a decision of the Court of Justice. However, the courts of the Member States concerned shall have jurisdiction over complaints that enforcement is being carried out in an irregular manner.
+
+3\. The amounts of the periodic penalty payments shall be allocated to the general budget of the European Union.
+
+### Article 13j — Review by the Court of Justice
+
+The Court of Justice shall have unlimited jurisdiction to review decisions of the Agency imposing periodic penalty payments. It may annul, reduce or increase the periodic penalty payment imposed.
+
+### Article 14 — Right of appeal
+
+Member States shall ensure that suitable mechanisms exist at national level under which a party affected by a decision of the regulatory authority has a right of appeal to a body independent of the parties involved and of any government.
+
+### Article 15 — Obligations of persons professionally arranging or executing transactions
+
+1\. Any person professionally arranging transactions in wholesale energy products who reasonably suspects that an order to trade or a transaction, including any cancellation or modification thereof, whether placed on or outside an OMP, could breach Article 3, 4 or 5, shall notify the Agency and the relevant national regulatory authority without further delay and in any event no later than four weeks from the day on which that person becomes aware of the suspicious event.
+
+2\. Any person professionally executing transactions under Article 16 of Regulation (EU) No 596/2014 who also executes transactions in wholesale energy products that are not financial instruments, and who reasonably suspects that an order to trade or a transaction, including any cancellation or modification thereof, whether placed on or outside an OMP, could breach Article 3, 4 or 5 of this Regulation, shall notify the Agency and the relevant national regulatory authority without further delay and in any event no later than four weeks from the day on which that person becomes aware of the suspicious event.
+
+3\. The persons referred to in paragraphs 1 and 2 shall establish and maintain effective arrangements, systems and procedures to:
+
+(a) identify potential breaches of Article 3, 4 or 5;
+
+(b) guarantee that their employees carrying out surveillance activities for the purpose of this Article are preserved from any conflict of interest and act in an independent manner;
+
+(c) detect and report suspicious orders and transactions.
+
+4\. Without prejudice to Regulation (EU) No 596/2014, persons professionally arranging or executing transactions shall be subject to the rules of notification of the Member States in which the market participant involved in the potential breach is registered and where the wholesale energy product is delivered. Such notification shall be addressed to the national regulatory authorities of those Member States.
+
+5\. By 8 May 2025 and every year thereafter, the Agency shall, in cooperation with national regulatory authorities, issue and make public a report with aggregated information in compliance with applicable data protection law, excluding commercially sensitive information, on the implementation of this Article, in particular with regard to:
+
+(a) the arrangements, systems and procedures referred to in paragraph 3 and their effectiveness;
+
+(b) the national regulatory authorities’ analysis of suspicious transactions, response to poor quality reporting and non-reporting of suspicious transactions and related activities with regard to enforcement and penalties.
+
+### Article 16 — Cooperation at Union and national level
+
+1\. The Agency shall aim to ensure that national regulatory authorities carry out their tasks under this Regulation in a coordinated and consistent way.
+
+The Agency shall, as appropriate, publish non-binding guidance on:
+
+(a) the application of the definitions set out in Article 2, including with regard to the establishment of a non-exhaustive list of relevant intermediate steps in a protracted process in those cases where, by itself, the information meets the criteria laid down in Article 2, point (1); and
+
+(b) non-exhaustive indicators and examples of market behaviour relating to market manipulation, as well as insider trading as referred to in Article 3.
+
+National regulatory authorities shall cooperate with the Agency and with each other, including at regional level, for the purpose of carrying out their duties in accordance with this Regulation.
+
+National regulatory authorities, competent financial authorities of the Member States, national competition authorities and national tax authorities shall establish appropriate forms of cooperation in order to ensure timely, effective and efficient investigation and enforcement and to contribute to a coherent and consistent approach to investigation, to judicial proceedings and to the enforcement of this Regulation and of the relevant financial and competition law.
+
+2\. National regulatory authorities shall without delay inform the Agency in as specific a manner as possible where they have reasonable grounds to suspect that acts in breach of this Regulation are being, or have been, carried out either in that Member State or in another Member State.
+
+Where a national regulatory authority suspects that acts which affect wholesale energy markets or the price of wholesale energy products in that Member State are being carried out in another Member State, it may request the Agency to take action in accordance with paragraph 4 of this Article and, if the acts affect financial instruments subject to Article 2 of Regulation (EU) No 596/2014  , in accordance with paragraph 3 of this Article.
+
+Before adopting a decision finding a breach of this Regulation, the national regulatory authority may inform the Agency and provide it with a summary of the case and the envisaged decision in an official language of the Member State concerned. After adopting a decision finding a breach of this Regulation, the national regulatory authority shall provide that decision to the Agency, including information on the date of its adoption, the name of the persons subject to penalties, the Article of this Regulation that has been breached and the penalty imposed. At the same time, the national regulatory authority shall indicate to the Agency what information it has disclosed to the public as referred to in Article 18(6) and shall promptly inform the Agency of any subsequent changes to such information. The Agency shall maintain a public list of information that the national regulatory authorities have disclosed to the public as referred to in Article 18(6).
+
+3\. In order to ensure a coordinated and consistent approach to market abuse on wholesale energy markets:
+
+(a) national regulatory authorities shall process reports of possible breaches of this Regulation without undue delay and, if possible, within one year of the date of receipt of those reports, and inform the competent financial authority of their Member State and the Agency where they have reasonable grounds to suspect that acts are being, or have been, carried out on wholesale energy markets which constitute market abuse within the meaning of Regulation (EU) No 596/2014 and which affect financial instruments subject to Article 2 of that Regulation; for those purposes, national regulatory authorities may establish appropriate forms of cooperation with the competent financial authority in their Member State;
+
+(b) the Agency shall inform ESMA and the competent financial authority where it has reasonable grounds to suspect that acts are being, or have been, carried out on wholesale energy markets which constitute market abuse within the meaning of Regulation (EU) No 596/2014  and which affect financial instruments subject to Article 2 of that Regulation  ;
+
+(c) the competent financial authority of a Member State shall inform ESMA and the Agency where it has reasonable grounds to suspect that acts in breach of Articles 3 and 5 are being, or have been, carried out on wholesale energy markets in another Member State;
+
+(d) national regulatory authorities shall inform the national competition authority of their Member State, the Commission and the Agency where they have reasonable grounds to suspect that acts are being, or have been, carried out on wholesale energy market which are likely to constitute a breach of competition law;
+
+(e) the Agency and the national regulatory authorities shall inform the competent national tax authorities and Eurofisc where they have reasonable grounds to suspect that acts are being, or have been, carried out on wholesale energy market which are likely to constitute tax fraud.
+
+4\. In order to carry out its functions under paragraph 1, where, inter alia, on the basis of initial assessments or analysis, the Agency suspects that there has been a breach of this Regulation, it shall have the power:
+
+(a) to request one or more national regulatory authorities to supply any information related to the suspected breach;
+
+(b) to request one or more national regulatory authorities to commence an investigation of the suspected breach, and to take appropriate action to remedy any breach found. Any decision as regards the appropriate action to be taken to remedy any breach found shall be the responsibility of the national regulatory authority concerned;
+
+(c) where it considers that the possible breach has, or has had, a cross-border impact, to establish and coordinate an investigatory group consisting of representatives of concerned national regulatory authorities to investigate whether this Regulation has been breached and in which Member State the breach took place. Where appropriate, the Agency may also request the participation of representatives of the competent financial authority or other relevant authority of one or more Member States in the investigatory group.
+
+5\. A national regulatory authority receiving a request for information under point (a) of paragraph 4, or receiving a request to commence an investigation of a suspected breach under point (b) of paragraph 4, shall immediately take the necessary measures in order to comply with that request. If that national regulatory authority is not able to supply the required information immediately, it shall without further delay notify the Agency of the reasons.
+
+By way of derogation from the first subparagraph, a national regulatory authority may refuse to act on a request where:
+
+(a) compliance might adversely affect the sovereignty or security of the Member State addressed;
+
+(b) judicial proceedings have already been initiated in respect of the same actions and against the same persons before the authorities of the Member State addressed; or
+
+(c) a final judgment has already been delivered in relation to such persons for the same actions in the Member State addressed.
+
+In any such case, the national regulatory authority shall notify the Agency accordingly, providing as detailed information as possible on those proceedings or the judgment.
+
+National regulatory authorities shall participate in an investigatory group convened in accordance with point (c) of paragraph 4, rendering all necessary assistance. The investigatory group shall be subject to coordination by the Agency.
+
+6\. The last sentence of Article 22(5) of Regulation (EU) 2019/942  shall not apply to the Agency when carrying out its tasks under this Regulation.
+
+### Article 16a — Delegation of tasks and responsibilities
+
+1\. National regulatory authorities may, with the consent of the delegate, delegate tasks and responsibilities to the Agency or to another national regulatory authority subject to the conditions set out in this Article. Member States may set out specific arrangements regarding the delegation of responsibilities that are to be complied with before their national regulatory authorities enter into delegation agreements and may limit the scope of delegation to what is necessary for the effective supervision of market participants or groups.
+
+The Agency may assist national regulatory authorities by issuing non-binding guidance or exchanging best practices on the delegation of tasks and responsibilities between competent national regulatory authorities.
+
+2\. The delegation of tasks and responsibilities shall result in the reallocation of competences laid down in this Regulation. The law of the Member States where the delegate is located shall govern the procedure, enforcement and administrative and judicial review relating to the delegated responsibilities.
+
+3\. The national regulatory authorities shall notify the Agency of any delegation agreements into which they intend to enter. They shall enter into those agreements at the earliest one month after informing the Agency.
+
+4\. The Agency may issue an opinion on an intended delegation agreement notified pursuant to paragraph 3 within one month of receipt of the notification.
+
+5\. The Agency shall publish, by appropriate means, any delegation agreement concluded by the national regulatory authorities, in order to ensure that all parties concerned are informed appropriately.
+
+### Article 16b — Guidelines and recommendations
+
+1\. The Agency shall, with a view to establishing consistent, efficient and effective supervisory practices within the Union, and to ensuring the common, uniform and consistent application of Union law, issue guidelines and recommendations addressed to all national regulatory authorities or all market participants and issue recommendations to one or more national regulatory authorities or to one or more market participants on the application of Articles 3 to 5a, 8, 9 and 9a and Article 10(1).
+
+2\. The Agency shall, within an adequate and realistic timeframe, conduct appropriate public consultations with relevant market participants regarding the guidelines and recommendations which it issues and analyse the related potential costs and benefits of issuing such guidelines and recommendations. Those consultations and analyses shall be proportionate to the scope, nature and impact of the guidelines or recommendations.
+
+3\. The national regulatory authorities and market participants shall take due account of those guidelines and recommendations.
+
+4\. National regulatory authorities may inform the Agency on a regular basis of the implementation of the guidelines or recommendations addressed to them.
+
+5\. If required by a guideline or recommendation, market participants shall notify the Agency about the implementation of the specific guideline or recommendation. Upon the Agency's request, market participants shall substantiate such notification in a clear and detailed manner.
+
+6\. Within 12 months of the issuance of guidelines or recommendations pursuant to paragraph 1, the Agency may conduct a consultation, including with national regulatory authorities or market participants, to assess the appropriateness and effectiveness of those guidelines or recommendations.
+
+7\. The Agency shall include the guidelines and recommendations that it has issued in the report referred to in Article 19(1), point (k), of Regulation (EU) 2019/942.
+
+### Article 17 — Professional secrecy
+
+1\. Any confidential information received, exchanged or transmitted pursuant to this Regulation shall be subject to the conditions of professional secrecy laid down in paragraphs 2, 3 and 4.
+
+2\. The obligation of professional secrecy shall apply to:
+
+(a) persons who work or who have worked for the Agency;
+
+(b) auditors and experts instructed by the Agency;
+
+(c) persons who work or who have worked for the national regulatory authorities or for other relevant authorities;
+
+(d) auditors and experts instructed by national regulatory authorities or by other relevant authorities who receive confidential information in accordance with this Regulation.
+
+3\. Confidential information received by the persons referred to in paragraph 2 in the course of their duties may not be divulged to any other person or authority, except in summary or aggregate form such that an individual market participant cannot be identified, without prejudice to cases covered by criminal law, the other provisions of this Regulation or other relevant Union law.
+
+4\. Without prejudice to cases covered by criminal law, the Agency, national regulatory authorities, competent financial authorities of the Member States, ESMA, bodies or persons which receive confidential information pursuant to this Regulation may use it only in the performance of their duties and for the exercise of their functions. Other authorities, bodies or persons may use that information for the purpose for which it was provided to them or in the context of administrative or judicial proceedings specifically related to the exercise of those functions. The authority receiving the information may use it for other purposes, provided that the Agency, national regulatory authorities, competent financial authorities of the Member States, ESMA, bodies or persons communicating information consent thereto.
+
+5\. This Article shall not prevent an authority in a Member State from exchanging or transmitting, in accordance with national law, confidential information provided that it has not been received from an authority of another Member State or from the Agency under this Regulation.
+
+### Article 18 — Penalties
+
+1\. The Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, dissuasive and proportionate, reflecting the nature, duration and seriousness of the infringement, the damage caused to consumers and the potential gains from trading on the basis of inside information and market manipulation.
+
+Without prejudice to any criminal penalties and without prejudice to supervisory powers of national regulatory authorities under Article 13, Member States shall, in accordance with national law, provide for national regulatory authorities to have the power to adopt appropriate administrative fines and other administrative measures in relation to the breaches of this Regulation as referred to in Article 13(1).
+
+The Member States shall notify, in detail, those provisions to the Commission and to the Agency and shall notify them without delay of any subsequent amendment affecting those provisions.
+
+2\. Where the legal system of the Member State does not provide for administrative fines, this Article may be applied in such a manner that the fining procedure is initiated by the competent authority and imposed by competent national courts, while ensuring that those legal remedies are effective and have an effect equivalent to the administrative fines imposed by supervisory authorities. In any event, the fines imposed shall be effective, proportionate and dissuasive. Those Member States shall notify the Commission of the provisions of their laws which they adopt pursuant to this paragraph by 8 May 2026 and shall notify the Commission, without delay, of any subsequent amendment affecting them.
+
+3\. Member States shall, in accordance with national law and subject to the ne bis in idem principle, ensure that the national regulatory authorities have the power to impose at least the following administrative fines and other administrative measures with regard to breaches of this Regulation:
+
+(a) require the breach to be brought to an end;
+
+(b) order the disgorgement of the profits gained or losses avoided due to the breaches insofar as they can be determined;
+
+(c) issue public warnings or notices;
+
+(d) impose periodic penalty payments;
+
+(e) impose administrative fines.
+
+4\. With regard to natural persons, maximum administrative fines referred to in paragraph 3, point (e), shall be as follows:
+
+(a) for breaches of Articles 3 and 5, at least EUR 5 000 000 ;
+
+(b) for breaches of Articles 4 and 15, at least EUR 1 000 000 ;
+
+(c) for breaches of Articles 8 and 9, at least EUR 500 000 .
+
+Notwithstanding paragraph 3, point (e), the amount of the administrative fine shall not exceed 20 % of the yearly income in the preceding calendar year of the natural person concerned. Where the natural person has directly or indirectly benefited financially from the breach, the amount of the administrative fine shall be at least equal to that benefit.
+
+5\. With regard to legal persons, maximum administrative fines referred to in paragraph 3, point (e), shall be as follows:
+
+(a) for breaches of Articles 3 and 5, at least 15 % of the total annual turnover in the preceding business year;
+
+(b) for breaches of Articles 4 and 15, at least 2 % of the total annual turnover in the preceding business year;
+
+(c) for breaches of Articles 8 and 9, at least 1 % of the total annual turnover in the preceding business year.
+
+Notwithstanding paragraph 3, point (e), the amount of the administrative fine shall not exceed 20 % of the total annual turnover in the preceding business year of the legal person concerned. Where the legal person has directly or indirectly benefited financially from the breach, the amount of the administrative fine shall be at least equal to that benefit.
+
+6\. Member States shall ensure that the national regulatory authority may disclose to the public measures or penalties imposed for infringement of this Regulation unless such disclosure would cause disproportionate damage to the parties involved.
+
+7\. Member States shall ensure that when determining the type and level of administrative fines and other administrative measures, national regulatory authorities take into account all relevant circumstances, including, where appropriate:
+
+(a) the gravity and duration of the infringement;
+
+(b) the degree of responsibility of the person responsible for the infringement;
+
+(c) the financial strength of the person responsible for the infringement, as indicated, for example, by the total annual turnover of a legal person or the yearly income of a natural person;
+
+(d) the importance of the profits gained or losses avoided by the person responsible for the infringement, insofar as they can be determined;
+
+(e) the level of cooperation of the person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+
+(f) previous infringements by the person responsible for the infringement;
+
+(g) measures taken by the person responsible for the infringement to prevent its repetition; and
+
+(h) the duplication of criminal and administrative proceedings and fines for the same infringement against the person responsible for the infringement.
+
+8\. In the exercise of their powers to impose administrative fines and other administrative measures under paragraph 1, second subparagraph, of this Article, national regulatory authorities shall cooperate closely to ensure that the exercise of their supervisory and investigative powers, and the administrative fines that they impose, and the other administrative measures that they take, are effective and appropriate under this Regulation. They shall coordinate their actions in accordance with Article 16(2) in order to avoid duplication and overlaps when exercising their supervisory and investigative powers and when imposing administrative fines in respect of cross-border cases.
+
+9\. By 8 May 2027 and every three years thereafter, the Commission shall submit a report to the European Parliament and to the Council, assessing whether penalties for breaches of this Regulation are provided for and applied consistently across the Member States.
+
+### Article 19 — International relations
+
+In so far as is necessary to achieve the objectives set out in this Regulation and without prejudice to the respective competences of the Member States and of the Union institutions and bodies, including the European External Action Service, the Agency may develop contacts and enter into administrative arrangements with supervisory authorities, international organisations and the administrations of third countries in particular with those impacting the Union energy wholesale market in order to promote the harmonisation of the regulatory framework. Those arrangements shall not create legal obligations in respect of the Union and its Member States, nor shall they prevent Member States and their competent authorities from concluding bilateral or multilateral arrangements with those supervisory authorities, international organisations and the administrations of third countries. Those arrangements may concern aspects of common interest, such as methodologies of data collection, analysis and assessment of data or other information, and other areas of expertise.
+
+### Article 20 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 6(1), points (a) and (b), shall be conferred on the Commission for a period of five years from 28 December 2011. The power to adopt delegated acts referred to in Article 4a(8), Article 6(1), point (c), and Article 9a(6) shall be conferred on the Commission for a period of five years from 7 May 2024.
+
+The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five year period.
+
+The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 4a(8), Article 6(1) and Article 9a(6) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 4a(8), Article 6(1) or Article 9a(6) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 21 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 21a — Report and review
+
+1\. By 1 June 2027, and every five years thereafter, the Commission shall, after consulting relevant stakeholders, assess the application of this Regulation, in particular as regards its impact on market behaviour, market participants, liquidity, reporting requirements, including on LNG market data, and the level of administrative burden for market participants, including the potential barriers to entry for new market participants, as well as the Agency’s performance in relation to its objectives, mandate and tasks. On the basis of those assessments, the Commission shall draw up a report and submit it without undue delay to the European Parliament and to the Council. Those reports shall be accompanied, where appropriate, by legislative proposals.
+
+2\. By 1 June 2025 the Commission shall assess the effectiveness of introducing criminal penalties by Member States for intentional and serious cases of market abuse on the Union wholesale energy markets and shall submit a report to the European Parliament and to the Council. The report may propose appropriate measures that may include the submission of a legislative proposal.
+
+### Article 22 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+Paragraph 1, the first subparagraph of paragraph 3, and paragraphs 4 and 5 of Article 8 shall apply with effect from 6 months after the date on which the Commission adopts the relevant implementing acts referred to in paragraphs 2 and 6 of that Article.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## COMMISSION STATEMENT
+
+The Commission considers that the thresholds for reporting transactions within the meaning of Article 8(2)(a) and information within the meaning of Article 8(6)(a) cannot be set through implementing acts.
+
+Where appropriate the Commission will come forward with a legislative proposal to set such thresholds.
+
+## COUNCIL STATEMENT
+
+The EU legislator has conferred on the Commission implementing powers in accordance with Article 291 TFEU in relation to measures foreseen in Article 8. That is legally binding for the Commission despite the declaration it made in respect to Article 8(2)(a) and Article 8(6)(a).
+
+( 1 ) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
+
+( 2 ) Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1).
+
+( 3 ) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+( 4 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 5 ) Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 2019 establishing a European Union Agency for the Cooperation of Energy Regulators (OJ L 158, 14.6.2019, p. 22).
+
+( 6 ) OJ L 211, 14.8.2009, p. 55.
+
+( 7 ) OJ L 211, 14.8.2009, p. 94.
+
+( 8 ) OJ L 193, 18.7.1983, p. 1.
+
+( 9 ) Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1).
+
+( 10 ) Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (OJ L 158, 14.6.2019, p. 54).
+
+( 11 ) OJ L 345, 23.12.2008, p. 75.
+
+( 12 ) OJ L 281, 23.11.1995, p. 31.
+
+( 13 ) OJ L 8, 12.1.2001, p. 1.

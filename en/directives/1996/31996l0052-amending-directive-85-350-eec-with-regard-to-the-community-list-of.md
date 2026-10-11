@@ -30,9 +30,11 @@ amending Directive 85/350/EEC with regard to the Community list of less-favoured
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Commission Decision of 23 March 1999</td><td> L 96</td><td>29</td><td>10.4.1999</td></tr>
+</table>
 
 COUNCIL DIRECTIVE 96/52/EC
 
@@ -114,6 +116,7 @@ Mindre gynnade områden i enlighet med artikel 3.4 i direktiv 75/268/EEG
 
 COUNTY CARLOW
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td>Clonegall</td><td>Monaughrim</td></tr>
 <tr><td rowspan="2">Cranemore</td><td>Bunnagurragh</td></tr>
@@ -121,9 +124,11 @@ COUNTY CARLOW
 <tr><td rowspan="2">Old Leighlin</td><td>Moanduff</td></tr>
 <tr><td>Old Leighlin</td></tr>
 </tbody>
+</table>
 
 COUNTY CORK
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="2">Ardagh</td><td>Ballydaheen</td></tr>
 <tr><td>Youghal Park</td></tr>
@@ -243,18 +248,22 @@ COUNTY CORK
 <tr><td>Cooles</td></tr>
 <tr><td>Sheskin</td></tr>
 </tbody>
+</table>
 
 COUNTY DUBLIN
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="4">Rathcoole</td><td>Badgerhill</td></tr>
 <tr><td>Calliaghstown Lower</td></tr>
 <tr><td>Farmersvale</td></tr>
 <tr><td>Newtown Upper</td></tr>
 </tbody>
+</table>
 
 COUNTY KILDARE
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="7">Ballynadrumny</td><td>Ballynadrumny</td></tr>
 <tr><td>Ballynakill</td></tr>
@@ -314,9 +323,11 @@ COUNTY KILDARE
 <tr><td>Dreenan</td></tr>
 <tr><td>Rathmore</td></tr>
 </tbody>
+</table>
 
 COUNTY KILKENNY
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td>Aghaviller</td><td>Carrickmerlin</td></tr>
 <tr><td>Callan rural</td><td>Ballyclovan Meadows</td></tr>
@@ -339,9 +350,11 @@ COUNTY KILKENNY
 <tr><td>Tullahought</td><td>Bregaun</td></tr>
 <tr><td>Ullid</td><td>Ballydaw</td></tr>
 </tbody>
+</table>
 
 COUNTY LAOIS
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="8">Abbeyleix</td><td>Ballymullen</td></tr>
 <tr><td>Clonkeen</td></tr>
@@ -469,9 +482,11 @@ COUNTY LAOIS
 <tr><td>Gorteen</td></tr>
 <tr><td>Trumra</td></tr>
 </tbody>
+</table>
 
 COUNTY LIMERICK
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td>Adare North</td><td>Clorhane</td></tr>
 <tr><td rowspan="7">Ardagh</td><td>Ardagh</td></tr>
@@ -543,9 +558,11 @@ COUNTY LIMERICK
 <tr><td rowspan="2">Templebredon</td><td>Ballyneety</td></tr>
 <tr><td>Ballyneety South</td></tr>
 </tbody>
+</table>
 
 COUNTY LOUTH
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td>Castlering</td><td>Chanonrock</td></tr>
 <tr><td rowspan="10">Clonkeen</td><td>Annagh</td></tr>
@@ -565,9 +582,11 @@ COUNTY LOUTH
 <tr><td>Tullyesker</td></tr>
 <tr><td>Tallanstown</td><td>Nicholastown</td></tr>
 </tbody>
+</table>
 
 COUNTY MEATH
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="3">Ardnamullen</td><td>Aghagillagh</td></tr>
 <tr><td>Bogstown or Moydrum</td></tr>
@@ -619,9 +638,11 @@ COUNTY MEATH
 <tr><td>Knockmooney</td></tr>
 <tr><td>Mooretown</td></tr>
 </tbody>
+</table>
 
 COUNTY OFFALY
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="3">Aghancon</td><td>Glenacurragh</td></tr>
 <tr><td>Marymount</td></tr>
@@ -743,9 +764,11 @@ COUNTY OFFALY
 <tr><td>Tara</td></tr>
 <tr><td>Templeharry</td><td>Ballintemple</td></tr>
 </tbody>
+</table>
 
 COUNTY TIPPERARY
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="3">Ardsallagh</td><td>Buffanagh</td></tr>
 <tr><td>Clonbrogan</td></tr>
@@ -813,9 +836,11 @@ COUNTY TIPPERARY
 <tr><td>Loughaun</td></tr>
 <tr><td>Toorfune</td></tr>
 </tbody>
+</table>
 
 COUNTY WATERFORD
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="7">Ballyduff</td><td>Ahaun</td></tr>
 <tr><td>Ballyduff</td></tr>
@@ -864,9 +889,11 @@ COUNTY WATERFORD
 <tr><td rowspan="2">Tallow</td><td>Glennaglogh</td></tr>
 <tr><td>Kilcalfmountain</td></tr>
 </tbody>
+</table>
 
 COUNTY WESTMEATH
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="4">Ardnaglew</td><td>Aghuldred</td></tr>
 <tr><td>Ardnaglew</td></tr>
@@ -1046,9 +1073,11 @@ COUNTY WESTMEATH
 <tr><td>Walshestown North</td></tr>
 <tr><td>Walshestown South</td></tr>
 </tbody>
+</table>
 
 COUNTY WEXFORD
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td>Ballyanne</td><td>Ballynacoolagh</td></tr>
 <tr><td rowspan="6">Ballynestragh</td><td>Ballydermot</td></tr>
@@ -1106,9 +1135,11 @@ COUNTY WEXFORD
 <tr><td>Rathaspick</td><td>Dennistown</td></tr>
 <tr><td>Wells</td><td>Coolharbour</td></tr>
 </tbody>
+</table>
 
 COUNTY WICKLOW
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="4"> Dunganstown  (East/South/West) </td><td>Ballynagran</td></tr>
 <tr><td>Ballyvaltron</td></tr>
@@ -1129,6 +1160,7 @@ COUNTY WICKLOW
 <tr><td>Kilpedder West</td></tr>
 <tr><td>Seaview</td></tr>
 </tbody>
+</table>
 
 ANEXO II
 
@@ -1182,6 +1214,7 @@ COUNTY CORK
 
 COUNTY LIMERICK
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="10">Craggs</td><td>Ardaneer</td></tr>
 <tr><td>Churchfield</td></tr>
@@ -1205,9 +1238,11 @@ COUNTY LIMERICK
 <tr><td>Shanid Lower</td></tr>
 <tr><td>Shanid Upper</td></tr>
 </tbody>
+</table>
 
 COUNTY LOUTH
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="5">Dundalk Rural</td><td>Demesne</td></tr>
 <tr><td>Marshes Lower</td></tr>
@@ -1215,9 +1250,11 @@ COUNTY LOUTH
 <tr><td>Mounthamilton</td></tr>
 <tr><td>Townparks</td></tr>
 </tbody>
+</table>
 
 COUNTY WATERFORD
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="7">Glenwilliam</td><td>Ballyeelinan</td></tr>
 <tr><td>Ballynagleragh</td></tr>
@@ -1228,9 +1265,11 @@ COUNTY WATERFORD
 <tr><td>Tonteeheige</td></tr>
 <tr><td>Grange</td><td>Addrigoole</td></tr>
 </tbody>
+</table>
 
 COUNTY WEXFORD
 
+<table>
 <tbody><tr><td>District electoral division</td><td>Townland(s)</td></tr>
 <tr><td rowspan="9">Ballyvaldon</td><td>Ballintubbrid</td></tr>
 <tr><td>Ballyvoodock</td></tr>
@@ -1300,6 +1339,7 @@ COUNTY WEXFORD
 <tr><td>Tomhaggard</td></tr>
 <tr><td>Walshestown</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1. Directive as last amended by the 1994 Act of Accession.
 

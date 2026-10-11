@@ -1,0 +1,64 @@
+---
+title: "Commission Delegated Regulation (EU) 2020/988 of 12 March 2020 correcting certain language versions of Delegated Regulation (EU) 2015/35 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (Text with EEA relevance)"
+identifier: "32020R0988"
+eli: "http://data.europa.eu/eli/reg_del/2020/988/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2020-03-12
+entry_into_force: 2020-10-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0988"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2020/988 of 12 March 2020 correcting certain language versions of Delegated Regulation (EU) 2015/35 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/988**
+
+**of 12 March 2020**
+
+**correcting certain language versions of Delegated Regulation (EU) 2015/35 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (1), and in particular Article 86(1)(a) and Article 111(1)(b), (c) and (f) thereof,
+
+Whereas:
+
+(1) The German language version of Commission Delegated Regulation (EU) 2015/35 (2) contains an error in the introductory sentence of the first subparagraph of Article 18(5) that renders the meaning of the provision opposite to the one intended.
+
+(2) The German language version of Delegated Regulation (EU) 2015/35 contains errors in Article 116(3)(d)(ii) and Article 147(3)(d)(ii) that alter the meaning of the text.
+
+(3) The Danish language version of Delegated Regulation (EU) 2015/35 contains errors in Article 209(3)(h) and (i) that render the meaning of the provision opposite to the one intended.
+
+(4) The Danish and German language versions of Delegated Regulation (EU) 2015/35 should therefore be corrected accordingly. The other language versions are not affected,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(does not concern the English language)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 March 2020.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 335, 17.12.2009, p. 1.
+
+(2) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 12, 17.1.2015, p. 1).

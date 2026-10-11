@@ -1,0 +1,748 @@
+---
+title: "Commission Implementing Regulation (EU) No 1189/2011 of 18 November 2011 laying down detailed rules in relation to certain provisions of Council Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures"
+identifier: "32011R1189"
+eli: "http://data.europa.eu/eli/reg_impl/2011/1189/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2011-11-18
+entry_into_force: 2012-01-01
+last_amended: 2017-11-17
+consolidated_version: "02011R1189-20171117"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R1189-20171117"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1189/2011 of 18 November 2011 laying down detailed rules in relation to certain provisions of Council Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1189/2011**
+
+**of 18 November 2011**
+
+**laying down detailed rules in relation to certain provisions of Council Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1966 of 27 October 2017 </td><td> L 279</td><td>38</td><td>28.10.2017</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1189/2011**
+
+**of 18 November 2011**
+
+**laying down detailed rules in relation to certain provisions of Council Directive 2010/24/EU concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1
+
+This Regulation lays down the detailed rules for implementing Article 5(1), Articles 8, 10, 12(1), Article 13(2), (3), (4) and (5), Articles 15, 16(1) and 21(1) of Directive 2010/24/EU, including the detailed rules on conversion, transfer of sums recovered, as well as the means by which communications between authorities may be transmitted.
+
+### Article 2
+
+1\. All requests for information, notification, recovery or precautionary measures pursuant to Articles 5(1), 8, 10 and 16(1) of Directive 2010/24/EU (hereinafter ‘the requests for assistance’) and all accompanying instruments, forms and other documents, as well as any other information communicated with regard to these requests shall be sent by the CCN network, unless this is impracticable for technical reasons.
+
+2\. Documents transmitted in electronic form or print outs thereof shall be deemed to have the same legal effect as documents transmitted by post.
+
+3\. If a request cannot be transmitted by CCN network, it shall be transmitted by post. In that case the following rules shall apply:
+
+(a) the request shall be signed by an official of the applicant authority, duly authorised to make such a request;
+
+(b) the standard form accompanying the notification request, referred to in the second subparagraph of Article 8(1) of Directive 2010/24/EU (hereafter ‘the uniform notification form’) or the uniform instrument permitting enforcement in the requested Member State referred to in Article 12 of that Directive shall be signed by a duly authorized official of the applicant authority;
+
+(c) if the request is accompanied by a copy of a document other than the uniform notification form or the uniform instrument permitting enforcement in the requested Member State, the applicant authority shall certify the conformity of this copy with the original, by stating in this copy, in the official language or one of the official languages of the Member State in which it is situated, the words ‘certified a true copy’, the name of the certifying official and the date of that certification.
+
+For the purposes of point (b) of the first subparagraph, the Member States shall use the uniform notification form established in accordance with the model set out in Annex I to this Regulation and the uniform instrument permitting enforcement in the requested Member State established in accordance with the model set out in Annex II to this Regulation.
+
+4\. Where the uniform notification form or the uniform instrument permitting enforcement in the requested Member State are transmitted by electronic means, their structure and lay-out may be adapted to the requirements of the electronic communication system in order to facilitate the communication between the competent authorities, provided that the set of data and information therein is not substantially altered with regard to the models set out in Annexes I and II.
+
+### Article 3
+
+1\. The applicant authority may make a request for assistance in respect of either a single claim or several claims where those are recoverable from one and the same person.
+
+2\. A request for information, recovery or precautionary measures may relate to any of the following persons:
+
+(a) the principal debtor or a co-debtor;
+
+(b) a person other than a (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures under the law in force in the Member State in which the applicant authority is situated;
+
+(c) any third party holding assets belonging to or having debts towards one of the persons referred to in points (a) or (b).
+
+### Article 4
+
+Information and other particulars communicated by the requested authority to the applicant authority pursuant to Articles 5(1), 8, 10 and 16(1) of Directive 2010/24/EU shall be conveyed in the official language or one of the official languages of the Member State of the requested authority or in another language agreed between the applicant and requested authorities.
+
+### Article 5
+
+If the requested authority refuses to handle a request for assistance, it shall notify the applicant authority of the reasons for its refusal, specifying the provisions of Directive 2010/24/EU on which it relies. Such notification shall be given by the requested authority as soon as it has taken its decision and in any event within 1 month of the date of the acknowledgement of the receipt of the request.
+
+### Article 6
+
+Each request for information or for recovery or precautionary measures shall indicate whether a similar request has been addressed to any other authority.
+
+## CHAPTER II — REQUESTS FOR INFORMATION
+
+### Article 7
+
+The requested authority shall acknowledge receipt of the request for information as soon as possible and in any event within seven calendar days of such receipt.
+
+Upon receipt of the request the requested authority shall, where appropriate, ask the applicant authority to provide any additional information necessary. The applicant authority shall provide all additional necessary information to which it normally has access.
+
+### Article 8
+
+1\. The requested authority shall transmit each item of requested information to the applicant authority as and when it is obtained.
+
+2\. Where, with respect to the particularity of a case, all or some of the requested information cannot be obtained within a reasonable time the requested authority shall inform the applicant authority thereof and state the reasons.
+
+In any event, at the end of 6 months from the date of acknowledgement of receipt of the request, the requested authority shall inform the applicant authority of the outcome of the investigations which it has conducted in order to obtain the information requested.
+
+On the basis of the information received from the requested authority, the applicant authority may request the requested authority to continue its investigation. That request shall be made within 2 months of the receipt of the notification of the outcome of the investigations carried out by the requested authority, and shall be treated by the requested authority in accordance with the provisions applying to the initial request.
+
+### Article 9
+
+The applicant authority may, at any time, withdraw the request for information which it has sent to the requested authority. The decision to withdraw shall be transmitted to the requested authority.
+
+## CHAPTER III — REQUESTS FOR NOTIFICATION
+
+### Article 10
+
+1\. Any request for notification shall include the original or a certified copy of each document, notification of which is requested.
+
+The uniform notification form accompanying the request pursuant to the second subparagraph of Article 8(1) of Directive 2010/24/EU shall be completed by or under the responsibility of the applicant authority. It shall provide information to the addressee with regard to the documents for which notification assistance has been requested.
+
+2\. With regard to the information mentioned in the uniform notification form, the following shall apply:
+
+(a) the amount of the claim shall be mentioned where already established;
+
+(b) the indication of the period within which notification is to be effected may be done by an indication of the date before which the applicant authority intends the notification to take place.
+
+### Article 11
+
+The request for notification may relate to any person referred to in Article 3(c) of Directive 2010/24/EU who, in accordance with the law in force in the applicant Member State, is required to be informed of any document which concerns that person.
+
+### Article 12
+
+1\. The requested authority shall acknowledge receipt of the request for notification as soon as possible and in any event within seven calendar days of such receipt.
+
+Upon receipt of the request for notification, the requested authority shall take the necessary measures to effect notification in accordance with the law in force in the Member State in which it is situated.
+
+If necessary, without prejudice to the final date for notification indicated in the request for notification, the requested authority shall ask the applicant authority to provide additional information.
+
+The applicant authority shall provide all additional information to which it normally has access.
+
+2\. The requested authority shall inform the applicant authority of the date and the manner of notification as soon as this has been effected, by certifying the notification in the request form returned to the applicant authority.
+
+### Article 13
+
+1\. A notification made by the requested Member State in accordance with the national laws, regulations and administrative practices in force in that State, shall be deemed to have the same effect in the applicant Member State as if it had been made by the applicant Member State itself in accordance with the national laws, regulations and administrative practices in force in the applicant Member State.
+
+2\. A notification of a document relating to more than one type of tax, duty or other measure, shall be deemed valid if it is made by an authority of the requested Member State which is competent for at least one of the taxes, duties or other measures mentioned in the notified document, provided that it is allowed under the national law of the requested Member State.
+
+### Article 14
+
+For the purposes of notification, the requested Member State may use the uniform notification form, referred to in Article 10(1) in its official language or in one of its official languages in accordance with its national law.
+
+## CHAPTER IV — REQUESTS FOR RECOVERY OR FOR PRECAUTIONARY MEASURES
+
+### Article 15
+
+1\. Requests for recovery or for precautionary measures shall include a declaration that the conditions laid down in Directive 2010/24/EU for initiating the mutual assistance procedure have been fulfilled.
+
+2\. In case of a request for precautionary measures, this declaration may be supplemented by a declaration specifying the reasons and circumstances of the request, established in accordance with the model set out in Annex III.
+
+### Article 16
+
+1\. The uniform instrument permitting enforcement in the requested Member State accompanying the request for recovery or for precautionary measures shall be completed by or under the responsibility of the applicant authority, on the basis of the initial instrument permitting enforcement in the applicant Member State.
+
+The administrative penalties, fines, fees and surcharges referred to in Article 2(2)(a) of Directive 2010/24/EU and the interest and costs referred to in Article 2(2)(c) of that Directive which, in accordance with the rules in force in the applicant Member State, may be due from the date of the initial instrument permitting enforcement until the date before the date on which the recovery request is sent, may be added in the uniform instrument permitting enforcement in the requested Member State.
+
+2\. A single uniform instrument permitting enforcement in the requested Member State may be issued in respect of several claims and several persons, corresponding to the initial instrument or instruments permitting enforcement in the applicant Member State.
+
+3\. In so far as initial instruments permitting enforcement for several claims in the applicant Member State have already been replaced by a global instrument permitting enforcement for all these claims in that Member State, the uniform instrument permitting enforcement in the requested Member State may be based on the initial instruments permitting enforcement in the applicant Member State or on that global instrument regrouping those initial instruments in the applicant Member State.
+
+3a. Where the initial instrument referred to in paragraph 2 or the global instrument referred to in paragraph 3 contains several claims, one or more of which have already been collected or recovered, the uniform instrument permitting enforcement in the requested Member State shall only refer to those claims for which recovery assistance is requested.
+
+3b. Where the initial instrument referred to in paragraph 2 or the global instrument referred to in paragraph 3 contains several claims, the applicant authority may list those claims in different uniform instruments permitting enforcement in the requested Member State, in line with the tax type related division of competences of the respective recovery offices in the requested Member State.
+
+4\. In order to enforce the claims for which recovery assistance is requested, the requested Member State may use the uniform instrument permitting enforcement in that Member State in its official language or in one of its official languages in accordance with its national law.
+
+### Article 17
+
+The addressee of a request for recovery or precautionary measures may not rely on the notification or communication of the uniform instrument permitting enforcement in the requested Member State to claim a prolongation or a re-opening of the time period to contest the claim or the initial instrument permitting enforcement if that has been validly notified.
+
+### Article 18
+
+1\. If the currency of the requested Member State is different from the currency of the applicant Member State, the applicant authority shall express the amount of the claim to be recovered in both currencies.
+
+2\. The exchange rate to be used for the purposes of the recovery assistance shall be the exchange rate published by the European Central Bank on the date before the date the request is sent. Where there is no such rate available on that date, the exchange rate used shall be the latest exchange rate published by the European Central Bank before the date the request is sent.
+
+### Article 19
+
+1\. The requested authority shall, as soon as possible or in any event within seven calendar days of receipt of the request for recovery or for precautionary measures, acknowledge the receipt of the request.
+
+2\. The requested authority may ask the applicant authority to provide additional information or to complete the uniform instrument permitting enforcement in the requested Member State, if required. The applicant authority shall provide all additional necessary information to which it normally has access.
+
+### Article 20
+
+1\. Where, with respect to the particularity of a case, all or part of the claim cannot be recovered or precautionary measures cannot be taken within a reasonable time, the requested authority shall inform the applicant authority thereof and state the reasons.
+
+On the basis of the information received from the requested authority, the applicant authority may request the latter to re-open the procedure for recovery or for precautionary measures. That request shall be made within 2 months of the receipt of the notification of the outcome of that procedure, and shall be treated by the requested authority in accordance with the provisions applying to the initial request.
+
+2\. No later than at the end of each six-month period following the date of acknowledgement of the receipt of the request, the requested authority shall inform the applicant authority of the state of progress or the outcome of the procedure for recovery or for precautionary measures.
+
+### Article 21
+
+1\. Any action contesting the claim or the instrument permitting its enforcement which is taken in the Member State of the applicant authority shall be notified to the requested authority by the applicant authority immediately after the applicant authority has been informed of such action.
+
+2\. If the laws, regulations and administrative practices in force in the requested Member State do not permit precautionary measures or the recovery requested under the second and third subparagraphs of Article 14(4) of Directive 2010/24/EU, the requested authority shall notify the applicant authority thereof as soon as possible and in any event within 1 month of the receipt of the notification referred to in paragraph 1.
+
+3\. The requested authority shall notify any action taken in the requested Member State for reimbursement of sums recovered or for compensation in relation to recovery of contested claims under the third subparagraph of Article 14(4) of Directive 2010/24/EU to the applicant authority immediately after the requested authority has been informed of such action.
+
+The requested authority shall as far as possible involve the applicant authority in the procedures for settling the amount to be reimbursed and the compensation due. Upon a reasoned request from the requested authority, the applicant authority shall transfer the sums reimbursed and the compensation paid within 2 months of the receipt of that request.
+
+### Article 22
+
+1\. If the request for recovery or for precautionary measures becomes devoid of purpose as a result of payment of the claim or of its cancellation or for any other reason, the applicant authority shall immediately inform the requested authority so that the latter may stop any action which it has undertaken.
+
+2\. Where the amount of the claim which is the subject of the request for recovery or for precautionary measures is adjusted by a decision of the competent body referred to in Article 14(1) of Directive 2010/24/EU, the applicant authority shall inform the requested authority of that decision and, if recovery is requested, communicate a revised uniform instrument permitting enforcement in the requested Member State. This revised uniform instrument permitting enforcement in the requested Member State shall be made by or under the responsibility of the applicant authority, on the basis of the decision adjusting the amount of the claim.
+
+3\. A revised uniform instrument permitting enforcement in the requested Member State does not have any consequences with regard to the possibilities to contest the initial claim, the initial instrument permitting enforcement in the applicant Member State or the decision referred to in the preceding subparagraph.
+
+4\. If the adjustment referred to in paragraph 2 entails a reduction in the amount of the claim, the requested authority shall continue its action to take recovery or precautionary measures, but that action shall be limited to the amount still outstanding.
+
+If, at the time when the requested authority is informed of the reduction in the amount of the claim, an amount exceeding the amount still outstanding has already been recovered by it but the transfer procedure referred to in Article 23 has not yet been initiated, the requested authority shall repay the amount overpaid to the person entitled thereto.
+
+5\. Where the adjustment referred to in paragraph 2 entails an increase in the amount of the claim, the applicant authority may address to the requested authority an amended request for recovery or for precautionary measures.
+
+That amended request shall, as far as possible, be dealt with by the requested authority at the same time as the initial request from the applicant authority. Where, in view of the state of progress of the existing procedure, consolidation of the amended request with the initial request is not possible, the requested authority shall comply with the amended request only if it concerns an amount not less than that referred to in Article 18(3) of Directive 2010/24/EU.
+
+6\. In order to convert the amount of the claim resulting from the adjustment referred to in paragraph 2 into the currency of the Member State of the requested authority, the applicant authority shall use the exchange rate used in its initial request.
+
+### Article 23
+
+1\. The amounts that have to be remitted to the applicant authority, in accordance with Article 13(5) of Directive 2010/24/EU, shall be transferred to the applicant authority in Euro unless the Member States have agreed to transfer recovered amounts in another currency.
+
+The transfer of the recovered amounts shall take place within two months of the date on which recovery was effected unless otherwise agreed between the Member States.
+
+However, if recovery measures applied by the requested authority are contested for a reason not falling within the responsibility of the applicant Member State, the requested authority may wait to transfer any sums recovered in relation to the applicant Member State’s claim, until the dispute is settled, if the following conditions are simultaneously fulfilled:
+
+(a) the requested authority finds it likely that the outcome of this contestation will be favorable to the party concerned, and
+
+(b) the applicant authority has not declared that it will reimburse the sums already transferred if the outcome of that contestation is favorable to the party concerned.
+
+If the applicant authority has made a declaration to reimburse in accordance with point (b) of the third subparagraph, it shall return the recovered amounts already transferred by the requested authority within 1 month of the receipt of the request for reimbursement. Any other compensation due shall, in that case, be borne solely by the requested authority.
+
+2\. The competent authorities of the Member States may agree on different arrangements for the transfer of amounts below the threshold applied in accordance with Article 18(3) of Directive 2010/24/EU.
+
+### Article 24
+
+Regardless of any amounts collected by the requested authority by way of the interest referred to in Article 13(4) of Directive 2010/24/EU, a claim shall be deemed recovered in proportion to the recovery of the amount expressed in the national currency of the Member State of the requested authority, on the basis of the exchange rate referred to in Article 18(2) of this Regulation.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 25
+
+Regulation (EC) No 1179/2008 is hereby repealed.
+
+### Article 26
+
+This Regulation shall enter into force the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Uniform notification form providing information about notified document(s)**
+
+**(to be transmitted to the addressee of the notification) ( 1 ) ( 2 )**
+
+This document, established in accordance with □ Article 10 of Commission Implementing Regulation (EU) No 1189/2011 accompanies document(s) hereby notified by the competent authority of the following State: [name of requested State].
+
+This notification concerns documents of the competent authorities of the following State: [name of applicant State], which asked for notification assistance, in accordance with □ Article 8 of Council Directive 2010/24/EU.
+
+**A. ADDRESSEE OF THE NOTIFICATION**
+
+— Name:
+
+— Address (known or assumed):
+
+— Other data relevant to the identification of the addressee:
+
+**B. PURPOSE OF THE NOTIFICATION**
+
+This notification is intended:
+
+□ to inform the addressee, about the document(s) to which this document is attached.
+
+□ to interrupt the period of limitation with regard to the claim(s) mentioned in the notified document(s).
+
+□ to confirm the addressee, about his/her obligation to pay the amounts mentioned under point D.
+
+Please note that in case of non-payment, the authorities may take enforcement and/or precautionary measures to ensure the recovery of the claim(s). This may cause extra costs charged to the addressee.
+
+You are the addressee of this notification, as you are considered to be:
+
+□ the principal debtor
+
+□ a co-debtor
+
+□ a person other than the (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures, under the laws in force in the applicant State
+
+□ a person other than the (co-)debtor, holding assets belonging to, or having debts towards, the (co-)debtor or to any other person liable
+
+□ a third party which may become affected by enforcement measures concerning other persons
+
+(The following information will appear if the addressee of the notification is a person other than the (co-)debtor, holding assets belonging to, or having debts towards, the (co-)debtor or to any other person liable, or a third party which may become affected by enforcement measures concerning other persons:
+
+The notified documents concern claims relating to taxes and duties, for which the following person(s) is (are) liable as
+
+□ the principal debtor: [name and address (known or assumed)]
+
+□ a co-debtor: [name and address (known or assumed)]
+
+□ a person other than the (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures, under the laws in force in the applicant State: [name and address (known or assumed)]).
+
+The applicant authority of the applicant State (name of the applicant State) invited the competent authorities of the requested State (name of the requested State) to make this notification before [date]. Please note that this date is not specifically related to any period of limitation.
+
+**C. OFFICE(S) RESPONSIBLE FOR THE NOTIFIED DOCUMENT(S)**
+
+Office responsible with regard to the attached document(s):
+
+— Name:
+
+— Address:
+
+— Other contact details:
+
+— Language(s) in which this office can be contacted:
+
+Further information about □ the notified document(s) □ and/or the possibility to contest the obligations can be obtained
+
+□ at the abovementioned office responsible with regard to the attached document(s), and/or
+
+□ from the following office:
+
+— Name:
+
+— Address:
+
+— Other contact details:
+
+— Language(s) in which this office can be contacted:
+
+**D. DESCRIPTION OF THE NOTIFIED DOCUMENT(S)**
+
+Document [number]
+
+— Reference number:
+
+— Date of establishment:
+
+— Nature of the notified document:
+
+□ Tax assessment
+
+□ Payment order
+
+□ Decision following an administrative appeal
+
+□ Other administrative document:
+
+□ Judgment or order of:
+
+□ Other judicial document:
+
+— Name of the claim(s) concerned (in the language of the applicant State):
+
+— Nature of the claim(s) concerned:
+
+□ a) customs duties
+
+□ b) value added tax
+
+□ c) excise duties
+
+□ d) tax on income or capital
+
+□ e) tax on insurance premiums
+
+□ f) inheritance and gift taxes
+
+□ g) national taxes and duties on immovable property, other than the abovementioned ones
+
+□ h) national taxes and duties on the use or ownership of means of transport
+
+□ i) ther taxes and duties levied by or on behalf of the applicant State
+
+□ j) taxes and duties levied by or on behalf of territorial or administrative subdivisions of the applicant State, excluding taxes and duties levied by local authorities
+
+□ k) taxes and duties levied by or on behalf of local authorities
+
+□ l) other tax-based claim
+
+□ m) refunds, interventions and other measures forming part of the system of total or partial financing of the European Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD), including sums to be collected in connection with these actions, and levies and other duties provided for under the common organisation of the market for the sugar sector
+
+— Amount of the claim(s) concerned:
+
+□ Principal amount:
+
+□ Administrative penalties and fines:
+
+□ Interest up to [date]:
+
+□ Costs up to [date]:
+
+□ Fees for certificates and similar documents issued in connection with administrative procedures related to the claim mentioned under point [x]:
+
+□ Total amount for this (these) claim(s):
+
+— The amount mentioned under point [x] should be paid:
+
+□ before:
+
+□ within [number] days following the date of this notification
+
+□ without any further delay
+
+— This payment should be made to:
+
+— Holder of the bank account:
+
+— International Bank Account Number (IBAN):
+
+— Bank Identification Code (BIC):
+
+— Name of the bank:
+
+— Reference to be used for the payment:
+
+— The addressee can reply to the document(s) that is (are) hereby notified.
+
+□ Last day for replying:
+
+□ Time period for replying:
+
+— Name and address of the authority to whom a reply can be sent:
+
+— Possibility to contest:
+
+□ The period to contest the claim or the notified document(s) has already come to its end.
+
+□ Last day for contesting the claim:
+
+□ Time period to contest the claim: [number of days] following
+
+□ the date of this notification.
+
+□ the establishment of the notified document(s)
+
+□ another date:
+
+— Name and address of the authority where a contestation has to be submitted:
+
+Please note that disputes concerning the claim, the instrument permitting enforcement or any other document originating from the authorities of the applicant State (name of applicant State), fall within the competence of the competent bodies of the applicant State (name of applicant State), in accordance with □ Article 14 of Directive 2010/24/EU.
+
+Any such dispute is governed by the procedural and language rules applying in the applicant State (name of applicant State).
+
+□ Please note that the recovery may begin before the end of the period within which the claim may be contested.
+
+— Other information:
+
+## ANNEX II
+
+**Uniform instrument permitting enforcement of claims covered by □ Directive 2010/24/EU ( 3 ) ( 4 )**
+
+**□ UNIFORM INSTRUMENT PERMITTING ENFORCEMENT OF CLAIMS COVERED BY □ DIRECTIVE 2010/24/EU**
+
+— Date of issue:
+
+— Reference number:
+
+**□ REVISED UNIFORM INSTRUMENT PERMITTING ENFORCEMENT OF CLAIMS COVERED BY □ DIRECTIVE 2010/24/EU**
+
+— Date of issue of the original uniform instrument:
+
+— Date of revision:
+
+— Reason for the revision:
+
+□ judgment or order of [name of the Court]of [date]
+
+□ administrative decision of [date]
+
+— Reference number:
+
+State where this document is issued: [name of applicant State]
+
+□ Each EU Member State can request recovery assistance from other Member States for unpaid claims referred to in Article 2 of Directive 2010/24/EU. This Directive has been adopted by the Council of the European Union on 16 March 2010 and is to be applied in all EU Member States.
+
+Recovery measures taken by the requested State are based on:
+
+□ a uniform instrument permitting enforcement, in accordance with □ Article 12 of Directive 2010/24/EU.
+
+□ a revised uniform instrument permitting enforcement, in accordance with □ Article 15 of Directive 2010/24/EU (to take account of the decision of the competent body referred to in Article 14(1) of that Directive).
+
+This document is the uniform instrument permitting enforcement (including precautionary measures). It concerns the claim(s) mentioned below, which remain(s) unpaid in the applicant State (name of applicant State). The initial instrument for the enforcement of this/these claim(s) has been notified in so far as required under the national law of the applicant State (name of applicant State).
+
+Disputes concerning the claim(s) fall exclusively within the competence of the competent bodies of the applicant State (name of applicant State), in accordance with □ Article 14 of Directive 2010/24/EU. Any such action shall be brought before them in accordance with the procedural and language rules in force in the applicant State (name of applicant State).
+
+**DESCRIPTION OF THE CLAIM(S) AND THE PERSON(S) CONCERNED**
+
+**Identification of the claim(s) [number]**
+
+1\. Reference:
+
+2\. Nature of the claim(s) concerned:
+
+□ a) customs duties
+
+□ b) value added tax
+
+□ c) excise duties
+
+□ d) tax on income or capital
+
+□ e) tax on insurance premiums
+
+□ f) inheritance and gift taxes
+
+□ g) national taxes and duties on immovable property, other than the abovementioned ones
+
+□ h) national taxes and duties on the use or ownership of means of transport
+
+□ i) other taxes and duties levied by or on behalf of the (applicant) State
+
+□ j) taxes and duties levied by or on behalf of territorial or administrative subdivisions of the (applicant) State, excluding taxes and duties levied by local authorities
+
+□ k) taxes and duties levied by or on behalf of local authorities
+
+□ l) other tax-based claim
+
+□ m) refunds, interventions and other measures forming part of the system of total or partial financing of the European Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD), including sums to be collected in connection with these actions, and levies and other duties provided for under the common organisation of the market for the sugar sector
+
+3\. Name of the tax/duty concerned:
+
+4\. Period or date concerned:
+
+5\. Date of establishment of the claim:
+
+6\. Date on which enforcement becomes possible:
+
+7\. Amount of the claim still due:
+
+□ principal amount:
+
+□ administrative penalties and fines:
+
+□ interest till date before the day the request is sent:
+
+□ costs till date before the day the request is sent:
+
+□ fees for certificates and similar documents issued in connection with administrative procedures related to the tax/duty concerned:
+
+□ total amount of this claim:
+
+8\. Date of notification of the initial instrument permitting enforcement in the applicant State: (name of the applicant State):
+
+□ Date:
+
+□ No date available
+
+9\. Office responsible for the assessment of the claim:
+
+— Name:
+
+— Address:
+
+— Other contact details:
+
+— Language(s) in which this office can be contacted:
+
+10\. Further information concerning the claim or the possibilities for contesting the payment obligation can be obtained from:
+
+□ the office indicated above
+
+□ the following office responsible for the Uniform instrument permitting enforcement:
+
+— Name:
+
+— Address:
+
+— Other contact details:
+
+— Language(s) in which this office can be contacted:
+
+**Identification of the person(s) concerned in the national instrument(s) permitting enforcement**
+
+a) The following person is mentioned in the national instrument(s) permitting enforcement
+
+□ natural person
+
+□ other
+
+— Name
+
+— Address (known or assumed)
+
+— Other data relevant to the identification of the addressee
+
+□ Legal representative
+
+— Name
+
+— Address (known or assumed)
+
+— Other data relevant to the identification of the addressee
+
+Cause of liability:
+
+□ principal debtor
+
+□ a co-debtor
+
+□ a person other than the (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures under the laws in force in the applicant State
+
+b) the following person(s) is (are) also mentioned in the national instrument(s) permitting enforcement:
+
+□ natural person
+
+□ other
+
+— Name:
+
+— Address (known or assumed):
+
+— Other data relevant to the identification of the addressee:
+
+□ Legal representative
+
+— Name:
+
+— Address (known or assumed):
+
+— Other data relevant to the identification of the addressee:
+
+Cause of liability:
+
+□ principal debtor
+
+□ a co-debtor
+
+□ a person other than the (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures under the laws in force in the applicant State
+
+Other information
+
+**Overall total amount of the claim(s)**
+
+— in the currency of the applicant State:
+
+— in the currency of the requested State:
+
+— in EUR:
+
+## ANNEX III
+
+**Declaration specifying reasons and circumstances for a request for precautionary measures**
+
+<table>
+<tbody><tr><td colspan="2">Name of the language(s) of this document</td></tr>
+<tr><td colspan="2">Declaration specifying reasons and circumstances for a request for precautionary measures (1)(2)</td></tr>
+<tr><td>based on:</td><td>Article 16 of Directive 2010/24/EU … </td></tr>
+<tr><td colspan="2">(1)  The elements put in Italic are optional. It is suggested to remove subsections that are not selected.  (2)  Where this form is transmitted by electronic means, its structure and lay-out may be adapted to the requirements and possibilities of the electronic communication system, provided that the set of data and information contained therein is not substantially altered. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">This declaration is linked to the request for precautionary measures</td></tr>
+<tr><td>with the following reference:</td><td>Ref. …</td></tr>
+<tr><td>sent by the following applicant State:</td><td>  </td></tr>
+<tr><td>to the following requested State:</td><td>  </td></tr>
+</tbody>
+</table>
+
+The following information on specific reasons and circumstances for this request is provided:
+
+<table>
+<tbody><tr><td colspan="2">1. General information</td></tr>
+<tr><td>  </td><td>1.1. The claim(s) is (are) the subject of an instrument permitting enforcement in the applicant State which is contested.</td></tr>
+<tr><td>  </td><td>1.2. The claim(s) is (are) the subject of an instrument permitting enforcement in the applicant State which is not contested.</td></tr>
+<tr><td>  </td><td>1.3. The claim(s) is (are) not yet subject of an instrument permitting enforcement in the applicant State.</td></tr>
+<tr><td>  </td><td>1.4. The claim(s) is (are) not contested.</td></tr>
+<tr><td>  </td><td>1.5. The claim(s) may no longer be contested by and administrative appeal/by an appeal to the courts.</td></tr>
+<tr><td>  </td><td>1.6. The claim(s) is (are) contested but the laws, regulations and administrative practices in force in the State of the applicant authority allow to take precautionary measures.</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="7">2. Justifying documents and/or reasons</td></tr>
+<tr><td>  </td><td colspan="6">2.1. This request is accompanied by a uniform instrument permitting recovery in the requested State. Note: this uniform instrument permitting enforcement in the requested State also allows the requested State to take precautionary measures (for requests based on Directive 2010/24/EU: see the second subparagraph of Article 12(1) of that Directive). </td></tr>
+<tr><td>  </td><td colspan="6">2.2. This request is based on an administrative decision (attached) permitting precautionary measures in the applicant State, which contains the following evaluation:</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">2.2.1. Administrative evaluation of the need to take precautionary measures assessed by:</td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">name of the authority:</td><td colspan="3">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">address of the authority:</td><td colspan="3">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">date of this decision:</td><td colspan="3">DD/MM/YYYY</td></tr>
+<tr><td>  </td><td>  </td><td colspan="2">details contact person:</td><td colspan="3">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">2.2.2. Circumstances</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">The instrument permitting enforcement is contested.</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">The claim(s) is (are) not yet the subject of an instrument permitting enforcement.</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">The contesting of the claim(s) by the debtor was already rejected in first instance, but this decision is not final.</td></tr>
+<tr><td>  </td><td>  </td><td colspan="4">2.2.3. This authority has allowed precautionary measures in the applicant State in accordance with its national law, on the following date:</td><td>DD/MM/YYYY</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">2.2.4. The precautionary measures are considered to be justified for the following reasons, demonstrating the urgency and the risk that collection and recovery could be thwarted or seriously hindered:</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">high (estimated) amount of the (expected) debt/significant debiting</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">suspicion of fraud</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">Person(s) concerned making themselves insolvent</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">restructuring of assets</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">alienation of property</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">attempt to hide/conceal/dissipate assets</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">careless business management</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">frequent change of residence</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">relocation of property abroad</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">debtor not respecting earlier payment agreements</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">other elements/reasons: …</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">Short explanation (recommended): …</td></tr>
+<tr><td>  </td><td colspan="6">2.3. This request is based on a judicial confirmation (attached) that precautionary measures are justified:</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">2.3.1. Judicial evaluation of the need to take precautionary measures assessed by:</td></tr>
+<tr><td>  </td><td>  </td><td colspan="3">name of the Court:</td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="3">address of the Court:</td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="3">date of the decision:</td><td colspan="2">DD/MM/YYYY</td></tr>
+<tr><td>  </td><td>  </td><td colspan="3">(Details contact person:)</td><td colspan="2">  </td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">2.3.2. The Court decided:</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">at the unilateral request of the tax authorities</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="4">following the contesting of the claim by the debtor, by another person liable or by another person subject to the precautionary measures</td></tr>
+<tr><td>  </td><td>  </td><td colspan="4">2.3.3. This Court has allowed precautionary measures in the applicant State in accordance with its national law, on the following date:</td><td>DD/MM/YYYY</td></tr>
+<tr><td>  </td><td colspan="6">2.4. This request for precautionary measures is based on the reasons mentioned in the attached document(s).</td></tr>
+<tr><td>  </td><td colspan="6">2.5. Precautionary measures are justified for the following reasons, demonstrating the urgency and the risk that collection and recovery could be thwarted or seriously hindered:</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">high (estimated) amount of the (expected) debt/significant levels of debt</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">Suspicion of fraud</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">Person(s) concerned making themselves insolvent</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">restructuring of assets</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">alienation of property</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">attempt to hide/conceal/dissipate assets</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">careless business management</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">frequent change of residence</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">relocation of property abroad</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">debtor not respecting earlier payment agreements</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">other elements/reasons: …</td></tr>
+<tr><td>  </td><td>  </td><td colspan="5">Short explanation (recommended): …</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">3. Other information</td></tr>
+<tr><td>  </td><td>3.1. The authorities of the requested State are requested not to inform the debtor or other person concerned before the start of the precautionary measures.</td></tr>
+<tr><td>  </td><td>3.2. Other information: …</td></tr>
+</tbody>
+</table>
+
+( 1 ) The elements put in Italic are optional.
+
+( 2 ) Where this form is transmitted by electronic means, its structure and lay-out may be adapted to the requirements of the electronic communication system, provided that the set of data and information contained therein is not substantially altered.
+
+( 3 ) The elements put in Italic are optional.
+
+( 4 ) Where this form is transmitted by electronic means, its structure and lay-out may be adapted to the requirements and possibilities of the electronic communication system, provided that the set of data and information contained therein is not substantially altered.

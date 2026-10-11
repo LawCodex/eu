@@ -132,6 +132,7 @@ The following shall apply to organic varieties of agricultural plant species sui
 |  | 1.1. | As regards distinctness and stability, all characteristics of the protocols and guidelines referred to in Annexes I and II shall be observed and described. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>1.2.</td><td>As regards uniformity, all characteristics of the protocols and guidelines referred to in Annexes I and II shall be observed and described and the following shall apply to the characteristics listed under point 2:<table><tbody><tr><td>(a)</td><td>those characteristics may be assessed in a less stringent way;</td></tr>
 </tbody>
 </table>
@@ -140,6 +141,7 @@ The following shall apply to organic varieties of agricultural plant species sui
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **2\. Derogation from technical protocols**
 
@@ -238,6 +240,7 @@ Wheat
 |  | 2. | The specific needs and objectives of organic agriculture shall be taken into account in variety examination and in the evaluation of examination results. Disease resistance or tolerance, and adaptation to diverse local soil and climate conditions, shall be examined. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>Where competent authorities are not able to provide for an examination under organic conditions, or for the examination of certain characteristics, including disease susceptibility, testing may be carried out pursuant to one of the following points:<table><tbody><tr><td>(a)</td><td>under the supervision of the competent authority on organic breeders premises or organic farms;</td></tr>
 </tbody>
 </table>
@@ -249,6 +252,7 @@ Wheat
 </table>
  The value of a variety for cultivation or use shall be considered as satisfactory if, when compared to other organic varieties suitable for organic production accepted in the catalogue of the Member State in question, its qualities, taken as a whole, offer, at least as far as production in any given region is concerned, a clear improvement either for cultivation or for uses which can be made of the crops or the products derived therefrom. Superior characteristics for the agricultural production, as regards farming practices and food or feed production that present advantages for organic agriculture, shall be considered as particularly valuable for the VCU examination. </td></tr>
 </tbody>
+</table>
 
 |  | 4. | The competent authority shall provide for different examination conditions that are adapted to specific needs of organic agriculture and shall examine to the extent of its capacity specific traits and characteristics, at the applicant’s request, if reproducible methods are available. |
 | --- | --- | --- |

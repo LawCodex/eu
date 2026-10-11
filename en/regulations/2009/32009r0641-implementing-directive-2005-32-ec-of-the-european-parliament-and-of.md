@@ -1,0 +1,302 @@
+---
+title: "Commission Regulation (EC) No 641/2009 of 22 July 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products (Text with EEA relevance)"
+identifier: "32009R0641"
+eli: "http://data.europa.eu/eli/reg/2009/641/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-07-22
+entry_into_force: 2009-11-12
+last_amended: 2019-11-14
+consolidated_version: "02009R0641-20191114"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0641-20191114"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 641/2009 of 22 July 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 641/2009**
+
+**of 22 July 2009**
+
+**implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 622/2012 of 11 July 2012 </td><td> L 180</td><td>4</td><td>12.7.2012</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/2282 of 30 November 2016 </td><td> L 346</td><td>51</td><td>20.12.2016</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/1781 of 1 October 2019 </td><td> L 272</td><td>74</td><td>25.10.2019</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 641/2009**
+
+**of 22 July 2009**
+
+**implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for glandless standalone circulators and glandless circulators integrated in products**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes ecodesign requirements for the placing on the market of glandless standalone circulators and glandless circulators integrated in products.
+
+2\. This Regulation shall not apply to:
+
+(a) drinking water circulators, except as regards the product information requirements of Annex I, point 2(1)(d);
+
+(b) circulators to be integrated in products and placed on the market no later than 1 January 2022 as replacement for identical circulators integrated in products placed on the market no later than 1 August 2015 and specifically marketed as such, except as regards the product information requirements of Annex I, point 2(1)(e).
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘circulator’ means an impeller pump, with or without pump housing, which has the rated hydraulic output power of between 1 W and 2 500 W and is designed for use in heating systems or in secondary circuits of cooling distribution systems;
+
+(2) ‘glandless circulator’ means a circulator with the rotor directly coupled to the impeller and the rotor immersed in the pumped medium;
+
+(3) ‘standalone circulator’ means a circulator, designed to operate independently from the product;
+
+(4) ‘product’ means an appliance that generates and/or transfers heat;
+
+(5) ‘circulator integrated in a product’ means a circulator designed to operate as part of a product carrying at least one of the following design details:
+
+(a) the pump housing is designed to be mounted and used inside a product;
+
+(b) the circulator is designed to be speed controlled by the product;
+
+(c) the circulator is designed for safety features not suitable for standalone operation (ISO IP classes);
+
+(d) the circulator is defined as part of product approval or product CE marking;
+
+(6) ‘drinking water circulator’ means a circulator specifically designed to be used in the recirculation of water intended for human consumption as defined in Article 2 of the Council Directive 98/83/EC ( 1 );
+
+(7) ‘pump housing’ means the part of an impeller pump which is intended to be connected to the pipe work of the heating systems or secondary circuits of the cooling distribution system.
+
+## Article 3 — Ecodesign requirements
+
+The ecodesign requirements for circulators are set out in Annex I.
+
+Compliance with ecodesign requirements shall be measured in accordance with requirements set out in Annex II, point 1.
+
+The calculation method for the energy efficiency index of circulators is set out in Annex II, point 2.
+
+## Article 4 — Conformity assessment
+
+The procedure for assessing conformity referred to in Article 8 of Directive 2005/32/EC shall be the internal design control system set out in Annex IV to that Directive or the management system for assessing conformity set out in Annex V to that Directive.
+
+## Article 5 — Verification procedure for market surveillance purposes
+
+When performing the market surveillance checks referred to in Article 3(2) of Directive 2005/32/EC, for the requirements set out in Annex I to this Regulation, the authorities of the Member States shall apply the verification procedure described in Annex III to this Regulation.
+
+## Article 6 — Benchmarks
+
+The indicative benchmarks for best-performing circulators available on the market at the time of entry into force of this Regulation are set out in Annex IV.
+
+## Article 7 — Revision
+
+The Commission shall review this Regulation before 1 January 2017, in the light of technological progress.
+
+The review shall include the assessment of design options that can facilitate reuse and recycling.
+
+The results of the review shall be presented to the Ecodesign Consultation Forum.
+
+## Article 8 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply in accordance with the following timetable:
+
+1\. from 1 January 2013, glandless standalone circulators shall meet the efficiency level defined in Annex I, point 1(1), with the exception of those specifically designed for primary circuits of thermal solar systems and of heat pumps;
+
+2\. from 1 August 2015, glandless standalone circulators and glandless circulators integrated in products shall meet the efficiency level defined in Annex I, point 1(2).
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**ECODESIGN REQUIREMENTS**
+
+**1\. ENERGY EFFICIENCY REQUIREMENTS**
+
+1\. From 1 January 2013, glandless standalone circulators, with the exception of those specifically designed for primary circuits of thermal solar systems and of heat pumps, shall have an energy efficiency index (EEI) of not more than 0,27, calculated in accordance with Annex II, point 2.
+
+2\. From 1 August 2015, glandless standalone circulators and glandless circulators integrated in products shall have an energy efficiency index (EEI) of not more than 0,23, calculated in accordance with Annex II, point 2.
+
+**2\. PRODUCT INFORMATION REQUIREMENTS**
+
+1\. From 1 January 2013:
+
+(a) the energy efficiency index of standalone circulators calculated in accordance with Annex II, shall be indicated on the name plate and packaging of the standalone circulator and in the technical documentation of the standalone circulator as follows: ‘EEI ≤ 0,[xx]’;
+
+(b) the following information shall be provided on standalone circulators and on circulators integrated in products: ‘The benchmark for the most efficient circulators is EEI ≤ 0,20.’;
+
+(c) information concerning disassembly, recycling, or disposal at end-of-life of components and materials, shall be made available for treatment facilities on standalone circulators and on circulators integrated in products;
+
+(d) for drinking water circulators, the following information shall be provided on the packaging and in the documentation: ‘This circulator is suitable for drinking water only’;
+
+(e) for circulators to be integrated in products and placed on the market no later than 1 January 2022 as replacement for identical circulators integrated in products placed on the market no later than 1 August 2015, the replacement circulator or its packaging shall clearly indicate the product(s) for which it is intended.
+
+Manufacturers shall provide information on how to install, use and maintain the circulator in order to minimise its impact on the environment.
+
+The information listed above shall be visibly displayed on freely accessible websites of the circulator manufacturer.
+
+2\. From 1 August 2015, for circulators integrated in products, the energy efficiency index calculated in accordance with Annex II, shall be indicated on the name plate of the circulator and in the technical documentation of the product as follows: ‘EEI ≤ 0,[xx]’.
+
+## ANNEX II
+
+**MEASUREMENT METHODS AND METHODOLOGY FOR CALCULATING THE ENERGY EFFICIENCY INDEX**
+
+**1\. MEASUREMENT METHODS**
+
+For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements shall be made using a reliable, accurate and reproducible measurement procedure that takes into account the generally recognised state of the art measurement methods, including methods set out in documents the reference numbers of which have been published for that purpose in the Official Journal of the European Union.
+
+**2\. METHODOLOGY FOR CALCULATING THE ENERGY EFFICIENCY INDEX**
+
+The methodology for calculating the energy efficiency index (EEI) for circulators is as follows:
+
+1\. Standalone circulators with pump housing shall be measured as a complete unit;
+
+Standalone circulators without pump housing shall be measured with pump housing identical to the pump housing in which they are intended to be used;
+
+Circulators integrated in products shall be dismantled from the product and measured with a reference pump housing;
+
+Circulators without pump housing intended to be integrated in a product shall be measured with a reference pump housing;
+
+where ‘reference pump housing’ means a pump housing supplied by the manufacturer with inlet and outlet ports on the same axis and designed to be connected to the pipework of a heating system or secondary circuit of a cooling distribution system.
+
+2\. Where a circulator has more than one setting of head and flow, measure the circulator at the maximum setting.
+
+‘Head’ (H) means head (in metres) produced by the circulator at the specified point of operation.
+
+‘Flow’ (Q) means the volume flow rate of water through the circulator (m3/hr).
+
+3\. Find the point where Q · H is maximum and define the flow and head at this point as: Q100 % and H100 % .
+
+4\. Calculate the hydraulic power Phyd at this point.
+
+‘Hydraulic power’ means an expression of the arithmetic product of the flow (Q), Head (H) and a constant.
+
+“Phyd ” means hydraulic power delivered by the circulator to the fluid being pumped at the specified point of operation (in watts).
+
+5\. Calculate the reference power as:
+
+Pref = 1,7 · Phyd + 17 · (1 – e– 0,3 · Phyd ), 1 W ≤ Phyd ≤ 2 500 W
+
+‘Reference power’ means a relation between hydraulic power and power consumption of a circulator, taking into account the dependency between circulator efficiency and size.
+
+‘Pref ’ means the reference power (in watts) of the circulator in a given head and flow.
+
+6\. Define the reference control curve as the straight line between the points:
+
+(Q 100 %, H 100 %) and (Q 0 %, [image] )
+
+[image]
+
+7\. Select a setting of the circulator ensuring that the circulator on the selected curve reaches Q · H = max point. For circulators integrated in products follow the reference control curve by adjusting the system curve and speed of the circulator.
+
+‘System curve’ means a relationship between flow and head (H = f(Q)) resulting from friction in the heating system or cooling distribution system, as presented in the following graph:
+
+[image]
+
+8\. Measure P1 and H at the flows:
+
+Q100 % , 0,75 · Q100 % , 0,5 · Q100 % , 0,25 · Q100 %
+
+‘ P1 ’ means the electrical power (in watts) consumed by the circulator at the specified point of operation.
+
+9\. Calculate PL as follows:
+
+[image] , if Hmeas ≤ Href
+
+PL = P1,meas, if Hmeas > Href
+
+Where Href is the head on the reference control curve at the different flows.
+
+10\. Using the measured values of PL and this load profile:
+
+<table>
+<tbody><tr><td><br> <br><table><tbody><tr><td>Flow [%]</td><td>Time [%]</td></tr>
+<tr><td>100 </td><td>6 </td></tr>
+<tr><td>75 </td><td>15 </td></tr>
+<tr><td>50 </td><td>35 </td></tr>
+<tr><td>25 </td><td>44 </td></tr>
+</tbody>
+</table> </td><td>[image]</td></tr>
+</tbody>
+</table>
+
+Calculate the weighted average power PL,avg as:
+
+PL,avg = 0,06 · PL, 100 % + 0,15 · PL, 75 % + 0,35 · PL, 50 % + 0,44 · PL, 25 %
+
+Calculate the energy efficiency index ( 2 ) as:
+
+[image] , where C 20 % = 0,49
+
+Except for circulators integrated in products designed for primary circuits of thermal solar systems and for heat pumps, where the energy efficiency index is calculated as:
+
+[image]
+
+where C20 % = 0,49 and n s is the specific speed defined as
+
+[image]
+
+where
+
+n s [rpm] is specific speed of a circulator;
+
+n100 % is rotational speed in rpm in this duty defined at Q 100 % and H 100 %.
+
+## ANNEX III
+
+**Product compliance verification by market surveillance authorities**
+
+The verification tolerances defined in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the manufacturer or importer as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
+
+When verifying the compliance of a product model with the requirements laid down in this Regulation pursuant to Article 3(2) of Directive 2009/125/EC, for the requirements referred to in this Annex, the authorities of the Member States shall apply the following procedure:
+
+(1) The Member State authorities shall verify one single unit of the model.
+
+(2) The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to point 2 of Annex IV to Directive 2009/125/EC (declared values), and, where applicable, the values used to calculate these values, are not more favourable for the manufacturer or importer than the results of the corresponding measurements carried out pursuant to paragraph (g) thereof; and
+
+(b) the declared values meet any requirements laid down in this Regulation, and any required product information published by the manufacturer or importer does not contain values that are more favourable for the manufacturer or importer than the declared values; and
+
+(c) when the Member State authorities test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 1.
+
+(3) If the results referred to in point 2(a) or (b) are not achieved, the model shall be considered not to comply with this Regulation.
+
+(4) If the result referred to in point 2(c) is not achieved, the Member State authorities shall select three additional units of the same model for testing.
+
+(5) The model shall be considered to comply with the applicable requirements if, for these three units, the arithmetical mean of the determined values complies with the respective verification tolerances given in Table 1.
+
+(6) If the result referred to in point 5 is not achieved, the model shall be considered not to comply with this Regulation.
+
+(7) The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 and 6.
+
+The Member State authorities shall use the measurement and calculation methods set out in Annex II.
+
+The Member State authorities shall only apply the verification tolerances that are set out in Table 1 and shall use only the procedure described in points 1 to 7 for the requirements referred to in this Annex. No other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+**Table 1**
+
+**Verification tolerances**
+
+| Parameter | Verification tolerance |
+| --- | --- |
+| Energy efficiency index | The determined value shall not exceed the declared value by more than 7 %. |
+
+## ANNEX IV
+
+**INDICATIVE BENCHMARKS**
+
+At the time of the adoption of this Regulation, the benchmark for the best available technology on the market for circulators is EEI ≤ 0,20.
+
+( 1 ) OJ L 330, 5.12.1998, p. 32.
+
+( 2 ) CXX % means a scaling factor that ensures that at the time of defining the scaling factor only XX % of circulators of a certain type have an EEI ≤ 0,20.

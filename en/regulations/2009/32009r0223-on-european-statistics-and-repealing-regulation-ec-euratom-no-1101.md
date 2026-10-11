@@ -1,0 +1,616 @@
+---
+title: "Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (Text with relevance for the EEA and for Switzerland)"
+identifier: "32009R0223"
+eli: "http://data.europa.eu/eli/reg/2009/223/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-03-11
+entry_into_force: 2009-04-27
+last_amended: 2024-12-26
+consolidated_version: "02009R0223-20241226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0223-20241226"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (Text with relevance for the EEA and for Switzerland)
+
+**REGULATION (EC) No 223/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2009**
+
+**on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities**
+
+**(Text with relevance for the EEA and for Switzerland)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2015/759 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2015 </td><td> L 123</td><td>90</td><td>19.5.2015</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/3018 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3018</td><td>1</td><td>6.12.2024</td></tr>
+</table>
+
+**REGULATION (EC) No 223/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2009**
+
+**on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities**
+
+**(Text with relevance for the EEA and for Switzerland)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+This Regulation establishes a legal framework for the development, production and dissemination of European statistics.
+
+In compliance with the principle of subsidiarity and in accordance with the independence, integrity and accountability of the national and the Community authorities, European statistics are relevant statistics necessary for the performance of the activities of the Community. European statistics are determined in the European statistical programme. They shall be developed, produced and disseminated in conformity with the statistical principles as set out in Article 285(2) of the Treaty and further elaborated in the European statistics Code of Practice in accordance with Article 11. They shall be implemented in accordance with this Regulation.
+
+### Article 2 — Statistical principles
+
+1\. The development, production and dissemination of European statistics shall be governed by the following statistical principles:
+
+(a) ‘professional independence’, meaning that statistics must be developed, produced and disseminated in an independent manner, particularly as regards the selection of techniques, definitions, methodologies and sources to be used, and the timing and content of all forms of dissemination, and that the performance of those tasks is free from any pressures from political or interest groups or from Union or national authorities;
+
+(b) ‘impartiality’, meaning that statistics must be developed, produced and disseminated in a neutral manner, and that all users must be given equal treatment;
+
+(c) ‘objectivity’, meaning that statistics must be developed, produced and disseminated in a systematic, reliable and unbiased manner; it implies the use of professional and ethical standards, and that the policies and practices followed are transparent to users and survey respondents;
+
+(d) ‘reliability’, meaning that statistics must measure as faithfully, accurately and consistently as possible the reality that they are designed to represent and implying that scientific criteria are used for the selection of sources, methods and procedures;
+
+(e) ‘statistical confidentiality’, meaning the protection of confidential data related to single statistical units which are obtained directly for statistical purposes or indirectly from administrative or other sources and implying the prohibition of use for non-statistical purposes of the data obtained and of their unlawful disclosure;
+
+(f) ‘cost effectiveness’, meaning that the costs of producing statistics must be in proportion to the importance of the results and the benefits sought, that resources must be optimally used and the response burden minimised. The information requested shall, where possible, be readily extractable from available records or sources.
+
+The statistical principles set out in this paragraph are further elaborated in the Code of Practice in accordance with Article 11.
+
+2\. The development, production and dissemination of European statistics shall take into account international recommendations and best practice.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1\. ‘statistics’ means quantitative and qualitative, aggregated and representative information characterising a collective phenomenon in a considered population;
+
+2\. ‘development’ means the activities aiming at setting up, strengthening and improving the statistical methods, standards and procedures used for the production and dissemination of statistics as well as at designing new statistics and indicators;
+
+3\. ‘production’ means all the activities related to the collection, storage, processing, and analysis necessary for compiling statistics;
+
+4\. ‘dissemination’ means the activity of making statistics and statistical analysis accessible to users;
+
+4a. ‘data’ means any digital or non-digital representation of acts, facts or information and any compilation of such acts, facts or information on the units observed;
+
+4b. ‘metadata’ means any information that defines and describes data and processes;
+
+4c. ‘data holder’ means a legal or natural person or any other entity that has the right, in accordance with applicable Union or national law, and the ability to manage and make available data obtained as a result of their activity;
+
+5\. ‘data collection’ means surveys and all other methods of deriving information from different sources, including administrative sources;
+
+5a. ‘data source’ means a source providing data that is relevant and necessary, in itself or in combination with data from other sources, for the development and production of statistics, including surveys, censuses, administrative data or data made available by data holders on request;
+
+5b. ‘data access’ means the processing by a national statistical institute or other national authorities or by the Commission (Eurostat) of data that have been provided or made available by a data holder, in accordance with specific technical, legal or organisational requirements;
+
+6\. ‘statistical unit’ means the basic observation unit, namely a natural person, a household, an economic operator and other undertakings, referred to by the data;
+
+7\. ‘confidential data’ means data which allow statistical units to be identified, either directly or indirectly, thereby disclosing individual information. To determine whether a statistical unit is identifiable, account shall be taken of all relevant means that might reasonably be used by a third party to identify the statistical unit;
+
+8\. ‘use for statistical purposes’ means the exclusive use for the development, production and dissemination of statistical results and analyses by statistical authorities, including for research and scientific activities, or the establishment of sampling frames;
+
+9\. ‘direct identification’ means the identification of a statistical unit from its name or address, or from a publicly accessible identification number;
+
+10\. ‘indirect identification’ means the identification of a statistical unit by any other means than by way of direct identification;
+
+11\. ‘officials of the Commission (Eurostat)’ means the officials of the Communities, within the meaning of Article 1 of the Staff Regulations of Officials of the European Communities, working at the Community statistical authority;
+
+12\. ‘other staff of the Commission (Eurostat)’ means the servants of the Communities, within the meaning of Articles 2 to 5 of the Conditions of Employment of Other Servants of the European Communities, working at the Community statistical authority.
+
+## CHAPTER II — STATISTICAL GOVERNANCE
+
+### Article 4 — The European Statistical System
+
+The European Statistical System (ESS) is the partnership between the Community statistical authority, which is the Commission (Eurostat), and the national statistical institutes (NSIs) and other national authorities responsible in each Member State for the development, production and dissemination of European statistics.
+
+### Article 5 — National statistical institutes and other national authorities
+
+1\. The national statistical authority designated by each Member State as the body having the responsibility for coordinating all activities at national level for the development, production and dissemination of European statistics, which are determined in the European statistical programme in accordance with Article 1, (the NSI) shall act in this regard as the sole contact point for the Commission (Eurostat) on statistical matters.
+
+The coordinating responsibility of the NSI shall cover all other national authorities responsible for the development, production and dissemination of European statistics, which are determined in the European statistical programme in accordance with Article 1. The NSI shall, in particular, be responsible at the national level for coordinating statistical programming and reporting, quality monitoring, methodology, data transmission and communication on ESS statistical actions. To the extent that some of those European statistics may be compiled by National Central Banks (NCBs) in their capacity as members of the European System of Central Banks (ESCB), the NSIs and the NCBs shall cooperate closely in accordance with national arrangements with a view to ensuring the production of complete and coherent European statistics, while ensuring the necessary cooperation between the ESS and the ESCB as set out in Article 9.
+
+2\. The Commission (Eurostat) shall maintain and publish on its website a list of NSIs and other national authorities responsible for the development, production and dissemination of European statistics as designated by Member States.
+
+3\. The NSIs and the other national authorities included in the list referred to in paragraph 2 of this Article may receive grants without a call for proposals, in accordance with Article 168(1)(d) of Regulation (EC, Euratom) No 2342/2002.
+
+### Article 5a — Heads of NSIs and statistical heads of other national authorities
+
+1\. Within their national statistical system, Member States shall ensure the professional independence of officials responsible for the tasks set out in this Regulation.
+
+2\. To that end, the heads of NSIs shall:
+
+(a) have the sole responsibility for deciding on processes, statistical methods, standards and procedures, and on the content and timing of statistical releases and publications for European statistics developed, produced and disseminated by the NSI;
+
+(b) be empowered to decide on all matters regarding the internal management of the NSI;
+
+(c) act in an independent manner while performing their statistical tasks; and neither seek nor take instructions from any government or other institution, body, office or entity;
+
+(d) be responsible for the statistical activities and budget execution of the NSI;
+
+(e) publish an annual report and may express comments on budget allocation issues related to the statistical activities of the NSI;
+
+(f) coordinate the statistical activities of all national authorities that are responsible for the development, production and dissemination of European statistics, as set out in Article 5(1);
+
+(g) produce national guidelines, where this is necessary to ensure quality in the development, production and dissemination of all European statistics within their national statistical system and monitor and review their implementation; while being responsible for ensuring compliance with those guidelines solely within the NSI; and
+
+(h) represent their national statistical system within the ESS.
+
+3\. Each Member State shall ensure that other national authorities responsible for the development, production and dissemination of European statistics carry out such tasks in accordance with the national guidelines produced by the head of the NSI.
+
+4\. Member States shall ensure that the procedures for the recruitment and appointment of heads of NSIs and, where appropriate, statistical heads of other national authorities producing European statistics, are transparent and based only on professional criteria. Those procedures shall ensure that the principle of equal opportunities is respected, in particular with regard to gender. The reasons for dismissal of heads of NSIs or their transfer to another position shall not compromise professional independence.
+
+5\. Each Member State may establish a national body for assuring the professional independence of the producers of European statistics. The heads of NSIs and, where appropriate, the statistical heads of other national authorities producing European statistics may take advice from such bodies. The procedures for the recruitment, transfer and dismissal of the members of such bodies shall be transparent and based only on professional criteria. Those procedures shall ensure that the principle of equal opportunities is respected, in particular with regard to gender.
+
+### Article 6 — Commission (Eurostat)
+
+1\. The Community statistical authority, as designated by the Commission to develop, produce and disseminate European statistics, shall be referred to as ‘the Commission (Eurostat)’ in this Regulation.
+
+2\. At Union level, the Commission (Eurostat) shall act independently in ensuring the production of European statistics according to established rules and statistical principles.
+
+3\. Without prejudice to Article 5 of the Protocol No 4 on the Statute of the European System of Central Banks and of the European Central Bank, the Commission (Eurostat) shall coordinate the statistical activities of the institutions and bodies of the Union, in particular with a view to ensuring consistency and quality of the data and minimising reporting burden. To that end, the Commission (Eurostat) may invite any institution or body of the Union to consult or cooperate with it for the purpose of developing methods and systems for statistical purposes in their respective field of competence. Any of those institutions or bodies which propose to produce statistics shall consult the Commission (Eurostat) and take into account any recommendation that it may make to this effect.
+
+### Article 6a — Director-General of the Commission (Eurostat)
+
+1\. Eurostat is the statistical authority of the Union and a Directorate-General of the Commission. It shall be headed by a Director-General.
+
+2\. The Commission shall ensure that the procedure for the recruitment of the Director-General of Eurostat is transparent and based on professional criteria. The procedure shall ensure that the principle of equal opportunities is respected, in particular with regard to gender.
+
+3\. The Director-General shall have sole responsibility for deciding on processes, statistical methods, standards and procedures, and on the content and timing of statistical releases and publications for all statistics produced by Eurostat. When carrying out those statistical tasks, the Director-General shall act in an independent manner and shall neither seek nor take instructions from the Union institutions or bodies, from any government or other institution, body, office or agency.
+
+4\. The Director-General of Eurostat shall be responsible for the statistical activities of Eurostat. The Director-General of Eurostat shall appear immediately after appointment by the Commission, and annually thereafter, in the framework of the statistical dialogue before the relevant committee of the European Parliament to discuss matters pertaining to statistical governance, methodology and statistical innovation. The Director-General of Eurostat shall publish an annual report.
+
+### Article 7 — European Statistical System Committee
+
+1\. The European Statistical System Committee (ESS Committee) is hereby established. It shall provide professional guidance to the ESS for developing, producing and disseminating European statistics in line with the statistical principles set out in Article 2(1).
+
+2\. The ESS Committee shall be composed of the representatives of the NSIs who are national specialists for statistics. It shall be chaired by the Commission (Eurostat).
+
+3\. The ESS Committee shall adopt its rules of procedure, which shall reflect its tasks.
+
+4\. The ESS Committee shall be consulted by the Commission in regard to:
+
+(a) the measures which the Commission intends to take for the development, production and dissemination of European statistics, their justification on a cost-effectiveness basis, the means and timetables for achieving them, the response burden on survey respondents;
+
+(b) proposed developments and priorities in the European statistical programme;
+
+(c) initiatives to bring into practice the reprioritisation and reduction of the response burden;
+
+(d) issues concerning statistical confidentiality;
+
+(e) the further development of the Code of Practice; and
+
+(f) any other question, in particular issues of methodology, arising from the establishment or implementation of statistical programmes that are raised by its Chair, either on its own initiative or at the request of a Member State.
+
+### Article 8 — Cooperation with other bodies
+
+The European Statistical Advisory Committee and the European Statistical Governance Advisory Board shall be consulted in accordance with their respective competence.
+
+### Article 9 — Cooperation with the ESCB
+
+To minimise the reporting burden and guarantee the coherence necessary to produce European statistics, the ESS and the ESCB shall cooperate closely, while complying with the statistical principles as set out in Article 2(1).
+
+### Article 10 — International cooperation
+
+Without prejudice to the position and the role of individual Member States, the position of the ESS as regards issues of particular relevance to European statistics at international level as well as the specific arrangements for representation in the international statistical bodies shall be prepared by the ESS Committee and coordinated by the Commission (Eurostat).
+
+### Article 11 — European statistics Code of Practice
+
+1\. The Code of Practice shall aim at ensuring public trust in European statistics by establishing how European statistics are to be developed, produced and disseminated in conformity with the statistical principles as set out in Article 2(1) and best international statistical practice.
+
+2\. The Code of Practice shall be reviewed and updated as necessary by the ESS Committee. The Commission shall publish amendments thereto.
+
+3\. Member States and the Commission shall take all the necessary measures to maintain confidence in European statistics. To this effect, ‘Commitments on Confidence in Statistics’ (the Commitments) by Member States and by the Commission shall further aim to ensure public trust in European statistics and progress in the implementation of the statistical principles contained in the Code of Practice. The Commitments shall include specific policy commitments to improve or maintain, as necessary, the conditions for the implementation of the Code of Practice and shall be published with a citizen's summary.
+
+4\. The Commitments by Member States shall be monitored regularly by the Commission on the basis of annual reports sent by Member States and shall be updated as necessary.
+
+In the absence of the publication of a Commitment by 9 June 2017, a Member State shall submit to the Commission and make public a progress report on the implementation of the Code of Practice and, where applicable, on the efforts undertaken towards the establishment of a Commitment. Those progress reports shall be updated periodically, at least every two years following their initial publication.
+
+The Commission shall report to the European Parliament and the Council on the published Commitments and, where appropriate, progress reports, by 9 June 2018 and every two years thereafter.
+
+5\. The Commitment established by the Commission shall be regularly monitored by European Statistical Governance Advisory Board (ESGAB). ESGAB's assessment of the implementation of the Commitment shall be included in its annual report submitted to the European Parliament and the Council in accordance with Decision No 235/2008/EC of the European Parliament and of the Council ( 1 ). ESGAB shall report to the European Parliament and the Council on the implementation of the Commitment by 9 June 2018.
+
+### Article 12 — Statistical quality
+
+1\. To guarantee the quality of results, European statistics shall be developed, produced and disseminated on the basis of uniform standards and of harmonised methods. In this respect, the following quality criteria shall apply:
+
+(a) ‘relevance’, which refers to the degree to which statistics meet current and potential needs of the users;
+
+(b) ‘accuracy’, which refers to the closeness of estimates to the unknown true values;
+
+(c) ‘timeliness’, which refers to the period between the availability of the information and the event or phenomenon it describes;
+
+(d) ‘punctuality’, which refers to the delay between the date of the release of the data and the target date (the date by which the data should have been delivered);
+
+(e) ‘accessibility’ and ‘clarity’, which refer to the conditions and modalities by which users can obtain, use and interpret data;
+
+(f) ‘comparability’, which refers to the measurement of the impact of differences in applied statistical concepts, measurement tools and procedures where statistics are compared between geographical areas, sectoral domains or over time;
+
+(g) ‘coherence’, which refers to the adequacy of the data to be reliably combined in different ways and for various uses.
+
+2\. Specific quality requirements, such as target values and minimum standards for the production of statistics, may also be laid down in sectoral legislation.
+
+In order to ensure the uniform application of the quality criteria laid down in paragraph 1 to the data covered by sectoral legislation in specific statistical domains, the Commission shall adopt implementing acts laying down the modalities, structure and periodicity of quality reports covered by sectoral legislation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+3\. Member States shall provide the Commission (Eurostat) with reports on the quality of data transmitted, including any concerns they have regarding the accuracy of the data. The Commission (Eurostat) shall assess the quality of the data transmitted, on the basis of appropriate analysis, and shall prepare and publish reports and communications on the quality of European statistics.
+
+4\. In the interest of transparency, the Commission (Eurostat) shall, where appropriate, make public its assessment of the quality of national contributions to European statistics.
+
+5\. Where sectoral legislation provides for fines in cases where Member States misrepresent statistical data, the Commission may, in accordance with the Treaties and such sectoral legislation, initiate and conduct investigations as necessary including, where appropriate, on-site inspections in order to establish whether such misrepresentation was serious and intentional or grossly negligent.
+
+## CHAPTER III — PRODUCTION OF EUROPEAN STATISTICS
+
+### Article 13 — European statistical programme
+
+1\. The European statistical programme shall provide the framework for the development, production and dissemination of European statistics, setting out the main fields and the objectives of the actions envisaged for a period corresponding to that of the multiannual financial framework. It shall be adopted by the European Parliament and the Council. Its impact and cost effectiveness shall be assessed with input from independent experts.
+
+2\. The European statistical programme shall lay down priorities concerning the needs for information for the purpose of carrying out the activities of the Community. Those needs shall be weighed against the resources needed at Community and national level to provide the required statistics, and also against the response burden and the respondent's associated costs.
+
+3\. The Commission shall introduce initiatives to set priorities and reduce the response burden for all or part of the European statistical programme.
+
+4\. The Commission shall submit the draft European statistical programme to the ESS Committee for prior examination.
+
+5\. For each European statistical programme, the Commission shall, after consulting the ESS Committee, present an intermediate progress report and a final evaluation report and shall submit them to the European Parliament and to the Council.
+
+### Article 14 — Implementation of the European statistical programme
+
+1\. The European statistical programme shall be implemented by individual statistical actions which shall be decided:
+
+(a) by the European Parliament and the Council;
+
+(b) by the Commission, in specific and duly justified cases, in particular to meet unexpected needs, in accordance with the provisions in paragraph 2; or
+
+(c) by means of agreement between the NSIs or other national authorities and the Commission (Eurostat), within their respective spheres of competence. Such agreements shall be in writing.
+
+2\. The Commission may, by means of implementing acts, decide on a temporary direct statistical action provided that:
+
+(a) the action does not provide for data collection covering more than three reference years;
+
+(b) the data are already available or accessible within the NSIs and other national authorities responsible, or can be obtained directly, using the appropriate samples for the observation of the statistical population at Union level with the adequate coordination with the NSIs and other national authorities; and
+
+(c) the Union makes financial contributions to the NSIs and other national authorities to cover the incremental costs incurred by them, in accordance with Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council ( 2 ).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+3\. In putting forward an action to be decided under paragraph 1(a) or (b), the Commission shall provide information on:
+
+(a) the reasons justifying the action, notably in the light of the aims of the Community policy concerned;
+
+(b) the objectives for the action and the expected results;
+
+(c) a cost-effectiveness analysis, including an assessment of the burden on respondents and of the production costs; and
+
+(d) the ways in which the action is to be carried out, including its duration and the role of the Commission and the Member States.
+
+### Article 15 — Collaborative networks
+
+In the individual statistical actions, synergies shall be developed, when possible, within the ESS through collaborative networks, by the sharing of expertise and results or by fostering specialisation on specific tasks. To this end, an adequate financial structure shall be developed.
+
+The outcome of those actions, such as joint structures, tools, processes and methods shall be made available throughout the ESS. The initiatives for the creation of collaborative networks as well as the outcomes shall be examined by the ESS Committee.
+
+### Article 16 — European approach to statistics
+
+1\. In specific and duly justified cases and within the framework of the European statistical programme, the European approach to statistics aims at:
+
+(a) maximising the availability of statistical aggregates at European level and improving the timeliness of European statistics;
+
+(b) reducing the burden on the respondents, the NSIs and other national authorities based on a cost-effectiveness analysis.
+
+2\. The cases where the European approach to statistics is relevant include:
+
+(a) the production of European statistics by use of:
+
+(i) non-published national contributions or national contributions from a subset of Member States;
+
+(ii) specifically designed survey schemes;
+
+(iii) partial information by modelling techniques;
+
+(b) the dissemination of statistical aggregates at European level by applying specific statistical disclosure control techniques without national dissemination provisions being impaired.
+
+3\. Measures to implement the European approach to statistics shall be carried out with the full involvement of Member States. The measures for the implementation of the European approach to statistics shall be laid down in the individual statistical actions referred to in Article 14(1).
+
+4\. If necessary, a coordinated release and revision policy shall be established in cooperation with Member States.
+
+### Article 16a — Statistical response to urgent policy needs in crisis situations
+
+1\. The Commission (Eurostat) shall examine crisis situations and may undertake urgent statistical actions as appropriate, subject to the procedures set out in this Article, where both of the following conditions are met:
+
+(a) it is strictly necessary to respond to urgent policy needs which arise from the crisis situation concerned following the activation of established emergency mechanisms in accordance with Union legal acts, such as Council Implementing Decision (EU) 2018/1993 ( 3 ) or other Union emergency legal acts;
+
+(b) those urgent policy needs cannot be met under the European statistical programme.
+
+2\. The urgent statistical actions referred to in paragraph 1 shall be carried out by the Commission (Eurostat) at Union level in close cooperation with the NSIs and other national authorities, and may include:
+
+(a) producing European statistics on the basis of new data sources or data collections, taking into account the burden on respondents and the cost effectiveness for the Member States;
+
+(b) providing new statistical indicators and insights on the basis of existing data;
+
+(c) developing methodological guidelines to ensure that statistics across the Member States affected by the crisis situation are comparable and consistent;
+
+(d) other coordinated action at Union level that aims to provide a timely and relevant statistical response to the specific situation.
+
+3\. When assessing the need for urgent statistical actions referred to in paragraph 1, the Commission (Eurostat) shall promptly inform and consult the ESS Committee and duly take into account its professional guidance. Urgent statistical actions to be undertaken are subject to prior examination by the ESS Committee. To that end, the Commission (Eurostat) shall provide the ESS Committee with thorough information on the actions to be undertaken, their justification on a cost-effectiveness basis, the means and timetables for achieving them, the assessment of the response burden on survey respondents and the financial contribution of the Union to cover the incremental costs incurred by the NSIs and other national authorities.
+
+4\. Member States may decide, separately and on a voluntary basis, to participate in the urgent statistical actions referred to in paragraph 1. Those urgent statistical actions shall be relevant and shall cover the urgent policy needs which arise from the crisis situation in the Union. When participating in urgent statistical actions, Member States shall comply with the agreed common timespan, frequency and quality requirements for the national data to be provided to the Commission (Eurostat).
+
+5\. The Commission may, by way of implementing acts, specify the urgent statistical actions referred to in paragraph 1 of this Article and set out the procedure for undertaking them, including the relevant timespan, frequency and quality requirements to be applied by the Member States participating voluntarily in the urgent statistical action. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+Without prejudice to the prerogatives of the budgetary authority, a financial contribution shall be made available from the Single Market Programme established by Regulation (EU) 2021/690 of the European Parliament and of the Council ( 4 ) and in accordance with Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 5 ) to the NSIs and other national authorities referred to in the list established pursuant to Article 5(2) of this Regulation to cover the incremental costs incurred from the implementation of such urgent statistical actions. In addition, those NSIs and other national authorities may apply for support from other applicable financial programmes of the Union in accordance with the rules of such programmes. Member States may also apply for support from the Technical Support Instrument established by Regulation (EU) 2021/240 of the European Parliament and of the Council ( 6 ). The amount of the financial contribution under this subparagraph shall be established in accordance with the rules of the relevant funding programme, subject to the availability of funding, in particular in accordance with the rules of the European statistical programme.
+
+6\. Implementing acts adopted under paragraph 5 of this Article shall remain in force for a period no longer than the duration of the crisis situation concerned, and in any event no longer than 12 months. In duly justified cases, that period may be extended by way of an implementing act for an additional 12-month period. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+### Article 17 — Annual work programme
+
+The Commission shall submit to the ESS Committee its annual work programme by 30 April for the following year.
+
+In preparing each annual work programme, the Commission shall ensure effective priority setting, including reviewing, reporting on statistical priorities and allocation of financial resources. The Commission shall take the utmost account of the comments of the ESS Committee. Each annual work programme shall be based on the European statistical programme and shall indicate, in particular:
+
+(a) the actions which the Commission considers to have priority, taking account of Union policy needs, national and Union financial constraints and the response burden;
+
+(b) initiatives regarding the review of priorities, including negative priorities, and the reduction of the burden on both data providers and producers of statistics; and
+
+(c) the procedures and any legal instruments envisaged by the Commission for implementation of the annual work programme.
+
+### Article 17a — Access to and use and integration of administrative data for the development, production and dissemination of European statistics
+
+1\. National public and semi-public bodies under national law in charge of administrative data sources, databases, interoperability systems or data relevant and necessary for the development, production and dissemination of European statistics shall allow the NSIs and other national authorities to access, use and integrate, free of charge, those data and the relevant metadata, in a timely manner and with sufficient frequency and granularity for the purpose of developing, producing and disseminating European statistics.
+
+2\. The NSIs and the Commission (Eurostat) shall be consulted on, and involved in, the initial design, subsequent development and discontinuation of administrative data sources, databases or interoperability systems built up and maintained by other bodies, thus facilitating the further use of those data sources, databases or interoperability systems for the purpose of producing European statistics. They shall also be involved in the standardisation activities concerning administrative data sources, databases or interoperability systems that are relevant for the production of European statistics.
+
+2a. For the purposes of this Regulation, the Commission (Eurostat) shall be allowed, upon request, to access, use and integrate in a timely manner relevant data and metadata from databases and interoperability systems maintained by Union bodies and agencies, and without prejudice to the Union acts establishing those databases and interoperability systems, including the central repository for reporting and statistics (CRRS) established by Regulation (EU) 2019/817 of the European Parliament and of the Council ( 7 ). For that purpose, the Commission (Eurostat) shall cooperate with the relevant Union bodies and agencies to specify the customised data and metadata required, the operational arrangements for data use and the necessary physical and logical safeguards. Where data and metadata needed for European statistics are only available in databases and interoperability systems maintained by Union bodies and agencies, the Commission (Eurostat) may, upon request, share those data with the relevant NSIs or other national authorities responsible for the development, production and dissemination of European statistics, without prejudice to the Union acts establishing those databases and interoperability systems.
+
+3\. Access by, and the involvement of, the NSIs, other national authorities and the Commission (Eurostat) pursuant to paragraphs 1, 2 and 2a shall be limited to administrative data sources, databases or interoperability systems within their own respective public administrative system.
+
+4\. Administrative data sources, databases or interoperability systems made available by their owners to the NSIs, other national authorities and the Commission (Eurostat) in order to be used for the production of European statistics shall be accompanied by relevant metadata.
+
+5\. The NSIs, other national authorities and bodies referred to in paragraph 1 shall establish the necessary cooperation mechanisms in accordance with national specificities. Those mechanisms shall also provide the possibility for the NSIs to perform data quality checks and build statistical frames based on the relevant administrative data accessed.
+
+### Article 17b — Obligation of private data holders to make data available for developing, producing and disseminating European statistics
+
+1\. Without prejudice to reporting obligations, data collections or any data access laid down in sectoral statistical legislation of the Union or to the obligation for data holders to make data available on the basis of an exceptional need in accordance with Regulation (EU) 2023/2854 of the European Parliament and the Council ( 8 ), an NSI or the Commission (Eurostat) may request a private data holder to make data and the relevant metadata available free of charge where the data requested are strictly necessary for the development, production and dissemination of European statistics and cannot be obtained by other means or their reuse will result in a considerable reduction in the response burden on data holders and other businesses. Such data collections or data access may be included by the Commission in the annual work programme.
+
+2\. As coordinator of the national statistical system, an NSI may submit a request for data to a private data holder on behalf of any other national authority, where the data requested are necessary for European statistics developed, produced and disseminated by that other national authority. The NSI and the other national authorities of a Member State shall cooperate in order to avoid excessive burden on private data holders.
+
+3\. The NSIs and the Commission (Eurostat) shall cooperate and assist each other in order to avoid excessive burden on private data holders and to determine who is to submit requests for data. In particular, the request for data shall be submitted to a private data holder by the NSI unless the Commission (Eurostat) and the NSIs concerned agree that the request by the Commission (Eurostat) is more efficient, for instance in the case of private data holders operating on a Union-wide scale.
+
+4\. The Commission (Eurostat) may, in agreement with the NSIs, set up a secure infrastructure, to be used on a voluntary basis, to facilitate the further sharing with the NSIs and the other national authorities of data that have been accessed in accordance with paragraph 3.
+
+The secure infrastructure referred to in the first subparagraph shall be based on technologies that are specifically designed to comply with Regulations (EU) 2016/679 of the European Parliament and of the Council ( 9 ) and (EU) 2018/1725 of the European Parliament and of the Council ( 10 ).
+
+5\. Where data requested by an NSI under paragraph 1 require a specific processing service, Member States may provide compensation to the private data holder for that specific processing service, except where national law prevents the NSI or other national authorities responsible for the production of statistics from compensating data holders. Where data are requested by the Commission (Eurostat) for efficiency reasons pursuant to paragraph 3, and a specific processing service is needed, the Commission (Eurostat) shall propose reasonable compensation to the private data holder for that specific processing service.
+
+6\. This Article shall not apply to microenterprises or small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC ( 11 ), except in duly justified cases where the data held by such microenterprises or small enterprises are of specific interest for official statistics because of the nature and volume of those data at national level.
+
+### Article 17c — Requests for data and arrangements for making data available for the development, production and dissemination of European statistics
+
+1\. When requesting data in accordance with Article 17b, the NSIs or the Commission (Eurostat) shall:
+
+(a) specify what data and metadata are required;
+
+(b) specify the statistical need for which the data are requested in accordance with Article 17b(1);
+
+(c) specify the frequency with which and the deadlines by which the data are to be made available;
+
+(d) specify the operational arrangements for making the data available.
+
+2\. Requests for data as referred to in paragraph 1 shall follow the principle of data minimisation and be proportionate to the statistical need in terms of the level of detail and volume of the data and the frequency with which the data are to be made available. Such requests shall concern in principle non-personal data and, only in specific circumstances, personal data from personal data categories specified in sectoral legislation.
+
+3\. Following a request for data as referred to in paragraph 1, a dialogue shall take place between the NSI, the other national authority or the Commission (Eurostat) and the private data holder concerned to discuss and agree on the measures needed for making data available for the development, production and dissemination of European statistics, with the aim of concluding an agreement.
+
+4\. If an agreement as referred to in paragraph 3 is not concluded within three months following the notification of the request for data referred to in paragraph 1 or if the agreement is not fulfilled by the private data holder:
+
+(a) when the NSI has requested the data, it may issue a second request to the private data holder to make the data available within a specific deadline and the private data holder shall then make the relevant data available within that deadline;
+
+(b) when the Commission (Eurostat) has requested the data, it may adopt a decision to require the private data holder to make the data available within a period no shorter than 15 calendar days and the private data holder shall then make the relevant data available to the Commission (Eurostat) within the deadline specified therein.
+
+Paragraph 1 shall apply to a decision as referred to in point (b) of the first subparagraph of this paragraph. Such decision shall take into account issues on which views may have converged during the dialogue with the private data holder. It shall also indicate the deadline for the private data holder to submit its reply, the deadline for the private data holder to make the data available, the fines provided for under paragraph 6 that may be applied if the data are not provided in time, and the means of redress against the decision.
+
+5\. Member States shall take appropriate measures to ensure the effective enforcement of the requests referred to in paragraph 4, point (a).
+
+6\. The Commission shall take appropriate measures to ensure the effective enforcement of the decisions adopted in accordance with paragraph 4, point (b). Those measures may include the adoption of fines where the private data holder intentionally or negligently fails to supply the data requested by a decision as referred to in paragraph 4, point (b), within the deadline or supplies incorrect, incomplete or misleading data. In fixing the amount of the fines, the Commission shall take into account the nature, gravity, duration and recurrence of the infringement.
+
+7\. The Commission may adopt decisions imposing fines within one year following the deadline for the submission of data laid down in its decision under paragraph 4, point (b), where the private data holder fails to submit any data or within one year of the submission of incorrect, incomplete or misleading data. Fines may reach up to EUR 25 000 and, in the event of recurrence within three years, up to EUR 50 000 . The power of the Commission to enforce decisions imposing a fine shall be subject to a limitation period of five years from the date on which the decision becomes final. Before adopting a decision pursuant to paragraph 6, the Commission shall give the private data holder the opportunity to be heard on the preliminary findings of the Commission and the measures that the Commission could take on the basis of those preliminary findings.
+
+### Article 17d — Review of decisions imposing fines by the Court of Justice of the European Union
+
+In accordance with Article 261 of the Treaty on the Functioning of the European Union, the Court of Justice of the European Union shall have unlimited jurisdiction to review decisions by which the Commission has imposed fines. It may cancel, reduce or increase the fine imposed.
+
+### Article 17e — Obligations of NSIs, other national authorities and the Commission (Eurostat) in using data made available by private data holders for development, production and dissemination of European statistics
+
+1\. The NSIs and the Commission (Eurostat) shall use data made available in accordance with Article 17b for the development, production and dissemination of European statistics:
+
+(a) exclusively for statistical purposes;
+
+(b) in conformity with the statistical principles set out in Article 2(1); and
+
+(c) in compliance with the obligation not to share the data outside the ESS unless the private data holder has agreed to the sharing of those data.
+
+2\. The NSIs and the Commission (Eurostat) shall put in place appropriate safeguards relating to the processing of personal data for statistical purposes in accordance with Article 89 of Regulation (EU) 2016/679 and Article 13 of Regulation (EU) 2018/1725, in particular in order to ensure compliance with the principle that data are to be pseudonymised.
+
+3\. The NSIs and the Commission (Eurostat) shall:
+
+(a) take appropriate measures to protect statistical confidentiality and trade secrets;
+
+(b) implement, insofar as the processing of personal data is necessary, technical and organisational measures which safeguard the rights and freedoms of data subjects.
+
+4\. Paragraphs 1 and 3 of this Article shall apply to any other national authority that has received data following a request submitted on its behalf by a NSI in accordance with Article 17b(2).
+
+### Article 17f — Non-confidential data sharing in the ESS and between the ESS and the ESCB
+
+1\. Non-confidential data shall be shared, if necessary and if available in an aggregated form, upon request between NSIs, at their own initiative or on behalf of any other national authority, and between NSIs and the Commission (Eurostat) exclusively for statistical purposes and for improving the quality of European statistics.
+
+2\. The sharing of non-confidential data, including data made available by private data holders, shall take place between the ESS and a member of the ESCB upon request, if necessary and if available in an aggregated form, in areas of shared responsibility or common interest and where the data are used exclusively for statistical purposes and for improving the quality of European statistics developed and produced by that member of the ESCB.
+
+3\. The Commission (Eurostat) shall set up a secure infrastructure to facilitate data sharing under this Article, and the NSIs, and when relevant the other national authorities, or members of the ESCB, may use that secure data sharing infrastructure on a voluntary basis.
+
+4\. The Commission shall, by means of implementing acts, set out the technical aspects of data sharing between the statistical authorities referred to in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+## CHAPTER IIIa — DEVELOPMENT OF EUROPEAN STATISTICS
+
+### Article 17g — Statistics under development
+
+1\. The NSIs, the other national authorities and the Commission (Eurostat) shall endeavour to continuously innovate and develop new statistical outputs and insights on the basis of all available data sources and to use state-of-the-art technologies, with the aim of integrating them in the regular production of European statistics. For that purpose, the Commission (Eurostat) may initiate, in close cooperation with the ESS Committee, the development of new statistical outputs and insights across the ESS. Those statistical outputs and insights may be included in the annual work programme and implemented through individual statistical actions referred to in Article 14(1).
+
+2\. Statistics under development shall not be required to fulfil all the quality criteria laid down in Article 12(1).
+
+3\. The Commission (Eurostat) may disseminate European statistics under development with the agreement of the NSIs or other national authorities and shall explicitly indicate that those statistics are under development. NSIs and other national authorities may also disseminate European statistics under development produced by them.
+
+## CHAPTER IV — DISSEMINATION OF EUROPEAN STATISTICS
+
+### Article 18 — Dissemination measures
+
+1\. The dissemination of European statistics shall be undertaken in full compliance with the statistical principles, as set out in Article 2(1), particularly in respect of protecting statistical confidentiality and ensuring equality of access as required under the principle of impartiality.
+
+2\. The dissemination of European statistics shall be carried out by the Commission (Eurostat), the NSIs and other national authorities, within their respective spheres of competence.
+
+3\. Member States and the Commission, within their respective spheres of competence, shall provide the necessary support to ensure equality of access to European statistics for all users.
+
+4\. The Commission (Eurostat) may disseminate European statistics already published at national level by the Member States ahead of the deadlines set out in the relevant sectoral legislation, provided that such statistics comply with the relevant definitions and classification.
+
+### Article 19 — Public use files
+
+Data on individual statistical units may be disseminated in the form of a public use file consisting of anonymised records which have been prepared in such a way that the statistical unit cannot be identified, either directly or indirectly, when account is taken of all relevant means that might reasonably be used by a third party.
+
+If the data have been transmitted to the Commission (Eurostat) the explicit approval of the NSI or other national authority which provided the data is required.
+
+## CHAPTER V — STATISTICAL CONFIDENTIALITY
+
+### Article 20 — Protection of confidential data
+
+1\. The following rules and measures shall apply to ensure that confidential data are exclusively used for statistical purposes and to prevent their unlawful disclosure.
+
+2\. Confidential data obtained exclusively for the production of European statistics shall be used by the NSIs and other national authorities and by the Commission (Eurostat) exclusively for statistical purposes unless the statistical unit has unambiguously given its consent to the use for any other purposes.
+
+3\. Statistical results which may make it possible to identify a statistical unit may be disseminated by the NSIs and other national authorities and the Commission (Eurostat) in the following exceptional cases:
+
+(a) where specific conditions and modalities are determined by an act of the European Parliament and of the Council acting in accordance with Article 251 of the Treaty and the statistical results are amended in such a way that their dissemination does not prejudice statistical confidentiality whenever the statistical unit has so requested; or
+
+(b) where the statistical unit has unambiguously agreed to the disclosure of data.
+
+4\. Within their respective spheres of competence, the NSIs and other national authorities and the Commission (Eurostat) shall take all necessary regulatory, administrative, technical and organisational measures to ensure the physical and logical protection of confidential data (statistical disclosure control).
+
+The NSIs, other national authorities and the Commission (Eurostat) shall take all necessary measures to ensure the alignment of principles and guidelines with regard to the physical and logical protection of confidential data. The Commission shall ensure such alignment by means of implementing acts, without supplementing this Regulation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+5\. Officials and other staff of the NSIs and other national authorities having access to confidential data shall be subject to compliance with such confidentiality, even after cessation of their functions.
+
+### Article 21 — Transmission of confidential data
+
+1\. Transmission of confidential data from an ESS authority, as referred to in Article 4, that collected the data to another ESS authority shall be allowed, provided that the transmission is necessary for the efficient development, production and dissemination of European statistics or for increasing the quality of European statistics. If the data have been transmitted to the Commission (Eurostat), the approval of the NSI or other national authority which provided the data is required.
+
+2\. Transmission of confidential data between an ESS authority that collected the data and an ESCB member shall be allowed, provided that the transmission is necessary for the efficient development, production and dissemination of European statistics or for increasing the quality of European statistics, within the respective spheres of competence of the ESS and the ESCB, and that that necessity has been justified. If the data have been transmitted to the Commission (Eurostat), the approval of the NSI or other national authority which provided the data is required.
+
+3\. Any further transmission beyond the first transmission shall require the explicit authorisation of the authority that collected the data.
+
+4\. National rules on statistical confidentiality shall not be invoked to prevent the transmission of confidential data under paragraphs 1 and 2 where an act of the European Parliament and of the Council acting in accordance with Article 251 of the Treaty provides for the transmission of such data.
+
+5\. Confidential data transmitted in accordance with this Article shall be used exclusively for statistical purposes and only accessible to staff working in statistical activities within their specific domain of work.
+
+6\. The provisions on statistical confidentiality provided for in this Regulation shall apply to all confidential data transmitted within the ESS and between the ESS and the ESCB.
+
+### Article 22 — Protection of confidential data in the Commission (Eurostat)
+
+1\. Confidential data shall be accessible, subject to the exceptions laid down in paragraph 2, only to officials of the Commission (Eurostat) within their specific domain of work.
+
+2\. The Commission (Eurostat) may in exceptional cases grant access to confidential data to its other staff and to other natural persons working for the Commission (Eurostat) under contract within their specific domain of work.
+
+3\. Persons having access to confidential data shall use these data exclusively for statistical purposes. They shall be subject to this restriction even after cessation of their functions.
+
+### Article 23 — Access to confidential data for research purposes
+
+Access to confidential data, including data made available by private data holders, which only allow for the indirect identification of the statistical units may be granted to researchers carrying out statistical analyses for scientific purposes by the Commission (Eurostat) or by the NSIs or other national authorities, within their respective spheres of competence. If the data have been transmitted to the Commission (Eurostat), the approval of the NSI or other national authority which provided the data is required.
+
+The Commission shall establish, by means of implementing acts, the arrangements, rules and conditions for access at Union level. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+For the purposes of this Regulation, research purposes shall cover research activities such as technological development and demonstration, fundamental research and applied research.
+
+### Article 25 — Publicly available data
+
+Data lawfully available to the public that remain available to the public pursuant to national or Union law shall not be considered confidential when used for statistical purposes or for the dissemination of statistics obtained from such data. Such data shall include in particular data on key attributes of individual companies as listed in Commission Implementing Regulation (EU) 2023/138 ( 12 ).
+
+### Article 26 — Violation of statistical confidentiality
+
+Member States and the Commission shall take appropriate measures to prevent and penalise any violations of statistical confidentiality. The penalties provided for shall be effective, proportionate and dissuasive.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 26a — Contribution to national data governance frameworks
+
+1\. In compliance with the principle of subsidiarity, the NSIs may assume at national level functions as laid down in the national data governance frameworks with the goal of promoting data integration and interoperability, metadata description, quality assurance and standard setting, data sharing and re-use of data, as well as other tasks and functions laid down in Regulation (EU) 2022/868 of the European Parliament and of the Council ( 13 ).
+
+2\. The performance of functions referred to in paragraph 1 of this Article by the NSIs shall be compatible with the exercise of the statistical functions performed in conformity with the statistical principles set out in Article 2(1).
+
+### Article 27 — Committee procedure
+
+1\. The Commission shall be assisted by the ESS Committee. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 14 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 27a — Evaluation and review
+
+By 27 December 2029, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council. That evaluation shall assess, in particular:
+
+(a) the statistical response to a crisis situation under Article 16a;
+
+(b) the obligation of private data holders to allow their data to be used for European statistics in accordance with Articles 17b, 17c, 17d and 17e;
+
+(c) the data sharing in the ESS under Article 17f;
+
+(d) the development of European statistics under Chapter IIIa.
+
+### Article 28 — Repeal
+
+1\. Regulation (EC, Euratom) No 1101/2008 is hereby repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+References to the Committee on Statistical Confidentiality established under the repealed Regulation shall be construed as references to the ESS Committee established by Article 7 of this Regulation.
+
+2\. Regulation (EC) No 322/97 is hereby repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+3\. Decision 89/382/EEC, Euratom is hereby repealed.
+
+References to the Statistical Programme Committee shall be construed as references to the ESS Committee established by Article 7 of this Regulation.
+
+### Article 29 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Decision No 235/2008/EC of the European Parliament and of the Council of 11 March 2008 establishing the European Statistical Governance Advisory Board (OJ L 73, 15.3.2008, p. 17).
+
+( 2 ) Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
+
+( 3 ) Council Implementing Decision (EU) 2018/1993 of 11 December 2018 on the EU Integrated Political Crisis Response Arrangements (OJ L 320, 17.12.2018, p. 28).
+
+( 4 ) Regulation (EU) 2021/690 of the European Parliament and of the Council of 28 April 2021 establishing a programme for the internal market, competitiveness of enterprises, including small and medium-sized enterprises, the area of plants, animals, food and feed, and European statistics (Single Market Programme) and repealing Regulations (EU) No 99/2013, (EU) No 1287/2013, (EU) No 254/2014 and (EU) No 652/2014 (OJ L 153, 3.5.2021, p. 1).
+
+( 5 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 6 ) Regulation (EU) 2021/240 of the European Parliament and of the Council of 10 February 2021 establishing a Technical Support Instrument (OJ L 57, 18.2.2021, p. 1).
+
+( 7 ) Regulation (EU) 2019/817 of the European Parliament and of the Council of 20 May 2019 on establishing a framework for interoperability between EU information systems in the field of borders and visa and amending Regulations (EC) No 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 and (EU) 2018/1861 of the European Parliament and of the Council and Council Decisions 2004/512/EC and 2008/633/JHA (OJ L 135, 22.5.2019, p. 27).
+
+( 8 ) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).
+
+( 9 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 10 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 11 ) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+
+( 12 ) Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use (OJ L 19, 20.1.2023, p. 43).
+
+( 13 ) Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (OJ L 152, 3.6.2022, p. 1).
+
+( 14 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **on unfair terms in consumer contracts**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2011/83/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2011 </td><td> L 304</td><td>64</td><td>22.11.2011</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 328</td><td>7</td><td>18.12.2019</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 93/13/EEC**
 

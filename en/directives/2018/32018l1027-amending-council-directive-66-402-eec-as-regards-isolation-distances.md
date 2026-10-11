@@ -79,6 +79,7 @@ Point 2 of Annex I to Directive 66/402/EEC is replaced by the following:
 
 ‘2. The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination:
 
+<table>
 <tbody><tr><td>Crop</td><td>Minimum distance</td></tr>
 <tr><td>Phalaris canariensis, Secale cereale other than hybrids:</td><td></td></tr>
 <tr><td><table><tbody><tr><td>—</td><td>for the production of basic seed</td></tr>
@@ -110,6 +111,7 @@ Point 2 of Annex I to Directive 66/402/EEC is replaced by the following:
 </td><td>20 m</td></tr>
 <tr><td>Zea mays</td><td>200 m</td></tr>
 </tbody>
+</table>
 
 The minimum distances listed in the table above may be disregarded if there is sufficient protection from any undesirable foreign pollination.’
 

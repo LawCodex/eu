@@ -1,0 +1,860 @@
+---
+title: "Regulation (EU) 2020/740 of the European Parliament and of the Council of 25 May 2020 on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009 (Text with EEA relevance)"
+identifier: "32020R0740"
+eli: "http://data.europa.eu/eli/reg/2020/740/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2020-05-25
+entry_into_force: 2020-11-18
+last_amended: 2020-06-05
+consolidated_version: "02020R0740-20200605"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R0740-20200605"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2020/740 of the European Parliament and of the Council of 25 May 2020 on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009 (Text with EEA relevance)
+
+**REGULATION (EU) 2020/740 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 May 2020**
+
+**on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009**
+
+**(Text with EEA relevance)**
+
+C1
+
+**REGULATION (EU) 2020/740 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 May 2020**
+
+**on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation establishes a framework for the provision of harmonised information on tyre parameters through labelling to allow end-users to make an informed choice when purchasing tyres, for the purpose of increasing safety, the protection of health, and the economic and environmental efficiency of road transport, by promoting fuel‐efficient, long‐lasting and safe tyres with low noise levels.
+
+## Article 2 — Scope
+
+1\. This Regulation applies to C1 tyres, C2 tyres and C3 tyres that are placed on the market.
+
+Requirements for re‐treaded tyres apply once a suitable testing method to measure the performance of such tyres is available in accordance with Article 13.
+
+2\. This Regulation does not apply to:
+
+(a) off‐road professional tyres;
+
+(b) tyres designed to be fitted only on vehicles registered for the first time before 1 October 1990;
+
+(c) T‐type temporary‐use spare tyres;
+
+(d) tyres whose speed rating is less than 80 km/h;
+
+(e) tyres whose nominal rim diameter does not exceed 254 mm or is 635 mm or more;
+
+(f) tyres fitted with additional devices to improve traction properties, such as studded tyres;
+
+(g) tyres designed only to be fitted on vehicles intended exclusively for racing;
+
+(h) second‐hand tyres, unless such tyres are imported from a third country.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘C1 tyres’, ‘C2 tyres’ and ‘C3 tyres’ means tyres belonging to the respective classes set out in Article 8(1) of Regulation (EC) No 661/2009;
+
+(2) ‘re‐treaded tyre’ means a used tyre that is reconditioned by replacing the worn tread with new material;
+
+(3) ‘T‐type temporary‐use spare tyre’ means a temporary‐use spare tyre designed for use at inflation pressures higher than those established for standard and reinforced tyres;
+
+(4) ‘off‐road professional tyre’ means a special‐use tyre used primarily in severe off‐road conditions;
+
+(5) ‘tyre label’ means a graphic diagram, in printed or electronic form, including in the form of a sticker, which includes symbols in order to inform end-users about the performance of a tyre or batch of tyres in relation to the parameters set out in Annex I;
+
+(6) ‘point of sale’ means a location where tyres are displayed or stored and are offered for sale, including car show rooms where tyres that are not fitted on vehicles are offered for sale to end-users;
+
+(7) ‘technical promotional material’ means documentation, in printed or electronic form, that is produced by a supplier to supplement advertising material with the information set out in Annex IV;
+
+(8) ‘product information sheet’ means a standard document containing the information set out in Annex III in printed or electronic form;
+
+(9) ‘technical documentation’ means documentation sufficient to enable market surveillance authorities to assess the accuracy of the tyre label and the product information sheet, including the information set out in point (2) of Annex VII;
+
+(10) ‘product database’ means the product database established pursuant to Article 12 of Regulation (EU) 2017/1369;
+
+(11) ‘distance selling’ means the offer for sale, hire or hire purchase by mail order, catalogue, internet, telemarketing or by any other method by which the potential end-user cannot be expected to see the tyre displayed;
+
+(12) ‘manufacturer’ means a manufacturer as defined in point (8) of Article 3 of Regulation (EU) 2019/1020;
+
+(13) ‘importer’ means an importer as defined in point (9) of Article 3 of Regulation (EU) 2019/1020;
+
+(14) ‘authorised representative’ means a natural or legal person established within the Union who has received a written mandate from a manufacturer to act on the manufacturer’s behalf in relation to specified tasks with regard to the manufacturer’s obligations under the requirements of this Regulation;
+
+(15) ‘supplier’ means a manufacturer established in the Union, an authorised representative of a manufacturer who is not established in the Union, or an importer, who places a product on the Union market;
+
+(16) ‘distributor’ means a natural or legal person in the supply chain, other than the supplier, who makes a product available on the market;
+
+(17) ‘making available on the market’ means making available on the market as defined in point (1) of Article 3 of Regulation (EU) 2019/1020;
+
+(18) ‘placing on the market’ means placing on the market as defined in point (2) of Article 3 of Regulation (EU) 2019/1020;
+
+(19) ‘end-user’ means a consumer, fleet manager or road transport undertaking that buys or is expected to buy a tyre;
+
+(20) ‘parameter’ means a tyre characteristic that has a significant impact on the environment, road safety or health during the use of the tyre, such as tyre abrasion, mileage, rolling resistance, wet grip, external rolling noise, snow grip or ice grip;
+
+(21) ‘tyre type’ means a version of a tyre for which the technical characteristics on the tyre label, the product information sheet and the tyre type identifier are the same for all units of that version;
+
+(22) ‘verification tolerance’ means the maximum admissible deviation between the measurement and calculation results of the verification tests performed by, or on behalf of, market surveillance authorities, and the values of the declared or published parameters, reflecting deviation arising from interlaboratory variation;
+
+(23) ‘tyre type identifier’ means a code, usually alphanumeric, which distinguishes a specific tyre type from other tyre types that have the same trade name or the same trademark as that of the supplier;
+
+(24) ‘equivalent tyre type’ means a tyre type which is placed on the market by the same supplier as another tyre type with a different tyre type identifier and which has the same technical characteristics that are relevant to the tyre label and the same product information sheet.
+
+## Article 4 — Obligations of tyre suppliers
+
+1\. Suppliers shall ensure that C1 tyres, C2 tyres and C3 tyres that are placed on the market are accompanied free of charge:
+
+(a) for each individual tyre, by a tyre label, in the form of a sticker, that complies with the requirements set out in Annex II, indicating the information and class for each of the parameters set out in Annex I, and by a product information sheet; or
+
+(b) for each batch of one or more identical tyres, by a printed tyre label that complies with the requirements set out in Annex II, indicating the information and class for each of the parameters set out in Annex I, and by a product information sheet.
+
+2\. For tyres sold or offered for sale by distance selling, suppliers shall ensure that the tyre label is displayed close to the price indication and that the product information sheet can be accessed, including, upon request from the end-user, in printed form. The size of the tyre label shall be such that it is clearly visible and legible and shall be proportionate to the size specified in point 2.1 of Annex II.
+
+For tyres sold or offered for sale on the internet, suppliers may make the tyre label for a specific tyre type available in a nested display.
+
+3\. Suppliers shall ensure that any visual advertisement for a specific tyre type shows the tyre label. If the visual advertisement indicates the price of that tyre type, the tyre label shall be displayed close to the price indication.
+
+For visual advertisements on the internet, suppliers may make the tyre label available in a nested display.
+
+4\. Suppliers shall ensure that any technical promotional material concerning a specific tyre type displays the tyre label of that tyre type and includes the information set out in Annex IV.
+
+5\. Suppliers shall provide to a relevant national authority as defined in point (37) of Article 3 of Regulation (EU) 2018/858 the values used to determine the related classes and any additional performance information that the supplier declares on the tyre label of tyre types in accordance with Annex I to this Regulation, as well as the tyre label that complies with the requirements set out in Annex II to this Regulation. That information shall be submitted to the relevant national authority on the basis of Article 5(1) and (2) of this Regulation before the placing on the market of the tyre types in question, so that the authority may verify the accuracy of the tyre label.
+
+6\. Suppliers shall ensure the accuracy of the tyre labels and product information sheets that they provide.
+
+7\. Suppliers may make technical documentation available to the authorities of Member States other than those authorities indicated in paragraph 5 or to relevant national accredited bodies on request.
+
+8\. Suppliers shall cooperate with market surveillance authorities and shall take immediate action to remedy any case of non‐compliance with this Regulation for which they are responsible, at their own initiative or when required to do so by market surveillance authorities.
+
+9\. Suppliers shall not provide or display other labels, marks, symbols or inscriptions that do not comply with this Regulation and that would be likely to mislead or confuse end-users with respect to the parameters set out in Annex I.
+
+10\. Suppliers shall not provide or display labels that mimic the tyre label provided for under this Regulation.
+
+## Article 5 — Obligations of tyre suppliers in relation to the product database
+
+1\. From 1 May 2021, suppliers shall enter the information set out in Annex VII into the product database before placing on the market a tyre produced after that date.
+
+2\. For tyres that are produced between 25 June 2020 and 30 April 2021, the supplier shall enter the information set out in Annex VII into the product database by 30 November 2021.
+
+3\. For tyres that are placed on the market before 25 June 2020, the supplier may enter the information set out in Annex VII into the product database.
+
+4\. Until the information referred to in paragraphs 1 and 2 has been entered into the product database, the supplier shall make an electronic version of the technical documentation available for inspection within 10 working days of receiving a request from a market surveillance authority.
+
+5\. Where type‐approval authorities or market surveillance authorities need information other than that set out in Annex VII in order to carry out their tasks under this Regulation, the supplier shall provide them with that information on request.
+
+6\. A tyre for which changes are made that are relevant for the tyre label or the product information sheet shall be considered to be a new tyre type. The supplier shall indicate in the product database when it has ceased to place on the market units of a certain tyre type.
+
+7\. After the final unit of a tyre type has been placed on the market, the supplier shall keep the information concerning that tyre type in the compliance part of the product database for a period of five years.
+
+## Article 6 — Obligations of tyre distributors
+
+1\. Distributors shall ensure that:
+
+(a) at the point of sale, tyres bear a tyre label, in the form of a sticker, that complies with the requirements set out in Annex II, provided by the supplier in accordance with point (a) of Article 4(1) in a clearly visible position and legible in its entirety, and that the product information sheet is available, including, upon request, in printed form; or
+
+(b) before the sale of a tyre that is part of a batch of one or more identical tyres, a printed tyre label that complies with the requirements set out in Annex II, is shown to the end-user and is clearly displayed close to the tyre at the point of sale, and that the product information sheet is available.
+
+2\. Distributors shall ensure that any visual advertisement for a specific tyre type shows the tyre label. If the visual advertisement indicates the price of that tyre type, the tyre label shall be displayed close to the price indication.
+
+For visual advertisements on the internet for a specific tyre type, distributors may make the tyre label available in a nested display.
+
+3\. Distributors shall ensure that any technical promotional material concerning a specific tyre type displays the tyre label and includes the information set out in Annex IV.
+
+4\. Distributors shall ensure that where tyres offered for sale are not visible to the end-user at the time of sale, they provide the end-user with a copy of the tyre label before the sale.
+
+5\. Distributors shall ensure that any paper‐based distance selling shows the tyre label and that end-users can access the product information sheet through a free access website, and can request a printed copy of the product information sheet.
+
+6\. Distributors that use telemarketing‐based distance selling shall inform end-users of the classes for each of the parameters on the tyre label, and inform end-users that they can access the tyre label and the product information sheet through a free access website, and by requesting a printed copy.
+
+7\. For tyres sold or offered for sale on the internet, distributors shall ensure that the tyre label is displayed close to the price indication and that the product information sheet can be accessed. The size of the tyre label shall be such that it is clearly visible and legible and shall be proportionate to the size specified in point 2.1 of Annex II.
+
+Distributors may make the tyre label for a specific tyre type available in a nested display.
+
+## Article 7 — Obligations of vehicle suppliers and vehicle distributors
+
+Where end-users intend to acquire a new vehicle, vehicle suppliers and vehicle distributors shall provide, before the sale, those end-users with the tyre label for the tyres offered with or fitted on the vehicle and any relevant technical promotional material, and shall ensure that the product information sheet is available.
+
+## Article 8 — Obligations of hosting service providers
+
+Where a service provider as referred to in Article 14 of Directive 2000/31/EC allows the selling of tyres through its internet site, that service provider shall enable the display of the tyre label and the product information sheet provided by the supplier close to the price indication and shall inform the distributor of the obligation to display the tyre label and the product information sheet.
+
+## Article 9 — Testing and measurement methods
+
+The information to be provided under Articles 4, 6 and 7 on the parameters indicated on the tyre label shall be obtained in accordance with the testing methods referred to in Annex I and the laboratory alignment procedure referred to in Annex V.
+
+## Article 10 — Verification procedure
+
+For each of the parameters set out in Annex I, Member States shall apply the verification procedure set out in Annex VI when assessing the conformity of the declared classes with this Regulation.
+
+## Article 11 — Obligations of Member States
+
+1\. Member States shall not impede the placing on the market or putting into service of tyres within their territories, where such tyres comply with this Regulation.
+
+2\. Where Member States provide incentives with regard to tyres, such incentives shall target only tyres in class A or B with respect to rolling resistance or wet grip within the meaning of Parts A and B of Annex I, respectively. Taxation and fiscal measures shall not constitute incentives for the purposes of this Regulation.
+
+3\. Without prejudice to Regulation (EU) 2019/1020, where the relevant national authority as defined in point (37) of Article 3 of Regulation (EU) 2018/858 has sufficient reason to believe that a supplier has not ensured the accuracy of the tyre label in accordance with Article 4(6) of this Regulation, it shall verify that the classes and any additional performance information declared on the tyre label correspond to the values and to the documentation submitted by the supplier, in accordance with Article 4(5) of this Regulation.
+
+4\. In accordance with Regulation (EU) 2019/1020, Member States shall ensure that the national market surveillance authorities establish a system of routine and ad hoc inspections of points of sale for the purposes of ensuring compliance with this Regulation.
+
+5\. Member States shall lay down the rules on penalties and enforcement mechanisms applicable to infringements of this Regulation and of the delegated acts adopted pursuant thereto, and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 1 May 2021, notify the Commission of those rules and of those measures that have not previously been notified to the Commission, and shall notify it, without delay, of any subsequent amendment affecting them.
+
+## Article 12 — Union market surveillance and control of products entering the Union market
+
+1\. Regulation (EU) 2019/1020 shall apply to the tyres covered by this Regulation and the relevant delegated acts adopted pursuant thereto.
+
+2\. The Commission shall encourage and support cooperation and the exchange of information on market surveillance relating to the labelling of tyres between the authorities of the Member States that are responsible for market surveillance or are in charge of the control of tyres entering the Union market, and between those authorities and the Commission, in particular by involving the Administrative Cooperation Group for the Labelling of Tyres more closely.
+
+3\. Member States’ national market surveillance strategies established pursuant to Article 13 of Regulation (EU) 2019/1020 shall include actions to ensure the effective enforcement of this Regulation.
+
+4\. Market surveillance authorities may recover the costs of document inspection and physical product testing from the supplier in cases of non‐compliance by the supplier with this Regulation or the relevant delegated acts adopted pursuant thereto.
+
+## Article 13 — Delegated acts
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 14 in order to amend:
+
+(a) Annex II with regard to the content and format of the tyre label;
+
+(b) parts D and E of Annex I and Annexes II, III, IV, V, VI and VII, by adapting the values, calculation methods and requirements set out therein to technological progress.
+
+2\. By 26 June 2022, the Commission shall adopt delegated acts in accordance with Article 14 in order to supplement this Regulation by introducing new information requirements for re‐treaded tyres in the Annexes, provided that a suitable testing method is available.
+
+3\. The Commission is also empowered to adopt delegated acts in accordance with Article 14 in order to include parameters or information requirements for tyre abrasion and mileage, as soon as reliable, accurate and reproducible methods to test and measure tyre abrasion and mileage are available for use by European or international standardisation organisations and provided that the following conditions are met:
+
+(a) a thorough impact assessment has been carried out by the Commission; and
+
+(b) a proper consultation of the relevant stakeholders has been conducted by the Commission.
+
+4\. Where appropriate, when preparing delegated acts, the Commission shall test the content and format of tyre labels with representative groups of Union customers to ensure that the tyre labels are clearly understandable, and shall publish the results.
+
+## Article 14 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 13 shall be conferred on the Commission for a period of five years from 25 June 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five‐year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 13 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law‐Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 13 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 15 — Evaluation and report
+
+By 1 June 2025, the Commission shall carry out an evaluation of this Regulation and submit a report to the European Parliament, the Council and the European Economic and Social Committee.
+
+That report shall assess how effectively this Regulation and the delegated acts adopted pursuant thereto have led end-users to choose higher‐performing tyres, taking into account the impact of this Regulation and the delegated acts adopted pursuant thereto on business, fuel consumption, safety, greenhouse gas emissions, consumer awareness and market surveillance activities. The report shall also assess the costs and benefits of mandatory independent third‐party verification of the information provided in the tyre label, taking into account experience gained with regard to the broader framework provided by Regulation (EC) No 661/2009.
+
+## Article 16 — Amendment to Regulation (EU) 2017/1369
+
+In Article 12(2) of Regulation (EU) 2017/1369, point (a) is replaced by the following:
+
+‘(a) to support market surveillance authorities in carrying out their tasks under this Regulation and the relevant delegated acts, including enforcement thereof, and under Regulation (EU) 2020/740 of the European Parliament and of the Council ( *1 ).
+
+## Article 17 — Repeal of Regulation (EC) No 1222/2009
+
+Regulation (EC) No 1222/2009 is repealed with effect from 1 May 2021.
+
+References to the repealed Regulation shall be construed as references to this Regulation and read in accordance with the correlation table in Annex VIII to this Regulation.
+
+## Article 18 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 May 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — TESTING, GRADING AND MEASUREMENT OF TYRE PARAMETERS
+
+**Part A: Fuel efficiency classes and rolling resistance coefficient**
+
+The fuel efficiency class shall be determined and illustrated on the tyre label on the basis of the rolling resistance coefficient (RRC in N/kN) according to the ‘A’ to ‘E’ scale specified in the table below and measured in accordance with Annex 6 to UNECE Regulation No 117 and aligned in accordance with the laboratory alignment procedure set out in Annex V.
+
+If a tyre type belongs to more than one tyre class (e.g. C1 and C2), the grading scale used to determine the fuel efficiency class of that tyre type shall be that which is applicable to the highest tyre class (e.g. C2, not C1).
+
+|  | C1 tyres | C2 tyres | C3 tyres |
+| --- | --- | --- | --- |
+| Fuel efficiency class | RRC in N/kN | RRC in N/kN | RRC in N/kN |
+| A | RRC ≤ 6,5 | RRC ≤ 5,5 | RRC ≤ 4,0 |
+| B | 6,6 ≤ RRC ≤ 7,7 | 5,6 ≤ RRC ≤ 6,7 | 4,1 ≤ RRC ≤ 5,0 |
+| C | 7,8 ≤ RRC ≤ 9,0 | 6,8 ≤ RRC ≤ 8,0 | 5,1 ≤ RRC ≤ 6,0 |
+| D | 9,1 ≤ RRC ≤ 10,5 | 8,1 ≤ RRC ≤ 9,0 | 6,1 ≤ RRC ≤ 7,0 |
+| E | RRC ≥ 10,6 | RRC ≥ 9,1 | RRC ≥ 7,1 |
+
+**Part B: Wet grip classes**
+
+1\. The wet grip class shall be determined and illustrated on the tyre label on the basis of the wet grip index (G) according to the ‘A’ to ‘E’ scale specified in the table below, calculated in accordance with point 2 and measured in accordance with Annex 5 to UNECE Regulation No 117.
+
+2\. Calculation of wet grip index (G)
+
+G = G(T) 0,03
+
+where:
+
+G(T) = wet grip index of the candidate tyre as measured in one test cycle
+
+|  | C1 tyres | C2 tyres | C3 tyres |
+| --- | --- | --- | --- |
+| Wet grip class | G | G | G |
+| A | 1,55 ≤ G | 1,40 ≤ G | 1,25 ≤ G |
+| B | 1,40 ≤ G ≤ 1,54 | 1,25 ≤ G ≤ 1,39 | 1,10 ≤ G ≤ 1,24 |
+| C | 1,25 ≤ G ≤ 1,39 | 1,10 ≤ G ≤ 1,24 | 0,95 ≤ G ≤ 1,09 |
+| D | 1,10 ≤ G ≤ 1,24 | 0,95 ≤ G ≤ 1,09 | 0,80 ≤ G ≤ 0,94 |
+| E | G ≤ 1,09 | G ≤ 0,94 | G ≤ 0,79 |
+
+**Part C: External rolling noise classes and measured value**
+
+The external rolling noise measured value (N, in dB(A)) shall be declared in decibels and calculated in accordance with Annex 3 to UNECE Regulation No 117.
+
+The external rolling noise class shall be determined and illustrated on the tyre label on the basis of the limit values (LV) set out in Part C of Annex II to Regulation (EC) No 661/2009 as follows:
+
+[image]
+
+**Part D: Snow grip**
+
+The snow grip performance shall be tested in accordance with Annex 7 to UNECE Regulation No 117.
+
+A tyre which satisfies the minimum snow grip index values set out in UNECE Regulation No 117 shall be classified as a tyre for use in severe snow conditions and the following pictogram shall be included on the tyre label.
+
+[image]
+
+**Part E: Ice grip**
+
+The ice grip performance shall be tested in accordance with reliable, accurate and reproducible methods, including, where appropriate, international standards, which take into account the generally recognised state of the art.
+
+The tyre label of a tyre which satisfies the relevant minimum ice grip index values shall include the following pictogram.
+
+[image]
+
+## ANNEX II — CONTENT AND FORMAT OF THE TYRE LABEL
+
+1\. Content of the tyre label
+
+1.1. Information to be included in the upper part of the tyre label:
+
+I. QR code;
+
+II. Trade name or trademark of the supplier;
+
+III. Tyre type identifier;
+
+IV. Tyre size designation, load‐capacity index and speed category symbol, as indicated in Regulation No 30 of the Economic Commission for Europe of the United Nations (UN/ECE) ( 1 ), in its most up‐to‐date version applicable to the Union, (UNECE Regulation No 30) and Regulation No 54 of the Economic Commission for Europe of the United Nations (UNECE) ( 2 ), in its most up‐to‐date version applicable to the Union, (UNECE Regulation No 54) for C1 tyres, C2 tyres and C3 tyres, as applicable;
+
+V. Tyre class: i.e. C1, C2 or C3;
+
+VI. Fuel efficiency pictogram, scale and performance class;
+
+VII. Wet grip pictogram, scale and performance class.
+
+1.2. Information to be included in the bottom part of the tyre label for all tyres other than tyres which satisfy the minimum snow grip index values set out in UNECE Regulation No 117, or the relevant minimum ice grip index values, or both:
+
+I. External rolling noise pictogram, value (expressed in dB(A) and rounded to the nearest integer) and performance class;
+
+II. The serial number of this Regulation: ‘2020/740’.
+
+1.3. Information to be included in the bottom part of the tyre label for tyres which satisfy the minimum snow grip index values set out in UNECE Regulation No 117:
+
+I. External rolling noise pictogram, value (expressed in dB(A) and rounded to the nearest integer) and performance class;
+
+II. Snow grip pictogram;
+
+III. The serial number of this Regulation: ‘2020/740’.
+
+1.4. Information to be included in the bottom part of the tyre label for tyres which satisfy the relevant minimum ice grip index values:
+
+I. External rolling noise pictogram, value (expressed in dB(A) and rounded to the nearest integer) and performance class;
+
+II. Ice grip pictogram;
+
+III. The serial number of this Regulation: ‘2020/740’.
+
+1.5. Information to be included in the bottom part of the tyre label for tyres which satisfy both the relevant minimum snow grip index values set out in UNECE Regulation No 117 and the minimum ice grip index values:
+
+I. External rolling noise pictogram, value (expressed in dB(A) and rounded to the nearest integer) and performance class;
+
+II. Snow grip pictogram;
+
+III. Ice grip pictogram;
+
+IV. The serial number of this Regulation: ‘2020/740’.
+
+2\. Format of the tyre label
+
+2.1. Format of the upper part of the tyre label:
+
+[image]
+
+2.1.1. Format of the bottom part of the tyre label for all tyres other than tyres which satisfy the minimum snow grip index values set out in UNECE Regulation No 117, or the relevant minimum ice grip index values, or both:
+
+[image]
+
+2.1.2. Format of the bottom part of the tyre label for tyres which satisfy the minimum snow grip index values set out in UNECE Regulation No 117:
+
+[image]
+
+2.1.3. Format of the bottom part of the tyre label for tyres which satisfy the minimum ice grip index values:
+
+[image]
+
+2.1.4. Format of the bottom part of the tyre label for tyres which satisfy both the relevant minimum snow grip index values set out in UNECE Regulation No 117 and the minimum ice grip index values:
+
+[image]
+
+2.2. For the purposes of point 2.1:
+
+(a) Tyre label minimal size: 75 mm wide and 110 mm high. Where the tyre label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above;
+
+(b) Background of the tyre label: 100 % white;
+
+(c) Typefaces: Verdana and Calibri;
+
+(d) Dimensions and specifications of the elements constituting the tyre label: as specified above;
+
+(e) Colour codes, using CMYK – cyan, magenta, yellow and black, shall fulfil all the following requirements:
+
+— colours of the EU logo as follows:
+
+— background: 100,80,0,0;
+
+— stars: 0,0,100,0;
+
+— colour of the energy logo: 100,80,0,0;
+
+— QR code: 100 % black;
+
+— trade name or trademark of the supplier: 100 % black and in Verdana Bold 8 pt;
+
+— tyre type identifier: 100 % black and in Verdana Regular 8 pt;
+
+— tyre size designation, load‐capacity index and speed category symbol: 100 % black and in Verdana Regular 10 pt;
+
+— tyre class: 100 % black and in Verdana Regular 8 pt  , aligned to the right;
+
+— letters of the fuel efficiency scale and of the wet grip scale: 100 % white and in Calibri Bold 15 pt; with a black outline of 0,15 pts; the letters shall be centred on an axis at 3 mm from the left side of the arrows;
+
+— CMYK colour codes of arrows for the A to E fuel efficiency scale, with a black outline of 0,15 pts, as follows:
+
+— A‐class: 100,0,100,0;
+
+— B‐class: 45,0,100,0;
+
+— C‐class: 0,0,100,0;
+
+— D‐class: 0,30,100,0;
+
+— E‐class: 0,100,100,0;
+
+— CMYK colour codes of arrows for the A to E wet grip scale, with a black outline of 0,15 pts, as follows:
+
+— A: 100,60,0,0;
+
+— B: 90,40,0,0;
+
+— C: 65,20,0,0;
+
+— D: 50,10,0,0;
+
+— E: 30,0,0,0;
+
+— internal dividers: weight of 0,5 pts, colour shall be 100 % black;
+
+— letter of the fuel efficiency class and of the wet grip class: 100 % white and in Calibri Bold 20 pt.  Fuel efficiency and wet grip class arrows and the corresponding arrows in the A to E scale shall be positioned in such a way that their tips are aligned. The letter in the fuel efficiency class and in the wet grip class arrow shall be positioned in the centre of the rectangular part of the arrow which shall be 100 % black;
+
+— fuel efficiency pictogram: width 16 mm, height 13 mm, weight 0,8 pts, colour: 100 % black;
+
+— wet grip pictogram: width 20 mm, height 13 mm, weight 0,8 pts, colour: 100 % black;
+
+— external rolling noise pictogram: width 24 mm, height 18 mm, weight 0,8 pts, colour: 100 % black. Number of decibels in the loudspeaker in Verdana Bold 10 pt, the unit ‘dB’ in Verdana Regular 8 pt; the range of external rolling noise classes (A to C) centred under the pictogram, with the letter of the applicable external rolling noise class in Verdana Bold 12 pt and the other letters of the external rolling noise classes in Verdana Regular 8 pt;
+
+— snow grip pictogram: width 15 mm, height 14 mm, weight 0,8 pts,  colour: 100 % black;
+
+— ice grip pictogram: width 15 mm, height 13 mm, weight 0,8 pts, weight of oblique bars 0,2 pts, colour: 100 % black;
+
+— the number of the regulation shall be 100 % black and in Verdana Regular 5 pt.
+
+## ANNEX III — PRODUCT INFORMATION SHEET
+
+The information in the product information sheet of tyres shall be included in the product brochure or other literature provided with the tyre and shall include the following:
+
+(a) the trade name or trademark of the supplier or of the manufacturer if it is not the same as that of the supplier;
+
+(b) the tyre type identifier;
+
+(c) the tyre size designation, load‐capacity index and speed category symbol, as indicated in UNECE Regulation No 30 or in UNECE Regulation No 54 for C1 tyres, C2 tyres and C3 tyres, as applicable;
+
+(d) the fuel efficiency class of the tyre in accordance with Annex I;
+
+(e) the wet grip class of the tyre in accordance with Annex I;
+
+(f) the external rolling noise class and value in decibels in accordance with Annex I;
+
+(g) an indication of whether the tyre is a tyre for use in severe snow conditions;
+
+(h) an indication of whether the tyre is an ice grip tyre;
+
+(i) the date of start of production of the tyre type (two digits for the week and two digits for the year);
+
+(j) the date of end of production of the tyre type, once known (two digits for the week and two digits for the year).
+
+## ANNEX IV — INFORMATION PROVIDED IN TECHNICAL PROMOTIONAL MATERIAL
+
+1\. Information on tyres included in technical promotional material shall be provided in the following order:
+
+(a) the fuel efficiency class (letter ‘A’ to ‘E’);
+
+(b) the wet grip class (letter ‘A’ to ‘E’);
+
+(c) the external rolling noise class and measured value in dB;
+
+(d) an indication of whether the tyre is a tyre for use in severe snow conditions;
+
+(e) an indication of whether the tyre is an ice grip tyre.
+
+2\. The information referred to in point 1 shall meet the following requirements:
+
+(a) it shall be easy to read;
+
+(b) it shall be easy to understand;
+
+(c) if within a tyre family tyre types are classified differently depending on dimension or other characteristics, the range between the lowest performing and highest performing tyre types shall be stated.
+
+3\. Suppliers shall also make the following available on their websites:
+
+(a) a link to the relevant Commission webpage dedicated to this Regulation;
+
+(b) an explanation of the pictograms printed on the tyre label;
+
+(c) a statement highlighting the fact that actual fuel savings and road safety depend heavily on the behaviour of drivers, and in particular on the following:
+
+— eco‐driving can significantly reduce fuel consumption;
+
+— tyre pressure needs to be regularly checked to optimise fuel efficiency and wet grip;
+
+— stopping distances must always be respected.
+
+4\. Suppliers and distributors shall also, where relevant, make available on their websites a statement highlighting the fact that ice grip tyres are specifically designed for road surfaces covered with ice and compact snow, and should only be used in very severe climate conditions (e.g. cold temperatures) and that using ice grip tyres in less severe climate conditions (e.g. wet conditions or warmer temperatures) could result in sub‐optimal performance, in particular for wet grip, handling and wear.
+
+## ANNEX V — LABORATORY ALIGNMENT PROCEDURE FOR THE MEASUREMENT OF ROLLING RESISTANCE
+
+**1\. Definitions**
+
+For the purposes of the laboratory alignment procedure for the measurement of rolling resistance, the following definitions apply:
+
+(1) ‘reference laboratory’ means a laboratory that is part of the network of laboratories, the names of which have been published in the Official Journal of the European Union for the purpose of the laboratory alignment procedure, and that is able to achieve the accuracy of test results determined in Section 3 with its reference machine;
+
+(2) ‘candidate laboratory’ means a laboratory participating in the laboratory alignment procedure that is not a reference laboratory;
+
+(3) ‘alignment tyre’ means a tyre that is tested for the purpose of performing the laboratory alignment procedure;
+
+(4) ‘alignment tyre set’ means a set of five or more alignment tyres for the alignment of one single machine;
+
+(5) ‘assigned value’ means a theoretical value of the rolling resistance coefficient (RRC) of one alignment tyre as measured by a theoretical laboratory which is representative of the network of reference laboratories that is used for the laboratory alignment procedure;
+
+(6) ‘machine’ means every tyre testing spindle in one specific measurement method; for example, two spindles acting on the same drum shall not be considered as one machine.
+
+**2\. General provisions**
+
+**2.1. Principle**
+
+The measured (m) rolling resistance coefficient obtained in a reference laboratory (l), (RRCm,l ), shall be aligned to the assigned values of the network of reference laboratories.
+
+The measured (m) rolling resistance coefficient obtained by a machine in a candidate laboratory (c), (RRCm,c ), shall be aligned through one reference laboratory of the network of its choice.
+
+**2.2. Tyre selection requirements**
+
+Alignment tyre sets shall be selected for the laboratory alignment procedure in accordance with the following criteria. One alignment tyre set shall be selected for C1 tyres and C2 tyres together, and one set for C3 tyres:
+
+(a) the alignment tyre set shall be selected so as to cover the range of different RRCs of C1 tyres and C2 tyres together, or of C3 tyres; in any event, the difference between the highest RRCm of the alignment tyre set, and the lowest RRCm of the alignment tyre set shall be, before and after alignment, at least equal to:
+
+(i) 3 N/kN for C1 tyres and C2 tyres; and
+
+(ii) 2 N/kN for C3 tyres;
+
+(b) the RRCm in the candidate or reference laboratories (RRCm,c or RRCm,l ) based on declared RRC values of each alignment tyre of the alignment tyre set shall be distributed evenly;
+
+(c) load index values shall adequately cover the range of the tyres to be tested, ensuring that the rolling resistance values also cover the range of the tyres to be tested.
+
+Each alignment tyre shall be checked prior to use and shall be replaced when:
+
+(a) the alignment tyre shows a condition which makes it unusable for further tests; or
+
+(b) there are deviations of RRCm,c or RRCm,l greater than 1,5 % relative to earlier measurements after correction for any machine drift.
+
+**2.3. Measurement method**
+
+The reference laboratory shall measure each alignment tyre four times and retain the three last results for further analysis, in accordance with paragraph 4 of Annex 6 to UNECE Regulation No 117 and under the conditions set out in paragraph 3 of Annex 6 to UNECE Regulation No 117.
+
+The candidate laboratory shall measure each alignment tyre (n + 1) times, with n being specified in Section 5 of this Annex and retain the n last results for further analysis, in accordance with paragraph 4 of Annex 6 to UNECE Regulation No 117 and applying the conditions set out in paragraph 3 of Annex 6 to UNECE Regulation No 117.
+
+Each time an alignment tyre is measured, the tyre/wheel assembly shall be removed from the machine and the entire test procedure referred to in paragraph 4 of Annex 6 to UNECE Regulation No 117 shall be followed again from the start.
+
+The candidate or reference laboratory shall calculate:
+
+(a) the measured value of each alignment tyre for each measurement as specified in paragraphs 6.2 and 6.3 of Annex 6 to UNECE Regulation No 117 (i.e. corrected for a temperature of 25 °C and a drum diameter of 2 m);
+
+(b) the mean value of the three last measured values of each alignment tyre (in the case of reference laboratories) or the mean value of the n last measured values of each alignment tyre (in the case of candidate laboratories); and
+
+(c) the standard deviation (σm ) as follows:
+
+[image]
+
+[image]
+
+where:
+
+i is the counter from 1 to p for the alignment tyres;
+
+j is the counter from 2 to n + 1 for the n last repetitions of each measurement of a given alignment tyre;
+
+n + 1 is the number of repetitions of tyre measurements (n + 1 = 4 for reference laboratories and n + 1 ≥ 4 for candidate laboratories);
+
+p is the number of alignment tyres (p ≥ 5).
+
+**2.4. Data formats to be used for the computations and results**
+
+The measured RRC values corrected from drum diameter and temperature shall be rounded to two decimal places.
+
+Then the computations shall be made with all digits: there shall be no further rounding except on the final alignment equations.
+
+All standard deviation values shall be displayed to three decimal places.
+
+All RRC values will be displayed to two decimal places.
+
+All alignment coefficients (A1 l , B1 l , A2 c and B2 c ) shall be rounded and displayed to four decimal places.
+
+**3\. Requirements applicable to the reference laboratories and determination of the assigned values**
+
+The assigned values of each alignment tyre shall be determined by a network of reference laboratories. Every second year the network shall assess the stability and validity of the assigned values.
+
+Each reference laboratory participating in the network shall comply with the specifications of Annex 6 to UNECE Regulation No 117 and have a standard deviation (σm ) as follows:
+
+(a) not greater than 0,05 N/kN for C1 tyres and C2 tyres; and
+
+(b) not greater than 0,05 N/kN for C3 tyres.
+
+The alignment tyre sets that have been selected in accordance with Section 2.2 shall be measured in accordance with Section 2.3 by each reference laboratory of the network.
+
+The assigned value of each alignment tyre is the average of the measured values given by the reference laboratories of the network for this alignment tyre.
+
+**4\. Procedure for the alignment of a reference laboratory to the assigned values**
+
+Each reference laboratory (l) shall align itself to each new set of assigned values and always after any significant machine change or any drift in machine control tyre monitoring data.
+
+The alignment shall use a linear regression technique on all individual data. The regression coefficients, A1 l and B1 l , shall be calculated as follows:
+
+RRC = A1 l × RRCm,l + B1 l
+
+where:
+
+| RRC | l | is the assigned value of the rolling resistance coefficient; |
+| --- | --- | --- |
+
+| RRCm, | l | is the individual measured value of the rolling resistance coefficient by the reference laboratory ‘l’ (including temperature and drum diameter corrections). |
+| --- | --- | --- |
+
+**5\. Requirements applicable to candidate laboratories**
+
+Candidate laboratories shall repeat the alignment procedure at least once every second year for every machine and always after any significant machine change or any drift in machine control tyre monitoring data.
+
+A common set of five different tyres that have been selected in accordance with Section 2.2 shall be measured in accordance with Section 2.3 first by the candidate laboratory and then by one reference laboratory. More than five alignment tyres may be tested at the request of the candidate laboratory.
+
+The candidate laboratory shall provide the alignment tyre set to the selected reference laboratory.
+
+The candidate laboratory (c) shall comply with the specifications of Annex 6 to UNECE Regulation No 117 and preferably have standard deviations (σm ) as follows:
+
+(a) not greater than 0,075 N/kN for C1 tyres and C2 tyres; and
+
+(b) not greater than 0,06 N/kN for C3 tyres.
+
+If the standard deviation (σm ) of the candidate laboratory is higher than those values after four measurements, the last three being used for the computations, then the number n + 1 of measurement repetitions shall be increased as follows for the entire batch:
+
+n + 1 = 1 + (σm /γ)2, rounded up to the nearest higher integer value
+
+where:
+
+γ = 0,043 N/kN for C1 tyres and C2 tyres;
+
+γ = 0,035 N/kN for C3 tyres.
+
+**6\. Procedure for the alignment of a candidate laboratory**
+
+One reference laboratory (l) of the network shall calculate the linear regression function on all individual data of the candidate laboratory (c). The regression coefficients, A2 c and B2 c , shall be calculated as follows:
+
+RRCm,l = A2 c × RRCm,c + B2 c
+
+where:
+
+RRCm,l is the individual measured value of the rolling resistance coefficient by the reference laboratory (l) (including temperature and drum diameter corrections);
+
+RRCm,c is the individual measured value of the rolling resistance coefficient by the candidate laboratory (c) (including temperature and drum diameter corrections)
+
+If the coefficient of determination R2 is lower than 0,97, the candidate laboratory shall not be aligned.
+
+The aligned RRC of tyres tested by the candidate laboratory shall be calculated as follows:
+
+RRC = (A1 l × A2 c ) × RRCm,c + (A1 l × B2 c + B1 l )
+
+## ANNEX VI — VERIFICATION PROCEDURE
+
+The conformity with this Regulation of the declared fuel efficiency, wet grip and external rolling noise classes, as well as the declared values, and any additional performance information on the tyre label, shall be assessed for each tyre type or each grouping of tyres as determined by the supplier, according to one of the following procedures:
+
+1\. A single tyre or tyre set is tested first. If the measured values meet the declared classes or the declared external rolling noise value within the verification tolerances referred to in the table below, the tyre label shall be considered to comply with this Regulation.
+
+If the measured values do not meet the declared classes or the declared external rolling noise value within the verification tolerances referred to in the table below, three additional tyres or tyre sets are to be tested; the average measurement value stemming from the three additional tyres or tyre sets tested is to be used to verify the declared information, taking into account the verification tolerances referred to in the table below.
+
+2\. Where the classes or values on the tyre label are derived from type‐approval test results obtained in accordance with Regulation (EC) No 661/2009, or UNECE Regulation No 117, Member States may use measurement data obtained from the conformity of production tests on tyres that were carried out under the type‐approval procedure established by Regulation (EU) 2018/858.
+
+Assessments of the measurement data obtained from the conformity of production tests shall take into account the verification tolerances referred to in the table below.
+
+| Measured parameter | Verification tolerances |
+| --- | --- |
+| RRC (fuel efficiency) | The aligned measured value shall not be greater than the upper limit (the highest RRC) of the declared class by more than 0,3 N/kN. |
+| External rolling noise | The measured value shall not be greater than the declared value of N by more than 1 dB(A). |
+| Wet grip | The measured value G(T) shall not be lower than the lower limit (the lowest value of G) of the declared class. |
+| Snow grip | The measured value shall not be lower than the minimum snow grip index. |
+| Ice grip | The measured value shall not be lower than the minimum ice grip index. |
+
+## ANNEX VII — INFORMATION TO BE ENTERED INTO THE PRODUCT DATABASE BY THE SUPPLIER
+
+1\. Information to be entered into the public part of the product database:
+
+(a) the trade name or trademark, address, contact details and other legal identification of the supplier;
+
+(b) the tyre type identifier;
+
+(c) the tyre label in electronic format;
+
+(d) the class(es) and other parameters of the tyre label; and
+
+(e) the parameters of the product information sheet in electronic format.
+
+2\. Information to be entered into the compliance part of the product database:
+
+(a) the tyre type identifier of all equivalent tyre types that are already placed on the market;
+
+(b) a general description of the tyre type, including its dimensions, load index and speed rating, sufficient for it to be unequivocally and easily identified;
+
+(c) protocols of the testing, grading and measurement of the tyre parameters set out in Annex I;
+
+(d) specific precautions, if any, that shall be taken when the tyre type is assembled, installed, maintained or tested;
+
+(e) the measured technical parameters of the tyre type, where relevant; and
+
+(f) the calculations performed with the measured technical parameters.
+
+## ANNEX VIII — CORRELATION TABLE
+
+| Regulation (EC) No 1222/2009 | This Regulation |
+| --- | --- |
+| Article 1(1) | — |
+| Article 1(2) | Article 1 |
+| Article 2(1) | Article 2(1) |
+| Article 2(2) | Article 2(2) |
+| Article 3, point (1) | Article 3, point (1) |
+| — | Article 3, point (2) |
+| Article 3, point (2) | Article 3, point (3) |
+| — | Article 3, point (4) |
+| — | Article 3, point (5) |
+| Article 3, point (3) | Article 3, point (6) |
+| Article 3, point (4) | Article 3, point (7) |
+| — | Article 3, point (8) |
+| Article 3, point (5) | Article 3, point (9) |
+| — | Article 3, point (10) |
+| — | Article 3, point (11) |
+| Article 3, point (6) | Article 3, point (12) |
+| Article 3, point (7) | Article 3, point (13) |
+| Article 3, point (8) | Article 3, point (14) |
+| Article 3, point (9) | Article 3, point (15) |
+| Article 3, point (10) | Article 3, point (16) |
+| Article 3, point (11) | Article 3, point (17) |
+| — | Article 3, point (18) |
+| Article 3, point (12) | Article 3, point (19) |
+| Article 3, point (13) | Article 3, point (20) |
+| — | Article 3, point (21) |
+| — | Article 3, point (22) |
+| — | Article 3, point (23) |
+| — | Article 3, point (24) |
+| Article 4 | Article 4 |
+| Article 4(1) | Article 4(1) |
+| Article 4(1), point (a) | Article 4(1), point (a) |
+| Article 4(1), point (b) | Article 4(1), point (b) |
+| Article 4(2) | — |
+| — | Article 4(2) |
+| — | Article 4(3) |
+| Article 4(3) | Article 4(4) |
+| Article 4(4) | Article 4(5) |
+| — | Article 4(6) |
+| — | Article 4(7) |
+| — | Article 4(8) |
+| — | Article 4(9) |
+| — | Article 4(10) |
+| — | Article 5 |
+| Article 5(1) | Article 6(1) |
+| Article 5(1), point (a) | Article 6(1), point (a) |
+| Article 5(1), point (b) | Article 6(1), point (b) |
+| — | Article 6(2) |
+| — | Article 6(3) |
+| Article 5(2) | Article 6(4) |
+| Article 5(3) | — |
+| — | Article 6(5) |
+| — | Article 6(6) |
+| — | Article 6(7) |
+| Article 6 | Article 7 |
+| — | Article 8 |
+| Article 7 | Article 9 |
+| Article 8 | Article 10 |
+| Article 9(1) | Article 11(1) |
+| Article 9(2) | Article 11(1) |
+| Article 9(2), 2nd sentence | Article 4(5) |
+| Article 10 | Article 11(2) |
+| — | Article 11(3) |
+| Article 11, point (a) | — |
+| Article 11, point (b) | — |
+| Article 11, point (c) | Article 13(1), point (b) |
+| Article 12 | Article 11(4) |
+| — | Article 11(5) |
+| — | Article 12 |
+| — | Article 13 |
+| — | Article 13(1) |
+| — | Article 13(2) |
+| — | Article 13(3) |
+| — | Article 13(4) |
+| — | Article 14 |
+| Article 13 | — |
+| Article 14 | — |
+| — | Article 15 |
+| Article 15 | — |
+| — | Article 16 |
+| — | Article 17 |
+| Article 16 | Article 18 |
+| Annex I | Annex I |
+| Annex II | Annex II |
+| — | Annex III |
+| Annex III | Annex IV |
+| Annex IV | Annex VI |
+| Annex IVa | Annex V |
+| Annex V | — |
+| — | Annex VII |
+| — | Annex VIII |
+
+( *1 ) Regulation (EU) 2020/740 of the European Parliament and of the Council of 25 May 2020 on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009 (OJ L 177, 5.6.2020, p. 1).’.
+
+( 1 ) Regulation No 30 of the Economic Commission for Europe of the United Nations (UN/ECE) – Uniform provisions concerning the approval of pneumatic tyres for motor vehicles and their trailers (OJ L 201, 30.7.2008, p. 70).
+
+( 2 ) Regulation No 54 of the Economic Commission for Europe of the United Nations (UNECE) – Uniform provisions concerning the approval of pneumatic tyres for commercial vehicles and their trailers (OJ L 183, 11.7.2008, p. 41).

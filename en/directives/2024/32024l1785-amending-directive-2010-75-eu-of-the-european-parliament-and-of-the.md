@@ -1470,6 +1470,7 @@ Derogations provided in accordance with Article 15(5) shall respect the followin
 |  | 1.2. | The evaluation of the costs shall be quantitative, and supported by a qualitative assessment. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>1.3.</td><td>Costs taken into account in the evaluation shall:<table><tbody><tr><td>(a)</td><td>represent net value costs, after deduction of any financial benefits from applying best available techniques;</td></tr>
 </tbody>
 </table>
@@ -1481,6 +1482,7 @@ Derogations provided in accordance with Article 15(5) shall respect the followin
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 1.4. | The application for a derogation shall clearly identify the source of the costs and the methods used to calculate them, including the discount rate mentioned in point 1.3(c) and the estimation of uncertainties associated with the costs evaluation. |
 | --- | --- | --- |
@@ -1510,6 +1512,7 @@ Derogations provided in accordance with Article 15(5) shall respect the followin
 |  | 3.1. | For the purpose of determining if there is a disproportionality, the costs of complying with the emission levels associated with best available techniques, and the benefits of such compliance, shall be compared. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>3.2.</td><td>The comparison mechanism shall include the following elements:<table><tbody><tr><td>(a)</td><td>a method to address uncertainties in evaluating costs and environmental benefits;</td></tr>
 </tbody>
 </table>
@@ -1518,6 +1521,7 @@ Derogations provided in accordance with Article 15(5) shall respect the followin
 </table>
 </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 

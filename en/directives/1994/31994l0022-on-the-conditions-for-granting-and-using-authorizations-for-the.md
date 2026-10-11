@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the conditions for granting and using authorizations for the prospection, exploration and production of hydrocarbons**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2018/1999 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018 </td><td> L 328</td><td>1</td><td>21.12.2018</td></tr>
+</table>
 
 **DIRECTIVE 94/22/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

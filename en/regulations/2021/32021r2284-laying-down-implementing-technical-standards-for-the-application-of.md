@@ -1,0 +1,5657 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/2284 of 10 December 2021 laying down implementing technical standards for the application of Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to supervisory reporting and disclosures of investment firms (Text with EEA relevance)"
+identifier: "32021R2284"
+eli: "http://data.europa.eu/eli/reg_impl/2021/2284/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-12-10
+entry_into_force: 2021-11-07
+last_amended: 2025-11-20
+consolidated_version: "02021R2284-20251120"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R2284-20251120"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/2284 of 10 December 2021 laying down implementing technical standards for the application of Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to supervisory reporting and disclosures of investment firms (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/2284**
+
+**of 10 December 2021**
+
+**laying down implementing technical standards for the application of Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to supervisory reporting and disclosures of investment firms**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2159 of 27 October 2025 </td><td> L 2159</td><td>1</td><td>31.10.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/2284**
+
+**of 10 December 2021**
+
+**laying down implementing technical standards for the application of Regulation (EU) 2019/2033 of the European Parliament and of the Council with regard to supervisory reporting and disclosures of investment firms**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUPERVISORY REPORTING
+
+### Article 1 — Reporting reference dates
+
+1\. The information referred to in Article 54(1) of Regulation shall be reported as this information stands on the following reporting reference dates:
+
+(a) quarterly reporting: 31 March, 30 June, 30 September and 31 December;
+
+(b) annual reporting: 31 December.
+
+2\. The reporting reference dates referred to in paragraph 1 may be adjusted where investment firms are permitted by national law to report their financial information based on their accounting year-end which deviates from the calendar year, so that the quarterly reporting of information is performed every three months of the respective accounting year and the annual reporting at the accounting year-end.
+
+### Article 2 — Reporting remittance dates
+
+1\. The information referred to in Article 54(1) of Regulation (EU) 2019/2033 shall be submitted by close of business of the following remittance dates:
+
+(a) quarterly reporting: 12 May, 11 August, 11 November and 11 February;
+
+(b) annual reporting: 11 February.
+
+By way of derogation from the first subparagraph, investment firms other than small and non-interconnected investment firms shall submit the information set out in template C 25.01 of Annex I to Commission Implementing Regulation (EU) 2024/3117 ( 1 ) for any reference dates between January and April 2026 by 30 June 2026 at the latest.
+
+2\. Where the reporting remittance day is a public holiday in the Member State of the competent authority to which the report is to be provided, or a Saturday or a Sunday, the reporting remittance day shall be the following working day.
+
+3\. Where investment firms report their information using adjusted reporting reference dates based on their accounting year-end as set out in Article 1(2) of this Regulation, the remittance dates may be adjusted accordingly so that the same remittance period from the adjusted reporting reference date is maintained.
+
+4\. Investment firms may submit unaudited figures. Where audited figures deviate from submitted unaudited figures, the revised, audited figures shall be submitted without undue delay. For the purposes of this Article, ‘unaudited figures’ shall mean figures that have not received an external auditor’s opinion whereas audited figures are figures audited by an external auditor expressing an audit opinion.
+
+5\. Corrections to the submitted reports shall be submitted to the competent authorities without undue delay.
+
+### Article 3 — Application of reporting requirements on an individual basis
+
+In order to comply with the reporting requirements of Article 54 of Regulation (EU) 2019/2033 on an individual basis, investment firms shall report the information specified in Articles 5, 6 and 7 of this Regulation with the frequency specified therein.
+
+### Article 4 — Application of reporting requirements on a consolidated basis
+
+In order to comply with the reporting requirements referred to in Article 54 of Regulation (EU) 2019/2033 on a consolidated basis, investment firms shall report the information specified in Articles 5 and 6 of this Implementing Regulation with the frequency specified therein.
+
+### Article 5 — Format and frequency of reporting by investment firms other than small and non-interconnected investment firms
+
+1\. Investment firms other than small and non-interconnected investment firms shall report the information required by paragraphs 1 and 2 of Article 54 of Regulation (EU) 2019/2033 by using the templates laid down in Annex I to this Regulation in accordance with the instructions set out in Annex II to this Regulation with a quarterly frequency.
+
+2\. Investment firms other than small and non-interconnected investment firms that determine the RtM K-factor requirement on the basis of K-NPR in accordance with Article 21(1) of Regulation (EU) 2019/2033 shall report with a quarterly frequency the information specified in templates C 18.00 to C 24.00 of Annex X to this Regulation in accordance with the instructions set out in Annex XI to this Regulation.
+
+3\. Investment firms other than small and non-interconnected investment firms that make use of the derogation laid down in Article 25(4) of Regulation (EU) 2019/2033 shall report with a quarterly frequency the information specified in template C 34.02 of Annex I to Implementing Regulation (EU) 2024/3117, with the exception of the information on the output floor, in accordance with the applicable instructions.
+
+4\. Investment firms other than small and non-interconnected investment firms that make use of the derogation laid down in Article 25(5), second subparagraph, of Regulation (EU) 2019/2033 shall report with a quarterly frequency the information specified in template C 25.01 of Annex I to Implementing Regulation (EU) 2024/3117 in accordance with the applicable instructions.
+
+### Article 6 — Format and frequency of reporting by small and non-interconnected investment firms
+
+1\. Small and non-interconnected investment firms shall report the information specified in the templates of Annex III to this Regulation in accordance with the instructions of Annex IV to this Regulation with an annual frequency. Investment firms that benefit from the exemption referred to in Article 43(1), second subparagraph, of Regulation (EU) 2019/2033 shall be exempted from the duty to submit the information specified in template IF 09.01 of Annex III to this Regulation.
+
+### Article 7 — Format and frequency of reporting by entities benefitting from the application of Article 8 of Regulation (EU) 2019/2033
+
+By way of derogation from Article 4 of this Regulation, entities referred to in Article 8(3) of Regulation (EU) 2019/2033 that are benefitting from the application of that Article shall report the information set out in the templates of Annex VIII to this Regulation in accordance with the instructions set out in Annex IX to this Regulation with a quarterly frequency.
+
+### Article 8 — Data precision and information associated with submissions
+
+1\. Investment firms shall submit the information referred to in this Regulation in the data exchange formats and representations specified by competent authorities and respecting the data point definition of the data point model and the validation formulae specified in Annex V as well as the following specifications:
+
+(a) information that is not required or not applicable shall not be included in a data submission;
+
+(b) numeric values shall be submitted as facts pursuant to the following conventions:
+
+(i) data points with the data type ‘Monetary’ shall be reported using a minimum precision equivalent to ten thousands of units;
+
+(ii) data points with the data type ‘Percentage’ shall be expressed as per unit with a minimum precision equivalent to four decimals;
+
+(iii) data points with the data type ‘Integer’ shall be reported using no decimals and a precision equivalent to units.
+
+2\. Investment firms shall be identified by their Legal Entity Identifier (LEI). Legal entities and counterparties other than investment firms shall be identified by their LEI, where available.
+
+3\. Information submitted by investment firms on the basis of this Regulation shall be accompanied with the following information:
+
+(a) reporting reference date and reference period;
+
+(b) reporting currency;
+
+(c) accounting standard;
+
+(d) Legal Entity Identifier (LEI) of the reporting institution;
+
+(e) scope of consolidation.
+
+## CHAPTER II — PUBLIC DISCLOSURE BY INVESTMENT FIRMS
+
+### Article 9 — Disclosure principles
+
+1\. Information to be disclosed in accordance with this Regulation shall be subject to the following principles:
+
+(a) disclosures shall be subject to the same level of internal verification as that applicable to the management report included in the investment firm’s financial report;
+
+(b) disclosures shall be clear and shall be presented in a form that is understandable to users of information and communicated through an accessible medium. Important messages shall be highlighted and easy to find. Complex issues shall be explained in simple language. Related information shall be presented together;
+
+(c) disclosures shall be meaningful and consistent over time to enable users of information to compare information across disclosure periods;
+
+(d) quantitative disclosures shall be accompanied by qualitative explanations and any other supplementary information that may be necessary in order for the users of that information to understand them, noting in particular any significant change in any given disclosure compared to the information contained in previous disclosures.
+
+### Article 10 — Disclosure of own funds by investment firms
+
+Investment firms shall make the disclosures on own funds required by Article 49(1) of Regulation (EU) 2019/2033 by using the templates of Annex VI to this Regulation and in accordance with the relevant instructions set out in Annex VII to this Regulation.
+
+### Article 11 — General disclosure provisions
+
+1\. Where disclosing the information referred to in Article 10 of this Regulation, investment firms shall ensure that numeric values are submitted as facts in accordance with the following:
+
+(a) quantitative monetary data shall be disclosed using a minimum precision equivalent to thousands of units;
+
+(b) quantitative data disclosed as ‘Percentage’ shall be expressed as per unit with a minimum precision equivalent to four decimals.
+
+2\. When disclosing the information referred to in Article 10of this Regulation, investment firms shall ensure that the data are associated with all of the following information:
+
+(a) disclosure reference date and reference period;
+
+(b) disclosure currency;
+
+(c) name and where relevant, the Legal Entity Identifier (LEI) of the disclosing institution;
+
+(d) where relevant, the accounting standard;
+
+(e) where relevant, the scope of consolidation.
+
+## CHAPTER III — FINAL PROVISIONS
+
+### Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — REPORTING FOR INVESTMENT FIRMS OTHER THAN SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS
+
+<table>
+<tbody><tr><td colspan="4">INVESTMENT FIRMS TEMPLATES</td></tr>
+<tr><td>Template number</td><td>Template code</td><td>Name of the template /group of templates</td><td>Short name</td></tr>
+<tr><td>  </td><td>  </td><td>OWN FUNDS: level, composition, requirements and calculation</td><td>  </td></tr>
+<tr><td>1</td><td>I 01.00</td><td>Own funds</td><td>I1</td></tr>
+<tr><td>2,1</td><td>I 02.01</td><td>Own funds requirements</td><td>I2.1</td></tr>
+<tr><td>2,2</td><td>I 02.02</td><td>Capital ratios</td><td>I2.2</td></tr>
+<tr><td>3</td><td>I 03.00</td><td>Fixed overheads requirements calculation</td><td>I3</td></tr>
+<tr><td>4</td><td>I 04.00</td><td>Total K-Factor requirement calculations</td><td>I4</td></tr>
+<tr><td>  </td><td>  </td><td>SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS</td><td>  </td></tr>
+<tr><td>5</td><td>I 05.00</td><td>Level of activity - Thresholds review</td><td>I5</td></tr>
+<tr><td>  </td><td>  </td><td>K-FACTOR REQUIREMENTS - ADDITIONAL DETAILS</td><td>  </td></tr>
+<tr><td>6,1</td><td>I 06.01</td><td>Assets under management - AUM additional detail</td><td>I6.1</td></tr>
+<tr><td>6,2</td><td>I 06.02</td><td>Average value of total monthly AUM</td><td>I6.2</td></tr>
+<tr><td>6,3</td><td>I 06.03</td><td>Client money held - CMH additional detail</td><td>I6.3</td></tr>
+<tr><td>6,4</td><td>I 06.04</td><td>Average value of total daily CMH</td><td>I6.4</td></tr>
+<tr><td>6,5</td><td>I 06.05</td><td>Assets safeguarded and administered - ASA additional detail</td><td>I6.5</td></tr>
+<tr><td>6,6</td><td>I 06.06</td><td>Average value of total daily ASA</td><td>I6.6</td></tr>
+<tr><td>6,7</td><td>I 06.07</td><td>Client orders handled - COH additional detail</td><td>I6.7</td></tr>
+<tr><td>6,8</td><td>I 06.08</td><td>Average value of total daily COH</td><td>I6.8</td></tr>
+<tr><td>6,9</td><td>I 06.09</td><td>K-Net position risk - K-NPR additional detail</td><td>I6.9</td></tr>
+<tr><td>6,1</td><td>I 06.10</td><td>Clearing Margin given - CMG additional detail</td><td>I6.10</td></tr>
+<tr><td>6,11</td><td>I 06.11</td><td>Trading counterparty default - TCD additional detail</td><td>I6.11</td></tr>
+<tr><td>6,12</td><td>I 06.12</td><td>Daily trading flow - DTF additional detail</td><td>I6.12</td></tr>
+<tr><td>6,13</td><td>I 06.13</td><td>Average value of total daily DTF</td><td>I6.13</td></tr>
+<tr><td>  </td><td>  </td><td>CONCENTRATION RISK</td><td>  </td></tr>
+<tr><td>7</td><td>I 07.00</td><td>K-CON - additional detail</td><td>I7</td></tr>
+<tr><td>8,1</td><td>I 08.01</td><td>Level of concentration risk - Client money held</td><td>I8.1</td></tr>
+<tr><td>8,2</td><td>I 08.02</td><td>Level of concentration risk - Assets seafeguarded and administered</td><td>I8.2</td></tr>
+<tr><td>8,3</td><td>I 08.03</td><td>Level of concentration risk -Total own cash deposited</td><td>I8.3</td></tr>
+<tr><td>8,4</td><td>I 08.04</td><td>Level of concentration risk - Total earnings</td><td>I8.4</td></tr>
+<tr><td>8,5</td><td>I 08.05</td><td>Trading book exposures</td><td>I8.5</td></tr>
+<tr><td>8,6</td><td>I 08.06</td><td>Non-trading book and off-balance sheet items</td><td>I8.6</td></tr>
+<tr><td>  </td><td>  </td><td>LIQUIDITY REQUIREMENTS</td><td>  </td></tr>
+<tr><td>9</td><td>I 09.00</td><td>Liquidity requirements</td><td>I9</td></tr>
+</tbody>
+</table>
+
+**I 01.00 - OWN FUNDS COMPOSITION (I1)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>OWN FUNDS</td><td>  </td></tr>
+<tr><td>0020</td><td>TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0030</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0040</td><td>Fully paid up capital instruments</td><td>  </td></tr>
+<tr><td>0050</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0060</td><td>Retained earnings</td><td>  </td></tr>
+<tr><td>0070</td><td>Previous years retained earnings</td><td>  </td></tr>
+<tr><td>0080</td><td>Profit eligible</td><td>  </td></tr>
+<tr><td>0090</td><td>Accumulated other comprehensive income</td><td>  </td></tr>
+<tr><td>0100</td><td>Other reserves</td><td>  </td></tr>
+<tr><td>0110</td><td>Minority interest given recognition in CET1 capital</td><td>  </td></tr>
+<tr><td>0120</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td></tr>
+<tr><td>0130</td><td>Other funds</td><td>  </td></tr>
+<tr><td>0140</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td></tr>
+<tr><td>0150</td><td>(-) Own CET1 instruments</td><td>  </td></tr>
+<tr><td>0160</td><td>(-) Direct holdings of CET1 instruments</td><td>  </td></tr>
+<tr><td>0170</td><td>(-) Indirect holdings of CET1 instruments</td><td>  </td></tr>
+<tr><td>0180</td><td>(-) Synthetic holdings of CET1 instruments</td><td>  </td></tr>
+<tr><td>0190</td><td>(-) Losses for the current financial year</td><td>  </td></tr>
+<tr><td>0200</td><td>(-) Goodwill</td><td>  </td></tr>
+<tr><td>0210</td><td>(-) Other intangible assets</td><td>  </td></tr>
+<tr><td>0220</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td></tr>
+<tr><td>0230</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td></tr>
+<tr><td>0240</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td></tr>
+<tr><td>0250</td><td>(-) CET1 instruments of financial sector entites where the investment firm does not have a significant investment</td><td>  </td></tr>
+<tr><td>0260</td><td>(-) CET1 instruments of financial sector entities where the investment firm has a significant investment</td><td>  </td></tr>
+<tr><td>0270</td><td>(-) Defined benefit pension fund assets</td><td>  </td></tr>
+<tr><td>0280</td><td>(-) Other deductions</td><td>  </td></tr>
+<tr><td>0290</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0300</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0310</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0320</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0330</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td></tr>
+<tr><td>0340</td><td>(-) Own AT1 instruments</td><td>  </td></tr>
+<tr><td>0350</td><td>(-) Direct holdings of AT1 instruments</td><td>  </td></tr>
+<tr><td>0360</td><td>(-) Indirect holdings of AT1 instruments</td><td>  </td></tr>
+<tr><td>0370</td><td>(-) Synthetic holdings of AT1 instruments</td><td>  </td></tr>
+<tr><td>0380</td><td>(-) AT1 instruments of financial sector entities where the investment firm does not have a significant investment</td><td>  </td></tr>
+<tr><td>0390</td><td>(-) AT1 instruments of financial sector entities where the investment firm has a significant investment</td><td>  </td></tr>
+<tr><td>0400</td><td>(-) Other deductions</td><td>  </td></tr>
+<tr><td>0410</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0420</td><td>TIER 2 CAPITAL</td><td>  </td></tr>
+<tr><td>0430</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0440</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0450</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td></tr>
+<tr><td>0460</td><td>(-) Own T2 instruments</td><td>  </td></tr>
+<tr><td>0470</td><td>(-) Direct holdings of T2 instruments</td><td>  </td></tr>
+<tr><td>0480</td><td>(-) Indirect holdings of T2 instruments</td><td>  </td></tr>
+<tr><td>0490</td><td>(-) Synthetic holdings of T2 instruments</td><td>  </td></tr>
+<tr><td>0500</td><td>(-) T2 instruments of financial sector entities where the investment firm does not have a significant investment</td><td>  </td></tr>
+<tr><td>0510</td><td>(-) T2 instruments of financial sector entities where the investment firm has a significant investment</td><td>  </td></tr>
+<tr><td>0520</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 02.01 - OWN FUNDS REQUIREMENTS (I2.1)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>Own Funds requirement</td><td>  </td></tr>
+<tr><td>0020</td><td>Permanent minimum capital requirement</td><td>  </td></tr>
+<tr><td>0030</td><td>Fixed overhead requirement</td><td>  </td></tr>
+<tr><td>0040</td><td>Total K-Factor Requirement</td><td>  </td></tr>
+<tr><td>  </td><td>Transitional own funds requirements</td><td>  </td></tr>
+<tr><td>0050</td><td>Transitional requirement based on CRR own funds requirements</td><td>  </td></tr>
+<tr><td>0060</td><td>Transitional requirement based on fixed overhead requirements</td><td>  </td></tr>
+<tr><td>0070</td><td>Transitional requirement for investment firms previously subject only to an initial capital requirement</td><td>  </td></tr>
+<tr><td>0080</td><td>Transitional requirement based on initial capital requirement at authorisation</td><td>  </td></tr>
+<tr><td>0090</td><td>Transitional requirement for investment firms that are not authorised to provide certain services</td><td>  </td></tr>
+<tr><td>0100</td><td>Transitional requirement of at least 250 000 EUR</td><td>  </td></tr>
+<tr><td>  </td><td>Memorandum items</td><td>  </td></tr>
+<tr><td>0110</td><td>Additional own funds requirement</td><td>  </td></tr>
+<tr><td>0120</td><td>Additional own funds guidance</td><td>  </td></tr>
+<tr><td>0130</td><td>Total own funds requirement</td><td>  </td></tr>
+</tbody>
+</table>
+
+**IF 02.02 - CAPITAL RATIOS (IF2.2)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>CET 1 Ratio</td><td>  </td></tr>
+<tr><td>0020</td><td>Surplus(+)/Deficit(-) of CET 1 Capital</td><td>  </td></tr>
+<tr><td>0030</td><td>Tier 1 Ratio</td><td>  </td></tr>
+<tr><td>0040</td><td>Surplus(+)/Deficit(-) of Tier 1 Capital</td><td>  </td></tr>
+<tr><td>0050</td><td>Own Funds Ratio</td><td>  </td></tr>
+<tr><td>0060</td><td>Surplus(+)/Deficit(-) of Total capital</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 03.00 - FIXED OVERHEADS REQUIREMENT CALCULATION (I3)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | Fixed Overhead Requirement |  |
+| 0020 | Annual Fixed Overheads of the previous year after distribution of profits |  |
+| 0030 | Total expenses of the previous year after distribution of profits |  |
+| 0040 | Of which: Fixed expenses incurred on behalf of the investment firms by third parties |  |
+| 0050 | (-)Total deductions |  |
+| 0060 | (-)Staff bonuses and other remuneration |  |
+| 0070 | (-)Employees', directors' and partners' shares in net profits |  |
+| 0080 | (-)Other discretionary payments of profits and variable remuneration |  |
+| 0090 | (-)Shared commission and fees payable |  |
+| 0100 | (-)Fees, brokerage and other charges paid to CCPs that are charged to customers |  |
+| 0110 | (-)Fees to tied agents |  |
+| 0120 | (-)Interest paid to customers on client money where this is at the firm's discretion |  |
+| 0130 | (-)Non-recurring expenses from non-ordinary activities |  |
+| 0140 | (-)Expenditures from taxes |  |
+| 0150 | (-)Losses from trading on own account in financial instruments |  |
+| 0160 | (-)Contract based profit and loss transfer agreements |  |
+| 0170 | (-)Expenditure on raw materials |  |
+| 0180 | (-)Payments into a fund for general banking risk |  |
+| 0190 | (-)Expenses related to items that have already been deducted from own funds |  |
+| 0200 | Projected fixed overheads of the current year |  |
+| 0210 | Variation of fixed overheads (%) |  |
+
+**I 04.00 - TOTAL K-FACTOR REQUIREMENT CALCULATIONS (I4)**
+
+|  |  | Factor amount | K-factor requirement |
+| --- | --- | --- | --- |
+| Rows | Item | 0010 | 0020 |
+| 0010 | TOTAL K-FACTOR REQUIREMENT |  |  |
+| 0020 | Risk to client |  |  |
+| 0030 | Assets under management |  |  |
+| 0040 | Client money held - Segregated |  |  |
+| 0050 | Client money held - Non - segregated |  |  |
+| 0060 | Assets safeguarded and administered |  |  |
+| 0070 | Client orders handled - Cash trades |  |  |
+| 0080 | Client orders handled - Derivatives Trades |  |  |
+| 0090 | Risk to market |  |  |
+| 0100 | K-Net positions risk requirement |  |  |
+| 0110 | Clearing margin given |  |  |
+| 0120 | Risk to firm |  |  |
+| 0130 | Trading counterparty default |  |  |
+| 0140 | Daily trading flow - Cash trades |  |  |
+| 0150 | Daily trading flow - Derivative trades |  |  |
+| 0160 | K-Concentration risk requirement |  |  |
+
+**I 05.00 - LEVEL OF ACTIVITY - THRESHOLDS REVIEW (I5)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | (Combined) assets under management |  |
+| 0020 | (Combined) client orders handled - Cash trades |  |
+| 0030 | (Combined) client orders handled - Derivatives |  |
+| 0040 | Assets safeguarded and administered |  |
+| 0050 | Client money held |  |
+| 0060 | Daily trading flow - cash trades and derivative trades |  |
+| 0070 | Net position risk |  |
+| 0080 | Clearing margin given |  |
+| 0090 | Trading counterparty default |  |
+| 0100 | (Combined) on - and off-balance sheet total |  |
+| 0110 | Combined total annual gross revenue |  |
+| 0120 | Total annual gross revenue |  |
+| 0130 | (-) Intragroup part of the annual gross revenue |  |
+| 0140 | Of which: revenue from reception and transmission of orders |  |
+| 0150 | Of which: revenue from execution of orders |  |
+| 0160 | Of which: revenue from dealing on own account |  |
+| 0170 | Of which: revenue from portfolio management |  |
+| 0180 | Of which: revenue from investment advice |  |
+| 0190 | Of which: revenue from underwriting of financial instruments/placing on a firm commitment basis |  |
+| 0200 | Of which: revenue from placing without a firm commitment basis |  |
+| 0210 | Of which: revenue from operation of an MTF |  |
+| 0220 | Of which: revenue from operation of an OTF |  |
+| 0230 | Of which: revenue from safekeeping and administration of financial instruments |  |
+| 0240 | Of which: revenue from granting credits or loans to investors |  |
+| 0250 | Of which: revenue from advice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to mergers and the purchase of undertakings |  |
+| 0260 | Of which: revenue from foreign exchange services |  |
+| 0270 | Of which: investment research and financial analysis |  |
+| 0280 | Of which: revenue from services related to underwriting |  |
+| 0290 | Of which: investment services and ancillary activities related with the underlying of derivatives |  |
+
+**I 06.00 K -Factor - additional details (I 06)**
+
+**I 06.01 Assets under management - AUM additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Factor amount</td></tr>
+<tr><td>  </td><td>  </td><td>Month t</td><td>Month t-1</td><td>Month t-2</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td></tr>
+<tr><td>0010</td><td>Total AUM (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Of which: AUM - Discretionary portfolio management</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Of which: AUM formally delegated to another entity</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>AUM - Ongoing non-discretionary advice</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.02 Monthly assets under management**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="14">End-of-month values</td></tr>
+<tr><td>  </td><td>  </td><td>Month t-3</td><td>Month t-4</td><td>Month t-5</td><td>Month t-6</td><td>Month t-7</td><td>Month t-8</td><td>Month t-9</td><td>Month t-10</td><td>Month t-11</td><td>Month t-12</td><td>Month t-13</td><td>Month t-14</td><td>Month t-15</td><td>Month t-16</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td><td>0110</td><td>0120</td><td>0130</td><td>0140</td></tr>
+<tr><td>0010</td><td>Total monthly assets under management</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Monthly assets under management - discretionary portfolio management</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>of which: assets formally delegated to another entity</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Monthly assets under management - Ongoing non-discretionary advice</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.03 Client money held - CMH additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Factor amount</td></tr>
+<tr><td>  </td><td>  </td><td>Month t</td><td>Month t-1</td><td>Month t-2</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td></tr>
+<tr><td>0010</td><td>CMH - Segregated (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>CMH - Non-segregated (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.04 Average value of total daily client money held**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="8">Monthly averages of total daily client money held values</td></tr>
+<tr><td>  </td><td>  </td><td>Month t-3</td><td>Month t-4</td><td>Month t-5</td><td>Month t-6</td><td>Month t-7</td><td>Month t-8</td><td>Month t-9</td><td>Month t-10</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td></tr>
+<tr><td>0010</td><td>Total daily client money held - Segregated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Total daily client money held - Non-segregated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.05 Assets safeguarded and administered - ASA additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Factor amount</td></tr>
+<tr><td>  </td><td>  </td><td>Month t</td><td>Month t-1</td><td>Month t-2</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td></tr>
+<tr><td>0010</td><td>Total ASA (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Of which: Fair value of financial instruments (Level 2)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Of which: Fair value of financial instruments (Level 3)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Of which: assets formally delegated to another financial entity</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Of which: assets of another financial entity that has formally delegated to the investment firm</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.06 Average value of total daily assets safeguarded and administered**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="8">Monthly averages of total daily ASA values</td></tr>
+<tr><td>  </td><td>  </td><td>Month t-3</td><td>Month t-4</td><td>Month t-5</td><td>Month t-6</td><td>Month t-7</td><td>Month t-8</td><td>Month t-9</td><td>Month t-10</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td></tr>
+<tr><td>0010</td><td>Assets safeguarded and administered</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Of which: Fair value of financial instruments (Level 2)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Of which: Fair value of financial instruments (Level 3)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Of which: assets formally delegated to another financial entity</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Of which: assets of another financial entity that has formally delegated to the investment firm</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.07 Client orders handled - COH additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Factor amount</td></tr>
+<tr><td>  </td><td>  </td><td>Month t</td><td>Month t-1</td><td>Month t-2</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td></tr>
+<tr><td>0010</td><td>COH - Cash trades (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Of which: Execution of client orders</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Of which: Reception and transmission of client orders</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>COH - Derivative (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Of which: Execution of client orders</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Of which: Reception and transmission of client orders</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.08 Average value of total daily client orders handled**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="5">Monthly averages of total daily client orders handled values</td></tr>
+<tr><td>  </td><td>  </td><td>Month t-3</td><td>Month t-4</td><td>Month t-5</td><td>Month t-6</td><td>Month t-7</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td></tr>
+<tr><td>0010</td><td>Total daily client orders handled - Cash value</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Of which: Execution of client orders</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Of which: Reception and transmission of client orders</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Total daily client orders handled - Derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Of which: Execution of client orders</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Of which: Reception and transmission of client orders</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.09 K-Net position risk - K-NPR additional detail**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>K - factor requirement / amount</td></tr>
+<tr><td colspan="2">  </td><td>0010</td></tr>
+<tr><td>0010</td><td>Total standardised approach</td><td>  </td></tr>
+<tr><td>0020</td><td>Position risk</td><td>  </td></tr>
+<tr><td>0030</td><td>Equity instruments</td><td>  </td></tr>
+<tr><td>0040</td><td>Debt instruments</td><td>  </td></tr>
+<tr><td>0050</td><td>Of which: securitisations</td><td>  </td></tr>
+<tr><td>0055</td><td>Particular approach for position risk in CIUs</td><td>  </td></tr>
+<tr><td>0060</td><td>Foreign exchange risk</td><td>  </td></tr>
+<tr><td>0070</td><td>Commodities risk</td><td>  </td></tr>
+<tr><td>0080</td><td>Internal model approach</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.10 Clearing Margin given - CMG additional detail**
+
+<table>
+<tbody><tr><td colspan="3">Clearing member</td><td colspan="3">Contribution to the total margin required on a daily basis on the day of</td></tr>
+<tr><td>Name</td><td>Code</td><td>Type of code</td><td>the highest amount of total margin</td><td>the second highest amount of total margin</td><td>the third highest amount of total margin</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.11 Trading counterparty default - TCD additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>K - factor requirement</td><td>Exposure value</td><td>Replacement cost (RC)</td><td>Potential future exposure (PFE)</td><td>Collateral (C)</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td></tr>
+<tr><td>  </td><td colspan="6">Breakdown by method for determining the exposure value</td></tr>
+<tr><td>0010</td><td>Application of IFR: K-TCD</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Alternative approaches: Exposure value determined in accordance with CRR</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>SA-CCR</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Simplified SA-CCR</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Original exposure method</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Alternative approaches: Full application of CRR framework</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>Memorandum item: CVA component</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>of which: calculated in accordance with CRR framework</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td colspan="6">Breakdown by type of counterparty</td></tr>
+<tr><td>0090</td><td>Central governments, central banks and public sector entities</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>Credit institutions and investment firms</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>Other counterparties</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.12 Daily trading flow - DTF additional details**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="3">Factor amount</td></tr>
+<tr><td>  </td><td>  </td><td>Month t</td><td>Month t-1</td><td>Month t-2</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td></tr>
+<tr><td>0010</td><td>Total DTF - cash trades (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Total DTF - derivative trades (average amounts)</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 06.13 Average value of total daily trading flows**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td colspan="8">Monthly averages of total daily trading flow values</td></tr>
+<tr><td>  </td><td>  </td><td>Month t-3</td><td>Month t-4</td><td>Month t-5</td><td>Month t-6</td><td>Month t-7</td><td>Month t-8</td><td>Month t-9</td><td>Month t-10</td></tr>
+<tr><td>  </td><td>  </td><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td></tr>
+<tr><td>0010</td><td>Daily trading flow - cash trades</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>Daily trading flow - derivative trades</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 07.00 - K-CON - additional detail (I7)**
+
+<table>
+<tbody><tr><td colspan="5">Counterparty ID</td><td colspan="6">Trading Book Exposures exceeding the limits set in Article 37(1) of IFR</td></tr>
+<tr><td>Code</td><td>Type of code</td><td>Name</td><td>Group/Individual</td><td>Counterparty Type</td><td>Exposure Value (EV)</td><td>Exposure Value (as % of Own Funds)</td><td>Own Funds Requirement of total exposure (OFR)</td><td>Exposure Value Excess (EVE)</td><td>Duration of the Excess (in days)</td><td>K-CON Own Funds Requirement for the Excess (OFRE)</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td><td>0110</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.00 - CONCENTRATION RISK - Article 54 IFR (I8)**
+
+**I 08.01 Level of concentration risk - Client money held**
+
+<table>
+<tbody><tr><td colspan="4">Institutions</td><td rowspan="2">Total CMH at reporting date</td><td>  </td></tr>
+<tr><td>Code</td><td>Type of code</td><td>Name</td><td>Group/Individual</td><td>Percentage of client money held at this institution</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.02 Level of concentration risk - Assets seafeguarded and administered**
+
+<table>
+<tbody><tr><td colspan="4">Institutions</td><td rowspan="2">Total ASA at reporting date</td><td>  </td></tr>
+<tr><td>Code</td><td>Type of code</td><td>Name</td><td>Group/Individual</td><td>Percentage of client securities deposited at this institution</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.03 Level of concentration risk -Total own cash deposited**
+
+<table>
+<tbody><tr><td colspan="4">Institution</td><td colspan="2">Firm's own cash deposited - Top 5 exposures</td></tr>
+<tr><td rowspan="2">Code</td><td rowspan="2">Type of code</td><td rowspan="2">Name</td><td>Group/Individual</td><td rowspan="2">Amount of firm's cash deposits at the institution</td><td rowspan="2">Percentage of firm's own cash deposits at the institution</td></tr>
+<tr><td>  </td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.04 Level of concentration risk - Total earnings**
+
+<table>
+<tbody><tr><td colspan="4">Client</td><td colspan="7">Earnings - Top 5 exposures</td></tr>
+<tr><td rowspan="2">Code</td><td rowspan="2">Type of code</td><td rowspan="2">Name</td><td rowspan="2">Group/Individual</td><td rowspan="2">Total earnings from this client</td><td colspan="4">Interest and dividend income</td><td colspan="2">Fee and commission and other income</td></tr>
+<tr><td>Amount generated from positions in the trading book</td><td>Amount generated from positions in the non-trading book</td><td>of which: amount generated from off-balance sheet items</td><td>Percentage of interest and dividend income from this client</td><td>Amount</td><td>Percentage of fee and commission and other income from this client</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td><td>0110</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.05 Trading book exposures**
+
+<table>
+<tbody><tr><td colspan="4">Counterparty</td><td>Top 5 trading book exposures</td></tr>
+<tr><td>Code</td><td>Type of code</td><td>Name</td><td>Group/Individual</td><td>Percentage of exposure to this counterparty with respect to firm's own funds (trading book positions only)</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 08.06 Non-trading book and off-balance sheet items**
+
+<table>
+<tbody><tr><td colspan="4">Counterparty</td><td>Top 5 total exposures (including non-trading book and off-balance sheet items)</td></tr>
+<tr><td>Code</td><td>Type of code</td><td>Name</td><td>Group/Individual</td><td>Percentage of exposure with respect to firm's own funds (including off-balance sheet assets and non-trading book items)</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 09.00 - LIQUIDITY REQUIREMENTS (I9)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | Liquidity Requirement |  |
+| 0020 | Client guarantees |  |
+| 0030 | Total liquid assets |  |
+| 0040 | Unencumbered short term deposits |  |
+| 0050 | Total eligible receivables due within 30 days |  |
+| 0060 | Level 1 assets |  |
+| 0070 | Coins and banknotes |  |
+| 0080 | Withdrawable central bank reserves |  |
+| 0090 | Central bank assets |  |
+| 0100 | Central government assets |  |
+| 0110 | Regional government/local authorities assets |  |
+| 0120 | Public Sector Entity assets |  |
+| 0130 | Recognisable domestic and foreign currency central government and central bank assets |  |
+| 0140 | Credit institution (protected by Member State government, promotional lender) assets |  |
+| 0150 | Multilateral development bank and international organisations assets |  |
+| 0160 | Extremely high quality covered bonds |  |
+| 0170 | Level 2A assets |  |
+| 0180 | Regional government/local authorities or Public Sector Entities assets (Member State, RW20 %) |  |
+| 0190 | Central bank or central/regional government or local authorities or Public Sector Entities assets (Third Country, RW20 %) |  |
+| 0200 | High quality covered bonds (CQS2) |  |
+| 0210 | High quality covered bonds (Third Country, CQS1) |  |
+| 0220 | Corporate debt securities (CQS1) |  |
+| 0230 | Level 2B assets |  |
+| 0240 | Asset-backed securities |  |
+| 0250 | Corporate debt securities |  |
+| 0260 | Shares (major stock index) |  |
+| 0270 | Restricted-use central bank committed liquidity facilities |  |
+| 0280 | High quality covered bonds (RW35 %) |  |
+| 0290 | Qualifying CIU shares/units |  |
+| 0300 | Total other eligible financial instruments |  |
+
+## ANNEX II — REPORTING FOR INVESTMENT FIRMS OTHER THAN SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS
+
+<table>
+<tr><td colspan="2">Table of contents</td></tr>
+<tr><td>PART I:</td><td>GENERAL INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>Structure and conventions</td></tr>
+<tr><td>1.1</td><td>Structure</td></tr>
+<tr><td>1.2</td><td>Numbering convention</td></tr>
+<tr><td>1.3</td><td>Sign convention</td></tr>
+<tr><td>1.4</td><td>Prudential consolidation</td></tr>
+<tr><td>PART II:</td><td>TEMPLATE RELATED INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION</td></tr>
+<tr><td>1.1</td><td>General Remarks</td></tr>
+<tr><td>1.2.</td><td>I 01.00 – OWN FUNDS COMPOSITION (I 1)</td></tr>
+<tr><td>1.2.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.3.</td><td>I 02.01 – OWN FUND REQUIREMENTS (I 2.1)</td></tr>
+<tr><td>1.3.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.4.</td><td>I 02.02 – CAPITAL RATIOS (I 2.2)</td></tr>
+<tr><td>1.4.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.5.</td><td>I 03.00 – FIXED OVERHEADS REQUIREMENT CALCULATION (I 3)</td></tr>
+<tr><td>1.5.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.6.</td><td>I 04.00 – TOTAL K-FACTOR REQUIREMENT CALCULATIONS (I 4)</td></tr>
+<tr><td>1.6.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>2.</td><td>SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS</td></tr>
+<tr><td>2.1.</td><td>I 05.00 – LEVEL OF ACTIVITY – THRESHOLD REVIEW (I 5)</td></tr>
+<tr><td>2.1.1</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.</td><td>K-FACTOR REQUIREMENTS – ADDITIONAL DETAILS</td></tr>
+<tr><td>3.2.</td><td>I 06.01 – ASSETS UNDER MANAGEMENT – ADDITIONAL DETAILS (I 6.1)</td></tr>
+<tr><td>3.2.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.3.</td><td>I 06.02 – MONTHLY ASSETS UNDER MANAGEMENT (I 6.2)</td></tr>
+<tr><td>3.3.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.4.</td><td>I 06.03 – CLIENT MONEY HELD- ADDITIONAL DETAIL (I 6.3)</td></tr>
+<tr><td>3.4.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.5.</td><td>I 06.04 – AVERAGE VALUE OF TOTAL DAILY CLIENT MONEY HELD (I 6.4)</td></tr>
+<tr><td>3.5.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.6.</td><td>I 06.05 – ASSETS SAFEGUARDED AND ADMINISTERED – ADDITIONAL DETAIL (I 6.5)</td></tr>
+<tr><td>3.6.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.7.</td><td>I 06.06 – AVERAGE VALUE OF TOTAL DAILY ASSETS SAFEGUARDED AND ADMINISTERED (I 6.6)</td></tr>
+<tr><td>3.7.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.8.</td><td>I 06.07 – CLIENT ORDERS HANDLED – ADDITIONAL DETAILS (I 6.7)</td></tr>
+<tr><td>3.8.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.9.</td><td>I 06.08 – AVERAGE VALUE OF TOTAL DAILY CLIENT ORDERS HANDLED (I 6.8)</td></tr>
+<tr><td>3.9.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.10.</td><td>I 06.09 – K-NET POSITION RISK – ADDITIONAL DETAILS (I 6.9)</td></tr>
+<tr><td>3.10.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.11.</td><td>I 06.10 – CLEARING MARGIN GIVEN – ADDITIONAL DETAIL (I 6.10)</td></tr>
+<tr><td>3.11.1</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.12.</td><td>I 06.11 – TRADING COUNTERPARTY DEFAULT- TCD ADDITIONAL DETAILS (I 6.11)</td></tr>
+<tr><td>3.12.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.13.</td><td>I 06.12– DAILY TRADING FLOW- ADDITIONAL DETAILS (I 6.12)</td></tr>
+<tr><td>3.13.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.14.</td><td>I 06.13– AVERAGE VALUE OF TOTAL DAILY TRADING FLOWS (I 6.13)</td></tr>
+<tr><td>3.14.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>4.</td><td>CONCENTRATION RISK REPORTING</td></tr>
+<tr><td>4.1.</td><td>General Remarks</td></tr>
+<tr><td>4.2.</td><td>I 07.00 – K-CON ADDITIONAL DETAILS (I7)</td></tr>
+<tr><td>4.2.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>4.3.</td><td>I 08.01 – LEVEL OF CONCENTRATION RISK – CLIENT MONEY HELD (I 8.1)</td></tr>
+<tr><td>4.3.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>4.4.</td><td>I 08.02 – LEVEL OF CONCENTRATION RISK – ASSETS SAFEGUARDED AND ADMINISTERED (I 8.2)</td></tr>
+<tr><td>4.4.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>4.5.</td><td>I 08.03 – LEVEL OF CONCENTRATION RISK -TOTAL OWN CASH DEPOSITED (I 8.3)</td></tr>
+<tr><td>4.5.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>4.6.</td><td>I 08.04 – LEVEL OF CONCENTRATION RISK – TOTAL EARNINGS (I 8.4)</td></tr>
+<tr><td>4.6.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>4.7.</td><td>I 08.05 – TRADING BOOK EXPOSURES (I 8.5)</td></tr>
+<tr><td>4.7.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>4.8.</td><td>I 08.06 – NON-TRADING BOOK AND OFF-BALANCE SHEET ITEMS (I 8.6)</td></tr>
+<tr><td>4.8.1.</td><td>Instructions concerning specific columns</td></tr>
+<tr><td>5.</td><td>LIQUIDITY REQUIREMENTS</td></tr>
+<tr><td>5.1</td><td>I 09.00 – LIQUIDITY REQUIREMENTS (I 9)</td></tr>
+<tr><td>5.1.1.</td><td>Instructions concerning specific positions</td></tr>
+</table>
+
+**PART I: GENERAL INSTRUCTIONS**
+
+**1\. Structure and conventions**
+
+**1.1 Structure**
+
+1\. Overall, the framework consists of the following blocks of information:
+
+(a) Own funds;
+
+(b) Own funds requirements calculations;
+
+(c) Fixed overheads requirements calculation;
+
+(d) Level of activity in respect of the conditions set out in Article 12(1) of Regulation (EU) 2019/2033;
+
+(e) K-factor requirements calculations;
+
+(f) Concentration risk requirements;
+
+(g) Liquidity requirements.
+
+2\. For each template legal references are provided. Further detailed information regarding more general aspects of the reporting of each block of templates, instructions concerning specific positions as well as validation rules are included in this part of this Regulation.
+
+**1.2 Numbering convention**
+
+3\. The document follows the labelling convention set in points 4 to 7, when referring to the columns, rows and cells of the templates. Those numerical codes are extensively used in the validation rules.
+
+4\. The following general notation is followed in the instructions: {Template; Row; Column}.
+
+5\. In the case of validations inside a template, in which only data points of that template are used, notations do not refer to a template: {Row; Column}.
+
+6\. In the case of templates with only one column, only rows are referred to. {Template; Row}
+
+7\. An asterisk sign is used to express that the validation is done for the rows or columns specified before.
+
+**1.3 Sign convention**
+
+8\. Any amount that increases the own funds or own funds requirements, or the liquidity requirements, shall be reported as a positive figure. On the contrary, any amount that reduces the total own funds or own funds requirements shall be reported as a negative figure. Where there is a negative sign (-) preceding the label of an item no positive figure is expected to be reported of that item.
+
+**1.4 Prudential consolidation**
+
+9\. Unless an exemption has been granted, Regulation (EU) 2019/2033 and Directive (EU) 2019/2034 apply to investment firms on an individual and on a consolidated basis, which includes reporting requirements in Part Seven of Regulation (EU) 2019/2033. Article 4(1), point (11), of Regulation (EU) 2019/2033 defines a consolidated situation as the result of applying the requirements of Regulation (EU) 2019/2033 to an investment firm group as if the entities of the group formed together a single investment firm. Following the application of Article 7 of Regulation (EU) 2019/2033, investment firms groups shall fulfil the reporting requirements in all templates based on their scope of prudential consolidation (which may be different from their accounting consolidation scope).
+
+**PART II: TEMPLATE RELATED INSTRUCTIONS**
+
+**1\. OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION**
+
+**1.1 General Remarks**
+
+10\. The own funds’ overview section contains information about the own funds that an investment firm holds and its own funds requirements. It consists of two templates:
+
+(a) I 01.00 template contains the compositions of the own funds that an investment firm holds: Common Equity Tier 1 capital (CET1), Additional Tier 1 capital (AT1) and Tier 2 capital (T2).
+
+(b) I 02.01 and I 02.02 templates contain the total own funds requirement, the permanent minimum capital requirement, the fixed overheads requirement and total K-Factor requirement, any additional own funds requirement and guidance and the transitional own funds requirement and capital ratios.
+
+(c) I 03.00 includes information with regard to the calculation of the fixed overheads requirement.
+
+(d) I 04.00 template contains the K-factors requirements and the factor amount.
+
+11\. The items in these templates are gross of transitional adjustments. This means that the figures (except where the transitional own funds requirement is specifically stated) are calculated in accordance with the final provisions (i.e. as if there were no transitional provisions).
+
+**1.2. I 01.00 – OWN FUNDS COMPOSITION (I 1)**
+
+1.2.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 OWN FUNDS
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+The own funds of an investment firm shall consist of the sum of its Tier 1 capital and Tier 2 capital.
+
+0020 TIER 1 CAPITAL
+
+The Tier 1 capital is the sum of Common Equity Tier 1 capital and Additional Tier 1 capital.
+
+0030 COMMON EQUITY TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 50 of Regulation (EU) No 575/2013.
+
+0040 Fully paid up capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (a), and Articles 27 to 31 of Regulation (EU) No 575/2013.
+
+Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 of Regulation (EU) No 575/2013) shall be included.
+
+The share premium related to the instruments shall not be included.
+
+Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled.
+
+0050 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0060 Retained earnings
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits.
+
+The total sum of rows 0070 and 0080 shall be reported.
+
+0070 Previous years retained earnings
+
+Article 4(1), point (123) and Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Article 4(1), point (123), of Regulation (EU) No 575/2013 defines retained earnings as "Profit and losses brought forward as a result of the final application of profit or loss under the applicable accounting framework".
+
+0080 Profit eligible
+
+Article 4(1), point (121), and Article 26(2) of Regulation (EU) No 575/2013.
+
+Article 26(2) of Regulation (EU) No 575/2013 allows including as retained earnings interim or year-end profits, with the prior consent of the competent authorities, if some conditions are met.
+
+0090 Accumulated other comprehensive income
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (d), of Regulation (EU) No 575/2013.
+
+0100 Other reserves
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (117), and Article 26(1), point (e), of Regulation (EU) No 575/2013.
+
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation.
+
+0110 Minority interest given recognition in CET1 capital
+
+Articles 84(1), 85(1) and 87(1) of Regulation (EU) No 575/2013.
+
+Sum of all the amounts of minority interests of subsidiaries that is included in consolidated CET1.
+
+0120 Adjustments to CET1 due to prudential filters
+
+Article 9(1) point (i), of Regulation (EU) 2019/2033.
+
+Articles 32 to 35 of Regulation (EU) No 575/2013.
+
+0130 Other funds
+
+Article 9(4) of Regulation (EU) 2019/2033.
+
+0140 (-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1
+
+The total sum of rows 0150 and 0190-0280 shall be reported.
+
+0150 (-) Own CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.
+
+Own CET1 held by the reporting institution or group at the reporting date. Subject to exceptions in Article 42 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0160 (-) Direct holdings of CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013
+
+Common Equity Tier 1 instruments held by the investment firm.
+
+0170 (-) Indirect holdings of CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.
+
+Common Equity Tier 1 instruments held by the investment firm.
+
+0180 (-) Synthetic holdings of CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (114), Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.
+
+0190 (-) Losses for the current financial year
+
+Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+0200 (-) Goodwill
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (113), Article 36(1), point (b), and Article 37 of Regulation (EU) No 575/2013.
+
+0210 (-) Other intangible assets
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (115), Article 36(1), point (b), and Article 37, point (a), of Regulation (EU) No 575/2013.
+
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also pursuant to the applicable accounting standard.
+
+0220 (-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities
+
+Article 9(2), point (a), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (c), of Regulation (EU) No 575/2013.
+
+0230 (-) Qualifying holding outside the financial sector which exceeds 15 % of own funds
+
+Article 10(1), point (a), of Regulation (EU) 2019/2033.
+
+0240 (-)Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds
+
+Article 10(1), point (b), of Regulation (EU) 2019/2033.
+
+0250 (-) CET1 instruments of financial sector entities where the investment firm does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (h), of Regulation (EU) No 575/2013.
+
+0260 (-) CET1 instruments of financial sector entities where the investment firm has a significant investment
+
+Article 9(2), point (d), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (i), of Regulation (EU) No 575/2013.
+
+0270 (-)Defined benefit pension fund assets
+
+Article 9(2), point (b), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (e), of Regulation (EU) No 575/2013.
+
+0280 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 36(1) of Regulation (EU) No 575/2013 that are not included in any of the rows 0150 to 0270 above.
+
+0290 CET1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013).
+
+— Transitional adjustments due to additional minority interests (Articles 479 and 480 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions
+
+— Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 0040 to 0280.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios
+
+0300 ADDITIONAL TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 61 of Regulation (EU) No 575/2013.
+
+The total sum of rows 0310 – 0330 and 0410 shall be reported.
+
+0310 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (a), and Articles 52, 53 and 54 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments
+
+0320 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0330 (-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1
+
+Article 56 of Regulation (EU) No 575/2013.
+
+The total sum of rows 0340 and 0380 – 0400 shall be reported.
+
+0340 (-) Own AT1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 52(1), point (b), Article 56, point (a), and Article 57 of Regulation (EU) No 575/2013.
+
+Own AT1 instruments held by the investment firm at the reporting date. Subject to exceptions in Article 57 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0350 (-) Direct holdings of AT1 instruments
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (a), of Regulation (EU) No 575/2013.
+
+0360 (-) Indirect holdings of AT1 instruments
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (a), of Regulation (EU) No 575/2013.
+
+0370 (-) Synthetic holdings of AT1 instruments
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (a), of Regulation (EU) No 575/2013.
+
+0380 (-) AT1 instruments of financial sector entities where the investment firm does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (c), of Regulation (EU) No 575/2013.
+
+0390 (-) AT1 instruments of financial sector entities where the investment firm has a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (d), of Regulation (EU) No 575/2013.
+
+0400 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 56 of Regulation (EU) No 575/2013 that are not included in any of the rows 0340 to 0390 above.
+
+0410 Additional Tier 1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered AT1 capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013).
+
+— Instruments issued by subsidiaries that are given recognition in AT1 capital (Articles 83, 85 and 86 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying Tier 1 capital of subsidiaries that is included in consolidated AT1, also including capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).
+
+— Transitional adjustments due to additional recognition in AT1 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013) adjustments to the qualifying Tier 1 capital included in consolidated AT1 capital due to transitional provisions.
+
+— Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions.
+
+— Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with Article 36(1), point (j), of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0300 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 capital included, among other deductions, in row 0280.
+
+— Other AT1 capital elements or deductions from an AT1 element that cannot be assigned to one of the rows 0310 to 0400.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios.
+
+0420 TIER 2 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 71 of Regulation (EU) No 575/2013.
+
+The total sum of rows 0430 to 0450 and 0520 shall be reported.
+
+0430 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (a), and Articles 63 and 65 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments.
+
+0440 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (b), and Article 65 of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0450 (-) TOTAL DEDUCTIONS FROM TIER 2
+
+Article 66 of Regulation (EU) No 575/2013.
+
+0460 (-) Own T2 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 63, point (b)(i), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013.
+
+Own T2 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 67 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0470 (-) Direct holdings of T2 instruments
+
+Article 63 point (b), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013.
+
+0480 (-) Indirect holdings of T2 instruments
+
+Article 4(1), point (114), Article 63, point (b), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013.
+
+0490 (-) Synthetic holdings of T2 instruments
+
+Article 4(1), point (126), Article 63, point (b), Article 66, point (a) and Article 67 of Regulation (EU) No 575/2013.
+
+0500 (-) T2 instruments of financial sector entities where the investment firm does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 66, point (c), of Regulation (EU) No 575/2013.
+
+0510 (-) T2 instruments of financial sector entities where the investment firm has a significant investment
+
+Article 4(1), point (27), Article 66, point (d), and Articles 68, 69 and 79 of Regulation (EU) No 575/2013.
+
+Holdings by the institution of T2 instruments of financial sector entities (as defined in Article 4(1), point (27), of Regulation (EU) No 575/2013 where the investment firm has a significant investment shall be completely deducted.
+
+0520 Tier 2: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered T2 capital instruments (Article 483, paragraphs 6 and 7, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013).
+
+— Instruments issued by subsidiaries that are given recognition in T2 capital (Articles 83, 87 and 88 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying own funds of subsidiaries that is included in consolidated T2, also including qualifying Tier 2 capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).
+
+— Transitional adjustments due to additional recognition in T2 capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013): Adjustments to the qualifying own funds included in consolidated T2 capital due to transitional provisions.
+
+— Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions.
+
+— Excess of deduction from T2 items over T2 capital, deducted from AT1 in accordance with Article 56 of Regulation (EU) No 575/2013, point (e): Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0420 to zero.
+
+— Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 0430 to 0510.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios.
+
+**1.3. I 02.01 – OWN FUND REQUIREMENTS (I 2.1)**
+
+1.3.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Own fund requirement
+
+Article 11(1) of Regulation (EU) 2019/2033.
+
+The amount shall be the amount without application of Article 57(3), (4) or (6) of Regulation (EU) 2019/2033.
+
+The amount to be reported in this row shall be the maximum amount reported in rows 0020, 0030 and 0040.
+
+0020 Permanent minimum capital requirement
+
+Article 14 of Regulation (EU) 2019/2033
+
+The amount shall be the amount without application of Article 57(3), (4) or (6) of Regulation (EU) 2019/2033.
+
+0030 Fixed overhead requirement
+
+Article 13 of Regulation (EU) 2019/2033.
+
+The amount shall be the amount without application of Article 57(3), (4) or (6) of Regulation (EU) 2019/2033.
+
+0040 Total K-Factor Requirement
+
+Article 15 of Regulation (EU) 2019/2033.
+
+The amount shall be the amount without application of Article 57(3), (4) or (6) of Regulation (EU) 2019/2033.
+
+0050 – 0100 Transitional own funds requirements
+
+0050 Transitional requirement based on Regulation (EU) No 575/2013 own funds requirements
+
+Article 57(3), point (a), of Regulation (EU) 2019/2033.
+
+0060 Transitional requirement based on fixed overhead requirement
+
+Article 57(3), point (b), of Regulation (EU) 2019/2033.
+
+0070 Transitional requirement for investment firms previously subject only to an initial capital requirement
+
+Article 57(4), point (a), of Regulation (EU) 2019/2033.
+
+0080 Transitional requirement based on initial capital requirement at authorisation
+
+Article 57(4), point (b), of Regulation (EU) 2019/2033.
+
+0090 Transitional requirement for investment firms that are not authorised to provide certain services
+
+Article 57(4), point (c), of Regulation (EU) 2019/2033.
+
+0100 Transitional requirement of at least 250 000 EUR
+
+Article 57(6) of Regulation (EU) 2019/2033.
+
+0110 – 0130 Memorandum items
+
+0110 Additional own funds requirement
+
+Article 40 Directive (EU) 2019/2034.
+
+Additional own funds required following the SREP.
+
+0120 Additional own funds guidance
+
+Article 41 of Directive (EU) 2019/2034.
+
+Additional own funds required as additional own funds guidance.
+
+0130 Total own funds requirement
+
+The total own funds requirement of an investment firm shall consist of the sum of its own funds requirements applicable at the reference date, the additional own funds requirement as reported in row 0110 and the additional own funds guidance as reported in row 0120.
+
+**1.4. I 02.02 – CAPITAL RATIOS (I 2.2)**
+
+1.4.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 CET 1 Ratio
+
+Article 9(1), point (a), and Article 11(1) of Regulation (EU) 2019/2033.
+
+Article 9(4) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0020 Surplus(+)/Deficit(-) of CET 1 Capital
+
+This item shows the surplus or deficit of CET1 Capital relating to the requirement set in Article 9(1) of Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) of Regulation (EU) 2019/2033 shall not be considered for this item.
+
+0030 Tier 1 Ratio
+
+Article 9(1), point (b), and Article 11(1) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0040 Surplus(+)/Deficit(-) of Tier 1 Capital
+
+This item shows the surplus or deficit of Tier 1 Capital relating to the requirement set in Article 9(1) of Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) of Regulation (EU) 2019/2033 shall not be considered for this item.
+
+0050 Own Funds Ratio
+
+Article 9(1), point (c), and Article 11(1) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0060 Surplus(+)/Deficit(-) of Total capital
+
+This item shows the surplus or deficit of own funds relating to the requirement set in Article 9(1) of Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) of Regulation (EU) 2019/2033 shall not be considered for this item.
+
+**1.5. I 03.00 – FIXED OVERHEADS REQUIREMENT CALCULATION (I 3)**
+
+1.5.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Fixed Overhead Requirement
+
+Article 13(1) of Regulation (EU) 2019/2033.
+
+The amount reported shall be at least 25 % of the annual fixed overheads of the previous year (row 0020).
+
+In the cases where there is a material change, the amount reported shall be the fixed overheads requirement imposed by the competent authority in accordance with Article 13(2) of Regulation (EU) 2019/2033.
+
+In the cases specified in Article 13(3) of Regulation (EU) 2019/2033, the amount to be reported shall be the projected fixed overheads of the current year (row 0210).
+
+0020 Annual fixed overheads of the previous year after distribution of profits
+
+Article 13(1) of Regulation (EU) 2019/2033.
+
+Investment firms shall report the fixed overheads of the previous year after the distribution of profits.
+
+0030 Total expenses of the previous year after the distribution of profits
+
+Article 13(1) of Regulation (EU) 2019/2033.
+
+The amount to be reported shall be after the distribution of profits.
+
+0040 Of which: Fixed expenses incurred on behalf of the investment firms by third parties
+
+Where third parties, including tied agents, incurred fixed expenses, on behalf of the investment firms, that are not already included within the total expenses in the annual financial statement referred to in paragraph 1, those fixed expenses shall be added to the total expenses of the investment firm. Where a breakdown of the third party’s expenses is available, an investment firm shall add to the figure representing the total expenses only the share of those fixed expenses applicable to the investment firm. Where such a breakdown is not available, an investment firm shall add to the figure representing the total expenses only its share of the third party’s expenses as it results from the business plan of the investment firm.
+
+0050 (-)Total deductions
+
+In addition to the items for deduction referred to in Article 13(4) of Regulation (EU) 2019/2033, the following items shall also be deducted from the total expenses, where they are included under total expenses in accordance with the relevant accounting framework:
+
+(a) fees, brokerage and other charges paid to central counterparties, exchanges and other trading venues and intermediate brokers for the purposes of executing, registering or clearing transactions, only where they are directly passed on and charged to customers. Those shall not include fees and other charges necessary to maintain membership or otherwise meet loss-sharing financial obligations to central counterparties, exchanges and other trading venues;
+
+(b) interest paid to customers on client money, where there is no obligation of any kind to pay such interest;
+
+(c) expenditures from taxes where they fall due in relation to the annual profits of the investment firm;
+
+(d) losses from trading on own account in financial instruments;
+
+(e) payments related to contract-based profit and loss transfer agreements according to which the investment firm is obliged to transfer, following the preparation of its annual financial statements, its annual result to the parent undertaking;
+
+(f) payments into a fund for general banking risk in accordance with Article 26(1)(f) of Regulation (EU) No 575/2013;
+
+(g) expenses related to items that have already been deducted from own funds in accordance with Article 36(1) of Regulation (EU) No 575/2013.
+
+0060 (-)Staff bonuses and other remuneration
+
+Article 13(4), point (a), of Regulation (EU) 2019/2033.
+
+Staff bonuses and other remuneration shall be considered to depend on the net profit of the investment firm in the respective year where both of the following conditions are met:
+
+(h) the staff bonuses or other remuneration to be deducted have already been paid to employees in the year preceding the year of payment, or the payment of the staff bonuses or other remuneration to employees will have no impact on the firm’s capital position in the year of payment;
+
+(i) with respect to the current year and future years, the firm is not obliged to award or allocate further bonuses or other payments in the form of remuneration unless it makes a net profit in that year.
+
+0070 (-)Employees’, directors’ and partners’ shares in net profits
+
+Article 13(4), point (b), of Regulation (EU) 2019/2033.
+
+Employees’, directors’ and partners’ shares in profits shall be calculated on the basis of the net profits.
+
+0080 (-)Other discretionary payments of profits and variable remuneration
+
+Article 13(4), point (c), of Regulation (EU) 2019/2033.
+
+0090 (-)Shared commission and fees payable
+
+Article 13(4), point (d), of Regulation (EU) 2019/2033.
+
+0100 (-)Fees, brokerage and other charges paid to CCPs that are charged to customers
+
+Fees, brokerage and other charges paid to central counterparties, exchanges and other trading venues and intermediate brokers for the purposes of executing, registering or clearing transactions, only where they are directly passed on and charged to customers. Those shall not include fees and other charges necessary to maintain membership or otherwise meet loss-sharing financial obligations to central counterparties, exchanges and other trading venues;
+
+0110 (-)Fees to tied agents
+
+Article 13(4), point (e), of Regulation (EU) 2019/2033.
+
+0120 (-)Interest paid to customers on client money where this is at the firm’s discretion
+
+Interest paid to customers on client money, where there is no obligation of any kind to pay such interest;
+
+0130 (-)Non-recurring expenses from non-ordinary activities
+
+Article 13(4), point (f), of Regulation (EU) 2019/2033.
+
+0140 (-)Expenditures from taxes
+
+Expenditures from taxes where they fall due in relation to the annual profits of the investment firm.
+
+0150 (-)Losses from trading on own account in financial instruments
+
+Losses due to trading on own account in financial instruments.
+
+0160 (-)Contract based profit and loss transfer agreements
+
+Payments related to contract-based profit and loss transfer agreements according to which the investment firm is obliged to transfer, following the preparation of its annual financial statements, its annual result to the parent undertaking.
+
+0170 (-)Expenditure on raw materials
+
+Commodity and emission allowance dealers may deduct expenditure on raw materials in connection with an investment firm trading in derivatives of the underlying commodity.
+
+0180 (-)Payments into a fund for general banking risk
+
+payments into a fund for general banking risk in accordance with Article 26(1)(f), of Regulation (EU) No 575/2013.
+
+0190 (-)Expenses related to items that have already been deducted from own funds
+
+Expenses related to items that have already been deducted from own funds in accordance with Article 36(1) of Regulation (EU) No 575/2013
+
+0200 Projected fixed overheads of the current year
+
+The projection of the fixed overheads for the current year after the distribution of profits.
+
+0210 Variation of fixed overheads (%)
+
+The amount shall be reported as the absolute value of:
+
+[(Projected fixed overheads of the current year) – (Annual fixed overheads of the previous year)]/(Annual fixed overheads of the previous year).
+
+**1.6. I 04.00 – TOTAL K-FACTOR REQUIREMENT CALCULATIONS (I 4)**
+
+1.6.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 TOTAL K-FACTOR REQUIREMENT
+
+Article 15(1) of Regulation (EU) 2019/2033.
+
+0020 Risk to client
+
+Article 16 of Regulation (EU) 2019/2033.
+
+The amount reported shall be the sum of rows 0030-0080.
+
+0030 Assets under management
+
+Article 15(2) and Article 17 of Regulation (EU) 2019/2033.
+
+Assets under management shall contain the discretionary portfolio management and non-discretionary advisory arrangements.
+
+0040 Client money held – Segregated
+
+Article 15(2) and Article 18 of Regulation (EU) 2019/2033.
+
+0050 Client money held – Non – segregated
+
+Article 15(2) and Article 18 of Regulation (EU) 2019/2033.
+
+0060 Assets safeguarded and administered
+
+Article 15(2) and Article 19 of Regulation (EU) 2019/2033.
+
+0070 Client orders handled – Cash trades
+
+Article 15(2) and article 20(1) and Article 20(2), point (a), of Regulation (EU) 2019/2033.
+
+0080 Client orders handled – Derivatives Trades
+
+Article 15(2) and Article 20(1) and Article 20(2), point (b), of Regulation (EU) 2019/2033.
+
+0090 Risk to market
+
+Article 21(1) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the sum of rows 0100 – 0110.
+
+0100 K-Net positions risk requirement
+
+Article 22 of Regulation (EU) 2019/2033.
+
+0110 Clearing margin given
+
+Article 23(2) of Regulation (EU) 2019/2033.
+
+0120 Risk to firm
+
+Article 24 of Regulation (EU) 2019/2033.
+
+The amount reported shall be the sum of rows 0130 – 0160.
+
+0130 Trading counterparty default
+
+Article 26 and Article 24 of Regulation (EU) 2019/2033.
+
+0140 Daily trading flow – Cash trades
+
+For the purposes of K-factor requirement calculation, investment firms shall report by applying the coefficient of Article 15(2) of Regulation (EU) 2019/2033.
+
+In the event of stressed market conditions, in accordance with Article 15(5), point (c), of Regulation (EU) 2019/2033, investment firms shall apply an adjusted coefficient as specified in Article 1(1), point (a), of the RTS to specify adjustments to the K-DTF coefficients.
+
+The daily trading flow factor shall be calculated in accordance with Article 33(2), point (a), of Regulation (EU) 2019/2033.
+
+0150 Daily trading flow – Derivative trades
+
+For the purposes of the K-factor requirement calculation, investment firms shall report by applying the coefficient of Article 15(2) of Regulation (EU) 2019/2033.
+
+In the event of stressed market conditions, in accordance with Article 15(5), point (c), of Regulation (EU) 2019/2033, investment firms shall apply an adjusted coefficient as specified in Article 1(1), point (b), of the RTS to specify adjustments to the K-DTF coefficients.
+
+The daily trading flow factor shall be calculated in accordance with Article 33(2), point (b) of Regulation (EU) 2019/2033.
+
+0160 K-Concentration risk requirement
+
+Article 37(2), Article 39 and Article 24 of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010 Factor amount
+
+Investment firms shall report the amount, which corresponds to each of the factors, before multiplying each factor by the corresponding coefficient.
+
+0020 K-Factor requirement
+
+Shall be calculated in accordance with Article 16, 21 and 24 of Regulation (EU) 2019/2033.
+
+**2\. SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS**
+
+**2.1 I 05.00 – LEVEL OF ACTIVITY – THRESHOLD REVIEW (I 5)**
+
+2.1.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 (Combined) assets under management
+
+Article 12(1), point (a), of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+Investment firms shall include discretionary and non-discretionary assets under management.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0020 (Combined) client orders handled – Cash trades
+
+Article 12(1), point (b)(i), of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0030 (Combined) client orders handled – Derivatives
+
+Article 12(1), point (b)(ii), of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0040 Assets safeguarded and administered
+
+Article 12(1), point (c), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0050 Client money held
+
+Article 12(1), point (d), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0060 Daily trading flow – cash trades and derivative trades
+
+Article 12(1), point (e), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0070 Net position risk
+
+Article 12(1), point (f), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0080 Clearing margin given
+
+Article 12(1), point (f), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0090 Trading counterparty default
+
+Article 12(1), point (g), of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0100 (Combined) on – and off-balance sheet total
+
+Article 12(1), point (h), of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+0110 Combined total annual gross revenue
+
+Article 12(1), point (i), of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+0120 Total annual gross revenue
+
+The value of total annual gross revenue excluding the gross revenues generated within the group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+0130 (-) Intragroup part of the annual gross revenue
+
+The value of the gross revenues generated within the investment firm group pursuant to Article 12(2) of Regulation (EU) 2019/2033.
+
+0140 Of which: revenue from reception and transmission of orders
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0150 Of which: revenue from execution of orders on behalf of clients
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0160 Of which: revenue from dealing on own account
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0170 Of which:revenue from portfolio management
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0180 Of which: revenue from investment advice
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0190 Of which: revenue from underwriting of financial instruments/placing on a firm commitment basis
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0200 Of which: revenue from placing without a firm commitment basis
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0210 Of which: revenue from operation of an MTF
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0220 Of which: revenue from operation of an OTF
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2), of Directive 2014/65/EU.
+
+0230 Of which: revenue from safekeeping and administration of financial instruments
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0240 Of which: revenue from granting credits or loans to investors
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0250 Of which: revenue from advice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to mergers and the purchase of undertakings
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0260 Of which: revenue from foreign exchange services
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0270 Of which: investment research and financial analysis
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0280 Of which: revenue from services related to underwriting
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+0290 Of which: investment services and ancillary activities related with the underlying of derivatives
+
+Article 54(1), point (d), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3), of Directive 2014/65/EU.
+
+**3\. K-FACTOR REQUIREMENTS – ADDITIONAL DETAILS**
+
+**3.1. General remarks**
+
+12\. In I 06.00 each of the K-factors AUM, ASA, CMH, COH and DTF have two designated tables.
+
+13\. The first table contains in columns information related to “Factor amount” for each month of the reporting quarter. Factor amount is the value that is used for the calculation of each K-factor before applying the coefficient from Table 1 of Article 15(2) of Regulation (EU) 2019/2033.
+
+14\. The second table contains detailed information necessary to calculate the Factor amount.
+
+In case of AUM, this corresponds to the value of assets under management as of the last day of the month as specified in Article 17 of Regulation (EU) 2019/2033.
+
+In the case of CMH, ASA, COH and DTF, the value reported shall correspond to the average of the daily value of the relevant indicator over the month.
+
+**3.2. I 06.01 – ASSETS UNDER MANAGEMENT – ADDITIONAL DETAILS (I 6.1)**
+
+3.2.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total AUM (average amounts)
+
+Article 4(1), point (27), of Regulation (EU) 2019/2033.
+
+Total AUM value as an arithmetic mean in accordance with Article 17(1), first subparagraph, of Regulation (EU) 2019/2033. The value reported shall be the sum of rows 0020 and 0040.
+
+0020 Of which: AUM – Discretionary portfolio management
+
+Total amount of assets in relation to which the investment firm performs the service of portfolio management as defined in Article 4(1), point (8), of Directive 2014/65/EU and calculated in accordance with Article 17(1) of Regulation (EU) 2019/2033.
+
+0030 Of which: AUM formally delegated to another entity
+
+Article 17(2) of Regulation (EU) 2019/2033.
+
+0040 AUM – Ongoing non-discretionary advice
+
+Total amount of assets in relation to which the investment firm performs the service of investment advice as defined in Article 4(1), point (4), of Directive 2014/65/EU on an ongoing and non-discretionary basis.
+
+Columns Legal references and instructions
+
+0010 Factor amount – Month t
+
+AUM for the end of the third month (i.e. the most recent) of the quarter the report refers to.
+
+0020 Factor amount – Month t-1
+
+AUM for the second month of the quarter the report refers to.
+
+0030 Factor amount – Month t-2
+
+AUM for the first month of the quarter the report refers to.
+
+**3.3. I 06.02 – MONTHLY ASSETS UNDER MANAGEMENT (I 6.2)**
+
+3.3.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total monthly assets under management
+
+Article 4(1), point (27), of Regulation (EU) 2019/2033.
+
+The total monthly assets under management as of the last business day of the relevant month as referred to in Article 17(1) of Regulation (EU) 2019/2033.
+
+The amount reported in this row shall be the sum of rows 0020 and 0040.
+
+0020 Monthly assets under management – discretionary portfolio management
+
+The amount reported shall be the monthly assets in relation to which the investment firm performs the service of portfolio management as defined in Article 4(1), point (8), of Directive 2014/65/EU as of the last business day of the relevant month as referred to in Article 17(1) of Regulation (EU) 2019/2033.
+
+0030 Of which: assets formally delegated to another entity
+
+Article 17(2) of Regulation (EU) 2019/2033.
+
+Monthly assets which management was formally delegated to another entity reported as of the last business day of the relevant month.
+
+0040 Monthly assets under management – Ongoing non-discretionary advice
+
+Total amount of assets in relation to which the investment firm performs the service of investment advice as defined in Article 4(1), point (4), of Directive 2014/65/EU on an ongoing and non-discretionary basis reported as of the last business day of the relevant month.
+
+Columns Legal references and instructions
+
+0010-0140 End-of-month values
+
+Values as of the last business day of the relevant month as referred to in Article 17(1) of Regulation (EU) 2019/2033 shall be reported.
+
+**3.4. I 06.03 – CLIENT MONEY HELD- ADDITIONAL DETAIL (I 6.3)**
+
+3.4.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 CMH – Segregated (average amounts)
+
+Article 4(1), points (28) and (49), of Regulation (EU) 2019/2033 and Article 1 of the RTS on the definition of segregated account (Article 15(5), point (b), of Regulation (EU) 2019/2033).
+
+The value reported shall be the arithmetic mean of the daily values of CMH where client money is held in segregated accounts in accordance with Article 18(1), first subparagraph of Regulation (EU) 2019/2033.
+
+0020 CMH – Non-segregated (average amounts)
+
+Article 4(1), points (28) and (49), of Regulation (EU) 2019/2033.
+
+The value reported shall be the arithmetic mean of the daily values of CMH where client money is not held in segregated accounts in accordance with Article 18(1), first subparagraph of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010 Factor amount – Month t
+
+CMH for the end of the third month (i.e. the most recent) of the quarter the report refers to.
+
+This amount is calculated as the arithmetic mean of daily amounts within the time period specified in Article 18(1) of Regulation (EU) 2019/2033.
+
+0020 Factor amount – Month t-1
+
+CMH for the end of the second month of the quarter the report refers to.
+
+This amount is calculated as the arithmetic mean of daily amounts within the time period specified in Article 18(1) of Regulation (EU) 2019/2033.
+
+0030 Factor amount – Month t-2
+
+CMH for the end of the first month of the quarter the report refers to.
+
+This amount is calculated as the arithmetic mean of daily amounts within the time period specified in Article 18(1) of Regulation (EU) 2019/2033.
+
+**3.5. I 06.04 – AVERAGE VALUE OF TOTAL DAILY CLIENT MONEY HELD (I 6.4)**
+
+3.5.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total daily client money held – Segregated
+
+Article 4(1), points (28) and (49), of Regulation (EU) 2019/2033 and the RTS on the definition of segregated account (Article 15(5), point (b), of Regulation (EU) 2019/2033).
+
+The value reported shall be the monthly average of the total daily client money held where client money is held in segregated accounts in accordance with Article 18(1) of Regulation (EU) 2019/2033.
+
+0020 Total daily client money held – Non-segregated
+
+Article 4(1), points (28) and (49), of Regulation (EU) 2019/2033
+
+The value reported shall be the monthly average of the total daily client money held where client money is not held in segregated accounts in accordance with Article 18(1) of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010-0080 Monthly averages of total daily client money held values
+
+Investment firms shall report in each month, the monthly average value of total daily client money held measured at the end of each business day as per Article 18(1) of Regulation (EU) 2019/2033.
+
+**3.6. I 06.05 – ASSETS SAFEGUARDED AND ADMINISTERED – ADDITIONAL DETAIL (I 6.5)**
+
+3.6.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total ASA (average amounts)
+
+Article 4(1), point (29), of Regulation (EU) 2019/2033.
+
+Article 5(1) of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033).
+
+Total ASA value as a rolling average of the value of the total daily assets safeguarded and administered, measured at the end of each business day for the previous nine months, excluding the three most recent months in accordance with Article 19(1), first subparagraph of Regulation (EU) 2019/2033.
+
+0020 Of which: Fair value of financial instruments (Level 2)
+
+Article 5(1), point (a), of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033).
+
+Level 2 financial instruments valuated pursuant to IFRS 13.81.
+
+0030 Of which: Fair value of financial instruments (Level 3)
+
+Article 5(1), point (a), of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033.
+
+Valuation based on unobservable inputs using the best information available IFRS 13.86.
+
+0040 Of which: assets formally delegated to another financial entity
+
+Article 19(2) of Regulation (EU) 2019/2033.
+
+Value of assets which safeguarding and administration was formally delegated to another financial entity as an arithmetic mean in accordance with Article 19(1), first subparagraph of Regulation (EU) 2019/2033.
+
+0050 Of which: assets of another financial entity that has formally delegated to the investment firm
+
+Article 19(2) of Regulation (EU) 2019/2033.
+
+Value of assets of another financial entity that has formally delegated safeguarding and administration to the investment firm as an arithmetic mean in accordance with Article 19(1), first subparagraph of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010 Factor amount – Month t
+
+ASA for the end of the third month (i.e. the most recent) of the quarter the report refers to.
+
+0020 Factor amount – Month t-1
+
+ASA for the end of the second month of the quarter the report refers to.
+
+0030 Factor amount – Month t-2
+
+ASA for the end of the first month of the quarter the report refers to.
+
+**3.7. I 06.06 – AVERAGE VALUE OF TOTAL DAILY ASSETS SAFEGUARDED AND ADMINISTERED (I 6.6)**
+
+3.7.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Assets safeguarded and administered
+
+Article 4(1), point (29), of Regulation (EU) 2019/2033.
+
+Article 5(1) of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033).
+
+The value reported shall be the monthly average of the total daily assets safeguarded and administered in accordance with Article 19(1) of Regulation (EU) 2019/2033.
+
+0020 Of which: Fair value of financial instruments (Level 2)
+
+Article 5(2) of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033.
+
+Level 2 financial instruments valuated pursuant to IFRS 13.81.
+
+0030 Of which: Fair value of financial instruments (Level 3)
+
+Article 5(1), point (a), of the RTS to specify the methods for measuring the K-factors (Article 15(5), point (a), of Regulation (EU) 2019/2033.
+
+Valuation based on unobservable inputs using the best information available IFRS 13.86.
+
+0040 Of which: assets formally delegated to another financial entity
+
+Article 19(2) of Regulation (EU) 2019/2033.
+
+The value reported shall be the monthly average of the total daily assets which safeguarding and administration was formally delegated to another financial entity in accordance with Article 19(1) of Regulation (EU) 2019/2033.
+
+0050 Of which: assets of another financial entity that has formally delegated to the investment firm
+
+Article 19(2) of Regulation (EU) 2019/2033.
+
+The value reported shall be the monthly average of the total daily assets of another financial entity that has formally delegated safeguarding and administration to the investment firm in accordance with Article 19(1) of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010-0080 Monthly averages of total daily assets safeguarded and administered values
+
+Investment firms shall report in each month, the daily average value of total daily assets safeguarded and administered measured at the end of each business day as per Article 19(1) of Regulation (EU) 2019/2033.
+
+**3.8. I 06.07 – CLIENT ORDERS HANDLED – ADDITIONAL DETAILS (I 6.7)**
+
+3.8.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 COH – Cash trades (average amounts)
+
+Value of COH – cash trades as defined in Article 4(1), point (30), of Regulation (EU) 2019/2033 and measured pursuant to Article 20(1) of Regulation (EU) 2019/2033.
+
+Investment firms shall report the arithmetic mean amount of COH – cash trades for the previous six months, excluding the three most recent months according with Article 20(1), first subparagraph of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 20(2), point (a), of Regulation (EU) 2019/2033.
+
+0020 Of which: Execution of client orders
+
+COH for cash trades in relation to which the investment firm perform the service of execution of client orders in client’s name as defined in Article 4(1), point (5), of Directive 2014/65/EU.
+
+The arithmetic mean amount of COH value for the previous six months, excluding the three most recent months according with Article 20(1), first subparagraph of Regulation (EU) 2019/2033 shall be reported.
+
+0030 Of which: Reception and transmission of client orders
+
+COH for cash trades in relation to which the investment firm perform the service of reception and transmission of client orders.
+
+The arithmetic mean amount of COH value for the previous six months, excluding the three most recent months according with Article 20(1), first subparagraph of Regulation (EU) 2019/2033 shall be reported.
+
+0040 COH – Derivatives (average amounts)
+
+Article 4(1), point (30), of Regulation (EU) 2019/2033.
+
+Investment firms shall report the arithmetic mean amount of COH – derivatives for the previous six months, excluding the three most recent months according with Article 20(1), first subparagraph of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 20(2), point (b), of Regulation (EU) 2019/2033.
+
+0050 Of which: Execution of client orders
+
+COH for derivative trades in relation to which the investment firm perform the service of execution of client orders in client’s name as defined in Article 4(1), point (5), of Directive 2014/65/EU.
+
+The arithmetic mean amount of COH value for the previous six months, excluding the three most recent months, pursuant to Article 20(1), first subparagraph of Regulation (EU) 2019/2033 shall be reported.
+
+0060 Of which: Reception and transmission of client orders
+
+COH for derivative trades in relation to which the investment firm perform the service of reception and transmission of client orders.
+
+The arithmetic mean amount of COH value for the previous six months, excluding the three most recent months pursuant to Article 20(1), first subparagraph, of Regulation (EU) 2019/2033 shall be reported.
+
+Columns Legal references and instructions
+
+0010 Factor amount – Month t
+
+Value of COH as of the end of the third month (i.e. the most recent) of the quarter the report refers to.
+
+0020 Factor amount – Month t-1
+
+Value of COH as of the end of the second month of the quarter the report refers to.
+
+0030 Factor amount – Month t-2
+
+Value of COH as of the end of the first month of the quarter the report refers to.
+
+**3.9. I 06.08 – AVERAGE VALUE OF TOTAL DAILY CLIENT ORDERS HANDLED (I 6.8)**
+
+3.9.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total daily client orders handled – Cash trades
+
+Article 4(1), point (30), of Regulation (EU) 2019/2033.
+
+The average value of the total daily client orders handled (cash trades) of the relevant month as referred to in Article 20(1) of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 20(2), point (a), of Regulation (EU) 2019/2033.
+
+0020 Of which: Execution of client orders
+
+The average value of the total daily client orders handled for cash trades in relation to which the investment firm perform the service of execution of client orders in client’s name as defined in Article 4(1), point (5), of Directive 2014/65/EU.
+
+0030 Of which: Reception and transmission of client orders
+
+The average value of the total daily client orders handled for cash trades in relation to which the investment firm perform the service of reception and transmission of client orders.
+
+0040 Total daily client orders handled – Derivatives
+
+Article 4(1), point (30), of Regulation (EU) 2019/2033.
+
+The average value of the total daily client orders handled (derivatives) of the relevant month as referred to in Article 20(1) of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 20(2), point (b), of Regulation (EU) 2019/2033.
+
+0050 Of which: Execution of client orders
+
+The average value of the total daily client orders handled for derivative trades in relation to which the investment firm perform the service of execution of client orders in client’s name as defined in Article 4(1), point (5), of Directive 2014/65/EU.
+
+0060 Of which: Reception and transmission of client orders
+
+The average value of the total daily client orders handled for derivative trades in relation to which the investment firm perform the service of reception and transmission of client orders.
+
+Columns Legal references and instructions
+
+0010-0050 Monthly averages of total daily client orders handled values
+
+Investment firms shall report each month the monthly average value of the total daily client orders handled as per Article 20(1).
+
+**3.10. I 06.09 – K-NET POSITION RISK – ADDITIONAL DETAILS (I 6.9)**
+
+3.10.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total standardised approach
+
+Article 22 (a) of Regulation (EU) 2019/2033.
+
+Positions in for which an own funds requirement is determined in accordance with Chapters 2, 3 or 4 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0020 Position risk
+
+Article 22 (a) and 21(3) of Regulation (EU) 2019/2033.
+
+Trading book positions in for which an own funds requirement for position risk is determined in accordance with Chapter 2 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0030 Equity instruments
+
+Articles 22(a) and 21(3) of Regulation (EU) 2019/2033.
+
+Trading book positions in equity instruments for which an own funds requirement is determined in accordance with Section 3 of Chapter 2 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0040 Debt instruments
+
+Articles 22(a) and 21(3) of Regulation (EU) 2019/2033.
+
+Trading book positions in debt instruments for which an own funds requirement is determined in accordance with Section 2 of Chapter 2 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0050 Of which: securitisations
+
+Articles 22 (a) and 21(3) of Regulation (EU) 2019/2033.
+
+Positions in securitisation instruments as referred to in Article 337 of Regulation (EU) No 575/2013 and positions in the correlation trading portfolio as referred to in Article 338 of Regulation (EU) No 575/2013.
+
+0055 Particular approach for position risk in CIUs
+
+Article 22 (a) and 21(3) of Regulation (EU) 2019/2033.
+
+Total risk exposure amount for positions in CIUs if capital requirements are calculated in accordance with Article 348(1) of Regulation (EU) No 575/2013 either immediately or as a consequence of the cap defined in Article 350(3), point (c), of Regulation (EU) No 575/2013. Regulation (EU) No 575/2013 does not explicitly assign those positions to either the interest rate risk or the equity risk.
+
+If the particular approach in accordance with the first sentence of Article 348(1) of Regulation (EU) No 575/2013 is applied, the amount to be reported is 32 % of the net position of the CIU exposure in question.
+
+If the particular approach in accordance with the second sentence of Article 348(1) of Regulation (EU) No 575/2013 is applied, the amount to be reported is the lower of 32 % of the net position of the relevant CIU exposure and the difference between 40 % of this net position and the own funds requirements that arise from the foreign exchange risk associated with this CIU exposure.
+
+0060 Foreign exchange risk
+
+Article 22(a) and Article 21 paragraphs (3) and (4), of Regulation (EU) 2019/2033.
+
+Positions subject to foreign exchange risk for which an own funds requirement is determined in accordance with Chapter 3 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0070 Commodities risk
+
+Article 22(a) and Article 21 paragraphs (3) and (4), of Regulation (EU) 2019/2033.
+
+Positions subject to commodities risk for which an own funds requirement is determined in accordance with Chapter 4 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+0080 Internal model approach
+
+Article 57(2) and Article 21, paragraphs (3) and (4) of Regulation (EU) 2019/2033.
+
+Trading book positions and positions in the non-trading book that are subject to foreign exchange or commodities risk for which the own funds requirement is determined in accordance with Chapter 5 of Title IV of Part Three of Regulation (EU) No 575/2013.
+
+**3.11. I 06.10 – CLEARING MARGIN GIVEN – ADDITIONAL DETAIL (I 6.10)**
+
+15\. In this template, firms dealing on own account shall report all clearing members of qualifying central counterparties under whose responsibility the execution and settlement of transactions of the firm takes place.
+
+3.11.1. Instructions concerning specific positions
+
+Column Legal references and instructions
+
+0010 – 0030 Clearing member
+
+0010 Name
+
+Investment firms shall report the name of any clearing member of qualifying central counterparties under whose responsibility the execution and settlement of transactions of the firm dealing on its own account takes place.
+
+0020 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0030 Type of code
+
+The type of code reported in column 0020 shall be identified as a ‘LEI code type’ or ‘National code type’.
+
+0040 – 0060 Contribution to the total margin required on a daily basis
+
+Investment firms shall report information for the three days of the preceding three months where the highest, second highest and third highest amount of total margin required on a daily basis, as referred to in Article 23(2) of Regulation (EU) 2019/2033, was calculated.
+
+The investment firm shall include all clearing members in the template that were used on at least one of those days.
+
+The contribution to the total margin required on a daily basis shall be reported as the amount before the multiplication with the factor of 1.3 referred to in Article 23(2) of Regulation (EU) 2019/2033.
+
+0040 Contribution to the total margin required on a daily basis – on the day of the highest amount of total margin required
+
+0050 Contribution to the total margin required on a daily basis – on the day of the second highest amount of total margin required
+
+0060 Contribution to the total margin required on a daily basis – on the day of the third highest amount of total margin required
+
+**3.12. I 06.11 – TRADING COUNTERPARTY DEFAULT- TCD ADDITIONAL DETAILS (I 6.11)**
+
+3.12.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 – 0080 Breakdown by method for determining the exposure value
+
+0010 Application Regulation (EU) 2019/2033: K-TCD
+
+Article 26 of Regulation (EU) 2019/2033.
+
+Exposures for which the own funds requirement is calculated as K-TCD in accordance with Article 26 of Regulation (EU) 2019/2033.
+
+0020 Alternative approaches: Exposure value determined in accordance with Regulation (EU) No 575/2013
+
+Article 25(4), first subparagraph of Regulation (EU) 2019/2033.
+
+Exposures for which the exposure value is determined in accordance with Regulation (EU) No 575/2013 and the related own funds requirements of which are calculated by multiplying the exposure value by the risk factor set out in Table 2 in Article 26 of Regulation (EU) 2019/2033.
+
+0030 SA-CCR
+
+Article 274 of Regulation (EU) No 575/2013.
+
+0040 Simplified SA-CCR
+
+Article 281 of Regulation (EU) No 575/2013.
+
+0050 Original exposure method
+
+Article 282 of Regulation (EU) No 575/2013
+
+0060 Alternative approaches: Full application of Regulation (EU) No 575/2013 framework
+
+Article 25(4), second subparagraph, of Regulation (EU) 2019/2033.
+
+Exposures for which the exposure value and the own funds requirements are determined in accordance with Regulation (EU) No 575/2013.
+
+0070 Memorandum item: CVA component
+
+Articles 25(5) and 26 of Regulation (EU) 2019/2033.
+
+Where an institution applies the approach of Article 26 of Regulation (EU) 2019/2033 or applies the derogation of Article 26(5), first subparagraph, of Regulation of (EU) 2019/2033, the CVA component shall be determined as the difference between the relevant amount after the application of the CVA factor multiplier and the relevant amount before the application of the CVA factor multiplier.
+
+Where an institutions applies the derogation of the Article 25(5), second subparagraph of Regulation (EU) 2019/2033, the CVA component shall be determined in accordance with Part Three, Title VI, of Regulation (EU) No 575/2013.
+
+0080 of which: calculated in accordance with Regulation (EU) No 575/2013 framework
+
+Article 25(5), second subparagraph of Regulation (EU) 2019/2033.
+
+0090 – 0110 Breakdown by type of counterparty
+
+The counterparty breakdown shall be based on the types of counterparties referred to in Table 2 in Article 26 of Regulation (EU) 2019/2033.
+
+0090 Central governments, central banks and public sector entities
+
+0100 Credit institutions and investment firms
+
+0110 Other counterparties
+
+Column Legal references and instructions
+
+0010 K – factor requirement
+
+The own funds requirement shall be reported as calculated in accordance with Article 26 of Regulation (EU) 2019/2033 or the applicable provisions of Regulation (EU) No 575/2013.
+
+0020 Exposure value
+
+The exposure value as calculated in accordance with Article 27 of Regulation (EU) 2019/2033 or the applicable provisions of Regulation (EU) No 575/2013.
+
+0030 Replacement cost (RC)
+
+Article 28 of Regulation (EU) 2019/2033.
+
+0040 Potential future exposure (PFE)
+
+Article 29 of Regulation (EU) 2019/2033.
+
+0050 Collateral (C)
+
+Article 30(2) and (3) of Regulation (EU) 2019/2033.
+
+The value reported shall be the value of the collateral as used for the calculation of the exposure value and therefore, where applicable, the value after the application of the volatility adjustment and the currency mismatch volatility adjustment of Articles 30(1) and (3) of Regulation (EU) 2019/2033.
+
+**3.13. I 06.12– DAILY TRADING FLOW- ADDITIONAL DETAILS (I 6.12)**
+
+3.13.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Total DTF – cash trades (average amounts)
+
+Investment firms shall report the arithmetic mean amount of DTF – cash trades for the remaining six months according with Article 33(1), first subparagraph of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 33(2), point (a), of Regulation (EU) 2019/2033.
+
+The amount reported in this cell shall take into account Article 33(3) of Regulation (EU) 2019/2033.
+
+0020 Total DTF – derivative trades (average amounts)
+
+Article 33(2), point (b), of Regulation (EU) 2019/2033.
+
+Investment firms shall report the arithmetic mean amount of DTF – derivative trades for the remaining six months according with Article 33(1), first subparagraph, of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 33(2), point (b), of Regulation (EU) 2019/2033.
+
+The amount reported in this cell shall take into account Article 33(3) of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010 Average factor amount – Month t
+
+Value of DTF as of the end of the third month (i.e. the most recent) of the quarter the report refers to.
+
+0020 Average factor amount – Month t-1
+
+Value of DTF as of the end of the second month of the quarter the report refers to.
+
+0030 Average factor amount – Month t-2
+
+Value of DTF as of the end of the first month of the quarter the report refers to.
+
+**3.14. I 06.13– AVERAGE VALUE OF TOTAL DAILY TRADING FLOWS (I 6.13)**
+
+3.14.1 Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Daily trading flow – cash trades
+
+The average value of the total daily trading flow (cash value) of the relevant month as referred to in Article 33(1) of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 33(2), point (a), of Regulation (EU) 2019/2033.
+
+0020 Daily trading flow – derivative trades
+
+The average value of the total daily trading flow (derivative trades) of the relevant month as referred to in Article 33(1) of Regulation (EU) 2019/2033 and shall be measured pursuant to Article 33(2), point (b), of Regulation (EU) 2019/2033.
+
+Columns Legal references and instructions
+
+0010-0080 Monthly averages of total daily trading flow values
+
+Investment firms shall report in each relevant month column, the monthly average value of the total daily trading flow measured throughout each business day as per Article 33(1) of Regulation (EU) 2019/2033.
+
+**4\. CONCENTRATION RISK REPORTING**
+
+**4.1. General Remarks**
+
+16\. Concentration risk reporting contains information about the concentration risks an investment firm is exposed to through its trading book positions due to the default of counterparties. This leads in to the calculation of K-CON, an additional own funds requirement due to the exposures the investment firm has on its balance sheet. This is in line with the definition of ‘concentration risk’ in Article 4(1), point (31), of Regulation (EU) 2019/2033 where: ‘concentration risk’ or ‘CON’ means the exposures in the trading book of an investment firm to a client or a group of connected clients the value of which exceeds the limits in Article 37(1).
+
+17\. Concentration risk reporting also includes information about the following:
+
+i. Client money
+
+ii. Client assets
+
+iii. Firm’s own cash
+
+iv. Earnings from clients
+
+v. Trading book positions
+
+vi. Exposures calculated taking into account assets and off-balance sheet items not recorded in the trading book.
+
+18\. Although the wording in Article 54(2) of Regulation (EU) 2019/2033 also refers to ‘concentration risk’, the definition of this included in Article 4(1), point (31), of Regulation (EU) 2019/2033 and the limits set out Article 37(1) of Regulation (EU) 2019/2033 are not compatible with the items described in Article 54(2), points (b) to (e), of Regulation (EU) 2019/2033. For this reason, the reporting required focuses on the five largest positions, if available, in respect of each of items (i) to (vi) of paragraph 19 that are held at, or are attributable to, a particular institution, client or other entity. This reporting allows competent authorities to better understand the risks that investment firms might face from these.
+
+19\. Concentration risk reporting consists of the I 07.00 and I 08.00 templates and, in accordance with Article 54(2) of Regulation (EU) 2019/2033, firms that meet the conditions for qualifying as a small and non-interconnected investment firm set out in Article 12(1) of Regulation (EU) 2019/2033 are not required to report information in this regard.
+
+**4.2. I 07.00 – K-CON ADDITIONAL DETAILS (I7)**
+
+4.2.1. Instructions concerning specific positions
+
+Columns Legal references and instructions
+
+0010-0060 Counterparty ID
+
+The investment firm shall report the identification of the counterparties or group of connected clients to which they have an exposure that exceeds the limits set out in Article 37(1) of Regulation (EU) 2019/2033.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type.
+
+The type of code shall always be reported.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected clients is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The investment firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Counterparty type
+
+The investment firm shall report for each exposure if this is associated to:
+
+1\. a credit institution or a group of connected clients that includes a credit institution;
+
+2\. an investment firm or a group of connected clients that includes an investment firm;
+
+3\. Other than credit institutions or investment firms or group of connected clients that include an investment firm or an institution
+
+0060-0110 Trading Book Exposures exceeding the limits set in Article 37(1) of Regulation (EU) 2019/2033
+
+The investment firm shall report information on each exposure exceeding the limits set out in Article 37(1) of Regulation (EU) 2019/2033 in accordance with Article 36 and 39 of Regulation (EU) 2019/2033.
+
+0060 Exposure Value (EV)
+
+Article 36 of Regulation (EU) 2019/2033.
+
+0070 Exposure Value (as % of Own Funds)
+
+Exposure calculated in accordance with Article 36 of Regulation (EU) 2019/2033 and expressed as a percentage of the firm’s own funds.
+
+0080 Own Funds Requirement of total exposure (OFR)
+
+Own funds requirement of total exposure to the individual counterparty or group of connected clients, calculated as the total amount of K-TCD and of the specific risk requirement for K-NPR for the relevant exposure.
+
+0090 Exposure Value Excess (EVE)
+
+Amount calculated in accordance with Article 37(2), second subparagraph, of Regulation (EU) 2019/2033 for the relevant exposure.
+
+0100 Duration of the Excess (in days)
+
+Number of days passed since the exposure excess has first occurred.
+
+0110 K-CON Own Funds Requirement for the Excess (OFRE)
+
+Amount calculated in accordance with Article 39(2) of Regulation (EU) 2019/2033 for the relevant exposure.
+
+**4.3. I 08.01 – LEVEL OF CONCENTRATION RISK – CLIENT MONEY HELD (I 8.1)**
+
+4.3.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0060 Total CMH
+
+Article 54(2), point (b), of Regulation (EU) 2019/2033.
+
+The investment firm shall report the identification of the five, if available, counterparties or group of connected counterparties where the largest amounts of client money are held.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected counterparties is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Total CMH at reporting date
+
+The firm shall report the total amount of client money at reporting date.
+
+0060 Percentage of client money held at this institution
+
+The firm shall report the amount of client money held at reporting date with each of the counterparties or groups of connected counterparties for which reporting is made, expressed as a percentage of the total (reported in column 0050).
+
+**4.4. I 08.02 – LEVEL OF CONCENTRATION RISK – ASSETS SAFEGUARDED AND ADMINISTERED (I 8.2)**
+
+4.4.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0060 Total ASA
+
+Article 54(2), point (c), of Regulation (EU) 2019/2033.
+
+The firm shall report the identification of the five, if available, counterparties or group of connected counterparties where the largest amounts of client securities are deposited.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected counterparties is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Total ASA at reporting date
+
+The firm shall report the total amount of client securities deposited at each institution at reporting date.
+
+0060 Percentage of client securities deposited at this institution
+
+The firm shall report the amount of client securities deposited at reporting date with each of the counterparties or groups of connected counterparties for which reporting is made, expressed as a percentage of the total (reported in column 0050).
+
+**4.5. I 08.03 – LEVEL OF CONCENTRATION RISK -TOTAL OWN CASH DEPOSITED (I 8.3)**
+
+4.5.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0060 Total Own Cash Deposited
+
+Article 54(2), points (d) and (f), of Regulation (EU) 2019/2033.
+
+The firm shall report the identification of the five, if available, counterparties or group of connected counterparties where the largest amounts of firm’s own cash are deposited.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected counterparties is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Amount of firm’s cash deposits at the institution
+
+The firm shall report the total amount of own cash held at each institution at the reference date.
+
+0060 Percentage of firm’s own cash deposits at the institution
+
+The firm shall report the amount of own cash deposited at reporting date with each of the counterparties or groups of connected counterparties for which reporting is made, expressed as a percentage of the total own cash of the investment firm.
+
+**4.6. I 08.04 – LEVEL OF CONCENTRATION RISK – TOTAL EARNINGS (I 8.4)**
+
+4.6.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0080 Total Earnings
+
+Article 54(2), points (e) and (f), of Regulation (EU) 2019/2033.
+
+The firm shall report the identification of the five, if available, clients or group of connected clients from whom the largest amounts of firm’s earnings are derived.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected clients is reported. In any other case, the name shall correspond to the individual client.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Total earnings from this client
+
+The firm shall report the total earnings per client or group of connected clients generated since the beginning of the accounting year. The earnings shall be broken down by interest and dividend income on one hand and fee and commission income and other income on the other hand.
+
+0060 – 0090 Interest and dividend income
+
+0060 Interest and dividend income – Amount generated from positions in the trading book
+
+Trading book as defined in Article 4(1), point (54), of Regulation (EU) 2019/2033.
+
+0070 Interest and dividend income – Amount generated from positions in the non-trading book
+
+0080 Interest and dividend income – of which: amount generated from off-balance sheet items
+
+0090 Percentage of interest and dividend income from this client
+
+The firm shall report the interest and dividend income generated from each of the clients or groups of connected clients, expressed as a percentage of the total interest and dividend income of the investment firm.
+
+0100 – 0110 Fee and commission and other income
+
+0100 Fee and commission and other income – Amount
+
+0110 Percentage of fee and commission and other income from this client
+
+The firm shall report the fee and commission and other income generated from each of the clients or groups of connected clients, expressed as a percentage of the total fee and commission and other income of the investment firm.
+
+**4.7. I 08.05 – TRADING BOOK EXPOSURES (I 8.5)**
+
+4.7.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0050 Trading book exposures
+
+Article 54(2), point (a), of Regulation (EU) 2019/2033.
+
+The firm shall report information in relation to the five, if available, largest trading book exposures.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected counterparties is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Percentage of exposure to this counterparty with respect to firm’s own funds (trading book positions only)
+
+The firm shall report the trading book exposures at reporting date to each of the counterparties or groups of connected counterparties for which reporting is made expressed as a percentage of own funds.
+
+**4.8. I 08.06 – NON-TRADING BOOK AND OFF-BALANCE SHEET ITEMS (I 8.6)**
+
+4.8.1. Instructions concerning specific columns
+
+Columns Legal references and instructions
+
+0010-0050 Non-trading book and off-balance sheet items
+
+Article 54(2), point (f), of Regulation (EU) 2019/2033.
+
+The firm shall report information in relation to the five, if available, largest exposures calculated including assets not recorded in the trading book.
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The investment firms shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘National code type’.
+
+0030 Name
+
+The name shall correspond to the name of the parent company whenever a group of connected counterparties is reported. In any other case, the name shall correspond to the individual counterparty.
+
+0040 Group/individual
+
+The firm shall report "1" for the reporting of exposures to individual clients or "2" for the reporting of exposures to groups of connected clients.
+
+0050 Percentage of exposure with respect to firm’s own funds (including off balance sheet assets and non-trading book items)
+
+The firm shall report exposures, calculated taking into account assets and off-balance sheet items not recorded in the trading book in addition to trading book positions, at reporting date to each of the counterparties or groups of connected counterparties for which reporting is made expressed as a percentage of eligible capital.
+
+**5\. LIQUIDITY REQUIREMENTS**
+
+**5.1 I 09.00 – LIQUIDITY REQUIREMENTS (I 9)**
+
+5.1.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Liquidity Requirement
+
+Article 43(1) of Regulation (EU) 2019/2033.
+
+0020 Client guarantees
+
+Article 45 of Regulation (EU) 2019/2033.
+
+The value reported shall be the 1,6 % of the total amount of guarantees provided to the clients pursuant to Article 45 of Regulation (EU) 2019/2033.
+
+0030 Total liquid assets
+
+Article 43(1), point (a), and Article 43(2) of Regulation (EU) 2019/2033.
+
+Total liquid assets shall be reported after application of relevant haircuts.
+
+This row is sum of rows 0040, 0050, 0060, 0170, 0230, 0290 and 0300.
+
+0040 Unencumbered short term deposits
+
+Article 43(1), point (d), and Article 43(2) of Regulation (EU) 2019/2033.
+
+0050 Total eligible receivables due within 30 days
+
+Article 43(3) of Regulation (EU) 2019/2033 and Article 43(2) of Regulation (EU) 2019/2033.
+
+0060 Level 1 assets
+
+Article 10 of Delegated Regulation (EU) 2015/61 and Article 43(2) of Regulation (EU) 2019/2033.
+
+Total liquid assets shall be reported after application of relevant haircuts.
+
+Sum of rows 0070 – 0160.
+
+0070 Coins and banknotes
+
+Article 10(1), point (a), of Delegated Regulation (EU) 2015/61.
+
+Total amount of cash arising from coins and banknotes.
+
+0080 Withdrawable central bank reserves
+
+Article 10(1), point (b) (iii), of Delegated Regulation (EU) 2015/61.
+
+0090 Central bank assets
+
+Article 10(1), point (b)(i) and (ii), of Delegated Regulation (EU) 2015/61.
+
+0100 Central government assets
+
+Article 10(1), point (c)(i) and (ii), of Delegated Regulation (EU) 2015/61.
+
+0110 Regional government/local authorities assets
+
+Article 10(1), point (c)(iii) and (iv), of Delegated Regulation (EU) 2015/61.
+
+0120 Public Sector Entity assets
+
+Article 10(1), point (c)(v), of Delegated Regulation (EU) 2015/61.
+
+0130 Recognisable domestic and foreign currency central government and central bank assets
+
+Article 10(1), point (d), of Delegated Regulation (EU) 2015/61.
+
+0140 Credit institution (protected by Member State government, promotional lender) assets
+
+Article 10(1), point (e)(i) and (ii), of Delegated Regulation (EU) 2015/61.
+
+0150 Multilateral development bank and international organisations assets
+
+Article 10(1), point (g), of Delegated Regulation (EU) 2015/61.
+
+0160 Extremely high quality covered bonds
+
+Article 10(1), point (f), of Delegated Regulation (EU) 2015/61.
+
+0170 Level 2A assets
+
+Article 11 of Delegated Regulation (EU) 2015/61 and Article 43(2) of Regulation (EU) 2019/2033.
+
+0180 Regional government/local authorities or Public Sector Entities assets (Member State, RW20 %)
+
+Article 11(1), point (a), of Delegated Regulation (EU) 2015/61.
+
+0190 Central bank or central/regional government or local authorities or Public Sector Entities assets (Third Country, RW20 %)
+
+Article 11(1), point (b), of Delegated Regulation (EU) 2015/61.
+
+0200 High quality covered bonds (CQS2)
+
+Article 11(1), point (c), of Delegated Regulation (EU) 2015/61.
+
+0210 High quality covered bonds (Third Country, CQS1)
+
+Article 11(1), point (d), of Delegated Regulation (EU) 2015/61.
+
+0220 Corporate debt securities (CQS1)
+
+Article 11(1), point (e), of Delegated Regulation (EU) 2015/61.
+
+0230 Level 2B assets
+
+Article 12 of Delegated Regulation (EU) 2015/61 and Article 43(2) of Regulation (EU) 2019/2033.
+
+0240 Asset-backed securities
+
+Article 12(1), point (a), and Article 13(2), point (g), of Delegated Regulation (EU) 2015/61.
+
+0250 Corporate debt securities
+
+Article 12(1), point (b), of Delegated Regulation (EU) 2015/61.
+
+0260 Shares (major stock index)
+
+Article 12(1), point (c), of Delegated Regulation (EU) 2015/61.
+
+0270 Restricted-use central bank committed liquidity facilities
+
+Article 12(1), point (d), of Delegated Regulation (EU) 2015/61.
+
+0280 High quality covered bonds (RW35 %)
+
+Article 15(2), point (f), of Delegated Regulation (EU) 2015/61.
+
+0290 Qualifying CIU shares/units
+
+Article 15 of Delegated Regulation (EU) 2015/61.
+
+Article 43(1), point (b), of Regulation (EU) 2019/2033.
+
+0300 Total other eligible financial instruments
+
+Article 43(1), point (c), of Regulation (EU) 2019/2033.
+
+## ANNEX III — REPORTING FOR SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS
+
+<table>
+<tbody><tr><td colspan="4">INVESTMENT FIRMS TEMPLATES</td></tr>
+<tr><td>Template number</td><td>Template code</td><td>Name of the template /group of templates</td><td>Short name</td></tr>
+<tr><td>  </td><td>  </td><td>OWN FUNDS: level, composition, requirements and calculation</td><td>  </td></tr>
+<tr><td>1</td><td>I 01.01</td><td>Own funds</td><td>I1.1</td></tr>
+<tr><td>2,3</td><td>I 02.03</td><td>Own funds requirements</td><td>I2.3</td></tr>
+<tr><td>2,4</td><td>I 02.04</td><td>Capital ratios</td><td>I2.4</td></tr>
+<tr><td>3,1</td><td>I 03.01</td><td>Fixed overheads requirements calculation</td><td>I3.1</td></tr>
+<tr><td>  </td><td>  </td><td>SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS</td><td>  </td></tr>
+<tr><td>5</td><td>I 05.00</td><td>Level of activity - Thresholds review</td><td>I5.0</td></tr>
+<tr><td>  </td><td>  </td><td>LIQUIDITY REQUIREMENTS</td><td>  </td></tr>
+<tr><td>9,1</td><td>I 09.01</td><td>Liquidity requirements</td><td>I9.1</td></tr>
+</tbody>
+</table>
+
+**I 01.01 - OWN FUNDS COMPOSITION (I1.1)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>OWN FUNDS</td><td>  </td></tr>
+<tr><td>0020</td><td>TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0030</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0040</td><td>Fully paid up capital instruments</td><td>  </td></tr>
+<tr><td>0050</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0060</td><td>Retained earnings</td><td>  </td></tr>
+<tr><td>0070</td><td>Previous years retained earnings</td><td>  </td></tr>
+<tr><td>0080</td><td>Profit eligible</td><td>  </td></tr>
+<tr><td>0090</td><td>Accumulated other comprehensive income</td><td>  </td></tr>
+<tr><td>0100</td><td>Other reserves</td><td>  </td></tr>
+<tr><td>0110</td><td>Minority interest given recognition in CET1 capital</td><td>  </td></tr>
+<tr><td>0120</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td></tr>
+<tr><td>0130</td><td>Other funds</td><td>  </td></tr>
+<tr><td>0140</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td></tr>
+<tr><td>0190</td><td>(-) Losses for the current financial year</td><td>  </td></tr>
+<tr><td>0200</td><td>(-) Goodwill</td><td>  </td></tr>
+<tr><td>0210</td><td>(-) Other intangible assets</td><td>  </td></tr>
+<tr><td>0220</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td></tr>
+<tr><td>0230</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td></tr>
+<tr><td>0240</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td></tr>
+<tr><td>0285</td><td>(-) Other deductions</td><td>  </td></tr>
+<tr><td>0290</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0300</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0310</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0320</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0330</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td></tr>
+<tr><td>0410</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0420</td><td>TIER 2 CAPITAL</td><td>  </td></tr>
+<tr><td>0430</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0440</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0450</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td></tr>
+<tr><td>0520</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 02.03 - OWN FUNDS REQUIREMENTS (I2.3)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>Own Fund requirement</td><td>  </td></tr>
+<tr><td>0020</td><td>Permanent minimum capital requirement</td><td>  </td></tr>
+<tr><td>0030</td><td>Fixed overhead requirement</td><td>  </td></tr>
+<tr><td>  </td><td>Transitional own funds requirements</td><td>  </td></tr>
+<tr><td>0050</td><td>Transitional requirement based on CRR own funds requirements</td><td>  </td></tr>
+<tr><td>0060</td><td>Transitional requirement based on fixed overhead requirements</td><td>  </td></tr>
+<tr><td>0070</td><td>Transitional requirement for investment firms previously subject only to an initial capital requirement</td><td>  </td></tr>
+<tr><td>0080</td><td>Transitional requirement based on initial capital requirement at authorisation</td><td>  </td></tr>
+<tr><td>0090</td><td>Transitional requirement for investment firms that are not authorised to provide certain services</td><td>  </td></tr>
+<tr><td>  </td><td>Memorandum items</td><td>  </td></tr>
+<tr><td>0110</td><td>Additional own funds requirement</td><td>  </td></tr>
+<tr><td>0120</td><td>Total own funds requirement</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 02.04 - CAPITAL RATIOS (I2.4)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | CET 1 Ratio |  |
+| 0020 | Surplus(+)/Deficit(-) of CET 1 Capital |  |
+| 0030 | Tier 1 Ratio |  |
+| 0040 | Surplus(+)/Deficit(-) of Tier 1 Capital |  |
+| 0050 | Own Funds Ratio |  |
+| 0060 | Surplus(+)/Deficit(-) of Total capital |  |
+
+**I 03.01 - FIXED OVERHEADS REQUIREMENT CALCULATION (I3.1)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | Fixed Overhead Requirement |  |
+| 0020 | Annual Fixed Overheads of the previous year after distribution of profits |  |
+| 0030 | Total expenses of the previous year after distribution of profits |  |
+| 0040 | Of which: Fixed expenses incurred on behalf of the investment firms by third parties |  |
+| 0050 | (-)Total deductions |  |
+| 0060 | (-)Staff bonuses and other remuneration |  |
+| 0070 | (-)Employees', directors' and partners' shares in net profits |  |
+| 0080 | (-)Other discretionary payments of profits and variable remuneration |  |
+| 0090 | (-)Shared commission and fees payable |  |
+| 0100 | (-)Fees, brokerage and other charges paid to CCPs that are charged to customers |  |
+| 0110 | (-)Fees to tied agents |  |
+| 0130 | (-)Non-recurring expenses from non-ordinary activities |  |
+| 0140 | (-)Expenditures from taxes |  |
+| 0150 | (-)Losses from trading on own account in financial instruments |  |
+| 0160 | (-)Contract based profit and loss transfer agreements |  |
+| 0170 | (-)Expenditure on raw materials |  |
+| 0180 | (-)Payments into a fund for general banking risk |  |
+| 0190 | (-)Expenses related to items that have already been deducted from own funds |  |
+| 0200 | Projected fixed overheads of the current year |  |
+| 0210 | Variation of fixed overheads (%) |  |
+
+**I 05.00 - LEVEL OF ACTIVITY - THRESHOLDS REVIEW (I5)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | (Combined) assets under management |  |
+| 0020 | (Combined) client orders handled - Cash trades |  |
+| 0030 | (Combined) client orders handled - Derivatives |  |
+| 0040 | Assets safeguarded and administered |  |
+| 0050 | Client money held |  |
+| 0060 | Daily trading flow - cash trades and derivative trades |  |
+| 0070 | Net position risk |  |
+| 0080 | Clearing margin given |  |
+| 0090 | Trading counterparty default |  |
+| 0100 | (Combined) on - and off-balance sheet total |  |
+| 0110 | Combined total annual gross revenue |  |
+| 0120 | Total annual gross revenue |  |
+| 0130 | (-) Intragroup part of the annual gross revenue |  |
+| 0140 | Of which: revenue from reception and transmission of orders |  |
+| 0150 | Of which: revenue from execution of orders |  |
+| 0160 | Of which: revenue from dealing on own account |  |
+| 0170 | Of which: revenue from portfolio management |  |
+| 0180 | Of which: revenue from investment advice |  |
+| 0190 | Of which: revenue from underwriting of financial instruments/placing on a firm commitment basis |  |
+| 0200 | Of which: revenue from placing without a firm commitment basis |  |
+| 0210 | Of which: revenue from operation of an MTF |  |
+| 0220 | Of which: revenue from operation of an OTF |  |
+| 0230 | Of which: revenue from safekeeping and administration of financial instruments |  |
+| 0240 | Of which: revenue from granting credits or loans to investors |  |
+| 0250 | Of which: revenue from advice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to mergers and the purchase of undertakings |  |
+| 0260 | Of which: revenue from foreign exchange services |  |
+| 0270 | Of which: investment research and financial analysis |  |
+| 0280 | Of which: revenue from services related to underwriting |  |
+| 0290 | Of which: investment services and ancillary activities related with the underlying of derivatives |  |
+
+**I 09.01 - LIQUIDITY REQUIREMENTS (I9.1)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | Liquidity Requirement |  |
+| 0020 | Client guarantees |  |
+| 0030 | Total liquid assets |  |
+
+## ANNEX IV — REPORTING FOR SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS
+
+<table>
+<tr><td colspan="2">Table of contents</td></tr>
+<tr><td>PART I:</td><td>GENERAL INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>Structure and conventions</td></tr>
+<tr><td>1.1</td><td>Structure</td></tr>
+<tr><td>1.2</td><td>Numbering convention</td></tr>
+<tr><td>1.3</td><td>Sign convention</td></tr>
+<tr><td>1.4</td><td>Prudential consolidation</td></tr>
+<tr><td>PART II:</td><td>TEMPLATE RELATED INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION</td></tr>
+<tr><td>1.1</td><td>General Remarks</td></tr>
+<tr><td>1.2.</td><td>I 01.01 – OWN FUNDS COMPOSITION (I 1.1)</td></tr>
+<tr><td>1.2.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.3</td><td>I 02.03 – OWN FUND REQUIREMENTS (I 2.3)</td></tr>
+<tr><td>1.3.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.4.</td><td>I 02.04 – CAPITAL RATIOS (I 2.4)</td></tr>
+<tr><td>1.4.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.5.</td><td>I 03.01 – FIXED OVERHEADS REQUIREMENT CALCULATION (I 3.1)</td></tr>
+<tr><td>1.5.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>2.</td><td>SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS</td></tr>
+<tr><td>2.1.</td><td>I 05.00 – LEVEL OF ACTIVITY – THRESHOLD REVIEW (I 5)</td></tr>
+<tr><td>2.1.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.</td><td>LIQUIDITY REQUIREMENTS</td></tr>
+<tr><td>3.1</td><td>I 09.01 – LIQUIDITY REQUIREMENTS (I 9.1)</td></tr>
+<tr><td>3.1.1.</td><td>Instructions concerning specific positions</td></tr>
+</table>
+
+**PART I: GENERAL INSTRUCTIONS**
+
+**1\. Structure and conventions**
+
+**1.1 Structure**
+
+1\. Overall, the framework consists of the following blocks of information:
+
+(a) Own funds;
+
+(b) Own funds requirements calculations;
+
+(c) Fixed overheads requirements calculation;
+
+(d) Level of activity in respect of the conditions set out in Article 12(1) of Regulation (EU) 2019/2033;
+
+(e) Liquidity requirements.
+
+2\. For each template, legal references are provided. Further detailed information regarding more general aspects of the reporting of each block of templates, instructions concerning specific positions as well as validation rules are included in this part of this Regulation.
+
+**1.2 Numbering convention**
+
+3\. The document follows the labelling convention set in points 4 to 7, when referring to the columns, rows and cells of the templates. Those numerical codes are extensively used in the validation rules.
+
+4\. The following general notation is followed in the instructions: {Template; Row; Column}.
+
+5\. In the case of validations inside a template, in which only data points of that template are used, notations do not refer to a template: {Row; Column}.
+
+6\. In the case of templates with only one column, only rows are referred to. {Template; Row}
+
+7\. An asterisk sign is used to express that the validation is done for the rows or columns specified before.
+
+**1.3 Sign convention**
+
+8\. Any amount that increases the own funds or own funds requirements, or the liquidity requirements, shall be reported as a positive figure. On the contrary, any amount that reduces the total own funds or own funds requirements shall be reported as a negative figure. Where there is a negative sign (-) preceding the label of an item no positive figure is expected to be reported of that item.
+
+**1.4 Prudential consolidation**
+
+9\. Unless an exemption has been granted, Regulation (EU) 2019/2033 and Directive (EU) 2019/2034 apply to investment firms on an individual and on a consolidated basis, which includes reporting requirements in Part Seven of Regulation (EU) 2019/2033. Point (11) of Article 4(1) of Regulation (EU) 2019/2033 defines a consolidated situation as the result of applying the requirements of Regulation (EU) 2019/2033 to an investment firm group as if the entities of the group formed together a single investment firm. Following the application of Article 7 of the Regulation (EU) 2019/2033, investment firms groups shall fulfil the reporting requirements in all templates based on their scope of prudential consolidation (which may be different from their accounting consolidation scope).
+
+**PART II: TEMPLATE RELATED INSTRUCTIONS**
+
+**1\. OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION**
+
+**1.1 General Remarks**
+
+10\. Own funds overview section contains information about the own funds that an investment firm holds and its own funds requirements. It consists of two templates:
+
+(a) I 01.01 template contains the compositions of the own funds that an investment firm holds: Common Equity Tier 1 capital (CET1), Additional Tier 1 capital (AT1) and Tier 2 capital (T2).
+
+(b) I 02.03 and I 02.04 templates contain the total own funds requirement, the permanent minimum capital requirement, the fixed overheads requirement, any additional own funds requirement and guidance and the transitional own funds requirement and capital ratios.
+
+(c) I 03.01 includes information with regard to the calculation of the Fixed overheads requirement.
+
+11\. The items in these templates are gross of transitional adjustments. This means that the figures (except where the transitional own funds requirement is specifically stated) are calculated according to the final provisions (i.e. as if there were no transitional provisions).
+
+**1.2. I 01.01 – OWN FUNDS COMPOSITION (I 1.1)**
+
+1.2.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 OWN FUNDS
+
+Article 9(1) Regulation (EU) 2019/2033.
+
+The own funds of an investment firm shall consist of the sum of its Tier 1 capital and Tier 2 capital.
+
+The total sum of rows (0020 and 0380) shall be reported.
+
+0020 TIER 1 CAPITAL
+
+The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital.
+
+0030 COMMON EQUITY TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 50 of Regulation (EU) No 575/2013.
+
+The total sum of rows (0040 to 0060, 0090 to 0140 and 0290) shall be reported.
+
+0040 Fully paid up capital instruments
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 26(1), point (a) and Articles 27 to 31 of Regulation (EU) No 575/2013.
+
+Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 of Regulation (EU) No 575/2013) shall be included.
+
+The share premium related to the instruments shall not be included.
+
+Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled.
+
+0050 Share premium
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 26(1), point (b) of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0060 Retained earnings
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 26(1), point (c) of Regulation (EU) No 575/2013.
+
+Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits.
+
+The total sum of rows 0070 and 0080 shall be reported.
+
+0070 Previous years retained earnings
+
+Article 4(1), point (123) and Article 26(1) point (c) of Regulation (EU) No 575/2013
+
+Article 4(1), point (123) of Regulation (EU) No 575/2013 defines retained earnings as "Profit and losses brought forward as a result of the final application of profit or loss under the applicable accounting framework".
+
+0080 Profit eligible
+
+Article 4(1), point (121), Article 26(2) and Article 36(1), point (a) of Regulation (EU) No 575/2013.
+
+Article 26(2) of Regulation (EU) No 575/2013 allows including as retained earnings interim or year-end profits, with the prior consent of the competent authorities, if some conditions are met.
+
+0090 Accumulated other comprehensive income
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 26(1), point (d) of Regulation (EU) No 575/2013.
+
+0100 Other reserves
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (117) and Article 26(1) point (e) of Regulation (EU) No 575/2013.
+
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation.
+
+0110 Minority interest given recognition in CET1 capital
+
+Articles 84(1), 85(1) and 87(1) of Regulation (EU) No 575/2013.
+
+Sum of all the amounts of minority interests of subsidiaries that is included in consolidated CET1.
+
+0120 Adjustments to CET1 due to prudential filters
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Articles 32 to 35 of Regulation (EU) No 575/2013.
+
+0130 Other funds
+
+Article 9(4) of Regulation (EU) 2019/2033.
+
+0140 (-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1
+
+The total sum of rows 0190 to 0285 shall be reported.
+
+0190 (-) Losses for the current financial year
+
+Article 36(1), point (a) of Regulation (EU) No 575/2013.
+
+0200 (-) Goodwill
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (113), Article 36(1), point (b) and Article 37 of Regulation (EU) No 575/2013.
+
+0210 (-) Other intangible assets
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (115), Article 36(1), point (b) and Article 37 point (a) of Regulation (EU) No 575/2013.
+
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also according to the applicable accounting standard.
+
+0220 (-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities
+
+Article 9(2), point (a) of Regulation (EU) 2019/2033.
+
+Article 36(1), point (c) of Regulation (EU) No 575/2013.
+
+0230 (-) Qualifying holding outside the financial sector which exceeds 15 % of own funds
+
+Article 10(1), point (a) of Regulation (EU) 2019/2033.
+
+0240 (-)Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds
+
+Article 10(1), point (b) of Regulation (EU) 2019/2033.
+
+0285 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 36(1) of Regulation (EU) No 575/2013 that are not included in any of the rows 0160 to 0240 above
+
+0290 CET1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013)
+
+— Transitional adjustments due to additional minority interests (Articles 479 and 480 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions.
+
+— Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 0040 to 0285.
+
+This row shall not be used to include capital items or deductions which are not covered by the Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios.
+
+0300 ADDITIONAL TIER 1 CAPITAL
+
+Article 9(1) Regulation (EU) 2019/2033.
+
+Article 61 Regulation (EU) No 575/2013.
+
+The total sum of rows 0310 to 0410 shall be reported.
+
+0310 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 51, point (a) and Articles 52, 53 and 54 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments.
+
+0320 Share premium
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 51, point (b) of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Fully paid up, directly issued capital instruments".
+
+0330 (-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1
+
+Article 56 of Regulation (EU) No 575/2013.
+
+0410 Additional Tier 1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered AT1 Capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013)
+
+— Instruments issued by subsidiaries that are given recognition in AT1 Capital (Articles 83, 85 and 86 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying T1 capital of subsidiaries that is included in consolidated AT1, also including capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013)
+
+— Transitional adjustments due to additional recognition in AT1 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013): adjustments to the qualifying T1 capital included in consolidated AT1 capital due to transitional provisions
+
+— Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions
+
+— Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with point (j) of Article 36(1) of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0300 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 Capital included, among other deductions, in row 0285.
+
+— Other AT1 capital elements or deductions from an AT1 element that cannot be assigned to one of the rows 0310 to 0330.
+
+This row shall not be used to include capital items or deductions which are not covered by the Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios
+
+0420 TIER 2 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 71 of Regulation (EU) No 575/2013.
+
+The total sum of rows 0430 to 0520 shall be reported.
+
+0430 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 62, point (a), Articles 63 and 65 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments.
+
+0440 Share premium
+
+Article 9(1), point (i) of Regulation (EU) 2019/2033.
+
+Article 62, point (b) and Article 65 of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Fully paid up, directly issued capital instruments".
+
+0450 (-) TOTAL DEDUCTIONS FROM TIER 2
+
+Article 66 of Regulation (EU) No 575/2013.
+
+0520 Tier 2: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered T2 Capital instruments (Article 483, paragraphs 6 and 7 of, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013)
+
+— Instruments issued by subsidiaries that are given recognition in T2 Capital (Articles 83, 87 and 88 Regulation (EU) No 575/2013): Sum of all the amounts of qualifying own funds of subsidiaries that is included in consolidated T2, also including qualifying Tier 2 capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013)
+
+— Transitional adjustments due to additional recognition in T2 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013): Adjustments to the qualifying own funds included in consolidated T2 capital due to transitional provisions.
+
+— Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions
+
+— Excess of deduction from T2 items over T2 Capital, deducted from AT1 in accordance with Article 56, point (e) of Regulation (EU) No 575/2013: Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0420 to zero.
+
+— Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 0430 to 0450.
+
+This row shall not be used to include capital items or deductions which are not covered by the Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios.
+
+**1.3 I 02.03 – OWN FUND REQUIREMENTS (I 2.3)**
+
+1.3.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Own fund requirement
+
+Article 11(1) and (2) of Regulation (EU) 2019/2033.
+
+This item shall be maximum of rows 0020 and 0030.
+
+0020 Permanent minimum capital requirement
+
+Article 14 of Regulation (EU) 2019/2033.
+
+0030 Fixed overhead requirement
+
+Article 13 of Regulation (EU) 2019/2033.
+
+0050 – 0090 Transitional own funds requirements
+
+0050 Transitional requirement based on Regulation (EU) No 575/2013 own funds requirements
+
+Article 57(3), point (a) of Regulation (EU) 2019/2033.
+
+0060 Transitional requirement based on fixed overhead requirements
+
+Article 57(3), point (b) of Regulation (EU) 2019/2033.
+
+0070 Transitional requirement for investment firms previously subject only to an initial capital requirement
+
+Article 57(4), point (a) of Regulation (EU) 2019/2033
+
+0080 Transitional requirement based on initial capital requirement at authorisation
+
+Article 57(4), point (b) of Regulation (EU) 2019/2033.
+
+0090 Transitional requirement for investment firms that are not authorised to provide certain services
+
+Article 57(4), point (c) of Regulation (EU) 2019/2033.
+
+0110 – 0130 Memorandum items
+
+0110 Additional own funds requirement
+
+Article 40 of Directive (EU) 2019/2034.
+
+Additional own funds required following the SREP.
+
+0120 Total own funds requirement
+
+The total own funds requirement of an investment firm shall consist of the sum of its own funds requirements applicable at the reference date, the additional own funds requirement as reported in row 0110 and the additional own funds guidance as reported in row 0120.
+
+**1.4. I 02.04 – CAPITAL RATIOS (I 2.4)**
+
+1.4.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 CET 1 Ratio
+
+Article 9(1), point (a) and Article 11(1) and (2) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0020 Surplus(+)/Deficit(-) of CET 1 Capital
+
+This item shows the surplus or deficit of CET1 Capital relating to the requirement set in Article 9(1) Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) Regulation (EU) 2019/2033 shall not be considered for this item.
+
+0030 Tier 1 Ratio
+
+Article 9(1), point (b) and Article 11(1) and (2) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0040 Surplus(+)/Deficit(-) of Tier 1 Capital
+
+This item shows the surplus or deficit of Tier 1 Capital relating to the requirement set in Article 9(1) of Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) of Regulation (EU) 2019/2033 shall not be considered for this item.
+
+0050 Own Funds Ratio
+
+Article 9(1), point (c), Article 11(1) and (2) of Regulation (EU) 2019/2033.
+
+This item is expressed as a percentage.
+
+0060 Surplus(+)/Deficit(-) of Total capital
+
+This item shows the surplus or deficit of own funds relating to the requirement set in Article 9(1) of Regulation (EU) 2019/2033.
+
+The transitional provisions of Article 57(3) and (4) of Regulation (EU) 2019/2033 shall not be considered for this item.
+
+**1.5. I 03.01 – FIXED OVERHEADS REQUIREMENT CALCULATION (I 3.1)**
+
+1.5.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Fixed Overhead Requirement
+
+Article 13(1) of Regulation (EU) 2019/2033.
+
+The amount reported shall be at least 25 % of the annual fixed overheads of the previous year (row 0020).
+
+In the cases where there is a material change as mentioned in Article 13(2) of Regulation (EU) 2019/2033, the amount reported shall be the fixed overheads requirement imposed by the competent authority in accordance with that Article.
+
+In the cases specified in Article 13(3) of Regulation (EU) 2019/2033, the amount to be reported shall be the projected fixed overheads of the current year (row 0200).
+
+0020 Annual fixed overheads of the previous year after distribution of profits
+
+Article 13(1) Regulation (EU) 2019/2033.
+
+Investment firms shall report the fixed overheads of the previous year after the distribution of profits.
+
+0030 Total expenses of the previous year after distribution of profits
+
+Article 13(1) of Regulation (EU) 2019/2033.
+
+The amount to be reported shall be after the distribution of profits.
+
+0040 Of which: Fixed expenses incurred on behalf of the investment firms by third parties
+
+Article 13 of Regulation (EU) 2019/2033.
+
+0050 (-) Total deductions
+
+In addition to the items for deduction referred to in Article 13, point (4) of Regulation (EU) 2019/2033 the following items shall also be deducted from the total expenses, where they are included under total expenses in accordance with the relevant accounting framework:
+
+(a) fees, brokerage and other charges paid to central counterparties, exchanges and other trading venues and intermediate brokers for the purposes of executing, registering or clearing transactions, only where they are directly passed on and charged to customers. These shall not include fees and other charges necessary to maintain membership or otherwise meet loss-sharing financial obligations to central counterparties, exchanges and other trading venues;
+
+(b) interest paid to customers on client money, where there is no obligation of any kind to pay such interest;
+
+(c) expenditures from taxes where they fall due in relation to the annual profits of the investment firm;
+
+(d) losses from trading on own account in financial instruments;
+
+(e) payments related to contract-based profit and loss transfer agreements according to which the investment firm is obliged to transfer, following the preparation of its annual financial statements, its annual result to the parent undertaking;
+
+(f) payments into a fund for general banking risk in accordance with Article 26(1)(f) of Regulation (EU) No 575/2013;
+
+(g) expenses related to items that have already been deducted from own funds in accordance with Article 36(1) Regulation (EU) No 575/2013.
+
+0060 (-) Staff bonuses and other remuneration
+
+Article 13(4), point (a) of Regulation (EU) 2019/2033.
+
+Staff bonuses and other remuneration shall be considered to depend on the net profit of the investment firm in the respective year where both of the following conditions are met:
+
+(h) the staff bonuses or other remuneration to be deducted have already been paid to employees in the year preceding the year of payment, or the payment of the staff bonuses or other remuneration to employees will have no impact on the firm’s capital position in the year of payment;
+
+(i) with respect to the current year and future years, the firm is not obliged to award or allocate further bonuses or other payments in the form of remuneration unless it makes a net profit in that year.
+
+0070 (-) Employees’, directors’ and partners’ shares in net profits
+
+Article 13(4), point (b) of Regulation (EU) 2019/2033.
+
+Employees’, directors’ and partners’ shares in profits shall be calculated on the basis of the net profits.
+
+0080 (-) Other discretionary payments of profits and variable remuneration
+
+Article 13(4), point (c) of Regulation (EU) 2019/2033.
+
+0090 (-) Shared commission and fees payable
+
+Article 13(4), point (d) of Regulation (EU) 2019/2033.
+
+0100 (-) Fees, brokerage and other charges paid to CCPs that are charged to customers
+
+Fees, brokerage and other charges paid to central counterparties, exchanges and other trading venues and intermediate brokers for the purposes of executing, registering or clearing transactions, only where they are directly passed on and charged to customers. These shall not include fees and other charges necessary to maintain membership or otherwise meet loss-sharing financial obligations to central counterparties, exchanges and other trading venues.
+
+0110 (-) Fees to tied agents
+
+Article 13(4), point (e) of Regulation (EU) 2019/2033.
+
+0130 (-) Non-recurring expenses from non-ordinary activities
+
+Article 13(4), point (f) of Regulation (EU) 2019/2033.
+
+0140 (-) Expenditures from taxes
+
+Expenditures from taxes where they fall due in relation to the annual profits of the investment firm.
+
+0150 (-) Losses from trading on own account in financial instruments
+
+Self-explanatory.
+
+0160 (-) Contract based profit and loss transfer agreements
+
+Payments related to contract-based profit and loss transfer agreements according to which the investment firm is obliged to transfer, following the preparation of its annual financial statements, its annual result to the parent undertaking.
+
+0170 (-) Expenditure on raw materials
+
+Commodity and emission allowance dealers may deduct expenditure on raw materials in connection with an investment firm trading in derivatives of the underlying commodity.
+
+0180 (-)Payments into a fund for general banking risk
+
+Payments into a fund for general banking risk in accordance with Article 26(1)(f) of Regulation (EU) No 575/2013.
+
+0190 (-)Expenses related to items that have already been deducted from own funds
+
+Expenses related to items that have already been deducted from own funds in accordance with Article 36(1) of Regulation (EU) No 575/2013.
+
+0200 Projected fixed overheads of the current year
+
+The projection of the fixed overheads for the current year after the distribution of profits.
+
+0210 Variation of fixed overheads (%)
+
+The amount shall be reported as the absolute value of:
+
+[(Annual fixed overheads of the current year) – (Projected fixed overheads of the previous year)/(Annual fixed overheads of the previous year)]
+
+**2\. SMALL AND NON-INTERCONNECTED INVESTMENT FIRMS**
+
+**2.1. I 05.00 – LEVEL OF ACTIVITY – THRESHOLD REVIEW (I 5)**
+
+2.1.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 (Combined) assets under management
+
+Article 12(1), point (a) of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+Investment firms shall include discretionary and non-discretionary assets under management.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0020 (Combined) client orders handled – Cash trades
+
+Article 12(1), point (b) (i) of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0030 (Combined) client orders handled – Derivatives
+
+Article 12(1), point (b) (i) of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant Article 12(2) Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0040 Assets safeguarded and administered
+
+Article 12(1), point (c) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0050 Client money held
+
+Article 12(1), point (d) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0060 Daily trading flow – cash trades and derivative trades
+
+Article 12(1), point (e) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0070 Net position risk
+
+Article 12(1), point (f) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0080 Clearing margin given
+
+Article 12(1), point (f) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0090 Trading counterparty default
+
+Article 12(1), point (g) of Regulation (EU) 2019/2033.
+
+The amount reported shall be the amount that would be used for calculation of K-factors before application of relevant coefficients.
+
+0100 (Combined) on – and off-balance sheet total
+
+Article 12(1), point (h) of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+0110 Combined total annual gross revenue
+
+Article 12(1), point (i) of Regulation (EU) 2019/2033.
+
+Where the reporting investment firm is part of a group, the value reported shall be determined on a combined basis for all investment firms that are part of a group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+The value reported shall be (row 0120 + row 0130).
+
+0120 Total annual gross revenue
+
+The value of total annual gross revenue excluding the gross revenues generated within the group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+0130 (-) Intragroup part of the annual gross revenue
+
+The value of the gross revenues generated within the investment firm group pursuant Article 12(2) of Regulation (EU) 2019/2033.
+
+0140 Of which:revenue from reception and transmission of orders
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0150 Of which:revenue from execution of orders on behalf of clients
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0160 Of which:revenue from dealing on own account
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0170 Of which:revenue from portfolio management
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0180 Of which: revenue from investment advice
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0190 Of which: revenue from underwriting of financial instruments/placing on a firm commitment basis
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0200 Of which: revenue from placing without a firm commitment basis
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0210 Of which: revenue from operation of an MTF
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0220 Of which: revenue from operation of an OTF
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (2) of Directive 2014/65/EU.
+
+0230 Of which: revenue from safekeeping and administration of financial instruments
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0240 Of which: revenue from granting credits or loans to investors
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0250 Of which: revenue from advice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to mergers and the purchase of undertakings
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0260 Of which: revenue from foreign exchange services
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0270 Of which: investment research and financial analysis
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0280 Of which: revenue from services related to underwriting
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+0290 Of which: investment services and ancillary activities related with the underlying of derivatives
+
+Article 54(1), point (d) of Regulation (EU) 2019/2033.
+
+Article 4(1), point (3) of Directive 2014/65/EU.
+
+**3\. LIQUIDITY REQUIREMENTS**
+
+**3.1 I 09.01 – LIQUIDITY REQUIREMENTS (I 9.1)**
+
+3.1.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 Liquidity Requirement
+
+Article 43(1) of Regulation (EU) 2019/2033.
+
+0020 Client guarantees
+
+Article 45 of Regulation (EU) 2019/2033.
+
+The value reported shall be the 1,6 % of the total amount of guarantees provided to the clients pursuant Article 45 of Regulation (EU) 2019/2033.
+
+0030 Total liquid assets
+
+Point (a) of Article 43(1) and Article 43(2) of Regulation (EU) 2019/2033.
+
+Total liquid assets shall be reported after application of relevant haircuts.
+
+## ANNEX V
+
+**Part I: Single Data Point Model**
+
+All data items set out in the Annexes to this Regulation shall be transformed into a single data point model, which is the basis for uniform IT systems of institutions and competent authorities.
+
+The single data point model shall meet the following criteria:
+
+(a) it provides a structured representation of all data items set out in Annex I, III and VIII;
+
+(b) it identifies all the business concepts set out in Annexes I to IV and VIII to IX;
+
+(c) it provides a data dictionary identifying table labels, ordinate labels, axis labels, domain labels, dimension labels and member labels;
+
+(d) it provides metrics, which define the property or amount of data points;
+
+(e) it provides data point definitions that are expressed as a composition of characteristics that univocally identify the concept;
+
+(f) it contains all the relevant technical specifications necessary for developing IT reporting solutions producing uniform supervisory data.
+
+**Part II: Validation rules**
+
+The data items set out in the Annexes to this Regulation shall be subject to validation rules ensuring data quality and consistency.
+
+The validation rules shall meet the following criteria:
+
+(a) they define the logical relationships between relevant data points;
+
+(b) they include filters and preconditions that define a set of data to which a validation rule applies;
+
+(c) they check the consistency of the reported data;
+
+(d) they check the accuracy of the reported data;
+
+(e) they set default values, which shall be applied where the relevant information has not been reported.
+
+## ANNEX VI — DISCLOSURE ON OWN FUNDS TEMPLATES
+
+<table>
+<tbody><tr><td colspan="4">INVESTMENT FIRMS DISCLOSURE</td></tr>
+<tr><td>Template number</td><td>Template code</td><td>Name</td><td>Legislative reference</td></tr>
+<tr><td>  </td><td>  </td><td>OWN FUNDS</td><td>  </td></tr>
+<tr><td>1</td><td>I CC1</td><td>COMPOSITION OF REGULATORY OWN FUNDS</td><td>Art 49(1)(c)</td></tr>
+<tr><td>2</td><td>I CC2</td><td>OWN FUNDS RECONCILIATION WITH AUDITED FINANCIAL STATEMENTS</td><td>Art 49(1)(a)</td></tr>
+<tr><td>3</td><td>I CCA</td><td>OWN FUNDS MAIN FEATURES</td><td>Art 49(1)(b)</td></tr>
+</tbody>
+</table>
+
+**Template EU IF CC1.01 - Composition of regulatory own funds (Iinvestment firms other than small and non-interconnected )**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td></tr>
+<tr><td>  </td><td>  </td><td>Amounts</td><td>Source based on reference numbers/letters of the balance sheet in the audited financial statements</td></tr>
+<tr><td colspan="4">Common Equity Tier 1 (CET1) capital: instruments and reserves</td></tr>
+<tr><td>1</td><td>OWN FUNDS</td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>Fully paid up capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>5</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>6</td><td>Retained earnings</td><td>  </td><td>  </td></tr>
+<tr><td>7</td><td>Accumulated other comprehensive income</td><td>  </td><td>  </td></tr>
+<tr><td>8</td><td>Other reserves</td><td>  </td><td>  </td></tr>
+<tr><td>9</td><td>Minority interest given recognition in CET1 capital</td><td>  </td><td>  </td></tr>
+<tr><td>10</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td><td>  </td></tr>
+<tr><td>11</td><td>Other funds</td><td>  </td><td>  </td></tr>
+<tr><td>12</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>13</td><td>(-) Own CET1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>14</td><td>(-) Direct holdings of CET1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>15</td><td>(-) Indirect holdings of CET1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>16</td><td>(-) Synthetic holdings of CET1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>17</td><td>(-) Losses for the current financial year</td><td>  </td><td>  </td></tr>
+<tr><td>18</td><td>(-) Goodwill</td><td>  </td><td>  </td></tr>
+<tr><td>19</td><td>(-) Other intangible assets</td><td>  </td><td>  </td></tr>
+<tr><td>20</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td><td>  </td></tr>
+<tr><td>21</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td><td>  </td></tr>
+<tr><td>22</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td><td>  </td></tr>
+<tr><td>23</td><td>(-) CET1 instruments of financial sector entites where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>24</td><td>(-) CET1 instruments of financial sector entities where the institution has a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>25</td><td>(-)Defined benefit pension fund assets</td><td>  </td><td>  </td></tr>
+<tr><td>26</td><td>(-) Other deductions</td><td>  </td><td>  </td></tr>
+<tr><td>27</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>28</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>29</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>30</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>31</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>32</td><td>(-) Own AT1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>33</td><td>(-) Direct holdings of AT1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>34</td><td>(-) Indirect holdings of AT1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>35</td><td>(-) Synthetic holdings of AT1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>36</td><td>(-) AT1 instruments of financial sector entities where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>37</td><td>(-) AT1 instruments of financial sector entities where the institution has a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>38</td><td>(-) Other deductions</td><td>  </td><td>  </td></tr>
+<tr><td>39</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>40</td><td>TIER 2 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>41</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>42</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>43</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td><td>  </td></tr>
+<tr><td>44</td><td>(-) Own T2 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>45</td><td>(-) Direct holdings of T2 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>46</td><td>(-) Indirect holdings of T2 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>47</td><td>(-) Synthetic holdings of T2 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>48</td><td>(-) T2 instruments of financial sector entities where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>49</td><td>(-) T2 instruments of financial sector entities where the institution has a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>50</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Template EU IF CC1.02 - Composition of regulatory own funds (Small and non-interconnected investment firms)**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td></tr>
+<tr><td>  </td><td>  </td><td>Amounts</td><td>Source based on reference numbers/letters of the balance sheet in the audited financial statements</td></tr>
+<tr><td colspan="4">Common Equity Tier 1 (CET1) capital: instruments and reserves</td></tr>
+<tr><td>1</td><td>OWN FUNDS</td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>Fully paid up capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>5</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>6</td><td>Retained earnings</td><td>  </td><td>  </td></tr>
+<tr><td>7</td><td>Accumulated other comprehensive income</td><td>  </td><td>  </td></tr>
+<tr><td>8</td><td>Other reserves</td><td>  </td><td>  </td></tr>
+<tr><td>9</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td><td>  </td></tr>
+<tr><td>10</td><td>Other funds</td><td>  </td><td>  </td></tr>
+<tr><td>11</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>12</td><td>(-) Losses for the current financial year</td><td>  </td><td>  </td></tr>
+<tr><td>13</td><td>(-) Goodwill</td><td>  </td><td>  </td></tr>
+<tr><td>14</td><td>(-) Other intangible assets</td><td>  </td><td>  </td></tr>
+<tr><td>15</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td><td>  </td></tr>
+<tr><td>16</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td><td>  </td></tr>
+<tr><td>17</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td><td>  </td></tr>
+<tr><td>18</td><td>(-) Other deductions</td><td>  </td><td>  </td></tr>
+<tr><td>19</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>20</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>21</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>22</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>23</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>24</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>25</td><td>TIER 2 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>26</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>27</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>28</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td><td>  </td></tr>
+<tr><td>29</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Template EU IF CC1.03 - Composition of regulatory own funds (Group capital test)**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td></tr>
+<tr><td>  </td><td>  </td><td>Amounts</td><td>Source based on reference numbers/letters of the balance sheet in the audited financial statements</td></tr>
+<tr><td colspan="4">Common Equity Tier 1 (CET1) capital: instruments and reserves</td></tr>
+<tr><td>1</td><td>OWN FUNDS</td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>Fully paid up capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>5</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>6</td><td>Retained earnings</td><td>  </td><td>  </td></tr>
+<tr><td>7</td><td>Previous years retained earnings</td><td>  </td><td>  </td></tr>
+<tr><td>8</td><td>Profit or loss eligible</td><td>  </td><td>  </td></tr>
+<tr><td>9</td><td>Accumulated other comprehensive income</td><td>  </td><td>  </td></tr>
+<tr><td>10</td><td>Other reserves</td><td>  </td><td>  </td></tr>
+<tr><td>11</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td><td>  </td></tr>
+<tr><td>12</td><td>Other funds</td><td>  </td><td>  </td></tr>
+<tr><td>13</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>14</td><td>(-) Own CET1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>15</td><td>(-) Losses for the current financial year</td><td>  </td><td>  </td></tr>
+<tr><td>16</td><td>(-) Goodwill</td><td>  </td><td>  </td></tr>
+<tr><td>17</td><td>(-) Other intangible assets</td><td>  </td><td>  </td></tr>
+<tr><td>18</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td><td>  </td></tr>
+<tr><td>19</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td><td>  </td></tr>
+<tr><td>20</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td><td>  </td></tr>
+<tr><td>21</td><td>(-) CET1 instruments of financial sector entites where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>22</td><td>(-) Defined benefit pension fund assets</td><td>  </td><td>  </td></tr>
+<tr><td>23</td><td>(-) Other deductions</td><td>  </td><td>  </td></tr>
+<tr><td>24</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>25</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>26</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>27</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>28</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td><td>  </td></tr>
+<tr><td>29</td><td>(-) Own AT1 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>30</td><td>(-) AT1 instruments of financial sector entities where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>31</td><td>(-) Other deductions</td><td>  </td><td>  </td></tr>
+<tr><td>32</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>33</td><td>TIER 2 CAPITAL</td><td>  </td><td>  </td></tr>
+<tr><td>34</td><td>Fully paid up, directly issued capital instruments</td><td>  </td><td>  </td></tr>
+<tr><td>35</td><td>Share premium</td><td>  </td><td>  </td></tr>
+<tr><td>36</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td><td>  </td></tr>
+<tr><td>37</td><td>(-) Own T2 instruments</td><td>  </td><td>  </td></tr>
+<tr><td>38</td><td>(-) T2 instruments of financial sector entities where the institution does not have a significant investment</td><td>  </td><td>  </td></tr>
+<tr><td>39</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Template EU ICC2: Own funds: reconciliation of regulatory own funds to balance sheet in the audited financial statements**
+
+Flexible template.
+
+Rows have to be reported in line with the balance sheet included in the audited financial statements of the investment firm.
+
+Columns shall be kept fixed, unless the investment firm has the same accounting and regulatory scope of consolidation, in which case the volumes have to be entered in column (a) only.
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>a</td><td>b</td><td>c</td></tr>
+<tr><td>  </td><td>  </td><td>Balance sheet as in published/audited financial statements</td><td>Under regulatory scope of consolidation</td><td>Cross reference to EU IF CC1</td></tr>
+<tr><td>  </td><td>  </td><td>As at period end</td><td>As at period end</td><td>  </td></tr>
+<tr><td colspan="5">Assets -Breakdown by asset classes according to the balance sheet in the published/audited financial statements</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>xxx</td><td>Total Assets</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">Liabilities- Breakdown by liability classes according to the balance sheet in the published/auditied financial statements</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>xxx</td><td>Total Liabilities</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">Shareholders' Equity</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>xxx</td><td>Total Shareholders' equity</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Template EU I CCA: Own funds: main features of own instruments issued by the firm**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>a</td></tr>
+<tr><td>  </td><td>  </td><td>Free text</td></tr>
+<tr><td>1</td><td>Issuer</td><td>  </td></tr>
+<tr><td>2</td><td>Unique identifier (e.g. CUSIP, ISIN or Bloomberg identifier for private placement)</td><td>  </td></tr>
+<tr><td>3</td><td>Public or private placement</td><td>  </td></tr>
+<tr><td>4</td><td>Governing law(s) of the instrument</td><td>  </td></tr>
+<tr><td>5</td><td>Instrument type (types to be specified by each jurisdiction)</td><td>  </td></tr>
+<tr><td>6</td><td>Amount recognised in regulatory capital (Currency in million, as of most recent reporting date)</td><td>  </td></tr>
+<tr><td>7</td><td>Nominal amount of instrument</td><td>  </td></tr>
+<tr><td>8</td><td>Issue price</td><td>  </td></tr>
+<tr><td>9</td><td>Redemption price</td><td>  </td></tr>
+<tr><td>10</td><td>Accounting classification</td><td>  </td></tr>
+<tr><td>11</td><td>Original date of issuance</td><td>  </td></tr>
+<tr><td>12</td><td>Perpetual or dated</td><td>  </td></tr>
+<tr><td>13</td><td>Original maturity date</td><td>  </td></tr>
+<tr><td>14</td><td>Issuer call subject to prior supervisory approval</td><td>  </td></tr>
+<tr><td>15</td><td>Optional call date, contingent call dates and redemption amount</td><td>  </td></tr>
+<tr><td>16</td><td>Subsequent call dates, if applicable</td><td>  </td></tr>
+<tr><td>  </td><td>Coupons / dividends</td><td>  </td></tr>
+<tr><td>17</td><td>Fixed or floating dividend/coupon</td><td>  </td></tr>
+<tr><td>18</td><td>Coupon rate and any related index</td><td>  </td></tr>
+<tr><td>19</td><td>Existence of a dividend stopper</td><td>  </td></tr>
+<tr><td>20</td><td>Fully discretionary, partially discretionary or mandatory (in terms of timing)</td><td>  </td></tr>
+<tr><td>21</td><td>Fully discretionary, partially discretionary or mandatory (in terms of amount)</td><td>  </td></tr>
+<tr><td>22</td><td>Existence of step up or other incentive to redeem</td><td>  </td></tr>
+<tr><td>23</td><td>Noncumulative or cumulative</td><td>  </td></tr>
+<tr><td>24</td><td>Convertible or non-convertible</td><td>  </td></tr>
+<tr><td>25</td><td>If convertible, conversion trigger(s)</td><td>  </td></tr>
+<tr><td>26</td><td>If convertible, fully or partially</td><td>  </td></tr>
+<tr><td>27</td><td>If convertible, conversion rate</td><td>  </td></tr>
+<tr><td>28</td><td>If convertible, mandatory or optional conversion</td><td>  </td></tr>
+<tr><td>29</td><td>If convertible, specify instrument type convertible into</td><td>  </td></tr>
+<tr><td>30</td><td>If convertible, specify issuer of instrument it converts into</td><td>  </td></tr>
+<tr><td>31</td><td>Write-down features</td><td>  </td></tr>
+<tr><td>32</td><td>If write-down, write-down trigger(s)</td><td>  </td></tr>
+<tr><td>33</td><td>If write-down, full or partial</td><td>  </td></tr>
+<tr><td>34</td><td>If write-down, permanent or temporary</td><td>  </td></tr>
+<tr><td>35</td><td>If temporary write-down, description of write-up mechanism</td><td>  </td></tr>
+<tr><td>36</td><td>Non-compliant transitioned features</td><td>  </td></tr>
+<tr><td>37</td><td>If yes, specify non-compliant features</td><td>  </td></tr>
+<tr><td>38</td><td>Link to the full term and conditions of the intrument (signposting)</td><td>  </td></tr>
+<tr><td colspan="3">(1) Insert ‘N/A’ if the question is not applicable</td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — INSTRUCTIONS FOR OWN FUNDS DISCLOSURE TEMPLATES
+
+**Template EU I CC1.01, EU I CC1.02 and EU I CC1.03 – Composition of regulatory own funds**
+
+1\. Investment firms shall apply the instructions provided in this Annex in order to complete template EU I CC1 as presented in Annex VI according to Article 49(1), points (a), and (c), of Regulation (EU) 2019/2033.
+
+2\. Investment firms shall complete column (b) to explain the source of every major input, which is to be cross-referenced to the corresponding rows in Template EU I CC2.
+
+3\. Investment firms shall include in the narrative accompanying the template a description of all restrictions applied to the calculation of own funds in accordance with Article 49(1) point (c), of Regulation (EU) 2019/2033 and the instruments and deductions to which those restrictions apply. They shall also explain the main changes in the amounts disclosed compared with previous disclosure periods.
+
+4\. This template is fixed, and investment firms shall disclose it with exactly the same format provided in Annex VI.
+
+5\. Investment firms other than small and non-interconnected shall disclose the information on composition of own funds in accordance with Template EU I CC1.01 in Annex VI. Small and non-interconnected investment firms with Additional Tier 1 instruments issuances shall disclose the information on composition of own funds in accordance with Template EU I CC1.02 also in Annex VI.
+
+**Template EU I CC1.01 – Composition of regulatory own funds (Investment firms other than small and non-interconnected)**
+
+<table>
+<tbody><tr><td colspan="2">Legal references and instructions</td></tr>
+<tr><td>Row</td><td>Legal references and instructions</td></tr>
+<tr><td>1</td><td>Own funds Article 9(1) of Regulation (EU) 2019/2033.  The own funds of an investment firm shall consist of the sum of its Common equity Tier 1 Capital, Additional Tier 1 Capital and Tier 2 Capital.  This row is the sum of rows 2 and 40. </td></tr>
+<tr><td>2</td><td>Tier 1 capital The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital.  This row is the sum of rows 3 and 28. </td></tr>
+<tr><td>3</td><td>Common Equity Tier 1 capital Article 9(1) of Regulation (EU) 2019/2033.  Article 50 of Regulation (EU) No 575/2013.  The total sum of rows 4 to 12 and 27 shall be disclosed. </td></tr>
+<tr><td>4</td><td>Fully paid up capital instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (a), and Articles 27 to 31 of Regulation (EU) No 575/2013  Capital instruments of mutual, cooperative societies or similar institutions Articles 27 and 29 of Regulation (EU) No 575/2013 shall be included.  The share premium related to the instruments shall not be included.  Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled. </td></tr>
+<tr><td>5</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (b), of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>6</td><td>Retained earnings Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (c), of Regulation (EU) No 575/2013.  Retained earnings shall include the previous year retained earnings plus the eligible interim or year-end profits </td></tr>
+<tr><td>7</td><td>Accumulated other comprehensive income Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (d), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>8</td><td>Other reserves Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (117), and Article 26(1), point (e) of Regulation (EU) No 575/2013.  The amount to be disclosed shall be net of any tax charge foreseeable at the moment of the calculation. </td></tr>
+<tr><td>9</td><td>Minority interest given recognition in CET1 capital Sum of all the amounts of minority interests of subsidiaries included in consolidated CET1. </td></tr>
+<tr><td>10</td><td>Adjustments to CET1 due to prudential filters Article 9(1) point (i), of Regulation (EU) 2019/2033.  Articles 32 to 35 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>11</td><td>Other funds Article 9(4) of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>12</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1 The total sum of row 13 and rows 17 to 26 shall be disclosed. </td></tr>
+<tr><td>13</td><td>(-) Own CET1 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.  Own CET1 held by the reporting institution or group at the reporting date. Subject to exceptions in Article 42 of Regulation (EU) No 575/2013.  Holdings on shares included as "Capital instruments not eligible" shall not be disclosed in this row.  The amount to be disclosed shall include the share premium related to the own shares. </td></tr>
+<tr><td>14</td><td>(-) Direct holdings of CET1 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.  Common Equity Tier 1 instruments held by the investment firm. </td></tr>
+<tr><td>15</td><td>(-) Indirect holdings of CET1 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.  Common Equity Tier 1 instruments held by the investment firm. </td></tr>
+<tr><td>16</td><td>(-) Synthetic holdings of CET1 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), Point (114), Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>17</td><td>(-) Losses for the current financial year Article 36(1) point (a), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>18</td><td>(-) Goodwill Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (113), Article 36(1), point (b), and Article 37 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>19</td><td>(-) Other intangible assets Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (115), Article 36(1), point (b), and Article 37 point (a), of Regulation (EU) No 575/2013.  Other intangible assets shall include intangibles assets under the applicable accounting standard, minus the goodwill, also according to the applicable accounting standard. </td></tr>
+<tr><td>20</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities Article 9(2), point (a), of Regulation (EU) 2019/2033.  Article 36(1), point (c), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>21</td><td>(-) Qualifying holding outside the financial sector which exceeds 15 % of own funds Article 10(1), point (a), of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>22</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds Article 10(1), point (b), of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>23</td><td>(-) CET1 instruments of financial sector entities where the institution does not have a significant investment Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 36(1), point (h), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>24</td><td>(-) CET1 instruments of financial sector entities where the institution has a significant investment Article 9(2), point (d), of Regulation (EU) 2019/2033.  Article 36(1), point (i), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>25</td><td>(-)Defined benefit pension fund assets Article 9(2), point (b), of Regulation (EU) 2019/2033.  Article 36(1), point (e), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>26</td><td>(-) Other deductions The sum of any other deductions listed in Article 36(1) of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>27</td><td>CET1: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional minority interests (Articles 479 and 480 of Regulation (EU) No 575/2013).  — Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions.  — Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 4 to 26.  This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+<tr><td>28</td><td>ADDITIONAL TIER 1 CAPITAL Article 9, point (1), of Regulation (EU) 2019/2033.  Article 61 of Regulation (EU) No 575/2013.  The total sum of rows 29 to 31 and 39 shall be disclosed. </td></tr>
+<tr><td>29</td><td>Fully paid up, directly issued capital instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 51, point (a), of and Articles 52, 53, and 54 of Regulation (EU) No 575/2013.  The amount to be disclosed shall not include the share premium related to the instruments. </td></tr>
+<tr><td>30</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 51, point (b), of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>31</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1 Article 56 of Regulation (EU) No 575/2013.  The total sum of rows 32 and 36 to 38 shall be disclosed. </td></tr>
+<tr><td>32</td><td>(-) Own AT1 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 52(1), point (b), Article 56, point (a), and Article 57 of Regulation (EU) No 575/2013.  Own AT1 instruments held by the investment firm at the reporting date. Subject to exceptions in Article 57 of Regulation (EU) No 575/2013.  The amount to be disclosed shall include the share premium related to the own shares. </td></tr>
+<tr><td>33</td><td>(-) Direct holdings of AT1 instruments Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 56, point (a), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>34</td><td>(-) Indirect holdings of AT1 instruments Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 56, point (a), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>35</td><td>(-) Synthetic holdings of AT1 instruments Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 56, point (a), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>36</td><td>(-) AT1 instruments of financial sector entities where the institution does not have a significant investment Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 56, point (c), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>37</td><td>(-) AT1 instruments of financial sector entities where the institution has a significant investment Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 56, point (d), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>38</td><td>(-) Other deductions The sum of all other deductions in accordance with Article 56 of Regulation (EU) No 575/2013 that are not included in any of the rows above. </td></tr>
+<tr><td>39</td><td>Additional Tier 1: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered AT1 Capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013).  — Instruments issued by subsidiaries that are given recognition in AT1 Capital (Articles 83, 85 and 86 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying T1 capital of subsidiaries that is included in consolidated AT1, also including capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional recognition in AT1 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013) adjustments to the qualifying T1 capital included in consolidated AT1 capital due to transitional provisions.  — Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions.  — Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with Article 36(1), point (j), of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 28 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 Capital included, among other deductions, in row 38.  — Other AT1 capital elements or deductions from AT1 element that cannot be assigned to one of the rows 29 to 38.  This row shall not be used to include capital items or deductions which are not covered by the Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+<tr><td>40</td><td>TIER 2 CAPITAL Article 9(2) of Regulation (EU) 2019/2033.  Article 71 of Regulation (EU) No 575/2013.  The total sum of rows 41 to 43 and 50 shall be disclosed. </td></tr>
+<tr><td>41</td><td>Fully paid up, directly issued capital instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 62, point (a), Articles 63 and 65 of Regulation (EU) No 575/2013.  The amount to be disclosed shall not include the share premium related to the instruments. </td></tr>
+<tr><td>42</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 62, point (b), and Article 65 of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>43</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2 Article 66 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>44</td><td>(-) Own T2 instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 63, point (b)(i), Article 66 point (a), and Article 67 of Regulation (EU) No 575/2013.  Own T2 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 67 of Regulation (EU) No 575/2013.  Holdings on shares included as "Capital instruments not eligible" shall not be disclosed in this row.  The amount to be disclosed shall include the share premium related to the own shares. </td></tr>
+<tr><td>45</td><td>(-) Direct holdings of T2 instruments Article 63, point (b), Article 66 point (a), and Article 67 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>46</td><td>(-) Indirect holdings of T2 instruments Article 4(1), point (114), Article 63 of point (b), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>47</td><td>(-) Synthetic holdings of T2 instruments Article 4(1), point (126), Article 63, point (b), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>48</td><td>(-) T2 instruments of financial sector entities where the institution does not have a significant investment Article 9(2), point (c), of Regulation (EU) 2019/2033.  Article 66, point (c), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>49</td><td>(-) T2 instruments of financial sector entities where the institution has a significant investment Article 4(1), point (27), Article 66, point (d), Articles 68, 69 and Article 79 of Regulation (EU) No 575/2013.  Holdings by the institution of T2 instruments of financial sector entities (as defined in Article 4(1), point (27), of Regulation (EU) No 575/2013) where the investment firm has a significant investment shall be completely deducted. </td></tr>
+<tr><td>50</td><td>Tier 2: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered T2 Capital instruments (Article 483, paragraphs 6 and 7, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013).  — Instruments issued by subsidiaries that are given recognition in T2 Capital (Articles 83, 87 and 88 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying own funds of subsidiaries that is included in consolidated T2, also including qualifying Tier 2 capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional recognition in T2 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013): Adjustments to the qualifying own funds included in consolidated T2 capital due to transitional provisions.  — Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions.  — Excess of deduction from T2 items over T2 Capital, deducted from AT1 in accordance with Article 56 of Regulation (EU) No 575/2013, point (e): Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 40 to zero.  — Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 41 to 49.  This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+</tbody>
+</table>
+
+**Template EU I CC1.02 – Composition of regulatory own funds (Small and non-interconnected investment firms)**
+
+<table>
+<tbody><tr><td colspan="2">Legal references and instructions</td></tr>
+<tr><td>Row</td><td>Legal references and instructions</td></tr>
+<tr><td>1</td><td>Own funds Article 9(1) of Regulation (EU) 2019/2033.  The own funds of an investment firm shall consist of the sum of its Common equity Tier 1 Capital, Additional Tier 1 Capital and Tier 2 Capital.  The total sum of rows 2 and 25 shall be disclosed. </td></tr>
+<tr><td>2</td><td>Tier 1 capital The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital.  The total sum of rows 3 and 20 shall be disclosed. </td></tr>
+<tr><td>3</td><td>Common Equity Tier 1 capital Article 9(1) of Regulation (EU) 2019/2033.  Article 50 of Regulation (EU) No 575/2013.  The total sum of rows 4 to 11 and 19 shall be disclosed. </td></tr>
+<tr><td>4</td><td>Fully paid up capital instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (a), and Articles 27 to 31 of Regulation (EU) No 575/2013.  Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 of Regulation (EU) No 575/2013) shall be included.  The share premium related to the instruments shall not be included.  Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled. </td></tr>
+<tr><td>5</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (b), of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>6</td><td>Retained earnings Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (c), of Regulation (EU) No 575/2013.  Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits. </td></tr>
+<tr><td>7</td><td>Accumulated other comprehensive income Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 26(1), point (d), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>8</td><td>Other reserves Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (117), and Article 26(1), point (e), of Regulation (EU) No 575/2013.  The amount to be disclosed shall be net of any tax charge foreseeable at the moment of the calculation. </td></tr>
+<tr><td>9</td><td>Adjustments to CET1 due to prudential filters Article 9(1), point (i), of Regulation (EU) 2019/2033.  Articles 32 to 35 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>10</td><td>Other funds Article 9(4) of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>11</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1 The total sum of rows 12 to 18 shall be disclosed. </td></tr>
+<tr><td>12</td><td>(-) Losses for the current financial year Article 36(1) point (a), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>13</td><td>(-) Goodwill Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (113), Article 36(1), point (b), and Article 37 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>14</td><td>(-) Other intangible assets Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 4(1), point (115), Article 36(1), point (b), and Article 37, point (a), of Regulation (EU) No 575/2013.  Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also according to the applicable accounting standard. </td></tr>
+<tr><td>15</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities Article 9(2), point (a), of Regulation (EU) 2019/2033.  Article 36(1), point (c), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>16</td><td>(-) Qualifying holding outside the financial sector which exceeds 15 % of own funds Article 10(1), point (a), of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>17</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds Article 10(1), point (a), of Regulation (EU) 2019/2033. </td></tr>
+<tr><td>18</td><td>(-) Other deductions The sum of any other deductions listed in Article 36(1) of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>19</td><td>CET1: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional minority interests (Articles 479 and 480 of Regulation (EU) No 575/2013).  — Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions.  — Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 4 to 18.  This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+<tr><td>20</td><td>ADDITIONAL TIER 1 CAPITAL Article 9(1) of Regulation (EU) 2019/2033.  Article 61 of Regulation (EU) No 575/2013.  The total sum of rows 21 to 24 shall be disclosed. </td></tr>
+<tr><td>21</td><td>Fully paid up, directly issued capital Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 51, point (a), and Articles 52, 53 and 54 of Regulation (EU) No 575/2013.  The amount to be disclosed shall not include the share premium related to the instruments. </td></tr>
+<tr><td>22</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 51, point (b), of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>23</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1 Article 56 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>24</td><td>Additional Tier 1: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered AT1 Capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013).  — Instruments issued by subsidiaries that are given recognition in AT1 Capital (Articles 83, 85 and 86 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying T1 capital of subsidiaries that is included in consolidated AT1, also including capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional recognition in AT1 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013) adjustments to the qualifying T1 capital included in consolidated AT1 capital due to transitional provisions  — Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions.  — Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with Article 36(1), point (j), of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 20 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 Capital included, among other deductions, in row 18.  — Other AT1 capital elements or deductions from an AT1 element that cannot be assigned to one of the rows 21 to 23.  This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+<tr><td>25</td><td>TIER 2 CAPITAL Article 9(1) of Regulation (EU) 2019/2033.  Article 71 of Regulation (EU) No 575/2013.  The total sum of rows 26 to 29 shall be disclosed. </td></tr>
+<tr><td>26</td><td>Fully paid up, directly issued capital instruments Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 62, point (a), Articles 63 and 65 of Regulation (EU) No 575/2013.  The amount to be disclosed shall not include the share premium related to the instruments. </td></tr>
+<tr><td>27</td><td>Share premium Article 9(1), point (i), of Regulation (EU) 2019/2033.  Article 62, point (b) and Article 65 of Regulation (EU) No 575/2013.  Share premium has the same meaning as under the applicable accounting standard.  The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments". </td></tr>
+<tr><td>29</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2 Article 66 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>30</td><td>Tier 2: Other capital elements, deductions and adjustments This row shall include the sum of the following items, where applicable:  — Transitional adjustments due to grandfathered T2 Capital instruments (Article 483, paragraphs 6 and 7 of, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013).  — Instruments issued by subsidiaries that are given recognition in T2 Capital (Articles 83, 87 and 88 of Regulation (EU) No 575/2013): Sum of all the amounts of qualifying own funds of subsidiaries that is included in consolidated T2, also including qualifying Tier 2 capital issued by a special purpose entity (Article 83 of Regulation (EU) No 575/2013).  — Transitional adjustments due to additional recognition in T2 Capital of instruments issued by subsidiaries (Article 480 of Regulation (EU) No 575/2013): Adjustments to the qualifying own funds included in consolidated T2 capital due to transitional provisions.  — Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions.  — Excess of deduction from T2 items over T2 Capital, deducted from AT1 in accordance with Article 56, point (e), of Regulation (EU) No 575/2013: Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 25 to zero.  — Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 26 to 28.  This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios. </td></tr>
+</tbody>
+</table>
+
+**Template EU I CC1.03 – Composition of regulatory own funds (Group capital test)**
+
+6\. Entities referred to in Article 8(3) of Regulation (EU) 2019/2033 that are benefitting from the application of that same Article shall disclose the information on composition of own funds in accordance with template EU I CC1.03 and with the following instructions.
+
+Row Legal references and instructions
+
+1 OWN FUNDS
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+The own funds of an investment firm shall consist of the sum of its Tier 1 capital and Tier 2 capital.
+
+2 TIER 1 CAPITAL
+
+The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital
+
+3 COMMON EQUITY TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 50 of Regulation (EU) No 575/2013.
+
+4 Paid up capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033
+
+Article 26(1), point (a), and Articles 27 to 31 of Regulation (EU) No 575/2013
+
+Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 of Regulation (EU) No 575/2013) shall be included.
+
+The share premium related to the instruments shall not be included.
+
+Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled.
+
+5 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments".
+
+6 Retained earnings
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits
+
+7 Previous years retained earnings
+
+Article 4(1), point (123), and Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Article 4(1), point (123), of Regulation (EU) No 575/2013 defines retained earnings as "Profit and losses brought forward as a result of the final application of profit or loss under the applicable accounting framework".
+
+8 Profit or loss eligible
+
+Article 4(1), point (121), Article 26(2) and Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+Article 26(2) of Regulation (EU) No 575/2013 allows including as retained earnings interim or year-end profits, with the prior consent of the competent authorities, if some conditions are met.
+
+On the other hand, losses shall be deducted from CET1, as stated in Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+9 Accumulated other comprehensive income
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (d), of Regulation (EU) No 575/2013.
+
+10 Other reserves
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033
+
+Article 4(1), point (117), and Article 26(1), point (e), of Regulation (EU) No 575/2013.
+
+The amount to be disclosed shall be net of any tax charge foreseeable at the moment of the calculation.
+
+11 Adjustments to CET1 due to prudential filters
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Articles 32 to 35 of Regulation (EU) No 575/2013.
+
+12 Other funds
+
+Article 9(4) of Regulation (EU) 2019/2033.
+
+13 (-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1
+
+The total sum of rows 14 – 23 shall be disclosed.
+
+14 (-) Own CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (f), of and Article 42 of Regulation (EU) No 575/2013.
+
+Own CET1 held by the reporting institution or group at the reporting date. Subject to exceptions in Article 42 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+
+The amount to be disclosed shall include the share premium related to the own shares.
+
+15 (-) Losses for the current financial year
+
+Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+16 (-) Goodwill
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (113), Article 36(1), point (b), and Article 37 of Regulation (EU) No 575/2013.
+
+17 (-) Other intangible assets
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (115), Article 36(1), point (b), and Article 37, point (a), of Regulation (EU) No 575/2013.
+
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also pursuant the applicable accounting standard.
+
+18 (-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities
+
+Article 9(2), point (a), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (c), of Regulation (EU) No 575/2013.
+
+19 (-) Qualifying holding outside the financial sector which exceeds 15 % of own funds
+
+Article 10(1), point (a), of Regulation (EU) 2019/2033.
+
+20 (-)Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds
+
+Article 10(1), point (b), of Regulation (EU) 2019/2033.
+
+21 (-) CET1 instruments of financial sector entities where the institution does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (h), of Regulation (EU) No 575/2013.
+
+22 (-)Defined benefit pension fund assets
+
+Article 9(2), point (b) of Regulation (EU) 2019/2033.
+
+Article 36(1), point (e), of Regulation (EU) No 575/2013.
+
+23 (-) Other deductions
+
+The sum of any other deductions listed in Article 36(1) of Regulation (EU) No 575/2013.
+
+24 CET1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions.
+
+— Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 4 to 23.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios.
+
+25 ADDITIONAL TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 61 of Regulation (EU) No 575/2013.
+
+The total sum of rows 26 to 28 and 32 shall be disclosed.
+
+26 Paid up capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (a), and Articles 52, 53 and 54 of Regulation (EU) No 575/2013.
+
+The amount to be disclosed shall not include the share premium related to the instruments.
+
+27 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments".
+
+28 (-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1
+
+Article 56 of Regulation (EU) No 575/2013.
+
+The total sum of rows 29 – 31 shall be disclosed.
+
+29 (-) Own AT1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 52(1), point (b), Article 56, point (a), and Article 57 of Regulation (EU) No 575/2013.
+
+Own AT1 instruments held by the investment firm at the reporting date. Subject to exceptions in Article 57 Regulation (EU) No 575/2013.
+
+The amount to be disclosed shall include the share premium related to the own shares.
+
+30 (-) AT1 instruments of financial sector entities where the institution does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (c), of Regulation (EU) No 575/2013.
+
+31 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 56 of Regulation (EU) No 575/2013, with the exception of the deductions in accordance with Article 56 of Regulation (EU) No 575/2013, point (d), that are not included in any of the rows 0340 or 0380 above.
+
+32 Additional Tier 1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered AT1 Capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions.
+
+— Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with Article 36(1), point (j), of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0300 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 Capital included, among other deductions, in row 23.
+
+— Other AT1 capital elements or deductions from AT1 element that cannot be assigned to one of the rows 26 to 31.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios.
+
+33 TIER 2 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 71 of Regulation (EU) No 575/2013.
+
+The total sum of rows 34 to 36 and 39 shall be disclosed.
+
+34 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (a), Articles 63 and 65 of Regulation (EU) No 575/2013.
+
+The amount to be disclosed shall not include the share premium related to the instruments.
+
+35 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (b), and Article 65 of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be disclosed in this item shall be the part related to the "Paid up capital instruments".
+
+36 (-) TOTAL DEDUCTIONS FROM TIER 2
+
+Article 66 of Regulation (EU) No 575/2013.
+
+37 (-) Own T2 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 63, point (b)(i), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013.
+
+Own T2 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 67 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be disclosed in this row.
+
+The amount to be disclosed shall include the share premium related to the own shares.
+
+38 (-) T2 instruments of financial sector entities where the institution does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 66, point (c), of Regulation (EU) No 575/2013.
+
+39 Tier 2: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered T2 Capital instruments (Article 483, paragraphs 6 and 7, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions.
+
+— Excess of deduction from T2 items over T2 Capital, deducted from AT1 in accordance with Article 56, point (e), of Regulation (EU) No 575/2013: Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 33 to zero.
+
+— Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 34 to 38.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios.
+
+**Template EU I CC2 – Reconciliation of regulatory own funds to balance sheet in the audited financial statements**
+
+7\. Investment firms shall apply the instructions provided in this Annex in order to complete template EU I CC2 as presented in Annex VI, in accordance with Article 49(1) point (a), of Regulation (EU) 2019/2033.
+
+8\. Investment firms shall disclose the balance sheet included in their published financial statements. Financial statements shall be the audited financial statements for the year-end disclosures.
+
+9\. The rows of the template are flexible and shall be disclosed by investment firms in line with their financial statements. Own funds items in the audited financial statements shall include all items that are components of or are deducted from regulatory own funds, including equity, liabilities such as debt, or other balance sheet lines that affect regulatory own funds such as intangible assets, goodwill, deferred tax assets. Investment firms shall expand the own funds items of the balance sheet as necessary in order to ensure that all of the components included in the composition of own funds disclosure template (template EU I CC1) appear separately. Investment firms shall only expand elements of the balance sheet up to the level of granularity that is necessary for deriving the components required by template EU I CC1. Disclosure shall be proportionate to the complexity of the investment firm’s balance sheet.
+
+10\. The columns are fixed and shall be disclosed as follows:
+
+a. Column a: Investment firms shall include the figures reported in the balance sheet included in their audited financial statements according to the accounting scope of consolidation.
+
+b. Column b: Investment firms shall report the figures corresponding to the regulatory scope of consolidation.
+
+c. Column c: Investment firms shall include the cross-reference between the own funds item in template EU I CC2 and the relevant items in the own funds disclosure template EU I CC1. The reference in column c of template EU I CC2 will be linked to the reference included in column b of template EU I CC1.
+
+11\. In the following cases where investment firms’ scope of accounting consolidation and its scope of regulatory consolidation are exactly the same, only column (a) shall be filled and this fact shall be clearly disclosed:
+
+d. Where investment firms comply with the obligations laid down in Part Six of Regulation (EU) 2019/2033 on the prudential requirements of investment firms on a consolidated basis but the scope of consolidation and the method for consolidation used for the balance sheet in the financial statements are identical to the scope of consolidation and the method for consolidation defined pursuant to Part One, Title II, Chapter 2 of Regulation (EU) 2019/2033, and investment firms clearly state the absence of differences between the respective scopes and methods for consolidation in accompanying narrative to the template.
+
+e. Where investment firms meet the obligations laid down in Part Six of Regulation (EU) 2019/2033 on an individual basis.
+
+**Table EU I CCA – Main features of own instruments issued by the firm.**
+
+12\. Investment firms shall apply the instructions provided in this Annex in order to complete table EU I CCA as presented in Annex VI, according to Article 49(1) point (b), of Regulation (EU) 2019/2033.
+
+13\. Investment firms shall complete table EU I CCA for the following categories: Common Equity Tier 1 instruments, Additional Tier 1 instruments and Tier 2 instruments.
+
+14\. The tables shall comprise separate columns with the features of each regulatory own fund instruments. In cases where different instruments of a same category have identical features, investment firms may complete only one column disclosing these identical features and identify the issuances to which the identical features refer.
+
+<table>
+<tbody><tr><td colspan="2">Instructions for completing the own funds instruments issued by the firm main features table</td></tr>
+<tr><td>Row number</td><td>Explanation</td></tr>
+<tr><td>1</td><td>Issuer Identifies issuer legal entity.  Free text </td></tr>
+<tr><td>2</td><td>Unique identifier (e.g. CUSIP, ISIN or Bloomberg identifier for private placement) Unique identifier (e.g. CUSIP, ISIN or Bloomberg identifier for private placement).  Free text </td></tr>
+<tr><td>3</td><td>Public or private placement Specifies if the instrument has been publicly or privately placed.  Select from menu: [Public] [Private] </td></tr>
+<tr><td>4</td><td>Governing law(s) of the instrument Specifies the governing law(s) of the instrument.  Free text </td></tr>
+<tr><td>5</td><td>Instrument type (types to be specified by each jurisdiction) Specifies instrument type, varying by jurisdiction.  For CET1 instruments, select name of the instrument in the CET1 list published by the EBA.  For other instruments, select from: menu options to be provided to investment firms by each jurisdiction – legal references of Regulation (EU) 2019/2033 articles for each type of instrument to be inserted. </td></tr>
+<tr><td>6</td><td>Amount recognised in regulatory capital (Currency in million, as of most recent reporting date) Specifies the amount recognised in regulatory own funds (total amount of the instrument recognised before transitional provisions for the relevant level of the disclosure – currency used for the reporting obligations).  Free text – specify in particular if some parts of the instruments are in different tiers of the regulatory own funds and if the amount recognised in regulatory own funds is different from the amount issued. </td></tr>
+<tr><td>7</td><td>Nominal amount of instrument Nominal amount of instrument (in currency of issuance and currency used for the reporting obligations).  Free text </td></tr>
+<tr><td>8</td><td>Issue price Issue price of instrument.  Free text </td></tr>
+<tr><td>9</td><td>Redemption price Redemption price of instrument.  Free text </td></tr>
+<tr><td>10</td><td>Accounting classification Specifies accounting classification.  Select from menu: [Shareholders’ equity] [Liability – amortised cost] [Liability – fair value option] [Non-controlling interest in consolidated subsidiary] </td></tr>
+<tr><td>11</td><td>Original date of issuance Specifies date of issuance.  Free text </td></tr>
+<tr><td>12</td><td>Perpetual or dated Specifies whether dated or perpetual.  Select from menu: [Perpetual] [Dated] </td></tr>
+<tr><td>13</td><td>Original maturity date For dated instrument, specifies original maturity date (day, month and year). For perpetual instrument put ‘no maturity’.  Free text </td></tr>
+<tr><td>14</td><td>Issuer call subject to prior supervisory approval Specifies whether there is an issuer call option (all types of call options).  Select from menu: [Yes] [No] </td></tr>
+<tr><td>15</td><td>Optional call date, contingent call dates and redemption amount For instrument with issuer call option, specifies first date of call if the instrument has a call option on a specific date (day, month and year) and, in addition, specifies whether the instrument has a tax and/or regulatory event call. Also specifies the redemption price. Helps to assess permanence.  Free text </td></tr>
+<tr><td>16</td><td>Subsequent call dates, if applicable Specifies the existence and frequency of subsequent call dates, if applicable. Helps to assess permanence.  Free text </td></tr>
+<tr><td>17</td><td>Fixed or floating dividend/coupon Specifies whether the coupon/dividend is: either fixed over the life of the instrument, or floating over the life of the instrument, or currently fixed but will move to a floating rate in the future, or currently floating but will move to a fixed rate in the future.  Select from menu: [Fixed], [Floating] [Fixed to floating], [Floating to fixed] </td></tr>
+<tr><td>18</td><td>Coupon rate and any related index Specifies the coupon rate of the instrument and any related index that the coupon/dividend rate references.  Free text </td></tr>
+<tr><td>19</td><td>Existence of a dividend stopper Specifies whether the non-payment of a coupon or dividend on the instrument prohibits the payment of dividends on common shares (i.e. whether there is a dividend stopper).  Select from menu: [yes], [no] </td></tr>
+<tr><td>20</td><td>Fully discretionary, partially discretionary or mandatory (in terms of timing) Specifies whether the issuer has full discretion, partial discretion or no discretion over whether a coupon/dividend is paid. If the institution has full discretion to cancel coupon/dividend payments under all circumstances it must select ‘fully discretionary’ (including when there is a dividend stopper that does not have the effect of preventing the institution from cancelling payments on the instrument). If there are conditions that must be met before payment can be cancelled (e.g. own funds below a certain threshold), the institution must select ‘partially discretionary’. If the institution is unable to cancel the payment outside of insolvency, the institution must select ‘mandatory’.  Select from menu: [Fully discretionary] [Partially discretionary] [Mandatory]  Free text (specify the reasons for discretion, existence of dividend pushers, dividend stoppers, ACSM – Alternative Coupon Satisfaction Mechanism) </td></tr>
+<tr><td>21</td><td>Fully discretionary, partially discretionary or mandatory (in terms of amount) Specifies whether the issuer has full discretion, partial discretion or no discretion over the amount of the coupon/dividend.  Select from menu: [Fully discretionary] [Partially discretionary] [Mandatory] </td></tr>
+<tr><td>22</td><td>Existence of step up or other incentive to redeem Specifies whether there is a step-up or other incentive to redeem.  Select from menu: [Yes] [No] </td></tr>
+<tr><td>23</td><td>Non-cumulative or cumulative Specifies whether dividends/coupons are cumulative or noncumulative.  Select from menu: [Noncumulative] [Cumulative] [ACSM] </td></tr>
+<tr><td>24</td><td>Convertible or non-convertible Specifies whether instrument is convertible or not.  Select from menu: [Convertible] [Nonconvertible] </td></tr>
+<tr><td>25</td><td>If convertible, conversion trigger(s) Specifies the conditions under which the instrument will convert, including point of non-viability. Where one or more authorities have the ability to trigger conversion, the authorities shall be listed. For each of the authorities it shall be stated whether it is the terms of the contract of the instrument that provide the legal basis for the authority to trigger conversion (a contractual approach) or whether the legal basis is provided by statutory means (a statutory approach).  Free text </td></tr>
+<tr><td>26</td><td>If convertible, fully or partially Specifies whether the instrument will always convert fully, may convert fully or partially, or will always convert partially.  Select from menu: [Always Fully] [Fully or Partially] [Always partially] </td></tr>
+<tr><td>27</td><td>If convertible, conversion rate Specifies rate of conversion into the more loss-absorbing instrument.  Free text </td></tr>
+<tr><td>28</td><td>If convertible, mandatory or optional conversion For convertible instruments, specifies whether conversion is mandatory or optional.  Select from menu: [Mandatory] [Optional] [NA] and [at the option of the holders] [at the option of the issuer] [at the option of both the holders and the issuer] </td></tr>
+<tr><td>29</td><td>If convertible, specify instrument type convertible into For convertible instruments, specifies instrument type convertible into.  Select from menu: [Common Equity Tier 1] [Additional Tier 1] [Tier 2] [Other] </td></tr>
+<tr><td>30</td><td>If convertible, specify issuer of instrument it converts into If convertible, specify issuer of instrument it converts into.  Free text </td></tr>
+<tr><td>31</td><td>Write-down features Specifies whether there is a write down feature.  Select from menu: [Yes] [No] </td></tr>
+<tr><td>32</td><td>If write-down, write-down trigger(s) Specifies the triggers at which write-down occurs, including point of non-viability. Where one or more authorities have the ability to trigger write-down, the authorities shall be listed. For each of the authorities it shall be stated whether it is the terms of the contract of the instrument that provide the legal basis for the authority to trigger write-down (a contractual approach) or whether the legal basis is provided by statutory means (a statutory approach).  Free text </td></tr>
+<tr><td>33</td><td>If write-down, full or partial Specifies whether the instrument will always be written down fully, may be written down partially, or will always be written down partially. Helps assess the level of loss absorbency at write-down.  Select from menu: [Always Fully] [Fully or Partially] [Always partially] </td></tr>
+<tr><td>34</td><td>If write-down, permanent or temporary For write down instrument, specifies whether write down is permanent or temporary.  Select from menu: [Permanent] [Temporary] [NA] </td></tr>
+<tr><td>35</td><td>If temporary write-down, description of write-up mechanism Describes the write-up mechanism.  Free text </td></tr>
+<tr><td>36</td><td>Non-compliant transitioned features Specification if there are non-compliant features.  Select from [yes] or [no]. </td></tr>
+<tr><td>37</td><td>If yes, specify non-compliant features If there are non-compliant features, institution shall specify which ones.  Free text </td></tr>
+<tr><td>38</td><td>Link to the full term and conditions of the instrument (signposting) Investment firms shall include the hyperlink that gives access to the prospectus of the issuance, including all the terms and conditions of the instrument. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII — REPORTING ON GROUP CAPITAL TEST
+
+<table>
+<tbody><tr><td colspan="4">INVESTMENT FIRMS TEMPLATES</td></tr>
+<tr><td>Template number</td><td>Template code</td><td>Name of the template /group of templates</td><td>Short name</td></tr>
+<tr><td>  </td><td>  </td><td>GROUP CAPITAL TEST</td><td>  </td></tr>
+<tr><td>11,1</td><td>I 11.01</td><td>OWN FUNDS COMPOSITION - GROUP CAPITAL TEST</td><td>I11.1</td></tr>
+<tr><td>11,2</td><td>I 11.02</td><td>OWN FUND INSTRUMENTS - GROUP CAPITAL TEST</td><td>I11.2</td></tr>
+<tr><td>11,3</td><td>I 11.03</td><td>INFORMATION ON SUBSIDIARIES UNDERTAKINGS</td><td>I11.3</td></tr>
+</tbody>
+</table>
+
+**I 11.01 - OWN FUNDS COMPOSITION - GROUP CAPITAL TEST (I11.1)**
+
+<table>
+<tbody><tr><td rowspan="2">Rows</td><td rowspan="2">Item</td><td>Amount</td></tr>
+<tr><td>0010</td></tr>
+<tr><td>0010</td><td>OWN FUNDS</td><td>  </td></tr>
+<tr><td>0020</td><td>TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0030</td><td>COMMON EQUITY TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0040</td><td>Fully paid up capital instruments</td><td>  </td></tr>
+<tr><td>0050</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0060</td><td>Retained earnings</td><td>  </td></tr>
+<tr><td>0070</td><td>Previous years retained earnings</td><td>  </td></tr>
+<tr><td>0080</td><td>Profit eligible</td><td>  </td></tr>
+<tr><td>0090</td><td>Accumulated other comprehensive income</td><td>  </td></tr>
+<tr><td>0100</td><td>Other reserves</td><td>  </td></tr>
+<tr><td>0120</td><td>Adjustments to CET1 due to prudential filters</td><td>  </td></tr>
+<tr><td>0130</td><td>Other funds</td><td>  </td></tr>
+<tr><td>0145</td><td>(-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1</td><td>  </td></tr>
+<tr><td>0150</td><td>(-) Own CET1 instruments</td><td>  </td></tr>
+<tr><td>0190</td><td>(-) Losses for the current financial year</td><td>  </td></tr>
+<tr><td>0200</td><td>(-) Goodwill</td><td>  </td></tr>
+<tr><td>0210</td><td>(-) Other intangible assets</td><td>  </td></tr>
+<tr><td>0220</td><td>(-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities</td><td>  </td></tr>
+<tr><td>0230</td><td>(-) Qualifying holding outside the financial sector which exceeds 15% of own funds</td><td>  </td></tr>
+<tr><td>0240</td><td>(-) Total qualifying holdings in undertaking other than financial sector entities which exceeds 60% of its own funds</td><td>  </td></tr>
+<tr><td>0250</td><td>(-) CET1 instruments of financial sector entites where the investment firm does not have a significant investment</td><td>  </td></tr>
+<tr><td>0270</td><td>(-) Defined benefit pension fund assets</td><td>  </td></tr>
+<tr><td>0280</td><td>(-) Other deductions</td><td>  </td></tr>
+<tr><td>0295</td><td>CET1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0300</td><td>ADDITIONAL TIER 1 CAPITAL</td><td>  </td></tr>
+<tr><td>0310</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0320</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0335</td><td>(-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1</td><td>  </td></tr>
+<tr><td>0340</td><td>(-) Own AT1 instruments</td><td>  </td></tr>
+<tr><td>0380</td><td>(-) AT1 instruments of financial sector entities where the investment firm does not have a significant investment</td><td>  </td></tr>
+<tr><td>0400</td><td>(-) Other deductions</td><td>  </td></tr>
+<tr><td>0415</td><td>Additional Tier 1: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+<tr><td>0420</td><td>TIER 2 CAPITAL</td><td>  </td></tr>
+<tr><td>0430</td><td>Fully paid up, directly issued capital instruments</td><td>  </td></tr>
+<tr><td>0440</td><td>Share premium</td><td>  </td></tr>
+<tr><td>0455</td><td>(-) TOTAL DEDUCTIONS FROM TIER 2</td><td>  </td></tr>
+<tr><td>0460</td><td>(-) Own T2 instruments</td><td>  </td></tr>
+<tr><td>0500</td><td>(-) T2 instruments of financial sector entities where the parent does not have a significant investment</td><td>  </td></tr>
+<tr><td>0525</td><td>Tier 2: Other capital elements, deductions and adjustments</td><td>  </td></tr>
+</tbody>
+</table>
+
+**I 11.02 - OWN FUND INSTRUMENTS - GROUP CAPITAL TEST (I11.2)**
+
+|  |  | Amount |
+| --- | --- | --- |
+| Rows | Item | 0010 |
+| 0010 | CET1 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities |  |
+| 0020 | AT1 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities |  |
+| 0030 | T2 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities |  |
+| 0040 | Holdings of financial sector entities in the investment firm group to the extent that they do not constitute own funds for the group entity the parent is invested in |  |
+| 0050 | Subordinated claims of financial sector entities in the investment firm group |  |
+| 0060 | Contingent liabilities in favour of entities in the investment firm group |  |
+| 0070 | Total own fund requirements for the subsidiary undertakings |  |
+
+**I 11.03: INFORMATION ON SUBSIDIARIES UNDERTAKINGS (I11.3)**
+
+<table>
+<tbody><tr><td rowspan="3">Code</td><td rowspan="3">Type of code</td><td rowspan="3">Name of the undertaking</td><td rowspan="3">Parent / subsidiary</td><td rowspan="3">Country</td><td colspan="5">Investments by the parent undertaking</td><td rowspan="3">Contingent liabilities of the parent in favour of the entity</td><td rowspan="3">Total own fund requirements</td><td colspan="15">  </td></tr>
+<tr><td rowspan="2">CET1</td><td rowspan="2">AT1</td><td rowspan="2">T2</td><td rowspan="2">Holdings</td><td rowspan="2">Subordinated claims</td><td rowspan="2">Permanent minimum capital</td><td colspan="13">K-factor requirement</td><td rowspan="2">Fixed overhead requirements</td></tr>
+<tr><td>  </td><td>Assets under management</td><td>Client money held - Segregated</td><td>Client money held - Non - segregated</td><td>Assets safeguarded and administered</td><td>Client orders handled - Cash trades</td><td>Client orders handled - Derivatives Trades</td><td>K-Net positions risk requirement</td><td>Clearing margin given</td><td>Trading counterparty default</td><td>Daily trading flow - Cash trades</td><td>Daily trading flow - Derivative trades</td><td>K-Concentration risk requirement</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td><td>0110</td><td>0120</td><td>0130</td><td>0140</td><td>0150</td><td>0160</td><td>0170</td><td>0180</td><td>0190</td><td>0200</td><td>0210</td><td>0220</td><td>0230</td><td>0240</td><td>0250</td><td>0260</td><td>0270</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX — REPORTING ON GROUP CAPITAL TEST
+
+<table>
+<tr><td colspan="2">Table of contents</td></tr>
+<tr><td>PART I:</td><td>GENERAL INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>Structure and conventions</td></tr>
+<tr><td>1.1</td><td>Structure</td></tr>
+<tr><td>1.2</td><td>Numbering convention</td></tr>
+<tr><td>1.3</td><td>Sign convention</td></tr>
+<tr><td>PART II:</td><td>TEMPLATE RELATED INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION</td></tr>
+<tr><td>1.1</td><td>General Remarks</td></tr>
+<tr><td>1.2.</td><td>IF 11.01 – OWN FUNDS COMPOSITION – GROUP CAPITAL TEST (IF11.1)</td></tr>
+<tr><td>1.2.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.3</td><td>IF 11.02 OWN FUNDS REQUIREMENTS – GROUP CAPITAL TEST (IF11.2)</td></tr>
+<tr><td>1.3.1.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>1.4</td><td>IF 11.03 INFORMATION ON SUBSIDIARIES UNDERTAKINGS (IF11.3)</td></tr>
+<tr><td>1.4.1.</td><td>Instructions concerning specific positions</td></tr>
+</table>
+
+**PART I: GENERAL INSTRUCTIONS**
+
+**1\. Structure and conventions**
+
+**1.1 Structure**
+
+1\. Overall, group capital test reporting consists of 2 templates:
+
+(a) Own funds composition
+
+(b) Own fund instruments.
+
+2\. For each template, legal references are provided. Further detailed information regarding more general aspects of the reporting of each block of templates, instructions concerning specific positions as well as validation rules are included in this part of this Regulation.
+
+**1.2 Numbering convention**
+
+3\. The document follows the labelling convention set in points 4 to 7, when referring to the columns, rows and cells of the templates. Those numerical codes are extensively used in the validation rules.
+
+4\. The following general notation is followed in the instructions: {Template; Row; Column}.
+
+5\. In the case of validations inside a template, in which only data points of that template are used, notations do not refer to a template: {Row; Column}.
+
+6\. In the case of templates with only one column, only rows are referred to. {Template; Row}
+
+7\. An asterisk sign is used to express that the validation is done for the rows or columns specified before.
+
+**1.3 Sign convention**
+
+8\. Any amount that increases the own funds or own funds requirements, or the liquidity requirements, shall be reported as a positive figure. On the contrary, any amount that reduces the total own funds or own funds requirements shall be reported as a negative figure. Where there is a negative sign (-) preceding the label of an item no positive figure is expected to be reported of that item.
+
+**PART II: TEMPLATE RELATED INSTRUCTIONS**
+
+**1\. OWN FUNDS: LEVEL, COMPOSITION, REQUIREMENTS AND CALCULATION**
+
+**1.1 General Remarks**
+
+10\. Own funds overview section contains information about the own funds that an investment firm holds and its own funds requirements. It consists of two templates:
+
+(a) Template I 11.01 contains the compositions of the own funds that an investment firm holds: Common Equity Tier 1 capital (CET1), Additional Tier 1 capital (AT1) and Tier 2 capital (T2).
+
+(b) Template I 11.02 contains information on the ‘own fund requirements’ in the context of the group capital test, i.e. intragroup holdings, contingent liabilities and total own funds requirements of the subsidiaries.
+
+(c) Template I 11.03 contains the relevant information on capital requirements, contingent liabilities, subordinated claims and holdings of financial sector entities at subsidiary level, broken down entity-by-entity.
+
+11\. The items in these templates are gross of transitional adjustments. This means that the figures (except where the transitional own funds requirement is specifically stated) are calculated according to the final provisions (i.e. as if there were no transitional provisions).
+
+**1.2. I 11.01 – OWN FUNDS COMPOSITION – GROUP CAPITAL TEST (I11.1)**
+
+1.2.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 OWN FUNDS
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+The own funds of an investment firm shall consist of the sum of its Tier 1 capital and Tier 2 capital.
+
+0020 TIER 1 CAPITAL
+
+The Tier 1 capital is the sum of Common Equity Tier 1 Capital and Additional Tier 1 capital.
+
+0030 COMMON EQUITY TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 50 of Regulation (EU) No 575/2013.
+
+0040 Fully paid up capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (a), and Articles 27 to 31 of Regulation (EU) No 575/2013.
+
+Capital instruments of mutual, cooperative societies or similar institutions (Articles 27 and 29 of Regulation (EU) No 575/2013) shall be included.
+
+The share premium related to the instruments shall not be included.
+
+Capital instruments subscribed by public authorities in emergency situations shall be included if all conditions of Article 31 of Regulation (EU) No 575/2013 are fulfilled.
+
+0050 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0060 Retained earnings
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Retained earnings includes the previous year retained earnings plus the eligible interim or year-end profits.
+
+The sum of rows 0070 and 0080 shall be reported.
+
+0070 Previous years retained earnings
+
+Article 4(1), point (123), and Article 26(1), point (c), of Regulation (EU) No 575/2013.
+
+Article 4(1), point (123), of Regulation (EU) No 575/2013 defines retained earnings as "Profit and losses brought forward as a result of the final application of profit or loss under the applicable accounting framework".
+
+0080 Profit eligible
+
+Article 4(1), point (121), Article 26(2) and Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+Article 26(2) of Regulation (EU) No 575/2013 allows including as retained earnings interim or year-end profits, with the prior consent of the competent authorities, if some conditions are met.
+
+0090 Accumulated other comprehensive income
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 26(1), point (d), of Regulation (EU) No 575/2013.
+
+0100 Other reserves
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (117), and Article 26(1), point (e), of Regulation (EU) No 575/2013.
+
+The amount to be reported shall be net of any tax charge foreseeable at the moment of the calculation.
+
+0120 Adjustments to CET1 due to prudential filters
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Articles 32 to 35 of Regulation (EU) No 575/2013.
+
+0130 Other funds
+
+Article 9(4) of Regulation (EU) 2019/2033.
+
+0145 (-)TOTAL DEDUCTIONS FROM COMMON EQUITY TIER 1
+
+Article 8(2), point (a), of Regulation (EU) 2019/2033, Article 36(1) of Regulation (EU) No 575/2013 with the exception of point (i) of that paragraph.
+
+The sum of rows 0150 and 0190-0280 shall be reported.
+
+0150 (-) Own CET1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (f), and Article 42 of Regulation (EU) No 575/2013.
+
+Own CET1 held by the reporting institution or group at the reporting date. Subject to exceptions in Article 42 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0190 (-) Losses for the current financial year
+
+Article 36(1), point (a), of Regulation (EU) No 575/2013.
+
+0200 (-) Goodwill
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (113), Article 36(1), point (b), and Article 37 of Regulation (EU) No 575/2013.
+
+0210 (-) Other intangible assets
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 4(1), point (115), Article 36(1), point (b), and Article 37, point (a), of Regulation (EU) No 575/2013.
+
+Other intangible assets are the intangibles assets under the applicable accounting standard, minus the goodwill, also pursuant the applicable accounting standard.
+
+0220 (-) Deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities
+
+Article 9(2), point (a), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (c), of Regulation (EU) No 575/2013.
+
+0230 (-) Qualifying holding outside the financial sector which exceeds 15 % of own funds
+
+Article 10(1), point (a), of Regulation (EU) 2019/2033.
+
+0240 (-)Total qualifying holdings in undertaking other than financial sector entities which exceeds 60 % of its own funds
+
+Article 10(1), point (b), of Regulation (EU) 2019/2033.
+
+0250 (-) CET1 instruments of financial sector entities where the parent does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (h), of Regulation (EU) No 575/2013.
+
+Union parent in this row means Union parent investment firms, Union parent investment holding companies, Union parent mixed financial holding or any other parent undertaking that is an investment firms, financial institution, ancillary services undertaking or tied agent
+
+0270 (-)Defined benefit pension fund assets
+
+Article 9(2), point (b), of Regulation (EU) 2019/2033.
+
+Article 36(1), point (e), of Regulation (EU) No 575/2013.
+
+0280 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 36(1) of Regulation (EU) No 575/2013, with the exception of deductions in accordance with Article 36(1), point (i), of Regulation (EU) No 575/2013, that are not included in any of the rows 0150 to 0270 above.
+
+0295 CET1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered CET1 Capital instruments (Article 483, paragraphs 1, 2 and 3 and Articles 484 to 487 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to CET1 Capital (Articles 469 to 478 and 481 of Regulation (EU) No 575/2013): adjustments to the deductions from CET1 due to transitional provisions.
+
+— Other CET1 capital elements or deductions from a CET1 element that cannot be assigned to one of the rows 0040 to 0280.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios.
+
+0300 ADDITIONAL TIER 1 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 61 of Regulation (EU) No 575/2013.
+
+0310 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (a), and Articles 52, 53 and 54 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments.
+
+0320 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 51, point (b), of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0335 (-) TOTAL DEDUCTIONS FROM ADDITIONAL TIER 1
+
+Article 56 of Regulation (EU) No 575/2013, with the exception of point (d) of that article.
+
+The total sum of rows 0340, 0380 and 0400 shall be reported.
+
+0340 (-) Own AT1 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 52(1), point (b), Article 56, point (a), and Article 57 of Regulation (EU) No 575/2013.
+
+Own AT1 instruments held by the investment firm at the reporting date. Subject to exceptions in Article 57 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0380 (-) AT1 instruments of financial sector entities where the parent does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 56, point (c), of Regulation (EU) No 575/2013.
+
+Union parent in this row means Union parent investment firms, Union parent investment holding companies, Union parent mixed financial holdings or any other parent undertaking that is an investment firms, financial institution, ancillary services undertaking or tied agent.
+
+0400 (-) Other deductions
+
+The sum of all other deductions in accordance with Article 56 of Regulation (EU) No 575/2013, with the exception of the deductions in accordance with Article 56, point (d), of Regulation (EU) No 575/2013, that are not included in any of the rows 0340 or 0380 above.
+
+0415 Additional Tier 1: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered AT1 Capital instruments (Article 483, paragraphs 4 and 5, Articles 484 to 487, Articles 489 and 491 of Regulation (EU) No 575/2013).
+
+— Other transitional adjustments to AT1 Capital (Articles 472, 473a, 474, 475, 478 and 481 of Regulation (EU) No 575/2013): adjustments to deductions due to transitional provisions.
+
+— Excess of deduction from AT1 items over AT1 Capital, deducted from CET1 in accordance with Article 36(1), point (j), of Regulation (EU) No 575/2013: Additional Tier 1 cannot be negative, but it is possible that the deductions from AT1 items exceed the amount of available AT1 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0300 to zero and equals the inverse of the excess of deductions from AT1 items over AT1 Capital included, among other deductions, in row 0280.
+
+— Other AT1 capital elements or deductions from a AT1 element that cannot be assigned to one of the rows 0310 to 0400.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 in the calculation of the solvency ratios.
+
+0420 TIER 2 CAPITAL
+
+Article 9(1) of Regulation (EU) 2019/2033.
+
+Article 71 of Regulation (EU) No 575/2013.
+
+The total sum of rows 0430 to 0455 and 0525 shall be reported.
+
+0430 Fully paid up, directly issued capital instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (a), Articles 63 and 65 of Regulation (EU) No 575/2013.
+
+The amount to be reported shall not include the share premium related to the instruments.
+
+0440 Share premium
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 62, point (b), and Article 65 of Regulation (EU) No 575/2013.
+
+Share premium has the same meaning as under the applicable accounting standard.
+
+The amount to be reported in this item shall be the part related to the "Paid up capital instruments".
+
+0455 (-) TOTAL DEDUCTIONS FROM TIER 2
+
+Article 66 of Regulation (EU) No 575/2013, with the exception of point (d) of that article.
+
+0460 (-) Own T2 instruments
+
+Article 9(1), point (i), of Regulation (EU) 2019/2033.
+
+Article 63, point (b)(i), Article 66, point (a), and Article 67 of Regulation (EU) No 575/2013.
+
+Own T2 instruments held by the reporting institution or group at the reporting date. Subject to exceptions in Article 67 of Regulation (EU) No 575/2013.
+
+Holdings on shares included as "Capital instruments not eligible" shall not be reported in this row.
+
+The amount to be reported shall include the share premium related to the own shares.
+
+0500 (-) T2 instruments of financial sector entities where the parent does not have a significant investment
+
+Article 9(2), point (c), of Regulation (EU) 2019/2033.
+
+Article 66, point (c), of Regulation (EU) No 575/2013.
+
+Union parent in this row means Union parent investment firms, Union parent investment holding companies, Union parent mixed financial holdings or any other parent undertaking that is an investment firms, financial institution, ancillary services undertaking or tied agent.
+
+0525 Tier 2: Other capital elements, deductions and adjustments
+
+This row shall include the sum of the following items, where applicable:
+
+— Transitional adjustments due to grandfathered T2 Capital instruments (Article 483, paragraphs 6 and 7, Articles 484, 486, 488, 490 and 491 of Regulation (EU) No 575/2013)
+
+— Other transitional adjustments to T2 Capital (Articles 472, 473a, 476, 477, 478 and 481 of Regulation (EU) No 575/2013): Adjustments to the deductions from Tier 2 due to transitional provisions
+
+— Excess of deduction from T2 items over T2 Capital, deducted from AT1 in accordance with Article 56, point (e), of Regulation (EU) No 575/2013: Tier 2 cannot be negative, but it is possible that the deductions from T2 items exceed the amount of available T2 items. Where this happens, this item represents the amount needed to increase the amount reported in row 0420 to zero
+
+— Other T2 capital elements or deductions from a T2 element that cannot be assigned to one of the rows 0430 to 0500.
+
+This row shall not be used to include capital items or deductions which are not covered by Regulation (EU) 2019/2033 or Regulation (EU) No 575/2013 into the calculation of the solvency ratios.
+
+**1.3 I 11.02 OWN FUNDS REQUIREMENTS – GROUP CAPITAL TEST (I11.2)**
+
+1.3.1. Instructions concerning specific positions
+
+Row Legal references and instructions
+
+0010 CET1 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033 in conjunction with Article 36(1), point (i), of Regulation (EU) No 575/2013.
+
+0020 AT1 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033 in conjunction with of Article 56, point (d), of Regulation (EU) No 575/2013.
+
+0030 T2 instruments of financial sector entities in the investment firm group where the parent undertaking has a significant investment in those entities
+
+Article 8(3), point (a), in conjunction with Article 66, point (d), of Regulation (EU) No 575/2013.
+
+0040 Holdings of financial sector entities in the investment firm group to the extent that they do not constitute own funds for the group entity the parent is invested in
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033.
+
+This row shall include holdings of the parent to the extent that they do not constitute own funds for the group entity the parent is invested in.
+
+0050 Subordinated claims of financial sector entities in the investment firm group
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033.
+
+This row shall include subordinated claims of the parent to the extent that they do not constitute own funds for the group entity the parent is invested in.
+
+0060 Contingent liabilities in favour of entities in the investment firm group
+
+Article 8(3), point (b), of Regulation (EU) 2019/2033.
+
+0070 Total own fund requirements for the subsidiary undertakings
+
+In case of application of Article 8(4) of Regulation (EU) 2019/2033.
+
+**1.4 IF 11.03 INFORMATION ON SUBSIDIARIES UNDERTAKINGS (IF11.3)**
+
+10\. All entities included in the scope of the group capital test shall be reported in this template. This shall also include the parent undertaking of the group itself.
+
+1.4.1. Instructions concerning specific positions
+
+Columns Legal references and instructions
+
+0010 Code
+
+The code as part of a row identifier must be unique for each reported entity. For investment firms and insurance undertakings the code shall be the LEI code. For other entities the code shall be the LEI code, or if not available, a national code. The code shall be unique and used consistently across the templates and across time. The code shall always have a value.
+
+0020 Type of code
+
+The reporting entity shall identify the type of code reported in column 0010 as a ‘LEI code type’ or ‘Nationalcode type’.
+
+The type of code shall always be reported.
+
+0030 Name of the undertaking
+
+Name of the undertaking within the scope of consolidation.
+
+0040 Parent/subsidiary
+
+Indicates whether the entity reported in the row is the parent of the group or a subsidiary
+
+0050 Country
+
+The country where the subsidiary is located shall be reported.
+
+0060 – 0100 Investments by the parent undertaking
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033.
+
+In this section, the investments of the parent undertaking in the group entities shall be reported.
+
+0060 CET1
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033 in conjunction with Article 36(1), point (i), of Regulation (EU) No 575/2013.
+
+0070 AT1
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033 in conjunction with Article 56, point (d), of Regulation (EU) No 575/2013.
+
+0080 T2
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033 in conjunction with Article 66, point (d), of Regulation (EU) No 575/2013.
+
+0090 Holdings
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033.
+
+This column shall include holdings of the parent to the extent that they do not constitute own funds for the group entity the parent is invested in.
+
+0100 Subordinated claims
+
+Article 8(3), point (a), of Regulation (EU) 2019/2033.
+
+This column shall include subordinated claims of the parent to the extent that they do not constitute own funds for the group entity the parent is invested in.
+
+0110 Contingent liabilities of the parent in favour of the entity
+
+Article 8(3),point (b), of Regulation (EU) 2019/2033.
+
+0120 Total own fund requirements for the subsidiary undertakings
+
+Article 8(4) of Regulation (EU) 2019/2033.
+
+0130 Permanent minimum capital
+
+Article 14 of Regulation (EU) 2019/2033.
+
+0140 K-factor requirement
+
+Article 15 of Regulation (EU) 2019/2033.
+
+0150 Assets under management
+
+Article 15(2) and Article 17 of Regulation (EU) 2019/2033.
+
+0160 Client money held – Segregated
+
+Article 15(2) and Article 18 of Regulation (EU) 2019/2033.
+
+0170 Client money held – Non – segregated
+
+Article 15(2) and Article 18 of Regulation (EU) 2019/2033.
+
+0180 Assets safeguarded and administered
+
+Article 15(2) and Article 19 of Regulation (EU) 2019/2033.
+
+0190 Client orders handled – Cash trades
+
+Article 15(2) and article 20(1) and article 20(2), point (a), of Regulation (EU) 2019/2033.
+
+0200 Client orders handled – Derivatives Trades
+
+Article 15(2) and article 20(1) and article 20(2), point (b), of Regulation (EU) 2019/2033.
+
+0210 K-Net positions risk requirement
+
+Article 22 of Regulation (EU) 2019/2033.
+
+0220 Clearing margin given
+
+Article 23(2) of Regulation (EU) 2019/2033.
+
+0230 Trading counterparty default
+
+Article 26 and Article 24 of Regulation (EU) 2019/2033.
+
+0240 Daily trading flow – Cash trades
+
+For the purposes of K-factor requirement calculation, investment firms shall report by applying the coefficient of Article 15(2) of Regulation (EU) 2019/2033.
+
+In the event of stressed market conditions, in accordance with Article 15(5), point (c), of Regulation (EU) 2019/2033, investment firms shall apply an adjusted coefficient as specified in that point.
+
+Daily trading flow factor shall be calculated in accordance with Article 33(2), point (a), of Regulation (EU) 2019/2033.
+
+0250 Daily trading flow – Derivative trades
+
+For the purposes of K-factor requirement calculation, investment firms shall report by applying the coefficient of Article 15(2) of Regulation (EU) 2019/2033.
+
+In the event of stressed market conditions, in accordance with Article 15(5), point (c), of Regulation (EU) 2019/2033, investment firms shall apply an adjusted coefficient as specified in that point.
+
+Daily trading flow factor shall be calculated in accordance with Article 33(2), point (b), of Regulation (EU) 2019/2033.
+
+0260 K-Concentration risk requirement
+
+Article 37(2), 39 and Article 24 of Regulation (EU) 2019/2033.
+
+0270 Fixed overhead requirements
+
+Article 13 of Regulation (EU) 2019/2033.
+
+## ANNEX X — REPORTING OF RtM K-FACTOR REQUIREMENT ON THE BASIS OF K-NPR
+
+<table>
+<tbody><tr><td colspan="4">INVESTMENT FIRMS TEMPLATES</td></tr>
+<tr><td>Template number</td><td>Template code</td><td>Name of the template /group of templates</td><td>Short name</td></tr>
+<tr><td>  </td><td>  </td><td>MARKET RISK</td><td>MKR</td></tr>
+<tr><td>18</td><td>C 18.00</td><td>MARKET RISK: STANDARDISED APPROACH FOR POSITION RISKS IN TRADED DEBT INSTRUMENTS</td><td>MKR SA TDI</td></tr>
+<tr><td>19</td><td>C 19.00</td><td>MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN SECURITISATIONS</td><td>MKR SA SEC</td></tr>
+<tr><td>20</td><td>C 20.00</td><td>MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN THE CORRELATION TRADING PORTFOLIO</td><td>MKR SA CTP</td></tr>
+<tr><td>21</td><td>C 21.00</td><td>MARKET RISK: STANDARDISED APPROACH FOR POSITION RISK IN EQUITIES</td><td>MKR SA EQU</td></tr>
+<tr><td>22</td><td>C 22.00</td><td>MARKET RISK: STANDARDISED APPROACHES FOR FOREIGN EXCHANGE RISK</td><td>MKR SA FX</td></tr>
+<tr><td>23</td><td>C 23.00</td><td>MARKET RISK: STANDARDISED APPROACHES FOR COMMODITIES</td><td>MKR SA COM</td></tr>
+<tr><td>24</td><td>C 24.00</td><td>MARKET RISK INTERNAL MODELS</td><td>MKR IM</td></tr>
+</tbody>
+</table>
+
+C 18.00 - MARKET RISK: STANDARDISED APPROACH FOR POSITION RISKS IN TRADED DEBT INSTRUMENTS (MKR SA TDI)
+
+Currency: [image]
+
+<table>
+<tbody><tr><td colspan="3" rowspan="4">  </td><td colspan="5">POSITIONS</td><td rowspan="3">OWN FUNDS REQUIREMENTS</td><td rowspan="3">TOTAL RISK EXPOSURE AMOUNT</td></tr>
+<tr><td colspan="2">ALL POSITIONS</td><td colspan="2">NET POSITIONS</td><td rowspan="2">POSITIONS SUBJECT TO CAPITAL CHARGE</td></tr>
+<tr><td>LONG</td><td>SHORT</td><td>LONG</td><td>SHORT</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td></tr>
+<tr><td>0010</td><td colspan="2">TRADED DEBT INSTRUMENTS IN TRADING BOOK</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to CA2</td></tr>
+<tr><td>0011</td><td colspan="2">General risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0012</td><td colspan="2">Derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0013</td><td colspan="2">Other assets and liabilities</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td colspan="2">Maturity-based approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td colspan="2">Zone 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>  </td><td>0 ≤ 1 month</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>  </td><td>&gt; 1 ≤ 3 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>  </td><td>&gt; 3 ≤ 6 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>  </td><td>&gt; 6 ≤ 12 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td colspan="2">Zone 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>  </td><td>&gt; 1 ≤ 2 (1,9 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>  </td><td>&gt; 2 ≤ 3 (&gt; 1,9 ≤ 2,8 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>  </td><td>&gt; 3 ≤ 4 (&gt; 2,8 ≤ 3,6 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0120</td><td colspan="2">Zone 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0130</td><td>  </td><td>&gt; 4 ≤ 5 (&gt; 3,6 ≤ 4,3 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0140</td><td>  </td><td>&gt; 5 ≤ 7 (&gt; 4,3 ≤ 5,7 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0150</td><td>  </td><td>&gt; 7 ≤ 10 (&gt; 5,7 ≤ 7,3 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0160</td><td>  </td><td>&gt; 10 ≤ 15 (&gt; 7,3 ≤ 9,3 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0170</td><td>  </td><td>&gt; 15 ≤ 20 (&gt; 9,3 ≤ 10,6 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0180</td><td>  </td><td>&gt; 20 (&gt; 10,6 ≤ 12,0 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0190</td><td>  </td><td>(&gt; 12,0 ≤ 20,0 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0200</td><td>  </td><td>(&gt; 20 for cupon of less than 3%) years</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0210</td><td colspan="2">Duration-based approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0220</td><td colspan="2">Zone 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0230</td><td colspan="2">Zone 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0240</td><td colspan="2">Zone 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0250</td><td colspan="2">Specific risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0251</td><td colspan="2">Own funds requirement for non-securitisation debt instruments</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0260</td><td colspan="2">Debt securities under the first category in Table 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0270</td><td colspan="2">Debt securities under the second category in Table 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0280</td><td colspan="2">With residual term ≤ 6 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0290</td><td colspan="2">With a residual term &gt; 6 months and ≤ 24 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0300</td><td colspan="2">With a residual term &gt; 24 months</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0310</td><td colspan="2">Debt securities under the third category in Table 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0320</td><td colspan="2">Debt securities under the fourth category in Table 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0321</td><td colspan="2">Rated nth-to default credit derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0325</td><td colspan="2">Own funds requirement for securitisation instruments</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0330</td><td colspan="2">Own funds requirement for the correlation trading portfolio</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0350</td><td colspan="2">Additional requirements for options (non-delta risks)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0360</td><td colspan="2">Simplified method</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0370</td><td colspan="2">Delta plus approach - additional requirements for gamma risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0380</td><td colspan="2">Delta plus approach - additional requirements for vega risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0385</td><td colspan="2">Delta plus approach - non-continuous options and warrants</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0390</td><td colspan="2">Scenario matrix approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 19.00 - MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN SECURITISATIONS (MKR SA SEC)
+
+<table>
+<tbody><tr><td colspan="2" rowspan="3">  </td><td colspan="2">ALL POSITIONS</td><td colspan="2">(-) POSITIONS DEDUCTED FROM OWN FUNDS</td><td colspan="2">NET POSITIONS</td><td colspan="18">BREAKDOWN OF THE NET POSITIONS (LONG) ACCORDING TO RISK WEIGHTS</td><td colspan="18">BREAKDOWN OF THE NET POSITIONS (SHORT) ACCORDING TO RISK WEIGHTS</td><td colspan="6">BREAKDOWN OF THE NET POSITION ACCORDING TO APPROACHES</td><td colspan="2">OVERALL EFFECT (ADJUSTMENT) DUE TO INFRINGEMENT OF CHAPTER 2 OF REGULATION (EU) 2017/2402</td><td rowspan="2">BEFORE CAP</td><td rowspan="2">AFTER CAP / TOTAL OWN FUND REQUIREMENTS</td></tr>
+<tr><td>LONG</td><td>SHORT</td><td>(-) LONG</td><td>(-) SHORT</td><td>LONG</td><td>SHORT</td><td>[0 - 10%[</td><td>[10 - 12%[</td><td>[12 - 20%[</td><td>[20 - 40%[</td><td>[40 - 100%[</td><td>[100 - 150%[</td><td>[150 - 200%[</td><td>[200 - 225%[</td><td>[225 - 250%[</td><td>[250 - 300%[</td><td>[300 - 350%[</td><td>[350 - 425%[</td><td>[425 - 500%[</td><td>[500 - 650%[</td><td>[650 - 750%[</td><td>[750 - 850%[</td><td>[850 - 1 250 %[</td><td>1 250 %</td><td>[0 - 10%[</td><td>[10 - 12%[</td><td>[12 - 20%[</td><td>[20 - 40%[</td><td>[40 - 100%[</td><td>[100 - 150%[</td><td>[150 - 200%[</td><td>[200 - 225%[</td><td>[225 - 250%[</td><td>[250 - 300%[</td><td>[300 - 350%[</td><td>[350 - 425%[</td><td>[425 - 500%[</td><td>[500 - 650%[</td><td>[650 - 750%[</td><td>[750 - 850%[</td><td>[850 - 1 250 %[</td><td>1 250 %</td><td>SEC-IRBA</td><td>SEC-SA</td><td>SEC-ERBA</td><td>INTERNAL ASSESSMENT APPROACH</td><td>SPECIFIC TREATMENT FOR SENIOR TRANCHES OF QUALIFYING NPE SECURITI-SATIONS</td><td>OTHER (RW=1 250 %)</td><td>WEIGHTED NET LONG POSITIONS</td><td>WEIGHTED NET SHORT POSITIONS</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0061</td><td>0062</td><td>0063</td><td>0064</td><td>0065</td><td>0066</td><td>0071</td><td>0072</td><td>0073</td><td>0074</td><td>0075</td><td>0076</td><td>0077</td><td>0078</td><td>0079</td><td>0081</td><td>0082</td><td>0083</td><td>0085</td><td>0086</td><td>0087</td><td>0088</td><td>0089</td><td>0091</td><td>0092</td><td>0093</td><td>0094</td><td>0095</td><td>0096</td><td>0097</td><td>0098</td><td>0099</td><td>0101</td><td>0102</td><td>0103</td><td>0104</td><td>0402</td><td>0403</td><td>0404</td><td>0405</td><td>0900</td><td>0406</td><td>0530</td><td>0540</td><td>0570</td><td>0601</td></tr>
+<tr><td>0010</td><td>TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to MKR SA TDI {325:060}</td></tr>
+<tr><td>0020</td><td>Of which: RE-SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>ORIGINATOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0041</td><td>OF WHICH: QUALIFYING FOR DIFFERENTIATED CAPITAL TREATMENT</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>RE-SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>INVESTOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0071</td><td>OF WHICH: QUALIFYING FOR DIFFERENTIATED CAPITAL TREATMENT</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>RE-SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>SPONSOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0101</td><td>OF WHICH: QUALIFYING FOR DIFFERENTIATED CAPITAL TREATMENT</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>RE-SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 20.00 - MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN THE CORRELATION TRADING PORTFOLIO (MKR SA CTP)
+
+<table>
+<tbody><tr><td colspan="2" rowspan="3">  </td><td colspan="2">ALL POSITIONS</td><td colspan="2">(-) POSITIONS DEDUCTED FROM OWN FUNDS</td><td colspan="2">NET POSITIONS</td><td colspan="11">BREAKDOWN OF THE NET POSITION (LONG) ACCORDING TO RISK WEIGHTS</td><td colspan="11">BREAKDOWN OF THE NET POSITION (SHORT) ACCORDING TO RISK WEIGHTS</td><td colspan="6">BREAKDOWN OF THE NET POSITION ACCORDING TO APPROACHES</td><td colspan="2">BEFORE CAP</td><td colspan="2">AFTER CAP</td><td rowspan="2">TOTAL OWN FUNDS REQUIRE-MENTS</td></tr>
+<tr><td>LONG</td><td>SHORT</td><td>(-) LONG</td><td>(-) SHORT</td><td>LONG</td><td>SHORT</td><td>[0 - 10%[</td><td>[10 - 12%[</td><td>[12 - 20%[</td><td>[20 - 40%[</td><td>[40 - 100%[</td><td>[100 - 250%[</td><td>[250 - 350%[</td><td>[350 - 425%[</td><td>[425 - 650%[</td><td>[650 - 1 250 %[</td><td>1 250 %</td><td>[0 - 10%[</td><td>[10 - 12%[</td><td>[12 - 20%[</td><td>[20 - 40%[</td><td>[40 - 100%[</td><td>[100 - 250%[</td><td>[250 - 350%[</td><td>[350 - 425%[</td><td>[425 - 650%[</td><td>[650 - 1 250 %[</td><td>1 250 %</td><td>SEC-IRBA</td><td>SEC-SA</td><td>SEC-ERBA</td><td>INTERNAL ASSESS-MENT APPROACH</td><td>SPECIFIC TREATMENT FOR SENIOR TRANCHES OF QUALIFYING NPE SECURITI-SATIONS</td><td>OTHER (RW= 1 250 %)</td><td>WEIGHTED NET LONG POSITIONS</td><td>WEIGHTED NET SHORT POSITIONS</td><td>WEIGHTED NET LONG POSITIONS</td><td>WEIGHTED NET SHORT POSITIONS</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0071</td><td>0072</td><td>0073</td><td>0074</td><td>0075</td><td>0076</td><td>0077</td><td>0078</td><td>0079</td><td>0081</td><td>0082</td><td>0086</td><td>0087</td><td>0088</td><td>0089</td><td>0091</td><td>0092</td><td>0093</td><td>0094</td><td>0095</td><td>0096</td><td>0097</td><td>0402</td><td>0403</td><td>0404</td><td>0405</td><td>0900</td><td>0406</td><td>0410</td><td>0420</td><td>0430</td><td>0440</td><td>0450</td></tr>
+<tr><td>0010</td><td>TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to MKR SA TDI {0330:0060}</td></tr>
+<tr><td>  </td><td colspan="18">SECURITISATION POSITIONS:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0020</td><td>ORIGINATOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>OTHER CTP POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>INVESTOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>OTHER CTP POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>SPONSOR: TOTAL EXPOSURES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>SECURITISATIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>OTHER CTP POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td colspan="18">N-TH-TO-DEFAULT CREDIT DERIVATIVES:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>N-TH-TO-DEFAULT CREDIT DERIVATIVES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0120</td><td>OTHER CTP POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 21.00 - MARKET RISK: STANDARDISED APPROACH FOR POSITION RISK IN EQUITIES (MKR SA EQU)
+
+National market: [image]
+
+<table>
+<tbody><tr><td colspan="2" rowspan="5">  </td><td colspan="5">POSITIONS</td><td rowspan="4">OWN FUNDS REQUIREMENTS</td><td rowspan="4">TOTAL RISK EXPOSURE AMOUNT</td></tr>
+<tr><td colspan="2">ALL POSITIONS</td><td colspan="2" rowspan="2">NET POSITIONS</td><td rowspan="3">POSITIONS SUBJECT TO CAPITAL CHARGE</td></tr>
+<tr><td rowspan="2">LONG</td><td rowspan="2">SHORT</td></tr>
+<tr><td>LONG</td><td>SHORT</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td></tr>
+<tr><td>0010</td><td>EQUITIES IN TRADING BOOK</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to CA</td></tr>
+<tr><td>0020</td><td>General risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0021</td><td>Derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0022</td><td>Other assets and liabilities</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Exchange traded stock-index futures broadly diversified subject to particular approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Other equities than exchange traded stock-index futures broadly diversified</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Specific risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>Additional requirements for options (non-delta risks)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>Simplified method</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>Delta plus approach - additional requirements for gamma risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0120</td><td>Delta plus approach - additional requirements for vega risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0125</td><td>Delta plus approach - non-continuous options and warrants</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0130</td><td>Scenario matrix approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 22.00 - MARKET RISK: STANDARDISED APPROACHES FOR FOREIGN EXCHANGE RISK (MKR SA FX)
+
+<table>
+<tbody><tr><td colspan="2" rowspan="3">  </td><td colspan="2">ALL POSITIONS</td><td colspan="2">NET POSITIONS</td><td colspan="3">POSITIONS SUBJECT TO CAPITAL CHARGE (Including redistribution of unmatched positions in non-reporting currencies subject to special treatment for matched positions) </td><td rowspan="2">OWN FUNDS REQUIREMENTS</td><td rowspan="2">TOTAL RISK EXPOSURE AMOUNT</td></tr>
+<tr><td>LONG</td><td>SHORT</td><td>LONG</td><td>SHORT</td><td>LONG</td><td>SHORT</td><td>MATCHED</td></tr>
+<tr><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to CA</td></tr>
+<tr><td>0020</td><td>Currencies closely correlated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0025</td><td>of which: reporting currency</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>All other currencies (including CIUs treated as different currencies)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Gold</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Additional requirements for options (non-delta risks)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Simplified method</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>Delta plus approach - additional requirements for gamma risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>Delta plus approach - additional requirements for vega risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0085</td><td>Delta plus approach - non-continuous options and warrants</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>Scenario matrix approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">BREAKDOWN OF TOTAL POSITIONS (REPORTING CURRENCY INCLUDED) BY EXPOSURE TYPES</td></tr>
+<tr><td>0100</td><td>Other assets and liabilities other than off-balance sheet items and derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>Off-balance sheet items</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0120</td><td>Derivatives</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">Memorandum items: CURRENCY POSITIONS</td></tr>
+<tr><td>0130</td><td>Euro</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0140</td><td>Lek</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0150</td><td>Argentine Peso</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0160</td><td>Australian Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0170</td><td>Brazilian Real</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0180</td><td>Bulgarian Lev</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0190</td><td>Canadian Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0200</td><td>Czech Koruna</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0210</td><td>Danish Krone</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0220</td><td>Egyptian Pound</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0230</td><td>Pound Sterling</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0240</td><td>Forint</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0250</td><td>Yen</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0280</td><td>Denar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0290</td><td>Mexican Peso</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0300</td><td>Zloty</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0310</td><td>Rumanian Leu</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0320</td><td>Russian Ruble</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0330</td><td>Serbian Dinar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0340</td><td>Swedish Krona</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0350</td><td>Swiss Franc</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0360</td><td>Turkish Lira</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0370</td><td>Hryvnia</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0380</td><td>US Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0390</td><td>Iceland Krona</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0400</td><td>Norwegian Krone</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0410</td><td>Hong Kong Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0420</td><td>New Taiwan Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0430</td><td>New Zealand Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0440</td><td>Singapore Dollar</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0450</td><td>Won</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0460</td><td>Yuan Renminbi</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0470</td><td>Other</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 23.00 - MARKET RISK: STANDARDISED APPROACHES FOR COMMODITIES (MKR SA COM)
+
+<table>
+<tbody><tr><td colspan="2" rowspan="4">  </td><td colspan="2">ALL POSITIONS</td><td colspan="2" rowspan="2">NET POSITIONS</td><td rowspan="3">POSITIONS SUBJECT TO CAPITAL CHARGE</td><td rowspan="3">OWN FUNDS REQUIREMENTS</td><td rowspan="3">TOTAL RISK EXPOSURE AMOUNT</td></tr>
+<tr><td rowspan="2">LONG</td><td rowspan="2">SHORT</td></tr>
+<tr><td>LONG</td><td>SHORT</td></tr>
+<tr><td>0010</td><td>0020</td><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS IN COMMODITIES</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to CA</td></tr>
+<tr><td>0020</td><td>Precious metals (except gold)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>Base metals</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>Agricultural products (softs)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Others</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Of which energy products (oil, gas)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>Maturity ladder approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>Extended maturity ladder approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>Simplified approach: All positions</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>Additional requirements for options (non-delta risks)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>Simplified method</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0120</td><td>Delta plus approach - additional requirements for gamma risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0130</td><td>Delta plus approach - additional requirements for vega risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0135</td><td>Delta plus approach - non-continuous options and warrants</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0140</td><td>Scenario matrix approach</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+C 24.00 - MARKET RISK INTERNAL MODELS (MKR IM)
+
+<table>
+<tbody><tr><td colspan="2" rowspan="3">  </td><td colspan="2">VaR</td><td colspan="2">STRESSED VaR</td><td colspan="2">INCREMENTAL DEFAULT AND MIGRATION RISK CAPITAL CHARGE</td><td colspan="3">ALL PRICE RISKS CAPITAL CHARGE FOR CTP</td><td rowspan="2">OWN FUNDS REQUIREMENTS</td><td rowspan="2">TOTAL RISK EXPOSURE AMOUNT</td><td rowspan="2">Number of overshootings during previous 250 working days</td><td rowspan="2">VaR Multiplication Factor (mc)</td><td rowspan="2">SVaR Multiplication Factor (ms)</td><td rowspan="2">ASSUMED CHARGE FOR CTP FLOOR - WEIGHTED NET LONG POSITIONS AFTER CAP</td><td rowspan="2">ASSUMED CHARGE FOR CTP FLOOR - WEIGHTED NET SHORT POSITIONS AFTER CAP</td></tr>
+<tr><td>MULTIPLICATION FACTOR (mc) x AVERAGE OF PREVIOUS 60 WORKING DAYS (VaRavg)</td><td>PREVIOUS DAY (VaRt-1)</td><td>MULTIPLICATION FACTOR (ms) x AVERAGE OF PREVIOUS 60 WORKING DAYS (SVaRavg)</td><td>LATEST AVAILABLE (SVaRt-1)</td><td>12 WEEKS AVERAGE MEASURE</td><td>LAST MEASURE</td><td>FLOOR</td><td>12 WEEKS AVERAGE MEASURE</td><td>LAST MEASURE</td></tr>
+<tr><td>0030</td><td>0040</td><td>0050</td><td>0060</td><td>0070</td><td>0080</td><td>0090</td><td>0100</td><td>0110</td><td>0120</td><td>0130</td><td>0140</td><td>0150</td><td>0160</td><td>0170</td><td>0180</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Cell linked to CA</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td colspan="17">Memorandum items: BREAKDOWN OF MARKET RISK</td></tr>
+<tr><td>0020</td><td>Traded debt instruments</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0030</td><td>TDI - General risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0040</td><td>TDI - Specific Risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0050</td><td>Equities</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0060</td><td>Equities - General risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0070</td><td>Equities - Specific Risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0080</td><td>Foreign Exchange risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0090</td><td>Commodities risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0100</td><td>Total amount for general risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>0110</td><td>Total amount for specific risk</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX XI — INSTRUCTIONS FOR REPORTING OF RtM K-FACTOR REQUIREMENT ON THE BASIS OF K-NPR
+
+<table>
+<tr><td colspan="2">Table of Contents</td></tr>
+<tr><td>PART I:</td><td>GENERAL INSTRUCTIONS</td></tr>
+<tr><td>1.</td><td>CONVENTIONS</td></tr>
+<tr><td>1.1.</td><td>Numbering convention</td></tr>
+<tr><td>1.2.</td><td>Sign convention</td></tr>
+<tr><td>1.3.</td><td>References to Regulation (EU) No 575/2013</td></tr>
+<tr><td>PART II:</td><td>TEMPLATE RELATED INSTRUCTIONS: MARKET RISK TEMPLATES</td></tr>
+<tr><td>1.</td><td>GENERAL REMARKS</td></tr>
+<tr><td>2.</td><td>C 18.00 – MARKET RISK: STANDARDISED APPROACH FOR POSITION RISKS IN TRADED DEBT INSTRUMENTS (MKR SA TDI)</td></tr>
+<tr><td>2.1.</td><td>General Remarks</td></tr>
+<tr><td>2.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>3.</td><td>C 19.00 – MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN SECURITISATIONS (MKR SA SEC)</td></tr>
+<tr><td>3.1.</td><td>General Remarks</td></tr>
+<tr><td>3.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>4.</td><td>C 20.00 – MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK FOR POSITIONS ASSIGNED TO THE CORRELATION TRADING PORTFOLIO (MKR SA CTP)</td></tr>
+<tr><td>4.1.</td><td>General Remarks</td></tr>
+<tr><td>4.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>5.</td><td>C 21.00 – MARKET RISK: STANDARDISED APPROACH FOR POSITION RISK IN EQUITIES (MKR SA EQU)</td></tr>
+<tr><td>5.1.</td><td>General Remarks</td></tr>
+<tr><td>5.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>6.</td><td>C 22.00 – MARKET RISK: STANDARDISED APPROACHES FOR FOREIGN EXCHANGE RISK (MKR SA FX)</td></tr>
+<tr><td>6.1.</td><td>General Remarks</td></tr>
+<tr><td>6.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>7.</td><td>C 23.00 – MARKET RISK: STANDARDISED APPROACHES FOR COMMODITIES (MKR SA COM)</td></tr>
+<tr><td>7.1.</td><td>General Remarks</td></tr>
+<tr><td>7.2.</td><td>Instructions concerning specific positions</td></tr>
+<tr><td>8.</td><td>C 24.00 – MARKET RISK INTERNAL MODEL (MKR IM)</td></tr>
+<tr><td>8.1.</td><td>General Remarks</td></tr>
+<tr><td>8.2.</td><td>Instructions concerning specific positions</td></tr>
+</table>
+
+**PART I: GENERAL INSTRUCTIONS**
+
+**1\. CONVENTIONS**
+
+**1.1. Numbering convention**
+
+1\. The document follows the labelling convention set in points 2 to 5, when referring to the columns, rows and cells of the templates. Those numerical codes are extensively used in the validation rules.
+
+2\. The following general notation is followed in the instructions: {Template; Row; Column}.
+
+3\. In the case of validations inside a template, in which only data points of that template are used, notations do not refer to a template: {Row; Column}.
+
+4\. In the case of templates with only one column, only rows are referred to. {Template; Row}.
+
+5\. An asterisk sign is used to express that the validation is done for the rows or columns specified before.
+
+**1.2. Sign convention**
+
+6\. Any amount that increases the own funds or the capital requirements shall be reported as a positive figure. On the contrary, any amount that reduces the total own funds or the capital requirements shall be reported as a negative figure. Where there is a negative sign (-) preceding the label of an item, no positive figure is expected to be reported for that item.
+
+**1.3. References to Regulation (EU) No 575/2013**
+
+7\. All references to Articles 325 to Article 377 of Regulation (EU) No 575/2013 shall be read as references to the version of that Regulation in force on 26 June 2019.
+
+**PART II: TEMPLATE RELATED INSTRUCTIONS: MARKET RISK TEMPLATES**
+
+**1\. GENERAL REMARKS**
+
+8\. These instructions refer to the templates for the reporting of the calculation of own funds requirements in accordance with the Standardised Approach for foreign exchange risk (MKR SA FX), commodities risk (MKR SA COM), interest rate risk (MKR SA TDI, MKR SA SEC, MKR SA CTP) and equity risk (MKR SA EQU). Additionally, instructions for the template for the reporting of the calculation of own funds requirements in accordance with the internal models approach (MKR IM) are included in this part.
+
+9\. The position risk on a traded debt instrument or equity (or debt or equity derivative) shall be divided into two components to calculate the capital required against that position risk. The first component shall cover its specific-risk – that is the risk of a price change in the instrument concerned due to factors related to its issuer or, in the case of a derivative, the issuer of the underlying instrument. The second component shall cover its general risk – that is the risk of a price change in the instrument due (in the case of a traded debt instrument or debt derivative) to a change in the level of interest rates or (in the case of an equity or equity derivative) to a broad equity market movement unrelated to any specific attributes of individual securities. The general treatment of specific instruments and netting procedures is laid down in Articles 326 to 333 of Regulation (EU) No 575/2013.
+
+**2\. C 18.00 – MARKET RISK: STANDARDISED APPROACH FOR POSITION RISKS IN TRADED DEBT INSTRUMENTS (MKR SA TDI)**
+
+**2.1. General Remarks**
+
+10\. This template captures the positions and the related own funds requirements for position risks on traded debt instruments under the Standardised Approach (Article 325(2), point (a), of Regulation (EU) No 575/2013). The different risks and methods available under Regulation (EU) No 575/2013 are considered by rows. The specific risk associated with exposures included in MKR SA SEC and MKR SA CTP shall only be reported in the Total template of the MKR SA TDI. The own funds requirements reported in those templates shall be transferred to cell {0325;0060} (securitisations) and {0330;0060} (CTP) respectively.
+
+11\. This template shall be filled out separately for the ‘Total’, plus a pre-defined list of following currencies: EUR, ALL, BGN, CZK, DKK, EGP, GBP, HUF, ISK, JPY, MKD, NOK, PLN, RON, RUB, RSD, SEK, CHF, TRY, UAH, USD and one residual template for all other currencies.
+
+**2.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0010-0020</td><td>ALL POSITIONS (LONG AND SHORT) Article 102 and Article 105(1) of Regulation (EU) No 575/2013. Those are gross positions not netted by instruments but excluding underwriting positions subscribed or sub-underwritten by third parties in accordance with Article 345(1), first subparagraph, second sentence, of Regulation (EU) No 575/2013. Regarding the distinction between long and short positions, also applicable to those gross positions, see Article 328(2) of that Regulation. </td></tr>
+<tr><td>0030-0040</td><td>NET POSITIONS (LONG AND SHORT) Articles 327 to 329 and Article 334 of Regulation (EU) No 575/2013. Regarding the distinction between long and short positions, see Article 328(2) of that Regulation. </td></tr>
+<tr><td>0050</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE Those net positions that, in accordance with the different approaches in Part Three, Title IV, Chapter 2, of Regulation (EU) No 575/2013, receive a capital charge. </td></tr>
+<tr><td>0060</td><td>OWN FUNDS REQUIREMENTS The capital charge for any relevant position in accordance with Part Three, Title IV, Chapter 2, of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0070</td><td>TOTAL RISK EXPOSURE AMOUNT Article 92(6), point (b), of Regulation (EU) No 575/2013. Result of the multiplication of the own funds requirements by 12,5. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010-0350</td><td>TRADED DEBT INSTRUMENTS IN TRADING BOOK Positions in traded debt instruments in Trading Book and their corresponding own funds requirements for position risk in accordance with Article 92(4), point (b)(i), of Regulation (EU) No 575/2013 and of Part Three, Chapter 2, Title IV of that Regulation shall be reported depending on risk category, maturity and approach used. </td></tr>
+<tr><td>0011</td><td>GENERAL RISK</td></tr>
+<tr><td>0012</td><td>Derivatives Derivatives included in the calculation of interest rate risk of trading book positions, taking into account Articles 328 to 331 of Regulation (EU) No 575/2013, where applicable. </td></tr>
+<tr><td>0013</td><td>Other assets and liabilities Instruments other than derivatives included in the calculation of interest rate risk of trading book positions. </td></tr>
+<tr><td>0020-0200</td><td>MATURITY BASED APPROACH Positions in traded debt instruments subject to the maturity-based approach referred to in Article 339(1) to (8) of Regulation (EU) No 575/2013 and the corresponding own funds requirements calculated in accordance with Article 339(9) of that Regulation. The position shall be split by zones 1, 2 and 3 and those zones shall be split by the maturity of the instruments. </td></tr>
+<tr><td>0210-0240</td><td>GENERAL RISK. DURATION BASED APPROACH Positions in traded debt instruments subject to the duration-based approach referred to in Article 340(1) to (6) of Regulation (EU) No 575/2013 and the corresponding own funds requirements calculated in accordance with Article 340(7) of that Regulation. The position shall be split by zones 1, 2 and 3. </td></tr>
+<tr><td>0250</td><td>SPECIFIC RISK Sum of amounts reported in rows 0251, 0325 and 0330.  Positions in traded debt instruments subject to the specific risk capital requirements and their corresponding capital requirements in accordance with Article 92(3), point (b), Article 335, Article 336(1), (2) and (3) and Articles 337 and 338 of Regulation (EU) No 575/2013. Be also aware of the last sentence in Article 327(1) of that Regulation. </td></tr>
+<tr><td>0251-0321</td><td>Own funds requirement for non-securitisation debt instruments Sum of the amounts reported in rows 260 to 321.  The own funds requirement of the n-th to default credit derivatives which are not rated externally shall be calculated by summing up the risk weights of the reference entities (Article 332(1), point (e), and Article 332(1), second subparagraph, of Regulation (EU) No 575/2013 – ‘look-through’). N-th-to-default credit derivatives which are rated externally (Article 332(1), third subparagraph, of Regulation (EU) No 575/2013) shall be reported separately in row 321.  Reporting of positions subject to Article 336(3) of Regulation (EU) No 575/2013: There is a special treatment for bonds which qualify for a 10 % risk weight in the banking book in accordance with Article 129(3) of that Regulation (covered bonds). The specific own funds requirements shall be half of the percentage of the second category referred to in Article 336, Table 1 of Regulation (EU) No 575/2013. Those positions shall be assigned to rows 0280-0300 in accordance with the residual term to final maturity.  Where the general risk of interest rate positions is hedged by a credit derivative, Articles 346 and 347 of Regulation (EU) No 575/2013 shall apply. </td></tr>
+<tr><td>0325</td><td>Own funds requirement for securitisation instruments Total own funds requirements reported in column 0601 of template MKR SA SEC. Those total own funds requirements shall only be reported on Total level of the MKR SA TDI. </td></tr>
+<tr><td>0330</td><td>Own funds requirement for the correlation trading portfolio Total own funds requirements reported in column 0450 of template MKR SA CTP. Those total own funds requirements shall only be reported on Total level of the MKR SA TDI. </td></tr>
+<tr><td>0350-0390</td><td>ADDITIONAL REQUIREMENTS FOR OPTIONS (NON-DELTA RISKS) Article 329(3) of Regulation (EU) No 575/2013.  The additional requirements for options related to non-delta risks shall be reported broken down by the method used for their calculation. </td></tr>
+</tbody>
+</table>
+
+**3\. C 19.00 – MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK IN SECURITISATIONS (MKR SA SEC)**
+
+**3.1. General Remarks**
+
+12\. This template requests information on positions (all/net and long/short) and the related own funds requirements for the specific risk component of position risk in securitisations/re-securitisations held in the trading book (not eligible for correlation trading portfolio) under the Standardised Approach.
+
+13\. The MKR SA SEC template presents the own funds requirement only for the specific risk of securitisation positions in accordance with Article 335 of Regulation (EU) No 575/2013 in conjunction with Article 337 of that Regulation. Where securitisation positions of the trading book are hedged by credit derivatives, Articles 346 and 347 of Regulation (EU) No 575/2013 apply. There is only one template for all positions of the trading book, irrespective of the approach investment firms apply to determine the risk weight for each of the positions in accordance with Part Three, Title II, Chapter 5, of Regulation (EU) No 575/2013. The own funds requirements of the general risk of those positions shall be reported in the MKR SA TDI or the MKR IM template.
+
+14\. Positions which receive a risk weight of 1 250 % may alternatively be deducted from CET1 (see Article 244(1), point (b), Article 245(1), point (b), and Article 253 of Regulation (EU) No 575/2013). Those positions shall be reported in this template, even if the institution makes use of possibility to deduct.
+
+**3.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0010-0020</td><td>ALL POSITIONS (LONG AND SHORT) Article 102 and Article 105(1) of Regulation (EU) No 575/2013 in conjunction with Article 337 of that Regulation (securitisation positions). Regarding the distinction between long and short positions, also applicable to those gross positions, see Article 328(2) of that Regulation. </td></tr>
+<tr><td>0030-0040</td><td>(-) POSITIONS DEDUCTED FROM OWN FUNDS (LONG AND SHORT) Article 244(1), point (b), Article 245(1), point (b), and Article 253 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050-0060</td><td>NET POSITIONS (LONG AND SHORT) Articles 327, 328, 329 and 334 of Regulation (EU) No 575/2013. Regarding the distinction between long and short positions, see Article 328(2) of that Regulation. </td></tr>
+<tr><td>0061-0104</td><td>BREAKDOWN OF THE NET POSITIONS BY RISK WEIGHTS Articles 259 to 262, Article 263, Tables 1 and 2, Article 264, Tables 3 and 4 and Article 266 of Regulation (EU) No 575/2013.  The breakdown shall be done separately for long and short positions. </td></tr>
+<tr><td>0402-0406</td><td>BREAKDOWN OF THE NET POSITIONS BY APPROACHES Article 254 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0402</td><td>SEC-IRBA Article 259 and 260 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0403</td><td>SEC-SA Article 261 and 262 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0404</td><td>SEC-ERBA Article 263 and 264 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0405</td><td>INTERNAL ASSESSMENT APPROACH Articles 254 and 265 and Article 266(5) of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0900</td><td>SPECIFIC TREATMENT FOR SENIOR TRANCHES OF QUALIFYING NPE SECURITISATIONS Article 269a (3) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0406</td><td>OTHER (RW = 1 250 %) Article 254(7) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0530-0540</td><td>OVERALL EFFECT (ADJUSTMENT) DUE TO INFRINGEMENT OF CHAPTER 2 OF REGULATION (EU) 2017/2402 Article 270a of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0570</td><td>BEFORE CAP Article 337 of Regulation (EU) No 575/2013, without taking into account the discretion set out in Article 335 of that Regulation that allows an institution to cap the product of the weight and the net position at the maximum possible default-risk related loss. </td></tr>
+<tr><td>0601</td><td>AFTER CAP / TOTAL OWN FUND REQUIREMENTS Article 337 of Regulation (EU) No 575/2013, taking into account the discretion set out in Article 335 of that Regulation. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010</td><td>TOTAL EXPOSURES Total amount of outstanding securitisations and re-securitisations (held in the trading book) reported by the institution playing the role of originator or investor or sponsor. </td></tr>
+<tr><td>0040, 0070 and 0100</td><td>SECURITISATION POSITIONS Article 4(1), point (62), of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0020, 0050, 0080 and 0110</td><td>RE-SECURITISATIONS POSITIONS Article 4(1), point (64), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0041, 0071 and 0101</td><td>OF WHICH: QUALIFYING FOR DIFFERENTIATED CAPITAL TREATMENT Total amount of securitisation positions which fulfil the criteria set out in Article 243 or Article 270 of Regulation (EU) No 575/2013 and therefore qualify for differentiated capital treatment. </td></tr>
+<tr><td>0030-0050</td><td>ORIGINATOR Article 4(1), point (13), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0060-0080</td><td>INVESTOR Credit institution that holds a securitisation position in a securitisation transaction for which it is neither originator, sponsor nor original lender. </td></tr>
+<tr><td>0090-0110</td><td>SPONSOR Article 4(1), point (14), of Regulation (EU) No 575/2013.  A sponsor that also securitises its own assets shall fill in the originator’s rows with the information regarding its own securitised assets. </td></tr>
+</tbody>
+</table>
+
+**4\. C 20.00 – MARKET RISK: STANDARDISED APPROACH FOR SPECIFIC RISK FOR POSITIONS ASSIGNED TO THE CORRELATION TRADING PORTFOLIO (MKR SA CTP)**
+
+**4.1. General Remarks**
+
+15\. This template requests information on positions of the Correlation Trading Portfolio (CTP) (comprising securitisations, nth-to-default credit derivatives and other CTP positions included in accordance with Article 338(3) of Regulation (EU) No 575/2013) and the corresponding own funds requirements under the Standardised Approach.
+
+16\. The MKR SA CTP template presents the own funds requirement only for the specific risk of positions assigned to the CTP in accordance with Article 335 of Regulation (EU) No 575/2013 in conjunction with Article 338(2) and (3) of that Regulation. If CTP-positions of the trading book are hedged by credit derivatives, Articles 346 and 347 of Regulation (EU) No 575/2013 apply. There is only one template for all CTP-positions of the trading book, irrespective of the approach investment firms apply to determine the risk weight for each of the positions in accordance with Part Three, Title II, Chapter 5, of Regulation (EU) No 575/2013. The own funds requirements for the general risk of those positions are reported in the MKR SA TDI or the MKR IM template.
+
+17\. This template separates securitisation positions, n-th to default credit derivatives and other CTP-positions. Securitisation positions shall always be reported in rows 0030, 0060 or 0090 (depending on the role of the institution in the securitisation). N-th to default credit derivatives shall always be reported in row 0110. The ‘other CTP-positions’ are positions that are neither securitisation positions nor n-th to default credit derivatives (see Article 338(3) of Regulation (EU) No 575/2013), but they are explicitly ‘linked’ to one of those two positions (because of the hedging intent).
+
+18\. Positions which receive a risk weight of 1 250 % may alternatively be deducted from CET1 (see Article 244(1), point (b), Article 245(1), point (b), and Article 253 of Regulation (EU) No 575/2013). Those positions shall be reported in this template, even if the institution makes use of possibility to deduct.
+
+**4.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0010-0020</td><td>ALL POSITIONS (LONG AND SHORT) Article 102 and Article 105(1) of Regulation (EU) No 575/2013 in conjunction with Article 338(2) and (3) of that Regulation (positions assigned to the Correlation Trading Portfolio)  Regarding the distinction between long and short positions, also applicable to those gross positions, see Article 328(2) of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0030-0040</td><td>(-) POSITIONS DEDUCTED FROM OWN FUNDS (LONG AND SHORT) Article 253 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050-0060</td><td>NET POSITIONS (LONG AND SHORT) Articles 327, 328, 329 and 334 of Regulation (EU) No 575/2013  Regarding the distinction between long and short positions, see Article 328(2) of that Regulation. </td></tr>
+<tr><td>0071-0097</td><td>BREAKDOWN OF THE NET POSITIONS BY RISK WEIGHTS Articles 259 to 262, Article 263, Tables 1 and 2, Article 264, Tables 3 and 4, and Article 266 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0402-0406</td><td>BREAKDOWN OF THE NET POSITIONS BY APPROACHES Article 254 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0402</td><td>SEC-IRBA Articles 259 and 260 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0403</td><td>SEC-SA Articles 261 and 262 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0404</td><td>SEC-ERBA Articles 263 and 264 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0405</td><td>INTERNAL ASSESSMENT APPROACH Articles 254 and 265 and Article 266(5) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0900</td><td>SPECIFIC TREATMENT FOR SENIOR TRANCHES OF QUALIFYING NPE SECURITISATIONS Article 269a(3) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0406</td><td>OTHER (RW=1 250 %) Article 254(7) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0410-0420</td><td>BEFORE CAP - WEIGHTED NET LONG / SHORT POSITIONS Article 338 of Regulation (EU) No 575/2013, without taking into account the discretion set out in Article 335 of that Regulation </td></tr>
+<tr><td>0430-0440</td><td>AFTER CAP - WEIGHTED NET LONG / SHORT POSITIONS Article 338 of Regulation (EU) No 575/2013, taking into account the discretion set out in Article 335 of that Regulation </td></tr>
+<tr><td>0450</td><td>TOTAL OWN FUNDS REQUIREMENTS The own funds requirement is determined as the larger of either of the following:  (a) the specific risk charge that would apply just to the net long positions (column 0430);  (b) the specific risk charge that would apply just to the net short positions (column 0440). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010</td><td>TOTAL EXPOSURES Total amount of outstanding positions (held in the correlation trading portfolio) reported by the institution playing the role of originator, investor or sponsor. </td></tr>
+<tr><td>0020-0040</td><td>ORIGINATOR Article 4(1), point (13), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050-0070</td><td>INVESTOR Credit institution that holds a securitisation position in a securitisation transaction for which it is neither originator, sponsor nor original lender </td></tr>
+<tr><td>0080-0100</td><td>SPONSOR Article 4(1), point (14), of Regulation (EU) No 575/2013  A sponsor that also securitises its own assets shall fill in the originator’'s rows with the information regarding its own securitised assets. </td></tr>
+<tr><td>0030, 0060 and 0090</td><td>SECURITISATION POSITIONS The correlation trading portfolio shall comprise securitisations, n-th-to-default credit derivatives and possibly other hedging positions that meet the criteria set out in Article 338(2) and (3) of Regulation (EU) No 575/2013.  Derivatives of securitisation exposures that provide a pro-rata share as well as positions hedging CTP positions shall be included in row ‘Other CTP positions’. </td></tr>
+<tr><td>0110</td><td>N-TH-TO-DEFAULT CREDIT DERIVATIVES N-th to default credit derivatives that are hedged by n-th-to-default credit derivatives in accordance with Article 347 of Regulation (EU) No 575/2013 shall both be reported here.  The positions originator, investor and sponsor do not fit for n-th to default credit derivatives. As a consequence, the breakdown as for securitisation positions shall not be provided for n-th to default credit derivatives. </td></tr>
+<tr><td>0040, 0070, 0100 and 0120</td><td>OTHER CTP POSITIONS The following positions are included:  (a) derivatives of securitisation exposures that provide a pro-rata share, as well as positions hedging CTP positions;  (b) CTP positions hedged by credit derivatives in accordance with Article 346 of Regulation (EU) No 575/2013;  (c) other positions that satisfy Article 338(3) of Regulation (EU) No 575/2013. </td></tr>
+</tbody>
+</table>
+
+**5\. C 21.00 – MARKET RISK: STANDARDISED APPROACH FOR POSITION RISK IN EQUITIES (MKR SA EQU)**
+
+**5.1. General Remarks**
+
+19\. This template requests information on the positions and the corresponding own funds requirements for position risk in equities held in the trading book and treated under the Standardised Approach.
+
+20\. This template shall be filled out separately for the ‘Total’, plus a static, pre-defined list of the following markets: Bulgaria, Czech Republic, Denmark, Egypt, Hungary, Iceland, Liechtenstein, Norway, Poland, Romania, Sweden, United Kingdom, Albania, Japan, Former Yugoslav Republic of Macedonia, Russian Federation, Serbia, Switzerland, Turkey, Ukraine, USA, Euro Area plus one residual template for all other markets. For this reporting requirement, the term ‘market’ shall be read as ‘country’ (except for countries belonging to the Euro Area, see Commission Delegated Regulation (EU) No 525/2014 ( 2 )).
+
+**5.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0010-0020</td><td>ALL POSITIONS (LONG AND SHORT) Article 102 and Article 105(1) of Regulation (EU) No 575/2013.  Those are gross positions not netted by instruments but excluding underwriting positions subscribed or sub-underwritten by third parties as referred to in Article 345(1), first subparagraph, second sentence of that Regulation. </td></tr>
+<tr><td>0030-0040</td><td>NET POSITIONS (LONG AND SHORT) Articles 327, 329, 332, 341 and 345 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0050</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE Those net positions that, in accordance with the different approaches considered in Part Three, Title IV, Chapter 2, of Regulation (EU) No 575/2013 receive a capital charge. The capital charge shall be calculated for each national market separately. Positions in stock-index futures as referred to in 344(4), second sentence, of Regulation (EU) No 575/2013 shall not be included in this column. </td></tr>
+<tr><td>0060</td><td>OWN FUNDS REQUIREMENTS The own funds requirement in accordance with Part Three, Title IV, Chapter 2, of Regulation (EU) No 575/2013 for any relevant position </td></tr>
+<tr><td>0070</td><td>TOTAL RISK EXPOSURE AMOUNT Article 92(6), point (b), of Regulation (EU) No 575/2013.  Result of the multiplication of the own funds requirements by 12,5. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010-0130</td><td>EQUITIES IN TRADING BOOK Own funds requirements for position risk as referred to in Article 92(3), point (b)(i), of Regulation (EU) No 575/2013, and Part Three, Title IV, Chapter 2, Section 3, of that Regulation </td></tr>
+<tr><td>0020-0040</td><td>GENERAL RISK Positions in equities subject to general risk (Article 343 of Regulation (EU) No 575/2013) and their corresponding own funds requirement in accordance with Part Three, Title IV, Chapter 2, Section 3, of that Regulation  Both breakdowns (rows 0021/0022 as well as rows 0030/0040) are a breakdown related to all positions subject to general risk.  Rows 0021 and 0022 request information on the breakdown by instruments.  Only the breakdown in rows 0030 and 0040 shall be used as a basis for the calculation of own funds requirements. </td></tr>
+<tr><td>0021</td><td>Derivatives Derivatives included in the calculation of equity risk of trading book positions taking into account Articles 329 and 332 of Regulation (EU) No 575/2013, where applicable </td></tr>
+<tr><td>0022</td><td>Other assets and liabilities Instruments other than derivatives included in the calculation of equity risk of trading book positions. </td></tr>
+<tr><td>0030</td><td>Exchange traded stock-index futures broadly diversified and subject to a particular approach Exchange traded stock-index futures broadly diversified and subject to a particular approach in accordance with Commission Implementing Regulation (EU) No 945/2014 (1)  Those positions shall be only subject to general risk and, accordingly, shall not be reported in row 0050. </td></tr>
+<tr><td>0040</td><td>Other equities than exchange traded stock-index futures broadly diversified Other positions in equities subject to specific risk and the corresponding own funds requirements in accordance with Article 343 of Regulation (EU) No 575/2013, including positions in stock index futures treated in accordance with Article 344(3) of that Regulation </td></tr>
+<tr><td>0050</td><td>SPECIFIC RISK Positions in equities subject to specific risk and the corresponding own funds requirement in accordance with Article 342 of Regulation (EU) No 575/2013, excluding positions in stock-index futures treated in accordance with Article 344(4), second sentence, of that Regulation </td></tr>
+<tr><td>0090-0130</td><td>ADDITIONAL REQUIREMENTS FOR OPTIONS (NON-DELTA RISKS) Article 329(2) and (3) of Regulation (EU) No 575/2013  The additional requirements for options related to non-delta risks shall be reported in the method used for its calculation. </td></tr>
+<tr><td colspan="2">(1)  Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013 of the European Parliament and of the Council (OJ L 265, 5.9.2014, p. 3, ELI: http://data.europa.eu/eli/reg_impl/2014/945/oj). </td></tr>
+</tbody>
+</table>
+
+**6\. C 22.00 – MARKET RISK: STANDARDISED APPROACHES FOR FOREIGN EXCHANGE RISK (MKR SA FX)**
+
+**6.1. General Remarks**
+
+21\. Investment firms shall report information on the positions in each currency (reporting currency included) and the corresponding own funds requirements for foreign exchange risk treated under the Standardised Approach. The position shall be calculated for each currency (including EUR), gold, and positions to CIUs.
+
+22\. Rows 0100 to 0470 of this template shall be reported, where the investment firms have the permission to perform activities 3 or 6 of Annex I, Section A, to Directive 2014/65/EU of the European Parliament and of the Council ( 3 ), even where those investment firms are not required to calculate own funds requirements for foreign exchange risk in accordance with Article 351 of Regulation (EU) No 575/2013. In those memorandum items, all the positions in the reporting currency are included in rows 0100 to 0470, irrespective of whether they are considered for the purposes of Article 354 of Regulation (EU) No 575/2013. Rows 0130 to 0470 of the memorandum items of the template shall be filled out separately for all currencies of the Member States of the Union, the currencies GBP, USD, CHF, JPY, RUB, TRY, AUD, CAD, RSD, ALL, UAH, MKD, EGP, ARS, BRL, MXN, HKD, ICK, TWD, NZD, NOK, SGD, KRW, CNY and all other currencies.
+
+**6.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0020-0030</td><td>ALL POSITIONS (LONG AND SHORT) Gross positions due to assets, amounts to be received and similar items referred to in Article 352(1) of Regulation (EU) No 575/2013  In accordance with Article 352(2) of Regulation (EU) No 575/2013 and subject to permission from competent authorities, positions taken to hedge against the adverse effect of the exchange rate on their ratios in accordance with Article 92(1) of that Regulation and positions related to items that are already deducted in the calculation of own funds shall not be reported. </td></tr>
+<tr><td>0040-0050</td><td>NET POSITIONS (LONG AND SHORT) Article 352(3), Article 352(4), first two sentences, and Article 353 of Regulation (EU) No 575/2013  The net positions are calculated by each currency in accordance with Article 352(1) of that Regulation. Consequently, both long and short positions may be reported at the same time. </td></tr>
+<tr><td>0060-0080</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE Article 352(4), third sentence, and Articles 353 and 354 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0060-0070</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE (LONG AND SHORT) The long and short net positions for each currency shall be calculated by deducting the total of short positions from the total of long positions.  Long net positions for each operation in a currency shall be added to obtain the long net position in that currency.  Short net positions for each operation in a currency shall be added to obtain the short net position in that currency.  Unmatched positions in non-reporting currencies shall be added to positions subject to capital charges for other currencies (row 030) in column 060 or 070, depending on their short or long arrangement. </td></tr>
+<tr><td>0080</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE (MATCHED) Matched positions for closely correlated currencies. </td></tr>
+<tr><td>0090</td><td>OWN FUNDS REQUIREMENTS The capital charge for any relevant position in accordance with Part Three, Title IV, Chapter 3, of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0100</td><td>TOTAL RISK EXPOSURE AMOUNT Article 92(6), point (b), of Regulation (EU) No 575/2013.  Result of the multiplication of the own funds requirements by 12,5. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS All positions in non-reporting currencies and those positions in the reporting currency that are considered for the purposes of Article 354 of Regulation (EU) No 575/2013 and their corresponding own funds requirements for the foreign-exchange risk referred to in Article 92(3), point (c)(i), of that Regulation, taking into account Article 352(2) and (4) of Regulation (EU) No 575/2013 (for conversion into the reporting currency). </td></tr>
+<tr><td>0020</td><td>CURRENCIES CLOSELY CORRELATED Positions and their corresponding own funds requirements for closely correlated currencies as referred to in Article 354 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0025</td><td>Currencies closely correlated: of which: reporting currency Positions in the reporting currency which contribute to the calculation of the capital requirements in accordance with Article 354 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0030</td><td>ALL OTHER CURRENCIES (including CIUs treated as different currencies) Positions and their corresponding own funds requirements for currencies subject to the general procedure referred to in Article 351 and Article 352(2) and (4) of Regulation (EU) No 575/2013.  Reporting of CIUs treated as separate currencies in accordance with Article 353 of Regulation (EU) No 575/2013:  There are two different treatments of CIUs treated as separate currencies for calculating the capital requirements:  (a) the modified gold method, where the direction of the CIUs investment is not available (those CIUs shall be added to an institution’s overall net foreign-exchange position);  (b) where the direction of the CIUs investment is available, those CIUs shall be added to the total open foreign exchange position (long or short, depending on the direction of the CIU).  The reporting of those CIUs shall follow the calculation of the capital requirements. </td></tr>
+<tr><td>0040</td><td>GOLD Positions and their corresponding own funds requirements for currencies subject to the general procedure referred to in Article 351 and Article 352(2) and (4) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050 - 0090</td><td>ADDITIONAL REQUIREMENTS FOR OPTIONS (NON-DELTA RISKS) Article 352(5) and (6) of Regulation (EU) No 575/2013  The additional requirements for options related to non-delta risks shall be reported broken down by the method used for their calculation. </td></tr>
+<tr><td>0100-0120</td><td>Breakdown of total positions (reporting currency included) by exposure types Total positions shall be broken down into derivatives, other assets and liabilities, and off-balance sheet items. </td></tr>
+<tr><td>0100</td><td>Other assets and liabilities other than off-balance sheet items and derivatives Positions not included in row 0110 or 0120 shall be included here. </td></tr>
+<tr><td>0110</td><td>Off-balance sheet items Items within the scope of Article 352 of Regulation (EU) No 575/2013, irrespective of the currency of denomination, which are included in Annex I to that Regulation, except those included as Securities Financing Transactions & Long Settlement Transactions or from Contractual Cross Product Netting. </td></tr>
+<tr><td>0120</td><td>Derivatives Positions valued in accordance with Article 352 of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0130-0470</td><td>MEMORANDUM ITEMS: CURRENCY POSITIONS The memorandum items of the template shall be filled in separately for all currencies of the member states of the Union, GBP, USD, CHF, JPY, RUB, TRY, AUD, CAD, RSD, ALL, UAH, MKD, EGP, ARS, BRL, MXN, HKD, ICK, TWD, NZD, NOK, SGD, KRW, CNY and all other currencies.  Positions in gold and positions in CIUs treated as a separate currency in accordance with Article 353(3) of Regulation (EU) No 575/2013 shall be included in row 0470. </td></tr>
+</tbody>
+</table>
+
+**7\. C 23.00 – MARKET RISK: STANDARDISED APPROACHES FOR COMMODITIES (MKR SA COM)**
+
+**7.1. General Remarks**
+
+23\. This template request information on the positions in commodities and the corresponding own funds requirements treated under the Standardised Approach.
+
+**7.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0010-0020</td><td>All POSITIONS (LONG AND SHORT) Gross long/short positions considered positions in the same commodity in accordance with Article 357(4) of Regulation (EU) No 575/2013 (see also Article 359(1) of that Regulation) </td></tr>
+<tr><td>0030-0040</td><td>NET POSITIONS (LONG AND SHORT) As referred to in Article 357(3) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050</td><td>POSITIONS SUBJECT TO CAPITAL CHARGE Those net positions that, in accordance with the different approaches considered in Part Three, Title IV, Chapter 4, of Regulation (EU) No 575/2013 receive a capital charge. </td></tr>
+<tr><td>0060</td><td>OWN FUNDS REQUIREMENTS The own funds requirement calculated in accordance with Part Three, Title IV, Chapter 4, of Regulation (EU) No 575/2013 for any relevant position </td></tr>
+<tr><td>0070</td><td>TOTAL RISK EXPOSURE AMOUNT Article 92(6), point (b), of Regulation (EU) No 575/2013.  Result of the multiplication of the own funds requirements by 12,5 </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS IN COMMODITIES Positions in commodities and their corresponding own funds requirements for market risk calculated in accordance with Article 92(4), point (c), of Regulation (EU) No 575/2013 and Part Three, Title IV, Chapter 4, of that Regulation </td></tr>
+<tr><td>0020-0060</td><td>POSITIONS BY CATEGORY OF COMMODITY For reporting purposes, commodities shall be grouped in the four groups of commodities referred to in Article 361, Table 2, of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0070</td><td>MATURITY LADDER APPROACH Positions in commodities subject to the maturity ladder approach referred to in Article 359 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0080</td><td>EXTENDED MATURITY LADDER APPROACH Positions in commodities subject to the extended maturity ladder approach referred to in Article 361 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0090</td><td>SIMPLIFIED APPROACH Positions in commodities subject to the simplified approach referred to in Article 360 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0100-0140</td><td>ADDITIONAL REQUIREMENTS FOR OPTIONS (NON-DELTA RISKS) Article 358(4) of Regulation (EU) No 575/2013  The additional requirements for options related to non-delta risks shall be reported in the method used for its calculation. </td></tr>
+</tbody>
+</table>
+
+**8\. C 24.00 – MARKET RISK INTERNAL MODEL (MKR IM)**
+
+**8.1. General Remarks**
+
+24\. This template provides a breakdown of VaR and stressed VaR (sVaR) figures by the different market risks (debt, equity, FX, commodities) and other information relevant for the calculation of the own funds requirements.
+
+25\. Generally, it depends on the structure of the model of the investment firms whether the figures for general and specific risk may be determined and reported separately or only as a total. The same holds true for the decomposition of the VaR /Stress-VaR into the risk categories (interest rate risk, equity risk, commodities risk and foreign exchange risk). An institution may refrain from reporting those decompositions if that institution proves that reporting those figures would be unduly burdensome.
+
+**8.2. Instructions concerning specific positions**
+
+<table>
+<tbody><tr><td colspan="2">Columns</td></tr>
+<tr><td>0030-0040</td><td>Value at Risk (VaR) VaR means the maximum potential loss that would result from a price change with a given probability over a specific time horizon. </td></tr>
+<tr><td>0030</td><td>Multiplication factor (mc) x Average of previous 60 working days VaR (VaRavg) Article 364(1), point (a)(ii), and Article 365(1) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0040</td><td>Previous day VaR (VaRt-1) Article 364(1), point (a)(i), and Article 365(1) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050-0060</td><td>Stressed VaR Stressed VaR means the maximum potential loss that would result from a price change with a given probability over a specific time horizon obtained by using input calibrated to historical data from a continuous 12-months period of financial stress relevant to the institution’s portfolio. </td></tr>
+<tr><td>0050</td><td>Multiplication factor (ms) x Average of previous 60 working days (SVaRavg) Article 364(1), point (b)(ii), and Article 365(1) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0060</td><td>Latest available (SVaRt-1) Article 364(1), point (b)(i), and Article 365(1) of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0070-0080</td><td>INCREMENTAL DEFAULT AND MIGRATION RISK CAPITAL CHARGE Incremental default and migration risk capital charge means the maximum potential loss that would result from a price change linked to default and migration risks calculated in accordance with Article 364(2), point (b), in conjunction with Part Three, Title IV, Chapter 5, Section 4, of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0070</td><td>12 weeks average measure Article 364(2), point (b)(ii), in conjunction with Part Three, Title IV, Chapter 5, Section 4, of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0080</td><td>Last Measure Article 364(2), point (b)(i), in conjunction with Part Three, Title IV, Chapter 5, Section 4, of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0090-0110</td><td>ALL PRICE RISKS CAPITAL CHARGE FOR CTP</td></tr>
+<tr><td>0090</td><td>FLOOR Article 364(3), point (c), of Regulation (EU) No 575/2013  8 % of the capital charge that would be calculated in accordance with Article 338(1) of Regulation (EU) No 575/2013 for all positions in the ‘all price risks’ capital charge. </td></tr>
+<tr><td>0100-0110</td><td>12 WEEKS AVERAGE MEASURE AND LAST MEASURE Article 364(3), point (b), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0110</td><td>LAST MEASURE Article 364(3), point (a), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0120</td><td>OWN FUNDS REQUIREMENTS Own funds requirements as referred to in Article 364 of Regulation (EU) No 575/2013 of all risk factors, taking into account correlation effects, where applicable, plus incremental default and migration risk and all price of risks for CTP, but excluding the securitisation capital charges for securitisation and nth-to-default credit derivative according to Article 364(2) of that Regulation </td></tr>
+<tr><td>0130</td><td>TOTAL RISK EXPOSURE AMOUNT Article 92(6), point (b), of Regulation (EU) No 575/2013.  Result of the multiplication of the own funds requirements by 12,5 </td></tr>
+<tr><td>0140</td><td>Number of overshootings (during previous 250 working days) Referred to in Article 366 of Regulation (EU) No 575/2013  The number of overshootings based on which the addend is determined shall be reported. Where investment firms are permitted to exclude certain overshootings from the calculation of the addend in accordance with Article 500c of Regulation (EU) No 575/2013, the number of overshootings reported in this column shall be net of those excluded overshootings. </td></tr>
+<tr><td>0150-0160</td><td>VaR Multiplication Factor (mc) and SVaR Multiplication Factor (ms) As referred to in Article 366 of Regulation (EU) No 575/2013  The multiplication factors effectively applicable for the calculation of own funds requirements shall be reported; where applicable, after application of Article 500c of Regulation (EU) No 575/2013. </td></tr>
+<tr><td>0170-0180</td><td>ASSUMED CHARGE FOR CTP FLOOR - WEIGHTED NET LONG/ SHORT POSITIONS AFTER CAP The amount reported and serving as the basis to calculate the floor capital charge for all price risks in accordance with Article 364(3), point (c), of Regulation (EU) No 575/2013, taking into account the discretion set out in Article 335 of that Regulation which stipulates that the institution may cap the product of the weight and the net position at the maximum possible default-risk related loss. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Rows</td></tr>
+<tr><td>0010</td><td>TOTAL POSITIONS Corresponds to the part of position, foreign exchange and commodities risk referred to in Article 363(1) of Regulation (EU) No 575/2013 linked to the risk factors referred to in Article 367(2) of that Regulation.  Concerning the columns 0030 to 0060 (VAR and Stress-VAR), the figures in the total row are not equal to the decomposition of the figures for the VaR/Stress-VaR of the relevant risk components. </td></tr>
+<tr><td>0020</td><td>TRADED DEBT INSTRUMENTS Corresponds to the part of position risk referred to in Article 363(1) of Regulation (EU) No 575/2013, linked to the interest rates risk factors referred to in Article 367(2), point (a), of that Regulation. </td></tr>
+<tr><td>0030</td><td>TDI – GENERAL RISK General risk component as referred to in Article 362 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0040</td><td>TDI – SPECIFIC RISK Specific risk component as referred to in Article 362 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0050</td><td>EQUITIES Corresponds to the part of position risk referred to in Article 363(1) of Regulation (EU) No 575/2013 linked to the equity risk factors referred to in Article 367(2), point (c), of that Regulation. </td></tr>
+<tr><td>0060</td><td>EQUITIES – GENERAL RISK General risk component as referred to in Article 362 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0070</td><td>EQUITIES – SPECIFIC RISK Specific risk component as referred to in Article 362 of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0080</td><td>FOREIGN EXCHANGE RISK Articles 363(1) and Article 367(2), point (b), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0090</td><td>COMMODITY RISK Articles 363(1) and Article 367(2), point (d), of Regulation (EU) No 575/2013 </td></tr>
+<tr><td>0100</td><td>TOTAL AMOUNT FOR GENERAL RISK Market risk caused by general market movements of traded debt instruments, equities, foreign exchange and commodities. VaR for general risk of all risk factors (taking into account correlation effects where applicable) </td></tr>
+<tr><td>0110</td><td>TOTAL AMOUNT FOR SPECIFIC RISK Specific risk component of traded debt instruments and equities. VaR for specific risk of equities and traded debt instruments of trading book (taking into account correlation effects where applicable) </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Implementing Regulation (EU) 2024/3117 of 29 November 2024 laying down implementing technical standards for the application of Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to supervisory reporting of institutions and repealing Commission Implementing Regulation (EU) 2021/451 (OJ L, 2024/3117, 27.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/3117/oj).
+
+( 2 ) Commission Delegated Regulation (EU) No 525/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for the definition of market (OJ L 148, 20.5.2014, p. 15, ELI: http://data.europa.eu/eli/reg_del/2014/525/oj).
+
+( 3 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349, ELI: http://data.europa.eu/eli/dir/2014/65/oj).

@@ -333,12 +333,14 @@ G. CIAMBA
 
 **Table 2: Emission thresholds for clean light-duty vehicles**
 
+<table>
 <tbody><tr><td>Vehicle categories</td><td colspan="2">Until 31 December 2025</td><td colspan="2">From 1 January 2026</td></tr>
 <tr><td></td><td>CO2 g/km</td><td>RDE air pollutant emissions (1) as a percentage of emission limits (2)</td><td>CO2 g/km</td><td>RDE air pollutant emissions (1) as a percentage of emission limits (2)</td></tr>
 <tr><td>M1</td><td>50</td><td>80 %</td><td>0</td><td>n.a.</td></tr>
 <tr><td>M2</td><td>50</td><td>80 %</td><td>0</td><td>n.a.</td></tr>
 <tr><td>N1</td><td>50</td><td>80 %</td><td>0</td><td>n.a.</td></tr>
 </tbody>
+</table>
 
 (*) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).
 
@@ -377,6 +379,7 @@ G. CIAMBA
 
 **Table 4: Minimum procurement targets for the share of clean heavy-duty vehicles in the total number of heavy-duty vehicles covered by contracts referred to in Article 3 at Member State level (*)**
 
+<table>
 <tbody><tr><td>Member State</td><td colspan="2">Trucks (vehicle category N2 and N3)</td><td colspan="2">Buses (vehicle category M3) (*1)</td></tr>
 <tr><td></td><td>From 2 August 2021 to 31 December 2025</td><td>From 1 January 2026 to 31 December 2030</td><td>From 2 August 2021 to 31 December 2025</td><td>From 1 January 2026 to 31 December 2030</td></tr>
 <tr><td>Luxembourg</td><td>10 %</td><td>15 %</td><td>45 %</td><td>65 %</td></tr>
@@ -408,6 +411,7 @@ G. CIAMBA
 <tr><td>Romania</td><td>6 %</td><td>7 %</td><td>24 %</td><td>33 %</td></tr>
 <tr><td>Bulgaria</td><td>7 %</td><td>8 %</td><td>34 %</td><td>48 %</td></tr>
 </tbody>
+</table>
 
 ’.
 

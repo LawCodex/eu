@@ -1,0 +1,272 @@
+---
+title: "Regulation (EEC, Euratom, ECSC) No 260/68 of the Council of 29 February 1968 laying down the conditions and procedure for applying the tax for the benefit of the European Communities"
+identifier: "31968R0260"
+eli: "http://data.europa.eu/eli/reg/1968/260/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1968-02-29
+entry_into_force: 1968-09-13
+last_amended: 2002-10-03
+consolidated_version: "01968R0260-20021003"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01968R0260-20021003"
+retrieved: 2026-10-11
+---
+
+# Regulation (EEC, Euratom, ECSC) No 260/68 of the Council of 29 February 1968 laying down the conditions and procedure for applying the tax for the benefit of the European Communities
+
+**REGULATION (EEC, EURATOM, ECSC) No 260/68 OF THE COUNCIL**
+
+**of 29 February 1968**
+
+**laying down the conditions and procedure for applying the tax for the benefit of the European Communities**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EURATOM, ECSC, EEC) No 1370/72 OF THE COUNCIL of 27 June 1972 </td><td> L 149</td><td>3</td><td>1.7.1972</td></tr>
+<tr><td></td><td> REGULATION (EURATOM, ECSC, EEC) No 2531/72 OF THE COUNCIL of 4 December 1972 </td><td> L 272</td><td>6</td><td>5.12.1972</td></tr>
+<tr><td></td><td> REGULATION (ECSC, EEC, EURATOM) No 559/73 OF THE COUNCIL of 26 February 1973 </td><td> L 55</td><td>4</td><td>28.2.1973</td></tr>
+<tr><td></td><td> REGULATION (ECSC, EEC, EURATOM) No 1544/73 OF THE COUNCIL of 4 June 1973 </td><td> L 155</td><td>6</td><td>11.6.1973</td></tr>
+<tr><td></td><td> REGULATION (EURATOM, ECSC, EEC) No 913/78 of 2 May 1978 </td><td> L 119</td><td>7</td><td>3.5.1978</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (ECSC, EEC, EURATOM) No 2151/82 of 28 July 1982 </td><td> L 228</td><td>4</td><td>4.8.1982</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (ECSC, EEC, EURATOM) No 3519/85 of 12 December 1985 </td><td> L 335</td><td>59</td><td>13.12.1985</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (Euratom, ECSC, EC) No 3606/93 of 22 November 1993 </td><td> L 332</td><td>10</td><td>31.12.1993</td></tr>
+<tr><td></td><td> REGULATION (ECSC, EC, EURATOM) No 3162/94 of 19 December 1994 </td><td> L 335</td><td>5</td><td>23.12.1994</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (ECSC, EC, EURATOM) No 2190/97 of 30 October 1997 </td><td> L 301</td><td>1</td><td>5.11.1997</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (ECSC, EC, EURATOM) No 1197/98 of 5 June 1998 </td><td> L 166</td><td>1</td><td>11.6.1998</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EC, ECSC, EURATOM) No 2459/98 of 12 November 1998 </td><td> L 307</td><td>3</td><td>17.11.1998</td></tr>
+<tr><td></td><td>Communication from the Commission to the other institutions concerning the conversion into euro of the amounts provided for in the Staff Regulations (1999/C 60/09)</td><td> C 60</td><td>11</td><td>2.3.1999</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EC, EURATOM) No 1750/2002 of 30 September 2002 </td><td> L 264</td><td>15</td><td>2.10.2002</td></tr>
+</table>
+
+**REGULATION (EEC, EURATOM, ECSC) No 260/68 OF THE COUNCIL**
+
+**of 29 February 1968**
+
+**laying down the conditions and procedure for applying the tax for the benefit of the European Communities**
+
+## Article 1
+
+The tax on salaries, wages and emoluments paid by the Communities to their officials and other servants, indicated by the first paragraph of Article 13 of the Protocol on the Privileges and Immunities of the European Communities, shall be determined under the conditions and collected according to the procedure laid down in this Regulation.
+
+## Article 2
+
+The following shall be liable to the tax:
+
+— persons coming under the Staff Regulations of Officials or the Conditions of Employment of Other Servants of the Communities, including recipients of the compensation provided for in the event of removal from post in the interests of the service, but excluding local staff;
+
+— recipients of the compensation on termination of service provided for in Article 5 of Council Regulation (EEC, Euratom, ECSC) No 259/68K ( 1 );
+
+— those entitled to the allowance for termination of service under Article 3 of Regulation (Euratom, ECSC, EEC) No 2530/72;
+
+— those entitled to the allowance for termination of service under Article 4 of Regulation (Euratom, ECSC, EEC) No 2530/72;
+
+— those entitled to the allowance for termination of service under Articles 3 and 4 of Regulation (ECSC, EEC, Euratom) No 1543;
+
+— those entitled to the allowance for termination of service under Article 5 of Regulation (ECSC, EEC, Euratom) No 1543;
+
+— those entitled to the allowance for termination of service under Article 2 of Regulation (ECSC, EEC, Euratom) No 2150/82;
+
+— those entitled to the allowance for termination of service under Article 3 of Regulation (ECSC, EEC, Euratom) No 1679/85;
+
+— those entitled to unemplyment benefit under Article 28a of the conditions of employment of other servants, as resulting from Article 33 of Regulation (ECSC, EEC, Euratom) No 2799/85;
+
+— those entitled to the allowance for termination of service under Article 4 of Regulation (ECSC, EEC, Euratom) No 3518/85;
+
+— those entitled to the allowance for termination of service under Article 4 of Regulation (Euratom, ECSC, EEC) No 2274/87 ( 2 );
+
+— those entitled to the allowance for termination of service under Article 3 of Regulation (EEC) No 1857/89 ( 3 );
+
+— those entitled to the allowance for termination of service under Article 4 of Regulation (EC, Euratom, ECSC) No 2688/95 ( 4 );
+
+— those entitled to the allowance for termination of service under Article 4 of Regulation (EC, Euratom, ECSC) No 2689/95 ( 5 );
+
+— those entitled to the allowance provided for in the event of termination of service under Article 4 of Regulation (EC, Euratom) No 1746/2002;
+
+— those entitled to the allowance provided for in the event of termination of service under Article 4 of Regulation (EC, Euratom) No 1747/2002;
+
+— those entitled to the allowance provided for in the event of termination of service under Article 4 of Regulation (EC, Euratom) No 1748/2002.
+
+## Article 3
+
+1\. The tax shall be payable each month on salaries, wages and emoluments paid by the Communities to each person liable.
+
+2\. However, monies and allowances, whether lump sums or not, which represent compensation for expenses incurred in the perfomance of official duties, shall be excluded from the basic taxable amount.
+
+3\. The family allowance and social benefits listed below shall be deducted from the basic taxable amount:
+
+(a) family allowances:
+
+— household allowance  ,
+
+— dependent child's allowance,
+
+— education allowance,
+
+— allowance on the birth of a child;
+
+(b) social assistance;
+
+(c) allowances paid on account of occupational disease or accident;
+
+(d) that part of any payment which represents family allowances.
+
+The amount to be deducted shall be calculated, with due regard, where appropriate, to the provisions of Article 5.
+
+4\. Subject to the provisions of Article 5, an abatement of 10 % for occupational and personal expenses shall be made from the amount obtained by applying the preceding provisions.
+
+An additional abatement equivalent to twice the amount of the allowance for a dependent child shall be made for each dependent child of the person liable as well as for each person treated as a dependent child within the meaning of Article 2 (4) of Annex VII to the Staff Regulations.
+
+5\. Deductions from remuneration of persons liable on account of pensions and retirement allowances or of social security shall be deducted from the basic taxable amount.
+
+## Article 4
+
+The tax shall be calculated, subject to the provisions of Article 5, on the taxable amount obtained by applying Article 3 and disregarding any amount not exceeding EUR 19,91 and by applying the rate of:
+
+— 8,00 % to amounts between EUR 19,91 and 351,46,
+
+— 10,00 % to amounts between EUR 351,47 and 484,09,
+
+— 12,50 % to amounts between EUR 484,10 and 554,79,
+
+— 15,00 % to amounts between EUR 554,80 and 629,97,
+
+— 17,50 % to amounts between EUR 629,98 and 700,67,
+
+— 20,00 % to amounts between EUR 700,68 and 769,21,
+
+— 22,50 % to amounts between EUR 769,22 and 839,94,
+
+— 25,00 % to amounts between EUR 839,95 and 908,48,
+
+— 27,50 % to amounts between EUR 908,49 and 979,18,
+
+— 30,00 % to amounts between EUR 979,19 and 1 047,72 ,
+
+— 32,50 % to amounts between EUR 1 047,73 and 1 118,45 ,
+
+— 35,00 % to amounts between EUR 1 118,46 and 1 186,99 ,
+
+— 40,00 % to amounts between EUR 1 187,00 und 1 257,69 ,
+
+— 45,00 % to amounts above EUR 1 257,70 ( 6 ).
+
+## Article 5
+
+When salaries, wages and emoluments are subject to a corrective factor:
+
+— the amount of each of the elements included in the calculation of the tax, except deductions made from the remuneration of persons liable on account of pensions, and retirement allowances or of social security, shall, for the application of this Regulation, be obtained by applying the corrective factor to the amount of this element as calculated before applying any corrective factor to the remuneration;
+
+— the amount of abatements mentioned in Article 3 (4) shall be obtained by applying the corrective factor to the amount of the abatements as calculated before applying any corrective factor to the remuneration;
+
+— the amounts of income shown in Article 4 shall be subject to the corrective factor.
+
+## Article 6
+
+1\. By way of derogation from the provisions of Articles 3 and 4:
+
+(a) the sums paid
+
+— as compensation for overtime,
+
+— for work of a particularly arduous nature,
+
+— for exceptional services,
+
+— for patented inventions,
+
+— under Articles 56a and 56b of the Staff Regulations of Officials,
+
+— under Article 70a of the Staff Regulations,
+
+shall be assessed for purposes of the tax at the rate which, in the month preceding that of payment, was applied to the highest taxable amount of the official’s remuneration;
+
+(b) payments made on account of termination of service shall be taxed, after applying the abatements laid down in Article 3 (4), at a rate equal to two thirds of the ratio existing, at the time of last salary payment, between:
+
+— the amount of tax payable and
+
+— the basic taxable amount as defined in Article 3.
+
+These provisions shall also apply to payments made pursuant to Article 4 of Regulation (Euratom, ECSC, EEC) No 2530/72.
+
+These provisions shall apply also to payments made pursuant to Article 5 of Regulation (ECSC, EEC, Euratom) No 1543.
+
+2\. The application of this Regulation shall not have the effect of reducing salaries, wages and emoluments of any kind paid by the Communities to an amount less than the minimum subsistence rate as defined in Article 6 of Annex VIII to the Staff Regulations of Officials of the Communities.
+
+## Article 7
+
+When the taxable payment covers a period of less than one month, the rate of the tax shall be that which is applicable to the corresponding monthly payment.
+
+When the taxable payment covers a period of more than one month the tax shall be calculated as if this payment had been spread evenly over the months to which it relates.
+
+Corrective payments not related to the month during which they are paid shall be subject to the tax to which they would have been subject had they been made at the proper time.
+
+## Article 8
+
+Tax shall be collected by means of deduction at source. The amount shall be rounded down to one hundredth of a euro.
+
+## Article 9
+
+The tax proceeds shall be entered as revenue in the budgets of the Communities.
+
+## Article 10
+
+The governing bodies of institutions of the Communities shall co-operate for the purpose of applying this Regulation in a uniform manner.
+
+The Council, acting on a proposal from the Commission, shall adopt any provisions necessary for the application of this Regulation.
+
+## Article 11
+
+This Regulation shall also apply:
+
+— to members of the Commission,
+
+— to Judges, Advocates General, the Registrar and Assistant Rapporteurs at the Court of Justice,
+
+— to members of the Audit Board.
+
+## Article 12
+
+This Regulation shall apply to members of the organs of the European Investment Bank, and to members of its staff and recipients of the pensions it pays, who are included in the categories determined by the Council in application of the first paragraph of Article 16 of the. Protocol on Privileges and Immunities, with regard to salaries, wages and emoluments and to disability, retirement and survivors’ pensions paid by the Bank.
+
+## Article 12a
+
+This Regulation shall apply to the President of the European Monetary Institute, to all other Members of the Council of the Institute, to members of its staff and to recipients of the pensions paid by the Institute who are included in the categories determined by the Council pursuant to the first paragraph of Article 16 of the Protocol on Privileges and Immunities, with regard to salaries, wages and emoluments and to disability, retirement and survivor’s pensions paid by the Institute.
+
+## Article 12b
+
+This Regulation shall apply to the members of the organs of the European Investment Fund in the performance of their duties as such, to members of its staff and to recipients of the pensions paid by the Fund who are included in the categories determined by the Council pursuant to the first paragraph of Article 16 of the Protocol on Privileges and Immunities, with regard to salaries, wages and emoluments and to disability, retirement and survivor’s pensions paid by the Fund.
+
+## Article 12c
+
+This Regulation shall apply to the members of the Governing Council and of the General Council of the European Central Bank, to members of its staff and to recipients of the pensions paid by the Bank who are included in the categories determined by the Council pursuant to the first subparagraph of Article 16 of the Protocol on the privileges and immunities of the European Communities, with regard to salaries, wages and emoluments and to disability, retirement and survivors’ pensions paid by the Bank.
+
+## Article 13
+
+The compensation and payments referred to in Article 13 of Regulation No 32 (EEC) 12 (EAEC) ( 7 ) shall be exempt from the tax.
+
+## Article 14
+
+Regulation No 32 (EEC), 12 (EAEC) is hereby repealed.
+
+## Article 15
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ No L 56, 4.3.1968, p. 1.
+
+( 2 ) OJ L 209, 31.7.1987, p. 1. Regulation as amended by Regulation (EEC) No 2168/89 (OJ L 208, 20.7.1989, p. 4).
+
+( 3 ) OJ L 181, 28.6.1989, p. 2.
+
+( 4 ) OJ L 280, 23.11.1995, p. 1.
+
+( 5 ) OJ L 280, 23.11.1995, p. 4.
+
+( 6 ) OJ L 38, 13.2.1997, p. 1. Regulation supplemented by Regulation (Euratom, ECSC, EEC) No 1307/87 (OJ L 124, 13.5.1987, p. 6) and last amended by Regulation (Euratom, ECSC, EC) No 2762/98 (OJ L 346, 22.12.1998, p. 1).
+
+( 7 ) OJ No 45, 14.6.1962, p. 1461/62.

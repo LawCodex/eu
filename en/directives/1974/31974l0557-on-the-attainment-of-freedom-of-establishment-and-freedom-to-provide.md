@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(74/557/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/101/EC of 20 November 2006 </td><td> L 363</td><td>238</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/25/EU of 13 May 2013 </td><td> L 158</td><td>368</td><td>10.6.2013</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

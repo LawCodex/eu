@@ -104,6 +104,7 @@ All reagents should be of analytical purity.
 |  | 3.2. | Development solvent: petroleum ether (40-60)/benzene/acetone/ammonium hydroxide solution (minimum 25 % NH3): 35/35/35/1 (v/v/v/v). |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>3.3.</td><td><table><tbody><tr><td>Developing solution</td><td>:</td><td><table><tbody><tr><td>(a)</td><td>sodium nitrite: 1 g in 100 ml of 1 M hydrochloric acid (prepared immediately before use);</td></tr>
 </tbody>
 </table>
@@ -115,7 +116,9 @@ All reagents should be of analytical purity.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.4.</td><td>Standard solutions:<table><tbody><tr><td></td><td>alpha-monoglyceryl 4-aminobenzoate: 0,05 g in 100 ml of mixed solvent 3.1;</td></tr>
 </tbody>
 </table>
@@ -124,6 +127,7 @@ All reagents should be of analytical purity.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3.5. | Silica gel 60 F254 plates, 0,25 mm thick, 200 mm × 200 mm. |
 | --- | --- | --- |
@@ -204,6 +208,7 @@ All reagents should be of analytical purity and should be suitable for HPLC wher
 |  | 4.9. | Phosphate buffer solution (0,02 M): dissolve 2,72 g of potassium dihydrogenorthophosphate (4.2) in one litre of water. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.10.</td><td>Eluant: phosphate buffer solution (4.9)/methanol (4.1) 61/39(v/v) The composition of the mobile phase may be changed in order to achieve a resolution factor R ≥ 1,5.  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0002.xml.jpg" alt="Formula">  where <table><tbody><tr><td>R1 and R2</td><td>=</td><td>retention times, in minutes, of the peaks,</td></tr>
 <tr><td>W1 and W2</td><td>=</td><td>peak widths at half height, in milimetres,</td></tr>
 <tr><td>d'</td><td>=</td><td>the chart speed, in millimetres per minute.</td></tr>
@@ -211,6 +216,7 @@ All reagents should be of analytical purity and should be suitable for HPLC wher
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4.11. | Stock solution of alpha-monoglyceryl 4-aminobenzoate: weigh accurately about 40 mg of alpha-monoglyceryl 4-aminobenzoate and introduce it into a 100 ml graduated flask. Dissolve in 40 ml of methanol (4.1). Make up to the mark with buffer solution (4.9) and mix. |
 | --- | --- | --- |
@@ -221,6 +227,7 @@ All reagents should be of analytical purity and should be suitable for HPLC wher
 |  | 4.13. | Internal standard solution: weigh accurately about 50 mg of ethyl 4-hydroxybenzoate (4.6), transfer to a 100 ml standard flask, dissolve in 40 ml of methanol (4.1), make up to the mark with the buffer solution (4.9) and mix. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.14.</td><td>Standard solutions: prepare four standard solutions by dissolving in 100 ml eluant (4.10) according to the following table:<table><tbody><tr><td rowspan="2">Standard Solution</td><td colspan="2">Alpha-monoglyceryl 4-aminobenzoate</td><td colspan="2">Ethyl 4-aminobenzoate</td><td colspan="2">Ethyl 4-hydroxybenzoate</td></tr>
 <tr><td>(μg/ml) (1)</td><td>ml (4.11) (1)</td><td>(μg/ml) (1)</td><td>ml (4.12)</td><td>(μg/ml) (1)</td><td>ml (4.13)</td></tr>
 <tr><td>I</td><td>8</td><td>2</td><td>8</td><td>2</td><td>50</td><td>10</td></tr>
@@ -232,6 +239,7 @@ All reagents should be of analytical purity and should be suitable for HPLC wher
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4.15 | Carrez I solution: dissolve 26,5 g of tetrapotassium hexacyanoferrate (4.5) in water and make up to 250 ml. |
 | --- | --- | --- |
@@ -293,19 +301,23 @@ All reagents should be of analytical purity and should be suitable for HPLC wher
 
 **7\. CALCULATION**
 
+<table>
 <tbody><tr><td></td><td>7.1.</td><td>From the calibration curve obtained in 6.3 read off the mass ratios (RP1, RP2) corresponding to the ratios between the areas of the peaks calculated in 6.2.3 where<table><tbody><tr><td>RP1</td><td>=</td><td>mass of alpha-monoglyceryl 4-aminobenzoate/mass of ethyl 4-hydroxybenzoate,</td></tr>
 <tr><td>RP2</td><td>=</td><td>mass of ethyl 4-aminobenzoate/mass of ethyl 4-hydroxybenzoate.</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.2.</td><td>From the mass ratios obtained in this way calculate the alpha-monoglyceryl 4-aminobenzoate and ethyl 4-aminobenzoate contents, as mass percentages (% m/m) with the formulae: <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0003.xml.jpg" alt="Formula">  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0004.xml.jpg" alt="Formula"> <table><tbody><tr><td>q</td><td>=</td><td>quantity of ethyl 4-hydroxybenzoate (internal standard) weighed, in milligrams, in 4.12,</td></tr>
 <tr><td>p</td><td>=</td><td>quantity of sample, in grams, weighed in 6.1.1.</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **8\. REPEATABILITY (2)**
 
@@ -372,6 +384,7 @@ Weigh accurately between 0,1 and 0,3 g (p g) of the sample. Place in 100 ml volu
 
 **6.2. Gas chromatography conditions**
 
+<table>
 <tbody><tr><td></td><td>6.2.1.</td><td>The operating conditions must yield a resolution factor R ≥ 1,5. <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0005.xml.jpg" alt="Formula">  Where <table><tbody><tr><td>R1 and R2</td><td>=</td><td>retention times, in minutes, of the peaks,</td></tr>
 <tr><td>W1 and W2</td><td>=</td><td>peak widths at half height, in millimetres,</td></tr>
 <tr><td>d'</td><td>=</td><td>the chart speed, in millimetres per minute.</td></tr>
@@ -379,7 +392,9 @@ Weigh accurately between 0,1 and 0,3 g (p g) of the sample. Place in 100 ml volu
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>6.2.2.</td><td>As examples, the following operating conditions provide the required resolution:<table><tbody><tr><td>Column</td><td>I</td><td>II</td></tr>
 <tr><td>Material</td><td>Glass</td><td>Stainless steel</td></tr>
 <tr><td>Length</td><td>1,80 m</td><td>3 m</td></tr>
@@ -396,6 +411,7 @@ Weigh accurately between 0,1 and 0,3 g (p g) of the sample. Place in 100 ml volu
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **6.3. Standard curve**
 
@@ -502,6 +518,7 @@ Deposit 1,0 μl of standard solution (3.10) and 1,0 μl of sample solution (5.1)
 |  | 5.3.3. | Leave the plate to dry for one hour at room temperature. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>5.3.4.</td><td>Observe under the light from a UV lamp adjusted to a wavelength of 360 nm. Quinine appears as a fluorescent intense blue spot. By way of example the table below gives the values of the RF of the main alkaloids related to quinine when developed with solvent 3.2. <table><tbody><tr><td>Alkaloid</td><td>RF</td></tr>
 <tr><td>Quinine</td><td>0,20</td></tr>
 <tr><td>Quinidine</td><td>0,29</td></tr>
@@ -512,6 +529,7 @@ Deposit 1,0 μl of standard solution (3.10) and 1,0 μl of sample solution (5.1)
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5.3.5. | For further confirmation that quinine is present, the plate is exposed for approximately one hour to bromine vapour (3.7). The fluorescence disappears. When the same plate is exposed to ammonia vapour (3.8), the spots reappear with a brown colour, and when the plate is again examined under UV light at 360 nm a yellowish fluorescence can be observed. Detection limit: 0,1 μg of quinine. |
 | --- | --- | --- |
@@ -561,6 +579,7 @@ All reagents should be of analytical purity and suitable for HPLC.
 |  | 4.9. | Tetramethylammonium bromide solution: dissolve 15,40 g of tetramethylammonium bromide (4.4) in 1 000 ml of water in a graduated flask. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.10</td><td>Eluant: orthophosphoric acid (4.7) /potassium dihydrogenorthophosphate (4.8) /tetramethylammonium bromide (4.9)/water/acetonitrile (4.1) 10/50/100/340/90 (v/v/v/v/v). The composition of this mobile phase may be changed in order to achieve a resolution factor R ≥ 1,5.  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0010.xml.jpg" alt="Formula">  where <table><tbody><tr><td>R1 and R2</td><td>=</td><td>retention times, in minutes, of the peaks,</td></tr>
 <tr><td>W1 and W2</td><td>=</td><td>peak widths at half height, in millimetres,</td></tr>
 <tr><td>d'</td><td>=</td><td>the chart speed, in millimetres per minute.</td></tr>
@@ -568,6 +587,7 @@ All reagents should be of analytical purity and suitable for HPLC.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4.11. | Silica treated with octadecylsilane, 10 μm. |
 | --- | --- | --- |
@@ -619,12 +639,14 @@ Produce the calibration curve and verify that it is rectilinear.
 |  | 7.1. | From the calibration curve (6.3) determine the quantity in μg of anhydrous quinine present in the volume injected (6.2). |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>7.2.</td><td>The concentration of anhydrous quinine in the sample, as a percentage by mass (% m/m), is obtained by the following formula: <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1985.295.01.0030.01.ENG.xhtml.FOR-L_1985295EN.01003101.notes.0011.xml.jpg" alt="Formula">  where <table><tbody><tr><td>B</td><td>is the quantity, in micrograms, of anhydrous quinine determined in the 10 microlitres of the filtered solution (6.1).</td></tr>
 <tr><td>A</td><td>is the mass of the sample in grams (6.1).</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **8\. REPEATABILITY (4)**
 

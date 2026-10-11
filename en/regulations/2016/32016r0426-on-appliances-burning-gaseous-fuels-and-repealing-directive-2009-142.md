@@ -1,0 +1,1506 @@
+---
+title: "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
+identifier: "32016R0426"
+eli: "http://data.europa.eu/eli/reg/2016/426/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-03-09
+entry_into_force: 2016-09-14
+last_amended: 2026-05-29
+consolidated_version: "02016R0426-20260529"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0426-20260529"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)
+
+**REGULATION (EU) 2016/426 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 March 2016**
+
+**on appliances burning gaseous fuels and repealing Directive 2009/142/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/2748 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2748</td><td>1</td><td>8.11.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2016/426 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 March 2016**
+
+**on appliances burning gaseous fuels and repealing Directive 2009/142/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation applies to appliances and fittings.
+
+2\. For the purposes of this Regulation, an appliance is considered to be ‘normally used’ where the following conditions are met:
+
+(a) it is correctly installed and regularly serviced in accordance with the manufacturer's instructions;
+
+(b) it is used with a normal variation in the gas quality and a normal fluctuation in the supply pressure as set out by Member States in their communication pursuant to Article 4(1);
+
+(c) it is used in accordance with its intended purpose or in a way which can be reasonably foreseen.
+
+3\. This Regulation does not apply to appliances specifically designed:
+
+(a) for use in industrial processes carried out on industrial premises;
+
+(b) for use on aircrafts and railways;
+
+(c) for research purposes for temporary use in laboratories.
+
+For the purposes of this paragraph, an appliance is considered to be ‘specifically designed’ when the design is only intended to address a specific need for a specific process or use.
+
+4\. Where, for appliances or fittings, the aspects covered by this Regulation are covered more specifically by other acts of Union harmonisation legislation, this Regulation does not apply or ceases to apply to such appliances or fittings in respect of those aspects.
+
+5\. The rational use of energy essential requirement laid down in point 3.5 of Annex I to this Regulation does not apply to appliances covered by a measure adopted pursuant to Article 15 of Directive 2009/125/EC.
+
+6\. This Regulation shall not affect the obligation upon Member States to adopt measures with respect to the promotion of the use of energy from renewable sources and to the energy efficiency of buildings, in accordance with Directives 2009/28/EC, 2010/31/EU and 2012/27/EU. Such measures shall be compatible with the TFEU.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions apply:
+
+(1) ‘appliances’ means appliances burning gaseous fuels used for cooking, refrigeration, air-conditioning, space heating, hot water production, lighting or washing, and also forced draught burners and heating bodies to be equipped with such burners;
+
+(2) ‘fittings’ means safety devices, controlling devices or regulating devices and sub-assemblies thereof, designed to be incorporated into an appliance or to be assembled to constitute an appliance;
+
+(3) ‘burning’ means a process in which gaseous fuel reacts with oxygen producing heat or light;
+
+(4) ‘washing’ means the entire washing process, including drying and ironing;
+
+(5) ‘cooking’ means the art or practice of preparing or warming food for consumption with the use of heat and employing a wide range of methods;
+
+(6) ‘gaseous fuel’ means any fuel which is in a gaseous state at a temperature of 15 °C under an absolute pressure of 1 bar;
+
+(7) ‘industrial process’ means the extraction, growth, refining, processing, production, manufacture or preparation of materials, plants, livestock, animal products, food or other products with a view to their commercial use;
+
+(8) ‘industrial premises’ means any place where the main activity carried out is an industrial process that would be subject to specific national health and safety regulations;
+
+(9) ‘gas family’ means a group of gaseous fuels with similar burning behaviour linked together by a range of Wobbe indices;
+
+(10) ‘gas group’ means a specified range of Wobbe indices within that of the gas family concerned;
+
+(11) ‘Wobbe index’ means an indicator of the interchangeability of fuel gases used to compare the combustion energy output of different composition fuel gases in an appliance;
+
+(12) ‘appliance category’ means the identification of gas families and/or gas groups that an appliance is designed to burn safely and at the desired performance level, as indicated by the appliance category marking;
+
+(13) ‘energy efficiency’ means the ratio of output of performance of an appliance to input of energy;
+
+(14) ‘making available on the market’ means any supply of an appliance or a fitting for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(15) ‘placing on the market’ means the first making available of an appliance or a fitting on the Union market;
+
+(16) ‘putting into service’ means the first use of an appliance in the Union by its end-user;
+
+(17) ‘manufacturer’ means any natural or legal person who manufactures an appliance or a fitting or who has an appliance or a fitting designed or manufactured, and markets that appliance or fitting under his name or trademark or uses the appliance for his own purposes;
+
+(18) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+
+(19) ‘importer’ means any natural or legal person established within the Union who places an appliance or a fitting from a third country on the Union market;
+
+(20) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes an appliance or a fitting available on the market;
+
+(21) ‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+
+(22) ‘technical specification’ means a document that prescribes technical requirements to be fulfilled by an appliance or a fitting;
+
+(23) ‘harmonised standard’ means a harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;
+
+(24) ‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
+
+(25) ‘national accreditation body’ means a national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
+
+(26) ‘conformity assessment’ means the process demonstrating whether the essential requirements of this Regulation relating to an appliance or a fitting have been fulfilled;
+
+(27) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+
+(28) ‘recall’ means any measure aimed at achieving the return of an appliance that has already been made available to the end-user or of a fitting that has already been made available to an appliance manufacturer;
+
+(29) ‘withdrawal’ means any measure aimed at preventing an appliance or a fitting in the supply chain from being made available on the market;
+
+(30) ‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+
+(31) ‘CE marking’ means a marking by which the manufacturer indicates that the appliance or the fitting is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+
+(32) ‘crisis-relevant goods’ means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council ( 1 );
+
+(33) ‘internal market emergency mode’ means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.
+
+### Article 3 — Making available on the market and putting into service
+
+1\. Appliances shall only be made available on the market and put into service if, when normally used, they comply with this Regulation.
+
+2\. Fittings shall only be made available on the market if they comply with this Regulation.
+
+3\. This Regulation shall not affect Member States' entitlement to lay down such requirements as they may deem necessary to ensure that persons, domestic animals and property are protected during the normal use of the appliances, provided that this does not mean modifications to the appliances.
+
+### Article 4 — Gas supply conditions
+
+1\. By 21 October 2017, Member States shall communicate to the Commission and the other Member States in accordance with Annex II and using the relevant form the types of gas and corresponding supply pressures of gaseous fuels used on their territory. They shall communicate any changes thereof within six months after the announcement of the envisaged changes.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 41 concerning modifications to the content of the Member States' communications of the gas supply conditions on their territory, as set out in Annex II, in order to take into account the technical developments with regard to the gas supply conditions.
+
+3\. The Commission may, by means of implementing acts, define the harmonised form of the Member States' communications referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(3).
+
+4\. The Commission shall ensure that the information provided by Member States in accordance with paragraph 1 is published in the Official Journal of the European Union.
+
+### Article 5 — Essential requirements
+
+Appliances and fittings shall meet the essential requirements set out in Annex I which apply to them.
+
+### Article 6 — Free movement
+
+1\. Member States shall not, on grounds relating to the aspects covered by this Regulation, prohibit, restrict or impede the making available on the market and the putting into service of appliances which comply with this Regulation.
+
+2\. Member States shall not, on grounds relating to the risks covered by this Regulation, prohibit, restrict or impede the making available on the market of fittings which comply with this Regulation.
+
+3\. At trade fairs, exhibitions, demonstrations or similar events, Member States shall not prevent the showing of appliances or fittings which do not comply with this Regulation, provided that a visible sign clearly indicates that such appliances or fittings do not comply with this Regulation and that they are not for sale until they have been brought into conformity. During demonstrations, adequate safety measures shall be taken to ensure the protection of persons, domestic animals and property.
+
+## CHAPTER II — OBLIGATIONS OF ECONOMIC OPERATORS
+
+### Article 7 — Obligations of manufacturers
+
+1\. When placing their appliances or fittings on the market or when using the appliances for their own purposes, manufacturers shall ensure that they have been designed and manufactured in accordance with the essential requirements set out in Annex I.
+
+2\. Manufacturers shall draw up the technical documentation referred to in Annex III (‘technical documentation’) and carry out the relevant conformity assessment procedure referred to in Article 14 or have it carried out.
+
+Where compliance of an appliance or a fitting with the applicable requirements has been demonstrated by the procedure referred to in the first subparagraph, manufacturers shall draw up an EU declaration of conformity and affix the CE marking.
+
+3\. Manufacturers shall keep the technical documentation and the EU declaration of conformity for 10 years after the appliance or the fitting has been placed on the market.
+
+4\. Manufacturers shall ensure that procedures are in place for series production to remain in conformity with this Regulation. Changes in appliance or fitting design or characteristics and changes in the harmonised standards or in other technical specifications by reference to which the conformity of the appliance or the fitting is declared shall be adequately taken into account.
+
+When deemed appropriate with regard to the risks presented by an appliance, manufacturers shall, to protect the health and safety of consumers and other users, carry out sample testing of appliances made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming appliances and fittings and recalls of such appliances and fittings, and shall keep distributors informed of any such monitoring.
+
+5\. Manufacturers shall ensure that their appliances and fittings bear a type, batch or serial number or other element allowing their identification, and the inscriptions provided for in Annex IV.
+
+Where the size or nature of the appliance or the fitting does not allow it, manufacturers shall ensure that the required information is provided on the packaging or in a document accompanying the appliance or the fitting.
+
+6\. Manufacturers shall indicate on the appliance their name, registered trade name or registered trade mark, and the postal address at which they can be contacted or, where that is not possible, on the packaging or in a document accompanying the appliance. The address shall indicate a single point at which the manufacturer can be contacted. The contact details shall be in a language easily understood by consumers and other end-users and the market surveillance authorities.
+
+Manufacturers shall indicate on the fitting their name, registered trade name or registered trade mark, and the postal address at which they can be contacted or, where that is not possible, on the packaging or in a document accompanying the fitting. The address shall indicate a single point at which the manufacturer can be contacted. The contact details shall be in a language easily understood by appliance manufacturers and the market surveillance authorities.
+
+7\. Manufacturers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
+
+Manufacturers shall ensure that the fitting is accompanied by a copy of the EU declaration of conformity containing, inter alia, instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned.
+
+However, where a large number of fittings are delivered to a single user, the batch or consignment concerned may be accompanied by a single copy of the EU declaration of conformity.
+
+8\. Manufacturers who consider or have reason to believe that an appliance or a fitting which they have placed on the market is not in conformity with this Regulation shall immediately take the corrective measures necessary to bring that appliance or fitting into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the appliance or the fitting presents a risk, manufacturers shall immediately inform the competent national authorities of the Member States in which they made the appliance or the fitting available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+9\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of the appliance or the fitting with this Regulation, in a language which can be easily understood by that authority. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by appliances or fittings which they have placed on the market.
+
+### Article 8 — Authorised representatives
+
+1\. A manufacturer may, by a written mandate, appoint an authorised representative.
+
+The obligations laid down in Article 7(1) and the obligation to draw up technical documentation shall not form part of the authorised representative's mandate.
+
+2\. An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The mandate shall allow the authorised representative to do at least the following:
+
+(a) keep the EU declaration of conformity and the technical documentation at the disposal of national market surveillance authorities for 10 years after the appliance or the fitting has been placed on the market;
+
+(b) further to a reasoned request from a competent national authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the appliance or the fitting;
+
+(c) cooperate with the competent national authorities, at their request, on any action taken to eliminate the risks posed by appliances or fittings covered by the authorised representative's mandate.
+
+### Article 9 — Obligations of importers
+
+1\. Importers shall place only compliant appliances or fittings on the market.
+
+2\. Before placing an appliance on the market, importers shall ensure that the appropriate conformity assessment procedure referred to in Article 14 has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation, that the appliance bears the CE marking and is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, and that the manufacturer has complied with the requirements set out in Article 7(5) and (6).
+
+Before placing a fitting on the market, importers shall ensure that the appropriate conformity assessment procedure referred to in Article 14 has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation, that the fitting bears the CE marking and is accompanied by a copy of the EU declaration of conformity containing, inter alia, instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, and that the manufacturer has complied with the requirements set out in Article 7(5) and (6).
+
+Where an importer considers or has reason to believe that an appliance or a fitting is not in conformity with the essential requirements set out in Annex I, he shall not place the appliance or the fitting on the market until it has been brought into conformity. Furthermore, where the appliance or the fitting presents a risk, the importer shall inform the manufacturer and the market surveillance authorities to that effect.
+
+3\. Importers shall indicate on the appliance their name, registered trade name or registered trade mark, and the postal address at which they can be contacted or, where that is not possible, on its packaging or in a document accompanying the appliance. The contact details shall be in a language easily understood by consumers and other end-users and the market surveillance authorities.
+
+Importers shall indicate on the fitting their name, registered trade name or registered trade mark, and the postal address at which they can be contacted or, where that is not possible, on its packaging or in a document accompanying the fitting. The contact details shall be in a language easily understood by appliance manufacturers and the market surveillance authorities.
+
+4\. Importers shall ensure that the appliance is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.
+
+Importers shall ensure that the fitting is accompanied by a copy of the EU declaration of conformity containing, inter alia, instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned.
+
+5\. Importers shall ensure that, while an appliance or a fitting is under their responsibility, storage or transport conditions do not jeopardise its compliance with the essential requirements set out in Annex I.
+
+6\. When deemed appropriate with regard to the risks presented by an appliance, importers shall, to protect the health and safety of consumers and other users, carry out sample testing of appliances made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming appliances and fittings and recalls of such appliances and fittings, and shall keep distributors informed of any such monitoring.
+
+7\. Importers who consider or have reason to believe that an appliance or a fitting which they have placed on the market is not in conformity with this Regulation shall immediately take the corrective measures necessary to bring that appliance or fitting into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the appliance or the fitting presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the appliance or the fitting available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+8\. Importers shall, for 10 years after the appliance or the fitting has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
+
+9\. Importers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of an appliance or a fitting in a language which can be easily understood by that authority. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by appliances or fittings which they have placed on the market.
+
+### Article 10 — Obligations of distributors
+
+1\. When making an appliance or a fitting available on the market distributors shall act with due care in relation to the requirements of this Regulation.
+
+2\. Before making an appliance available on the market, distributors shall verify that the appliance bears the CE marking and that it is accompanied by instructions and safety information in accordance with point 1.5 of Annex I, in a language which can be easily understood by consumers and other end-users, as determined by the Member State in which the appliance is to be made available on the market, and that the manufacturer and the importer have complied with the requirements set out in Article 7(5) and (6) and Article 9(3) respectively.
+
+Before making a fitting available on the market, distributors shall verify that the fitting bears the CE marking and that it is accompanied by a copy of the EU declaration of conformity containing, inter alia, instructions for incorporation or assembly, adjustment, operation and maintenance in accordance with point 1.7 of Annex I, in a language which can be easily understood by appliance manufacturers, as determined by the Member State concerned, and that the manufacturer and the importer have complied with the requirements set out in Article 7(5) and (6) and Article 9(3) respectively.
+
+Where a distributor considers or has reason to believe that an appliance or a fitting is not in conformity with the essential requirements set out in Annex I, he shall not make the appliance or the fitting available on the market until it has been brought into conformity. Furthermore, where the appliance or the fitting presents a risk, the distributor shall inform the manufacturer or the importer to that effect as well as the market surveillance authorities.
+
+3\. Distributors shall ensure that, while an appliance or a fitting is under their responsibility, storage or transport conditions do not jeopardise its compliance with the essential requirements set out in Annex I.
+
+4\. Distributors who consider or have reason to believe that an appliance or a fitting which they have made available on the market is not in conformity with this Regulation shall make sure that the corrective measures necessary to bring that appliance or fitting into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the appliance or the fitting presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the appliance or the fitting available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+5\. Distributors shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of an appliance or a fitting. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by appliances or fittings which they have made available on the market.
+
+### Article 11 — Cases in which obligations of manufacturers apply to importers and distributors
+
+An importer or distributor shall be considered a manufacturer for the purposes of this Regulation and he shall be subject to the obligations of the manufacturer under Article 7, where he places an appliance or a fitting on the market under his name or trademark or modifies an appliance or a fitting already placed on the market in such a way that compliance with the requirements of this Regulation may be affected.
+
+### Article 12 — Identification of economic operators
+
+Economic operators shall, on request, identify the following to the market surveillance authorities:
+
+(a) any economic operator who has supplied them with an appliance or a fitting;
+
+(b) any economic operator to whom they have supplied an appliance or a fitting.
+
+Economic operators shall be able to present the information referred to in the first paragraph for 10 years after they have been supplied with the appliance or the fitting and for 10 years after they have supplied the appliance or the fitting.
+
+## CHAPTER III — CONFORMITY OF APPLIANCES AND FITTINGS
+
+### Article 13 — Presumption of conformity of appliances and fittings
+
+Appliances and fittings which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential requirements set out in Annex I covered by those standards or parts thereof.
+
+### Article 14 — Conformity assessment procedures for appliances and fittings
+
+1\. Before an appliance or a fitting is placed on the market, the manufacturer shall submit it to a conformity assessment procedure in accordance with paragraph 2 or 3.
+
+2\. The conformity of series-manufactured appliances and fittings with the requirements of this Regulation shall be assessed by means of the EU type-examination (Module B — production type) set out in point 1 of Annex III, combined with one of the following modules, at the choice of the manufacturer:
+
+(a) conformity to type based on internal production control plus supervised product checks at random intervals (Module C2), set out in point 2 of Annex III;
+
+(b) conformity to type based on quality assurance of the production process (Module D), set out in point 3 of Annex III;
+
+(c) conformity to type based on product quality assurance (Module E), set out in point 4 of Annex III;
+
+(d) conformity to type based on product verification (Module F), set out in point 5 of Annex III.
+
+3\. In the case of an appliance or a fitting produced as a single unit or in small quantities, the manufacturer may choose one of the procedures set out in paragraph 2 of this Article or conformity based on unit verification (Module G) set out in point 6 of Annex III.
+
+4\. Records and correspondence relating to conformity assessment of an appliance or a fitting shall be drawn up in an official language of the Member State where the notified body carrying out the procedures referred to in paragraphs 2 and 3 is established or in a language accepted by that body.
+
+### Article 15 — EU declaration of conformity
+
+1\. The EU declaration of conformity shall state that the fulfilment of the essential requirements set out in Annex I has been demonstrated.
+
+2\. The EU declaration of conformity shall have the model structure set out in Annex V, shall contain the elements specified in the relevant modules set out in Annex III and shall be continuously updated. It shall be translated into the language or languages required by the Member State in which the appliance or the fitting is placed or made available on the market.
+
+3\. In order to assist compliance of finished appliances with the applicable essential requirements set out in Annex I, the EU declaration of conformity for a fitting shall state the characteristics of the fitting and shall contain instructions on how the fitting should be incorporated into an appliance or assembled to constitute an appliance. The EU declaration of conformity shall be in a language which can be easily understood by appliance manufacturers and market surveillance authorities, as determined by the Member State concerned.
+
+4\. Where an appliance or a fitting is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned, including their publication references.
+
+5\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the appliance or the fitting with the requirements laid down in this Regulation.
+
+6\. A copy of the EU declaration of conformity shall be supplied with the fitting.
+
+### Article 16 — General principles of the CE marking
+
+The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
+
+### Article 17 — Rules and conditions for affixing the CE marking
+
+1\. The CE marking shall be affixed visibly, legibly and indelibly to the appliance and the fitting or to their data plate as far as relevant. Where that is not possible or not warranted on account of the nature of the appliance or the fitting, it shall be affixed to the packaging and to the documents accompanying the appliance or the fitting.
+
+2\. The CE marking shall be affixed before the appliance or the fitting is placed on the market.
+
+3\. The CE marking shall be followed by the identification number of the notified body involved in the production control phase of the appliance or of the fitting and by the last two digits of the year in which the CE marking was affixed. The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the manufacturer or his authorised representative.
+
+4\. The CE marking and the identification number referred to in paragraph 3 may be followed by any other mark indicating a special risk or use.
+
+5\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking.
+
+### Article 18 — Inscriptions
+
+1\. The inscriptions referred to in Annex IV shall be affixed visibly, legibly and indelibly to the appliance or to its data plate and, as far as relevant, to the fitting or to its data plate.
+
+2\. The inscriptions referred to in Annex IV shall be affixed before the appliance or the fitting is placed on the market.
+
+## CHAPTER IV — NOTIFICATION OF CONFORMITY ASSESSMENT BODIES
+
+### Article 19 — Notification
+
+Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party conformity assessment tasks under this Regulation.
+
+### Article 20 — Notifying authorities
+
+1\. Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, including compliance with Article 25.
+
+2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of and in accordance with Regulation (EC) No 765/2008.
+
+3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 of this Article to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with the requirements laid down in Article 21. In addition, it shall have arrangements to cover liabilities arising out of its activities.
+
+4\. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
+
+### Article 21 — Requirements relating to notifying authorities
+
+1\. A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs.
+
+2\. A notifying authority shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.
+
+3\. A notifying authority shall be organised in such a way that each decision relating to notification of a conformity assessment body is taken by competent persons different from those who carried out the assessment.
+
+4\. A notifying authority shall not offer or provide any activities that conformity assessment bodies perform or consultancy services on a commercial or competitive basis.
+
+5\. A notifying authority shall safeguard the confidentiality of the information it obtains.
+
+6\. A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.
+
+### Article 22 — Information obligation on notifying authorities
+
+Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto.
+
+The Commission shall make that information publicly available.
+
+### Article 23 — Requirements relating to notified bodies
+
+1\. For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 11.
+
+2\. A conformity assessment body shall be established under the national law of a Member State and have legal personality.
+
+3\. A conformity assessment body shall be a third-party body independent of the organisation or the appliance or the fitting it assesses.
+
+A body belonging to a business association or professional federation representing undertakings involved in the design, manufacturing, provision, assembly, use or maintenance of appliances or fittings which it assesses, may, on the condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.
+
+4\. A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the appliances or the fittings which they assess, nor the representative of any of those parties. This shall not preclude the use of assessed appliances or fittings that are necessary for the operations of the conformity assessment body or the use of such appliances or fittings for personal purposes.
+
+A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of those appliances or fittings, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall in particular apply to consultancy services.
+
+Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+
+5\. Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+
+6\. A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Annex III and in relation to which it has been notified, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+
+At all times, and for each conformity assessment procedure and each kind or category of appliances or fittings in relation to which it has been notified, a conformity assessment body shall have at its disposal the necessary:
+
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
+
+(b) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures. It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a notified body and other activities;
+
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the appliance or fitting technology in question and the mass or serial nature of the production process.
+
+A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+
+7\. The personnel responsible for carrying out conformity assessment tasks shall have the following:
+
+(a) sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;
+
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(c) appropriate knowledge and understanding of the essential requirements set out in Annex I, of the applicable harmonised standards and of the relevant provisions of Union harmonisation legislation and of national legislation;
+
+(d) the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.
+
+8\. The impartiality of the conformity assessment bodies, their top level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.
+
+The remuneration of the top level management and of the personnel responsible for carrying out the conformity assessment tasks of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.
+
+9\. Conformity assessment bodies shall take out liability insurance unless liability is assumed by the State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
+
+10\. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Annex III or any provision of national law giving effect to it, except in relation to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+
+11\. Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out the conformity assessment tasks are informed of, the relevant standardisation activities and the activities of the notified body coordination group established pursuant to Article 35 and shall apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
+
+### Article 24 — Presumption of conformity of notified bodies
+
+Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article 23 in so far as the applicable harmonised standards cover those requirements.
+
+### Article 25 — Subsidiaries of and subcontracting by notified bodies
+
+1\. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 23 and shall inform the notifying authority accordingly.
+
+2\. Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever these are established.
+
+3\. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client.
+
+4\. Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under Annex III.
+
+### Article 26 — Application for notification
+
+1\. A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
+
+2\. The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules and the appliance/fitting or appliances/fittings for which that body claims to be competent, as well as by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 23.
+
+3\. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 23.
+
+### Article 27 — Notification procedure
+
+1\. Notifying authorities may notify only conformity assessment bodies which have satisfied the requirements laid down in Article 23.
+
+2\. They shall notify the Commission and the other Member States using the electronic notification tool developed and managed by the Commission.
+
+3\. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and the appliance/fitting or appliances/fittings concerned and the relevant attestation of competence.
+
+4\. Where a notification is not based on an accreditation certificate as referred to in Article 26(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body's competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 23.
+
+5\. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
+
+Only such a body shall be considered a notified body for the purposes of this Regulation.
+
+6\. The notifying authority shall notify the Commission and the other Member States of any subsequent relevant changes to the notification.
+
+### Article 28 — Identification numbers and lists of notified bodies
+
+1\. The Commission shall assign an identification number to a notified body.
+
+It shall assign a single such number even where the body is notified under several Union acts.
+
+2\. The Commission shall make publicly available the list of the bodies notified under this Regulation, including the identification numbers that have been assigned to them and the activities for which they have been notified.
+
+The Commission shall ensure that the list is kept up to date.
+
+### Article 29 — Changes to notifications
+
+1\. Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article 23 or that it is failing to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw the notification, as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
+
+2\. In the event of restriction, suspension or withdrawal of notification, or where the notified body has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body or kept available for the responsible notifying and market surveillance authorities at their request.
+
+### Article 30 — Challenge of the competence of notified bodies
+
+1\. The Commission shall investigate all cases where it doubts, or doubt is brought to its attention regarding, the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.
+
+2\. The notifying Member State shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.
+
+3\. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+
+4\. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requesting the notifying Member State to take the necessary corrective measures, including withdrawal of notification if necessary.
+
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 42(2).
+
+### Article 31 — Operational obligations of notified bodies
+
+1\. Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Annex III.
+
+2\. Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators.
+
+Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the appliance or fitting technology in question and the mass or serial nature of the production process.
+
+In so doing they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the appliance or the fitting with this Regulation.
+
+3\. Where a notified body finds that the essential requirements set out in Annex I or corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate or approval decision.
+
+4\. Where, in the course of the monitoring of conformity following the issue of a certificate or approval decision, a notified body finds that an appliance or a fitting no longer complies, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate or the approval decision, if necessary.
+
+5\. Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates or approval decisions, as appropriate.
+
+### Article 32 — Appeal against decisions of notified bodies
+
+Notified bodies shall ensure that an appeal procedure against their decisions is available.
+
+### Article 33 — Information obligation on notified bodies
+
+1\. Notified bodies shall inform the notifying authority of the following:
+
+(a) any refusal, restriction, suspension or withdrawal of a certificate or approval decision;
+
+(b) any circumstances affecting the scope of or the conditions for notification;
+
+(c) any request for information which they have received from market surveillance authorities regarding conformity assessment activities;
+
+(d) on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+
+2\. Notified bodies shall provide the other bodies notified under this Regulation carrying out similar conformity assessment activities covering the same appliances or fittings with relevant information on issues relating to negative and, on request, positive conformity assessment results.
+
+### Article 34 — Exchange of experience
+
+The Commission shall provide for the organisation of exchange of experience between the Member States' national authorities responsible for notification policy.
+
+### Article 35 — Coordination of notified bodies
+
+The Commission shall ensure that appropriate coordination and cooperation between bodies notified under this Regulation are put in place and properly operated in the form of a sectoral group or groups of notified bodies.
+
+Notified bodies shall participate in the work of that group or those groups, directly or by means of designated representatives.
+
+## CHAPTER V — UNION MARKET SURVEILLANCE, CONTROL OF APPLIANCES AND FITTINGS ENTERING THE UNION MARKET AND UNION SAFEGUARD PROCEDURE
+
+### Article 36 — Union market surveillance and control of appliances and fittings entering the Union market
+
+Article 15(3) and Articles 16 to 29 of Regulation (EC) No 765/2008 shall apply to appliances and fittings covered by this Regulation.
+
+### Article 37 — Procedure at national level for dealing with appliances or fittings presenting a risk
+
+1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that an appliance or fitting covered by this Regulation presents a risk to the health or safety of persons or to domestic animals or property, they shall carry out an evaluation in relation to the appliance or fitting concerned covering all relevant requirements laid down in this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
+
+Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the appliance or fitting does not comply with the requirements laid down in this Regulation, they shall without delay require the relevant economic operator to take all appropriate corrective action to bring the appliance or fitting into compliance with those requirements, to withdraw the appliance or fitting from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+
+The market surveillance authorities shall inform the relevant notified body accordingly.
+
+Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.
+
+2\. Where the market surveillance authorities consider that non-compliance is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the actions which they have required the economic operator to take.
+
+3\. The economic operator shall ensure that all appropriate corrective action is taken in respect of all the appliances and fittings concerned that he has made available on the market throughout the Union.
+
+4\. Where the relevant economic operator does not take adequate corrective action within the period referred to in the second subparagraph of paragraph 1, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the appliances or fittings being made available on their national market, to withdraw the appliance or fitting from that market or to recall it.
+
+The market surveillance authorities shall inform the Commission and the other Member States, without delay, of those measures.
+
+5\. The information referred to in the second subparagraph of paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant appliance or fitting, the origin of the appliance or fitting, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:
+
+(a) failure of the appliance or fitting to meet requirements relating to the health or safety of persons or to the protection of domestic animals or property; or
+
+(b) shortcomings in the harmonised standards referred to in Article 13 conferring a presumption of conformity.
+
+6\. Member States other than the Member State initiating the procedure under this Article shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the appliance or fitting concerned, and, in the event of disagreement with the adopted national measure, of their objections.
+
+7\. Where, within three months of receipt of the information referred to in the second subparagraph of paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified.
+
+8\. Member States shall ensure that appropriate restrictive measures, such as withdrawal of the appliance or fitting from the market, are taken in respect of the appliance or fitting concerned without delay.
+
+### Article 38 — Union safeguard procedure
+
+1\. Where, on completion of the procedure set out in Article 37(3) and (4), objections are raised against a measure taken by a Member State, or where the Commission considers a national measure to be contrary to Union legislation, the Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall adopt an implementing act determining whether the national measure is justified or not.
+
+The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+2\. If the national measure is considered justified, all Member States shall take the necessary measures to ensure that the non-compliant appliance or fitting is withdrawn from their market, and shall inform the Commission accordingly. If the national measure is considered unjustified, the Member State concerned shall withdraw that measure.
+
+3\. Where the national measure is considered justified and the non-compliance of the appliance or fitting is attributed to shortcomings in the harmonised standards referred to in point (b) of Article 37(5) of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+
+### Article 39 — Compliant appliances or fittings which present a risk
+
+1\. Where, having carried out an evaluation under Article 37(1), a Member State finds that although an appliance or fitting is in compliance with this Regulation, it presents a risk to the health or safety of persons or to domestic animals or property, it shall require the relevant economic operator to take all appropriate measures to ensure that the appliance or fitting concerned, when placed on the market, no longer presents that risk, to withdraw the appliance or fitting from the market or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
+
+2\. The economic operator shall ensure that corrective action is taken in respect of all the appliances or fittings concerned that he has made available on the market throughout the Union.
+
+3\. The Member State shall immediately inform the Commission and the other Member States. That information shall include all available details, in particular the data necessary for the identification of the appliance or fitting concerned, the origin and the supply chain of the appliance or fitting, the nature of the risk involved and the nature and duration of the national measures taken.
+
+4\. The Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measures taken. On the basis of the results of that evaluation, the Commission shall decide by means of implementing acts whether the national measure is justified or not and, where necessary, propose appropriate measures.
+
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 42(3).
+
+On duly justified imperative grounds of urgency relating to the protection of health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 42(4).
+
+5\. The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+### Article 40 — Formal non-compliance
+
+1\. Without prejudice to Article 37, where a Member State makes one of the following findings, it shall require the relevant economic operator to put an end to the non-compliance concerned:
+
+(a) the CE marking has been affixed in violation of Article 30 of Regulation (EC) No 765/2008 or of Article 17 of this Regulation;
+
+(b) the CE marking has not been affixed;
+
+(c) the inscriptions referred to in Annex IV have not been affixed or have been affixed in violation of Article 18;
+
+(d) the identification number of the notified body involved in the production control phase has been affixed in violation of Article 17 or has not been affixed;
+
+(e) the EU declaration of conformity has not been drawn up or has not been drawn up correctly;
+
+(f) a copy of the EU declaration of conformity does not accompany the fitting;
+
+(g) the technical documentation is either not available or not complete;
+
+(h) the information referred to in Article 7(6) or Article 9(3) is absent, false or incomplete;
+
+(i) any other administrative requirement provided for in Article 7 or Article 9 is not fulfilled.
+
+2\. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the appliance or fitting being made available on the market or ensure that it is recalled or withdrawn from the market.
+
+## CHAPTER Va — EMERGENCY PROCEDURES
+
+### Article 40a
+
+Application of emergency procedures
+
+1\. Articles 40b to 40e of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to appliances and fittings covered by this Regulation.
+
+2\. Articles 40b to 40e of this Regulation shall apply only to appliances and fittings which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.
+
+3\. Articles 40b to 40e of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.
+
+However, Article 40c(7) of this Regulation shall apply during the internal market emergency mode and after its expiry or deactivation.
+
+4\. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to appliances and fittings placed on the market or used for the manufacturer’s own purposes in accordance with Articles 40c and 40d. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(3).
+
+### Article 40b
+
+Prioritisation of the conformity assessment of appliances and fittings designated as crisis-relevant goods
+
+1\. This Article applies to all appliances and fittings listed in the implementing act referred to in Article 40a(1) that are subject to the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body.
+
+2\. The notified bodies shall make best efforts to process as a matter of priority all applications for a conformity assessment of appliances and fittings referred to in paragraph 1 of this Article, irrespective of whether those applications have been lodged before or after the activation of the emergency procedures pursuant to Article 40a.
+
+3\. The prioritisation of applications for a conformity assessment of appliances and fittings pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those applications.
+
+4\. The notified bodies shall make reasonable efforts to increase their testing capacities for appliances and fittings referred to in paragraph 1 in respect of which they have been notified.
+
+### Article 40c
+
+Derogation from the conformity assessment procedures requiring the mandatory involvement of a notified body
+
+1\. By way of derogation from Article 14, a Member State may authorise, on a duly justified request from an economic operator, the placing on the market or use for the manufacturer’s own purposes within the territory of that Member State, of a specific appliance or fitting listed in the implementing act referred to in Article 40a(1) and for which the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body have not been carried out but for which the compliance with all the applicable essential requirements laid down in Annex I has been demonstrated in accordance with procedures referred to in that authorisation.
+
+2\. The Member State shall immediately inform the Commission and the other Member States of any authorisation granted in accordance with paragraph 1 of this Article. Provided that the requirements set out in the authorisation ensure conformity with the applicable essential requirements laid down in Annex I, the Commission shall adopt, without delay, an implementing act extending the validity of the authorisation granted by a Member State in accordance with paragraph 1 of this Article to the territory of the whole Union and shall set out the conditions under which the specific appliance or fitting may be placed on the market or used for the manufacturer’s own purposes. When preparing the draft implementing act, the Commission may request national market surveillance authorities to provide relevant information or comments regarding the technical assessment that served as the basis for the authorisation referred to in paragraph 1 of this Article. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 42(3).
+
+The appliance or fitting subject to the extension of validity referred to in the first subparagraph shall bear the information that it is placed on the market or used for the manufacturer’s own purposes as a ‘crisis-relevant good’. The implementing act referred to in the first subparagraph shall specify the content and presentation of that information. That information, as well as any labelling, shall be clear, understandable and intelligible and, where relevant, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.
+
+3\. On duly justified imperative grounds of urgency relating to the need to preserve the health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 42(4).
+
+4\. As long as an implementing act as referred to in paragraph 2 or 3 is not adopted, the authorisation granted by a competent national authority in one Member State shall be valid only on the territory of that Member State, and on the territories of any other Member States whose competent national authorities have recognised the validity of that authorisation before the adoption of such an implementing act. Member States shall inform the Commission and the other Member States of any decision to recognise the validity of that authorisation.
+
+5\. Manufacturers of appliances or fittings subject to the authorisation procedure referred to in paragraph 1 shall declare on their sole responsibility that the appliance or the fitting concerned complies with all the applicable essential requirements set out in Annex I and shall be responsible for the fulfilment of all the conformity assessment procedures indicated by the competent national authority.
+
+6\. Any authorisation issued pursuant to paragraph 1 shall set out the conditions and requirements under which the appliance or fitting may be placed on the market or used for the manufacturer’s own purposes. Such authorisations shall set out at least the following:
+
+(a) a description of the procedures, by means of which compliance with the applicable essential requirements set out in Annex I to this Regulation was successfully demonstrated;
+
+(b) any specific requirements regarding the traceability of the appliance or fitting concerned;
+
+(c) an end date of validity of the authorisation, which cannot go beyond the last day of the period for which the internal market emergency mode has been activated in accordance with Article 18 of Regulation (EU) 2024/2747;
+
+(d) any specific requirements regarding the need to ensure a continuous conformity assessment with respect to the appliance or fitting concerned;
+
+(e) measures to be taken upon expiry or deactivation of the internal market emergency mode with respect to the appliance or fitting concerned that has been placed on the market or used for the manufacturer’s own purposes.
+
+7\. By way of derogation from Articles 6, 16 and 17, appliances or fittings for which an authorisation has been granted in accordance with paragraph 1 of this Article shall not bear the CE marking and Article 6 shall not apply.
+
+8\. The market surveillance authorities of a Member State, where an authorisation pursuant to paragraphs 1, 2 and 4 of this Article is valid shall be entitled, with respect to such appliances or fittings, to take all corrective and restrictive actions at national level provided for under Regulation (EU) 2019/1020 of the European Parliament and of the Council ( 2 ) and under this Regulation. They shall immediately inform the Commission and the market surveillance authorities of all other Member States of these actions.
+
+9\. The use of the authorisation procedure set out in paragraphs 1 to 4 of this Article shall not affect the application on the territory of the Member State concerned of the relevant conformity assessment procedures laid down in Article 14.
+
+### Article 40d
+
+Presumption of conformity based on standards and common specifications
+
+1\. Where appliances or fittings have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications for such appliances or fittings to cover the applicable essential requirements set out in Annex I to this Regulation in the following cases:
+
+(a) where a reference to harmonised standards covering the applicable essential requirements set out in Annex I to this Regulation has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period; or
+
+(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that cover the applicable essential requirements set out in Annex I to this Regulation and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.
+
+2\. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing a presumption of conformity in accordance with paragraph 5. To that end, references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.
+
+3\. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 42(3) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.
+
+4\. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Regulation and shall duly consult all relevant stakeholders.
+
+5\. Without prejudice to Article 13, appliances or fittings that are in conformity with the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, shall be presumed to be in conformity with the applicable essential requirements set out in Annex I that are covered by those standards, common specifications or parts thereof. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible for manufacturers to rely on the presumption of conformity provided by the standards or the common specifications referred to in the implementing acts referred to in paragraph 1 of this Article.
+
+6\. By way of derogation from Article 40a(3), first subparagraph, unless there is sufficient reason to believe that the appliances or fittings covered by the standards or common specifications referred to in paragraph 1 of this Article present a risk to the health or safety of persons, the appliances or fittings that are in conformity with those standards or common specifications and which have been placed on the market or used for the manufacturer’s own purposes shall be deemed to be in conformity with the applicable essential requirements set out in Annex I after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.
+
+7\. When a Member State considers that a standard or common specification as referred to in paragraph 1 does not entirely satisfy the applicable essential requirements set out in Annex I, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.
+
+### Article 40e
+
+Prioritisation of market surveillance activities and mutual assistance among authorities
+
+1\. Member States shall prioritise the market surveillance activities for appliances and fittings listed in the implementing act referred to in Article 40a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
+
+2\. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for appliances and fittings listed in the implementing act referred to in Article 40a(1).
+
+## CHAPTER VI — DELEGATED ACTS AND COMMITTEE PROCEDURE
+
+### Article 41 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(2) shall be conferred on the Commission for a period of five years from 21 April 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States' experts, before adopting those delegated acts.
+
+3\. The delegation of power referred to in Article 4(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 4(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 42 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on appliances. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+5\. The committee shall be consulted by the Commission on any matter for which consultation of sectoral experts is required by Regulation (EU) No 1025/2012 or by any other Union legislation.
+
+The committee may furthermore examine any other matter concerning the application of this Regulation raised either by its chair or by a representative of a Member State in accordance with its rules of procedure.
+
+## CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 43 — Penalties
+
+1\. Member States shall lay down the rules on penalties applicable to infringements by economic operators of the provisions of this Regulation. Such rules may include criminal penalties for serious infringements.
+
+The penalties provided for shall be effective, proportionate and dissuasive.
+
+Member States shall notify those rules to the Commission by 21 March 2018 and shall notify it without delay of any subsequent amendment affecting them.
+
+2\. Member States shall take all measures necessary to ensure that their rules on penalties applicable to infringements by economic operators of the provisions of this Regulation are enforced.
+
+### Article 44 — Transitional provisions
+
+1\. Member States shall not impede the making available on the market or the putting into service of appliances covered by Directive 2009/142/EC which are in conformity with that Directive and which were placed on the market before 21 April 2018.
+
+2\. Member States shall not impede the making available on the market of fittings covered by Directive 2009/142/EC which are in conformity with that Directive and which were placed on the market before 21 April 2018.
+
+### Article 45 — Repeal
+
+Directive 2009/142/EC is repealed with effect from 21 April 2018.
+
+References to the repealed Directive shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VI.
+
+### Article 46 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. This Regulation shall apply from 21 April 2018, with the exception of:
+
+(a) Articles 4, 19 to 35 and 42 and Annex II, which shall apply from 21 October 2016;
+
+(b) Article 43(1), which shall apply from 21 March 2018
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**ESSENTIAL REQUIREMENTS**
+
+**PRELIMINARY OBSERVATIONS:**
+
+1\. The essential requirements laid down in this Regulation are compulsory.
+
+2\. The essential requirements are to be interpreted and applied in such a way as to take into account the state of the art and current practice at the time of design and manufacture as well as technical and economic considerations which are consistent with a high degree of energy efficiency and of health and safety protection.
+
+**1\. GENERAL REQUIREMENTS**
+
+1.1. Appliances shall be so designed and constructed as to operate safely and present no danger to persons, domestic animals or property, when normally used.
+
+Fittings shall be so designed and constructed as to fulfil correctly their intended purpose when incorporated into an appliance or assembled to constitute an appliance.
+
+1.2. The manufacturer is under an obligation to analyse the risks in order to identify those which apply to his appliance or fitting. He shall then design and construct it taking into account its risk assessment.
+
+1.3. In selecting the most appropriate solutions, the manufacturer shall apply the principles set out below, in the following order:
+
+(a) eliminate or reduce risks as far as possible (inherently safe design and construction);
+
+(b) take the necessary protection measures in relation to risks that cannot be eliminated;
+
+(c) inform users of the residual risks due to any shortcomings of the protection measures adopted and indicate whether any particular precautions are required.
+
+1.4. When designing and constructing the appliance, and when drafting the instructions, the manufacturer shall envisage not only the intended use of the appliance, but also the reasonably foreseeable uses.
+
+1.5. All appliances shall:
+
+(a) be accompanied by instructions for installation intended for the installer;
+
+(b) be accompanied by instructions for use and servicing, intended for the user;
+
+(c) bear appropriate warning notices, which shall also appear on the packaging.
+
+1.6.1. The instructions for installation intended for the installer shall contain all the instructions for installation, adjustment and servicing required to ensure that those operations are correctly performed so that the appliance may be used safely.
+
+The instructions for installation intended for the installer shall include also information on the technical specifications of the interface between the appliance and its installation environment allowing its correct connection to the gas supply network, the supply of auxiliary energy, the combustion air supply and the flue gas evacuation system.
+
+1.6.2. The instructions for use and servicing intended for the user shall contain all the information required for safe use and in particular shall draw the user's attention to any restrictions on use.
+
+The manufacturers shall note in the instructions where additional care is needed or where it would be advisable that any of the above work be carried out by a professional. This shall be without prejudice to national requirements to that effect.
+
+The manufacturer of the appliance shall include in the instructions accompanying the appliance all necessary information for adjustment, operation and maintenance of the fittings as part of the finished appliance, as appropriate.
+
+1.6.3. The warning notices on the appliance and its packaging shall clearly state the type of gas to be used, the gas supply pressure, the appliance category and any restrictions on use, in particular the restriction whereby the appliance shall be installed only in areas where there is sufficient ventilation so as to ensure that the risks presented by it are minimised.
+
+1.7. The instructions for incorporation of the fitting into an appliance or its assembly in order to constitute an appliance and for its adjustment, operation and maintenance shall be provided with the fittings concerned as part of the EU declaration of conformity.
+
+**2\. MATERIALS**
+
+Materials for appliances or fittings shall be appropriate for their intended purpose and shall withstand the mechanical, chemical and thermal conditions to which they will foreseeably be subjected.
+
+**3\. DESIGN AND CONSTRUCTION**
+
+The obligations arising for appliances from the essential requirements set out in this point apply also to fittings, as far as relevant.
+
+**3.1. General**
+
+3.1.1. Appliances shall be so designed and constructed that, when normally used, no instability, distortion, breakage or wear likely to impair their safety may occur.
+
+3.1.2. Condensation produced at the start-up and/or during use shall not affect the safety of appliances.
+
+3.1.3. Appliances shall be so designed and constructed as to minimise the risk of explosion in the event of a fire of external origin.
+
+3.1.4. Appliances shall be so designed and constructed that water and inappropriate air penetration into the gas circuit does not occur.
+
+3.1.5. In the event of a normal fluctuation of auxiliary energy, appliances shall continue to operate safely.
+
+3.1.6. Abnormal fluctuation or failure of auxiliary energy or its restoration shall not lead to an unsafe situation.
+
+3.1.7. Appliances shall be so designed and constructed as to obviate any gas-related risks due to hazards of electrical origin. As far as relevant, the results of the conformity assessment in relation to the safety requirements of Directive 2014/53/EU of the European Parliament and of the Council ( 3 ) or the safety objectives of Directive 2014/35/EU of the European Parliament and of the Council ( 4 ) shall be taken into account.
+
+3.1.8. Appliances shall be so designed and constructed as to obviate any gas-related risks due to hazards originating from electromagnetic phenomena. As far as relevant, the results of the conformity assessment in relation to the electromagnetic compatibility requirements of Directive 2014/53/EU or Directive 2014/30/EU of the European Parliament and of the Council ( 5 ) shall be taken into account.
+
+3.1.9. All pressurised parts of an appliance shall withstand the mechanical and thermal stresses to which they are subjected without any deformation affecting safety.
+
+3.1.10. Appliances shall be so designed and constructed that failure of a safety, controlling or regulating device may not lead to an unsafe situation.
+
+3.1.11. If an appliance is equipped with safety and controlling devices, the functioning of the safety devices shall not be overruled by that of the controlling devices.
+
+3.1.12. All parts of appliances which are set or adjusted at the stage of manufacture and which should not be manipulated by the user or the installer shall be appropriately protected.
+
+3.1.13. Levers and other controlling and setting devices shall be clearly marked and give appropriate instructions so as to prevent any error in operation/use. Their design shall be such as to preclude accidental operation.
+
+**3.2. Unburned gas release**
+
+3.2.1. Appliances shall be so designed and constructed that the gas leakage rate is not dangerous.
+
+3.2.2. Appliances shall be so designed and constructed that gas release at any state of operation is limited in order to avoid a dangerous accumulation of unburned gas in the appliance.
+
+3.2.3. Appliances intended to be used in indoor spaces and rooms shall be so designed and constructed as to prevent the release of unburned gas in all situations which could lead to a dangerous accumulation of unburned gas in such spaces and rooms.
+
+3.2.4. Appliances designed and constructed to burn gas containing carbon monoxide or other toxic components shall not present a danger to the health of persons and domestic animals exposed.
+
+**3.3. Ignition**
+
+Appliances shall be so designed and constructed that, when normally used, ignition and re-ignition is smooth and cross-lighting is assured.
+
+**3.4. Combustion**
+
+3.4.1. Appliances shall be so designed and constructed that, when normally used, the combustion process is stable and combustion products do not contain unacceptable concentrations of substances harmful to health.
+
+3.4.2. Appliances shall be so designed and constructed that, when normally used, there will be no accidental release of combustion products.
+
+3.4.3. Appliances connected to a flue for the dispersal of combustion products shall be so designed and constructed that in abnormal draught conditions there is no release of combustion products in a dangerous quantity into the indoor spaces or rooms concerned.
+
+3.4.4. Appliances shall be so designed and constructed that, when normally used, they do not cause a concentration of carbon monoxide or other substances harmful to health, such as they would be likely to present a danger to the health of persons and domestic animals exposed.
+
+**3.5. Rational use of energy**
+
+Appliances shall be so designed and constructed as to ensure rational use of energy, reflecting the state of the art and taking into account safety aspects.
+
+**3.6. Temperature**
+
+3.6.1. Parts of appliances which are intended to be installed or placed in close proximity to surfaces shall not reach temperatures which present a danger.
+
+3.6.2. The surface temperature of parts of appliances intended to be handled during normal use shall not present a danger to the user.
+
+3.6.3. The surface temperatures of external parts of appliances, with the exception of surfaces or parts which are associated with the transmission of heat, shall not under operating conditions present a danger to the health and safety of persons exposed and in particular to children and elderly people, for whom an appropriate reaction time shall be taken into account.
+
+**3.7. Contact with food and water intended for human consumption**
+
+Without prejudice to Regulations (EC) No 1935/2004 ( 6 ) and (EU) No 305/2011 ( 7 ) of the European Parliament and of the Council, materials and parts used in the construction of an appliance which may come into contact with food or water intended for human consumption as defined in Article 2 of Council Directive 98/83/EC ( 8 ), shall not impair quality of the food or water.
+
+## ANNEX II
+
+**CONTENT OF THE MEMBER STATES COMMUNICATIONS OF THE GAS SUPPLY CONDITIONS**
+
+1\. The communications of the Member States to the Commission and the other Member States provided for in Article 4 shall have the following content:
+
+<table>
+<tbody><tr><td rowspan="2">(a)</td><td>(i) gross calorific value (GCV) in MJ/m3</td><td>minimum/maximum;</td></tr>
+<tr><td>(ii) Wobbe index in MJ/m3</td><td>minimum/maximum.</td></tr>
+<tr><td rowspan="6">(b)</td><td colspan="2">Gas composition by volume in % of the total content:</td></tr>
+<tr><td>— C1 to C5 content in % (sum)</td><td>minimum/maximum;</td></tr>
+<tr><td>— N2 + CO2 content in %</td><td>minimum/maximum;</td></tr>
+<tr><td>— CO content in %</td><td>minimum/maximum;</td></tr>
+<tr><td>— unsaturated HC content in %</td><td>minimum/maximum;</td></tr>
+<tr><td>— hydrogen content in %</td><td>minimum/maximum.</td></tr>
+<tr><td>(c)</td><td colspan="2">Information on toxic components contained in the gaseous fuel.</td></tr>
+<tr><td colspan="3">That communication shall also include either of the following:</td></tr>
+<tr><td>(a)</td><td>supply pressure at the inlet of appliances in mbar:</td><td>nominal/minimum/maximum;</td></tr>
+<tr><td rowspan="2">(b)</td><td>(i) supply pressure at the point of delivery in mbar:</td><td>nominal/minimum/maximum;</td></tr>
+<tr><td>(ii) admissible pressure loss in the end-user gas installation in mbar:</td><td>nominal/minimum/maximum.</td></tr>
+</tbody>
+</table>
+
+2\. The reference conditions for Wobbe index and gross calorific value shall be the following:
+
+| (a) | combustion reference temperature: | 15 °C; |
+| --- | --- | --- |
+| (b) | volume measurement reference temperature: | 15 °C; |
+| (c) | volume measurement reference pressure: | 1 013,25 mbar. |
+
+## ANNEX III
+
+**CONFORMITY ASSESSMENT PROCEDURES FOR APPLIANCES AND FITTINGS**
+
+**1\. MODULE B: EU TYPE-EXAMINATION — PRODUCTION TYPE**
+
+1.1. EU type-examination is the part of a conformity assessment procedure in which a notified body examines the technical design of an appliance or a fitting and verifies and attests that the technical design of the appliance or the fitting meets the requirements of this Regulation that apply to it.
+
+1.2. EU type-examination shall be carried out by assessment of the adequacy of the technical design of the appliance or the fitting through examination of the technical documentation and supporting evidence referred to in point 1.3, plus examination of a specimen, representative of the production envisaged, of the complete appliance or fitting (production type).
+
+1.3. The manufacturer shall lodge an application for EU type-examination with a single notified body of his choice.
+
+1.3.1. The application shall include the following:
+
+(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well;
+
+(b) a written declaration that the same application has not been lodged with any other notified body;
+
+(c) the technical documentation. The technical documentation shall make it possible to assess the appliance's or fitting's conformity with the applicable requirements of this Regulation and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the appliance or the fitting. The technical documentation shall contain, wherever applicable, at least the following elements:
+
+(1) a general description of the appliance or the fitting;
+
+(2) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.;
+
+(3) descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the appliance or the fitting;
+
+(4) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union and, where those harmonised standards have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied;
+
+(5) results of design calculations made, examinations carried out, etc.;
+
+(6) test reports;
+
+(7) instructions for installation and use of the appliance;
+
+(8) the EU declaration of conformity of the fitting containing the instructions on how the fitting should be incorporated into an appliance or assembled to constitute an appliance;
+
+(d) the specimens representative of the production envisaged. The notified body may request further specimens where needed for carrying out the test programme;
+
+(e) the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards have not been applied in full. The supporting evidence shall include, where necessary, the results of tests carried out in accordance with other relevant technical specifications by the appropriate laboratory of the manufacturer, or by another testing laboratory on his behalf and under his responsibility.
+
+1.3.2. Where appropriate, the manufacturer shall also submit to the notified body the following documents:
+
+(a) the EU type-examination certificate and the EU declaration of conformity relating to the fittings incorporated into the appliance;
+
+(b) attestations and certificates relating to the methods of manufacture and/or inspection and/or monitoring of the appliance or the fitting;
+
+(c) any other document making it possible for the notified body to improve its assessment.
+
+1.4. The notified body shall:
+
+For the appliance or the fitting:
+
+1.4.1. examine the technical documentation and supporting evidence to assess the adequacy of the technical design of the appliance or the fitting.
+
+For the specimen(s):
+
+1.4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards, as well as the elements which have been designed in accordance with other relevant technical specifications;
+
+1.4.3. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards, these have been applied correctly;
+
+1.4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential requirements of this Regulation;
+
+1.4.5. agree with the manufacturer on a location where the examinations and tests will be carried out.
+
+1.5. The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 1.4 and their outcomes. Without prejudice to its obligations vis-à-vis the notifying authorities, the notified body shall release the content of that report, in full or in part, only with the agreement of the manufacturer.
+
+1.6. Where the appliance or the fitting type meets the requirements of this Regulation, the notified body shall issue an EU type-examination certificate to the manufacturer. The certificate shall contain the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity, the necessary data for identification of the approved type, such as the type of gas, appliance category and gas supply pressure, and, if relevant, descriptions of its functioning. The certificate may have one or more annexes attached.
+
+The EU type-examination certificate and its annexes shall contain all relevant information to allow the conformity of manufactured appliances or fittings with the examined type to be evaluated and to allow for in-service control. It shall also indicate any conditions to which its issue may be subject and be accompanied by the descriptions and drawings necessary for identification of the approved type.
+
+The certificate shall have a maximum validity period of ten years from the date of its issue.
+
+Where the type does not satisfy the applicable requirements of this Regulation, the notified body shall refuse to issue an EU type-examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+
+1.7. The notified body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicate that the approved type may no longer comply with the applicable requirements of this Regulation, and shall determine whether such changes require further investigation. If so, the notified body shall inform the manufacturer accordingly.
+
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EU type-examination certificate of all modifications to the approved type that may affect the conformity of the appliance or the fitting with the essential requirements of this Regulation or the conditions for validity of the certificate. Such modifications shall require additional approval in the form of an addition to the original EU type-examination certificate.
+
+1.8. Each notified body shall inform its notifying authority concerning the EU type-examination certificates and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of such certificates and/or any additions thereto refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies concerning the EU type-examination certificates and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning such certificates and/or additions thereto which it has issued.
+
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU type-examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body. The notified body shall keep a copy of the EU type-examination certificate, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer, until the expiry of the validity of that certificate.
+
+1.9. The manufacturer shall keep a copy of the EU type-examination certificate, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market.
+
+1.10. The manufacturer's authorised representative may lodge the application referred to in point 1.3 and fulfil the obligations set out in points 1.7 and 1.9, provided that they are specified in the mandate.
+
+**2\. MODULE C2: CONFORMITY TO TYPE BASED ON INTERNAL PRODUCTION CONTROL PLUS SUPERVISED PRODUCT CHECKS AT RANDOM INTERVALS**
+
+2.1. Conformity to type based on internal production control plus supervised product checks at random intervals is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2.2, 2.3 and 2.4, and ensures and declares on his sole responsibility that the appliances or the fittings concerned are in conformity with the type described in the EU type-examination certificate and satisfy the requirements of this Regulation that apply to them.
+
+2.2. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured appliances or fittings with the type described in the EU type-examination certificate and with the requirements of this Regulation that apply to them.
+
+2.3. Product checks
+
+A notified body, chosen by the manufacturer, shall carry out product checks or have them carried out at intervals of one year or less, in order to verify the quality of the internal checks on the appliance or the fitting, taking into account, inter alia, the technological complexity of the appliances or the fittings and the quantity of production. An adequate sample of the final appliances or fittings taken on site by the notified body before the placing on the market, shall be examined and appropriate tests as identified by the relevant parts of the harmonised standards, and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to check the conformity of the appliance or the fitting with the relevant requirements of this Regulation. Where a sample does not conform to the acceptable quality level, the notified body shall take appropriate measures.
+
+The acceptance sampling procedure to be applied is intended to determine whether the manufacturing process of the appliance or the fitting performs within acceptable limits, with a view to ensuring conformity of the appliance or the fitting.
+
+The manufacturer shall, under the responsibility of the notified body, affix the notified body's identification number during the manufacturing process.
+
+2.4. CE marking and EU declaration of conformity
+
+2.4.1. The manufacturer shall affix the CE marking to each individual appliance or fitting that is in conformity with the type described in the EU type-examination certificate and satisfies the applicable requirements of this Regulation.
+
+2.4.2. The manufacturer shall draw up a written EU declaration of conformity for each appliance or fitting model and keep it at the disposal of the national authorities for 10 years after the appliance or fitting has been placed on the market. The EU declaration of conformity shall identify the appliance or fitting model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request. A copy of the EU declaration of conformity of the fitting shall accompany the fitting or, where applicable, the batch or consignment.
+
+2.5. Authorised representative
+
+The manufacturer's obligations set out in point 2.4 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**3\. MODULE D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS**
+
+3.1. Conformity to type based on quality assurance of the production process is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 3.2 and 3.5, and ensures and declares on his sole responsibility that the appliances or fittings concerned are in conformity with the type described in the EU type-examination certificate and satisfy the requirements of this Regulation that apply to them.
+
+3.2. Manufacturing
+
+The manufacturer shall operate an approved quality system for production, final product inspection and testing of the appliances or fittings concerned as specified in point 3.3, and shall be subject to surveillance as specified in point 3.4.
+
+3.3. Quality system
+
+3.3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the appliances or fittings concerned.
+
+The application shall include:
+
+(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well;
+
+(b) a written declaration that the same application has not been lodged with any other notified body;
+
+(c) all relevant information for the appliance or the fitting approved under module B;
+
+(d) the documentation concerning the quality system;
+
+(e) the technical documentation of the approved type and a copy of the EU type-examination certificate.
+
+3.3.2. The quality system shall ensure that the appliances or fittings are in conformity with the type described in the EU type-examination certificate and comply with the requirements of this Regulation that apply to them.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+(a) the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product quality;
+
+(b) the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used;
+
+(c) the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out;
+
+(d) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.;
+
+(e) the means of monitoring the achievement of the required product quality and the effective operation of the quality system.
+
+3.3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.3.2.
+
+It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant product field and the product technology concerned, and knowledge of the applicable requirements of this Regulation. The audit shall include an assessment visit to the manufacturer's premises. The auditing team shall review the technical documentation referred to in point 3.3.1(e), to verify the manufacturer's ability to identify the relevant requirements of this Regulation and to carry out the necessary examinations with a view to ensuring compliance of the appliance or the fitting with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+3.3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+3.3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.3.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+3.4. Surveillance under the responsibility of the notified body
+
+3.4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+3.4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+(a) the quality system documentation;
+
+(b) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+
+3.4.3. The notified body shall carry out periodic audits at least once every two years to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.
+
+3.4.4. In addition, the notified body may pay unexpected visits to the manufacturer. During such visits the notified body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+3.5. CE marking and EU declaration of conformity
+
+3.5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3.3.1, the latter's identification number to each individual appliance or fitting that is in conformity with the type described in the EU type-examination certificate and satisfies the applicable requirements of this Regulation.
+
+3.5.2. The manufacturer shall draw up a written EU declaration of conformity for each appliance or fitting model and keep it at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market. The EU declaration of conformity shall identify the appliance or fitting model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request. A copy of the EU declaration of conformity of the fitting shall accompany the fitting or, where applicable, the batch or consignment.
+
+3.6. The manufacturer shall, for a period ending at least 10 years after the appliance or the fitting has been placed on the market, keep at the disposal of the national authorities:
+
+(a) the documentation referred to in point 3.3.1;
+
+(b) the information relating to the change referred to in point 3.3.5, as approved;
+
+(c) the decisions and reports of the notified body referred to in points 3.3.5, 3.4.3 and 3.4.4.
+
+3.7. Each notified body shall inform its notifying authority of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of quality systems approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality system approvals which it has issued.
+
+3.8. Authorised representative
+
+The manufacturer's obligations set out in points 3.3.1, 3.3.5, 3.5 and 3.6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**4\. MODULE E: CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE**
+
+4.1. Conformity to type based on product quality assurance is that part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 4.2 and 4.5, and ensures and declares on his sole responsibility that the appliances or fittings concerned are in conformity with the type described in the EU type-examination certificate and satisfy the requirements of this Regulation that apply to them.
+
+4.2. Manufacturing
+
+The manufacturer shall operate an approved quality system for final product inspection and testing of the appliances or fittings concerned as specified in point 4.3 and shall be subject to surveillance as specified in point 4.4.
+
+4.3. Quality system
+
+4.3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the appliances or fittings concerned.
+
+The application shall include:
+
+(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well;
+
+(b) a written declaration that the same application has not been lodged with any other notified body;
+
+(c) all relevant information for the product category envisaged;
+
+(d) the documentation concerning the quality system; and
+
+(e) the technical documentation of the approved type and a copy of the EU type-examination certificate.
+
+4.3.2. The quality system shall ensure compliance of the appliances or the fittings with the type described in the EU type-examination certificate and with the applicable requirements of this Regulation.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+(a) the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product quality;
+
+(b) the examinations and tests that will be carried out after manufacture;
+
+(c) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.;
+
+(d) the means of monitoring the effective operation of the quality system.
+
+4.3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 4.3.2.
+
+It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant product field and product technology concerned, and knowledge of the applicable requirements of this Regulation. The audit shall include an assessment visit to the manufacturer's premises. The auditing team shall review the technical documentation referred to in point 4.3.1(e), in order to verify the manufacturer's ability to identify the relevant requirements of this Regulation and to carry out the necessary examinations with a view to ensuring compliance of the appliance or the fitting with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+4.3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+4.3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 4.3.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+4.4. Surveillance under the responsibility of the notified body
+
+4.4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+4.4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+(a) the quality system documentation;
+
+(b) the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+
+4.4.3. The notified body shall carry out periodic audits at least once every two years to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.
+
+4.4.4. In addition, the notified body may pay unexpected visits to the manufacturer. During such visits the notified body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+4.5. CE marking and EU declaration of conformity
+
+4.5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 4.3.1, the latter's identification number to each individual appliance or fitting that is in conformity with the type described in the EU type-examination certificate and satisfies the applicable requirements of this Regulation.
+
+4.5.2. The manufacturer shall draw up a written EU declaration of conformity for each appliance or fitting model and keep it at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market. The EU declaration of conformity shall identify the appliance or fitting model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request. A copy of the EU declaration of conformity of the fitting shall accompany the fitting or, where applicable, the batch or consignment.
+
+4.6. The manufacturer shall, for a period ending at least 10 years after the appliance or the fitting has been placed on the market, keep at the disposal of the national authorities:
+
+(a) the documentation referred to in point 4.3.1;
+
+(b) the information relating to the change referred to in point 4.3.5, as approved;
+
+(c) the decisions and reports of the notified body referred to in points 4.3.5, 4.4.3 and 4.4.4.
+
+4.7. Each notified body shall inform its notifying authority of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality system approvals which it has issued.
+
+4.8. Authorised representative
+
+The manufacturer's obligations set out in points 4.3.1, 4.3.5, 4.5 and 4.6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**5\. MODULE F: CONFORMITY TO TYPE BASED ON PRODUCT VERIFICATION**
+
+5.1. Conformity to type based on product verification is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 5.2, 5.5.1 and 5.6, and ensures and declares on his sole responsibility that the appliances or fittings concerned, which have been subject to point 5.3, are in conformity with the type described in the EU type-examination certificate and satisfy the requirements of this Regulation that apply to them.
+
+5.2. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured appliances or fittings with the approved type described in the EU type-examination certificate and with the requirements of this Regulation that apply to them.
+
+5.3. Verification
+
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, or have them carried out, in order to check the conformity of the appliances or fittings with the approved type described in the EU type-examination certificate and with the appropriate requirements of this Regulation.
+
+The examinations and tests to check the conformity of the appliances or fittings with the appropriate requirements shall be carried out, at the choice of the manufacturer, either by examination and testing of every appliance or fitting as specified in point 5.4 or by examination and testing of the appliances or fittings on a statistical basis as specified in point 5.5.
+
+5.4. Verification of conformity by examination and testing of every appliance or fitting
+
+5.4.1. All appliances or fittings shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or equivalent tests set out in other relevant technical specifications shall be carried out in order to verify conformity with the approved type described in the EU type-examination certificate and with the appropriate requirements of this Regulation.
+
+In the absence of such a harmonised standard, the notified body concerned shall decide on the appropriate tests to be carried out.
+
+5.4.2. The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out, and shall affix its identification number to each approved appliance or fitting, or have it affixed under its responsibility.
+
+The manufacturer shall keep the certificates of conformity available for inspection by the national authorities for 10 years after the appliance or the fitting has been placed on the market.
+
+5.5. Statistical verification of conformity
+
+5.5.1. The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure the homogeneity of each lot produced, and shall present his appliances or fittings for verification in the form of homogeneous lots.
+
+5.5.2. A random sample shall be taken from each lot in accordance with the requirements of point 5.5.3. All appliances or fittings in a sample shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) and/or equivalent tests set out in other relevant technical specifications, shall be carried out in order to verify their conformity with the applicable requirements of this Regulation and to determine whether the lot is accepted or rejected. In the absence of such a harmonised standard, the notified body concerned shall decide on the appropriate tests to be carried out.
+
+5.5.3. The notified body shall apply a sampling system with the following characteristics:
+
+— a level of quality corresponding to a probability of acceptance of 95 %, with a non-conformity percentage of between 0,5 % and 1,5 %,
+
+— a limit quality corresponding to a probability of acceptance of 5 % with a non-conformity percentage of between 5 % and 10 %.
+
+5.5.4. If a lot is accepted, all appliances or fittings of the lot shall be considered approved, except for those appliances or fittings from the sample that have been found not to satisfy the tests.
+
+The notified body shall issue a certificate of conformity in respect to the examinations and tests carried out, and shall affix its identification number to each approved appliance or fitting, or have it affixed under its responsibility.
+
+The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market.
+
+5.5.5. If a lot is rejected, the notified body or the competent authority shall take appropriate measures to prevent that lot being placed on the market. In the event of the frequent rejection of lots the notified body may suspend the statistical verification and take appropriate measures.
+
+5.6. CE marking and EU declaration of conformity
+
+5.6.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 5.3, the latter's identification number to each individual appliance or fitting that is in conformity with the approved type described in the EU type-examination certificate and satisfies the applicable requirements of this Regulation.
+
+5.6.2. The manufacturer shall draw up a written EU declaration of conformity for each appliance or fitting model and keep it at the disposal of the national authorities, for 10 years after the appliance or the fitting has been placed on the market. The EU declaration of conformity shall identify the appliance or fitting model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request. A copy of the EU declaration of conformity of the fitting shall accompany the fitting or, where applicable, the batch or consignment.
+
+If the notified body referred to in point 5.3 agrees and under its responsibility, the manufacturer may also affix the notified body's identification number to the appliance or the fitting.
+
+5.7. If the notified body agrees and under its responsibility, the manufacturer may affix the notified body's identification number to the appliances or the fittings during the manufacturing process.
+
+5.8. Authorised representative
+
+The manufacturer's obligations may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate. An authorised representative may not fulfil the manufacturer's obligations set out in points 5.2 and 5.5.1.
+
+**6\. MODULE G: CONFORMITY BASED ON UNIT VERIFICATION**
+
+6.1. Conformity based on unit verification is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 6.2, 6.3 and 6.5, and ensures and declares on his sole responsibility that the appliance or the fitting concerned, which has been subject to point 6.4, is in conformity with the requirements of this Regulation that apply to it.
+
+6.2. Technical documentation
+
+The manufacturer shall establish the technical documentation and make it available to the notified body referred to in point 6.4. The technical documentation shall make it possible to assess the appliance's or fitting's conformity with the applicable requirements of this Regulation, and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the appliance or the fitting.
+
+6.2.1. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+(a) a general description of the appliance or the fitting;
+
+(b) conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.;
+
+(c) descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the appliance or the fitting;
+
+(d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union, and, where those harmonised standards have not been applied, descriptions of the solutions adopted to meet the essential requirements of this Regulation, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied;
+
+(e) results of design calculations made, examinations carried out, etc.;
+
+(f) test reports;
+
+(g) instructions for installation and use, for appliances;
+
+(h) instructions for incorporation into an appliance or for assembly, for fittings.
+
+6.2.2. Where appropriate, the manufacturer shall also submit to the notified body the following documents:
+
+(a) the EU type-examination certificate and the EU declaration of conformity relating to the fittings incorporated into the appliance;
+
+(b) attestations and certificates relating to the methods of manufacture and inspection and monitoring of the appliance or the fitting;
+
+(c) any other document making it possible for the notified body to improve its assessment.
+
+The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the appliance or the fitting has been placed on the market.
+
+6.3. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured appliances or fittings with the applicable requirements of this Regulation.
+
+6.4. Verification
+
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standards and/or equivalent tests set out in other relevant technical specifications, to check the conformity of the appliances or fittings with the applicable requirements of this Regulation, or have them carried out. In the absence of such a harmonised standard the notified body concerned shall decide on the appropriate tests to be carried out.
+
+If deemed necessary by the notified body, the examinations and tests may be carried out after the incorporation of the fitting, the assembly or the installation of the appliance.
+
+The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out and shall affix its identification number to the approved appliances or fittings, or have it affixed under its responsibility.
+
+The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market.
+
+6.5. CE marking and EU declaration of conformity
+
+6.5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 6.4, the latter's identification number to each appliance or fitting that satisfies the applicable requirements of this Regulation.
+
+6.5.2. The manufacturer shall draw up a written EU declaration of conformity and keep it at the disposal of the national authorities for 10 years after the appliance or the fitting has been placed on the market. The EU declaration of conformity shall identify the appliance or the fitting for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request. A copy of the EU declaration of conformity of the fitting shall accompany the fitting or, where applicable, the batch or consignment.
+
+6.6. Authorised representative
+
+The manufacturer's obligations set out in points 6.2 and 6.5 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+## ANNEX IV
+
+**INSCRIPTIONS**
+
+1\. In addition to the CE marking referred to in Article 16, the appliance or its data plate shall bear the following information:
+
+(a) the manufacturer's name, registered trade name or registered trade mark;
+
+(b) the appliance type, batch or serial number of the appliance or other element allowing its identification;
+
+(c) the type of electrical supply used, where applicable;
+
+(d) the appliance category marking;
+
+(e) the nominal supply pressure for the appliance;
+
+(f) the necessary information to ensure correct and safe installation, according to the nature of the appliance.
+
+2\. The fitting or its data plate shall bear, as far as relevant, the information provided for in point 1.
+
+## ANNEX V
+
+**EU DECLARATION OF CONFORMITY No … ( 9 )**
+
+1\. Appliance or fitting /appliance or fitting model (product, type, batch or serial number):
+
+2\. Name and address of the manufacturer and, where applicable, his authorised representative:
+
+3\. This declaration of conformity is issued under the sole responsibility of the manufacturer.
+
+4\. Object of the declaration (identification of the appliance or fitting allowing traceability; where necessary for the identification of the appliance or the fitting, an image may be included): description of the appliance or the fitting.
+
+5\. The object of the declaration described in point 4 is in conformity with the relevant Union harmonisation legislation: … (reference to the other Union acts applied).
+
+6\. References to the relevant harmonised standards used or references to the other technical specifications in relation to which conformity is declared:
+
+7\. The notified body … (name, address, number) … performed … (description of intervention) … and issued the certificate(s): … (details, including its date, and, where appropriate, information on the duration and conditions of its validity).
+
+8\. In the case of fittings, instructions on how the fitting should be incorporated into an appliance or assembled to constitute an appliance in order to assist compliance with the essential requirements applicable to finished appliances.
+
+9\. Additional information:
+
+Signed for and on behalf of: …
+
+(place and date of issue):
+
+(name, function) (signature):
+
+## ANNEX VI
+
+**CORRELATION TABLE**
+
+| Directive 2009/142/EC | This Regulation |
+| --- | --- |
+| Article 1(1) first subparagraph | Article 1(1) |
+| Article 1(1) second subparagraph | Article 1(3)(a) |
+| — | Article 1(3)(b) and (c) |
+| — | Article 1(4) to (6) |
+| Article 1(2) | Article 2, points 1, 2 and 6 |
+| Article 1(3) | Article 1(2) |
+| — | Article 2, points 3, 4, 5, 7 to 31 |
+| Article 2(1) | Article 3(1) |
+| — | Article 3(2) and (3) |
+| Article 2(2) | Article 4(1) and (4) |
+| — | Article 4(2) and (3) |
+| Article 3 | Article 5 |
+| Article 4 | Article 6(1) and (2) |
+| — | Article 6(3) |
+| — | Article 7 |
+| — | Article 8 |
+| — | Article 9 |
+| — | Article 10 |
+| — | Article 11 |
+| — | Article 12 |
+| — | Article 13 |
+| Article 5(1)(a) | — |
+| Article 5(1)(b) | — |
+| Article 5(2) | — |
+| Article 6 | — |
+| Article 7 | — |
+| Article 8(1), (2) and (4) | Article 14(1) to (3) |
+| Article 8(3) and (5) | — |
+| Article 8(6) | Article 14(4) |
+| — | Article 15 |
+| — | Article 16 |
+| Article 9 | — |
+| Article 10 | — |
+| — | Article 17 |
+| Article 11 | — |
+| Article 12 | — |
+| — | Article 18 |
+| — | Article 19 |
+| — | Article 20 |
+| — | Article 21 |
+| — | Article 22 |
+| — | Article 23 |
+| — | Article 24 |
+| — | Article 25 |
+| — | Article 26 |
+| — | Article 27 |
+| — | Article 28 |
+| — | Article 29 |
+| — | Article 30 |
+| — | Article 31 |
+| — | Article 32 |
+| — | Article 33 |
+| — | Article 34 |
+| — | Article 35 |
+| — | Article 36 |
+| — | Article 37 |
+| — | Article 38 |
+| — | Article 39 |
+| — | Article 40 |
+| — | Article 41 |
+| — | Article 42 |
+| — | Article 43 |
+| — | Article 44 |
+| Article 13 | — |
+| Article 14 | — |
+| Article 15 | — |
+| Article 16 | — |
+| — | Article 45 |
+| — | Article 46 |
+| Annex I | Annex I |
+| — | Annex II |
+| Annex II | Annex III |
+| Annex III | Annex IV |
+| Annex IV | — |
+| Annex V | — |
+| Annex VI | — |
+| — | Annex V |
+| — | Annex VI |
+
+( 1 ) Regulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).
+
+( 2 ) Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1).
+
+( 3 ) Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC (OJ L 153, 22.5.2014, p. 62).
+
+( 4 ) Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357).
+
+( 5 ) Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility (OJ L 96, 29.3.2014, p. 79).
+
+( 6 ) Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4).
+
+( 7 ) Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC (OJ L 88, 4.4.2011, p. 5).
+
+( 8 ) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).
+
+( 9 ) It is optional for the manufacturer to assign a number to the declaration of conformity.

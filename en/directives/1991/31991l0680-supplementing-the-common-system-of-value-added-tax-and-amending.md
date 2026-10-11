@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(91/680/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/112/EC of 28 November 2006 </td><td> L 347</td><td>1</td><td>11.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2009/132/EC of 19 October 2009 </td><td> L 292</td><td>5</td><td>10.11.2009</td></tr>
+</table>
 
 C1
 

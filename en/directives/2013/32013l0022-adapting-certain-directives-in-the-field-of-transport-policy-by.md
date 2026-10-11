@@ -90,12 +90,15 @@ S. COVENEY
 
 **ROAD TRANSPORT**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>In Article 6(3) of Directive 92/106/EEC, the following is inserted in the list after the entry for France:<table><tbody><tr><td>‘—</td><td>Croatia: godišnja naknada za uporabu javnih cesta koja se plaća pri registraciji motornih i priključnih vozila;’. </td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Directive 1999/37/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>Annex I is amended as follows:<table><tbody><tr><td>(i)</td><td>in the second indent of point II.4, the following is inserted in the list after the entry for France:<table><tbody><tr><td>‘HR</td><td>:</td><td>Croatia’;</td></tr>
 </tbody>
 </table>
@@ -128,13 +131,17 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>In Article 3(1) of Directive 1999/62/EC, the following is inserted in the list after the entry for France:<table><tbody><tr><td>‘—</td><td>Croatia: godišnja naknada za uporabu javnih cesta koja se plaća pri registraciji motornih i priključnih vozila,’. </td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>Point 2 of Annex II to Directive 2003/59/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in point (c) below the words ‘side 1 contains’, the following is inserted in the list after the entry for France:<table><tbody><tr><td>‘HR</td><td>:</td><td>Croatia’;</td></tr>
 </tbody>
 </table>
@@ -149,7 +156,9 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>5.</td><td>Point 3 of Annex I to Directive 2006/126/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in point (c) below the words ‘Page 1 shall contain’, the following is inserted in the list after the entry for France:<table><tbody><tr><td>‘HR</td><td>:</td><td>Croatia’;</td></tr>
 </tbody>
 </table>
@@ -164,11 +173,13 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **PART B**
 
 **TRANSPORT BY INLAND WATERWAY**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>In Annex I to Directive 91/672/EEC, the following is added under the heading ‘GROUP B’: ‘Republic of Croatia: <table><tbody><tr><td>—</td><td>Svjedodžba o stručnoj osposobljenosti/Befähigungszeugnis Zapovjednik - vrsta A/Schiffsführer – Klasse A  (Certificate of professional qualification – Boatmaster type A) </td></tr>
 </tbody>
 </table>
@@ -177,7 +188,9 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Directive 2006/87/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>Annex I is amended as follows:<table><tbody><tr><td>(i)</td><td>in Chapter 2, Zone 3, the following is inserted after the entry for the French Republic: ‘Republic of Croatia  Danube: from rkm 1 295 + 500 to rkm 1 433  River Drava: from rkm 0 to rkm 198 + 600  River Sava: from rkm 211 to rkm 594  River Kupa: from rkm 0 to rkm 5 + 900  River Una: from rkm 0 to rkm 15’; </td></tr>
 </tbody>
 </table>
@@ -245,3 +258,4 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>

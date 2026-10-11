@@ -126,6 +126,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (*1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘342</td><td>Flurochloridone CAS No: 61213-25-0  CIPAC No: 430 </td><td>(3RS,4RS;3RS,4SR)-3-chloro-4-chloromethyl-1- (α,α,α-trifluoro-m-tolyl)-2-pyrrolidone </td><td>≥ 940 g/kg. Relevant impurities:  Toluene: max 8 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as herbicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on flurochloridone, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 4 February 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>1.</td><td>the risk for non-target plants and aquatic organisms;</td></tr>
 </tbody>
@@ -147,5 +148,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (1) and (2) by 1 December 2011, the information set out in point (3) by 31 May 2013 and the information set out in point (4) within 2 years after the adoption of the OECD test guidelines on endocrine disruption.’ </td></tr>
 </tbody>
+</table>
 
 (*1) Further details on identity and specification of active substance are provided in the review report.

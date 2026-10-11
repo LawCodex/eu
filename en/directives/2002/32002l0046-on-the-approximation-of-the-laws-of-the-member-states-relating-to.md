@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2006/37/EC of 30 March 2006 </td><td> L 94</td><td>32</td><td>1.4.2006</td></tr>
@@ -39,6 +40,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION REGULATION (EU) 2025/352 of 21 February 2025 </td><td> L 352</td><td>1</td><td>24.2.2025</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) 2025/2224 of 5 November 2025 </td><td> L 2224</td><td>1</td><td>6.11.2025</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) 2025/2225 of 5 November 2025 </td><td> L 2225</td><td>1</td><td>6.11.2025</td></tr>
+</table>
 
 **DIRECTIVE 2002/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

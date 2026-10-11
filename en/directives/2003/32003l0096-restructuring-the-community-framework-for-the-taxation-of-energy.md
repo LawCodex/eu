@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2004/74/EC of 29 April 2004 </td><td> L 157</td><td>87</td><td>30.4.2004</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2004/75/EC of 29 April 2004 </td><td> L 157</td><td>100</td><td>30.4.2004</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2018/552 of 6 April 2018 </td><td> L 91</td><td>27</td><td>9.4.2018</td></tr>
 <tr><td> M4</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2022/2521 of 20 December 2022 </td><td> L 326</td><td>57</td><td>21.12.2022</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2003/96/EC**
 

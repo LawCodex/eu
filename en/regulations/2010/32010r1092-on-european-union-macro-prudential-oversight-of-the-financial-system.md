@@ -1,0 +1,462 @@
+---
+title: "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+identifier: "32010R1092"
+eli: "http://data.europa.eu/eli/reg/2010/1092/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2010-11-24
+entry_into_force: 2010-12-23
+last_amended: 2025-11-10
+consolidated_version: "02010R1092-20251110"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R1092-20251110"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board
+
+**REGULATION (EU) No 1092/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 November 2010**
+
+**on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/2176 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2019 </td><td> L 334</td><td>146</td><td>27.12.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2088 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 October 2025 </td><td> L 2088</td><td>1</td><td>21.10.2025</td></tr>
+</table>
+
+**REGULATION (EU) No 1092/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 November 2010**
+
+**on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Establishment
+
+1\. A European Systemic Risk Board (ESRB) is established. It shall have its seat in Frankfurt am Main.
+
+2\. The ESRB shall be part of the European System of Financial Supervision (ESFS), the purpose of which is to ensure the supervision of the Union’s financial system.
+
+3\. The ESFS shall comprise:
+
+(a) the ESRB;
+
+(b) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010;
+
+(c) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010;
+
+(d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010;
+
+(e) the Joint Committee of the European Supervisory Authorities (Joint Committee) provided for by Article 54 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010;
+
+(f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010.
+
+4\. Pursuant to the principle of sincere cooperation in accordance with Article 4(3) of the Treaty on European Union, the parties to the ESFS shall cooperate with trust and full mutual respect, in particular to ensure that appropriate and reliable information flows between them.
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+(a) ‘financial institution’ means any undertaking that falls within the scope of the legislation referred to in Article 1(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, as well as any other undertaking or entity in the Union whose main business is of a similar nature;
+
+(b) ‘financial system’ means all financial institutions, markets, products and market infrastructures;
+
+(c) ‘systemic risk’ means a risk of disruption in the financial system with the potential to have serious negative consequences for the real economy of the Union or of one or more of its Member States and for the functioning of the internal market. All types of financial intermediaries, markets and infrastructure may be potentially systemically important to some degree.
+
+### Article 3 — Mission, objectives and tasks
+
+1\. The ESRB shall be responsible for the macro-prudential oversight of the financial system within the Union in order to contribute to the prevention or mitigation of systemic risks to financial stability in the Union that arise from developments within the financial system and taking into account macroeconomic developments, so as to avoid periods of widespread financial distress. It shall contribute to the smooth functioning of the internal market and thereby ensure a sustainable contribution of the financial sector to economic growth.
+
+2\. For the purposes of paragraph 1, the ESRB shall carry out the following tasks:
+
+(a) determining and/or collecting and analysing all the relevant and necessary information, for the purposes of achieving the objectives described in paragraph 1;
+
+(b) identifying and prioritising systemic risks;
+
+(c) issuing warnings where such systemic risks are deemed to be significant and, where appropriate, making those warnings public;
+
+(d) issuing recommendations for remedial action in response to the risks identified and, where appropriate, making those recommendations public;
+
+(e) when the ESRB determines that an emergency situation may arise pursuant to Article 18 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 issuing a confidential warning addressed to the Council and providing the Council with an assessment of the situation, in order to enable the Council to assess the need to adopt a decision addressed to the ESAs determining the existence of an emergency situation;
+
+(f) monitoring the follow-up to warnings and recommendations;
+
+(g) cooperating closely with all the other parties to the ESFS; where appropriate, providing the ESAs with the information on systemic risks required for the performance of their tasks; and, in particular, in collaboration with the ESAs, developing a common set of quantitative and qualitative indicators (risk dashboard) to identify and measure systemic risk;
+
+(h) participating, where appropriate, in the Joint Committee;
+
+(i) coordinating its actions with those of international financial organisations, particularly the IMF and the FSB as well as the relevant bodies in third countries on matters related to macro-prudential oversight;
+
+(j) carrying out other related tasks as specified in Union legislation.
+
+## CHAPTER II — ORGANISATION
+
+### Article 4 — Structure
+
+1\. The ESRB shall have a General Board, a Steering Committee, a Secretariat, an Advisory Scientific Committee and an Advisory Technical Committee.
+
+2\. The General Board shall take the decisions necessary to ensure the performance of the tasks entrusted to the ESRB, pursuant to Article 3(2).
+
+2a. When consulted on the appointment of the head of the Secretariat in accordance with Article 3(2) of Council Regulation (EU) No 1096/2010 ( 1 ), the General Board, following an open and transparent procedure, shall assess whether the shortlisted candidates for the position of head of the Secretariat possess the qualities, impartiality and experience necessary to manage the Secretariat. The General Board shall inform the European Parliament and the Council in sufficient detail about the assessment and consultation procedure.
+
+3\. The Steering Committee shall assist in the decision-making process of the ESRB by preparing the meetings of the General Board, reviewing the documents to be discussed and monitoring the progress of the ESRB’s ongoing work.
+
+3a. When giving directions to the head of the Secretariat in accordance with Article 4(1) of Council Regulation (EU) No 1096/2010, the Chair and the Steering Committee may address the following:
+
+(a) the day-to-day management of the Secretariat;
+
+(b) any administrative and budgetary issues related to the Secretariat;
+
+(c) the coordination and preparation of the work and the decision making of the General Board;
+
+(d) the preparation of the annual ESRB programme proposal and its implementation;
+
+(e) the preparation of the annual report on the ESRB’s activities and the reporting to the General Board on the implementation of the annual programme.
+
+4\. The Secretariat shall be responsible for the day-to-day business of the ESRB. It shall provide high-quality analytical, statistical, administrative and logistical support to the ESRB under the direction of the Chair and the Steering Committee in accordance with Council Regulation (EU) No 1096/2010 ( 2 ). It shall also draw on technical advice from the ESAs, national central banks and national supervisors.
+
+5\. The Advisory Scientific Committee and the Advisory Technical Committee referred to in Articles 12 and 13 shall provide advice and assistance on issues relevant to the work of the ESRB.
+
+### Article 5 — Chair and Vice-Chairs of the ESRB
+
+1\. The ESRB shall be chaired by the President of the ECB.
+
+2\. The first Vice-Chair shall be elected by and from the national members of the General Board with voting rights for a term of five years, with regard to the need for a balanced representation of Member States between those which are participating Member States as defined in point (1) of Article 2 of Council Regulation (EU) No 1024/2013 ( 3 ) and those which are not. The first Vice-Chair may be re-elected once.
+
+3\. The second Vice-Chair shall be the Chair of the Joint Committee as appointed pursuant to Article 55(3) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010.
+
+4\. The Chair and the Vice-Chairs shall present to the European Parliament, during a public hearing, how they intend to discharge their duties under this Regulation.
+
+5\. The Chair shall preside at the meetings of the General Board and the Steering Committee.
+
+6\. The Vice-Chairs, in order of precedence, shall preside at the General Board and/or the Steering Committee when the Chair is unable to participate in a meeting.
+
+7\. If the term of office of a member of the General Council of the ECB elected as first Vice-Chair ends before the completion of the five-year term or if for any reason the first Vice-Chair is unable to discharge his duties, a new first Vice-Chair shall be elected in accordance with paragraph 2.
+
+8\. The Chair shall represent the ESRB externally. The Chair may delegate tasks, such as tasks related to the external representation of the ESRB, including the presentation of the work programme, to the first Vice-Chair, or if the first Vice-Chair is unavailable and where appropriate, to the second Vice-Chair or to the head of the Secretariat. Tasks related to the ESRB’s accountability and reporting obligations laid down in Article 19(1), (4) and (5) may not be delegated.
+
+### Article 6 — General Board
+
+1\. Members of the General Board with voting rights shall comprise:
+
+(a) the President and the Vice-President of the ECB;
+
+(b) the Governors of the national central banks. Member States in which the national central bank is not a designated authority pursuant to Directive 2013/36/EU of the European Parliament and of the Council ( 4 ) or Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 5 ) and in which that designated authority has the leading role in financial stability in its area of competence may alternatively nominate a high-level representative of a designated authority pursuant to Directive 2013/36/EU or Regulation (EU) No 575/2013;
+
+(c) a Representative of the Commission;
+
+(d) the Chairperson of the European Supervisory Authority (European Banking Authority);
+
+(e) the Chairperson of the European Supervisory Authority (European Insurance and Occupational Pensions Authority);
+
+(f) the Chairperson of the European Supervisory Authority (European Securities and Markets Authority);
+
+(g) the Chair and the two Vice-Chairs of the Advisory Scientific Committee;
+
+(h) the Chair of the Advisory Technical Committee.
+
+2\. Members of the General Board without voting rights shall comprise:
+
+(a) subject to the decision of each Member State in accordance with point (b) of paragraph 1 and in accordance with paragraph 3, a high-level representative per Member State of the national supervisory authorities, of a national authority entrusted with the conduct of macroprudential policy, or of the national central bank, unless the Governor of the national central bank is not the member of the General Board with voting rights referred to in point (b) of paragraph 1 in which case a high-level representative of the national central bank shall be the member of the General Board without voting rights;
+
+(b) the President of the Economic and Financial Committee (EFC);
+
+(c) the Chair of the Supervisory Board of the ECB;
+
+(d) the Chair of the Single Resolution Board established by Regulation (EU) No 806/2014 of the European Parliament and of the Council ( 6 ).
+
+3\. The respective high-level representatives referred to in point (a) of paragraph 2 shall rotate depending on the item discussed, unless the national authorities of a particular Member State have agreed on a common representative.
+
+4\. The General Board shall establish rules of procedure for the ESRB.
+
+### Article 7 — Impartiality
+
+1\. When participating in the activities of the General Board and of the Steering Committee or when conducting any other activity relating to the ESRB, the members of the ESRB shall perform their duties impartially and solely in the interest of the Union as a whole. They shall not seek nor take instructions from any government, the Union institutions or any other public or private body.
+
+2\. No member of the General Board (whether voting or non-voting) shall have a function in the financial industry.
+
+3\. Neither the Member States, the Union institutions nor any other public or private body shall seek to influence the members of the ESRB in the performance of the tasks set out in Article 3(2).
+
+4\. No member of the General Board (whether voting or non-voting) shall have a function in the central government of a Member State.
+
+### Article 8 — Professional secrecy
+
+1\. Members of the General Board and any other persons who work or who have worked for or in connection with the ESRB (including the relevant staff of central banks, the Advisory Scientific Committee, the Advisory Technical Committee, the ESAs and the Member States’ competent national supervisory authorities) shall not disclose information that is subject to professional secrecy, even after their duties have ceased.
+
+This paragraph is without prejudice to the confidential oral discussions held in accordance with Article 19(5).
+
+2\. Information received by members of the ESRB shall be used only in the course of their duties and in performing the tasks set out in Article 3(2).
+
+2a. The members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy may, in their capacity as members of the ESRB provide to national authorities or to bodies responsible for the stability of the financial system in accordance with Union law or with national arrangements information related to the performance of the tasks entrusted to the ESRB which is necessary for the exercise of statutory tasks of those authorities or bodies, provided that sufficient safeguards are established to ensure full respect of relevant Union law and national arrangements.
+
+2b. Where information originates from other authorities than those referred to in paragraph 2a, members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy shall use that information for the exercise of their statutory tasks only with the explicit agreement of those authorities.
+
+3\. Without prejudice to Articles 15 and 16 and the application of criminal law, no confidential information received by the persons referred to in paragraph 1 of this Article whilst performing their duties shall be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.
+
+4\. The ESRB shall, together with the ESAs, agree on and establish specific confidentiality procedures in order to safeguard information regarding individual financial institutions and information from which individual financial institutions can be identified.
+
+### Article 9 — Meetings of the General Board
+
+1\. Ordinary plenary meetings of the General Board shall be convened by the Chair of the ESRB and shall take place at least four times a year. Extraordinary meetings may be convened at the initiative of the Chair of the ESRB or at the request of at least one third of the members of the General Board with voting rights.
+
+2\. Each member shall be present in person at the meetings of the General Board and shall not be represented.
+
+3\. By way of derogation from paragraph 2, a member who is prevented from attending the meetings for a period of at least 3 months may appoint an alternate. That member may also be replaced by a person who has been formally appointed under the rules governing the institution concerned for the substitution of representatives on a temporary basis.
+
+4\. Where appropriate, high-level representatives from international financial organisations carrying out activities directly related to the tasks of the ESRB set out in Article 3(2) or the President of the European Parliament or a representative of the European Parliament on topics related to Union law in the field of macroprudential policy may be invited to attend meetings of the General Board.
+
+5\. Participation in the work of the ESRB may be open to high-level representatives of the relevant authorities from third countries when relevant to the Union. Arrangements may be made by the ESRB specifying, in particular, the nature, scope and procedural aspects of the involvement of those third countries in the work of the ESRB. Such arrangements may provide for representation, on an ad-hoc basis, as an observer, on the General Board and should concern only items of relevance to the Union, excluding any case where the situation of individual financial institutions or Member States may be discussed.
+
+6\. The proceedings of the meetings shall be confidential. The General Board may decide to make an account of its deliberations public, subject to applicable confidentiality requirements and in a manner that does not allow for the identification of individual members of the General Board or of individual institutions. The General Board may also decide to hold press conferences after its meetings.
+
+### Article 10 — Voting modalities of the General Board
+
+1\. Each member of the General Board with a voting right shall have one vote.
+
+2\. Without prejudice to the voting procedures set out in Article 18(1), the General Board shall act by a simple majority of members present with voting rights. In the event of a tie, the Chair of the ESRB shall have the casting vote.
+
+3\. By derogation from paragraph 2, a majority of two-thirds of the votes cast shall be required to adopt a recommendation or to make a warning or recommendation public.
+
+4\. A quorum of two-thirds of the members with voting rights shall be required for any vote to be taken by the General Board. If the quorum is not met, the Chair of the ESRB may convene an extraordinary meeting at which decisions may be taken with a quorum of one-third. The rules of procedure referred to in Article 6(4) shall provide for adequate notice for convening an extraordinary meeting.
+
+### Article 11 — Steering Committee
+
+1\. The Steering Committee shall be composed of:
+
+(a) the Chair and first Vice-Chair of the ESRB;
+
+(b) the member of the Executive Board of the ECB responsible for financial stability and macroprudential policy;
+
+(c) four national members of the General Board with voting rights having regard to the need for a balanced representation of Member States between those which are participating Member States as defined in point (1) of Article 2 of Regulation (EU) No 1024/2013 and those which are not. They shall be elected by and from among national members of the General Board with voting rights for a period of three years;
+
+(d) a Representative of the Commission;
+
+(e) the Chairperson of the European Supervisory Authority (European Banking Authority);
+
+(f) the Chairperson of the European Supervisory Authority (European Insurance and Occupational Pensions Authority);
+
+(g) the Chairperson of the European Supervisory Authority (European Securities and Markets Authority);
+
+(h) the President of the EFC;
+
+(i) the Chair of the Advisory Scientific Committee; and
+
+(j) the Chair of the Advisory Technical Committee.
+
+Any vacancy for an elected member of the Steering Committee shall be filled by the election of a new member by the General Board.
+
+2\. The Chair and the first Vice-Chair of the ESRB shall jointly set up the meetings of the Steering Committee at least quarterly, before each meeting of the General Board. The Chair and the first Vice-Chair may also jointly set up ad-hoc meetings.
+
+### Article 12 — Advisory Scientific Committee
+
+1\. The Advisory Scientific Committee shall be composed of the Chair of the Advisory Technical Committee and 15 experts representing a wide range of skills, experience and knowledge pertaining to all relevant financial markets sectors, proposed by the Steering Committee and approved by the General Board for a four-year, renewable mandate. The nominees shall not be members of the ESAs and shall be chosen on the basis of their general competence and their diverse experience in academic fields or other sectors, in particular in small and medium-sized enterprises or trade unions, or as providers or consumers of financial services.
+
+2\. The Chair and the two Vice-Chairs of the Advisory Scientific Committee shall be appointed by the General Board following a proposal from the Chair of the ESRB and they shall each have a high level of relevant expertise and knowledge, for example by virtue of their relevant academic and professional background in the sectors of banking, securities markets, or insurance and occupational pensions. The role of the Chair of the Advisory Scientific Committee shall rotate between those three persons.
+
+3\. The Advisory Scientific Committee shall provide advice and assistance to the ESRB in accordance with Article 4(5), at the request of the Chair of the ESRB or the General Board.
+
+4\. The ESRB Secretariat shall support the work of the Advisory Scientific Committee and the head of the Secretariat shall participate in its meetings.
+
+5\. Where appropriate, the Advisory Scientific Committee shall organise consultations with stakeholders, such as market participants, consumer bodies and academic experts, at an early stage and in an open and transparent manner, while taking into account the requirement of confidentiality. Such consultations shall be conducted as widely as possible to ensure an inclusive approach towards all interested parties and relevant financial sectors and shall allow reasonable time for stakeholders to respond.
+
+6\. The Advisory Scientific Committee shall be provided with all necessary means in order to successfully complete its tasks.
+
+### Article 13 — Advisory Technical Committee
+
+1\. The Advisory Technical Committee shall be composed of:
+
+(a) a representative of each national central bank and a representative of the ECB;
+
+(b) one representative per Member State of the competent national supervisory authorities, in accordance with the second subparagraph;
+
+(c) a representative of the European Supervisory Authority (European Banking Authority);
+
+(d) a representative of the European Supervisory Authority (European Insurance and Occupational Pensions Authority);
+
+(e) a representative of the European Supervisory Authority (European Securities and Markets Authority);
+
+(f) a representative of the Commission;
+
+(fa) a representative of the Supervisory Board of the ECB;
+
+(fb) a representative of the Single Resolution Board;
+
+(g) a representative of the EFC; and
+
+(h) a representative of the Advisory Scientific Committee.
+
+The supervisory authorities of each Member State shall choose one representative in the Advisory Technical Committee. With regard to the representation of national supervisory authorities under point (b) of the first subparagraph, the respective representatives shall rotate depending on the item discussed, unless the national supervisory authorities of a particular Member State have agreed on a common representative.
+
+2\. The Chair of the Advisory Technical Committee shall be appointed by the General Board following a proposal from the Chair of the ESRB.
+
+3\. The Advisory Technical Committee shall provide advice and assistance to the ESRB in accordance with Article 4(5) at the request of the Chair of the ESRB or the General Board.
+
+4\. The ESRB Secretariat shall support the work of the Advisory Technical Committee and the head of the Secretariat shall participate in its meetings.
+
+4a. Where appropriate, the Advisory Technical Committee shall organise consultations with stakeholders, such as market participants, consumer bodies and academic experts, at an early stage and in an open and transparent manner, while taking into account the requirement of confidentiality. Such consultations shall be conducted as widely as possible to ensure an inclusive approach towards all interested parties and relevant financial sectors and shall allow reasonable time for stakeholders to respond.
+
+5\. The Advisory Technical Committee shall be provided with all necessary means in order to successfully complete its tasks.
+
+### Article 14 — Other sources of advice
+
+In performing the tasks set out in Article 3(2), the ESRB shall, where appropriate consult relevant private sector stakeholders. Such consultations shall be conducted as widely as possible to ensure an inclusive approach towards all interested parties and relevant financial sectors and shall allow reasonable time for stakeholders to respond.
+
+## CHAPTER III — TASKS
+
+### Article 15 — Collection and exchange of information
+
+1\. The ESRB shall provide the ESAs with the information on risks necessary for the achievement of their tasks.
+
+2\. The ESAs, the European System of Central Banks (ESCB), the Commission, the national supervisory authorities and national statistics authorities shall cooperate closely with the ESRB and shall provide it with all the information necessary for the fulfilment of its tasks in accordance with Union legislation.
+
+3\. Subject to Article 36(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, the ESRB may request information from the ESAs, as a rule in summary or aggregate form such that individual financial institutions cannot be identified.
+
+4\. Before requesting information in accordance with this Article, the ESRB shall first take account of the existing statistics produced, disseminated and developed by the European Statistical System and the ESCB.
+
+5\. If the requested information is not available or is not made available in a timely manner, the ESRB may request the information from the ESCB, the national supervisory authorities or the national statistics authorities. If the information remains unavailable, the ESRB may request it from the Member State concerned, without prejudice to the prerogatives conferred, respectively, on the Council, the Commission (Eurostat), the ECB, the Eurosystem and the ESCB in the field of statistics and data collection.
+
+6\. If the ESRB requests information that is not in summary or aggregate form, the reasoned request shall explain why data on the respective individual financial institution is deemed to be systemically relevant, and necessary, considering the prevailing market situation.
+
+7\. Before each request for information of a supervisory nature which is not in summary or aggregate form, the ESRB shall duly consult the relevant European Supervisory Authority in order to ensure that the request is justified and proportionate. If the relevant European Supervisory Authority does not consider the request to be justified and proportionate, it shall, without delay, send the request back to the ESRB and ask for additional justification. After the ESRB has provided the relevant European Supervisory Authority with such additional justification, the requested information shall be transmitted to the ESRB by the addressees of the request, provided that they have legal access to the relevant information.
+
+8\. The ESRB shall share, on a regular or case-by-case basis, information that it obtained from one of the other authorities when carrying out its duties and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.
+
+9\. A request to exchange information pursuant to paragraph 8 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.
+
+The requesting authority and the ESRB shall be subject to the obligations of professional secrecy and data protection laid down in Article 8 and in sectoral legislation which apply to the sharing of information between the financial institution or the other authorities and the requesting authority, and between the other authorities and the ESRB.
+
+10\. Where the ESRB exchanges information pursuant to paragraph 8, it shall, without undue delay, inform each authority from which it obtained the information about the exchange. In the case of recurring or periodic exchanges of information, the ESRB shall be obliged to inform the authority from which it obtained the information only once.
+
+11\. By way of derogation from paragraph 10, the ESRB shall not be obliged to inform the authority about the exchange of information where either of the following conditions is met:
+
+(a) the information has been anonymised in such a manner that it no longer relates to any identified or identifiable natural person and that the financial institution or other legal entities are no longer identifiable; or
+
+(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, and to protect personal data through appropriate technical and organisational measures in accordance with Regulations (EU) 2016/679 ( 7 ) and (EU) 2018/1725 ( 8 ) of the European Parliament and of the Council.
+
+12\. Paragraphs 8 to 11 shall also apply to information that the ESRB has received from the other authorities and upon which the ESRB has subsequently performed quality checks or which the ESRB has otherwise processed.
+
+13\. To facilitate exchanges of information as referred to in paragraphs 8 to 12, the ESRB and the other authorities may enter into memoranda of understanding regarding the arrangements for such exchanges. The memoranda of understanding may also specify arrangements for the sharing of resources for the collection and processing of shared information. The Commission may, after consulting the ESRB and the other authorities, develop guidance on the main elements of such memoranda of understanding.
+
+14\. Paragraphs 8 to 13 shall be without prejudice to the protection of intellectual property rights and shall not prevent or restrict the exchange of information between the ESRB and the other authorities in accordance with other provisions of this Regulation or with other Union legislation.
+
+In the event of a conflict between paragraphs 8 to 13 and other provisions of this Regulation or other Union legislation that govern the exchange of information between the ESRB and the other authorities, such other provisions shall prevail.
+
+15\. The ESRB may, at its own discretion, grant access to information obtained when carrying out its duties for re-use by financial institutions, researchers and other entities that have a legitimate interest in that information for research and innovation purposes, provided that the ESRB has ensured that all of the following conditions have been complied with:
+
+(a) the necessary measures have been taken to anonymise the information in a manner that prevents individual financial institutions, entities, data subjects and Member States from being identified;
+
+(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, or content covered by intellectual property rights.
+
+Information received from any authority shall be shared pursuant to the first subparagraph only with the consent of the authority that initially obtained that information.
+
+16\. By 11 November 2027, the ESRB shall report to the Commission on all legal obstacles in sectoral legislation that prevent it, in any way, from exchanging information with the other authorities or with other entities. The report may also address non-material, obsolete, duplicative or otherwise irrelevant reporting requirements. It may also include suggestions for improving consistency between reporting requirements for financial and non-financial entities. The report shall be updated on a regular basis, where necessary.
+
+Taking into account the report referred to in the first subparagraph, the protection of intellectual property rights and the obligations of professional secrecy and data protection, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to remove such legal obstacles in sectoral legislation, to foster the exchange of information between authorities and with other entities.
+
+17\. For the purposes of this Article, ‘other authorities’ means any of the following authorities:
+
+(a) the European Supervisory Authority (European Banking Authority);
+
+(b) the European Supervisory Authority (European Insurance and Occupational Pensions Authority);
+
+(c) the European Supervisory Authority (European Securities and Markets Authority);
+
+(d) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1093/2010;
+
+(e) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1094/2010;
+
+(f) competent authorities, as defined in Article 4, point (3), of Regulation (EU) No 1095/2010;
+
+(g) the authorities composing the Single supervisory mechanism, as defined in Article 2, point (9), of Regulation (EU) No 1024/2013;
+
+(h) the Single Resolution Board, as established by Regulation (EU) No 806/2014;
+
+(i) resolution authorities, such as those referred to in Article 3(3) of Directive 2014/59/EU;
+
+(j) the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, as established by Regulation (EU) 2024/1620 of the European Parliament and of the Council ( 9 );
+
+(k) financial supervisors, as defined in Article 2, second subparagraph, point (1), of Directive (EU) 2024/1640 of the European Parliament and of the Council ( 10 ).
+
+### Article 16 — Warnings and recommendations
+
+1\. When significant risks to the achievement of the objective in Article 3(1) are identified, the ESRB shall provide warnings and, where appropriate, issue recommendations for remedial action, including, where appropriate, for legislative initiatives.
+
+2\. Warnings or recommendations issued by the ESRB in accordance with points (c) and (d) of Article 3(2) of this Regulation may be of either a general or a specific nature and shall be addressed in particular to the Union, to one or more Member States, to one or more of the ESAs, to one or more of the national supervisory authorities, to one or more national authorities designated for the application of measures aimed at addressing systemic or macro-prudential risk, to the ECB for the tasks conferred to the ECB in accordance with Articles 4(1), 4(2) and 5(2) of Regulation (EU) No 1024/2013, to resolution authorities designated by Member States pursuant to Directive 2014/59/EU of the European Parliament and of the Council ( 11 ) or to the Single Resolution Board. If a warning or a recommendation is addressed to one or more of the national supervisory authorities, the Member State or Member States concerned shall also be informed thereof. Recommendations shall include a specified timeline for the policy response. Recommendations may also be addressed to the Commission in respect of the relevant Union legislation.
+
+3\. At the same time as they are transmitted to the addressees in accordance with paragraph 2, the warnings or recommendations shall be transmitted, in accordance with strict rules of confidentiality, to the European Parliament, to the Council, to the Commission and to the ESAs. When confidential or non-public warnings or recommendations are being transmitted, the General Board shall, where appropriate, require that an agreement be concluded to ensure confidentiality.
+
+4\. In order to enhance the awareness of risks in the economy of the Union and to prioritise such risks, the ESRB, in close cooperation with the other parties to the ESFS, shall elaborate a colour-coded system corresponding to situations of different risk levels.
+
+Once the criteria for such classification have been elaborated, the ESRB’s warnings and recommendations shall indicate, on a case-by-case basis, and where appropriate, to which category the risk belongs.
+
+### Article 17 — Follow-up of the ESRB recommendations
+
+1\. If a recommendation referred to in point (d) of Article 3(2) is addressed to one of the addressees listed in Article 16(2), the addressee shall communicate to the European Parliament, the Council, the Commission and to the ESRB the actions undertaken in response to the recommendation and shall substantiate any inaction. Where relevant, the ESRB shall, subject to strict rules of confidentiality, inform the ESAs of the answers received without delay.
+
+2\. If the ESRB decides that its recommendation has not been followed or that the addressees have failed to provide adequate justification for their inaction, the ESRB shall, subject to strict rules of confidentiality, inform the addressees, the European Parliament, the Council and the relevant ESAs thereof.
+
+3\. If the ESRB has made a decision under paragraph 2 on a recommendation that has been made public following the procedure set out in Article 18(1), the European Parliament may invite the Chair of the ESRB to present that decision and the addressees may request to participate in an exchange of views.
+
+### Article 18 — Public warnings and recommendations
+
+1\. The General Board shall decide on a case-by-case basis, after having informed the Council sufficiently in advance so that it is able to react, whether a warning or a recommendation should be made public. Notwithstanding Article 10(3), a quorum of two-thirds shall always apply to decisions taken by the General Board under this paragraph.
+
+2\. If the General Board decides to make a warning or recommendation public, it shall inform the addressees in advance.
+
+3\. The addressees of warnings and recommendations made public by the ESRB shall also be provided with the right of making public their views and reasoning in response thereto.
+
+4\. Where the General Board decides not to make a warning or a recommendation public, the addressees, and where appropriate, the European Parliament, the Council and the ESAs shall take all the measures necessary to protect the confidentiality of that warning or recommendation.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 19 — Accountability and reporting obligations
+
+1\. At least annually and more frequently in the event of widespread financial distress, the Chair of the ESRB shall be invited to a hearing in the European Parliament by the competent committee, marking the publication of the ESRB’s annual report to the European Parliament and the Council. That hearing shall be conducted separately from the monetary dialogue between the European Parliament and the President of the ECB.
+
+2\. The annual report referred to in paragraph 1 of this Article shall contain the information that the General Board decides to make public in accordance with Article 18 of this Regulation. The annual report shall be made available to the public and shall include an account of the resources made available to the ESRB in accordance with Article 3(1) of Regulation (EU) No 1096/2010.
+
+3\. The ESRB shall also examine specific issues at the invitation of the European Parliament, the Council or the Commission.
+
+4\. The European Parliament may request the Chair of the ESRB to attend a hearing of the competent Committees of the European Parliament.
+
+5\. The Chair of the ESRB shall hold confidential oral discussions at least twice a year and more often if deemed appropriate, behind closed doors with the Chair and Vice-Chairs of the Economic and Monetary Affairs Committee of the European Parliament on the ongoing activity of the ESRB. An agreement shall be concluded between the European Parliament and the ESRB on the detailed modalities of organising those meetings, with a view to ensuring full confidentiality in accordance with Article 8. The ESRB shall provide a copy of that agreement to the Council.
+
+6\. The ESRB shall reply orally or in writing to questions put to it by the European Parliament or by the Council. It shall reply to those questions without undue delay. When confidential information is transmitted, the European Parliament shall ensure the full confidentiality of that information in accordance with Article 8 and paragraph 5 of this Article.
+
+### Article 20 — Review
+
+By 31 December 2024, the Commission shall, after having consulted the members of the ESRB, report to the European Parliament and to the Council on whether it is necessary to review the mission or organisation of the ESRB, also considering possible alternative models to the current one.
+
+### Article 21 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Council Regulation (EU) No 1096/2010 of 17 November 2010 conferring specific tasks upon the European Central Bank concerning the functioning of the European Systemic Risk Board (OJ L 331, 15.12.2010, p. 162).
+
+( 2 ) See page 162 of this Official Journal.
+
+( 3 ) Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).
+
+( 4 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+( 5 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 6 ) Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1).
+
+( 7 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
+
+( 8 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+
+( 9 ) Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (OJ L, 2024/1620, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1620/oj).
+
+( 10 ) Directive (EU) 2024/1640 of the European Parliament and of the Council of 31 May 2024 on the mechanisms to be put in place by Member States for the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Directive (EU) 2019/1937, and amending and repealing Directive (EU) 2015/849 (OJ L, 2024/1640, 19.6.2024, ELI: http://data.europa.eu/eli/dir/2024/1640/oj).
+
+( 11 ) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).

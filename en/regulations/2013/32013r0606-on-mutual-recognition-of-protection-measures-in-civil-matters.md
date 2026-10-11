@@ -1,0 +1,255 @@
+---
+title: "Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters"
+identifier: "32013R0606"
+eli: "http://data.europa.eu/eli/reg/2013/606/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-06-12
+entry_into_force: 2014-07-01
+last_amended: 2025-05-01
+consolidated_version: "02013R0606-20250501"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0606-20250501"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters
+
+**REGULATION (EU) No 606/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 June 2013**
+
+**on mutual recognition of protection measures in civil matters**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2844 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2844</td><td>1</td><td>27.12.2023</td></tr>
+</table>
+
+**REGULATION (EU) No 606/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 June 2013**
+
+**on mutual recognition of protection measures in civil matters**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation establishes rules for a simple and rapid mechanism for the recognition of protection measures ordered in a Member State in civil matters.
+
+### Article 2 — Scope
+
+1\. This Regulation shall apply to protection measures in civil matters ordered by an issuing authority within the meaning of point (4) of Article 3.
+
+2\. This Regulation shall apply to cross-border cases. For the purposes of this Regulation, a case shall be deemed to be a cross-border case where the recognition of a protection measure ordered in one Member State is sought in another Member State.
+
+3\. This Regulation shall not apply to protection measures falling within the scope of Regulation (EC) No 2201/2003.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘protection measure’ means any decision, whatever it may be called, ordered by the issuing authority of the Member State of origin in accordance with its national law and imposing one or more of the following obligations on the person causing the risk with a view to protecting another person, when the latter person’s physical or psychological integrity may be at risk:
+
+(a) a prohibition or regulation on entering the place where the protected person resides, works, or regularly visits or stays;
+
+(b) a prohibition or regulation of contact, in any form, with the protected person, including by telephone, electronic or ordinary mail, fax or any other means;
+
+(c) a prohibition or regulation on approaching the protected person closer than a prescribed distance;
+
+(2) ‘protected person’ means a natural person who is the object of the protection afforded by a protection measure;
+
+(3) ‘person causing the risk’ means a natural person on whom one or more of the obligations referred to in point (1) have been imposed;
+
+(4) ‘issuing authority’ means any judicial authority, or any other authority designated by a Member State as having competence in the matters falling within the scope of this Regulation, provided that such other authority offers guarantees to the parties with regard to impartiality, and that its decisions in relation to the protection measure may, under the law of the Member State in which it operates, be made subject to review by a judicial authority and have similar force and effects to those of a decision of a judicial authority on the same matter;
+
+(5) ‘Member State of origin’ means the Member State in which the protection measure is ordered;
+
+(6) ‘Member State addressed’ means the Member State in which the recognition and, where applicable, the enforcement of the protection measure is sought.
+
+## CHAPTER II — RECOGNITION AND ENFORCEMENT OF PROTECTION MEASURES
+
+### Article 4 — Recognition and enforcement
+
+1\. A protection measure ordered in a Member State shall be recognised in the other Member States without any special procedure being required and shall be enforceable without a declaration of enforceability being required.
+
+2\. A protected person who wishes to invoke in the Member State addressed a protection measure ordered in the Member State of origin shall provide the competent authority of the Member State addressed with:
+
+(a) a copy of the protection measure which satisfies the conditions necessary to establish its authenticity;
+
+(b) the certificate issued in the Member State of origin pursuant to Article 5; and
+
+(c) where necessary, a transliteration and/or a translation of the certificate in accordance with Article 16.
+
+3\. The certificate shall take effect only within the limits of the enforceability of the protection measure.
+
+4\. Irrespective of whether the protection measure has a longer duration, the effects of recognition pursuant to paragraph 1 shall be limited to a period of 12 months, starting from the date of the issuing of the certificate.
+
+5\. The procedure for the enforcement of protection measures shall be governed by the law of the Member State addressed.
+
+### Article 5 — Certificate
+
+1\. The issuing authority of the Member State of origin shall, upon request by the protected person, issue the certificate using the multilingual standard form established in accordance with Article 19 and containing the information provided for in Article 7.
+
+2\. No appeal shall lie against the issuing of the certificate.
+
+3\. Upon request by the protected person, the issuing authority of the Member State of origin shall provide the protected person with a transliteration and/or a translation of the certificate by making use of the multilingual standard form established in accordance with Article 19.
+
+### Article 6 — Requirements for the issuing of the certificate
+
+1\. The certificate may only be issued if the protection measure has been brought to the notice of the person causing the risk in accordance with the law of the Member State of origin.
+
+2\. Where the protection measure was ordered in default of appearance, the certificate may only be issued if the person causing the risk had been served with the document which instituted the proceeding or an equivalent document or, where relevant, had been otherwise informed of the initiation of the proceeding in accordance with the law of the Member State of origin in sufficient time and in such a way as to enable that person to arrange for his or her defence.
+
+3\. Where the protection measure was ordered under a procedure that does not provide for prior notice to be given to the person causing the risk (‘ex-parte proceeding’), the certificate may only be issued if that person had the right to challenge the protection measure under the law of the Member State of origin.
+
+### Article 7 — Contents of the certificate
+
+The certificate shall contain the following information:
+
+(a) the name and address/contact details of the issuing authority;
+
+(b) the reference number of the file;
+
+(c) the date of issue of the certificate;
+
+(d) details concerning the protected person: name, date and place of birth, where available, and an address to be used for notification purposes, preceded by a conspicuous warning that that address may be disclosed to the person causing the risk;
+
+(e) details concerning the person causing the risk: name, date and place of birth, where available, and address to be used for notification purposes;
+
+(f) all information necessary for enforcement of the protection measure, including, where applicable, the type of the measure and the obligation imposed by it on the person causing the risk and specifying the function of the place and/or the circumscribed area which that person is prohibited from approaching or entering, respectively;
+
+(g) the duration of the protection measure;
+
+(h) the duration of the effects of recognition pursuant to Article 4(4);
+
+(i) a declaration that the requirements laid down in Article 6 have been met;
+
+(j) information on the rights granted under Articles 9 and 13;
+
+(k) for ease of reference, the full title of this Regulation.
+
+### Article 8 — Notification of the certificate to the person causing the risk
+
+1\. The issuing authority of the Member State of origin shall bring to the notice of the person causing the risk the certificate and the fact that the issuing of the certificate results in the recognition and, where applicable, in the enforceability of the protection measure in all Member States pursuant to Article 4.
+
+2\. Where the person causing the risk resides in the Member State of origin, the notification shall be effected in accordance with the law of that Member State. Where the person causing the risk resides in a Member State other than the Member State of origin, the notification shall be effected by registered letter with acknowledgment of receipt or equivalent or by the electronic means of service provided for in Articles 19 and 19a of Regulation (EU) 2020/1784 of the European Parliament and of the Council ( 1 ). Where the person causing the risk resides in a third country, the notification shall be effected by registered letter with acknowledgment of receipt or equivalent.
+
+Situations in which the address of the person causing the risk is not known or in which that person refuses to accept receipt of the notification shall be governed by the law of the Member State of origin.
+
+3\. The whereabouts or other contact details of the protected person shall not be disclosed to the person causing the risk unless their disclosure is necessary for compliance with, or the enforcement of, the protection measure.
+
+### Article 9 — Rectification or withdrawal of the certificate
+
+1\. Without prejudice to Article 5(2) and upon request by the protected person or the person causing the risk to the issuing authority of the Member State of origin or on that authority’s own initiative, the certificate shall be:
+
+(a) rectified where, due to a clerical error, there is a discrepancy between the protection measure and the certificate; or
+
+(b) withdrawn where it was clearly wrongly granted, having regard to the requirements laid down in Article 6 and the scope of this Regulation.
+
+2\. The procedure, including any appeal, with regard to the rectification or withdrawal of the certificate shall be governed by the law of the Member State of origin.
+
+### Article 10 — Assistance to the protected person
+
+Upon request by the protected person, the issuing authority of the Member State of origin shall assist that person in obtaining information, as made available in accordance with Articles 17 and 18, concerning the authorities of the Member State addressed before which the protection measure is to be invoked or enforcement is to be sought.
+
+### Article 11 — Adjustment of the protection measure
+
+1\. The competent authority of the Member State addressed shall, where and to the extent necessary, adjust the factual elements of the protection measure in order to give effect to the protection measure in that Member State.
+
+2\. The procedure for the adjustment of the protection measure shall be governed by the law of the Member State addressed.
+
+3\. The adjustment of the protection measure shall be brought to the notice of the person causing the risk.
+
+4\. Where the person causing the risk resides in the Member State addressed, the notification shall be effected in accordance with the law of that Member State. Where the person causing the risk resides in a Member State other than the Member State addressed, the notification shall be effected by registered letter with acknowledgment of receipt or equivalent or by the electronic means of service provided for in Articles 19 and 19a of Regulation (EU) 2020/1784. Where the person causing the risk resides in a third country, the notification shall be effected by registered letter with acknowledgment of receipt or equivalent.
+
+Situations in which the address of the person causing the risk is not known or in which that person refuses to accept receipt of the notification shall be governed by the law of the Member State addressed.
+
+5\. An appeal against the adjustment of the protection measure may be lodged by the protected person or the person causing the risk. The appeal procedure shall be governed by the law of the Member State addressed. However, the lodging of an appeal shall not have suspensive effect.
+
+### Article 12 — No review as to substance
+
+Under no circumstances may a protection measure ordered in the Member State of origin be reviewed as to its substance in the Member State addressed.
+
+### Article 13 — Refusal of recognition or enforcement
+
+1\. The recognition and, where applicable, the enforcement of the protection measure shall be refused, upon application by the person causing the risk, to the extent such recognition is:
+
+(a) manifestly contrary to public policy in the Member State addressed; or
+
+(b) irreconcilable with a judgment given or recognised in the Member State addressed.
+
+2\. The application for refusal of recognition or enforcement shall be submitted to the court of the Member State addressed as communicated by that Member State to the Commission in accordance with point (a)(iv) of Article 18(1).
+
+3\. The recognition of the protection measure may not be refused on the ground that the law of the Member State addressed does not allow for such a measure based on the same facts.
+
+### Article 14 — Suspension or withdrawal of recognition or enforcement
+
+1\. In the event of suspension or withdrawal of the protection measure in the Member State of origin, suspension or limitation of its enforceability, or withdrawal of the certificate in accordance with point (b) of Article 9(1), the issuing authority of the Member State of origin shall, upon request by the protected person or the person causing the risk, issue a certificate indicating that suspension, limitation or withdrawal using the multilingual standard form established in accordance with Article 19.
+
+2\. Upon submission by the protected person or the person causing the risk of the certificate issued in accordance with paragraph 1, the competent authority of the Member State addressed shall suspend or withdraw the effects of the recognition and, where applicable, the enforcement of the protection measure.
+
+## CHAPTER III — GENERAL AND FINAL PROVISIONS
+
+### Article 15 — Legalisation and other similar formalities
+
+No legalisation or other similar formality shall be required for documents issued in a Member State in the context of this Regulation.
+
+### Article 16 — Transliteration or translation
+
+1\. Any transliteration or translation required under this Regulation shall be into the official language or one of the official languages of the Member State addressed or into any other official language of the institutions of the Union which that Member State has indicated it can accept.
+
+2\. Subject to Article 5(3), any translation under this Regulation shall be done by a person qualified to do translations in one of the Member States.
+
+### Article 17 — Information made available to the public
+
+The Member States shall provide, within the framework of the European Judicial Network in civil and commercial matters established by Decision 2001/470/EC and with a view to making the information available to the public, a description of the national rules and procedures concerning protection measures in civil matters, including information on the type of authorities which are competent in the matters falling within the scope of this Regulation.
+
+The Member States shall keep that information updated.
+
+### Article 18 — Communication of information by the Member States
+
+1\. By 11 July 2014, Member States shall communicate to the Commission the following information:
+
+(a) the type of authorities which are competent in the matters falling within the scope of this Regulation, specifying, where applicable:
+
+(i) the authorities which are competent to order protection measures and issue certificates in accordance with Article 5;
+
+(ii) the authorities before which a protection measure ordered in another Member State is to be invoked and/or which are competent to enforce such a measure;
+
+(iii) the authorities which are competent to effect the adjustment of protection measures in accordance with Article 11(1);
+
+(iv) the courts to which the application for refusal of recognition and, where applicable, enforcement is to be submitted in accordance with Article 13;
+
+(b) the language or languages accepted for translations as referred to in Article 16(1).
+
+2\. The Commission shall make the information referred to in paragraph 1 available to the public through any appropriate means, in particular through the website of the European Judicial Network in civil and commercial matters.
+
+### Article 19 — Establishment and subsequent amendment of the forms
+
+The Commission shall adopt implementing acts establishing and subsequently amending the forms referred to in Articles 5 and 14. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 20.
+
+### Article 20 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 21 — Review
+
+By 11 January 2020, the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation. If necessary, the report shall be accompanied by proposals for amendments.
+
+### Article 22 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 11 January 2015.
+
+This Regulation shall apply to protection measures ordered on or after 11 January 2015, irrespective of when proceedings have been instituted.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( 1 ) Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (OJ L 405, 2.12.2020, p. 40).

@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2018/970 of 18 April 2018 </td><td> L 174</td><td>15</td><td>10.7.2018</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1308 of 28 April 2021 </td><td> L 284</td><td>1</td><td>9.8.2021</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2477 of 30 August 2023 </td><td> L 2477</td><td>1</td><td>7.11.2023</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2177 of 9 September 2025 </td><td> L 2177</td><td>1</td><td>26.11.2025</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/1629 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -538,9 +540,11 @@ Annex VII: Correlation table
 
 Germany
 
+<table>
 <tbody><tr><td>Ems</td><td>From a line linking the former Greetsiel lighthouse and the western pier of the port entrance at Eemshaven seawards as far as latitude 53° 30′ N and longitude 6° 45′ E, i.e. slightly seawards of the lightering area for dry-cargo carriers in the Alte Ems (1)</td></tr>
 <tr><td colspan="2">(1)  For vessels domiciled in another State, the provisions of Article 32 of the Ems-Dollart Treaty of 8 April 1960 (BGBl. 1963 II, p. 602) shall apply. </td></tr>
 </tbody>
+</table>
 
 France
 
@@ -612,6 +616,7 @@ Dam Lake Lipno
 
 Germany
 
+<table>
 <tbody><tr><td>Ems</td><td>From a line across the Ems near the entrance to the port of Papenburg between the former Diemen pumping station and the opening of the dyke at Halte as far as a line linking the former Greetsiel lighthouse and the western pier of the port entrance at Eemshaven (1)</td></tr>
 <tr><td>LEDA</td><td>From the entrance of the outer harbour of Leer sea lock to the mouth in the Ems</td></tr>
 <tr><td>Jade</td><td>Landwards of a line linking the former Schillig upper light and the church tower at Langwarden</td></tr>
@@ -644,6 +649,7 @@ Germany
 <tr><td>Uecker</td><td>From the south-west edge of the road bridge in the Uekermünde to the linking line over the seaward edges of the pier heads</td></tr>
 <tr><td colspan="2">(1)  For vessels domiciled in another State, the provisions of Article 32 of the Ems-Dollart Treaty of 8 April 1960 (BGBl. 1963 II, p. 602) shall apply. </td></tr>
 </tbody>
+</table>
 
 France
 
@@ -1343,6 +1349,7 @@ Classification societies seeking recognition pursuant to Article 21 of this Dire
 
 **CORRELATION TABLE**
 
+<table>
 <tbody><tr><td>Directive 2006/87/EC</td><td>This Directive</td></tr>
 <tr><td>—</td><td>Article 1</td></tr>
 <tr><td>Article 2</td><td>Article 2</td></tr>
@@ -1394,6 +1401,7 @@ Classification societies seeking recognition pursuant to Article 21 of this Dire
 <tr><td>Article 27</td><td>Article 40</td></tr>
 <tr><td colspan="2">(1)  Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Directive 2009/45/EC of the European Parliament and of the Council of 6 May 2009 on safety rules and standards for passenger ships (OJ L 163, 25.6.2009, p. 1).
 

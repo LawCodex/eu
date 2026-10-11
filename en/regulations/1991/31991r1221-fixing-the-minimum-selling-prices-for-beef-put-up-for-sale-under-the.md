@@ -1,0 +1,51 @@
+---
+title: "Commission Regulation (EEC) No 1221/91 of 8 May 1991 fixing the minimum selling prices for beef put up for sale under the invitation to tender referred to in Regulation (EEC) No 1016/91"
+identifier: "31991R1221"
+eli: "http://data.europa.eu/eli/reg/1991/1221/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1991-05-08
+entry_into_force: 1991-04-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R1221"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EEC) No 1221/91 of 8 May 1991 fixing the minimum selling prices for beef put up for sale under the invitation to tender referred to in Regulation (EEC) No 1016/91
+
+COMMISSION REGULATION (EEC) No 1221/91 of 8 May 1991 fixing the minimum selling prices for beef put up for sale under the invitation to tender referred to in Regulation (EEC) No 1016/91
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Regulation (EEC) No 3577/90 (2), and in particular Article 7 (3) thereof,
+
+Whereas tenders have been invited for certain quantities of beef fixed by Commission Regulation (EEC) No 1016/91 (3);
+
+Whereas, pursuant to Article 9 of Commission Regulation (EEC) No 2173/79 (4), as amended by Regulation (EEC) No 1809/87 (5), the minimum selling prices for meat put up for sale by tender should be fixed, taking into account tenders submitted;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The minimum selling prices for beef for the invitation to tender held in accordance with Regulation (EEC) No 1016/91 for which the time limit for the submission of tenders was 29 April 1991 are as set out in the Annex hereto.
+
+## Article 2
+
+The Regulation shall enter into force on 9 May 1991. This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 8 May 1991. For the Commission
+
+Ray MAC SHARRY
+
+Member of the Commission
+
+(1) OJ No L 148, 28. 6. 1968, p. 24. (2) OJ No L 353, 17. 12. 1990, p. 23. (3) OJ No L 105, 25. 4. 1991, p. 33. (4) OJ No L 251, 5. 10. 1979, p. 12. (5) OJ No L 170, 30. 6. 1987, p. 23.
+
+PARARTIMA ANEXO - BILAG - ANHANG - - ANNEX - ANNEXE - ALLEGATO - BIJLAGE - ANEXO
+
+Estado miembro Productos Precio mínimo expresado en ecus por tonelada Medlemsstat Produkter Mindstepriser i ECU/ton Mitgliedstaat Erzeugnisse Mindestpreise, ausgedrueckt in ECU/Tonne Kratos Proionta Elachistes times poliseos ekfrazomenes se Ecu ana tono Member State Products Minimum prices expressed in ECU per tonne État membre Produits Prix minimaux exprimés en écus par tonne Stato membro Prodotti Prezzi minimi espressi in ecu per tonnellata Lid-Staat Produkten Minimumprijzen uitgedrukt in ecu per ton Estado-membro Produtos Preço mínimo expresso em ecus por tonelada UNITED KINGDOM Topside 3 156,3 Silverside 2 800,0 Rump - Thick flank - Pony 2 010,0 Pony parts - Clod and sticking - Forerib - Shin/shank - Brisket 1 178,2 Forequarter flank - Thin flank - Hindquarter skirt - Striploin flankedge -

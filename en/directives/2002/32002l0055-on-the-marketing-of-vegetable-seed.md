@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the marketing of vegetable seed**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2003/61/EC of 18 June 2003 </td><td> L 165</td><td>23</td><td>3.7.2003</td></tr>
@@ -36,6 +37,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/432 of 23 March 2020 </td><td> L 88</td><td>3</td><td>24.3.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/971 of 16 June 2021 </td><td> L 214</td><td>62</td><td>17.6.2021</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2024/3010 of 29 November 2024 </td><td> L 3010</td><td>1</td><td>4.12.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2002/55/EC**
 
@@ -987,6 +989,7 @@ This Directive is addressed to the Member States.
 
 A. Beta vulgaris
 
+<table>
 <tbody><tr><td>1.</td><td>from any pollen sources of the genus Beta not included below.</td><td>1 000 metres;</td></tr>
 <tr><td rowspan="3">2.</td><td>from pollen sources of varieties of the same subspecies belonging to a different group of varieties:</td><td>  </td></tr>
 <tr><td>(a) for basic seed</td><td>1 000 metres;</td></tr>
@@ -995,11 +998,13 @@ A. Beta vulgaris
 <tr><td>(a) for basic seed</td><td>600 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>300 metres.</td></tr>
 </tbody>
+</table>
 
 The groups of varieties referred to in 2 and 3 shall be determined in accordance with the procedure laid down in article 46(2).
 
 B. Brassica species
 
+<table>
 <tbody><tr><td rowspan="3">1.</td><td>from sources of foreign pollen liable to cause serious deterioration of varieties of Brassica species:</td><td>  </td></tr>
 <tr><td>(a) for basic seed</td><td>1 000 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>600 metres;</td></tr>
@@ -1007,17 +1012,21 @@ B. Brassica species
 <tr><td>(a) for basic seed</td><td>500 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>300 metres.</td></tr>
 </tbody>
+</table>
 
 C. Industrial chicory
 
+<table>
 <tbody><tr><td>1.</td><td>from other species of the same genera or subspecies</td><td>1 000 metres;</td></tr>
 <tr><td rowspan="3">2.</td><td>from another variety of industrial chicory:</td><td>  </td></tr>
 <tr><td>(a) for basic seed</td><td>600 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>300 metres.</td></tr>
 </tbody>
+</table>
 
 D. Other species
 
+<table>
 <tbody><tr><td rowspan="3">1.</td><td>from sources of foreign pollen liable to cause serious deterioration of varieties of other species as a result of cross-fertilisation:</td><td>  </td></tr>
 <tr><td>(a) for basic seed</td><td>500 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>300 metres;</td></tr>
@@ -1025,6 +1034,7 @@ D. Other species
 <tr><td>(a) for basic seed</td><td>300 metres;</td></tr>
 <tr><td>(b) for certified seed</td><td>100 metres.</td></tr>
 </tbody>
+</table>
 
 These distances can be disregarded if there is sufficient protection from any undesirable foreign pollination.
 
@@ -1044,6 +1054,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 (a) Standards
 
+<table>
 <tbody><tr><td>Species</td><td>Minimum analytical purity (% by weight)</td><td>Maximum content of seeds of other plant species (% by weight)</td><td>Minimum germination (% clusters or pure seed)</td></tr>
 <tr><td>Allium cepa</td><td>97</td><td>0,5 </td><td>70</td></tr>
 <tr><td colspan="4"></td></tr>
@@ -1093,9 +1104,11 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 <tr><td colspan="4"></td></tr>
 <tr><td>Zea mays</td><td>98 </td><td>0,1 </td><td>85 </td></tr>
 </tbody>
+</table>
 
 (b) The presence of regulated non-quarantine pests (RNQPs) on vegetable seed shall, at least upon visual inspection, not exceed the respective thresholds set out in the following table:
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Genus or species of vegetable seed</td><td>Threshold for the presence of RNQPs on the vegetable seed</td></tr>
 <tr><td>Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. [CORBMI]</td><td>Solanum lycopersicum L.</td><td>0 %</td></tr>
@@ -1120,6 +1133,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 <tr><td colspan="3"></td></tr>
 <tr><td>Tomato brown rugose fruit virus [ToBRFV]</td><td>Capsicum annuum L., other than seeds belonging to a variety known to be resistant to ToBRFV. Solanum lycopersicum L. and hybrids thereof. </td><td>0 %</td></tr>
 </tbody>
+</table>
 
 (c) Other standards or conditions applicable where reference is made to them in the table under point (a):
 
@@ -1129,17 +1143,20 @@ In the case of varieties of Zea mays (Sweet corn – super-sweet types) the requ
 
 1\. Maximum weight of a seed lot:
 
+<table>
 <tbody><tr><td colspan="2"></td></tr>
 <tr><td>(a) seeds of Phaseolus coccineus, Phaseolus vulgaris, Pisum sativum and Vicia faba</td><td>30 tonnes</td></tr>
 <tr><td>(b) seeds of a size not less than a grain of wheat, other than Phaseolus coccineus, Phaseolus vulgaris, Pisum sativum and Vicia faba</td><td>20 tonnes</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>(c) seeds of a size smaller than a grain of wheat</td><td>10 tonnes</td></tr>
 </tbody>
+</table>
 
 The maximum lot weight shall not be exceeded by more than 5 %.
 
 2\. Minimum weight of a sample
 
+<table>
 <tbody><tr><td>Species</td><td>Weight (in g)</td></tr>
 <tr><td>Allium cepa</td><td>25</td></tr>
 <tr><td colspan="2"></td></tr>
@@ -1189,6 +1206,7 @@ The maximum lot weight shall not be exceeded by more than 5 %.
 <tr><td>Zea mays</td><td>1 000 </td></tr>
 <tr><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 In the case of F-1 hybrid varieties of the above species, the minimum weight of the sample may be decreased to a quarter of the specified weight. However the sample must have a weight of at least 5 g and consist of at least 400 seeds.
 
@@ -1356,6 +1374,7 @@ The label shall be grey.
 
 **(referred to by Article 51)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td>70/458/EEC</td><td>1 July 1972 (1)(2)</td></tr>
 <tr><td>71/162/EEC</td><td>1 July 1972</td></tr>
@@ -1390,9 +1409,11 @@ The label shall be grey.
 <tr><td>98/96/EC</td><td>1 February 2000</td></tr>
 <tr><td colspan="2">(1)  For Denmark, Ireland and the United Kingdom, 1 July 1973; for Greece, 1 January 1986; for Spain, 1 March 1986; and for Portugal, 1 January 1991.  (2)  1 January 1995 for Austria, Finland and Sweden. <br> However:  — Finland and Sweden may postpone until 31 December 1995 at the latest, the application in their territories of this Directive with regard to the marketing in their territories of seeds of varieties listed in their respective national catalogues of varieties of agricultural plant species and varieties of vegetable plant species which have not been officially accepted in accordance with the provisions of this Directive. Seeds of such varieties shall not be allowed to be marketed in the territory of the other Member States during this period,  — varieties of agricultural and vegetable plant species which, at the date of accession or subsequently, are listed in both the respective national catalogues of Finland and Sweden and in the common catalogues, shall not be subject to any marketing restrictions as regards variety,  — throughout the period mentioned in the first indent, those varieties in the respective national catalogues of Finland and Sweden which have been officially accepted in accordance with the provisions of the abovementioned Directive shall be included in the common catalogues of varieties of agricultural or vegetable plant species, respectively.  (3)  Remaining stocks of labels bearing the abbreviation ‘EEC’ may continue to be used until 31 December 2001. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VII — CORRELATION TABLE
 
+<table>
 <tbody><tr><td>Directive 70/458/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1</td><td>Article 1, first subparagraph</td></tr>
 <tr><td>Article 34</td><td>Article 1, second subparagraph</td></tr>
@@ -1511,6 +1532,7 @@ The label shall be grey.
 <tr><td>—</td><td>ANNEX VII</td></tr>
 <tr><td colspan="2">(1)  98/95/EC, Article 9(2) and 98/96/EC, Article 8(2). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 268, 18.10.2003, p. 1.
 

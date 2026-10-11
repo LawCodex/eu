@@ -131,6 +131,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘355</td><td>Tebufenozide CAS No: 112410-23-8  CIPAC No: 724 </td><td>N-tert-butyl-N′-(4-ethylbenzoyl)-3,5-dimethylbenzohydrazide</td><td>≥ 970 g/kg Relevant impurity  t-butyl hydrazine &lt; 0,001 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as insecticide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on tebufenozide, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall: <table><tbody><tr><td>(1)</td><td>pay particular attention to the safety of operators and workers after re-entry and ensure that conditions of authorisation prescribe appropriate protective equipment;</td></tr>
 </tbody>
@@ -152,5 +153,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (1) and (2) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

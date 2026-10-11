@@ -106,6 +106,7 @@ Jean-Claude JUNCKER
 
 **with particular relevance for point (a) of Article 8(1), and Articles 9 and 11**
 
+<table>
 <tbody><tr><td>Theme</td><td>Ecosystem elements</td><td>Possible parameters and characteristics (Note 1)</td><td>Relevant qualitative descriptors laid down in Annex I (Notes 2 and 3)</td></tr>
 <tr><td>Species</td><td>Species groups (Note 4) of marine birds, mammals, reptiles, fish and cephalopods of the marine region or subregion</td><td>Spatial and temporal variation per species or population:<table><tbody><tr><td>—</td><td>distribution, abundance and/or biomass</td></tr>
 </tbody>
@@ -183,6 +184,7 @@ Jean-Claude JUNCKER
 </table>
 </td><td>(1); (4)</td></tr>
 </tbody>
+</table>
 
 Notes related to Table 1
 
@@ -200,6 +202,7 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 
 **Anthropogenic pressures, uses and human activities in or affecting the marine environment**
 
+<table>
 <tbody><tr><td colspan="4"><table><tbody><tr><td>2a.</td><td>Anthropogenic pressures on the marine environment with particular relevance for points (a) and (b) of Article 8(1), and Articles 9, 10 and 11 </td></tr>
 </tbody>
 </table>
@@ -222,7 +225,9 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 <tr><td>Input of other forms of energy (including electromagnetic fields, light and heat)</td></tr>
 <tr><td>Input of water — point sources (e.g. brine)</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="2"><table><tbody><tr><td>2b.</td><td>Uses and human activities in or affecting the marine environment with particular relevance for points (b) and (c) of Article 8(1) (only activities marked * are relevant for point (c) of Article 8(1)), and Articles 10 and 13 </td></tr>
 </tbody>
 </table>
@@ -260,6 +265,7 @@ Note 5: These broad habitat types are further specified in Part II of the Annex 
 <tr><td>Security/defence</td><td>Military operations (subject to Article 2(2))</td></tr>
 <tr><td>Education and research</td><td>Research, survey and educational activities*</td></tr>
 </tbody>
+</table>
 
 Notes related to Table 2
 

@@ -1,0 +1,64 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/1326 of 15 September 2020 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications ‘Mojama de Isla Cristina’ (PGI)"
+identifier: "32020R1326"
+eli: "http://data.europa.eu/eli/reg_impl/2020/1326/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-09-15
+entry_into_force: 2020-08-16
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1326"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/1326 of 15 September 2020 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications ‘Mojama de Isla Cristina’ (PGI)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1326**
+
+**of 15 September 2020**
+
+**approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications ‘Mojama de Isla Cristina’ (PGI)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (1), and in particular Article 52(2) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 53(1) of Regulation (EU) No 1151/2012, the Commission has examined Spain’s application for the approval of amendments to the specification for the protected geographical indication ‘Mojama de Isla Cristina’, registered under Commission Implementing Regulation (EU) 2016/199 (2).
+
+(2) Since the amendments in question are not minor within the meaning of Article 53(2) of Regulation (EU) No 1151/2012, the Commission published the amendment application in the Official Journal of the European Union (3) as required by Article 50(2)(a) of that Regulation.
+
+(3) As no statement of opposition under Article 51 of Regulation (EU) No 1151/2012 has been received by the Commission, the amendments to the specification should be approved,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The amendments to the specification published in the Official Journal of the European Union regarding the name ‘Mojama de Isla Cristina’ (PGI) are hereby approved.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 15 September 2020.
+
+For the Commission,
+
+On behalf of the President,
+
+Janusz WOJCIECHOWSKI
+
+Member of the Commission
+
+(1) OJ L 343, 14.12.2012, p. 1.
+
+(2) Commission Implementing Regulation (EU) 2016/199 of 9 February 2016 entering a name in the register of protected designations of origin and protected geographical indications (Mojama de Isla Cristina (PGI)) (OJ L 39, 16.2.2016, p. 4).
+
+(3) OJ C 150, 6.5.2020, p. 28.

@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on end-of life vehicles**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DECISION of 27 June 2002 </td><td> L 170</td><td>81</td><td>29.6.2002</td></tr>
@@ -40,6 +41,7 @@ retrieved: 2026-10-11
 <tr><td> M14</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2020/362 of 17 December 2019 </td><td> L 67</td><td>116</td><td>5.3.2020</td></tr>
 <tr><td> M15</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2020/363 of 17 December 2019 </td><td> L 67</td><td>119</td><td>5.3.2020</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2023/544 of 16 December 2022 </td><td> L 73</td><td>5</td><td>10.3.2023</td></tr>
+</table>
 
 C1
 
@@ -363,6 +365,7 @@ A maximum concentration value of substances up to 0,1 % by weight in homogeneous
 
 Spare parts put on the market after 1 July 2003 which are used for vehicles put on the market before 1 July 2003, except for wheel balance weights, carbon brushes for electric motors and brake linings, shall be exempted from Article 4(2), point (a), of Directive 2000/53/EC.
 
+<table>
 <tbody><tr><td>Materials and components</td><td>Scope and expiry date of the exemption</td><td>To be labelled or made identifiable in accordance with Article 4(2), point (b)(iv)</td></tr>
 <tr><td colspan="3">Lead as an alloying element</td></tr>
 <tr><td>1(a). Steel for machining purposes and batch hot dip galvanised steel components containing up to 0,35 % lead by weight</td><td>  </td><td>  </td></tr>
@@ -413,6 +416,7 @@ Spare parts put on the market after 1 July 2003 which are used for vehicles put 
 <tr><td>16. Batteries for electrical vehicles</td><td>As spare parts for vehicles put on the market before 31 December 2008</td><td>  </td></tr>
 <tr><td colspan="3">(1)  This exemption shall be reviewed in 2024.  (2)  Applies to aluminium alloys where lead is not intentionally introduced, but is present due to the use of recycled aluminium.  (3)  This exemption shall be reviewed in 2025.  (4)  Systems that have a voltage of &gt; 75 V DC as provided for in Article 1 of Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357).  (5)  Dismantling if, in correlation with entry 10(a), an average threshold of 60 grams per vehicle is exceeded. For the purposes of this note electronic devices not installed by the manufacturer on the production line shall not be taken into account.  (6)  Dismantling if, in correlation with entries 8(a) to 8(k), an average threshold of 60 grams per vehicle is exceeded. For the purposes of this note electronic devices not installed by the manufacturer on the production line shall not be taken into account.  (7)  Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).  Notes to the table: </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 353, 31.12.2008, p. 1.
 

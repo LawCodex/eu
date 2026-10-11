@@ -1,0 +1,933 @@
+---
+title: "Commission Regulation (EU) 2019/2020 of 1 October 2019 laying down ecodesign requirements for light sources and separate control gears pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012 (Text with EEA relevance.)"
+identifier: "32019R2020"
+eli: "http://data.europa.eu/eli/reg/2019/2020/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-10-01
+entry_into_force: 2020-06-12
+last_amended: 2021-09-01
+consolidated_version: "02019R2020-20210901"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2020-20210901"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2019/2020 of 1 October 2019 laying down ecodesign requirements for light sources and separate control gears pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012 (Text with EEA relevance.)
+
+**COMMISSION REGULATION (EU) 2019/2020**
+
+**of 1 October 2019**
+
+**laying down ecodesign requirements for light sources and separate control gears pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/341 of 23 February 2021 </td><td> L 68</td><td>108</td><td>26.2.2021</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) 2019/2020**
+
+**of 1 October 2019**
+
+**laying down ecodesign requirements for light sources and separate control gears pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes ecodesign requirements for the placing on the market of
+
+(a) light sources;
+
+(b) separate control gears.
+
+The requirements also apply to light sources and separate control gears placed on the market in a containing product.
+
+2\. This Regulation shall not apply to light sources and separate control gears specified in points 1 and 2 of Annex III.
+
+3\. Light sources and separate control gears specified in point 3 of Annex III shall comply only with the requirements of point 3(e) of Annex II.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+(1) ‘light source’ means an electrically operated product intended to emit, or, in the case of a non-incandescent light source, intended to be possibly tuned to emit, light, or both, with all of the following optical characteristics:
+
+(a) chromaticity coordinates x and y in the range
+
+0,270 &lt; x &lt; 0,530 and
+
+– 2,3172 x2 + 2,3653 x – 0,2199 &lt; y &lt; – 2,3172 x2 + 2,3653 x – 0,1595 ;
+
+(b) a luminous flux &lt; 500 lumen per mm2 of projected light-emitting surface area as defined in Annex I;
+
+(c) a luminous flux between 60 and 82 000 lumen;
+
+(d) a colour rendering index (CRI) > 0;
+
+using incandescence, fluorescence, high-intensity discharge, inorganic light emitting diodes (LED) or organic light emitting diodes (OLED), or their combinations as lighting technology, and that can be verified as a light source according to the procedure of Annex IV.
+
+High-pressure sodium (HPS) light sources that do not fulfil condition (a) are considered light sources for the purposes of this Regulation.
+
+Light sources do not include:
+
+(a) LED dies or LED chips;
+
+(b) LED packages;
+
+(c) products containing light source(s) from which these light source(s) can be removed for verification;
+
+(d) light-emitting parts contained in a light source from which these parts cannot be removed for verification as a light source;
+
+(2) ‘control gear’ means one or more devices, that may or may not be physically integrated in a light source, intended to prepare the mains for the electric format required by one or more specific light sources within boundary conditions set by electric safety and electromagnetic compatibility. It may include transforming the supply and starting voltage, limiting operational and preheating current, preventing cold starting, correcting the power factor and/or reducing radio interference.
+
+The term ‘control gear’ does not include power supplies within the scope of Commission Regulation (EC) No 278/2009 ( 1 ). The term also does not include lighting control parts and non-lighting parts (as defined in Annex I), although such parts may be physically integrated with a control gear or marketed together as a single product.
+
+A Power over Ethernet (PoE) switch is not a control gear in the sense of this Regulation. ‘Power-over-Ethernet switch’ or ‘PoE switch’ means equipment for power-supply and data-handling that is installed between the mains and office equipment and/or light sources for the purpose of data transfer and power supply;
+
+(3) ‘separate control gear’, means a control gear that is not physically integrated with a light source and is placed on the market as a separate product or as a part of a containing product;
+
+(4) ‘containing product’, means a product containing one or more light sources, or separate control gears, or both, including, but not limited to, luminaires that can be taken apart to allow separate verification of the contained light source(s), household appliances containing light source(s), furniture (shelves, mirrors, display cabinets) containing light source(s);
+
+(5) ‘light’ means electromagnetic radiation with a wavelength between 380 nm and 780 nm;
+
+(6) ‘mains’ or ‘mains voltage’ (MV) means the electricity supply of 230 (± 10 %) volt of alternating current at 50 Hz;
+
+(7) ‘LED die’ or ‘LED chip’ means a small block of light-emitting semiconducting material on which a functional LED circuit is fabricated;
+
+(8) ‘LED package’ means a single electric part comprising principally at least one LED die. It does not include a control gear or parts of it, a cap or active electronic components and is not connected directly to the mains voltage. It can include one or more of the following: optical elements, light converters (phosphors), thermal, mechanical and electric interfaces or parts to address electrostatic discharge concerns. Any light-emitting devices that are intended to be used directly in an LED luminaire, are considered to be light sources;
+
+(9) ‘chromaticity’ means the property of a colour stimulus defined by its chromaticity coordinates (x and y);
+
+(10) ‘luminous flux’ or ‘flux’ (Φ), expressed in lumen (lm), means the quantity derived from radiant flux (radiant power) by evaluating the electromagnetic radiation in accordance with the spectral sensitivity of the human eye. It refers to the total flux emitted by a light source in a solid angle of 4π steradians under conditions (e.g. current, voltage, temperature) specified in applicable standards. It refers to the initial flux for the undimmed light source after a short operating period, unless it is clearly specified that the flux in a dimmed condition or the flux after a given period of operation is intended. For light sources that can be tuned to emit different light spectra and/or different maximum light intensities, it refers to the flux in the ‘reference control settings’ as defined in Annex I;
+
+(11) ‘colour rendering index’ (CRI) means a metric quantifying the effect of an illuminant on the colour appearance of objects by conscious or subconscious comparison with their colour appearance under the reference illuminant and is the average Ra of the colour rendering for the first 8 test colours (R1-R8) defined in standards;
+
+(12) ‘incandescence’ means the phenomenon where light is produced from heat, in light sources typically produced through a threadlike conductor (‘filament’) which is heated by the passage of an electric current;
+
+(13) ‘halogen light source’ means an incandescent light source with a threadlike conductor made from tungsten surrounded by gas containing halogens or halogen compounds;
+
+(14) ‘fluorescence’ or ‘fluorescent light source’ (FL) means the phenomenon or a light source using an electric gas discharge of the low-pressure mercury type in which most of the light is emitted by one or more layers of phosphors excited by the ultraviolet radiation from the discharge. Fluorescent light sources may have one (‘single-capped’) or two (‘double-capped’) connections (‘caps’) to their electricity supply. For the purposes of this Regulation, magnetic induction light sources are also considered as fluorescent light sources;
+
+(15) ‘high intensity discharge’ (HID) means an electric gas discharge in which the light- producing arc is stabilised by wall temperature and the arc chamber has a bulb wall loading in excess of 3 watts per square centimetre. HID light sources are limited to metal halide, high-pressure sodium and mercury vapour types, as defined in Annex I;
+
+(16) ‘gas discharge’ means a phenomenon where light is produced, directly or indirectly, by an electric discharge through a gas, plasma, metal vapour or mixture of gases and vapours;
+
+(17) ‘inorganic light emitting diode’ (LED) means a technology in which light is produced from a solid state device embodying a p-n junction of inorganic material. The junction emits optical radiation when excited by an electric current;
+
+(18) ‘organic light emitting diode’ (OLED) means a technology in which light is produced from a solid state device embodying a p-n junction of organic material. The junction emits optical radiation when excited by an electric current;
+
+(19) ‘high-pressure sodium light source’ (HPS) means a high intensity discharge light source in which the light is produced mainly by radiation from sodium vapour operating at a partial pressure of the order of 10 kilopascals. HPS light sources may have one (‘single-ended’) or two (‘double-ended’) connectors to their electricity supply.
+
+(20) ‘equivalent model’ means a model with the same technical characteristics relevant for the ecodesign requirements, but that is placed on the market or put into service by the same manufacturer or importer as another model with a different model identifier;
+
+(21) ‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same manufacturer's or importer's name;
+
+(22) ‘end-user’ means a natural person buying or expected to buy a product for purposes which are outside his trade, business, craft or profession.
+
+For the purposes of the Annexes, additional definitions are set out in Annex I.
+
+## Article 3 — Ecodesign requirements
+
+The ecodesign requirements set out in Annex II shall apply from the dates indicated therein.
+
+## Article 4 — Removal of light sources and separate control gears
+
+1\. Manufacturers, importers or authorised representatives of containing products shall ensure that light sources and separate control gears can be replaced with the use of common available tools and without permanent damage to the containing product, unless a technical justification related to the functionality of the containing product is provided in the technical documentation explaining why the replacement of light sources and separate control gear is not appropriate.
+
+Manufacturers, importers or authorised representatives of containing products shall ensure that light sources and separate control gears can be removed without being permanently damaged for verification purposes by market surveillance authorities. The technical documentation shall provide instructions on how to do this.
+
+2\. Manufacturers, importers or authorised representatives of containing products shall provide information about the replaceability or non-replaceability of light sources and control gears by end-users or qualified persons without permanent damage to the containing product. Such information shall be available on a free-access website. For products sold directly to end-users, this information shall be on the packaging, at least in the form of a pictogram, and in the user instructions.
+
+3\. Manufacturers, importers or authorised representatives of containing products shall ensure that light sources and separate control gears can be dismantled from containing products at end of life. Dismantling instructions shall be available on a free access website.
+
+## Article 5 — Conformity assessment
+
+1\. The conformity assessment procedure referred to in Article 8 of Directive 2009/125/EC shall be the internal design control system set out in Annex IV to that Directive or the management system set out in Annex V to that Directive.
+
+2\. For the purposes of the conformity assessment pursuant to Article 8 of Directive 2009/125/EC, the technical documentation shall contain the information set out in point 3(d) of Annex II to this Regulation and the details and the results of the calculations in accordance with points 1 and 2 of Annex II, and Annex V to this Regulation.
+
+3\. Where the information included in the technical documentation for a particular model has been obtained:
+
+(a) from a model that has the same technical characteristics relevant for the technical information to be provided but is produced by a different manufacturer, or
+
+(b) by calculation on the basis of design or extrapolation from another model of the same or a different manufacturer, or both,
+
+the technical documentation shall include details of such calculations or extrapolations, the assessment carried out by the manufacturer to verify the accuracy of the calculations and, where appropriate, the declaration of identity between the models of different manufacturers.
+
+The technical documentation shall include a list of all equivalent models, including the model identifiers.
+
+4\. The technical documentation shall include the information in the order and as set out in Annex VI of Regulation (EU) 2019/2015. For market surveillance purposes, manufacturers, importers or authorised representatives may, without prejudice to Annex IV, point 2(g) of Directive 2009/125/EC, refer to the technical documentation uploaded to the product database which contains the same information laid down in Regulation (EU) 2019/2015.
+
+## Article 6 — Verification procedure for market surveillance purposes
+
+Member States shall apply the verification procedure laid down in Annex IV to this Regulation when performing the market surveillance checks referred to in point 2 of Article 3 of Directive 2009/125/EC.
+
+## Article 7 — Circumvention and software updates
+
+The manufacturer, importer or authorised representative shall not place on the market products designed to be able to detect they are being tested (for example, by recognising the test conditions or test cycle) and to react specifically by automatically altering their performance during the test with the aim of reaching a more favourable level for any of the parameters in the technical documentation or included in any documentation provided.
+
+The energy consumption of the product and any of the other declared parameters shall not deteriorate after a software or firmware update when measured with the same test standard originally used for the declaration of conformity, except with explicit consent of the end-user prior to the update. No performance change shall occur as a result of rejecting the update.
+
+A software update shall never have the effect of changing the product's performance in a way that makes it non-compliant with the ecodesign requirements applicable for the declaration of conformity.
+
+## Article 8 — Indicative benchmarks
+
+The indicative benchmarks for the best-performing products and technologies available on the market at the time of adopting this Regulation are set out in Annex VI.
+
+## Article 9 — Review
+
+The Commission shall review this Regulation in the light of technological progress and shall present the results of this review, including, if appropriate, a draft revision proposal, to the Consultation Forum no later than 25 December 2024.
+
+This review shall in particular assess the appropriateness of:
+
+(a) setting more stringent energy efficiency requirements for all light source types, in particular for non-LED light source types, and for separate control gears;
+
+(b) setting requirements on lighting control parts;
+
+(c) setting more stringent requirements on flicker and stroboscopic effects, while extending them to separate control gears;
+
+(d) setting requirements on dimming, including the interaction with flicker;
+
+(e) setting more stringent requirements on (networked) standby power;
+
+(f) lowering or abolishing the power bonus for colour-tuneable light sources and removing the exemption for high colour purity;
+
+(g) setting lifetime requirements;
+
+(h) setting improved information requirements concerning lifetime, including for control gears;
+
+(i) substituting the CRI colour rendering metric by a more adequate metric;
+
+(j) verifying the adequacy of lumen as a stand-alone metric for the quantity of visible light;
+
+(k) the exemptions;
+
+(l) setting additional resource efficiency requirements for products in accordance with the principles of the circular economy, especially concerning the removability and exchangeability of light sources and control gears.
+
+## Article 10 — Repeal
+
+Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012 are repealed with effect from 1 September 2021.
+
+## Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 September 2021. However, Article 7 shall apply from 25 December 2019.
+
+## Article 12 — Transitional compliance equivalence
+
+If no unit belonging to the same model or equivalent models was placed on the market before 1 July 2021, the units of models placed on the market between 1 July 2021 and 31 August 2021 which comply with the provisions of this regulation shall be considered compliant with the requirements of Commission Regulations (EC) No 244/2009, (EC) No 245/2009 and (EU) No 1194/2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Definitions applicable for the Annexes
+
+The following definitions shall apply:
+
+(1) ‘mains light source (MLS)’ means a light source that can be operated directly on the mains electricity supply. Light sources that operate directly on the mains, and can also operate indirectly on the mains using a separate control gear, shall be considered to be mains light sources;
+
+(2) ‘non-mains light source (NMLS)’ means a light source that requires a separate control gear to operate on the mains;
+
+(3) ‘directional light source’ (DLS) means a light source having at least 80 % of total luminous flux within a solid angle of π sr (corresponding to a cone with angle of 120°);
+
+(4) ‘non-directional light source’ (NDLS) means a light source that is not a directional light source;
+
+(5) ‘connected light source’ (CLS) means a light source including data-connection parts that are physically or functionally inseparable from the light emitting parts to maintain the ‘reference control settings’. The light source can have physically integrated data-connection parts in a single inseparable housing, or the light source can be combined with physically separate data-connection parts placed on the market together with the light source as a single product;
+
+(6) ‘connected separate control gear’ (CSCG) means a separate control gear including data-connection parts that are physically or functionally inseparable from the actual control gear parts to maintain the ‘reference control settings’. The separate control gear can have physically integrated data-connection parts in a single inseparable housing, or the separate control gear can be combined with physically separate data-connection parts placed on the market together with the control gear as a single product;
+
+(7) ‘data-connection parts’ means parts that perform any one of the following functions:
+
+(a) reception or transmission of wired or wireless data signals and the processing thereof (used to control the light emission function and possibly otherwise);
+
+(b) sensing and processing of the sensed signals (used to control the light emission function and possibly otherwise);
+
+(c) a combination of these;
+
+(8) ‘colour-tuneable light source’ (CTLS) means a light source that can be set to emit light with a large variety of colours outside the range defined in Article 2 but can also be set to emit white light inside the range defined in Article 2 for which the light source is within the scope of this Regulation.
+
+Tuneable-white light sources that can only be set to emit light, with different correlated colour temperatures, within the range defined in Article 2, and dim-to-warm light sources that shift their white light output to lower correlated colour temperature when dimmed, simulating the behaviour of incandescent light sources, are not considered CTLS;
+
+(9) ‘excitation purity’ means a percentage computed for a CTLS set to emit light of a certain colour, using a procedure further defined in standards, by drawing a straight line on an (x and y) colour space graph from a point with colour coordinates x = 0,333 and y = 0,333 (achromatic stimulus point), going through the point representing the (x and y) colour coordinates of the light source (point (2), and ending on the outer border of the colour space (locus; point (3). The excitation purity is computed as the distance between points 1 and 2 divided by the distance between points 1 and 3. The full length of the line represents 100 % colour purity (point on the locus). The achromatic stimulus point represents 0 % colour purity (white light);
+
+(10) ‘high-luminance light source’ (HLLS) means a LED light source with an average luminance greater than 30 cd/mm2 in the direction of peak intensity;
+
+(11) ‘luminance’ (in a given direction, at a given point of a real or imaginary surface) means the luminous flux transmitted by an elementary beam passing through the given point and propagating in the solid angle containing the given direction divided by the area of a section of that beam containing the given point (cd/m2);
+
+(12) ‘average luminance’ (Luminance-HLLS) for a LED light source means the average luminance over a light-emitting area where the luminance is more than 50 % of the peak luminance (cd/mm2);
+
+(13) ‘lighting control parts’ means parts that are integrated in a light source or in a separate control gear, or physically separated but marketed together with a light source or separate control gear as a single product, that are not strictly necessary for the light source to emit light at full-load, or for the separate control gear to supply the electric power that enables light source(s) to emit light at full-load, but that enable manual- or automatic-, direct- or remote-, control of luminous intensity, chromaticity, correlated colour temperature, light spectrum and/or beam angle. Dimmers shall also be considered as lighting control parts.
+
+The term also includes data-connection parts, but the term does not include products within the scope of Regulation (EC) No 1275/2008;
+
+(14) ‘non-lighting parts’ means parts that are integrated in a light source, or in a separate control gear, or physically separated but marketed together with a light source or separate control gear as a single product, that are not necessary for the light source to emit light at full-load, or for the separate control gear to supply the electric power that enables light source(s) to emit light at full-load, and that are not lighting control parts. Examples include, but are not limited to: speakers (audio), cameras, repeaters for communication signals to extend the range (e.g. WiFi), parts supporting grid balance (switching to own internal batteries when necessary), battery charging, visual notification of events (mail arriving, door bell ringing, alert), use of Light Fidelity (Li-Fi, a bidirectional, high-speed and fully networked wireless communication technology).
+
+The term also includes data-connection parts used for other functions than to control the light emission function;
+
+(15) ‘useful luminous flux’ (Φuse), means the part of the luminous flux of a light source that is considered when determining its energy efficiency:
+
+— for non-directional light sources it is the total flux emitted in a solid angle of 4π sr (corresponding to a 360° sphere);
+
+— for directional light sources with beam angle ≥ 90° it is the flux emitted in a solid angle of π sr (corresponding to a cone with angle of 120°);
+
+— for directional light sources with beam angle &lt; 90° it is the flux emitted in a solid angle of 0,586 π sr (corresponding to a cone with angle of 90°);
+
+(16) ‘beam angle’ of a directional light source means the angle between two imaginary lines in a plane through the optical beam axis, such that these lines pass through the centre of the front face of the light source and through points at which the luminous intensity is 50 % of the centre beam intensity, where the centre beam intensity is the value of luminous intensity measured on the optical beam axis.
+
+For light sources that have different beam angles in different planes, the largest beam angle shall be the one taken into account.
+
+For light sources with user-controllable beam angle, the beam angle corresponding to the ‘reference control setting’ shall be the one taken into account;
+
+(17) ‘full-load’ means:
+
+— the condition of a light source, within the declared operating conditions, in which it emits the maximum (undimmed) luminous flux; or
+
+— the operating conditions and loads of the control gear under efficiency measurement as specified in the relevant standards;
+
+(18) ‘no-load mode’ means the condition of a separate control gear in which its input is connected to the mains power source and its output is intentionally disconnected from light sources, and, if applicable, from lighting control parts and non-lighting parts. If these parts cannot be disconnected, they shall be switched off and their power consumption shall be minimised following the manufacturer’s instructions. No-load mode only applies to a separate control gear for which the manufacturer or importer has declared in the technical documentation that it has been designed for this mode;
+
+(19) ‘standby mode’ means the condition of a light source or of a separate control gear, where it is connected to the power supply but the light source is intentionally not emitting light, and the light source or control gear is awaiting a control signal to return to a state with light emission. Lighting control parts enabling the standby function shall be in their control mode. Non-lighting parts shall be disconnected or switched off or their power consumption shall be minimised following manufacturer’s instructions;
+
+(20) ‘networked standby mode’ means the condition of a CLS or a CSCG where it is connected to the power supply but the light source is intentionally not emitting light or the control gear does not supply the electric power that enables light source(s) to emit light, and is awaiting a remotely initiated trigger to return to a state with light emission. Lighting control parts shall be in their control mode. Non-lighting parts shall be disconnected or switched off or their power consumption shall be minimised following manufacturer’s instructions;
+
+(21) ‘control mode’ means the condition of lighting control parts where they are connected to the light source and/or to the separate control gear and performing their functions in such a way that a control signal can be internally generated or a remotely initiated trigger can be received, by wire or wireless, and processed to lead to a change in the light emission of the light source or to a corresponding desired change in the power supply by the separate control gear;
+
+(22) ‘remotely initiated trigger’ means a signal that comes from outside the light source or separate control gear via a network;
+
+(23) ‘control signal’ means an analogue or digital signal transmitted to the light source or separate control gear wirelessly or wired either via voltage modulation in separate control cables or via a modulated signal in the supply voltage. The signal transmission is not through a network but e.g. from an internal source or from a remote control delivered with the product;
+
+(24) ‘network’ means a communication infrastructure with a topology of links, an architecture, including the physical components, organisational principles, communication procedures and formats (protocols);
+
+(25) ‘on-mode power’ (Pon), expressed in watt, means the electric power consumption of a light source in full-load with all lighting control parts and non-lighting parts disconnected. If these parts cannot be disconnected, they shall be switched off or their power consumption shall be minimised following the manufacturer’s instructions. In case of a NMLS that requires a separate control gear to operate, Pon can be measured directly on the input to the light source, or Pon is determined using a control gear with known efficiency, whose electric power consumption is subsequently subtracted from the measured mains power input value;
+
+(26) ‘no-load power’ (Pno), expressed in watt, is the electric power consumption of a separate control gear in no-load mode;
+
+(27) ‘standby power’ (Psb), expressed in watt, is the electric power consumption of a light source or of a separate control gear in standby mode;
+
+(28) ‘networked standby power’ (Pnet), expressed in watt, is the electric power consumption of a CLS or of a CSCG in networked standby mode;
+
+(29) ‘reference control settings’ (RCS) means a control setting or a combination of control settings that is used to verify compliance of a light source with this Regulation. These settings are relevant for light sources that allow the end-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light.
+
+In principle, the reference control settings shall be those predefined by the manufacturer as factory default values and encountered by the user at first installation (out-of-the-box values). If the installation procedure provides for an automatic software update during first installation, or if the user has the option to perform such an update, the resulting change in settings (if any) shall be taken into account.
+
+If the out-of-the-box value is deliberately set differently from the reference control setting (e.g. at low power for safety purposes), the manufacturer shall indicate in the technical documentation how to recall the reference control settings for compliance verification and provide a technical justification why the out-of-the-box value is set different from the reference control setting.
+
+The light source manufacturer shall define the reference control settings such that:
+
+— the light source is within the scope of this Regulation according to Article 1 and none of the conditions for exemption applies;
+
+— lighting control parts and non-lighting parts are disconnected or switched-off or, in case this is not possible, the power consumption of these parts is minimal;
+
+— the full-load condition is obtained;
+
+— when the end-user opts to reset factory defaults, the reference control settings are obtained.
+
+For light sources that allow the manufacturer of a containing product to make implementation choices that influence light source characteristics (e.g. definition of the operating current(s); thermal design), and that cannot be controlled by the end-user, the reference control settings need not be defined. In that case the nominal test conditions as defined by the light source manufacturer apply;
+
+(30) ‘high-pressure mercury light source’ means a high intensity discharge light source in which the major portion of light is produced, directly or indirectly, by radiation from predominantly vaporised mercury operating at a partial pressure in excess of 100 kilopascals;
+
+(31) ‘metal halide light source’ (MH) means a high intensity discharge light source in which the light is produced by radiation from a mixture of metallic vapour, metal halides and the products of the dissociation of metal halides. MH light sources may have one (‘single-ended’) or two (‘double-ended’) connectors to their electricity supply. The material for the arc tube of MH light sources can be quartz (QMH) or ceramic (CMH);
+
+(32) ‘compact fluorescent light source’ (CFL) means a single-capped fluorescent light source with a bent-tube construction designed to fit in small spaces. CFLs may be primarily spiral-shaped (i.e. curly forms) or primarily shaped as connected multiple parallel tubes, with or without a second bulb-like envelope. CFLs are available with (CFLi) or without (CFLni) a physically integrated control gear;
+
+(33) ‘T2’, ‘T5’, ‘T8’, ‘T9’ and ‘T12’ means a tubular light source with a diameter of approximately 7, 16, 26, 29 and 38 mm respectively, as defined in standards. The tube can be straight (linear) or bent (e.g. U-shaped, circular);
+
+(34) ‘LFL T5-HE’ means a high-efficiency linear fluorescent T5 light source with driving current lower than 0,2 A;
+
+(35) ‘LFL T5-HO’ means a high-output linear fluorescent T5 light source with driving current higher than or equal to 0,2 A;
+
+(36) ‘LFL T8 2-foot’, ‘LFL T8 4-foot’ or ‘LFL T8 5-foot’ means a linear T8 fluorescent light source with a length of approximately 600 mm (2 feet), 1 200 mm (4 feet) or 1 500 mm (5 feet) respectively, as defined in standards;
+
+(37) ‘magnetic induction light source’ means a light source using fluorescent technology, where energy is transferred to the gas discharge by means of an induced high-frequency magnetic field, instead of using electrodes placed inside the gas discharge. The magnetic inductor can be external or internal to the shape of the discharge tube;
+
+(38) ‘G4’, ‘GY6.35’ and ‘G9’ means an electrical interface of a light source consisting of two small pins at distances of 4, 6.35 and 9 mm respectively, as defined in standards;
+
+(39) ‘HL R7s’ means a mains-voltage, double-capped, linear halogen light source with a cap diameter of 7 mm;
+
+(40) ‘K39d’ means an electrical interface for a light source consisting of 2 wires with eyelets that can be fixed with screws;
+
+(41) ‘G9.5’, ‘GX9.5’, ‘GY9.5’, ‘GZ9.5’, ‘GZX9.5’, ‘GZY9.5’, ‘GZZ9.5’‘G9.5HPL’, ‘G16’, ‘G16d’, ‘GX16d’, ‘GY16’, ‘G22’, ‘G38’, ‘GX38’ and ‘GX38Q’ means an electrical interface of a light source consisting of two pins at distances of 9.5, 16, 22 and 38 mm respectively, as defined in standards. ‘G9.5HPL’ includes a heatsink of specific dimensions as used on high-performance halogen lamps, and may include additional pins for grounding purposes;
+
+(42) ‘P28s’, ‘P40s’, ‘PGJX28’, ‘PGJX36’ and ‘PGJX50’ means an electrical interface of a light source that uses a flange contact to correctly position (pre-focus) the light source in a reflector, as defined in standards;
+
+(43) ‘QXL (Quick eXchange Lamp)’ means an electrical interface of a light source consisting, on the light source side, of two lateral tabs including the electrical contact surfaces and, on the opposite (rear) side, of a central protrusion allowing the light source to be grabbed with two fingers. It is specifically designed for use in a specific type of stage lighting luminaires, in which the light source is inserted from the rear of the luminaire using a one quarter turn rotation to fix or unfix it;
+
+(44) ‘battery-operated’ means a product that operates only on direct current (DC) supplied from a source contained in the same product, without being connected directly or indirectly to the mains electricity supply;
+
+(45) ‘second envelope’ means a second outer envelope on an HID light source that is not required for the production of light, such as an external sleeve for preventing mercury and glass release into the environment in case of lamp breakage. In determining the presence of a second envelope, the HID arc tubes shall not count as an envelope;
+
+(46) ‘non-clear envelope’ for an HID light source means a non-transparent outer envelope or outer tube in which the light producing arc tube is not visible;
+
+(47) ‘anti-glare shield’ means a mechanical or optical reflective or non-reflective impervious baffle designed to block direct visible radiation emitted from the light emitter in a directional light source, in order to avoid temporary partial blindness (disability glare) if viewed directly by an observer. It does not include surface coating of the light emitter in the directional light source;
+
+(48) ‘control gear efficiency’ means the output power that supplies a light source divided by the input power of a separate control gear using the conditions and methods defined in standards. Any lighting control parts and non-lighting parts are disconnected, switched off or set to minimum power consumption according to manufacturer’s instructions and subtracting this power consumption from the overall input power;
+
+(49) ‘functionality after endurance testing’ means the functionality of a LED or OLED light source after endurance testing as defined in Annex V;
+
+(50) ‘flicker’ means the perception of visual unsteadiness induced by a light stimulus, the luminance or spectral distribution of which fluctuates with time, for a static observer in a static environment. The fluctuations can be periodic and non-periodic and may be induced by the light source itself, the power source or other influencing factors.
+
+The metric for flicker used in this Regulation is the parameter ‘Pst LM’, where ‘st’ stands for short term and ‘LM’ for light flickermeter method, as defined in standards. A value Pst LM = 1 means that the average observer has a 50 % probability of detecting flicker;
+
+(51) ‘stroboscopic effect’ means a change in motion perception induced by a light stimulus, the luminance or spectral distribution of which fluctuates with time, for a static observer in a non-static environment. The fluctuations can be periodic and non-periodic and may be induced by the light source itself, the power source or other influencing factors.
+
+The metric for the stroboscopic effect used in this Regulation is the ‘SVM’ (stroboscopic visibility measure), as defined in standards. SVM = 1 represents the visibility threshold for an average observer;
+
+(52) ‘declared values’ means the values provided by the manufacturer, importer or authorised representative for the stated, calculated or measured technical parameters in accordance with Article 5, for the verification of compliance by the Member State authorities;
+
+(53) ‘specific effective radiant ultraviolet power’ (mW/klm) means the effective power of the ultraviolet radiation of a light source weighted according to the spectral correction factors and related to its luminous flux;
+
+(54) ‘luminous intensity’ (candela or cd) means the quotient of the luminous flux leaving the source and propagated in the element of solid angle containing a given direction, by the element of solid angle;
+
+(55) ‘correlated colour temperature’ (CCT [K]) means the temperature of a Planckian (black body) radiator whose perceived colour most closely resembles that of a given stimulus at the same brightness and under specified viewing conditions;
+
+(56) ‘colour consistency’ means the maximum deviation of the initial (after a short period of time), spatially averaged chromaticity coordinates (x and y) of a single light source from the chromaticity centre point (cx and cy) declared by the manufacturer or the importer, expressed as the size (in steps) of the MacAdam ellipse formed around the chromaticity centre point (cx and cy);
+
+(57) ‘displacement factor (cos φ1)’ means the cosine of the phase angle φ1 between the fundamental harmonic of the mains supply voltage and the fundamental harmonic of the mains current. It is used for mains light sources using LED- or OLED-technology. The displacement factor is measured at full-load, for the reference control settings where applicable, with any lighting control parts in control mode and non-lighting parts disconnected, switched off or set to minimum power consumption according to the manufacturer’s instructions;
+
+(58) ‘lumen maintenance factor’ (XLMF) means the ratio of the luminous flux emitted by a light source at a given time in its life to the initial luminous flux;
+
+(59) ‘survival factor’ (SF) means the defined fraction of the total number of light sources that continue to operate at a given time under defined conditions and switching frequency;
+
+(60) ‘lifetime’ for LED and OLED light sources means the time in hours between the start of their use and the moment when for 50 % of a population of light sources the light output has gradually degraded to a value below 70 % of the initial luminous flux. This is also referred to as the L70B50 lifetime;
+
+(61) ‘photosensitive patients’ means people with a specific condition causing photosensitive symptoms and who experience adverse reactions to natural and/or certain forms of artificial lighting technology;
+
+(62) ‘projected light-emitting surface area (A)’ is the surface area in mm2 (square millimetres) of the view in an orthographic projection of the light-emitting surface from the direction with the highest light intensity, where the light-emitting surface area is the surface area of the light source that emits light with the declared optical characteristics, such as the approximately spherical surface of an arc (a), cylindrical surface of a filament coil (b) or a gas discharge lamp (c, d), flat or semi-spherical envelope of a light-emitting diode (e).
+
+For light sources with a non-clear envelope or with anti-glare shield, the light-emitting surface area is the entire area through which light leaves the light source.
+
+For light sources containing more than one light emitter, the projection of the smallest gross volume enveloping all emitters shall be taken as the light-emitting surface.
+
+For HID light sources definition (a) applies, unless the dimensions defined in (d) apply with L>D, where L is the distance between the electrode tips and D the inner diameter of the arc tube.
+
+[image]
+
+## ANNEX II — Ecodesign requirements
+
+For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union, or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art.
+
+**1\. Energy efficiency requirements:**
+
+(a) From 1 September 2021, the declared power consumption of a light source P on shall not exceed the maximum allowed power Ponmax (in W), defined as a function of the declared useful luminous flux Φuse (in lm) and the declared colour rendering index CRI (-) as follows:
+
+Ponmax = C × (L + Φuse/(F × η)) × R;
+
+where:
+
+— The values for threshold efficacy (η in lm/W) and end loss factor (L in W) are specified in Table 1, depending on the light source type. They are constants used for computations and do not reflect true parameters of light sources. The threshold efficacy is not the minimum required efficacy; the latter can be computed by dividing the useful luminous flux by the computed maximum allowed power.
+
+— Basic values for correction factor (C) depending on light source type, and additions to C for special light source features are specified in Table 2.
+
+— Efficacy factor (F) is:
+
+1,00 for non-directional light sources (NDLS, using total flux)
+
+0,85 for directional light sources (DLS, using flux in a cone)
+
+— CRI factor (R) is:
+
+0,65 for CRI ≤ 25;
+
+(CRI+80)/160 for CRI > 25, rounded to two decimals.
+
+**Table 1**
+
+**Threshold efficacy (η) and end loss factor (L)**
+
+<table>
+<tbody><tr><td rowspan="2">Light source description</td><td>η</td><td>L</td></tr>
+<tr><td>[lm/W]</td><td>[W]</td></tr>
+<tr><td>LFL T5-HE</td><td>98,8 </td><td>1,9 </td></tr>
+<tr><td>LFL T5-HO, 4 000 ≤ Φ ≤ 5 000 lm</td><td>83,0 </td><td>1,9 </td></tr>
+<tr><td>LFL T5-HO, other lm output</td><td>79,0 </td><td>1,9 </td></tr>
+<tr><td>FL T5 circular</td><td>79,0 </td><td>1,9 </td></tr>
+<tr><td>FL T8 (including FL T8 U-shaped)</td><td>89,7 </td><td>4,5 </td></tr>
+<tr><td>From 1 September 2023, for FL T8 of 2-, 4- and 5-foot</td><td>120,0 </td><td>1,5 </td></tr>
+<tr><td>Magnetic induction light source, any length/flux</td><td>70,2 </td><td>2,3 </td></tr>
+<tr><td>CFLni</td><td>70,2 </td><td>2,3 </td></tr>
+<tr><td>FL T9 circular</td><td>71,5 </td><td>6,2 </td></tr>
+<tr><td>HPS single-ended</td><td>88,0 </td><td>50,0 </td></tr>
+<tr><td>HPS double-ended</td><td>78,0 </td><td>47,7 </td></tr>
+<tr><td>MH ≤ 405 W single-ended</td><td>84,5 </td><td>7,7 </td></tr>
+<tr><td>MH &gt; 405 W single-ended</td><td>79,3 </td><td>12,3 </td></tr>
+<tr><td>MH ceramic double-ended</td><td>84,5 </td><td>7,7 </td></tr>
+<tr><td>MH quartz double-ended</td><td>79,3 </td><td>12,3 </td></tr>
+<tr><td>Organic light-emitting diode (OLED)</td><td>65,0 </td><td>1,5 </td></tr>
+<tr><td>Until 1 September 2023: HL G9, G4 and GY6.35</td><td>19,5 </td><td>7,7 </td></tr>
+<tr><td>HL R7s ≤ 2 700 lm</td><td>26,0 </td><td>13,0 </td></tr>
+<tr><td>Other light sources in scope not mentioned above</td><td>120,0 </td><td>1,5 (*1)</td></tr>
+<tr><td colspan="3">(*1)  For connected light sources (CLS) a factor L = 2,0 shall be applied. </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Correction factor C depending on light source characteristics**
+
+<table>
+<tbody><tr><td>Light source type</td><td>Basic C value</td></tr>
+<tr><td>Non-directional (NDLS) not operating on mains (NMLS)</td><td>1,00 </td></tr>
+<tr><td>Non-directional (NDLS) operating on mains (MLS)</td><td>1,08 </td></tr>
+<tr><td>Directional (DLS) not operating on mains (NMLS)</td><td>1,15 </td></tr>
+<tr><td>Directional (DLS) operating on mains (MLS)</td><td>1,23 </td></tr>
+<tr><td>Special light source feature</td><td>Bonus on C</td></tr>
+<tr><td>FL or HID with CCT &gt; 5 000 K</td><td>+0,10 </td></tr>
+<tr><td>FL with CRI &gt; 90</td><td>0,10 </td></tr>
+<tr><td>HID with second envelope</td><td>+0,10 </td></tr>
+<tr><td>MH NDLS &gt; 405 W with non-clear envelope</td><td>+0,10 </td></tr>
+<tr><td>DLS with anti-glare shield</td><td>+0,20 </td></tr>
+<tr><td>Colour-tuneable light source (CTLS)</td><td>+0,10 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>High luminance light sources (HLLS)</td><td>+ 0,0058 · Luminance-HLLS – 0,0167 </td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+Where applicable, bonuses on correction factor C are cumulative.
+
+The bonus for HLLS shall not be combined with the basic C-value for DLS (basic C-value for NDLS shall be used for HLLS).
+
+Light sources that allow the end-user to adapt the spectrum and/or the beam angle of the emitted light, thus changing the values for useful luminous flux, colour rendering index (CRI) and/or correlated colour temperature (CCT), and/or changing the directional/non-directional status of the light source, shall be evaluated using the reference control settings.
+
+The standby power Psb of a light source shall not exceed 0,5 W.
+
+The networked standby power Pnet of a connected light source shall not exceed 0,5 W.
+
+The allowable values for Psb and Pnet shall not be added together.
+
+(b) From 1 September 2021, the values set in Table 3 for the minimum energy efficiency requirements of a separate control gear operating at full-load shall apply:
+
+**Table 3**
+
+**Minimum energy efficiency for separate control gear at full-load**
+
+<table>
+<tbody><tr><td>Declared output power of the control gear (Pcg) or declared power of the light source (Pls) in W, as applicable</td><td>Minimum energy efficiency</td></tr>
+<tr><td>Control gear for HL light sources</td><td>  </td></tr>
+<tr><td>all wattages Pcg</td><td>0,91 </td></tr>
+<tr><td>Control gear for FL light sources</td><td>  </td></tr>
+<tr><td>Pls ≤ 5</td><td>0,71 </td></tr>
+<tr><td>5 &lt; Pls ≤ 100</td><td>Pls/(2 × √(Pls/36) + 38/36 × Pls+1)</td></tr>
+<tr><td>100 &lt; Pls</td><td>0,91 </td></tr>
+<tr><td>Control gear for HID light sources</td><td>  </td></tr>
+<tr><td>Pls ≤ 30</td><td>0,78 </td></tr>
+<tr><td>30 &lt; Pls ≤ 75</td><td>0,85 </td></tr>
+<tr><td>75 &lt; Pls ≤ 105</td><td>0,87 </td></tr>
+<tr><td>105 &lt; Pls ≤ 405</td><td>0,90 </td></tr>
+<tr><td>405 &lt; Pls</td><td>0,92 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Control gear for LED or OLED light sources</td><td>  </td></tr>
+<tr><td>all wattages Pcg</td><td>Pcg0,81/(1,09 × Pcg0,81 + 2,10 )</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+Multi-wattage separate control gears shall comply with the requirements in Table 3 according to the maximum declared power on which they can operate.
+
+The no-load power Pno of a separate control gear shall not exceed 0,5 W. This applies only to separate control gear for which the manufacturer or importer has declared in the technical documentation that it has been designed for no-load mode.
+
+The standby power Psb of a separate control gear shall not exceed 0,5 W.
+
+The networked standby power Pnet of a connected separate control gear shall not exceed 0,5 W. The allowable values for Psb and Pnet shall not be added together.
+
+**2\. Functional requirements**
+
+From 1 September 2021, the functional requirements specified in Table 4 shall apply for light sources:
+
+**Table 4**
+
+**Functional requirements for light sources**
+
+<table>
+<tbody><tr><td>Colour rendering</td><td>CRI ≥ 80 (except for HID with Φuse &gt; 4 klm and for light sources intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI&lt; 80, when a clear indication to this effect is shown on the light source packaging and in all relevant printed and electronic documentation)</td></tr>
+<tr><td>Displacement factor (DF, cos φ1) at power input Pon for LED and OLED MLS</td><td>No limit at Pon ≤ 5 W, DF ≥ 0,5 at 5 W &lt; Pon ≤ 10 W,  DF ≥ 0,7 at 10 W &lt; Pon ≤ 25 W  DF ≥ 0,9 at 25 W &lt; Pon </td></tr>
+<tr><td>Lumen maintenance factor (for LED and OLED)</td><td>The lumen maintenance factor XLMF% after endurance testing according to Annex V shall be at least XLMF,MIN % calculated as follows: [image]  where L70 is the declared L70B50 lifetime (in hours)  If the calculated value for XLMF,MIN exceeds 96,0 %, an XLMF,MIN value of 96,0 % shall be used </td></tr>
+<tr><td>Survival factor (for LED and OLED)</td><td>Light sources should be operational as specified in row ‘Survival factor (for LED and OLED)’ of Annex IV, Table 6, following the endurance testing given in Annex V.</td></tr>
+<tr><td>Colour consistency for LED and OLED light sources</td><td>Variation of chromaticity coordinates within a six-step MacAdam ellipse or less.</td></tr>
+<tr><td>Flicker for LED and OLED MLS</td><td>Pst LM ≤ 1,0 at full-load</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Stroboscopic effect for LED and OLED MLS</td><td>SVM ≤ 0,9 at full-load (except for light sources intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI &lt; 80) From 1 September 2024: SVM ≤ 0,4 at full-load (except for light sources intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI &lt; 80) </td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+**3\. Information requirements**
+
+From 1 September 2021 the following information requirements shall apply:
+
+(a) Information to be displayed on the light source itself
+
+For all light sources, except CTLS, LFL, CFLni, other FL, and HID, the value and physical unit of the useful luminous flux (lm) and correlated colour temperature (K) shall be displayed in a legible font on the surface if, after the inclusion of safety-related information, there is sufficient space available for it without unduly obstructing the light emission.
+
+For directional light sources, the beam angle (°) shall also be indicated.
+
+If there is room for only two values, the useful luminous flux and the correlated colour temperature shall be displayed. If there is room for only one value, the useful luminous flux shall be displayed.
+
+(b) Information to be visibly displayed on the packaging
+
+(1) Light source placed on the market, not in a containing product
+
+If a light source is placed on the market, not in a containing product, in a packaging containing information to be visibly displayed at a point-of-sale prior to its purchase, the following information shall be clearly and prominently displayed on the packaging:
+
+(a) the useful luminous flux (Φuse) in a font at least twice as large as the display of the on-mode power (Pon), clearly indicating if it refers to the flux in a sphere (360°), in a wide cone (120°) or in a narrow cone (90°);
+
+(b) the correlated colour temperature, rounded to the nearest 100 K, also expressed graphically or in words, or the range of correlated colour temperatures that can be set;
+
+(c) the beam angle in degrees (for directional light sources), or the range of beam angles that can be set;
+
+(d) electrical interface details, e.g. cap- or connector-type, type of power supply (e.g. 230 V AC 50 Hz, 12 V DC);
+
+(e) the L70B50 lifetime for LED and OLED light sources, expressed in hours;
+
+(f) the on-mode power (Pon), expressed in W;
+
+(g) the standby power (Psb), expressed in W and rounded to the second decimal. If the value is zero, it may be omitted from the packaging;
+
+(h) the networked standby power (Pnet) for CLS, expressed in W and rounded to the second decimal. If the value is zero, it may be omitted from the packaging;
+
+(i) the colour rendering index, rounded to the nearest integer, or the range of CRI-values that can be set;
+
+(j) if CRI&lt; 80, and the light source is intended for use in outdoor applications, industrial applications or other applications where lighting standards allow a CRI&lt; 80, a clear indication to this effect. For HID light sources with useful luminous flux > 4 000 lm, this indication is not mandatory;
+
+(k) if the light source is designed for optimum use in non-standard conditions (such as ambient temperature Ta ≠ 25 °C or specific thermal management is necessary): information on those conditions;
+
+(l) a warning if the light source cannot be dimmed or can be dimmed only with specific dimmers or with specific wired or wireless dimming methods. In the latter cases a list of compatible dimmers and/or methods shall be provided on the manufacturer’s website;
+
+(m) if the light source contains mercury: a warning of this, including the mercury content in mg rounded to the first decimal place;
+
+(n) if the light source is within the scope of Directive 2012/19/EU, without prejudice to marking obligations pursuant to Article 14(4) of Directive 2012/19/EU, or contains mercury: a warning that it shall not be disposed of as unsorted municipal waste.
+
+Items (a) to (d) shall be displayed on the packaging in the direction meant to face prospective buyer; for other items this is also recommended, if space permits.
+
+For light sources that can be set to emit light with different characteristics, the information shall be reported for the reference control settings. In addition, a range of obtainable values may be indicated.
+
+The information does not need to use the exact wording on the list above. Alternatively, it may be displayed in the form of graphs, drawings or symbols.
+
+(2) Separate control gears:
+
+If a separate control gear is placed on the market as a stand-alone product and not as a part of a containing product, in a packaging containing information to be visibly displayed to potential buyers, prior to their purchase, the following information shall be clearly and prominently displayed on the packaging:
+
+(a) the maximum output power of the control gear (for HL, LED and OLED) or the power of the light source for which the control gear is intended (for FL and HID);
+
+(b) the type of light source(s) for which it is intended;
+
+(c) the efficiency in full-load, expressed in percentage;
+
+(d) the no-load power (Pno), expressed in W and rounded to the second decimal, or the indication that the gear is not intended to operate in no-load mode. If the value is zero, it may be omitted from the packaging but shall nonetheless be declared in the technical documentation and on websites;
+
+(e) the standby power (Psb), expressed in W and rounded to the second decimal. If the value is zero, it may be omitted from the packaging but shall nonetheless be declared in the technical documentation and on websites;
+
+(f) where applicable, the networked standby power (Pnet), expressed in W and rounded to the second decimal. If the value is zero, it may be omitted from the packaging but shall nonetheless be declared in the technical documentation and on websites;
+
+(g) a warning if the control gear is not suitable for dimming of light sources or can be used only with specific types of dimmable light sources or using specific wired or wireless dimming methods. In the latter cases, detailed information on the conditions in which the control gear can be used for dimming shall be provided on the manufacturer’s or importer’s website;
+
+(h) a QR-code redirecting to a free-access website of the manufacturer, importer or authorised representative, or the internet address for such a website, where full information on the control gear can be found.
+
+The information does not need to use the exact wording on the list above. Alternatively, it may be displayed in the form of graphs, drawings or symbols.
+
+(c) Information to be visibly displayed on a free-access website of the manufacturer, importer or authorised representative
+
+(1) Separate control gears:
+
+For any separate control gear that is placed on the EU market, the following information shall be displayed on at least one free-access website:
+
+(a) the information specified in point 3(b)(2), except 3(b)(2)(h);
+
+(b) the outer dimensions in mm;
+
+(c) the mass in grams of the control gear, without packaging, and without lighting control parts and non-lighting parts, if any and if they can be physically separated from the control gear;
+
+(d) instructions on how to remove lighting control parts and non-lighting parts, if any, or how to switch them off or minimise their power consumption during control-gear testing for market surveillance purposes;
+
+(e) if the control gear can be used with dimmable light sources, a list of minimum characteristics that the light sources should have to be fully compatible with the control gear during dimming, and possibly a list of compatible dimmable light sources;
+
+(f) recommendations on how to dispose of it at the end of its life in line with Directive 2012/19/EU.
+
+The information does not need to use the exact wording in the list above. Alternatively, it may be displayed in the form of graphs, drawings or symbols.
+
+(d) Technical documentation
+
+(1) The information specified in point 3(c)(1) of this Annex shall also be contained in the technical documentation file drawn up for the purposes of conformity assessment pursuant to Article 8 of Directive 2009/125/EC.
+
+(e) Information for products specified in point 3 of Annex III
+
+For the light sources and separate control gears specified in point 3 of Annex III the intended purpose shall be stated in the technical documentation for compliance assessment as per Article 5 of this Regulation and on all forms of packaging, product information and advertisement, together with an explicit indication that the light source or separate control gear is not intended for use in other applications.
+
+The technical documentation file drawn up for the purposes of conformity assessment, in accordance with Article 5 of this Regulation shall list the technical parameters that make the product design specific to qualify for the exemption.
+
+In particular for light sources indicated in point 3(p) of Annex III it shall be stated: ‘This light source is only for use by photo sensitive patients. Use of this light source will lead to increased energy cost compared to an equivalent more energy efficient product.’
+
+## ANNEX III — Exemptions
+
+1\. This Regulation shall not apply to light sources and separate control gears specifically tested and approved to operate:
+
+(a) in potentially explosive atmospheres, as defined in Directive 2014/34/EU of the European Parliament and of the Council ( 2 );
+
+(b) for emergency use, as set out in Directive 2014/35/EU of the European Parliament and of the Council ( 3 );
+
+(c) in radiological and nuclear medicine installations that are subject to radiation safety standards as set out in Council Directive 2013/59/EURATOM ( 4 );
+
+(d) in or on military or civil defence establishments, equipment, ground vehicles, marine equipment or aircraft, as set out in Member States' regulations or in documents issued by the European Defence Agency;
+
+(e) in or on motor vehicles, their trailers and systems, interchangeable towed equipment, components and separate technical units as set out in Regulation (EC) No 661/2009 ( 5 ), (EU) No 167/2013 ( 6 ) and (EU) No 168/2013 of the European Parliament and of the Council ( 7 );
+
+(f) in or on non-road mobile machinery as set out in Regulation (EU) 2016/1628 of the European Parliament and of the Council ( 8 ) and in or on their trailers;
+
+(g) in or on interchangeable equipment as set out in Directive 2006/42/EC of the European Parliament and of the Council ( 9 ) intended to be towed or to be mounted and fully raised from the ground or that cannot articulate around a vertical axis when the vehicle to which it is attached is in use on a road by vehicles as set out in Regulation (EU) No 167/2013;
+
+(h) in or on civil aviation aircraft, as set out in Commission Regulation (EU) No 748/2012 ( 10 );
+
+(i) in railway vehicle lighting, as set out in Directive 2008/57/EC of the European Parliament and of the Council ( 11 );
+
+(j) in marine equipment, as set out in Directive 2014/90/EU of the European Parliament and of the Council ( 12 );
+
+(k) in medical devices, as set out in Council Directive 93/42/EEC ( 13 ) or Regulation (EU) 2017/745 of the European Parliament and of the Council ( 14 ) and in vitro medical devices as set out in Directive 98/79/EC of the European Parliament and of the Council ( 15 ).
+
+For the purpose of this point, ‘specifically tested and approved’ means that the light source or separate control gear:
+
+— has been specifically tested for the mentioned operating condition or application, according to the European legislation mentioned or related implementing measures, or relevant European or international standards, or, in the absence of these, according to relevant Member States legislation; and
+
+— is accompanied by evidence, to be included in the technical documentation, in the form of a certificate, a type approval mark, a test report, that the product has been specifically approved for the mentioned operating condition or application; and
+
+— is placed on the market specifically for the mentioned operating condition or application, as evidenced at least by the technical documentation, and except for point (d), information on the packaging and any advertising or marketing materials.
+
+2\. In addition, this Regulation shall not apply to:
+
+(a) double-capped fluorescent T5 light sources with power P ≤ 13 W;
+
+(b) electronic displays (e.g. televisions, computer monitors, notebooks, tablets, mobile phones, e-readers, game consoles), including displays within the scope of Commission Regulation (EU) 2019/2021 ( 16 ), and Commission Regulation (EU) No 617/2013 ( 17 );
+
+(c) light sources and separate control gears in battery-operated products, including but not limited to e.g. torches, mobile phones with an integrated torch light, toys including light sources, desk lamps operating only on batteries, armband lamps for cyclists, solar-powered garden lamps;
+
+(d) light sources for spectroscopy and photometric applications, such as for example UV-VIS spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared (NDIR), fourier-transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measurement, process monitoring or environ-mental monitoring;
+
+(e) light sources and separate control gears on bicycles and other non-motorised vehicles.
+
+3\. Any light source or separate control gear within the scope of this Regulation shall be exempt from the requirements of this Regulation, with the exception of the information requirements set out in point 3(e) of Annex II, if they are specifically designed and marketed for their intended use in at least one of the following applications:
+
+(a) signalling (including, but not limited to, road-, railway-, marine- or air traffic- signalling, traffic control or airfield lamps);
+
+(b) image capture and image projection (including, but not limited to, photocopying, printing (directly or in pre-processing), lithography, film and video projection, holography);
+
+(c) light sources with specific effective ultraviolet power > 2 mW/klm and intended for use in applications requiring high UV-content;
+
+(d) light sources with a peak radiation around 253,7 nm and intended for germicidal use (destruction of DNA);
+
+(e) light sources emitting 5 % or more of total radiation power of the range 250-800 nm in the range of 250-315 nm and/or 20 % or more of total radiation power of the range 250-800 nm in the range of 315-400 nm, and intended for disinfection or fly trapping;
+
+(f) light sources with the primary purpose of emitting radiation around 185,1 nm and intended to be used for the generation of ozone;
+
+(g) light sources emitting 40 % or more of total radiation power of the range 250-800 nm in the range of 400-480 nm, and intended for coral zooxanthellae symbioses;
+
+(h) FL light sources emitting 80 % or more of total radiation power of the range 250-800 nm in the range of 250-400 nm, and intended for sun-tanning;
+
+(i) HID light sources emitting 40 % or more of total radiation power of the range 250-800 nm in the range of 250-400 nm, and intended for sun-tanning;
+
+(j) light sources with a photosynthetic efficacy > 1,2 μmol/J, and/or emitting 25 % or more of total radiation power of the range 250-800 nm in the range of 700-800 nm, and intended for use in horticulture;
+
+(k) HID light sources with correlated colour temperature CCT > 7 000 K and intended for use in applications requiring such a high CCT;
+
+(l) light sources with a beam angle of less than 10° and intended for spot-lighting applications requiring a very narrow light beam;
+
+(m) halogen light sources with cap-type G9.5, GX9.5, GY9.5, GZ9.5, GZX9.5, GZY9.5, GZZ9.5, K39d, G9.5HPL, G16d, GES/E40 (low voltage (24V) silver crown only), GX16, GX16d, GY16, G22, G38, GX38, GX38Q, P28s, P40s, PGJX28, PGJX 36, PGJX50, R7s with a luminous flux > 12 000 lm, QXL, designed and marketed specifically for scene-lighting use in film studios, TV studios, and photographic studios, or for stage-lighting use in theatres, discos and during concerts or other entertainment events;
+
+(n) colour-tuneable light sources that can be set to at least the colours listed in this point and which have for each of these colours, measured at the dominant wavelength, a minimum excitation purity of:
+
+| Blue | 440nm — 490nm | 90 % |
+| --- | --- | --- |
+| Green | 520nm — 570nm | 65 % |
+| Red | 610nm — 670nm | 95 % |
+
+and are intended for use in applications requiring high-quality coloured light;
+
+(o) light sources accompanied by an individual calibration certificate detailing the exact radiometric flux and/or spectrum under specified conditions, and intended for use in photometric calibration (of e.g. wavelength, flux, colour temperature, colour rendering index), or for laboratory use or quality control applications for the evaluation of coloured surfaces and materials under standard viewing conditions (e.g. standard illuminants);
+
+(p) light sources provided specifically for use by photosensitive patients, to be sold in pharmacies and other authorised selling points (e.g. suppliers of disability products), upon presentation of a medical prescription;
+
+(q) incandescent light sources (not including halogen light sources) fulfilling all of the following conditions: power ≤ 40 W, length ≤ 60 mm, diameter ≤ 30 mm, declared suitable for operation at ambient temperature ≥ 300 °C, and intended for use in high temperature applications such as ovens;
+
+(r) halogen light sources fulfilling all of the following conditions: cap-type G4, GY6.35 or G9, power ≤ 60 W, declared suitable for operation at ambient temperature ≥ 300 °C, and intended for use in high temperature applications such as ovens;
+
+(s) incandescent light sources with blade contact-, metal lug-, cable-, litz wire-, metric thread-, pin base- or non-standard customised electrical interface, encasing made from quartz-glass tubes, specifically designed and exclusively marketed for industrial or professional electro-heating equipment (such as stretch blow-moulding process in PET-Industry, 3D-printing, photovoltaic and electronic manufacturing processes, drying or hardening of adhesives, inks, paints or coatings);
+
+(t) halogen light sources fulfilling all of the following conditions: R7s cap, CCT ≤ 2 500 K, length not in the ranges 75-80 mm and 110-120 mm, specifically designed and marketed for industrial or professional electro-heating equipment (e.g. stretch blow-moulding process in PET-Industry, 3D-printing, gluing, inks, paint and coating hardening);
+
+(u) single capped fluorescent lamps (CFLni) having a diameter of 16 mm (T5), 2G11 4 pin base, with CCT = 3 200 K and chromaticity coordinates x = 0,415 y = 0,377 , or with CCT = 5 500 K and chromaticity coordinates x = 0,330 y = 0,335 , specifically designed and marketed for studio and video applications for traditional filmmaking;
+
+(v) LED or OLED light sources, complying with the definition of ‘original works of art’ as defined in Directive 2001/84/EC of the European Parliament and of the Council ( 18 ), made by the artist him/herself in a limited number below 10 pieces;
+
+(w) light sources that
+
+(1) are specifically designed and exclusively marketed for scene-lighting use in film-studios, TV-studios and locations, and photographic-studios and locations, or for stage-lighting use in theatres, during concerts or other entertainment events;
+
+and that
+
+(2) meet at least one of the following specifications:
+
+(a) LED with power ≥ 100 W and CRI > 90;
+
+(b) GES/E40, K39d socket with changeable Colour Temperature down to 1 800 K (undimmed), used with low voltage power supply;
+
+(c) LED with power ≥ 180 W and arranged to direct output to an area smaller than the light emitting surface;
+
+(d) Incandescent light source that is DWE type and has 650 W power, 120 V voltage and pressure screw terminal;
+
+(e) LED with power ≥ 100 W that allows the user to set different correlated colour temperatures for the emitted light;
+
+(f) LFL T5 with G5 cap with CRI ≥ 85 and CCT 2 900 , 3 000 , 3 200 , 5 600 or 6 500 K;
+
+(x) incandescent DLS fulfilling all of the following conditions: E27 cap, clear envelope, power ≥ 100 W and ≤ 400 W, CCT ≤ 2 500 K, specifically designed and exclusively marketed for infrared heating.
+
+4\. CLS and CSCG designed and marketed specifically for scene-lighting use in film-studios, TV-studios and locations, and photographic studios and locations, or for stage-lighting use in theatres, discos and during concerts or other entertainment events, for connection to high speed control networks (utilising signalling rates of 250 000 bits per second and higher) in always-listening mode, shall be exempt from the requirements on standby (Psb) and on networked standby (Pnet) of points 1(a) and 1(b) of Annex II.
+
+5\. Light sources specifically designed and exclusively marketed for use in products in the scope of Commission Regulations 2019/2023, 2019/2022, 932/2012 and 2019/2019, shall be exempt from the requirements regarding lumen maintenance factor and survival factor set out in point 2 Table 4 of Annex II, and from the lifetime information requirement set out in point 3(b)(1)(e) of Annex II.
+
+## ANNEX IV — Verification procedure for market surveillance purposes
+
+The verification tolerances defined in this Annex relate only to the verification by Member State authorities of the declared values and shall not be used by the manufacturer, importer or authorised representative as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
+
+Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and all equivalent models shall be considered not compliant.
+
+As part of verifying  the compliance of a product model with the requirements laid down in this Regulation pursuant to Article 3(2) of Directive 2009/125/EC, the authorities of the Member States shall apply the following procedure:
+
+1\. The Member State authorities shall verify one single unit of the model for points 2(a), 2(b), 2(d) and 2(e) of this Annex.
+
+The Member State authorities shall verify 10 units of the light source model or 3 units of the separate control gear model. The verification tolerances are laid down in Table 6 of this Annex.
+
+2\. The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to point 2 of Annex IV to Directive 2009/125/EC (declared values), and, where applicable, the values used to calculate these values, are not more favourable for the manufacturer, importer or authorised representative than the results of the corresponding measurements carried out pursuant to paragraph (g) thereof; and
+
+(b) the declared values meet any requirements laid down in this Regulation, and any required product information published by the manufacturer, importer or authorised representative does not contain values that are more favourable for the manufacturer, importer or authorised representative than the declared values; and
+
+(c) when the authorities of the Member State test the units of the model, the determined values comply with the respective verification tolerances as given in Table 6 of this Annex, where ‘determined value’ means the arithmetic mean over the tested units of the measured values for a given parameter or the arithmetic mean of parameter values calculated from measured values; and
+
+(d) when the Member State authorities check the unit of the model, they find that the manufacturer, importer or authorised representative has put in place a system that complies with the requirements in the second paragraph of Article 7; and
+
+(e) when the Member State authorities check the unit of the model, it complies with the requirement in the third paragraph of Article 7 and the information requirements in point 3 of Annex II.
+
+3\. If the results referred to in point 2(a), (b), (c), (d) or (e) are not achieved, the model and all equivalent models shall be considered not to comply with this Regulation.
+
+4\. The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 or the second paragraph of this Annex.
+
+The authorities of the Member State shall only apply the verification tolerances that are set out in Table 6 and shall use only the procedure described in this Annex. For the parameters in Table 6, no other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+**Table 6**
+
+**Verification tolerances**
+
+<table>
+<tbody><tr><td>Parameter</td><td>Sample size</td><td>Verification tolerances</td></tr>
+<tr><td>Full-load on-mode power Pon [W]:</td><td>  </td><td>  </td></tr>
+<tr><td>Pon ≤ 2W</td><td>10</td><td>The determined value shall not exceed the declared value by more than 0,20 W.</td></tr>
+<tr><td>2W &lt; Pon ≤ 5W</td><td>10</td><td>The determined value shall not exceed the declared value by more than 10 %.</td></tr>
+<tr><td>5W &lt; Pon ≤ 25W</td><td>10</td><td>The determined value shall not exceed the declared value by more than 5 %.</td></tr>
+<tr><td>25W &lt; Pon ≤ 100W</td><td>10</td><td>The determined value shall not exceed the declared value by more than 5 %.</td></tr>
+<tr><td>100W &lt; Pon</td><td>10</td><td>The determined value shall not exceed the declared value by more than 2,5 %.</td></tr>
+<tr><td>Displacement factor [0-1]</td><td>10</td><td>The determined value shall not be less than the declared value minus 0,1 units.</td></tr>
+<tr><td>Useful luminous flux Φuse [lm]</td><td>10</td><td>The determined value shall not be less than the declared value minus 10 %.</td></tr>
+<tr><td>No-load power Pno, Standby power Psb and Networked standby power Pnet [W]</td><td>10</td><td>The determined value shall not exceed the declared value by more than 0,10 W.</td></tr>
+<tr><td>CRI [0-100]</td><td>10</td><td>The determined value shall not be less than the declared value by more than 2,0 units.</td></tr>
+<tr><td>Flicker [Pst LM] and stroboscopic effect [SVM]</td><td>10</td><td> The determined value shall not exceed the declared value by more than 0,1.  </td></tr>
+<tr><td>Colour consistency [MacAdam ellips steps]</td><td>10</td><td>The determined number of steps shall not exceed the declared number of steps. The centre of the MacAdam ellipse shall be the centre declared by the supplier with a tolerance of 0,005 units.</td></tr>
+<tr><td>Beam angle (degrees)</td><td>10</td><td>The determined value shall not deviate from the declared value by more than 25 %.</td></tr>
+<tr><td>Control gear efficiency [0-1]</td><td>3</td><td>The determined value shall not be less than the declared value minus 0,05 units.</td></tr>
+<tr><td>Lumen maintenance factor (for LED and OLED)</td><td>10</td><td>The determined XLMF% of the sample following the test in Annex V of this Regulation shall not be less than XLMF, MIN% (1).</td></tr>
+<tr><td>Survival factor (for LED and OLED)</td><td>10</td><td>At least 9 light sources of the test sample must be operational after completing the test in Annex V of this Regulation.</td></tr>
+<tr><td>Excitation purity [%]</td><td>10</td><td>The determined value shall not be less than the declared value minus 5 %.</td></tr>
+<tr><td>Correlated colour temperature [K]</td><td>10</td><td>The determined value shall not deviate from the declared value by more than 10 %.</td></tr>
+<tr><td colspan="3">(1)  There is no tolerance associated with this metric, as it is a fixed requirement and it is up to the manufacturer to declare an L70B50 value to meet it. </td></tr>
+</tbody>
+</table>
+
+For light sources with linear geometry which are scalable but of very long length, such as LED strips or strings, verification testing of market surveillance authorities shall consider a length of 50 cm, or, if the light source is not scalable there, the nearest value to 50 cm. The light source manufacturer or importer shall indicate which separate control gear is suitable for this length.
+
+When verifying if a product is a light source, market surveillance authorities shall compare the measured values for chromaticity coordinates (x and y), luminous flux, luminous flux density, and colour rendering index directly with the limit values set out in the definition for light source of Article 2 of this Regulation, without applying any tolerances. If any of the 10 units in the sample satisfies the conditions for being a light source, the product model shall be considered to be a light source.
+
+Light sources that allow the end-user to control, manually or automatically, directly or remotely, the luminous intensity, colour, correlated colour temperature, spectrum, and/or beam angle of the emitted light shall be evaluated using the reference control settings.
+
+## ANNEX V — Functionality after endurance testing
+
+Models of LED- and OLED- light sources shall undergo endurance testing to verify their lumen maintenance and survival factor. This endurance testing consists of the test method outlined below. The authorities of a Member State shall test 10 units of the model for this test.
+
+The endurance test for LED and OLED light sources shall be conducted as follows:
+
+(a) Ambient conditions and test setup:
+
+(i) The switching cycles are to be conducted in a room with an ambient temperature of 25 ± 10 °C and an average air velocity of less than 0,2 m/s.
+
+(ii) The switching cycles on the sample shall be conducted in free air in a vertical base-up position. However, if a manufacturer or importer has declared the light source suitable for use in a specific orientation only, then the sample shall be mounted in that orientation.
+
+(iii) The applied voltage during the switching cycles shall have a tolerance within 2 %. The total harmonic content of the supply voltage shall not exceed 3 %. Standards provide guidance on the supply voltage source. Light sources designed to be operated on mains voltage shall be tested at 230 V, 50 Hz supply, even if the products are able to be operated on variable supply conditions.
+
+(b) Endurance test method:
+
+(i) Initial flux measurement: measure the luminous flux of the light source prior to starting the endurance test switching cycle.
+
+(ii) Switching cycles: operate the light source for 1 200 cycles of repeated, continuous switching cycles without interruption. One complete switching cycle consists of 150 minutes of the light source switched ON at full power followed by 30 minutes of the light source switched OFF. The hours of operation recorded (i.e. 3 000 hours) include only the periods of the switching cycle when the light source was switched ON, i.e. the total test time is 3 600 hours.
+
+(iii) Final flux measurement: at the end of the 1 200 switching cycles, note if any light sources have failed (see ‘Survival factor’ in Annex IV, Table 6 of this Regulation) and measure the luminous flux of the light sources that have not failed.
+
+(iv) For each of the units in the sample which have not failed, divide the measured final flux by the measured initial flux. Average the resulting values over all the units that did not fail to compute the determined value for the lumen maintenance factor XLMF %.
+
+## ANNEX VI — Benchmarks
+
+For the environmental aspects that were considered significant and are quantifiable, the best available technology on the market, at the time of entry into force of this Regulation, is indicated below.
+
+The best available technology on the market for light sources in terms of their efficacy based on useful luminous flux was identified as follows:
+
+— Mains voltage non-directional light sources: 120-140 lm/W
+
+— Mains voltage directional light sources: 90-100 lm/W
+
+— Directional light sources not operating on the mains: 85- 95 lm/W
+
+— Linear light sources (tubes): 140-160 lm/W
+
+The best available technology on the market for separate control gears has an energy efficiency of 95 %.
+
+Features required in certain applications, e.g. a high colour rendering, might prevent products offering those features from achieving these benchmarks.
+
+The best available technology on the market for light sources and separate control gears do not have any mercury content.
+
+( 1 ) Commission Regulation (EC) No 278/2009 of 6 April 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for no-load condition electric power consumption and average active efficiency of external power supplies (OJ L 93, 7.4.2009, p. 3).
+
+( 2 ) Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (recast) (OJ L 96, 29.3.2014, p. 309).
+
+( 3 ) Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357).
+
+( 4 ) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation (OJ L 13, 17.1.2014, p. 1).
+
+( 5 ) Regulation (EC) No 661/2009 of the European Parliament and of the Council of 13 July 2009 concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (OJ L 200, 31.7.2009, p. 1).
+
+( 6 ) Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1).
+
+( 7 ) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+( 8 ) Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations (EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC (OJ L 252, 16.9.2016, p. 53).
+
+( 9 ) Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (recast) (OJ L 157, 9.6.2006, p. 24).
+
+( 10 ) Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (OJ L 224, 21.8.2012, p. 1).
+
+( 11 ) Directive 2008/57/EC of the European Parliament and of the Council of 17 June 2008 on the interoperability of the rail system within the Community (Recast) (OJ L 191, 18.7.2008, p. 1).
+
+( 12 ) Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146).
+
+( 13 ) Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (OJ L 169, 12.7.1993, p. 1).
+
+( 14 ) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+
+( 15 ) Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices (OJ L 331, 7.12.1998, p. 1).
+
+( 16 ) Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009 (see page 241 of this Official Journal).
+
+( 17 ) Commission Regulation (EU) No 617/2013 of 26 June 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for computers and computer servers (OJ L 175, 27.6.2013, p. 13).
+
+( 18 ) Directive 2001/84/EC of the European Parliament and of the Council of 27 September 2001 on the resale right for the benefit of the author of an original work of art (OJ L 272, 13.10.2001, p. 32).

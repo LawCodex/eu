@@ -1612,6 +1612,7 @@ Note 1 Definitions apply throughout the List. The references are purely advisory
 
 Note 2 Words and terms contained in this List of Definitions only take the defined meaning where this is indicated by their being enclosed in "double quotations marks". Definitions of terms between 'single quotation marks' are given in a Technical note to the relevant item. Elsewhere, words and terms take their commonly accepted (dictionary) meanings.
 
+<table>
 <tbody><tr><td>ML7</td><td>"Adapted for use in war"</td><td>Any modification or selection (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.</td></tr>
 <tr><td>ML8</td><td>"Additives"</td><td>Substances used in explosive formulations to improve their properties.</td></tr>
 <tr><td>ML8, 10, 14</td><td>"Aircraft"</td><td>A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle.</td></tr>
@@ -1730,3 +1731,4 @@ Note 2 Words and terms contained in this List of Definitions only take the defin
 <tr><td>ML10</td><td>"Unmanned aerial vehicle" ("UAV")</td><td>Any "aircraft" capable of initiating flight and sustaining controlled flight and navigation without any human presence on board.</td></tr>
 <tr><td>ML21, 22</td><td>"Use"</td><td>Operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing.</td></tr>
 </tbody>
+</table>

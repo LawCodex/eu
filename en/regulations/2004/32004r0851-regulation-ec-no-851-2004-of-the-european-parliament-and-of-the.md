@@ -1,0 +1,779 @@
+---
+title: "Regulation (EC) No 851/2004 of the European Parliament and of the Council of 21 april 2004 establishing a European Centre for disease prevention and control"
+identifier: "32004R0851"
+eli: "http://data.europa.eu/eli/reg/2004/851/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-04-21
+entry_into_force: 2004-03-13
+last_amended: 2022-12-26
+consolidated_version: "02004R0851-20221226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0851-20221226"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 851/2004 of the European Parliament and of the Council of 21 april 2004 establishing a European Centre for disease prevention and control
+
+**REGULATION (EC) No 851/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**establishing a European centre for disease prevention and control**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2370 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 November 2022 </td><td> L 314</td><td>1</td><td>6.12.2022</td></tr>
+</table>
+
+**REGULATION (EC) No 851/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**establishing a European centre for disease prevention and control**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation establishes an independent European agency for disease prevention and control, its mission, tasks and organisation.
+
+2\. The Agency shall be named the European Centre for Disease Prevention and Control, hereinafter referred to as the ‘Centre’.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘competent body’ means any structure, institute, agent or other scientific body recognised by Member States’ authorities as providing independent scientific and technical advice or capacity for action in the field of the prevention and control of human disease;
+
+(2) ‘coordinating competent body’ means a body in each Member State with a designated national coordinator responsible for institutional contacts with the Centre, as well as national focal points and operational contact points responsible for strategic and operational collaboration on scientific and technical issues for specific disease areas and public health functions;
+
+(3) ‘dedicated network’ means any specific network on diseases, related special health issues or public health functions that is supported and coordinated by the Centre and is intended to ensure collaboration between the coordinating competent bodies of the Member States;
+
+(4) ‘communicable disease’ means a communicable disease as defined in Article 3, point (3), of Regulation (EU) 2022/2371 of the European Parliament and of the Council ( 1 );
+
+(5) ‘serious cross-border threat to health’ means a serious cross-border threat to health as defined in Article 3, point (1), of Regulation (EU) 2022/2371;
+
+(6) ‘epidemiological surveillance’ means epidemiological surveillance as defined in Article 3, point (5), of Regulation (EU) 2022/2371;
+
+(7) ‘related special health issues’ means related special health issues as referred to in Article 2(1), point (a)(ii), of Regulation (EU) 2022/2371;
+
+(8) ‘monitoring’ means monitoring as defined in Article 3, point (6), of Regulation (EU) 2022/2371;
+
+(9) ‘health system capacity’ means health system capacity as defined in Article 3, point (13), of Regulation (EU) 2022/2371.
+
+### Article 3 — Mission and tasks of the Centre
+
+1\. In order to enhance the capacity of the Union and the Member States to protect human health through the prevention and control of communicable diseases in humans and related special health issues, the mission of the Centre shall be to identify and assess current and emerging threats to human health from communicable diseases and related special health issues, to report thereon and, where appropriate, to ensure that information thereon is presented in an easily accessible way. The Centre shall act in collaboration with competent bodies of the Member States or on its own initiative, through a dedicated network. The mission of the Centre shall also be to provide science-based recommendations and support in coordinating the response at Union and national levels, as well as at cross-border interregional and regional level, to such threats, where appropriate. In providing such recommendations, the Centre shall, where necessary, cooperate with Member States and take into account existing national crisis management plans and the respective circumstances of each Member State.
+
+In the case of other outbreaks of diseases of unknown origin that may spread within or to the Union, the Centre shall act on its own initiative until the source of the outbreak is known. In the case of an outbreak that is clearly not of a communicable disease, the Centre shall act only in cooperation with the coordinating competent bodies and upon their request, and provide a risk assessment.
+
+In pursuing its mission, the Centre shall respect the responsibilities of the Member States, the Commission and other Union bodies or agencies, and the responsibilities of third countries and international organisations active within the field of public health, in particular the WHO, in order to ensure that there is comprehensiveness, coherence and complementarity of action and that actions are coordinated.
+
+The Centre shall support the work of the Health Security Committee (HSC), established by Article 4 of Regulation (EU) 2022/2371, the Council, the Member States and, where relevant, other Union structures, in order to promote effective coherence between their respective activities and to coordinate responses to serious cross-border threats to health, within its mandate.
+
+2\. The Centre shall perform the following tasks:
+
+(a) search for, collect, collate, evaluate and disseminate relevant scientific and technical data and information, using the most effective technologies, such as, where relevant, artificial intelligence, respecting European standards regarding ethical aspects;
+
+(b) develop, in close collaboration and consultation with Member States, relevant common indicators for standardised data collection procedures and risk assessments;
+
+(c) provide analyses, scientific and technical advice, opinions, guidelines, science-based recommendations and support for actions by the Union and Member States, to prevent and control communicable diseases and related special health issues, including risk assessments, analysis of epidemiological information, prevention, preparedness and response planning and epidemiological modelling, anticipation and forecasting;
+
+(d) promote and coordinate the networking of bodies, organisations and experts operating in the Union in the fields relevant to the Centre’s mission, including networks arising from public health activities supported by the Commission, and operate dedicated networks on surveillance, while ensuring full compliance with the rules on transparency and conflicts of interest;
+
+(e) promote and facilitate the exchange of scientific and technical information and expertise and of best practices, including through training, among Member States and other Union agencies and bodies;
+
+(f) monitor, in close cooperation with Member States, their health system capacity and support the collection of data on their health system capacity to the extent necessary for the management of and response to communicable disease threats and related special health issues, based on the preparedness indicators referred to in Article 5b(2), point (b), of this Regulation and the elements set out in Article 7(1) of Regulation (EU) 2022/2371.
+
+(g) organise on-site visits in Member States, on a case-by-case basis, in close collaboration with the Member States concerned, to provide additional support to prevention, preparedness and response planning activities as referred to in Article 5b;
+
+(h) support national monitoring of response to major communicable diseases;
+
+(i) contribute to defining research priorities and to facilitating the development and implementation of actions funded by relevant Union funding programmes and instruments, including the implementation of joint actions in the area of public health;
+
+(j) provide, at the request of the Commission or the HSC, or on its own initiative, guidelines, recommendations and proposals for coordinated action for surveillance, monitoring, diagnosis and case management of communicable diseases and related special health issues, and support for professional networks to improve treatment guidelines in cooperation with relevant organisations and associations, national competent bodies and international organisations such as the WHO, while avoiding any duplication of existing guidelines;
+
+(k) support, for example through the EU Health Task Force referred to in Article 11a, epidemic and outbreak response in Member States, based on in-depth country knowledge, and in third countries in cooperation with the WHO, in a manner that is complementary to, and in close coordination with, other emergency response instruments, in particular the Union Civil Protection Mechanism, and relevant instruments on the stockpiling of medical countermeasures;
+
+(l) contribute to strengthening preparedness capacities under the IHR, including training, in Member States and in third countries, in particular partner countries, while ensuring that synergies with the work of the WHO are achieved;
+
+(m) provide, at the request of the Commission or the HSC, or on its own initiative, timely, easily accessible and evidence-based communication messages to the public, in all official languages of the Union, on communicable diseases and threats to health posed by communicable diseases, as well as on the relevant prevention and control measures, with due regard for the competences of the Member States.
+
+3\. The Centre, the Commission, the relevant Union bodies or agencies and the Member States shall cooperate in a transparent manner to promote effective coherence and synergies between their respective activities.
+
+### Article 4 — Obligations of Member States
+
+Member States shall coordinate and collaborate with the Centre, in relation to the mission and tasks set out in Article 3, by:
+
+(a) communicating regularly to the Centre, in accordance with agreed timelines, case definitions, indicators, standards, protocols and procedures, data on the surveillance of communicable diseases, related special health issues and other serious cross-border threats to health undertaken in accordance with Article 13 of Regulation (EU) 2022/2371, and available scientific and technical data and information necessary for the Centre to fulfil its mission referred to in Article 3(2), point (e), of this Regulation, including relevant data on the capacity of health systems for crisis preparedness in relation to detecting, preventing, responding to and recovering from outbreaks of communicable diseases;
+
+(b) notifying the Centre of any serious cross-border threats to health, as soon as detected, through the Early Warning and Response System (EWRS) provided for under Article 18 of Regulation 2022/2371, and promptly communicating any response measures taken, as well as any relevant information that is useful for coordinating the response as referred to in Article 21 of that Regulation;
+
+(c) identifying, within the scope of the mission of the Centre, competent bodies and public health experts and organisations that could be available to assist in the Union response to serious cross-border threats to health, such as by undertaking missions to Member States, cross-border regions and third countries in cooperation with the WHO, in order to provide expert advice and carry out field investigations in the event of disease clusters or outbreaks;
+
+(d) preparing national prevention, preparedness and response plans in accordance with Article 6 of Regulation (EU) 2022/2371 and reporting on prevention, preparedness and response planning and implementation at national level in accordance with Article 7 of that Regulation;
+
+(e) facilitating the digitalisation of data collection and the data communication process between national and European surveillance systems to provide timely delivery of the necessary information; and
+
+(f) informing the Centre about any delay in meeting the timelines referred to in point (a).
+
+## CHAPTER 2 — OPERATIONAL PROCEDURES
+
+### Article 5 — Operation of dedicated networks and networking activities
+
+1\. The Centre shall support and continuously develop the networking activities of competent bodies through the provision of coordination and scientific and technical expertise to the Commission and Member States and through the operation of dedicated networks.
+
+2\. The Centre shall ensure the integrated operation of the network for epidemiological surveillance referred to in Article 13(1) of Regulation (EU) 2022/2371, surveillance of health-related environmental hazards as referred to in Article 2(1), point (c), of that Regulation, and the integrated operation of a network of EU reference laboratories as referred to in Article 15 of that Regulation.
+
+It shall in particular:
+
+(a) ensure the continuous development of automated digital platforms and applications, including the digital platform for surveillance established under Article 14 of Regulation (EU) 2022/2371, that are subject to human oversight, support epidemiological surveillance at Union level, and support Member States with scientific and technical data and advice to establish integrated surveillance systems enabling real-time surveillance for preparedness, where appropriate and feasible, benefiting from existing Union space infrastructure and services;
+
+(b) provide quality assurance by monitoring and evaluating the epidemiological surveillance activities of the dedicated networks on surveillance to ensure optimal operation, including by developing surveillance standards and monitoring data completeness and indicators;
+
+(c) maintain databases for such epidemiological surveillance, coordinate with the hosts of other relevant databases and work towards harmonised approaches to data collection and modelling in order to produce comparable Union-wide data; in carrying out that role, the Centre shall minimise the risks that may emerge from the transfer of inaccurate, incomplete or ambiguous data from one database to another, and shall establish robust procedures for data quality review;
+
+(d) communicate the results of the analysis of data to the Commission, the HSC and the Member States, make databases accessible to and usable by Member States to support national policymaking and bilateral and multilateral collaboration between Member States, and propose communication messages to Member States to inform the public;
+
+(e) promote and support harmonised and rationalised operating methodologies for epidemiological surveillance in collaboration with the competent bodies;
+
+(f) ensure the interoperability of automated applications and other digital tools that support cross-border public health activities, including for contact tracing and warning applications, developed at Union level or national level in close collaboration with Member States;
+
+(g) ensure the interoperability of the digital platforms for surveillance with digital infrastructure enabling health data to be used for healthcare, research, policy-making and regulatory purposes, and make use of other relevant data, for example environmental factors or phenomena with the potential to have a severe impact on health at Union or cross-border interregional level, or socio-economic risk factors, among others, if useful as regards fulfilling the Centre’s mission more effectively.
+
+The digital platforms and applications referred to in the second subparagraph, point (a), shall be implemented with privacy-enhancing technologies taking into account the state of the art.
+
+3\. The Centre, through the operation of the network for epidemiological surveillance, shall:
+
+(a) monitor and report on trends in communicable diseases over time and across Member States and in third countries in cooperation with the WHO, based on agreed indicators, to assess the present situation and facilitate appropriate evidence-based action, including through the identification of specifications for harmonised data collection from Member States;
+
+(b) detect, monitor and report on serious cross-border threats to health referred to in Article 2(1), points (a)(i) and (a)(ii), of Regulation (EU) 2022/2371, including threats to substances of human origin, or in Article 2(1), point (d), of that Regulation, with regard to source, time, population and place in order to provide a rationale for public health action;
+
+(c) support the national reference laboratories referred to in Article 15 of Regulation (EU) 2022/2371 in the implementation of the external quality control schemes, including professional testing schemes;
+
+(d) contribute to the evaluation and monitoring of communicable disease prevention and control programmes in order to provide the evidence for science-based recommendations to strengthen and improve those programmes at Union and national level;
+
+(e) monitor and assess the capacity of health systems to diagnose, prevent and treat major communicable diseases, as well as the resilience of the national health systems in the event of major disease outbreaks, based on preparedness indicators referred to in Article 5b(2), point (b);
+
+(f) identify population groups at risk and in need of targeted prevention and response measures, and support Member States in ensuring that those measures also target persons with disabilities;
+
+(g) contribute to the assessment of the burden of communicable diseases, such as with regard to disease prevalence, clinical complications, hospitalisation and mortality, by using among other types of data, stratified data on age, gender, disability and other elements, if available;
+
+(h) carry out epidemiological modelling, anticipation and scenario development for response, and coordinate such efforts with a view to exchanging best practices, improving modelling capacity across the Union and ensuring international cooperation; and
+
+(i) identify risk factors for disease transmission and the associated disease burden, provide analysis of the correlation between disease transmission, on the one hand, and social, economic, climatic and environmental risk factors, on the other, following the ‘One Health’ approach for zoonotic, food and waterborne diseases and other relevant diseases and special health issues, and identify population groups most at risk, including the correlation between disease incidence and severity with societal and environmental factors, and research priorities and needs.
+
+4\. Each Member State shall designate a coordinating competent body and shall also designate a national coordinator, national focal points and operational contact points, as relevant, for public health functions, including epidemiological surveillance, and for various disease groups and individual diseases, as well as for providing support for preparedness and response.
+
+The national focal points shall form networks that provide scientific and technical advice to the Centre.
+
+National focal points and operational contact points designated for disease-specific interactions with the Centre shall form disease-specific or disease-group-specific networks whose tasks shall include the transmission of national surveillance data as well as the submission of proposals for the prevention and control of communicable diseases to the Centre.
+
+Member States shall notify the Centre and other Member States of the designations provided for in this paragraph and of any change thereto.
+
+5\. The Centre shall cooperate with the competent bodies, in particular on preparatory work for scientific opinions, scientific and technical assistance, the collection of comparable data based on common formats that allow for ease of aggregation, and the identification of emerging health threats.
+
+6\. The Centre shall ensure the operation and coordination of the network of EU reference laboratories referred to in Article 15 of Regulation (EU) 2022/2371, for the purposes of diagnosis, detection, identification, genetic sequencing and characterisation of infectious agents that have the potential to pose a threat to public health.
+
+7\. The Centre shall provide scientific and technical assistance to help Member States develop their detection and sequencing capacities, in particular those Member States that do not have sufficient capacities.
+
+8\. By encouraging cooperation between experts and reference laboratories, the Centre shall foster the development of sufficient capacity within the Union for the diagnosis, detection, identification and characterisation of infectious agents that have the potential to pose a threat to public health. The Centre shall maintain and extend such cooperation and support the implementation of quality assurance schemes.
+
+9\. The Centre shall ensure the operation and coordination of the network of Member State services supporting the use of substances of human origin, in order to help to ensure that such substances are microbiologically safe, by monitoring, assessing and helping to address relevant disease outbreaks that have the potential to pose serious cross-border threats to health, and to safeguard patients in need of such substances.
+
+### Article 5a — Prevention of communicable diseases
+
+1\. The Centre shall support Member States in strengthening their communicable disease prevention and control capacities, and in improving and facilitating the data collection process with interoperable sharing of data.
+
+2\. In close collaboration with Member States, the European Medicines Agency (EMA) and other relevant Union bodies and agencies, as well as with international organisations, the Centre shall develop a framework for the prevention of communicable diseases and related special health issues, including socio-economic risk factors, vaccine preventable diseases, antimicrobial resistance, health promotion, health education, health literacy and behaviour change.
+
+3\. The Centre may provide guidelines for the creation of communicable disease prevention and control programmes. It shall evaluate and monitor such programmes in order to provide evidence for science-based recommendations for the purposes of coordinating, strengthening and improving such programmes at national, cross-border interregional and Union level, and, where appropriate, at international level.
+
+4\. The Centre shall monitor the level of vaccination coverage in respect of major communicable diseases in each Member State, taking into account the specificities of national and regional vaccination schedules.
+
+5\. The Centre shall coordinate independent, post-marketing monitoring studies of the effectiveness and safety of vaccines, and shall collect new information, use the relevant data collected by competent bodies, or both. That work shall be conducted jointly with EMA and in particular through a new vaccine monitoring platform.
+
+### Article 5b — Prevention, preparedness and response planning
+
+1\. The Centre shall provide science-based recommendations and scientific and technical expertise to the Member States and the Commission, in collaboration with relevant Union bodies and agencies, international organisations and, where relevant, representatives of civil society, such as representatives of patient organisations and public health organisations, in accordance with appropriate working arrangements established with the Commission in the field of prevention, preparedness and response planning.
+
+2\. The Centre shall, in close collaboration with the Member States and the Commission:
+
+(a) without prejudice to Member States’ competences in the area of prevention, preparedness and response planning, contribute to the development, regular review and updating of frameworks for national preparedness plans and of threat-specific preparedness plans for adoption by the HSC, and to the development, regular review and updating of the Union prevention, preparedness and response plan in accordance with Article 5 of Regulation (EU) 2022/2371;
+
+(b) develop preparedness, monitoring and evaluation frameworks, and develop indicators for preparedness based on the IHR, in cooperation with the WHO, which frameworks and indicators are to be discussed within the HSC;
+
+(c) facilitate self-assessments by Member States of their prevention, preparedness and response planning and external evaluation of such planning, when accepted by the Member State concerned and in a manner that is complementary to the IHR, and contribute to the activities referred to in Articles 7 and 8 of Regulation (EU) 2022/2371;
+
+(d) ensure assessment of preparedness gaps and the provision of targeted support to Member States and, at their request and in cooperation with the WHO, to third countries that conclude agreements with the Union in accordance with Article 30;
+
+(e) develop exercises, stress tests, in-action and after-action reviews, and support and complement Member States in those activities, and organise additional actions to address gaps identified in preparedness capacity and capability;
+
+(f) develop and support specific preparedness activities addressing, amongst other things, vaccine preventable diseases, antimicrobial resistance, laboratory capacity and biosecurity, based on identified gaps or at the request of the Member States or the Commission;
+
+(g) support the integration of research preparedness in the prevention, preparedness and response plans;
+
+(h) support and complement additional targeted activities addressing at-risk groups and community preparedness;
+
+(i) based on indicators referred to in Article 3(2), point (b), and in point (b) of this subparagraph, and in close cooperation with the Member States, monitor the capacity of Member States’ health systems to detect, prevent, respond to and recover from outbreaks of communicable diseases, identify gaps and provide science-based recommendations for the strengthening of health systems, to be implemented with Union support, as appropriate;
+
+(j) bolster the modelling, anticipation and forecasting capacity of the Centre; and
+
+(k) maintain regular secondment mechanisms between the Centre, the Commission, Member States’ experts and international organisations, including a EU Health Task Force, which support the activities referred to in points (d), (f), (h) and (i) of this subparagraph and Article 5a(1).
+
+The secondment mechanisms referred to in the first subparagraph, point (k), shall contribute to the strengthening of the operational interface between the Centre and Member States.
+
+### Article 6 — Scientific opinions and studies
+
+1\. The Centre shall provide independent scientific opinions, expert advice, data and information.
+
+1a. The Centre shall provide concrete analyses and independent science-based recommendations for actions to prevent and control communicable diseases and other serious cross-border threats to health, on its own initiative or at the request of the Commission or the Member States through the HSC.
+
+2\. The Centre shall seek to maintain scientific excellence at all times through the best expertise available. Where independent scientific expertise is not available from existing dedicated surveillance networks, the Centre may set up independent ad hoc scientific panels.
+
+3\. The Centre may promote and initiate scientific studies that are necessary for the performance of its mission, and applied scientific studies and projects on the feasibility, development and preparation of its activities. The Centre shall avoid duplication with research and health programmes of the Commission, the Member States, the Union or the WHO, as well as with other relevant programmes, and shall liaise between the public health and research sectors.
+
+To promote and initiate the studies referred to in the first subparagraph, the Centre shall request access to health data made available or exchanged through digital infrastructure and applications, so that such health data can be used for healthcare, health research, policy-making and regulatory purposes linked to public health.
+
+For the purposes of the studies referred to in the first subparagraph, the Centre shall also make use of other relevant data, for example on environmental and socio-economic factors.
+
+3a. The Centre may use its resources and make use of reference laboratories, in order to perform field research, data gathering and data analysis, for the purposes of helping relevant national bodies gather reliable data.
+
+4\. The Centre shall consult with the HSC, the Commission and other relevant Union bodies or agencies with regard to the planning and priority setting of research and public health studies, taking into account the opinion of the Advisory Forum.
+
+### Article 7 — Procedure for scientific opinions
+
+1\. The Centre shall issue a scientific opinion on matters falling within its mission:
+
+(a) in all cases where Union legislation provides that the Centre is to be consulted;
+
+(b) at the request of the European Parliament or a Member State;
+
+(c) at the request of the Commission, the HSC or EMA; and
+
+(d) on its own initiative.
+
+2\. Requests for a scientific opinion as referred to in paragraph 1 shall clearly explain the scientific issue to be addressed and the Union interest concerned, and shall be accompanied by sufficient background information regarding that issue. Where necessary, if scientific opinions are focused on a specific Member State, the Member State concerned shall have the opportunity to contribute with expertise.
+
+3\. The Centre shall ensure that it has the ability to anticipate and react quickly in order to issue scientific opinions within a mutually agreed time frame. The Centre’s scientific opinions shall be accessible and shall be operational for policy makers.
+
+4\. Where different requests are made on the same issue or where the request does not comply with paragraph 2, the Centre may refuse to issue a scientific opinion or propose amendments to that request in consultation with the institution, committee, agency or Member State that made the request. If the request is refused, the Centre shall provide the institution, committee, agency or Member State that made the request with the reasons for the refusal.
+
+5\. Where the Centre has already delivered a scientific opinion on the specific issue covered by a request and it concludes that no scientific elements justify re-examination of the issue, information supporting that conclusion shall be given to the institution, committee, agency or Member State that made the request.
+
+6\. The Centre’s internal rules shall specify requirements regarding the format, explanatory background and transparency rules for the publication of a scientific opinion.
+
+### Article 8 — Operation of the Early Warning and Response System
+
+1\. The Centre shall support and assist the Commission by operating the EWRS in accordance with Article 18 of Regulation (EU) 2022/2371 and by ensuring, together with the Member States, the capacity to respond to health threats in a coordinated and timely manner.
+
+2\. The Centre shall:
+
+(a) analyse the content of messages it receives via the EWRS;
+
+(b) provide information, expertise, advice, training and risk assessments to Member States and the Commission; and
+
+(c) ensure that the EWRS is efficiently and effectively linked with other Union alert systems.
+
+3\. The Centre shall work with the Commission, the HSC and Member States to improve the reporting of relevant data through the EWRS, with a view to encouraging digitalisation of that process and its integration into national surveillance systems.
+
+4\. The Centre shall work with the Commission and the HSC to continuously update the EWRS, including for the use of modern technologies such as digital mobile applications, artificial intelligence and computer modelling and simulation models, or other technologies for automated contact tracing and warning applications, building upon the contact tracing technologies developed by the Member States, and to define the functional requirements of the EWRS.
+
+5\. The Centre shall work with the Commission, the HSC and the eHealth Network and relevant experts in the Member States to further define the functional requirements for contact tracing and warning applications, or, if necessary, other digital tools, and their interoperability, taking into account existing infrastructure and services, such as geolocation services provided by the EU Space Programme.
+
+6\. The Centre shall be responsible for ensuring the legality, security and confidentiality of the processing operations of personal data carried out within the EWRS and in the context of the interoperability of contact tracing and warning applications or, if necessary, other digital tools, in accordance with Articles 33 and 36 of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 2 ).
+
+### Article 8a — Public health risk assessment
+
+1\. The Centre shall provide risk assessments, in accordance with Article 20 of Regulation (EU) 2022/2371, in the case of a serious cross-border threat to health referred to in Article 2(1), points (a)(i) and (a)(ii), of that Regulation, including where it relates to substances of human origin that can potentially be impacted by communicable diseases, or in Article 2(1), point (d), of that Regulation. Such risk assessments shall be provided in a timely manner.
+
+2\. Risk assessments referred to in paragraph 1 shall include general and targeted science-based recommendations and options for response as a basis for coordination in the HSC, such as concerning:
+
+(a) a forecast of the evolution of a health crisis and the risk of a health emergency;
+
+(b) the Member States’ health system capacity to the extent it is necessary for the management of and the response to communicable disease threats and related special health issues, in order to support Member States;
+
+(c) identification of vulnerable groups in society;
+
+(d) identification of possible protective non-pharmaceutical measures and assessment of their efficacy.
+
+3\. For the purposes of paragraph 1, the Centre shall coordinate the preparation of risk assessments, by involving national focal points or Member States’ experts, relevant agencies or international organisations such as the WHO, where appropriate.
+
+The Centre shall establish rules of procedure for risk assessments, especially regarding the involvement of experts to ensure that Member State expertise is independent and representative.
+
+4\. Where the risk assessment falls outside the mandate of the Centre, and at the request of the agency or body carrying out the risk assessment within its mandate, the Centre shall, without undue delay, provide the agency or body with any relevant information and data that are at its disposal.
+
+5\. The Centre shall work together with Member States to improve their risk assessment capacity.
+
+### Article 8b — Response coordination
+
+1\. The Centre shall support response coordination in the HSC as referred to in Article 21 of Regulation (EU) 2022/2371, in the case of a serious cross-border threat to health referred to in Article 2(1), points (a)(i) and (a)(ii), of that Regulation, including where it relates to substances of human origin that can potentially be impacted by communicable diseases, or in Article 2(1), point (d), of that Regulation, in particular by providing science-based recommendations and options for:
+
+(a) national or cross-border interregional responses to the serious cross-border threat to health;
+
+(b) the adoption of guidelines for the Member States for the prevention and control of the serious cross-border threat to health.
+
+2\. The Centre shall support a Union coordinated response at the request of a Member State, the Council, the Commission, the HSC or Union bodies or agencies.
+
+### Article 9 — Scientific and technical assistance and training
+
+1\. The Centre shall provide scientific and technical expertise to the Member States, the Commission and other Union bodies or agencies in the development, regular examination and updating of preparedness plans, on training activities and in the development of intervention strategies within the scope of its mission.
+
+2\. The Centre may be requested by the Commission, the Member States, the HSC or third countries that conclude agreements with the Union in accordance with Article 30, in particular partner countries, and international organisations, in particular the WHO, to provide scientific or technical assistance in any field within the scope of its mission. The assistance may include aiding the Commission and the Member States to develop technical guidelines on good practice and on protective measures to be taken in response to human health threats, providing expert assistance, mobilising and coordinating investigation teams and assessing the efficiency of response measures. The Centre shall provide evidence-based scientific and technical expertise and assistance within its mandate, and in accordance with the applicable agreements as well as with the appropriate working arrangements established with the Commission with regard to third countries and international organisations.
+
+3\. Requests made to the Centre for scientific or technical assistance shall be accompanied by a set deadline, which shall be mutually agreed with the Centre.
+
+4\. In the event of such a request for assistance from the Commission, a Member State, a third country or an international organisation, where the financial capacity of the Centre is not adequate to deal with that request, the Centre shall assess the request and explore possibilities for response directly or through other Community mechanisms.
+
+5\. The Centre shall inform its Management Board, referred to in Article 14, Member States’ authorities and the Commission of any such request and of its outcomes.
+
+6\. The Centre shall, as appropriate, support and coordinate training programmes, in particular in relation to epidemiological surveillance, field investigations, preparedness and prevention, response to public health emergencies, public health research and risk communication. Those programmes shall take into consideration the need for training to be kept up-to-date, take into account the training needs of Member States and shall respect the principle of proportionality.
+
+### Article 10 — Identification of emerging health threats
+
+1\. The Centre shall in the fields within its mission establish, in cooperation with the Member States, procedures for systematically searching for, collecting, collating and analysing information and data with a view to the identification of emerging health threats which may have mental as well as physical health consequences and which could affect the Community.
+
+2\. The Centre shall forward to the European Parliament, the Council and the Commission an annual evaluation of the current and emerging threats to health in the Community.
+
+3\. The Centre shall also inform the Commission and Member States as soon as possible about findings which require their immediate attention.
+
+### Article 11 — Collection and analysis of data
+
+1\. The Centre shall:
+
+(a) coordinate standardisation of data collection procedures, and validation, analysis and dissemination of data at Union level;
+
+(b) seek, where appropriate, the expertise and guidance of the Member States to ensure that there is a correct understanding of the health data made available, their limitations and the national context and information systems.
+
+1a. The Centre shall collect data and information, and provide links to relevant research data and outputs on:
+
+(a) epidemiological surveillance;
+
+(b) the progression of epidemic situations, including for modelling, anticipation and scenario development and the assessment of vulnerable groups;
+
+(c) unusual epidemic phenomena or new communicable diseases of unknown origin, including those in third countries, in cooperation with the WHO;
+
+(d) pathogen data, including at molecular level, if required for epidemiological surveillance and for detecting or investigating serious cross-border threats to health;
+
+(e) health systems data required for managing communicable diseases and related special health issues; and
+
+(f) implementation of the Centre’s recommendations by Member States and the outcomes thereof.
+
+2\. For the purposes of paragraph 1, the Centre shall:
+
+(a) develop, together with the competent bodies of the Member States and the Commission, appropriate procedures to facilitate consultation and data transmission and access;
+
+(b) carry out scientific and technical evaluations of prevention and control measures at Union level;
+
+(c) work in close cooperation and in a transparent manner with relevant bodies operating in the field of data collection of the Union, third countries, the WHO and other international organisations;
+
+(d) develop solutions to access relevant health data, whether publicly available or made available or exchanged through digital infrastructure, in order to allow the health data to be used for healthcare, health research, policy-making and regulatory purposes linked to public health; and provide and facilitate controlled and timely access to health data to support public health research.
+
+3\. The Centre shall make available relevant information collected as referred to in paragraphs 1 and 2 to the Member States in an objective, reliable and easily accessible way.
+
+4\. In situations of urgency related to the severity or novelty of a serious cross-border threat to health or to the rapidity of its spread among the Member States, at the request of the Commission, the HSC, EMA, the Member States or on its own initiative, the Centre shall make available epidemiological forecasts as referred to in Article 5(3), point (h). Such forecasts shall be prepared objectively, reliably and on the basis of the best available information, and in cooperation with other institutions and working groups established with Member States’ experts. The forecasts shall be made easily accessible.
+
+5\. In situations of urgency related to the severity or novelty of a serious cross-border threat to health or to the rapidity of its spread among the Member States, the Centre shall provide data and easily accessible relevant analyses on the basis of the best available information, as quickly as possible and in accordance with Article 8a(1).
+
+### Article 11a — Support for international and field preparedness and response
+
+1\. The Centre shall establish a EU Health Task Force and ensure that there is a permanent capacity and an enhanced emergency capacity to mobilise and use it. The EU Health Task Force shall provide assistance with regard to requests for prevention, preparedness and response planning, local responses to outbreaks of communicable diseases and after-action reviews in Member States and in third countries, in cooperation with the WHO. The EU Health Task Force shall include the Centre’s staff and experts from Member States, fellowship programmes and international and non-profit organisations.
+
+The Centre shall develop capacities to conduct field epidemiology and research, and gather relevant data, such as on the variants of communicable diseases, using the dedicated network of EU reference laboratories or its own resources.
+
+2\. The Centre, in cooperation with the Commission, shall develop a framework to define the organisational structure and the use of the permanent capacity of the EU Health Task Force.
+
+At the joint request of the Commission and Member States, the enhanced emergency capacity of the EU Health Task Force shall be mobilised. The Commission shall, by means of implementing acts, adopt the procedures concerning the mobilisation of the enhanced emergency capacity of the EU Health Task Force. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30a(2).
+
+3\. The Centre shall ensure that the EU Health Task Force is coordinated with, complementary to and integrates the capacities of the European Medical Corps, other relevant capacities under the Union Civil Protection Mechanism and mechanisms of international organisations.
+
+4\. Through the EU Health Task Force, the Centre shall provide Union field response experts in international response teams mobilised by the WHO Health Emergencies Programme mechanism and the Global Outbreak Alert and Response Network (GOARN), in accordance with appropriate working arrangements established with the Commission.
+
+5\. The Centre shall facilitate the development of field response capabilities and crisis management expertise among the Centre’s staff and experts from Member States and EEA countries, from candidate countries and potential candidates, as well as from European Neighbourhood Policy countries and partner countries, at the request of the Commission and in collaboration with the Member States.
+
+6\. By establishing a mechanism for mobilising and using the EU Health Task Force, the Centre shall maintain the permanent capacity of the EU Health Task Force and enhance the country-specific knowledge necessary to carry out missions to Member States, at the joint request of the Commission and Member States concerned, to provide science-based recommendations on preparedness for and response to threats to health and to carry out after-action reviews, within its mandate.
+
+7\. At the request of the Commission and Member States, the Centre shall engage in long-term capacity-building projects aimed at strengthening preparedness capacities under the IHR in non-European third countries, in particular partner countries.
+
+### Article 12 — Communications on the activities of the Centre
+
+1\. The Centre shall communicate, on its own initiative, information about its activities and the results of its work within the scope of its mission, after having given prior information to the Member States and to the Commission.
+
+The Centre shall ensure that the public or any interested party is rapidly given objective, reliable, evidence-based and easily accessible information with regard to its activities and the results of its work. The Centre shall make scientific information available to the general public, including through a dedicated website, as well as through an active presence on social media or analogous platforms. It shall also publish its scientific opinions, produced in accordance with Article 6, in a timely manner. Information relevant for citizens of the Union shall be made available in all the official languages of the Union to ensure appropriate outreach to citizens of the Union. The Centre shall facilitate the fight against misinformation regarding vaccination and against the causes of vaccine hesitancy.
+
+2\. The Centre shall act in close collaboration with the Member States and the Commission to promote the necessary coherence in the risk communication process on health threats.
+
+3\. The Centre shall cooperate, as appropriate, with the competent bodies in the Member States, the WHO and other interested parties with regard to public information campaigns.
+
+## CHAPTER 3 — ORGANISATION
+
+### Article 13 — Bodies of the Centre
+
+The Centre shall comprise:
+
+(a) a management board;
+
+(b) a director and his/her staff;
+
+(c) an advisory forum.
+
+### Article 14 — Management Board
+
+1\. The Management Board shall be composed of one member designated by each Member State, two members designated by the European Parliament and three members representing and appointed by the Commission.
+
+2\. The members of the Board shall be appointed in such a way as to secure the highest standards of competence and a broad range of relevant expertise.
+
+Alternates who represent the member in his/her absence shall be appointed by the same procedure.
+
+Members’ term of office shall be three years and may be extended.
+
+3\. The Management Board shall adopt the Centre’s internal rules on the basis of a proposal by the director. These rules shall be made public.
+
+The Management Board shall elect one of its members as its Chair for a two-year period, which shall be extendable.
+
+The Management Board shall meet at least twice a year at the invitation of the Chair, or at the request of at least a third of its members.
+
+4\. The Management Board shall adopt its Rules of Procedure.
+
+5\. The Management Board shall:
+
+(a) exercise disciplinary authority over the director and appoint or dismiss him/her pursuant to Article 17;
+
+(b) ensure that the Centre carries out its mission and performs the tasks assigned to it under the conditions laid down in this Regulation including on the basis of regular independent and external evaluations to be carried out every five years;
+
+(c) compile a list of competent bodies referred to in Article 5 and make it public;
+
+(d) adopt, before 31 January each year, the Centre’s work programme for the coming year;
+
+(e) adopt a draft single programming document in line with Article 32 of Commission Delegated Regulation (EU) 2019/715 ( 3 ) and the related Commission guidelines for the single programming document; the single programming document shall be adopted where a positive opinion has been given by the Commission and, as regards multiannual programming, after consulting the European Parliament and the Council;
+
+(f) ensure that the Centre’s work programme for the coming year and multiannual programmes are consistent with the Union’s legislative and policy priorities in the area of the Centre’s mission and tasks, and fully take into account the recommendations adopted in the annual Commission opinion on the draft single programming document referred to in Article 32(7) of Delegated Regulation (EU) 2019/715;
+
+(g) adopt, before 31 March each year, the general report on the Centre’s activities for the previous year;
+
+(h) adopt the financial rules applicable to the Centre after the Commission has been consulted;
+
+(i) determine by unanimity of its members, by way of derogation from Article 15(1), the rules governing the languages of the Centre, including the possibility of a distinction between the internal workings of the Centre and the external communication, taking into account the need to ensure access to, and participation in, the work of the Centre by all interested parties in both cases.
+
+The financial rules applicable to the Centre as referred to in the first subparagraph, point (h), of this paragraph shall not derogate from Delegated Regulation (EU) 2019/715, unless specifically required for the Centre’s operation and the Commission has given its prior consent.
+
+6\. The director shall take part in the meetings of the Management Board, without voting rights, and shall provide the secretariat.
+
+### Article 15 — Voting
+
+1\. The Management Board shall take its decisions by a simple majority of all members. A two-thirds majority of all members shall be required for the adoption of its Rules of Procedure, the Centre’s internal rules of operation, the budget, the annual work programme and the appointment and removal of the director.
+
+2\. Each of these members shall have one vote. The director of the Centre shall not vote.
+
+3\. In the absence of a member, his/her alternate shall be entitled to exercise his/her right to vote.
+
+4\. The Rules of Procedure shall establish the more detailed voting arrangements, in particular, the conditions for a member to act on behalf of another member.
+
+### Article 16 — Director
+
+1\. The Centre shall be managed by its director, who shall be completely independent in the performance in his/her duties, without prejudice to the respective competencies of the Commission and the Management Board.
+
+2\. The director shall be the legal representative of the Centre and shall be responsible for:
+
+(a) the day-to-day administration of the Centre;
+
+(b) drawing up draft work programmes, taking into account the recommendations adopted in the annual Commission opinion on the draft single programming document in accordance with Article 32(7) of Delegated Regulation (EU) 2019/715; the Commission opinion shall be submitted to the Management Board at the earliest possible stage;
+
+(c) preparation of discussions within the Management Board;
+
+(d) implementing the work programmes and the decisions adopted by the Management Board;
+
+(e) ensuring the provision of appropriate scientific, technical and administrative support for the Advisory Forum;
+
+(f) ensuring that the Centre carries out its tasks in accordance with the requirements of its users, in particular with regard to the scientific excellence and independence of activities and opinions, the adequacy of the services provided and the time taken;
+
+(g) preparing the statement of revenue and expenditure and executing the budget of the Centre;
+
+(h) all staff matters, and in particular the exercise of powers laid down in Article 29(2).
+
+3\. Each year, the director shall submit to the Management Board for approval:
+
+(a) a draft general report covering all the activities of the Centre in the previous year;
+
+(b) draft work programmes;
+
+(c) the draft annual accounts for the previous year;
+
+(d) the draft budget for the coming year.
+
+4\. The director shall, following adoption by the Management Board, by 15 June at the latest forward the annual report on the Centre’s activities to the European Parliament, the Council, the Commission, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions. The Centre shall forward annually to the budgetary authority any information relevant to the outcome of the evaluation procedures.
+
+5\. The director shall report on the Centre’s activities to the Management Board.
+
+### Article 17 — Appointment of the director
+
+1\. The director shall be appointed by the Management Board on the basis of a list of at least three candidates proposed by the Commission after an open competition, following publication in the Official Journal of the European Union and elsewhere of a call for expressions of interest which has been validated by the Management Board. That appointment shall be for a period of five years, which may be extended once for a further period of up to five years.
+
+2\. Before appointment, the candidate nominated by the Management Board shall be invited without delay to make a statement before the European Parliament and to answer questions put by members of that institution.
+
+### Article 18 — Advisory Forum
+
+1\. The Advisory Forum shall be composed of members from technically competent bodies in the Member States which undertake tasks similar to those of the Centre, on the basis of one representative designated by each Member State recognised for his/her scientific competence, as well as three members without the right to vote nominated by the Commission and representing interested parties at European level, such as non-governmental organisations representing patients, professional bodies or academia. Representatives may be replaced by alternates, appointed at the same time.
+
+2\. Members of the Advisory Forum shall not be members of the Management Board. Advisory Forum members’ term of office shall be three years and may be extended.
+
+3\. The Advisory Forum shall support the director in ensuring the scientific excellence and independence of activities and opinions of the Centre.
+
+4\. The Advisory Forum shall constitute a mechanism for an exchange of information on health threats and the pooling of knowledge. It shall ensure close cooperation between the Centre and the competent bodies in the Member States in particular on the following items:
+
+(a) coherence of the Centre’s scientific studies with Member States;
+
+(b) in those circumstances where the Centre and a national body cooperate;
+
+(c) the promoting, starting up and supervising of the European networks within the fields of the Centre’s mission;
+
+(d) where the Centre or a Member State identifies an emerging public health threat;
+
+(e) the setting up of scientific panels by the Centre;
+
+(f) scientific and public health priorities to be addressed in the work programme; and
+
+(g) key publications under preparation by the Centre, such as forecasting studies.
+
+5\. The Advisory Forum shall be chaired by the director or, in his/her absence, by a deputy from within the Centre. It shall meet regularly at the invitation of the director, or at the request of at least a third of its members, and not less than four times per year. Its operational procedures shall be specified in the Centre’s internal rules and shall be made public.
+
+6\. Representatives of the Commission’s departments may participate in the work of the Advisory Forum.
+
+7\. The Centre shall provide the technical and logistic support necessary for the Advisory Forum and provide a secretariat for its meetings.
+
+8\. The Centre shall engage with public health experts, with representatives of professional or scientific bodies and non-governmental organisations, in particular those having recognised experience in disciplines related to the work of the Centre, as well as in other areas such as environmental protection, with dedicated networks and with the Advisory Forum, to cooperate on specific tasks. In addition, the Commission, the Member States or the Advisory Forum may propose experts, including experts from third countries, or representatives of professional or scientific bodies, or non-governmental organisations to be consulted by the Centre on an ad-hoc basis.
+
+## CHAPTER 4 — TRANSPARENCY AND CONFIDENTIALITY
+
+### Article 19 — Declaration of interest
+
+1\. The members of the Management Board, the members of the Advisory Forum, scientific panels and the director shall undertake to act in the public interest.
+
+2\. The members of the Management Board, the director, the members of the Advisory Forum, as well as external experts participating in scientific panels shall make a declaration of commitment and a declaration of interests indicating either the absence of any interest which might be considered prejudicial to their independence or any direct or indirect interest which might be considered prejudicial to their independence. Those declarations shall be made annually in writing and shall be available to the public.
+
+3\. The director, the members of the Advisory Forum, as well as external experts participating in scientific panels, shall declare at each meeting any interests which might be considered prejudicial to their independence in relation to the items on the agenda. In such cases these persons have to disqualify themselves from relevant discussions and decisions.
+
+### Article 20 — Transparency and protection of information
+
+1\. Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 4 ) shall apply to documents held by the Centre.
+
+2\. The Management Board shall adopt the practical arrangements for implementing Regulation (EC) No 1049/2001 within six months of entry into force of this Regulation.
+
+3\. Decisions taken by the Centre pursuant to Article 8 of Regulation (EC) No 1049/2001 may give rise to the lodging of a complaint to the Ombudsman or form the subject of an action before the Court of Justice of the European Union, under the conditions laid down in Articles 228 and 230 of the Treaty on the Functioning of the European Union (TFEU), respectively.
+
+### Article 20a — Personal data protection
+
+1\. This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Regulation (EU) 2016/679 ( 5 ) and Directive 2002/58/EC ( 6 ) of the European Parliament and of the Council, and to the obligations of Union institutions, bodies, offices and agencies relating to their processing of personal data under Regulation (EU) 2018/1725, when fulfilling their responsibilities.
+
+2\. The Centre shall not process personal data except in cases where it is necessary for the fulfilment of its mission. Where appropriate, personal data shall be rendered anonymous in such a manner that the data subject is not identifiable.
+
+### Article 21 — Professional secrecy and confidentiality
+
+1\. Without prejudice to Article 20, the Centre shall not divulge to third parties confidential information that it receives for which confidential treatment has been requested and justified, except for information which must be made public, if circumstances so require, in order to protect public health. If the confidential information has been submitted by a Member State, that information shall not be disclosed without the prior consent of that Member State.
+
+The Commission’s rules on security regarding the protection of EU classified information, laid down in Commission Decisions (EU, Euratom) 2015/443 ( 7 ) and (EU, Euratom) 2015/444 ( 8 ), shall apply to the work of the Centre and its staff.
+
+2\. Members of the Management Board, the director, members of the Advisory Forum, as well as external experts participating in the scientific panels and the staff of the Centre, even after their duties have ceased, shall be subject to the obligation of professional secrecy pursuant to Article 339 TFEU.
+
+3\. The conclusions of the scientific opinions delivered by the Centre relating to foreseeable health effects shall on no account be kept confidential.
+
+4\. The Centre shall lay down in its internal rules the practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.
+
+5\. The Centre shall take all necessary measures to facilitate the exchange of information relevant to its tasks with the Commission, the Member States and, where appropriate, other Union institutions, Union bodies, offices and agencies, and international organisations and third countries, in accordance with appropriate working arrangements established with the Commission.
+
+6\. The Centre shall develop, deploy and operate an information system capable of exchanging classified and sensitive non-classified information as specified in this Article.
+
+## CHAPTER 5 — FINANCIAL PROVISIONS
+
+### Article 22 — Drawing-up of the budget
+
+1\. Estimates of all the revenue and expenditure of the Centre shall be prepared for each financial year, corresponding to the calendar year, and shall be shown in the budget of the Centre.
+
+2\. The revenue and expenditure shown in the budget of the Centre shall be in balance.
+
+3\. The revenue of the Centre shall, without prejudice to other resources, comprise:
+
+(a) a subsidy from the Community entered in the general budget of the European Union (Commission section);
+
+(b) payments received for services rendered;
+
+(c) any financial contributions from the competent bodies referred to in Article 5;
+
+(d) any voluntary contribution from the Member States; and
+
+(e) any revenue from contribution agreements or grant agreements exceptionally concluded between the Commission and the Centre.
+
+3a Financing from the Union budget may be awarded to the Centre for the costs that it incurs in implementing its work programme established in conformity with the objectives and priorities of the work programmes adopted by the Commission in accordance with Regulation (EU) 2021/522 of the European Parliament and the Council ( 9 ), and the Research and Innovation programmes of the Union. That financing shall not cover expenditure already covered by the general budget of the Union or by any other resource of the Centre set out in paragraph 3 of this Article.
+
+4\. The expenditure of the Centre shall include staff remuneration, administrative and infrastructure costs, operating expenses and expenses resulting from contracts entered into with the institutions or with third parties.
+
+5\. Each year, on the basis of a draft drawn up by the director, the Management Board shall produce an estimate of revenue and expenditure for the Centre for the following financial year. That estimate, including a draft establishment plan, shall be included in the draft single programming document provided for in Article 14(5), point (e), of this Regulation. In accordance with Article 40 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 10 ), by 31 January each year the Centre shall send to the European Parliament, the Council and the Commission its draft single programming document, as endorsed by its Management Board.
+
+6\. The estimate shall be forwarded by the Commission to the European Parliament and the Council (hereinafter referred to as the ‘budgetary authority’) together with the preliminary draft budget of European Union.
+
+7\. On the basis of the estimate, the Commission shall enter in the preliminary draft general budget of the Union the estimates it considers necessary for the establishment plan and the amount of the subsidy to be charged to the general budget, which it shall place before the budgetary authority in accordance with Article 314 TFEU.
+
+8\. The budgetary authority shall authorise the appropriations for the subsidy to the Centre. The budgetary authority shall adopt the establishment plan for the Centre.
+
+9\. The budget of the Centre shall be adopted by the Management Board. It shall become final following final adoption of the general budget of the European Union. Where appropriate, it shall be adjusted accordingly.
+
+10\. The Management Board shall, as soon as possible, notify the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of its budget, in particular any projects relating to property such as the rental or purchase of buildings. It shall inform the Commission thereof.
+
+Where a branch of the budgetary authority has notified its intention to deliver an opinion, it shall forward its opinion to the Management Board within a period of six weeks from the date of notification of the project.
+
+### Article 23 — Implementation of the Centre’s budget
+
+1\. The director shall implement the Centre’s budget.
+
+2\. By 1 March following each financial year, the Centre’s accounting officer shall communicate the provisional accounts to the Commission’s accounting officer together with a report on the budgetary and financial management for that financial year. The Commission’s accounting officer shall consolidate the provisional accounts of the institutions and decentralised bodies in accordance with Article 245 of Regulation (EU, Euratom) 2018/1046.
+
+3\. By 31 March at the latest following each financial year, the Commission’s accounting officer shall forward the Centre’s provisional accounts to the Court of Auditors, together with a report on the budgetary and financial management for that financial year. The report on the budgetary and financial management for that financial year shall also be forwarded to the European Parliament and the Council.
+
+4\. On receipt of the Court of Auditors’ observations on the Centre’s provisional accounts, pursuant to Article 246 of Regulation (EU, Euratom) 2018/1046, the director shall draw up the Centre’s final accounts under the director’s own responsibility and forward them to the Management Board for an opinion.
+
+The Centre shall inform the Commission without delay of cases of presumed fraud and other financial irregularities, of any completed or ongoing investigations by the European Public Prosecutor’s Office (EPPO) or the European anti-Fraud Office (OLAF), and of any audits or controls by the Court of Auditors or the Internal Audit Service (IAS), without endangering the confidentiality of the investigations. That obligation to inform the Commission is without prejudice to Article 24(1) of Council Regulation (EU) 2017/1939 ( 11 ).
+
+5\. The Management Board shall deliver an opinion on the Centre’s final accounts.
+
+6\. The director shall, by 1 July at the latest following each financial year, forward the final accounts to the European Parliament, the Council, the Commission and the Court of Auditors, together with the Management Board’s opinion.
+
+7\. The final accounts shall be published.
+
+8\. The director shall send the Court of Auditors a reply to its observations by 30 September. The director shall also send a copy of that reply to the European Parliament, the Council, the Commission and the Management Board.
+
+9\. The director shall submit to the European Parliament, at the latter’s request, any information required for the smooth application of the discharge procedure for the financial year in question, as laid down in Article 261(3) of Regulation (EU, Euratom) 2018/1046.
+
+10\. The European Parliament, on a recommendation from the Council acting by a qualified majority, shall, before 30 April of year N + 2, give a discharge to the director in respect of the implementation of the budget for year N.
+
+### Article 24 — Application of the Financial Regulation
+
+Article 70 of Regulation (EU, Euratom) 2018/1046 shall apply to the discharge of the Centre’s budget, its audits and accounting rules.
+
+### Article 25 — Combating fraud
+
+1\. Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council ( 12 ) shall apply to the Centre without restriction.
+
+2\. The Centre shall accede to the Inter-institutional Agreement of 25 May 1999 concerning internal investigations by the European Anti-fraud Office (OLAF) ( 13 ) and shall issue, without delay, the appropriate provisions applicable to all of its staff.
+
+3\. The decisions concerning funding and the implementing agreements and instruments resulting therefrom shall explicitly indicate that the EPPO may exercise its competences, including its competence to investigate, and that the Court of Auditors and OLAF may carry out, if necessary, on-the-spot checks of the recipients of the Centre’s funding and the agents responsible for allocating it, in accordance with their respective legal frameworks.
+
+4\. Without prejudice to paragraphs 1 to 3, working arrangements with third countries and with international organisations, grant agreements, grant decisions and contracts of the Centre shall grant the necessary rights and access required by the Court of Auditors, OLAF and the EPPO, in the exercise of their respective competences.
+
+## CHAPTER 6 — GENERAL PROVISIONS
+
+### Article 26 — Legal personality and privileges
+
+1\. The Centre shall be a body of the Union. It shall have legal personality.
+
+1a. In each of the Member States, the Centre shall enjoy the most extensive legal capacity accorded to legal persons under their laws. It may, in particular, acquire or dispose of movable and immovable property and may be party to legal proceedings.
+
+2\. Protocol No 7 on the Privileges and Immunities of the European Union annexed to the Treaties shall apply to the Centre and its staff.
+
+### Article 27 — Liability
+
+1\. The contractual liability of the Centre shall be governed by the law applicable to the contract in question. The Court of Justice of the European Union shall have jurisdiction to give judgment pursuant to any arbitration clause contained in a contract concluded by the Centre.
+
+2\. In the case of non-contractual liability, the Centre shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by it or its servants in the performance of their duties. The Court of Justice shall have jurisdiction in any dispute relating to compensation for such damage.
+
+3\. The personal liability of its servants towards the Centre shall be governed by the relevant provisions applying to the staff of the Centre.
+
+### Article 28 — Examination of legality
+
+1\. Member States, members of the Management Board and third parties directly and individually concerned may refer any act of the Centre, whether express or implied, to the Commission for examination of the legality of that act (‘administrative appeal’).
+
+2\. Any administrative appeal shall be made to the Commission within 15 days of the day on which the party concerned first became aware of the act in question.
+
+3\. The Commission shall take a decision within one month. If no decision has been taken within that period, the administrative appeal shall be deemed to have been dismissed.
+
+4\. An action for annulment of the Commission’s explicit or implicit decision referred to in paragraph 3 of this Article to dismiss the administrative appeal may be brought before the Court of Justice of the European Union in accordance with Article 263 TFEU.
+
+### Article 29 — Staff
+
+1\. The staff of the Centre shall be subject to the rules and the regulations applicable to officials and other staff of the European Communities.
+
+2\. In respect of its staff, the Centre shall exercise the powers which have been devolved to the appointing authority.
+
+3\. Secondment to the Centre of public health experts, including epidemiologists, for a defined period of time, for the achievement of certain specified tasks of the Centre will be encouraged within the framework of existing regulations.
+
+### Article 30 — Participation of third countries
+
+1\. The Centre shall be open to the participation of countries, which have concluded agreements with the Community by virtue of which they have adopted and apply legislation of equivalent effect to Community legislation in the field covered by this Regulation.
+
+2\. Arrangements shall be made under the relevant provisions of those agreements, specifying in particular the nature, extent and manner in which these countries are to participate in the Centre’s work, including provisions relating to participation in the networks operated by the Centre, inclusion in the list of competent organisations to which certain tasks may be entrusted by the Centre, financial contributions and staff.
+
+### Article 30a — Committee procedure
+
+1\. The Commission shall be assisted by the committee on serious cross-border threats to health established by Regulation (EU) 2022/2371. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 14 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER 7 — FINAL PROVISIONS
+
+### Article 31 — Review clause
+
+1\. By 2025, the Commission shall submit a report to the European Parliament, the Council and the Management Board on the Centre’s activities, including an assessment of:
+
+(a) how the Centre progressed with implementing the amended mandate in light of the COVID-19 pandemic;
+
+(b) the Centre’s compliance with the obligations laid down in Regulation (EU) 2022/2371 and other relevant Union legislation;
+
+(c) how effectively the Centre’s activities address international, Union or national health priorities;
+
+(d) the extent to which the work of the Centre is targeted at and affects Member States’ capacities.
+
+The report shall reflect the views of the stakeholders, at both Union and national level.
+
+The report shall be accompanied by an independent study commissioned by the Commission.
+
+2\. By 2025, and every 5 years thereafter, the Commission shall commission an independent external evaluation of the Centre’s performance in relation to its objectives, mandate, tasks and procedures. That independent external evaluation shall be done on the basis of terms of reference, which shall, if necessary, be discussed with the Management Board.
+
+The independent external evaluation shall, in particular, address the possible need to amend the mandate of the Centre and the financial implications of any such amendment. The first evaluation shall examine the feasibility of extending the mandate of the Centre to address the impact of cross-border threats to health on non-communicable diseases.
+
+The Management Board shall examine the conclusions of the independent external evaluation and may issue recommendations, if necessary, to the Commission regarding changes in the Centre, its working practices and the scope of its mission. The Commission shall forward the evaluation report and the recommendations to the European Parliament and the Council.
+
+3\. On the basis of the independent external evaluation referred to in paragraph 2 or where it considers that the continued operation of the Centre is no longer justified with regard to its assigned objectives, mandate and tasks, the Commission may propose that the relevant provisions of this Regulation be amended accordingly.
+
+4\. The Commission shall report to the European Parliament, to the Council and to the Management Board, where relevant, on the recommendations of the Management Board and on the findings of its evaluations carried out under paragraphs 2 and 3. Those findings shall be made public.
+
+### Article 32 — Commencement of the Centre’s operation
+
+The Centre shall be operational by 20 May 2005.
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2022/2371 of the European Parliament and of the Council of 23 November 2022 on serious cross-border threats to health and repealing Decision No 1082/2013/EU (OJ L 314, 6.12.2022, p. 26.).
+
+( 2 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 3 ) Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1).
+
+( 4 ) OJ L 145, 31.5.2001, p. 43.
+
+( 5 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regards to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 6 ) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).
+
+( 7 ) Commission Decision (EU, Euratom) 2015/443 of 13 March 2015 on Security in the Commission (OJ L 72, 17.3.2015, p. 41).
+
+( 8 ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53).
+
+( 9 ) Regulation (EU) 2021/522 of the European Parliament and of the Council of 24 March 2021 establishing a Programme for the Union’s action in the field of health (‘EU4Health Programme’) for the period 2021-2027, and repealing Regulation (EU) No 282/2014 (OJ L 107, 26.3.2021, p. 1).
+
+( 10 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 11 ) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1).
+
+( 12 ) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+
+( 13 ) OJ L 136, 31.5.1999, p. 15.
+
+( 14 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

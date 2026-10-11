@@ -99,6 +99,7 @@ Ursula VON DER LEYEN
 
 **List of species referred to in Article 1(2), point (a), which are to comply with CPVO technical protocols (*1)**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>CPVO protocol</td></tr>
 <tr><td>Dactylis glomerata L.</td><td>Cocksfoot</td><td>TP 31/1 of 25.3.2021</td></tr>
 <tr><td>Festuca arundinacea Schreb.</td><td>Tall fescue</td><td>TP 39/1 of 1.10.2015</td></tr>
@@ -144,11 +145,13 @@ Ursula VON DER LEYEN
 <tr><td>Solanum tuberosum L.</td><td>Potato</td><td>TP 23/4 of 28.11.2023</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
 **List of species referred to in Article 1(2), point (b), which are to comply with UPOV test guidelines (*2)**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>UPOV guideline</td></tr>
 <tr><td>Beta vulgaris L.</td><td>Fodder beet</td><td>TG/150/3 of 4.11.1994</td></tr>
 <tr><td>Agrostis canina L.</td><td>Velvet bent</td><td>TG/30/6 of 12.10.1990</td></tr>
@@ -181,6 +184,7 @@ Ursula VON DER LEYEN
 <tr><td>Papaver somniferum L.</td><td>Poppy</td><td>TG/166/4 of 9.4.2014</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 ’
 
@@ -190,6 +194,7 @@ Ursula VON DER LEYEN
 
 **List of species referred to in Article 1(2), point (a), which are to comply with CPVO technical protocols (*3)**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>CPVO protocol</td></tr>
 <tr><td>Allium cepa L. (Cepa group)</td><td>Onion and Echalion</td><td>TP 46/2 of 1.4.2009</td></tr>
 <tr><td>Allium cepa L. (Aggregatum group)</td><td>Shallot</td><td>TP 46/2 of 1.4.2009</td></tr>
@@ -240,15 +245,18 @@ Ursula VON DER LEYEN
 <tr><td>Cucurbita maxima Duchesne x Cucurbita moschata Duchesne</td><td>Interspecific hybrids of Cucurbita maxima Duchesne x Cucurbita moschata Duchesne for use as rootstocks</td><td>TP 311/1 of 15.3.2017</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
 **List of species referred to in Article 1(2), point (b), which are to comply with UPOV test guidelines (*4)**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>UPOV guideline</td></tr>
 <tr><td>Brassica rapa L</td><td>Ternip</td><td>TG/37/11 of 23.9.2022</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 ’
 

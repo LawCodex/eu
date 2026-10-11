@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(90/270/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2007/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2007 </td><td> L 165</td><td>21</td><td>27.6.2007</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

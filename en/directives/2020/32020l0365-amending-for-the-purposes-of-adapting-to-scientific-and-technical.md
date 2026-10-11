@@ -99,6 +99,7 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 41 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘41</td><td>Lead in solders and termination finishes of electrical and electronic components and finishes of printed circuit boards used in ignition modules and other electrical and electronic engine control systems, which for technical reasons must be mounted directly on or in the crankcase or cylinder of hand-held combustion engines (classes SH:1, SH:2, SH:3 of Directive 97/68/EC of the European Parliament and of the Council (*1))</td><td>Applies to all categories and expires on:<table><tbody><tr><td>—</td><td>31 March 2022 for categories 1 to 7, 10 and 11;</td></tr>
 </tbody>
 </table>
@@ -113,5 +114,6 @@ In Annex III to Directive 2011/65/EU, entry 41 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (*1) Directive 97/68/EC of the European Parliament and of the Council of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery (OJ L 59, 27.2.1998, p. 1).’

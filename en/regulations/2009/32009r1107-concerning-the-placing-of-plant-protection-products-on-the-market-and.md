@@ -1,0 +1,2227 @@
+---
+title: "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+identifier: "32009R1107"
+eli: "http://data.europa.eu/eli/reg/2009/1107/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-10-21
+entry_into_force: 2009-04-22
+last_amended: 2026-06-16
+consolidated_version: "02009R1107-20260616"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1107-20260616"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC
+
+**REGULATION (EC) No 1107/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 518/2013 of 13 May 2013 </td><td> L 158</td><td>72</td><td>10.6.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) No 652/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>1</td><td>27.6.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 </td><td> L 95</td><td>1</td><td>7.4.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/1432 of 7 August 2017 </td><td> L 205</td><td>59</td><td>8.8.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/605 of 19 April 2018 </td><td> L 101</td><td>33</td><td>20.4.2018</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>1</td><td>25.6.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/383 of 3 March 2021 </td><td> L 74</td><td>7</td><td>4.3.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/1438 of 31 August 2022 </td><td> L 227</td><td>2</td><td>1.9.2022</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2026/1120 of 26 May 2026 </td><td> L 1120</td><td>1</td><td>27.5.2026</td></tr>
+</table>
+
+**REGULATION (EC) No 1107/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter and purpose
+
+1\. This Regulation lays down rules for the authorisation of plant protection products in commercial form and for their placing on the market, use and control within the Community.
+
+2\. This Regulation lays down both rules for the approval of active substances, safeners and synergists, which plant protection products contain or consist of, and rules for adjuvants and co-formulants.
+
+3\. The purpose of this Regulation is to ensure a high level of protection of both human and animal health and the environment and to improve the functioning of the internal market through the harmonisation of the rules on the placing on the market of plant protection products, while improving agricultural production.
+
+4\. The provisions of this Regulation are underpinned by the precautionary principle in order to ensure that active substances or products placed on the market do not adversely affect human or animal health or the environment. In particular, Member States shall not be prevented from applying the precautionary principle where there is scientific uncertainty as to the risks with regard to human or animal health or the environment posed by the plant protection products to be authorised in their territory.
+
+##### Article 2 — Scope
+
+1\. This Regulation shall apply to products, in the form in which they are supplied to the user, consisting of or containing active substances, safeners or synergists, and intended for one of the following uses:
+
+(a) protecting plants or plant products against all harmful organisms or preventing the action of such organisms, unless the main purpose of these products is considered to be for reasons of hygiene rather than for the protection of plants or plant products;
+
+(b) influencing the life processes of plants, such as substances influencing their growth, other than as a nutrient or a plant biostimulant;
+
+(c) preserving plant products, in so far as such substances or products are not subject to special Community provisions on preservatives;
+
+(d) destroying undesired plants or parts of plants, except algae unless the products are applied on soil or water to protect plants;
+
+(e) checking or preventing undesired growth of plants, except algae unless the products are applied on soil or water to protect plants.
+
+These products are referred to as ‘plant protection products’.
+
+2\. This Regulation shall apply to substances, including micro-organisms having general or specific action against harmful organisms or on plants, parts of plants or plant products, referred to as ‘active substances’.
+
+3\. This Regulation shall apply to the following:
+
+(a) substances or preparations which are added to a plant protection product to eliminate or reduce phytotoxic effects of the plant protection product on certain plants, referred to as ‘safeners’;
+
+(b) substances or preparations which, while showing no or only weak activity as referred to in paragraph 1, can give enhanced activity to the active substance(s) in a plant protection product, referred to as ‘synergists’;
+
+(c) substances or preparations which are used or intended to be used in a plant protection product or adjuvant, but are neither active substances nor safeners or synergists, referred to as ‘co-formulants’;
+
+(d) substances or preparations which consist of co-formulants or preparations containing one or more co-formulants, in the form in which they are supplied to the user and placed on the market to be mixed by the user with a plant protection product and which enhance its effectiveness or other pesticidal properties, referred to as ‘adjuvants’.
+
+##### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1\. ‘residues’ means one or more substances present in or on plants or plant products, edible animal products, drinking water or elsewhere in the environment and resulting from the use of a plant protection product, including their metabolites, breakdown or reaction products;
+
+2\. ‘substances’ means chemical elements and their compounds, as they occur naturally or by manufacture, including any impurity inevitably resulting from the manufacturing process;
+
+3\. ‘preparations’ means mixtures or solutions composed of two or more substances intended for use as a plant protection product or as an adjuvant;
+
+4\. ‘substance of concern’ means any substance which has an inherent capacity to cause an adverse effect on humans, animals or the environment and is present or is produced in a plant protection product in sufficient concentration to present risks of such an effect.
+
+Such substances include, but are not limited to, substances meeting the criteria to be classified as hazardous in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures ( 1 ), and present in the plant protection product at a concentration leading the product to be regarded as dangerous within the meaning of Article 3 of Directive 1999/45/EC;
+
+5\. ‘plants’ means live plants and live parts of plants, including fresh fruit, vegetables and seeds;
+
+6\. ‘plant products’ means products of plant origin in an unprocessed state or having undergone only simple preparation, such as milling, drying or pressing, but excluding plants;
+
+7\. ‘harmful organisms’ means any species, strain or biotype belonging to the animal kingdom or plant kingdom or pathogenic agent injurious to plants or plant products;
+
+8\. ‘non-chemical methods’ means alternative methods to chemical pesticides for plant protection and pest management, based on agronomic techniques such as those referred to in point 1 of Annex III to Directive 2009/128/EC, or physical, mechanical or biological pest control methods;
+
+9\. ‘placing on the market’ means the holding for the purpose of sale within the Community, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution, and other forms of transfer themselves, but not the return to the previous seller. Release for free circulation into the territory of the Community shall constitute placing on the market for the purposes of this Regulation;
+
+10\. ‘authorisation of a plant protection product’ means an administrative act by which the competent authority of a Member State authorises the placing on the market of a plant protection product in its territory;
+
+11\. ‘producer’ means a person who manufactures plant protection products, active substances, safeners, synergists, co-formulants or adjuvants on his own, or who contracts this manufacturing to another party, or a person designated by the manufacturer as his sole representative for the purpose of compliance with this Regulation;
+
+12\. ‘letter of access’ means an original document by which the owner of data protected under this Regulation agrees to the use of such data under the specific terms and conditions by the competent authority for the purpose of granting an authorisation of a plant protection product or an approval of an active substance, synergist or safener for the benefit of another applicant;
+
+13\. ‘environment’ means waters (including ground, surface, transitional, coastal and marine), sediment, soil, air, land, wild species of fauna and flora, and any interrelationship between them, and any relationship with other living organisms;
+
+14\. ‘vulnerable groups’ means persons needing specific consideration when assessing the acute and chronic health effects of plant protection products. These include pregnant and nursing women, the unborn, infants and children, the elderly and workers and residents subject to high pesticide exposure over the long term;
+
+15\. ‘micro-organisms’ means any microbiological entity, including lower fungi and viruses, cellular or non-cellular, capable of replication or of transferring genetic material;
+
+16\. ‘genetically modified organisms’ means organisms in which the genetic material has been altered within the meaning of Article 2(2) of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms ( 2 );
+
+17\. ‘zone’ means a group of Member States as defined in Annex I.
+
+For the purpose of use in greenhouses, as post-harvest treatment, for treatment of empty storage rooms and for seed treatment the zone means all zones defined in Annex I;
+
+18\. ‘good plant protection practice’ means a practice whereby the treatments with plant protection products applied to given plants or plant products, in conformity with the conditions of their authorised uses, are selected, dosed and timed to ensure acceptable efficacy with the minimum quantity necessary, taking due account of local conditions and of the possibilities for cultural and biological control;
+
+19\. ‘good laboratory practice’ means a practice as defined in point 2.1 of Annex I to Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances ( 3 );
+
+20\. ‘good experimental practice’ means a practice in accordance with the provisions of European and Mediterranean Plant Protection Organisation (EPPO) Guidelines 181 and 152;
+
+21\. ‘data protection’ means the temporary right of the owner of a test or study report to prevent it being used for the benefit of another applicant;
+
+22\. ‘rapporteur Member State’ means the Member State which undertakes the task of evaluating an active substance, safener or synergist;
+
+23\. ‘tests and studies’ means investigations or experiments whose purpose is to determine the properties and behaviour of an active substance or of plant protection products, predict exposure to active substances and/or their relevant metabolites, determine safe levels of exposure and establish conditions for the safe use of plant protection products;
+
+24\. ‘authorisation holder’ means any natural or legal person holding an authorisation of a plant protection product;
+
+25\. ‘professional user’ means a professional user as defined in Article 3(1) of Directive 2009/128/EC;
+
+26\. ‘minor use’ means use of a plant protection product in a particular Member State on plants or plant products which are:
+
+(a) not widely grown in that Member State; or
+
+(b) widely grown, to meet an exceptional plant protection need;
+
+27\. ‘greenhouse’ means a walk-in, static, closed place of crop production with a usually translucent outer shell, which allows controlled exchange of material and energy with the surroundings and prevents release of plant protection products into the environment.
+
+For the purpose of this Regulation, closed places of plant production where the outer shell is not translucent (for example, for production of mushrooms or witloof) are also considered as greenhouses;
+
+28\. ‘post-harvest treatment’ means treatment of plants or plant products after harvest in an isolated space where no run-off is possible, for example in a warehouse;
+
+29\. ‘biodiversity’ means variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this variability may include diversity within species, between species and of ecosystems;
+
+30\. ‘competent authority’ means any authority or authorities of a Member State responsible for carrying out the tasks established under this Regulation;
+
+31\. ‘advertisement’ means a means of promoting the sale or use of plant protection products (to anyone other than the authorisation holder, the person placing the plant protection product on the market and their agents) by printed or electronic media;
+
+32\. ‘metabolite’ means any metabolite or a degradation product of an active substance, safener or synergist, formed either in organisms or in the environment.
+
+A metabolite is deemed relevant if there is a reason to assume that it has intrinsic properties comparable to the parent substance in terms of its biological target activity, or that it poses a higher or comparable risk to organisms than the parent substance or that it has certain toxicological properties that are considered unacceptable. Such a metabolite is relevant for the overall approval decision or for the definition of risk mitigation measures;
+
+33\. ‘impurity’ means any component other than the pure active substance and/or variant which is present in the technical material (including components originating from the manufacturing process or from degradation during storage);
+
+34\. ‘plant biostimulant’ means a product stimulating plant nutrition processes independently of the product’s nutrient content with the sole aim of improving one or more of the following characteristics of the plant or the plant rhizosphere:
+
+(a) nutrient use efficiency;
+
+(b) tolerance to abiotic stress;
+
+(c) quality traits;
+
+(d) availability of confined nutrients in soil or rhizosphere.
+
+## CHAPTER II — ACTIVE SUBSTANCES, SAFENERS, SYNERGISTS AND CO-FORMULANTS
+
+### SECTION 1 — Active substances
+
+#### Subsection 1 — Requirements and conditions for approval
+
+##### Article 4 — Approval criteria for active substances
+
+1\. An active substance shall be approved in accordance with Annex II if it may be expected, in the light of current scientific and technical knowledge, that, taking into account the approval criteria set out in points 2 and 3 of that Annex, plant protection products containing that active substance meet the requirements provided for in paragraphs 2 and 3.
+
+The assessment of the active substance shall first establish whether the approval criteria set out in points 3.6.2 to 3.6.4 and 3.7 of Annex II are satisfied. If these criteria are satisfied the assessment shall continue to establish whether the other approval criteria set out in points 2 and 3 of Annex II are satisfied.
+
+2\. The residues of the plant protection products, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use, shall meet the following requirements:
+
+(a) they shall not have any harmful effects on human health, including that of vulnerable groups, or animal health, taking into account known cumulative and synergistic effects where the scientific methods accepted by the Authority to assess such effects are available, or on groundwater;
+
+(b) they shall not have any unacceptable effect on the environment.
+
+For residues which are of toxicological, ecotoxicological, environmental or drinking water relevance, there shall be methods in general use for measuring them. Analytical standards shall be commonly available.
+
+3\. A plant protection product, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use, shall meet the following requirements:
+
+(a) it shall be sufficiently effective;
+
+(b) it shall have no immediate or delayed harmful effect on human health, including that of vulnerable groups, or animal health, directly or through drinking water (taking into account substances resulting from water treatment), food, feed or air, or consequences in the workplace or through other indirect effects, taking into account known cumulative and synergistic effects where the scientific methods accepted by the Authority to assess such effects are available; or on groundwater;
+
+(c) it shall not have any unacceptable effects on plants or plant products;
+
+(d) it shall not cause unnecessary suffering and pain to vertebrates to be controlled;
+
+(e) it shall have no unacceptable effects on the environment, having particular regard to the following considerations where the scientific methods accepted by the Authority to assess such effects are available:
+
+(i) its fate and distribution in the environment, particularly contamination of surface waters, including estuarine and coastal waters, groundwater, air and soil taking into account locations distant from its use following long-range environmental transportation;
+
+(ii) its impact on non-target species, including on the ongoing behaviour of those species;
+
+(iii) its impact on biodiversity and the ecosystem.
+
+4\. The requirements of paragraphs 2 and 3 shall be evaluated in the light of uniform principles as referred to in Article 29(6).
+
+5\. For approval of an active substance, paragraphs 1, 2 and 3 shall be deemed to be satisfied where this has been established with respect to one or more representative uses of at least one plant protection product containing that active substance.
+
+6\. In relation to human health, no data collected on humans shall be used to lower the safety margins resulting from tests or studies on animals.
+
+7\. By way of derogation from paragraph 1, where on the basis of documented evidence included in the application an active substance is necessary to control a serious danger to plant health which cannot be contained by other available means including non-chemical methods, such active substance may be approved for a limited period necessary to control that serious danger but not exceeding five years even if it does not satisfy the criteria set out in points 3.6.3, 3.6.4, 3.6.5 or 3.8.2 of Annex II, provided that the use of the active substance is subject to risk mitigation measures to ensure that exposure of humans and the environment is minimised. For such substances maximum residue levels shall be set in accordance with Regulation (EC) No 396/2005.
+
+This derogation shall not apply to active substances which are or have to be classified in accordance with Regulation (EC) No 1272/2008, as carcinogenic category 1A, carcinogenic category 1B without a threshold, or toxic for reproduction category 1A.
+
+Member States may authorise plant protection products containing active substances approved in accordance with this paragraph only when it is necessary to control that serious danger to plant health in their territory.
+
+At the same time, they shall draw up a phasing out plan concerning the control of the serious danger by other means, including non-chemical methods, and shall without delay transmit that plan to the Commission.
+
+##### Article 5 — First approval
+
+First approval shall be for a period not exceeding 10 years.
+
+##### Article 6 — Conditions and restrictions
+
+Approval may be subject to conditions and restrictions including:
+
+(a) the minimum degree of purity of the active substance;
+
+(b) the nature and maximum content of certain impurities;
+
+(c) restrictions arising from the evaluation of the information referred to in Article 8 taking account of the agricultural, plant health and environmental, including climatic, conditions in question;
+
+(d) type of preparation;
+
+(e) manner and conditions of application;
+
+(f) submission of further confirmatory information to Member States, the Commission and the European Food Safety Authority, (the Authority), where new requirements are established during the evaluation process or as a result of new scientific and technical knowledge;
+
+(g) designation of categories of users, such as professional and non-professional;
+
+(h) designation of areas where the use of plant protection products, including soil treatment products, containing the active substance may not be authorised or where the use may be authorised under specific conditions;
+
+(i) the need to impose risk mitigation measures and monitoring after use;
+
+(j) any other particular conditions that result from the evaluation of information made available in the context of this Regulation.
+
+#### Subsection 2 — Approval procedure
+
+##### Article 7 — Application
+
+1\. An application for the approval of an active substance or for an amendment to the conditions of an approval shall be submitted by the producer of the active substance to a Member State (the ‘rapporteur Member State’), together with a summary and a complete dossier as provided for in Article 8(1) and (2) of this Regulation or a scientifically reasoned justification for not providing certain parts of those dossiers, demonstrating that the active substance fulfils the approval criteria provided for in Article 4 of this Regulation. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+
+A joint application may be submitted by an association of producers designated by the producers for the purpose of compliance with this Regulation.
+
+The application shall be examined by the Member State proposed by the applicant, unless another Member State agrees to examine it.
+
+2\. Assessment of an application may be performed by a number of Member States together under a co-rapporteur system.
+
+3\. When submitting the application, the applicant may submit a request, pursuant to Article 63, to treat certain information, including certain parts of the dossier, as confidential and shall physically separate that information.
+
+Member States shall assess the confidentiality requests. After consultation with the Authority, the rapporteur Member States shall decide what information is to be treated as confidential, in accordance with Article 63.
+
+The Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.
+
+4\. When submitting the application the applicant shall at the same time join a complete list of tests and studies submitted pursuant to Article 8(2) and a list of any claims for data protection pursuant to Article 59.
+
+5\. When assessing the application the rapporteur Member State may at any time consult the Authority.
+
+##### Article 8 — Dossiers
+
+1\. The summary dossier shall include the following:
+
+(a) information with respect to one or more representative uses on a widely grown crop in each zone of at least one plant protection product containing the active substance, demonstrating that the approval criteria provided for in Article 4 are met; where the information submitted does not cover all zones or concern a crop which is not widely grown, justification for this approach;
+
+(b) for each point of the data requirements for the active substance, the summaries and results of tests and studies, the name of their owner and of the person or institute that has carried out the tests and studies;
+
+(c) for each point of the data requirements for the plant protection product, the summaries and results of tests and studies, the name of their owner and of the person or institute that carried out the tests and studies, relevant to the assessment of the criteria provided for in Article 4(2) and (3) for one or more plant protection products which are representative of the uses referred to in point (a), taking into account the fact that data gaps in the dossier, as provided for in paragraph 2 of this Article, resulting from the proposed limited range of representative uses of the active substance, may lead to restrictions in the approval;
+
+(d) for each test or study involving vertebrate animals, a justification of the steps taken to avoid animal testing and duplication of tests and studies on vertebrate animals;
+
+(e) a checklist demonstrating that the dossier provided for in paragraph 2 of this Article is complete in view of the uses applied for;
+
+(f) the reasons why the test and study reports submitted are necessary for first approval of the active substance or for amendments to the conditions of the approval;
+
+(g) where relevant, a copy of an application for a maximum residue level as referred to in Article 7 of Regulation (EC) No 396/2005 or a justification for not supplying such information;
+
+(h) an assessment of all information submitted.
+
+2\. The complete dossier shall contain the full text of the individual test and study reports concerning all the information referred to in points (b) and (c) of paragraph 1. It shall not contain any reports of tests or studies involving the deliberate administration of the active substance or the plant protection product to humans.
+
+3\. The format of the summary dossier and the complete dossier shall be established in accordance with the advisory procedure referred to in Article 79(2).
+
+4\. The data requirements referred to in paragraphs 1 and 2 shall contain the requirements for active substances and plant protection products as set out in Annexes II and III to Directive 91/414/EEC and laid down in Regulations adopted in accordance with the advisory procedure referred to in Article 79(2) without any substantial modifications. Subsequent amendments to these Regulations shall be adopted in accordance with Article 78(1)(b).
+
+5\. Scientific peer-reviewed open literature, as determined by the Authority, on the active substance and its relevant metabolites dealing with side-effects on health, the environment and non-target species and published within the last 10 years before the date of submission of the dossier shall be added by the applicant to the dossier.
+
+##### Article 9 — Admissibility of the application
+
+1\. Within 45 days of receiving the application, the rapporteur Member State shall send the applicant a written acknowledgement, stating the date of receipt, and check whether the dossiers submitted with the application contain all the elements provided for in Article 8, using the checklist referred to in point (e) of Article 8(1). It shall also check the requests for confidentiality referred to in Article 7(3) and the complete lists of tests and studies submitted pursuant to Article 8(2).
+
+2\. Where one or more of the elements provided for in Article 8 are missing, the rapporteur Member State shall inform the applicant, setting a period for their submission. Such period shall be a maximum of 3 months.
+
+Where at the end of that period, the applicant has not submitted the missing elements, the rapporteur Member State shall inform the applicant, the other Member States and the Commission that the application is inadmissible.
+
+A new application for the same substance may be submitted at any time.
+
+3\. Where the dossiers submitted with the application contain all the elements provided for in Article 8, the rapporteur Member State shall notify the applicant, the other Member States, the Commission and the Authority of the admissibility of the application and start assessing the active substance.
+
+After receiving that notification, the applicant shall immediately forward the dossiers as provided for in Article 8 to the other Member States, the Commission and the Authority, including the information about those parts of the dossiers in respect of which confidentiality has been requested as referred to in Article 7(3).
+
+##### Article 10 — Public access to the dossiers
+
+The Authority shall without delay make the dossiers referred to in Article 8, including any supplementary information supplied by the applicant, available to the public, with the exception of any information to which the rapporteur Member State has granted confidential treatment pursuant to Article 63.
+
+##### Article 11 — Draft assessment report
+
+1\. Within 12 months of the date of the notification provided for in the first subparagraph of Article 9(3), the rapporteur Member State shall prepare and submit to the Commission, with a copy to the Authority, a report, referred to as the ‘draft assessment report’, assessing whether the active substance can be expected to meet the approval criteria provided for in Article 4.
+
+2\. The draft assessment report shall also include where relevant, a proposal to set maximum residue levels.
+
+The rapporteur Member State shall make an independent, objective and transparent assessment in the light of current scientific and technical knowledge.
+
+Where, pursuant to Article 4(1), the assessment establishes that the approval criteria set out in points 3.6.2 to 3.6.4 and 3.7 of Annex II are not satisfied, the draft assessment report shall be limited to those parts of the assessment.
+
+3\. Where the rapporteur Member State needs additional studies or information, it shall set a period in which the applicant must supply those studies or that information. In that case, the 12-month period shall be extended by the additional period granted by the rapporteur Member State. The additional period shall be of a maximum of 6 months and shall cease at the moment when the additional information is received by the rapporteur Member State. It shall inform the Commission and the Authority accordingly.
+
+Where at the end of the additional period, the applicant has not submitted the additional studies or information, the rapporteur Member State shall inform the applicant, the Commission and the Authority and shall state the missing elements in the assessment included in the draft assessment report.
+
+4\. The format of the draft assessment report shall be established in accordance with the advisory procedure referred to in Article 79(2).
+
+##### Article 12 — Conclusion by the Authority
+
+1\. The Authority shall circulate the draft assessment report received from the rapporteur Member State to the applicant and the other Member States at the latest 30 days after its receipt. It shall ask the applicant to circulate an update of the dossier where applicable to the Member States, the Commission and the Authority.
+
+The Authority shall make the draft assessment report available to the public, after giving the applicant two weeks to request, pursuant to Article 63, that certain parts of the draft assessment report be kept confidential.
+
+The Authority shall allow a period of 60 days for the submission of written comments.
+
+2\. The Authority, where appropriate shall organise a consultation of experts, including experts from the rapporteur Member State.
+
+Within 120 days of the end of the period provided for the submission of written comments, the Authority shall adopt a conclusion in the light of current scientific and technical knowledge using guidance documents available at the time of application on whether the active substance can be expected to meet the approval criteria provided for in Article 4 and shall communicate it to the applicant, the Member States and the Commission and shall make it available to the public. In the event of a consultation as provided for in this paragraph, the 120-day period shall be extended by 30 days.
+
+Where appropriate, the Authority shall address in its conclusion the risk mitigation options identified in the draft assessment report.
+
+3\. Where the Authority needs additional information, it shall set a period of a maximum of 90 days for the applicant to supply it to the Member States, the Commission and the Authority.
+
+The rapporteur Member State shall assess the additional information and submit it to the Authority without delay and at the latest within 60 days after receipt of the additional information. In that case the 120-day period provided for in paragraph 2 shall be extended by a period which shall cease at the moment when the additional assessment is received by the Authority.
+
+The Authority may ask the Commission to consult a Community reference laboratory, designated pursuant to Regulation (EC) No 882/2004 for the purposes of verifying whether the analytical method for the determination of the residues proposed by the applicant is satisfactory and meets the requirements in Article 29(1)(g) of this Regulation. The applicant shall, if requested by the Community reference laboratory, provide samples and analytical standards.
+
+4\. The conclusion of the Authority shall include details concerning the evaluation procedure and the properties of the active substance concerned.
+
+5\. The Authority shall establish the format for its conclusion which shall include details concerning the evaluation procedure and the properties of the active substance concerned.
+
+6\. The time limits for the Authority’s opinion on applications concerning maximum residue levels set out in Article 11 and for decisions on applications concerning maximum residue levels set out in Article 14 of Regulation (EC) No 396/2005 shall be without prejudice to the time limits laid down in this Regulation.
+
+7\. Where the conclusion of the Authority is adopted within the time limit set out in paragraph 2 of this Article, extended by any additional period set in accordance with paragraph 3, the provisions of Article 11 of Regulation (EC) No 396/2005 shall not apply and the provisions of Article 14 of that Regulation shall apply without delay.
+
+8\. Where the conclusion of the Authority is not adopted within the time limit set out in paragraph 2 of this Article, extended by any additional period set in accordance with paragraph 3, the provisions of Articles 11 and 14 of Regulation (EC) No 396/2005 shall apply without delay.
+
+##### Article 13 — Approval Regulation
+
+1\. Within six months of receiving the conclusion from the Authority, the Commission shall present a report, referred to as ‘the review report’, and a draft Regulation to the Committee referred to in Article 79(1), taking into account the draft assessment report by the rapporteur Member State and the conclusion of the Authority.
+
+The applicant shall be given the possibility to submit comments on the review report.
+
+2\. On the basis of the review report, other factors legitimate to the matter under consideration and the precautionary principle where the conditions laid down in Article 7(1) of Regulation (EC) No 178/2002 are relevant, a Regulation shall be adopted in accordance with the regulatory procedure referred to in Article 79(3), providing that:
+
+(a) an active substance is approved, subject to conditions and restrictions, as referred to in Article 6, where appropriate;
+
+(b) an active substance is not approved; or
+
+(c) the conditions of the approval are amended.
+
+3\. Where the approval provides for the submission of further confirmatory information as referred to in Article 6(f), the Regulation shall provide the time limit to submit the information to the Member States, the Commission and the Authority.
+
+The rapporteur Member State shall assess the additional information and submit its assessment to the other Member States, the Commission and the Authority without delay and at the latest six months after the receipt of the additional information.
+
+4\. Approved active substances shall be included in the Regulation referred to in Article 78(3) containing the list of active substances already approved. The Commission shall maintain a list of approved active substances electronically available to the public.
+
+#### Subsection 3 — Renewal and review
+
+##### Article 14 — Renewal of approval
+
+1\. On application the approval of an active substance shall be renewed where it is established that the approval criteria provided for in Article 4 are satisfied.
+
+Article 4 shall be deemed to be satisfied where this has been established with respect to one or more representative uses of at least one plant protection product containing that active substance.
+
+Such renewal of the approval may include conditions and restrictions, as referred to in Article 6.
+
+2\. The renewal of the approval shall be for a period not exceeding 15 years. The renewal of approval of active substances covered by Article 4(7) shall be for a period not exceeding five years.
+
+##### Article 15 — Application for renewal
+
+1\. The application provided for in Article 14 of this Regulation shall be submitted by a producer of the active substance to a Member State, with a copy to the Commission, to the other Member States and to the Authority, no later than three years before the expiry of the approval. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+
+2\. When applying for renewal, the applicant shall identify new data he intends to submit and demonstrate that they are necessary, because of data requirements or criteria which were not applicable at the time of the last approval of the active substance or because his request is for an amended approval. The applicant shall at the same time submit a timetable of any new and ongoing studies.
+
+The applicant shall identify, giving reasons, the parts of the information submitted that he requests to be kept confidential in accordance with Article 63 and at the same time any data protection claims pursuant to Article 59.
+
+##### Article 16 — Public access to the information for renewal
+
+The Authority shall assess, without delay, any confidentiality request and make available to the public the information provided by the applicant under Article 15 as well as any other supplementary information submitted by the applicant, except for information in respect of which confidential treatment has been requested and granted by the Authority pursuant to Article 63.
+
+The Authority, following consultations with the Member States, shall lay down practical arrangements to ensure the consistency of those assessments.
+
+##### Article 17 — Extension of approval period for the duration of the procedure
+
+Where for reasons beyond the control of the applicant it appears that the approval is likely to expire before a decision has been taken on renewal, a decision shall be adopted in accordance with the regulatory procedure referred to in Article 79(3), postponing the expiry of the approval period for that applicant for a period sufficient to examine the application.
+
+A Regulation postponing the expiry for a period sufficient to examine the application shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(5) where an applicant could not give the three years’ notice required under Article 15(1) because the active substance was included in Annex I to Directive 91/414/EEC for a duration which expired before 14 June 2014.
+
+The length of that period shall be established on the basis of the following:
+
+(a) the time needed to provide the information requested;
+
+(b) the time needed to complete the procedure;
+
+(c) where appropriate, the need to ensure the establishment of a coherent work programme, as provided for in Article 18.
+
+##### Article 18 — Work programme
+
+The Commission may establish a work programme grouping together similar active substances setting priorities on the basis of safety concerns for human and animal health or the environment and taking into account, as far as possible, the need for an effective control and resistance management of target pest. The programme may require interested parties to submit all the necessary data to the Member States, the Commission and the Authority within a period provided for in the programme.
+
+The programme shall include the following:
+
+(a) the procedures concerning the submission and assessment of applications for renewal of approvals;
+
+(b) the necessary data to be submitted, including measures to minimise animal testing, in particular the use of non-animal test methods and intelligent testing strategies;
+
+(c) the periods for submission of such data;
+
+(d) rules on the submission of new information;
+
+(e) period for assessment and decision making;
+
+(f) the allocation of evaluation of active substances to Member States, taking into account a balance in the responsibilities and work to be done among Member States acting as rapporteurs.
+
+##### Article 19 — Implementing measures
+
+A Regulation, adopted in accordance with the regulatory procedure referred to in Article 79(3), shall set out the provisions necessary for the implementation of the renewal procedure, including, where relevant, the implementation of a work programme, as provided for in Article 18.
+
+##### Article 20 — Renewal Regulation
+
+1\. A Regulation shall be adopted in accordance with the regulatory procedure referred to in Article 79(3), providing that:
+
+(a) the approval of an active substance is renewed, subject to conditions and restrictions where appropriate; or
+
+(b) the approval of an active substance is not renewed.
+
+2\. Where the reasons for not renewing the approval do not concern the protection of health or the environment, the Regulation referred to in paragraph 1 shall provide for a grace period not exceeding six months for the sale and distribution, and in addition a maximum of one year for the disposal, storage, and use of existing stocks of the plant protection products concerned. The grace period for the sale and distribution shall take into account the normal period of use of the plant protection product but the total grace period shall not exceed 18 months.
+
+In the case of a withdrawal of the approval or if the approval is not renewed because of the immediate concerns for human health or animal health or the environment, the plant protection products concerned shall be withdrawn from the market immediately.
+
+3\. Article 13(4) shall apply.
+
+##### Article 21 — Review of approval
+
+1\. The Commission may review the approval of an active substance at any time. It shall take into account the request of a Member State to review, in the light of new scientific and technical knowledge and monitoring data, the approval of an active substance, including where, after the review of the authorisations pursuant to Article 44(1), there are indications that the achievement of the objectives established in accordance with Article 4(1)(a)(iv) and (b)(i) and Article 7(2) and (3) of Directive 2000/60/EC is compromised.
+
+Where, in the light of new scientific and technical knowledge it considers that there are indications that the substance no longer satisfies the approval criteria provided for in Article 4, or further information required in accordance with Article 6(f) has not been provided, it shall inform the Member States, the Authority and the producer of the active substance, setting a period for the producer to submit its comments.
+
+2\. The Commission may ask the Member States and the Authority for an opinion, or for scientific or technical assistance. The Member States may provide their comments to the Commission within three months from the date of the request. The Authority shall provide its opinion or the results of its work to the Commission within three months of the date of the request.
+
+3\. Where the Commission concludes that the approval criteria provided for in Article 4 are no longer satisfied, or the further information required in accordance with Article 6(f) has not been provided, a Regulation to withdraw or amend the approval shall be adopted in accordance with the regulatory procedure referred to in Article 79(3).
+
+Article 13(4) and Article 20(2) shall apply.
+
+#### Subsection 4 — Derogations
+
+##### Article 22 — Low-risk active substances
+
+1\. An active substance complying with the criteria provided for in Article 4 shall be approved for a period not exceeding 15 years by way of derogation from Article 5, where it is considered a low-risk active substance and where it may be expected that plant protection products containing that substance will pose only a low risk to human and animal health and the environment as provided for in Article 47(1).
+
+2\. Articles 4 and 6 to 21 and point 5 of Annex II shall apply. Low-risk active substances shall be listed separately in the Regulation referred to in Article 13(4).
+
+3\. The Commission may review and if necessary specify new criteria for approving an active substance as low-risk active substance in accordance with Article 78(1)(a).
+
+##### Article 23 — Approval criteria for basic substances
+
+1\. Basic substances shall be approved in accordance with paragraphs 2 to 6. By way of derogation from Article 5, the approval shall be for an unlimited period.
+
+For the purpose of paragraphs 2 to 6, a basic substance is an active substance which:
+
+(a) is not a substance of concern; and
+
+(b) does not have an inherent capacity to cause endocrine disrupting, neurotoxic or immunotoxic effects; and
+
+(c) is not predominantly used for plant protection purposes but nevertheless is useful in plant protection either directly or in a product consisting of the substance and a simple diluent; and
+
+(d) is not placed on the market as a plant protection product.
+
+For the purpose of this Regulation, an active substance which fulfils the criteria of a ‘foodstuff’ as defined in Article 2 of Regulation (EC) No 178/2002 shall be considered as a basic substance.
+
+2\. By way of derogation from Article 4, a basic substance shall be approved where any relevant evaluations, carried out in accordance with other Community legislation regulating the use of that substance for purposes other than for a plant protection product, show that the substance has neither an immediate or delayed harmful effect on human or animal health nor an unacceptable effect on the environment.
+
+3\. By way of derogation from Article 7 an application for the approval of a basic substance shall be submitted by a Member State or by any interested party to the Commission.
+
+The application shall be accompanied by the following information:
+
+(a) any evaluations of its possible effects on human or animal health or the environment carried out in accordance with other Community legislation regulating the use of the substance; and
+
+(b) other relevant information on its possible effects on human or animal health or the environment.
+
+4\. The Commission shall ask the Authority for an opinion, or for scientific or technical assistance. The Authority shall provide its opinion or the results of its work to the Commission within 3 months of the date of the request.
+
+5\. Articles 6 and 13 shall apply. Basic substances shall be listed separately in the Regulation referred to in Article 13(4).
+
+6\. The Commission may review the approval of a basic substance at any time. It may take into account the request of a Member State to review the approval.
+
+Where the Commission considers that there are indications that the substance no longer satisfies the criteria provided for in paragraphs 1 to 3 it shall inform the Member States, the Authority and the interested party, setting a period for their comments to be submitted.
+
+The Commission shall ask the Authority for an opinion, or for scientific or technical assistance. The Authority shall provide its opinion or the results of its work to the Commission within three months of the date of the request.
+
+Where the Commission concludes that the criteria referred to in paragraph 1 are no longer satisfied, a Regulation to withdraw or amend the approval shall be adopted in accordance with the regulatory procedure referred to in Article 79(3).
+
+##### Article 24 — Candidates for substitution
+
+1\. An active substance complying with the criteria provided for in Article 4 shall be approved, for a period not exceeding seven years, as a candidate for substitution if it meets one or more of the additional criteria laid down in point 4 of Annex II. By way of derogation from Article 14(2), the approval may be renewed once or more for periods not exceeding seven years.
+
+2\. Without prejudice to paragraph 1, Articles 4 to 21 shall apply. Candidates for substitution shall be listed separately in the Regulation referred to in Article 13(4).
+
+### SECTION 2 — Safeners and synergists
+
+##### Article 25 — Approval of safeners and synergists
+
+1\. A safener or synergist shall be approved, where it complies with Article 4.
+
+2\. Articles 5 to 21 shall apply.
+
+3\. Similar data requirements to those referred to in Article 8(4) shall be defined for safeners and synergists in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+##### Article 26 — Safeners and synergists already on the market
+
+By 14 December 2014, a Regulation shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4) establishing a work programme for the gradual review of synergists and safeners on the market when that Regulation enters into force. The Regulation shall include the establishment of data requirements, including measures to minimise animal testing, notification, evaluation, assessment and decision-making procedures. It shall require interested parties to submit all the necessary data to the Member States, the Commission and the Authority within a specified period.
+
+### SECTION 3 — Unacceptable co-formulants
+
+##### Article 27 — Co-formulants
+
+1\. A co-formulant shall not be accepted for inclusion in a plant protection product where it has been established that:
+
+(a) its residues, consequent on application consistent with good plant protection practice, and having regard to realistic conditions of use, have a harmful effect on human or animal health or on groundwater or an unacceptable effect on the environment; or
+
+(b) its use, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use, has a harmful effect on human or animal health or an unacceptable effect on plants, plant products or the environment.
+
+2\. Co-formulants which are not accepted for inclusion in a plant protection product pursuant to paragraph 1 shall be included in Annex III in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+3\. The Commission may review co-formulants at any time. It may take into account relevant information provided by Member States.
+
+4\. Article 81(2) shall apply.
+
+5\. Detailed rules for the implementation of this Article may be established in accordance with the regulatory procedure referred to in Article 79(3).
+
+## CHAPTER III — PLANT PROTECTION PRODUCTS
+
+### SECTION 1 — Authorisation
+
+#### Subsection 1 — Requirements and contents
+
+##### Article 28 — Authorisation for placing on the market and use
+
+1\. A plant protection product shall not be placed on the market or used unless it has been authorised in the Member State concerned in accordance with this Regulation.
+
+2\. By way of derogation from paragraph 1, no authorisation shall be required in the following cases:
+
+(a) use of products containing exclusively one or more basic substances;
+
+(b) placing on the market and use of plant protection products for research or development purposes in accordance with Article 54;
+
+(c) production, storage or movement of a plant protection product intended for use in another Member State, provided that the product is authorised in that Member State and that the Member State of production, storage or movement has put in place inspection requirements to ensure that the plant protection product is not used in its territory;
+
+(d) production, storage or movement of a plant protection product intended for use in a third country provided that the Member State of production, storage or movement has put in place inspection requirements to ensure that the plant protection product is exported from its territory;
+
+(e) placing on the market and use of plant protection products for which a parallel trade permit has been granted in accordance with Article 52.
+
+##### Article 29 — Requirements for the authorisation for placing on the market
+
+1\. Without prejudice to Article 50 a plant protection product shall only be authorised where following the uniform principles referred to in paragraph 6 it complies with the following requirements:
+
+(a) its active substances, safeners and synergists have been approved;
+
+(b) where its active substance, safener or synergist is produced by a different source, or by the same source with a change in the manufacturing process and/or manufacturing location:
+
+(i) the specification, pursuant to Article 38, does not deviate significantly from the specification included in the Regulation approving that substance, safener or synergist; and
+
+(ii) the active substance, safener or synergist has no more harmful effects within the meaning of Article 4(2) and (3) due to its impurities than if it had been produced in accordance with the manufacturing process specified in the dossier that supported the approval;
+
+(c) its co-formulants are not included in Annex III;
+
+(d) its technical formulation is such that user exposure or other risks are limited as much as possible without compromising the functioning of the product;
+
+(e) in the light of current scientific and technical knowledge, it complies with the requirements provided for in Article 4(3);
+
+(f) the nature and quantity of its active substances, safeners and synergists and, where appropriate, any toxicologically, ecotoxicologically or environmentally relevant impurities and co-formulants can be determined by appropriate methods;
+
+(g) its residues, resulting from authorised uses, and which are of toxicological, ecotoxicological or environmental relevance, can be determined by appropriate methods in general use in all Member States, with appropriate limits of determination on relevant samples;
+
+(h) its physical and chemical properties have been determined and deemed acceptable for the purposes of the appropriate use and storage of the product;
+
+(i) for plants or plant products to be used as feed or food, where appropriate, the maximum residue levels for the agricultural products affected by the use referred to in the authorisation have been set or modified in accordance with Regulation (EC) No 396/2005.
+
+2\. The applicant shall demonstrate that the requirements provided for in points (a) to (h) of paragraph 1 are met.
+
+3\. Compliance with the requirements set out in point (b) and points (e) to (h) of paragraph 1 shall be established by official or officially recognised tests and analyses carried out under agricultural, plant health and environmental conditions relevant to the use of the plant protection product in question and representative of the conditions prevailing in the zone where the product is intended to be used.
+
+4\. With respect to point (f) of paragraph 1, harmonised methods may be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+5\. Article 81 shall apply.
+
+6\. Uniform principles for evaluation and authorisation of plant protection products shall contain the requirements set out in Annex VI to Directive 91/414/EEC and shall be laid down in Regulations adopted in accordance with the advisory procedure referred to in Article 79(2) without any substantial modifications. Subsequent amendments to these Regulations shall be adopted in accordance with Article 78(1)(c).
+
+Following these principles, interaction between the active substance, safeners, synergists and co-formulants shall be taken into account in the evaluation of plant protection products.
+
+##### Article 30 — Provisional authorisations
+
+1\. By way of derogation from Article 29(1)(a), Member States may authorise for a provisional period not exceeding 3 years, the placing on the market of plant protection products containing an active substance not yet approved, provided that:
+
+(a) the decision on approval could not be finalised within a period of 30 months from the date of admissibility of the application, extended by any additional period set in accordance with Article 9(2), Article 11(3) or Article 12(2) or (3); and
+
+(b) pursuant to Article 9 the dossier on the active substance is admissible in relation to the proposed uses; and
+
+(c) the Member State concludes that the active substance can satisfy the requirements of Article 4(2) and (3) and that the plant protection product may be expected to satisfy the requirements of Article 29(1)(b) to (h); and
+
+(d) maximum residue levels have been established in accordance with Regulation (EC) No 396/2005.
+
+2\. In such cases the Member State shall immediately inform the other Member States and the Commission of its assessment of the dossier and of the terms of the authorisation, giving at least the information provided for in Article 57(1).
+
+3\. The provisions laid down in paragraphs 1 and 2 shall apply until 14 June 2016. If necessary, that time limit may be extended in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+##### Article 31 — Contents of authorisations
+
+1\. The authorisation shall define plants or plant products and non-agricultural areas (for example railways, public areas, storage rooms) on which and the purposes for which the plant protection product may be used.
+
+2\. The authorisation shall set out the requirements relating to the placing on the market and use of the plant protection product. Those requirements shall as a minimum include the conditions of use necessary to comply with the conditions and requirements provided for in the Regulation approving the active substances, safeners and synergists.
+
+The authorisation shall include a classification of the plant protection product for the purpose of Directive 1999/45/EC. Member States may provide that authorisation holders shall classify or update the label without undue delay following any change to the classification and labelling of the plant protection product in accordance with Directive 1999/45/EC. In such cases, they shall immediately inform the competent authority thereof.
+
+3\. The requirements referred to in paragraph 2 shall also include where applicable:
+
+(a) the maximum dose per hectare in each application;
+
+(b) the period between the last application and harvest;
+
+(c) the maximum number of applications per year.
+
+4\. The requirements referred to in paragraph 2 may include the following:
+
+(a) a restriction with respect to the distribution and use of the plant protection product in order to protect the health of the distributors, users, bystanders, residents, consumers or workers concerned or the environment, taking into consideration requirements imposed by other Community provisions; such restriction shall be indicated on the label;
+
+(b) the obligation before the product is used to inform any neighbours who could be exposed to the spray drift and who have requested to be informed;
+
+(c) indications for proper use according to the principles of Integrated Pest Management referred to in Article 14 of and Annex III to Directive 2009/128/EC;
+
+(d) designation of categories of users, such as professional and non-professional;
+
+(e) the approved label;
+
+(f) the interval between applications;
+
+(g) the period between the last application and consumption of the plant product where applicable;
+
+(h) the re-entry interval;
+
+(i) the packaging size and material.
+
+##### Article 32 — Duration
+
+1\. The period of authorisation shall be laid down in the authorisation.
+
+Without prejudice to Article 44, the duration of an authorisation shall be set for a period not exceeding 1 year from the date of expiry of the approval of the active substances, safeners and synergists contained in the plant protection product and thereafter for as long as the active substances, safeners and synergists contained in the plant protection product are approved.
+
+This period shall allow the examination as provided for in Article 43 to be carried out.
+
+2\. Authorisations may be granted for shorter periods to synchronise the re-evaluation of similar products for the purposes of a comparative assessment of products containing candidates for substitution as provided for in Article 50.
+
+#### Subsection 2 — Procedure
+
+##### Article 33 — Application for authorisation or amendment of an authorisation
+
+1\. An applicant who wishes to place a plant protection product on the market shall apply for an authorisation or amendment of an authorisation himself, or through a representative, to each Member State where the plant protection product is intended to be placed on the market.
+
+2\. The application shall include the following:
+
+(a) a list of intended uses in each zone as indicated in Annex I and the Member States where the applicant has made or intends to make an application;
+
+(b) a proposal as to which Member State the applicant expects to evaluate the application in the zone concerned. In the case of an application for use in greenhouses, as post-harvest treatment, for treatment of empty storage rooms and for seed treatment, only one Member State shall be proposed, which evaluates the application taking account of all zones. In this case the applicant shall send the summary or complete dossier as referred to in Article 8 to other Member States on request;
+
+(c) where relevant, a copy of any authorisations already granted for that plant protection product in a Member State;
+
+(d) where relevant, a copy of any conclusion of the Member State assessing equivalence as referred to in Article 38(2).
+
+3\. The application shall be accompanied by the following:
+
+(a) for the plant protection product concerned, a complete and a summary dossier for each point of the data requirements of the plant protection product;
+
+(b) for each active substance, safener and synergist contained in the plant protection product, a complete and a summary dossier for each point of the data requirements of the active substance, safener and synergist;
+
+(c) for each test or study involving vertebrate animals, a justification of the steps taken to avoid animal testing and duplication of tests and studies on vertebrate animals;
+
+(d) the reasons why the test and study reports submitted are necessary for first authorisation or for amendments to the conditions of the authorisation;
+
+(e) where relevant a copy of the application for a maximum residue level as referred to in Article 7 of Regulation (EC) No 396/2005 or a justification for not supplying such information;
+
+(f) where relevant for an amendment of an authorisation an assessment of all information submitted in accordance with point (h) of Article 8(1);
+
+(g) a draft label.
+
+4\. When submitting the application, the applicant may pursuant to Article 63, request certain information, including certain parts of the dossier, to be kept confidential and shall physically separate that information.
+
+The applicant shall at the same time submit the complete list of studies submitted pursuant to Article 8(2) and a list of test and study reports for which any claims for data protection pursuant to Article 59 are requested.
+
+Upon a request for access to information the Member State examining the application shall decide what information is to be kept confidential.
+
+5\. Where requested by the Member State the applicant shall submit his application in the national or official languages of that Member State or one of those languages.
+
+6\. On request, the applicant shall provide the Member State with samples of the plant protection product and analytical standards of its ingredients.
+
+##### Article 34 — Exemption from the submission of studies
+
+1\. Applicants shall be exempted from supplying the test and study reports referred to in Article 33(3) where the Member State to which an application is made has the test and study reports concerned and the applicants demonstrate that they have been granted access in accordance with Article 59, 61 or 62 or that any data protection period has expired.
+
+2\. However, applicants to whom paragraph 1 applies shall provide the following information:
+
+(a) all necessary data for the identification of the plant protection product including its complete composition as well as a declaration that no unacceptable co-formulants are used;
+
+(b) the information needed to identify the active substance, safener or synergist, where they have been approved, and to establish whether the conditions for approval are met and comply with point (b) of Article 29(1), where appropriate;
+
+(c) on the request of the concerned Member State, the data needed to demonstrate that the plant protection product has comparable effects to the plant protection product for which they show access to the protected data.
+
+##### Article 35 — Member State examining the application
+
+The application shall be examined by the Member State proposed by the applicant, unless another Member State in the same zone agrees to examine it. The Member State which will examine the application shall inform the applicant.
+
+At the request of the Member State examining the application, the other Member States in the same zone to which an application has been submitted shall cooperate to ensure a fair division of the workload.
+
+The other Member States within the zone to which an application has been submitted shall refrain from proceeding with the file pending assessment by the Member State examining the application.
+
+Where an application has been made in more than one zone, Member States evaluating the application shall agree on the evaluation of data which are not related to the environmental and agricultural conditions.
+
+##### Article 36 — Examination for authorisation
+
+1\. The Member State examining the application shall make an independent, objective and transparent assessment in the light of current scientific and technical knowledge using guidance documents available at the time of application. It shall give all Member States in the same zone the opportunity to submit comments to be considered in the assessment.
+
+It shall apply the uniform principles for evaluation and authorisation of plant protection products, referred to in Article 29(6), to establish, as far as possible, whether the plant protection product meets the requirements provided for in Article 29 in the same zone, where used in accordance with Article 55, and under realistic conditions of use.
+
+The Member State examining the application shall make available its assessment to the other Member States within the same zone. The format of the assessment report shall be established in accordance with the advisory procedure referred to in Article 79(2).
+
+2\. The Member States concerned shall grant or refuse authorisations accordingly on the basis of the conclusions of the assessment of the Member State examining the application as provided for in Articles 31 and 32.
+
+3\. By way of derogation from paragraph 2 and subject to Community law, appropriate conditions may be imposed with respect to the requirements referred to in Article 31(3) and (4) and other risk mitigation measures deriving from specific conditions of use.
+
+Where the concerns of a Member State relating to human or animal health or the environment cannot be controlled by the establishment of the national risk mitigation measures referred to in the first subparagraph, a Member State may refuse authorisation of the plant protection product in its territory if, due to its specific environmental or agricultural circumstances, it has substantiated reasons to consider that the product in question still poses an unacceptable risk to human or animal health or the environment.
+
+That Member State shall immediately inform the applicant and the Commission of its decision and provide a technical or scientific justification therefor.
+
+Member States shall provide for the possibility of challenging a decision refusing the authorisation of such products before national courts or other instances of appeal.
+
+##### Article 37 — Period for examination
+
+1\. The Member State examining the application shall decide within 12 months of receiving it whether the requirements for authorisation are met.
+
+Where the Member State needs additional information, it shall set a period for the applicant to supply it. In that case, the 12-month period shall be extended by the additional period granted by the Member State. That additional period shall be a maximum of 6 months and shall cease at the moment when the additional information is received by the Member State. Where at the end of that period the applicant has not submitted the missing elements, the Member State shall inform the applicant that the application is inadmissible.
+
+2\. The time limits provided for in paragraph 1 shall be suspended during the application of the procedure set out in Article 38.
+
+3\. For an application for authorisation of a plant protection product containing an active substance not yet approved, the Member State examining the application shall start the evaluation as soon as it has received the draft assessment report referred to in Article 12(1). In case the application concerns the same plant protection product and the same uses as contained in the dossier referred to in Article 8, the Member State shall decide on the application at the latest within six months of the active substance being approved.
+
+4\. The other Member States concerned shall at the latest within 120 days of the receipt of the assessment report and the copy of the authorisation of the Member State examining the application decide on the application as referred to in Article 36(2) and (3).
+
+##### Article 38 — Assessment of equivalence under point (b) of Article 29(1)
+
+1\. Where it is necessary to establish for an active substance, safener or synergist whether a different source or, for the same source a change of the manufacturing process and/or manufacturing location complies with point (b) of Article 29(1), this shall be assessed by the Member State which acted as rapporteur for the active substance, safener or synergist as referred to in Article 7(1) unless the Member State examining the application as referred to in Article 35 agrees to assess the equivalence. The applicant shall submit all necessary data to the Member State assessing equivalence.
+
+2\. After giving the applicant the opportunity to submit comments, which the applicant shall also communicate to the rapporteur Member State or the Member State examining the application as the case may be, the Member State assessing equivalence shall prepare a report on equivalence within 60 days from receiving the application and shall communicate the report to the Commission, the other Member States and the applicant.
+
+3\. In the case of a positive conclusion on equivalence and where no objection to this conclusion has been raised, point (b) of Article 29(1) shall be considered to be complied with. However, where a Member State examining the application does not agree with the conclusion of the rapporteur Member State or vice versa, it shall inform the applicant, the other Member States and the Commission stating its reasons.
+
+The Member States concerned shall try to reach agreement on whether point (b) of Article 29(1) is complied with. They shall provide the applicant with an opportunity to submit comments.
+
+4\. Where the Member States concerned do not reach agreement within 45 days, the Member State assessing equivalence shall submit the matter to the Commission. A decision on whether the conditions referred to in point (b) of Article 29(1) are complied with shall be adopted in accordance with the regulatory procedure referred to in Article 79(3). The 45-day period begins on the date on which the Member State examining the application for authorisation informed the rapporteur Member State or vice versa that it does not agree with the conclusion of the latter, in accordance with paragraph 3.
+
+Before such a decision is adopted, the Commission may ask the Authority for an opinion, or for scientific or technical assistance which shall be provided within 3 months of the request.
+
+5\. Detailed rules and procedures for the implementation of paragraphs 1 to 4 may be established in accordance with the regulatory procedure referred to in Article 79(3), after consultation of the Authority.
+
+##### Article 39 — Reporting and exchange of information on applications for authorisation
+
+1\. Member States shall compile a file on each application. Each file shall contain the following:
+
+(a) a copy of the application;
+
+(b) a report containing information on the evaluation of and decision on the plant protection product; the format of the report shall be established in accordance with the advisory procedure referred to in Article 79(2);
+
+(c) a record of the administrative decisions taken by the Member State concerning the application and of the documentation provided for in Article 33(3) and Article 34 together with a summary of the latter;
+
+(d) the approved label, where applicable.
+
+2\. On request, Member States shall, without delay, make available to the other Member States, the Commission and the Authority a file containing the documentation provided for in points (a) to (d) of paragraph 1.
+
+3\. On request, applicants shall provide a copy of the documentation to be submitted with an application pursuant to Article 33(3) and Article 34 to Member States, the Commission and the Authority.
+
+4\. Detailed rules for the implementation of paragraphs 2 and 3 may be established in accordance with the regulatory procedure referred to in Article 79(3).
+
+#### Subsection 3 — Mutual recognition of authorisations
+
+##### Article 40 — Mutual recognition
+
+1\. The holder of an authorisation granted in accordance with Article 29 may apply for an authorisation for the same plant protection product, the same use and under the comparable agricultural practices in another Member State under the mutual recognition procedure, provided for in this subsection, in the following cases:
+
+(a) the authorisation was granted by a Member State (reference Member State) which belongs to the same zone;
+
+(b) the authorisation was granted by a Member State (reference Member State) which belongs to a different zone provided that the authorisation for which the application was made is not used for the purpose of mutual recognition in another Member State within the same zone;
+
+(c) the authorisation was granted by a Member State for use in greenhouses, or as post-harvest treatment, or for treatment of empty rooms or containers used for storing plant or plant products, or for seed treatment, regardless of the zone to which the reference Member State belongs.
+
+2\. Where a plant protection product is not authorised in a Member State because no application for an authorisation has been submitted in that Member State, official or scientific bodies involved in agricultural activities or professional agricultural organisations may apply, with the consent of the authorisation holder, for an authorisation for the same plant protection product, the same use and under the same agricultural practices in that Member State under the mutual recognition procedure referred to in paragraph 1. In that case the applicant must demonstrate that the use of such a plant protection product is of general interest for the Member State of introduction.
+
+Where the authorisation holder refuses its consent, the competent authority of the Member State concerned may accept the application, on grounds of public interest.
+
+##### Article 41 — Authorisation
+
+1\. The Member State to which an application under Article 40 is submitted shall, having examined the application and the accompanying documents referred to in Article 42(1), as appropriate with regard to the circumstances in its territory, authorise the plant protection product concerned under the same conditions as the Member State examining the application, except where Article 36(3) applies.
+
+2\. By way of derogation from paragraph 1, the Member State may authorise the plant protection product where:
+
+(a) an authorisation under point (b) of Article 40(1) was applied for;
+
+(b) it contains a candidate of substitution;
+
+(c) Article 30 has been applied; or
+
+(d) it contains a substance approved in accordance with Article 4(7).
+
+##### Article 42 — Procedure
+
+1\. The application shall be accompanied by the following:
+
+(a) a copy of the authorisation granted by the reference Member State as well as a translation of the authorisation into an official language of the Member State receiving the application;
+
+(b) a formal statement that the plant protection product is identical to that authorised by the reference Member State;
+
+(c) a complete or summary dossier as required in Article 33(3) when requested by the Member State;
+
+(d) an assessment report of the reference Member State containing information on the evaluation and decision on the plant protection product.
+
+2\. The Member State to which an application under Article 40 is submitted shall decide on the application within 120 days.
+
+3\. Where requested by the Member State, the applicant shall submit the application in the national or official languages of that Member State or one of those languages.
+
+#### Subsection 4 — Renewal, withdrawal and amendment
+
+##### Article 43 — Renewal of authorisation
+
+1\. An authorisation shall be renewed upon application by the authorisation holder, provided that the requirements referred to in Article 29 are still met.
+
+2\. Within 3 months from the renewal of the approval of an active substance, safener or synergist contained in the plant protection product, the applicant shall submit the following information:
+
+(a) a copy of the authorisation of the plant protection product;
+
+(b) any new information required as a result of amendments in data requirements or criteria;
+
+(c) evidence that the new data submitted are the result of data requirements or criteria which were not in force when the authorisation of the plant protection product was granted or necessary to amend the conditions of approval;
+
+(d) any information required to demonstrate that the plant protection product meets the requirements set out in the Regulation on the renewal of the approval of the active substance, safener or synergist contained therein;
+
+(e) a report on the monitoring information, where the authorisation was subject to monitoring.
+
+3\. Member States shall check compliance of all plant protection products containing the active substance, safener or synergist concerned with any conditions and restrictions provided for in the Regulation renewing the approval under Article 20.
+
+The Member State referred to in Article 35 within each zone shall coordinate the compliance check and assessment of the information submitted for all Member States within that zone.
+
+4\. Guidelines on the organisation of compliance checks may be established in accordance with the advisory procedure referred to in Article 79(2).
+
+5\. Member States shall decide on the renewal of the authorisation of a plant protection product at the latest 12 months after the renewal of the approval of the active substance, safener or synergist contained therein.
+
+6\. Where, for reasons beyond the control of the holder of the authorisation, no decision is taken on the renewal of the authorisation before its expiry, the Member State in question shall extend the authorisation for the period necessary to complete the examination and adopt a decision on the renewal.
+
+##### Article 44 — Withdrawal or amendment of an authorisation
+
+1\. Member States may review an authorisation at any time where there are indications that a requirement referred to in Article 29 is no longer satisfied.
+
+A Member State shall review an authorisation where it concludes that the objectives of Article 4(1)(a)(iv) and (b)(i) and Article 7(2) and (3) of Directive 2000/60/EC may not be achieved.
+
+2\. Where a Member State intends to withdraw or amend an authorisation, it shall inform the authorisation holder and give him the possibility to submit comments or further information.
+
+3\. The Member State shall withdraw or amend the authorisation, as appropriate, where:
+
+(a) the requirements referred to in Article 29 are not or are no longer satisfied;
+
+(b) false or misleading information was supplied concerning the facts on the basis of which the authorisation was granted;
+
+(c) a condition included in the authorisation has not been met;
+
+(d) on the basis of developments in scientific and technical knowledge, the manner of use and amounts used can be modified; or
+
+(e) the authorisation holder fails to comply with the obligations resulting from this Regulation.
+
+4\. Where a Member State withdraws or amends an authorisation in accordance with paragraph 3, it shall immediately inform the holder of the authorisation, the other Member States, the Commission and the Authority. The other Member States belonging to the same zone shall withdraw or amend the authorisation accordingly taking into account national conditions and risk mitigation measures except for cases where the second, third or fourth subparagraphs of Article 36(3) have been applied. Article 46 shall apply where appropriate.
+
+##### Article 45 — Withdrawal or amendment of an authorisation at the request of the authorisation holder
+
+1\. An authorisation may be withdrawn or amended at the request of the holder of the authorisation, who shall state the reasons for his request.
+
+2\. Amendments may only be granted where it is established that the requirements referred to in Article 29 continue to be met.
+
+3\. Article 46 shall apply where appropriate.
+
+##### Article 46 — Grace period
+
+Where a Member State withdraws or amends an authorisation or does not renew it, it may grant a grace period for the disposal, storage, placing on the market and use of existing stocks.
+
+Where the reasons for withdrawal, amendment or non-renewal of the authorisation are not related to the protection of human and animal health or the environment, the grace period shall be limited and shall not exceed 6 months for the sale and the distribution and an additional maximum of 1 year for the disposal, storage, and use of existing stocks of the plant protection products concerned.
+
+#### Subsection 5 — Special cases
+
+##### Article 47 — Placing on the market of low-risk plant protection products
+
+1\. Where all the active substances contained in a plant protection product are low-risk active substances as referred to in Article 22, that product shall be authorised as a low-risk plant protection product provided no specific risk mitigation measures are needed following a risk assessment. This plant protection product shall also meet the following requirements:
+
+(a) the low-risk active substances, safeners and synergists contained in it have been approved under Chapter II;
+
+(b) it does not contain a substance of concern;
+
+(c) it is sufficiently effective;
+
+(d) it does not cause unnecessary pain and suffering to vertebrates to be controlled;
+
+(e) it complies with points (b), (c) and (f) to (i) of Article 29(1).
+
+These products are referred to as ‘low-risk plant protection products’.
+
+2\. An applicant for authorisation of a low-risk plant protection product shall demonstrate that the requirements set out in paragraph 1 are met and shall submit with the application a complete and a summary dossier for each point of the data requirements of the active substance and the plant protection product.
+
+3\. The Member State shall decide within 120 days whether to approve an application for authorisation of a low-risk plant protection product.
+
+Where the Member State needs additional information, it shall set a time limit for the applicant to supply it. In that case, the period specified shall be extended by the additional time limit granted by the Member State.
+
+The additional period shall be of a maximum of 6 months and shall cease at the moment when the additional information is received by the Member State. Where at the end of that period the applicant has not submitted the missing elements, the Member State shall inform the applicant that the application is inadmissible.
+
+4\. Unless otherwise specified, all provisions relating to authorisations under this Regulation shall apply.
+
+##### Article 48 — Placing on the market and use of plant protection products containing a genetically modified organism
+
+1\. A plant protection product which contains an organism falling within the scope of Directive 2001/18/EC shall be examined in respect of the genetic modification in accordance with that Directive, in addition to the assessment under this Chapter.
+
+An authorisation under this Regulation shall not be granted for such a plant protection product unless written consent, as referred to in Article 19 of Directive 2001/18/EC, has been granted for it.
+
+2\. Unless otherwise specified, all provisions relating to authorisations under this Regulation shall apply.
+
+##### Article 49 — Placing on the market of treated seeds
+
+1\. Member States shall not prohibit placing on the market and use of seeds treated with plant protection products authorised for that use in at least one Member State.
+
+2\. Where there are substantial concerns that treated seeds as referred to in paragraph 1 are likely to constitute a serious risk to human or animal health or to the environment and that such risk cannot be contained satisfactorily by means of measures taken by the Member State(s) concerned, measures to restrict or prohibit the use and/or sale of such treated seeds shall be taken immediately in accordance with the regulatory procedure referred to in Article 79(3). Before taking such measures the Commission shall examine the evidence and may request an opinion from the Authority. The Commission may set a time limit within which such an opinion shall be provided.
+
+3\. Articles 70 and 71 shall apply.
+
+4\. Without prejudice to other Community legislation concerning the labelling of seeds, the label and documents accompanying the treated seeds shall include the name of the plant protection product with which the seeds were treated, the name(s) of the active substance(s) in that product, standard phrases for safety precautions as provided for in Directive 1999/45/EC and risk mitigation measures set out in the authorisation for that product where appropriate.
+
+##### Article 50 — Comparative assessment of plant protection products containing candidates for substitution
+
+1\. A comparative assessment shall be performed by Member States when evaluating an application for authorisation for a plant protection product containing an active substance approved as a candidate for substitution. Member States shall not authorise or shall restrict the use of a plant protection product containing a candidate for substitution for use on a particular crop where the comparative assessment weighing up the risks and benefits, as set out in Annex IV, demonstrates that:
+
+(a) for the uses specified in the application an authorised plant protection product, or a non-chemical control or prevention method, already exists which is significantly safer for human or animal health or the environment;
+
+(b) the substitution by plant protection products or non-chemical control or prevention methods referred to in point (a) does not present significant economic or practical disadvantages;
+
+(c) the chemical diversity of the active substances, where relevant, or methods and practices of crop management and pest prevention are adequate to minimise the occurrence of resistance in the target organism; and
+
+(d) the consequences on minor use authorisations are taken into account.
+
+2\. By way of derogation from Article 36(2) Member States may in exceptional cases also apply the provisions of paragraph 1 of this Article when evaluating an application for authorisation of a plant protection product not containing a candidate for substitution or a low-risk active substance, if a non-chemical control or prevention method exists for the same use and it is in general use in that Member State.
+
+3\. By way of derogation from paragraph 1, a plant protection product containing a candidate for substitution shall be authorised without comparative assessment in cases where it is necessary to acquire experience first through using that product in practice.
+
+Such authorisations shall be granted once for a period not exceeding five years.
+
+4\. For plant protection products containing a candidate for substitution Member States shall perform the comparative assessment provided for in paragraph 1 regularly and at the latest at renewal or amendment of the authorisation.
+
+Based on the results of that comparative assessment, Member States shall maintain, withdraw or amend the authorisation.
+
+5\. Where a Member State decides to withdraw or amend an authorisation pursuant to paragraph 4, that withdrawal or amendment shall take effect 3 years after the decision of the Member State or at the end of the approval period of the candidate for substitution where that period ends earlier.
+
+6\. Unless otherwise specified, all provisions relating to authorisations under this Regulation shall apply.
+
+##### Article 51 — Extension of authorisations for minor uses
+
+1\. The authorisation holder, official or scientific bodies involved in agricultural activities, professional agricultural organisations or professional users may ask for the authorisation of a plant protection product already authorised in the Member State concerned to be extended to minor uses not yet covered by that authorisation.
+
+2\. Member States shall extend the authorisation provided that:
+
+(a) the intended use is minor in nature;
+
+(b) the conditions referred to in points (b), (d) and (e) of Article 4(3) and Article 29(1)(i) are satisfied;
+
+(c) the extension is in the public interest; and
+
+(d) the documentation and information to support the extension of use has been submitted by the persons or bodies referred to in paragraph 1, especially data on the magnitude of residues and where necessary on the risk assessment to the operator, worker and bystander.
+
+3\. Member States may take measures to facilitate or encourage the submission of applications to extend the authorisation of already authorised plant protection products to minor uses.
+
+4\. The extension may take the form of an amendment to the existing authorisation or may be a separate authorisation, in accordance with the administrative procedures of the Member State concerned.
+
+5\. When Member States grant an extension of authorisation for a minor use, they shall inform if necessary the authorisation holder and request him to change the labelling accordingly.
+
+Where the authorisation holder declines, the Member States shall ensure that users are fully and specifically informed as to instructions for use, by means of an official publication or an official website.
+
+The official publication or where applicable the label shall include a reference to the liability of the person using the plant protection product with respect to failures concerning the efficacy or to phytotoxicity of the product for which the minor use was granted. The minor use extension shall be separately identified in the label.
+
+6\. Extensions on the basis of this Article shall be separately identified and separate reference shall be made to liability restrictions.
+
+7\. The applicants referred to in paragraph 1 may also apply for authorisation of a plant protection product for minor uses in accordance with Article 40(1) provided that a plant protection product concerned is authorised in that Member State. Member States shall authorise such uses in accordance with the provisions of Article 41 provided that those uses are also considered minor in the Member States of application.
+
+8\. Member States shall establish and regularly update a list of minor uses.
+
+9\. By 14 December 2011, the Commission shall present a report to the European Parliament and the Council on the establishment of a European fund for minor uses, accompanied, if appropriate, by a legislative proposal.
+
+10\. Unless otherwise specified, all provisions relating to authorisations under this Regulation shall apply.
+
+##### Article 52 — Parallel trade
+
+1\. A plant protection product that is authorised in one Member State (Member State of origin) may, subject to granting a parallel trade permit, be introduced, placed on the market or used in another Member State (Member State of introduction), if this Member State determines that the plant protection product is identical in composition to a plant protection product already authorised in its territory (reference product). The application shall be submitted to the competent authority of the Member State of introduction.
+
+2\. From receiving a complete application, a parallel trade permit shall be granted in a simplified procedure within 45 working days if the plant protection product to be introduced is identical in terms of paragraph 3. Member States shall on request provide each other with the information necessary to assess whether the products are identical within 10 working days of receiving the request. The procedure for granting a parallel trade permit is interrupted from the day the request for information is sent to the competent authority of the Member State of origin until the complete information required is delivered to the competent authority of the Member State of introduction.
+
+3\. Plant protection products shall be considered as identical to the reference products if:
+
+(a) they have been manufactured by the same company or by an associated undertaking or under licence in accordance with the same manufacturing process;
+
+(b) they are identical in specification and content to the active substances, safeners and synergists, and in the type of formulation; and
+
+(c) they are either the same or equivalent in the co-formulants present and the packaging size, material or form, in terms of the potential adverse impact on the safety of the product with regard to human or animal health or the environment.
+
+4\. The application for a parallel trade permit shall include the following information:
+
+(a) the name and registration number of the plant protection product in the Member State of origin;
+
+(b) the Member State of origin;
+
+(c) the name and address of the authorisation holder in the Member State of origin;
+
+(d) the original label and instructions for use with which the plant protection product to be introduced is distributed in the Member State of origin if it is considered as necessary for the examination by the competent authority of the Member State of introduction. This competent authority may require a translation of the relevant parts of the original instructions for use;
+
+(e) the name and address of the applicant;
+
+(f) the name to be given to the plant protection product to be distributed in the Member State of introduction;
+
+(g) a draft label for the product intended to be placed on the market;
+
+(h) a sample of the product which is intended to be introduced if it is considered as necessary by the competent authority of the Member State of introduction;
+
+(i) the name and registration number of the reference product.
+
+The information requirements may be amended or completed and further details and specific requirements shall be established in cases of application for a plant protection product for which a parallel trade permit has already been granted and in cases of an application for a plant protection product for a personal use in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+5\. A plant protection product for which a parallel trade permit has been issued shall be placed on the market and used only in accordance with the provisions of the authorisation of the reference product. To facilitate monitoring and controls the Commission shall set out specific control requirements for the product to be introduced in a Regulation referred to in Article 68.
+
+6\. The parallel trade permit shall be valid for the duration of authorisation of the reference product. If the authorisation holder of the reference product applies for a withdrawal of authorisation in accordance with Article 45(1) and the requirements of Article 29 are still fulfilled, the validity of the parallel trade permit shall expire by the date on which the authorisation of the reference product would normally have expired.
+
+7\. Without prejudice to specific provisions of this Article, Articles 44, 45, 46, and 55 and Article 56(4) and Chapters VI to X shall apply to parallel traded plant protection products correspondingly.
+
+8\. Without prejudice to Article 44, a parallel trade permit may be withdrawn if the authorisation of the introduced plant protection product is withdrawn in the Member State of origin because of safety or efficacy reasons.
+
+9\. Where the product is not identical, in terms of paragraph 3, to the reference product, the Member State of introduction may only grant the authorisation required for placing on the market and use in accordance with Article 29.
+
+10\. The provisions of this Article shall not apply to plant protection products which are authorised in the Member State of origin in accordance with Article 53 or 54.
+
+11\. Without prejudice to Article 63, Member State authorities shall make publicly available information about parallel trade permits.
+
+#### Subsection 6 — Derogations
+
+##### Article 53 — Emergency situations in plant protection
+
+1\. By way of derogation from Article 28, in special circumstances a Member State may authorise, for a period not exceeding 120 days, the placing on the market of plant protection products, for limited and controlled use, where such a measure appears necessary because of a danger which cannot be contained by any other reasonable means.
+
+The Member State concerned shall immediately inform the other Member States and the Commission of the measure taken, providing detailed information about the situation and any measures taken to ensure consumer safety.
+
+2\. The Commission may ask the Authority for an opinion, or for scientific or technical assistance.
+
+The Authority shall provide its opinion or the results of its work to the Commission within 1 month of the date of the request.
+
+3\. If necessary, a decision shall be taken, in accordance with the regulatory procedure referred to in Article 79(3), as to when and under what conditions the Member State:
+
+(a) may or may not extend the duration of the measure or repeat it; or
+
+(b) shall withdraw or amend its measure.
+
+4\. Paragraphs 1 to 3 shall not apply to plant protection products containing or composed of genetically modified organisms unless such release has been accepted in accordance with Directive 2001/18/EC.
+
+##### Article 54 — Research and development
+
+1\. By way of derogation from Article 28, experiments or tests for research or development purposes involving the release into the environment of an unauthorised plant protection product or involving unauthorised use of a plant protection product may be carried out if the Member State in whose territory the experiment or test is to be carried out has assessed the available data and granted a permit for trial purposes. The permit may limit the quantities to be used and the areas to be treated and may impose further conditions to prevent any harmful effects on human or animal health or any unacceptable adverse effect on the environment, such as the need to prevent entry into the food chain of feed and food containing residues unless a relevant provision has already been established under Regulation (EC) No 396/2005.
+
+The Member State may authorise a programme of experiments or tests in advance or require a permit for each experiment or test.
+
+2\. An application shall be submitted to the Member State in whose territory the experiment or test is to be conducted, together with a dossier containing all the available data to permit an assessment of possible effects on human or animal health or the possible impact on the environment.
+
+3\. A permit for trial purposes shall not be granted for experiments or tests involving the release into the environment of a genetically modified organism unless such release has been accepted under Directive 2001/18/EC.
+
+4\. Paragraph 2 shall not apply if the Member State has granted the person concerned the right to undertake certain experiments and tests and has determined the conditions under which the experiments and tests have to be undertaken.
+
+5\. Detailed rules for the implementation of this Article, in particular the maximum quantities of plant protection products that may be released during experiments or tests and the minimum data to be submitted in accordance with paragraph 2, may be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+### SECTION 2 — Use and information
+
+##### Article 55 — Use of plant protection products
+
+Plant protection products shall be used properly.
+
+Proper use shall include the application of the principles of good plant protection practice and compliance with the conditions established in accordance with Article 31 and specified on the labelling. It shall also comply with the provisions of Directive 2009/128/EC and, in particular, with general principles of integrated pest management, as referred to in Article 14 of and Annex III to that Directive, which shall apply at the latest by 1 January 2014.
+
+##### Article 56 — Information on potentially harmful or unacceptable effects
+
+1\. The holder of an authorisation for a plant protection product shall immediately notify the Member States that granted an authorisation of any new information concerning that plant protection product, the active substance, its metabolites, a safener, synergist or co-formulant contained in the plant protection product, which suggests that the plant protection product no longer complies with the criteria set out in Articles 29 and 4 respectively.
+
+In particular, potentially harmful effects of that plant protection product, or of residues of an active substance, its metabolites, a safener, synergist or co-formulant contained in it, on human or animal health or on groundwater, or their potentially unacceptable effects on plants or plant products or the environment shall be notified.
+
+To this end the authorisation holder shall record and report all suspected adverse reactions in humans, in animals and the environment related to the use of the plant protection product.
+
+The obligation to notify shall include relevant information on decisions or assessments by international organisations or by public bodies which authorise plant protection products or active substances in third countries.
+
+2\. The notification shall include an assessment of whether and how the new information would result in the plant protection product or the active substance, its metabolites, a safener, or synergist or co-formulant no longer complying with the requirements set out in Article 29 and Article 4 or Article 27, respectively.
+
+3\. Without prejudice to the right of Member States to adopt interim protective measures, the Member State which first granted an authorisation within each zone shall evaluate the information received and inform the other Member States, belonging to the same zone, where it decides to withdraw or amend the authorisation under Article 44.
+
+That Member State shall inform the other Member States and the Commission where it considers that the conditions of the approval of the active substance, safener or synergist contained in the plant protection product are no longer fulfilled or whether in the case of a co-formulant it has been considered unacceptable and propose that the approval be withdrawn or the conditions amended.
+
+4\. The holder of an authorisation for a plant protection product shall report annually to the competent authorities of the Member States which authorised his plant protection product if he has any information available relating to the lack of expected efficacy, the development of resistance and to any unexpected effect on plants, plant products or the environment.
+
+##### Article 57 — Obligation to keep information available
+
+1\. Member States shall keep information electronically available to the public on plant protection products authorised or withdrawn in accordance with this Regulation, containing at least:
+
+(a) the name or business name of the holder of the authorisation and the authorisation number;
+
+(b) the trade name of the product;
+
+(c) the type of preparation;
+
+(d) the name and amount of each active substance, safener or synergist which it contains;
+
+(e) the classification, risk and safety phrases in accordance to Directive 1999/45/EC and to the Regulation referred to in Article 65;
+
+(f) the use or uses for which it is authorised;
+
+(g) the reasons for withdrawal of an authorisation if they are related to safety concerns;
+
+(h) the list of minor uses referred to in Article 51(8).
+
+2\. The information referred to in paragraph 1 shall be readily accessible and updated at least once every 3 months.
+
+3\. In accordance with the regulatory procedure referred to in Article 79(3), an authorisation information system may be set up to facilitate the application of paragraphs 1 and 2 of this Article.
+
+## CHAPTER IV — ADJUVANTS
+
+##### Article 58 — Placing on the market and use of adjuvants
+
+1\. An adjuvant shall not be placed on the market or used unless it has been authorised in the Member State concerned in accordance with the conditions established in the Regulation referred to in paragraph 2.
+
+2\. Detailed rules for the authorisation of adjuvants, including data requirements, notification, evaluation, assessment and decision making procedures shall be set out in a Regulation to be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+3\. Article 81(3) shall apply.
+
+## CHAPTER V — DATA PROTECTION AND DATA SHARING
+
+##### Article 59 — Data protection
+
+1\. Test and study reports shall benefit from data protection under the conditions laid down in this Article.
+
+The protection shall apply to test and study reports concerning the active substance, safener or synergist, adjuvants and the plant protection product as referred to in Article 8(2) when they are submitted to a Member State by an applicant for authorisation under this Regulation, (the first applicant), provided that those test and study reports were:
+
+(a) necessary for the authorisation or an amendment of an authorisation in order to allow the use on another crop; and
+
+(b) certified as compliant with the principles of good laboratory practice or of good experimental practice.
+
+Where a report is protected, it may not be used by the Member State which received it for the benefit of other applicants for authorisation of plant protection products, safeners or synergists and adjuvants, except as provided in paragraph 2 of this Article, in Article 62 or in Article 80.
+
+The period of data protection is 10 years starting at the date of first authorisation in that Member State, except as provided in paragraph 2 of this Article or in Article 62. That period is extended to 13 years for plant protection products covered by Article 47.
+
+Those periods shall be extended by 3 months for each extension of authorisation for minor uses as defined in Article 51(1), except where the extension of authorisation is based on extrapolation, if the applications for such authorisations are made by the authorisation holder at the latest 5 years after the date of the first authorisation in that Member State. The total period of data protection may in no case exceed 13 years. For plant protection products covered by Article 47 the total period of data protection may in no case exceed 15 years.
+
+The same data protection rules as for the first authorisation shall also apply to test and study reports submitted by third parties for the purpose of extension of authorisation for minor uses as referred to in Article 51(1).
+
+A study shall also be protected if it was necessary for the renewal or review of an authorisation. The period for data protection shall be 30 months. The first to fourth subparagraphs shall apply mutatis mutandis.
+
+2\. Paragraph 1 shall not apply:
+
+(a) to test and study reports for which the applicant has submitted a letter of access; or
+
+(b) where any period of data protection granted for the test and study reports concerned in relation to another plant protection product has expired.
+
+3\. Data protection under paragraph 1 shall only be granted where the first applicant has claimed data protection for test and study reports concerning the active substance, safener or synergist, adjuvant and the plant protection product at the time of submitting the dossier and has provided to the Member State concerned for each test or study report the information referred to in point (f) of Article 8(1) and in point (d) of Article 33(3) as well as confirmation that a period of data protection has never been granted for the test or study report or that any period granted has not expired.
+
+##### Article 60 — List of test and study reports
+
+1\. For each active substance, safener and synergist and adjuvant, rapporteur Member States shall prepare a list of the test and study reports necessary for first approval, amendment of approval conditions or renewal of the approval and make it available to the Member States and the Commission.
+
+2\. For each plant protection product which they authorise, Member States shall keep and make available to any interested party upon request:
+
+(a) a list of the test and study reports concerning the active substance, safener or synergist, adjuvant and the plant protection product necessary for first authorisation, amendment of the authorisation conditions or renewal of the authorisation; and
+
+(b) a list of test and study reports for which the applicant claimed data protection under Article 59 and any reasons submitted in accordance with that Article.
+
+3\. The lists provided for in paragraphs 1 and 2 shall include information on whether those test and study reports were certified as compliant with the principles of good laboratory practice or of good experimental practice.
+
+##### Article 61 — General rules on avoidance of duplicative testing
+
+1\. In order to avoid duplicative testing, any persons intending to seek an authorisation for a plant protection product shall, before carrying out tests or studies, consult the information referred to in Article 57 to ascertain if and to whom an authorisation has already been granted for a plant protection product containing the same active substance, safener or synergist or for an adjuvant. The competent authority shall on request from the prospective applicant provide him with the list of test and study reports prepared in accordance with Article 60 for that product.
+
+The prospective applicant shall submit all data regarding the identity and impurities of the active substance he proposes to use. The enquiry shall be supported by evidence that the prospective applicant intends to apply for an authorisation.
+
+2\. The competent authority of the Member State, where satisfied that the prospective applicant intends to apply for an authorisation, or the renewal or review thereof, shall provide him with the name and address of the holder or holders of previous relevant authorisations and shall at the same time inform the holders of the authorisations of the name and address of the applicant.
+
+3\. The prospective applicant for the authorisation, or the renewal or review thereof, and the holder or holders of relevant authorisations shall take all reasonable steps to reach agreement on the sharing of any test and study reports protected under Article 59, in a fair, transparent and non-discriminatory way.
+
+##### Article 62 — Sharing of tests and studies involving vertebrate animals
+
+1\. Testing on vertebrate animals for the purposes of this Regulation shall be undertaken only where no other methods are available. Duplication of tests and studies on vertebrates undertaken for the purposes of this Regulation shall be avoided in accordance with paragraphs 2 to 6.
+
+2\. Member States shall not accept duplication of tests and studies on vertebrate animals or those initiated where conventional methods described in Annex II to Directive 1999/45/EC could reasonably have been used, in support of applications for authorisations. Any person intending to perform tests and studies involving vertebrate animals shall take the necessary measures to verify that those tests and studies have not already been performed or initiated.
+
+3\. The prospective applicant and the holder or holders of the relevant authorisations shall make every effort to ensure that they share tests and studies involving vertebrate animals. The costs of sharing the test and study reports shall be determined in a fair, transparent and non-discriminatory way. The prospective applicant is only required to share in the costs of information he is required to submit to meet the authorisation requirements.
+
+4\. Where the prospective applicant and the holder or holders of the relevant authorisations of plant protection products containing the same active substance, safener or synergist, or of adjuvants cannot reach agreement on the sharing of test and study reports involving vertebrate animals, the prospective applicant shall inform the competent authority of the Member State referred to in Article 61(1).
+
+The failure to reach agreement, as provided in paragraph 3, shall not prevent the competent authority of that Member State from using the test and study reports involving vertebrate animals for the purpose of the application of the prospective applicant.
+
+5\. By 14 December 2016, the Commission shall report on the effects of the provisions in this Regulation concerning data protection of tests and studies involving vertebrate animals. The Commission shall submit this report to the European Parliament and the Council accompanied, if necessary, by an appropriate legislative proposal.
+
+6\. The holder or holders of the relevant authorisation shall have a claim on the prospective applicant for a fair share of the costs incurred by him. The competent authority of the Member State may direct the parties involved to resolve the matter by formal and binding arbitration administered under national law. Otherwise the parties may resolve the matter through litigation in the courts of the Member States. Awards from arbitration or litigation shall have regard to the principles determined in paragraph 3 and shall be enforceable in the courts of the Member States.
+
+## CHAPTER VI — PUBLIC ACCESS TO INFORMATION
+
+##### Article 63 — Confidentiality
+
+1\. An applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification.
+
+2\. Confidential treatment may be granted only with respect to the following items of information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+
+(a) information referred to in Article 39(2) of Regulation (EC) No 178/2002;
+
+(b) the specification of impurity of the active substance and the related methods of analysis for impurities in the active substance as manufactured, except for the impurities that are considered to be toxicologically, ecotoxicologically or environmentally relevant and the related methods of analysis for such impurities;
+
+(c) results of production batches of the active substance including impurities; and
+
+(d) information on the complete composition of a plant protection product.
+
+2a. Where the Authority assesses confidentiality requests under this Regulation, the conditions and the procedures laid down in Articles 39 to 39e of Regulation (EC) No 178/2002 and paragraph 2 of this Article shall apply.
+
+2b. Where Member States assess confidentiality requests under this Regulation, the following requirements and procedures apply:
+
+(a) confidentiality treatment may only be granted with respect to information listed in paragraph 2;
+
+(b) where the Member State has decided which information is to be treated as confidential, it shall inform the applicant of its decision;
+
+(c) Member States, the Commission and the Authority shall take the necessary measures so that information for which confidential treatment has been granted is not made public;
+
+(d) Article 39e of Regulation (EC) No 178/2002 shall apply mutatis mutandis;
+
+(e) notwithstanding paragraph 2 and points (c) and (d) of this paragraph:
+
+(i) where urgent action is essential to protect human health, animal health or the environment, such as in emergency situations, the Member State may disclose the information referred to in paragraph 2;
+
+(ii) information which forms part of the conclusions of the scientific outputs delivered by the Authority and which relate to foreseeable effects on human health, animal health or the environment shall nevertheless be made public. In that case, Article 39c of Regulation (EC) No 178/2002 shall apply;
+
+(f) if the applicant withdraws or has withdrawn an application, Member States, the Commission and the Authority shall respect the confidentiality as granted in accordance with this Article. Where the withdrawal of the application takes place before the Member State has decided on the relevant confidentiality request, Member States, the Commission and the Authority shall not make public the information for which confidentiality has been requested.
+
+3\. This Article is without prejudice to Directive 2003/4/EC ( 4 ) and Regulations (EC) No 1049/2001 ( 5 ) and (EC) No 1367/2006 ( 6 ) of the European Parliament and of the Council.
+
+## CHAPTER VII — PACKAGING, LABELLING AND ADVERTISING OF PLANT PROTECTION PRODUCTS AND ADJUVANTS
+
+##### Article 64 — Packaging and presentation
+
+1\. Plant protection products and adjuvants that may be mistaken for food, drink or feed shall be packaged in such a way as to minimise the likelihood of such a mistake being made.
+
+2\. Plant protection products and adjuvants available to the general public that may be mistaken for food, drink or feed shall contain components to discourage or prevent their consumption.
+
+3\. Article 9 of Directive 1999/45/EC shall also apply to plant protection products and adjuvants not covered by that Directive.
+
+##### Article 65 — Labelling
+
+1\. The labelling of plant protection products shall include the classification, labelling and packaging requirements of Directive 1999/45/EC and shall comply with the requirements set out in a Regulation adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+That Regulation shall also contain standard phrases for special risks and safety precautions which supplement the phrases provided for by Directive 1999/45/EC. It shall incorporate the text of Article 16 of and the text of the Annexes IV and V to Directive 91/414/EEC with any necessary modifications.
+
+2\. Member States may require samples or mock-ups of the packaging and drafts of labels and leaflets to be submitted before the authorisation is granted.
+
+3\. Where a Member State considers that additional phrases are necessary to protect human or animal health or the environment, it shall notify the other Member States and the Commission forthwith and shall forward the additional phrase or phrases and the reasons for these requirements.
+
+Such phrases shall be considered for inclusion in the Regulation referred to in paragraph 1.
+
+Pending that inclusion, the Member State may require the use of the additional phrase or phrases.
+
+##### Article 66 — Advertising
+
+1\. Plant protection products which are not authorised shall not be advertised. Every advertisement for a plant protection product shall be accompanied by the sentences ‘Use plant protection products safely. Always read the label and product information before use’. These sentences shall be easily legible and clearly distinguishable in relation to the whole advertisement. The words ‘plant protection products’ may be replaced by a more precise description of the product-type, such as fungicide, insecticide or herbicide.
+
+2\. The advertisement shall not include information in text or graphic form which could be misleading as regards possible risks to human or animal health or to the environment, such as the terms ‘low risk’, ‘non-toxic’ or ‘harmless’.
+
+Only in the case of low-risk plant protection products shall the term ‘authorised as low-risk plant protection product in accordance with Regulation (EC) No 1107/2009’ be allowed in the advertisement. It cannot be used as a claim on the label of the plant protection product.
+
+3\. Member States may prohibit or restrict the advertising of plant protection products in certain media, subject to Community law.
+
+4\. All statements used in advertising shall be technically justifiable.
+
+5\. Advertisements shall not contain any visual representation of potentially dangerous practices, such as mixing or application without sufficient protective clothing, nor any use near food or use by or in the vicinity of children.
+
+6\. Advertising or promotional material shall draw attention to the appropriate warning phrases and symbols as laid down in the labelling.
+
+## CHAPTER VIII — CONTROLS
+
+##### Article 67 — Record-keeping
+
+1\. Producers, suppliers, distributors, importers, and exporters of plant protection products shall keep records of the plant protection products they produce, import, export, store or place on the market for at least 5 years. Professional users of plant protection products shall, for at least 3 years, keep records of the plant protection products they use, containing the name of the plant protection product, the time and the dose of application, the area and the crop where the plant protection product was used.
+
+They shall make the relevant information contained in these records available to the competent authority on request. Third parties such as the drinking water industry, retailers or residents, may request access to this information by addressing the competent authority.
+
+The competent authorities shall provide access to such information in accordance with applicable national or Community law.
+
+By 14 December 2012, the Commission shall present a report to the European Parliament and the Council on the costs and benefits of the traceability of information from users to retailers concerning the applications of plant protection products on agricultural products, accompanied, if necessary, by appropriate legislative proposals.
+
+2\. Producers of plant protection products shall undertake post-authorisation monitoring on the request of the competent authorities. They shall notify the competent authorities of the relevant results.
+
+3\. Authorisation holders shall provide the competent authorities of the Member States with all data relating to the volume of sales of plant protection products in accordance with Community legislation concerning statistics on plant protection products.
+
+4\. Implementing measures to ensure the uniform application of paragraphs 1, 2 and 3 may be adopted in accordance with the regulatory procedure referred to in Article 79(3).
+
+##### Article 68 — Monitoring and controls
+
+Member States shall submit to the Commission by 31 August each year a report, for the previous year, on the scope and the outcome of the official controls performed in order to verify compliance with this Regulation.
+
+## CHAPTER IX — EMERGENCIES
+
+##### Article 69 — Emergency measures
+
+Where it is clear that an approved active substance, safener, synergist or co-formulant or a plant protection product which has been authorised in accordance with this Regulation is likely to constitute a serious risk to human or animal health or the environment, and that such risk cannot be contained satisfactorily by means of measures taken by the Member State(s) concerned, measures to restrict or prohibit the use and/or sale of that substance or product shall be taken immediately in accordance with the regulatory procedure referred to in Article 79(3), either at the own initiative of the Commission or at the request of a Member State. Before taking such measures the Commission shall examine the evidence and may request an opinion from the Authority. The Commission may set a time limit within which such an opinion shall be provided.
+
+##### Article 70 — Emergency measures in cases of extreme urgency
+
+By way of derogation from Article 69, the Commission may in cases of extreme urgency provisionally adopt emergency measures after consulting the Member State or Member States concerned and informing the other Member States.
+
+As soon as possible, and at the latest after 10 working days, those measures shall be confirmed, amended, revoked or extended in accordance with the regulatory procedure referred to in Article 79(3).
+
+##### Article 71 — Other emergency measures
+
+1\. Where a Member State officially informs the Commission of the need to take emergency measures, and no action has been taken in accordance with Article 69 or 70, the Member State may adopt interim protective measures. In this event, it shall immediately inform the other Member States and the Commission.
+
+2\. Within 30 working days, the Commission shall put the matter before the Committee referred to in Article 79(1) in accordance with the regulatory procedure referred to in Article 79(3) with a view to the extension, amendment or repeal of the national interim protective measure.
+
+3\. The Member State may maintain its national interim protective measures until Community measures have been adopted.
+
+## CHAPTER X — ADMINISTRATIVE AND FINANCIAL PROVISIONS
+
+##### Article 72 — Penalties
+
+The Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take the measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+The Member States shall notify those rules and any subsequent amendment to the Commission without delay.
+
+##### Article 73 — Civil and criminal liability
+
+The granting of authorisation and any other measures in conformity with this Regulation shall be without prejudice to general civil and criminal liability in the Member States of the producer and, where applicable, of the person responsible for placing the plant protection product on the market or using it.
+
+##### Article 74 — Fees and charges
+
+1\. Member States may recover the costs associated with any work they carry out within the scope of this Regulation, by means of fees or charges.
+
+2\. Member States shall ensure that the fees or charges referred to in paragraph 1:
+
+(a) are established in a transparent manner; and
+
+(b) correspond to the actual total cost of the work involved except if it is in public interest to lower the fees or charges.
+
+The fees or charges may include a scale of fixed charges based on average costs for the work referred to in paragraph 1.
+
+##### Article 75 — Competent authority
+
+1\. Each Member State shall designate a competent authority or authorities to carry out the obligations of the Member States laid down in this Regulation.
+
+2\. Each Member State shall designate a coordinating national authority to coordinate and ensure all the necessary contacts with applicants, other Member States, the Commission and the Authority.
+
+3\. Member States shall ensure that competent authorities have a sufficient number of suitably qualified and experienced staff so that the obligations laid down in this Regulation shall be carried out efficiently and effectively.
+
+4\. Each Member State shall give the details concerning its national competent authority or authorities to the Commission, the Authority and the coordinating national authorities of the other Member States and inform them of any modifications thereof.
+
+5\. The Commission shall publish and keep updated on its website a list of the authorities referred to in paragraphs 1 and 2.
+
+##### Article 77 — Guidance documents
+
+The Commission may, in accordance with the advisory procedure referred to in Article 79(2), adopt or amend technical and other guidance documents such as explanatory notes or guidance documents on the content of the application concerning micro-organisms, pheromones and biological products, for the implementation of this Regulation. The Commission may ask the Authority to prepare or to contribute to such guidance documents.
+
+##### Article 78 — Amendments and implementing measures
+
+1\. The following measures designed to amend non-essential elements of this Regulation, inter alia, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4):
+
+(a) amendments to the Annexes, taking into account current scientific and technical knowledge;
+
+(b) amendments to the Regulations on data requirements for active substances and for plant protection products, as referred to in points (b) and (c) of Article 8(1), taking into account current scientific and technical knowledge;
+
+(c) amendments to the Regulation on uniform principles for evaluation and authorisation of plant protection products, as referred to in Article 29(6), taking into account current scientific and technical knowledge;
+
+(d) a Regulation postponing the expiry of the approval period referred to in the second subparagraph of Article 17;
+
+(e) a Regulation on data requirements for safeners and synergists referred to in Article 25(3);
+
+(f) a Regulation establishing a work programme for safeners and synergists referred to in Article 26;
+
+(g) adoption of the harmonised methods referred to in Article 29(4);
+
+(h) inclusion of co-formulants in Annex III, as referred to in Article 27(2);
+
+(i) extension of the date of application of this Regulation to provisional authorisations, as referred to in Article 30(3);
+
+(j) information requirements for parallel trade, as referred to in Article 52(4);
+
+(k) rules for the application of Article 54, in particular the maximum quantities of plant protection products to be released;
+
+(l) detailed rules for adjuvants, as referred to in Article 58(2);
+
+(m) a Regulation containing the requirements of the labelling of plant protection products, as referred to in Article 65(1).
+
+2\. Any further measures necessary for the implementation of this Regulation may be adopted in accordance with the regulatory procedure referred to in Article 79(3).
+
+3\. In accordance with the advisory procedure referred to in Article 79(2), a Regulation shall be adopted containing the list of active substances included in Annex I to Directive 91/414/EEC. Those substances shall be deemed to have been approved under this Regulation.
+
+##### Article 79 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health, as established by Article 58 of Regulation (EC) No 178/2002.
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at 3 months.
+
+4\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+5\. Where reference is made to this paragraph, Article 5a(1) to (4) and (5)(b) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time limits laid down in Article 5a(3)(c) and (4)(b) and (e) of Decision 1999/468/EC shall be set at two months, one month and two months respectively.
+
+## CHAPTER XI — TRANSITIONAL AND FINAL PROVISIONS
+
+##### Article 80 — Transitional measures
+
+1\. Directive 91/414/EEC shall continue to apply, with respect to the procedure and the conditions for approval:
+
+(a) to active substances for which a decision has been adopted in accordance with Article 6(3) of Directive 91/414/EEC before 14 June 2011;
+
+(b) to active substances listed in Annex I to Regulation (EC) No 737/2007 ( 7 );
+
+(c) to active substances for which completeness has been established in accordance with Article 16 of Regulation (EC) No 33/2008 ( 8 );
+
+(d) to active substances for which completeness has been established in accordance with Article 6 of Regulation (EC) No 33/2008 before 14 June 2011.
+
+On the basis of the examination carried out under Directive 91/414/EEC, a Regulation on the approval of such a substance shall be adopted in accordance with Article 13(2) of this Regulation. For active substances referred to in point (b) of this paragraph that approval shall not be considered as the renewal of approval referred to in Article 14 of this Regulation.
+
+2\. Article 13(1) to (4) and Annexes II and III to Directive 91/414/EEC shall continue to apply with respect to active substances included in Annex I to that Directive and to active substances approved in accordance with paragraph 1 of this Article:
+
+(a) for a period of five years from the date of their inclusion or approval, for active substances covered by Article 8(2) of Directive 91/414/EEC;
+
+(b) for a period of 10 years from the date of their inclusion or approval, for active substances which were not on the market on 26 July 1993;
+
+(c) for a period of five years from the date of the renewal of the inclusion or renewal of the approval, for active substances whose inclusion in Annex I to Directive 91/414/EEC expires by 24 November 2011. This provision shall only apply to data necessary for the renewal of the approval and which were certified as compliant with the principles of good laboratory practice by that date.
+
+3\. Where Article 13 of Directive 91/414/EEC applies by virtue of paragraph 1 or paragraph 2 of this Article, it shall be subject to any special rules concerning Directive 91/414/EEC laid down in the Act of Accession by which a Member State joined the Community.
+
+4\. For active substances for which the first approval expires by 14 December 2012, the application provided for in Article 14 shall be submitted by a producer of the active substance to a Member State, with a copy to the other Member States, the Commission and the Authority, no later than two years before the expiry of the first approval.
+
+5\. Applications for authorisations of plant protection products:
+
+(a) under Article 4 of Directive 91/414/EEC which are pending in the Member States; or
+
+(b) which are due to be amended or withdrawn following an inclusion in Annex I to Directive 91/414/EEC or following an approval in accordance with paragraph 1 of this Article;
+
+on 14 June 2011 shall be decided on the basis of national law in force before that date.
+
+After that decision, this Regulation shall apply.
+
+6\. Products labelled in accordance with Article 16 of Directive 91/414/EEC may continue to be placed on the market until 14 June 2015.
+
+7\. By 14 December 2013, the Commission shall establish a list of substances included in Annex I to Directive 91/414/EEC which satisfy the criteria set out in point 4 of Annex II to this Regulation and to which the provisions of Article 50 of this Regulation shall apply.
+
+8\. To a product which was granted an authorisation under Article 32(1) based on an application submitted before 15 July 2019, and which after that date falls under the definition in point 34 of Article 3, this Regulation shall continue to apply for the duration provided in the authorisation.
+
+##### Article 81 — Derogation for safeners and synergists, co-formulants and adjuvants
+
+1\. By way of derogation from Article 28(1), a Member State may, for a period of 5 years following the adoption of the programme referred to in Article 26, authorise the placing on the market in its territory of plant protection products containing safeners and synergists, which have not been approved, where they are included in that programme.
+
+2\. By way of derogation from Article 27 and without prejudice to Community law, Member States may apply national provisions for co-formulants not included in Annex III until 14 June 2016.
+
+Where, after 14 June 2016, a Member State has serious grounds for considering that a co-formulant not included in Annex III is likely to constitute a serious risk to human or animal health or the environment, it may temporarily prohibit or restrict the application of a co-formulant in question within its territory. It shall immediately inform the other Member States and the Commission thereof and give reasons for its decision. Article 71 shall apply.
+
+3\. By way of derogation from Article 58(1) Member States may apply national provisions for authorisation of adjuvants until the adoption of detailed rules referred to in Article 58(2).
+
+##### Article 82 — Review clause
+
+By 14 December 2014, the Commission shall present a report to the European Parliament and the Council on the functioning of mutual recognition of authorisations and in particular on the application by the Member States of the provisions referred to in Article 36(3) and Article 50(2), the division of the Community into three zones and on the application of the criteria for the approval of active substances, safeners and synergists as set out in Annex II and the impact thereof on the diversification and competitiveness of agriculture as well as on human health and on the environment. The report may be accompanied, if necessary, by the appropriate legislative proposals to amend those provisions.
+
+##### Article 83 — Repeal
+
+Without prejudice to Article 80, Directives 79/117/EEC and 91/414/EEC, as amended by the acts listed in Annex V, are repealed with effect from 14 June 2011, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in that Annex.
+
+References to the repealed Directives shall be construed as references to this Regulation. In particular, references in other Community legislation, such as Regulation (EC) No 1782/2003, to Article 3 of Directive 91/414/EEC shall be construed as references to Article 55 of this Regulation.
+
+##### Article 84 — Entry into force and application
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+By 14 June 2011, the Commission shall adopt the following:
+
+(a) a Regulation containing the list of the active substances already approved at the moment of adoption of that Regulation;
+
+(b) a Regulation on data requirements for active substances, as referred to in Article 8(1)(b);
+
+(c) a Regulation on data requirements for plant protection products, as referred to in Article 8(1)(c);
+
+(d) a Regulation on uniform principles for risk assessment for plant protection products, as referred to in Article 36;
+
+(e) a Regulation containing the requirements of the labelling of plant protection products, as referred to in Article 65(1).
+
+This Regulation shall apply from 14 June 2011.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+Definition of zones for the authorisation of plant protection products as referred to in Article 3(17)
+
+**Zone A — North**
+
+The following Member States belong to this zone:
+
+Denmark, Estonia, Latvia, Lithuania, Finland, Sweden
+
+**Zone B — Centre**
+
+The following Member States belong to this zone:
+
+Belgium, Czech Republic, Germany, Ireland, Luxembourg, Hungary, Netherlands, Austria, Poland, Romania, Slovenia, Slovakia, United Kingdom
+
+**Zone C — South**
+
+The following Member States belong to this zone:
+
+Bulgaria, Greece, Spain, France, Croatia, Italy, Cyprus, Malta, Portugal
+
+## ANNEX II
+
+**Procedure and criteria for the approval of active substances, safeners and synergists pursuant to Chapter II**
+
+**1\. Evaluation**
+
+1.1. During the process of evaluation and decision-making provided for in Articles 4 to 21, the rapporteur Member State and the Authority shall cooperate with applicants to resolve any questions on the dossier quickly or to identify at an early stage any further explanations or additional studies necessary for the evaluation of the dossier, including information to eliminate the need for a restriction of the approval, or to amend any proposed conditions for the use of the plant protection product or to modify its nature or its composition in order to ensure full satisfaction of the requirements of this Regulation.
+
+1.2. The evaluation by the Authority and the rapporteur Member State must be based on scientific principles and be made with the benefit of expert advice.
+
+1.3. During the process of evaluation and decision-making provided for in Articles 4 to 21, Member States and the Authority shall take into consideration any further guidance developed in the framework of the Standing Committee on the Food Chain and Animal Health for the purposes of refining, where relevant, the risk assessments.
+
+**2\. General decision-making criteria**
+
+2.1. Article 4 shall only be considered as complied with, where, on the basis of the dossier submitted, authorisation in at least one Member State is expected to be possible for at least one plant protection product containing that active substance for at least one of the representative uses.
+
+2.2. Submission of further information
+
+In principle an active substance, safener or synergist shall only be approved where a complete dossier is submitted.
+
+In exceptional cases an active substance, safener or synergist may be approved even though certain information is still to be submitted where:
+
+(a) the data requirements have been amended or refined after the submission of the dossier; or
+
+(b) the information is considered to be confirmatory in nature, as required to increase confidence in the decision.
+
+2.3. Restrictions on approval
+
+Where necessary, the approval may be subject to conditions and restrictions as referred to in Article 6.
+
+Where the rapporteur Member State considers that the dossier provided lacks certain information, to the effect that the active substance could only be approved subject to restrictions, it shall contact the applicant at an early stage to obtain more information which may possibly enable these restrictions to be removed.
+
+**3\. Criteria for the approval of an active substance**
+
+**3.1. Dossier**
+
+The dossiers submitted pursuant to Article 7(1) shall contain the information needed to establish, where relevant, Acceptable Daily Intake (ADI), Acceptable Operator Exposure Level (AOEL) and Acute Reference Dose (ARfD).
+
+In the case of an active substance, safener or synergist for which one or more representative uses includes use on feed or food crops or leads indirectly to residues in food or feed, the dossier submitted pursuant to Article 7(1) shall contain the information necessary to carry out a risk assessment and for enforcement purposes.
+
+The dossier shall in particular:
+
+(a) permit any residue of concern to be defined;
+
+(b) reliably predict the residues in food and feed, including succeeding crops, on the basis of information provided in accordance with the data requirements for active substances;
+
+(c) reliably predict, where relevant, the corresponding residue level reflecting the effects of processing and/or mixing;
+
+(d) permit a maximum residue level to be defined and to be determined by appropriate methods in general use for the commodity and, where appropriate, for products of animal origin where the commodity or parts of it is fed to animals;
+
+(e) permit, where relevant, concentration or dilution factors due to processing and/or mixing to be defined.
+
+The dossier submitted pursuant to Article 7(1) shall be sufficient to permit, where relevant, an estimate of the fate and distribution of the active substance in the environment, and its impact on non-target species.
+
+**3.2. Efficacy**
+
+An active substance alone or associated with a safener or synergist shall only be approved where it has been established for one or more representative uses that the plant protection product, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use is sufficiently effective. This requirement shall be evaluated in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).
+
+**3.3. Relevance of metabolites**
+
+Where applicable the documentation submitted shall be sufficient to permit the establishment of the toxicological, ecotoxicological or environmental relevance of metabolites.
+
+**3.4. Composition of the active substance, safener or synergist**
+
+3.4.1. For chemical active substances, safeners and synergists, the specification shall define the minimum degree of purity, the identity and maximum content of impurities and, where relevant, of isomers/diastereo-isomers and additives, and the content of impurities of toxicological, ecotoxicological or environmental concern within acceptable limits.
+
+3.4.2. For chemical active substances, safeners and synergists, the specification shall be in compliance with the relevant Food and Agriculture Organisation specification as appropriate, where such specification exists. However, where necessary for reasons of protection of human or animal health or the environment, stricter specifications may be adopted.
+
+3.4.3. Active substances that are micro-organisms shall be deposited at an internationally recognised culture collection and shall have an accession number. The species’ name of the micro-organisms shall be identified unequivocally, based on the latest scientific information, and the micro-organisms shall be named at the strain level, including any other designation which may be relevant (e.g. isolate level, if relevant for viruses). It shall be indicated whether or not the micro-organisms are wild types, spontaneous or induced mutants, or genetically modified organisms.
+
+3.4.4. For active substances that are micro-organisms, the specification shall define the minimum and maximum content of the micro-organism, the identity and content of relevant contaminating micro-organisms, metabolites of concern and impurities of toxicological, ecotoxicological or environmental concern within acceptable limits.
+
+**3.5. Methods of analysis**
+
+3.5.1. The methods of analysis of chemical active substances, safeners or synergists as manufactured and of determination of impurities of toxicological, ecotoxicological or environmental concern or which are present in quantities greater than 1 g/kg in the active substance, safener or synergist as manufactured, shall have been validated and shown to be sufficiently specific, correctly calibrated, accurate and precise.
+
+3.5.2. The methods of residue analysis for chemical active substances and relevant metabolites in plant, animal and environmental matrices and drinking water, as appropriate, shall have been validated and shown to be sufficiently sensitive with respect to the levels of concern.
+
+3.5.3. The evaluation shall have been carried out in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).
+
+3.5.4. For active substances that are micro-organisms, the methods of analysis to identify and quantify them, and relevant contaminating micro-organisms, shall have been validated and shown to be sufficiently specific, correctly calibrated, accurate and precise.
+
+3.5.5. For active substances that are micro-organisms, the methods of analysis of metabolites of concern and relevant impurities shall have been validated and shown to be sufficiently specific, correctly calibrated, accurate and precise.
+
+**3.6. Impact on human health**
+
+3.6.1. Where relevant, an ADI, AOEL and ARfD shall be established. When establishing such values an appropriate safety margin of at least 100 shall be ensured taking into account the type and severity of effects and the vulnerability of specific groups of the population. When the critical effect is judged of particular significance, such as developmental neurotoxic or immunotoxic effects, an increased margin of safety shall be considered, and applied if necessary.
+
+3.6.2. An active substance, safener or synergist shall only be approved if, on the basis of assessment of higher tier genotoxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as mutagen category 1A or 1B.
+
+3.6.3. An active substance, safener or synergist shall only be approved, if, on the basis of assessment of carcinogenicity testing carried out in accordance with the data requirements for the active substances, safener or synergist and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with Article 18(1)(b) of Regulation (EC) No 396/2005.
+
+3.6.4. An active substance, safener or synergist shall only be approved if, on the basis of assessment of reproductive toxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.
+
+3.6.5. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not considered to have endocrine disrupting properties that may cause adverse effect in humans, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.
+
+By 14 December 2013, the Commission shall present to the Standing Committee on the Food Chain and Animal Health a draft of the measures concerning specific scientific criteria for the determination of endocrine disrupting properties to be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).
+
+Pending the adoption of these criteria, substances that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogenic category 2 and toxic for reproduction category 2, shall be considered to have endocrine disrupting properties.
+
+In addition, substances such as those that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 2 and which have toxic effects on the endocrine organs, may be considered to have such endocrine disrupting properties.
+
+From 10 November 2018  , an active substance, safener or synergist shall be considered as having endocrine disrupting properties that may cause adverse effect in humans if, based on points (1) to (4) of the sixth paragraph, it is a substance that meets all of the following criteria, unless there is evidence demonstrating that the adverse effects identified are not relevant to humans:
+
+(1) it shows an adverse effect in an intact organism or its progeny, which is a change in the morphology, physiology, growth, development, reproduction or life span of an organism, system or (sub)population that results in an impairment of functional capacity, an impairment of the capacity to compensate for additional stress or an increase in susceptibility to other influences;
+
+(2) it has an endocrine mode of action, i.e. it alters the function(s) of the endocrine system;
+
+(3) the adverse effect is a consequence of the endocrine mode of action.
+
+The identification of an active substance, safener or synergist as having endocrine disrupting properties that may cause adverse effect in humans in accordance with the fifth paragraph shall be based on all of the following points:
+
+(1) all available relevant scientific data (in vivo studies or adequately validated alternative test systems predictive of adverse effects in humans or animals; as well as in vivo, in vitro, or, if applicable, in silico studies informing about endocrine modes of action):
+
+(a) scientific data generated in accordance with internationally agreed study protocols, in particular those listed in the Commission Communications in the framework of setting out the data requirements for active substances and plant protection products, in accordance with this Regulation;
+
+(b) other scientific data selected applying a systematic review methodology, in particular following guidance on literature data which is listed in the Commission Communications in the framework of setting out the data requirements for active substances and plant protection products, in accordance with this Regulation;
+
+(2) an assessment of the available relevant scientific data based on a weight of evidence approach in order to establish whether the criteria set out in the fifth paragraph are fulfilled; in applying the weight of evidence determination, the assessment of the scientific evidence shall, in particular, consider all of the following factors:
+
+(a) both positive and negative results;
+
+(b) the relevance of the study designs, for the assessment of adverse effects and of the endocrine mode of action;
+
+(c) the quality and consistency of the data, considering the pattern and coherence of the results within and between studies of a similar design and across different species;
+
+(d) the route of exposure, toxicokinetic and metabolism studies;
+
+(e) the concept of the limit dose, and international guidelines on maximum recommended doses and for assessing confounding effects of excessive toxicity;
+
+(3) using a weight of evidence approach, the link between the adverse effect(s) and the endocrine mode of action shall be established based on biological plausibility, which shall be determined in the light of current scientific knowledge and under consideration of internationally agreed guidelines;
+
+(4) adverse effects that are non-specific secondary consequences of other toxic effects shall not be considered for the identification of the substance as endocrine disruptor.
+
+3.6.6. Active substances that are micro-organisms shall only be approved if, on the basis of the assessment carried out on the information provided in accordance with the data requirements, it is concluded that the strain of the micro-organism is not pathogenic to humans.
+
+In addition:
+
+(a) viruses shall only be approved if, on the basis of the assessment carried out on the information provided in accordance with the data requirements, it is concluded that the isolate of the virus is not infective to humans;
+
+(b) strains of bacteria shall only be approved if, on the basis of the assessment carried out on the information provided in accordance with the data requirements, it is concluded that they do not have any known, functional and transferable gene coding for resistance to relevant antimicrobial agents as defined in accordance with the data requirements.
+
+**3.7. Fate and behaviour in the environment**
+
+3.7.1. An active substance, safener or synergist shall only be approved where it is not considered to be a persistent organic pollutant (POP).
+
+A substance that fulfils all three of the criteria of the points below is a POP.
+
+3.7.1.1. Persistence
+
+An active substance, safener or synergist fulfils the persistence criterion where there is evidence that the time it takes for a degradation of 50 % (DT50) in water is greater than 2 months, or that its DT50 in soil is greater than 6 months, or that its DT50 in sediment is greater than 6 months.
+
+3.7.1.2. Bioaccumulation
+
+An active substance, safener or synergist fulfils the bioaccumulation criterion where there is:
+
+— evidence that its bio-concentration factor or bioaccumulation factor in aquatic species is greater than 5 000 or, in the absence of such data, that the partition coefficient n-octanol/water (log Ko/w) is greater than 5, or
+
+— evidence that the active substance, safener or synergist present other reasons for concern, such as high bioaccumulation in other non-target species, high toxicity or ecotoxicity.
+
+3.7.1.3. Potential for long-range environmental transport:
+
+An active substance, safener or synergist fulfils the potential for long-range environmental transport criterion where:
+
+— measured levels of the active substance, safener or synergist in locations distant from the sources of its release are of potential concern,
+
+— monitoring data show that long-range environmental transport of the active substance, safener or synergist, with the potential for transfer to a receiving environment, may have occurred via air, water or migratory species, or
+
+— environmental fate properties and/or model results demonstrate that the active substance, safener or synergist has a potential for long-range environmental transport through air, water or migratory species, with the potential for transfer to a receiving environment in locations distant from the sources of its release. For an active substance safener or synergist that migrates significantly through the air, its DT50 in air is to be greater than 2 days.
+
+3.7.2. An active substance, safener or synergist shall only be approved if it is not considered to be a persistent, bioaccumulative and toxic (PBT) substance.
+
+A substance that fulfils all three of the criteria of the points below is a PBT substance.
+
+3.7.2.1. Persistence
+
+An active substance, safener or synergist fulfils the persistence criterion where:
+
+— the half-life in marine water is higher than 60 days,
+
+— the half-life in fresh or estuarine water is higher than 40 days,
+
+— the half-life in marine sediment is higher than 180 days,
+
+— the half-life in fresh or estuarine water sediment is higher than 120 days, or
+
+— the half-life in soil is higher than 120 days.
+
+Assessment of persistency in the environment shall be based on available half-life data collected under appropriate conditions, which shall be described by the applicant.
+
+3.7.2.2. Bioaccumulation
+
+An active substance, safener or synergist fulfils the bioaccumulation criterion where the bioconcentration factor is higher than 2 000 .
+
+Assessment of bioaccumulation shall be based on measured data on bioconcentration in aquatic species. Data from both freshwater and marine water species can be used.
+
+3.7.2.3. Toxicity
+
+An active substance, safener or synergist fulfils the toxicity criterion where:
+
+— the long-term no-observed effect concentration for marine or freshwater organisms is less than 0,01 mg/l,
+
+— the substance is classified as carcinogenic (category 1A or 1B), mutagenic (category 1A or 1B), or toxic for reproduction (category 1A, 1B or 2) pursuant to Regulation (EC) No 1272/2008, or
+
+— there is other evidence of chronic toxicity, as identified by the classifications STOT RE 1 or STOT RE 2 pursuant to Regulation (EC) No 1272/2008.
+
+3.7.3. An active substance, safener or synergist shall only be approved if it is not considered to be a very persistent and very bioaccumulative substance (vPvB).
+
+A substance that fulfils both of the criteria of the points below is a vPvB substance.
+
+3.7.3.1. Persistence
+
+An active substance, safener or synergist fulfils the ‘very persistent’ criterion where:
+
+— the half-life in marine, fresh- or estuarine water is higher than 60 days,
+
+— the half-life in marine, fresh- or estuarine water sediment is higher than 180 days, or
+
+— the half-life in soil is higher than 180 days.
+
+3.7.3.2. Bioaccumulation
+
+An active substance, safener or synergist fulfils the ‘very bioaccumulative’ criterion where the bioconcentration factor is greater than 5 000 .
+
+**3.8. Ecotoxicology**
+
+3.8.1. An active substance, safener or synergist shall only be approved if the risk assessment demonstrates risks to be acceptable in accordance with the criteria laid down in the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6) under realistic proposed conditions of use of a plant protection product containing the active substance, safener or synergist. The assessment must take into account the severity of effects, the uncertainty of the data, and the number of organism groups which the active substance, safener or synergist is expected to affect adversely by the intended use.
+
+3.8.2. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines, it is not considered to have endocrine disrupting properties that may cause adverse effects on non-target organisms unless the exposure of non-target organisms to that active substance in a plant protection product under realistic proposed conditions of use is negligible.
+
+From 10 November 2018  , an active substance, safener or synergist shall be considered as having endocrine disrupting properties that may cause adverse effects on non-target organisms if, based on points (1) to (4) of the third paragraph, it is a substance that meets all of the following criteria, unless there is evidence demonstrating that the adverse effects identified are not relevant at the (sub)population level for non-target organisms:
+
+(1) it shows an adverse effect in non-target organisms, which is a change in the morphology, physiology, growth, development, reproduction or life span of an organism, system or (sub)population that results in an impairment of functional capacity, an impairment of the capacity to compensate for additional stress or an increase in susceptibility to other influences;
+
+(2) it has an endocrine mode of action, i.e. it alters the function(s) of the endocrine system;
+
+(3) the adverse effect is a consequence of the endocrine mode of action.
+
+The identification of an active substance, safener or synergist as having endocrine disrupting properties that may cause adverse effects on non-target organisms in accordance with the second paragraph shall be based on all of the following points:
+
+(1) all available relevant scientific data (in vivo studies or adequately validated alternative test systems predictive of adverse effects in humans or animals; as well as in vivo, in vitro, or, if applicable, in silico studies informing about endocrine modes of action):
+
+(a) scientific data generated in accordance with internationally agreed study protocols, in particular, those listed in the Commission Communications in the framework of setting out the data requirements for active substances and plant protection products, in accordance with this Regulation;
+
+(b) other scientific data selected applying a systematic review methodology, in particular following guidance on literature data listed in the Commission Communications in the framework of setting out the data requirements for active substances and plant protection products, in accordance with this Regulation;
+
+(2) an assessment of the available relevant scientific data based on a weight of evidence approach in order to establish whether the criteria set out in the second paragraph are fulfilled; in applying the weight of evidence determination, the assessment of the scientific evidence shall consider all of the following factors:
+
+(a) both positive and negative results, discriminating between taxonomic groups (e.g. mammals, birds, fish, amphibians) where relevant;
+
+(b) the relevance of the study design for the assessment of the adverse effects and its relevance at the (sub)population level, and for the assessment of the endocrine mode of action;
+
+(c) the adverse effects on reproduction, growth/development, and other relevant adverse effects which are likely to impact on (sub)populations. Adequate, reliable and representative field or monitoring data and/or results from population models shall as well be considered where available;
+
+(d) the quality and consistency of the data, considering the pattern and coherence of the results within and between studies of a similar design and across different taxonomic groups;
+
+(e) the concept of the limit dose and international guidelines on maximum recommended doses and for assessing confounding effects of excessive toxicity;
+
+(3) using a weight of evidence approach, the link between the adverse effect(s) and the endocrine mode of action shall be established based on biological plausibility, which shall be determined in the light of current scientific knowledge and under consideration of internationally agreed guidelines;
+
+(4) Adverse effects that are non-specific secondary consequences of other toxic effects shall not be considered for the identification of the substance as endocrine disruptor with respect to non-target organisms.
+
+3.8.3. An active substance, safener or synergist shall be approved only if it is established following an appropriate risk assessment on the basis of Community or internationally agreed test guidelines, that the use under the proposed conditions of use of plant protection products containing this active substance, safener or synergist:
+
+— will result in a negligible exposure of honeybees, or
+
+— has no unacceptable acute or chronic effects on colony survival and development, taking into account effects on honeybee larvae and honeybee behaviour.
+
+**3.9. Residue definition**
+
+An active substance, safener or synergist shall only be approved if, where relevant, a residue definition can be established for the purposes of risk assessment and for enforcement purposes.
+
+**3.10. Fate and behaviour concerning groundwater**
+
+An active substance shall only be approved where it has been established for one or more representative uses, that consequently after application of the plant protection product consistent with realistic conditions on use, the predicted concentration of the active substance or of metabolites, degradation or reaction products in groundwater complies with the respective criteria of the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).
+
+**4\. Candidate for substitution**
+
+An active substance shall be approved as a candidate for substitution pursuant to Article 24 where any of the following conditions are met:
+
+— its ADI, ARfD or AOEL is significantly lower than those of the majority of the approved active substances within groups of substances/use categories,
+
+— it meets two of the criteria to be considered as a PBT substance,
+
+— there are reasons for concern linked to the nature of the critical effects (such as developmental neurotoxic or immunotoxic effects) which, in combination with the use/exposure patterns, amount to situations of use that could still cause concern, for example, high potential of risk to groundwater; even with very restrictive risk management measures (such as extensive personal protective equipment or very large buffer zones),
+
+— it contains a significant proportion of non-active isomers,
+
+— it is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, if the substance has not been excluded in accordance with the criteria laid down in point 3.6.3,
+
+— it is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B if the substance has not been excluded in accordance with the criteria laid down in point 3.6.4,
+
+— if, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, reviewed by the Authority, it is considered to have endocrine disrupting properties that may cause adverse effects in humans if the substance has not been excluded in accordance with the criteria laid down in point 3.6.5.
+
+**5\. Low-risk active substances**
+
+**5.1. Active substances other than micro-organisms**
+
+5.1.1. An active substance, other than a micro-organism, shall not be considered as being of low-risk where it corresponds to any of the following:
+
+(a) it is or has to be classified in accordance with Regulation (EC) No 1272/2008 as any of the following:
+
+— carcinogenic category 1A, 1B or 2,
+
+— mutagenic category 1A, 1B or 2,
+
+— toxic to reproduction category 1A, 1B or 2,
+
+— skin sensitiser category 1,
+
+— serious damage to eye category 1,
+
+— respiratory sensitiser category 1,
+
+— acute toxicity category 1, 2 or 3,
+
+— specific Target Organ Toxicant, category 1 or 2,
+
+— toxic to aquatic life of acute and chronic category 1 on the basis of appropriate standard tests,
+
+— explosive,
+
+— skin corrosive, category 1A, 1B or 1C;
+
+(b) it has been identified as priority substance under Directive 2000/60/EC;
+
+(c) it is deemed to be an endocrine disruptor;
+
+(d) it has neurotoxic or immunotoxic effects.
+
+5.1.2. An active substance, other than a micro-organism, shall not be considered as being of low-risk where it is persistent (half-life in soil is more than 60 days) or its bio-concentration factor is higher than 100.
+
+However, a naturally occurring active substance which does not correspond to any of points (a) to (d) of point 5.1.1 may be considered as being of low-risk, even if it is persistent (half-life in soil is more than 60 days) or its bio-concentration factor is higher than 100.
+
+5.1.3. An active substance, other than a micro-organism, emitted and used by plants, animals and other organisms for communication, shall be considered as being of low- risk where it does not correspond to any of points (a) to (d) of point 5.1.1.
+
+**5.2. Micro-organisms**
+
+5.2.1. An active substance that is a micro-organism other than a virus may be considered a low-risk active substance unless its susceptibility to at least two classes of antimicrobial agents has not been demonstrated.
+
+5.2.2. An active substance that is a virus may be considered a low-risk active substance unless it is:
+
+(a) a baculovirus with demonstrated adverse effects on non-target insects; or
+
+(b) a non-virulent variant of a plant pathogen with demonstrated adverse effects on non-target plants.
+
+## ANNEX III
+
+**List of co-formulants which are not accepted for inclusion in plant protection products as referred to in Article 27 (1)**
+
+<table>
+<tbody><tr><td>No</td><td>Name</td><td>EC names/Other names</td><td>CAS number</td><td>EC number</td><td>Classification/Other properties</td></tr>
+<tr><td>1.</td><td>1-Chloro-2,3-epoxypropane</td><td>Epichlorohydrin, 2,3-Epoxypropyl chloride</td><td>106-89-8</td><td>203-439-8</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>2.</td><td>1,2- Dichloroethane</td><td>1,2-Dichloroethane; Ethane, 1,2-dichloro- </td><td>107-06-2</td><td>203-458-1</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>3.</td><td>2-Ethoxyethanol</td><td>2-Ethoxyethanol; Ethanol, 2-ethoxy- </td><td>110-80-5</td><td>203-804-1</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>4.</td><td>2-Ethoxyethyl acetate</td><td>2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate</td><td>111-15-9</td><td>203-839-2</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>5.</td><td>1-Ethylpyrrolidin-2-one</td><td>1-Ethylpyrrolidin-2-one; N-ethyl-2-pyrrolidone </td><td>2687-91-4</td><td>220-250-6</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>6.</td><td>2-Methoxyethanol</td><td>2-Methoxyethanol; Ethanol, 2-methoxy- </td><td>109-86-4</td><td>203-713-7</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>7.</td><td>2-Methoxyethyl acetate</td><td>2-Methoxyethyl acetate; Ethanol, 2-methoxy-, 1-acetate;  2-Methoxyethanol acetate </td><td>110-49-6</td><td>203-772-9</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>8.</td><td>2-Methoxypropanol</td><td>2-Methoxypropanol; 1-Propanol, 2-methoxy- </td><td>1589-47-5</td><td>216-455-5</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>9.</td><td>1-Methylpyrrolidin-2-one</td><td>1-Methyl-2-pyrrolidone; 2-Pyrrolidinone, 1-methyl- </td><td>872-50-4</td><td>212-828-1</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>10.</td><td>2-Nitropropane</td><td>2-Nitropropane; Propane, 2-nitro- </td><td>79-46-9</td><td>201-209-1</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>11.</td><td>Amines, tallow alkyl, ethoxylated</td><td>Amines, tallow alkyl, ethoxylated; POE-tallowamine </td><td>61791-26-2</td><td>  </td><td>Concerns or data gaps related to potential effects on human health or the environment</td></tr>
+<tr><td>12.</td><td>Amines, tallow alkyl, ethoxylated propoxylated</td><td>Amines, tallow alkyl, ethoxylated propoxylated; POEP-tallowamine </td><td>68213-26-3</td><td>  </td><td>Concerns or data gaps related to potential effects on human health or the environment</td></tr>
+<tr><td>13.</td><td rowspan="2">Asbestos fibres</td><td>Actinolite asbestos; Asbestos, actinolyte </td><td>77536-66-4</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>14.</td><td>Amosite asbestos; Asbestos, amosite </td><td>12172-73-5</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>15.</td><td rowspan="4">  </td><td>Anthophyllite asbestos; Asbestos, anthophyllite </td><td>77536-67-5</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>16.</td><td>Chrysotile asbestos; Asbestol, chrysotile </td><td>12001-29-5</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>17.</td><td>Crocidolite asbestos; Asbestos, crocidolite </td><td>12001-28-4</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>18.</td><td>Tremolite asbestos; Asbestos, tremolite </td><td>77536-68-6</td><td>  </td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>19.</td><td>Benzene</td><td>Benzene</td><td>71-43-2</td><td>200-753-7</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>20.</td><td>Benzo[def]chrysene; (2) Benzo[pqr]tetraphene </td><td>Benzo[def]chrysene; Benzo[a]pyrene </td><td>50-32-8</td><td>200-028-5</td><td>Carcinogenic cat.1B/Mutagenic cat.1B/ Toxic to reproduction cat.1B </td></tr>
+<tr><td>21.</td><td>Bis(2-methylpropyl) benzene-1,2-dicarboxylate</td><td>Diisobutyl phthalate</td><td>84-69-5</td><td>201-553-2</td><td>Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B</td></tr>
+<tr><td>22.</td><td>Boric acid</td><td>Boric acid</td><td>10043-35-3 11113-50-1 </td><td>233-139-2 234-343-4 </td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>23.</td><td>Disodium octaborate</td><td>Disodium octaborate; Disodium octaborate anhydrous</td><td>12008-41-2</td><td>234-541-0</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>24.</td><td>Disodium octaborate, tetrahydrate</td><td>Boric acid, disodium salt, tetrahydrate;</td><td>12280-03-4</td><td>234-541-0</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>25.</td><td>Disodium tetraborate, anhydrous</td><td>Disodium tetraborate, anhydrous; Boron sodium oxide </td><td>1330-43-4</td><td>215-540-4</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>26.</td><td>Disodium tetraborate, decahydrate</td><td>Borax</td><td>1303-96-4</td><td>215-540-4</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>27.</td><td>Disodium tetraborate, pentahydrate</td><td>Boron sodium oxide, hydrated</td><td>12179-04-3</td><td>215-540-4</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>28.</td><td>Orthoboric acid, sodium salt</td><td>Orthoboric acid, sodium salt; Boric acid, sodium salt</td><td>13840-56-7</td><td>237-560-2</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>29.</td><td>Tetraboron disodium heptaoxide, hydrate</td><td>Tetraboron disodium heptaoxide, hydrate; Boron sodium oxide, hydrate </td><td>12267-73-1</td><td>235-541-3</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>30.</td><td>Buta-1,3-diene</td><td>Buta-1,3-diene; 1,3-Butadiene </td><td>106-99-0</td><td>203-450-8</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>31.</td><td>Butane containing ≥ 0,1 % butadiene (EC No 203-450-8) </td><td>Butane</td><td>106-97-8</td><td>203-448-7</td><td>Carcinogenic cat.1A</td></tr>
+<tr><td>32.</td><td>Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride</td><td>Guanidine, N,N"’-1,6-hexanediylbis[N’-cyano-, polymer with 1,6-hexanediamine, hydrochloride Poly[iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl], hydrochloride  Cyanamide, N-cyano-, compd. with 1,6-hexanediamine (2:1), polymer with 1,6-hexanediamine hydrochloride (1:2);  PHMB </td><td>27083-27-8 and  32289-58-0  and  1802181-67-4 </td><td>  </td><td>Not approved for use in biocidal products for product-type 6 (in-can preservatives).</td></tr>
+<tr><td>33.</td><td>Dibutyl phthalate</td><td>n-Butyl phthalate; Dibutyl benzene-1,2-dicarboxylate </td><td>84-74-2</td><td>201-557-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B</td></tr>
+<tr><td>34.</td><td>Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-52-5</td><td>265-155-0</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>35.</td><td>Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-54-7</td><td>265-157-1</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>36.</td><td>Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-53-6</td><td>265-156-6</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>37.</td><td>Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-55-8</td><td>265-158-7</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>38.</td><td>Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-65-0</td><td>265-169-7</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>39.</td><td>Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64741-88-4</td><td>265-090-8</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>40.</td><td>Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64741-89-5</td><td>265-091-3</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>41.</td><td>Ethylene oxide</td><td>Ethylene oxide; Oxyrane; Epoxyethane</td><td>75-21-8</td><td>200-849-9</td><td>Carcinogenic cat.1B/ Mutagenic cat. 1B </td></tr>
+<tr><td>42.</td><td>Formaldehyde</td><td>Formaldehyde; Formalin; Methanal;,Formol</td><td>50-00-0</td><td>200-001-8</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>43.</td><td>Formamide</td><td>Formamide; Methanamide</td><td>75-12-7</td><td>200-842-0</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>44.</td><td>Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8))</td><td>Isobutane; Propane, 2-methyl-</td><td>75-28-5</td><td>200-857-2</td><td>Carcinogenic cat.1A/ Mutagenic cat. 1B </td></tr>
+<tr><td>45.</td><td>Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>72623-85-9</td><td>276-736-3</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>46.</td><td>Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>72623-86-0</td><td>276-737-9</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>47.</td><td>Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>72623-87-1</td><td>276-738-4</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>48.</td><td>Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>101316-70-5</td><td>309-875-6</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>49.</td><td>Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)</td><td>  </td><td>64741-65-7</td><td>265-067-2</td><td>Carcinogenic cat.1B/ Mutagenic cat.1B </td></tr>
+<tr><td>50.</td><td>Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)</td><td>  </td><td>64742-82-1</td><td>265-185-4</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>51.</td><td>Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7)</td><td>  </td><td>92045-53-9</td><td>295-434-2</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>52.</td><td>Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7)</td><td>  </td><td>64742-48-9</td><td>265-150-3</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>53.</td><td>Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7)</td><td>  </td><td>64742-95-6</td><td>265-199-0</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>54.</td><td>Nitrobenzene</td><td>Nitrobenzene; Benzene, nitro- </td><td>98-95-3</td><td>202-716-0</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>55.</td><td>N-methylformamide</td><td>N-methylformamide; Formamide, N-methyl-</td><td>123-39-7</td><td>204-624-6</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>56.</td><td rowspan="11">Nonyl-phenols: Substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. </td><td>4-(3,5-Dimethylheptan-3-yl)phenol Phenol, 4-(1-ethyl-1,3-dimethylpentyl)-;  4-(1-Ethyl-1,3-dimethylpentyl)phenol </td><td>186825-36-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>57.</td><td>4-(3,6-Dimethylheptan-3-yl)phenol Phenol, 4-(1-ethyl-1,4-dimethylpentyl)-;  4-(1-Ethyl-1,4-dimethylpentyl)phenol </td><td>142731-63-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>58.</td><td>4-(2-Methyloctan-2-yl)phenol p-(1,1-Dimethylheptyl)phenol;  Phenol, 4-(1,1-dimethylheptyl)- </td><td>30784-30-6</td><td>250-339-5</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>59.</td><td>4-(3-Methyloctan-3-yl)phenol Phenol, 4-(1-ethyl-1-methylhexyl)-;  4-(1-Ethyl-1-methylhexyl)phenol; </td><td>52427-13-1</td><td>257-907-1</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>60.</td><td>4-Nonylphenol p-Nonylphenol;  Phenol, 4-nonyl- </td><td>104-40-5</td><td>203-199-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>61.</td><td>Isononylphenol</td><td>11066-49-2</td><td>234-284-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>62.</td><td>p-Isononylphenol; Phenol, 4-isononyl- </td><td>26543-97-5</td><td>247-770-6</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>63.</td><td>Nonylphenol; Phenol, nonyl- </td><td>25154-52-3</td><td>246-672-0</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>64.</td><td>Phenol, 4-(1-methyloctyl)-; p-(1-Methyloctyl)phenol </td><td>17404-66-9</td><td>241-427-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>65.</td><td>Phenol, 4-nonyl-, branched</td><td>84852-15-3</td><td>284-325-5</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>66.</td><td>Phenol, nonyl-, branched</td><td>90481-04-2</td><td>291-844-0</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>67.</td><td rowspan="11">Nonyl-phenols, ethoxylated: Substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. </td><td>Nonylphenol, ethoxylated; Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy- </td><td>  </td><td>500-024-6</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>68.</td><td>4-Nonylphenol, branched, 1 – 2,5 moles ethoxylated Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched </td><td>  </td><td>500-315-8</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>69.</td><td>4-Nonylphenol, 1 – 2,5 moles ethoxylated</td><td>  </td><td>500-045-0</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>70.</td><td>2-(2-{2-[2-(4-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethan-1-ol 2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;  Ethanol, 2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- </td><td>7311-27-5</td><td>230-770-5</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>71.</td><td>2-[2-(4-Nonylphenoxy)ethoxy]ethanol; Ethanol, 2-[2-(4-nonylphenoxy)ethoxy]- </td><td>20427-84-3</td><td>243-816-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>72.</td><td>20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol; 3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20- (4-nonylphenoxy)- </td><td>27942-27-4</td><td>248-743-1</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>73.</td><td>2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethan-1-ol Ethanol,2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]- </td><td>7311-27-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>74.</td><td>26-(4-Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol 3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-nonylphenoxy)- </td><td>14409-72-4</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>75.</td><td>17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol 3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-nonylphenoxy)- </td><td>34166-38-6</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>76.</td><td>Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched</td><td>127087-87-0</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>77.</td><td>Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-</td><td>26027-38-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>78.</td><td rowspan="4">  </td><td>Ethanol, 2-(4-nonylphenoxy)</td><td>104-35-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>79.</td><td>Isononylphenol, ethoxylated; Poly(oxy-1,2-ethanediyl), α-(isononylphenyl)-ω-hydroxy- </td><td>37205-87-1</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>80.</td><td>2-[2-(4-tert-Nonylphenoxy) ethoxy] ethanol Ethanol, 2-[2-(4-tert-nonylphenoxy)ethoxy]- </td><td>156609-10-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>81.</td><td>Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy- Nonylphenol, ethoxylated </td><td>9016-45-9</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>82.</td><td rowspan="7">Octyl-phenols: Substances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof. </td><td>p-Octylphenol; 4-Octylphenol </td><td>1806-26-4</td><td>217-302-5</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>83.</td><td>4-(2,4,4-Trimethylpentan-2-yl)phenol; 4-(1,1,3,3-Tetramethylbutyl)phenol;  4-(tert-octyl) Phenol  Phenol, 4-(1,1,3,3-tetramethylbutyl)-;  4-tert-Octylphenol </td><td>140-66-9</td><td>205-426-2</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>84.</td><td>Octylphenol; Phenol, octyl- </td><td>67554-50-1</td><td>266-717-8</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>85.</td><td>Phenol, 2-isooctyl-</td><td>86378-08-7</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>86.</td><td>Phenol, isooctyl-; Isooctylphenol </td><td>11081-15-5</td><td>234-304-1</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>87.</td><td>Phenol, 2-octyl-; o-Octylphenol </td><td>949-13-3</td><td>213-437-9</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>88.</td><td>Phenol, 2-sec-octyl-; o-sec-Octylphenol </td><td>26401-75-2</td><td>247-663-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>89.</td><td rowspan="13">  </td><td>Phenol, 4-isooctyl-; p-Isooctylphenol </td><td>27013-89-4</td><td>248-164-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>90.</td><td>Phenol, 4-sec-octyl-; p-sec-Octylphenol </td><td>27214-47-7</td><td>248-330-6</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>91.</td><td>Phenol, sec-octyl-; sec-Octylphenol </td><td>93891-78-2</td><td>299-461-0</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>92.</td><td>Phenol, 4-(1-ethylhexyl)-; p-(1-Ethylhexyl)phenol </td><td>3307-00-4</td><td>221-989-7</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>93.</td><td>Phenol, 2-(1-methylheptyl)-; o-(1Methylheptyl)phenol </td><td>18626-98-7</td><td>242-459-1</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>94.</td><td>Phenol, 2-(1-ethylhexyl)-; o-(1-Ethylhexyl)phenol </td><td>17404-44-3</td><td>241-426-9</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>95.</td><td>Phenol, 2-(1-propylpentyl)-; o-(1-Propylpentyl)phenol </td><td>37631-10-0</td><td>253-574-1</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>96.</td><td>Phenol, 4-(1-propylpentyl)-; p-(1-Propylpentyl)phenol </td><td>3307 - 01-5</td><td>221-990-2</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>97.</td><td>Phenol, 2-(1-methylheptyl)-; o-(1,1,3,3-Tetramethylbutyl)phenol </td><td>3884-95-5</td><td>223-420-8</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>98.</td><td>Phenol, (1,1,3,3-tetramethylbutyl)-; (1,1,3,3-Tetramethylbutyl)phenol </td><td>27193-28-8</td><td>248-310-7</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>99.</td><td>Phenol, (1-methylheptyl)-; (1-Methylheptyl)phenol </td><td>27985-70-2</td><td>248-759-9</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>100.</td><td>Phenol, 4-(2-methylheptyl)-</td><td>898546-19-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>101.</td><td>Phenol, 2-(2-ethylhexyl)-</td><td>28752-62-7</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>102.</td><td rowspan="12">  </td><td>Phenol, 4-(1-methylheptyl)-; p-(1-Methylheptyl)phenol </td><td>1818-08-2</td><td>217-332-9</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>103.</td><td>Phenol, 4-(2-ethylhexyl)-</td><td>69468-20-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>104.</td><td>Phenol, 4-(5-methylheptyl)-</td><td>1824164-95-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>105.</td><td>Phenol, 2-(2-methylheptyl)-</td><td>898546-20-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>106.</td><td>Phenol, 4-(2-propylpentyl)-</td><td>119747-99-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>107.</td><td>Phenol, 3-octyl-</td><td>20056-69-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>108.</td><td>Phenol, 2-(1,1-dimethylhexyl)-</td><td>1824575-79-2</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>109.</td><td>Phenol, 4-(1,1-dimethylhexyl)-</td><td>30784-29-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>110.</td><td>Phenol, 4-(5,5-dimethylhexyl)-</td><td>13330-52-4</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>111.</td><td>Phenol, 2-(5,5-dimethylhexyl)-</td><td>1822989-97-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>112.</td><td>Phenol, 3-(1,1-dimethylhexyl)-</td><td>70435-92-6</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>113.</td><td>Phenol, 4-(1,4-dimethylhexyl)-</td><td>164219-26-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>114.</td><td rowspan="11">Octyl-phenols, ethoxylated: Substances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof. </td><td>Poly(oxy-1,2-ethanediyl), α-[(1,1,3,3- tetramethylbutyl) phenyl]-ω-hydroxy- 2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol  Polyethylene Glycol Octylphenyl Ether; </td><td>9036-19-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>115.</td><td>2-[4-(2,4,4-Trimethylpentan-2-yl)phenoxy]ethanol Poly(oxy-1,2-ethanediyl), α-[4-(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-  Octylphenol ethoxylated </td><td>9002-93-1</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>116.</td><td>20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol 3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-[4-(1,1,3,3-tetramethylbutyl)phenoxy]- </td><td>2497-59-8</td><td>219-682-8</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>117.</td><td>Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>2315-67-5</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>118.</td><td>Ethanol, 2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]-</td><td>2315-61-9</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>119.</td><td>3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-octylphenoxy)-;</td><td>42173-90-0</td><td>255-695-5</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>120.</td><td>Poly(oxy-1,2-ethanediyl), α-(octylphenyl)-ω-hydroxy-, branched</td><td>68987-90-6</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>121.</td><td>Poly(oxy-1,2-ethanediyl), α-[4-(6-methylheptyl)phenyl]-ω-hydroxy-</td><td>59379-12-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>122.</td><td>Ethanol, 2-(4-octylphenoxy)-; 2-(p-Octylphenoxy)ethanol </td><td>51437-89-9</td><td>257-203-4</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>123.</td><td>Poly(oxy-1,2-ethanediyl), α-(4-octylphenyl)-ω-hydroxy-</td><td>26636-32-8</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>124.</td><td>Poly(oxy-1,2-ethanediyl), α-[4-(1-methylheptyl)phenyl]-ω-hydroxy-</td><td>73935-42-9</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>125.</td><td rowspan="12">  </td><td>3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-(4-octylphenoxy)-; 20-(4-Octylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol </td><td>32742-88-4</td><td>251-190-9</td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>126.</td><td>Ethanol, 2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]-; 2-(p-Octylphenoxy)ethanol </td><td>51437-92-4</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>127.</td><td>Ethanol, 2-[2-(4-octylphenoxy)ethoxy]-</td><td>51437-90-2</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>128.</td><td>3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-octylphenoxy)-</td><td>51437-94-6</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>129.</td><td>Poly(oxy-1,2-ethanediyl), α-(isooctylphenyl)-ω-hydroxy-</td><td>9004-87-9</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>130.</td><td>2-[2-[2-(4-Octylphenoxy)ethoxy]ethoxy]ethanol</td><td>51437-91-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>131.</td><td>3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>2497-58-7</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>132.</td><td>Ethanol, 2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]-</td><td>2315-62-0</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>133.</td><td>Ethanol, 2-[2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]ethoxy]-</td><td>2315-63-1</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>134.</td><td>3,6,9,12-Tetraoxatetradecan-1-ol, 14-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>2315-64-2</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>135.</td><td>3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>2315-65-3</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>136.</td><td>3,6,9,12,15,18,21,24,27-Nonaoxanonacosan-1-ol, 29-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>2315-66-4</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>137.</td><td rowspan="3">  </td><td>Ethanol, 2-[3-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>1026254-24-9</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>138.</td><td>Ethanol, 2-[2-(1,1,3,3-tetramethylbutyl)phenoxy]-</td><td>84658-53-7</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>139.</td><td>Ethanol, 2-[2-(octylphenoxy)ethoxy]-</td><td>27176-92-7</td><td>  </td><td>Endocrine disrupting properties (REACH Article 57(f) – Environment)</td></tr>
+<tr><td>140.</td><td>N, N-Dimethylformamide</td><td>N, N-dimethylformamide; Dimethyl formamide, DMF</td><td>68-12-2</td><td>200-679-5</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td>141.</td><td>Prop-2-enamide</td><td>Acrylamide; 2-propenamide</td><td>79-06-1</td><td>201-173-7</td><td>Carcinogenic cat.1B/ Mutagenic cat.1B </td></tr>
+<tr><td>142.</td><td>Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7)</td><td>  </td><td>68391-11-7</td><td>269-929-9</td><td>Carcinogenic cat.1A/ Mutagenic cat.1B </td></tr>
+<tr><td>143.</td><td>Quinoline</td><td>Quinoline</td><td>91-22-5</td><td>202-051-6</td><td>Carcinogenic cat.1B</td></tr>
+<tr><td>144.</td><td>Tetrahydrofurfuryl Alcohol</td><td>Tetrahydrofurfuryl alcohol; 2-Furanmethanol, tetrahydro- </td><td>97-99-4</td><td>202-625-6</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>145.</td><td>Acetaldehyde</td><td>Ethanal</td><td>75-07-0</td><td>200-836-8</td><td>Carcinogenic cat. 1B</td></tr>
+<tr><td>146.</td><td>Propylene oxide</td><td>1,2-epoxypropane; methyloxirane </td><td>75-56-9</td><td>200-879-2</td><td>Carcinogenic cat. 1B/ Mutagenic cat. 1B </td></tr>
+<tr><td>147.</td><td>Cumene</td><td>(1-Methylethyl)benzene</td><td>98-82-8</td><td>202-704-5</td><td>Carcinogenic cat. 1B</td></tr>
+<tr><td>148.</td><td>Dodecamethylcyclohexasiloxane; (D6)</td><td>  </td><td>540-97-6</td><td>208-762-8</td><td>Persistent, bioaccumulative and toxic (REACH Article 57(d); Very persistent and very bioaccumulative (REACH Article 57(e) </td></tr>
+<tr><td>149.</td><td>Decamethylcyclopentasiloxane; (D5)</td><td>  </td><td>541-02-6</td><td>208-764-9</td><td>Persistent, bioaccumulative and toxic (REACH Article 57(d); Very persistent and very bioaccumulative (REACH Article 57(e) </td></tr>
+<tr><td>150.</td><td>Octamethylcyclotetrasiloxane; (D4)</td><td>  </td><td>556-67-2</td><td>209-136-7</td><td>Persistent, bioaccumulative and toxic (REACH Article 57(d); Very persistent and very bioaccumulative (REACH Article 57(e) </td></tr>
+<tr><td>151.</td><td>2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazole</td><td>Bumetrizole</td><td>3896-11-5</td><td>223-445-4</td><td>Very persistent and very bioaccumulative (REACH Article 57(e)</td></tr>
+<tr><td>152.</td><td>Distillates (petroleum) solvent-dewaxed light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)</td><td>  </td><td>64742-56-9</td><td>265-159-2</td><td>Carcinogenic cat. 1B</td></tr>
+<tr><td>153.</td><td>3,5,7-Triaza-1-azoniatricyclo[3.3.1.1 3,7] decane,1-(3-chloro-2-propen-1-yl)-, chloride</td><td>Methenamine 3-chloroallylochloride  (CTAC) </td><td>4080-31-3</td><td>223-805-0</td><td>Not approved for use in biocidal products for product-type 6 (preservatives for products during storage)</td></tr>
+<tr><td>154.</td><td>Phosphinic acid, bis(perfluoro-C6-12-alkyl) derivatives</td><td>  </td><td>68412-69-1</td><td>270-206-5</td><td>Persistent organic pollutant (POP)</td></tr>
+<tr><td>155.</td><td>1,4-dioxane</td><td>  </td><td>123-91-1</td><td>204-661-8</td><td>Carcinogenic cat. 1B</td></tr>
+<tr><td>156.</td><td>2-(4-tert-butylbenzyl)propionaldehyde</td><td>  </td><td>80-54-6</td><td>201-289-8</td><td>Toxic to reproduction cat.1B</td></tr>
+<tr><td colspan="6">(1)  The limit for the acceptable presence of the substances listed in the table as unintentional impurity in the finished product is 0,1 % (weight by weight (w/w)) except where stated otherwise in this Annex.  (2)  The limit for the acceptable presence of this substance as unintentional impurity in the finished product is 0,01 % (weight by weight (w/w)), corresponding to the specific concentration limit set in Annex VI to Regulation (EC) No 1272/2008. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Comparative assessment pursuant to Article 50**
+
+**1\. Conditions for comparative assessment**
+
+Where refusal or withdrawal of an authorisation of a plant protection product in favour of an alternative plant protection product or a non-chemical control or prevention method is considered, referred to as ‘substitution’, the alternative must, in the light of scientific and technical knowledge, show significantly lower risk to health or the environment. An assessment of the alternative shall be performed to demonstrate whether it can be used with similar effect on the target organism and without significant economic and practical disadvantages to the user or not.
+
+Further conditions for refusal or withdrawal of an authorisation are as follows:
+
+(a) substitution shall be applied only where other methods or the chemical diversity of the active substances is sufficient to minimise the occurrence of resistance in the target organism;
+
+(b) substitution shall be applied only to plant protection products where their use presents a significantly higher level of risk to human health or the environment; and
+
+(c) substitution shall be applied only after allowing for the possibility, where necessary, of acquiring experience from use in practice, where not already available.
+
+**2\. Significant difference in risk**
+
+A significant difference in risk shall be identified on a case-by-case basis by the competent authorities. The properties of the active substance and plant protection product, and the possibility of exposure of different population subgroups (professional or non-professional users, bystanders, workers, residents, specific vulnerable groups or consumers) directly or indirectly through food, feed, drinking water or the environment shall be taken into account. Other factors such as the stringency of imposed restrictions on use and prescribed personal protective equipment shall also be considered.
+
+For the environment, if relevant, a factor of at least 10 for the toxicity/exposure ratio (TER) of different plant protection products is considered a significant difference in risk.
+
+**3\. Significant practical or economic disadvantages**
+
+Significant practical or economic disadvantage to the user is defined as a major quantifiable impairment of working practices or business activity leading to inability to maintain sufficient control of the target organism. Such a major impairment might be, for example, where no technical facilities for the use of the alternative are available or economically feasible.
+
+Where a comparative assessment indicates that restrictions on and/or prohibitions of use of a plant protection product could cause such disadvantage, then this shall be taken into account in the decision-making process. This situation shall be substantiated.
+
+The comparative assessment shall take authorised minor uses into account.
+
+## ANNEX V
+
+**Repealed Directives and their successive amendments as referred to in Article 83**
+
+A. Directive 91/414/EEC
+
+| Acts amending Directive 91/414/EEC | Deadline for transposition |
+| --- | --- |
+| Directive 93/71/EEC | 3 August 1994 |
+| Directive 94/37/EC | 31 July 1995 |
+| Directive 94/79/EC | 31 January 1996 |
+| Directive 95/35/EC | 30 June 1996 |
+| Directive 95/36/EC | 30 April 1996 |
+| Directive 96/12/EC | 31 March 1997 |
+| Directive 96/46/EC | 30 April 1997 |
+| Directive 96/68/EC | 30 November 1997 |
+| Directive 97/57/EC | 1 October 1997 |
+| Directive 2000/80/EC | 1 July 2002 |
+| Directive 2001/21/EC | 1 July 2002 |
+| Directive 2001/28/EC | 1 August 2001 |
+| Directive 2001/36/EC | 1 May 2002 |
+| Directive 2001/47/EC | 31 December 2001 |
+| Directive 2001/49/EC | 31 December 2001 |
+| Directive 2001/87/EC | 31 March 2002 |
+| Directive 2001/99/EC | 1 January 2003 |
+| Directive 2001/103/EC | 1 April 2003 |
+| Directive 2002/18/EC | 30 June 2003 |
+| Directive 2002/37/EC | 31 August 2003 |
+| Directive 2002/48/EC | 31 December 2002 |
+| Directive 2002/64/EC | 31 March 2003 |
+| Directive 2002/81/EC | 30 June 2003 |
+| Directive 2003/5/EC | 30 April 2004 |
+| Directive 2003/23/EC | 31 December 2003 |
+| Directive 2003/31/EC | 30 June 2004 |
+| Directive 2003/39/EC | 30 September 2004 |
+| Directive 2003/68/EC | 31 March 2004 |
+| Directive 2003/70/EC | 30 November 2004 |
+| Directive 2003/79/EC | 30 June 2004 |
+| Directive 2003/81/EC | 31 January 2005 |
+| Directive 2003/82/EC | 30 July 2004 |
+| Directive 2003/84/EC | 30 June 2004 |
+| Directive 2003/112/EC | 30 April 2005 |
+| Directive 2003/119/EC | 30 September 2004 |
+| Regulation (EC) No 806/2003 | — |
+| Directive 2004/20/EC | 31 July 2005 |
+| Directive 2004/30/EC | 30 November 2004 |
+| Directive 2004/58/EC | 31 August 2005 |
+| Directive 2004/60/EC | 28 February 2005 |
+| Directive 2004/62/EC | 31 March 2005 |
+| Directive 2004/66/EC | 1 May 2004 |
+| Directive 2004/71/EC | 31 March 2005 |
+| Directive 2004/99/EC | 30 June 2005 |
+| Directive 2005/2/EC | 30 September 2005 |
+| Directive 2005/3/EC | 30 September 2005 |
+| Directive 2005/25/EC | 28 May 2006 |
+| Directive 2005/34/EC | 30 November 2005 |
+| Directive 2005/53/EC | 31 August 2006 |
+| Directive 2005/54/EC | 31 August 2006 |
+| Directive 2005/57/EC | 31 October 2006 |
+| Directive 2005/58/EC | 31 May 2006 |
+| Directive 2005/72/EC | 31 December 2006 |
+| Directive 2006/5/EC | 31 March 2007 |
+| Directive 2006/6/EC | 31 March 2007 |
+| Directive 2006/10/EC | 30 September 2006 |
+| Directive 2006/16/EC | 31 January 2007 |
+| Directive 2006/19/EC | 30 September 2006 |
+| Directive 2006/39/EC | 31 July 2007 |
+| Directive 2006/41/EC | 31 January 2007 |
+| Directive 2006/45/EC | 18 September 2006 |
+| Directive 2006/64/EC | 31 October 2007 |
+| Directive 2006/74/EC | 30 November 2007 |
+| Directive 2006/75/EC | 31 March 2007 |
+| Directive 2006/85/EC | 31 January 2008 |
+| Directive 2006/104/EC | 1 January 2007 |
+| Directive 2006/131/EC | 30 June 2007 |
+| Directive 2006/132/EC | 30 June 2007 |
+| Directive 2006/133/EC | 30 June 2007 |
+| Directive 2006/134/EC | 30 June 2007 |
+| Directive 2006/135/EC | 30 June 2007 |
+| Directive 2006/136/EC | 30 June 2007 |
+| Directive 2007/5/EC | 31 March 2008 |
+| Directive 2007/6/EC | 31 July 2007 |
+| Directive 2007/21/EC | 12 December 2007 |
+| Directive 2007/25/EC | 31 March 2008 |
+| Directive 2007/31/EC | 1 September 2007 |
+| Directive 2007/50/EC | 31 May 2008 |
+| Directive 2007/52/EC | 31 March 2008 |
+| Directive 2007/76/EC | 30 April 2009 |
+| Directive 2008/40/EC | 30 April 2009 |
+| Directive 2008/41/EC | 30 June 2009 |
+| Directive 2008/45/EC | 8 August 2008 |
+| Directive 2008/66/EC | 30 June 2009 |
+
+B. Directive 79/117/EEC
+
+| Acts amending Directive 79/117/EEC | Deadline for transposition |
+| --- | --- |
+| Directive 83/131/EEC | 1 October 1984 |
+| Directive 85/298/EEC | 1 January 1986 |
+| Directive 86/214/EEC | — |
+| Directive 86/355/EEC | 1 July 1987 |
+| Directive 87/181/EEC | 1 January 1988 and 1 January 1989 |
+| Directive 87/477/EEC | 1 January 1988 |
+| Directive 89/365/EEC | 31 December 1989 |
+| Directive 90/335/EEC | 1 January 1991 |
+| Directive 90/533/EEC | 31 December 1990 and 30 September 1990 |
+| Directive 91/188/EEC | 31 March 1992 |
+| Regulation (EC) No 807/2003 | — |
+| Regulation (EC) No 850/2004 | — |
+
+( 1 ) OJ L 353, 31.12.2008, p. 1.
+
+( 2 ) OJ L 106, 17.4.2001, p. 1.
+
+( 3 ) OJ L 50, 20.2.2004, p. 44.
+
+( 4 ) Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.2.2003, p. 26).
+
+( 5 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 6 ) Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies (OJ L 264, 25.9.2006, p. 13).
+
+( 7 ) OJ L 169, 29.6.2007, p. 10.
+
+( 8 ) OJ L 15, 18.1.2008, p. 5.

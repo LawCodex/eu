@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2015/2302 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 </td><td> L 326</td><td>1</td><td>11.12.2015</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 328</td><td>7</td><td>18.12.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2673 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L 2673</td><td>1</td><td>28.11.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/825 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 February 2024 </td><td> L 825</td><td>1</td><td>6.3.2024</td></tr>
+</table>
 
 **DIRECTIVE 2011/83/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1057,10 +1059,12 @@ Instructions for completion:
 | Article 7 |  | Articles 13, 14 and 15 |
 | Article 8 |  | Article 4 |
 
+<table>
 <tbody><tr><td>Annex to Regulation (EC) No 2006/2004 of the European Parliament and of the Council of 27 October 2004 on cooperation between national authorities responsible for the enforcement of consumer protection laws (the Regulation on consumer protection cooperation) (1)</td><td>To be construed as a reference to</td></tr>
 <tr><td>Paragraphs 2 and 11</td><td>This Directive</td></tr>
 <tr><td colspan="2">(1)  OJ L 364, 9.12.2004, p. 1. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28).
 

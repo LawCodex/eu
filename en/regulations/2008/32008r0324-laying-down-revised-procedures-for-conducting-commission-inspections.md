@@ -1,0 +1,341 @@
+---
+title: "Commission Regulation (EC) No 324/2008 of 9 April 2008 laying down revised procedures for conducting Commission inspections in the field of maritime security (Text with EEA relevance)"
+identifier: "32008R0324"
+eli: "http://data.europa.eu/eli/reg/2008/324/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-04-09
+entry_into_force: 2008-07-18
+last_amended: 2016-04-20
+consolidated_version: "02008R0324-20160420"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0324-20160420"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 324/2008 of 9 April 2008 laying down revised procedures for conducting Commission inspections in the field of maritime security (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 324/2008**
+
+**of 9 April 2008**
+
+**laying down revised procedures for conducting Commission inspections in the field of maritime security**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/462 of 30 March 2016 </td><td> L 80</td><td>28</td><td>31.3.2016</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 324/2008**
+
+**of 9 April 2008**
+
+**laying down revised procedures for conducting Commission inspections in the field of maritime security**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down procedures for conducting Commission inspections to monitor the application of Regulation (EC) No 725/2004 at the level of each Member State and of individual port facilities and relevant companies.
+
+This Regulation also lays down procedures for the monitoring by the Commission of the implementation of Directive 2005/65/EC jointly with the inspections at the level of Member States and port facilities in respect of ports as defined in Article 2(11) of this Regulation.
+
+The inspections shall be conducted in a transparent, effective, harmonised and consistent manner.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+1\. ‘Commission inspection’ means an examination by Commission inspectors of Member States' national maritime security quality control systems, measures, procedures and structures, to determine compliance with Regulation (EC) No 725/2004 and implementation of Directive 2005/65/EC. It may include inspections of ports, port facilities, ships, competent authorities for maritime security or companies, as defined in Annex I to Regulation (EC) No 725/2004. It may also include inspections of recognised security organisations, as defined in Annex I to Regulation (EC) No 725/2004 and in Annex IV to Directive 2005/65/EC relative to recognised security organisations;
+
+2\. ‘Commission inspector’ means a person fulfilling the criteria set out in Article 7 employed by the Commission, or employed by the European Maritime Safety Agency, or a national inspector, mandated by the Commission to participate in Commission inspections, listed by the Member States or by the EFTA States;
+
+3\. ‘national inspector’ means a person employed by a Member State as a maritime security inspector, and qualified according to the requirements of that Member State;
+
+4\. ‘objective evidence’ means quantitative or qualitative information, records or findings pertaining to security or to the existence and implementation of a requirement laid down in Regulation (EC) No 725/2004 or Directive 2005/65/EC, which are based on observation, measurement or test and which can be verified;
+
+5\. ‘observation’ means a finding made during a Commission inspection and substantiated by objective evidence;
+
+6\. ‘non-conformity’ means an observed situation where objective evidence indicates the non-fulfilment of a requirement laid down in Regulation (EC) No 725/2004 or Directive 2005/65/EC that requires corrective action;
+
+7\. ‘major non-conformity’ means an identifiable deviation that poses a serious threat to maritime security that requires immediate corrective action and includes the lack of effective and systematic implementation of a requirement laid down in Regulation (EC) No 725/2004 or Directive 2005/65/EC;
+
+8\. ‘focal point’ means the body designated by each Member State to serve as a contact point for the Commission and other Member States and to facilitate, follow up and inform on the application of the maritime security measures laid down in Regulation (EC) No 725/2004 and the port security measures laid down in Directive 2005/65/EC;
+
+9\. ‘relevant company’ means an entity that has to appoint a Company Security Officer, Ship Security Officer or Port Facility Security Officer, or is responsible for the implementation of a Ship Security Plan or Port Facility Security Plan, or has been appointed by a Member State as a Recognised Security Organisation;
+
+10\. ‘test’ means a trial of maritime security measures, where intent to commit unlawful action is simulated for the purpose of testing efficiency in the implementation of existing security measures;
+
+11\. ‘port’ means the area within the boundaries defined by Member States under Article 2(3) of Directive 2005/65/EC and notified to the Commission under Article 12 thereof;
+
+12\. ‘provisional corrective measure’ means a temporary measure or range of measures aimed at limiting to the maximum extent practicable the impact of a major non-conformity or a non-conformity identified during the conduct of an inspection before full correction can take place;
+
+13\. ‘classified information’ means identified or identifiable information obtained during the conduct of inspection activities, disclosure of which may lead to a breach of security, classified in accordance with the provisions of Commission Decision (EU, Euratom) 2015/444 ( 5 ) or in accordance with relevant national legislation of the Member States;
+
+14\. ‘sensitive but non-classified information’ means inspection related material or information obtained during the conduct of inspection activities, disclosure of which may lead to a breach of security and which can only be shared on a need-to-know basis;
+
+15\. ‘not confirmed’ means a finding made during a Commission inspection which indicates non-fulfilment of Regulation (EC) No 725/2004 or Directive 2005/65/EC but is not substantiated by objective evidence;
+
+16\. ‘Committee’ means the Committee established by Article 11(1) of Regulation (EC) No 725/2004;
+
+17\. ‘representative of a flag State’ means a member of the competent authorities of the Member State whose flag the ship is flying or, if nominated by that Member State, a representative of a recognised security organisation.
+
+## CHAPTER II — GENERAL REQUIREMENTS
+
+### Article 3 — Cooperation of Member States
+
+1\. Without prejudice to Commission responsibilities, Member States shall cooperate with the Commission in the accomplishment of its inspection tasks. This cooperation shall be effective during the preparatory, monitoring and reporting phases.
+
+2\. Member States shall take all necessary steps to ensure that notification of an inspection:
+
+(a) is kept under strict measures of security to guarantee its non-disclosure in order not to compromise the inspection process; and
+
+(b) is communicated to relevant parties on a need-to-know basis.
+
+### Article 4 — Exercise of Commission powers
+
+1\. Each Member State shall ensure that Commission inspectors are able to exercise their authority to inspect the maritime security activities of any competent authority under Regulation (EC) No 725/2004 or Directive 2005/65/EC and of any relevant company.
+
+2\. Each Member State shall ensure that, upon request, Commission inspectors have timely access to relevant security documentation necessary for the performance of the inspection duties, and in particular to:
+
+(a) the national programme for the implementation of Regulation (EC) No 725/2004 referred to in Article 9(3) of that Regulation;
+
+(b) the most recent updates of data supplied by the focal point and monitoring reports referred to in Article 9(4) of Regulation (EC) No 725/2004;
+
+(c) the outcome of the Member State's monitoring of the implementation of port security plans;
+
+(d) relevant ship, port and port facility security assessments, and relevant ship, port and port facility security plans, records of training drills and exercises for ship and port and port facility while Commission is conducting inspections;
+
+(e) notifications by the Member States of the decisions referred to in Article 3(3) of Regulation (EC) No 725/2004 taken after the mandatory security risk assessment;
+
+(f) any guideline, instruction or procedure, issued by the Member State for the implementation of Regulation (EC) No 725/2004 and Directive 2005/65/EC.
+
+3\. Wherever Commission inspectors encounter difficulties in the execution of their duties, the Member States concerned shall by any means within their legal powers assist the Commission to accomplish in full its task.
+
+### Article 5 — Participation of national inspectors in Commission inspections
+
+1\. In agreement with the Commission, as far as practicable, Member States shall make available national inspectors able to participate in Commission inspections, including the related preparatory and reporting phases.
+
+2\. A national inspector shall not participate in Commission inspections in the Member State where he is employed.
+
+3\. Each Member State shall provide the Commission with a list of national inspectors on whom the Commission may call to participate in a Commission inspection.
+
+That list shall be updated, at least by the end of June each year.
+
+4\. The Commission shall communicate to the Committee instituted by Article 11(1) of Regulation (EC) No 725/2004 (hereinafter the Committee) the lists referred to in the first subparagraph of paragraph 3 of this Article.
+
+5\. Requests for national inspectors to participate in Commission inspections shall be communicated in good time, normally at least 2 months before the inspection is due to take place.
+
+6\. The expenses arising from the participation of national inspectors in Commission inspections shall, in compliance with Community rules, be met by the Commission.
+
+### Article 6 — Technical assistance from the European Maritime Safety Agency in Commission inspections
+
+In providing the Commission with technical assistance pursuant to Article 2(2)(b) of Regulation (EC) No 1406/2002, the European Maritime Safety Agency shall make technical experts available to participate in Commission inspections, including the related preparatory and reporting phases.
+
+### Article 7 — Qualification criteria and training for Commission inspectors
+
+1\. Commission inspectors shall have appropriate qualifications, including sufficient theoretical and practical experience in maritime security. This shall normally include:
+
+(a) a good understanding of maritime security and how it is applied to the operations being examined;
+
+(b) a good working knowledge of security technologies and techniques;
+
+(c) a knowledge of inspection principles, procedures and techniques;
+
+(d) a working knowledge of the operations being examined;
+
+(e) an awareness of health, safety and security requirements for working in a maritime environment;
+
+(f) a knowledge of the main legal requirements applicable in the field of maritime security.
+
+2\. In order to qualify for Commission inspections, Commission inspectors shall have successfully completed training to carry out such inspections. Commission inspectors shall periodically undergo training at least every 5 years in order to update their knowledge.
+
+In the case of national inspectors the training necessary for them to act as Commission inspectors shall:
+
+(a) be accredited by the Commission;
+
+(b) be initial and recurrent;
+
+(c) ensure a standard of performance adequate for the purposes of controlling whether security measures are implemented in accordance with Regulation (EC) No 725/2004 and Directive 2005/65/EC.
+
+3\. The Commission shall ensure that Commission inspectors fulfil the criteria set out in paragraphs 1 and 2.
+
+4\. If during a previous inspection, the behaviour or performance of an inspector fails to meet the requirements of this Regulation, that inspector shall not be nominated anymore for Commission inspection tasks.
+
+## CHAPTER III — PROCEDURES FOR THE CONDUCT OF COMMISSION INSPECTIONS
+
+### Article 8 — Notice of inspections
+
+1\. The Commission shall give at least 6 weeks' notice of an inspection to the focal point of the Member State in whose territory it is to be conducted.
+
+Commission may communicate to the focal point, in parallel to the notice of the inspection, a pre-inspection questionnaire for completion by the competent authority, along with a request for any relevant documentation. The completed questionnaire and any requested documentation shall be submitted to the Commission at least 2 weeks before the inspection is scheduled to begin.
+
+The notice period provided for in the first subparagraph may be reduced to not less than 2 weeks provided that the Commission acts in response to an exceptional event which may have significant impact on the overall level of maritime security in the European Union and that the Commission consulted the focal point concerned prior to giving the notice. In that case the second subparagraph shall not apply.
+
+2\. The focal point shall be notified in advance of the intended scope of a Commission inspection.
+
+Where a port facility is to be inspected, the focal point shall be informed in the notice whether:
+
+(a) the inspection is to include ships at that port facility, or elsewhere in the port, during the inspection; and
+
+(b) the inspection will include monitoring of the port under Article 13(2) of Directive 2005/65/EC.
+
+For the purposes of point (b) ‘monitoring’ means verifying whether or not the provisions of Directive 2005/65/EC have been implemented by Member States and by the ports in their territory that have been notified to the Commission under Article 12 of Directive 2005/65/EC. In particular, monitoring means verifying that all provisions of Directive 2005/65/EC have been taken into account in the conduct of the port security assessments and the establishment of the port security plans and that the measures established thereunder are consistent with the provisions adopted under Regulation (EC) No 725/2004 for the port facilities located in the ports concerned.
+
+3\. The focal point shall:
+
+(a) inform the relevant competent authorities in the Member State of the inspection;
+
+(b) notify the Commission of those relevant competent authorities.
+
+4\. The focal point shall advise the Commission at least 24 hours in advance of the inspection, of the name of the flag State and the IMO number of ships expected to be at a port facility or port notified under the second subparagraph of paragraph 2 during the inspection.
+
+5\. Where the flag State is a Member State, the Commission shall give notice as soon as possible to the focal point of that Member State that the ship may be inspected when at the port facility. If an inspection is to cover a ship flying the flag of a Member State other than that of the authority being inspected, the Commission shall inform the focal point of the flag State so that the necessary practical arrangements can be made for conducting the inspection on board that ship.
+
+6\. Where the inspection of a port facility in a Member State is to include a ship of that Member State as flag State, the focal point shall liaise with the Commission to confirm whether or not the ship will be at the port facility during the inspection.
+
+7\. Where a ship previously identified to be inspected will not be berthed in the port during the inspection of the port facility, the Commission and the coordinator appointed under Article 9(3) shall agree an alternative ship to be inspected. This ship may be located at another port facility within the port. Paragraphs 5 and 8 of this Article shall still apply in these cases.
+
+8\. Commission inspections shall be carried out under the auspices of the Member State of the port facility exercising control and compliance measures under Regulation 9 of the special measures to enhance maritime security of the 1974 International Convention for the Safety of Life at Sea as amended (SOLAS Convention) when either:
+
+(a) the flag State of the ship is not a Member State; or
+
+(b) the ship was not included in the information provided pursuant to paragraph 4 of this Article.
+
+9\. When the Commission attends a national inspection or verification of a ship at a location outside the European Union, the Commission shall make the necessary arrangements with the focal point in order to follow inspections or verifications with the representative of the flag.
+
+### Article 9 — Preparation of inspections
+
+1\. Commission inspectors shall undertake preparatory activities in order to ensure efficiency, accuracy and consistency of inspections.
+
+2\. The Commission shall provide the focal point with the names of the Commission inspectors mandated to conduct the inspection, and other details as appropriate. Those names shall include the name of the Team Leader for the inspection, who shall be a Commission inspector employed by the Commission.
+
+3\. For each inspection the focal point shall ensure that a coordinator is designated to make the practical arrangements associated with the inspection activity to be undertaken. During the inspection, the team leader shall be the primary contact for the coordinator.
+
+### Article 10 — Conduct of inspections
+
+1\. A standard methodology shall be used to monitor the application by Member States of the maritime security requirements laid down in Regulation (EC) No 725/2004 and in Directive 2005/65/EC.
+
+2\. Commission inspectors, when carrying out inspection activities, shall be accompanied at all times by a representative of the relevant competent authority. That representative shall not prejudice the efficiency or effectiveness of the inspection activities.
+
+The inspections shall be carried out in a way which impedes as little as possible the fluidity of the commercial operations. In order to achieve this, whenever appropriate and with the prior agreement of the flag State and of the master of the ship, an inspection of a ship that has commenced in port may continue after the ship has left port.
+
+If a ship subject to an inspection is serving international scheduled services between two or more Member States, the inspection may also relate to the operations of embarkation and disembarkation applied to passengers and vehicles at each end of the voyage. In such a case, the Commission shall notify the Member State's focal point of the port of arrival in accordance with Article 8(1).
+
+3\. Where a ship at a port facility is to be inspected and the flag State of the ship is not the Member State of the port facility, the Member State of the port facility shall ensure that the Commission inspectors are accompanied by an officer of an authority referred to in Article 8(2) of Regulation (EC) No 725/2004 during the inspection of the ship.
+
+4\. Commission inspectors shall carry an identity card authorising them to carry out inspections on behalf of the Commission. The Member States shall ensure that Commission inspectors are able to obtain access to all areas required for inspection purposes.
+
+5\. A test shall only be performed after notification to and agreement with the focal point on its scope and purpose. The focal point shall undertake any necessary coordination with the competent authorities concerned.
+
+6\. Without prejudice to Article 11, the Commission inspectors shall, wherever appropriate and practicable, deliver an informal oral summary of their observations on the spot.
+
+The relevant focal point shall be informed promptly of any major non-conformity with Regulation (EC) No 725/2004 or Directive 2005/65/EC identified by a Commission inspection, prior to completion of an inspection report in accordance with Article 11 of this Regulation.
+
+However, in cases where a Commission inspector carrying out the inspection of a ship finds a major non-conformity requiring action under Article 16, the Team Leader shall inform immediately in writing the relevant focal points.
+
+7\. Commission inspectors shall conduct inspections in an efficient and effective manner, with due regard to safety and security.
+
+### Article 11 — Inspection report
+
+1\. Within six weeks of completion of an inspection, an inspection report shall be communicated by the Commission to the Member State. This inspection report may contain as appropriate the outcomes of the monitoring of the port undertaken in respect of Article 8(2)(b).
+
+2\. Where a ship has been inspected during the inspection of a port facility, the relevant parts of the inspection report shall also be sent to the Member State that is the flag State, if different from the Member State in which the inspection took place.
+
+3\. The Member State shall inform the inspected entities of the relevant observations of the inspection. However, the inspection report itself shall not be sent to the inspected entities.
+
+4\. When assessing the implementation of Regulation (EC) No 725/2004 and Directive 2005/65/EC in accordance with this Regulation, the findings shall be classified in one of the following categories:
+
+(a) in conformity;
+
+(b) in conformity, but improvement desirable;
+
+(c) non-conformity;
+
+(d) major non-conformity;
+
+(e) not confirmed.
+
+5\. The report shall detail the findings of the inspection identified as ‘major non-conformity’, ‘non-conformity’, ‘in conformity, but improvement desirable’ and ‘not confirmed’ in the implementation of Regulation (EC) No 725/2004 or Directive 2005/65/EC in accordance with the present Regulation.
+
+The report may contain recommendations for corrective action.
+
+### Article 12 — Response from the Member State
+
+1\. Within three months of the date of dispatch of an inspection report, the Member State shall submit to the Commission in writing a response to the report which:
+
+(a) addresses the observations and recommendations; and
+
+(b) provides an action plan, specifying actions and deadlines, to remedy any identified deficiencies.
+
+2\. Where the inspection report does not identify any non-conformity or major non-conformity with Regulation (EC) No 725/2004 or Directive 2005/65/EC, no response shall be required.
+
+3\. When a Member State proposes immediate corrective measures to address a major non-conformity found, it shall promptly notify the Commission about them before the Commission issues its inspection report. In such case, the report shall quote the corrective actions taken by the Member State. If only provisional measures are taken, the Member State shall promptly notify the Commission and shall also inform about the deadline for implementation of the complete and final corrective actions.
+
+### Article 13 — Action by the Commission
+
+1\. The Commission may take any of the following steps in the event of non-conformity or major non-conformity with Regulation (EC) No 725/2004 or Directive 2005/65/EC and following receipt of the response of the Member State:
+
+(a) submit comments to the Member State or request further explanation to clarify all or part of the response;
+
+(b) conduct a follow-up inspection or monitoring to check the implementation of corrective actions, the minimum notice for such follow-up being two weeks;
+
+(c) initiate an infringement procedure in respect of the Member State concerned.
+
+2\. Where a follow-up inspection of a ship is to be conducted, the Member State that is the flag State shall, where possible, inform the Commission of the ship’s future ports of call, so the Commission can decide where and when to carry out the follow-up inspection.
+
+## CHAPTER IV — GENERAL AND FINAL PROVISIONS
+
+### Article 14 — Confidentiality of information
+
+In accordance with existing rules applicable, when conducting inspections in the field of maritime security, the Commission shall take the appropriate measures to protect classified information to which it has access or which is communicated to it by Member States. Member States shall take equivalent measures in accordance with their relevant national legislations.
+
+Sensitive but non-classified information may be exchanged between Member States and the Commission, provided that they protect that information in accordance with the requirements applicable to guarantee its confidentiality.
+
+### Article 15 — Commission inspection programme
+
+1\. The Commission shall seek advice from the Committee on the priorities for the implementation of its inspection programme.
+
+2\. The Commission shall regularly inform the Committee about the implementation of the inspection programme and the results of the inspections. The Commission shall share good practices observed during the inspections with the Member States.
+
+Inspection reports shall normally be made available to the Committee:
+
+(a) as soon as the Member State's response under Article 12(1) has been received; and
+
+(b) when the file is closed.
+
+### Article 16 — Informing Member States of major non-conformity
+
+If an inspection discloses a major non-conformity with Regulation (EC) No 725/2004 or Directive 2005/65/EC which is deemed to have a significant impact on the overall level of maritime security in the Union and that cannot be immediately addressed at least by corrective measures of a provisional nature, the Commission shall inform the other Member States after having notified that major non-conformity to the Member State concerned.
+
+Once a major non-conformity notified to the other Member States under this Article has been corrected to the satisfaction of the Commission, the Commission shall immediately inform the other Member States.
+
+### Article 17 — Review
+
+The Commission shall regularly review its system of inspections and in particular the effectiveness of that system.
+
+### Article 18 — Repeal
+
+Regulation (EC) 884/2005 is repealed.
+
+### Article 19 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 129, 29.4.2004, p. 6.
+
+( 2 ) OJ L 310, 25.11.2005, p. 28.
+
+( 3 ) OJ L 208, 5.8.2002, p. 1. Regulation as last amended by Regulation (EC) No 2038/2006 (OJ L 394, 30.12.2006, p. 1).
+
+( 4 ) OJ L 148, 11.6.2005, p. 25.
+
+( 5 ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53).

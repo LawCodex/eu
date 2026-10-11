@@ -1,0 +1,381 @@
+---
+title: "Regulation (EC) No 1082/2006 of the European Parliament and of the Council of 5 July 2006 on a European grouping of territorial cooperation (EGTC)"
+identifier: "32006R1082"
+eli: "http://data.europa.eu/eli/reg/2006/1082/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-07-05
+entry_into_force: 2006-06-27
+last_amended: 2014-06-22
+consolidated_version: "02006R1082-20140622"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1082-20140622"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1082/2006 of the European Parliament and of the Council of 5 July 2006 on a European grouping of territorial cooperation (EGTC)
+
+**REGULATION (EC) No 1082/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 July 2006**
+
+**on a European grouping of territorial cooperation (EGTC)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 1302/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 December 2013 </td><td> L 347</td><td>303</td><td>20.12.2013</td></tr>
+</table>
+
+**REGULATION (EC) No 1082/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 July 2006**
+
+**on a European grouping of territorial cooperation (EGTC)**
+
+## Article 1 — Nature of an EGTC
+
+1\. A European grouping of territorial cooperation (‘EGTC’) may be established on Union territory under the conditions and subject to the arrangements provided for by this Regulation.
+
+2\. The objective of an EGTC shall be to facilitate and promote, in particular, territorial cooperation, including one or more of the cross-border, transnational and interregional strands of cooperation, between its members as set out in Article 3(1), with the aim of strengthening Union economic, social and territorial cohesion.
+
+3\. An EGTC shall have legal personality.
+
+4\. An EGTC shall have in each Member State the most extensive legal capacity accorded to legal persons under that Member State's national law. It may, in particular, acquire or dispose of movable and immovable property and employ staff and may be a party to legal proceedings.
+
+5\. The registered office of an EGTC shall be located in a Member State under whose law at least one of the EGTC's members is established.
+
+## Article 2 — Applicable law
+
+1\. The acts of the organs of an EGTC shall be governed by the following:
+
+(a) this Regulation;
+
+(b) the convention referred to in Article 8, where it is expressly authorised under this Regulation to do so; and
+
+(c) in the case of matters not, or only partly, regulated under this Regulation, the national law of the Member State where the EGTC has its registered office.
+
+Where it is necessary to determine the applicable law under Union law or private international law, an EGTC shall be considered to be an entity of the Member State where it has its registered office.
+
+1a. The activities of an EGTC relating to carrying out tasks, referred to in Article 7(2) and (3), inside the Union shall be governed by applicable Union law and national law as specified in the convention referred to in Article 8.
+
+The activities of an EGTC that are co-financed from the Union budget shall comply with the requirements set out in applicable Union law and the national law relating to the application of that Union law.
+
+2\. Where a Member State comprises several territorial entities which have their own rules of applicable law, the reference to the law applicable under paragraph 1(c) shall include the law of those entities, taking into account the constitutional structure of the Member State concerned.
+
+## Article 3 — Composition of an EGTC
+
+1\. The following entities may become members of an EGTC:
+
+(a) Member States or authorities at national level;
+
+(b) regional authorities;
+
+(c) local authorities;
+
+(d) public undertakings within the meaning of point (b) of Article 2(1) of Directive 2004/17/EC of the European Parliament and of the Council ( 1 ) or bodies governed by public law within the meaning of the second subparagraph of Article 1(9) of Directive 2004/18/EC of the European Parliament and of the Council ( 2 );
+
+(e) undertakings entrusted with operations of services of general economic interest in compliance with applicable Union and national law;
+
+(f) national, regional or local authorities, or bodies or undertakings, equivalent to those referred to under points (d) and (e), from third countries, subject to the conditions laid down in Article 3a.
+
+Associations consisting of bodies belonging to one or more of these categories may also be members.
+
+2\. An EGTC shall be made up of members located on the territory of at least two Member States, except as provided for in Article 3a(2) and (5).
+
+## Article 3a — Accession of members from third countries or overseas countries or territories (OCTs)
+
+1\. In accordance with Article 4(3a), an EGTC may be made up of members located on the territory of at least two Member States and of one or more third countries neighbouring at least one of those Member States, including its outermost regions, where those Member States and third countries jointly carry out territorial cooperation actions or implement programmes supported by the Union.
+
+For the purposes of this Regulation, a third country or an OCT shall be considered to be neighbouring a Member State, including its outermost regions, where the third country or the OCT and that Member State share a common land border or where both the third country or OCT and the Member State are eligible under a joint maritime cross-border or transnational programme under the European territorial cooperation goal, or are eligible under another cross-border, sea-crossing or sea-basin cooperation programme, including where they are separated by international waters.
+
+2\. An EGTC may be made up of members located on the territory of only one Member State and of one or more third countries neighbouring that Member State, including its outermost regions, where the Member State concerned considers that EGTC to be consistent with the scope of its territorial cooperation in the context of cross-border or transnational cooperation or bilateral relations with the third countries concerned.
+
+3\. For the purposes of paragraphs 1 and 2, third countries neighbouring a Member State, including its outermost regions, include maritime borders between the countries concerned.
+
+4\. In accordance with Article 4a and subject to the conditions set out in paragraph 1 of this Article, an EGTC may also be made up of members located on the territory of at least two Member States, including their outermost regions, and of one or more OCTs, with or without members from one or more third countries.
+
+5\. In accordance with Article 4a and subject to the conditions set out in paragraph 2 of this Article, an EGTC may also be made up of members located on the territory of only one Member State, including its outermost regions, and of one or more OCTs, with or without members from one or more third countries.
+
+6\. An EGTC shall not be set up only between members from a Member State and one or more OCTs linked to that same Member State.
+
+## Article 4 — Establishment of an EGTC
+
+1\. The decision to establish an EGTC shall be taken at the initiative of its prospective members.
+
+2\. Each prospective member shall:
+
+(a) notify the Member State under whose law it has been formed of its intention to participate in an EGTC; and
+
+(b) send that Member State a copy of the proposed convention and statutes referred to in Articles 8 and 9.
+
+3\. Following notification under paragraph 2 by a prospective member, the Member State which has received that notification shall, taking into account its constitutional structure, approve the prospective member's participation in the EGTC and the convention, unless that Member State considers that:
+
+(a) such participation or the convention is not in conformity with any of the following:
+
+(i) this Regulation;
+
+(ii) other Union law concerning the acts and activities of the EGTC;
+
+(iii) national law relating to the powers and competences of the prospective member;
+
+(b) such participation is not justified for reasons of public interest or of public policy of that Member State; or
+
+(c) the statutes are inconsistent with the convention.
+
+In the event of non-approval, the Member State shall state its reasons for withholding approval and shall, where appropriate, suggest the necessary amendments to the convention.
+
+The Member State shall reach its decision, with regard to approval, within a period of six months from the date of receipt of a notification in accordance with paragraph 2. If the Member State which has received the notification, does not raise an objection within that period, the participation of the prospective member and the convention shall be deemed to be approved. However, the Member State where the proposed registered office of the EGTC is to be located shall formally approve the convention in order to allow the EGTC to be established.
+
+Any request for additional information from the Member State to a prospective member shall interrupt the deadline referred to in the third subparagraph. The period of interruption shall start from the day following the date on which the Member State has sent its observations to the prospective member and shall last until the prospective member has responded to the observations.
+
+However, an interruption of the deadline referred to in the third subparagraph shall not occur if the prospective member submits a reply to the observations by the Member State within ten working days of the start of the period of interruption.
+
+In deciding on a prospective member's participation in an EGTC, Member States may apply their national rules.
+
+3a. In the case of an EGTC with prospective members from one or more third countries the Member State where the proposed registered office of the EGTC is to be located shall, in consultation with the other Member States concerned, satisfy itself that the conditions laid down in Article 3a are fulfilled and that each third country has approved the prospective members' participation in accordance with either:
+
+(a) equivalent conditions and procedures to those laid down in this Regulation; or
+
+(b) an agreement concluded between at least one Member State under whose law a prospective member is established and that third country.
+
+4\. Member States shall designate the competent authorities to receive the notifications and documents as set out in paragraph 2.
+
+5\. The members shall agree on the convention referred to in Article 8 while ensuring consistency with the approval in accordance with paragraph 3 of this Article.
+
+6\. Any amendment to the convention or to the statutes shall be notified by the EGTC to the Member States under whose law the EGTC's members are established. Any amendment to the convention, except solely in the event of accession of a new member under point (a) of paragraph 6a, shall be approved by those Member States in accordance with the procedure set out in this Article.
+
+6a. The following provisions shall apply in the event of accession of new members to an existing EGTC:
+
+(a) in the event of accession of a new member from a Member State that has already approved the convention, such accession shall be approved only by the Member State under whose laws the new member is established in accordance with the procedure set out in paragraph 3 and notified to the Member State where the EGTC has its registered office;
+
+(b) in the event of accession of a new member from a Member State that has not already approved the convention, the procedure set out in paragraph 6 shall apply;
+
+(c) in the event of accession of a new member from a third country to an existing EGTC, such accession shall be subject to examination by the Member State where the EGTC has its registered office in accordance with the procedure set out in paragraph 3a.
+
+## Article 4a — Participation of members from an OCT
+
+In the case of an EGTC with a prospective member from an OCT, the Member State to which the OCT is linked shall satisfy itself that the conditions of Article 3a are fulfilled and, taking into account its relationship with the OCT, either:
+
+(a) approve the prospective member's participation in accordance with Article 4(3); or
+
+(b) confirm in writing to the Member State where the proposed registered office of the EGTC is to be located that the competent authorities in the OCT have approved the prospective member's participation in accordance with equivalent conditions and procedures to those laid down in this Regulation.
+
+## Article 5 — Acquisition of legal personality and publication in the Official Journal
+
+1\. The convention and the statutes and any subsequent amendments thereto shall be registered or published, or both, in the Member State where the EGTC concerned has its registered office, in accordance with the applicable national law of that Member State. The EGTC shall acquire legal personality on the date of registration or publication of the convention and the statutes, whichever occurs first. The members shall inform the Member States concerned and the Committee of the Regions of the registration or publication of the convention and the statutes.
+
+2\. The EGTC shall ensure that, within ten working days of the registration or publication of the convention and the statutes, a request is sent to the Committee of the Regions following the template set out in the Annex to this Regulation. The Committee of the Regions shall then transfer that request to the Publications Office of the European Union for publication of a notice, in the C series of the Official Journal of the European Union, announcing the establishment of the EGTC, along with the details set out in the Annex to this Regulation.
+
+## Article 6 — Control of management of public funds
+
+1\. Control of an EGTC's management of public funds shall be organised by the competent authorities of the Member State where the EGTC has its registered office. The Member State where the EGTC has its registered office shall designate the competent authority for this task before giving its approval to participation in the EGTC under Article 4.
+
+2\. Where required under the national legislation of the other Member States concerned, the authorities of the Member State where an EGTC has its registered office shall make arrangements for the appropriate authorities in the other Member States concerned to carry out controls on their territory for those acts of the EGTC which are performed in those Member States and to exchange all appropriate information.
+
+3\. All controls shall be carried out according to internationally accepted audit standards.
+
+4\. Notwithstanding paragraphs 1, 2 and 3 of this Article, where the tasks of an EGTC as refered to in Article 7(3) cover actions which are co-financed by the Union, the relevant legislation concerning the control of funds provided by the Union shall apply.
+
+5\. The Member State where an EGTC has its registered office shall inform the other Member States concerned of any difficulties encountered during the controls.
+
+## Article 7 — Tasks
+
+1\. An EGTC shall carry out the tasks given to it by its members in accordance with this Regulation. Its tasks shall be defined by the convention agreed by its members, in conformity with Articles 4 and 8.
+
+2\. An EGTC shall act within the confines of the tasks given to it, namely the facilitation and promotion of territorial cooperation to strengthen Union economic, social and territorial cohesion, and the overcoming of internal market barriers. Each task shall be determined by its members as falling within the competence of every member, unless the Member State or third country approves the participation of a member established under its national law even where that member is not competent for all the tasks specified in the convention.
+
+3\. An EGTC may carry out specific actions of territorial cooperation between its members in pursuit of the objective referred to in Article 1(2), with or without financial support from the Union.
+
+Primarily, the tasks of an EGTC may concern the implementation of cooperation programmes, or parts thereof, or the implementation of operations supported by the Union through the European Regional Development Fund, the European Social Fund and/or the Cohesion Fund.
+
+Member States may limit the tasks that EGTCs may carry out without financial support from the Union. However, without prejudice to Article 13, Member States shall not exclude tasks concerning the investment priorities referred to in Article 7 of Regulation (EU) No 1299/2013 ( 3 ) of the European Parliament and of the Council.
+
+4\. The tasks given to an EGTC by its members shall not concern the exercise of powers conferred by public law or of duties whose object is to safeguard the general interests of the State or of other public authorities, such as police and regulatory powers, justice and foreign policy.
+
+However, in compliance with applicable Union and national law, the assembly of an EGTC, referred to in point (a) of Article 10(1), may define the terms and conditions of the use of an item of infrastructure the EGTC is managing, or the terms and conditions subject to which a service of general economic interest is provided, including the tariffs and fees to be paid by the users.
+
+5\. The members of an EGTC may decide by unanimity to empower one of the members to execute its tasks.
+
+## Article 8 — Convention
+
+1\. An EGTC shall be governed by a convention concluded unanimously by its members in accordance with Article 4.
+
+2\. The convention shall specify:
+
+(a) the name of the EGTC and its registered office;
+
+(b) the extent of the territory in which the EGTC may execute its tasks;
+
+(c) the objective and the tasks of the EGTC;
+
+(d) the duration of the EGTC and the conditions for its dissolution;
+
+(e) the list of the EGTC's members;
+
+(f) the list of the EGTC's organs and their respective competences;
+
+(g) the applicable Union law and national law of the Member State where the EGTC has its registered office for the purposes of the interpretation and enforcement of the convention;
+
+(h) the applicable Union law and national law of the Member State where the EGTC's organs act;
+
+(i) the arrangements for the involvement of members from third countries or from OCTs if appropriate including the identification of applicable law where the EGTC carries out tasks in third countries or in OCTs;
+
+(j) the applicable Union and national law directly relevant to the EGTC's activities carried out under the tasks specified in the convention;
+
+(k) the rules applicable to the EGTC's staff, as well as the principles governing the arrangements concerning personnel management and recruitment procedures;
+
+(l) the arrangements for liability of the EGTC and its members in accordance with Article 12;
+
+(m) the appropriate arrangements for mutual recognition, including for financial control of the management of public funds; and
+
+(n) the procedures for adoption of the statutes and amendment of the convention, which shall comply with the obligations set out in Articles 4 and 5.
+
+3\. Where the tasks of an EGTC concern only the management of a cooperation programme, or part thereof, under Regulation (EU) No 1299/2013, or where an EGTC concerns interregional cooperation or networks, information under point (b) of paragraph 2 shall not be required.
+
+## Article 9 — Statutes
+
+1\. The statutes of an EGTC shall be adopted on the basis of, and in accordance with, its convention, by its members acting unanimously.
+
+2\. The statutes of an EGTC shall specify, as a minimum, the following:
+
+(a) the operating provisions of its organs and those organs' competences, as well as the number of representatives of the members in the relevant organs;
+
+(b) its decision-making procedures;
+
+(c) its working language or languages;
+
+(d) the arrangements for its functioning;
+
+(e) its procedures concerning personnel management and recruitment;
+
+(f) the arrangements for its members' financial contributions;
+
+(g) the applicable accounting and budgetary rules for its members;
+
+(h) the designation of the independent external auditor of its accounts; and
+
+(i) the procedures for amending its statutes, which shall comply with the obligations set out in Articles 4 and 5.
+
+## Article 10 — Organisation of an EGTC
+
+1\. An EGTC shall have at least the following organs:
+
+(a) an assembly, which is made up of representatives of its members;
+
+(b) a director, who represents the EGTC and acts on its behalf.
+
+2\. The statutes may provide for additional organs with clearly defined powers.
+
+3\. An EGTC shall be liable for the acts of its organs as regards third parties, even where such acts do not fall within the tasks of the EGTC.
+
+## Article 11 — Budget
+
+1\. An EGTC shall establish an annual budget which shall be adopted by the assembly, containing, in particular, a component on running costs and, if necessary, an operational component.
+
+2\. The preparation of its accounts including, where required, the accompanying annual report, and the auditing and publication of those accounts, shall be governed by the national law of the Member State where the EGTC has its registered office.
+
+## Article 12 — Liquidation, insolvency, cessation of payments and liability
+
+1\. As regards liquidation, insolvency, cessation of payments and similar procedures, an EGTC shall be governed by the laws of the Member State where it has its registered office, unless otherwise provided in paragraphs 2 and 3.
+
+An EGTC shall be liable for all its debts.
+
+2\. Without prejudice to paragraph 3, to the extent that the assets of an EGTC are insufficient to meet its liabilities, its members shall be liable for its debts irrespective of the nature of those debts, each member's share being fixed in proportion to its financial contribution. The arrangements for financial contributions shall be fixed in the statutes.
+
+The EGTC's members may provide in the statutes that they are to be liable, after they have ceased to be members of an EGTC, for obligations arising out of activities of the EGTC during their membership.
+
+2a. If the liability of at least one member of an EGTC from a Member State is limited as a result of the national law under which it is established, the other members may also limit their liability in the convention where national law implementing this Regulation enables them to do so.
+
+The name of an EGTC whose members have limited liability shall include the word 'limited'.
+
+The requirements for the publication of the convention, statutes and accounts of an EGTC whose members have limited liability shall be at least equal to those required for other legal entities with limited liability under the laws of the Member State where that EGTC has its registered office.
+
+In the case of an EGTC whose members have limited liability, any Member State concerned may require that the EGTC take out appropriate insurance or that it be subject to a guarantee provided by a bank or other financial institution established in a Member State or that it be covered by a facility provided as a guarantee by a public entity or by a Member State to cover the risks specific to the activities of the EGTC.
+
+3\. Without prejudice to the financial responsibility of Member States in relation to any funding from the Structural and/or Cohesion Funds provided to an EGTC, no financial liability shall arise for Member States on account of this Regulation in relation to an EGTC of which they are not a member.
+
+## Article 13 — Public interest
+
+Where an EGTC carries out any activity in contravention of a Member State's provisions on public policy, public security, public health or public morality, or in contravention of the public interest of a Member State, a competent body of that Member State may prohibit that activity on its territory or require those members which have been formed under its law to withdraw from the EGTC unless the EGTC ceases the activity in question.
+
+Such prohibitions shall not constitute a means of arbitrary or disguised restriction on territorial cooperation between the EGTC's members. Review of the competent body's decision by a judicial authority shall be possible.
+
+## Article 14 — Dissolution
+
+1\. Notwithstanding the provisions on dissolution contained in the convention, on an application by any competent authority with a legitimate interest, the competent court or authority of the Member State where an EGTC has its registered office shall order the EGTC to be wound up if it finds that the EGTC no longer complies with the requirements laid down in Articles 1(2) or 7 or, in particular, that the EGTC is acting outside the confines of the tasks laid down in Article 7. The competent court or authority shall inform all the Member States under whose law the members have been formed of any application to dissolve an EGTC.
+
+2\. The competent court or authority may allow the EGTC time to rectify the situation. If the EGTC fails to do so within the time allowed, the competent court or authority shall order it to be wound up.
+
+## Article 15 — Jurisdiction
+
+1\. Third parties who consider themselves wronged by the acts or omissions of an EGTC shall be entitled to pursue their claims by judicial process.
+
+2\. Except where otherwise provided for in this Regulation, Union law on jurisdiction shall apply to disputes involving an EGTC. In any case which is not provided for in such Union law, the competent courts for the resolution of disputes shall be the courts of the Member State where the EGTC has its registered office.
+
+The competent courts for the resolution of disputes under Article 4(3) or (6) or under Article 13 shall be the courts of the Member State whose decision is challenged.
+
+3\. Nothing in this Regulation shall deprive citizens from exercising their national constitutional rights of appeal against public bodies which are members of an EGTC in respect of:
+
+(a) administrative decisions in respect of activities which are being carried out by the EGTC;
+
+(b) access to services in their own language; and
+
+(c) access to information.
+
+In these cases the competent courts shall be those of the Member State under whose constitution the rights of appeal arise.
+
+## Article 16 — Final provisions
+
+1\. Member States shall adopt provisions to ensure the effective application of this Regulation, including with regard to the determination of the competent authorities responsible for the approval procedure, in accordance with their legal and administrative arrangements.
+
+Where required under the terms of a Member State's national law, that Member State may establish a comprehensive list of the tasks which the members of an EGTC within the meaning of Article 3(1) established under its laws already have, as far as territorial cooperation within that Member State is concerned.
+
+The Member State shall submit to the Commission any provisions adopted under this Article, as well as any amendments thereof. The Commission shall transmit those provisions to the other Member States and the Committee of the Regions.
+
+1a. The provisions referred to in paragraph 1 insofar as they concern a Member State to which an OCT is linked shall, taking into account the relationship of the Member State with that OCT, also ensure the effective application of this Regulation with regard to that OCT, neighbouring other Member States or outermost regions of those Member States.
+
+2\. Member States may provide for the payment of fees in connection with the registration of the convention and statutes. Those fees may not, however, exceed the administrative cost thereof.
+
+## Article 17 — Report
+
+By 1 August 2018 the Commission shall forward to the European Parliament, the Council and the Committee of the Regions a report on the application of this Regulation, evaluating, based on indicators, its effectiveness, efficiency, relevance, European added value and scope for simplification.
+
+The Commission shall be empowered to adopt delegated acts, in accordance with Article 17a, laying down the list of indicators referred to in the first paragraph.
+
+## Article 17a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in the second paragraph of Article 17 shall be conferred on the Commission for a period of five years from 21 December 2013.
+
+3\. The delegation of power referred to in the second paragraph of Article 17 may be revoked at any time by the European Parliament or by the Council.A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to the second paragraph of Article 17 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+## Article 18 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+It shall apply by 1 August 2007, with the exception of Article 16, which shall apply from 1 August 2006.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Template of the information to be submitted under Article 5(2)**
+
+**ESTABLISHMENT OF A EUROPEAN GROUPING OF TERRITORIAL COOPERATION (EGTC)**
+
+The name of an EGTC whose members have limited liability shall include the word ‘limited’ (Article 12(2a))
+
+The asterisk* denotes mandatory fields.
+
+( 1 ) Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, 30.4.2004, p. 1).
+
+( 2 ) Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, 30.4.2004, p. 114).
+
+( 3 ) Regulation (EU) No 1299/2013 of the European Parliament and of the Council of 17 December 2013 on specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal (OJ L 347, 20.12.2013, p. 259).

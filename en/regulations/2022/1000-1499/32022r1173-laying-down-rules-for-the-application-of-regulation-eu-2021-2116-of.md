@@ -1,0 +1,278 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1173 of 31 May 2022 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy"
+identifier: "32022R1173"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1173/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-05-31
+entry_into_force: 2022-11-17
+last_amended: 2026-08-06
+consolidated_version: "02022R1173-20260806"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1173-20260806"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1173 of 31 May 2022 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1173**
+
+**of 31 May 2022**
+
+**laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2202 of 4 September 2024 </td><td> L 2202</td><td>1</td><td>5.9.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/148 of 21 January 2026 </td><td> L 148</td><td>1</td><td>22.1.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1905 of 31 July 2026 </td><td> L 1905</td><td>1</td><td>3.8.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1173**
+
+**of 31 May 2022**
+
+**laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy**
+
+## Article 1 — Scope
+
+This Regulation lays down rules for the application of Regulation (EU) 2021/2116 with regard to integrated administration and control system (‘integrated system’) referred to in Article 65 of Regulation (EU) 2021/2116 in relation to:
+
+(a) the form and, content of and arrangements for transmitting or making available to the Commission of:
+
+(i) the assessment report on the quality of the identification system for agricultural parcels, of the geo-spatial application system and of the area monitoring system;
+
+(ii) the remedial actions referred to in Article 70a of Regulation (EU) 2021/2116;
+
+(b) basic features of, and rules on the aid application system under Article 69 of Regulation (EU) 2021/2116, and the area monitoring system referred to in Article 70 of that Regulation, including parameters of the gradual increase of the number of interventions under the area monitoring system;
+
+(c) the procedure under which the acquisition of satellite data referred to in Article 24 of Regulation (EU) 2021/2116 shall be carried out in order to meet the objectives assigned;
+
+(d) the framework governing the acquisition, enhancing and use of satellite data, and the applicable deadlines; and
+
+(e) a system for checks of the approved interbranch organisations with regard to crop-specific payment for cotton as referred to in Title III, Chapter II, Section 3, subsection 2, of Regulation (EU) 2021/2115.
+
+## Article 2 — Quality assessment report
+
+1\. Member States shall provide the quality assessment referred to in Article 70a of Regulation (EU) 2021/2116 to the Commission in the form of a report submitted through electronic information systems enabling the exchanges of information, documents and supporting data.
+
+2\. The report referred to in paragraph 1 shall provide information on the underlying work in the framework of the quality assessment, in particular in respect of the results of the in situ visits and/or the analysis of imagery providing for reliable and conclusive information in respect of the actual situation on the ground, and quantify the deficiencies detected by the quality assessment. The results of the quality assessment referred to in paragraph 1 shall be combined to quantify the error in the number of hectares or share of areas reported in the annual performance report.
+
+3\. In case the results of the quality assessment reveal deficiencies according to the quality assessment referred to in paragraph 1, Member States shall clearly indicate the remedial actions addressing those deficiencies in the quality assessment report. If the Commission considers that progress in the implementation of the remedial actions proposed in the previous year is insufficient, it may request the Member State to submit an action plan in accordance with Article 42 of Regulation (EU) 2021/2116.
+
+4\. For recurrent deficiencies revealed in the quality assessment referred to in paragraph 1, the Commission shall request an action plan in accordance with Article 42(1) of Regulation (EU) 2021/2116 if the same deficiencies are revealed without any improvement in the second consecutive year and are considered serious in accordance with Article 2, point (d), of that Regulation.
+
+5\. The quality assessment report submitted in relation to years 2024 and 2026 shall list all eligibility conditions for all interventions subject to the area monitoring system with information regarding the data sources used for the analysis.
+
+## Article 3 — General rules for aid application system
+
+1\. Member States shall set up an electronic system for aid applications, which shall be submitted by the beneficiaries annually and contain all necessary information allowing Member States to verify the eligibility conditions for support at least for the interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116 as well as conditions and requirements relevant to conditionality and payment entitlements, where necessary. The system shall allow clear and unambiguous identification of beneficiaries, in particular where the automatic claim system referred to in Article 65(4), point (f), of that Regulation is used. The system shall include the geo-spatial application system and, where applicable, the animal-based application system as referred to in Article 66(1), point (b), of that Regulation.
+
+2\. The aid applications shall be submitted within a deadline set by the Member State and relate to the calendar year of submission.
+
+3\. Member States may provide for a single aid application covering several interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116, payment entitlements and conditionality.
+
+4\. Member States may decide that a group of beneficiaries can jointly submit an aid application, provided equal treatment of all beneficiaries is ensured.
+
+5\. Where a holding is transferred from one beneficiary to another, Member States shall consider only one aid application for that holding in the year of the transfer.
+
+6\. For animal-based interventions under Articles 31, 34 and 70 of Regulation (EU) 2021/2115, where an animal is transferred from one beneficiary to another, Member States may consider more than one aid application for that animal in the year of the transfer provided that they can ensure non-discrimination among the beneficiaries concerned, the efficiency of the checks, a fair application of eventual penalties, and the respect of the annuality of the integrated system.
+
+7\. For the proper administration of interventions within a Member State and where more than one paying agency is responsible for managing the aid application of the same beneficiary, Member State concerned shall take all the appropriate measures to ensure that the necessary information is made available to all paying agencies involved.
+
+## Article 4 — Simplification of procedures related to the aid application system
+
+1\. Member States shall establish electronic means of communication between the beneficiary and the authorities ensuring that transmitted data is reliable in view of the proper management of the interventions under the integrated administration and control system. Where supporting documents cannot be transmitted electronically, Member States shall set the same time limits for their transmission by non-electronic means.
+
+2\. Member States may provide for simplified procedures where data is already available to the authorities, in particular where the situation has not changed since the last submission of an aid application. Member States may decide to use data derived from data sources at the disposal of national authorities for the purpose of aid applications. Member States shall ensure that those data sources offer the level of assurance necessary for the proper management of the data in order to guarantee the reliability, integrity and security of that data.
+
+3\. Where appropriate, Member States may request the information required in any supporting documents to be submitted together with the aid application directly from the source of information.
+
+## Article 5 — Requirements pertaining to the aid application system
+
+1\. Member States shall provide to the beneficiaries, through electronic means, pre-filled forms as referred to in Article 69(3) of Regulation (EU) 2021/2116.
+
+2\. For area-based interventions referred to in Article 65(2) and (3) of Regulation (EU) 2021/2116, the pre-filled forms shall contain the most recently updated corresponding graphic material, provided through an interface based on geographic information system in order to facilitate the geospatial declaration of areas for the purpose of these interventions and of conditionality.
+
+3\. The pre-filled forms referred to in paragraph 1 shall indicate:
+
+(a) the unique identification of all agricultural parcels and units of land containing non-agricultural areas considered eligible by the Member State of the holding;
+
+(b) the surface and location of the declared areas of these parcels and corresponding eligible area determined for payment for the previous year for the purpose of area-based interventions;
+
+(c) information relevant for conditionality.
+
+4\. Information stemming from the area monitoring system may also be provided to beneficiaries, where relevant for the aid application.
+
+5\. For animal-based interventions concerning bovine animals or sheep and goats, Member State shall rely on an updated computer database defined in Article 2, point (25), of Commission Delegated Regulation (EU) 2019/2035 ( 1 ), in order to provide the pre-filled forms with the most recent information from that database, which has to be up-to-date in accordance with the deadlines provided for in Commission Implementing Regulation (EU) 2021/520 ( 2 ).
+
+6\. Member States shall provide the beneficiaries with the possibility to correct the pre-filled forms within a deadline to be established by the Member State in accordance with the conditions for the deadline to submit aid applications laid down in Article 3 and for amendment or withdrawal of aid applications laid down in Article 7.
+
+7\. Modifications provided by the beneficiaries in the pre-filled forms shall be taken into account for the update of the identification system for agricultural parcels, the application of the area monitoring system and the computer database referred to in paragraph 5, where relevant.
+
+8\. In view of facilitating the submission by the beneficiaries, the aid application system shall provide for guiding alerts during the application process.
+
+9\. Member States applying the automatic claim system referred to in Article 65(4), point (f), of Regulation (EU) 2021/2116 shall ensure an equivalent level of detail as set out in this Regulation.
+
+## Article 6 — Content of aid applications
+
+1\. Aid application means application for support under any of the interventions governed by the integrated system or, where relevant an application for support or a payment claim.
+
+2\. The aid application shall at least contain:
+
+(a) the identity of the beneficiary;
+
+(b) details of the intervention(s) applied for;
+
+(c) where appropriate, any supporting documents needed to establish the eligibility conditions and other relevant requirements for the intervention concerned;
+
+(d) information relevant to conditionality.
+
+The beneficiary shall remain responsible for the aid application and the correctness of the information transmitted. This shall also be the case when a Member State applies an automatic claim system.
+
+3\. Member States shall ensure that the aid application contains all information necessary to extract data relevant for the correct reporting on output and result indicators referred to in Article 66(2) of Regulation (EU) 2021/2116 in respect to the interventions covered by the aid application.
+
+## Article 7 — Amendments or withdrawals of aid applications
+
+1\. Aid applications may be amended or totally or partially withdrawn by the beneficiary under the following conditions:
+
+(a) for interventions subject to the area monitoring system, at any time prior to a deadline to be set by the Member State, which shall be no later than 15 calendar days before the date when the first instalment is to be paid in accordance with Article 44(2), first subparagraph, of Regulation (EU) 2021/2116. However, amendments or withdrawals shall not be allowed with respect to non-compliances related to non-monitorable eligibility conditions revealed by means other than the area monitoring system or administrative checks or once the Member State has informed the beneficiary of its intention to carry out an on-the-spot-check;
+
+(b) for animal-based interventions under Article 34 of Regulation (EU) 2021/2115 concerning bovine animals or sheep and goats, at any time prior to a deadline to be set by the Member State, which shall be no later than 15 calendar days before the date when the first instalment is to be paid in accordance with Article 44(2), first subparagraph, of Regulation (EU) 2021/2116. However, with respect to the eligibility condition to identify and register the animals, amendments or withdrawals shall be allowed only prior to the date fixed by the Member State in accordance with Article 34(2), second sentence, of Regulation (EU) 2021/2115 and if the deadline referred to in the first sentence of this point has not passed. In addition, amendments or withdrawals shall not be allowed once the Member State has informed the beneficiary of its intention to carry out an on-the-spot check or the beneficiary becomes aware of a non-compliance as a result of an unannounced on-the-spot check. Nevertheless, amendments or withdrawals shall be authorised with respect to the part not affected by the non-compliance detected by the on-the-spot check;
+
+(c) for other interventions, at any time prior to a deadline to be set by the Member State, which shall be no later than 15 calendar days before the date when the first instalment is to be paid in accordance with Article 44(2), first subparagraph, of Regulation (EU) 2021/2116. However, amendments or withdrawals shall not be allowed once the Member State has informed the beneficiary of its intention to carry out an on-the-spot check or the beneficiary becomes aware of a non-compliance as a result of an unannounced on-the-spot check. Nevertheless, amendments or withdrawals shall be authorised with respect to the part not affected by the non-compliance detected by the on-the-spot check.
+
+2\. In case of non-compliances with eligibility conditions detected by the administrative checks or the area monitoring system, Member States shall inform the beneficiaries allowing for the possibility to amend or withdraw the aid application in respect to the part affected by the non-compliance in accordance with paragraph 1, points (a), (b) and (c). However, for animal-based interventions under Article 34 of Regulation (EU) 2021/2115 concerning bovine animals or sheep and goats, in case of non-compliances in respect to the eligibility condition to identify and register the animals, amendments or withdrawals shall be allowed only prior to the date fixed by the Member State for these requirements to be met as referred to in paragraph 2 of that Article. In order to facilitate the process for the beneficiary, Member States may proceed to the necessary corrections of the aid application in respect to the part affected by the non-compliance. However, in this case, Member States shall ensure that the beneficiary is aware of the changes introduced by the Member State and has the possibility to react in case of disagreement.
+
+3\. For the animal-based interventions under Article 34 of Regulation (EU) 2021/2115 concerning bovine animals or sheep and goats, Member States may provide that the notifications to the computer database, referred to in Article 5(5) of this Regulation, of an animal that has left the holding may substitute a withdrawal of the animal in writing.
+
+4\. For Member States applying an automatic claim system referred to in Article 65(4), point (f), of Regulation (EU) 2021/2116 for animal-based interventions, beneficiaries may only withdraw their claim in respect of all animals relevant for the intervention that are registered in the computer database.
+
+5\. Amendments or withdrawals shall be made with the use of the official communication channels established by the Member State.
+
+6\. Member States shall inform the beneficiaries of the latest date to amend or withdraw the aid application. Member States shall ensure equal treatment towards beneficiaries who are subject to an automatic claim system referred to in Article 65(4), point (f), of Regulation (EU) 2021/2116.
+
+## Article 8 — Geo-spatial application
+
+1\. The geo-spatial application shall be used for all area-based interventions under the integrated system and for the relevant information in relation to conditionality, also in case of the beneficiaries who are subject to conditionality but are not applying for support under the area-based interventions.
+
+2\. The geo-spatial application may also be used for the area-based interventions in the wine sector as laid down in Title III, Chapter III, Section 4, of Regulation (EU) 2021/2115.
+
+3\. Without prejudice to Article 6, the geo-spatial application shall contain at least the following information:
+
+(a) unambiguous identification of agricultural parcels and units of land containing non-agricultural areas considered eligible by the Member State of the holding;
+
+(b) clear delineation of the area declared for aid under each intervention on the agricultural parcels and units of land containing non-agricultural areas considered eligible by the Member State, in particular if the area claimed is smaller than the total area of the agricultural parcel;
+
+(c) the type, location and, where relevant, size of landscape features relevant for conditionality or interventions;
+
+(d) crop on agricultural parcels, where relevant;
+
+(e) where relevant, whether the parcel is subject to organic farming, and in particular for the conversion or maintenance of organic farming practices and methods as laid down in Regulation (EU) 2018/848 of the European Parliament and of the Council ( 3 ), relevant for support granted for interventions referred to in Articles 31 and 70 of Regulation (EU) 2021/2115 or conditionality;
+
+(g) the identification of the payment entitlements in accordance with the identification and registration system provided for in Article 73 of Regulation (EU) 2021/2116 for the purpose of the basic income support for sustainability;
+
+(h) for areas claimed for the crop-specific payment for cotton, the variety of cotton seed used and, where applicable, the identification of the approved interbranch organisation of which the beneficiary is a member;
+
+(i) for areas used for the production of hemp, the variety of seed used, an indication of the quantities of the seeds used, expressed in kilograms per hectare, and the official labels used on the packaging of the seeds in accordance with Council Directive 2002/57/EC ( 4 ), and in particular Article 12 thereof, or any other document recognised as equivalent by the Member State. Where the labels also have to be submitted to other national authorities, Member States may provide for those labels to be returned to the beneficiaries. The labels returned shall be marked as used for an application.
+
+## Article 9 — Applications for animal-based interventions
+
+1\. Without prejudice to Article 6, applications for animal-based interventions shall contain at least the following:
+
+(a) the number of animals or, as relevant, the number of livestock units, of each type, in respect of which an animal-based intervention is applied for;
+
+(b) where relevant, information on the location where the animals will be held in the calendar year covered by the aid application;
+
+(c) where the support concerns the bovine animals or sheep and goats, updated information relevant for the intervention on the animals in relation to the system for the identification and registration of animals, in accordance with Article 34(2) of Regulation (EU) 2021/2115.
+
+2\. Member States applying an automatic claim system according to Article 65(4), point (f), of Regulation (EU) 2021/2116 shall ensure equivalent level of detail as set out in paragraph 1 of this Article based on the information available in the official computerised database, which shall be up-to-date for all animals, in accordance with Article 34(2) of Regulation (EU) 2021/2115. Under the automatic claim system, all animals of the beneficiary relevant for an intervention shall be considered as included in the claim.
+
+## Article 10 — Area monitoring system
+
+1\. The area monitoring system shall apply to all aid applications for area-based interventions under the integrated system submitted in each Member State and shall be used to observe, track and assess agricultural activities and practices on hectares under these area-based interventions and at least for the purpose of annual performance reporting.
+
+2\. Member States shall ensure that for all area-based interventions the eligibility conditions, which can be monitored with Copernicus Sentinels satellites data or other data with at least equivalent value, are subject to the area monitoring system and shall communicate this information to the beneficiaries concerned.
+
+3\. For the purpose of the area monitoring system, an eligibility condition shall be considered monitorable when it can be monitored by Copernicus Sentinels satellites data. Member States may also consider an eligibility condition as monitorable when it can be monitored by geotagged photos or any other data with at least equivalent value as provided for in Article 11. In order to address eligibility conditions considered monitorable, Member State may decide to use Copernicus Sentinels satellites data, geotagged photos or any other data with at least equivalent value as provided for in Article 11.
+
+5\. For the analysis of monitorable eligibility conditions under the area monitoring system, Member States may choose to combine Copernicus Sentinels satellites data and/or other types of data with at least equivalent value in accordance with the criteria specified in Article 11 to cover the full population of aid applications concerned. Member States may also decide to perform a cascaded analysis of Sentinel satellite data and/or other types of data with at least equivalent value for the purpose of reducing the number of non-conclusively monitored cases. For eligibility conditions that can be monitored only by geotagged photos, in case of absence of input by the beneficiary, the Member State shall consider that this eligibility condition has not been met.
+
+6\. Member States shall ensure that hectares, which do not meet the relevant eligibility conditions at the latest date allowed for amendments of aid applications in accordance with Article 7, are excluded from the annual performance reporting.
+
+7\. In order to allow the reliable observation, tracking and assessment of agricultural activities and practices, the area monitoring system shall, at the level of agricultural parcel or units of land containing non-agricultural areas considered eligible by the Member State, ensure the detection of:
+
+(a) presence of ineligible area, in particular due to permanent structures;
+
+(b) presence of ineligible land use;
+
+(c) change in the category of agricultural area whether it is arable land, permanent crop or permanent grassland.
+
+Where relevant, Member States shall use the information referred to in this paragraph for the purpose of updating the identification system for agricultural parcels.
+
+8\. Member States shall communicate to beneficiaries the information on hectares where the relevant eligibility conditions are not met and on detected presence of ineligible area, ineligible land use or change in the category of agricultural area so that beneficiaries can make amendments to aid applications, referred to in Article 7, or provide additional evidence. Member States may also decide to communicate to beneficiaries any other provisional result including non-conclusively monitored cases allowing the beneficiaries, where necessary, to amend their applications in accordance with Article 7(1).
+
+9\. By way of derogation from paragraph 1 and in order to allow for a gradual increase of the number of interventions subject to area monitoring system, in 2023 the system shall provide information at least on the following:
+
+(a) all relevant eligibility conditions for basic income support for sustainability, referred to in Article 21 of Regulation (EU) 2021/2115;
+
+(b) all relevant eligibility conditions for interventions for natural or other area specific constraints, referred to in Article 71 of Regulation (EU) 2021/2115.
+
+## Article 11 — Data with at least equivalent value for the area monitoring system
+
+For the purpose of the area monitoring system, Member States may decide to use other data with at least equivalent value if they are in digital form, allow automatic processing of data, are systematically available for the beneficiaries concerned or categories of areas in the Member State, not discriminatory and suitable for determining compliance with a particular eligibility condition or obligation on the area subject to the relevant condition. In that context, geo-tagged photos shall be considered as other data with at least equivalent value, as referred to in Article 65(4), point (b), of Regulation (EU) 2021/2116.
+
+## Article 12 — Acquisition of satellite data
+
+1\. For the purposes of Article 24 of Regulation (EU) 2021/2116, each Member State shall inform the Commission before 1 November of the calendar year preceding the year of the performance of the quality assessment of the area monitoring system, about its specification on the acquisition of the satellite data in respect to:
+
+(a) the population of parcels per intervention from which the quality assessment sample will be selected;
+
+(b) the timetable for obtaining the satellite data for the eligibility conditions of the intervention on the selected parcels.
+
+2\. For the purposes of paragraph 1, point (a), Member States shall draw the population of parcels for the quality assessment sample based on the aid applications of the year preceding the calendar year of the quality assessment. The population of the parcels for which satellite data is requested may be updated in the calendar year of the quality assessment for parcels that, following the aid applications of the calendar year concerned, are not relevant anymore for a given intervention or for parcels under interventions for which aid was not applied for the previous year.
+
+3\. The Commission shall finalise the agreement with the Member State concerned on the information referred to in paragraph 1, points (a) and (b), before 15 January following the communication of information referred to in paragraph 1.
+
+4\. The competent authorities or bodies representing them referred to in Article 24 of Regulation (EU) 2021/2116 must observe the provisions on copyright set out in the contracts with the suppliers.
+
+5\. If the total requests received by Member States exceed the budget available for the application of Article 24 of Regulation (EU) 2021/2116, the Commission shall decide on a limitation of the satellite data to be provided, aiming at the most efficient use of the available resources. In addition, where Member States add parcels during the calendar year to the population for the quality assessment of the area monitoring system, the Commission may not be able to acquire all relevant imagery.
+
+## Article 13 — Checks of the approved interbranch organisations for crop-specific payment for cotton
+
+Member States shall carry out administrative checks on the approved interbranch organisations for crop specific payment for cotton in accordance with this article.
+
+Where appropriate to verify the eligibility for an increase of aid provided for in Article 40(2) of Regulation (EU) 2021/2115, Member States shall cross-check the declaration of the beneficiary in the geo-spatial application to be a member of an approved interbranch organisation with the information transmitted by the organisation concerned.
+
+At least once every 5 years, Member States shall verify the compliance with the criteria for the approval of interbranch organisations and the list of their members.
+
+## Article 14 — Repeal
+
+Implementing Regulation (EU) No 809/2014 is repealed with effect from 1 January 2023.
+
+However, it shall continue to apply to:
+
+(a) aid applications for direct payments lodged before 1 January 2023;
+
+(b) payment claims made in relation to support measures implemented under Regulation (EU) No 1305/ 2013;
+
+(c) the control system and administrative penalties as regards rules on cross-compliance, with the exception of the control data and control statistics referred to in Article 9(1), point (b), of that Implementing Regulation from 1 January 2024.
+
+## Article 15 — Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply to aid applications relating to interventions implemented in accordance with Regulation (EU) 2021/2115 as from 1 January 2023.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Commission Delegated Regulation (EU) 2019/2035 of 28 June 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs (OJ L 314, 5.12.2019, p. 115).
+
+( 2 ) Commission Implementing Regulation (EU) 2021/520 of 24 March 2021 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to the traceability of certain kept terrestrial animals (OJ L 104, 25.3.2021, p. 39).
+
+( 3 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+
+( 4 ) Council Directive 2002/57/EC of 13 June 2002 on the marketing of seed of oil and fibre plants (OJ L 193, 20.7.2002, p. 74).

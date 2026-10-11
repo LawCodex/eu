@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(77/249/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/100/EC of 20 November 2006 </td><td> L 363</td><td>141</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/25/EU of 13 May 2013 </td><td> L 158</td><td>368</td><td>10.6.2013</td></tr>
+</table>
 
 |  | ACT concerning the conditions of accession of the Hellenic Republic and the adjustments to the Treaties | L 291 | 17 | 19.11.1979 |
 | --- | --- | --- | --- | --- |
@@ -50,6 +52,7 @@ retrieved: 2026-10-11
 
 2.
 
+<table>
 <tbody><tr><td>Belgium:</td><td>Avocat — Advocaat</td></tr>
 <tr><td>Denmark:</td><td>Advokat</td></tr>
 <tr><td>Germany:</td><td>Rechtsanwalt</td></tr>
@@ -86,6 +89,7 @@ retrieved: 2026-10-11
 <tr><td>Croatia:</td><td>Odvjetnik/Odvjetnica.</td></tr>
 <tr><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 ## Article 2
 

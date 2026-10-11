@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2009/17/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 </td><td> L 131</td><td>101</td><td>28.5.2009</td></tr>
@@ -30,6 +31,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DIRECTIVE 2014/100/EU of 28 October 2014 </td><td> L 308</td><td>82</td><td>29.10.2014</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/811 of 19 February 2025 </td><td> L 811</td><td>1</td><td>28.4.2025</td></tr>
+</table>
 
 **DIRECTIVE 2002/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

@@ -82,6 +82,7 @@ Member of the Commission
 
 ## ANNEX — ‘ANNEX V
 
+<table>
 <tbody><tr><td>Fruit’s Common Name</td><td>Botanical Name</td><td>Minimum degree Brix values for reconstituted fruit juice and reconstituted fruit purée</td></tr>
 <tr><td>Apple (*)</td><td>Malus domestica Borkh.</td><td>11,2 </td></tr>
 <tr><td>Apricot (**)</td><td>Prunus armeniaca L.</td><td>11,2 </td></tr>
@@ -103,3 +104,4 @@ Member of the Commission
 <tr><td>Mandarin (*)</td><td>Citrus reticulata Blanco</td><td>11,2 </td></tr>
 <tr><td colspan="3">If a juice from concentrate is manufactured from a fruit not mentioned in the above list, the minimum Brix level of the reconstituted juice shall be the Brix level of the juice as extracted from the fruit used to make the concentrate. For those products marked with an asterisk (*), which are produced as a juice, a minimum relative density is determined as such in relation to water at 20/20 °C.  For those products marked with two asterisks (**), which are produced as a purée, only a minimum uncorrected Brix reading (without correction of acid) is determined.  In respect of blackcurrant, guava, mango and passion fruit, the minimum Brix degree values only apply to reconstituted fruit juice and reconstituted fruit purée produced in the Community.’ </td></tr>
 </tbody>
+</table>

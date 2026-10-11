@@ -1,0 +1,318 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/2286 of 15 December 2016 laying down detailed rules on the application of fair use policy and on the methodology for assessing the sustainability of the abolition of retail roaming surcharges and on the application to be submitted by a roaming provider for the purposes of that assessment (Text with EEA relevance )"
+identifier: "32016R2286"
+eli: "http://data.europa.eu/eli/reg_impl/2016/2286/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-12-15
+entry_into_force: 2016-09-14
+last_amended: 2019-03-13
+consolidated_version: "02016R2286-20190313"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R2286-20190313"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/2286 of 15 December 2016 laying down detailed rules on the application of fair use policy and on the methodology for assessing the sustainability of the abolition of retail roaming surcharges and on the application to be submitted by a roaming provider for the purposes of that assessment (Text with EEA relevance )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/2286**
+
+**of 15 December 2016**
+
+**laying down detailed rules on the application of fair use policy and on the methodology for assessing the sustainability of the abolition of retail roaming surcharges and on the application to be submitted by a roaming provider for the purposes of that assessment**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/296 of 20 February 2019 </td><td> L 50</td><td>4</td><td>21.2.2019</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/2286**
+
+**of 15 December 2016**
+
+**laying down detailed rules on the application of fair use policy and on the methodology for assessing the sustainability of the abolition of retail roaming surcharges and on the application to be submitted by a roaming provider for the purposes of that assessment**
+
+**(Text with EEA relevance)**
+
+## SECTION I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down detailed rules to ensure the consistent implementation of a fair use policy that roaming providers may apply to the consumption of regulated retail roaming services provided at the applicable domestic retail price in accordance with Article 6b of Regulation (EU) No 531/2012.
+
+2\. It also lays down detailed rules on:
+
+(a) roaming providers' applications for authorisation to apply a roaming surcharge filed pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of their domestic charging model;
+
+(b) the methodology to be applied by national regulatory authorities in assessing whether the roaming provider has established that it is unable to recover its costs of providing regulated roaming services, with the effect that the sustainability of its domestic charging model would be undermined.
+
+### Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the definitions in Regulation (EU) No 531/2012 apply.
+
+2\. The following definitions also apply:
+
+(a) ‘stable links’ with a Member State means presence on the territory of the Member State arising from a full-time and durable employment relationship, including that of frontier workers; from durable contractual relations entailing a similar degree of physical presence of a self-employed person; from participation in full-time recurring courses of study; or from other situations, such as those of posted workers or retired persons, whenever they involve an analogous level of territorial presence;
+
+(b) ‘mobile retail services’ means public mobile communications services provided to end users, including voice, SMS and data services;
+
+(c) ‘open data bundle’ means a tariff plan for the provision of one or more mobile retail services which does not limit the volume of mobile data retail services included against the payment of a fixed periodic fee, or for which the domestic unit price of mobile data retail services, derived by dividing the overall domestic retail price, excluding VAT, for mobile services corresponding to the entire billing period by the total volume of mobile data retail services available domestically, is lower than the regulated maximum wholesale roaming charge referred to in Article 12 of Regulation (EU) No 531/2012;
+
+(d) ‘pre-paid tariff plan’ means a tariff plan under which mobile retail services are provided upon deduction of credit made available by the customer to the provider on a per-unit basis, in advance of consumption, and from which a customer may withdraw without penalty upon exhaustion or expiry of credit;
+
+(e) ‘visited Member State’ means a Member State other than that of the roaming customer's domestic provider;
+
+(f) ‘mobile services margin’ means earnings, before interest tax depreciation and amortisation, from the sale of mobile services other than retail roaming services provided within the Union, thereby excluding costs and revenues from retail roaming services;
+
+(g) ‘group’ means a parent undertaking and all its subsidiary undertakings subject to its control within the meaning of Council Regulation (EC) No 139/2004 ( 1 ).
+
+## SECTION II — FAIR USE POLICY
+
+### Article 3 — Basic principle
+
+1\. A roaming provider shall provide regulated retail roaming services at domestic price to its roaming customers who are normally resident in or have stable links entailing a frequent and substantial presence in the Member State of that roaming provider while they are periodically travelling in the Union.
+
+2\. Any fair use policy applied by a roaming provider in order to prevent abusive or anomalous usage of regulated retail roaming services shall be subject to the conditions set out in Articles 4 and 5 and shall ensure that all such roaming customers have access to regulated retail roaming services at domestic price during such periodic travel in the Union under the same conditions as if such services were consumed domestically.
+
+### Article 4 — Fair use
+
+1\. For the purposes of any fair use policy the roaming provider may request from its roaming customers to provide proof of normal residence in the Member State of the roaming provider or of other stable links with that Member State entailing a frequent and substantial presence on its territory.
+
+2\. Without prejudice to any applicable domestic volume limit, in the case of an open data bundle, the roaming customer shall be able to consume when periodically travelling in the Union a volume of data roaming retail services at the domestic retail price equivalent to at least twice the volume obtained by dividing the overall domestic retail price of that open data bundle, excluding VAT, corresponding to the entire billing period by the regulated maximum wholesale roaming charge referred to in Article 12 of Regulation (EU) No 531/2012.
+
+In the event of bundled sale of mobile retail services with other services or terminals, the overall domestic retail price of a data bundle shall be determined, for the purposes of Article 2(2)(c) and of this paragraph, by taking into account the price applied to the separate sale of the mobile retail services component of the bundle, excluding VAT, if available, or the price for the sale of such services with the same characteristics on a stand-alone basis.
+
+3\. In the case of pre-paid tariff plans, as an alternative to the fair use policy requirement in paragraph 1, the roaming provider may limit the consumption of data roaming retail services within the Union at the domestic retail price to volumes equivalent to at least the volume obtained by dividing the overall amount, excluding VAT, of the remaining credit available and already paid by the customer to the provider, at the moment of commencing roaming, by the regulated maximum wholesale roaming charge referred to in Article 12 of Regulation (EU) No 531/2012.
+
+4\. In the context of the processing of traffic data according to Article 6 of Directive 2002/58/EC, in order to prevent abusive or anomalous usage of regulated retail roaming services provided at the applicable domestic retail price, the roaming provider may apply fair, reasonable and proportionate control mechanisms based on objective indicators related to the risk of abusive or anomalous use beyond periodic travelling in the Union.
+
+The objective indicators may include measures to establish whether customers have prevailing domestic consumption over roaming consumption or prevailing domestic presence of the customer over presence in other Member States of the Union.
+
+In order to ensure that roaming customers engaged in periodic travel are not subjected to unnecessary or excessive alerts pursuant to Article 5(4), roaming providers which apply such measures to establish a risk of abusive or anomalous use of roaming services shall observe such indicators of presence and consumption cumulatively and for a period of time of at least 4 months.
+
+The roaming provider shall specify in contracts with roaming customers to which mobile retail service or services the consumption indicator relates and the minimum duration of the observation period.
+
+Either prevailing domestic consumption or prevailing domestic presence of the roaming customer during the defined observation period shall be considered as a proof of non-abusive and non-anomalous usage of regulated retail roaming services.
+
+For the purpose of the second, third and fifth subparagraph, any day when a roaming customer has logged on to the domestic network shall be counted as a day of domestic presence of that customer.
+
+Other objective indicators of a risk of abusive or anomalous use of regulated retail roaming services provided at the applicable domestic retail price may only include:
+
+(a) long inactivity of a given SIM card associated with use mostly, if not exclusively, while roaming;
+
+(b) subscription and sequential use of multiple SIM cards by the same customer while roaming.
+
+5\. Where the roaming provider establishes, with objective and substantiated evidence, that a number of SIM cards have been the object of organised resale to persons not effectively residing in or having stable links entailing frequent and substantial presence in the Member State of that retail roaming provider in order to enable consumption of regulated retail roaming services provided at the applicable domestic retail price other than for the purpose of periodic travel, the roaming provider may take immediate proportionate measures in order to ensure compliance with all conditions of the underlying contract.
+
+6\. The roaming provider shall comply with Directives 2002/58/EC and 95/46/EC and their national implementing measures, and Regulation (EU) 2016/679 when acting pursuant to this section.
+
+7\. This Regulation does not apply to any fair use policies defined in the contractual terms of alternative roaming tariffs provided in accordance with Article 6e(3) of Regulation (EU) No 531/2012.
+
+### Article 5 — Transparency and supervision of fair use policies
+
+1\. When a roaming provider applies a fair use policy, it shall include in contracts with roaming customers all the terms and conditions associated with that policy, including any control mechanism applied in accordance with Article 4(4). As part of the fair use policy, the roaming provider shall put in place transparent, simple and efficient procedures to address complaints of customers relating to the application of a fair use policy. This is without prejudice to the rights of the roaming customer, pursuant to Article 17(2) of Regulation (EU) No 531/2012, to avail of transparent, simple, fair and prompt out-of-court dispute resolution procedures established in the Member State of the roaming provider in accordance with Article 34 of Directive 2002/22/EC. Such complaint mechanism and dispute resolution procedures shall permit the roaming customer to provide evidence that it is not using the regulated roaming retail services for other purposes than periodic travel, in response to an alert in accordance with paragraph (3), first subparagraph.
+
+2\. Fair use policies in accordance with this Regulation shall be notified by the roaming provider to the national regulatory authority.
+
+3\. Where there is objective and substantiated evidence, based on the objective indicators referred to in Article 4(4), indicating a risk of abusive or anomalous use of regulated roaming retail services within the Union at the domestic retail price by a given customer, the roaming provider shall alert the customer about the detected behaviour pattern indicating such a risk before applying any surcharge pursuant to Article 6e of Regulation (EU) No 531/2012.
+
+In cases where such risk results from non-fulfilment of both the prevailing domestic consumption and the prevailing domestic presence criteria over the defined observation period, referred to in the fifth subparagraph of Article 4(4), additional indications of risk arising from the overall non-domestic presence or usage of the roaming customer shall be taken into account for the purposes of resolving any subsequent complaint as provided in paragraph (1) or dispute resolution procedure pursuant to Article 17(2) of Regulation (EU) No 531/2012, relative to the applicability of a surcharge.
+
+This paragraph shall apply irrespective of the provision by the roaming customer of documentary evidence of residence or other stable links entailing frequent and substantial presence in the Member State of the roaming provider pursuant to Article 4(1).
+
+4\. When alerting the roaming customer pursuant to paragraph 3, the roaming provider shall inform the customer that, in the absence of a change in the usage pattern within a period which cannot be shorter than 2 weeks, demonstrating actual domestic consumption or presence, a surcharge pursuant to Article 6e of Regulation (EU) No 531/2012 may be applied for any further use of regulated retail roaming services with the SIM card in question after the date of such alert.
+
+5\. The roaming provider shall cease to apply the surcharge as soon as the customer's usage no longer indicates a risk of abusive or anomalous use of the regulated retail roaming services based on the objective indicators referred to in Article 4(4).
+
+6\. Where a roaming provider establishes that SIM cards have been the object of organised resale to persons who neither normally reside in nor have stable links entailing frequent and substantial presence in the Member State of the retail roaming provider to enable consumption of regulated retail roaming services other than for the purpose of periodic travel outside that Member State in accordance with Article 4(3), the operator shall notify to the national regulatory authority the evidence characterising the systematic abuse in question and the measure taken to ensure compliance with all conditions of the underlying contract at the latest at the same time as such measure is taken.
+
+## SECTION III — APPLICATION AND METHODOLOGY FOR ASSESSING THE SUSTAINABILITY OF THE ABOLITION OF RETAIL ROAMING CHARGES
+
+### Article 6 — Data supporting the application for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model
+
+1\. Applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model (‘application’) shall be assessed on the basis of data on the overall volumes of regulated retail roaming services provided by the applicant roaming provider projected over a period of 12 months starting at the earliest on 15 June 2017. For the first application, these volume projections shall be estimated using one or a combination of the following options:
+
+(a) actual volumes of regulated retail roaming services provided by the applicant at the applicable regulated retail roaming price prior to 15 June 2017;
+
+(b) projected volumes of regulated retail roaming services after 15 June 2017, where the projected volumes of regulated retail roaming services over the period in question are estimated based on actual domestic retail consumption of mobile services and time spent abroad in the Union by the roaming customers of the applicant;
+
+(c) projected volumes of regulated retail roaming services after 15 June 2017, where the volumes of regulated retail roaming services are estimated based on the proportional change in the volumes of regulated retail roaming services experienced in the applicant's tariff plans representing a substantial part of the customer base on which the prices of regulated retail roaming services were set by the applicant at the domestic level for a period of at least 30 days, in accordance with the methodology set out in Annex I.
+
+In the event of updates to the application being submitted pursuant to Article 6c(2) of Regulation (EU) No 531/2012, the projected overall volumes of regulated roaming services shall be updated on the basis of the actual average pattern of consumption of domestic mobile services multiplied by the observed number of roaming customers and the time they have spent in visited Member States in the previous 12 months.
+
+2\. Any data on the applicant's costs and revenues shall be based on financial accounts, which shall be made available to the national regulatory authority, and may be adjusted according to volume estimates pursuant to paragraph 1. Where costs are projected, deviations from figures resulting from past financial accounts shall be considered only if supported by proof of financial commitments for the period covered by the projections.
+
+3\. The applicant shall provide all necessary data used to determine the mobile services margin and the overall actual and projected costs and revenues of providing regulated roaming services over the relevant period.
+
+### Article 7 — Determination of roaming-specific costs for the provision of regulated retail roaming services
+
+1\. For the purposes of establishing that the applicant is unable to recover its costs, with the effect that the sustainability of its domestic charging system would be undermined, only the following roaming-specific costs shall be taken into consideration, if substantiated in the application for authorisation to apply a roaming surcharge:
+
+(a) the costs for the purchase of wholesale roaming access;
+
+(b) the roaming-specific retail costs.
+
+2\. With regard to the costs incurred for the purchase of regulated wholesale roaming services, only the amount by which the applicant's overall payments to counterparts providing such services in the Union is expected to exceed the overall sums due to it for the provision of the same services to other roaming providers in the Union shall be taken into account. As regards the sums due to the roaming provider for the provision of regulated wholesale roaming services, the roaming provider shall assume projected volumes of these wholesale roaming services that are consistent with the assumption underlying its projected volumes in Article 6(1).
+
+3\. With regard to the roaming-specific retail costs, only the following costs shall be taken into account, if substantiated in the application:
+
+(a) the costs of operating and managing roaming activities, including all business intelligence systems and software dedicated to roaming operation and management;
+
+(b) data-clearing and payment costs, including both data-clearing and financial clearing costs;
+
+(c) contract negotiation and agreement costs, including external fees and use of internal resources;
+
+(d) costs sustained in order to comply with the requirements for the provision of regulated retail roaming services laid down in Articles 14 and 15 of Regulation (EU) No 531/2012, taking into account the applicable fair use policy adopted by the roaming provider.
+
+4\. Costs referred to in points (a), (b) and (c) of paragraph 3 shall be taken into account only in proportion to the ratio of overall traffic volume of the applicant's regulated retail roaming services to the overall retail outbound and wholesale inbound traffic of its roaming services, in accordance with the methodology set out in Annex II, points (1) and (2), and in proportion to the ratio of overall amount of traffic of its retail roaming services within the Union to the overall traffic of its retail roaming services within and outside the Union, in accordance with the methodology set out in Annex II, points (1) and (3).
+
+5\. The costs referred to in point (d) of paragraph 3 shall be taken into account only in proportion to the ratio of overall traffic volume of the applicant's retail roaming services within the Union to the overall traffic of its retail roaming services within and outside the Union, in accordance with the methodology set out in Annex II, points (1) and (3).
+
+### Article 8 — Allocation of retail joint and common costs to the provision of regulated retail roaming services
+
+1\. In addition to the costs determined pursuant to Article 7, a proportion of joint and common costs incurred for the provision of mobile retail services in general may be included in the application for authorisation to apply a roaming surcharge. Only the following costs shall be taken into account, if substantiated in the application:
+
+(a) billing and collection costs, including all costs associated with processing, calculating, producing and notifying the actual customer bill;
+
+(b) sales and distribution costs, including the costs of operating shops and other distribution channels for the sale of mobile retail services;
+
+(c) customer care costs, including the cost of operating all customer care services available to the end user;
+
+(d) bad debt management costs, including costs incurred in writing off customers' unredeemable debts and collecting bad debts;
+
+(e) marketing costs, including all expenses for advertising mobile services.
+
+2\. The costs referred to in paragraph 1, if substantiated in the application, shall be taken into account only in proportion to the ratio of overall traffic of the applicant's retail roaming services within the Union to the overall retail traffic of all mobile retail services, obtained as a weighted average of that ratio per mobile service, with weights reflecting the respective average wholesale roaming prices paid by the applicant in accordance with the methodology set out in Annex II, points (1) and (4).
+
+### Article 9 — Determination of revenues from the provision of regulated retail roaming services
+
+1\. For the purposes of establishing that the applicant is unable to recover its costs, with the effect that the sustainability of its domestic charging system would be undermined, only the following revenues shall be taken into account and included in the application for authorisation to apply a roaming surcharge:
+
+(a) revenues deriving directly from traffic of mobile retail services originated in a visited Member State;
+
+(b) a proportion of overall revenues from the sale of mobile retail services based on fixed periodic charges.
+
+2\. The revenues referred to in point (a) of paragraph 1 shall include:
+
+(a) any retail charge levied pursuant to Article 6e of Regulation (EU) No 531/2012 for traffic exceeding any fair use policy applied by the roaming provider;
+
+(b) any revenues from alternative regulated roaming services pursuant to Article 6e(3) of Regulation (EU) No 531/2012;
+
+(c) any domestic retail price billed on a per-unit basis or in excess of fixed periodic charges for the provision of mobile retail services and triggered by the use of mobile retail services in a visited Member State.
+
+3\. For the purposes of determining the revenues referred to in point (b) of paragraph 1, in the event of bundled sale of mobile retail services with other services or terminals, only revenues linked to the sale of mobile retail services shall be considered. Those revenues shall be determined by reference to the price applied to the separate sale of each component of the bundle, if available, or to the sale of such services with the same characteristics on a stand-alone basis.
+
+4\. In order to determine the proportion of overall revenues from the sale of mobile retail services linked to the provision of regulated retail roaming services, the methodology set out in Annex II, points (1) and (5) shall be applied.
+
+### Article 10 — Assessment of applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model
+
+1\. When assessing an application for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model, the national regulatory authority may conclude that the applicant is unable to recover its costs of providing regulated retail roaming services, with the effect that the sustainability of its domestic charging model would be undermined, only where the negative roaming retail net margin of the applicant is equivalent to 3 % or more of its mobile services margin.
+
+The roaming retail net margin shall be the amount remaining after the costs of providing regulated retail roaming services are deducted from the revenues from providing such services, as determined in accordance with this Regulation. In order to determine it, the national regulatory authority shall review the data provided in the application to ensure compliance with the methodology for determining costs and revenues, as laid down in Articles 7, 8 and 9.
+
+2\. Where the absolute value of the roaming retail net margin is equivalent to 3 % or more of the mobile services margin, the national regulatory authority shall nevertheless refuse the surcharge where it can establish that specific circumstances make it unlikely that the sustainability of the domestic charging model would be undermined. Such circumstances include situations in which:
+
+(a) the applicant is part of a group and there is evidence of internal transfer pricing in favour of the other subsidiaries of the group within the Union, in particular in view of substantive imbalance of wholesale roaming charges applied within the group;
+
+(b) the degree of competition on domestic markets means that there is capacity to absorb reduced margins;
+
+(c) the application of a more restrictive fair use policy, still in compliance with Articles 3 and 4, would reduce the roaming retail net margin to a proportion of less than 3 %.
+
+3\. In the exceptional circumstances where an operator has a negative mobile services margin and a negative roaming retail net margin, the national regulatory authority shall authorise the application of a surcharge on regulated roaming services.
+
+4\. When authorising the surcharge on regulated roaming services, the final decision of the national regulatory authority shall identify the amount of the ascertained negative retail roaming margin that may be recovered through the application of a retail surcharge on roaming services provided within the Union. The surcharge shall be consistent with the roaming traffic assumptions underpinning the assessment of the application and be set in accordance with the principles set out in Article 8 of Directive 2002/21/EC of the European Parliament and of the Council ( 2 ).
+
+## SECTION IV — FINAL PROVISIONS
+
+### Article 11 — Monitoring of fair use policy and applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model
+
+In order to monitor the consistent application of Articles 6b and 6c of Regulation (EU) No 531/2012 and of this Regulation, and with a view to informing the Commission annually of applications pursuant to Article 6d(5) of Regulation (EU) No 531/2012, the national regulatory authorities shall regularly collect information concerning:
+
+(a) any action they take to supervise the application of Article 6b of Regulation (EU) No 531/2012 and the detailed rules laid down in this Regulation;
+
+(b) the number of applications to apply a roaming surcharge filed, authorised and renewed in the course of the year pursuant to Article 6c(2) and (4) of Regulation (EU) No 531/2012;
+
+(c) the extent of negative roaming retail net margins recognised in their decisions to authorise the roaming surcharge and the arrangements concerning a surcharge declared in the applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model.
+
+### Article 12 — Review
+
+Without prejudice to the possibility to conduct an earlier review in the light of initial implementation experience and of any significant changes in the factors mentioned in Article 6d(2) of Regulation (EU) No 531/2012, the Commission shall review this implementing act at the latest by June 2019, after having consulted BEREC.
+
+### Article 13 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+Proportional change in actual volumes of regulated roaming services under ‘roam-like-at-home’ compared with the same period in the previous year:
+
+[image]
+
+where:
+
+k = service (1 = voice, 2 = SMS, 3 = data);
+
+n is the number of days of ‘roam-like-at-home’ application (n ≥ 30); and
+
+t is the year of first ‘roam-like-at-home’ application.
+
+This percentage should be used to estimate the change in volumes over the projected 12-month period by multiplying it by the volumes in the previous year.
+
+## ANNEX II
+
+(1) Weights wi of mobile retail services:
+
+[image]
+
+where:
+
+k = service (1 = voice, 2 = SMS, 3 = data);
+
+‘average wholesale roaming price paid by operator’ refers to the average unit price for unbalanced traffic paid by the operator for each service, where the unit for each service is eurocents per (i) minutes for voice; (ii) SMS for SMS; and (iii) MB for data.
+
+(2) Ratio of overall traffic volume of applicant's retail roaming services to overall retail outbound and wholesale inbound traffic of its roaming services:
+
+[image]
+
+where:
+
+| k | = | service (1 = voice, 2 = SMS, 3 = data). |
+| --- | --- | --- |
+
+(3) Ratio of overall traffic volume of applicant's retail roaming services within the Union to overall traffic of its retail roaming services within and outside the Union:
+
+[image]
+
+where:
+
+| k | = | service (1 = voice, 2 = SMS, 3 = data). |
+| --- | --- | --- |
+
+(4) Ratio of overall traffic of applicant's retail roaming services within the Union to overall retail traffic of all mobile retail services:
+
+[image]
+
+where:
+
+| k | = | service (1 = voice, 2 = SMS, 3 = data). |
+| --- | --- | --- |
+
+(5) Retail EU roaming revenue:
+
+[image]
+
+where:
+
+| k | = | service (1 = voice, 2 = SMS, 3 = data). |
+| --- | --- | --- |
+
+( 1 ) Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (OJ L 24, 29.1.2004, p. 1).
+
+( 2 ) Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).

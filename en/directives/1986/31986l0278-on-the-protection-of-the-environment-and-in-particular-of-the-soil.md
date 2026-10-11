@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(86/278/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE of 23 December 1991 </td><td> L 377</td><td>48</td><td>31.12.1991</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td> M3</td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
 <tr><td></td><td> DECISION (EU) 2018/853 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>155</td><td>14.6.2018</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |
@@ -212,6 +214,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I A — LIMIT VALUES FOR CONCENTRATIONS OF HEAVY METALS IN SOIL — (mg/kg of dry matter in a representative sample, as defined in Annex II C, of soil with a pH of 6 to 7)
 
+<table>
 <tbody><tr><td>Parameters</td><td>Limit values (1)</td></tr>
 <tr><td>Cadmium</td><td>1 to 3</td></tr>
 <tr><td>Copper (2)</td><td>50 to 140</td></tr>
@@ -222,9 +225,11 @@ This Directive is addressed to the Member States.
 <tr><td>Chromium (3)</td><td>—</td></tr>
 <tr><td colspan="2">(1)  Member States may permit the limit values they fix to be exceeded in the case of the use of sludge on land which at the time of notification of this Directive is dedicated to the disposal of sludge but on which commercial food crops are being grown exclusively for animal consumption. Member States must inform the Commission of the number and type of sites concerned. They must also seek to ensure that there is no resulting hazard to human health or the environment.  (2)  Member States may permit the limit values they fix to be exceeded in respect of these parameters on soil with a pH consistently higher than 7. The maximum authorized concentrations of these heavy metals must in no case exceed those values by more than 50 %. Member States must also seek to ensure that there is no resulting hazard to human health or the environment and in particular to ground water.  (3)  It is not possible at this stage to fix limit values for chromium. The Council will fix these limit values later on the basis of proposals to be submitted by the Commission, within one year following notification of this Directive. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX I B — LIMIT VALUES FOR HEAVY-METAL CONCENTRATIONS IN SLUDGE FOR USE IN AGRICULTURE — (mg/kg of dry matter)
 
+<table>
 <tbody><tr><td>Parameters</td><td>Limit values</td></tr>
 <tr><td>Cadmium</td><td>20 to 40</td></tr>
 <tr><td>Copper</td><td>1 000 to 1 750 </td></tr>
@@ -235,9 +240,11 @@ This Directive is addressed to the Member States.
 <tr><td>Chromium (1)</td><td>—</td></tr>
 <tr><td colspan="2">(1)  It is not possible at this stage to fix limit values for chromium. The Council will fix these limit values later on the basis of proposals to be submitted by the Commission within one year following notification of this Directive. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX I C — LIMIT VALUES FOR AMOUNTS OF HEAVY METALS WHICH MAY BE ADDED ANNUALLY TO AGRICULTURAL LAND, BASED ON A 10-YEAR AVERAGE — (kg/ha/yr)
 
+<table>
 <tbody><tr><td>Parameters</td><td>Limit values (1)</td></tr>
 <tr><td>Cadmium</td><td>0,15 </td></tr>
 <tr><td>Copper</td><td>12 </td></tr>
@@ -248,6 +255,7 @@ This Directive is addressed to the Member States.
 <tr><td>Chromium (2)</td><td>—</td></tr>
 <tr><td colspan="2">(1)  Member States may permit these limit values to be exceeded in the case of the use of sludge on land which at the time of notification of this Directive is dedicated to the disposal of sludge but on which commercial food crops are being grown exclusively for animal consumption. Member States must inform the Commission of the number and type of sites concerned. They must also ensure that there is no resulting hazard to human health or the environment.  (2)  It is not possible at this stage to fix limit values for chromium. The Council will fix these limit values later on the basis of proposals to be submitted by the Commission within one year following notification of this Directive. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II A — SLUDGE ANALYSIS
 

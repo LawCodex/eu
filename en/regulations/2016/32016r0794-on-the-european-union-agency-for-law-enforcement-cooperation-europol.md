@@ -1,0 +1,2149 @@
+---
+title: "Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA"
+identifier: "32016R0794"
+eli: "http://data.europa.eu/eli/reg/2016/794/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-05-11
+entry_into_force: 2016-11-02
+last_amended: 2026-01-11
+consolidated_version: "02016R0794-20260111"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0794-20260111"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA
+
+**REGULATION (EU) 2016/794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 May 2016**
+
+**on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1133 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021 </td><td> L 248</td><td>1</td><td>13.7.2021</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/991 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2022 </td><td> L 169</td><td>1</td><td>27.6.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2611 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2025 </td><td> L 2611</td><td>1</td><td>22.12.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2016/794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 May 2016**
+
+**on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA**
+
+## CHAPTER I — GENERAL PROVISIONS, OBJECTIVES AND TASKS OF EUROPOL
+
+#### Article 1 — Establishment of the European Union Agency for Law Enforcement Cooperation
+
+1\. A European Union Agency for Law Enforcement Cooperation (Europol) is hereby established with a view to supporting cooperation among law enforcement authorities in the Union.
+
+2\. Europol as established by this Regulation shall replace and succeed Europol as established by Decision 2009/371/JHA.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(a) ‘the competent authorities of the Member States’ means all police authorities and other law enforcement services existing in the Member States which are responsible under national law for preventing and combating criminal offences. The competent authorities shall also comprise other public authorities existing in the Member States which are responsible under national law for preventing and combating criminal offences in respect of which Europol is competent;
+
+(b) ‘strategic analysis’ means all methods and techniques by which information is collected, stored, processed and assessed with the aim of supporting and developing a criminal policy that contributes to the efficient and effective prevention of, and the fight against, crime;
+
+(c) ‘operational analysis’ means all methods and techniques by which information is collected, stored, processed and assessed with the aim of supporting criminal investigations;
+
+(d) ‘Union bodies’ means institutions, bodies, missions, offices and agencies set up by, or on the basis of, the TEU and the TFEU;
+
+(e) ‘international organisation’ means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries;
+
+(f) ‘private parties’ means entities and bodies established under the law of a Member State or third country, in particular companies and firms, business associations, non-profit organisations and other legal persons that are not covered by point (e);
+
+(g) ‘private persons’ means all natural persons;
+
+(l) ‘recipient’ means a natural or legal person, public authority, agency or any other body to which data are disclosed, whether a third party or not;
+
+(p) ‘administrative personal data’ means personal data processed by Europol other than operational personal data;
+
+(q) ‘investigative data’ means data that a Member State, the European Public Prosecutor’s Office (‘the EPPO’) established by Council Regulation (EU) 2017/1939 ( 1 ), Eurojust or a third country is authorised to process in an ongoing criminal investigation related to one or more Member States, in accordance with procedural requirements and safeguards applicable under Union or national law, that a Member State, the EPPO, Eurojust or a third country submitted to Europol in support of such an ongoing criminal investigation and that contain personal data that do not relate to the categories of data subjects listed in Annex II;
+
+(r) ‘terrorist content’ means terrorist content as defined in Article 2, point (7), of Regulation (EU) 2021/784 of the European Parliament and of the Council ( 2 );
+
+(s) ‘online child sexual abuse material’ means online material constituting child pornography as defined in Article 2, point (c), of Directive 2011/93/EU of the European Parliament and of the Council ( 3 ) or pornographic performance as defined in Article 2, point (e), of that Directive;
+
+(t) ‘online crisis situation’ means the dissemination of online content stemming from an ongoing or recent real world event which depicts harm to life or to physical integrity, or calls for imminent harm to life or to physical integrity, and aims to or has the effect of seriously intimidating a population, provided that there is a link, or a reasonable suspicion of a link, to terrorism or violent extremism and that the potential exponential multiplication and virality of that content across multiple online services are anticipated;
+
+(u) ‘category of transfers of personal data’ means a group of transfers of personal data where the data relate to the same specific situation, and where the transfers consist of the same categories of personal data and the same categories of data subjects;
+
+(v) ‘research and innovation projects’ means projects regarding matters covered by this Regulation for the development, training, testing and validation of algorithms for the development of specific tools, and other specific research and innovation projects relevant for the achievement of Europol’s objectivexs;
+
+(w) ‘SIENA’ means the Secure Information Exchange Network Application, managed by Europol, which facilitates the exchange of information;
+
+(x) ‘immigration liaison officer’ means an immigration liaison officer as defined in Article 2, point (1) of Regulation (EU) 2019/1240 of the European Parliament and of the Council ( 4 ).
+
+#### Article 3 — Objectives
+
+1\. Europol shall support and strengthen action by the competent authorities of the Member States and their mutual cooperation in preventing and combating serious crime affecting two or more Member States, terrorism and forms of crime which affect a common interest covered by a Union policy, as listed in Annex I.
+
+2\. In addition to paragraph 1, Europol's objectives shall also cover related criminal offences. The following shall be considered to be related criminal offences:
+
+(a) criminal offences committed in order to procure the means of perpetrating acts in respect of which Europol is competent;
+
+(b) criminal offences committed in order to facilitate or perpetrate acts in respect of which Europol is competent;
+
+(c) criminal offences committed in order to ensure the impunity of those committing acts in respect of which Europol is competent.
+
+#### Article 4 — Tasks
+
+1\. Europol shall perform the following tasks in order to achieve the objectives set out in Article 3:
+
+(a) collect, store, process, analyse and exchange information, including criminal intelligence;
+
+(b) notify the Member States, via the national units established or designated pursuant to Article 7(2), without delay of any information and connections between criminal offences concerning them;
+
+(c) coordinate, organise and implement investigative and operational actions to support and strengthen actions by the competent authorities of the Member States, that are carried out:
+
+(i) jointly with the competent authorities of the Member States;
+
+(ii) in the context of joint investigation teams in accordance with Article 5 and, where appropriate, in liaison with Eurojust;
+
+(iii) in the context of operational task forces; or
+
+(iv) in the context of Europol deployments for operational support;
+
+(d) participate in joint investigation teams, as well as propose that they be set up in accordance with Article 5;
+
+(e) provide information and analytical support to Member States in connection with major international events;
+
+(f) prepare threat assessments, strategic and operational analyses and general situation reports;
+
+(g) develop, share and promote specialist knowledge of crime prevention methods, investigative procedures and technical and forensic methods, and provide advice to Member States;
+
+(h) support Member States’ cross-border information exchange activities, operations and investigations, as well as joint investigation teams, including by providing analytical, operational, technical, forensic and financial support;
+
+(ha) provide administrative and financial support to Member States’ special intervention units as referred to in Council Decision 2008/617/JHA ( 5 );
+
+(i) provide specialised training and assist Member States in organising training, including with the provision of financial support, within the scope of its objectives and in accordance with the staffing and budgetary resources at its disposal in coordination with the European Union Agency for Law Enforcement Training (CEPOL);
+
+(j) cooperate with the Union bodies established on the basis of Title V of the TFEU, with OLAF and the European Union Agency for Cybersecurity (ENISA) established by Regulation (EU) 2019/881 of the European Parliament and of the Council ( 6 ), in particular through the exchange of information and provision of analytical support in areas that fall within their respective competences;
+
+(k) provide information and support to EU crisis management structures and missions established on the basis of the TEU, within the scope of Europol's objectives as set out in Article 3;
+
+(l) develop Union centres of specialised expertise for combating certain types of crime falling within the scope of Europol’s objectives, including the European Centre Against Migrant Smuggling established pursuant to Article 9a and the European Cybercrime Centre;
+
+(m) support Member States’ actions in preventing and combating forms of crime listed in Annex I which are facilitated, promoted or committed using the internet, including by:
+
+(i) assisting the competent authorities of the Member States, upon their request, in responding to cyberattacks of suspected criminal origin;
+
+(ii) cooperating with competent authorities of the Member States with regard to removal orders, in accordance with Article 14 of Regulation (EU) 2021/784; and
+
+(iii) making referrals of online content to the online service providers concerned for their voluntary consideration of the compatibility of that content with their own terms and conditions;
+
+(q) provide an opinion following a consultation request referred to in Article 9e(4), Article 9g(4) and Article 22b(14) and (16) of Regulation (EC) No 767/2008 of the European Parliament and of the Council ( 7 );
+
+(r) support Member States in identifying persons whose criminal activities fall within the forms of crime listed in Annex I and who constitute a high risk for security;
+
+(s) facilitate joint, coordinated and prioritised criminal intelligence exchange activities and investigations, including with regard to persons referred to in point (r);
+
+(t) support Member States in processing data provided by third countries or international organisations to Europol on persons involved in terrorism or in serious crime and propose the possible entry by the Member States, at their discretion and subject to their verification and analysis of those data, of information alerts on third-country nationals in the interest of the Union (‘information alerts’) in the Schengen Information System (SIS), in accordance with Regulation (EU) 2018/1862 of the European Parliament and the Council ( 8 );
+
+(u) support the implementation of the evaluation and monitoring mechanism to verify the application of the Schengen acquis under Regulation (EU) No 1053/2013, within the scope of Europol’s objectives, through the provision of expertise and analyses, where relevant;
+
+(v) proactively monitor research and innovation activities that are relevant for the achievement of Europol’s objectives and contribute to such activities by supporting related activities of Member States and by implementing its own research and innovation activities, including projects for the development, training, testing and validation of algorithms for the development of specific tools for the use by law enforcement authorities, and disseminate the results of the activities to the Member States in accordance with Article 67;
+
+(w) contribute to creating synergies between the research and innovation activities of Union bodies that are relevant for the achievement of Europol’s objectives, including through the EU Innovation Hub for Internal Security, and in close cooperation with Member States;
+
+(x) support, upon their request, Member States’ actions in addressing online crisis situations, in particular by providing private parties with the information necessary to identify relevant online content;
+
+(y) support Member States’ actions in addressing the online dissemination of online child sexual abuse material;
+
+(ya) pay particular attention, when supporting the competent authorities of the Member States in the context of investigations, to migrant smuggling and trafficking in human beings, including when those criminal offences involve activities carried out over the internet;
+
+(z) cooperate, in accordance with Article 12 of Directive (EU) 2019/1153 of the European Parliament and of the Council ( 9 ), with Financial Intelligence Units (FIUs) established pursuant to Directive (EU) 2015/849 of the European Parliament and of the Council ( 10 ), through the relevant Europol national unit or, if allowed by the relevant Member State, by direct contact with the FIUs, in particular through the exchange of information and the provision of analyses to Member States to support cross-border investigations into the money laundering activities of transnational criminal organisations and terrorist financing;
+
+(za) support Member States, including through the development of specific tools, with the effective and efficient processing of biometric data for preventing or combating crime that falls within Europol’s objectives as set out in Article 3; processing of biometric data shall satisfy applicable minimum quality standards and be carried out in compliance with Articles 18 and 18a and the safeguards set out in this Regulation, in particular the principles of strict necessity and proportionality as set out in Article 30.
+
+In order for a Member State to inform, within a period of 12 months after Europol has proposed the possible entry of an information alert referred to in the first subparagraph, point (t), other Member States and Europol on the outcome of the verification and analysis of the data and on whether an alert has been entered in SIS, a periodic reporting mechanism shall be put in place.
+
+Member States shall inform Europol of any information alerts entered in SIS and of any hit on such information alerts, and may inform, through Europol, the third country or international organisation that provided the data leading to the entry of the information alert on hits on such information alert, in accordance with the procedure set out in Regulation (EU) 2018/1862.
+
+2\. Europol shall provide strategic analyses and threat assessments to assist the Council and the Commission in laying down strategic and operational priorities of the Union for fighting crime. Europol shall also assist in the operational implementation of those priorities, in particular by supporting the competent authorities of the Member States in further strengthening the European Multidisciplinary Platform Against Criminal Threats (EMPACT) as a coherent framework to prevent and tackle the threats posed by criminal networks, including by facilitating and providing administrative, logistical, financial and operational support to operational and strategic activities led by Member States, including related exchange of information.
+
+3\. Europol shall provide strategic analyses and threat assessments to assist the efficient and effective use of the resources available at national and Union level for operational activities and the support of those activities. Europol shall also provide threat assessment analyses based on the information it holds on criminal phenomena and trends to support the Commission and the Member States in carrying out risk assessments.
+
+4\. Europol shall act as the Central Office for combating euro counterfeiting in accordance with Council Decision 2005/511/JHA ( 11 ). Europol shall also encourage the coordination of measures carried out to fight euro counterfeiting by the competent authorities of the Member States or in the context of joint investigation teams, where appropriate in liaison with Union bodies and the authorities of third countries.
+
+4a. Europol shall assist the Member States and the Commission in identifying key research themes.
+
+Europol shall assist the Commission in drawing up and implementing the Union framework programmes for research and innovation activities that are relevant to achieve Europol’s objectives.
+
+Where appropriate, Europol may disseminate the results of its research and innovation activities as part of its contribution to creating synergies between the research and innovation activities of relevant Union bodies in accordance with paragraph 1, first subparagraph, point (w).
+
+Europol shall take all necessary measures to avoid conflicts of interest. Europol shall not receive funding from a given Union framework programme where it assists the Commission in identifying key research themes and in drawing up and implementing that programme.
+
+When designing and conceptualising research and innovation activities regarding matters covered by this Regulation, Europol may, where appropriate, consult the Joint Research Centre of the Commission.
+
+4b. Europol shall support the Member States in the screening, as regards the expected implications for security, of specific cases of foreign direct investments into the Union under Regulation (EU) 2019/452 of the European Parliament and of the Council ( 12 ) that concern undertakings that provide technologies, including software, used by Europol for the prevention and investigation of crimes that fall within Europol’s objectives.
+
+5\. Europol shall not apply coercive measures in carrying out its tasks.
+
+Europol staff may provide operational support to the competent authorities of the Member States during the execution of investigative measures by those authorities, at their request and in accordance with their national law, in particular by facilitating cross-border information exchange and other forms of data processing, by providing analytical, operational, technical and forensic support, and by being present during the execution of those measures. Europol staff shall not, themselves, have the power to execute investigative measures.
+
+5a. Europol shall respect the fundamental rights and freedoms enshrined in the Charter of Fundamental Rights of the European Union (‘the Charter’), in the performance of its tasks.
+
+## CHAPTER II — COOPERATION BETWEEN MEMBER STATES AND EUROPOL
+
+#### Article 5 — Participation in joint investigation teams
+
+1\. Europol staff may participate in the activities of joint investigation teams dealing with crime falling within Europol's objectives. The agreement setting up a joint investigation team shall determine the conditions relating to the participation of the Europol staff in the team, and shall include information on the rules on liability.
+
+2\. Europol staff may, within the limits of the laws of the Member States in which a joint investigation team is operating, assist in all activities and exchanges of information with all members of the joint investigation team.
+
+3\. Europol staff participating in a joint investigation team may, in accordance with this Regulation, provide all members of the team with necessary information processed by Europol for the purposes set out in Article 18(2). Europol shall at the same time inform the national units of the Member States represented in the team, as well as those of the Member States which provided the information.
+
+4\. Information obtained by Europol staff while part of the joint investigation team may, with the consent and under the responsibility of the Member State which provided the information, be processed by Europol for the purposes set out in Article 18(2), under the conditions laid down in this Regulation.
+
+5\. Where Europol has reason to believe that setting up a joint investigation team would add value to an investigation, it may propose this to the Member States concerned and take measures to assist them in setting up the joint investigation team.
+
+#### Article 6 — Request by Europol for the initiation of a criminal investigation
+
+1\. In specific cases where Europol considers that a criminal investigation should be initiated into a crime falling within the scope of its objectives, it shall request the competent authorities of the Member States concerned via the national units to initiate, conduct or coordinate such a criminal investigation.
+
+1a. Without prejudice to paragraph 1, where the Executive Director considers that a criminal investigation should be initiated into a specific crime which concerns only one Member State but affects a common interest covered by a Union policy, he or she may propose to the competent authorities of the Member State concerned, via its national unit, to initiate, conduct or coordinate such a criminal investigation.
+
+2\. The national units shall inform Europol, with regard to any request made pursuant to paragraph 1, or the Executive Director, with regard to any proposal made pursuant to paragraph 1a, of the decision of the competent authorities of the Member States, without undue delay.
+
+3\. If the competent authorities of a Member State decide not to accede to a request made by Europol pursuant to paragraph 1, they shall inform Europol of the reasons for their decision without undue delay, preferably within one month of receipt of the request. However, the reasons may be withheld if providing them would:
+
+(a) be contrary to the essential interests of the security of the Member State concerned; or
+
+(b) jeopardise the success of an ongoing investigation or the safety of an individual.
+
+4\. Europol shall immediately inform Eurojust and, where relevant, the EPPO, of any request made pursuant to paragraph 1, of any proposal made pursuant to paragraph 1a and of any decision of a competent authority of a Member State pursuant to paragraph 2.
+
+#### Article 7 — Europol national units
+
+1\. The Member States and Europol shall cooperate with each other in the fulfilment of their respective tasks set out in this Regulation.
+
+2\. Each Member State shall establish or designate a national unit, which shall be the liaison body between Europol and the competent authorities of that Member State. Each Member State shall appoint an official as the head of its national unit.
+
+3\. Each Member State shall ensure that its national unit is competent under national law to fulfil the tasks assigned to national units in this Regulation, and in particular that it has access to national law enforcement data and other relevant data necessary for cooperation with Europol.
+
+4\. Each Member State shall determine the organisation and the staff of its national unit in accordance with its national law.
+
+5\. In accordance with paragraph 2, the national unit shall be the liaison body between Europol and the competent authorities of the Member States. However, subject to conditions determined by the Member States, including prior involvement of the national unit, the Member States may allow direct contacts between their competent authorities and Europol. The national unit shall at the same time receive from Europol any information exchanged in the course of direct contacts between Europol and the competent authorities, unless the national unit indicates that it does not need to receive such information.
+
+6\. Each Member State shall, via its national unit or, subject to paragraph 5, a competent authority, in particular:
+
+(a) supply Europol with the information necessary for it to fulfil its objectives, including information relating to forms of crime the prevention or combating of which is considered a priority by the Union, such as migrant smuggling and trafficking in human beings;
+
+(b) ensure effective communication and cooperation of all relevant competent authorities with Europol;
+
+(c) raise awareness of Europol's activities;
+
+(d) in accordance with point (a) of Article 38(5), ensure compliance with national law when supplying information to Europol.
+
+6a. Each Member State setting up, participating in, or supporting an operational task force shall, without delay, provide all relevant information to Europol and the other Member States setting up, participating in, or supporting that operational task force, using SIENA and, where appropriate, make information directly accessible in accordance with Article 20(2a), including information related to parallel financial investigations to identify and seize criminal assets.
+
+6b. Each Member State setting up or participating in an EMPACT operational action supported by Europol shall, whenever feasible, use SIENA to provide all relevant information without delay to Europol and to other Member States.
+
+6c. Each Member State in whose territory a Europol deployment for operational support takes place shall, without delay, provide all relevant information to Europol, using SIENA and, where possible and in accordance with its national law, by making information in national databases accessible to Europol staff and seconded national experts deployed in its territory.
+
+7\. Without prejudice to the discharge by Member States of their responsibilities with regard to the maintenance of law and order and the safeguarding of internal security, Member States shall not in any particular case be obliged to supply information in accordance with paragraph 6, point (a), paragraph 6a, paragraph 6b, or paragraph 6c that would:
+
+(a) be contrary to the essential interests of the security of the Member State concerned;
+
+(b) jeopardise the success of an ongoing investigation or the safety of an individual; or
+
+(c) disclose information relating to organisations or specific intelligence activities in the field of national security.
+
+However, Member States shall supply information as soon as it ceases to fall within the scope of points (a), (b) or (c) of the first subparagraph.
+
+7a. Each Member State shall connect its immigration liaison officers, designated by the competent authorities of the Member States, to SIENA in order to submit relevant information to Europol directly or through national competent authorities in accordance with paragraph 5 and paragraph 6, point (a). Where it is not possible to connect an immigration liaison officer to SIENA due to legal, organisational or technical reasons, that immigration liaison officer shall submit the relevant information to a national competent authority through other secure channels. That competent authority shall provide the information to Europol, in accordance with paragraph 5 and paragraph 6, point (a).
+
+7b. Immigration liaison officers not designated by competent authorities of the Member States shall submit the relevant information to such a national competent authority, using secure channels. After assessing the information in accordance with paragraph 5 and paragraph 6, point (a), that competent authority shall provide it to Europol.
+
+8\. Each Member State shall ensure that its FIU, within the limits of its mandate and competence and subject to national procedural safeguards, is entitled to reply to duly justified requests that are made by Europol in accordance with Article 12 of Directive (EU) 2019/1153 regarding financial information and financial analyses, either via its national unit or, if allowed by that Member State, by direct contact between the FIU and Europol.
+
+9\. The heads of the national units shall meet on a regular basis, in particular to discuss and resolve problems that occur in the context of their operational cooperation with Europol.
+
+10\. The costs incurred by national units in communications with Europol shall be borne by the Member States and, with the exception of the costs of connection, shall not be charged to Europol.
+
+11\. Europol shall draw up an annual report on the information provided by each Member State pursuant to point (a) of paragraph 6 on the basis of the quantitative and qualitative evaluation criteria defined by the Management Board. The annual report shall be sent to the European Parliament, the Council, the Commission and national parliaments.
+
+#### Article 8 — Liaison officers
+
+1\. Each national unit shall designate at least one liaison officer to be attached to Europol. Except as otherwise laid down in this Regulation, the liaison officers shall be subject to the national law of the designating Member State.
+
+2\. Liaison officers shall constitute the national liaison bureaux at Europol and shall be instructed by their national units to represent the interests of the latter within Europol in accordance with the national law of the designating Member State and the provisions applicable to the administration of Europol.
+
+3\. Liaison officers shall assist in the exchange of information between Europol and their Member States.
+
+4\. Liaison officers shall, in accordance with their national law, assist in the exchange of information between their Member States and the liaison officers of other Member States, third countries and international organisations. Europol's infrastructure may be used, in accordance with national law, for such bilateral exchanges also to cover crimes falling outside the scope of the objectives of Europol. All such exchanges of information shall be in accordance with applicable Union and national law.
+
+5\. The Management Board shall determine the rights and obligations of liaison officers in relation to Europol. Liaison officers shall enjoy the privileges and immunities necessary for the performance of their tasks in accordance with Article 63(2).
+
+6\. Europol shall ensure that liaison officers are fully informed of and associated with all of its activities, in so far as necessary for the performance of their tasks.
+
+7\. Europol shall cover the costs of providing Member States with the necessary premises within the Europol building and adequate support for liaison officers to perform their duties. All other costs that arise in connection with the designation of liaison officers shall be borne by the designating Member State, including the costs of equipment for liaison officers, unless the European Parliament and the Council decide otherwise on the recommendation of the Management Board.
+
+## CHAPTER III — ORGANISATION OF EUROPOL
+
+#### Article 9 — Administrative and management structure of Europol
+
+The administrative and management structure of Europol shall comprise:
+
+(a) a Management Board;
+
+(b) an Executive Director;
+
+(c) where appropriate, other advisory bodies established by the Management Board in accordance with point (s) of Article 11(1).
+
+#### Article 9a
+
+Tasks and composition of the European Centre Against Migrant Smuggling
+
+1\. The European Centre Against Migrant Smuggling is established within Europol as a Union centre of specialised expertise as referred to in Article 4(1), point (l).
+
+2\. The European Centre Against Migrant Smuggling shall support Member States in the prevention and combating of migrant smuggling and trafficking in human beings.
+
+3\. The European Centre Against Migrant Smuggling shall include Europol staff and representatives of Eurojust and the European Border and Coast Guard Agency, in accordance with their respective mandates. Europol may invite other participants to be involved in carrying out the tasks of the European Centre Against Migrant Smuggling.
+
+4\. Upon a proposal from the Executive Director, the Management Board shall adopt implementing rules on how the European Centre Against Migrant Smuggling operates, including on its tasks and composition. Union bodies or agencies involved shall participate in accordance with their respective mandates.
+
+### SECTION 1 — Management Board
+
+#### Article 10 — Composition of the Management Board
+
+1\. The Management Board shall be composed of one representative from each Member State and one representative of the Commission. Each representative shall have a voting right.
+
+2\. The members of the Management Board shall be appointed taking into account their knowledge of law enforcement cooperation.
+
+3\. Each member of the Management Board shall have an alternate member who shall be appointed taking into account the criterion set out in paragraph 2. The alternate member shall represent the member in his or her absence.
+
+The principle of a balanced gender representation on the Management Board shall also be taken into account.
+
+4\. Without prejudice to the right of the Member States and of the Commission to terminate the mandate of their respective member and alternate member, the membership of the Management Board shall be for a period of four years. That term shall be extendable.
+
+#### Article 11 — Functions of the Management Board
+
+1\. The Management Board shall:
+
+(a) adopt each year, by a majority of two-thirds of its members and in accordance with Article 12 of this Regulation, a single programming document as referred to in Article 32 of Commission Delegated Regulation (EU) 2019/715 ( 13 );
+
+(b) adopt, by a majority of two-thirds of its members, the annual budget of Europol and exercise other functions in respect of Europol's budget pursuant to Chapter X;
+
+(c) adopt a consolidated annual activity report on Europol's activities and, by 1 July of the following year, send it to the European Parliament, the Council, the Commission, the Court of Auditors and the national parliaments. The consolidated annual activity report shall be made public;
+
+(d) adopt the financial rules applicable to Europol in accordance with Article 61;
+
+(e) adopt an internal anti-fraud strategy, proportionate to fraud risks, taking into account the costs and benefits of the measures to be implemented;
+
+(f) adopt rules for the prevention and management of conflicts of interest in respect of its members, including in relation to their declaration of interests;
+
+(g) in accordance with paragraph 2, exercise, with respect to the staff of Europol, the powers conferred by the Staff Regulations on the appointing authority and by the Conditions of Employment of Other Servants on the authority empowered to conclude a contract of employment of other servants (‘the appointing authority powers’);
+
+(h) adopt appropriate implementing rules giving effect to the Staff Regulations and the Conditions of Employment of Other Servants in accordance with Article 110 of the Staff Regulations;
+
+(i) adopt internal rules regarding the procedure for the selection of the Executive Director, including rules on the composition of the selection committee which ensure its independence and impartiality;
+
+(j) propose to the Council a shortlist of candidates for the posts of Executive Director and Deputy Executive Directors and, where relevant, propose to the Council that their terms of office be extended or that they be removed from office in accordance with Articles 54 and 55;
+
+(k) establish performance indicators and oversee the Executive Director's performance, including the implementation of Management Board decisions;
+
+(l) appoint a Data Protection Officer, who shall be functionally independent in the performance of his or her duties;
+
+(m) appoint an accounting officer, who shall be subject to the Staff Regulations and the Conditions of Employment of Other Servants and functionally independent in the performance of his or her duties;
+
+(n) establish, where appropriate, an internal audit capability;
+
+(o) ensure adequate follow-up to findings and recommendations stemming from the internal or external audit reports and evaluations, as well as from investigations of OLAF and the EDPS;
+
+(p) define the evaluation criteria for the annual report in accordance with Article 7(11);
+
+(q) adopt guidelines further specifying the procedures for the processing of information by Europol in accordance with Article 18, after consulting the EDPS;
+
+(r) decide upon the conclusion of working and administrative arrangements in accordance with Article 23(4) and Article 25(1), respectively;
+
+(s) decide, taking into consideration both business and financial requirements, upon the establishment of Europol's internal structures, including Union centres of specialised expertise as referred to in point (l) of Article 4(1), upon a proposal of the Executive Director;
+
+(t) adopt its rules of procedure, including provisions concerning the tasks and the functioning of its secretariat;
+
+(u) adopt, where appropriate, other internal rules;
+
+(v) designate the Fundamental Rights Officer referred to in Article 41c;
+
+(w) specify the criteria on the basis of which Europol may issue the proposals for possible entry of information alerts in SIS.
+
+2\. If the Management Board considers it necessary for the performance of Europol's tasks, it may suggest to the Council that it draw the attention of the Commission to the need for an adequacy decision as referred to in point (a) of Article 25(1) or for a recommendation for a decision authorising the opening of negotiations with a view to the conclusion of an international agreement as referred to in point (b) of Article 25(1).
+
+3\. The Management Board shall, in accordance with Article 110 of the Staff Regulations, adopt a decision based on Article 2(1) of the Staff Regulations and on Article 6 of the Conditions of Employment of Other Servants delegating the relevant appointing authority powers to the Executive Director and establishing the conditions under which such delegation of powers may be suspended. The Executive Director shall be authorised to subdelegate those powers.
+
+Where exceptional circumstances so require, the Management Board may, by way of a decision, temporarily suspend the delegation of the appointing authority powers to the Executive Director and any subdelegation of such powers and exercise them itself or delegate those powers to one of its members or to a staff member other than the Executive Director.
+
+#### Article 12 — Multiannual programming and annual work programmes
+
+1\. The Management Board shall, by 30 November of each year, adopt a single programming document containing Europol’s multiannual programming and annual work programme, based on a draft put forward by the Executive Director, taking into account the opinion of the Commission and, as regards the multiannual programming, after having consulted the Joint Parliamentary Scrutiny Group (JPSG).
+
+Where the Management Board decides not to take into account the opinion of the Commission referred to in the first subparagraph, in whole or in part, Europol shall provide a thorough justification.
+
+Where the Management Board decides not to take into account any of the matters raised by the JPSG in accordance with Article 51(2), point (c), Europol shall provide a thorough justification.
+
+Once the single programming document has been adopted, the Management Board shall forward it to the Council, the Commission and the JPSG.
+
+2\. The multiannual programming shall set out the overall strategic programming, including the objectives, expected results and performance indicators. It shall also set out the resource planning, including the multiannual budget and establishment plan. It shall include the strategy for relations with third countries and international organisations and Europol’s planned research and innovation activities.
+
+The multiannual programming shall be implemented by means of annual work programmes and shall, where appropriate, be updated following the outcome of external and internal evaluations. The conclusion of those evaluations shall also be reflected, where appropriate, in the annual work programme for the following year.
+
+3\. The annual work programme shall comprise detailed objectives, expected results and performance indicators. It shall also contain a description of the actions to be financed and an indication of the financial and human resources allocated to each action, in accordance with the principles of activity-based budgeting and management. The annual work programme shall be consistent with the multiannual programming. It shall clearly indicate tasks that have been added, changed or deleted compared to the previous financial year.
+
+4\. Where, after adoption of an annual work programme, a new task is assigned to Europol, the Management Board shall amend the annual work programme.
+
+5\. Any substantial amendment to the annual work programme shall be adopted by the same procedure as that applicable to the adoption of the initial annual work programme. The Management Board may delegate to the Executive Director the power to make non-substantial amendments to the annual work programme.
+
+#### Article 13 — Chairperson and Deputy Chairperson of the Management Board
+
+1\. The Management Board shall elect a Chairperson and a Deputy Chairperson from within the group of three Member States that have jointly prepared the Council's 18-month programme. They shall serve for the 18-month period corresponding to that Council programme. If, however, the Chairperson's or the Deputy Chairperson's membership of the Management Board ends at any time during their term of office as Chairperson or Deputy Chairperson, their term of office shall automatically expire at the same time.
+
+2\. The Chairperson and the Deputy Chairperson shall be elected by a majority of two-thirds of the members of the Management Board.
+
+3\. Where the Chairperson is unable to carry out his or her duties, he or she shall automatically be replaced by the Deputy Chairperson.
+
+#### Article 14 — Meetings of the Management Board
+
+1\. The Chairperson shall convene the meetings of the Management Board.
+
+2\. The Executive Director shall take part in the deliberations of the Management Board.
+
+3\. The Management Board shall hold at least two ordinary meetings a year. In addition, it shall meet on the initiative of its Chairperson, or at the request of the Commission or of at least one-third of its members.
+
+4\. The Management Board may invite any person whose opinion may be relevant for the discussion to attend its meeting as a non-voting observer.
+
+Two representatives of the JPSG shall be invited to attend two ordinary meetings of the Management Board per year as non-voting observers to discuss the following matters of political interest:
+
+(a) the consolidated annual activity report referred to in Article 11(1), point (c), for the previous year;
+
+(b) the single programming document referred to in Article 12 for the following year and the annual budget;
+
+(c) JPSG written questions and answers;
+
+(d) external relations and partnership matters.
+
+The Management Board, together with the representatives of the JPSG, may determine other matters of political interest to be discussed at the meetings referred to in the first subparagraph.
+
+5\. The members and the alternate members of the Management Board may, subject to its rules of procedure, be assisted at the meetings by advisers or experts.
+
+6\. Europol shall provide the secretariat for the Management Board.
+
+#### Article 15 — Voting rules of the Management Board
+
+1\. Without prejudice to points (a) and (b) of Article 11(1), Article 13(2), Article 50(2), Article 54(8) and Article 64, the Management Board shall take decisions by a majority of its members.
+
+2\. Each member shall have one vote. In the absence of a voting member, his or her alternate shall be entitled to exercise his or her right to vote.
+
+3\. The Executive Director shall not take part in the vote.
+
+4\. The Management Board's rules of procedure shall establish more detailed voting arrangements, in particular the circumstances in which a member may act on behalf of another member, and any quorum requirements, where necessary.
+
+### SECTION 2 — Executive Director
+
+#### Article 16 — Responsibilities of the Executive Director
+
+1\. The Executive Director shall manage Europol. He or she shall be accountable to the Management Board.
+
+2\. Without prejudice to the powers of the Commission or the Management Board, the Executive Director shall be independent in the performance of his or her duties and shall neither seek nor take instructions from any government or any other body.
+
+3\. The Council or the JPSG may invite the Executive Director to report on the performance of his or her duties.
+
+4\. The Executive Director shall be the legal representative of Europol.
+
+5\. The Executive Director shall be responsible for the implementation of the tasks assigned to Europol by this Regulation, in particular:
+
+(a) the day-to-day administration of Europol;
+
+(b) making proposals to the Management Board as regards the establishment of Europol's internal structures;
+
+(c) implementing decisions adopted by the Management Board;
+
+(d) preparing the draft single programming document referred to in Article 12 and submitting it to the Management Board, after having consulted the Commission and the JPSG;
+
+(e) implementing the multiannual programming and the annual work programmes and reporting to the Management Board on their implementation;
+
+(f) preparing appropriate draft implementing rules to give effect to the Staff Regulations and the Conditions of Employment of Other Servants in accordance with Article 110 of the Staff Regulations;
+
+(g) preparing the draft consolidated annual report on Europol's activities and presenting it to the Management Board for adoption;
+
+(h) preparing an action plan following up conclusions of internal or external audit reports and evaluations, as well as investigation reports and recommendations from investigations by OLAF and the EDPS, and reporting on progress twice a year to the Commission and regularly to the Management Board;
+
+(i) protecting the financial interests of the Union by applying measures to prevent fraud, corruption and any other illegal activity and, without prejudice to the investigative competence of OLAF, by effective checks and, if irregularities are detected, by recovering amounts wrongly paid and, where appropriate, by effective, proportionate and dissuasive administrative and financial penalties;
+
+(j) preparing a draft internal anti-fraud strategy for Europol and presenting it to the Management Board for adoption;
+
+(k) preparing draft internal rules for the prevention and management of conflicts of interest in respect of the members of the Management Board and presenting those draft rules to the Management Board for adoption;
+
+(l) preparing draft financial rules applicable to Europol;
+
+(m) preparing Europol's draft statement of estimates of revenue and expenditure and implementing its budget;
+
+(n) supporting the Chairperson of the Management Board in preparing Management Board meetings;
+
+(o) informing the Management Board on a regular basis regarding the implementation of Union strategic and operational priorities for fighting crime;
+
+(oa) informing the Management Board of the memoranda of understanding signed with private parties;
+
+(p) performing other tasks pursuant to this Regulation.
+
+## CHAPTER IV — PROCESSING OF INFORMATION
+
+#### Article 17 — Sources of information
+
+1\. Europol shall only process information that has been provided to it:
+
+(a) by Member States in accordance with their national law and Article 7;
+
+(b) by Union bodies, third countries and international organisations in accordance with Chapter V;
+
+(c) by private parties and private persons in accordance with Chapter V.
+
+2\. Europol may directly retrieve and process information, including personal data, from publicly available sources, including the internet and public data.
+
+3\. In so far as Europol is entitled under Union, international or national legal instruments to gain computerised access to data from Union, international or national information systems, it may retrieve and process information, including personal data, by such means if that is necessary for the performance of its tasks. The applicable provisions of such Union, international or national legal instruments shall govern access to, and the use of, that information by Europol, in so far as they provide for stricter rules on access and use than those laid down by this Regulation. Access to such information systems shall be granted only to duly authorised staff of Europol and only in so far as this is necessary and proportionate for the performance of their tasks.
+
+#### Article 18 — Purposes of information processing activities
+
+1\. In so far as is necessary for the achievement of its objectives as laid down in Article 3, Europol may process information, including personal data.
+
+2\. Personal data may be processed only for the purposes of:
+
+(a) cross-checking aimed at identifying connections or other relevant links between information related to:
+
+(i) persons who are suspected of having committed or taken part in a criminal offence in respect of which Europol is competent, or who have been convicted of such an offence;
+
+(ii) persons regarding whom there are factual indications or reasonable grounds to believe that they will commit criminal offences in respect of which Europol is competent;
+
+(b) analyses of a strategic or thematic nature;
+
+(c) operational analyses;
+
+(d) facilitating, including through SIENA, the exchange of information between Member States, Europol, other Union bodies, third countries, international organisations and private parties;
+
+(e) research and innovation projects;
+
+(f) supporting Member States, upon their request, in informing the public about suspects or convicted individuals who are wanted on the basis of a national judicial decision relating to a crime that falls within Europol’s objectives, and facilitating the provision by the public of information on those individuals to the Member States and Europol.
+
+3\. Processing for the purpose of operational analyses as referred to in point (c) of paragraph 2 shall be performed by means of operational analysis projects, in respect of which the following specific safeguards shall apply:
+
+(a) for every operational analysis project, the Executive Director shall define the specific purpose, categories of personal data and categories of data subjects, participants, duration of storage and conditions for access, transfer and use of the data concerned, and shall inform the Management Board and the EDPS thereof;
+
+(b) personal data may only be collected and processed for the purpose of the specified operational analysis project. Where it becomes apparent that personal data may be relevant for another operational analysis project, further processing of that personal data shall only be permitted insofar as such further processing is necessary and proportionate and the personal data are compatible with the provisions set out in point (a) that apply to the other analysis project;
+
+(c) only authorised staff may access and process the data of the relevant project.
+
+3a. If necessary to achieve the objectives of Europol’s research and innovation projects, the processing of personal data for that purpose shall be carried out only in the context of Europol’s research and innovation projects with clearly defined purposes and objectives, and shall be in accordance with Article 33a.
+
+4\. The processing referred to in paragraphs 2 and 3 shall be carried out in compliance with the data protection safeguards provided for in this Regulation. Europol shall duly document those processing operations. The documentation shall be made available, upon request, to the Data Protection Officer and to the EDPS for the purpose of verifying the lawfulness of the processing operations.
+
+5\. Without prejudice to Article 8(4), Article 18(2), point (e), Article 18a, and data processing pursuant to Article 26(6c), where Europol’s infrastructure is used for bilateral exchanges of personal data and Europol has no access to the content of the data, categories of personal data and categories of data subjects whose data may be collected and processed for the purposes of paragraph 2 of this Article are listed in Annex II.
+
+5a. In accordance with Article 73 of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 14 ), Europol shall, where applicable and as far as possible, make a clear distinction between the personal data that relate to the different categories of data subjects listed in Annex II.
+
+6\. Europol may temporarily process data for the purpose of determining whether such data are relevant to its tasks and, if so, for which of the purposes referred to in paragraph 2. The time limit for the processing of such data shall not exceed six months from the receipt of those data.
+
+6a. Prior to the processing of data pursuant to paragraph 2 of this Article, where strictly necessary for the sole purpose of determining whether personal data are in compliance with paragraph 5 of this Article, Europol may temporarily process personal data that have been provided to it pursuant to Article 17(1) and (2), including by checking those data against all data that Europol already processes in accordance with paragraph 5 of this Article.
+
+Europol shall process personal data pursuant to the first subparagraph for a period of up to 18 months from the moment Europol ascertains that those data fall within its objectives or, in justified cases, for a longer period where necessary for the purpose of this Article. Europol shall inform the EDPS of any extension of the processing period. The maximum period of data processing pursuant to the first subparagraph shall be three years. Such personal data shall be kept functionally separate from other data.
+
+Where Europol concludes that personal data referred to in the first subparagraph of this paragraph are not in compliance with paragraph 5, Europol shall delete those data and inform, where relevant, the provider of those deleted data accordingly.
+
+6b. The Management Board, acting on a proposal from the Executive Director, after consulting the EDPS and having due regard to the principles referred to in Article 71 of Regulation (EU) 2018/1725, shall specify the conditions relating to the processing of the data referred to in paragraphs 6 and 6a of this Article, in particular with respect to the provision of, access to and the use of those data, as well as the time limits for the storage and deletion of such data, which shall not exceed those set out in paragraphs 6 and 6a of this Article.
+
+7\. The Management Board, after consulting the EDPS, shall, as appropriate, adopt guidelines further specifying procedures for the processing of information for the purposes listed in paragraph 2 in accordance with point (q) of Article 11(1).
+
+#### Article 18a — Processing of personal data in support of a criminal investigation
+
+1\. Where necessary for the support of an ongoing specific criminal investigation within the scope of Europol’s objectives, Europol may process personal data that do not relate to the categories of data subjects listed in Annex II where:
+
+(a) a Member State, the EPPO or Eurojust provides investigative data to Europol pursuant to Article 17(1), points (a) or (b), and requests Europol to support that investigation:
+
+(i) by way of operational analysis pursuant to Article 18(2), point (c); or
+
+(ii) in exceptional and duly justified cases, by way of cross-checking pursuant to Article 18(2), point (a);
+
+(b) Europol assesses that it is not possible to carry out the operational analysis pursuant to Article 18(2), point (c), or the cross-checking pursuant to Article 18(2), point (a), in support of that investigation without processing personal data that do not comply with Article 18(5).
+
+The results of the assessment referred to in the first subparagraph, point (b), shall be recorded and sent to the EDPS for information when Europol ceases to support the investigation referred to in the first subparagraph.
+
+2\. Where the Member State referred to in paragraph 1, first subparagraph, point (a), is no longer authorised to process the data in the ongoing specific criminal investigation referred to in paragraph 1 in accordance with procedural requirements and safeguards under its applicable national law, it shall inform Europol.
+
+Where the EPPO or Eurojust provides investigative data to Europol and it is no longer authorised to process the data in the ongoing specific criminal investigation referred to in paragraph 1 in accordance with procedural requirements and safeguards applicable under Union and national law, it shall inform Europol.
+
+3\. Europol may process investigative data in accordance with Article 18(2) for as long as it supports the ongoing specific criminal investigation for which the investigative data were provided in accordance with paragraph 1, first subparagraph, point (a), of this Article, and only for the purpose of supporting that investigation.
+
+4\. Europol may store the investigative data provided in accordance with paragraph 1, first subparagraph, point (a), and the outcome of its processing of those data beyond the processing period set out in paragraph 3, upon request of the provider of those investigative data, for the purpose of ensuring the veracity, reliability and traceability of the criminal intelligence process, and only for as long as the judicial proceedings concerning the specific criminal investigation for which those data were provided are ongoing.
+
+The providers of investigative data referred to in paragraph 1, first subparagraph, point (a), or, with their agreement, a Member State in which judicial proceedings concerning a related criminal investigation are ongoing, may request Europol to store the investigative data and the outcome of its operational analysis of those data beyond the processing period set out in paragraph 3 for the purpose of ensuring the veracity, reliability and traceability of the criminal intelligence process, and only for as long as judicial proceedings concerning a related criminal investigation are ongoing in that other Member State.
+
+5\. Without prejudice to the processing of personal data under Article 18(6a), personal data that do not relate to the categories of data subjects listed in Annex II shall be kept functionally separate from other data and shall only be processed where necessary and proportionate for the purposes of paragraphs 3, 4 and 6 of this Article.
+
+The Management Board, acting on a proposal from the Executive Director and after consulting the EDPS, shall specify the conditions relating to the provision and processing of personal data in accordance with paragraphs 3 and 4.
+
+6\. Paragraphs 1 to 4 of this Article shall also apply where personal data are provided to Europol by a third country as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a), and that third country provides investigative data to Europol for operational analysis that contributes to the specific criminal investigation in one or more Member States that Europol supports, provided that the third country obtained the data in the context of a criminal investigation in accordance with procedural requirements and safeguards applicable under its national criminal law.
+
+Where a third country provides investigative data to Europol in accordance with the first subparagraph, the Data Protection Officer may, where appropriate, notify the EDPS thereof.
+
+Europol shall verify that the amount of personal data referred to in the first subparagraph is not manifestly disproportionate in relation to the specific criminal investigation in the Member State concerned. Where Europol concludes that there is an indication that such data are manifestly disproportionate or were collected in obvious violation of fundamental rights, Europol shall not process the data and delete them.
+
+Personal data processed pursuant to this paragraph shall be accessed by Europol only where necessary for the support of the specific criminal investigation for which they were provided. Those personal data shall be shared only within the Union.
+
+#### Article 19 — Determination of the purpose of, and restrictions on, the processing of information by Europol
+
+1\. A Member State, a Union body, a third country or an international organisation that provides information to Europol shall determine the purpose or purposes for which that information is to be processed, in accordance with Article 18.
+
+Where a provider of information referred to in the first subparagraph has not complied with that subparagraph, Europol, in agreement with the provider of the information concerned, shall process the information in order to determine the relevance of such information as well as the purpose or purposes for which it is to be further processed.
+
+Europol shall process information for a purpose different from that for which information has been provided only if authorised to do so by the provider of the information.
+
+Information provided for the purposes referred to in Article 18(2), points (a) to (d), may also be processed by Europol for the purpose of Article 18(2), point (e), in accordance with Article 33a.
+
+2\. Member States, Union bodies, third countries and international organisations may indicate, at the moment of providing information to Europol, any restriction on access thereto or the use to be made thereof, in general or specific terms, including as regards its transfer, transmission, erasure or destruction. Where the need for such restrictions becomes apparent after the information has been provided, they shall inform Europol accordingly. Europol shall comply with such restrictions.
+
+3\. In duly justified cases Europol may assign restrictions to access or use by Member States, Union bodies, third countries and international organisations of information retrieved from publicly available sources.
+
+#### Article 20 — Access by Member States and Europol's staff to information stored by Europol
+
+1\. Member States shall, in accordance with their national law and Article 7(5), have access to, and be able to search, all information which has been provided for the purposes of points (a) and (b) of Article 18(2). This shall be without prejudice to the right of Member States, Union bodies, third countries and international organisations to indicate any restrictions in accordance with Article 19(2).
+
+2\. Member States shall, in accordance with their national law and Article 7(5), have indirect access on the basis of a hit/no hit system to information provided for the purposes of point (c) of Article 18(2). This shall be without prejudice to any restrictions indicated by the Member States, Union bodies and third countries or international organisations providing the information, in accordance with Article 19(2).
+
+In the case of a hit, Europol shall initiate the procedure by which the information that generated the hit may be shared, in accordance with the decision of the provider of the information to Europol.
+
+2a. In the framework of operational analysis projects referred to in Article 18(3) and subject to the rules and safeguards for personal data processing set out in this Regulation, Member States may determine information to be made directly accessible by Europol to selected other Member States for joint operational analysis in specific investigations, without prejudice to any restrictions indicated pursuant to Article 19(2), and in accordance with the procedures set out in the guidelines referred to in Article 18(7).
+
+3\. In accordance with national law, the information referred to in paragraphs 1, 2 and 2a shall be accessed and further processed by Member States only for the purpose of preventing, detecting, investigating and prosecuting:
+
+(a) forms of crime in respect of which Europol is competent; and
+
+(b) other forms of serious crime, as set out in Council Framework Decision 2002/584/JHA ( 15 ).
+
+4\. Europol staff duly empowered by the Executive Director shall have access to information processed by Europol to the extent required for the performance of their duties and without prejudice to Article 67.
+
+#### Article 20a — Relations with the European Public Prosecutor’s Office
+
+1\. Europol shall establish and maintain a close relationship with the EPPO. In the framework of that relationship, Europol and the EPPO shall act within their respective mandate and competences. To that end, they shall conclude a working arrangement setting out the modalities of their cooperation.
+
+2\. Upon request by the EPPO in accordance with Article 102 of Regulation (EU) 2017/1939, Europol shall support the investigations of the EPPO and cooperate with it, by providing information and analytical support, until the EPPO determines whether to prosecute or otherwise dispose of the case.
+
+3\. In order to provide information to the EPPO under paragraph 2 of this Article, Europol shall take all appropriate measures to enable the EPPO to have indirect access on the basis of a hit/no hit system to data related to offences that fall within the EPPO’s competence, provided for the purposes of Article 18(2), points (a), (b) and (c). That hit/no hit system shall notify only Europol in the case of a hit and without prejudice to any restrictions indicated pursuant to Article 19(2) by the providers of information referred to in Article 19(1).
+
+In the case of a hit, Europol shall initiate the procedure by which the information that generated the hit may be shared, in accordance with the decision of the provider of the information referred to in Article 19(1), and only to the extent that the data generating the hit are relevant for the request submitted pursuant to paragraph 2 of this Article.
+
+4\. Europol shall, without undue delay, report to the EPPO any criminal conduct in respect of which the EPPO could exercise its competence in accordance with Article 22 and Article 25(2) and (3) of Regulation (EU) 2017/1939 and without prejudice to any restrictions indicated pursuant to Article 19(2) of this Regulation by the provider of the information.
+
+Where Europol reports to the EPPO under the first subparagraph, it shall notify the Member States concerned without delay.
+
+Where information concerning criminal conduct in respect of which the EPPO could exercise its competence has been provided to Europol by a Member State that indicated restrictions on the use of that information pursuant to Article 19(2) of this Regulation, Europol shall notify the EPPO of the existence of those restrictions and refer the matter to the Member State concerned. The Member State concerned shall engage directly with the EPPO in order to comply with Article 24(1) and (4) of Regulation (EU) 2017/1939.
+
+#### Article 21 — Access by Eurojust, OLAF and, only for purposes of ETIAS, by the European Border and Coast Guard Agency and, only for purposes of VIS, by the VIS designated authorities to information stored by Europol
+
+1\. Europol shall take all appropriate measures to enable Eurojust and OLAF, within their respective mandates, to have indirect access on the basis of a hit/no hit system to information provided for the purposes of points (a), (b) and (c) of Article 18(2), without prejudice to any restrictions indicated by the Member State, Union body, third country or international organisation providing the information in question, in accordance with Article 19(2).
+
+In the case of a hit, Europol shall initiate the procedure by which the information that generated the hit may be shared, in accordance with the decision of the provider of the information to Europol, and only to the extent that the data generating the hit are necessary for the performance of Eurojust's or OLAF's tasks.
+
+1b. Europol shall take all appropriate measures to enable the VIS designated authorities, for the purposes of Regulation (EC) No 767/2008, to have indirect access on the basis of a hit/no hit system to data provided for the purposes of point (a) of Article 18(2) of this Regulation, without prejudice to any restrictions indicated by the Member State, Union body, third country or international organisation providing the information in question, in accordance with Article 19(2) of this Regulation.
+
+In the case of a hit, Europol shall initiate the procedure by which the information that generated the hit may be shared, in accordance with the decision of the provider of the information to Europol. Such information may be shared only to the extent that the data generating the hit are necessary for the performance of the VIS designated authorities’ tasks related to VIS.
+
+Paragraphs 2 to 7 of this Article shall apply accordingly.
+
+2\. Europol and Eurojust may conclude a working arrangement ensuring, in a reciprocal manner and within their respective mandates, access to, and the possibility of searching, all information that has been provided for the purpose specified in point (a) of Article 18(2). This shall be without prejudice to the right of Member States, Union bodies, third countries and international organisations to indicate restrictions on access to, and the use of, such data, and shall be in accordance with the data protection guarantees provided for in this Regulation.
+
+3\. Searches of information in accordance with paragraphs 1 and 2 shall be carried out only for the purpose of identifying whether information available at Eurojust or OLAF matches with information processed at Europol.
+
+4\. Europol shall allow searches in accordance with paragraphs 1 and 2 only after obtaining from Eurojust information on which National Members, Deputies and Assistants, as well as Eurojust staff members, and from OLAF information on which OLAF staff members, have been designated as authorised to perform such searches.
+
+5\. If, during Europol's information-processing activities in respect of an individual investigation, Europol or a Member State identifies the need for coordination, cooperation or support in accordance with the mandate of Eurojust or OLAF, Europol shall notify them to that effect and shall initiate the procedure for sharing the information, in accordance with the decision of the Member State providing the information. In such a case, Eurojust or OLAF shall consult with Europol.
+
+6\. Eurojust, including the College, the National Members, Deputies and Assistants, as well as Eurojust staff members, and OLAF, shall respect any restriction on access or use, in general or specific terms, indicated by Member States, Union bodies, third countries and international organisations in accordance with Article 19(2).
+
+7\. Europol, Eurojust and OLAF shall inform each other if, after consulting each other's data in accordance with paragraph 2 or as a result of a hit in accordance with paragraph 1, there are indications that data may be incorrect or may conflict with other data.
+
+8\. If, while processing information in respect of a specific criminal investigation or a specific project, Europol identifies information relevant to possible illegal activity affecting the financial interest of the Union, Europol shall provide OLAF without delay with that information without prejudice to any restrictions indicated pursuant to Article 19(2) by the Member State that provided the information.
+
+Where Europol provides OLAF with information under the first subparagraph, it shall notify the Member States concerned without delay.
+
+#### Article 22 — Duty to notify Member States
+
+1\. Europol shall, in accordance with point (b) of Article 4(1), notify a Member State without delay of any information concerning it. If such information is subject to access restrictions pursuant to Article 19(2) that would prohibit its being shared, Europol shall consult with the provider of the information stipulating the access restriction and seek its authorisation for sharing.
+
+In such a case, the information shall not be shared without an explicit authorisation by the provider.
+
+2\. Irrespective of any access restrictions, Europol shall notify a Member State of any information concerning it if this is absolutely necessary in the interest of preventing an imminent threat to life.
+
+In such a case, Europol shall at the same time notify the provider of the information about the sharing of the information and justify its analysis of the situation.
+
+## CHAPTER V — RELATIONS WITH PARTNERS
+
+### SECTION 1 — Common provisions
+
+#### Article 23 — Common provisions
+
+1\. In so far as necessary for the performance of its tasks, Europol may establish and maintain cooperative relations with Union bodies in accordance with the objectives of those bodies, the authorities of third countries, international organisations and private parties.
+
+2\. Subject to any restriction pursuant to Article 19(2) and without prejudice to Article 67, Europol may directly exchange all information, with the exception of personal data, with entities referred to in paragraph 1 of this Article, in so far as such an exchange is relevant for the performance of Europol's tasks.
+
+3\. The Executive Director shall inform the Management Board about any regular cooperative relations which Europol intends to establish and maintain in accordance with paragraphs 1 and 2, and about the development of such relations once established.
+
+4\. For the purposes set out in paragraphs 1 and 2, Europol may conclude working arrangements with entities referred to in paragraph 1. Such working arrangements shall not allow the exchange of personal data and shall not bind the Union or its Member States.
+
+5\. Europol may receive and process personal data from entities referred to in paragraph 1 insofar as necessary and proportionate for the legitimate performance of its tasks and subject to the provisions of this Chapter.
+
+6\. Without prejudice to Article 30(5), personal data shall only be transferred by Europol to Union bodies, third countries and international organisations if necessary for preventing and combating crime falling within the scope of Europol's objectives and in accordance with this Regulation, and if the recipient gives an undertaking that the data will be processed only for the purpose for which they were transferred. If the data to be transferred have been provided by a Member State, Europol shall seek that Member State's consent, unless the Member State has granted its prior authorisation to such onward transfer, either in general terms or subject to specific conditions. Such consent may be withdrawn at any time.
+
+7\. Onward transfers of personal data held by Europol by Member States, Union bodies, third countries, international organisations or private parties shall be prohibited, unless Europol has given its prior explicit authorisation.
+
+8\. Europol shall ensure that detailed records of all transfers of personal data and of the grounds for such transfers are recorded in accordance with this Regulation.
+
+9\. Any information which has clearly been obtained in obvious violation of human rights shall not be processed.
+
+### SECTION 2 — Transmission, transfer and exchange of personal data
+
+#### Article 24 — Transmission of personal data to Union bodies
+
+1\. Europol shall only transmit personal data to a Union body in accordance with Article 71(2) of Regulation (EU) 2018/1725, subject to any restrictions pursuant to this Regulation and without prejudice to Article 67 of this Regulation, if those data are necessary and proportionate for the legitimate performance of tasks of the recipient Union body.
+
+2\. Following a request for the transmission of personal data from another Union body, Europol shall verify the competence of the other Union body. Where Europol is unable to confirm that the transmission of the personal data is necessary in accordance with paragraph 1, Europol shall seek further information from the requesting Union body.
+
+The requesting Union body shall ensure that the necessity of the transmission of the personal data can be verified.
+
+3\. The recipient Union body shall process the personal data referred to in paragraphs 1 and 2 only for the purposes for which they were transmitted.
+
+#### Article 25 — Transfer of personal data to third countries and international organisations
+
+1\. Subject to any restrictions indicated pursuant to Article 19(2) or (3) and without prejudice to Article 67, Europol may transfer personal data to competent authorities of a third country or to an international organisation, provided that such transfer is necessary for the performance of Europol’s tasks, on the basis of one of the following:
+
+(a) a decision of the Commission adopted in accordance with Article 36 of Directive (EU) 2016/680, finding that the third country, a territory or one or more specified sectors within that third country, or the international organisation in question ensures an adequate level of protection (‘adequacy decision’);
+
+(b) an international agreement concluded between the Union and that third country or international organisation pursuant to Article 218 TFEU adducing adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals;
+
+(c) a cooperation agreement allowing for the exchange of personal data concluded, before 1 May 2017, between Europol and that third country or international organisation in accordance with Article 23 of Decision 2009/371/JHA.
+
+Europol may conclude administrative arrangements to implement such agreements or adequacy decisions.
+
+2\. The Executive Director shall inform the Management Board about exchanges of personal data on the basis of adequacy decisions pursuant to point (a) of paragraph 1.
+
+4\. By 14 June 2021, the Commission shall assess the provisions contained in the cooperation agreements referred to in point (c) of paragraph 1, in particular those concerning data protection. The Commission shall inform the European Parliament and the Council about the outcome of that assessment, and may, if appropriate, submit to the Council a recommendation for a decision authorising the opening of negotiations for the conclusion of international agreements referred to in point (b) of paragraph (1).
+
+4a. In the absence of an adequacy decision, the Management Board may authorise Europol to transfer personal data to a competent authority of a third country or to an international organisation where:
+
+(a) appropriate safeguards with regard to the protection of personal data are provided for in a legally binding instrument; or
+
+(b) Europol has assessed all the circumstances surrounding the transfer of personal data and has concluded that appropriate safeguards exist with regard to the protection of personal data.
+
+5\. By way of derogation from paragraph 1, the Executive Director may, in duly justified cases, authorise the transfer or a category of transfers of personal data to a competent authority of a third country or to an international organisation on a case-by-case basis if the transfer, or the category of transfers is:
+
+(a) necessary in order to protect the vital interests of the data subject or of another person;
+
+(b) necessary to safeguard legitimate interests of the data subject;
+
+(c) essential for the prevention of an immediate and serious threat to the public security of a Member State or a third country;
+
+(d) necessary in individual cases for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal sanctions; or
+
+(e) necessary in individual cases for the establishment, exercise or defence of legal claims relating to the prevention, investigation, detection or prosecution of a specific criminal offence or the execution of a specific criminal sanction.
+
+Personal data shall not be transferred if the Executive Director determines that fundamental rights and freedoms of the data subject concerned override the public interest in the transfer referred to in points (d) and (e).
+
+Derogations may not be applicable to systematic, massive or structural transfers.
+
+6\. By way of derogation from paragraph 1, the Management Board may, in agreement with the EDPS, authorise for a period not exceeding one year, which shall be renewable, a set of transfers in accordance with points (a) to (e) of paragraph 5, taking into account the existence of adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals. Such authorisation shall be duly justified and documented.
+
+7\. The Executive Director shall as soon as possible inform the Management Board and the EDPS of the cases in which paragraph 5 has been applied.
+
+8\. Europol shall inform the EDPS about categories of transfers under paragraph 4a, point (b). Where a transfer is made in accordance with paragraph 4a or 5, such a transfer shall be documented and the documentation shall be made available to the EDPS on request. The documentation shall include a record of the date and time of the transfer, and information about the competent authority referred to in this Article, about the justification for the transfer and about the personal data transferred.
+
+#### Article 26 — Exchanges of personal data with private parties
+
+1\. Insofar as is necessary in order for Europol to perform its tasks, Europol may process personal data obtained from private parties on condition that they are received via:
+
+(a) a national unit in accordance with national law;
+
+(b) the contact point of a third country or an international organisation with which Europol has concluded, before 1 May 2017, a cooperation agreement allowing for the exchange of personal data in accordance with Article 23 of Decision 2009/371/JHA; or
+
+(c) an authority of a third country or an international organisation as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a).
+
+2\. Where Europol receives personal data directly from private parties, it may process those personal data in accordance with Article 18 in order to identify the national units concerned, as referred to in paragraph 1, point (a), of this Article. Europol shall forward the personal data and any relevant results from the necessary processing of those data for the purpose of establishing jurisdiction immediately to the national units concerned. Europol may forward the personal data and relevant results from the necessary processing of those data for the purpose of establishing jurisdiction, in accordance with Article 25, to contact points and authorities concerned, as referred to in paragraph 1, points (b) and (c), of this Article. If Europol cannot identify any national units concerned, or has already forwarded the relevant personal data to all the identified respective national units concerned and it is not possible to identify further national units concerned, it shall erase the data, unless the national unit, contact point or authority concerned resubmits the personal data to Europol in accordance with Article 19(1) within four months after the transmission or transfer takes place.
+
+Criteria as to whether the national unit of the Member State of establishment of the relevant private party constitutes a national unit concerned shall be set out in the guidelines referred to in Article 18(7).
+
+2a. Any cooperation by Europol with private parties shall neither duplicate nor interfere with the activities of Member States’ FIUs, and shall not concern information that is to be provided to FIUs for the purposes of Directive (EU) 2015/849.
+
+3\. Following the transfer of personal data in accordance with point (c) of paragraph 5 of this Article, Europol may in connection therewith receive personal data directly from a private party which that private party declares it is legally allowed to transmit in accordance with the applicable law, in order to process such data for the performance of the task set out in point (m) of Article 4(1).
+
+4\. Where Europol receives personal data from a private party established in a third country, Europol shall forward those data and the results of its analysis and verification of those data only to a Member State, or to a third country concerned as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a).
+
+Without prejudice to the first subparagraph of this paragraph, Europol may transfer the results referred to in the first subparagraph of this paragraph to the third country concerned pursuant to Article 25(5) or (6).
+
+5\. Europol shall not transmit or transfer personal data to private parties, except in the following cases and provided that such transmission or transfer is strictly necessary and proportionate, to be determined on a case by case basis:
+
+(a) the transmission or transfer is undoubtedly in the interests of the data subject;
+
+(b) the transmission or transfer is strictly necessary in the interests of preventing the imminent perpetration of a crime, including terrorism, that falls within Europol’s objectives;
+
+(c) the transmission or transfer of personal data that are publicly available is strictly necessary for the performance of the task referred to in Article 4(1), point (m), and the following conditions are met:
+
+(i) the transmission or transfer concerns an individual and specific case;
+
+(ii) the fundamental rights and freedoms of the data subjects concerned do not override the public interest that requires those personal data be transmitted or transferred in the case concerned; or
+
+(d) the transmission or transfer is strictly necessary for Europol to notify that private party that the information received is insufficient to enable Europol to identify the national units concerned, and the following conditions are met:
+
+(i) the transmission or transfer follows a receipt of personal data directly from a private party in accordance with paragraph 2;
+
+(ii) the missing information, which Europol may refer to in its notification, has a clear link with the information previously shared by that private party;
+
+(iii) the missing information, which Europol may refer to in its notification, is strictly limited to what is necessary for Europol to identify the national units concerned.
+
+The transmission or transfer referred to in the first subparagraph of this paragraph is subject to any restrictions indicated pursuant to Article 19(2) or (3) and is without prejudice to Article 67.
+
+6\. With regard to paragraph 5, points (a), (b) and (d), of this Article, if the private party concerned is not established within the Union or in a third country as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a), the transfer shall only be authorised by the Executive Director if the transfer is:
+
+(a) necessary in order to protect the vital interests of the data subject concerned or of another person;
+
+(b) necessary in order to safeguard legitimate interests of the data subject concerned;
+
+(c) essential for the prevention of an immediate and serious threat to public security of a Member State or a third country;
+
+(d) necessary in individual cases for the purposes of the prevention, investigation, detection or prosecution of a specific crime that falls within Europol’s objectives; or
+
+(e) necessary in individual cases for the establishment, exercise or defence of legal claims relating to the prevention, investigation, detection or prosecution of a specific criminal offence that falls within Europol’s objectives.
+
+Personal data shall not be transferred if the Executive Director determines that the fundamental rights and freedoms of the data subject concerned override the public interest that requires the transfer referred to in the first subparagraph, points (d) and (e), of this paragraph.
+
+6a. Without prejudice to paragraph 5, points (a), (c) and (d), of this Article and other Union legal acts, transfers or transmissions of personal data under paragraphs 5 and 6 shall not be systematic, massive or structural.
+
+6b. Europol may request Member States, via their national units, to obtain, in accordance with their national law, personal data from private parties which are established or have a legal representative in their territory, for the purpose of sharing those data with Europol. Such requests shall be reasoned and as precise as possible. Such personal data shall be the least sensitive possible and strictly limited to what is necessary and proportionate for the purpose of enabling Europol to identify the national units concerned.
+
+Notwithstanding the jurisdiction of Member States over a specific crime, Member States shall ensure that their competent authorities can process the requests referred to in the first subparagraph in accordance with their national law for the purpose of supplying Europol with the information necessary for it to identify the national units concerned.
+
+6c. Europol’s infrastructure may be used for exchanges between the competent authorities of the Member States and private parties in accordance with the respective national law. Those exchanges may also cover crimes that do not fall within Europol’s objectives.
+
+Where Member States use Europol’s infrastructure for the exchange of personal data on crimes that fall within Europol’s objectives, they may grant Europol access to such data.
+
+Where Member States use Europol’s infrastructure for the exchange of personal data on crimes that do not fall within Europol’s objectives, Europol shall not have access to those data and shall be considered to be a processor in accordance with Article 87 of Regulation (EU) 2018/1725.
+
+Europol shall assess the security risks posed by allowing the use of its infrastructure by private parties and, where necessary, implement appropriate preventive and mitigating measures.
+
+7\. Europol shall ensure that detailed records of all transfers of personal data and the grounds for such transfers are recorded in accordance with this Regulation and communicated upon request to the EDPS pursuant to Article 40.
+
+8\. If the personal data received or to be transferred affect the interests of a Member State, Europol shall immediately inform the national unit of the Member State concerned.
+
+11\. Europol shall prepare an annual report for the Management Board on the personal data exchanged with private parties pursuant to Articles 26, 26a and 26b, on the basis of quantitative and qualitative evaluation criteria established by the Management Board.
+
+The annual report shall include specific examples demonstrating why Europol’s requests in accordance with paragraph 6b of this Article were necessary to achieve its objectives and carry out its tasks.
+
+The annual report shall take into account the obligations of discretion and confidentiality and the examples shall be anonymised insofar as personal data are concerned.
+
+The annual report shall be sent to the European Parliament, the Council, the Commission and national parliaments.
+
+#### Article 26a — Exchange of personal data with private parties in online crisis situations
+
+1\. In online crisis situations, Europol may receive personal data directly from private parties and process those personal data in accordance with Article 18.
+
+2\. Where Europol receives personal data from a private party established in a third country, Europol shall forward those data and the results of its analysis and verification of those data only to a Member State, or to a third country concerned as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a).
+
+Europol may transfer the results of its analysis and verification of the data referred to in paragraph 1 of this Article to the third country concerned pursuant to Article 25(5) or (6).
+
+3\. Europol may transmit or transfer personal data to private parties, on a case-by-case basis, subject to any restrictions indicated pursuant to Article 19(2) or (3) and without prejudice to Article 67, where the transmission or transfer of such data is strictly necessary for addressing online crisis situations and the fundamental rights and freedoms of the data subjects concerned do not override the public interest that requires those personal data be transmitted or transferred.
+
+4\. Where the private party concerned is not established within the Union or in a third country as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a), the transfer shall require authorisation by the Executive Director.
+
+5\. Europol shall assist, exchange information and cooperate with the competent authorities of the Member States with regard to the transmission or transfer of personal data to private parties under paragraph 3 or 4, in particular to avoid duplication of effort, enhance coordination and avoid interference with investigations in different Member States.
+
+6\. Europol may request Member States, via their national units, to obtain, in accordance with their national law, personal data from private parties which are established or have a legal representative in their territory, for the purpose of sharing those data with Europol. Such requests shall be reasoned and as precise as possible. Such personal data shall be the least sensitive possible and strictly limited to what is necessary and proportionate for the purpose of enabling Europol to support Member States in addressing online crisis situations.
+
+Notwithstanding the jurisdiction of Member States with regard to the dissemination of the content in relation to which Europol requests the personal data, Member States shall ensure that their competent authorities can process the requests referred to in the first subparagraph in accordance with their national law for the purpose of supplying Europol with the information necessary for it to achieve its objectives.
+
+7\. Europol shall ensure that detailed records of all transfers of personal data and the grounds for such transfers are kept in accordance with this Regulation. Upon request of the EDPS, Europol shall make those records available to the EDPS pursuant to Article 39a.
+
+8\. If the personal data received or to be transferred affect the interests of a Member State, Europol shall immediately inform the national unit of the Member State concerned.
+
+#### Article 26b — Exchange of personal data with private parties to address the online dissemination of online child sexual abuse material
+
+1\. Europol may receive personal data directly from private parties and process those personal data in accordance with Article 18 to address the online dissemination of online child sexual abuse material, as referred to in Article 4(1), point (y).
+
+2\. Where Europol receives personal data from a private party established in a third country, Europol shall forward those data and the results of its analysis and verification of those data only to a Member State, or to a third country concerned as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a).
+
+Europol may transfer the results of its analysis and verification of the data referred to in the first subparagraph of this paragraph to the third country concerned pursuant to Article 25(5) or (6).
+
+3\. Europol may transmit or transfer personal data to private parties, on a case-by-case basis, subject to any restrictions indicated pursuant to Article 19(2) or (3) and without prejudice to Article 67, where the transmission or transfer of such data is strictly necessary for addressing the online dissemination of online child sexual abuse material, as referred to in Article 4(1), point (y), and the fundamental rights and freedoms of the data subjects concerned do not override the public interest that requires those personal data be transmitted or transferred.
+
+4\. Where the private party concerned is not established within the Union or in a third country as referred to in Article 25(1), point (a), (b) or (c), or in Article 25(4a), the transfer shall require authorisation by the Executive Director.
+
+5\. Europol shall assist, exchange information and cooperate with the competent authorities of the Member States with regard to the transmission or transfer of personal data to private parties under paragraphs 3 or 4, in particular to avoid duplication of effort, enhance coordination and avoid interference with investigations in different Member States.
+
+6\. Europol may request Member States, via their national units, to obtain, in accordance with their national law, personal data from private parties which are established or have a legal representative in their territory, for the purpose of sharing those data with Europol. Such requests shall be reasoned and as precise as possible. Such personal data shall be the least sensitive possible and strictly limited to what is necessary and proportionate for the purpose of enabling Europol to address the online dissemination of online child sexual abuse material, as referred to Article 4(1), point (y).
+
+Notwithstanding the jurisdiction of Member States with regard to the dissemination of the content in relation to which Europol requests the personal data, Member States shall ensure that the competent authorities of the Member States can process the requests referred to in the first subparagraph in accordance with their national law for the purpose of supplying Europol with the information necessary for it to achieve its objectives.
+
+7\. Europol shall ensure that detailed records of all transfers of personal data and the grounds for such transfers are kept in accordance with this Regulation. Upon request of the EDPS, Europol shall make those records available to the EDPS pursuant to Article 39a.
+
+8\. If the personal data received or to be transferred affect the interests of a Member State, Europol shall immediately inform the national unit of the Member State concerned.
+
+#### Article 27 — Information from private persons
+
+1\. Insofar as is necessary in order for Europol to perform its tasks, Europol may receive and process information originating from private persons.
+
+Personal data originating from private persons shall only be processed by Europol provided that they are received via:
+
+(a) a national unit in accordance with national law;
+
+(b) the contact point of a third country or an international organisation pursuant to Article 25(1), point (c); or
+
+(c) an authority of a third country or an international organisation as referred to in Article 25(1), point (a) or (b), or in Article 25(4a).
+
+2\. Where Europol receives information, including personal data, from a private person residing in a third country other than that referred to in Article 25(1), points (a) or (b), or in Article 25(4a), Europol shall forward that information only to a Member State or to such third country.
+
+3\. If the personal data received affect the interests of a Member State, Europol shall immediately inform the national unit of the Member State concerned.
+
+4\. Europol shall not contact private persons to retrieve information.
+
+5\. Without prejudice to Articles 36 and 37, Europol may not transfer personal data to private persons.
+
+## CHAPTER VI — DATA PROTECTION
+
+#### Article 27a — Processing of personal data by Europol
+
+1\. Without prejudice to this Regulation, Article 3 and Chapter IX of Regulation (EU) 2018/1725 shall apply to the processing of personal data by Europol.
+
+Regulation (EU) 2018/1725, with the exception of Chapter IX, shall apply to the processing of administrative personal data by Europol.
+
+2\. References to ‘personal data’ in this Regulation shall be understood as references to ‘operational personal data’ as defined in Article 3, point (2), of Regulation (EU) 2018/1725, unless otherwise provided for in this Regulation.
+
+3\. The Management Board shall adopt rules to determine the time limits for the storage of administrative personal data.
+
+#### Article 29 — Assessment of reliability of the source and accuracy of information
+
+1\. The reliability of the source of information originating from a Member State shall be assessed as far as possible by the providing Member State using the following source evaluation codes:
+
+(A): where there is no doubt as to the authenticity, trustworthiness and competence of the source, or if the information is provided by a source which has proved to be reliable in all instances;
+
+(B): where the information is provided by a source which has in most instances proved to be reliable;
+
+(C): where the information is provided by a source which has in most instances proved to be unreliable;
+
+(X): where the reliability of the source cannot be assessed.
+
+2\. The accuracy of information originating from a Member State shall be assessed as far as possible by the providing Member State using the following information evaluation codes:
+
+(1): information the accuracy of which is not in doubt;
+
+(2): information known personally to the source but not known personally to the official passing it on;
+
+(3): information not known personally to the source but corroborated by other information already recorded;
+
+(4): information not known personally to the source and which cannot be corroborated.
+
+3\. Where Europol, on the basis of information already in its possession, comes to the conclusion that the assessment provided for in paragraphs 1 or 2 needs to be corrected, it shall inform the Member State concerned and seek to agree on an amendment to the assessment. Europol shall not change the assessment without such agreement.
+
+4\. Where Europol receives information from a Member State without an assessment in accordance with paragraphs 1 or 2, it shall attempt to assess the reliability of the source or the accuracy of information on the basis of information already in its possession. The assessment of specific data and information shall take place in agreement with the providing Member State. A Member State may also agree with Europol in general terms on the assessment of specified types of data and specified sources. If no agreement is reached in a specific case, or no agreement in general terms exists, Europol shall assess the information or data and shall attribute to such information or data the evaluation codes (X) and (4) referred to in paragraphs 1 and 2 respectively.
+
+5\. This Article shall apply mutatis mutandis where Europol receives data or information from a Union body, third country, international organisation or private party.
+
+6\. Information from publicly available sources shall be assessed by Europol using the evaluation codes set out in paragraphs 1 and 2.
+
+7\. Where information is the result of an analysis made by Europol in the performance of its tasks, Europol shall assess such information in accordance with this Article, and in agreement with the Member States participating in the analysis.
+
+#### Article 30 — Processing of special categories of personal data and of different categories of data subjects
+
+1\. Processing of personal data in respect of victims of a criminal offence, witnesses or other persons who can provide information concerning criminal offences, or in respect of persons under the age of 18, shall be allowed if it is strictly necessary and proportionate for preventing or combating crime that falls within Europol's objectives.
+
+2\. Processing of personal data, by automated or other means, revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, or data concerning health or concerning natural persons’ sex life or sexual orientation shall be allowed only where strictly necessary and proportionate for the purposes of research and innovation projects pursuant to Article 33a and for operational purposes, within Europol’s objectives, and only for preventing or combating crime that falls within Europol’s objectives. Such processing shall also be subject to appropriate safeguards laid down in this Regulation with regard to the rights and freedoms of the data subject, and, with the exception of biometric data processed for the purpose of uniquely identifying a natural person, shall be allowed only if those data supplement other personal data processed by Europol.  The selection of a particular group of persons solely on the basis of such personal data shall be prohibited.
+
+2a. The Data Protection Officer shall be informed without undue delay in the case of processing of personal data pursuant to this Article.
+
+3\. Only Europol shall have direct access to personal data referred to in paragraphs 1 and 2. The Executive Director shall duly authorise a limited number of Europol staff to have such access if it is necessary for the performance of their tasks.
+
+Notwithstanding the first subparagraph, where it is necessary to grant staff of the competent authorities of the Member States or Union agencies established on the basis of Title V of the TFEU direct access to personal data for the performance of their tasks, in the cases provided for in Article 20(1) and (2a) of this Regulation or for research and innovation projects in accordance with Article 33a(2), point (d), of this Regulation, the Executive Director shall duly authorise a limited number of such staff to have such access.
+
+5\. Personal data as referred to in paragraphs 1 and 2 shall not be transmitted to Member States or Union bodies, or transferred to third countries or international organisations, unless such transmission or transfer is required under Union law or strictly necessary and proportionate in individual cases concerning crimes that fall within Europol’s objectives and in accordance with Chapter V.
+
+6\. Every year Europol shall provide to the EDPS a statistical overview of all personal data as referred to in paragraph 2 which it has processed.
+
+#### Article 31 — Time-limits for the storage and erasure of personal data
+
+1\. Personal data processed by Europol shall be stored by Europol only for as long as is necessary and proportionate for the purposes for which the data are processed.
+
+2\. Europol shall in any event review the need for continued storage no later than three years after the start of initial processing of personal data. Europol may decide on the continued storage of personal data until the following review, which shall take place after another period of three years, if continued storage is still necessary for the performance of Europol's tasks. The reasons for the continued storage shall be justified and recorded. If no decision is taken on the continued storage of personal data, that data shall be erased automatically after three years.
+
+3\. If personal data as referred to in Article 30(1) and (2) are stored for a period exceeding five years, the EDPS shall be informed accordingly.
+
+4\. Where a Member State, a Union body, a third country or an international organisation has indicated any restriction as regards the earlier erasure or destruction of the personal data at the moment of transfer in accordance with Article 19(2), Europol shall erase the personal data in accordance with those restrictions. If continued storage of the data is deemed necessary, on the basis of information that is more extensive than that possessed by the data provider, in order for Europol to perform its tasks, Europol shall request the authorisation of the data provider to continue storing the data and shall present a justification for such request.
+
+5\. Where a Member State, a Union body, a third country or an international organisation erases from its own data files personal data provided to Europol, it shall inform Europol accordingly. Europol shall erase the data unless the continued storage of the data is deemed necessary, on the basis of information that is more extensive than that possessed by the data provider, in order for Europol to perform its tasks. Europol shall inform the data provider of the continued storage of such data and present a justification of such continued storage.
+
+6\. Personal data shall not be erased if:
+
+(a) this would damage the interests of a data subject who requires protection. In such cases, the data shall be used only with the express and written consent of the data subject;
+
+(b) their accuracy is contested by the data subject, for a period enabling Member States or Europol, where appropriate, to verify the accuracy of the data;
+
+(c) they have to be maintained for purposes of proof or for the establishment, exercise or defence of legal claims; or
+
+(d) the data subject opposes their erasure and requests the restriction of their use instead.
+
+#### Article 32 — Security of processing
+
+Mechanisms to ensure that security measures are addressed across information system boundaries shall be established by Europol in accordance with Article 91 of Regulation (EU) 2018/1725 and by the Member States in accordance with Article 29 of Directive (EU) 2016/680.
+
+#### Article 33a — Processing of personal data for research and innovation
+
+1\. Europol may process personal data for the purpose of its research and innovation projects, provided that the processing of those personal data:
+
+(a) is strictly required and duly justified to achieve the objectives of the project concerned;
+
+(b) as regards special categories of personal data, is strictly necessary and subject to appropriate safeguards, which may include pseudonymisation.
+
+The processing of personal data by Europol in the context of research and innovation projects shall be guided by the principles of transparency, explainability, fairness, and accountability.
+
+2\. Without prejudice to paragraph 1, for the processing of personal data performed in the context of Europol’s research and innovation projects, the following safeguards shall apply:
+
+(a) any research and innovation project requires the prior authorisation by the Executive Director, in consultation with the Data Protection Officer and the Fundamental Rights Officer, based on:
+
+(i) a description of the objectives of the project and an explanation of how the project assists Europol or competent authorities of the Member States in their tasks;
+
+(ii) a description of the envisaged processing activity, setting out the objectives, scope and duration of the processing and the necessity and proportionality to process the personal data, such as for exploring and testing innovative technological solutions and ensuring accuracy of the project results;
+
+(iii) a description of the categories of personal data to be processed;
+
+(iv) an assessment of the compliance with the data protection principles laid down in Article 71 of Regulation (EU) 2018/1725, of the time limits for the storage and conditions for access to the personal data; and
+
+(v) a data protection impact assessment, including the risks to rights and freedoms of data subjects, the risk of any bias in the personal data to be used for the training of algorithms and in the outcome of the processing, and the measures envisaged to address those risks as well as to avoid violations of fundamental rights;
+
+(b) the EDPS shall be informed prior to the launch of the project;
+
+(c) the Management Board shall be consulted or informed prior to the launch of the project, in accordance with the guidelines referred to in Article 18(7);
+
+(d) any personal data to be processed in the context of the project shall:
+
+(i) be temporarily copied to a separate, isolated and protected data processing environment within Europol for the sole purpose of carrying out that project;
+
+(ii) be accessed only by specifically authorised staff of Europol in accordance with Article 30(3) of this Regulation and, subject to technical security measures, by specifically authorised staff of the competent authorities of the Member States and Union agencies established on the basis of Title V of the TFEU;
+
+(iii) not be transmitted or transferred;
+
+(iv) not lead to measures or decisions affecting the data subjects as a result of their processing;
+
+(v) be erased once the project is concluded or the time limit for the storage of personal data has expired in accordance with Article 31;
+
+(e) the logs of the processing of personal data in the context of the project shall be kept until two years after the conclusion of the project, solely for the purpose of and only as long as necessary for verifying the accuracy of the outcome of the data processing.
+
+3\. The Management Board shall establish in a binding document the general scope for the research and innovation projects. Such document shall be updated where appropriate and made available to the EDPS for the purpose of its supervision.
+
+4\. Europol shall keep a document containing a detailed description of the process and of the rationale behind the training, testing and validation of algorithms to ensure transparency of the process and the algorithms, including their compliance with the safeguards provided for in this Article, and to allow for verification of the accuracy of the results based on the use of such algorithms. Upon request, Europol shall make that document available to interested parties, including Member States and the JPSG.
+
+5\. If the data to be processed for a research and innovation project have been provided by a Member State, a Union body, a third country or an international organisation, Europol shall request consent from that provider of data in accordance with Article 19(2), unless the provider of data has granted its prior authorisation to such processing for the purpose of research and innovation projects, either in general terms or subject to specific conditions.
+
+Europol shall not process data for research and innovation projects without the consent of the provider of the data. Such consent may be withdrawn at any time.
+
+#### Article 34 — Notification of a personal data breach to the authorities concerned
+
+1\. Without prejudice to Article 92 of Regulation (EU) 2018/1725, in the event of a personal data breach, Europol shall notify the competent authorities of the Member States concerned of that breach, without undue delay, in accordance with Article 7(5) of this Regulation, as well as the provider of the data concerned unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.
+
+2\. The notification referred to in paragraph 1 shall, as a minimum:
+
+(a) describe the nature of the personal data breach including, where possible and appropriate, the categories and number of data subjects concerned and the categories and number of data records concerned;
+
+(b) describe the likely consequences of the personal data breach;
+
+(c) describe the measures proposed or taken by Europol to address the personal data breach; and
+
+(d) where appropriate, recommend measures to mitigate the possible adverse effects of the personal data breach.
+
+#### Article 35 — Communication of a personal data breach to the data subject
+
+3\. Without prejudice to Article 93 of Regulation (EU) 2018/1725, if Europol does not have the contact details of the data subject concerned, it shall request the provider of the data to communicate the personal data breach to the data subject concerned and to inform Europol about the decision taken. Member States providing the data shall communicate the personal data breach to the data subject concerned in accordance with national law.
+
+#### Article 36 — Right of access for the data subject
+
+3\. Any data subject wishing to exercise the right of access referred to in Article 80 of Regulation (EU) 2018/1725 to personal data that relate to the data subject may make a request to that effect to the authority appointed for that purpose in the Member State of his or her choice, or to Europol. Where the request is made to that authority, it shall refer the request to Europol without undue delay and within one month of receipt.
+
+4\. Europol shall confirm receipt of the request under paragraph 3. Europol shall answer it without undue delay, and in any case within three months of receipt by Europol of the request from the national authority.
+
+5\. Europol shall consult the competent authorities of the Member States, in accordance with the conditions laid down in Article 7(5), and the provider of the data concerned, on a decision to be taken. A decision on access to personal data shall be conditional on close cooperation between Europol and the Member States and the provider of the data directly concerned by the access of the data subject to such data. If a Member State or the provider of the data objects to Europol's proposed response, it shall notify Europol of the reasons for its objection in accordance with paragraph 6 of this Article. Europol shall take the utmost account of any such objection. Europol shall subsequently notify its decision to the competent authorities concerned, in accordance with the conditions laid down in Article 7(5), and to the provider of the data.
+
+#### Article 37 — Right to rectification, erasure and restriction
+
+1\. Any data subject wishing to exercise the right to rectification or erasure of personal data or of restriction of processing of personal data that relate to him or her referred to in Article 82 of Regulation (EU) 2018/1725 may make a request to that effect, through the authority appointed for that purpose in the Member State of his or her choice, or to Europol. Where the request is made to that authority, it shall refer the request to Europol without undue delay and within one month of receipt.
+
+3\. Without prejudice to Article 82(3) of Regulation (EU) 2018/1725, Europol shall restrict the processing of personal data rather than erase personal data if there are reasonable grounds to believe that erasure could affect the legitimate interests of the data subject.
+
+Restricted data shall be processed only for the purpose of protecting the rights of the data subject, where it is necessary to protect the vital interests of the data subject or of another person, or for the purposes laid down in Article 82(3) of Regulation (EU) 2018/1725.
+
+4\. Where personal data referred to in paragraphs 1 and 3 held by Europol have been provided to it by third countries, international organisations or Union bodies, have been directly provided by private parties, have been retrieved by Europol from publicly available sources or result from Europol’s own analyses, Europol shall rectify or erase such data or restrict their processing and, where appropriate, inform the providers of the data.
+
+5\. Where personal data referred to in paragraphs 1 and 3 held by Europol have been provided to Europol by Member States, the Member States concerned shall rectify or erase such data or restrict their processing in cooperation with Europol, within their respective competences.
+
+6\. If incorrect personal data have been transferred by another appropriate means or if the errors in the data provided by Member States are due to faulty transfer or transfer in breach of this Regulation or if they result from data being input, taken over or stored in an incorrect manner or in breach of this Regulation by Europol, Europol shall rectify or erase such data in collaboration with the provider of the data concerned.
+
+7\. In the cases referred to in paragraphs 4, 5 and 6, all addressees of the data concerned shall be notified forthwith. In accordance with the rules applicable to them, the addressees shall then rectify, erase or restrict those data in their systems.
+
+#### Article 38 — Responsibility in data protection matters
+
+1\. Europol shall process personal data in a manner that ensures that their source, in accordance with Article 17, can be established.
+
+2\. The responsibility for the accuracy of personal data as referred to in Article 71(1), point (d), of Regulation (EU) 2018/1725 shall lie with:
+
+(a) the Member State or the Union body which provided the personal data to Europol;
+
+(b) Europol in respect of personal data provided by third countries or international organisations or directly provided by private parties; of personal data retrieved by Europol from publicly available sources or resulting from Europol's own analyses; and of personal data stored by Europol in accordance with Article 31(5).
+
+3\. If Europol becomes aware that personal data provided pursuant to points (a) and (b) of Article 17(1) are factually incorrect or have been unlawfully stored, it shall inform the provider of those data accordingly.
+
+4\. Europol shall be responsible for compliance with Regulation (EU) 2018/1725 in relation to administrative personal data and for compliance with this Regulation and with Article 3 and Chapter IX of Regulation (EU) 2018/1725 in relation to personal data.
+
+5\. The responsibility for the legality of a data transfer shall lie with:
+
+(a) the Member State which provided the personal data to Europol;
+
+(b) Europol in the case of personal data provided by it to Member States, third countries or international organisations.
+
+6\. In the case of a transfer between Europol and a Union body, the responsibility for the legality of the transfer shall lie with Europol.
+
+Without prejudice to the first subparagraph, where the data are transferred by Europol following a request from the recipient, both Europol and the recipient shall be responsible for the legality of such a transfer.
+
+7\. Europol shall be responsible for all data processing operations carried out by it, with the exception of the bilateral exchange of data using Europol's infrastructure between Member States, Union bodies, third countries and international organisations to which Europol has no access. Such bilateral exchanges shall take place under the responsibility of the entities concerned and in accordance with their law. The security of such exchanges shall be ensured in accordance with Article 91 of Regulation (EU) 2018/1725  .
+
+#### Article 39 — Prior consultation
+
+1\. Without prejudice to Article 90 of Regulation (EU) 2018/1725, prior consultation of the EDPS shall not apply to specific individual operational activities that do not include any new type of processing that would involve a high risk to the rights and freedoms of the data subjects.
+
+2\. Europol may initiate processing operations which are subject to prior consultation of the EDPS pursuant to Article 90(1) of Regulation (EU) 2018/1725 unless the EDPS has provided written advice pursuant to Article 90(4) of that Regulation within the periods provided for in that provision, which start on the date of receipt of the initial request for consultation and are not to be suspended.
+
+3\. Where the processing operations referred to in paragraph 2 of this Article have substantial significance for the performance of Europol’s tasks and are particularly urgent and necessary to prevent and combat an immediate threat of a crime that falls within Europol’s objectives or to protect vital interests of the data subject or another person, Europol may exceptionally initiate processing after the prior consultation of the EDPS provided for in Article 90(1) of Regulation (EU) 2018/1725 has started and before the period provided for in Article 90(4) of that Regulation has expired. In that case, Europol shall inform the EDPS prior to the start of processing operations.
+
+Written advice of the EDPS pursuant to Article 90(4) of Regulation (EU) 2018/1725 shall be taken into account retrospectively, and the way the processing is carried out shall be adjusted accordingly.
+
+The Data Protection Officer shall be involved in assessing the urgency of such processing operations before the period provided for in Article 90(4) of Regulation (EU) 2018/1725 expires and shall oversee the processing in question.
+
+4\. The EDPS shall keep a register of all processing operations that have been notified to him or her pursuant to paragraph 1. The register shall not be made public.
+
+#### Article 39a — Records of categories of processing activities
+
+1\. Europol shall maintain a record of all categories of processing activities under its responsibility. That record shall contain the following information:
+
+(a) Europol’s contact details and the name and the contact details of the Data Protection Officer;
+
+(b) the purposes of the processing;
+
+(c) a description of the categories of data subjects and of the categories of personal data;
+
+(d) the categories of recipients to whom the personal data have been or will be disclosed including recipients in third countries or international organisations;
+
+(e) where applicable, transfers of personal data to a third country, an international organisation or private party, including the identification of that recipient;
+
+(f) where possible, the envisaged time limits for erasure of the different categories of data;
+
+(g) where possible, a general description of the technical and organisational security measures referred to in Article 91 of Regulation (EU) 2018/1725;
+
+(h) where applicable, the use of profiling.
+
+2\. The record referred to in paragraph 1 shall be in writing, including in electronic form.
+
+3\. Europol shall make the record referred to in paragraph 1 available to the EDPS on request.
+
+#### Article 40 — Logging
+
+1\. In accordance with Article 88 of Regulation (EU) 2018/1725, Europol shall keep logs of its processing operations. It shall not be possible to modify the logs.
+
+2\. Without prejudice to Article 88 of Regulation (EU) 2018/1725, if required by a national unit for a specific investigation related to compliance with data protection rules, the logs referred to in paragraph 1 shall be communicated to that national unit.
+
+#### Article 41 — Designation of the Data Protection Officer
+
+1\. The Management Board shall appoint a member of staff of Europol as Data Protection Officer, who shall be designated for that sole position.
+
+2\. The Data Protection Officer shall be selected on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices and the ability to carry out the tasks referred to in Article 41b of this Regulation and in Regulation (EU) 2018/1725.
+
+3\. The selection of the Data Protection Officer shall not result in a conflict of interest between his or her duty as Data Protection Officer and any other official duties he or she may have, in particular in relation to the application of this Regulation.
+
+4\. The Data Protection Officer shall not be dismissed or penalised by the Management Board for performing his or her tasks.
+
+5\. Europol shall publish the contact details of the Data Protection Officer and communicate them to the EDPS.
+
+#### Article 41a — Position of the Data Protection Officer
+
+1\. Europol shall ensure that the Data Protection Officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data.
+
+2\. Europol shall support the Data Protection Officer in performing the tasks referred to in Article 41b by providing the resources and staff necessary to carry out those tasks and by providing access to personal data and processing operations, and to maintain his or her expert knowledge.
+
+In order to support the Data Protection Officer in carrying out his or her tasks, a member of staff of Europol may be designated as assistant Data Protection Officer.
+
+3\. Europol shall ensure that the Data Protection Officer acts independently and does not receive any instructions regarding the carrying out of his or her tasks.
+
+The Data Protection Officer shall report directly to the Management Board.
+
+4\. Data subjects may contact the Data Protection Officer with regard to all issues related to processing of their personal data and to the exercise of their rights under this Regulation and under Regulation (EU) 2018/1725.
+
+No one shall suffer prejudice on account of a matter brought to the attention of the Data Protection Officer alleging that a breach of this Regulation or Regulation (EU) 2018/1725 has taken place.
+
+5\. The Management Board shall adopt implementing rules concerning the Data Protection Officer. Those implementing rules shall in particular concern the selection procedure for the position of the Data Protection Officer, his or her dismissal, tasks, duties and powers, and safeguards for his or her independence.
+
+6\. The Data Protection Officer and his or her staff shall be bound by the obligation of confidentiality in accordance with Article 67(1).
+
+7\. The Data Protection Officer shall be appointed for a term of four years and shall be eligible for reappointment.
+
+8\. The Data Protection Officer shall be dismissed from his or her post by the Management Board if he or she no longer fulfils the conditions required for the performance of his or her duties and only with the consent of the EDPS.
+
+9\. The Data Protection Officer and the assistant Data Protection Officer shall be registered with the EDPS by the Management Board.
+
+10\. The provisions applicable to the Data Protection Officer shall apply mutatis mutandis to the assistant Data Protection Officer.
+
+#### Article 41b — Tasks of the Data Protection Officer
+
+1\. The Data Protection Officer shall, in particular, have the following tasks with regard to processing of personal data:
+
+(a) ensuring in an independent manner the compliance of Europol with the data protection provisions of this Regulation and Regulation (EU) 2018/1725 and with the relevant data protection provisions in Europol’s internal rules, including monitoring compliance with this Regulation, with Regulation (EU) 2018/1725, with other Union or national data protection provisions and with the policies of Europol in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and related audits;
+
+(b) informing and advising Europol and staff who process personal data of their obligations pursuant to this Regulation, to Regulation (EU) 2018/1725 and to other Union or national data protection provisions;
+
+(c) providing advice where requested as regards the data protection impact assessment pursuant to Article 89 of Regulation (EU) 2018/1725 and monitoring the performance of the data protection impact assessment;
+
+(d) keeping a register of personal data breaches and providing advice where requested as regards the necessity of a notification or communication of a personal data breach pursuant to Articles 92 and 93 of Regulation (EU) 2018/1725;
+
+(e) ensuring that a record of the transmission, transfer and receipt of personal data is kept in accordance with this Regulation;
+
+(f) ensuring that, at their request, data subjects are informed of their rights under this Regulation and Regulation (EU) 2018/1725;
+
+(g) cooperating with Europol staff responsible for procedures, training and advice on data processing;
+
+(h) responding to requests from the EDPS, within the sphere of his or her competence, cooperating and consulting with the EDPS, at the latter’s request or on his or her own initiative;
+
+(i) cooperating with the competent authorities of the Member States, in particular with the Data Protection Officers of the competent authorities of the Members States and national supervisory authorities regarding data protection matters in the law enforcement area;
+
+(j) acting as the contact point for the EDPS on issues relating to processing, including the prior consultation under Articles 40 and 90 of Regulation (EU) 2018/1725, and consulting, where appropriate, with regard to any other matter within the sphere of his or her competence;
+
+(k) preparing an annual report and communicating that report to the Management Board and to the EDPS;
+
+(l) ensuring that the rights and freedoms of data subjects are not adversely affected by processing operations.
+
+2\. The Data Protection Officer may make recommendations to the Management Board for the practical improvement of data protection and advise on matters concerning the application of data protection provisions.
+
+The Data Protection Officer may, on his or her own initiative or at the request of the Management Board or any individual, investigate matters and occurrences directly relating to his or her tasks which come to his or her notice, and report back to the person who requested the investigation or to the Management Board the results of that investigation.
+
+3\. The Data Protection Officer shall carry out the functions provided for by Regulation (EU) 2018/1725 with regard to administrative personal data.
+
+4\. In the performance of his or her tasks, the Data Protection Officer and the staff members of Europol assisting the Data Protection Officer in the performance of his or her duties shall have access to all the data processed by Europol and to all Europol premises.
+
+5\. If the Data Protection Officer considers that the provisions of this Regulation or of Regulation (EU) 2018/1725 concerning the processing of administrative personal data, or the provisions of this Regulation or of Article 3 and of Chapter IX of Regulation (EU) 2018/1725 concerning the processing of personal data, have not been complied with, he or she shall inform the Executive Director and shall require him or her to resolve the non-compliance within a specified period.
+
+If the Executive Director does not resolve the non-compliance of the processing within the specified period, the Data Protection Officer shall inform the Management Board. The Management Board shall reply within a specified time limit agreed with the Data Protection Officer. If the Management Board does not resolve the non-compliance within the specified period, the Data Protection Officer shall refer the matter to the EDPS.
+
+#### Article 41c — Fundamental Rights Officer
+
+1\. The Management Board shall, upon a proposal of the Executive Director, designate a Fundamental Rights Officer. The Fundamental Rights Officer may be a member of the existing staff of Europol who received special training in fundamental rights law and practice.
+
+2\. The Fundamental Rights Officer shall perform the following tasks:
+
+(a) advise Europol where he or she deems it necessary or where requested on any activity of Europol without impeding or delaying those activities;
+
+(b) monitor Europol’s compliance with fundamental rights;
+
+(c) provide non-binding opinions on working arrangements;
+
+(d) inform the Executive Director about possible violations of fundamental rights in the course of Europol’s activities;
+
+(e) promote Europol’s respect of fundamental rights in the performance of its tasks and activities;
+
+(f) any other tasks where provided for by this Regulation.
+
+3\. Europol shall ensure that the Fundamental Rights Officer does not receive any instructions regarding the exercise of his or her tasks.
+
+4\. The Fundamental Rights Officer shall report directly to the Executive Director and prepare annual reports on his or her activities, including the extent to which the activities of Europol respect fundamental rights. Those reports shall be made available to the Management Board.
+
+#### Article 41d — Fundamental Rights Training
+
+All Europol staff involved in operational tasks involving personal data processing shall receive mandatory training on the protection of fundamental rights and freedoms, including with regard to the processing of personal data. That training shall be developed in cooperation with the European Union Agency for Fundamental Rights (FRA), established by Council Regulation (EC) No 168/2007 ( 16 ), and the European Union Agency for Law Enforcement Training (CEPOL), established by Regulation (EU) 2015/2219 of the European Parliament and of the Council ( 17 ).
+
+#### Article 42 — Supervision by the national supervisory authority
+
+1\. For the purpose of exercising their supervisory function, the national supervisory authorities referred to in Article 41 of Directive (EU) 2016/680 shall have access, at the national unit or at the liaison officers’ premises, to data submitted by their Member State to Europol in accordance with the relevant national procedures and to logs as referred to in Article 40 of this Regulation.
+
+2\. National supervisory authorities shall have access to the offices and documents of their respective liaison officers at Europol.
+
+3\. National supervisory authorities shall, in accordance with the relevant national procedures, supervise the activities of national units and the activities of liaison officers, insofar as such activities are relevant to the protection of personal data. They shall also keep the EDPS informed of any actions they take with respect to Europol.
+
+4\. Any person shall have the right to request the national supervisory authority to verify the legality of any transfer or communication to Europol of data concerning him or her in any form and of access to those data by the Member State concerned. That right shall be exercised in accordance with the national law of the Member State in which the request is made.
+
+#### Article 43 — Supervision by the EDPS
+
+1\. The EDPS shall be responsible for monitoring and ensuring the application of the provisions of this Regulation and of Regulation (EU) 2018/1725 relating to the protection of fundamental rights and freedoms of natural persons with regard to the processing of personal data by Europol, and for advising Europol and data subjects on all matters concerning the processing of personal data.  To that end, he or she shall fulfil the duties set out in paragraph 2 and exercise the powers laid down in paragraph 3, while closely cooperating with the national supervisory authorities in accordance with Article 44.
+
+2\. The EDPS shall have the following duties:
+
+(a) hearing and investigating complaints, and informing the data subject of the outcome within a reasonable period;
+
+(b) conducting inquiries either on his or her own initiative or on the basis of a complaint, and informing the data subject of the outcome within a reasonable period;
+
+(c) monitoring and ensuring the application of this Regulation and any other Union act relating to the protection of natural persons with regard to the processing of personal data by Europol;
+
+(d) advising Europol, either on his or her own initiative or in response to a consultation, on all matters concerning the processing of personal data, in particular before it draws up internal rules relating to the protection of fundamental rights and freedoms with regard to the processing of personal data;
+
+(e) keeping a register of new types of processing operations notified to him or her by virtue of Article 39(1) and registered in accordance with Article 39(4);
+
+(f) carrying out a prior consultation on processing notified to him or her.
+
+3\. The EDPS may pursuant to this Regulation:
+
+(a) give advice to data subjects on the exercise of their rights;
+
+(b) refer a matter to Europol in the event of an alleged breach of the provisions governing the processing of personal data, and, where appropriate, make proposals for remedying that breach and for improving the protection of the data subjects;
+
+(c) order that requests to exercise certain rights in relation to data be complied with where such requests have been refused in breach of Articles 36 and 37;
+
+(d) warn or admonish Europol;
+
+(e) order Europol to carry out the rectification, restriction, erasure or destruction of personal data which have been processed in breach of the provisions governing the processing of personal data and to notify such actions to third parties to whom such data have been disclosed;
+
+(f) impose a temporary or definitive ban on processing operations by Europol which are in breach of the provisions governing the processing of personal data;
+
+(g) refer a matter to Europol and, if necessary, to the European Parliament, the Council and the Commission;
+
+(h) refer a matter to the Court of Justice of the European Union under the conditions provided for in the TFEU;
+
+(i) intervene in actions brought before the Court of Justice of the European Union;
+
+(j) order the controller or processor to bring processing operations into compliance with this Regulation, where appropriate, in a specified manner and within a specified period;
+
+(k) order the suspension of data flows to a recipient in a Member State, a third country or to an international organisation;
+
+(l) impose an administrative fine in the case of non-compliance by Europol with one of the measures referred to in points (c), (e), (f), (j) and (k) of this paragraph, depending on the circumstances of each individual case.
+
+4\. The EDPS shall have the power to:
+
+(a) obtain from Europol access to all personal data and to all information necessary for his or her enquiries;
+
+(b) obtain access to any premises in which Europol carries on its activities when there are reasonable grounds for presuming that an activity covered by this Regulation is being carried out there.
+
+5\. The EDPS shall prepare an annual report on his or her supervisory activities in relation to Europol. That report shall be part of the annual report of the EDPS referred to in Article 60 of Regulation (EU) 2018/1725.
+
+The EDPS shall invite the national supervisory authorities to submit observations on that part of the annual report before the annual report is adopted. The EDPS shall take utmost account of those observations and shall refer to them in the annual report.
+
+The part of the annual report referred to in the second subparagraph shall include statistical information regarding complaints, inquiries, and investigations, as well as regarding transfers of personal data to third countries and international organisations, cases of prior consultation of the EDPS, and the use of the powers laid down in paragraph 3 of this Article.
+
+6\. The EDPS, the officials and the other staff members of the EDPS's Secretariat shall be bound by the obligation of confidentiality laid down in Article 67(1).
+
+#### Article 44 — Cooperation between the EDPS and national supervisory authorities
+
+1\. The EDPS shall act in close cooperation with the national supervisory authorities on issues requiring national involvement, in particular if the EDPS or a national supervisory authority finds major discrepancies between the practices of Member States or potentially unlawful transfers in the use of Europol's channels for exchanges of information, or in the context of questions raised by one or more national supervisory authorities on the implementation and interpretation of this Regulation.
+
+2\. In the cases referred to in paragraph 1, coordinated supervision shall be ensured in accordance with Article 62 of Regulation (EU) 2018/1725. The EDPS shall use the expertise and experience of the national supervisory authorities in carrying out his or her duties as set out in Article 43(2) of this Regulation.
+
+In carrying out joint inspections together with the EDPS, members and staff of national supervisory authorities shall, taking due account of the principles of subsidiarity and proportionality, have powers equivalent to those laid down in Article 43(4) of this Regulation and be bound by an obligation equivalent to that laid down in Article 43(6) of this Regulation.
+
+3\. The EDPS shall keep national supervisory authorities fully informed of all issues directly affecting or otherwise relevant to them. Upon the request of one or more national supervisory authorities, the EDPS shall inform them of specific issues.
+
+4\. In cases relating to data originating from one or more Member States, including the cases referred to in Article 47(2), the EDPS shall consult the national supervisory authorities concerned. The EDPS shall not decide on further action to be taken before those national supervisory authorities have informed the EDPS of their opinion, within a deadline specified by him or her which shall not be shorter than one month and not longer than three months from when the EDPS consults the national supervisory authorities concerned. The EDPS shall take the utmost account of the respective positions of the national supervisory authorities concerned. Where the EDPS intends not to follow the position of a national supervisory authority, he or she shall inform that authority, provide a justification and submit the matter to the European Data Protection Board.
+
+## CHAPTER VII — REMEDIES AND LIABILITY
+
+#### Article 47 — Right to lodge a complaint with the EDPS
+
+1\. Any data subject shall have the right to lodge a complaint with the EDPS if he or she considers that the processing by Europol of personal data relating to him or her does not comply with this Regulation or Regulation (EU) 2018/1725.
+
+2\. Where a complaint relates to a decision referred to in Article 36 or 37 of this Regulation or Article 81 or 82 of Regulation (EU) 2018/1725, the EDPS shall consult the national supervisory authorities of the Member State that provided the data or of the Member State directly concerned.  In adopting his or her decision, which may extend to a refusal to communicate any information, the EDPS shall take into account the opinion of the national supervisory authority.
+
+3\. Where a complaint relates to the processing of data provided by a Member State to Europol, the EDPS and the national supervisory authority of the Member State that provided the data shall, each acting within the scope of their respective competences, ensure that the necessary checks on the lawfulness of the processing of the data have been carried out correctly.
+
+4\. Where a complaint relates to the processing of data provided to Europol by Union bodies, third countries or international organisations, or of data retrieved by Europol from publicly available sources or resulting from Europol's own analyses, the EDPS shall ensure that Europol has correctly carried out the necessary checks on the lawfulness of the processing of the data.
+
+5\. The EDPS shall inform the data subject of the progress and outcome of the complaint, as well as the possibility of a judicial remedy pursuant to Article 48.
+
+#### Article 48 — Right to a judicial remedy against the EDPS
+
+Any action against a decision of the EDPS shall be brought before the Court of Justice of the European Union.
+
+#### Article 49 — General provisions on liability and the right to compensation
+
+1\. Europol's contractual liability shall be governed by the law applicable to the contract in question.
+
+2\. The Court of Justice of the European Union shall have jurisdiction to give judgment pursuant to any arbitration clause in a contract concluded by Europol.
+
+3\. Without prejudice to Article 49, in the case of non-contractual liability, Europol shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by its departments or by its staff in the performance of their duties.
+
+4\. The Court of Justice of the European Union shall have jurisdiction in disputes relating to compensation for damage as referred to in paragraph 3.
+
+5\. The personal liability of Europol staff vis-à-vis Europol shall be governed by the provisions laid down in the Staff Regulations or in the Conditions of Employment of Other Servants applicable to them.
+
+#### Article 50 — Right to compensation
+
+1\. Any person who has suffered material or non-material damage as a result of an infringement of this Regulation shall have the right to receive compensation in accordance with Article 65 of Regulation (EU) 2018/1725 and Article 56 of Directive (EU) 2016/680.
+
+2\. Any dispute between Europol and Member States over the ultimate responsibility for compensation awarded to a person who has suffered material or non-material damage in accordance with paragraph 1 of this Article shall be referred to the Management Board. The Management Board shall decide on that responsibility by a majority of two-thirds of its members, without prejudice to the right to challenge that decision in accordance with Article 263 TFEU.
+
+## CHAPTER VIII — JOINT PARLIAMENTARY SCRUTINY
+
+#### Article 51 — Joint Parliamentary scrutiny
+
+1\. Pursuant to Article 88 TFEU, the scrutiny of Europol's activities shall be carried out by the European Parliament together with national parliaments. This shall constitute a specialised Joint Parliamentary Scrutiny Group (JPSG) established together by the national parliaments and the competent committee of the European Parliament. The organisation and the rules of procedure of the JPSG shall be determined together by the European Parliament and the national parliaments in accordance with Article 9 of Protocol No 1.
+
+2\. The JPSG shall politically monitor Europol's activities in fulfilling its mission, including as regards the impact of those activities on the fundamental rights and freedoms of natural persons.
+
+For the purposes of the first subparagraph:
+
+(a) the Chairperson of the Management Board, the Executive Director or their Deputies shall appear before the JPSG at its request to discuss matters relating to the activities referred to in the first subparagraph, including the budgetary aspects of such activities, the structural organisation of Europol and the potential establishment of new units and specialised centres, taking into account the obligations of discretion and confidentiality. The JPSG may decide to invite to its meetings other relevant persons, where appropriate;
+
+(b) the EDPS shall appear before the JPSG at its request, and at least once a year, to discuss general matters relating to the protection of fundamental rights and freedoms of natural persons, and in particular the protection of personal data, with regard to Europol's activities, taking into account the obligations of discretion and confidentiality;
+
+(c) the JPSG shall be consulted in relation to the multiannual programming of Europol in accordance with Article 12(1).
+
+3\. Europol shall transmit the following documents, for information purposes, to the JPSG, taking into account the obligations of discretion and confidentiality:
+
+(a) threat assessments, strategic analyses and general situation reports relating to Europol's objective as well as the results of studies and evaluations commissioned by Europol;
+
+(b) the administrative arrangements concluded pursuant to Article 25(1);
+
+(c) the document containing the multiannual programming and the annual work programme of Europol, referred to in Article 12(1);
+
+(d) the consolidated annual activity report on Europol’s activities, referred to in Article 11(1), point (c), including relevant information on Europol’s activities and results obtained in processing large data sets, without disclosing any operational details and without prejudice to any ongoing investigations;
+
+(e) the evaluation report drawn up by the Commission, referred to in Article 68(1);
+
+(f) annual information pursuant to Article 26(11) on the personal data exchanged with private parties pursuant to Articles 26, 26a and 26b, including an assessment of the effectiveness of cooperation, specific examples of cases demonstrating why those requests were necessary and proportionate for the purpose of enabling Europol to achieve its objectives and carry out its tasks, and, as regards personal data exchanges pursuant to Article 26b, the number of children identified as a result of those exchanges to the extent that this information is available to Europol;
+
+(g) annual information about the number of cases where it was necessary for Europol to process personal data that do not relate to the categories of data subjects listed in Annex II in order to support Member States in an ongoing specific criminal investigation in accordance with Article 18a, alongside information on the duration and outcomes of the processing, including examples of such cases demonstrating why that data processing was necessary and proportionate;
+
+(h) annual information about transfers of personal data to third countries and international organisations pursuant to Article 25(1) or Article 25(4a) broken down per legal basis, and on the number of cases in which the Executive Director authorised, pursuant to Article 25(5), the transfer or categories of transfers of personal data related to an ongoing specific criminal investigation to third countries or international organisations, including information on the countries concerned and the duration of the authorisation;
+
+(i) annual information about the number of cases in which Europol proposed the possible entry of information alerts in accordance with Article 4(1), point (t), including specific examples of cases demonstrating why the entry of those alerts was proposed;
+
+(j) annual information about the number of research and innovation projects undertaken, including information on the purposes of those projects, the categories of personal data processed, the additional safeguards used, including data minimisation, the law enforcement needs those projects seek to address and the outcome of those projects;
+
+(k) annual information about the number of cases in which Europol made use of temporary processing in accordance with Article 18(6a) and, where applicable, the number of cases in which the processing period has been extended;
+
+(l) annual information on the number and types of cases where special categories of personal data were processed, pursuant to Article 30(2).
+
+The examples referred to in points (f) and (i) shall be anonymised insofar as personal data are concerned.
+
+The examples referred to in point (g) shall be anonymised insofar as personal data are concerned, without disclosing any operational details and without prejudice to any ongoing investigations.
+
+4\. The JPSG may request other relevant documents necessary for the fulfilment of its tasks relating to the political monitoring of Europol's activities, subject to Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 18 ) and without prejudice to Articles 52 and 67 of this Regulation.
+
+5\. The JPSG may draw up summary conclusions on the political monitoring of Europol’s activities, including non-binding specific recommendations to Europol, and submit those conclusions to the European Parliament and national parliaments. The European Parliament shall forward those conclusions, for information purposes, to the Council, the Commission and Europol.
+
+#### Article 52 — Access by the European Parliament to information processed by or through Europol
+
+1\. For the purpose of enabling it to exercise parliamentary scrutiny of Europol's activities in accordance with Article 51, access by the European Parliament to sensitive non-classified information processed by or through Europol, upon the European Parliament's request, shall comply with the rules referred to in Article 67(1).
+
+2\. Access by the European Parliament to EU classified information processed by or through Europol shall be consistent with the Interinstitutional Agreement of 12 March 2014 between the European Parliament and the Council concerning the forwarding to and the handling by the European Parliament of classified information held by the Council on matters other than those in the area of the common foreign and security policy ( 19 ), and shall comply with the rules referred to in Article 67(2) of this Regulation.
+
+3\. The necessary details regarding access by the European Parliament to the information referred to in paragraphs 1 and 2 shall be governed by working arrangements concluded between Europol and the European Parliament.
+
+#### Article 52a — Consultative Forum
+
+1\. The JPSG shall establish a consultative forum to assist it, upon request, by providing it with independent advice in fundamental rights matters.
+
+The JPSG and the Executive Director may consult the consultative forum on any matter related to fundamental rights.
+
+2\. The JPSG shall determine the composition of the consultative forum, its working methods and the way in which the information is to be transmitted to the consultative forum.
+
+## CHAPTER IX — STAFF
+
+#### Article 53 — General provisions
+
+1\. The Staff Regulations, the Conditions of Employment of Other Servants and the rules adopted by agreement between the institutions of the Union for giving effect to the Staff Regulations and to the Conditions of Employment of Other Servants shall apply to the staff of Europol with the exception of staff who, on 1 May 2017, are employed pursuant to a contract concluded by Europol as established by the Europol Convention without prejudice to Article 73(4) of this Regulation. Such contracts shall continue to be governed by the Council Act of 3 December 1998.
+
+2\. Europol staff shall consist of temporary staff and/or contract staff. The Management Board shall be informed on a yearly basis of contracts of an indefinite duration granted by the Executive Director. The Management Board shall decide which temporary posts provided for in the establishment plan can be filled only by staff from the competent authorities of the Member States. Staff recruited to occupy such posts shall be temporary agents and may be awarded only fixed-term contracts, renewable once for a fixed period.
+
+#### Article 54 — Executive Director
+
+1\. The Executive Director shall be engaged as a temporary agent of Europol under point (a) of Article 2 of the Conditions of Employment of Other Servants.
+
+2\. The Executive Director shall be appointed by the Council from a shortlist of candidates proposed by the Management Board, following an open and transparent selection procedure.
+
+The shortlist shall be drawn up by a selection committee set up by the Management Board and composed of members designated by Member States and a Commission representative
+
+For the purpose of concluding a contract with the Executive Director, Europol shall be represented by the Chairperson of the Management Board.
+
+Before appointment, the candidate selected by the Council may be invited to appear before the competent committee of the European Parliament, which shall subsequently give a non-binding opinion.
+
+3\. The term of office of the Executive Director shall be four years. By the end of that period, the Commission, in association with the Management Board, shall undertake an assessment taking into account:
+
+(a) an evaluation of the Executive Director's performance, and
+
+(b) Europol's future tasks and challenges.
+
+4\. The Council, acting on a proposal from the Management Board that takes into account the assessment referred to in paragraph 3, may extend the term of office of the Executive Director once and for no more than four years.
+
+5\. The Management Board shall inform the European Parliament if it intends to propose to the Council that the Executive Director's term of office be extended. Within the month before any such extension, the Executive Director may be invited to appear before the competent committee of the European Parliament.
+
+6\. An Executive Director whose term of office has been extended shall not participate in another selection procedure for the same post at the end of the overall period.
+
+7\. The Executive Director may be removed from office only pursuant to a decision of the Council acting on a proposal from the Management Board. The European Parliament shall be informed about that decision.
+
+8\. The Management Board shall reach decisions regarding proposals to be made to the Council on the appointment, extension of the term of office, or removal from office, of the Executive Director by a majority of two-thirds of its members with voting rights.
+
+#### Article 55 — Deputy Executive Directors
+
+1\. Three Deputy Executive Directors shall assist the Executive Director. The Executive Director shall define their tasks.
+
+2\. Article 54 shall apply to the Deputy Executive Directors. The Executive Director shall be consulted prior to their appointment, any extension of their term of office or their removal from office.
+
+#### Article 56 — Seconded national experts
+
+1\. Europol may make use of seconded national experts.
+
+2\. The Management Board shall adopt a decision laying down rules on the secondment of national experts to Europol.
+
+## CHAPTER X — FINANCIAL PROVISIONS
+
+#### Article 57 — Budget
+
+1\. Estimates of all revenue and expenditure for Europol shall be prepared each financial year, which shall correspond to the calendar year, and shall be shown in Europol's budget.
+
+2\. Europol's budget shall be balanced in terms of revenue and of expenditure.
+
+3\. Without prejudice to other resources, Europol's revenue shall comprise a contribution from the Union entered in the general budget of the Union.
+
+4\. Europol may benefit from Union funding in the form of delegation agreements or ad hoc grants in accordance with its financial rules referred to in Article 61 and with the provisions of the relevant instruments supporting the policies of the Union.
+
+5\. Europol's expenditure shall include staff remuneration, administrative and infrastructure expenses, and operating costs.
+
+6\. Budgetary commitments for actions relating to large-scale projects extending over more than one financial year may be broken down into several annual instalments.
+
+#### Article 58 — Establishment of the budget
+
+1\. Each year the Executive Director shall draw up a draft statement of estimates of Europol's revenue and expenditure for the following financial year, including an establishment plan, and shall send it to the Management Board.
+
+2\. The Management Board shall, on the basis of the draft statement of estimates, adopt a provisional draft estimate of Europol's revenue and expenditure for the following financial year and shall send it to the Commission by 31 January each year.
+
+3\. The Management Board shall send the final draft estimate of Europol's revenue and expenditure, which shall include a draft establishment plan, to the European Parliament, the Council and the Commission by 31 March each year.
+
+4\. The Commission shall send the statement of estimates to the European Parliament and the Council, together with the draft general budget of the Union.
+
+5\. On the basis of the statement of estimates, the Commission shall enter in the draft general budget of the Union the estimates that it considers necessary for the establishment plan and the amount of the contribution to be charged to the general budget, which it shall place before the European Parliament and the Council in accordance with Articles 313 and 314 TFEU.
+
+6\. The European Parliament and the Council shall authorise the appropriations for the contribution from the Union to Europol.
+
+7\. The European Parliament and the Council shall adopt Europol's establishment plan.
+
+8\. Europol's budget shall be adopted by the Management Board. It shall become final following the final adoption of the general budget of the Union. Where necessary, it shall be adjusted accordingly.
+
+9\. Delegated Regulation (EU) 2019/715 shall apply to any building projects that are likely to have significant implications for Europol’s budget.
+
+#### Article 59 — Implementation of the budget
+
+1\. The Executive Director shall implement Europol's budget.
+
+2\. Each year the Executive Director shall send to the European Parliament and the Council all information relevant to the findings of any evaluation procedures.
+
+#### Article 60 — Presentation of accounts and discharge
+
+1\. Europol's accounting officer shall send the provisional accounts for the financial year (year N) to the Commission's accounting officer and to the Court of Auditors by 1 March of the following financial year (year N + 1).
+
+2\. Europol shall send a report on the budgetary and financial management for year N to the European Parliament, the Council and the Court of Auditors by 31 March of year N + 1.
+
+3\. The Commission's accounting officer shall send Europol's provisional accounts for year N, consolidated with the Commission's accounts, to the Court of Auditors by 31 March of year N + 1.
+
+4\. On receipt of the Court of Auditors’ observations on Europol’s provisional accounts for year N pursuant to Article 246 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 20 ), Europol’s accounting officer shall draw up Europol’s final accounts for that year. The Executive Director shall submit those final accounts to the Management Board for an opinion.
+
+5\. The Management Board shall deliver an opinion on Europol's final accounts for year N.
+
+6\. Europol's accounting officer shall, by 1 July of year N + 1, send the final accounts for year N to the European Parliament, the Council, the Commission, the Court of Auditors and national parliaments, together with the Management Board's opinion referred to in paragraph 5.
+
+7\. The final accounts for year N shall be published in the Official Journal of the European Union by 15 November of year N + 1.
+
+8\. The Executive Director shall send to the Court of Auditors, by 30 September of year N + 1, a reply to the observations made in its annual report. He or she shall also send the reply to the Management Board.
+
+9\. Upon the request of the European Parliament, the Executive Director shall submit to it any information required for the smooth application of the discharge procedure for year N, in accordance with Article 106(3) of Delegated Regulation (EU) 2019/715.
+
+10\. On a recommendation from the Council acting by a qualified majority, the European Parliament shall, before 15 May of year N + 2, grant a discharge to the Executive Director in respect of the implementation of the budget for year N.
+
+#### Article 61 — Financial Rules
+
+1\. The financial rules applicable to Europol shall be adopted by the Management Board after consultation with the Commission. They shall not depart from Delegated Regulation (EU) 2019/715 unless such a departure is specifically required for the operation of Europol and the Commission has given its prior consent.
+
+2\. Europol may award grants related to the achievement of its objectives and tasks.
+
+3\. Europol may award grants without a call for proposals to Member States for performance of activities that fall within Europol’s objectives and tasks.
+
+4\. Where duly justified for operational purposes, following authorisation by the Management Board, financial support may cover the full investment costs of equipment and infrastructure.
+
+The financial rules referred to in paragraph 1 may specify the criteria under which financial support may cover the full investment costs referred to in the first subparagraph of this paragraph.
+
+5\. In respect of the financial support to be given to joint investigation teams’ activities, Europol and Eurojust shall jointly establish the rules and conditions upon which applications for such support are to be processed.
+
+## CHAPTER XI — MISCELLANEOUS PROVISIONS
+
+#### Article 62 — Legal status
+
+1\. Europol shall be an agency of the Union. It shall have legal personality.
+
+2\. In each Member State Europol shall enjoy the most extensive legal capacity accorded to legal persons under national law. Europol may, in particular, acquire and dispose of movable and immovable property and be a party to legal proceedings.
+
+3\. In accordance with Protocol No 6 on the location of the seats of the institutions and of certain bodies, agencies and departments of the European Union, annexed to the TEU and to the TFEU (‘Protocol No 6’), Europol shall have its seat in The Hague.
+
+#### Article 63 — Privileges and immunities
+
+1\. Protocol No 7 on the privileges and immunities of the European Union, annexed to the TEU and to the TFEU, shall apply to Europol and its staff.
+
+2\. Privileges and immunities of liaison officers and members of their families shall be subject to an agreement between the Kingdom of Netherlands and the other Member States. That agreement shall provide for such privileges and immunities as are necessary for the proper performance of the tasks of liaison officers.
+
+#### Article 64 — Language arrangements
+
+1\. The provisions laid down in Regulation No 1 ( 21 ) shall apply to Europol.
+
+2\. The Management Board shall decide by a majority of two-thirds of its members on the internal language arrangements of Europol.
+
+3\. The translation services required for the functioning of Europol shall be provided by the Translation Centre for the bodies of the European Union.
+
+#### Article 65 — Transparency
+
+1\. Regulation (EC) No 1049/2001 shall apply to documents held by Europol.
+
+2\. By 14 December 2016, the Management Board shall adopt the detailed rules for applying Regulation (EC) No 1049/2001 with regard to Europol documents.
+
+3\. Decisions taken by Europol under Article 8 of Regulation (EC) No 1049/2001 may be the subject of a complaint to the European Ombudsman or of an action before the Court of Justice of the European Union, in accordance with Articles 228 and 263 TFEU respectively.
+
+4\. Europol shall publish on its website a list of the Management Board members and summaries of the outcome of the meetings of the Management Board. The publication of those summaries shall be temporarily or permanently omitted or restricted if such publication would risk jeopardising the performance of Europol's tasks, taking into account its obligations of discretion and confidentiality and the operational character of Europol.
+
+#### Article 66 — Combating fraud
+
+1\. In order to facilitate the fight against fraud, corruption and any other illegal activities under Regulation (EU, Euratom) No 883/2013, Europol shall, by 30 October 2017, accede to the Interinstitutional Agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by the European Anti-Fraud Office (OLAF) ( 22 ) and shall adopt appropriate provisions applicable to all employees of Europol, using the template set out in the Annex to that Agreement.
+
+2\. The Court of Auditors shall have a power of audit, on the basis of documents and on-the-spot checks, over all grant beneficiaries, contractors and subcontractors who have received Union funds from Europol.
+
+3\. OLAF may carry out investigations, including on-the-spot checks and inspections, with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant or a contract awarded by Europol. Such investigations shall be carried out in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and in Council Regulation (Euratom, EC) No 2185/96 ( 23 ).
+
+4\. Without prejudice to paragraphs 1, 2 and 3, working arrangements with Union bodies, authorities of third countries, international organisations and private parties, contracts, grant agreements and grant decisions of Europol shall contain provisions expressly empowering the Court of Auditors and OLAF to conduct the audits and investigations referred to in paragraphs 2 and 3, in accordance with their respective competences.
+
+#### Article 67 — Rules on the protection of sensitive non-classified and classified information
+
+1\. Europol shall establish rules on the obligations of discretion and confidentiality and on the protection of sensitive non-classified information.
+
+2\. Europol shall establish rules on the protection of EU classified information which shall be consistent with Decision 2013/488/EU in order to ensure an equivalent level of protection for such information.
+
+#### Article 68 — Evaluation and review
+
+1\. By 29 June 2027 and every five years thereafter, the Commission shall carry out an evaluation, in particular, of the impact, effectiveness and efficiency of Europol and of its working practices. That evaluation may, in particular, address the possible need to modify the structure, operation, field of action and tasks of Europol, and the financial implications of any such modification.
+
+2\. The Commission shall submit the evaluation report to the Management Board. The Management Board shall provide its observations on the evaluation report within three months from the date of receipt. The Commission shall then submit the final evaluation report, together with the Commission's conclusions, and the Management Board's observations in an annex thereto, to the European Parliament, the Council, the national parliaments and the Management Board. Where appropriate, the main findings of the evaluation report shall be made public.
+
+3\. By 29 June 2025, the Commission shall submit a report to the European Parliament and to the Council, evaluating and assessing the operational impact of the implementation of the tasks provided for in this Regulation, in particular in Article 4(1), point (t), Article 18(2), point (e), Article 18(6a), and Articles 18a, 26, 26a and 26b, with regard to Europol’s objectives. The report shall assess the impact of those tasks on fundamental rights and freedoms as provided for by the Charter. It shall also provide a cost-benefit analysis of the extension of Europol’s tasks.
+
+#### Article 69 — Administrative inquiries
+
+The activities of Europol shall be subject to inquiries by the European Ombudsman in accordance with Article 228 TFEU.
+
+#### Article 70 — Headquarters
+
+The necessary arrangements concerning the accommodation to be provided for Europol in the Kingdom of the Netherlands and the facilities to be made available by the Kingdom of the Netherlands, together with the specific rules applicable there to the Executive Director, members of the Management Board, Europol's staff and members of their families, shall be laid down in a headquarters agreement between Europol and the Kingdom of the Netherlands, in accordance with Protocol No 6.
+
+## CHAPTER XII — TRANSITIONAL PROVISIONS
+
+#### Article 71 — Legal succession
+
+1\. Europol as established by this Regulation shall be the legal successor in respect of all contracts concluded by, liabilities incumbent upon and properties acquired by Europol as established by Decision 2009/371/JHA.
+
+2\. This Regulation shall not affect the legal force of agreements concluded by Europol as established by Decision 2009/371/JHA before 13 June 2016, or of agreements concluded by Europol as established by the Europol Convention before 1 January 2010.
+
+#### Article 72 — Transitional arrangements concerning the Management Board
+
+1\. The term of office of the members of the Management Board as established on the basis of Article 37 of Decision 2009/371/JHA shall terminate on 1 May 2017.
+
+2\. During the period from 13 June 2016 to 1 May 2017, the Management Board as established on the basis of Article 37 of Decision 2009/371/JHA shall:
+
+(a) exercise the functions of the Management Board in accordance with Article 11 of this Regulation;
+
+(b) prepare the adoption of the rules relating to the application of Regulation (EC) No 1049/2001 with regard to Europol documents as referred to in Article 65(2) of this Regulation, and of the rules referred to in Article 67 of this Regulation;
+
+(c) prepare any instrument necessary for the application of this Regulation, in particular any measures relating to Chapter IV; and
+
+(d) review the internal rules and measures which it has adopted on the basis of Decision 2009/371/JHA so as to allow the Management Board as established pursuant to Article 10 of this Regulation to take a decision pursuant to Article 76 of this Regulation.
+
+3\. The Commission shall without delay after 13 June 2016 take the measures necessary to ensure that the Management Board established pursuant to Article 10 starts its work on 1 May 2017.
+
+4\. By 14 December 2016, the Member States shall notify the Commission of the names of the persons whom they have appointed as member and alternate member of the Management Board, in accordance with Article 10.
+
+5\. The Management Board established pursuant to Article 10 shall hold its first meeting on 1 May 2017. On that occasion it shall, if necessary, take decisions as referred to in Article 76.
+
+#### Article 73 — Transitional arrangements concerning the Executive Director, the Deputy Directors and staff
+
+1\. The Director of Europol appointed on the basis of Article 38 of Decision 2009/371/JHA shall, for the remaining period of his or her term of office, be assigned the responsibilities of Executive Director, as provided for in Article 16 of this Regulation. The other conditions of his or her contract shall remain unchanged. If the term of office ends between 13 June 2016 and 1 May 2017, it shall be extended automatically until 1 May 2018.
+
+2\. Should the Director appointed on the basis of Article 38 of Decision 2009/371/JHA be unwilling or unable to act in accordance with paragraph 1 of this Article, the Management Board shall designate an interim Executive Director to exercise the duties assigned to the Executive Director for a period not exceeding 18 months, pending the appointment provided for in Article 54(2) of this Regulation.
+
+3\. Paragraphs 1 and 2 of this Article shall apply to the Deputy Directors appointed on the basis of Article 38 of Decision 2009/371/JHA.
+
+4\. In accordance with the Conditions of Employment of Other Servants, the authority referred to in the first paragraph of Article 6 thereof shall offer employment of indefinite duration as a member of the temporary or contract staff to any person who, on 1 May 2017, is employed under a contract of indefinite duration as a local staff member concluded by Europol as established by the Europol Convention. The offer of employment shall be based on the tasks to be performed by the servant as a member of the temporary or contract staff. The contract concerned shall take effect at the latest on 1 May 2018. A staff member who does not accept the offer referred to in this paragraph may retain his or her contractual relationship with Europol in accordance with Article 53(1).
+
+#### Article 74 — Transitional budgetary provisions
+
+The discharge procedure in respect of the budgets approved on the basis of Article 42 of Decision 2009/371/JHA shall be carried out in accordance with the rules established by Article 43 thereof.
+
+#### Article 74a — Transitional arrangements concerning the processing of personal data in support of an ongoing criminal investigation
+
+1\. Where a Member State, the EPPO or Eurojust provided personal data that do not relate to the categories of data subjects listed in Annex II to Europol before 28 June 2022, Europol may process those personal data in accordance with Article 18a where:
+
+(a) the Member State concerned, the EPPO or Eurojust informs Europol by 29 September 2022, that it is authorised to process those personal data, in accordance with procedural requirements and safeguards applicable under Union or national law, in the ongoing criminal investigation for which it requested Europol’s support when it initially provided the data;
+
+(b) the Member State concerned, the EPPO or Eurojust requests that Europol, by 29 September 2022, support the ongoing criminal investigation referred to in point (a); and
+
+(c) Europol assesses, in accordance with Article 18a(1), point (b), that it is not possible to support the ongoing criminal investigation referred to in point (a) of this paragraph without processing personal data that do not comply with Article 18(5).
+
+The assessment referred to in point (c) of this paragraph is recorded and sent to the EDPS for information when Europol ceases to support the related specific criminal investigation.
+
+2\. Where a Member State, the EPPO or Eurojust does not comply with one or more of the requirements set out in paragraph 1, points (a) and (b) of this Article, with regard to personal data that do not relate to the categories of data subjects listed in Annex II that it provided to Europol before 28 June 2022, or where a Member State, the EPPO or Eurojust does not comply with paragraph 1, point (c) of this Article, Europol shall not process those personal data in accordance with Article 18a, but shall, without prejudice to Article 18(5) and Article 74b, delete those personal data by 29 October 2022.
+
+3\. Where a third country referred to in Article 18a(6) provided personal data that do not relate to the categories of data subjects listed in Annex II to Europol before 28 June 2022, Europol may process those personal data in accordance with Article 18a(6) where:
+
+(a) the third country provided the personal data in support of a specific criminal investigation in one or more Member States that Europol supports;
+
+(b) the third country obtained the data in the context of a criminal investigation in accordance with procedural requirements and safeguards applicable under its national criminal law;
+
+(c) the third country informs Europol, by 29 September 2022, that it is authorised to process those personal data in the criminal investigation in the context of which it obtained the data;
+
+(d) Europol assesses, in accordance with Article 18a(1), point (b), that it is not possible to support the specific criminal investigation referred to in point (a) of this paragraph without processing personal data that do not comply with Article 18(5) and that assessment is recorded and sent to the EDPS for information when Europol ceases to support the related specific criminal investigation; and
+
+(e) Europol verifies, in accordance with Article 18a(6), that the amount of personal data is not manifestly disproportionate in relation to the specific criminal investigation referred to in point (a) of this paragraph in one or more Member States that Europol supports.
+
+4\. Where a third country does not comply with the requirement set out in paragraph 3, point (c) of this Article, with regard to personal data that do not relate to the categories of data subjects listed in Annex II that it provided to Europol before 28 June 2022, or where any of the other requirements set out in paragraph 3 of this Article are not complied with, Europol shall not process those personal data in accordance with Article 18a(6), but shall, without prejudice to Article 18(5) and Article 74b, delete those personal data by 29 October 2022.
+
+5\. Where a Member State, the EPPO or Eurojust provided personal data that do not relate to the categories of data subjects listed in Annex II to Europol before 28 June 2022, it may request Europol, by 29 September 2022, to store those data and the outcome of Europol’s processing of those data where this is necessary for ensuring the veracity, reliability and traceability of the criminal intelligence process. Europol shall keep personal data that do not relate to the categories of data subjects listed in Annex II functionally separate from other data and shall only process such data for the purpose of ensuring the veracity, reliability and traceability of the criminal intelligence process, and only for as long as the judicial proceedings concerning the criminal investigation for which those data were provided are ongoing.
+
+6\. Where Europol received personal data that do not relate to the categories of data subjects listed in Annex II before 28 June 2022, Europol shall not store those data for the purpose of ensuring the veracity, reliability and traceability of the criminal intelligence process unless so requested in accordance with paragraph 5. In the absence of such a request, Europol shall delete those personal data by 29 October 2022.
+
+#### Article 74b — Transitional arrangements concerning the processing of personal data held by Europol
+
+Without prejudice to Article 74a, for personal data that Europol received before 28 June 2022, Europol may verify whether those personal data relate to one of the categories of data subjects set out in Annex II. To that end, Europol may carry out a pre-analysis of those personal data for a period of up to 18 months from the date the data were first received or, in justified cases and with the prior authorisation of the EDPS, for a longer period.
+
+The maximum period of processing the data referred to in the first subparagraph shall be three years from the day of receipt of the data by Europol.
+
+## CHAPTER XIII — FINAL PROVISIONS
+
+#### Article 75 — Replacement and repeal
+
+1\. Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA are hereby replaced for the Member States bound by this Regulation with effect from 1 May 2017.
+
+Therefore, Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA are repealed with effect from 1 May 2017.
+
+2\. With regard to the Member States bound by this Regulation, references to the Decisions referred to in paragraph 1 shall be construed as references to this Regulation.
+
+#### Article 76 — Maintenance in force of the internal rules adopted by the Management Board
+
+Internal rules and measures adopted by the Management Board on the basis of Decision 2009/371/JHA shall remain in force after 1 May 2017, unless otherwise decided by the Management Board in the application of this Regulation.
+
+#### Article 77 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 1 May 2017.
+
+However, Articles 71, 72 and 73 shall apply from 13 June 2016.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I
+
+**LIST OF FORMS OF CRIME REFERRED TO IN ARTICLE 3(1)**
+
+— terrorism,
+
+— organised crime,
+
+— drug trafficking,
+
+— money-laundering activities,
+
+— crime connected with nuclear and radioactive substances,
+
+— migrant smuggling,
+
+— trafficking in human beings,
+
+— motor vehicle crime,
+
+— murder and grievous bodily injury,
+
+— illicit trade in human organs and tissue,
+
+— kidnapping, illegal restraint and hostage-taking,
+
+— racism and xenophobia,
+
+— robbery and aggravated theft,
+
+— illicit trafficking in cultural goods, including antiquities and works of art,
+
+— swindling and fraud,
+
+— crime against the financial interests of the Union,
+
+— insider dealing and financial market manipulation,
+
+— racketeering and extortion,
+
+— counterfeiting and product piracy,
+
+— forgery of administrative documents and trafficking therein,
+
+— forgery of money and means of payment,
+
+— computer crime,
+
+— corruption,
+
+— illicit trafficking in arms, ammunition and explosives,
+
+— illicit trafficking in endangered animal species,
+
+— illicit trafficking in endangered plant species and varieties,
+
+— environmental crime, including ship-source pollution,
+
+— illicit trafficking in hormonal substances and other growth promoters,
+
+— sexual abuse and sexual exploitation, including child abuse material and solicitation of children for sexual purposes,
+
+— genocide, crimes against humanity and war crimes,
+
+— violation of Union restrictive measures.
+
+## ANNEX II
+
+**A. Categories of personal data and categories of data subjects whose data may be collected and processed for the purpose of cross-checking as referred to in point (a) of Article 18(2)**
+
+1\. Personal data collected and processed for the purpose of cross-checking shall relate to:
+
+(a) persons who, in accordance with the national law of the Member State concerned, are suspected of having committed or having taken part in a criminal offence in respect of which Europol is competent, or who have been convicted of such an offence;
+
+(b) persons regarding whom there are factual indications or reasonable grounds under the national law of the Member State concerned to believe that they will commit criminal offences in respect of which Europol is competent.
+
+2\. Data relating to the persons referred to in paragraph 1 may include only the following categories of personal data:
+
+(a) surname, maiden name, given names and any alias or assumed name;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) place of residence, profession and whereabouts of the person concerned;
+
+(f) social security numbers, driving licences, identification documents and passport data; and
+
+(g) where necessary, other characteristics likely to assist in identification, including any specific objective physical characteristics not subject to change such as dactyloscopic data and DNA profile (established from the non-coding part of DNA).
+
+3\. In addition to the data referred to in paragraph 2, the following categories of personal data concerning the persons referred to in paragraph 1 may be collected and processed:
+
+(a) criminal offences, alleged criminal offences and when, where and how they were (allegedly) committed;
+
+(b) means which were or which may have been used to commit those criminal offences, including information concerning legal persons;
+
+(c) departments handling the case and their filing references;
+
+(d) suspected membership of a criminal organisation;
+
+(e) convictions, where they relate to criminal offences in respect of which Europol is competent;
+
+(f) inputting party.
+
+These data may be provided to Europol even when they do not yet contain any references to persons.
+
+4\. Additional information held by Europol or national units concerning the persons referred to in paragraph 1 may be communicated to any national unit or to Europol, should either so request. National units shall do so in compliance with their national law.
+
+5\. If proceedings against the person concerned are definitively dropped or if that person is definitively acquitted, the data relating to the case in respect of which either decision has been taken shall be deleted.
+
+**B. Categories of personal data and categories of data subjects whose data may be collected and processed for the purpose of analyses of a strategic or thematic nature, for the purpose of operational analyses or for the purpose of facilitating the exchange of information as referred to in points (b), (c) and (d) of Article 18(2)**
+
+1\. Personal data collected and processed for the purpose of analyses of a strategic or thematic nature, for the purpose of operational analyses or for the purpose of facilitating the exchange of information between Member States, Europol, other Union bodies, third countries and international organisations shall relate to:
+
+(a) persons who, pursuant to the national law of the Member State concerned, are suspected of having committed or having taken part in a criminal offence in respect of which Europol is competent, or who have been convicted of such an offence;
+
+(b) persons regarding whom there are factual indications or reasonable grounds under the national law of the Member State concerned to believe that they will commit criminal offences in respect of which Europol is competent;
+
+(c) persons who might be called on to testify in investigations in connection with the offences under consideration or in subsequent criminal proceedings;
+
+(d) persons who have been the victims of one of the offences under consideration or with regard to whom certain facts give reason to believe that they could be the victims of such an offence;
+
+(e) contacts and associates; and
+
+(f) persons who can provide information on the criminal offences under consideration.
+
+2\. The following categories of personal data, including associated administrative data, may be processed on the categories of persons referred to in points (a) and (b) of paragraph 1:
+
+(a) personal details:
+
+(i) present and former surnames;
+
+(ii) present and former forenames;
+
+(iii) maiden name;
+
+(iv) father's name (where necessary for the purpose of identification);
+
+(v) mother's name (where necessary for the purpose of identification):
+
+(vi) sex;
+
+(vii) date of birth;
+
+(viii) place of birth;
+
+(ix) nationality;
+
+(x) marital status;
+
+(xi) alias;
+
+(xii) nickname;
+
+(xiii) assumed or false name;
+
+(xiv) present and former residence and/or domicile;
+
+(b) physical description:
+
+(i) physical description;
+
+(ii) distinguishing features (marks/scars/tattoos etc.);
+
+(c) means of identification:
+
+(i) identity documents/driving licence;
+
+(ii) national identity card/passport numbers;
+
+(iii) national identification number/social security number, if applicable;
+
+(iv) visual images and other information on appearance;
+
+(v) forensic identification information such as fingerprints, DNA profile (established from the non-coding part of DNA), voice profile, blood group, dental information;
+
+(d) occupation and skills:
+
+(i) present employment and occupation;
+
+(ii) former employment and occupation;
+
+(iii) education (school/university/professional);
+
+(iv) qualifications;
+
+(v) skills and other fields of knowledge (language/other);
+
+(e) economic and financial information:
+
+(i) financial data (bank accounts and codes, credit cards, etc.);
+
+(ii) cash assets;
+
+(iii) shareholdings/other assets;
+
+(iv) property data;
+
+(v) links with companies;
+
+(vi) bank and credit contacts;
+
+(vii) tax position;
+
+(viii) other information revealing a person's management of his or her financial affairs;
+
+(f) behavioural data:
+
+(i) lifestyle (such as living above means) and routine;
+
+(ii) movements;
+
+(iii) places frequented;
+
+(iv) weapons and other dangerous instruments;
+
+(v) danger rating;
+
+(vi) specific risks such as escape probability, use of double agents, connections with law enforcement personnel;
+
+(vii) criminal-related traits and profiles;
+
+(viii) drug abuse;
+
+(g) contacts and associates, including type and nature of the contact or association;
+
+(h) means of communication used, such as telephone (static/mobile), fax, pager, electronic mail, postal addresses, internet connection(s);
+
+(i) means of transport used, such as vehicles, boats, aircraft, including information identifying those means of transport (registration numbers);
+
+(j) information relating to criminal conduct:
+
+(i) previous convictions;
+
+(ii) suspected involvement in criminal activities;
+
+(iii) modi operandi;
+
+(iv) means which were or may be used to prepare and/or commit crimes;
+
+(v) membership of criminal groups/organisations and position in the group/organisation;
+
+(vi) role in the criminal organisation;
+
+(vii) geographical range of criminal activities;
+
+(viii) material gathered in the course of an investigation, such as video and photographic images;
+
+(k) references to other information systems in which information on the person is stored:
+
+(i) Europol;
+
+(ii) police/customs agencies;
+
+(iii) other enforcement agencies;
+
+(iv) international organisations;
+
+(v) public entities;
+
+(vi) private entities;
+
+(l) information on legal persons associated with the data referred to in points (e) and (j):
+
+(i) designation of the legal person;
+
+(ii) location;
+
+(iii) date and place of establishment;
+
+(iv) administrative registration number;
+
+(v) legal form;
+
+(vi) capital;
+
+(vii) area of activity;
+
+(viii) national and international subsidiaries;
+
+(ix) directors;
+
+(x) links with banks.
+
+3\. ‘Contacts and associates’, as referred to in point (e) of paragraph 1, are persons through whom there is sufficient reason to believe that information which relates to the persons referred to in points (a) and (b) of paragraph 1 and which is relevant for the analysis can be gained, provided they are not included in one of the categories of persons referred to in points (a), (b), (c), (d) and (f) of paragraph 1. ‘Contacts’ are those persons who have a sporadic contact with the persons referred to in points (a) and (b) of paragraph 1. ‘Associates’ are those persons who have a regular contact with the persons referred to in points (a) and (b) of paragraph 1.
+
+In relation to contacts and associates, the data referred to in paragraph 2 may be stored as necessary, provided there is reason to assume that such data are required for the analysis of the relationship of such persons with persons referred to in points (a) and (b) of paragraph 1. In this context, the following shall be observed:
+
+(a) such relationship shall be clarified as soon as possible;
+
+(b) the data referred to in paragraph 2 shall be deleted without delay if the assumption that such relationship exists turns out to be unfounded;
+
+(c) all data referred to in paragraph 2 may be stored if contacts or associates are suspected of having committed an offence falling within the scope of Europol's objectives, or have been convicted for the commission of such an offence, or if there are factual indications or reasonable grounds under the national law of the Member State concerned to believe that they will commit such an offence;
+
+(d) data referred to in paragraph 2 on contacts, and associates, of contacts as well as on contacts, and associates, of associates shall not be stored, with the exception of data on the type and nature of their contact or association with the persons referred to in points (a) and (b) of paragraph 1;
+
+(e) if a clarification pursuant to the previous points is not possible, this shall be taken into account when a decision is taken on the need for, and the extent of, data storage for further analysis.
+
+4\. With regard to a person who, as referred to in point (d) of paragraph 1, has been the victim of one of the offences under consideration or who, on the basis of certain facts there is reason to believe could be the victim of such an offence, the data referred to in point (a) to point (c)(iii) of paragraph 2 as well as the following categories of data may be stored:
+
+(a) victim identification data;
+
+(b) reason for victimisation;
+
+(c) damage (physical/financial/psychological/other);
+
+(d) whether anonymity is to be guaranteed;
+
+(e) whether participation in a court hearing is possible;
+
+(f) crime-related information provided by or through persons referred to in point (d) of paragraph 1, including where necessary information on their relationship with other persons, for the purpose of identifying the persons referred to in points (a) and (b) of paragraph 1.
+
+Other data referred to in paragraph 2 may be stored as necessary, provided there is reason to assume that they are required for the analysis of a person's role as victim or potential victim.
+
+Data not required for any further analysis shall be deleted.
+
+5\. With regard to persons who, as referred to in point (c) of paragraph 1, might be called on to testify in investigations in connection with the offences under consideration or in subsequent criminal proceedings, data referred to in point (a) to point (c)(iii) of paragraph 2 as well as categories of data complying with the following criteria may be stored:
+
+(a) crime-related information provided by such persons, including information on their relationship with other persons included in the analysis work file;
+
+(b) whether anonymity is to be guaranteed;
+
+(c) whether protection is to be guaranteed and by whom;
+
+(d) new identity;
+
+(e) whether participation in a court hearing is possible.
+
+Other data referred to in paragraph 2 may be stored as necessary, provided there is reason to assume that they are required for the analysis of such persons' role as witness.
+
+Data not required for any further analysis shall be deleted.
+
+6\. With regard to persons who, as referred to in point (f) of paragraph 1, can provide information on the criminal offences under consideration, data referred to in point (a) to point (c)(iii) of paragraph 2 as well as categories of data complying with the following criteria may be stored:
+
+(a) coded personal details;
+
+(b) type of information supplied;
+
+(c) whether anonymity is to be guaranteed;
+
+(d) whether protection is to be guaranteed and by whom;
+
+(e) new identity;
+
+(f) whether participation in a court hearing is possible;
+
+(g) negative experiences;
+
+(h) rewards (financial/favours).
+
+Other data referred to in paragraph 2 may be stored as necessary, provided there is reason to assume that they are required for the analysis of such persons' role as informant.
+
+Data not required for any further analysis shall be deleted.
+
+7\. If, at any time during the course of an analysis, it becomes clear on the basis of serious and corroborating indications that a person should be included in a category of persons, as defined in this Annex, other than the category in which that person was initially placed, Europol may process only the data on that person which is permitted under that new category, and all other data shall be deleted.
+
+If, on the basis of such indications, it becomes clear that a person should be included in two or more different categories as defined in this Annex, all data allowed under such categories may be processed by Europol.
+
+( 1 ) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1).
+
+( 2 ) Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021 on addressing the dissemination of terrorist content online (OJ L 172, 17.5.2021, p. 79).
+
+( 3 ) Directive 2011/93/EU of the European Parliament and of the Council of 13 December 2011 on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA (OJ L 335, 17.12.2011, p. 1).
+
+( 4 ) Regulation (EU) 2019/1240 of the European Parliament and of the Council of 20 June 2019 on the creation of a European network of immigration liaison officers (OJ L 198, 25.7.2019, p. 88, ELI: http://data.europa.eu/eli/reg/2019/1240/oj).
+
+( 5 ) Council Decision 2008/617/JHA of 23 June 2008 on the improvement of cooperation between the special intervention units of the Member States of the European Union in crisis situations (OJ L 210, 6.8.2008, p. 73).
+
+( 6 ) Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15).
+
+( 7 ) Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of information between Member States on short-stay visas, long-stay visas, and residence permits (VIS Regulation) (OJ L 218, 13.8.2008, p. 60).
+
+( 8 ) Regulation (EU) 2018/1862 of the European Parliament and of the Council of 28 November 2018 on the establishment, operation and use of the Schengen Information System (SIS) in the field of police cooperation and judicial cooperation in criminal matters, amending and repealing Council Decision 2007/533/JHA, and repealing Regulation (EC) No 1986/2006 of the European Parliament and of the Council and Commission Decision 2010/261/EU (OJ L 312, 7.12.2018, p. 56).
+
+( 9 ) Directive (EU) 2019/1153 of the European Parliament and of the Council of 20 June 2019 laying down rules facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA (OJ L 186, 11.7.2019, p. 122).
+
+( 10 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 11 ) Council Decision 2005/511/JHA of 12 July 2005 on protecting the euro against counterfeiting, by designating Europol as the Central Office for combating euro counterfeiting (OJ L 185, 16.7.2005, p. 35).
+
+( 12 ) Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union (OJ L 79 I, 21.3.2019, p. 1).
+
+( 13 ) Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1).
+
+( 14 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 15 ) Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States (OJ L 190, 18.7.2002, p. 1).
+
+( 16 ) Council Regulation (EC) No 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights (OJ L 53, 22.2.2007, p. 1).
+
+( 17 ) Regulation (EU) 2015/2219 of the European Parliament and of the Council of 25 November 2015 on the European Union Agency for Law Enforcement Training (CEPOL) and replacing and repealing Council Decision 2005/681/JHA (OJ L 319, 4.12.2015, p. 1.)
+
+( 18 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 19 ) OJ C 95, 1.4.2014, p. 1.
+
+( 20 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 21 ) Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385/58).
+
+( 22 ) OJ L 136, 31.5.1999, p. 15.
+
+( 23 ) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).

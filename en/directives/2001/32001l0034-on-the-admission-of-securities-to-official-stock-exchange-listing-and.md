@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the admission of securities to official stock exchange listing and on information to be published on those securities**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE 2003/6/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 January 2003</td><td> L 96</td><td>16</td><td>12.4.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2003/71/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 4 November 2003</td><td> L 345</td><td>64</td><td>31.12.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2004/109/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 December 2004 </td><td> L 390</td><td>38</td><td>31.12.2004</td></tr>
 <tr><td></td><td> DIRECTIVE 2005/1/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2005 </td><td> L 79</td><td>9</td><td>24.3.2005</td></tr>
+</table>
 
 **DIRECTIVE 2001/34/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -707,6 +709,7 @@ This Directive is addressed to the Member States.
 
 ### PART B — Time-limits for transposition into national law (referred to in Article 111)
 
+<table>
 <tbody><tr><td>Directive</td><td>Time-limit for transposition</td></tr>
 <tr><td>79/279/EEC</td><td>8 March 1981 (1)(2)</td></tr>
 <tr><td>80/390/EEC</td><td>19 September 1982 (2)</td></tr>
@@ -718,6 +721,7 @@ This Directive is addressed to the Member States.
 <tr><td>94/18/EC</td><td>  </td></tr>
 <tr><td colspan="2">(1)  8.3.1982 for the Member States which introduce simultaneously Directives 79/279/EEC and 80/390/EEC.  (2)  30.6.1983for the Member States which introduce simultaneously Directives 79/279/EEC, 80/390/EEC and 82/121/EEC.  (3)  Time-limit for application: 30.6.1986. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III — CORRELATION TABLE
 

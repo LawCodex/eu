@@ -1,0 +1,745 @@
+---
+title: "Commission Regulation (EC) No 1276/2008 of 17 December 2008 on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts"
+identifier: "32008R1276"
+eli: "http://data.europa.eu/eli/reg/2008/1276/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-12-17
+entry_into_force: 2008-08-07
+last_amended: 2011-10-11
+consolidated_version: "02008R1276-20111011"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R1276-20111011"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1276/2008 of 17 December 2008 on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts
+
+**COMMISSION REGULATION (EC) No 1276/2008**
+
+**of 17 December 2008**
+
+**on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 611/2009 of 10 July 2009 </td><td> L 180</td><td>15</td><td>11.7.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 278/2010 of 31 March 2010 </td><td> L 86</td><td>15</td><td>1.4.2010</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 996/2011 of 7 October 2011 </td><td> L 264</td><td>25</td><td>8.10.2011</td></tr>
+</table>
+
+C1
+
+**COMMISSION REGULATION (EC) No 1276/2008**
+
+**of 17 December 2008**
+
+**on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts**
+
+## CHAPTER I — INTRODUCTORY PROVISIONS
+
+#### Article 1 — Subject matter and scope
+
+This Regulation lays down certain procedures for monitoring whether operations conferring entitlement to the payment of export refunds and all other amounts as defined in Article 2(a) have been carried out correctly.
+
+It shall apply without prejudice to the provisions of Regulation (EC) No 800/1999.
+
+This Regulation shall not apply to exports involving Community or national food aid covered by Regulation (EC) No 2298/2001.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(a) ‘other amounts’ means operations related to financial measures under the European Agricultural Guarantee Fund and the European Agricultural Fund for Rural Development pursuant to Regulations (EC) No 793/2006, (EC) No 967/2006 and (EC) No 1914/2006;
+
+(b) ‘products’ means products as defined in first indent of Article 2(1)(a) of Regulation (EC) No 800/1999;
+
+(c) ‘customs office of export’ means the customs office referred to in Article 5(7)(a) of Regulation (EC) No 800/1999;
+
+(d) ‘customs office of exit’ means the customs office referred to in Article 793(2) of Regulation (EEC) No 2454/93;
+
+(e) ‘customs office to which the T5 control copy is sent’ means the customs office of destination referred to in Article 912c of Regulation (EEC) No 2454/93 including a customs office to which an equivalent document is sent;
+
+(f) ‘physical check’ means verification that the export declaration, or for other amounts documents as set out in Regulations (EC) No 793/2006, (EC) No 967/2006 and (EC) No 1914/2006, including documents submitted in support thereof, corresponds with the products as regards quantity, nature and characteristics under the conditions set out in Article 5;
+
+(g) ‘substitution check’ means a check carried out by means of a visual check, that the products correspond to the document which accompanied them from the customs office of export to the customs office of exit or the office to which the T5 control copy is sent under the conditions set out in Article 8;
+
+(h) ‘specific substitution check’ means a substitution check which may vary from a visual check to a physical check, to be carried out if there are doubts as to the integrity of the sealing of the export products under the conditions set out in Article 9;
+
+(i) ‘visual check’ means a check by sensory perception including such checks using technical equipment;
+
+(j) ‘document’ means a paper, or an electronic medium approved under Regulation (EEC) No 2913/92, Commission Regulation (EC) No 885/2006 ( 16 ) or Regulation (EC) No 450/2008 of the European Parliament and of the Council ( 17 ), bearing information relevant in the framework of this Regulation;
+
+(k) ‘equivalent document’, in relation to a T5 control copy, means the national document referred to in Articles 8, 8a and 9 of Regulation (EC) No 800/1999, used where a national procedure is applied pursuant to Article 912a(5) of Regulation (EEC) No 2454/93;
+
+(l) ‘product sectors’ are the sectors as set out in Article 1 of Regulation (EC) No 1234/2007, with the exception of cereals and rice covered by Parts I and II of Annex I to that Regulation which shall be treated as a single product sector, and goods not covered by Annex I to the Treaty, which shall be treated as a single product sector;
+
+(m) ‘Control code’ means information expressed by the letter ‘A’ followed by four digits generated by electronic means, in printing, or in clearly legible handwriting.
+
+#### Article 3 — Types of checks
+
+Member States shall carry out:
+
+(a) physical checks on products in accordance with Article 4, at the time the customs export formalities are completed and before authorisation is given for the products in question to be exported, on the basis of documents submitted in support of the export declaration;
+
+(b) checks on the integrity of seals in accordance with Article 7;
+
+(c) substitution checks in accordance with Article 8;
+
+(d) specific substitution checks in accordance with Article 9; and
+
+(e) scrutiny of the documents in the payment application file in accordance with Article 12.
+
+For other amounts, the application of physical checks is determined in Regulations (EC) No 793/2006, (EC) No 967/2006 and (EC) No 1914/2006.
+
+## CHAPTER II — PHYSICAL CHECKS
+
+#### Article 4 — Form and timing of checks
+
+1\. Without prejudice to any specific provisions which require more extensive checks, physical checks shall take the form of spot checks conducted frequently and without prior warning.
+
+2\. Physical checks concerning which the exporter has received express or tacit prior warning shall not count as checks. This paragraph shall not apply where the accounts of an undertaking are audited in accordance with point 3 of Annex I.
+
+3\. Member States shall ensure that there are variations in the start of the physical check at the exporter’s premises by comparison with the indicated time for starting loading as referred to in Article 5(7) of Regulation (EC) No 800/1999.
+
+#### Article 5 — Detailed methods for checks
+
+1\. In cases where a visual check fails to establish that the products correspond to the description given in the export refunds nomenclature, and where classification or the quality of the products requires very precise information about the ingredients thereof, the customs office of export shall verify that description according to the nature of the product.
+
+2\. Where the customs office of export deems it necessary, it shall carry out tests by laboratories specially equipped and accredited or officially approved for that purpose, stating the grounds for such tests. Where the refund rate or other amounts depend on the level of a particular component, as part of the physical check the customs office of export shall take representative samples with a view to having the composition analysed by an accredited or officially approved laboratory.
+
+Where the same exporter regularly exports a product with the same export refund nomenclature code or combined nomenclature code and the refund rate depends on the level of a particular component, the customs office of export may take representative samples in only 50 % of physical checks on that exporter provided that the laboratory tests during the past six months have revealed no non-conformities having financial consequences greater than EUR 1 000 of the gross amount of the refund with respect to that exporter. If laboratory testing detects a non-conformity having financial consequences greater than EUR 1 000 on the gross amount of the refund with respect to that exporter, the customs office of export shall take samples for all physical checks on that exporter in the following six months.
+
+3\. The checks referred to in this Article shall be carried out without prejudice to any measures which the customs authorities may take to ensure that the products leave the customs territory in the same state as when the export authorisation was granted.
+
+4\. The customs office of export shall ensure compliance with Article 21 of Regulation (EC) No 800/1999. Where there are specific grounds for suspecting the sound, fair and marketable quality of a product, the customs office of export shall verify compliance with the applicable Community provisions, in particular those relating to animal and plant health.
+
+5\. Physical checks on bulk products, on packed products, and on goods not covered by Annex I to the Treaty, shall be carried out taking account of the methods set out in Annex I to this Regulation.
+
+#### Article 6 — Checking rates
+
+1\. Without prejudice to paragraphs 2 to 7, physical checks shall relate to a representative choice of not less than 5 % of the export declarations referred to in Article 5 of Regulation (EC) No 800/1999 in respect of which applications are submitted for the refunds and amounts referred to in Article 1.
+
+The rate shall apply:
+
+(a) per customs office of export;
+
+(b) per calendar year; and
+
+(c) per product sector.
+
+2\. However, the Member State may choose to:
+
+(a) replace the rate of 5 % per product sector by a rate of 5 % covering all product sectors, in which case, a minimum rate of 2 % shall be compulsory per product sector;
+
+(b) replace the rate of 5 % per customs office by a rate of 5 % for its entire territory and of 5 % per product sector by a rate of 5 % covering all product sectors with a minimum rate of 2 % per product sector.
+
+3\. In case of application of paragraphs 1 and 2(a), where a customs office of export accepts fewer than 20 export declarations as referred to in paragraph 1 per product sector per year, at least one export declaration per product sector per year shall be subjected to a physical check.
+
+This requirement shall not apply if the customs office has not checked the first two declarations pursuant to the results of its risk analysis as provided for in Article 11 and no further exports are carried out thereafter in that product sector.
+
+4\. By derogation from paragraphs 1 and 2:
+
+(a) a minimum rate of 0,5 % per customs office or of 0,5 % for the entire territory of the Member State shall apply for goods not covered by Annex I to the Treaty. The percentage of physical checks carried out on those products shall not be taken into account when calculating the rate of 5 % per product sector or the overall rate of 5 % covering all products sectors;
+
+(b) for customs offices of export where a range of products from no more than two product sectors is presented for export by no more than five exporters, physical checks may be reduced to a minimum rate of 2 % per product sector. Product sectors with fewer than 20 export declarations per year per customs office shall not be taken into account when determining the number of product sectors. Customs offices of export may apply these rules for a full calendar year, based on the statistics for the previous calendar year, even where export declarations are made by additional exporters or for additional product sectors during the course of the year.
+
+5\. Without prejudice to the inspection measures referred to in Article 36(4), Article 37(4) and Article 44(4) of Regulation (EC) No 800/1999, Member States may opt to waive the physical and substitution checks provided for in this Regulation on deliveries referred to in Articles 36 and 44 of Regulation (EC) No 800/1999.
+
+6\. When calculating the minimum rates of checks to be carried out in accordance with this Article, Member States shall disregard export declarations for physical controls involving:
+
+(a) either quantities not exceeding:
+
+(i) 25 000 kg in the case of cereals and rice;
+
+(ii) 5 000 kg in the case of goods not covered by Annex I to the Treaty;
+
+(iii) 2 500 kg in the case of other products;
+
+(b) or refund amounts of less than EUR 1 000 .
+
+7\. When implementing paragraphs 5 and 6, Member States shall adopt appropriate provisions to prevent fraud and abuses. Any checks made to that end may be counted for the purposes of calculating compliance with the minimum rates of checks as set out in this Article.
+
+## CHAPTER III — CHECKS ON SEALS
+
+#### Article 7 — Checking obligation and rates
+
+1\. The customs office of exit or the customs office to which the T5 control copy is sent shall check the integrity of seals.
+
+2\. The number of checks on seals shall not be less than 10 % of the total number of T5 control copies or equivalent documents other than those selected for a substitution check pursuant to Article 8.
+
+## CHAPTER IV — SUBSTITUTION CHECKS
+
+#### Article 8 — Location and detailed methods for checks
+
+1\. Where the export declaration has been accepted at a customs office of export which is not the customs office of exit or the customs office to which the T5 control copy is sent, and if the customs office of export had not carried out a physical check, the customs office of exit shall carry out a substitution check in accordance with this Article and without prejudice to checks carried out under other provisions.
+
+If the customs office of exit is not the customs office to which the T5 control copy is sent, the substitution check shall be carried out by the latter.
+
+2\. If a visual check on the complete cargo would be insufficient to check substitution, other physical control methods referred to in Article 5, where necessary including partial unloading, shall be used.
+
+A sample for testing shall be taken only in cases where the customs office of exit cannot check, visually and using the information on the packaging and in the documentation, whether the products tally with the accompanying document.
+
+3\. Where, in addition to a customs seal, a veterinary seal has been applied in compliance with the requirements of the third country of destination, a substitution check shall be required only if there is a suspicion of fraud.
+
+#### Article 9 — Specific substitution checks
+
+1\. The customs office of exit or the customs office to which the T5 control copy is sent shall carry out a specific substitution check if it finds that:
+
+(a) the seals affixed on departure have been removed other than under customs supervision;
+
+(b) the seals affixed on departure have been broken;
+
+(c) the dispensation from sealing under Article 357(4) of Regulation (EEC) No 2454/93 has not been granted.
+
+2\. The customs office of exit or the customs office to which the T5 control copy is sent shall decide in the light of the risk analysis referred to in Article 11 whether the specific substitution check shall comprise only the substitution check or shall also entail a physical check.
+
+#### Article 10 — Checking rates
+
+1\. The total of the minimum number of substitution checks referred to in Article 8 and specific substitution checks referred to in Article 9 carried out each calendar year by the customs office of exit or by the customs office to which the T5 control copy is sent at which the products leave Community’s customs territory shall not be less than 8 % of the number of T5 control copies and equivalent documents covering products for which a refund is claimed.
+
+2\. When calculating the minimum rates of checks to be carried out in accordance with this Article, Member States shall disregard T5 control copies or equivalent documents for substitution checks involving:
+
+(a) either quantities not exceeding:
+
+(i) 25 000 kg in the case of cereals and rice;
+
+(ii) 5 000 kg in the case of goods not covered by Annex I to the Treaty;
+
+(iii) 2 500 kg in the case of other products;
+
+(b) or refund amounts of less than EUR 1 000 .
+
+3\. When implementing paragraph 2, Member States shall adopt appropriate provisions to prevent fraud and abuses. Any checks made to that end may be counted for the purposes of calculating compliance with the minimum rates of checks as set out in this Article.
+
+## CHAPTER V — RISK MANAGEMENT
+
+#### Article 11 — Risk analysis
+
+1\. The selection for physical checks and for substitution checks shall be based on a risk management system.
+
+2\. Member States shall carry out a risk analysis to enable the physical checks to be targeted on those products, individuals and legal entities and product sectors where there is the greatest risk that the operations referred to in Article 1 are not correctly carried out.
+
+3\. Without prejudice to Article 592e of Regulation (EEC) No 2454/93, Member States shall set up their risk analysis taking into account the present Regulation and the criteria set out in Annex II, as appropriate.
+
+4\. The Member States and the Commission shall jointly assess the reliability and relevance of the criteria set out in Annex II on the basis of experience acquired in order to make, where necessary, adjustments to the system and selection parameters to make physical and substitution checks more effective and improve targeting.
+
+5\. The Member States shall notify the Commission of:
+
+(a) the measures taken, including instructions to national departments, to apply the selection system on the basis of risk analysis, in the light of the criteria referred to in Annex II;
+
+(b) the checking rates to be applied as set out in Article 6;
+
+(c) individual cases which could be of interest to the other Member States.
+
+Member States to which point (a) of the third paragraph of Article 18 applies shall notify the Commission by 1 July 2009.
+
+## CHAPTER VI — COORDINATION AND ADMINISTRATIVE REPORTS
+
+### SECTION 1 — Coordination
+
+#### Article 12 — Paying agency scrutiny
+
+Paying agencies shall scrutinise, on the basis of the payment application files and other available information, in particular of the documents relating to the export and the comments of the customs services, all the evidence in those files adduced to justify the payment of the amounts in question.
+
+#### Article 13 — Coordination of risk analysis and checks
+
+1\. The Member States shall ensure that a single body coordinates information on risk analysis.
+
+2\. Member States shall take steps to coordinate the checks imposed on individual operators and combine the checks provided for in Articles 5, 8 and 9 and the checks provided for in Regulation (EC) No 485/2008.
+
+Such coordinated checks shall be carried out, on the initiative or at the request either of the Commission or of the customs authorities carrying out the physical checks or the paying agencies scrutinising the payment application file or the competent authorities auditing the accounts.
+
+### SECTION 2 — Administrative reports
+
+#### Article 14 — Reports on physical checks
+
+1\. Each customs office of export shall make the necessary arrangements to ensure that compliance with the rate of physical checks referred to in Article 6 can be verified at any time.
+
+Those arrangements shall show, for each product sector:
+
+(a) the number of export declarations taken into account for the physical checks;
+
+(b) the number of physical checks carried out.
+
+2\. The competent customs official shall produce a detailed inspection report on each physical check carried out.
+
+Inspection reports shall at least include relevant details on:
+
+(a) the place, date, time of arrival, time of completion of the physical check, means of transport for the products, whether the means of transport were empty, partially or completely loaded at the beginning of the control procedure, the number of samples taken for a laboratory analysis, and the name and signature of the competent officer; and
+
+(b) date and time of receipt of information as referred to in Article 5(7)(b) of Regulation (EC) No 800/1999, the indicated time for starting loading and completion of the loading of the products in the means of transport.
+
+Without prejudice to Article 9 of Regulation (EC) No 885/2006 the inspection reports and the document mentioning the reason for selecting the export declaration for a physical check shall be kept accessible for consultation for three years from the year of export at the customs office which carried out the physical check, or at one place in the Member State.
+
+#### Article 15 — T5 control copy
+
+1\. For the purposes of Article 912c(3) and (4) of Regulation (EEC) No 2454/93, when applicable, customs authorities shall note on the control copy T5, or the equivalent document accompanying the products, the relevant control codes set out in Annex IIa to this Regulation, in accordance with the following rules:
+
+(a) the customs office of export shall note in box D the relevant control code listed in Part 1 of Annex IIa, corresponding to whether:
+
+(i) a physical check on export refunds provided in Article 4 of this Regulation has been carried out;
+
+(ii) an analysis has been carried out in accordance with Article 51 of Commission Regulation (EC) No 1043/2005 ( 18 );
+
+(iii) it is a food aid export under Regulation (EC) No 2298/2001 exempted from physical check;
+
+(b) the customs office of exit or the customs office to which the T5 control copy is sent shall, after having carried out the checks on the integrity of seals referred to in Article 7 of this Regulation, note in box J the relevant control code listed in Part 2 of Annex IIa, corresponding to whether:
+
+(i) the seal is in conformity, or the absence of a seal is justified as referred to in Article 5(8) of Commission Regulation (EC) No 612/2009 ( 19 );
+
+(ii) the seal is missing or it was broken;
+
+(c) the customs office of exit or the customs office to which the T5 control copy is sent shall note in box J the relevant control code listed in Part 3 of Annex IIa, corresponding to whether:
+
+(i) the findings of the substitution check referred to in Article 8 of this Regulation are in conformity;
+
+(ii) a sample has been taken under the substitution check referred to in Article 8 or the specific substitution check referred to in Article 9 of this Regulation, but the findings are not yet available due to ongoing verification by laboratory analysis;
+
+(iii) the findings of the specific substitution check referred to in Article 9 are in conformity;
+
+(iv) the findings of the substitution check referred to in Article 8 or the specific substitution check referred to in Article 9 are not in conformity.
+
+2\. The customs office of exit or the customs office to which the T5 control copy is sent shall mention in box J of the T5 control copy its Customs Office Reference number as referred to in point 8 of Annex 37c to Regulation (EEC) No 2454/93.
+
+In the case referred to in paragraph 1(c)(ii), the customs office concerned shall, as soon as the verification is finalised, note the findings of this verification in box J of a copy of the T5 control copy sent previously, by using the relevant control code referred to in paragraph 1(c).
+
+In the case referred to in paragraph 1(c)(iv), the customs office that made the findings shall:
+
+(a) attach to the copy of the T5 control copy which will be returned to the paying agency according to the procedure of Article 912c(4) of Regulation (EEC) No 2454/93, a copy of the control report as set out in paragraph 5 of this Article, indicating the checks carried out and the reasons why the relevant rules on export refunds might not have been complied with; and
+
+(b) request that the paying agency notifies them of the action taken as a result of the findings.
+
+3\. If selection procedures for checks on the integrity of seals referred to in Article 7, or for substitution checks referred to in Article 8, or specific substitution checks referred to in Article 9, and therefore the application of risk management, are made difficult due to incomplete information indicated in the T5 control copy, the customs office of exit or the customs office to which the T5 control copy is sent shall note in box J, as supplementary information, one of the control codes listed in Part 4 of Annex IIa.
+
+4\. The customs office of exit or the customs office to which the T5 control copy is sent shall take steps to make available to the Commission at any time details of the number of:
+
+(a) T5 control copies and equivalent documents taken into account for the purposes of the checks on the integrity of seals referred to in Article 7, for the purposes of substitution checks referred to in Article 8, and specific substitution checks referred to in Article 9;
+
+(b) checks carried out on integrity of seals referred to in Article 7;
+
+(c) substitution checks carried out referred to in Article 8;
+
+(d) specific substitution checks carried out referred to in Article 9.
+
+A duplicate or a copy of the document shall remain at the customs office of exit or the customs office to which the T5 control copy or equivalent document is sent, as the case may be, and it shall be accessible for consultation.
+
+5\. Every substitution check and specific substitution check referred to in Articles 8 and 9 shall be the subject of a report drawn up by the customs official who carries it out.
+
+The report shall permit monitoring of the checks carried out and shall bear the date and the name of the customs official. Without prejudice to Article 9 of Regulation (EC) No 885/2006 it shall be accessible for consultation for three years from the year of export at the customs office which carried out the check, or at one place in the Member State.
+
+#### Article 16 — Annual report
+
+Before 1 May each year, the Member States shall send to the Commission a report evaluating the implementation and effectiveness of the checks carried out under this Regulation and the procedures applied to selecting the products subject to physical checks. The report shall include the elements listed in Annex VIII covering export declarations accepted between 1 January and 31 December of the preceding year.
+
+The notifications referred to in the first paragraph shall be made in accordance with Commission Regulation (EC) No 792/2009 ( 20 ).
+
+## CHAPTER VII — FINAL PROVISIONS
+
+#### Article 17 — Repeals
+
+Regulations (EC) No 3122/94 and (EC) No 2090/2002 are repealed.
+
+References to the repealed Regulations and to Regulation (EEC) No 386/90 shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IX.
+
+#### Article 18 — Entry into force
+
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.
+
+It shall apply as from 1 January 2009.
+
+However, Chapter V as regards physical checks and the second subparagraph of Article 5(2), Article 6(2), the second subparagraph of Article 6(3), and Article 6(4), shall apply:
+
+(a) for those Member States having sent their notification to the Commission under Article 3(2) of Regulation (EC) No 3122/94 from 1 January 2009;
+
+(b) for other Member States from the date which each Member State shall determine and notify to the Commission or from 1 July 2009, whichever is earlier.
+
+Chapter V as regards substitution checks shall apply from the date which each Member State shall determine and notify to the Commission or from 1 July 2009, whichever is earlier.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**METHODS TO BE FOLLOWED FOR PHYSICAL CHECKS**
+
+**1\. Bulk products**
+
+1.1. Where an exporter uses sealed facilities for automatic loading and calibrated automatic weighing of bulk products, the customs office of export shall check that the products tally with the export declaration by measuring the quantity by using the calibrated automatic weighing information, and it shall check the nature and characteristics of the products by representative sampling.
+
+The customs office of export shall also check by sampling that:
+
+(i) the weighing and loading systems do not permit products to be rerouted inside these sealed circuits or any other manipulations;
+
+(ii) the time limits specified for calibrated weighing equipment have not expired and that seals are intact where sealed weighing systems are used;
+
+(iii) the consignments weighed are actually loaded on the means of transport specified;
+
+(iv) the data entered in the weighing records or certificates correspond to the data contained in the loading documents.
+
+1.2. In the rare cases where the quantity of bulk products is not recorded by a calibrated automatic weighing system, the customs office shall use any other means of checking which is satisfactory from the commercial point of view.
+
+1.3. Where an export declaration only covers part of the cargo of a ship, the customs office of export shall ensure supervision of the physical departure of the whole cargo. To this end, when the loading process is completed, the customs office shall verify the total weight of the cargo loaded by use of the information under point 1.1 or 1.2, with, where appropriate the information in commercial documents.
+
+**2\. Piece products**
+
+2.1. Where an exporter has declared products packaged using automatic systems for bagging, canning, bottling, etc., and calibrated automatic weighing/measuring equipment, or put up in packaging or bottles within the meaning of Council Directives 75/106/EEC ( 21 ), 75/107/EEC ( 22 ) and 76/211/EEC ( 23 ), the total number of bags, cans, bottles, etc., shall in principle be counted and the nature and characteristics of the products shall be checked on the basis of a representative selection made by the customs office of export. The weight or volume shall be determined by calibrated automatic weighing/measuring or by the packaging or bottles, within the meaning of the above Directives. The customs office of export may weigh or measure one bag, can or bottle.
+
+2.2. If the equipment has a calibrated automatic counter, the records of the automatic counter may be taken into account for the physical check on quantity. Point 1.1 shall apply mutatis mutandis.
+
+2.3. Where an exporter uses pallets loaded with cartons, cans, etc., the customs office of export shall select representative pallets and check whether the number of cartons, cans, etc. declared is present. It shall select from these pallets a number of representative cartons, cans etc., and check whether the number of bottles, units, etc., is present.
+
+2.4. Where the exporter does not use facilities as referred to in points 2.1 and 2.2, the customs office of export shall count the number of bags, cans, etc. The nature, characteristics and weight/volume shall be checked on the basis of a representative selection. Point 2.3 shall apply mutatis mutandis.
+
+2.5. Where in the case of points 2.1 and 2.2 the contents and exact weight are indicated on the immediate packaging of the products, that information shall be verified only in 50 % of physical checks if the products are packed in containers or packs intended for wholesale, and the products are exported regularly by the same exporter and no non-conformities having financial consequences greater than EUR 1 000 have been found during the previous six months.
+
+**3\. Goods not covered by Annex I to the Treaty**
+
+3.1. In the case of goods not covered by Annex I to the Treaty which are packaged for retail sale or subject to appropriate marking with details of content and weight on the immediate packaging and which either meet the requirements of the third subparagraph of Article 10 of Commission Regulation (EC) No 1043/2005 ( 24 ) or for which the quantities of product used are those set out in Annex III to that Regulation, the customs office of export shall begin by checking the weight and content of goods not covered by Annex I to the Treaty put up in immediate packaging against the details on the immediate packaging. It may weigh a unit without packaging. It shall then count and/or weigh – in principle – the total quantity of goods not covered by Annex I to the Treaty in immediate packaging.
+
+Points 2.1 to 2.5 shall apply mutatis mutandis.
+
+3.2. The customs office may take a sample to verify that no substitution has taken place.
+
+3.3. The quantity of products used in the production of goods not covered by Annex I to the Treaty may be assumed by the customs office of export to be correct if the description and the content indicated on the immediate packaging are consistent with the details given in the export declaration or the registered manufacturing formula.
+
+If the manufacturing formula has not yet been checked by the competent authorities, the customs office of export shall have the auditor of the competent authorities verify the formula and the identity of the goods afterwards.
+
+For the purposes of this method for verifying the composition of goods not covered by Annex I to the Treaty, Member States shall introduce in advance a procedure whereby:
+
+(i) the composition of goods not covered by Annex I to the Treaty can be checked through the accounts and specific documents relating to production;
+
+(ii) it is verified, through the undertaking’s production documents, that the goods not covered by Annex I to the Treaty produced are the same as those covered by the export declaration and the manufacturing formula and the goods to be exported; and
+
+(iii) the auditor of the competent authority can verify ex-post that the goods exported tally with the export declaration concerned, the manufacturing formula and the goods produced.
+
+3.4. In cases where the procedure provided for in points 3.1 to 3.3 is not applied, the customs office of export shall take representative samples, without prejudice to Article 49 of Regulation (EC) No 1043/2005.
+
+## ANNEX II
+
+**CRITERIA FOR RISK ANALYSIS REFERRED TO IN ARTICLE 11**
+
+1\. Criteria relating to the products:
+
+(a) their origin;
+
+(b) their nature;
+
+(c) their characteristics in terms of the refund nomenclature;
+
+(d) their value;
+
+(e) their customs status;
+
+(f) the risk of an incorrect tariff code;
+
+(g) the amount of refund in terms of technical characteristics and the presentation of the products (fat, water, meat, ash content, packaging, etc.);
+
+(h) their becoming newly eligible for refunds;
+
+(i) the quantity;
+
+(j) analyses of previous samples;
+
+(k) binding tariff information (BTI).
+
+2\. Criteria relating to trade:
+
+(a) its frequency;
+
+(b) the appearance of unusual trade and/or the development of new trade;
+
+(c) diversions of trade.
+
+3\. Criteria relating to the refund nomenclature:
+
+(a) the rate of refund;
+
+(b) the nomenclatures in respect of which most export refunds are paid;
+
+(c) the risks of incorrect refund rates in terms of technical characteristics and the presentation of the products (fat, water, meat, ash content, packaging, etc.).
+
+4\. Criteria relating to the exporters:
+
+(a) their status under customs legislation (e.g. authorised economic operator);
+
+(b) their reputation and trustworthiness;
+
+(c) their financial position;
+
+(d) the appearance of new exporters;
+
+(e) exports without any immediately apparent economic justification;
+
+(f) previous disputes, in particular cases of fraud.
+
+5\. Criteria relating to irregularities: detected or suspected in certain product sectors.
+
+6\. Criteria relating to the customs arrangements used:
+
+(a) the normal declaration procedure;
+
+(b) the simplified declaration procedure;
+
+(c) acceptance of the export declaration in application of Articles 790 and 791 of Regulation (EEC) No 2454/93.
+
+7\. Criteria relating to the arrangements for granting export refunds:
+
+(a) direct exports;
+
+(b) victualling.
+
+8\. Criteria in particular relating to substitution checks:
+
+(a) the export destination;
+
+(b) the logistical evidence of the customs office of exit: new or unusual itinerary or traffic, products moved from another office of exit;
+
+(c) excessive journey time from the office of export;
+
+(d) arrival outside normal port/border pattern;
+
+(e) the seal number is different from that declared;
+
+(f) the commodity code and description do not agree;
+
+(g) the declared weight appears incorrect;
+
+(h) inappropriate means of transport for the products;
+
+(i) the amount of refund.
+
+## ANNEX IIa
+
+Control codes concerning checks carried out by the customs office of export, the customs office of exit or the customs office to which the T5 control copy is sent
+
+**PART 1**
+
+| Findings of check as referred to in Article 15(1)(a) of Regulation (EC) No 1276/2008 | Control code |
+| --- | --- |
+| A physical check on export refunds provided in Article 4 of Regulation (EC) No 1276/2008 has been carried out | A1000 |
+| An analysis has been carried out in accordance with Article 51 of Regulation (EC) No 1043/2005 | A1100 |
+| It is food aid export under Regulation (EC) No 2298/2001 exempted from a physical check | A1200 |
+
+**PART 2**
+
+| Findings of check as referred to in Article 15(1)(b) of Regulation (EC) No 1276/2008 | Control code |
+| --- | --- |
+| Seal is in conformity, or the absence of a seal is justified as referred to in Article 5(8) of Regulation (EC) No 612/2009 | A2000 |
+| Seal is missing or it was broken | A2100 |
+
+**PART 3**
+
+| Findings of check as referred to in Article 15(1)(c) of Regulation (EC) No 1276/2008 | Control code |
+| --- | --- |
+| Findings of the substitution check referred to in Article 8 of Regulation (EC) No 1276/2008 are in conformity | A3000 |
+| Sample has been taken under the substitution check referred to in Article 8 or the specific substitution check referred to in Article 9 of Regulation (EC) No 1276/2008, but the findings are not yet available due to ongoing verification by laboratory analysis | A3100 |
+| Findings of the specific substitution check referred to in Article 9 of Regulation (EC) No 1276/2008 are in conformity | A3200 |
+| Findings of substitution check referred to in Article 8 or specific substitution check referred to in Article 9 of Regulation (EC) No 1276/2008 are not in conformity | A3300 |
+
+**PART 4**
+
+| Findings of check as referred to in Article 15(3) of Regulation (EC) No 1276/2008 | Control code |
+| --- | --- |
+| Application of risk management is made difficult because the rate of refund was not mentioned on the T5 control copy or equivalent document without the exporter being exempted according to Article 9 of Regulation (EC) No 612/2009 | A4000 |
+| Application of risk management is made difficult because the T5 control copy or equivalent document did not mention the entry referred to in Article 8 and Annex III of Regulation (EC) No 612/2009 | A4100 |
+| Application of risk management is made difficult because the T5 control copy or equivalent document was not correctly or not completely filled in on other aspects | A4200 |
+
+## ANNEX VIII
+
+**Elements of the Annual Report pursuant to Article 16**
+
+**1\. Checks at the customs offices of export**
+
+1.1. The number of export declarations per product sector per customs office not excluded under Article 6(6) when calculating the minimum rate of checks. If the Member State applies Article 6(2)(b), the report shall mention the total number of export declarations per product sector in its territory not excluded under Article 6(6) when calculating the minimum rate of checks.
+
+1.2. The number and percentage of physical checks carried out per product sector per customs office. If the Member State applies Article 6(2)(b), the report shall mention the total number and percentage of physical checks carried out per product sector in its territory.
+
+1.3. If applicable, a list of customs offices applying reduced rates of checks pursuant to Article 6(4)(b). If the Member State applies Article 6(2)(b), and if it applies Article 6(4), the report shall mention the number and percentage of physical checks carried out per product sector per customs office defined in that Article.
+
+1.4. The number of checks by product sector which led to the detection of irregularities, the financial incidence of irregularities detected exceeding a refund value of EUR 1 000 including, where applicable, the reference number used for the communication referred to in Article 3 of Commission Regulation (EC) No 1848/2006 ( 25 ).
+
+1.5. If applicable, the updating of the number of irregularities under Article 3 of Regulation (EC) No 1848/2006 which were communicated to the Commission in the preceding annual reports.
+
+1.6. The requested value of refunds per product sector of declarations subjected to physical checks.
+
+**2\. Substitution checks at the customs offices of exit**
+
+2.1. The number of T5 control copies and equivalent documents per customs office of exit or the customs office to which the T5 control copy is sent where the products for which a refund is claimed leave the Community’s customs territory, noted as:
+
+(a) the number of T5 control copies and equivalent documents covering exports which were physically controlled as meant in Article 3(a);
+
+(b) the number of T5 control copies and equivalent documents covering export declarations which were not physically controlled as meant in Article 3(a);
+
+(c) the total number of T5 control copies and equivalent documents.
+
+2.2. The number and percentage of checks on the integrity of seals referred to in Article 7, carried out per customs office of exit or the customs office to which the T5 control copy is sent where the products for which a refund is claimed leave the Community’s customs territory.
+
+2.3. The number and percentage of checks, broken down in substitution checks and specific substitution checks referred to in Articles 8 and 9, carried out per customs office of exit or the customs office to which the T5 control copy is sent where the products for which a refund is claimed leave the Community’s customs territory.
+
+2.4. The number of T5 control copies and equivalent documents for which the seals affixed on departure have been removed other than under customs supervision, or the seals have been broken or the dispensation from sealing under Article 357(4) of Regulation (EEC) No 2454/93 has not been granted.
+
+2.5. The number of substitution checks referred to in Article 8 of this Regulation which led to the detection of irregularities, the financial incidence of irregularities detected exceeding a refund value of EUR 1 000 , including, where applicable, the reference number which is used for communication referred to in Article 3 of Regulation (EC) No 1848/2006.
+
+The number of specific substitution checks referred to in Article 9 of this Regulation which led to the detection of irregularities, the financial incidence of irregularities detected exceeding a refund value of EUR 1 000 , including, where applicable, the reference number which is used for communication referred to in Article 3 of Regulation (EC) No 1848/2006.
+
+2.6. If applicable, the updating of the number of irregularities which were communicated to the Commission under Article 3 of Regulation (EC) No 1848/2006 in the preceding annual report.
+
+2.7. To what extent the customs offices of exit or the customs office to which the T5 control copy is sent applied Article 15(5) and which information was given from the paying agencies concerned.
+
+**3\. Procedures for the selection of consignments for physical checks**
+
+3.1. A description of the procedures for the selection of consignments for physical checks, for substitution checks and for specific substitution checks and their effectiveness.
+
+**4\. Modifications of the risk analysis system or strategy**
+
+4.1. A description of all modifications of the measures notified to the Commission under Article 11(3).
+
+**5\. Detailed information on selection systems and on the risk analysis system**
+
+The information in points 5.1 to 5.4 shall only be submitted if there have been modifications since the latest report.
+
+The information in point 5.5 is requested from the Member States for the period in 2009 before their notification of application of risk analysis pursuant to Article 11.
+
+5.1. Description of the uniform system, if existent, of recording the weighting rate of risks associated with each consignment.
+
+5.2. Description of the intervals of the periodical evaluation and revision of the assessed risks.
+
+5.3. Description of the monitoring and feedback system in order to ensure that targeted checks are carried out or that satisfactory reasons are recorded for not doing so.
+
+5.4. If there has not been any revision of risk evaluation (see point 5.2) for the latest reporting periods, explain why the existing evaluation still remains the appropriate means to ensure the effectiveness of physical checks.
+
+5.5. If a risk analysis pursuant to Article 11 is not applied, explain why the existing system of checks still remains the appropriate means to ensure the effectiveness of physical checks.
+
+**6\. Coordination with Regulation (EC) No 485/2008**
+
+6.1. Description of the measures pursuant to Article 13(1) of this Regulation which have been taken in order to improve the coordination with Regulation (EC) No 485/2008.
+
+**7\. Difficulties in applying this Regulation**
+
+7.1. Description of any difficulties encountered in the application of this Regulation and the measures taken to overcome them or proposals to that end.
+
+**8\. Evaluation of the checks carried out**
+
+8.1. Evaluation whether the checks have been carried out satisfactorily.
+
+8.2. Report whether the certifying body referred to in Article 5 of Commission Regulation (EC) No 885/2006 made any statements regarding the carrying out of physical and substitution checks in its latest report pursuant to Article 5(4) of that Regulation and indicate the respective place in the report (chapter, page etc.). If the report contains recommendations on the improvement of the system of physical and substitution checks, indicate which measures have been implemented in order to improve the system.
+
+8.3. The Member States not yet having implemented the measures as meant under point 8.2 when drawing up the annual report shall deliver this information by 31 July of the year the annual report is submitted.
+
+**9\. Suggestions for improvement**
+
+9.1. Where appropriate, suggestions for improvement, either in the application of this Regulation, or in the Regulation itself.
+
+## ANNEX IX
+
+Correlation table
+
+<table>
+<tbody><tr><td>Regulation (EEC) No 386/90</td><td>Regulation (EC) No 3122/94</td><td>Regulation (EC) No 2090/2002</td><td>This Regulation</td></tr>
+<tr><td>Article 1</td><td>  </td><td>Article 1(2)</td><td>Article 1</td></tr>
+<tr><td>  </td><td>  </td><td>Articles 1(3), 5(1), 3 and 10(4)</td><td>Article 2</td></tr>
+<tr><td>Article 2</td><td>  </td><td>  </td><td>Article 3</td></tr>
+<tr><td>Article 3(1) and 3(2)</td><td>  </td><td>  </td><td>Article 4(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 5(2)</td><td>Article 4(2) and (3)</td></tr>
+<tr><td>Article 3(3)</td><td>  </td><td>  </td><td>Article 5(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Articles 5(1) and 6(b)</td><td>Article 5(2)</td></tr>
+<tr><td>Article 3(4)</td><td>  </td><td>  </td><td>Article 5(3)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 5(1)</td><td>Article 5(4) and (5)</td></tr>
+<tr><td>Article 3(1)(b) and 3(2) first subparagraph</td><td>  </td><td>  </td><td>Article 6(1)</td></tr>
+<tr><td>Article 3(2) second subparagraph</td><td>  </td><td>  </td><td>Article 6(2)(a)</td></tr>
+<tr><td>Article 3(2) third subparagraph</td><td>  </td><td>  </td><td>Article 6(2)(b)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 5(3)</td><td>Article 6(3)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 6(a) and (c)</td><td>Article 6(4)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 2(1)</td><td>Article 6(5)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 2(2)</td><td>Article 6(6)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 2(3)</td><td>Article 6(7)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(2a)</td><td>Article 7</td></tr>
+<tr><td>Article 3a</td><td>  </td><td>Article 10(1) and (2)</td><td>Article 8(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(4)</td><td>Article 8(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(3)</td><td>Article 8(3)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(2a)</td><td>Article 9(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(4a)</td><td>Article 9(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(2)</td><td>Article 10(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 2(2)</td><td>Article 10(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 2(3)</td><td>Article 10(3)</td></tr>
+<tr><td>Article 3(2)</td><td>Article 1</td><td>Article 10(2)</td><td>Article 11(1), (2) and (3)</td></tr>
+<tr><td>  </td><td>Article 2 (1)</td><td>  </td><td>—</td></tr>
+<tr><td>  </td><td>Article 3(1)</td><td>  </td><td>Article 11(4)</td></tr>
+<tr><td>  </td><td>Article 3(2)</td><td>  </td><td>Article 11(5)</td></tr>
+<tr><td>Article 4</td><td>  </td><td>  </td><td>Article 12</td></tr>
+<tr><td>  </td><td>Article 3(3)</td><td>  </td><td>Article 13(1)</td></tr>
+<tr><td>Article 5</td><td>  </td><td>  </td><td>Article 13(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 8(1)</td><td>Article 14(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 8(2)</td><td>Article 14(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 8(3)</td><td>Article 15(1)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(5)(a) and 10(5a) second subparagraph (2)</td><td>Article 15(2)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(5a) first subparagraph</td><td>Article 15(3)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(6)</td><td>Article 15(4)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 10(7) first subparagraph</td><td>Article 15(5)</td></tr>
+<tr><td>  </td><td>  </td><td>Article 11</td><td>Article 16</td></tr>
+<tr><td>  </td><td>  </td><td>Article 12</td><td>Article 17</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Article 18</td></tr>
+<tr><td>  </td><td>  </td><td>Annex I (3)</td><td>Annex I</td></tr>
+<tr><td>  </td><td>Article 1</td><td>  </td><td>Annex II</td></tr>
+<tr><td>  </td><td>  </td><td>Article 8(3)(a)</td><td>Annex III</td></tr>
+<tr><td>  </td><td>  </td><td>Article 8(3)(b)</td><td>Annex IV</td></tr>
+<tr><td>  </td><td>  </td><td>Annex Ia</td><td>Annex V</td></tr>
+<tr><td>  </td><td>  </td><td>Annex Ib</td><td>Annex VI</td></tr>
+<tr><td>  </td><td>  </td><td>Annex Ic</td><td>Annex VII</td></tr>
+<tr><td>  </td><td>  </td><td>Annex III</td><td>Annex VIII</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Annex IX</td></tr>
+<tr><td colspan="4">(1)  Professional secrecy is covered by Article 6 of Regulation (EC) No 450/2008.  (2)  Article 10(5a) second subparagraph is covered by Article 9(1) of Regulation (EC) No 885/2006.  (3)  Point 3(b) is covered by Article 4 of Regulation (EC) No 485/2008. </td></tr>
+</tbody>
+</table>
+
+( 1 ) OJ L 299, 16.11.2007, p. 1.
+
+( 2 ) OJ L 209, 11.8.2005, p. 1.
+
+( 3 ) OJ L 42, 16.2.1990, p. 6.
+
+( 4 ) OJ L 322, 27.11.2002, p. 4.
+
+( 5 ) OJ L 330, 21.12.1994, p. 31.
+
+( 6 ) OJ L 145, 31.5.2006, p. 1.
+
+( 7 ) OJ L 176, 30.6.2006, p. 22.
+
+( 8 ) OJ L 365, 21.12.2006, p. 64.
+
+( 9 ) OJ L 102, 17.4.1999, p. 11.
+
+( 10 ) OJ L 308, 27.11.2001, p. 16.
+
+( 11 ) OJ L 253, 11.10.1993, p. 1.
+
+( 12 ) OJ L 360, 19.12.2006, p. 64.
+
+( 13 ) OJ L 224, 21.9.1995, p. 13.
+
+( 14 ) OJ L 143, 3.6.2008, p. 1.
+
+( 15 ) OJ L 48, 22.2.2008, p. 19.
+
+( 16 ) OJ L 171, 23.6.2006, p. 90.
+
+( 17 ) OJ L 145, 4.6.2008, p. 1.
+
+( 18 ) OJ L 172, 5.7.2005, p. 24.
+
+( 19 ) OJ L 186, 17.7.2009, p. 1.
+
+( 20 ) OJ L 228, 1.9.2009, p. 3.
+
+( 21 ) OJ L 42, 15.2.1975, p. 1.
+
+( 22 ) OJ L 42, 15.2.1975, p. 14.
+
+( 23 ) OJ L 46, 21.2.1976, p. 1.
+
+( 24 ) OJ L 172, 5.7.2005, p. 24.
+
+( 25 ) OJ L 355, 15.12.2006, p. 56.

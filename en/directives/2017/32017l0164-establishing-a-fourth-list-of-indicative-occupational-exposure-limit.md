@@ -148,6 +148,7 @@ Jean-Claude JUNCKER
 
 ## ANNEX
 
+<table>
 <tbody><tr><td rowspan="3">EC No (1)</td><td rowspan="3">CAS No (2)</td><td rowspan="3">NAME OF THE CHEMICAL AGENT</td><td colspan="4">LIMIT VALUES</td><td rowspan="3">Notation (3)</td></tr>
 <tr><td colspan="2">8 hours (4)</td><td colspan="2">Short-term (5)</td></tr>
 <tr><td>mg/m3 (6)</td><td>ppm (7)</td><td>mg/m3 (6)</td><td>ppm (7)</td></tr>
@@ -183,6 +184,7 @@ Jean-Claude JUNCKER
 <tr><td>233-272-6</td><td>10102-44-0</td><td>Nitrogen dioxide</td><td>0,96</td><td>0,5</td><td>1,91</td><td>1</td><td>—</td></tr>
 <tr><td>262-967-7</td><td>61788-32-7</td><td>Terphenyl, hydrogenated</td><td>19</td><td>2</td><td>48</td><td>5</td><td>—</td></tr>
 </tbody>
+</table>
 
 (1)
 

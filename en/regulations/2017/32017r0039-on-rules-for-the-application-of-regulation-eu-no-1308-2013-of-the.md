@@ -1,0 +1,402 @@
+---
+title: "Commission Implementing Regulation (EU) 2017/39 of 3 November 2016 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments"
+identifier: "32017R0039"
+eli: "http://data.europa.eu/eli/reg_impl/2017/39/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-11-03
+entry_into_force: 2017-12-01
+last_amended: 2023-08-01
+consolidated_version: "02017R0039-20230801"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0039-20230801"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2017/39 of 3 November 2016 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2017/39**
+
+**of 3 November 2016**
+
+**on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1983 of 28 November 2019 </td><td> L 308</td><td>82</td><td>29.11.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1239 of 17 June 2020 </td><td> L 284</td><td>3</td><td>1.9.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/246 of 13 December 2021 </td><td> L 41</td><td>8</td><td>22.2.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/102 of 11 January 2023 </td><td> L 12</td><td>1</td><td>13.1.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1449 of 12 June 2023 </td><td> L 179</td><td>5</td><td>14.7.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2017/39**
+
+**of 3 November 2016**
+
+**on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments**
+
+## Article 1 — Scope and definition
+
+1\. This Regulation lays down rules for the application of Regulations (EU) No 1308/2013 and (EU) No 1370/2013 as regards Union aid for the supply and distribution of fruit and vegetables, processed fruit and vegetable products and fresh products of the banana sector (‘school fruit and vegetables’) and of milk and milk products (‘school milk’) to children in educational establishments, for accompanying educational measures and for certain related costs in the framework of the scheme referred to under Article 23 of Regulation (EU) No 1308/2013 (‘the school scheme’).
+
+2\. For the purposes of the school scheme, ‘school year’ means a period running from 1 August until 31 July of the following year.
+
+## Article 2 — Member States' strategies
+
+1\. A Member State's strategy as referred to in Article 23(8) of Regulation (EU) No 1308/2013 and in Article 2 of Delegated Regulation (EU) 2017/40 shall include the following elements:
+
+(a) the administrative level at which the school scheme will be implemented;
+
+(b) the needs to be addressed through implementation of the school scheme and their ranking in terms of priorities;
+
+(c) the results expected to be achieved through implementation of the school scheme and the indicators to measure their achievement;
+
+(d) the initial situation in relation to which progress in achieving the results will be measured, based on available data;
+
+(e) the estimated budget for the main elements of the school scheme with regard to the school fruit and vegetables and the school milk, as well as the budget for elements concerning the entire school scheme;
+
+(f) the target group;
+
+(g) the list of products, by product groups listed in Article 23(3), (4), (5) and, if applicable, (7) of Regulation (EU) No 1308/2013, that will be supplied under the school scheme;
+
+(h) if products are not made available free of charge under the school scheme, the arrangements put in place to ensure that the amount of Union aid is duly reflected in the price of those products;
+
+(i) if standard scales of unit costs, flat-rate financing and/or lump sums are authorised, the fair, equitable and verifiable calculation method used for their establishment; if a cost-based system is used, the arrangements to assess the reasonableness of the costs submitted by aid applicants;
+
+(j) the objectives and the content of the accompanying educational measures;
+
+(k) the procedures for involving relevant authorities and stakeholders;
+
+(l) the procedures for selecting the suppliers of products, materials and services under the school scheme;
+
+(m) the arrangements put in place for publicising the provision of Union aid under the school scheme.
+
+2\. Member States shall make available to the Commission upon request the following information, if not included in the strategy:
+
+(a) the criteria for the choice of the products that will be supplied under the school scheme and the priority or priorities referred to under Article 23(11) of Regulation (EU) No 1308/2013;
+
+(b) the arrangements for the supply and/or distribution of the products, including with regard to the eligible costs, the envisaged frequency and timing of distribution and, in case distribution is allowed in the framework of regular school meals, the measures taken to comply with Article 11 of Delegated Regulation (EU) 2017/40;
+
+(c) if maximum prices to be paid by beneficiaries for the products, materials and services made available under the school scheme are set, the fair, equitable and verifiable calculation method used for their establishment;
+
+(d) the amount of national aid if such aid is granted in addition to Union aid for the school scheme;
+
+(e) if existing national schemes are extended or made more effective through Union aid under the school scheme, the arrangements put in place to ensure the added value of the school scheme;
+
+(ea) where Member States decide to pay advances of aid in accordance with Article 44(3b) of Regulation (EU) 2021/2116 of the European Parliament and of the Council ( 1 ), the maximum amount of the advance expressed in a percentage of the aid which the aid applicants are entitled to, and the arrangements for granting the advance;
+
+(f) if products referred to in Article 23(5) of Regulation (EU) No 1308/2013 are distributed, the arrangements to ensure that Union aid shall be paid only for the milk component of those products and shall not exceed the amount referred to in Article 5(3) of Regulation (EU) No 1370/2013;
+
+(g) the structures, arrangements and forms put in place for the monitoring and evaluation of the school scheme in accordance with Article 9 of Delegated Regulation (EU) 2017/40 and for checks in accordance with Articles 9 and 10 of this Regulation.
+
+3\. The Commission shall publish the Member States' strategies.
+
+## Article 3 — Member States' request for Union aid
+
+Member States shall submit by 31 January each year their request for Union aid relating to the next school year and, if applicable, update the request for Union aid relating to the ongoing school year. The request shall contain the following information:
+
+(a) information relating to the next school year:
+
+(i) the indicative allocation of aid for school fruit and vegetables and for school milk set out in the Annex to Commission Implementing Decision (EU) 2023/106 ( 2 );
+
+(ii) the willingness to transfer part of the indicative allocation for school fruit and vegetables or for school milk to the other indicative allocation, up to the maximum percentage referred to in Article 23a(4) of Regulation (EU) No 1308/2013, and the percentage and the amount of the transfer;
+
+(iii) the willingness to use more than the indicative allocation for school fruit and vegetables and/or for school milk and the maximum additional amount requested, should an additional allocation be available;
+
+(iv) the amount of the indicative allocation that is not requested, if there is no willingness to use the entire amount of the indicative allocation for school fruit and vegetables and/or for school milk;
+
+(v) the total amount requested for school fruit and vegetables and for school milk;
+
+(b) information relating to the ongoing school year:
+
+(i) the transfer between the definitive allocations referred to in Article 23a(4)(b) of Regulation (EU) No 1308/2013;
+
+(ii) if there is no willingness to use the entire amount of the definitive allocation of aid for school fruit and vegetables and/or for school milk for the ongoing school year, the amount which will not be requested for school fruit and vegetables and/or for school milk;
+
+(iii) the willingness to use more than the entire amount of the definitive allocation of aid for school fruit and vegetables and/or for school milk available to them in the ongoing school year should an additional allocation be available.
+
+The amounts referred to in this Article shall be expressed in EUR.
+
+## Article 3a — Applications for advances of aid submitted by aid applicants
+
+1\. Member States that decide to pay advances of aid, in accordance with Article 44(3b) of Regulation (EU) 2021/2116, shall determine the form, content, frequency and deadline of applications for advances of aid submitted by aid applicants.
+
+2\. Member States shall specify the documents that shall be submitted in support of applications for advances of aid, including the documents necessary to calculate the amount that the applicants are entitled to.
+
+## Article 4 — Aid application submitted by aid applicants
+
+1\. Member States shall determine the form, content and frequency of aid applications in accordance with their strategy and the rules laid down in paragraphs 2 to 6.
+
+1a. Aid applicants shall submit an aid application, including where an advance has been paid, to claim the reimbursement of the expenses incurred in the implementation of the school scheme activities. The aid application may only be submitted after full implementation of the activities the aid application relates to.
+
+2\. Aid applications relating to the supply and distribution of products shall include at least the following information:
+
+(a) the quantities of products distributed by groups of products as referred to in paragraphs 3, 4, 5 and, if applicable, 7 of Article 23 of Regulation (EU) No 1308/2013;
+
+(b) the identification of the applicant and the name and address or a unique identification number of the educational establishment or educational authority to which those quantities were distributed;
+
+(c) the number of children in the school register at the beginning of the school year in the educational establishment(s) due to receive the products covered by the school scheme during the period covered by the aid application.
+
+2a. Where an advance has been paid, the aid application shall include information on the amount of that advance.
+
+3\. Aid applications relating to the supply and distribution of products and to accompanying educational measures may cover periods from 2 weeks to the entire school year.
+
+4\. Aid applications shall be submitted within 3 months of the end of the period they cover or, in case of aid applications relating to monitoring, evaluation and publicity, of the date of delivery of the material or service.
+
+5\. If the time limit referred to in paragraph 4 is exceeded by less than 60 calendar days, the aid shall be paid but reduced as follows:
+
+(a) by 5 % if the time limit is exceeded by 1 to 30 calendar days;
+
+(b) by 10 % if the time limit is exceeded by 31 to 60 calendar days.
+
+Once the time limit is exceeded by more than 60 calendar days, the aid shall be further reduced by 1 % per each additional day, calculated over the remaining balance.
+
+6\. Member States shall specify the documents to be submitted in support of aid applications. As a minimum requirement, the amounts claimed in the aid applications shall be supported by documentary evidence showing:
+
+(a) that the quantities have been supplied or distributed and/or the materials or services have been delivered for the purpose of the school scheme; and
+
+(b) where the Member State uses a cost-based system, the price of the products, materials or services supplied, distributed or delivered, together with a receipt or proof of payment or equivalent.
+
+In the case of aid applications relating to accompanying educational measures, monitoring, evaluation and publicity, the documentary evidence shall also contain the financial breakdown by activity and details of related costs.
+
+## Article 5 — Payment of the aid, including advance payments of aid
+
+1\. Advances of aid shall only be paid by the competent authority upon presentation of an application in accordance with Article 3a of this Regulation and, where the lodging of the security referred to in Article 15b of Commission Delegated Regulation (EU) 2022/127 ( 3 ) is required, of the documentary evidence of the lodging of the security, unless the competent authority already has proof that the security has been lodged.
+
+2\. Aid for the reimbursement of the expenses incurred in the implementation of the school scheme shall only be paid by the competent authority upon presentation of an application together with the required supporting evidence in accordance with Article 4. Aid shall be paid within 3 months of the date of submission of the aid application unless administrative inquiries have been initiated.
+
+Where an advance has been paid, the payment of the aid equals the difference between the amount of the aid to be paid and the amount of the advance paid.
+
+## Article 6 — Transfers between allocations
+
+1\. Transfers between indicative allocations, according to Article 23a(4)(a) of Regulation (EU) No 1308/2013, shall be made in the request for Union aid referred to in Article 3 of this Regulation.
+
+2\. Transfers between definitive allocations, according to Article 23a(4), third subparagraph, point (b), of Regulation (EU) No 1308/2013, where no transfers between indicative allocations have been made, shall be notified either in the request for Union aid referred to in Article 3 of this Regulation or in the notification referred to in the second subparagraph of this paragraph.
+
+Where Member States make transfers of definitive allocations after 31 January in accordance with the first subparagraph of this paragraph, they shall notify them to the Commission by 31 August following the school year concerned.
+
+## Article 7 — Reallocation of Union aid
+
+1\. On the basis of the amounts of Union aid requested pursuant to Article 3 of this Regulation, the Commission shall reallocate unrequested indicative allocations or unrequested parts thereof in accordance with Article 5(5) of Regulation (EU) No 1370/2013.
+
+No additional amount shall be granted to a Member State for the group of products from which the Member State concerned has made a transfer to the other product group according to Article 6(1).
+
+If a Member State does not submit a request pursuant to Article 3, the indicative allocations of this Member State shall be regarded as unrequested.
+
+2\. The Commission may redistribute any unrequested definitive allocations or unrequested parts thereof for the ongoing school year as notified in accordance with Article 3(b) among those Member States who have notified their willingness to use more than their definitive allocations.
+
+No additional amount shall be granted to a Member State for the group of products from which the Member State concerned has made a transfer to the other product group according to Article 6(2).
+
+This redistribution shall be made within the allocation for school fruit and vegetables or for school milk, based on the indicative allocations of the requesting Member States. If applicable, amounts not requested by Member States within the same allocation may be distributed to Member States who requested additional amounts for the other allocation.
+
+3\. The amount of indicative allocation that may be reallocated to another Member State pursuant to paragraph 1 shall be based on the level of use of the definitive allocation of Union aid in the previous school year for school fruit and vegetables and for school milk respectively by that Member State. Taking into account the declarations of expenditure sent to the Commission concerning expenditure effected up to 31 December of the year prior to the submission of the request for Union aid in accordance with Article 10 of Commission Implementing Regulation (EU) No 908/2014 ( 4 ), the amount of the definitive allocation shall be calculated as follows:
+
+(a) when the use of the definitive allocation is below or equal to 50 %, no additional allocation shall be granted;
+
+(b) when the use of the definitive allocation is higher than 50 % but lower or equal to 75 %, the maximum additional allocation shall be capped at 50 % of the indicative allocation;
+
+(c) when the use of the definitive allocation is higher than 75 %, the maximum additional allocation shall not be capped.
+
+The calculation described in the first subparagraph shall not apply for Member States newly applying the school scheme or one of its components during the first two years of implementation.
+
+## Article 8 — Monitoring and evaluation
+
+1\. Monitoring as referred to in Article 9 of Delegated Regulation (EU) 2017/40 shall draw upon the data originating from management and control obligations, including those set out in Articles 4 and 5 of this Regulation.
+
+Member States shall submit their annual monitoring report referred to in Article 9(3) of Delegated Regulation (EU) 2017/40 to the Commission by 31 January of the calendar year following the end of the school year concerned.
+
+Member States shall submit their annual control report on the on-the-spot checks carried out and the related findings referred to in Article 9(4) of that Regulation to the Commission by 31 October of the calendar year following the end of the school year concerned.
+
+2\. The evaluation report or, if a Member State implements the school scheme at regional level, the corresponding number of evaluation reports referred to in Article 9(2) of Delegated Regulation (EU) 2017/40 shall concern the implementation of the school scheme in the first 5 school years of each period covered by the strategy drawn up at national or regional level pursuant to Article 23(8) of Regulation (EU) No 1308/2013.
+
+Member States shall submit their evaluation report or reports to the Commission by 1 March of the calendar year following the end of those 5 school years. The first evaluation reports shall be submitted by 1 March 2023.
+
+The minimum requirements for the format and content of the evaluation report or reports are set out in the Annex to this Regulation. Member States shall ensure that the report or reports submitted to the Commission do not include any personal data.
+
+3\. The Commission shall publish the annual monitoring reports and the evaluation reports submitted pursuant to the second subparagraph of paragraph 1 and paragraph 2.
+
+## Article 9 — Administrative checks
+
+1\. Member States shall take all necessary measures to comply with this Regulation. Those measures shall include systematic administrative checking of all applications for advances of aid referred to in Article 3a and applications for aid referred to in Article 4, prior to the payment. Member States shall check, for each application, a representative sample of the supporting documents submitted with the application.
+
+3\. Administrative checks conducted with respect to aid applied for relating to monitoring, evaluation, publicity and accompanying educational measures shall include verifying the delivery of the material and services and the veracity of the claimed expenditure.
+
+4\. In case of aid applied for relating to the supply and distribution of products and accompanying educational measures, the administrative checks conducted with respect to aid applications referred to in Article 4 shall be supplemented by on-the-spot checks in accordance with Article 10.
+
+## Article 10 — On-the-spot checks
+
+1\. On-the spot checks shall in particular include verification of:
+
+(a) the records referred to in Article 6 of Delegated Regulation (EU) 2017/40, by corroborating and complementing the administrative checks with relevant documentation including financial documents such as purchase and sales invoices, delivery notes, bank extracts or other proof of payment and their recording in the accountancy;
+
+(b) the use of the products in accordance with Regulation (EU) No 1308/2013, Delegated Regulation (EU) 2017/40 and this Regulation;
+
+(c) the implementation of accompanying educational measures to support the distribution of products, where the on-the-spot check takes place at the premises of the educational establishment or where the on-the-spot check concerns aid applied for relating to accompanying educational measures;
+
+(d) the use of suitable publicity tools, where the on-the-spot check takes place at the premises of the educational establishment.
+
+2\. On-the-spot checks shall be carried out during the school year to which they relate (period N) and/or during the following 9 months (period N+1).
+
+On-the-spot checks may take place during the implementation of the accompanying educational measures.
+
+Each on-the-spot check shall be considered completed once the corresponding control report, as referred to in paragraph 6, is issued.
+
+3\. The total number of on-the-spot checks shall cover at least 5 % of the aid claimed at national level and at least 5 % of all aid applicants dealing with the supply and distribution of products and with accompanying educational measures in respect of each school year.
+
+When the number of aid applicants in a Member State is less than 100, on-the-spot checks shall be carried out on the premises of not less than five applicants.
+
+When the number of aid applicants in a Member State is less than five, on-the-spot checks shall be carried out on the premises of all the applicants.
+
+Where the applicant, not being an educational establishment, applies for aid relating to the supply and distribution of products, the on-the-spot check carried out on the premises of that applicant shall be supplemented by on-the-spot checks on the premises of at least two educational establishments or at least 1 % of the educational establishments recorded by the applicant in accordance with Article 6 of Delegated Regulation (EU) 2017/40, whichever is the greater.
+
+Where the applicant applies for aid relating to accompanying educational measures, on-the-spot checks on the premises of the applicant may be replaced, based on a risk analysis, by on-the-spot checks at the places where accompanying measures are carried out. Based on a risk analysis, Member States shall fix the level of such on-the-spot checks.
+
+4\. On the basis of a risk analysis, the competent authority shall select those applicants to be subjected to on-the-spot checks.
+
+For that purpose, the competent authority shall take particular account of:
+
+(a) the different geographical areas;
+
+(b) the recurrent nature of errors and the findings of checks carried out in past years;
+
+(c) the amount of aid involved;
+
+(d) the type of applicants;
+
+(e) the type of accompanying educational measure, if any.
+
+5\. Provided that the purpose of the checks is not jeopardised, advance notice, strictly limited to the minimum time period necessary, may be given.
+
+6\. The competent control authority shall draw up a control report on each on-the-spot check. The report shall describe precisely the different items controlled.
+
+The control report shall be divided into the following parts:
+
+(a) a general part containing, in particular, the following information:
+
+(i) the period covered, the aid application(s) checked, the quantities of products for which the aid was applied for in case of applications relating to the supply and distribution of products, the participating educational establishments, an estimate based on the available data of the number of children for which aid was paid and the financial amount involved;
+
+(ii) the responsible persons present;
+
+(b) a part describing separately the checks carried out and containing, in particular, the following information:
+
+(i) the documents checked;
+
+(ii) the nature and extent of checks carried out;
+
+(iii) remarks and findings.
+
+All control reports shall be completed no later than 9 months after the end of the school year.
+
+## Article 11 — Recovery of undue payments
+
+For recovery of unduly paid amounts, Article 7 of Implementing Regulation (EU) No 809/2014 shall apply mutatis mutandis.
+
+## Article 12 — Publicity
+
+1\. Where Member States decide not to make use of the poster referred to in Article 12 of Delegated Regulation (EU) 2017/40, they shall clearly explain in their strategy how they will inform the public about the Union's financial contribution to the school scheme.
+
+2\. Means of communication and publicity measures referred to in Article 12 of Delegated Regulation (EU) 2017/40, as well as educational materials and tools to be used within the accompanying educational measures, shall exhibit the European flag and mention the ‘School scheme’ and unless the size of the materials and tools exclude this, the financial contribution of the Union.
+
+3\. References to the financial contribution of the Union shall receive at least the same visibility as contributions from other private or public entities supporting a Member State's school scheme.
+
+4\. Member States may continue to use existing stocks of posters and other publicity tools produced in accordance with Regulations (EU) 2016/248 and (EC) No 657/2008.
+
+## Article 13 — Notifications
+
+1\. The notifications from the Member States to the Commission shall be made by electronic means using the technical specifications for the transfer of data made available by the Commission.
+
+2\. The form and content of those notifications shall be defined on the basis of models made available by the Commission to the Member States, after informing the Committee for the Common Organisation of the Agricultural Markets.
+
+## Article 14 — Entry into force and application
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply to aid for the 2017/2018 school year and subsequent school years.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — MINIMUM REQUIREMENTS FOR THE FORMAT AND CONTENT OF THE EVALUATION REPORTS REFERRED TO IN ARTICLE 8(2)
+
+**1\. Executive summary**
+
+— Evaluation findings
+
+— Conclusions and recommendations
+
+**2\. Introduction**
+
+— Purpose and scope of the evaluation report
+
+— Short description of the evaluation process
+
+**3\. Methodology**
+
+— Evaluation design and methods used
+
+— Evaluation questions, judgement criteria, indicators
+
+— Sources of data and techniques for data collection
+
+— Any limitations and solutions found
+
+**4\. Assessment of the functioning of the school scheme**
+
+— Intervention logic or links between the identified needs, the objectives set in the strategy and the activities carried out
+
+— Main patterns or trends in participating schools/children
+
+— Supply/distribution of school fruit, vegetables, milk and milk products, and priority for fresh fruit and vegetables and for drinking milk
+
+— Accompanying educational measures
+
+— Communication and information actions
+
+— Main arrangements and provisions for implementation
+
+— Involvement of the health/nutrition authorities, other public authorities and private stakeholders associated to planning, implementation, monitoring and evaluation of the scheme
+
+**5\. Answers to the common evaluation questions**
+
+**5.1. To what extent has the school scheme increased the overall consumption of fruit, vegetables and milk and milk products by children, in line with national recommendations for a healthy diet of the intended age group?**
+
+Indicators:
+
+— Change in direct and indirect consumption of fresh fruit and vegetables by children (quantity and/or frequency)
+
+— Change in direct and indirect consumption of drinking milk by children (quantity and/or frequency)
+
+— Change in the percentage of children meeting the recommended daily intake of fruit and vegetables
+
+— Change in the percentage of children meeting the recommendations by the national authorities for health and nutrition on the daily intake of drinking milk, and other milk products without added sugar, flavouring, fruit, nuts or cocoa and in line with the nationally recommended fat and sodium levels for the intended age group
+
+**5.2. To what extent has the school scheme educated children about healthy eating habits?**
+
+Indicators:
+
+— Change in children’s consumption attitude towards fruit, vegetables, milk and milk products, in line with national recommendations for a healthy diet of the intended age group
+
+— Change in children’s knowledge of the health benefits of the consumption of fresh fruit and vegetables, drinking milk and milk products without added sugar, flavouring, fruit, nuts or cocoa and in line with the nationally recommended fat and sodium levels for the intended age group
+
+**6\. Conclusions and recommendations**
+
+— Effectiveness of the scheme
+
+— Lessons learnt
+
+— Recommendations for improvements
+
+**7\. Annexes**
+
+Technical details of the evaluation including questionnaires, references and sources.
+
+( 1 ) Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No 1306/2013 (OJ L 435, 6.12.2021, p. 187).
+
+( 2 ) Commission Implementing Decision (EU) 2023/106 of 11 January 2023 fixing the indicative allocations of Union aid to Member States for school fruit and vegetables and for school milk for the period from 1 August 2023 to 31 July 2029 (OJ L 12, 13.1.2023, p. 84).
+
+( 3 ) Commission Delegated Regulation (EU) 2022/127 of 7 December 2021 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with rules on paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro (OJ L 20, 31.1.2022, p. 95).
+
+( 4 ) Commission Implementing Regulation (EU) No 908/2014 of 6 August 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency (OJ L 255, 28.8.2014, p. 59).

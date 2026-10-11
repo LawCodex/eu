@@ -79,6 +79,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 9(b) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘9(b)</td><td>Lead in bearing shells and bushes for refrigerant-containing compressors for heating, ventilation, air conditioning and refrigeration (HVACR) applications</td><td>Applies to categories 8, 9 and 11; expires on:<table><tbody><tr><td>—</td><td>21 July 2023 for category 8 in vitro diagnostic medical devices,</td></tr>
 </tbody>
 </table>
@@ -91,3 +92,4 @@ In Annex III to Directive 2011/65/EU, point 9(b) is replaced by the following:
 </td></tr>
 <tr><td>9(b)-(I)</td><td>Lead in bearing shells and bushes for refrigerant-containing hermetic scroll compressors with a stated electrical power input equal or below 9 kW for heating, ventilation, air conditioning and refrigeration (HVACR) applications</td><td>Applies to category 1; expires on 21 July 2019.’</td></tr>
 </tbody>
+</table>

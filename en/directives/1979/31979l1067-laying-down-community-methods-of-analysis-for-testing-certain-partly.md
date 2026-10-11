@@ -770,6 +770,7 @@ From the rotation of the filtrate before and after inversion, the sucrose conten
 |  | 5.2. | Polarimeter tube, 2dm, of exactly calibrated length. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>5.3.</td><td>Polarimeter or saccarimeter:<table><tbody><tr><td>(a)</td><td>Polarimeter with sodium light or mercury green light (mercury vapour lamp with prism or the special Wratten Screen No 77 A), to be read with an accuracy of at least 0.05 angular degrees,</td></tr>
 </tbody>
 </table>
@@ -778,6 +779,7 @@ From the rotation of the filtrate before and after inversion, the sucrose conten
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5.4. | Water bath, regulated at 60 oC ± 1 oC. |
 | --- | --- | --- |

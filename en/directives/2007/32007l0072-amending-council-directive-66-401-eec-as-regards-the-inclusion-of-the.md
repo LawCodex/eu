@@ -84,21 +84,25 @@ This Directive is addressed to the Member States.
 
 (a) in the table in point 2.A of Section I ‘CERTIFIED SEED’, the following line is inserted between the heading ‘LEGUMINOSAE’ and ‘Hedysarum coronarium’:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="2">Germination</td><td colspan="8">Analytical purity</td><td colspan="3" rowspan="2">Maximum content of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column) </td><td rowspan="3">Conditions as regards content of lupin seeds of another colour and of bitter lupin seeds</td></tr>
 <tr><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Maximum content of hard seed (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content of seeds of other plant species (% by weight) </td></tr>
 <tr><td>Total</td><td>A single species</td><td>Agropyron repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td><td>Raphanus raphanistrum</td><td>Sinapis arvensis</td><td>Avena fatua, Avena ludoviciana, Avena sterilis</td><td>Cuscuta spp.</td><td>Rumex spp. other than Rumex acetosella and Rumex maritimus</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
 <tr><td>‘Galega orientalis Lam.</td><td>60</td><td>40</td><td>97</td><td>2,0</td><td>1,5</td><td></td><td></td><td>0,3</td><td>0</td><td>0</td><td>0</td><td>0 (l) (m)</td><td> 10 (n)  ’</td><td></td></tr>
 </tbody>
+</table>
 
 (b) in the table in point 2.A of Section II ‘BASIC SEED’, the following line is inserted between the heading ‘LEGUMINOSAE’ and ‘Hedysarum coronarium’:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="6">Maximum content of seeds of other plant species</td><td rowspan="2">Other standards or conditions</td></tr>
 <tr><td rowspan="2">Total (% by weight) </td><td colspan="5">Content by number in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>A single species</td><td>Rumex spp. other than Rumex acetosella and Rumex maritimus</td><td>Agropyron repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td><td></td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr>
 <tr><td>‘Galega orientalis Lam.</td><td>0,3</td><td>20</td><td>2</td><td></td><td></td><td> 0 (e)  </td><td>(j)’</td></tr>
 </tbody>
+</table>
 
 2\. in Annex III, in the table the following line is inserted between the heading ‘LEGUMINOSAE’ and ‘Hedysarum coronarium’:
 

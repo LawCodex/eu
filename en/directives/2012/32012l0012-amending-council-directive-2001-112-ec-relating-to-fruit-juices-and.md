@@ -352,6 +352,7 @@ The designation “Süßmost” may be used only in conjunction with the product
 
 **SPECIAL PROVISIONS RELATING TO FRUIT NECTARS**
 
+<table>
 <tbody><tr><td>Fruit nectars made from</td><td>Minimum juice and/or purée content (% by volume of finished product)</td></tr>
 <tr><td colspan="2">I. Fruits with acidic juice unpalatable in the natural state</td></tr>
 <tr><td>Passion fruit</td><td>25</td></tr>
@@ -402,11 +403,13 @@ The designation “Süßmost” may be used only in conjunction with the product
 <tr><td>Tomatoes</td><td>50</td></tr>
 <tr><td>Other fruits belonging to this category</td><td>50</td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 
 **MINIMUM BRIX LEVELS FOR RECONSTITUTED FRUIT JUICE AND RECONSTITUTED FRUIT PURÉE**
 
+<table>
 <tbody><tr><td>Common Name of the Fruit</td><td>Botanical Name</td><td>Minimum Brix levels</td></tr>
 <tr><td>Apple (*)</td><td>Malus domestica Borkh.</td><td>11,2</td></tr>
 <tr><td>Apricot (**)</td><td>Prunus armeniaca L.</td><td>11,2</td></tr>
@@ -429,6 +432,7 @@ The designation “Süßmost” may be used only in conjunction with the product
 <tr><td>Mandarin (*)</td><td>Citrus reticulata Blanco</td><td>11,2</td></tr>
 <tr><td colspan="3">For those products marked with an asterisk (*), which are produced as a juice, a minimum relative density is determined as such in relation to water at 20/20 °C. For those products marked with two asterisks (**), which are produced as a purée, only a minimum uncorrected Brix reading (without correction of acid) is determined. </td></tr>
 </tbody>
+</table>
 
 ’.
 

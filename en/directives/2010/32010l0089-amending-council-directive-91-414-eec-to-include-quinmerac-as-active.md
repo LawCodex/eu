@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EC.
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘316</td><td>Quinmerac CAS No: 90717-03-6  CIPAC No: 563 </td><td>7-chloro-3-methylquinoline-8-carboxylic acid</td><td>≥ 980 g/kg</td><td>1 May 2011</td><td>30 April 2021</td><td>PART A Only uses as herbicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on quinmerac, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 October 2010 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>the protection of groundwater when the active substance is applied in regions with vulnerable soil and/or climatic conditions;</td></tr>
 </tbody>
@@ -142,5 +143,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  They shall ensure that the applicant provides such confirmatory data and information to the Commission by 30 April 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

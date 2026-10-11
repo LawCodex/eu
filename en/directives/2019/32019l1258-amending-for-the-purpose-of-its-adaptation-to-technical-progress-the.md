@@ -86,6 +86,7 @@ In the Annex, Chapter I, Section 1.1 is replaced by the following:
 
 **‘1.1. SI base units**
 
+<table>
 <tbody><tr><td rowspan="2">Quantity</td><td colspan="2">Unit</td></tr>
 <tr><td>Name</td><td>Symbol</td></tr>
 <tr><td>Time</td><td>second</td><td>s</td></tr>
@@ -96,6 +97,7 @@ In the Annex, Chapter I, Section 1.1 is replaced by the following:
 <tr><td>Amount of substance</td><td>mole</td><td>mol</td></tr>
 <tr><td>Luminous intensity</td><td>candela</td><td>cd</td></tr>
 </tbody>
+</table>
 
 Definitions of SI base units:
 
@@ -131,9 +133,11 @@ The candela, symbol cd, is the SI unit of luminous intensity in a given directio
 
 **1.1.1. Special name and symbol of the SI derived unit of temperature for expressing Celsius temperature**
 
+<table>
 <tbody><tr><td rowspan="2">Quantity</td><td colspan="2">Unit</td></tr>
 <tr><td>Name</td><td>Symbol</td></tr>
 <tr><td>Celsius temperature</td><td>degree Celsius</td><td>°C</td></tr>
 </tbody>
+</table>
 
 Celsius temperature t is defined as the difference t = T – T0 between the two thermodynamic temperatures T and T 0 where T 0 = 273,15 K. An interval or difference of temperature may be expressed either in kelvins or in degrees Celsius. The unit “degree Celsius” is equal to the unit “kelvin”.’

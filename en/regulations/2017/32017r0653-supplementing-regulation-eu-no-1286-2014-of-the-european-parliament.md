@@ -1,0 +1,2279 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/653 of 8 March 2017 supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs) by laying down regulatory technical standards with regard to the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents (Text with EEA relevance. )"
+identifier: "32017R0653"
+eli: "http://data.europa.eu/eli/reg_del/2017/653/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2017-03-08
+entry_into_force: 2017-12-15
+last_amended: 2023-01-01
+consolidated_version: "02017R0653-20230101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0653-20230101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/653 of 8 March 2017 supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs) by laying down regulatory technical standards with regard to the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents (Text with EEA relevance. )
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/653**
+
+**of 8 March 2017**
+
+**supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs) by laying down regulatory technical standards with regard to the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2018/977 of 4 April 2018 </td><td> L 176</td><td>1</td><td>12.7.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1866 of 3 July 2019 </td><td> L 289</td><td>4</td><td>8.11.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2268 of 6 September 2021 </td><td> L 455I</td><td>1</td><td>20.12.2021</td></tr>
+<tr><td></td><td>Amended by:  COMMISSION DELEGATED REGULATION (EU) 2022/975 of 17 March 2022 </td><td> L 167</td><td>35</td><td>24.6.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/975 of 17 March 2022 </td><td> L 167</td><td>35</td><td>24.6.2022</td></tr>
+<tr><td> M6</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1666 of 13 June 2022 </td><td> L 251</td><td>3</td><td>29.9.2022</td></tr>
+</table>
+
+C1
+
+C2
+
+C3
+
+C5
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/653**
+
+**of 8 March 2017**
+
+**supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs) by laying down regulatory technical standards with regard to the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — CONTENT AND PRESENTATION OF THE KEY INFORMATION DOCUMENT
+
+### Article 1 — General information section
+
+The section in the key information document that relates to the identity of the PRIIP manufacturer and its competent authority shall contain all of the following information:
+
+(a) the name of the PRIIP assigned by the PRIIP manufacturer and, where present, the PRIIP's International Securities Identification Number or Unique Product Identifier;
+
+(b) the legal name of the PRIIP manufacturer;
+
+(c) the PRIIP manufacturer's specific website address providing retail investors with information on how to get in contact with the PRIIP manufacturer, and a telephone number;
+
+(d) the name of the competent authority responsible for the supervision of the PRIIP manufacturer in relation to the key information document;
+
+(e) the date of production or, where the key information document has been subsequently revised, the date of the latest revision of the key information document;
+
+(f) where applicable, in cases where the PRIIP manufacturer forms part of a group of companies for legal, administrative or marketing purposes, the name of that group;
+
+(g) where the PRIIP takes the form of an undertaking for collective investment in transferable securities (UCITS) or an alternative investment fund (AIF), the identification of the UCITS or AIF including the share class or investment compartment thereof, stated prominently;
+
+(h) authorisation details, where applicable;
+
+(i) where the PRIIP takes the form of a UCITS or AIF and in cases where a UCITS is managed by a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC or where it is an investment company as referred to in Article 27 of that Directive (collectively ‘UCITS management company’) which is exercising in respect of that UCITS rights under Article 16 of that Directive, or in cases where an AIF is managed by an alternative investment fund manager (AIFM) which is exercising in respect of that AIF rights under Articles 31, 32 and 33 of Directive 2011/61/EU of the European Parliament and of the Council ( 1 ), an additional statement in respect of that fact shall be included.
+
+Information in the section referred to in the first subparagraph shall also include the comprehension alert referred to in Article 8(3)(b) of Regulation (EU) No 1286/2014 where the PRIIP meets one of the following conditions:
+
+(a) it is an insurance-based investment product which does not meet the requirements laid down in Article 30(3)(a) of Directive (EU) 2016/97 of the European Parliament and of the Council ( 2 );
+
+(b) it is a PRIIP which does not meet the requirements laid down in points (i)-(vi) of Article 25(4)(a) of Directive 2014/65/EU of the European Parliament and of the Council. ( 3 )
+
+For the purposes of the first paragraph, point (g), in the case of an investment compartment or share class, the name of the UCITS or AIF shall follow the compartment or share class name. Where a code number identifying the UCITS or AIF, investment compartment or share class exists, it shall form part of the identification of the UCITS or AIF.
+
+### Article 2 — ‘What is this product?’ section
+
+1\. Information relating to the type of the PRIIP in the section entitled ‘What is this product?’ of the key information document shall describe its legal form.
+
+2\. Information stating the objectives of the PRIIP and the means for achieving those objectives in the section entitled ‘What is this product?’ of the key information document shall be summarised in a brief, clear and easily understandable manner. That information shall identify the main factors upon which return depends, the underlying investment assets or reference values, and how the return is determined, as well as the relationship between the PRIIP's return and that of the underlying investment assets or reference values. That information shall reflect the relationship between the recommended holding period and the risk and reward profile of the PRIIP.
+
+Where the number of assets or reference values referred to in the first subparagraph is such that specific references to all of them cannot be provided within a key information document, only the market segments or instrument types in respect of the underlying investment assets or reference values shall be identified.
+
+2a. Where the PRIIP takes the form of a UCITS or an AIF, the information in the section entitled ‘What is this product?’ of the key information document shall cover those essential features of a UCITS or AIF about which a retail investor shall be informed, even where those features do not form part of the description of objectives and investment policy in the prospectus of a UCITS as referred to in Article 68 of Directive 2009/65/EC or the description of the investment strategy and objectives of the AIF referred to in Article 23(1), point (a), of Directive 2011/61/EU, including:
+
+(a) the main categories of eligible financial instruments that are the object of investment;
+
+(b) the possibility that the retail investor may redeem units of UCITS or AIF on demand, qualifying that statement with an indication as to the frequency of dealing in units, or where applicable a statement that there is no possibility to redeem units on demand;
+
+(c) whether the UCITS or AIF has a particular target in relation to any industrial, geographic or other market sectors or specific classes of assets;
+
+(d) whether the UCITS or AIF allows for discretionary choices in regards to the particular investments that are to be made, and whether this approach includes or implies a reference to a benchmark and if so, which one;
+
+(e) whether dividend income is distributed or reinvested.
+
+For the purposes of the first subparagraph, point (d), where a reference to a benchmark is implied, the degree of freedom available in relation to that benchmark shall be indicated, and where the UCITS or AIF has an index tracking objective, this shall be stated.
+
+2b. The information referred to in paragraph 2a shall include the following, where relevant:
+
+(a) where the UCITS or AIF invests in debt securities, an indication of whether those debt securities are issued by corporate bodies, governments or other entities, and, where applicable, any minimum rating requirements;
+
+(b) where the UCITS or AIF is a structured investment fund, an explanation in simple terms of all elements necessary for a correct understanding of the pay-off and the factors that are expected to determine performance, including references, where necessary, to the details on the algorithm and its workings which appear in the prospectus of the UCITS or the description of the investment strategy and objectives of the AIF;
+
+(c) where the choice of assets is guided by specific criteria, an explanation of those criteria, such as ‘growth’, ‘value’ or ‘high dividends’;
+
+(d) where specific asset management techniques are used, which may include hedging, arbitrage or leverage, an explanation in simple terms of the factors that are expected to determine the performance of the UCITS or AIF.
+
+2c. The information referred to in paragraphs 2a and 2b shall distinguish between the broad categories of investments as specified in paragraph 2a, points (a) and (c), and paragraph 2b, point (a), and the approach to those investments to be adopted by a UCITS management company or an AIFM as specified in paragraph 2a, point (d) and paragraph 2b, points (b), (c) and (d).
+
+The section entitled ‘What is this product?’ of the key information document may contain other elements than those listed in paragraphs 2a and 2b, including the description of the UCITS or AIF’s investment strategy, where those elements are necessary to adequately describe the objectives and investment policy of the UCITS or AIF.
+
+3\. The description of the type of retail investor to whom the PRIIP is intended to be marketed in the section entitled ‘What is this product?’ of the key information document shall include information on the target retail investors identified by the PRIIP manufacturer, in particular depending on the needs, characteristics and objectives of the type of client for whom the PRIIPs is compatible. This determination shall be based upon the ability of retail investors to bear investment loss and their investment horizon preferences, their theoretical knowledge of, and past experience with PRIIPs, the financial markets as well as the needs, characteristics and objectives of potential end clients.
+
+4\. The details of insurance benefits in the section entitled ‘What is this product?’ of the key information document shall include in a general summary, namely, the key features of the insurance contract, a definition of each benefit included, with an explanatory statement indicating that the value of those benefits is shown in the section entitled ‘What are the risks and what I could get in return’ and information which reflects the typical biometric characteristics of the target retail investors, showing the overall premium, the biometric risk premium that forms part of that overall premium and either the impact of the biometric risk premium on the investment return at the end of the recommended holding period or the impact of the cost part of the biometric risk premium taken into account in the recurring costs of the ‘Costs over the time table’ calculated in accordance with Annex VII. Where the premium is paid in the form of a single lump sum, the details shall include the amount invested. Where the premium is paid periodically, the number of periodic payments, an estimation of the average biometric risk premium as a percentage of the annual premium, and an estimation of the average amount invested shall be included in the information.
+
+The details referred to in the first subparagraph shall also include an explanation of the impact of the insurance premium payments, equivalent to the estimated value of insurance benefits, on the returns of the investment for the retail investor.
+
+5\. The information relating to the term of the PRIIP in the section entitled ‘What is this product?’ of the key information document shall include all of the following:
+
+(a) the maturity date of the PRIIP or an indication that there is no maturity date;
+
+(b) an indication of whether the PRIIP manufacturer is entitled to terminate the PRIIP unilaterally;
+
+(c) a description of the circumstances under which the PRIIP can be automatically terminated, and the termination dates, if known.
+
+6\. Where the PRIIP takes the form of a UCITS or an AIF, the identification and explanation of risks referred to in Annexes II and III to this Regulation shall be consistent with the internal process for identifying, measuring, managing and monitoring risk adopted by the UCITS’ management company in accordance with Directive 2009/65/EC or by AIFMs in accordance with Directive 2011/61/EU. Where a management company manages more than one UCITS or where an AIFM manages more than one AIF, the risks shall be identified and explained in a consistent manner.
+
+7\. Where the PRIIP takes the form of a UCITS or an AIF, the section entitled ‘What is this product?’ of the key information document shall contain the following information for every Member State in which the UCITS or AIF is marketed:
+
+(a) the name of the depositary;
+
+(b) where and how to obtain further information about the UCITS or AIF, copies of the UCITS’ prospectus or copies of the description of the investment strategy and objectives of the AIF, the latest annual report and any subsequent half-yearly report of the UCITS as referred to in Article 68(1), points (b) and (c), of Directive 2009/65/EC, or the latest annual report of the AIF as referred to in Article 22 of Directive 2011/61/EU, stating in which language or languages those documents are available, and that they may be obtained free of charge;
+
+(c) where and how to obtain other practical information, including where to find the latest prices of units.
+
+### Article 3 — ‘What are the risks and what could I get in return?’ section
+
+1\. In the section entitled ‘What are the risks and what could I get in return?’ of the key information document, PRIIP manufacturers shall apply the methodology for the presentation of risk as set out in Annex II, include the technical aspects for the presentation of the summary risk indicator as set out in Annex III and comply with the technical guidance, the formats and the methodology for the presentation of performance scenarios, as set out in Annexes IV and V.
+
+2\. In the section entitled ‘What are the risks and what could I get in return?’ of the key information document, PRIIP manufacturers shall include the following:
+
+(a) the level of risk of the PRIIP in the form of a risk class by using a summary risk indicator having a numerical scale from 1 to 7;
+
+(b) an explicit reference to any illiquid PRIIP or PRIIP with materially relevant liquidity risk, as defined in Part 4 of Annex II, in the form of a warning to this effect in the presentation of the summary risk indicator;
+
+(c) a narrative below the summary risk indicator explaining that if a PRIIP is denominated in a currency other than the official currency of the Member State where the PRIIP is being marketed, the return, when expressed in the official currency of the Member State where the PRIIP is being marketed, may change depending on currency fluctuations;
+
+(d) a brief description of the PRIIP's risk and reward profile and a warning to the effect that the risk of the PRIIP may be significantly higher than the one represented in the summary risk indicator where the PRIIP is not held to maturity or for the recommended holding period, where appropriate;
+
+(e) for PRIIPs with contractually agreed-upon early exit penalties or long disinvestment notice periods, a reference to the relevant underlying conditions in the section ‘How long should I hold it and can I take money out early?’;
+
+(f) an indication of the possible maximum loss, and information that the investment may be lost if it is not protected or where the PRIIP manufacturer is unable to pay out, or that necessary additional investment payments to the initial investment may be required and that the total loss may significantly exceed the total initial investment.
+
+3\. PRIIP manufacturers shall include four appropriate performance scenarios, as set out in Annex V in the section entitled ‘What are the risks and what could I get in return?’ of the key information document. Those four performance scenarios shall represent a stress scenario, an unfavourable scenario, a moderate scenario and a favourable scenario.
+
+4\. For insurance-based investment products, an additional performance scenario shall be included in the section entitled ‘What are the risks and what could I get in return?’ of the key information document reflecting the insurance benefit the beneficiary receives where a covered insured event occurs.
+
+5\. For PRIIPs that are futures, call options and put options traded on a regulated market or on a third-country market considered to be equivalent to a regulated market in accordance with Article 28 of Regulation (EU) No 600/2014 of the European Parliament and of the Council ( 4 ), performance scenarios shall be included in the form of pay-off structure graphs as set out in Annex V in the section entitled ‘What are the risks and what could I get in return?’ of the key information document.
+
+### Article 4 — ‘What happens if [the name of the PRIIP manufacturer] is unable to pay out?’ section
+
+PRIIP manufacturers shall include the following in the section entitled ‘What happens if [the name of the PRIIP manufacturer] is unable to pay out?’ of the key information document:
+
+(a) an indication whether the retail investor may face a financial loss due to the default of the PRIIP manufacturer or to the default of an entity other than the PRIIP manufacturer, and the identity of that entity;
+
+(b) a clarification whether the loss referred to in point (a) is covered by an investor compensation or guarantee scheme, and whether there are any limitations or conditions to that cover.
+
+### Article 5 — ‘What are the costs?’ section
+
+1\. PRIIP manufacturers shall apply the following in the section entitled ‘What are the costs?’ of the key information document:
+
+(a) the methodology for the calculation of costs set out in Annex VI;
+
+(b) the ‘Costs over time’ and ‘Composition of costs’ tables to information on costs, as set out in Annex VII in accordance with the relevant technical guidance therein.
+
+2\. In the ‘Costs over time’ table in the section entitled ‘What are the costs?’ of the key information document, PRIIP manufacturers shall specify the summary cost indicator of the total aggregated costs of the PRIIP as a single number in monetary and percentage terms for the different time periods set out in Annex VI.
+
+A prominent warning shall be added, where applicable, regarding the additional costs that may be charged by persons advising on, or selling, the PRIIP.
+
+3\. In the ‘Composition of costs’ table in the section titled ‘What are the costs?’ of the key information document, PRIIP manufacturers shall specify summary indicators of the following types of costs:
+
+(a) any one-off costs, such as entry and exit costs;
+
+(b) any recurring costs, separating portfolio transaction costs and other recurring costs;
+
+(c) any incidental costs, such as performance fees or carried interest.
+
+4\. PRIIP manufacturers shall describe each of the different costs included in the ‘Composition of costs’ table in the section titled ‘What are the costs?’ of the key information document, in accordance with Annex VII, and shall specify where and how those costs may differ from the actual costs the retail investor may incur, and where and how such costs may depend on whether the retail investor does or does not exercise certain options.
+
+### Article 6 — ‘How long should I hold it and can I take my money out early?’ section
+
+PRIIP manufacturers shall include the following in the section entitled ‘How long should I hold it and can I take my money out early?’ of the key information document:
+
+(a) a brief description of the reasons for the selection of the recommended, or the minimum required, holding period;
+
+(b) a description of the features of the disinvestment procedure and when disinvestment is possible, including an indication of the impact of cashing-in early on the risk or performance profile of the PRIIP, or on the applicability of capital guarantees;
+
+(c) information about any fees and penalties which are incurred for disinvestments prior to maturity or any other specified date other than the recommended holding period, including a cross reference to the information on costs to be included in the key information document pursuant to Article 5 and a clarification of the impact of such fees and penalties for different holding periods.
+
+### Article 7 — ‘How can I complain?’ section
+
+PRIIP manufacturers shall provide the following information in the section entitled ‘How can I complain?’ of the key information document, in summary format:
+
+(a) steps to be followed for lodging a complaint about the product or about the conduct of the PRIIP manufacturer or the person advising on, or selling, the product;
+
+(b) a link to the relevant website for such complaints;
+
+(c) an up-to-date postal address and an email address to which such complaints may be submitted.
+
+### Article 8 — ‘Other relevant information’ section
+
+1\. PRIIP manufacturers shall indicate in the section entitled ‘Other relevant information’ of the key information document any additional information documents that may be provided, and whether such additional information documents are made available based on a legal requirement or only at the request of the retail investor.
+
+2\. The information included in the section entitled ‘Other relevant information’ of the key information document may be provided in summary format, including a link to the website where further details other than the documents referred to in paragraph 1 are made available.
+
+3\. For UCITS as defined in point 1(a) of Annex VIII, AIFs as defined in point 1(b) of that Annex, or unit-linked insurance-based investment products as defined in point 1(c) of that Annex, the section titled ‘Other relevant information’ of the key information document shall include:
+
+(a) a link to the website, or a reference to a document, where the information about past performance published by the PRIIP manufacturer in accordance with Annex VIII is made available;
+
+(b) the number of years for which past performance data is presented.
+
+For PRIIPs referred to in Annex II, Part 1, point 5, that are open-ended funds, or other PRIIPs open to subscription, previous performance scenario calculations shall be published on a monthly basis and the section titled ‘Other relevant information’ shall state where those calculations can be found.
+
+### Article 9 — Template
+
+PRIIP manufacturers shall present the key information document by means of the template laid down in Annex I. The template shall be completed in accordance with the requirements set out in this Delegated Regulation and in Regulation (EU) No 1286/2014.
+
+## CHAPTER II — SPECIFIC PROVISIONS ON THE KEY INFORMATION DOCUMENTS BY PRIIPs OFFERING A RANGE OF OPTIONS FOR INVESTMENT
+
+### Article 10 — PRIIPs offering a range of options for investment
+
+Where a PRIIP offers a range of underlying investment options, and the information regarding those underlying investment options cannot be provided within a single, concise, stand-alone key information document, PRIIP manufacturers shall produce one of the following:
+
+(a) a key information document for each underlying investment option within the PRIIP, in accordance with Chapter I, including information about the PRIIP as a whole, with each key information document reflecting the case that the retail investor invests in one investment option only;
+
+(b) a generic key information document describing the PRIIP in accordance with Chapter I, unless otherwise specified in Articles 11 to 14, including a description of where the specific information on each underlying investment option can be found.
+
+### Article 11 — ‘What is this product’ section in the generic key information document
+
+In the section entitled ‘What is this product’ by way of derogation from paragraphs 2 and 3 of Article 2, PRIIP manufacturers shall specify the following:
+
+(a) a description of the types of underlying investment options, including the market segments or instrument types, as well as the main factors upon which return depends;
+
+(b) a statement indicating that the type of investors to whom the PRIIP is intended to be marketed varies on the basis of the underlying investment option;
+
+### Article 12 — ‘What are the risks and what could I get in return?’ section in the generic key information document
+
+1\. In the section entitled ‘What are the risks and what could I get in return?’, by way of derogation from paragraphs 2(a) and 3 of Article 3, PRIIP manufacturers shall specify the following:
+
+(a) the range of risk classes of all underlying investment options offered within the PRIIP by using a summary risk indicator having a numerical scale from 1 to 7, as set out in Annex III,
+
+(b) a statement indicating that the risk and return of the investment varies on the basis of the underlying investment option;
+
+(c) a brief description on how the performance of the PRIIP as a whole depends on the underlying investment options;
+
+### Article 13 — ‘What are the costs?’ section in the generic key information document
+
+In the section titled ‘What are the costs?’, by way of derogation from Article 5(1), point (b), PRIIP manufacturers shall specify the following:
+
+(a) where the costs of the PRIIP other than the costs for the underlying investment option cannot be provided in a single figure, including where those costs vary depending on the underlying investment option selected:
+
+(i) the range of costs for the PRIIP in the ‘Costs over time’ and ‘Composition of costs’ tables set out in Annex VII;
+
+(ii) a statement indicating that the costs to the retail investor vary on the basis of the underlying investment options;
+
+(b) where the costs of the PRIIP other than the costs for the underlying investment options can be provided in a single figure:
+
+(i) those costs shown separately from the range of costs for the underlying investment options offered by the PRIIP in the ‘Costs over time’ and ‘Composition of costs’ tables set out in Annex VII;
+
+(ii) a statement indicating that the total costs to the retail investor consist of a combination of the costs for the underlying investment options chosen and other costs of the PRIIP and vary on the basis of the underlying investment options.
+
+### Article 14 — Specific information on each underlying investment option
+
+The specific information on each underlying investment option, referred to in Article 10, point (b), shall be provided in a specific information document supplementing the generic key information document. PRIIP manufacturers shall include for each underlying investment option all of the following:
+
+(a) a comprehension alert, where relevant;
+
+(b) the investment objectives, the means for achieving them, and the intended target market as referred to in Article 2(2) and (3);
+
+(c) a summary risk indicator and narrative, and performance scenarios, as referred to in Article 3;
+
+(d) a presentation of the costs, in accordance with Article 5, including a statement on whether or not those costs include all of the costs of the PRIIP in the case that the retail investor invests in that specific investment option only;
+
+(e) for underlying investment options that are UCITS as defined in point 1(a) of Annex VIII, AIFs as defined in point 1(b) of that Annex, or unit-linked insurance-based investment products as defined in point 1(c) of that Annex, information about past performance as required by Article 8(3).
+
+The information referred to in points (a) to (e) of this paragraph shall follow the structure of the relevant parts of the template laid down in Annex I.
+
+## CHAPTER IIa — SPECIFIC PROVISIONS ON THE KEY INFORMATION DOCUMENTS BY CERTAIN UCITS AND AIFs
+
+### Article 14a — Investment compartments of UCITS or AIFs
+
+1\. Where a UCITS or AIF consists of two or more investment compartments, a separate key information document shall be produced for each individual compartment.
+
+2\. Each key information document referred to in paragraph 1 shall contain, in the section entitled ‘What is this product?’, the following information:
+
+(a) a statement that the key information document describes a compartment of a UCITS or AIF, and, where applicable, that the prospectus of the UCITS or the description of the investment strategy and objectives of the AIF and periodic reports are prepared for the entire UCITS or AIF named at the beginning of the key information document;
+
+(b) whether or not the assets and liabilities of each compartment are segregated by law and how this might affect the investor;
+
+(c) whether or not the retail investor has the right to exchange his investment in units in one compartment for units in another compartment, and if so, where to obtain information about how to exercise that right.
+
+3\. Where the UCITS management company or the AIFM sets a charge for the retail investor to exchange his investment in accordance with paragraph 2, point (c), and that charge differs from the standard charge for buying or selling units, that charge shall be stated separately in the section entitled ‘What are the costs?’ of the key information document.
+
+### Article 14b — Share classes of UCITS or AIFs
+
+1\. Where a UCITS or AIF consists of more than one class of units or shares, the key information document shall be prepared for each class of units or shares.
+
+2\. The key information document pertinent to two or more classes of the same UCITS or AIF may be combined into a single key information document, provided that the resulting document fully complies with all requirements on length, language and presentation of the key information document.
+
+3\. The UCITS management company or AIFM may select a class to represent one or more other classes of the UCITS or AIF, provided the choice is fair, clear and not misleading to potential retail investors in those other classes. In such cases, the section entitled ‘What are the risks and what could I get in return?’ of the key information document shall contain the explanation of material risk applicable to any of the other classes being represented. A key information document based on the representative class may be provided to retail investors in the other classes.
+
+4\. Different classes shall not be combined into a composite representative class as referred to in paragraph 3.
+
+5\. The UCITS management company or AIFM shall keep a record of which other classes are represented by the representative class referred to in paragraph 3 and the grounds justifying that choice.
+
+6\. Where applicable, the section entitled ‘What is this product?’ of the key information document shall be supplemented by an indication of which class has been selected as representative, using the term by which it is designated in the UCITS’ prospectus or in the description of the investment strategy and objectives of the AIF.
+
+7\. That section shall also indicate where retail investors can obtain information about the other classes of the UCITS or AIF that are marketed in their own Member State.
+
+### Article 14c — UCITS or AIFs as fund of funds
+
+1\. Where the UCITS invests a substantial proportion of its assets in other UCITS or other collective investment undertakings as referred to in Article 50(1), point (e), of Directive 2009/65/EC, the description of the objectives and investment policy of that UCITS in the key information document shall include a brief explanation of how the other collective undertakings are to be selected on an ongoing basis. Where a UCITS is a fund of hedge funds the key information document shall include information about the purchase of non-EU AIFs that are not under supervision.
+
+2\. Where the AIF invests a substantial proportion of its assets in other UCITS or AIFs, paragraphs 1 and 2 shall apply mutatis mutandis.
+
+### Article 14d — Feeder UCITS
+
+1\. For feeder UCITS, as defined in Article 58 of Directive 2009/65/EC, the key information document shall contain, in the section entitled ‘What is this product?’ the following information specific to the feeder UCITS:
+
+(a) a statement that the master UCITS’ prospectus, key information document, and periodic reports and accounts are available to retail investors of the feeder UCITS upon request, how they may be obtained, and in which language(s);
+
+(b) whether the items listed in point (a) of this paragraph are available in paper copies only or in other durable media, and whether any fee is payable for items not subject to free delivery in accordance with Article 63(5) of Directive 2009/65/EC;
+
+(c) where the master UCITS is established in a different Member State to the feeder UCITS, and where this may affect the feeder UCITS’s tax treatment, a statement to this effect;
+
+(d) information about the proportion of the feeder UCITS’ assets which is invested in the master UCITS;
+
+(e) a description of the master UCITS’ objectives and investment policy, supplemented, as appropriate, by either of the following:
+
+(i) an indication that the feeder UCITS’ investment returns will be very similar to those of the master UCITS; or
+
+(ii) an explanation of how and why the investment returns of the feeder and master UCITS may differ.
+
+2\. Where the risk and reward profile of the feeder UCITS differs in any material respect from that of the master UCITS, that fact and the reason for it shall be explained in the section entitled ‘What are the risks and what could I get in return?’ of the key information document.
+
+3\. Any liquidity risk and the relationship between purchase and redemption arrangements for the master and feeder UCITS shall be explained in the section entitled ‘What are the risks and what could I get in return?’ of the key information document.
+
+### Article 14e — Structured UCITS or AIF
+
+Structured investment funds are UCITS or AIFs which provide retail investors, at certain predetermined dates, with algorithm-based payoffs that are linked to the performance, or to the realisation of price changes or other conditions, of financial assets, indices or reference portfolios or UCITS or AIFs with similar features.
+
+## CHAPTER III — REVIEW AND REVISION OF THE KEY INFORMATION DOCUMENT
+
+### Article 15 — Review
+
+1\. PRIIP manufacturers shall review the information contained in the key information document every time there is a change that significantly affects or is likely to significantly affect the information contained in the key information document and, at least, every 12 months following the date of the initial publication of the key information document.
+
+2\. The review referred to in paragraph 1 shall verify whether the information contained in the key information document remains accurate, fair, clear, and non-misleading. In particular, it shall verify the following:
+
+(a) whether the information contained in the key information document is compliant with the general form and content requirements under Regulation (EU) No 1286/2014, or with the specific form and content requirements laid down in this Delegated Regulation;
+
+(b) whether the PRIIP's market risk or credit risk measures have changed, where such a change has the combined effect that necessitates the PRIIP's move to a different class of the summary risk indicator from that attributed in the key information document subject to review;
+
+(c) whether the mean return for the PRIIP's moderate performance scenario, expressed as an annualised percentage return, has changed by more than five percentage points;
+
+(d) where the performance scenarios are based on appropriate benchmarks or proxies, the consistency of the benchmark or proxy with the objectives of the PRIIP.
+
+3\. For the purposes of paragraph 1, PRIIP manufacturers shall establish and maintain adequate processes throughout the life of the PRIIP where it remains available to retail investors to identify without undue delay any circumstances which might result in a change that affects or is likely to affect the accuracy, fairness or clarity of the information contained in the key information document.
+
+### Article 16 — Revision
+
+1\. PRIIP manufacturers shall without undue delay revise the key information document where a review pursuant to Article 15 concludes that changes to the key information document need to be made.
+
+2\. PRIIP manufacturers shall ensure that all sections of the key information document affected by such changes are updated.
+
+3\. The PRIIP manufacturer shall publish the revised key information document on its website.
+
+## CHAPTER IV — DELIVERY OF THE KEY INFORMATION DOCUMENT
+
+### Article 17 — Conditions on good time
+
+1\. The person advising on or selling a PRIIP shall provide the key information document sufficiently early so as to allow retail investors enough time to consider the document before being bound by any contract or offer relating to that PRIIP, regardless of whether or not the retail investor is provided with a cooling off period.
+
+2\. For the purposes of paragraph 1, the person advising on or selling a PRIIP shall assess the time needed by each retail investor to consider the key information document, taking into account the following:
+
+(a) the knowledge and experience of the retail investor with the PRIIP or with PRIIPs of a similar nature or with risks similar to those arising from the PRIIP;
+
+(b) the complexity of the PRIIP;
+
+(c) where the advice or sale is at the initiative of the retail investor, the urgency explicitly expressed by the retail investor of concluding the proposed contract or offer.
+
+## CHAPTER IVa — CROSS-REFERENCES
+
+### Article 17a — Use of cross-references to other sources of information
+
+Without prejudice to Article 6 of Regulation (EU) No 1286/2014, cross-references to other sources of information, including the prospectus and annual or half-yearly reports, may be included in the key information document, provided that all information fundamental for the retail investors’ understanding of the essential elements of the investment is included in the key information document.
+
+Cross-references shall be permitted to the website of the PRIIP or the PRIIP manufacturer, including a part of any such website containing the prospectus and the periodic reports.
+
+Cross-references referred to in the first subparagraph shall direct the retail investor to the specific section of the relevant source of information. Several different cross-references may be used within the key information document but they shall be kept to a minimum.
+
+### Article 18 — Final Provision
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2018.
+
+Article 14(2) shall apply until 31 December 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — TEMPLATE FOR THE KEY INFORMATION DOCUMENT
+
+PRIIP manufacturers shall comply with the section order and titles set out in the template, which however does not fix parameters regarding the length of individual sections and the placing of page breaks, and is subject to an overall maximum of three sides of A4-sized paper when printed.
+
+<table>
+<tbody><tr><td colspan="2">Key Information Document</td></tr>
+<tr><td colspan="2">Purpose This document provides you with key information about this investment product. It is not marketing material. The information is required by law to help you understand the nature, risks, costs, potential gains and losses of this product and to help you compare it with other products. </td></tr>
+<tr><td colspan="2">Product [Name of Product]  [Name of PRIIP manufacturer]  (where applicable) [ISIN or UPI]  [website for PRIIP manufacturer]  [Call [telephone number] for more information]  [[Name of Competent Authority] is responsible for supervising [Name of PRIIP Manufacturer] in relation to this Key Information Document]  (where applicable) [This PRIIP is authorised in [name of Member State]]  (where applicable) [[Name of UCITS management company] is authorised in [name of Member State] and regulated by [identity of competent authority]  (where applicable) [Name of AIFM] is authorised in [name of Member State] and regulated by [identity of competent authority]  [date of production of the KID] </td></tr>
+<tr><td colspan="2">[Alert (where applicable) You are about to purchase a product that is not simple and may be difficult to understand]</td></tr>
+<tr><td colspan="2">What is this product? Type  Term  Objectives  Intended retail investor  [Insurance benefits and costs] </td></tr>
+<tr><td colspan="2">What are the risks and what could I get in return?</td></tr>
+<tr><td>Risk</td><td>Description of the risk-reward profile</td></tr>
+<tr><td>Indicator</td><td>Summary Risk Indicator SRI template and narratives as set out in Annex III, including on possible maximum loss: can I lose all invested capital? Do I bear the risk of incurring additional financial commitments or obligations? Is there capital protection against market risk? </td></tr>
+<tr><td>Performance</td><td>Performance Scenario templates and narratives as set out in Annex V</td></tr>
+<tr><td>Scenarios</td><td>Scenarios including where applicable information on conditions for returns to retail investors or built-in performance caps, and statement that the tax legislation of the retail investor’s home Member State may have an impact on actual payout</td></tr>
+<tr><td colspan="2">What happens if [PRIIP manufacturer] is unable to pay out? Information on whether there is a guarantee scheme, the name of the guarantor or investor compensation scheme operator, including the risks covered and those not covered. </td></tr>
+<tr><td colspan="2">What are the costs? Narratives on information to be included on other distribution costs </td></tr>
+<tr><td>Costs over Time</td><td>Template and narratives according to Annex VII</td></tr>
+<tr><td>Composition of Costs</td><td>Template and narratives according to Annex VI</td></tr>
+<tr><td colspan="2">How long should I hold it and can I take money out early?</td></tr>
+<tr><td colspan="2">Recommended [required minimum] holding period: [x]</td></tr>
+<tr><td colspan="2">Information on whether one can disinvest before maturity, the conditions for this, and applicable fees and penalties if any. Information on the consequences of cashing-in before the end of the term or before the end of the recommended holding period.</td></tr>
+<tr><td colspan="2">How can I complain?</td></tr>
+<tr><td colspan="2">Other relevant information Where applicable a short description of the information published on past performance </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**METHODOLOGY FOR THE PRESENTATION OF RISK**
+
+**PART 1**
+
+**Market risk assessment**
+
+**Determination of the market risk measure (MRM)**
+
+1\. Market risk is measured by the annualised volatility corresponding to the value-at-risk (VaR) at a confidence level of 97,5 % over the recommended holding period, unless stated otherwise. The VaR is the percentage of the amount invested, that is returned to the retail investor.
+
+2\. The PRIIP shall be assigned a MRM class in accordance with the following table:
+
+MRM class VaR-equivalent volatility (VEV)
+
+1 &lt; 0,5 %
+
+2 ≥ 0,5 % and &lt; 5,0 %
+
+3 ≥ 5,0 % and &lt; 12 %
+
+4 ≥ 12 % and &lt; 20 %
+
+5 ≥ 20 % and &lt; 30 %
+
+6 ≥ 30 % and &lt; 80 %
+
+7 ≥ 80 %
+
+**Specification of PRIIP categories for the purposes of the market risk assessment**
+
+3\. For the purposes of determining market risk, PRIIPs are divided into four categories.
+
+4\. Category 1 covers the following:
+
+(a) PRIIPs where investors could lose more than the amount they invested;
+
+(b) PRIIPs that fall within one of the categories referred to in items 4 to 10 of Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council ( 5 );
+
+(c) PRIIPs or underlying investments of PRIIPs which are priced on a less regular basis than monthly, or which do not have an appropriate benchmark or proxy, or whose appropriate benchmark or proxy is priced on a less regular basis than monthly.
+
+5\. Category 2 covers PRIIPs which, either directly or on a synthetic basis, offer non-leveraged exposure to the prices of underlying investments, or a leveraged exposure on underlying investments that pays a constant multiple of the prices of those underlying investments, where at least 2 years of historical daily prices, or 4 years of historical weekly prices, or 5 years of monthly prices are available for the PRIIP, or where existing appropriate benchmarks or proxies are available, provided that such benchmarks or proxies fulfil the same criteria for the length and frequency of the price history.
+
+6\. Category 3 covers PRIIPs whose values reflect the prices of underlying investments, but not as a constant multiple of the prices of those underlying investments, where at least 2 years of daily prices of the underlying assets, 4 years of weekly prices or 5 years of monthly prices, or where existing appropriate benchmarks or proxies are available, provided that such benchmarks or proxies fulfil the same criteria for the length and frequency of the price history.
+
+7\. Category 4 covers PRIIPs whose values depend in part on factors not observed in the market, including insurance-based PRIIPs which distribute a portion of the PRIIP manufacturer's profits to retail investors.
+
+**Use of appropriate benchmarks or proxies to specify PRIIPs categories**
+
+Where appropriate benchmarks or proxies are used by a PRIIP manufacturer, those benchmarks or proxies shall be representative of the assets or exposures that determine the performance of the PRIIP. The PRIIP manufacturer shall document the use of such benchmarks or proxies.
+
+**MRM class determination for Category 1 PRIIPs**
+
+8\. The MRM class for Category 1 PRIIPs shall be 7, with the exception of PRIIPs referred to in point 4(c) of this Annex, where the MRM class shall be 6.
+
+**MRM class determination for Category 2 PRIIPs**
+
+9\. The VaR shall be calculated from the moments of the observed distribution of returns of the PRIIP's or its benchmark or proxy's price during the past 5 years. The minimum frequency of observations is monthly. Where prices are available on a daily basis, the frequency shall be daily. Where prices are available on a weekly basis, the frequency shall be weekly. Where prices are available on a bi-monthly basis, the frequency shall be bi-monthly.
+
+10\. Where data on daily prices covering a period of 5 years are not available, a shorter period may be used. For daily observations of a PRIIP's or its benchmark or proxy's price, there shall be at least 2 years of observed returns. For weekly observations of a PRIIP's price, there shall be at least 4 years of observed data. For monthly observations of a PRIIP's price, there shall be observed data covering a period of at least 5 years.
+
+11\. The return over each period is defined as the natural logarithm of the ratio of the price at the market close at the end of the current period to the market close at the end of the preceding period.
+
+12\. The VaR measure in return space is given by the Cornish-Fisher expansion, as follows:
+
+[image]
+
+where N is the number of trading periods in the recommended holding period; and σ, μ1, μ2 are respectively the volatility, skew and excess kurtosis measured from the return distribution. The volatility, skew and excess kurtosis are calculated from the measured moments of the distribution of returns in accordance with the following:
+
+— the zero moment, M0 , is the count of the number of observations in the period as under point 10 of this Annex
+
+— the first moment, M1 , is the mean of all the observed returns in the sample
+
+— the second M2 , third M3 and fourth M4 moments are defined in the standard manner:
+
+[image]
+
+,
+
+[image]
+
+,
+
+[image]
+
+,
+
+where ri is the return measured on the ith period in the history of returns.
+
+— the volatility, σ, is given by
+
+[image]
+
+.
+
+— the skew, μ1, is equal to M3/σ3.
+
+— the excess kurtosis, μ2, is equal to M4/σ4 – 3.
+
+13\. The VEV is given by:
+
+[image]
+
+Where T is the length of the recommended holding period in years.
+
+14\. For PRIIPs that are managed according to investment policies or strategies that pursue certain reward objectives by participating through flexible investment in different financial asset classes (e.g. in both equity and fixed-income markets), the VEV that shall be used shall be determined as follows:
+
+(a) where there has been no revision of the investment policy over the period referred to in point 10 of this Annex, the VEV that shall be used is the highest of the following VEVs
+
+(i) the VEV computed in accordance with points 9 to 13 of this Annex;
+
+(ii) the VEV of the returns of the pro-forma asset mix that is consistent with the reference asset allocation of the fund at the time of the computation;
+
+(iii) the VEV which is consistent with the risk limit of the fund, if any and appropriate.
+
+(b) where investment policy has been revised during the period referred to in point 10 of this Annex, the VEV that shall be used is the highest of the VEVs referred to in point (a)(ii) and (iii).
+
+15\. The PRIIP shall be assigned to a MRM class as laid down under point 2 of this Annex depending on the VEV. In the case of a PRIIP having only monthly price data, the MRM class assigned under point 2 of this Annex shall be increased by one additional class.
+
+**MRM class determination for Category 3 PRIIPs**
+
+16\. The VaR in price space shall be calculated from a distribution of PRIIP values at the end of the recommended holding period. The distribution shall be obtained by simulating the price or prices, which determine the value of the PRIIP, at the end of the recommended holding period. The VaR shall be the value of the PRIIP at a confidence level of 97,5 % at the end of the recommended holding period discounted to the present date using the expected risk-free discount factor from the present date to the end of the recommended holding period.
+
+17\. The VEV is given by:
+
+[image]
+
+where T is the length of the recommended holding period in years. Only in cases where the product is called or cancelled before the end of the recommended holding period according to the simulation, the period in years until the call or cancellation is used in the calculation.
+
+18\. The PRIIP shall be assigned to a MRM class as laid down in point 2 of this Annex, depending on the VEV. In the case of a PRIIP having only monthly price data, the MRM class assigned under point 2 of this Annex shall be increased by one additional class.
+
+19\. The minimum number of simulations is 10 000 .
+
+20\. The simulation is based on bootstrapping the expected distribution of prices or price levels for the PRIIP's underlying contracts from the observed distribution of returns for these contracts with replacement.
+
+21\. For the purposes of the simulation referred to in points 16 to 20 of this Annex, there are two types of market observables that may contribute to a PRIIP's value: spot prices (or price levels) and curves.
+
+22\. For each simulation of a spot price (or level), the PRIIP manufacturer shall:
+
+(a) calculate the return for each observed period in the past 5 years, or the years referred to in point 6 of this Annex, by taking the logarithm of the price at the end of each period divided by the price at the end of the previous period;
+
+(b) randomly select one observed period which corresponds to the return for all underlying contracts for each simulated period in the recommended holding period (the same observed period may be used more than once in the same simulation);
+
+(c) calculate the return for each contract by summing the returns from the selected periods and correcting this return to ensure that the expected return measured from the simulated distribution of returns is the risk-neutral expectation of the return over the recommended holding period. The final value of the return is given by:
+
+[image]
+
+Where:
+
+— the second term corrects for the impact of the mean of the observed returns;
+
+— the third term corrects for the impact of the variance of the observed returns;
+
+— the last term corrects for the quanto impact if the strike currency is different from the asset currency. The terms contributing to the correction are as follows:
+
+— ρ is the correlation between the asset price and the relevant Fx rate — measured over the recommended holding period;
+
+— σ is the measured volatility of the asset;
+
+— σccy is the measured volatility of the Fx rate.
+
+(d) calculate the price of each underlying contract by taking the exponential of the return.
+
+23\. For curves, a principal component analysis (PCA) shall be performed to ensure that the simulation of the movements of each point on the curve over a long period results in a consistent curve.
+
+(a) The PCA is performed by:
+
+(i) collecting the historical record of tenor points that define the curve for each trading period over the past 5 years, or the years referred to in point 6 of this Annex;
+
+(ii) ensuring that each tenor point is positive — where there is a negative tenor point, all tenor points shall be shifted by the minimum whole number or percentage to ensure positive values for all tenor points;
+
+(iii) calculating the return over each period for each tenor point by taking the natural logarithm of the ratio between the price/level at the end of each observed period and the price/level at the end of the preceding period;
+
+(iv) correcting the returns observed at each tenor point so that the resulting set of returns at each tenor point has a zero mean;
+
+(v) calculating the covariance matrix between the different tenors by summing over returns;
+
+(vi) calculating the eigenvectors and eigenvalues of the covariance matrix;
+
+(vii) selecting the eigenvectors that correspond to the three largest eigenvalues;
+
+(viii) forming a matrix with 3 columns where the first column is the eigenvector with the largest eigenvalue; the middle column is the eigenvector with the second-largest eigenvalue and the last column is the eigenvector with the third-largest eigenvalue;
+
+(ix) projecting the returns onto the three principal eigenvectors calculated in the previous step by multiplying the NxM matrix of returns obtained in point (v) by the Mx3 matrix of eigenvectors obtained in point (viii);
+
+(x) calculating the matrix of returns to be used in the simulation by multiplying the results in point (ix) with the transpose of the matrix of eigenvectors obtained in point (viii). This is the set of values to be used in the simulation.
+
+(b) The curve simulation is performed as follows:
+
+(i) the time step in the simulation is one period. For each observation period in the recommended holding period select a row at random from the calculated matrix of returns. The return for each tenor point, T, is the sum over the selected rows of the column corresponding to tenor point, T.
+
+(ii) the simulated rate for each tenor point T, is the current rate at tenor point T:
+
+— multiplied by the exponential of the simulated return,
+
+— adjusted for any shifts used to ensure positive values for all tenor point, and
+
+— adjusted so that the expected mean matches current expectations for the rate at tenor point T, at the end of the recommended holding period.
+
+24\. For PRIIPS in Category 3 that are characterized by an unconditional protection of capital, the PRIIP manufacturer may assume that the VaR at a confidence level of 97,5 % is equal to the level of the unconditional capital protection at the end of the recommended holding period, discounted to the present date using the expected risk-free discount factor.
+
+**MRM class determination for Category 4 PRIIPs**
+
+25\. Where the PRIIP performance depends on a factor or factors unobserved in the market or to some extent under the control of the PRIIP manufacturer, or this is the case for a component of the PRIIP, the PRIIP manufacturer shall follow the method in this section to account for this factor or factors.
+
+26\. The different components of the PRIIP that contribute to the performance of the PRIIP shall be identified, in order for those components that are not wholly or partly dependent on a factor or factors that are unobserved in the market to be treated according to the relevant methods set out in this Annex for Category 1, 2 or 3 PRIIPs. For each of these components a VEV shall be calculated.
+
+27\. The component of the PRIIP that depends wholly or partly on a factor or factors that are unobserved in the market shall follow robust and well recognised industry and regulatory standards for determining relevant expectations as to the future contribution of these factors and the uncertainty that may exist in respect of that contribution. Where the component is not wholly dependent on a factor that is unobserved in the market, a bootstrap methodology shall be used to account for the market factors, as set out for Category 3 PRIIPs. The VEV for the component of the PRIIP shall be the result of the combination of the bootstrap methodology and robust and well recognised industry and regulatory standards for determining relevant expectations as to the future contribution of these factors that are unobserved in the market.
+
+28\. The VEV of each component of the PRIIP shall be weighted proportionally in order to arrive at an overall VEV of the PRIIP. When weighing the components, product features shall be taken into account. Where relevant, product algorithms mitigating the market risk as well as specificities of the with-profit component shall be considered.
+
+29\. For Category 4 PRIIPs that are characterized by an unconditional protection of capital, the PRIIP manufacturer may assume that VaR at a confidence level of 97,5 % is equal to the level of unconditional capital protection at the end of the recommended holding period, discounted to the present date using the expected risk-free discount factor.
+
+**PART 2**
+
+**Methodology for assessing credit risk**
+
+**I. GENERAL REQUIREMENTS**
+
+30\. A PRIIP or its underlying investments or exposures shall be taken to entail credit risk where the return of the PRIIP or its underlying investments or exposures depends on the creditworthiness of a manufacturer or party bound to make, directly or indirectly, relevant payments to the investor. A PRIIP with a MRM of 7 is not required to assess credit risk.
+
+31\. Where an entity directly engages to make a payment to a retail investor for a PRIIP, credit risk shall be assessed for the entity that is the direct obligor.
+
+32\. If all payment obligations of an obligor or one or more indirect obligors are unconditionally and irrevocably guaranteed by another entity (the guarantor), the credit risk assessment of the guarantor can be used if it is more favourable than the credit risk assessment of the respective obligor or obligors.
+
+33\. For PRIIPs which are exposed to underlying investments or techniques, including PRIIPs which themselves entail credit risk or in turn make underlying investments that entail credit risk, the credit risk shall be assessed in relation to the credit risk entailed both by the PRIIP itself and the underlying investments or exposures (including exposures to other PRIIPs), on a look-through basis and adopting a cascade assessment where necessary.
+
+34\. Where the credit risk is entailed solely at the level of underlying investments or exposures (including to other PRIIPs), the credit risk shall not be assessed at the level of the PRIIP itself but instead at the level of these underlying investments or exposures on a look-through basis. Where the PRIIP is an Undertaking for Collective Investment in Transferable Securities (UCITS) or an Alternative Investment Fund (AIF), the UCITS or AIF itself shall be taken to entail no credit risk, whereas the underlying investments or exposures of the UCITS or AIF shall be assessed where necessary.
+
+35\. Where a PRIIP is exposed to multiple underlying investments entailing a credit risk exposure, the credit risk entailed by each underlying investment representing an exposure of 10 % or more of the total assets or value of the PRIIP shall be separately assessed.
+
+36\. Underlying investments or exposures to exchange-traded derivatives or cleared OTC derivatives shall be assumed for the purposes of the credit risk assessment to carry no credit risk. No credit risk shall be taken to be entailed where an exposure is fully and appropriately collateralised, or where uncollateralised exposures that entail credit risk amount to less than 10 % of the total assets or value of the PRIIP.
+
+**II. CREDIT RISK ASSESSMENT**
+
+Credit assessment of obligors
+
+37\. Where available, a PRIIP manufacturer shall define ex-ante one or more external credit assessment institutions (ECAI) certified or registered with the European Securities and Markets Authority (ESMA) in accordance with Regulation (EC) No 1060/2009 of the European Parliament and the Council ( 6 ) whose credit assessments will consistently be referred to for the purpose of the credit risk assessment. Where multiple credit assessments are available according to that policy, the median rating shall be used, defaulting to the lower of the two middle values in case of an even number of assessments.
+
+38\. The level of credit risk of the PRIIP and each relevant obligor shall be assessed on the basis of, as applicable:
+
+(a) the credit assessment assigned to the PRIIP by an ECAI;
+
+(b) the credit assessment assigned to the relevant obligor by an ECAI;
+
+(c) in the absence of a credit assessment under either (a) or (b) or both, a default credit assessment as set out in point 43 of this Annex.
+
+Allocation of credit assessments to credit quality steps
+
+39\. The allocation of credit assessments of ECAIs to an objective scale of credit quality steps shall be based on Commission Implementing Regulation (EU) 2016/1800 ( 7 ).
+
+40\. In the case of credit risks assessed on a look-through basis, the credit quality step assigned shall correspond to the weighted average credit quality steps of each relevant obligor for which a credit assessment needs to be undertaken, in proportion to the total assets they respectively represent.
+
+41\. In the case of credit risks assessed on a cascade basis, all credit risk exposures shall be separately assessed, per layer, and the credit quality step assigned shall be the highest credit quality step, being understood that between a credit quality step set at 1 and a credit quality step set at 3, the higher of the two is 3.
+
+42\. The credit quality step pursuant to point 38 of this Annex shall be adjusted to the maturity or recommended holding period of the PRIIP, according to the following table, except where a credit assessment has been assigned that reflects that maturity or recommended holding period):
+
+| Credit quality step pursuant to point 38 of this Annex | Adjusted credit quality step, in the case where the maturity of the PRIIP, or its recommended holding period where a PRIIP does not have a maturity, is up to one year | Adjusted credit quality step, in the case where the maturity of the PRIIP, or its recommended holding period where a PRIIP does not have a maturity, ranges from one year up to 12 years | Adjusted credit quality step, in the case where the maturity of the PRIIP, or its recommended holding period where a PRIIP does not have a maturity, exceeds 12 years |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
+| 2 | 1 | 2 | 2 |
+| 3 | 2 | 3 | 3 |
+| 4 | 3 | 4 | 5 |
+| 5 | 4 | 5 | 6 |
+| 6 | 6 | 6 | 6 |
+
+43\. If the obligor has no external credit assessments, the default credit assessment as referred to in point 38 of this Annex shall be:
+
+(a) credit quality step 3, if the obligor is regulated as a credit institution or an insurance undertaking under the applicable Union law or the legal framework deemed equivalent under Union law and if the rating of the Member State where the obligor is domiciled would be credit quality step 3;
+
+(b) credit quality step 5, for any other obligor.
+
+**III. CREDIT RISK MEASURE**
+
+44\. A PRIIP shall be allocated to a credit risk measure (CRM) on a scale ranging from 1 to 6 on the basis of the mapping table laid down in point 45 of this Annex and by applying the credit risk mitigating factors under points 46, 47, 48 and 49 of this Annex, or the credit risk escalating factors under points 50 and 51 of this Annex, as appropriate.
+
+45\. Table on the mapping of credit quality steps into a CRM:
+
+| Adjusted credit quality step | Credit risk measure |
+| --- | --- |
+| 0 | 1 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+
+46\. The CRM may be assigned as 1 where the assets of a PRIIP or appropriate collateral, or assets backing the payment obligation of the PRIIP, are:
+
+(a) at all times until maturity equivalent to the payment obligations of the PRIIP to its investors;
+
+(b) held with a third party on a segregated account under equivalent terms and conditions as those laid down in Directive 2011/61/EU of the European Parliament and of the Council ( 8 ) or Directive 2014/91/EU ( 9 ); and
+
+(c) not, under any circumstances, accessible to any other creditors of the manufacturer under applicable law.
+
+47\. The CRM may be assigned as 2 where the assets of a PRIIP or appropriate collateral, or assets backing the payment obligation of the PRIIP, are:
+
+(a) at all times until maturity equivalent to the payment obligations of the PRIIP to its investors;
+
+(b) identified and held on accounts or registers, based on applicable law, including Articles 275 and 276 of Directive 2009/138/EC of the European Parliament and of the Council ( 10 ); and
+
+(c) such that the claims of retail investors have priority over the claims of other creditors of the PRIIP manufacturer or party bound to make, directly or indirectly, relevant payments to the investor.
+
+48\. Where credit risk is to be assessed on a look-through or cascade basis, the mitigation factors under point 46 and 47 of this Annex may also be applied when assessing credit risk in relation to each underlying obligor.
+
+49\. Where a PRIIP is not able to satisfy the criteria under point 47 of this Annex, the CRM pursuant to point 45 of this Annex may be reduced by one class where the claims of retail investors have priority over the claims of ordinary creditors, as set out in Article 108 of Directive 2014/59/EU, of the PRIIP manufacturer or party bound to make, directly or indirectly, relevant payments to the investor, in so far as the obligor is subject to relevant prudential requirements in respect of ensuring an appropriate matching of assets and liabilities.
+
+50\. The CRM pursuant to point 45 of this Annex shall be increased by two classes where the claim of a retail investor is subordinate to the claims of senior creditors.
+
+51\. The CRM pursuant to point 45 of this Annex shall be increased by three classes where a PRIIP is part of the own funds of the PRIIP obligor, as defined in Article 4(1)(118) of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 11 ) or in Article 93 of Directive 2009/138/EU.
+
+**PART 3**
+
+**Aggregation of market and credit risk into the summary risk indicator**
+
+52\. The overall summary risk indicator (SRI) is assigned according to the combination of the CRM and the MRM classes, in accordance with the following table:
+
+| MRM class CRM class | MR1 | MR2 | MR3 | MR4 | MR5 | MR6 | MR7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CR1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| CR2 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| CR3 | 3 | 3 | 3 | 4 | 5 | 6 | 7 |
+| CR4 | 5 | 5 | 5 | 5 | 5 | 6 | 7 |
+| CR5 | 5 | 5 | 5 | 5 | 5 | 6 | 7 |
+| CR6 | 6 | 6 | 6 | 6 | 6 | 6 | 7 |
+
+52a. Where the PRIIP manufacturer considers that the summary risk indicator number assigned following the aggregation of market and credit risk in accordance with point 52 does not adequately reflect the risks of the PRIIP, that PRIIP manufacturer may decide to increase that number. The decision making process for such an increase shall be documented.
+
+**Monitoring data with relevance for the summary risk indicator**
+
+53\. The PRIIP manufacturer shall monitor market data relevant to the calculation of the MRM class and, if the MRM class changes to a different MRM class, the PRIIP manufacturer shall attribute the corresponding MRM class to the MRM class which the PRIIP has matched for the majority of the reference points over the preceding four months.
+
+54\. The PRIIP manufacturer shall also monitor credit risk criteria relevant to the calculation of the CRM and, if according to these criteria the CRM would change to a different CRM class, the PRIIP shall re-attribute the CRM to the relevant CRM class.
+
+55\. A review of the MRM class shall always be carried out following a decision by the PRIIP manufacturer in respect of the PRIIP's investment policy and/or strategy. In those circumstances, any changes to the MRM shall be understood as a new determination of the PRIIP's MRM class, and consequently, be carried out according to the general rules concerning the determination of an MRM class for the PRIIP category.
+
+**PART 4**
+
+**Liquidity risk**
+
+56\. A PRIIP shall be considered as having a materially relevant liquidity risk where either of the following criteria are fulfilled:
+
+(a) the PRIIP is admitted to trading on a secondary market or alternative liquidity facility and there is no committed liquidity offered by market makers or the PRIIP manufacturer, so that the liquidity depends only on the availability of buyers and sellers on the secondary market or alternative liquidity facility, taking into account that regular trading of a product at one point in time does not guarantee the regular trading of the same product at any other point in time;
+
+(b) the average liquidity profile of the underlying investments is significantly lower than the regular reimbursement frequency for the PRIIP, when and to the extent liquidity offered by the PRIIP is conditional to the liquidation of its underlying assets;
+
+(c) the PRIIP manufacturer estimates that the retail investor may face significant difficulties in terms of time or costs for disinvesting during the life of the product, subject to specific market conditions.
+
+57\. A PRIIP shall be considered illiquid, whether contractually or not, if either of the following criteria are fulfilled:
+
+(a) the PRIIP is not admitted to trading on a secondary market, and no alternative liquidity facility is promoted by the PRIIP manufacturer or a third party, or the alternative liquidity facility is subject to significant limiting conditions, including significant early exit penalties or discretionary redemption prices, or where there is an absence of liquidity arrangements;
+
+(b) the PRIIP offers potential early exit or redemption possibilities prior to the applicable maturity, but these are subject to significant limiting conditions, including significant exist penalties or discretionary redemption prices, or to the prior consent and discretion of the PRIIP manufacturer;
+
+(c) the PRIIP does not offer potential early exit or redemption possibilities prior to the applicable maturity.
+
+58\. A PRIIP shall be considered liquid in all other cases.
+
+## ANNEX III
+
+**PRESENTATION OF SRI**
+
+**Presentation format**
+
+1\. PRIIP manufacturers shall use the format below for the presentation of the SRI in the key information document. The relevant number shall be highlighted as shown depending on the SRI for the PRIIP.
+
+[image]
+
+**Completion guidance with regard to the SRI**
+
+2\. The narrative explanation after the SRI shall briefly explain the purpose of the SRI and the underlying risks.
+
+3\. Immediately below the SRI, the time frame of the recommended holding period shall be indicated. In addition, a warning shall be included directly below the SRI as set out in the above template in the following cases:
+
+(a) where the risk of the PRIIP is considered to be significantly higher if the holding period is different;
+
+(b) where a PRIIP is considered to have a materially relevant liquidity risk, whether this is contractual in nature or not;
+
+(c) where a PRIIP is considered to be illiquid whether this is contractual in nature or not.
+
+4\. As applicable for each PRIIP, the narrative explanation shall include:
+
+(a) a warning in bold font where:
+
+(i) a PRIIP is considered to have currency risk as referred to in Article 3(2)(c) of this Regulation (Element C);
+
+(ii) a PRIIP holds a possible obligation to add to the initial investment, (Element D);
+
+(b) where applicable, an explanation of risks materially relevant to the PRIIP which could not be adequately captured by the SRI (Element E);
+
+(c) a clarification:
+
+(i) that the PRIIP holds a (partial) capital protection against market risk where relevant, including a specification of the percentage of the invested capital that is protected (Element F);
+
+(ii) of the specific conditions of the limitations where the (partial) capital protection against market risk is limited (Element G);
+
+(iii) that the PRIIP holds no capital protection against market risk, where relevant (Element H);
+
+(iv) that the PRIIP holds no capital guarantee against credit risk, where relevant (Element I);
+
+(v) of the specific conditions of the limitations where the protection against credit risk is limited (Element J).
+
+5\. For PRIIPs offering a range of options for investment, PRIIP manufacturers shall use the format referred to point 1 of this Annex for the presentation of the SRI, indicating all of the risk classes offered from the lowest risk class to the highest risk class.
+
+6\. For derivatives that are futures, call options and put options traded on a regulated market or on a third-country market considered to be equivalent to a regulated market in accordance with Article 28 of Regulation (EU) No 600/2014, Elements A, B, and, where relevant, H, shall be included.
+
+6a. For Category 1 PRIIPs as defined in point 4(b) of Annex II, the terminology used for the narratives explanations accompanying the SRI shall be adjusted, where appropriate, to reflect the specific features of the PRIIP, such as the absence of an initial investment amount.
+
+**Narrative explanations**
+
+7\. For the purposes of the SRI presentation, including point 4 of this Annex, the following narrative explanations shall be used, as appropriate:
+
+[Element A] The summary risk indicator is a guide to the level of risk of this product compared to other products. It shows how likely it is that the product will lose money because of movements in the markets or because we are not able to pay you.
+
+[Element B] We have classified this product as [1/2/3/4/5/6/7] out of 7, which is [1=‘the lowest’/2=‘a low’/3=‘a medium-low’/4=‘a medium’/5=‘a medium-high’/6=‘the second-highest’/7=‘the highest’] risk class.
+
+[In addition, insert a brief explanation of the classification of the product with a maximum of 300 characters in plain language]
+
+[An example explanation: This rates the potential losses from future performance at a [1=‘very low’/2=‘low’/3=‘medium-low’/4=‘medium’/5=‘medium-high’/6=‘high’/7=‘very high’] level, and poor market conditions [1, 2=‘are very unlikely to’/3=‘are unlikely to’/4=‘could’/5=‘will likely’/6=‘are very likely to’] impact [our] [the] capacity [of X] to pay you].
+
+[[Where applicable:] Element C, in bold] Be aware of currency risk. You will receive payments in a different currency, so the final return you will get depend on the exchange rate between the two currencies. This risk is not considered in the indicator shown above.
+
+[[Where applicable:] Element D] In some circumstances you may be required to make further payments to pay for losses. (in bold) The total loss you may incur may significantly exceed the amount invested.
+
+[Where applicable:] [Element E] [Other risks materially relevant to the PRIIP not included in the summary risk indicator to be explained with a maximum of 200 characters]
+
+[Where applicable:] [Element F] [You are entitled to receive back at least [insert %] of your capital. Any amount over this, and any additional return, depends on future market performance and is uncertain.]
+
+[Where applicable:] [Element G] [However, this protection against future market performance will not apply if you [..]
+
+— [Where early exit conditions apply] cash-in before [… years/months/days]]
+
+— [Where ongoing payments must be made] fail to make your payments in time.
+
+— [Where other limitations apply: explain these in a maximum of […] characters in plain language.]
+
+[Where applicable:] [Element H] [This product does not include any protection from future market performance so you could lose some or all of your investment.]
+
+[Where applicable:] [Element I] [If (we) (are) not able to pay you what is owed, you could lose your entire investment.]
+
+[Where applicable:] [Element J] [However, you may benefit from a consumer protection scheme (see the section ‘what happens if we are unable to pay you’). The indicator shown above does not consider this protection.]
+
+## ANNEX IV — PERFORMANCE SCENARIOS
+
+**Number of scenarios**
+
+1\. The performance scenarios under this Regulation which shall show a range of possible returns, shall be the following:
+
+(a) a favourable scenario;
+
+(b) a moderate scenario;
+
+(c) an unfavourable scenario;
+
+(d) a stress scenario.
+
+2\. The stress scenario shall set out significant unfavourable impacts of the PRIIP not covered in the unfavourable scenario referred to in point 1(c) of this Annex. The stress scenario shall show intermediate periods where those periods are shown for the performance scenarios under point 1(a) to (c) of this Annex.
+
+3\. An additional scenario for insurance-based investment products shall be based on the moderate scenario referred to in point 1(b) of this Annex, where the performance is relevant in respect of the return of the investment.
+
+4\. The minimum investment return shall also be shown not taking into account the situation where the PRIIP manufacturer or party bound to make, directly or indirectly, relevant payments to the retail investor, is not able to pay.
+
+**Calculation of unfavourable, moderate and favourable scenario values for the recommended holding period for Category 2 PRIIPs**
+
+**Case 1: PRIIPs referred to in point 1 of Annex VIII with sufficient historical data**
+
+5\. The following rules shall apply to PRIIPs referred to in point 1 of Annex VIII, where, at the time the calculation is made, the following criteria are satisfied in relation to the length of yearly consecutive historical values for the PRIIP:
+
+(a) it is greater than 10;
+
+(b) it is five years longer than the length of the PRIIP’s recommended holding period.
+
+6\. Where the recommended holding period is five years or less, the unfavourable, moderate and favourable scenarios shall be calculated over the last 10 years from when the calculation is made. Where the recommended holding period is more than five years, the unfavourable, moderate and favourable scenarios shall be calculated over a time period which is equal to the recommended holding period plus five years from when the calculation is made.
+
+7\. The calculation of the unfavourable, moderate, and favourable scenarios shall include the following steps:
+
+(a) within the time period specified in point 6 of this Annex, identification of all overlapping sub intervals individually equal in length to the duration of the recommended holding period, and which start or end in each of the months, or at each of the valuation dates for PRIIPs with a monthly valuation frequency, which are contained within that period;
+
+(b) for PRIIPs with a recommended holding period of more than one year, identification of all overlapping sub intervals individually equal or shorter in length to the duration of the recommended holding period, but equal to or longer than one year, and which end at the end of the time period identified in point 6 of this Annex;
+
+(c) for each sub interval referred to in points (a) and (b), calculation of the performance of the PRIIP in accordance with the following:
+
+(i) based on the performance of the PRIIP during the exact duration of each sub interval;
+
+(ii) net of all applicable costs;
+
+(iii) on the basis that any distributable income of the PRIIP has been reinvested;
+
+(iv) by using a linear transformation to obtain the performance in sub intervals shorter than the recommended holding period, in order to render all sub- intervals of comparable length;
+
+(d) rank the sub intervals identified in accordance with point (a) according to the performance calculated in accordance with point (c), to identify from within those sub intervals the median and best sub intervals in terms of performance;
+
+(e) rank together the sub intervals identified in accordance with points (a) and (b) according to the performance calculated in accordance with point (c), to identify from within those sub intervals the worst sub interval in terms of performance.
+
+8\. The unfavourable scenario shall represent the worst evolution of the PRIIP’s value in accordance with i point 7(e) of this Annex.
+
+9\. The moderate scenario shall represent the median evolution of the PRIIP’s in accordance with point 7(d) of this Annex.
+
+10\. The favourable scenario shall represent the best evolution of the PRIIP’s value in accordance with point 7(d) of this Annex.
+
+11\. The scenarios shall be calculated at least on a monthly basis.
+
+**Case 2: PRIIPs referred to in point 1 of Annex VIII without sufficient historical data and with the possibility to use a benchmark**
+
+12\. For PRIIPs referred to in point 1 of Annex VIII, the unfavourable, moderate and favourable scenarios shall be calculated as specified in points 6 to 11 of this Annex, using data of a benchmark to supplement the values for the PRIIP less all applicable costs, where:
+
+(a) the length of PRIIP values do not meet the criteria set out in point 5 of this Annex;
+
+(b) the benchmark is appropriate to estimate performance scenarios in accordance with the criteria specified in point 16 of this Annex; and
+
+(c) there is historical data for the benchmark that meets the criteria set out in point 5 of this Annex.
+
+If the information on the objectives of the PRIIP makes reference to a benchmark, that benchmark shall be used, provided the conditions in the first subparagraph are met.
+
+**Case 3: PRIIPs referred to in point 1 of Annex VIII without sufficient historical data and with no benchmark, or with a benchmark without sufficient historical data, or any other Category 2 PRIIP**
+
+13\. For PRIIPs referred to in point 1 of Annex VIII that are not covered by case 1 or case 2 above or any other Category 2 PRIIP, the unfavourable, moderate and favourable scenarios shall be calculated as specified in points 6 to 11 of this Annex using benchmarks regulated by Regulation (EU) 2016/1011 of the European Parliament and of the Council ( 12 ). Those benchmarks represent the asset classes in which the PRIIP invests or the underlying investments to which the PRIIP is exposed, to supplement the values for the PRIIP or the benchmark referred to in point 12 of this Annex. All asset classes in which the PRIIP could invest more than 25 % of its assets or underlying investments that represent more than 25 % of the exposure shall be considered. Where such a benchmark does not exist, an appropriate proxy shall be used.
+
+14\. If the PRIIP invests in different asset types or offers exposure to different types of underlying investments and more than one benchmark as referred to in point 13 of this Annex has been identified, the scenarios shall be calculated using a ‘composite benchmark’, considering the weights of the estimated investment in each type of assets or underlying investments.
+
+15\. For Category 2 PRIIPs for which there is not an appropriate benchmark or proxy with sufficient historical data which meets the criteria set out in point 5 of this Annex for the PRIIP, performance scenarios shall be calculated in accordance with points 21 to 27 of this Annex using 15 years of historical returns of the PRIIP or an appropriate benchmark or proxy.
+
+**Cases 2 and 3: Use of appropriate benchmarks or proxies**
+
+16\. In order to assess whether the use of a particular benchmark or proxy is appropriate to estimate the performance scenarios, PRIIP manufacturers shall use the following criteria, provided that such criteria are consistent with the objectives of the PRIIP and the type of assets in which the PRIIP invests or the underlying investments to which the PRIIP offers exposure and are relevant for the PRIIP:
+
+(a) risk-return profile where the benchmark or proxy and the PRIIP fall into the same category of SRI or volatility and expected return or both;
+
+(b) expected return;
+
+(c) asset allocation composition (where the asset composition of the PRIIP reflects a composite index, the reference benchmark or proxy for the purpose of the calculation of performance scenarios shall consistently reflect the weights of the composite index);
+
+(d) potential assets in which the PRIIP invests, consistent with the investment policy;
+
+(e) exposure to underlying asset classes;
+
+(f) geographical exposures;
+
+(g) sector exposures;
+
+(h) income distribution of the PRIIP;
+
+(i) liquidity measures (e.g.: daily trading volumes, bid-ask spreads etc.);
+
+(j) duration;
+
+(k) credit rating category;
+
+(l) volatility or historical volatility or both.
+
+PRIIP manufacturers may use criteria additional to those listed in the first subparagraph provided they demonstrate that those additional criteria are relevant in terms of the objectives of the PRIIP and the type of assets in which the PRIIP invests or the type of underlying investments to which the PRIIP offers exposure.
+
+17\. PRIIP manufacturers shall be able to demonstrate the consistency of the benchmarks with the objectives of the PRIIP and shall document their decision, including a clear justification of the benchmark used.
+
+**Calculation of the stress scenario for Category 2 PRIIPs**
+
+18\. For Category 2 PRIIPs, the calculation of the stress scenario shall have the following steps:
+
+(a) identify a sub interval of length w which corresponds to the following intervals:
+
+|  | 1 year | > 1 year |
+| --- | --- | --- |
+| Daily prices | 21 | 63 |
+| Weekly prices | 8 | 16 |
+| Monthly prices | 6 | 12 |
+
+(b) identify for each sub interval of length w the historical lognormal returns rt, where t = t1, t2, …, tw ;
+
+(c) measure the volatility based on the following formula starting from ti = t1 rolling until ti = t H – w +1 where H is the number of historical observations in the period:
+
+[image]
+
+Where Mw is the count of number of observations in the sub interval and [image] is the mean of all the historical lognormal returns in the corresponding sub interval.
+
+(d) infer the value that corresponds to the 99th percentile for one year and the 95th percentile for the other holding periods; that value shall be the stressed volatility [image] .
+
+19\. For Category 2 PRIIPs, the expected values at the end of the recommended holding period for the stress scenario shall be:
+
+[image]
+
+Where:
+
+(a) N is the number of trading periods in the recommended holding period, and where the other terms are defined in point 12 of Annex II;
+
+(b) z α is a proper selected value of the PRIIP at the extreme percentile that corresponds to 1 % for one year and to 5 % for the other holding periods.
+
+20\. The stress scenario value shown shall not be better than the value of the unfavourable scenario.
+
+**Calculation of scenario values for the recommended holding period for certain Category 1 PRIIPs, Category 3 PRIIPs and Category 4 PRIIPs**
+
+21\. The favourable scenario shall be the value of the PRIIP at the 90th percentile of an estimated distribution of outcomes over the recommended holding period less all applicable costs.
+
+22\. The moderate scenario shall be the value of the PRIIP at the 50th percentile of an estimated distribution of outcomes over the recommended holding period less all applicable costs.
+
+23\. The unfavourable scenario shall be the value of the PRIIP value at the 10th percentile of an estimated distribution of outcomes over the recommended holding period less all applicable costs.
+
+24\. Where the PRIIP manufacturer considers that there is a material risk that these scenarios may provide retail investors with inappropriate expectations about the possible returns they may receive, they may use lower percentiles than those specified in points 21, 22 and 23 of this Annex.
+
+25\. For Category 3 PRIIPs, the method to derive the estimated distribution of the PRIIP’s outcomes over the recommended holding period shall be identical to the method specified in points 19 to 23 of Annex II. However, the expected return of each asset shall be the return observed over the period calculated without discounting the expected performance using the expected risk-free discount factor.
+
+26\. For Category 3 PRIIPs, the following adjustments shall be made for the calculation of the stress scenario compared to the calculation for Category 2 PRIIPs:
+
+(a) infer the stress volatility [image] based on the methodology defined in points 18(a), (b) and (c) of this Annex;
+
+(b) rescale historical returns rt, based on the following formula:
+
+[image]
+
+(c) conduct bootstrapping on [image] as described in point 22 of Annex II;
+
+(d) calculate the return for each contract by summing returns from selected periods and correcting those returns to ensure that the expected return measured from the simulated return’s distribution is as follows:
+
+[image]
+
+where E*[rbootstrapped ] is the new simulated mean.
+
+27\. For Category 3 PRIIPs, the stress scenario shall be the value of the PRIIP at the extreme zα percentile as defined in point 19 of this Annex of the simulated distribution as set out in point 26 of this Annex.
+
+28\. For Category 4 PRIIPs, the method set out in point 27 of Annex II shall be used in respect of those factors that are not observed in the market, combined as necessary with the method for Category 3 PRIIPs. The relevant methods for Category 2 PRIIPs set out in points 5 to 20 of this Annex and the relevant methods for Category 3 PRIIPs set out in points 21 to 27 of this Annex shall be used for the relevant components of the PRIIP where the PRIIP combines different components. The performance scenarios shall be a weighted average of the relevant components. Product features and capital guarantees shall be taken into consideration in the performance calculations.
+
+29\. For Category 1 PRIIPs as defined in point 4(a) of Annex II, and Category 1 PRIIPs as defined in point 4(b) of Annex II that are not traded on a regulated market or on a third- country market considered to be equivalent to a regulated market in accordance with Article 28 of Regulation (EU) No 600/2014, performance scenarios shall be calculated in accordance with points 21 to 27 of this Annex.
+
+**Calculation of scenario values for the recommended holding period for other types of Category 1 PRIIPs**
+
+30\. For Category 1 PRIIPs that are futures, call options and put options traded on a regulated market or on a third-country market considered to be equivalent to a regulated market in accordance with Article 28 of Regulation (EU) No 600/2014, performance scenarios shall be shown in the form of pay-off structure graphs. A graph shall be included to show performance for all scenarios for the different levels of the underlying value. The horizontal axis of the graph shall show the various possible prices of the underlying value and the vertical axis shall show the profit or loss at the different prices of the underlying value. For every price of the underlying value, the graph shall show the resulting profit or loss and at which price of the underlying value the profit or loss shall be zero.
+
+31\. For Category 1 PRIIPs as defined in point 4(c) of Annex II a reasonable and conservative best estimate of the expected values for the performance scenarios set out in points 1(a),(b) and (c) of this Annex at the end of the recommended holding period shall be provided.
+
+The scenarios selected and shown shall be consistent with and complement the other information contained in the key information document, including the overall risk profile for the PRIIP. The PRIIP manufacturer shall ensure the consistency of the scenarios with internal product governance conclusions, including amongst others, any stress-testing undertaken by the PRIIP manufacturer for the PRIIP, and data and analysis used for the purposes of producing the other information contained with the key information document.
+
+The scenarios shall be selected to give a balanced presentation of the possible outcomes of the PRIIP in both favourable and unfavourable conditions, but only scenarios that can be reasonably expected shall be shown. The scenarios shall not be selected so as give undue prominence to favourable outcomes at the expense of unfavourable ones.
+
+**Calculation of scenario values for intermediate holding periods**
+
+32\. For PRIIPs with a recommended holding period between one and 10 years, performance shall be shown at two different holding periods: at the end of the first year and at the end of the recommended holding period.
+
+33\. For PRIIPs with a recommended holding period of 10 years or more, performance shall be shown at three holding periods: at the end of the first year, after half of the recommended holding period rounded up to the end of the nearest year, and at the end of the recommended holding period.
+
+34\. For PRIIPs with a recommended holding period of one year or less, no performance scenarios for intermediate holding periods shall be shown.
+
+35\. For Category 2 PRIIPs, the values to be shown for the intermediate periods for the unfavourable, moderate and favourable scenarios shall be calculated in accordance with points 5 to 14 of this Annex, using the time period specified in point 6, but based on the outcomes achieved over the intermediate holding period.
+
+36\. For Category 2 PRIIPs, the values to be shown for the intermediate periods for the stress scenario shall be calculated using the formulas in points 18 and 19 of this Annex with the N defined to be the number of trading periods from the start date to the end date of the intermediate period. Point 20 of this Annex shall also apply to the intermediate periods.
+
+37\. For PRIIPs as referred to in points 15 and 29 of this Annex, Category 3 PRIIPs and Category 4 PRIIPs, unless point 38 of this Annex applies, the scenario values to be shown for the intermediate holding period shall be estimated by the PRIIP manufacturer in a manner consistent with the estimation at the end of the recommended holding period.
+
+38\. For Category 1 PRIIPs that are futures, call options and put options traded on a regulated market or on a third-country market considered to be equivalent to a regulated market in accordance with Article 28 of Regulation (EU) No 600/2014, or for PRIIPs referred to in point 90(d) of Annex VI, performance scenarios may be shown at the end of the recommended holding period only.
+
+**General requirements**
+
+39\. The performance scenarios of the PRIIP shall be calculated as net of all applicable costs in accordance with Annex VI for the scenario and holding period being presented.
+
+40\. Performance scenarios shall be calculated using amounts consistent with those used for the calculation of costs as specified in points 90 and 91 of Annex VI.
+
+41\. For those PRIIPs that are forward contracts, future contracts, contracts for difference or swaps, performance scenarios shall be calculated assuming that the amount specified in point 40 is the notional amount.
+
+42\. Performance scenarios shall be presented in monetary units. Figures shall by default be rounded to the nearest 10 EUR or relevant currency, unless there are specific payout conditions, such that it could be misleading to round the figures to the nearest 10 EUR in which case the PRIIP manufacturer may present figures to the nearest Euro. Without prejudice to point 7 of this Annex, the monetary figures shall show the sum of the amounts that would be received by the retail investor (net of costs) during the holding period, comprising:
+
+(a) the payments due at the end of the holding period, including the capital reimbursed;
+
+(b) the coupons or other amounts received before the end of the holding period, without assuming reinvestment of those amounts.
+
+43\. For PRIIPs that are forward contracts, future contracts, contracts for difference or swaps, performance scenarios in monetary units shall show the profit or loss obtained in the holding period.
+
+44\. Performance scenarios shall also be presented in percentage terms, as the average annual return of the investment. That figure shall be calculated considering the scenario value as numerator and the initial investment amount or the price paid as denominator in accordance with the following formula:
+
+(scenario value/initial investment)^(1/T) – 1, if T > 1. Where T is the length of the holding period in years
+
+45\. For recommended holding periods shorter than one year, performance scenarios in percentage terms shall reflect the projected return over that period, non-annualised.
+
+46\. For PRIIPs that are forward contracts, future contracts, contracts for difference, or swaps, the percentage return shall be calculated considering the notional amount of the contract and a footnote shall be added to explain that calculation. The formula for the calculation shall be the following:
+
+(Net profit or loss/Notional Amount)^(1/T) -1, if T> 1.
+
+The footnote shall indicate that the potential return is calculated as a percentage over the notional amount.
+
+47\. For insurance based investment products, the following shall apply in addition to the methods referred above including under point 28 of this Annex when calculating the performance scenarios in respect of the investment:
+
+(a) future profit participation shall be taken into account;
+
+(b) assumptions on future profit participation shall be consistent with the assumption on the annual rates of return of the underlying assets;
+
+(c) assumptions on how future profits are shared between the PRIIP manufacturer and the retail investor and other assumptions on future profit sharing shall be realistic and in line with the current business practice and business strategy of the PRIIP manufacturer. Where there is sufficient evidence that the undertaking will change its practices or strategy, the assumptions on future profit sharing shall be consistent with the changed practices or strategy. For life insurers within the scope of Directive 2009/138/EC, those assumptions shall be consistent with the assumptions on future management actions used for the valuation of technical provisions in the Solvency II-balance-sheet;
+
+(d) where a component of the performance relates to profit participation that is payable on a discretionary basis, that component shall only be assumed in the favourable performance scenarios;
+
+(e) the performance scenarios shall be calculated on the basis of the investment amounts set out in point 40 of this Annex.
+
+## ANNEX V — METHODOLOGY FOR THE PRESENTATION OF PERFORMANCE SCENARIOS
+
+**PART 1**
+
+**General presentation specifications**
+
+1\. The performance scenarios shall be presented in a way that is accurate, fair, clear and not misleading, and that is likely to be understood by the average retail investor.
+
+2\. In all cases, the following narrative explanations from Part 2 of this Annex shall be included:
+
+(a) element A;
+
+(b) element B, which shall appear prominently above the performance scenario table or graph.
+
+3\. For all PRIIPs except Category 1 PRIIPs referred to in point 30 of Annex IV:
+
+(a) element C in Part 2 of this Annex shall appear prominently above the performance scenario table;
+
+(b) information on the minimum investment return shall be stated within the performance scenario table and where appropriate element G in Part 2 of this Annex shall be included. Where a minimum return is guaranteed that minimum return shall be stated in monetary amounts for the holding periods for which the guarantee applies. Where no minimum return is guaranteed, or where the guarantee is only applicable for some but not all holding periods, a narrative shall be included for the relevant holding periods stating that retail investors may lose some or all of the amount invested, or, where applicable, that retail investors may lose more than they invested as set out in Part 3 of this Annex.
+
+4\. Where a stress scenario is shown, narrative element D in Part 2 of this Annex shall be included.
+
+5\. For Category 2 PRIIPs, except those referred to in point 15 of Annex IV, narrative explanations shall be included for the unfavourable, moderate and favourable scenarios using element E in Part 2 of this Annex.
+
+6\. For Category 1 PRIIPs except those referred to in point 30 of Annex IV, Category 2 PRIIPs referred to in point 15 of Annex IV, Category 3 PRIIPs and Category 4 PRIIPs, a brief explanation of the scenarios shown shall be included with a maximum of 300 characters in plain language.
+
+7\. Elements H, I, J and K in Part 2 of this Annex shall also be included in the case of Category 1 PRIIPs referred to in point 30 of Annex IV.
+
+8\. Intermediate holding periods shall be shown in accordance with points 32, 33 and 34 of Annex IV. The interim periods may differ depending on the length of the recommended holding period.
+
+9\. For PRIIPs that do not show performance scenarios at intermediate holding periods narrative element F in Part 2 of this Annex shall be included where relevant.
+
+10\. Unless otherwise specified, for all PRIIPs except for Category 1 PRIIPs referred to in point 30 of Annex IV, PRIIP manufacturers shall use the templates set out in Part 3 of this Annex to present the performance scenarios, depending on whether it is a single investment or premium PRIIP, a regular payment or premium PRIIP, or a PRIIP as referred to in point 76c of Annex VI.
+
+11\. The term ‘exit’ shall be used in the performance scenario table to represent the end of the investment, unless this term may be misleading for specific types of PRIIPs, in which case an alternative term may be used, such as ‘terminate’ or ‘surrender’.
+
+12\. For Category 1 PRIIPs as defined in point 4(b) of Annex II, the terminology used shall be adjusted where appropriate to reflect the specific features of the PRIIP, such as to refer to the notional amount of the PRIIP.
+
+13\. For insurance-based investment products, additional rows are included in respect of the biometric risk premium and a scenario for the insurance benefits, as illustrated in templates A and B in Part 3 of this Annex. Returns for that scenario shall only be shown in monetary terms.
+
+14\. For PRIIPs that involve regular payments or premiums, the templates shall also include information on the accumulated investment amount and where applicable the accumulated biometric risk premium, as illustrated in template B in Part 3 of this Annex.
+
+15\. For PRIIPs which are intended to be held for life, the recommended holding period stated in the performance scenarios may indicate that the PRIIP is intended to be held for life and state the number of years that have been used as an example for the calculation.
+
+16\. For PRIIPs that are immediate annuities or other PRIIPs that are only intended to pay- out upon the occurrence of the insured event, the performance scenario table shall reflect the following, as appropriate:
+
+(a) the survival scenarios at the recommended holding period shall reflect the accumulated amount of payments made to the retail investor;
+
+(b) where intermediate survival scenarios are included, those shall reflect the surrender values and accumulated amount of payments made to the retail investor at that time;
+
+(c) the insurance event scenarios, such as upon death, shall show the lump sum payment received by the beneficiaries at that time.
+
+17\. Where the PRIIP is called or cancelled before the end of the recommended holding period according to the simulation, the presentation of the performance scenarios shall be adjusted accordingly, as illustrated in template C in Part 3 of this Annex, and explanatory notes shall be added, in a way that it is clear whether a certain scenario includes an early call or cancellation and that no reinvestment assumption has been applied. In scenarios where the PRIIP is automatically called or cancelled the figures shall be shown in the column ‘If you exit at call or maturity’ of template C in Part 3 of this Annex. The time periods shown for the intermediate holding periods shall be the same for the different performance scenarios and shall be based on the recommended holding period if the PRIIP is not called, which is expected to be aligned with its maturity. Figures for intermediate holding periods shall only be shown for scenarios where the PRIIP has not yet been called or cancelled before or at the end of that intermediate holding period and shall include any exit costs that apply at that time. If the PRIIP would have been called before or at the end of that intermediate holding period based on the simulation no figures shall be shown at that time period.
+
+**PART 2**
+
+**Prescribed narrative elements**
+
+[Element A] The figures shown include all the costs of the product itself, (where applicable) [but may not include all the costs that you pay to your advisor or distributor/and includes the costs of your advisor or distributor]. The figures do not take into account your personal tax situation, which may also affect how much you get back.
+
+[Element B] What you will get from this product depends on future market performance. Market developments in the future are uncertain and cannot be accurately predicted.
+
+[Element C] [The unfavourable, moderate, and favourable scenarios shown are illustrations using the worst, average, and best performance of [the product/a suitable benchmark] over the last [x] years.] (for Category 2 PRIIPs except those referred to in point 15 of Annex IV) [The scenarios shown are illustrations based on results from the past and on certain assumptions] (for other types of PRIIPs). Markets could develop very differently in the future.
+
+[Element D] The stress scenario shows what you might get back in extreme market circumstances.
+
+[Element E] This type of scenario occurred for an investment [add reference to benchmark where applicable] between [add dates in years].
+
+[Element F] This product cannot be [easily] cashed in. If you exit the investment earlier than the recommended holding period [you do not have a guarantee](where there is a guarantee only at the recommended holding period) [and] [you [will/may] have to pay extra costs] (where there are exit costs).
+
+[Element G] The return is only guaranteed if you [describe relevant conditions or refer to where these conditions are described in the key information document, such as the narrative explanations provided in accordance with Annex III].
+
+[Element H] This graph illustrates how your investment could perform. You can compare it with the pay-off graphs of other derivatives.
+
+[Element I] The graph presented gives a range of possible outcomes and is not an exact indication of what you might get back. What you get will vary depending on how the underlying will develop. For each value of the underlying, the graph shows what the profit or loss of the product would be. The horizontal axis shows the various possible prices of the underlying value on the expiry date and the vertical axis shows the profit or loss.
+
+[Element J] Buying this product holds that you think the underlying price will [increase/decrease].
+
+[Element K] Your maximum loss would be that you will lose all your investment (premium paid).
+
+**PART 3**
+
+**Templates**
+
+**Template A: Single investment or single premium paid**
+
+<table>
+<tbody><tr><td colspan="2">Recommended holding period:</td><td colspan="3">[]</td></tr>
+<tr><td colspan="2">Example Investment:</td><td colspan="3">[EUR 10 000 ]</td></tr>
+<tr><td colspan="2">(Where applicable)Insurance premium:</td><td colspan="3">[monetary amount]</td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>If you [exit] after 1 year</td><td>If you [exit] after []</td><td>If you [exit] after</td></tr>
+<tr><td>(where applicable)</td><td>(where applicable)</td><td>[recommended holding period]</td></tr>
+<tr><td colspan="5">[Survival] Scenarios</td></tr>
+<tr><td>Minimum</td><td colspan="4">[Monetary amount] or [There is no minimum guaranteed return [if you [exit] before […years/months/days]](where applicable). You could lose some or all of your investment [or have to make further payments to cover losses](where applicable)]</td></tr>
+<tr><td>Stress</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Unfavourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Moderate</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Favourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td colspan="5">(Where applicable)[Death] Scenario</td></tr>
+<tr><td>[Insured event]</td><td>What your beneficiaries might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+</tbody>
+</table>
+
+**Template B: Regular investments or premiums paid**
+
+<table>
+<tbody><tr><td colspan="2">Recommended holding period:</td><td colspan="3">[]</td></tr>
+<tr><td colspan="2">Example Investment:</td><td colspan="3">[EUR 1 000 ] per year</td></tr>
+<tr><td colspan="2">(Where applicable)Insurance premium:</td><td colspan="3">[monetary amount] per year</td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>If you [exit] after 1 year</td><td>If you [exit] after []</td><td>If you [exit] after</td></tr>
+<tr><td>(where applicable)</td><td>(where applicable)</td><td>[recommended holding period]</td></tr>
+<tr><td colspan="5">[Survival] Scenarios</td></tr>
+<tr><td>Minimum</td><td colspan="4">[Monetary amount] or [There is no minimum guaranteed return [if you [exit] before […years/months/days]](where applicable). You could lose some or all of your investment [or have to make further payments to cover losses](where applicable)]</td></tr>
+<tr><td>Stress</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[]EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Unfavourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[]%</td></tr>
+<tr><td>Moderate</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[]%</td><td>[] %</td></tr>
+<tr><td>Favourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>  </td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td colspan="2">Amount invested over time</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td colspan="5">(Where applicable)[Death] Scenario</td></tr>
+<tr><td>[Insured event]</td><td>What your beneficiaries might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td colspan="2">Insurance premium taken over time</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+</tbody>
+</table>
+
+**Template C: PRIIPs referred to in point 76c of Annex VI (Autocallables)**
+
+<table>
+<tbody><tr><td colspan="2">Recommended holding period:</td><td colspan="3">Until the product is called or matures This may be different in each scenario and is indicated in the table </td></tr>
+<tr><td colspan="2">Example Investment:</td><td colspan="3">[EUR 10 000 ]</td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>If you [exit] after 1 year</td><td>If you [exit] after []</td><td>If you [exit] at call or maturity</td></tr>
+<tr><td>(where applicable)</td><td>(where applicable)</td><td>  </td></tr>
+<tr><td colspan="5">Scenarios</td></tr>
+<tr><td>Minimum</td><td colspan="4">[Monetary amount] or [There is no minimum guaranteed return [if you [exit] before […years/months/days]](where applicable). You could lose some or all of your investment [or have to make further payments to cover losses](where applicable)]</td></tr>
+<tr><td>Stress</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>(product ends after [])</td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Unfavourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>(product ends after [])</td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Moderate</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>(product ends after [])</td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+<tr><td>Favourable</td><td>What you might get back after costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>(product ends after [])</td><td>Average return each year</td><td>[] %</td><td>[] %</td><td>[] %</td></tr>
+</tbody>
+</table>
+
+## ANNEX VI
+
+**METHODOLOGY FOR THE CALCULATION OF COSTS**
+
+**PART 1**
+
+**List of costs**
+
+**I. LIST OF COSTS OF INVESTMENTS FUNDS (AIFs AND UCITS)**
+
+Costs to be disclosed
+
+One-off costs
+
+1\. A one-off cost is an entry or exit cost which is either:
+
+(a) paid directly by the retail investor; or
+
+(b) deducted from a payment received by or due to the retail investor.
+
+2\. One-off costs are costs borne by the retail investor that are not deducted from the assets of the AIF or UCITS.
+
+3\. One-off costs include, but are not limited to, the following types of up-front initial costs that shall be taken into account in the cost amount to be disclosed in the key information document:
+
+(a) distribution fee, to the extent that the amount is known to the UCITS management company or AIFM; if the actual amount is not known to the UCITS management company or AIFM, the maximum of the possible known distribution costs for the specific PRIIP shall be shown;
+
+(b) constitution costs (up-front part);
+
+(c) marketing costs (up-front part);
+
+(d) subscription fee including taxes.
+
+Recurring Costs
+
+4\. Recurring costs are payments deducted from the assets of an AIF or UCITS, and represent the following:
+
+(a) expenses necessarily incurred in their operations;
+
+(b) any payments, including remunerations, to parties connected with the AIF or UCITS or providing services to them;
+
+(c) transaction costs.
+
+5\. Recurring costs include, but are not limited to, the following types of costs that are deducted from the assets of the AIF or UCITS, and shall be taken into account in the cost amount to be disclosed in the key information document:
+
+(a) all payments to the following persons, including any of the following persons to whom they have delegated any function:
+
+(i) the UCITS management company or AIFM;
+
+(ii) directors of the fund if an investment company;
+
+(iii) the depositary;
+
+(iv) the custodian(s);
+
+(v) any investment adviser;
+
+(b) all payments to any person providing outsourced services to any of the above, including:
+
+(i) providers of valuation and fund accounting services;
+
+(ii) shareholder service providers, such as the transfer agent and broker dealers that are record owners of the fund' shares and provide sub-accounting services to the beneficial owners of those shares;
+
+(iii) providers of collateral management services;
+
+(iv) providers of prime-brokerage services;
+
+(v) securities lending agents;
+
+(vi) providers of property management and similar services;
+
+(c) registration charges, listing fees, regulatory charges and similar charges, including passporting fees;
+
+(d) provisioned fees for specific treatment of gain and losses;
+
+(e) audit fees;
+
+(f) payments to legal and professional advisers;
+
+(g) any costs of distribution or marketing, to the extent that the amount is known to the UCITS management company or AIFM; if the actual amount is not known to the UCITS management company or AIFM, the maximum of the possible known distribution costs for the specific PRIIP shall be shown;
+
+(h) financing costs, related to borrowing (provided by related parties);
+
+(i) costs of capital guarantee provided by a third party guarantor;
+
+(j) payments to third parties to meet costs necessarily incurred in connection with the acquisition or disposal of any asset in the fund’s portfolio (including transaction costs as referred to in points 7 to 23c of this Annex);
+
+(k) the value of goods or services received by the UCITS management company or AIFM or any connected person in exchange for placing of dealing orders;
+
+(l) where a fund invests its assets in UCITS or AIFs, its summary cost indicator shall take account of the charges incurred in the UCITS or AIFs. The following shall be included in the calculation:
+
+(i) where the underlying is a UCITS or AIF, its most recently available summary cost indicator figure shall be used, where necessary adjusted to show the actual distribution fee incurred; that figure shall be based either on the figure published by the UCITS or AIF or its operator or the UCITS management company or AIFM, or a figure calculated by a reliable third- party source if more up-to-date than the published figure;
+
+(ii) the summary cost indicator may be reduced to the extent that there is any arrangement in place (and that is not already reflected in the fund's profit and loss account) for the investing fund to receive a rebate or retrocession of charges from the underlying AIF or UCITS;
+
+(iii) where the acquisition or disposal of units does not occur at the mid price of the UCITS or AIF, the value of the difference between the transaction price and the mid price shall be taken into account as transaction costs, to the extent that this is not included in the summary cost indicator;
+
+(m) where a fund invests in a PRIIP other than UCITS or AIFs, its summary cost indicator shall take account of the charges incurred in the underlying PRIIP. The following shall be included in the calculation:
+
+(i) the most recently available summary cost indicator of the underlying PRIIP shall be included in the calculation, and, where necessary, adjusted to show the actual entry fee incurred;
+
+(ii) the summary cost indicator may be reduced to the extent that there is any arrangement in place (and that is not already reflected in the fund's profit and loss account) for the investing fund to receive a rebate or retrocession of charges from the underlying PRIIP;
+
+(iii) in cases where the acquisition or disposal of units does not occur at the mid price of the underlying PRIIP, the value of the difference between the transaction price and the mid price shall be taken into account as transaction costs, to the extent that this is not included in the summary cost indicator;
+
+(n) where a fund invests in an investment product other than a PRIIP its summary cost indicator shall take account of the charges incurred in the underlying investment product. The PRIIP manufacturer shall either use any published information that represents a reasonable substitute for summary cost indicator or else shall make a best estimate of its maximum level based on scrutiny of the investment product's current prospectus and most recently published report and accounts;
+
+(o) operating costs (or any remuneration) under a fee-sharing arrangement with a third party to the extent that they have not been already included in another type of cost mentioned above;
+
+(p) earnings from efficient portfolio management techniques if they are not paid into the portfolio;
+
+(q) implicit costs incurred by structured investment funds as referred to in Section II of this Annex, and in particular points 36 to 46 of this Annex;
+
+(r) dividends served by the shares held in the portfolio of the funds, shall the dividends not accrue to the fund.
+
+Incidental costs
+
+6\. The following types of incidental costs shall be taken into account in the amount to be disclosed:
+
+(a) a performance–related fee payable to the UCITS management company or the AIFM or any investment adviser, including performance fees as referred to in point 24 of this Annex;
+
+(b) carried interests as referred to in point 25 of this Annex.
+
+Calculation of specific types of costs of investments funds
+
+Transaction costs
+
+7\. Transaction costs shall be calculated on an annualised basis, based on an average of the transaction costs incurred by the PRIIP over the previous three years where the average is calculated from all transactions. Where the PRIIP has been operating for less than three years, transaction costs shall be calculated using the methodology set out in points 21, 22 and 23 of this Annex.
+
+8\. The aggregate transaction costs for a PRIIP shall be calculated as the sum of the transaction costs as calculated in accordance with points 8a to 23a of this Annex in the base currency of the PRIIP for all individual transactions undertaken by the PRIIP in the specified period. This sum shall be converted into a percentage by dividing by the average net assets of the PRIIP over the same period.
+
+8a. A minimum of explicit transaction costs, as referred to in point 11a of this Annex, shall be disclosed.
+
+9\. When calculating the transaction costs incurred by the PRIIP over the previous three years, actual transaction costs must be calculated using the methodology described in points 12 to 18 of this Annex for investments in the following instruments:
+
+(a) transferable securities as defined by Article 2 of Commission Directive 2007/16/EC ( 13 );
+
+(b) other instruments that there are frequent opportunities to dispose of, redeem, or otherwise realise at prices that are publicly available to market participants and that are either market prices or prices made available, or validated, by valuation systems independent of the issuer.
+
+10\. Estimates of transaction costs using the methodology described below in points 19 and 20 of this Annex shall be used for investments in other instruments or assets. Transaction costs associated with non-financial assets shall be calculated in accordance with point 20a of this Annex.
+
+Treatment of anti-dilution mechanisms
+
+11\. Where a PRIIP has a pricing mechanism that offsets the impact of dilution from transactions in the PRIIP itself, the amount of benefit accruing to the ongoing holders of the PRIIP from anti-dilution mechanisms may be deducted from the transaction costs incurred within the PRIIP using the following methodology:
+
+(a) the monetary amount of any anti-dilution levy, or other payment in connection with a transaction in the PRIIP itself, that is paid to the PRIIP may be subtracted from the total transaction costs
+
+(b) the benefit to the PRIIP of issuing units (or otherwise enabling investment in the PRIIP) at a price other than the mid price, or of cancelling units (or otherwise enabling redemption of funds from the PRIIP) at a price other than the mid price, provided that the PRIIP itself receives the benefit, shall be calculated as follows and may be subtracted from the total transaction costs:
+
+(i) the difference between the price of units issued and the mid price, multiplied by the net number of units issued;
+
+(ii) the difference between the price of units cancelled and the mid-price, multiplied by the net number of units cancelled;
+
+(c) the anti-dilution benefit shall only be taken into account to the extent that the benefit does not take the total transaction costs below explicit transaction costs;
+
+11a. Explicit costs include costs and charges incurred by the PRIIP, and paid out of retail investors’ financial investment in the PRIIP, in order to acquire or dispose of the underlying assets of the PRIIP, such as but not limited to commissions paid to brokers or other intermediaries, stamp duty or market taxes, contract fees and execution fees for OTC derivatives, where relevant.
+
+11b. Aggregate explicit costs shall be calculated as the sum of such costs incurred from all transactions undertaken by the PRIIP over the previous three years. That sum shall be converted into a percentage by dividing by the average net assets of the PRIIP over the same period. The minimum explicit costs to be disclosed shall be calculated on an annualised basis based on an average of explicit costs incurred by the PRIIP over the previous three years, with the average calculated from all transactions.
+
+Actual transaction costs
+
+12\. The actual transaction costs for each transaction shall be calculated on the following basis:
+
+(a) for each purchase undertaken by the PRIIP, the price of the instrument at the time the purchase order is transmitted to another person for execution (the purchase ‘arrival price’) shall be subtracted from the net realised execution price of the transaction. The resulting value shall be multiplied by the number of units purchased;
+
+(b) for each sale undertaken by the PRIIP, the net realised execution price of the transaction shall be subtracted from the price of the instrument at the time the order to sell is transmitted to another person for execution (the sale ‘arrival price’). The resulting value shall be multiplied by the number of units sold.
+
+13\. The net realised execution price shall be determined as the price at which the transaction is executed, including all charges, commissions, taxes and other payments (such as anti-dilution levies) associated with the transaction, either directly or indirectly, where those payments are made from the assets of the PRIIP.
+
+14\. The arrival price shall be determined as the mid-market price of the investment at the time when the order to transact is transmitted to another person. For orders that are transacted on a day that is not the day that the order was originally transmitted to another person, the arrival price shall be determined as the opening price of the investment on the day of the transaction or, where the opening price is not available, the previous closing price. Where a price is not available at the time when the order to transact is transmitted to another person, the arrival price shall be determined as the most recently available price or, where a recent price is not available, a justifiable independent price or, where a justifiable independent price is not available, the opening price on the day of the transaction or, where the opening price is not available, the previous closing price. Where an order is executed without being transmitted to another person, the arrival price shall be determined as the mid-market price of the investment at the time when the transaction was executed.
+
+15\. Where information about the time when the order to transact is transmitted to another person is not available (or not available to a sufficient level of accuracy), or where information about the price at that time is not available, a justifiable independent price may be used as the arrival price or, where a justifiable independent price is not available, the opening price of the investment on the day of the transaction or, where the opening price is not available, the previous closing price.
+
+16\. Costs associated with transactions undertaken by PRIIPs and concerning financial instruments that fall within one of the categories referred to in items 4 to 10 of Section C of Annex I to Directive 2014/65/EU shall be calculated in the following way:
+
+(a) for instruments that are standardised and where there is regular trading in the instrument itself (for example an index future on a major equity index), transaction costs shall be calculated with reference to the instrument itself. The arrival price shall be determined as the mid-price of the instrument;
+
+(b) for linear instruments that are customised, and where there is no price transparency or regular trading in the instrument itself, transaction costs shall be calculated with reference to the underlying asset(s). The arrival price shall be calculated based on the price(s) of the underlying assets, using appropriate weightings if there is more than one underlying asset. Where the cost of transacting in the instrument is materially higher than the cost of transacting in the underlying asset, this must be reflected in the transaction cost calculation;
+
+(c) for non-linear instruments, it is permissible to calculate the transaction costs as the difference between the price paid or received for the instruments and the fair value of the instrument, on the basis described in points 36 to 46 of this Annex.
+
+17\. In calculating the costs associated with foreign exchange, the arrival price must reflect a reasonable estimate of the consolidated price, and must not simply be the price available from a single counterparty or foreign exchange platform, even if an agreement exists to undertake all foreign exchange transactions with a single counterparty.
+
+18\. When calculating the costs associated with orders that are initially entered into an auction, the arrival price shall be calculated as the mid-price immediately prior to the auction. In calculating the costs associated with orders that are executed at a pre- determined time, the arrival price shall be calculated at that pre-determined time, even if the order has been transmitted for execution before that time.
+
+Transactions executed on an over-the-counter basis
+
+18a. By way of derogation from points 12 to 16 of this Annex for transactions executed on an over-the-counter basis, the actual transaction costs shall be calculated in the following way:
+
+(a) where a transaction is executed after bid prices and offer prices have been obtained from more than one potential counterparty, the arrival price shall be determined as:
+
+(i) the mid-point between the best bid price and best offer price, where the best bid price is below the best offer price;
+
+(ii) the best bid price in the case of a sale or the best offer price in the case of a purchase, where the best bid price is higher than the best offer price;
+
+(b) where a transaction is executed without both bid prices and offer prices having been obtained, the transaction cost shall be calculated by multiplying the number of units transacted by half the value of the spread between the bid price and the offer price of the instrument, whereas the value of that spread shall be calculated on the following basis:
+
+(i) from a composite of live market bid/offer quotes, where available;
+
+(ii) where live market bid/offer quotes are not available they shall be obtained by reference to spreads from either:
+
+— previous transactions in assets bearing similar characteristics (duration, maturity, coupon, call-/put- ability) and liquidity, using transactions previously executed by the PRIIP manufacturer; or
+
+— data verified by an independent third-party or an asset valuation from an independent third party.
+
+Transaction costs for other assets
+
+19\. When estimating transaction costs for assets other than assets as referred to in point 9 of this Annex, the methodology in point 12 of this Annex shall be used and the arrival price shall be calculated as follows:
+
+(a) for a sale:
+
+(i) the arrival price shall be calculated as the previous independent valuation price of the asset, adjusted for market movements, where appropriate, using an appropriate benchmark index;
+
+(ii) where a previous independent valuation price is not available, the transaction costs must be estimated based on the difference between the transaction price and an appraisal of the fair value of the asset prior to sale;
+
+(b) for a purchase:
+
+(i) the arrival price shall be calculated as the previous independent valuation price of the asset, adjusted for market movements, where appropriate, using an appropriate benchmark index, where such a price is available;
+
+(ii) where a previous independent valuation price is not available, the transaction costs must be estimated based on the difference between the transaction price and an appraisal of the fair value of the asset prior to purchase.
+
+20\. The transaction cost estimate must not be less than the amount of actual identifiable costs directly associated with the transaction.
+
+20a. When calculating the costs associated with non-financial assets, the transaction costs shall be calculated as the aggregate of the actual costs directly associated with that transaction including all charges, commissions, taxes and other payments (such as anti-dilution levies), where those assets are made from the assets of the PRIIP. In the case of cost depreciation over a period specified in the PRIIP’s accounting policies, actual costs shall be equal to the cost amounts depreciated over the last three years.
+
+Transaction costs for new PRIIPs
+
+21\. For PRIIPs that have been operating for less than 3 years and that invest predominantly in assets as referred to in point 9 of this Annex, transaction costs may be calculated either by multiplying an estimate of portfolio turnover in each asset class with the costs calculated according to the methodology referred to in point (c), or as an average of the actual transaction costs incurred during the period of operation and a standardised estimate on the following basis:
+
+(a) for the highest multiple of six months that the PRIIP has been operating, transaction costs shall be calculated on the basis described in points 12 to 18 of this Annex;
+
+(b) for the remaining period up to three years, transaction costs shall be estimated by multiplying an estimate of portfolio turnover in each asset class according to the methodology referred to in point (c);
+
+(c) the methodology to be used differs depending on the asset class and shall be determined as follows:
+
+(i) For the asset classes indicated in the table below, transaction costs shall be calculated as the average of the estimated cost of transaction (based on bid-ask spreads divided by two) for the relevant asset class under normal market conditions.
+
+To estimate the cost, one or more reference indexes shall be identified for each asset class. Then, the average bid-ask spreads of the underlying indexes shall be collected. The data collected shall refer to the closing bid-ask spread at the tenth business day of each month during the last year.
+
+The bid-ask spreads collected shall then be divided by two to obtain the estimated cost of transaction for each point in time. The average of those values is the estimated cost of transaction in each asset class under normal market conditions.
+
+<table>
+<tbody><tr><td colspan="2">Asset Classes</td></tr>
+<tr><td rowspan="2">Government bonds</td><td>Government bonds and similar instruments developed market rating AAA-A</td></tr>
+<tr><td>Government bonds and similar instruments developed market different rating below A</td></tr>
+<tr><td>Government bonds emerging markets (hard and soft currency)</td><td>Government bonds emerging markets (hard and soft currency)</td></tr>
+<tr><td>Investment grade corporate bonds</td><td>Investment grade corporate bonds</td></tr>
+<tr><td>Other corporate bonds</td><td>High yield corporate bonds</td></tr>
+</tbody>
+</table>
+
+(ii) For the asset classes indicated in the table below, transaction costs (including explicit costs and implicit costs) shall be estimated either by using comparable information or by adding estimates of explicit costs to estimates of half the bid-ask spread, using the methodology described in point (i).
+
+<table>
+<tbody><tr><td colspan="2">Asset Classes</td></tr>
+<tr><td>Liquidity</td><td>Money market instruments (for the sake of clarity, money markets funds not included)</td></tr>
+<tr><td rowspan="3">Shares developed markets</td><td>Large-cap shares (developed markets)</td></tr>
+<tr><td>Mid-cap shares (developed markets)</td></tr>
+<tr><td>Small-cap shares (developed markets)</td></tr>
+<tr><td rowspan="3">Shares emerging markets</td><td>Large-cap shares (emerging markets)</td></tr>
+<tr><td>Mid-cap shares (emerging markets)</td></tr>
+<tr><td>Small-cap shares (emerging markets)</td></tr>
+<tr><td>Listed derivatives</td><td>Listed derivatives</td></tr>
+</tbody>
+</table>
+
+(iii) For the asset classes indicated in the table below, the transaction cost is the average of the observed cost of transaction (based on bid-ask spreads divided by two) in this asset class under normal market conditions.
+
+When identifying the observed cost of transaction, results of a panel survey may be taken into account.
+
+<table>
+<tbody><tr><td colspan="2">Asset Classes</td></tr>
+<tr><td rowspan="6">OTC</td><td>OTC Exotic options</td></tr>
+<tr><td>OTC Plain vanilla options</td></tr>
+<tr><td>OTC IRS, CDS and similar</td></tr>
+<tr><td>OTC Swaps and similar instruments (different from IRS, CDS and similar)</td></tr>
+<tr><td>OTC FX Forwards developed markets</td></tr>
+<tr><td>OTC FX Forwards emerging markets</td></tr>
+</tbody>
+</table>
+
+22\. Estimates of portfolio turnover for a PRIIP that has been operating for less than one year must be made on a consistent basis with the investment policy disclosed in the offering documents. Estimates of portfolio turnover for a PRIIP that has been operating for more than one year must be consistent with actual portfolio turnover.
+
+23\. For PRIIPs that have been operating for less than three years and that invest predominantly in assets other than assets as referred to in point 9 of this Annex, the PRIIP manufacturer shall estimate the transaction costs on the basis of the fair value method using comparable assets.
+
+Low number of transactions and other similar cases
+
+23a. By way of derogation from points 12 to 18a of this Annex, transaction costs may be calculated using the methodology set out in point 21(b) of this Annex where one or more of the following conditions is met:
+
+(a) a PRIIP undertook a very low number of transactions over the previous three years;
+
+(b) the total value for all transactions undertaken over the previous three years accounts for a very low percentage of the net asset value of the PRIIP;
+
+(c) the estimate of total transaction costs is not significant as compared to the estimate of the total costs.
+
+Use of data prior to 31 December 2024
+
+23b. Until 31 December 2024, transaction costs may be calculated using the methodology laid down in point 21 of this Annex for PRIIPs that are UCITS or AIFs for which a Member State applied by 31 December 2021 rules on the format and content of the key information document, as laid down in Articles 78 to 81 of Directive 2009/65/EC.
+
+23c. Until 31 December 2024, where an insurance-based investment product invests in a UCITS or AIF as referred to in point 23b of this Annex, the transaction costs for those investments may be calculated using the methodology laid down in point 21 of this Annex.
+
+Performance related fees
+
+24\. To calculate performance related fees, the following steps shall be taken:
+
+(a) compute the fees on the basis of historical data covering the last 5 years. The average annual performance fees shall be computed in percentage terms,
+
+(b) where a full performance fees history is not available because the fund/share class is new or the fund's terms have changed due to the introduction of the performance fee or the change of one of its parameters, the abovementioned method shall be adjusted according to the following steps:
+
+(i) take the relevant available history of the performance fees of the fund/share class;
+
+(ii) for any years for which data is not available, estimate the return of the fund/share class and, in case of a relative performance fee model, take into account the historical series of the benchmark/hurdle rate;
+
+for new funds, their return shall be estimated using the return of a comparable fund or of a peer group. The estimated return shall be gross of all the costs charged to the new fund. Therefore peer groups' returns need to be adjusted by adding the average relevant costs charged according to the rules of the new fund. For instance, in case of a new class with a different fee structure, the returns of this new class shall be adjusted taking into account the costs of the existing class;
+
+(iii) compute the fees from the beginning of the sample period, as required in point (a), until the date of availability of the actual performance fee data of the fund, applying the relevant algorithm to the abovementioned historical series;
+
+(iv) concatenate both performance fee series to one series over the full sample period as required in point (a);
+
+(v) compute the performance fees using the methodology referred to in point (a) (average of annual performance fees).
+
+Carried interests
+
+25\. To calculate carried interests, the following steps shall be taken:
+
+(a) compute the fees on the basis of historical data covering the last 5 years. The average annual carried interests shall be computed in percentage terms;
+
+(b) where a full carried interests history is unavailable because the fund/share class is new or the fund's terms have changed due to the introduction of carried interests or the change of one of its parameters, the abovementioned method shall be adjusted according to the following steps:
+
+(i) take the relevant available history of the carried interests of the fund/share class;
+
+— for any years for which data is not available, estimate the return of the fund/share class,
+
+— for new funds, their return shall be estimated using the return of a comparable fund or of a peer group. The estimated return shall be gross of all the costs charged to the new fund. Therefore peer group's returns need to be adjusted by adding the average relevant costs charged according to the rules of the new fund. For instance, in case of a new class with a different fee structure, the returns of this new class shall be adjusted taking into account the costs of the existing class.
+
+(ii) compute the carried interests from the beginning of the sample period, as required in point (a), until the date of availability of the actual carried interests data of the fund, applying the relevant algorithm to the abovementioned historical series;
+
+(iii) concatenate both carried interests series to one series over the full sample period as required in point (a);
+
+(iv) compute the carried interests using the methodology referred to in point (a) (average of annual carried interests).
+
+26\. If no carried interests are taken throughout the investment, a warning needs to accompany the indication of zero carried interests in the composition of costs table in order to clarify that a payment of x % of the final return shall take place subsequently to the exit of the investment.
+
+**II. LIST OF COSTS OF PRIPS OTHER THAN INVESTMENT FUNDS**
+
+Costs to be disclosed
+
+One-off costs
+
+27\. A one-off cost is an entry and exit cost which include initial charges, commissions or any other amount paid directly by the retail investor or deducted from a payment received by or due to the retail investor.
+
+28\. One-off costs are borne by a PRIP other than an investment fund, whether they represent expenses necessarily incurred in its operation, or the remuneration of any party connected with it or providing services to it.
+
+One-off entry costs and charges
+
+29\. One-off entry costs and charges include, but are not limited to, the following types that shall be taken into account in the cost amount to be disclosed for PRIPs other than investment funds:
+
+(a) sales commissions;
+
+(b) structuring costs, including market-making costs (spread) and settlement costs;
+
+(c) hedging costs (to ensure that the PRIIP manufacturer is able to replicate the performance of the derivative component of the structured product — these costs include transaction costs)
+
+(d) legal fees;
+
+(e) costs for capital guarantee;
+
+(f) implicit premium paid to the issuer.
+
+One-off exit costs and charges
+
+30\. One-off exit costs and charges include, but are not limited to, the following types that shall be taken into account in the amount to be disclosed for PRIPs other than investment funds:
+
+(a) proportional fees;
+
+(b) bid-mid spread to sell the product and any explicit costs or penalties for early exit applicable. The estimation of the bid-mid spread shall be done in relation to the availability of a secondary market, to the market conditions and the type of product. In the situation where the PRIIP manufacturer (or a related third party) is the only available counterparty to buy the product on the secondary market, it shall estimate the exit costs to be added to the fair value of the product according to its internal policies;
+
+(c) contract-for-difference (CFD) related costs such as:
+
+(i) commissions charged by CFD providers — general commission or a commission on each trade — i.e. on opening and closing a contract;
+
+(ii) CFD trading such as bid-ask spreads, daily and overnight financing costs, account management fees and taxes which are not already included in the fair value.
+
+Recurring Costs
+
+31\. Recurring costs are payments regularly deducted from all payments due to the retail investor or from the amount invested.
+
+32\. Recurring costs include all types of cost borne by a PRIP other than an investment fund whether they represent expenses necessarily incurred in its operation, or the remuneration of any party connected with it or providing services to it.
+
+33\. The following list is indicative but not exhaustive of the types of recurring charge that, where they are deducted or charged separately, shall be taken into account in the amount to be disclosed:
+
+(a) costs related to coupon payments;
+
+(b) costs of the underlying, if any.
+
+Costs of PRIPs referred to in point 17 of Annex IV
+
+34\. One-off exit costs and charges are exchange fees, clearing fees and settlement fees where known.
+
+35\. Recurring costs are hedging costs borne under normal market conditions and stressed market conditions.
+
+Calculation of implicit costs of PRIPs other than investment funds
+
+36\. For the purposes of the calculation of the implicit costs embedded in PRIPs, the PRIIP manufacturer shall refer to the issue price and, after the subscription period, to the price available to purchase the product on a secondary market.
+
+37\. The difference between the price and the fair value of the product is considered as an estimation of the total entry costs included in the price. If the PRIIP manufacturer is unable to distinguish the relevant implicit costs to be disclosed as referred to in point 29 of this Annex using the difference between the price and the fair value, it shall liaise with the issuer of the different components of the product, or the relevant body, in order to gather the relevant information on those costs.
+
+38\. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction in the principal (or most advantageous) market at the measurement date under current market conditions (i.e. an exit price) regardless of whether that price is directly observable or estimated using another valuation technique.
+
+39\. The fair value policy that governs the measurement of the fair value shall set a series of rules including in the following areas:
+
+(a) governance;
+
+(b) methodology for the calculation of the fair value.
+
+40\. The rules referred to in point 39 of this Annex shall aim at outlining a valuation process that:
+
+(a) complies with the applicable accounting standards, in relation to fair value;
+
+(b) makes sure that internal pricing models for PRIPs are consistent with the methodologies, modelling and standards used by the PRIIP manufacturer to value its own portfolio under the hypothesis that the product is available for sale or held for trading;
+
+(c) is consistent with the level of complexity of the product and the type of underlying;
+
+(d) takes into account the issuer credit risk and the uncertainty about the underlying;
+
+(e) sets the parameters to identify an active market in order to avoid risk mispricing that could lead in extreme cases to significantly inaccurate estimates;
+
+(f) maximises the use of relevant observable market inputs and minimizes the use of unobservable inputs.
+
+41\. The fair value of a structured product shall be determined on the basis of:
+
+(a) market prices, where available or efficiently formed;
+
+(b) internal pricing models using as an input market values which are indirectly connected to the product, derived from products with similar characteristics (comparable approach);
+
+(c) internal pricing models based on inputs which are not derived directly from market data for which estimations and assumptions must be formulated (mark-to-model approach).
+
+42\. If the fair value cannot be derived from market prices, it shall be calculated using a valuation technique that is able to represent properly the different factors affecting the product payoff structure making maximum use of market data.
+
+43\. The valuation technique referred to in point 42 of this Annex shall consider the following according to the complexity of the product:
+
+(a) the use of recent arm's length market transactions between knowledgeable, professional counterparties;
+
+(b) reference to the current market price of another instrument that is substantially the same;
+
+(c) the use of an appropriate discounted cash-flow model where the likelihood of each cash flow is determined using an appropriate model of asset price evolution.
+
+44\. In the case of subscription products, the fair value shall be calculated on the date when the product terms are determined. This valuation date shall be close to the beginning of the subscription period. Where long offering periods or high market volatility exists, a criterion to update cost information shall be defined.
+
+45\. Where preliminary terms are used, costs shall be calculated by using the minimum terms of the product.
+
+46\. Where variable subscription prices are used, a procedure on how to incorporate and disclose the cost effect of the varying subscription price shall be defined.
+
+**III. LIST OF COSTS OF INSURANCE-BASED INVESTMENT PRODUCTS**
+
+Costs to be disclosed
+
+One-off costs
+
+47\. A one-off cost is an entry and exit cost which includes initial charges, commissions or any other amount paid directly by the retail investor or deducted from the first payment or from a limited number of payments due to the retail investor or from a payment upon redemption or termination of the product.
+
+48\. One-off costs are borne by an insurance-based investment product, whether they represent expenses necessarily incurred in its operation, or the remuneration of any party connected with it or providing services to it.
+
+49\. One-off costs include, but are not limited to, the following types of entry costs and charges that shall be taken into account in the amount to be disclosed for insurance-based investment products:
+
+(a) structuring or marketing costs;
+
+(b) acquisition, distribution, sales costs;
+
+(c) processing/operating costs (including costs for the management of the insurance cover);
+
+(d) cost part of biometric risk premiums referred to in point 59 of this Annex;
+
+(e) costs of holding required capital (up front part to be disclosed insofar as they are charged).
+
+Recurring costs
+
+50\. Recurring costs are payments regularly deducted from all payments from the retail investor or from the amount invested or amounts that are not allocated to the retail investor according to a profit sharing mechanism.
+
+51\. The recurring costs include all types of costs borne by an insurance-based investment product whether they represent expenses necessarily incurred in its operation, or the remuneration of any party connected with it or providing services to it.
+
+52\. The following list is indicative but not exhaustive of the types of recurring charge that shall be taken into account in the amount of the ‘Other ongoing costs’ in table 2 of Annex VII:
+
+(a) structuring or marketing costs;
+
+(b) acquisition, distribution, sales costs;
+
+(c) processing/operating costs (including costs for the management of insurance cover);
+
+(d) cost part of biometric risk premiums referred to in point 59 of this Annex;
+
+(e) other administrative costs;
+
+(f) costs of holding capital (recurring part to be disclosed insofar as they are charged);
+
+(g) any amount implicitly charged on the amount invested such as the costs incurred for the management of the investments of the insurance company (deposit fees, costs for new investments, etc.);
+
+(h) payments to third parties to meet costs necessarily incurred in connection with the acquisition or disposal of any asset owned by the insurance-based investment product (including transaction costs as referred to in points 7 to 23 of this Annex).
+
+53\. Where an insurance-based investment product invests a part of its assets in UCITS or AIFs, in a PRIIP other than UCITS or AIFs or in an investment product other than a PRIIP, points 5(l), 5(m) and 5(n) of this Annex shall be applied respectively.
+
+Cost disclosure of the biometric risk premium of insurance based investment products
+
+Costs part of biometric risk premiums
+
+54\. Biometric risk premiums are those premiums paid directly by the retail investor or deducted from the amounts credited to the mathematical provision or from the participation bonus of the insurance policy, that are intended to cover the statistical risk of benefit payments from insurance coverage.
+
+55\. The fair value of biometric risk premiums is the expected present value, according to the interest rates referred to in point 71(a) of this Annex, of the future benefit payments from insurance coverage taking into account the following:
+
+(a) best estimate assumptions on these benefit payments derived from the individual risk profile of the portfolio of the individual manufacturer;
+
+(b) other payoffs related to insurance cover (rebates on biometric risk premiums paid back to the the retail investors, increase of benefit payments, reduction of future premiums, etc.) resulting from profit sharing mechanisms (legal and/or contractual).
+
+56\. Best estimate assumptions on future benefit payments from insurance coverage shall be set in a realistic way.
+
+57\. The estimated future benefit payments shall not include prudency margins or costs for the management of the insurance cover.
+
+58\. For manufacturers within the scope of Directive 2009/138/EC these best estimate assumptions shall be consistent with the respective assumptions used for the calculation of the technical provisions in the Solvency II balance sheet.
+
+59\. The cost part of biometric risk premiums is the difference between biometric risk premiums charged to the retail investor referred to in point 54 of this Annex and the fair value of the biometric risk premiums referred to in point 55 of this Annex.
+
+60\. A PRIIP manufacturer may include the full biometric risk premiums in the calculation of one-off costs or recurring costs in the place of the cost part of those premiums.
+
+**PART 2**
+
+**Summary cost indicators and compound effect of the costs**
+
+**I. AGGREGATED COST FIGURES TO BE INCLUDED IN TABLE 1 ‘COSTS OVER TIME’**
+
+61\. The total costs shall be all the costs known by the PRIIP manufacturer, including exit costs where applicable, for the relevant holding period and shall be calculated as follows:
+
+(a) for investment funds the sum of the costs as referred to in points 1 and 2 of this Annex plus the sum of the costs as referred to in points 4 and 6 of this Annex;
+
+(b) for PRIPs other than investment funds, except PRIIPs referred in point 30 of Annex IV, the sum of the costs as referred to in points 27 and 28 of this Annex plus the sum of the costs as referred to in points 31 and 32 of this Annex;
+
+(c) for PRIIPs referred to in point 30 of Annex IV, the sum of the costs as referred to in points 34 and 35 of this Annex;
+
+(d) for insurance-based investment products, the sum of the costs as referred to in points 47 and 48 plus the sum of the costs as referred to in points 50 and 51 of this Annex.
+
+62\. The table ‘Costs over time’ shall also include aggregated summary cost indicators of the PRIIP calculated as the reduction of the yield due to total costs calculated in accordance with points 70, 71 and 72 of this Annex.
+
+63\. When an assumption on the performance of the PRIIP is needed for the calculation of the cost figures (for figures in monetary or percentage terms), the performance of the PRIIP used in the calculation shall be determined in accordance with point 71 of this Annex.
+
+**II. SUMMARY COST INDICATORS PER TYPE OF COST TO BE INCLUDED IN TABLE 2 ‘COMPOSITION OF COSTS’**
+
+One-off costs and one-off costs indicators
+
+64\. For the calculation of the entry and exit costs indicators the costs to be considered shall be those identified as entry or exit costs in accordance with Part 1 of this Annex. For insurance-based investment products, the entry and exit costs indicators of the PRIIP shall be the reduction of the annual yield due to entry and exit costs considering the PRIIP is held until the recommended holding period, calculated in accordance with points 70, 71 and 72 of this Annex. For PRIPs, the entry and exit costs indicators shall be the costs in monetary units if the product is held for one year (or for the recommended holding period if shorter), calculated assuming a net performance of 0 %.
+
+Recurring costs indicators: Transaction costs and other recurring costs
+
+65\. The recurring costs indicators of the PRIIP shall be calculated as follows:
+
+(a) for insurance based investment products, as the reduction of the annual yield due to those costs considering the PRIIP is held until the recommended holding period calculated in accordance with points 70, 71 and 72 of this Annex;
+
+(b) for PRIPs, as the amount of ongoing costs in monetary units if the product is held for one year (or for the recommended holding period if shorter), calculated assuming a net performance of 0 %.
+
+66\. For the calculation of the transaction costs indicator, the following costs shall be considered:
+
+(a) for investment funds, the transaction costs referred to in points 7 to 23c of this Annex;
+
+(b) for PRIPs other than investment funds, except PRIIPs referred in point 30 of Annex IV, the costs referred to in point 29(c) of this Annex;
+
+(c) for insurance-based investment products, the costs referred to in point 52(h) of this Annex.
+
+67\. For the calculation of the other recurring costs indicator (referred to in Annex VII as ‘management fees and other administrative or operating costs’), the costs to be considered are the difference between the total costs pursuant to point 61 of this Annex and the sum of the one-off costs indicator, pursuant to point 64 of this Annex, plus the transaction costs indicator, pursuant to point 66 of this Annex, plus the incidental costs indicators, pursuant to points 68 and 69 of this Annex.
+
+Incidental costs and incidental costs indicators (performance fees and carried interests)
+
+68\. The incidental costs indicator of the PRIIP shall be calculated as follows:
+
+(a) for insurance-based investment products, as the reduction of the annual yield due to performance fees or carried interest or both considering the PRIIP is held until the recommended holding period calculated in accordance with points 70, 71 and 72 of this Annex;
+
+(b) for PRIPs, as those costs in monetary units if the PRIIP is held for one year (or for the recommended holding period if shorter), calculated assuming a net performance of 0 %.
+
+69\. For the calculation of the performance fees the costs pursuant to point 6(a) of this Annex shall be considered for investment funds. For the calculation of the carried interests, the costs pursuant to point 6(b) of this Annex shall be considered for investment funds.
+
+**III. CALCULATION OF THE COST FIGURES**
+
+Calculation of summary cost indicator
+
+70\. The reduction in yield mentioned in parts I and II of this Annex shall be calculated using amounts consistent with those specified in points 90 and 91 of this Annex. It shall be calculated as the difference between two percentages i and r where r is the annual internal rate of return in relation to gross payments by the retail investor and estimated benefit payments to the retail investor for the relevant holding period, and i is the annual internal rate of return for the respective cost free scenario.
+
+71\. The estimation of future benefit payments for the calculation of costs pursuant to point 70 of this Annex shall be based on the following assumptions:
+
+(a) for PRIIPs as referred to in point 30 of Annex IV, and for all PRIIPs for the cost indicators showing the case that the PRIIP is held for one year or less, a standardised net performance of 0 % shall be assumed;
+
+(b) except where point (a) applies, the performance of the PRIIP shall be calculated applying the methodology and the underlying hypothesis used for the estimation of the moderate scenario from the performance scenarios section of the key information document;
+
+(c) the benefit payments shall be estimated under the assumption that all costs included in the total costs pursuant to point 61 of this Annex are deducted.
+
+72\. For the purpose of the calculation of the cost free scenario as referred to in point 70 of this Annex the following shall apply:
+
+(a) for the calculation of i either gross payments by the retail investor from the calculation of r shall be reduced by the costs to be disclosed or the projected benefit payments to the retail investor from the calculation of r shall be increased under the assumption that the amounts of the costs to be disclosed had additionally been invested. Then i is the annual internal rate of return in relation to these adjusted payments by and to the retail investor;
+
+(b) where costs to be disclosed can be expressed as a constant percentage of the value of the assets they may be disregarded in the calculation described in point 72(a) of this Annex and instead be added to the percentage of the annual internal rate of return i for the respective cost free scenario afterwards.
+
+Specific requirements for PRIPs other than investment funds
+
+73\. For the purpose of the calculation of the cost free scenario as referred to in point 70 of this Annex for PRIPs other than investment funds, gross payments by the retail investor from the calculation of r, as referred to in point 72 of this Annex, shall be reduced by the costs to be disclosed.
+
+Specific requirements for insurance-based investment products
+
+74\. For the purpose of the calculations described in points 70 to 72 of this Annex, it shall be assumed that, for insurance-based investment products, no payments resulting from insurance coverage occur during the holding period. That is to say, the calculation of the summary cost indicator shall be solely based on estimated endowment benefit payments.
+
+75\. To the extent recurring and one-off costs are covered by explicit costs that are a fixed part of the premium calculation of the product the calculation of recurring and one-off costs shall be based on these explicit costs.
+
+76\. For profit participation for insurance based investment products the following shall apply:
+
+(a) when calculating recurring costs and one-off costs for insurance-based investment products amounts retained from the investment return through profit sharing mechanisms shall be considered as costs;
+
+(b) where a part of the costs is returned to retail investors by separate cost bonuses this shall be considered as a cost rebate that reduces cost deductions provided:
+
+(i) that the cost bonuses are declared separately from other parts of the participation bonus and are intended for refunding parts of the costs by the contractual terms of the product.
+
+(ii) that the PRIIP manufacturer can substantiate on the basis of sound actuarial methods that expected future cost bonuses are covered by expected future profits that result from prudent assumptions on future costs.
+
+Specific requirements for PRIIPs with a recommended holding period of less than 1 year
+
+76a. The cost indicators in percentage terms shall be calculated considering the aggregated cost in the period divided by the investment amount and a footnote shall be added to explain that calculation and warn about the lack of comparability with annual cost indicators in percentage terms shown for other PRIIPs.
+
+Specific requirements for PRIIPs that are forward contracts, future contracts, contracts for difference, or swaps
+
+76b. The cost indicators in percentage terms shall be calculated considering the notional amount of the contract and a footnote shall be added to explain that calculation.
+
+Specific requirements for PRIIPs that may be called or cancelled automatically before the end of the recommended holding period if certain predefined conditions are met
+
+76c. Cost figures shall be shown assuming two different scenarios:
+
+(a) the PRIIP is called at the first possible date;
+
+(b) the PRIIP reaches maturity.
+
+The cost figures shall be calculated assuming a performance coherent with each scenario.
+
+Anti-double counting principle
+
+77\. If one type of cost is covered by two or more types of costs as referred to in this Annex, that type of cost shall only be accounted for once in the calculation of the indicators (ratios) which are based on it.
+
+Other specifications
+
+78\. The cost figures in monetary amounts shall be rounded to the nearest euro. The cost indicators in percentage terms shall be expressed to one decimal place.
+
+79\. The cost figures shall be calculated at least once a year.
+
+80\. The cost figures shall be based on the most recent cost calculations determined by the PRIIP manufacturer. Without prejudice to point 77 of this Annex, the costs shall be assessed on an ‘all taxes included’ basis.
+
+For investment funds, the following shall apply:
+
+(a) a separate calculation performed for each share class, but if the units of two or more classes rank pari passu, a single calculation may be performed for them;
+
+(b) in the case of a fund which is an umbrella, each constituent compartment or sub- fund shall be treated separately for the purpose of this Annex, but any charges attributable to the fund as a whole apportioned among all of the sub-funds on a basis that is fair to all investors.
+
+81\. Apart from the first calculation for a new PRIIP, and if not stated otherwise, the ratios shall be calculated at least once a year, on an ex-post basis. Where it is considered unsuitable to use the ex-post figure because of a material change, an estimate may be used instead until reliable ex-post figures reflecting the impact of the material change become available.
+
+82\. The ex-post figures shall be based on recent cost calculations which the PRIIP manufacturer has determined on reasonable grounds to be appropriate for that purpose. The figures may be based on the costs set out in the PRIIP’s statement of operations published in its latest annual or half-yearly report, if that statement is sufficiently recent. If it is not sufficiently recent, a comparable calculation based on the costs charged during a more recent 12-month period shall be used instead.
+
+83\. Information about the ratios that were applicable during previous years/periods shall be published at the location which is specified in the key information document as the general source of further information for investors who require it.
+
+84\. Where the costs attributable to an underlying UCITS or AIF are to be taken into account the following shall apply:
+
+(a) the cost indicator of each underlying UCITS or AIF shall be pro-rated according to the proportion of the PRIIP’s net asset value which that UCITS or AIF represents at the relevant date, this being the date at which the PRIIP’s figures are taken;
+
+(b) all the pro-rated figures shall be added to the total cost figure of the investing PRIIP itself, thus presenting a single total.
+
+Calculation methodology for new PRIIPs
+
+85\. In place of ex-post data, estimates shall be used in the calculation of the different types of costs. Such estimates shall be carried out by adopting as proxies either a comparable PRIIP or a peer group.
+
+86\. For PRIIPs which charge a fixed all-inclusive fee, that fee shall be used provided it includes all costs to be presented under the PRIIPs cost disclosure requirements.
+
+87\. For PRIIPs which set a cap or maximum on the amount that can be charged, and provided it includes all costs to be presented under the PRIIPs cost disclosure requirements, that cap or maximum shall be used instead so long as the PRIIP manufacturer gives a commitment to respect the published figure and to absorb any costs that would otherwise cause it to be exceeded.
+
+88\. If, in the PRIIP manufacturer's opinion, expressing a figure to two decimal places would be likely to suggest a spurious degree of accuracy to investors, it shall be sufficient to express that figure to one decimal place.
+
+89\. The PRIIP manufacturer shall ensure that the accuracy of the estimated figure is kept under review. The PRIIP manufacturer shall determine when it is appropriate to begin using ex-post figures rather than an estimate; but in any case it shall, no later than 12 months after the date on which the PRIIP was first offered for sale in any Member State, review the accuracy of the estimate by calculating a figure on an ex-post basis.
+
+Common requirements to all types of PRIIPs
+
+90\. The tables referred to in Article 5 shall contain an indication of the costs known by the PRIIP manufacturer in monetary and percentage terms for the case that the retail investor invests, respectively 10 000 EUR in the PRIIP (for all PRIIPs except those that are regular premium or regular payment products), or 1 000 EUR yearly (for regular premium or payment PRIIPs). The cost figures shall be shown for different holding periods, including the recommended holding period, as follows:
+
+(a) for PRIIPs with a recommended holding period of one year or less, only costs in case of exit at the end of the recommended holding period shall be shown;
+
+(b) for PRIIPs with a recommended holding period longer than one year and shorter than 10 years, costs shall be shown considering exit at the end of the first year and at the end of the recommended holding period;
+
+(c) for PRIIPs with a recommended holding period of 10 years or more an additional holding period shall be shown, disclosing cost figures in case of exit at half the recommended holding period rounded to the end of the nearest year;
+
+(d) where a PRIIP does not allow exit before the recommended holding period, or where a PRIIP is considered not to have an alternative liquidity facility promoted by the PRIIP manufacturer or a third party, or where there is an absence of liquidity arrangements, or for those PRIIPs as referred to in point 30 of Annex IV, costs may be shown at the end of the recommended holding period only.
+
+91\. Where the currency of the PRIIP is not in Euros, an amount of a similar magnitude to those set out in point 90 of this Annex and which is cleanly divisible by 1 000 shall be used.
+
+## ANNEX VII — PRESENTATION OF COSTS
+
+Immediately under the heading of the section entitled ‘What are the costs?’, the following warning shall be included, unless the PRIIP manufacturer knows that no additional costs will be charged by the person advising on, or selling, the PRIIP:
+
+‘The person advising on or selling you this product may charge you other costs. If so, this person will provide you with information about these costs and how they affect your investment.’
+
+In the cost tables set out below, the term ‘exit’ shall be used to represent the end of the investment. Where that term might be misleading for specific types of PRIIPs, an alternative term may be used, such as ‘terminate’ or ‘surrender’.
+
+**Table 1 for all PRIIPs except those referred to in Article 13, point (b) and in point 76c of Annex VI (autocallables)**
+
+The PRIIP manufacturer shall include the following headings, narratives and the table 1 showing the aggregated cost figures in monetary and percentage terms specified in points 61 and 62 of Annex VI with the holding periods referred to in point 90 of that Annex:
+
+**‘ Costs over time**
+
+The tables show the amounts that are taken from your investment to cover different types of costs. These amounts depend on how much you invest, how long you hold the product [and how well the product does (where applicable)]. The amounts shown here are illustrations based on an example investment amount and different possible investment periods.
+
+We have assumed:
+
+— [In the first year] you would get back the amount that you invested (0 % annual return). [For the other holding periods we have assumed the product performs as shown in the moderate scenario]
+
+— [EUR 10 000 /1 000 per year] is invested’
+
+<table>
+<tbody><tr><td>  </td><td>If you [exit] after 1 year (where applicable) </td><td>If you [exit] after [1/2 recommended holding period] (where applicable) </td><td>If you [exit] after [recommended holding period]</td></tr>
+<tr><td>Total costs</td><td>[] EUR</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>Annual cost impact(*1)</td><td>[] %</td><td>[] % each year</td><td>[] % each year</td></tr>
+<tr><td colspan="4">(*1)  ‘This illustrates how costs reduce your return each year over the holding period. For example it shows that if you exit at the recommended holding period your average return per year is projected to be [] % before costs and [] % after costs.’  (Where applicable): ‘We may share part of the costs with the person selling you the product to cover the services they provide to you. (Where applicable) [They will inform you of the amount].’  (Where applicable): ‘These figures include the maximum distribution fee that the person selling you the product may charge ([] % of amount invested/[] EUR). This person will inform you of the actual distribution fee.’; </td></tr>
+</tbody>
+</table>
+
+**Table 1 for PRIIPs referred to in point (b) of Article 13**
+
+The PRIIP manufacturer shall include the following headings, narratives and the table 1 showing the aggregated cost figures in monetary and percentage terms specified in points 61 and 62 of Annex VI with the holding periods referred to in point 90 of that Annex and providing a split between the costs of the PRIIP other than the costs of the underlying investment options (‘insurance contract’) and the range of costs of the underlying investment options (‘investment options’):
+
+**‘ Costs over time**
+
+The tables show the amounts that are taken from your investment to cover different types of costs. These amounts depend on how much you invest, how long you hold the product [and how well the product does (where applicable)]. The amounts shown here are illustrations based on an example investment amount and different possible investment periods.
+
+We have assumed:
+
+— In the first year you would get back the amount that you invested (0 % annual return). For the other holding periods we have assumed the product performs as shown in the moderate scenario
+
+— [EUR 10 000 /1 000 per year] is invested
+
+[Statement indicating that the total costs to the retail investor consist of a combination of the costs of the PRIIP other than the costs of the underlying investment options and the investment option costs and vary on the basis of the underlying investment options]’
+
+<table>
+<tbody><tr><td>  </td><td>If you [exit] after 1 year (where applicable) </td><td>If you [exit] after [1/2 recommended holding period] (where applicable) </td><td>If you [exit] after [recommended holding period]</td></tr>
+<tr><td colspan="4">Total costs</td></tr>
+<tr><td>— Insurance contract — Investment options </td><td>[] EUR [] – [] EUR </td><td>[] EUR [] – [] EUR </td><td>[] EUR [] – [] EUR </td></tr>
+<tr><td colspan="4">Annual cost impact(*1)</td></tr>
+<tr><td>— Insurance contract — investment options </td><td>[] % [] – [] % </td><td>[] % each year [] – [] % each year </td><td>[] % each year [] – [] % each year </td></tr>
+<tr><td colspan="4">(*1)  ‘This illustrates how costs reduce your return each year over the holding period. For example it shows that if you exit at the recommended holding period your average return per year is projected to be [] % before costs and [] % after costs.’  (Where applicable): ‘We may share part of the costs with the person selling you the product to cover the services they provide to you. (Where applicable) [They will inform you of the amount.]’  (Where applicable): ‘These figures include the maximum distribution fee that the person selling you the product may charge ([] % of amount invested/[] EUR). This person will inform you of the actual distribution fee.’ </td></tr>
+</tbody>
+</table>
+
+**Table 1 for PRIIPs referred to in point 76c of Annex VI (Autocallables)**
+
+For PRIIPs referred to in point 76c of Annex VI, the heading, narrative and table 1 ‘Costs over Time’ shall be the following:
+
+**‘ Costs over time**
+
+The tables show the amounts that are taken from your investment to cover different types of costs. These amounts depend on how much you invest, how long you hold the product [and how well the product does (where applicable)]. The amounts shown here are illustrations based on an example investment amount and different investment periods.
+
+The duration of this product is uncertain as it may terminate at different times depending on how the market evolves. The amounts shown here consider two different scenarios (early call and maturity). In case you decide to exit before the product ends, exit costs may apply in addition to the amounts shown here.
+
+We have assumed:
+
+— [EUR 10 000 /1 000 per year] is invested
+
+— a performance of the product that is consistent with each holding period shown.’
+
+<table>
+<tbody><tr><td>  </td><td>If the product is called at the first possible date []</td><td>If the product reaches maturity</td></tr>
+<tr><td>Total costs</td><td>[] EUR</td><td>[] EUR</td></tr>
+<tr><td>Annual cost impact(*1)</td><td>[] %</td><td>[] % each year</td></tr>
+<tr><td colspan="3">(*1)  ‘This illustrates how costs reduce your return each year over the holding period. For example, it shows that if you exit at maturity your average return per year is projected to be [] % before costs and [] % after costs.’  (Where applicable): ‘We may share part of the costs with the person selling you the product to cover the services they provide to you. (Where applicable) [They will inform you of the amount.]’  (Where applicable): ‘These figures include the maximum distribution fee that the person selling you the product may charge ([] % of amount invested/[] EUR). This person will inform you of the actual distribution fee.’ </td></tr>
+</tbody>
+</table>
+
+**Table 2 for all PRIIPs except those referred to in point (b) of Article 13**
+
+The PRIIP manufacturer shall include a breakdown of costs according to the classification referred to in points 64 to 69 of Annex VI, using the headings and table 2 below.
+
+A very brief description of the nature of each type of the costs shall be included. This shall include a numeric indicator (monetary amount or percentage) and the basis used for the calculation where this can be presented in simple terms that are likely to be understood by the type of retail investor to whom the PRIIP is intended to be marketed. The description shall be based on one or more of the examples included in the table below, unless these are not applicable.
+
+**‘ Composition of Costs**
+
+<table>
+<tbody><tr><td colspan="2">One-off costs upon entry or exit</td><td>(PRIPs): If you [exit] after [1 year/recommended holding period (if less than 1 year)] (Insurance based investment products): Annual cost impact if you [exit] after [recommended holding period]</td></tr>
+<tr><td>Entry costs</td><td>[Describe nature in no more than 300 characters. Examples: — ‘[] % of the amount you pay in when entering this investment’  — ‘[] % of the first [] premiums you pay’  — ‘These costs are already included in the [price/premiums] you pay’  — ‘This includes distribution costs of [[] % of amount invested/[] EUR]. [This is the most you will be charged]. [The person selling you the product will inform you of the actual charge]’  — ‘We do not charge an entry fee’] </td><td>[Up to] [] EUR (PRIPs) or [] % (IBIPs)</td></tr>
+<tr><td>Exit costs</td><td>[Describe nature in no more than 300 characters. Examples: — ‘[] % of your investment before it is paid out to you’  — ‘We do not charge an exit fee for this product, [but the person selling you the product may do so]’  (Where exit costs only apply in specific circumstances) – ‘These costs only apply if (explain circumstances or an example in maximum 200 characters)’  For insurance-based investment products where exit costs only apply before exit at the recommended holding period, the column to the right shall state ‘N/A’ and the following statement shall be included in this column in addition to the descriptions above: ‘Exit costs are stated as ‘N/A’ in the next column as they do not apply if you keep the product until the recommended holding period’ </td><td>[] EUR (PRIPs) or [] % (IBIPs)</td></tr>
+<tr><td colspan="2">Ongoing costs [taken each year]</td><td>  </td></tr>
+<tr><td>Management fees and other administrative or operating costs</td><td>[Describe basis in no more than 150 characters. Example: ‘[] % of the value of your investment per year’].  This is an estimate based on actual costs over the last year. </td><td>[] EUR (PRIPs) or [] % (IBIPs)</td></tr>
+<tr><td>Transaction costs</td><td>[] % of the value of your investment per year. This is an estimate of the costs incurred when we buy and sell the underlying investments for the product. The actual amount will vary depending on how much we buy and sell.</td><td>[] EUR (PRIP) or [] % (IBIPs)</td></tr>
+<tr><td colspan="2">Incidental costs taken under specific conditions</td><td>  </td></tr>
+<tr><td>Performance fees [and carried interest]</td><td>[[Describe in no more than 300 characters]. The actual amount will vary depending on how well your investment performs. The aggregated cost estimation above includes the average over the last 5 years.] or [There is no performance fee for this product].</td><td>[] EUR (PRIP) or [] % (IBIPs)</td></tr>
+<tr><td colspan="3">(Where applicable): ‘Different costs apply depending on the investment amount [explain circumstances or use an example in maximum 150 characters]’</td></tr>
+</tbody>
+</table>
+
+For PRIIPs offering a range of options for investment, PRIIP manufacturers shall use the tables 1 and 2 of this Annex applying to all PRIIPs except those referred to in Article 13, point (b) and point 76c of Annex VI for the presentation of the costs, showing for the figures in each table, as relevant, the range of the costs.
+
+For PRIIPs with a recommended holding period of less than one year, instead of ‘Annual cost impact’, the label of the cost ratio in percentage terms in tables 1 and 2 shall be ‘Cost impact’ and the footnote under the table 1 shall state the following ‘This illustrates the effect of costs over a holding period of less than one year. This percentage cannot be directly compared to the cost impact figures provided for other PRIIPs’.
+
+For PRIIPs where cost ratios in percentage are calculated using the notional value the following footnote shall be added below the table: ‘This illustrates costs in relation to the notional value of the PRIIP’.’
+
+**Table 2 for PRIIPs referred to in point (b) of Article 13**
+
+The PRIIP manufacturer shall include a breakdown of costs according to the classification referred to in points 64 to 69 of Annex VI, using the headings and table 2 below. Where applicable for the type of cost, a split of costs shall be shown between the costs of the PRIIP other than the costs of the underlying investment options (‘insurance contract’) and the range of costs of the investment options (‘investment options’).
+
+A very brief description of the nature of each type of the costs shall be included. This shall include a numeric indicator (fixed amount or percentage) and the basis used for the calculation where this can be presented in simple terms that are likely to be understood by the type of retail investor to whom the PRIIP is intended to be marketed. The description shall be based on one or more of the examples included in the table below, unless these are not applicable.
+
+**‘ Composition of Costs**
+
+<table>
+<tbody><tr><td colspan="2">One-off costs upon entry or exit</td><td>Annual cost impact if you [exit] after [recommended holding period]</td></tr>
+<tr><td>Entry costs</td><td>[Describe nature in no more than 300 characters. Examples: — ‘[] % of the amount you pay in when entering this investment’  — ‘[] % of the first [] premiums you pay’  — ‘These costs are already included in the [price/premiums] you pay’  — ‘This includes distribution costs of [[] % of amount invested/[] EUR]. [This is the most you will be charged]. [The person sellingyou the product will inform you of the actual charge]’  — ‘We do not charge an entry fee’] </td><td>‘[] %’ or ‘Insurance contract [] % Investment option [] – [] %’</td></tr>
+<tr><td>Exit costs</td><td>[Describe nature in no more than 300 characters. Examples: — ‘[] % of your investment before it is paid out to you’.  — ‘We do not charge an exit fee for this product, [but the person selling you the product may do so]’.  (Where exit costs only apply in specific circumstances) – ‘These costs only apply if (explain circumstances or an example in maximum 200 characters)’  For insurance-based investment products where exit costs only apply before exit at the recommended holding period, the column to the right shall state ‘N/A’ and the following statement shall be included in this column in addition to the descriptions above: ‘Exit costs are stated as ‘N/A’ in the next column as they do not apply if you keep the product until the recommended holding period.’ </td><td>‘[] %’ or ‘Insurance contract [] % Investment option [] – [] %’</td></tr>
+<tr><td colspan="2">Ongoing costs taken each year</td><td>  </td></tr>
+<tr><td>Management fees and other administrative or operating costs</td><td>[Describe basis in no more than 150 characters. Example: ‘[] % of the value of your investment per year’].  This is an estimate based on actual costs over the last year. </td><td>‘[] %’ or ‘Insurance contract [] % Investment option [] – [] %’</td></tr>
+<tr><td>Transaction costs</td><td>[] % of the value of your investment per year. This is an estimate of the costs incurred when we buy and sell the underlying investments for the product. The actual amount will vary depending on how much we buy and sell.</td><td>‘[] %’ or ‘Insurance contract [] % Investment option [] – [] %’</td></tr>
+<tr><td colspan="2">Incidental costs taken under specific conditions</td><td>  </td></tr>
+<tr><td>Performance fees [and carried interest]</td><td>[[Describe in no more than 300 characters]. The actual amount will vary depending on how well your investment performs. The aggregated cost estimation above includes the average over the last 5 years.] or [There is no performance fee for this product].</td><td>‘[] %’ or ‘Insurance contract [] % Investment option [] – [] %’</td></tr>
+<tr><td colspan="3">(Where applicable): ‘Different costs apply depending on the investment amount [explain circumstances or use an example in maximum 150 characters]’’</td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII — CONTENT AND PRESENTATION OF PAST PERFORMANCE INFORMATION
+
+**Definitions**
+
+1\. For the purpose of presenting information on past performance the following definitions shall apply:
+
+(a) ‘UCITS’ means a UCITS authorised in accordance with Article 5 of Directive 2009/65/EC which:
+
+(i) is a Category 2 PRIIP as set out in point 5 of Annex II; and
+
+(ii) does not provide retail investors, at certain predetermined dates, with algorithm-based payoffs that are linked to the performance, or to the realisation of price changes or other conditions, of financial assets, indices or reference portfolios or have similar features;
+
+(b) ‘AIF’ means an AIF as defined in Article 4(1), point (a) of Directive 2011/61/EU which:
+
+(i) is a Category 2 PRIIP as set out in point 5 of Annex II;
+
+(ii) is an open-ended AIF as referred to in Article 1(2) of Commission Delegated Regulation (EU) No 694/2014 ( 14 ); and
+
+(iii) does not provide retail investors, at certain predetermined dates, with algorithm-based payoffs that are linked to the performance, or to the realisation of price changes or other conditions, of financial assets, indices or reference portfolios or have similar features;
+
+(c) ‘unit-linked insurance-based investment product’ means a unit-linked insurance- based investment product which:
+
+(i) is a Category 2 PRIIP as set out in point 5 of Annex II;
+
+(ii) has potential early exit or redemption possibilities prior to the recommended holding period, which are not subject to significant limiting conditions;
+
+(iii) provides benefits that are directly linked to the value of assets which are divided into units; and
+
+(iv) does not provide retail investors, at certain predetermined dates, with algorithm-based payoffs that are linked to the performance, or to the realisation of price changes or other conditions, of financial assets, indices or reference portfolios or have similar features.
+
+**Past performance calculation for UCITS or AIFs**
+
+2\. The calculation of past performance figures shall be based on the net asset value of the UCITS or AIFs, and they shall be calculated on the basis that any distributable income of the fund has been reinvested.
+
+**Use of ‘simulated’ data for past performance for UCITS or AIFs**
+
+3\. A simulated performance record for the period before data was available shall only be permitted in the following cases, provided that its use is fair, clear and not misleading:
+
+(a) a new share class of an existing UCITS or AIF or investment compartment may simulate its performance by taking the performance of another class, provided the two classes do not differ materially in the extent of their participation in the assets of the UCITS or the AIF;
+
+(b) a feeder UCITS or AIF may simulate its performance by taking the performance of its master UCITS or AIF, provided that one of the following conditions is met;
+
+(i) the feeder UCITS or AIF’s strategy and objectives do not allow it to hold assets other than units of the master UCITS or AIF and ancillary liquid assets;
+
+(ii) the feeder UCITS or AIF’s characteristics do not differ materially from those of the master UCITS or AIF.
+
+**Past performance calculation for unit-linked insurance-based investment products**
+
+4\. The calculation of past performance as described in point 2 of this Annex shall apply mutatis mutandis to unit-linked insurance-based investment products. The calculation shall be consistent either with the explanation of the impact of the biometric risk premium or the cost part of the biometric risk premium on the investment return as referred to in Article 2(4).
+
+**Presentation of past performance for UCITS or AIFs**
+
+5\. The information about the past performance of the UCITS or the AIF shall be presented in a bar chart covering the performance of the UCITS or the AIF for the last 10 years. The size of the bar chart shall allow for legibility.
+
+6\. UCITS or AIFs with performance of less than five complete calendar years shall use a presentation covering the last five years only.
+
+7\. Any year for which data is not available shall be shown as blank with no annotation other than the date.
+
+8\. For UCITS or AIFs which do not yet have performance data for one complete calendar year, a statement shall be included explaining that there is insufficient data to provide a useful indication of past performance to retail investors.
+
+9\. The bar chart layout shall be supplemented by the following statements, which shall appear prominently:
+
+(a) a warning about the limited value of past performance as a guide to future performance, using the following statement in bold letters:
+
+‘ Past performance is not a reliable indicator of future performance. Markets could develop very differently in the future.
+
+It can help you to assess how the fund has been managed in the past ’;
+
+(b) a narrative explaining what is shown which shall be included above the bar chart and shall state in bold letters:
+
+‘ This chart shows the fund’s performance as the percentage loss or gain per year over the last [x] years. ’;
+
+(c) if applicable, a product specific warning about the lack of representativeness of the past in accordance with point 15 of this Annex or if relevant other reasons with a maximum of 150 characters in plain language;
+
+(d) a brief explanation of which charges and fees have been included or excluded from the calculation of past performance where relevant. This shall not apply to UCITS or AIFs which do not have entry or exit charges. [An example narrative:
+
+‘ Performance is shown after deduction of ongoing charges. Any entry and exit charges are excluded from the calculation. ’];
+
+(e) an indication of the year in which the fund, compartment or share class came into existence;
+
+(f) if relevant an indication of the currency in which past performance has been calculated.
+
+10\. The information shall not contain any record of past performance for any part of the current calendar year.
+
+**Use of a benchmark alongside the past performance**
+
+11\. Where the section entitled ‘What is this product?’ of the key information document makes reference to a benchmark, a bar showing the performance of that benchmark shall be included in the chart alongside each bar showing past performance of the UCITS or the AIFs. This applies for UCITS or AIFs tracking a benchmark as well as for those managed in reference to a benchmark. A UCITS or AIF is deemed to be managed in reference to a benchmark, where the benchmark index plays a role in the management of the UCITS or AIF, such as for portfolio composition and/or performance measures.
+
+12\. For UCITS or AIFs which do not have past performance data over the required five or 10 years, the benchmark shall not be shown for years in which the UCITS or AIF did not exist.
+
+13\. If the UCITS or AIF is managed in reference to a benchmark as referred to in point 11 of this Annex, the narratives in point 9 of this Annex shall be supplemented as follows in bold letters:
+
+‘ This chart shows the fund’s performance as the percentage loss or gain per year over the last [] years against its benchmark. ’
+
+‘ It can help you to assess how the fund has been managed in the past and compare it to its benchmark. ’
+
+**Presentation of the bar chart**
+
+14\. The bar chart presenting past performance shall comply with the following criteria:
+
+(a) the scale of the Y-axis of the bar chart shall be linear, not logarithmic;
+
+(b) the scale shall be adapted to the span of the bars shown and shall not compress the bars so as to make fluctuations in returns harder to distinguish;
+
+(c) the X-axis shall be set at the level of 0 % performance;
+
+(d) a label shall be added to each bar indicating the return in percentage that was achieved;
+
+(e) past performance figures shall be rounded to one decimal place.
+
+**Impact and treatment of material changes**
+
+15\. Where a material change occurs in the UCITS’ or AIF’s objectives and investment policy during the period displayed in the bar chart referred to in points 5 to 10 of this Annex, the UCITS’ or AIF’s past performance prior to that material change shall continue to be shown.
+
+16\. The period prior to the material change referred to in point 15 of this Annex shall be indicated on the bar chart and labelled with a clear warning that the performance was achieved under circumstances that no longer apply.
+
+**Use of ‘simulated’ data for past performance**
+
+17\. In all cases where performance has been simulated in accordance with point 3 of this Annex, there shall be prominent disclosure on the bar chart that the performance has been simulated.
+
+18\. A UCITS or AIF changing its legal status but remaining established in the same Member State shall retain its performance record only where the competent authority of that Member State reasonably assesses that the change of status would not impact the UCITS’ or AIF’s performance.
+
+19\. In the case of mergers referred to in Article 2(1), points (p)(i) and (iii),) of Directive 2009/65/EC, only the past performance of the receiving UCITS shall be maintained.
+
+20\. Point 19 of this Annex shall apply mutatis mutandis in the case of mergers of AIFs.
+
+**Presentation of past performance of feeder UCITS or AIFs**
+
+21\. The past performance presentation of feeder UCITS or AIF shall be specific to the feeder UCITS or AIF, and shall not reproduce the performance record of the master UCITS or AIF.
+
+22\. Point 21 of this Annex shall not apply where:
+
+(a) the feeder UCITS or AIF shows the past performance of its master UCITS or AIF as a benchmark; or
+
+(b) the feeder was launched as a feeder UCITS or AIF at a later date than the master UCITS or AIF, and where the conditions of point 3 of this Annex are satisfied, and where a simulated performance is shown for the years before the feeder existed, based on the past performance of the master UCITS or AIF; or
+
+(c) the feeder UCITS has a past performance record from before the date on which it began to operate as a feeder, its own record being retained in the bar chart for the relevant years, with the material change labelled as required by point 16 of this Annex.
+
+**Presentation of past performance of unit-linked insurance-based investment products**
+
+23\. Points 5 to 16 of this Annex shall apply mutatis mutandis to unit-linked insurance-based investment products. The presentation shall be consistent either with the description of the impact of the biometric risk premium or the cost part of the biometric risk premium on the investment return referred to in Article 2(4).
+
+( 1 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+( 2 ) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19).
+
+( 3 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 4 ) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+( 5 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 6 ) Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (OJ L 302, 17.11.2009, p. 1).
+
+( 7 ) Commission Implementing Regulation (EU) 2016/1800 of 11 October 2016 laying down implementing technical standards with regard to the allocation of credit assessments of external credit assessment institutions to an objective scale of credit quality steps in accordance with Directive 2009/138/EC of the European Parliament and of the Council (OJ L 275, 12.10.2016, p. 19).
+
+( 8 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+( 9 ) Directive 2014/91/EU of the European Parliament and of the Council of 23 July 2014 amending Directive 2009/65/EC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards depositary functions, remuneration policies and sanctions (OJ L 257, 28.8.2014, p. 186).
+
+( 10 ) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+( 11 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 12 ) Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1).
+
+( 13 ) Commission Directive 2007/16/EC of 19 March 2007 implementing Council Directive 85/611/EEC on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as regards the clarification of certain definitions (OJ L 79, 20.3.2007, p. 11).
+
+( 14 ) Commission Delegated Regulation (EU) No 694/2014 of 17 December 2013 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to regulatory technical standards determining types of alternative investment fund managers (OJ L 183, 24.6.2014, p. 18).

@@ -1,0 +1,71 @@
+---
+title: "Council Regulation (EEC) No 1662/77 of 18 July 1977 on the safeguard measures provided for in the Cooperation Agreement and the Interim Agreement between the European Economic Community and the Kingdom of Morocco"
+identifier: "31977R1662"
+eli: "http://data.europa.eu/eli/reg/1977/1662/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1977-07-18
+entry_into_force: 1977-06-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1662"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC) No 1662/77 of 18 July 1977 on the safeguard measures provided for in the Cooperation Agreement and the Interim Agreement between the European Economic Community and the Kingdom of Morocco
+
+COUNCIL REGULATION (EEC) No 1662/77 of 18 July 1977 on the safeguard measures provided for in the Cooperation Agreement and the Interim Agreement between the European Economic Community and the Kingdom of Morocco
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Articles 43 and 113 thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Parliament (1),
+
+Whereas a Cooperation Agreement between the European Economic Community and the Kingdom of Morocco, hereinafter referred to as "the Cooperation Agreement", and an Interim Agreement (2) were signed on 27 April 1976;
+
+Whereas for the purpose of implementing the safeguard clauses and precautionary measures provided for in Articles 36 to 38 and 51 of the Cooperation Agreement and in Articles 28 to 30 and 37 of the Interim Agreement, detailed rules should be laid down for the application of Community Regulations, in particular Council Regulation (EEC) No 1439/74 of 4 June 1974 on common rules for imports (3) and Council Regulation (EEC) No 459/68 of 5 April 1968 on protection against dumping or the granting of bounties or subsidies by countries which are not members of the European Economic Community (4), as last amended by Regulation (EEC) No 2011/73 (5),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In the case of practices liable to lay the Community open to safeguard measures on the basis of Article 38 of the Cooperation Agreement and Article 30 of the Interim Agreement, the Commission shall decide, without prejudice to Article 2 of this Regulation and after examining the case on its own initiative or at the request of a Member State, whether the practices in question are compatible with the Agreement.
+
+## Article 2
+
+In the case of dumping or public aids liable to warrant the Community applying the measures provided for in Article 36 of the Cooperation Agreement and Article 28 of the Interim Agreement, the introduction of anti-dumping or countervailing duties shall be decided upon in accordance with the procedure and detailed rules laid down in Regulation (EEC) No 459/68.
+
+## Article 3
+
+In the case of practices liable to warrant the Community applying the measures provided for in Articles 37 and 51 of the Cooperation Agreement and Articles 29 and 37 of the Interim Agreement, appropriate safeguard measures may, on the conditions defined in these Articles, be adopted by the Council in accordance with the procedure and detailed rules laid down in Regulation (EEC) No 1439/74, and in particular Article 13 (2) and (3) thereof.
+
+In an emergency and on the conditions laid down in Article 37 of the Cooperation Agreement and Article 29 of the Interim Agreement: - the Commission may adopt the appropriate safeguard measures in accordance with the procedure and detailed rules laid down in Regulation (EEC) No 1439/74, and in particular Article 12 (2) and (3) thereof,
+
+- any Member State may take the interim safeguard measures in conformity with the procedure described in Article 14 (1) to (4) of Regulation (EEC) No 1439/74 pursuant to paragraphs 2 to 4 of that Article.
+
+## Article 4
+
+1\. This Regulation shall not preclude the application of Regulations on the common organization of agricultural markets or of Community or national administrative provisions resulting therefrom or of the special Regulations adopted under Article 235 of the Treaty for processed agricultural products ; it shall apply in addition thereto. (1)Opinion delivered on 8 July 1977 (not yet published in the Official Journal). (2)OJ No L 141, 28.5.1976, p. 97. (3)OJ No L 159, 15.6.1974, p. 1. (4)OJ No L 93, 17.4.1968, p. 1. (5)OJ No L 206, 27.7.1973, p. 3.
+
+2\. However, the second indent of the second paragraph of Article 3 shall not apply to products covered by such Regulations.
+
+## Article 5
+
+The Commission shall notify the Cooperation Council and the Joint Committee as laid down in Article 38 of the Cooperation Agreement and Article 30 of the Interim Agreement.
+
+## Article 6
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 July 1977.
+
+For the Council
+
+The President
+
+A. HUMBLET

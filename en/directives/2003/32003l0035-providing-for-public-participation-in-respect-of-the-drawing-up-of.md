@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment and amending with regard to public participation and access to justice Council Directives 85/337/EEC and 96/61/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2011 </td><td> L 26</td><td>1</td><td>28.1.2012</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2016/2284 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 </td><td> L 344</td><td>1</td><td>17.12.2016</td></tr>
+</table>
 
 **DIRECTIVE 2003/35/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

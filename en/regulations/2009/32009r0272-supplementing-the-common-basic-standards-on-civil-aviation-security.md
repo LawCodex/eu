@@ -1,0 +1,346 @@
+---
+title: "Commission Regulation (EC) No 272/2009 of 2 April 2009 supplementing the common basic standards on civil aviation security laid down in the Annex to Regulation (EC) No 300/2008 of the European Parliament and of the Council"
+identifier: "32009R0272"
+eli: "http://data.europa.eu/eli/reg/2009/272/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-04-02
+entry_into_force: 2009-12-31
+last_amended: 2013-03-21
+consolidated_version: "02009R0272-20130321"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0272-20130321"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 272/2009 of 2 April 2009 supplementing the common basic standards on civil aviation security laid down in the Annex to Regulation (EC) No 300/2008 of the European Parliament and of the Council
+
+**COMMISSION REGULATION (EC) No 272/2009**
+
+**of 2 April 2009**
+
+**supplementing the common basic standards on civil aviation security laid down in the Annex to Regulation (EC) No 300/2008 of the European Parliament and of the Council**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 297/2010 of 9 April 2010 </td><td> L 90</td><td>1</td><td>10.4.2010</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EU) No 720/2011 of 22 July 2011 </td><td> L 193</td><td>19</td><td>23.7.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1141/2011 of 10 November 2011 </td><td> L 293</td><td>22</td><td>11.11.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 245/2013 of 19 March 2013 </td><td> L 77</td><td>5</td><td>20.3.2013</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 272/2009**
+
+**of 2 April 2009**
+
+**supplementing the common basic standards on civil aviation security laid down in the Annex to Regulation (EC) No 300/2008 of the European Parliament and of the Council**
+
+## Article 1
+
+This Regulation provides for general measures to supplement the common basic standards set out in the Annex to Regulation (EC) No 300/2008 in order to:
+
+(a) allow methods of screening as laid down in part A of the Annex;
+
+(b) prohibit categories of articles as laid down in part B of the Annex;
+
+(c) provide grounds for granting access to airside and security restricted areas as laid down in part C of the Annex;
+
+(d) allow methods for the examination of vehicles, aircraft security checks and aircraft security searches as laid down in part D of the Annex;
+
+(e) establish criteria for recognising the equivalence of security standards of third countries as laid down in part E of the Annex;
+
+(f) set the conditions under which cargo and mail shall be screened or subjected to other security controls and determine the process for the approval or designation of regulated agents, known consignors and account consignors as laid down in part F of the Annex;
+
+(g) set the conditions under which air carrier mail and air carrier materials shall be screened or subjected to other security controls as laid down in part G of the Annex;
+
+(h) set the conditions under which in-flight supplies and airport supplies shall be screened or subjected to other security controls and determine the process for the approval or designation of regulated suppliers and known suppliers as laid down in part H of the Annex;
+
+(i) establish criteria for defining critical parts of security restricted areas as laid down in part I of the Annex;
+
+(j) establish criteria applicable for the recruitment of persons who will implement, or will be responsible for the implementation of, screening, access control or other security controls and instructors as well as the methods of training of those persons and persons who will be issued with an airport identification card or crew identification card as laid down in part J of the Annex; and
+
+(k) set the conditions under which special security procedures or exemptions from security controls may be applied as laid down in part K of the Annex.
+
+## Article 2
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1\. ‘airport supplies’ means all items intended to be sold, used or made available in security restricted areas of airports;
+
+2\. ‘in-flight supplies’ means all items other than:
+
+(a) cabin baggage;
+
+(b) items carried by persons other than passengers; and
+
+(c) air carrier mail and air carrier materials;
+
+intended to be taken on board an aircraft for use, consumption or purchase by passengers or crew during a flight;
+
+3\. ‘regulated supplier of in-flight supplies’ means a supplier whose procedures meet common security rules and standards sufficient to allow delivery of in-flight supplies directly to aircraft;
+
+4\. ‘known supplier of in-flight supplies’ means a supplier whose procedures meet common security rules and standards sufficient to allow delivery of in-flight supplies to an air carrier or regulated supplier, but not directly to aircraft;
+
+5\. ‘known supplier of airport supplies’ means a supplier whose procedures meet common security rules and standards sufficient to allow delivery of airport supplies to security restricted areas.
+
+## Article 3
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply as from the date specified in the implementing rules adopted in accordance with the procedure referred to in Article 4(3) of Regulation (EC) No 300/2008, but not later than 29 April 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**PART A.**
+
+**Methods of screening allowed**
+
+The implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may allow the use of the following methods of screening, individually or in combination, as a primary or secondary means and under defined conditions:
+
+1\. For the screening of persons:
+
+(a) hand search;
+
+(b) walk-through metal detection (WTMD) equipment;
+
+(c) hand-held metal detection (HHMD) equipment;
+
+(d) explosive detection dogs; and
+
+(e) explosive trace detection (ETD) equipment;
+
+(f) security scanners which do not use ionising radiation.
+
+2\. For the screening of cabin baggage, items carried by persons other than passengers, air carrier mail and air carrier materials except when to be loaded into the hold of an aircraft, in-flight supplies and airport supplies:
+
+(a) hand search;
+
+(b) visual check;
+
+(c) x-ray equipment;
+
+(d) explosive detection systems (EDS) equipment;
+
+(e) explosive detection dogs (EDD);
+
+(f) explosive trace detection (ETD) equipment; and
+
+(g) liquid explosive detection systems (LEDS) equipment.
+
+3\. For the screening of hold baggage, cargo and mail as well as air carrier mail and air carrier materials to be loaded into the hold of an aircraft:
+
+(a) hand search;
+
+(b) visual check;
+
+(c) x-ray equipment;
+
+(d) explosive detection systems (EDS) equipment;
+
+(e) explosive detection dogs;
+
+(f) explosive trace detection (ETD) equipment;
+
+(g) simulation chamber; and
+
+(h) metal detection equipment.
+
+In order to evaluate methods of screening using new technologies not foreseen at the time of adoption of this Regulation, the implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may allow the use of other methods on a trial basis and for a limited period of time on condition that such trials do not prejudice the overall levels of security.
+
+**PART B.**
+
+**Categories of articles that may be prohibited**
+
+The implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may prohibit, under defined conditions, the introduction of any or all of the following categories of articles into security restricted areas and on board an aircraft:
+
+(a) guns, firearms and other devices that discharge projectiles – devices capable, or appearing capable, of being used to cause serious injury by discharging a projectile;
+
+(b) stunning devices – devices designed specifically to stun or immobilise;
+
+(c) objects with a sharp point or sharp edge – objects with a sharp point or sharp edge capable of being used to cause serious injury;
+
+(d) workmen’s tools – tools capable of being used either to cause serious injury or to threaten the safety of aircraft;
+
+(e) blunt instruments – objects capable of being used to cause serious injury when used to hit; and
+
+(f) explosives and incendiary substances and devices – explosives and incendiary substances and devices capable, or appearing capable, of being used to cause serious injury or to pose a threat to the safety of aircraft.
+
+**PART B1**
+
+**Liquids, aerosols and gels**
+
+Liquids, aerosols and gels shall be permitted to be taken into security restricted areas provided they are screened or exempted from screening in accordance with the requirements of implementing rules adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008.
+
+**PART C.**
+
+**Access control: grounds for granting access to airside and security restricted areas**
+
+Access to airside and security restricted areas shall be granted according to the following criteria:
+
+1\. Access to airside may only be authorised if persons and vehicles have a legitimate reason to be there.
+
+In order to be granted access to airside a person shall carry an authorisation.
+
+In order to be granted access to airside a vehicle shall have a vehicle pass.
+
+2\. Access to security restricted areas may only be granted if persons and vehicles have a legitimate reason to be there.
+
+In order to be granted access to security restricted areas a person shall present an authorisation.
+
+In order to be granted access to security restricted areas a vehicle shall display a vehicle pass.
+
+**PART D.**
+
+**Methods allowed for the examination of vehicles, aircraft security checks and aircraft security searches**
+
+The implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may allow the use of the following methods for the examination of vehicles, aircraft security checks and aircraft security searches, individually or in combination, as a primary or secondary means and under defined conditions:
+
+(a) hand search;
+
+(b) visual check;
+
+(c) explosive detection dogs; and
+
+(d) explosive trace detection (ETD) equipment.
+
+In order to evaluate methods of examination using new technologies not foreseen at the time of adoption of this Regulation, the implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may allow the use of other methods on a trial basis and for a limited period of time on condition that such trials do not prejudice the overall levels of security.
+
+**PART E.**
+
+**Criteria for recognising the equivalence of security standards of third countries**
+
+The Commission shall recognise the equivalence of security standards of third countries in accordance with the following criteria:
+
+(a) The third country has a good record of cooperation with the Community and its Member States;
+
+(b) The Commission has verified that the third country applies satisfactory standards of aviation security, including quality control; and
+
+(c) The Commission has verified that:
+
+— as regards passengers and cabin baggage, security measures are applied equivalent to those set out in sections 1, 3, 11 and 12 and points 4.1 and 4.2 of the Annex to Regulation (EC) No 300/2008 and related implementing acts;
+
+— as regards hold baggage, security measures are applied equivalent to those set out in sections 1, 3, 5, 11 and 12 of the Annex to Regulation (EC) No 300/2008 and related implementing acts;
+
+— as regards cargo and mail, security measures are applied equivalent to those set out in sections 1, 3, 6, 11 and 12 of the Annex to Regulation (EC) No 300/2008 and related implementing acts; and/or
+
+— as regards aircraft security, security measures are applied equivalent to those set out in sections 1, 3, 11 and 12 and points 4.1 and 4.2 of the Annex to Regulation (EC) No 300/2008 and related implementing acts.
+
+**PART F.**
+
+**Cargo and mail**
+
+**1\. Cargo and mail: conditions under which they shall be screened or subjected to other security controls**
+
+Cargo and mail to be loaded on an aircraft shall be screened, unless:
+
+(a) security controls have been applied to the consignment by a regulated agent and the consignment has been protected from unauthorised interference from the time that those security controls were applied; or
+
+(b) security controls have been applied to the consignment by a known consignor and the consignment has been protected from unauthorised interference from the time that those security controls were applied; or
+
+(c) security controls have been applied to the consignment by an account consignor, the consignment has been protected from unauthorised interference from the time that those security controls were applied, and the cargo is carried on an all-cargo aircraft or the mail on an all-mail aircraft; or
+
+(d) security controls have been applied to transfer cargo and transfer mail, as referred to in point 6.1.2 of the Annex to Regulation (EC) No 300/2008.
+
+**2\. Cargo and mail: the process for the approval or designation of regulated agents, known consignors and account consignors**
+
+The following process for the approval or designation of regulated agents, known consignors and account consignors shall apply:
+
+1\. Regulated agents shall be approved by the appropriate authority.
+
+In order to be approved as a regulated agent, the applicant shall submit documentation on aviation security standards and shall then be subject to an on-site verification to ensure that it fulfils the required standards.
+
+2\. Known consignors shall be approved by the appropriate authority.
+
+In order to be approved as a known consignor, the applicant shall provide information on aviation security standards and shall be subject to an on-site verification to ensure that it fulfils the required standards.
+
+As an alternative to approval, the appropriate authority may allow a known consignor to be designated by a regulated agent until a date to be established in the implementing rules to be adopted pursuant to in Article 4(3) of Regulation (EC) No 300/2008.
+
+3\. Account consignors shall be designated by a regulated agent.
+
+In order to be designated as an account consignor, the regulated agent shall ensure that the prospective account consignor provides information on aviation security standards and shall make a validation.
+
+**PART G.**
+
+**Air carrier mail and air carrier materials: conditions under which they shall be screened or subjected to other security controls**
+
+Air carrier mail and air carrier materials to be loaded into the hold of an aircraft shall either be screened as hold baggage or subjected to the same security controls as for cargo and mail.
+
+Air carrier mail and air carrier materials to be loaded into any part of an aircraft other than the hold shall be screened as cabin baggage.
+
+**PART H.**
+
+**In-flight supplies and airport supplies**
+
+**1\. In-flight supplies and airport supplies: conditions under which they shall be screened or subjected to other security controls**
+
+1\. In-flight supplies to be loaded on an aircraft shall be screened, unless:
+
+(a) security controls have been applied to the supplies by an air carrier that delivers these to its own aircraft and the supplies have been protected from unauthorised interference from the time that those controls were applied until delivery at the aircraft; or
+
+(b) security controls have been applied to the supplies by a regulated supplier and the supplies have been protected from unauthorised interference from the time that those controls were applied until delivery at the aircraft or, where applicable, to the air carrier or another regulated supplier; or
+
+(c) security controls have been applied to the supplies by a known supplier and the supplies have been protected from unauthorised interference from the time that those controls were applied until delivery to the air carrier or regulated supplier.
+
+2\. Airport supplies shall be screened before being allowed into security restricted areas, unless security controls have been applied to the supplies by a known supplier and the supplies have been protected from unauthorised interference from the time that those controls were applied until they are in the security restricted area.
+
+**2\. In-flight supplies and airport supplies: the process for the approval or designation of regulated suppliers and known suppliers**
+
+1\. Regulated suppliers of in-flight supplies shall be approved by the appropriate authority by a date to be established in the implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008.
+
+In order to be approved as a regulated supplier of in-flight supplies, the applicant shall submit documentation on aviation security standards and shall then be subject to an on-site verification to ensure that it fulfils the required standards.
+
+2\. Known suppliers of in-flight supplies shall be designated by the operator or entity to whom it delivers.
+
+In order to be designated as a known supplier of in-flight supplies, the operator or entity to whom it delivers shall ensure that the prospective known supplier provides information on aviation security standards and shall make a validation.
+
+3\. Known suppliers of airport supplies shall be designated by the airport operator.
+
+In order to be designated as a known supplier of airport supplies, the airport operator shall ensure that the prospective known supplier provides information on aviation security standards and shall make a validation.
+
+**PART I.**
+
+**Criteria for defining critical parts of security restricted areas**
+
+The definition of critical parts of security restricted areas shall ensure that there is no contamination of screened departing passengers (both originating and transfer) and their cabin baggage as well as of screened departing hold baggage (both originating and transfer).
+
+**PART J.**
+
+**Staff recruitment and methods of training**
+
+**1\. Criteria for staff recruitment**
+
+The following criteria shall apply for the recruitment of both persons who will implement, or will be responsible for the implementation of, screening, access control or other security controls and instructors:
+
+(a) they shall have successfully completed a background check or pre-employment check in accordance with national rules; and
+
+(b) they shall have those abilities necessary to carry out the tasks to which they are assigned.
+
+**2\. Methods of training**
+
+The implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may require that:
+
+(a) persons implementing, or responsible for implementing, screening, access control or other security controls;
+
+(b) instructors; and
+
+(c) persons who will be issued with an airport identification card or crew identification card;
+
+receive theoretical, practical and/or on-the-job training.
+
+**PART K.**
+
+**Conditions under which special security procedures or exemptions from security controls may be applied**
+
+The implementing rules to be adopted pursuant to Article 4(3) of Regulation (EC) No 300/2008 may allow special security procedures or exemptions from security controls to be applied on condition that:
+
+(a) the procedure or exemption is established by the Commission or the appropriate authority; and
+
+(b) there are objective reasons that justify the procedure or exemption.
+
+( 1 ) OJ L 97, 9.4.2008, p. 72.
+
+( 2 ) OJ L 355, 30.12.2002, p. 1.

@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/1161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 188</td><td>116</td><td>12.7.2019</td></tr>
 <tr><td></td><td> DECISION (EU) 2024/1254 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 </td><td> L 1254</td><td>1</td><td>30.4.2024</td></tr>
+</table>
 
 **DIRECTIVE 2009/33/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -167,6 +169,7 @@ CPV Code Description
 
 **Table 2: Emission thresholds for clean light-duty vehicles**
 
+<table>
 <tbody><tr><td>Vehicle categories</td><td colspan="2">Until 31 December 2025</td><td colspan="2">From 1 January 2026</td></tr>
 <tr><td>  </td><td>CO2 g/km</td><td>RDE air pollutant emissions (1) as a percentage of emission limits (2)</td><td>CO2 g/km</td><td>RDE air pollutant emissions (1) as a percentage of emission limits (2)</td></tr>
 <tr><td>M1</td><td>50</td><td>80 %</td><td>0</td><td>n.a.</td></tr>
@@ -174,6 +177,7 @@ CPV Code Description
 <tr><td>N1</td><td>50</td><td>80 %</td><td>0</td><td>n.a.</td></tr>
 <tr><td colspan="5">(1)  Declared maximum real-driving emission (RDE) values of particles number (PN) in #/km and nitrogen oxides (NOx) in mg/km as reported in point 48.2 of the certificate of conformity, as described in Annex IX to Directive 2007/46/EC of the European Parliament and of the Council (*) for both complete and urban RDE trips.  (2)  The applicable emission limits laid down in Annex I to Regulation (EC) No 715/2007, or its successors. </td></tr>
 </tbody>
+</table>
 
 (*) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).
 
@@ -212,6 +216,7 @@ CPV Code Description
 
 **Table 4: Minimum procurement targets for the share of clean heavy-duty vehicles in the total number of heavy-duty vehicles covered by contracts referred to in Article 3 at Member State level (*)**
 
+<table>
 <tbody><tr><td>Member State</td><td colspan="2">Trucks (vehicle category N2 and N3)</td><td colspan="2">Buses (vehicle category M3) (*1)</td></tr>
 <tr><td>  </td><td>From 2 August 2021 to 31 December 2025</td><td>From 1 January 2026 to 31 December 2030</td><td>From 2 August 2021 to 31 December 2025</td><td>From 1 January 2026 to 31 December 2030</td></tr>
 <tr><td>Luxembourg</td><td>10 %</td><td>15 %</td><td>45 %</td><td>65 %</td></tr>
@@ -244,6 +249,7 @@ CPV Code Description
 <tr><td>Bulgaria</td><td>7 %</td><td>8 %</td><td>34 %</td><td>48 %</td></tr>
 <tr><td colspan="5">(*1)  Half of the minimum target for the share of clean buses has to be fulfilled by procuring zero-emission buses as defined in point 5 of Article 4. This requirement is lowered to one quarter of the minimum target for the first reference period if more than 80 % of the buses covered by the aggregate of all contracts referred to in Article 3, awarded during that period in a Member State, are double-decker buses. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).
 

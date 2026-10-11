@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the marketing of beet seed**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2003/61/EC of 18 June 2003 </td><td> L 165</td><td>23</td><td>3.7.2003</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2004/117/EC of 22 December 2004 </td><td> L 14</td><td>18</td><td>18.1.2005</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2016/317 of 3 March 2016 </td><td> L 60</td><td>72</td><td>5.3.2016</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/971 of 16 June 2021 </td><td> L 214</td><td>62</td><td>17.6.2021</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2002/54/EC**
 
@@ -515,6 +517,7 @@ This Directive is addressed to the Member States.
 
 6\. The minimum distances from neighbouring pollen sources shall be:
 
+<table>
 <tbody><tr><td colspan="2">Crop</td><td>Minimum distance</td></tr>
 <tr><td rowspan="2">1.</td><td>For the production of basic seed:</td><td>  </td></tr>
 <tr><td>— from any pollen sources of the genus Beta</td><td>1 000 m</td></tr>
@@ -536,6 +539,7 @@ This Directive is addressed to the Member States.
 <tr><td>— the intended pollinator being exclusively tetraploid, from tetraploid fodder beet pollen sources</td><td>300 m</td></tr>
 <tr><td>— between two fodder beet seed production fields in which male sterility is not used</td><td>300 m</td></tr>
 </tbody>
+</table>
 
 The above distances can be disregarded if there is sufficient protection from any undesirable foreign pollinator. No isolation is necessary between seed crops using the same pollinator.
 
@@ -551,6 +555,7 @@ The ploidy of both seed-bearing and pollen-shedding components of seed-producing
 
 (a)
 
+<table>
 <tbody><tr><td>  </td><td>Minimum analytical purity (% by weight) (1) </td><td>Minimum germination (% of clusters or pure seed) </td><td>Maximum moisture content (% by weight) (1) </td></tr>
 <tr><td colspan="4">(aa) sugar-beet</td></tr>
 <tr><td>— monogerm seed</td><td>97</td><td>80</td><td>15</td></tr>
@@ -563,6 +568,7 @@ The ploidy of both seed-bearing and pollen-shedding components of seed-producing
 <tr><td colspan="4">The percentage by weight of other seeds shall not exceed 0,3.</td></tr>
 <tr><td colspan="4">(1)  Excluding, where appropriate, granulated pesticides, pelleting substances or other solid additives. </td></tr>
 </tbody>
+</table>
 
 (b) special conditions for monogerm seed and for precision seed:
 
@@ -744,6 +750,7 @@ The label shall be grey.
 
 **(referred to by Article 33)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td rowspan="2">Directive 66/400/EEC</td><td>1 July 1968 (Article 14(1))</td></tr>
 <tr><td>1 July 1969 (other provisions) (1)(2)</td></tr>
@@ -773,9 +780,11 @@ The label shall be grey.
 <tr><td>Directive 98/96/EC</td><td>1 February 2000</td></tr>
 <tr><td colspan="2">(1)  For Denmark, Ireland and the United Kingdom, 1 July 1973 for Article 14(1), 1 July 1974 for the other provisions concerning basic seed and 1 July 1976 for the other provisions.  (2)  1 January 1986 for Greece, 1 March 1986 for Spain, 1 January 1991 for Portugal, and 1 January 1995 for Austria, Finland and Sweden.  (3)  The remaining stocks of labels bearing the abbreviation ‘EEC’ may continue to be used until 31 December 2001. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI — CORRELATION TABLE
 
+<table>
 <tbody><tr><td>Directive 66/400/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1</td><td>Article 1, 1st subparagraph</td></tr>
 <tr><td>Article 18</td><td>Article 1, 2nd subparagraph</td></tr>
@@ -883,5 +892,6 @@ The label shall be grey.
 <tr><td>—</td><td>ANNEX VI</td></tr>
 <tr><td colspan="2">(1)  98/95/EC, Article 9(2) and 98/96/EC, Article 8(2).  (2)  98/96/EC, Article 9. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ 125, 11.7.1966, p. 2289/66.

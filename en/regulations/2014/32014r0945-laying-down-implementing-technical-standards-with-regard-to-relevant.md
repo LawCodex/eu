@@ -1,0 +1,159 @@
+---
+title: "Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013 of the European Parliament and of the Council Text with EEA relevance"
+identifier: "32014R0945"
+eli: "http://data.europa.eu/eli/reg_impl/2014/945/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-09-04
+entry_into_force: 2014-11-07
+last_amended: 2023-10-17
+consolidated_version: "02014R0945-20231017"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0945-20231017"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013 of the European Parliament and of the Council Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 945/2014**
+
+**of 4 September 2014**
+
+**laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/125 of 29 January 2020 </td><td> L 24</td><td>1</td><td>30.1.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2056 of 26 September 2023 </td><td> L 238</td><td>89</td><td>27.9.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 945/2014**
+
+**of 4 September 2014**
+
+**laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Stock indices for the purposes of Article 344 of Regulation (EU) No 575/2013
+
+The list of stock indices, for which the treatments set out in the second sentence of Article 344(4) of Regulation (EU) No 575/2013 is available, are provided in the Annex.
+
+## Article 2 — Entry into Force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Stock indices meeting the requirements of Article 344 of Regulation (EU) No 575/2013**
+
+| Index | Country\Area |
+| --- | --- |
+| 1. STOXX Asia/Pacific 600 | Asia/Pacific |
+| 2. ASX100 | Australia |
+| 3. ATX | Austria |
+| 4. ATX Prime | Austria |
+| 5. BEL20 | Belgium |
+| 6. SaoPaulo – Bovespa | Brazil |
+| 7. TSX60 | Canada |
+| 8. CETOP20 Index | Central Europe |
+| 9. CSI 100 Index | China |
+| 10. CSI 300 Index | China |
+| 11. FTSE China A50 Index | China |
+| 12. Hang Seng Mainland 100 China | China |
+| 13. OMX Copenhagen 25 | Denmark |
+| 14. OMX Copenhagen Benchmark | Denmark |
+| 15. FTSE RAFI Developed 1000 | Developed Markets |
+| 16. CECE Composite Index EUR | Eastern Europe |
+| 17. FTSE RAFI Emerging Markets | Emerging Markets |
+| 18. MSCI Emerging Markets 50 | Emerging Markets |
+| 19. Cboe Eurozone 50 | Europe |
+| 20. DJ Euro STOXX 50 | Europe |
+| 21. FTSE All World Europe | Europe |
+| 22. FTSE Euro 100 | Europe |
+| 23. FTSE Eurofirst 100 | Europe |
+| 24. FTSE Eurofirst 300 | Europe |
+| 25. FTSE Eurofirst 80 | Europe |
+| 26. FTSE Eurotop 100 | Europe |
+| 27. MSCI Euro | Europe |
+| 28. MSCI Europe | Europe |
+| 29. MSCI Pan-Euro | Europe |
+| 30. NTX New Europe Blue Chip | Europe |
+| 31. S&P Euro | Europe |
+| 32. S&P Europe 350 | Europe |
+| 33. STOXX All Europe 100 | Europe |
+| 34. STOXX All Europe 800 | Europe |
+| 35. STOXX Europe 50 | Europe |
+| 36. STOXX Europe 600 | Europe |
+| 37. STOXX Europe 600 Equal Weight | Europe |
+| 38. STOXX Europe Lrg 200 | Europe |
+| 39. STOXX Europe Mid 200 | Europe |
+| 40. STOXX Europe Small 200 | Europe |
+| 41. STOXX Select Dividend 30 | Europe |
+| 42. OMXH25 | Finland |
+| 43. CAC40 | France |
+| 44. Cboe France 40 | France |
+| 45. SBF 120 | France |
+| 46. Cboe Germany 40 | Germany |
+| 47. DAX | Germany |
+| 48. HDAX | Germany |
+| 49. MDAX | Germany |
+| 50. SDAX | Germany |
+| 51. FTSE RAFI All World | Global |
+| 52. MSCI World Index | Global |
+| 53. Athens General | Greece |
+| 54. FT ASE Large Cap | Greece |
+| 55. Hang Seng | Hong Kong |
+| 56. Hang Seng China Enterprises | Hong Kong |
+| 57. NIFTY 50 | India |
+| 58. S&P BSE 100 | India |
+| 59. ISEQ 20 | Ireland |
+| 60. Cboe Italy 40 | Italy |
+| 61. FTSE MIB | Italy |
+| 62. Nikkei225 | Japan |
+| 63. Nikkei300 | Japan |
+| 64. TOPIX 400 | Japan |
+| 65. TOPIX Core 30 | Japan |
+| 66. S&P Latin America 40 | Latin America |
+| 67. FTSE Bursa Malaysia KLCI | Malaysia |
+| 68. FTSE Bursa Malaysia Top100 | Malaysia |
+| 69. MSE Share Index | Malta |
+| 70. INMEX Index | Mexico |
+| 71. IPC Index | Mexico |
+| 72. AEX | Netherlands |
+| 73. AMX | Netherlands |
+| 74. Cboe Netherlands 25 | Netherlands |
+| 75. NZSE50 | New Zealand |
+| 76. Cboe Norway 25 | Norway |
+| 77. OBX | Norway |
+| 78. OBXP | Norway |
+| 79. mWIG40 | Poland |
+| 80. WIG20 | Poland |
+| 81. MSCI Singapore Free Index | Singapore |
+| 82. Straits Times Index | Singapore |
+| 83. FTSE JSE Top 40 | South Africa |
+| 84. Cboe Spain 35 | Spain |
+| 85. IBEX35 | Spain |
+| 86. Cboe Sweden 30 | Sweden |
+| 87. OMX Stockholm 30 | Sweden |
+| 88. Cboe Switzerland 20 | Switzerland |
+| 89. SMI | Switzerland |
+| 90. SMI MID | Switzerland |
+| 91. SET 50 | Thailand |
+| 92. Cboe UK 100 | UK |
+| 93. FTSE 100 | UK |
+| 94. FTSE AIM 100 | UK |
+| 95. FTSE AIM UK 50 | UK |
+| 96. FTSE Fledgling | UK |
+| 97. FTSE mid-250 | UK |
+| 98. FTSE Small Cap | UK |
+| 99. Dow Jones Ind. Av. | USA |
+| 100. NASDAQ 100 | USA |
+| 101. S&P 500 | USA |

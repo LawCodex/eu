@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Recast version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DECISION of 15 December 2010 </td><td> L 332</td><td>40</td><td>16.12.2010</td></tr>
 <tr><td></td><td> REGULATION (EU) No 652/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>1</td><td>27.6.2014</td></tr>
 <tr><td> M3</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2019/120 of 24 January 2019 </td><td> L 24</td><td>27</td><td>28.1.2019</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2022/1933 of 12 October 2022 </td><td> L 266</td><td>19</td><td>13.10.2022</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2008/90/EC**
 
@@ -489,12 +491,14 @@ Vaccinium L.
 
 **(referred to in Article 22)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time limit for transposition</td><td>Date of application</td></tr>
 <tr><td>92/34/EEC</td><td>31 December 1992</td><td>31 December 1992 (1)</td></tr>
 <tr><td>2003/61/EC</td><td>10 October 2003</td><td>  </td></tr>
 <tr><td>2003/111/EC</td><td>31 October 2004</td><td>  </td></tr>
 <tr><td colspan="3">(1)  As far as Articles 5 to 11, 14, 15, 17, 19 and 24 are concerned, the date of application for each genus or species referred to in Annex II shall be fixed in accordance with the procedure provided for in Article 21, when the schedule referred to in Article 4 is drawn up (see Article 26(2) of Directive 92/34/EEC). </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

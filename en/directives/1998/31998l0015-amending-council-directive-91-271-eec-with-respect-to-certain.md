@@ -70,6 +70,7 @@ Table 2 of Annex I to Directive 91/271/EEC is replaced by the following text:
 
 Requirements for discharges from urban waste water treatment plants to sensitive areas which are subject to eutrophication as identified in Annex II.A(a).  One or both parameters may be applied depending on the local situation. The values for concentration or for the percentage of reduction shall apply.
 
+<table>
 <tbody><tr><td>Parameters</td><td>Concentration</td><td>Minimum percentage of reduction (1)</td><td>Reference method of measurement</td></tr>
 <tr><td rowspan="2">Total phosphorus</td><td> 2 mg/l (10 000 -100 000 p.e.)  </td><td rowspan="2">80</td><td rowspan="2">Molecular absorption spectrophotometry</td></tr>
 <tr><td>1 mg/l (more than 100 000 p.e.)</td></tr>
@@ -77,5 +78,6 @@ Requirements for discharges from urban waste water treatment plants to sensitive
 <tr><td>10 mg/l (more than 100 000 p.e.) (3)</td></tr>
 <tr><td colspan="4">(1) Reduction in relation to the load of the influent. (2) Total nitrogen means the sum of total Kjeldahl nitrogen (organic and ammoniacal nitrogen) nitrate-nitrogen and nitrite-nitrogen.  (3) These values for concentration are annual means as referred to in Annex I, paragraph D.4(c). However, the requirements for nitrogen may be checked using daily averages when it is proved, in accordance with Annex I, paragraph D.1, that the same level of protection is obtained. In this case, the daily average must not exceed 20 mg/l of total nitrogen for all the samples when the temperature from the effluent in the biological reactor is superior or equal to 12 °C. The conditions concerning temperature could be replaced by a limitation on the time of operation to take account of regional climatic conditions.’ </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 135, 30. 5. 1991, p. 40.

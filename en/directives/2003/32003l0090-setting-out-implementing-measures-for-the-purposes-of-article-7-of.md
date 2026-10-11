@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2005/91/EC of 16 December 2005 </td><td> L 331</td><td>24</td><td>17.12.2005</td></tr>
@@ -47,6 +48,7 @@ retrieved: 2026-10-11
 <tr><td> M19</td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2024/2963 of 29 November 2024 </td><td> L 2963</td><td>1</td><td>2.12.2024</td></tr>
 <tr><td> M20</td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2025/1079 of 2 June 2025 </td><td> L 1079</td><td>1</td><td>3.6.2025</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2025/2449 of 4 December 2025 </td><td> L 2449</td><td>1</td><td>5.12.2025</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2003/90/EC**
 

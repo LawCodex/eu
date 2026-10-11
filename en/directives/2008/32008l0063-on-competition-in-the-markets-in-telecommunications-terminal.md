@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2026/500 of 5 March 2026 </td><td> L 500</td><td>1</td><td>6.3.2026</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2008/63/EC**
 

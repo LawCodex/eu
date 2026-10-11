@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **relating to certain sugars intended for human consumption**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) No 1021/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2013 </td><td> L 287</td><td>1</td><td>29.10.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2001/111/EC**
 

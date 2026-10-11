@@ -1,0 +1,199 @@
+---
+title: "Commission Regulation (EU) 2020/797 of 17 June 2020 amending Regulation (EU) No 142/2011 as regards requirements for animal by-products and derived products originating from, and returning to, the Union following refusal of entry by a third country (Text with EEA relevance)"
+identifier: "32020R0797"
+eli: "http://data.europa.eu/eli/reg/2020/797/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2020-06-17
+entry_into_force: 2020-10-29
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0797"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2020/797 of 17 June 2020 amending Regulation (EU) No 142/2011 as regards requirements for animal by-products and derived products originating from, and returning to, the Union following refusal of entry by a third country (Text with EEA relevance)
+
+**COMMISSION REGULATION (EU) 2020/797**
+
+**of 17 June 2020**
+
+**amending Regulation (EU) No 142/2011 as regards requirements for animal by-products and derived products originating from, and returning to, the Union following refusal of entry by a third country**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (1), and in particular the first subparagraph of Article 41(3) and Article 42(2)(a) thereof,
+
+Whereas:
+
+(1) Commission Regulation (EU) No 142/2011 (2) lays down measures to implement the rules laid down in Regulation (EC) No 1069/2009, including public and animal health rules for import or transit of animal by-products and derived products into, or sent in transit through the Union, in order to prevent and minimise risks to public and animal health arising from those products.
+
+(2) Article 15 of Council Directive 97/78/EC (3) lays down rules concerning the veterinary checks to be conducted for the purposes of authorising the re-importation of consignments of products of Union origin returning to the Union following a refusal of entry by a third country. Regulation (EU) 2017/625 of the European Parliament and of the Council (4) repeals and replaces Directive 97/78/EC with effect from 14 December 2019.
+
+(3) Commission Delegated Regulation (EU) 2019/2074 (5) establishes rules for the performance of specific official controls of consignments of animals and goods referred to in Article 47(1)(a), (b) and (c) of Regulation (EU) 2017/625 originating from, and returning to, the Union following a refusal of entry by a third country, among them animal by-products and derived products.
+
+(4) The animal and public health requirements for the entry into the Union of animal by-products and derived products originating from, and returning to, the Union following a refusal of entry by a third country should be established in accordance with Articles 41 and 42 of Regulation (EC) No 1069/2009.
+
+(5) In the absence of animal and public health requirements relevant for the return of refused consignments of animal by-products and derived products, those consignments are subject to the general import rules set out in Regulation (EC) No 1069/2009 and product-specific requirements for importation set out in Annex XIV to Regulation (EU) No 142/2011, which could prevent the return to the Union of certain consignments of EU origin following refusal by a third country, for example because of the absence of the product-specific commercial document or health certificate required for entry.
+
+(6) However, animal and public health risk posed by animal by-products and derived products originating from the Union is different to risks posed by those commodities originating in third countries. A consignment of animal by-products and derived products originating from, and returning to, the Union following a refusal of entry by third countries therefore does not need to be accompanied by a commercial document, health certificate or where appropriate declaration which corresponds to a model currently laid down pursuant to point (d) of the first subparagraph of Article 42(2) of Regulation (EC) No 1069/2009 as required for consignments originating from third countries.
+
+(7) The aforementioned consignment should be allowed to enter the Union and to be sent to any establishment or plant approved in accordance with Article 24 of Regulation (EC) No 1069/2009 for the Category and type of animal by-products and derived products, provided that the competent authority of the place of destination in the Union has agreed to accept that consignment.
+
+(8) Certain consignments of animal by-products or derived products intended for export to third countries may be subject to checks by a competent authority in the Union other than those responsible for animal by-products or derived products. If the original seal has been replaced during those checks, the number of the new seal should be indicated in the accompanying documentation.
+
+(9) Therefore, to ensure appropriate animal and public health risk management and legal certainty, it is necessary to provide for conditions for the return to the Union of animal by-products and derived products of Union origin following a refusal of entry by a third country.
+
+(10) To ensure traceability of the returning consignments of animal by-product and derived products, their transport from the border control post of arrival in the Union to the establishment of destination should be monitored in accordance with the procedure provided for in Commission Delegated Regulation (EU) 2019/1666 (6).
+
+(11) Annex XIV to Regulation (EU) No 142/2011 should be amended accordingly.
+
+(12) As Delegated Regulation (EU) 2019/2074 applies from 14 December 2019, the rules laid down in this Regulation should also apply from that date.
+
+(13) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EU) No 142/2011 is amended as follows:
+
+(1) in Article 25(3), the following point is added:
+
+‘(c) the specific requirements for animal by-products and derived products originating from, and returning to, the Union following a refusal of entry by a third country, set out in Chapter VI of that Annex.’;
+
+(2) in Article 26, the following point is added:
+
+‘(e) the materials originating from a Member State and returning to that Member State following a refusal of entry by a third country, must comply with the specific requirements set out in Chapter VI of Annex XIV.’;
+
+(3) in Article 31, the following paragraph is added:
+
+‘By way of derogation from the first paragraph, animal by-products and derived products originating from, and returning to, the Union following a refusal of entry by a third country, must comply with the specific requirements set out in Chapter VI of Annex XIV.’;
+
+(4) Annex XIV is amended in accordance with the text in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 17 June 2020.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 300, 14.11.2009, p. 1.
+
+(2) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, 26.2.2011, p. 1).
+
+(3) Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries (OJ L 24, 30.1.1998, p. 9).
+
+(4) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+(5) Commission Delegated Regulation (EU) 2019/2074 of 23 September 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country (OJ L 316, 6.12.2019, p. 6).
+
+(6) Commission Delegated Regulation (EU) 2019/1666 of 24 June 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union (OJ L 255, 4.10.2019, p. 1).
+
+## ANNEX
+
+In Annex XIV to Regulation (EU) No 142/2011, the following Chapter VI is added:
+
+**‘CHAPTER VI**
+
+**REQUIREMENTS FOR THE ENTRY OF CONSIGNMENTS OF ANIMAL BY-PRODUCTS AND DERIVED PRODUCTS ORIGINATING FROM, AND RETURNING TO, THE UNION FOLLOWING REFUSAL OF ENTRY BY A THIRD COUNTRY**
+
+**Section 1**
+
+**Unpackaged or in bulk animal by-products and derived products, originating from, and returning to, the Union following refusal of entry by a third country not listed as a whole or part of its territory in Annex XIV**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>The competent authority at the border control post shall only authorise the entry into the Union of consignments of unpackaged or in bulk animal by-products or derived products originating from, and returning to, the Union following a refusal of entry by a third country not listed as a whole or part of its territory in Annex XIV for the entry into the Union of the type of product, where the following conditions are met:<table><tbody><tr><td>(a)</td><td>the consignment is accompanied by the official certificate or document, either in its original or as authenticated copy, or by the electronic equivalent of such certificate or document generated by use of IMSOC (1), issued by the competent authority of the Member State of export;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the consignment is accompanied by a declaration from the competent authority in the Member State of destination in which that authority agrees to receive the consignment and indicates the place of destination;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>the consignment complies with both of the following conditions:<table><tbody><tr><td>(i)</td><td>it has remained sealed with an intact original seal, if the application of a seal prior to leaving the Union was mentioned in the original certificate referred to in point 1(a) or another official document issued by an authority in the Union;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(ii)</td><td>it is accompanied by an official declaration of the competent authority or other public authority of the third country which refused the entry of the consignment indicating the reason for the refusal.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 2. | By way of derogation from point 1(a), in the case where the consignment was exported without accompanying official certificate or document, the origin of the consignment shall be authenticated in another way based on documented evidence presented by the operator responsible for the consignment. |
+| --- | --- | --- |
+
+|  | 3. | The transport of consignments of products referred to in point 1 from the border control post to the place of destination shall be monitored in accordance with Article 2 of Commission Delegated Regulation (EU) 2019/1666. |
+| --- | --- | --- |
+
+**Section 2**
+
+**Unpackaged or in bulk animal by-products and derived products originating from, and returning to, the Union following refusal of entry by a third country listed as a whole or part of its territory in Annex XIV**
+
+|  | 1. | The competent authority at the border control post shall only authorise the entry into the Union of consignments of unpackaged or in bulk animal by-products or derived products originating from, and returning to, the Union following a refusal of entry by a third country listed as a whole or part of its territory in Annex XIV for the entry into the Union of the type of product, where the requirements set out in points 1(a), (b) and (c)(ii), 2 and 3 of Section 1 are met. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Where the products referred to in point 1 have been unloaded, stored, re-loaded or the original seal has been replaced in or upon entry into the third country or part of its territory listed in Annex XIV, the consignment shall be accompanied by an official declaration of the competent authority or other public authority of that third country or territory:<table><tbody><tr><td>(a)</td><td>indicating the place and date of unloading, storage and re-loading and the seal number put on the container after reloading;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>confirming that:<table><tbody><tr><td>(i)</td><td>the seal on the vehicle or container of the consignment was only broken for the purpose of official controls;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(ii)</td><td>the products were handled only to the extent necessary, and in particular<table><tbody><tr><td>—</td><td>at the appropriate temperature required for the relevant types of animal by-products or derived products; and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in a way that prevents cross contamination of the products during the controls;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(iii)</td><td>the vehicle or container was immediately re-sealed after the official controls</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>indicating the reasons for unloading and storage.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**Section 3**
+
+**Packaged animal by-products and derived products originating from, and returning to, the Union following a refusal of entry by a third country**
+
+|  | 1. | The competent authority at the border control post shall only authorise the entry into the Union of consignments of packaged animal by-products or derived products originating from, and returning to, the Union following a refusal of entry by a third country where the requirements set out in Section 1 are met and the individual packaging of the products has remained intact as compared to its state before exportation. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Where the products referred to in point 1 have been unloaded in a third country, the consignment is accompanied by an official declaration of the competent authority or other public authority of the third country attesting that the products:<table><tbody><tr><td>(a)</td><td>have not been subjected to any handling other than unloading, storage and re-loading;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>were handled at the required temperature for the relevant types of animal by-products or derived products.’</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+(1) Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (“the IMSOC Regulation”) (OJ L 261, 14.10.2019, p. 37).

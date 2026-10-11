@@ -1,0 +1,274 @@
+---
+title: "Regulation (EU) No 913/2010 of the European Parliament and of the Council of 22 September 2010 concerning a European rail network for competitive freight Text with EEA relevance"
+identifier: "32010R0913"
+eli: "http://data.europa.eu/eli/reg/2010/913/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2010-09-22
+entry_into_force: 2010-09-01
+last_amended: 2024-07-18
+consolidated_version: "02010R0913-20240718"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R0913-20240718"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 913/2010 of the European Parliament and of the Council of 22 September 2010 concerning a European rail network for competitive freight Text with EEA relevance
+
+**REGULATION (EU) No 913/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 September 2010**
+
+**concerning a European rail network for competitive freight**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EU) No 1316/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2013 </td><td> L 348</td><td>129</td><td>20.12.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1679</td><td>1</td><td>28.6.2024</td></tr>
+</table>
+
+**REGULATION (EU) No 913/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 September 2010**
+
+**concerning a European rail network for competitive freight**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL
+
+### Article 1 — Purpose and scope
+
+1\. This Regulation lays down rules for the organisation, governance and management of international rail corridors for competitive rail freight with a view to developing a European rail network for competitive freight. It sets out rules for the organisation, management and the indicative investment planning of freight corridors.
+
+2\. This Regulation shall apply to the governance, management and use of railway infrastructure included in freight corridors, without prejudice to the responsibilities of the Member States regarding planning of and funding of such infrastructure.
+
+### Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the definitions laid down in Article 3 of Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area ( 1 ) shall apply.
+
+2\. In addition to the definitions referred to in paragraph 1:
+
+(a) ‘freight corridor’ means the freight railway lines of the European Transport Corridor as specified in Article 11(1) of Regulation (EU) 2024/1679 of the European Parliament and the Council of 13 July 2024 on Union guidelines for the development of the trans-European transport network ( 2 ) and in Annex III to that Regulation, including the railway infrastructure and its equipment and relevant rail services in accordance with Directive 2012/34/EU;
+
+(b) ‘implementation plan’ means the document presenting the means, the strategy and the measures that the parties concerned intend to implement which are necessary and sufficient to organise and manage the freight corridor;
+
+(c) ‘terminal’ means the installation provided along the freight corridor which has been specially arranged to allow either the loading or the unloading of goods onto or from freight trains, and the integration of rail freight services with road, maritime, river and air services, and either the forming or modification of the composition of freight trains; and, where necessary, performing border procedures at borders with European third countries;
+
+(d) ‘European Coordinator’ means the Coordinator referred to in Article 52 of Regulation (EU) 2024/1679.
+
+## CHAPTER II — ORGANISATION AND GOVERNANCE OF THE FREIGHT CORRIDORS
+
+### Article 3 — Organisation and governance of freight corridors
+
+1\. Member States and infrastructure managers responsible for the freight corridor which is part of that European Transport Corridor shall adjust the governance of the freight corridor from 18 July 2024 or in the event of an amendment of the alignment of a European Transport Corridor pursuant to Article 11(3) of Regulation 2024/1679, within 18 months of the date of that amendment. In duly justified cases and after the agreement of the Commission, the period may be extended to 24 months. The executive board and the management board of the freight corridor shall adopt the measures necessary to adjust organisation and management of the freight corridor in accordance with Articles 9 to 19 of this Regulation to the new geographical alignment.
+
+2\. The executive board of a freight corridor may decide to address administrative, operational and interoperability aspects of international passenger rail services on the corridor. Articles 11 and 14 shall not apply to these services.
+
+### Article 8 — Governance of freight corridors
+
+1\. For each freight corridor, Member States concerned shall establish an executive board responsible for defining the general objectives of the freight corridor, supervising and taking the measures as expressly provided for in paragraph 7 of this Article, and in Articles 9 and 11, Article 14(1) and Article 22. The executive board shall be composed of representatives of the authorities of the Member States concerned. The executive board shall regularly assess the consistency between the general objectives and the objectives defined by the management board in accordance with Article 9(1), point (c).
+
+2\. For each freight corridor, the infrastructure managers concerned and, where relevant, the allocation bodies as referred to in Article 7(2) of Directive 2012/34/EU, shall establish a management board responsible for taking the measures as expressly provided for in paragraphs 5, 7, 8 and 9 of this Article, and in Articles 9 to 12, Article 13(1), Article 14(2), (6) and (9), Article 16(1), Article 17(1) and Articles 18 and 19 of this Regulation. The management board shall be composed of the representatives of the infrastructure managers.
+
+2a. A Member State which made use of Article 5(4) before 18 July 2024 may decide that, for a period not exceeding 10 years from 18 July 2024, an infrastructure manager responsible for the railway infrastructure on its territory shall not participate in the management board set up pursuant to paragraph 2 of this Article. The Member State concerned shall notify without delay the Commission and the other Member States participating in the freight corridor concerned of its decision.
+
+In that case, the Member State and the infrastructure manager concerned shall cooperate with the management board where necessary for the execution of the functions of that board.
+
+A Member State making use of the first subparagraph of this paragraph may, at any time thereafter during the 10 year-period referred therein, decide that an infrastructure manager responsible for the railway infrastructure on its territory shall participate in the management board set up pursuant to paragraph 2 of this Article. It shall notify without delay the Commission and the other Member States participating in the freight corridor concerned of its decision.
+
+2b. Ireland may decide that the representatives of its authorities and an infrastructure manager responsible for the railway infrastructure on its territory shall not participate in the executive board, in the management board set up pursuant to paragraphs 1 and 2, or in both. Ireland shall notify without delay the Commission and the other Member States participating in the freight corridor concerned of its decision.
+
+In that case, the authorities and the infrastructure manager or managers concerned shall cooperate with the executive board and the management board where necessary for the execution of the functions of those boards.
+
+Ireland may, at any time thereafter, decide that the representatives of its authorities and the infrastructure manager or managers responsible for the railway infrastructure on its territory shall participate in the executive board, the management board set up pursuant to paragraphs 1 and 2, or in both. It shall notify without delay the Commission and the other Member States participating in the freight corridor concerned of its decision.
+
+3\. The Member States and infrastructure managers concerned by a freight corridor shall cooperate within the boards referred to in paragraphs 1 and 2 to ensure the development of the freight corridor in accordance with its implementation plan.
+
+4\. The executive board shall take its decisions on the basis of mutual consent of the representatives of the authorities of the Member States concerned participating in the executive board.
+
+5\. The management board shall take its decisions, including decisions regarding its legal status, the establishment of its organisational structure, resources and staffing, on the basis of mutual consent of the infrastructure managers concerned participating in the management board. The management board may be an independent legal entity. It may take the form of a European economic interest grouping within the meaning of Council Regulation (EEC) No 2137/85 of 25 July 1985 on the European Economic Interest Grouping (EEIG) ( 3 ).
+
+6\. The responsibilities of the executive and management boards shall be without prejudice to the independence of infrastructure managers as provided for in Article 4(2) of Directive 2012/34/EU.
+
+7\. The management board shall set up an advisory group made up of managers and owners of the terminals of the freight corridor including, where necessary, sea and inland waterway ports. This advisory group may issue an opinion on any proposal by the management board which has direct consequences for investment and the management of terminals. It may also issue own-initiative opinions. The management board shall take any of these opinions into account. In the event of disagreement between the management board and the advisory group, the latter may refer the matter to the executive board. The executive board shall inform the European Coordinator concerned and shall act as an intermediary and issue an opinion on the matter in due time. The European Coordinator concerned may also issue an opinion on the matter in due time. The final decision however shall be taken by the management board.
+
+8\. The management board shall set up a further advisory group made up of railway undertakings interested in the use of the freight corridor. This advisory group may issue an opinion on any proposal by the management board which has consequences for these undertakings. It may also issue own-initiative opinions. The management board shall take any of these opinions into account. In the event of disagreement between the management board and the advisory group, the latter may refer the matter to the executive board. The executive board shall inform the European Coordinator and the regulatory bodies referred to in Article 55 of Directive 2012/34/EU, concerned by the freight corridor. The executive board shall act as an intermediary and issue an opinion on the matter in due time. The European Coordinator concerned may also issue an opinion on the matter in due time. The final decision shall be taken by the management board.
+
+9\. The management board shall coordinate in accordance with national and European deployment plans the use of interoperable IT applications or alternative solutions that may become available in the future to handle requests for international train paths and the operation of international traffic on the freight corridor.
+
+10\. The executive board and the management board shall cooperate with the European Coordinator concerned by the freight corridor to support the development of rail freight traffic along the corridor.
+
+### Article 9 — Measures for developing the freight corridor
+
+1\. The management board shall draw up and publish an implementation plan at the latest six months before making the freight corridor operational. The management board shall consult the advisory groups referred to in Articles 8(7) and 8(8) on the draft implementation plan. The management board shall submit the implementation plan for approval to the executive board.
+
+This plan shall include:
+
+(a) a description of the characteristics of the freight corridor, including bottlenecks, and the programme of measures necessary to improve its organisation and management;
+
+(b) the essential elements of the study referred to in paragraph 3;
+
+(c) the objectives for the freight corridors, in particular in terms of performance of the freight corridor expressed as the quality of the service and the capacity of the freight corridor in accordance with Article 19 of this Regulation, and, where relevant, quantitative or qualitative targets relating to these objectives. The objectives and the targets shall take into account the priorities set out in Article 19 of Regulation (EU) 2024/1679;
+
+(d) the measures to implement Articles 12 to 19 and the measures to improve the performance of the freight corridor, based on the results of the assessment referred to in Article 19(3), with a view to achieving the objectives and targets referred to in point (c) of this paragraph;
+
+(e) the views and assessment of the advisory groups referred to in Articles 8(7) and (8) with respect to corridor development;
+
+(f) a summary of the cooperation and the results of the consultation referred to in Article 11, including the opinions of the advisory groups referred to in Articles 8(7) and (8) and a summary of the responses of other stakeholders.
+
+When drawing up the implementation plan, the management board shall take into account the objectives and measures contained in the work plan of the European Coordinator, referred to in Article 54 of Regulation (EU) 2024/1679. The implementation plan shall include a reference to the elements of the work plan which are relevant for rail freight traffic along the corridor.
+
+The management board shall regularly review and adjust the targets referred to in point (c) of this paragrah and the measures referred to in point (d) of this paragraph, based on the assessment referred to in Article 19(3) following the consultation of the advisory groups referred to in Articles 8(7) and (8) and the European Coordinator.
+
+2\. The management board shall periodically, at least every four years, review the implementation plan taking into account progress made in its implementation, the rail freight market on the freight corridor and performance measured in accordance with the objectives referred to in point (c) of paragraph 1.
+
+3\. The management board shall carry out and periodically update a transport market study relating to the observed and expected changes in the traffic on the freight corridor, covering the different types of traffic, both regarding the transport of freight and the transport of passengers. This study shall also review, where necessary, the socio-economic costs and benefits stemming from the development of the freight corridor.
+
+4\. The implementation plan shall take into account the development of terminals, including the market and prospective analysis on multimodal freight terminals, as well as the action plans of the Member States of the freight corridor, referred to in Article 36(3) and (4) of Regulation (EU) 2024/1679.
+
+5\. The management board shall, as appropriate, take measures to cooperate with regional or local administrations, or both, in respect of the implementation plan.
+
+### Article 10 — Consulting applicants
+
+The management board shall introduce consultation mechanisms with a view to the proper participation of the applicants likely to use the freight corridor. In particular, it shall ensure that applicants are consulted before the implementation plan referred to in Article 9 is submitted to the executive board.
+
+## CHAPTER III — INVESTMENT IN THE FREIGHT CORRIDOR
+
+### Article 11 — Investment planning
+
+1\. The executive board and the management board of a freight corridor shall cooperate with the European Coordinator concerned by the freight corridor in relation to the infrastructure and investments needs resulting from the rail freight traffic to support the drawing up of the work plan referred to in Article 54 of Regulation (EU) 2024/1679.
+
+2\. The management board shall consult the advisory groups referred to in Articles 8(7) and (8) on infrastructure development and investment needs. The consultation shall be based on an adequate, up-to-date documentation of the infrastructure planning at corridor and national level. Opinions by the advisory groups on investment shall be substantiated with sufficient justification. The executive board shall ensure adequate coordination between these consultation activities and the coordination mechanisms at national level as defined in Article 7e of Directive 2012/34/EU.
+
+3\. The cooperation and the consultation shall address in particular:
+
+(a) capacity needs of rail freight transport relevant for infrastructure and investment planning, in particular as regards freight trains with a length of no less than 740 m, taking into account the need for capacity pursuant to Article 14(2) of this Regulation and any infrastructure declared congested pursuant to Article 47 of Directive 2012/34/EU;
+
+(b) Trans-European transport network infrastructure requirements relevant for rail freight transport as defined in Chapters II and III of Regulation (EU) 2024/1679;
+
+(c) need for targeted investments to remove local bottlenecks, improvements to nodes and rail access routes or technical equipment enhancing operational performance.
+
+### Article 12 — Coordination of works
+
+The management board shall coordinate and ensure the publication in one place, in an appropriate manner and timeframe, of their schedule for carrying out all the works on the infrastructure and its equipment that would restrict available capacity on the freight corridor.
+
+## CHAPTER IV — MANAGEMENT OF THE FREIGHT CORRIDOR
+
+### Article 13 — One-stop shop for application for infrastructure capacity
+
+1\. The management board for a freight corridor shall designate or set up a joint body for applicants to request and to receive answers, in a single place and in a single operation, regarding infrastructure capacity for freight trains crossing at least one border along the freight corridor (hereinafter referred to as a ‘one-stop shop’).
+
+2\. The one-stop shop shall, as a coordination tool, also provide basic information concerning the allocation of the infrastructure capacity, including the information referred in Article 18. It shall display infrastructure capacity available at the time of request and its characteristics in accordance with pre-defined parameters, such as speed, length, loading gauge or axle load authorised for trains running on the freight corridor.
+
+3\. The one-stop shop shall take a decision with regard to applications for pre-arranged train paths specified in Article 14(3) and for the reserve capacity specified in Article 14(5). It shall allocate the capacity in line with rules regarding capacity allocation as set out in Directive 2012/34/EU. It shall inform the competent infrastructure managers of these applications and the decision taken without delay.
+
+4\. For any request of infrastructure capacity which cannot be met pursuant to paragraph 3, the one-stop shop shall forward the application for infrastructure capacity without any delay to the competent infrastructure managers and, where relevant, the allocation bodies as referred to in Article 7(2) of Directive 2012/34/EU, who shall take a decision on that application in accordance with Article 38 and Chapter IV, Section 3, of that Directive and communicate this decision to the one-stop shop for further processing.
+
+5\. The activities of the one-stop shop shall be carried out in a transparent and non-discriminatory manner. To this end a register shall be kept which shall be made freely available to all interested parties. It shall contain the dates of the requests, names of the applicants, details of documentation supplied and of incidents which have occurred. These activities shall be subject to the control of the regulatory bodies in accordance with Article 20.
+
+### Article 14 — Capacity allocated to freight trains
+
+1\. The executive board shall define the framework for the allocation of the infrastructure capacity on the freight corridor in accordance with Article 39 of Directive 2012/34/EU.
+
+2\. The management board shall evaluate the need for capacity to be allocated to freight trains running on the freight corridor taking into account the transport market study referred to in Article 9(3) of this Regulation, the requests for infrastructure capacity relating to the past and present working timetables and the framework agreements.
+
+3\. On the basis of the evaluation specified in paragraph 2 of this Article, infrastructure managers of the freight corridor shall jointly define and organise international pre-arranged train paths for freight trains following the procedure referred to in Article 10 of Directive 2012/34/EU recognising the need for capacity of other types of transport, including passenger transport. They shall facilitate journey times, frequencies, times of departure and destination and routings suitable for freight transport services with a view to increasing the transport of goods by freight trains running on the freight corridor. These pre-arranged train paths shall be published not later than 3 months before the final date for receipt of requests for capacity referred to in Annex VII to Directive 2012/34/EU. The infrastructure managers of several freight corridors may, if necessary, coordinate international prearranged train paths offering capacity on the freight corridors concerned.
+
+4\. These pre-arranged train paths shall be allocated first to freight trains which cross at least one border.
+
+5\. Infrastructure managers shall, if justified by market need and the evaluation as referred to in paragraph 2 of this Article, jointly define the reserve capacity for international freight trains running on the freight corridors recognising the need for capacity of other types of transport, including passenger transport and keep this reserve available within their final working timetables to allow for a quick and appropriate response to ad hoc requests for capacity as referred to in Article 48 of Directive 2012/34/EU. This capacity shall be reserved until the time limit before its scheduled time as decided by the management board. This time limit shall not exceed 60 days.
+
+6\. The management board shall promote coordination of priority rules relating to capacity allocation on the freight corridor.
+
+7\. Infrastructure managers may include in their conditions of use a fee for train paths that are allocated but ultimately not used. The level of this fee shall be appropriate, dissuasive and effective.
+
+8\. Save in the case of force majeure, including urgent and unforeseeable safety-critical work, a train path allocated to a freight operation pursuant to this Article may not be cancelled less than two months before its scheduled time in the working timetable if the applicant concerned does not give its approval for such cancellation. In such a case the infrastructure manager concerned shall make an effort to propose to the applicant a train path of an equivalent quality and reliability which the applicant has the right to accept or refuse. This provision shall be without prejudice to any rights the applicant may have under an agreement as referred to in Article 44(1) of Directive 2012/34/EU. In any case, the applicant may refer the matter to the regulatory body referred to in Article 20 of this Regulation.
+
+9\. The management board of the freight corridor and the advisory group referred to in Article 8(7) shall put in place procedures to ensure optimal coordination of the allocation of capacity between infrastructure managers, both for requests as referred to in Article 13(1) and for requests received by infrastructure managers concerned. This shall also take account of access to terminals.
+
+10\. In paragraphs 4 and 9 of this Article, references to infrastructure managers shall include, where relevant, allocation bodies as referred to in Article 7(2) of Directive 2012/34/EU.
+
+### Article 15 — Authorised applicants
+
+Notwithstanding Article 41(1) of Directive 2012/34/EU, applicants other than railway undertakings or the international groupings that they make up, such as shippers, freight forwarders and combined transport operators, may request international pre-arranged train paths specified in Article 14(3) and the reserve capacity specified in Article 14(5). In order to use such a train path for freight transport on the freight corridor these applicants shall appoint a railway undertaking to conclude an agreement with the infrastructure manager in accordance with Article 28 of Directive 2012/34/EU.
+
+### Article 16 — Traffic management
+
+1\. The management board of the freight corridor shall put in place procedures for coordinating traffic management along the freight corridor. The management boards of connected freight corridors shall put in place procedures for coordinating traffic along such freight corridors.
+
+2\. The infrastructure managers of the freight corridor and the advisory group referred to in Article 8(7) shall put in place procedures to ensure optimal coordination between the operation of the railway infrastructure and the terminals.
+
+### Article 17 — Traffic management in the event of disturbance
+
+1\. The management board shall adopt common targets for punctuality and/or guidelines for traffic management in the event of disturbance to train movements on the freight corridor.
+
+2\. Each infrastructure manager concerned shall draw up priority rules for the management between the different types of traffic in the part of the freight corridors within the responsibility of that infrastructure manager in accordance with the common targets or guidelines referred to in paragraph 1 of this Article, or both. Those priority rules shall be published in the network statement referred to in Article 27 of Directive 2012/34/EU.
+
+3\. The principles for establishing the priority rules shall at least provide that the train path referred to in Article 14(3) and (4) allocated to freight trains which comply with their scheduled time in the working timetable shall not be modified, as far as possible. The principles for establishing the priority rules shall aim at minimising the overall network recovery time with regard to the needs of all types of transport. For this purpose, infrastructure managers may coordinate the management between the different types of traffic along several freight corridors.
+
+### Article 18 — Information on the conditions of use of the freight corridor
+
+The management board shall draw up, regularly update and publish a document containing:
+
+(a) all the information contained in the network statement for national networks regarding the freight corridor, drawn up in accordance with the procedure set out in Article 27 of Directive 2012/34/EU;
+
+(b) the list and characteristics of terminals, in particular information concerning the conditions and methods of accessing the terminals;
+
+(c) the information concerning the procedures referred to in Articles 13 to 17 of this Regulation; and
+
+(d) the implementation plan.
+
+### Article 19 — Quality of service on the freight corridor
+
+1\. The management board of the freight corridor shall promote compatibility between the performance schemes along the freight corridor, as referred to in Article 35 of Directive 2012/34/EU.
+
+2\. The management board shall monitor the performance of services provided by the infrastructure managers to applicants in fulfilment of their essential functions, as far as in the scope of Articles 12 to 18, and of rail freight services on the freight corridor. Performance monitoring shall be carried out in qualitative and quantitative terms, where appropriate based on performance indicators relating to the objectives and targets of the freight corridor defined in accordance with Article 9(1), point (c). The management board shall consult the advisory groups referred to in Articles 8(7) and (8) and the European Coordinator on relevant performance indicators.
+
+3\. The management board shall assess the results of the performance monitoring with respect to the objectives and targets defined in accordance with Article 9(1), point (c), and to the operational priorities referred to in Article 19 of Regulation (EU) 2024/1679.
+
+4\. The management board shall prepare and publish an annual report presenting the results of the activities carried out pursuant to this Article. It shall present the views and assessment of performance by the advisory groups referred to in Articles 8(7) and (8) in a dedicated section of the report. The management board shall submit the annual report for approval to the executive board.
+
+### Article 20 — Regulatory bodies
+
+1\. The regulatory bodies referred to in Article 55 of Directive 2012/34/EU shall cooperate in monitoring the competition in the rail freight corridor. In particular, they shall ensure non-discriminatory access to the corridor and shall be responsible for the appeal provided for under Article 56(1) of that Directive. They shall exchange the necessary information obtained from infrastructure managers and other relevant parties.
+
+2\. Member States, in order to foster free and fair competition on the freight corridors, shall endeavour to establish a comparable regulatory level. Regulatory bodies shall be easily accessible to the market players, and shall be able to take decisions independently and efficiently.
+
+3\. In the event of a complaint to a regulatory body from an applicant regarding international rail freight services, or within the framework of an own-initiative investigation by a regulatory body, this regulatory body shall consult the regulatory bodies of all other Member States through which the international train path for freight train concerned runs and request all necessary information from them before taking its decision.
+
+4\. The regulatory bodies consulted under paragraph 3 shall provide all the information that they themselves have the right to request under their national legislation to the regulatory body concerned. This information may only be used for the purpose of the handling of the complaint or the investigation referred to in paragraph 3.
+
+5\. The regulatory body receiving the complaint or having initiated the own-initiative investigation shall transfer relevant information to the regulatory body responsible in order for that body to take measures regarding the parties concerned.
+
+6\. Any associated representatives of infrastructure managers as referred to in Article 40(1), second subparagraph, of Directive 2012/34/EU shall ensure provision, without delay, of all the information necessary for the purpose of the handling of the complaint or the investigation referred to in paragraph 3 of this Article and requested by the regulatory body of the Member State in which the associated representative is located.  This regulatory body shall be entitled to transfer such information regarding the international train path concerned to the regulatory bodies mentioned in paragraph 3 of this Article.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 22 — Monitoring implementation
+
+Every four years from the time of the establishment of a freight corridor, the executive board referred to in Article 8(1) of this Regulation shall present to the Commission the results of the implementation plan for that corridor. The Commission shall analyse those results and notify the Committee referred to in Article 62 of Directive 2012/34/EU of its analysis.
+
+### Article 23 — Report
+
+The Commission shall periodically examine the application of this Regulation. It shall submit a report to the European Parliament and the Council, for the first time by 10 November 2015, and every four years thereafter.
+
+### Article 24 — Transitional measures
+
+This Regulation shall not apply to the Republic of Cyprus and Malta for as long as no railway system is established within their territory.
+
+### Article 25 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 343, 14.12.2012, p. 32.
+
+( 2 ) OJ L, 2024/1679, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1679/oj.
+
+( 3 ) OJ L 199, 31.7.1985, p. 1.

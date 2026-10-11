@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(recast)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2014/86/EU of 8 July 2014 </td><td> L 219</td><td>40</td><td>25.7.2014</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2015/121 of 27 January 2015 </td><td> L 21</td><td>1</td><td>28.1.2015</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2011/96/EU**
 

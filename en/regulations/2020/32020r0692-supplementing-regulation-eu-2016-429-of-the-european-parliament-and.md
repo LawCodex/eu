@@ -1,0 +1,4883 @@
+---
+title: "Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance) (Text with EEA relevance)"
+identifier: "32020R0692"
+eli: "http://data.europa.eu/eli/reg_del/2020/692/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2020-01-30
+entry_into_force: 2021-02-01
+last_amended: 2026-08-12
+consolidated_version: "02020R0692-20260812"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R0692-20260812"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance) (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/692**
+
+**of 30 January 2020**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1703 of 13 July 2021 </td><td> L 339</td><td>29</td><td>24.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1705 of 14 July 2021 </td><td> L 339</td><td>40</td><td>24.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/54 of 21 October 2021 </td><td> L 10</td><td>1</td><td>17.1.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/119 of 9 November 2022 </td><td> L 16</td><td>5</td><td>18.1.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/135 of 20 January 2026 </td><td> L 135</td><td>1</td><td>13.4.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1052 of 12 May 2026 </td><td> L 1052</td><td>1</td><td>23.7.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/692**
+
+**of 30 January 2020**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin**
+
+**(Text with EEA relevance)**
+
+## PART I — GENERAL RULES
+
+### TITLE 1 — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+###### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down supplementing animal health rules concerning the entry into the Union of consignments of certain species and categories of animals, germinal products and products of animal origin from third countries or territories or zones thereof, or compartments in the case of aquaculture animals. It also lays down rules concerning the movement and handling of those consignments after their entry in the Union.
+
+This Regulation shall not apply to the entry and the movements and handling after the entry into the Union of consignments of the following products of animal origin:
+
+(a) gelatine and collagen as defined in Annex I, points 7.7. and 7.8, to Regulation (EC) No 853/2004;
+
+(b) highly refined products of animal origin listed in Annex III, Section XVI, to Regulation (EC) No 853/2004.
+
+2\. Part I lays down:
+
+(a) the obligations on the competent authority of Member States to permit the entry into the Union of consignments of animals, germinal products and products of animal origin of species and categories of animals covered by Parts II to VI (Articles 3 and 4);
+
+(b) the obligations on the operators regarding the entry into the Union, and the movement and handling after entry, of consignments of animals, germinal products and products of animal origin covered by Parts II to VI (Article 5);
+
+(c) the general animal health requirements for entry into the Union, and the movement and handling after the entry of the consignments referred to in points (a) and (b), and derogations from those general requirements, applicable to all the species and categories of animals, germinal products and products of animal origin covered by Parts II to VI (Articles 6 to 10).
+
+3\. Part II lays down the general animal health requirements for entry into the Union, as well as the movement and handling after the entry, and derogations from such requirements for certain terrestrial animals (Title 1).
+
+In addition, it lays down specific animal health requirements that are also applicable to the each of those species and categories of terrestrial animals, in particular:
+
+(a) kept ungulates of listed species (Title 2);
+
+(b) poultry and captive birds (Title 3);
+
+(c) honeybees (Apis mellifera) and bumble bees (Bombus spp.) (Title 4);
+
+(d) dogs, cats and ferrets (Title 5).
+
+4\. Part III lays down the general animal health requirements for entry into the Union, as well as the movement and handling after the entry, and derogations from such requirements for germinal products of the following species and categories of kept terrestrial animals:
+
+(a) bovine, porcine, ovine, caprine and equine animals (Title 1);
+
+(b) poultry and captive birds (Title 2);
+
+(c) animals other than those listed in points (a) and (b) (Title 3).
+
+5\. Part IV lays down the general animal health requirements for entry into the Union, as well as the movement and handling after the entry, and derogations from those requirements for products of animal origin of the following species and categories of terrestrial animals:
+
+(a) kept and wild ungulates of listed species;
+
+(b) poultry;
+
+(c) game birds.
+
+6\. Part V lays down the animal health requirements for the entry into the Union, as well as the movement and handling after the entry, and derogations from those requirements for the following species of aquatic animals at all life stages as well as their products of animal origin, excluding products of animal origin other than live aquatic animals which are not intended for further processing in the Union, and wild aquatic animals and products of animal origin from those wild aquatic animals landed from fishing vessels intended for direct human consumption:
+
+(a) fish of listed species belonging to the superclass Agnatha and to the classes Chondrichthyes, Sarcopterygii and Actinopterygii;
+
+(b) aquatic molluscs of listed species belonging to the phylum Mollusca;
+
+(c) aquatic crustaceans of listed species belonging to the subphylum Crustacea;
+
+(d) aquatic animals of species listed in Annex XXIX to this Regulation which are susceptible to the aquatic diseases for which certain Member States have national measures which have been approved in accordance with Commission Implementing Decision (EU) 2021/260 ( 1 ).
+
+7\. Part VI lays down the general rules, certain derogations and additional requirements for transit through the Union and for the return to the Union of certain species and categories of animals, germinal products and products of animal origin.
+
+8\. Part VII lays down transitional and final provisions.
+
+###### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions laid down in Implementing Regulation (EU) 2018/1882 and Annex I to Regulation (EC) No 853/2004 shall apply, except where those definitions cover terms that are defined in the second paragraph of this Article.
+
+In addition, the following definitions shall also apply:
+
+(1) ‘listed third country, territory or zone thereof’ means a third country, territory or zone thereof included in a list of third countries, territories or zones thereof, or compartments in the case of aquaculture animals, from which the entry into the Union of a particular species and category of animals, germinal products and products of animal origin is permitted in accordance with implementing acts adopted pursuant to Article 230(1) of Regulation (EU) 2016/429;
+
+(2) ‘the list’ means the list of third countries, territories or zones thereof, or compartments in the case of aquaculture animals, authorised for entry into the Union of consignments of a particular species and category of animals, germinal products or products of animal origin by implementing acts adopted pursuant to Article 230(1) of Regulation (EU) 2016/429;
+
+(3) ‘means of transport’ means road or rail vehicle, vessels and aircrafts;
+
+(4) ‘container’ means any crate, box, receptacle or other rigid structure used for the transport of animals, germinal products or products of animal origin which is not the means of transport;
+
+(5) ‘bovine animal’ means an animal of the species of ungulates belonging to the genera Bison, Bos (including the subgenera Bos, Bibos, Novibos, Poephagus) and Bubalus (including the subgenus Anoa) and the offspring of crossings of those species;
+
+(6) ‘ovine animal’ means an animal of the species of ungulates belonging to the genus Ovis and the offspring of crossings of those species;
+
+(7) ‘caprine animal’ means an animal of the species of ungulates belonging to the genus Capra and the offspring of crossings of those species;
+
+(8) ‘porcine animal’ means an animal of the species of ungulates belonging to the family Suidae listed in Annex III to Regulation (EU) 2016/429 for the purpose of entry into the Union of an animal or an animal of the species Sus scrofa, for the purpose of entry into the Union of germinal products;
+
+(9) ‘equine animal’ means an animal of species of solipeds belonging to the genus Equus (including horses, asses, and zebras) and the offspring of crossings of those species;
+
+(10) ‘camelid animal’ means an animal of the species of ungulates belonging to the family Camelidae listed in Annex III to Regulation (EU) 2016/429;
+
+(11) ‘cervid animal’ means an animal of the species of ungulates belonging to the family Cervidae listed in Annex III to Regulation (EU) 2016/429;
+
+(12) ‘registered equine animal’ means:
+
+(a) a purebred breeding animal of the species Equus caballus and Equus asinus entered or eligible for entry in the main section of a breeding book established by a breed society or breeding body recognised in accordance with Article 4 or 34 of Regulation (EU) 2016/1012;
+
+(b) a kept animal of the species Equus caballus registered with an international association or organisation, either directly or through its national federation or branches, which manages horses for competition or racing (‘registered horse’);
+
+(13) ‘animals intended for slaughter’ means kept terrestrial animals to be transported, either directly or after undergoing an assembly operation, to a slaughterhouse;
+
+(14) ‘disease has not been reported’ means that no animal or group of animals of relevant species kept on the establishment has been classified as a confirmed case of that disease and any suspect case of that disease has been ruled out;
+
+(15) ‘sanitary group’ means a group of listed third countries in which common animal health risks as regards diseases listed for equine animals prevail that require specific risk-mitigating measures and health guarantees when equine animals enter into the Union;
+
+(16) ‘flock’ means all poultry or captive birds of the same health status kept on the same premises or in the same enclosure and constituting a single epidemiological unit; in housed poultry, this includes all birds sharing the same airspace.
+
+(17) ‘breeding poultry’ means poultry 72 hours old or more, intended for the production of hatching eggs;
+
+(18) ‘productive poultry’ means poultry 72 hours old or more, reared for the production of meat, eggs for consumption or other products or for restocking supplies of game birds;
+
+(19) ‘day-old chicks’ means poultry less than 72 hours old;
+
+(20) ‘honeybee’ means an animal of the Apis mellifera species;
+
+(21) ‘bumble bee’ means an animal of the species belonging to the genus Bombus;
+
+(22) ‘dog’ means a kept animal of the Canis lupus species;
+
+(23) ‘cat’ means a kept animal of the Felis silvestris species;
+
+(24) ‘ferret’ means a kept animal of the Mustela putorius furo species;
+
+(25) ‘unique approval number’ means a number assigned by the competent authority;
+
+(26) ‘specified pathogen-free eggs’ means hatching eggs derived from ‘chicken flocks free from specified pathogens’, as described in the European Pharmacopoeia and which are intended solely for diagnostic, research or pharmaceutical use;
+
+(27) ‘consignment of semen, oocytes or embryos’ or ‘consignment of germinal products’ means a quantity of semen, oocytes, in vivo derived embryos or in vitro produced embryos dispatched from a single approved germinal product establishment covered by a single animal health certificate;
+
+(28) ‘semen’ means the ejaculate of an animal or animals, either in the unaltered state or prepared or diluted;
+
+(29) ‘oocytes’ means the haploid stages of the ootidogenesis including secondary oocytes and ova;
+
+(30) ‘embryo’ means the initial stage of development of an animal while it is capable of being transferred to a recipient dam;
+
+(31) ‘approved germinal product establishment’ means a semen collection centre, an embryo collection team, an embryo production team, a germinal product processing establishment or a germinal product storage centre;
+
+(32) ‘centre veterinarian’ means the veterinarian responsible for the activities carried out at the semen collection centre, at the germinal product processing establishment or at the germinal product storage centre as provided for in this Regulation;
+
+(33) ‘team veterinarian’ means the veterinarian responsible for the activities carried out by an embryo collection team or by an embryo production team as provided for in this Regulation;
+
+(34) ‘quarantine accommodation’ means a facility authorised by the competent authority for the purpose of the isolation of bovine, porcine, ovine or caprine animals for a period of at least 28 days before they are admitted to a semen collection centre;
+
+(35) ‘semen collection centre’ means a germinal product establishment approved by the competent authority for the collection, processing, storage and transport of semen of bovine, porcine, ovine, caprine or equine animals intended for entry into the Union;
+
+(36) ‘embryo collection team’ means a germinal product establishment comprised of a group of professionals or a structure approved by the competent authority for the collection, processing, storage and transport of oocytes or of in vivo derived embryos intended for entry into the Union;
+
+(37) ‘embryo production team’ means a germinal product establishment comprised of a group of professionals or structure approved by the competent authority for the collection, processing, storage and transport of oocytes, and the in vitro production, where applicable with stored semen, processing, storage and transport of embryos, both intended for entry into the Union;
+
+(38) ‘germinal product processing establishment’ means a germinal product establishment approved by the competent authority for the processing, including semen sex-sorting where appropriate, and the storage of semen, oocytes or embryos of one or more species, or any combination of those types of germinal products or species, intended for entry into the Union;
+
+(39) ‘germinal product storage centre’ means a germinal product establishment approved by the competent authority for the storage of semen, oocytes or embryos of one or more species, or any combination of those types of germinal products or species, intended for entry into the Union;
+
+(40) ‘meat’ means all parts of ungulates, poultry and game birds which are suitable for human consumption, including blood;
+
+(41) ‘fresh meat’ means meat, minced meat and meat preparations, including vacuum-wrapped or wrapped in a controlled atmosphere, which has not undergone any preserving process other than chilling, freezing or quick-freezing;
+
+(42) ‘carcase of an ungulate’ means the whole body of a slaughtered or killed ungulate after:
+
+(a) bleeding, in the case of slaughtered animals;
+
+(b) evisceration;
+
+(c) removal of the limbs at the carpus and tarsus;
+
+(d) removal of the tail, the udder, the head and the skin, except in porcine animals.
+
+(43) ‘offal’ means fresh meat other than that of a carcase of an ungulate even if it remains naturally connected to the carcase;
+
+(44) ‘meat products’ means processed products, including treated stomachs, bladders, intestines, rendered animal fats and meat extracts, resulting from the processing of meat or from the further processing of such processed products, so that the cut surface shows that the product no longer has the characteristics of fresh meat;
+
+(45) ‘casings’ means the bladders and intestines that after cleaning have been processed by tissue scraping, defatting and washing and have been treated with salt or dried;
+
+(46) ‘colostrum’ means the fluid secreted by the mammary glands of kept animals up to 3 to 5 days post-parturition that is rich in antibodies and minerals, and precedes the production of raw milk;
+
+(47) ‘colostrum-based products’ means processed products resulting from the processing of colostrum or from the further processing of such processed products;
+
+(48) ‘well-boat’ means a ‘well-boat’ as defined in Article 2, point 2, of Commission Delegated Regulation (EU) 2020/990 ( 2 );
+
+(49) ‘IMSOC’ means the information management system for official controls provided for in Article 131 of Regulation (EU) 2017/625 ( 3 );
+
+(50) ‘animal shelter’ means an establishment where former stray, feral, lost, abandoned or confiscated terrestrial animals are kept and whose health status might not be known for all of them at the time of their entry into the establishment;
+
+(51) ‘vector-protected establishment’ means part or all facilities of an establishment that are protected against attacks from, as appropriate, Culicoides spp. or Culicidae by appropriate physical and management means, with a status of vector-protected establishment being granted by the competent authority, and complying with the criteria laid down in Annex XI, point 3.
+
+### TITLE 2 — GENERAL ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION, AND MOVEMENT AND HANDLING AFTER THE ENTRY OF CONSIGNMENTS OF ANIMALS, GERMINAL PRODUCTS AND PRODUCTS OF ANIMAL ORIGIN
+
+###### Article 3 — Obligations of the competent authorities of Member States
+
+The competent authority shall permit the entry into the Union of consignments of animals, germinal products and products of animal origin of species and categories covered by Parts II to VI, which are presented for the purpose of official controls as provided for in Article 47(1) of Regulation (EU) 2017/625, provided that:
+
+(a) the consignments come from:
+
+(i) in the case of terrestrial animals, germinal products and products of animal origin, a listed third country or territory or zone thereof for the particular species and category of animals, germinal products and products of animal origin;
+
+(ii) in the case of aquatic animals, a listed third country or territory or zone thereof for the particular species and category of animals and products of animal origin, and in the case of aquaculture animals, a listed third country or territory or zone or compartment thereof listed for that purpose;
+
+(b) the competent authority of the third country or territory of origin has certified that the consignments comply with:
+
+(i) the general animal health requirements for entry into the Union of animals, germinal products and products of animal origin laid down in this Article, Article 4 and Articles 6 to 10;
+
+(ii) the animal health requirements applicable to the particular species and category of animals, germinal products and products of animal origin and intended use, as laid down in Parts II to VI;
+
+(c) the consignments are accompanied by the following documents whereby the competent authority of the third country or territory of origin has provided the necessary guarantees as regards compliance with the animal health requirements referred to in point (b):
+
+(i) an animal health certificate issued by an official veterinarian of the third country or territory of origin, specific for the particular species and category of animals, germinal products and products of animal origin and their intended use;
+
+(ii) a declaration and other documents, where required in this Regulation.
+
+In the case of consignments of animals and hatching eggs, the animal health certificate, referred to in point (c)(i) must have been issued within the period of 10 days prior to the date of arrival of the consignment at the border control post; however, in the case of transport by sea that period may be extended by an additional period corresponding to the duration of the journey by sea.
+
+###### Article 4 — The date of certification of consignments
+
+1\. Consignments of animals, germinal products and products of animal origin of species and categories falling within the scope of this Regulation shall only be permitted to enter the Union provided that such consignments were certified for dispatch to the Union not earlier than the date on which the third country or territory of origin or zone thereof, or compartment thereof in the case of aquaculture animals, was listed for entry into the Union of the particular species and category of animals, germinal products and products of animal origin.
+
+2\. Consignments of animals, hatching eggs and products of animal origin originating from a third country or territory or zone thereof, or compartment thereof in the case of aquaculture animals, shall not be permitted to enter the Union from the date on which it no longer complies with the animal health requirements for entry into the Union of the particular species and category of animals, hatching eggs or products of animal origin, unless specific conditions have been assigned by the Union in the list to the listed third country, territory or zone thereof and to the particular species and categories of animals, hatching eggs or products of animal origin.
+
+###### Article 5 — Obligations of operators
+
+1\. Operators responsible for entry into the Union of consignments of animals, germinal products and products of animal origin of the species and categories falling within the scope of this Regulation, shall present those consignments to the competent authority in the Union for the purpose of official controls, as provided for in Article 47(1) of Regulation (EU) 2017/625, and shall ensure that such consignments comply with the following requirements:
+
+(a) the general animal health requirements for entry into the Union of the animals, germinal products and products of animal origin laid down in Articles 3 and 4 and Articles 6 to 10;
+
+(b) the animal health requirements applicable to the particular species and category of the animals, germinal products and products of animal origin of the consignment and its intended use, as laid down in Parts II to VI.
+
+2\. Operators responsible for the movement of consignments of animals, germinal products and products of animal origin of the species and categories falling within the scope of this Regulation from the point of entry in the Union to their place of destination, and those responsible for the handling of such consignments after their entry into the Union shall ensure that the consignments:
+
+(a) are permitted to enter the Union by the competent authority in accordance with Article 3;
+
+(b) comply with the animal health requirements for the movement and handling of such consignments after the entry into the Union for the specific species and categories of animals, germinal products and products of animal origin laid down in Parts II to VI;
+
+(c) are not diverted for uses other than those for which they were certified by the competent authority of the third country or territory of origin for entry into the Union.
+
+###### Article 6 — National legislation and animal health systems of the third country or territory of origin
+
+1\. Consignments of animals, germinal products and products of animal origin shall only be permitted to enter the Union from a third country or territory where:
+
+(a) any suspicion and confirmed case of a listed disease referred to in Annex I, relevant for the listed species of animals in the consignment or for the listed species of animals of origin of the germinal products or products of animal origin in the consignment authorised to enter the Union, are required by law to be notified and reported to the competent authority;
+
+(b) there are systems in place to detect emerging diseases;
+
+(c) there are systems in place to ensure that swill feeding is not a source of the listed diseases referred to in Annex I for:
+
+(i) the animals intended for entry into the Union;
+
+or
+
+(ii) the animals from which the germinal products intended for entry into the Union are obtained;
+
+or
+
+(iii) the animals from which the products of animal origin intended for entry into the Union are obtained.
+
+2\. Consignments of animals, germinal products and products of animal origin intended for entry into the Union shall only be permitted to enter the Union from a third country or territory or zone thereof where such consignments may be lawfully placed on the market and traded in that third country or territory of origin or zone thereof.
+
+###### Article 7 — General requirements as regards the health status of the animals, germinal products and products of animal origin
+
+1\. Consignments of animals shall only be permitted to enter the Union if the animals of the consignment:
+
+(a) are not animals to be killed under a national programme carried out in the third country or territory of origin for the eradication of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases;
+
+(b) did not show symptoms of transmissible diseases at the time of loading for the dispatch to the Union;
+
+(c) originate from an establishment which, at the time of their dispatch from that establishment to the Union, was not subject to national restriction measures:
+
+(i) for animal health reasons;
+
+(ii) in the case of aquaculture animals, for animal health reasons or due to the occurrence of abnormal mortalities with an undetermined cause.
+
+2\. Consignments of germinal products shall only be permitted to enter the Union if they were obtained from animals which at the time of collection:
+
+(a) did not show symptoms of transmissible diseases;
+
+(b) were kept on an establishment which was not subject to national restriction measures for animal health reasons, including restrictions related to the relevant listed diseases referred to in Annex I and emerging diseases.
+
+3\. Consignments of products of animal origin shall only be permitted to enter the Union if they were obtained from animals which:
+
+(a) in the case of terrestrial animals, did not show symptoms of transmissible diseases at the time of:
+
+(i) killing or slaughter, for the production of fresh meat and meat products;
+
+or
+
+(ii) the collection of milk or eggs;
+
+(b) in the case of aquatic animals, did not show symptoms of transmissible diseases at the time of slaughter or collection for the production of products of animal origin.
+
+(c) were not killed, slaughtered or, in the case of molluscs and live crustaceans removed from the water, under a national programme for the eradication of diseases;
+
+(d) were kept on an establishment which was not subject to national restriction measures for animal health reasons, including where relevant, listed diseases referred to in Annex I and emerging diseases, at the time of:
+
+(i) the killing or slaughter of those animals for the production of fresh meat and meat products or products of animal origin from aquatic animals; or
+
+(ii) the collection of milk and eggs.
+
+###### Article 8 — General requirements as regards the establishment of origin of the animals
+
+In addition to the specific requirements laid down in Parts II to V, consignments of animals, germinal products and products of animal origin shall only be permitted to enter the Union if the establishment of origin of the kept animals, or the establishment of origin of the kept animals from which the germinal products or products of animal origin were obtained, complies with the following requirements:
+
+(a) it must be registered by the competent authority of the third country or territory of origin and assigned a unique registration number;
+
+(b) it must be approved by the competent authority of the third country or territory of origin, where required by and under the conditions provided for in this Regulation, and assigned a unique approval number;
+
+(c) it must be under the control of the competent authority of the third country or territory of origin;
+
+(d) it must have a system in place to maintain and to keep, for a minimum period of 3 years, up-to-date records containing at least the following information:
+
+(i) the species, categories, number and where relevant, identification of animals on the establishment;
+
+(ii) movements of animals into and out of the establishment;
+
+(iii) mortality in the establishment.
+
+(e) it must receive regular animal health visits from a veterinarian for the purpose of the detection of, and information on, signs indicative of the occurrence of diseases, including those listed diseases referred to in Annex I relevant for the particular species and category of animal, germinal product or product of animal origin and emerging diseases.
+
+Such animal health visits shall take place at frequencies that are proportionate to the risks posed by the establishment concerned.
+
+###### Article 9 — Sampling, laboratory tests and other tests
+
+Consignments of animals, germinal products and products of animal origin shall only be permitted to enter the Union if sampling, laboratory tests and other tests required by this Regulation have been carried out:
+
+(a) on samples taken by or under the control of the competent authority of:
+
+(i) the third country or territory of origin when sampling and testing are required prior to entry into the Union;
+
+or
+
+(ii) the Member State of destination when sampling and testing are required after the entry into the Union;
+
+(b) in accordance with:
+
+(i) the relevant procedures and methods set out in Delegated Regulation (EU) 2020/689 and Delegated Regulation (EU) 2020/688 ( 4 );
+
+or
+
+(ii) for the purpose of entry into the Union of germinal products of bovine, porcine, ovine, caprine and equine animals, the procedures and methods set out in Annex II to Commission Delegated Regulation (EU) 2020/686 ( 5 );
+
+or
+
+(iii) the procedures described in this Regulation, where specifically required;
+
+(c) in an official laboratory, designated in accordance with Article 37 of Regulation (EU) 2017/625.
+
+###### Article 10 — Disease freedom of the place of origin and specific conditions
+
+1\. Consignments of animals, germinal products and products of animal origin shall only be permitted to enter the Union if the freedom from particular diseases of the third country or territory of origin or zone thereof or of the establishment of origin of the animals, germinal products or products of animal origin, required by this Regulation has been demonstrated by the competent authority of the third country or territory of origin:
+
+(a) in accordance with Delegated Regulation (EU) 2020/689;
+
+or
+
+(b) for diseases not falling within the scope of Delegated Regulation (EU) 2020/689, in accordance with specific rules, where such rules are laid down in this Regulation, and the disease surveillance programme implemented by the third country or territory of origin, which must have been:
+
+(i) submitted to the Commission for assessment and contain at least the information referred to in Annex II;
+
+(ii) assessed by the Commission as providing the necessary guarantees as regards disease freedom based on:
+
+— the rules on disease surveillance laid down in Articles 24, 25, 26 and 27 of Regulation (EU) 2016/429,
+
+— the supplementing rules on surveillance design and the rules for disease confirmation and case definition laid down in Sections 1 and 2 and Article 10 of Chapter 1 of Part II of Delegated Regulation (EU) 2020/689;
+
+(iii) in place for a sufficient period of time for it to be fully implemented and properly supervised.
+
+2\. In the case of aquaculture animals and products of animal origin from aquaculture animals, where disease freedom from particular diseases is required for the compartment of origin, consignments of those commodities shall only be permitted to enter the Union if the competent authority of the third country of origin has demonstrated disease freedom in accordance with paragraph 1(a) and (b).
+
+3\. Where specific conditions related to the disease freedom from particular diseases of the third country or territory of origin, or zone thereof, are required in this Regulation:
+
+(a) the competent authority of the third country or territory of origin must have previously guaranteed its compliance;
+
+(b) those specific conditions shall have been specifically assigned by the Union in the list to the listed third country or territory, zone or compartment thereof and to the particular species and category of animals, germinal products and products of animal origin.
+
+###### Article 10a — Further specific conditions
+
+1\. In addition to the specific conditions referred to in Article 10(3) of this Regulation, consignments of animals, germinal products and products of animal origin falling within the scope of this Regulation and originating from a third country or territory or zone thereof, or compartment thereof in the case of aquaculture animals, shall be permitted to enter the Union if they comply with all the relevant animal health requirements for entry into the Union laid down in this Regulation, as well as, where applicable, any further specific conditions or animal health guarantees concerning listed diseases which have been assigned by the Union in the list to the listed third country, territory or zone thereof in accordance with Article 231, point (c), of Regulation (EU) 2016/429.
+
+2\. Any further specific conditions referred to in paragraph 1, shall be determined having regard to the criteria laid down in Article 230(1), points (a), (b), (e), (f) and (h), of Regulation (EU) 2016/429.
+
+## PART II — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF KEPT TERRESTRIAL ANIMALS AS REFERRED TO IN ARTICLES 3 AND 5
+
+### TITLE 1 — GENERAL ANIMAL HEALTH REQUIREMENTS FOR KEPT TERRESTRIAL ANIMALS
+
+###### Article 11 — The residency period required for kept terrestrial animals
+
+Consignments of kept terrestrial animals other than dogs, cats and ferrets, shall only be permitted to enter the Union subject to compliance with the following requirements:
+
+(a) the animals complied with the relevant residency period set out in the following tables of Annex III for a continuous period of time immediately prior to the date of dispatch to the Union:
+
+(i) Table 1 in the case of ungulates, honeybees and bumble bees;
+
+(ii) Table 2 in the case of poultry and captive birds;
+
+(b) the animals:
+
+(i) remained continuously in the third country or territory of origin or zone thereof during the period indicated in the second column of Table 1 in Annex III and the third column of Table 2 in Annex III;
+
+(ii) remained continuously in the establishment of origin, and no animals were introduced into that establishment during the period indicated in the third column of Table 1 in Annex III and the fourth column of Table 2 in Annex III;
+
+(iii) had no contact with animals of a lower health status during the period indicated in the fourth column of Table 1 in Annex III and the fifth column of Table 2 in Annex III.
+
+###### Article 12 — Derogations regarding the residency period for certain equine animals
+
+1\. By way of derogation of point (b)(i) of Article 11, equine animals other than equine animals intended for slaughter shall be regarded as complying with the residency period provided for in Table 1 of Annex III, if prior to their dispatch to the Union they have been resident during the period indicated in the second column of Table 1 of Annex III in addition to the third country or territory of origin or zone thereof also in:
+
+(a) a Member State;
+
+or
+
+(b) in case of registered horses, a listed third country or territory of intermediate residency, or zone thereof, from where the entry into the Union of registered horses is authorised for that purpose and provided that they were introduced into the third country or territory of origin, or zone thereof, in accordance with animal health requirements providing animal health guarantees at least as stringent as those applicable to the direct entry into the Union of registered horses for competition and races from that third country or territory of intermediate residence, or zone thereof.
+
+2\. By way of derogation from point (b)(ii) of Article 11, registered horses for competition, races and cultural equestrian events shall be regarded as complying with the residency requirements provided for in the third column of Table 1 of Annex III if they have been resident in the third country of origin or the third country of intermediate residence in establishments other than the establishment of origin provided that the other establishments:
+
+(a) have been under supervision of the official veterinarian in a third country or territory;
+
+(b) were not subject to national restriction measures for animal health reasons, including restrictions relating to the relevant diseases referred to in Annex I and relevant emerging diseases;
+
+(c) comply with the animal health requirements laid down in Article 23.
+
+3\. Also by way of derogation from point (b)(ii) of Article 11, registered horses for competition, races and cultural equestrian events that have had contact with equine animals which were entered into the third country, territory or zone thereof from another third country territory, or zone thereof, or from another zone in the third country or territory of origin shall be permitted to enter the Union provided that:
+
+(a) those equine animals were introduced into the third country or territory of origin or zone thereof in accordance with animal health requirements at least as stringent as those applicable to the direct entry into the Union of those equine animals;
+
+(b) the possibility of direct contact with other animals is limited to the period of the competition, races or cultural equestrian events and the related training, warm-up and pre-racing presentation.
+
+###### Article 13 — Inspection of terrestrial animals prior to dispatch to the Union
+
+1\. Consignments of terrestrial animals shall only be permitted to enter the Union if the animals of the consignment have been subjected to a clinical inspection, carried out by an official veterinarian in the third country or territory of origin or zone thereof within the period of 24 hours prior to the time of loading for dispatch to the Union for the purpose of the detection of signs indicative of the occurrence of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases.
+
+In the case of poultry, except day-old chicks, and captive birds, that inspection shall also cover the flock of origin of the animals intended for dispatch to the Union.
+
+2\. By way of derogation from the first subparagraph of paragraph 1, in the case of registered equine animals the inspection referred to therein may be carried out within 48 hours prior to the time of loading for dispatch to the Union or on the last working day prior to dispatch to the Union.
+
+3\. By way of derogation from the first subparagraph of paragraph 1, in the case of dogs, cats and ferrets the inspection referred to therein may be carried out within the period of 48 hours prior to the time of loading for dispatch to the Union.
+
+###### Article 14 — General rules for the dispatch to the Union of terrestrial animals
+
+1\. Consignments of terrestrial animals shall only be permitted to enter the Union if, from the time of loading at the establishment of origin for dispatch to the Union until the time of their arrival in the Union, the animals of the consignment have not been in contact with other terrestrial animals of:
+
+(a) the same species, not intended for entry into the Union;
+
+(b) other species listed for the same diseases, not intended for entry into the Union;
+
+(c) a lower health status.
+
+2\. When transported by air, sea, railway, road or on foot, the consignments referred to in paragraph 1 shall only be permitted to enter the Union if they have not been transported through, unloaded or transhipped in a third country or territory or zone thereof which is not listed for entry into the Union of the specific species and category of animals and their intended use in the Union.
+
+3\. When transported by sea, even for part of the journey, the consignments referred to in paragraph 1 shall only be permitted to enter the Union if they arrive to the Union accompanied by a declaration, attached to the animal health certificate accompanying the animals and signed by the master of the vessel, providing the following information:
+
+(a) the port of departure in the third country or territory of origin or zone thereof;
+
+(b) the port of arrival in the Union;
+
+(c) the ports of call, where the vessel called at ports outside the third country or territory of origin or zone thereof of the animals;
+
+(d) confirmation of compliance with the following requirements during the journey to the Union:
+
+(i) the animals have remained on board;
+
+(ii) the animals have not been into contact with animals of a lower health status while on board.
+
+###### Article 15 — Derogation for the transhipment of terrestrial animals other than equine animals in non-listed third countries or territories in the event of a technical problem or another unforeseen incident
+
+1\. By way of derogation from Article 14(2), the competent authority shall authorise the entry into the Union of consignments of terrestrial animals, other than equine animals, which have been transhipped from the original means of transport of dispatch into another means of transport for onward travel in a third country or territory or zone thereof which is not a listed third country or territory or zone thereof for entry of the particular species and category of animals into the Union, only if the transhipment operation took place because of the occurrence of a technical problem or another unforeseen incident causing logistic problems during the transport of the animals to the Union by sea or by air, in order to complete the transport to the point of entry into Union, provided that:
+
+(a) the entry into the Union of the consignment of animals is authorised by the competent authority of the Member State of destination and, where applicable, any Member States of passage until their arrival at their place of destination in the Union;
+
+(b) the transhipment was supervised by an official veterinarian in the third country or territory throughout the operation to ensure that:
+
+(i) effective protection measures against vectors of relevant animal diseases were put in place;
+
+(ii) effective measures were put in place to avoid direct and indirect contact between the animals intended for entry into the Union and any other animals;
+
+(iii) no feed, water or bedding, originating from a third country or territory or zone thereof which is not a listed third country or territory or zone thereof for entry of the particular species and category of animals into the Union, has been added in the means of transport for onward travel to the Union;
+
+(iv) the animals of the consignment were transferred directly and as quick as possible to a vessel or aircraft for onward travel to the Union, which complies with requirements laid down in Article 17, without leaving the boundaries of the port or airport;
+
+(c) the consignment of animals is accompanied by a declaration from the competent authority of the third country or territory where the transfer took place, providing information on the transfer operation and attesting that relevant measures were put in place to comply with the requirements laid down in point (b).
+
+2\. The derogation provided for in paragraph 1 shall not apply to consignments of honeybees and bumble bees.
+
+###### Article 16 — Derogation for the transhipment of equine animals in non-listed third countries or territories
+
+By way of derogation from Article 14(2), where consignments of equine animals have been transhipped to another means of transport during the transport of the animals to the Union in a third country or territory or zone thereof which is not a listed third country or territory or zone thereof for entry of the particular category of equine animals, those consignments shall only be permitted to enter the Union if they comply with the following requirements:
+
+(a) the animals of the consignment were transported to the Union by sea or by air;
+
+(b) the animals of the consignment were transhipped directly from the original means of transport of dispatch into the other means of transport for onward travel;
+
+(c) during the transhipment operation:
+
+(i) effective protection against vectors of relevant animal diseases was provided and the equine animals did not come into contact with equine animals of a lower health status;
+
+(ii) the animals of the consignment were transferred directly and as quickly as possible to the vessel or aircraft to be used for onward travel, which must have complied with the requirements laid down in Article 17, without leaving the boundaries of the port or airport under the direct supervision of an official veterinarian;
+
+(d) an official veterinarian must have certified that the consignment complied with the requirements laid down in point (a), (b) and (c).
+
+###### Article 17 — General requirements regarding means of transport of terrestrial animals
+
+1\. Consignments of kept terrestrial animals shall only be permitted to enter the Union if the means of transport used for their transport are:
+
+(a) constructed in such a way that:
+
+(i) the animals cannot escape or fall out;
+
+(ii) visual inspection of the space where animals are kept is possible;
+
+(iii) the escape of animal excrements, litter or feed is prevented or minimised;
+
+(iv) in the case of poultry and captive birds, the escape of feathers is prevented or minimised;
+
+(b) cleaned and disinfected, with a disinfectant authorised by the competent authority of the third country or territory of dispatch, and dried or allowed to dry immediately before every loading of animals intended for entry into the Union.
+
+2\. Paragraph 1 shall not apply to the transport of consignments of honeybees and bumble bees intended for entry into the Union.
+
+3\. Paragraph 1 shall not apply to movements for non-commercial purposes of dogs, cats and ferrets kept as pet animals in households into a Member State from a third country or territory where such non-commercial movements cannot be carried out in accordance with the conditions laid down in Article 245(2) or Article 246(1) and (2) of Regulation (EU) 2016/429.
+
+###### Article 18 — Requirements regarding containers in which terrestrial animals are transported to the Union
+
+Consignments of kept terrestrial animals shall only be permitted to enter the Union if the containers in which kept terrestrial animals are transported to the Union in the means of transport:
+
+(a) comply with the requirements in Article 17(1)(a);
+
+(b) contain only animals of the same species and category coming from the same establishment;
+
+(c) are either:
+
+(i) unused and purpose-designed disposable containers to be destroyed after first use;
+
+or
+
+(ii) cleaned and disinfected and dried or allowed to dry before loading of animals intended for entry into the Union.
+
+###### Article 19 — Movement and handling after entry of terrestrial animals
+
+1\. Following their entry into the Union, consignments of terrestrial animals shall be transported directly without delay to:
+
+(a) their establishment of destination in the Union, where they shall remain at least for the period of time required in the relevant specific articles in Parts II to V;
+
+(b) the slaughterhouse of destination in the Union, if they are intended for slaughter, where they must be slaughtered within a period of 5 days from the date of their arrival in the Union.
+
+2\. Where the destination of the consignments of terrestrial animals entered from a third country or territory or zone thereof is a slaughterhouse, an approved quarantine establishment or a confined establishment in the Union, the transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Commission Delegated Regulation (EU) 2019/1666 ( 6 ).
+
+3\. Paragraphs 1 and 2 shall not apply to the entry into the Union of registered equine animals from third countries and to the re-entry after temporary export of registered horses.
+
+4\. Paragraphs 1 and 2 shall not apply to movements for non-commercial purposes of dogs, cats and ferrets kept as pet animals in households into a Member State from a third country or territory where such non-commercial movements cannot be carried out in accordance with the conditions laid down in Article 245(2) or Article 246(1) and (2) of Regulation (EU) 2016/429.
+
+### TITLE 2 — ANIMAL HEALTH REQUIREMENTS FOR UNGULATES
+
+#### CHAPTER 1 — Specific animal health requirements for ungulates
+
+###### Article 20 — Dispatch of ungulates to the Union
+
+1\. Consignments of ungulates shall only be permitted to enter the Union if such consignments have been dispatched from the establishment of origin to the Union without passing through any other establishment.
+
+2\. By way of derogation of paragraph 1, consignments of ungulates coming from more than one establishment of origin may be permitted to enter the Union if the animals of the consignment have undergone a single assembly operation in the third country or territory of origin or zone thereof subject to compliance with the following conditions:
+
+(a) the ungulates belong to one of the following species and categories:
+
+(i) Bos taurus, Ovis aries, Capra hircus or Sus scrofa;
+
+or
+
+(ii) Equidae intended for slaughter;
+
+(b) the assembly operation took place in an establishment:
+
+(i) approved for conducting assembly operations of ungulates by the competent authority in the third country or territory in accordance with requirements which are at least as stringent as to those laid down with Article 5 of Commission Delegated Regulation (EU) 2019/2035 ( 7 );
+
+(ii) listed for that purpose by the competent authority of the third country or territory of dispatch, including the information provided for in Article 21 of Delegated Regulation (EU) 2019/2035;
+
+(iii) where the following records are maintained up-to-date and kept for a period of at least 3 years:
+
+— the origin of the animals,
+
+— the dates of arrival and dispatch to and from the assembly centre,
+
+— the identification code of the animals,
+
+— the registration number of the establishment of origin of the animals,
+
+— the registration number of the transporters and the means of transport delivering or collecting the consignment of ungulates to and from that centre;
+
+(iv) which complies with the requirements provided for in Article 8 and Article 23(1);
+
+(c) the assembly operation in the assembly centre took no longer than 6 days; this period shall be considered as part of the timeframe for sampling for testing prior to dispatch to the Union, where such sampling is required by this Regulation;
+
+(d) the ungulates must have arrived in the Union within a period of 10 days from the date of dispatch from the establishment of origin.
+
+###### Article 21 — Identification of ungulates
+
+1\. Consignments of ungulates, other than equine animals, shall only be permitted to enter the Union if the animals of the consignment were individually identified prior to being dispatched from the establishment of origin, by at least one of the following means of identification, which establishes an unequivocal link between the animal and the accompanying animal health certificate:
+
+(a) a conventional ear tag with a visible, legible and indelible display of an identification code made up of the code of the exporting country conforming with ISO standard 3166-1, and a unique code in numeric characters;
+
+(b) an electronic ear tag with a visible, legible and indelible display of an identification code made up of the code of the exporting country conforming with ISO standard 3166-1, and a unique code in numeric characters. The visible and the electronic identification codes shall be consistent.
+
+2\. Consignments of equine animals shall only be permitted to enter the Union if the animals of the consignment were individually identified prior to being dispatched from the establishment of origin by at least one of the following methods:
+
+(a) one of the following means of identification which establishes an unequivocal link between the animal and the accompanying animal health certificate:
+
+(i) an injectable transponder with an identification code made up of the code of the exporting country conforming with ISO standard 3166-1, and a unique code in numeric characters;
+
+(ii) a conventional ear tag, with a visible, legible and indelible display of an identification code made up of the code of the exporting country conforming with ISO standard 3166-1, and a unique code in numeric characters;
+
+(iii) an electronic ear tag with a visible, legible and indelible display of an identification code made up of the code of the exporting country conforming with ISO standard 3166-1, and a unique code in numeric characters. The visible and the electronic identification codes shall be consistent.
+
+(b) in the case of equine animals other than those intended for slaughter, an identification document, issued at the latest at the time of certification for entry into the Union, which:
+
+(i) describes and depicts the animal, including the alternative methods of identification, so as to establish an unequivocal link between the animal and the accompanying identification document;
+
+(ii) contains information on the individual code emitted by an implanted injectable transponder in the case where this code does not comply with the specifications referred to in point (a).
+
+3\. By way of derogation from paragraph 1, consignments of ungulates intended for confined establishments may be permitted to enter the Union if those animals are individually identified by an injectable transponder or an alternative method of identification which ensures an unequivocal link between the animal and its accompanying entry documentation.
+
+4\. Where ungulates are identified with an electronic identifier which does not comply with ISO standards 11784 and 11785, the operator responsible for the entry into the Union of the consignments of ungulates shall provide the reading device which enables at any time the verification of the identification of the animal.
+
+5\. By way of derogation from paragraph 1, based on the request of a third country or territory of origin to the Commission and subject to its agreement, the code of the exporting country referred to in paragraph 1 and in paragraph 2(a), may be replaced by a code that is different from ISO standard 3166-1.
+
+###### Article 22 — The third country or territory of origin of ungulates or zone thereof
+
+1\. Consignments of ungulates, other than equine animals, shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof free from the category A diseases referred to in the table set out in point 1 of Part A of Annex IV for the period referred to in that table.
+
+2\. Consignments of equine animals shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof:
+
+(a) free from the listed diseases referred in the table set out in point 2 of Part A of Annex IV for the period referred to in that table;
+
+(b) where none of the listed diseases referred to in the table set out in point 3 of Part A of Annex IV has been reported during the referred period.
+
+3\. The periods referred to in paragraph 1 and 2 may be reduced for diseases included in Part B of Annex IV under the relevant specific conditions referred therein.
+
+4\. Consignments of ungulates shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof where vaccination against the category A diseases referred to in Part C of Annex IV has not been carried out in accordance with the details set out in:
+
+(a) point 1 of that Annex in the case of ungulates, other than equine animals;
+
+(b) point 2 of that Annex in the case of equine animals.
+
+5\. As regards infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis), consignments of bovine animals shall only be permitted to enter the Union if the animals of the consignment either:
+
+(a) originate from a third country or territory or zone thereof free from that disease without vaccination;
+
+or
+
+(b) comply with the requirements set out in point 1 of Annex V.
+
+6\. As regards infection with Brucella abortus, B. melitensis and B. suis, consignments of bovine, ovine and caprine animals shall only be permitted to enter the Union if the animals of the consignment either:
+
+(a) originate from a third country or territory or zone thereof free from that disease without vaccination;
+
+or
+
+(b) comply with the requirements set out in point 2 of Annex V.
+
+7\. As regards infection with bluetongue virus (serotypes 1-24), consignments of ungulates of listed species shall only be permitted to enter the Union if the animals of the consignment either:
+
+(a) originate from a third country or territory or zone thereof free from that disease for a period of 2 years prior to the date of dispatch to the Union; or
+
+(b) comply with one of the specific conditions set out in of Part A of Annex VI.
+
+8\. As regards enzootic bovine leukosis, consignments of bovine animals shall only be permitted to enter the Union if those animals either:
+
+(a) originate from a third country or territory or zone thereof free from that disease;
+
+or
+
+(b) comply with the specific conditions set out in Part B of Annex VI.
+
+9\. Consignments of ungulates intended for entry into Member States or zones thereof with disease-free status or with an approved eradication programme for the category C diseases referred to in Annex VII, for which the species of ungulates are listed, shall only be permitted to enter the Union if the animals of the consignment:
+
+(a) originate from third country or territory or zone thereof free from those diseases for the relevant species;
+
+or
+
+(b) comply with the relevant additional requirements set out in that Annex.
+
+###### Article 23 — The establishment of origin of ungulates
+
+1\. Consignments of ungulates shall only be permitted to enter the Union if the animals of the consignment:
+
+(a) come from an establishment in and around which, including where appropriate the territory of a neighbouring country, none of the listed diseases referred to in Annex VIII, for which the species of ungulates intended for entry into the Union are listed, has been reported in an area and for a period set out in the tables in:
+
+(i) points 1 and 2 of that Annex for ungulates other than equine animals;
+
+or
+
+(ii) points 3 and 4 of that Annex for equine animals;
+
+(b) during the period referred to in point (a), the ungulates have not come into contact with animals with a lower health status.
+
+2\. As regards infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis), consignments of bovine, ovine, caprine, camelid and cervid animals shall only be permitted to enter the Union if the establishment of origin of the animals of the consignment complies with the relevant requirements set out in point 1 of Annex IX.
+
+3\. As regards infection with Brucella abortus, B. melitensis and B. suis, consignments of bovine, ovine, caprine, porcine, camelid and cervid animals shall only be permitted to enter the Union if the establishment of origin of the animals of the consignment complies with the relevant requirements set out in point 2 of Annex IX.
+
+###### Article 24 — The ungulates of the consignment
+
+1\. Consignments of ungulates shall only be permitted to enter the Union if the animals of the consignment comply with the following requirements:
+
+(a) they have not been vaccinated against the category A diseases referred to in the tables set out either in:
+
+(i) point 1 of Part C of Annex IV in the case of ungulates other than equine animals;
+
+or
+
+(ii) point 2 of Part C of Annex IV in the case of equine animals;
+
+(b) during the period of time from when they were dispatched from their establishment of origin until their arrival to the Union, they must not have been unloaded in any place which does not comply with the requirements laid down in the tables set out either in:
+
+(i) points 1 and 2 of Annex VIII in the case of ungulates other than equine animals;
+
+or
+
+(ii) points 3 and 4 of Annex VIII in the case of equine animals.
+
+2\. As regards infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis) and infection with Brucella abortus, B. melitensis and B. suis consignments of listed species of ungulates shall only be permitted to enter the Union if the animals of the consignment have not been vaccinated against those diseases.
+
+3\. As regards infection with bluetongue virus (serotypes 1-24), consignments of listed species of ungulates shall only be permitted to enter the Union if the animals of the consignment have not been vaccinated with a live vaccine against this disease in the last 60 days prior to the date of movement.
+
+4\. Consignments of ungulates intended for entry into Member States or zones thereof with disease-free status or with an approved eradication programme for the category C diseases referred to in Annex VII, for which the species of ungulates are listed, shall only be permitted to enter the Union if the animals of the consignment have not been vaccinated against those diseases.
+
+5\. In addition to requirements laid down in paragraph 1, consignments of uncastrated males of ovine animals and ungulates of the family Tayassuidae shall only be permitted to enter the Union if the animals of the consignment comply with the relevant specific requirements as regards infection with Brucella laid down in Annex X.
+
+6\. In addition to requirements laid down in paragraph 1 of this Article, consignments of equine animals shall only be permitted to enter the Union if the animals of the consignment comply with the specific conditions set out in Annex XI, point 2, either:
+
+(a) depending on the sanitary group, as determined in accordance with Annex XI, point 1, to which the third country or territory, or zone thereof has been assigned in the list, or
+
+(b) where African horse sickness, Venezuelan equine encephalomyelitis, Burkholderia mallei (Glanders), dourine or surra (Trypanosoma evansi) has been reported during the period indicated in Part A of Annex IV, point 2 or 3, in the third country or territory, or zone thereof.
+
+7\. By way of derogation from paragraph 6, point (a), and from the specific conditions set out in Annex XI, point 2, the consignments of equine animals shall be permitted to enter the Union, if a disease, indicated in the table in of Annex XI, point 1, has never been reported, or has been absent for the period indicated in Part A of Annex IV, point 2 or 3, in the third country or territory, or zone thereof.
+
+###### Article 25 — Derogations and additional requirements for entry into the Union of ungulates for slaughter
+
+By way of derogation from the requirements laid down in Article 22(5) and (6), consignments of ungulates of the species referred to in those paragraphs which do not comply with those requirements shall be permitted to enter the Union provided that the animals of the consignment are only intended for slaughter.
+
+###### Article 26 — Movement and handling of ungulates after their entry into the Union
+
+Following their entry into the Union, ungulates, except equine animals, shall remain in their establishment of destination for a period of at least 30 days from the date of their arrival in that establishment, unless they are moved for slaughter.
+
+#### CHAPTER 2 — Special rules for entry into the Union of kept ungulates intended for confined establishments
+
+###### Article 27 — Animal health requirements not applicable to ungulates intended for confined establishments
+
+Articles 11, 22, 23, 24 and 26 shall not apply to consignments of ungulates, excluding equine animals, entering the Union under the conditions laid down in Articles 28 to 34.
+
+###### Article 28 — Specific rules for entry of ungulates intended for confined establishments
+
+1\. Consignments of ungulates intended for confined establishments shall only be permitted to enter the Union if the animals of the consignment comply with the following requirements:
+
+(a) they must come from a confined establishment which is included in a list of confined establishments from which the entry of ungulates into the Union is permitted, drawn up in accordance with Article 29;
+
+(b) they must have been dispatched directly from the confined establishment of origin to a confined establishment in the Union.
+
+2\. The competent authority of the Member State of destination shall grant a specific authorisation for entry of each consignment of ungulates referred to in paragraph 1, following the favourable outcome of an assessment of the potential risks that the entry of such consignment may present for the Union.
+
+3\. The entry into the Union and the movement of each consignment of ungulates referred to in paragraph 1 through Member States other than the Member State of destination shall be only permitted subject to the authorisation of the competent authorities of those Member States of passage.
+
+That authorisation shall be granted only on the basis of the favourable outcome of a risk assessment carried out by the competent authority of those Member States of passage, based on the information submitted to them by the Member State of the place of destination in the Union.
+
+4\. The Member State of the place of destination of the consignments referred to in paragraph 1 shall notify the Commission and the other Member States within the framework of the Standing Committee on Plants, Animals, Food and Feed and notify directly the point of entry in the Union of the ungulates, of the authorisations granted pursuant to paragraph 1 and 2, prior to any possible movement through other Member States and prior to the arrival of such ungulates into their territory.
+
+###### Article 29 — Listing of confined establishments of origin of ungulates in third countries or territories
+
+1\. Member States may draw up a list of confined establishments in third countries and territories, from which the entry of ungulates into their territory shall be permitted.
+
+That list shall specify the species of ungulates permitted to enter the territory of the Member State from each confined establishment in the third country or territory.
+
+2\. Member States may include in their list of confined establishments provided for in paragraph 1, confined establishments that are already included in such lists of other Member States.
+
+Except as provided for in the first subparagraph, Member States shall only include a confined establishment in a third country or territory in the list of confined establishments provided for in paragraph 1, following the favourable outcome of a complete assessment based on the following:
+
+(a) compliance by the confined establishment with the requirement to be approved by the competent authority of the third country or territory of origin laid down in Article 30;
+
+(b) the competent authority of the third country or territory of origin must have provided sufficient information to guarantee that the confined establishment complies with the requirements concerning the approval of confined establishments laid down in Article 30.
+
+3\. Member States shall keep the lists of confined establishments provided for in paragraph 1 up-to-date, taking into account in particular any suspension or withdrawal of the approval granted by the competent authority of a third country or territory of origin as referred to in Article 30, or by the competent authority of another Member State.
+
+4\. Member States shall make the lists provided for in paragraph 1 publicly available on their websites.
+
+###### Article 30 — Conditions for confined establishments of origin of ungulates in third countries or territories for the purpose of Article 29
+
+Member States shall only include a confined establishment located in a third country or territory on the list of confined establishments provided for in Article 29, if the confined establishment is approved by the competent authority of the third country or territory and complies with the following conditions:
+
+(a) it must be clearly demarcated and the access of animals and humans to animal facilities must be controlled;
+
+(b) it must have adequate means for catching, confining and isolating animals, and have available and adequate quarantine facilities and approved standard operating procedures for new incoming animals;
+
+(c) the animal accommodation areas must be of a suitable standard and constructed in such a way that:
+
+(i) contact with animals outside the confined establishment is prevented and inspections and any necessary treatment can be easily carried out;
+
+(ii) the floors, walls and all other material or equipment can be cleaned and disinfected easily;
+
+(d) as regards disease surveillance and control measures:
+
+(i) it must implement an appropriate disease surveillance programme which must include control measures against zoonosis, and update it according to the number and species of the animals present in the confined establishment and to the epidemiological situation in and around the confined establishment as regards listed diseases and emerging diseases;
+
+(ii) it must subject to clinical examinations, laboratory testing or post-mortem examinations those ungulates suspected of being infected or contaminated by disease agents of listed diseases or emerging diseases;
+
+(iii) it must carry out, as appropriate, the vaccination and treatment of susceptible ungulates against transmissible diseases;
+
+(e) it must keep, for a minimum period of 3 years, up-to-date records indicating:
+
+(i) the number and identity (namely, the estimated age, sex, species and individual identification, where appropriate) of the ungulates of each species present on the confined establishment;
+
+(ii) the number and identity (namely, the estimated age, sex, species and individual identification code where appropriate) of ungulates arriving or leaving the confined establishment, together with information on the establishment of origin or destination of such animals, the means of transport and the health status of those animals;
+
+(iii) details of the implementation and results of the disease surveillance and control programme provided for in point (d)(i);
+
+(iv) the results of clinical examinations, laboratory tests and of post-mortem examinations provided for in point (d)(ii);
+
+(v) details of the vaccination and treatment provided for in point (d)(iii);
+
+(vi) instructions, if any, of the competent authority of the third country or territory of origin as regards observations made during any period of isolation or quarantine;
+
+(f) it must ensure the disposal of the dead bodies of ungulates which die of a disease or are euthanised;
+
+(g) it must secure by contract or other legal instrument the services of an establishment veterinarian who shall be responsible for:
+
+(i) the supervision of the activities of the establishment and compliance with the conditions for approval laid down in of this Article;
+
+(ii) the review of the disease surveillance programme referred to in point (d)(i) at least annually;
+
+(h) by way of derogation from Article 9(c), either has:
+
+(i) an arrangement with a laboratory approved by the competent authority of the third country or territory to perform post-mortem examinations;
+
+or
+
+(ii) one or more appropriate premises where post-mortem examinations may be performed under the authority of the establishment veterinarian.
+
+###### Article 31 — Derogation from the requirement of listing of the third country or territory and the listing of the confined establishment of origin of ungulates
+
+1\. By way of derogation from the requirements laid down in Article 3, point (a)(i), and Article 28(1), consignments of ungulates from establishments in third countries or territories which do not comply with those requirements shall be permitted to enter into the Union if they are intended for a confined establishment and provided that:
+
+(a) exceptional unforeseen circumstances render compliance with those requirements impossible;
+
+(b) those consignments comply with the conditions laid down in Article 32.
+
+2\. The Member State of the place of destination of the consignment referred to in paragraph 1 shall notify the Commission and the Member States within the framework of the Standing Committee on Plants, Animals, Food and Feed and notify directly the point of entry in the Union of the ungulates, of the authorisations granted pursuant to paragraph 1, prior to any possible movement through other Member States and prior to the arrival of such ungulates into their territory.
+
+###### Article 32 — Additional requirements to be fulfilled by establishments of origin of ungulates intended for a confined establishment pursuant to the derogation laid down in Article 31
+
+The competent authority of a Member State of destination shall only authorise derogations, as provided for in Article 31, for consignments of ungulates that comply with the following additional conditions:
+
+(a) a prior application to the competent authority of the Member State of destination for a specific derogation as provided for in Article 31 was made by the owner, or a natural person representing that owner, and the Member State of destination granted that authorisation after having carried out a risk assessment that has indicated that the introduction of such a consignment of ungulates would not present an animal health risk for the Union;
+
+(b) the ungulates have been quarantined in the third country or territory of origin under the supervision of the competent authority for the necessary period of time required for them to comply with the specific animal health requirements laid down in Articles 33 and 34:
+
+(i) at a place approved by the competent authority of the third country or territory of origin of the ungulates;
+
+(ii) in accordance with the arrangements specified in the authorisation referred to in point (a) that must provide at least the same guarantees as those provided for by Article 28(2) to (4) and by Articles 33 and 34;
+
+(c) the ungulates must be quarantined in the confined establishment of destination for a period of at least 6 months from the date of entry into the Union, during which period the actions provided for in Article 138(2) of Regulation (EU) 2017/625 and in particular in its points 2(a), (d) and (k) may be taken by the competent authority of the Member State of destination.
+
+###### Article 33 — Animal health requirements for the confined establishment of origin of ungulates as regards listed diseases
+
+Consignments of ungulates intended for a confined establishment located in the Union shall only be permitted to enter the Union if the confined establishment of origin complies with the following requirements as regards listed diseases:
+
+(a) as regards the confined establishment of origin of the ungulates, listed diseases referred to in the table set out in Part A of Annex XII have not been reported for the periods specified for those listed diseases in that table;
+
+(b) as regards the area in and around the confined establishment, listed diseases referred to in the table set out in Part B of Annex XII have been not reported for the periods specified for those listed diseases in that table.
+
+###### Article 34 — Animal health requirements for the ungulates of the consignment as regards listed diseases
+
+Consignments of ungulates intended for a confined establishment located in the Union shall only be permitted to enter the Union if the animals of the consignment comply with the following additional animal health requirements:
+
+(a) they must comply with a residency period in the confined establishment of origin for a continuous period of 6 months or since birth if they are less than 6 months of age;
+
+(b) they must not have been in contact with animals of a lower health status during:
+
+(i) the period of 30 days prior to the date of dispatch to the Union, or since birth if the animals are less than 30 days of age;
+
+(ii) their transport from the approved confined establishment of origin to the place of dispatch to the Union;
+
+(c) as regards the diseases referred to in the table set out in Part C of Annex XII, they must either:
+
+(i) originate from a third country or territory or zone thereof which complies with the disease freedom periods for the relevant diseases set out in that table;
+
+or
+
+(ii) comply with the relevant additional requirements set out in Part D of Annex XII;
+
+(d) they must not have been vaccinated as referred to in the table set out in Part E of Annex XII;
+
+(e) if they have been vaccinated against anthrax and rabies, information on the date of vaccination, the vaccine used and the possible test performed to show a protective immune response, must have been provided by the competent authority of the third country or territory of origin;
+
+(f) they must have been treated against internal and external parasites at least twice during the period of 40 days prior to date of dispatch to the Union.
+
+Where the specific guarantees referred to in point (c)(ii) include a quarantine period in a vector-protected facility in the confined establishment, this facility must comply with the requirements set out in Part F of Annex XII.
+
+###### Article 35 — Movement and handling of ungulates intended to confined establishments after the entry
+
+Following their entry into the Union, ungulates originating from a confined establishment in a third country or territory, as referred to in Article 27, must remain in the confined establishment of destination for a period of at least 6 months prior to the date of movement to another confined establishment in the Union, unless they are exported from the Union or moved for slaughter.
+
+### TITLE 3 — ANIMAL HEALTH REQUIREMENTS FOR POULTRY AND CAPTIVE BIRDS
+
+#### CHAPTER 1 — Specific animal health requirements for poultry
+
+##### SECTION 1 — ANIMAL HEALTH REQUIREMENTS FOR ALL SPECIES AND CATEGORIES OF POULTRY
+
+###### Article 36 — Poultry imported into the third country or territory of origin or zone thereof prior to entry into Union
+
+1\. The following consignments shall only be permitted to enter the Union where the competent authority of the third country or territory of origin has provided guarantees in accordance with paragraph 2:
+
+(a) poultry imported into the third country or territory of origin or zone thereof from another third country or territory or zone thereof;
+
+(b) day-old chicks from parent flocks that were imported into the third country or territory of origin or zone thereof from another third country or territory or zone thereof.
+
+2\. Consignments of animals referred to in paragraph 1 shall only be permitted to enter the Union if the competent authority of the third country or territory of origin of the poultry has provided guarantees that:
+
+(a) those poultry and parent flocks referred to in that paragraph were imported from a third country or territory or zone thereof, which is listed for entry into Union of such consignments;
+
+(b) the import of the poultry and parent flocks referred to paragraph 1 into that third country or territory or zone thereof took place in accordance with animal health requirements that are at least as stringent as those applicable to consignments of those animals entering directly into the Union.
+
+###### Article 37 — Requirements concerning the third country or territory of origin of poultry or zone thereof
+
+Consignments of poultry shall only be permitted to enter the Union if such consignments originate from a third country or territory or zone thereof which complies with the following requirements:
+
+(a) it has a disease surveillance programme for highly pathogenic avian influenza in place for a period of at least 6 months prior to the date of dispatch of the consignment to the Union and that surveillance programme complies with the requirements laid down in either:
+
+(i) Annex II to this Regulation;
+
+or
+
+(ii) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE);
+
+(b) it is considered to be free from highly pathogenic avian influenza in accordance with Article 38;
+
+(c) where it carries out vaccination against highly pathogenic avian influenza, the competent authority of the third country or territory of origin has provided guarantees that:
+
+(i) the vaccination programme complies with the requirements set out in Annex XIII;
+
+(ii) the surveillance programme referred to in point (a) of this Article, in addition to the requirements set out in Annex II, complies with the requirements set out in point 2 of Annex XIII;
+
+(iii) it has undertaken to inform the Commission of any change to the vaccination programme in the third country or territory or zone thereof;
+
+(d) which:
+
+(i) in the case of poultry other than ratites, it is considered free from infection with Newcastle disease virus in accordance with Article 39;
+
+(ii) in the case of ratites:
+
+— it is considered free from infection with Newcastle disease virus in accordance with Article 39,
+
+or
+
+— it is not considered free from infection with Newcastle disease virus in accordance with Article 39, but the competent authority of the third country or territory of origin has provided guarantees regarding compliance with the requirements for infection with Newcastle disease virus in relation to isolation, surveillance and testing, as set out in Annex XIV;
+
+(e) where vaccination against infection with Newcastle disease virus is carried out, the competent authority of the third country or territory has provided guarantees that:
+
+(i) the vaccines used comply with the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV;
+
+or
+
+(ii) the vaccines used comply with the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(f) it has undertaken that following any outbreak of highly pathogenic avian influenza or an outbreak of infection with Newcastle disease virus, to submit the following information to the Commission:
+
+(i) information on the disease situation within 24 hours of confirmation of any initial outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus;
+
+(ii) regular updates on the disease situation;
+
+(g) which has undertaken to submit virus isolates from initial outbreaks of highly pathogenic avian influenza and infection with Newcastle disease virus to the European Union Reference Laboratory for Avian Influenza and Newcastle disease.
+
+###### Article 38 — Freedom from highly pathogenic avian influenza of the third country or territory of origin or zone thereof
+
+1\. A third country or territory or zone thereof shall be considered as being free from highly pathogenic avian influenza when it has provided the following guarantees to the Commission:
+
+(a) a surveillance programme for highly pathogenic avian influenza, in accordance with Article 37(a) has been carried out during a period of at least 6 months preceding the date of certification of the consignment by the official veterinarian for dispatch to the Union;
+
+(b) no outbreak of highly pathogenic avian influenza has occurred in poultry in that third country or territory or zone thereof for a period of at least 12 months preceding the date of certification of the consignment by the official veterinarian for dispatch to the Union.
+
+2\. Following an outbreak of highly pathogenic avian influenza in a third country or territory or zone thereof previously considered as free of that disease, as referred to in paragraph 1, that third country or territory or zone thereof shall again be considered as free from highly pathogenic avian influenza, subject to compliance with the following conditions:
+
+(a) a stamping out policy has been implemented to control highly pathogenic avian influenza;
+
+(b) adequate cleaning and disinfection has been carried out on all previously infected establishments;
+
+(c) during a period of at least 30 days following the completion of the stamping out policy and cleaning and disinfection referred to in points (a) and (b), the competent authority of the third country or territory has carried out a surveillance programme, providing at least the confidence, by a randomised representative sample of the populations at risk, to demonstrate the absence of infection taking into account the specific epidemiological circumstances in relation to the occurred outbreak(s), with negative results.
+
+###### Article 39 — Freedom from infection with Newcastle disease virus of the third country or territory of origin or zone thereof
+
+1\. A third country or territory or zone thereof shall be considered free from infection with Newcastle disease virus when no outbreak of infection with Newcastle disease virus has occurred in poultry in that third country or territory or zone thereof for a period of at least 12 months preceding the date of certification of the consignment by the official veterinarian for dispatch to the Union.
+
+2\. When an outbreak of infection with Newcastle disease virus occurs in a third country or territory or zone thereof previously free from that disease, as referred to in paragraph 1, that third country or territory or zone thereof shall again be considered as free from that infection with Newcastle disease virus subject to compliance with the following conditions:
+
+(a) a stamping out policy has been implemented to control the disease;
+
+(b) adequate cleaning and disinfection has been carried out on all previously infected establishments;
+
+(c) during a period of at least 3 months following the completion of the stamping out policy and cleaning and disinfection referred to in points (a) and (b), the competent authority of the third country or territory has demonstrated the absence of that disease in the third country or territory or zone thereof by intensified investigations including laboratory testing in relation to the outbreak.
+
+###### Article 40 — The establishment of origin of poultry
+
+1\. Consignments of breeding poultry and productive poultry shall only be permitted to enter into the Union if the animals of the consignment come from establishments approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least as stringent as to those laid down in Article 8 of Delegated Regulation (EU) 2019/2035, and:
+
+(a) the approval of which has not been suspended or withdrawn;
+
+(b) within a 10 km radius of which, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the date of loading for dispatch to the Union;
+
+(c) in which no confirmed case of infection with low pathogenic avian influenza viruses has been reported during the period of at least 21 days prior to the date of loading for dispatch to the Union.
+
+2\. Consignments of poultry intended for slaughter shall only be permitted to enter into the Union if the animals of the consignment come from establishments:
+
+(a) within a 10 km radius of which, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the date of loading for dispatch to the Union;
+
+(b) in which no confirmed case of infection with low pathogenic avian influenza viruses has been reported during the period of at least 21 days prior to the date of loading for dispatch to the Union.
+
+3\. Consignments of day-old chicks shall only be permitted to enter into the Union if the animals of the consignment:
+
+(a) have been hatched in establishments approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least as stringent as to those laid down in Article 7 of Delegated Regulation (EU) 2019/2035; and
+
+(i) the approval of which has not been suspended or withdrawn;
+
+(ii) within a 10 km radius of which, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the date of dispatch to the Union;
+
+(b) come from flocks which have been kept in establishments approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least as stringent as to those laid down in Article 8 of Delegated Regulation (EU) 2019/2035, and
+
+(i) the approval of which had not been suspended or withdrawn at the time the hatching eggs, from which the day-old chick were hatched, were sent to the hatchery;
+
+(ii) in which no confirmed case of infection with low pathogenic avian influenza viruses has been reported during the period of at least 21 days prior to the date of collection of the hatching eggs from which the day-old chicks were hatched.
+
+###### Article 41 — Specific preventive measures for the containers in which poultry are transported
+
+Consignments of poultry shall only be permitted to enter into the Union if such consignments have been transported in containers which, in addition to the requirements of Article 18, comply with the following requirements:
+
+(a) they are closed in accordance with the instructions of the competent authority of the third country or territory of origin in order to avoid any possibility of substitution of the contents;
+
+(b) they bear the information for the particular species and category of poultry set out in Annex XVI;
+
+(c) in the case of day-old chicks, they are disposable, clean and used for the first time.
+
+###### Article 42 — Entry of poultry into Member States with status free from infection with Newcastle disease virus without vaccination
+
+1\. Consignments of breeding poultry and productive poultry intended for a Member State with status free from infection with Newcastle disease virus without vaccination shall only be permitted to enter into the Union if the animals of the consignment comply with the following requirements:
+
+(a) they have not been vaccinated against infection with Newcastle disease virus;
+
+(b) they have been kept in isolation during a period of at least 14 days prior to the date of loading of the consignment for dispatch to the Union in the establishment of origin or quarantine establishment under the supervision of an official veterinarian, where:
+
+(i) no poultry has been vaccinated against infection with Newcastle disease virus during a period of at least 21 days prior to the date of loading of the consignment;
+
+(ii) no bird which does not form part of the consignment has entered into the establishment during period referred to in point (i);
+
+(iii) no vaccination has been carried out;
+
+(c) they have tested negative, during the period of at least 14 days prior to the date of loading for dispatch to the Union, to serological tests to detect antibodies against Newcastle disease virus, performed on blood samples at a level which gives 95 % confidence of detecting infection at 5 % prevalence.
+
+2\. Consignments of poultry intended for slaughter intended for a Member State with status free from infection with Newcastle disease virus without vaccination, shall only be permitted to enter into the Union if the animals of the consignment come from flocks which:
+
+(a) have not been vaccinated against infection with Newcastle disease virus and have tested negative, during a period of at least 14 days prior to the date of loading of the consignment for dispatch to the Union, to serological tests to detect antibodies against Newcastle disease virus performed on blood samples at a level which gives 95 % confidence of detecting infection at 5 % prevalence;
+
+or
+
+(b) have been vaccinated against infection with Newcastle disease virus but not with a live vaccine during the period of at least 30 days prior to the date of loading of the consignment for dispatch to the Union and underwent a virus isolation test for infection with Newcastle disease virus in the 14 days prior to that date on a random sample of cloacal swabs or faeces samples taken from at least 60 birds and tested negative.
+
+3\. Consignments of day-old chicks intended for a Member State with status free from infection with Newcastle disease virus without vaccination shall only be permitted to enter into the Union if the animals of the consignment:
+
+(a) have not been vaccinated against infection with Newcastle disease virus;
+
+(b) come from hatching eggs coming from flocks which comply with one of the following:
+
+(i) they have not been vaccinated against infection with Newcastle disease virus;
+
+or
+
+(ii) they have been vaccinated against infection with Newcastle disease virus using an inactivated vaccine;
+
+or
+
+(iii) they have been vaccinated against infection with Newcastle disease virus using a live vaccine at the latest 60 days prior to the date the eggs were collected;
+
+(c) come from a hatchery where working practices ensure that the eggs of day-old chicks intended for entry into the Union are incubated at completely separate times and locations from eggs not satisfying the requirements laid down in point (b).
+
+##### SECTION 2 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR BREEDING AND PRODUCTIVE POULTRY
+
+###### Article 43 — Identification of breeding ratites and productive ratites
+
+1\. Consignments of breeding ratites and productive ratites shall only be permitted to enter the Union if the animals of the consignment are individually identified prior to being dispatched from the establishment of origin, by at least one of the following means of identification displaying an identification code establishing an unequivocal link between the animal and the accompanying animal health certificate:
+
+(a) a neck-tag with a visible, legible and indelible display of an identification code made up of the code of the third country or territory of origin conforming with ISO standard 3166-1, and a unique code in numeric characters;
+
+(b) an injectable transponder with a legible and indelible display of an identification code made up of the code of the third country or territory of origin conforming with ISO standard 3166-1, and a unique code in numeric characters.
+
+2\. When the injectable transponder does not comply with ISO standards 11784 and 11785, the operator responsible for the entry into the Union of the consignment of ratites shall provide the reading device which enables at any time the verification of the identification of the animals.
+
+###### Article 44 — Specific animal health requirements for the flock of origin of consignments of breeding and productive poultry
+
+Consignments of breeding poultry and productive poultry shall only be permitted to enter into the Union if the animals of the consignment originate from flocks which comply with the following requirements:
+
+(a) the flocks have not been vaccinated against highly pathogenic avian influenza;
+
+(b) if the flocks have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authorities of the third country or territory of origin that the vaccines used comply either with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+or
+
+— the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV, and the poultry meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for the consignment;
+
+(c) the flocks have undergone a disease surveillance programme that meets the requirements set out in Annex II of Delegated Regulation (EU) 2019/2035, and were found not to be infected or showed any ground for suspecting any infection by the following agents:
+
+(i) Salmonella Pullorum, Salmonella Gallinarum and Mycoplasma gallisepticum in case of Gallus gallus;
+
+(ii) Salmonella arizonae (serogroup O:18(k)), Salmonella Pullorum, Salmonella Gallinarum, Mycoplasma meleagridis and Mycoplasma gallisepticum in case of Meleagris gallopavo;
+
+(iii) Salmonella Pullorum and Salmonella Gallinarum in case of Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas spp.;
+
+(d) the flocks are kept in establishments which, in case of confirmation of infection with Salmonella Pullorum, S. Gallinarum and S. arizonae during the last 12 months prior to date of loading of the consignment for dispatch to the Union have applied the following measures:
+
+(i) the infected flock has been slaughtered or it has been killed and destroyed;
+
+(ii) following the slaughter or killing of the infected flock referred to in point (i), the establishment has been cleaned and disinfected;
+
+(iii) following the cleaning and disinfection referred to in point (ii), all flocks on the establishment tested negative for infection with Salmonella Pullorum, S. Gallinarum and S. arizonae in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c);
+
+(e) the flocks are kept in establishments which in case of confirmation of avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) during the last 12 months prior to date of loading of the consignment for dispatch to the Union have applied the following measures:
+
+either
+
+(i) the infected flock tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed in accordance with the disease surveillance programme referred to in point (c) on the entire flock with an interval of at least 60 days;
+
+or
+
+(ii) the infected flock has been slaughtered or it has been killed and destroyed, the establishment has been cleaned and disinfected and following the cleaning and disinfection all flocks on the establishment tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c).
+
+##### SECTION 3 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR POULTRY INTENDED FOR SLAUGHTER
+
+###### Article 45 — Specific animal health requirements for the flock of origin of consignments of poultry intended for slaughter
+
+Consignments of poultry intended for slaughter shall only be permitted to enter into the Union if the animals of the consignment originate from flocks which comply with the following requirements:
+
+(a) they have not been vaccinated against highly pathogenic avian influenza;
+
+(b) if they have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that:
+
+— the vaccines used comply with the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+or
+
+— the vaccines used comply with the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for each consignment.
+
+##### SECTION 4 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR DAY-OLD CHICKS
+
+###### Article 46 — Specific animal health requirements for the flocks of origin of consignments of day-old chicks
+
+Consignments of day-old chicks shall only be permitted to enter into the Union if the animals of the consignment originate from flocks which comply with the following requirements:
+
+(a) if the flocks have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+
+(b) if the flocks have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply either with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+or
+
+— the general criteria for recognised vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry and hatching eggs from which the day-old chicks originated meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for each consignment;
+
+(c) the flocks have undergone a disease surveillance programme that meets the requirements set out in Annex II of Delegated Regulation (EU) 2019/2035 and were found not to be infected or showed any grounds for suspecting any infection by the following agents:
+
+(i) Salmonella Pullorum, Salmonella Gallinarum and Mycoplasma gallisepticum in case of Gallus gallus;
+
+(ii) Salmonella arizonae (serogroup O:18(k)), Salmonella Pullorum, Salmonella Gallinarum, Mycoplasma meleagridis and Mycoplasma gallisepticum in case of Meleagris gallopavo;
+
+(iii) Salmonella Pullorum and Salmonella Gallinarum in case of Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas spp.;
+
+(d) the flocks are kept in establishments which, in case of confirmation of infection with Salmonella Pullorum, S. Gallinarum and S. arizonae during the last 12 months prior to date of loading of the consignment for dispatch to the Union have applied the following measures:
+
+(i) the infected flock has been slaughtered or it has been killed and destroyed;
+
+(ii) following the slaughter or killing of the infected flock referred to in point (i), the establishment has been cleaned and disinfected;
+
+(iii) following the cleaning and disinfection referred to in point (ii), all flocks on the establishment tested negative for infection with Salmonella Pullorum, S. Gallinarum and S. arizonae in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c);
+
+(e) the flocks are kept in establishments which in case of confirmation of avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) during the last 12 months prior to date of loading of the consignment for dispatch to the Union have applied the following measures:
+
+either
+
+(i) the infected flock tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed in accordance with the disease surveillance programme referred to in point (c) on the entire flock with an interval of at least 60 days;
+
+or
+
+(ii) the infected flock has been slaughtered or it has been killed and destroyed, the establishment has been cleaned and disinfected and following the cleaning and disinfection all flocks on the establishment tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c).
+
+###### Article 47 — Specific animal health requirements for the hatching eggs of origin of consignments of day-old chicks
+
+Consignments of day-old chicks shall only be permitted to enter into the Union if the animals of the consignment originate from hatching eggs which:
+
+(a) comply with the animal health requirements for entry into the Union laid down in Title 2 of Part III;
+
+(b) prior to being dispatched to the hatchery, the hatching eggs had been marked in accordance with the instruction of the competent authority;
+
+(c) had been disinfected in accordance with the instructions of the competent authority;
+
+(d) have had no contact with poultry or hatching eggs of a lower health status, captive birds or wild birds, either during transport to the hatchery or in the hatchery.
+
+###### Article 48 — Specific animal health requirements for the day-old chicks
+
+Consignments of day-old chicks shall only be permitted to enter into the Union if the animals of the consignment have not been vaccinated against avian influenza.
+
+##### SECTION 5 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR LESS THAN 20 HEADS OF POULTRY
+
+###### Article 49 — Derogation and specific requirements for consignments of less than 20 heads of poultry, other than ratites
+
+By way of derogation from Article 14(3), Article 40 and Articles 43 to 48, consignments containing less than 20 heads of poultry other than ratites, shall be permitted to enter the Union provided that such consignments comply with the following requirements:
+
+(a) the poultry come from establishments where:
+
+(i) no confirmed case of infection with low pathogenic avian influenza viruses has been reported during the period of at least 21 days prior to date of loading of the consignment for dispatch to the Union or the date of collection of the hatching eggs from which the day-old chicks were hatched;
+
+(ii) within a 10 km radius of the establishment, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to date of loading of the consignment for dispatch to the Union;
+
+(b) the poultry or, in the case of day-old chicks, the flock of origin of the day-old chicks, have been isolated on the establishment of origin for a period of at least 21 days prior to the date of loading of the consignment for dispatch to the Union;
+
+(c) as regards vaccination against highly pathogenic avian influenza:
+
+(i) the poultry have not been vaccinated against highly pathogenic avian influenza;
+
+(ii) the flock of origin of the poultry, except day-old chicks, has not been vaccinated against highly pathogenic avian influenza;
+
+(iii) where the parent flocks of the day-old chicks have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII have been provided by the third country or territory of origin;
+
+(d) where the poultry or the parent flock of the day-old chicks have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply either with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+or
+
+— the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for each consignment;
+
+(e) the poultry or, in the case of day-old chicks the flock of origin of the day-old chicks, were found not to be infected or showed any grounds for suspecting any infection by the following agents in tests performed in accordance with the requirements for testing of consignments of less than 20 heads of poultry other than ratites and less than 20 hatching eggs thereof prior to the entry into the union, set out in Annex XVII;
+
+(i) Salmonella Pullorum, Salmonella Gallinarum and Mycoplasma gallisepticum in case of Gallus gallus;
+
+(ii) Salmonella arizonae (serogroup O:18(k)), Salmonella Pullorum, Salmonella Gallinarum, Mycoplasma meleagridis and Mycoplasma gallisepticum in case of Meleagris gallopavo;
+
+(iii) Salmonella Pullorum and Salmonella Gallinarum in case of Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas spp.;
+
+(f) the day-old chicks come from hatching eggs which prior to incubation have been disinfected in accordance with the instructions of the competent authority of the third country or territory of origin.
+
+##### SECTION 6 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR MOVEMENT AND HANDLING OF POULTRY AFTER THE ENTRY INTO THE UNION
+
+###### Article 50 — Obligations on operators at the establishment of destination following the entry into the Union of consignments of poultry
+
+1\. Operators at the establishment of destination shall keep breeding poultry, productive poultry, except productive poultry for restocking supplies of game birds, and day-old chicks which have entered into the Union from a third country or territory or zone thereof on the establishments of destination from their date of arrival for a continuous period of at least:
+
+(a) 6 weeks;
+
+or
+
+(b) until the day of slaughter, when the animals are slaughtered within 6 weeks of the date of arrival.
+
+2\. In the case of poultry other than ratites, the 6-week period provided for in paragraph 1(a), may be reduced to 3 weeks, provided that, at the request of the operator, sampling and testing in accordance with Article 51(b) have been carried out with favourable results.
+
+3\. Operators at the establishment of destination shall ensure that poultry referred to in paragraph 1, undergo a clinical inspection carried out by an official veterinarian on the establishment of destination no later than the date of expiry of the relevant periods provided for in that paragraph.
+
+4\. During the periods provided for in paragraph 1, operators shall keep poultry which have entered into the Union from a third country or territory or zone thereof, separate from other flocks of poultry.
+
+5\. Where poultry referred to in paragraph 1 are placed in the same flock as other poultry present at the establishment of destination, the periods referred to in paragraph 1(a) and (b) shall commence from the date of introduction of the last bird on the establishment of destination and no poultry present shall be moved from the flock before the expiry of those periods.
+
+###### Article 51 — Obligation on the competent authorities as regards sampling and testing of consignments of poultry after entry into the Union
+
+The competent authority of the Member State of destination shall ensure that:
+
+(a) during the periods provided for in Article 50(1), breeding poultry, productive poultry, except productive poultry for restocking supplies of game birds, and day-old chicks which have entered into the Union from a third country or territory or zone thereof, undergo a clinical inspection carried out by an official veterinarian on the establishment of destination no later than the date of expiry of the relevant periods provided for in that Article and, where necessary, sampled for testing to monitor their health status;
+
+(b) in the case of poultry other than ratites and when it is requested by the operator as referred to in Article 50(2), sampling and testing of poultry other than ratites is carried out in accordance with Annex XVIII.
+
+###### Article 52 — Obligation on the competent authorities as regards sampling and testing following the entry into the Union of consignments of ratites originating from a third country or territory or zone thereof not free from infection with Newcastle disease virus
+
+The competent authority of the Member State of destination shall ensure that breeding ratites, productive ratites and day-old chicks of ratites that have entered into the Union from a third country or territory or zone thereof that is not free from infection with Newcastle disease virus, during the periods provided for in Article 50(1):
+
+(a) they are subject to a virus detection test for infection with Newcastle disease virus carried out by the competent authority on a cloacal swab or faeces sample from each ratite;
+
+(b) in the case of consignments of ratites destined for a Member State with status free from infection with Newcastle disease virus without vaccination from a third country or territory or zone thereof not free from infection with Newcastle disease virus, in addition to the requirements referred to in point (a), they are subject to a serological test for infection with Newcastle disease virus carried out by the competent authority on each ratite;
+
+(c) all ratites shall have tested negative to the tests provided for in points (a) and (b) prior to their release from isolation.
+
+#### CHAPTER 2 — Specific animal health requirements for captive birds
+
+##### SECTION 1 — ANIMAL HEALTH REQUIREMENTS FOR CAPTIVE BIRDS
+
+###### Article 53 — Requirements concerning the identification of captive birds
+
+1\. Consignments of captive birds shall only be permitted to enter the Union if the animals in the consignment are identified prior to being dispatched from the establishment of origin, by at least one of the following means of identification establishing an unequivocal link between the animals and the accompanying animal health certificate:
+
+(a) a closed-ring attached at least to one leg of the bird with the visible, legible and indelible display of an identification code made up of the code of the third country or territory where they were initially identified conforming with ISO standard 3166-1, and a unique code in numeric characters;
+
+(b) an injectable transponder with a legible and indelible display of an identification code made up of the code of the third country or territory where they were initially identified conforming with ISO standard 3166-1, and a unique code in numeric characters.
+
+2\. Where captive birds are identified with an injectable transponder as referred to in paragraph 1, point (b), which does not comply with the ISO standards 11784 and 11785, the operator responsible for the entry into the Union of the consignment of captive birds shall provide the reading device which enables at any time the verification of the identification of the captive birds.
+
+3\. By way of derogation from paragraph 1, the competent authority may accept in exceptional circumstances captive birds which do not comply with the provisions of that paragraph as far as the means of identification and the individual identification number are concerned, subject to compliance with the following conditions:
+
+(a) the final destination of the captive bird is a confined establishment;
+
+(b) the captive bird was initially identified under a different internationally recognised standard;
+
+(c) it was not possible to reidentify the captive bird in accordance with the rules provided for in paragraph 1;
+
+(d) there is no doubt about the third country or territory where the captive bird was initially identified;
+
+(e) the means of identification with the individual identification code of the captive bird establishes an unequivocal link between the animal and the accompanying animal health certificate.
+
+###### Article 54 — Specific preventive measures for the containers in which captive birds are transported
+
+Consignments of captive birds shall only be permitted to enter the Union if such consignments have been transported in containers which, in addition to the requirements regarding containers laid down in Article 18, comply with the following requirements:
+
+(a) they are closed in accordance with the instructions of the competent authority of the third country or territory of origin in order to avoid the possibility of any substitution of the contents;
+
+(b) they bear the information for the particular species and category of birds set out in Annex XVI;
+
+(c) they are used for the first time.
+
+###### Article 55 — Requirements concerning the establishment of origin of the consignment of captive birds
+
+Consignments of captive birds shall only be permitted to enter the Union if the animals of the consignment come from an establishment which complies with the following requirements:
+
+(a) it has been approved by the competent authority of the third country or territory of origin as meeting the specific animal requirements laid down in Article 56, and that approval has not been suspended or withdrawn;
+
+(b) it has been assigned a unique approval number by the competent authority of the third country or territory of origin, which has been communicated to the Commission;
+
+(c) the name and approval number of the establishment of origin appears on a list of establishments drawn up and published by the Commission;
+
+(d) within a 10 km radius of the establishment, including, where appropriate, the territory of any neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least the preceding 30 days prior to the date of loading for dispatch to the Union;
+
+(e) in the case of psittacidae, either:
+
+(i) avian chlamydiosis has not been confirmed on the establishment for a period of at least the 60 days prior to the date of loading for dispatch to the Union and in case avian chlamydiosis has been confirmed on the establishment during the last 6 months prior to the date of loading for dispatch to the Union, the following measures have been applied:
+
+— infected birds and birds likely to be infected have received treatment,
+
+— following the completion of the treatment, they have been found negative to laboratory testing for avian chlamydiosis,
+
+— after the completion of the treatment, the establishment has been cleaned and disinfected,
+
+— at least 60 days have elapsed from the completion of the cleaning and disinfection referred to in the third indent;
+
+or
+
+(ii) the animals have been kept under veterinary supervision for the 45 days prior to the date of loading for dispatch to the Union and were treated against avian chlamydiosis.
+
+###### Article 56 — Specific animal health requirements for the approval, maintenance of approval and suspension, withdrawal or re-granting of the approval of the establishments of origin of the consignment of captive birds
+
+1\. Consignments of captive birds shall only be permitted to enter into the Union if the animals of the consignment come from establishments approved by the competent authority of the third country or territory of origin as referred to in Article 55, and that comply with the following requirements set out in Annex XIX:
+
+(a) point 1, in relation to biosecurity measures;
+
+(b) point 2, in relation to facilities and equipment;
+
+(c) point 3, in relation to record keeping;
+
+(d) point 4, in relation to personnel;
+
+(e) point 5, in relation to health status.
+
+2\. Consignments of captive birds shall only be permitted to enter into the Union if the animals of the consignment come from establishments which are under the control of an official veterinarian of the competent authority of the third country or territory, who shall:
+
+(a) ensure that the conditions set out in this Article are met;
+
+(b) visit the premises of the establishment at least once per year;
+
+(c) audit the activity of the veterinarian of the establishment and the implementation of the annual disease surveillance programme;
+
+(d) verify that the results of the clinical, post-mortem and laboratory tests on the animals have revealed no occurrence of highly pathogenic avian influenza, infection with Newcastle disease virus or avian chlamydiosis.
+
+3\. The approval of an establishment of captive birds shall be suspended or withdrawn where that establishment no longer complies with the conditions set out in paragraphs 1 and 2, or there has been a change of use so that it is no longer used exclusively for captive birds.
+
+4\. The approval of an establishment of captive birds shall be suspended when the competent authority of the third country or territory has received notification of the suspicion of highly pathogenic avian influenza, infection with Newcastle disease virus or avian chlamydiosis, and until the suspicion has been officially ruled out. Following the notification of suspicion, the necessary measures to confirm or rule out the suspicion and to avoid any spread of disease shall be taken, in accordance with the requirements of Delegated Regulation (EU) 2020/687.
+
+5\. When the approval of an establishment has been suspended or withdrawn, the establishment shall again be approved provided the following conditions are met:
+
+(a) the disease and the source of infection has been eradicated;
+
+(b) adequate cleaning and disinfection has been carried out on previously infected establishments;
+
+(c) the establishment fulfils the conditions laid down in paragraph 1.
+
+6\. Consignments of captive birds shall only be permitted to enter into the Union when the third country or territory of origin has undertaken to inform the Commission of the suspension, withdrawal or re-granting of approval of any establishment.
+
+###### Article 57 — Specific animal health requirements for the captive birds
+
+Consignments of captive birds shall only be permitted to enter the Union if the animals of the consignment comply with the following requirements:
+
+(a) they have not been vaccinated against highly pathogenic avian influenza;
+
+(b) where they have been vaccinated against infection with Newcastle disease virus, the competent authority of the third country or territory of origin has provided guarantees that the vaccines used comply with the general and specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV;
+
+(c) they have been subjected to a virus detection test for highly pathogenic avian influenza and infection with Newcastle disease virus with negative results, within a period of 7 to 14 days prior to the date of loading for dispatch to the Union.
+
+###### Article 58 — Requirements concerning the entry of consignments of captive birds into Member States with status free from infection with Newcastle disease virus without vaccination
+
+Consignments of captive birds of galliformes species intended for a Member State with status free from infection with Newcastle disease virus without vaccination, shall only be permitted to enter the Union if the animals of the consignment:
+
+(a) have not be vaccinated against infection with Newcastle disease virus;
+
+(b) have been kept in isolation for a period of at least 14 days prior to the date of loading of the consignment for dispatch to the Union in the establishment of origin or quarantine establishment in the third country or territory of origin under the supervision of an official veterinarian, where:
+
+(i) no bird has been vaccinated against infection with Newcastle disease virus during the period of 21 days preceding the date of dispatch of the consignment;
+
+(ii) no bird which was not intended for the consignment has entered into the establishment during that time;
+
+(iii) no vaccination has been carried out on the establishment;
+
+(c) have tested negative, during the period of 14 days prior to the date of loading for dispatch to the Union, to serological tests to detect the presence of antibodies against Newcastle disease virus, performed on blood samples at a level which gives 95 % confidence of detecting infection at 5 % prevalence.
+
+##### SECTION 2 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR MOVEMENT AND HANDLING OF CAPTIVE BIRDS AFTER THEIR ENTRY INTO THE UNION
+
+###### Article 59 — Requirements concerning the movement of captive birds after entry into the Union
+
+Following their entry into the Union, consignments of captive birds shall be transported without delay directly to a quarantine establishment approved in accordance with Article 14 of Delegated Regulation (EU) 2019/2035, as follows:
+
+(a) the total journey from the point of entry into the Union to the quarantine establishment must not exceed 9 hours;
+
+(b) vehicles used for the transport of the consignment to the quarantine establishment must be sealed by the competent authority in such a way that prevents the possibility of any substitution of the contents.
+
+###### Article 60 — Obligation on operators at the quarantine establishment following the entry into the Union of consignments of captive birds
+
+Operators of the quarantine establishment for the captive birds referred to in Article 59 shall:
+
+(a) keep captive birds quarantined for a period of at least 30 days;
+
+(b) where sentinel birds are used for examination, sampling and testing procedures, ensure that:
+
+(i) a minimum number of 10 sentinel birds are used in each unit of the quarantine establishment;
+
+(ii) they are at least 3 weeks old and used only once for those purposes;
+
+(iii) they are either leg-banded for identification purposes or identified with another non-removable means of identification;
+
+(iv) they are unvaccinated and have been found sero-negative for highly pathogenic avian influenza and infection with Newcastle disease virus within a period of 14 days prior to the date of commencement of quarantine;
+
+(v) they are placed in the approved quarantine establishment before the arrival of the captive birds in the common air space and as close as possible to the captive birds so that close contact between the sentinel birds and the excrements of the captive birds in quarantine is ensured;
+
+(c) release the captive birds from quarantine only on the written authorisation of an official veterinarian.
+
+###### Article 61 — Obligation on the competent authorities following the entry into the Union of consignments of captive birds
+
+Following the arrival of the captive birds in the quarantine establishment referred to in Article 59, the competent authority shall:
+
+(a) inspect the conditions of quarantine, including an examination of the mortality records and a clinical inspection of the captive birds, at least at the beginning and the end of quarantine period;
+
+(b) subject the captive birds to testing for highly pathogenic avian influenza and infection with Newcastle disease virus, in accordance with the examination, sampling and testing procedures set out in Annex XX.
+
+##### SECTION 3 — DEROGATIONS FROM THE ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF CAPTIVE BIRDS AND FOR MOVEMENT AND HANDLING OF THOSE BIRDS AFTER THEIR ENTRY INTO THE UNION
+
+###### Article 62 — Derogations from the animal health requirements for the entry into the Union of captive birds
+
+1\. By way of derogation from requirements laid down in Articles 3 to 10, except point (a)(i) of Article 3, Articles 11 to 19 and Articles 53 to 61, consignments of captive birds which do not comply with those requirements shall be permitted to enter the Union if they originate from third countries or territories specifically listed for the entry into the Union of captive birds based on equivalent guarantees.
+
+2\. By way of derogation from the requirements laid down in Article 11 and Articles 54 to 58, consignments of racing pigeons which enter the Union from a third country or territory or zone thereof where they are normally kept, with the intention to be immediately released with the expectation that they will fly back to that third country or territory or zone thereof and which do not comply with those requirements, shall be permitted to enter the Union if they comply with the following requirements:
+
+(a) the Member State of destination has determined that the racing pigeons may enter into its territory from that third country or territory or zone thereof in accordance with Article 230(2) of Regulation (EU) 2016/429;
+
+(b) they come from a registered establishment, within a 10 km radius of which, including, where appropriate, the territory of any neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least the preceding 30 days prior to the date of loading for dispatch to the Union;
+
+(c) they have not been vaccinated against highly pathogenic avian influenza;
+
+(d) they have been vaccinated against infection with Newcastle disease virus and the competent authority of the third country or territory of origin has provided guarantees that the vaccines used comply with the general and specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV;
+
+(e) they come from an establishment where vaccination against infection with Newcastle disease virus is carried out.
+
+3\. By way of derogation from the requirements laid down in Articles 59, 60 and 61, the competent authority of the Member State of entry into the Union may authorise the entry into the Union of racing pigeons which will not be transported directly to a quarantine establishment approved in accordance with Article 14 of Delegated Regulation (EU) 2019/2035 if they are:
+
+(a) racing pigeons which have entered into the Union from a third country or territory or zone thereof where they are normally kept in accordance with paragraph 2;
+
+(b) released immediately, under the control of the competent authority, with the expectation that they will fly back to the third country or territory of origin or zone thereof.
+
+4\. By way of derogation from the requirements laid down in Articles 53 to 61 and 115 and 116, the competent authority of the Member State of entry may authorise the entry into the Union of consignments of captive birds or of their hatching eggs which do not comply with those requirements where:
+
+(a) they are intended for entry into the Union for conservation programmes or purposes accepted by the competent authority of the Member State of destination, and
+
+(b) the competent authority of the Member State of destination granted a specific authorisation for the entry of each consignment and determined the rules applicable for such entry.
+
+### TITLE 4 — ANIMAL HEALTH REQUIREMENTS FOR HONEYBEES AND BUMBLE BEES
+
+#### CHAPTER 1 — General animal health requirements for honeybees and bumble bees
+
+###### Article 63 — Authorised categories of bees
+
+Only consignments of the following categories of bees shall be permitted to enter the Union:
+
+(a) queen honeybees;
+
+(b) bumble bees.
+
+###### Article 64 — Dispatch to the Union of honeybees and bumble bees
+
+Consignments of queen honeybees and bumble bees shall only be permitted to enter the Union if they comply with the following requirements:
+
+(a) the packaging material and queen cages used to dispatch the honeybees and bumble bees into the Union must:
+
+(i) be new;
+
+(ii) not have been in contact with any bees and brood combs;
+
+(iii) have been subject to all precautions to prevent their contamination with pathogens causing diseases of honeybees or bumble bees;
+
+(b) the feedingstuff accompanying the honeybees and bumble bees must be free from pathogens causing their diseases;
+
+(c) the packaging material and accompanying products must have undergone a visual examination prior to dispatch to the Union to ensure that they do not pose an animal health risk and do not contain:
+
+(i) in the case of honeybees, Aethina tumida (Small hive beetle) and Tropilaelaps mite in any of their life stages;
+
+(ii) in the case of bumble bees, Aethina tumida (Small hive beetle), in any of their life stages.
+
+#### CHAPTER 2 — Specific animal health requirements for queen honeybees
+
+###### Article 65 — The apiary of origin of queen honeybees
+
+Consignments of queen honeybees shall only be permitted to enter the Union if the honeybees of the consignment originate from an apiary which is situated in an area:
+
+(a) of at least a 100 km radius, including where appropriate the territory of a neighbouring third country:
+
+(i) where infestation with Aethina tumida (Small hive beetle) or infestation with Tropilaelaps spp. has not been reported;
+
+(ii) there are no restrictions in place due to a suspicion, case or outbreak of the diseases referred to in (i);
+
+(b) of at least 3 km radius, including where appropriate the territory of a neighbouring third country:
+
+(i) American foulbrood has not been reported for a period of at least 30 days prior to the date of loading for dispatch to the Union;
+
+(ii) there are no restrictions in place due to a suspicion or a confirmed case of American foulbrood during the period referred to in point (i);
+
+(iii) where there had been a previous confirmed case of American foulbrood before the period referred to in point (i), all hives were subsequently checked by the competent authority in the third country or territory of origin and all infected hives were treated and subsequently inspected with favourable results within a period of 30 days from the date of last recorded case of that disease.
+
+###### Article 66 — The hive of origin of queen honeybees
+
+Consignments of queen honeybees shall only be permitted to enter the Union if the honeybees of the consignment originate from hives from which samples of the comb have been tested for American foulbrood with negative results within the period of 30 days prior to the date of loading for dispatch to the Union.
+
+###### Article 67 — The consignment of queen honeybees
+
+Consignments of queen honeybees shall only be permitted to enter the Union if such consignments are in closed cages, each containing one single queen honeybee with a maximum of 20 accompanying attendants.
+
+###### Article 68 — Additional guarantees for queen honeybees destined to certain Member States or zone as regards the infestation with Varroa spp. (Varroosis)
+
+Consignments of queen honeybees destined to a Member State or zone with disease-free status for infestation with Varroa spp. (Varroosis) shall only be permitted to enter the Union if such consignments comply with the following requirements:
+
+(a) the honeybees of the consignment must originate from a third country or territory or zone thereof free from infestation with infestation with Varroa spp. (Varroosis);
+
+(b) in the third country or territory of origin or zone thereof, infestation with Varroa spp. (Varroosis) has not been reported for a period of 30 days prior to the date of loading for dispatch to the Union;
+
+(c) every precaution has been taken to avoid contamination of the consignment with Varroa spp. during loading and dispatch to the Union.
+
+#### CHAPTER 3 — Specific animal health requirements for bumble bees
+
+###### Article 69 — The establishment of origin of bumble bees
+
+Consignments of bumble bees shall only be permitted to enter the Union if the bumble bees of the consignment:
+
+(a) have been bred and kept in an environmentally isolated bumble bee production establishment which:
+
+(i) has facilities which ensure that the production of bumble bees is carried out inside of a flying insect-proof building;
+
+(ii) has facilities and equipment which ensure that the bumble bees are further isolated in separate epidemiological units and each colony in closed containers within the building throughout the whole production;
+
+(iii) the storage and handling of pollen within the facilities is isolated from the bumble bees throughout the whole production of bumble bees until it is fed to them;
+
+(iv) has standard operating procedures to prevent the entry of small hive beetle into the establishment and to regularly survey for the presence of small hive beetle within the establishment;
+
+(b) within the establishment referred to in point (a), the bumble bees must come from an epidemiological unit in which infestation with Aethina tumida (Small hive beetle) has not been detected.
+
+###### Article 70 — The consignment of bumble bees
+
+Consignments of bumble bees shall only be permitted to enter the Union if such consignments have been dispatched to the Union in closed containers, each containing a colony of a maximum of 200 adult bumble bees, with or without a queen.
+
+#### CHAPTER 4 — Specific animal health requirements for handling after the entry of queen honeybees and bumble bees
+
+###### Article 71 — Handling after the entry of queen honeybees and bumble bees
+
+1\. Following their entry into the Union, queen honeybees must not be introduced in local colonies unless they are transferred from the transport cage to new cages in accordance with paragraph 2 with the permission and, as appropriate, under the direct supervision of the competent authority.
+
+2\. Following the transfer in new cages as referred to in paragraph 1, the transport cages, attendants, and other material that accompanied the queen honeybees from the third country of origin must be submitted to an official laboratory for examination to rule out the presence of Aethina Tumida (Small hive beetle), including eggs and larvae, and any signs of the Tropilaelaps mite.
+
+3\. Operators receiving bumble bees shall destroy the container and the packaging material that accompanied them from the third country or territory of origin but they may keep them in the container in which they entered into the Union until the end of the lifespan of the colony.
+
+###### Article 72 — Specific obligations for the competent authorities in the Member States
+
+The competent authority of the Member State of the place of destination of consignments of honeybees or bumble bees shall:
+
+(a) supervise the transfer from the transport cage to the new cages referred to in Article 71(1);
+
+(b) ensure the submission by the operator of the materials referred to in Article 71(2);
+
+(c) ensure that the official laboratory referred to in Article 71(2) have arrangements in place to destroy the cages, attendants and the material after the laboratory examination provided for in that provision.
+
+### TITLE 5 — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF DOGS, CATS AND FERRETS
+
+###### Article 73 — Dispatch of the dogs, cats and ferrets to the Union
+
+1\. Consignments of dogs, cats and ferrets shall only be permitted to enter the Union if such consignments have been dispatched from their establishment of origin to the Union, without passing through any other establishment.
+
+2\. By way of derogation from paragraph 1, consignments of dogs, cats and ferrets coming from more than one establishment of origin may be permitted to enter the Union if the animals of the consignment have undergone a single assembly operation in the third country or territory of origin or zone thereof subject to compliance with the following conditions:
+
+(a) the assembly operation took place in an establishment:
+
+(i) approved for conducting assembly operations of dogs, cats and ferrets by the competent authority in the third country or territory in accordance with requirements at least as stringent as those laid down in Article 10 of Delegated Regulation (EU) 2019/2035;
+
+(ii) which has a unique approval number assigned by the competent authority of the third country or territory;
+
+(iii) listed for that purpose by the competent authority of the third country or territory of dispatch, including the information provided for in Article 21 of Delegated Regulation (EU) 2019/2035;
+
+(iv) where the following records are kept up-to-date for a period of at least 3 years:
+
+— the origin of the animals,
+
+— the dates of arrival and dispatch to and from the assembly centre,
+
+— the identification code of the animals,
+
+— the registration number of the establishment of origin of the animals,
+
+— the registration number of the transporters and the means of transport delivering or collecting the consignment of dogs, cats and ferrets to and from that centre;
+
+(b) the assembly operation in the assembly centre took no longer than 6 days; this period shall be considered as part of the timeframe for sampling for testing prior to dispatch to the Union, where such sampling is required by this Regulation;
+
+(c) the animals must have arrived in the Union within a period of 10 days from the date of dispatch from the establishment of origin.
+
+3\. Consignments of dogs, cats and ferrets sourced from an animal shelter shall only be permitted to enter the Union if such consignment have been dispatched from an animal shelter:
+
+(a) approved by the competent authority of the third country or territory in accordance with requirements at least as stringent as those laid down in Article 11 of Delegated Regulation (EU) 2019/2035;
+
+(b) which has a unique approval number assigned by the competent authority of the third country or territory;
+
+(c) listed for that purpose by the competent authority of the third country or territory of dispatch, including the information provided for in Article 21 of Delegated Regulation (EU) 2019/2035.
+
+###### Article 74 — Identification of dogs, cats and ferrets
+
+1\. Consignments of dogs, cats and ferrets shall only be permitted to enter the Union if each animal in the consignment is individually identified by an implanted injectable transponder implanted by a veterinarian as referred to in Article 70, point (b)(i), of Delegated Regulation (EU) 2019/2035 and which complies with the requirements laid down in Article 70, point (a), and Article 70a, points (a) and (b), of that Delegated Regulation.
+
+2\. Where the implanted injectable transponder referred to in paragraph 1 does not fulfil the technical specifications referred to in that paragraph, the operator responsible for entry into the Union of the consignment shall provide the reading device which enables the verification of the individual identification of the animal at any time.
+
+###### Article 75 — The third country or territory of origin or zone thereof of dogs, cats and ferrets
+
+Consignments of dogs, cats and ferrets shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof where rules on the prevention and control of infection with rabies virus are in force and implemented effectively to minimise the risk of infection of dogs, cats and ferrets, including rules on imports of those species from other third countries or territories.
+
+###### Article 76 — The dogs, cats and ferrets
+
+1\. Consignments of dogs, cats and ferrets shall only be permitted to enter the Union if the animals of the consignment comply with the following requirements:
+
+(a) they have received a vaccination against infection with rabies virus administered by an official veterinarian or an authorised veterinarian as defined in Article 2(1) of Commission Delegated Regulation (EU) 2026/131 ( 8 ) and that vaccination complies with the following conditions:
+
+(i) the animals must be at least 12 weeks old at the time of the primary vaccination;
+
+(ii) the vaccine must comply with the requirements set out in Part 1(1) of Annex VII to Delegated Regulation (EU) 2020/688;
+
+(iii) at the day of dispatch to the Union, at least 21 days must have elapsed since the completion of the primary vaccination against infection with rabies virus;
+
+(iv) any subsequent vaccination against infection with rabies virus must have been carried out within the period of validity of the preceding vaccination and must be considered a primary vaccination if it was not carried out within that period of validity;
+
+(v) the dates of administration of the vaccine and the periods of validity of the relevant vaccinations are indicated in the animal health certificate referred to in Article 3, point (c)(i), and the date of administration of the vaccine does not precede the date of identification of the animals. A certified copy of the vaccination details must be attached to that certificate.
+
+(b) they have undergone a valid rabies antibody titration test that complies with the following conditions:
+
+(i) the test must be carried out in accordance with point 1 of Annex XXI;
+
+(ii) the date of the blood sample is indicated in the animal health certificate referred to in Article 3, point (c)(i), and an official report of the designated laboratory certifying the test results must be attached to that certificate.
+
+2\. By way of derogation from paragraph 1, point (b), dogs, cats and ferrets originating in, or originating in and transiting through third countries or territories or zones thereof included in the list set out in the table in Part 1 of Annex VIII to Commission Implementing Regulation (EU) 2021/404 ( 9 ), and for which no specific conditions referred to in column 5 of that table are required, shall be permitted to enter the Union without being subjected to the rabies titration test.
+
+3\. Consignments of dogs shall only be permitted to enter into a Member State or zone thereof with disease-free status from Echinococcus multilocularis, if the animals of the consignment comply with the following requirements:
+
+(a) they have been treated by a veterinarian against that infestation in accordance with point 2 of Annex XXI within the required period set out in that point;
+
+(b) the following details of the treatment must be certified by the administering veterinarian in the animal health certificate referred to in Article 3, point (c)(i), accompanying the animals to the Union:
+
+(i) the transponder alphanumeric code of the dog;
+
+(ii) the name of the product against infestation with Echinococcus multilocularis;
+
+(iii) the name of the manufacturer of the product;
+
+(iv) the date and time of treatment;
+
+(v) the name, stamp and signature of the administering veterinarian.
+
+###### Article 77 — Derogation for dogs, cats and ferrets intended for a confined or a quarantine establishment
+
+By way of derogation from Article 76, consignments of dogs, cats and ferrets which do not comply with the requirements regarding vaccination against rabies and requirements regarding infestation with Echinococcus multilocularis shall be permitted to enter the Union provided that such consignments are intended for direct entry either to:
+
+(a) a confined establishment;
+
+or
+
+(b) an approved quarantine establishment in the Member State of destination.
+
+###### Article 78 — Moving and handling after the entry into the Union of dogs, cats and ferrets intended for a confined or a quarantine establishment
+
+1\. Consignments of dogs, cats and ferrets intended to a confined establishment in the Union shall be maintained in the confined establishment of destination for a period of at least 60 days after the date of their entry into the Union.
+
+2\. Consignments of dogs, cats and ferrets intended for direct entry to an approved quarantine establishment as referred to in Article 77(b) shall be maintained in that establishment for a period of:
+
+(a) not less than 6 months from the date of their arrival in the case of non-compliance with the requirements for vaccination against infection with rabies virus provided for in Article 76(1);
+
+or
+
+(b) in the case of dogs not complying with the requirements for infestation with Echinococcus multilocularis provided for in Article 76(3), 24 hours following a treatment against infestation with Echinococcus multilocularis in accordance with point 2 of Annex XXI.
+
+## PART III — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF GERMINAL PRODUCTS AS REFERRED TO IN ARTICLES 3 AND 5
+
+### TITLE 1 — ANIMAL HEALTH REQUIREMENTS FOR GERMINAL PRODUCTS OF UNGULATES
+
+#### CHAPTER 1 — General animal health requirements for germinal products of ungulates
+
+###### Article 79 — The third country or territory of origin or zone thereof
+
+1\. Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if they were collected or produced from animals in third countries or territories, or zones thereof, which comply with the animal health requirements laid down in Article 22.
+
+2\. By way of derogation from paragraph 1 of this Article, in connection with the animal health requirement laid down in Article 22(4), point (a), consignments of semen, oocytes and embryos of bovine, porcine, ovine, and caprine animals may be permitted to enter the Union if they were collected or produced in third countries or territories where vaccination against foot and mouth disease has been carried out, provided that they were collected from animals in accordance with the animal health requirements laid down in Annex II, Part 5, Chapter I, point 3 or 4, to Delegated Regulation (EU) 2020/686.
+
+###### Article 80 — The residency period of donor animals
+
+Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if they were collected from animals which:
+
+(a) prior to the date of collection, remained in a third country or territory or zone thereof which is listed for the entry into the Union of the particular species and category of germinal product:
+
+(i) in the case of bovine, ovine and caprine animals, for a period of at least 6 months;
+
+(ii) in the case of porcine and equine animals, for a period of at least 3 months;
+
+(b) for a period of at least 30 days prior to the date of first collection of the germinal products and during the collection period:
+
+(i) were kept on establishments not situated in a restricted zone established due to the occurrence in bovine, porcine, ovine, caprine and equine animals of a category A disease or of an emerging disease relevant for the bovine, porcine, ovine, caprine or equine animals;
+
+(ii) were kept on a single establishment on which no category D diseases relevant for the bovine, porcine, ovine, caprine or equine animals were reported;
+
+(iii) were not in contact with animals from establishments, situated in a restricted zone referred to in (i) or from establishments referred to in (ii);
+
+(iv) were not used for natural breeding.
+
+###### Article 81 — Identification of donor animals
+
+Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if they were collected from animals which were identified in accordance with Article 21.
+
+###### Article 82 — The germinal product establishments
+
+1\. Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if they were dispatched from approved germinal product establishments which are listed by competent authorities of listed third countries or territories or zones thereof.
+
+2\. Consignments of germinal products shall only be permitted to enter the Union from approved germinal product establishments referred to in paragraph 1 that comply with the following requirements set out in Annex I to Delegated Regulation (EU) 2020/686:
+
+(a) Part 1 of that Annex, in respect of a semen collection centre;
+
+(b) Part 2 of that Annex, in respect of an embryo collection team;
+
+(c) Part 3 of that Annex, in respect of an embryo production team;
+
+(d) Part 4 of that Annex, in respect of a germinal product processing establishment;
+
+(e) Part 5 of that Annex, in respect of a germinal product storage centre.
+
+###### Article 83 — The germinal products
+
+Consignments of semen, oocytes and embryos of animals of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if those germinal products comply with the following requirements:
+
+(a) they are marked in such a way that the following information can be readily established:
+
+(i) the date of collection or production of those germinal products;
+
+(ii) the species and identification of the donor animal(s);
+
+(iii) the unique approval number of the germinal product establishment of collection or production, processing and storage of those germinal products;
+
+(iv) any other relevant information;
+
+(b) they fulfil animal health requirements for the collection, production, processing and storage set out in Annex III to Delegated Regulation (EU) 2020/686.
+
+###### Article 84 — The transport of germinal products
+
+1\. Consignments of semen, oocytes and embryos of animals of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if:
+
+(a) they were placed in a container which complies with the following requirements:
+
+(i) it was sealed and numbered prior to the dispatch from the approved germinal product establishment under the responsibility of a centre or a team veterinarian, or by an official veterinarian;
+
+(ii) it was cleaned and either disinfected or sterilised before use, or is single-use container;
+
+(iii) it was filled in with the cryogenic agent which was not previously used for other products;
+
+(b) only one type of germinal products of one species was placed in the container referred to in point (a).
+
+2\. By the way of derogation from paragraph 1(b), operators may place in one container semen, oocytes and embryos of the same species provided that:
+
+(a) straws or other packages in which germinal products are placed are securely and hermetically sealed;
+
+(b) the germinal products of different types are separated from each other by physical compartments or by being placed in secondary protective bags.
+
+3\. By way of derogation from paragraph 1(b), operators may place in one container semen, oocytes and embryos of ovine and caprine animals.
+
+###### Article 85 — Additional requirements for the transport of semen
+
+Consignments of semen bovine, porcine, ovine and caprine animals which has been collected from more than one donor animal and placed in a single straw or another package for the purposes of entry into the Union shall only be permitted to enter the Union if:
+
+(a) that semen was collected and dispatched from a single semen collection centre where it was collected;
+
+(b) there were procedures in place as regards processing of that semen in order to ensure that it complies with the marking requirements of point (a) of Article 83.
+
+###### Article 85a — Inspection of consignments of germinal products prior to dispatch to the Union
+
+Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals shall only be permitted to enter the Union if those consignments were subjected to a visual examination and documentary check, carried out by an official veterinarian in the third country or territory of origin or zone thereof within the period of 72 hours prior to the time of dispatch to the Union as follows:
+
+(a) a visual examination of the transport container in order to verify compliance with the requirements laid down in Article 84;
+
+(b) a documentary check of the data submitted by the centre or team veterinarian to ensure that:
+
+(i) the information to be certified is supported by the records kept in accordance with:
+
+— Article 8(1)(a) of Delegated Regulation (EU) 2020/686, and
+
+— point (d) of Article 8 of this Regulation;
+
+(ii) the mark on the straws or other packages, applied in accordance with point (a) of Article 83, corresponds with the number provided in the animal health certificate and on the container in which they are transported;
+
+(iii) the animal health requirements referred to in Part III, Title 1, have been fulfilled.
+
+#### CHAPTER 2 — Specific animal health requirements for germinal products of bovine animals
+
+###### Article 86 — The establishment of origin of donor bovine animals
+
+Consignments of semen, oocytes and embryos of bovine animals shall only be permitted to enter the Union if they were collected from animals which came from establishments that comply with the following requirements and those animals have never been kept previously in any establishment of a lower health status:
+
+(a) comply with the requirements of Article 23;
+
+(b) in the case of donor animals of semen prior to their admission to a quarantine accommodation, were free from the following diseases:
+
+(i) infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis);
+
+(ii) infection with Brucella abortus, B. melitensis and B. suis;
+
+(iii) enzootic bovine leukosis;
+
+(iv) infectious bovine rhinotracheitis/infectious pustular vulvovaginitis.
+
+###### Article 87 — Derogations from the requirements for the establishment of origin of donor bovine animals
+
+1\. By the way of derogation from Article 86(b)(iii), consignments of semen of bovine animals shall be permitted to enter the Union if a donor animal comes from an establishment which is not free from enzootic bovine leukosis and:
+
+(a) is younger than 2 years of age and which has been produced by a dam which has been subjected, with negative results, to a serological test for enzootic bovine leukosis after removal of the animal from the dam;
+
+or
+
+(b) has reached the age of 2 years and has been subjected, with a negative result, to a serological test for enzootic bovine leukosis.
+
+2\. By way of derogation from point (b)(iii) of Article 86, consignments of oocytes and embryos of bovine animals shall be permitted to enter the Union if a donor animal comes from an establishment which is not free from enzootic bovine leukosis provided that the official veterinarian responsible for the establishment of origin has certified that there has been no clinical case of enzootic bovine leukosis in that establishment during a period of at least the preceding 3 years.
+
+3\. By the way of derogation from Article 86(b)(iv), consignments of semen, oocytes and embryos of bovine animals shall be permitted to enter the Union if a donor animal comes from an establishment which is not free from infectious bovine rhinotracheitis/infectious pustular vulvovaginitis, provided that:
+
+(a) in the case of semen, the animal has been subjected, with a negative result, to a test required in accordance with point 1(b)(iv) of Chapter I of Part 1 of Annex II to Delegated Regulation (EU) 2020/686;
+
+(b) in the case of oocytes or embryos, the official veterinarian responsible for the establishment of origin has certified that there has been no clinical case of infectious bovine rhinotracheitis/infectious pustular vulvovaginitis during a period of at least the preceding 12 months.
+
+###### Article 88 — Specific animal health requirements for donor bovine animals
+
+Consignments of semen, oocytes or embryos shall only be permitted to enter the Union if they were collected from donor bovine animals that comply with the animal health requirements laid down in Part 1 and Chapters I, II and III of Part 5 of Annex II to Delegated Regulation (EU) 2020/686.
+
+#### CHAPTER 3 — Specific animal health requirements for germinal products of porcine animals
+
+###### Article 89 — The establishment of origin of donor porcine animals
+
+1\. Consignments of semen, oocytes and embryos of porcine animals shall only be permitted to enter the Union if they were collected from animals which came from establishments:
+
+(a) which comply with the requirements laid down in Article 23;
+
+(b) in the case of donor animals of semen prior their admission to a quarantine accommodation, in which no clinical, serological, virological or pathological evidence of infection with Aujeszky’s disease virus had been detected during the period of at least the preceding 12 months.
+
+2\. Consignments of semen of porcine animals shall only be permitted to enter the Union if they were collected from animals:
+
+(a) prior to their admission to a quarantine accommodation, which came from establishments which were free from infection with Brucella abortus, B. melitensis and B. suis in accordance with requirements laid down in Chapter IV of Part 5 of Annex II to Delegated Regulation (EU) 2020/686;
+
+(b) which were kept at a quarantine accommodation which on the date of admission was free of infection with Brucella abortus, B. melitensis and B. suis for a period of at least the 3 months preceding that date;
+
+(c) which were kept in a semen collection centre in which no clinical, serological, virological or pathological evidence of infection with Aujeszky’s disease virus was reported for the period of at least 30 days prior to the date of admission and of at least 30 days immediately prior to the date of collection;
+
+(d) which were kept, since birth or for at least 3 months prior to the date of entry into the quarantine accommodation, in an establishment in which no animals were vaccinated against infection with porcine reproductive and respiratory syndrome virus and no infection with porcine reproductive and respiratory syndrome virus was detected within that period.
+
+###### Article 90 — Specific animal health requirements for donor porcine animals
+
+Consignments of semen, oocytes or embryos shall only be permitted to enter the Union if they were collected from donor porcine animals that:
+
+(a) comply with the specific animal health requirements laid down in Part 2 and Chapters I, II, III and IV of Part 5 of Annex II to Delegated Regulation (EU) 2020/686;
+
+(b) were not vaccinated against infection with porcine reproductive and respiratory syndrome virus.
+
+#### CHAPTER 4 — Specific animal health requirements for germinal products of ovine and caprine animals
+
+###### Article 91 — The establishment of origin of donor ovine and caprine animals
+
+Consignments of semen, oocytes and embryos of ovine and caprine animals shall only be permitted to enter the Union if they were collected from donor animals which come from an establishment that was free from infection with Brucella abortus, B. melitensis and B. suis and they were never previously in any establishment of a lower status.
+
+###### Article 92 — Specific animal health requirements for donor ovine and caprine animals
+
+Consignments of semen, oocytes or embryos of ovine and caprine animal shall only be permitted to enter the Union if they were collected from donor animals that fulfil specific animal health requirements laid down in Part 3 and Chapters I, II and III of Part 5 of Annex II to Delegated Regulation (EU) 2020/686.
+
+#### CHAPTER 5 — Specific animal health requirements for germinal products of equine animals
+
+###### Article 93 — The establishment of origin of donor equine animals
+
+Consignments of semen, oocytes and embryos of equine animals shall only be permitted to enter the Union if they were collected from donor animals which come from establishments which comply with the requirements laid down in Article 23.
+
+###### Article 94 — Specific animal health requirements for donor equine animals
+
+Consignments of semen, oocytes or embryos of equine animals shall only be permitted to enter the Union if the donor animals of those germinal products comply with the requirements laid down Article 24(1)(a)(ii) and (b)(ii) and Article 24(6) of this Regulation, and the additional specific animal health requirements laid down in Part 4 of Annex II to Delegated Regulation (EU) 2020/686.
+
+#### CHAPTER 6 — Special rules for germinal products of ungulates intended for confined establishments
+
+###### Article 95 — Germinal products intended for confined establishments in the Union
+
+Consignments of semen, oocytes and embryos of bovine, porcine, ovine, caprine and equine animals dispatched from confined establishments in third countries or territories listed in accordance with Article 29 shall only be permitted to enter the Union if they are dispatched to a confined establishment in the Union subject to compliance with the following requirements:
+
+(a) an assessment was carried out by the competent authority of the Member State of destination of the risks associated with the entry into the Union of those germinal products;
+
+(b) the donor animals of those germinal products originate from a confined establishment in the third country or territory of origin or zone thereof, which is included in a list established in accordance with Article 29 of confined establishments from which the entry of ungulates into the Union may be authorised;
+
+(c) the germinal products are destined to a confined establishment in the Union, which is approved in accordance with Article 95 of Regulation (EU) 2016/429;
+
+(d) the germinal products are transported directly to the confined establishment referred to in point (c).
+
+###### Article 96 — Specific animal health requirements for donor animals kept in confined establishment
+
+Consignments of the germinal products referred to in Article 95 shall be only permitted to enter the Union if they were collected from donor animals that comply with the following requirements:
+
+(a) the donor animals did not come from an establishment, nor been in contact with animals from an establishment, situated in a restricted zone established due to the occurrence of a category A disease or of an emerging disease relevant for the bovine, porcine, ovine, caprine or equine animals;
+
+(b) the donor animals come from an establishment where none of the category D diseases relevant for bovine, porcine, ovine, caprine or equine animals have been reported for a period of at least 30 days prior to the date of collection of the semen, oocytes or embryos;
+
+(c) the donor animals remained in a single confined establishment of origin for a period of at least 30 days prior to the date of collection of semen, oocytes or embryos intended for entry into the Union and during the period of that collection;
+
+(d) the donor animals were clinically examined by the establishment veterinarian responsible for the activities carried out at confined establishment, and showed no disease symptoms on the day the semen, oocytes or embryos were collected;
+
+(e) as much as possible, the donor animals were not used for natural breeding during a period of at least 30 days prior to the date of first collection of semen, oocytes or embryos intended for entry into the Union and during the period of that collection;
+
+(f) the donor animals are identified in accordance with Article 21.
+
+###### Article 97 — The requirements for germinal products obtained in confined establishments
+
+Consignments of germinal products referred to in Article 95 shall only be permitted to enter the Union if they are:
+
+(a) marked in accordance with the information requirements provided for in point (a) of Article 83;
+
+(b) transported in accordance with Articles 84 and 85.
+
+### TITLE 2 — ANIMAL HEALTH REQUIREMENTS FOR HATCHING EGGS OF POULTRY AND CAPTIVE BIRDS
+
+#### CHAPTER 1 — Animal health requirements for hatching eggs
+
+###### Article 98 — The residency period
+
+Consignments of hatching eggs shall only be permitted to enter the Union if, immediately prior to the date of loading of the hatching eggs for dispatch to the Union the flock of origin of the hatching eggs has complied, for a continuous period of time, with the residency periods requirements set out in Annex XXII, and during that time the flock of origin has:
+
+(a) remained in the third country or territory of origin or zone thereof;
+
+(b) remained in the establishment of origin, and no animals have been introduced into that establishment during that period of time prior to loading;
+
+(c) had no contact with poultry or hatching eggs of a lower health status, or with captive birds or wild birds.
+
+###### Article 99 — Handling of hatching eggs during transport to the Union
+
+Consignments of hatching eggs shall only be permitted to enter the Union if the germinal products of the consignment comply with the following requirements:
+
+(a) the hatching eggs intended for entry into the Union must not have come into contact with poultry, captive birds or hatching eggs not intended for entry into the Union or of a lower health status from the time of loading at the establishment of origin for dispatch to the Union until the time of arrival in the Union;
+
+(b) the hatching eggs must not have been transported, unloaded in, or moved to another means of transport when transported by road, by sea or by air through a third country or territory or zone thereof which is not listed for entry of the particular species and category of hatching eggs into the Union.
+
+###### Article 100 — Derogation and additional requirements for transhipment of hatching eggs in case of an incident in the means of transport by waterway or by air
+
+By way of derogation from point (b) of Article 99, consignments of hatching eggs which have been transhipped from the means of transport of dispatch into another means of transport for onward travel in a third country or territory or zone thereof which is not listed for entry of hatching eggs into the Union, shall only be permitted to enter the Union if the transhipment took place because of the occurrence of a technical problem or another unforeseen incident causing logistic problems during the transport of the hatching eggs to the Union by sea or by air, in order to complete the transport to the point of entry into Union, and provided that:
+
+(a) the entry into the Union of the hatching eggs is authorised by the competent authority of the Member State of destination and, where applicable, the Member States of passage until their arrival at their place of destination in the Union;
+
+(b) the transhipment was supervised by an official veterinarian or the responsible customs officer and throughout the operation:
+
+(i) effective measures were put in place to avoid any direct or indirect contact between the hatching eggs intended for entry into the Union and any other hatching eggs or animals;
+
+(ii) the hatching eggs were transferred directly and as soon as possible to the vessel or aircraft to be used for onward travel to the Union, which complies with requirements laid down in point (a) of Article 102, without leaving the premises of the port or airport;
+
+(c) the hatching eggs are accompanied by a declaration from the competent authority of the third country or territory where the transfer took place, providing the necessary information on the transfer operation and attesting that the relevant measures were put in place to comply with the requirements laid down in point (b).
+
+###### Article 101 — Transport by vessel of hatching eggs
+
+1\. Consignments of hatching eggs transported by ship, even for part of the journey, shall only be permitted to enter the Union if the germinal products of the consignment comply with the following requirements:
+
+(a) hatching eggs:
+
+(i) have remained on board the vessel during the whole transport;
+
+(ii) have not been in contact with birds or other hatching eggs of a lower health status while on board the vessel;
+
+(b) hatching eggs transported in accordance with point (a) must be accompanied by a declaration, providing the following information:
+
+(i) the port of departure in the third country or territory of origin or zone thereof;
+
+(ii) the port of arrival in the Union;
+
+(iii) where the vessel called at ports outside the third country or territory of origin or zone thereof of the consignment, indicating the ports of call;
+
+(iv) that the hatching eggs complied during the transport with the requirements set out in point (a) and (i), (ii) and (iii) of this point.
+
+2\. The operator responsible for the consignment of hatching eggs shall ensure that the declaration provided for in paragraph 1, is attached to the animal health certificate and signed by the master of the vessel at the port of arrival on the day of arrival of the vessel.
+
+###### Article 102 — Preventive measures for the means of transport and the containers of hatching eggs
+
+Consignments of hatching eggs shall only be permitted to enter the Union if the germinal products of the consignment comply with the following requirements:
+
+(a) the hatching eggs must have been transported in means of transport which:
+
+(i) are constructed in such a way that hatching eggs cannot fall out;
+
+(ii) have been designed to allow cleaning and disinfection;
+
+(iii) have been cleaned and disinfected with a disinfectant authorised by the competent authority of the third country or territory of origin, and dried or allowed to dry immediately before every loading of hatching eggs intented for entry into the Union;
+
+(b) the hatching eggs must have been transported in containers which comply with the following requirements:
+
+(i) the requirements of point (a);
+
+(ii) they contain only hatching eggs of the same species, category and type which come from the same establishment;
+
+(iii) they were closed in accordance with the instructions of the competent authority of the third country or territory of origin to avoid any possibility of substitution of the content;
+
+(iv) they were:
+
+— cleaned and disinfected before loading in accordance with the instructions of the competent authority of the third country or territory of origin,
+
+or
+
+— they are disposable, clean and used for the first time;
+
+(v) they bear the information for the particular species and category of hatching eggs set out in Annex XVI.
+
+###### Article 103 — Movement and handling of hatching eggs after the entry
+
+Following their entry into the Union, operators, including transporters, shall ensure that consignments of hatching eggs are:
+
+(a) transported directly from the point of entry to their place of destination in the Union;
+
+(b) comply with the requirements for movement within the Union and handling following their entry into the Union as laid down for the particular species and category of hatching eggs in Chapters 5 and 7 of this Title.
+
+#### CHAPTER 2 — Specific animal health requirements for hatching eggs of poultry
+
+###### Article 104 — Hatching eggs originating from poultry imported into the third country or territory of origin or zone thereof
+
+Consignments of hatching eggs of poultry, which originate from flocks which were imported into the third country, or territory of origin or zone thereof from another third country or territory or zone thereof, shall only be permitted to enter the Union if the competent authority of the third country or territory of origin of the hatching eggs has provided guarantees that:
+
+(a) the flocks of origin of the hatching eggs were imported from a third country or territory or zone thereof, which is listed for entry into Union of such flocks;
+
+(b) the import of the flocks of origin of the hatching eggs into that third country or territory or zone thereof took place in accordance with animal health requirements that are at least as stringent as if they were directly entered into the Union.
+
+###### Article 105 — The third country or territory of origin or zone thereof of the hatching eggs
+
+Consignments of hatching eggs of poultry shall only be permitted to enter the Union if they originate from a third country or territory or zone thereof which complies with the following requirements:
+
+(a) it has a disease surveillance programme for highly pathogenic avian influenza in place for a period of at least 6 months prior to the date of dispatch of the consignment to the Union and that surveillance programme complies with the requirements laid down in either:
+
+(i) Annex II to this Regulation;
+
+or
+
+(ii) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE);
+
+(b) which is considered to be free from highly pathogenic avian influenza in accordance with Article 38;
+
+(c) if it carries out vaccination against highly pathogenic avian influenza, the competent authority of the third country or territory of origin has provided guarantees that:
+
+(i) the vaccination programme complies with the requirements set out in Annex XIII;
+
+(ii) the surveillance programme referred to in point (a) of this Article, in addition to the requirements set out in Annex II, complies with the requirements set out in point 2 of Annex XIII;
+
+(iii) it has undertaken to inform the Commission of any change to the vaccination programme in the third country or territory or zone thereof;
+
+(d) which:
+
+(i) in the case of hatching eggs of poultry other than ratites, is considered to be free from infection with Newcastle disease virus in accordance with Article 39;
+
+(ii) in the case of hatching eggs of ratites:
+
+— it is considered to be free from infection with Newcastle disease virus in accordance with Article 39,
+
+or
+
+— it is not considered to be free from infection with Newcastle disease virus in accordance with Article 39, but the competent authority of the third country or territory of origin has provided guarantees regarding compliance with the requirements for infection with Newcastle disease virus in relation to isolation, surveillance and testing, as set out in Annex XIV;
+
+(e) if vaccination against infection with Newcastle disease virus is carried out, the competent authority of the third country or territory has provided guarantees that:
+
+(i) the vaccines used comply with the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV;
+
+or
+
+(ii) the vaccines used comply with the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(f) it has undertaken that following any outbreak of highly pathogenic avian influenza or an outbreak of infection with Newcastle disease virus, to submit the following information to the Commission:
+
+(i) information on the disease situation within 24 hours of confirmation of any initial outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus;
+
+(ii) regular updates of the disease situation;
+
+(g) which has undertaken to submit virus isolates from initial outbreaks of highly pathogenic avian influenza or infection with Newcastle disease virus to the European Union Reference Laboratory for Avian Influenza and Newcastle disease.
+
+###### Article 106 — The establishment of origin of the hatching eggs
+
+Consignments of hatching eggs of poultry shall only be permitted to enter the Union if they originate from:
+
+(a) hatcheries approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least as stringent as those laid down in Article 7 of Delegated Regulation (EU) 2019/2035; and
+
+(i) the approval of which has not been suspended or withdrawn;
+
+(ii) within a 10 km radius of those hatcheries, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to the time of loading of the hatching eggs for dispatch to the Union;
+
+(iii) which have been assigned a unique approval number by the competent authority of the third country or territory of origin;
+
+(b) flocks which have been kept in establishments approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least equivalent to those laid down in Article 8 of Delegated Regulation (EU) 2019/2035 and
+
+(i) the approval of which has not been suspended or withdrawn;
+
+(ii) within a 10 km radius of those establishments, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to the date of collection of the hatching eggs for dispatch to the Union;
+
+(iii) no confirmed case of infection with low pathogenic avian influenza viruses has been reported in those establishments within a period of at least 21 days prior to the date of collection of the eggs for dispatch to the Union.
+
+###### Article 107 — The flock of origin of the hatching eggs
+
+Consignments of hatching eggs of poultry shall only be permitted to enter the Union if they originate from flocks which comply with the following requirements:
+
+(a) where they have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+
+(b) where they have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV, or
+
+— the general criteria for recognised vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry and hatching eggs from which the day-old chicks originated meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for each consignment;
+
+(c) they have undergone a disease surveillance programme that meets the requirement set out Annex II of Delegated Regulation (EU) 2019/2035 and were found not to be infected or showed any grounds for suspecting any infection by the following agents:
+
+(i) Salmonella Pullorum, Salmonella Gallinarum and Mycoplasma gallisepticum in case of Gallus gallus;
+
+(ii) Salmonella arizonae (serogroup O:18(k)), Salmonella Pullorum, Salmonella Gallinarum, Mycoplasma meleagridis and Mycoplamsa gallisepticum in case of Meleagris gallopavo;
+
+(iii) Salmonella Pullorum and Salmonella Gallinarum in case of Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas spp.;
+
+(d) they were kept in establishments which, in case of confirmation of infection with Salmonella Pullorum, S. Gallinarum and S. arizonae during the last 12 months prior to date of collection of the eggs for dispatch to the Union have applied the following measures:
+
+(i) the infected flock has been slaughtered or it has been killed and destroyed;
+
+(ii) following the slaughter or killing of the infected flock referred to in point (i), the establishment has been cleaned and disinfected;
+
+(iii) following the cleaning and disinfection referred to in point (ii), all flocks on the establishment tested negative for infection with Salmonella Pullorum, S. Gallinarum and S. arizonae in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c);
+
+(e) they were kept in establishments which in case of confirmation of avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) during the last 12 months prior to date of collection of the eggs for dispatch to the Union have applied the following measures:
+
+either
+
+(i) the infected flock tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed in accordance with the disease surveillance programme referred to in point (c) on the entire flock with an interval of at least 60 days;
+
+or
+
+(ii) the infected flock has been slaughtered or it has been killed and destroyed, the establishment has been cleaned and disinfected and following the cleaning and disinfection all flocks on the establishment tested negative for avian mycoplasmosis (Mycoplasma gallisepticum and M. meleagridis) in two tests performed with an interval of at least 21 days in accordance with the disease surveillance programme referred to in point (c);
+
+(f) they have either:
+
+(i) been subjected to a clinical inspection, carried out by an official veterinarian in the third country or territory of origin or zone thereof, within a period of 72 hours prior to the time of loading of the consignment of hatching eggs for dispatch to the Union for the purpose of the detection of signs indicative of the occurrence of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases and they showed no disease symptoms or grounds for suspecting the presence of any of those diseases;
+
+or
+
+(ii) had
+
+— monthly clinical inspections carried out by an official veterinarian in the third country or territory of origin or zone thereof, the most recent carried out within a period of 31 days prior to the time of loading of the consignment of hatching eggs for dispatch to the Union, for the purpose of the detection of signs indicative of the occurrence of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases and they showed no disease symptoms or grounds for suspecting the presence of any of those diseases,
+
+— an evaluation of their current health status carried out by an official veterinarian in the third country or territory of origin or zone thereof, within a period of 72 hours prior to the time of loading of the consignment of hatching eggs for dispatch to the Union, as assessed by up-to-date information supplied by the operator and by documentary checks of the health and production records kept on the establishment, for the purpose of the detection of signs indicative of the occurrence of diseases, including emerging diseases and the relevant listed diseases referred to in Annex I.
+
+###### Article 108 — The hatching eggs of the consignment
+
+Consignments of hatching eggs of poultry shall only be permitted to enter the Union if they comply with the following requirements:
+
+(a) if the hatching eggs have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+
+(b) if the hatching eggs have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply with the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for the consignment;
+
+(c) the hatching eggs must be marked:
+
+(i) using colour ink;
+
+(ii) in the case of hatching eggs of poultry other than ratites, with a stamp indicating the unique approval number of the establishment of origin referred to in Article 106;
+
+(iii) in the case of hatching eggs of ratites, with a stamp indicating the ISO code of the third country or territory of origin and the unique approval number of the establishment of origin referred to in Article 106;
+
+(d) the hatching eggs must have been disinfected in accordance with the instructions of the competent authority of the third country or territory of origin.
+
+###### Article 109 — Entry of hatching eggs into Member States with status free from infection with Newcastle disease virus without vaccination
+
+Consignments of hatching eggs intended for a Member State with status free from infection with Newcastle disease virus without vaccination, shall only be permitted to enter the Union if they:
+
+(a) are not vaccinated against infection with Newcastle disease virus;
+
+(b) originate from flocks which comply with the requirements set out in one of the following points:
+
+(i) they have not been vaccinated against infection with Newcastle disease virus;
+
+or
+
+(ii) they have been vaccinated against infection with Newcastle disease virus using an inactivated vaccine;
+
+or
+
+(iii) they have been vaccinated against infection with Newcastle disease virus using a live vaccine at the latest within the period of 60 days prior to the date of collection of the eggs.
+
+#### CHAPTER 3 — Specific animal health requirements for consignments of less than 20 hatching eggs of poultry other than ratites
+
+###### Article 110 — Derogations and special requirements for consignments of less than 20 hatching eggs of poultry other than ratites
+
+By way of derogation from Articles 101, 106, 107 and 108, consignments of less than 20 hatching eggs of poultry other than ratites shall be permitted to enter the Union if they comply with the following requirements:
+
+(a) they come from establishments:
+
+(i) registered by the competent authority of the third country or territory of origin;
+
+(ii) where no confirmed case of infection with low pathogenic avian influenza viruses was reported within the period of 21 days prior to the date of collection of the hatching eggs;
+
+(iii) within a 10 km radius of the establishments, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to the date of collection of the hatching eggs;
+
+(b) in relation to vaccination against highly pathogenic avian influenza:
+
+(i) the hatching eggs have not been vaccinated against highly pathogenic avian influenza;
+
+(ii) where the flocks of origin have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+
+(c) in relation to vaccination against Newcastle disease virus, the hatching eggs have not been vaccinated against Newcastle disease virus and where the flock of origin has been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply either with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+or
+
+— the general criteria for recognised vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the hatching eggs meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for the consignment;
+
+(d) they come from flocks which have been subjected to a clinical inspection, carried out by an official veterinarian in the third country or territory of origin or zone thereof, within a period of 24 hours prior to the time of loading of the consignments of hatching eggs for dispatch to the Union for the purpose of the detection of signs indicative of the occurrence of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases, and the flocks showed no disease symptoms or grounds for suspecting the presence of any of those diseases;
+
+(e) they come from flocks which:
+
+(i) have been isolated on the establishment of origin for a period of at least 21 days prior to the collection of the eggs;
+
+(ii) were found not to be infected or showed any grounds for suspecting any infection by the following agents, in tests performed in accordance with the requirements for testing of consignments of less than 20 heads of poultry other than ratites and less than 20 hatching eggs thereof prior to the entry into the Union, set out in Annex XVII:
+
+— Salmonella Pullorum, Salmonella Gallinarum and Mycoplasma gallisepticum in case of Gallus gallus,
+
+— Salmonella arizonae (serogroup O:18(k)), Salmonella Pullorum, Salmonella Gallinarum, Mycoplasma meleagridis and Mycoplasma gallisepticum in case of Meleagris gallopavo,
+
+— Salmonella Pullorum and Salmonella Gallinarum in the case of Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas spp.;
+
+(f) the hatching eggs must have been disinfected in accordance with the instructions of the competent authority of the third country or territory of origin.
+
+#### CHAPTER 4 — Specific animal health requirements for specified pathogen-free eggs
+
+###### Article 111 — Derogation and special requirements for specified pathogen-free eggs
+
+By way of derogation from the residency period requirements of Article 98, the specific animal health requirements of Articles 105 to 110 and Articles 112 to 114, consignments of specified pathogen-free eggs which do not comply with the animal health requirements laid down in those provisions, shall be permitted to enter the Union if they comply instead with the following animal health requirements:
+
+(a) they originate from flocks which:
+
+(i) are free from specified pathogens as described in the European Pharmacopoeia and the results of all tests and clinical examinations required for this specific status have been favourable, including negative testing results for highly pathogenic avian influenza, infection with Newcastle disease virus and infection with low pathogenic avian influenza viruses carried out within the period of 30 days prior to the date of collection of the eggs for dispatch to the Union;
+
+(ii) have been clinically examined at least once a week as described in the European Pharmacopoeia and no disease symptoms or ground for suspecting the presence of any disease were detected;
+
+(iii) have been kept for a continuous period of at least six weeks prior to the date of collection of the eggs for dispatch to the Union in establishments which:
+
+— comply with the conditions described in the European Pharmacopoeia,
+
+— are approved by the competent authority of the third country or territory of origin in accordance with requirements which are at least equivalent to those laid down in Article 8 of Delegated Regulation (EU) 2019/2035, the approval of which has not been suspended or withdrawn;
+
+(iv) have had no contact with poultry not meeting the requirements of this Article or with wild birds for a period of at least 6 weeks prior to the date of collection of the eggs for dispatch to the Union;
+
+(b) they have been marked using colour ink with a stamp bearing the ISO code of the third country or territory of origin and the unique approval number of the establishment of origin;
+
+(c) they have been disinfected in accordance with the instructions of the competent authority of the third country or territory of origin.
+
+#### CHAPTER 5 — Specific animal health requirements for movement and handling of hatching eggs of poultry after entry into the Union and of poultry hatched from those eggs
+
+###### Article 112 — Obligations on operators as regards handling of hatching eggs following their entry into the Union and of poultry hatched from those hatching eggs
+
+1\. Operators at the establishment of destination shall place hatching eggs of poultry which have entered into the Union from a third country or territory or zone thereof either in:
+
+(a) separate incubators, including separate hatchers, from other hatching eggs;
+
+or
+
+(b) incubators, including hatchers, where other hatching eggs are already present.
+
+2\. Operators, as referred to in paragraph 1, shall ensure that breeding poultry and productive poultry which have been hatched from hatching eggs referred to in that paragraph, are kept for a continuous period of time:
+
+(a) in the hatchery for a period of at least 3 weeks from the date of hatching;
+
+or
+
+(b) on the establishments to which the poultry has been sent after hatching, either in the same Member State or in another Member State, for a period of at least 3 weeks from the date of hatching.
+
+3\. During the periods provided for in paragraph 2, operators shall keep poultry, which have been hatched from hatching eggs that have entered into the Union, separate from other flocks of poultry.
+
+4\. Where breeding poultry and productive poultry, which have been hatched from hatching eggs that have entered into the Union from a third country or territory or zone thereof, were introduced into premises or enclosures where other poultry are present, the relevant periods provided for in paragraph 2 shall commence from the date of introduction of the last bird and no poultry shall be moved from the premises or enclosures before the end of those periods.
+
+5\. Where hatching eggs of poultry, which have entered into the Union from a third country or territory or zone thereof, were introduced in incubators, including hatchers, where other hatching eggs were already present:
+
+(a) the provisions of paragraphs 2 to 4 shall apply to all poultry hatched from the hatching eggs in the same incubator, including hatcher, as the hatching eggs which have entered into the Union from a third country or territory or zone thereof;
+
+(b) the relevant periods referred to in paragraph 2 shall commence from the date of hatching of the last hatching egg that has entered into the Union from a third country or territory or zone thereof.
+
+###### Article 113 — Sampling and testing following the entry into the Union
+
+The competent authority of the Member State of destination shall ensure that breeding poultry and productive poultry which have been hatched from hatching eggs that have entered into the Union from a third country or territory or zone thereof undergo a clinical examination carried out by an official veterinarian on the establishment of destination no later than the date of expiry of the relevant periods as provided for Article 112(2), and, where necessary, shall be sampled for testing to monitor their state of health.
+
+###### Article 114 — Obligation on the competent authorities as regards sampling and testing of ratites from hatching eggs originating from a third country or territory or zone thereof not free from infection with Newcastle disease virus
+
+The competent authority of the Member State of destination shall ensure that ratites which have hatched from hatching eggs that have entered into the Union from a third country or territory or zone thereof that is not free from infection with Newcastle disease virus, during the periods provided for in Article 112(2):
+
+(a) they undergo a virus detection test for infection with Newcastle disease virus carried out by the competent authority on a cloacal swab or faeces sample from each ratite;
+
+(b) in the case of ratites destined for a Member State with status free from infection with Newcastle disease virus without vaccination, in addition to the requirements referred to in point (a), they are subjected to a serological test for infection with Newcastle disease virus carried out by the competent authority on each ratite;
+
+(c) all ratites shall have tested negative to the tests provided for in points (a) and (b) prior to their release from isolation.
+
+#### CHAPTER 6 — Specific animal health requirements for hatching eggs of captive birds
+
+###### Article 115 — The hatching eggs of the consignment
+
+Consignments of hatching eggs of captive birds shall only be permitted to enter the Union if they were obtained from captive birds which comply with the requirements for entry into the Union set out in Articles 55 to 58.
+
+#### CHAPTER 7 — Specific animal health requirements for movement and handling of hatching eggs of captive birds after entry into the Union and of captive birds hatched from those eggs
+
+###### Article 116 — Handling of hatching eggs of captive birds following their entry into the Union and of captive birds hatched from those hatching eggs
+
+Operators at the establishment of destination shall:
+
+(a) place the hatching eggs of captive birds which have entered into the Union from a third country or territory or zone thereof in separate incubators, including hatchers, from other hatching eggs;
+
+(b) ensure that captive birds which are hatched from the hatching eggs of captive birds referred to in Article 115 are kept in an approved quarantine establishment in accordance with the requirements of Articles 59 to 61.
+
+### TITLE 3 — ANIMAL HEALTH REQUIREMENTS FOR GERMINAL PRODUCTS OF ANIMALS OTHER THAN THOSE REFERRED TO IN ARTICLE 1(4), POINTS (A) AND (B), INTENDED FOR CONFINED ESTABLISHMENTS
+
+###### Article 117 — Requirements for the entry into the Union of consignments of germinal products of animals other than those referred to in Article 1(4), point (a) and (b), intended for confined establishments
+
+Consignments of semen, oocytes and embryos of animals other than those referred to in Article 1(4), point (a) and (b), intended for a confined establishment located in the Union may be permitted to enter the Union provided that:
+
+(a) an assessment has been carried out by the competent authority of the Member State of destination of the risks that the entry of those germinal products may present for the Union;
+
+(b) the donor animals of those germinal products originate from a third country or territory, or zone thereof, authorised for the entry into the Union of the particular species and category of animals either by Commission Implementing Regulation (EU) 2021/404 ( 10 ), or pursuant to Article 230(2) of Regulation (EU) 2016/429, by the Member State of destination, depending on the species in question;
+
+(c) the donor animals of those germinal products originate from an establishment in the third country or territory, or zone thereof of origin, which is included in a list established by the competent authority of the Member State of destination from which the entry of animals of specific species into the Union may be authorised;
+
+(d) the germinal products are destined to a confined establishment in the Union, which is approved in accordance with Article 95 of Regulation (EU) 2016/429;
+
+(e) the germinal products are transported directly to the confined establishment referred to in point (d).
+
+###### Article 118 — Specific animal health requirements for donor animals
+
+Consignments of semen, oocytes and embryos referred to in Article 117 shall only be permitted to enter the Union if they were collected from donor animals which comply with the following requirements:
+
+(a) they do not come from an establishment, nor have been in contact with animals from an establishment, situated in a restricted zone established due to the occurrence of a category A disease or of an emerging disease relevant for the species of those kept terrestrial animals;
+
+(b) they come from an establishment where no category D disease relevant for the species of those kept terrestrial animals has been reported for a period of at least the preceding 30 days;
+
+(c) they have remained in a single confined establishment of origin for a period of at least 30 days prior to the collection of the semen, oocytes or embryos intended for entry into the Union;
+
+(d) they have been clinically examined by the establishment veterinarian responsible for the activities of the confined establishment, and showed no disease symptoms on the day the semen, oocytes or embryos were collected;
+
+(e) as much as possible, they were not used for natural breeding during a period of at least 30 days prior to the date of first collection and during the period of collection of semen, oocytes or embryos intended for entry into the Union;
+
+(f) they are identified and registered in accordance with the rules of that confined establishment.
+
+###### Article 119 — The requirements for germinal products
+
+Consignments of semen, oocytes and embryos referred to in Article 117 shall only be permitted to enter the Union if they comply with the following requirements:
+
+(a) they are marked in such a way that the following information can be readily established:
+
+(i) the date of collection or production of those germinal products;
+
+(ii) the species, where necessary subspecies, and identification of the donor animal(s);
+
+(iii) the unique approval number of the confined establishment, which shall include the ISO 3166-1 alpha-2 code of the country in which the approval is granted;
+
+(iv) any other relevant information;
+
+(b) they are transported in the container which:
+
+(i) is sealed and numbered prior to the dispatch from the confined establishment by the establishment veterinarian responsible for the activities of the confined establishment;
+
+(ii) has been cleaned and either disinfected or sterilised before use, or is single-use container;
+
+(iii) has been filled in with the cryogenic agent which not have been previously used for other products.
+
+###### Article 119a — Inspection of consignments of germinal products prior to dispatch to the Union
+
+Consignments of semen, oocytes and embryos referred to in Article 117 shall only be permitted to enter the Union if those consignments have been subjected to visual examination and documentary check, carried out by an official veterinarian in the third country or territory of origin or zone thereof within the period of 72 hours prior to the time of dispatch to the Union as follows:
+
+(a) a visual examination of the transport container in order to verify compliance with the requirements laid down in Article 119;
+
+(b) a documentary check of the data submitted by the establishment veterinarian responsible for the activities carried out at the confined establishment to ensure that:
+
+(i) the information to be certified is supported by the records kept at the confined establishment;
+
+(ii) the mark on the straws or other packages, applied in accordance with point (a) of Article 119, corresponds with the number provided in the animal health certificate and on the container in which they are transported;
+
+(iii) the animal health requirements referred to in Title 3 of Part III have been fulfilled.
+
+## PART IV — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF PRODUCTS OF ANIMAL ORIGIN AS REFERRED TO IN ARTICLES 3 AND 5
+
+### TITLE 1 — GENERAL ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF PRODUCTS OF ANIMAL ORIGIN
+
+###### Article 120 — Time constraints for the date of production
+
+Consignments of products of animal origin shall only be permitted to enter the Union if the products of the consignment were not obtained during a period where:
+
+(a) animal health restriction measures were adopted by the Union for entry of such products from the third country or territory of origin or zone thereof;
+
+(b) the authorisation for entry into the Union of such products from the third country or territory of origin or zone thereof was suspended.
+
+###### Article 121 — Treatment requirements for products of animal origin
+
+1\. Consignments of products of animal origin, other than fresh or raw, shall only be permitted to enter the Union if the products of the consignment have been treated in accordance with Titles 3 to 6 of this Part.
+
+The treatment referred to in the first subparagraph must have been:
+
+(a) specifically assigned by the Union in the list, to the third country or territory of origin or zone thereof and to the species of origin of the product of animal origin;
+
+(b) applied in a third country or territory or zone thereof listed for entry into the Union of the particular species and category of products of animal origin;
+
+(c) applied in accordance with requirements for:
+
+(i) risk-mitigating treatments for meat products set out in Annex XXVI;
+
+(ii) risk-mitigating treatments for dairy products set out in Annex XXVII;
+
+(iii) risk-mitigating treatments for egg products set out in Annex XXVIII.
+
+2\. After the completion of the treatment provided for in paragraph 1, products of animal origin must be handled until packaged in a way to prevent any cross contamination that could introduce an animal health risk.
+
+###### Article 122 — Requirements concerning the means of transport of the products of animal origin
+
+Consignments of products of animal origin shall only be permitted to enter the Union if such consignments were transported in a means of transport designed, constructed and maintained in such a way that the health status of the products of animal origin was not jeopardised during the transport from their place of origin to the Union.
+
+###### Article 123 — Dispatch of products of animal origin to the Union
+
+Consignments of products of animal origin shall only be permitted to enter the Union if such consignments have been dispatched to their destination in the Union separated from animals and products of animal origin not complying with the relevant animal health requirements for entry into the Union provided for in this Regulation.
+
+### TITLE 2 — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF FRESH MEAT
+
+#### CHAPTER 1 — General animal health requirements for fresh meat
+
+###### Article 124 — Dispatch of kept animals of origin of the fresh meat to a slaughterhouse
+
+Consignments of fresh meat of kept animals, except those kept as farmed game that have been killed on-the-spot, shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from kept animals which comply with the following requirements:
+
+(a) the establishment of origin of the animals is located, either:
+
+(i) in the same third country or territory or zone thereof as the slaughterhouse where the fresh meat was obtained;
+
+or
+
+(ii) in a third country or territory or zone thereof which at the time of dispatch of the animals to the slaughterhouse was authorised to enter fresh meat of the relevant species of animals to the Union;
+
+(b) the kept animals were dispatched directly from their establishment of origin to the slaughterhouse;
+
+(c) during the transport to the slaughterhouse referred to in point (a), the kept animals:
+
+(i) did not pass through a third country or territory or zone thereof not listed for entry into the Union of the particular species and category of fresh meat;
+
+(ii) did not come into contact with animals of a lower health status;
+
+(d) the means of transport and containers used to transport the kept animals to the slaughterhouse referred to in point (a) comply with the requirements laid down in Articles 17 and 18;
+
+(e) By way of derogation of point (c)(i), during their transport to the slaughterhouse, consignments of poultry may pass through a zone of a third country or territory not listed for entry into the Union of fresh meat of poultry other than ratites, subject to the following conditions:
+
+(i) the establishment of origin of the poultry, the zone of the third country or territory not listed for entry into the Union and the slaughterhouse are located in the same third country or territory;
+
+(ii) the passing through of that zone of the third country or territory is performed without stopping or unloading in that zone;
+
+(iii) the passing through of that zone of the third country or territory is performed prioritising major highways or mainline railways;
+
+(iv) the passing through of that zone of the third country or territory is performed avoiding the vicinity of establishments keeping animals of listed species for the relevant diseases of poultry;
+
+(v) the passing through of that zone of the third country or territory is performed after depopulation and cleaning and disinfection of the establishment(s) affected by outbreak(s) of highly pathogenic avian influenza or infection with Newcastle disease virus;
+
+(vi) following the passing through of that zone of the third country or territory, the poultry shall be brought directly to the slaughterhouse and be slaughtered within a period of 6 hours from the time of their arrival at the slaughterhouse.
+
+If no suitable alternatives are possible and provided that all the conditions listed in (i) to (vi) of this point are complied with, poultry transported to the slaughterhouse may pass through more than one zone referred to in this point.
+
+###### Article 125 — Dispatch of carcasses of wild animals or animals kept as farmed game killed on the spot
+
+Consignments of fresh meat of wild animals or animals kept as farmed game that have been killed on-the-spot shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from carcasses which comply with the following requirements:
+
+(a) the carcasses were dispatched directly from the place of killing to a game handling establishment situated in the same listed third country or territory or zone;
+
+(b) during the transport to the game handling establishment referred to in point (a), the carcasses:
+
+(i) did not pass through a third country or territory or zone thereof not listed for entry into the Union of the particular species and category of fresh meat;
+
+(ii) did not come into contact with animals or carcasses of a lower health status;
+
+(c) the carcasses were transported to the game handling establishment referred to in point (a) in means of transport and containers which comply with the following requirements:
+
+(i) they were cleaned and disinfected, with a disinfectant authorised by the competent authority of the third country or territory of origin, before the loading of the carcasses for dispatch to the game handling establishment;
+
+(ii) they were constructed in such a way that the health status of the carcasses was not jeopardised during the transport.
+
+###### Article 126 — The ante-mortem and post-mortem inspections
+
+Consignments of fresh meat of kept and wild animals shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from animals which have undergone the following inspections:
+
+(a) in the case of kept animals:
+
+(i) an ante-mortem inspection within the period of 24 hours prior to the time of slaughter;
+
+(ii) a post-mortem inspection carried out, without delay, after their killing or slaughter.
+
+(b) in the case of wild animals, a post-mortem inspection carried out, without delay, after their killing.
+
+The inspections referred to in the first paragraph must have been carried out by an official veterinarian in the third country or territory of origin or zone thereof in order to exclude the presence of the relevant diseases referred to in Annex I and of emerging diseases.
+
+###### Article 127 — Handling of the animals of origin of the fresh meat during killing or slaughter
+
+Consignments of fresh meat shall only be permitted to enter the Union if the fresh meat of the consignment originates from animals which had no contact with animals of a lower health status during their killing or slaughter.
+
+###### Article 128 — Handling and preparation of fresh meat in the establishment of origin of the fresh meat
+
+Consignments of fresh meat must be kept strictly segregated from fresh meat not complying with the relevant animal health requirements for entry into the Union of fresh meat, provided for in Articles 124 to 146, throughout the operations of slaughter, cutting and until either:
+
+(a) it was packed for further storage or dispatch to the Union;
+
+or
+
+(b) its arrival to the Union, in the case of unpacked fresh meat.
+
+#### CHAPTER 2 — Animal health requirements for fresh meat of ungulates
+
+##### SECTION 1 — GENERAL ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF KEPT AND WILD UNGULATES
+
+###### Article 129 — The species of animals of origin of the fresh meat of ungulates
+
+Consignments of fresh meat from ungulates shall only be permitted to enter the Union if the fresh meat of the consignment originates from the following species:
+
+(a) in the case of kept ungulates, from all species of ungulates;
+
+(b) in the case of wild ungulates and ungulates kept as farmed game, from all species of ungulates except from bovine animals, ovine animals, caprine animals and domestic breeds of porcine animals
+
+###### Article 130 — Prohibition as regards the entry of fresh blood
+
+Consignments of fresh blood of ungulates for human consumption shall not be permitted to enter the Union.
+
+##### SECTION 2 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF KEPT UNGULATES
+
+###### Article 131 — The residency period prior to slaughter or killing of the kept ungulates of origin of the fresh meat
+
+1\. The kept ungulates of origin of the fresh meat intended for entry into the Union shall not be required to comply with a residency period prior to the date of slaughter or killing provided that they were introduced into the third country or territory or zone thereof from:
+
+(a) another third country or territory or zone which is listed for entry into the Union of fresh meat from the same species of ungulates and the kept ungulates remained there for at least 3 months prior to slaughter;
+
+or
+
+(b) a Member State.
+
+2\. The kept ungulates of origin of the fresh meat intended for entry into the Union other than those referred to in paragraph 1, must comply, immediately prior to the date of slaughter or killing, with a residency period for a continuous period of time in accordance with Annex XXIII where they:
+
+(a) remained in the third country or territory of origin or zone thereof;
+
+(b) remained in the establishment of origin;
+
+(c) had no contact with ungulates of a lower health status.
+
+###### Article 132 — Derogation from direct dispatch of the kept animals of origin of the fresh meat to a slaughterhouse
+
+By way of derogation from Article 124(b), consignments of fresh meat of kept ungulates not complying with those requirements shall be permitted to enter the Union provided that the fresh meat of the consignment was obtained from bovine animals, ovine animals or caprine animals, and:
+
+(a) the ungulates passed through one single establishment conducting assembly operations, which complies with the requirements laid down in Article 20(b), after leaving their establishment of origin and prior to their arrival at the slaughterhouse;
+
+(b) the competent authority of the third country or territory of origin has provided additional guarantees to ensure the animal health status of the ungulates during their movement from their establishment of origin to their arrival at the slaughterhouse has not been jeopardised;
+
+(c) the third country, territory or zone thereof referred to in point (b) is authorised in the list for such derogation.
+
+###### Article 133 — The third country or territory of origin or zone thereof of the fresh meat of kept ungulates
+
+1\. Consignments of fresh meat of kept ungulates shall only be permitted to enter the Union if the fresh meat of the consignment originates from a third country or territory or zone thereof which complies with the minimum periods of disease freedom set out in the table in Part A of Annex XXIV, for the referred listed diseases, for which the species of ungulates from which the fresh meat has been obtained are listed.
+
+The minimum periods referred to in the first subparagraph may be reduced for the diseases listed in Part B of Annex XXIV subject to compliance with the specific conditions provided for therein; these specific conditions must be specifically assigned by the Union in the list, to that third country or territory or zone thereof and to the particular species of origin of the fresh meat.
+
+2\. Consignments of fresh meat of ungulates shall only be permitted to enter the Union if the fresh meat of the consignment originates from a third country or territory or zone thereof in which vaccination against listed diseases referred to in paragraph 1 has not been carried out according to the table in Part A of Annex XXV.
+
+3\. By way of derogation of paragraph 2, vaccination against foot and mouth disease may have been carried out subject to compliance with the specific conditions to be provided by the competent authority set out in points 1(b) or 3.1(a) of Part B of Annex XXV which must be specifically assigned by the Union in the list, to that third country or territory or zone thereof and to the particular species of origin of the fresh meat.
+
+###### Article 134 — The establishment of origin of the kept ungulates from which the fresh meat has been obtained
+
+1\. Consignments of fresh meat of kept ungulates shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from ungulates which come from an establishment:
+
+(a) in and around which, including where appropriate the territory of a neighbouring country, none of the listed diseases referred to in Part A of Annex XXIV, for which the species of ungulates of origin of the fresh meat intended for entry into the Union are listed, has been reported in an area of 10 km radius and for a period of 30 days prior to the date of slaughter; or
+
+(b) which complies with the specific conditions to be provided by the competent authorities where vaccination against foot and mouth disease has been carried out in the third country or territory or zone thereof less than 12 months prior to the date of slaughter set out in points 1(b) or 3.1(a) of Part B of Annex XXV which must have been specifically assigned by the Commission in the list to the third country or territory or zone thereof authorised for entry into the Union of fresh meat of ungulates and to the species of origin of the fresh meat.
+
+2\. Consignments of fresh meat of kept ungulates shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from ungulates which come from an establishment:
+
+(a) where no animals have been vaccinated according to Part A of Annex XXV; or
+
+(b) which is located in a third country, territory or zone thereof which complies with the specific conditions set out in point 1 of Part B of Annex XXIV; these conditions must have been specifically assigned by the Commission in the list to the third country or territory or zone thereof listed for entry into the Union of fresh meat of ungulates and to the species of origin of the fresh meat.
+
+###### Article 135 — Specific requirement for fresh meat obtained from kept ungulates of the species Sus scrofa
+
+Consignments of fresh meat of kept ungulates of the species Sus scrofa shall only be permitted to enter the Union if the fresh meat of the consignment originates from animals which have been kept separated from wild ungulates since birth.
+
+###### Article 136 — The establishment of origin of the fresh meat of kept ungulates
+
+Consignments of fresh meat of kept ungulates shall only be permitted to enter the Union if the fresh meat of the consignment was obtained in a slaughterhouse, or in a game handling establishment, in and around which none of the listed diseases referred to in Part A of Annex XXIV has been reported in an area of 10 km radius, including, where appropriate, the territory of a neighbouring country, for a period of 30 days prior to the date of slaughter or to the date of killing.
+
+##### SECTION 3 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF WILD UNGULATES
+
+###### Article 137 — The country or territory of origin or zone thereof of the fresh meat of wild ungulates
+
+Consignments of fresh meat of wild ungulates shall only be permitted to enter the Union if the fresh meat of the consignment originates from a third country or territory or zone thereof which complies with the animal health requirements laid down in Article 133.
+
+###### Article 138 — The wild ungulates of origin of the fresh meat
+
+Consignments of fresh meat of wild ungulates shall only be permitted to enter the Union if the fresh meat of the consignment was obtained from animals which comply with the following requirements:
+
+(a) they were killed at a distance that exceeds 20 km from the border of any third country or territory or zone thereof which at that time was not listed for entry into the Union of fresh meat of the species of wild ungulates;
+
+(b) they were killed in an area of 20 km radius, where, during the preceding 60 days, the diseases referred to in Part A of Annex XXIV have not been reported.
+
+###### Article 139 — The game handling establishment of origin of fresh meat of wild ungulates
+
+Consignments of fresh meat of wild ungulates shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained in a game handling establishment in and around which none of the listed diseases referred to in Part A of Annex XXIV has been reported in an area of 10 km radius, including where appropriate the territory of a neighbouring country, for a period of 30 days prior to the date of killing.
+
+#### CHAPTER 3 — Animal health requirements for fresh meat of poultry and game birds
+
+##### SECTION 1 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF POULTRY
+
+###### Article 140 — The residency period of poultry
+
+Consignments of fresh meat of poultry shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from poultry which:
+
+(a) have been kept since hatching and until the date of slaughter in the third country or territory of origin of the fresh meat or zone thereof;
+
+or
+
+(b) were imported as day-old chicks, breeding poultry, productive poultry or poultry intended for slaughter from a third country or territory or zone thereof which is listed for entry into the Union for those commodities or from a Member State and the import took place in accordance with animal health requirements at least as stringent as the relevant requirements of this Regulation.
+
+###### Article 141 — The third country or territory of origin or zone thereof of the fresh meat of poultry
+
+Consignments of fresh meat of poultry shall only be permitted to enter the Union if the fresh meat of the consignment originates from a third country or territory or zone thereof which complies with the following requirements:
+
+(a) it has a disease surveillance programme for highly pathogenic avian influenza in place for a period of at least 6 months prior to the date of dispatch of the consignment to the Union and that surveillance programme complies with the requirements laid down in either:
+
+(i) Annex II to this Regulation;
+
+or
+
+(ii) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE);
+
+(b) it is considered to be free from highly pathogenic avian influenza in accordance with Article 38;
+
+(c) where it carried out vaccination against highly pathogenic avian influenza, the competent authority of the third country or territory of origin has provided guarantees that:
+
+(i) the vaccination programme complies with the requirements set out in Annex XIII;
+
+(ii) the surveillance programme referred to in point (a) of this Article, in addition to the requirements set out in Annex II, complies with the requirements set out in point 2 of Annex XIII;
+
+(iii) it has undertaken to inform the Commission of any change to the vaccination programme in the third country or territory or zone thereof;
+
+(d) which:
+
+(i) in the case of fresh meat of poultry other than ratites, it is considered to be free from infection with Newcastle disease virus in accordance with Article 39;
+
+(ii) in the case of fresh meat of ratites, is either:
+
+— considered to be free from infection with Newcastle disease virus in accordance with Article 39,
+
+or
+
+— not considered to be free from infection with Newcastle disease virus in accordance with Article 39, but the competent authority of the third country or territory of origin has provided guarantees regarding compliance with the requirements for infection with Newcastle disease virus in relation to isolation, surveillance and testing, as set out in Annex XIV;
+
+(e) where vaccination against infection with Newcastle disease virus is carried out, the competent authority of the third country or territory has provided guarantees that:
+
+(i) the vaccines used comply with the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV; or
+
+(ii) the vaccines used comply with the general criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry from which the fresh meat has been obtained meet the animal health requirements set out in point 3 of Annex XV for fresh meat of poultry originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(f) it has undertaken that following an outbreak of highly pathogenic avian influenza or an outbreak of infection with Newcastle disease virus, to submit the following information to the Commission:
+
+(i) information on the disease situation within 24 hours of confirmation of any initial outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus;
+
+(ii) regular updates of the disease situation;
+
+(g) which has undertaken to submit virus isolates from initial outbreaks of highly pathogenic avian influenza and infection with Newcastle disease virus to the European Union Reference Laboratory for Avian Influenza and Newcastle disease.
+
+###### Article 142 — The establishment of origin of the poultry
+
+Consignments of fresh meat of poultry shall only be permitted to enter the Union if the fresh meat of the consignment originates from poultry which come from an establishment:
+
+(a) in which and within a 10 km radius of the establishment, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the date of slaughter;
+
+(b) which, in the case of fresh meat of ratites originating in a third country or territory or zone thereof not free from infection with Newcastle disease virus, complies with the animal health requirements for ratites, hatching eggs thereof and fresh meat of ratites originating in a third country or territory or zone thereof not free from infection with Newcastle disease virus, set out in points 3(b) and (c) of Annex XIV.
+
+###### Article 143 — The poultry of origin of the fresh meat
+
+1\. Consignments of fresh meat of poultry shall only be permitted to enter the Union if the fresh meat of the consignment has been obtained from poultry which have not been vaccinated against highly pathogenic avian influenza or infection with Newcastle disease virus, or they comply with the following requirements:
+
+(a) where they have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+
+(b) where they have been vaccinated against infection with Newcastle disease virus:
+
+(i) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply with:
+
+— the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV, or
+
+— the general criteria for recognised vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the poultry from which the fresh meat has been obtained meet the animal health requirements set out in point 3 of Annex XV for fresh meat of poultry originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+
+(ii) the information set out in point 4 of Annex XV must be provided for the consignment.
+
+2\. Consignments of fresh meat of poultry which is destined to a Member State or territory with status free from infection with Newcastle disease virus without vaccination, shall only be permitted to enter the Union if the fresh meat of the consignment originates from poultry which have not been vaccinated against Newcastle disease with a live vaccine during the period of 30 days prior to the date of slaughter.
+
+###### Article 144 — The establishment of origin for the fresh meat of poultry
+
+Consignments of fresh meat of poultry shall only be permitted to enter the Union if the fresh meat of the consignment originates from a slaughterhouse which:
+
+(a) at the time of slaughter, was not under restrictions due to an outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus or under official restrictions under national legislation for animal health reasons;
+
+(b) within a 10 km radius of the slaughterhouse, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the date of slaughter.
+
+##### SECTION 2 — SPECIFIC ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF GAME BIRDS
+
+###### Article 145 — The third country or territory of origin or zone thereof of the fresh meat of game birds
+
+Consignments of fresh meat of game birds shall only be permitted to enter the Union if the fresh meat of the consignment originates from a third country or territory or zone thereof which complies with the following requirements:
+
+(a) it has a disease surveillance programme for highly pathogenic avian influenza in place for a period of at least 6 months prior to the date of dispatch of the consignment to the Union and that surveillance programme complies with the requirements established in either:
+
+(i) Annex II to this Regulation;
+
+or
+
+(ii) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE);
+
+(b) where there have been no animal health restrictions due to an outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least 30 days prior to the time of killing.
+
+###### Article 146 — The establishment of origin of the fresh meat of game birds
+
+Consignments of fresh meat of game birds shall only be permitted to enter the Union if the fresh meat of the consignment originates from a game handling establishment:
+
+(a) which, at the time of dressing, was not under restrictions due to an outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus or under official restrictions for animal health reasons;
+
+(b) within a 10 km radius of the game handling establishment, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus during the period of at least the 30 days prior to the date of reception of the carcasses.
+
+### TITLE 3 — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF MEAT PRODUCTS AND CASINGS
+
+###### Article 147 — Treatment of meat products
+
+Consignments of meat products shall only be permitted to enter the Union if the meat products of the consignment have been treated in accordance with Article 121 as required in Articles 148 or 149.
+
+###### Article 148 — Meat products not subject to a risk-mitigating treatment
+
+Consignments of meat products shall only be permitted to enter the Union if the meat products of the consignment have not undergone a risk-mitigating treatment in accordance with Annex XXVI where:
+
+(a) the third country or territory or zone thereof of origin is listed for entry into the Union of fresh meat of the relevant species, and specific conditions in accordance with Title 2, Chapters 1 and 2 of Part IV, are not required for entry into the Union of such fresh meat;
+
+(b) the fresh meat used for the processing of the meat product complied with all the requirements for entry into the Union of fresh meat and therefore was eligible for entry into the Union and originated from at least one of the following:
+
+(i) the third country or territory or zone thereof where the meat product was processed;
+
+(ii) a third country or territory or zone thereof which is listed for entry into the Union of fresh meat of the relevant species without the obligation to apply specific conditions referred to in Part B of Annex XXV;
+
+(iii) a Member State.
+
+###### Article 149 — Meat products subject to a risk-mitigating treatment
+
+1\. Consignments of meat products that do not fulfil the requirements provided for in Article 148, shall only be permitted to enter the Union if they have undergone at least the risk-mitigating treatment set out in Annex XXVI specifically assigned by the Union in the list to the third country or territory or zone thereof of origin of the meat product in accordance with Article 121, and if the fresh meat used for the processing of the meat products originated from at least one of the following:
+
+(a) the third country or territory or zone thereof where the meat product has been processed;
+
+(b) a listed third country or territory or zone thereof authorised for entry into the Union of fresh meat of the relevant species without the obligation to apply specific conditions referred to in Part B of Annex XXV;
+
+(c) a Member State.
+
+2\. Consignments of meat products shall only be permitted to enter the Union if they have undergone at least the risk-mitigating treatment ‘B’, in accordance with Annex XXVI, where the fresh meat used for the processing of the meat products originates from a third country or territory or zone thereof:
+
+(a) other than the third country or territory or zone thereof in which the meat product is obtained;
+
+(b) which is also listed for entry into the Union of meat products of the relevant species, subject to a risk-mitigating treatment specifically assigned by the Union in the list, to that third country or territory or zone thereof and to the relevant species, in accordance with Article 121.
+
+3\. Consignments of meat products processed from fresh meat of poultry shall only be permitted to enter the Union if they have undergone at least the risk-mitigating treatment ‘D’, in accordance with Annex XXVI, where the fresh meat used for the processing of the meat products originates from a third country or territory or zone thereof:
+
+(a) listed for entry into the Union of fresh meat of poultry;
+
+(b) in which there has been a case or an outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus.
+
+4\. Consignments of meat products which have been processed from fresh meat of more than one species of animal from the third country or territory or zone thereof where the meat product was processed, shall only be permitted to enter the Union if they comply with the following requirements:
+
+(a) the meat products must have undergone the most severe of the risk-mitigating treatments assigned in the list to the third country or territory or zone thereof, in accordance with Article 121, for the different species of animals of origin, where the fresh meat is mixed before the final processing of the meat product takes place; or
+
+(b) the meat products must have undergone the risk-mitigating treatment assigned in the list to the third country or territory or zone thereof, in accordance with Article 121, for each different species of animals of origin, where the mixing of the meat products have taken place after processing of each ingredient of the meat product.
+
+5\. Consignments of meat products which have been processed from fresh meat of more than one species of animal originating from a third country or territory or zone thereof other than the third country or territory or zone thereof where the meat product has been processed, shall only be permitted to enter the Union if they have undergone a risk-mitigating treatment in accordance with paragraphs 1 or 2.
+
+###### Article 150 — The establishment of origin of the animals from which the fresh meat was obtained
+
+Consignments of meat products shall only be permitted to enter the Union if they have been processed from fresh meat which originates from animals coming from an establishment, or, in the case of wild animals, from a place in and around which, in an area of a 10 km radius, including, where appropriate, the territory of a neighbouring country, none of the listed diseases, relevant for the species of origin of the meat products in accordance with the list set out in Annex I, has been reported during the period of 30 days prior to the date of slaughter or killing of the animals.
+
+###### Article 151 — The entry into Member States with status free from infection with Newcastle disease virus without vaccination
+
+Consignments of meat products of poultry intended for a Member State or territory thereof with a status free from infection with Newcastle disease virus without vaccination shall only be permitted to enter into the Union if they have obtained from poultry which have not been vaccinated with a live vaccine against infection with Newcastle disease virus, during the period of 30 days prior to the date of slaughter.
+
+###### Article 152 — Specific requirements for entry into the Union of casings
+
+Consignments of casings that do not fulfil the requirements provided for in Article 148 shall only be permitted to enter the Union if they have undergone the following risk-mitigating treatments set out in Part 2 of Annex XXVI:
+
+(a) treatments ‘Casing 1’ or ‘Casing 2’, where the bladders and intestines used for the processing of the casings originate from bovine animals, ovine animals, caprine animals or kept porcine animals;
+
+(b) treatments ‘Casing 3’, ‘Casing 4’ or ‘Casing 5’ where the bladders and intestines used for the processing of the casings originate from animals of species other than those referred to in point (a).
+
+### TITLE 4 — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF MILK, DAIRY PRODUCTS, COLOSTRUM AND COLOSTRUM-BASED PRODUCTS
+
+#### CHAPTER 1 — Specific animal health requirements for raw milk, colostrum and colostrum-based products
+
+###### Article 153 — The country of origin of the raw milk, colostrum and colostrum-based products
+
+Consignments of raw milk, colostrum or colostrum-based products shall only be permitted to enter the Union if the raw milk, colostrum and colostrum-based products of the consignment originate from a third country or territory or zone thereof which has been free from foot and mouth disease and infection with rinderpest virus for a period of at least 12 months prior to the date of milking and, during that period, no vaccination against those diseases has been carried out.
+
+###### Article 154 — The animals of origin of the raw milk, colostrum and colostrum-based products
+
+1\. Consignments of raw milk, colostrum or colostrum-based products shall only be permitted to enter the Union if the raw milk, colostrum or colostrum-based products of the consignment were obtained from animals of the species Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis or Camelus dromedarius.
+
+2\. Consignments of raw milk, colostrum or colostrum-based products shall only be permitted to enter the Union if the raw milk, colostrum or colostrum-based products of the consignment were obtained from animals that complied with a continuous residency period of at least 3 months prior to the date of milking in the third country or territory of milking or zone thereof.
+
+3\. The animals of origin of raw milk, colostrum or colostrum-based products intended for entry into the Union shall not be required to comply with the residency period referred to in paragraph 2, provided that they were introduced into the third country or territory or zone thereof from:
+
+(a) another third country or territory or zone thereof which is listed for entry into the Union of raw milk, colostrum or colostrum-based products and the animals remained there for at least 3 months prior to milking; or
+
+(b) a Member State.
+
+#### CHAPTER 2 — Specific animal health requirements for dairy products
+
+###### Article 155 — Treatment of dairy products
+
+Consignments of dairy products shall only be permitted to enter into the Union if the dairy products of the consignment have been treated in accordance with Article 121 as required in Articles 156 or 157.
+
+###### Article 156 — Dairy products not subject to a risk-mitigating treatment
+
+Consignments of dairy products originating from a third country or territory, or zone thereof, which is listed for entry into the Union of raw milk shall be permitted to enter the Union without having undergone a specific risk-mitigating treatment provided for in Annex XXVII, if the dairy products of the consignment comply with following requirements:
+
+(a) the raw milk or dairy product therefrom, from which they were processed, were obtained from animals of the species Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis and Camelus dromedarius;
+
+(b) the raw milk or dairy product therefrom, used for the processing of the dairy products complied with the relevant general animal health requirements for the entry into the Union of products of animal origin laid down in Articles 3 to 10 and the specific animal health requirements for the entry into the Union of raw milk laid down in Articles 153 and 154, and therefore was eligible for entry into the Union and it originates from one of the following:
+
+(i) a listed third country or territory, or zone thereof, where the dairy products were processed;
+
+(ii) a third country or territory, or zone thereof, other than a listed third country or territory, or zone thereof, where the dairy products were processed and which is authorised for entry into the Union of raw milk; or
+
+(iii) a Member State.
+
+###### Article 157 — Dairy products subject to a risk-mitigating treatment
+
+1\. Consignments of dairy products not complying with the requirements set out in Article 156 shall only be permitted to enter the Union if the dairy products of the consignment have undergone at least one of the risk-mitigating treatments provided for in column A of Annex XXVII, where:
+
+(a) they were processed from milk obtained from the species Bos Taurus, Ovis aries, Capra hircus, Bubalus bubalis or Camelus dromedarius;
+
+(b) the third country or territory of origin or zone thereof has not been free from foot and mouth disease and infection with rinderpest virus for a period of at least 12 months prior to the date of milking, or if during that period vaccination against those diseases has been carried out.
+
+2\. Consignments of dairy products shall only be permitted to enter the Union if the dairy products of the consignment have undergone at least one of the risk-mitigating treatments provided for in column B of Annex XXVII where they were processed from milk obtained from species of animals other than those referred to in paragraph 1(a).
+
+3\. Consignments of dairy products that have been processed from raw milk or from dairy products obtained from more than one species of animal shall only be permitted to enter the Union if those dairy products have undergone either:
+
+(a) at least the most severe of the risk-mitigating treatments assigned to the each species of animals of origin, where the mixing of raw milk or dairy products takes place before the final processing of the product; or
+
+(b) the risk-mitigating treatment assigned to each species of animals of origin, where the mixing of the products takes place after processing of each ingredient of the dairy product.
+
+### TITLE 5 — Article 157 Dairy products subject to a risk-mitigating treatment 1. Consignments of dairy products which do not comply with the requirements laid down in Article 156 shall only be permitted to enter the Union if the dairy products of the consignment have undergone at least one of the risk-mitigating treatments provided for in column A of the table in Annex XXVII where: (a) they were processed from raw milk or dairy products therefrom, and obtained from the species Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis or Camelus dromedarius; (b) the third country or territory of origin, or zone thereof was not free from foot and mouth disease and infection with rinderpest virus for at least 12 months prior to the date of milking or if vaccination against those diseases was carried out during that period. 2. Consignments of dairy products shall only be permitted to enter into the Union if the dairy products of the consignment have undergone at least one of the risk-mitigating treatments provided for in column B of the table in Annex XXVII where they were processed from raw milk or dairy products therefrom, obtained from species of animals other than those referred to in paragraph 1, point (a). 3. Consignments of dairy products that have been processed from raw milk or dairy products therefrom, obtained from more than one species of animal shall only be permitted to enter into the Union if those dairy products have undergone either: (a) at least the most severe of the risk-mitigating treatments assigned to each species of animals of origin where the mixing of raw milk or dairy products takes place before the final processing of the dairy product; or (b) the risk-mitigating treatment assigned to each species of animals of origin where the mixing of the products takes place after processing of each ingredient of the dairy product.
+
+#### CHAPTER 1 — Specific animal health requirements for eggs
+
+###### Article 158 — The third country or territory of origin or zone thereof of the eggs
+
+Consignments of eggs shall only be permitted to enter the Union if the eggs of the consignment originate from a third country or territory or zone thereof which applies a disease surveillance programme for highly pathogenic avian influenza that complies with the requirements established in either:
+
+(a) Annex II to this Regulation;
+
+or
+
+(b) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE).
+
+###### Article 159 — The establishment of origin of the eggs
+
+Consignments of eggs shall only be permitted to enter the Union if the eggs of the consignment originate from an establishment that complies with the following requirements:
+
+(a) during the period of 30 days prior to the date of collection of the eggs and until the date of issue of the certificate for entry into the Union, no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus occurred; and
+
+(b) within a 10 km radius of the establishment, including, where appropriate, the territory of a neighbouring country there was no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to the date of collection of eggs and until the date of issue of the certificate for entry into the Union.
+
+#### CHAPTER 2 — Specific animal health requirements for egg products
+
+###### Article 160 — The third country or territory of origin, or zone thereof of the egg products
+
+Consignments of egg products shall only be permitted to enter into the Union if the egg products of the consignment either:
+
+(a) originate from a third country or territory, or zone thereof listed for the entry into the Union of eggs, and which applies a disease surveillance programme for highly pathogenic avian influenza that complies with the requirements established in either:
+
+(i) Annex II to this Regulation; or
+
+(ii) the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (WOAH); or if they
+
+(b) originate from a third country or territory, or zone thereof listed for the entry into the Union of egg products and where they have undergone an appropriate risk-mitigating treatment as set out for that particular egg product in the tables in points 1 and 2 in Annex XXVIII, to achieve the inactivation of the highly pathogenic avian influenza virus and the Newcastle disease virus.
+
+###### Article 161 — The establishment of origin of the eggs
+
+Consignments of egg products shall only be permitted to enter the Union if the egg products of the consignment have been processed from eggs that originated in an establishment:
+
+(a) in which, during the period of 30 days prior to the date of collection of the eggs, no outbreak of highly pathogenic avian influenza and infection with Newcastle disease virus has occurred;
+
+(b) within a 10 km radius of the establishment, including, where appropriate, the territory of a neighbouring country, there has either been:
+
+(i) no outbreak of highly pathogenic avian influenza for a period of at least 30 days prior to the date of collection of eggs; or
+
+(ii) an outbreak of highly pathogenic avian influenza within the period of 30 days prior to the date of collection of eggs and the egg product has undergone one of the risk-mitigating treatments for egg products set out in point 1 of Annex XXVIII;
+
+(c) within a 10 km radius of the establishments, including, where appropriate, the territory of a neighbouring country, there has either been:
+
+(i) no outbreak of infection with Newcastle disease virus for a period of at least 30 days prior to the date of collection of eggs; or
+
+(ii) an outbreak of infection with Newcastle disease virus within the period of 30 days prior to the date of collection of eggs and the egg product, has undergone one of the risk-mitigating treatments for egg products set out in point 2 of Annex XXVIII.
+
+### TITLE 6 — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF PROCESSED PRODUCTS OF ANIMAL ORIGIN CONTAINED IN COMPOSITE PRODUCTS
+
+###### Article 162 — Composite products containing meat products, dairy products, colostrum-based products and/or egg products
+
+1\. Consignments of the following composite products shall only be permitted to enter the Union if the composite products of the consignments come from a third country or territory or zone thereof listed for entry into the Union of the specific products of animal origin contained in those composite products:
+
+(a) composite products containing meat products;
+
+(b) non-shelf stable composite products containing dairy products, and/or egg products
+
+(c) composite products containing colostrum-based products.
+
+2\. Consignments of composite products shall only be permitted to enter the Union if the processed products of animal origin contained in the composite products referred to in paragraph 1:
+
+(a) comply with:
+
+(i) the relevant general animal health requirements for entry into the Union of products of animal origin laid down in Part 1 of this Regulation;
+
+(ii) the animal health requirements for entry into the Union of the specific product of animal origin, as laid down in Titles 1, 3, 4 and 5 of this Part;
+
+(b) they have been obtained either:
+
+(i) in the same listed third country or territory of origin or zone thereof of the composite product;
+
+(ii) in a Member State; or
+
+(iii) in a third country or territory or zone thereof listed for entry into the Union of those products without undergoing a specific risk-mitigating treatment, in accordance with Articles 148 and 156, if the third country or territory or zone thereof where the composite product is produced is also listed for entry into the Union of those products without the obligation to apply a specific risk-mitigating treatment.
+
+###### Article 163 — Specific requirements for certain composite products containing dairy products, or egg products, or both
+
+1\. Consignments of composite products that do not contain colostrum-based products or meat products, except gelatine, collagen, and highly refined products of animal origin listed in Section XVI of Annex III to Regulation (EC) No 853/2004, and that have been treated to become shelf-stable at ambient temperature, shall be permitted to enter into the Union if they contain:
+
+(a) dairy products that comply with one of the following conditions:
+
+(i) the dairy products have been obtained either in a Member State or in a third country or territory, or zone thereof listed for the entry into the Union of dairy products without undergoing a specific risk-mitigating treatment; and the third country or territory, or zone thereof where the composite product is produced, if different, is also listed for the entry into the Union of dairy products without undergoing a specific risk-mitigating treatment;
+
+(ii) the dairy products have undergone a risk-mitigating treatment referred to in column A or B of the table in Annex XXVII, relevant for the species of origin of the milk, provided that the dairy products have been obtained either in a Member State or in a third country or territory, or zone thereof listed for the entry into the Union of dairy products without undergoing a specific risk-mitigating treatment where that risk-mitigating treatment was applied; and the third country or territory, or zone thereof where the composite product is produced is listed for the entry into the Union of dairy products that have undergone a specific risk-mitigating treatment;
+
+(iii) the dairy products have undergone a risk-mitigating treatment referred to in column A or B of the table in Annex XXVII, relevant for the species of origin of the milk, provided that the dairy products have been obtained in a third country or territory, or zone thereof listed for the entry into the Union of dairy products that have undergone a specific risk-mitigating treatment where that risk-mitigating treatment was applied; and the third country or territory, or zone thereof where the composite product is produced, if different, is also listed for the entry into the Union of dairy products that have undergone a specific risk-mitigating treatment;
+
+(iv) the dairy products have undergone a risk-mitigating treatment referred to in column B of the table in Annex XXVII, regardless of the species of origin of the milk, provided that the dairy products have been obtained either in a Member State where that risk-mitigating treatment was applied, or in a third country or territory, or zone thereof listed for the entry into the Union of dairy products without undergoing a specific risk-mitigating treatment where that risk-mitigating treatment was applied, or in a third country or territory, or zone thereof listed for the entry into the Union of dairy products where that risk-mitigating treatment was applied; and the third country or territory, or zone thereof where the composite product is produced is listed for the entry into the Union of dairy products;
+
+(b) egg products that have undergone an appropriate risk-mitigating treatment as set out for that particular egg product in the tables in points 1 and 2 in Annex XXVIII, to achieve the inactivation of highly pathogenic avian influenza virus and Newcastle disease virus; and the third country or territory, or zone thereof where the composite product is produced, if different, is also listed for entry into the Union of egg products.
+
+2\. By way of derogation from Article 3, point (a)(i), of this Regulation, and paragraph 1 of this Article, the consignments of composite products containing dairy products referred to in paragraph 1, point (a)(iv), and the consignments of composite products containing egg products referred to in paragraph 1, point (b), of this Article that have been treated to become shelf-stable at ambient temperature shall be permitted to enter into the Union if those composite products are produced in a third country or territory, or zone thereof which is not specifically listed for the entry into the Union of those products of animal origin but is listed for entry into the Union of either meat products, dairy products or egg products in accordance with this Regulation, or of fishery products in accordance with Article 127 of Regulation (EU) 2017/625.
+
+3\. By way of derogation from Article 3, point (c)(i), of this Regulation the consignments of composite products referred to in paragraphs 1 and 2 of this Article, shall be permitted to enter the Union accompanied by a declaration corresponding to a private attestation defined in Article 2, point (9), of Commission Delegated Regulation (EU) 2022/2292 ( 11 ).
+
+4\. The declaration referred to in paragraph 3, shall:
+
+(a) only accompany consignments of composite products where the final destination of the composite products is in the Union;
+
+(b) be prepared and signed by the food business operator as defined in Article 3, point (3), of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 12 ), responsible for entry into the Union of the consignment of composite products, attesting that the composite products in the consignment comply with the requirements laid down in paragraph 1 or 2, or both.
+
+### TITLE 7 — SPECIAL RULES FOR ENTRY INTO THE UNION OF PRODUCTS OF ANIMAL ORIGIN INTENDED FOR PERSONAL USE
+
+###### Article 164 — Derogation from animal health requirements and additional requirements for entry of infant milk, infant food and special foods intended for personal use
+
+By way of derogation from the requirements laid down in Articles 3 to 10 of Part I and Articles 120 to 163, consignments of powdered infant milk, infant food and special foods required for medical reasons, containing products of animal origin which do not comply with those requirements shall be permitted to enter the Union if those products:
+
+(a) are intended for personal use;
+
+(b) do not exceed a combined quantity of 2 kilogramme per person;
+
+(c) do not require refrigeration before opening;
+
+(d) are packaged proprietary brand products for direct sale to the final consumer;
+
+(e) maintain the packaging unbroken, unless in current use.
+
+###### Article 165 — Derogation from animal health requirements for products of animal origin intended for personal use originating from certain third countries or territories or zones thereof
+
+1\. By way of derogation from requirements laid down in Articles 3 to 10 of Part I, except point (a)(i) of Article 3, and Articles 120 to 163, consignments of products of animal origin which do not comply with those requirements shall be permitted to enter the Union if those products are intended for personal use and originate from third countries or territories listed for entry into the Union of specific quantities of products of animal origin intended for personal use based on specific agreements with the Union on trade in agricultural products.
+
+2\. The combined specific quantity allowed to enter the Union accompanying a person shall not exceed the maximum specified for the third country or territory in the list.
+
+## PART V — ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION AS REFERRED TO IN ARTICLES 3 AND 5 OF AQUATIC ANIMALS OF LISTED SPECIES AND THEIR PRODUCTS OF ANIMAL ORIGIN, AND FOR THEIR MOVEMENT AND HANDLING AFTER THE ENTRY
+
+### TITLE 1 — GENERAL ANIMAL HEALTH REQUIREMENTS FOR ENTRY INTO THE UNION OF THE AQUATIC ANIMALS REFERRED TO IN ARTICLE 1(6) AND THEIR PRODUCTS
+
+###### Article 166 — Inspection of aquatic animals prior to dispatch
+
+Consignments of aquatic animals other than those referred to in points (d), (e) and (f) of Article 172 shall only be permitted to enter the Union if those aquatic animals have been subjected to a clinical inspection by an official veterinarian in the exporting third country or territory, zone or compartment thereof within a period of 72 hours prior to the time of loading for dispatch of the consignment to the Union for the purpose of detection of symptoms of disease and abnormal mortalities.
+
+However, the clinical inspection referred to in the first paragraph may be performed by an aquatic animal health professional, provided that the aquatic animal health professional is authorised to undertake that activity by the third country or territory concerned under its national law.
+
+###### Article 167 — Dispatch to the Union of aquatic animals
+
+Consignments of aquatic animals shall only be permitted to enter the Union if the aquatic animals of the consignment comply with the following requirements:
+
+(a) other than in the case of the aquatic animals referred to in of Article 172, points (d), (e) and (f), they were dispatched directly from their place of origin to the Union;
+
+(b) they were not unloaded from their container when transported by air, sea, railway or by road, and the water in which they are transported was not changed, in a third country or territory, zone or compartment which is not listed for entry of the particular species and category of aquatic animals into the Union;
+
+(c) they have not been transported under conditions that have jeopardised their health status, in particular:
+
+(i) where relevant, they must have been loaded and transported in water which did not alter their health status;
+
+(ii) the means of transport and the containers must have been constructed in such a way that the health status of the aquatic animals was not jeopardised during the transport;
+
+(iii) the container or well boat must have been cleaned and disinfected, in accordance with a protocol and with products approved by the competent authority of the third country or territory of origin, prior to loading for dispatch to the Union, which ensure that the health status of the aquatic animals is not jeopardised during transport;
+
+(d) from the time of loading at the place of origin until the time of arrival in the Union, they must not have been transported in the same water or container or well-boat together with aquatic animals which were of a lower health status or which were not intended for entry into the Union;
+
+(e) where a water exchange is necessary in a third country, territory, zone or compartment which is listed for entry of the particular species and category of aquatic animals into the Union, it must not have jeopardised the health status of the animals being transported and it must have only occurred:
+
+(i) in the case of transport on land, at water exchange points approved by the competent authority of the third country or territory where the water exchange takes place;
+
+(ii) in the case of transport by well-boat, at a distance which is at least 10 km from any aquaculture establishments which are located en-route from the place of origin to the place of destination in the Union.
+
+###### Article 168 — Transport by vessel of aquatic animals
+
+Other than in the case of the aquatic animals referred to in Article 172, points (d), (e) and (f), where the dispatch to the Union of consignments of aquatic animals includes transport by vessel or well-boat even for part of the journey, those consignments of aquatic animals transported in accordance with Article 167 shall only be permitted to enter the Union if the aquatic animals of the consignment are accompanied by a declaration, attached to the animal health certificate and signed by the master of the vessel on the day of arrival of the vessel at its port of destination, providing the following information:
+
+(a) the port of departure in the third country or territory;
+
+(b) the port of arrival in the Union;
+
+(c) the ports of call, in the case the vessel called at ports outside the third country or territory of origin or zone thereof;
+
+(d) confirmation of compliance of the consignment of aquatic animals with the relevant requirements set out in Article 167 throughout the journey from the port of departure in the third country or territory to the port of arrival in the Union.
+
+###### Article 169 — Specific transport and labelling requirements
+
+1\. Consignments of aquatic animals shall only be permitted to enter the Union if the aquatic animals of the consignment are identified by a legible label on the exterior of the container, or when transported by well-boat, an entry in the vessel’s manifest which refers to the animal health certificate that has been issued for that consignment.
+
+2\. The legible label referred to in paragraph 1 shall also contain at least the following information:
+
+(a) the number of containers in the consignment;
+
+(b) the name of the species present in each container;
+
+(c) the number of animals in each container for each of the species present;
+
+(d) the purpose for which they are intended.
+
+3\. Products of animal origin from aquatic animals other than live aquatic animals, which enter the Union intended for further processing shall comply with the following requirements:
+
+(a) they must be identified by a legible label on the exterior of the container, which refers to the certificate that has been issued for that consignment;
+
+(b) the legible label referred to in point (a) must also contain the following statements, as relevant:
+
+(i) ‘products of animal origin from fish, other than live fish, intended for further processing in the European Union’;
+
+(ii) ‘products of animal origin from molluscs, other than live molluscs, intended for further processing in the European Union’;
+
+(iii) ‘products of animal origin from crustaceans, other than live crustaceans, intended for further processing in the European Union’.
+
+###### Article 170 — Requirements regarding the third country or territory of origin or zone or compartment thereof and the establishment of origin
+
+1\. Consignments of aquatic animals and products of animal origin from aquatic animals other than live aquatic animals shall only be permitted to enter the Union if the aquatic animals and products of animal origin of the consignment come from a third country or territory or zone or compartment thereof which complies with the following requirements:
+
+(a) it must be free from the following listed diseases:
+
+(i) category A diseases and category B diseases of aquatic animals;
+
+(ii) relevant category C diseases when the aquatic animals or products of animal origin are destined for Member States, zones or compartments which have disease-free status or an approved eradication programme for the specific diseases;
+
+(iii) category C diseases in all cases when the aquatic animals are intended for release into the wild;
+
+(iv) diseases for which certain Member States have taken the national measures referred to in Article 175 of this Regulation, when a consignment contains relevant species listed in Annex XXIX hereto and it is destined for a Member State, zone or compartment which is listed in Annex I or II to Commission Implementing Decision (EU) 2021/260 ( 13 );
+
+(b) all the entries of aquatic animals of listed species into the third country or territory, zone or compartment exporting to the Union must originate from a different third country or territory or zone or compartment thereof which is free from the diseases referred to in point (a);
+
+(c) vaccination of aquatic animals of listed species against category A diseases, category B or where relevant category C diseases, has not been carried out in the third country or territory of origin.
+
+2\. Consignments of aquaculture animals and products of animal origin from aquaculture animals other than live aquaculture animals, shall only be permitted to enter the Union if the aquaculture animals and products of animal origin of the consignment come from an establishment which is:
+
+(a) registered in accordance with requirements which are at least as stringent as to those laid down in Section 1 of Chapter 1, Title II of Part IV of Regulation (EU) 2016/429;
+
+or
+
+(b) approved in accordance with requirements which are at least as stringent as to those laid down in Section 2 of Chapter 1, Title II of Part IV of Regulation (EU) 2016/429 and Title I of Part II of Commission Delegated Regulation (EU) 2020/691 ( 14 ).
+
+###### Article 171 — Vector species
+
+1\. Aquatic animals of the species listed in column 4 of the table in the Annex to Implementing Regulation (EU) 2018/1882, shall only be regarded as vectors of those diseases under the conditions set out in Annex XXX.
+
+2\. Products of animal origin from aquatic animals other than live aquatic animals of the species listed in column 4 of the table in the Annex to Implementing Regulation (EU) 2018/1882, shall not be regarded as vectors of the diseases listed in that Annex when they enter the Union.
+
+###### Article 172 — Derogations for certain categories of aquatic animals of listed species
+
+By way of derogation from Article 170(1), the requirements laid down in that Article shall not apply to the following categories of aquatic animals:
+
+(a) aquatic animals which are destined for a disease control aquatic food establishment where they are to be processed for human consumption;
+
+(b) aquatic animals intended for research purposes which are destined for confined establishments which have been approved for that purpose by the competent authority of the Member State of destination;
+
+(c) wild aquatic animals other than those referred to in point (b) of this Article provided that they have been subject to quarantine in a quarantine establishment which has been approved for that purpose by the competent authority in:
+
+(i) the third country of origin; or
+
+(ii) the Union;
+
+(d) molluscs or crustacea which are packed and labelled for human consumption in accordance with Regulation (EC) No 853/2004 and which are no longer able to survive as living animals if returned to the aquatic environment;
+
+(e) molluscs or crustacea which are packaged and labelled for human consumption in accordance with Regulation (EC) No 853/2004 and which are intended for further processing without temporary storage at the place of processing;
+
+(f) live bivalve molluscs or crustacea which are intended for human consumption without further processing, provided that they are packaged for retail sale in compliance with the provisions of Regulation (EC) No 853/2004.
+
+###### Article 173 — Derogations for certain products of animal origin from aquatic animals other than live aquatic animals
+
+By way of derogation from Article 170(1), the requirements laid down in that Article shall not apply to the following products of animal origin from aquatic animals, other than live aquatic animals:
+
+(a) products of animal origin from aquatic animals, other than live aquatic animals, which are destined for a disease control aquatic food establishment where they are to be processed for human consumption;
+
+(b) fish intended for human consumption after further processing in the Union which were slaughtered and eviscerated prior to dispatch to the Union.
+
+###### Article 174 — Handling of aquatic animals and products of animal origin from aquatic animals other than live aquatic animals after entry into the Union
+
+1\. After their entry into the Union, consignments of:
+
+(a) aquatic animals other than those referred to in Article 172, points (d), (e), and (f), shall be transported directly to their place of destination in the Union;
+
+(b) aquatic animals and products of animal origin from aquatic animals shall be handled appropriately to ensure that natural waters are not contaminated.
+
+2\. Aquatic animals and products of animal origin from aquatic animals other than live aquatic animals which have entered the Union shall not be released by the operator or otherwise immersed in natural waters within the Union, unless authorised by the competent authority of the Member State in which that release or immersion takes place.
+
+3\. The competent authority of the Member State may only grant the authorisation provided for in paragraph 2 of this Article where the release or immersion in natural waters does not jeopardise the health status of the aquatic animals at the place of release or immersion and in all cases, release into the wild shall comply with the requirement laid down in Article 170(1)(a)(iii).
+
+4\. Transport water from consignments of aquatic animals shall be handled appropriately by the operator to prevent contamination of natural waters in the Union.
+
+### TITLE 2 — ANIMAL HEALTH REQUIREMENTS TO LIMIT THE IMPACT OF CERTAIN DISEASES OTHER THAN THOSE WHICH ARE REFERRED TO IN ARTICLE 9(1), POINT (D), OF REGULATION (EU) 2016/429
+
+###### Article 175 — Additional animal health requirements to limit the impact of diseases for which Member States have national measures approved in accordance with Article 226(3) of Regulation (EU) 2016/429
+
+1\. The competent authorities of Member States that have national measures approved in accordance with Article 226(3) of Regulation (EU) 2016/429, against diseases other than the listed diseases which are referred to in Article 9(1)(d) of that Regulation, shall take measures to prevent the introduction of those diseases through the application of additional animal health requirements for the entry into those Member States, of consignments of aquatic animals and products of animal origin from aquatic animals other than live aquatic animals, of species listed in the second column of the table set out in Annex XXIX to this Regulation.
+
+2\. The competent authority referred to in paragraph 1 shall only permit the entry into their Member State of consignments of aquatic animals of species which are susceptible to the diseases referred to in paragraph 1 when vaccination against those diseases has not been carried out in the third country or territory of origin.
+
+3\. The competent authority referred to in paragraph 1 shall ensure that aquatic animals of the species referred to in paragraph 2 which are introduced into a third country or territory of origin or zone or compartment thereof shall originate from another third country, zone or compartment which is also free of the relevant disease.
+
+4\. The derogations provided for in Articles 172 and 173 shall apply to those aquatic animals and products of animal origin from aquatic animals which are referred to in paragraph 2 and which are destined for Member States which have national measures against the diseases referred to in paragraph 1 of this Article.
+
+5\. Handling after entry into the Union of the aquatic animals referred to in paragraph 2 of this Article and products from those animals, shall comply with the conditions set out in Article 174.
+
+## PART VI — SPECIAL RULES FOR ENTRY OF CERTAIN COMMODITIES AS REFERRED TO IN ARTICLES 3 AND 5 FOR WHICH THE UNION IS NOT THE FINAL DESTINATION AND FOR ENTRY OF CERTAIN COMMODITIES ORIGINATING FROM AND RETURNING TO THE UNION
+
+###### Article 176 — Requirements for transit through the Union
+
+1\. Consignments of animals, germinal products and products of animal origin falling within the scope of this Regulation not originating from but transiting through the Union and intended for a destination outside the Union shall only be permitted to transit through the Union if, either:
+
+(a) they comply with all the relevant requirements for entry into the Union of the particular species and category of animals, germinal products or products of animal origin in question laid down in Parts I to V; or
+
+(b) they fall within the scope of specific conditions, specifically assigned by the Union in the list to the listed third country or territory or zone of origin and to the particular species and category of animals, germinal products and products of animal origin, to mitigate any potential animal health risk involved in such movements.
+
+2\. Consignments of animals, germinal products and products of animal origin falling within the scope of this Regulation originating and returning to the Union after transiting through a third country or territory or zone thereof shall only be permitted to re-enter the Union if they comply with all the relevant requirements for the particular category of animals, germinal products or products of animal origin in question for entry into the Union laid down in Parts I to V, unless they fall within the scope of either:
+
+(a) the additional requirements laid down in Articles 177 to 182;
+
+or
+
+(b) specific conditions, specifically assigned by the Union in the list to the listed third country or territory or zone of transit and to the particular species and category of animals, germinal products and products of animal origin, to mitigate any potential animal health risk involved in such movements.
+
+3\. The specific conditions referred to in paragraph 1(b) and paragraph 2(b) shall be set out and assigned to the third country or territory of or zone thereof based on a risk assessment and taking into account the following:
+
+(a) the criteria laid down in Article 230 of Regulation (EU) 2016/429;
+
+(b) the particular species and category of animals, germinal products and products of animal origin intended for transit and the related animal health risks;
+
+(c) geographical constraints;
+
+(d) established trade routes;
+
+(e) other relevant factors.
+
+###### Article 177 — Additional requirements for the entry into the Union of certain ungulates which originate in the Union, are moved to a third country or territory or zone thereof to participate in events, exhibitions, displays and shows and which are then moved back to the Union
+
+1\. Consignments of registered horses temporarily exported from a Member State to third countries or territories or zones thereof listed for entry of equine animals into the Union shall be permitted to enter the Union provided they comply with the following additional requirements:
+
+(a) they have been outside the Union for a period specified by the Commission for the different purposes, not exceeding 90 days;
+
+(b) they have been kept in isolation in the third country or territory or zone thereof except during races, competitions or cultural events, and the related activities (including training, warm-up and presentation);
+
+(c) they have been kept only in third countries or territories or zones thereof belonging to the same sanitary group to which the third country or territory of dispatch to the Union is assigned, in accordance with the specific requirements of Part B of Annex XI, and they were moved into the third country or territory or directly into the zone of dispatch under conditions at least as strict as if they were moved directly to the Union.
+
+2\. By way of derogation from paragraph 1(c), the entry into the Union of registered horses after temporary export to third countries or territories or zones thereof belonging to more than one sanitary group shall be authorised for registered horses which have participated exclusively in specified high level competitions or races.
+
+3\. By way of derogation from Article 11, consignments of bovine, ovine and caprine animals that originate in the Union and are moved for a period not exceeding 15 days to a third country or territory or zone thereof to participate in events, exhibitions, displays or shows (‘the event’), shall be permitted to enter the Union from that third country or territory provided that they comply with the following conditions:
+
+(a) the third country or territory or zone thereof where the event takes place is listed for the entry into the Union of the specific species of animals;
+
+(b) the establishment where the event takes place:
+
+(i) complies with the requirements applicable to establishments conducting assembly operations of ungulates laid down in Article 20(2), point(b);
+
+(ii) upon the arrival of the consignment at the establishment and for the entire duration of the event, only keeps bovine, ovine or caprine animals that comply with all the relevant requirements laid down in Union law for the entry into the Union of such animals;
+
+(c) the dispatch of the consignment of animals from the Union to the establishment referred to in point (b) and from that establishment to the Union is carried out in means of transport that comply with the general requirements regarding means of transport of terrestrial animals laid down in Article 17 and without unloading in any other third country or territory or zone thereof;
+
+(d) the animals of the consignment had no contact with other animals of a lower health status from the moment of loading for dispatch from the Union to the establishment referred to in point (b) and for all the duration of the event until their arrival back to the Union.
+
+###### Article 178 — Special requirements for entry into the Union of ungulates, poultry, captive birds and aquatic animals originating from, and returning to the Union following a refusal of entry by a third country or territory
+
+1\. Consignments of ungulates, poultry, captive birds and aquatic animals originating from and returning to the Union following a refusal of entry by the competent authority of a third country or territory shall only be permitted to re-enter the Union if the following requirements are fulfilled:
+
+(a) the refusing third country or territory is a third country or territory or zone thereof listed for entry into the Union of the species and category of animals which are returning;
+
+(b) the animals referred to in point (a) did not transit through a third country or territory or zone thereof other than those referred to in point (a);
+
+(c) the animals are accompanied by the following documents:
+
+(i) the original animal health certificate issued by the competent authority of the Member State, or its electronic equivalents submitted in IMSOC, or an authenticated copy of the official animal health certificate provided by the competent authority of the Member State of origin;
+
+(ii) one of the following:
+
+— an official declaration of the competent authority or other public authority of the third country or territory, indicating the reason for the refusal and if applicable, confirming that the requirements of point (d) have been complied with,
+
+or
+
+— in the case of sealed consignments with an intact original seal, a declaration by the operator responsible for the consignment confirming that transport has taken place in accordance with point d(ii) and where required point d(iii);
+
+(iii) a declaration from the competent authority of the Member State of origin that it agrees to accept the consignment and indicating the place of destination for its return;
+
+(d) where they have been unloaded in the third country or territory or zone thereof, the competent authority of the third country or territory shall certify the following:
+
+(i) it authorised and supervised the unloading of the animals directly to facilities suitable for their isolation and temporary handling within the premises of the border control post of the third country or territory;
+
+(ii) effective measures were put in place to avoid direct and indirect contact between the animals of the consignment and any other animals;
+
+(iii) where necessary, effective protection from vectors of relevant animal diseases were provided for.
+
+2\. The transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Delegated Regulation (EU) 2019/1666.
+
+###### Article 179 — Special requirements for the entry into the Union of animals other than ungulates, poultry, captive birds and aquatic animals originating from, and returning to the Union following a refusal of entry by a third country or territory
+
+1\. Consignments of animals other than ungulates, poultry, captive birds and aquatic animals originating from and returning to the Union following a refusal of entry by the competent authority of a third country or territory shall only be permitted to re-enter the Union if the animals of the consignment are accompanied by the following documents:
+
+(a) the original animal health certificate issued by the competent authority of the Member State of origin, or its electronic equivalents submitted in IMSOC, or an authenticated copy of the official animal health certificate provided by the competent authority of the Member State of origin;
+
+(b) one of the following:
+
+(i) an official declaration of the competent authority or other public authority of the third country or territory, indicating the reason for refusal;
+
+or
+
+(ii) in the case of sealed consignments or unopened containers, a declaration by the operator responsible for the consignment indicating the reason for refusal.
+
+(c) a declaration from the competent authority of the Member State of origin that it agrees to accept the consignment and indicating the place of destination for its return.
+
+2\. The transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Delegated Regulation (EU) 2019/1666.
+
+###### Article 180 — Special requirements for entry of germinal products and packaged products of animal origin, originating from, and returning to the Union following a refusal of entry by a third country or territory
+
+1\. Consignments of germinal products and packaged products of animal origin, originating from and returning to the Union following a refusal of entry by the competent authority of a third country or territory shall only be permitted to re-enter the Union if the following requirements are fulfilled:
+
+(a) if the germinal products remain in the original container and the packaging of the products of animal origin is intact;
+
+(b) the germinal products and the products of animal origin are accompanied by:
+
+(i) the original animal health certificate issued by the competent authority of the Member State of the place of origin, or its electronic equivalent submitted in IMSOC, or an authenticated copy of the official animal health certificate provided by the competent authority of the Member State of origin;
+
+(ii) one of the following documents indicating the reason for refusal and if applicable the place and date of unloading, storage and re-loading in the third country or territory thereof and confirming that the requirements of point (c) have been complied with:
+
+— a declaration of the competent authority or other public authority of the third country or territory, or
+
+— in the case of containers with an intact original seal, a declaration by the operator responsible for the consignment;
+
+(iii) a declaration from the competent authority of a Member State that it agrees to accept the consignment and indicating the place of destination for its return;
+
+(c) where the germinal products or products of animal origin referred to in points (a) and (b) have been unloaded in the third country or territory thereof, the competent authority of the third country or territory shall certify the following:
+
+(i) the germinal products or products of animal origin did not undergo any other handling except unloading, storage and re-loading;
+
+(ii) effective measures were put in place to avoid the contamination of the container where the germinal products are placed or the packaging of products of animal origin with pathogens of listed diseases during the unloading, storage and re-loading.
+
+2\. The transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Delegated Regulation (EU) 2019/1666.
+
+###### Article 181 — Special requirements for entry of unpackaged or in bulk products of animal origin, originating from, and returning to the Union following a refusal of entry by a listed third country or territory
+
+1\. Consignments of unpackaged or in bulk products of animal origin originating from and returning to the Union following a refusal of entry by the competent authority of a listed third country or territory shall only be permitted to re-enter the Union if the following requirements are fulfilled:
+
+(a) the refusing third country or territory is listed for the entry into the Union of the particular species and category of products of animal origin which are being returned to the Union;
+
+(b) the products of animal origin are accompanied by:
+
+(i) the original animal health certificate issued by the competent authority of the Member State of origin, or its electronic equivalents submitted in IMSOC, or an authenticated copy of the official certificate provided by the competent authority of the Member State of origin;
+
+(ii) one of the following:
+
+— an official declaration of the competent authority or other public authority of the third country or territory, indicating the reason for refusal and confirming that the seal on the vehicle or container of the consignment was only opened for official purposes and the products were handled only to the smallest extent necessary for those purposes and in particular without unloading them and the vehicle or container was immediately re-sealed afterwards, or
+
+— in the case of sealed consignments, a declaration by the operator responsible for the consignment indicating the reason for refusal;
+
+(iii) a declaration from the competent authority of a Member State that it agrees to accept the consignment and indicating the place of destination for its return.
+
+2\. The transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Delegated Regulation (EU) 2019/1666.
+
+###### Article 182 — Special requirements for entry of unpackaged or in bulk products of animal origin, originating from, and returning to, the Union following a refusal of entry by a non-listed third country
+
+1\. Consignments of unpackaged or in bulk products of animal origin originating from and returning to the Union following a refusal of entry by the competent authority of a third country or territory which is not listed for entry into the Union of the particular species and category of products of animal origin which are being returned, shall only be permitted to re-enter the Union if the following requirements are fulfilled:
+
+(a) the consignment is sealed with an intact original seal;
+
+(b) the products of animal origin are accompanied by:
+
+(i) the original animal health certificate issued by the competent authority of the Member State of origin, or its electronic equivalents submitted in IMSOC, or an authenticated copy of the official animal health certificate provided by the competent authority of the Member State of origin;
+
+(ii) one of the following:
+
+— an official declaration of the competent authority or other public authority of the third country or territory, indicating the reason for refusal, or
+
+— a declaration by the operator responsible for the consignment indicating the reason for refusal;
+
+(iii) a declaration from the competent authority of a Member State that they agree to accept the consignment and indicating the place of destination for its return.
+
+2\. The transport to and arrival at the place of the destination of the consignment shall be monitored in accordance with Article 2 and 3 of Delegated Regulation (EU) 2019/1666.
+
+## PART VII — TRANSITIONAL AND FINAL PROVISIONS
+
+###### Article 182a — Transitional measures
+
+1\. Semen collection centres, semen storage centres, embryo collection teams and embryo production teams which have been approved prior to 21 April 2021 in accordance with Council Directives 88/407/EEC ( 15 ), 89/556/EEC ( 16 ), 90/429/EEC ( 17 ) and 92/65/EEC ( 18 ) referred to in the 6th, 7th, 8th and 12th indents of Article 270(2) of Regulation (EU) 2016/429 shall be deemed to be approved germinal product establishments as referred to in Article 82(1) of this Regulation.
+
+In all other respects, they shall be subject to the rules provided for in Article 82(2) of this Regulation, and in Article 233 of Regulation (EU) 2016/429.
+
+2\. Consignments of semen, oocytes and embryos collected, produced, processed and stored prior to 21 April 2021 shall be allowed to enter into the Union, provided they fulfil, as regards the collection, production, processing and storage of germinal products, animal health requirements of donor animals and laboratory and other tests carried out on donor animals and germinal products, the requirements laid down in Directives 88/407/EEC, 89/556/EEC, 90/429/EEC and 92/65/EEC respectively to the species of donor animals.
+
+3\. Straws and other packages in which semen, oocytes or embryos, whether or not separated into individual doses, are placed, stored and transported, marked prior to 21 April 2021 in accordance with Directives 88/407/EEC, 89/556/EEC, 90/429/EEC and 92/65/EEC respectively to the species of donor animals, shall be considered to have been marked in accordance with point (a) of Article 83 of this Regulation.
+
+###### Article 183 — Repeals
+
+The following acts are repealed as from 21 April 2021:
+
+— Commission Regulation (EU) No 206/2010,
+
+— Commission Implementing Regulation (EU) No 139/2013,
+
+— Commission Regulation (EU) No 605/2010,
+
+— Commission Regulation (EC) No 798/2008,
+
+— Commission Decision 2007/777/EC,
+
+— Commission Regulation (EC) No 119/2009,
+
+— Commission Regulation (EU) No 28/2012,
+
+— Commission Implementing Regulation (EU) 2016/759.
+
+###### Article 184 — Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 April 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF DISEASES REQUIRED TO BE NOTIFIED AND REPORTED IN THE EXPORTING THIRD COUNTRY OR TERRITORY**
+
+**1\. TERRESTRIAL ANIMALS**
+
+All the listed diseases referred to in Article 5 of Regulation (EU) 2016/429 and listed in Annex II thereto for the listed species of terrestrial animals in the Annex to Commission Implementing Regulation (EU) 2018/1882.
+
+**2\. GERMINAL PRODUCTS**
+
+**2.1. From ungulates**
+
+— Foot and mouth disease
+
+— Infection with Brucella abortus, B. melitensis and B. suis
+
+— Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis)
+
+— Infection with bluetongue virus (serotypes 1-24)
+
+— Infection with epizootic haemorrhagic disease virus
+
+— Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis
+
+— Bovine viral diarrhoea
+
+— Bovine genital campylobacteriosis
+
+— Trichomonosis
+
+— Enzootic bovine leukosis
+
+— Ovine epididymitis (Brucella ovis)
+
+— Infection with equine arteritis virus
+
+— Equine infectious anemia
+
+— Contagious equine metritis
+
+— Classical swine fever
+
+— Infection with Aujeszky’s disease virus
+
+— Infection with porcine reproductive and respiratory syndrome virus.
+
+**2.2. From poultry and captive birds**
+
+All the listed diseases referred to in Article 5 of Regulation (EU) 2016/429 and listed in Annex II thereto that are relevant for the listed species of poultry and captive birds in the Annex to Commission Implementing Regulation (EU) 2018/1882, from which germinal products authorised to enter the Union are obtained.
+
+**3\. PRODUCTS OF ANIMAL ORIGIN FROM UNGULATES, POULTRY AND WILD GAME BIRDS**
+
+**3.1. Fresh meat from ungulates**
+
+— Foot and mouth disease
+
+— Infection with rinderpest virus
+
+— Infection with Rift Valley fever virus
+
+— Sheep pox and goat pox
+
+— Peste des petits ruminants
+
+— Classical swine fever
+
+— African swine fever
+
+**3.2. Fresh meat from poultry and wild game birds**
+
+— Highly pathogenic avian influenza
+
+— Infection with Newcastle disease virus
+
+**3.3. Meat products from ungulates**
+
+— Foot and mouth disease
+
+— Infection with rinderpest virus
+
+— Classical swine fever
+
+— African swine fever
+
+**3.4. Meat products from poultry and wild game birds**
+
+— Highly pathogenic avian influenza
+
+— Infection with Newcastle disease virus
+
+**3.5. Milk, colostrum, dairy products and colostrum-based products**
+
+— Foot and mouth disease
+
+— Infection with rinderpest virus
+
+**4\. AQUATIC ANIMALS AND PRODUCTS OF ANIMAL ORIGIN FROM AQUATIC ANIMALS**
+
+— Epizootic haematopoietic necrosis
+
+— Viral haemorrhagic septicaemia
+
+— Infectious haematopoietic necrosis
+
+— Infection with highly polymorphic region (HPR) deleted infectious salmon anaemia virus
+
+— Koi herpes virus
+
+— Infection with Mikrocytos mackini
+
+— Infection with Perkinsus marinus
+
+— Infection with Bonamia ostreae
+
+— Infection with Bonamia exitiosa
+
+— Infection with Marteilia refringens
+
+— Infection with Taura syndrome virus
+
+— Infection with yellow head virus
+
+— Infection with white spot syndrome virus.
+
+## ANNEX II
+
+**MINIMUM INFORMATION FOR DISEASE SURVEILLANCE PROGRAMMES**
+
+**(referred to in Article 10)**
+
+The submission of a disease surveillance programme must include at least the following information:
+
+(a) a description of the epidemiological situation of the disease before the date the surveillance programme began to be implemented, and data on the epidemiological evolution of the disease;
+
+(b) the targeted animal population, epidemiological units and zones of the surveillance programme;
+
+(c) a description of:
+
+(i) the organisation of the competent authority;
+
+(ii) how the implementation of the surveillance programme is supervised;
+
+(iii) the official controls to be applied during the implementation of the programme;
+
+(iv) the role of all relevant operators, animal health professionals, veterinarians, animal health laboratories and other natural or legal person concerned;
+
+(d) a description and demarcation of the geographical and administrative areas in which the surveillance programme is to be implemented;
+
+(e) the indicators to measure the progress of the programme;
+
+(f) the diagnostic methods to be used, the number of samples to be tested, and the frequency of testing and sampling patterns;
+
+(g) the risk factors to be considered for the design of risk-based targeted surveillance.
+
+## ANNEX III
+
+**Table 1**
+
+**Requirements as regards the residency periods for ungulates, honeybees and bumblebees before their entry into the Union**
+
+<table>
+<tbody><tr><td>Species and category of animals</td><td>Minimum residency period in the third country or territory of origin or zone thereof, as referred to Article 11(b)(i)</td><td>Minimum residency period in the establishment of origin, as referred to in Article 11(b)(ii)</td><td>Minimum period without contact with animals of a lower health status as referred to in Article 11(b)(iii)</td></tr>
+<tr><td>Bovine, ovine, caprine and porcine animals</td><td>6 months or since birth, if the animals are less than 6 months of age</td><td>40 days, or since birth, if the animals are less than 40 days of age</td><td>30 days, or since birth, if the animals are less than 30 days of age</td></tr>
+<tr><td>Bovine, ovine, caprine and porcine animals intended for slaughter</td><td>3 months, or since birth if the animals are less than 3 months of age</td><td>40 days, or since birth, if the animals are less than 40 days of age</td><td>30 days, or since birth, if the animals are less than 30 days of age</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Equine animals not intended for slaughter</td><td>40 days or since birth, if the animals are less than 40 days of age, or since entry from the Union</td><td>30 days (40 days from African horse sickness risk areas) or since birth, if the animals are less than 30 days (40 days) of age, or since entry from the Union</td><td>15 days</td></tr>
+<tr><td>Registered horses</td><td>40 days or since birth if the animals are less than 40 days of age or since entry from the Union or certain listed third countries</td><td>30 days (40 days from African horse sickness risk areas) or since birth, if the animals are less than 30 days (40 days) of age, or since entry from the Union or certain listed third countries</td><td>15 days</td></tr>
+<tr><td>Registered horses re-entering after temporary export for competition, races or cultural equestrian events</td><td>up to 30 days or up to 90 days in case of specific competitions, races or cultural equestrian events</td><td>Not established</td><td>During the entire period of temporary export</td></tr>
+<tr><td>Equine animals intended for slaughter</td><td>90 days</td><td>30 days (40 days from African horse sickness risk areas)</td><td>30 days (40 days from African horse sickness risk areas)</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Ungulates other than bovine, ovine, caprine, porcine and equine animals</td><td>6 months or since birth, if the animals are less than 6 months of age</td><td>40 days, or since birth, if the animals are less than 40 days of age</td><td>6 months or since birth, if the animals are less than 6 months of age</td></tr>
+<tr><td>Honeybees and bumblebees</td><td>Since hatching</td><td>Since hatching</td><td>Since hatching</td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Requirements as regards the residency periods of poultry and captive birds before their entry into the Union**
+
+<table>
+<tbody><tr><td>Category of birds</td><td>The residency period applies to</td><td>Minimum residency period in the third country or territory of origin or zone thereof, as referred to Article 11(b)(i)</td><td>Minimum residency period in the establishment of origin, as referred to Article 11(b)(ii)</td><td>Minimum period without contact with animals of a lower health status as referred to in Article 11(b)(iii)</td></tr>
+<tr><td>Breeding poultry</td><td>AC</td><td>3 months or since hatching, if the animals are less than 3 months of age</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Productive poultry for the production of meat, eggs for consumption and other products</td><td>AC</td><td>3 months, or since hatching, if the animals are less than 3 months of age</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Productive poultry for restocking supplies of game birds</td><td>AC</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td><td>30 days, or since hatching</td><td>30 days, or since hatching</td></tr>
+<tr><td>Poultry intended for slaughter</td><td>AC</td><td>6 weeks, or since hatching, if the animals are less than 6 weeks of age</td><td>30 days, or since hatching</td><td>30 days, or since hatching</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td rowspan="3">Day-old chicks</td><td>AC</td><td>Since hatching</td><td>Since hatching</td><td>Since hatching</td></tr>
+<tr><td>FO</td><td>3 months prior to the date of collection of the eggs from which the day-old chicks have hatched</td><td>6 weeks prior to the date of collection of the eggs from which the day-old chicks have hatched</td><td>—</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Less than 20 breeding poultry, productive poultry and poulry intended for slaughter other than ratites</td><td>AC</td><td>3 months, or since hatching, if the animals are less than 3 months of age</td><td>3 weeks, or since hatching, if the animals are less than 3 weeks of age</td><td>3 weeks, or since hatching, if the animals are less than 3 weeks of age</td></tr>
+<tr><td rowspan="2">Less than 20 day-old chicks other than ratites</td><td>AC</td><td>Since hatching</td><td>Since hatching</td><td>Since hatching</td></tr>
+<tr><td>FO</td><td>3 months</td><td>3 weeks</td><td>3 weeks prior to the date of collection of the eggs from which the day-old chicks have been hatched</td></tr>
+<tr><td>Captive birds</td><td>AC</td><td>NA</td><td>3 weeks or since hatching</td><td>3 weeks, or since hatching, if the animals are less than 3 weeks of age</td></tr>
+<tr><td colspan="5">AC = Animals of the consignment FO = Flock of origin  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**PART A**
+
+1\. Minimum periods of disease freedom of the third country or territory of origin or zone thereof, as provided for in Article 22(1) for ungulates other than equine animals:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates other than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>12 months</td><td>12 months</td><td>12 months</td><td>NA</td><td>12 months</td><td>12 months</td><td>12 months</td></tr>
+<tr><td>Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>12 months</td></tr>
+<tr><td>Infection with peste des petits ruminants virus</td><td>NA</td><td>12 months</td><td>12 months</td><td>NA</td><td>12 months</td><td>12 months</td><td>NA</td></tr>
+<tr><td>Sheep pox and goat pox</td><td>NA</td><td>12 months</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Contagious caprine pleuropneumonia</td><td>NA</td><td>12 months</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td><td>12 months</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 months (*2)</td><td>NA</td><td>NA</td><td>12 months</td></tr>
+<tr><td>Infection with lumpy skin disease virus</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  or specific conditions are provided by the competent authority of the third country or territory in accordance with Part B as provided for in Article 22(3)  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+2\. Minimum periods of disease freedom of the third country or territory of origin or zone thereof in accordance with Article 22(2)(a) for equine animals:
+
+| African horse sickness | 24 months |
+| --- | --- |
+
+3\. Minimum periods during which disease has not been reported in the third country or territory of origin or zone thereof in accordance with Article 22(2)(b) for equine animals:
+
+<table>
+<tbody><tr><td>Venezuelan equine encephalomyelitis</td><td>24 months</td></tr>
+<tr><td>Infection with Burkholderia mallei (Glanders)</td><td>36 months (*1)</td></tr>
+<tr><td>Dourine</td><td>24 months (*1)</td></tr>
+<tr><td>Surra (Trypanosoma evansi)</td><td>24 months (*1)</td></tr>
+<tr><td colspan="2">(*1)  or specific conditions are provided by the competent authority of the third country or territory in accordance with Part B as provided for in Article 22(3) </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+Specific conditions to be provided by the competent authority of the third country or territory where the third country or territory or zone thereof has been free from certain diseases for less than the period set out in the table in Part A of this Annex as referred to in Article 22(3):
+
+<table>
+<tbody><tr><td>Foot and mouth disease</td><td>Supplementary information to determine the date from which the third country or territory or zone thereof is considered to be free from foot and mouth disease.</td></tr>
+<tr><td>Classical swine fever</td><td>(a) supplementary information to determine the date from which the third country or territory or zone thereof is considered to be free from classical swine fever; (b) the animals intended for entry into the Union have reacted negatively to a test for the detection of classical swine fever, carried out within a period of 30 days prior to the date of dispatch to the Union. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Infection with Burkholderia mallei (Glanders)</td><td>(a) the disease was not reported in the establishment of origin during the last six months prior to the date of dispatch to the Union; (b) the Commission has recognised the surveillance programme carried out to demonstrate the absence of infection in the establishment of origin during that period of six months. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Dourine</td><td>(a) the disease not reported in the establishment of origin for a period at least 6 months prior to the date of dispatch to the Union; (b) the Commission has recognised the surveillance programme carried out to demonstrate the absence of infection in the establishment of origin during that period of 6 months. </td></tr>
+<tr><td>Surra (Trypanosoma evansi)</td><td>(a) the disease has not been reported in the establishment of origin for a period of at least the 6 months prior to the date of dispatch to the Union; (b) the Commission has recognised the surveillance programme carried out to demonstrate the absence of infection in the establishment of origin during that period of 6 months. </td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+1\. Requirements as regards the absence of vaccination for the third country or territory of origin or zone thereof and for the ungulates other than equine animals as referred to in Article 22(4)(a):
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td></tr>
+<tr><td>Rift Valley fever virus</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td><td>NA</td><td>NV/NVA</td><td>NV/NVA</td><td>NV/NVA</td></tr>
+<tr><td>Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)</td><td>NV/NVA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NV/NVA</td></tr>
+<tr><td>Infection with peste des petits ruminants virus</td><td>NA</td><td>NV/NVA</td><td>NV/NVA</td><td>NA</td><td>NV/NVA</td><td>NV/NVA</td><td>NA</td></tr>
+<tr><td>Sheep pox and goat pox</td><td>NA</td><td>NV/NVA</td><td>NV/NVA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Contagious caprine pleuropneumonia</td><td>NA</td><td>NV/NVA</td><td>NV/NVA</td><td>NA</td><td>NA</td><td>NA</td><td>NV/NVA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>NV/NVA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with lumpy skin disease virus</td><td>NVA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  NV = for a period of at least 12 months prior to the date of dispatch to the Union, no vaccination has been carried out in the third country, territory or zone and no vaccinated animals entered into the third country territory or zone  NVA = the animals intended for the entry into the Union have not been vaccinated  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+2\. Requirements as regards the absence of vaccination for the third country or territory of origin or zone thereof and for the equine animals as referred to in Article 22(4)(b):
+
+| African horse sickness | — No vaccination has been carried out in the third country or territory of origin, or zone thereof during the last 12 months prior to the date of dispatch to the Union and the equine animals have not been vaccinated at least in the last 40 days prior to the date of dispatch to the Union |
+| --- | --- |
+
+## ANNEX V
+
+**REQUIREMENTS FOR ENTRY INTO THE UNION AS REGARDS THE DISEASE FREEDOM OF THE THIRD COUNTRY OR TERRITORY OF ORIGIN OR ZONE THEREOF FROM INFECTION WITH MYCOBACTERIUM TUBERCULOSIS COMPLEX (M. BOVIS, M.CAPRAE, M. TUBERCULOSIS) AND INFECTION WITH BRUCELLA ABORTUS, B. MELITENSIS AND B. SUIS**
+
+**1\. INFECTION WITH MYCOBACTERIUM TUBERCULOSIS COMPLEX (M. BOVIS, M.CAPRAE AND M. TUBERCULOSIS) (AS REFERRED TO IN ARTICLE 22(5))**
+
+**1.1. Bovine animals**
+
+Where bovine animals do not originate from a third country or territory or zone thereof free of Mycobacterium tuberculosis complex (M. bovis, M.caprae, M. tuberculosis) as regards bovine animals, they must comply with one of the following requirements:
+
+(a) they have been tested using one of the diagnostic methods provided for in Part 2 of Annex I to Delegated Regulation (EU) 2020/688 for infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis), with negative results, during the period of 30 days prior to the date of dispatch to the Union; or
+
+(b) they are less than 6 weeks old.
+
+**2\. INFECTION WITH BRUCELLA ABORTUS, B. MELITENSIS AND B. SUIS (AS REFERRED TO IN ARTICLE 22(6))**
+
+**2.1. Bovine animals**
+
+Where bovine animals do not originate from a third country or territory or zone thereof free of Brucella abortus, B. melitensis and B. suis without vaccination as regards bovine animals, they must comply with one of the following requirements:
+
+(a) they have been tested using one of the diagnostic methods provided for in Part 1 of Annex I to Delegated Regulation (EU) 2020/688 for infection with Brucella abortus, B. melitensis and B. suis, with negative results, on a sample taken during the period of 30 days prior to the date of dispatch to the Union and, in the case of post-parturient females, the test has been carried out on a sample taken at least 30 days after parturition; or
+
+(b) they are less than 12 months old; or
+
+(c) they are castrated.
+
+**2.2. Ovine and caprine animals**
+
+Where ovine and caprine animals do not originate from a third country or territory or zone thereof free of Brucella abortus, B. melitensis and B. suis without vaccination as regards ovine and caprine animals, they must comply with one of the following requirements:
+
+(a) they have been tested using one of the diagnostic methods provided for in Part 1 of Annex I to Delegated Regulation (EU) 2020/688 for infection with Brucella abortus, B. melitensis and B. suis, with negative results, on a sample taken during the period of 30 days prior to the date of dispatch to the Union and, in the case of post-parturient females, the test has been carried out on a sample taken at least 30 days after parturition; or
+
+(b) they are less than 6 months old; or
+
+(c) they are castrated.
+
+## ANNEX VI
+
+**PART A**
+
+**SPECIFIC CONDITIONS FOR THE ENTRY INTO THE UNION OF UNGULATES AS REGARDS THE DISEASE FREEDOM OF THE THIRD COUNTRY OR TERRITORY OF ORIGIN OR ZONE THEREOF FROM INFECTION WITH BLUETONGUE VIRUS (SEROTYPES 1-24) FOR A PERIOD OF 2 YEARS**
+
+**(AS REFERRED TO IN ARTICLE 22(7))**
+
+Where ungulates of listed species do not originate from a third country or territory or zone thereof free from infection with bluetongue virus (serotypes 1-24), they must originate from a third country or territory or zone thereof which complies with at least one of the following requirements:
+
+(a) the animals have been kept in a third country or territory or zone thereof seasonally free from infection with bluetongue virus (serotypes 1-24) as defined in Delegated Regulation (EU) 2020/689:
+
+(i) for a period of at least 60 days prior to the date of dispatch to the Union; or
+
+(ii) for a period of at least 28 days prior to the date of dispatch to the Union, and have undergone a serological test, with negative results, carried out on samples collected at least 28 days following the date of the animal’s entry into the third country or territory or zone thereof seasonally free from infection with bluetongue virus (serotypes 1-24); or
+
+(iii) for a period of at least 14 days prior to the date of dispatch to the Union, and have undergone a polymerase chain reaction (PCR) test, with negative results, carried out on samples collected at least 14 days following the date of the animal’s entry into the third country or territory or zone thereof that is seasonally free of BTV;
+
+(b) the animals originate from a third country, territory or zone thereof with a surveillance system in place designed and implemented in accordance with Sections 1 and 2 of Chapter 1, Part II of Annex to Delegated Regulation (EU) 2020/689 and have been vaccinated against all the serotypes (1 to 24) of bluetongue virus reported during the preceding 2 years in that third country, territory or zone thereof, and the animals are still within the immunity period of time guaranteed in the specifications of the vaccine, and the animals comply with at least one of the following requirements:
+
+(i) they have been vaccinated more than 60 days prior to the date of dispatch to the Union; or
+
+(ii) they have been vaccinated with an inactivated vaccine and have undergone a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity protection set in the specifications of the vaccine;
+
+(c) the animals originate from a third country, territory or zone thereof with a surveillance system in place designed and implemented in accordance with Sections 1 and 2 of Chapter 1, Part II of Annex to Delegated Regulation (EU) 2020/689 and the animals have undergone, with positive results, a serological test able to detect specific antibodies against all serotypes (1-24) bluetongue virus reported during the preceding 2 years in that third country or territory or zone thereof, and:
+
+(i) the serological test must have been carried out on samples collected at least 60 days prior to the date of movement;
+
+or
+
+(ii) the serological test must have been carried out on samples collected at least 30 days prior to the date of movement and the animals were subjected to a PCR test, with negative results, carried out on samples collected not earlier than 14 days prior to the date of dispatch to the Union.
+
+**PART B**
+
+**SPECIFIC CONDITIONS FOR THE ENTRY INTO THE UNION OF CONSIGNMENTS OF BOVINE ANIMALS AS REGARDS THE DISEASE FREEDOM OF THE THIRD COUNTRY OR TERRITORY OF ORIGIN OR ZONE THEREOF FOR ENZOOTIC BOVINE LEUKOSIS**
+
+**(AS REFERRED TO IN ARTICLE 22(8))**
+
+Where bovine animals do not originate from a third country or territory or zone thereof free of enzootic bovine leukosis, they must come from an establishment where that disease has not been reported during the period of 24 months prior to the date of dispatch to the Union, and:
+
+(a) if the animals are over the age of 24 months, they have been subjected to a laboratory examination for enzootic bovine leukosis using one of the diagnostic methods provided for in Part 4 of Annex I to Delegated Regulation (EU) 2020/688, carried out, with negative results either:
+
+(a) on samples taken on two occasions at an interval of at least 4 months while the animals were kept in isolation from the other bovine animals of the same establishment; or
+
+(b) on a sample taken during the last 30 days prior to their dispatch to the Union, and all bovine animals over 24 months kept in the establishment have been subjected to a laboratory examination for enzootic bovine leucosis with one of the diagnostic methods provided for in Part 4 of Annex I to Delegated Regulation (EU) 2020/688, carried out, with negative results, on samples taken on two occasions at an interval of not less than 4 months during the last 12 months prior to the date of dispatch to the Union;
+
+(b) if the animals are less than 24 months of age, they were born to dams, which have been subjected to a laboratory examination for enzootic bovine leukosis using one of the diagnostic methods provided for in Part 4 of Annex I to Delegated Regulation (EU) 2020/688, carried out, with negative results, on samples taken on two occasions at an interval of not less than 4 months during the period of 12 months prior to the date of dispatch to the Union.
+
+## ANNEX VII
+
+**ADDITIONAL REQUIREMENTS FOR THE ENTRY INTO THE UNION OF UNGULATES AS REGARDS CERTAIN CATEGORY C DISEASES**
+
+**(AS REFERRED TO IN ARTICLE 22(9))**
+
+**1\. INFECTIOUS BOVINE RHINOTRACHEITIS/INFECTIOUS PUSTULAR VULVOVAGINITIS**
+
+**1.1. Bovine animals**
+
+The animals must have not been vaccinated and they must have been kept in quarantine for a period of at least 30 days prior to the date of dispatch to the Union and have undergone a serological test for the detection of antibodies against whole BoHV-1. One of the diagnostic methods provided for in Part 5 of Annex I to Delegated Regulation (EU) 2020/688 must have been used, and a negative result obtained. In addition, the test must have been carried out on a sample collected in the establishment of origin within the period of 15 days prior to the date of dispatch for the Union.
+
+**1.2. Camelid and cervid animals**
+
+Camelid and cervid animals intended for entry into a Member State or zone thereof with disease-free status or with an approved eradication programme regarding infectious bovine rhinotracheitis/infectious pustular vulvovaginitis in bovine animals, must come from an establishment in which infectious bovine rhinotracheitis/infectious pustular vulvovaginitis has not been reported on animals of the same species as the animals of the consignment during the last 30 days prior to dispatch to the Union.
+
+**2\. BOVINE VIRAL DIARRHOEA**
+
+The animals have not been vaccinated against bovine viral diarrhoea and must have been tested for bovine viral diarrhoea virus antigen or genome using one of the diagnostic methods provided for in Part 6 of Annex I to Delegated Regulation (EU) 2020/688, with negative results, and either:
+
+(a) the animals have been kept in an approved quarantine establishment for a period of at least 21 days prior to their departure and, in the case of pregnant dams, they have been subjected to a serological test for the detection of antibodies against bovine viral diarrhoea virus using one of the diagnostic methods provided for in Part 6 of Annex I to Delegated Regulation (EU) 2020/688, with negative results, carried out on samples taken not less than 21 days after commencement of the quarantine; or
+
+(b) the animals have been subjected to a serological test for the detection of antibodies against bovine viral diarrhoea virus using one of the diagnostic methods provided for in Part 6 of Annex I to Delegated Regulation (EU) 2020/688, with positive results, carried out on samples taken either prior to departure or, in the case of pregnant dams, before insemination preceding the current gestation.
+
+**3\. INFECTION WITH AUJESZKY’S DISEASE VIRUS**
+
+The animals have not been vaccinated against infection with Aujeszky’s disease virus and must have been:
+
+(a) kept in an approved quarantine establishment for a period of at least 30 days; and
+
+(b) subjected to a serological test for the detection of antibodies against whole Aujeszky’s disease virus with the diagnostic method provided for in Part 7 of Annex I to Delegated Regulation (EU) 2020/688, with a negative result, carried out on samples taken on two occasions at an interval of not less than 30 days, the last sample taken during the period of 15 days prior to the date of dispatch to the Union.
+
+## ANNEX VIII
+
+**ANIMAL HEALTH REQUIREMENTS AS REGARDS THE ESTABLISHMENT OF ORIGIN OF UNGULATES**
+
+1\. Minimum areas (radius) and periods (prior to dispatch to the Union) without reported disease in the area in and around the establishment of origin of the ungulates other than equine animals, as referred to in Article 23(1)(a)(i):
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with peste des petits ruminants virus</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td></tr>
+<tr><td>Sheep pox and goat pox</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Contagious caprine pleuropneumonia</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with lumpy skin disease virus</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with epizootic haemorrhagic disease virus</td><td>150 km/2 years (*2)</td><td>150 km/ 2 years (*2)</td><td>150 km/ 2 years (*2)</td><td>NA</td><td>150 km/ 2 years (*2)</td><td>150 km/ 2 years (*2)</td><td>150 km/ 2 years (*2)</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  not applicable if the animals originate from a third country, territory or zone recognised as free or seasonally free of the disease in the list of third countries or territories or zones thereof authorised for the entry into the Union of consignments of ungulates.  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+2\. Minimum periods without reported disease in the establishment of origin for ungulates other than equine animals as referred to in Article 23(1)(a)(i):
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Burkholderia mallei (Glanders)</td><td colspan="2">NA</td><td>6 months</td><td>NA</td><td>Same as equine animals (point (4)</td><td colspan="2">NA</td></tr>
+<tr><td>Rabies</td><td colspan="7">30 days</td></tr>
+<tr><td>Surra (Trypanosoma evansi)</td><td>30 days (*2)</td><td>30 days (*2)</td><td>30 days (*2)</td><td>NA</td><td>30 days (*2)</td><td>30 days (*2)</td><td>30 days (*2)</td></tr>
+<tr><td>Anthrax</td><td colspan="7">15 days</td></tr>
+<tr><td>Infection with Aujeszky’s disease virus</td><td colspan="3">NA</td><td>30 days</td><td colspan="3">NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  if the disease was reported in the establishment of origin during the period of 2 years prior to the date of dispatch to the Union, following the last outbreak the affected establishment must have remained under restriction until:  (a) the infected animals were removed from the establishment;  (b) the remaining animals on the establishment underwent, with negative result, a test for surra (Trypanosoma evansi) as described in Part 3 of Annex I to Delegated Regulation (EU) 2020/688 carried out on samples taken at least 6 months after the infected animals were removed from the establishment.  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+3\. Minimum areas (radius) and periods without a reported case or outbreak of equine infectious anaemia in the area in and around the establishment of origin of equine animals as referred to in Article 23(1)(a)(ii):
+
+|  | Area | Period | Requirements to be complied with where there has been an outbreak in the establishment |
+| --- | --- | --- | --- |
+| Equine infectious anaemia | 200 m | 3 months | All the equine animals were isolated until they were subjected a serological test for equine infectious anaemia carried out with negative results on two samples taken after the slaughter of the infected animal and 3 months apart |
+
+4\. Minimum periods without a reported case or outbreak of certain listed diseases in the establishment of origin for equine animals as referred to in Article 23(1), point (a)(ii):
+
+|  | Period | Requirements to be complied with where there has been a previous reported case or outbreak in the establishment |
+| --- | --- | --- |
+| Infection with Burkholderia mallei (Glanders) | 6 months | Where an infection was reported in the establishment during the period of 3 years prior to the date of dispatch to the Union, following the last outbreak the establishment remained under movement restrictions by the competent authority until: — the infected animals were killed and destroyed, and — the remaining animals were subjected to a test carried out as described in point 3.1 of Chapter 3.6.11 of the World Organisation for Animal Health (WOAH) Terrestrial Manual (Version adopted 2018) with negative results on samples taken at least 6 months after the date on which the infected animals were killed and destroyed and the establishment was cleaned and disinfected. |
+| Venezuelan equine encephalomyelitis | 6 months | If they come from an establishment situated in a third country, territory or zone thereof in which Venezuelan equine encephalomyelitis was reported during the period of 2 years prior to the date of dispatch to the Union, they comply with the conditions in the following point (i) and the conditions in either of the following points (ii) or (iii): (i) during the period of at least 21 days prior to date of dispatch to the Union they remained clinically healthy and any animal referred to in point (ii) or (iii) which showed a rise in body temperature, taken daily, was subjected to a diagnostic test for Venezuelan equine encephalomyelitis with the diagnostic method provided for in Part 10(1), point (a), of Annex I to Delegated Regulation (EU) 2020/688, with negative results, and (ii) the animals were kept in isolation in vector-protected establishments for a period of at least 21 days protected from attacks by insect vector, and either — have been vaccinated against Venezuelan equine encephalomyelitis with a complete primary course and revaccinated according to the manufacturer’s recommendations not less than 60 days and not more than 12 months prior to the date of dispatch to the Union, or — were subjected to a test for Venezuelan equine encephalomyelitis with the diagnostic method provided for in Part 10(1), point (b), of Annex I to Delegated Regulation (EU) 2020/688, with negative results, carried out on a sample taken not less than 14 days after the date of introduction into the vector-protected establishments; (iii) the animals were subjected to: — a test for Venezuelan equine encephalomyelitis with the diagnostic method provided for in Part 10(1), point (b), of Annex I to Delegated Regulation (EU) 2020/688, without an increase in antibody titre, carried out on paired samples taken on two occasions with an interval of 21 days, the second of which was taken during a period of 10 days prior to the date of dispatch to the Union, and — a test for the detection of Venezuelan equine encephalomyelitis virus genome with the diagnostic method provided for in Part 10(2) of Annex I to Delegated Regulation (EU) 2020/688, with negative result, carried out on a sample taken within 48 hours prior to the date of dispatch to the Union, and the animals have been protected from attacks by insect vectors after sampling until such dispatch. |
+| Dourine | 6 months | 1. Where an infection was reported in the establishment during the period of 2 years prior to the date of dispatch to the Union, following the last outbreak the establishment remained under movement restriction by the competent authority until: — the infected animals were killed and destroyed or slaughtered, or the infected entire male equine animals were castrated, and — the remaining equine animals in the establishment, with the exception of the castrated male equine animals referred to in first indent of this point were kept apart from female equine animals, were subjected to a test for dourine with the diagnostic method provided for in Part 8 of Annex I to Delegated Regulation (EU) 2020/688 with negative results, carried out on samples taken at least 6 months after the measures described in the first indent of this point were completed. 2. By way of derogation from point 1, where an infection was reported in the establishment during the period of 2 years prior to the date of dispatch to the Union, following the last outbreak the establishment remained under movement restrictions by the competent authority for a period of at least 30 days after the last animal of listed species on the establishment was either killed and destroyed or slaughtered, and premises in the establishment were cleaned and disinfected. |
+| Surra (Trypanosoma evansi) | 6 months | 1. Where infection was reported in the establishment during the period of 2 years prior to the date of dispatch to the Union, the establishment remained under movement restriction by the competent authority until: — the infected animals were removed from the establishment, and — the remaining animals had undergone a test for surra (Trypanosoma evansi) using one of the diagnostic methods provided for in Part 3 of Annex I to Delegated Regulation (EU) 2020/688 with negative results, carried out on samples taken at least 6 months after the last infected animal had been removed from the establishment. 2. By way of derogation from point 1, where infection was reported in the establishment during the period of 2 years prior to the date of dispatch to the Union, the establishment remained under movement restrictions by the competent authority for a period of at least 30 days after the last animal of listed species on the establishment was either killed and destroyed or slaughtered, and premises in the establishment were cleaned and disinfected. |
+| Equine infectious anaemia | 90 days | 1. Where an infection was reported in the establishment during the period of 12 months prior to the date of dispatch to the Union, following the last outbreak the establishment remained under movement restriction by the competent authority until: — the infected animals were killed and destroyed or slaughtered, and — the remaining animals in the establishment were subjected to a test for equine infectious anaemia with the diagnostic method provided for in Part 9 of Annex I to Delegated Regulation (EU) 2020/688 with negative results, carried out on samples taken on two occasions with a minimum interval of 3 months after the measures described in the first indent of this point had been completed and the establishment was cleaned and disinfected. 2. By way of derogation from point 1, where an infection was reported in the establishment during the period of 12 months prior to the date of dispatch to the Union, following the last outbreak the establishment remained under movement restrictions by the competent authority for a period of at least 30 days after the last animal of listed species on the establishment was either killed and destroyed or slaughtered, and premises in the establishment were cleaned and disinfected. |
+| Rabies | 30 days | — |
+| Anthrax | 15 days | — |
+
+## ANNEX IX
+
+**1\. INFECTION WITH MYCOBACTERIUM TUBERCULOSIS COMPLEX (M. BOVIS, M.CAPRAE AND M. TUBERCULOSIS) (AS REFERRED TO IN ARTICLE 23(2))**
+
+<table>
+<tbody><tr><td>Species</td><td>Requirements as regards the establishment of origin</td></tr>
+<tr><td>Bovine animals</td><td>Free as regards bovine animals</td></tr>
+<tr><td>Ovine animals</td><td>In the establsihment, infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis) has not been reported during the last 42 days prior to dispatch to the Union</td></tr>
+<tr><td>Caprine animals</td><td rowspan="3">In the establsihment, surveillance for infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis) has been carried out on animals of the same species as the animals of the consignment kept on the establishments in accordance with the procedures provided for in point 1 and 2 of Part 1 of Annex II to Delegated Regulation (EU) 2020/688 during at least the last 12 months prior to dispatch to the Union and during this period: (a) only animals of the same species as the animals of the consignment from establishments applying the measures provided in the paragraph have been introduced in the establishment;  (b) in case infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis) has been reported in animals of the same species as the animals of the consignment kept on the establishment, measures were taken in accordance with Part 1(3) of Annex II to Delegated Regulation (EU) 2020/688. </td></tr>
+<tr><td>Camelid animals</td></tr>
+<tr><td>Cervid animals</td></tr>
+</tbody>
+</table>
+
+**2\. INFECTION WITH BRUCELLA ABORTUS, B. MELITENSIS AND B. SUIS (AS REFERRED TO IN ARTICLE 23(3))**
+
+| Species | Requirements as regards the establishment of origin |
+| --- | --- |
+| Bovine animals | The establsihment is free without vaccination as regards bovine animals |
+| Ovine animals | The establsihment is free without vaccination as regards ovine and caprine animals |
+| Caprine animals | The establsihment is free without vaccination as regards ovine and caprine animals |
+| Porcine animals | In the establishment, infection with Brucella abortus, B. melitensis and B. suis has not been reported during the last 42 days prior to dispatch to the Union and during the last 12 months prior to dispatch to the Union: (a) biosecurity and risk mitigating measures, including housing conditions and feeding systems, have been applied in the establishment as necessary to prevent transmission of infection with Brucella abortus, B. melitensis and B. suis from wild animals of listed species to porcine animals kept on the establishment and only porcine animals from establishments applying equivalent biosecurity measures have been introduced; or (b) surveillance for infection with Brucella abortus, B. melitensis and B. suis has been carried out on the porcine animals kept on the establishment in accordance with Annex III to Delegated Regulation (EU) 2020/688, and during the same period: — only porcine animals from establishments applying the biosecurity measures or the surveillance measures provided for in points (a) or (b) have been introduced in the establishment, and — in case infection with Brucella abortus, B. melitensis and B. suis has been reported in porcine animals kept on the establishment, measures were taken in accordance with [Part 1(3) of Annex II to Delegated Regulation (EU) 2020/688 |
+| Camelid animals | Infection with Brucella abortus, B. melitensis and B. suis in camelid animals has not been reported during the last 42 days prior to dispatch to the Union, and they have been subjected to a test for the detection of infection with Brucella abortus, B. melitensis and B. suis with one of the diagnostic methods provided for in Part 1 of Annex I to Delegated Regulation (EU) 2020/688, with negative results, carried out on a sample taken during the last 30 days prior to dispatch to the Union, and in the case of post-parturient females, taken at least 30 days after parturition |
+| Cervid animals | Infection with Brucella abortus, B. melitensis and B. suis in cervid animals has not been reported during the last 42 days prior to ddispatch to the Union |
+
+## ANNEX X
+
+**SPECIFIC REQUIREMENTS FOR ENTRY INTO THE UNION OF CERTAIN SPECIES AND CATEGORIES OF UNGULATES AS REGARDS INFECTION WITH BRUCELLA AS REFERRED TO IN ARTICLE 24(5)**
+
+**1\. OVINE ANIMALS**
+
+Uncastrated males of ovine animals, other than those intended for slaughter in the Union, must comply with the following requirements:
+
+(a) they have remained for a continuous period of at least 30 days in an establishment where ovine epididymitis (Brucella ovis) has not been reported during the period of 12 months prior to the date of dispatch to the Union;
+
+(b) they were subjected to a serological test for ovine epididymitis (Brucella ovis), with negative results, during the period of 30 days prior to the date of dispatch to the Union.
+
+**2\. UNGULATES OF THE FAMILY TAYASSUIDAE**
+
+Ungulates of the family Tayassuidae must have undergone a test for the detection of Brucella suis using one of the diagnostic methods provided for in point 2 of Part 1 of Annex I of Delegated Regulation (EU) 2020/688, with negative results, during the period of 30 days prior to the date of dispatch to the Union.
+
+## ANNEX XI
+
+**SPECIFIC REQUIREMENTS FOR EQUINE ANIMALS AS REFERRED TO IN ARTICLE 24(6)**
+
+**1\. SANITARY GROUPS TO WHICH THIRD COUNTRIES, TERRITORIES OR ZONES THEREOF ARE ASSIGNED**
+
+Sanitary group Diseases for which specific requirements are required
+
+A equine infectious anaemia
+
+B equine infectious anaemia, glanders, dourine
+
+C equine infectious anaemia, Venezuelan equine encephalomyelitis
+
+D equine infectious anaemia, glanders, dourine, Venezuelan equine encephalomyelitis, surra
+
+E equine infectious anaemia, glanders, dourine, African horse sickness, surra
+
+F equine infectious anaemia, dourine, African horse sickness
+
+G equine infectious anaemia, glanders, dourine, surra
+
+**2\. SPECIFIC REQUIREMENTS**
+
+**2.1. Specific requirements for African horse sickness**
+
+Equine animals must comply with the set of requirements laid down in one of the following points:
+
+(a) the animals were kept in isolation in vector-protected establishments for a period of at least 30 days prior to the date of dispatch to the Union and a serological and an agent identification test for African horse sickness were carried out with negative result in each case on a blood sample taken not less than 28 days after the date of introduction into the vector-protected establishments and within a period of 10 days prior to the date of dispatch to the Union;
+
+(b) the animals were kept in isolation in vector-protected establishments for a period of at least 40 days prior to the date of dispatch to the Union and serological tests to detect antibodies against African horse sickness virus were carried out with no significant increase in antibody titre on blood samples collected on two occasions, with an interval of not less than 21 days, the first sample being collected at least 7 days after the date of introduction into the vector-protected establishments;
+
+(c) the animals were kept in isolation in vector-protected establishments for a period of at least 14 days prior to the date of dispatch to the Union and an agent identification test for African horse sickness virus was carried out with negative result on a blood sample taken not less than 14 days after the date of introduction into the vector-protected establishments and not more than 72 hours before the time of dispatch to the Union, and constant monitoring of the vector protection has proven absence of insect vectors inside the vector-protected establishments;
+
+(d) there is documented evidence that the animals have been vaccinated against African horse sickness with a complete primary course, and revaccinated according to the manufacturer’s recommendations, with a licensed vaccine against all serotypes of the African horse sickness virus present in the source population at least 40 days prior to entry into the vector-protected establishments, and the animals were kept in isolation in vector-protected establishments for a period of at least 40 days prior to the date of dispatch to the Union;
+
+(e) the animals were kept in isolation in vector-protected establishments for a period of at least 30 days prior to the date of dispatch to the Union and underwent a serological test for the detection of antibodies against the African horse sickness virus, carried out by the same laboratory, on the same day, on blood samples taken during the isolation period in vector-protected establishments on two occasions with an interval of between 21 and 30 days. The second of these must have been taken within a period of 10 days prior to the date of dispatch to the Union, with negative results in each case or with a negative result in an agent identification test for African horse sickness virus on the second sample.
+
+**2.2. Specific requirements for Venezuelan equine encephalomyelitis**
+
+Equine animals must comply with at least one of the following requirements:
+
+(a) the animals have been vaccinated against Venezuelan equine encephalomyelitis with a complete primary course and revaccinated in accordance with the manufacturer’s recommendations during a period of not less than 60 days and not more than 12 months prior to the date of dispatch to the Union and were kept in isolation in vector-protected establishments for a period of at least 21 days prior to the date of dispatch to the Union, and during that period they remained clinically healthy, and their body temperature, taken daily, remained within the normal physiological range.
+
+Any other equine animal on the same establishment which showed a rise in body temperature, taken daily, was subjected to a blood test for virus isolation for Venezuelan equine encephalomyelitis with negative results;
+
+(b) the animals have not been vaccinated against Venezuelan equine encephalomyelitis and were kept in isolation in vector-protected establishments for a period of at least 21 days prior to the date of dispatch to the Union, and during that period they remained clinically healthy, and their body temperature, taken daily, remained within the normal physiological range. During isolation period, the animals were subjected to a diagnostic test for Venezuelan equine encephalomyelitis, with negative results, conducted on a sample taken not less than 14 days after the date of commencement of isolation of the animals in the vector-protected establishments; and the animals remained protected from vector insects until dispatch to the Union.
+
+Any other equine animal on the same establishment that showed a rise in body temperature, taken daily, was subjected to a blood test for virus isolation for Venezuelan equine encephalomyelitis with negative results;
+
+(c) the animals were subjected to a haemagglutination inhibition test for Venezuelan equine encephalomyelitis carried out by the same laboratory on the same day on samples taken on two occasions with an interval of 21 days, the second of which was taken during a period of 10 days prior to the date of dispatch to the Union, without an increase in antibody titre, and an reverse transcription polymerase chain reaction (RT-PCR) test for the detection of Venezuelan equine encephalomyelitis virus genome, carried out with negative result on a sample taken within 48 hours prior to the date of dispatch to the Union, and have been protected from vector attacks from the moment of the RT-PCR sampling until loading for dispatch, by a combined use of approved insect repellents and insecticides on the animals and disinsection of the stable and the means in which they are transported.
+
+**2.3. Specific requirements for infection with Burkholderia mallei (Glanders)**
+
+Equine animals must have undergone a complement fixation test for glanders, as described in point 3.1 of Chapter 2.5.11 of the OIE Terrestrial Manual (Version adopted 2015). The test must have been carried out, with negative results, at a serum dilution of 1 in 5 on a blood sample taken within a period of 30 days prior to the date of dispatch to the Union.
+
+**2.4. Specific requirements for dourine**
+
+Equine animals must have undergone a complement fixation test for dourine, as described in point 3.1 of Chapter 2.5.3 of the OIE Terrestrial Manual (Version adopted 2013). The test must have been carried out, with negative results, at a serum dilution of 1 in 5 on a blood sample taken within a period of 30 days prior to the date of dispatch to the Union. In addition, the tested animals must not have been used for breeding during the period of at least 30 days prior to and after the date the sample was taken.
+
+**2.5. Specific conditions for surra (Trypanosoma evansi)**
+
+Equine animals must have undergone a card agglutination test for trypanosomiasis (CATT), as described in point 2.3 of Chapter 2.1.21 of the OIE Terrestrial Manual (Version adopted 2012). The test must have been carried out, with negative results, at a serum dilution of 1 in 4 on a blood sample taken within a period of 30 days prior to the date of dispatch to the Union.
+
+**2.6. Specific conditions for equine infectious anaemia**
+
+Equine animals must have undergone an agar gel immunodiffusion test (AGID test) or to an enzyme-linked immunoassay (ELISA) for equine infectious anaemia, as described in points 2.1 and 2.2 of Chapter 2.5.6 of the OIE Terrestrial Manual (Version adopted 2013). The test must have been carried out, with negative results, on a blood sample taken within a period not exceeding 90 days prior to the date of dispatch to the Union.
+
+**3\. VECTOR-PROTECTED ESTABLISHMENT**
+
+Minimum criteria for the granting of a status of vector-protected establishment:
+
+(a) it has appropriate physical barriers at entry and exit points, for example double-door entry-exit system;
+
+(b) the openings of the vector-protected establishment must be vector-screened with mesh of appropriate gauge, impregnated regularly with an approved insecticide according to the instructions of the manufacturer;
+
+(c) vector surveillance and control must be carried out within and around the vector-protected establishment;
+
+(d) measures must be taken to limit or eliminate breeding sites for vectors in the vicinity of the vector-protected establishment;
+
+(e) standard operating procedures must be in place, including descriptions of back-up and alarm systems, for the operation of the vector-protected establishment and for the transport of the animals from that establishment to the place of loading for dispatch to the Union.
+
+## ANNEX XII
+
+**UNGULATES INTENDED FOR CONFINED ESTABLISHMENTS**
+
+**PART A**
+
+Minimum periods without reported disease in the confined establishment of origin of the ungulates intended for confined establishments in the Union:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>6 months</td><td>6 months</td><td>6 months</td><td>NA</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Infection with Mycoplamsma mycoides subsp. Mycoides SC (Contagious bovine pleuropneumonia)</td><td>6 months</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>6 months</td></tr>
+<tr><td>Infection with peste des petits ruminants virus</td><td>NA</td><td>6 months</td><td>6 months</td><td>NA</td><td>6 months</td><td>6 months</td><td>NA</td></tr>
+<tr><td>Sheep pox and goat pox</td><td>NA</td><td>6 months</td><td>6 months</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Contagious caprine pleuropneumonia</td><td>NA</td><td>6 months</td><td>6 months</td><td>NA</td><td>NA</td><td>NA</td><td>6 months</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>6 m</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>6 m</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with lumpy skin disease virus</td><td>6 m</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with Burkholderia mallei (Glanders)</td><td>NA</td><td>NA</td><td>6 months</td><td>NA</td><td>6 months</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with Brucella abortus, B. melitensis and B. suis</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis)</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Rabies</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Surra (Trypanosoma evansi)</td><td>30 days</td><td>30 days</td><td>30 days</td><td>NA</td><td>180 days</td><td>30 days</td><td>30 days</td></tr>
+<tr><td>Anthrax</td><td>30 days</td><td>30 days</td><td>30 days</td><td>30 days</td><td>30 days</td><td>30 days</td><td>30 days</td></tr>
+<tr><td>Infection with bluetongue virus (Serotypes 1-24)</td><td>6 months</td><td>6 months</td><td>6 months</td><td>NA</td><td>6 months</td><td>6 months</td><td>6 months</td></tr>
+<tr><td>Infection with Aujeszky’s disease virus</td><td>NA</td><td>NA</td><td>NA</td><td>12 months</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+Minimum areas (radius) and periods without reported disease in the area around the confined establishment of origin of the ungulates intended for confined establishments in the Union:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in column 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td><td>NA</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td></tr>
+<tr><td>Infection with Mycoplamsma mycoides subsp. Mycoides SC (Contagious bovine pleuropneumonia)</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td></tr>
+<tr><td>Infection with Peste des petits ruminants virus</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td></tr>
+<tr><td>Sheep pox and goat pox</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Contagious caprine pleuropneumonia</td><td>NA</td><td>10 km/30 days</td><td>10 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/30 days</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/12 months</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>10 km/12 months</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with lumpy skin disease virus</td><td>150 km/30 days</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with bluetongue virus (Serotypes 1-24)</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td><td>NA</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td></tr>
+<tr><td>Infection with epizootic haemorrhagic disease virus</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td><td>NA</td><td>150 km/30 days</td><td>150 km/30 days</td><td>150 km/30 days</td></tr>
+<tr><td>Infection with Aujeszky’s disease virus</td><td>NA</td><td>NA</td><td>NA</td><td>5 km/12 months (*2)</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  in addition, a virology and serology test must be carried out to rule out the presence of the disease 30 days prior to dispatch to the Union  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+Minimum periods of disease freedom of the third country or territory or zone thereof where the confined establishment of origin is located for ungulates intended for confined establishments in the Union:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 m (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td><td>12 months</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>48 months (*2)</td><td>48 months (*2)</td><td>48 months (*2)</td><td>NA</td><td>48 months (*2)</td><td>48 months (*2)</td><td>48 months (*2)</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 months (*2)</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 months (*2)</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with Brucella abortus, B. melitensis and B. suis</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td><td>12 months (*2)</td></tr>
+<tr><td>Infection with bluetongue virus (Serotypes 1-24)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>NA</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td></tr>
+<tr><td>Infection with epizootic haemorrhagic disease virus</td><td>24 months (*2)</td><td>24 months (*2)</td><td>24 months (*2)</td><td>NA</td><td>24 months (*2)</td><td>24months (*2)</td><td>24 months (*2)</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with the Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  or alternative guarantees are provided by the competent authority of the third country or territory according to Part D  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART D**
+
+Alternative guarantees to be provided by the competent authority of the third country or territory as regards certain listed diseases
+
+<table>
+<tbody><tr><td>Foot and mouth disease</td><td>(a) the animals must have undergone a serological test for evidence of foot and mouth disease virus infection carried out in accordance with one of the prescribed tests for international trade laid down in the OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals (OIE Terrestrial Manual), with negative results, on samples taken within a period of 10 days prior to the date of dispatch to the Union; and (b) for Bovidae, Cervidae and Elephas spp.: a probang test for evidence of foot and mouth disease virus infection carried out in accordance with the procedures laid down in the OIE Terrestrial Manual, with negative results. The test must have been carried out:  (i) 10 days prior to the date of dispatch to the Union, for species other than African buffalo (Syncerus caffer);  (ii) on two occasions 15 days at least apart, the second of which must have been taken during the period of 10 days prior to the date of dispatch to the Union, for African buffalo (Syncerus caffer). </td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>(a) the animals must: (i) have been kept in quarantine in a vector-protected facility in the approved confined establishment for a period of at least 30 days prior to the date of dispatch to the Union;  (ii) have showed no disease symptoms of infection with Rift valley fever virus for a period of at least 30 days prior to the date of dispatch to the Union;  (iii) have been protected from vectors when transported between the vector-protected facility referred to in point (i) and loading for dispatch to the Union; and  (b) the animals have undergone a virus neutralisation test with negative results for evidence of infection with Rift valley fever virus in accordance with the OIE Terrestrial Manual, carried out firstly on samples taken at the date of commencement of the quarantine period and secondly on samples taken at least 42 days from that that date and and during a period of 10 days prior to the dispatch to the Union. </td></tr>
+<tr><td>African swine fever</td><td rowspan="2">The animals have undergone a virology and serology test for the detection of African swine fever and classical swine fever in accordance with the test prescribed for international trade in the OIE Terrestrial Manual, carried out on samples taken during the period of 30 days prior to the date of dispatch to the Union.</td></tr>
+<tr><td>Classical swine fever</td></tr>
+<tr><td>Infection with Brucella abortus, B. melitensis and B. suis</td><td>The animals: (a) have undergone a test as laid down and prescribed for international trade by the OIE Terrestrial Manual, on samples taken during the period of the 30 days prior to the date of dispatch to the Union; or  (b) they are castrated males of any age. </td></tr>
+<tr><td>Infection with bluetongue virus (Serotypes 1-24)</td><td rowspan="2">The animals must comply with the requirements set out in one of the following points: (a) they have been kept in quarantine in a vector-protected facility in the confined establishment for a period of at least 30 days prior to the date of dispatch to the Union and have undergone a serology test for infection with bluetongue virus (1-24) and infection with epizootic haemorrhagic disease virus carried out in accordance with the OIE Terrestrial Manual with negative results, carried out at least 28 days after the introduction of the animals into the confined establishment;  (b) they have been kept in quarantine in a vector-protected facility in the approved confined establishment for a period of at least 30 days prior to the date of dispatch to the Union and have undergone a PCR test for infection with bluetongue virus (1-24) and infection with epizootic haemorrhagic disease virus in accordance with the OIE Terrestrial Manual, with negative results, carried out at least 14 days after the introduction into the confined establishment;  (c) they come from a seasonally disease-free area and have undergone during that disease-free period a serology test for infection with bluetongue virus (1-24) and infection with epizootic haemorrhagic disease virus according to the OIE Terrestrial Manual, with negative results, carried out on samples taken at least 28 days after introduction of the animals into the confined establishment;  (d) they come from a seasonally free area and have undergone during that period a PCR test for infection with bluetongue virus (1-24) and infection with epizootic haemorrhagic disease virus in accordance with the OIE Terrestrial Manual, with negative results, carried out on samples taken at least 14 days after the introduction of the animals into the approved confined establishment. </td></tr>
+<tr><td>Infections with epizootic haemorrhagic disease virus</td></tr>
+</tbody>
+</table>
+
+**PART E**
+
+Requirements as regards the absence of vaccination against certain diseases for the third country or territory of origin or zone thereof and for the ungulates intended for confined establishments:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates others than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>NVA</td><td>NVA</td><td>NVA</td><td>NVA</td><td>NVA</td><td>NVA</td><td>NVA</td></tr>
+<tr><td>Infection with Rift Valley fever virus</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NA</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>NVA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Infection with Brucella abortus, B. melitensis and B. suis</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td><td>NVA (*2)</td></tr>
+<tr><td>Infection with Aujeszky’s disease virus</td><td>NA</td><td>NA</td><td>NA</td><td>NVA</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with Commission Implementing Regulation (EU) 2018/1882  (*2)  or alternative guarantees are provided by the competent authority of the third country or territory according to Part D of this Annex  NVA = the ungulates intended to the Union have not been vaccinated  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART F**
+
+**Requirements for the vector-protected facility in confined establishments in third countries**
+
+Where required in Part D of this Annex, the vector-protected facility in the confined establishments in third countries or territories must comply with the following requirements:
+
+(a) has appropriate physical barriers at entry and exit points;
+
+(b) the openings of the vector-protected facility must be vector-screened with mesh of appropriate gauge, impregnated regularly with an approved insecticide according to the instructions of the manufacturer;
+
+(c) vector surveillance and control must be carried out within and around the vector-protected facility;
+
+(d) measures must be taken to limit or eliminate breeding sites for vectors in the vicinity of the vector-protected facility;
+
+(e) standard operating procedures must be in place, including descriptions of back-up and alarm systems, for the operation of the vector-protected facility and for the transport of the animals from that structure to the place of loading for dispatch to the Union.
+
+## ANNEX XIII
+
+**MINIMUM REQUIREMENTS FOR VACCINATION PROGRAMMES AND ADDITIONAL SURVEILLANCE CARRIED OUT IN A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF VACCINATING AGAINST HIGHLY PATHOGENIC AVIAN INFLUENZA**
+
+**1\. MINIMUM REQUIREMENTS FOR VACCINATION PROGRAMMES CARRIED OUT IN A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF**
+
+Vaccination programmes against highly pathogenic avian influenza submitted by a third country or territory must include at least the following information:
+
+(1) a description of the reasons for the decision to introduce the vaccination;
+
+(2) data on the epidemiological evolution of the disease, including previous outbreaks in poultry or wild birds;
+
+(3) the main objectives of the vaccination strategy, selected bird population(s) and area;
+
+(4) a risk assessment based on:
+
+— highly pathogenic avian influenza outbreaks within that third country or territory, or zone thereof,
+
+— highly pathogenic avian influenza outbreaks in a neighbouring country or territory, or zone thereof,
+
+— other risk factors such as certain areas, type of poultry husbandry or categories of poultry or captive birds;
+
+(5) a description of the geographical area, including maps, in which vaccination is carried out;
+
+(6) the number of establishments keeping poultry or captive birds in vaccination area;
+
+(7) the number of establishments keeping poultry or captive birds where vaccination is carried out, if different from the number referred to in point 6;
+
+(8) the species and categories of poultry or captive birds exempted from vaccination and reasoning for that exemption;
+
+(9) the species and categories of poultry or captive birds in the geographical area where vaccination is carried out;
+
+(10) the approximate number of poultry or captive birds in the establishments referred to in point 7;
+
+(11) a summary of the vaccine characteristics, including the name of the product(s) and the name of the manufacturer(s), and routes of administration, authorisation and quality control and guarantees that the vaccine used do not contain live avian influenza virus, whether attenuated or not;
+
+(12) the handling, storage, supply, distribution and sale of avian influenza vaccines on the national territory;
+
+(13) the implementation of a Differentiating Infected from Vaccinated Animals (DIVA) strategy;
+
+(14) the envisaged duration of the vaccination campaign;
+
+(15) the intended final use of vaccinated poultry or captive birds, and products thereof. Also taking into account vaccinated hatching eggs, if applicable;
+
+(16) the provisions and restrictions on movements of vaccinated poultry or captive birds and products thereof. Also taking into account vaccinated hatching eggs, if applicable;
+
+(17) clinical and laboratory tests, such as efficacy and pre-movement testing, carried out in the establishments vaccinated or located in the vaccination area;
+
+(18) the record keeping system on the vaccination.
+
+**2\. ADDITIONAL SURVEILLANCE IN THIRD COUNTRIES OR TERRITORIES OR ZONES THEREOF THAT CARRY OUT VACCINATION AGAINST HIGHLY PATHOGENIC AVIAN INFLUENZA**
+
+Where vaccination is carried out in a third country or territory or zone thereof, all establishments where vaccination against highly pathogenic avian influenza is carried out must be required to undergo laboratory testing and the following information must be submitted to the Commission, in addition to the information referred to in Annex II:
+
+(1) number of vaccinated establishments in the area per category;
+
+(2) number of vaccinated establishments to be sampled per poultry category;
+
+(3) use of sentinel birds (namely, the species and number of sentinel birds used per epidemiological unit);
+
+(4) number of samples taken per establishment and/or epidemiological unit;
+
+(5) data on vaccine efficacy.
+
+## ANNEX XIV
+
+**ANIMAL HEALTH REQUIREMENTS FOR RATITES, HATCHING EGGS THEREOF AND FRESH MEAT OF RATITES ORIGINATING IN A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF NOT FREE FROM INFECTION WITH NEWCASTLE DISEASE VIRUS**
+
+1\. Breeding ratites, productive ratites and ratites intended for slaughter originating in a third country or territory or zone thereof not free from infection with Newcastle disease virus must:
+
+(a) have been placed under official surveillance for a period of at least 21 days prior to the date of dispatch of the consignment for entry into the Union;
+
+(b) have been kept in complete isolation during the period referred to in point (a), away from direct or indirect contact with other birds, in facilities approved by the competent authority of the third country or territory of origin for this purpose;
+
+(c) have undergone a virus detection test for infection with Newcastle disease virus;
+
+(d) come from flocks in which surveillance for infection with Newcastle disease virus was carried out under a statistically-based sampling plan which produced negative results for a period of at least 6 months immediately prior to the date of dispatch of the consignment for entry into the Union.
+
+2\. Day-old chicks of ratites and hatching eggs of ratites originating in a third country or territory or zone thereof not free from infection with Newcastle disease virus, must come from flocks:
+
+(a) which were placed in isolation under official surveillance for a period of at least 30 days prior to the date of laying of the hatching eggs intended for entry into the Union or of the hatching eggs from which the day-old chicks destined for entry into the Union are derived;
+
+(b) which underwent a virus detection test for infection with Newcastle disease virus;
+
+(c) where surveillance for infection with Newcastle disease virus was carried out under a statistically-based sampling plan which produced negative results for a period of at least 6 months immediately prior to the date of dispatch of the consignment for entry to the Union;
+
+(d) which were not in contact with poultry which do not fulfil the guarantees under points (a), (b) and (c) during the period of 30 days prior to the date of laying and during the laying of the hatching eggs intended for entry into the Union or of the hatching eggs from which the day-old chicks destined for entry into the Union are derived.
+
+3\. Fresh meat of ratites originating in a third country or territory or zone thereof not free from infection with Newcastle disease virus must:
+
+(a) be de-boned and skinned;
+
+(b) come from ratites which for a period of at least 3 months prior to the date of slaughter were kept on establishments:
+
+(i) on which there was no outbreak of infection with Newcastle disease virus or highly pathogenic avian influenza during the 6 months prior to the date of slaughter;
+
+(ii) around which there were no outbreaks of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 3 months prior to the date of slaughter within 10 km of the perimeter of the part of the establishment containing the ratites, including, where appropriate, the territory of a neighbouring Member State or third country;
+
+(iii) on which surveillance for infection with Newcastle disease virus was carried out under a statistically-based sampling plan, which produced negative results for a period of at least 6 months prior to the date of slaughter;
+
+(c) have undergone surveillance as referred to in point (b)(iii):
+
+(i) by serology, in the case of ratites not vaccinated against infection with Newcastle disease virus;
+
+(ii) by tracheal swabs of ratites, in the case of ratites vaccinated against infection with Newcastle disease virus;
+
+(d) come from ratites which, if vaccinated against infection with Newcastle disease virus, were not vaccinated with vaccines that did not meet the specific criteria set out in Part 1 of Annex XV during the period of 30 days prior to the date of slaughter.
+
+4\. The virus detection testing provided for in paragraphs 1(c) and 2(b) must have been carried out:
+
+(a) within 7 to 10 days of the date the ratites entered isolation;
+
+(b) on cloacal swabs or faeces samples from each bird.
+
+5\. The virus detection testing provided for in paragraphs 1(c) and 2(b) must have shown that no avian paramyxovirus type 1 isolates with an Intracerebral Pathogenicity Index (ICPI) of more than 0,4 were found. In addition, favourable results must have been available from all birds in the consignment before:
+
+(a) breeding ratites, productive ratites or ratites intended for slaughter left the facilities referred in 1(b) for dispatch to the Union;
+
+(b) day-old chicks left the hatchery for dispatch to the Union;
+
+(c) hatching eggs were loaded for dispatch to the Union.
+
+## ANNEX XV
+
+**CRITERIA FOR VACCINES AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS AND REQUIREMENTS FOR CONSIGNMENTS OF POULTRY, HATCHING EGGS AND FRESH MEAT OF POULTRY ORIGINATING FROM A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF VACCINATING AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS**
+
+**1\. CRITERIA FOR VACCINES AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS**
+
+**1.1. General criteria**
+
+(a) Vaccines must comply with the standards set out in the chapter on Newcastle disease in the Manual of Diagnostic Tests and Vaccines for Terrestrial Animals of the World Organisation for Animal Health (OIE).
+
+(b) Vaccines must be registered by the competent authorities of the third country or territory of origin concerned before being allowed to be distributed and used. For such registration, the competent authorities of the third country or territory of origin concerned must rely on a complete file submitted by the applicant containing data on the efficacy and innocuity of the vaccine. In the case of imported vaccines, the competent authorities of the third country or territory of origin may rely on data checked by the competent authorities of the country where the vaccine is produced, insofar as these checks have been carried out in conformity with OIE standards.
+
+(c) In addition to the requirements set out in points (a) and (b), imports or the production and distribution of the vaccines must be controlled by the competent authorities of the third country or territory of origin concerned.
+
+(d) Before distribution of the vaccines is allowed, each batch of vaccines must be tested on innocuity, in particular regarding attenuation or inactivation and freedom from extraneous agents, and on efficacy. The testing is performed under the control of the competent authorities of the third country or territory of origin.
+
+**1.2. Specific criteria**
+
+Live attenuated vaccines against infection with Newcastle disease virus must be prepared from a Newcastle disease virus strain for which the master seed has been tested and shown to have an ICPI of either:
+
+(a) less than 0,4 , if not less than 107 EID50 are administered to each bird in the ICPI test;
+
+or
+
+(b) less than 0,5 , if not less than 108 EID50 are administered to each bird in the ICPI test.
+
+**2\. ANIMAL HEALTH REQUIREMENTS FOR POULTRY AND HATCHING EGGS ORIGINATING FROM A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF WHERE VACCINES USED AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS DO NOT MEET THE SPECIFIC CRITERIA SET OUT IN POINT 1**
+
+Poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1.2 must meet the requirements set out below:
+
+(a) poultry, the flock of origin of the day-old chicks and the flock of origin of hatching eggs must not have been vaccinated with such vaccines for a period of at least 12 months prior to the date the consignment is loaded for dispatch to the Union;
+
+(b) the flock of origin of poultry and of hatching eggs must have undergone a virus isolation test for infection with Newcastle disease virus not earlier than 2 weeks prior to the date of loading of the consignment for dispatch to the Union or, in the case of hatching eggs, not earlier than 2 weeks prior to the date the eggs were collected. The test must have been carried out in an official laboratory on a random sample of cloacal swabs taken from at least 60 birds in each flock, and no avian paramyxoviruses with an ICPI of more than 0,4 have been found;
+
+(c) poultry, except day-old chicks, the flock of origin of the day-old chicks and the flocks of origin of hatching eggs must have been kept in isolation under official surveillance on the establishment of origin during the two-week period referred to in point (b);
+
+(d) poultry, except day-old chicks, the flock of origin of the day-old chicks and the flock of origin of hatching eggs must not have been in contact with poultry not meeting the requirements set out in points (a) and (b):
+
+(i) in the case of poultry, during the period of 60 days prior to the date the consignment was loaded for dispatch to the Union;
+
+(ii) in the case of hatching eggs, during the period of 60 days prior to the date the eggs were collected;
+
+(e) the hatching eggs from which the day-old chicks are derived must not have been in contact in the hatchery or during transport to the hatchery with poultry or hatching eggs not meeting the requirements set out in points (a) to (d).
+
+**3\. ANIMAL HEALTH REQUIREMENTS FOR FRESH MEAT OF POULTRY ORIGINATING FROM A THIRD COUNTRY OR TERRITORY OR ZONE THEREOF WHERE VACCINES USED AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS DO NOT MEET THE SPECIFIC CRITERIA SET OUT IN POINT 1**
+
+Fresh meat of poultry originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1.2 must originate from poultry that meet the following health requirements:
+
+(a) the poultry have not been vaccinated with live attenuated vaccines prepared from an infection with Newcastle disease virus master seed showing a higher pathogenicity than lentogenic strains of the virus within the period of 30 days prior to the date of slaughter;
+
+(b) the poultry underwent a virus isolation test for infection with Newcastle disease virus, carried out in an official laboratory at the time of slaughter on a random sample of cloacal swabs from at least 60 birds in each flock concerned, and in which no avian paramyxoviruses with an ICPI of more than 0,4 were found;
+
+(c) the poultry have not been in contact during the period of 30 days prior to the date of slaughter with poultry that does not fulfil the conditions set out in points (a) and (b).
+
+**4\. INFORMATION TO BE PROVIDED WHEN FLOCKS OF ORIGIN OF POULTRY, FLOCKS OF ORIGIN OF HATCHING EGGS AND HATCHING EGGS ARE VACCINATED AGAINST INFECTION WITH NEWCASTLE DISEASE VIRUS**
+
+Where the flocks of origin of poultry, the flocks of origin of hatching eggs or hatching eggs are vaccinated against infection with Newcastle disease virus, the following information must be provided for the consignment:
+
+(a) identification of the flock;
+
+(b) age of the birds;
+
+(c) date of vaccination;
+
+(d) name and type of virus strain used;
+
+(e) batch number of the vaccine;
+
+(f) name of the vaccine;
+
+(g) manufacturer of the vaccine.
+
+## ANNEX XVI
+
+**REQUIREMENTS AS REGARDS THE INFORMATION TO BE MENTIONED ON THE CONTAINERS OF POULTRY, CAPTIVE BIRDS AND HATCHING EGGS**
+
+1\. Breeding poultry and productive poultry must be transported in containers which bear the following indications:
+
+(a) the name and ISO code of the third country or territory of origin;
+
+(b) the species of poultry concerned;
+
+(c) the number of animals;
+
+(d) the category and type of production for which they are intended;
+
+(e) the name, address and approval number of the establishment of origin;
+
+(f) the name of the Member State of destination.
+
+2\. Poultry intended for slaughter must be transported in containers which bear the following indications:
+
+(a) the name and ISO code of the third country or territory of origin;
+
+(b) the species of poultry concerned;
+
+(c) the number of animals;
+
+(d) the category and type of production for which they are intended;
+
+(e) the name, address and registration number of the establishment of origin;
+
+(f) the name of the Member State of destination.
+
+3\. Day-old chicks must be transported in containers which bear the following indications:
+
+(a) the name and ISO code of the third country or territory of origin;
+
+(b) the species of poultry concerned;
+
+(c) the number of animals;
+
+(d) the category and type of production for which they are intended;
+
+(e) the name, address and approval number of the establishment of origin of the day-old chicks;
+
+(f) the approval number of the establishment of origin of the flock of origin;
+
+(g) the name of the Member State of destination.
+
+4\. Captive birds must be transported in containers which bear the following indications:
+
+(a) the name and ISO code of the third country or territory of origin;
+
+(b) the number of animals;
+
+(c) the name, address and approval number of the establishment of origin;
+
+(d) the specific identification number of the container;
+
+(e) the name of the Member State of destination.
+
+5\. Hatching eggs of poultry must be transported in containers which bear the following indications:
+
+(a) the word ‘hatching’;
+
+(b) the name and ISO code of the third country or territory of origin;
+
+(c) the species of poultry concerned;
+
+(d) the number of eggs;
+
+(e) the category and type of production for which they are intended;
+
+(f) the name, address and approval number of the establishment of origin of the eggs;
+
+(g) the approval number of the establishment of origin of the flock of origin, if different from point (f);
+
+(h) the name of the Member State of destination.
+
+6\. Specified pathogen-free eggs must be transported in containers which bear the following indications:
+
+(a) the wording ‘SPF eggs for diagnostic, research or pharmaceutical use only’;
+
+(b) the name and ISO code of the third country or territory of origin;
+
+(c) the number of eggs;
+
+(d) the name, address and approval number of the establishment of origin;
+
+(e) the name of the Member State of destination.
+
+7\. Hatching eggs of captive birds must be transported in containers which bear the following indications:
+
+(a) the name and ISO code of the third country or territory of origin;
+
+(b) the number of eggs;
+
+(c) the name, address and approval number of the establishment of origin;
+
+(d) the specific identification number of the container;
+
+(e) the name of the Member State of destination.
+
+## ANNEX XVII
+
+**REQUIREMENTS FOR TESTING OF CONSIGNMENTS OF LESS THAN 20 HEADS OF POULTRY OTHER THAN RATITES AND LESS THAN 20 HATCHING EGGS THEREOF BEFORE THEIR ENTRY INTO THE UNION**
+
+Consignments of less than 20 heads of poultry other than ratites or less than 20 hatching eggs of poultry other than ratites must have been tested negative for the diseases referred to in point (e) of Article 49 and point (e)(ii) of Article 110 as follows:
+
+(a) in the case of breeding poultry, productive poultry and poultry intended for slaughter other than ratites, the animals must have been tested negative in serological and/or bacteriological tests within the period of 30 days prior to the date of loading of the consignment for dispatch to the Union;
+
+(b) in the case of hatching eggs of poultry other than ratites and day-old chicks other than ratites, the flock of origin must have tested negative in serological tests and/or bacteriological tests within the period of 90 days prior to the date of loading of the consignment for dispatch to the Union at a level which gives 95 % confidence of detecting infection at 5 % prevalence;
+
+(c) where the animals have been vaccinated against infection with any serotype of Salmonella or Mycoplasma, only bacteriological testing must be used, but the confirmation method must be capable of differentiating live vaccinal strains from field strains.
+
+## ANNEX XVIII
+
+**SAMPLING AND TESTING OF POULTRY OTHER THAN RATITES AFTER THE ENTRY INTO THE UNION**
+
+1\. The official veterinarian shall take samples for virological examination from breeding poultry other than ratites, productive poultry other than ratites and day-old chicks other than ratites which have entered into the Union from a third country or territory or zone thereof. The samples must be collected as follows:
+
+(a) between the seventh and the fifteenth day following the date when the animals were placed in the establishments of destination in the Union, cloacal swabs must be taken at a level which gives a 95 % confidence of detecting infection at 5 % prevalence;
+
+(b) testing of samples must be carried out for:
+
+(i) highly pathogenic avian influenza;
+
+(ii) infection with Newcastle disease virus.
+
+2\. Samples may be pooled to a maximum of five samples from individual birds in each pool.
+
+## ANNEX XIX
+
+**ANIMAL HEALTH REQUIREMENTS FOR GRANTING APPROVAL OF THE ESTABLISHMENT OF ORIGIN OF CAPTIVE BIRDS**
+
+1\. The animal health requirements in relation to biosecurity measures, as referred to in Article 56, are as follows:
+
+(a) only animals coming from other approved establishments may be introduced into the establishment;
+
+(b) birds may be introduced into the establishment from sources other than approved establishments after approval for such introduction is given by the competent authority of the third country or territory, provided that such animals are isolated for at least 30 days from the date they were introduced into the establishment, in accordance with the instructions given by the competent authority of the third country or territory, before being added to the collection of birds in the establishment.
+
+2\. The animal health requirements in relation to the facilities and equipment on the establishment, as referred to in Article 56, are as follows:
+
+(a) the establishment must be clearly demarcated and separated from its surroundings;
+
+(b) the establishment must have adequate means for catching, confining and isolating animals and have available adequate approved quarantine facilities and approved procedures for animals coming from establishments that have not been approved;
+
+(c) the establishment must either have suitable arrangements or on-site facilities and equipment for the appropriate disposal of the bodies of animals which die of a disease or are euthanised.
+
+3\. The animal health requirements in relation to record keeping, as referred to in Article 56, are as follows:
+
+(a) the operator responsible for the establishment must keep up-to-date records indicating:
+
+(i) the number and identity (namely the age, sex, species and individual identification number where practical) of the animals of each species present in the establishment;
+
+(ii) the number and identity (namely the age, sex, species and individual identification number where practical) of animals arriving in the establishment or leaving it, together with information on their origin or destination, the transport from or to the establishment and the animal health status;
+
+(iii) the results of blood tests or any other diagnostic procedures;
+
+(iv) cases of disease and, where appropriate, the treatment administered;
+
+(v) the results of the post-mortem examinations on animals that have died in the establishment, including still-born animals;
+
+(vi) observations made during any isolation or quarantine period;
+
+(b) the operator responsible for the establishment must keep the records referred to in point (a) following the date of approval, for a period of at least 10 years.
+
+4\. The animal health requirements in relation to personnel, as referred to in Article 56, are as follows:
+
+(a) the person responsible for the establishment must have adequate ability and knowledge;
+
+(b) the operator responsible for the establishment must secure, by contract or other legal instrument, the services of a veterinarian approved by and under the control of the competent authority of the third country or territory, who:
+
+(i) ensures that appropriate disease surveillance and control measures in relation to the disease situation of the third country or territory concerned are approved by the competent authority and applied in the establishment; such measures must include the following:
+
+— an annual disease surveillance programme including appropriate zoonoses control of the animals,
+
+— clinical, laboratory and post-mortem testing of animals suspected to be affected by diseases,
+
+— vaccination of susceptible animals against diseases as appropriate, in conformity with the Terrestrial Animal Health Code and the Manual of Diagnostic Tests and Vaccines for Terrestrial Animals of the OIE;
+
+(ii) ensures that any suspect deaths or the presence of any other symptoms indicative of highly pathogenic avian influenza, infection with Newcastle disease virus or avian chlamydiosis is notified without delay to the competent authority of the third country or territory;
+
+(iii) ensures that animals entering the establishment have been isolated as necessary and in accordance with the requirements of paragraph 1(b) and with the instructions, if any, given by the competent authority of the third country or territory.
+
+5\. The animal health requirements in relation to health status, as referred to in Article 56, are as follows:
+
+(a) the establishment must be free from highly pathogenic avian influenza, infection with Newcastle disease virus and avian chlamydiosis; in order for the establishment to be declared free from those diseases, the competent authority of the third country or territory shall assess the records on the animal health status kept for a period of at least three years prior to the date of the application for approval and the results of the clinical and laboratory tests carried out on the animals therein. However, new establishments must only be approved based on the results of the clinical and laboratory tests carried out on the animals in such establishments;
+
+(b) the operator responsible for the establishment must either have an arrangement with a laboratory to perform post-mortem examinations, or have one or more appropriate premises where such examinations may be performed by a competent person under the authority of a veterinarian approved for that purpose by the competent authority of the third country or territory.
+
+## ANNEX XX
+
+**EXAMINATION, SAMPLING AND TESTING PROCEDURES OF CAPTIVE BIRDS FOR HIGHLY PATHOGENIC AVIAN INFLUENZA AND NEWCASTLE DISEASE**
+
+1\. During quarantine either the sentinel birds, or if sentinel birds are not used, the captive birds, shall must undergo the following procedures:
+
+(a) cases involving the use of sentinel birds:
+
+(i) blood samples for serological examination must be taken from all sentinel birds within a period of not less than 21 days following the date of their entry into the quarantine and within a period of at least 3 days prior to the date of the end of the quarantine;
+
+(ii) if sentinel birds show positive or inconclusive serological results for the samples referred to in point (i):
+
+— the imported birds must undergo a virological examination,
+
+— cloacal swabs (or faeces) and tracheal or oropharyngeal swabs must be taken from at least 60 birds, or from all birds if the consignment is less than 60 birds;
+
+(b) cases not involving the use of sentinel birds:
+
+— imported birds must be examined virologically (i.e. serological testing is not appropriate),
+
+— tracheal or oropharyngeal or cloacal swabs (or faeces) must be taken from at least 60 birds, or from all birds if the consignment is less than 60 birds, during the period of the first 7 to 15 days of the quarantine.
+
+2\. In addition to the testing set out in point 1, the following samples must be taken for virological examination:
+
+(a) cloacal swabs (or faeces) and tracheal or oropharyngeal swabs, if possible, from clinically ill birds or ill sentinel birds;
+
+(b) from the intestinal contents, brain, trachea, lungs, liver, spleen, kidneys and other obviously affected organs as soon as possible following death, from:
+
+(i) dead sentinel birds and all birds dead on arrival in quarantine and those which die during quarantine; or
+
+(ii) in the case of high mortality in large consignments made of small birds, from at least 10 % of the dead birds.
+
+3\. For virological examination, pooling of samples up to a maximum of five samples of individual birds in one pool is allowed.
+
+Faecal material must be pooled separately from other organ and tissue samples.
+
+## ANNEX XXI — SPECIFIC REQUIREMENTS AS REGARDS DOGS, CATS AND FERRETS INTENDED FOR ENTRY INTO THE UNION
+
+**1\. RABIES ANTIBODY TITRATION TEST REQUIREMENTS**
+
+The rabies antibody titration test shall:
+
+(a) be carried out without undue delay after sample collection on a sample collected by an official veterinarian or an authorised veterinarian as defined in Article 2(1) of Delegated Regulation (EU) 2026/131 at least 30 days after the date of the primary vaccination, or within a current valid vaccination series, and not less than 90 days before the date of issue of the animal health certificate accompanying the consignment of animals to the Union;
+
+(b) measure a titre of neutralising antibody to rabies virus equal to or greater than 0,5 IU/ml and using a method prescribed in the relevant part of the chapter concerning rabies in the Manual of Diagnostic Tests and Vaccines for Terrestrial Animals of the World Organisation for Animal Health (WOAH);
+
+(c) be performed in one of the following:
+
+(i) an official laboratory designated in accordance with Article 37 of Regulation (EU) 2017/625 for the performance of the rabies antibody titration test and for which the competent authority has provided to the Commission its name and contact details; or
+
+(ii) a laboratory in a third country or territory listed in Annex VIII to Implementing Regulation (EU) 2021/404 designated by the competent authority of the third country as meeting the requirements laid down in Article 37(4) and (5) of Regulation (EU) 2017/625 for the performance of the rabies antibody titration test and for which the competent authority has provided to the Commission its name and contact details;
+
+(d) be certified by an official report from the designated laboratory referred to in point (c) as regards the results of the rabies antibody titration test.
+
+A report issued from 1 January 2028 shall bear a security feature in the format of a code to permit verification of its authenticity on the dedicated internet-based pages of the designated laboratory and be attached to the animal health certificate referred to in point (a);
+
+(e) not have to be renewed on an animal which, following the antibody rabies titration test with satisfactory results, has been revaccinated against rabies within the period of validity of the primary vaccination referred to in point (a) and all subsequent valid vaccinations in the series.
+
+**2\. TREATMENT AGAINST INFESTATION WITH ECHINOCCOCUS MULTILOCULARIS**
+
+Prior to entering a Member State or zone thereof with disease-free status for Echinococcus multilocularis, dogs shall be treated against infestation with Echinococcus multilocularis, as follows:
+
+(a) the treatment shall consist of an approved veterinary medicinal product which contains the appropriate dose of praziquantel or other pharmacologically active substances, which alone or in combination, have proven to reduce the burden of mature and immature intestinal forms of Echinococcus multilocularis in dogs at least as effectively as praziquantel;
+
+(b) the product shall be administered by a veterinarian within a period commencing not more than 120 hours and ending not less than 24 hours prior to the time of entering that Member State or zone.
+
+## ANNEX XXII
+
+**REQUIREMENTS AS REGARDS THE RESIDENCY PERIODS OF HATCHING EGGS BEFORE THE ENTRY INTO THE UNION**
+
+| Category of hatching eggs | Minimum residency period applies to | Minimum residency period in the third country or territory of origin or zone thereof, as referred in Article 98(a) | Minimum residency period in the establishment of origin, as referred to in Article 98(b) | Minimum period without contact with poultry or hatching eggs of lower health status, captive birds or wild birds as referred to in Article 98(c) |
+| --- | --- | --- | --- | --- |
+| Hatching eggs of poultry | Flock of origin | 3 months | 6 weeks | 6 weeks |
+| Consignments of less than 20 hatching eggs of poultry other than ratites | Flock of origin | 3 months | 3 weeks | 3 week |
+
+## ANNEX XXIII
+
+**REQUIREMENTS AS REGARDS THE RESIDENCY PERIOD BEFORE SLAUGHTER OR KILLING OF THE KEPT UNGULATES OF ORIGIN OF THE FRESH MEAT**
+
+1\. The period during which the ungulates must have remained in the third country or territory of origin or zone thereof before the date of slaughter or killing, as referred to in Article 131(2)(a), must be either:
+
+(a) at least 3 months prior that date; or
+
+(b) less than 3 months prior to that date, if the ungulates are less than 3 months of age.
+
+2\. Kept ungulates must have remained in their establishment of origin without having come into contact with ungulates of a lower health status, as referred to in Article 131(2)(b) and (c), for at least the 40 days prior to the date of slaughter or killing, where such animals:
+
+(a) originate from a third country, territory or zone thereof which applies one or more of the specific conditions set out in Part B of Annex XXIV;
+
+(b) are covered by the derogation provided for in Article 132.
+
+## ANNEX XXIV
+
+**DISEASE FREEDOM IN THE THIRD COUNTRY OR TERRITORY OF ORIGIN OF THE PRODUCTS OF ANIMAL ORIGIN**
+
+**PART A**
+
+Minimum periods (in months) of disease freedom of the third country or territory of origin or zone thereof in accordance with Article 133(1).
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates other than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>12 m (*2)</td><td>12 m (*2)</td><td>12 m (*2)</td><td>12 m (*2)</td><td>12 m (*2)</td><td>12 m (*2)</td><td>12 m (*2)</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>12 m</td><td>12 m</td><td>12 m</td><td>12 m</td><td>12 m</td><td>12 m</td><td>12 m</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 m</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>12 m (*2)</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable to listed species in accordance with Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  this period may be reduced where specific conditions, in accordance with Part B, are provided by the competent authority of the third country or territory  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+Specific conditions to be provided by the competent authority where the third country or territory or zone thereof has been free of the disease for a period of less than 12 months as provided for in the derogation laid down in Article 133(1):
+
+<table>
+<tbody><tr><td>Foot and mouth disease</td><td rowspan="2">Supplementary information to guarantee the determination of a date from which the third country or territory or zone thereof is considered free from the disease</td></tr>
+<tr><td>Classical swine fever</td></tr>
+</tbody>
+</table>
+
+## ANNEX XXV
+
+**VACCINATION IN THE THIRD COUNTRY OR TERRITORY OF ORIGIN OR ZONE THEREOF AND IN THE ESTABLISHMENT OF ORIGIN OF THE ANIMALS FROM WHICH THE FRESH MEAT IS OBTAINED**
+
+**PART A**
+
+Animal health requirements regarding the absence of vaccination in the third country or territory of origin or zone thereof and in the establishment of origin of the ungulates from which the fresh meat is obtained:
+
+<table>
+<tbody><tr><td>  </td><td>1. Bovine animals</td><td>2. Ovine animals</td><td>3. Caprine animals</td><td>4. Porcine animals</td><td>5. Camelid animals</td><td>6. Cervid animals</td><td>7. Ungulates other than those referred to in columns 1, 2, 3, 4, 5, 6(*1)</td></tr>
+<tr><td>Foot and mouth disease</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td></tr>
+<tr><td>Infection with rinderpest virus</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td><td>NV/NVE (*2)</td></tr>
+<tr><td>African swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>NV/NVE</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td>Classical swine fever</td><td>NA</td><td>NA</td><td>NA</td><td>NV/NVE</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="8">(*1)  only applicable for listed species in accordance with Annex to Commission Implementing Regulation (EU) 2018/1882  (*2)  or specific conditions, in accordance with Part B, are provided by the competent authority of the third country or territory  NV = for a period of at least 12 months prior to the date of dispatch to the Union: no vaccination has been carried out in the third country or territory or zone thereof and there have been no entries of vaccinated animals in the third country territory or zone  NVE = no vaccinated animals in the establishment of origin of the ungulates from which the fresh meat is obtained  NA = not applicable </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+**Specific conditions to be provided by the competent authorities where vaccination against foot and mouth disease has been carried out in the third country or territory or zone thereof for a period of less than 12 months as referred to in Article 133(3)**
+
+**1\. FROM A THIRD COUNTRY, TERRITORY OR ZONE THEREOF WHICH IS FREE FROM FOOT AND MOUTH DISEASE AND WHERE VACCINATION AGAINST FOOT AND MOUTH DISEASE STRAINS A, O OR C IS PRACTISED**
+
+The competent authority of the third country or territory of origin must provide supplementary information to guarantee the absence of foot and mouth disease virus in fresh meat and compliance with the following requirements:
+
+(a) a vaccination programme against foot and mouth disease is carried out in kept bovine animals and controlled by the competent authority of the third country or territory of origin;
+
+(b) the fresh meat is obtained from either:
+
+(i) bovine, ovine and caprine animals that originate from establishments in and around which, in an area with a 25 kilometres radius, foot and mouth disease or rinderpest have not been reported during the 60 days prior to the date of dispatch to the slaughterhouse;
+
+or
+
+(ii) kept ungulates of listed species other than bovine, ovine, caprine and porcine that originate from establishments in and around which in an area of 50 kilometres radius, foot and mouth disease or rinderpest have not been reported during the 90 days prior to the date of dispatch to the slaughterhouse;
+
+or
+
+(iii) wild ungulates that comply with the requirements laid down in Article 138;
+
+(c) the meat is de-boned fresh meat other than offal that was obtained from carcasses:
+
+(i) in which the main accessible lymph nodes have been removed;
+
+(ii) which have been submitted to maturation at a temperature above +2 °C for at least 24 hours before the bones were removed;
+
+(iii) in which the pH value of the meat was below 6,0 when tested electronically in the middle of the longissimus-dorsi muscle after maturation and before de-boning.
+
+**2\. FROM A THIRD COUNTRY, TERRITORY OR ZONE THEREOF WHICH IS FREE FROM FOOT AND MOUTH DISEASE AND WHERE VACCINATION AGAINST FOOT AND MOUTH DISEASE STRAINS A, O OR C IS PRACTISED AND IS SUBJECT TO ADDITIONAL SPECIFIC CONDITIONS**
+
+In addition to the requirements set out in point 1, the competent authority of the third country or territory must comply with additional specific conditions in relation to the vaccination programme which support the absence of foot and mouth disease virus in fresh meat from the zone.
+
+**3\. FOOT AND MOUTH DISEASE-FREE ZONES WHERE VACCINATION IS NOT PRACTISED**
+
+3.1. Foot and mouth disease strains SAT or ASIA 1
+
+Where fresh meat originates from a foot and mouth disease-free zone where vaccination is not practised, but that zone is in a third country or territory in which vaccination against foot and mouth disease (FMD) strains SAT or ASIA 1 is practised in other zones or where those strains are endemic in part(s) of the third country or territory or in the neighbouring Member State or third countries, the competent authorities of a third country or territory of origin of such meat must provide the necessary supplementary information to guarantee the absence of the foot and mouth disease virus in the fresh meat and to guarantee compliance with the following animal health requirements:
+
+(a) the fresh meat is obtained from either:
+
+(i) kept animals of listed species that originate from establishments in and around which, in an area of 10 kilometres radius, foot and mouth disease or rinderpest have not been reported during the period of 12 months prior to the date of slaughter;
+
+or
+
+(ii) wild ungulates that comply with the requirements laid down in Article 138;
+
+(b) the meat is not authorised for export to the Union until 21 days have elapsed following the date of slaughter;
+
+(c) the meat is de-boned fresh meat other than offal, obtained from carcasses:
+
+(i) in which the main accessible lymphnodes have been removed;
+
+(ii) which have been submitted to maturation at a temperature above +2 °C for a period of at least 24 hours before the bones were removed.
+
+3.2. Foot and mouth disease strains A, O or C
+
+Where fresh meat originates in a foot and mouth free zone where vaccination against foot and mouth disease is not practised, but that zone is in a third country or territory in which vaccination against foot and mouth disease strains A, O or C is practised, and where the competent authorities of the third country or territory have provided additional guarantees on conditions specific for the third country or territory or zone and which support the absence of foot and mouth disease virus in the fresh meat from the zone, the competent authorities of the third country or territory of origin must provide the following supplementary information:
+
+(a) guarantees that the surveillance programme for foot and mouth disease applicable for the free zone, demonstrating the absence of foot and mouth disease, is carried out and controlled by the competent authorities of the third country or territory of origin;
+
+(b) guarantees on the application of the animal health requirements set out in points (b) and (c) of Point 1.
+
+## ANNEX XXVI
+
+**RISK MITIGATING TREATMENTS FOR MEAT PRODUCTS**
+
+**1\. RISK MITIGATING TREATMENTS FOR MEAT PRODUCTS LISTED IN DESCENDING ORDER OF SEVERITY**
+
+| B | = | Treatment in a hermetically sealed container to a Fo value of three or more. |
+| --- | --- | --- |
+
+| C | = | A minimum temperature of 80 °C, which must be reached throughout the meat product during its processing. |
+| --- | --- | --- |
+
+| D | = | A minimum temperature of 70 °C, which must be reached throughout the meat or stomachs, bladders and intestines during the processing of meat products and treated stomachs, bladders and intestines, or for raw ham, a treatment consisting of natural fermentation and maturation of not less than nine months and resulting in the following characteristics: — Aw value of not more than 0,93 , — pH value of not more than 6,0 . |
+| --- | --- | --- |
+
+| D1 | = | Thorough the cooking of meat, previously de-boned and defatted, subjected to heating so that an internal temperature of 70 °C or greater is maintained for a minimum period of 30 minutes. |
+| --- | --- | --- |
+
+| E | = | In the case of ‘biltong’-type products, a treatment to achieve: — Aw value of not more than 0,93 , — pH value of not more than 6,0 . |
+| --- | --- | --- |
+
+| F | = | A heat treatment ensuring that a core temperature of at least 65 °C is reached for a period of time as necessary to achieve a pasteurisation value (Pv) equal to or above 40. |
+| --- | --- | --- |
+
+**2\. RISK MITIGATING TREATMENTS FOR CASINGS**
+
+| Casing 1 | = | Salting with sodium chloride (NaCl), either dry or as saturated brine (aw < 0,80 ), for a continuous period of 30 days or longer, at a temperature of 20 °C or above. |
+| --- | --- | --- |
+
+| Casing 2 | = | Salting with phosphate supplemented salt containing 86,5 % NaCl, 10,7 % Na2HPO4 and 2,8 % Na3PO4 (weight/weight/weight), either dry or as saturated brine (aw < 0,80 ), for a continuous period of 30 days or longer, at a temperature of 20 °C or above. |
+| --- | --- | --- |
+
+| Casing 3 | = | Salting with NaCl for 30 days |
+| --- | --- | --- |
+
+| Casing 4 | = | Bleaching |
+| --- | --- | --- |
+
+| Casing 5 | = | Drying after scraping. |
+| --- | --- | --- |
+
+## ANNEX XXVII — RISK MITIGATING TREATMENTS FOR MILK AND DAIRY PRODUCTS
+
+<table>
+<tbody><tr><td>  </td><td>A</td><td>B</td></tr>
+<tr><td>Species of origin of the milk and the dairy products</td><td>Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis and Camelus dromedarius</td><td>Other than Bos taurus, Ovis aries, Capra hircus, Bubalus bubalis and Camelus dromedarius</td></tr>
+<tr><td>Animal health status of the third country</td><td>1. Third countries not officially free of foot and mouth (FMD) for the preceding 12 months 2. Third countries where vaccination against FMD is practised </td><td>Any</td></tr>
+<tr><td>Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Heat treatment ultra-high temperature (UHT) at a minimum of 132 °C for a minimum of one second</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Heat treatment high temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds applied twice to milk with a pH value equal to or greater than 7,0</td><td>Yes</td><td>No</td></tr>
+<tr><td>Heat treatment HTST pasteurisation at a minimum of 72 °C for a minimum of 15 seconds applied to milk with a pH value below 7,0</td><td>Yes</td><td>No</td></tr>
+<tr><td>Heat treatment HTST pasteurisation at a minimum of 72 °C combined with a physical treatment to achieve pH value below 6 for a minimum of one hour</td><td>Yes</td><td>No</td></tr>
+<tr><td>Heat treatment HTST pasteurisation at a minimum of 72 °C combined with desiccation</td><td>Yes</td><td>No</td></tr>
+<tr><td colspan="3">No: treatment not permitted Yes: acceptable treatment </td></tr>
+</tbody>
+</table>
+
+## ANNEX XXVIII — RISK MITIGATION TREATMENTS FOR EGG PRODUCTS
+
+**1\. TREATMENTS OF EGG PRODUCTS FOR THE INACTIVATION OF HIGHLY PATHOGENIC AVIAN INFLUENZA**
+
+The following treatments are suitable for the inactivation of highly pathogenic avian influenza in the following egg products:
+
+<table>
+<tbody><tr><td rowspan="2">Egg product</td><td colspan="2">Heat treatment (with temperatures reaching at the core of the product at least the indicated value for a minimum of the time indicated)</td></tr>
+<tr><td>Core temperature (in degrees Celsius (°C)) </td><td>Duration of treatment (in seconds (s) or hours (hr)) </td></tr>
+<tr><td rowspan="2">Liquid egg white</td><td>55,6 °C</td><td>870 s</td></tr>
+<tr><td>56,7 °C</td><td>232 s</td></tr>
+<tr><td>10 % salted yolk</td><td>62,2 °C</td><td>138 s</td></tr>
+<tr><td>Plain or pure egg yolk</td><td>60 °C</td><td>288 s</td></tr>
+<tr><td rowspan="2">Dried egg white</td><td>67 °C</td><td>20 hr</td></tr>
+<tr><td>54,4 °C</td><td>513 hr</td></tr>
+<tr><td rowspan="2">Whole eggs</td><td>60 °C</td><td>188 s</td></tr>
+<tr><td colspan="2">completely cooked</td></tr>
+<tr><td rowspan="3">Whole egg blends</td><td>60 °C</td><td>188 s</td></tr>
+<tr><td>61,1 °C</td><td>94 s</td></tr>
+<tr><td colspan="2">completely cooked</td></tr>
+</tbody>
+</table>
+
+**2\. TREATMENTS OF EGG PRODUCTS FOR THE INACTIVATION OF INFECTION WITH NEWCASTLE DISEASE VIRUS**
+
+The following treatments are suitable for the inactivation of infection with Newcastle disease virus in the following egg products:
+
+<table>
+<tbody><tr><td rowspan="2">Egg product</td><td colspan="2">Heat treatment (with temperatures reaching at the core of the product at least the indicated value for a minimum of the time indicated)</td></tr>
+<tr><td>Core temperature (in degrees Celsius (°C)) </td><td>Duration of treatment (in seconds (s), minutes (min) or hours (hr)) </td></tr>
+<tr><td rowspan="3">Liquid egg white</td><td>55 °C</td><td>2 278 s</td></tr>
+<tr><td>57 °C</td><td>986 s</td></tr>
+<tr><td>59 °C</td><td>301 s</td></tr>
+<tr><td>10 % salted yolk</td><td>55 °C</td><td>176 s</td></tr>
+<tr><td rowspan="2">Plain or pure egg yolk</td><td>61,1 °C</td><td>3 min and 30 s</td></tr>
+<tr><td>60 °C</td><td>6 min and 12 s</td></tr>
+<tr><td>Dried egg white</td><td>57 °C</td><td>50 hr and 24 min</td></tr>
+<tr><td rowspan="2">Fortified egg</td><td>62,2 °C</td><td>3 min and 30 s</td></tr>
+<tr><td>61,1 °C</td><td>6 min and 12 s</td></tr>
+<tr><td rowspan="2">Sugared/salted egg</td><td>63,3 °C</td><td>3 min and 30 s</td></tr>
+<tr><td>62,2 °C</td><td>6 min and 12 s</td></tr>
+<tr><td rowspan="4">Whole eggs</td><td>55 °C</td><td>2 521 s</td></tr>
+<tr><td>57 °C</td><td>1 596 s</td></tr>
+<tr><td>59 °C</td><td>674 s</td></tr>
+<tr><td colspan="2">completely cooked</td></tr>
+</tbody>
+</table>
+
+## ANNEX XXIX
+
+LIST OF SPECIES SUSCEPTIBLE TO DISEASES FOR WHICH MEMBER STATES HAVE NATIONAL MEASURES IN ACCORDANCE WITH ARTICLE 226 OF REGULATION (EU) 2016/429
+
+| Disease | Susceptible species |
+| --- | --- |
+| Koi herpes virus disease | As listed in column 3 of the table in the Annex to Implementing Regulation (EU) 2018/1882 |
+| Spring viraemia of carp (SVC) | Abramis brama, Aristichthys nobilis, Carassius auratus, Ctenopharyngodon idella, Cyprinus carpio, Cyprinus carpio koi, Cyprinus rubrofuscus, Danio rerio, Notemingonus crysoleucas, Percocypris pingi, Pimephales promelas, Rutilus kutum, Rutilus rutilus, Silurus glanis |
+| Bacterial kidney disease (BKD) | Anoplopoma fimbria, Lota lota, Notropis cornutus, Onchorhynchus clarkii, Oncorhyncus gorbuscha, Oncorhynchus keta, Oncorhynchus kisutch, Oncorhynchus mykiss, Oncorhynchus nerka, Oncorhynchus tshawytscha, Pimephales promelas, Plecoglossus altivelis, Salvelinus alpinus, Salvelinus fontinalis, Salvelinus namaycush, Salmo salar, Salmo trutta, Thymallus thymallus |
+| Infectious pancreatic necrosis (IPN) | Anarhichas minor, Anguilla anguilla, Anguilla japonica, Brevoortia tyrannus, Channa striata, Coregonus lavaretus, Ctenolabrus rupestris, Danio rerio, Dicentrarchus labrax, Esox lucius, Gadus morhua, Hippoglossus hippoglossus, Limanda limanda, Morone saxatilis, Merluccius merluccius, Microstomus kitt, Oncorhynchus clarkii, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus kisutch, Oncorhynchus mykiss, Oncorhynchus rhodurus, Oncorhynchus tshawytscha, Pleuronectes platessa, Scophthalmus maximus, Salmo salar, Salmo trutta, Salvelinus alpinus, Salvelinus fontinalis, Salvelinus namaycush |
+| Infection with Gyrodactylus salaris (GS) | Oncorhynchus mykiss, Salmo trutta, Salmo salar, Salvelinus alpinus, Salvelinus fontinalis, Salvelinus namaycush, Thymallus thymallus |
+| Infection with salmonid alphavirus (SAV) | Limanda limanda, Oncorhynchus mykiss, Salmo salar, Salvelinus alpinus |
+
+## ANNEX XXX
+
+**CONDITIONS UNDER WHICH SPECIES LISTED IN COLUMN 4 OF THE TABLE IN THE ANNEX TO COMMISSION IMPLEMENTING REGULATION (EU) 2018/1882 ARE REGARDED AS VECTORS**
+
+<table>
+<tbody><tr><td>List of diseases</td><td>Vectors</td><td>Conditions under which the species of aquatic animals listed in column 4 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 are regarded as vectors</td></tr>
+<tr><td>Epizootic haematopoietic necrosis</td><td rowspan="14">As listed in column 4 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882</td><td>Regarded as vectors of Epizootic haematopoietic necrosis under all conditions.</td></tr>
+<tr><td>Viral haemorrhagic septicaemia</td><td>Regarded as vectors of Viral haemorrhagic septicaemia when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infectious haematopoietic necrosis</td><td>Regarded as vectors of Infectious haematopoietic necrosis when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with highly polymorphic region (HPR) deleted infectious salmon anaemia virus</td><td>No vector species listed for infection with highly polymorphic region (HPR) deleted infectious salmon anaemia virus.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Infection with Mikrocytos mackini</td><td>Regarded as vectors of Mikrocytos mackini when in contact with species listed in column 3 of the table in the Annex to Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Infection with Perkinsus marinus</td><td>Regarded as vectors of Perkinsus marinus when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with Bonamia ostreae</td><td>Regarded as vectors of Bonamia ostreae when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with Bonamia exitiosa</td><td>Regarded as vectors of Bonamia exitiosa when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with Marteilia refringens</td><td>Regarded as vectors of Marteilia refringens when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with Taura syndrome virus</td><td>Regarded as vectors of Taura syndrome virus when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with yellow head virus</td><td>Regarded as vectors of yellow head virus when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+<tr><td>Infection with white spot syndrome virus</td><td>Regarded as vectors of white spot syndrome virus when in contact with species listed in column 3 of the table in the Annex to Commission Implementing Regulation (EU) 2018/1882 through co-habitation or through water supply.</td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Implementing Decision (EU) 2021/260 of 11 February 2021 approving national measures designed to limit the impact of certain diseases of aquatic animals in accordance with Article 226(3) of Regulation (EU) 2016/429 of the European Parliament and of the Council and repealing Commission Decision 2010/221/EU (OJ L 59, 19.2.2021, p. 1).
+
+( 2 ) Commission Delegated Regulation (EU) 2020/990 of 28 April 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health and certification requirements for movements within the Union of aquatic animals and products of animal origin from aquatic animals (OJ L 221, 10.7.2020, p. 42).
+
+( 3 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+( 4 ) Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (see page 140 of this Official Journal).
+
+( 5 ) Commission Delegated Regulation (EU) 2020/686 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of germinal product establishments and the traceability and animal health requirements for movements within the Union of germinal products of certain kept terrestrial animals (see page 1 of this Official Journal).
+
+( 6 ) Commission Delegated Regulation (EU) 2019/1666 of 24 June 2019 supplementing Regulation (EU) 2017/625 of European Parliament and the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union (OJ L 255, 4.10.2019, p. 1).
+
+( 7 ) Commission Delegated Regulation (EU) 2019/2035 of 28 June 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs (OJ L 314, 5.12.2019, p. 115).
+
+( 8 ) Commission Delegated Regulation (EU) 2026/131 of 20 January 2026 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for non-commercial movement of pet animals (OJ L, 2026/131, 27.3.2026, ELI: http://data.europa.eu/eli/reg_del/2026/131/oj).
+
+( 9 ) Commission Implementing Regulation (EU) 2021/404 of 24 March 2021 laying down the lists of third countries, territories or zones thereof from which the entry into the Union of animals, germinal products and products of animal origin is permitted in accordance with Regulation (EU) 2016/429 of the European Parliament and the Council (OJ L 114, 31.3.2021, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2021/404/oj).
+
+( 10 ) Commission Implementing Regulation (EU) 2021/404 of 24 March 2021 laying down the lists of third countries, territories or zones thereof from which the entry into the Union of animals, germinal products and products of animal origin is permitted in accordance with Regulation (EU) 2016/429 of the European Parliament and the Council (OJ L 114, 31.3.2021, p. 1).
+
+( 11 ) Commission Delegated Regulation (EU) 2022/2292 of 6 September 2022 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of food-producing animals and certain goods intended for human consumption (OJ L 304, 24.11.2022, p. 1, ELI: http://data.europa.eu/eli/reg_del/2022/2292/oj).
+
+( 12 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1, ELI: http://data.europa.eu/eli/reg/2002/178/oj).
+
+( 13 ) Commission Implementing Decision (EU) 2021/260 of 11 February 2021 approving national measures designed to limit the impact of certain diseases of aquatic animals in accordance with Article 226(3) of Regulation (EU) 2016/429 of the European Parliament and of the Council and repealing Commission Decision 2010/221/EU (OJ L 59, 19.2.2021, p. 1).
+
+( 14 ) Commission Delegated Regulation (EU) 2020/691 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for aquaculture establishments and transporters of aquatic animals (see page 345 of this Official Journal).
+
+( 15 ) Council Directive 88/407/EEC of 14 June 1988 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species (OJ L 194, 22.7.1988, p. 10).
+
+( 16 ) Council Directive 89/556/EEC of 25 September 1989 on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species (OJ L 302, 19.10.1989, p. 1).
+
+( 17 ) Council Directive 90/429/EEC of 26 June 1990 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the porcine species (OJ L 224, 18.8.1990, p. 62).
+
+( 18 ) Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC (OJ L 268, 14.9.1992, p. 54).

@@ -1,0 +1,843 @@
+---
+title: "Regulation (EU) 2025/13 of the European Parliament and of the Council of 19 December 2024 on the collection and transfer of advance passenger information for the prevention, detection, investigation and prosecution of terrorist offences and serious crime, and amending Regulation (EU) 2019/818"
+identifier: "32025R0013"
+eli: "http://data.europa.eu/eli/reg/2025/13/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-12-19
+entry_into_force: 2025-08-05
+last_amended: 2025-01-08
+consolidated_version: "02025R0013-20250108"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R0013-20250108"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2025/13 of the European Parliament and of the Council of 19 December 2024 on the collection and transfer of advance passenger information for the prevention, detection, investigation and prosecution of terrorist offences and serious crime, and amending Regulation (EU) 2019/818
+
+**REGULATION (EU) 2025/13 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 19 December 2024**
+
+**on the collection and transfer of advance passenger information for the prevention, detection, investigation and prosecution of terrorist offences and serious crime, and amending Regulation (EU) 2019/818**
+
+**REGULATION (EU) 2025/13 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 19 December 2024**
+
+**on the collection and transfer of advance passenger information for the prevention, detection, investigation and prosecution of terrorist offences and serious crime, and amending Regulation (EU) 2019/818**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+### Article 1
+
+Subject matter
+
+For the purpose of preventing, detecting, investigating and prosecuting terrorist offences and serious crime, this Regulation lays down the rules on:
+
+(a) the collection of advance passenger information (API) by air carriers on extra-EU flights and intra-EU flights;
+
+(b) the transfer of API data and other PNR data by air carriers to the router;
+
+(c) the transmission of API data and other PNR data from the router to the passenger information units (PIUs) on extra-EU flights and selected intra-EU flights.
+
+This Regulation is without prejudice to Regulation (EU) 2016/679, Regulation (EU) 2018/1725 and Directive (EU) 2016/680.
+
+### Article 2
+
+Scope
+
+This Regulation applies to air carriers conducting:
+
+(a) extra-EU flights;
+
+(b) intra-EU flights that will depart from, arrive in or make a stop-over on the territory of at least one Member State that notified the Commission of its decision to apply Directive (EU) 2016/681 to intra-EU flights in accordance with Article 2(1) of that Directive.
+
+### Article 3
+
+Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘air carrier’ means an air carrier as defined in Article 3, point (1), of Directive (EU) 2016/681;
+
+(2) ‘extra-EU flight’ means any extra-EU flight as defined in Article 3, point (2), of Directive (EU) 2016/681;
+
+(3) ‘intra-EU flight’ means any intra-EU flight as defined in Article 3, point (3), of Directive (EU) 2016/681;
+
+(4) ‘scheduled flight’ means a scheduled flight as defined in Article 3, point (5), of Regulation (EU) 2025/12;
+
+(5) ‘non-scheduled flight’ means a non-scheduled flight as defined in Article 3, point (6), of Regulation (EU) 2025/12;
+
+(6) ‘passenger’ means a passenger as defined in Article 3, point (4), of Directive (EU) 2016/681;
+
+(7) ‘crew’ means any person on board of an aircraft during the flight, other than a passenger, who works on or operates the aircraft, including flight crew and cabin crew;
+
+(8) ‘advance passenger information’ or ‘API data’ means the data and the flight information referred to in Article 4(2) and (3) respectively;
+
+(9) ‘other passenger name record data’ or ‘other PNR data’ means the passenger name record as defined in Article 3, point (5), of Directive (EU) 2016/681, and as listed in Annex I to that Directive, with the exception of point 18 of that Annex;
+
+(10) ‘passenger information unit’ or ‘PIU’ means the passenger information unit, as contained in the Member States’ notifications to the Commission and modifications thereof published by the Commission pursuant to Article 4(5) of Directive (EU) 2016/681;
+
+(11) ‘terrorist offences’ means terrorist offences as referred to in Articles 3 to 12 of Directive (EU) 2017/541 of the European Parliament and the Council ( 1 );
+
+(12) ‘serious crime’ means serious crime as defined in Article 3, point (9), of Directive (EU) 2016/681;
+
+(13) ‘the router’ means the router referred to in Article 9 of this Regulation and in Article 11 of Regulation (EU) 2025/12;
+
+(14) ‘personal data’ means personal data as defined in Article 3, point (1), of Directive (EU) 2016/680, and Article 4, point 1, of Regulation (EU) 2016/679;
+
+(15) ‘real-time flight traffic data’ means information on the inbound and outbound flight traffic of an airport covered by this Regulation.
+
+## CHAPTER 2 — COLLECTION, TRANSFER, STORAGE AND DELETION OF API DATA
+
+### Article 4
+
+Collection of API data by air carriers
+
+1\. Air carriers shall collect the API data of each passenger and crew member on the flights referred to in Article 2 to be transferred to the router in accordance with Article 5. Where the flight is code-shared between air carriers, the obligation to transfer the API data shall be on the air carrier that operates the flight.
+
+2\. The API data shall consist only of the following data relating to each passenger and crew member on the flight:
+
+(a) the surname (family name), first name or names (given names);
+
+(b) the date of birth, sex and nationality;
+
+(c) the type and number of the travel document and the three-letter code of the issuing country of the travel document;
+
+(d) the date of expiry of the validity of the travel document;
+
+(e) the number identifying a passenger name record used by an air carrier to locate a passenger within its information system (PNR record locator);
+
+(f) the seating information corresponding to the seat in the aircraft assigned to a passenger, where such information is available;
+
+(g) the baggage tag number or numbers and the number and weight of checked bags, where such information is available;
+
+(h) a code indicating the method used to capture and validate the data referred to in points (a) to (d).
+
+3\. The API data shall also consist only of the following flight information relating to the flight of each passenger and crew member:
+
+(a) the flight identification number or, where the flight is code-shared between air carriers, the flight identification numbers, or, if no such number exists, other clear and suitable means to identify the flight;
+
+(b) where applicable, the border crossing point of entry into the territory of the Member State;
+
+(c) the code of the airport of arrival or, where the flight is planned to land in one or several airports within the territories of one or more Member States to which this Regulation applies, the codes of the airports of call on the territories of the Member States concerned;
+
+(d) the code of the airport of departure of the flight;
+
+(e) the code of the airport of the initial point of embarkation, where available;
+
+(f) the local date and time of departure;
+
+(g) the local date and time of arrival;
+
+(h) the contact details of the air carrier;
+
+(i) the format used for the transfer of API data.
+
+4\. Air carriers shall collect the API data in a manner that ensures that the API data that they transfer in accordance with Article 5 are accurate, complete and up to date. Compliance with this obligation does not require air carriers to check the travel document at the moment of boarding the aircraft, without prejudice to national law that is compatible with Union law.
+
+5\. This Regulation does not impose an obligation on passengers to carry a travel document when travelling, without prejudice to other Union legal acts or national law that is compatible with Union law.
+
+6\. A Member State may impose an obligation on air carriers to provide the possibility for passengers to voluntarily upload the data referred to in Article 4(2), points (a) to (d), of Regulation (EU) 2025/12 by automated means and to have such data stored by the air carrier with a view to transferring the data for the purpose of future flights in accordance with Article 5 of this Regulation and in a manner compliant with the requirements set out in paragraphs 4, 7 and 8 of this Article. A Member State that imposes such an obligation shall lay down the rules and safeguards on data protection, in accordance with Regulation (EU) 2016/679, including rules on storage period. However, the data shall be deleted where the passenger no longer consents to the storage of the data, or at the latest on the date of expiry of the validity of the travel document.
+
+7\. Air carriers shall collect the API data referred to in paragraph 2, points (a) to (d), using automated means to collect the machine-readable data of the travel document of the passenger concerned. They shall do so in accordance with the detailed technical requirements and operational rules referred to in paragraph 12, once such rules have been adopted and are applicable.
+
+Where air carriers provide an online check-in process, they shall enable passengers to provide the API data referred to in paragraph 2, points (a) to (d), by automated means during that online check-in process. For passengers that do not check in online, air carriers shall enable those passengers to provide those API data by automated means during check-in at the airport with the assistance of a self-service kiosk or of air-carriers’ staff at the counter.
+
+Where the use of automated means is not technically possible, air carriers shall exceptionally collect the API data referred to in paragraph 2, points (a) to (d), manually, either as part of the online check-in or as part of the check-in at the airport, in such a manner as to ensure compliance with paragraph 4.
+
+8\. Any automated means used by air carriers to collect API data under this Regulation shall be reliable, secure and up to date. Air carriers shall ensure that API data are encrypted during the transfer of such data from the passenger to the air carrier.
+
+9\. During a transitional period, and in addition to the automated means referred to in paragraph 7, air carriers shall make it possible for passengers to provide API data manually as part of the online check-in. In such cases, air carriers shall use data verification techniques to ensure compliance with paragraph 4.
+
+10\. The transitional period referred to in paragraph 9 shall not affect the right of air carriers to verify, at the airport prior to the boarding of the aircraft, API data collected as part of the online check-in in order to ensure compliance with paragraph 4, in accordance with the applicable Union law.
+
+11\. The Commission is empowered to adopt, as of the date four years after the start of operations of the router in relation to API data referred to in Article 34, and on the basis of an evaluation of the availability and accessibility of automated means to collect API data, a delegated act in accordance with Article 43 to terminate the transitional period referred to in paragraph 9 of this Article.
+
+12\. The Commission is empowered to adopt delegated acts in accordance with Article 43 to supplement this Regulation by laying down detailed technical requirements and operational rules for the collection of the API data referred to in paragraph 2, points (a) to (d) of this Article, using automated means in accordance with paragraphs 7 and 8 of this Article, and for the manual collection of API data in exceptional circumstances in accordance with paragraph 7 of this Article and during the transitional period referred to in paragraph 9 of this Article. Those technical requirements and operational rules shall include requirements for data security and for using the most reliable automated means available to collect the machine-readable data of a travel document.
+
+### Article 5
+
+Obligations for air carriers regarding transfers of API data and other PNR data
+
+1\. Air carriers shall transfer the encrypted API data to the router, by electronic means for the purposes of their transmission to PIUs in accordance with Article 12. Air carriers shall transfer the API data in accordance with the detailed rules referred to in paragraph 4 of this Article, once such rules have been adopted and are applicable.
+
+2\. When adopting measures in accordance with Article 8(1) of Directive (EU) 2016/681, Member States shall require air carriers to transfer any other PNR data they collect in the normal course of their business exclusively to the router, in accordance with the common protocols and data formats set out pursuant to Article 16 of that Directive.
+
+3\. Air carriers shall transfer the API data:
+
+(a) for passengers:
+
+(i) per passenger at the moment of check-in, but not earlier than 48 hours prior to the scheduled flight departure time; and
+
+(ii) for all boarded passengers immediately after flight closure, namely once the passengers have boarded the aircraft in preparation for departure and it is no longer possible for passengers to board or to leave the aircraft;
+
+(b) for all members of the crew immediately after flight closure, namely once the crew is on board the aircraft in preparation for departure and it is no longer possible for them to leave the aircraft.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 43 to supplement this Regulation by laying down the necessary detailed rules on the common protocols and supported data formats to be used for the encrypted transfers of API data to the router referred to in paragraph 1 of this Article, including the transfer of API data at the moment of check-in and requirements for data security. Such detailed rules shall ensure that air carriers transfer API data using the same structure and content.
+
+### Article 6
+
+Storage period and deletion of API data
+
+Air carriers shall store, for a period of 48 hours from the moment of receipt by the router of the API data transferred to it in accordance with Article 5(3), point (a)(ii) and point (b), the API data relating to all passengers and crew that they collected pursuant to Article 4. They shall immediately and permanently delete such API data after the expiry of that period, without prejudice to the possibility for air carriers to retain and use the data where necessary for the normal course of their business in compliance with applicable law, and to Article 16(1) and (3).
+
+### Article 7
+
+Correcting, completing and updating API data
+
+1\. Where an air carrier becomes aware that data that it stores under this Regulation were processed unlawfully, or do not constitute API data, it shall immediately and permanently delete those data. If those data have been transferred to the router, the air carrier shall immediately inform the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA). Upon receiving such information, eu-LISA shall immediately inform the PIU that received the data transmitted through the router.
+
+2\. Where an air carrier becomes aware that the data that it stores under this Regulation are inaccurate, incomplete or no longer up to date, it shall immediately correct, complete or update those data. This is without prejudice to the possibility for air carriers to retain and use the data where necessary for the normal course of their business in compliance with the applicable law.
+
+3\. Where an air carrier becomes aware after the transfer of API data under Article 5(3), point (a)(i), but before the transfer under Article 5(3), point (a)(ii), that the data it has transferred are inaccurate, the air carrier shall immediately transfer the corrected API data to the router.
+
+4\. Where an air carrier becomes aware, after the transfer of API data under Article 5(3), point (a)(ii) or point (b), that the data it has transferred are inaccurate, incomplete or no longer up to date, the air carrier shall immediately transfer the corrected, completed or updated API data to the router.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 43 to supplement this Regulation by laying down the necessary detailed rules on correcting, completing and updating API data within the meaning of this Article.
+
+### Article 8
+
+Fundamental rights
+
+1\. The collection and processing of personal data in accordance with this Regulation and Regulation (EU) 2025/12 by air carriers and competent authorities shall not result in discrimination against persons on the grounds listed in Article 21 of the Charter of Fundamental Rights of the European Union (the ‘Charter’).
+
+2\. This Regulation shall fully respect human dignity and the fundamental rights and principles recognised by the Charter, including the right to respect for one’s private life, to asylum, to the protection of personal data, to freedom of movement and to effective legal remedies.
+
+3\. Particular attention shall be paid to children, the elderly, persons with a disability and vulnerable persons. The best interests of the child shall be a primary consideration when implementing this Regulation.
+
+## CHAPTER 3 — PROVISIONS RELATING TO THE ROUTER
+
+### Article 9
+
+The router
+
+1\. eu-LISA shall design, develop, host and technically manage, in accordance with Articles 25 and 26, a router for the purpose of facilitating the transfer of encrypted API data and other PNR data by air carriers to the PIUs in accordance with this Regulation.
+
+2\. The router shall be composed of:
+
+(a) a central infrastructure, including a set of technical components enabling the reception and transmission of encrypted API data and other PNR data;
+
+(b) a secure communication channel between the central infrastructure and the PIUs, and a secure communication channel between the central infrastructure and the air carriers, for the transfer and transmission of API data and other PNR data and for any communications relating thereto, and for the insertion by the Member States of selected flights as referred to in Article 12(4) into the router and any related updates;
+
+(c) a secure channel to receive real-time flight traffic data.
+
+3\. Without prejudice to Article 10 of this Regulation, the router shall, where appropriate and to the extent technically possible, share and reuse the technical components, including hardware and software components, of the web service referred to in Article 13 of Regulation (EU) 2017/2226, the carrier gateway referred to in Article 6(2), point (k), of Regulation (EU) 2018/1240, and the carrier gateway referred to in Article 45c of Regulation (EC) No 767/2008.
+
+eu-LISA shall design the router, to the extent technically and operationally possible, in a way that is coherent and consistent with the obligations for air carriers set out in Regulations (EC) No 767/2008, (EU) 2017/2226 and (EU) 2018/1240.
+
+4\. The router shall automatically extract and make available the data, in accordance with Article 39 of this Regulation, to the central repository for reporting and statistics (CRRS) established by Article 39 of Regulation (EU) 2019/818.
+
+5\. eu-LISA shall design and develop the router in such a way that, for any transfer of API data and other PNR data from the air carriers to the router in accordance with Article 5, and for any transmission of API data and other PNR data from the router to the PIUs in accordance with Article 12 and to the CRRS in accordance with Article 39(2), the API data and other PNR data are end-to-end encrypted during transit.
+
+### Article 10
+
+Exclusive use of the router
+
+For the purposes of this Regulation, the router shall be used only:
+
+(a) by air carriers to transfer encrypted API data and other PNR data in accordance with this Regulation;
+
+(b) by PIUs to receive encrypted API data and other PNR data in accordance with this Regulation;
+
+(c) on the basis of international agreements enabling the transfer of PNR data via the router, concluded by the Union with third countries that have concluded an agreement providing for their association with the implementation, application and development of the Schengen acquis.
+
+This Article is without prejudice to Article 12 of Regulation (EU) 2025/12.
+
+### Article 11
+
+Data format and transfer verifications
+
+1\. The router shall, in an automated manner and on the basis of real-time flight traffic data, verify whether the air carrier transferred the API data in accordance with Article 5(1) or other PNR data in accordance with Article 5(2).
+
+2\. The router shall, immediately and in an automated manner, verify whether the API data transferred to it in accordance with Article 5(1) comply with the detailed rules on the supported data formats, referred to in Article 5(4).
+
+3\. The router shall, immediately and in an automated manner, verify whether the other PNR data transferred to it in accordance with Article 5(2) comply with the rules on the supported data formats, referred to in Article 16 of Directive (EU) 2016/681.
+
+4\. Where the verification referred to in paragraph 1 determines that the data were not transferred by the air carrier or where the verification referred to in paragraph 2 or 3 determines that data are not compliant with the detailed rules on the supported data formats, the router shall, immediately and in an automated manner, notify the air carrier concerned and the PIUs of the Member States to which the data were to be transmitted pursuant to Article 12(1). In such cases, the air carrier shall immediately transfer the API data and other PNR data in accordance with Article 5.
+
+5\. The Commission shall adopt implementing acts specifying the detailed technical and procedural rules necessary for the verifications and notifications referred to in paragraphs 1 to 4 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+### Article 12
+
+Transmission of API data and other PNR data from the router to the PIUs
+
+1\. Upon the data format and transfer verifications referred to in Article 11, the router shall transmit the encrypted API data and any other PNR data, transferred to it by air carriers pursuant to Article 5(1) and (2), and where applicable, Article 7(3) and (4), to the PIUs of the Member State on whose territory the flight will land or from whose territory it will depart, or to both in the case of intra-EU flights. It shall transmit those data immediately and in an automated manner, without changing their content in any way. Where a flight has one or more stop-overs at the territory of other Member States than the one from which it departed, the router shall transmit the API data and any other PNR data to the PIUs of all the Member States concerned.
+
+For the purposes of such transmission, eu-LISA shall establish and keep up to date a table of correspondence between the different airports of origin and destination and the countries to which they belong.
+
+However, for intra-EU flights, the router shall transmit only API data and other PNR data of the flights included in the list referred to in paragraph 4 to the relevant PIUs.
+
+2\. The router shall transmit the API data and other PNR data in accordance with the detailed rules referred to in paragraph 6, once such rules have been adopted and are applicable.
+
+3\. Member States shall ensure that their PIUs, upon receipt of API data and other PNR data in accordance with paragraph 1, immediately and in an automated manner confirm receipt of such data to the router.
+
+4\. Member States that decide to apply Directive (EU) 2016/681 to intra-EU flights in accordance with Article 2 of that Directive shall each establish a list of the intra-EU flights or routes selected. Member States may use the code of the airport of departure and the airport of arrival for indicating the selected flights or routes. Those Member States shall, in accordance with Article 2 of that Directive and Article 13 of this Regulation, regularly review and where necessary update those lists. A Member State may select all intra-EU flights or routes when duly justified, in accordance with Directive (EU) 2016/681 and Article 13 of this Regulation.
+
+Member States shall, by the relevant date of application of this Regulation referred to in Article 45, second paragraph, insert the selected flights or routes into the router, by automated means through the secure communication channel referred to in Article 9(2)(b), and thereafter provide the router with any updates thereof.
+
+5\. The information inserted by the Member States into the router shall be treated confidentially and access to that information by eu-LISA staff shall be limited to what is strictly necessary for the resolution of technical problems. eu-LISA shall ensure, upon receipt by the router of that information or any updates thereto from a Member State, that the router immediately transmits the API data and other PNR data to the PIU of that Member State in respect of the selected flights or routes, in accordance with paragraph 1.
+
+6\. The Commission shall adopt implementing acts specifying the detailed technical and procedural rules necessary for the transmission of API data and other PNR data from the router referred to in paragraph 1 of this Article and for the insertion of information into the router referred to in paragraph 4 of this Article, including on requirements for data security. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+### Article 13
+
+Selection of intra-EU flights
+
+1\. Member States that decide, in accordance with Article 2 of Directive (EU) 2016/681, to apply that Directive and consequently this Regulation to intra-EU flights shall select such intra-EU flights in accordance with this Article.
+
+2\. Member States may apply Directive (EU) 2016/681 and consequently this Regulation to all intra-EU flights arriving at or departing from their territory only in situations of a genuine and present or foreseeable terrorist threat, on the basis of a decision that is based on a threat assessment, limited in time to what is strictly necessary and open to effective review either by a court or by an independent administrative body whose decision is binding.
+
+3\. In the absence of a genuine and present or foreseeable terrorist threat, Member States that apply Directive (EU) 2016/681 and consequently this Regulation to intra-EU flights shall select such intra-EU flights according to the outcome of an assessment carried out on the basis of the requirements set out in paragraphs 4 to 7 of this Article.
+
+4\. The assessment referred to in paragraph 3 shall:
+
+(a) be carried out in an objective, duly reasoned and non-discriminatory way in accordance with Article 2 of Directive (EU) 2016/681;
+
+(b) take into account only criteria which are relevant for the prevention, detection, investigation and prosecution of terrorist offences and serious crime having an objective link, including an indirect link, with the carriage of passengers by air, and not be purely based on the grounds as listed in Article 21 of the Charter of any passengers or groups of passengers;
+
+(c) use only information that can support an objective, duly reasoned and non-discriminatory assessment.
+
+5\. On the basis of the assessment referred to in paragraph 3, Member States shall select only intra-EU flights relating to, inter alia, specific routes, travel patterns or airports for which there are indications of terrorist offenses and serious crime and that justify the processing of API and other PNR data. The selection of intra-EU flights shall be limited to what is strictly necessary for achieving the objectives of Directive (EU) 2016/681 and this Regulation.
+
+6\. Member States shall keep all documentation of the assessment referred to in paragraph 3, including where relevant any review thereof, and make it available, in accordance with Directive (EU) 2016/680, to their independent supervisory authorities and national supervisory authorities upon request.
+
+7\. Member States shall, in accordance with Article 2 of Directive (EU) 2016/681, review their assessment referred to in paragraph 3 regularly and at least every 12 months, in order to take into account changes in the circumstances that justified the selection of intra-EU flights and for the purpose of ensuring that the selection of intra-EU flights continues to be limited to what is strictly necessary.
+
+8\. The Commission shall facilitate a regular exchange of views on the selection criteria for the assessment referred to in paragraph 3, including the sharing of best practices, as well as, on a voluntary basis, the exchange of information on selected flights.
+
+### Article 14
+
+Deletion of API data and other PNR data from the router
+
+API data and other PNR data, transferred to the router pursuant to this Regulation shall be stored on the router only insofar as necessary to complete the transmission to the relevant PIUs in accordance with this Regulation and shall be deleted from the router, immediately, permanently and in an automated manner, in both of the following situations:
+
+(a) where it is confirmed, in accordance with Article 12(3), that the transmission of the API data and other PNR data to the relevant PIUs has been completed;
+
+(b) where the API data or other PNR data relate to intra-EU flights other than those included in the lists referred to in Article 12(4).
+
+The router shall automatically inform eu-LISA and the PIUs of the immediate deletion of intra-EU flights as referred to in point (b).
+
+### Article 15
+
+Processing of API data and other PNR data by PIUs
+
+API data and other PNR data transmitted to PIUs in accordance with this Regulation shall subsequently be processed by the PIUs in accordance with Directive (EU) 2016/681, in particular as regards the rules on the processing of API data and other PNR data by PIUs, including those set out in Articles 6, 10, 12 and 13 of that Directive, and solely for the purposes of the prevention, detection, investigation and prosecution of terrorist offences and serious crime.
+
+The PIUs or other competent authorities shall under no circumstances process API data and other PNR data for the purposes of profiling, as referred to in Article 11(3) of Directive (EU) 2016/680.
+
+### Article 16
+
+Actions where it is technically impossible to use the router
+
+1\. Where it is technically impossible to use the router to transmit API data or other PNR data because of a failure of the router, eu-LISA shall immediately notify the air carriers and PIUs of that technical impossibility in an automated manner. In that case, eu-LISA shall immediately take measures to address the technical impossibility to use the router and shall immediately notify the air carriers and PIUs when it has been successfully addressed.
+
+During the period of time between those notifications, Article 5(1) shall not apply, insofar as the technical impossibility prevents the transfer of API data or other PNR data to the router. Air carriers shall store the API data or other PNR data until the technical impossibility has been successfully addressed. As soon as the technical impossibility has been successfully addressed, air carriers shall transfer the data to the router in accordance with Article 5(1).
+
+Where it is technically impossible to use the router and in exceptional cases related to the objectives of this Regulation that make it necessary for PIUs to immediately receive API data or other PNR data during the technical impossibility to use the router, PIUs may request air carriers to use any other appropriate means, ensuring the necessary level of data security, data quality and data protection, to transfer the API data or other PNR data directly to the PIUs. The PIUs shall process the API data or other PNR data received through any other appropriate means in accordance with the rules and safeguards set out in Directive (EU) 2016/681.
+
+Following the notification from eu-LISA that the technical impossibility has been successfully addressed, and where it is confirmed in accordance with Article 12(3) that the transmission of the API data or other PNR data through the router to the relevant PIU has been completed, the PIU shall immediately delete the API data or other PNR data received by any other appropriate means.
+
+2\. Where it is technically impossible to use the router to transmit API data or other PNR data because of a failure of the systems or infrastructure referred to in Article 23 of a Member State, the PIU of that Member State shall immediately notify the other PIUs, eu-LISA and the Commission of that technical impossibility in an automated manner. In that case, that Member State shall immediately take measures to address the technical impossibility to use the router and shall immediately notify the other PIUs, eu-LISA and the Commission when it has been successfully addressed. The router shall store the API data or other PNR data until the technical impossibility has been successfully addressed. As soon as the technical impossibility has been successfully addressed, the router shall transmit the data in accordance with Article 12(1).
+
+Where it is technically impossible to use the router and in exceptional cases related to the objectives of this Regulation that make it necessary for PIUs to immediately receive API data or other PNR data during the technical impossibility to use the router, PIUs may request air carriers to use any other appropriate means, ensuring the necessary level of data security, data quality and data protection to transfer the API data or other PNR data directly to the PIUs. The PIUs shall process the API data or other PNR data received through any other appropriate means in accordance with the rules and safeguards set out in Directive (EU) 2016/681.
+
+Following the notification from eu-LISA that the technical impossibility has been successfully addressed, and where it is confirmed in accordance with Article 12(3) that the transmission of the API data or other PNR data through the router to the relevant PIU has been completed, the PIU shall immediately delete the API data or other PNR data received by any other appropriate means.
+
+3\. Where it is technically impossible to use the router to transfer API data or other PNR data because of a failure of the systems or infrastructure referred to in Article 24 of an air carrier, that air carrier shall immediately notify the PIUs, eu-LISA and the Commission of that technical impossibility in an automated manner. In that case, that air carrier shall immediately take measures to address the technical impossibility to use the router and shall immediately notify the PIUs, eu-LISA and the Commission when it has been successfully addressed.
+
+During the period of time between those notifications, Article 5(1) shall not apply, insofar as the technical impossibility prevents the transfer of API data or other PNR data to the router. Air carriers shall store the API data or other PNR data until the technical impossibility has been successfully addressed. As soon as the technical impossibility has been successfully addressed, air carriers shall transfer the data to the router in accordance with Article 5(1).
+
+Where it is technically impossible to use the router and in exceptional cases related to the objectives of this Regulation that make it necessary for PIUs to immediately receive API data or other PNR data during the technical impossibility to use the router, PIUs may request air carriers to use any other appropriate means, ensuring the necessary level of data security, data quality and data protection, to transfer the API data or other PNR data directly to the PIUs. The PIUs shall process the API data or other PNR data received through any other appropriate means in accordance with the rules and safeguards set out in Directive (EU) 2016/681.
+
+Following the notification from eu-LISA that the technical impossibility has been successfully addressed, and where it is confirmed in accordance with Article 12(3) that the transmission of the API data or other PNR data through the router to the relevant PIU has been completed, the PIU shall immediately delete the API data or other PNR data received by any other appropriate means.
+
+When the technical impossibility has been successfully addressed, the air carrier concerned shall, without delay, submit to the national API supervision authority referred to in Article 37 a report containing all necessary details on the technical impossibility, including the reasons for the technical impossibility, its extent and consequences as well as the measures taken to address it.
+
+## CHAPTER 4 — SPECIFIC PROVISIONS ON THE PROTECTION OF PERSONAL DATA AND SECURITY
+
+### Article 17
+
+Keeping of logs
+
+1\. Air carriers shall create logs of all processing operations related to API data under this Regulation undertaken using the automated means referred to in Article 4(7). Those logs shall cover the date, time, and place of transfer of the API data. Those logs shall not contain any personal data, other than the information necessary to identify the relevant member of the staff of the air carrier.
+
+2\. eu-LISA shall keep logs of all processing operations relating to the transfer and transmission of API data and other PNR data through the router under this Regulation. Those logs shall cover the following:
+
+(a) the air carrier that transferred the API data and other PNR data to the router;
+
+(b) the air carrier that transferred other PNR data to the router;
+
+(c) the PIUs to which the API data were transmitted through the router;
+
+(d) the PIUs to which other PNR data were transmitted through the router;
+
+(e) the date and time of the transfer or transmission referred to in points (a) to (d), and the place of that transfer or transmission;
+
+(f) any access by the staff of eu-LISA necessary for the maintenance of the router, as referred to in Article 26(3);
+
+(g) any other information relating to those processing operations necessary to monitor the security and integrity of the API data and other PNR data and the lawfulness of those processing operations.
+
+Those logs shall not include any personal data, other than the information necessary to identify the relevant member of the staff of eu-LISA, referred to in point (f) of the first subparagraph.
+
+3\. The logs referred to in paragraphs 1 and 2 of this Article shall be used only for ensuring the security and integrity of the API data and other PNR data and the lawfulness of the processing, in particular as regards compliance with the requirements set out in this Regulation, including proceedings for penalties for infringements of those requirements in accordance with Articles 37 and 38.
+
+4\. Air carriers and eu-LISA shall take appropriate measures to protect the logs that they created pursuant to paragraphs 1 and 2, respectively, against unauthorised access and other security risks.
+
+5\. The national API supervision authority referred to in Article 37 and PIUs shall have access to the relevant logs referred to in paragraph 1 of this Article where necessary for the purposes referred to in paragraph 3 of this Article.
+
+6\. Air carriers and eu-LISA shall keep the logs that they created pursuant to paragraphs 1 and 2, respectively, for a period of one year from the moment of the creation of those logs. They shall immediately and permanently delete those logs upon the expiry of that period.
+
+However, if those logs are needed for procedures for monitoring or ensuring the security and integrity of the API data or the lawfulness of the processing operations, as referred to in paragraph 3, and those procedures have already begun at the moment of the expiry of the time period referred to in the first subparagraph of this paragraph, air carriers and eu-LISA shall keep those logs for as long as necessary for those procedures. In that case, they shall immediately delete those logs when they are no longer necessary for those procedures.
+
+### Article 18
+
+Data protection responsibilities
+
+1\. Air carriers shall be controllers, within the meaning of Article 4, point (7), of Regulation (EU) 2016/679, for the processing of API data and other PNR data constituting personal data in relation to the collection of such data and the transfer thereof to the router under this Regulation.
+
+2\. Each Member State shall designate a competent authority as controller in accordance with this Article. Member States shall notify the Commission, eu-LISA and the other Member States of those authorities.
+
+All the competent authorities designated by Member States shall be joint controllers in accordance with Article 21 of Directive (EU) 2016/680 for the purposes of the processing of personal data in the router.
+
+3\. eu-LISA shall be a processor within the meaning of Article 3, point (12), of Regulation (EU) 2018/1725 for the purposes of the processing of API data and other PNR data constituting personal data under this Regulation through the router, including transmission of the data from the router to the PIUs and storage for technical reasons of those data on the router. eu-LISA shall ensure that the router is operated in accordance with this Regulation.
+
+4\. The Commission shall adopt implementing acts establishing the respective responsibilities of the joint controllers, and the respective obligations between the joint controllers and the processor. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+### Article 19
+
+Information for passengers
+
+In accordance with Article 13 of Regulation (EU) 2016/679, air carriers shall provide passengers, on flights covered by this Regulation, with information on the purpose of the collection of their personal data, the type of personal data collected, the recipients of the personal data and the means to exercise their rights as data subjects.
+
+That information shall be communicated to passengers in writing and in an easily accessible format at the moment of booking and at the moment of check-in, irrespective of the means used to collect the personal data at the moment of check-in, in accordance with Article 4.
+
+### Article 20
+
+Security
+
+1\. eu-LISA shall ensure the security and encryption of the API data and other PNR data, in particular data constituting personal data, that it processes pursuant to this Regulation. PIUs and air carriers shall ensure the security of the API data, in particular API data constituting personal data, that they process pursuant to this Regulation.eu-LISA, PIUs and air carriers shall cooperate, in accordance with their respective responsibilities and in compliance with Union law, with each other to ensure such security.
+
+2\. eu-LISA shall ensure the security and the confidentiality of the data related to flights and routes selected by the Member States in accordance with Article 12(4). The PIUs and the air carriers shall ensure the security of the API data, in particular API data constituting personal data, that they process pursuant to this Regulation. eu-LISA, PIUs and air carriers shall cooperate, in accordance with their respective responsibilities and in compliance with Union law, with each other to ensure such security.
+
+3\. eu-LISA shall take the measures necessary to ensure the security of the router and the API data and other PNR data, in particular data constituting personal data, transmitted through the router, including by establishing, implementing and regularly updating a security plan, a business continuity plan and a disaster recovery plan, in order to:
+
+(a) physically protect the router, including by making contingency plans for the protection of critical components thereof;
+
+(b) prevent any unauthorised processing of the API data or other PNR data, including any unauthorised access thereto and the copying, modification or deletion thereof, both during the transfer of the API data or other PNR data to and from the router and during any storage of the API data or other PNR data on the router where necessary to complete the transmission, in particular by means of appropriate encryption techniques;
+
+(c) ensure that the persons authorised to access the router have access only to the data covered by their access authorisation;
+
+(d) ensure that it is possible to verify and establish to which PIUs the API data or other PNR data are transmitted through the router;
+
+(e) properly report to its Management Board any faults in the functioning of the router;
+
+(f) monitor the effectiveness of the security measures required under this Article and under Regulation (EU) 2018/1725, and assess and update those security measures where necessary in the light of technological or operational developments.
+
+The measures referred to in the first subparagraph of this paragraph shall not affect Article 32 of Regulation (EU) 2016/679, Article 33 of Regulation (EU) 2018/1725 or Article 29 of Directive (EU) 2016/680.
+
+### Article 21
+
+Self-monitoring
+
+Air carriers and the PIUs shall monitor their compliance with their respective obligations under this Regulation, in particular as regards their processing of API data constituting personal data. For air carriers the monitoring shall include frequent verification of the logs referred to in Article 17.
+
+### Article 22
+
+Personal data protection audits
+
+1\. The independent supervisory authorities referred to in Article 41 of Directive (EU) 2016/680 shall carry out an audit of processing operations of API data constituting personal data performed by the PIUs for the purposes of this Regulation at least once every four years. Member States shall ensure that their independent supervisory authorities have sufficient resources and expertise to fulfil the tasks entrusted to them under this Regulation.
+
+2\. The European Data Protection Supervisor shall carry out an audit of processing operations of API data and other PNR data constituting personal data performed by eu-LISA for the purposes of this Regulation, in accordance with relevant international auditing standards at least once every year. A report of that audit shall be sent to the European Parliament, to the Council, to the Commission, to the Member States and to eu-LISA. eu-LISA shall be given an opportunity to make comments before the reports are adopted.
+
+3\. In relation to the processing operations referred to in paragraph 2, upon request, eu-LISA shall supply information requested by the European Data Protection Supervisor, shall grant the European Data Protection Supervisor access to all the documents it requests and to the logs referred to in Article 17(2), and shall allow the European Data Protection Supervisor access to all eu-LISA’s premises at any time.
+
+## CHAPTER 5 — MATTERS RELATING TO THE ROUTER
+
+### Article 23
+
+PIUs’ connections to the router
+
+1\. Member States shall ensure that their PIUs are connected to the router. They shall ensure that their national systems and infrastructure for the reception and further processing of API data and other PNR data transferred pursuant to this Regulation are integrated with the router.
+
+Member States shall ensure that the connection to the router and integration with it enables their PIUs to receive and further process those API data and other PNR data, as well as to exchange any communications relating thereto, in a lawful, secure, effective and swift manner.
+
+2\. The Commission shall adopt implementing acts specifying the necessary detailed rules on the connections to and integration with the router referred to in paragraph 1 of this Article, including on requirements for data security. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+### Article 24
+
+Air carriers’ connections to the router
+
+1\. Air carriers shall ensure that they are connected to the router. They shall ensure that their systems and infrastructure for the transfer of API data and other PNR data to the router pursuant to this Regulation are integrated with the router.
+
+Air carriers shall ensure that the connection to the router and the integration with it enables them to transfer those API data and other PNR data as well as to exchange any communications relating thereto, in a lawful, secure, effective and swift manner. To that end, air carriers shall conduct tests of the transfer of API data and other PNR data to the router in cooperation with eu-LISA in accordance with Article 27(3).
+
+2\. The Commission shall adopt implementing acts specifying the necessary detailed rules on the connections to and integration with the router referred to in paragraph 1 of this Article, including on requirements for data security. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+### Article 25
+
+eu-LISA’s tasks relating to the design and development of the router
+
+1\. eu-LISA shall be responsible for the design of the physical architecture of the router, including defining its technical specifications.
+
+2\. eu-LISA shall be responsible for the development of the router, including for any technical adaptations necessary for the operation of the router.
+
+The development of the router shall consist of the elaboration and implementation of the technical specifications, testing and overall project management and coordination of the development phase.
+
+3\. eu-LISA shall ensure that the router is designed and developed in such a manner that the router provides the functionalities specified in this Regulation, and that the router starts operations as soon as possible after the adoption by the Commission of the delegated acts provided for in Article 4(12), Article 5(3), Article 7(2), and of the implementing acts provided for in Article 11(5), Article 12(4), Article 23(2), Article 24(2) of this Regulation, and of the implementing acts provided for in Article 16(3) of Directive (EU) 2016/681, and after the carrying out of a data protection impact assessment in accordance with Article 35 of Regulation (EU) 2016/679.
+
+4\. eu-LISA shall provide PIUs, other relevant Member States’ authorities and air carriers with a compliance test set. The compliance test set shall include a test environment, a simulator, test data sets and a test plan. The compliance test set shall allow for comprehensive tests of the router referred to in paragraphs 5 and 6 and it shall remain available after the completion of those tests.
+
+5\. Where eu-LISA considers that the development phase has been completed in relation to API data, it shall, without undue delay, conduct a comprehensive test of the router, in cooperation with the PIUs and other relevant Member States’ authorities and air carriers and inform the Commission of the outcome of that test.
+
+6\. Where eu-LISA considers that the development phase has been completed in relation to other PNR data, it shall, without undue delay, conduct comprehensive tests of the router to ensure the reliability of the connections of the router with air carriers and PIUs, the necessary standardised transmission of other PNR data by air carriers and the transfer and transmission of other PNR data in accordance with Article 16 of Directive (EU) 2016/681, including the use of the common protocols and supported standardised data formats referred to in Article 16, paragraphs 2 and 3, of that Directive to ensure the readability of the other PNR data. Such tests shall be conducted in cooperation with the PIUs and other relevant Member States’ authorities and air carriers. eu-LISA shall inform the Commission of the outcome of those tests.
+
+### Article 26
+
+eu-LISA’s tasks relating to the hosting and technical management of the router
+
+1\. eu-LISA shall host the router in its technical sites.
+
+2\. eu-LISA shall be responsible for the technical management of the router, including its maintenance and technical developments, in such a manner as to ensure that the API data and other PNR data are securely, effectively and swiftly transmitted through the router, in compliance with this Regulation.
+
+The technical management of the router shall consist of carrying out all the tasks and enacting all technical solutions necessary for the proper functioning of the router in accordance with this Regulation, in an uninterrupted manner, 24 hours a day, 7 days a week. It shall include the maintenance work and technical developments necessary to ensure that the router functions at a satisfactory level of technical quality, in particular as regards availability, accuracy and reliability of the transmission of API data and other PNR data, in accordance with the technical specifications and, as much as possible, in line with the operational needs of the PIUs and air carriers.
+
+3\. eu-LISA’s staff shall not have access to any of the API data or other PNR data that are transmitted through the router. However, that prohibition shall not preclude eu-LISA’s staff from having such access insofar as strictly necessary for the maintenance and technical management of the router.
+
+4\. Without prejudice to paragraph 3 of this Article and to Article 17 of the Staff Regulations of Officials of the European Union, laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 ( 2 ), eu-LISA shall apply appropriate rules of professional secrecy or other equivalent duties of confidentiality to its staff required to work with API data and other PNR data transmitted through the router. This obligation shall also apply after such staff leave office or employment or after the termination of their activities.
+
+### Article 27
+
+eu-LISA’s support tasks relating to the router
+
+1\. eu-LISA shall, upon the request of PIUs, other relevant Member States’ authorities or air carriers, provide training to them on the technical use of the router and on their connection to and integration with the router.
+
+2\. eu-LISA shall provide support to the PIUs regarding the reception of API data and other PNR data through the router pursuant to this Regulation in particular as regards the application of Articles 12 and 23.
+
+3\. In accordance with Article 24(1) and making use of the compliance test set referred to in Article 25(4), eu-LISA shall conduct, in cooperation with air carriers, tests of the transfer of API data and other PNR data to the router.
+
+## CHAPTER 6 — GOVERNANCE
+
+### Article 28
+
+Programme Management Board
+
+1\. By 28 January 2025, eu-LISA’s Management Board shall establish a Programme Management Board. It shall be composed of 10 members and shall consist of:
+
+(a) seven members appointed by eu-LISA’s Management Board from among its members or its alternates;
+
+(b) the chair of the API-PNR Advisory Group referred to in Article 29;
+
+(c) one member of the eu-LISA staff appointed by its Executive Director; and
+
+(d) one member appointed by the Commission.
+
+As regards point (a), the members appointed by eu-LISA’s Management Board shall be elected only from its members or its alternates from those Member States to which this Regulation applies.
+
+2\. The Programme Management Board shall draft its rules of procedure to be adopted by eu-LISA’s Management Board.
+
+The chairpersonship shall be held by a Member State that is a member of the Programme Management Board.
+
+3\. The Programme Management Board shall supervise the effective fulfilment of eu-LISA’s tasks relating to the design and development of the router in accordance with Article 25.
+
+Upon request of the Programme Management Board, eu-LISA shall provide detailed and updated information on the design and development of the router, including on the resources allocated by eu-LISA.
+
+4\. The Programme Management Board shall regularly, and at least three times per quarter, submit written reports on progress in the design and development of the router to eu-LISA’s Management Board.
+
+5\. The Programme Management Board shall have no decision-making power, nor any mandate to represent eu-LISA’s Management Board or its members.
+
+6\. The Programme Management Board shall cease to exist by the date of the application of this Regulation referred to in Article 45, second paragraph.
+
+### Article 29
+
+API-PNR Advisory Group
+
+1\. As from 28 January 2025, the API-PNR Advisory Group, established pursuant to Article 27(1), point (de), of Regulation (EU) 2018/1726, shall provide eu-LISA’s Management Board with the necessary expertise related to API-PNR in particular in the context of the preparation of its annual work programme and its annual activity report.
+
+2\. Whenever available, eu-LISA shall provide the API-PNR Advisory Group with versions, even intermediary ones, of the technical specifications and the compliance test sets referred to in Article 25(1), (2) and (4).
+
+3\. The API-PNR Advisory Group shall exercise the following functions:
+
+(a) provide expertise to eu-LISA and to the Programme Management Board on the design and development of the router in accordance with Article 25;
+
+(b) provide expertise to eu-LISA on the hosting and technical management of the router in accordance with Article 26;
+
+(c) provide its opinion to the Programme Management Board, upon its request, on the progress of the design and development of the router, including on the progress of the technical specifications and compliance test sets referred to in paragraph 2.
+
+4\. The API-PNR Advisory Group shall have no decision-making power, nor any mandate to represent the eu-LISA’s Management Board or its members.
+
+### Article 30
+
+API-PNR Contact Group
+
+1\. By the relevant date of the application of this Regulation referred to in Article 45, second paragraph, eu-LISA’s Management Board shall establish an API-PNR Contact Group.
+
+2\. The API-PNR Contact Group shall enable communication between Member States’ relevant authorities and air carriers on technical matters related to their respective tasks and obligations under this Regulation.
+
+3\. The API-PNR Contact Group shall be composed of representatives of Member States’ relevant authorities and air carriers, the chairperson of the API-PNR Advisory Group and eu-LISA’s experts.
+
+4\. eu-LISA’s Management Board shall establish the rules of procedure of the API-PNR Contact Group, following an opinion of the API-PNR Advisory Group.
+
+5\. Where deemed necessary, eu-LISA’s Management Board may also establish sub-groups of the API-PNR Contact Group to discuss specific technical matters related to the respective tasks and obligations of Member States’ relevant authorities and air carriers under this Regulation.
+
+6\. The API-PNR Contact Group, including its sub-groups, shall have no decision-making power, nor any mandate to represent the eu-LISA’s Management Board or its members.
+
+### Article 31
+
+API Expert Group
+
+1\. By the date of application of this Regulation referred to in Article 45, second paragraph, point (a), the Commission shall establish an API Expert Group in accordance with the horizontal rules on the creation and operation of Commission expert groups.
+
+2\. The API Expert Group shall enable communication among Member States’ relevant authorities, and between Member States’ relevant authorities and air carriers, on policy matters related to their respective tasks and obligations under this Regulation, including in relation to the penalties referred to in Article 38.
+
+3\. The API Expert Group shall be chaired by the Commission and constituted in accordance with the horizontal rules on the creation and operation of Commission expert groups. It shall be composed of representatives of Member States’ relevant authorities, representatives of air carriers and eu-LISA’s experts. Where relevant for the performance of its tasks, the API Expert Group may invite relevant stakeholders, in particular representatives of the European Parliament, the European Data Protection Supervisor and the independent national supervisory authorities, to participate in its work.
+
+4\. The API Expert Group shall carry out its tasks in accordance with the principle of transparency. The Commission shall publish the minutes of the meetings of the API Expert Group and other relevant documents on the Commission website.
+
+### Article 32
+
+Costs incurred by eu-LISA, the European Data Protection Supervisor, the national supervisory authorities and Member States
+
+1\. Costs incurred by eu-LISA in relation to the establishment and operation of the router under this Regulation shall be borne by the general budget of the Union.
+
+2\. Costs incurred by the Member States in relation to the implementation of this Regulation, in particular to their connection to and the integration with the router referred to in Article 23, shall be supported by the general budget of the Union, in accordance with the eligibility rules and co-financing rates set in the applicable Union legal acts.
+
+3\. Costs incurred by the European Data Protection Supervisor in relation to the tasks entrusted to it under this Regulation shall be borne by the general budget of the Union.
+
+4\. Costs incurred by independent national supervisory authorities in relation to the tasks entrusted to them under this Regulation shall be borne by the Member States.
+
+### Article 33
+
+Liability regarding the router
+
+If a failure of a Member State or an air carrier to comply with its obligations under this Regulation causes damage to the router, that Member State or air carrier shall be liable for such damage, as provided for by the applicable Union or national law, unless and insofar as it is demonstrated that eu-LISA, another Member State or another air carrier failed to take reasonable measures to prevent the damage from occurring or to minimise its impact.
+
+### Article 34
+
+Start of operations of the router in relation to API data
+
+The Commission shall determine, without undue delay, the date from which the router starts operations in relation to API data by means of an implementing act once eu-LISA has informed the Commission of the successful completion of the comprehensive test of the router referred to in Article 25(5). That implementing act shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+The Commission shall set the date referred to in the first paragraph to be no later than 30 days from the date of the adoption of that implementing act.
+
+### Article 35
+
+Start of operations of the router in relation to other PNR data
+
+The Commission shall determine, without undue delay, the date from which the router starts operations in relation to other PNR data by means of an implementing act once eu-LISA has informed the Commission of the successful completion of the comprehensive tests of the router referred to in Article 25(6), including on the reliability of the connections of the router with air carriers and PIUs and on the readability of other PNR data transferred by air carriers and transmitted by the router in the necessary standardised format, in accordance with Article 16 of Directive (EU) 2016/681. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 42(2).
+
+The Commission shall set the date referred to in the first paragraph to be no later than 30 days from the date of the adoption of that implementing act.
+
+### Article 36
+
+Voluntary use of the router
+
+1\. Air carriers shall be entitled to use the router to transmit the information referred to in Article 3(1) and (2) of Directive 2004/82/EC or other PNR data collected pursuant to Article 8 of Directive (EU) 2016/681 to one or more of the responsible PIUs, in accordance with those Directives, provided that the Member State concerned has agreed with such use, from an appropriate date set by that Member State. That Member State shall agree only after having established that, in particular as regards both its own PIU’s connection to the router and that of the air carrier concerned, the information can be transmitted in a lawful, secure, effective and swift manner.
+
+2\. Where an air carrier starts using the router in accordance with paragraph 1 of this Article, it shall continue using the router to transmit such information to the PIU of the Member State concerned until the relevant date of application of this Regulation referred to in Article 45, second paragraph. However, that use shall be discontinued, from an appropriate date set by that Member State, where that Member State considers that there are objective reasons that require such discontinuation and has informed the air carrier accordingly.
+
+3\. The Member State concerned shall:
+
+(a) consult eu-LISA before agreeing with the voluntary use of the router in accordance with paragraph 1;
+
+(b) except in situations of duly justified urgency, afford the air carrier concerned an opportunity to comment on its intention to discontinue such use in accordance with paragraph 2 and, where relevant, also consult eu-LISA thereon;
+
+(c) immediately inform eu-LISA and the Commission of any such use to which it agreed and any discontinuation of such use, providing all necessary information, including the date of the start of the use, the date of the discontinuation and the reasons for the discontinuation, as applicable.
+
+## CHAPTER 7 — SUPERVISION, PENALTIES, STATISTICS AND HANDBOOK
+
+### Article 37
+
+National API supervision authority
+
+1\. Member States shall designate one or more national API supervision authorities responsible for monitoring the application within their territory by air carriers of the provisions of this Regulation and ensuring compliance with those provisions.
+
+2\. Member States shall ensure that the national API supervision authorities have all the means and all the investigative and enforcement powers necessary to carry out their tasks under this Regulation, including by imposing the penalties referred to in Article 38 where appropriate. Member States shall ensure that the exercise of the powers conferred on the national API supervision authority is subject to appropriate safeguards in compliance with the fundamental rights guaranteed under Union law.
+
+3\. Member States shall, by the relevant date of application of this Regulation referred to in Article 45, second paragraph, notify the Commission of the name and the contact details of the authorities that they designated under paragraph 1 of this Article. They shall notify the Commission without delay of any subsequent changes or amendments thereto.
+
+4\. This Article is without prejudice to the powers of the supervisory authorities referred to in Article 51 of Regulation (EU) 2016/679, Article 41 of Directive (EU) 2016/680 and Article 15 of Directive (EU) 2016/681.
+
+### Article 38
+
+Penalties
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall, by the relevant date of application of this Regulation referred to in Article 45, second paragraph, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
+
+3\. Member States shall ensure that the national API supervision authorities, when deciding whether to impose a penalty and when determining the type and level of penalty, take into account relevant circumstances, which may include:
+
+(a) the nature, gravity and duration of the infringement;
+
+(b) the degree of the air carrier’s fault;
+
+(c) previous infringements by the air carrier;
+
+(d) the overall level of cooperation of the air carrier with the competent authorities;
+
+(e) the size of the air carrier, such as the annual number of passengers carried;
+
+(f) whether previous penalties have already been applied by other national API supervision authorities to the same air carrier for the same infringement.
+
+4\. Member States shall ensure that a recurrent failure to transfer API data in accordance with Article 5(1) is subject to proportionate financial penalties of up to 2 % of the air carrier’s global turnover of the preceding financial year. Member States shall ensure that failure to comply with other obligations set out in this Regulation is subject to proportionate penalties, including financial penalties.
+
+### Article 39
+
+Statistics
+
+1\. In order to support the implementation and monitoring of the application of this Regulation, and on the basis of the statistical information referred to in paragraphs 5 and 6, eu-LISA shall publish every quarter statistics on the functioning of the router and on the compliance of air carriers with the obligations set out in this Regulation. Those statistics shall not allow for the identification of individuals.
+
+2\. For the purposes set out in paragraph 1, the router shall automatically transmit the data listed in paragraphs 5 and 6 to the CRRS.
+
+3\. In order to support the implementation and monitoring of the application of this Regulation, each year, eu-LISA shall compile statistical data in an annual report for the previous year. It shall publish that annual report and transmit it to the European Parliament, the Council, the Commission, the European Data Protection Supervisor, the European Border and Coast Guard Agency and the national API supervision authorities referred to in Article 37. The annual report shall not disclose confidential working methods or jeopardise ongoing investigations of the Member States’ competent authorities.
+
+4\. At the request of the Commission, eu-LISA shall provide it with statistics on specific aspects related to the implementation of this Regulation as well as the statistics pursuant to paragraph 3.
+
+5\. The CRRS shall provide eu-LISA with the following statistical information necessary for the reporting referred to in Article 44 and for generating statistics in accordance with this Article, without such statistics on API data allowing for the identification of the passengers concerned:
+
+(a) whether the data concern a passenger or a crew member;
+
+(b) the nationality, sex and year of birth of the passenger or crew member;
+
+(c) the date and the initial point of embarkation, the date and airport of departure, and the date and airport of arrival;
+
+(d) the type of travel document, the three-letter code of the issuing country and the date of expiry of the validity of the travel document;
+
+(e) the number of passengers checked-in on the same flight;
+
+(f) the code of the air carrier operating the flight;
+
+(g) whether the flight is a scheduled or a non-scheduled flight;
+
+(h) whether API data were transferred immediately after flight closure;
+
+(i) whether the personal data of the passenger are accurate, complete and up to date;
+
+(j) the technical means used to capture the API data.
+
+6\. The CRRS shall provide eu-LISA with the following statistical information necessary for the reporting referred to in Article 44 and for generating statistics in accordance with this Article, without such statistics on other PNR data allowing for the identification of the passengers concerned:
+
+(a) the date and time the PNR message was received by the router;
+
+(b) flight information contained in the travel itinerary in the specific PNR message;
+
+(c) code share information contained in the specific PNR message.
+
+7\. For the purposes of the reporting referred to in Article 44 and for generating statistics in accordance with this Article, eu-LISA shall store the data referred to in paragraphs 5 and 6 of this Article in the CRRS. It shall store such data for a period of five years in accordance with paragraph 2, while ensuring that the data do not allow for the identification of the passengers concerned. The CRRS shall provide the duly authorised staff of the PIUs and other relevant authorities of the Member States with customisable reports and statistics on API data as referred to in paragraph 5 of this Article and other PNR data as referred to in paragraph 6 of this Article for the implementation and monitoring of the application of this Regulation.
+
+8\. The use of the data referred to in paragraphs 5 and 6 of this Article shall not result in the profiling of individuals as referred to in Article 11(3) of Directive (EU) 2016/680 or discrimination against persons on the grounds listed in Article 21 of the Charter. The data referred to in paragraph 5 and paragraph 6 of this Article shall not be used to compare or match them with personal data or to combine them with personal data.
+
+9\. The procedures put in place by eu-LISA to monitor the development and the functioning of the router referred to in Article 39(2) of Regulation (EU) 2019/818 shall include the possibility to produce regular statistics to ensure that monitoring.
+
+### Article 40
+
+Practical handbook
+
+The Commission shall, in close cooperation with the PIUs, other relevant authorities of the Member States, air carriers and relevant Union bodies and agencies, prepare and make publicly available a practical handbook, containing guidelines, recommendations and best practices for the implementation of this Regulation, including on fundamental rights compliance as well as on penalties in accordance with Article 38.
+
+The practical handbook shall take into account other relevant handbooks.
+
+The Commission shall adopt the practical handbook in the form of a recommendation.
+
+## CHAPTER 8 — RELATIONSHIP TO OTHER EXISTING INSTRUMENTS
+
+### Article 41
+
+Amendment to Regulation (EU) 2019/818
+
+In Article 39 of Regulation (EU) 2019/818, paragraphs 1 and 2 are replaced by the following:
+
+‘1. A central repository for reporting and statistics (CRRS) is established for the purpose of supporting the objectives of the SIS, Eurodac and ECRIS-TCN, in accordance with the respective legal instruments governing those systems, and to provide cross-system statistical data and analytical reporting for policy, operational and data quality purposes. The CRRS shall also support the objectives of Regulation (EU) 2025/13 of the European Parliament and of the Council ( *1 ).
+
+2\. eu-LISA shall establish, implement and host in its technical sites the CRRS containing the data and statistics referred to in Article 74 of Regulation (EU) 2018/1862 and Article 32 of Regulation (EU) 2019/816 logically separated by EU information system. eu-LISA shall also collect the data and statistics from the router referred to in Article 39(1) of Regulation (EU) 2025/13. Access to the CRRS shall be granted by means of controlled, secured access and specific user profiles, solely for the purposes of reporting and statistics, to the authorities referred to in Article 74 of Regulation (EU) 2018/1862, Article 32 of Regulation (EU) 2019/816 and Article 13(1) of Regulation(EU) 2025/13.
+
+## CHAPTER 9 — FINAL PROVISIONS
+
+### Article 42
+
+Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+### Article 43
+
+Exercise of delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(11) and (12), Article 5(4), and Article 7(5) shall be conferred on the Commission for a period of five years from 28 January 2025. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+As regards a delegated act adopted pursuant to Article 4(11), if an objection under paragraph 6 of this Article has been expressed either by the European Parliament or by the Council, the European Parliament or the Council shall not oppose the tacit extension referred to in the first subparagraph of this paragraph.
+
+3\. The delegation of power referred to in Article 4(12), Article 5(4) and Article 7(5) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 4(11) or (12), Article 5(4) or Article 7(5) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 44
+
+Monitoring and evaluation
+
+1\. eu-LISA shall ensure that procedures are in place to monitor the development of the router in light of objectives relating to planning and costs, and to monitor the functioning of the router in light of objectives relating to the technical output, cost-effectiveness, security and quality of service.
+
+2\. By 29 January 2026 and every year thereafter during the development phase of the router, eu-LISA shall produce a report on the state of play of the development of the router, and submit that report to the European Parliament and to the Council. The report shall contain detailed information about the costs incurred and about any risks which may impact the overall costs to be borne by the general budget of the Union in accordance with Article 32.
+
+3\. Once the router starts operations, eu-LISA shall produce a report and submit it to the European Parliament and to the Council explaining in detail how the objectives, in particular relating to planning and costs, were achieved and giving reasons for any divergences.
+
+4\. By 29 January 2029, and every four years thereafter, the Commission shall produce a report containing an overall evaluation of this Regulation, including on the necessity and added value of the collection of API data, including an assessment of:
+
+(a) the application of this Regulation;
+
+(b) the extent to which this Regulation achieved its objectives;
+
+(c) the impact of this Regulation on fundamental rights protected under Union law;
+
+(d) the impact of this Regulation on the travel experience of legitimate passengers;
+
+(e) the impact of this Regulation on the competitiveness of the aviation sector and the burden incurred by businesses;
+
+(f) the quality of the data transmitted by the router to the PIUs;
+
+(g) the performance of the router in respect of the PIUs.
+
+For the purposes of point (e) of the first subparagraph, the Commission’s report shall also address this Regulation’s interaction with other relevant Union legislative acts, in particular Regulations (EC) No 767/2008, (EU) 2017/2226 and (EU) 2018/1240 and, in order to assess the overall impact of related reporting obligations on air carriers, identify provisions that could be updated and simplified, where appropriate, to mitigate the burden on air carriers, and consider actions and measures that could be taken to reduce the total cost pressure on air carriers.
+
+5\. The evaluation referred to in paragraph 4 shall also include an assessment of the necessity, proportionality and effectiveness of including the mandatory collection and transfer of API data relating to intra-EU flights within the scope of this Regulation.
+
+6\. The Commission shall submit the evaluation report to the European Parliament, the Council, the European Data Protection Supervisor and the European Agency for Fundamental Rights. If appropriate, in light of the evaluation conducted, the Commission shall make a legislative proposal to the European Parliament and to the Council with a view to amending this Regulation.
+
+7\. The Member States and air carriers shall, upon request, provide eu-LISA and the Commission with the information necessary to draft the reports referred to in paragraphs 2, 3 and 4. In particular, Member States shall provide quantitative and qualitative information on the collection of API data from an operational perspective. The information provided shall not include personal data. Member States may refrain from providing such information if, and to the extent, necessary not to disclose confidential working methods or jeopardise ongoing investigations of their PIUs or other competent authorities. The Commission shall ensure that any confidential information provided is appropriately protected.
+
+### Article 45
+
+Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply:
+
+(a) in relation to API data, from the date two years from the date on which the router starts operations, as determined by the Commission in accordance with Article 34; and
+
+(b) in relation to other PNR data, from the date four years from the date on which the router starts operations, as determined by the Commission in accordance with Article 35.
+
+However:
+
+(a) Article 4(12), Article 5(4), Article 7(5), Article 11(5), Article 12(6), Article 18(4), Article 23(2), Article 24(2), Article 25, Article 28, Article 29, Article 32(1), Article 34, Article 35, Article 42 and Article 43 shall apply from 28 January 2025;
+
+(b) Article 6, Article 17(1), (2) and (3), Article 18(1), (2) and (3), Article 19, Article 20, Article 26, Article 27, Article 33 and Article 36 shall apply from the date on which the router starts operations, as determined by the Commission in accordance with Article 34 and Article 35.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( ) Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.3.2017, p. 6).
+
+( ) OJ L 56, 4.3.1968, p. 1.
+
+( *1 ) Regulation (EU) 2025/13 of the European Parliament and of the Council of 19 December 2024 on the collection and transfer of advance passenger information for the prevention, detection, investigation and prosecution of terrorist offences and serious crime, and amending Regulation (EU) 2019/818 (OJ L, 2025/13, 8.1.2025, ELI: http://data.europa.eu/eli/reg/2025/13/oj).’.

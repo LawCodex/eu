@@ -1,0 +1,1783 @@
+---
+title: "Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC"
+identifier: "32009R1221"
+eli: "http://data.europa.eu/eli/reg/2009/1221/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-11-25
+entry_into_force: 2010-01-11
+last_amended: 2023-07-12
+consolidated_version: "02009R1221-20230712"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1221-20230712"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC
+
+**REGULATION (EC) No 1221/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2009**
+
+**on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/1505 of 28 August 2017 </td><td> L 222</td><td>1</td><td>29.8.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/2026 of 19 December 2018 </td><td> L 325</td><td>18</td><td>20.12.2018</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EU) 2023/1199 of 21 June 2023 </td><td> L 159</td><td>1</td><td>22.6.2023</td></tr>
+</table>
+
+**REGULATION (EC) No 1221/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2009**
+
+**on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Objective
+
+A Community eco-management and audit scheme, hereinafter referred to as ‘EMAS’, is hereby established, allowing voluntary participation by organisations located inside or outside the Community.
+
+The objective of EMAS, as an important instrument of the Sustainable Consumption and Production and Sustainable Industrial Policy Action Plan, is to promote continuous improvements in the environmental performance of organisations by the establishment and implementation of environmental management systems by organisations, the systematic, objective and periodic evaluation of the performance of such systems, the provision of information on environmental performance, an open dialogue with the public and other interested parties and the active involvement of employees in organisations and appropriate training.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+1\. ‘environmental policy’ means the overall intentions and direction of an organisation relating to its environmental performance as formally expressed by top management including compliance with all applicable legal requirements relating to the environment and also a commitment to continuous improvement of environmental performance. It provides a framework for action and for the setting of environmental objectives and targets;
+
+2\. ‘environmental performance’ means the measurable results of an organisation's management of its environmental aspects;
+
+3\. ‘legal compliance’ means full implementation of applicable legal requirements, including permit conditions, relating to the environment;
+
+4\. ‘environmental aspect’ means an element of an organisation's activities, products or services that has or can have an impact on the environment;
+
+5\. ‘significant environmental aspect’ means an environmental aspect that has or can have a significant environmental impact;
+
+6\. ‘direct environmental aspect’ means an environmental aspect associated with activities, products and services of the organisation itself over which it has direct management control;
+
+7\. ‘indirect environmental aspect’ means an environmental aspect which can result from the interaction of an organisation with third parties and which can to a reasonable degree be influenced by an organisation;
+
+8\. ‘environmental impact’ means any change to the environment, whether adverse or beneficial, wholly or partially resulting from an organisation's activities, products or services;
+
+9\. ‘environmental review’ means an initial comprehensive analysis of environmental aspects, environmental impacts and environmental performance related to an organisation's activities, products and services;
+
+10\. ‘environmental programme’ means a description of the measures, responsibilities and means taken or envisaged to achieve environmental objectives and targets and the deadlines for achieving the environmental objectives and targets;
+
+11\. ‘environmental objective’ means an overall environmental goal, arising from the environmental policy, that an organisation sets itself to achieve, and which is quantified where practicable;
+
+12\. ‘environmental target’ means a detailed performance requirement, arising from the environmental objectives, applicable to an organisation or parts thereof, and that needs to be set and met in order to achieve those objectives;
+
+13\. ‘environmental management system’ means the part of the overall management system that includes the organisational structure, planning activities, responsibilities, practices, procedures, processes and resources for developing, implementing, achieving, reviewing and maintaining the environmental policy and managing the environmental aspects;
+
+14\. ‘best environmental management practice’ means the most effective way to implement the environmental management system by organisations in a relevant sector and that can result in best environmental performance under given economic and technical conditions;
+
+15\. ‘substantial change’ means any change in an organisation's operation, structure, administration, processes, activities, products or services that has or can have a significant impact on an organisation's environmental management system, the environment or human health;
+
+16\. ‘internal environmental audit’ means a systematic, documented, periodic and objective evaluation of the environmental performance of an organisation, management system and processes designed to protect the environment;
+
+17\. ‘auditor’ means an individual or group of individuals, belonging to an organisation itself or a natural or legal person external to that organisation, acting on behalf of that organisation, carrying out an assessment of, in particular, the environmental management system in place and determining conformity with the organisation's environmental policy and programme, including compliance with the applicable legal requirements relating to the environment;
+
+18\. ‘environmental statement’ means the comprehensive information to the public and other interested parties regarding an organisation's:
+
+(a) structure and activities;
+
+(b) environmental policy and environmental management system;
+
+(c) environmental aspects and impacts;
+
+(d) environmental programme, objectives and targets;
+
+(e) environmental performance and compliance with applicable legal obligations relating to the environment as set out in Annex IV;
+
+19\. ‘updated environmental statement’ means the comprehensive information to the public and other interested parties containing updates of the last validated environmental statement, only with regard to an organisation's environmental performance and compliance with applicable legal obligations relating to the environment as set out in Annex IV;
+
+20\. ‘environmental verifier’ means:
+
+(a) a conformity assessment body as defined in Regulation (EC) No 765/2008 or any association or group of such bodies, which has obtained accreditation in accordance with this Regulation; or
+
+(b) any natural or legal person, or any association or group of such persons, which has obtained a licence to carry out verification and validation in accordance with this Regulation;
+
+21\. ‘organisation’ means a company, corporation, firm, enterprise, authority or institution, located inside or outside the Community, or part or combination thereof, whether incorporated or not, public or private, which has its own functions and administration;
+
+22\. ‘site’ means a distinct geographic location under the management control of an organisation covering activities, products and services, including all infrastructure, equipment and materials; a site is the smallest entity to be considered for registration;
+
+23\. ‘cluster’ means a group of independent organisations related to each other by geographical proximity or business activities jointly implementing the environmental management system;
+
+24\. ‘verification’ means the conformity assessment process carried out by an environmental verifier to demonstrate whether an organisation's environmental review, environmental policy, environmental management system and internal environmental audit and its implementation fulfils the requirements of this Regulation;
+
+25\. ‘validation’ means the confirmation by the environmental verifier who carried out the verification, that the information and data in an organisation's environmental statement and updated environmental statement are reliable, credible and correct and meet the requirements of this Regulation;
+
+26\. ‘enforcement authorities’ means the relevant competent authorities as identified by the Member States to detect, prevent and investigate breaches of applicable legal requirements relating to the environment and, where required, take enforcement action;
+
+27\. ‘environmental performance indicator’ means a specific expression that allows measurement of an organisation's environmental performance;
+
+28\. ‘small organisations’ means:
+
+(a) micro, small and medium-sized enterprises as defined in Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises ( 1 ); or
+
+(b) local authorities governing less than 10 000 inhabitants or other public authorities employing fewer than 250 persons and having an annual budget not exceeding EUR 50 million, or an annual balance sheet not exceeding EUR 43 million, including all of the following:
+
+(i) government or other public administrations, or public advisory bodies at national, regional or local level;
+
+(ii) natural or legal persons performing public administrative functions under national law, including specific duties, activities or services in relation to the environment; and
+
+(iii) natural or legal persons having public responsibilities or functions, or providing public services, relating to the environment under the control of a body or person referred to in point (b);
+
+29\. ‘corporate registration’ means a single registration of all or some sites of an organisation with sites located in one or more Member States or third countries;
+
+30\. ‘Accreditation Body’ means a national accreditation body appointed pursuant to Article 4 of Regulation (EC) No 765/2008 which is responsible for the accreditation and supervision of environmental verifiers;
+
+31\. ‘Licensing Body’ means a body appointed in accordance with Article 5(2) of Regulation (EC) No 765/2008 which is responsible for issuing licences to, and for supervising, environmental verifiers.
+
+## CHAPTER II — REGISTRATION OF ORGANISATIONS
+
+### Article 3 — Determination of the Competent Body
+
+1\. Applications for registration from organisations in a Member State shall be made to a Competent Body in that Member State.
+
+2\. An organisation with sites located in one or more Member States or third countries may apply for one single corporate registration of all or some of those sites.
+
+Applications for a single corporate registration shall be made to a Competent Body of the Member State where the organisation's headquarters or management centre designated for the purpose of this paragraph is located.
+
+3\. Applications for registration from organisations outside the Community, including corporate registration consisting only of sites located outside the Community, shall be made to any Competent Body in those Member States that provide for the registration of organisations from outside the Community in accordance with the second subparagraph of Article 11(1).
+
+Those organisations shall ensure that the environmental verifier which will carry out the verification and validate the environmental management system of the organisation is accredited or licensed in the Member State where the organisation applies for registration.
+
+### Article 4 — Preparation for registration
+
+1\. Organisations wishing to be registered for the first time shall:
+
+(a) carry out an environmental review of all environmental aspects of the organisation in accordance with the requirements set out in Annex I and in point A.3.1 of Annex II;
+
+(b) in the light of the results of the environmental review, develop and implement an environmental management system covering all the requirements referred to in Annex II, and, where available, taking into account the best environmental management practice for the relevant sector referred to in Article 46(1)(a);
+
+(c) carry out an internal audit in accordance with the requirements set out in point A.5.5 of Annex II and Annex III;
+
+(d) prepare an environmental statement, in accordance with Annex IV. Where sectoral reference documents as referred to in Article 46 are available for the specific sector, the assessment of the organisation's environmental performance shall take into account the relevant document.
+
+2\. Organisations may use the assistance referred to in Article 32 that is available in the Member State where the organisation applies for registration.
+
+3\. Organisations which have a certified environmental management system, recognised in accordance with Article 45(4), shall not be obliged to carry out those parts which have been recognised as equivalent to this Regulation.
+
+4\. Organisations shall provide material or documentary evidence showing that the organisation complies with all applicable legal requirements relating to the environment.
+
+Organisations may request information from the competent enforcement authority or authorities in accordance with Article 32 or the environmental verifier.
+
+Organisations outside the Community shall also make reference to the legal requirements relating to the environment applicable to similar organisations in the Member States where they intend to submit an application.
+
+Where sectoral reference documents as referred to in Article 46 are available for the specific sector, the assessment of the organisation's environmental performance shall be made with reference to the relevant document.
+
+5\. The initial environmental review, the environment management system, the audit procedure and its implementation shall be verified by an accredited or licensed environmental verifier and the environmental statement shall be validated by that verifier.
+
+### Article 5 — Application for registration
+
+1\. Any organisation meeting requirements set out in Article 4 may apply for registration.
+
+2\. The application for registration shall be made to the Competent Body determined in accordance with Article 3 and shall include the following:
+
+(a) the validated environmental statement in electronic or printed form;
+
+(b) the declaration as referred to in Article 25(9), signed by the environmental verifier which validated the environmental statement;
+
+(c) a completed form, which includes at least the minimum information on as set out in Annex VI;
+
+(d) evidence of payment of applicable fees, if applicable.
+
+3\. The application shall be written in (one of) the official language(s) of the Member State in which the organisation applies for registration.
+
+## CHAPTER III — OBLIGATIONS OF REGISTERED ORGANISATIONS
+
+### Article 6 — Renewal of EMAS registration
+
+1\. A registered organisation shall at least on a three-yearly basis:
+
+(a) have the full environmental management system and audit programme and its implementation verified;
+
+(b) prepare the environmental statement in accordance with the requirements set out in Annex IV and have it validated by an environmental verifier;
+
+(c) forward the validated environmental statement to the Competent Body;
+
+(d) forward to the Competent Body a completed form, which includes at least the minimum information set out in Annex VI;
+
+(e) pay a fee for the renewal of the registration to the Competent Body, if applicable.
+
+2\. Without prejudice to paragraph 1, in the intervening years, a registered organisation shall:
+
+(a) in accordance with the audit programme, carry out an internal audit of its environmental performance and compliance with applicable legal requirements relating to the environment in accordance with Annex III;
+
+(b) prepare an updated environmental statement in accordance with the requirements laid down in Annex IV, and have it validated by an environmental verifier;
+
+(c) forward the validated updated environmental statement to the Competent Body;
+
+(d) forward to the Competent Body a completed form, which includes at least the minimum information set out in Annex VI;
+
+(e) pay a fee for the maintenance of the registration to the Competent Body, if applicable.
+
+3\. Registered organisations shall make their environmental statement and updated environmental statement accessible to the public within one month of registration and one month after the renewal of the registration is completed.
+
+Registered organisations may satisfy that requirement by providing access to the environmental statement and the updated environmental statement upon request or by creating links to Internet sites where those statements can be accessed.
+
+Registered organisations shall specify the way in which they provide public access in the form set out in Annex VI.
+
+### Article 7 — Derogation for small organisations
+
+1\. Competent Bodies shall, upon request of a small organisation, extend for that organisation the three-yearly frequency referred to in Article 6(1) up to four years or the annual frequency referred to in Article 6(2) up to two years, provided that the environmental verifier that has verified the organisation confirms that all the following conditions are met:
+
+(a) no significant environmental risks are present;
+
+(b) the organisation has no substantial changes planned as defined in Article 8, and
+
+(c) there exist no significant local environmental problems that the organisation contributes to.
+
+To submit the request referred to in the first subparagraph, the organisation may use the form set out in Annex VI.
+
+2\. The Competent Body shall refuse the request if the conditions set out in paragraph 1 are not met. It shall communicate a reasoned justification to the organisation.
+
+3\. Organisations benefiting from an extension of up to two years, as referred to in paragraph 1, shall forward the non-validated updated environmental statement to the Competent Body each year that they are exempt from the obligation to have a validated updated environmental statement.
+
+### Article 8 — Substantial changes
+
+1\. Where a registered organisation plans to introduce substantial changes, the organisation shall carry out an environmental review of these changes, including their environmental aspects and impacts.
+
+2\. Following the environmental review of changes, the organisation shall update the initial environmental review, modify the environmental policy, the environmental programme and the environmental management system and revise and update the entire environmental statement accordingly.
+
+3\. All documents modified and updated pursuant to paragraph 2 shall be verified and validated within six months.
+
+4\. After validation, the organisation shall submit changes to the Competent Body using the form set out in Annex VI and make the changes publicly available.
+
+### Article 9 — Internal environmental audit
+
+1\. A registered organisation shall establish an audit programme that ensures that over a period of time, not exceeding three years or four years if the derogation provided for in Article 7 applies, all activities in the organisation are subject to an internal environmental audit in accordance with the requirements set out in Annex III.
+
+2\. The audit shall be carried out by auditors who possess, individually or collectively, the competence necessary for carrying out these tasks and are sufficiently independent of the activities they audit to make an objective judgment.
+
+3\. The organisation's environmental auditing programme shall define the objectives of each audit or audit cycle including the audit frequency for each activity.
+
+4\. A written audit report shall be prepared by the auditors at the end of each audit and audit cycle.
+
+5\. The auditor shall communicate the findings and conclusions of the audit to the organisation.
+
+6\. Following the audit process, the organisation shall prepare and implement an appropriate action plan.
+
+7\. The organisation shall put in place appropriate mechanisms that ensure that the audit results are followed up.
+
+### Article 10 — Use of the EMAS logo
+
+1\. Without prejudice to Article 35(2), the EMAS logo set out in Annex V may be used only by registered organisations and only as long as their registration is valid.
+
+The logo shall always bear the registration number of the organisation.
+
+2\. The EMAS logo shall only be used in accordance with the technical specifications set out in Annex V.
+
+3\. In case an organisation chooses, in accordance with Article 3(2), not to include all its sites in the corporate registration, it shall ensure that in its communications with the public and in its use of the EMAS logo it is clear which sites are covered by the registration.
+
+4\. The EMAS logo shall not be used:
+
+(a) on products or their packaging; or
+
+(b) in conjunction with comparative claims concerning other activities and services or in a way that may create confusion with environmental product labels.
+
+5\. Any environmental information published by a registered organisation may bear the EMAS logo provided such information makes reference to the organisation's latest environmental statement or updated environmental statement from which it was drawn and it has been validated by an environmental verifier as being:
+
+(a) accurate;
+
+(b) substantiated and verifiable;
+
+(c) relevant and used in an appropriate context or setting;
+
+(d) representative of the overall environmental performance of the organisation;
+
+(e) unlikely to result in misinterpretation; and
+
+(f) significant in relation to the overall environmental impact.
+
+## CHAPTER IV — RULES APPLICABLE TO COMPETENT BODIES
+
+### Article 11 — Designation and role of Competent Bodies
+
+1\. Member States shall designate Competent Bodies, which shall be responsible for the registration of organisations located in the Community in accordance with this Regulation.
+
+Member States may provide that the Competent Bodies they designate provide for and shall be responsible for the registration of organisations located outside the Community in accordance with this Regulation.
+
+The Competent Bodies shall control the entry and maintenance of organisations on the register, including suspension and deletion.
+
+2\. The Competent Bodies may be national, regional or local.
+
+3\. The composition of the Competent Bodies shall guarantee their independence and neutrality.
+
+4\. The Competent Bodies shall have the appropriate resources, both financial and in terms of personnel, for the proper performance of their tasks.
+
+5\. The Competent Bodies shall apply this Regulation in a consistent manner and shall participate in regular peer evaluation as set out in Article 17.
+
+### Article 12 — Obligations concerning the registration process
+
+1\. Competent Bodies shall establish procedures for the registration of organisations. They shall in particular establish rules for:
+
+(a) considering observations from interested parties, including Accreditation and Licensing Bodies and competent enforcement authorities and the organisations’ representative bodies, concerning applicant or registered organisations;
+
+(b) refusal of registration, suspension or deletion of organisations, and
+
+(c) resolution of appeals and complaints made against their decisions.
+
+2\. Competent Bodies shall establish and maintain a register of organisations registered in their Member States, including information as to how their environmental statement or updated environmental statement can be obtained, and, in the case of changes, update that register on a monthly basis.
+
+The register shall be publicly available on a website.
+
+3\. Competent Bodies shall each month, directly or via the national authorities as decided by the Member States concerned, communicate changes in the register referred to in paragraph 2 to the Commission.
+
+### Article 13 — Registration of organisations
+
+1\. Competent Bodies shall consider applications for registration of organisations in accordance with the procedures established to this end.
+
+2\. Where an organisation applies for registration, the Competent Body shall register that organisation and give it a registration number if all the following conditions are fulfilled:
+
+(a) the Competent Body has received an application for registration, which includes all the documents referred to in Article 5(2)(a) to (d);
+
+(b) the Competent Body has checked that the verification and validation have been carried out in accordance with Articles 25, 26 and 27;
+
+(c) the Competent Body is satisfied on the basis of material evidence received, for example through a written report from the competent enforcement authority that there is no evidence of breach of applicable legal requirements relating to the environment;
+
+(d) there are no relevant complaints from interested parties or complaints have been positively solved;
+
+(e) the Competent Body is satisfied on the basis of evidence received that the organisation meets all the requirements of this Regulation; and
+
+(f) the Competent Body has received a registration fee, if applicable.
+
+3\. The Competent Body shall inform the organisation that it has been registered and provide the organisation with its registration number and the EMAS logo.
+
+4\. If a Competent Body concludes that an applicant organisation does not comply with the requirements set out in paragraph 2, it shall refuse to register that organisation and communicate a reasoned justification to the organisation.
+
+5\. If a Competent Body receives a written supervision report from the Accreditation or Licensing Body which provides evidence that the activities of the environmental verifier were not performed adequately enough to ensure that the requirements of this Regulation are met by the applicant organisation, it shall refuse to register that organisation. The Competent Body shall invite the organisation to submit a new application for registration.
+
+6\. In order to obtain the necessary evidence for taking a decision on refusal of registration of organisations, the Competent Body shall consult the concerned parties including the organisation.
+
+### Article 14 — Renewal of the organisation's registration
+
+1\. A Competent Body shall renew the registration of the organisation if all the following conditions are fulfilled:
+
+(a) the Competent Body has received a validated environmental statement as referred to in Article 6(1)(c), a validated updated environmental statement as referred to in Article 6(2)(c) or a non-validated updated environmental statement as referred to in Article 7(3);
+
+(b) the Competent Body has received a completed form, which includes at least the minimum information set out in Annex VI, as referred to in Article 6(1)(d) and in Article 6(2)(d);
+
+(c) the Competent Body has no evidence that the verification and validation have not been carried out in accordance with Articles 25, 26 and 27;
+
+(d) the Competent Body has no evidence of non-compliance by the organisation with applicable legal requirements relating to the environment;
+
+(e) there are no relevant complaints from interested parties or complaints have been positively solved;
+
+(f) the Competent Body is satisfied on the basis of evidence received that the organisation meets all the requirements of this Regulation; and
+
+(g) the Competent Body has received a fee for renewal of the registration, if applicable.
+
+2\. The Competent Body shall inform the organisation that its registration has been renewed.
+
+### Article 15 — Suspension or deletion of organisations from the register
+
+1\. Where a Competent Body believes that a registered organisation does not comply with this Regulation, it shall give the organisation the opportunity to submit its views on the matter. Should the organisation fail to provide a satisfactory response it shall be deleted or suspended from the register.
+
+2\. Where a Competent Body receives a written supervision report from the Accreditation or Licensing Body which provides evidence that the activities of the environmental verifier were not performed adequately enough to ensure that the requirements of this Regulation are met by the registered organisation, registration shall be suspended.
+
+3\. A registered organisation shall be suspended or deleted from the register, as appropriate, if it fails to submit to a Competent Body, within two months of being required to do so, any of the following:
+
+(a) the validated environmental statement, an updated environmental statement or the signed declaration referred to in Article 25(9);
+
+(b) a form which includes at least the minimum information set out in Annex VI from the organisation.
+
+4\. If a Competent Body is informed through a written report by the competent enforcement authority of a breach by the organisation of any applicable legal requirements relating to the environment, it shall suspend or delete the reference to that organisation from the register as appropriate.
+
+5\. In case a Competent Body decides to suspend or delete a registration it shall take into account at least the following:
+
+(a) the environmental effect of the non-compliance by the organisation with the requirements of this Regulation;
+
+(b) the foreseeability of the non-compliance by the organisation with the requirements of this Regulation or the circumstances leading to it;
+
+(c) previous instances of non-compliance with the requirements of this Regulation by the organisation; and
+
+(d) the specific circumstances of the organisation.
+
+6\. In order to obtain the necessary evidence for taking its decision on suspension or deletion of organisations from the register, the Competent Body shall consult the concerned parties including the organisation.
+
+7\. Where the Competent Body has received evidence, other than by means of a written supervision report of the Accreditation or Licensing Body, that activities of the environmental verifier were not performed adequately enough to ensure that the requirements of this Regulation are met by the organisation, it shall consult the Accreditation or Licensing Body supervising the environmental verifier.
+
+8\. The Competent Body shall give reasons for any measures taken.
+
+9\. The Competent Body shall provide appropriate information to the organisation concerning the consultations with the concerned parties.
+
+10\. Suspension of an organisation from the register shall be lifted if the Competent Body has received satisfactory information that the organisation is in compliance with the requirements of this Regulation.
+
+### Article 16 — Forum of Competent Bodies
+
+1\. A Forum of Competent Bodies from all Member States, hereinafter referred to as ‘the Forum of Competent Bodies’, shall be set up by the Competent Bodies and meet at least once per year in the presence of a representative of the Commission.
+
+The Forum of Competent Bodies shall adopt its rules of procedure.
+
+2\. Competent Bodies of each Member State shall participate in the Forum of Competent Bodies. Where several Competent Bodies are established within one Member State, appropriate measures shall be taken to ensure that all of them are informed about the activities of the Forum of Competent Bodies.
+
+3\. The Forum of Competent Bodies shall develop guidance to ensure the consistency of procedures relating to the registration of organisations in accordance with this Regulation, including renewal of registration and suspension and deletion of organisations from the register both inside and outside the Community.
+
+The Forum of Competent Bodies shall transmit to the Commission the guidance documents and documents referring to the peer evaluation.
+
+4\. Guidance documents referring to harmonisation procedures approved by the Forum of Competent Bodies shall be proposed as appropriate by the Commission for adoption in accordance with the regulatory procedure with scrutiny referred to in Article 49(3).
+
+Those documents shall be made publicly available.
+
+### Article 17 — Peer evaluation of Competent Bodies
+
+1\. A peer evaluation shall be organised by the Forum of Competent Bodies to assess conformity of the registration system of every Competent Body with this Regulation and to develop a harmonised approach to the application of the rules relating to registration.
+
+2\. The peer evaluation shall be carried out on a regular basis and at least every four years, and shall include an assessment of the rules and procedures set out in Articles 12, 13 and 15. All Competent Bodies shall participate in the peer evaluation.
+
+3\. The Commission shall establish procedures for carrying out the peer evaluation, including appropriate appeals procedures against decisions taken as a result of the peer evaluation.
+
+Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 49(3).
+
+4\. Procedures referred to in paragraph 3 shall be established before the first peer evaluation takes place.
+
+5\. The Forum of Competent Bodies shall transmit a regular report of the peer evaluation to the Commission and the Committee established under Article 49(1).
+
+That report shall be made publicly available after approval by the Forum of Competent Bodies and the Committee referred to in the first subparagraph.
+
+## CHAPTER V — ENVIRONMENTAL VERIFIERS
+
+### Article 18 — Tasks of Environmental verifiers
+
+1\. Environmental verifiers shall assess whether an organisation's environmental review, environmental policy, management system, audit procedures and their implementation comply with the requirements of this Regulation.
+
+2\. Environmental verifiers shall verify the following:
+
+(a) compliance of the organisation with all the requirements of this Regulation with respect to the initial environmental review, environmental management system, environmental audit and its results and the environmental statement or updated environmental statement;
+
+(b) compliance of the organisation with applicable Community, national, regional and local legal requirements relating to the environment;
+
+(c) the organisation's continuous improvement of environmental performance; and
+
+(d) the reliability, credibility and correctness of the data and information in the following documents:
+
+(i) the environmental statement;
+
+(ii) the updated environmental statement;
+
+(iii) any environmental information to be validated.
+
+3\. Environmental verifiers shall, in particular, verify the appropriateness of the initial environmental review, or audit or other procedures carried out by the organisation, without unnecessarily duplicating those procedures.
+
+4\. Environmental verifiers shall verify whether the results of the internal audit are reliable. Where appropriate, they shall use spot-checks for that purpose.
+
+5\. At the time of the verification for the preparation for registration of an organisation, the environmental verifier shall check that at least the following requirements are met by that organisation:
+
+(a) a fully operational environmental management system in accordance with Annex II is in place;
+
+(b) a fully planned audit programme is in place and has begun in accordance with Annex III so that at least the most significant environmental impacts have been covered;
+
+(c) the management review referred to in Part A of Annex II is completed; and
+
+(d) an environmental statement is prepared in accordance with Annex IV and sectoral reference documents were taken into account, where available.
+
+6\. For the purposes of the verification for the renewal of registration referred to in Article 6(1), the environmental verifier shall check that the following requirements are met by the organisation:
+
+(a) the organisation has a fully operational environmental management system in accordance with Annex II;
+
+(b) the organisation has a fully operational planned audit programme, with at least one audit cycle completed in accordance with Annex III;
+
+(c) the organisation has completed one management review; and
+
+(d) the organisation has prepared an environmental statement in accordance with Annex IV and sectoral reference documents were taken into account, where available.
+
+7\. For the purposes of the verification for renewal of registration referred to in Article 6(2), the environmental verifier shall check that at least the following requirements are met by the organisation:
+
+(a) the organisation has carried out an internal audit of the environmental performance and the compliance with applicable legal requirements relating to the environment in accordance with Annex III;
+
+(b) the organisation demonstrates ongoing compliance with applicable legal requirements relating to the environment and continuous improvement of its environmental performance; and
+
+(c) the organisation has prepared an updated environmental statement in accordance with Annex IV and, where available, sectoral reference documents were taken into account.
+
+### Article 19 — Frequency of verification
+
+1\. The environmental verifier shall design, in consultation with the organisation, a programme that ensures that all elements required for registration and renewal of registration referred to in Articles 4, 5 and 6 are verified.
+
+2\. The environmental verifier shall at intervals not exceeding 12 months validate any updated information in the environmental statement or updated environmental statement.
+
+Where relevant, the derogation provided for in Article 7 shall apply.
+
+### Article 20 — Requirements for environmental verifiers
+
+1\. In order to obtain accreditation or a licence in accordance with this Regulation, a candidate environmental verifier shall introduce a request with the Accreditation or Licensing Body from which it seeks accreditation or a licence.
+
+That request shall specify the scope of the requested accreditation or licence by reference to the classification of economic activities as set out in Regulation (EC) No 1893/2006 ( 2 ).
+
+2\. The environmental verifier shall provide to the Accreditation or Licensing Body appropriate evidence of its competence, including knowledge, relevant experience and technical capacities relevant to the scope of the requested accreditation or licence in the following fields:
+
+(a) this Regulation;
+
+(b) the general functioning of environmental management systems;
+
+(c) relevant sectoral reference documents issued by the Commission, under Article 46, for the application of this Regulation;
+
+(d) the legislative, regulatory and administrative requirements relevant to the activity subject to verification and validation;
+
+(e) environmental aspects and impacts including the environmental dimension of sustainable development;
+
+(f) the technical aspects, relevant to environmental issues, of the activity subject to verification and validation;
+
+(g) the general functioning of the activity subject to verification and validation in order to assess the appropriateness of the management system, in relation to the interaction of the organisation and its products, services and operations with the environment including at least the following:
+
+(i) technologies employed by the organisation;
+
+(ii) terminology and tools deployed in the activities;
+
+(iii) operational activities and characteristics of their interaction with the environment;
+
+(iv) methodologies for the evaluation of significant environmental aspects;
+
+(v) pollution control and mitigation technologies;
+
+(h) environmental auditing requirements and methodology including the ability to undertake effective verification audits of an environmental management system, identification of appropriate audit findings and conclusions and preparation and presentation of audits reports, in oral and written forms, to provide a clear record of the verification audit;
+
+(i) information audit, the environmental statement and the updated environmental statement in relation to data management, data storage and manipulation, presentation of data in written and graphical format for the appreciation of potential data errors, use of assumptions and estimates;
+
+(j) the environmental dimension of products and services including the environmental aspects and environmental performance during the usage and post-use, and the integrity of data provided for environmental decision making.
+
+3\. The environmental verifier shall be required to demonstrate a continuing professional development in the fields of competence set out in paragraph 2 and to maintain such development for assessment by the Accreditation or Licensing Body.
+
+4\. The environmental verifier shall be an external third party, independent, in particular of the organisation's auditor or consultant, impartial and objective in performing its activities.
+
+5\. The environmental verifier shall ensure that it is free from any commercial, financial or other pressures which might influence its judgment or endanger trust in its independence of judgment and integrity in relation to the verification activities. The environmental verifier shall ensure compliance with any rules applicable in this respect.
+
+6\. The environmental verifier shall have documented methods and procedures, including quality control mechanisms and confidentiality provisions, to comply with the verification and validation requirements of this Regulation.
+
+7\. Where an organisation acts as environmental verifier, it shall keep an organisation chart detailing structures and responsibilities within the organisation and a statement of legal status, ownership and funding sources.
+
+That organisation chart shall be made available on request.
+
+8\. Compliance with these requirements shall be ensured through the assessment carried out prior to the accreditation or licensing and through the supervision by the Accreditation or Licensing Body.
+
+### Article 21 — Additional requirements for environmental verifiers which are natural persons and performing verification and validation activities individually
+
+Natural persons acting as environmental verifiers and performing verification and validation individually shall have, in addition to complying with the requirements set out in Article 20:
+
+(a) all the necessary competence to perform verification and validation activities in their licensed fields;
+
+(b) a limited scope of the licence dependent on their personal competence.
+
+### Article 22 — Additional requirements for environmental verifiers active in third countries
+
+1\. Where an environmental verifier intends to carry out verification and validation activities in third countries, it shall seek accreditation or licence for specific third countries.
+
+2\. In order to obtain accreditation or a licence for a third country, the environmental verifier shall meet, in addition to the requirements set out in Articles 20 and 21, the following requirements:
+
+(a) knowledge and understanding of the legislative, regulatory and administrative requirements relating to the environment in the third country for which accreditation or a licence is sought;
+
+(b) knowledge and understanding of the official language of the third country for which accreditation or a licence is sought.
+
+3\. The requirements set out in paragraph 2 shall be deemed to be met where the environmental verifier demonstrates the existence of a contractual relationship between itself and a qualified person or organisation fulfilling those requirements.
+
+That person or organisation shall be independent of the organisation to be verified.
+
+### Article 23 — Supervision of environmental verifiers
+
+1\. Supervision of verification and validation activities carried out by environmental verifiers in:
+
+(a) the Member State where they are accredited or licensed shall be carried out by the Accreditation or Licensing Body that granted the accreditation or licence;
+
+(b) a third country shall be carried out by the Accreditation or Licensing Body that granted the accreditation or licence to the environmental verifier for those activities;
+
+(c) a Member State other than where the accreditation or licence was granted shall be carried out by the Accreditation or Licensing Body of the Member State where the verification takes place.
+
+2\. At least four weeks in advance of each verification in a Member State, the environmental verifier shall notify its accreditation or licence details and the time and place of the verification to the Accreditation or Licensing Body responsible for the supervision of the environmental verifier concerned.
+
+3\. The environmental verifier shall immediately inform the Accreditation or Licensing Body of any changes which have a bearing on the accreditation or licence or their scope.
+
+4\. Provision shall be made by the Accreditation or Licensing Body, at regular intervals not exceeding 24 months, to ensure that the environmental verifier continues to comply with the accreditation or licence requirements and to monitor the quality of the verification and validation activities undertaken.
+
+5\. Supervision may consist of an office audit, on-the-spot supervision in organisations, questionnaires, a review of environmental statements or updated environmental statements validated by the environmental verifiers and review of the verification report.
+
+Supervision shall be proportionate to the activity undertaken by the environmental verifier.
+
+6\. Organisations must allow the Accreditation or Licensing Bodies to supervise the environmental verifier during the verification and validation process.
+
+7\. Any decision taken by the Accreditation or Licensing Body to terminate or suspend the accreditation or licence or restrict the scope of the accreditation or licence shall be taken only after the environmental verifier has had the possibility of a hearing.
+
+8\. If the supervising Accreditation or Licensing Body is of the opinion that the quality of the work of an environmental verifier does not meet the requirements of this Regulation, a written supervision report shall be transmitted to the environmental verifier concerned and to the Competent Body to which the organisation concerned intends to apply for registration or which registered the organisation concerned.
+
+In the case of any further dispute, the supervision report shall be transmitted to the Forum of Accreditation and Licensing Bodies referred to in Article 30.
+
+### Article 24 — Additional requirements for supervision of environmental verifiers active in a Member State other than that where the accreditation or license was granted
+
+1\. An environmental verifier accredited or licensed in one Member State shall, at least four weeks before performing verification and validation activities in another Member State, notify to the Accreditation or Licensing Body of the latter Member State the following information:
+
+(a) its accreditation or licence details, competences, in particular knowledge of legal requirements relating to the environment and official language of the other Member State, and team composition if appropriate;
+
+(b) the time and place of the verification and validation;
+
+(c) the address and contact details of the organisation.
+
+That notification shall be provided before each verification and validation activity.
+
+2\. The Accreditation or Licensing Body may request clarification of the verifier's knowledge of the necessary applicable legal requirements relating to the environment.
+
+3\. The Accreditation or Licensing Body may require conditions other than those referred to in paragraph 1 only where those other conditions do not prejudice the right of the environmental verifier to provide services in a Member State other than the one where the accreditation or licence was granted.
+
+4\. The Accreditation or Licensing Body shall not use the procedure referred to in paragraph 1 to delay the arrival of the environmental verifier. Where the Accreditation or Licensing Body is not able to fulfil its tasks in accordance with paragraphs 2 and 3 before the time for verification and validation as notified by the verifier in accordance with paragraph 1(b), it shall communicate a reasoned justification to the verifier.
+
+5\. No discriminatory fees for notification and supervision shall be charged by the Accreditation or Licensing Bodies.
+
+6\. Where the supervising Accreditation or Licensing Body is of the opinion that the quality of the work of the environmental verifier does not meet the requirements of this Regulation, a written supervision report shall be transmitted to the environmental verifier concerned, the Accreditation or Licensing Body which granted the accreditation or licence, and the Competent Body to which the organisation concerned intends to apply for registration or which registered the organisation concerned. In the case of any further dispute the supervision report shall be transmitted to the Forum of Accreditation and Licensing Bodies referred to in Article 30.
+
+### Article 25 — Conditions for performing verification and validation
+
+1\. The environmental verifier shall operate within the scope of its accreditation or licence, and on the basis of a written agreement with the organisation.
+
+That agreement shall:
+
+(a) specify the scope of the activity;
+
+(b) specify conditions aimed at enabling the environmental verifier to operate in an independent professional manner; and
+
+(c) commit the organisation to providing the necessary cooperation.
+
+2\. The environmental verifier shall ensure that the components of the organisation are unambiguously defined and correspond to a real division of the activities.
+
+The environmental statement shall clearly specify the different parts of the organisation that are subject to verification or validation.
+
+3\. The environmental verifier shall carry out an assessment of the elements set out in Article 18.
+
+4\. As part of the verification and validation activities the environmental verifier shall examine documentation, visit the organisation, carry out spot-checks and conduct interviews with personnel.
+
+5\. Prior to a visit by the environmental verifier, the organisation shall provide it with basic information about the organisation and its activities, the environmental policy and programme, the description of the environmental management system in operation in the organisation, details of the environmental review or audit carried out, the report on that review or audit and on any corrective action taken afterwards, and the draft environmental statement or updated environmental statement.
+
+6\. The environmental verifier shall prepare a written report for the organisation, on the outcome of the verification, which shall specify:
+
+(a) all issues relevant to the activity carried out by the environmental verifier;
+
+(b) a description of conformity with all requirements of this Regulation including supporting evidence, findings and conclusions;
+
+(c) the comparison of the achievements and targets with the previous environmental statements and the environmental performance assessment and assessment of the continuous environmental performance improvement of the organisation;
+
+(d) if applicable, technical defects in the environmental review, audit method, environmental management system, or any other relevant process.
+
+7\. In cases of non-conformity with the provisions of this Regulation, the report shall specify in addition:
+
+(a) findings and conclusions on the non-conformity by the organisation and evidence on which those findings and conclusion are based;
+
+(b) points of disagreement with the draft environmental statement or updated environmental statement, and details of the amendments or additions that should be made to the environmental statement or updated environmental statement.
+
+8\. After verification, the environmental verifier shall validate the organisation's environmental statement or updated environmental statement and confirm that it meets the requirements of this Regulation provided that the outcome of the verification and validation confirms that:
+
+(a) the information and data in the organisation's environmental statement or updated environmental statement are reliable and correct and meet the requirements of this Regulation; and
+
+(b) there is no evidence that the organisation does not fulfil applicable legal requirements relating to the environment.
+
+9\. Upon validation, the environmental verifier shall issue a signed declaration as referred to in Annex VII declaring that the verification and validation were carried out in accordance with this Regulation.
+
+10\. Environmental verifiers accredited or licensed in one Member State may perform verification and validation activities in any other Member State in accordance with the requirements set out in this Regulation.
+
+The verification or validation activity shall be subject to supervision by the Accreditation or Licensing Body of the Member State where the activity is to be performed. The start of the activity shall be notified to that Accreditation or Licensing Body in accordance with the timing set out in Article 24(1).
+
+### Article 26 — Verification and validation of small organisations
+
+1\. When carrying out verification and validation activities, the environmental verifier shall take into account specific characteristics of small organisations, including the following:
+
+(a) short reporting lines;
+
+(b) multifunctional staff;
+
+(c) on-the-job training;
+
+(d) the ability to adapt rapidly to change; and
+
+(e) limited documentation of procedures.
+
+2\. The environmental verifier shall conduct verification or validation in a way that does not impose unnecessary burdens on small organisations.
+
+3\. The environmental verifier shall take into account objective evidence that a system is effective, including the existence of procedures within the organisation that are proportionate to the size and complexity of the operation, the nature of the associated environmental impacts and the competence of the operators.
+
+### Article 27 — Conditions for verification and validation in third countries
+
+1\. Environmental verifiers accredited or licensed in a Member State may perform verification and validation activities for an organisation located in a third country in accordance with the requirements set out in this Regulation.
+
+2\. At least six weeks before verification or validation in a third country, the environmental verifier shall notify its accreditation or licence details and the time and place of the verification or validation to the Accreditation or Licensing Body of the Member State in which the organisation concerned intends to apply for registration or is registered.
+
+3\. The verification and validation activities shall be subject to supervision by the Accreditation or Licensing Body of the Member State in which the environmental verifier is accredited or licensed. The start of the activity shall be notified to that Accreditation or Licensing Body in accordance with the timing set out in paragraph 2.
+
+## CHAPTER VI — ACCREDITATION AND LICENSING BODIES
+
+### Article 28 — Operation of Accreditation and Licensing
+
+1\. Accreditation Bodies appointed by the Member States pursuant to Article 4 of Regulation (EC) No 765/2008 shall be responsible for the accreditation of environmental verifiers and the supervision of the activities carried out by environmental verifiers in accordance with this Regulation.
+
+2\. Member States may appoint a Licensing Body, in accordance with Article 5(2) of Regulation (EC) No 765/2008, which shall be responsible for issuing licences to and supervising environmental verifiers.
+
+3\. Member States may decide not to allow the accreditation or licensing of natural persons as environmental verifiers.
+
+4\. Accreditation and Licensing Bodies shall assess an environmental verifier's competence in the light of the elements set out in Articles 20, 21 and 22 relevant to the scope of the requested accreditation or licence.
+
+5\. The scope of accreditation or the licence of environmental verifiers shall be determined according to the classification of economic activities as set out in Regulation (EC) No 1893/2006. That scope shall be limited by the competence of the environmental verifier and, where appropriate, it shall take into account the size and complexity of the activity.
+
+6\. Accreditation and Licensing Bodies shall establish appropriate procedures on accreditation or licensing, refusal of accreditation or a licence, suspension and withdrawal of accreditation or a licence of environmental verifiers and on supervision of environmental verifiers.
+
+Those procedures shall include mechanisms for considering observations from concerned parties, including Competent Bodies and the representative bodies of organisations, concerning applicants and accredited or licensed environmental verifiers.
+
+7\. In the case of a refusal of accreditation or licence, the Accreditation or Licensing Body shall inform the environmental verifier of the reasons for the decision.
+
+8\. Accreditation or Licensing Bodies shall establish, revise and update a list of environmental verifiers and their scope of accreditation or licence in their Member States and shall communicate each month, directly or via the national authorities as decided by the Member State concerned, changes in that list to the Commission and to the Competent Body of the Member State where the Accreditation or Licensing Body is located.
+
+9\. Within the framework of the rules and procedures regarding monitoring of activities as laid down in Article 5(3) of Regulation (EC) No 765/2008, Accreditation and Licensing Bodies shall draw up a supervision report where they decide, after consultation with the environmental verifier concerned, either of the following:
+
+(a) that the activities of the environmental verifier were not performed adequately enough to ensure that the requirements of this Regulation are met by the organisation;
+
+(b) that the verification and the validation by the environmental verifier were carried out in violation of one or more of the requirements of this Regulation.
+
+This report shall be transmitted to the Competent Body in the Member State where the organisation is registered or applies for registration and, if applicable, to the Accreditation or Licensing Body that granted the accreditation or licence.
+
+### Article 29 — Suspension and withdrawal of accreditation or license
+
+1\. Suspension or withdrawal of the accreditation or licence shall require the consultation of concerned parties including the environmental verifier, in order to provide the Accreditation or Licensing Body with the necessary evidence for taking its decision.
+
+2\. The Accreditation or Licensing Body shall inform the environmental verifier of the reasons for the measures taken and, if applicable, of the process of discussion with the competent enforcement authority.
+
+3\. The accreditation or licence shall be suspended or withdrawn until assurance of the environmental verifier's compliance with this Regulation is obtained, as appropriate, depending on the nature and scope of the failure or violation of legal requirements.
+
+4\. Suspension of the accreditation or licence shall be lifted where the Accreditation or Licensing Body has received satisfactory information that the environmental verifier complies with this Regulation.
+
+### Article 30 — Forum of the Accreditation and Licensing Bodies
+
+1\. A forum constituted of all the Accreditation and Licensing Bodies from all Member States, hereinafter referred to as ‘the Forum of the Accreditation and Licensing Bodies’, shall be set up and meet at least once per year in the presence of a representative of the Commission.
+
+2\. The task of the Forum of the Accreditation and Licensing Bodies shall be to ensure the consistency of procedures relating to the following:
+
+(a) the accreditation or licensing of environmental verifiers under this Regulation, including refusal, suspension and withdrawal of accreditation or licence;
+
+(b) the supervision of activities carried out by accredited or licensed environmental verifiers.
+
+3\. The Forum of the Accreditation and Licensing Bodies shall develop guidance on issues in the field of the competence of Accreditation and Licensing Bodies.
+
+4\. The Forum of the Accreditation and Licensing Bodies shall adopt its rules of procedure.
+
+5\. The guidance documents referred to in paragraph 3 and the rules of procedure referred to in paragraph 4 shall be transmitted to the Commission.
+
+6\. Guidance documents referring to harmonisation procedures approved by the Forum of the Accreditation and Licensing Bodies shall be proposed as appropriate by the Commission for adoption in accordance with the regulatory procedure with scrutiny referred to in Article 49(3).
+
+These documents shall be made publicly available.
+
+### Article 31 — Peer evaluation of Accreditation and Licensing Bodies
+
+1\. The peer evaluation with regard to accreditation and licensing of environmental verifiers under this Regulation to be organised by the Forum of Accreditation and Licensing Bodies, shall be carried out on a regular basis, at least every four years, and shall include an assessment of the rules and procedures set out in Articles 28 and 29.
+
+All Accreditation and Licensing Bodies shall participate in the peer evaluation.
+
+2\. The Forum of Accreditation and Licensing Bodies shall transmit a regular report of the peer evaluation to the Commission and the Committee established under Article 49(1).
+
+That report shall be made publicly available after approval by the Forum of Accreditation and Licensing Bodies and the Committee referred to in the first subparagraph.
+
+## CHAPTER VII — RULES APPLICABLE TO MEMBER STATES
+
+### Article 32 — Assistance to organisations relating to compliance with legal requirements relating to the environment
+
+1\. Member States shall ensure that organisations get access to information and assistance possibilities regarding legal requirements relating to the environment in that Member State.
+
+2\. The assistance shall include the following:
+
+(a) information regarding the applicable legal requirements relating to the environment;
+
+(b) identification of the competent enforcement authorities for specific legal requirements relating to the environment that have been identified as being applicable.
+
+3\. Member States may confer the tasks referred to in paragraphs 1 and 2 to the Competent Bodies or to any other body having the necessary expertise and the appropriate resources to fulfil the task.
+
+4\. Member States shall ensure that enforcement authorities reply to requests, at least from small organisations, on the applicable legal requirements relating to the environment that fall within their competence, and provide information to the organisations on the means of showing how the organisations meet relevant legal requirements.
+
+5\. Member States shall ensure that competent enforcement authorities communicate a failure by registered organisations to comply with applicable legal requirements relating to the environment to the Competent Body which has registered the organisation.
+
+The competent enforcement authority shall inform that Competent Body as soon as possible and in any case within one month after it has become aware of the failure.
+
+### Article 33 — Promotion of EMAS
+
+1\. Member States shall, in conjunction with Competent Bodies, enforcement authorities and other relevant stakeholders, promote the EMAS scheme taking into account activities referred to in Articles 34 to 38.
+
+2\. To that end, Member States may establish a promotion strategy which shall be revised on a regular basis.
+
+### Article 34 — Information
+
+1\. Member States shall take appropriate measures to provide information to:
+
+(a) the public about the objectives and principal components of EMAS;
+
+(b) organisations about the contents of this Regulation.
+
+2\. Member States shall, where appropriate, use professional publications, local journals, promotion campaigns or any other functional means to increase general awareness of EMAS.
+
+Member States may cooperate, in particular, with industrial associations, consumer organisations, environmental organisations, trade unions, local institutions and other relevant stakeholders.
+
+### Article 35 — Promotion activities
+
+1\. Member States shall carry out promotion activities for EMAS. These activities may include:
+
+(a) the promotion of the exchange of knowledge and best practices on EMAS among all concerned parties;
+
+(b) the development of effective tools for EMAS promotion and to share them with organisations;
+
+(c) the provision of technical support to organisations in the definition and implementation of their EMAS-related marketing activities;
+
+(d) the encouragement of partnerships among organisations for EMAS promotion.
+
+2\. The EMAS logo without a registration number may be used by Competent Bodies, Accreditation and Licensing Bodies, national authorities and other stakeholders for EMAS-related marketing and promotional purposes. In such cases, use of the EMAS logo set out in Annex V shall not suggest that the user is registered where this is not the case.
+
+### Article 36 — Promotion of participation of small organisations
+
+Member States shall take adequate measures to encourage the participation of small organisations, inter alia, by:
+
+(a) facilitating access to information and support funds specially adapted to them;
+
+(b) ensuring that reasonable registration fees encourage their participation;
+
+(c) promoting technical assistance measures.
+
+### Article 37 — Cluster and step-by-step approach
+
+1\. Member States shall encourage local authorities to provide, in participation with industrial associations, chambers of commerce and other concerned parties, specific assistance to clusters of organisations to meet the requirements for registration as referred to in Articles 4, 5 and 6.
+
+Each organisation from the cluster shall be registered separately.
+
+2\. Member States shall encourage organisations to implement an environment management system. They shall in particular encourage a step-by-step approach leading to EMAS registration.
+
+3\. Systems established pursuant to paragraphs 1 and 2 shall operate with the objective of avoiding unnecessary costs for participants, in particular for small organisations.
+
+### Article 38 — EMAS and other policies and instruments in the Community
+
+1\. Without prejudice to Community legislation, Member States shall consider how registration under EMAS in accordance with this Regulation can be:
+
+(a) taken into account in the development of new legislation;
+
+(b) used as a tool in the application and enforcement of legislation;
+
+(c) taken into account in public procurement and purchasing.
+
+2\. Without prejudice to Community legislation, notably competition, taxation and State aid legislation, Member States shall, where appropriate, take measures facilitating organisations to become or remain EMAS registered.
+
+Those measures may include, inter alia, the following:
+
+(a) regulatory relief, so that a registered organisation is considered as being compliant with certain legal requirements relating to the environment laid down in other legal instruments, identified by the competent authorities;
+
+(b) better regulation, whereby other legal instruments are modified so that burdens on organisations participating in EMAS are removed, reduced or simplified with a view to encouraging the efficient operation of markets and raising the level of competitiveness.
+
+### Article 39 — Fees
+
+1\. Member States may charge fees taking into account the following:
+
+(a) the costs incurred in connection with the provision of information and assistance to organisations by the bodies designated or set up to that end by Member States pursuant to Article 32;
+
+(b) the costs incurred in connection with the accreditation, licensing and supervision of environmental verifiers;
+
+(c) the costs for registration, renewal of registration, suspension and deletion by Competent Bodies as well as the additional costs of administering those processes for organisations outside the Community.
+
+Those fees shall not exceed a reasonable amount and shall be proportionate to the size of the organisation and to the work to be done.
+
+2\. Member States shall ensure that organisations are informed about all applicable fees.
+
+### Article 40 — Non-compliance
+
+1\. Member States shall take appropriate legal or administrative measures in case of non-compliance with this Regulation.
+
+2\. Member States shall put in place effective provisions against the use of the EMAS logo in violation of this Regulation.
+
+Provisions put in place in accordance with Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market ( 3 ) may be used.
+
+### Article 41 — Information and reporting to the Commission
+
+1\. Member States shall inform the Commission of the structure and procedures relating to the functioning of the Competent Bodies and Accreditation and Licensing Bodies and shall update that information, where appropriate.
+
+2\. Every two years, Member States shall report to the Commission updated information on the measures taken pursuant to this Regulation.
+
+In those reports, Member States shall take account of the latest report presented by the Commission to the European Parliament and to the Council pursuant to Article 47.
+
+## CHAPTER VIII — RULES APPLICABLE TO THE COMMISSION
+
+### Article 42 — Information
+
+1\. The Commission shall provide information to:
+
+(a) the public on the objectives and principal components of EMAS;
+
+(b) organisations on the content of this Regulation.
+
+2\. The Commission shall maintain and make publicly available:
+
+(a) a register of environmental verifiers and registered organisations;
+
+(b) a database of environmental statements in electronic format;
+
+(c) a database of best practices on EMAS, including, inter alia, effective tools for EMAS promotion and examples of technical support to organisations;
+
+(d) a list of Community resources for the funding of EMAS implementation and related projects and activities.
+
+### Article 43 — Collaboration and coordination
+
+1\. The Commission shall promote, as appropriate, collaboration between Member States in order, in particular, to achieve a uniform and consistent application of the rules throughout the Community relating to the following:
+
+(a) registration of organisations;
+
+(b) environmental verifiers;
+
+(c) the information and assistance referred to in Article 32.
+
+2\. Without prejudice to Community legislation on public procurement, the Commission and other Community institutions and bodies shall, where appropriate, refer to EMAS or other environmental management systems recognised in accordance with Article 45, or equivalent, as contract performance conditions for works and service contracts.
+
+### Article 44 — Integration of EMAS into other policies and instruments in the Community
+
+The Commission shall consider how registration under EMAS in accordance with this Regulation can be:
+
+1\. taken into account in the development of new legislation and revision of existing legislation, in particular in the form of regulatory relief and better regulation as described in Article 38(2);
+
+2\. used as a tool in the context of application and enforcement of legislation.
+
+### Article 45 — Relationship with other environmental management systems
+
+1\. Member States may submit to the Commission a written request for recognition of existing environmental management systems, or parts thereof, that are certified in accordance with appropriate certification procedures recognised at national or regional level as complying with corresponding requirements of this Regulation.
+
+2\. Member States shall specify in their request the relevant parts of the environmental management systems and the corresponding requirements of this Regulation.
+
+3\. Member States shall provide evidence of the equivalence with this Regulation of all relevant parts of the environmental management system concerned.
+
+4\. The Commission shall, after examination of the request referred to in paragraph 1, and acting in accordance with the advisory procedure referred to in Article 49(2), recognise the relevant parts of the environmental management systems and recognise the accreditation or licensing requirements for the certification bodies if it is of the opinion that a Member State has:
+
+(a) specified sufficiently clearly in the request the relevant parts of the environmental management systems and the corresponding requirements of this Regulation;
+
+(b) provided sufficient evidence of the equivalence with this Regulation of all relevant parts of the environmental management system at stake.
+
+5\. The Commission shall publish the references of the recognised environmental management systems, including the relevant sections of EMAS referred to in Annex I to which those references apply, and the recognised accreditation or licensing requirements in the Official Journal of the European Union.
+
+### Article 46 — Development of reference documents and guides
+
+1\. The Commission shall, in consultation with Member States and other stakeholders, develop sectoral reference documents that shall include:
+
+(a) best environmental management practice;
+
+(b) environmental performance indicators for specific sectors;
+
+(c) where appropriate, benchmarks of excellence and rating systems identifying environmental performance levels.
+
+The Commission may also develop reference documents for cross-sectoral use.
+
+2\. The Commission shall take into account existing reference documents and environmental performance indicators developed in accordance with other environmental policies and instruments in the Community or international standards.
+
+3\. The Commission shall establish, by the end of 2010, a working plan setting out an indicative list of sectors, which will be considered priorities for the adoption of sectoral and cross-sectoral reference documents.
+
+The working plan shall be made publicly available and regularly updated.
+
+4\. The Commission shall, in cooperation with the Forum of Competent Bodies, develop a guide on registration of organisations outside the Community.
+
+5\. The Commission shall publish a user's guide setting out the steps needed to participate in EMAS.
+
+That guide shall be available in all official languages of the institutions of the European Union and online.
+
+6\. Documents developed in accordance with paragraphs 1 and 4 shall be submitted for adoption. Those measures, designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 49(3).
+
+### Article 47 — Reporting
+
+Every five years, the Commission shall submit to the European Parliament and to the Council a report containing information on the actions and measures taken under this Chapter and information received from the Member States pursuant to Article 41.
+
+The report shall include an assessment of the impact of the scheme on the environment and the trend in terms of number of participants.
+
+## CHAPTER IX — FINAL PROVISIONS
+
+### Article 48 — Amendment of Annexes
+
+1\. The Commission may amend the Annexes if necessary or appropriate, in the light of experience gained in the operation of EMAS, in response to identified needs for guidance on EMAS requirements and in the light of any changes in international standards or new standards which are of relevance to the effectiveness of this Regulation.
+
+2\. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 49(3).
+
+### Article 49 — Committee procedure
+
+1\. The Commission shall be assisted by a Committee.
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 50 — Review
+
+The Commission shall review EMAS in the light of the experience gained during its operation and international developments by 11 January 2015. It shall take into account the reports transmitted to the European Parliament and to the Council in accordance with Article 47.
+
+### Article 51 — Repeal and transitional provisions
+
+1\. The following legal acts shall be repealed:
+
+(a) Regulation (EC) No 761/2001;
+
+(b) Commission Decision 2001/681/EC of 7 September 2001 on guidance for the implementation of Regulation (EC) No 761/2001 of the European Parliament and of the Council allowing voluntary participation by organisations in a Community Eco-management and audit scheme (EMAS) ( 4 );
+
+(c) Commission Decision 2006/193/EC of 1 March 2006 laying down rules, under Regulation (EC) No 761/2001 of the European Parliament and of the Council, on the use of the EMAS logo in the exceptional cases of transport packaging and tertiary packaging ( 5 ).
+
+2\. By way of derogation from paragraph 1:
+
+(a) national Accreditation Bodies and Competent Bodies set up pursuant to Regulation (EC) No 761/2001 shall continue their activities. Member States shall modify the procedures followed by Accreditation Bodies and Competent Bodies in accordance with this Regulation. Member States shall ensure that the systems implementing the modified procedures are fully operational by11 January 2011;
+
+(b) organisations registered in accordance with Regulation (EC) No 761/2001 shall remain on the EMAS register. At the time of the next verification of an organisation the environmental verifier shall check its compliance with the new requirements of this Regulation. If the next verification is to be carried out before 11 July 2010, the date of the next verification may be extended by six months in agreement with the environmental verifier and the Competent Bodies;
+
+(c) environmental verifiers accredited in accordance with Regulation (EC) No 761/2001 may continue to perform their activities in accordance with the requirements established by this Regulation.
+
+3\. References to Regulation (EC) No 761/2001 shall be construed as references to this Regulation and be read in accordance with the correlation table set out in Annex VIII.
+
+### Article 52 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**ENVIRONMENTAL REVIEW**
+
+The environmental review shall cover the following areas:
+
+**1\. Determination of the organisational context**
+
+The organisation shall determine those external and internal issues that can affect positively or negatively its ability to achieve the intended outcomes of its environmental management system.
+
+Such issues include relevant environmental conditions such as climate, air quality, water quality, natural resources availability, biodiversity.
+
+They may also include but are not limited to the following conditions:
+
+— external conditions (such as cultural, social, political, legal, regulatory, financial, technological, economic, natural and competitive circumstances),
+
+— internal conditions related to the organisation characteristics (such as its activities, products and services, strategic direction, culture and capabilities).
+
+**2\. Identification of the interested parties and determination of their relevant needs and expectations**
+
+The organisation shall determine the interested parties that are relevant to the environmental management system, the relevant needs and expectations of these interested parties and which of these needs and expectations it has or it chooses to comply with.
+
+If the organisation decides to voluntarily adopt or agree with relevant needs or expectations of interested parties not covered by legal requirements, those become part of its compliance obligations.
+
+**3\. Identification of the applicable legal requirements relating to the environment**
+
+In addition to the establishment of a register of applicable legal requirements, the organisation shall also indicate how evidence that it is complying with the different legal requirements can be provided.
+
+**4\. Identification of direct and indirect environmental aspects and determination of those being significant**
+
+The organisation shall identify all direct and indirect environmental aspects with a positive or negative impact on the environment, qualified and quantified as appropriate and compile a register of all identified environmental aspects. The organisation shall also determine which of those aspects are significant based on criteria established in accordance with point 5 of this Annex.
+
+When identifying direct and indirect environmental aspects it is essential that organisations also consider the environmental aspects associated with their core business. An inventory limited to the environmental aspects of an organisation's site and facilities is insufficient.
+
+When identifying direct and indirect environmental aspects of its activities, products and services the organisation shall adopt a life cycle perspective, by taking into account the life cycle stages that it can control or influence. Such stages typically include raw material acquisition, purchasing and procurement, design, production, transportation, use, end-of-life treatment and final disposal depending on the activity of the organisation.
+
+**4.1. Direct environmental aspects**
+
+Direct environmental aspects are associated with activities, products and services of the organisation itself over which it has direct management control.
+
+All organisations have to consider the direct aspects of their operations.
+
+Direct environmental aspects include, but are not limited to:
+
+(1) emissions to air;
+
+(2) releases to water (including infiltrations to groundwater),
+
+(3) production, recycling, reuse, transportation and disposal of solid and other wastes, particularly hazardous wastes;
+
+(4) use and contamination of land;
+
+(5) use of energy, natural resources (including water, fauna and flora) and raw materials;
+
+(6) use of additives and auxiliaries as well as semi-manufactured goods;
+
+(7) local issues (noise, vibration, odour, dust, visual appearance, etc.).
+
+When identifying the environmental aspects, the following should also be considered:
+
+— risks of environmental accidents and other emergency situations with a potential environmental impact (e.g. chemical accidents) and potential abnormal situations that could lead to a potential environmental impact,
+
+— transport issues for goods and services and for staff travelling on company business
+
+**4.2. Indirect environmental aspects**
+
+Indirect environmental aspects can result from the interaction of an organisation with third parties which can to a reasonable degree be influenced by the organisation.
+
+These include, but are not limited to:
+
+(1) product and services life-cycle-related issues that the organisation can influence (raw material acquisition, design, purchasing and procurement, production, transportation, use, end-of-life treatment and final disposal);
+
+(2) capital investments, granting loans and insurance services;
+
+(3) new markets;
+
+(4) choice and composition of services (e.g. transport or the catering trade);
+
+(5) administrative and planning decisions;
+
+(6) product range compositions;
+
+(7) the environmental performance and practices of contractors, subcontractors, suppliers and sub-suppliers.
+
+Organisations must be able to demonstrate that the significant environmental aspects and impacts associated with these aspects are addressed within the management system.
+
+The organisation should endeavour to ensure that the suppliers and those acting on the organisation's behalf comply with the organisation's environmental policy within the remit of the activities carried out for the contract.
+
+An organisation shall consider how much influence it can have over those indirect environmental aspects, and what measures it can take to reduce the environmental impact or to increase the environmental benefit.
+
+**5\. Assessment of the significance of the environmental aspects**
+
+An organisation shall define the criteria for assessing the significance of the environmental aspects of its activities, products and services and apply these to determine which environmental aspects have a significant environmental impact considering a life cycle perspective.
+
+The criteria developed by an organisation shall take into account the legislation and shall be comprehensive, capable of independent checking, reproducible and made publicly available.
+
+When establishing these criteria an organisation shall consider the following elements:
+
+(1) potential harm or benefit to the environment including biodiversity;
+
+(2) the condition of the environment (such as the fragility of the local, regional or global environment);
+
+(3) size, number, frequency and reversibility of the aspect or impact;
+
+(4) existence and requirements of relevant environmental legislation;
+
+(5) views of the interested parties, including employees of the organisation.
+
+Additional relevant elements may be considered depending on the type of activities, products and services of the organisation.
+
+Based on the established criteria the organisation shall assess the significance of its environmental aspects and impacts. To do so the organisation shall take into account considerations that may include but are not limited to:
+
+(1) the organisation's existing data on material and energy inputs, discharges, wastes and emissions in terms of risk;
+
+(2) activities of the organisation that are regulated by environmental legislation;
+
+(3) procurement activities;
+
+(4) design, development, manufacturing, distribution, servicing, use, re-use, recycling and disposal of the organisation's products;
+
+(5) those activities of the organisation with the most significant environmental costs, and environmental benefits.
+
+In assessing the significance of the environmental impacts of the organisation's activities the organisation shall consider normal operating conditions, start-up and shutdown conditions and reasonably foreseeable emergency conditions. Account shall be taken of past, present and planned activities.
+
+**6\. Evaluation of feedback from the investigation of previous incidents**
+
+The organisation shall take into account the feedback from the investigation of previous incidents that could influence its ability to achieve the intended outcomes of its environmental management system.
+
+**7\. Determination and documentation of risk and opportunities**
+
+The organisation shall determine and document risks and opportunities associated with its environmental aspects, compliance obligations and other issues and requirements identified in points 1 to 4.
+
+The organisation shall focus on those risks and opportunities that should be addressed to assure that the environmental management system can achieve its intended outcome, to prevent undesired effects or accident and to achieve continual improvement of the environmental performance of the organisation.
+
+**8\. Examination of existing processes, practices and procedures**
+
+The organisation shall examine existing processes, practices and procedures and determine which are needed in order to ensure the long-term maintenance of the environmental management.
+
+## ANNEX II
+
+**ENVIRONMENTAL MANAGEMENT SYSTEM REQUIREMENTS AND ADDITIONAL ISSUES TO BE ADDRESSED BY ORGANISATIONS IMPLEMENTING EMAS**
+
+The environmental management system requirements under EMAS are those laid down in Section 4 to 10 of the EN ISO 14001:2015 standard. Those requirements are reproduced in Part A.
+
+The references made in Article 4 to specific points of this Annex should be understood as follows:
+
+Reference to A.3.1 should be understood as reference to Part A 6.1
+
+Reference to A 5.5 should be understood as reference to Part A 9.2.
+
+In addition, organisations implementing EMAS are required to address a number of additional issues that have a direct link to a number of elements of Section 4 of the EN ISO 14001:2015 standard. Those additional requirements are listed in Part B of this Annex.
+
+<table>
+<tbody><tr><td>PART A environmental management system requirements under EN ISO 14001:2015 </td><td>PART B additional requirements for organisations implementing EMAS </td></tr>
+<tr><td>Organisations participating in the eco-management and audit scheme (EMAS) shall implement the requirements of EN ISO 14001:2015 (1) which are reproduced below. A.4 Context of the organisation  A.4.1 Understanding the organisation and its context  The organisation shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcomes of its environmental management system. Such issues shall include environmental conditions being affected by or capable of affecting the organisation.  A.4.2 Understanding the needs and expectations of interested parties  The organisation shall determine:  (a) the interested parties that are relevant to the environmental management system;  (b) the relevant needs and expectations (i.e. requirements) of these interested parties;  (c) which of these needs and expectations become its compliance obligations.  A.4.3 Determining the scope of the environmental management system  The organisation shall determine the boundaries and applicability of the environmental management system to establish its scope.  When determining this scope, the organisation shall consider:  (a) the external and internal issues referred to in A.4.1;  (b) the compliance obligations referred to in A.4.2;  (c) its organisational unit(s), function(s), and physical boundaries;  (d) its activities, products and services;  (e) its authority and ability to exercise control and influence.  Once the scope is defined, all activities, products and services of the organisation within that scope need to be included in the environmental management system.  The scope shall be maintained as documented information and be available to interested parties.  A.4.4 Environmental management system  To achieve the intended outcomes, including enhancing its environmental performance, the organisation shall establish, implement, maintain and continually improve an environmental management system, including the processes needed and their interactions, in accordance with the requirements of this International Standard.  The organisation shall consider the knowledge gained in 4.1 and 4.2 when establishing and maintaining the environmental management system. </td><td>  </td></tr>
+<tr><td>A.5 Leadership A.5.1 Leadership and commitment  Top management shall demonstrate leadership and commitment with respect to the environmental management system by:  (a) taking accountability for the effectiveness of the environmental management system;  (b) ensuring that the environmental policy and environmental objectives are established and are compatible with the strategic direction and the context of the organisation;  (c) ensuring the integration of the environmental management system requirements into the organisation's business processes;  (d) ensuring that the resources needed for the environmental management system are available;  (e) communicating the importance of effective environmental management and of conforming to the environmental management system requirements;  (f) ensuring that the environmental management system achieves its intended outcomes;  (g) directing and supporting persons to contribute to the effectiveness of the environmental management system;  (h) promoting continual improvement;  (i) supporting other relevant management roles to demonstrate their leadership as it applies to their areas of responsibility.  Note: Reference to ‘business’ in this International Standard can be interpreted broadly to mean those activities that are core to the purposes of the organisation's existence. </td><td>  </td></tr>
+<tr><td>A.5.2 Environmental Policy Top management shall establish, implement and maintain an environmental policy that, within the defined scope of its environmental management system:  (a) is appropriate to the purpose and context of the organisation, including the nature, scale and environmental impacts of its activities, products and services;  (b) provides a framework for setting environmental objectives;  (c) includes a commitment to the protection of the environment, including prevention of pollution and other specific commitment(s) relevant to the context of the organisation;  Note: Other specific commitment(s) to protect the environment can include sustainable resource use, climate change mitigation and adaptation, and protection of biodiversity and ecosystems.  (d) includes a commitment to fulfil its compliance obligations;  (e) includes a commitment to continual improvement of the environmental management system to enhance environmental performance.  The environmental policy shall:  — be maintained as documented information,  — be communicated within the organisation,  — be available to interested parties. </td><td>B.1. Continual improvement of environmental performance Organisations shall commit themselves to the continual improvement of their environmental performance.  If an organisation comprises one or more sites, each of the sites to which EMAS applies shall comply with all the requirements of EMAS includingthe continual improvement of environmental performance as defined in Article 2(2). </td></tr>
+<tr><td>A.5.3 Organisational roles, responsibilities and authorities Top management shall ensure that the responsibilities and authorities for relevant roles are assigned and communicated within the organisation.  Top management shall assign the responsibility and authority for:  (a) ensuring that the environmental management system conforms to the requirements of this International Standard;  (b) reporting on the performance of the environmental management system, including environmental performance, to top management. </td><td>B.2. Management representative(s) Top management shall appoint a specific top management representative(s) who, irrespective of other responsibilities, shall have defined roles, responsibilities and authority in order to ensure an environmental management system in compliance with this Regulation and to report to top management on the performance of the environmental management system.  The top management representative may be a member of the top management of the organisation. </td></tr>
+<tr><td>A.6 Planning A.6.1 Actions to address risks and opportunities  A.6.1.1 General  The organisation shall establish, implement and maintain the processes needed to meet the requirements in 6.1.1 to 6.1.4.  When planning for the environmental management system, the organisation shall consider:  — the issues referred to in 4.1,  — the requirements referred to in 4.2,  — the scope of its environmental management system; and determine the risks and opportunities, related to its: —  — environmental aspects (see 6.1.2),  — compliance obligations (see 6.1.3),  — other issues and requirements, identified in 4.1 and 4.2; that need to be addressed to: —  — give assurance that the environmental management system can achieve its intended outcomes,  — prevent, or reduce, undesired effects, including the potential for external environmental conditions to affect the organisation,  — achieve continual improvement.  Within the scope of the environmental management system, the organisation shall determine potential emergency situations, including those that can have an environmental impact.  The organisation shall maintain documented information of its:  — risks and opportunities that need to be addressed,  — processes needed in 6.1.1 to 6.1.4, to the extent necessary to have confidence they are carried out as planned.  A.6.1.2 Environmental aspects  Within the defined scope of the environmental management system, the organisation shall determine the environmental aspects of its activities, products and services that it can control and those that it can influence, and their associated environmental impacts, considering a life cycle perspective.  When determining environmental aspects, the organisation shall take into account:  (a) change, including planned or new developments, and new or modified activities, products and services;  (b) abnormal conditions and reasonably foreseeable emergency situations.  The organisation shall determine those aspects that have or can have a significant environmental impact by using established criteria.  The organisation shall communicate its significant environmental aspects among the various levels and functions of the organisation, as appropriate.  The organisation shall maintain documented information of its:  — environmental aspects and associated environmental impacts,  — criteria used to determine its significant environmental aspects,  — significant environmental aspects.  Note: Significant environmental aspects can result in risks and opportunities associated with either adverse environmental impacts (threats) or beneficial environmental impacts (opportunities). </td><td>B.3 Environmental review Organisations shall carry out and document an initial environmental review as set out in Annex I.  Organisations outside the Union shall also make reference to the legal requirements relating to the environment applicable to similar organisations in the Member States where they intend to submit an application. </td></tr>
+<tr><td>A.6.1.3 Compliance obligations The organisation shall:  (a) determine and have access to the compliance obligations related to its environmental aspects;  (b) determine how these compliance obligations apply to the organisation;  (c) take these compliance obligations into account when establishing, implementing, maintaining and continually improving its environmental management system.  The organisation shall maintain documented information of its compliance obligations.  Note: Compliance obligations can result in risks and opportunities to the organisation.  A.6.1.4 Planning action  The organisation shall plan:  (a) to take actions to address its:  (1) significant environmental aspects;  (2) compliance obligations;  (3) risks and opportunities identified in 6.1.1;  (b) how to:  (1) integrate and implement the actions into its environmental management system processes (see 6.2, Clause 7, Clause 8 and 9.1), or other business processes;  (2) evaluate the effectiveness of these actions (see 9.1).  When planning these actions, the organisation shall consider its technological options and its financial, operational and business requirements. </td><td>B.4. Legal compliance Organisations registered with EMAS or wishing to register shall demonstrate that they have fulfilled all the following conditions:  (1) they have identified, and know the implications to the organisation of all applicable legal requirements relating to the environment;  (2) they ensure legal compliance with environmental legislation, including permits and permit limits and provide the appropriate evidence;  (3) they have procedures in place that enable the organisation to ensure ongoing legal compliance with environmental legislation. </td></tr>
+<tr><td>A.6.2 Environmental objectives and planning to achieve them</td><td>  </td></tr>
+<tr><td>A.6.2.1 Environmental objectives The organisation shall establish environmental objectives at relevant functions and levels, taking into account the organisation's significant environmental aspects and associated compliance obligations, and considering its risks and opportunities.  The environmental objectives shall be:  (a) consistent with the environmental policy;  (b) measurable (if practicable);  (c) monitored;  (d) communicated;  (e) updated as appropriate.  The organisation shall maintain documented information on the environmental objectives.  A.6.2.2 Planning actions to achieve environmental objectives  When planning how to achieve its environmental objectives, the organisation shall determine:  (a) what will be done;  (b) what resources will be required;  (c) who will be responsible;  (d) when it will be completed;  (e) how the results will be evaluated, including indicators for monitoring progress toward achievement of its measurable environmental objectives (see 9.1.1).  The organisation shall consider how actions to achieve its environmental objectives can be integrated into the organisation's business processes. </td><td>B.5. Environmental objectives Organisations shall be able to demonstrate that the management system and the audit procedures address the actual environmental performance of the organisation with respect to the direct and indirect aspects.  The means to achieve the objectives and targets cannot be environmental objectives. </td></tr>
+<tr><td>A.7 Support A.7.1 Resources  The organisation shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the environmental management system. </td><td>  </td></tr>
+<tr><td>A.7.2 Competence The organisation shall:  (a) determine the necessary competence of person(s) doing work under its control that affects its environmental performance and its ability to fulfil its compliance obligations;  (b) ensure that these persons are competent on the basis of appropriate education, training or experience;  (c) determine training needs associated with its environmental aspects and its environmental management system;  (d) where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken.  Note: Applicable actions can include, for example, the provision of training to, the mentoring of, or the reassignment of currently employed persons; or the hiring or contracting of competent persons.  The organisation shall retain appropriate documented information as evidence of competence. </td><td>B.6. Employee involvement (1) The organisation should acknowledge that active employee involvement is a driving force and a prerequisite for continuous and successful environmental improvements in addition to being a key resource in the improvement of environmental performance as well as the right method to anchor the environmental management and audit system in the organisation in a successful way.  (2) ‘Employee involvement’ should be understood as including both direct employee participation and the provision of information to employees and their representatives. Therefore, there should be an employee participation scheme at all levels. The organisation should acknowledge that demonstration of commitment, responsiveness and active support by the management is a prerequisite for the success of those processes. In this context management should provide appropriate feedback to employees.  (3) In addition to the these requirements, employees or their representatives shall be involved in the process aimed at continually improve the organisation's environmental performance through:  (a) the initial environmental review;  (b) the establishment and implementation of an environmental management and audit system improving environmental performance;  (c) environmental committees or work groups gathering information and ensuring the participation of environmental officer/management representatives along with employees and their representatives;  (d) joint working groups for the environmental action programme and environmental auditing;  (e) the preparation of the environmental statements.  (4) Appropriate forms of participation such as the suggestion-book system or project-based group works or environmental committees should be used for this purpose. Organisations shall take note of Commission guidance on best practice in this field. Where they so request, any employee representatives shall also be involved. </td></tr>
+<tr><td>A.7.3 Awareness The organisation shall ensure that persons doing work under the organisation's control are aware of:  (a) the environmental policy;  (b) the significant environmental aspects and related actual or potential environmental impacts associated with their work;  (c) their contribution to the effectiveness of the environmental management system, including the benefits of enhanced environmental performance;  (d) the implications of not conforming with the environmental management system requirements, including not fulfilling the organisation's compliance obligations. </td><td>  </td></tr>
+<tr><td>A.7.4 Communication A.7.4.1 General  The organisation shall establish, implement and maintain the processes needed for internal and external communications relevant to the environmental management system, including:  (a) on what it will communicate;  (b) when to communicate;  (c) with whom to communicate;  (d) how to communicate.  When establishing its communication process(es), the organisation shall:  — take into account its compliance obligations;  — ensure that environmental information communicated is consistent with information generated within the environmental management system, and is reliable.  The organisation shall respond to relevant communications on its environmental management system.  The organisation shall retain documented information as evidence of its communications, as appropriate.  A.7.4.2 Internal communication  The organisation shall:  (a) internally communicate information relevant to the environmental management system among the various levels and functions of the organisation, including changes to the environmental management system, as appropriate;  (b) ensure its communication process(es) enable(s) persons doing work under the organisation's control to contribute to continual improvement. </td><td>  </td></tr>
+<tr><td>A.7.4.3 External communication The organisation shall externally communicate information relevant to the environmental management system, as established by the organisation's communication process(es) and as required by its compliance obligations. </td><td>B.7. Communication (1) Organisations shall be able to demonstrate that they conduct an open dialogue with the public, the authorities and other interested parties including local communities and customers in relation to the environmental impact of their activities, products and services.  (2) To ensure a high level of transparency and building confidence with interested parties, organisations registered under EMAS shall disclose specific environmental information as defined by Annex IV Environmental Reporting. </td></tr>
+<tr><td>A.7.5 Documented information A.7.5.1 General  The organisation's environmental management system shall include:  (a) documented information required by this International Standard;  (b) documented information determined by the organisation as being necessary for the effectiveness of the environmental management system.  Note: The extent of documented information for an environmental management system can differ from one organisation to another due to:  — the size of organisation and its type of activities, processes, products and services,  — the need to demonstrate fulfilment of its compliance obligations,  — the complexity of processes and their interactions,  — the competence of persons doing work under the organisation's control.  A.7.5.2 Creating and updating  When creating and updating documented information, the organisation shall ensure appropriate:  (a) identification and description (e.g. a title, date, author, or reference number);  (b) format (e.g. language, software version, graphics) and media (e.g. paper, electronic);  (c) review and approval for suitability and adequacy.  A.7.5.3 Control of documented information  Documented information required by the environmental management system and by this International Standard shall be controlled to ensure:  (a) it is available and suitable for use, where and when it is needed;  (b) it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity).  For the control of documented information, the organisation shall address the following activities as applicable:  — distribution, access, retrieval and use,  — storage and preservation, including preservation of legibility,  — control of changes (e.g. version control),  — retention and disposition.  Documented information of external origin determined by the organisation to be necessary for the planning and operation of the environmental management system shall be identified, as appropriate, and controlled.  Note: Access can imply a decision regarding the permission to view the documented information only, or the permission and authority to view and change the documented information.  A.8 Operation  A.8.1 Operational planning and control  The organisation shall establish, implement, control and maintain the processes needed to meet environmental management system requirements, and to implement the actions identified in 6.1 and 6.2, by:  — establishing operating criteria for the process(es),  — implementing control of the process(es), in accordance with the operating criteria.  Note: Controls can include engineering controls and procedures. Controls can be implemented following a hierarchy (e.g. elimination, substitution, administrative) and can be used individually or in combination.  The organisation shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.  The organisation shall ensure that (an) outsourced process(es) is (are) controlled or influenced. The type and extent of control or influence to be applied to the process(es) shall be defined within the environmental management system.  Consistent with a life cycle perspective, the organisation shall:  (a) establish controls, as appropriate, to ensure that its environmental requirement(s) is (are) addressed in the design and development process for the product or service, considering each stage of its life cycle;  (b) determine its environmental requirement(s) for the procurement of products and services, as appropriate;  (c) communicate its relevant environmental requirement(s) to external providers, including contractors;  (d) consider the need to provide information about potential significant environmental impacts;  associated with the transportation or delivery, use, end-of-life treatment and final disposal of its products and services.  The organisation shall maintain documented information to the extent necessary to have confidence that the process(es) has (have) been carried out as planned.  A.8.2 Emergency preparedness and response  The organisation shall establish, implement and maintain the processes needed to prepare for and respond to potential emergency situations identified in 6.1.1.  The organisation shall:  (a) prepare to respond by planning actions to prevent or mitigate adverse environmental impacts from emergency situations;  (b) respond to actual emergency situations;  (c) take action to prevent or mitigate the consequences of emergency situations, appropriate to the magnitude of the emergency and the potential environmental impact;  (d) periodically test the planned response actions, where practicable;  (e) periodically review and revise the process(es) and planned response actions, in particular after the occurrence of emergency situations or tests;  (f) provide relevant information and training related to emergency preparedness and response, as appropriate, to relevant interested parties, including persons working under its control.  The organisation shall maintain documented information to the extent necessary to have confidence that the process(es) is (are) carried out as planned.  A.9 Performance evaluation  A.9.1 Monitoring, measurement, analysis and evaluation  A.9.1.1 General  The organisation shall monitor, measure, analyse and evaluate its environmental performance.  The organisation shall determine:  (a) what needs to be monitored and measured;  (b) the methods for monitoring, measurement, analysis and evaluation, as applicable, to ensure valid results;  (c) the criteria against which the organisation will evaluate its environmental performance, and appropriate indicators;  (d) when the monitoring and measuring shall be performed;  (e) when the results from monitoring and measurement shall be analysed and evaluated.  The organisation shall ensure that calibrated or verified monitoring and measurement equipment is used and maintained, as appropriate.  The organisation shall evaluate its environmental performance and the effectiveness of the environmental management system.  The organisation shall communicate relevant environmental performance information both internally and externally, as identified in its communication process(es) and as required by its compliance obligations.  The organisation shall retain appropriate documented information as evidence of the monitoring, measurement, analysis and evaluation results.  A.9.1.2 Evaluation of compliance  The organisation shall establish, implement and maintain the processes needed to evaluate fulfilment of its compliance obligations.  The organisation shall:  (a) determine the frequency that compliance will be evaluated;  (b) evaluate compliance and take action if needed;  (c) maintain knowledge and understanding of its compliance status.  The organisation shall retain documented information as evidence of the compliance evaluation result(s).  A.9.2 Internal audit  A.9.2.1 General  The organisation shall conduct internal audits at planned intervals to provide information on whether the environmental management system:  (a) conforms to:  (1) the organisation's own requirements for its environmental management system;  (2) the requirements of this International Standard;  (b) is effectively implemented and maintained.  A.9.2.2 Internal audit programme  The organisation shall establish, implement and maintain an internal audit programme(s), including the frequency, methods, responsibilities, planning requirements and reporting of its internal audits.  When establishing the internal audit programme, the organisation shall take into consideration the environmental importance of the processes concerned, changes affecting the organisation and the results of previous audits.  The organisation shall:  (a) define the audit criteria and scope for each audit;  (b) select auditors and conduct audits to ensure objectivity and the impartiality of the audit process;  (c) ensure that the results of the audits are reported to relevant management.  The organisation shall retain documented information as evidence of the implementation of the audit programme and the audit results.  A.9.3 Management review  Top management shall review the organisation's environmental management system, at planned intervals, to ensure its continuing suitability, adequacy and effectiveness.  The management review shall include consideration of:  (a) the status of actions from previous management reviews;  (b) changes in:  (1) external and internal issues that are relevant to the environmental management system;  (2) the needs and expectations of interested parties, including compliance obligations;  (3) its significant environmental aspects;  (4) risks and opportunities;  (c) the extent to which environmental objectives have been achieved;  (d) information on the organisation's environmental performance, including trends in:  (1) nonconformities and corrective actions;  (2) monitoring and measurement results;  (3) fulfilment of its compliance obligations;  (4) audit results;  (e) adequacy of resources;  (f) relevant communication(s) from interested parties, including complaints;  (g) opportunities for continual improvement.  The outputs of the management review shall include:  — conclusions on the continuing suitability, adequacy and effectiveness of the environmental management system;  — decisions related to continual improvement opportunities;  — decisions related to any need for changes to the environmental management system, including resources;  — actions, if needed, when environmental objectives have not been achieved;  — opportunities to improve integration of the environmental management system with other business processes, if needed;  — any implications for the strategic direction of the organisation.  The organisation shall retain documented information as evidence of the results of management reviews.  A.10 Improvement  A.10.1 General  The organisation shall determine opportunities for improvement (see 9.1, 9.2 and 9.3) and implement necessary actions to achieve the intended outcomes of its environmental management system.  A.10.2 Nonconformity and corrective action  When a nonconformity occurs, the organisation shall:  (a) react to the nonconformity and, as applicable:  (1) take action to control and correct it;  (2) deal with the consequences, including mitigating adverse environmental impacts;  (b) evaluate the need for action to eliminate the causes of the nonconformity, in order that it does not recur or occur elsewhere, by:  (1) reviewing the nonconformity;  (2) determining the causes of the nonconformity;  (3) determining if similar nonconformities exist, or could potentially occur;  (c) implement any action needed;  (d) review the effectiveness of any corrective action taken;  (e) make changes to the environmental management system, if necessary.  Corrective actions shall be appropriate to the significance of the effects of the nonconformities encountered, including the environmental impact(s).  The organisation shall retain documented information as evidence of:  — the nature of the nonconformities and any subsequent actions taken,  — the results of any corrective action.  A.10.3 Continual improvement  The organisation shall continually improve the suitability, adequacy and effectiveness of the environmental management system to enhance environmental performance. </td><td>  </td></tr>
+<tr><td colspan="2">(1)  The use of the text of the national standard reproduced in this annex is made with the permission of CEN. The full text of the national standard can be purchased from the National Standardisation Bodies, the list of which is provided in the official CEN website. Any type of reproduction of this annex for commercial reasons is not permitted. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**INTERNAL ENVIRONMENTAL AUDIT**
+
+**1\. Audit programme and audit frequency**
+
+**1.1. Audit programme**
+
+The audit programme shall guarantee that the management of the organisation is provided with the information it needs to review the organisation's environmental performance and the effectiveness of the environmental management system, and be able to demonstrate that they are under control.
+
+**1.2. Objectives of the audit programme**
+
+The objectives shall include, in particular, assessing the management systems in place, and determining conformity with the organisation's policy and programme, which shall include compliance with legal requirements and other requirements relating to the environment.
+
+**1.3. Scope of the audit programme**
+
+The overall scope of the individual audits, or of each stage of an audit cycle where appropriate, shall be clearly defined and shall explicitly specify the:
+
+(1) subject areas covered;
+
+(2) activities to be audited;
+
+(3) environmental criteria to be considered;
+
+(4) period covered by the audit.
+
+Environmental audit includes assessment of the factual data necessary to evaluate environmental performance.
+
+**1.4. Audit frequency**
+
+The audit or audit cycle which covers all activities of the organisation shall be completed, as appropriate, at intervals of no longer than three years or four years if the derogation provided for in Article 7 applies. The frequency with which any activity is audited will vary depending on the:
+
+(1) nature, scale and complexity of the activities;
+
+(2) significance of associated environmental impacts;
+
+(3) importance and urgency of the problems detected by previous audits;
+
+(4) history of environmental problems.
+
+More complex activities with a more significant environmental impact shall be audited more frequently.
+
+The organisation shall carry out audits at least on an annual basis, as this will help to demonstrate to the organisation's management and the environmental verifier that it is in control of its significant environmental aspects.
+
+The organisation shall carry out audits regarding:
+
+(1) the environmental performance of the organisation; and
+
+(2) the organisation's compliance with applicable legal requirements and other requirements relating to the environment.
+
+**2\. Audit activities**
+
+Audit activities shall include discussions with personnel regarding environmental performance, inspection of operating conditions and equipment and reviewing of records, written procedures and other relevant documentation. Those activities shall be conducted with the objective of evaluating the environmental performance of the activity being audited to determine whether it meets the applicable standards, regulations or environmental objectives and targets. It shall also determine whether the system in place to manage environmental responsibilities and performance is effective and appropriate and will therefore include, inter alia, spot-checking of compliance with these criteria to determine the effectiveness of the entire management system.
+
+The following steps, in particular, shall be included in the audit process:
+
+(1) understanding of the management systems;
+
+(2) assessing strengths and weaknesses of the management systems;
+
+(3) gathering evidence to show where the management system is and is not performing;
+
+(4) evaluating audit findings;
+
+(5) preparing audit conclusions;
+
+(6) reporting audit findings and conclusions.
+
+**3\. Reporting audit findings and conclusions**
+
+The fundamental objectives of a written audit report are:
+
+(1) to document the scope of the audit;
+
+(2) to inform the management on the state of compliance with the organisations' environmental policy and the environmental progress of the organisation;
+
+(3) to inform the management on the state of compliance with legal requirements and other requirements relating to the environment and on the measures taken to ensure that compliance can be demonstrated;
+
+(4) to inform the management on the effectiveness and reliability of the measures taken to monitor and mitigate environmental impacts of the organisation;
+
+(5) to demonstrate the need for corrective actions, where appropriate.
+
+The written audit report shall contain the necessary information to comply with those objectives.
+
+## ANNEX IV
+
+**ENVIRONMENTAL REPORTING**
+
+**A. Introduction**
+
+Environmental information shall be presented in a clear and coherent manner and should preferably be available in electronic form. The organisation shall determine the best format to make this information available to their interested parties in a user-friendly way.
+
+**B. Environmental statement**
+
+The environmental statement shall contain at least the elements and shall meet the minimum requirements as set out below.
+
+(a) a summary of the organisation's activities, products and services, the organisation's relationship to any parent organisations as appropriate and a clear and unambiguous description of the scope of the EMAS registration including a list of the sites included in this registration;
+
+(b) the environmental policy and a brief description of the governance structure supporting the environmental management system of the organisation;
+
+(c) a description of all the significant direct and indirect environmental aspects which result in significant environmental impacts of the organisation, a brief description of the approach used to determine their significance and an explanation of the nature of the impacts as related to these aspects;
+
+(d) a description of the environmental objectives and targets in relation to the significant environmental aspects and impacts;
+
+(e) a description of the actions implemented and planned to improve environmental performance, achieve the objectives and targets and ensure compliance with legal requirements related to the environment.
+
+Where available, reference should be made to the relevant best environmental management practices presented in the sectoral reference documents as referred to in Article 46;
+
+(f) a summary of the data available on the environmental performance of the organisation with respect to its significant environmental aspects.
+
+Reporting shall be on both the core environmental performance indicators and the specific environmental performance indicators as set out in Section C. Where environmental objectives and targets exist, the respective data shall be reported;
+
+(g) a reference to the main legal provisions to be taken into account by the organisation to ensure compliance with legal requirements related to the environment and a statement regarding legal compliance;
+
+(h) a confirmation regarding the requirements of Art. 25 para. 8 and the name and accreditation or licence number of the environmental verifier and the date of validation. The declaration as referred to in Annex VII signed by the environmental verifier may be used instead.
+
+The updated environmental statement shall contain at least the elements and shall meet the minimum requirements as set out in points (e) to (h).
+
+Organisations may decide to integrate in their environmental statement additional factual information related to the activities, products and services of the organisation or to their compliance with specific requirements. All information contained in the environmental statement shall be validated by the environmental verifier.
+
+The environmental statement may be integrated in other reporting documents of the organisation (e.g. management, sustainability or corporate social responsibility reports). When integrated in such reporting documents a clear distinction shall be made between validated and non-validated information. The environmental statement shall be clearly identified (for example by using the EMAS logo) and the document shall include a short explanation of the validation process in the context of EMAS.
+
+**C. Reporting based on environmental performance indicators and qualitative information**
+
+**1\. Introduction**
+
+Both, in the environmental statement and the updated environmental statement, organisations shall report on their significant direct and indirect environmental aspects by using the core environmental performance indicators and the specific environmental performance indicators as set out below. In the event that no quantitative data are available, organisations shall report qualitative information as described in point 4.
+
+The reporting shall provide data on actual input and output. If disclosure would adversely affect the confidentiality of commercial or industrial information of the organisation where such confidentiality is provided for by national or Community law to protect a legitimate economic interest, the organisation may be permitted to index this information in its reporting, e.g. by establishing a baseline year (with the index number 100) from which the development of the actual input/output would appear.
+
+The indicators shall:
+
+(a) give an accurate appraisal of the organisation's environmental performance;
+
+(b) be readily understood and unambiguous;
+
+(c) allow for a year on year comparison in order to assess whether the organisation's environmental performance has improved; to enable this comparison, the reporting shall cover at least 3 years of activity, provided the data are available.;
+
+(d) allow for comparison with sector, national or regional benchmarks as appropriate;
+
+(e) allow for comparison with regulatory requirements as appropriate.
+
+To support this, the organisation shall briefly define the scope (including the organisational and material boundaries, applicability and calculation methodology) covered by each of the indicator.
+
+**2\. Core environmental performance indicators**
+
+(a) Core indicators focus on performance in the following key environmental areas:
+
+(i) Energy;
+
+(ii) Material;
+
+(iii) Water;
+
+(iv) Waste;
+
+(v) Land use with regard to biodiversity; and
+
+(vi) Emissions.
+
+Reporting on core environmental performance indicators is an obligation. However, an organisation may evaluate the relevance of those indicators within the context of its significant environmental aspects and impacts. Where an organisation concludes that one or more core indicators are not relevant to its significant environmental aspects and impacts, it may not report on those core indicators. In that case, the organisation shall include in the environmental statement a clear and reasoned explanation for not doing so.
+
+(b) Each core indicator is composed of:
+
+(i) a figure A indicating the total annual input/output in the given area;
+
+(ii) a figure B indicating an annual reference value representing the activity of the organisation; and
+
+(iii) a figure R indicating the ratio A/B;
+
+Each organisation shall report on all 3 elements for each indicator.
+
+(c) The indication of the total annual input/output in the given area, figure A, shall be reported as follows:
+
+(i) on Energy
+
+— the ‘total direct energy consumption’, corresponding to the total annual amount of energy consumed by the organisation,
+
+— the ‘total renewable energy consumption’, corresponding to the total annual amount of energy consumed by the organisation that was generated from renewable energy sources,
+
+— the ‘total renewable energy generation’, corresponding to the total annual amount of energy generated by the organisation from renewable energy sources.
+
+This last element shall be reported only if the total energy generated by the organisation from renewable energy sources significantly exceeds the total renewable energy consumed by the organisation, or if the renewable energy generated by the organisation was not consumed by the organisation.
+
+If different types of energy are consumed or, in case of renewable energy, generated (such as electricity, heat, fuels or others) their annual consumption or production shall be reported separately as appropriate.
+
+Energy should preferably be expressed in kWh, MWh, GJ or other metrics commonly used to report the type of energy consumed or generated.
+
+(ii) on Material
+
+— the ‘annual mass-flow of key materials used’ (excluding energy carriers and water), preferably expressed in units of weight (e.g. kilograms or tonnes) or volume (e.g. m3) or other metrics commonly used in the sector.
+
+When different types of materials are used, their annual mas-flow should be reported separately as appropriate.
+
+(iii) on Water
+
+— the ‘total annual water use’, expressed in units of volume (e.g. litres or m3),
+
+(iv) on Waste
+
+— the ‘total annual generation of waste’, broken down by type, preferably expressed in units of weight (e.g. kilograms or tonnes) or volume (e.g. m3), or in other metrics commonly used in the sector,
+
+— the ‘total annual generation of hazardous waste’ preferably expressed in units of weight (e.g. kilograms or tonnes) or m3 or in other metric commonly used in the sector,
+
+(v) on Land-use with regard to biodiversity
+
+— the forms of land use with regard to biodiversity expressed in units of area (e.g. m2 or ha):
+
+— total use of land
+
+— total sealed area
+
+— total nature-oriented area on site
+
+— total nature-oriented area off site
+
+A ‘nature-oriented area’ is an area dedicated primarily to nature preservation or restoration. Nature-oriented areas can be located on-site and include roof, façade, water drainages or others elements that have been designed, adapted or are managed in order to promote biodiversity. Nature-oriented areas can also be located outside the organisation site provided that the area is owned or managed by the organisation and is primarily dedicated to promoting biodiversity. Co-managed areas dedicated to promoting biodiversity can also be described, provided that the scope of co-management is clearly outlined.
+
+A ‘sealed area’ means any area where the original soil has been covered (such as roads) making it impermeable. This non-permeability can create environmental impacts.
+
+(vi) on Emissions
+
+— the ‘total annual emission of greenhouse gases’, including at least emissions of CO2, CH4, N2O, HFCs, PFCs, NF3 and SF6, expressed in tonnes of CO2 equivalent,
+
+The organisation should consider reporting its greenhouse gas emissions according to an established methodology, such as the Greenhouse Gas Protocol.
+
+— the ‘total annual air emission’, including at least emissions of SO2, NOx and PM, expressed in kilograms or tonnes,
+
+(d) The indication of the annual reference value representing the activity of the organisation, figure B, shall be selected and reported based on the following requirements:
+
+Figure B shall:
+
+(i) be comprehensible;
+
+(ii) be a figure that best represents the organisation's overall annual activity;
+
+(iii) allow a correct description of the environmental performance of the organisation, taking into account organisation specificities and activities;
+
+(iv) be a common reference value for the sector the organisation is working in, such as the following examples:
+
+— total annual physical output
+
+— total number of employees
+
+— total overnights
+
+— total number of inhabitants in an area (in the case of public administration)
+
+— tonnes of waste processed (for organisations active in the waste management sector)
+
+— total energy produced (for organisations active in the energy production sector)
+
+(v) ensure the comparability of the reported indicators over time. Once defined, Figure B shall be used in upcoming environmental statements.
+
+A change of Figure B shall be explained in the environmental statement. In case of a change of Figure B, the organisation shall ensure the figure can be compared over at least 3 years by recalculating the indicators for the previous years according to the newly defined Figure B.
+
+**3\. Specific environmental performance indicators**
+
+Each organisation shall also report annually on its performance relating to the significant direct and indirect environmental aspects and impacts that are related to its core business activities, that are measurable and verifiable, and that are not covered already by the core indicators.
+
+Reporting on those indicators shall be done in accordance with the requirements set in the introduction to this section.
+
+Where available, the organisation shall take account of sectoral reference documents as referred to in Article 46 to facilitate the identification of relevant sector specific indicators.
+
+**4\. Reporting on significant environmental aspects based on qualitative information**
+
+In the event that no quantitative data is available to report on significant direct or indirect environmental aspects, organisations shall report their performance on the basis of qualitative information.
+
+**D. Local accountability**
+
+Organisations registering under EMAS may wish to produce one corporate environmental statement, covering a number of different geographic locations.
+
+As the intention of EMAS is to ensure local accountability, organisations shall ensure that the significant environmental impacts of each site are clearly identified and reported within the corporate environmental statement.
+
+**E. Public availability**
+
+The organisation shall ensure that it is able to demonstrate to the environmental verifier that anybody interested in the organisation's environmental performance can easily and freely obtain access to the information required under section B and C. To provide for such transparency the environmental statement should preferably be publicly available on the website of the organisation.
+
+The organisation shall ensure that this information on an individual site or organisation is published in (one of) the official language(s) of the Member State or third country in which the site or the organisation is located.
+
+In addition, in the case of a corporate environmental statement, the organisation shall ensure that (for the registration purposes) this information is available in (one of) the official language(s) of the Member State in which the organisation is registered or in (one of) the official language(s) of the Union agreed with the Competent Body responsible for the registration.
+
+The environmental statement may also be made available in additional languages provided that the content of the translated document is consistent with the content of the original environmental statement validated by the environmental verifier and that it clearly states that is a translation of the validated document.
+
+## ANNEX V — EMAS LOGO
+
+1\. The logo may be used in any of the 24 languages provided the following wording is used:
+
+Bulgarian: ‘Проверено управление по околна среда’
+
+Czech: ‘Ověřený systém environmentálního řízení’
+
+Croatian: ‘Verificirani sustav upravljanja okolišem’
+
+Danish: ‘Verificeret miljøledelse’
+
+Dutch: ‘Geverifieerd milieuzorgsysteem’
+
+English: ‘Verified environmental management’
+
+Estonian: ‘Tõendatud keskkonnajuhtimine’
+
+Finnish: ‘Todennettu ympäristöasioiden hallinta’
+
+French: ‘Management environnemental vérifié’
+
+German: ‘Geprüftes Umweltmanagement’
+
+Greek: ‘επιθεωρημένη περιβαλλοντική διαχείριση’
+
+Hungarian: ‘Hitelesített környezetvédelmi vezetési rendszer’
+
+Italian: ‘Gestione ambientale verificata’
+
+Irish: ‘Bainistíocht comhshaoil fíoraithe’
+
+Latvian: ‘Verificēta vides pārvaldība’
+
+Lithuanian: ‘Įvertinta aplinkosaugos vadyba’
+
+Maltese: ‘Immaniggjar Ambjentali Verifikat’
+
+Polish: ‘Zweryfikowany system zarządzania środowiskowego’
+
+Portuguese: ‘Gestão ambiental verificada’
+
+Romanian: ‘Management de mediu verificat’
+
+Slovak: ‘Overené environmentálne manažérstvo’
+
+Slovenian: ‘Preverjen sistem ravnanja z okoljem’
+
+Spanish: ‘Gestión medioambiental verificada’
+
+Swedish: ‘Verifierat miljöledningssystem’
+
+2\. The logo shall be used either:
+
+— in three colours (Pantone No 355 Green; Pantone No 109 Yellow; Pantone No 286 Blue),
+
+— in black,
+
+— in white, or,
+
+— in a grey scale,
+
+## ANNEX VI — INFORMATION REQUIREMENTS FOR REGISTRATION — (information to be provided when applicable)
+
+| 1. ORGANISATION |  |
+| --- | --- |
+| Name | … |
+| Address | … |
+| Town | … |
+| Postal Code | … |
+| Country/land/region/Autonomous Community | … |
+| Contact person | … |
+| Telephone | … |
+| FAX | … |
+| E-mail | … |
+| Website | … |
+| Public access to the environmental statement or the updated environmental statement |  |
+| (a) printed form | … |
+| (b) electronic form | … |
+| Registration number | … |
+| Registration date | … |
+| Suspension date of registration | … |
+| Deletion date of registration | … |
+| Date of the next environmental statement | … |
+| Date of the next updated environmental statement | … |
+| Request for derogation pursuant to Article 7 YES – NO | … |
+| NACE Code of activities | … |
+| Number of employees | … |
+| Turnover or annual balance sheet | … |
+| 2. SITE |  |
+| Name | … |
+| Address | … |
+| Postal Code | … |
+| Town | … |
+| Country land/region/Autonomous Community | … |
+| Contact person | … |
+| Telephone | … |
+| FAX | … |
+| E-mail | … |
+| Website | … |
+| Public access to the environmental statement or the updated environmental statement |  |
+| (a) printed form | … |
+| (b) electronic form | … |
+| Registration number | … |
+| Date of registration | … |
+| Suspension date of registration | … |
+| Deletion date of registration | … |
+| Date of the next environmental statement | … |
+| Date of the next updated environmental statement | … |
+| Request for derogation pursuant to Article 7 YES – NO | … |
+| NACE Code of activities | … |
+| Number of Employees | … |
+| Turnover/or annual balance sheet | … |
+| 3. ENVIRONMENTAL VERIFIER |  |
+| Name of environmental verifier | … |
+| Address | … |
+| Postal Code | … |
+| Town | … |
+| Country/land/region/Autonomous Community | … |
+| Telephone | … |
+| FAX | … |
+| E-mail | … |
+| Registration number of accreditation or licence | … |
+| Scope of accreditation or licence (NACE Codes) | … |
+| Accreditation or Licensing Body | … |
+| Done at … on …/…/20 | … |
+| Signature of the representative of the organisation | … |
+
+## ANNEX VII — ENVIRONMENTAL VERIFIER'S DECLARATION ON VERIFICATION AND VALIDATION ACTIVITIES
+
+… (name).
+
+with EMAS environmental verifier registration number …
+
+accredited or licensed for the scope … (NACE Code)
+
+declares to have verified whether the site(s) or the whole organisation as indicated in the environmental statement/updated environmental statement ( *1 ) of the organisation … (name)
+
+with registration number (if available) …
+
+meet all requirements of Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS).
+
+By signing this declaration, I declare that:
+
+— the verification and validation has been carried out in full compliance with the requirements of Regulation (EC) No 1221/2009,
+
+— the outcome of the verification and validation confirms that there is no evidence of non-compliance with applicable legal requirements relating to the environment,
+
+— the data and information of the environmental statement/the updated environmental statement (*1) of the organisation/site (*1) reflect a reliable, credible and correct image of all the organisations/sites (*1) activities, within the scope mentioned in the environmental statement.
+
+This document is not equivalent to EMAS registration. EMAS registration can only be granted by a Competent Body under Regulation (EC) No 1221/2009. This document shall not be used as a stand-alone piece of public communication.
+
+Done at … on …/…/20….
+
+Signature
+
+## ANNEX VIII — CORRELATION TABLE
+
+| Regulation (EC) No 761/2001 | this Regulation |
+| --- | --- |
+| Article 1(1) | Article 1 |
+| Article 1(2)(a) | — |
+| Article 1(2)(b) | — |
+| Article 1(2)(c) | — |
+| Article 1(2)(d) | — |
+| Article 2(a) | Article 2(1) |
+| Article 2(b) | — |
+| Article 2(c) | Article 2(2) |
+| Article 2(d) | — |
+| Article 2(e) | Article 2(9) |
+| Article 2(f) | Article 2(4) |
+| Article 2(g) | Article 2(8) |
+| Article 2(h) | Article 2(10) |
+| Article 2(i) | Article 2(11) |
+| Article 2(j) | Article 2(12) |
+| Article 2(k) | Article 2(13) |
+| Article 2(l) | Article 2(16) |
+| Article 2(l)(i) | — |
+| Article 2(l)(ii) | — |
+| Article 2(m) | — |
+| Article 2(n) | Article 2(17) |
+| Article 2(o) | Article 2(18) |
+| Article 2(p) | — |
+| Article 2(q) | Article 2(20) |
+| Article 2(r) | — |
+| Article 2(s) first subparagraph | Article 2(21) |
+| Article 2(s) second subparagraph | — |
+| Article 2(t) | Article 2(22) |
+| Article 2(u) | — |
+| Article 3(1) | — |
+| Article 3(2)(a) first subparagraph | Article 4(1)(a) and (b) |
+| Article 3(2)(a) second subparagraph | Article 4(3) |
+| Article 3(2)(b) | Article 4(1)(c) |
+| Article 3(2)(c) | Article 4(1)(d) |
+| Article 3(2)(d) | Article 4(5) |
+| Article 3(2)(e) | Article 5(2) first subparagraph; Article 6(3) |
+| Article 3(3)(a) | Article 6(1)(a) |
+| Article 3(3)(b) first sentence | Article 6(1)(b) and (c) |
+| Article 3(3)(b) second sentence | Article 7(1) |
+| Article 4(1) | — |
+| Article 4(2) | Article 51(2) |
+| Article 4(3) | — |
+| Article 4(4) | — |
+| Article 4(5) first sentence | Article 25(10) first subparagraph |
+| Article 4(5) second sentence | Article 25(10) second subparagraph, second sentence |
+| Article 4(6) | Article 41 |
+| Article 4(7) | — |
+| Article 4(8) first subparagraph | Article 30(1) |
+| Article 4(8) second subparagraph | Article 30(3) and (5) |
+| Article 4(8) third subparagraph, first and second sentence | Article 31(1) |
+| Article 4(8) third subparagraph, last sentence | Article 31(2) |
+| Article 5(1) | Article 11(1) first subparagraph |
+| Article 5(2) | Article 11(3) |
+| Article 5(3) first sentence | Article 12(1) |
+| Article 5(3) second sentence, first indent | Article 12(1)(a) |
+| Article 5(3) second sentence, second indent | Article 12(1)(b) |
+| Article 5(4) | Article 11(1) second and third subparagraph |
+| Article 5(5) first sentence | Article 16(1) |
+| Article 5(5) second sentence | Article 16(3) first sentence |
+| Article 5(5) third sentence | Article 17(1) |
+| Article 5(5) fourth sentence | Article 16(3) second subparagraph and Article 16(4) second subparagraph |
+| Article 6(1) | Article 13(1) |
+| Article 6(1), first indent | Article 13(2)(a) and Article 5(2)(a) |
+| Article 6(1), second indent | Article 13(2)(a) and Article 5(2)(c) |
+| Article 6(1), third indent | Article 13(2)(f) and Article 5(2)(d) |
+| Article 6(1), fourth indent | Article 13(2)(c) |
+| Article 6(1), second subparagraph | Article 13(2) first sentence |
+| Article 6(2) | Article 15(3) |
+| Article 6(3), first indent | Article 15(3)(a) |
+| Article 6(3), second indent | Article 15(3)(b) |
+| Article 6(3), third indent | — |
+| Article 6(3), last sentence | Article 15(8) |
+| Article 6(4), first paragraph | Article 15(2) |
+| Article 6(4), second subparagraph | Article 15(4) |
+| Article 6(5), first sentence | Article 15(6) |
+| Article 6(5), second sentence | Article 15(8) and (9) |
+| Article 6(6) | Article 15(10) |
+| Article 7(1) | Article 28(8) |
+| Article 7(2), first sentence | Article 12(2) |
+| Article 7(2), second sentence | Article 12(3) |
+| Article 7(3) | Article 42(2)(a) |
+| Article 8(1), first sentence | Article 10(1) |
+| Article 8(1), second sentence | Article 10(2) |
+| Article 8(2) | — |
+| Article 8(3) first subparagraph | Article 10(4) |
+| Article 8(3) second subparagraph | — |
+| Article 9(1) introductory sentence | Article 4(3) |
+| Article 9(1)(a) | Article 45(4) |
+| Article 9(1)(b) | Article 45(4) |
+| Article 9(1) second subparagraph | Article 45(5) |
+| Article 9(2) | — |
+| Article 10(1) | — |
+| Article 10(2), first subparagraph | Article 38(1) and (2) |
+| Article 10(2), second subparagraph, first sentence | Article 41 |
+| Article 10(2), second subparagraph, second sentence | Article 47 |
+| Article 11(1), first subparagraph | Article 36 |
+| Article 11(1), first indent | Article 36(a) |
+| Article 11(1), second indent | Article 36(c) |
+| Article 11(1), third indent | Article 36(b) |
+| Article 11(1), second subparagraph, first sentence | Article 37(1) |
+| Article 11(1), second subparagraph, second sentence | — |
+| Article 11(1), second subparagraph, third sentence | Article 37(2) |
+| Article 11(1), second subparagraph, fourth sentence | Article 37(3) |
+| Article 11(2) | Article 43(2) |
+| Article 11(3), first sentence | Article 41(2) |
+| Article 11(3), second sentence | Article 47 |
+| Article 12(1)(a) | — |
+| Article 12(1)(b) | Article 35(1) |
+| Article 12(1) second subparagraph | — |
+| Article 12(2) | Article 41(2) |
+| Article 12(3) | — |
+| Article 13 | Article 40(1) |
+| Article 14(1) | Article 49(1) |
+| Article 14(2) | — |
+| Article 14(3) | — |
+| Article 15(1) | Article 50 |
+| Article 15(2) | Article 48 |
+| Article 15(3) | — |
+| Article 16(1) | Article 39(1) |
+| Article 16(2) | Article 42(2) |
+| Article 17(1) | — |
+| Article 17(2), (3) and (4) | Article 51(2) |
+| Article 17(5) | — |
+| Article 18 | Article 52 |
+
+( 1 ) OJ L 124, 20.5.2003, p. 36.
+
+( 2 ) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 (OJ L 393, 30.12.2006, p. 1).
+
+( 3 ) OJ L 149, 11.6.2005, p. 22.
+
+( 4 ) OJ L 247, 17.9.2001, p. 24.
+
+( 5 ) OJ L 70, 9.3.2006, p. 63.
+
+( *1 ) cross when non-applicable.

@@ -1,0 +1,85 @@
+---
+title: "Commission Regulation (EEC) No 392/93 of 22 February 1993 amending Regulations (EEC) No 1356/92 and (EEC) No 1910/92 on special intervention measures for barley in Spain and durum wheat in Greece"
+identifier: "31993R0392"
+eli: "http://data.europa.eu/eli/reg/1993/392/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1993-02-22
+entry_into_force: 1994-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993R0392"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EEC) No 392/93 of 22 February 1993 amending Regulations (EEC) No 1356/92 and (EEC) No 1910/92 on special intervention measures for barley in Spain and durum wheat in Greece
+
+COMMISSION REGULATION (EEC) No 392/93 of 22 February 1993 amending Regulations (EEC) No 1356/92 and (EEC) No 1910/92 on special intervention measures for barley in Spain and durum wheat in Greece
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 2727/75 of 29 October 1975 on the common organization of the market in cereals (1), as last amended by Regulation (EEC) No 1738/92 (2), and in particular Article 8 (3) thereof,
+
+Whereas Commission Regulations (EEC) No 1356/92 (3) and (EEC) No 1910/92 (4) provide for the opening of invitations to tender for the export refund and the fixing in advance of monetary compensatory amounts;
+
+Whereas Council Regulation (EEC) No 1677/85 of 11 June 1985 on monetary compensatory amounts in agriculture (5), as last amended by Regulation (EEC) No 2205/90 (6), was repealed by Council Regulation (EEC) No 3813/92 of 28 December 1992 on the value of the unit of account and the conversion rates to be applied for the purposes of the common agricultural policy (7); whereas, as a result, all references to MCAs in the Regulations concerned should be deleted;
+
+Whereas under the aforementioned tendering procedures the fixing in advance of monetary compensatory amounts ensured, up to the time they were abolished, that the cereals in question were actually exported from the Member State for which a particular intervention measure was implemented; whereas their abolition makes it necessary to restrict the use of export licences to exports from the Member State in which the licence was applied for;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. Article 3 of Regulation (EEC) No 1356/92 and (EEC) No 1910/92 is hereby replaced by the following:
+
+'Article 3
+
+A tender shall be valid only if it relates to not less than 1 000 tonnes.'
+
+2\. The following paragraph is added to Article 5 of Regulation (EEC) No 1356/92:
+
+'3. Notwithstanding Article 11 of Regulation (EEC) No 3719/88, export licences under this tendering procedure shall be valid in Spain only.'
+
+3\. The following paragraph is added to Article 5 of Regulation (EEC) No 1910/92:
+
+'3. Notwithstanding Article 11 of Regulation (EEC) No 3719/88, export licences under this tendering procedure shall be valid in Greece only.'
+
+## Article 2
+
+Under the tendering procedures referred to in Article 1, box 20 of applications and the export licences shall indicate, where appropriate, the following:
+
+'Reglamento (CEE) no 1356/92 certificado válido exclusivamente en España.',
+
+'Kanonismos (EOK) arith. 1910/92 pistopoiitiko poy ischyei mono stin Ellada'.
+
+## Article 3
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 22 February 1993.
+
+For the Commission
+
+René STEICHEN
+
+Member of the Commission
+
+(1) OJ No L 281, 1. 11. 1975, p. 1.
+
+(2) OJ No L 180, 1. 7. 1992, p. 1.
+
+(3) OJ No L 145, 27. 5. 1992, p. 58.
+
+(4) OJ No L 192, 11. 7. 1992, p. 20.
+
+(5) OJ No L 164, 24. 6. 1985, p. 6.
+
+(6) OJ No L 201, 31. 7. 1990, p. 9.
+
+(7) OJ No L 387, 31. 12. 1992, p. 1.

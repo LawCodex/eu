@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on packaging and packaging waste**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003 </td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DIRECTIVE 2013/2/EU of 7 February 2013 </td><td> L 37</td><td>10</td><td>8.2.2013</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2015/720 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2015 </td><td> L 115</td><td>11</td><td>6.5.2015</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2018/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>141</td><td>14.6.2018</td></tr>
+</table>
 
 **EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE 94/62/EC**
 

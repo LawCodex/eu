@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE (EU) 2018/2001 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018</td><td> L 328</td><td>82</td><td>21.12.2018</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2015/1513 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -319,12 +321,14 @@ where
 
 **Part A. Provisional estimated indirect land-use change emissions from biofuels (gCO2eq/MJ) ( 1 )**
 
+<table>
 <tbody><tr><td>Feedstock group</td><td>Mean (*1)</td><td>Interpercentile range derived from the sensitivity analysis (*2)</td></tr>
 <tr><td>Cereals and other starch-rich crops</td><td>12</td><td>8 to 16</td></tr>
 <tr><td>Sugars</td><td>13</td><td>4 to 17</td></tr>
 <tr><td>Oil crops</td><td>55</td><td>33 to 66</td></tr>
 <tr><td colspan="3">(*1)  The mean values included here represent a weighted average of the individually modelled feedstock values.  (*2)  The range included here reflects 90 % of the results using the fifth and ninety-fifth percentile values resulting from the analysis. The fifth percentile suggests a value below which 5 % of the observations were found (i.e. 5 % of total data used showed results below 8, 4, and 33 gCO2eq/MJ). The ninety-fifth percentile suggests a value below which 95 % of the observations were found (i.e. 5 % of total data used showed results above 16, 17, and 66 gCO2eq/MJ). </td></tr>
 </tbody>
+</table>
 
 **Part B. Biofuels for which the estimated indirect land-use change emissions are considered to be zero**
 
@@ -367,12 +371,14 @@ where
 
 **Part A. Provisional estimated indirect land-use change emissions from biofuel and bioliquid feedstocks (gCO2eq/MJ) ( 3 )**
 
+<table>
 <tbody><tr><td>Feedstock group</td><td>Mean (*1)</td><td>Interpercentile range derived from the sensitivity analysis (*2)</td></tr>
 <tr><td>Cereals and other starch-rich crops</td><td>12</td><td>8 to 16</td></tr>
 <tr><td>Sugars</td><td>13</td><td>4 to 17</td></tr>
 <tr><td>Oil crops</td><td>55</td><td>33 to 66</td></tr>
 <tr><td colspan="3">(*1)  The mean values included here represent a weighted average of the individually modelled feedstock values.  (*2)  The range included here reflects 90 % of the results using the fifth and ninety-fifth percentile values resulting from the analysis. The fifth percentile suggests a value below which 5 % of the observations were found (i.e. 5 % of total data used showed results below 8, 4, and 33 gCO2eq/MJ). The ninety-fifth percentile suggests a value below which 95 % of the observations were found (i.e. 5 % of total data used showed results above 16, 17, and 66 gCO2eq/MJ). </td></tr>
 </tbody>
+</table>
 
 **Part B. Biofuels and bioliquids for which the estimated indirect land-use change emissions are considered to be zero**
 

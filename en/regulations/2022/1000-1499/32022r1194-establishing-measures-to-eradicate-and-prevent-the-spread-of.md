@@ -1,0 +1,463 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1194 of 11 July 2022 establishing measures to eradicate and prevent the spread of Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018"
+identifier: "32022R1194"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1194/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-07-11
+entry_into_force: 2022-11-14
+last_amended: 2024-10-29
+consolidated_version: "02022R1194-20241029"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1194-20241029"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1194 of 11 July 2022 establishing measures to eradicate and prevent the spread of Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1194**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2636 of 8 October 2024 </td><td> L 2636</td><td>1</td><td>9.10.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1194**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018**
+
+## Article 1 — Subject matter
+
+This Regulation establishes measures for the purpose of eradicating Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018, the cause of potato ring rot, and prevent its spread within the Union territory.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means Clavibacter sepedonicus (Spieckermann & Kotthoff 1914) Nouioui et al. 2018;
+
+(2) ‘specified plants’ means plants of Solanum tuberosum L., other than seeds;
+
+(3) ‘volunteer specified plants’ means specified plants which appear in the places of production without having been planted;
+
+(4) ‘tubers intended to be planted in their place of production’ means tubers produced in a specific place of production which are intended to permanently remain in that place and are not intended to be certified;
+
+(5) ‘highly infected area’ means an area in the Union, where the number of outbreak sites identified during annual surveys during a continuous period of more than 10 years have demonstrated that the specified pest is present in multiple locations, and where it cannot be excluded that that pest is also present in production sites which are not under official supervision.
+
+## Article 3 — Annual surveys
+
+1\. The competent authorities shall carry out annual surveys for the presence of the specified pest on the specified plants in their territory in accordance with the following requirements:
+
+(a) as regards tubers other than those for planting, the surveys shall comprise:
+
+(i) sampling from tuber lots in store or from the growing crop, as late as possible between desiccation of haulms and harvest;
+
+(ii) visual inspection of the growing crop, where it is possible to visually identify symptoms of the specified pest, and visual inspection of cut tubers in the cases where that inspection is suitable to detect symptoms of the specified pest;
+
+(b) as regards tubers for planting, other than those intended to be planted in their place of production, surveys shall systematically comprise visual inspection of the growing crops and of lots in store, sampling in store or sampling from the growing crops as late as possible between desiccation of haulms and harvest;
+
+(c) as regards tubers intended to be planted in their place of production, the surveys shall be performed on the basis of the identified risk concerning the presence of the specified pest and shall comprise:
+
+(i) sampling from tuber lots in store or from the growing crop, as late as possible between desiccation of haulms and harvest;
+
+(ii) visual inspection of the growing crop, where it is possible to visually identify symptoms of the specified pest, and visual inspection of cut tubers in the cases where that inspection is suitable to detect symptoms of the specified pest;
+
+(d) as regards specified plants other than tubers, the surveys and plant sampling shall be carried out in accordance with appropriate methods to identify the specified pest on those plants.
+
+2\. The number, origin and timing of the collection of samples shall be based on sound scientific and statistical principles and the biology of the specified pest, taking into account the particular potato production systems of the Member States concerned.
+
+3\. Member States shall report to the Commission and the other Member States, by 30 April of each year, the results of the annual surveys carried out during the preceding calendar year. They shall report the results of those surveys in accordance with the template set out in Annex II.
+
+## Article 4 — Measures in case of suspicion of the presence of the specified pest
+
+1\. The competent authority shall ensure that samples taken for the purposes of the annual surveys are subject to the detection tests referred to in point 2.1 of Annex I.
+
+2\. Pending the results of the detection tests, the competent authority shall:
+
+(a) prohibit the movement of the specified plants from all crops, lots or consignments from which the samples have been taken, except the specified plants under its control for which it has been established that there is no identifiable risk of the specified pest spreading;
+
+(b) trace the origin of the suspected presence;
+
+(c) carry out official control of the movement of any specified plants, other than those referred to in point (a), produced on the place of production from which the samples referred to in point (a) were taken.
+
+3\. Pending the results of the detection tests, the competent authority shall ensure that all of the following elements are retained and appropriately conserved:
+
+(a) all remaining tubers sampled and, wherever possible, all remaining plants sampled;
+
+(b) remaining specified plant extracts, DNA extracts and additional prepared material for the test;
+
+(c) the pure culture when appropriate;
+
+(d) all relevant documentation.
+
+4\. Where the suspicion of the presence of the specified pest is confirmed in accordance with point 1.1 of Annex I, the competent authority shall ensure that tests referred to in Annex I are carried out on the samples taken for the purpose of the surveys to confirm or refute the presence of the specified pest.
+
+## Article 5 — Measures in case of confirmation of the presence of the specified pest
+
+1\. Where the presence of the specified pest is confirmed in accordance with points 1.2 or 1.3 of Annex I, paragraphs 2 to 9 shall apply.
+
+2\. The competent authority shall establish, without delay, a demarcated area, taking into account the elements listed in point 1 of Annex III, for determining the possible spread of the specified pest.
+
+3\. The demarcated area shall contain an infested zone and, where necessary to address the phytosanitary risk, a buffer zone around the infested zone.
+
+4\. The infested zone shall contain all of the following items:
+
+(a) the specified plants, consignments and/or lots, vehicles, vessels, stores, or units thereof from which an infected specified plant sample was taken, any other objects including packaging material, and the machinery used for production, transport and storage of those specified plants, and, where appropriate, the place(s) of production or the production site(s) where those specified plants were grown or harvested;
+
+(b) all types of items listed in point (a) determined to be probably infected by the specified pest, taking into account the elements listed in point 2 of Annex III, through pre- or post-harvest contacts, or through simultaneous production steps, with infected specified plants.
+
+5\. The competent authority shall designate:
+
+(a) the items listed in paragraph 4, point (a), as infected;
+
+(b) the items listed in paragraph 4, point (b), as probably infected.
+
+6\. Tubers originating in a demarcated area shall not be moved out of that demarcated area, unless it is proven that they are free from the specified pest on the basis of the tests referred to in Annex I.
+
+7\. By way of derogation from Article 32 of Implementing Regulation (EU) 2019/1715, Member States are not required to submit an outbreak notification in EUROPHYT where the specified pest is situated in a highly infected area listed in Annex ΙV.
+
+8\. Where a Member State has submitted an outbreak notification in EUROPHYT, the neighbouring Member States which are referred to in the notification shall determine the extent of probable infection and establish a demarcated area in accordance with paragraphs 2, 3 and 4.
+
+9\. The competent authority shall ensure that all of the following elements are retained and properly conserved:
+
+(a) the material specified in Article 4(3) until at least the completion of all tests;
+
+(b) the material related to the second detection test and to the identification tests when appropriate, until the completion of all tests;
+
+(c) if applicable, the pure culture of the specified pest, until at least one month after the notification procedure under paragraph 7.
+
+## Article 6 — Measures for eradicating the specified pest
+
+1\. Specified plants, designated as infected by the specified pest pursuant to Article 5(5), point (a), shall not be planted. The professional operators, under the official supervision of the competent authority, shall ensure that the infected specified plants are destroyed or are disposed of in another way, in accordance with point 1 of Annex V, provided that it is established that there is no identifiable risk of the specified pest spreading.
+
+Where specified plants have been planted before they are designated as infected, the planted material shall be immediately destroyed or disposed of in accordance with point 1 of Annex V. The production site(s) where the infected specified plants have been planted shall be designated as infected.
+
+2\. Specified plants designated as probably infected pursuant to Article 5(5), point (b), shall not be planted and, without prejudice to the outcome of the tests referred to in Article 7 for clonally related stocks, shall, under official supervision, be put to appropriate use or disposal as specified in point 2 of Annex V, in such a way that it is established that there is no identifiable risk of the specified pest spreading.
+
+Where specified plants have been planted before they are designated as probably infected, the planted material shall be immediately destroyed or be put to appropriate use or disposal as specified in point 2 of Annex V. The production site(s) where the probably infected specified plants have been planted, shall be designated as probably infected.
+
+3\. Any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, designated as infected or as probably infected pursuant to Article 5(5) shall either be destroyed or cleaned and disinfected using the methods specified in point 3 of Annex V.
+
+4\. In addition to the measures provided for in paragraphs 1, 2 and 3, the measures specified in point 4 of Annex V shall be applied in the demarcated areas.
+
+## Article 7 — Specific testing measures for tubers for planting
+
+1\. Where the presence of the specified pest has been confirmed in a production site of tubers for planting, the competent authority shall ensure that the tests referred to in Annex I are carried out on the clonally related lines of the infected lots of tubers or, where the absence of clonally related lines is established, on the tubers or lots of tubers which have been in direct or indirect contact with the infected lots of tubers.
+
+2\. Where the presence of the specified pest has been confirmed in production sites of tubers for planting in a certification scheme, the tests referred to in Annex I shall be carried out either on each plant of the initial clonal selection or on representative samples of the basic seed potatoes.
+
+## Article 8 — Temporary measures concerning movements of tubers of specified plants originating in a highly infected area
+
+1\. Tubers of the specified plants, other than those for planting, originating in a highly infected area listed in Annex IV, may only be moved out of that area into other areas of the Union territory, if they fulfil the two following conditions:
+
+(a) they are accompanied by a plant passport;
+
+(b) they originate from a place of production registered and supervised by the competent authorities, and officially recognized to be free from the specified pest; or they have been found free from the specified pest on the basis of sampling and testing performed in accordance with Annex I.
+
+2\. Every five years, Member States shall submit reports to the Commission and the other Member States, as regards the evolution of their respective highly infected areas.
+
+## Article 9 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Scheme for the tests to be performed pursuant Articles 3, 4, 5, 7 and 8**
+
+**1\. GENERAL PRINCIPLES ON THE PRESENCE OF THE SPECIFIED PEST**
+
+1.1. The presence of the specified pest is suspected where a positive result is obtained in the first detection test performed on the specified plant.
+
+For symptomatic plant material, the first detection test may be a selective isolation.
+
+1.2. The presence of the specified pest is confirmed on symptomatic samples of the specified plants in the following cases:
+
+(a) where the first detection test is a selective isolation resulting in colonies with typical morphology: positive results are obtained in two identification tests;
+
+(b) where the first detection test is another test than a selective isolation:
+
+(i) positive results are obtained in two identification tests after the sample has been subject to selective isolation;
+
+(ii) positive results are obtained in a second detection test other than a selective isolation.
+
+1.3. The presence of the specified pest is confirmed on asymptomatic samples of the specified plants in the following cases:
+
+(a) where a positive result is obtained in the second detection test provided that the first or the second detection test is a molecular (DNA-based) test (TaqMan® Real-time PCR or conventional PCR);
+
+(b) for samples taken in a Member State or in an area of a Member State where the specified pest is not known to occur and for samples which originate from another Member State: where a positive result is obtained in the second detection test in accordance with point (a) and positive results are obtained in two identification tests performed after the sample has been subject to selective isolation.
+
+**2\. TESTS**
+
+**2.1. Detection tests**
+
+The detection tests shall be such as to consistently detect at least 104 cells/ml resuspended pellet.
+
+The second detection test shall be based on different biological principles or different nucleotide regions than the first detection test.
+
+The detection tests are the following:
+
+(a) immunofluorescence tests, as described in international diagnostic standards;
+
+(b) FISH test (van Beuningen et al. (1995) ( 1 )), as described in international diagnostic standards;
+
+(c) Isolation as described in international diagnostic standards. One of the following two options shall be performed:
+
+(i) direct isolation on semi-selective (or non-selective) growth media, as described in international diagnostic standards;
+
+(ii) after enrichment through the bioassay, isolation as described in international diagnostic standards;
+
+(d) conventional PCR test using the primers of Pastrik (2000) ( 2 ), as described in international diagnostic standards;
+
+(e) TaqMan® Real-time PCR tests using primers and probes of:
+
+(i) Schaad et al. (1999) ( 3 ), as described in international diagnostic standards;
+
+(ii) Vreeburg et al. (2018) ( 4 ) (so-called NYtor test), as described in international diagnostic standards;
+
+(iii) Gudmestad et al. (2009) as adapted by Vreeburg et al. (2018) 4, as described in international diagnostic standards;
+
+(iv) Massart et al. (2014) ( 5 ), as described in international diagnostic standards.
+
+**2.2. Identification tests**
+
+The identification tests are the following:
+
+(a) an immunofluorescence test, as described in international diagnostic standards;
+
+(b) conventional PCR test (Pastrik (2000)), as described in international diagnostic standards;
+
+(c) TaqMan® Real-time PCR tests using primers and probes of:
+
+(i) Schaad et al. (1999), as described in international diagnostic standards;
+
+(ii) Vreeburg et al. (2018) (so-called NYtor test), as described in international diagnostic standards;
+
+(iii) Gudmestad et al. (2009) as adapted by Vreeburg et al. (2018), as described in international diagnostic standards;
+
+(iv) Massart et al. (2014), as described in international diagnostic standards;
+
+(d) DNA barcoding, as described in international diagnostic standards;
+
+(e) MALDI-TOF MS (Zaluga et al. (2011) ( 6 )), as described in international diagnostic standards.
+
+**3\. FLOW CHARTS OF PROCEDURES**
+
+**Flow chart No 1: Diagnostic procedure for the presence of the specified pest in symptomatic samples of the specified plant.**
+
+[image]
+
+a Isolation can be used as the first or the second detection test. If the presence of the specified pest is suspected on the growth medium, colonies shall be purified to obtain pure cultures on which two identification tests shall be performed. Positive results in the two identification tests are required to confirm the presence of the pest.
+
+b The third detection test shall be based on different biological principles or different nucleotide regions.
+
+**Flow chart No 2: Diagnostic procedure for the specified pest in asymptomatic samples of the specified plant.**
+
+[image]
+
+a Isolation shall not be used.
+
+b The third detection test shall be based on different biological principles or different nucleotide regions. Isolation shall not be used.
+
+c For the samples referred to in point (1.3)(b), confirmation of the specified pest presence after the second positive detection test requires isolation of the specified pest from the sample, followed by two positive identification tests.
+
+**4\. SAMPLE PREPARATION**
+
+**4.1. Samples from asymptomatic tubers**
+
+The standard sample shall contain 200 tubers per test. The appropriate laboratory procedure to process the heel end cores to obtain the extract for detection of the specified pest is described in international diagnostic standards.
+
+**4.2. Samples from asymptomatic plant material other than tubers**
+
+Detection of latent infections shall be carried out on composite samples of stem segments. The procedure may be applied for up to 200 stem parts from different plants in one sample. The appropriate laboratory procedure to disinfect and process the stem segments to obtain the extract for the detection of the specified pest is described in international diagnostic standards.
+
+**4.3. Samples from symptomatic specified plant**
+
+Sections of tissue shall be aseptically removed from the vascular ring in a tuber or from the vascular strands in stems of specified plants showing wilting symptoms. The appropriate laboratory procedure to process these tissues to obtain the extract for the detection of the specified pest is described in full detail in international diagnostic standards.
+
+## ANNEX II — Survey template referred to in Article 3(3)
+
+Template for presenting the results of the ring rot surveys carried out during the calendar year preceding the year of reporting.
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td rowspan="2">Category</td><td rowspan="2">Cropping area (ha)</td><td colspan="6">Visual inspections of growing crops</td><td colspan="4">Visual inspections of tuber lots in store ()</td></tr>
+<tr><td>Area visually inspected (ha)</td><td>Number of visual inspections ()</td><td>Number of visual inspections where symptoms were observed ()</td><td colspan="2">Number of symptomatic samples taken ()</td><td>Number of asymptomatic samples taken ()</td><td>Number of visual inspections ()</td><td>Number of visual inspections where symptoms were observed ()</td><td>Number of symptomatic samples taken ()</td><td>Number of asymptomatic samples taken ()</td></tr>
+<tr><td rowspan="3">  </td><td>Potato tubers for planting ()</td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers intended to be planted in their place of production</td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers other than those for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Member State</td><td rowspan="2">Category</td><td colspan="5">Laboratory tests related to visual inspections of growing crops</td><td colspan="4">Laboratory tests related to tuber lot inspections</td><td rowspan="2">Notification number(s) of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td><td rowspan="2">Additional information</td></tr>
+<tr><td colspan="2">Number of symptomatic samples tested positive</td><td>Number of asymptomatic samples tested positive</td><td colspan="2">Number of positive visual inspections ()</td><td colspan="2">Number of symptomatic samples tested positive</td><td>Number of asymptomatic samples tested positive</td><td>Number of positive lots</td></tr>
+<tr><td rowspan="3">  </td><td>Potato tubers for planting (b)</td><td colspan="2">  </td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers intended to be planted in their place of production</td><td colspan="2">  </td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers other than those for planting</td><td colspan="2">  </td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(1)  To be filled only for the results of surveys carried out on specified plants grown and harvested in your country.  (2)  Except potato tubers intended to be planted in their place of production.  (3)  Including the number of multiple visual inspections carried out on the same field or on the same lot, as applicable.  (4)  Symptoms were found on cut tubers or plants, and samples were taken for laboratory testing.  (5)  Sample preparation is described in Annex I.4.  (6)  Symptoms were found on cut tubers and samples were taken for laboratory testing.  (7)  Total number of visual inspections for which samples were tested positively for the presence or C. sepedonicus. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Elements for the determination of the possible spread of the specified pest and for the designation of items as probably infected by the specified pest, as referred to in Article 5(2) and in Article 5(4), point (b)**
+
+1\. The elements to be considered in the determination of the possible spread of the specified pest, as referred to in Article 5(2), are the following:
+
+(a) the proximity of other places of production growing specified plants or other host plants;
+
+(b) the common production and use of seed potato stocks.
+
+2\. The elements to be considered for the designation of an item as probably infected by the specified pest, pursuant to Article 5(4), point (b), are the following:
+
+(a) specified plants grown at a place of production designated as infected pursuant to Article 5(5), point (a);
+
+(b) place(s) of production with some production link to the specified plants designated as infected pursuant to Article 5(5), point (a), including those sharing production equipment and facilities directly or through a common contractor;
+
+(c) specified plants produced in the place(s) of production referred to in point (b), or present in such place(s) of production during the period when specified plants designated as infected pursuant to Article 5(5), point (a), were present on the place of production referred to in point (a);
+
+(d) premises handling specified plants from the places of production referred to in points (a), (b) and (c);
+
+(e) any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, that may have come into contact with the specified plants designated as infected pursuant to Article 5(5), point (a);
+
+(f) any specified plants stored in, or in contact with, any of the structures or objects listed in point (e), prior to the cleaning and disinfection of such structures and objects;
+
+(g) as a result of the testing pursuant to Article 7, those specified plants with a clonal relationship to the specified plants designated as infected pursuant to Article 5(5), point (a), and for which, although they may have tested negative for the specified pest, it appears that infection is probable through a clonal link. Variety testing may be undertaken to verify the identity of the infected and clonally related tubers or plants;
+
+(h) place(s) of production of the specified plants referred to in point (g).
+
+## ANNEX IV
+
+**List of highly infected areas as referred to in Article 8**
+
+1\. The territory of Poland.
+
+2\. The territory of Romania.
+
+## ANNEX V
+
+**Eradication measures as referred to in Article 6**
+
+1\. The eradication measures referred to in Article 6(1) shall be one or more of the following:
+
+(a) use as animal feed after heat treatment, such that there is no risk of the specified pest survival;
+
+(b) disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the specified pest into the environment e.g. through seepage to agricultural land;
+
+(c) incineration;
+
+(d) industrial processing through direct and immediate delivery to a processing plant with officially approved waste disposal facilities for which it has been established that there is no identifiable risk of the specified pest spreading, and with a system of cleaning and disinfection of at least the departing vehicles;
+
+(e) other measures, provided that it has been established that there is no identifiable risk of the specified pest spreading; such measures and their justification are to be notified to the Commission and to the other Member States.
+
+Any remaining waste associated with and arising from the above shall be disposed of by officially approved methods in accordance with Annex VI.
+
+2\. The appropriate use or disposal of the specified plants, designated as probably infected pursuant to Article 5(5), point (b), shall be carried out under the control of the competent authority of the Member State concerned. That competent authority shall approve the following uses, and the related waste disposal, of those specified plants:
+
+(a) use as tubers intended for consumption, packed ready for direct delivery and without repacking, on a site with appropriate waste disposal facilities. Tubers for planting may only be handled at the same site, if this is done separately or after cleaning and disinfection; or
+
+(b) use as tubers intended for industrial processing, and intended for direct and immediate delivery to a processing plant with appropriate waste disposal facilities and a system of cleaning and disinfection of at least the departing vehicles; or
+
+(c) some other use or disposal, provided that it is established that there is no identifiable risk of the specified pest spreading and subject to approval by the said competent authority.
+
+3\. The appropriate methods for cleaning and disinfection of the objects, referred to in Article 6(3) shall be those for which it has been established that there is no identifiable risk of the specified pest spreading and shall be employed under the supervision of the competent authorities of the Member States.
+
+4\. The series of measures to be implemented by Member States within the demarcated area, established pursuant to Article 5(2) and (3) and referred to in Article 6(4) shall include the measures set out in points 4.1 and 4.2:
+
+4.1. Measures to be taken in places of production designated as infected pursuant to Article 5(5), point (a):
+
+4.1.1. In a production site designated as infected pursuant to Article 5(5), point (a), all of the measures set out in points (1), (2) and (3) or all of the measures set out in points (4) and (5) shall be taken:
+
+(1) during the first three growing years following the year of the designation of infection, elimination of volunteer specified plants, and prohibition of planting of specified plants, including seeds, or of crops for which there is an identified risk of the specified pest spreading;
+
+(2) from the fourth year following the year of the designation of infection, following the fulfilment of the conditions of point (1) and on the condition that the production site has been found free from volunteer specified plants during official controls for at least the two consecutive growing years prior to planting, only production of tubers other than those intended for planting shall be allowed and the harvested tubers shall be tested in accordance with Annex I;
+
+(3) after the first production of tubers as referred to in point (2), and following an appropriate rotation cycle of at least two years if tubers for planting are to be grown, specified plants may be planted for production either of tubers for planting or other tuber production, and a survey shall be conducted as provided in Article 3; or
+
+(4) during the first four growing years following the year of the designation of infection, elimination of volunteer specified plants and maintenance of the production site in bare fallow or in permanent pasture with frequent close cutting or intensive grazing;
+
+(5) from the fifth year following the year of the designation of infection, and on the condition that point (1) has been fulfilled and that the production site has been found free from volunteer specified plants during official controls for at least the two consecutive growing years prior to planting, production of tubers for planting and of other tubers shall be allowed, and the harvested tubers shall be tested in accordance with Annex I.
+
+4.1.2. In all other production sites of the infected place of production, and under the condition that, for each growing year, the competent authority has established that the risk of volunteer specified plants has been eliminated and that testing of the harvested specified plants has been conducted in each production site of the specified plants in accordance with Annex I, the following measures shall apply:
+
+(1) in the growing year following that of the designation of infection either no specified plants, including seeds, shall be planted, or certified tubers for planting may be planted for production of tubers other than those for planting only;
+
+(2) in the second growing year following that of the designation of infection, only certified tubers for planting or tubers for planting officially tested for the absence of the specified pest and grown under official control on places of production other than those referred to in point 4 shall be planted for production either of tubers for planting or of other tubers;
+
+(3) for at least the third growing year following that of the designation of infection, only certified tubers for planting or tubers for planting grown under official control from certified tubers for planting shall be planted for production either of tubers for planting or of other tubers;
+
+(4) in each of the growing years referred to in points (1), (2) and (3), measures shall be taken to eliminate volunteer specified plants if present, and in each production site of the specified plants, harvested specified plants shall be tested as referred to in Annex I.
+
+4.1.3. Immediately following the designation of infection pursuant to Article 5(5), and after the first subsequent growing year, all machinery and storage facilities on the place of production and involved in the specified plant production shall be cleaned and disinfected as appropriate using appropriate methods, as specified in point 3.
+
+4.1.4. In a unit of protected crop production designated as infected pursuant to Article 5, point 5(a), where complete replacement of the growing medium is possible:
+
+(1) no specified plants, including seeds, shall be planted unless the following conditions are fulfilled:
+
+(a) elimination of the specified pest,
+
+(b) removal of all host plant material,
+
+(c) complete change in growing medium and cleaning and disinfection of the production unit, and of all equipment,
+
+(d) approval for specified plant production by the competent authorities;
+
+(2) specified plant production shall be from certified tubers for planting, or from mini-tubers or micro-plants derived from tested sources;
+
+4.2. Within the demarcated area, in addition to the measures detailed under point 4.1, Member States shall take the following measures:
+
+(1) immediately following the designation of infection, they shall ensure that all machinery and storage facilities on such places of production and involved with the specified plant production are cleaned and disinfected, as appropriate, and using appropriate methods, as specified in point 3;
+
+(2) immediately, and for at least three growing years following the designation of infection:
+
+(a) they shall ensure that their competent authorities supervise the premises where tubers are growing, stored or handled as well as places of production which operate specified plant machinery under contract;
+
+(b) they shall require the planting of only certified tubers for planting or tubers for planting grown under official control for all specified plant crops within that zone, and testing after harvest of tubers for planting crops grown in places of production designated as probably infected pursuant to Article 5(5), point (b);
+
+(c) they shall require the separate handling of stocks of harvested tubers for planting from the stocks of other tubers on all places of production within the demarcated area, or a system of cleaning and disinfection to be carried out between the handling of tubers stocks;
+
+(d) they shall conduct the annual survey as provided for in Article 3(1);
+
+(3) they shall establish a programme, where appropriate, for the replacement of all stocks of tubers for planting over an appropriate period of time.
+
+## ANNEX VI
+
+**Requirements for officially approved waste disposal as referred to in point (1) of Annex V**
+
+The officially approved waste disposal methods referred to in point 1 of Annex V shall comply with the following requirements:
+
+1\. Specified plant waste (including rejected tubers and tuber peelings) and any other solid waste associated with the specified plants (including soil, stones and other debris) shall be disposed by one of the following methods:
+
+(a) disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the specified pest into the environment including through seepage to agricultural land;
+
+(b) incineration;
+
+(c) other measures, provided that it has been established that there is no identifiable risk of the specified pest spreading; such measures shall be notified to the Commission and to the other Member States.
+
+For the purposes of point (a), the waste shall be conveyed directly to the site under containment conditions such that there is no risk of loss of the waste.
+
+2\. Prior to disposal, liquid waste containing suspended solids shall be subjected to filtration or settlement processes to remove such solids, which shall be disposed in accordance with point 1.
+
+The liquid waste shall then be:
+
+(a) heated to a minimum of 60 °C throughout the entire volume during at least 30 minutes prior to disposal; or
+
+(b) otherwise disposed of subject to official approval and under official control such that there is no identifiable risk that the waste could come into contact with agricultural land.
+
+( 1 ) van Beuningen, A.R., Derks, H., Janse, J.D. (1995). Detection and identification of Clavibacter michiganensis subsp. sepedonicus with special attention to fluorescent in situ hybridization (FISH) using a 16S rRNA targeted oligonucleotide probe. Züchtungs Forschung 1, pp. 266–269.
+
+( 2 ) Pastrik, K.H. (2000). Detection of Clavibacter michiganensis subsp. sepedonicus in potato tubers by multiplex PCR with coamplification of host DNA. European Journal of Plant Pathology, 106, pp. 155–165.
+
+( 3 ) Schaad, W., Berthier-Schaad, Y., Sechler, A., Knorr, D (1999). Detection of Clavibacter michiganensis subsp. sepedonicus in potato tubers by BIOPCR and an automated real-time fluorescence detection system. Plant Disease 83, pp. 1095–1100.
+
+( 4 ) Vreeburg, R., Zendman, A., Pol A., Verheij, E., Nas, M., Kooman-Gersmann, M. (2018). Validation of four real-time TaqMan PCRs for the detection of Ralstonia solanacearum and/or Ralstonia pseudosolanacearum and/or Clavibacter michiganensis subsp. sepedonicus in potato tubers using a statistical regression approach. EPPO Bulletin 48, pp. 86–96.
+
+( 5 ) Massart, S., Nagy, C., Jijakli, M.H. (2014). Development of the simultaneous detection of Ralstonia solanacearum race 3 and Clavibacter michiganensis subsp. sepedonicus in potato tubers by a multiplex real-time PCR assay. European Journal of Plant Pathology 138, pp. 29–37.
+
+( 6 ) Zaluga, J., Heylen, K., Van Hoorde, K., Hoste, B., Vaerenbergh, J., Maes, M., De Vos, P. (2011). GyrB sequence analysis and MALDI-TOF MS as identification tools for plant pathogenic Clavibacter. Systematic and applied microbiology 34, 400-7. 10.1016/j.syapm.2011.05.001.

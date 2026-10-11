@@ -1,0 +1,677 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/664 of 22 April 2021 on a regulatory framework for the U-space (Text with EEA relevance)"
+identifier: "32021R0664"
+eli: "http://data.europa.eu/eli/reg_impl/2021/664/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-04-22
+entry_into_force: 2020-05-04
+last_amended: 2026-02-22
+consolidated_version: "02021R0664-20260222"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0664-20260222"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/664 of 22 April 2021 on a regulatory framework for the U-space (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/664**
+
+**of 22 April 2021**
+
+**on a regulatory framework for the U-space**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/203 of 27 October 2022 </td><td> L 31</td><td>1</td><td>2.2.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/664**
+
+**of 22 April 2021**
+
+**on a regulatory framework for the U-space**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — PRINCIPLES AND GENERAL REQUIREMENTS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules and procedures for the safe operations of UAS in the U-space airspace, for the safe integration of UAS into the aviation system and for the provision of U-space services.
+
+2\. This Regulation shall apply, within the UAS geographical zones established as U-space airspace by Member States, to:
+
+(a) operators of UAS;
+
+(b) U-space service providers;
+
+(c) providers of common information services.
+
+3\. This Regulation shall not apply to operations of UAS conducted:
+
+(a) in the framework of model aircraft clubs and associations that have received an authorisation in accordance with Article 16 of Implementing Regulation (EU) 2019/947;
+
+(b) in subcategory A1 of the ‘open’ category of operations with an unmanned aircraft that:
+
+(i) in the case of a privately built UAS, has a maximum take-off mass, including payload, of less than 250 g and a maximum operating speed of less than 19 m/s; or
+
+(ii) is marked as class C0 and complies with the requirements of that class, as defined in Part 1 of the Annex to Delegated Regulation (EU) 2019/945; or
+
+(c) in accordance with SERA.5015 instrument flight rules of Implementing Regulation (EU) No 923/2012.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions in Implementing Regulation (EU) No 923/2012, Implementing Regulation (EU) 2017/373, Delegated Regulation (EU) 2019/945, and Implementing Regulation (EU) 2019/947 apply. The following definitions also apply:
+
+(1) ‘U-space airspace’ means a UAS geographical zone designated by Member States, where UAS operations are only allowed to take place with the support of U-space services;
+
+(2) ‘U-space service’ means a service relying on digital services and automation of functions designed to support safe, secure and efficient access to U-space airspace for a large number of UAS;
+
+(3) ‘airspace risk assessment’ means an evaluation of operational, safety and security risks that takes into account the required levels of safety performance as defined in the European Plan for Aviation Safety and the State Safety Programme referred to in Articles 6 and 7 of Regulation (EU) 2018/1139, the type, complexity and density of the traffic, the location, altitudes or heights and the airspace classification;
+
+(4) ‘common information service’ means a service consisting in the dissemination of static and dynamic data to enable the provision of U-space services for the management of traffic of unmanned aircraft;
+
+(5) ‘principal place of business’ means the head office or registered office of a U-space or common information service provider in the Member State within which the principal financial functions and operational control of the service provider are exercised;
+
+(6) ‘dynamic airspace reconfiguration’ means the temporary modification of the U-space airspace in order to accommodate short-term changes in manned traffic demand, by adjusting the geographical limits of that U-space airspace.
+
+## CHAPTER II — U-SPACE AIRSPACE AND COMMON INFORMATION SERVICES
+
+### Article 3 — U-space airspace
+
+1\. Where Member States designate U-space airspace for safety, security, privacy or environmental reasons such designation shall be supported by an airspace risk assessment.
+
+2\. All UAS operations in the U-space airspace shall be subject to at least the following mandatory U-space services:
+
+(a) the network identification service referred to in Article 8;
+
+(b) the geo-awareness service referred to in Article 9;
+
+(c) the UAS flight authorisation service referred to in Article 10;
+
+(d) the traffic information service referred to in Article 11.
+
+3\. For each U-space airspace, based on the airspace risk assessment referred to in paragraph 1, Member States may require additional U-space services selected from the services referred to in Articles 12 and 13.
+
+4\. For each U-space airspace, based on the airspace risk assessment referred to in paragraph 1 and using the criteria set out in Annex I, Member States shall determine:
+
+(a) the UAS capabilities and performance requirements;
+
+(b) the U-space services performance requirements;
+
+(c) the applicable operational conditions and airspace constraints.
+
+5\. Member States shall give access to U-space service providers to the relevant data, if required for the application of this Regulation, as regards to:
+
+(a) the UAS operators registration system, referred to in Article 14 of Implementing Regulation (EU) 2019/947, of the Member State in which U-space service providers offer their services; and
+
+(b) UAS operators registration systems of other Member States through the repository of information referred to in Article 74 of Regulation (EU) 2018/1139.
+
+6\. Member States shall make the information on the U-space airspace available in accordance with Article 15(3) of Regulation (EU) 2019/947, as well as through their aeronautical information service.
+
+7\. Where Member States decide to establish a cross-border U-space airspace, they shall jointly decide on:
+
+(a) the designation of the cross-border U-space airspace;
+
+(b) the provision of cross-border U-space services;
+
+(c) the provision of cross-border common information services.
+
+### Article 4 — Dynamic airspace reconfiguration
+
+Where a Member State designates a U-space airspace within controlled airspace, it shall ensure that the dynamic reconfiguration of the airspace within that U-space airspace as laid down in ATS.TR.237 of Implementing Regulation (EU) 2021/665 amending Regulation (EU) 2017/373 is applied in order to make sure that manned aircraft which are provided with an air traffic control service and UAS remain segregated.
+
+### Article 5 — Common information services
+
+1\. Member States shall make the following data available as part of the common information services of each U-space airspace:
+
+(a) horizontal and vertical limits of the U-space airspace;
+
+(b) the requirements determined pursuant to Article 3(4);
+
+(c) a list of certified U-space service providers offering U-space services in the U-space airspace, with the following information:
+
+(i) identification and contact details of active U-space service providers;
+
+(ii) U-space services provided;
+
+(iii) certification limitation(s), if any;
+
+(d) any adjacent U-space airspace (s);
+
+(e) UAS geographical zones relevant to the U-space airspace and published by Member States in accordance with Implementing Regulation (EU) 2019/947;
+
+(f) static and dynamic airspace restrictions defined by the relevant authorities and permanently or temporarily limiting the volume of airspace within the U-space airspace where UAS operations can take place.
+
+2\. Member States shall ensure that the relevant operational data referred to in ATS.OR.127 of Implementing Regulation (EU) 2021/665 amending Regulation (EU) 2017/373, as well as the data resulting from the dynamic airspace reconfiguration referred to in ATS.TR.237 thereof, are made available as part of the common information services of each U-space airspace.
+
+3\. U-space service providers shall make the terms and conditions of their services available as part of the common information services of each U-space airspace in which they offer their services.
+
+4\. The providers of common information services shall ensure that the information referred to in paragraphs 1, 2 and 3:
+
+(a) is made available in accordance with Annex II;
+
+(b) complies with the necessary data quality, latency and protection requirements established in Annex III.
+
+5\. Access to common information services shall be granted to relevant authorities, air traffic service providers, U-space service providers and UAS operators on a non-discriminatory basis, including with the same data quality, latency and protection levels.
+
+6\. Member States may designate a single common information service provider to supply the common information services on an exclusive basis in all or some of the U-space airspaces under their responsibility. In this case, the information referred to in paragraphs 1 to 3 shall be made available to the single common information service provider who then shall provide it in accordance with paragraph 5.
+
+7\. Such a single common information service provider shall fulfil the requirements referred to in paragraphs 4 and 5 and shall be certified in accordance with Chapter V of this Regulation.
+
+8\. A Member State who designates a single common information service provider shall inform the Agency, and the other Member States without delay of any decision concerning the certificate of the single common information service provider. The Agency shall include in the repository referred to in Article 74 of Regulation (EU) 2018/1139 information about all decisions notified by Member States pursuant to this paragraph.
+
+## CHAPTER III — GENERAL REQUIREMENTS FOR UAS OPERATORS AND U-SPACE SERVICE PROVIDERS
+
+### Article 6 — UAS operators
+
+1\. When operating in the U-space airspace, UAS operators shall:
+
+(a) ensure that the UAS to be operated in the U-space airspace comply with the capabilities and performance requirements determined in accordance with Article 3(4)(a);
+
+(b) ensure that during their operations, the necessary U-space services referred to in Article 3(2) and(3) are used, and their requirements complied with;
+
+(c) comply with the applicable operational conditions and airspace constraints referred to in Article 3(4)(c).
+
+2\. UAS operators may provide U-space services to themselves. In such case, they shall be considered as U-space service providers for the purposes of this Regulation.
+
+3\. Before operating in the U-space airspace, UAS operators shall comply with the requirements of Implementing Regulation (EU) 2019/947 including, where relevant, hold an operational authorisation or a certificate issued by the competent authority of the Member State of registration and to comply with the operational limitations set by a Member State in any UAS geographical zone.
+
+4\. Before each individual flight, the UAS operator shall submit an UAS flight authorisation request to its U-space service provider, through the UAS flight authorisation service referred to in Article 10, in compliance with Annex IV.
+
+5\. When ready to start the flight, the UAS operator shall request the U-space service provider for the activation of the UAS flight authorisation. Upon receiving the confirmation of the activation for the UAS flight authorisation from the U-space service provider, the UAS operator shall be entitled to start its flight.
+
+6\. UAS operators shall comply with the UAS flight authorisation, including the authorisation deviation thresholds referred to in Article 10(2)(d), as well as with any changes thereto. The U-space service provider may introduce changes to the authorisation during any phase of the flight and, in such case, shall inform UAS operators about them.
+
+7\. Where UAS operators are not able to comply with the UAS flight authorisation deviation thresholds referred to in Article 10(2)(d), they shall request a new UAS flight authorisation.
+
+8\. UAS operators shall provide for contingency measures and procedures. They shall make their contingency measures and procedures available to the U-space service providers.
+
+### Article 7 — U-space service providers
+
+1\. U-space services shall be provided by legal persons certified as U-space service providers in accordance with Chapter V.
+
+2\. U-space service providers shall be responsible for providing the UAS operators with the U-space services referred to in Article 3(2) and (3) during all phases of operations in that U-space airspace.
+
+3\. U-space service providers shall establish arrangements with the air traffic services providers to ensure adequate coordination of activities, as well as the exchange of relevant operational data and information in accordance with Annex V.
+
+4\. U-space service providers shall handle air traffic data without discrimination, restriction or interference, irrespective of their sender or receiver, content, application or service, or terminal equipment.
+
+5\. U-space service providers shall:
+
+(a) exchange any information that is relevant for the safe provision of U-space services amongst themselves;
+
+(b) adhere to a common secure interoperable open communication protocol and use the latest information made available in accordance with Annex II;
+
+(c) ensure that the information is exchanged in accordance with the data quality, latency and protection requirements set out in Annex III;
+
+(d) ensure the access to and the necessary protection of the information exchanged.
+
+6\. U-space service providers shall report the following to the competent authority:
+
+(a) the starting of operations after receiving the certificate referred to in Article 14;
+
+(b) the ceasing and subsequent restart of operations, if applicable.
+
+## CHAPTER IV — U-SPACE SERVICES
+
+### Article 8 — Network identification service
+
+1\. A network identification service shall allow the continuous processing of the remote identification of the UAS throughout the duration of the flight and shall provide the remote identification of the UAS to the authorised users referred to in paragraph 4 in an aggregated manner.
+
+2\. The network identification service shall allow for the authorised users to receive messages with the following content:
+
+(a) the UAS operator registration number;
+
+(b) the unique serial number of the unmanned aircraft or, if the unmanned aircraft is privately built, the unique serial number of the add-on;
+
+(c) the geographical position of the UAS, its altitude above mean sea level and its height above the surface or take-off point;
+
+(d) the route course measured clockwise from true north and the ground speed of the UAS;
+
+(e) the geographical position of the remote pilot or, if not available, the take-off point;
+
+(f) the emergency status of the UAS;
+
+(g) the time at which the messages were generated.
+
+3\. The information provided by the network identification services shall be updated at a frequency that the competent authority has determined.
+
+4\. The authorised users shall be:
+
+(a) the general public as regards information that is deemed public in accordance with applicable Union and national rules;
+
+(b) other U-space service providers in order to ensure the safety of operations in the U-space airspace;
+
+(c) the air traffic services providers concerned;
+
+(d) when designated, the single common information service provider;
+
+(e) the relevant competent authorities.
+
+### Article 9 — Geo-awareness service
+
+1\. A geo-awareness service consisting of the following geo-awareness information shall be provided to UAS operators:
+
+(a) information on the applicable operational conditions and airspace constraints within the U-space airspace;
+
+(b) UAS geographical zones, relevant to the U-space airspace;
+
+(c) temporary restrictions applicable to airspace use within the U-space airspace.
+
+2\. U-space service providers shall dispatch the geo-awareness information in a timely manner to allow contingencies and emergencies to be addressed by UAS operators, and shall include its time of update together with a version number or a valid time, or both.
+
+### Article 10 — UAS flight authorisation service
+
+1\. The U-space service providers shall provide UAS operators with the UAS flight authorisation for each individual flight, setting the terms and conditions of that flight, through a UAS flight authorisation service.
+
+2\. Where U-space service providers receive from the UAS operator an UAS flight authorisation request, they shall:
+
+(a) check if the UAS flight authorisation request is complete and correct and submitted in accordance with Annex IV;
+
+(b) accept the UAS flight authorisation request if the flight under the UAS flight authorisation is free of intersection in space and time with any other notified UAS flight authorisations within the same U-space airspace in accordance with the priority rules set out in paragraph 8;
+
+(c) notify the UAS operator about the acceptance or rejection of the UAS flight authorisation request;
+
+(d) when notifying the UAS operator about the acceptance of the UAS flight authorisation request, indicate the allowed UAS flight authorisation deviation thresholds.
+
+3\. When issuing a UAS flight authorisation, the U-space service providers shall use, where applicable, weather information provided by the weather information service as referred to in Article 12.
+
+4\. Where U-space service providers are unable to grant an UAS flight authorisation in accordance with the UAS operator’s request, U-space service providers may propose an alternative UAS flight authorisation to the UAS operator.
+
+5\. Upon receiving the request for an UAS flight authorisation activation referred to in Article 6(5), the U-space service providers shall confirm the activation of the UAS flight authorisation without unjustified delay.
+
+6\. U-space service providers shall establish proper arrangements to resolve conflicting UAS flight authorisation requests received from UAS operators by different U-space services providers.
+
+7\. U-space service providers shall check the request for UAS flight authorisations against U-space airspace restrictions and temporary airspace limitations.
+
+8\. When processing UAS flight authorisation requests, the U-space service providers shall give priority to UAS conducting special operations as referred to in Article 4 of Implementing Regulation (EU) No 923/2012.
+
+9\. When two UAS flight authorisations requests have the same priority, they shall be processed on a first come first served basis.
+
+10\. U-space service providers shall continuously check existing flight authorisations against new dynamic airspace restrictions and limitations, and information about manned aircraft traffic shared by relevant air traffic service units, in particular regarding manned aircraft known or believed to be in a state of emergency, including being subjected to unlawful interference, and update or withdraw authorisations as may be necessitated by the circumstances.
+
+11\. U-space service providers shall issue a unique authorisation number for each UAS flight authorisation. This number shall enable the identification of the authorised flight, the UAS operator and the U-space service provider issuing the UAS flight authorisation.
+
+### Article 11 — Traffic information service
+
+1\. A traffic information service provided to the UAS operator shall contain information on any other conspicuous air traffic, that may be in proximity to the position or intended route of the UAS flight.
+
+2\. The traffic information service shall include information about manned aircraft and UAS traffic shared by other U-space service providers and relevant air traffic service units.
+
+3\. The traffic information service shall provide information about other known air traffic and shall:
+
+(a) include the position, time of report as well as speed, heading or direction and emergency status of aircraft, when known;
+
+(b) be updated at a frequency that the competent authority has determined.
+
+4\. Upon receiving the traffic information services from the U-space service provider, UAS operators shall take the relevant action to avoid any collision hazard.
+
+### Article 12 — Weather information service
+
+1\. When providing a weather information service, U-space service providers shall:
+
+(a) collect weather data, provided by trusted sources, to maintain safety and support operational decisions of other U-space services;
+
+(b) provide the UAS operator with weather forecasts and actual weather information either before or during the flight.
+
+2\. The weather information service shall include, as a minimum:
+
+(a) wind direction measured clockwise through the true north and speed in metres per second, including gusts;
+
+(b) the height of the lowest broken or overcast layer in hundreds of feet above ground level;
+
+(c) visibility in metres and kilometres;
+
+(d) temperature and dew point;
+
+(e) indicators of convective activity and precipitation;
+
+(f) the location and time of the observation, or the valid times and locations of the forecast;
+
+(g) appropriate QNH with geographical location of its applicability.
+
+3\. U-space service providers shall provide weather information that is up-to-date and reliable to support UAS operation.
+
+### Article 13 — Conformance monitoring service
+
+1\. A conformance monitoring service shall enable the UAS operators to verify whether they comply with the requirements set out in Article 6(1) and the terms of the UAS flight authorisation. To this end, this service shall alert the UAS operator when the flight authorisation deviation thresholds are violated and when the requirements in Article 6(1) are not complied with.
+
+2\. Where the conformance monitoring service detects a deviation from the flight authorisation, the U-space service provider shall alert the other UAS operators operating in the vicinity of the UAS concerned, other U-space service providers offering services in the same airspace and relevant air traffic services units, which shall acknowledge the alert.
+
+## CHAPTER V — CERTIFICATION OF U-SPACE SERVICE PROVIDERS AND SINGLE COMMON INFORMATION SERVICE PROVIDERS
+
+### Article 14 — Application for a certificate
+
+1\. U-space service providers and, when designated, single common information service providers shall hold a certificate issued by the competent authority of the Member State of their principal place of business.
+
+2\. U-space service providers and, when designated, single common information service providers that have their principal place of business, are established, or reside in a third country, shall apply for a certificate to the European Union Aviation Safety Agency (‘the Agency’).
+
+3\. The U-space service provider’s certificate shall be issued in accordance with Annex VI.
+
+4\. The single common information service provider’s certificate shall be issued in accordance with Annex VII.
+
+5\. The certificate shall determine the rights and privileges of its holder to provide services to which it relates.
+
+6\. An application for a U-space service provider or a single common information service provider certificate, or for an amendment to an existing certificate, shall be submitted in a form and manner established by the competent authority, or by the Agency, as applicable.
+
+### Article 15 — Conditions for obtaining a certificate
+
+1\. U-space service providers and, when designated, single common information service providers shall be granted certificates if they demonstrate that they:
+
+(a) are able to provide their services in a safe, secure, efficient, continuous and sustainable manner, consistent with the intended UAS operations and in compliance with the level of performance established by the Member States for the U-space airspace in accordance with Article 3(4);
+
+(b) use systems and equipment that guarantee the quality, latency and protection of the U-space or common information services in accordance with this Regulation;
+
+(c) have the appropriate net capital commensurate with the costs and risks associated with the provision of U-space or common information services;
+
+(d) are able to report occurrences in accordance with point ATM/ANS.OR.A.065 in Subpart A of Annex III to Implementing Regulation (EU) 2017/373;
+
+(e) implement and maintain a management system in accordance with Subpart B of Annex III to Implementing Regulation (EU) 2017/373;
+
+(f) implement and maintain a security management system in accordance with point ATM/ANS.OR.D.010 in Subpart D of Annex III to Implementing Regulation (EU) 2017/373 and an information security management system in accordance with Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203;
+
+(g) retain for a period of, at least 30 days, recorded operational information and data or longer, where the recordings are pertinent to accident and incident investigations until it is evident that they will no longer be required;
+
+(h) have a robust business plan indicating that they can meet their actual obligations to provide services in a continuous manner for a period of at least 12 months from the start of operations;
+
+(i) have in place arrangements to cover liabilities related to the execution of their tasks appropriate to the potential loss and damage;
+
+(j) where they avail themselves of services of another service provider, they have the agreements concluded to that effect, specifying the allocation of liability between them;
+
+(k) have developed a contingency plan in the case of events, including security breaches impacting the delivery of services, which result in significant degradation or interruption of their operations;
+
+2\. In addition to the requirements laid down in paragraph 1, U-space service providers shall have an emergency management plan to assist the UAS operator experiencing an emergency and a communication plan to inform those concerned.
+
+### Article 16 — Validity of the certificate
+
+1\. A U-space service provider or a single common information service provider certificate shall remain valid as long as the holder of the certificate complies with the relevant requirements set out in this Regulation.
+
+2\. A U-space service provider or a single common information service provider certificate shall cease to be valid if the holder of the certificate has:
+
+(a) not started operations within 6 months after the certificate was issued;
+
+(b) ceased operations for more than 12 consecutive months.
+
+3\. The competent authority or the Agency, as applicable, shall assess the operational and financial performance of a U-space service provider or a single common information service provider under its responsibility.
+
+4\. The competent authority or the Agency, as applicable, may, on the basis of the outcome of the assessment referred to in paragraph 3, impose particular conditions to the certificate holder, amend, suspend, limit or revoke the certificate.
+
+## CHAPTER VI — GENERAL AND FINAL PROVISIONS
+
+### Article 17 — Capabilities of the competent authorities
+
+1\. Competent authorities shall have the technical and operational capacity and expertise to fulfil their obligations under Article 18. To this end, they shall:
+
+(a) have appropriately documented procedures, and adequate resources;
+
+(b) employ personnel with sufficient knowledge, professional integrity, as well as experience and training to perform their allocated tasks;
+
+(c) take any action required to contribute to the safe, efficient and secure operations of UAS in the U-space airspace under their responsibility.
+
+2\. Competent authorities shall be capable of taking or initiating any appropriate enforcement measures necessary to ensure that the U-space service providers and single common information service providers under their oversight comply with the requirements of this Regulation.
+
+### Article 18 — Tasks of the competent authorities
+
+The designated competent authorities shall:
+
+(a) establish, maintain and make available a registration system for certified U-space service providers and single common information service providers;
+
+(b) determine what traffic data, whether live or recorded, U-space service providers, single common information service providers and air traffic service providers are to make available to authorised natural and legal persons, including the required frequency and the quality level of data, without prejudice to personal data protection regulations;
+
+(c) determine the level of access to the information for different users of the common information, and ensure it is made available in accordance with Annex II;
+
+(d) ensure that data exchanges between air traffic service providers and U-space service providers are made in accordance with Annex V;
+
+(e) define the manner for natural and legal persons to apply for a U-space service provider or single common information service provider certificate in accordance with Chapter V;
+
+(f) establish a mechanism to coordinate with other authorities and entities, including at local level, the designation of U-space airspace, the establishment of airspace restrictions for UAS within that U-space airspace and the determination of the U-space services to be provided in the U-space airspace;
+
+(g) establish a certification and continuous risk-based oversight programme, including the monitoring of the operational and financial performance, commensurate with the risk associated with the services being provided by the U-space service providers and single common information service providers under their oversight responsibility;
+
+(h) require the providers of common information and U-space service providers to make available all necessary information to ensure that the provision of U-space services contribute to safe operations of aircraft;
+
+(i) carry out audits, assessments, investigations and inspections of the U-space service providers and single common information service providers as established in the oversight programme;
+
+(j) take into account the required levels of safety performance when defining the requirements for each U-space airspace that have been subject to an airspace risk assessment as referred to in Article 3(1);
+
+(k) regularly monitor and assess the levels of safety performance and use the results of the monitoring of safety performance in particular within their risk-based oversight;
+
+(l) establish, implement and maintain an information security management system in accordance with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203.
+
+### Article 19 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 26 January 2023.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Criteria for the definition of capabilities, performance requirements, operational conditions and airspace constraints referred to in Article 3(4)
+
+**A. Criteria for the definition of UAS capabilities and performance requirements**
+
+To determine the UAS capabilities and performance requirements in accordance with Article 3(4)(a), the Member States shall take the following criteria into account:
+
+1\. the expected UAS types of operations and manned traffic density;
+
+2\. existing airspace classification and structures;
+
+3\. the U-space services to be provided;
+
+4\. any other additional constraints.
+
+**B. Criteria for the definition of U-space services performance requirements**
+
+To determine the U-space services performances requirements in accordance with Article 3(4)(b), the Member States shall take the following criteria into account:
+
+1\. Ground and air risk;
+
+2\. Geographical area overflown;
+
+3\. Known severe weather conditions;
+
+4\. Availability of infrastructure supporting U-space service
+
+**C. Criteria for the definition of operational conditions and airspace constraints**
+
+To determine the operational conditions and airspace constraints in accordance with Article 3(4)(c), the Member States shall take the following criteria into account:
+
+**1\. Operational conditions**
+
+a. Expected types of flight;
+
+b. Contingency and emergency procedures for UAS;
+
+c. The procedure between the U-space service providers and the relevant air traffic services units to coordinate the UAS flight authorisation request in controlled airspace;
+
+d. The procedures to disseminate dynamic airspace configuration in controlled airspace.
+
+**2\. Airspace constraints**
+
+a. The available capacity for UAS traffic;
+
+b. The available and planned capacity for manned aviation;
+
+c. Access of manned aviation to U-space airspace;
+
+d. Weather limitations for the use of the U-space airspace; Impact on aerodromes and other specific activities adjacent to the proposed U-space airspace.
+
+## ANNEX II — Publication of the common information referred to in Article 5(4)(a)
+
+1\. Providers of common information services shall ensure that the information referred to in Article 5(1), (2) and (3) is available online through common open, secure, scalable, sustainable technologies that are able to support the required levels of availability and performances, and that ensure interoperability and the free movement of U-space services in Union.
+
+2\. Providers of common information services shall grant access to common information on a non-discriminatory basis.
+
+3\. U-space service providers and air traffic service providers shall use a common secure interoperable open communication protocol.
+
+## ANNEX III — Data quality, data latency and data protection requirements referred to in Article 5(4)(b) and Article 7(5)(c)
+
+**A. In order to meet the data quality requirements, providers of common information services and U-space service providers shall ensure that:**
+
+1\. data quality is maintained;
+
+2\. verification and validation techniques are employed to ensure that data is received without corruption and that corruption does not occur at any stage of the data process;
+
+3\. the metadata is collected and preserved.
+
+4\. the transfer of data is subject to a suitable authentication process such that recipients are able to confirm that the data or information has been transmitted by an authorised source.
+
+5\. error reporting, error measurement and corrective action mechanisms are established and maintained.
+
+**B. In order to protect the data, providers of common information services and U-space service providers shall:**
+
+1\. implement security policies, including data encryption and protection of critical data;
+
+2\. protect the open secure interoperable communication protocols from intentional unauthorised electronic interactions that may result in an unacceptable breakdown in communications;
+
+3\. identify, assess, and mitigate, as necessary, the security risks and vulnerabilities;
+
+4\. adhere to security standards and regulations regarding where data can be stored and ensure that third-party providers agree to follow security practices;
+
+5\. describe a policy for employee awareness and training and tools to reduce insider risks, and protection of data – including intellectual property. In doing so, they shall monitor the user and network activity to provide insight into ecosystem vulnerabilities and threats.
+
+6\. deploy solutions that augment threat detection and intelligence capabilities and ensure the use of technology safeguards.
+
+## ANNEX IV — UAS flight authorisation request referred to in Article 6(4)
+
+The UAS flight authorisation request shall comprise the following information:
+
+1\. the unique serial number of the unmanned aircraft or, if the unmanned aircraft is privately built, the unique serial number of the add-on;
+
+2\. mode of operation;
+
+3\. type of flight (special operations);
+
+4\. category of UAS operation (‘open’, ‘specific’, ‘certified’) and UAS aircraft class or UAS type certificate if applicable;
+
+5\. 4D trajectory;
+
+6\. identification technology;
+
+7\. expected connectivity methods;
+
+8\. endurance;
+
+9\. applicable emergency procedure in case of a loss of command and control link;
+
+10\. registration number of the UAS operator and, when applicable, of the unmanned aircraft.
+
+## ANNEX V — Exchange of relevant operational data and information between U-space service providers and air traffic service providers in accordance with Article 7(3)
+
+1\. The exchange of information shall be ensured through an agreement on a service level laying down the quality of information and through the exchange model used for the relevant operational data and information.
+
+2\. The exchange model shall:
+
+a. enable the management and distribution of information in digital format;
+
+b. describe the exchanged information features, their properties, attributes, data types, and associations;
+
+c. include data constraints and validation rules;
+
+d. apply a standard data encoding format;
+
+e. provide an extension mechanism by which groups of users can extend the properties of existing features and add new features that do not adversely affect standardisation within and across Member States.
+
+3\. U-space service providers and air traffic service providers shall use a recognised encryption method.
+
+4\. U-space service providers and air traffic service providers shall use a common secure interoperable open communication protocol.
+
+## ANNEX VI — LOGO EASA or NAA as applicable — Certificate for U-space service provider referred to in Article 14(3)
+
+**CERTIFICATE FOR U-SPACE SERVICE PROVIDER**
+
+**[CERTIFICATE NUMBER/ISSUE No]**
+
+Pursuant to Regulation (EU) …/…. (and to Regulation (EU) …/….) and subject to the conditions specified below, the [competent authority] hereby certifies
+
+[NAME OF THE U-SPACE SERVICE PROVIDER]
+
+[ADDRESS OF THE U-SPACE SERVICE PROVIDER]
+
+as a U-space service provider with the privileges, as listed in the attached service provision conditions.
+
+CONDITIONS:
+
+This certificate is limited to the conditions and the scope of providing services as listed in the attached service provision conditions.
+
+This certificate is valid whilst the certified U-space service provider remains in compliance with Regulation (EU) …/… and the other applicable regulations and, when relevant, with the procedures in the U-space service provider’s documentation as required by Regulation (EU) …/…, Part-….
+
+Subject to compliance with the foregoing conditions, this certificate shall remain valid unless it has been surrendered, limited, suspended or revoked.
+
+Date of issue:
+
+Signed:
+
+[Competent authority]
+
+**U-SPACE SERVICE PROVISION CONDITIONS AND LIMITATIONS**
+
+has obtained the privileges to provide the following U-space services under the following conditions and limitations:
+
+(Delete lines as appropriate)
+
+<table>
+<tbody><tr><td>Services</td><td>Type of service</td><td>Conditions</td><td>Limitations</td></tr>
+<tr><td rowspan="7">U-space services</td><td>Network identification service</td><td>  </td><td>  </td></tr>
+<tr><td>Geo-awareness service</td><td>  </td><td>  </td></tr>
+<tr><td>UAS flight authorisation service</td><td>  </td><td>  </td></tr>
+<tr><td>Traffic information service</td><td>  </td><td>  </td></tr>
+<tr><td>Weather service</td><td>  </td><td>  </td></tr>
+<tr><td>Conformance monitoring service</td><td>  </td><td>  </td></tr>
+<tr><td>Other (as defined by the Member State)</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — LOGO EASA or NAA as applicable — Certificate for single common information service provider referred to in Article 14(3)
+
+**CERTIFICATE FOR SINGLE COMMON INFORMATION SERVICE PROVIDER**
+
+**[CERTIFICATE NUMBER/ISSUE No]**
+
+Pursuant to Regulation (EU) …/…. (and to Regulation (EU) …/….), the [competent authority] hereby certifies
+
+[NAME OF THE SINGLE COMMON INFORMATION SERVICE PROVIDER]
+
+[ADDRESS OF THE SINGLE COMMON INFORMATION SERVICE PROVIDER]
+
+as a single common information service provider.
+
+This certificate is valid whilst the certified single common information service provider remains in compliance with Regulation (EU) …/… and the other applicable regulations and, when relevant, with the procedures in the singles common information service provider’s documentation as required by Regulation (EU) …/…, Part-….
+
+Subject to compliance with the foregoing conditions, this certificate shall remain valid unless it has been surrendered, limited, suspended or revoked.
+
+Date of issue:
+
+Signed:
+
+[Competent authority]
+
+## Appendix — ATS airspace classes and U-space – services provided
+
+The purpose of this Appendix is to show the services related to U-space airspace provided in each specific airspace class in a concise manner. Therefore, it does not provide any specifications additional to those already expressed in this Regulation and Implementing Regulation (EU) 2021/666 amending Regulation (EU) No 923/2012. Air traffic services provided by ATS units and requirements for IFR and VFR flights remain those expressed in Regulation (EU) No 923/2012 and summarised in its Appendix 4.
+
+<table>
+<tbody><tr><td>Class</td><td>Type of flight</td><td>Allowed in U-space airspace</td><td>Services in U-space airspace by USSPs</td></tr>
+<tr><td rowspan="2">A</td><td>IFR only</td><td>Not without dynamic airspace reconfiguration</td><td>  </td></tr>
+<tr><td>UAS (1)</td><td>Yes</td><td>UAS flight authorisation Traffic information about UAS </td></tr>
+<tr><td rowspan="2">B, C and D</td><td>IFR and VFR</td><td>Not without dynamic airspace reconfiguration</td><td>  </td></tr>
+<tr><td>UAS (1)</td><td>Yes</td><td>UAS flight authorisation Traffic information about UAS </td></tr>
+<tr><td rowspan="3">E</td><td>IFR</td><td>Not without dynamic airspace reconfiguration</td><td>  </td></tr>
+<tr><td>VFR</td><td>Yes, subject to sharing position with USSPs</td><td>Nil</td></tr>
+<tr><td>UAS (1)</td><td>Yes</td><td>UAS flight authorisation Traffic information about UAS and VFR </td></tr>
+<tr><td rowspan="3">F</td><td>IFR</td><td>Yes, subject to sharing position with USSPs</td><td>Nil</td></tr>
+<tr><td>VFR</td><td>Yes, subject to sharing position with USSPs</td><td>Nil</td></tr>
+<tr><td>UAS (1)</td><td>Yes</td><td>UAS flight authorisation Traffic information about UAS, IFR and VFR </td></tr>
+<tr><td rowspan="3">G</td><td>IFR</td><td>Yes, subject to sharing position with USSPs</td><td>Nil</td></tr>
+<tr><td>VFR</td><td>Yes, subject to sharing position with USSPs</td><td>Nil</td></tr>
+<tr><td>UAS (1)</td><td>Yes</td><td>UAS flight authorisation Traffic information about UAS, IFR and VFR </td></tr>
+<tr><td colspan="4">(1)  Except UAS flying according to Instrument Flight Rules. </td></tr>
+</tbody>
+</table>

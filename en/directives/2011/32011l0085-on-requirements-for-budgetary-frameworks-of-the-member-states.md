@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on requirements for budgetary frameworks of the Member States**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2024/1265 of 29 April 2024 </td><td> L 1265</td><td>1</td><td>30.4.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2011/85/EU**
 

@@ -1,0 +1,1818 @@
+---
+title: "Commission Regulation (EC) No 2229/2004 of 3 December 2004 laying down further detailed rules for the implementation of the fourth stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EECText with EEA relevance"
+identifier: "32004R2229"
+eli: "http://data.europa.eu/eli/reg/2004/2229/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-12-03
+entry_into_force: 2004-08-03
+last_amended: 2010-09-07
+consolidated_version: "02004R2229-20100907"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R2229-20100907"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2229/2004 of 3 December 2004 laying down further detailed rules for the implementation of the fourth stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EECText with EEA relevance
+
+**COMMISSION REGULATION (EC) No 2229/2004**
+
+**of 3 December 2004**
+
+**laying down further detailed rules for the implementation of the fourth stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 647/2007 of 12 June 2007 </td><td> L 151</td><td>26</td><td>13.6.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1095/2007 of 20 September 2007 </td><td> L 246</td><td>19</td><td>21.9.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 114/2010 of 9 February 2010 </td><td> L 37</td><td>12</td><td>10.2.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 741/2010 of 17 August 2010 </td><td> L 217</td><td>2</td><td>18.8.2010</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 2229/2004**
+
+**of 3 December 2004**
+
+**laying down further detailed rules for the implementation of the fourth stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER AND SCOPE, DEFINITIONS AND THE DESIGNATED MEMBER STATE AUTHORITY
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down:
+
+(a) further detailed rules for the implementation of the fourth stage of the programme of work referred to in the second subparagraph of Article 8(2) of Directive 91/414/EEC (the programme of work) with respect to the continued evaluation of the active substances notified under Regulation (EC) No 1112/2002;
+
+(b) rules covering the active substances that were on the market before 1 May 2004 in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia and which are not included in stages one to three of the programme of work and which are not covered by Regulation (EC) No 1112/2002.
+
+2\. Article 6(2) and (3) and the second paragraph of Article 6(4) of Directive 91/414/EEC shall not apply to active substances listed in Annex I to this Regulation as long as the procedures provided for in this Regulation with regard to such substances have not been finalised.
+
+3\. This Regulation shall apply without prejudice to:
+
+(a) reviews by Member States of active substances listed in Annex I to this Regulation in particular pursuant to renewals of authorisations in accordance with Article 4(4) of Directive 91/414/EEC;
+
+(b) reviews by the Commission in accordance with Article 5(5) of Directive 91/414/EEC;
+
+(c) assessments carried out under Directive 79/117/EEC.
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation, the definitions set out in Article 2 of Directive 91/414/EEC and Article 2 of Regulation (EC) No 1112/2002 shall apply.
+
+The following definitions shall also apply:
+
+(a) ‘notifier’ means the natural or legal person who has submitted a notification in accordance with:
+
+(i) Regulation (EC) No 1112/2002, as listed in Annex II to this Regulation, or
+
+(ii) Article 4 of this Regulation;
+
+(b) ‘rapporteur Member State’ means the rapporteur Member State for the active substance as set out in Annex I;
+
+(c) ‘summary dossier’ means a dossier containing the information required under Article 10(2), where summaries are given of the results of the tests and studies referred to in that paragraph;
+
+(d) ‘complete dossier’ means a dossier containing the information required under Article 10(3), where the results of the tests and study reports referred to in the summary dossier are given in full.
+
+### Article 3 — Designated Member State authority
+
+1\. Each Member State shall designate an authority or authorities to carry out the obligations of the Member States as defined in this Regulation.
+
+2\. The national authorities listed in Annex III shall coordinate and ensure all necessary contacts with notifiers, other Member States, the Commission and the European Food Safety Authority (EFSA) in accordance with this Regulation.
+
+Each Member State shall give the details concerning the designated coordinating national authority to the Commission, the EFSA and the designated coordinating national authority of each other Member State and inform them of any modifications thereof.
+
+## CHAPTER II — NOTIFICATIONS BY PRODUCERS IN NEW MEMBER STATES OF ACTIVE SUBSTANCES
+
+### Article 4 — Notifications by producers in new Member States
+
+1\. Any producer in a new Member State referred to in Article 1(1)(b) of this Regulation wishing to secure the inclusion in Annex I to Directive 91/414/EEC of an active substance listed in Annex I to this Regulation shall notify the details set out in Annex V of this Regulation to the Commission, other notifiers for that substance and the rapporteur Member State at the latest three months from the date of entry into force of this Regulation.
+
+2\. Any producer making a notification under paragraph 1 shall fulfil the obligations of producers or notifiers set out in this Regulation for the active substance notified.
+
+3\. Where a producer in a new Member State has not submitted a notification for an active substance listed in Annex I to this Regulation, in accordance with paragraph 1, it shall only be permitted to participate in the programme of work collectively with one or more notifiers of the active substance, including a Member State which has notified in accordance with paragraph 4 of this Article.
+
+4\. Where no notification has been received for an active substance listed in Annex I to this Regulation, a new Member State may declare its interest in supporting the inclusion of that active substance in Annex I to Directive 91/414/EEC by notifying the Commission and the rapporteur Member State.
+
+That notification must be submitted as soon as possible, and no later than three months from the date the Commission has informed the Member States that no notification has been submitted for that active substance.
+
+A Member State submitting such a notification shall thereafter be treated as the producer for the purposes of the evaluation of the active substance concerned.
+
+5\. The Commission shall decide, as provided for in the fourth subparagraph of Article 8(2) of Directive 91/414/EEC, not to include in Annex I to that Directive active substances referred to in Annex I to this Regulation for which no notification has been submitted in accordance with paragraphs 1 or 4 of this Article. The Decision shall state the reasons for the non-inclusion.
+
+Member States shall withdraw authorisations of plant protection products containing such active substances within the period prescribed in the Decision.
+
+## CHAPTER III — CONDITIONS FOR THE SUBMISSION OF DOSSIERS OF ACTIVE SUBSTANCES AND SUBMISSION OF INFORMATION BY THIRD PARTIES
+
+### Article 5 — Submission of dossiers by more than one notifier
+
+1\. Where for any active substance listed in Annex I there is more than one notifier, the notifiers concerned shall take all reasonable steps to submit the dossier for such substance collectively.
+
+Where the dossier is not submitted by all such notifiers, it shall contain details of the efforts made and the reasons why certain notifiers have not participated in the submission of the dossier.
+
+2\. Where an active substance has been notified by more than one notifier, those notifiers shall, for each study involving vertebrate animals, give details of the attempts made to avoid duplication of testing and give, if applicable, the reasons for conducting a duplicate study.
+
+### Article 6 — Submission of dossiers to the rapporteur Member State
+
+1\. The notifier shall submit the dossier for the active substance (the dossier) to the rapporteur Member State.
+
+2\. The dossier shall include the following:
+
+(a) a copy of the notification; in the case of a collective notification made by more than one producer as referred to in Article 5(1), it shall include:
+
+(i) a copy of the notifications made in accordance with Article 4 or 5 of Regulation (EC) No 1112/2002 or Article 4 of this Regulation;
+
+(ii) the name of the person designated by the producers concerned as being responsible for the collective notification who will act as a contact point during the procedure;
+
+(b) a limited range of representative uses of the active substance, in respect of which the data submitted by the notifier in the dossier shall demonstrate that for one or more preparations, the requirements set out in Article 5 of Directive 91/414/EEC for inclusion of the active substance in Annex I to that Directive may be met.
+
+3\. When requested by the rapporteur Member State as provided for in Article 20(2) to circulate the updated summary dossier or where relevant the updated complete dossier or parts thereof the notifier shall do this at the latest one month from the date of receipt of such a request.
+
+### Article 7 — Dossiers for active substances submitted under Directive 98/8/EC
+
+By derogation from Articles 5 and 6, where an active substance has been notified under Directive 98/8/EC the notifier may submit:
+
+(a) a copy of the dossier submitted under Directive 98/8/EC;
+
+(b) any additional information referred to in Annexes II and III to Directive 91/414/EEC necessary to justify the inclusion of the active substance in Annex I to that Directive by reference to uses falling within the scope of that Directive.
+
+### Article 8 — Dossiers for active substances submitted under Regulation (EC) No 1490/2002
+
+Where a dossier has been submitted under Regulation (EC) No 1490/2002, the person who submitted that dossier may submit, together with the further dossier submitted under this Regulation:
+
+(a) a reference to the dossier submitted under Regulation (EC) No 1490/2002;
+
+(b) any additional information referred to in Annexes II and III to Directive 91/414/EEC necessary to justify the inclusion of the active substance in Annex I to that Directive by reference to uses falling within the scope of this Regulation.
+
+### Article 9 — Specific conditions for submissions of dossiers for active substances listed in Part A of Annex I
+
+1\. Where the dossier concerns an active substance listed in Part A of Annex I, in addition to the information required under Article 5 and Article 6(2), the notifier shall submit the following information concerning the active substance and the plant protection product (where applicable):
+
+(a) all available information on possible risks to human and animal health and the environment including that available from searching the literature and identifying the data bases searched and search terms used;
+
+(b) available assessment reports from any OECD country;
+
+(c) for any ongoing tests and studies not yet fully completed, information on those tests and studies and a projected date of completion.
+
+2\. The dossier shall physically contain the individual test and study reports containing all the information referred to in paragraph 1.
+
+3\. Each Member State shall specify the number of copies of the dossier to be submitted by the notifier when it is acting as a rapporteur and when it receives copies under Article 20(2).
+
+The format of the dossier shall take account of the recommendations made in accordance with the procedure referred to in Article 19 of Directive 91/414/EEC.
+
+### Article 10 — Specific conditions for submissions of dossiers for active substances listed in Parts B to G of Annex I
+
+1\. Where the dossier concerns an active substance listed in Part B to G of Annex I, the notifier shall submit a dossier and a summary dossier.
+
+2\. The notifier(s) shall include in the summarydossier:
+
+(a) the information required under Article 5 and Article 6(2) of this Regulation;
+
+(b) for each point of Annex II (Part A or Part B as appropriate) to Directive 91/414/EEC and for each point of Annex III (Part A or Part B as appropriate) to that Directive, the summaries and results of tests and studies and the name of the person or institute that has carried out those tests and studies;
+
+(c) a checklist to be filled in by the notifier, demonstrating that the dossier is complete in accordance with Article 18 of this Regulation.
+
+The tests and studies as referred to in paragraph 2(b) of this Article shall be those relevant to the assessment of the criteria referred to in Article 5 of Directive 91/414/EEC for one or more preparations for the uses taking into account the fact that data gaps in the dossier as regards the information required under Annex II of Directive 91/414/EEC, resulting from the proposed limited range of representative uses of the active substance, may lead to restrictions in the inclusion in Annex I of Directive 91/414/EEC.
+
+3\. The complete dossier shall physically contain the individual test and study reports concerning all the information referred to in point (b) and the second subparagraph of paragraph 2.
+
+4\. Each Member State shall specify the number of copies and the format of the summary and the complete dossiers to be submitted by the notifiers.
+
+In defining the format of the complete and summary dossiers Member States shall take account of the recommendations made in accordance with the procedure referred to in Article 19 of Directive 91/414/EEC.
+
+### Article 11 — Submission of information by third parties
+
+Any natural or legal person wishing to submit relevant information which may contribute to the evaluation of an active substance listed in Annex I, in particular with regard to the potentially dangerous effects of that substance or its residues on human and animal health and on the environment, shall do so by the relevant time limit set out in Article 12.
+
+Such information shall be submitted to the rapporteur Member State and the EFSA. When requested by the rapporteur Member State such person shall also submit that information to the other Member States at the latest one month from the date of receipt of such a request.
+
+### Article 12 — Time limits for submission of dossiers
+
+The notifier(s) shall submit the dossier to the relevant rapporteur Member State by:
+
+(a) 30 June 2005 at the latest for the active substances listed in Part A of Annex I;
+
+(b) 30 November 2005 at the latest for the active substances listed in Parts B to G of Annex I.
+
+### Article 13 — Non-submission of dossiers
+
+1\. Where the notifier does not submit the dossier or any part thereof within the relevant time limit set out in Article 12, the rapporteur Member State shall inform the Commission and the EFSA within two months of the date of expiry of the time limit, giving any justification for the delay provided by the notifiers.
+
+2\. On the basis of the information submitted by the rapporteur Member State in accordance with paragraph 1, the Commission shall determine whether the notifier has demonstrated that the delay in the submission of the dossier was caused by force majeure.
+
+In that case, it shall establish a new time limit for the submission of a dossier fulfilling the relevant requirements of Articles 5, 6, 9, and 10 of this Regulation in accordance with the procedure referred to in Article 19 of Directive 91/414/EEC.
+
+3\. The Commission shall decide, as provided for in the fourth subparagraph of Article 8(2) of Directive 91/414/EEC, not to include in Annex I to that Directive an active substance for which no dossier has been submitted within the time limit provided for in Article 12 of this Regulation or the second subparagraph of paragraph 2 of this Article. The Decision shall state the reasons for the non-inclusion.
+
+Member States shall withdraw authorisations of plant protection products containing such active substances within the period prescribed in the Decision.
+
+### Article 14 — Replacement or withdrawal of notifier
+
+1\. If a notifier decides to end its participation in the programme of work for an active substance, it shall immediately inform the rapporteur Member State, the Commission, the EFSA and all other notifiers of the active substance concerned of its decision, giving the reasons.
+
+Where a notifier ends its participation or fails to fulfil its obligations under this Regulation, the procedures provided for in Articles 15 to 24 shall be terminated as regards its dossier.
+
+2\. If a notifier agrees with another producer that the notifier shall be replaced for the purposes of further participation in the programme of work under this Regulation, the notifier and such other producer shall inform the rapporteur Member State, the Commission and the EFSA by a common declaration agreeing that such other producer shall replace the original notifier in carrying out the notifier’s duties pursuant to the relevant provisions of Articles 4, 5, 6, 9, 10, 12 and 24. They shall ensure that the other notifiers for the substance concerned are informed at the same time.
+
+The other producer in this case shall be jointly liable with the original notifier for any fees remaining payable in relation to the notifier's application under the regime established by Member States pursuant to Article 30.
+
+3\. If all notifiers for an active substance end their participation in the programme of work a Member State may choose to act as notifier for the purposes of further participation in the programme of work.
+
+Any Member State wishing to act as a notifier shall inform the rapporteur Member State, the Commission and the EFSA at the latest one month from the date of being informed that all notifiers have decided to end their participation and shall replace the original notifier in carrying out the notifier’s duties pursuant to the relevant provisions of Articles 4, 5, 6, 9, 10, 12 and 24.
+
+4\. All information submitted shall remain available to the rapporteur Member States, the Commission and EFSA
+
+## CHAPTER IV — EVALUATIONS OF DOSSIERS
+
+### Article 15 — General Conditions for evaluations of dossiers
+
+1\. Without prejudice to Article 18 the rapporteur Member State shall evaluate all dossiers submitted to it.
+
+2\. Without prejudice to Article 7 of Directive 91/414/EEC, the rapporteur Member State shall not accept the submission of new studies during the evaluation except as provided for in Article 9 (1)(c) of this Regulation.
+
+However, the rapporteur Member State may request the notifier to submit further data which are necessary to clarify the dossier. When doing so the rapporteur Member State shall set a time limit within which the information shall be provided. The time limit shall not affect the time limit for the submission of the draft assessment report by the rapporteur Member State to the EFSA as provided for in Article 21(1) or Article 22(1).
+
+3\. The rapporteur Member State may, from the start of the evaluation of the dossier:
+
+(a) consult with experts from the EFSA;
+
+(b) request additional technical or scientific information from other Member States to assist in the evaluation.
+
+4\. Notifiers may seek specific advice from the rapporteur Member State.
+
+### Article 16 — Cooperation between Member States
+
+1\. The rapporteur Member States shall cooperate in the evaluation within each group set out in Annex I and shall organise such cooperation in the most effective and efficient way.
+
+2\. The rapporteur Member State identified within each group in Annex I as the ‘lead rapporteur’ shall take a lead in organising that cooperation and in organising the provision of advice to notifiers where it concerns matters of general interest to the other Member States concerned.
+
+### Article 17 — Specific condition for evaluations of active substances listed in Part A of Annex I
+
+Where possible and where it does not affect the time limit for the submission of the draft assessment report as provided for in Article 21(1), the rapporteur Member State shall evaluate further information identified under Article 9(1)(c) subsequently provided by the notifier.
+
+### Article 18 — Completeness check of dossiers for substances listed in Parts B to G of Annex I
+
+1\. The rapporteur Member State shall assess the checklists provided by the notifiers in accordance with Article 10(2)(c).
+
+2\. The rapporteur Member State shall at the latest three months from the date of receipt of all dossiers for an active substance report to the Commission on the completeness of the dossiers.
+
+3\. For those active substances for which one or more dossiers are considered to be complete, the rapporteur Member State shall perform the evaluation as referred to in Articles 15 and 19, unless the Commission informs the rapporteur Member State, within two months of the date of receipt of the report of the rapporteur Member State on completeness, that it does not consider the dossier to be complete.
+
+4\. For those active substances for which a rapporteur Member State or the Commission consider that no dossier is complete within the meaning of Articles 5, 6 and 10, the Commission shall, within three months from the date of the receipt of the report of the rapporteur Member State on completeness, refer such a report to the Standing Committee for the Food Chain and Animal Health.
+
+In accordance with the procedure referred to in Article 19 of Directive 91/414/EEC it shall be decided whether a dossier is to be considered complete within the meaning of Articles 5, 6 and 10.
+
+5\. The Commission shall decide, as provided for in the fourth subparagraph of Article 8 (2) of Directive 91/414/EEC, not to include in Annex I to Directive 91/414/EEC an active substance for which no complete dossier has been submitted within the time limit provided for in Article 12 of this Regulation or the second sub-paragraph of Article 13 (2).
+
+### Article 19 — Specific conditions for evaluations of dossiers for substances listed in Parts B to G of Annex I
+
+1\. Where active substances listed in Part D of Annex I to this Regulation have been evaluated under Directive 98/8/EC those evaluations shall be taken into account, where relevant, for the purposes of this Regulation
+
+2\. Where active substances have been evaluated under a former stage of the programme of work referred to in Article 8(2) of Directive 91/414/EEC those evaluations shall be taken into account, where relevant, for the purposes of this Regulation.
+
+3\. The rapporteur Member State shall evaluate and report only on those active substances for which at least one dossier has been determined to be complete in accordance with Articles 5, 6, and 10. For dossiers concerning the same active substance not determined to be complete, it shall check whether the identity and impurities of the active substance in those dossiers are comparable to the identity and impurities of the active substance in the dossiers considered complete. It shall record its views on this point in the draft assessment report.
+
+The rapporteur Member State shall take into consideration the information available on potentially dangerous effects in the other dossiers submitted by any notifier or by any third party in accordance with Article 11.
+
+### Article 20 — General conditions for draft Assessment Reports
+
+1\. The draft assessment report shall be submitted as far as possible in the format recommended in accordance with the procedure referred to in Article 19 of Directive 91/414/EEC.
+
+2\. The rapporteur Member State shall request the notifiers to submit an updated summary dossier to the EFSA, the other Member States and on request to the Commission at the same time as the rapporteur's draft assessment report is sent to the EFSA.
+
+The Member States, the Commission or the EFSA may request through the rapporteur Member State that notifiers also send them an updated complete dossier or parts thereof. The notifier shall provide any such updated dossier by the date specified in the request.
+
+### Article 21 — Specific conditions for draft Assessment Reports and Recommendations to the Commission for active substances listed in Part A of Annex I
+
+1\. The rapporteur Member State shall send the draft assessment report to the EFSA as quickly as possible, and 12 months from the date of expiry of the time limit provided for in Article 12(a) at the latest.
+
+2\. The rapporteur Member State shall include in the draft assessment report a reference to each test or study concerning each point of Annex II (Part A or Part B as appropriate) to Directive 91/414/EEC and for each point of Annex III (Part A or Part B as appropriate) to that Directive relied on for the assessment.
+
+That reference shall be made in the form of a list of test and study reports including the title, the author(s), the date of the study or test report and the date of publication, the standard to which the test or study was conducted, the holder’s name, and if any, the claim made by the holder or notifier for data protection.
+
+3\. At the same time as the rapporteur Member State sends its assessment report to the EFSA as provided for in paragraph 1, it shall make a recommendation to the Commission:
+
+(a) either to include the active substance in Annex I to Directive 91/414/EEC stating where appropriate the proposed conditions for inclusion; such conditions:
+
+(i) may include the time limit for such inclusion;
+
+(ii) shall state whether any information is required, whether such additional information is included in the tests and studies referred to in Article 9(1)(c) of this Regulation and if so, the probable timetable for the provision of such information; or
+
+(b) not to include the active substance in Annex I to Directive 91/414/EEC, stating the proposed reasons for the non-inclusion.
+
+4\. In addition to the conditions for inclusion proposed under paragraph 2(a) of this Article, the rapporteur Member State may indicate if it has identified, for the proposed limited range of representative uses mentioned in the dossier, any information missing from the dossier which may be required by Member States as confirmatory information when they come to grant authorisations under Article 4 of Directive 91/414/EEC for plant protection products containing that active substance.
+
+### Article 22 — Specific conditions for draft Assessment Reports and Recommendations to the Commission for active substances listed in Parts B to G of Annex I
+
+1\. The rapporteur Member State shall send a draft assessment report to the EFSA as quickly as possible, and at the latest 12 months from the date the dossier was determined to be complete in accordance with Article 18(2).
+
+2\. The rapporteur Member State shall include in the draft assessment report a reference to each test or study concerning each point of Annex II (Part A or Part B as appropriate) to Directive 91/414/EEC and for each point of Annex III (Part A or Part B as appropriate) to that Directive relied on for the assessment.
+
+That reference shall be made in the form of a list of test and study reports including the title, the author(s), the date of the study or test report and the date of publication, the standard to which the test or study was conducted, the holder’s name and, if any, the claim made by the holder or notifier for data protection.
+
+3\. At the same time as the rapporteur Member State sends its assessment report to the EFSA as provided for in paragraph 1, it shall make a recommendation to the Commission:
+
+(a) either to include the active substance in Annex I to Directive 91/414/EEC, stating the reasons for the inclusion;
+
+(b) or not to include the active substance in Annex I to Directive 91/414/EEC, stating the reasons for the non-inclusion.
+
+### Article 23 — Replacement of rapporteur Member State
+
+1\. A rapporteur Member State shall inform the Commission and the EFSA as soon as it becomes clear that it will be unable to comply with the time limits set out in Articles 21(1) and 22(1) for the submission of the draft assessment report to the EFSA and give the reasons for the delay.
+
+2\. It may be decided to replace a rapporteur Member State for a particular active substance by another Member State where:
+
+(a) during the assessment and evaluation provided for in Articles 15, 16, 17 and 19 it becomes apparent that there is an imbalance in the responsibilities borne and the work to be done or actually done by the Member States as rapporteurs; or
+
+(b) it is clear that a Member State is unable to fulfil its obligations under this Regulation.
+
+Such replacement shall be decided in accordance with the procedure referred to in Article 19 of Directive 91/414/EEC.
+
+3\. Where it has been decided to replace a rapporteur Member State the original rapporteur Member State shall immediately after such a decision has been taken inform the notifiers concerned and shall transfer to the newly designated rapporteur Member State all correspondence and information which it has received as rapporteur Member State for the active substance concerned.
+
+The original Member State shall return to the notifier the part of the fee referred to in Article 30 which has not been used. The newly designated rapporteur Member State may require the payment of a further fee in accordance with Article 30.
+
+### Article 24 — Receipt of and access to the draft assessment report
+
+1\. After receiving the updated summary dossier and the draft assessment report referred to in Article 21(1) or Article 22(1) the EFSA shall, within 30 days, acknowledge to the rapporteur Member State receipt of that report.
+
+In exceptional cases where the draft assessment report clearly does not fulfil the requirements concerning the format recommended by the Commission, the Commission shall agree with the EFSA and the rapporteur Member State on a period for resubmission of an amended report. This period shall not exceed two months.
+
+2\. The EFSA shall without delay communicate the draft assessment report to the Commission, the other Member States and the notifiers setting a time period of no more than two months for the submission of comments by those Member States and the notifiers.
+
+It shall collate the comments it receives, including available comments from the EFSA, and forward them to the Commission, the Member States and the notifiers.
+
+3\. The EFSA shall make available at specific request or keep available for consultation by any person the following:
+
+(a) the draft assessment report except the elements thereof which have been accepted as confidential in accordance with Article 14 of Directive 91/414/EEC;
+
+(b) the list of any data required for the evaluation in view of the possible inclusion of the active substance in Annex I to that Directive as finalised by the EFSA where it has finalised such a list.
+
+### Article 24a — Evaluation of the draft assessment report
+
+The Commission shall, without delay, examine the draft assessment report and the recommendation by the rapporteur Member State and the comments received from other Member States, the EFSA and from the notifiers in accordance with Article 24(2).
+
+### Article 24b — Active substances with clear indications that they do not have any harmful effects
+
+If there are clear indications that it may be expected that the active substance does not have any harmful effects on human or animal health or on groundwater or any unacceptable influence on the environment, as set out in Annex VI, Article 25(1)(a) and (2)(a) shall apply.
+
+### Article 24c — Consultation of the EFSA
+
+1\. Where Article 24b does not apply, the Commission may, at any time during the evaluation, ask the EFSA to carry out a peer review of the full draft assessment report, or to focus on specific points including points related to criteria set out in Annex VII. The EFSA shall organise a consultation of Member States experts including the rapporteur Member State.
+
+Where the Commission requests the EFSA to carry out a full peer review, the EFSA shall deliver its conclusion at the latest six months after the request. Where the Commission does not request a full peer review, but only a conclusion on specific points, the period shall be reduced to three months. The submission of the conclusions shall in any event be no later than 30 September 2008.
+
+2\. If during the peer review there are clear indications that an active substance is expected to have harmful effects on human or animal health or on groundwater as set out in Annex VII, the EFSA shall inform the Commission.
+
+The Commission may take a Decision as referred to in Article 24f.
+
+3\. The Commission and the EFSA shall agree on a schedule for the delivery of the conclusions in order to facilitate the planning of the work. The Commission and the EFSA shall agree on the format in which the conclusions of the EFSA are submitted.
+
+### Article 24d — Submission of additional information after the draft assessment report has been submitted to the EFSA
+
+1\. Without prejudice to Article 7 of Directive 91/414/EEC submission of new studies shall not be accepted.
+
+2\. Where the EFSA considers that additional information from the notifier is necessary to comply with a request made by the Commission under Article 24c, the rapporteur Member State shall request that information. Such requests shall be made explicitly and in writing, setting a time period for submission of one month. They shall not concern the submission of new studies. The rapporteur Member State shall inform the Commission and the EFSA of such requests in writing.
+
+The rapporteur Member State shall, within one month after the receipt of such information, evaluate the information received and send its evaluation to the EFSA.
+
+3\. Information submitted by the notifier but which has not been requested, or which has not been submitted before the end of the time period referred to in paragraph 2, shall not be taken into account unless this information has been submitted in accordance with Article 7 of Directive 91/414/EEC.
+
+Where the rapporteur Member State, pursuant to paragraph 1 or to the first subparagraph of this paragraph, refuses to take into account studies or information received from the notifier, it shall inform the Commission and the EFSA and indicate the reasons for such refusal.
+
+### Article 24e — Withdrawal by notifier
+
+Where Article 24b does not apply, the notifier may withdraw his support of the inclusion of the active substance in Annex I to Directive 91/414/EEC within two months from receipt of the draft assessment report referred to in Article 24(2).
+
+### Article 24f — Active substance for which there are clear indications of harmful effects
+
+If there are clear indications that it may be expected that the active substance has harmful effects on human or animal health or on groundwater as set out in Annex VII the Commission shall take a Decision on the non-inclusion of the active substance in Annex I to Directive 91/414/EEC, in accordance with Article 25(1)(a) and (2)(b) of this Regulation.
+
+## CHAPTER V — PRESENTATION OF A DRAFT DIRECTIVE OR DRAFT DECISION CONCERNING ACTIVE SUBSTANCES AND FINALISED REVIEW REPORT
+
+### Article 25 — Presentation of a draft directive or draft decision
+
+1\. The Commission shall submit to the Committee a draft review report at the latest six months after:
+
+(a) receipt of the draft assessment report where Article 24b or Article 24f applies;
+
+(b) receipt of the conclusion by the EFSA where Article 24c applies;
+
+(c) receipt of a written withdrawal of the notifier’s support where Article 24e applies.
+
+2\. Together with the draft review report the Commission shall submit to the Committee:
+
+(a) a draft directive including the active substance in Annex I to Directive 91/414/EEC, setting out where appropriate the conditions, including the time limit, for such inclusion; or
+
+(b) a draft decision addressed to the Member States requiring them to withdraw, within six months, the authorisations of plant protection products containing the active substance, pursuant to the fourth subparagraph of Article 8(2) of Directive 91/414/EEC, whereby that active substance is not included in Annex I to that Directive, mentioning the reasons for the non-inclusion.
+
+The Directive or Decision shall be adopted in accordance with the procedure referred to in Article 19(2) of Directive 91/414/EEC.
+
+3\. By way of derogation from point (b) of paragraph 2, the latest date for Member States to withdraw authorisations shall be 31 December 2010 in the case referred to in point (c) of paragraph 1 unless the Commission concluded that the substance meets the criteria of Annex VII, if appropriate after having consulted the EFSA. However, the latest date for Member States to withdraw authorisations shall be 31 December 2011 where an application has been submitted in accordance with the accelerated procedure provided for in Articles 14 to 19 of Commission Regulation (EC) No 33/2008 ( 10 ).
+
+### Article 25a — View by the EFSA
+
+Where an active substance is included in Annex I to Directive 91/414/EEC pursuant to Article 24b of this Regulation, the Commission shall request the EFSA to deliver its view on the draft review report by 31 December 2012  at the latest. Member States and notifiers shall cooperate with the EFSA and the Commission.
+
+In order to facilitate the planning of the work, the Commission and the EFSA shall agree on a schedule for the delivery of the view of the EFSA on the draft review report and on the format in which that view is submitted.
+
+### Article 26 — Finalised review report
+
+The conclusions of the Standing Committee on the Food Chain and Animal Health, excluding any parts which refer to confidential information contained in the dossiers and determined as such in accordance with Article 14 of Directive 91/414/EEC, shall be made publicly available.
+
+## CHAPTER VI — SUSPENSION OF TIME LIMITS, MEASURES TO BE TAKEN BY MEMBER STATES AND INTERIM PROGRESS REPORTS
+
+### Article 27 — Suspension of time limits
+
+Where, in respect of an active substance listed in Annex I to this Regulation, the Commission presents a proposal for a total prohibition by way of a draft Council act based on Article 6(3) of Directive 79/117/EEC, the time limits provided for in this Regulation shall be suspended while the Council considers that proposal.
+
+Where the Council adopts an amendment to the Annex to Directive 79/117/EEC requiring the total prohibition of that active substance, the procedure under this Regulation shall be terminated for that active substance.
+
+### Article 28 — Measures taken by Member States
+
+Any Member State which, on the basis of information contained in the dossiers referred to in Articles 5 to 10 or in the draft assessment report concerning an active substance referred to in Articles 19 to 22, intends taking action to withdraw that active substance from the market or to restrict severely the use of a plant protection product containing that active substance, shall, as soon as possible, inform the Commission, the EFSA, the other Member States and the notifiers giving the reasons for its intended action.
+
+### Article 29 — Interim progress report
+
+All Member States shall submit to the Commission and the EFSA a report of their progress on the evaluation of the active substances for which they are rapporteur. Such report shall be submitted by:
+
+(a) 30 November 2005 for the active substances listed in Part A of Annex I;
+
+(b) 30 November 2006 for the active substances listed in Parts B to G of Annex I.
+
+## CHAPTER VII — FEES AND OTHER CHARGES
+
+### Article 30 — Fees
+
+1\. For active substances listed in Annex I Member States may establish a regime obliging the notifiers to pay a fee or charge for the administrative treatment and the evaluation of dossiers.
+
+The income from such fees or charges shall be used to finance exclusively those costs actually incurred by the rapporteur Member State or to finance general activities of the Member States resulting from their obligations under Articles 15 to 24.
+
+2\. Member States shall establish the amount of the fee or charge referred to in paragraph 1 in a transparent manner so that it does not exceed the real cost of the examination and administrative treatment of a dossier or the general activities of the Member States resulting from their obligations under Articles 15 to 24.
+
+However, Member States may provide for a scale of fixed charges based on average costs for the calculation of the total fee.
+
+3\. The fee or charge shall be paid in accordance with the procedure to be established by the authorities in each Member State as listed in Annex IV.
+
+### Article 31 — Other charges, taxes, levies or fees
+
+Article 30 shall be without prejudice to Member States' rights to maintain or introduce, to the extent permitted under Community law, charges, taxes, levies or fees with regard to authorisation, placing on the market, use and control of active substances and plant protection products other than the fee or charge provided for in that Article.
+
+## CHAPTER VIII — TEMPORARY AND FINAL PROVISIONS
+
+### Article 32 — Temporary measures
+
+If necessary and on a case-by-case basis, the Commission may take appropriate temporary measures as provided for by the third subparagraph of Article 8(2) of Directive 91/414/EEC for uses for which additional technical evidence has been provided demonstrating the essential need for further use of the active substance and that there is no efficient alternative.
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of active substances (column A), rapporteur Member States (column B) and notifying producers (code identification) (column C) ( *1 )**
+
+**PART A**
+
+**GROUP 1**
+
+**LEAD RAPPORTEUR: IRELAND**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Acetic acid</td><td>Germany</td><td>PAB-SE PUN-DK  TEM-DE </td></tr>
+<tr><td>Amino acids/Gamma Aminobutyric acid</td><td>Germany</td><td>AGR-ES</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Ammonium carbonate</td><td>Ireland</td><td>ABC-GB</td></tr>
+<tr><td>Potassium hydrogen carbonate</td><td>Ireland</td><td>PPP-FR</td></tr>
+<tr><td>Sodium hydrogen carbonate</td><td>Ireland</td><td>CLM-NL SLY-FR </td></tr>
+<tr><td>Casein</td><td>Czech Republic</td><td>  </td></tr>
+<tr><td>3-phenyl-2-propenal (Cinnamaldehyde)</td><td>Poland</td><td>  </td></tr>
+<tr><td>Ethoxyquin</td><td>Germany</td><td>XED-FR</td></tr>
+<tr><td>Fatty acids/Decanoic acid</td><td>Ireland</td><td>PBI-GB</td></tr>
+<tr><td>Fatty acids/Fatty acid methyl ester (CAS 85566-26-3)</td><td>Ireland</td><td>OLE-BE</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt</td><td>Ireland</td><td>FBL-DE IAB-ES  NEU-DE </td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 7740-09-7)</td><td>Ireland</td><td>DKI-NL</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 10124-65-9)</td><td>Ireland</td><td>ERO-IT</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 13429-27-1, 2624-31-9, 593-29-3, 143-18-0, 3414-89-9, 38660-45-6, 18080-76-7)</td><td>Ireland</td><td>DXN-DK</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 18175-44-5, 143-18-0, 3414-89-9)</td><td>Ireland</td><td>DXN-DK</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 61788-65-6)</td><td>Ireland</td><td>TBE-ES</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 61790-44-1)</td><td>Ireland</td><td>VAL-IT</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 61790-44-1, 70969-43-6)</td><td>Ireland</td><td>STG-GB</td></tr>
+<tr><td>Fatty acids/Fatty acid potassium salt (CAS 67701-09-1)</td><td>Ireland</td><td>CRU-IT</td></tr>
+<tr><td>Fatty acids/Heptanoic acid</td><td>Ireland</td><td>DKI-NL</td></tr>
+<tr><td>Fatty acids/Octanoic acid</td><td>Ireland</td><td>PBI-GB</td></tr>
+<tr><td>Fatty acids/Oleic acid</td><td>Ireland</td><td>ALF-ES</td></tr>
+<tr><td>Fatty acids/Pelargonic acid</td><td>Ireland</td><td>ERO-IT NEU-DE </td></tr>
+<tr><td>Fatty acids/potassium salt — decanoic acid (CAS 334-48-5)</td><td>Ireland</td><td>NSC-GB</td></tr>
+<tr><td>Fatty acids/potassium salt — caprylic acid (CAS 124-07-2)</td><td>Ireland</td><td>ADC-DE</td></tr>
+<tr><td>Fatty acids/potassium salt — lauric acid (CAS 143-07-7)</td><td>Ireland</td><td>NSC-GB</td></tr>
+<tr><td>Fatty acids/potassium salt — oleic acid (CAS 112-80-1)</td><td>Ireland</td><td>NSC-GB</td></tr>
+<tr><td>Fatty acids/potassium salt — oleic acid (CAS 112-80-1, 1310-58-3)</td><td>Ireland</td><td>BCS-DE</td></tr>
+<tr><td>Fatty acids/potassium salt — oleic acid (CAS 142-18-0)</td><td>Ireland</td><td>SBS-IT</td></tr>
+<tr><td>Fatty acids/potassium salt — oleic acid (CAS 143-18-0)</td><td>Ireland</td><td>VIO-GR STG-GB </td></tr>
+<tr><td>Fatty acids/potassium salt — pelargonic acid(CAS 112-05-0)</td><td>Ireland</td><td>NSC-GB</td></tr>
+<tr><td>Fatty acids/potassium salt — tall oil fatty acid (CAS 61790-12-3)</td><td>Ireland</td><td>ADC-DE</td></tr>
+<tr><td>Fatty acids/tall oil fatty acids (CAS 61790-12-3)</td><td>Ireland</td><td>ACP-FR</td></tr>
+<tr><td>Fatty acids/Isobutyric acid</td><td>Poland</td><td>  </td></tr>
+<tr><td>Fatty acids/Isovaleric acid</td><td>Poland</td><td>  </td></tr>
+<tr><td>Fatty acids/Lauric acid</td><td>Ireland</td><td>  </td></tr>
+<tr><td>Fatty acids/Valeric acid</td><td>Poland</td><td>  </td></tr>
+<tr><td>Fatty acids/Potassium salt of natural oil acids</td><td>Poland</td><td>  </td></tr>
+<tr><td>Formic acid</td><td>Germany</td><td>KIR-NL</td></tr>
+<tr><td>Iron pyrophosphate</td><td>Slovenia</td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Milk albumin</td><td>Czech Republic</td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Urea (see also Group 6.2.) </td><td>Greece</td><td>FOC-GB OMX-GB </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Propolis</td><td>Poland</td><td>  </td></tr>
+</tbody>
+</table>
+
+**GROUP 2**
+
+Group 2.1.
+
+**LEAD RAPPORTEUR: FRANCE**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| 1-Naphthylacetamide | France | ALF-ES AMV-GB CFP-FR GLO-BE GOB-IT HOC-GB HRM-BE LUX-NL PRO-ES SHC-FR SPU-DE |
+| Naphthylacetic acid | France | AIF-IT ALF-ES AMV-GB CFP-FR FIN-GB GLO-BE GOB-IT HOC-GB HRM-BE LUX-NL PRO-ES RHZ-NL SHC-FR VAL-IT |
+| 2-Naphthyloxyacetamide | France | BCS-FR |
+| 2-Naphthyloxyacetic acid | France | AIF-IT ASP-NL HAS-GR HOC-GB SHC-FR |
+| 6-Benzyladenine | France | ALF-ES CAL-FR FIN-GB GLO-BE GOB-IT HOC-GB HRM-BE NLI-AT SUM-FR VAL-IT |
+| Azadirachtin | Germany | AGI-IT ALF-ES CAP-FR CRU-IT FBL-DE IAB-ES MAS-BE NDC-SE PBC-ES PRO-ES SIP-IT TRF-DE VAL-IT |
+| Cis-Zeatin | Italy | VAL-IT |
+| Folic acid | France | AMI-IT CHE-DK ISA-IT |
+| Indolylacetic acid | France | ALF-ES GOB-IT RHZ-NL |
+| Indolylbutyric acid | France | ALF-ES BCS-FR CRT-GB GOB-IT GTL-GB HOC-GB RHZ-NL |
+| Gibberellic acid | Hungary | AIF-IT ALF-ES ALT-FR CEQ-ES FIN-GB GLO-BE HRM-BE NLI-AT PRO-ES SUM-FR VAL-IT |
+| Gibberellin | Hungary | ALF-ES FIN-GB GLO-BE GOB-IT HRM-BE NLI-AT SUM-FR |
+| Nicotine | United Kingdom | JAH-GB PBC-ES UPL-GB |
+| Pyrethrins | Italy | ALF-ES BRA-GB CAP-FR FBL-DE MGK-GB ORI-GB PBC-ES PBK-AT PYC-FR SAM-FR SBS-IT |
+| Rotenone | France | FBL-DE IBT-IT SAP-FR SBS-IT SFS-FR |
+
+Group 2.2.
+
+**LEAD RAPPORTEUR: UNITED KINGDOM**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Citronellol (see also Group 6.1) </td><td>United Kingdom</td><td>ACP-FR</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Citrus extract/grapefruit extract</td><td>United Kingdom</td><td>  </td></tr>
+<tr><td>Citrus extract/Grapefruit seed extract Notified as Disinfectant </td><td>United Kingdom</td><td>BOB-DK</td></tr>
+<tr><td>Conifer needle powder</td><td>Latvia</td><td>  </td></tr>
+<tr><td>Garlic extract Notified as repellant </td><td>Poland</td><td>ALF-ES-016 CRU-IT-005  ECY-GB-001  IAB-ES-001  PBC-ES-004  SBS-IT-003  SIP-IT-002  TRD-FR-001  VAL-IT-011 </td></tr>
+<tr><td>Garlic pulp</td><td>Poland</td><td>  </td></tr>
+<tr><td>Extract from Equisetum</td><td>Latvia</td><td>  </td></tr>
+<tr><td>Lecithin</td><td>Italy</td><td>DUS-DE FBL-DE  PBC-ES </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Mustard powder</td><td>Latvia</td><td>  </td></tr>
+<tr><td>Pepper Notified as repellant </td><td>United Kingdom</td><td>BOO-GB PBI-GB </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Plant oils/Citronella oil</td><td>United Kingdom</td><td>BAR-GB PBI-GB </td></tr>
+<tr><td>Plant oils/Clove oil Notified as repellant </td><td>United Kingdom</td><td>IAS-SE XED-FR </td></tr>
+<tr><td>Plant oils/Etheric oil (Eugenol) Notified as repellant </td><td>Sweden</td><td>DEN-NL DKI-NL </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Plant oils/Gaiac Wood oil</td><td>Spain</td><td>IAS-SE</td></tr>
+<tr><td>Plant oils/Garlic oil</td><td>United Kingdom</td><td>DEN-NL GSO-GB </td></tr>
+<tr><td>Plant oils/Lemongrass oil Notified as repellant </td><td>United Kingdom</td><td>IAS-SE</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Plant oils/Olive oil</td><td>United Kingdom</td><td>DKI-NL</td></tr>
+<tr><td>Plant oils/Orange oil Notified as repellant </td><td>United Kingdom</td><td>GSO-GB</td></tr>
+<tr><td>Plant oils/Pinus oil</td><td>Sweden</td><td>ACP-FR DKI-NL  IBT-IT  MIB-NL  SPU-DE </td></tr>
+<tr><td>Plant oils/Rape seed oil</td><td>Spain</td><td>CEL-DE CRU-IT  DKI-NL  FBL-DE  NEU-DE  NOV-FR  PBI-GB  VIT-GB </td></tr>
+<tr><td>Plant oils/Soya oil Notified as repellant </td><td>Sweden</td><td>DEN-NL DKI-NL  PBC-ES </td></tr>
+<tr><td>Plant oils/Spear mint oil</td><td>Sweden</td><td>XED-FR</td></tr>
+<tr><td>Plant oils/Sunflower oil</td><td>Spain</td><td>DKI-NL PBI-GB  TRD-FR </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Plant oils/Ylang-Ylang oil Notified as repellant </td><td>Sweden</td><td>IAS-SE</td></tr>
+<tr><td>Quassia</td><td>Italy</td><td>AGE-IT CAP-FR  FBL-DE  TRF-DE  ALF-ES </td></tr>
+<tr><td>Sea-algae extract</td><td>Italy</td><td>ASU-DE LGO-FR  OGT-IE  VAL-IT </td></tr>
+<tr><td>Seaweed</td><td>Italy</td><td>ASF-IT OGT-IE  VAL-IT  ALF-ES  ESA-NL  BAL-IE  AGC-FR </td></tr>
+<tr><td>Extract from plant Red oak, Pronikly pear cactus, Fragrant sumac, Red mangrove</td><td>Poland</td><td>  </td></tr>
+<tr><td>Extract from Menta piperata</td><td>Poland</td><td>  </td></tr>
+<tr><td>Extract from tea tree</td><td>Latvia</td><td>  </td></tr>
+</tbody>
+</table>
+
+**GROUP 3**
+
+**LEAD RAPPORTEUR: DENMARK**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| Chitosan | Denmark | ALF-ES CLM-NL IDB-ES |
+| Gelatine | Denmark | MIB-NL |
+| Hydrolysed proteins (see also Group 6.2) | Greece | SIC-IT |
+
+**GROUP 4**
+
+**LEAD RAPPORTEUR: UNITED KINGDOM**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| 1-Decanol | Italy | CRO-GB OLE-BE JSC-GB |
+| Aluminium sulphate | Spain | FER-GB GSO-GB |
+| Calcium chloride | Spain | FBL-DE |
+| Calcium hydroxide | Spain | PZD-NL |
+| Carbon monoxide | United Kingdom |  |
+| Carbon dioxide Notified as insecticide/disinfectant | United Kingdom | FBL-DE |
+| EDTA and salts thereof | Hungary | DKI-NL |
+| Fatty alcohols/Aliphatic alcohols | Italy | JSC-GB |
+| Iron sulphate | United Kingdom | BNG-IE HTO-GB KRO-DE MEL-NL |
+| Kieselgur (Diatomaceous earth) | Greece | ABP-DE AGL-GB AMU-DE DKI-NL FBL-DE |
+| Lime sulphur (Calcium polysulphide) | Spain | FBL-DE PLS-IT STI-IT |
+| Paraffin oil | Greece | FBL-DE |
+| Paraffin oil/(CAS 64741-88-4) | Greece | BPO-GB SUN-BE |
+| Paraffin oil/(CAS 64741-89-5) | Greece | BPO-GB PET-PT SUN-BE SUN-BE XOM-FR |
+| Paraffin oil/(CAS 64741-97-5) | Greece | BPO-GB |
+| Paraffin oil/(CAS 64742-46-7) | Greece | TOT-FR TOT-FR TOT-FR |
+| Paraffin oil/(CAS 64742-54-7) | Greece | CVX-BE |
+| Paraffin oil/(CAS 64742-55-8/64742-54-7) | Greece | SAG-FR |
+| Paraffin oil/(CAS 64742-55-8) | Greece | CPS-ES CVX-BE XOM-FR |
+| Paraffin oil/(CAS 64742-65-0) | Greece | XOM-FR |
+| Paraffin oil/(CAS 72623-86-0) | Greece | TOT-FR |
+| Paraffin oil/(CAS 8012-95-1) | Greece | AVA-AT |
+| Paraffin oil/(CAS 8042-47-5) | Greece | ASU-DE ECP-DE NEU-DE |
+| Paraffin oil/(CAS 97862-82-3) | Greece | TOT-FR TOT-FR |
+| Petroleum oils | Spain | FBL-DE |
+| Petroleum oils/(CAS 64742-55-8/64742-57-7) | Spain | GER-FR |
+| Petroleum oils/(CAS 74869-22-0) | Spain | CVX-BE RLE-ES |
+| Petroleum oils/(CAS 92062-35-6) | Spain | RML-IT |
+| Potassium permanganate | Spain | CNA-ES FBL-DE VAL-IT |
+| Aluminium silicate (Kaolin) | Hungary | PPP-FR |
+| Sodium aluminium silicate Notified as repellant | Hungary | FLU-DE |
+| Sulphur | France | ACI-BE AGN-IT BAS-DE CER-FR CPS-ES FBL-DE GOM-ES HLA-GB JCA-ES NSC-GB PET-PT RAG-DE RLE-ES SAA-PT SML-GB STI-IT SYN-GB UPL-GB ZOL-IT |
+| Sulphuric acid | France | NSA-GB |
+| Calcium carbonate | Spain |  |
+
+**GROUP 5**
+
+**LEAD RAPPORTEUR: SPAIN**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| 2-Phenylphenol | Spain | BCH-DE |
+| Ethanol | France | CGL-GB |
+| Ethylene | United Kingdom | BRM-GB COL-FR |
+
+**GROUP 6**
+
+Group 6.1.
+
+**LEAD RAPPORTEUR: BELGIUM**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Aluminium ammonium sulfate</td><td>Portugal</td><td>SPL-GB</td></tr>
+<tr><td>Ammonium acetate</td><td>Portugal</td><td>LLC-AT</td></tr>
+<tr><td>Anthraquinone</td><td>Belgium</td><td>TOM-FR</td></tr>
+<tr><td>Bone oil Notified as Repellant </td><td>Belgium</td><td>BRI-GB FLU-DE  IOI-DE  ASU-DE </td></tr>
+<tr><td>Calcium carbide</td><td>Portugal</td><td>CFW-DE</td></tr>
+<tr><td>Citronellol Notified as Repellant (see also Group 2.2) </td><td>United Kingdom</td><td>ASU-DE CAL-FR </td></tr>
+<tr><td>Denathonium benzoate</td><td>Portugal</td><td>ASU-DE MFS-GB </td></tr>
+<tr><td>Dodecyl alcohol</td><td>Portugal</td><td>SEI-NL</td></tr>
+<tr><td>Lanolin</td><td>Slovak Republic</td><td>  </td></tr>
+<tr><td>Methyl nonyl ketone</td><td>Belgium</td><td>PGM-GB</td></tr>
+<tr><td>Polymer of styrene and acrylamide</td><td>Slovak Republic</td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Blood meal</td><td>Belgium</td><td>GYL-SE</td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Essential oils</td><td>Belgium</td><td>BAR-GB</td></tr>
+<tr><td>Trimethylamine hydrochloride</td><td>Belgium</td><td>LLC-AT</td></tr>
+<tr><td>Repellant (by taste) of vegetal and animal origin/extract of food grade/phosphoric acid and fish flour</td><td>Belgium</td><td>  </td></tr>
+<tr><td>2-hydroxyethyl butyl sulfide</td><td>Poland</td><td>  </td></tr>
+<tr><td>Asphalts</td><td>Poland</td><td>  </td></tr>
+</tbody>
+</table>
+
+Group 6.2.
+
+**LEAD RAPPORTEUR: GREECE**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Daphne oil</td><td>Slovenia</td><td>FLU-DE</td></tr>
+<tr><td>Hydrolysed proteins Notified as Attractant (see also Group 3.) </td><td>Greece</td><td>BIB-ES PHY-GR  SIC-IT </td></tr>
+<tr><td>Limestone — pulverized</td><td>Austria</td><td>  </td></tr>
+<tr><td>Olein</td><td>Hungary</td><td>  </td></tr>
+<tr><td>Quartz sand</td><td>Austria</td><td>ASU-DE AVA-AT  DKI-NL  FLU-DE </td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Fatty acids, fish oil</td><td>Greece</td><td>ASU-DE</td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Fish oil</td><td>Greece</td><td>FLU-DE</td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Sheep fat</td><td>Greece</td><td>KWZ-AT</td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Tall oil (CAS 8016-81-7)</td><td>Greece</td><td>FLU-DE</td></tr>
+<tr><td>Repellants (by smell) of animal or plant origin/Tall oil crude (CAS 93571-80-3)</td><td>Greece</td><td>ASU-DE</td></tr>
+<tr><td>Repellants (by smell) of anímal or plant origin/tall oil</td><td>Greece</td><td>  </td></tr>
+<tr><td>Urea (see also Group 1) </td><td>Greece</td><td>PHY-GR</td></tr>
+<tr><td>Chinin hydrochlorid</td><td>Hungary</td><td>  </td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+**LEAD RAPPORTEUR: AUSTRIA**
+
+**RAPPORTEUR: AUSTRIA**
+
+**(The Czech Republic, Poland and Italy shall be considered the rapporteur Member States in the sense of the obligation to cooperate with Austria in the evaluation, in accordance with the provisions of Article 16)**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>(2E,13Z)-Octadecadien-1-yl acetate</td><td>  </td><td>SEI-NL SEI-NL  SEI-NL </td></tr>
+<tr><td>(7E,9Z)-Dodecadienyl acetate</td><td>  </td><td>BAS-DE CAL-FR  ISA-IT  LLC-AT  RUS-GB  SDQ-ES  SEI-NL </td></tr>
+<tr><td>(7E,9Z)-Dodecadienyl acetate; (7E,9E)-Dodecadienyl acetate</td><td>  </td><td>SHC-FR</td></tr>
+<tr><td>(7Z,11E)-Hexadecadien-1-yl acetate</td><td>  </td><td>SEI-NL SEI-NL </td></tr>
+<tr><td>(7Z,11Z)-Hexadecadien-1-yl acetate; (7Z,11E)-Hexadecadien-1-yl acetate</td><td>  </td><td>ABC-GB LLC-AT </td></tr>
+<tr><td>(9Z,12E)-Tetradecadien-1-yl acetate</td><td>  </td><td>RUS-GB</td></tr>
+<tr><td>E)-11-Tetradecenyl acetate</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(E)-8-Dodecenyl acetate</td><td>  </td><td>CAL-FR SEI-NL </td></tr>
+<tr><td>(E,E)-8,10-Dodecadien-1-ol</td><td>  </td><td>BAS-DE CAL-FR  ISA-IT  LLC-AT  RUS-GB  SDQ-ES  SEI-NL  SHC-FR  VIO-GR  MAS-BE </td></tr>
+<tr><td>(E/Z)-8-Dodecenyl acetate; (Z)-8-Dodecenol</td><td>  </td><td>BAS-DE CAL-FR </td></tr>
+<tr><td>(E/Z)-9-Dodecenyl acetate; (E/Z)-9-Dodecen-1-ol; (Z)-11-Tetradecen-1-yl acetate</td><td>  </td><td>ISA-IT LLC-AT  SDQ-ES </td></tr>
+<tr><td>(E/Z)-9-Dodecenyl acetate; (E/Z)-9-Dodecen-1-ol; (Z)-11-Tetradecen-1-yl acetate</td><td>  </td><td>TRF-DE</td></tr>
+<tr><td>(Z)-11-Hexadecen-1-ol</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-11-Hexadecen-1-yl acetate</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-11-Hexadecenal</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-11-Hexadecenal; (Z)-11-Hexadecen-1-yl acetate</td><td>  </td><td>LLC-AT</td></tr>
+<tr><td>(Z)-11-Tetradecen-1-yl acetate</td><td>  </td><td>BAS-DE SEI-NL </td></tr>
+<tr><td>(Z)-13-Hexadecen-11-ynyl acetate</td><td>  </td><td>SDQ-ES</td></tr>
+<tr><td>(Z)-13-Octadecenal</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-7-Tetradecenal</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-8-Dodecenol</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-8-Dodecenyl acetate</td><td>  </td><td>CAL-FR SDQ-ES  SEI-NL </td></tr>
+<tr><td>(Z)-8-Dodecenyl acetate; Dodecan-1-yl acetate</td><td>  </td><td>ISA-IT</td></tr>
+<tr><td>(Z)-9-Dodecenyl acetate</td><td>  </td><td>BAS-DE LLC-AT  SDQ-ES  SEI-NL  SHC-FR </td></tr>
+<tr><td>(Z)-9-Dodecenyl acetate; Dodecan-1-yl acetate</td><td>  </td><td>ISA-IT</td></tr>
+<tr><td>(Z)-9-Hexadecenal</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>(Z)-9-Hexadecenal; (Z)-11-Hexadecenal; (Z)-13-Octadecenal</td><td>  </td><td>RUS-GB SDQ-ES </td></tr>
+<tr><td>(Z)-9-Tetradecenyl acetate</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>(Z,Z,Z,Z)-7,13,16,19-Docosatetraen-1-yl isobutyrate</td><td>  </td><td>SHC-FR</td></tr>
+<tr><td>1,4-Diaminobutane (Putrescine)</td><td>Austria</td><td>LLC-AT</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1-Tetradecanol</td><td>  </td><td>SEI-NL</td></tr>
+<tr><td>2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene(alpha-Pinen)</td><td>  </td><td>SHC-FR</td></tr>
+<tr><td>3,7,7-Trimethylbicyclo[4.1.0]hept-3-ene (3-Carene)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>5-Decen-1-ol</td><td>  </td><td>BAS-DE SEI-NL </td></tr>
+<tr><td>5-Decen-1-yl acetate</td><td>  </td><td>BAS-DE SEI-NL </td></tr>
+<tr><td>5-Decen-1-yl acetate; 5-Decen-1-ol</td><td>  </td><td>LLC-AT ISA-IT </td></tr>
+<tr><td>(8E, 10E) – 8, 10 – Dodecadiene 1- yl acetate</td><td>  </td><td>  </td></tr>
+<tr><td>Dodecan- 1 - yl acetate</td><td>  </td><td>  </td></tr>
+<tr><td>(E) – 9- Dodecen – 1 – yl acetate</td><td>  </td><td>  </td></tr>
+<tr><td>(E) – 8- Dodecen – 1 – yl acetate</td><td>  </td><td>  </td></tr>
+<tr><td>2-Methyl-6-methylene-2,7-octadien-4-ol (ipsdienol)</td><td>  </td><td>  </td></tr>
+<tr><td>4,6,6-Trimethyl-bicyclo[3.1.1]hept-3-en-ol,((S)-cis-verbenol)</td><td>  </td><td>  </td></tr>
+<tr><td>2-Ethyl-1,6-dioxaspiro(4,4) nonan(chalcogran)</td><td>  </td><td>  </td></tr>
+<tr><td>(IR)-1,3,3-Trimethyl-4,6-dioxatricyclo[3.3.1.02,7] nonane (lineatin)</td><td>  </td><td>  </td></tr>
+<tr><td>(E,Z)-8,10-Tetradecadienyl</td><td>  </td><td>  </td></tr>
+<tr><td>2-ethyl-1,6-Dioxaspiro (4,4) nonan</td><td>  </td><td>  </td></tr>
+<tr><td>2-Methoxypropan-1-ol</td><td>  </td><td>  </td></tr>
+<tr><td>2-Methoxypropan-2-ol</td><td>  </td><td>  </td></tr>
+<tr><td>2-Methyl-3-buten-2-ol</td><td>  </td><td>  </td></tr>
+<tr><td>(E)-2-Methyl-6-methylene-2,7-octadien-1-ol(myrcenol)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2-Methyl-6-methylene-7-octen-4-ol (Ipsenol)</td><td>  </td><td>  </td></tr>
+<tr><td>3-Methyl-3-buten-1-ol</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Methyl p-hydroxybenzoate</td><td>  </td><td>  </td></tr>
+<tr><td>p-Hydroxybenzoic acid</td><td>  </td><td>  </td></tr>
+<tr><td>1-Methoxy-4-propenylbenzene (Anethole)</td><td>  </td><td>  </td></tr>
+<tr><td>1-Methyl-4-isopropylidenecyclohex-1-ene (Terpinolene)</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+**LEAD RAPPORTEURS: NETHERLANDS, SWEDEN**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| Agrobacterium radiobacter K 84 | Denmark |  |
+| Bacillus sphaericus | France | SUM-FR |
+| Bacillus subtilis strain IBE 711 | Germany |  |
+| Bacillus thuringiensis aizawai | Italy | ISA-IT MAS-BE SIP-IT SUM-FR |
+| Bacillus thuringiensis israelensis | Italy | SIP-IT SUM-FR |
+| Bacillus thuringiensis kurstaki | Denmark | ALF-ES ASU-DE IAB-ES MAS-BE PRO-ES SIP-IT SUM-FR IBT-IT ISA-IT |
+| Bacillus thuringiensis tenebrionis | Italy | SUM-FR |
+| Baculovirus GV | Germany |  |
+| Beauveria bassiana | Germany | AGI-IT AGR-ES CAL-FR MEU-GB |
+| Beauveria brongniartii | Germany | CAL-FR |
+| Cydia pomonella granulosis virus | Germany | MAS-BE CAL-FR PKA-DE SIP-IT |
+| Metarhizium anisopliae | Netherlands | AGF-IT IBT-IT TAE-DE |
+| Neodiprion sertifer nuclear polyhedrosis virus | Finland | VRA-FI |
+| Phlebiopsis gigantea | Estonia | FOC-GB VRA-FI |
+| Pythium oligandrun | Sweden |  |
+| Streptomyces griseoviridis | Estonia | VRA-FI |
+| Trichoderma harzianum | Sweden | BBI-SE IAB-ES IBT-IT ISA-IT AGF-IT BOB-DK KBS-NL |
+| Trichoderma polysporum | Sweden | BBI-SE |
+| Trichoderma viride | France | AGB-IT ISA-IT |
+| Verticillium dahliae | Netherlands | ARC-NL |
+| Verticillium lecanii | Netherlands | KBS-NL |
+
+**PART D**
+
+**LEAD RAPPORTEUR: GERMANY**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| Aluminium phosphide | Germany | CAT-PT DET-DE |
+| Brodifacum | Italy | PEL-GB |
+| Bromadiolone | Sweden | ABB-GB CAL-FR LIP-FR |
+| Chloralose | Portugal | PHS-FR |
+| Chlorophacinone | Spain | CAL-FR CFW-DE FRU-DE LIP-FR |
+| Difenacoum | Finland | APT-GB CAL-FR SOX-GB |
+| Magnesium phosphide | Germany | DET-DE |
+| Tricalcium phosphate | Germany | CHM-FR |
+| Zinc phosphide | Germany | CFW-DE |
+| Carbon monoxide | Italy |  |
+
+**PART E**
+
+| Active substance | Rapporteur Member State | Notifier |
+| --- | --- | --- |
+| (A) | (B) | (C) |
+| Aluminium phosphide | Germany | DET-DE UPL-GB |
+| Magnesium phosphide | Germany | DET-DE UPL-GB |
+
+**PART F**
+
+**LEAD RAPPORTEUR: NETHERLANDS**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Didecyl-dimethylammonium chloride</td><td>Netherlands</td><td>LON-DE</td></tr>
+<tr><td>Formaldehyde Notified as Disinfectant </td><td>Netherlands</td><td>PSD-GB</td></tr>
+<tr><td>Glutaraldehyde</td><td>Belgium</td><td>BAS-DE</td></tr>
+<tr><td>HBTA (High Boiling Tar Acid) Notified as Disinfectant </td><td>Ireland</td><td>JEY-GB</td></tr>
+<tr><td>Hydrogen peroxide</td><td>Finland</td><td>FBL-DE KIR-NL  SPU-DE </td></tr>
+<tr><td>Peracetic acid</td><td>Netherlands</td><td>SOL-GB</td></tr>
+<tr><td>Phoxim</td><td>Finland</td><td>BCS-DE</td></tr>
+<tr><td>Sodium hypochlorite</td><td>Netherlands</td><td>SPU-DE</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Sodium p-toluenesulphon-chloramide</td><td>Netherlands</td><td>PNP-NL</td></tr>
+</tbody>
+</table>
+
+**PART G**
+
+**LEAD RAPPORTEUR: POLAND**
+
+<table>
+<tbody><tr><td>Active substance</td><td>Rapporteur Member State</td><td>Notifier</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>2-Methoxy-5-nitrofenol sodium salt</td><td>Poland</td><td>  </td></tr>
+<tr><td>3(3-Benzyloxycarbonyl-methyl)-2-benzothiazolinone (Benzolinone)</td><td>Slovak Republic</td><td>  </td></tr>
+<tr><td>Cumylphenol</td><td>Poland</td><td>  </td></tr>
+<tr><td>Fat destilation residues</td><td>Czech Republic</td><td>  </td></tr>
+<tr><td>Flufenzin</td><td>Hungary</td><td>  </td></tr>
+<tr><td>Flumetsulam</td><td>Slovak Republic</td><td>  </td></tr>
+<tr><td>Ethanedial (glyoxal)</td><td>Poland</td><td>  </td></tr>
+<tr><td>Hexamethylene tetramine (urotropin)</td><td>Slovak Republic</td><td>  </td></tr>
+<tr><td>Lactofen</td><td>Czech Republic</td><td>  </td></tr>
+<tr><td>Propisochlor</td><td>Hungary</td><td>  </td></tr>
+<tr><td>2-Mercaptobenzothiazole</td><td>Poland</td><td>  </td></tr>
+<tr><td>Biohumus</td><td>Poland</td><td>  </td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Jasmonic acid</td><td>Hungary</td><td>  </td></tr>
+<tr><td>N-phenylphthalamic acid</td><td>Hungary</td><td>  </td></tr>
+<tr><td>Copper complex: 8-hydroxyquinolin with salicylic acid</td><td>Poland</td><td>  </td></tr>
+<tr><td>1,3,5-Tir-(2-hydroxyethyl)-hexa-hydro-s-triazyne</td><td>Poland</td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**List of notifiers' code identification, names and addresses**
+
+| Code identification | Name | Address |
+| --- | --- | --- |
+| ABB-GB | Activa/Babolna Bromadiolone Task Force | 8 Cabbage Moor Great Shelford Cambridge CB2 5NB United Kingdom Tel. (44-1223) 84 04 89 Fax (44-1223) 84 04 89 hancock@chemregservs.co.uk |
+| ABC-GB | AgriSense-BCS Ltd | Treforest Industrial Estate Pontypridd Mid Glamorgan CF37 5SU United Kingdom Tel. (44-1443) 84 11 55 Fax (44-1443) 84 11 52 mail@agrisense.demon.co.uk |
+| ABP-DE | Agrinova GmbH | Hauptstraße 13 D-67283 Obrigheim/Mühlheim Tel.: (49) 6359 32 14 Fax: (49) 6359 32 14 agrinova@t-online.de |
+| ACI-BE | Agriculture Chimie Industrie International | Avenue Albert 233 B-1190 Bruxelles Téléphone (32-2) 508 10 93 Télécopieur (32-2) 514 06 32 roland.levy@swing.be |
+| ACP-FR | Action Pin | ZI de Cazalieu BP 30 F-40260 Castets des Landes Téléphone (33) 558 55 07 00 Télécopieur (33) 558 55 07 07 actionpin@action-pin.fr |
+| ADC-DE | ADC Agricultural Development Consulting | Am Vilser Holz 17 D-27305 Bruchhausen-Vilsen Tel.: (49) 4252-27 81 Fax: (49) 4252-35 98 stratmannb@adc-eu.com |
+| AGB-IT | Agribiotec srl | Via San Bernardo, 22 I-26100 Cremona Tel. (39) 0535 467 02 Fax (39) 0535 591 95 paolo.lameri@agribiotec.com |
+| AGC-FR | Agrimer | BP 29 Prat Menan F-29880 Plouguerneau Téléphone (33) 298 04 54 11 Télécopieur (33) 298 04 55 15 fnicolas@agrimer.com |
+| AGE-IT | Agrivet S.a.s. di Martinelli Maurizio & C. | Via S. Giovanni, 6050 I-40024 Castel San Pietro (BO) Tel. (39) 051 94 91 19 Fax (39) 051 615 31 85 r.martinelli@bo.nettuno.it |
+| AGF-IT | Agrifutur srl | Agrifutur srl Via Campagnole, 8 I-25020 Alfianello (Brescia) Tel. (39) 030 993 47 76 Fax (39) 030 993 47 77 rkm@numerica.it |
+| AGI-IT | Agrimix s.r.l. | Viale Città d'Europa 681 I-00144 Roma Tel. (39) 06 529 62 21 Fax (39) 06 529 14 22 info@agrimix.com |
+| AGL-GB | Agil Ltd | Hercules 2, Calleva Park Aldermaston Reading RG7 8DN United Kingdom Tel. (44-118) 981 33 33 Fax (44-118) 981 09 09 murray@agil.com |
+| AGN-IT | Zolfindustria Srl | Via Cantarana, 17 I-27043 San Cipriano Po (PV) Tel. (39) 0385 24 17 00 Fax (39) 0385 24 17 05 agrindustria.srl@tin.it |
+| AGR-ES | Agrichem, SA | Plaza de Castilla, 3, 14A E-28046 Madrid Tel. (34) 913 14 98 88 Fax (34) 913 14 98 87 info@agrichembio.com |
+| AIF-IT | Aifar Agricola SRL | Registration Department Via Bazzano 12 I-16019 Ronco Scrivia (GE) Tel. (39) 010 935 02 67 Fax (39) 010 935 05 32 posta@aifar.it |
+| ALF-ES | Alfarin Química SA | Ibiza 35, 5oC E-28009 Madrid Tel. (34) 915 74 87 07 Fax (34) 915 04 31 59 alfarin@asertel.es |
+| ALT-FR | Alltech France | EU Regulatory Affairs Department 2-4 avenue du 6 juin 1944 F-95190 Goussainville Téléphone (33) 134 38 98 98 Télécopieur (33) 134 38 98 99 gbertin@alltech.com |
+| AMI-IT | Aminco Srl | Via Mandilli 14 I-12071 Bagnasco (Cn) Tel. (39) 0174 71 66 06 Fax (39) 0174 71 39 63 aminco@isiline.it |
+| AMU-DE | Amu-Systeme | Büschem 13 D-53940 Hellenthal Tel.: (49) 2482 10 24 Fax: (49) 2482 70 89 amu-hellenthal@t-online.de |
+| AMV-GB | Amvac Chemical UK LTD | Surrey Technology Centre 40 Occam Rd The Surrey Research Park Guildford GU2 7YG United Kingdom Tel. (44-1483) 29 57 80 Fax (44-1483) 28 57 81 amvacat@easynet.co.uk |
+| APT-GB | Activa/PelGar Brodifacoum and Difenacoum task Force | 8 Cabbage Moor Great Shelford Cambridge CB2 5NB United Kingdom Tel. (44-1223) 84 04 89 Fax (44-1223) 84 04 89 hancock@chemregservs.co.uk |
+| ARC-NL | Arcadis PlanRealisatie B.V. | Tree Services Marowijne 80 NL-7333 PJ Apeldoorn Tel.: (31-55) 599 94 44 Fax: (31-55) 533 88 44 r.valk@arcadis.nl |
+| ASF-IT | Asfaleia SRL. | Via Mameli, 6 I-06124 Perugia Tel. (39) 075 573 49 35 Fax (39) 017 82 25 26 32 postmaster@asfaleia.it |
+| ASP-NL | Asepta B.V. | PO Box 33 Cyclotronweg 1 NL-2600 AA Delft Tel.: (31-15) 256 92 10 Fax: (31-15) 257 19 01 a.vandenende@asepta.nl |
+| ASU-DE | Stähler Agrochemie GmbH & Co. KG | Stader Elbstraße D-21683 Stade Tel.: (49) 4141 92 040 Fax: (49) 4141 92 0410 staehler-agro@staehler.com |
+| AVA-AT | Avenarius-Agro GmbH | Industriestraße 51 A-4600 Wels Tel.: (43) 7242-489-0 Fax: (43) 7242-489-5 d.stroh@avenarius-agro.at |
+| BAR-GB | Barrier Biotech Limited | 36 Haverscroft Ind. Est. New Road Attleborough Norfolk NR17 1YE United Kingdom Tel. (44-1953) 45 63 63 Fax (44-1953) 45 55 94 nigelb@barrier-biotech.com |
+| BAS-DE | BASF Aktiengesellschaft | APT/EQM — V 005 D-67056 Ludwigshafen Tel.: (49) 621 607 90 26 Fax: (49) 621 605 20 40 siegfried.kersten@basf-ag.de |
+| BBI-SE | Binab Bio-Innovation AB | Florettgatan 5 S-254 67 Helsingborg Tfn (46-42) 16 37 04 Fax (46-42) 16 24 97 info@binab.se |
+| BCH-DE | Bayer/Dow Task Force via Bayer AG, Bayer Chemicals | D-51368 Leverkusen Tel.: (49) 214 306 22 68 Fax: (49) 214 307 23 39 klaus.stroech.ks@bayerchemicals.com |
+| BAL-IE | BioAtlantis Ltd | Baylands, Ballyard Tralee County Kerry Ireland Tel. (353-66) 71-28592 Fax (353-66) 711 98 02 jtostralee@eircom.net |
+| BCP-GB | Biological Crop Protection Ltd | Occupation Road, Wye Ashford TN25 5EN United Kingdom Tel. (44-1233) 81 32 40 Fax (44-1233) 81 33 83 richardc@biological-crop-protection.co.uk |
+| BCS-DE | Bayer CropScience AG | Alfred-Nobel-Straße 50 D-40789 Monheim am Rhein Tel.: (49) 2173 38 33 63 Fax: (49) 2173 38 49 27 norbert.hesse@bayercropscience.com |
+| BCS-FR | Bayer CropScience SA | 14-20 rue Pierre Baizet BP 9163 F-69263 Lyon Cedex 09 Téléphone (33) 472 85 25 25 Télécopieur (33) 472 85 30 82 martyn.griffiths@bayercropscience.com |
+| BIB-ES | Bioibérica, SA | Polígono Industrial Mas Puigvert Ctra. N-II Km. 680,6 E-08389 Palafolls, Barcelona Tel. (34) 937 65 03 90 Fax (34) 937 65 01 02 ibartoli@bioiberica.com |
+| BNG-IE | Brown & Gillmer LTD. | Florence Lodge 199 Strand Road, Merrion Dublin 4 Ireland Tel. (353-1) 283 82 16 Fax (353-1) 269 58 62 bgfeeds@indigo.ie |
+| BOB-DK | Borregaard BioPlant ApS | Helsingforsgade 27 B DK-8200 Århus N Tlf. (45) 86 78 69 88 Fax (45) 86 78 69 22 borregaard@bioplant.dk |
+| BOO-GB | Bootman Chemical Safety Ltd. | Diss Business Centre Diss IP21 4HD United Kingdom Tel. (44-1379) 64 05 34 Fax (44-1379) 64 08 35 info@bootmanchem.com |
+| BPO-GB | BP Global Special Products Ltd | Witan Gate House 500-600 Witan Gate Milton Keynes MK9 1ES United Kingdom Tel. (44-1908) 85 33 44 Fax (44-1908) 85 38 96 gspinfo@bp.com |
+| BRA-GB | BRA-Europe | 33 Khattoun Road Tooting Broadway London SW17 OJA United Kingdom Tel. (44-208) 378 05 17 Fax (44-208) 378 05 17 braeurope@aol.com |
+| BRI-GB | Brimac Carbon Services | 21 Dellingburn Street Greenock PA15 4TP United Kingdom Tel. (44-1475) 72 02 73 Fax (44-1475) 72 00 16 info@brimacservices.com |
+| BRM-GB | BRM Agencies | Cheshire House 164 Main Road Goostrey CW4 8JP United Kingdom Tel. (44-1477) 54 40 52 Fax (44-1477) 53 71 70 brianmartin@cheshirehouse.co.uk |
+| CAL-FR | Calliope SAS | Route d'Artix BP 80 F-64150 Noguères Téléphone (33) 559 60 92 92 Télécopieur (33) 559 60 92 19 fleconte@calliope-sa.com |
+| CAP-FR | Capiscol | 160 route de la Valentine F-13011 Marseille Téléphone (33) 491 24 45 45 Télécopieur (33) 491 24 46 11 anne.coutelle@capiscol.com |
+| CAT-PT | Cafum | Centro Agro Técnico de Fumigações Lda. Rua de Moçambique 159 A2 PT-3000 Coimbra Tel.: (351-239) 40 10 60 ou (351-239) 40 59 70 Fax: (351-239) 70 43 76 cafum@cafum.pt |
+| CEL-DE | Scotts Celaflor GmbH | Konrad-Adenauer-Straße 30 D-55218 Ingelheim Tel.: (49) 6132 78 03-0 Fax: (49) 6132 20 67 otto.schweinsberg@scotts.com |
+| CEQ-ES | Cequisa | Muntaner, 322, 1o E-08021 Barcelona Tel. (34) 932 40 29 10 Fax (34) 932 00 56 48 xavier@cequisa.com |
+| CER-FR | Cerexagri SA | 1 rue des Frères Lumière F-78373 Plaisir Téléphone (33) 130 81 73 00 Télecopieur (33) 130 81 72 50 mark.egsmose@cerexagri.com |
+| CFP-FR | Nufarm SA | Département ‘Homologations et Règlementation’ 28 boulevard Camélinat F-92230 Gennevilliers Téléphone (33) 140 85 50 20 Télecopieur (33) 140 85 51 56 claude.chelle@fr.nufarm.com |
+| CFW-DE | Chemische Fabrik Wülfel GmbH & Co. KG | Hildesheimer Straße 305 D-30519 Hannover Tel.: (49) 511 984 96-0 Fax: (49) 511 984 96-40 cfw@wuelfel.de |
+| CGL-GB | Catalytic Generators UK Limited | Mariel T Monk 2 Priory Court Pilgrim Street London United Kingdom Tel. (44-207) 236 14 14 Fax (44-207) 329 87 87 london@merricks.co.uk |
+| CHE-DK | Cheminova A/S | Registration Department P.O. Box 9 DK-7620 Lemvig Tel. (45) 96 90 96 90 Fax (45) 96 90 96 91 info@cheminova.dk |
+| CHM-FR | Chemimpex SA/Mauer | 1817 Route de Tutegny F-01170 Cessy Téléphone (33) 450 41 48 60 amselian@aol.com |
+| CLM-NL | CLM research and advice Plc | PO Box 10015 Amsterdamsestraatweg 877 NL-3505 AA Utrecht Tel.: (31-30) 244 13 01 Fax: (31-30) 244 13 18 clm@clm.nl |
+| CNA-ES | Carus Nalon SL | Barrio Nalon s/n E-33100 Trubia/Oviedo Tel. (34) 985 78 55 13 Fax (34) 985 78 55 10 carus@carusnalon.com |
+| COL-FR | Coleacp | 5 rue de la Corderie CENTRA 342 F-94586 Rungis Cedex Téléphone (33) 141 80 02 10 Télécopieur (33) 141 80 02 19 coleacp@coleacp.org |
+| CPS-ES | Cepsa | Av. Partenón, 12 Campo de las Naciones E-28042 Madrid Tel. (34) 913 37 96 69 Fax (34) 913 37 96 09 aranzazu.guzman@madrid.cepsa.es |
+| CRO-GB | Crompton Europe Limited | Kennet House 4 Langley Quay, Langley Slough SL3 6EH United Kingdom Tel. (44-1753) 60 30 48 Fax (44-1753) 60 30 77 phil.pritchard@cromptoncorp.com |
+| CRT-GB | Certis | 1b Mills Way Boscombe Bown Business Park Amesbury SP4 7RX United Kingdom Tel. (44-1980) 67 65 00 Fax (44-1980) 62 65 55 certis@certiseurope.co.uk |
+| CRU-IT | Cerrus sas | Via Papa Giovanni XXIII, 84 I-21040 Uboldo (VA) Tel. (39) 02 96 78 21 08 Fax (39) 02 96 78 29 01 cerrus@tiscalinet.it |
+| PZD-NL | Plantenziektenkundige Dienst | PO Box 9102 NL-6700 HC Wageningen Tel.: (31-31) 749 69 11 Fax: (31-31) 742 17 01 p.jellema@pd.agro.nl |
+| CVX-BE | ChevronTexaco Technology Ghent | Technologiepark — Zwijnaarde 2 B-9052 Gent/Zwijnaarde Tel. (32) 9 240 71 11 Fax (32) 9 240 72 22 arickjl@chevrontexaco.com |
+| DEN-NL | DeruNed bv | Marconistraat 10 NL-2665 JE Bleiswijk Tel.: (31-10) 522 15 14 Fax: (31-10) 522 02 50 deruned@deruned.nl |
+| DET-DE | Detia Freyberg GmbH | Dr.-Werner-Freyberg-Straße 11 D-69514 Laudenbach Tel.: (49) 6201 708-0 Fax: (49) 6201 708-427 zulassung@detia-degesch.de |
+| DKI-NL | Denka International B.V. | Hanzeweg 1 NL-3771 NG Barneveld Tel.: (31-34) 245 54 55 Fax: (31-34) 249 05 87 info@denka.nl |
+| DUS-DE | Degussa Texturant Systems Deutschland GmbH & Co. KG | Ausschläger Elbdeich 62 D-20539 Hamburg Tel.: (49) 40 789 55-0 Fax: (49) 40 789 55 83 29 reception.hamburg@degussa.com |
+| DXN-DK | Duxon ApS | Skovgaardsvænget 628 DK-8310 Tranbjerg J Tlf. (45) 96 23 91 00 Fax (45) 96 23 91 02 duxon@mail.tele.dk |
+| ECP-DE | Elefant Chemische Produkte GmbH | Ringstraße 35—37 D-70736 Fellbach Tel.: (49) 711 58 00 33 Fax: (49) 711 58 00 35 elefant-gmbh@web.de |
+| ECY-GB | ECOspray Ltd | Grange Farm Cockley Cley Road Hilborough Thetford IP26 5BT United Kingdom Tel. (44-176) 75 61 00 Fax (44-176) 75 63 13 enquiries@ecospray.com |
+| ERO-IT | Euroagro s.r.l. | via Lazzaretti 5/A I-42100 Reggio Emilia Tel. (39) 0522 51 86 86 Fax (39) 0522 51 49 91 euroagro_italia@libero.it |
+| ESA-NL | ECOstyle BV | Vaart Noordzijde 2a NL-8426 AN Appelscha Tel.: (31-51) 643 21 22 Fax: (31-51) 643 31 13 info@ecostyle.nl |
+| ESS-IT | Esseco SpA | Via San Cassiano 99 I-28069 Trecate (Novara) Tel. (39) 0321 790-1 Fax (39) 0321 790-215 chemsupport@esseco.it |
+| FBL-DE | FiBL Berlin e.V. | Dr. K. Wilbois Rungestraße 29 D-10179 Berlin Tel.: (49) 6257 50 54 89 Fax: (49) 6257 50 54 98 klaus-peter.wilbois@fibl.de |
+| FER-GB | Feralco (UK) Limited | Ditton Road Widnes WA8 0PH United Kingdom Tel. (44-151) 802 29 10 Fax (44-151) 802 29 99 barry.lilley@feralco.com |
+| FIN-GB | Fine Agrochemicals Ltd | Hill End House Whittington Worcester WR5 2RQ United Kingdom Tel. (44-1905) 36 18 00 Fax (44-1905) 36 18 10 enquire@fine-agrochemicals.com |
+| FLU-DE | Flügel GmbH | Westerhöfer Straße 45 D-37520 Osterode/Harz Tel.: (49) 5522 823 60 Fax: (49) 5522 843 26 info@fluegel-gmbh.de |
+| FOC-GB | Forestry Commission | Forestry Commission Silvan House 231 Corstorphine Road Edinburgh EH12 7AT United Kingdom Tel. (44-131) 334 03 03 Fax (44-131) 334 30 47 james.dewar@forestry.gsi.gov.uk |
+| FRB-BE | Mr. John Ivey | Les Clos des Coulerins F-74580 Viry Téléphone (33) 450 04 76 01 Télécopieur (33) 450 04 76 01 JIvey94819@aol.com |
+| FRU-DE | Frunol Delizia GmbH | Dübener Straße 145 D-04509 Delitzsch Tel.: (49) 34202 65 30-0 Fax: (49) 34202 65 30-9 info@frunol-delicia.de |
+| GER-FR | Germicopa SAS | 1 allée Loeiz-Herrieu F-29334 Quimper Cedex Téléphone (33) 298 10 01 00 Télécopieur (33) 298 10 01 42 jeanyves.abgrall@germicopa.fr |
+| GLO-BE | Globachem NV | Leeuwerweg 138 B-3803 Sint-Truiden Tel. (32-1) 178 57 17 Fax (32-1) 168 15 65 globachem@globachem.com |
+| GOB-IT | L. Gobbi s.r.l. | Registration Department Via Vallecalda 33 I-16013 Campo Ligure (GE) Tel. (39) 010 92 03 95 Fax (39) 010 92 14 00 info@lgobbi.it |
+| GOM-ES | Gomensoro Química SA | Torneros, 14 Polígono Industrial Los Ángeles E-28906 Getafe, Madrid Tel. (34) 916 95 24 00 Fax (34) 916 82 36 99 gomenki@arrakis.es |
+| GSO-GB | Growing Success Organics Limited | Hill Top Business Park Devizes Road Salisbury SP3 4UF United Kingdom Tel. (44-1722) 33 77 44 Fax (44-1722) 33 31 77 info@growingsucess.org.uk |
+| GTL-GB | Growth Technology Ltd | Unit 66, Taunton Trading Estate Taunton TA2 6RX United Kingdom Tel. (44-1823) 32 52 91 Fax (44-1823) 32 54 87 info@growthtechnology.com |
+| GYL-SE | Gyllebo Gödning AB | Vessmantorpsvägen 16 S-260 70 Ljungbyhed Tfn (46-435) 44 10 40 Fax (46-435) 44 10 40 gyllebo.plantskydd@telia.com |
+| HAS-GR | House of Agriculture Spirou Aebe | Dr Dinos Chassapis, Assistant Professor in Chemistry 5, Markoni Str. GR-122 42 Athens Τηλ.: (30) 210-349 75 00 Φαξ: (30) 210-342 85 01 agrospir@spirou.gr |
+| HLA-GB | Headland Agrochemicals Ltd | Norfolk House Great Chesterford CB10 1PF United Kingdom Tel. (44-1799) 53 01 46 Fax (44-1799) 53 02 29 stephen.foote@headlandgroup.com |
+| HOC-GB | Hockley International Limited | Hockley House 354 Park Lane Poynton Stockport SK12 1RL United Kingdom Tel. (44-1625) 87 85 90 Fax (44-1625) 87 72 85 mail@hockley.co.uk |
+| HRM-BE | Hermoo Belgium NV | Zepperenweg 257 B-3800 Sint-Truiden Tel. (32-1) 168 68 66 Fax (32-1) 170 74 84 hermoo@hermoo.be |
+| HTO-GB | Tioxide Europe Ltd | Haverton Hill Road Billingham TS23 1PS United Kingdom Tel. (44-1642) 37 03 00 Fax (44-1642) 37 02 90 greg_s_mcnulty@huntsman.com |
+| IAB-ES | IAB, SL (Investigaciones y Aplicaciones Biotecnológicas, SL) | Ctra. Moncada-Náquera, km 1,7 E-46113 Moncada (Valencia) Tel. (34) 961 30 90 24 Fax (34) 961 30 92 42 iab@iabiotec.com |
+| IAS-SE | Interagro Skog AB | Eliselund S-247 92 Södra Sandby Tfn (46-46) 532 00 Fax (46-46) 532 08 walde@interagroskog.se |
+| IBT-IT | Intrachem Bio Italia Spa | Via XXV Aprile 44 I-24050 Grassobbio Bergamo Tel. (39) 035 33 53 13 Fax (39) 035 33 53 34 info@intrachem.it |
+| IDB-ES | Idebio SL | Bell, 3 — Polígono El Montalvo E-37188 Carbajosa De La Sagrada Salamanca Tel. (34) 92 31 92 40 Fax (34) 92 31 92 39 idebio@helcom.es |
+| IOI-DE | Imperial-Oel-Import Handelsgesellschaft mbH | Bergstraße 11 D-20095 Hamburg Tel.: (49) 4033 85 33-0 Fax: (49) 4033 85 33 85 info@imperial-oel-import.de |
+| ISA-IT | Isagro S.p.A. | Via Caldera 21 20153 Milano Tel. (39) 0240 90 11 Fax (39) 0240 90 12 87 agiambelli@isagro.it |
+| JAH-GB | J A Humphrey Agriculture | 189 Castleroe Road Coleraine BT51 3QT United Kingdom Tel. (44-28) 70 86 87 33 Fax (44-28) 70 86 87 35 rhumphrey@nicobrand.com |
+| JCA-ES | Julio Cabrero y Cía, SL | Puerto De Requejada E-39312-Requejada (Cantabria) Tel. (34) 942 82 40 89 Fax (34) 942 82 50 57 julio.cabrero@juliocabrero.com |
+| JEY-GB | Jeyes Ltd | Brunel Way Thetford IP24 1HF United Kingdom Tel. (44-1842) 75 45 67 Fax (44-1842) 75 76 83 nigel.cooper@jeyes.co.uk |
+| JSC-GB | JSC International Ltd | Osborne House 20 Victoria Avenue Harrogate HG1 5QY United Kingdom Tel. (44-1423) 52 02 45 Fax (44-1423) 52 02 97 terry.tooby@jsci.co.uk |
+| KBS-NL | Koppert Beheer BV | Department R&D Microbials and Regulatory Affairs Veilingweg 17/PO Box 155 NL-2650 AD Berkel en Rodenrijs Tel.: (31-10) 514 04 44 Fax: (31-10) 511 52 03 info@koppert.nl |
+| KIR-NL | Kemira Chemicals B.V. | PO Box 1015 NL-3180 AA Rozenburg Tel.: (31-18) 128 25 40 Fax: (31-18) 128 25 36 dees_van.kruyssen@kemira.com |
+| KRO-DE | Kronos International, INC. | Peschstraße 5 D-51373 Leverkusen Tel.: (49) 214 356-0 Fax: (49) 214 421 50 kronos.leverkusen@nli-usa.com |
+| KWZ-AT | F. Joh. Kwizda GmbH | Sarea Saatguttechnik Freilingerstraße 44 A-4614 Marchtrenk Tel.: (43) 7243 535 26-0 Fax: (43) 7243 535 26-12 office@sarea.at |
+| LGO-FR | Laboratoires GOËMAR SA | ZAC La Madeleine Avenue Général-Patton F-35400 Saint-Malo Téléphone (33) 299 21 53 70 Télécopieur (33) 299 82 56 17 labo@goemar.com |
+| LIP-FR | LiphaTech SA | 201 rue Carnot F-94126 Fontenay-sous-Bois Téléphone (33) 143 94 55 50 Télécopieur (33) 148 77 44 31 ahoussin@merck.fr |
+| LLC-AT | Consep GmbH | Furth 27 A-2013 Gollersdorf Tel.: (43) 2954 30244 Fax: (43) 2954 30245 wmaxwald@lander.es |
+| LON-DE | Lonza GmbH | Morianstraße 32 D-42103 Wuppertal Tel.: (49) 202 245 38 33 Fax: (49) 202 245 38 30 gisbert.mehring@lonzagroup.com |
+| LUX-NL | Luxan B.V. | Industrieweg 2 NL-6662 PA Elst Tel.: (31-48) 136 08 11 Fax: (31-48) 137 67 34 luxan@luxan.nl |
+| MAK-BE | Makhteshim-Agan International Coordination Centre (MAICC) | Avenue Louise 283 B-1050 Bruxelles Téléphone (32-2) 646 86 06 Télécopieur (32-2) 646 91 52 steve.kozlen@maicc.be |
+| MAS-BE | Mitsui AgriScience International SA/BV | Boulevard de la Woluwe 60 Woluwedal 60 B-1200 Brussel Tel.: (32-2) 331 38 94 Fax: (31-2) 331 38 60 thorez@certiseurope.fr |
+| MEL-NL | Melchemie Holland B.V. | Postbus 143 NL-6800 AC Arnhem Tel.: (31-26) 445 12 51 Fax: (31-26) 442 50 93 info@melchemie.com |
+| MEU-GB | Mycotech Europe LTD. | 12 Lonsdale Gardens Tunbridge Wells TN1 1PA United Kingdom Tel. (44-1580) 88 20 59 Fax (44-1580) 88 20 57 fjr@agrilexuk.com |
+| MFS-GB | Macfarlan Smith Limited | Wheatfield Road Edinburgh EH11 2QA United Kingdom Tel. (44-131) 337 24 34 Fax (44-131) 337 98 13 melanie.jackson@macsmith.com |
+| MGK-GB | MGK Europe Limited | 21 Wilson Street London EC2M 2TD United Kingdom Tel. (44-207) 588 08 00 Fax (44-207) 588 05 55 glazer.barry@dorseylaw.com |
+| MIB-NL | Micro Biomentor BV | PO Box 50 Middelbroekweg 67 2675 ZH Honselersdijk Tel.: (31-17) 462 67 63 Fax: (31-17) 461 40 76 info@microbiomentor.nl |
+| NDC-SE | NIM Distribution Center AB | Stigbergsvägen 4 S-141 32 Huddinge Tfn (46-8) 740 26 30 Fax (46-8) 740 2618 info@bionim.com |
+| NEU-DE | W. Neudorff GmbH KG | An der Mühle 3 D-31860 Emmerthal Tel.: (49) 5155 624-126 Fax: (49) 5155 60 10 wilhelmy@neudorff.de |
+| NLI-AT | Nufarm GmbH & Co KG | Registration Department St.-Peter-Straße 25 A-4021 Linz Tel.: (43) 732 69 18-0 Fax: (43) 732 69 18-2004 eric.gibert@at.nufarm.com |
+| NOV-FR | Novance SA | Venette BP 20609 F-60206 Compiègne Téléphone (33) 344 90 70 96 Télécopieur (33) 344 90 70 70 p.ravier@novance.com |
+| NSA-GB | National Sulphuric Acid Association Limited | 19 Newgate Street Chester CH1 1DE United Kingdom Tel. (44-1244) 32 22 00 Fax (44-1244) 34 51 55 tomfleet@nsaa.org.uk or pamlatham@nsaa.org.uk |
+| NSC-GB | Novigen Sciences Ltd | 2D Hornbeam Park Oval Harrogate HG2 8RB United Kingdom Tel. (44-1423) 85 32 00 Fax (44-1423) 81 04 31 charris@novigensci.co.uk |
+| OGT-IE | Oilean Glas Teoranta | Meenmore Dungloe County Donegal Ireland Tel. (353-75) 213 19 Fax (353-75) 218 07 smgo11@gofree.indigo.ie |
+| OLE-BE | Oleon nv | Assenedestraat 2 B-9940 Ertvelde Tel.: (32-9) 341 10 11 Fax: (32-9) 341 10 00 info@oleon.com |
+| OMX-GB | Omex Agriculture Ltd | Bardney Airfield Tupholme Lincoln LN3 5TP United Kingdom Tel. (44-1526) 39 60 00 Fax (44-1526) 39 60 01 enquire@omex.com |
+| ORI-GB | Organic Insecticides | Parkwood, Maltmans Lane Gerrards Cross SL9 8RB United Kingdom Tel. (44-1494) 81 65 75 Fax (44-1494) 81 65 78 |
+| OSK-ES | Osku España, SL | Polígono Industrial El Zurdo, nave 13 Ctra. de la Estación E-Abarán, Murcia Tel. (34) 968 77 06 23 Fax (34) 968 77 06 12 oskuesp@oskuesp.e.telefonica.net |
+| PAB-SE | Perstorp Specialty Chemicals AB | S-284 80 Perstorp Tfn (46-435) 380 00 Fax (46-435) 381 00 perstorp@perstorp.com |
+| PBC-ES | Procesos Bioquímicos Claramunt-Forner, SL | Senda de les Deu, 11 E-46138 Rafelbunol, Valencia Tel. (34) 961 40 21 69 Fax (34) 961 40 21 69 ana.perez@acgbioconsulting.com |
+| PBI-GB | pbi Home & Garden Ltd | Durhan House 214-224 High Street Waltham Cross EN8 7DP United Kingdom Tel. (44-1992) 78 42 00 Fax (44-1992) 78 49 50 teresa.jones@pbi.co.uk |
+| PBK-AT | Manfred Pfersich, Kenya Pyrethrum Information Centre | Kenya Pyrethrum Information Centre Haslaustraße 807 A-5411 Oberalm Tel.: (43) 6245 83 38 10 Fax: (43) 6245 823 56 manfred.pfersich@kenya-pyrethrum.com |
+| PEL-GB | PelGar International Ltd. | Index House, Peak Centre Midhurst Rd Liphook GU30 7TN United Kingdom Tel. (44-1428) 72 22 50 Fax (44-1428) 72 28 11 info@pelgar.demon.co.uk |
+| PET-PT | Petrogal, S.A. | Rua Tomás da Fonseca, Torre C PT-1600-209 Lisboa Tel.: (351-21) 724 26 08 Fax: (351-21) 724 29 53 luis.brito.soares@galpenergia.com |
+| PGM-GB | Pet and Garden Manufacturing plc | Queens Rd. Sanquhar DG4 6DN United Kingdom Tel. (44-1223) 84 04 89 Fax (44-1223) 84 04 89 hancock@chemregservs.co.uk |
+| PHS-FR | Physalys | 3 rue de l'Arrivée — BP 215 F-75749 Paris Cedex 15 Téléphone (33) 143 21 70 62 Télécopieur (33) 143 21 70 63 ybassat@physalys.com |
+| PHY-GR | Phytophyl N·G· Stavrakis | Averof 16 GR-104 33 Athens Τηλ.: (30) 22620 586 70 Φαξ: (30) 22620 587 35 nista@otenet.gr |
+| PKA-DE | Probis GmbH & Andermatt Biocontrol Taskforce | Daimlerstraße 16/1 D-75446 Wiernheim Tel.: (49) 7044 91 42 21 Fax: (49) 7044 91 42 25 probis.knoch@t-online.de |
+| PLS-IT | Polisenio srl. | Via S. Andrea 10 I-48022 Lugo (RA) Tel. (39) 0545 245 60 Fax (39) 0545 245 87 polisenio@lamiarete.com |
+| PNP-NL | PNP Holding bv | Nijverheidsplein 21 G NL-3771 MR Barneveld Tel.: (31-34) 240 47 60 Fax: (31-34) 240 47 67 info@axcentive.com |
+| PPP-FR | Plant Protection Projects | Le Pont Neuf Route de Gordes F-84220 Cabriéres d'Avignon Téléphone (33) 432 52 17 51 Télécopieur (33) 490 76 80 71 stephen.shires@wanadoo.fr |
+| PRO-ES | Probelte, SA | Ctra. Madrid, km. 384,6 Polígono Industrial El Tiro E-30100 Espinardo (Murcia) Tel. (34) 968 30 72 50 Fax (34) 968 30 54 32 probelte@probelte.es |
+| PSD-GB | Pesticides Safety Directorate | Mallard House, Kings Pool 3 Peasholme Green York YO1 7PX United Kingdom Tel. (44-1904) 64 05 00 Fax (44-1904) 45 57 33 Information@psd.defra.gsi.gov.uk |
+| PUN-DK | Punya Innovations | Almevej 180 DK-3250 Gilleleje Tlf (45) 48 30 17 27 Fax (45) 48 30 22 27 punya@worldonline.dk |
+| PYC-FR | Pyco SA | Route de Saint-Sever — Haut-Mauco BP 27 F-40001 Mont-de-Marsan Cedex Téléphone (33) 558 05 89 37 Télécopieur (33) 558 05 89 36 alain.dini@bayercropscience.com |
+| RAG-DE | agrostulln GmbH | Werksweg 2 D-92551 Stulln Tel.: (49) 9435 39 32 27 Fax: (49) 9435 39 32 28 m.meier@agrostulln.de |
+| RHZ-NL | Rhizopon B.V. | PO Box 110 NL-2394 ZG Hazerswoude Tel.: (31-71) 341 51 46 Fax: (31-71) 341 58 29 info@rhizopon.com |
+| RLE-ES | Repsolypf Lubricantes y Especialidades | Orense, 34 E-28020 Madrid Tel. (34) 913 48 78 00 Fax (34) 913 23 70 32 msalinasg@repsolypf.com |
+| RML-IT | R.A.M.OIL S.p.A. | Via Filichito 16/A Tavernanova di Casalnuovo I-80013 Napoli Tel. (39) 081 519 51 11 Fax (39) 081 842 10 79 info@ramoil.it |
+| RUS-GB | Russell Fine Chemicals Ltd | 68 Third Avenue Deeside Industrial Park Deeside CH5 2LA United Kingdom Tel. (44-1244) 28 13 33 Fax (44-1244) 28 18 78 alzaidi@Russellipm.com |
+| SAA-PT | Sapec Agro, S.A. | Rua Victor Cordon, 19 PT-1200-482 Lisboa Tel.: (351-21) 322 27 49 Fax: (351-21) 322 27 35 cesmeraldo@agro.sapec.pt |
+| SAG-FR | JP Industrie | 16 avenue des Chateaupieds F-92565 Rueil-Malmaison Téléphone (33) 155 47 96 60 Télécopieur (33) 155 47 96 69 service.client@jp-industrie.com |
+| SAM-FR | Samabiol SA | La Grande Marine F-84800 Isle-sur-la-Sorgue Téléphone (33) 490 21 44 44 Télécopieur (33) 490 38 10 55 samabiol@samabiol.com |
+| SAP-FR | Saphyr | ZI des Terriers F-06600 Antibes Téléphone (33) 493 74 73 13 Télécopieur (33) 493 74 82 30 saphyr@rotenone.com |
+| SBS-IT | Serbios S.r.l. | VIA E.FERMI, 112 I-45021 Badia Polesine (RO) Tel. (39) 0425 59 06 22 Fax (39) 0425 59 08 76 info@serbios.it |
+| SDQ-ES | Sociedad Española de Desarrollos Químicos, SA (SEDQ) | Avenida Diagonal, 352, entresuelo E-08013 Barcelona Tel. (34) 934 58 40 00 Fax (34) 934 58 40 07 jcastella@sedq.es |
+| SEI-NL | Shin-Etsu International Europe B V | World Trade Center Amsterdam Strawinskylaan B-827 NL-1077 XX Amsterdam Tel.: (31-20) 662 13 59 Fax: (31-20) 664 90 00 shinint@attglobal.net |
+| SFS-FR | Scotts France SAS | 21 chemin de la Sauvegarde BP 92 F-69136 Écully Cedex Téléphone (33) 472 86 67 00 Télécopieur (33) 472 86 67 86 nicolas.le-brun-keris@scottsco.com |
+| SHC-FR | SiberHegner & Cie. (France) S.A. | 1475 quai du Rhône — BP 266 F-01702 Miribel Cedex Téléphone (33) 478 55 78 73 Télécopieur (33) 478 55 78 87 thomas.steinmann@SiberHegner.com |
+| SIC-IT | SICIT 2000 S.p.A. | Via Arzignano 80 I-36072 Chiampo (VI) Tel. (39) 0444 62 31 32 Fax (39) 0444 62 59 03 sicitspa@tin.it |
+| SIP-IT | Sipcam SpA | Via Sempione 195 I-20016 Pero (Milano) Tel. (39) 02 35 37 84 00 Fax (39) 02 339 02 75 sipcam@sipcam.it |
+| SLY-FR | Solvay SA | 12 cours Albert 1er F-75383 Paris cedex 08 Téléphone (33) 140 75 80 00 Télécopieur (33) 142 89 12 57 frederik.degraeve@Solvay.com |
+| SML-GB | M/s Sulphur Mills Limited | C/o Unity Garments Ltd Unity House, Fletcher Street Bolton BL36 N3 United Kingdom Tel. (44-1204) 49 73 78 Fax (44-1204) 49 73 78 sml@sulphurmills.com |
+| SOL-GB | Solvay Interox Ltd | PO Box 7 Warrington WA4 6HB United Kingdom Tel. (44-1925) 64 35 12 Fax (44-1925) 65 58 56 tom.candy@solvay.com |
+| SOX-GB | Sorex Limited | St Michael's Industrial Estate Widnes WA8 8TJ United Kingdom Tel. (44-151) 420-7151 Fax (44-151) 495-1163 rogers@sorex.com |
+| SPL-GB | Sphere Laboratories (London) Ltd | The Yews Main Street Chilton OX11 0RZ United Kingdom Tel. (44-1235) 83 18 02 Fax (44-1235) 83 38 96 bobn@jrfint.demon.co.uk |
+| SPU-DE | Spiess-Urania Chemicals GmbH | Heidenkampsweg 77 D-20097 Hamburg Tel.: (49) 4023 65 20 Fax: (49) 4023 65 22 80 mail@spiess-urania.com |
+| STG-GB | Stephenson Group Limited | PO Box 305 Listerhills Road Bradford BD7 1HY United Kingdom Tel. (44-1274) 72 38 11 Fax (44-1274) 37 01 08 ssc@stephensongroup.co.uk |
+| STI-IT | S.T.I. — Solfotecnica Italiana S.p.A. | Via Evangelista Torricelli, 2 I-48010 Cotignola (RA) Tel. (39) 0545 99 24 55 Fax (39) 0545 90 82 87 aamenta@solfotecnica.com |
+| SUM-FR | Valent BioSciences | Parc d'affaires de Crécy 2 rue Claude-Chappe F-69370 Saint-Didier-au-Mont-d'Or Téléphone (33) 478 64 32 60 Télécopieur (33) 478 47 70 05 denise.munday@valentbiosciences.ch |
+| SUN-BE | Sun Oil Company Belgium NV | Ingberthoeveweg 4 B-2630 Aartselaar Tel.: (32-3) 458 12 30 Fax: (31-3) 458 14 78 info@sunoco.be |
+| SYN-GB | Syngenta | European Regional Centre Surrey Research Park, Priestley Road Guildford GU2 7YH United Kingdom Tel. (44-1483) 26 02 40 Fax (44-1483) 26 00 19 simon.baker@syngenta.com |
+| TAE-DE | Earth BioScience, Inc. (formerly Taensa, Inc.) | c/o Bayer AG Agricultural Centre Monheim D-51368 Leverkusen dhd@dhd-consulting.de |
+| TBE-ES | Tratamientos Bio-Ecológicos, SA | Polígono Industrial Los Urreas, 31 E-30730 San Javier (Murcia) Tel. (34) 968 57 20 04 Fax (34) 968 19 22 51 trabe1@telefonica.net |
+| TEM-DE | Temmen GmbH | Ankerstraße 74 D-65795 Hattersheim Tel.: (49) 6145 99 19-0 Fax: (49) 6145 99 19-19 temmen@aol.com |
+| TOM-FR | Arysta Paris SAS | 18 avenue de l'Opéra F-75001 Paris Téléphone (33) 142 96 14 56 Télécopieur (33) 142 97 52 91 oudar@par.tomen.co.uk |
+| TOT-FR | Total Solvants | 51 esplanade du Général-de-Gaulle La Défense 10 F-92069 Paris-La Défense Téléphone (33) 141 35 59 83 Télécopieur (33) 141 35 51 34 christian.varescon@totalfinaelf.com |
+| TRD-FR | La Toulousaine de Recherche et de Développement | Zone industrielle de Pompignal F-31190 Miremont Téléphone (33) 561 50 61 58 Télécopieur (33) 561 50 84 42 anne.paulhe@latoulousaine.fr |
+| TRF-DE | Trifolio-M GmbH | Sonnenstraße 22 D-35633 Lahnau Tel.: (49) 6441 631 14 Fax: (49) 6441 646 50 info@trifolio-m.de |
+| UPL-GB | United Phosphorus Ltd | Chadwick House Birchwood Park Warrington XWA3 6AE United Kingdom Tel. (44-1925) 85 90 09 Fax (44-1925) 85 19 51 julie@uplukreg.demon.co.uk |
+| VAL-IT | Valagro S.p.A. | Zona Industriale I-66040 Piazzano di Atessa — Chieti Tel. (39) 0872 88 11 Fax (39) 0872 88 13 95 o.larocca@valagro.com |
+| VIO-GR | Vioryl S.A. | 36 Viltaniotis St. Kato Kifissia GR-145 64 Athens Τηλ.: (30) 210-807 46 03 Φαξ: (30) 210-807 46 81 vioryl@vioryl.gr |
+| VIT-GB | Vitax Ltd | Owen Street Coalville LE67 3DE United Kingdom Tel. (44-530) 51 00 60 Fax (44-530) 51 02 99 tech@vitax.co.uk |
+| VRA-FI | Verdera Oy | P.O. Box 330 Porkkalankatu 3 FI-00101 Helsinki Tel. (358) 10 86 15 11 Fax (358) 108 62 11 26 maiju.heith@kemira.com |
+| XED-FR | Xeda International SA | 2 ZA de la Crau F-13670 Saint-Andiol Téléphone (33) 490 90 23 23 Télécopieur (33) 490 90 23 20 xeda.int@wanadoo.fr |
+| XOM-FR | ExxonMobil | 2 rue des Martinets F-92500 Rueil-Malmaison Téléphone (33) 147 10 60 00 Télécopieur (33) 147 10 66 03 olivier.traversaz@exxonmobil.com |
+| ZOL-IT | Zolfital SpA | Via di S. Teresa 23 I-00198 Roma RM Tel. (39) 06 854 10 96 Fax (39) 06 854 31 49 zolfital@tin.it |
+
+## ANNEX III
+
+**Co-ordinating authority in the Member States (more details are available at the following webside: http://www.europa.eu.int/comm/food/fs/ph_ps/pro/index_en.htm)**
+
+AUSTRIA
+
+Bundesamt für Ernährungssicherheit
+
+Landwirtschaftliche Untersuchungen und Forschung Wien
+
+Spargelfeldstraße 191
+
+A-1220 Wien
+
+BELGIUM
+
+Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Alimentation
+
+Direction-générale Animaux, Végétaux et Alimentation
+
+Centre administratif de l'État, bâtiment Arcades
+
+B-1010 Bruxelles
+
+CYPRUS
+
+Ministry of Agriculture,
+
+Natural resources and Environment
+
+Department of Agriculture
+
+Loukis Akritas Ave.
+
+1412 Lefkosia
+
+CZECH REPUBLIC
+
+State Phytosanitary Administration,
+
+PPP Division
+
+Zemědělská 1A
+
+61300 Brno
+
+DENMARK
+
+Ministry of Environment and Energy
+
+Danish Environmental Protection Agency
+
+Pesticide Division
+
+Strandgade 29
+
+DK-1401 Copenhagen K
+
+ESTONIA
+
+Estonian Plant Production Inspectorate
+
+Plant Protection Department
+
+Teaduse 2
+
+75501 Saku
+
+Harju Country
+
+Estonia
+
+FINLAND
+
+Plant Production Inspection Centre
+
+Pesticide Division
+
+P.O. BOX 42
+
+FI-00501 Helsinki
+
+FRANCE
+
+Ministère de l’agriculture, de l’alimentation, de la pêche et des affaires rurales
+
+Sous direction de la qualité et de la protection des végétaux
+
+Bureau de la réglementation et de la mise sur le marché des intrans
+
+251, rue de Vaugirard
+
+F-75732 Paris Cedex 15
+
+GERMANY
+
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)
+
+Abteilung 2, Pflanzenschutzmittel
+
+Dienststelle Braunschweig
+
+Messeweg 11—12
+
+D-38104 Braunschweig
+
+GREECE
+
+Hellenic Republic
+
+Ministry of Agriculture
+
+General Directorate of Plant Produce
+
+Directorate of Plant Produce Protection
+
+Department of Pesticides
+
+3-4 Hippokratous Street
+
+GR-10164 Athens
+
+HUNGARY
+
+Central Service for Plant Protection and Soil conservation
+
+Budaörsi út 141–145.
+
+1118 Budapest
+
+IRELAND
+
+Pesticide Control Service
+
+Department of Agriculture and Food
+
+Abbotstown Laboratory Complex
+
+Abbotstown, Castleknock
+
+IRL-Dublin 15
+
+ITALY
+
+Ministero della Salute
+
+Direzione Generale della Sanità Pubblica Veterinaria, degli Alimenti e della Nutrizione
+
+Piazza G. Marconi, 25
+
+I-00144 Roma
+
+LATVIA
+
+State Plant Protection Service
+
+Plant Protection Department
+
+Republikas laukums 2,
+
+Riga, LV-1981
+
+Latvia
+
+LITHUANIA
+
+State Plant Protection Service
+
+Kalvarijų 62
+
+09304 Vilnius
+
+Lithuania
+
+LUXEMBOURG
+
+Administration des Services Techniques de l’Agriculture
+
+Service de la protection des Végétaux
+
+Boîte postale 1904
+
+16, route d’Esch
+
+L-1019 Luxembourg
+
+MALTA
+
+Ministry for rural Affairs & The Environment
+
+Plant Health Department
+
+Plant Biotechnology Centre
+
+Annibale Preca Street
+
+NETHERLANDS
+
+College voor de Toelating van Bestrijdingsmiddelen
+
+PO Box 217
+
+NL-6700 AE Wageningen
+
+POLAND
+
+Ministerstwo Rolnictwa i Rozwoju Wsi
+
+Departament Hodowli i Ochrony Roślin
+
+ul. Wspólna 30
+
+00-930 Warszawa
+
+PORTUGAL
+
+Direcção-Geral de Protecção das Culturas,
+
+Quinta do Marquês
+
+P-2780 Oeiras
+
+SLOVAK REPUBLIC
+
+Ministry of Agriculture of the Slovak Republic,
+
+Plant Commodities Department
+
+Dobrovičova 12
+
+81266 Bratislava
+
+SLOVENIA
+
+Ministry of Agriculture, Forestry and Food,
+
+Phytosanitary Administration Republic of Slovenia
+
+6 Einspielerjeva,
+
+SI-1000 Ljubljana
+
+SPAIN
+
+Ministerio de Agricultura, Pesca y Alimentación
+
+Dirección General de Agricultura
+
+Subdirección General de Medios de Producción Agrícolas
+
+Avda. Alfonso XII, 62
+
+E-28014 Madrid
+
+SWEDEN
+
+The Swedish Chemicals Inspectorate, KemI
+
+P.O. Box 2
+
+SE-172 13 Sundbyberg
+
+UNITED KINGDOM
+
+Pesticides Safety Directorate
+
+Department for Environment, Food and Rural Affairs
+
+Mallard House,
+
+Kings Pool,
+
+3 Peasholme Green,
+
+York, YO1 7PX
+
+## ANNEX IV
+
+**Organisations in the Member States to be contacted concerning further details on the payment of the fees referred to in Article 30 and to which such fees have to be paid**
+
+AUSTRIA
+
+Bundesamt für Ernährungssicherheit
+
+Landwirtschaftliche Untersuchungen und Forschung Wien
+
+Spargelfeldstraße 191
+
+A-1220 Wien
+
+BELGIUM
+
+Fonds budgétaire des matières premières et des produits
+
+Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Alimentation
+
+Direction-générale Animaux, Végétaux et Alimentation
+
+Centre administratif de l'État, bâtiment Arcades
+
+B-1010 Bruxelles
+
+CYPRUS
+
+Ministry of Agriculture,
+
+Natural resources and Environment
+
+Department of Agriculture
+
+Loukis Akritas Ave.
+
+1412 Lefkosia
+
+CZECH REPUBLIC
+
+State Phytosanitary Administration,
+
+PPP Division
+
+Zemědělská 1A
+
+61300 Brno
+
+DENMARK
+
+Ministry of Environment and Energy
+
+Danish Environmental Protection Agency
+
+Strandgade 29
+
+DK-1401 Copenhagen K
+
+ESTONIA
+
+Estonian Plant Production Inspectorate
+
+Plant Protection Department
+
+Teaduse 2
+
+75501 Saku
+
+Harju Country
+
+Estonia
+
+FINLAND
+
+Plant Production Inspection Centre
+
+Pesticide Division
+
+PO BOX 42
+
+FI-00501 Helsinki
+
+Bank and account:
+
+Nordea Bank
+
+Account: 166030-101330
+
+IBAN: FI3716603000101330
+
+SWIFT: NDEAFIHH
+
+FI-00501 Helsinki
+
+FRANCE
+
+Ministère de l’Agriculture et de la Pêche
+
+Bureau de la Réglementation des Produits antiparasitaires — 251 rue de Vaugirard
+
+F-75732 Paris Cedex 15
+
+GERMANY
+
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)
+
+Abteilung 2, Pflanzenschutzmittel
+
+Dienststelle Braunschweig
+
+Messeweg 11—12
+
+D-38104 Braunschweig
+
+GREECE
+
+Hellenic Republic
+
+Ministry of Agriculture
+
+General Directorate of Plant Produce
+
+Directorate of Plant Produce Protection
+
+Department of Pesticides
+
+3-4 Hippokratous Street
+
+GR-10164 Athens
+
+HUNGARY
+
+Central Service for Plant Protection and Soil conservation
+
+Budaörsi út 141–145.
+
+1118 Budapest
+
+IRELAND
+
+Pesticide Control Service
+
+Department of Agriculture, Food and Rural Development
+
+Abbotstown Laboratory Complex
+
+Abbotstown, Castleknock
+
+IRL-Dublin 15
+
+ITALY
+
+Tesoreria Provinciale dello Stato di Viterbo
+
+N. di conto corrente postale n. 52744570
+
+IBAN: IT 43
+
+CIN: E
+
+BIC: BPPIITRRXXX
+
+ABI: 7601
+
+CAB: 14500
+
+LATVIA
+
+State Plant Protection Service
+
+Plant Protection Department
+
+Republikas laukums 2,
+
+Riga, LV-1981
+
+Latvia
+
+LITHUANIA
+
+State Plant Protection Service
+
+Kalvarijų 62
+
+09304 Vilnius
+
+Lithuania
+
+LUXEMBOURG
+
+Administration des Services Techniques de l’Agriculture
+
+Boîte postale 1904
+
+L-1019 Luxembourg
+
+MALTA
+
+Ministry for rural Affairs & The Environment
+
+Plant Health Department
+
+Plant Biotechnology Centre
+
+Annibale Preca Street
+
+THE NETHERLANDS
+
+College voor de Toelating van Bestrijdingsmiddelen
+
+PO Box 217
+
+NL-6700 AE Wageningen
+
+POLAND
+
+Ministerstwo Rolnictwa i Rozwoju Wsi
+
+Departament Hodowli i Ochrony Roślin
+
+ul. Wspólna 30
+
+00-930 Warszawa
+
+PORTUGAL
+
+Direcção-Geral de Protecção das Culturas,
+
+Quinta do Marquês,
+
+P-2780 OEIRAS
+
+Número de conta: 003505840003800793097
+
+Banco: Caixa Geral de Depósitos
+
+SLOVAK REPUBLIC
+
+Ministry of Agriculture of the Slovak Republic,
+
+Plant Commodities Department
+
+Dobrovičova 12
+
+81266 Bratislava
+
+SLOVENIA
+
+Ministry of Agriculture, Forestry and Food,
+
+Phytosanitary Administration Republic of Slovenia
+
+6 Einspielerjeva,
+
+SI-1000 Ljubljana
+
+SPAIN
+
+Ministerio de Agricultura, Pesca y Alimentación
+
+Dirección General de Agricultura
+
+Subdirección General de Medios de Producción Agrícolas
+
+Avda. Alfonso XII, 62
+
+E-28014 Madrid
+
+SWEDEN
+
+The Swedish Chemicals Inspectorate, KemI
+
+P.O. Box 2
+
+SE-172 13 Sundbyberg
+
+National Giro Account: 4465054 – 7
+
+UNITED KINGDOM
+
+Pesticides Safety Directorate
+
+Department for Environment, Food and Rural Affairs
+
+Mallard House,
+
+Kings Pool,
+
+3 Peasholme Green,
+
+York, YO1 7PX
+
+## ANNEX V
+
+**Details to be notified by producers in new Member States**
+
+The notification must be made on paper and by e-mail.
+
+The notification shall contain the following information:
+
+1\. IDENTIFICATION DATA ON THE NOTIFIER
+
+1.1. Manufacturer of the active substance as defined in point (b) of Article 2 of Regulation (EC) No 1112/2002 (name, address, including location of plant):
+
+1.2. Name and address of the producer as defined in point (a) of Article 2 of Regulation (EC) No 1112/2002 including the name of the (natural) person responsible for the notification and further engagements resulting from this Regulation.
+
+1.2.1.
+
+(a) Telephone No
+
+(b) Telefax No
+
+(c) E-Mail Address
+
+1.2.2.
+
+(a) Contact:
+
+(b) Alternative:
+
+2\. INFORMATION TO FACILITATE IDENTIFICATION
+
+2.1. Common name (proposed or ISO-accepted where appropriate) specifying, where relevant, any variants thereof such as salts, esters or amines produced by the manufacturer. For micro-organisms the species, and where relevant, subspecies name
+
+2.2. Chemical name (IUPAC and CAS nomenclature) (where appropriate).
+
+2.3. CAS, CIPAC and EEC numbers (if available).
+
+2.4. Empirical and structural formula, molecular mass (where appropriate).
+
+2.5. Any other information considered necessary to facilitate identification, for example method of manufacture/extraction or origin of materials from which the substance is manufactured.
+
+2.6. Specification of purity of the active substance in g/kg or g/l (as appropriate).
+
+3\. FURTHER INFORMATION
+
+3.1. For each Member State a list of crops/uses for which plant protection products containing the active substance are currently authorised or used.
+
+4\. UNDERTAKING
+
+The notifier undertakes to submit to the designated coordinating authority of the designated rapporteur Member State the dossiers within the time limits provided for in Article 12 of Regulation (EC) No 2229/2004.
+
+The notifier declares that he is aware that he will be charged a fee by Member States at the time of the submission of the full dossier.
+
+The notifier confirms that the above information is honest and correct.
+
+The notifier declares that an authorisation by the manufacturer to act as his sole representative for the purpose of complying with this Regulation is enclosed if necessary.
+
+Signature (of the person competent to act for the manufacturer mentioned under 1.1.)
+
+## ANNEX VI
+
+**Criteria for clear indications of no harmful effects**
+
+An active substance shall be considered as fulfilling the requirement, as referred to in Article 24b, of there being clear indications that it may be expected that it does not have any harmful effects on human or animal health or on groundwater or any unacceptable influence on the environment if all the criteria set out in points 1 and 2 are met.
+
+1\. The active substance satisfies the following criteria:
+
+(a) it is not classified or proposed for classification as C (carcinogenic effects) M (mutagenic effects) R (toxic to reproduction) in categories 1, 2 or 3 in accordance with Directive 67/548/EEC;
+
+(b) either not requested or, if required, an ADI (Acceptable Daily Intake), AOEL (Acceptable Operator Exposure Level) and ARfD (Acute Reference Dose) can be established on the basis of the standard assessment factor of 100;
+
+(c) it is not considered to have the potential to meet the criteria of a persistent organic pollutant set out in Regulation (EC) No 850/2004 of the European Parliament and of the Council ( *2 );
+
+(d) it is not considered to have the potential to meet the criteria set out in Annex XIII to the Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( *3 ).
+
+2\. At least one supported representative use of the active substance satisfies all of the following criteria:
+
+(a) operator exposure is less than or equal to 75 % of the AOEL in modelled scenarios, considered relevant for the intended use and where the use of such modelling is appropriate to the supported use and at maximum using gloves as personal protective equipment (PPE);
+
+(b) bystander exposure and worker exposure is less than or equal to 75 % AOEL in modelled scenarios, considered relevant for the intended use and where the use of such modelling is appropriate to the supported use and without the use of PPE;
+
+(c) consumer exposure is less than or equal to 75 % of the ADI or ARfD (where such a value is necessarily established) in all available EU consumer diets on the basis of the MRLs (Maximum Residues Level) proposed for the active substance (without special refinements);
+
+(d) leaching to groundwater is below 0,1 μg/l in at least half of the scenarios considered relevant for the intended use, or in relevant lysimeter/field studies, for both the parent substance and relevant metabolites;
+
+(e) Buffer zones for the protection of the environment do not exceed 30m without any further risk mitigation measures (e.g. drift reducing nozzles);
+
+(f) the risk to non-target organisms is acceptable based on standard refinements.
+
+## ANNEX VII
+
+**Criteria for clear indications of harmful effects**
+
+An active substance shall be considered as fulfilling the requirement, as referred to in Article 24f, of there being clear indications that on the basis on the available data, and which have been evaluated in accordance with the provisions of Article 24d, it may be expected that it has harmful effects on human or animal health or on groundwater if either the criterion in point 1 or one of the criteria in point 2 is met.
+
+1\. As regards the active substance, the existing evidence is not sufficient to allow the establishment of an ADI, ARfD or an AOEL and such values are necessary to conduct a consumer and operator risk assessment.
+
+2\. As regards each supported representative use, at least one of the following criteria is met:
+
+(a) operator exposure is greater than 100 % AOEL in all modelled scenarios with the use of PPE/RPE (Personal Protective Equipment/Respiratory Protective Equipment), where the use of such modelling is appropriate to the supported use, and where actual exposure data, if available, also indicate that the AOEL will be exceeded under normal conditions of use;
+
+(b) bystander exposure and worker exposure is greater than 100 % AOEL in modelled scenarios, where the use of such modelling is appropriate to the supported use, and where actual exposure data, if available, indicate that the AOEL will be exceeded for these groups under normal conditions of use;
+
+(c) consumer exposure is greater than 100 % of the ADI or ARfD (where such a value is required) in at least one of the available EU consumer diets on the basis of the MRLs (Maximum Residues Level) proposed for the active substance;
+
+(d) leaching to groundwater is equal to or above 0,1 μg/l in all modelled scenarios either for the parent substance or for relevant metabolites.
+
+( 1 ) OJ L 230, 19.8.1991, p. 1. Directive as last amended by Commission Directive 2004/71/EC (OJ L 309, 6.10.2004, p. 6).
+
+( 2 ) OJ L 366, 15.12.1992, p. 10. Regulation as last amended by Regulation (EC) No 2266/2000 (OJ L 259, 13.10.2000, p. 27).
+
+( 3 ) OJ L 55, 29.2.2000, p. 25. Regulation as last amended by Regulation (EC) No 1044/2003 (OJ L 151, 19.6.2003, p. 32).
+
+( 4 ) OJ L 224, 21.8.2002, p. 23. Regulation as amended by Regulation (EC) No 1744/2004 (OJ L 311, 8.10.2004, p. 23).
+
+( 5 ) OJ L 168, 27.6.2002, p. 14.
+
+( 6 ) OJ L 33, 8.2.1979, p. 36. Directive as last amended by Regulation (EC) No 850/2004 (OJ L 158, 30.4.2004, p. 7).
+
+( 7 ) OJ L 31, 1.2.2002, p. 1. Regulation as last amended by Regulation (EC) No 1642/2003 (L 245, 29.9.2003, p. 4).
+
+( 8 ) COM(2001) 444 final.
+
+( 9 ) OJ L 123, 24.4.1998, p. 1. Directive as last amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).
+
+( 10 ) OJ L 15, 18.1.2008, p. 5.
+
+( *1 ) The active substances for which no notifier is identified in Column C are active substances as meant in Article 1(1)(b) of this Regulation.
+
+( *2 ) OJ L 158, 30.4.2004, p. 7; corrected by OJ L 229, 29.6.2004, p. 5.
+
+( *3 ) OJ L 396, 30.12.2006, p. 1; corrected by OJ L 136, 29.5.2007, p. 3.

@@ -146,6 +146,7 @@ training for:
 
 **II. LEGAL PROFESSIONS**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>31977 L 0249: Council Directive 77/249/EEC of 22 March 1977 to facilitate the effective exercise by lawyers of freedom to provide services (OJ L 78, 26.3.1977, p. 17), as amended by:<table><tbody><tr><td>—</td><td>11979 H: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Hellenic Republic (OJ L 291, 19.11.1979, p. 17),</td></tr>
 </tbody>
 </table>
@@ -164,7 +165,9 @@ training for:
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>31998 L 0005: Directive 98/5/EC of the European Parliament and of the Council of 16 February 1998 to facilitate practice of the profession of lawyer on a permanent basis in a Member State other than that in which the qualification was obtained (OJ L 77, 14.3.1998, p. 36), as amended by:<table><tbody><tr><td>—</td><td>12003 T: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic (OJ L 236, 23.9.2003, p. 33).</td></tr>
 </tbody>
 </table>
@@ -176,6 +179,7 @@ training for:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **III. MEDICAL AND PARAMEDICAL ACTIVITIES**
 
@@ -279,6 +283,7 @@ and, between the entries for Portugal and Slovenia:
 
 **Titles of training courses in specialised medicine**
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">ANAESTHETICS Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -310,7 +315,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Anestesi och intensivvård</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Anaesthetics</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GENERAL SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -342,7 +349,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Kirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>General surgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">NEUROLOGICAL SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -374,7 +383,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Neurokirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Neurosurgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">OBSTETRICS AND GYNAECOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -406,7 +417,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Obstetrik och gynekologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Obstetrics and gynaecology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GENERAL (INTERNAL) MEDICINE Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -438,7 +451,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Internmedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td>General (internal) medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">OPHTHALMOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -470,7 +485,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Ögonsjukdomar (oftalmologi)</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Ophthalmology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">OTO RHINO LARYNGOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -502,7 +519,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Öron-, näs- och halssjukdomar (oto-rhino-laryngologi)</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Otolaryngology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PAEDIATRICS Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -534,7 +553,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Barn- och ungdomsmedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Paediatrics</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">RESPIRATORY MEDICINE Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -566,7 +587,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Lungsjukdomar (pneumologi)</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Respiratory medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">UROLOGY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -598,7 +621,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Urologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Urology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">ORTHOPAEDICS Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -630,7 +655,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Ortopedi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Trauma and orthopaedic surgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PATHOLOGICAL ANATOMY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -662,7 +689,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk patologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Histopathology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">NEUROLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -694,7 +723,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Neurologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Neurology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PSYCHIATRY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -726,7 +757,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Psykiatri</td><td></td></tr>
 <tr><td>United Kingdom</td><td>General psychiatry</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">DIAGNOSTIC RADIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -758,7 +791,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Medicinsk radiologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Clinical radiology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">RADIOTHERAPY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -790,7 +825,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Tumörsjukdomar (allmän onkologi)</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Clinical oncology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">CLINICAL BIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -822,7 +859,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">BIOLOGICAL HAEMATOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -854,7 +893,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">MICROBIOLOGY-BACTERIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -892,7 +933,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk bakteriologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Medical microbiology and virology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">BIOLOGICAL CHEMISTRY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -924,7 +967,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk kemi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Chemical pathology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">IMMUNOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -956,7 +1001,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk immunologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Immunology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PLASTIC SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -988,7 +1035,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Plastikkirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Plastic surgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">THORACIC SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1020,7 +1069,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Thoraxkirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Cardo-thoracic surgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PAEDIATRIC SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1052,7 +1103,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Barn- och ungdomskirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Paediatric surgery</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">VASCULAR SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1084,7 +1137,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">CARDIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1116,7 +1171,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Kardiologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Cardiology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GASTRO-ENTEROLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1148,7 +1205,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Medicinsk gastroenterologi och hepatologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Gastro-enterology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">RHEUMATOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1180,7 +1239,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Reumatologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Rheumatology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GENERAL HAEMATOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1212,7 +1273,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Hematologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Haematology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">ENDOCRINOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1244,7 +1307,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Endokrina sjukdomar</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Endocrinology and diabetes mellitus</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PHYSIOTHERAPY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1276,7 +1341,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Rehabiliteringsmedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">STOMATOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1308,7 +1375,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">NEURO-PSYCHIATRY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1340,7 +1409,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">DERMATO-VENEREOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1372,7 +1443,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Hud- och könssjukdomar</td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">DERMATOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1404,7 +1477,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Dermatology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">VENEREOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1436,7 +1511,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Genito-urinary medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">RADIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1468,7 +1545,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">TROPICAL MEDICINE Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1500,7 +1579,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Tropical medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">CHILD PSYCHIATRY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1532,7 +1613,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Barn- och ungdomspsykiatri</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Child and adolescent psychiatry</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GERIATRICS Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1564,7 +1647,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Geriatrik</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Geriatrics</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">RENAL DISEASES Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1596,7 +1681,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Medicinska njursjukdomar (nefrologi)</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Renal medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">COMMUNICABLE DISEASES Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1628,7 +1715,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Infektionssjukdomar</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Infectious diseases</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">COMMUNITY MEDICINE Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1660,7 +1749,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Socialmedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Public health medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">PHARMACOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1692,7 +1783,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk farmakologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Clinical pharmacology and therapeutics</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">OCCUPATIONAL MEDICINE Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1724,7 +1817,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Yrkes- och miljömedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Occupational medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">ALLERGOLOGY Minimum length of training course: 3 years </td></tr>
 <tr></tr>
@@ -1756,7 +1851,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Allergisjukdomar</td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">GASTRO-ENTEROLOGICAL SURGERY Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1788,7 +1885,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">NUCLEAR MEDICINE Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1820,7 +1919,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Nukleärmedicin</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Nuclear medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">ACCIDENT AND EMERGENCY MEDICINE Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1852,7 +1953,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Accident and emergency medicine</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">CLINICAL NEUROPHYSIOLOGY Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1884,7 +1987,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk neurofysiologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Clinical neurophysiology</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">MAXILLO-FACIAL SURGERY (BASIC MEDICAL TRAINING) Minimum length of training course: 5 years </td></tr>
 <tr></tr>
@@ -1916,7 +2021,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Country</td><td>Title of qualification</td><td>Awarding body</td></tr>
 <tr><td colspan="3">DENTAL, ORAL AND MAXILLO-FACIAL SURGERY (BASIC MEDICAL AND DENTAL TRAINING) Minimum length of training course: 4 years </td></tr>
 <tr></tr>
@@ -1948,6 +2055,7 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Oral and maxillo-facial surgery’</td><td></td></tr>
 </tbody>
+</table>
 
 **2\. Nurses**
 
@@ -2010,6 +2118,7 @@ The said activities must have included taking full responsibility for the planni
 
 and, between the entries for Portugal and Slovenia:
 
+<table>
 <tbody><tr><td rowspan="2">«România</td><td><table><tbody><tr><td>1.</td><td>Diplomă de absolvire de asistent medical generalist cu studii superioare de scurtă durată</td></tr>
 </tbody>
 </table>
@@ -2025,9 +2134,11 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **3\. Practitioners of dentistry**
 
+<table>
 <tbody><tr><td></td><td>(a)</td><td>31978 L 0686: Council Directive 78/686/EEC of 25 July 1978 concerning the mutual recognition of diplomas, certificates and other evidence of the formal qualifications of practitioners of dentistry, including measures to facilitate the effective exercise of the right of establishment and freedom to provide services (OJ L 233, 24.8.1978, p. 1), as amended by:<table><tbody><tr><td>—</td><td>11979 H: Act concerning the conditions of accession and the adjustments to the Treaties-Accession of the Hellenic Republic (OJ L 291, 19.11.1979, p. 17),</td></tr>
 </tbody>
 </table>
@@ -2060,6 +2171,7 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (i) The following is added to Article 1:
 
@@ -2113,6 +2225,7 @@ and, between the entries for Portugal and Slovenia:
 | «România» |  |  |  |
 | --- | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>(b)</td><td>31978 L 0687: Council Directive 78/687/EEC of 25 July 1978 concerning the coordination of provisions laid down by law, regulation or administrative action in respect of the activities of dental practitioners (OJ L 233, 24.08.1978 p. 10), as amended by:<table><tbody><tr><td>—</td><td>11994 N: Act concerning the conditions of accession and adjustments to the Treaties-Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 21),</td></tr>
 </tbody>
 </table>
@@ -2124,6 +2237,7 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 In Article 6, the words ‘Articles 19, 19a, 19b, 19c, and 19d’ are replaced by the words ‘Articles 19, 19a, 19b, 19c, 19d and 19e’.
 
@@ -2149,6 +2263,7 @@ In Article 6, the words ‘Articles 19, 19a, 19b, 19c, and 19d’ are replaced b
 
 In the Annex, the following is inserted between the entries for Belgium and the Czech Republic:
 
+<table>
 <tbody><tr><td>«България</td><td>Диплома за висше образование на образователно-квалификационна степен магистър по специалност Ветеринарна медицина с професионална квалификация Ветеринарен лекар </td><td><table><tbody><tr><td>1.</td><td>Лесотехнически университет — Факултет по ветеринарна медицина</td></tr>
 </tbody>
 </table>
@@ -2157,6 +2272,7 @@ In the Annex, the following is inserted between the entries for Belgium and the 
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 and, between the entries for Portugal and Slovenia:
 
@@ -2401,6 +2517,7 @@ and, between the entries for Portugal and Slovenia:
 
 **‘5.1.3. Titles of training courses in specialised medicine**
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Anaesthetics Minimum period of training: 3 years </td><td>General surgery Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Anesthésie-réanimation/Anesthesie reanimatie</td><td>Chirurgie/Heelkunde</td></tr>
@@ -2431,7 +2548,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Anestesi och intensivvård</td><td>Kirurgi</td></tr>
 <tr><td>United Kingdom</td><td>Anaesthetics</td><td>General surgery</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Neurological surgery Minimum period of training: 5 years </td><td>Obstetrics and Gynaecology Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Neurochirurgie</td><td>Gynécologie — obstétrique/Gynaecologie en verloskunde</td></tr>
@@ -2462,7 +2581,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Neurokirurgi</td><td>Obstetrik och gynekologi</td></tr>
 <tr><td>United Kingdom</td><td>Neurosurgery</td><td>Obstetrics and gynaecology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>General (internal) medicine Minimum period of training: 5 years </td><td>Ophthalmology Minimum period of training: 3 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Médecine interne/Inwendige geneeskunde</td><td>Ophtalmologie/Oftalmologie</td></tr>
@@ -2493,7 +2614,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Internmedicine</td><td>Ögonsjukdomar (oftalmologi)</td></tr>
 <tr><td>United Kingdom</td><td>General (internal) medicine</td><td>Ophthalmology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Otorhinolaryngology Minimum period of training: 3 years </td><td>Paediatrics Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Oto-rhino-laryngologie/Otorhinolaryngologie</td><td>Pédiatrie/Pediatrie</td></tr>
@@ -2524,7 +2647,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Öron-, näs- och halssjukdomar (oto-rhino-laryngologi)</td><td>Barn- och ungdomsmedicin</td></tr>
 <tr><td>United Kingdom</td><td>Otolaryngology</td><td>Paediatrics</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Respiratory medicine Minimum period of training: 4 years </td><td>Urology Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Pneumologie</td><td>Urologie</td></tr>
@@ -2555,7 +2680,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Lungsjukdomar (pneumologi)</td><td>Urologi</td></tr>
 <tr><td>United Kingdom</td><td>Respiratory medicine</td><td>Urology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Orthopaedics Minimum period of training: 5 years </td><td>Pathological anatomy Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Chirurgie orthopédique/Orthopedische heelkunde</td><td>Anatomie pathologique/Pathologische anatomie</td></tr>
@@ -2586,7 +2713,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Ortopedi</td><td>Klinisk patologi</td></tr>
 <tr><td>United Kingdom</td><td>Trauma and orthopaedic surgery</td><td>Histopathology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Neurology Minimum period of training: 4 years </td><td>Psychiatry Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Neurologie</td><td>Psychiatrie de l'adulte/Volwassen psychiatrie</td></tr>
@@ -2617,7 +2746,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Neurologi</td><td>Psykiatri</td></tr>
 <tr><td>United Kingdom</td><td>Neurology</td><td>General psychiatry</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Diagnostic radiology Minimum period of training: 4 years </td><td>Radiotherapy Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Radiodiagnostic/Röntgendiagnose</td><td>Radiothérapie-oncologie/Radiotherapie-oncologie</td></tr>
@@ -2648,7 +2779,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Medicinsk radiologi</td><td>Tumörsjukdomar (allmän onkologi)</td></tr>
 <tr><td>United Kingdom</td><td>Clinical radiology</td><td>Clinical oncology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Plastic surgery Minimum period of training: 5 years </td><td>Clinical biology Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Chirurgie plastique, reconstructrice et esthétique/Plastische, reconstructieve en esthetische heelkunde</td><td>Biologie clinique/Klinische biologie</td></tr>
@@ -2679,7 +2812,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Plastikkirurgi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Cirugía plástica</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Microbiology-bacteriology Minimum period of training: 4 years </td><td>Biological chemistry Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td></td></tr>
@@ -2716,7 +2851,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk bakteriologi</td><td>Klinisk kemi</td></tr>
 <tr><td>United Kingdom</td><td>Medical microbiology and virology</td><td>Chemical pathology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Immunology Minimum period of training: 4 years </td><td>Thoracic surgery Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Chirurgie thoracique/Heelkunde op de thorax (*1)</td></tr>
@@ -2748,7 +2885,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td>Immunology</td><td>Cardo-thoracic surgery</td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Paediatric surgery Minimum period of training: 5 years </td><td>Vascular surgery Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Chirurgie des vaisseaux/Bloedvatenheelkunde (*2)</td></tr>
@@ -2780,7 +2919,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td>Paediatric surgery</td><td></td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Cardiology Minimum period of training: 4 years </td><td>Gastro-enterology Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Cardiologie</td><td>Gastro-entérologie/Gastroenterologie</td></tr>
@@ -2811,7 +2952,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Kardiologi</td><td>Medicinsk gastroenterologi och hepatologi</td></tr>
 <tr><td>United Kingdom</td><td>Cardiology</td><td>Gastro-enterology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Rheumatology Minimum period of training: 4 years </td><td>General Haematology Minimum period of training: 3 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Rhumathologie/reumatologie</td><td></td></tr>
@@ -2842,7 +2985,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Reumatologi</td><td>Hematologi</td></tr>
 <tr><td>United Kingdom</td><td>Rheumatology</td><td>Haematology</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Endocrinology Minimum period of training: 3 years </td><td>Physiotherapy Minimum period of training: 3 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Médecine physique et réadaptation/Fysische geneeskunde en revalidatie</td></tr>
@@ -2873,7 +3018,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Endokrina sjukdomar</td><td>Rehabiliteringsmedicin</td></tr>
 <tr><td>United Kingdom</td><td>Endocrinology and diabetes mellitus</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Neuropsychiatry Minimum period of training: 5 years </td><td>Dermato-venereology Minimum period of training: 3 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Neuropsychiatrie (*3)</td><td>Dermato-vénéréologie/Dermato-venerologie</td></tr>
@@ -2905,7 +3052,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td></td><td></td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Radiology Minimum period of training: 4 years </td><td>Child psychiatry Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Psychiatrie infanto-juvénile/Kinder- en jeugdpsychiatrie</td></tr>
@@ -2937,7 +3086,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td></td><td>Child and adolescent psychiatry</td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Geriatrics Minimum period of training: 4 years </td><td>Renal diseases Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td></td></tr>
@@ -2968,7 +3119,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Geriatrik</td><td>Medicinska njursjukdomar (nefrologi)</td></tr>
 <tr><td>United Kingdom</td><td>Geriatrics</td><td>Renal medicine</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Communicable diseases Minimum period of training: 4 years </td><td>Community medicine Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td></td></tr>
@@ -2999,7 +3152,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Infektionssjukdomar</td><td>Socialmedicin</td></tr>
 <tr><td>United Kingdom</td><td>Infectious diseases</td><td>Public health medicine</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Pharmacology Minimum period of training: 4 years </td><td>Occupational medicine Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Médecine du travail/Arbeidsgeneeskunde</td></tr>
@@ -3030,7 +3185,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk farmakologi</td><td>Yrkes- och miljömedicin</td></tr>
 <tr><td>United Kingdom</td><td>Clinical pharmacology and therapeutics</td><td>Occupational medicine</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Allergology Minimum period of training: 3 years </td><td>Nuclear medicine Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Médecine nucléaire/Nucleaire geneeskunde</td></tr>
@@ -3061,7 +3218,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Allergisjukdomar</td><td>Nukleärmedicin</td></tr>
 <tr><td>United Kingdom</td><td></td><td>Nuclear medicine</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Maxillo-facial surgery (basic medical training) Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td></tr>
@@ -3092,7 +3251,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td></tr>
 <tr><td>United Kingdom</td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Biological haematology Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td></tr>
@@ -3124,7 +3285,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td></td></tr>
 <tr><td colspan="2">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Stomatology Minimum period of training: 3 years </td><td>Dermatology Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td></td></tr>
@@ -3156,7 +3319,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td></td><td>Dermatology</td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Venerology Minimum period of training: 4 years </td><td>Tropical medicine Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td></td></tr>
@@ -3187,7 +3352,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td></td><td></td></tr>
 <tr><td>United Kingdom</td><td>Genito-urinary medicine</td><td>Tropical medicine</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Gastro-enterological surgery Minimum period of training: 5 years </td><td>Accident and emergency medicine Minimum period of training: 5 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td>Chirurgie abdominale/Heelkunde op het abdomen (*14)</td><td></td></tr>
@@ -3219,7 +3386,9 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>United Kingdom</td><td></td><td>Accident and emergency medicine</td></tr>
 <tr><td colspan="3">Dates of repeal within the meaning of Article 27(3):</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td rowspan="2">Country</td><td>Clinical neurophysiology Minimum period of training: 4 years </td><td>Dental, oral and maxillo-facial surgery (basic medical and dental training) (*15) Minimum period of training: 4 years </td></tr>
 <tr><td>Title</td><td>Title</td></tr>
 <tr><td>Belgique/België/Belgien</td><td></td><td>Stomatologie et chirurgie orale et maxillo-faciale/Stomatologie en mond-, kaak- en aangezichtschirurgie</td></tr>
@@ -3250,6 +3419,7 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>Sverige</td><td>Klinisk neurofysiologi</td><td></td></tr>
 <tr><td>United Kingdom</td><td>Clinical neurophysiology</td><td>Oral and maxillo-facial surgery</td></tr>
 </tbody>
+</table>
 
 (i) In Annex V.1, point 5.1.4 ‘Evidence of formal qualifications of general practitioners’, the following is inserted between the entries for Belgium and the Czech Republic:
 
@@ -3268,6 +3438,7 @@ and, between the entries for Portugal and Slovenia:
 
 and, between the entries for Portugal and Slovenia:
 
+<table>
 <tbody><tr><td rowspan="2">‘România</td><td><table><tbody><tr><td>1.</td><td>Diplomă de absolvire de asistent medical generalist cu studii superioare de scurtă durată</td></tr>
 </tbody>
 </table>
@@ -3283,6 +3454,7 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (k) In Annex V.3, point 5.3.2 ‘Evidence of basic formal qualifications of dental practitioners’, the following is inserted between the entries for Belgium and the Czech Republic:
 
@@ -3306,6 +3478,7 @@ and, between the entries for Portugal and Slovenia:
 
 (n) In Annex V.4, point 5.4.2 ‘Evidence of formal qualifications of veterinary surgeons’, the following is inserted between the entries for Belgium and the Czech Republic:
 
+<table>
 <tbody><tr><td>‘България</td><td>Диплома за висше образование на образователно-квалификационна степен магистър по специалност Ветеринарна медицина с професионална квалификация Ветеринарен лекар </td><td><table><tbody><tr><td>—</td><td>Лесотехнически университет — Факултет по ветеринарна медицина</td></tr>
 </tbody>
 </table>
@@ -3314,6 +3487,7 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td><td></td><td>1 January 2007’</td></tr>
 </tbody>
+</table>
 
 and, between the entries for Portugal and Slovenia:
 
@@ -3342,6 +3516,7 @@ and, between the entries for Portugal and Slovenia:
 
 (q) In Annex VI, point 6 ‘Evidence of formal qualifications of architects benefiting from acquired rights pursuant to Article 49(1)’, the following is inserted between the entries for Belgium and the Czech Republic:
 
+<table>
 <tbody><tr><td>‘България</td><td>Diplomas, awarded by accredited institutions of higher education with qualification “архитект” (architect), “cтроителен инженер” (civil engineer) or “инженер” (engineer) as follows:<table><tbody><tr><td>—</td><td>Университет за архитектура, строителство и геодезия — София: специалности “Урбанизъм” и “Архитектура” (University of Architecture, Civil Engineering and Geodesy — Sofia: specialities “Urbanism” and “Architecture”) and all engineering specialties in the fields of: “конструкции на сгради и съоръжения” (construction of buildings and structures), “пътища” (roads), “транспорт” (transport), “хидротехника и водно строителство” (hydrotechnics and hydro constructions), “мелиорации и др.” (irrigation etc.);</td></tr>
 </tbody>
 </table>
@@ -3350,9 +3525,11 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td><td>2009/2010’</td></tr>
 </tbody>
+</table>
 
 and, between the entries for Portugal and Slovenia:
 
+<table>
 <tbody><tr><td>‘România</td><td>Universitatea de Arhitectură şi Urbanism “Ion Mincu” Bucureşti (University of Architecture and Urbanism “Ion Mincu” Bucharest):<table><tbody><tr><td>—</td><td>1953-1966: Institutul de Arhitectură “Ion Mincu” Bucureşti (Institute of Architecture “Ion Mincu” Bucharest), Arhitect (Architect);</td></tr>
 </tbody>
 </table>
@@ -3427,6 +3604,7 @@ and, between the entries for Portugal and Slovenia:
 </table>
 </td><td>2009/2010’</td></tr>
 </tbody>
+</table>
 
 (*1) 1 January 1983
 

@@ -1,0 +1,3276 @@
+---
+title: "Commission Regulation (EU) No 139/2014 of 12 February 2014 laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council Text with EEA relevance"
+identifier: "32014R0139"
+eli: "http://data.europa.eu/eli/reg/2014/139/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-02-12
+entry_into_force: 2013-08-15
+last_amended: 2026-02-22
+consolidated_version: "02014R0139-20260222"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0139-20260222"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 139/2014 of 12 February 2014 laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 139/2014**
+
+**of 12 February 2014**
+
+**laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EU) 2017/161 of 31 January 2017 </td><td> L 27</td><td>99</td><td>1.2.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/401 of 14 March 2018 </td><td> L 72</td><td>17</td><td>15.3.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/469 of 14 February 2020 </td><td> L 104</td><td>1</td><td>3.4.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1234 of 9 June 2020 </td><td> L 282</td><td>1</td><td>31.8.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/2148 of 8 October 2020 </td><td> L 428</td><td>10</td><td>18.12.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/208 of 14 December 2021 </td><td> L 35</td><td>1</td><td>17.2.2022</td></tr>
+<tr><td> M7</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/697 of 10 February 2022 </td><td> L 130</td><td>1</td><td>4.5.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1645 of 14 July 2022 </td><td> L 248</td><td>18</td><td>26.9.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2074 of 20 July 2022 </td><td> L 280</td><td>4</td><td>28.10.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/203 of 27 October 2022 </td><td> L 31</td><td>1</td><td>2.2.2023</td></tr>
+<tr><td> M11</td><td> COMMISSION DELEGATED REGULATION (EU) 2023/369 of 29 November 2022 </td><td> L 51</td><td>23</td><td>20.2.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/894 of 13 March 2024 </td><td> L 894</td><td>1</td><td>20.3.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/405 of 30 January 2024 </td><td> L 405</td><td>1</td><td>11.4.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1400 of 13 March 2024 </td><td> L 1400</td><td>1</td><td>24.5.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2293 of 10 November 2025 </td><td> L 2293</td><td>1</td><td>11.11.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 139/2014**
+
+**of 12 February 2014**
+
+**laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down detailed rules on:
+
+(a) the conditions for establishing and notifying to the applicant the certification basis applicable to an aerodrome as set out in Annexes II and III;
+
+(b) the conditions for issuing, maintaining, amending, limiting, suspending or revoking certificates for aerodromes, and certificates for organisations responsible for the operation of aerodromes, including operating limitations related to the specific design of the aerodrome as set out in Annexes II and III;
+
+(c) the conditions for operating an aerodrome in compliance with the essential requirements set out in Annex Va and, if applicable, Annex Vb to Regulation (EC) No 216/2008 as set out in Annex IV;
+
+(d) the responsibilities of the holders of certificates as set out in Annex III;
+
+(e) the conditions for the acceptance and for the conversion of existing aerodrome certificates issued by Member States;
+
+(f) the conditions for the decision not to permit exemptions referred to in Article 4(3b) of Regulation (EC) No 216/2008, including criteria for cargo aerodromes, the notification of exempted aerodromes and for the review of granted exemptions;
+
+(g) the conditions under which operations shall be prohibited, limited or subject to certain conditions in the interest of safety as set out in Annex III;
+
+(h) conditions and procedures for the declaration by and for the oversight of organisations responsible for the provision of apron management services referred to in Article 37(2) of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 1 ) as set out in Annexes II and III.
+
+2\. Competent Authorities involved in the certification and oversight of aerodromes, aerodrome operators and apron management service providers shall comply with the requirements laid down in Annex II.
+
+3\. Aerodrome operators and organisations responsible for providing apron management service shall comply with the requirements laid down in Annexes III and IV.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+(1) ‘aerodrome’ means a defined area (including any buildings, installations and equipment) on land or water or on a fixed, fixed offshore or floating structure intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;
+
+(2) ‘aeroplane’ means a power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;
+
+(3) ‘aircraft’ means a machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth’s surface;
+
+(4) ‘apron’ means a defined area intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance;
+
+(5) ‘apron management service’ means a service provided to manage the activities and the movement of aircraft and vehicles on an apron;
+
+(6) ‘audit’ means a systematic, independent and documented process for obtaining evidence and evaluating it objectively to determine the extent to which requirements are complied with;
+
+(7) ‘certification specifications’ mean technical standards adopted by the Agency indicating means to show compliance with Regulation (EC) No 216/2008 and its Implementing Rules and which can be used by an organisation for the purpose of certification;
+
+(8) ‘Competent Authority’ means an authority designated within each Member State with the necessary powers and responsibilities for the certification and oversight of aerodromes, as well as personnel and organisations involved therein;
+
+(9) ‘continuing oversight’ means the tasks which are conducted for the implementation of the oversight programme at any time by the Competent Authority to verify that the conditions under which a certificate has been granted continue to be fulfilled during its period of validity;
+
+(10) ‘Deviation Acceptance and Action Document’ (DAAD) means a document established by the Competent Authority to compile evidence provided to justify the acceptance of deviations from the certification specifications issued by the Agency;
+
+(11) ‘inspection’ means an independent evaluation by observation and judgement accompanied as appropriate by measurement, testing or gauging, in order to verify compliance with applicable requirements;
+
+(12) ‘movement’ means either a take-off or landing;
+
+(13) ‘obstacle’ means all fixed (whether temporary or permanent) and mobile objects, or parts thereof, that:
+
+— are located on an area intended for the surface movement of aircraft, or
+
+— extend above a defined surface intended to protect aircraft in flight, or
+
+— stand outside those defined surfaces and that have been assessed as being a hazard to air navigation;
+
+(14) ‘obstacle limitation surface’ means a surface that defines the limits to which objects may project into the airspace;
+
+(15) ‘obstacle protection surface’ means a surface established for visual approach slope indicator system above which objects or extensions of existing objects shall not be permitted except when, in the opinion of the appropriate authority, the new object or extension would be shielded by an existing immovable object.
+
+## Article 3 — Oversight
+
+1\. Member States shall designate one or more entities as the Competent Authority(ies) within that Member State with the necessary powers and responsibilities for the certification and oversight of aerodromes and aerodrome operators, receiving declarations and oversight of providers of apron management service, as well as personnel involved therein.
+
+2\. The Competent Authority shall be independent from aerodrome operators and providers of apron management services. This independence shall be achieved through separation, at functional level at least, between the Competent Authority and these aerodrome operators and providers of apron management services. Member States shall ensure that Competent Authorities exercise their powers impartially and transparently.
+
+3\. If a Member State designates more than one entity as Competent Authority the following conditions shall be fulfilled:
+
+(a) each Competent Authority shall be responsible for specifically defined tasks and a determined geographic area; and
+
+(b) coordination shall be established between these Authorities in order to ensure effective oversight of all aerodromes and aerodrome operators, as well as providers of apron management services.
+
+4\. Member States shall ensure that the Competent Authority(ies) has(ve) the necessary capabilities and resources to fulfil their requirements under this Regulation.
+
+5\. Member States shall ensure that Competent Authorities’ personnel do not perform oversight activities when there is evidence that this could result directly or indirectly in a conflict of interest, in particular when relating to family or financial interest.
+
+6\. Personnel authorised by the Competent Authority to carry out certification and/or oversight tasks shall be empowered to perform at least the following tasks:
+
+(a) examine the records, data, procedures and any other material relevant to the execution of the certification and/or oversight task;
+
+(b) take away copies of or extracts from such records, data, procedures and other material;
+
+(c) ask for an oral explanation on-site;
+
+(d) enter aerodromes, relevant premises, operating sites or other relevant areas and means of transport;
+
+(e) perform audits, investigations, tests, exercises, assessments and inspections;
+
+(f) take or initiate enforcement measures as appropriate.
+
+7\. The tasks in paragraph 6 shall be carried out in compliance with the national legislation of the Member States.
+
+## Article 6 — Conversion of certificates
+
+1\. Certificates issued by the Competent Authority prior to 31 December 2014 on the basis of national legislations shall remain valid until they are issued in accordance with this Article, or if no such certificates are issued, 31 December 2017.
+
+2\. Before the end of the period specified in paragraph 1, the Competent Authority shall issue certificates for the aerodromes and aerodrome operators concerned, if the following conditions are met:
+
+(a) the certification basis referred to in Annex II has been established using the certification specifications issued by the Agency, including any cases of equivalent level of safety and special conditions which have been identified and documented;
+
+(b) the certificate holder has demonstrated compliance with the certification specifications which are different from the national requirements on which the existing certificate was issued;
+
+(c) the certificate holder has demonstrated compliance with those requirements of Regulation (EC) No 216/2008 and its Implementing Rules which are applicable to its organisation and its operation and which are different from the national requirements on which the existing certificate was issued.
+
+3\. By way of derogation from paragraph 2 point (b), the Competent Authority may decide to waiver demonstration of compliance if it considers that this demonstration creates an excessive or disproportionate effort.
+
+4\. The Competent Authority shall keep records, for a minimum period of five years, of the documents related to the conversion of certificates procedure.
+
+## Article 7 — Deviations from certification specifications
+
+1\. The Competent Authority may, until 31 December 2024, accept applications for a certificate including deviations from the certification specifications issued by the Agency, if the following conditions are met:
+
+(a) the deviations do not qualify as an equivalent level of safety case under ADR.AR.C.020, nor qualify as a case of special condition under ADR.AR.C.025 of Annex II to this Regulation;
+
+(b) the deviations existed prior to the entry into force of this Regulation;
+
+(c) the essential requirements of Annex Va to Regulation (EC) No 216/2008 are respected by the deviations, supplemented by mitigating measures and corrective actions as appropriate;
+
+(d) a supporting safety assessment for each deviation has been completed.
+
+2\. The Competent Authority shall compile the evidence supporting the fulfilment of the conditions referred to in paragraph 1 in a Deviation Acceptance and Action Document (DAAD). The DAAD shall be attached to the certificate. The Competent Authority shall specify the period of validity of the DAAD.
+
+3\. The aerodrome operator and the Competent Authority shall verify that the conditions referred to in paragraph 1 continue to be fulfilled. If such is not the case the DAAD shall be amended, suspended or withdrawn.
+
+4\. The DAAD attached to the certificate shall be transferred to the new aerodrome operator to whom the operation of the aerodrome is to be transferred, provided that the conditions referred to in paragraphs 1 and 3 are met.
+
+## Article 8 — Safeguarding of aerodrome surroundings
+
+1\. Member States shall ensure that consultations are conducted with regard to safety impacts of constructions proposed to be built within the limits of the obstacle limitation and protection surfaces as well as other surfaces associated with the aerodrome.
+
+2\. Member States shall ensure that consultations are conducted with regard to safety impacts of constructions proposed to be built beyond the limits of the obstacle limitation and protection surfaces as well as other surfaces associated with the aerodrome and which exceed the height established by Member States.
+
+3\. Member States shall ensure coordination of the safeguarding of aerodromes located near national borders with other Member States.
+
+## Article 9 — Monitoring of aerodrome surroundings
+
+Member States shall ensure that consultations are conducted with regard to human activities and land use such as:
+
+(a) any development or change in land use in the aerodrome area;
+
+(b) any development which may create obstacle-induced turbulence that could be hazardous to aircraft operations;
+
+(c) the use of hazardous, confusing and misleading lights;
+
+(d) the use of highly reflective surfaces which may cause dazzling;
+
+(e) the creation of areas that might encourage wildlife activity harmful to aircraft operations;
+
+(f) sources of non-visible radiation or the presence of moving or fixed objects which may interfere with, or adversely affect, the performance of aeronautical communications, navigation and surveillance systems.
+
+## Article 10 — Wildlife hazard management
+
+1\. Member States shall ensure that wildlife strike hazards are assessed through:
+
+(a) the establishment of a national procedure for recording and reporting wildlife strikes to aircraft;
+
+(b) the collection of information from aircraft operators, aerodrome personnel and other sources on the presence of wildlife constituting a potential hazard to aircraft operations; and
+
+(c) an ongoing evaluation of the wildlife hazard by competent personnel.
+
+2\. Member States shall ensure that wildlife strike reports are collected and forwarded to ICAO for inclusion in the ICAO Bird Strike Information System (IBIS) database.
+
+## Article 11 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. Competent Authorities involved in the certification and oversight of aerodromes, aerodrome operators and apron management service providers shall comply with the requirements laid down in Annex II to this Regulation before 31 December 2017.
+
+3\. Annexes III and IV shall apply to aerodromes certified in accordance with Article 6 from the date of issuance of the certificate.
+
+4\. Aerodromes whose certification procedure was initiated before 31 December 2014, but have not been issued with a certificate by this date, shall only be issued a certificate when they comply with this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Definitions for terms used in Annexes II to IV**
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(1) ‘Acceptable Means of Compliance (AMC)’ means non-binding standards adopted by the Agency to illustrate means to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules;
+
+(2) ‘accelerate-stop distance available (ASDA)’ means the length of the take-off run available plus the length of the stopway, if provided;
+
+(3) ‘aerodrome control service’ means an air traffic control (ATC) service for aerodrome traffic;
+
+(4) ‘aerodrome equipment’ means any equipment, apparatus, appurtenance, software or accessory, that is used or intended to be used to contribute to the operation of aircraft at an aerodrome;
+
+(4a) ‘[aerodrome] traffic density’ means the number of movements in the mean busy hour and is the arithmetic mean over the year of the number of movements in the daily busiest hour;
+
+(5) ‘aeronautical data’ means a representation of aeronautical facts, concepts or instructions in a formalised manner suitable for communication, interpretation or processing;
+
+(6) ‘aeronautical information service’ means a service established within the defined area of coverage responsible for the provision of aeronautical information and data necessary for the safety, regularity, and efficiency of air navigation;
+
+(6a) ‘Aeronautical Information Circular (AIC)’ means a notice containing information that does not qualify for the origination of a notice to air men (NOTAM) or for inclusion in the AIP, but which relates to flight safety, air navigation, technical, administrative or legislative matters;
+
+(6b) ‘aeronautical information product’ means aeronautical data and aeronautical information provided either as digital data sets or as a standardised presentation in paper or electronic media. Aeronautical information products include the following:
+
+— AIP, including amendments and supplements,
+
+— AIC,
+
+— aeronautical charts,
+
+— NOTAM,
+
+— digital data sets;
+
+(6c) ‘Aeronautical Information Publication (AIP)’ means a publication issued by or with the authority of a Member State and containing aeronautical information of a lasting character essential to air navigation;
+
+(7) ‘air navigation services’ means air traffic services; communication, navigation and surveillance services; meteorological services for air navigation; and aeronautical information services;
+
+(8) ‘air traffic services’ means the various flight information services, alerting services, air traffic advisory services and air traffic control services (area, approach and aerodrome control services);
+
+(9) ‘air traffic control (ATC) service’ means a service provided for the purpose of:
+
+1\. preventing collisions:
+
+— between aircraft, and
+
+— in the manoeuvring area between aircraft and obstructions; and
+
+2\. expediting and maintaining an orderly flow of air traffic;
+
+(10) ‘aircraft stand’ means a designated area on an apron intended to be used for parking an aircraft;
+
+(11) ‘aircraft stand taxilane’ means a portion of an apron designated as a taxiway and intended to provide access to aircraft stands only;
+
+(12) ‘alternative means of compliance’ are those that propose an alternative to an existing Acceptable Means of Compliance or those that propose new means to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules for which no associated Acceptable Means of Compliance have been adopted by the Agency;
+
+(13) ‘alerting service’ means a service provided to notify relevant organisations regarding aircraft in need of search and rescue aid, and to assist such organisations as required;
+
+(14) ‘apron taxiway’ means a portion of a taxiway system located on an apron and intended to provide a through taxi-route across the apron;
+
+(15) ‘clearway’ means a defined rectangular area on the ground or water under the control of the appropriate entity, selected or prepared as a suitable area over which an aeroplane may make a portion of its initial climb to a specified height;
+
+(15a) ‘contaminated runway’ means a runway whose surface area (whether in isolated areas or not) within the length and width being used is covered in significant part by one or more of the substances listed under the runway surface condition descriptors;
+
+(16) ‘dangerous goods’ means articles or substances which are capable of posing a risk to health, safety, property or the environment and which are shown in the list of dangerous goods in the Technical Instructions or which are classified according to those Technical Instructions;
+
+(16a) ‘decision altitude’ (‘DA’) or ‘decision height’ (‘DH’) means a specified altitude or height in a 3D instrument approach operation at which a missed approach procedure must be initiated if the required visual reference to continue the approach has not been established;
+
+(17) ‘data quality’ means a degree or level of confidence that the data provided meet the requirements of the data user in terms of accuracy, resolution and integrity;
+
+(17a) ‘data set’ means an identifiable collection of data;
+
+(18) ‘declared distances’ means:
+
+— ‘take-off run available (TORA)’,
+
+— ‘take-off distance available (TODA)’,
+
+— ‘accelerate-stop distance available (ASDA)’,
+
+— ‘landing distance available (LDA)’;
+
+(18a) ‘dry’, in respect of runway conditions, means that the surface of the runway is free of visible moisture and not contaminated within the area intended to be used;
+
+(19) ‘flight information service’ means a service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights;
+
+(19a) ‘foreign object debris (FOD)’ means an inanimate object within the movement area which has no operational or aeronautical function and which has the potential to be a hazard to aircraft operation;
+
+(19b) ‘hot spot’ means a location on an aerodrome movement area with a history or potential risk of collision or runway incursion, and where heightened attention by pilots or drivers is necessary;
+
+(20) ‘human factors principles’ means principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;
+
+(21) ‘human performance’ means human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations;
+
+(22) ‘instrument runway’ means one of the following types of runways intended for the operation of aircraft using instrument approach procedures:
+
+1\. ‘non-precision approach runway’: a runway served by visual aids and at least one non-visual aid, intended for landing operations following a type A instrument approach operation;
+
+2\. ‘precision approach runway, category I’: a runway served by visual aids and at least one non-visual aid, intended for landing operations following a type B CAT I instrument approach operation;
+
+3\. ‘precision approach runway, category II’: a runway served by visual aids and at least one non-visual aid, intended for landing operations following a type B CAT II instrument approach operation;
+
+4\. ‘precision approach runway, category III’: a runway served by visual aids and at least one non-visual aid, intended for landing operations following a type B CAT III instrument approach operation;
+
+(23) ‘integrity’ means a degree of assurance that an aeronautical data and its value has not been lost nor altered since the data origination or authorized amendment;
+
+(24) ‘landing distance available (LDA)’ means the length of runway which is declared available and suitable for the ground run of an aeroplane landing;
+
+(24a) ‘lighting system reliability’ means the probability that the complete installation operates within the specified tolerances and the system is operationally usable;
+
+(24b) ‘Location Indicators’ means the latest effective edition of the ‘Location Indicators’ (Doc 7910), approved and published by the International Civil Aviation Organization;
+
+(24c) ‘low-visibility operations (LVOs)’ means approach or take-off operations on a runway with a runway visual range less than 550 m or a decision height less than 200 ft;
+
+(25) ‘low-visibility procedures’ means procedures applied at an aerodrome for the purpose of ensuring safety during low-visibility operations;
+
+(26) ‘low-visibility take-off (LVTO)’ means a take-off with a runway visual range less than 550 m;
+
+(28) ‘manoeuvring area’ means that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, excluding aprons;
+
+(29) ‘meteorological services’ means those facilities and services that provide aircraft with meteorological forecasts, briefs and observations as well as any other meteorological information and data provided by States for aeronautical use;
+
+(30) ‘marker’ means an object displayed above ground level in order to indicate an obstacle or delineate a boundary;
+
+(31) ‘marking’ means a symbol or group of symbols displayed on the surface of the movement area in order to convey aeronautical information;
+
+(32) ‘movement area’ means that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft consisting of the manoeuvring area and the apron(s);
+
+(33) ‘navigation services’ means those facilities and services that provide aircraft with positioning and timing information;
+
+(34) ‘non-instrument runway’ means a runway intended for the operation of aircraft using visual approach procedures;
+
+(34a) ‘notice to airmen (NOTAM)’ means a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations;
+
+(34b) ‘NOTAM code’ means the code contained in the latest effective edition of the ‘Procedures for Air Navigation Services – ICAO Abbreviations and Codes’ (PANS ABC – Doc 8400), approved and published by the International Civil Aviation Organization;
+
+(34c) ‘operation with operational credits’ means an operation using specific aircraft or ground equipment, or a combination of aircraft and ground equipment which allows any of the following elements:
+
+(a) the application of lower than standard aerodrome operating minima for a particular classification of operation;
+
+(b) visibility requirements can be satisfied or reduced;
+
+(c) fewer ground facilities are required;
+
+(36) ‘oversight planning cycle’ means a time period in which continued compliance is verified;
+
+(37) ‘rapid exit taxiway’ means a taxiway connected to a runway at an acute angle and designed to allow landing aeroplanes to turn off at higher speeds than are achieved on other exit taxiways thereby minimising runway occupancy times;
+
+(38) ‘runway’ means a defined rectangular area on a land aerodrome prepared for the landing and take-off of aircraft;
+
+(38a) ‘runway condition assessment matrix (RCAM)’ means a matrix that allows the assessment of the runway condition code (RWYCC), using associated procedures, from a set of observed runway surface conditions and pilot report of braking action;
+
+(38b) ‘runway condition code (RWYCC)’ means a number, to be used in the runway condition report (RCR), that describes the effect of the runway surface condition on aeroplane deceleration performance and lateral control;
+
+(38c) ‘runway condition report (RCR)’ means a comprehensive standardised report relating to the conditions of the runway surface and their effects on the aeroplane landing and take-off performance, described by means of runway conditions code;
+
+(38d) ‘runway-end safety area (RESA)’ means an area symmetrical about the runway centre line and adjacent to the end of the strip primarily intended to reduce the risk of damage to an aeroplane undershooting or overrunning the runway;
+
+(38e) ‘runway-holding position’ means a designated position intended to protect a runway, an obstacle limitation surface, or an Instrument Landing Systems (ILS) or Microwave Landing System (MLS) critical or sensitive area at which taxiing aircraft and vehicles must stop and hold, unless otherwise authorised by the aerodrome control tower;
+
+(38f) ‘runway strip’ means a defined area including the runway and stopway, if provided, intended to:
+
+(a) reduce the risk of damage to aircraft running off a runway;
+
+(b) protect aircraft flying over it during take-off or landing operations;
+
+(38g) ‘runway surface condition’ means a description of the condition of the runway surface used in the RCR which establishes the basis for the determination of the RWYCC for aeroplane performance purposes;
+
+(38h) ‘runway surface condition descriptors’ means one of the following substances on the surface of the runway:
+
+(a) compacted snow: snow that has been compacted into a solid mass such that aeroplane tyres, at operating pressures and loadings, will run on the surface without significant further compaction or rutting of the surface;
+
+(b) dry snow: snow from which a snowball cannot readily be made;
+
+(c) frost: ice crystals formed from airborne moisture on a surface whose temperature is at or below freezing; frost differs from ice in that frost crystals grow independently and therefore, have a more granular texture;
+
+(d) ice: water that has frozen or compacted snow that has transitioned into ice in cold and dry conditions;
+
+(e) slush: snow that is so water-saturated that water will drain from it when a handful is picked up or will splatter if stepped on forcefully;
+
+(f) standing water: water of depth greater than 3 mm;
+
+(g) wet ice: ice with water on top of it or ice that is melting;
+
+(h) wet snow: snow that contains enough water to be able to make a well compacted, solid snowball, but water will not squeeze out;
+
+(39) ‘runway type’ means instrument runway or non-instrument runway;
+
+(40) ‘runway visual range (RVR)’ means the range over which the pilot of an aircraft on the centre line of a runway can see the runway surface markings or the lights delineating the runway or identifying its centre line;
+
+(41) ‘safety management system’ means a systematic approach to managing safety including the necessary organisational structure, accountabilities, policies and procedures;
+
+(41a) ‘slippery wet runway’ means a wet runway whose surface friction characteristics for a significant portion of it have been determined to be degraded;
+
+(41b) ‘SNOWTAM’ means a special series NOTAM given in a standard format, which provides a surface condition report notifying the presence or cessation of hazardous conditions due to snow, ice, slush, frost, standing water or water associated with snow, slush, ice, or frost on the movement area;
+
+(41c) ‘specially prepared winter runway’ means a runway with a dry frozen surface of compacted snow or ice, or both, which has been treated with sand or grit or has been mechanically treated to improve runway friction;
+
+(42) ‘stopway’ means a defined rectangular area on the ground at the end of take-off run available prepared as a suitable area in which an aircraft can be stopped in the case of an abandoned take-off;
+
+(43) ‘take-off distance available (TODA)’ means the length of the take-off run available plus the length of the clearway, if provided;
+
+(44) ‘take-off run available (TORA)’ means the length of runway declared available and suitable for the ground run of an aeroplane taking off;
+
+(45) ‘taxiway’ means a defined path on a land aerodrome established for the taxiing of aircraft and intended to provide a link between one part of the aerodrome and another, including:
+
+— aircraft stand taxilane,
+
+— apron taxiway,
+
+— rapid exit taxiway;
+
+(46) ‘Technical Instructions’ means the latest effective edition of the ‘Technical Instructions for the Safe Transport of Dangerous Goods by Air’ (Doc 9284-AN/905), including the Supplement and any Addenda, approved and published by the International Civil Aviation Organization;
+
+(47) ‘terms of the certificate’ means all the following:
+
+— ICAO location indicators,
+
+— conditions to operate (VFR/IFR, day/night),
+
+— aeroplane operations on specially prepared winter runways,
+
+— runway – declared distances,
+
+— runway types and approaches provided,
+
+— aerodrome reference code,
+
+— scope of aircraft operations exceeding the certified design characteristics of the aerodrome,
+
+— provision of apron management services (yes/no),
+
+— rescue and firefighting level of protection;
+
+(47a) ‘type A instrument approach operation’ means an instrument approach operation with a minimum descent height or decision height at or above 75 m (250 ft);
+
+(47b) ‘type B instrument approach operation’ means an instrument approach operation with a decision height below 75 m (250 ft) categorised as follows:
+
+1\. Category I (CAT I): a decision height not lower than 60 m (200 ft) and with either a visibility not less than 800 m or a runway visual range not less than 550 m;
+
+2\. Category II (CAT II): a decision height lower than 60 m (200 ft), but not lower than 30 m (100 ft) and a runway visual range not less than 300 m;
+
+3\. Category III (CAT III): a decision height lower than 30 m (100 ft) or no decision height and a runway visual range less than 300 m or no runway visual range limitations;
+
+(48) ‘visual aids’ means indicators and signalling devices, markings, lights, signs and markers or combinations thereof;
+
+(49) ‘wet runway’ means a runway whose surface is covered by any visible dampness or water up to and including 3 mm deep within the area intended to be used.
+
+## ANNEX II
+
+**Part Authority Requirements — Aerodromes (Part-ADR.AR)**
+
+**SUBPART A — GENERAL REQUIREMENTS (ADR.AR.A)**
+
+**ADR.AR.A.001 Scope**
+
+This Annex establishes requirements for the Competent Authorities responsible for:
+
+(a) the certification and oversight of aerodromes and aerodrome operators;
+
+(b) receiving declarations of capability and availability of the means to discharge the responsibilities by the organisations responsible for the provision of apron management services and their oversight.
+
+**ADR.AR.A.005 Competent Authority**
+
+The Competent Authority designated by the Member State in which an aerodrome is located shall be responsible for the:
+
+(a) certification and oversight of aerodromes and its aerodrome operators;
+
+(b) receiving declarations of capability and availability of the means to discharge the responsibilities by the organisations responsible for the provision of apron management services and their oversight.
+
+**ADR.AR.A.010 Oversight documentation**
+
+(a) The Competent Authority shall provide the relevant legislative acts, standards, rules, technical publications and related documents to its relevant personnel in order to perform their tasks and to discharge their responsibilities.
+
+(b) The Competent Authority shall make available legislative acts, standards, rules, technical publications and related documents to aerodrome operators, organisations responsible for the provision of AMS and other interested parties to facilitate their compliance with the applicable requirements.
+
+**ADR.AR.A.015 Means of compliance**
+
+(a) The Agency shall develop Acceptable Means of Compliance (AMC) that may be used to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules. When the Acceptable Means of Compliance are complied with, the related requirements of the Implementing Rules are met.
+
+(b) Alternative means of compliance may be used to establish compliance with the Implementing Rules.
+
+(c) The Competent Authority shall establish a system to consistently evaluate that the alternative means of compliance used by itself or by aerodrome operators or providers of apron management services under its oversight provide for compliance with Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(d) The Competent Authority shall evaluate the alternative means of compliance proposed by an aerodrome operator or an organisation responsible for the provision of AMS, in accordance with point ADR.OR.A.015, by analysing the documentation provided and, if considered necessary, conducting an inspection of the aerodrome operator, the aerodrome or the organisation responsible for the provision of AMS.
+
+When the Competent Authority finds that the alternative means of compliance proposed by the aerodrome operator or the provider of apron management services are in accordance with the Implementing Rules, it shall without undue delay:
+
+(1) notify the applicant that the alternative means of compliance may be implemented and, if applicable, amend the certificate or approval of the applicant accordingly;
+
+(2) inform the Agency of their content, including copies of the relevant documentation;
+
+(3) inform other Member States about alternative means of compliance that were accepted; and
+
+(4) inform the certified aerodromes and the organisation responsible for the provision of AMS under its oversight, as appropriate.
+
+(e) When the Competent Authority itself uses alternative means of compliance to achieve compliance with Regulation (EC) No 216/2008 and its Implementing Rules, it shall:
+
+(1) make them available to aerodrome operators and providers of apron management services under its oversight; and
+
+(2) without undue delay notify the Agency.
+
+The Competent Authority shall provide the Agency with a full description of the alternative means of compliance, including any revisions to procedures that may be relevant, as well as an assessment demonstrating that the Implementing Rules are met.
+
+**ADR.AR.A.025 Information to the Agency**
+
+(a) Where the Competent Authority has become aware of any significant problems with the implementation of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 2 ) and its delegated and implementing acts, it shall notify the Agency without undue delay, and in any case within 30 days from the time it has become aware of those significant problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 3 ) and the delegated and implementing acts adopted on the basis thereof, the Competent Authority shall provide the Agency with safety-significant information stemming from occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014 as soon as possible.
+
+(c) The competent authority of the Member State shall provide the Agency as soon as possible with safety-significant information stemming from the information security reports it has received pursuant to point IS.D.OR.230 of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645.
+
+**ADR.AR.A.030 Immediate reaction to a safety problem**
+
+(a) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the Competent Authority shall implement a system to appropriately collect, analyse and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any safety-relevant information received and without undue delay provide the relevant authority of the Member States and the Commission with any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to a safety problem involving aerodromes, aerodrome operators and organisations responsible for the provision of AMS, subject to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+(c) Upon receiving the information referred to in points (a) and (b), the Competent Authority shall take adequate measures to address the safety problem, including the issuing of safety directives in accordance with point ADR.AR.A.040.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to the aerodrome operators or organisations responsible for the provision of AMS which need to comply with them under Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. The Competent Authority shall also notify those measures to the Agency and, when combined action is required, the other Member States concerned.
+
+(e) Measures notified to an organisation responsible for the provision of AMS shall also be notified to the operator of the aerodrome where the service is provided.
+
+**ADR.AR.A.030A Immediate reaction to an information security incident or vulnerability with an impact on aviation safety**
+
+(a) The competent authority shall implement a system to appropriately collect, analyse, and disseminate information related to information security incidents and vulnerabilities with a potential impact on aviation safety that are reported by organisations. This shall be done in coordination with any other relevant authorities responsible for information security or cybersecurity within the Member State to increase the coordination and compatibility of reporting schemes.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety-significant information received in accordance with point ADR.AR.A.025(c), and without undue delay provide the Member States and the Commission with any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to an information security incident or vulnerability with a potential impact on aviation safety involving products, parts, non-installed equipment, persons or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the potential impact on aviation safety of the information security incident or vulnerability.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to all persons or organisations that shall comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, the competent authorities of the other Member States concerned.
+
+**ADR.AR.A.040 Safety directives**
+
+(a) The Competent Authority shall issue a safety directive if it has determined the existence of an unsafe condition requiring immediate action, including the showing of compliance with any amended or additional certification specification established by the Agency, which the Competent Authority finds is necessary.
+
+(b) A safety directive shall be forwarded to the aerodrome operators or providers of apron management services concerned, as appropriate, and shall contain, as a minimum, the following information:
+
+(1) the identification of the unsafe condition;
+
+(2) the identification of the affected design, equipment, or operation;
+
+(3) the actions required and their rationale, including the amended or additional certification specifications that have to be complied with;
+
+(4) the time limit for compliance with the required actions; and
+
+(5) its date of entry into force.
+
+(c) The Competent Authority shall forward a copy of the safety directive to the Agency.
+
+(d) The Competent Authority shall verify the compliance of aerodrome operators and providers of apron management services with the applicable safety directives.
+
+(e) Safety directives notified to the organisation responsible for the provision of AMS shall also be notified to the operator of the aerodrome where the service is provided.
+
+**SUBPART B — MANAGEMENT (ADR.AR.B)**
+
+**ADR.AR.B.005 Management system**
+
+(a) The Competent Authority shall establish and maintain a management system, including as a minimum:
+
+(1) documented policies and procedures to describe its organisation, means and methods to achieve compliance with Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. The procedures shall be kept up to date and serve as the basic working documents within that Competent Authority for all related tasks;
+
+(2) a sufficient number of personnel, including aerodrome inspectors, to perform its tasks and discharge its responsibilities. Such personnel shall be qualified to perform their allocated tasks and have the necessary knowledge, experience, initial, on-the-job and recurrent training to ensure continuing competence. A system shall be in place to plan the availability of personnel, in order to ensure the proper completion of all related tasks;
+
+(3) adequate facilities and office accommodation to perform the allocated tasks;
+
+(4) a formal process to monitor compliance of the management system with the relevant requirements and adequacy of the procedures, including the establishment of an internal audit process and a safety risk management process.
+
+(b) The Competent Authority shall, for each field of activity included in the management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The Competent Authority shall establish procedures for the participation in a mutual exchange of all necessary information and assistance with other competent authorities concerned, whether from the same Member State or from other Member States, including:
+
+(1) the relevant findings raised, and follow-up actions taken as a result of oversight of organisations responsible for the provision of AMS in the territory of a Member State, but having declared their activities with more than one competent authority or in more than one Member State;
+
+(2) information stemming from mandatory and voluntary occurrence reporting as required by points ADR.OR.C.030 and ADR.OR.F.055.
+
+(d) In addition to the requirements contained in point (a), the management system established and maintained by the competent authority shall comply with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**ADR.AR.B.010 Allocation of tasks**
+
+(a) Tasks related to the initial certification or continuing oversight of persons or organisations subject to Regulation (EC) No 216/2008 and its Implementing Rules shall be allocated by Member States only to qualified entities. When allocating tasks, the Competent Authority shall ensure that it has:
+
+(1) a system in place to initially and continuously asses that the qualified entity complies with Annex V to Regulation (EC) No 216/2008;
+
+this system and the results of the assessments shall be documented;
+
+(2) established a documented agreement with the qualified entity, approved by both parties at the appropriate management level, which clearly defines:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports and records to be provided;
+
+(iii) the technical conditions to be met in performing such tasks;
+
+(iv) the related liability coverage; and
+
+(v) the protection given to information acquired in carrying out such tasks.
+
+(b) The Competent Authority shall ensure that the internal audit process and safety risk management process required by ADR.AR.B.005(a)(4) covers all certification or continuing oversight tasks performed on its behalf.
+
+(c) With regard to the certification and oversight of the organisation’s compliance with point ADR.OR.D.005A, the competent authority may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Member State. When allocating tasks, the competent authority shall ensure that:
+
+(1) all aspects related to aviation safety are coordinated and taken into account by the qualified entity or relevant authority;
+
+(2) the results of the certification and oversight activities performed by the qualified entity or relevant authority are integrated in the overall certification and oversight files of the organisation;
+
+(3) its own information security management system established in accordance with point ADR.AR.B.005(e) covers all the certification and continuing oversight tasks performed on its behalf.
+
+**ADR.AR.B.015 Changes to the management system**
+
+(a) The Competent Authority shall have a system in place to identify changes that affect its capability to perform its tasks and discharge its responsibilities as laid down in Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. That system shall enable it to take action as appropriate to ensure that its management system remains adequate and effective.
+
+(b) The Competent Authority shall update its management system to reflect any changes to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof in a timely manner, to ensure effective implementation of its management systems.
+
+(c) The Competent Authority shall notify the Agency of changes affecting its capability to perform its tasks and discharge its responsibilities as laid down in Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+**ADR.AR.B.020 Record keeping**
+
+(a) The Competent Authority shall establish a system of record keeping providing for adequate storage, accessibility and reliable traceability of:
+
+(1) the management system’s documented policies and procedures;
+
+(2) training, qualification and authorisation of its personnel;
+
+(3) the allocation of tasks to qualified entities, covering the elements required by ADR.AR.B.010, as well as the details of tasks allocated;
+
+(4) certification process and continuing oversight of aerodromes and aerodrome operators;
+
+(5) declaration process and continuing oversight of providers of apron management services;
+
+(6) the documentation regarding cases of equivalent level of safety and special conditions contained in the certification basis, as well as any Deviation Acceptance and Action Document (DAAD);
+
+(7) the evaluation and notification to the Agency of alternative means of compliance proposed by aerodrome operators and providers of apron management services and the assessment of alternative means of compliance used by the Competent Authority itself;
+
+(8) findings, corrective actions and date of action closure, and observations;
+
+(9) enforcement measures taken;
+
+(10) safety information and follow-up measures;
+
+(11) the use of flexibility provisions in accordance with Article 71 of Regulation (EU) 2018/1139.
+
+(b) The Competent Authority shall maintain a list of all certificates it issued and declarations it received.
+
+(c) Records related to the certification of an aerodrome and an aerodrome operator, or the declaration of a provider of apron management services shall be kept for the lifespan of the certificate or declaration, as appropriate.
+
+(d) Records relating to points (a)(1) to (a)(3) and points (a)(7) to (a)(11) shall be kept for a minimum period of five years, subject to applicable data protection law.
+
+**SUBPART C — OVERSIGHT, CERTIFICATION AND ENFORCEMENT (ADR.AR.C)**
+
+**ADR.AR.C.005 Oversight**
+
+(a) The Competent Authority shall verify:
+
+(1) compliance with the certification basis and all requirements applicable to aerodromes and aerodrome operators prior to the issue of an approval or certificate;
+
+(2) continued compliance with the certification basis and applicable requirements of aerodromes and aerodrome operators or organisations responsible for the provision of AMS; and
+
+(3) implementation of appropriate safety measures as defined in ADR.AR.A.030(c) and (d).
+
+(b) This verification shall:
+
+(1) be supported by documentation specifically intended to provide personnel responsible for safety oversight with guidance to perform their functions;
+
+(2) provide the aerodrome operators and providers of apron management services concerned with the results of safety oversight activity;
+
+(3) be based on audits and inspections, including unannounced inspections, where appropriate; and
+
+(4) provide the Competent Authority with the evidence needed in case further action is required, including the measures foreseen by ADR.AR.C.055.
+
+(c) The scope of oversight shall take into account the results of past oversight activities and the safety priorities identified.
+
+(d) The Competent Authority shall collect and process any information deemed useful for oversight, including unannounced inspections, as appropriate.
+
+(e) Within its oversight powers, the Competent Authority may decide to require prior approval for any obstacles, developments and other activities within the areas monitored by the aerodrome operator in accordance with ADR.OPS.B.075, which may endanger safety and adversely affect the operation of an aerodrome.
+
+(f) With regard to the certification and oversight of the organisation’s compliance with point ADR.OR.D.005A , in addition to complying with points (a) to (e) of this point, the competent authority shall review any approval granted under point IS.D.OR.200(e) of the Annex to Delegated Regulation (EU) 2022/1645 following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+**ADR.AR.C.010 Oversight programme**
+
+(a) The Competent Authority shall for each aerodrome operator and organisation responsible for the provision of AMS:
+
+(1) establish and maintain an oversight programme covering the oversight activities required by ADR.AR.C.005;
+
+(2) apply an appropriate oversight planning cycle, not exceeding 48 months.
+
+(b) The oversight programme shall include within each oversight planning cycle, audits and inspections, including unannounced inspections, as appropriate.
+
+(c) The oversight programme and planning cycle shall reflect the safety performance of the aerodrome operator or the organisation responsible for the provision of AMS respectively, as well as the risk exposure of the aerodrome.
+
+(d) The oversight programme shall include records of the dates when audits and inspections are due and when audits and inspections have been carried out.
+
+**ADR.AR.C.015 Initiation of certification process**
+
+(a) Upon receiving an application for the initial issuance of a certificate, the Competent Authority shall assess the application and shall verify compliance with the applicable requirements.
+
+(b) In case of an existing aerodrome, the Competent Authority shall prescribe the conditions under which the aerodrome operator shall operate during the certification period, unless the Competent Authority determines that the operation of the aerodrome needs to be suspended. The Competent Authority shall inform the aerodrome operator of the expected schedule for the certification process and conclude the certification within the shortest time period practicable.
+
+(c) The Competent Authority shall establish and notify the applicant of the certification basis in accordance with ADR.AR.C.020.
+
+**ADR.AR.C.020 Certification basis**
+
+The certification basis is to be established and notified to an applicant by the Competent Authority and shall consist of:
+
+(a) the certification specifications issued by the Agency which the Competent Authority finds applicable to the design and the type of operation of the aerodrome and which are effective on the date of application for that certificate, unless:
+
+(1) the applicant elects compliance with later effective amendments; or
+
+(2) the Competent Authority finds that compliance with such later effective amendments is necessary;
+
+(b) any provision for which an equivalent level of safety has been accepted by the Competent Authority to be demonstrated by the applicant; and
+
+(c) any special condition prescribed in accordance with ADR.AR.C.025, that the Competent Authority finds necessary to be included in the certification basis.
+
+**ADR.AR.C.025 Special conditions**
+
+(a) The Competent Authority shall prescribe special detailed technical specifications, named special conditions, for an aerodrome, if the related certification specifications issued by the Agency referred to in point ADR.AR.C.020(a) are inadequate or inappropriate, to ensure compliance with the essential requirements of Annex Va to Regulation (EC) No 216/2008, because:
+
+(1) the certification specifications cannot be met due to physical, topographical or similar limitations related to the location of the aerodrome;
+
+(2) the aerodrome has novel or unusual design features; or
+
+(3) experience from the operation of that aerodrome or other aerodromes having similar design features has shown that safety may be endangered.
+
+(b) The special conditions shall contain such technical specifications, including limitations or procedures to be complied with, as the Competent Authority finds necessary to ensure compliance with the essential requirements set out in Annex Va to Regulation (EC) No 216/2008.
+
+**ADR.AR.C.035 Issuance of certificates**
+
+(a) The Competent Authority may require any inspection, test, safety assessment, or exercise it finds necessary before issuing the certificate.
+
+(b) The Competent Authority shall issue either:
+
+(1) a single aerodrome certificate; or
+
+(2) two separate certificates, one for the aerodrome and one for the aerodrome operator.
+
+(c) The Competent Authority shall issue the certificate(s) referred to in point (b) when the aerodrome operator has demonstrated to the satisfaction of the Competent Authority compliance with points ADR.OR.B.025 and ADR.OR.E.005. Where the aerodrome operator changes, the new aerodrome operator shall not be required to demonstrate compliance with the requirements set out in point ADR.OR.B.025(a)(1) and point ADR.OR.E.005, if those requirements concern elements that remain unchanged.
+
+(d) The certificate shall be considered to include the aerodrome’s certification basis, the aerodrome manual, and, if relevant, any other operating conditions or limitations prescribed by the Competent Authority and any Deviation Acceptance and Action Documents (DAAD).
+
+(e) The certificate shall be issued for an unlimited duration. The privileges of the activities that the aerodrome operator is approved to conduct shall be specified in the terms of the certificate attached to it.
+
+(f) Where responsibilities are attributed to other relevant organisations, they should be clearly identified and listed.
+
+(g) Findings, other than level 1 and which have not been closed prior to the date of certification, shall be safety assessed and mitigated as necessary and a corrective action plan for the closing of the finding shall be approved by the Competent Authority.
+
+(h) To enable an aerodrome operator to implement changes without prior approval of the Competent Authority in accordance with ADR.OR.B.040(d), the Competent Authority shall approve a procedure defining the scope of such changes and describing how such changes will be managed and notified.
+
+**ADR.AR.C.040 Changes – aerodrome operator**
+
+(a) Upon receiving an application for a change, in accordance with ADR.OR.B.40, that requires prior approval, the Competent Authority shall assess the application and, if relevant, notify the aerodrome operator of:
+
+(1) the applicable certification specifications issued by the Agency, which are applicable to the proposed change and which are effective on the date of the application, unless:
+
+(a) the applicant elects compliance with later effective amendments; or
+
+(b) the Competent Authority finds that compliance with such later effective amendments is necessary;
+
+(2) any other certification specification issued by the Agency that the Competent Authority finds is directly related to the proposed change;
+
+(3) any special condition, and amendment to special conditions, prescribed by the Competent Authority in accordance with point ADR.AR.C.025, the Competent Authority finds is necessary; and
+
+(4) the amended certification basis, if affected by the proposed change.
+
+(b) The Competent Authority shall approve the change when the aerodrome operator has demonstrated, to the satisfaction of the Competent Authority, compliance with the requirements in ADR.OR.B.040 and, if applicable, with ADR.OR.E.005.
+
+(c) If the approved change affects the terms of the certificate, the Competent Authority shall amend them.
+
+(d) The Competent Authority shall approve any conditions under which the aerodrome operator shall operate during the change.
+
+(e) Without prejudice to any additional enforcement measures, when the aerodrome operator implements changes requiring prior approval without having received Competent Authority approval as defined in (a), the Competent Authority shall consider the need to suspend, limit or revoke the certificate.
+
+(f) For changes not requiring prior approval, the Competent Authority shall assess the information provided in the notification sent by the aerodrome operator in accordance with ADR.OR.B.040(d) to verify their appropriate management and verify their compliance with the certification specifications and other appropriate requirements applicable to the change. In case of any non-compliance, the Competent Authority shall:
+
+(1) notify the aerodrome operator about the non-compliance and request further changes; and
+
+(2) in case of level 1 or level 2 findings, act in accordance with point ADR.AR.C.055.
+
+**ADR.AR.C.040A Changes to the information security management system**
+
+(a) With regard to changes managed and notified to the competent authority in accordance with the procedure set out in point IS.D.OR.255(a) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point ADR.AR.C.005. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point ADR.AR.C.055.
+
+(b) With regard to other changes requiring an application for approval in accordance with point IS.D.OR.255(b) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+**ADR.AR.C.050 Declaration of organisations responsible for the provision of AMS and notification of a change**
+
+(a) Upon receiving a declaration from an organisation responsible for the provision of AMS that intends to provide such a service at an aerodrome, or upon receiving a notification of a change to the information contained in the declaration, the Competent Authority shall acknowledge receipt of the declaration or the notification of a change, and shall verify that the declaration or the notification contains all the information required by Annex III (Part-ADR.OR).
+
+(b) If the declaration or the notification of a change does not contain all the information required under point ADR.OR.F.005 of Annex III, or contains information that is not in accordance with the applicable requirements, the Competent Authority shall notify the organisation responsible for the provision of AMS and the aerodrome operator where such service is provided about the non-compliance and request further information. If deemed necessary the competent authority shall carry out an inspection of the organisation. If the non-compliance is confirmed, the Competent Authority shall take action as defined in point ADR.AR.C.055 of this Annex.
+
+(c) The Competent Authority shall keep a register of the declarations and of the notifications of a change of the organisation responsible for the provision of AMS under its oversight.
+
+**ADR.AR.C.055 Findings, observations, corrective actions and enforcement measures**
+
+(a) The Competent Authority for oversight in accordance with ADR.AR.C.005(a) shall have a system to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the Competent Authority when any significant non-compliance is detected with the certification basis of the aerodrome, the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules, with the aerodrome operator’s or the apron management services provider’s procedures and manuals, with the terms of the certificate or certificate or with the content of a declaration which lowers safety or seriously endangers safety.
+
+The level 1 finding shall include:
+
+(1) failure to give the Competent Authority access to the aerodrome and aerodrome operator’s or the apron management services provider’s facilities as defined in ADR.OR.C.015 during normal operating hours and after two written requests;
+
+(2) obtaining or maintaining the validity of a certificate by falsification of submitted documentary evidence;
+
+(3) evidence of malpractice or fraudulent use of a certificate; and
+
+(4) the lack of an accountable manager.
+
+(c) A level 2 finding shall be issued by the Competent Authority when any non-compliance is detected with the certification basis of the aerodrome, the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules, with the aerodrome operator’s or the apron management services provider’s procedures and manuals, with the terms of the certificate or the certificate or with the content of a declaration which could lower or possibly hazard safety.
+
+(d) When a finding is detected, during oversight or by any other means, the Competent Authority shall, without prejudice to any additional action required by Regulation (EC) No 216/2008 and its Implementing Rules, communicate the finding to the aerodrome operator or the provider of apron management services in writing and request corrective action to address the non-compliance(s) identified.
+
+(1) In the case of level 1 findings, the Competent Authority shall take immediate and appropriate action to prohibit or limit activities, and if appropriate, it shall take action to revoke the certificate or to deregister the declaration, or to limit or suspend the certificate or declaration in whole or in part, depending upon the extent of the finding, until successful corrective action has been taken by the aerodrome operator or by the provider of apron management services.
+
+(2) In the case of level 2 findings, the Competent Authority shall:
+
+(a) grant the aerodrome operator or the provider of apron management services a corrective action implementation period included in an action plan appropriate to the nature of the finding; and
+
+(b) assess the corrective action and implementation plan proposed by the aerodrome operator or the provider of apron management services and, if the assessment concludes that they are sufficient to address the non-compliance(s), accept these.
+
+(3) Where the aerodrome operator or the provider of apron management services fails to submit an acceptable corrective action plan, or to perform the corrective action within the time period accepted or extended by the Competent Authority, the finding shall be raised to a level 1 finding, and action taken as laid down in point (d)(1).
+
+(4) The Competent Authority shall record all findings it has raised and where applicable, the enforcement measures it has applied, as well as all corrective actions and date of action closure for findings.
+
+(e) For those cases not requiring level 1 or level 2 findings, the Competent Authority may issue observations.
+
+(f) Any findings issued with regard to an organisation responsible for the provision of AMS or any observations made to the organisation responsible for the provision of AMS shall be notified by the Competent Authority to the operator of the aerodrome where such service is provided.
+
+**ADR.AR.C.060 Change of aerodrome operator**
+
+Upon receiving an application for the change of an aerodrome operator, in accordance with point ADR.OR.B.060, the Competent Authority shall:
+
+(a) issue the new certificate(s) in accordance with point ADR.AR.C.035;
+
+(b) revoke the previous certificate(s).
+
+## ANNEX III
+
+**Part Organisation Requirements (Part-ADR.OR)**
+
+**SUBPART A — GENERAL REQUIREMENTS (ADR.OR.A)**
+
+**ADR.OR.A.005 Scope**
+
+This Annex establishes the requirements to be followed by:
+
+(a) an aerodrome operator subject to Regulation (EC) No 216/2008 with respect to its certification, management, manuals and other responsibilities; and
+
+(b) a provider of apron management services.
+
+**ADR.OR.A.010 Competent Authority**
+
+For the purpose of this Part, the Competent Authority shall be the one designated by the Member State where the aerodrome is located.
+
+**ADR.OR.A.015 Means of compliance**
+
+(a) Alternative means of compliance to those adopted by the Agency may be used by an aerodrome operator or an apron management service provider to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(b) When an aerodrome operator or an apron management service provider wishes to use an alternative means of compliance to the Acceptable Means of Compliance (AMC) adopted by the Agency to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules, it shall, prior to implementing it, provide the Competent Authority with a full description of the alternative means of compliance. The description shall include any revisions to manuals or procedures that may be relevant, as well as an assessment demonstrating that the Implementing Rules are met.
+
+The aerodrome operator or the provider of apron management services may implement these alternative means of compliance subject to prior approval by the Competent Authority and upon receipt of the notification, as prescribed in ADR.AR.A.015(d).
+
+(c) Where apron management services are not provided by the aerodrome operator itself, the use of alternative means of compliance by providers of such services in accordance with (a) and (b), shall also require prior agreement by the operator of the aerodrome where such services are provided.
+
+**SUBPART B – CERTIFICATION – AERODROMES AND AERODROME OPERATORS (ADR.OR.B)**
+
+**ADR.OR.B.005 Certification obligations of aerodromes and aerodrome operators**
+
+Prior to commencing the operation of an aerodrome or when an exemption in accordance with Article 5 has been revoked, the aerodrome operator shall obtain the applicable certificate(s) issued by the Competent Authority.
+
+**ADR.OR.B.015 Application for a certificate**
+
+(a) The application for a certificate shall be made in a form and manner established by the Competent Authority.
+
+(b) The applicant shall provide the Competent Authority with the following:
+
+(1) its official name and business name, address, and mailing address;
+
+(2) information and data regarding:
+
+(i) the location of the aerodrome;
+
+(ii) the type of operations at the aerodrome and the associated airspace; and
+
+(iii) the design and facilities of the aerodrome, in accordance with the applicable certification specifications established by the Agency;
+
+(3) any proposed deviations from the identified applicable certification specifications established by the Agency;
+
+(4) documentation demonstrating how it will comply with the applicable requirements established in Regulation (EC) No 216/2008 and its Implementing Rules. Such documentation shall include a procedure, contained in the aerodrome manual, describing how changes not requiring prior approval will be managed and notified to the Competent Authority; subsequent changes to this procedure shall require prior approval by the Competent Authority;
+
+(5) evidence of adequacy of resources to operate the aerodrome in accordance with the applicable requirements;
+
+(6) documented evidence showing the relationship of the applicant with the aerodrome owner and/or the land owner;
+
+(7) the name of and relevant information about the accountable manager and the other nominated persons required by ADR.OR.D.015; and
+
+(8) a copy of the aerodrome manual required by ADR.OR.E.005.
+
+(c) If acceptable to the Competent Authority, information under points (7) and (8) may be provided at a later stage determined by the Competent Authority, but prior to the issuance of the certificate.
+
+**ADR.OR.B.025 Demonstration of compliance**
+
+(a) The aerodrome operator shall:
+
+(1) perform and document all actions, inspections, tests, safety assessments or exercises necessary, and shall demonstrate to the Competent Authority:
+
+(i) compliance with the notified certification basis, the certification specifications applicable to a change, any safety directive, as appropriate, and the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules;
+
+(ii) that the aerodrome, as well as its obstacle limitation and protection surfaces and other areas associated with the aerodrome, have no features or characteristics making it unsafe for operation; and
+
+(iii) that the flight procedures of the aerodrome and the associated changes thereto, have been established in accordance with Commission Implementing Regulation (EU) 2017/373 ( 4 ).
+
+(2) provide to the Competent Authority the means by which compliance has been demonstrated; and
+
+(3) declare to the Competent Authority its compliance with point (a)(1).
+
+(b) Relevant design information, including drawings, inspection, test and other relevant reports, shall be held and kept by the aerodrome operator at the disposal of the Competent Authority, in accordance with the provisions of ADR.OR.D.035 and provided on request to the Competent Authority.
+
+**ADR.OR.B.030 Terms of the certificate and privileges of the certificate holder**
+
+An aerodrome operator shall comply with the scope and privileges defined in the terms of the certificate attached to it.
+
+**ADR.OR.B.035 Continued validity of a certificate**
+
+(a) A certificate shall remain valid subject to:
+
+(1) the aerodrome operator remaining in compliance with the relevant requirements of Regulation (EC) No 216/2008, and its Implementing Rules, and the aerodrome remaining in compliance with the certification basis, taking into account the provisions related to the handling of findings as specified under ADR.OR.C.020;
+
+(2) the Competent Authority being granted access to the aerodrome operator’s organisation as defined in ADR.OR.C.015 to determine continued compliance with the relevant requirements of Regulation (EC) No 216/2008 and its Implementing Rules; and
+
+(3) the certificate not being surrendered or revoked.
+
+(b) Upon revocation or surrender, the certificate shall be returned to the Competent Authority without delay.
+
+**ADR.OR.B.040 Changes**
+
+(a) Any change:
+
+(1) affecting the terms of the certificate, its certification basis and safety-critical aerodrome equipment; or
+
+(2) significantly affecting elements of the aerodrome operator’s management system as required in ADR.OR.D.005(b)
+
+shall require prior approval by the Competent Authority.
+
+(b) For other changes requiring prior approval in accordance with Regulation (EC) No 216/2008 and its Implementing Rules, the aerodrome operator shall apply for and obtain an approval issued by the Competent Authority.
+
+(c) The application for a change in accordance with point (a) or (b) shall be submitted before any such change takes place, in order to enable the Competent Authority to determine continued compliance with Regulation (EC) No 216/2008 and its Implementing Rules and to amend, if necessary, the certificate and related terms of the certificate attached to it.
+
+The change shall only be implemented upon receipt of formal approval by the Competent Authority in accordance with ADR.AR.C.040.
+
+During the changes, the aerodrome operator shall operate under the conditions approved by the Competent Authority.
+
+(d) Changes not requiring prior approval shall be managed and notified to the Competent Authority as defined in the procedure approved by the Competent Authority in accordance with ADR.AR.C.035(h).
+
+(e) The aerodrome operator shall provide the Competent Authority with the relevant documentation in accordance with point (f) and ADR.OR.E.005.
+
+(f) As part of its management system, as defined in ADR.OR.D.005, the aerodrome operator proposing a change to the aerodrome, its operation, its organisation or its management system shall:
+
+(1) determine the interdependencies with any affected parties, plan and conduct a safety assessment in coordination with these organisations;
+
+(2) align assumptions and mitigations with any affected parties, in a systematic way;
+
+(3) ensure a comprehensive assessment of the change including any necessary interactions; and
+
+(4) ensure that complete and valid arguments, evidence and safety criteria are established and documented to support the safety assessment, and that the change supports the improvement of safety whenever reasonably practicable.
+
+**ADR.OR.B.050 Continuing compliance with the Agency’s certification specifications**
+
+The aerodrome operator, following an amendment of the certification specifications established by the Agency, shall:
+
+(a) perform a review to identify any certification specifications which are applicable to the aerodrome; and
+
+(b) if relevant, initiate a change process in accordance with ADR.OR.B.040 and implement the necessary changes at the aerodrome.
+
+**ADR.OR.B.060 Change of aerodrome operator**
+
+(a) The current aerodrome operator shall notify to the Competent Authority the date on which the transfer will occur.
+
+(b) The new operator to whom the operation of the aerodrome is to be transferred shall apply for a certificate to the competent authority, prior to the date on which the transfer will occur, in accordance with point ADR.OR.B.015.
+
+(c) The new operator to whom the operation of the aerodrome is to be transferred shall demonstrate compliance in accordance with point ADR.OR.B.025. The new aerodrome operation shall not be required to demonstrate compliance with the requirements set out in point ADR.OR.B.025(a)(1) and point ADR.OR.E.005, to the extent those requirements concern elements that remain unchanged.
+
+**ADR.OR.B.065 Termination of operation**
+
+An operator intending to terminate the operation of an aerodrome shall:
+
+(a) notify the Competent Authority as soon as possible;
+
+(b) provide such information to the appropriate Aeronautical Information Service provider;
+
+(c) surrender the certificate to the Competent Authority upon the date of termination of operation; and
+
+(d) ensure that appropriate measures have been taken to avoid the unintended use of the aerodrome by aircraft, unless the Competent Authority has approved the use of the aerodrome for other purposes.
+
+**ADR.OR.B.070 Termination of the provision of apron management service**
+
+The aerodrome operator shall:
+
+(a) take appropriate measures to ensure that safety risks that result from the termination of operation have been assessed and mitigated;
+
+(b) provide information on the measures referred to in point (a) to the appropriate aeronautical information service provider.
+
+**SUBPART C — ADDITIONAL AERODROME OPERATOR RESPONSIBILITIES (ADR.OR.C)**
+
+**ADR.OR.C.005 Aerodrome operator responsibilities**
+
+(a) The aerodrome operator is responsible for the safe operation and maintenance of the aerodrome in accordance with:
+
+(1) Regulation (EC) No 216/2008 and its Implementing Rules;
+
+(2) the terms of its certificate;
+
+(3) the content of the aerodrome manual; and
+
+(4) any other manuals for the aerodrome equipment available at the aerodrome, as applicable.
+
+(b) The aerodrome operator shall ensure directly, or coordinate through arrangements as required with the accountable entities providing the following services:
+
+(1) the provision of air navigation services appropriate to the level of traffic and the operating conditions at the aerodrome; and
+
+(2) the design and maintenance of the flight procedures, in accordance with the applicable requirements.
+
+(c) The aerodrome operator shall coordinate with the Competent Authority to ensure that relevant information for the safety of aircraft is contained in the aerodrome manual and is published where appropriate. This shall include:
+
+(1) exemptions or derogations granted from the applicable requirements;
+
+(2) provisions for which an equivalent level of safety was accepted by the Competent Authority as part of the certification basis; and
+
+(3) special conditions and limitations with regard to the use of the aerodrome.
+
+(d) If an unsafe condition develops at the aerodrome, the aerodrome operator shall, without undue delay, take all necessary measures to ensure that those parts of the aerodrome found to endanger safety are not used by aircraft.
+
+(e) The aerodrome operator, in order to ensure the safe operation of aircraft at the aerodrome, shall provide and maintain, directly or through arrangements with third parties, visual and non-visual aids, meteorological equipment and any other equipment, commensurate with the type of operations conducted at the aerodrome.
+
+**ADR.OR.C.015 Access**
+
+For the purpose of determining compliance with the relevant requirements in Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, an aerodrome operator shall grant access to any person authorised by the Competent Authority to:
+
+(a) any facility, document, records, data, procedures or any other material relevant to its activity subject to certification or declaration, whether it is contracted or not; and
+
+(b) perform or witness any action, inspection, test, assessment or exercise the Competent Authority finds is necessary.
+
+**ADR.OR.C.020 Findings and corrective actions**
+
+After receipt of a notification of findings, the aerodrome operator shall:
+
+(a) identify the root cause of the non-compliance;
+
+(b) define a corrective action plan; and
+
+(c) demonstrate the corrective action implementation to the satisfaction of the Competent Authority within the period agreed with that authority as defined in ADR.AR.C.055(d).
+
+**ADR.OR.C.025 Immediate reaction to a safety problem – compliance with safety directives**
+
+The aerodrome operator shall implement any safety measures, including safety directives, taken by the Competent Authority in accordance with points ADR.AR.A.030(c) and ADR.AR.A.040 of Annex II.
+
+**ADR.OR.C.030 Occurrence reporting**
+
+(a) As part of its management system, the aerodrome operator shall establish and maintain an occurrence-reporting system, including mandatory and voluntary reporting. The aerodrome operator shall ensure that the system complies with the applicable requirements of Regulation (EU) No 376/2014 and Regulation (EU) 2018/1139, as well as with the delegated and implementing acts adopted on the basis of those Regulations.
+
+(b) The aerodrome operator shall report to the competent authority and to any other organisation required to be informed by the Member State any safety-related event or condition that endangers or, if not corrected or addressed, could endanger an aircraft, its occupants, or any other person, and in particular any accident or serious incident.
+
+(c) In addition to reports submitted in accordance with point (b), the aerodrome operator shall report to the competent authority and the organisation responsible for the design of the aerodrome equipment any malfunction, technical defect, exceedance of technical limitations, occurrence or other irregular circumstance that has or may have endangered an aircraft, its occupants or any other person and has not resulted in an accident or serious incident.
+
+(d) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, reports referred to in point (c) shall:
+
+(1) be made as soon as practicable, but in any case within 72 hours after the aerodrome operator has become aware of the event or condition to which the report relates, unless exceptional circumstances prevent that;
+
+(2) be made in a form and manner established by the Competent Authority;
+
+(3) contain all pertinent information about the condition known to the aerodrome operator.
+
+(e) Notwithstanding Regulation (EU) No 376/2014 and its delegated and implementing acts, for reports required by point (c), the aerodrome operator shall submit a follow-up report providing details of actions that the aerodrome operator intends to take to prevent similar occurrences in the future. The follow-up report shall be submitted as soon as those actions have been identified and it shall:
+
+(1) be sent to the relevant entities initially reported to in accordance with points (b) and (c);
+
+(2) be made in a form and manner established by the Competent Authority.
+
+**ADR.OR.C.040 Prevention of fire**
+
+The aerodrome operator shall establish procedures to prohibit:
+
+(a) smoking within the movement area, other operational areas of the aerodrome, or areas of the aerodrome where fuel or other flammable material is stored;
+
+(b) display of an open flame or undertaking of an activity that would create a fire hazard within:
+
+(1) areas of the aerodrome where fuel or other flammable material is stored;
+
+(2) the movement area or other operational areas of the aerodrome, unless authorised by the aerodrome operator.
+
+**ADR.OR.C.045 Use of alcohol, psychoactive substances and medicines**
+
+(a) The aerodrome operator shall establish procedures on the level of consumption of alcohol, psychoactive substances and medicines by:
+
+(1) personnel involved in the operation, rescue and firefighting, and maintenance of the aerodrome;
+
+(2) unescorted persons operating on the movement area or other operational areas of the aerodrome.
+
+(b) These procedures shall include the requirements that such persons shall:
+
+(1) not consume alcohol during their duty period;
+
+(2) not perform any duties under the influence:
+
+(i) of alcohol, or any psychoactive substance; or
+
+(ii) any medicine that may have an effect on his/her abilities in a manner contrary to safety.
+
+**SUBPART D – MANAGEMENT – AERODROME OPERATORS (ADR.OR.D)**
+
+**ADR.OR.D.005 Management system**
+
+(a) The aerodrome operator shall implement and maintain a management system integrating a safety management system.
+
+(b) The management system shall include:
+
+(1) clearly defined lines of responsibility and accountability throughout the aerodrome operator, including a direct accountability for safety on the part of senior management;
+
+(2) a description of the overall philosophies and principles of the aerodrome operator with regard to safety, referred to as the safety policy, signed by the accountable manager;
+
+(3) a formal process that ensures that hazards in operations are identified;
+
+(4) a formal process that ensures analysis, assessment and mitigation of the safety risks in aerodrome operations;
+
+(5) the means to verify the safety performance of the aerodrome operator’s organisation in reference to the safety performance indicators and safety performance targets of the safety management system, and to validate the effectiveness of safety risk controls;
+
+(6) a formal process to:
+
+(i) identify changes within the aerodrome operator’s organisation, management system, the aerodrome or its operation which may affect established processes, procedures and services;
+
+(ii) describe the arrangements to ensure safety performance before implementing changes; and
+
+(iii) eliminate or modify safety risk controls that are no longer needed or effective due to changes in the operational environment;
+
+(7) a formal processes to review the management system referred to in paragraph (a), identify the causes of substandard performance of the safety management system, determine the implications of such substandard performance in operations, and eliminate or mitigate such causes;
+
+(8) a safety training programme that ensures that personnel involved in the operation, rescue and firefighting, maintenance and management of the aerodrome are trained and competent to perform the safety management system duties;
+
+(9) formal means for safety communication that ensures that personnel are fully aware of the safety management system, conveys safety critical information, and explains why particular safety actions are taken and why safety procedures are introduced or changed;
+
+(10) coordination of the safety management system with the aerodrome emergency response plan; and coordination of the aerodrome emergency response plan with the emergency response plans of those organisations it must interface with during the provision of aerodrome services; and
+
+(11) a function to monitor compliance of the organisation with the relevant requirements and adequacy of the procedures; compliance monitoring shall include a feedback system of findings to the accountable manager to ensure effective implementation of corrective actions, as necessary.
+
+(c) The aerodrome operator shall document all management system key processes.
+
+(d) The management system shall be proportionate to the size of the organisation and its activities, taking into account the hazards and associated risks inherent in these activities.
+
+(e) In the case that the aerodrome operator holds also a certificate to provide air navigation services, it shall ensure that the management system covers all activities in the scope of its certificates.
+
+**ADR.OR.D.005A Information security management system**
+
+The aerodrome operator shall establish, implement and maintain an information security management system in accordance with Delegated Regulation (EU) 2022/1645 ( 5 ) in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**ADR.OR.D.007 Management of aeronautical data and aeronautical information**
+
+(a) As part of its management system, the aerodrome operator shall implement and maintain a quality management system covering the following activities:
+
+(1) its aeronautical data activities;
+
+(2) its aeronautical information provision activities.
+
+(b) As part of its management system, the aerodrome operator shall establish a security management system to ensure the security of operational data it receives, or produces, or otherwise employs, so that access to that operational data is restricted only to those authorised.
+
+(c) The security management system shall define the following elements:
+
+(1) the procedures relating to data security risk assessment and mitigation, security monitoring and improvement, security reviews and lesson dissemination;
+
+(2) the means designed to detect security breaches and to alert personnel with appropriate security warnings;
+
+(3) the means of controlling the effects of security breaches and of identifying recovery action and mitigation procedures to prevent reoccurrence.
+
+(d) The aerodrome operator shall ensure the security clearance of its personnel with respect to aeronautical data security.
+
+(e) The aspects related to information security shall be managed in accordance with point ADR.OR.D.005A.
+
+**ADR.OR.D.010 Contracted activities**
+
+(a) Contracted activities include all activities within the aerodrome operator’s scope in accordance with the terms of the certificate that are performed by other organisations either itself certified to carry out such activity or if not certified, working under the aerodrome operator’s approval. The aerodrome operator shall ensure that when contracting or purchasing any part of its activity, the contracted or purchased service or equipment or system conforms to the applicable requirements.
+
+(b) When an aerodrome operator contracts any part of its activity to an organisation that is not itself certified in accordance with this Part to carry out such activity, the contracted organisation shall work under the approval and oversight of the aerodrome operator. The aerodrome operator shall ensure that the Competent Authority is given access to the contracted organisation, to determine continued compliance with the applicable requirements.
+
+**ADR.OR.D.015 Personnel requirements**
+
+(a) The aerodrome operator shall appoint an accountable manager, who has the authority for ensuring that all activities can be financed and carried out in accordance with the applicable requirements. The accountable manager shall be responsible for establishing and maintaining an effective management system.
+
+(b) The aerodrome operator shall nominate persons responsible for the management and supervision of the following areas:
+
+(1) operational services of the aerodrome; and
+
+(2) maintenance of the aerodrome.
+
+(c) The aerodrome operator shall nominate a person or group of persons responsible for the development, maintenance and day-to-day management of the safety management system.
+
+Those persons shall act independently of other managers within the organisation, shall have direct access to the accountable manager and to appropriate management for safety matters and shall be responsible to the accountable manager.
+
+(d) The aerodrome operator shall have sufficient and qualified personnel for the planned tasks and activities to be performed in accordance with the applicable requirements.
+
+(e) The aerodrome operator shall assign a sufficient number of personnel supervisors to defined duties and responsibilities, taking into account the structure of the organisation and the number of personnel employed.
+
+(f) The aerodrome operator shall ensure that personnel involved in the operation, maintenance and management of the aerodrome are adequately trained in accordance with the training programme.
+
+**ADR.OR.D.017 Training and proficiency check programmes**
+
+(a) The aerodrome operator shall establish and implement a training programme for personnel involved in the operation, maintenance and management of the aerodrome, to ensure their continued competence, and that they are aware of the rules and procedures relevant to operation of the aerodrome and the relationship of their functions and tasks to the aerodrome operation as a whole.
+
+(b) The training referred to in point (a) shall:
+
+(1) include initial, recurrent, refresher and continuation training;
+
+(2) be appropriate to the functions and tasks for the personnel;
+
+(3) include the applicable operational procedures and requirements of the aerodrome, as well as driving.
+
+(c) The aerodrome operator shall ensure that any other personnel, including personnel of other organisations that operate or provide services at the aerodrome, allowed unescorted access to the movement area and other operational areas of the aerodrome, is adequately trained and qualified for such unescorted access.
+
+(d) The training referred to in point (c) shall:
+
+(1) include initial, recurrent, refresher and continuation training;
+
+(2) include the applicable operational procedures and requirements of the aerodrome, as well as driving.
+
+(e) The aerodrome operator shall ensure that personnel referred to in points (a) and (c) have successfully completed the necessary initial training prior to being allowed:
+
+(1) to perform their duties unattended;
+
+(2) unescorted access to the movement area and other operational areas of the aerodrome.
+
+The initial training shall include theoretical and practical training of adequate duration and competence assessments of the personnel following the provision of the training.
+
+(f) In order to continue to perform their duties unattended and being allowed unescorted access to the movement area and other operational areas of the aerodrome and unless otherwise specified in this Part and Part-ADR.OPS, the aerodrome operator shall ensure that personnel referred to in points (a) and (c) have been trained on the rules and procedures relevant to operation of the aerodrome by successfully completing:
+
+(1) recurrent training, at intervals not exceeding 24 months since the completion of their initial training. If the recurrent training is undertaken within the last 3 calendar months of the interval, the new interval period shall be counted from the expiry date of the original interval;
+
+(2) refresher training, prior to performing their duties unattended or being allowed unescorted access to the movement area or other operational area of the aerodrome, when they are absent from their duties for a period not less than 3 and not more than 12 consecutive months. In case of absence beyond 12 consecutive months, such personnel shall undergo initial training in accordance with point (c);
+
+(3) continuation training due to changes to their operating environment or assigned tasks, as necessary.
+
+(g) The aerodrome operator shall establish and implement a proficiency check programme for personnel referred to in point (a), and ensure for personnel referred to in point (c) that they have demonstrated their capabilities in the performance of their tasks, in accordance with a proficiency check programme, in order to ensure:
+
+(1) their continued competence;
+
+(2) that they are aware of the rules and procedures relevant to their functions and tasks.
+
+Unless otherwise specified in this Part and Part-ADR.OPS, the aerodrome operator shall ensure that persons referred to in points (a) and (c) undergo proficiency checks at intervals not exceeding 24 months since the completion of their initial training.
+
+(h) The aerodrome operator shall ensure that:
+
+(1) adequately qualified and experienced instructors for the provision of training and assessors for the assessments and the proficiency checks are used;
+
+(2) suitable facilities, means and equipment are used for the provision of the training and, where applicable, for the conduct of the proficiency checks.
+
+(i) The aerodrome operator shall establish and implement procedures for the implementation of the training and proficiency check programmes and shall:
+
+(1) maintain appropriate qualification, training and proficiency check records to demonstrate compliance with this requirement;
+
+(2) upon request, make such records available to its personnel concerned;
+
+(3) if a person is employed by another employer, upon request, make such records of that person available to that new employer.
+
+**ADR.OR.D.020 Facilities requirements**
+
+(a) The aerodrome operator shall ensure that adequate and appropriate facilities are available to its personnel or personnel employed by parties with whom it has contracted for the provision of aerodrome operational and maintenance services.
+
+(b) The aerodrome operator shall designate appropriate areas at the aerodrome to be used for the storage of dangerous goods transported through the aerodrome, in accordance with the Technical Instructions.
+
+**ADR.OR.D.025 Coordination with other organisations**
+
+The aerodrome operator shall ensure that:
+
+(a) its management system addresses the coordination and interface with the safety procedures of other organisations operating or providing services at the aerodrome;
+
+(b) such organisations have safety procedures in place to comply with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, as well as with the aerodrome manual established and maintained in accordance with point ADR.OR.E.005 of this Annex.
+
+**ADR.OR.D.027 Safety programmes and aerodrome safety committees**
+
+(a) As part of its management system, the aerodrome operator shall establish, implement and lead safety programmes to promote and enhance safety, including runway safety, and the exchange of safety-relevant information with all relevant organisations that operate or provide services at the aerodrome. The aerodrome operator shall review, at least on an annual basis, the effectiveness of its safety programmes.
+
+(b) As part of the safety programmes referred to in point (a), the aerodrome operator shall:
+
+(1) establish, lead and be responsible for the functioning of the local runway safety team and other aerodrome safety committees;
+
+(2) request all relevant organisations that operate or provide services at the aerodrome to participate in the local runway safety team and in other aerodrome safety committees through nominated representatives that have appropriate and suitable operational expertise, relevant to the subject of the local runway safety team or the aerodrome safety committee(s) respectively.
+
+(c) The aerodrome operator shall ensure that:
+
+(1) the local runway safety team and the other aerodrome safety committees regularly convene meetings, the frequency of which shall be determined based [at least] on:
+
+(i) the aerodrome traffic density;
+
+(ii) the complexity of the aerodrome layout;
+
+(iii) the type of operations;
+
+(iv) the safety occurrences at the aerodrome and the potential risks identified from their analysis;
+
+(2) proposals and actions of the local runway safety team and the other aerodrome safety committees are recorded in an action plan and followed up to ensure their implementation in a timely manner.
+
+(d) The local runway safety team and the other aerodrome safety committees shall:
+
+(1) support the identification and multidisciplinary review of local safety issues, especially with regard to runway safety;
+
+(2) propose possible mitigating measures and relevant action plans to be implemented by the organisations concerned to enhance safety;
+
+(3) consider the need to develop regular local safety awareness campaigns and joint training programmes for the personnel of all relevant organisations.
+
+(e) The aerodrome operator shall establish and implement a procedure or procedures to ensure the implementation of points (a) to (d).
+
+**ADR.OR.D.030 Safety reporting system**
+
+(a) The aerodrome operator shall establish and implement a safety reporting system for all personnel and organisations operating or providing services at the aerodrome, in order to promote safety at, and the safe use of, the aerodrome.
+
+(ab) The aerodrome operator shall establish reporting arrangements with all organisations that operate or provide services at the aerodrome whose activities or products may have an effect on aircraft safety.
+
+(b) The aerodrome operator, in accordance with ADR.OR.D.005 (b)(3), shall:
+
+(1) require that the personnel and organisations mentioned in point (a) use the safety reporting system for the mandatory reporting of any accident, serious incident and occurrence; and
+
+(2) ensure that the safety reporting system may be used for the voluntary reporting of any defect, fault and safety hazard which could impact safety.
+
+(c) The safety reporting system shall protect the identity of the reporter, encourage voluntary reporting and include the possibility that reports may be submitted anonymously.
+
+(d) The aerodrome operator shall:
+
+(1) record all reports submitted;
+
+(2) analyse and assess the reports, as appropriate, in order to address safety deficiencies and identify trends;
+
+(3) ensure that all organisations operating or providing services at the aerodrome which are relevant to the safety concern, participate in the analysis of such reports and that any corrective and/or preventive measures identified are implemented;
+
+(4) conduct investigations of reports, as appropriate; and
+
+(5) refrain from attribution of blame in line with the ‘just culture’ principles.
+
+**ADR.OR.D.035 Record keeping**
+
+(a) The aerodrome operator shall establish an adequate system of record keeping, covering all its activities undertaken under Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(b) The format of the records shall be specified in the aerodrome manual.
+
+(c) Records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+(d) Records shall be kept for a minimum of five years, except that the below records shall be kept as follows:
+
+(1) the aerodrome certification basis, the alternative means of compliance in use and the current aerodrome or aerodrome operator certificate(s), for the lifespan of the certificate;
+
+(2) arrangements with other organisations, for as long as such arrangements are in effect;
+
+(3) manuals of aerodrome equipment or systems employed at the aerodrome, for as long as they are used at the aerodrome;
+
+(4) safety assessment reports for the lifetime of the system/procedure/activity;
+
+(5) personnel training, qualifications, and medical records as well as their proficiency checks, as appropriate, for at least four years after the end of their employment, or until the area of their employment has been audited by the Competent Authority; and
+
+(6) the current version of the hazard register;
+
+(7) driving authorisations and, if appropriate, language proficiency certificates, for at least four years after the end of a person’s employment, or the revocation or cancelation of a driving authorisation, or until this area of activity has been audited by the competent authority; and
+
+(8) vehicle authorisations and aerodrome operator’s vehicle maintenance records, for at least four years after a vehicle is removed from operations, or until this area has been audited by the competent authority.
+
+(e) All records shall be subject to applicable data protection law.
+
+**SUBPART E — AERODROME MANUAL AND DOCUMENTATION (ADR.OR.E)**
+
+**ADR.OR.E.005 Aerodrome manual**
+
+(a) The aerodrome operator shall establish and maintain an aerodrome manual.
+
+(b) The content of the aerodrome manual shall reflect the certification basis and the requirements set out in this Part and Part-ADR.OPS, as applicable, and shall not contravene the terms of the certificate. The aerodrome manual shall contain or refer to all necessary information for the safe use, operation and maintenance of the aerodrome, its equipment, as well as its obstacle limitation and protection surfaces and other areas associated with the aerodrome.
+
+(c) The aerodrome manual may be issued in separate parts.
+
+(d) The aerodrome operator shall ensure that all aerodrome personnel and all other relevant organisation’s personnel have easy access to the portions of the aerodrome manual that are relevant to their duties and responsibilities.
+
+(e) The aerodrome operator shall:
+
+(1) supply the Competent Authority with the intended amendments and revisions of the aerodrome manual, for items requiring prior approval in accordance with ADR.OR.B.040, in advance of the effective date and ensure that they do not become effective before obtaining the Competent Authority’s approval; or
+
+(2) supply the Competent Authority with the intended amendments and revisions of the aerodrome manual in advance of the effective date, if the proposed amendment or revision of the aerodrome manual requires only a notification to the Competent Authority in accordance with ADR.OR.B.040(d) and ADR.OR.B.015(b).
+
+(f) Notwithstanding point (e), when amendments or revisions are required in the interest of safety, they may be published and applied immediately, provided that any approval required has been applied for.
+
+(g) The aerodrome operator shall:
+
+(1) review the content of the aerodrome manual, ensure that it is kept up to date and amended whenever necessary;
+
+(2) incorporate all amendments and revisions required by the Competent Authority; and
+
+(3) make all aerodrome personnel and other relevant organisations aware of the changes that are relevant to their duties and responsibilities.
+
+(h) The aerodrome operator shall ensure that any information taken from other approved documents, and any amendment thereof, is correctly reflected in the aerodrome manual. This does not prevent the aerodrome operator from publishing more conservative data and procedures in the aerodrome manual.
+
+(i) The aerodrome operator shall ensure that:
+
+(1) the aerodrome manual is written in a language acceptable to the Competent Authority; and
+
+(2) all personnel are able to read and understand the language in which those parts of the aerodrome manual and other operational documents pertaining to their duties and responsibilities are written.
+
+(j) The aerodrome operator shall ensure that the aerodrome manual:
+
+(1) is signed by the accountable manager of the aerodrome;
+
+(2) is printed or is in electronic format and is easy to revise;
+
+(3) has a system for version control management which is applied and made visible in the aerodrome manual; and
+
+(4) observes human factors principles and is organised in a manner that facilitates its preparation, use and review.
+
+(k) The aerodrome operator shall keep at least one complete and current copy of the aerodrome manual at the aerodrome and make it available for inspection by the Competent Authority.
+
+(l) The content of the aerodrome manual shall be as follows:
+
+(1) General;
+
+(2) Aerodrome management system, qualification and training requirements;
+
+(3) Particulars of the aerodrome site;
+
+(4) Particulars of the aerodrome required to be reported to the Aeronautical Information Service; and
+
+(5) Particulars of the operating procedures of the aerodrome, its equipment and safety measures.
+
+**ADR.OR.E.010 Documentation requirements**
+
+(a) The aerodrome operator shall ensure the availability of any other documentation required and associated amendments.
+
+(b) The aerodrome operator shall be capable of distributing operational instructions and other information without delay.
+
+**SUBPART F – APRON MANAGEMENT SERVICE (ADR.OR.F)**
+
+**ADR.OR.F.001 Responsibilities of the organisation responsible for the provision of AMS**
+
+The organisation responsible for the provision of AMS shall provide the apron management service in accordance with:
+
+(a) the requirements set out in Annex VII to Regulation (EU) 2018/1139 and in Annex III (Part-ADR.OR) and Annex IV (Part-ADR.OPS) to this Regulation;
+
+(b) its declaration;
+
+(c) the operating procedures included in the aerodrome manual;
+
+(d) its management system manual in accordance with ADR.OR.F.095;
+
+(e) any other manuals used for the provision of apron management service.
+
+**ADR.OR.F.005 Declaration of the organisation responsible for the provision of AMS**
+
+(a) When an organisation responsible for the provision of AMS intends to provide guidance to aircraft as laid down in points a(1) and a(2) of point ADR.OPS.D.001 as a minimum, it shall submit a declaration to the Competent Authority at least 2 months before the date of the intended start of the provision of the service. The declaration shall contain the following information:
+
+(1) the name of the organisation responsible for the provision of AMS;
+
+(2) contact details of the organisation responsible for the provision of AMS;
+
+(3) name and contact details of the accountable manager;
+
+(4) the name(s) of the aerodrome(s) in the Member State where the service will be provided;
+
+(5) a list of aerodromes located in other Member States where the service is provided;
+
+(6) the date of the intended start of the provision of the apron management service;
+
+(7) a statement that confirms that it has established formal arrangements with the aerodrome operator and the air traffic service provider at the aerodrome where it intends to provide the apron management service;
+
+(8) a statement that confirms that the organisation responsible for the provision of AMS has developed a safety policy and will apply that policy during the provision of the service covered by the declaration, in accordance with point ADR.OR.F.045(b)(2);
+
+(9) a statement that confirms that the organisation responsible for the provision of AMS complies and will, during the provision of the service covered by the declaration, continue to comply with the applicable requirements of Annex VII to Regulation (EU) 2018/1139 and Annex III (Part-ADR.OR) and Annex IV (Part-ADR.OPS) to this Regulation;
+
+(b) By derogation from point (a), when a certified aerodrome operator or an approved air traffic services provider intends to provide apron management service, it shall:
+
+(1) notify its Competent Authority;
+
+(2) revise its safety policy to include the provision of apron management service;
+
+(3) submit to the Competent Authority the training programme of the personnel intended to be used for the provision of the service.
+
+**ADR.OR.F.010 Continued validity of the declaration**
+
+A declaration made by an organisation responsible for the provision of AMS in accordance with point ADR.OR.F.005 shall remain valid subject to the following conditions:
+
+(a) the organisation responsible for the provision of AMS is compliant with the requirements set out in Annex VII to Regulation (EU) 2018/1139 and in Annex III (Part-ADR.OR) and Annex IV (Part-ADR.OPS) to this Regulation, taking into account the provisions related to the handling of findings as specified under point ADR.OR.F.035 of this Annex;
+
+(b) the Competent Authority is granted access to the organisation responsible for the provision of AMS in accordance with point ADR.OR.F.030 of this Annex to determine continued compliance with the requirements set out in Annex VII to Regulation (EU) 2018/1139 and in Annex III (Part-ADR.OR) and Annex IV (Part-ADR.OPS) to this Regulation;
+
+(c) the declaration has not been withdrawn by the organisation responsible for the provision of AMS or been notified by the Competent Authority to cease some or all services covered by the declaration.
+
+**ADR.OR.F.015 Start of the provision of apron management service**
+
+An organisation responsible for the provision of AMS shall start the provision of apron management service at an aerodrome, when:
+
+(a) the declaration has been received by the Competent Authority;
+
+(b) it has established formal arrangements with the certified aerodrome operator and the approved air traffic service provider at the aerodrome where the service will be provided in accordance with points ADR.OR.F.085 and ADR.OR.F.090 respectively;
+
+(c) it provides evidence that its personnel have completed the required initial and unit training.
+
+**ADR.OR.F.020 Termination of the provision of apron management service**
+
+An organisation responsible for the provision of AMS that intends to terminate permanently the provision of the service at an aerodrome shall:
+
+(a) notify the aerodrome operator and the Competent Authority, as soon as possible, so as to enable appropriate measures to be taken for the safe continuation of the service;
+
+(b) submit to the Competent Authority an amended declaration or request de-registration of the declaration, upon the date of termination of the provision of the service.
+
+**ADR.OR.F.025 Changes**
+
+(a) The organisation responsible for the provision of AMS shall coordinate with the aerodrome operator any changes to the information contained in the declaration specified in point ADR.OR.F.005(a) and to the training programme or the management system manual respectively referred to in point ADR.OR.F.005(b) and point ADR.OR.F.095.
+
+(b) The organisation responsible for the provision of AMS shall notify without undue delay the Competent Authority of any changes specified in point (a) and, if necessary, submit an amended declaration.
+
+(c) The organisation responsible for the provision of AMS shall provide the Competent Authority with the relevant documentation in accordance with point (d).
+
+(d) As part of its management system referred to in point ADR.OR.F.045, the organisation responsible for the provision of AMS that proposes a change to its organisation, its management system or its training programme shall:
+
+(1) determine the interdependences with any affected parties, and plan and conduct a safety assessment in coordination with these organisations;
+
+(2) align assumptions and mitigations with any affected parties in a systematic way;
+
+(3) ensure a comprehensive assessment of the change including any necessary interactions;
+
+(4) ensure that complete and valid arguments, evidence and safety criteria are established and documented to support the safety assessment, and that the change supports the improvement of safety whenever reasonably practicable.
+
+**ADR.OR.F.030 Access**
+
+For the purpose of determining whether an organisation responsible for the provision of AMS is acting in accordance with its declaration, the organisation responsible for the provision of AMS shall ensure that any person duly authorised by the Competent Authority, at any time:
+
+(a) is granted access to any facility, document, records, data, procedures or any other material relevant to its activity;
+
+(b) is allowed to perform or witness any action, inspection, test, assessment or exercise the Competent Authority finds necessary.
+
+**ADR.OR.F.035 Findings and corrective actions**
+
+(a) After the Competent Authority has communicated a finding to an organisation responsible for the provision of AMS in accordance with point ADR.AR.C.055 of Annex II, the organisation responsible for the provision of AMS shall take the following steps within the time period determined by the Competent Authority:
+
+(1) identify the root cause of the non-compliance;
+
+(2) define a corrective action plan;
+
+(3) demonstrate the corrective action implementation to the satisfaction of the Competent Authority within the time period agreed with that authority in accordance with point ADR.AR.C.055(d) of Annex II.
+
+(b) The organisation responsible for the provision of AMS shall inform the aerodrome operator of the actions detailed in point (a) and, where appropriate, coordinate such actions with the aerodrome operator.
+
+**ADR.OR.F.040 Immediate reaction to a safety problem – compliance with safety directives**
+
+An organisation responsible for the provision of AMS shall:
+
+(a) implement any safety measures, including safety directives, taken by the Competent Authority in accordance with points ADR.AR.A.030(c) and ADR.AR.A.040 of Annex II;
+
+(b) when implementing the measures referred to in point (a), coordinate with the aerodrome operator and the air traffic service provider, where necessary.
+
+**ADR.OR.F.045 Management system**
+
+(a) The organisation responsible for the provision of AMS, the aerodrome operator or the air traffic service provider, when the latter is partially or exclusively providing apron management services, shall implement and maintain a management system that integrates a safety management system that also covers those activities.
+
+(b) The management system shall include:
+
+(1) clearly defined lines of responsibility and accountability throughout the organisation, including a direct accountability for safety on the part of the senior management;
+
+(2) a description of the overall philosophies and principles of the organisation responsible for the provision of AMS with regard to safety, referred to as the safety policy, signed by the accountable manager;
+
+(3) a formal process that ensures that hazards in operations are identified;
+
+(4) a formal process that ensures analysis, assessment and mitigation of the safety risks in the provision of apron management service;
+
+(5) the means to verify the safety performance of the organisation responsible for the provision of AMS in reference to the safety performance indicators and safety performance targets of the safety management system, and to validate the effectiveness of safety risk controls;
+
+(6) a formal process to:
+
+(i) identify changes within the organisation, its management system, or the provision of apron management service which may affect established processes, procedures and services;
+
+(ii) describe the arrangements to ensure safety performance before implementing changes;
+
+(iii) eliminate or modify safety risk controls that are no longer needed or effective due to changes in the operational environment;
+
+(7) a formal process to review the management system referred to in point (a), identify the cause(s) of substandard performance of the safety management system, determine the implications of such substandard performance in operations, and eliminate or mitigate such cause(s);
+
+(8) a safety training programme that ensures that personnel involved in the provision of apron management service are trained and competent to perform the safety management duties;
+
+(9) formal means for safety communication that ensures that personnel are fully aware of the safety management system, conveys safety-critical information, and explains why particular safety actions are taken and why safety procedures are introduced or changed;
+
+(10) a formal process to monitor the compliance of the organisation with the relevant requirements.
+
+(c) The organisation responsible for the provision of AMS shall document all management system key processes in a manual.
+
+**ADR.OR.F.045A Information security management system**
+
+The organisation responsible for the provision of AMS shall establish, implement and maintain an information security management system in accordance with Delegated Regulation (EU) 2022/1645 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**ADR.OR.F.050 Reporting malfunctions of systems used for the provision of apron management services**
+
+Without prejudice to Regulations (EU) No 376/2014, the organisation responsible for the provision of AMS shall report to the Competent Authority of the State where the aerodrome is located, to the aerodrome operator and to the organisation responsible for the design of any aerodrome equipment used for the provision of apron management service, any malfunction, technical defect, exceeding of technical limitations, occurrence or other irregular circumstance that has or may have endangered safety and that has not resulted in an accident or a serious incident.
+
+**ADR.OR.F.055 Safety reporting system**
+
+(a) The organisation responsible for the provision of AMS shall establish and implement a safety reporting system for its personnel.
+
+(b) As part of the process referred to in point ADR.OR.F.045(b)(3), the organisation responsible for the provision of AMS shall ensure that:
+
+(1) its personnel use the safety reporting system for the mandatory reporting of any accident, serious incident and occurrence;
+
+(2) the safety reporting system may be used for the voluntary reporting of any defect, fault and safety hazard which could impact safety.
+
+(c) The safety reporting system shall protect the identity of the reporter, encourage voluntary reporting and include the possibility that reports may be submitted anonymously.
+
+(d) The organisation responsible for the provision of AMS shall:
+
+(1) record all reports submitted;
+
+(2) transmit the reports to the aerodrome operator, and, if relevant, to the air traffic service provider;
+
+(3) in cooperation with the aerodrome operator or the air traffic service provider, or both, analyse and assess the reports, in order to address safety deficiencies and identify trends;
+
+(4) participate in the investigation of the reports conducted by the aerodrome operator, as appropriate;
+
+(5) refrain from attribution of blame in line with the ‘just culture’ principles.
+
+(e) The organisation responsible for the provision of AMS shall ensure that any occurrences are reported to the person who performs a function connected to the safety management of the aerodrome operator, in accordance with Article 4(6), point (e), of Regulation (EU) No 376/2014.
+
+**ADR.OR.F.060 Safety programmes**
+
+The organisation responsible for the provision of AMS shall participate in the safety programmes established by the aerodrome operator.
+
+**ADR.OR.F.065 Personnel requirements**
+
+(a) The organisation responsible for the provision of AMS shall:
+
+(1) appoint an accountable manager, who has the authority to ensure that all activities can be financed and carried out in accordance with the applicable requirements. The accountable manager shall be responsible for establishing and maintaining an effective management system;
+
+(2) nominate a person responsible for the management and supervision of operational services related to apron management;
+
+(3) nominate a person responsible for the development, maintenance and day-to-day management of the safety management system. That person shall act independently of other managers within the organisation, shall have direct access to the accountable manager and to appropriate management for safety matters, and shall be responsible to the accountable manager;
+
+(4) have sufficient and qualified personnel for the planned tasks and activities to be performed in accordance with the applicable requirements;
+
+(5) assign a sufficient number of personnel supervisors to defined duties and responsibilities, taking into account the structure of the organisation and the number of personnel employed;
+
+(6) ensure that personnel involved in the provision of apron management service are adequately trained in accordance with the training programme.
+
+(b) In the case that the aerodrome operator or the air traffic service provider are partially or exclusively providing apron management service, they shall ensure that the requirements of point (a) are included in their established allocation of responsibilities within their management systems.
+
+**ADR.OR.F.075 Use of alcohol, psychoactive substances and medicines**
+
+The organisation responsible for the provision of AMS shall implement the procedures established by the aerodrome operator in accordance with point ADR.OR.C.045 with regard to the consumption of alcohol, psychoactive substances and medicines by its personnel involved in the provision of apron management service.
+
+**ADR.OR.F.080 Record-keeping**
+
+(a) The organisation responsible for the provision of AMS shall establish an adequate record-keeping system that covers all its activities undertaken in accordance with Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+(b) The format of the records shall be specified in the management system manual.
+
+(c) Records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+(d) Records shall be kept for a minimum of 5 years, except that:
+
+(1) the current declaration shall be kept for the lifespan of the declaration;
+
+(2) written agreements with other organisations shall be kept for as long as such agreements are in effect;
+
+(3) safety assessment reports shall be kept for the lifetime of the system, procedure or activity;
+
+(4) personnel training, qualifications, as well as their proficiency checks shall be kept for at least 4 years after the end of their employment, or until the area of their employment has been audited by the Competent Authority;
+
+(e) The organisation responsible for the provision of AMS shall establish and maintain a hazard register.
+
+**ADR.OR.F.085 Formal arrangement between the organisation responsible for the provision of AMS and the aerodrome operator**
+
+(a) The organisation responsible for the provision of AMS shall have a formal arrangement with the operator of the aerodrome where it intends to provide apron management service.
+
+(b) The arrangement shall be concluded prior to the start of the provision of the service.
+
+(c) The formal arrangement shall include as a minimum the following:
+
+(1) duration of the arrangement;
+
+(2) definition of the area where apron management service will be provided;
+
+(3) list of the services that will be conducted by the organisation responsible for the provision of AMS;
+
+(4) methods of exchanging operational information between the aerodrome operator and the organisation responsible for the provision of AMS.
+
+**ADR.OR.F.090 Formal arrangement between the organisation responsible for the provision of AMS and the air traffic service provider**
+
+(a) The organisation responsible for the provision of AMS shall have a formal arrangement with the air traffic service provider of the aerodrome where it intends to provide apron management service.
+
+(b) The arrangement shall be concluded prior to the start of the provision of the service.
+
+(c) The formal arrangement shall include as a minimum the following:
+
+(1) duration of the arrangement;
+
+(2) scope of services to be provided, including coordination of start-up clearances, taxi and push-back of aircraft;
+
+(3) handover points between apron management service and air traffic service provider;
+
+(4) methods of exchanging operational information between the air traffic service provider and the organisation responsible for the provision of AMS;
+
+(5) coordination of start-up clearances, taxi and push-back of aircraft.
+
+**ADR.OR.F.095 Management system manual**
+
+(a) The organisation responsible for the provision of AMS shall:
+
+(1) establish and maintain a management system manual;
+
+(2) ensure that its personnel have easy access to the manual and are made aware of any changes;
+
+(3) after consultation and in coordination with the aerodrome operator, supply the Competent Authority with the intended amendments and revisions of the manual in advance of the effective date;
+
+(4) review the content of the manual, ensure that it is kept up to date and amended, whenever necessary;
+
+(5) incorporate all amendments and revisions to the manual as required by the Competent Authority;
+
+(6) make other organisations concerned aware of the changes that are relevant to their duties.
+
+(7) ensure that any information taken from other approved documents, and any amendment thereof, is correctly reflected in the manual;
+
+(8) ensure that the manual is written in a language acceptable to the Competent Authority;
+
+(9) ensure that all personnel are able to read and understand the language in which those parts of the manual and other documents pertaining to their duties and responsibilities are written;
+
+(10) ensure that the manual is signed by the accountable manager of the organisation;
+
+(11) ensure that the manual is printed or is in electronic format and is easy to revise;
+
+(12) ensure that the manual has a system for version control management which is applied and made visible in the manual;
+
+(13) ensure that the manual observes human factors principles and is organised in a manner that facilitates its preparation, use and review;
+
+(14) keep at least one complete and current copy of the manual at the aerodrome where it provides service, and make it available for inspection by the Competent Authority.
+
+(b) The content of the manual shall be structured as follows:
+
+(1) general part;
+
+(2) organisation’s management system and qualification requirements.
+
+(c) In the case that the aerodrome operator or the air traffic service provider are partially or exclusively providing apron management service, they shall ensure that the relevant requirements in point (b) are included in the aerodrome manual or the air traffic service operations manual respectively.
+
+**ADR.OR.F.100 Documentation requirements**
+
+The organisation responsible for the provision of AMS shall:
+
+(a) make available the parts of the aerodrome manual related to the provision of apron management service to its operational personnel;
+
+(b) make available of any other documentation required by the Competent Authority and associated amendments;
+
+(c) disseminate operational instructions and other information without delay.
+
+## ANNEX IV
+
+**Part Operations Requirements — Aerodromes (Part-ADR.OPS)**
+
+**SUBPART A — AERODROME DATA (ADR.OPS.A)**
+
+**ADR.OPS.A.005 Aerodrome data**
+
+The aerodrome operator shall as appropriate:
+
+(a) determine, document and maintain data relevant to the aerodrome and available services;
+
+(b) provide data relevant to the aerodrome and available services to the users and the relevant air traffic services and aeronautical information services providers.
+
+**ADR.OPS.A.010 Data quality requirements**
+
+The aerodrome operator shall have formal arrangements with the organisations with which it exchanges aeronautical data or aeronautical information and shall ensure the following:
+
+(a) all data relevant to the aerodrome and available services is provided with the required quality; data quality requirements (DQRs) are complied with at data origination and maintained during data transmission;
+
+(b) the accuracy of aeronautical data is as specified in the aeronautical data catalogue;
+
+(c) the integrity of aeronautical data is maintained throughout the data process from origination to transmission, based on the integrity classification specified in the aeronautical data catalogue. In addition, procedures shall be put in place so that:
+
+(1) for routine data, corruption is avoided throughout the processing of the data;
+
+(2) for essential data, corruption does not occur at any stage of the entire process and additional processes are included, as needed, to address potential risks in the overall system architecture to ensure data integrity at that level;
+
+(3) for critical data, corruption does not occur at any stage of the entire process and additional integrity assurance processes are included to fully mitigate the effects of faults identified by thorough analysis of the overall system architecture as potential data integrity risks;
+
+(d) the resolution of the aeronautical data is commensurate with the actual data accuracy;
+
+(e) the traceability of the aeronautical data;
+
+(f) the timeliness of the aeronautical data, including any limits on the effective period;
+
+(g) the completeness of the aeronautical data;
+
+(h) the format of the delivered data meets the specified requirements.
+
+**ADR.OPS.A.015 Coordination between aerodrome operators and providers of aeronautical information services**
+
+(a) To ensure that aeronautical information services providers obtain information to enable them to provide up-to-date pre-flight information and to meet the need for in-flight information, the aerodrome operator shall make arrangements to report to the relevant aeronautical information service providers, with a minimum of delay, the following:
+
+(1) information on the aerodrome conditions, disabled aircraft removal, rescue and firefighting and visual approach slope indicator systems;
+
+(2) the operational status of associated facilities, services and navigational aids at the aerodrome;
+
+(3) any other information considered to be of operational significance.
+
+(b) Before introducing changes to the air navigation system, the aerodrome operator shall take due account of the time needed by the relevant aeronautical information services for the preparation, production and issue of relevant material for promulgation.
+
+**ADR.OPS.A.020 Common reference systems**
+
+For the purpose of air navigation, the aerodrome operator shall use:
+
+(a) the World Geodetic System – 1984 (WGS-84) as the horizontal reference system;
+
+(b) the mean sea level (MSL) datum as the vertical reference system;
+
+(c) the Gregorian calendar and coordinated universal time (UTC) as the temporal reference systems.
+
+**ADR.OPS.A.025 Data error detection and authentication**
+
+When originating, processing or transmitting data to the aeronautical information service (AIS) provider, the aerodrome operator shall:
+
+(a) ensure that digital data error detection techniques are used during the transmission and storage of aeronautical data, in order to support the applicable data integrity levels;
+
+(b) ensure that the transfer of aeronautical data is subject to a suitable authentication process such that recipients are able to confirm that the data or information has been transmitted by an authorised source.
+
+**ADR.OPS.A.030 Aeronautical data catalogue**
+
+When originating, processing or transmitting data to the AIS provider, the aerodrome operator shall ensure that the aeronautical data referred to in Appendix 1 to Annex III (Part-ATM/ANS.OR) to Commission Implementing Regulation (EU) 2017/373 ( 6 ) conform to the data catalogue specifications.
+
+**ADR.OPS.A.035 Data validation and verification**
+
+When originating, processing or transmitting data to the AIS provider, the aerodrome operator shall ensure that validation and verification techniques are employed so that the aeronautical data meets the associated DQRs. In addition:
+
+(a) the verification shall ensure that the aeronautical data is received without corruption and that the aeronautical data process does not introduce corruption;
+
+(b) aeronautical data and aeronautical information entered manually shall be subject to independent verification to detect any errors that may have been introduced;
+
+(c) when using aeronautical data to obtain or calculate new aeronautical data, the initial data shall be verified and validated, except when provided by an authoritative source.
+
+**ADR.OPS.A.040 Error handling requirements**
+
+The aerodrome operator shall ensure that:
+
+(a) errors identified during data origination and after data delivery are addressed, corrected or resolved;
+
+(b) priority is given to managing errors in critical and essential aeronautical data.
+
+**ADR.OPS.A.045 Metadata**
+
+The aerodrome operator shall ensure that metadata include, as a minimum:
+
+(a) the identification of the organisations or entities performing any action of originating, transmitting or manipulating the aeronautical data;
+
+(b) the action performed;
+
+(c) the date and time the action was performed.
+
+**ADR.OPS.A.050 Data transmission**
+
+The aerodrome operator shall ensure that aeronautical data is transmitted by electronic means.
+
+**ADR.OPS.A.055 Tools and software**
+
+When originating, processing or transmitting aeronautical data to the AIS provider, the aerodrome operator shall ensure that tools and software used to support or automate aeronautical data processes perform their functions without adversely impacting the quality of the aeronautical data.
+
+**ADR.OPS.A.057 Origination of NOTAM**
+
+(a) The aerodrome operator shall:
+
+(1) establish and implement procedures in accordance with which it originates a NOTAM issued by the relevant aeronautical information services provider:
+
+(i) that contains information on the establishment, condition, or change of any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel involved with flight operations;
+
+(ii) that contains information of a temporary nature and of short duration or that concerns operationally significant permanent changes or temporary changes of long duration that are made at short notice, except for extensive text or graphics, or both;
+
+(2) designate aerodrome personnel, who have successfully completed relevant training and demonstrated their competence, to originate NOTAM and provide relevant information to the aeronautical information service providers with which it has arrangements;
+
+(3) ensure that all other aerodrome personnel whose duties involve the use of NOTAM have successfully completed relevant training and demonstrated their competence to do so.
+
+(b) The aerodrome operator shall originate a NOTAM when it is necessary to provide the following information:
+
+(1) establishment of, closure of, or significant changes in the operation of aerodromes or heliports or runways;
+
+(2) establishment of, withdrawal of, or significant changes in the operation of the aerodrome services;
+
+(3) establishment of, withdrawal of, or significant changes in the operational capability of radio navigation and air-ground communication services for which the aerodrome operator is responsible;
+
+(4) unavailability of backup and secondary systems, having a direct operational impact;
+
+(5) establishment of, withdrawal of, or significant changes to visual aids;
+
+(6) interruption of, or return to operation of, major components of aerodrome lighting systems;
+
+(7) establishment of, withdrawal of, or significant changes to procedures for air navigation services for which the aerodrome operator is responsible;
+
+(8) occurrence or correction of major defects or impediments in the manoeuvring area;
+
+(9) changes to, and limitations on, the availability of fuel, oil and oxygen;
+
+(10) establishment of, withdrawal of, or return to, operation of hazard beacons marking obstacles to air navigation;
+
+(11) planned laser emissions, laser displays and search lights in the aerodrome surroundings, if pilots’ night vision is likely to be impaired;
+
+(12) erecting or removal of, or changes to, obstacles to air navigation in the takeoff, climb, missed approach, approach areas, as well as on the runway strip;
+
+(13) changes in aerodrome or heliport rescue and firefighting category;
+
+(14) presence of, removal of, or significant changes in, hazardous conditions due to snow, slush, ice, radioactive material, toxic chemicals, volcanic ash deposition or water on the movement area;
+
+(15) presence of a runway or portion thereof which is slippery wet;
+
+(16) presence of a runway which is not available due to runway marking works; or information about the time lag required for making the runway available, if the equipment used for such works can be removed, when necessary;
+
+(17) presence of hazards that affect air navigation, including presence of wildlife, obstacles, displays and major events.
+
+(c) For the purposes of point (b), the aerodrome operator shall ensure that:
+
+(1) NOTAM is originated with sufficient lead time for the affected parties to take any required action, except in the case of unserviceability, release of radioactive material, toxic chemicals and other events that cannot be foreseen;
+
+(2) a NOTAM notifying unserviceability of associated facilities, services and navigation aids at the aerodrome, provides an estimate of the unserviceability period or of the time at which restoration of service is expected;
+
+(3) within three months from the issuance of a permanent NOTAM, the information contained in the NOTAM is included in the aeronautical information products affected;
+
+(4) within three months from the issuance of a temporary NOTAM of long duration, the information contained in the NOTAM is included in an AIP supplement;
+
+(5) when a NOTAM with an estimated end of validity unexpectedly exceeds the three-month period, a replacement NOTAM is originated unless the condition is expected to last for a further period of more than three months; in that case, the aerodrome operator shall ensure that the information is published in an AIP supplement.
+
+(d) In addition, the aerodrome operator shall ensure that:
+
+(1) except as provided for in point (d)(4), each NOTAM it originates contains the applicable information in the order shown in the NOTAM Format set out in Appendix 1 to this Annex;
+
+(2) NOTAM text is composed of the significations or uniform abbreviated phraseology assigned to the ICAO NOTAM Code, complemented by ICAO abbreviations, indicators, identifiers, designators, call signs, frequencies, figures and plain language;
+
+(3) a NOTAM is originated in the English language or the national language, as agreed with the relevant aeronautical information services provider;
+
+(4) information concerning snow, slush, ice, frost, standing water or water associated with snow, slush, ice or frost on the movement area is disseminated by means of SNOWTAM and contains the information in the order shown in the SNOWTAM Format set out in Appendix 2 to this Annex;
+
+(5) when an error has occurred in a NOTAM, a NOTAM with a new number is originated to replace the erroneous NOTAM or the erroneous NOTAM is cancelled and a new NOTAM is originated;
+
+(6) when a NOTAM is originated to cancel or replace a previous NOTAM:
+
+(a) the series and number/year of the previous NOTAM are indicated;
+
+(b) the Location Indicators and subject of both NOTAM are the same;
+
+(7) only one NOTAM is cancelled or replaced by a new NOTAM;
+
+(8) each originated NOTAM deals with only one subject and one condition of the subject;
+
+(9) each originated NOTAM is as brief as possible and compiled so that its meaning is clear without the need to refer to another document;
+
+(10) an originated NOTAM containing permanent or temporary information of long duration includes appropriate references to the AIP or AIP supplement;
+
+(11) the ICAO Location Indicator included in the text of an originated NOTAM for the aerodrome is the one contained in the Location Indicators. A curtailed form of such indicators shall not be used.
+
+(e) The aerodrome operator shall, following the publication of a NOTAM that it has originated, review its content to ensure its accuracy, and ensure the dissemination of the information to all relevant aerodrome personnel and organisations at the aerodrome.
+
+(f) The aerodrome operator shall maintain records:
+
+(1) of the NOTAM it originated and those that were issued;
+
+(2) regarding the implementation of points (a)(2) and (3).
+
+**ADR.OPS.A.060 Reporting of surface contaminants**
+
+The aerodrome operator shall report to the aeronautical information services and air traffic services units on matters of operational significance affecting aircraft and aerodrome operations on the movement area, particularly in respect of the presence of the following:
+
+(a) water;
+
+(b) snow;
+
+(c) slush;
+
+(d) ice;
+
+(e) frost;
+
+(f) anti-icing or de-icing liquid chemicals or other contaminants;
+
+(g) snowbanks or drifts.
+
+**ADR.OPS.A.065 Reporting of the runway surface condition**
+
+(a) The aerodrome operator shall report the runway surface condition over each third of the runway using a runway condition report (RCR). The report shall include a runway condition code (RWYCC) using numbers 0 to 6, the contaminant coverage and depth, and a description using the following terms:
+
+(1) COMPACTED SNOW;
+
+(2) DRY;
+
+(3) DRY SNOW;
+
+(4) DRY SNOW ON TOP OF COMPACTED SNOW;
+
+(5) DRY SNOW ON TOP OF ICE;
+
+(6) FROST;
+
+(7) ICE;
+
+(8) SLIPPERY WET;
+
+(9) SLUSH;
+
+(10) SPECIALLY PREPARED WINTER RUNWAY;
+
+(11) STANDING WATER;
+
+(12) WATER ON TOP OF COMPACTED SNOW;
+
+(13) WET;
+
+(14) WET ICE;
+
+(15) WET SNOW;
+
+(16) WET SNOW ON TOP OF COMPACTED SNOW;
+
+(17) WET SNOW ON TOP OF ICE;
+
+(18) CHEMICALLY TREATED;
+
+(19) LOOSE SAND.
+
+(b) Reporting shall commence when a significant change in runway surface condition occurs due to water, snow, slush, ice or frost.
+
+(c) Reporting of the runway surface condition shall continue to reflect significant changes until the runway is no longer contaminated. When that situation occurs, the aerodrome operator shall issue an RCR that states that the runway is wet or dry as appropriate.
+
+(d) Friction measurements shall not be reported.
+
+(e) When a paved runway or portion thereof is slippery wet, the aerodrome operator shall make such information available to the relevant aerodrome users. That shall be done by originating a NOTAM and shall describe the location of the affected portion.
+
+**ADR.OPS.A.070 Information on the aerodrome lighting system**
+
+The aerodrome operator shall report to the aeronautical information services the information on the parts of the aerodrome lighting system where light units are light emitting diode (LED) lights.
+
+**ADR.OPS.A.075 Charts**
+
+The aerodrome operator, either directly or through arrangements with third parties, shall ensure that charts relevant to the aerodrome are published in the AIP by the aeronautical information service provider.
+
+**ADR.OPS.A.080 Information on radio navigation and landing aids**
+
+(a) The aerodrome operator shall ensure, either directly or through arrangements with third parties, that information on the radio navigation and landing aids associated with the instrument approach and the terminal area procedures at the aerodrome, are provided to the aeronautical information services.
+
+(b) The information referred to in point (a) shall include the following:
+
+(1) type of aids;
+
+(2) magnetic variation to the nearest degree, as appropriate;
+
+(3) type of supported operation for ILS/MLS/GLS, basic GNSS and SBAS;
+
+(4) classification for ILS;
+
+(5) facility classification and approach facility designation(s) for GBAS;
+
+(6) for VOR/ILS/MLS also station declination to the nearest degree used for technical line-up of the aid;
+
+(7) identification, if required;
+
+(8) frequency(-ies), channel number(s), service provider and reference path identifier(s) (RPI(s)), as appropriate;
+
+(9) hours of operation, as appropriate;
+
+(10) geographical coordinates in degrees, minutes, seconds and tenths of seconds of the position of the transmitting antenna, as appropriate;
+
+(11) elevation of the DME transmitting antenna to the nearest 30 m (100 ft) and of the distance-measuring equipment precision (DME/P) to the nearest 3 m (10 ft), elevation of GBAS reference point to the nearest metre or foot, and the ellipsoid height of the point to the nearest metre or foot; for SBAS, the ellipsoid height of the landing threshold point (LTP) or the fictitious threshold point (FTP) to the nearest metre or foot;
+
+(12) service volume radius from the GBAS reference point to the nearest kilometre or nautical mile; and
+
+(13) remarks.
+
+**ADR.OPS.A.085 Information on visual segment surface (VSS) penetration**
+
+The aerodrome operator shall ensure, either directly or through arrangements with third parties, that information on visual segment surface penetration is provided to the aeronautical information services, including procedure and procedure minima affected.
+
+**SUBPART B — AERODROME OPERATIONAL SERVICES, EQUIPMENT AND INSTALLATIONS (ADR.OPS.B)**
+
+**ADR.OPS.B.001 Provision of services**
+
+The services under Subpart B of this Annex shall be provided at the aerodrome by the aerodrome operator directly or indirectly.
+
+**ADR.OPS.B.003 Handover of activities – provision of operational information**
+
+(a) The aerodrome operator shall establish and implement procedures for the handover of operational activities between personnel involved in the operation and maintenance of the aerodrome to ensure that all new incoming personnel are provided with operational information related to their tasks.
+
+(b) The aerodrome operator shall establish and implement procedures to provide organisations operating or providing services at the aerodrome, with aerodrome-related operational information that may affect the execution of the tasks of the personnel of such organisations.
+
+**ADR.OPS.B.005 Aerodrome emergency planning**
+
+The aerodrome operator shall have and implement an aerodrome emergency plan that:
+
+(a) is commensurate with the aircraft operations and other activities conducted at the aerodrome;
+
+(b) provides for the coordination of appropriate organisations in response to an emergency occurring at an aerodrome or in its surroundings; and
+
+(c) contains procedures for periodic testing of the adequacy of the plan and for reviewing the results in order to improve its effectiveness.
+
+**ADR.OPS.B.010 Rescue and firefighting services**
+
+(a) The aerodrome operator shall ensure that:
+
+(1) aerodrome rescue and firefighting facilities, equipment and services are provided;
+
+(2) adequate equipment, fire extinguishing agents and sufficient personnel are available in a timely manner;
+
+(3) rescue and firefighting personnel are properly trained, equipped and qualified to operate in the aerodrome environment; and
+
+(4) rescue and firefighting personnel potentially required to act in aviation emergencies demonstrate their medical fitness to execute their functions satisfactorily, taking into account the type of activity.
+
+(b) The aerodrome operator shall establish and implement a training programme for persons involved in rescue and firefighting services of the aerodrome.
+
+(c) The training programme shall be conducted in accordance with point ADR.OR.D.017, with the following exceptions:
+
+(1) recurrent training shall include theoretical and continuous practical training;
+
+(2) proficiency checks shall be conducted at intervals not exceeding 12 months since the completion of the initial training.
+
+(d) The training of rescue and firefighting personnel shall be designed to impart fundamental knowledge and practical skills related to the execution of their duties.
+
+(e) Temporary reduction of the level of protection of the aerodrome’s rescue and firefighting services, due to unforeseen circumstances, shall not require prior approval by the competent authority.
+
+**ADR.OPS.B.011 Removal of disabled aircraft**
+
+(a) The aerodrome operator shall establish a plan for the removal of an aircraft disabled on, or adjacent to, the movement area, and designate an aerodrome coordinator to implement the plan.
+
+(b) The disabled aircraft removal plan shall include the following:
+
+(1) the contact details of the aerodrome coordinator of operations for the removal of an aircraft disabled on or adjacent to the movement area;
+
+(2) responsibilities, actions and lines of communication for each organisation involved;
+
+(3) a list of equipment and a list of personnel at, or in the vicinity of, the aerodrome which are available for such purpose;
+
+(4) any arrangements for the rapid receipt of aircraft recovery equipment kits available from other aerodromes, as applicable.
+
+**ADR.OPS.B.015 Monitoring and inspection of movement area and related facilities**
+
+(a) The aerodrome operator shall monitor the condition of the movement area and the operational status of related facilities and report on matters of operational significance, whether of a temporary or permanent nature, to the relevant air traffic services providers and aeronautical information services providers.
+
+(b) The aerodrome operator shall carry out regular inspections of the movement area and its related facilities.
+
+**ADR.OPS.B.016 Foreign object debris control programme**
+
+(a) The aerodrome operator shall establish and implement a foreign object debris (FOD) control programme and shall require organisations operating or providing services at the aerodrome to participate in that programme.
+
+(b) As part of the FOD control programme, the aerodrome operator shall:
+
+(1) ensure personnel awareness and participation, and that such personnel have successfully completed relevant training and demonstrated their competence;
+
+(2) establish and implement measures to prevent generation of FOD;
+
+(3) establish and implement procedures to:
+
+(i) detect FOD, including the monitoring and inspection of the movement area or adjacent areas in accordance with an inspection schedule and whenever such an inspection is required due to activities, weather phenomena, or occurrences that may have led to the generation of FOD;
+
+(ii) promptly remove, contain, and dispose of FOD, and provide all relevant means necessary;
+
+(iii) notify, as soon as possible, aircraft operators in the case of identified aircraft parts;
+
+(4) collect and analyse data and information to identify FOD sources and trends, and implement corrective or preventive measures, or both, to improve the effectiveness of the programme.
+
+**ADR.OPS.B.020 Wildlife strike hazard reduction**
+
+The aerodrome operator shall:
+
+(a) assess the wildlife hazard on, and in the surrounding, of the aerodrome;
+
+(b) establish means and procedures to minimise the risk of collisions between wildlife and aircraft, at the aerodrome; and
+
+(c) notify the appropriate authority if a wildlife assessment indicates conditions in the surroundings of the aerodrome are conducive to a wildlife hazard problem.
+
+**ADR.OPS.B.024 Authorisation of vehicle drivers**
+
+(a) Except as provided for in point (d), the driving of a vehicle on any part of the movement area or other operational areas of an aerodrome shall require an authorisation issued to the driver by the operator of that aerodrome. The driving authorisation shall be issued to a person who:
+
+(1) is allocated tasks that involve driving in such areas;
+
+(2) holds a valid driving licence, and any other licence required for the operation of specialised vehicles;
+
+(3) has successfully completed a relevant driving training programme and demonstrated his or her competence in accordance with point (b);
+
+(4) has demonstrated language proficiency in accordance with point ADR.OPS.B.029, if that person intends to drive a vehicle on the manoeuvring area;
+
+(5) has received training by its employer on the use of the vehicle intended to operate at the aerodrome.
+
+(b) The aerodrome operator shall establish and implement a driving training programme for drivers that operate on the apron or other operational areas, except the manoeuvring area, and for drivers that operate on the manoeuvring area. The training programme shall:
+
+(1) be appropriate to the characteristics and operation of the aerodrome, the driver’s functions and tasks to be performed, and the areas of the aerodrome that drivers may be authorised to operate;
+
+(2) include:
+
+(i) theoretical and practical training of adequate duration, at least in the following areas:
+
+(A) regulatory framework and personal responsibilities;
+
+(B) vehicle standards, aerodrome operational requirements and procedures;
+
+(C) communications;
+
+(D) radiotelephony, for drivers that operate in the manoeuvring area;
+
+(E) human performance;
+
+(F) familiarisation with the operating environment;
+
+(ii) competence assessment of the drivers.
+
+(c) A driving authorisation issued in accordance with point (a) shall specify the parts of the movement area or other operational areas on which the driver is allowed to drive and shall remain valid as long as:
+
+(1) the requirements of points (a)(1) and (a)(2) are met;
+
+(2) the holder of the driving authorisation:
+
+(i) undergoes and successfully completes training and proficiency checks in accordance with points ADR.OR.D.017 (f) and (g);
+
+(ii) if applicable, continues to demonstrate the required language proficiency in accordance with point ADR.OPS.B.029.
+
+(d) Notwithstanding point (a), the aerodrome operator may permit a person to temporarily drive a vehicle on the movement area or other operational areas if:
+
+(1) that person holds a valid driving licence, and any other licence required for the operation of specialised vehicles;
+
+(2) that vehicle is escorted by a vehicle driven by a driver authorised in accordance with point (a).
+
+(e) The aerodrome operator shall:
+
+(1) establish a system and implement procedures for:
+
+(i) issuing driving authorisations and temporarily permitting the driving of vehicles;
+
+(ii) ensuring that drivers to whom a driving authorisation has been issued, continue to comply with points (c)(1) and (c)(2);
+
+(iii) monitoring the compliance of drivers with any driving requirements applicable at the aerodrome and for taking appropriate action, including the suspension and revocation of driving authorisations or permissions to temporarily drive a vehicle;
+
+(2) maintain relevant records.
+
+**ADR.OPS.B.026 Authorisation of vehicles**
+
+(a) The operation of a vehicle on the movement area or other operational areas shall require an authorisation issued by the aerodrome operator. The authorisation may be issued if the vehicle is used in activities related to the operation of the aerodrome and:
+
+(1) is serviceable and fit for the intended operation;
+
+(2) complies with the marking and lighting requirements of point ADR.OPS.B.080;
+
+(3) is equipped with a radio allowing two-way communication on the appropriate air traffic services frequency and any other frequency necessary, if it is intended to be operated on either of the following areas:
+
+(i) the manoeuvring area;
+
+(ii) other operational areas where communication with the air traffic services unit or other operational units of the aerodrome is necessary;
+
+(4) is fitted with a transponder or other equipment that supports surveillance, if it is intended to be operated on the manoeuvring area, and the aerodrome is equipped with a surface movement guidance and control system whose operation requires the use of a transponder or other equipment supporting surveillance fitted on the vehicles.
+
+(b) The aerodrome operator shall limit the number of vehicles authorised to operate on the movement area and other operational areas to the minimum number required for the safe and efficient operation of the aerodrome.
+
+(c) An authorisation issued in accordance with point (a) shall:
+
+(1) specify the parts of movement area or other operational areas where the vehicle may be operated;
+
+(2) remain valid as long as the requirements of point (a) are met.
+
+(d) The aerodrome operator shall assign a call sign to a vehicle authorised in accordance with point (a) to operate at the aerodrome, if that vehicle is required to be radio-equipped. The call sign assigned to a vehicle shall:
+
+(1) not cause confusion regarding its identity;
+
+(2) be appropriate to its function;
+
+(3) for vehicles that operate in the manoeuvring area, be coordinated with the air traffic services unit, and disseminated to the relevant organisations at the aerodrome.
+
+(e) By derogation from point (a), the aerodrome operator may permit:
+
+(1) a vehicle authorised in accordance with points (a)(1) and (2), which is not equipped with a radio required under point (a)(3) and a transponder or other equipment supporting surveillance required under point (a)(4), to be occasionally operated in the areas referred to in points (a)(3) and (a)(4), provided that:
+
+(i) that vehicle is escorted, at all times, by an authorised vehicle meeting the requirement of point (a)(3) and, if necessary, point (a)(4);
+
+(ii) the escorting vehicle complies with the marking and lighting requirements of point ADR.OPS.B.080;
+
+(iii) low-visibility procedures are not in effect, if the escorted vehicle is to be operated in the manoeuvring area;
+
+(2) the temporary entry of a vehicle to the aerodrome and its operation on the movement area or other operational areas, subject to the following conditions:
+
+(a) a visual inspection of that vehicle determines that its condition does not endanger safety;
+
+(b) that vehicle is escorted, at all times, by an authorised vehicle which:
+
+(i) meets the requirement of point (a)(3) and, if necessary, point (a)(4), when operating in the areas referred to in points (a)(3) and (a)(4);
+
+(ii) complies with the marking and lighting requirements of point ADR.OPS.B.080;
+
+(c) low-visibility procedures are not in effect, if the vehicle is to be operated in the manoeuvring area.
+
+(f) The aerodrome operator shall:
+
+(1) establish and implement procedures for:
+
+(i) issuing vehicle authorisations and temporary permitting the entry to the aerodrome and operation of vehicles;
+
+(ii) assigning call signs to vehicles;
+
+(iii) monitoring the compliance of vehicles with point ADR.OPS.B.026 and for taking appropriate action, including the suspension and revocation of vehicle authorisations or permissions to temporarily operate a vehicle;
+
+(2) maintain relevant records.
+
+**ADR.OPS.B.027 Operation of vehicles**
+
+(a) The driver of a vehicle on the manoeuvring area shall operate the vehicle:
+
+(1) only as authorised by the air traffic services unit, and in accordance with the instructions issued by that unit;
+
+(2) in compliance with all mandatory instructions conveyed by markings and signs unless otherwise authorised by the air traffic services unit;
+
+(3) in compliance with all mandatory instructions conveyed by lights.
+
+(b) The driver of a vehicle on the manoeuvring area shall operate the vehicle in accordance with the following rules:
+
+(1) emergency vehicles that proceed to the assistance of an aircraft in distress shall be afforded priority over all other surface movement traffic;
+
+(2) subject to the provisions of point (1):
+
+(i) vehicles and vehicles towing aircraft shall give way to aircraft which are landing, taking off, or taxiing;
+
+(ii) vehicles that do not tow aircraft shall give way to vehicles towing aircraft;
+
+(iii) vehicles that do not tow aircraft shall give way to other vehicles that do not tow aircraft in accordance with the air traffic services unit instructions;
+
+(iv) notwithstanding the provisions of points (i), (ii) and (iii), vehicles and vehicles towing aircraft shall comply with the instructions issued by the air traffic services unit.
+
+(c) The driver of a radio-equipped vehicle, intending to operate or operating on the manoeuvring area, shall:
+
+(1) establish satisfactory two-way radio communication with the air traffic services unit on the appropriate air traffic services frequency before entering the manoeuvring area, and maintain a continuous listening watch on the assigned frequency;
+
+(2) before entering the manoeuvring area, obtain authorisation from the air traffic services unit and shall operate only as authorised by the air traffic services unit. Notwithstanding such an authorisation, entry to a runway or runway strip or change in the operation authorised, shall be subject to a further specific authorisation by the air traffic services unit;
+
+(3) read back to the air traffic services personnel safety-related parts of the instructions which are transmitted by voice. Instructions to enter, hold short of, cross and operate on any runway, taxiway or runway strip shall always be read back;
+
+(4) read back to the air traffic services personnel or acknowledge instructions other than in point (3) in a manner to clearly indicate that they have been understood and shall be complied with.
+
+(d) The driver of a vehicle that is operating in the manoeuvring area, when in doubt as to the position of the vehicle with respect to the manoeuvring area, shall:
+
+(1) notify the air traffic services unit of the circumstances, including the last known position;
+
+(2) simultaneously, unless otherwise instructed by the air traffic services unit, vacate the runway, taxiway, or other part of the manoeuvring area, to a safe distance as expeditiously as possible;
+
+(3) after actions referred to in points (1) and (2), stop the vehicle.
+
+(e) The driver of a vehicle on the manoeuvring area:
+
+(1) when operating a vehicle on a runway strip when that runway is used for landing or take-off, shall not approach the runway closer than the distance at which the runway-holding position or any road-holding positions have been established for that runway;
+
+(2) when a runway is used for landing or take-off, shall not operate a vehicle on:
+
+(i) the part of the runway strip extending beyond the runway ends of that runway;
+
+(ii) the runway-end safety areas of that runway;
+
+(iii) a clearway, if available, at a distance that would endanger an aircraft on the air.
+
+(f) The driver of a radio-equipped vehicle on the apron shall, if so required at the aerodrome:
+
+(1) establish satisfactory two-way radio communication with the responsible unit designated by the aerodrome operator before entering the apron;
+
+(2) maintain a continuous listening watch on the assigned frequency.
+
+(g) The driver of a vehicle on the apron shall operate the vehicle in accordance with the following:
+
+(1) only as authorised by the responsible unit designated by the aerodrome operator, and in accordance with the instructions issued by that unit;
+
+(2) in compliance with all mandatory instructions conveyed by markings and signs unless otherwise authorised by the responsible unit designated by the aerodrome operator;
+
+(3) in compliance with all mandatory instructions conveyed by lights;
+
+(4) give way to an emergency vehicle, an aircraft taxiing, about to taxi, or being pushed or towed;
+
+(5) give way to other vehicles in accordance with local regulations;
+
+(6) always give priority over emergency vehicles responding to an emergency.
+
+(h) The driver of a vehicle on the movement area and other operational areas shall:
+
+(1) operate the vehicle in accordance with the established speed limits and driving routes;
+
+(2) not be engaged in disturbing or distracting activities while driving;
+
+(3) comply with the communication requirements and the operational procedures contained in the aerodrome manual.
+
+(i) The driver of a vehicle escorting another vehicle shall ensure that the driver of the escorted vehicle operates the vehicle in accordance with the instructions given.
+
+(j) The driver of a vehicle shall park the vehicle only in areas designated by the aerodrome operator.
+
+(k) The aerodrome operator shall establish and implement procedures to ensure that drivers that operate on the movement area and other operational areas comply with points (a) to (j).
+
+**ADR.OPS.B.028 Aircraft towing**
+
+The aerodrome operator shall:
+
+(a) establish aircraft manoeuvring procedures and designate routes to be used during aircraft towing operations on the movement area, to ensure safety;
+
+(b) ensure the provision of adequate and appropriate guidance during towing operations;
+
+(c) ensure that towed aircraft display lights during towing operations, in accordance with the provisions of point SERA.3215 of the Annex to Commission Implementing Regulation (EU) No 923/2012 ( 7 );
+
+(d) establish and implement procedures to ensure adequate communication and coordination between the organisation executing the towing operation, the apron management services unit, and the air traffic services unit, as appropriate to the towing operation;
+
+(e) establish and implement procedures to ensure safety of towing operations in adverse weather or meteorological conditions, including by limiting or not permitting such operations.
+
+**ADR.OPS.B.029 Language proficiency**
+
+(a) A person required under point ADR.OPS.B.024 to demonstrate language proficiency, shall demonstrate proficiency, at least at an operational level both in the use of phraseologies and in plain language, in accordance with point (b), in:
+
+(1) the English language; and
+
+(2) any other language or languages used at the aerodrome for radio communication purposes with the air traffic services unit of the aerodrome.
+
+(b) The applicant shall demonstrate the ability to:
+
+(1) communicate effectively in voice-only and in face-to-face situations;
+
+(2) communicate on common and work-related topics with accuracy and clarity;
+
+(3) use appropriate communicative strategies to exchange messages and to recognise and resolve misunderstandings in a general or work-related context;
+
+(4) handle successfully the linguistic challenges presented by a complication or unexpected turn of events which occurs within the context of a routine work situation or communicative task with which they are otherwise familiar;
+
+(5) use a dialect or accent which is intelligible to the aeronautical community.
+
+(c) Language proficiency shall be demonstrated by a certificate issued by the organisation that conducted the assessment, attesting the language or languages, the level or levels of proficiency, and the date of the assessment.
+
+(d) Except for persons who have demonstrated language proficiency at an expert level, the language proficiency shall be re-assessed every:
+
+(1) four years from the date of the assessment, if the level demonstrated is operational level;
+
+(2) six years from the date of the assessment, if the level demonstrated is extended level.
+
+(e) The demonstration of language proficiency shall be done through a method of assessment, which shall contain:
+
+(1) the process by which an assessment is done;
+
+(2) the qualifications of the assessors conducting assessments of language proficiency;
+
+(3) the appeal procedure.
+
+(f) The aerodrome operator shall make available language training to maintain the required level of language proficiency of its personnel.
+
+(g) By way of derogation from point (a), the Member State may decide that the English language proficiency may not be required for personnel referred to in point ADR.OPS.B.024, for radio communication purposes with the air traffic services unit of the aerodrome. In such case, it shall perform a safety assessment covering one or several aerodromes.
+
+(h) The operator of the aerodrome may issue an authorisation to a person who has not demonstrated compliance with points (a) and (b) until:
+
+(1) 7 January 2026 as regards English language;
+
+(2) 7 January 2023 as regards any language other than the English language.
+
+**ADR.OPS.B.030 Surface movement guidance and control system**
+
+(a) The aerodrome operator shall ensure that a surface movement guidance and control system (SMGCS) is provided at the aerodrome. The SMGCS shall:
+
+(1) take into account the design characteristics and the operational and meteorological conditions of the aerodrome, as well as human factors principles;
+
+(2) be designed to assist in the prevention of:
+
+(i) inadvertent incursions of aircraft and vehicles on an active runway; and
+
+(ii) collisions between aircraft as well as between aircraft and vehicles or objects on any part of the movement area; and
+
+(3) be supported by appropriate means and procedures.
+
+(b) As part of the surface movement guidance and control system, the aerodrome operator shall, in coordination with the air traffic services provider, assess the need to establish standard routes for taxiing aircraft on the aerodrome. Where standard routes are provided, the aerodrome operator shall:
+
+(1) ensure that they are adequate and suitable for the aerodrome traffic, design and intended operations, and properly identified;
+
+(2) provide relevant information to the aeronautical information services provider for publication in the AIP.
+
+(c) Where the operation of the surface movement guidance and control system requires the use of a transponder by aircraft on the movement area, the aerodrome operator shall coordinate with the air navigation services provider:
+
+(1) the relevant transponder operating procedures to be complied with by aircraft operators;
+
+(2) the provision of the relevant information to the aeronautical information services provider for publication in the AIP.
+
+(d) The aerodrome operator shall coordinate with the air traffic services provider the development of the SMGCS procedures at the aerodrome.
+
+**ADR.OPS.B.031 Communications**
+
+(a) Vehicles and the air traffic services unit shall communicate in accordance with the applicable requirements of Section 14 of the Annex to Implementing Regulation (EU) No 923/2012.
+
+(b) The aerodrome operator shall, in coordination with the air traffic services provider, establish communication procedures, including:
+
+(1) the frequencies and the language or languages to be used for communication between the air traffic services unit and vehicles that intend to operate or are operating on the manoeuvring area;
+
+(2) communication between the air traffic services unit and pedestrians that intend to operate or are operating on the manoeuvring area;
+
+(3) dissemination of significant aerodrome-related information that may affect the safety of operations on the manoeuvring area, using radio communications;
+
+(4) signals and other communication means, to be used, in all visibility conditions, in the case of radio communication failure between the air traffic services unit and vehicles or pedestrians on the manoeuvring area.
+
+(c) If signals are used in accordance with point (b)(4), they shall have the following meaning:
+
+| Light signal from aerodrome control | Meaning |
+| --- | --- |
+| Green flashes | Permission to cross landing area or to move onto taxiway |
+| Steady red | Stop |
+| Red flashes | Move off the landing area or taxiway and watch out for aircraft |
+| White flashes | Vacate manoeuvring area in accordance with local instructions |
+
+(d) In emergency conditions or if the signals in point (c) are not observed, the signal given hereunder shall be used for runways or taxiways equipped with a lighting system and shall have the following meaning:
+
+| Light signal from aerodrome control | Meaning |
+| --- | --- |
+| Flashing runway or taxiway lights | Vacate the runway and observe the tower for light signal |
+
+**ADR.OPS.B.033 Control of pedestrians**
+
+(a) The aerodrome operator shall establish and implement procedures to:
+
+(1) limit the access to the movement area and other operational areas only to persons whose duties require them to have access to such areas;
+
+(2) ensure that such persons are allowed unescorted access to such areas only if they have received relevant training and demonstrated their competence;
+
+(3) control the movement of persons on the apron, and ensure that passengers embarking or disembarking an aircraft or who need to walk to, from or across the apron:
+
+(i) are escorted by trained and competent personnel;
+
+(ii) do not interfere with stationary aircraft and ground servicing activities;
+
+(iii) are protected from operating aircraft, including the effects of their engines, as well as vehicular or other activities.
+
+(b) The aerodrome operator shall establish and implement procedures to ensure:
+
+(1) the orderly and safe entry and operation in the manoeuvring area of personnel whose tasks involve access to this area without a vehicle;
+
+(2) that such personnel:
+
+(i) are properly equipped, including with high-visibility clothing, orientation means, and means allowing two-way communication with the air traffic services unit and the respective unit of the aerodrome operator during such operations;
+
+(ii) obtain authorisation from the air traffic services unit before entering the manoeuvring area. Notwithstanding such an authorisation, entry to a runway or runway strip or change in the operation authorised shall be subject to a further specific authorisation by the air traffic services unit;
+
+(iii) do not enter the manoeuvring area when low-visibility procedures are in effect.
+
+**ADR.OPS.B.035 Operations in winter conditions**
+
+(a) The aerodrome operator shall, when the aerodrome is expected to operate in conditions when snow, slush or ice may accumulate on the movement area, develop and implement a snow plan. As part of the snow plan, the aerodrome operator shall:
+
+(1) have provisions for the use of materials to remove or to prevent the formation of ice and frost or to improve runway surface friction characteristics;
+
+(2) ensure, as far as reasonably practical, the removal of snow, slush or ice from the runways in use and the other parts of the movement area which are intended to be used for the operation of aircraft.
+
+(b) The aerodrome operator shall provide for publication in the AIP information regarding:
+
+(1) the availability of equipment for snow removal and snow and ice control operations;
+
+(2) approval status, if applicable, regarding the use of specially prepared winter runways;
+
+(3) the type of materials in use for movement area surface treatment.
+
+**ADR.OPS.B.036 Operations on specially prepared winter runways**
+
+(a) An aerodrome operator may, subject to the prior approval of the competent authority, establish and use procedures for the operation of aeroplanes on specially prepared winter runways, when the contaminant type is compacted snow or ice. Specially prepared winter runways may be associated with primary RWYCC 4; however, if treatment does not justify a RWYCC 4, the normal procedure in accordance with point ADR.OPS.B.037 shall apply.
+
+(b) In order to obtain prior approval by the competent authority, the aerodrome operator shall:
+
+(1) establish procedures which include the following:
+
+(i) the type of equipment or the type, the quality and the quantity of the material, or both, which are used to improve runway surface condition and method of application;
+
+(ii) monitoring the meteorological parameters;
+
+(iii) management of loose contaminants;
+
+(iv) assessment of the achieved results;
+
+(2) obtain aeroplane data that relates to stopping performance on the runway with the special treatment from at least one aeroplane operator;
+
+(3) analyse and process the data obtained under point (2), in order to demonstrate the capability to establish runway conditions in accordance with a given RWYCC;
+
+(4) establish a maintenance programme that covers both preventive and corrective maintenance for equipment which is used in order to achieve consistent performance.
+
+(c) The aerodrome operator shall establish and implement a programme to monitor the continuous effectiveness of the procedure. The programme shall use braking action reports from aeroplane data that shall be compared with the reported runway conditions.
+
+(d) The aerodrome operator shall evaluate the performance of winter operations after the end of the winter period in order to identify necessity for:
+
+(1) additional training requirements;
+
+(2) update of the procedures;
+
+(3) additional or different equipment and materials.
+
+**ADR.OPS.B.037 Assessment of runway surface condition and assignment of runway condition code**
+
+Whenever the contaminants listed in points ADR.OPS.A.060(a) to (e) are present on the surface of a runway, the aerodrome operator shall:
+
+(a) assign a RWYCC based on the type and depth of the contaminant and temperature;
+
+(b) inspect the runway whenever the runway surface condition may have changed due to meteorological conditions, assess the runway surface condition and assign a new RWYCC;
+
+(c) use special air-reports to trigger reassessment of RWYCC.
+
+**ADR.OPS.B.040 Night operations**
+
+The aerodrome operator shall ensure that means and procedures are established and implemented for providing safe conditions for aerodrome operation during night operations.
+
+**ADR.OPS.B.045 Low-visibility procedures**
+
+(a) The aerodrome operator shall ensure that the aerodrome is provided with appropriate aerodrome equipment and facilities, and that appropriate low-visibility procedures are established and implemented where it is intended to be used for any of the following operations:
+
+(1) low-visibility take-offs;
+
+(2) approach and landing operations with visibility conditions less than 550 m RVR or DH less than 200 ft (60 m);
+
+(3) operations with operational credits where the actual RVR is less than 550 m.
+
+The low-visibility procedures shall coordinate the movement of aircraft and vehicles and shall restrict or prohibit activities on the movement area.
+
+(b) The aerodrome operator shall establish and implement the low-visibility procedures in cooperation with the air traffic services provider. The low-visibility procedures shall include criteria for their preparation, initiation and termination. The criteria shall be based on RVR and cloud ceiling values.
+
+(c) The aerodrome operator shall inform the aeronautical information services provider and air traffic services provider, as appropriate, of any change on the status of the aerodrome equipment and facilities that have an impact on low-visibility operations.
+
+(d) The aerodrome operator shall provide information on low-visibility procedures to the aeronautical information services provider, for publication in the AIP.
+
+(e) Low-visibility procedures, and any changes thereto, shall require prior approval by the competent authority.
+
+**ADR.OPS.B.050 Operations in adverse weather conditions**
+
+The aerodrome operator shall ensure that means and procedures are established and implemented to ensure the safety of aerodrome operations in adverse weather conditions.
+
+**ADR.OPS.B.055 Fuel quality**
+
+The aerodrome operator shall verify that organisations involved in storing and dispensing of fuel to aircraft have procedures to ensure that aircraft are provided with uncontaminated fuel and of the correct specification.
+
+**ADR.OPS.B.065 Visual aids and aerodrome electrical systems**
+
+The aerodrome operator shall have procedures to ensure that aerodrome visual aids and electrical systems function as intended.
+
+**ADR.OPS.B.070 Aerodrome works safety**
+
+(a) The aerodrome operator shall establish and implement a process for managing the aerodrome’s operational safety during works on the movement area.
+
+(b) The process shall establish and document the responsibilities as regards:
+
+(1) the authorisation to perform the works;
+
+(2) the implementation of any proposed change to operational facilities;
+
+(3) the date and time when operations in the facilities will be limited or discontinued;
+
+(4) the methods by which such changes will be promulgated;
+
+(5) the oversight and control of the work in progress;
+
+(6) the compliance with all relevant movement area safety rules.
+
+(c) The process for managing the aerodrome’s operational safety during works shall contain the following elements:
+
+(1) a works’ planning procedure;
+
+(2) a procedure for the safety assessment of the planned changes to the aerodrome’s operations or systems;
+
+(3) a works’ authorisation procedure;
+
+(4) a procedure for the promulgation of information related to the works;
+
+(5) a procedure for worksite establishment and return to operations;
+
+(6) a procedure for the monitoring, oversight and control of the works.
+
+(d) Where reduced runway length operations are required due to works, the aerodrome operator shall develop and implement a procedure for such operations.
+
+**ADR.OPS.B.071 Closed runways and taxiways, or parts thereof**
+
+(a) The aerodrome operator shall ensure that closed markings are displayed on:
+
+(1) a runway or a taxiway, or a portion thereof, which is permanently closed to use by all aircraft;
+
+(2) a temporarily closed runway or taxiway, or a portion thereof, except that such markings may be omitted when the closure is of a short duration and adequate warning is provided by air traffic services.
+
+(b) By way of derogation from point (a), a closed marking need not be displayed on a permanently closed taxiway, or parts thereof, if entrance to the closed taxiway, or parts thereof, is marked and lit with unserviceability lights and markers.
+
+(c) The aerodrome operator shall ensure that when a runway or a taxiway, or a portion thereof, is permanently closed, all runway and taxiway markings are physically removed.
+
+(d) The aerodrome operator shall ensure that lighting on a closed runway or taxiway, or a portion thereof, is not operated, except as required for maintenance purposes.
+
+(e) The aerodrome operator shall ensure that in addition to closed markings, when a runway, a taxiway, or a portion thereof, is closed and is intercepted by a usable runway or taxiway which is used at night, unserviceability lights shall be placed across the entrance to the closed area.
+
+**ADR.OPS.B.075 Safeguarding of aerodromes**
+
+(a) The aerodrome operator shall monitor on the aerodrome and its surroundings:
+
+(1) obstacle limitation and protection surfaces as established in accordance with the certification basis, and other surfaces and areas associated with the aerodrome, in order to take, within its competence, appropriate action to mitigate the risks associated with the penetration of those surfaces and areas;
+
+(2) marking and lighting of obstacles in order to be able to take action within its competence, as appropriate; and
+
+(3) hazards related to human activities and land use in order to take action within its competence, as appropriate.
+
+(b) The aerodrome operator shall have procedures in place for mitigating the risks associated with obstacles, developments and other activities within the monitored areas that could impact safe operations of aircraft operating at, to or from the aerodrome.
+
+**ADR.OPS.B.080 Marking and lighting of vehicles and other mobile objects**
+
+(a) The aerodrome operator shall ensure that vehicles and other mobile objects, excluding aircraft, on the movement area of the aerodrome are:
+
+(1) marked by use of conspicuous colours, or display, at suitable locations, flags of appropriate size, chequered pattern and contrasting colours;
+
+(2) lighted with low-intensity obstacle lights whose type and characteristics are appropriate to their function, if the vehicles and the aerodrome are used at night or in conditions of low visibility. The colour of the lights to be displayed shall be as follows:
+
+(i) flashing blue for vehicles associated with emergency or security;
+
+(ii) flashing yellow for other vehicles, including follow-me vehicles;
+
+(iii) fixed red for objects with limited mobility.
+
+(b) The aerodrome operator may exempt from point (a) aircraft servicing equipment and vehicles used only on aprons.
+
+**ADR.OPS.B.090 Use of the aerodrome by aircraft exceeding the certified design characteristics of the aerodrome**
+
+(a) In order to allow the use of the aerodrome or parts thereof by aircraft exceeding the code letter or the outer main gear wheel span, or both, of the certified design characteristics of the aerodrome, the aerodrome operator shall apply for the prior approval of the Competent Authority; such approval is not required for aircraft emergency situations.
+
+(b) In the request for the prior approval of the Competent Authority for aircraft referred to in point (a), the aerodrome operator shall include an assessment of the impact of the following aircraft characteristics on the aerodrome infrastructure, its facilities, equipment, and operation, and vice versa:
+
+(1) wingspan;
+
+(2) outer main gear wheel span;
+
+(3) wheel base;
+
+(4) fuselage length;
+
+(5) fuselage width;
+
+(6) fuselage height;
+
+(7) nose geometry;
+
+(8) tail height;
+
+(9) wing tip vertical clearance;
+
+(10) cockpit view;
+
+(11) distance from the pilot’s eye position to the nose landing gear;
+
+(12) main landing gear layout;
+
+(13) gear steering system;
+
+(14) maximum aircraft mass;
+
+(15) landing gear geometry, tyre pressure and aircraft classification values;
+
+(16) engine characteristics;
+
+(17) maximum passenger and fuel carrying capacity;
+
+(18) flight performance.
+
+**ADR.OPS.B.095 Hot spots**
+
+(a) Whenever necessary, the aerodrome operator shall designate a location or several locations on the movement area of the aerodrome as ‘hot spot(s)’, as part of the safety programme it has established in accordance with ADR.OR.D.027.
+
+(b) Once a hot spot has been identified, the aerodrome operator shall implement measures to remove the hazard, and if this is not immediately possible, provide the relevant aeronautical data to the responsible aeronautical information services (AIS) unit for publication in the aeronautical information publication (AIP).
+
+**ADR.OPS.B.100 Suspension of runway operations and runway closure**
+
+(a) The aerodrome operator shall establish and implement, in cooperation with air traffic services, procedures for the temporary suspension of runway operations or planned runway closure.
+
+(b) The procedures shall contain the following:
+
+(1) roles and responsibilities of the aerodrome operator, the air traffic services and other organisations involved in aerodrome operations, as appropriate to the situation;
+
+(2) access of personnel to the closed runway;
+
+(3) safety measures in accordance with points ADR.OPS.B.070 and ADR.OPS.B.071;
+
+(4) publication of a NOTAM in accordance with point ADR.OPS.A.057, except when the suspension of runway operations is expected to be of short duration;
+
+(5) actions before recommencement of runway operations.
+
+**SUBPART C — AERODROME MAINTENANCE (ADR.OPS.C)**
+
+**ADR.OPS.C.005 Maintenance – General**
+
+(a) The aerodrome operator shall establish and implement a maintenance programme, which includes preventive maintenance where appropriate, to maintain aerodrome facilities, systems and equipment necessary for the operation of the aerodrome in a condition which does not impair the safety, regularity or efficiency of air navigation. The design and implementation of the maintenance programme shall observe human factors principles.
+
+(b) The aerodrome operator shall ensure that appropriate and adequate means are provided for the effective implementation of the maintenance programme.
+
+**ADR.OPS.C.007 Maintenance of vehicles**
+
+(a) The aerodrome operator shall:
+
+(1) establish and implement a maintenance programme, which includes preventive maintenance and observes human factors principles, for rescue and firefighting vehicles, to ensure effectiveness of the vehicles and their equipment and compliance with the specified response time throughout the life of the vehicle;
+
+(2) ensure the implementation of a maintenance programme for its other vehicles that operate on the movement area or other operational areas.
+
+(b) The aerodrome operator shall:
+
+(1) establish procedures to support the implementation of the maintenance programme referred to in point (a);
+
+(2) ensure that appropriate and adequate means and facilities are provided for its effective implementation;
+
+(3) keep maintenance records for each vehicle.
+
+(c) The aerodrome operator shall ensure that organisations that operate or provide services at the aerodrome:
+
+(1) maintain their vehicles that operate on the movement area or other operational areas, in accordance with an established maintenance programme, including preventive maintenance;
+
+(2) keep relevant maintenance records.
+
+(d) The aerodrome operator shall ensure that unserviceable vehicles are not used for operations.
+
+**ADR.OPS.C.010 Maintenance of pavements, other ground surfaces and drainage**
+
+(a) The aerodrome operator shall inspect the surfaces of all movement areas including pavements (runways, taxiways and aprons), adjacent areas and drainage to regularly assess their condition as part of an aerodrome preventive and corrective maintenance programme.
+
+(b) The aerodrome operator shall:
+
+(1) maintain the surfaces of all movement areas with the objective of avoiding and eliminating any FOD that might cause damage to aircraft or impair the operation of aircraft systems;
+
+(2) maintain the surface of runways, taxiways and aprons in order to prevent the formation of harmful irregularities;
+
+(3) maintain the runway in a condition so as to provide surface friction characteristics at or above the minimum standards;
+
+(4) periodically inspect and document the runway surface friction characteristics for maintenance purposes. The frequency of those inspections shall be sufficient to determine the trend of the surface friction characteristics of the runway;
+
+(5) take corrective maintenance action to prevent the runway surface friction characteristics for either the entire runway or a portion thereof, when uncontaminated, from falling below the minimum standards.
+
+**ADR.OPS.C.011 Overload operations**
+
+Whenever the aerodrome is expected to be used regularly by aircraft that may damage the pavements, the aerodrome operator shall establish criteria for overload operations.
+
+**ADR.OPS.C.015 Maintenance of visual aids and electrical systems**
+
+(a) The aerodrome operator shall establish and implement a preventive and corrective maintenance programme to ensure the serviceability of the electrical systems and the availability of power supply to all necessary facilities of the aerodrome, in a manner that ensures the safety, regularity and efficiency of air navigation.
+
+(b) The aerodrome operator shall establish and implement a preventive and corrective maintenance programme to ensure the serviceability of the individual lights and the aerodrome’s lighting systems reliability, in a manner that ensures continuity of guidance to, and control of aircraft and vehicles, as follows:
+
+(1) For a precision approach runway Category II or III, the system of preventive maintenance shall have as its objective that, during any period of Category II or III operations, all approach and runway lights are serviceable and that, in any event, at least:
+
+(i) 95 % of the lights are serviceable in each of the following elements:
+
+(A) precision approach Category II and III lighting system, the inner 450 m;
+
+(B) runway centre line lights;
+
+(C) runway threshold lights;
+
+(D) runway edge lights.
+
+(ii) 90 % of the lights are serviceable in the touchdown zone lights;
+
+(iii) 85 % of the lights are serviceable in the approach lighting system beyond 450 m;
+
+(iv) 75 % of the lights are serviceable in the runway-end lights.
+
+(2) The lights that may be unserviceable in accordance with point (1) shall not alter the basic pattern of the lighting system.
+
+(3) An unserviceable light shall not be permitted adjacent to another unserviceable light, except in a barrette or a crossbar where two adjacent unserviceable lights may be permitted.
+
+(4) For a stop bar that is provided at a runway-holding position and is used in conjunction with a runway intended for operations in runway visual range conditions less than a value of 550 m, the system of preventive maintenance shall have the following objectives:
+
+(i) no more than two lights shall remain unserviceable;
+
+(ii) two adjacent lights shall not remain unserviceable unless the light spacing is significantly less than that required.
+
+(5) For a taxiway intended for use in runway visual range conditions less than a value of 550 m, the system of preventive maintenance shall have as its objective that no two adjacent taxiway centre line lights be unserviceable.
+
+(6) For a precision approach runway Category I, the system of preventive maintenance employed shall have as its objective that, during any period of Category I operations, all approach and runway lights are serviceable and that, in any event:
+
+(i) at least 85 % of the lights are serviceable in each of the following:
+
+(A) precision approach Category I lighting system;
+
+(B) runway threshold lights;
+
+(C) runway edge lights;
+
+(D) runway-end lights;
+
+(ii) an unserviceable light shall not be permitted adjacent to another unserviceable light unless the light spacing is significantly less than that required.
+
+(7) For a runway meant for take-off in runway visual range conditions less than a value of 550 m, the system of preventive maintenance shall have as its objective that, during any period of operations, all runway lights are serviceable, and that, in any event:
+
+(i) at least:
+
+(A) 95 % of the lights are serviceable in the runway centre line lights (where provided) and in the runway edge lights;
+
+(B) 75 % of the lights are serviceable in the runway-end lights;
+
+(ii) an unserviceable light shall not be permitted adjacent to another unserviceable light.
+
+(8) For a runway meant for take-off in runway visual range conditions of a value of 550 m or greater, the system of preventive maintenance shall have as its objective that, during any period of operations, all runway lights are serviceable, and that, in any event:
+
+(i) at least 85 % of the lights are serviceable in the runway edge lights and runway-end lights;
+
+(ii) an unserviceable light shall not be permitted adjacent to another unserviceable light.
+
+(9) For a runway equipped with visual approach slope indicator systems, the system of preventive maintenance shall have as its objective that, during any period of operations, all units are serviceable. A unit shall be considered unserviceable if the number of unserviceable lights is such that the unit does not provide the intended guidance to the aircraft.
+
+(c) For the purposes of point (b), a light shall be deemed to be unserviceable if:
+
+(1) the main beam average intensity is less than 50 % of the value specified in the certification specifications issued by the Agency. For light units where the designed main beam average intensity is above the value specified in the certification specifications issued by the Agency, the 50 % value shall be related to that design value;
+
+(2) the filter associated with the light is missing, damaged, or the light does not produce the correct colour light beam.
+
+(d) The aerodrome operator shall establish and implement a preventive and corrective maintenance programme to ensure the serviceability and reliability of the system of markings and signs of the aerodrome, in a manner that ensures continuity of guidance to, and control of aircraft and vehicles.
+
+(e) Construction or maintenance activities shall not take place in the proximity of aerodrome electrical systems when low-visibility procedures are in effect at the aerodrome.
+
+(f) The aerodrome operator shall ensure that:
+
+(1) the preventive maintenance programmes referred to in points (a), (b) and (d) include appropriate inspections and checks of the individual elements of each system, and of the system itself, which are conducted in accordance with established procedures, and at defined intervals, appropriate to the intended operation and system;
+
+(2) appropriate corrective actions are taken to rectify any identified defects.
+
+(g) The aerodrome operator shall maintain records of the relevant maintenance activities.
+
+**SUBPART D – APRON MANAGEMENT OPERATIONS**
+
+**ADR.OPS.D.001 Apron management safety related activities**
+
+(a) The aerodrome operator shall ensure that means and procedures are established and implemented on the apron in order to:
+
+(1) regulate movement with the objective of preventing collisions between aircraft, and between aircraft and obstacles;
+
+(2) regulate entry of aircraft into, and coordinate exit of aircraft from the apron with the aerodrome control tower;
+
+(3) ensure safe and expeditious movement of vehicles;
+
+(4) and appropriate regulation of the following activities:
+
+(i) aircraft stand allocation;
+
+(ii) provision of marshalling services;
+
+(iii) aircraft parking procedure and departure from the stand;
+
+(iv) aircraft refuelling;
+
+(v) jet blast precautions and engine tests;
+
+(vi) start up clearances and taxi instructions.
+
+(b) The aerodrome operator, in order to implement point (a) may allocate responsibilities to other organisations. If the aerodrome operator allocates such responsibilities, it shall include the allocation in the aerodrome manual.
+
+**ADR.OPS.D.005 Apron boundaries**
+
+(a) The aerodrome operator, in cooperation with the air traffic service provider, shall define and provide the apron boundaries to the aeronautical information service provider for publication in the Aeronautical Information Publication (AIP).
+
+(b) When defining the apron boundaries, at least the following shall be taken into consideration:
+
+(1) aerodrome layout;
+
+(2) runway and taxiway configuration and method of operation;
+
+(3) traffic density;
+
+(4) weather conditions;
+
+(5) operational procedures.
+
+**ADR.OPS.D.010 Coordination of aircraft entry to/exit from the apron**
+
+(a) The aerodrome operator shall ensure that the aircraft entry to and exit from the apron is coordinated with the air traffic services provider, where aircraft movement on the apron is not managed by the air traffic service provider. The coordination shall include:
+
+(1) designated handover points between apron management service and air traffic service for arriving and departing aircraft;
+
+(2) designated air-ground communication facilities to be used at the apron;
+
+(3) holding areas for arriving aircraft when aircraft stands are not available.
+
+(b) The aerodrome operator shall provide to the aeronautical information service providers for publication in the Aeronautical Information Publication (AIP):
+
+(1) the designated handover points referred to in point (a)(1);
+
+(2) the designated air-ground communication facilities referred to in point (a)(2).
+
+**ADR.OPS.D.015 Management of aircraft movements on the apron**
+
+The aerodrome operator shall ensure that:
+
+(a) aircraft are provided with instructions on the route to be followed on the apron;
+
+(b) adequate visual aids are provided in order to ensure that flight crews are able to identify the assigned route;
+
+(c) the intended route is free of any obstacle that may risk collision with the moving aircraft.
+
+**ADR.OPS. D.025 Aircraft stand allocation**
+
+(a) The aerodrome operator shall establish and ensure the implementation of procedures to ensure that the allocated aircraft stand is:
+
+(1) suitable for the aircraft type intended to use it;
+
+(2) communicated to the organisation responsible for the provision of AMS, when established, or to the appropriate air traffic service provider;
+
+(3) communicated to the persons responsible for the manoeuvring of the aircraft.
+
+(b) The aerodrome operator shall ensure that, at least the following parameters are taken into consideration when allocating aircraft to aircraft stands:
+
+(1) aircraft characteristics;
+
+(2) parking aids;
+
+(3) facilities serving the aircraft stand;
+
+(4) vicinity of infrastructure;
+
+(5) other parked aircraft in the neighbouring aircraft stands;
+
+(6) aircraft stand dependencies.
+
+**ADR.OPS.D.030 Marshalling of aircraft**
+
+The aerodrome operator shall ensure that marshalling of aircraft is provided using the marshalling signals in accordance with Appendix 1 to the Annex to Commission Implementing Regulation (EU) No 923/2012 ( 8 ).
+
+**ADR.OPS.D.035 Aircraft parking**
+
+The aerodrome operator shall establish and ensure the implementation of procedures to ensure that:
+
+(a) an area designated for aircraft parking on an apron is monitored to ensure that the clearance distances are maintained during the parking manoeuvre;
+
+(b) guidance is provided to enable the aircraft to park safely;
+
+(c) automated parking guidance systems, if installed, are functioning properly;
+
+(d) persons responsible for aircraft taxiing are alerted to stop the aircraft when the clearance distances are not maintained;
+
+(e) persons, other than those required to assist the aircraft parking procedure, are prohibited to approach the aircraft when anti-collision lights are turned on and engines are running;
+
+(f) the aircraft stand is clear of any Foreign Object Debris (FOD) that may have an impact on safety.
+
+**ADR.OPS.D.040 Aircraft departure from the stand**
+
+The aerodrome operator shall establish and ensure the implementation of procedures to ensure that during the departure of an aircraft from the aircraft stand:
+
+(a) ground servicing equipment, excluding push-back trucks if required for the movement of aircraft, and vehicles have been removed from the aircraft stand or parked in designated areas;
+
+(b) if the aircraft stand is served by passenger boarding bridges, they have been retracted;
+
+(c) the designated exit route from the aircraft stand is free of foreign object debris (FOD);
+
+(d) vehicle movements on the stand and traffic on the adjacent road(s) have ceased, except for push-back trucks if required for the movement of aircraft;
+
+(e) persons, other than those required to assist the aircraft departure from the aircraft stand, are prohibited to approach the aircraft when anti-collision lights are turned on and engines are running.
+
+**ADR.OPS.D.045 Dissemination of information to organisations operating at the apron**
+
+(a) The aerodrome operator shall disseminate information regarding limitations to operations on the apron in a timely manner to relevant organisations operating on the apron.
+
+(b) The information to be provided shall include the following, as applicable:
+
+(1) the type of the limitation;
+
+(2) the duration of the limitation, if known;
+
+(3) mitigation measures to be applied;
+
+(4) the operational impact of the limitation;
+
+(5) availability of aircraft stands;
+
+(6) restrictions on aircraft stands;
+
+(7) availability of fixed installations at aircraft stands;
+
+(8) special parking procedures;
+
+(9) temporary changes of driving routes;
+
+(10) work in progress;
+
+(11) any other information that has operational significance to the apron users.
+
+**ADR.OPS.D.050 Alerting of emergency services**
+
+(a) The aerodrome operator shall:
+
+(1) establish and implement in the aerodrome emergency plan a procedure for alerting emergency services for accidents and incidents at the apron;
+
+(2) provide the appropriate means and facilities for alerting the relevant emergency services.
+
+(b) The procedure established by the aerodrome operator shall include at least the following:
+
+(1) the contact details and the means that shall be used for alerting the emergency services;
+
+(2) the information that has to be given to emergency services in order to handle the incident efficiently, such as:
+
+(i) location of the accident or incident;
+
+(ii) nature of the accident or incident;
+
+(iii) damages;
+
+(iv) injuries to persons;
+
+(v) dangerous goods.
+
+**ADR.OPS.D.055 Jet blast precautions**
+
+(a) The aerodrome operator shall make apron users aware of the hazards arising from jet blast and propeller slipstream.
+
+(b) The aerodrome operator shall require the apron users to secure vehicles and equipment properly and designate parking areas where the effect of jet blast or propeller slipstream is minimised.
+
+(c) When designing or making changes to apron layouts, the aerodrome operator shall take into consideration the effect of jet blast or propeller slipstream.
+
+(d) The aerodrome operator shall identify jet blast-sensitive places and shall either publish a request for minimum thrust to pilots, or take appropriate mitigating measures to minimize the jet blast effect.
+
+**ADR.OPS.D.060 Aircraft refuelling**
+
+(a) The aerodrome operator shall establish a procedure for aircraft refuelling.
+
+(b) The procedure shall require the following:
+
+(1) the prohibition of open flames and the use of electrical or similar tools likely to produce sparks or arcs within the refuelling zone;
+
+(2) the prohibition to start ground power units during refuelling;
+
+(3) the existence of an unobstructed path from the aircraft to allow the quick removal of fuel bowsers and persons in case of emergency;
+
+(4) the correct bonding of aircraft and fuel supply sources and the correct application of earthing procedures;
+
+(5) the immediate notification of the fuelling supervisor in case of fuel spillage and detailed instructions on how to handle fuel spillages;
+
+(6) the positioning of ground support equipment in such a way that emergency exits are free of any obstruction to allow the expeditious evacuation of the passengers, if passengers are embarking or disembarking or remain in the aircraft during refuelling;
+
+(7) the ready availability of fire extinguishers of a suitable type for at least initial intervention in the event of a fuel fire;
+
+(8) the discontinuation of refuelling operations if electrical thunderstorms are at or in the vicinity of the aerodrome.
+
+**ADR.OPS.D.065 Engine test**
+
+(a) The aerodrome operator shall establish and implement an engine test procedure.
+
+(b) The procedure shall include the following:
+
+(1) the person that has the authority to approve engine tests;
+
+(2) the areas where engine tests are conducted;
+
+(3) the safety measures that need to be taken.
+
+**ADR.OPS.D.070 High-visibility clothing**
+
+The aerodrome operator shall require that all personnel working outside, on foot, on the movement area shall wear high-visibility clothing.
+
+**ADR.OPS.D.075 Start-up clearances and taxi instructions**
+
+(a) The aerodrome operator shall ensure that start-up clearances, push-back clearances, if required, and taxi instructions are coordinated with the air traffic service provider, when the aircraft movement on the apron is not managed by the air traffic service provider.
+
+(b) In this case, the aerodrome operator in cooperation with the air traffic service provider shall establish and implement a procedure, which shall include the following:
+
+(1) definition of the authority to issue start-up clearances;
+
+(2) means to inform each other for start-up clearances issued;
+
+(3) means to inform each other of push-back clearances and taxi instructions given.
+
+**ADR.OPS.D.080 Training and proficiency check programmes of marshallers and ‘FOLLOW-ME’ drivers**
+
+(a) The aerodrome operator shall establish and ensure the implementation of a training programme for persons providing:
+
+(1) marshalling service;
+
+(2) ‘FOLLOW-ME’ guidance.
+
+(b) The training programme shall be implemented in accordance with point ADR.OR.D.017 of Annex III.
+
+(c) The training shall be designed to impart fundamental knowledge and practical skills related to the execution of their duties.
+
+(d) The aerodrome operator shall ensure the implementation of a proficiency check programme for personnel referred to in point (a) in order to ensure:
+
+(1) their continued competence;
+
+(2) that they are aware of the rules and procedures relevant to their functions and tasks. The aerodrome operator shall ensure that persons referred to in point (a) undergo proficiency checks at intervals not exceeding 12 months since the completion of their initial training.
+
+**ADR.OPS.D.085 Training and proficiency check programme of personnel providing taxi instructions to aircraft through radiotelephony**
+
+(a) The aerodrome operator shall ensure that:
+
+(1) persons providing taxi instructions to aircraft on the apron through radiotelephony, using the assigned aeronautical radio frequencies, are appropriately trained and qualified;
+
+(2) the training programme is implemented in accordance with point ADR.OR.D.017 of Annex III, with the following exceptions:
+
+(i) the initial training shall be followed by a unit training which comprises the following phases:
+
+(A) transitional training phase, designed primarily to impart knowledge and understanding of site-specific operational procedures and task-specific aspects;
+
+(B) on-the-job training phase, which is the final phase of unit training during which previously acquired job-related routines and skills are integrated in practice under the supervision of a qualified training instructor in a live traffic situation;
+
+(ii) recurrent training shall be conducted at intervals not exceeding 12 calendar months and contains a review of the initial training content
+
+(iii) refresher training shall be conducted when a person is absent from duties for a period of more than 12 months and shall include the entire initial training content.
+
+(b) Persons referred to in point (a)(1) shall demonstrate language proficiency, at least at an operational level both in the use of phraseologies and in plain language, in accordance with point (c), in the languages used for air-ground communication at the aerodrome.
+
+(c) The applicant shall demonstrate the ability to:
+
+(1) communicate effectively in voice-only and in face-to-face situations;
+
+(2) communicate on common and work-related topics with accuracy and clarity;
+
+(3) use appropriate communicative strategies to exchange messages and to recognise and resolve misunderstandings in a general or work-related context;
+
+(4) handle successfully the linguistic challenges presented by a complication or unexpected turn of events which occurs within the context of a routine work situation or communicative task with which they are otherwise familiar;
+
+(5) use a dialect or accent which is intelligible to the aeronautical community.
+
+(d) Language proficiency shall be demonstrated by a certificate issued by the organisation that conducted the assessment, attesting the language or languages, the level or levels of proficiency, and the date of the assessment.
+
+(e) Except for persons who have demonstrated language proficiency at an expert level, the language proficiency shall be re-assessed every:
+
+(1) four years from the date of the assessment, if the level demonstrated is operational level;
+
+(2) six years from the date of the assessment, if the level demonstrated is extended level.
+
+(f) The demonstration of language proficiency shall be done through a method of assessment, which shall contain:
+
+(1) the process by which an assessment is done;
+
+(2) the qualifications of the assessors conducting assessments of language proficiency;
+
+(3) the appeal procedure.
+
+(g) The aerodrome operator shall make available language training to maintain the required level of language proficiency of its personnel.
+
+(h) The aerodrome operator shall ensure the implementation of a proficiency check programme for personnel referred to in point (a)(1) in order to ensure:
+
+(1) their continued competence;
+
+(2) that they are aware of the rules and procedures relevant to their functions and tasks. The aerodrome operator shall ensure that persons referred to in point (a) undergo proficiency checks at intervals not exceeding 12 months since the completion of their initial training.
+
+## Appendix 1 — NOTAM FORMAT
+
+[image]
+
+## Appendix 2 — SNOWTAM FORMAT
+
+[image]
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+( 2 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+( 3 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18)
+
+( 4 ) Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation (EC) No 482/2008, Implementing Regulations (EU) No 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011 (OJ L 62, 8.3.2017, p. 1).
+
+( 5 ) Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, 26.9.2022, p. 18).
+
+( 6 ) Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation (EC) No 482/2008, Implementing Regulations (EU) No 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011 (OJ L 62, 8.3.2017, p. 1).
+
+( 7 ) Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010 (OJ L 281, 13.10.2012, p. 1).
+
+( 8 ) Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010 (OJ L 281, 13.10.2012, p. 1).

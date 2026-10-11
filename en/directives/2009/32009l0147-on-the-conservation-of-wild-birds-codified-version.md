@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/17/EU of 13 May 2013 </td><td> L 158</td><td>193</td><td>10.6.2013</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+</table>
 
 **DIRECTIVE 2009/147/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -989,6 +991,7 @@ Corvus frugilegus
 
 Corvus corone
 
+<table>
 <tbody><tr><td>  </td><td>BE</td><td>BG</td><td>CZ</td><td>DK</td><td>DE</td><td>EE</td><td>IE</td><td>EL</td><td>ES</td><td>FR</td><td>HR</td><td>IT</td><td>CY</td><td>LV</td><td>LT</td><td>LU</td><td>HU</td><td>MT</td><td>NL</td><td>AT</td><td>PL</td><td>PT</td><td>RO</td><td>SI</td><td>SK</td><td>FI</td><td>SE</td><td>UK</td></tr>
 <tr><td>Cygnus olor</td><td>  </td><td>  </td><td>  </td><td>  </td><td>+</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>+</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>Anser brachyrhynchus</td><td>+</td><td>  </td><td>  </td><td>+</td><td>  </td><td>  </td><td>+</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>+</td></tr>
@@ -1050,6 +1053,7 @@ Corvus corone
 <tr><td>Corvus corone</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>  </td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>  </td><td>+</td><td>  </td><td>  </td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr>
 <tr><td colspan="29">AT = Österreich, BE = Belgique/België, BG = България, CY = Κύπρος, CZ = Česká republika, DE = Deutschland, DK = Danmark, EE = Eesti, ES = España, FI = Suomi/Finland, FR = France, EL = Ελλάδα, HR = Hrvatska, HU = Magyarország, IE = Ireland, IT = Italia, LT = Lietuva, LU = Luxembourg, LV = Latvija, MT = Malta, NL = Nederland, PL = Polska, PT = Portugal, RO = România, SE = Sverige, SI = Slovenija, SK = Slovensko, UK = United Kingdom + = Member States which under Article 7(3) may authorise hunting of the species listed. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

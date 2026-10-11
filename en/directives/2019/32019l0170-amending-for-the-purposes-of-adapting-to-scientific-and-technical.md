@@ -89,6 +89,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 7(c)-IV is replaced by the following:
 
+<table>
 <tbody><tr><td>‘7(c)-IV</td><td>Lead in PZT based dielectric ceramic materials for capacitors which are part of integrated circuits or discrete semiconductors</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10;</td></tr>
 </tbody>
 </table>
@@ -103,3 +104,4 @@ In Annex III, entry 7(c)-IV is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

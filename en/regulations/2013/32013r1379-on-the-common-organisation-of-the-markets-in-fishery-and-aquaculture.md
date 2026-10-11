@@ -1,0 +1,922 @@
+---
+title: "Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000"
+identifier: "32013R1379"
+eli: "http://data.europa.eu/eli/reg/2013/1379/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-12-11
+entry_into_force: 2013-05-13
+last_amended: 2024-11-27
+consolidated_version: "02013R1379-20241127"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1379-20241127"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000
+
+**REGULATION (EU) No 1379/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2013**
+
+**on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 1385/2013 of 17 December 2013 </td><td> L 354</td><td>86</td><td>28.12.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2015/812 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2015 </td><td> L 133</td><td>1</td><td>29.5.2015</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/560 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2020 </td><td> L 130</td><td>11</td><td>24.4.2020</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/2838 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 </td><td> L 2838</td><td>1</td><td>7.11.2024</td></tr>
+</table>
+
+**REGULATION (EU) No 1379/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2013**
+
+**on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+1\. A common organisation of the markets in fishery and aquaculture products (CMO) is hereby established.
+
+2\. The CMO shall be comprised of the following elements:
+
+(a) professional organisations;
+
+(b) marketing standards;
+
+(c) consumer information;
+
+(d) competition rules;
+
+(e) market intelligence.
+
+3\. The CMO shall be supplemented, as regards external aspects, by Council Regulation (EU) No 1220/2012 ( 1 ) and by Regulation (EU) No 1026/2012 of the European Parliament and of the Council ( 2 ).
+
+4\. Implementation of the CMO shall be eligible to receive Union financial support in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+#### Article 2 — Scope
+
+The CMO shall apply to the fishery and aquaculture products listed in Annex I to this Regulation, which are marketed in the Union.
+
+#### Article 3 — Objectives
+
+The objectives of the CMO are those laid down in Article 35 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council ( 3 ).
+
+#### Article 4 — Principles
+
+The CMO shall be guided by the principles of good governance laid down in Article 3 of Regulation (EU) No 1380/2013.
+
+#### Article 5 — Definitions
+
+For the purposes of this Regulation, the definitions referred to in Article 4 of Regulation (EU) No 1380/2013, as well as those referred to in Article 4 of Council Regulation (EC) No 1224/2009 ( 4 ), in Article 2 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council ( 5 ), in Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 6 ), and in Article 3 of Regulation (EC) No 1333/2008 of the European Parliament and of the Council ( 7 ), shall apply. The following definitions shall also apply:
+
+(a) 'fishery products' mean aquatic organisms resulting from any fishing activity or products derived therefrom, as listed in Annex I;
+
+(b) 'aquaculture products' mean aquatic organisms at any stage of their life cycle resulting from any aquaculture activity or products derived therefrom, as listed in Annex I;
+
+(c) 'producer' means any natural or legal person using means of production to obtain fishery or aquaculture products with a view to placing them on the market;
+
+(d) 'fishery and aquaculture sector' means the sector of the economy which comprises all activities of production, processing and marketing of fishery or aquaculture products;
+
+(e) 'making available on the market' means any supply of a fishery or aquaculture product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(f) 'placing on the market' means the first making available of a fishery or aquaculture product on the Union market;
+
+(g) 'retail' means the handling and/or processing of food and its storage at the point of sale or delivery to the final consumer, including distribution terminals, catering operations, factory canteens, institutional catering, restaurants and other similar food service operations, shops, supermarket distribution centres and wholesale outlets;
+
+(h) 'prepacked fishery and aquaculture products' mean fishery and aquaculture products which are 'prepacked food' as referred to in point (e) of Article 2(2) of Regulation (EC) No 1169/2011.
+
+## CHAPTER II — PROFESSIONAL ORGANISATIONS
+
+### SECTION I — Establishment, objectives and measures
+
+#### Article 6 — Establishment of fishery producer organisations and aquaculture producer organisations
+
+1\. Fishery producer organisations and aquaculture producer organisations (‘producer organisations’) may be established on the initiative of producers of fishery or aquaculture products in one or more Member States and recognised in accordance with Section II.
+
+2\. Where relevant, the specific situation of small-scale producers shall be taken into account when establishing producer organisations.
+
+3\. A producer organisation that is representative of both fishery and aquaculture activities may be established as a joint fishery and aquaculture producer organisation.
+
+#### Article 7 — Objectives of producer organisations
+
+1\. Fishery producer organisations shall pursue the following objectives:
+
+(a) promoting the viable and sustainable fishing activities of their members in full compliance with the conservation policy, as laid down, in particular, in Regulation (EU) No 1380/2013 and in environmental law, while respecting social policy and, where the Member State concerned so provides, participating in the management of marine biological resources;
+
+(b) avoiding and reducing as far as possible unwanted catches of commercial stocks and, where necessary, making the best use of such catches, without creating a market for those that are below the minimum conservation reference size, in accordance with Article 15 of Regulation (EU) No 1380/2013;
+
+(c) contributing to the traceability of fishery products and access to clear and comprehensive information for consumers;
+
+(d) contributing to the elimination of illegal, unreported and unregulated fishing.
+
+2\. Aquaculture producer organisations shall pursue the following objectives:
+
+(a) promoting the sustainable aquaculture activities of their members through providing opportunities for their development in full compliance with, in particular, Regulation (EU) No 1380/2013 and with environmental law, while respecting social policy;
+
+(b) ascertaining that the activities of their members are consistent with the national strategic plans referred to in Article 34 of Regulation (EU) No 1380/2013;
+
+(c) endeavouring to ensure that aquaculture feed products of fishery origin come from fisheries that are sustainably managed.
+
+3\. Producer organisations shall, in addition to the objectives laid down in paragraphs 1 and 2, pursue two or more of the following objectives:
+
+(a) improving the conditions for the placing on the market of their members' fishery and aquaculture products;
+
+(b) improving economic returns;
+
+(c) stabilising the markets;
+
+(d) contributing to food supply and promoting high food quality and safety standards, whilst contributing to employment in coastal and rural areas;
+
+(e) reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears.
+
+4\. Producer organisations may pursue other complementary objectives.
+
+#### Article 8 — Measures deployable by producer organisations
+
+1\. In order to achieve the objectives set out in Article 7, producer organisations may, inter alia, make use of the following measures:
+
+(a) adjusting production to market requirements;
+
+(b) channelling the supply and marketing of their members' products;
+
+(c) promoting the Union fishery and aquaculture products of their members in a non-discriminatory manner by using, for example, certification, and in particular designations of origin, quality seals, geographical designations, traditional specialities guaranteed, and sustainability merits;
+
+(d) controlling and taking measures to ensure that their members' activities comply with the rules established by the producer organisation concerned;
+
+(e) promoting vocational training and cooperation programmes to encourage young people to enter the sector;
+
+(f) reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears;
+
+(g) promoting the use of information and communication technology to improve marketing and prices;
+
+(h) facilitating consumer access to information on fishery and aquaculture products.
+
+2\. Fishery producer organisations may also make use of the following measures:
+
+(a) collectively planning and managing the fishing activities of their members, subject to the organisation, by Member States, of the management of marine biological resources, including developing and implementing measures to improve the selectivity of fishing activities and advising competent authorities;
+
+(b) avoiding and minimising unwanted catches through involvement in the development and application of technical measures, and making the best use of unwanted catches of commercial stocks without creating a market for those catches that are below the minimum conservation reference size, in accordance with Article 15(11) of Regulation (EU) No 1380/2013 and Article 34(2) of this Regulation, as appropriate;
+
+(c) managing temporary storage for fishery products in accordance with Articles 30 and 31 of this Regulation.
+
+3\. Aquaculture producer organisations may also make use of the following measures:
+
+(a) promoting sustainable aquaculture activities, notably in terms of environmental protection, animal health and animal welfare;
+
+(b) collecting information on the marketed products, including economic information on first sales, and on production forecasts;
+
+(c) collecting environmental information;
+
+(d) planning the management of the aquaculture activities of their members;
+
+(e) supporting programmes for professionals to promote sustainable aquaculture products;
+
+(f) managing temporary storage for aquaculture products in accordance with Articles 30 and 31 of this Regulation.
+
+#### Article 9 — Establishment of associations of producer organisations
+
+1\. An association of producer organisations may be established at the initiative of producer organisations recognised in one or more Member States.
+
+2\. The provisions of this Regulation applicable to producer organisations shall also apply to associations of producer organisations unless stated otherwise.
+
+#### Article 10 — Objectives of associations of producer organisations
+
+1\. Associations of producer organisations shall pursue the following objectives:
+
+(a) performing in a more efficient and sustainable manner any of the objectives of the member producer organisations laid down in Article 7;
+
+(b) coordinating and developing activities of common interest for the member producer organisations.
+
+2\. Associations of producer organisations shall be eligible for financial support in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+#### Article 11 — Establishment of inter-branch organisations
+
+Inter-branch organisations may be established at the initiative of operators of fishery and aquaculture products in one or more Member States and recognised in accordance with Section II.
+
+#### Article 12 — Objectives of inter-branch organisations
+
+Inter-branch organisations shall improve the coordination of, and the conditions for, making fishery and aquaculture products available on the Union market.
+
+#### Article 13 — Measures deployable by inter-branch organisations
+
+In order to achieve the objectives referred to in Article 12, inter-branch organisations may make use of the following measures:
+
+(a) drawing up standard contracts which are compatible with Union legislation;
+
+(b) promoting Union fishery and aquaculture products in a non-discriminatory manner by using, for example, certification, and in particular designations of origin, quality seals, geographical designations, traditional specialities guaranteed, and sustainability merits;
+
+(c) laying down rules on the production and marketing of fishery and aquaculture products which are stricter than those laid down in Union or national legislation;
+
+(d) improving quality, knowledge of, and the transparency of, production and the market, as well as carrying out professional and vocational training activities, for example, on quality and traceability matters, on food safety and in order to encourage research initiatives;
+
+(e) performing research and market studies, and developing techniques to optimise the operation of the market, including through the use of information and communication technology, as well as collecting socio-economic data;
+
+(f) providing the information and carrying out the research needed to deliver sustainable supplies at the quantity, quality and price corresponding to market requirements and consumer expectations;
+
+(g) promoting, among consumers, species obtained from fish stocks that are in a sustainable state, that have appreciable nutritional value and that are not widely consumed;
+
+(h) controlling and taking measures for compliance of their members' activities with the rules established by the inter-branch organisation concerned.
+
+### SECTION II — Recognition
+
+#### Article 14 — Recognition of producer organisations
+
+1\. Member States may recognise as producer organisations all groups set up on the initiative of fishery or aquaculture producers which apply for such recognition, provided that they:
+
+(a) comply with the principles set out in Article 17 and with the rules adopted for their application;
+
+(b) are sufficiently economically active in the territory of the Member State concerned or a part thereof, in particular as regards the number of members or the volume of marketable production;
+
+(c) have legal personality under the national law of the Member State concerned, are established there and have their official headquarters in its territory;
+
+(d) are capable of pursuing the objectives laid down in Article 7;
+
+(e) comply with the competition rules referred to in Chapter V;
+
+(f) do not abuse a dominant position on a given market; and
+
+(g) provide relevant details of their membership, governance and sources of funding.
+
+2\. Producer organisations recognised before 29 December 2013 shall be considered to be producer organisations for the purposes of this Regulation, and to be bound by its provisions.
+
+#### Article 15 — Financial support to producer organisations or associations of producer organisations
+
+Marketing measures for fishery and aquaculture products which aim to create or restructure producer organisations or associations of producer organisations may be financially supported in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+#### Article 16 — Recognition of inter-branch organisations
+
+1\. Member States may recognise as inter-branch organisations the groups of operators established on their territory which apply for such recognition, provided that they:
+
+(a) comply with the principles set out in Article 17 and with the rules adopted for their application;
+
+(b) represent a significant share of production activity and of either processing or marketing activities or of both, concerning fishery and aquaculture products or products processed from fishery and aquaculture products;
+
+(c) are not themselves engaged in the production, processing or marketing of fishery and aquaculture products or products processed from fishery and aquaculture products;
+
+(d) have legal personality under the national law of a Member State, are established there and have their official headquarters in its territory;
+
+(e) are capable of pursuing the objectives laid down in Article 12;
+
+(f) take into account the interest of consumers;
+
+(g) do not hinder the sound operation of the CMO; and
+
+(h) comply with the competition rules referred to in Chapter V.
+
+2\. Organisations established before 29 December 2013 may be recognised as inter-branch organisations for the purposes of this Regulation provided that the Member State concerned is satisfied that they comply with the provisions of this Regulation regarding inter-branch organisations.
+
+3\. Inter-branch organisations recognised before 29 décembre 2013 shall be considered to be inter-branch organisations for the purposes of this Regulation and to be bound by its provisions.
+
+#### Article 17 — Internal functioning of producer organisations and inter-branch organisations
+
+The internal functioning of producer organisations and inter-branch organisations referred to in Articles 14 and 16 shall be based on the following principles:
+
+(a) compliance by its members with the rules adopted by the organisation in terms of fisheries exploitation, production and marketing;
+
+(b) non-discrimination among members, particularly on grounds of nationality or place of establishment;
+
+(c) the levying of a financial contribution from its members in order to finance the organisation;
+
+(d) a democratic functioning that enables the members to scrutinise their organisation and its decisions;
+
+(e) the imposition of effective, dissuasive and proportionate penalties for infringement of obligations laid down in the internal rules of the organisation concerned, particularly in the case of –non payment of financial contributions;
+
+(f) the definition of rules on the admission of new members and the withdrawal of membership;
+
+(g) the definition of the accounting and budgetary rules necessary for the management of the organisation.
+
+#### Article 18 — Checks and withdrawal of recognition by Member States
+
+1\. Member States shall carry out checks at regular intervals to verify that producer organisations and inter-branch organisations comply with the conditions for recognition laid down in Articles 14 and 16 respectively. A finding of non-compliance may result in the withdrawal of recognition.
+
+2\. The Member State hosting the official headquarters of a producer organisation or an inter-branch organisation which has members from different Member States, or of an association of producer organisations recognised in different Member States, shall set up the administrative cooperation needed to carry out checks on the activities of the organisation or the association concerned in collaboration with the other Member States concerned.
+
+#### Article 19 — Allocation of fishing opportunities
+
+When performing its tasks, a producer organisation whose members are nationals of different Member States or an association of producer organisations recognised in different Member States shall comply with the provisions governing the allocation of fishing opportunities among Member States in accordance with Article 16 of Regulation (EU) No 1380/2013.
+
+#### Article 20 — Checks by the Commission
+
+1\. In order to ensure that the conditions for recognition of producer organisations or inter-branch organisations laid down in Articles 14 and 16 respectively are complied with, the Commission may carry out checks and shall, where appropriate, request that Member States withdraw the recognition of producer organisations or inter-branch organisations.
+
+2\. Member States shall communicate to the Commission by electronic means any decision to grant or withdraw the recognition. The Commission shall make all such information publically available.
+
+#### Article 21 — Implementing acts
+
+1\. The Commission shall adopt implementing acts concerning:
+
+(a) the time-limits and procedures and the form of applications for the recognition of producer organisations and inter-branch organisations pursuant to Articles 14 and 16 respectively, or for the withdrawal of such recognition pursuant to Article 18;
+
+(b) the format, time-limits and procedures to be applied by Member States for the communication to the Commission of any decision to grant or withdraw the recognition pursuant to Article 20(2).
+
+The implementing acts adopted under point (a) shall, where appropriate, be adapted to the special characteristics of small–scale fisheries and aquaculture.
+
+2\. The implementing acts referred to in paragraph 1 shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+### SECTION III — Extension of rules
+
+#### Article 22 — Extension of rules of producer organisations
+
+1\. A Member State may make the rules agreed within a producer organisation binding on producers who are not members of the organisation and who market any of the products within the area in which the producer organisation is representative, provided that:
+
+(a) the producer organisation has been established for a period of at least one year and is considered to be representative of production and marketing, including, where relevant, the small–scale and artisanal sector, in one Member State and makes an application to the competent national authorities;
+
+(b) the rules to be extended concern any of the measures for producer organisations laid down in points (a), (b) and (c) of Article 8(1), points (a) and (b) of Article 8(2) and points (a) to (e) of Article 8(3);
+
+(c) the competition rules referred to in Chapter V are complied with.
+
+2\. For the purposes of point (a) of paragraph 1, a fishery producer organisation is considered to be representative where it accounts for at least 55 % of the quantities marketed of the relevant product during the previous year in the area in which it is proposed to extend the rules.
+
+3\. For the purposes of point (a) of paragraph 1, an aquaculture producer organisation is considered to be representative where it accounts for at least 40 % of the quantities marketed of the relevant product during the previous year in the area in which it is proposed to extend the rules.
+
+4\. The rules to be extended to non-members shall apply for a period of between 60 days and 12 months.
+
+#### Article 23 — Extension of the rules of inter-branch organisations
+
+1\. A Member State may make some of the agreements, decisions or concerted practices agreed on within an inter-branch organisation binding in the specific area or areas on other operators who do not belong to that organisation, provided that:
+
+(a) the inter-branch organisation covers at least 65 % of each of at least two of the following activities: production, processing or marketing of the relevant product during the previous year in the area or areas concerned of a Member State, and makes an application to the competent national authorities; and
+
+(b) the rules to be extended to other operators concern any of the measures for inter-branch organisations laid down in points (a) to (g) of Article 13 and do not cause any damage to other operators in the Member State concerned or the Union.
+
+2\. The extension of rules may be made binding for no more than three years, without prejudice to Article 25(4).
+
+#### Article 24 — Liability
+
+When rules are extended to non-members in accordance with Articles 22 and 23, the Member State concerned may decide that non-members are liable to the producer organisation or the inter-branch organisation for the equivalent of all or part of the costs paid by members as a result of the application of the rules that have been extended to non-members.
+
+#### Article 25 — Authorisation by the Commission
+
+1\. Member States shall notify the Commission of the rules which they intend to make binding on all producers or operators in the specific area or areas pursuant to Articles 22 and 23.
+
+2\. The Commission shall adopt a decision authorising the extension of the rules referred to in paragraph 1, provided that:
+
+(a) the provisions of Articles 22 and 23 are complied with;
+
+(b) the competition rules referred to in Chapter V are complied with;
+
+(c) the extension does not jeopardise free trade; and
+
+(d) the achievement of the objectives of Article 39 TFEU is not endangered.
+
+3\. Within one month of receipt of the notification, the Commission shall take a decision authorising or refusing to authorise the extension of rules and shall inform the Member States thereof. Where the Commission has not taken a decision within one month of receipt of the notification, the extension of rules shall be deemed to have been authorised by the Commission.
+
+4\. An authorised extension of rules may continue to apply after the expiry of the initial period of time, including by tacit agreement, without an explicit renewal of the authorisation, provided that the Member State concerned has notified the Commission, at least one month before the expiry of such initial period, of the additional period of application and the Commission has either authorised such further application, or not objected to it within one month of receipt of such notification.
+
+#### Article 26 — Withdrawal of authorisation
+
+The Commission may carry out checks and may withdraw the authorisation of extension of rules where it establishes that any of the requirements for the authorisation is not met. The Commission shall inform the Member States of such withdrawal.
+
+#### Article 27 — Implementing acts
+
+The Commission shall adopt implementing acts concerning the format and procedure of the notification provided for in Article 25(1). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+### SECTION IV — Production and marketing planning
+
+#### Article 28 — Production and marketing plan
+
+1\. Each producer organisation shall submit a production and marketing plan for, at least, its main marketed species to its competent national authorities for approval. Such production and marketing plans shall have the aim of achieving the objectives laid down in Articles 3 and 7.
+
+2\. The production and marketing plan shall comprise:
+
+(a) a production programme for caught or farmed species;
+
+(b) a marketing strategy to match the quantity, quality and presentation of supply to market requirements;
+
+(c) measures to be taken by the producer organisation in order to contribute to the objectives laid down in Article 7;
+
+(d) special anticipatory measures to adjust the supply of species which habitually present marketing difficulties during the year;
+
+(e) penalties applicable to members who infringe decisions adopted to implement the plan concerned.
+
+3\. The competent national authorities shall approve the production and marketing plan. Once the plan is approved, the producer organisation shall immediately implement it.
+
+4\. Producer organisations may revise the production and marketing plan and shall, in such case, submit it for approval to the competent national authorities.
+
+5\. The producer organisation shall prepare an annual report of its activities under the production and marketing plan and shall submit it to its competent national authorities for approval.
+
+6\. Producer organisations may receive financial support for the preparation and implementation of production and marketing plans in accordance with a future Union legal act establishing the conditions for the financial support for maritime and fisheries policy for the period 2014–2020.
+
+7\. Member States shall carry out checks to ensure that each producer organisation fulfils the obligations provided for in this Article. A finding of non-compliance may result in the withdrawal of recognition.
+
+8\. In line with the objective set out in point (b) of Article 7(1), producer organisations shall ensure, in the production and marketing plans which they submit pursuant to paragraph 1 of this Article, that the landing of marine organisms below the minimum conservation reference size does not lead to the development of activities aimed specifically at the catching of those marine organisms.
+
+When carrying out the checks required by paragraph 7 of this Article, Member States shall ensure that producer organisations fulfil the obligation set out in the first subparagraph of this paragraph.
+
+#### Article 29 — Implementing acts
+
+1\. The Commission shall adopt implementing acts concerning:
+
+(a) the format and structure of the production and marketing plan referred to in Article 28;
+
+(b) the procedure and time-limits for the submission by producer organisations and the approval by Member States of the production and marketing plans referred to in Article 28.
+
+2\. The implementing acts referred to in paragraph 1 shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+### SECTION V — Stabilisation of the markets
+
+#### Article 30 — Storage mechanism
+
+Fishery and aquaculture producer organisations may receive financial support for the storage of products listed in Annex II or products falling within CN code 0302 as listed in point (a) of Annex I to this Regulation, provided that:
+
+(a) the conditions for storage aid, laid down in Regulation (EU) No 508/2014 of the European Parliament and of the Council ( 8 ), are complied with;
+
+(b) the products have been placed on the market by producer organisations and no buyer for them has been found at the trigger price referred to in Article 31;
+
+(c) where applicable, the products meet the common marketing standards established in accordance with Article 33 and are of adequate quality for human consumption;
+
+(d) the products are stabilised or processed and stored in tanks or cages, by way of freezing, either on board vessels or in land facilities, of salting, of drying, of marinating or, where relevant, of boiling and pasteurisation, whether or not the products are filleted, cut‐up or, where appropriate, headed;
+
+(e) aquaculture products are not stored alive;
+
+(f) the products are reintroduced from storage into the market for human consumption at a later stage, and
+
+(g) the products remain in storage for at least five days.
+
+#### Article 31 — Prices triggering the storage mechanism
+
+1\. Before the beginning of each year, each producer organisation may individually make a proposal for a price triggering the storage mechanism referred to in Article 30 for products listed in Annex II or products falling within CN code 0302 as listed in point (a) of Annex I to this Regulation.
+
+2\. The trigger price shall not exceed 80 % of the weighted average price recorded for the product in question in the area of activity of the producer organisation concerned during the three years immediately preceding the year for which the trigger price is fixed.
+
+3\. When determining the trigger price, account shall be taken of:
+
+(a) trends in production and demand;
+
+(b) the stabilisation of market prices;
+
+(c) the convergence of the markets;
+
+(d) the producers' incomes;
+
+(e) the interests of consumers.
+
+4\. Member States shall, upon examining the proposals of the producer organisations recognised in their territory, determine the trigger prices to be applied by those producer organisations. Those prices shall be fixed on the basis of the criteria referred to in paragraphs 2 and 3. The prices shall be made publicly available.
+
+5\. Where a Member State has not determined the trigger prices pursuant to paragraph 4 prior to the COVID‐19 outbreak, that Member State shall, without delay, determine the trigger prices concerned on the basis of the criteria referred to in paragraphs 2 and 3. The prices shall be made publicly available.
+
+#### Article 32 — Implementing acts
+
+The Commission shall adopt implementing acts concerning the format of publication by Member States of the trigger prices pursuant to Article 31(4). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+## CHAPTER III — COMMON MARKETING STANDARDS
+
+#### Article 33 — Establishment of common marketing standards
+
+1\. Without prejudice to Article 47, common marketing standards may be laid down for the fishery products that are listed in Annex I, regardless of their origin (Union or imported), that are intended for human consumption.
+
+2\. The standards referred to in paragraph 1 may relate to the quality, size, weight, packing, presentation or labelling of the products, and in particular to:
+
+(a) the minimum marketing sizes, taking into account the best available scientific advice; such minimum marketing sizes corresponding, where relevant, to minimum conservation reference sizes, in accordance with Article 15(10) of Regulation (EU) No 1380/2013;
+
+(b) specifications of preserved products in accordance with conservation requirements and international obligations.
+
+3\. Paragraphs 1 and 2 shall apply without prejudice to:
+
+(a) Regulation (EC) No 178/2002;
+
+(b) Regulation (EC) No 852/2004 of the European Parliament and of the Council ( 9 );
+
+(c) Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 10 );
+
+(d) Regulation (EC) No 854/2004 of the European Parliament and of the Council ( 11 );
+
+(e) Regulation (EC) No 882/2004 of the European Parliament and of the Council ( 12 );
+
+(f) Council Regulation (EC) No 1005/2008 ( 13 ); and
+
+(g) Regulation (EC) No 1224/2009.
+
+#### Article 34 — Compliance with common marketing standards
+
+1\. The products intended for human consumption for which common marketing standards are laid down may be made available on the Union market only in accordance with those standards.
+
+2\. All fishery products landed, including those that do not comply with common marketing standards, may be used for purposes other than direct human consumption, including fish meal, fish oil, pet food, food additives, pharmaceuticals or cosmetics.
+
+## CHAPTER IV — CONSUMER INFORMATION
+
+#### Article 35 — Mandatory information
+
+1\. Without prejudice to Regulation (EU) No 1169/2011, fishery and aquaculture products referred to in points (a), (b), (c) and (e) of Annex I to this Regulation which are marketed within the Union, irrespective of their origin or of their marketing method, may be offered for sale to the final consumer or to a mass caterer only if appropriate marking or labelling indicates:
+
+(a) the commercial designation of the species and its scientific name;
+
+(b) the production method, in particular by the following words ‘… caught …’ or ‘… caught in freshwater …’ or ‘… farmed …’;
+
+(c) the area where the product was caught or farmed, and the category of fishing gear used in capture of fisheries, as laid down in the first column of Annex III to this Regulation;
+
+(d) whether the product has been defrosted;
+
+(e) the date of minimum durability, where appropriate.
+
+The requirement in point (d) shall not apply to:
+
+(a) ingredients present in the final product;
+
+(b) foods for which freezing is a technologically necessary step in the production process;
+
+(c) fishery and aquaculture products previously frozen for health safety purposes, in accordance with Annex III, Section VIII, of Regulation (EC) No 853/2004;
+
+(d) fishery and aquaculture products which have been defrosted before the process of smoking, salting, cooking, pickling, drying or a combination of any of those processes.
+
+2\. For non-prepacked fishery and aquaculture products, the mandatory information listed in paragraph 1 may be provided for retail sale by means of commercial information such as billboards or posters.
+
+3\. Where a mixed product is offered for sale to the final consumer or to a mass caterer that consists of the same species but which has been derived from different production methods, the method for each batch shall be stated. Where a mixed product is offered for sale to the final consumer or to a mass caterer that consists of the same species but which has been derived from a variety of catch areas or fish–farming countries, at least the area of the batch which is most representative in terms of quantity shall be stated, together with an indication that the products also come from different catch or fish-farming areas.
+
+4\. Member States may exempt from the requirements referred to in paragraph 1 small quantities of products sold directly from fishing vessels to consumers, provided that those do not exceed the value referred to in Article 58(8) of Regulation (EC) No 1224/2009.
+
+5\. Fishery and aquaculture products and their packages which were labelled or marked prior to 13 December 2014 and which do not comply with this Article may be marketed until such stocks have been used up.
+
+6\. Until 31 December 2021, paragraphs 1, 2 and 3 shall not apply to products offered for retail sale to the final consumer in Mayotte, as an outermost region within the meaning of Article 349 TFEU.
+
+#### Article 36 — Eco-labelling reporting
+
+After consulting Member States and stakeholders, the Commission shall, by 1 January 2015, submit to the European Parliament and to the Council a feasibility report on options for an eco-label scheme for fishery and aquaculture products, in particular on establishing such a scheme on a Union-wide basis and on setting minimum requirements for the use by Member States of a Union eco-label.
+
+#### Article 37 — Commercial designation
+
+1\. For the purposes of Article 35(1), Member States shall draw up and publish a list of the commercial designations accepted in their territory, together with their scientific names. The list shall indicate:
+
+(a) the scientific name for each species, in accordance with the FishBase Information System or the ASFIS database of the Food and Agriculture Organization (FAO), where relevant;
+
+(b) the commercial designation:
+
+(i) the name of the species in the official language or languages of the Member State concerned;
+
+(ii) where applicable, any other name or names that are accepted or permitted locally or regionally.
+
+2\. All species of fish which constitute an ingredient of another food may be designated as ‘fish’, provided that the name and presentation of such food does not refer to a specific species.
+
+3\. Any changes to the list of commercial designations accepted by a Member State shall be notified forthwith to the Commission which shall inform the other Member States thereof.
+
+#### Article 38 — Indication of the catch or production area
+
+1\. The indication of the catch or production area in accordance with point (c) of Article 35(1) shall consist of the following:
+
+(a) in the case of fishery products caught at sea, the name in writing of the sub-area or division listed in the FAO fishing areas, as well as the name of such zone expressed in terms understandable to the consumer, or a map or pictogram showing that zone, or, by way of derogation from this requirement, for fishery products caught in waters other than the Northeast Atlantic (FAO Fishing Area 27) and the Mediterranean and Black Sea (FAO Fishing Area 37), the indication of the name of the FAO fishing area;
+
+(b) in the case of fishery products caught in freshwater, a reference to the body of water of origin in the Member State or third country of provenance of the product;
+
+(c) In the case of aquaculture products, a reference to the Member State or third country in which the product reached more than half of its final weight or stayed for more than half of the rearing period or, in the case of shellfish, underwent a final rearing or cultivation stage of at least six months.
+
+2\. In addition to the information referred to in paragraph 1, operators may indicate a more precise catch or production area.
+
+#### Article 39 — Additional voluntary information
+
+1\. In addition to the mandatory information required pursuant to Article 35, the following information may be provided on a voluntary basis, provided that it is clear and unambiguous:
+
+(a) the date of catch of fishery products or the date of harvest of aquaculture products;
+
+(b) the date of landing of fishery products or information on the port at which the products were landed;
+
+(c) more detailed information on the type of fishing gear, as listed in the second column of Annex III;
+
+(d) in the case of fishery products caught at sea, details of the flag State of the vessel that caught those products;
+
+(e) environmental information;
+
+(f) information of an ethical or social nature;
+
+(g) information on production techniques and practices;
+
+(h) information on the nutritional content of the product.
+
+2\. A Quick Response (QR) code may be used outlining part or all of the information listed in Article 35(1).
+
+3\. Voluntary information shall not be displayed to the detriment of the space available for mandatory information on the marking or labelling.
+
+4\. No voluntary information shall be included that cannot be verified.
+
+## CHAPTER V — COMPETITION RULES
+
+#### Article 40 — Application of competition rules
+
+Articles 101 to 106 TFEU and their implementing provisions shall apply to agreements, decisions and practices referred to in Article 101(1) and Article 102 TFEU which relate to production or marketing of fishery and aquaculture products.
+
+#### Article 41 — Exceptions to the application of competition rules
+
+1\. Notwithstanding Article 40 of this Regulation, Article 101(1) TFEU shall not apply to agreements, decisions and practices of producer organisations which concern the production or sale of fishery and aquaculture products, or the use of joint facilities for the storage, treatment or processing of fishery and aquaculture products, and which:
+
+(a) are necessary to attain the objectives set out in Article 39 TFEU;
+
+(b) do not imply any obligation to charge identical prices;
+
+(c) do not lead to the partitioning of markets in any form within the Union;
+
+(d) do not exclude competition; and
+
+(e) do not eliminate competition in respect of a substantial proportion of the products in question.
+
+2\. Notwithstanding Article 40 of this Regulation, Article 101(1) TFEU shall not apply to agreements, decisions and practices of inter-branch organisations which:
+
+(a) are necessary to attain the objectives set out in Article 39 TFEU;
+
+(b) do not entail any obligation to apply a fixed price;
+
+(c) do not lead to the partitioning of markets in any form within the Union;
+
+(d) do not apply dissimilar conditions to equivalent transactions with other trading partners, thereby placing them at a competitive disadvantage;
+
+(e) do not eliminate competition in respect of a substantial proportion of the products in question; and
+
+(f) do not restrict competition in ways which are not essential for the achievement of the objectives of the CFP.
+
+## CHAPTER VI — MARKET INTELLIGENCE
+
+#### Article 42 — Market Intelligence
+
+1\. The Commission shall:
+
+(a) gather, analyse and disseminate economic knowledge and understanding of the Union market for fishery and aquaculture products along the supply chain, taking into account the international context;
+
+(b) provide practical support to producer organisations and inter-branch organisations to better coordinate information between operators and processors;
+
+(c) regularly survey prices for fishery and aquaculture products in the Union market along the supply chain and conduct analyses on market trends;
+
+(d) conduct ad-hoc market studies and provide a methodology for price formation surveys.
+
+2\. In order to implement paragraph 1, the Commission shall make use of the following measures:
+
+(a) facilitate access to available data on fishery and aquaculture products collected pursuant to Union law;
+
+(b) make market information, such as price surveys, market analyses and studies, available to all the stakeholders and to the general public in an accessible and understandable manner, subject to Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 14 ).
+
+3\. Member States shall contribute to the achievement of the objectives referred to in paragraph 1.
+
+## CHAPTER VII — PROCEDURAL PROVISIONS
+
+#### Article 43 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+#### Article 44 — Amendment to Regulation (EC) No 1184/2006
+
+Article 1 of Regulation (EC) No 1184/2006 is replaced by the following:
+
+‘Article 1
+
+This Regulation lays down rules concerning the applicability of Articles 101 to 106 and of Article 108(1) and (3) of the Treaty on the functioning of the European Union (TFEU) in relation to production of, or trade in, the products listed in Annex I to the TFEU with the exception of the products covered by Council Regulation (EC) No 1234/2007 ( *1 ) and Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( *2 ).
+
+#### Article 45 — Amendments to Regulation (EC) No 1224/2009
+
+Regulation (EC) No 1224/2009 is hereby amended as follows:
+
+(1) in Article 57(1), the following sentences are added:
+
+‘Member States shall undertake checks to ensure compliance. The checks may take place at all marketing stages and during transport.)’
+
+(2) Article 58(5) is amended as follows:
+
+(a) point (g) is replaced by the following:
+
+‘(g) the information to consumers provided for in Article 35 of Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( *3 );
+
+(b) point (h) is deleted.
+
+#### Article 46 — Repeal
+
+Regulation (EC) No 104/2000 is hereby repealed. However, Article 4 shall apply until 12 December 2014.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV.
+
+#### Article 47 — Rules establishing common marketing standards
+
+1\. Without prejudice to paragraph 2, rules establishing common marketing standards, in particular those laid down in Council Regulation (EEC) No 2136/89 ( 15 ), Council Regulation (EEC) No 1536/92 ( 16 ) and Council Regulation (EC) No 2406/96 ( 17 ), with the exception of Article 13 thereof, shall continue to apply. Rules adopted for the application of common marketing standards, such as those laid down in Commission Regulation (EEC) No 3703/85 ( 18 ), shall continue to apply.
+
+2\. Where minimum conservation reference sizes are established, they shall constitute minimum marketing sizes.
+
+#### Article 48 — Review
+
+The Commission shall report to the European Parliament and the Council on the results of the application of this Regulation by 31 December 2022.
+
+#### Article 49 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014, with the exception of Chapter IV and Article 45 which shall apply from 13 December 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**FISHERY AND AQUACULTURE PRODUCTS COVERED BY THE CMO**
+
+<table>
+<tbody><tr><td colspan="2">CN code</td><td>Description of the goods</td></tr>
+<tr><td rowspan="4">(a)</td><td>0301 </td><td>Live fish</td></tr>
+<tr><td>0302 </td><td>Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304 </td></tr>
+<tr><td>0303 </td><td>Fish, frozen, excluding fish fillets and other fish meat of heading 0304 </td></tr>
+<tr><td>0304 </td><td>Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen</td></tr>
+<tr><td>(b)</td><td>0305 </td><td>Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption</td></tr>
+<tr><td rowspan="2">(c)</td><td>0306 </td><td>Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption</td></tr>
+<tr><td>0307 </td><td>Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; flours, meals and pellets of aquatic invertebrates other than crustaceans, fit for human consumption</td></tr>
+<tr><td rowspan="5">(d)</td><td rowspan="3">  </td><td>Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>– – Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of Chapter 3:</td></tr>
+<tr><td>0511 91 10 </td><td>– – – Fish waste</td></tr>
+<tr><td>0511 91 90 </td><td>– – Other</td></tr>
+<tr><td>(e)</td><td>1212 20 00 </td><td>– Seaweeds and other algae</td></tr>
+<tr><td rowspan="3">(f)</td><td>  </td><td>Fats and oils and their fractions, of fish, whether or not refined, but not chemically modified:</td></tr>
+<tr><td>1504 10 </td><td>– Fish-liver oils and their fractions</td></tr>
+<tr><td>1504 20 </td><td>– Fats and oils and their fractions, of fish, other than liver oils</td></tr>
+<tr><td>(g)</td><td>1603 00 </td><td>Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates</td></tr>
+<tr><td>(h)</td><td>1604 </td><td>Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs</td></tr>
+<tr><td>(i)</td><td>1605 </td><td>Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved</td></tr>
+<tr><td rowspan="3">(j)</td><td>  </td><td>Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared</td></tr>
+<tr><td>1902 20 </td><td>– Stuffed pasta, whether or not cooked or otherwise prepared:</td></tr>
+<tr><td>1902 20 10 </td><td>– – Containing more than 20 % by weight of fish, crustaceans, molluscs or other aquatic invertebrates</td></tr>
+<tr><td rowspan="2">(k)</td><td>  </td><td>Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves:</td></tr>
+<tr><td>2301 20 00 </td><td>– Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates</td></tr>
+<tr><td rowspan="3">(l)</td><td>  </td><td>Preparations of a kind used in animal feeding</td></tr>
+<tr><td>2309 90 </td><td>– Other:</td></tr>
+<tr><td>ex 2309 90 10 </td><td>– – Fish solubles</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**FISHERY PRODUCTS SUBJECT TO THE STORAGE MECHANISM**
+
+| CN Code | Description of the goods |
+| --- | --- |
+| 0302 22 00 | Plaice (Pleonectes platessa) |
+| ex 0302 29 90 | Dab (Limanda limanda) |
+| 0302 29 10 | Megrim (Lepidorhombus spp.) |
+| ex 0302 29 90 | Flounder (Platichthys flesus) |
+| 0302 31 10 and 0302 31 90 | Albacore or longfinned tunas (Thunnus alalunga) |
+| ex 0302 40 | Herring of the species Clupea harengus |
+| 0302 50 10 | Cod of the species Gadus morhua |
+| 0302 61 10 | Sardines of the species Sardina pilchardus |
+| ex 0302 61 80 | Sprat (Sprattus sprattus) |
+| 0302 62 00 | Haddock (Melanogrammus aeglefinus) |
+| 0302 63 00 | Coalfish (Pollachius virens) |
+| ex 0302 64 | Mackerel of the species Scomber scombrus and Scomber japonicus |
+| 0302 65 20 and 0302 65 50 | Dogfish (Squalus acanthias and Scyliorhinus spp.) |
+| 0302 69 31 and 0302 69 33 | Redfish (Sebastes spp.) |
+| 0302 69 41 | Whiting (Merlangius merlangus) |
+| 0302 69 45 | Ling (Molva spp.) |
+| 0302 69 55 | Anchovies (Engraulis spp.) |
+| ex 0302 69 68 | Hake of the species Merluccius merluccius |
+| 0302 69 81 | Monkfish (Lophius spp.) |
+| ex 0302 69 99 | Dolphin-fish (Coryphaena hippurus) |
+| ex 0307 41 10 | Cuttlefish (Sepia officinalis and Rossia macrosoma) |
+| ex 0306 23 10 ex 0306 23 31 ex 0306 23 39 | Shrimps of the species Crangon crangon and deepwater prawn (Pandalus borealis) |
+| 0302 23 00 | Sole (Solea spp.) |
+| 0306 24 30 | Edible crabs (Cancer pagurus) |
+| 0306 29 30 | Norway lobsters (Nephrops norvegicus) |
+| 0303 31 10 | Lesser or Greenland halibut (Reinhardtius hipoglossoides) |
+| 0303 78 11 0303 78 12 0303 78 13 0303 78 19 and 0304 29 55 0304 29 56 0304 29 58 | Hake of the genus Merluccius |
+| 0303 79 71 | Sea bream (Dentex dentex and Pagellus spp.) |
+| 0303 61 00 0304 21 00 0304 91 00 | Swordfish (Xiphias gladius) |
+| 0306 13 40 0306 13 50 ex 0306 13 80 | Shrimps of the family Penaeidae |
+| 0307 49 18 0307 49 01 | Cuttlefish of the species Sepia officinalis, Rossia macrosoma and Sepiola rondeletti |
+| 0307 49 31 0307 49 33 0307 49 35 and 0307 49 38 | Squid (Loligo spp.) |
+| 0307 49 51 | Squid (Ommastrephes sagittatus) |
+| 0307 59 10 | Octopus (Octopus spp.) |
+| 0307 99 11 | Illex spp. |
+| 0303 41 10 | Albacore or longfinned tuna (Thunnus alalunga) |
+| 0302 32 10 0303 42 12 0303 42 18 0303 42 42 0303 42 48 | Yellowfin tunas (Thunnus albacares) |
+| 0302 33 10 0303 43 10 | Skipjack or stripe-bellied bonito (Katsuwomus pelamis) |
+| 0303 45 10 | Bluefin tuna (Thunnus thynnus) |
+| 0302 39 10 0302 69 21 0303 49 30 0303 79 20 | Other species of the genera Thunnus and Euthynnus |
+| ex 0302 29 90 | Lemon sole (Microstomus kitt) |
+| 0302 35 10 and 0302 35 90 | Bluefin tunas (Thunnus thynnus) |
+| ex 0302 69 51 | Pollack (Pollachius pollachius) |
+| 0302 69 75 | Ray's bream (Brama spp.) |
+| ex 0302 69 82 | Blue whiting (Micromesistius poutassou) |
+| ex 0302 69 99 | Pout (Trisopterus luscus) and poor cod (Trisopterus minutus) |
+| ex 0302 69 99 | Bogues (Boops boops) |
+| ex 0302 69 99 | Picarel (Spicara smaris) |
+| ex 0302 69 99 | Conger (Conger conger) |
+| ex 0302 69 99 | Gurnard (Trigla spp.) |
+| ex 0302 69 91 ex 0302 69 99 | Horse mackerel (Trachurus spp.) |
+| ex 0302 69 99 | Mullet (Mugil spp.) |
+| ex 0302 69 99 and ex 0304 19 99 | Skate (Raja spp.) |
+| ex 0302 69 99 | Scabbard fish (Lepidopus caudatus and Aphanopus carbo) |
+| ex 0307 21 00 | Common scallop (Pecten maximus) |
+| ex 0307 91 00 | Common whelk (Buccinum undatum) |
+| ex 0302 69 99 | Striped or red mullet (Mullus surmuletus, Mullus barbatus) |
+| ex 0302 69 99 | Black sea bream (Spondyliosoma cantharus) |
+
+## ANNEX III
+
+**INFORMATION ON FISHING GEAR**
+
+<table>
+<tbody><tr><td>Mandatory information on the category of fishing gear</td><td colspan="2">More detailed information on corresponding gears and codes, in accordance with Commission Regulation (EC) No 26/2004 (1) and Commission Implementing Regulation (EU) No 404/2011 (2)</td></tr>
+<tr><td rowspan="4">Seines</td><td>Beach seines</td><td>SB</td></tr>
+<tr><td>Danish seines</td><td>SDN</td></tr>
+<tr><td>Scottish seines</td><td>SSC</td></tr>
+<tr><td>Pair seines</td><td>SPR</td></tr>
+<tr><td rowspan="6">Trawls</td><td>Beam trawls</td><td>TBB</td></tr>
+<tr><td>Bottom otter trawls</td><td>OTB</td></tr>
+<tr><td>Bottom pair trawls</td><td>PTB</td></tr>
+<tr><td>Midwater otter trawls</td><td>OTM</td></tr>
+<tr><td>Pelagic pair trawls</td><td>PTM</td></tr>
+<tr><td>Otter twin trawls</td><td>OTT</td></tr>
+<tr><td rowspan="5">Gillnets and similar nets</td><td>Set (anchored) gillnets</td><td>GNS</td></tr>
+<tr><td>Driftnets</td><td>GND</td></tr>
+<tr><td>Encircling gillnets</td><td>GNC</td></tr>
+<tr><td>Trammel nets</td><td>GTR</td></tr>
+<tr><td>Combined trammel and gillnets</td><td>GTN</td></tr>
+<tr><td rowspan="4">Surrounding nets and lift nets</td><td>Purse seines</td><td>PS</td></tr>
+<tr><td>Lampara nets</td><td>LA</td></tr>
+<tr><td>Boat operated lift nets</td><td>LNB</td></tr>
+<tr><td>Shore-operated stationary lift nets</td><td>LNS</td></tr>
+<tr><td rowspan="5">Hooks and lines</td><td>Hand lines and pole lines (hand operated)</td><td>LHP</td></tr>
+<tr><td>Hand lines and pole lines (mechanised)</td><td>LHM</td></tr>
+<tr><td>Set longlines</td><td>LLS</td></tr>
+<tr><td>Longlines (drifting)</td><td>LLD</td></tr>
+<tr><td>Troll lines</td><td>LTL</td></tr>
+<tr><td rowspan="3">Dredges</td><td>Boat dredges</td><td>DRB</td></tr>
+<tr><td>Hand dredges used on board a vessel</td><td>DRH</td></tr>
+<tr><td>Mechanised dredges including suction dredges</td><td>HMD</td></tr>
+<tr><td>Pots and traps</td><td>Pots (traps)</td><td>FPO</td></tr>
+<tr><td colspan="3">(1)  Commission Regulation (EC) No 26/2004 of 30 December 2003 on the Community fishing fleet register (OJ L 5, 9.1.2004, p. 25).  (2)  Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy (OJ L 112, 30.4.2011, p. 1). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 104/2000 | This Regulation |
+| --- | --- |
+| Article 1 | Articles 1 to 5 |
+| Articles 2 and 3 | Articles 33 and 34 |
+| Article 4 | Articles 35 to 39 |
+| Article 5(1) | Articles 6, 7, 8, |
+| Article 5(2), 5(3), 5(4) and Article 6 | Articles 14, 18 to 21 |
+| Article 7 | Articles 22 and 24 to 27 |
+| Article 8 | — |
+| Articles 9 to 12 | Articles 28, 29 |
+| Article 13 | Articles 11, 12, 13, 16, 18, 20 and 21 |
+| Article 14 | Article 41(2) |
+| Article 15 | Article 23 |
+| Article 16 | Articles 24 to 27 |
+| Articles 17 to 27 | Articles 30, 31 and 32 |
+| Article 33 | — |
+| Article 34 | Articles 20(2), 21 and 32 |
+| Article 35 | — |
+| Article 36 | — |
+| Article 37 | Article 43 |
+| Articles 38 and 39 | Article 43 |
+| Article 40 | — |
+| Article 41 | Article 48 |
+| Article 42 | Articles 44, 45 and 46 |
+| Article 43 | Article 49 |
+| — | Article 40 |
+| — | Article 41(1) |
+| — | Article 42 |
+
+( 1 ) Council Regulation (EU) No 1220/2012 of 3 December 2012 on trade related measures to guarantee the supply of certain fishery products to Union processors from 2013 to 2015, amending Regulations (EC) No 104/2000 and (EU) No 1344/2011 (OJ L 349, 19.12.2012, p. 4).
+
+( 2 ) Regulation (EU) No 1026/2012 of the European Parliament and of the Council of 25 October 2012 on certain measures for the purpose of the conservation of fish stocks in relation to countries allowing non-sustainable fishing (OJ L 316, 14.11.2012, p. 34).
+
+( 3 ) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 december 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (See page 22 of this Official Journal).
+
+( 4 ) Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (OJ L 343, 22.12.2009, p. 1).
+
+( 5 ) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+( 6 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 7 ) Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives (OJ L 354, 31.12.2008, p. 16).
+
+( 8 ) Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).
+
+( 9 ) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1).
+
+( 10 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 11 ) Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ L 226, 25.6.2004, p. 83).
+
+( 12 ) Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (OJ L 165, 30.4.2004, p. 1).
+
+( 13 ) Council Regulation (EC) No 1005/2008 of 29 September 2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations (EEC) No 2847/93, (EC) No 1936/2001 and (EC) No 601/2004 and repealing Regulations (EC) No 1093/94 and (EC) No 1447/1999 (OJ L 286, 29.10.2008, p. 1).
+
+( 14 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( *1 ) Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (OJ L 299, 16.11.2007, p. 1).
+
+( *2 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 december 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1)’.
+
+( *3 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 december 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).)’
+
+( 15 ) Council Regulation (EEC) No 2136/89 of 21 June 1989 laying down common marketing standards for preserved sardines and trade descriptions for preserved sardines and sardine-type products (OJ L 212, 22.7.1989, p. 79).
+
+( 16 ) Council Regulation (EEC) No 1536/92 of 9 June 1992 laying down common marketing standards for preserved tuna and bonito (OJ L 163, 17.6.1992, p. 1).
+
+( 17 ) Council Regulation (EC) No 2406/96 of 26 November 1996 laying down common marketing standards for certain fishery products (OJ L 334, 23.12.1996, p. 1).
+
+( 18 ) Commission Regulation (EEC) No 3703/85 of 23 December 1985 laying down detailed rules for applying the common marketing standards for certain fresh or chilled fish (OJ L 351, 28.12.1985, p. 63).

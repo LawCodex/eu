@@ -1,0 +1,562 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/68 of 21 January 2016 on common procedures and specifications necessary for the interconnection of electronic registers of driver cards"
+identifier: "32016R0068"
+eli: "http://data.europa.eu/eli/reg_impl/2016/68/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-01-21
+entry_into_force: 2016-07-20
+last_amended: 2018-03-02
+consolidated_version: "02016R0068-20180302"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0068-20180302"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/68 of 21 January 2016 on common procedures and specifications necessary for the interconnection of electronic registers of driver cards
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/68**
+
+**of 21 January 2016**
+
+**on common procedures and specifications necessary for the interconnection of electronic registers of driver cards**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1503 of 25 August 2017 </td><td> L 221</td><td>10</td><td>26.8.2017</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/68**
+
+**of 21 January 2016**
+
+**on common procedures and specifications necessary for the interconnection of electronic registers of driver cards**
+
+## Article 1 — Subject-matter
+
+This Regulation lays down the requirements regarding the obligatory connection of the national electronic registers on driver cards to the TACHOnet messaging system referred to in Article 31 of Regulation (EU) No 165/2014.
+
+## Article 2 — Definitions
+
+In addition to the definitions laid down in Article 2 of Regulation (EU) No 165/2014, the following definitions shall apply:
+
+(a) ‘asynchronous interface’ means a process whereby a message in response to a request is returned on a new HTTP connection;
+
+(b) ‘broadcast search’ means a request message from a Member State addressed to all other Member States;
+
+(c) ‘card issuing authority’ (‘CIA’) means the entity empowered by a Member State for the issuing and management of tachograph cards;
+
+(d) ‘central hub’ means the information system enabling the routing of TACHOnet messages between Member States;
+
+(e) ‘national system’ means the information system set up in each Member State for the purpose of emitting, processing and responding to TACHOnet messages;
+
+(f) ‘synchronous interface’ means a process whereby a message in response to a request is returned on the same HTTP connection used for the request;
+
+(g) ‘requesting Member State’ means the Member State emitting a request or a notification, which is then routed to the appropriate responding Member State(s);
+
+(h) ‘responding Member State’ means the Member State to whom the TACHOnet request or notification is directed;
+
+(i) ‘singlecast search’ means a request message from a Member State addressed to a single Member State;
+
+(j) ‘tachograph card’, means either a driver card or a workshop card, as defined in Article 2(f) and (k) of Regulation (EU) No 165/2014;
+
+(k) ‘Trans European Services for Telematics between Administrations system (“Testa”)’ means a telecommunications interconnection platform for secure information exchange between the public administrations in the Union;
+
+(l) ‘direct access to TACHOnet’ means the connection to the TACHOnet messaging system of a national electronic register via a Testa connection managed by the Member State hosting the register;
+
+(m) ‘indirect access to TACHOnet’ means the connection to the TACHOnet messaging system of a national electronic register via a Testa connection managed by a Member State not hosting the register.
+
+## Article 3 — Obligation to connect to TACHOnet
+
+Member States shall connect the national electronic registers referred to in Article 31(1) of Regulation (EU) No 165/2014, to TACHOnet messaging system.
+
+## Article 3a — Connection by third countries
+
+Subject to the approval of the Commission, third countries may connect their electronic registers to the TACHOnet messaging system if they comply with this Regulation.
+
+## Article 3b — Preliminary tests
+
+The connection of a national electronic register to the TACHOnet messaging system, be it through direct or indirect access, shall be established after the successful completion of connection, integration and performance tests in accordance with the instructions and under the supervision of the Commission.
+
+In case of failure of the preliminary tests, the Commission may temporarily put on hold the testing phase. The tests shall resume once the responsible national authority has communicated to the Commission the adoption of the necessary technical improvements at national level allowing the successful performance of the preliminary tests.
+
+The maximum duration of the preliminary tests shall be six months.
+
+## Article 4 — Technical specifications
+
+TACHOnet messaging system shall fulfil the technical specifications laid down in Annexes I to VII.
+
+## Article 5 — Use of TACHOnet
+
+Member States shall follow the procedures set out in Annex VIII.
+
+Member States shall provide access to TACHOnet messaging system to their national card issuing authorities and control officers carrying out the duties referred to in Article 38 of Regulation (EU) No 165/2014, in order to facilitate effective checks of the validity, status and uniqueness of driver cards.
+
+## Article 5a — Indirect access to TACHOnet
+
+1\. A national authority requesting indirect access to TACHOnet shall submit the following documents to the Commission:
+
+(a) a letter signed by a representative of the national authority requesting the Commission to start the testing phase for providing indirect access to TACHOnet;
+
+(b) an application for indirect access to TACHOnet in the format set out in Annex IX;
+
+(c) the bilateral contract between the national authority requesting indirect access and the national authority providing that access through its Testa connection, signed by representatives of both national authorities.
+
+2\. No later than two months after the submission of the documents referred to in paragraph 1, the Commission shall request the national authority concerned to submit the technical information necessary to start the preliminary tests referred to in Article 3b.
+
+3\. Indirect access to TACHOnet shall not be provided until the requirements set out in paragraphs 1 and 2 have been fulfilled.
+
+## Article 6 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 2 March 2018.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**General aspects of TACHOnet messaging system**
+
+**1\. Architecture**
+
+TACHOnet messaging system shall be composed of the following parts:
+
+1.1. A central hub, which shall be able to receive a request from the requesting Member State, validate it and process it by forwarding it to the responding Member States. The central hub shall wait for each responding Member State to answer, consolidate all the answers and forward the consolidated response to the requesting Member State.
+
+All TACHOnet messages shall be routed through the central hub.
+
+1.2. National systems of the Member States, which shall be fitted with an interface capable of both sending requests to the central hub and receiving the corresponding replies. National systems may use propriety or commercial software to transmit and receive messages from the central hub.
+
+**2\. Management**
+
+2.1. The central hub shall be managed by the Commission, which shall be responsible for the technical operation and maintenance of the central hub.
+
+2.2. The central hub shall not store data for a period exceeding six months, other than the logging, statistical and routing data set out in Annex VII.
+
+2.3. The central hub shall not provide access to personal data, except for authorized Commission personnel, when necessary for the purpose of monitoring, maintenance and troubleshooting.
+
+2.4. Member States shall be responsible for:
+
+2.4.1. The setup and management of their national systems, including the interface with the central hub.
+
+2.4.2. The installation and maintenance of their national system, both hardware and software, whether proprietary or commercial.
+
+2.4.3. The correct interoperability of their national system with the central hub, including the management of error messages received from the central hub.
+
+2.4.4. Taking all the measures to ensure the confidentiality, integrity and availability of the information.
+
+2.4.5. The operation of the national systems in accordance with the service levels set out in Annex VI.
+
+2.5. MOVEHUB web portal
+
+The Commission shall provide a web based application with secured access, referred to as ‘MOVEHUB web portal’, providing at least the following services:
+
+(a) Member State availability statistics;
+
+(b) notification of maintenance on the central hub and Member State national systems;
+
+(c) aggregated reports;
+
+(d) contact management;
+
+(e) XSD schemas.
+
+2.6. Contact management
+
+2.6.1. The contact management functionality shall provide each Member State with the ability to manage the contact details regarding policy, business, operational and technical categories of that Member State, each Member State's competent authority being responsible for the maintenance of its own contacts. It shall be possible to view, but not edit, the contact details of the other Member States.
+
+## ANNEX II
+
+**Functionalities of TACHOnet messaging system**
+
+1\. The following functionalities shall be provided through TACHOnet messaging system:
+
+1.1. Check Issued Cards (CIC): allows the requesting Member State to send a Check Issued Cards Request to one or all responding Member States, to determine if a card applicant already possesses a driver card issued by the responding Member States. The responding Member States shall reply to the request by sending a Check Issued Cards Response.
+
+1.2. Check Card Status (CCS): allows the requesting Member State to ask the responding Member State about the details of a card issued by the latter by sending a Check Card Status Request. The responding Member State shall reply to the request by sending a Check Card Status Response.
+
+1.3. Modify Card Status (MCS): allows the requesting Member State to notify the responding Member State, through a Modify Card Status Request, that the status of a card issued by the latter has changed. The responding Member State shall reply to the Modify Card Status request by sending a Modify Card Status response as soon as the register has been updated or the notification has been rejected, giving the result of the update and indicating the current card status (as recorded in the tachograph card register). This response shall be sent at the latest 10 calendar days after the notification request has been sent. In all cases, a Modify Card Status request or response shall be acknowledged with a Modify Card Status acknowledgment.
+
+1.4. Issued Card Driving License (ICDL): allows the requesting Member State to notify the responding Member State, through an Issued Card Driving Licence Request, that a card has been issued by the former against a driving licence issued by the latter. The responding Member State shall reply with an Issued Card Driving Licence Response.
+
+2\. Other message types deemed suitable for the efficient functioning of TACHOnet shall be included, for instance error notifications.
+
+3\. National systems shall recognize the card statuses listed in the Appendix to this Annex, when using any of the functionalities described in point 1. However, Member States are not required to implement an administrative procedure that makes use of all of the listed statuses.
+
+4\. When a Member State receives a response or notification giving a status that is not used in its administrative procedures, the national system shall translate the status on the received message to the appropriate value in that procedure. The message shall not be rejected by the responding Member State, as long as the status in the message is listed in the Appendix of this Annex.
+
+5\. The card status listed in the Appendix to this Annex shall not be used to determine if a driver card is valid for driving. When a Member State queries the register of the card issuing Member State via the CCS or CIC functionality, the response shall contain the dedicated field ‘valid for driving’. The national administrative procedures shall be such that CCS or CIC responses always contain the appropriate ‘valid for driving’ value.
+
+## Appendix
+
+**Card statuses**
+
+Card Status Definition
+
+Application The CIA has received an application to issue a driver card. This information has been registered and stored in the database with the generated search keys.
+
+Approved The CIA has approved the application for the tachograph card.
+
+Rejected The CIA did not approve the application.
+
+Personalised The tachograph card has been personalised.
+
+Dispatched The National Authority has dispatched the driver card to the relevant driver or delivering agency.
+
+Handed Over The National Authority has handed over the driver card to the relevant driver.
+
+Confiscated The driver card has been taken from the driver by the competent authority.
+
+Suspended The driver card has been taken temporarily from the driver.
+
+Withdrawn The CIA has decided to withdraw the driver card. The card has been permanently invalidated.
+
+Surrendered The tachograph card has been returned to the CIA, and declared no longer needed.
+
+Lost The tachograph card has been declared lost to the CIA.
+
+Stolen The tachograph card has been reported stolen to the CIA. A stolen card is considered lost.
+
+Malfunctioning The tachograph card has been reported as malfunctioning to the CIA.
+
+Expired The period of validity of the tachograph card has expired.
+
+Replaced The tachograph card, which has been reported lost, stolen or malfunctioning, has been replaced by a new card. The data on the new card is the same, with the exception of the card number replacement index, which has been increased by one.
+
+Renewed The tachograph card has been renewed because of a change of administrative data or the validity period coming to an end. The card number of the new card is the same, with the exception of the card number renewal index, which has been increased by one.
+
+In Exchange The CIA that issued a driver card has received a notification that the procedure to exchange that card for a driver card issued by the CIA of another Member State has started.
+
+Exchanged The CIA that issued a driver card has received a notification that the procedure to exchange that card for a driver card issued by the CIA of another Member State has completed.
+
+## ANNEX III
+
+**Message provisions of TACHOnet messaging system**
+
+**1\. General technical requirements**
+
+1.1. The central hub shall provide both synchronous and asynchronous interfaces for the exchange of messages. Member States may choose the most suitable technology to interface with their own applications.
+
+1.2. All messages exchanged between the central hub and the national systems must be UTF-8 encoded.
+
+1.3. National systems shall be capable of receiving and processing messages containing Greek or Cyrillic characters.
+
+**2\. XML messages structure and Schema definition (XSD)**
+
+2.1. The general structure of XML messages shall follow the format defined by the XSD schemas installed in the central hub.
+
+2.2. The central hub and the national systems shall transmit and receive messages that conform to the message XSD schema.
+
+2.3. National systems shall be capable of sending, receiving and processing all messages corresponding to any of the functionalities set out in Annex II.
+
+2.4. The XML messages shall include at least the minimum requirements laid down in the Appendix to this Annex.
+
+## Appendix
+
+**Minimum requirements for the content of the XML messages**
+
+<table>
+<tbody><tr><td colspan="2">Common header</td><td>Mandatory</td></tr>
+<tr><td>Version</td><td>The official version of the XML specifications shall be specified through the namespace defined in the message XSD and in the version attribute of the Header element of any XML message. The version number (‘n.m’) shall be defined as fixed value in every release of the XML Schema Definition file (xsd).</td><td>Yes</td></tr>
+<tr><td>Test Identifier</td><td>Optional id for testing. The originator of the test shall populate the identifier and all participants in the workflow shall forward/return the same identifier. In production it shall be ignored and shall not be used if it is supplied.</td><td>No</td></tr>
+<tr><td>Technical Identifier</td><td>A UUID uniquely identifying each individual message. The sender shall generate a UUID and shall populate this attribute. This data shall not be used in any business capacity.</td><td>Yes</td></tr>
+<tr><td>Workflow Identifier</td><td>The workflowId is a UUID and shall be generated by the requesting Member State. This identifier shall be then used in all messages to correlate the workflow.</td><td>Yes</td></tr>
+<tr><td>Sent At</td><td>The date and time (in UTC format) that the message was sent.</td><td>Yes</td></tr>
+<tr><td>Timeout</td><td>This is an optional date and time (in UTC format) attribute. This value shall be set only by the central hub for forwarded requests and is calculated based on the date/time the initial request has been received by the hub. This shall inform the responding Member State of the time when the request shall be timed out. This value is not required in initial requests sent to the hub and all response messages.</td><td>No</td></tr>
+<tr><td>From</td><td>The ISO 3166-1 Alpha 2 code of the Member State sending the message or ‘EU’.</td><td>Yes</td></tr>
+<tr><td>To</td><td>The ISO 3166-1 Alpha 2 code of the Member State to which the message is being sent or ‘EU’.</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Check Issued Cards Request</td><td>Mandatory</td></tr>
+<tr><td>Family Name</td><td>Driver's family name.</td><td>Yes</td></tr>
+<tr><td>First Name</td><td>Driver's first/given name.</td><td>No</td></tr>
+<tr><td>Date of Birth</td><td>Driver's date of birth.</td><td>Yes</td></tr>
+<tr><td>Place of Birth</td><td>Driver's place of birth.</td><td>No</td></tr>
+<tr><td>Driving Licence Number</td><td>Driver's driving licence number.</td><td>No</td></tr>
+<tr><td>Driving Licence Issuing Country</td><td>The country that issued the driver's driving licence.</td><td>No</td></tr>
+<tr><td colspan="2">Check Issued Cards Response</td><td>Mandatory</td></tr>
+<tr><td>Status Code</td><td>The status code of the response.</td><td>Yes</td></tr>
+<tr><td>Status Message</td><td>An explanatory status description.</td><td>No</td></tr>
+<tr><td>Search Mechanism</td><td>Was the card found by the NYSIIS search or a custom search.</td><td>Yes</td></tr>
+<tr><td colspan="2">Found Driver Details</td><td>Yes if the driver is found</td></tr>
+<tr><td>Family Name</td><td>The family name of any found drivers.</td><td>Yes</td></tr>
+<tr><td>First Name</td><td>The first name of any found drivers.</td><td>No</td></tr>
+<tr><td>Date of Birth</td><td>The date of birth of any found drivers.</td><td>Yes</td></tr>
+<tr><td>Place of Birth</td><td>The place of birth of any found drivers.</td><td>No</td></tr>
+<tr><td colspan="2">Card Details</td><td>Yes if the driver is found</td></tr>
+<tr><td>Card Number</td><td>The found card number.</td><td>Yes</td></tr>
+<tr><td>Card Status</td><td>The found card status.</td><td>Yes</td></tr>
+<tr><td>Valid for driving</td><td>The found card is/is not valid for driving.</td><td>Yes</td></tr>
+<tr><td>Card Issuing Authority</td><td>The name of the authority that issued the found card.</td><td>Yes</td></tr>
+<tr><td>Card Start of Validity Date</td><td>The date of the start of validity of the found card.</td><td>Yes</td></tr>
+<tr><td>Card Expiry Date</td><td>The date of expiry of the found card.</td><td>Yes</td></tr>
+<tr><td>Card Status Modified Date</td><td>The date that the found card was last modified.</td><td>Yes</td></tr>
+<tr><td>Temporary Card</td><td>The found card is a temporary card.</td><td>No</td></tr>
+<tr><td colspan="2">Driving Licence Details</td><td>Yes if a driver card is found</td></tr>
+<tr><td>Driving Licence Number</td><td>The found driver's driving licence number.</td><td>Yes</td></tr>
+<tr><td>Driving Licence Issuing Country</td><td>The issuing country of the found driver's driving licence.</td><td>Yes</td></tr>
+<tr><td>Driving Licence Status</td><td>The status of the found driver's driving licence.</td><td>No</td></tr>
+<tr><td>Driving Licence Issuing Date</td><td>The issuing date of the found driver's driving licence.</td><td>No</td></tr>
+<tr><td>Driving Licence Expiry Date</td><td>The expiry date of the found driver's driving licence.</td><td>No</td></tr>
+<tr><td colspan="2">Workshop Card Details</td><td>Yes if a workshop card is found</td></tr>
+<tr><td>Workshop name</td><td>The name of the workshop to which the found workshop card was issued.</td><td>Yes</td></tr>
+<tr><td>Workshop address</td><td>The address of the workshop to which the found workshop card was issued.</td><td>Yes</td></tr>
+<tr><td colspan="2">Check Card Status Request</td><td>Mandatory</td></tr>
+<tr><td>Card Number</td><td>The number of the card for which details are required.</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Check Card Status Response</td><td>Mandatory</td></tr>
+<tr><td>Status Code</td><td>The status code of the response.</td><td>Yes</td></tr>
+<tr><td>Status Message</td><td>An explanatory status description.</td><td>No</td></tr>
+<tr><td colspan="2">Requested Card Details</td><td>Yes if the requested card is found</td></tr>
+<tr><td>Card number</td><td>The requested card number.</td><td>Yes</td></tr>
+<tr><td>Card Status</td><td>The status of the requested card.</td><td>Yes</td></tr>
+<tr><td>Valid for driving</td><td>The requested card is/is not valid for driving.</td><td>Yes</td></tr>
+<tr><td>Card Issuing Authority</td><td>The name of the authority that issued the requested card.</td><td>Yes</td></tr>
+<tr><td>Card Start of Validity Date</td><td>The date of the start of validity of the requested card.</td><td>Yes</td></tr>
+<tr><td>Card Expiry Date</td><td>The date of expiry the requested card.</td><td>Yes</td></tr>
+<tr><td>Card Status Modified Date</td><td>The date that the requested card was last modified.</td><td>Yes</td></tr>
+<tr><td>Temporary Card</td><td>The requested card is a temporary card.</td><td>No</td></tr>
+<tr><td colspan="2">Workshop Card Details</td><td>Yes if a workshop card is found</td></tr>
+<tr><td>Workshop Name</td><td>The name of the workshop to which the card was issued.</td><td>Yes</td></tr>
+<tr><td>Workshop Address</td><td>The address of the workshop to which the card was issued.</td><td>Yes</td></tr>
+<tr><td colspan="2">Card Holder Details</td><td>  </td></tr>
+<tr><td>Family Name</td><td>The family name of the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>First Name</td><td>The first name of the driver to whom the card was issued.</td><td>No</td></tr>
+<tr><td>Date of Birth</td><td>The date of birth of the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>Place of Birth</td><td>The place of birth of the driver to whom the card was issued.</td><td>No</td></tr>
+<tr><td colspan="2">Driving Licence Details</td><td>Yes if a driver card is found</td></tr>
+<tr><td>Driving Licence Number</td><td>The driving licence number of the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>Driving Licence Issuing Country</td><td>The country that issued driving licence number to the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>Driving Licence Status</td><td>The status of the driving licence of the driver to whom the card was issued.</td><td>No</td></tr>
+<tr><td>Driving Licence Issuing Date</td><td>The issuing date of the driving licence of the driver to whom the card was issued.</td><td>No</td></tr>
+<tr><td>Driving Licence Expiry Date</td><td>The expiry date of the driving licence of the driver to whom the card was issued.</td><td>No</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Modify Card Status Request</td><td>Mandatory</td></tr>
+<tr><td>Card Number</td><td>The number of the card of which the status has changed.</td><td>Yes</td></tr>
+<tr><td>New Card Status</td><td>The status to which the card has been changed.</td><td>Yes</td></tr>
+<tr><td>Card Status Modified Date</td><td>The date and time that the card status was modified.</td><td>Yes</td></tr>
+<tr><td colspan="2">Declared by</td><td>  </td></tr>
+<tr><td>Authority</td><td>The name of the authority that made the card status change.</td><td>Yes</td></tr>
+<tr><td>Authority address</td><td>The address of the authority that made the card status change.</td><td>Yes</td></tr>
+<tr><td>Family Name</td><td>The family name of the person who made the card status change.</td><td>No</td></tr>
+<tr><td>First Name</td><td>The first name of the person who made the card status change.</td><td>No</td></tr>
+<tr><td>Phone</td><td>The phone number of the person who made the card status change.</td><td>No</td></tr>
+<tr><td>Email</td><td>The email address of the person who made the card status change.</td><td>No</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Modify Card Status Acknowledgement</td><td>Mandatory</td></tr>
+<tr><td>Status Code</td><td>The status code of the acknowledgement.</td><td>Yes</td></tr>
+<tr><td>Status Message</td><td>An explanatory status description.</td><td>No</td></tr>
+<tr><td>Acknowledgement type</td><td>The type of the acknowledgment: for request or response.</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Modify Card Status Response</td><td>Mandatory</td></tr>
+<tr><td>Status Code</td><td>The status code of the response.</td><td>Yes</td></tr>
+<tr><td>Status Message</td><td>An explanatory status description.</td><td>No</td></tr>
+<tr><td>Card Number</td><td>The requested driver card number.</td><td>Yes</td></tr>
+<tr><td>Card Status</td><td>The status of the requested card as it exists in the tachograph card register.</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Issued Card Driving Licence Request</td><td>Mandatory</td></tr>
+<tr><td>Card Number</td><td>The number of the card that has been issued.</td><td>Yes</td></tr>
+<tr><td>Driving Licence Number</td><td>The number of the foreign driving licence that was used to apply for the driver card.</td><td>Yes</td></tr>
+<tr><td>Family Name</td><td>The family name of the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>First Name</td><td>The first name of the driver to whom the card was issued.</td><td>No</td></tr>
+<tr><td>Date of Birth</td><td>The date of birth of the driver to whom the card was issued.</td><td>Yes</td></tr>
+<tr><td>Place of Birth</td><td>The place of birth of the driver to whom the card was issued.</td><td>No</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Issued Card Driving Licence Response</td><td>Mandatory</td></tr>
+<tr><td>Status Code</td><td>The status code of the response.</td><td>Yes</td></tr>
+<tr><td>Status Message</td><td>An explanatory status description.</td><td>No</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Transliteration and NYSIIS (New York State Identification and Intelligence System) Services**
+
+1\. The NYSIIS algorithm implemented in the central hub shall be used to encode the names of all the drivers in the national register.
+
+2\. When searching for a card via the CIC functionality the NYSIIS keys shall be used as the primary search mechanism.
+
+3\. Additionally, Member States may employ a custom algorithm to return additional results.
+
+4\. The search results shall indicate the search mechanism which was used to find a record, either NYSIIS or custom.
+
+5\. If a Member State chooses to record ICDL notifications then the NYSIIS keys contained in the notification shall be recorded as part of the ICDL data.
+
+5.1. When searching the ICDL data the Member State shall use the NYSIIS keys of the applicant's name.
+
+## ANNEX V
+
+**Security requirements**
+
+1\. HTTPS shall be used for the exchange of messages between the central hub and the national systems.
+
+2\. National systems shall use the PKI certificates provided by the Commission for the purposes of securing the transmission of messages between the national system and the central hub.
+
+3\. National systems shall implement, as a minimum, certificates using the SHA-2 (SHA-256) signature hash algorithm and a 2 048 bit public key length.
+
+## ANNEX VI
+
+**Service levels**
+
+1\. National systems shall fulfil the following minimum level of service:
+
+1.1. They shall be available 24 hours a day, 7 days a week.
+
+1.2. Their availability shall be monitored by a heartbeat message issued from the central hub.
+
+1.3. Their availability rate shall be 98 %, according to the following table (the figures have been rounded to the nearest convenient unit):
+
+<table>
+<tbody><tr><td rowspan="2">An availability of</td><td colspan="3">means an unavailability of</td></tr>
+<tr><td>Daily</td><td>Monthly</td><td>Yearly</td></tr>
+<tr><td>98 %</td><td>0,5 hours</td><td>15 hours</td><td>7,5 days</td></tr>
+</tbody>
+</table>
+
+Member States are encouraged to respect the daily availability rate, however it is recognised that certain necessary activities, such as system maintenance, require a down time of more than 30 minutes. However, the monthly and yearly availability rates remain mandatory.
+
+1.4. They shall respond to a minimum of 98 % of the requests forwarded to them in one calendar month and be able to service a request rate of 6 messages per second.
+
+1.5. When sending CIC, CCS, ICDL Responses and MCS Acknowledgments in accordance with Annex VIII, they shall respond to requests within 10 seconds.
+
+The global request timeout (time within which the requestor may wait for a response) shall not exceed 20 seconds.
+
+1.6. MCS Responses shall be sent within 10 calendar days of the MCS Request being sent.
+
+1.7. National systems shall not send requests to the TACHOnet hub at a rate exceeding 2 requests per second.
+
+1.8. Every national system shall be able to cope with potential technical problems of the central hub or national systems in other Member States. These include, but are not limited to the following:
+
+(a) loss of connection to the central hub;
+
+(b) no response to a request;
+
+(c) receipt of responses after message timeout;
+
+(d) receipt of unsolicited messages;
+
+(e) receipt of invalid messages.
+
+2\. The central hub shall:
+
+2.1. feature an availability rate of 98 %;
+
+2.2. provide to national systems notification of any errors, either via the response message or via a dedicated error message. The national systems, in turn, shall receive these dedicated error messages and have an escalation workflow in place to take any appropriate action to rectify the notified error.
+
+The escalation procedure shall be detailed to the Commission upon request.
+
+3\. Maintenance
+
+Member States shall notify other Member States and the Commission of any routine maintenance activities via the web application, at least one week before the beginning of those activities if technically possible.
+
+## ANNEX VII
+
+This Annex provides details of logging, statistical and routing data collected at the central hub, not at the Member States.
+
+**Logging and Statistics of the data collected at the central hub**
+
+1\. In order to ensure privacy, the data for statistical purposes shall be anonymous. Data identifying a specific card, driver or driver licence shall not be available for statistical purposes.
+
+2\. Logging information shall keep track of all transactions for monitoring and debugging purposes, and allow the generation of statistics about these transactions.
+
+3\. Personal data shall not be retained in the logs for more than 6 months after a transaction is complete. Statistical and anonymised routing information shall be retained indefinitely.
+
+4\. The statistical data used for reporting may include, among others:
+
+(a) the requesting Member State;
+
+(b) the responding Member State;
+
+(c) the type of message;
+
+(d) the status code of the response;
+
+(e) the date and time of the messages;
+
+(f) the response time.
+
+## ANNEX VIII
+
+**Use of TACHOnet messaging system**
+
+**1\. Issuing of driver cards**
+
+1.1. When the applicant for a driver card holds a driving licence issued in a Member State different than the Member State of application, a broadcast Check Issued Card search shall be performed by the Member State of application.
+
+1.2. Member States issuing a driver card to a driver holding a driving license issued in another Member State, shall immediately notify the latter, through the Issued Card Driving Licence function, that a driver card has been issued.
+
+1.3. When the applicant for a driver card holds a driving licence issued in the Member State of application, that Member State shall check if an ICDL notification had been previously recorded in its national register. This check shall be done by searching the notifications first by Driving Licence number and secondly by NYSIIS keys and date of birth. If a notification is found, the Member State shall perform either a singlecast CIC or CCS search addressed to the Member State that sent the ICDL notification.
+
+1.4. Every ICDL notification shall be recorded in the national register of the Member State receiving it.
+
+1.5. Member States shall perform a broadcast CIC search for, at least, 30 % of applications presented by drivers holding a licence issued in that Member State.
+
+1.6. Member States may choose not to record in their national register the ICDL notifications received in accordance with points 1.3, 1.4 and 1.5. In this case, they shall carry out a broadcast CIC search for every application received.
+
+1.7. Member States shall notify the Commission by no later than the date of application of this Regulation on whether they will record the ICDL notifications in their national registers or they will follow the procedure in point 1.6.
+
+1.8. Member States that, five years or less before the date of application of this Regulation, did not record ICDL notifications in their national registers as set out in point 1.4, shall perform a broadcast CIC search for the 100 % of applications, except for driving licences for which an ICDL notification has been recorded, in which case point 1.3 shall apply.
+
+1.9. The obligation provided for in point 1.8 shall apply for a period of five years as from the date in which the recording of ICDL notifications has been effectively implemented in the national register of each Member State.
+
+**2\. Withdrawn, suspended or stolen driver cards**
+
+2.1. If, in accordance with Article 26(7) and Article 29(2) of Regulation (EU) No 165/2014, a driver card has been withdrawn, suspended or declared as stolen in a Member State other than the issuing Member State, the competent authority of the former shall:
+
+(a) check the actual status of the card by sending a CCS request to the issuing Member State. If the number of the card is not known, a singlecast CIC request shall be sent instead;
+
+(b) send a MCS notification through the TACHOnet messaging system to the issuing Member State.
+
+**3\. Exchange of driver cards**
+
+3.1. Where the holder of a driver card applies for the exchange of the driver card in a Member State other than the issuing Member State, the competent authority of the former shall check the actual status of the card by sending a CCS request to the latter.
+
+3.2. Once the status of the driver card has been checked and it is valid for exchange, the competent authority of the Member State where the application has been made shall send a MCS notification through the TACHOnet messaging system to the issuing Member State.
+
+3.3. Member States renewing or exchanging a driver card to a driver holding a driving license issued in another Member State, shall immediately notify the issuing Member State, through the ICDL function, that the driver card has been renewed or exchanged.
+
+## ANNEX IX
+
+**Application for indirect access to TACHOnet**
+
+The [short name of the national authority requesting indirect access to TACHOnet] of [name of the country requesting indirect access to TACHOnet] has signed a contract with [short name of the national authority providing indirect access to TACHOnet] in order to get indirect access to TACHOnet through [name of the country providing indirect access to TACHOnet].
+
+The contract whereby [name of the country providing indirect access to TACHOnet] provides indirect access to TACHOnet to [name of the country requesting indirect access to TACHOnet], is attached to this application.
+
+The following information is provided:
+
+(a) national authority responsible for the access to TACHOnet in [name of the country requesting indirect access to TACHOnet];
+
+(b) contact person for TACHOnet in the [national authority referred to in point (a)] (name, role, email address, telephone number and postal address);
+
+(c) name and role of other responsible entities with respect to TACHOnet;
+
+(d) contact persons in the responsible entities referred to in point (c) (name, role, email address, telephone number).
+
+Signed
+
+[Representative of the national authority requesting indirect access to TACHOnet]

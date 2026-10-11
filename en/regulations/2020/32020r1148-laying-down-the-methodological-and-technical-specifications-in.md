@@ -1,0 +1,385 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/1148 of 31 July 2020 laying down the methodological and technical specifications in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council as regards harmonised indices of consumer prices and the house price index (Text with EEA relevance)"
+identifier: "32020R1148"
+eli: "http://data.europa.eu/eli/reg_impl/2020/1148/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-07-31
+entry_into_force: 2021-01-06
+last_amended: 2024-07-11
+consolidated_version: "02020R1148-20240711"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1148-20240711"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/1148 of 31 July 2020 laying down the methodological and technical specifications in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council as regards harmonised indices of consumer prices and the house price index (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1148**
+
+**of 31 July 2020**
+
+**laying down the methodological and technical specifications in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council as regards harmonised indices of consumer prices and the house price index**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1470 of 17 July 2023 </td><td> L 181</td><td>1</td><td>18.7.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1720 of 20 June 2024 </td><td> L 1720</td><td>1</td><td>21.6.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1148**
+
+**of 31 July 2020**
+
+**laying down the methodological and technical specifications in accordance with Regulation (EU) 2016/792 of the European Parliament and of the Council as regards harmonised indices of consumer prices and the house price index**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+### Article 1
+
+This Regulation establishes uniform conditions for producing the harmonised index of consumer prices (HICP) and the harmonised index of consumer prices at constant tax rates (HICP-CT).
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘expenditure share’ means a percentage of total household final monetary consumption expenditure, as specified in the Annex;
+
+(2) ‘sub-index weight’ means the weight for any category of the European classification of individual consumption according to purpose (ECOICOP), as set out in Annex I to Regulation (EU) 2016/792, included in the HICP;
+
+(3) ‘target universe’ of the HICP means all transactions included in household final monetary consumption expenditure;
+
+(4) ‘product-offer’ means a product specified by its characteristics, the timing and place of purchase and the terms of supply, and for which a price is observed;
+
+(5) ‘homogeneous product’ means a set of product-offers among which there are no significant quality differences and for which an average price is calculated;
+
+(6) ‘individual product’ means a product-offer or a homogeneous product;
+
+(7) ‘target sample’ means a set of individual products that pertain to transactions from the target universe and for which price data are to be used for HICP compilation;
+
+(8) ‘quality difference’ means a difference between the characteristics, timing, place of purchase or terms of supply of two individual products, where this is relevant from the consumer’s perspective;
+
+(9) ‘replacement product’ means an individual product that replaces another individual product in the target sample;
+
+(10) ‘quality adjustment’ means a procedure of increasing or decreasing the observed price of a replacement product or the replaced product by the value of the quality difference between them;
+
+(11) ‘observed price’ means the consumer price of an individual product, as used by the Member State for the HICP compilation;
+
+(12) ‘estimated price’ means a price based on an appropriate estimation procedure;
+
+(13) ‘elementary aggregate’ means the smallest aggregate used in a Laspeyres-type index;
+
+(14) ‘elementary price index’ means an index for an elementary aggregate or an index for a stratum within an elementary aggregate;
+
+(15) ‘transitivity’ means the property whereby an index that compares periods (a) and (b) indirectly through period (c) is identical to one that compares periods (a) and (b) directly;
+
+(16) ‘time reversibility’ means the property whereby the index between periods (a) and (b) is equal to the inverse of the same index between periods (b) and (a);
+
+(17) ‘reimbursement’ means a partial or complete payment by government or non-profit institutions serving households of approved purchases by households of specified products, as defined in paragraphs 4.108-4.110 of Annex A to Regulation (EU) No 549/2013 of the European Parliament and of the Council ( 1 ) (ESA 2010);
+
+(18) ‘inducement’ means a change, often temporary, in the characteristics of an individual product by increasing the quantity of the product, attaching another individual product free of charge or offering other benefits to the consumer;
+
+(19) ‘actual premiums’ means the amounts paid for a specific insurance policy to obtain insurance cover over a stated time period;
+
+(20) ‘implicit service charge’ means the output of insurance companies, as defined in paragraph 16.51 of Annex A to ESA 2010;
+
+(21) ‘non-life insurance claims’ means claims as defined in paragraph 4.114 of Annex A to ESA 2010;
+
+(22) ‘seasonal product’ means an individual product that is available for purchase or purchased in significant amounts only part of a year in a recurring pattern. In any given month, the product is considered to be either in-season or out-of-season. The in-season period may vary from one year to another;
+
+(23) ‘typical price’ means an estimated price for a seasonal product that is not exceptional such as an end-of-season sales price;
+
+(24) ‘seasonal imputation method’ means a treatment whereby prices of out-of-season seasonal products are estimated using counter-seasonal or all-seasonal estimation;
+
+(25) ‘counter-seasonal estimation’ means a procedure to obtain an estimated price for a seasonal product so that:
+
+(a) in the first out-of-season month, a typical price from the previous in-season period is used;
+
+(b) in the following out-of-season months, the estimated price is equal to the previous month’s price adjusted by the average change in observed prices over all in-season seasonal products in the same ECOICOP group, class, subclass or the same aggregate at any level below the subclass;
+
+(26) ‘all-seasonal estimation’ means a procedure to obtain an estimated price for a seasonal product so that:
+
+(a) in the first out-of-season month, a typical price from the previous in-season period is used;
+
+(b) in the following out-of-season months, the estimated price is equal to the previous month’s price adjusted by the average change in observed prices over all individual products in the same ECOICOP group, class, subclass or same aggregate at any level below the subclass;
+
+(27) ‘seasonal weights method’ means a treatment of seasonal products in which weights for out-of-season seasonal products are zero or set to zero;
+
+(28) ‘tariff’ means a list of prices and conditions for a product that is differentiated according to the quantities purchased, the timing of consumption or the characteristics of purchasers;
+
+(29) ‘revision’ means a change in the indices or weights published by the Commission (Eurostat). A change between the flash estimate and the HICP for the same reference month shall not be considered a revision;
+
+(30) ‘provisional data’ means indices or weights that a Member State is expected to finalise in a later month;
+
+(31) ‘general government sector’ means central government, state government, local government and social security funds, as defined in paragraphs 2.113-2.117 of Annex A to ESA 2010;
+
+(32) ‘taxes on products’ means taxes that are payable per unit of a given good or service produced or transacted, as defined in paragraphs 4.16-4.20 of Annex A to ESA 2010;
+
+(33) ‘individual taxes in scope for the HICP-CT’ means individual taxes on products that relate to household consumption and are included in the following categories, defined in Table 9 (‘Detailed tax and social contribution receipts by type of tax or social contribution and receiving sub-sector including the list of taxes and social contributions according to national classification’) in Annex B to ESA 2010:
+
+(a) D.211 Value added type taxes (VAT);
+
+(b) D.2122e Taxes on specific services;
+
+(c) D.214a Excise duties and consumption taxes (other than those included in taxes and duties on imports);
+
+(d) D.214d Car registration taxes;
+
+(e) D.214e Taxes on entertainment;
+
+(f) D.214g Taxes on insurance premiums;
+
+(g) D.214h Other taxes on specific services;
+
+(h) D.214l Other taxes on products not elsewhere classified;
+
+(34) ‘Level-shift factor’ means a factor determined by the ratio between the price changes obtained using current and new production methods, whereby the price change is measured from a calendar year to the price reference period, respectively:
+
+[image]
+
+The chained index in December of year [image] , using the current production method, is denoted by [image] . The annual average of this index in any calendar year y before the current year t is denoted by ChI y . Similarly, the chained indices, using the new production method, are denoted by ChI New . The indices ChI and ChI New can have different index reference periods;
+
+(35) ‘Level-shift adjustment’ means multiplying the index using the new production method in the HICP and the HICP-CT, having December of year
+
+[image]
+
+as the price reference period, with a respective level-shift factor, starting from the first month when the new production method is introduced until the end of the calendar year.
+
+## CHAPTER 2 — HARMONISED INDEX OF CONSUMER PRICES AND HARMONISED INDEX OF CONSUMER PRICES AT CONSTANT TAX RATES
+
+### Article 3 — Weights
+
+1\. Member States shall derive the sub-index and elementary aggregate weights used in the index for year t as follows:
+
+(a) Until 31 December 2022, national accounts data for year t-2 and any available and relevant information from household budget surveys and other data sources shall be used to obtain subclass expenditure shares and divide them among the elementary aggregates of the subclass. From 1 January 2023, national accounts data for year t-2, which can be complemented with data from a recent household budget survey and other sources, shall be used to obtain subclass expenditure shares and divide them among the elementary aggregates of the subclass;
+
+(b) The expenditure shares for year t-2 shall be reviewed and updated to make them representative of year t-1;
+
+(c) The expenditure shares for the elementary aggregates shall be adjusted with an appropriate price change between year t-1 and December of year t-1.
+
+2\. Sub-index weights shall be kept constant throughout the calendar year.
+
+3\. The weight of an elementary aggregate shall be kept constant throughout the calendar year, unless the list of elementary aggregates within a sub-class is adjusted to reflect significant changes in the target universe.
+
+4\. The sub-index weight for any ECOICOP division, group or class shall be equal to the sum of the sub-index weights of its constituent categories. The sum of all sub-index weights at any ECOICOP level shall equal 1 000 .
+
+5\. The sub-index weight for any subclass shall be equal to the sum of the weights of the elementary aggregates of that subclass.
+
+6\. The sub-index weights that relate to non-life insurance shall be derived from aggregate expenditure by households on implicit service charges.
+
+7\. Consumption expenditure financed from non-life insurance claims, including payments made directly by the insurance companies, shall be included in the sub-index weights of the relevant ECOICOP categories.
+
+### Article 4 — Sampling and representativity
+
+1\. Member States shall make a target sample that is representative of the target universe by defining elementary aggregates and selecting individual products for these elementary aggregates.
+
+2\. The number of individual products and elementary aggregates shall depend on the weight of the subclass and the variance of price movements of the individual products belonging to it.
+
+3\. Member States shall ensure that the target sample remains representative of the target universe over time by conducting at least an annual review and update of the target sample, and selecting replacement products.
+
+4\. Products for which the expenditure share is at least one part per thousand shall be represented in the target sample.
+
+### Article 5 — Treatment of prices
+
+1\. Member States shall use observed prices to compile the HICP. They shall use estimated prices only for the purposes laid down in Articles 9, 11 and 14.
+
+2\. Observed prices for health, education and social protection products shall be net of reimbursements.
+
+3\. Changes in the observed prices or conditions of a tariff shall be shown as price changes in the HICP.
+
+4\. If observed prices are index-linked, changes resulting from changes in the index shall be shown as price changes in the HICP.
+
+5\. If household income is a condition determining the price, changes in the observed prices resulting from changes in household income shall be shown as price changes in the HICP.
+
+6\. Observed prices for insurance shall be actual premiums.
+
+7\. If an individual product has been made available to consumers free of charge and a price is charged subsequently, this shall be shown as a price increase in the HICP. Conversely, if a price has been charged for an individual product that is subsequently made available to consumers free of charge, this shall be shown as a price decrease in the HICP.
+
+### Article 6 — Discounts and inducements
+
+1\. Member States shall take account of discounts that:
+
+(a) can be attributed to an individual product; and
+
+(b) can be claimed at the time of purchase.
+
+Where possible, account shall be taken of discounts that are available only to a restricted group of consumers.
+
+2\. Inducements shall be treated in accordance with Articles 10 and 11.
+
+### Article 7 — Service charges proportional to transaction prices
+
+1\. The HICP shall include charges that are levied directly on consumers in exchange for the service provided and can be expressed as a flat fee or a proportion of the transaction price. If the price of a service is determined as a proportion of the transaction price, the proportion multiplied by the price of a representative unit transaction shall be used as an observed price.
+
+2\. Changes in the service charge that result from changes in the price of a representative unit transaction shall be shown as price changes in the HICP.
+
+3\. If a change in the price of a representative unit transaction cannot be measured, it shall be estimated using an appropriate price index.
+
+### Article 8 — Observation of prices
+
+1\. An observed price for a good shall be included in the HICP for the month in which transactions can take place at that price.
+
+2\. An observed price for a service shall be included in the HICP for the month in which consumption of the service can commence.
+
+3\. If the price of a service depends on the time between the purchase and the commencement of the service, Member States shall take into account the prices that are representative for purchases of the service.
+
+4\. Observed prices shall refer to at least 1 working week at, or around, the middle of the month.
+
+5\. If prices for an individual product are known to be volatile within a month, the observed prices shall refer to more than 1 week.
+
+### Article 9 — Estimation of prices
+
+1\. If the price of an individual product in the target sample cannot be observed, an estimated price shall be used for no longer than 2 months, after which a replacement product shall be selected. This paragraph shall not apply to seasonal products or other individual products that are expected to become available again.
+
+2\. A previously observed price shall not be used as an estimated price unless it can be justified as an appropriate estimate.
+
+### Article 10 — Replacements
+
+1\. Member States shall select a replacement product that is similar to the disappearing product, while ensuring that the target sample remains representative.
+
+2\. Member States shall not select replacement products on the basis of a similar price.
+
+### Article 11 — Quality adjustment
+
+1\. If there is no quality difference between a replaced product and its replacement, Member States shall compare the observed prices directly. Otherwise, Member States shall make a quality adjustment.
+
+2\. Member States shall make a quality adjustment equal to the whole price difference between the replaced product in month m-1 and its replacement in month m only if this can be justified as an appropriate estimate of the quality difference.
+
+### Article 12 — Elementary price indices
+
+1\. The prices of individual products shall be aggregated to obtain elementary price indices using either of the following options:
+
+(a) an index formula that ensures transitivity. The price index of prior periods shall not be revised when using transitive index formulae; or
+
+(b) an index formula that ensures time reversibility and compares the prices of individual products in the current period with the prices of those products in the base period. The base period shall not be changed frequently if such change leads to significant violation of the transitivity principle.
+
+2\. An index formula that is consistent with those described in paragraph 1 shall be used to obtain a price index for an elementary aggregate from two or more elementary price indices.
+
+### Article 13 — Integrating sub-indices after the index reference period
+
+Any sub-index that is integrated into the HICP after the index reference period shall be linked to December of a particular year and used as from January of the following year.
+
+### Article 14 — Seasonal products
+
+If seasonal products are sampled in an elementary aggregate, Member States shall use the seasonal imputation method or the seasonal weights method to compile a price index for that aggregate.
+
+### Article 15 — Breakdown of the flash estimate
+
+Member States whose currency is the euro shall transmit to the Commission (Eurostat) flash estimates for all sub-indices in their HICP.
+
+### Article 16 — Finalisation of provisional data
+
+Where a Member State transmits sub-indices or their weights as provisional, it shall finalise them with the following month’s transmission.
+
+### Article 17 — Revisions due to mistakes
+
+1\. Member States shall correct mistakes and transmit the revised sub-indices or sub-index weights to the Commission (Eurostat) without unjustified delay.
+
+2\. Member States shall provide the Commission (Eurostat) with information on the cause of the mistake at the latest with the transmission of the revised data.
+
+### Article 18 — Other revisions
+
+1\. The timing, length and integration into the HICP of revisions other than those pursuant to Articles 16 and 17 shall be coordinated with the Commission (Eurostat).
+
+2\. Member States shall provide the Commission (Eurostat) with estimates of the revised HICP sub-indices no later than 3 months prior to the planned implementation of the proposed revision.
+
+### Article 19 — Release of revisions
+
+Except for revisions pursuant to Article 16, any revision of the all-items HICP shall be made public, together with an explanation, on the website of the national body responsible for compiling the HICP.
+
+### Article 20 — Revision of sub-index weights
+
+Without prejudice to Articles 16 and 17, sub-index weights shall not be revised.
+
+### Article 21 — Harmonised index of consumer prices at constant tax rates
+
+1\. An individual tax in scope for the HICP-CT shall be taken into account if its annual revenue represents 2 % or more of the sum of all individual taxes in scope collected by general government sector.
+
+2\. The annual revenue from taxes taken into account in the HICP-CT shall cover at least 90 % of the sum of all individual taxes in scope collected by general government sector.
+
+3\. The HICP-CT shall be compiled in the same way as the HICP, except that observed prices are adjusted so that the tax rates on products are kept constant in the observation period, as compared with the price reference period.
+
+4\. Changes in tax rates shall be reflected in the HICP-CT:
+
+(a) in the month for which the new rate is applied to the individual product and included in the observed price; or
+
+(b) in the first entire month for which the new rate is applicable. Rate changes that enter into force on the first day of the month shall be reflected in the HICP-CT for that month. Rate changes that enter into force later that month shall be reflected in the HICP-CT for the following month.
+
+### Article 22 — Application of level-shift adjustments
+
+1\. Member States may apply a level-shift adjustment if and only if the introduction of a significant change in the production method, as defined in Article 2(21) of Regulation (EU) 2016/792, results in a permanent and significant shift, upwards or downwards, in the level of the chain-linked index.
+
+2\. The level-shift adjustment shall be applied at the most detailed level at which the indices calculated according to the current and new production methods can be linked.
+
+3\. Member States shall inform the Commission (Eurostat) of the sub-indices to which level-shift adjustments are applied and of the value of the adjustments at the time of the first transmission of data to which the adjustments are made.
+
+## CHAPTER 3 — OWNER-OCCUPIED HOUSING PRICE INDEX AND HOUSE PRICE INDEX
+
+## CHAPTER 4 — DATA AND METADATA EXCHANGE STANDARDS AND DEADLINES
+
+### Article 26 — Data and metadata exchange standards
+
+1\. Member States shall transmit data and metadata to the Commission (Eurostat) in electronic form via the single entry point services in accordance with the statistical data and metadata exchange standards.
+
+2\. Confidential data as defined in Regulation (EC) No 223/2009 of the European Parliament and of the Council ( 2 ) shall be flagged appropriately when transmitted to the Commission (Eurostat).
+
+### Article 27 — Metadata exchange deadlines
+
+1\. Member States shall annually review and update their HICP and HICP-CT metadata for the current year and transmit them to the Commission (Eurostat) by 31 March.
+
+## CHAPTER 5 — FINAL PROVISIONS
+
+### Article 28 — Repeal
+
+Regulations (EC) No 1749/96, (EC) No 2214/96, (EC) No 1687/98, (EC) No 2646/98, (EC) No 1617/1999, (EC) No 2166/1999, (EC) No 2601/2000, (EC) No 2602/2000, (EC) No 1920/2001, (EC) No 1921/2001, (EC) No 1708/2005, (EC) No 701/2006, (EC) No 330/2009, (EU) No 1114/2010 and (EU) No 93/2013 are repealed.
+
+### Article 29 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — Household final monetary consumption expenditure
+
+1\. The household final monetary consumption expenditure is defined in point 20 of Article 2 of Regulation (EU) 2016/792.
+
+2\. In further specifying the quality of weights, the final monetary consumption expenditure shall include the following examples of household final consumption expenditure as defined in the following points in paragraph 3.95 of Annex A to ESA 2010:
+
+— points (c), (d), (h) and (i),
+
+— the part of point (e) that relates to financial services directly charged, the part of point (f) that relates to non-life insurance services by the amount of the implicit service charge.
+
+The final monetary consumption expenditure shall also include dwelling allowances that are part of D.632, which is defined in paragraph 4.109 of Annex A to ESA 2010.
+
+3\. The final monetary consumption expenditure shall exclude the following examples of household final consumption expenditure as defined in the following points in paragraph 3.95 of Annex A to ESA 2010:
+
+— points (a), (b) and (g).
+
+The final monetary consumption expenditure shall also exclude the following examples that are not part of household final consumption expenditure:
+
+— points (a) to (f) in paragraph 3.96 of Annex A to ESA 2010, except for dwelling allowances part of D.632, which is defined in paragraph 4.109 of Annex A to ESA 2010,
+
+— taxes on income, defined in paragraph 4.78 of Annex A to ESA 2010,
+
+— property income, defined in paragraph 4.41 of Annex A to ESA 2010,
+
+— employers’ actual social contributions, defined in paragraph 4.92 of Annex A to ESA 2010,
+
+— net non-life insurance premiums, defined in paragraph 4.112 of Annex A to ESA 2010,
+
+— current transfers between households, defined in paragraph 4.129 of Annex A to ESA 2010,
+
+— fines and penalties imposed on institutional units by courts of law or quasi-judicial bodies, defined in paragraph 4.132 of Annex A to ESA 2010.
+
+4\. Monetary transactions are those transactions when the units involved make or receive payments, or incur liabilities or receive assets denominated in units of currency. Transactions that do not involve the exchange of cash, or assets or liabilities denominated in units of currency, are non-monetary transactions.
+
+( 1 ) Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).
+
+( 2 ) Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European Statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164).

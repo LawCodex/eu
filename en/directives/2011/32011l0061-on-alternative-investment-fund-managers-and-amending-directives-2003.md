@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2013/14/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 21 May 2013 </td><td> L 145</td><td>1</td><td>31.5.2013</td></tr>
@@ -35,6 +36,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2022/2556 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 333</td><td>153</td><td>27.12.2022</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/927 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 927</td><td>1</td><td>26.3.2024</td></tr>
+</table>
 
 **DIRECTIVE 2011/61/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

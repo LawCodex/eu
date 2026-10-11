@@ -1,0 +1,280 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/1158 of 5 August 2020 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station (Text with EEA relevance)"
+identifier: "32020R1158"
+eli: "http://data.europa.eu/eli/reg_impl/2020/1158/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-08-05
+entry_into_force: 2020-12-17
+last_amended: 2024-02-07
+consolidated_version: "02020R1158-20240207"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1158-20240207"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/1158 of 5 August 2020 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158**
+
+**of 5 August 2020**
+
+**on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/256 of 17 January 2024 </td><td> L </td><td>1</td><td>18.1.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158**
+
+**of 5 August 2020**
+
+**on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Scope
+
+1\. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation (Euratom) 2016/52 originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the Union market.
+
+2\. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:
+
+(a) consignments sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market;
+
+(b) consignments which form part of passengers’ personal luggage and are intended for personal consumption or use;
+
+(c) non-commercial consignments sent to natural persons which are not intended to be placed on the market;
+
+(d) consignments intended for scientific purposes.
+
+In case of doubt on the intended use of the products referred to in points (b) and (c), the burden of proof lies with the owner of the personal luggage and with the recipient of the consignment, respectively.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘border control post’ means ‘border control post’ as defined in point (38) of Article 3 of Regulation (EU) 2017/625;
+
+(2) ‘consignment’ means ‘consignment’ as defined in point (37) of Article 3 of Regulation (EU) 2017/625.
+
+## Article 3 — Conditions for entry into the Union
+
+1\. The products may only enter the Union if they comply with this Regulation.
+
+2\. The products shall comply with the following accumulated maximum permitted levels of radioactive contamination in terms of caesium-137 ( 1 ):
+
+(a) 370 Bq/kg for milk and milk products and for food for infants and young children as defined in Article 2(2)(a) and (b) of Regulation (EU) No 609/2013;
+
+(b) 600 Bq/kg for all other products concerned.
+
+3\. Each consignment of products listed in Annex II, with reference to the relevant code from the Combined Nomenclature, from third countries listed in Annex I, shall be accompanied by an official certificate referred to in Article 4. Each consignment shall be identified by means of an identification code which shall be indicated on the official certificate and on the Common Health Entry Document (CHED), as provided for in Article 56 of Regulation (EU) 2017/625.
+
+## Article 4 — Official certificate
+
+1\. The official certificate referred to in Article 3(3) shall be issued by the competent authority of the third country of origin or of the third country where the consignment is consigned, if that country is different from the country of origin, in accordance with the model set out in Annex III.
+
+2\. The official certificate shall comply with the following requirements:
+
+(a) it shall bear the identification code referred to in Article 3(3), of the consignment to which it relates;
+
+(b) it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;
+
+(c) it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
+
+3\. The official certificate which is not submitted in the Information Management System for Official Controls (IMSOC) by the competent authority of the third country issuing it shall also meet the requirements for model official certificates not submitted in IMSOC laid down in Article 5 of Implementing Regulation (EU) 2020/2235.
+
+4\. Competent authorities may issue a replacement official certificate only in accordance with the rules laid down in Article 6 of Implementing Regulation (EU) 2020/2235.
+
+5\. The official certificate shall be completed on the basis of the instructions set out in Annex IV.
+
+6\. The official certificate shall attest that the products comply with the maximum permitted levels laid down in Article 3(2). The official certificate shall be accompanied by the results of sampling and analysis performed on that consignment by the competent authority of the third country of origin or of the country where the consignment is consigned from, if that country is different from the country of origin.
+
+## Article 5 — Official controls at entry into the Union
+
+1\. Consignments of products of non-animal origin referred to in Article 3(3) shall be subject to official controls at their entry into the Union at a border control post and/or at a designated control point.
+
+Consignments of products referred to in Article 3(3) containing ingredient or ingredients of animal origin shall be subject to official controls at their entry into the Union at a border control post.
+
+2\. The competent authorities of the border control post shall carry out identity checks and physical checks on these consignments, including a laboratory analysis on the presence of caesium-137, at a frequency of 20 %.
+
+## Article 6 — Release for free circulation
+
+Customs authorities shall only allow the release for free circulation of consignments of the products referred to in Article 3(3), upon presentation of a duly finalised CHED, as provided for in Article 57(2)(b) of Regulation (EU) 2017/625, which confirms that the consignment is in compliance with the applicable rules referred to in Article 1(2) of that Regulation.
+
+## Article 7 — Review
+
+The Commission shall review this Regulation at the latest by 31 March 2030.
+
+A detailed assessment on the level of contamination in the third countries referred to in Annex I shall be performed on the basis of available control results and, if appropriate, on the basis of the outcome of this assessment, the third countries listed in Annex I, products listed in Annex II and the measures referred to in Article 5(2) shall be reviewed accordingly before that date.
+
+## Article 8 — Repeals
+
+Regulations (EC) No 1609/2000 and (EC) No 1635/2006 are repealed.
+
+## Article 9 — Transitional provision
+
+For a transitional period until 31 December 2020, consignments of products referred to in Article 3(3) accompanied by the relevant certificates issued before 1 September 2020 in accordance with the provisions of Regulation (EC) No 1635/2006 shall be authorised for entry into the Union.
+
+## Article 10 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of third countries referred to in Article 1(1)
+
+Albania
+
+Belarus
+
+Bosnia and Herzegovina
+
+Kosovo ( 2 )
+
+North Macedonia
+
+Moldova
+
+Montenegro
+
+Russia
+
+Serbia
+
+Switzerland
+
+Turkey
+
+Ukraine
+
+United Kingdom of Great Britain excluding Northern Ireland ( 3 )
+
+## ANNEX II
+
+**List of products to which the conditions laid down in Article 3(3) apply**
+
+| CN code | Description |
+| --- | --- |
+|  | Food listed as mixtures hereafter relate to mixtures containing wild mushrooms and/or wild fruits of the genus Vaccinium in a quantity above 20 % of either a single product or as the sum of wild mushrooms and wild fruits of the genus Vaccinium. |
+| ex 0709 51 00 | mushrooms of the genus Agaricus, fresh or chilled, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Agaricus, fresh or chilled |
+| ex 0709 52 00 | mushrooms of the genus Boletus, fresh or chilled, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Boletus, fresh or chilled |
+| ex 0709 53 00 | mushrooms of the genus Cantharellus, fresh or chilled, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Cantharellus, fresh or chilled |
+| ex 0709 54 00 | shiitake (Lentinus edodes), fresh or chilled, other than cultivated; mixtures of cultivated and wild shiitake (Lentinus edodes), fresh or chilled |
+| ex 0709 55 00 | matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum), fresh or chilled, other than cultivated; mixtures of cultivated and wild matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum), fresh or chilled |
+| ex 0709 56 00 | truffles (Tuber spp.), fresh or chilled, other than cultivated; mixtures of cultivated and wild truffles (Tuber spp.), fresh or chilled |
+| ex 0709 59 00 | other mushrooms, fresh or chilled, other than cultivated mushrooms; mixtures of cultivated and wild other mushrooms, fresh or chilled |
+| ex 0710 80 61 | mushrooms of the genus Agaricus (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Agaricus (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0710 80 69 | other mushrooms (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated mushrooms; mixtures of cultivated and wild other mushrooms (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0710 80 95 | truffles (Tuber spp.) (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated; mixtures of cultivated and wild truffles (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0711 51 00 | mushrooms of the genus Agaricus provisionally preserved, but unsuitable in that state for immediate consumption, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Agaricus provisionally preserved, but unsuitable in that state for immediate consumption |
+| ex 0711 59 00 | other mushrooms and truffles provisionally preserved, but unsuitable in that state for immediate consumption, other than cultivated mushrooms; mixtures of cultivated and wild other mushrooms and truffles provisionally preserved, but unsuitable in that state for immediate consumption |
+| ex 0712 31 00 | mushrooms of the genus Agaricus, dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms of the genus Agaricus, dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 32 00 | wood ears (Auricularia spp.) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms; mixtures of cultivated and wild wood ears (Auricularia spp.) dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 33 00 | jelly fungi (Tremella spp.) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms; mixtures of cultivated and wild jelly fungi (Tremella spp.) dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 34 00 | shiitake (Lentinus edodes) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms; mixtures of cultivated and wild shiitake (Lentinus edodes) dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 39 00 | other mushrooms and truffles, dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms; mixtures of cultivated and wild other mushrooms and truffles, dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 2001 90 50 | mushrooms prepared or preserved by vinegar or acetic acid other than cultivated mushrooms; mixtures of cultivated and wild mushrooms prepared or preserved by vinegar or acetic acid |
+| ex 2001 90 97 | truffles (Tuber spp.) prepared or preserved by vinegar or acetic acid other than cultivated mixtures of cultivated and wild truffles (Tuber spp.) prepared or preserved by vinegar or acetic acid |
+| ex 20 03 | mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid, other than cultivated mushrooms; mixtures of cultivated and wild mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid |
+| ex 0810 40 | wild cranberries, wild bilberries and other wild fruit of the genus Vaccinium, fresh; mixtures of wild and cultivated cranberries, bilberries and other fruit of the genus Vaccinium, fresh |
+| ex 0811 90 50 | wild fruits of the species Vaccinium myrtillus, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter; mixtures of wild and cultivated fruits of the species Vaccinium myrtillus, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0811 90 70 | wild fruits of the species Vaccinium myrtilloides and Vaccinium angustifolium, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter; mixtures of wild and cultivated fruits of the species Vaccinium myrtilloides and Vaccinium angustifolium, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0811 90 95 | wild fruits of other species of the genus Vaccinium, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter; mixtures of wild and cultivated fruits of the other species of the genus Vaccinium, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0812 90 40 | wild fruits of the species Vaccinium myrtillus, provisionally preserved, but unsuitable in that state for immediate consumption; mixtures of wild and cultivated fruits of the species Vaccinium myrtillus provisionally preserved, but unsuitable in that state for immediate consumption; |
+| ex 0813 40 95 | wild fruits, dried, of the genus Vaccinium |
+| ex 0813 50 15 ex 0813 50 19 ex 0813 50 91 ex 0813 50 99 | mixture of dried fruits or of nuts and dried fruits containing wild fruits of the genus Vaccinium |
+| ex 20 07 | jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter, made from and/or containing wild fruits of the genus Vaccinium or processed products thereof |
+| ex 2008 93 | wild cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos) and lingonberries (Vaccinium vitis-idaea), otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included; mixtures of wild and cultivated cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos) and lingonberries (Vaccinium vitis-idaea), otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included |
+| ex 2008 97 | Mixtures of fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included, containing wild fruits of the genus Vaccinium |
+| ex 2008 99 28 ex 2008 99 34 ex 2008 99 37 ex 2008 99 40 ex 2008 99 49 ex 2008 99 67 ex 2008 99 99 | other wild fruits of the genus Vaccinium, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included; mixtures of wild and cultivated other fruits of the genus Vaccinium, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included |
+| ex 2009 81 | cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice and lingonberry (Vaccinium vitis-idaea) juice from wild fruits, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter; cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice and lingonberry (Vaccinium vitis-idaea) juice from a mixture of wild and cultivated fruits, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
+| ex 2009 89 35 ex 2009 89 38 ex 2009 89 79 ex 2009 89 86 ex 2009 89 89 ex 2009 89 99 | Other juices of wild fruits of the genus Vaccinium, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
+| ex 2009 90 21 ex 2009 90 29 ex 2009 90 51 ex 2009 90 59 ex 2009 90 94 ex 2009 90 96 ex 2009 90 98 | mixture of juices made from and/or containing wild fruits of the genus Vaccinium or processed products thereof |
+| ex 2202 10 | Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured containing juice or other processed products from wild fruits of the genus Vaccinium |
+| ex 2202 99 | Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured and other non-alcoholic beverages, containing juice or other processed products from wild fruits of the genus Vaccinium |
+|  | Due to risk of contamination by radioactivity food listed hereafter relate to food consisting of two or more ingredients, containing any of the individual products listed above in a quantity above 20 % of either a single product or as the sum of products listed |
+| ex 1704 90 | Sugar confectionery (including white chocolate), not containing cocoa, other than chewing gum, whether or not sugar-coated |
+| ex 18 06 | Chocolate and other food preparations containing cocoa |
+| ex 19 05 | Bread, pastry, cakes, biscuits and other bakers’ wares, whether or not containing cocoa, communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products |
+
+## ANNEX III — MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158 ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
+
+[image]
+
+[image]
+
+## ANNEX IV — INSTRUCTIONS FOR THE COMPLETION OF THE OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158 ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
+
+**General**
+
+To positively select any option, please tick or mark the relevant box with a cross (X).
+
+Whenever mentioned, ‘ISO’ means the international standard two-letter code for a country, in accordance with the international standard ISO 3166 alpha-2 ( 4 ).
+
+Only one of the options may be selected in boxes I.15, I.18, I.20.
+
+Unless otherwise indicated, the boxes are compulsory.
+
+If the consignee, the entry border control post (BCP) or the transport details (that is to say, the means and date) change after the certificate has been issued, the operator responsible for the consignment must advise the competent authority of the Member State of entry. Such a change shall not result in a request for a replacement certificate.
+
+In case the certificate is submitted in IMSOC, the following applies:
+
+— the entries or boxes specified in Part I constitute the data dictionaries for the electronic version of the official certificate;
+
+— the sequences of boxes in Part I of the model official certificate and the size and shape of those boxes are indicative;
+
+— where a stamp is required, its electronic equivalent is an electronic seal. Such seal shall comply with the rules for the issuance of electronic certificates referred to in point (f) of the first paragraph of Article 90 of Regulation (EU) 2017/625.
+
+**Part I: Details of the dispatched consignment**
+
+<table>
+<tbody><tr><td>Country:</td><td>The name of the third country issuing the certificate.</td></tr>
+<tr><td>Box I.1.</td><td>Consignor/Exporter: the name and address (street, city and region, province or state, as appropriate) of the natural or legal person dispatching the consignment that must be located in the third country.</td></tr>
+<tr><td>Box I.2.</td><td>Certificate reference No: the unique mandatory code assigned by the competent authority of the third country in accordance with its own classification. This box is compulsory for all certificates not submitted in IMSOC.</td></tr>
+<tr><td>Box I.2.a</td><td>IMSOC reference No: the unique reference code automatically assigned by IMSOC, if the certificate is registered in IMSOC. This box must not be completed if the certificate is not submitted in IMSOC.</td></tr>
+<tr><td>Box I.3.</td><td>Central competent authority: name of the central authority in the third country issuing the certificate.</td></tr>
+<tr><td>Box I.4.</td><td>Local competent authority: if applicable, the name of the local authority in the third country issuing the certificate.</td></tr>
+<tr><td>Box I.5.</td><td>Consignee/Importer: name and address of the natural or legal person to whom the consignment is intended in the Member State.</td></tr>
+<tr><td>Box I.6.</td><td>Operator responsible for the consignment: the name and address of the person in the European Union in charge of the consignment when presented to the BCP and who makes the necessary declarations to the competent authorities either as the importer or on behalf of the importer. This box is optional.</td></tr>
+<tr><td>Box I.7.</td><td>Country of origin: the name and ISO code of the country where the goods are originating from, grown, harvested or produced.</td></tr>
+<tr><td>Box I.9.</td><td>Country of destination: the name and ISO code of the European Union country of destination of the products.</td></tr>
+<tr><td>Box I.11.</td><td>Place of dispatch: the name and address of the holdings or establishments from which the products come from. Any unit of a company in the food sector. Only the establishment shipping the products is to be named. In the case of trade involving more than one third country (triangular movement), the place of dispatch is the last third-country establishment of the export chain from which the final consignment is transported to the European Union. </td></tr>
+<tr><td>Box I.12.</td><td>Place of destination: this information is optional. For the placing on the market: the place where the products are sent for final unloading. Give the name, address and approval number of the holdings or establishments of the place of destination, if applicable. </td></tr>
+<tr><td>Box I.14.</td><td>Date and time of departure: the date when the means of transport departs (aeroplane, vessel, railway or road vehicle).</td></tr>
+<tr><td>Box I.15.</td><td>Means of transport: means of transport leaving the country of dispatch. Mode of transport: aeroplane, vessel, railway, road vehicle or other. ‘Other’ means modes of transport not covered by Council Regulation (EC) No 1/2005 (1).  Identification of the means of transport: for aeroplanes, the flight number, for vessels, the ship name(s), for railways, the train identity and wagon number, for road transports, the registration number plate with trailer number plate if applicable.  In the case of a ferry, the identification of the road vehicle, the registration number plate with trailer number plate if applicable, and the name of the scheduled ferry must also be provided. </td></tr>
+<tr><td>Box I.16.</td><td>Entry BCP: state the name of the BCP and its identification code assigned by IMSOC.</td></tr>
+<tr><td>Box I.17.</td><td>Accompanying documents: Laboratory report: indicate the reference number and the date of issuance of the report/results of laboratory analysis referred to in Article 4(6) of Commission Implementing Regulation (EU) 2020/1158  Other: the type and reference number of document must be stated when a consignment is accompanied by other documents such as a commercial document (for example, the airway bill number, the bill of lading number or the commercial number of the train or road vehicle). </td></tr>
+<tr><td>Box I.18.</td><td>Transport conditions: category of required temperature during the transport of products (ambient, chilled, frozen). Only one category may be selected.</td></tr>
+<tr><td>Box I.19.</td><td>Container No/Seal No: if applicable, the corresponding numbers. The container number must be provided if the goods are transported in closed containers.  Only the official seal number must be stated. An official seal applies if a seal is affixed to the container, truck or rail wagon under the supervision of the competent authority issuing the certificate. </td></tr>
+<tr><td>Box I.20.</td><td>Goods certified as: state the intended use for products as specified in the relevant European Union official certificate. Human consumption: concerns only products intended for human consumption. </td></tr>
+<tr><td>Box I.22.</td><td>For internal market: for all consignments destined to be placed on the market in the European Union.</td></tr>
+<tr><td>Box I.23.</td><td>Total number of packages: the number of packages. In the case of bulk consignments, this box is optional.</td></tr>
+<tr><td>Box I.24.</td><td>Quantity: Total net weight: this is defined as the mass of the goods themselves without immediate containers or any packaging.  Total gross weight: overall weight in kilograms. This is defined as the aggregate mass of the products and of the immediate containers and all their packaging, but excluding transport containers and other transport equipment. </td></tr>
+<tr><td>Box I.25.</td><td>Description of goods: State the relevant Harmonised System code (HS code) and the title defined by the World Customs Organisation as referred to in Council Regulation (EEC) No 2658/87 (2). This customs description shall be supplemented, if necessary, by additional information required to classify the products. Indicate the species, types of products, the number of packages, type of packaging, batch number, net weight, and final consumer (i.e. products are packed for final consumer).  Species: the scientific name or as defined in accordance with European Union legislation.  Type of packaging: identify the type of packaging according to the definition given in Recommendation No 21 (3) of UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business). </td></tr>
+<tr><td colspan="2">(1)  Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1).  (2)  Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).  (3)  Last version: Revision 9 Annexes V and VI as published on: http://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.ahtml </td></tr>
+</tbody>
+</table>
+
+**Part II: Certification**
+
+This part must be completed by a certifying officer authorised by the competent authority of the third country to sign the official certificate, as provided for in Article 88(2) of Regulation (EU) 2017/625.
+
+| Box II. | Health information: please complete this part in accordance with the specific European Union health requirements relating to the nature of the products and as defined in the equivalence agreements with certain third countries or in other European Union legislation, such as that for certification. In case the official certificate is not submitted in IMSOC, the statements which are not relevant must be crossed out, initialled and stamped by the certifying officer, or completely removed from the certificate. In case the certificate is submitted in IMSOC, the statements which are not relevant must be crossed out or completely removed from the certificate. |
+| --- | --- |
+| Box II.a. | Certificate reference No: same reference code as in box I.2. |
+| Box II.b. | IMSOC reference No: same reference code as in box I.2.a. Mandatory only for official certificates issued in IMSOC. |
+| Certifying officer: | Official of the competent authority of the third country authorised to sign official certificates by such authorities: Indicate the name in capital letters, qualification and title, where applicable, identification number and original stamp of the competent authority and date of signature. |
+
+( 1 ) The level applicable to concentrated or dried products shall be calculated on the basis of the reconstituted product as ready for consumption.
+
+( 2 ) This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+( 3 ) Applicable as from the day following that on which Union law ceases to apply to and in the United Kingdom pursuant to the Withdrawal Agreement.
+
+( 4 ) List of country names and code elements under: http://www.iso.org/iso/country_codes/iso-3166-1_decoding_table.htm

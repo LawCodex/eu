@@ -34,9 +34,11 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 7 February 1989</td><td> L 49</td><td>31</td><td>21.2.1989</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -90,6 +92,7 @@ ALLEGATOBIJLAGEANEXO
 
 I. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 3 DO ARTIGO 3o DA DIRECTIVA 75/268/CEE
 
+<table>
 <tbody><tr><td>Distrito</td><td>Concelho</td><td>Freguesia</td></tr>
 <tr><td rowspan="10">Viana do Castelo</td><td>Melgaço</td><td>—</td></tr>
 <tr><td>Monção</td><td>—</td></tr>
@@ -289,6 +292,7 @@ I. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 3 DO ARTIGO 3o DA DIRECTIVA 75/268/C
 <tr><td>Santa Maria</td></tr>
 <tr><td>Vila do Bispo</td><td>Vila do Bispo</td></tr>
 </tbody>
+</table>
 
 REGIÕES AUTÓNOMAS
 
@@ -296,6 +300,7 @@ Madeira — Ilha da Madeira
 
 II. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 4 DO ARTIGO 3o DA DIRECTIVA 75/268/CEE
 
+<table>
 <tbody><tr><td>Distrito</td><td>Concelho</td><td>Freguesia</td></tr>
 <tr><td rowspan="2">Coimbra</td><td>Oliveira do Hospital</td><td>—</td></tr>
 <tr><td>Tábua</td><td>—</td></tr>
@@ -392,9 +397,11 @@ II. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 4 DO ARTIGO 3o DA DIRECTIVA 75/268/
 <tr><td>Raposeira</td></tr>
 <tr><td>Sagres</td></tr>
 </tbody>
+</table>
 
 III. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 5 DO ARTIGO 3o DA DIRECTIVA 75/268/CEE
 
+<table>
 <tbody><tr><td>Distrito</td><td>Concelho</td><td>Freguesia</td></tr>
 <tr><td rowspan="11">Coimbra</td><td rowspan="5">Condeixa-a-Nova</td><td>Bem da Fé</td></tr>
 <tr><td>Condeixa-a-Velha</td></tr>
@@ -445,6 +452,7 @@ III. ZONAS DESFAVORECIDAS, NA ACEPÇÃO DO No 5 DO ARTIGO 3o DA DIRECTIVA 75/268
 <tr><td>Alburitel</td></tr>
 <tr><td>  </td><td>Gondemaria</td></tr>
 </tbody>
+</table>
 
 REGIÕES AUTÓNOMAS
 

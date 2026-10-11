@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2015/1480 of 28 August 2015 </td><td> L 226</td><td>4</td><td>29.8.2015</td></tr>
+</table>
 
 **DIRECTIVE 2004/107/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -217,6 +219,7 @@ This Directive is addressed to the Member States.
 
 **Target values for arsenic, cadmium, nickel and benzo(a)pyrene**
 
+<table>
 <tbody><tr><td>Pollutant</td><td>Target value (1)</td></tr>
 <tr><td>Arsenic</td><td>6 ng/m3</td></tr>
 <tr><td>Cadmium</td><td>5 ng/m3</td></tr>
@@ -224,6 +227,7 @@ This Directive is addressed to the Member States.
 <tr><td>Benzo(a)pyrene</td><td>1 ng/m3</td></tr>
 <tr><td colspan="2">(1)  For the total content in the PM10 fraction averaged over a calendar year. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — Determination of requirements for assessment of concentrations of arsenic, cadmium, nickel and benzo(a)pyrene in ambient air within a zone or agglomeration
 
@@ -306,6 +310,7 @@ Minimum number of sampling points for fixed measurement to assess compliance wit
 
 **(a) Diffuse sources**
 
+<table>
 <tbody><tr><td rowspan="2">Population of agglomeration or zone (thousands) </td><td colspan="2">If maximum concentrations exceed the upper assessment threshold (1)</td><td colspan="2">If maximum concentrations are between the upper and lower assessment thresholds</td></tr>
 <tr><td>As, Cd, Ni</td><td>B(a)P</td><td>As, Cd, Ni</td><td>B(a)P</td></tr>
 <tr><td>0–749</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
@@ -316,6 +321,7 @@ Minimum number of sampling points for fixed measurement to assess compliance wit
 <tr><td>≥ 6 000 </td><td>5</td><td>5</td><td>2</td><td>2</td></tr>
 <tr><td colspan="5">(1)  To include at least one urban-background station and for benzo(a)pyrene also one traffic-oriented station provided this does not increase the number of sampling points. </td></tr>
 </tbody>
+</table>
 
 **(b) Point sources**
 
@@ -329,6 +335,7 @@ The sampling points should be sited such that the application of BAT as defined 
 
 The following data quality objectives are provided as a guide to quality assurance.
 
+<table>
 <tbody><tr><td>  </td><td>Benzo(a)pyrene</td><td>Arsenic, cadmium and nickel</td><td>Polycyclic aromatic hydrocarbons other than benzo(a)pyrene, total gaseous mercury</td><td>Total deposition</td></tr>
 <tr><td>— Uncertainty</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>Fixed and indicative measurements</td><td>50 %</td><td>40 %</td><td>50 %</td><td>70 %</td></tr>
@@ -339,6 +346,7 @@ The following data quality objectives are provided as a guide to quality assuran
 <tr><td>Indicative measurements (1)(2)</td><td>14 %</td><td>14 %</td><td>14 %</td><td>33 %</td></tr>
 <tr><td colspan="5">(1)  Distributed over the year to be representative of various conditions for climate and anthropogenic activities  (2)  Indicative measurement being measurements which are performed at reduced regularity but fulfil the other data quality objectives </td></tr>
 </tbody>
+</table>
 
 The uncertainty (expressed at a 95 % confidence level) of the methods used for the assessment of ambient air concentrations will be evaluated in accordance with the principles of the CEN Guide to the expression of uncertainty in measurement (ENV 13005-1999), the methodology of ISO 5725:1994, and the guidance provided in the CEN Report, ‘Air quality — Approach to uncertainty estimation for ambient air reference measurement methods’ (CR 14377:2002E). The percentages for uncertainty are given for individual measurements, which are averaged over typical sampling times, for a 95 % confidence interval. The uncertainty of the measurements should be interpreted as being applicable in the region of the appropriate target value. Fixed and indicative measurements must be evenly distributed over the year in order to avoid skewing of results.
 

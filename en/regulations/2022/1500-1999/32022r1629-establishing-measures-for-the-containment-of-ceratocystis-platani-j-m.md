@@ -1,0 +1,323 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1629 of 21 September 2022 establishing measures for the containment of Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. within certain demarcated areas"
+identifier: "32022R1629"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1629/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-09-21
+entry_into_force: 2022-11-10
+last_amended: 2025-12-01
+consolidated_version: "02022R1629-20251201"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1629-20251201"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1629 of 21 September 2022 establishing measures for the containment of Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. within certain demarcated areas
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1629**
+
+**of 21 September 2022**
+
+**establishing measures for the containment of Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. within certain demarcated areas**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/594 of 20 February 2024 </td><td> L 594</td><td>1</td><td>21.2.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2291 of 10 November 2025 </td><td> L 2291</td><td>1</td><td>11.11.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1629**
+
+**of 21 September 2022**
+
+**establishing measures for the containment of Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. within certain demarcated areas**
+
+## Article 1 — Subject matter
+
+This Regulation establishes measures for the containment of Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. within the demarcated areas where its eradication is not possible.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘the specified pest’ means Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr.;
+
+(2) ‘the specified plants’ means plants of the genus Platanus L. other than seeds;
+
+(3) ‘the specified wood’ means wood of the genus Platanus L.;
+
+(4) ‘the demarcated area for containment’ means an area listed in Annex I, where the specified pest cannot be eradicated;
+
+(5) ‘the pest survey card’ means the publication ‘Pest survey card on Ceratocysis platani’ ( 1 ) of the European Food Safety Authority.
+
+## Article 3 — Establishment of demarcated areas for containment
+
+The competent authorities shall establish the demarcated areas for containment of the specified pest consisting of an infected zone and a buffer zone of a width of at least 1 km, surrounding the infected zone.
+
+## Article 4 — Measures within the demarcated areas for containment
+
+1\. In the infected zones, the competent authorities shall ensure:
+
+(a) removal of specified plants and specified wood infected with the specified pest before the next growing season, applying appropriate measures to prevent the spread of the specified pest by the stump, sawdust, wood parts and soil debris at the felling site and ensure their destruction at appropriate treatment facilities;
+
+(b) prohibition on the movement of specified wood resulting from the removal of specified plants infected with the specified pest out of the infected zone, except in cases where:
+
+(i) there is no appropriate treatment facility available within the infected zone;
+
+(ii) the treatment is carried out in the closest treatment facility outside the infected zone, which is capable of doing such a treatment; and
+
+(iii) the transport takes place under official supervision of the competent authorities and within enclosed vehicles, which ensure that spillage of the specified wood is prevented and that the specified pest cannot spread;
+
+(c) prohibition on planting specified plants in the respective infected zones, other than those known to be resistant to the specified pest;
+
+(d) prohibition on the removal and transport of soil from an infected zone to other zones, unless previous appropriate treatment to ensure freedom from the specified pest has been applied;
+
+(e) cleaning and disinfection of pruning tools and machinery before and after being in contact with the specified plants or its soil; and
+
+(f) treatment, in case of pruning of specified plants, of pruning wounds with appropriate preventive treatments.
+
+2\. In the buffer zones, the competent authorities shall ensure:
+
+(a) Prohibition on planting specified plants in the buffer zone, other than those known to be resistant to the specified pest;
+
+(b) cleaning and disinfection of pruning tools and machinery, before and after being in contact with the specified plants or its soil, or with specified wood; and
+
+(c) treatment, in case of pruning of specified plants, of pruning wounds with appropriate preventive treatments.
+
+3\. Where the presence of the specified pest has been officially confirmed in the buffer zone, Articles 17 and 18 of Regulation (EU) 2016/2031 shall apply.
+
+4\. Within the demarcated areas for containment, the competent authorities shall raise public awareness concerning the threat of the specified pest and the measures adopted to prevent its further spread outside of those areas.
+
+The competent authorities shall inform the general public and the professional operators concerned of the delimitation of the demarcated area for containment.
+
+## Article 5 — Surveys
+
+1\. The competent authorities shall carry out the surveys as provided for in paragraphs 2 and 3, taking into account the information referred to in the pest survey card.
+
+2\. They shall carry out annual risk based surveys for the presence of the specified pest in the areas of the Union territory where the specified pest is not known to be present but could become established.
+
+3\. In the buffer zones of the demarcated areas for containment, they shall carry out annual surveys, as referred to in Article 19(1) of Regulation (EU) 2016/2031, to detect the presence of the specified pest.
+
+Those surveys shall include:
+
+(a) visual examinations of the specified plants to detect the specified pest; and
+
+(b) sampling and testing, in the case of suspicion of the presence of the specified pest.
+
+Those surveys shall be more intensive than the surveys referred to in paragraph 2, with a higher number of visual examinations and, where appropriate, sampling and testing.
+
+## Article 6 — Reporting
+
+By 30 April of each year, Member States shall submit to the Commission and to the other Member States the results of the surveys carried out, in the preceding calendar year, pursuant to:
+
+(a) Article 5(2) of this Regulation, using one of the templates set out in Annex I to Implementing Regulation (EU) 2020/1231;
+
+(b) Article 5(3) of this Regulation, using one of the templates set out in Annex II to this Regulation.
+
+## Article 7 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of demarcated areas for containment as referred to in Article 2
+
+**1\. Greece**
+
+<table>
+<tbody><tr><td>Number/name of demarcated area (DA)</td><td>Zone of DA</td><td>Region</td><td>Regional units or other administrative/geographic delimitations</td></tr>
+<tr><td rowspan="10">Greece</td><td rowspan="8">Infected zone</td><td>Central Greece</td><td>Whole territory of the Regional Units of: Euboea, Evrytania, Phocis, Phthiotis </td></tr>
+<tr><td>Thessaly</td><td>Whole territory of the Regional Units of: Karditsa, Larissa, Magnesia, Sporades, Trikala </td></tr>
+<tr><td>Epirus</td><td>Whole territory of the Regional Units of: Arta, Ioannina, Preveza, Thesprotia, </td></tr>
+<tr><td>Western Macedonia</td><td>Whole territory of the Regional Unit of: Kozani </td></tr>
+<tr><td>Peloponnese</td><td>Whole territory of the Regional Units of: Arcadia, Argolis, Corinthia, Laconia, Messenia </td></tr>
+<tr><td>Western Greece</td><td>Whole territory of the Regional Units of: Achaea, Aitoloakanrania, Ilias </td></tr>
+<tr><td>Central Macedonia</td><td>Whole territory of the Regional Units of: Imathias (except the municipality of Naousa), Pierias </td></tr>
+<tr><td>Attica</td><td>The entire region</td></tr>
+<tr><td rowspan="2">Buffer zone</td><td>Central Macedonia</td><td>1 km around the infected zone falling in part in the following municipalities: — Thessalonikis, Ampelokipon – Menemenis, Delta, Pavlou Mela, Pylaias-Chortiati, Chalkidonos, Oraiokastrou in the Regional unit of Thessaloniki.  — Naousa in the Regional unit of Imathia.  — Pellas and Skydras in the Regional unit of Pella. </td></tr>
+<tr><td>Western Macedonia</td><td>1 km around the infected zone falling in part in the following municipalities: — Boiou, Eordaias, Nestoriou in the Regional unit of Kozani  — Grevena in the Regional unit of Grevena </td></tr>
+</tbody>
+</table>
+
+**2\. France**
+
+<table>
+<tbody><tr><td>Number/name of demarcated area (DA)</td><td>Zone of DA</td><td>Region</td><td>Municipalities or other administrative/geographic delimitations</td></tr>
+<tr><td rowspan="4">1. Canal du Midi et Canal de la Robine</td><td rowspan="2">Infected zone</td><td>Aude (11)</td><td>100 m on each side of the canal in the following municipalities: Alzonne; Argeliers; Argens-Minervois; Azille; Badens; Barbaira; Berriac; Blomac; Bram; Carcassonne; Castelnaudary; Caux-et-Sauzens; Cuxac d’Aude; Fonties d’Aude; Ginestas; Homps; Labastide-d'Anjou; La Redorte; Lasbordes; Marseillette; Mas-Saintes-Puelles; Mirepeisset; Montréal; Moussan; Narbonne; Ouveillan; Paraza; Pennautier; Pexiora; Pezens; Puichéric; Roubia; Saint-Martin-Lalande; Saint-Nazaire-d’Aude; Sainte-Eulalie; Sallèles d’Aude; Tourouzelle; Trèbes; Ventenac-en-Minervois; Villalier; Villedubert; Villemoustaussou; Villepinte; Villesèquelande </td></tr>
+<tr><td>Hérault (34)</td><td>100 m on each side of the canal in the following municipalities: Agde; Béziers; Capestang; Cers; Colombiers; Cruzy; Nissan-lez-Ensérune; Olonzac; Poilhes; Portiragnes; Quarante; Vias; Villeneuve-les-Béziers </td></tr>
+<tr><td rowspan="2">Buffer zone</td><td>Aude (11)</td><td>1 km around the infected zone in the following municipalities: Alzonne; Argeliers; Argens-Minervois; Arzens; Azille; Badens; Bages; Baraigne; Barbaira; Berriac; Blomac; Bouilhonnac; Bram; Canet; Capendu; Carcassonne; Castelnau d’Aude; Castelnaudary; Caux-et-Sauzens; Conques sur Orbiel; Cuxac d’Aude; Floure; Fonties d’Aude; Ginestas; Gruissan; Homps; La Redorte; Labastide-d-Anjou; Lasbordes; Laurabuc; Lézignan Corbières; Marseillette; Mas-saintes-Puelles; Mirepeisset; Mireval Lauragais; Montferrand; Montréal; Moussan; Narbonne; Ouveillan; Paraza; Pennautier; Pépieux; Pexiora; Peyriac de Mer; Pezens; Port-la-Nouvelle; Puichéric; Raissac d’Aude; Rieux-Minervois; Roquecourbe Minervois; Roubia; Rustiques; Saint-Couat d’Aude; Sainte-Eulalie; Sainte-Valière; Saint-Marcel sur Aude; Saint-Martin-Lalande; Saint-Nazaire-d’Aude; Sallèle d’Aude; Sigean; Tourouzelle; Trèbes; Ventenac Cabardès; Ventenac-en-Minervois; Villalier; Villedubert; Villemoustaussou; Villeneuve la Comptal; Villepinte; Villesèquelande </td></tr>
+<tr><td>Hérault (34)</td><td>1 km around the infected zone in the following municipalities: Agde; Béziers; Capestang; Cers; Colombiers; Cruzy; Marseillan; Maureilhan; Montady; Montels; Montouliers; Nissan-lez-Ensérune; Olonzac; Poilhes; Portiragnes; Quarante; Sauvian; Sérignan; Vias; Villeneuve-les-Béziers </td></tr>
+<tr><td rowspan="5">2. Adour et affluents</td><td rowspan="2">Infected zone</td><td>Hautes-Pyrénées (65)</td><td>Allier; Andrest; Ansost; Artagnan; Aureilhan; Aurensan; Auriébat; Barbachen; Barbazan-Debat; Bazet; Bazillac; Bernac-Debat; Bordères-sur-l’Échez; Bours; Caixon; Camalès; Chis; Dours; Escondeaux; Estirac; Gayan; Gensac; Horgues; Ibos; Juillan; Labatut-Rivière; Lafitole; Lagarde; Laloubère; Larreule; Liac; Louey; Marsac; Maubourguet; Mingot; Momères; Monfaucon; Nouilhan; Odos; Orleix; Oursbelille; Pujo; Rabastens-de-Bigorre; Saint-Lézer; Saint-Martin; Salles-Adour; Sarniguet; Sarriac-Bigorre; Sauveterre; Ségalas; Séméac; Siarrouy; Sombrun; Soues; Talazac; Tarbes; Tostat; Ugnouas; Vic-en-Bigorre; Villenave-près-Marsac</td></tr>
+<tr><td>Gers (32)</td><td>Haget</td></tr>
+<tr><td rowspan="3">Buffer zone</td><td>Hautes-Pyrénées (65)</td><td>Angos; Arcizac-Adour; Azereix, Barbazan-Dessus; Bénac; Bernac-Dessus; Boulin; Buzon; Calavanté; Castelnau-Rivière-Basse; Castéra-Lou; Caussade-Rivière; Hères; Hibarette; Lacassagne; Lahitte-Toupières; Lanne; Lansac; Lascazères; Laslades; Lescurry; Lespouey; Lizos; Louit; Montignac; Oléac-Debat; Ossun; Oroix; Pintac; Sabalos; Sanous; Sarrouilles; Sénac; Soréac; Soublecause; Souyeaux; Tarasteix; Villefranque; Visker</td></tr>
+<tr><td>Gers (32)</td><td>Armentieux; Beccas; Betplan; Cazeaux-Villecomtal; Jû-Belloc; Ladevèze-Ville; Malabat; Marciac; Montégut-Arros; Saint-Justin; Sembouès; Tieste-Uragnoux; Villecomtal-Sur-Arros</td></tr>
+<tr><td>Pyrénées-Atlantique (Région Nouvelle-Aquitaine)</td><td>Castéide-Doat; Ger; Labatut-Figuières; Lamayou; Moncaup; Montaner; Monségur</td></tr>
+<tr><td rowspan="10">3. Vaucluse/Bouches-du-Rhône/Var</td><td rowspan="3">Infected zone</td><td>Bouches du Rhône (13)</td><td>Aix-en-Provence; Allauch; Arles; Aubagne; Auriol; Barbentane; Berre-l’Etang; Cabannes; Cadolive; Carry-le-Rouet; Ceyreste; Châteaurenard; Cornillon-Confoux; Cuges-les-Pins; Eygalières; Eyguières; Eyragues; Fuveau; Gémenos; Gignac-la-Nerthe; Grans; Graveson; Gréasque; Istres; Jouques; La Bouilladisse; La Ciotat; La Destrousse; La Fare-les-Oliviers; La Penne-sur-Huveaune; Lamanon; Lambesc; Le Tholonet; Les Pennes-Mirabeau; Maillane; Mallemort; Marignane; Marseille; Martigues; Mas-Blanc-des-Alpilles; Maussane-les-Alpilles; Meyrargues; Meyreuil; Mollégès; Mouriès; Noves; Orgon; Pélissanne; Peyrolles-en-Provence; Plan-de-Cuques; Plan-d’Orgon; Port-de-Bouc; Port-Saint-Louis-du-Rhône; Puyloubier; Rognonas; Roquevaire; Saint-Andiol; Saint-Chamas; Saint-Etienne-du-Grès; Saint-Martin-de-Crau; Saint-Rémy-de-Provence; Saint-Victoret; Salon-de-Provence; Sénas; Simiane-Collongue; Tarascon; Trets; Velaux; Venelles; Ventabren; Verquiéres; Vitrolles</td></tr>
+<tr><td>Var (83)</td><td>Cogolin; Draguignan; Hyères; La Garde; La Londe-les-Maures; La Seyne-sur-Mer; Le Beausset; Le Luc; Les Arcs; Pignans; Saint-Cyr-sur-Mer; Saint-Maximin-la-Sainte-Baume; Saint-Tropez; Saint-Zacharie; Toulon</td></tr>
+<tr><td>Vaucluse (84)</td><td>Althen-des-Paluds; Apt; Avignon; Beaumes-de-Venise; Bédarrides; Bonnieux; Cadenet; Caderousse; Camaret-sur-Aigues; Carpentras; Caumont-sur-Durance; Cavaillon; Châteauneuf-de-Gadagne; Châteauneuf-du-Pape; Courthézon; Entraigues-sur-la-Sorgue; Fontaine-se-Vaucluse; Gargas; Gignac; Gigondas; Gordes; Goult; Jonquerettes; Jonquières; La Tour-d’Aigues; Lagnes; Lapalud; Lauris; Le Pontet; Le Thor; L’Isle-sur-la-Sorgue; Loriol-du-Comtat; Lourmarin; Malaucène; Mazan; Mérindol; Modène; Mondragon; Monteux; Morières-lès-Avignon; Oppède; Orange; Pernes-les-Fontaines; Pertuis; Piolenc; Robion; Saignon; Saint-Didier; Saint-Saturnin-lès-Apt; Saint-Saturnin-lès-Avignon; Sarrians; Saumane-de-Vaucluse; Sorgues; Travaillan; Vedène; Velleron; Venasque; Villelaure; Violes</td></tr>
+<tr><td rowspan="7">Buffer zone</td><td>Bouches du Rhône (13)</td><td>Alleins; Aureille; Aurons; Beaurecueil; Belcodène; Bouc-Bel-Air; Boulbon; Cabriès; Carnoux-en-Provence; Cassis; Charleval; Châteauneuf-le-Rouge; Châteauneuf-les-Martigues; Coudoux; Eguilles; Ensuès-la-Redonne; Fontvieille; Fos-sur-Mer; Gardanne; La Barben; La Roque-d’Anthéron; Lançon-Provence; Le Puy-Sainte-Réparade; Le Rove; Les Baux-de-Provence; Mimet; Miramas; Paradou; Peynier; Peypin; Rognac; Rognes; Roquefort-la-Bédoule; Rousset; Saint-Antonin-sur-Bayon; Saint-Cannat; Saintes-Maries-de-la-Mer; Saint-Estève-Janson; Saint-Marc-Jaumegarde; Saint-Mitre-les-Remparts; Saint-Paul-lès-Durance; Saint-Pierre-de-Mézoargues; Saint-Savournin; Sausset-les-Pins; Septèmes-les-Vallons; Vauvenargues; Vernègues</td></tr>
+<tr><td>Var (83)</td><td>Ampus; Bandol; Besse-sur-Issole; Bormes-les-Mimosas; Bras; Brue-Auriac; Cabasse; Carnoules; Carqueiranne; Cavalaire-sur-Mer; Châteaudouble; Collobrières; Evenos; Figanières; Flassans-sur-Issole; Flayosc; Gassin; Gonfaron; Grimaud; La Cadiere-d’Azur; La Crau; La Croix-Valmer; La Farlède; La Mole; La Motte; La Valette-du-Var; Le Cannet-des-Maures; Le Castellet; Le Muy; Le Pradet; Le Revest-les-Eaux; Le Thoronet; Les Mayons; Lorgues; Nans-les-Pins; Ollières; Ollioules; Pierrefeu-du-Var; Plan-d’Aups-Sainte-Baume; Pourcieux; Pourrières; Puget-Ville; Ramatuelle; Rians; Riboux; Rougiers; Sainte-Maxime; Saint-Mandrier-sur-Mer; Sanary-sur-Mer; Seillons-Source-d’Argens; Signes; Six-Fours-les-Plages; Taradeau; Tourves; Trans-en-Provence; Vidauban</td></tr>
+<tr><td>Vaucluse (84)</td><td>Ansouis; Aubignan; Auribeau; Beaumettes; Beaumont-de-Pertuis; Beaumont-du-Ventoux; Bedoin; Blauvac; Bollène; Buoux; Cabrieres-d’Avignon; Cairanne; Caromb; Caseneuve; Castellet; Cheval-Blanc; Crestet; Crillon-le-Brave; Cucuron; Entrechaux; Grambois; Joucas; La Bastidonne; La Motte-d’Aigues; La Roque-Alric; La Roque-sur-Pernes; Lacoste; Lafare; Lagarde-d’Apt; Lamotte-du-Rhône; Le Barroux; Le Beaucet; Lioux; Malemort-du-Comtat; Maubec; Ménerbes; Méthamis; Mirabeau; Mormoiron; Mornas; Murs; Puget; Puyvert; Rasteau; Roussillon; Rustrel; Sablet; Saint-Christol; Sainte-Cécile-les-Vignes; Saint-Hippolyte-le-Graveyron; Saint-Léger-du-Ventoux; Saint-Martin-de-Castillon; Saint-Martin-de-la-Brasque; Saint-Pantaléon; Saint-Pierre-de-Vassols; Sannes; Sault; Seguret; Sérignan-du-Comtat; Sivergues; Suzette; Taillades; Uchaux; Vacqueyras; Vaison-la-Romaine; Vaugines; Viens; Villars</td></tr>
+<tr><td>Alpes-de-Haute-Provence (04)</td><td>Simiane-la-Rotonde</td></tr>
+<tr><td>Ardèche (07)</td><td>Bourg-Saint-Andéol; Saint-Just-d’Ardèche; Saint-Marcel-d’Ardèche</td></tr>
+<tr><td>Drôme (26)</td><td>Mollans-sur-Ouvèze; Pierrelatte; Rochegude; Saint-Paul-Trois-Châteaux; Suze-la-Rousse</td></tr>
+<tr><td>Gard (30)</td><td>Aramon; Beaucaire; Chusclan; Codolet; Fourques; Laudun-l’Ardoise; Les Angles; Montfaucon; Pont-Saint-Esprit; Roquemaure; Saint-Alexandre; Saint-Etienne-des-Sorts; Saint-Geniès-de-Comolas; Saint-Gilles; Sauveterre; Vallabrègues; Vénéjan; Villeneuve-lès-Avignon</td></tr>
+</tbody>
+</table>
+
+**3\. Italy**
+
+<table>
+<tbody><tr><td>Number of demarcated area (DA)</td><td>Zone of DA</td><td>Region</td><td>Municipalities or other administrative/geographic delimitations</td></tr>
+<tr><td rowspan="2">1. Campania</td><td>Infected zone</td><td>Campania</td><td>Whole territory of the municipalities of: Aiello Del Sabato, Avellino, Baiano, Castellammare Di Stabia, Cesinali, Manocalzati, Monteforte Irpino, Montella, Napoli, Palma Campania, San Potito Ultra, Sant’Agnello, Vico Equense </td></tr>
+<tr><td>Buffer zone</td><td>Campania</td><td>1 km around the infected zone falling in part of the following municipalities: Atripalda, Avella, Candida, Gragnano, Mugnano del Cardinale, Parolise, Salza Irpina, San Gennaro Vesuviano, Sorrento, Sperone, Sirignano. </td></tr>
+<tr><td rowspan="2">2. Friuli Venezia Giulia</td><td>Infected zone</td><td>Friuli Venezia Giulia</td><td>30 metres on each side from the centre of the following roads: — Pordenone: via Grigoletti  — Udine: Piazza I maggio; via Chiusaforte; via Pieri; piazzale S.M. Misericordia; viale Vat; via Mazzucato; via Firenze; viale Venezia; viale Trieste; viale 23 marzo.  — Fiumicello Villa Vicentina: via Duca d’Aosta  — San Canzian d’Isonzo: via Principale; via Amministrazione; piazza S. Marco  — SS 13: from km 88,7 to km 93,1; from km 96,9 to km 98,4; from km 101,2 to km 104,7; from km 109,7 to km 114,8; from km 115,5 to km 121,4  — SR 56: from km 0 to km 4,7  — SR 352: from km 1,3 to km 3,0; from km 4,1 to km 7,0; from km 7,9 to Km 9,7; from km 14,8 to km 19,5; from km 20,7 to Km 22,7; from km 25,6 to km 29,7; from km 30,5 to km 34,6  — SR 353: from km 5,2 to km 6,8; from km 9,3 to km 9,9  — SP 68: from km 3,4 to km 4,1; from km 6,8 to km 7,9  — SP 81: from km 0,5 to km 1,1 </td></tr>
+<tr><td>Buffer zone</td><td>Friuli Venezia Giulia</td><td>The whole territory of the municipalities within 1 km distance from the infected zone: Aiello del Friuli, Aquileia, Bagnaria Arsa, Basiliano, Camino al Tagliamento, Campoformido, Casarsa della Delizia, Cervignano del Friuli, Codroipo, Fiume Veneto, Fiumicello Villa Vicentina, Grado, Lestizza, Palmanova, Pasian di Prato, Pavia di Udine, Porcia, Pordenone, Pozzuolo del Friuli, Pradamano, Ruda, San Canzian d'Isonzo, San Vito al Tagliamento, Santa Maria la Longa, Terzo di Aquileia, Udine, Valvasone Arzene, Zoppola </td></tr>
+<tr><td rowspan="2">3. Lombardia</td><td>Infected zone</td><td>Lombardia</td><td>Whole territory of the municipalities of: Basiglio, Bergamo, Cinisello Balsamo, Crema, Cremona, Cusano Milanino, Lecco, Lodi, Malagnino, Milano, Monza, Pavia, Peschiera Borromeo, San Donato Milanese, Segrate, Sesto San Giovanni, Tavazzano con Villavesco, Varese, Vigevano, Voghera, </td></tr>
+<tr><td>Buffer zone</td><td>Lombardia</td><td>1 km around the infected zone falling in part of the following municipalities: Abbadia Lariana, Abbiategrasso, Agrate Brianza, Albuzzano, Alme', Arcisate, Arcore, Arese, Assago, Azzano San Paolo, Azzate, Bagnolo Cremasco, Ballabio, Baranzate, Barasso, Biandronno, Biassono, Bodio Lomnago, Boffalora D'Adda, Bollate, Bonemerse, Borgarello, Borgo San Siro, Bresso, Brinzio, Brumano, Buguggiate, Campagnola Cremasca, Cantello, Capergnanica, Carbonara Al Ticino, Casaletto Lodigiano, Casalmaiocco, Casciago, Casei Gerola, Cassolnovo, Castelletto Di Branduzzo, Castello Cabiaglio, Castelverde, Castiglione Olona, Cazzago Brabbia, Cernusco Sul Naviglio, Certosa Di Pavia, Cervesina, Cervignano D'Adda, Chieve, Cilavegna, Codevilla, Concorezzo, Corana, Cormano, Cornaredo, Cornegliano Laudense, Corte Palasio, Cremosano, Crespiatica, Cura Carpignano, Curno, Cusago, Dovera, Erve, Gadesco Pieve Delmona, Galgagnano, Galbiate, Galliate Lombardo, Gambolò, Garlate, Gavirate, Gazzada Schianno, Gerre De’Caprioli, Gorle, Gravellona Lomellina, Induno Olona, Izano, Lacchiarella, Lallio, Lesmo, Linarolo, Lissone, Locate Di Triulzi, Lozza, Lungavilla, Luvinate, Macherio, Madignano, Malgrate, Malnate, Mandello del Lario, Marcignago, , Mediglia, Montanaso Lombardo, Montebello, della Battaglia, Morazzone, Morimondo, Morterone, Motta Visconti, Mozzo, Muggio', Mulazzano, Nova Milanese, Novate Milanese, Offanengo, Opera, Orio Al Serio, Ozzero, Paderno Dugnano, Paladina, Pancarana, Pantigliate, Pedrengo, Pero, Persico Dosimo, Pescate, Pianengo, Pieve D’Olmi, Pieve San Giacomo, Pioltello, Pizzale, Ponteranica, Pozzaglio Ed Uniti, Ranica, Retorbido, Rho, Ricengo, Ripalta Cremasca, Rivanazzano Terme, Rodano, San Genesio ed Uniti, San Giuliano Milanese, San Martino In Strada, San Martino Siccomario, San Zenone Al Lambro, Sant'Alessio Con Vialone, Sant’Omobono Terme, Seriate, Sesto ed Uniti, Settimo Milanese, Silvano Pietra, Sordio, Sorisole, Sospiro, Spinadesco, Stagno Lombardo, Stezzano, Torrazza Coste, Torre Boldone, Torre D'Isola, Travacò Siccomario, Trescore Cremasco, Treviolo, Trezzano Sul Naviglio, Valbrembo, Valganna, Valle Salimbene, Valmadrera, Vedano Al Lambro, Vedano Olona, Vescovato, Vimodrone, Zibido San Giacomo. </td></tr>
+<tr><td rowspan="2">4. La Spezia</td><td>Infected zone</td><td>Liguria</td><td>Whole municipality of La Spezia</td></tr>
+<tr><td>Buffer zone</td><td>Liguria</td><td>1 km around the infected zone falling in part of the following municipalities: Arcola, Follo, Lerici, Portovenere, Riccò del Golfo di Spezia, Riomaggiore, Vezzano Ligure. </td></tr>
+<tr><td rowspan="3">5. Sarzana</td><td>Infected zone</td><td>Liguria</td><td>Whole municipality of Sarzana</td></tr>
+<tr><td rowspan="2">Buffer zone</td><td>Liguria</td><td>1 km around the infected zone falling in part of the following municipalities: Ameglia, Arcola, Castelnuovo Magra, Lerici, Luni, Santo Stefano di Magra, </td></tr>
+<tr><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Aulla, Carrara, Fosdinovo. </td></tr>
+<tr><td rowspan="3">6. Genova</td><td>Infected zone</td><td>Liguria</td><td>Whole municipality of Genova</td></tr>
+<tr><td rowspan="2">Buffer zone</td><td>Liguria</td><td>1 km around the infected zone falling in part of the following municipalities: Arenzano, Bargagli, Bogliasco, Campomorone, Ceranesi, Davagna, Lumarzo, Masone, Mele, Mignanego, Montoggio, Pieve Ligure, Sant’Olcese, Sassello, Serra Riccò, Sori, Tiglieto, Urbe. </td></tr>
+<tr><td>Piemonte</td><td>1 km around the infected zone falling in part of the municipality of: Bosio </td></tr>
+<tr><td rowspan="2">7. Bologna</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Bologna, Granarolo Dell’Emilia, San Lazzaro Di Savena. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Anzola Dell’Emilia, Baricella, Bentivoglio, Budrio, Calderara Di Reno, Casalecchio Di Reno, Castel Maggiore, Castello d’Argile, Castenaso, Crevalcore, Galliera, Malalbergo, Minerbio, Ozzano dell’Emilia, Pianoro, Pieve di Cento, San Giovanni in Persiceto, San Pietro in Casale, Sasso Marconi, Zola Predosa. </td></tr>
+<tr><td rowspan="2">8. Forlì- Cesena</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Cesena, Cesenatico. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Bertinoro, Cervia, Civitella Di Romagna, Forlimpopoli, Gambettola, Gatteo, Longiano, Meldola, Mercato Saraceno, Montiano, Ravenna, Roncofreddo, Sarsina, Savignano Sul Rubicone, Sogliano Al Rubicone. </td></tr>
+<tr><td rowspan="2">9. Modena 1 - Ferrara</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Mirandola, Bondeno, Cento, Copparo, Ferrara, Fiscaglia, Masi Torello, Ostellato, Portomaggiore, Tresignana, Vigarano Mainarda, Voghiera. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Argenta, Codigoro, Comacchio, Jolanda Di Savoia, Lagosanto, Poggio Renatico, Riva Del Po, Terre Del Reno, Vigarano Mainarda, Cavezzo, Concordia Sulla Secchia, Finale Emilia, Medolla, San Felice Sul Panaro, San Possidonio, </td></tr>
+<tr><td rowspan="2">10. Modena 2 - Reggio Emilia 2</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Carpi, Castelvetro Di Modena, Modena, Reggio nell’Emilia, Soliera. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Albinea, Bagnolo in Piano, Bastiglia, Bibbiano, Bomporto, Cadelbosco di Sopra, Campegine, Campogalliano, Casalgrande, Castelfranco Emilia, Castelnuovo Rangone, Cavezzo, Cavriago, Concordia sulla Secchia, Correggio, Fabbrico, Formigine, Maranello, Marano Sul Panaro, Montecchio Emilia, Nonantola, Novi di Modena, Quarto Casella, Rio Saliceto, Rolo, Rubiera, San Cesario Sul Panaro, San Martino in Rio, Sant’Ilario d’Enza, San Prospero, Scandiano, Serramazzoni, Spilamberto, Vignola. </td></tr>
+<tr><td rowspan="2">11. Piacenza</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Caorso, Piacenza. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Cadeo, Calendasco, Cortemaggiore, Gossolengo, Gragnano Trebbiense, Monticelli d’Ongina, Podenzano, Pontenure, Rottofreno, San Pietro in Cerro. </td></tr>
+<tr><td rowspan="2">12. Parma 1</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipalities of: Parma, Sissa Trecasali. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Collecchio, Colorno, Felino, Fontanellato, Fontevivo, Gattatico, Langhirano, Lesignano De'Bagni, Montechiarugolo, Noceto, Roccabianca, Sala Baganza, Sant'Ilario D'Enza, San Secondo Parmense, Sorbolo Mezzani, Torrile, Traversetolo. </td></tr>
+<tr><td rowspan="2">13. Parma 2</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipality of: Fidenza. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Alseno, Busseto, Fontanellato, Medesano, Noceto, Salsomaggiore Terme, Soragna. </td></tr>
+<tr><td rowspan="2">14. Reggio Emilia</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipality of: Guastalla. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Cadelbosco Di Sopra, Gualtieri, Luzzara, Novellara, Reggiolo. </td></tr>
+<tr><td rowspan="2">15. Rimini</td><td>Infected zone</td><td>Emilia-Romagna</td><td>Whole territory of the municipality of: Rimini. </td></tr>
+<tr><td>Buffer zone</td><td>Emilia-Romagna</td><td>1 km around the infected zone falling in part of the following municipalities: Bellaria-Igea Marina, Coriano, Riccione, San Mauro Pascoli, Santarcangelo Di Romagna, Verucchio. </td></tr>
+<tr><td rowspan="2">16. Città Metropolitana di Firenze</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Campi Bisenzio, Fiesole, Firenze, Impruneta, Scandicci, Sesto Fiorentino </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Bagno a Ripoli, Campi Bisenzio, Fiesole, Firenze, Impuneta, Scandicci, Sesto Fiorentino </td></tr>
+<tr><td rowspan="2">17. Pistoia - Prato</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Agliana, Montale, Montemurlo, Prato </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Agliana, Montale, Montemurlo, Prato </td></tr>
+<tr><td rowspan="2">18. Lucca 1</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Bagni di Lucca, Barga, Borgo a Mozzano, Coreglia Antelminelli, Gallicano </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Bagni di Lucca, Barga, Borgo a Mozzano, , Coreglia Antelminelli, Fabbriche di Vergemoli, Gallicano </td></tr>
+<tr><td rowspan="2">19. Lucca 2</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Capannori, Lucca </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Capannori, Lucca </td></tr>
+<tr><td rowspan="2">20. Lucca 3</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Camaiore, Forte dei Marmi, Massarosa, Pietrasanta, Seravezza, Viareggio </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Camaiore, Forte dei Marmi, Massarosa, Pietrasanta, Seravezza, Vecchiano, Viareggio </td></tr>
+<tr><td rowspan="2">21. Massa Carrara</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Carrara, Massa </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Carrara, Massa </td></tr>
+<tr><td rowspan="2">22. Pisa 1</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Lucca, Pisa, San Giuliano terme, Vecchiano </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Cascina, Lucca, Pisa, San Giuliano Terme, Vecchiano </td></tr>
+<tr><td rowspan="2">23. Pisa 2</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Calcinaia, Pontedera, Vicopisano </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Buti, Bientina, Calcinaia, Cascina, Pontedera, Vicopisano </td></tr>
+<tr><td rowspan="2">24. Livorno 1</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipality of: Livorno </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Collesalvetti, Livorno </td></tr>
+<tr><td rowspan="2">25. Livorno 2</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipalities of: Bibbona, Cecina, Montescudaio, Riparbella </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part of the following municipalities: Bibbona, Cecina, Guardistallo, Montescudaio, Riparbella </td></tr>
+<tr><td rowspan="2">26. Grosseto</td><td>Infected zone</td><td>Toscana</td><td>Part of the territory of the municipality of: Grosseto </td></tr>
+<tr><td>Buffer zone</td><td>Toscana</td><td>1 km around the infected zone falling in part in the municipality of: Grosseto </td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Templates for reporting of the results of the annual surveys carried out pursuant to Article 6(b)
+
+**PART A**
+
+**1\. Template for reporting of the results of annual surveys**
+
+[image]
+
+**2\. Instructions how to fill in the template**
+
+If this template is filled, the template in Part B of this Annex is not to be filled.
+
+| For column 1: | Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established. |
+| --- | --- |
+| For column 2: | Indicate the size of the DA before the start of the survey. |
+| For column 3: | Indicate the size of the DA after the survey. |
+| For column 4: | Indicate the approach: Containment (C). Please, include as many rows as necessary, depending on the number of DA per pest and the approaches these areas are subject to. |
+| For column 5: | Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infected zone (IZ) or buffer zone (BZ), using separate rows. When applicable, indicate the area of the BZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries, etc.) in different rows. |
+| For column 6: | Indicate the number and the description of the survey sites, by choosing one of the following entries for the description: 1. Open air (production area): 1.1. field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest; 2. Open air (other): 2.1. private garden; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network, etc.); 3. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry). |
+| For column 7: | Indicate which are the risk areas identified based on the biology of the pest(s), presence of host plants, eco-climatic conditions and risk locations. |
+| For column 8: | Indicate the risk areas included in the survey, from those identified in column 7. |
+| For column 9: | Indicate plants, fruits, seeds, soil, packaging material, wood, machinery, vehicles, water, other, specifying the specific case. |
+| For column 10: | Indicate the list of plant species/genera surveyed, using one row per plant species/genera. |
+| For column 11: | Indicate the months of the year when the survey was carried out. |
+| For column 12: | Indicate the details of the survey, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not applicable. |
+| For columns 13 and 14: | Indicate the results, if applicable, providing the information available in the corresponding columns. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old). |
+| For column 15: | Indicate the outbreak notifications of the year when the survey took place for findings in the BZ. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Article 14(2), Article 15(2) or Article 16 of Regulation (EU) 2016/2031. In that case, indicate the reason for not providing this information in column 16 (‘Comments’). |
+
+**PART B**
+
+**1\. Template for reporting of the results of statistically based annual surveys**
+
+[image]
+
+**2\. Instructions how to fill in the template**
+
+If this template is filled, the template in Part A of this Annex is not to be filled.
+
+Explain the underlying assumptions for the survey design per pest. Summarise and justify:
+
+— the target population, epidemiological unit and inspection units,
+
+— the detection method and method sensitivity,
+
+— the risk factor(s), indicating the risk levels and corresponding relative risks and proportions of host plant population.
+
+For column 1: Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established.
+
+For column 2: Indicate the size of the DA before the start of the survey.
+
+For column 3: Indicate the size of the DA after the survey.
+
+For column 4: Indicate the approach: Containment (C). Please, include as many rows as necessary, depending on the number of DA per pest and the approaches these areas are subject to.
+
+For column 5: Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infected zone (IZ) or buffer zone (BZ), using separate rows. When applicable, indicate the area of the BZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries, etc.) in different rows.
+
+For column 6: Indicate the number and the description of the survey sites, by choosing one of the following entries for the description:
+
+1\. Open air (production area): 1.1 field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest;
+
+2\. Open air (other): 2.1. private gardens; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network, etc.);
+
+3\. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry).
+
+For column 7: Indicate the months of the year when the surveys were carried out.
+
+For column 8: Indicate the chosen target population providing accordingly the list of host species/genera and area covered. The target population is defined as the ensemble of inspection units. Its size is defined typically for agricultural areas as hectares, but could be lots, fields, greenhouses, etc. Please justify the choice made in the underlying assumptions. Indicate the inspection units surveyed. ‘Inspection unit’ means plants, plant parts, commodities, materials, pest vectors that had been scrutinised for identifying and detecting the pests.
+
+For column 9: Indicate the epidemiological units surveyed, indicating their description and unit of measurement. ‘Epidemiological unit’ means a homogeneous area where the interactions between the pest, the host plants and the abiotic and biotic factors and conditions would result into the same epidemiology, should the pest be present. The epidemiological units are a subdivision of the target population that are homogenous in terms of epidemiology with at least one host plant. In some cases the whole host population in a region/area/country may be defined as epidemiological unit. They could be Nomenclature of territorial units for statistics (NUTS) regions, urban areas, forests, rose gardens or farms, or hectares. The choice shall be justified in the underlying assumptions.
+
+For column 10: Indicate the methods used during the survey including the number of activities in each case, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not available.
+
+For column 11: Indicate an estimation of the sampling effectiveness. Sampling effectiveness means the probability of selecting infected plant parts from an infected plant. For vectors, it is the effectiveness of the method to capture a positive vector when it is present in the survey area. For soil, it is the effectiveness of selecting a soil sample containing the pest when the pest is present in the survey area.
+
+For column 12: ‘Method sensitivity’ means the probability of a method to correctly detect pest presence. The method sensitivity is defined as the probability that a truly positive host tests positive. It is the multiplication of the sampling effectiveness (i.e. probability of selecting infected plant parts from an infected plant) by the diagnostic sensitivity (characterised by the visual inspection and/or laboratory test used in the identification process).
+
+For column 13: Provide the risk factors in different rows, using as many rows as necessary. For each risk factor indicate the risk level and corresponding relative risk and proportion of host population.
+
+For column B: Indicate the details of the survey, depending on the specific legal requirements for each pest. Indicate with N/A when the information of certain column is not applicable. The information to be provided in these columns is related to the information included in the column 10 ‘Detection methods’.
+
+For column 18: Indicate the number of trapping sites in case this number differs from the number of traps (Column 17) (e.g. the same trap is used in different places).
+
+For column 21: Indicate the number of samples found positive, negative or undetermined. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old, etc.).
+
+For column 22: Indicate the outbreak notifications of the year when the survey took place for findings in the buffer zone. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Articles 14(2), 15(2) or 16 of Regulation (EU) 2016/2031. In this case, please indicate the reason for not providing this information in column 25 (‘Comments’).
+
+For column 23: Indicate the sensitivity of the survey, as defined in International Standard for Phytosanitary Measures (ISPM 31). This value of the achieved confidence level of pest freedom is calculated based on the examinations (and/or samples) performed given the method sensitivity and the design prevalence.
+
+For column 24: Indicate the design prevalence based on a pre-survey estimate of the likely actual prevalence of the pest in the field. The design prevalence is set as a goal of the survey and corresponds to the compromise the risk managers are making between the risk of having the pest and the resources available for the survey. Typically, for a detection survey a value of 1 % is set.
+
+( 1 ) Pest survey card on Ceratocystis platani. EFSA supporting publication 2021:EN-6822. doi:10.2903/sp.efsa.2021.EN-6822. Available online: https://arcg.is/15CyXW.

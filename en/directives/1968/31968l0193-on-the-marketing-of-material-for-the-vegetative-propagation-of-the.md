@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(68/193/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE of 22 March 1971 </td><td> L 71</td><td>16</td><td>25.3.1971</td></tr>
@@ -41,6 +42,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EC) No 1829/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 September 2003 </td><td> L 268</td><td>1</td><td>18.10.2003</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2005/43/EC of 23 June 2005 </td><td> L 164</td><td>37</td><td>24.6.2005</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
+</table>
 
 | A1 | ACT concerning the Conditions of Accession and the Adjustments to the Treaties | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |

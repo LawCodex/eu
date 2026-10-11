@@ -32,10 +32,12 @@ amending the Annexes to Directive 66/401/EEC on the marketing of fodder plant se
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Directive 81/ 126/EEC of 16 February 1981</td><td> L 67</td><td>36</td><td>12.3.1981</td></tr>
 <tr><td></td><td>Commission Directive 82/287/EEC of 13 April 1982</td><td> L 131</td><td>24</td><td>13.5.1982</td></tr>
+</table>
 
 FIRST COMMISSION DIRECTIVE
 
@@ -83,6 +85,7 @@ CONDITIONS TO BE SATISFIED BY THE CROP
 
 2\. The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesiderable foreign pollination:
 
+<table>
 <tbody><tr><td>Crop</td><td>Minimum distance</td></tr>
 <tr><td>1</td><td>2</td></tr>
 <tr><td colspan="2">Brassica spp.:</td></tr>
@@ -94,6 +97,7 @@ CONDITIONS TO BE SATISFIED BY THE CROP
 <tr><td> — for the production of seed intended for the production of fodder plants, fields up to two hectares </td><td>100 m</td></tr>
 <tr><td> — for the production of seed intended for the production of fodder plants, fields over two hectares </td><td>50 m</td></tr>
 </tbody>
+</table>
 
 These distances can be disregarded if there is sufficient protection from any undesiderable foreign pollination.
 
@@ -195,6 +199,7 @@ The minimum varietal purity shall be examined mainly in field inspections carrie
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="4">Species</td><td colspan="9">Maximum content of seed of other plant species</td><td colspan="6">Other standards or conditions</td></tr>
 <tr><td rowspan="3"> Total  (% by weight) </td><td colspan="8"> Content by number in a sample of the weight specified in column 4 of Annex III  (total per column) </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td></tr>
 <tr><td colspan="3">A single species</td><td rowspan="2">Rumex spp. other than Rumex acetosella</td><td rowspan="2">Agropyron repens</td><td rowspan="2">Alopecurus myosuroides</td><td colspan="2">Melilotus spp.</td></tr>
@@ -251,6 +256,7 @@ A. Table:
 <tr><td>Brassica oleracea convar. acephala</td><td>0·3</td><td>20</td><td>  </td><td>  </td><td>5</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>(j)</td><td>  </td></tr>
 <tr><td>Raphanus sativus ssp. oleifera</td><td>0·3</td><td>20</td><td>  </td><td>  </td><td>5</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 B. Standard or other conditions applicable where reference is made to them in the table under Section II (2) (A) of this Annex:
 
@@ -292,12 +298,14 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 
 6\. In Lupin species:
 
+<table>
 <tbody><tr><td colspan="2">(a)the minimum analytical purity shall be 97% by weight;</td></tr>
 <tr><td colspan="2">(b)the percentage by number of Lupin seeds of another colour shall not exceed:</td></tr>
 <tr><td> — in bitter Lupin, </td><td>4%,</td></tr>
 <tr><td> — in Lupins other than bitter Lupin, </td><td>2%;</td></tr>
 <tr><td>(c)the percentage by number of bitter Lupin seeds in Lupin other than bitter Lupin shall not exceed</td><td>5%.</td></tr>
 </tbody>
+</table>
 
 7\. In Vicia spp. a maximum total of 6 % by weight of seeds of Vicia pannonica, Vicia villiosa or related cultivated species in another relevant species shall be not regarded as an impurity.
 
@@ -309,6 +317,7 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 
 LOT AND SAMPLE WEIGHTS
 
+<table>
 <tbody><tr><td>Species</td><td> Maximum weight of a lot  (tonnes) </td><td> Minimum weight of a sample to be drawn from a lot  (grams) </td><td> Weight of the sample for the determinations by number provided for in columns 12 to 14 of Annex II (I) (2)(A) and columns 3 to 7 of Annex II (II) (2) (A)  (grams) </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="4">GRAMINEAE</td></tr>
@@ -366,6 +375,7 @@ LOT AND SAMPLE WEIGHTS
 <tr><td>Brassica oleracea convar. acephala</td><td>10</td><td>200</td><td>100</td></tr>
 <tr><td>Raphanus sativus ssp. oleifera</td><td>10</td><td>300</td><td>300</td></tr>
 </tbody>
+</table>
 
 ## Article 2
 

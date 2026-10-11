@@ -1,0 +1,73 @@
+---
+title: "Commission Regulation (EU) 2022/2456 of 8 December 2022 amending Regulation (EU) No 1218/2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to certain categories of specialisation agreements (Text with EEA relevance)"
+identifier: "32022R2456"
+eli: "http://data.europa.eu/eli/reg/2022/2456/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-12-08
+entry_into_force: 2022-11-02
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2456"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2022/2456 of 8 December 2022 amending Regulation (EU) No 1218/2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to certain categories of specialisation agreements (Text with EEA relevance)
+
+**COMMISSION REGULATION (EU) 2022/2456**
+
+**of 8 December 2022**
+
+**amending Regulation (EU) No 1218/2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to certain categories of specialisation agreements**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EEC) No 2821/71 of the Council of 20 December 1971 on application of Article 85(3) of the Treaty to categories of agreements, decisions and concerted practices (1),
+
+Having published a draft of this Regulation (2),
+
+After consulting the Advisory Committee on Restrictive Practices and Monopolies,
+
+Whereas:
+
+(1) Regulation (EEC) No 2821/71 empowers the Commission to declare, by regulation and in accordance with Article 101(3) of the Treaty, that Article 101(1) of the Treaty shall not apply to certain categories of specialisation agreements.
+
+(2) Commission Regulation (EU) No 1218/2010 (3) defines categories of specialisation agreements that the Commission regards as normally satisfying the conditions laid down in Article 101(3) of the Treaty. That Regulation expires on 31 December 2022.
+
+(3) On 5 September 2019, the Commission launched an evaluation of Regulation (EU) No 1218/2010. The evidence gathered in the evaluation suggests that Regulation (EU) No 1218/2010 has been a useful instrument and its rules remain relevant for stakeholders. Based on the results of the evaluation, on 7 June 2021 the Commission launched an impact assessment of policy options for the adoption of a new block exemption regulation for specialisation agreements.
+
+(4) To allow the Commission adequate time to complete the process for the adoption of a new block exemption regulation for specialisation agreements and pursuant to the Commission’s power under Article 2(1) of Regulation (EEC) No 2821/71, the period of application of Regulation (EU) No 1218/2010 should be extended by six months.
+
+(5) Regulation (EU) No 1218/2010 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In Article 7 of Regulation (EU) No 1218/2010, the second paragraph is replaced by the following:
+
+‘It shall expire on 30 June 2023.’
+
+## Article 2
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 8 December 2022.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 285, 29.12.1971, p. 46. With effect from 1 December 2009, Article 81 of the EC Treaty (previously Article 85 of the EEC Treaty) has become Article 101 of the Treaty. These provisions are, in substance, identical. For the purposes of this Regulation, references to Article 85 of the EEC Treaty or Article 81 of the EC Treaty should be understood as references to Article 101 of the Treaty where appropriate.
+
+(2) OJ C 405, 21.10.2022, p. 50.
+
+(3) Commission Regulation (EU) No 1218/2010 of 14 December 2010 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to certain categories of specialisation agreements (OJ L 335, 18.12.2010, p. 43 ).

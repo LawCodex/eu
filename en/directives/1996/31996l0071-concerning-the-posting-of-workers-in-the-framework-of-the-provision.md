@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **concerning the posting of workers in the framework of the provision of services**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2018/957 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 June 2018 </td><td> L 173</td><td>16</td><td>9.7.2018</td></tr>
+</table>
 
 **DIRECTIVE 96/71/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

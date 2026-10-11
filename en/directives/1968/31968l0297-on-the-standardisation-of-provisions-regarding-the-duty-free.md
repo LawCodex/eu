@@ -32,10 +32,12 @@ on the standardisation of provisions regarding the duty-free admission of fuel c
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Council Directive 83/127/EEC of 28 March 1983</td><td> L 91</td><td>28</td><td>9.4.1983</td></tr>
 <tr><td></td><td>Council Directive 85/347/EEC of 8 July 1985</td><td> L 183</td><td>22</td><td>16.7.1985</td></tr>
+</table>
 
 Amended by:
 

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **adapting certain directives in the field of public procurement, by reason of the accession of the Republic of Croatia**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2014/24/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 26 February 2014</td><td> L 94</td><td>65</td><td>28.3.2014</td></tr>
 <tr><td></td><td>DIRECTIVE 2014/25/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 26 February 2014</td><td> L 94</td><td>243</td><td>28.3.2014</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2013/16/EU**
 

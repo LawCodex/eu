@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(87/372/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2009/114/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 September 2009 </td><td> L 274</td><td>25</td><td>20.10.2009</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

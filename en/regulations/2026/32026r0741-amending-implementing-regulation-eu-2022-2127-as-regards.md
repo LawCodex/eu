@@ -1,0 +1,416 @@
+---
+title: "Commission Implementing Regulation (EU) 2026/741 of 30 March 2026 amending Implementing Regulation (EU) 2022/2127 as regards administrative changes to the Union authorisation of the biocidal product family Ecolab UA BPF 1-Propanol"
+identifier: "32026R0741"
+eli: "http://data.europa.eu/eli/reg_impl/2026/741/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-03-30
+entry_into_force: 2026-10-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0741"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2026/741 of 30 March 2026 amending Implementing Regulation (EU) 2022/2127 as regards administrative changes to the Union authorisation of the biocidal product family Ecolab UA BPF 1-Propanol
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2026/741**
+
+**of 30 March 2026**
+
+**amending Implementing Regulation (EU) 2022/2127 as regards administrative changes to the Union authorisation of the biocidal product family ‘Ecolab UA BPF 1-Propanol’**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (1), and in particular Article 50(2) thereof,
+
+Whereas:
+
+(1) On 4 November 2022, Commission Implementing Regulation (EU) 2022/2127 (2) granted a Union authorisation, under number EU-0028430-0000, to Ecolab Deutschland GmbH for the making available on the market and use of the biocidal product family ‘Ecolab UA BPF 1-Propanol’. The Annex to that Implementing Regulation provides the summary of product characteristics for that biocidal product family.
+
+(2) On 26 March 2025, Ecolab Deutschland GmbH submitted to the European Chemicals Agency (‘the Agency’), in accordance with Article 11(1) of Commission Implementing Regulation (EU) No 354/2013 (3), a notification of administrative changes to the Union authorisation for the biocidal product family ‘Ecolab UA BPF 1-Propanol’, as referred to in Title 1 of the Annex to that Regulation. The notification was recorded in the Register for Biocidal Products (‘Register’) under case number BC-EM105048-46. The notified proposed changes to that authorisation concern the addition of trade names and changes in the address of the biocidal product manufacturer.
+
+(3) On 16 April 2025, the Agency submitted to the Commission, in accordance with Article 11(3) of Implementing Regulation (EU) No 354/2013, an opinion (4) on the notified administrative changes to the Union authorisation for the biocidal product family ‘Ecolab UA BPF 1-Propanol’, together with a revised summary of product characteristics in all the official languages of the Union. In its opinion, the Agency concluded that the proposed changes are administrative changes as referred to in Article 50(3), point (a), of Regulation (EU) No 528/2012 and as specified in Title 1, Sections 1 and 2, of the Annex to Implementing Regulation (EU) No 354/2013, and that, after the implementation of the changes, the conditions of Article 19 of Regulation (EU) No 528/2012 will still be met.
+
+(4) The Commission concurs with the opinion of the Agency and therefore considers it appropriate to amend the Union authorisation for the biocidal product family ‘Ecolab UA BPF 1-Propanol’ to introduce the administrative changes requested by Ecolab Deutschland GmbH.
+
+(5) Except for the amendments regarding the proposed administrative changes, all other information included in the summary of product characteristics of ‘Ecolab UA BPF 1-Propanol’, as set out in the Annex to Implementing Regulation (EU) 2022/2127, remains unchanged.
+
+(6) In order to enhance clarity and to ease the access of users and interested parties to the consolidated version of the summary of product characteristics which is to be published by the Agency, the Annex to Implementing Regulation (EU) 2022/2127 should be replaced in its entirety. Due to a change in the format used for the generation of the summary of biocidal product characteristics in the Register in February 2024, the summary of product characteristics in that Annex should also include some minor editorial and layout changes.
+
+(7) Implementing Regulation (EU) 2022/2127 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Annex to Implementing Regulation (EU) 2022/2127 is replaced by the text set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 March 2026.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 167, 27.6.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/528/oj.
+
+(2) Commission Implementing Regulation (EU) 2022/2127 of 4 November 2022 granting a Union authorisation for the biocidal product family ‘Ecolab UA BPF 1-Propanol’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 285, 7.11.2022, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2022/2127/oj).
+
+(3) Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council (OJ L 109, 19.4.2013, p. 4, ELI: http://data.europa.eu/eli/reg_impl/2013/354/oj).
+
+(4) ECHA opinion UAD-C-1816957-17-00/F of 16 April 2025 on administrative changes of the Union authorisation of the biocidal product family ‘Ecolab UA BPF 1-Propanol’, BPC and ECHA opinions – ECHA.
+
+## ANNEX — Summary of product characteristics for a biocidal product family
+
+Ecolab UA BPF 1-Propanol
+
+Product type(s)
+
+PT01: Human hygiene
+
+Authorisation number EU-0028430-0000
+
+R4BP asset number EU-0028430-0000
+
+**PART I**
+
+**FIRST INFORMATION LEVEL**
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+**1.1. Family name**
+
+| Name | Ecolab UA BPF 1-Propanol |
+| --- | --- |
+
+**1.2. Product type(s)**
+
+| Product type(s) | PT01: Human hygiene |
+| --- | --- |
+
+**1.3. Authorisation holder**
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>Ecolab Deutschland GmbH</td></tr>
+<tr><td>Address</td><td>Ecolab Allee 1 40789 Monheim am Rhein Germany</td></tr>
+<tr><td>Authorisation number</td><td></td><td>EU-0028430-0000</td></tr>
+<tr><td>R4BP asset number</td><td></td><td>EU-0028430-0000</td></tr>
+<tr><td>Date of the authorisation</td><td></td><td>27 November 2022</td></tr>
+<tr><td>Expiry date of the authorisation</td><td></td><td>31 October 2032</td></tr>
+</tbody>
+</table>
+
+**1.4. Manufacturer(s) of the product**
+
+<table>
+<tbody><tr><td>Name of manufacturer</td><td>Ecolab Europe GmbH</td></tr>
+<tr><td>Address of manufacturer</td><td>Hofwiesenstrasse 349 8050 Zürich Switzerland</td></tr>
+<tr><td>Location of manufacturing sites</td><td><table><tbody><tr><td>Ecolab Europe GmbH site 1 Hofwiesenstrasse 349 8050 Zürich Switzerland</td></tr>
+<tr><td>Ecolab Europe GmbH site 2 AFP GmbH, Otto-Brenner-Straße 16 21337 Lüneburg Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 3 Acideka S.A., Edificio Feria. Capuchinos de Basurto 6. 4a planta 48013 Bilbao Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 4 Adiego, Adiego Ctra De Valencia KM 5, 900 50410 Cuarte de Huerva Zaragoza Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 5 Allied Products, Allied Hygiene Unit 11, Belvedere Industrial Estate, Fishers Way, Belvedere, Kent DA17 6BS Belvedere United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 6 Arkema GmbH, Morschheimer Strasse 19 D-67292 Krichbeimbolanden Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 7 Azelis Denmark, Lundtoftegårdsvej 95 2800 Kgs Lyngby Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 8 Belinka-Ljublijana, Belinka Zasavska Cesta 95 1001 Ljubljana Slovenia</td></tr>
+<tr><td>Ecolab Europe GmbH site 9 Radio street 24 Bld 1 105005 Moscow Russian Federation (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 10 Bio Productions Ltd inc Starpro, 72 Victoria Road Victoria Industrial Estate, West Sussex RH15 9LH Burgess Hill United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 11 Bioxal SA, Route des Varennes - Secteur A BP 30072 71103 Cedex France</td></tr>
+<tr><td>Ecolab Europe GmbH site 12 Bores Srl, Via Pioppa 179 44030 Pontegradella (FE) Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 13 Brenntag Ardennes, Route de Tournes, CD n 2 08090 Cliron France</td></tr>
+<tr><td>Ecolab Europe GmbH site 14 Brenntag CEE - Guntramsdorf, Blending Bahnstr 13 A 2353 Guntramsdorf Austria</td></tr>
+<tr><td>Ecolab Europe GmbH site 15 Brenntag GmbH, Humboldtring 15 45472 Muehlheim Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 16 Brenntag Kaiserslautern, Merkurstr. 47 67663 Kaiserslautern Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 17 Brenntag Nordic - Haslev, Høsten Teglværksvej 47 4690 Haslev Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 18 Brenntag Nordic - Vejle, Strandgade 35 7100 Vejle Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 19 Brenntag Normandy, 12 Sente des Jumelles BP 11 76710 Montville France</td></tr>
+<tr><td>Ecolab Europe GmbH site 20 Brenntag PL-Zgierz, ul. Kwasowa 5 95-100 Zgierz Poland</td></tr>
+<tr><td>Ecolab Europe GmbH site 21 Brenntag Quimica, Calle Gutemberg no 22, Poligono Industrial El Lomo 28906 Getafe Madrid Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 22 Brenntag Schweizerhall, Elsaesserstr. 231 CH-4056 Basel Schweiz Switzerland</td></tr>
+<tr><td>Ecolab Europe GmbH site 23 Brenntag SRL, Str. Gării nr 1 077040 Chiaina, Ilfov Romania</td></tr>
+<tr><td>Ecolab Europe GmbH site 24 Budich International GmbH, Dieselstrasse 10 32120 Hiddenhause Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 25 Caldic Deutschland Chemie B.V, Karlshof 10 D 40231 Düsseldorf Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 26 The Carbon Group, P43 R772, County Cork Ringaskiddy Ireland</td></tr>
+<tr><td>Ecolab Europe GmbH site 27 Colep Bad Schmiedeberg, Kemberger Str. 3 06905 Bad Schmiedeberg Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 28 Comercial Farmaceutica Castel LANA S.A., “Cofarcas” Condado de Trevino 46 P.I Villalonquejar 09080 Burgos Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 29 Comercial Godo, França 13 08700 Igaulada Barcelona Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 30 Courtois Sarl, ZA Sous Le Beer, Route de Pacy 27730 Bueil France</td></tr>
+<tr><td>Ecolab Europe GmbH site 31 DAN-MOR (Dr Wipe) Natural products and Chemicals Ltd, Or Akiva Industrial Zone, Hailian street 29 30600 Akiva Israel</td></tr>
+<tr><td>Ecolab Europe GmbH site 32 Denteck BV, Heliumstraat 8 2718 SL Zoetermeer Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 33 Donauchem Kft (Hungary), Bányalég utca 37-43 H-1225 Budapest Hungary</td></tr>
+<tr><td>Ecolab Europe GmbH site 34 Detergents Burguera S.L, Joan Ballester 50 07630 Campos (Illes Baleares) Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 35 Champion Technologies Ltd., Minto Avenue, Altens Industrial Estate AB12 3JZ Aberdeen United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 36 ECL Biebesheim, Justus-von-Liebig-Straße 11 64584 Biebesheim am Rhein Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 37 ECL Chalons, Avenue Du General Patton 51000 Chalons en Champagne France</td></tr>
+<tr><td>Ecolab Europe GmbH site 38 ECL Cisterna, Nalco italiana Manufacturing Srl. Via Ninfina II 04012 Cisterna di Latina Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 39 Champion Technologies Ltd. Fawley, Fawley Cadland Road Hythe, Hampshire SO45 3NP Southhampton United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 40 Ecolab Leeds, Lotherton Way, Garforth LS25 2JY Leeds United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 41 ECL Mandra, 25TH KM Old National Road of Athens To Thiva 19600 Mandra Greece</td></tr>
+<tr><td>Ecolab Europe GmbH site 42 ECL Maribor, Vajngerlova Ulica 4 2000 Maribor Slovenia</td></tr>
+<tr><td>Ecolab Europe GmbH site 43 ECL Microtek B.V., Gesinkkampstraat 19 7051 HR Varsseveld Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 44 ECL Microtek Mosta, Sorbonne Centre F20 Mosta Technopark Mst 3000 Mosta Malta</td></tr>
+<tr><td>Ecolab Europe GmbH site 45 ECL Microtek Zutphen, Hekkehorst 24 7027 BN Zutphen Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 46 Ecolab Ltd (IE) and Ecolab Manufacturing IE Ltd (IE), Forest Park, Zone C Mullingar Ind. Estate N91 Co. Westmeath Mullingar Ireland</td></tr>
+<tr><td>Ecolab Europe GmbH site 47 ECL Niewegein, Brugwal 11A 3432 NZ Nieuwegein Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 48 ECL Rovigo Esoform, Esoform SRL Laboratorio Chimico Farmaceutico Viale del Lavoro 10 45100 Rovigo Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 49 ECL Rozzano, Via A. Grandi 20089 Milan Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 50 ECL Tessenderlo, Havenlaan 4, Ravenshout 4 210 B-3980 Tessenderlo Belgium</td></tr>
+<tr><td>Ecolab Europe GmbH site 51 ECL Weavergate/Ecolab Ltd (UK)/Ecolab Manufacturing UK Ltd (UK), Winnington Avenue CW8 3AA Northwich United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 52 Ecolab LTD Baglan/Swindon, Plot 7a Baglan Energy Park, Baglan SA11 2HZ Port Talbot United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 53 Ferdinand Eiermacher GmbH & Co. KG, Westring 24 48356 Nordwalde Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 54 F.E.L.T., B.P 64 10 Rue du Vertuquet 59531 Neuville En Ferrain France</td></tr>
+<tr><td>Ecolab Europe GmbH site 55 Gallows Green Services Ltd., Cod Beck Mill Industrial Estate Dalton Lane YO7 3HR Thirsk United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 56 Gerdisa German Rodriguez Drogas IND., Gerdisa Poligono Industrial Miralcampo C.Pintura n.-4, parc.37 19200 Azuqueca de Henares Guadalajara Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 57 Girasol Natural Products BV, De Veldoven 12-14 3342 GR Hendrik-Ido-Ambacht Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 58 Henkel Engels, 48 Pr. Stroitelei 413116 Saratov Russian Federation (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 59 IMECO GmbH & Co. KG, Boschstraße 5 D-63768 Hösbach Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 60 Innovate GmbH, Am Hohen Stein 11 06618 Naumberg Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 61 Interfill LCC-Tosno, 187000 Moskovskoye shosse 1 187000 Leningradskaya oblast Russian Federation (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 62 Jodel, Jodel Zona Industrial 2050 2050 Aveiras de Cima Portugal</td></tr>
+<tr><td>Ecolab Europe GmbH site 63 Kleimann GmbH, Am Trieb 13 72820 Sonnenbühl Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 64 Kompak Nederland BV 433651 Bavel 0031-161 Bavel Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 65 La Antigua Lavandera S.L., Ctra. Antigua Sevilla-Alcalá Km.1,5 (SE-410 Apartado de Correos 58 41500 Alcala De Guadaira Sevilla Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 66 Laboratoires Anios, Pavé du moulin 59260 Lille-Hellemmes France</td></tr>
+<tr><td>Ecolab Europe GmbH site 67 Laboratoires Anios, 3330 Rue de Lille 59262 Sainghin-en-Mélantois France</td></tr>
+<tr><td>Ecolab Europe GmbH site 68 Laboratoires Prodene Klint, Site de Mitry-Mory 2, Rue Denis Papin ZI Mitry-Compans 77290 Mitry Mory France</td></tr>
+<tr><td>Ecolab Europe GmbH site 69 Lichtenheldt GmbH, Lichtenheldt Industriestrasse 7-9 23812 Wahlstedt Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 70 Lonza GmbH, Morianstr.32 42103 Wuppertal Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 71 Multifill BV, Constructieweg 25-A 3641 SB Mijdrecht Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 72 NALCO Finland Manufacturing Oy (Tesjoki), Kivikummuntie 1 07955 Tesjoki Finland</td></tr>
+<tr><td>Ecolab Europe GmbH site 73 NALCO Celra, Celra C/ Tramuntana s/n Poligona Industrial 17460 Celra Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 74 NOPA Nordisk Parfumerivare, Hvedevej 2-22 DK-8900 Randers Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 75 Nuova Farmec Srl, Via Flemming 7 37026 Settimo di Pescantina (VR) Verona Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 76 Pal International Ltd, Sandhurst Street LE17 4JA Leicester United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 77 Planol GmbH, Maybachstr 17 63456 Hanau Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 78 Plum A/S, Frederik Plums Vej 2 DK 5610 Assens Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 79 Productos La Corberana S.L., Ctra Corbera Polinyá, s/no 4 46612 Valencia Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 80 The Proton Group Ltd, Ripley Drive, Normanton Industrial Estate WF6 1QT Wakefield United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 81 Quimicas Morales S.L., Misiones, 11 Urb. El Sebadal 05005 Las Palmas de Gran Canaria Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 82 RNM Productos Quimicos, Lda Rua da Fabrica 123, Segade 4765-080 Carreira Vila Nova de Famalicao Portugal</td></tr>
+<tr><td>Ecolab Europe GmbH site 83 RP Adam Ltd (Arpal Group), North Riverside Business Park, Riverside Road, TD7 5DU Selkirk United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 84 Roquette & Barentz, Roquette Freres, Route De La Gorgue F-62136 Lestrem France</td></tr>
+<tr><td>Ecolab Europe GmbH site 85 Rutpen Ltd, Membury Airfield, Lambourn RG16 7TJ Membury United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 86 Simagec, Z.I. de Rousset / Peynier, 54 Avenue de la Plaine, 13790 Rousset France</td></tr>
+<tr><td>Ecolab Europe GmbH site 87 Solimix, Montseny 17-19 Pol. Ind. Sant Pere, Molanta 08799 Olerdola Barcelona Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 88 Staub & Co - Silbermann GmbH, Industriestraße 3 D-86456 Gablingen Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 89 Stockmeier Chemie, Eilenburg GmbH & Co. Kg, Gustav-Adolf-Ring 5 04838 Ellenburg Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 90 Synerlogic BV (IN2FOOD), L.J. Costerstraat 5 6827 Arnhem Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 91 Techtex (Technical Textile Services Ltd), Units 7 & 8, Rhodes Business Park Silburn Way, Middleton M24 4NE Manchester United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 92 Univar Ltd, Argyle House, Epsom Avenue SK9 3RN Wilmslow United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 93 Univar SPA, Via Caldera 21 20-153 Milano Italy</td></tr>
+<tr><td>Ecolab Europe GmbH site 94 Van Dam Bodegraven B.V, Postbus 48 NL 2410 AA Bodegraven Netherlands (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 95 McBride, Calle Ramón Esteve, 0 S/N (Pol L’Illa), 08650 Botjosa (la) Barcelona Spain</td></tr>
+<tr><td>Ecolab Europe GmbH site 96 Extruplast, Avenue de la Repentie 1700 La Rochelle1 France</td></tr>
+<tr><td>Ecolab Europe GmbH site 97 Brenntag Hungary Kft, Bányalég u. 45 1225 Budapest Hungary</td></tr>
+<tr><td>Ecolab Europe GmbH site 98 DR. Becher GmbH, Vor den Specken 3, 30926 Seelze Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 99 Danlind AS, Lægaardvej 90 - 94 DK-7500 Holstebro Denmark</td></tr>
+<tr><td>Ecolab Europe GmbH site 100 Farmak Moravia a.s, Na Vlčinci 16, 779 00 Oloumoc Czechia</td></tr>
+<tr><td>Ecolab Europe GmbH site 101 Hydrachem LTD, Gillmans Industrial Estate, Natts Lane RH14 9EZ Billingshurst United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 102 Julius Hoesch GmbH, Birkesdorfer Str. 5 52353 Düren Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 103 Medentech LTD, Whitemill Industrial Estate Wexford Wexford Ireland</td></tr>
+<tr><td>Ecolab Europe GmbH site 104 MKS GmbH & CO KG, Am Ockenheimer Graben 43 55411 Bingen am Rhein Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 105 PDI, Aber Park, Aber Road CH6 5EX Flint United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 106 Peenwhite LTD, Midpoint 18 Business Park, Aston Way, CW10 0HS Middlewich United Kingdom of Great Britain and Northern Ireland (the)</td></tr>
+<tr><td>Ecolab Europe GmbH site 107 Jago Pro Sp.z.o.o., Szczakowska 35 43-600 Jaworzno Poland</td></tr>
+<tr><td>Ecolab Europe GmbH site 108 Wesso AG, Martin-Luther-Str.10 91217 Hersbruck Germany</td></tr>
+<tr><td>Ecolab Europe GmbH site 109 CID Lines NV, Waterpoorstraat 2 8900 Leper Belgium</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**1.5. Manufacturer(s) of the active substance(s)**
+
+| Active substance | Propan-1-ol |
+| --- | --- |
+| Name of manufacturer | BASF SE |
+| Address of manufacturer | Carl-Bosch-Str. 38 67056 Ludwigshafen Germany |
+| Location of manufacturing sites | BASF SE site 1 Carl-Bosch-Str. 38 67056 Ludwigshafen Germany |
+
+| Active substance | Propan-1-ol |
+| --- | --- |
+| Name of manufacturer | OQ Corporation |
+| Address of manufacturer | 2001 FM 3057 TX 77414 Bay City United States (the) |
+| Location of manufacturing sites | OQ Corporation site 1 2001 FM 3057 TX 77414 Bay City United States (the) |
+
+**2\. PRODUCT FAMILY COMPOSITION AND FORMULATION**
+
+**2.1. Qualitative and quantitative information on the composition of the family**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-1-ol |  | Active substance | 71-23-8 | 200-746-9 | 70,35 - 75,38 % (w/w) |
+
+**2.2. Type(s) of formulation**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**PART II**
+
+**SECOND INFORMATION LEVEL META SPC(S)**
+
+**1\. META SPC 1 ADMINISTRATIVE INFORMATION**
+
+**1.1. Meta SPC 1 identifier**
+
+| Identifier | Meta SPC: meta SPC 1 |
+| --- | --- |
+
+**1.2. Suffix to the authorisation number**
+
+| Number | 1-1 |
+| --- | --- |
+
+**1.3. Product type(s)**
+
+| Product type(s) | PT01: Human hygiene |
+| --- | --- |
+
+**2\. META SPC 1 COMPOSITION**
+
+**2.1. Qualitative and quantitative information on the composition of the meta SPC 1**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Propan-1-ol |  | Active substance | 71-23-8 | 200-746-9 | 70,35 - 75,38 % (w/w) |
+
+**2.2. Type(s) of formulation of the meta SPC 1**
+
+| Formulation type(s) | AL Any other liquid |
+| --- | --- |
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS OF THE META SPC 1**
+
+| Hazard statements | H226: Flammable liquid and vapour. H318: Causes serious eye damage. H336: May cause drowsiness or dizziness. EUH066: Repeated exposure may cause skin dryness or cracking. |
+| --- | --- |
+| Precautionary statements | P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P280: Wear face protection. P280: Wear eye protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P310: Immediately call a POISON CENTER/doctor. P261: Avoid breathing vapours. P312: Call a POISONCENTRE/doctor if you feel unwell. |
+
+**4\. AUTHORISED USE(S) OF THE META SPC**
+
+**4.1. Use description**
+
+**Table 1.**
+
+**Hand disinfection**
+
+| Product type | PT01: Human hygiene |
+| --- | --- |
+| Where relevant, an exact description of the authorised use | Hygienic handrub |
+| Target organism(s) (including development stage) | Scientific name: Bacteria Common name: Bacteria Development stage: no data Scientific name: Tuberculosis bacilli Common name: Tuberculosis bacilli Development stage: no data Scientific name: Yeasts Common name: Yeasts Development stage: no data Scientific name: Enveloped viruses Common name: Enveloped viruses Development stage: no data Scientific name: Viruses (limited spectrum virucidal activity) Common name: Viruses (limited spectrum virucidal activity) Development stage: no data |
+| Field(s) of use | indoor use Indoor Hand disinfection Food processing areas (industry, institutional and hospital kitchen areas (no contact with patients)) Hygienic handrub, on visibly clean hands |
+| Application method(s) | Method: Manual or automatic pump Detailed description: Manual (elbow lever or touchless) Authomatic (by pump) |
+| Application rate(s) and frequency | Application Rate: 3 ml Ready to use Number and timing of application: 10 times per day |
+| Category(ies) of users | industrial professional |
+| Pack sizes and packaging material | 100-20 000 ml HEDP bottle, jerry can. |
+
+**4.1.1. Use-specific instructions for use**
+
+Refer to general measures (5.1)
+
+**4.1.2. Use-specific risk mitigation measures**
+
+Refer to general measures (5.2))
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+Refer to general measures (5.3)
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+Refer to general measures (5.4)
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Refer to general measures (5.5)
+
+**5\. GENERAL DIRECTIONS FOR USE OF THE META SPC 1**
+
+**5.1. Instructions for use**
+
+**Use 1 – Hand disinfection**
+
+Hand Disinfection for food processing areas:
+
+Apply 3 ml product on clean and dry hands for:
+
+— 30 seconds bacteria/yeast/ tuberculosis bacilli / enveloped viruses
+
+— 60 seconds viruses (limited spectrum virucidal activity)
+
+Keep hands wet during whole contact time
+
+**5.2. Risk mitigation measures**
+
+Avoid contact with eyes.
+
+If refilling is needed, gloves and eye protection should be used.
+
+In case of skin dryness, use appropriate skin care lotion.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTRE or a doctor.
+
+IF SWALLOWED: Rinse mouth.
+
+If symptoms: Call 112/ambulance for medical assistance.
+
+If no symptoms: Call a POISON CENTRE or a doctor.
+
+Information to Healthcare personnel/doctor: Initiate life support measures if needed, thereafter call a POISON CENTRE.
+
+IF ON SKIN: If irritation occurs wash with water and seek medical advice. In cases of unintentional skin exposure: wash with water.
+
+IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes. Call 112/ambulance for medical assistance.
+
+Environmental precautions: do not allow contact with soil, surface or ground water.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+Product and product residues: Do not allow the product to enter drains, water courses or the soil. Where possible recycling is preferred to disposal or incineration. If recycling is not practicable, dispose of the product in compliance with local regulations. Dispose of wastes in an approved waste disposal facility
+
+Packaging: Bring empty containers to an approved waste handling site for recycling or disposal. Dispose of packaging only if completely empty and closed. Do not re-use empty containers. Dispose of in accordance with local, regional, national regulations.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+Keep away from heat and sources of ignition. Keep in a cool, well-ventilated place. Keep away from oxidizing agents. Keep out of reach of children. Keep container tightly closed. Store in suitable labelled containers. Store between 0 °C to 25 °C.
+
+Shelf life: 4 years
+
+**6\. OTHER INFORMATION**
+
+**7\. THIRD INFORMATION LEVEL: INDIVIDUAL PRODUCTS IN THE META SPC 1**
+
+**7.1. Trade name(s), authorisation number and specific composition of each individual product**
+
+<table>
+<tbody><tr><td colspan="3" rowspan="6">Trade name(s)</td><td colspan="2">Skinman Sensitive</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">P3-Manodes LI</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Epicare DES</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Manodes LI</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Keystone Hand Des</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="2">Sysco Hand Des</td><td colspan="3">Market area: EU</td></tr>
+<tr><td colspan="3">Authorisation number</td><td colspan="2"></td><td colspan="3">EU-0028430-0001 1-1</td></tr>
+<tr><td>Common name</td><td>IUPAC name</td><td colspan="2">Function</td><td colspan="2">CAS number</td><td>EC number</td><td>Content (%)</td></tr>
+<tr><td>Propan-1-ol</td><td></td><td colspan="2">Active substance</td><td colspan="2">71-23-8</td><td>200-746-9</td><td>70,35 % (w/w)</td></tr>
+</tbody>
+</table>
+
+ELI: http://data.europa.eu/eli/reg_impl/2026/741/oj
+
+ISSN 1977-0677 (electronic edition)

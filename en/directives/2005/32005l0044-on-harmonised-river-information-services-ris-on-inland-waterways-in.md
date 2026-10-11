@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on harmonised river information services (RIS) on inland waterways in the Community**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2025/2482 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 November 2025 </td><td> L 2482</td><td>1</td><td>12.12.2025</td></tr>
+</table>
 
 C1
 

@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2026/1472 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 June 2026 </td><td> L 1472</td><td>1</td><td>30.6.2026</td></tr>
+</table>
 
 **DIRECTIVE 2012/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

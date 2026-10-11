@@ -1,0 +1,1053 @@
+---
+title: "Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC (Text with EEA relevance)"
+identifier: "32015R0757"
+eli: "http://data.europa.eu/eli/reg/2015/757/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2015-04-29
+entry_into_force: 2015-05-17
+last_amended: 2025-01-01
+consolidated_version: "02015R0757-20250101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0757-20250101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC (Text with EEA relevance)
+
+**REGULATION (EU) 2015/757 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 April 2015**
+
+**on the monitoring, reporting and verification of greenhouse gas emissions from maritime transport, and amending Directive 2009/16/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/2071 of 22 September 2016 </td><td> L 320</td><td>1</td><td>26.11.2016</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/957 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 </td><td> L 130</td><td>105</td><td>16.5.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2776 of 12 October 2023 </td><td> L 2776</td><td>1</td><td>14.12.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/3214 of 16 October 2024 </td><td> L 3214</td><td>1</td><td>27.12.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2015/757 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 April 2015**
+
+**on the monitoring, reporting and verification of greenhouse gas emissions from maritime transport, and amending Directive 2009/16/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down rules for the accurate monitoring, reporting and verification of greenhouse gas emissions and of other relevant information from ships arriving at, within or departing from ports under the jurisdiction of a Member State, in order to promote the reduction of greenhouse gas emissions from maritime transport in a cost effective manner.
+
+#### Article 2 — Scope
+
+1\. This Regulation applies to ships of 5 000 gross tonnage and above in respect of the greenhouse gas emissions released during their voyages for transporting for commercial purposes cargo or passengers from such ships’ last port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State.
+
+1a. From 1 January 2025, this Regulation shall also apply to general cargo ships below 5 000 gross tonnage but not below 400 gross tonnage in respect of the greenhouse gas emissions released during their voyages for transporting cargo for commercial purposes from their last port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State, and to offshore ships below 5 000 gross tonnage but not below 400 gross tonnage in respect of the greenhouse gas emissions released during their voyages from their last port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State.
+
+1b. From 1 January 2025, this Regulation shall apply to offshore ships of 5 000 gross tonnage and above in respect of the greenhouse gas emissions released during their voyages from their last port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to their next port of call, as well as within ports of call under the jurisdiction of a Member State.
+
+1c. The greenhouse gases covered by this Regulation are:
+
+(a) carbon dioxide (CO2);
+
+(b) with regard to emissions released from 2024 onwards, methane (CH4); and
+
+(c) with regard to emissions released from 2024 onwards, nitrous oxide (N2O).
+
+Where this Regulation refers to total aggregated emissions of greenhouse gases or total aggregated greenhouse gas emitted, it shall be understood as referring to the total aggregated amounts of each gas separately.
+
+2\. This Regulation does not apply to warships, naval auxiliaries, fish-catching or fish-processing ships, wooden ships of a primitive build, ships not propelled by mechanical means, or government ships used for non-commercial purposes.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘greenhouse gas emissions’ means the release of the greenhouse gases covered by this Regulation in accordance with Article 2(1c), first subparagraph, by ships;
+
+(b) ‘port of call’ means a port of call as defined in Article 3, point (z), of Directive 2003/87/EC of the European Parliament and of the Council ( 1 );
+
+(c) ‘voyage’ means any movement of a ship that originates from or terminates in a port of call;
+
+(d) ‘company’ means the shipping company as defined in Article 3, point (w), of Directive 2003/87/EC;
+
+(e) ‘gross tonnage’ (GT) means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I to the International Convention on Tonnage Measurement of Ships, adopted by the International Maritime Organization (IMO) in London on 23 June 1969, or any successor convention;
+
+(f) ‘verifier’ means a legal entity carrying out verification activities which is accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008 and this Regulation;
+
+(g) ‘verification’ means the activities carried out by a verifier to assess the conformity of the documents transmitted by the company with the requirements of this Regulation;
+
+(h) ‘document of compliance’ means a document specific to a ship, issued to a company by a verifier, which confirms that that ship has complied with the requirements of this Regulation for a specific reporting period;
+
+(i) ‘other relevant information’ means information related to greenhouse gas  emissions from the consumption of fuels, to transport work and to the energy efficiency of ships, which enables the analysis of emission trends and the assessment of ships' performances;
+
+(j) ‘emission factor’ means the average emission rate of a greenhouse gas relative to the activity data of a source stream, assuming complete oxidation for combustion and complete conversion for all other chemical reactions;
+
+(k) ‘uncertainty’ means a parameter, associated with the result of the determination of a quantity, that characterises the dispersion of the values that could reasonably be attributed to the particular quantity, including the effects of systematic as well as of random factors, expressed as a percentage, and describes a confidence interval around the mean value comprising 95 % of inferred values taking into account any asymmetry of the distribution of values;
+
+(l) ‘conservative’ means that a set of assumptions is defined in order to ensure that no under-estimation of annual emissions or over-estimation of distances or amounts of cargo carried occurs;
+
+(m) ‘reporting period’ means the period from 1 January until 31 December of any given year; for voyages starting and ending in two different years, the respective data shall be accounted under the year concerned;
+
+(n) ‘ship at berth’ means a ship which is securely moored or anchored in a port falling under the jurisdiction of a Member State while it is loading, unloading or hotelling, including the time spent when not engaged in cargo operations;
+
+(o) ‘ice class’ means the notation assigned to the ship by the competent national authorities of the flag State or an organisation recognised by that State, showing that the ship has been designed for navigation in sea-ice conditions;
+
+(p) ‘administering authority responsible’ means the administering authority in respect of a shipping company referred to in Article 3gf of Directive 2003/87/EC;
+
+(q) ‘aggregated emissions data at company level’ means the sum of emissions of the greenhouse gases covered by Directive 2003/87/EC in relation to maritime transport activities in accordance with Annex I to that Directive and to be reported by a company under that Directive, in respect of all ships under its responsibility during the reporting period.
+
+## CHAPTER II — MONITORING AND REPORTING
+
+### SECTION 1 — Principles and methods for monitoring and reporting
+
+#### Article 4 — Common principles for monitoring and reporting
+
+1\. In accordance with Articles 8 to 12, companies shall, for each of their ships, monitor and report on the relevant parameters during a reporting period. They shall carry out that monitoring and reporting within all ports under the jurisdiction of a Member State and for any voyages to or from a port under the jurisdiction of a Member State.
+
+2\. Monitoring and reporting shall be complete and cover greenhouse gas  emissions from the combustion of fuels, while the ships are at sea as well as at berth. Companies shall apply appropriate measures to prevent any data gaps within the reporting period.
+
+3\. Monitoring and reporting shall be consistent and comparable over time. To that end, companies shall use the same monitoring methodologies and data sets subject to modifications assessed by the verifier.
+
+4\. Companies shall obtain, record, compile, analyse and document monitoring data, including assumptions, references, emission factors and activity data, in a transparent manner that enables the reproduction of the determination of greenhouse gas  emissions by the verifier.
+
+5\. Companies shall ensure that the determination of greenhouse gas  emissions is neither systematically nor knowingly inaccurate. They shall identify and reduce any source of inaccuracies.
+
+6\. Companies shall enable reasonable assurance of the integrity of the greenhouse gas  emission data to be monitored and reported.
+
+7\. Companies shall endeavour to take account of the recommendations included in the verification reports issued pursuant to Article 13(3) or (4) in their subsequent monitoring and reporting.
+
+8\. Companies shall report the aggregated emissions data at company level of the ships under their responsibility during a reporting period pursuant to Article 11a.
+
+#### Article 5 — Methods for monitoring greenhouse gas  emissions and other relevant information
+
+1\. For the purposes of Article 4(1), (2) and (3), companies shall, for each of their ships, determine the greenhouse gas  emissions in accordance with any of the methods set out in Annex I, and monitor other relevant information in accordance with the rules set out in Annex II or adopted pursuant to it.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 23 of this Regulation to amend Annexes I and II to this Regulation, in order to take into account the inclusion of CH4 and N2O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this Regulation, and amendments to Directive 2003/87/EC, as well as to align those Annexes with the implementing acts adopted under Article 14(1) of that Directive, with relevant international rules and with international and European standards. The Commission is also empowered to adopt delegated acts in accordance with Article 23 of this Regulation to amend Annexes I and II to this Regulation in order to refine the elements of the monitoring methods set out therein, in the light of technological and scientific developments and in order to ensure the effective operation of the EU Emissions Trading System (EU ETS) established pursuant to Directive 2003/87/EC.
+
+By 1 October 2023, the Commission shall adopt the delegated acts to take into account the inclusion of CH4 and N2O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this Regulation, as referred to in the first subparagraph of this paragraph. The methods for monitoring CH4 and N2O emissions shall be based on the same principles as the methods for monitoring CO2 emissions as set out in Annex I to this Regulation, with any adjustments necessary to reflect the nature of the relevant greenhouse gas. The methods set out in Annex I to this Regulation and the rules set out in Annex II to this Regulation shall, where appropriate, be aligned with the methods and rules set out in a Regulation of the European Parliament and of the Council on the use of renewable and low-carbon fuels in maritime transport and amending Directive 2009/16/EC.
+
+### SECTION 2 — Monitoring plan
+
+#### Article 6 — Content and submission of the monitoring plan
+
+1\. By 31 August 2017, companies shall submit to the verifiers a monitoring plan for each of their ships indicating the method chosen to monitor and report greenhouse gas  emissions and other relevant information.
+
+2\. Notwithstanding paragraph 1, for ships falling under the scope of this Regulation for the first time after 31 August 2017, the company shall submit a monitoring plan to the verifier without undue delay and no later than two months after each ship's first call in a port under the jurisdiction of a Member State.
+
+3\. The monitoring plan shall consist of a complete and transparent documentation of the monitoring method for the ship concerned and shall contain at least the following elements:
+
+(a) the identification and type of the ship, including its name, its IMO identification number, its port of registry or home port, and the name of the shipowner;
+
+(b) the name of the company and the address, telephone and email details of a contact person and the IMO unique company and registered owner identification number;
+
+(c) a description of the following greenhouse gas  emission sources on board the ship: main engines, auxiliary engines, gas turbines, boilers and inert gas generators, and the fuel types used;
+
+(d) a description of the procedures, systems and responsibilities used to update the list of greenhouse gas  emission sources over the reporting period;
+
+(e) a description of the procedures used to monitor the completeness of the list of voyages;
+
+(f) a description of the procedures for monitoring the fuel consumption of the ship, including:
+
+(i) the method chosen from among those set out in Annex I for calculating the fuel consumption of each greenhouse gas  emission source, including, where applicable, a description of the measuring equipment used,
+
+(ii) the procedures for the measurement of fuel uplifts and fuel in tanks, a description of the measuring equipment used and the procedures for recording, retrieving, transmitting and storing information regarding measurements, as applicable,
+
+(iii) the method chosen for the determination of density, where applicable,
+
+(iv) a procedure to ensure that the total uncertainty of fuel measurements is consistent with the requirements of this Regulation, where possible referring to national laws, clauses in customer contracts or fuel supplier accuracy standards;
+
+(g) single emission factors used for each fuel type, or in the case of alternative fuels, the methodologies for determining the emission factors, including the methodology for sampling, methods of analysis and a description of the laboratories used, with the ISO 17025 accreditation of those laboratories, if any;
+
+(h) a description of the procedures used for determining activity data per voyage, including:
+
+(i) the procedures, responsibilities and data sources for determining and recording the distance,
+
+(ii) the procedures, responsibilities, formulae and data sources for determining and recording the cargo carried and the number of passengers, as applicable,
+
+(iii) the procedures, responsibilities, formulae and data sources for determining and recording the time spent at sea between the port of departure and the port of arrival;
+
+(i) a description of the method to be used to determine surrogate data for closing data gaps;
+
+(j) a revision record sheet to record all the details of the revision history.
+
+4\. The monitoring plan may also contain information on the ice class of the ship and/or the procedures, responsibilities, formulae and data sources for determining and recording the distance travelled and the time spent at sea when navigating through ice.
+
+5\. Companies shall use standardised monitoring plans based on templates, and they shall submit those plans using automated systems and data exchange formats. Those templates, including the technical rules for their uniform application, and the technical rules for their automatic submission, shall be determined by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+
+6\. By 1 April 2024, companies shall, for each of their ships falling within the scope of this Regulation, submit to the administering authority responsible a monitoring plan that has been assessed as being in conformity with this Regulation by the verifier and that reflects the inclusion of CH4 and N2O emissions within the scope of this Regulation.
+
+7\. Notwithstanding paragraph 6, for ships falling within the scope of this Regulation for the first time after 1 January 2024, companies shall submit a monitoring plan in conformity with the requirements of this Regulation to the administering authority responsible without undue delay and no later than three months after each ship’s first call in a port under the jurisdiction of a Member State.
+
+8\. By 6 June 2025, the administering authorities responsible shall approve the monitoring plans submitted by companies in accordance with the rules laid down in the delegated acts adopted by the Commission pursuant to the third subparagraph of this paragraph. For ships falling within the scope of Directive 2003/87/EC for the first time after 1 January 2024, the administering authority responsible shall approve the submitted monitoring plan within four months of the ship’s first call in a port under the jurisdiction of a Member State, in accordance with the rules laid down in the delegated acts adopted by the Commission pursuant to the third subparagraph of this paragraph.
+
+By 1 October 2023, the Commission shall adopt delegated acts in accordance with Article 23 to amend Articles 6 to 10 as regards the rules contained in those Articles for monitoring plans, to take into account the inclusion of CH4 and N2O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this Regulation.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Regulation concerning rules for the approval of monitoring plans by the administering authorities responsible.
+
+#### Article 7 — Modifications of the monitoring plan
+
+1\. Companies shall check regularly, and at least annually, whether a ship's monitoring plan reflects the nature and functioning of the ship and whether the monitoring methodology can be improved.
+
+2\. Companies shall modify the monitoring plan in any of the following situations:
+
+(a) where a change of company occurs;
+
+(b) where new greenhouse gas  emissions occur due to new emission sources or due to the use of new fuels not yet contained in the monitoring plan;
+
+(c) where a change in availability of data, due to the use of new types of measuring equipment, new sampling methods or analysis methods, or for other reasons, may affect the accuracy of the determination of greenhouse gas  emissions;
+
+(d) where data resulting from the monitoring method applied has been found to be incorrect;
+
+(e) where any part of the monitoring plan is identified as not being in conformity with the requirements of this Regulation and the company is required to revise it pursuant to Article 13(1).
+
+3\. Companies shall notify to the verifiers without undue delay any proposals for modification of the monitoring plan.
+
+4\. Modifications of the monitoring plan under paragraph 2, points (b), (c) and (d), of this Article shall be subject to assessment by the verifier in accordance with Article 13(1). Following the assessment, the verifier shall notify the company as to whether those modifications are in conformity. The company shall submit its modified monitoring plan to the administering authority responsible once it has received a notification from the verifier that the monitoring plan is in conformity.
+
+5\. The administering authority responsible shall approve modifications of the monitoring plan under paragraph 2, points (a) to (d), in accordance with the rules laid down in the delegated acts adopted by the Commission pursuant to the second subparagraph of this paragraph.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Regulation concerning rules for the approval of changes in the monitoring plans by the administering authorities responsible.
+
+### SECTION 3 — Monitoring of greenhouse gas  emissions and other relevant information
+
+#### Article 8 — Monitoring of activities within a reporting period
+
+From 1 January 2018, companies shall, based on the monitoring plan assessed in accordance with Article 13(1), monitor greenhouse gas  emissions for each ship on a per-voyage and an annual basis by applying the appropriate method for determining greenhouse gas  emissions among those set out in Part B of Annex I and by calculating greenhouse gas  emissions in accordance with Part A of Annex I.
+
+#### Article 9 — Monitoring on a per-voyage basis
+
+1\. Based on the monitoring plan assessed in accordance with Article 13(1), for each ship arriving in or departing from, and for each voyage to or from, a port under a Member State's jurisdiction, companies shall monitor in accordance with Part A of Annex I and Part A of Annex II the following parameters:
+
+(a) port of departure and port of arrival including the date and hour of departure and arrival;
+
+(b) amount and emission factor for each type of fuel consumed in total;
+
+(c) greenhouse gas  emitted;
+
+(d) distance travelled;
+
+(e) time spent at sea;
+
+(f) cargo carried;
+
+(g) transport work.
+
+Companies may also monitor information relating to the ship's ice class and to navigation through ice, where applicable.
+
+2\. By way of derogation from paragraph 1 of this Article and without prejudice to Article 10, a company shall be exempt from the obligation to monitor the information referred to in paragraph 1 of this Article on a per-voyage basis in respect of a specified ship, if:
+
+(a) all of the ship's voyages during the reporting period either start from or end at a port under the jurisdiction of a Member State; and
+
+(b) the ship, according to its schedule, performs more than 300 voyages during the reporting period.
+
+#### Article 10 — Monitoring on an annual basis
+
+Based on the monitoring plan assessed in accordance with Article 13(1), for each ship and for each calendar year, companies shall monitor in accordance with Part A of Annex I and with Part B of Annex II the following parameters:
+
+(a) amount and emission factor for each type of fuel consumed in total;
+
+(b) total aggregated greenhouse gas  emitted within the scope of this Regulation;
+
+(c) aggregated greenhouse gas  emissions from all voyages between ports under a Member State's jurisdiction;
+
+(d) aggregated greenhouse gas  emissions from all voyages which departed from ports under a Member State's jurisdiction;
+
+(e) aggregated greenhouse gas  emissions from all voyages to ports under a Member State's jurisdiction;
+
+(f) greenhouse gas  emissions which occurred within ports under a Member State's jurisdiction at berth;
+
+(g) total distance travelled;
+
+(h) total time spent at sea;
+
+(i) total transport work;
+
+(j) average energy efficiency;
+
+(k) total aggregated emissions of greenhouse gases covered by Directive 2003/87/EC in relation to maritime transport activities in accordance with Annex I to that Directive and to be reported under that Directive, together with the necessary information to justify the application of any relevant derogation from Article 12(3) of that Directive provided for in Article 12(3-e) to (3-b) thereof.
+
+Companies may monitor information relating to the ship's ice class and to navigation through ice, where applicable.
+
+Companies may also monitor fuel consumed and greenhouse gas  emitted, differentiating on the basis of other criteria defined in the monitoring plan.
+
+### SECTION 4 — Reporting
+
+#### Article 11 — Content of the emissions report
+
+1\. From 2019, by 30 April of each year, companies shall submit to the Commission and to the authorities of the flag States concerned, an emissions report concerning the greenhouse gas  emissions and other relevant information for the entire reporting period for each ship under their responsibility, which has been verified as satisfactory by a verifier in accordance with Article 13.
+
+From 2025, by 31 March of each year, companies shall, for each ship under their responsibility, submit to the administering authority responsible, to the authorities of the flag States concerned for ships flying the flag of a Member State and to the Commission an emissions report for the entire reporting period of the previous year, which has been verified as satisfactory by a verifier in accordance with Article 13. The administering authority responsible may require companies to submit their emissions reports by a date earlier than 31 March, but not earlier than by 28 February.
+
+2\. Where there is a change of company, the previous company shall submit to the administering authority responsible, to the authorities of the flag States concerned for ships flying the flag of a Member State, to the new company and to the Commission, as close as practicable to the day of the completion of the change and no later than three months thereafter, a verified report covering the same elements as the emissions report referred to in paragraph 1, but limited to the period corresponding to the activities carried out under its responsibility.
+
+3\. Companies shall include in the emissions report the following information:
+
+(a) data identifying the ship and the company, including:
+
+(i) name of the ship,
+
+(ii) IMO identification number,
+
+(iii) port of registry or home port,
+
+(iv) ice class of the ship, if included in the monitoring plan,
+
+(v) technical efficiency of the ship (the Energy Efficiency Design Index (EEDI) or the Estimated Index Value (EIV) in accordance with IMO Resolution MEPC.215 (63), where applicable),
+
+(vi) name of the shipowner,
+
+(vii) address of the shipowner and its principal place of business,
+
+(viii) name of the company (if not the shipowner),
+
+(ix) address of the company (if not the shipowner) and its principal place of business,
+
+(x) address, telephone and e-mail details of a contact person;
+
+(b) the identity of the verifier that assessed the emissions report;
+
+(c) information on the monitoring method used and the related level of uncertainty;
+
+(d) the results from annual monitoring of the parameters in accordance with Article 10.
+
+4\. By 1 October 2023, the Commission shall adopt delegated acts in accordance with Article 23 to amend Articles 11, 11a and 12 concerning the rules for reporting to take into account the inclusion of CH4 and N2O emissions, as well as the inclusion of greenhouse gas emissions from offshore ships, within the scope of this Regulation.
+
+#### Article 11a — Reporting and submission of the aggregated emissions data at company level
+
+1\. Companies shall determine the aggregated emissions data at company level during a reporting period, based on the data of the emissions report and the report referred to in Article 11(2) for each ship that was under their responsibility during the reporting period, in accordance with the rules laid down in the delegated acts adopted pursuant to paragraph 4 of this Article.
+
+2\. From 2025, companies shall submit to the administering authority responsible by 31 March of each year the aggregated emissions data at company level that cover the emissions in the reporting period of the previous year to be reported under Directive 2003/87/EC in relation to maritime transport activities, in accordance with the rules laid down in the delegated acts adopted pursuant to paragraph 4 of this Article, and that have been verified in accordance with Chapter III of this Regulation.
+
+3\. The administering authority responsible may require companies to submit the verified aggregated emissions data at company level referred to in paragraph 2 by a date earlier than 31 March, but not earlier than by 28 February.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Regulation with the rules for the monitoring and reporting of the aggregated emissions data at company level and the submission of the aggregated emissions data at company level to the administering authority responsible.
+
+#### Article 12 — Format of the emissions report and reporting of aggregated emissions data at company level
+
+1\. The emissions report and the reporting of aggregated emissions data at company level shall be submitted using automated systems and data exchange formats, including electronic templates.
+
+2\. The Commission shall determine, by means of implementing acts, technical rules establishing the data exchange formats, including the electronic templates. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+
+## CHAPTER III — VERIFICATION AND ACCREDITATION
+
+#### Article 13 — Scope of verification activities and verification report
+
+1\. The verifier shall assess the conformity of the monitoring plan with the requirements laid down in Articles 6 and 7. Where the verifier's assessment identifies non-conformities with those requirements, the company concerned shall revise its monitoring plan accordingly and submit the revised plan for a final assessment by the verifier before the reporting period starts. The company shall agree with the verifier on the timeframe necessary to introduce those revisions. That timeframe shall in any event not extend beyond the beginning of the reporting period.
+
+2\. The verifier shall assess the conformity of the emissions report and the report referred to in Article 11(2) with the requirements laid down in Articles 8 to 12 and Annexes I and II.
+
+3\. Where the verification assessment concludes, with reasonable assurance from the verifier, that the emissions report is free from material misstatements, the verifier shall issue a verification report stating that the emissions report has been verified as satisfactory. The verification report shall specify all issues relevant to the work carried out by the verifier.
+
+4\. Where the verification assessment concludes that the emissions report includes misstatements or non-conformities with the requirements of this Regulation, the verifier shall inform the company thereof in a timely manner. The company shall then correct the misstatements or non-conformities so as to enable the verification process to be completed in time and shall submit to the verifier the revised emissions report and any other information that was necessary to correct the non-conformities identified. In its verification report, the verifier shall state whether the misstatements or non-conformities identified during the verification assessment have been corrected by the company. Where the communicated misstatements or non-conformities have not been corrected and, individually or combined, lead to material misstatements, the verifier shall issue a verification report stating that the emissions report does not comply with this Regulation.
+
+5\. The verifier shall assess the conformity of the aggregated emissions data at company level with the requirements laid down in the delegated acts adopted pursuant to paragraph 6.
+
+Where the verifier concludes, with reasonable assurance, that the aggregated emissions data at company level are free from material misstatements, the verifier shall issue a verification report stating that the aggregated emissions data at company level have been verified as satisfactory in accordance with the rules laid down in the delegated acts adopted pursuant to paragraph 6.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Regulation with the rules for the verification of the aggregated emissions data at company level, including the verification methods and verification procedure, and the issuance of a verification report.
+
+#### Article 14 — General obligations and principles for the verifiers
+
+1\. The verifier shall be independent from the company or from the operator of a ship and shall carry out the activities required under this Regulation in the public interest. For that purpose, neither the verifier nor any part of the same legal entity shall be a company or ship operator, the owner of a company, or be owned by them, nor shall the verifier have relations with the company that could affect its independence and impartiality.
+
+2\. When considering the verification of the emissions report and of the monitoring procedures applied by the company, the verifier shall assess the reliability, credibility and accuracy of the monitoring systems and of the reported data and information relating to greenhouse gas  emissions, in particular:
+
+(a) the attribution of fuel consumption to voyages;
+
+(b) the reported fuel consumption data and related measurements and calculations;
+
+(c) the choice and the employment of emission factors;
+
+(d) the calculations leading to the determination of the overall greenhouse gas emissions and of the total aggregated emissions of greenhouse gases covered by Directive 2003/87/EC in relation to maritime transport activities in accordance with Annex I to that Directive and to be reported under that Directive;
+
+(e) the calculations leading to the determination of the energy efficiency.
+
+3\. The verifier shall only consider emissions reports submitted in accordance with Article 12 if reliable and credible data and information enable the greenhouse gas  emissions to be determined with a reasonable degree of certainty and provided that the following are ensured:
+
+(a) the reported data are coherent in relation to estimated data that are based on ship tracking data and characteristics such as the installed engine power;
+
+(b) the reported data are free of inconsistencies, in particular when comparing the total volume of fuel purchased annually by each ship and the aggregate fuel consumption during voyages;
+
+(c) the collection of the data has been carried out in accordance with the applicable rules; and
+
+(d) the relevant records of the ship are complete and consistent.
+
+4\. When considering the verification of the aggregated emissions data at company level, the verifier shall assess the completeness of the reported data and the consistency of those reported data with the information provided by the company, including its verified emissions reports and reports referred to in Article 11(2).
+
+#### Article 15 — Verification procedures
+
+1\. The verifier shall identify potential risks related to the monitoring and reporting process by comparing reported greenhouse gas  emissions with estimated data based on ship tracking data and characteristics such as the installed engine power. Where significant deviations are found, the verifier shall carry out further analyses.
+
+2\. The verifier shall identify potential risks related to the different calculation steps by reviewing all data sources and methodologies used.
+
+3\. The verifier shall take into consideration any effective risk control methods applied by the company to reduce levels of uncertainty associated with the accuracy specific to the monitoring methods used.
+
+4\. The company shall provide the verifier with any additional information that enables it to carry out the verification procedures. The verifier may conduct spot-checks during the verification process to determine the reliability of reported data and information.
+
+5\. The Commission shall be empowered to adopt delegated acts in accordance with Article 23, in order to further specify the rules for the verification activities referred to in this Regulation. When adopting these acts, the Commission shall take into account the elements set out in Part A of Annex III. The rules specified in those delegated acts shall be based on the principles for verification provided for in Article 14 and on relevant internationally accepted standards.
+
+6\. In respect of the verification of aggregated emissions data at company level, the verifier and the company shall comply with the verification rules laid down in the delegated acts adopted pursuant to Article 13(6). The verifier shall not verify the emissions report and the report referred to in Article 11(2) of each ship under the responsibility of the company.
+
+#### Article 16 — Accreditation of verifiers
+
+1\. Verifiers that assess the monitoring plans, the emissions reports, the reports referred to in Article 11(2) of this Regulation and the aggregated emissions data at company level, and issue the verification reports referred to in Article 13(3) and (5) of this Regulation and documents of compliance referred to in Article 17(1) of this Regulation shall be accredited for activities within the scope of this Regulation by a national accreditation body pursuant to Regulation (EC) No 765/2008.
+
+2\. Where no specific provisions concerning the accreditation of verifiers are laid down in this Regulation, the relevant provisions of Regulation (EC) No 765/2008 shall apply.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 23, in order to further specify the methods of accreditation of verifiers. When adopting these acts, the Commission shall take into account the elements set out in Part B of Annex III. The methods specified in those delegated acts shall be based on the principles for verification provided for in Article 14 and on relevant internationally accepted standards.
+
+## CHAPTER IV — COMPLIANCE AND PUBLICATION OF INFORMATION
+
+#### Article 17 — Document of compliance
+
+1\. Where the emissions report fulfils the requirements set out in Articles 11 to 15 and those in Annexes I and II, the verifier shall issue, on the basis of the verification report, a document of compliance for the ship concerned.
+
+2\. The document of compliance shall include the following information:
+
+(a) identity of the ship (name, IMO identification number and port of registry or home port);
+
+(b) name, address and principal place of business of the shipowner;
+
+(c) identity of the verifier;
+
+(d) date of issue of the document of compliance, its period of validity and the reporting period it refers to.
+
+3\. Documents of compliance shall be valid for the period of 18 months after the end of the reporting period.
+
+4\. The verifier shall inform the Commission and the authority of the flag State, without delay, of the issuance of any document of compliance. The verifier shall transmit the information referred to in paragraph 2 using automated systems and data exchange formats, including electronic templates.
+
+5\. The Commission shall determine, by means of implementing acts, technical rules for the data exchange formats, including the electronic templates. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+
+#### Article 18 — Obligation to carry a valid document of compliance on board
+
+By 30 June of the year following the end of a reporting period, ships arriving at, within or departing from a port under the jurisdiction of a Member State, and which have carried out voyages during that reporting period, shall carry on board a valid document of compliance.
+
+#### Article 19 — Compliance with monitoring and reporting requirements and inspections
+
+1\. Based on the information published in accordance with Article 21(1), each Member State shall take all the measures necessary to ensure compliance with the monitoring and reporting requirements set out in Articles 8 to 12 by ships flying its flag. Member States shall regard the fact that a document of compliance has been issued for the ship concerned, in accordance with Article 17(4), as evidence of such compliance.
+
+2\. Each Member State shall ensure that any inspection of a ship in a port under its jurisdiction carried out in accordance with Directive 2009/16/EC includes checking that a valid document of compliance is carried on board.
+
+3\. For each ship in respect of which the information referred to in points (i) and (j) of Article 21(2), is not available at the time when it enters a port under the jurisdiction of a Member State, the Member State concerned may check that a valid document of compliance is carried on board.
+
+#### Article 20 — Penalties, information exchange and expulsion order
+
+1\. Member States shall set up a system of penalties for failure to comply with the monitoring and reporting obligations set out in Articles 8 to 12 and shall take all the measures necessary to ensure that those penalties are imposed. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission by 1 July 2017, and shall notify to the Commission without delay any subsequent amendments.
+
+2\. Member States shall establish an effective exchange of information and effective cooperation between their national authorities responsible for ensuring compliance with monitoring and reporting obligations or, where applicable, their authorities entrusted with penalty procedures. National penalty procedures against a specified ship by any Member State shall be notified to the Commission, the European Maritime Safety Agency (EMSA), to the other Member States and to the flag State concerned.
+
+3\. In the case of a ship that has failed to comply with the monitoring and reporting obligations for two or more consecutive reporting periods, and where other enforcement measures have failed to ensure compliance, the competent authority of the Member State of the port of entry may, after giving the opportunity to the company concerned to submit its observations, issue an expulsion order, which shall be notified to the Commission, the European Maritime Safety Agency (EMSA), the other Member States and the flag State concerned. As a result of the issuing of such an expulsion order, every Member State, with the exception of the Member State whose flag the ship is flying, shall refuse entry of the ship concerned into any of its ports until the company fulfils its monitoring and reporting obligations in accordance with Articles 11 and 18. Where such a ship flies the flag of a Member State and enters or is found in one of its ports, the Member State concerned shall, after giving the opportunity to the company concerned to submit its observations, detain the ship until the company fulfils its monitoring and reporting obligations.
+
+Where a ship as referred to in the first subparagraph is found in one of the ports of the Member State whose flag the ship is flying, the Member State concerned may, after giving the opportunity to the company concerned to submit its observations, issue a flag State detention order until the company fulfils its monitoring and reporting obligations. It shall inform the Commission, EMSA and the other Member States thereof.
+
+The fulfilment of those monitoring and reporting obligations shall be confirmed by the notification of a valid document of compliance to the competent national authority which issued the expulsion order. This paragraph shall be without prejudice to international maritime rules applicable in the case of ships in distress.
+
+4\. The shipowner or operator of a ship or its representative in the Member States shall have the right to an effective remedy before a court or tribunal against an expulsion order and shall be properly informed thereof by the competent authority of the Member State of the port of entry. Member States shall establish and maintain appropriate procedures for this purpose.
+
+5\. Any Member State without maritime ports in its territory and which has closed its national ship register or has no ships flying its flag that fall within the scope of this Regulation, and as long as no such ships are flying its flag, may derogate from the provisions of this Article. Any Member State that intends to avail itself of that derogation shall notify the Commission at the latest on 1 July 2015. Any subsequent change shall also be communicated to the Commission.
+
+The possibility of derogating under the first subparagraph shall not apply to a Member State whose authority is the administering authority responsible.
+
+#### Article 21 — Publication of information and Commission report
+
+1\. By 30 June each year, the Commission shall make publicly available the information on greenhouse gas  emissions reported in accordance with Article 11 as well as the information set out in paragraph 2 of this Article.
+
+2\. The Commission shall include the following in the information to be made publicly available:
+
+(a) the identity of the ship (name, company, IMO identification number and port of registry or home port);
+
+(b) the technical efficiency of the ship (EEDI or EIV, where applicable);
+
+(c) the annual greenhouse gas  emissions;
+
+(d) the annual total fuel consumption for voyages;
+
+(e) the annual average fuel consumption and greenhouse gas  emissions per distance travelled of voyages;
+
+(f) the annual average fuel consumption and greenhouse gas  emissions per distance travelled and cargo carried on voyages;
+
+(g) the annual total time spent at sea in voyages;
+
+(h) the method applied for monitoring;
+
+(i) the date of issue and the expiry date of the document of compliance;
+
+(j) the identity of the verifier that assessed the emissions report;
+
+(k) any other information monitored and reported on a voluntary basis in accordance with Article 10.
+
+3\. Where, due to specific circumstances, disclosure of a category of aggregated data under paragraph 2, which does not relate to greenhouse gas  emissions, would exceptionally undermine the protection of commercial interests deserving protection as a legitimate economic interest overriding the public interest in disclosure pursuant to Regulation (EC) No 1367/2006 of the European Parliament and of the Council ( 2 ), a different level of aggregation of that specific data shall be applied, at the request of the company, so as to protect such interests. Where application of a different level of aggregation is not possible, the Commission shall not make those data publicly available.
+
+4\. The Commission shall publish an annual report on greenhouse gas  emissions and other relevant information from maritime transport, including aggregated and explained results, with the aim of informing the public and allowing for an assessment of the greenhouse gas  emissions and the energy efficiency of maritime transport per size, type of ships, activity, or any other category deemed relevant.
+
+5\. The Commission shall every two years assess the overall impact of maritime transport activities on the global climate, including through emissions or effects of greenhouse gases other than CO2 and of particles with a global warming potential not covered by this Regulation.
+
+6\. Within the framework of its mandate, EMSA shall assist the Commission in its work to comply with this Article and Articles 12 and 17 of this Regulation, in accordance with Regulation (EC) No 1406/2002 of the European Parliament and of the Council ( 3 ).
+
+## CHAPTER V — INTERNATIONAL COOPERATION
+
+#### Article 22 — International cooperation
+
+1\. The Commission shall inform the IMO and other relevant international bodies on a regular basis of the implementation of this Regulation, without prejudice to the distribution of competences or to decision-making procedures as provided for in the Treaties.
+
+2\. The Commission and, where relevant, the Member States shall maintain technical exchange with third countries, in particular the further development of monitoring methods, the organisation of reporting and the verification of emissions reports.
+
+3\. In the event that an international agreement on a global monitoring, reporting and verification system for greenhouse gas emissions or on global measures to reduce greenhouse gas emissions from maritime transport is reached, the Commission shall review this Regulation and shall, if appropriate, propose amendments to this Regulation in order to ensure alignment with that international agreement.
+
+#### Article 22a — Review
+
+The Commission shall, no later than 31 December 2024, review this Regulation, in particular taking into account further experience gained in its implementation, inter alia, for the purpose of including ships below 5 000 gross tonnage but not below 400 gross tonnage within the scope of this Regulation with a view to a possible subsequent inclusion of such ships within the scope of Directive 2003/87/EC or to proposing other measures to reduce greenhouse gas emissions from such ships. That review shall, where appropriate, be accompanied by a legislative proposal to amend this Regulation.
+
+## CHAPTER VI — DELEGATED AND IMPLEMENTING POWERS AND FINAL PROVISIONS
+
+#### Article 23 — Exercise of delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States' experts, before adopting those delegated acts.
+
+2\. The power to adopt delegated acts referred to in Article 5(2), Article 15(5) and Article 16(3) shall be conferred on the Commission for a period of five years from 1 July 2015.
+
+The power to adopt delegated acts referred to in Article 6(8), Article 7(5), Article 11(4), Article 11a(4) and Article 13(6) shall be conferred on the Commission for a period of five years from 5 June 2023.
+
+The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the respective five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 5(2), Article 6(8), Article 7(5), Article 11(4), Article 11a(4), Article 13(6), Article 15(5) and Article 16(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 5(2), Article 6(8), Article 7(5), Article 11(4), Article 11a(4), Article 13(6), Article 15(5) or Article 16(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+However, the first subparagraph, last sentence, of this paragraph shall not apply to delegated acts adopted by 1 October 2023 pursuant to Article 5(2), second subparagraph, Article 6(8), second subparagraph, or Article 11(4).
+
+#### Article 24 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee established by Article 26 of Regulation (EU) No 525/2013 of the European Parliament and of the Council ( 4 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 25 — Amendments to Directive 2009/16/EC
+
+The following point shall be added to the list set out in Annex IV to Directive 2009/16/EC:
+
+‘50. Document of Compliance issued under Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC ( *1 ).
+
+#### Article 26 — Entry into force
+
+This Regulation shall enter into force on 1 July 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Methods for monitoring greenhouse gas emissions**
+
+**A. CALCULATION OF GREENHOUSE GAS EMISSIONS (ARTICLE 9)**
+
+**1\. Formulae for the calculation of greenhouse gas emissions**
+
+For the purposes of calculating greenhouse gas emissions, companies shall apply the following formula:
+
+[image]
+
+Companies shall calculate CO2 emissions by adding the CO2 emissions of all fuels i used, applying the following formula:
+
+[image]
+
+Companies shall calculate CH4 emissions by adding the CH4 emissions resulting from the combustion of all fuels i used together with the emissions caused by CH4 slippage, applying the following formula:
+
+[image]
+
+Companies shall calculate N2O emissions by adding the N2O emissions of all fuels i used, applying the following formula:
+
+[image]
+
+Fuel consumption shall be calculated separately for emissions from voyages between ports under a Member State’s jurisdiction, from voyages which departed from ports under a Member State’s jurisdiction, from voyages to ports under a Member State’s jurisdiction, and for emissions within ports under the jurisdiction of a Member State. Fuel consumption within ports under the jurisdiction of a Member State at berth shall be calculated separately.
+
+<table>
+<tbody><tr><td>Term</td><td>Explanation</td></tr>
+<tr><td>GHGMRV</td><td>Greenhouse gas emissions to be reported under this Regulation, expressed in tonnes CO2 equivalent, where ‘CO2 equivalent’ means the metric measure used to compute the emissions from CO2, CH4 and N2O on the basis of their global warming potential, by converting amounts of CH4 and N2O to the equivalent amount of carbon dioxide with the same global warming potential.</td></tr>
+<tr><td>[image]</td><td>Total aggregated CO2 emitted.</td></tr>
+<tr><td>[image]</td><td>Total aggregated CH4 emitted.</td></tr>
+<tr><td>[image]</td><td>Total aggregated N2O emitted.</td></tr>
+<tr><td>[image]</td><td>Global warming potential of CH4 over 100 years as referred to in the Annex to Delegated Regulation (EU) 2020/1044 (1).</td></tr>
+<tr><td>[image]</td><td>Global warming potential of N2O over 100 years as referred to in the Annex to Commission Delegated Regulation (EU) 2020/1044.</td></tr>
+<tr><td>i</td><td>Index corresponding to the fuels used on board the ship in the reporting period.</td></tr>
+<tr><td>j</td><td>Index corresponding to emission sources on board the ship. For the purpose of this Regulation the sources considered include at least the main engines, auxiliary engines, gas turbines, boilers and inert gas generators.</td></tr>
+<tr><td>Mi</td><td>Fuel consumption, as total mass of the specific fuel i used (total for all emission sources).</td></tr>
+<tr><td>Mi, j</td><td>Fuel consumption, as mass of the specific fuel i used in emission source j.</td></tr>
+<tr><td>Cj</td><td>Tank to Wake emission factor of slipped fuel (slippage coefficient) as a percentage of the mass of the fuel i used by the emission source j [%]. Cj includes fugitive and slipped emissions. Fugitive and slipped emissions are emissions caused by the amount of fuel that does not reach the combustion chamber of the emission source or that is not consumed by the emission source because they are un-combusted, vented, or leaked from the system. </td></tr>
+<tr><td>Mi,NC</td><td>Total mass of fuel i not combusted but released into the atmosphere. [image] </td></tr>
+<tr><td>[image]</td><td>Amount of CH4 non combusted released into the atmosphere. For the purpose of determining such amount, companies shall apply the following formula: [image] </td></tr>
+<tr><td>[image]</td><td>Tank to Wake CO2 emission factor by fuel i, as defined in the table under point 2 of this Part.</td></tr>
+<tr><td>[image]</td><td>Tank to Wake CH4 emission factor by fuel i, as defined in the table under point 2 of this Part.</td></tr>
+<tr><td>[image]</td><td>Tank to Wake N2O emission factor by fuel i, as defined in the table under point 2 of this Part.</td></tr>
+<tr><td colspan="2">(1)  Commission Delegated Regulation (EU) 2020/1044 of 8 May 2020 supplementing Regulation (EU) 2018/1999 of the European Parliament and of the Council with regard to values for global warming potentials and the inventory guidelines and with regard to the Union inventory system and repealing Commission Delegated Regulation (EU) No 666/2014 (OJ L 230, 17.7.2020, p. 1). </td></tr>
+</tbody>
+</table>
+
+**2\. Default emission factors**
+
+In the following table:
+
+— TBM stands for ‘to be measured’;
+
+— N/A stands for ‘not available’;
+
+— The dash means ‘not applicable’.
+
+The default values, as contained in the table below, for emission factors for fuels and emission sources used on board the ship shall be applied for the purpose of this Regulation.
+
+Where a cell indicates either TBM or N/A, the highest default value of the fuel class in the same column shall be used. Where, for a particular fuel class, all cells in the same column indicate either TBM or N/A, default value of the least favourable fossil fuel type shall be used. This rule does not apply to column 6 where TBM or N/A refers to non available values for the emissions source. In the case of no default value for Cj, a certified value in accordance with Article 10(6) of Regulation (EU) 2023/1805 of the European Parliament and of the Council* shall be used.
+
+Companies may diverge from the default values for the emission factors listed in the table below, following, as applicable, the application of the conditions and restrictions provided in Article 10(5) and (6) of Regulation (EU) 2023/1805.
+
+For non-fossil fuels not listed in the table below, the company shall determine the emission factors in accordance with Articles 32 to 35 of Commission Implementing Regulation (EU) 2018/2066**.
+
+Where there is fuel blending, each fuel shall be considered separately.
+
+<table>
+<tbody><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+<tr><td>Fuel Class</td><td>Type of Fuel</td><td>[image] [image] </td><td>[image] [image] </td><td>[image] [image] </td><td>Cj As % of the mass of the fuel used by the emissions source </td></tr>
+<tr><td rowspan="13">Fossil</td><td>HFO ISO 8217 Grades RME to RMK </td><td>3,114 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td>LFO ISO 8217 Grades RMA to RMD </td><td>3,151 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td>MDO MGO  ISO 8217 Grades DMX to DMB </td><td>3,206 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td rowspan="4">LNG</td><td rowspan="4">2,750 </td><td rowspan="4">0 </td><td rowspan="4">0,00011 </td><td>3,1 for LNG Otto (dual fuel medium speed)</td></tr>
+<tr><td>1,7 for LNG Otto (dual fuel slow speed)</td></tr>
+<tr><td>0,2 for LNG Diesel (dual fuel slow speed)</td></tr>
+<tr><td>2,6 for Lean-Burn Spark-Ignited (LBSI)</td></tr>
+<tr><td>LPG (Butane)</td><td>3,03 </td><td>TBM</td><td>TBM</td><td>N/A</td></tr>
+<tr><td>LPG (Propane)</td><td>3,00 </td><td>TBM</td><td>TBM</td><td>N/A</td></tr>
+<tr><td rowspan="2">H2 (fossil)</td><td rowspan="2">0 </td><td rowspan="2">0 </td><td>— for Fuel Cells</td><td rowspan="2">—</td></tr>
+<tr><td>TBM for Internal Combustion Engine (ICE)</td></tr>
+<tr><td>NH3 (fossil)</td><td>0 </td><td>N/A</td><td>TBM</td><td>N/A</td></tr>
+<tr><td>Methanol (fossil)</td><td>1,375 </td><td>TBM</td><td>TBM</td><td>—</td></tr>
+<tr><td rowspan="11">Biofuels</td><td>Ethanol</td><td>1,913 </td><td>TBM</td><td>TBM</td><td>—</td></tr>
+<tr><td>Bio-diesel</td><td>2,834 </td><td>TBM</td><td>TBM</td><td>—</td></tr>
+<tr><td>Hydrotreated Vegetable Oil (HVO)</td><td>3,115 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td rowspan="4">Liquified Bio-methane as transport fuel (Bio-LNG)</td><td rowspan="4">2,750 </td><td rowspan="4">0 </td><td rowspan="4">0,00011 </td><td>3,1 for LNG Otto (dual fuel medium speed)</td></tr>
+<tr><td>1,7 for LNG Otto (dual fuel slow speed)</td></tr>
+<tr><td>0,2 for LNG Diesel (dual fuel slow speed)</td></tr>
+<tr><td>2,6 for Lean-Burn Spark-Ignited (LBSI)</td></tr>
+<tr><td>Bio-methanol</td><td>1,375 </td><td>TBM</td><td>TBM</td><td>—</td></tr>
+<tr><td>Other</td><td>3,115 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td rowspan="2">Bio-H2</td><td rowspan="2">0 </td><td rowspan="2">0 </td><td>0 for Fuel Cells</td><td rowspan="2">—</td></tr>
+<tr><td>TBM for ICE</td></tr>
+<tr><td rowspan="11">Renewable Fuels of Non-Biological Origin (RFNBO) – e-Fuels </td><td>e-diesel</td><td>3,206 </td><td>0,00005 </td><td>0,00018 </td><td>—</td></tr>
+<tr><td>e-methanol</td><td>1,375 </td><td>TBM</td><td>TBM</td><td>—</td></tr>
+<tr><td rowspan="4">e-LNG</td><td rowspan="4">2,750 </td><td rowspan="4">0 </td><td rowspan="4">0,00011 </td><td>3,1 for LNG Otto (dual fuel medium speed)</td></tr>
+<tr><td>1,7 for LNG Otto (dual fuel slow speed)</td></tr>
+<tr><td>0,2 for LNG Diesel (dual fuel slow speed)</td></tr>
+<tr><td>2,6 for Lean-Burn Spark-Ignited (LBSI)</td></tr>
+<tr><td rowspan="2">e-H2</td><td rowspan="2">0 </td><td rowspan="2">0 </td><td>0 for Fuel Cells</td><td rowspan="2">—</td></tr>
+<tr><td>TBM for ICE</td></tr>
+<tr><td>e-NH3</td><td>0 </td><td>N/A</td><td>TBM</td><td>N/A</td></tr>
+<tr><td>e-LPG</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr>
+<tr><td>e-DME</td><td>N/A</td><td>N/A</td><td>N/A</td><td>—</td></tr>
+</tbody>
+</table>
+
+Column 1 identifies the class of the fuels.
+
+Column 2 identifies the name of the relevant types of fuel for each class.
+
+Column 3 contains the emission factor EF for carbon dioxide in gCO2/gfuel.
+
+Column 4 contains the emission factor EF for methane in gCH4/gfuel.
+
+Column 5 contains the emission factor EF for nitrous oxide in gN2O/gfuel.
+
+Column 6 identifies the part of fuel lost as fugitive and slipped emissions (Cj) measured as % of mass of fuel used by the specific emission source. For fuels such as LNG for which fugitive and slipped emissions exist, the amount of fugitive and slipped emissions as presented in the table is expressed in % of the mass of fuel used. The values of Cj in the table are calculated at 50 % of the full engine load.
+
+* Regulation (EU) 2023/1805 of the European Parliament and of the Council of 13 September 2023 on the use of renewable and low-carbon fuels in maritime transport, and amending Directive 2009/16/EC (OJ L 234, 22.9.2023, p. 48).
+
+** Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC of the European Parliament and of the Council and amending Commission Regulation (EU) No 601/2012 (OJ L 334, 31.12.2018, p. 1).
+
+**AA. GREENHOUSE GAS EMISSIONS FROM OFFSHORE SHIPS**
+
+Greenhouse gas emissions from offshore ships shall cover greenhouse gas emissions released during voyages from last port of call to a port of call under the jurisdiction of a Member State and from a port of call under the jurisdiction of a Member State to next port of call, as well as within ports of call under the jurisdiction of a Member State by the following ships, other than icebreakers, designed or certified to perform service activities offshore or at offshore installations:
+
+(a) anchor handling tug supply vessel;
+
+(b) offshore supply ship;
+
+(c) crew/supply vessel;
+
+(d) pipe carrier;
+
+(e) platform supply ship;
+
+(f) drilling ship;
+
+(g) floating production storage and offloading (FPSO), oil;
+
+(h) gas processing vessel;
+
+(i) floating storage and offloading (FSO), gas;
+
+(j) FSO, oil;
+
+(k) accommodation ship;
+
+(l) diving support vessel;
+
+(m) offshore construction vessel;
+
+(n) offshore support vessel;
+
+(o) pipe burying vessel;
+
+(p) pipe layer;
+
+(q) pipe layer crane vessel;
+
+(r) production testing vessel;
+
+(s) standby safety vessel;
+
+(t) trenching support vessel;
+
+(u) well stimulation vessel;
+
+(v) cable layer;
+
+(w) cable repair ship;
+
+(x) mining vessel;
+
+(y) wind turbine installation vessel;
+
+(z) commissioning service operation vessel;
+
+(aa) service operation vessel;
+
+(ab) work/repair vessel;
+
+(ac) research survey vessel;
+
+(ad) dredger;
+
+(ae) hopper dredger.
+
+**B. METHODS FOR DETERMINING GREENHOUSE GAS EMISSIONS**
+
+The company shall indicate in the monitoring plan which monitoring method is to be used to determine the greenhouse gas emissions for each ship under its responsibility and ensure that once a method has been chosen, it is consistently applied.
+
+The following methods A, B, C and D, based on the calculation approach or the measurement approach, can be used.
+
+Under the calculation approach (methods A, B and C), emissions shall be calculated using the formulae set out in Part A. For that purpose, the actual fuel consumption for each voyage shall be determined using any of methods A, B or C described hereinafter and used for the purpose of the calculation. Sources of uncertainty and associated levels of uncertainty shall be considered when selecting any of the methods A, B or C. The company shall regularly perform suitable control activities, including cross-checks between the bunkering quantity as provided by the Bunker Delivery Note (BDN) and the bunkering quantity indicated by on-board measurement, and take corrective action if notable deviations are observed.
+
+Under the measurement approach (method D), direct greenhouse gas emissions measurements are used.
+
+Any combination of methods A, B, C and D, once assessed by the verifier, may be used if it enhances the overall accuracy of the measurement.
+
+**1\. Method A: BDN and periodic stocktakes of fuel tanks**
+
+This method is based on the quantity and type of fuel as indicated on the BDN combined with periodic stocktakes of fuel tanks based on tank readings. The fuel at the beginning of the period, plus deliveries, minus fuel available at the end of the period and de-bunkered fuel between the beginning of the period and the end of the period together constitute the fuel consumed over the period.
+
+The period means the time between two port calls or time within a port. For the fuel used during a period, the fuel type and the sulphur content need to be specified.
+
+This method shall not be used when BDN are not available on board ships, especially when cargo is used as a fuel, for example, liquefied natural gas (LNG) boil-off.
+
+Under existing MARPOL Annex VI regulations, the BDN is mandatory, is to be retained on board for 3 years after the delivery of the bunker fuel and is to be readily available. The periodic stocktake of fuel tanks on board is based on fuel tank readings. It uses tank tables relevant to each fuel tank to determine the volume at the time of the fuel tank reading. The uncertainty associated with the BDN shall be specified in the monitoring plan. Fuel tank readings shall be carried out by appropriate methods such as automated systems, soundings and dip tapes. The method for tank sounding and uncertainty associated shall be specified in the monitoring plan.
+
+Where the amount of fuel uplift or the amount of fuel remaining in the tanks is determined in units of volume, expressed in cubic meters, the company shall convert that amount from volume to mass by using actual density values. The company shall determine the actual density by using one of the following:
+
+(a) on-board measurement systems;
+
+(b) the density measured by the fuel supplier at fuel uplift and recorded on the fuel invoice or BDN;
+
+(c) the density measured in a test analysis conducted in an accredited fuel test laboratory, where available.
+
+The actual density shall be expressed in kg/cubic meter and determined for the applicable temperature for a specific measurement. In cases for which actual density values are not available, a standard density factor for the relevant fuel type shall be applied once assessed by the verifier.
+
+**2\. Method B: Bunker fuel tank monitoring on board**
+
+This method is based on fuel tank readings for all fuel tanks on board. The tank readings shall occur daily when the ship is at sea and each time the ship is bunkering or de-bunkering.
+
+The cumulative variations of the fuel tank level between two readings constitute the fuel consumed over the period.
+
+The period means the time between two port calls or time within a port. For the fuel used during a period, the fuel type and the sulphur content need to be specified.
+
+Fuel tank readings shall be carried out by appropriate methods such as automated systems, soundings and dip tapes. The method for tank sounding and uncertainty associated shall be specified in the monitoring plan.
+
+Where the amount of fuel uplift or the amount of fuel remaining in the tanks is determined in units of volume, expressed in cubic meters, the company shall convert that amount from volume to mass by using actual density values. The company shall determine the actual density by using one of the following:
+
+(a) on-board measurement systems;
+
+(b) the density measured by the fuel supplier at fuel uplift and recorded on the fuel invoice or BDN;
+
+(c) the density measured in a test analysis conducted in an accredited fuel test laboratory, where available.
+
+The actual density shall be expressed in kg/cubic meter and determined for the applicable temperature for a specific measurement. In cases for which actual density values are not available, a standard density factor for the relevant fuel type shall be applied once assessed by the verifier.
+
+**3\. Method C: Flow meters for applicable combustion processes**
+
+This method is based on measured fuel flows on board. The data from all flow meters linked to relevant greenhouse gas emission sources shall be combined to determine all fuel consumption for a specific period.
+
+The period means the time between two port calls or time within a port. For the fuel used during a period, the fuel type and the sulphur content need to be monitored.
+
+The calibration methods applied and the uncertainty associated with flow meters used shall be specified in the monitoring plan.
+
+Where the amount of fuel consumed is determined in units of volume, expressed in cubic meters, the company shall convert that amount from volume to mass by using actual density values. The company shall determine the actual density by using one of the following:
+
+(a) on-board measurement systems;
+
+(b) the density measured by the fuel supplier at fuel uplift and recorded on the fuel invoice or BDN;
+
+(c) the density measured in a test analysis conducted in an accredited fuel test laboratory, where available.
+
+The actual density shall be expressed in kg/cubic meter and determined for the applicable temperature for a specific measurement. In cases for which actual density values are not available, a standard density factor for the relevant fuel type shall be applied once assessed by the verifier.
+
+**4\. Method D: Direct greenhouse gas emissions measurement**
+
+The direct greenhouse gas emissions measurements may be used for voyages and for greenhouse gas emissions occurring within ports located in a Member State’s jurisdiction. For ships for which CO2 reporting is based on this method applied to all emissions sources on board the ship, the fuel consumption shall be calculated using the measured CO2 emissions and the applicable emission factors of the relevant fuels and emission sources.
+
+This method is based on the determination of greenhouse gas emissions flows in exhaust gas stacks (funnels) by multiplying the greenhouse gas concentrations of the exhaust gas with the exhaust gas flow.
+
+The application of this method to determine emissions of a greenhouse gas shall not prevent companies from applying any other of the methods described under this Part to any other greenhouse gas.
+
+The calibration methods applied and the uncertainty associated with the devices used shall be specified in the monitoring plan.
+
+**C. DATA MANAGEMENT AND CONTROL**
+
+**1\. Control system**
+
+1.1. The company shall carry out a risk assessment to identify sources of risks of errors in the data flow from primary data to final data in the emissions report and shall establish, document, implement and maintain an effective control system to ensure that the reports resulting from data flow activities do not contain misstatements and are in conformity with the monitoring plan and comply with this Regulation.
+
+The company shall make the risk assessment referred to in the first paragraph available to the administering authority responsible upon request. The company shall also make it available for the purposes of verification.
+
+1.2. For the purposes of point 1.1, first paragraph, the company shall establish, document, implement and maintain written procedures, separately from the monitoring plan, for data flow activities as well as for control activities, and include references to and a description of those procedures in the monitoring plan. The company shall make any written documentation of the procedures available to the administering authority responsible upon request. The company shall also make such documentation available for the purposes of verification.
+
+1.3. Control activities referred to in point 1.2 shall include, where applicable:
+
+(a) quality assurance of the relevant measurement equipment;
+
+(b) quality assurance of information technology systems ensuring that the relevant systems are designed, documented, tested, implemented, controlled and maintained in a way that ensures processing reliable, accurate and timely data in accordance with the risks identified in accordance with point 1.1;
+
+(c) segregation of duties in the data flow activities and control activities, as well as management of necessary competencies;
+
+(d) internal reviews and validation of data;
+
+(e) corrections and corrective action;
+
+(f) control of out-sourced processes;
+
+(g) keeping records and documentation including the management of document versions.
+
+1.4. For the purposes of point 1.3(a), the company shall ensure that all relevant measuring equipment is calibrated, adjusted and checked at regular intervals including prior to use, and checked against measurement standards traceable to international measurement standards, where available, and proportionate to the risks identified.
+
+Where components of the measuring systems cannot be calibrated, the company shall identify those components in the monitoring plan and propose alternative control activities.
+
+When the equipment is found not to comply with the performance requirements, the company shall promptly take necessary corrective action.
+
+1.5. For the purposes of point 1.3(d), the company shall review and validate data resulting from the data flow activities referred to in point 1.2.
+
+Such review and validation of data shall include the following:
+
+(a) a check as to whether the data are complete;
+
+(b) a comparison of the data that the company has obtained, monitored and reported over several years;
+
+(c) a comparison of data and values resulting from different monitoring methods when more than one monitoring method is applied.
+
+1.6. For the purposes of point 1.3(e), the company shall ensure that, where data flow activities or control activities are found not to function effectively, or not to respect the rules set in the documentation of procedures for those activities, corrective action is taken and affected data is corrected without undue delay.
+
+1.7. For the purposes of point 1.3(f), where the company outsources one or more data flow activities or control activities referred to in point 1.1, it shall proceed to all of the following:
+
+(a) check the quality of the outsourced data flow activities and control activities in accordance with this Regulation;
+
+(b) indicate appropriate requirements for the outputs of the outsourced processes as well as the methods used in those processes;
+
+(c) check the quality of the outputs and methods referred to in point (b);
+
+(d) ensure that the outsourced activities are carried out in such a manner that those are responsive to the inherent risks and control risks identified in the risk assessment referred to in point 1.1.
+
+1.8. The company shall monitor the effectiveness of the control system, including by carrying out internal reviews and taking into account the findings of the verifier during the verification of emissions reports and of reports referred to in Article 11(2).
+
+When the company finds the control system ineffective or not commensurate with the risks identified, it shall seek to improve the control system and update the monitoring plan or the underlying written procedures for data flow activities, risk assessments and control activities, as appropriate.
+
+**2\. Data gaps**
+
+2.1. Where data relevant for the determination of a ship’s greenhouse gas emissions for one or more voyages are missing, the company shall use surrogate data calculated in accordance with the alternative method(s) indicated in the monitoring plan assessed by the verifier and, where applicable, approved by the administering authority responsible.
+
+Where data relevant for the determination of a ship’s greenhouse gas emissions for one or more voyages are missing, for which the monitoring plan does not list alternative monitoring methods or alternative data sources for corroborating data or for closing the data gap, the company shall use an appropriate estimation method for determining conservative surrogate data for the respective time period and missing parameter.
+
+2.2. Where, for technical reasons, it is temporarily not feasible to apply the monitoring plan satisfactorily assessed by the verifier and, where applicable, approved by the administering authority responsible, the company shall apply a method based on alternative data sources listed in the monitoring plan for the purpose of performing corroborative checks, or, if such an alternative is not contained in the monitoring plan, an alternative method which provides surrogate data or a conservative estimation, until the conditions for application of the approved monitoring plan have been restored.
+
+The company shall take all necessary measures to achieve a prompt application of the monitoring plan.
+
+2.3. Where an estimation method is used in accordance with point 2.1, or where a temporary deviation from the monitoring plan occurs in accordance with point 2.2, the company shall without undue delay develop a written procedure for avoiding this type of data gap in the future and modify the monitoring plan in accordance with Article 7.
+
+## ANNEX II
+
+**Monitoring of other relevant information**
+
+**A. MONITORING ON A PER VOYAGE BASIS (ARTICLE 9)**
+
+1\. For the purposes of monitoring other relevant information on a per-voyage basis (Article 9(1)), companies shall respect the following rules:
+
+(a) the date and hour of departure from berth and arrival at berth shall be considered using Greenwich Mean Time (GMT/UTC).  The time spent at sea shall be calculated based on port departure and arrival information and shall exclude anchoring;
+
+(b) the distance travelled may be either the distance of the most direct route between the port of departure and the port of arrival or the real distance travelled. In the event of the use of the distance of the most direct route between the port of departure and the port of arrival, a conservative correction factor should be taken into account to ensure that the distance travelled is not significantly underestimated. The monitoring plan shall specify which distance calculation is used and, if necessary, the correction factor used. The distance travelled shall be determined from berth of the port of departure to berth of the port of arrival and shall be expressed in nautical miles;
+
+(c) transport work shall be determined by multiplying the distance travelled with the amount of cargo carried;
+
+(d) for passenger ships, the number of passengers shall be used to express cargo carried. For all other categories of ships, the amount of cargo carried shall be expressed either as metric tonnes or as standard cubic metres of cargo, as appropriate;
+
+(e) for ro-ro ships, cargo carried shall be defined as the mass of cargo on board, determined as the actual mass or as the number of cargo units (trucks, cars, etc.) or occupied lane-metres multiplied by default values for their weight.
+
+For the purposes of this Regulation, ‘ro-ro ship’ means a ship designed for the carriage of roll-on-roll-off cargo transportation units or with roll-on-roll-off cargo spaces;
+
+(f) for container ships, cargo carried shall be defined as the total weight in metric tonnes of the cargo or, failing that, the amount of 20-foot equivalent units (TEU) multiplied by default values for their weight. Where cargo carried by a container ship is defined in accordance with applicable IMO Guidelines or instruments pursuant to the Convention for the Safety of Life at Sea (SOLAS Convention), that definition shall be deemed to comply with this Regulation.
+
+For the purposes of this Regulation, ‘container ship’ means a ship designed exclusively for the carriage of containers in holds and on deck;
+
+(g) the determination of cargo carried for categories of ships other than passenger ships, ro-ro ships and container ships shall enable the taking into account, where applicable, of the weight and volume of cargo carried and the number of passengers carried. Those categories shall include, inter alia, tankers, bulk carriers, general cargo ships, refrigerated cargo ships, vehicle carriers and combination carriers.
+
+2\. In order to ensure uniform conditions for the application of point 1(g)  , the Commission shall adopt, by means of implementing acts, technical rules specifying the parameters applicable to each of the other categories of ships referred to under that point.
+
+Those implementing acts shall be adopted not later than 31 December 2016 in accordance with the examination procedure referred to in Article 24(2).
+
+The Commission, by means of implementing acts, may revise, where appropriate, the applicable parameters referred to in point 1(g)  . Where relevant, the Commission shall also revise those parameters to take account of amendments to this Annex pursuant to Article 5(2). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+
+3\. In complying with the rules referred to in points 1 and 2  , companies may also choose to include specific information relating to the ship's ice class and to navigation through ice.
+
+**B. MONITORING ON AN ANNUAL BASIS (ARTICLE 10)**
+
+For the purposes of monitoring other relevant information on an annual basis, companies shall respect the following rules:
+
+The values to be monitored under Article 10 shall be determined by aggregation of the respective per voyage data.
+
+Average energy efficiency shall be monitored by using at least four indicators: fuel consumption per distance, fuel consumption per transport work, greenhouse gas emissions per distance and greenhouse gas emissions per transport work, which shall be calculated as follows:
+
+Fuel consumption per distance = total annual fuel consumption/total distance travelled
+
+Fuel consumption per transport work = total annual fuel consumption/total transport work
+
+Greenhouse gas emissions per distance = total annual greenhouse gas emissions/total distance travelled
+
+Greenhouse gas emissions per transport work = total annual greenhouse gas emissions/total transport work.
+
+In addition, when relevant, ships may monitor average energy efficiency by using the two following energy efficiency indicators: fuel consumption per time spent at sea and greenhouse gas emissions per time spent at sea, which shall be calculated as follows:
+
+Fuel consumption per time spent at sea = total annual fuel consumption/total time spent at sea
+
+Greenhouse gas emissions per time spent at sea = total annual greenhouse gas emissions/total time spent at sea
+
+In complying with these rules, companies may also choose to include specific information relating to the ship’s ice class and to navigation through ice, as well as other information related to the fuel consumed and greenhouse gas emissions emitted, differentiating on the basis of other criteria indicated in the monitoring plan.
+
+**C. MONITORING OF TOTAL AGGREGATED EMISSIONS OF GREENHOUSE GASES COVERED BY DIRECTIVE 2003/87/EC IN RELATION TO MARITIME TRANSPORT ACTIVITIES AND OF THE INFORMATION TO JUSTIFY DEROGATIONS FROM ARTICLE 12(3) OF THAT DIRECTIVE (ARTICLE 10, POINT (K))**
+
+**1\. Rules to monitor on an annual basis a ship’s total aggregated emissions of greenhouse gases covered by Directive 2003/87/EC in relation to maritime transport activities listed in Annex I to that Directive and to be reported under that Directive**
+
+Companies shall determine the relevant amounts of each greenhouse gas separately and the total of those amounts expressed in CO2-equivalents.
+
+Companies shall consider the amounts of each type of fuel consumed for maritime transport activities falling within the scope of Directive 2003/87/EC in respect of the period during which the ship was under their responsibility as regards the obligations set out in that Directive.
+
+Companies shall, when applicable, carry out the calculations set out in points 1.1. to 1.7 in the order laid down below.
+
+1.1. General principle
+
+For the purpose of monitoring the ship’s total aggregated emissions of greenhouse gases to be reported under the Directive 2003/87/EC, companies shall apply the formulae established in Part A of Annex I to this Regulation, considering the types of greenhouse gases emissions covered by Directive 2003/87/EC.
+
+1.2. Derogation from the general principle and use of emission factors pursuant to Article 14 of Directive 2003/87/EC
+
+By way of derogation from point 1.1, companies shall not apply the rules laid down in Part A of Annex I to this Regulation as regards the determination of the CO2 emission factors where the company uses a fuel complying with the sustainability criteria and greenhouse gas emission saving criteria for the use of biomass established by Directive (EU) 2018/2001 of the European Parliament and of the Council ( 5 ), with any necessary adjustments for application as set out in Implementing Regulation (EU) 2018/2066. In such cases, the CO2 emission factor of the biomass fraction of the fuel shall be zero.
+
+By way of derogation from point 1.1, companies shall not apply the rules laid down in Part A of Annex I to this Regulation as regards the determination of the CO2 emission factors where the company uses Renewable Fuels of Non-Biological Origin (RFNBO), Recycled Carbon Fuel (RCF) or synthetic low-carbon fuel. In such cases, the CO2 emission factor shall be determined in accordance with Implementing Regulation (EU) 2018/2066.
+
+1.3. Derogation from the general principle in the case of a voyage between a port under the jurisdiction of a Member State and a port outside the jurisdiction of a Member State
+
+In accordance with the geographical scope referred to in Article 3ga of Directive 2003/87/EC, the amounts calculated in accordance with points 1.1 and 1.2 of this Part shall be multiplied by 50 % where the greenhouse gas emissions are released by a ship performing either a voyage departing from a port of call under the jurisdiction of a Member State and arriving at a port of call outside the jurisdiction of a Member State, or a voyage departing from a port of call outside the jurisdiction of a Member State and arriving at a port of call under the jurisdiction of a Member State.
+
+1.4. Derogation from the general principle in the case of CO2 emissions referred to in Article 12(3a) and (3b) of Directive 2003/87/EC
+
+By way of derogation from point 1.1, where CO2 emissions fall within the scope of Article 12(3a) or (3b) of Directive 2003/87/EC, the amounts of such emissions calculated in accordance with points 1.1, 1.2 and 1.3 of this Part shall be multiplied by zero.
+
+1.5. Derogation from the general principle in the case of greenhouse gas emissions from a voyage or activities referred to in Article 12(3-d), (3-c) or (3-b) of Directive 2003/87/EC
+
+By way of derogation from point 1.1, where the greenhouse gas emissions fall within the scope of Article 12(3-d), (3-c), or (3-b) of Directive 2003/87/EC, the amounts calculated in accordance with points 1.1 to 1.4 of this Part shall be multiplied by zero.
+
+1.6. Calculation of the ship’s total aggregated emissions of greenhouse gases to be reported under Directive 2003/87/EC in the case that the company wants to benefit from the derogation provided for in Article 12(3-e) of that Directive
+
+Companies that want to benefit from the derogation for ice-class ships provided for in Article 12(3-e) of Directive 2003/87/EC shall deduct 5 % from the amounts calculated in accordance with points 1.1 to 1.5 of this Part, as applicable.
+
+1.7. Calculation of the ship’s total aggregated emissions of greenhouse gases to be reported under Directive 2003/87/EC, taking into account Article 3gb of that Directive
+
+In respect of the emissions for the reporting years 2024 and 2025, companies shall apply the phase-in percentages provided for in Article 3gb of Directive 2003/87/EC to the amounts calculated in accordance with points 1.1 to 1.6 of this Part, as applicable. Companies shall aggregate the amounts of each gas to calculate the ship’s total aggregated emissions of greenhouse gases to be reported under Directive 2003/87/EC.
+
+**2\. Monitoring of the necessary information to justify the application of any relevant derogation from Article 12(3) of Directive 2003/87/EC**
+
+2.1. Where the greenhouse gas emissions fall under the scope of Article 12(3-d), (3-c), or (3-b) of Directive 2003/87/EC, companies shall monitor, for the period during which the ship was under their responsibility, the following information for each type of derogation provided for in those provisions, on a per-voyage basis:
+
+(a) the port of departure and port of arrival including the data and hour of departure and arrival;
+
+(b) amount and emission factor for each type of fuel consumed, taking into account the provisions laid down in point 1.2;
+
+(c) greenhouse gas emissions emitted, calculated in accordance with points 1.1, 1.2 and 1.3;
+
+(d) the distance travelled;
+
+(e) time spent at sea.
+
+2.2. Where all the greenhouse gas emissions released by a ship during a reporting period fall within the scope of Article 12(3-d), (3-c) or (3-b) of Directive 2003/87/EC and where, according to its schedule, the ship performs more than 300 voyages during that reporting period, the company shall not be obliged to monitor the information referred to in point 2.1 of this Part on a per-voyage basis in respect of that ship during that reporting period.
+
+2.3. Where the greenhouse gas emissions fall under the scope of Article 12(3-e) of Directive 2003/87/EC, companies shall provide information relating to the ice class of the ship.
+
+## ANNEX III
+
+**Elements to be taken into account for the delegated acts provided for in Articles 15 and 16**
+
+**A. VERIFICATION PROCEDURES**
+
+— Competencies of verifiers,
+
+— documents to be provided by companies to verifiers,
+
+— risk assessment to be carried out by verifiers,
+
+— assessment of the conformity of the monitoring plan,
+
+— verification of the emissions report,
+
+— materiality level,
+
+— reasonable assurance of verifiers,
+
+— misstatements and non-conformities,
+
+— content of the verification report,
+
+— recommendations for improvements,
+
+— communication between companies, verifiers and the Commission.
+
+**B. ACCREDITATION OF VERIFIERS**
+
+— How accreditation for shipping activities can be requested,
+
+— how verifiers will be assessed by the national accreditation bodies in order to issue an accreditation certificate,
+
+— how the national accreditation bodies will perform the surveillance needed to confirm the continuation of the accreditation,
+
+— requirements for national accreditation bodies in order to be competent to provide accreditation to verifiers for shipping activities, including reference to harmonised standards.
+
+( 1 ) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+
+( 2 ) Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies (OJ L 264, 25.9.2006, p. 13).
+
+( 3 ) Regulation (EC) No 1406/2002 of the European Parliament and of the Council of 27 June 2002 establishing a European Maritime Safety Agency (OJ L 208, 5.8.2002, p. 1).
+
+( 4 ) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13).
+
+( *1 ) OJ L 123, 19.5.2015, p. 55.’
+
+( 5 ) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).

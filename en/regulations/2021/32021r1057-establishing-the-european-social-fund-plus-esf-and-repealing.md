@@ -1,0 +1,1076 @@
+---
+title: "Regulation (EU) 2021/1057 of the European Parliament and of the Council of 24 June 2021 establishing the European Social Fund Plus (ESF+) and repealing Regulation (EU) No 1296/2013"
+identifier: "32021R1057"
+eli: "http://data.europa.eu/eli/reg/2021/1057/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-06-24
+entry_into_force: 2021-12-07
+last_amended: 2025-09-20
+consolidated_version: "02021R1057-20250920"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R1057-20250920"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/1057 of the European Parliament and of the Council of 24 June 2021 establishing the European Social Fund Plus (ESF+) and repealing Regulation (EU) No 1296/2013
+
+**REGULATION (EU) 2021/1057 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**establishing the European Social Fund Plus (ESF+) and repealing Regulation (EU) No 1296/2013**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/795 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 February 2024 </td><td> L 795</td><td>1</td><td>29.2.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/3236 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 2024 </td><td> L 3236</td><td>1</td><td>23.12.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/1913 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 September 2025 </td><td> L 1913</td><td>1</td><td>19.9.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2021/1057 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**establishing the European Social Fund Plus (ESF+) and repealing Regulation (EU) No 1296/2013**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>Part I</td><td>General provisions</td></tr>
+<tr><td>Article 1</td><td>Subject matter</td></tr>
+<tr><td>Article 2</td><td>Definitions</td></tr>
+<tr><td>Article 3</td><td>General objectives of the ESF+ and methods of implementation</td></tr>
+<tr><td>Article 4</td><td>Specific objectives of the ESF+</td></tr>
+<tr><td>Article 5</td><td>Budget</td></tr>
+<tr><td>Article 5a</td><td>Specific provisions linked to the mid-term review and related flexibility of the ESF+ strand under shared management</td></tr>
+<tr><td>Article 6</td><td>Gender equality, equal opportunities and non-discrimination</td></tr>
+<tr><td>Part II</td><td>Implementation under shared management</td></tr>
+<tr><td>Chapter I</td><td>Common provisions on programming</td></tr>
+<tr><td>Article 7</td><td>Consistency and thematic concentration</td></tr>
+<tr><td>Article 8</td><td>Respect for the Charter</td></tr>
+<tr><td>Article 9</td><td>Partnership</td></tr>
+<tr><td>Article 10</td><td>Support for the most deprived persons</td></tr>
+<tr><td>Article 11</td><td>Support for youth employment</td></tr>
+<tr><td>Article 12</td><td>Support for relevant country-specific recommendations</td></tr>
+<tr><td>Article 12a</td><td>Support for the STEP objectives</td></tr>
+<tr><td>Article 12b</td><td>Support for alleviating the negative socio-economic consequences of natural disasters</td></tr>
+<tr><td>Article 12c</td><td>Support for the development of skills in civil preparedness, in the defence industry including for dual-use capabilities, and in cybersecurity</td></tr>
+<tr><td>Article 12d</td><td>Support for adaptation linked to decarbonisation</td></tr>
+<tr><td>Chapter II</td><td>General support from the ESF+ strand under shared management</td></tr>
+<tr><td>Article 13</td><td>Scope</td></tr>
+<tr><td>Article 14</td><td>Social innovative actions</td></tr>
+<tr><td>Article 15</td><td>Transnational cooperation</td></tr>
+<tr><td>Article 16</td><td>Eligibility</td></tr>
+<tr><td>Article 17</td><td>Indicators and reporting</td></tr>
+<tr><td>Chapter III</td><td>ESF+ support for addressing material deprivation</td></tr>
+<tr><td>Article 18</td><td>Scope</td></tr>
+<tr><td>Article 19</td><td>Principles</td></tr>
+<tr><td>Article 20</td><td>Content of the priority</td></tr>
+<tr><td>Article 21</td><td>Eligibility of operations</td></tr>
+<tr><td>Article 22</td><td>Eligibility of expenditure</td></tr>
+<tr><td>Article 23</td><td>Indicators and reporting</td></tr>
+<tr><td>Article 24</td><td>Audit</td></tr>
+<tr><td>Part III</td><td>Implementation under direct and indirect management</td></tr>
+<tr><td>Chapter I</td><td>Operational objectives</td></tr>
+<tr><td>Article 25</td><td>Operational objectives</td></tr>
+<tr><td>Chapter II</td><td>Eligibility</td></tr>
+<tr><td>Article 26</td><td>Eligible actions</td></tr>
+<tr><td>Article 27</td><td>Eligible entities</td></tr>
+<tr><td>Article 28</td><td>Horizontal principles</td></tr>
+<tr><td>Article 29</td><td>Participation of third countries</td></tr>
+<tr><td>Chapter III</td><td>General provisions</td></tr>
+<tr><td>Article 30</td><td>Forms of Union funding and methods of implementation</td></tr>
+<tr><td>Article 31</td><td>Work programme</td></tr>
+<tr><td>Article 32</td><td>Monitoring and reporting</td></tr>
+<tr><td>Article 33</td><td>Protection of the financial interests of the Union</td></tr>
+<tr><td>Article 34</td><td>Evaluation</td></tr>
+<tr><td>Article 35</td><td>Audits</td></tr>
+<tr><td>Article 36</td><td>Information, communication and publicity</td></tr>
+<tr><td>Part IV</td><td>Final Provisions</td></tr>
+<tr><td>Article 37</td><td>Exercise of the delegation</td></tr>
+<tr><td>Article 38</td><td>Committee procedure for the ESF+ strand under shared management</td></tr>
+<tr><td>Article 39</td><td>Committee set up under Article 163 TFEU</td></tr>
+<tr><td>Article 40</td><td>Transitional provisions for the ESF+ strand under shared management</td></tr>
+<tr><td>Article 41</td><td>Transitional provisions for the EaSI strand</td></tr>
+<tr><td>Article 42</td><td>Entry into force</td></tr>
+<tr><td>ANNEX I</td><td>Common indicators for general support from the ESF+ strand under shared management</td></tr>
+<tr><td>ANNEX II</td><td>Common indicators for the ESF+ actions targeting social inclusion of the most deprived persons within the specific objective set out in Article 4(1), point (l), in line with Article 7(5), first subparagraph</td></tr>
+<tr><td>ANNEX III</td><td>Common indicators for ESF+ support for addressing material deprivation</td></tr>
+<tr><td>ANNEX IV</td><td>Indicators for the EaSI strand</td></tr>
+</table>
+
+## PART I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation establishes the European Social Fund Plus (ESF+), which consists of two strands: the strand under shared management (the ‘ESF+ strand under shared management’) and the Employment and Social Innovation strand (the ‘EaSI strand’).
+
+This Regulation lays down the objectives of the ESF+, its budget for the period 2021 to 2027, the methods of implementation, the forms of Union funding and the rules for providing such funding.
+
+#### Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘lifelong learning’ means learning in all its forms, namely, formal, non-formal and informal learning, that takes place at all stages in life and results in an improvement or an update in knowledge, skills, competences and attitudes or in participation in society in a personal, civic, cultural, social or employment-related perspective, including the provision of counselling and guidance services, including early childhood education and care, general education, vocational education and training, higher education, adult education, youth work and other learning settings outside formal education and training and it typically promotes cross-sectoral cooperation and flexible learning pathways;
+
+(2) ‘third-country national’ means a person who is not a citizen of the Union, including stateless persons and persons with an undetermined nationality;
+
+(3) ‘basic material assistance’ means goods which fulfil the basic needs of a person for a life with dignity, such as clothing, hygiene goods, including feminine hygiene products, and school material;
+
+(4) ‘disadvantaged group’ means a group of people in vulnerable situations, including people experiencing or at risk of poverty, social exclusion or discrimination in its multiple dimensions;
+
+(5) ‘key competences’ means the knowledge, skills and competences all individuals need, at any stage of their lives, for their personal fulfilment and development, employment, social inclusion and active citizenship, namely, literacy; multilingualism; mathematics, science, technology, arts and engineering; digital skills; media skills; personal, social and learning to learn skills; active citizenship skills; entrepreneurship; cultural and intercultural awareness and expression; and critical thinking;
+
+(6) ‘most deprived persons’ means natural persons, whether individuals, families, households or groups of persons, including children in vulnerable situations and homeless people, whose need for assistance has been established according to the objective criteria which are set by the national competent authorities in consultation with relevant stakeholders while avoiding conflicts of interest, and which may include elements that allow for the targeting of the most deprived persons in certain geographical areas;
+
+(7) ‘end recipients’ means the most deprived persons receiving the support as laid down in Article 4(1), point (m);
+
+(8) ‘social innovation’ means an activity, that is social both as to its ends and its means and in particular an activity which relates to the development and implementation of new ideas concerning products, services, practices and models, that simultaneously meets social needs and creates new social relationships or collaborations between public, civil society or private organisations, thereby benefiting society and boosting its capacity to act;
+
+(9) ‘accompanying measure’ means an activity provided in addition to the distribution of food and/or basic material assistance with the aim of addressing social exclusion and contributing to the eradication of poverty, such as referrals to or providing social and health services, including psychological support, or providing relevant information on public services or advice on managing a household budget;
+
+(10) ‘social experimentation’ means a policy intervention that aims to provide an innovative response to social needs, implemented on a small scale and in conditions that enable its impact to be measured, prior to being implemented in other contexts including geographical and sectorial ones, or implemented on a larger scale, if the results prove to be positive;
+
+(11) ‘cross-border partnership’ means a structure of cooperation between public employment services, the social partners or civil society located in at least two Member States;
+
+(12) ‘microenterprise’ means an enterprise with fewer than 10 employees and an annual turnover or balance sheet below EUR 2 000 000 ;
+
+(13) ‘social enterprise’ means an undertaking, regardless of its legal form, including social economy enterprises, or a natural person which:
+
+(a) in accordance with its articles of association, statutes or with any other legal document that may result in liability under the rules of the Member State where a social enterprise is located, has the achievement of measurable, positive social impacts, which may include environmental impacts, as its primary social objective rather than the generation of profit for other purposes, and which provides services or goods that generate a social return or employs methods of production of goods or services that embody social objectives;
+
+(b) uses its profits first and foremost to achieve its primary social objective, and has predefined procedures and rules that ensure that the distribution of profits does not undermine the primary social objective;
+
+(c) is managed in an entrepreneurial, participatory, accountable and transparent manner, in particular by involving workers, customers and stakeholders on whom its business activities have an impact;
+
+(14) ‘reference value’ means a value which is used to set targets for common and programme specific result indicators and based on existing or previous, similar interventions;
+
+(15) ‘cost of purchasing food and/or basic material assistance’ means the actual costs which are linked to the purchase of food and/or basic material assistance by the beneficiary and are not limited to the price of the food and/or basic material assistance;
+
+(16) ‘microfinance’ includes guarantees, microcredit, equity and quasi-equity, coupled with accompanying business development services such as those provided in the form of individual counselling, training and mentoring, extended to persons and microenterprises that experience difficulties accessing credit for the purpose of professional and revenue-generating activities;
+
+(17) ‘blending operation’ means an action supported by the Union budget, including within a blending facility or platform as defined in Article 2, point (6), of the Financial Regulation, combining non-repayable forms of support or financial instruments from the Union budget with repayable forms of support from development or other public finance institutions, as well as from commercial finance institutions and investors;
+
+(18) ‘legal entity’ means a natural person, or a legal person created and recognised as such under Union, national, or international law, which has legal personality and the capacity to act in its own name, exercise rights and be subject to obligations, or an entity which does not have legal personality as referred to in Article 197(2), point (c), of the Financial Regulation;
+
+(19) ‘common immediate result indicator’ means a common result indicator which captures effects within four weeks from the day on which the participant has left the operation;
+
+(20) ‘common longer-term result indicator’ means a common result indicator which captures effects six months after the participant has left the operation.
+
+2\. The definitions set out in Article 2 of Regulation (EU) 2021/1060 also apply to the ESF+ strand under shared management.
+
+#### Article 3 — General objectives of the ESF+ and methods of implementation
+
+1\. The ESF+ aims to support Member States and regions to achieve high employment levels, fair social protection and a skilled and resilient workforce ready for the future world of work, as well as inclusive and cohesive societies aiming to eradicating poverty and delivering on the principles set out in the European Pillar of Social Rights.
+
+2\. The ESF+ shall support, complement and add value to the policies of Member States to ensure equal opportunities, equal access to the labour market, fair and quality working conditions, social protection and inclusion, in particular focussing on quality and inclusive education and training, lifelong learning, investment in children and young people and access to basic services.
+
+3\. The ESF+ shall be implemented:
+
+(a) under shared management, for the part of the assistance which corresponds to the specific objectives set out in Article 4(1) (ESF+ strand under shared management); and
+
+(b) under direct and indirect management, for the part of the assistance which corresponds to the objectives set out in Article 4(1) and Article 25 (EaSI strand).
+
+#### Article 4 — Specific objectives of the ESF+
+
+1\. The ESF+ shall support the following specific objectives in the policy areas of employment and labour mobility, education, social inclusion, including contributing to poverty eradication, and thereby also contributing to the policy objective ‘a more social and inclusive Europe implementing the European Pillar of Social Rights’ referred to in Article 5, point (d), of Regulation (EU) 2021/1060:
+
+(a) improving access to employment and activation measures for all jobseekers, in particular young people, especially through the implementation of the Youth Guarantee, for long-term unemployed and disadvantaged groups on the labour market, and for inactive people, as well as through the promotion of self-employment and the social economy;
+
+(b) modernising labour market institutions and services to assess and anticipate skills needs and ensure timely and tailor-made assistance and support for labour market matching, transitions and mobility;
+
+(c) promoting a gender-balanced labour market participation, equal working conditions, and a better work-life balance including through access to affordable childcare, and care for dependent persons;
+
+(d) promoting the adaptation of workers, enterprises and entrepreneurs to change, active and healthy ageing and a healthy and well-adapted working environment that addresses health risks;
+
+(e) improving the quality, inclusiveness, effectiveness and labour market relevance of education and training systems including through validation of non-formal and informal learning, to support acquisition of key competences including entrepreneurial and digital skills, and by promoting the introduction of dual-training systems and apprenticeships;
+
+(f) promoting equal access to and completion of quality and inclusive education and training, in particular for disadvantaged groups, from early childhood education and care through general and vocational education and training, to tertiary level, as well as adult education and learning, including facilitating learning mobility for all and accessibility for persons with disabilities;
+
+(g) promoting lifelong learning, in particular flexible upskilling and reskilling opportunities for all taking into account entrepreneurial and digital skills, better anticipating change and new skills requirements based on labour market needs, facilitating career transitions and promoting professional mobility;
+
+(h) fostering active inclusion with a view to promoting equal opportunities, non-discrimination and active participation, and improving employability, in particular for disadvantaged groups;
+
+(i) promoting socio-economic integration of third-country nationals, including migrants;
+
+(j) promoting the socio-economic integration of marginalised communities, such as Roma people;
+
+(k) enhancing equal and timely access to quality, sustainable and affordable services, including services that promote the access to housing and person-centred care including healthcare; modernising social protection systems, including promoting access to social protection, with a particular focus on children and disadvantaged groups; improving accessibility including for persons with disabilities, effectiveness and resilience of healthcare systems and long-term care services;
+
+(l) promoting social integration of people at risk of poverty or social exclusion, including the most deprived persons and children;
+
+(m) addressing material deprivation through food and/or basic material assistance to the most deprived persons, including children, and providing accompanying measures supporting their social inclusion.
+
+2\. Through the actions implemented under the ESF+ strand under shared management to achieve the specific objectives referred to in paragraph 1 of this Article, the ESF+ shall aim to contribute to the other policy objectives listed in Article 5 of Regulation (EU) 2021/1060, in particular the objectives related to:
+
+(a) a smarter Europe through the development of skills for smart specialisation, skills for key enabling technologies, industrial transition, sectorial cooperation on skills and entrepreneurship, the training of researchers, networking activities and partnerships between higher education institutions, vocational and educational training institutions, research and technological centres and enterprises and clusters, and support for micro, small and medium-sized enterprises and the social economy;
+
+(b) a greener, low carbon Europe through the improvement of education and training systems necessary for the adaptation of skills and qualifications, the upskilling of all, including the labour force, the creation of new jobs in sectors related to the environment, climate, energy, the circular economy and the bioeconomy.
+
+3\. Where strictly necessary as a temporary measure to respond to exceptional or unusual circumstances as referred to in Article 20 of Regulation (EU) 2021/1060, and limited to a period of 18 months, the ESF+ may support:
+
+(a) the financing of short-time work schemes without the requirement that they be combined with active measures;
+
+(b) access to healthcare including for people who are not in imminent socio-economic vulnerability.
+
+4\. Where, upon a request submitted by the Member States concerned, the Commission finds that the conditions laid down in paragraph 3 are fulfilled, it shall adopt an implementing decision specifying the period during which the temporary additional support from the ESF+ is authorised.
+
+5\. The Commission shall monitor the implementation of paragraph 3 of this Article and assess whether the temporary additional support from ESF+ is sufficient to facilitate the use of support from the ESF+ in response to the exceptional or unusual circumstances. On the basis of its assessment, the Commission shall, where appropriate, make proposals for amendments to this Regulation, including on the thematic concentration requirements set out in Article 7, except the thematic concentration requirement as specified in Article 7(5) and (6).
+
+#### Article 5 — Budget
+
+1\. The financial envelope for the implementation of the ESF+ for the period 2021 to 2027 shall be EUR 87 995 063 417 , in 2018 prices.
+
+2\. The part of the financial envelope for the implementation of the ESF+ strand under shared management to contribute to the investment for jobs and growth goal in Member States and regions as referred to Article 5(2), point (a), of Regulation (EU) 2021/1060 shall be EUR 87 319 331 844 , in 2018 prices, of which EUR 175 000 000 shall be allocated for transnational cooperation to accelerate the transfer, and facilitate the scaling up, of innovative solutions as referred to in Article 25, point (i), of this Regulation and EUR 472 980 447 , in 2018 prices, as additional funding to the outermost regions identified in Article 349 TFEU and the NUTS level 2 regions fulfilling the criteria laid down in Article 2 of Protocol No 6 on special provisions for Objective 6 in the framework of the Structural Funds in Finland, Norway and Sweden annexed to the 1994 Act of Accession (Protocol No 6).
+
+3\. The part of the financial envelope for the implementation of the EaSI strand for the period 2021 to 2027 shall be EUR 675 731 573 , in 2018 prices.
+
+4\. The amount referred to in paragraph 3 may also be used for technical and administrative assistance for the implementation of the EaSI strand, such as preparatory, monitoring, control, audit and evaluation activities including corporate information technology systems.
+
+#### Article 5a — Specific provisions linked to the mid-term review and related flexibility of the ESF+ strand under shared management
+
+1\. In 2026, the Commission shall pay 1,5 % of the total support from the ESF+ as additional one-off pre-financing, pursuant to the decision approving the programme amendment. That additional one-off pre-financing percentage in 2026 shall be increased to 9,5 % for programmes covering one or more NUTS level 2 regions bordering Russia, Belarus or Ukraine, provided that the programme does not cover the entire territory of the Member State concerned. However, where, in a Member State, NUTS level 2 regions bordering Russia, Belarus or Ukraine are included only in programmes covering the entire territory of the Member State concerned, the increased percentage shall also apply to such programmes.
+
+2\. The additional one-off pre-financing referred to in paragraph 1 of this Article shall apply only where reallocations of at least 10 % of the financial resources of the programme to one or more of the dedicated priorities established pursuant to Article 12a, 12c or 12d have been approved in the context of the mid-term review, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025 (the ‘10 % threshold’).
+
+The following reallocations within the same programme shall also count towards the 10 % threshold:
+
+(a) reallocations from the European Regional Development Fund (ERDF) or the Cohesion Fund to one or more of the dedicated priorities established for the specific objectives referred to in Article 3(1), points (a)(vi) and (vii), points (b)(v), (ix), (xi) and (xii), point (c)(iii), point (d)(vii), and points (e)(iii) and (iv), of Regulation (EU) 2021/1058 in the context of the mid-term review;
+
+(b) reallocations from the Just Transition Fund (JTF) to the dedicated priorities established to support investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) established by Regulation (EU) 2024/795 of the European Parliament and of the Council ( 1 ), or to the promotion of access to affordable housing pursuant to Regulation (EU) 2021/1056 in the context of the mid-term review;
+
+(c) reallocations from the ERDF or the Cohesion Fund to the dedicated priorities for the specific objectives referred to in Article 3(1), first subparagraph, points (a)(vi) and (b)(ix), of Regulation (EU) 2021/1058 or from the ESF+ to the dedicated priorities established pursuant to Article 12a of this Regulation or from the JTF to the dedicated priorities established to support investments contributing to STEP objectives approved in programme amendments prior to the mid-term review;
+
+(d) reallocations from the ERDF or the Cohesion Fund to priorities established for the specific objective referred to in Article 3(1), first subparagraph, point (b)(v), of Regulation (EU) 2021/1058 approved in programme amendments from 1 January 2025.
+
+3\. The following resources shall not be taken into account for the purpose of calculating the amount corresponding to the 10 % threshold:
+
+(a) resources from the European Union Recovery Instrument referred to in Article 4 of Regulation (EU) 2021/1056;
+
+(b) the additional funding for the outermost regions as referred to in Article 110(1), point (e), of Regulation (EU) 2021/1060;
+
+(c) the resources reallocated to one or more of the dedicated priorities established to support the response to natural disasters pursuant to Article 12b of this Regulation, or under the specific objective referred to in Article 3(1), point (b)(x), of Regulation (EU) 2021/1058.
+
+4\. The additional one-off pre-financing which is due to the Member State and which results from programme amendments pursuant to reallocation to the dedicated priorities referred to in paragraph 2 of this Article shall be counted as payments made in 2025 for the purpose of calculating the amounts to be de-committed pursuant to Article 105 of Regulation (EU) 2021/1060, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+5\. By way of derogation from Article 63(2) and Article 105(2) of Regulation (EU) 2021/1060, the final date for the eligibility of expenditure and decommitment shall be 31 December 2030 where programme amendments reallocating at least 10 % of the financial resources of the programme to one or more of the dedicated priorities referred to in paragraph 2 of this Article have been approved.
+
+6\. Where a Member State has only one programme covering its entire territory and that programme is financed from the ERDF, the Cohesion Fund, the ESF+ and the JTF, the derogation referred to in paragraph 5 shall apply where at least 7 % of the financial resources of the programme are reallocated to one or more of the dedicated priorities referred to in paragraph 2.
+
+7\. With regard to the programmes referred to in paragraphs 5 and 6 of this Article, where Regulation (EU) 2021/1060 establishes the final date for the purposes of the application of the performance framework, financial management, reporting and evaluation requirements, that date shall be deemed to refer to the same date in the following year. In addition, by way of derogation from Article 2, point (29), of Regulation (EU) 2021/1060, for such programmes, the final accounting year shall be deemed to refer to the period from 1 July 2030 to 30 June 2031.
+
+8\. By way of derogation from Article 112(3) of Regulation (EU) 2021/1060, the maximum co-financing rate for priorities in programmes covering one or more NUTS level 2 regions bordering Russia, Belarus or Ukraine shall be increased by 10 percentage points above the co-financing rate applicable, not exceeding 100 %. The higher co-financing rate shall not apply to programmes covering the entire territory of the Member State concerned, unless those NUTS level 2 regions are included only in programmes covering the entire territory of the Member State concerned.
+
+The derogation provided for in the first subparagraph of this paragraph shall apply only where reallocations of at least 10 % of the financial resources of the programme to one or more of the dedicated priorities referred to in paragraph 2 of this Article have been approved, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+9\. In addition to the assessment for each programme on the outcome of the mid-term review to be submitted pursuant to Article 18(2) of Regulation (EU) 2021/1060, Member States may, by 31 December 2025, resubmit a complementary assessment and related requests for programme amendments to the Commission, taking into account the possibility of dedicated priorities established pursuant to Article 12a, 12c or 12d of this Regulation. The deadlines set in Article 24 of Regulation (EU) 2021/1060 shall apply.
+
+#### Article 6 — Gender equality, equal opportunities and non-discrimination
+
+Member States and the Commission shall support specific targeted actions to promote the horizontal principles referred to in Article 9(2) and (3) of Regulation (EU) 2021/1060 and Article 28 of this Regulation that fall within any of the objectives of the ESF+. Those actions may include actions for ensuring accessibility for persons with disabilities, including in terms of information and communication technologies, and promoting the transition from residential or institutional care to family and community-based care.
+
+Through the ESF+, Member States and the Commission shall aim to increase the participation of women in employment as well as conciliation between working and personal life, combat the feminisation of poverty and gender discrimination in the labour market and in education and training.
+
+## PART II — IMPLEMENTATION UNDER SHARED MANAGEMENT
+
+### CHAPTER I — Common provisions on programming
+
+#### Article 7 — Consistency and thematic concentration
+
+1\. Member States shall programme their resources of the ESF+ strand under shared management by prioritising interventions that address the challenges identified in the European Semester, including in their national reform programmes as well as in the relevant country-specific recommendations adopted in accordance with Article 121(2) and Article 148(4) TFEU, and take into account the principles and rights set out in the European Pillar of Social Rights and the national and regional strategies relevant for ESF+ objectives, thereby contributing to the goals set out in Article 174 TFEU.
+
+Member States and, where appropriate, the Commission shall foster synergies and ensure coordination, complementarity and coherence between the ESF+ and other Union funds, programmes and instruments, both in the planning phase and during implementation. Member States and, where appropriate, the Commission shall optimise mechanisms for coordination to avoid duplication of efforts and ensure close cooperation between entities responsible for implementation to deliver coherent and streamlined support actions.
+
+2\. Member States shall allocate an appropriate amount of their resources of the ESF+ strand under shared management to address challenges identified in relevant country-specific recommendations adopted in accordance with Article 121(2) and Article 148(4) TFEU and in the European Semester falling within the scope of the specific objectives of the ESF+ set out in Article 4(1) of this Regulation.
+
+3\. Member States shall allocate an appropriate amount of their resources of the ESF+ strand under shared management for the implementation of the Child Guarantee through targeted actions and structural reforms to tackle child poverty under the specific objectives set out in Article 4(1), points (f) and (h) to (l).
+
+Member States that had an average rate above the Union average of children of less than 18 years old at risk of poverty or social exclusion for the period between 2017 and 2019, on the basis of Eurostat data, shall allocate at least 5 % of their resources of the ESF+ strand under shared management to support targeted actions and structural reforms to tackle child poverty as set out in the first subparagraph.
+
+4\. Member States shall allocate at least 25 % of their resources of the ESF+ strand under shared management to the specific objectives for the social inclusion policy area set out in Article 4(1), points (h) to (l), including the promotion of the socio-economic integration of third-country nationals.
+
+5\. Member States shall allocate at least 3 % of their resources of the ESF+ strand under shared management to support the most deprived persons under the specific objective set out in Article 4(1), point (m), or, in duly justified cases, either the specific objective set out in Article 4(1), point (l), or both of those specific objectives.
+
+The resources shall not be taken into account for verifying compliance with the minimum allocations set out in paragraphs 3 and 4.
+
+6\. Member States shall allocate an appropriate amount of their resources of the ESF+ strand under shared management to targeted actions and structural reforms to support youth employment, vocational education and training, in particular apprenticeships, and the transition from school to work, pathways to reintegrate into education or training and second chance education, in particular in the context of implementing schemes under the Youth Guarantee.
+
+Member States that had an average rate above the Union average of young people of 15 to 29 years of age who are not in employment, education or training for the period between 2017 and 2019, on the basis of Eurostat data, shall allocate at least 12,5 % of their resources of the ESF+ strand under shared management for the years 2021 to 2027 to support the targeted actions and structural reforms as set out in the first subparagraph.
+
+Outermost regions fulfilling the conditions set out in the second subparagraph shall allocate at least 12,5 % of their resources of the ESF+ strand under shared management in their programmes to the targeted actions and structural reforms as set out in the first subparagraph. This allocation shall be taken into account for verifying compliance with the minimum percentage at national level set out in the second subparagraph when applicable.
+
+When implementing targeted actions and structural reforms referred to in this paragraph, Member States shall give priority to inactive and long-term unemployed young people and put in place targeted outreach measures.
+
+7\. Paragraphs 2 to 6 of this Article shall not apply to the specific additional allocation received by the outermost regions and the NUTS level 2 regions fulfilling the criteria laid down in Article 2 of Protocol No 6.
+
+8\. Paragraphs 1 to 6 shall not apply to technical assistance.
+
+#### Article 8 — Respect for the Charter
+
+1\. All operations shall be selected and implemented while respecting the Charter of Fundamental Rights of the European Union (the ‘Charter’) and in accordance with the relevant provisions of Regulation (EU) 2021/1060.
+
+2\. In accordance with Article 69(7) of Regulation (EU) 2021/1060, Member States shall ensure the effective examination of complaints. This is without prejudice to the general possibility of citizens and stakeholders to address complaints to the Commission, including with regard to infringements of the Charter.
+
+3\. Where the Commission finds that there has been an infringement of the Charter, the Commission shall take into account the gravity of the infringement in its determination of the corrective measures to be applied in line with the relevant provisions of Regulation (EU) 2021/1060.
+
+#### Article 9 — Partnership
+
+1\. Member States shall ensure meaningful participation of the social partners and civil society organisations in the delivery of employment, education and social inclusion policies supported by the ESF+ strand under shared management.
+
+2\. Member States shall allocate an appropriate amount of their resources of the ESF+ strand under shared management in each programme to capacity building of the social partners and civil society organisations, including in the form of training, networking measures, and strengthening of the social dialogue, and to activities jointly undertaken by the social partners.
+
+Where capacity building of the social partners and civil society organisations is identified by a relevant country-specific recommendation adopted in accordance with Article 121(2) and Article 148(4) TFEU, the Member State concerned shall allocate an appropriate amount of at least 0,25 % of its resources of the ESF+ strand under shared management for that purpose.
+
+#### Article 10 — Support for the most deprived persons
+
+The resources referred to in Article 7(5) under specific objectives set out in Article 4(1), points (l) and (m), shall be programmed under a dedicated priority or programme. The co-financing rate for that priority or programme shall be 90 %.
+
+#### Article 11 — Support for youth employment
+
+Support in accordance with the second and third subparagraphs of Article 7(6) shall be programmed under a dedicated priority or programme and it shall at least include support contributing to the specific objective set out in Article 4(1), point (a), and may include support contributing to the specific objectives set out in Article 4(1), points (f) and (l).
+
+#### Article 12 — Support for relevant country-specific recommendations
+
+The actions addressing the challenges identified in relevant country-specific recommendations and in the European Semester as referred to in Article 7(2) shall be programmed under any of the specific objectives set out in Article 4(1) to support the implementation of the European Pillar of Social Rights and under one or more priorities, which can be a multi-fund priority.
+
+#### Article 12a — Support for the STEP objectives
+
+1\. Member States may use the ESF+ to provide support to the STEP objectives referred to in Article 2(1), point (b), of Regulation (EU) 2024/795, under the relevant specific objectives set out in Article 4(1) of this Regulation, including by supporting the development of skills in net-zero technologies, inter alia those based on learning programmes created by European Skills Academies, as well as the training of young people and the skilling, upskilling and reskilling of workers in net-zero technologies.
+
+2\. In addition to the pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060, where the Commission approves an amendment of a programme including one or more priorities dedicated to operations supported by the ESF+ contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795, the Commission shall pay exceptional pre-financing of 20 % on the basis of the allocation to those priorities, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025. Where such dedicated priorities have been included in a request for a programme amendment submitted to the Commission by 31 March 2025, the Commission shall pay exceptional one-off pre-financing of 30 % of the allocation to those priorities pursuant to the decision approving the programme amendment. Such exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment.
+
+In accordance with Article 90(5) of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ESF+ and shall be included in the accounts for the final accounting year.
+
+In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.
+
+In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.
+
+By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rate for dedicated priorities established to support the STEP objectives shall be 100 %.
+
+#### Article 12b — Support for alleviating the negative socio-economic consequences of natural disasters
+
+1\. Member States may use the ESF+ to provide support to alleviate the negative socio-economic consequences of natural disasters that occur between 1 January 2024 and 31 December 2025. For the purpose of this Article, a natural disaster shall be understood to be a major natural disaster or a regional natural disaster as defined, respectively, in Article 2(2) and (3) of Council Regulation (EC) No 2012/2002 ( 2 ). This may include a natural disaster resulting in direct damage below the thresholds set in Article 2(2) and (3) of that Regulation, provided that it was recognised as a natural disaster by a competent public authority of the Member State. Where the natural disaster resulting in direct damage below the thresholds set in Article 2(2) and (3) of Regulation (EC) No 2012/2002 occurs after 24 December 2024, it shall be understood to be a natural disaster provided that it is recognised as such by a competent public authority of the relevant Member State within 12 weeks of the date of the first occurrence of damage as a consequence of that natural disaster.
+
+2\. For the purposes of paragraph 1 of this Article, resources may be programmed under the dedicated priorities of the programmes concerned. For the entire programming period, the overall resources to those dedicated priorities allocated from the ESF+, as well as from the ERDF and the Cohesion Fund pursuant to Article 3(1b) of Regulation (EU) 2021/1058 shall be limited to a maximum of 10 % of the initial total national allocation of the ESF+ and the ERDF. The programme amendment concerned shall be submitted within six months of the date on which the natural disaster occurred or, where the natural disaster occurred before 24 December 2024, by 25 June 2025.
+
+3\. The dedicated priorities referred to in paragraph 2 of this Article may support any of the specific objectives set out in Article 4(1) of this Regulation.
+
+4\. Where strictly necessary as a temporary measure, short-time work schemes aiming to provide a response to the consequences of a natural disaster without the need to combine with active measures as well as access to healthcare including for people who are not in imminent socio-economic vulnerability may be eligible for financing for a maximum of 18 months from the date on which the natural disaster occurred.
+
+5\. By way of derogation from Article 19(4), Member States shall not be required to complement the delivery of food and/or basic material assistance by accompanying measures under the specific objective set out in Article 4(1), point (m), where such delivery is to respond to consequences of a natural disaster. Such delivery of food and/or basic material assistance without accompanying measures may be eligible for financing for a maximum of six months from the date on which the natural disaster occurred and in any event after 1 January 2024.
+
+6\. By way of derogation from Article 63(6) of Regulation (EU) 2021/1060, the managing authority concerned may select for support, under a dedicated priority, operations that have been physically completed or fully implemented before the submission of the application for funding to the managing authority, provided that the operation provides a response to a natural disaster which occurs between 1 January 2024 and 31 December 2025.
+
+7\. The Commission shall pay 25 % of the allocation to the dedicated priorities referred to in paragraph 2 of this Article, in accordance with the decision approving the programme amendment as exceptional pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060. That exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment, subject to the availability of funds. Where the allocation to those priorities is subsequently increased, an additional pre-financing amount shall be paid, corresponding to 25 % of the increase.
+
+In accordance with Article 90(5), first subparagraph, of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ESF+ and shall be included in the accounts for the final accounting year.
+
+In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.
+
+In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.
+
+8\. By way of derogation from Article 112(3) of Regulation (EU) 2021/1060, the maximum co-financing rate for a dedicated priority established to support the alleviation of the negative socio-economic consequences of a natural disaster pursuant to paragraph 2 of this Article shall be 95 %.
+
+Member States shall ensure that support from another Union instrument, from a national instrument or from a private insurance scheme received for operations selected in response to a natural disaster, is deducted from the expenditure included in the payment application submitted to the Commission.
+
+#### Article 12c — Support for the development of skills in civil preparedness, in the defence industry including for dual-use capabilities, and in cybersecurity
+
+1\. Member States may use the ESF+ to provide support for the development of skills in civil preparedness, in the defence industry including for dual-use capabilities, and in cybersecurity under dedicated priorities, prioritising skills related to dual-use capabilities and civil preparedness. When selecting operations pursuant to Article 73 of Regulation (EU) 2021/1060, Member States shall give priority to micro, small and medium-sized enterprises, public employment services and the social economy. The dedicated priorities may support any of the specific objectives set out in Article 4(1), points (a) to (g), of this Regulation.
+
+2\. Resources allocated to the dedicated priorities referred to in paragraph 1 of this Article shall not be taken into account as a basis for calculating compliance with the thematic concentration requirements provided for in Article 7.
+
+3\. In addition to the yearly pre-financing of the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060, the Commission shall pay 20 % of the allocation to the dedicated priorities referred to in paragraph 1 of this Article pursuant to the decision approving the programme amendment as exceptional one-off pre-financing, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+Such exceptional one-off pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment pursuant to Article 24(4) of Regulation (EU) 2021/1060.
+
+4\. The amount paid as exceptional one-off pre-financing shall, pursuant to Article 90(5) of Regulation (EU) 2021/1060, be cleared from the Commission accounts no later than with the final accounting year.
+
+Any interest generated by such exceptional one-off pre-financing shall, pursuant to Article 90(6) of Regulation (EU) 2021/1060, be used for the programme concerned in the same way as the ESF+ and be included in the accounts for the final accounting year.
+
+Pursuant to Article 97(1) of Regulation (EU) 2021/1060, such exceptional one-off pre-financing shall not be suspended.
+
+The pre-financing to be taken into account for the purpose of calculating amounts to be decommitted shall, pursuant to Article 105(1) of Regulation (EU) 2021/1060, include any exceptional one-off pre-financing paid.
+
+5\. By way of derogation from Article 112(3) of Regulation (EU) 2021/1060, the maximum co-financing rate for dedicated priorities referred to in paragraph 1 of this Article shall be increased by 10 percentage points above the co-financing rate applicable, not exceeding 100 %.
+
+6\. By way of derogation from Article 49(3) of Regulation (EU) 2021/1060, for operations supported under the dedicated priority referred to in paragraph 1 of this Article, the Member State concerned shall not be required to make the data relating to those operations publicly available where such disclosure is not permitted for reasons of security or public order pursuant to Article 69(5) of Regulation (EU) 2021/1060. To that end, Member States shall inform the Commission before selecting the operation concerned for support. This subparagraph is without prejudice to the rights of the Commission and of the European Court of Auditors to access the information necessary to perform their functions in relation to verifications and audits and the European Parliament’s duty to exercise political control pursuant to Article 14 TEU and monitor the implementation of the Union budget pursuant to Article 319 TFEU.
+
+Beneficiaries shall not be subject to the requirements set out in Article 50(1), points (c), (d) and (e), of Regulation (EU) 2021/1060 for operations supported under the dedicated priority referred to in paragraph 1 of this Article, where the public display of information on the support or the organisation of a communication event or activity is not required for reasons of security or public order pursuant to Article 69(5) of Regulation (EU) 2021/1060.
+
+The Commission shall inform the European Parliament at least once a year of the number of operations that are the subject of the derogation provided for in the second subparagraph, as well as their total cost, in an aggregated manner, with due regard to confidentiality requirements.
+
+#### Article 12d — Support for adaptation linked to decarbonisation
+
+1\. Member States may use the ESF+ to provide targeted support for training aiming at skilling, up-skilling and re-skilling with a view to adaptation of workers, enterprises and entrepreneurs to change contributing to the decarbonisation of production capacities under dedicated priorities, with the objective of maintaining competitiveness, sustainability and innovation during the green transition. When selecting operations pursuant to Article 73 of Regulation (EU) 2021/1060, Member States shall give priority to micro, small and medium-sized enterprises, public employment services and the social economy. The dedicated priorities may support any of the specific objectives set out in Article 4(1), points (a) to (g), of this Regulation.
+
+2\. Member States may support the promotion of collaboration between different organisations, such as educational institutions, to support skills development in the areas referred to in paragraph 1.
+
+3\. For the purposes of paragraph 1 of this Article, the Member State concerned shall submit a reasoned request for a programme amendment in accordance with Article 24(1) of Regulation (EU) 2021/1060. Where a Member State already has programmes which include one or more priorities fulfilling the conditions set out in paragraph 1 of this Article, the Member State shall submit a request to the Commission to consider the priorities concerned as dedicated priorities for the purposes of paragraph 1 of this Article.
+
+4\. In addition to the yearly pre-financing of the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060, the Commission shall pay 20 % of the allocation to the dedicated priorities referred to in paragraph 1 of this Article pursuant to the decision approving the programme amendment as exceptional one-off pre-financing, provided that the request for the programme amendment is submitted to the Commission by 31 December 2025.
+
+Such exceptional one-off pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment pursuant to Article 24(4) of Regulation (EU) 2021/1060.
+
+5\. The amount paid as exceptional one-off pre-financing shall, pursuant to Article 90(5) of Regulation (EU) 2021/1060, be cleared from the Commission accounts no later than with the final accounting year.
+
+Any interest generated by such exceptional one-off pre-financing shall, pursuant to Article 90(6) of Regulation (EU) 2021/1060, be used for the programme concerned in the same way as the ESF+ and be included in the accounts for the final accounting year.
+
+Pursuant to Article 97(1) of Regulation (EU) 2021/1060, such exceptional one-off pre-financing shall not be suspended.
+
+The pre-financing to be taken into account for the purpose of calculating amounts to be decommitted shall, pursuant to Article 105(1) of Regulation (EU) 2021/1060, include any exceptional one-off pre-financing paid.
+
+6\. By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rate for dedicated priorities referred to in paragraph 1 of this Article shall be increased by 10 percentage points above the co-financing rate applicable, not exceeding 100 %.
+
+### CHAPTER II — General support from the ESF+ strand under shared management
+
+#### Article 13 — Scope
+
+This Chapter applies to support from the ESF+ strand under shared management contributing to specific objectives set out in Article 4(1), points (a) to (l) (general support from the ESF+ strand under shared management).
+
+#### Article 14 — Social innovative actions
+
+1\. Member States shall support actions of social innovation and social experimentation, including actions with a socio-cultural component or strengthening bottom-up approaches based on partnerships involving public authorities, the social partners, social enterprises, the private sector and civil society.
+
+2\. Member States may support the scaling up of innovative approaches tested on a small scale and developed under the EaSI strand and other Union programmes.
+
+3\. Innovative actions and approaches may be programmed under any of the specific objectives set out in Article 4(1), points (a) to (l).
+
+4\. Member States shall dedicate at least one priority to the implementation of paragraph 1 or 2, or both. The maximum co-financing rate for such priorities may be increased to 95 % for a maximum of 5 % of the national resources under the ESF+ strand under shared management.
+
+5\. Member States shall identify, either in their programmes or at a later stage during implementation, fields for social innovation and social experimentation that correspond to specific needs of Member States.
+
+6\. The Commission shall facilitate capacity building for social innovation, in particular through supporting mutual learning, establishing networks, and disseminating and promoting good practices and methodologies.
+
+#### Article 15 — Transnational cooperation
+
+Member States may support transnational cooperation actions under any of the specific objectives set out in Article 4(1), points (a) to (l).
+
+#### Article 16 — Eligibility
+
+1\. In addition to the non-eligible costs referred to in Article 64 of Regulation (EU) 2021/1060, the following costs shall not be eligible for general support from the ESF+ strand under shared management:
+
+(a) the purchase of land and real estate as well as infrastructure; and
+
+(b) the purchase of furniture, equipment and vehicles, except where such purchase is necessary for achieving the objective of the operation, or those items are fully depreciated during the operation, or the purchase of those items is the most economic option.
+
+2\. Contributions in kind in the form of allowances or salaries disbursed by a third party for the benefit of the participants in an operation may be eligible for a contribution from general support from the ESF+ strand under shared management provided that the contributions in kind are incurred in accordance with national rules, including accountancy rules, and do not exceed the cost borne by the third party.
+
+3\. The specific additional allocation received by the outermost regions and the NUTS level 2 regions fulfilling the criteria laid down in Article 2 of Protocol No 6 shall be used to support the achievement of the specific objectives set out in Article 4(1).
+
+4\. Direct staff costs shall be eligible for a contribution from general support from the ESF+ strand under shared management if they are in line with the beneficiary’s usual remuneration practice for the category of function concerned or in line with applicable national law, collective agreements or official statistics.
+
+#### Article 17 — Indicators and reporting
+
+1\. Programmes benefitting from general support from the ESF+ strand under shared management shall use common output and result indicators, as set out in Annex I to monitor progress in implementation. The programmes may also use programme-specific indicators.
+
+2\. Where a Member State allocates its resources to the specific objective set out in Article 4(1), point (l), to target the most deprived persons, in line with the first subparagraph of Article 7(5), the common indicators as set out in Annex II shall apply.
+
+3\. The baseline for common and programme-specific output indicators shall be set at zero. Where relevant to the nature of the operations supported, cumulative quantified milestones and target values of those indicators shall be set in absolute numbers. The reported values of the output indicators shall be expressed in absolute numbers.
+
+4\. The reference value of common and programme-specific result indicators for which a target value for 2029 have been set, shall be fixed using the latest available data or other relevant sources of information. Targets for common result indicators shall be fixed in absolute numbers or as a percentage. Programme-specific result indicators and related targets may be expressed in quantitative or qualitative terms. The reported values of common result indicators shall be expressed in absolute numbers.
+
+5\. Data on the indicators for participants shall only be transmitted when all data required under point 1.1 of Annex I relating to that participant are available.
+
+6\. Where data are available in registers or equivalent sources, Member States may enable the managing authorities and other bodies entrusted with data collection necessary for the monitoring and the evaluation of general support from the ESF+ strand under shared management to obtain data from those registers or equivalent sources, in accordance with Article 6(1), points (c) and (e), of Regulation (EU) 2016/679.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 37 to amend the indicators in Annexes I and II where considered necessary to ensure effective assessment of progress in the implementation of programmes. Such amendments shall be proportionate, taking into account the administrative burden borne by Member States and beneficiaries. Delegated acts in accordance with this paragraph shall not change the methodology for data collection as laid down in Annexes I and II.
+
+### CHAPTER III — ESF+ support for addressing material deprivation
+
+#### Article 18 — Scope
+
+This Chapter applies to ESF+ support contributing to the specific objective set out in Article 4(1), point (m).
+
+#### Article 19 — Principles
+
+1\. The ESF+ support for addressing material deprivation shall be used only to support the distribution of food and goods that are in conformity with the Union law on consumer product safety.
+
+2\. Member States and beneficiaries shall choose the food and/or the basic material assistance on the basis of objective criteria related to the needs of the most deprived persons. The selection criteria for the food, and where appropriate for goods, shall also take into consideration climate-related and environmental aspects, in particular with a view to reduction of food waste and single-use plastics. Where appropriate, the choice of the type of food to be distributed shall be made having considered their contribution to the balanced diet of the most deprived persons.
+
+The food and/or basic material assistance may be provided directly to the most deprived persons or indirectly, for example, through vouchers or cards, in electronic or other form, provided that they can be redeemed only against food and/or basic material assistance. Support for the most deprived persons shall be additional to any social benefit that may be provided to end recipients by national social systems or according to national law.
+
+The food provided for the most deprived persons may be obtained from the use, processing or sale of the products disposed of in accordance with Article 16(2) of Regulation (EU) No 1308/2013 of the European Parliament and of the Council ( 3 ), provided that this is economically the most favourable option and does not unduly delay the delivery of food to the most deprived persons.
+
+Any amount derived from such a transaction shall be used for the benefit of the most deprived persons, in addition to the amounts already available to the programme.
+
+3\. The Commission and Member States shall ensure that aid provided in the framework of the ESF+ support for addressing material deprivation respects the dignity and prevents stigmatisation of the most deprived persons.
+
+4\. Member States shall complement the delivery of food and/or basic material assistance by accompanying measures, such as referrals to competent services, under the specific objective set out in Article 4(1), point (m), or by promoting the social integration of the most deprived persons under the specific objective set out in Article 4(1), point (l).
+
+#### Article 20 — Content of the priority
+
+1\. A priority concerning support contributing to the specific objective set out in Article 4(1), point (m), shall set out:
+
+(a) the type of support;
+
+(b) the main target groups; and
+
+(c) a description of the national or regional schemes of support.
+
+2\. In the case of programmes limited to support as referred to in paragraph 1 and the related technical assistance, the priority shall also include the criteria for the selection of operations.
+
+#### Article 21 — Eligibility of operations
+
+1\. The food and/or basic material assistance provided to the most deprived persons may be purchased by or on behalf of the beneficiary or made available free of charge to the beneficiary.
+
+2\. The food and/or basic material assistance shall be distributed free of charge to the most deprived persons.
+
+#### Article 22 — Eligibility of expenditure
+
+1\. The eligible costs of the ESF+ support for addressing material deprivation shall be:
+
+(a) the cost of purchasing food and/or basic material assistance, including costs related to transporting food and/or basic material assistance to the beneficiaries delivering the food and/or basic material assistance to the end recipients;
+
+(b) where the transport of the food and/or basic material assistance to the beneficiaries distributing them to the end recipients is not covered by point (a), the costs borne by the purchasing body related to transporting food and/or basic material assistance to the storage depots or the beneficiaries and storage costs at a flat-rate of 1 % of the costs referred to in point (a) or, in duly justified cases, costs actually incurred and paid;
+
+(c) the administrative, transport, storage and preparation costs borne by the beneficiaries involved in the distribution of the food and/or basic material assistance to the most deprived persons at a flat-rate of 7 % of the costs referred to in point (a) or 7 % of the costs of the value of the food disposed of in accordance with Article 16 of Regulation (EU) No 1308/2013;
+
+(d) the cost of collection, transport, storage and distribution of food donations and directly related awareness raising activities; and
+
+(e) the costs of accompanying measures undertaken by or on behalf of beneficiaries and declared by the beneficiaries delivering the food and/or basic material assistance to the most deprived persons at a flat- rate of 7 % of the costs referred to in point (a).
+
+2\. Costs for the preparation of voucher or card schemes in electronic or other form, and corresponding operating costs are eligible under technical assistance provided they are borne by the managing authority or another public body which is not a beneficiary that distributes the vouchers or cards to end recipients, or provided they are not covered by the costs set out in of paragraph 1, point (c).
+
+3\. A reduction of the eligible costs referred to in paragraph 1, point (a) because the body responsible for the purchase of food and/or basic material assistance did not comply with the applicable law, shall not lead to a reduction of the eligible costs set out in points (c) and (e) of that paragraph.
+
+4\. The following costs shall not be eligible:
+
+(a) interest on debt;
+
+(b) purchase of infrastructure; and
+
+(c) costs of second-hand goods.
+
+#### Article 23 — Indicators and reporting
+
+1\. Priorities addressing material deprivation shall use common output and result indicators, as set out in Annex III to monitor progress in implementation. Those priorities may also use programme-specific indicators.
+
+2\. The reference values of common and programme-specific result indicators shall be established.
+
+3\. Managing authorities shall report twice to the Commission the results of a structured survey of the end recipients regarding the support received from the ESF+ and also focusing on their living conditions and the nature of their material deprivation, carried out during the previous year. That survey shall be based on the model which shall be established by the Commission by means of an implementing act. The first such reporting shall take place by 30 June 2025 and the second by 30 June 2028.
+
+4\. The Commission shall adopt an implementing act establishing the model to be used for the structured survey of end recipients in accordance with the advisory procedure referred to in Article 38(2) in order to ensure uniform conditions for the implementation of this Article.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 37 to amend the indicators in Annex III where considered to be necessary to ensure effective assessment of progress in the implementation of programmes. Such amendments shall be proportionate taking into account the administrative burden borne by Member States and beneficiaries. Delegated acts in accordance with this paragraph shall not change the methodology for data collection as laid down in Annex III.
+
+#### Article 24 — Audit
+
+Audit of operations may cover all stages of their implementation and all levels of the distribution chain, with the sole exception of control of the end recipients, unless a risk assessment establishes a specific risk of irregularity or fraud.
+
+## PART III — IMPLEMENTATION UNDER DIRECT AND INDIRECT MANAGEMENT
+
+### CHAPTER I — Operational objectives
+
+#### Article 25 — Operational objectives
+
+The EaSI strand shall have the following operational objectives:
+
+(a) to develop high-quality comparative analytical knowledge in order to ensure that policies to achieve the specific objectives set out in Article 4(1) are based on sound evidence and are relevant to needs, challenges and local conditions;
+
+(b) to facilitate effective and inclusive information sharing, mutual learning, peer reviews and dialogue on policies in the policy areas set out in Article 4(1) in order to assist the design of appropriate policy measures;
+
+(c) to support social experimentation in the policy areas set out in Article 4(1) and build up the stakeholders’ capacity at national and local levels to prepare, design and implement, transfer or scale up the tested social policy innovations, in particular with regard to the scaling up of projects developed by local stakeholders in the field of the socio-economic integration of third-country nationals;
+
+(d) to facilitate the voluntary geographical mobility of workers and increase employment opportunities through developing and providing specific support services to employers and jobseekers with a view to the development of integrated European labour markets, ranging from pre-recruitment preparation to post-placement assistance in order to fill vacancies in certain sectors, professions, countries, border regions or for particular groups, such as people in vulnerable situations;
+
+(e) to support the development of the market ecosystem around the provision of microfinance to microenterprises in start-up and development phases, in particular those that are created by or employ people in vulnerable situations;
+
+(f) to support networking at Union level and dialogue with and among relevant stakeholders in the policy areas set out in Article 4(1) and contribute to build up the institutional capacity of involved stakeholders, including the public employment services, public social security and health insurance institutions, civil society, microfinance institutions and institutions providing finance to social enterprises and the social economy;
+
+(g) to support the development of social enterprises and the emergence of a social investment market, facilitating public and private interactions and the participation of foundations and philanthropic actors in that market;
+
+(h) to provide guidance for the development of social infrastructure needed for the implementation of the European Pillar of Social Rights;
+
+(i) to support transnational cooperation in order to accelerate the transfer and facilitate the scaling up, of innovative solutions, in particular for the policy areas set out in Article 4(1); and
+
+(j) to support the implementation of relevant international social and labour standards in the context of harnessing globalisation and the external dimension of Union policies in the policy areas set out in Article 4(1).
+
+### CHAPTER II — Eligibility
+
+#### Article 26 — Eligible actions
+
+1\. Only actions pursuing the objectives referred to in Article 3(1) and (2), Article 4(1) and Article 25 shall be eligible for funding.
+
+2\. The EaSI strand may support the following actions:
+
+(a) analytical activities, including in relation to third countries, in particular:
+
+(i) surveys, studies, statistical data, methodologies, classifications, micro-simulations, indicators and support for European-level observatories and benchmarks;
+
+(ii) social experimentation evaluating social innovations;
+
+(iii) monitoring and assessment of the transposition and application of Union law;
+
+(b) policy implementation, in particular:
+
+(i) cross-border partnerships, in particular between public employment services, the social partners and civil society, and support services in cross-border regions;
+
+(ii) a Union-wide labour-targeted mobility scheme at Union level to fill job vacancies where labour market shortcomings have been identified;
+
+(iii) support for microfinance institutions and institutions providing finance to social enterprises, including through blending operations such as asymmetric risk sharing or the reduction of transaction costs, as well as support for the development of social infrastructure and skills;
+
+(iv) support for transnational cooperation and partnership with a view to transferring and scaling up innovative solutions;
+
+(c) capacity building, in particular of:
+
+(i) networks at Union level related to the policy areas set out in Article 4(1);
+
+(ii) national contact points providing guidance, information and assistance related to the implementation of the EaSI strand;
+
+(iii) the administrations, social security institutions and employment services responsible for promoting labour mobility, of microfinance institutions and institutions providing finance to social enterprises or other social investment actors, as well as networking, in Member States or third countries associated to the EaSI strand pursuant to Article 29;
+
+(iv) stakeholders, including the social partners and civil society organisations, in view of transnational cooperation;
+
+(d) communication and dissemination activities, in particular:
+
+(i) mutual learning through exchange of good practices, innovative approaches, results of analytical activities, peer reviews, and benchmarking;
+
+(ii) guides, reports, informative material and media coverage of initiatives related to the policy areas set out in Article 4(1);
+
+(iii) information systems disseminating evidence related to the policy areas set out in Article 4(1);
+
+(iv) events of the Presidency of the Council and conferences, seminars and awareness-raising activities.
+
+#### Article 27 — Eligible entities
+
+1\. Subject to the criteria set out in Article 197 of the Financial Regulation, the following entities shall be eligible:
+
+(a) legal entities established in any of the following countries or territories:
+
+(i) a Member State or an overseas country or territory linked to it;
+
+(ii) a third country which is associated to the EaSI strand pursuant to Article 29;
+
+(iii) a third country listed in the work programme, subject to conditions specified in paragraphs 2 and 3 of this Article;
+
+(b) any legal entity established under Union law or any international organisation.
+
+2\. Legal entities established in a third country which is not associated to the EaSI strand pursuant to Article 29 shall be exceptionally eligible to participate where necessary for the achievement of the objectives of a given action.
+
+3\. Legal entities established in a third country which is not associated to the EaSI strand pursuant to Article 29 shall, in principle, bear the cost of their participation.
+
+#### Article 28 — Horizontal principles
+
+1\. The Commission shall ensure that gender equality, gender mainstreaming and the integration of gender perspective are taken into account and promoted throughout the preparation, implementation, monitoring, reporting, and evaluation of the operations supported from the EaSI strand.
+
+2\. The Commission shall take appropriate steps to prevent any discrimination based on gender, racial or ethnic origin, religion or belief, disability, age or sexual orientation during the preparation, implementation, monitoring, reporting, and evaluation of the operations supported from the EaSI strand. In particular, accessibility for persons with disabilities shall be taken into account throughout the preparation and implementation of the EaSI strand.
+
+#### Article 29 — Participation of third countries
+
+The EaSI strand shall be open to the participation of the following third countries by means of an agreement with the Union:
+
+(a) members of the European Free Trade Association which are members of the European Economic Area, in accordance with the conditions laid down in the Agreement on the European Economic Area;
+
+(b) acceding countries, candidate countries and potential candidates, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective framework agreements and Association Council decisions or similar agreements and in accordance with the specific conditions laid down in agreements between the Union and those countries;
+
+(c) other third countries, in accordance with the conditions laid down in a specific agreement covering the participation of the third country in the EaSI strand, provided that the agreement:
+
+(i) ensures a fair balance as regards the contributions and benefits of the third country participating in the Union programmes;
+
+(ii) lays down the conditions of participation in the programmes, including the calculation of financial contributions to individual programmes or strands of programmes, and their administrative costs;
+
+(iii) does not confer to the third country a decisional power on the EaSI strand;
+
+(iv) guarantees the rights of the Union to ensure sound financial management and to protect its financial interests.
+
+The contributions referred to in this Article, first paragraph, point (c)(ii), shall constitute assigned revenues in accordance with Article 21(5) of the Financial Regulation.
+
+### CHAPTER III — General provisions
+
+#### Article 30 — Forms of Union funding and methods of implementation
+
+1\. The EaSI strand may provide funding in any of the forms laid down in the Financial Regulation for financial contributions, in particular grants, prizes, procurement and voluntary payments to international organisations of which the Union is a member or in whose work it participates.
+
+2\. The EaSI strand shall be implemented directly as provided for in Article 62(1), first subparagraph, point (a), of the Financial Regulation or indirectly with bodies referred to in Article 62(1), first subparagraph, point (c), of that Regulation.
+
+When awarding grants, the evaluation committee referred to in Article 150 of the Financial Regulation may be composed of external experts.
+
+3\. Blending operations under the EaSI strand shall be implemented in accordance with Regulation (EU) 2021/523 and Title X of the Financial Regulation.
+
+#### Article 31 — Work programme
+
+1\. The EaSI strand shall be implemented on the basis of work programmes referred to in Article 110 of Financial Regulation. The content of those work programmes shall be established in line with the operational objectives set out in Article 25 of this Regulation and with the eligible actions set out in Article 26 of this Regulation. Work programmes shall set out, where applicable, the overall amount reserved for blending operations.
+
+2\. The Commission shall gather expertise on the preparation of the work programmes by consulting the working group referred to in Article 39(8).
+
+3\. The Commission shall foster synergies and ensure effective coordination between ESF+ and other relevant Union instruments as well as between the ESF+ strands.
+
+#### Article 32 — Monitoring and reporting
+
+Indicators to report on the progress of the EaSI strand towards the achievement of the specific objectives set out in Article 4(1) and the operational objectives set out in Article 25 are set out in Annex IV.
+
+The performance reporting system shall ensure that data for monitoring the implementation and results of the EaSI strand are collected efficiently, effectively and in a timely manner.
+
+To that end, proportionate reporting requirements shall be imposed on recipients of Union funds and, where relevant, Member States.
+
+#### Article 33 — Protection of the financial interests of the Union
+
+Where a third country participates in the EaSI strand by means of a decision adopted pursuant to an international agreement, or on the basis of any other legal instrument, the third country shall grant the necessary rights and access required for the authorising officer responsible, OLAF and the Court of Auditors to comprehensively exercise their respective competences. In the case of OLAF, such rights shall include the right to carry out investigations, including on-the-spot checks and inspections, as provided for in Regulation (EU, Euratom) No 883/2013.
+
+#### Article 34 — Evaluation
+
+1\. Evaluations shall be carried out in a timely manner to feed into the decision-making process.
+
+2\. By 31 December 2024, the Commission shall carry out a mid-term evaluation of the EaSI strand, on the basis of sufficient information available about its implementation.
+
+The Commission shall assess the performance of the programme pursuant to Article 34 of the Financial Regulation, and in particular its effectiveness, efficiency, coherence, relevance and Union added value, including vis-à-vis the horizontal principles referred to in Article 28 of this Regulation, and measure, on a qualitative and quantitative basis, progress made in meeting the objectives of the EaSI strand.
+
+The mid-term evaluation shall be based on the information generated by the monitoring arrangements and indicators established pursuant to Article 32, with a view to making any adjustments needed to the policy and funding priorities.
+
+3\. By 31 December 2031, at the end of the implementation period a final evaluation of the EaSI strand shall be carried out by the Commission.
+
+4\. The Commission shall submit the conclusions of the mid-term and final evaluations accompanied by its observations, to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.
+
+#### Article 35 — Audits
+
+Audits on the use of the Union contribution carried out by persons or entities, including by other than those mandated by the Union institutions or bodies, shall form the basis of the overall assurance pursuant to Article 127 of the Financial Regulation.
+
+#### Article 36 — Information, communication and publicity
+
+1\. The recipients of Union funding shall acknowledge the origin of those funds and ensure the visibility of the Union funding, in particular when promoting the actions and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+
+2\. The Commission shall implement information and communication actions relating to the EaSI strand, to actions taken pursuant to the EaSI strand and to the results obtained.
+
+Financial resources allocated to the EaSI strand shall also contribute to the corporate communication of the political priorities of the Union, insofar as those priorities are related to the objectives referred to in Article 3(1) and (2), Article 4(1) and Article 25.
+
+## PART IV — FINAL PROVISIONS
+
+#### Article 37 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 17(7) and Article 23(5) shall be conferred on the Commission for an indeterminate period of time from 1 July 2021.
+
+3\. The delegation of power referred to in Article 17(7) and Article 23(5) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 17(7) or Article 23(5) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 38 — Committee procedure for the ESF+ strand under shared management
+
+1\. The Commission shall be assisted by the committee referred to in Article 115(1) of Regulation (EU) 2021/1060. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 39 — Committee set up under Article 163 TFEU
+
+1\. The Commission shall be assisted by the Committee set up under Article 163 TFEU (the ‘ESF+ Committee’).
+
+2\. Each Member State shall appoint one government representative, one representative of the workers’ organisations, one representative of the employers’ organisations and one alternate for each member for a maximum period of seven years. In the absence of a member, the alternate shall be automatically entitled to take part in the proceedings.
+
+3\. The ESF+ Committee shall include one representative from each of the organisations representing workers’ organisations and employers’ organisations at Union level.
+
+4\. The ESF+ Committee, including its working groups referred to in paragraph 7, may invite non-voting representatives of stakeholders to attend its meetings. This may include representatives of the European Investment Bank and the European Investment Fund as well as relevant civil society organisations.
+
+5\. The ESF+ Committee shall be consulted on the planned use of technical assistance referred to in Article 35 of Regulation (EU) 2021/1060 in the case of support from the ESF+ strand under shared management, as well as on other issues having an impact on the implementation of strategies at Union level relevant to the ESF+.
+
+6\. The ESF+ Committee may deliver opinions on:
+
+(a) questions related to the ESF+ contribution to the implementation of the European Pillar of Social Rights, including country-specific recommendations and European Semester-related priorities, such as national reform programmes;
+
+(b) issues concerning Regulation (EU) 2021/1060 relevant for the ESF+;
+
+(c) questions related to the ESF+ referred to it by the Commission other than those referred to in paragraph 5.
+
+The opinions of the ESF+ Committee shall be adopted by an absolute majority of the votes validly cast, and shall be communicated to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, for information. The Commission shall inform the ESF+ Committee in writing of the manner in which it has taken account of its opinions.
+
+7\. The ESF+ Committee shall set up working groups for each ESF+ strand.
+
+8\. The Commission shall consult the working group dealing with the EaSI strand on the work programme. It shall inform that working group of the manner in which it has taken account of the results of that consultation. That working group shall ensure that a consultation of the work programme with stakeholders, including with representatives of civil society, takes place.
+
+#### Article 40 — Transitional provisions for the ESF+ strand under shared management
+
+Regulation (EU) No 1304/2013, Regulation (EU) No 223/2014 or any act adopted under those Regulations shall continue to apply to programmes and operations supported under those Regulations during the 2014 to 2020 programming period.
+
+#### Article 41 — Transitional provisions for the EaSI strand
+
+1\. Regulation (EU) No 1296/2013 is repealed with effect from 1 January 2021. Any references to Regulation (EU) No 1296/2013 shall be construed as references to this Regulation.
+
+2\. The financial envelope for the implementation of the EaSI strand may also cover technical and administrative assistance expenses necessary to ensure the transition between the ESF+ and the measures adopted pursuant to Regulation (EU) No 1296/2013.
+
+3\. If necessary, appropriations may be entered in the Union budget beyond 2027 to cover the expenses provided for in Article 5(4), to enable the management of actions not completed by 31 December 2027.
+
+4\. Repayments from financial instruments established by Regulation (EU) No 1296/2013 shall be invested in the financial instruments of the social investment and skills policy window referred to in Article 8(1), point (d), of Regulation (EU) 2021/523.
+
+5\. In accordance with Article 193(2), second subparagraph, point (a), of the Financial Regulation, in duly justified cases specified in the financing decision and for a limited period, activities supported under this Regulation and the underlying costs may be considered eligible as of 1 January 2021, even if they were implemented and incurred before the grant application was submitted.
+
+#### Article 42 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2021 with regard to the EaSI strand.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — COMMON INDICATORS FOR GENERAL SUPPORT FROM THE ESF+ STRAND UNDER SHARED MANAGEMENT
+
+Personal data are to be broken down by gender (women, men, non-binary persons ( 4 )).
+
+If certain results are not possible, data for those results do not have to be collected or reported.
+
+Where appropriate, common output indicators can be reported based on the target group of the operation.
+
+1\. Common output indicators related to operations targeting people
+
+1.1. Common output indicators for participants are:
+
+— unemployed, including long-term unemployed ( *1 ),
+
+— long-term unemployed (*1) ,
+
+— inactive (*1) ,
+
+— employed, including self-employed (*1) ,
+
+— number of children below 18 years of age (*1) ,
+
+— young people between 18 and 29 years of age (*1) ,
+
+— number of participants of 55 years of age and above (*1) ,
+
+— with lower secondary education or less (ISCED 0-2) (*1) ,
+
+— with upper secondary (ISCED 3) or post-secondary education (ISCED 4) (*1) ,
+
+— with tertiary education (ISCED 5 to 8) (*1) ,
+
+— total number of participants ( 5 ).
+
+Indicators listed under this point do not apply to ESF+ support contributing to the specific objective set out in Article 4(1), point (l), except the following indicators: ‘number of children below 18 years of age’, ‘young people between 18 and 29 years of age’, ‘number of participants of 55 years of age and above’ and ‘total number of participants’.
+
+Where data are collected from registers or equivalent sources, Member States may use national definitions.
+
+1.2. Other common output indicators for participants are:
+
+— participants with disabilities ( *2 ),
+
+— third-country nationals (*1) ,
+
+— participants with a foreign background (*1) ,
+
+— minorities (including marginalised communities, such as Roma people) (*2) ,
+
+— homeless or affected by housing exclusion (*1) ,
+
+— participants from rural areas (*1) ( 6 ).
+
+Data collection is necessary only where applicable and relevant.
+
+Values of the indicators listed under point 1.2 can be determined based on informed estimates provided by the beneficiary.
+
+For indicators listed under point 1.2 Member States may apply national definitions, except for the following indicators: ‘third-country nationals’ and ‘participants from rural areas’.
+
+2\. Common output indicators for entities
+
+Common output indicators for entities are:
+
+— number of supported public administrations or public services at national, regional or local level,
+
+— number of supported micro, small and medium-sized enterprises (including cooperative enterprises and social enterprises).
+
+Where data are collected from registers or equivalent sources, Member States may use national definitions.
+
+3\. The common immediate result indicators for participants
+
+The common immediate result indicators for participants are:
+
+— participants engaged in job searching upon leaving (*1) ,
+
+— participants in education or training upon leaving (*1) ,
+
+— participants gaining a qualification upon leaving (*1) ,
+
+— participants in employment, including self-employment, upon leaving (*1) .
+
+Indicators listed under this point do not apply to ESF+ support contributing to the specific objective set out in Article 4(1), point (l).
+
+Where data are collected from registers or equivalent sources, Member States may use national definitions.
+
+4\. Common longer-term result indicators for participants
+
+Common longer-term result indicators for participants are:
+
+— participants in employment, including self-employment, six months after leaving (*1) ,
+
+— participants with an improved labour market situation six months after leaving (*1) .
+
+Indicators listed under this point do not apply to ESF+ support contributing to the specific objective set out in Article 4(1), point (l).
+
+Where data are collected from registers or equivalent sources, Member States may use national definitions.
+
+Common longer-term result indicators for participants shall be reported by 31 January 2026 in accordance with Article 42(1) of Regulation (EU) 2021/1060 and in the final performance report referred to in Article 43 of that Regulation.
+
+As a minimum requirement, common longer-term indicators for participants shall be based on a representative sample of participants within the specific objectives set out in Article 4(1), points (a) to (k). Internal validity of the sample is to be ensured in such a way that the data can be generalised at the level of the specific objective.
+
+## ANNEX II — COMMON INDICATORS FOR THE ESF+ ACTIONS TARGETING SOCIAL INCLUSION OF THE MOST DEPRIVED PERSONS WITHIN THE SPECIFIC OBJECTIVE SET OUT IN ARTICLE 4(1), POINT (L), IN LINE WITH THE FIRST SUBPARAGRAPH OF ARTICLE 7(5)
+
+Personal data are to be broken down by gender (women, men, non-binary persons ( 7 )).
+
+1\. Common output indicators related to operations targeting people
+
+1.1. Common output indicators for participants are:
+
+— total number of participants,
+
+— number of children below 18 years of age ( *3 ),
+
+— number of young people between 18 and 29 years of age (*3) ,
+
+— number of participants of 65 years of age and above (*3) .
+
+Values of the indicators listed under point 1.1 can be determined based on informed estimates provided by the beneficiary.
+
+1.2. Other common output indicators are:
+
+— participants with disabilities ( *4 ),
+
+— third-country nationals (*3) ,
+
+— number of participants with a foreign background (*3) , minorities (including marginalised communities, such as Roma people) (*4) ,
+
+— homeless or affected by housing exclusion (*3) .
+
+Data collection is necessary only where applicable and relevant.
+
+Values of the indicators listed under point 1.2 can be determined based on informed estimates provided by the beneficiary.
+
+## ANNEX III — COMMON INDICATORS FOR ESF+ SUPPORT FOR ADDRESSING MATERIAL DEPRIVATION
+
+1\. Output indicators
+
+1.1. Total monetary value of distributed food and goods:
+
+1.1.1. total value of the food support ( 8 );
+
+1.1.1.1. total monetary value of food for the homeless;
+
+1.1.1.2. total monetary value of food for other target groups;
+
+1.1.2. total value of goods distributed ( 9 );
+
+1.1.2.1. total monetary value of goods for children;
+
+1.1.2.2. total monetary value of goods for the homeless;
+
+1.1.2.3. total monetary value of goods for other target groups.
+
+1.2. Total quantity of food support distributed (in tonnes) ( 10 ):
+
+1.2.1. share of food for which only transport, distribution and storage were paid for by the programme (in %);
+
+1.2.2. proportion of the ESF+ co-financed food in the total volume of food distributed by the beneficiaries (in %).
+
+Values of the indicators listed under points 1.2.1 and 1.2.2 shall be determined based on informed estimates provided by the beneficiary.
+
+2\. Common result indicators
+
+2.1. Number of the end recipients receiving food support
+
+— number of children below 18 years of age,
+
+— number of young people between 18 and 29 years of age,
+
+— number of women,
+
+— number of end recipients of 65 years of age and above,
+
+— number of end recipients with disabilities ( *5 ),
+
+— number of third-country nationals (*5) ,
+
+— number of end recipients with a foreign background and minorities (including marginalised communities such as Roma people) (*5) ,
+
+— number of homeless end recipients or end-recipients affected by housing exclusion (*5) .
+
+2.2. Number of the end recipients receiving material support
+
+— number of children below 18 years of age,
+
+— number of young people between 18 and 29 years of age,
+
+— number of women,
+
+— number of end recipients of 65 years of age and above,
+
+— number of end recipients with disabilities (*5) ,
+
+— number of third-country nationals (*5) ,
+
+— number of end recipients with a foreign background and minorities (including marginalised communities, such as Roma people) (*5) ,
+
+— number of homeless end recipients or end-recipients affected by housing exclusion (*5) .
+
+2.3. Number of the end recipients benefiting from vouchers or cards
+
+— number of children below 18 years of age,
+
+— number of young people between 18 and 29 years of age,
+
+— number of end recipients of 65 years of age and above,
+
+— number of women,
+
+— number of end recipients with disabilities (*5) ,
+
+— number of third-country nationals (*5) ,
+
+— number of end recipients with a foreign background and minorities (including marginalised communities, such as Roma people) (*5) ,
+
+— number of homeless end recipients or end recipients affected by housing exclusion (*5) .
+
+Values of the indicators listed under point 2 shall be determined based on informed estimates provided by the beneficiary.
+
+## ANNEX IV — INDICATORS FOR THE EaSI STRAND
+
+Indicators for the EaSI strand
+
+— number of analytical activities,
+
+— number of information sharing and mutual learning activities,
+
+— number of social experimentation,
+
+— number of capacity building and networking activities,
+
+— number of job placements under targeted mobility schemes.
+
+Data for the indicator ‘number of job placements under targeted mobility schemes’ shall be collected only every two years.
+
+( 1 ) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).
+
+( 2 ) Council Regulation (EC) No 2012/2002 of 11 November 2002 establishing the European Union Solidarity Fund (OJ L 311, 14.11.2002, p. 3, ELI: http://data.europa.eu/eli/reg/2002/2012/oj).
+
+( 3 ) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+( 4 ) According to national law.
+
+( *1 ) Data reported are personal data according to Article 4(1) of Regulation (EU) 2016/679.
+
+( 5 ) This indicator shall be calculated automatically on the basis of the common output indicators relating to employment status, except for ESF+ support contributing to the specific objective set out in Article 4(1), point (l), in which case the total number of participants is to be reported.
+
+( *2 ) Data reported comprise a special category of personal data as referred to in Article 9 of Regulation (EU) 2016/679.
+
+( 6 ) This indicator does not apply to ESF+ support contributing to the specific objective set out in Article 4(1), point (l).
+
+( 7 ) According to national law.
+
+( *3 ) Data reported are personal data according to Article 4(1) of Regulation (EU) 2016/679.
+
+( *4 ) Data reported comprise a special category of personal data as referred to in Article 9 of Regulation (EU) 2016/679.
+
+( 8 ) These indicators do not apply to food assistance provided indirectly through vouchers or cards.
+
+( 9 ) These indicators do not apply to goods provided indirectly through vouchers or cards.
+
+( 10 ) These indicators do not apply to food assistance provided indirectly through vouchers or cards.
+
+( *5 ) National definitions may be used.

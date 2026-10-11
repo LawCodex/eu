@@ -26,10 +26,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2668 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L </td><td>1</td><td>30.11.2023</td></tr>
+</table>
 
 **DIRECTIVE 2009/148/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -492,6 +494,7 @@ The training shall be adapted as closely as possible to the characteristics of t
 
 **(referred to in Article 24)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time limit for transposition</td></tr>
 <tr><td>83/477/EEC</td><td>31 December 1986 (1)</td></tr>
 <tr><td>91/382/EEC</td><td>1 January 1993 (2)</td></tr>
@@ -500,6 +503,7 @@ The training shall be adapted as closely as possible to the characteristics of t
 <tr><td>2007/30/EC</td><td>31 December 2012</td></tr>
 <tr><td colspan="2">(1)  This date is replaced by 31 December 1989 in the case of asbestos-mining activities.  (2)  As regards the Hellenic Republic, the time limit for transposition of the Directive shall be 1 January 1996. However, the date of transposition of the provisions concerning asbestos-mining activities shall be 1 January 1996 for all the Member States and 1 January 1999 for the Hellenic Republic. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

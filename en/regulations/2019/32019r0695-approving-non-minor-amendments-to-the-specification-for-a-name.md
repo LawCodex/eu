@@ -1,0 +1,64 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/695 of 26 April 2019 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications (‘Gönci kajszibarack’ (PGI))"
+identifier: "32019R0695"
+eli: "http://data.europa.eu/eli/reg_impl/2019/695/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-04-26
+entry_into_force: 2019-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0695"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/695 of 26 April 2019 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications (‘Gönci kajszibarack’ (PGI))
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/695**
+
+**of 26 April 2019**
+
+**approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications (‘Gönci kajszibarack’ (PGI))**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (1), and in particular Article 52(2) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 53(1) of Regulation (UE) No 1151/2012, the Commission has examined Hungary's application for the approval of amendments to the specification for the protected geographical indication ‘Gönci kajszibarack’, registered under Commission Implementing Regulation (EU) No 484/2011 (2). These amendments include changing the name ‘Gönci kajszibarack’ to ‘Gönci kajszibarack’/‘Gönci kajszi’.
+
+(2) Since the amendments in question are not minor within the meaning of Article 53(2) of Regulation (EU) No 1151/2012, the Commission published the amendment application in the Official Journal of the European Union as required by Article 50(2)(a) of that Regulation (3).
+
+(3) As no statement of opposition under Article 51 of Regulation (EU) No 1151/2012 has been received by the Commission, the amendments to the specification should be approved,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The amendments to the specification published in the Official Journal of the European Union regarding the name ‘Gönci kajszibarack’ (PGI) are hereby approved.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 26 April 2019.
+
+For the Commission,
+
+On behalf of the President,
+
+Phil HOGAN
+
+Member of the Commission
+
+(1) OJ L 343, 14.12.2012, p. 1.
+
+(2) Commission Implementing Regulation (EU) No 484/2011 of 18 May 2011 entering a name in the register of protected designations of origin and protected geographical indications (Gönci kajszibarack (PGI)) (OJ L 133, 20.5.2011, p. 4).
+
+(3) OJ C 459, 20.12.2018, p. 24.

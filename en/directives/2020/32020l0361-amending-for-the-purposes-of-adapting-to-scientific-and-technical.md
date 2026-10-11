@@ -97,6 +97,7 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 9 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘9</td><td>Hexavalent chromium as an anticorrosion agent of the carbon steel cooling system in absorption refrigerators up to 0,75 % by weight in the cooling solution</td><td>Applies to categories 8, 9 and 11 and expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments,</td></tr>
 </tbody>
 </table>
@@ -116,3 +117,4 @@ In Annex III to Directive 2011/65/EU, entry 9 is replaced by the following:
 </table>
 </td><td>Applies to categories 1-7 and 10 and expires on 21 July 2021.’</td></tr>
 </tbody>
+</table>

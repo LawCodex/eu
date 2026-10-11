@@ -1,0 +1,154 @@
+---
+title: "Commission Implementing Regulation (EU) No 890/2014 of 14 August 2014 approving the active substance metobromuron, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 Text with EEA relevance"
+identifier: "32014R0890"
+eli: "http://data.europa.eu/eli/reg_impl/2014/890/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-08-14
+entry_into_force: 2014-03-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0890"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 890/2014 of 14 August 2014 approving the active substance metobromuron, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 890/2014**
+
+**of 14 August 2014**
+
+**approving the active substance metobromuron, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (1), and in particular Article 13(2) and Article 78(2) thereof,
+
+Whereas:
+
+(1) In accordance with Article 80(1)(a) of Regulation (EC) No 1107/2009, Council Directive 91/414/EEC (2) is to apply, with respect to the procedure and the conditions for approval, to active substances for which a decision has been adopted in accordance with Article 6(3) of that Directive before 14 June 2011. For metobromuron the conditions of Article 80(1)(a) of Regulation (EC) No 1107/2009 are fulfilled by Commission Implementing Decision 2011/253/EU (3).
+
+(2) In accordance with Article 6(2) of Directive 91/414/EEC Francereceived on 15 December 2010 an application from Belchim Crop Protection NV/SA for the inclusion of the active substance metobromuron in Annex I to Directive 91/414/EEC. Decision 2011/253/EU confirmed that the dossier was ‘complete’ in the sense that it could be considered as satisfying, in principle, the data and information requirements of Annexes II and III to Directive 91/414/EEC.
+
+(3) For that active substance, the effects on human and animal health and the environment have been assessed, in accordance with the provisions of Article 6(2) and (4) of Directive 91/414/EEC, for the uses proposed by the applicant. The designated rapporteur Member State France submitted a draft assessment report on 10 January 2013. In accordance with Article 8(3) of Commission Regulation (EU) No 188/2011 (4) additional information was requested from the applicant on 13 May 2013. The evaluation of the additional information by France was submitted in the format of an updated draft assessment report in October 2013.
+
+(4) The draft assessment report was reviewed by the Member States and the European Food Safety Authority (hereinafter ‘the Authority’). The Authority presented to the Commission its conclusion on the pesticide risk assessment of the active substance metobromuron (5) on 15 January 2014. The draft assessment report and the conclusion of the Authority were reviewed by the Member States and the Commission within the Standing Committee on Plants, Animals, Food and Feed and finalised on 11 July 2014 in the format of the Commission review report for metobromuron.
+
+(5) It has appeared from the various examinations made that plant protection products containing metobromuron may be expected to satisfy, in general, the requirements laid down in Article 5(1)(a) and (b) and Article 5(3) of Directive 91/414/EEC, in particular with regard to the uses which were examined and detailed in the Commission review report. It is therefore appropriate to approve metobromuron.
+
+(6) In accordance with Article 13(2) of Regulation (EC) No 1107/2009 in conjunction with Article 6 thereof and in the light of current scientific and technical knowledge, it is, however, necessary to include certain conditions and restrictions. It is, in particular, appropriate to require further confirmatory information.
+
+(7) A reasonable period should be allowed to elapse before approval in order to permit Member States and the interested parties to prepare themselves to meet the new requirements resulting from the approval.
+
+(8) Without prejudice to the obligations provided for in Regulation (EC) No 1107/2009 as a consequence of approval, taking into account the specific situation created by the transition from Directive 91/414/EEC to Regulation (EC) No 1107/2009, the following should, however, apply. Member States should be allowed a period of six months after approval to review authorisations of plant protection products containing metobromuron. Member States should, as appropriate, vary, replace or withdraw authorisations. By way of derogation from that deadline, a longer period should be provided for the submission and assessment of the complete Annex III dossier, as set out in Directive 91/414/EEC, of each plant protection product for each intended use in accordance with the uniform principles.
+
+(9) The experience gained from inclusions in Annex I to Directive 91/414/EEC of active substances assessed in the framework of Commission Regulation (EEC) No 3600/92 (6) has shown that difficulties can arise in interpreting the duties of holders of existing authorisations in relation to access to data. In order to avoid further difficulties it therefore appears necessary to clarify the duties of the Member States, especially the duty to verify that the holder of an authorisation demonstrates access to a dossier satisfying the requirements of Annex II to that Directive. However, this clarification does not impose any new obligations on Member States or holders of authorisations compared to the Directives which have been adopted until now amending Annex I to that Directive or the Regulations approving active substances.
+
+(10) In accordance with Article 13(4) of Regulation (EC) No 1107/2009, the Annex to Commission Implementing Regulation (EU) No 540/2011 (7) should be amended accordingly.
+
+(11) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Approval of active substance
+
+The active substance metobromuron, as specified in Annex I, is approved subject to the conditions laid down in that Annex.
+
+## Article 2 — Re-evaluation of plant protection products
+
+1\. Member States shall in accordance with Regulation (EC) No 1107/2009, where necessary, amend or withdraw existing authorisations for plant protection products containing metobromuron as an active substance by 30 June 2015.
+
+By that date they shall in particular verify that the conditions in Annex I to this Regulation are met, with the exception of those identified in the column on specific provisions of that Annex, and that the holder of the authorisation has, or has access to, a dossier satisfying the requirements of Annex II to Directive 91/414/EEC in accordance with the conditions of Article 13(1) to (4) of that Directive and Article 62 of Regulation (EC) No 1107/2009.
+
+2\. By way of derogation from paragraph 1, for each authorised plant protection product containing metobromuron as either the only active substance or as one of several active substances, all of which were listed in the Annex to Implementing Regulation (EU) No 540/2011 by 31 December 2014 at the latest, Member States shall re-evaluate the product in accordance with the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, on the basis of a dossier satisfying the requirements of Annex III to Directive 91/414/EEC and taking into account the column on specific provisions of Annex I to this Regulation. On the basis of that evaluation, they shall determine whether the product satisfies the conditions set out in Article 29(1) of Regulation (EC) No 1107/2009.
+
+Following that determination Member States shall:
+
+(a) in the case of a product containing metobromuron as the only active substance, where necessary, amend or withdraw the authorisation by 30 June 2016 at the latest; or
+
+(b) in the case of a product containing metobromuron as one of several active substances, where necessary, amend or withdraw the authorisation by 30 June 2016 or by the date fixed for such an amendment or withdrawal in the respective act or acts which added the relevant substance or substances to Annex I to Directive 91/414/EEC or approved that substance or those substances, whichever is the latest.
+
+## Article 3 — Amendments to Implementing Regulation (EU) No 540/2011
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended in accordance with Annex II to this Regulation.
+
+## Article 4 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 August 2014.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+(1) OJ L 309, 24.11.2009, p. 1.
+
+(2) Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market (OJ L 230, 19.8.1991, p. 1).
+
+(3) Commission Implementing Decision 2011/253/EU of 26 April 2011 recognising in principle the completeness of the dossier submitted for detailed examination in view of the possible inclusion of metobromuron, S-Abscisic acid, Bacillus amyloliquefaciens subsp. plantarum D747, Bacillus pumilus QST 2808 and Streptomyces lydicus WYEC 108 in Annex I to Council Directive 91/414/EEC (OJ L 106, 27.4.2011, p. 13).
+
+(4) Commission Regulation (EU) No 188/2011 of 25 February 2011 laying down detailed rules for the implementation of Council Directive 91/414/EEC as regards the procedure for the assessment of active substances which were not on the market 2 years after the date of notification of that Directive (OJ L 53, 26.2.2011, p. 51).
+
+(5) EFSA Journal 2014; 12(2):3541. Available online: www.efsa.europa.eu
+
+(6) Commission Regulation (EEC) No 3600/92 of 11 December 1992 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC (OJ L 366, 15.12.1992, p. 10).
+
+(7) Commission Implementing Regulation (EU) No 540/2011 of 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European Parliament and of the Council as regards the list of approved active substances (OJ L 153, 11.6.2011, p. 1).
+
+## ANNEX I
+
+<table>
+<tbody><tr><td>Common Name, Identification Numbers </td><td>IUPAC Name</td><td>Purity (1)</td><td>Date of approval</td><td>Expiration of approval</td><td>Specific provisions</td></tr>
+<tr><td>Metobromuron CAS No 3060-89-7  CIPAC No 168 </td><td>3-(4-bromophenyl)-1-methoxy-1-methylurea</td><td>≥ 978 g/kg</td><td>1 January 2015</td><td>31 December 2024</td><td>For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on metobromuron, and in particular Appendices I and II thereof, as finalised in the Standing Committee on Plants, Animals, Food and Feed on 11 July 2014, shall be taken into account. In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>(a)</td><td>the protection of workers and operators;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the risk to birds, mammals, aquatic organisms and terrestrial non-target plants.</td></tr>
+</tbody>
+</table>
+ Conditions of use shall include risk mitigation measures, where appropriate.  The applicant shall submit confirmatory information as regards: <table><tbody><tr><td>(a)</td><td>the toxicological assessment of the metabolites CGA 18236, CGA 18237, CGA 18238 and 4-bromoaniline;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the acceptability of the long-term risk to birds and mammals.</td></tr>
+</tbody>
+</table>
+ The applicant shall submit that information to the Commission, the Member States and the Authority by 31 December 2016. </td></tr>
+</tbody>
+</table>
+
+(1) Further details on identity and specification of active substance are provided in the review report.
+
+## ANNEX II
+
+In Part B of the Annex to Implementing Regulation (EU) No 540/2011, the following entry is added:
+
+<table>
+<tbody><tr><td>Number</td><td>Common Name, Identification Numbers </td><td>IUPAC Name</td><td>Purity (*1)</td><td>Date of approval</td><td>Expiration of approval</td><td>Specific provisions</td></tr>
+<tr><td>‘76</td><td>Metobromuron CAS No 3060-89-7  CIPAC No 168 </td><td>3-(4-bromophenyl)-1-methoxy-1-methylurea</td><td>≥ 978 g/kg</td><td>1 January 2015</td><td>31 December 2024</td><td>For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on metobromuron, and in particular Appendices I and II thereof, as finalised in the Standing Committee on Plants, Animals, Food and Feed on 11 July 2014, shall be taken into account. In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>(a)</td><td>the protection of workers and operators;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the risk to birds, mammals, aquatic organisms and terrestrial non-target plants.</td></tr>
+</tbody>
+</table>
+ Conditions of use shall include risk mitigation measures, where appropriate.  The applicant shall submit confirmatory information as regards: <table><tbody><tr><td>(a)</td><td>the toxicological assessment of the metabolites CGA 18236, CGA 18237, CGA 18238 and 4-bromoaniline;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the acceptability of the long-term risk to birds and mammals.</td></tr>
+</tbody>
+</table>
+ The applicant shall submit that information to the Commission, the Member States and the Authority by 31 December 2016.’ </td></tr>
+</tbody>
+</table>
+
+(*1) Further details on identity and specification of active substance are provided in the review report.

@@ -860,6 +860,7 @@ Corvus frugilegus
 
 Corvus corone
 
+<table>
 <tbody><tr><td></td><td>BE</td><td>BG</td><td>CZ</td><td>DK</td><td>DE</td><td>EE</td><td>GR</td><td>ES</td><td>FR</td><td>IE</td><td>IT</td><td>CY</td><td>LV</td><td>LT</td><td>LU</td><td>HU</td><td>MT</td><td>NL</td><td>AT</td><td>PL</td><td>PT</td><td>RO</td><td>SI</td><td>SK</td><td>FI</td><td>SE</td><td>UK</td></tr>
 <tr><td>Cygnus olor</td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Anser brachyrhynchus</td><td>+</td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>+</td></tr>
@@ -921,6 +922,7 @@ Corvus corone
 <tr><td>Corvus corone</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td></td><td>+</td><td></td><td></td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td></tr>
 <tr><td colspan="28">AT = Österreich, BE = Belgique/België, BG = България, CY = Κύπρος, CZ = Česká republika, DE = Deutschland, DK = Danmark, EE = Eesti, ES = España, FI = Suomi/Finland, FR = France, GR = Ελλάδα, HU = Magyarország, IE = Ireland, IT = Italia, LT = Lietuva, LU = Luxembourg, LV = Latvija, MT = Malta, NL = Nederland, PL = Polska, PT = Portugal, RO = România, SE = Sverige, SI = Slovenija, SK = Slovensko, UK = United Kingdom + = Страни-членки, които съгласно член 7, параграф 3 могат да разрешават ловуване на изброените видове.  + = Estados miembros que pueden autorizar, conforme al apartado 3 del artículo 7, la caza de las especies enumeradas.  + = Členské státy, které mohou podle čl. 7 odst. 3 povolit lov uvedených druhů.  + = Medlemsstater, som i overensstemmelse med artikel 7, stk. 3, kan give tilladelse til jagt på de anførte arter.  + = Mitgliedstaaten, die nach Artikel 7 Absatz 3 die Bejagung der aufgeführten Arten zulassen können.  + = Liikmesriigid, kes võivad artikli 7 lõike 3 alusel lubada loetelus nimetatud liikidele jahipidamist.  + = Κράτη Μέλη που δύνανται να επιτρέψουν, σύμφωνα με το Άρθρο 7 παρ. 3, το κυνήγι των ειδών που αριθμούνται.  + = Member States which under Article 7(3) may authorize hunting of the species listed.  + = États membres pouvant autoriser, conformément à l'article 7 paragraphe 3, la chasse des espèces énumérées.  + = Stati membri che possono autorizzare, conformemente all'articulo 7, paragrafo 3, la caccia delle specie elencate.  + = Dalībvalstis, kurās saskaņā ar 7. panta 3. punktu ir atļautas sarakstā minēto sugu medības.  + = Šalys narės, kurios pagal 7 straipsnio 3 punktą gali leisti medžioti išvardintas rūšis.  + = Tagállamok, melyek a 7. cikkének (3) bekezdése alapján engedélyezhetik a listán szereplő fajok vadászatát.  + = Stati Membri li bis-saħħa ta' l-Artikolu 7(3) jistgħu jawtorizzaw kaċċa ta' l-ispeċi indikati.  + = Lid-Staten die overeenkonstig artikel 7, lid 3, toestemming mogen geven tot het jagen op de genoemde soorten.  + = Państwa członkowskie, które na mocy art. 7 ust. 3 mogą udzielić zezwolenia na polowanie na wyliczone gatunki.  + = Estados-Membros que podem autorizar, conforme o no 3 do artigo 7o, a caça das espécies enumeradas.  + = Statele membre care, conform articolului 7 paragraful 3, pot autoriza vânarea speciilor enumerate.  + = Členské štáty, ktoré podľa článku 7 odseku 3 môžu povoliť poľovanie na uvedené druhy.  + = Države članice, ki po členu 7(3) lahko dovolijo lov na navedene vrste.  + = Jäsenvaltiot, jotka 7 artiklan 3 kohdan perusteella voivt sallia luettelossa mainittujen lajien metsästyksen.  + = Medlemsstater som enligt artikel 7.3 får tillåta jakt på de angivna arterna. </td></tr>
 </tbody>
+</table>
 
 ### ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1
 
@@ -4992,6 +4994,7 @@ and, between the entries for Portugal and Slovenia:
 
 **National emission ceilings for SO2, NOx, VOC and NH3, to be obtained by 2010 (1)**
 
+<table>
 <tbody><tr><td>Country</td><td>SO2 Kilotonnes </td><td>NOx Kilotonnes </td><td>VOC Kilotonnes </td><td>NH3 Kilotonnes </td></tr>
 <tr><td>Belgium</td><td>99</td><td>176</td><td>139</td><td>74</td></tr>
 <tr><td>Bulgaria (2)</td><td>836</td><td>247</td><td>175</td><td>108</td></tr>
@@ -5023,13 +5026,16 @@ and, between the entries for Portugal and Slovenia:
 <tr><td>EC 27</td><td>8 297</td><td>9 003</td><td>8 848</td><td>4 294</td></tr>
 <tr><td colspan="5">(1) These national emission ceilings are designed with the aim of broadly meeting the interim environmental objectives set out in Article 5. Meeting those objectives is expected to result in a reduction of soil eutrophication to such an extent that the Community area with depositions of nutrient nitrogen in excess of the critical loads will be reduced by about 30 % compared with the situation in 1990. (2) These national emission ceilings are temporary and are without prejudice to the review according to Article 10 of this Directive, which is to be completed in 2008.’ </td></tr>
 </tbody>
+</table>
 
 (b) In Annex II, the table is replaced by the following:
 
+<table>
 <tbody><tr><td></td><td>‘SO2 Kilotonnes </td><td>NOx Kilotonnes </td><td>VOC Kilotonnes </td></tr>
 <tr><td>EC 27 (1)</td><td>7 832</td><td>8 180</td><td>7 585</td></tr>
 <tr><td colspan="4">(1) These emission ceilings are temporary and are without prejudice to the review according to Article 10 of this Directive, which is to be completed in 2008.’</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 157, 21.6.2005, p. 11.
 

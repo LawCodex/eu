@@ -1,0 +1,835 @@
+---
+title: "Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs"
+identifier: "32004R0852"
+eli: "http://data.europa.eu/eli/reg/2004/852/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-04-29
+entry_into_force: 2004-12-28
+last_amended: 2021-03-24
+consolidated_version: "02004R0852-20210324"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0852-20210324"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+
+**REGULATION (EC) No 852/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 April 2004**
+
+**on the hygiene of foodstuffs**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1019/2008 of 17 October 2008 </td><td> L 277</td><td>7</td><td>18.10.2008</td></tr>
+<tr><td></td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/382 of 3 March 2021 </td><td> L 74</td><td>3</td><td>4.3.2021</td></tr>
+</table>
+
+**REGULATION (EC) No 852/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 April 2004**
+
+**on the hygiene of foodstuffs**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation lays down general rules for food business operators on the hygiene of foodstuffs, taking particular account of the following principles:
+
+(a) primary responsibility for food safety rests with the food business operator;
+
+(b) it is necessary to ensure food safety throughout the food chain, starting with primary production;
+
+(c) it is important, for food that cannot be stored safely at ambient temperatures, particularly frozen food, to maintain the cold chain;
+
+(d) general implementation of procedures based on the HACCP principles, together with the application of good hygiene practice, should reinforce food business operators' responsibility;
+
+(e) guides to good practice are a valuable instrument to aid food business operators at all levels of the food chain with compliance with food hygiene rules and with the application of the HACCP principles;
+
+(f) it is necessary to establish microbiological criteria and temperature control requirements based on a scientific risk assessment;
+
+(g) it is necessary to ensure that imported foods are of at least the same hygiene standard as food produced in the Community, or are of an equivalent standard.
+
+This Regulation shall apply to all stages of production, processing and distribution of food and to exports, and without prejudice to more specific requirements relating to food hygiene.
+
+2\. This Regulation shall not apply to:
+
+(a) primary production for private domestic use;
+
+(b) the domestic preparation, handling or storage of food for private domestic consumption;
+
+(c) the direct supply, by the producer, of small quantities of primary products to the final consumer or to local retail establishments directly supplying the final consumer;
+
+(d) collection centres and tanneries which fall within the definition of food business only because they handle raw material for the production of gelatine or collagen.
+
+3\. Member States shall establish, under national law, rules governing the activities referred to in paragraph 2(c). Such national rules shall ensure the achievement of the objectives of this Regulation.
+
+### Article 2 — Definitions
+
+1\. For the purposes of this Regulation:
+
+(a) ‘food hygiene’, hereinafter called ‘hygiene’, means the measures and conditions necessary to control hazards and to ensure fitness for human consumption of a foodstuff taking into account its intended use;
+
+(b) ‘primary products’ means products of primary production including products of the soil, of stock farming, of hunting and fishing;
+
+(c) ‘establishment’ means any unit of a food business;
+
+(d) ‘competent authority’ means the central authority of a Member State competent to ensure compliance with the requirements of this Regulation or any other authority to which that central authority has delegated that competence; it shall also include, where appropriate, the corresponding authority of a third country;
+
+(e) ‘equivalent’ means, in respect of different systems, capable of meeting the same objectives;
+
+(f) ‘contamination’ means the presence or introduction of a hazard;
+
+(g) ‘potable water’ means water meeting the minimum requirements laid down in Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption ( 1 );
+
+(h) ‘clean seawater’ means natural, artificial or purified seawater or brackish water that does not contain micro-organisms, harmful substances or toxic marine plankton in quantities capable of directly or indirectly affecting the health quality of food;
+
+(i) ‘clean water’ means clean seawater and fresh water of a similar quality;
+
+(j) ‘wrapping’ means the placing of a foodstuff in a wrapper or container in direct contact with the foodstuff concerned, and the wrapper or container itself;
+
+(k) ‘packaging’ means the placing of one or more wrapped foodstuffs in a second container, and the latter container itself;
+
+(l) ‘hermetically sealed container’ means a container that is designed and intended to be secure against the entry of hazards;
+
+(m) ‘processing’ means any action that substantially alters the initial product, including heating, smoking, curing, maturing, drying, marinating, extraction, extrusion or a combination of those processes;
+
+(n) ‘unprocessed products’ means foodstuffs that have not undergone processing, and includes products that have been divided, parted, severed, sliced, boned, minced, skinned, ground, cut, cleaned, trimmed, husked, milled, chilled, frozen, deep-frozen or thawed;
+
+(o) ‘processed products’ means foodstuffs resulting from the processing of unprocessed products. These products may contain ingredients that are necessary for their manufacture or to give them specific characteristics.
+
+2\. The definitions laid down in Regulation (EC) No 178/2002 shall also apply.
+
+3\. In the Annexes to this Regulation the terms ‘where necessary’, ‘where appropriate’, ‘adequate’ and ‘sufficient’ shall mean respectively where necessary, where appropriate, adequate or sufficient to achieve the objectives of this Regulation.
+
+## CHAPTER II — FOOD BUSINESS OPERATORS' OBLIGATIONS
+
+### Article 3 — General obligation
+
+Food business operators shall ensure that all stages of production, processing and distribution of food under their control satisfy the relevant hygiene requirements laid down in this Regulation.
+
+### Article 4 — General and specific hygiene requirements
+
+1\. Food business operators carrying out primary production and those associated operations listed in Annex I shall comply with the general hygiene provisions laid down in part A of Annex I and any specific requirements provided for in Regulation (EC) No 853/2004.
+
+2\. Food business operators carrying out any stage of production, processing and distribution of food after those stages to which paragraph 1 applies shall comply with the general hygiene requirements laid down in Annex II and any specific requirements provided for in Regulation (EC) No 853/2004.
+
+3\. Food business operators shall, as appropriate, adopt the following specific hygiene measures:
+
+(a) compliance with microbiological criteria for foodstuffs;
+
+(b) procedures necessary to meet targets set to achieve the objectives of this Regulation;
+
+(c) compliance with temperature control requirements for foodstuffs;
+
+(d) maintenance of the cold chain;
+
+(e) sampling and analysis.
+
+4\. The criteria, requirements and targets referred to in paragraph 3, and associated sampling and analysis methods shall be laid down by the Commission. Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+5\. When this Regulation, Regulation (EC) No 853/2004 and their implementing measures do not specify sampling or analysis methods, food business operators may use appropriate methods laid down in other Community or national legislation or, in the absence of such methods, methods that offer equivalent results to those obtained using the reference method, if they are scientifically validated in accordance with internationally recognised rules or protocols.
+
+6\. Food business operators may use the guides provided for in Articles 7, 8 and 9 as an aid to compliance with their obligations under this Regulation.
+
+### Article 5 — Hazard analysis and critical control points
+
+1\. Food business operators shall put in place, implement and maintain a permanent procedure or procedures based on the HACCP principles.
+
+2\. The HACCP principles referred to in paragraph 1 consist of the following:
+
+(a) identifying any hazards that must be prevented, eliminated or reduced to acceptable levels;
+
+(b) identifying the critical control points at the step or steps at which control is essential to prevent or eliminate a hazard or to reduce it to acceptable levels;
+
+(c) establishing critical limits at critical control points which separate acceptability from unacceptability for the prevention, elimination or reduction of identified hazards;
+
+(d) establishing and implementing effective monitoring procedures at critical control points;
+
+(e) establishing corrective actions when monitoring indicates that a critical control point is not under control;
+
+(f) establishing procedures, which shall be carried out regularly, to verify that the measures outlined in subparagraphs (a) to (e) are working effectively;
+
+and
+
+(g) establishing documents and records commensurate with the nature and size of the food business to demonstrate the effective application of the measures outlined in subparagraphs (a) to (f).
+
+When any modification is made in the product, process, or any step, food business operators shall review the procedure and make the necessary changes to it.
+
+3\. Paragraph 1 shall apply only to food business operators carrying out any stage of production, processing and distribution of food after primary production and those associated operations listed in Annex I.
+
+4\. Food business operators shall:
+
+(a) provide the competent authority with evidence of their compliance with paragraph 1 in the manner that the competent authority requires, taking account of the nature and size of the food business;
+
+(b) ensure that any documents describing the procedures developed in accordance with this Article are up-to-date at all times;
+
+(c) retain any other documents and records for an appropriate period.
+
+5\. Detailed arrangements for the implementation of this Article may be laid down in accordance with the procedure referred to in Article 14(2). Such arrangements may facilitate the implementation of this Article by certain food business operators, in particular by providing for the use of procedures set out in guides for the application of HACCP principles, in order to comply with paragraph 1. Such arrangements may also specify the period during which food business operators shall retain documents and records in accordance with paragraph 4(c).
+
+### Article 6 — Official controls, registration and approval
+
+1\. Food business operators shall cooperate with the competent authorities in accordance with other applicable Community legislation or, if it does not exist, with national law.
+
+2\. In particular, every food business operator shall notify the appropriate competent authority, in the manner that the latter requires, of each establishment under its control that carries out any of the stages of production, processing and distribution of food, with a view to the registration of each such establishment.
+
+Food business operators shall also ensure that the competent authority always has up-to-date information on establishments, including by notifying any significant change in activities and any closure of an existing establishment.
+
+3\. However, food business operators shall ensure that establishments are approved by the competent authority, following at least one on-site visit, when approval is required:
+
+(a) under the national law of the Member State in which the establishment is located;
+
+(b) under Regulation (EC) No 853/2004;
+
+or
+
+(c) by a decision adopted by the Commission. That measure, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+Any Member State requiring the approval of certain establishments located on its territory under national law, as provided for in subparagraph (a), shall inform the Commission and other Member States of the relevant national rules.
+
+## CHAPTER III — GUIDES TO GOOD PRACTICE
+
+### Article 7 — Development, dissemination and use of guides
+
+Member States shall encourage the development of national guides to good practice for hygiene and for the application of HACCP principles in accordance with Article 8. Community guides shall be developed in accordance with Article 9.
+
+The dissemination and use of both national and Community guides shall be encouraged. Nevertheless, food business operators may use these guides on a voluntary basis.
+
+### Article 8 — National guides
+
+1\. When national guides to good practice are developed, they shall be developed and disseminated by food business sectors:
+
+(a) in consultation with representatives of parties whose interests may be substantially affected, such as competent authorities and consumer groups;
+
+(b) having regard to relevant codes of practice of the Codex Alimentarius;
+
+and
+
+(c) when they concern primary production and those associated operations listed in Annex I, having regard to the recommendations set out in Part B of Annex I.
+
+2\. National guides may be developed under the aegis of a national standards institute referred to in Annex II to Directive 98/34/EC ( 2 ).
+
+3\. Member States shall assess national guides in order to ensure that:
+
+(a) they have been developed in accordance with paragraph 1;
+
+(b) their contents are practicable for the sectors to which they refer;
+
+and
+
+(c) they are suitable as guides to compliance with Articles 3, 4 and 5 in the sectors and for the foodstuffs covered.
+
+4\. Member States shall forward to the Commission national guides complying with the requirements of paragraph 3. The Commission shall set up and run a registration system for such guides and make it available to Member States.
+
+5\. Guides to good practice drawn up pursuant to Directive 93/43/EEC shall continue to apply after the entry into force of this Regulation, provided that they are compatible with its objectives.
+
+### Article 9 — Community guides
+
+1\. Before Community guides to good practice for hygiene or for the application of the HACCP principles are developed, the Commission shall consult the Committee referred to in Article 14. The objective of this consultation shall be to consider the case for such guides, their scope and subject matter.
+
+2\. When Community guides are prepared, the Commission shall ensure that they are developed and disseminated:
+
+(a) by or in consultation with appropriate representatives of European food business sectors, including SMEs, and other interested parties, such as consumer groups;
+
+(b) in collaboration with parties whose interests may be substantially affected, including competent authorities;
+
+(c) having regard to relevant codes of practice of the Codex Alimentarius;
+
+and
+
+(d) when they concern primary production and those associated operations listed in Annex I, having regard to the recommendations set out in Part B of Annex I.
+
+3\. The Committee referred to in Article 14 shall assess draft Community guides in order to ensure that:
+
+(a) they have been developed in accordance with paragraph 2;
+
+(b) their contents are practicable for the sectors to which they refer throughout the Community;
+
+and
+
+(c) they are suitable as guides to compliance with Articles 3, 4 and 5 in the sectors and for the foodstuffs covered.
+
+4\. The Commission shall invite the Committee referred to in Article 14 periodically to review any Community guides prepared in accordance with this Article, in cooperation with the bodies mentioned in paragraph 2.
+
+The aim of this review shall be to ensure that the guides remain practicable and to take account of technological and scientific developments.
+
+5\. The titles and references of Community guides prepared in accordance with this Article shall be published in the C series of the Official Journal of the European Union.
+
+## CHAPTER IV — IMPORTS AND EXPORTS
+
+### Article 10 — Imports
+
+As regards the hygiene of imported food, the relevant requirements of food law referred to in Article 11 of Regulation (EC) No 178/2002 shall include the requirements laid down in Articles 3 to 6 of this Regulation.
+
+### Article 11 — Exports
+
+As regards the hygiene of exported or re-exported food, the relevant requirements of food law referred to in Article 12 of Regulation (EC) No 178/2002 shall include the requirements laid down in Articles 3 to 6 of this Regulation.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 12
+
+Transitional measures of general scope designed to amend non-essential elements of this Regulation, inter alia, by supplementing it with new non-essential elements, in particular further specifications of the requirements laid down in this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+Other implementing or transitional measures may be adopted in accordance with the regulatory procedure referred to in Article 14(2).
+
+### Article 13 — Amendment and adaptation of Annexes I and II
+
+1\. Annexes I and II may be adapted or updated by the Commission taking into account:
+
+(a) the need to revise the recommendations set out in Annex I, Part B, paragraph 2;
+
+(b) the experience gained from the implementation of HACCP-based systems pursuant to Article 5;
+
+(c) technological developments and their practical consequences and consumer expectations with regard to food composition;
+
+(d) scientific advice, particularly new risk assessments;
+
+(e) microbiological and temperature criteria for foodstuffs.
+
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+2\. Derogations from Annexes I and II may be granted by the Commission, in particular to facilitate the implementation of Article 5 for small businesses, taking into account the relevant risk factors, provided that such derogations do not affect the achievement of the objectives of this Regulation. Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+3\. Member States may, without compromising achievement of the objectives of this Regulation, adopt, in accordance with paragraphs 4 to 7 of this Article, national measures adapting the requirements laid down in Annex II.
+
+4.
+
+(a) The national measures referred to in paragraph 3 shall have the aim of:
+
+(i) enabling the continued use of traditional methods, at any of the stages of production, processing or distribution of food;
+
+or
+
+(ii) accommodating the needs of food businesses situated in regions that are subject to special geographical constraints.
+
+(b) In other cases, they shall apply only to the construction, layout and equipment of establishments.
+
+5\. Any Member State wishing to adopt national measures as referred to in paragraph 3 shall notify the Commission and other Member States. The notification shall:
+
+(a) provide a detailed description of the requirements that that Member State considers need to be adapted and the nature of the adaptation sought;
+
+(b) describe the foodstuffs and establishments concerned;
+
+(c) explain the reasons for the adaptation, including, where relevant, by providing a summary of the hazard analysis carried out and any measures to be taken to ensure that the adaptation will not compromise the objectives of this Regulation;
+
+and
+
+(d) give any other relevant information.
+
+6\. The other Member States shall have three months from the receipt of a notification referred to in paragraph 5 to send written comments to the Commission. In the case of the adaptations arising from paragraph 4(b), this period shall, at the request of any Member State, be extended to four months. The Commission may, and when it receives written comments from one or more Member States shall, consult Member States within the committee referred to in Article 14(1). The Commission may decide, in accordance with the procedure referred to in Article 14(2), whether the envisaged measures may be implemented, subject, if necessary, to appropriate amendments. Where appropriate, the Commission may propose general measures in accordance with paragraph 1 or 2.
+
+7\. A Member State may adopt national measures adapting the requirements of Annex II only:
+
+(a) in compliance with a decision adopted in accordance with paragraph 6;
+
+or
+
+(b) if, one month after the expiry of the period referred to in paragraph 6, the Commission has not informed Member States that it has received written comments or that it intends to propose the adoption of a decision in accordance with paragraph 6.
+
+### Article 14 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 15 — Consultation of the European Food Safety Authority
+
+The Commission shall consult the European Food Safety Authority on any matter falling within the scope of this Regulation that could have a significant impact on public health and, in particular, before proposing criteria, requirements or targets in accordance with Article 4(4).
+
+### Article 16 — Report to the European Parliament and the Council
+
+1\. The Commission shall, not later than 20 May 2009, submit a report to the European Parliament and the Council.
+
+2\. The report shall, in particular, review the experience gained from the application of this Regulation and consider whether it would be desirable and practicable to provide for the extension of the requirements of Article 5 to food business operators carrying out primary production and those associated operations listed in Annex I.
+
+3\. The Commission shall, if appropriate, accompany the report with relevant proposals.
+
+### Article 17 — Repeal
+
+1\. Directive 93/43/EEC shall be repealed with effect from the date of application of this Regulation.
+
+2\. References to the repealed Directive shall be construed as being made to this Regulation.
+
+3\. However, decisions adopted pursuant to Articles 3(3) and 10 of Directive 93/43/EEC shall remain in force pending their replacement by decisions adopted in accordance with this Regulation or Regulation (EC) No 178/2002. Pending the setting of the criteria or requirements referred to in Article 4(3)(a) to (e) of this Regulation, Member States may maintain any national rules establishing such criteria or requirements that they had adopted in accordance with Directive 93/43/EEC.
+
+4\. Pending the application of new Community legislation laying down rules for official controls on food, Member States shall take all appropriate measures to ensure the fulfilment of the obligations laid down in or under this Regulation.
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the 20th day after that of its publication in the Official Journal of the European Union.
+
+It shall apply 18 months after the date on which all of the following acts have entered into force:
+
+(a) Regulation (EC) No 853/2004;
+
+(b) Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption ( 3 );
+
+and
+
+(c) Directive 2004/41/EC of the European Parliament and of the Council of 21 April 2004 repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption ( 4 ).
+
+However, it shall apply no earlier than 1 January 2006.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — PRIMARY PRODUCTION
+
+**PART A: GENERAL HYGIENE PROVISIONS FOR PRIMARY PRODUCTION AND ASSOCIATED OPERATIONS**
+
+**I. Scope**
+
+1\. This Annex applies to primary production and the following associated operations:
+
+(a) the transport, storage and handling of primary products at the place of production, provided that this does not substantially alter their nature;
+
+(b) the transport of live animals, where this is necessary to achieve the objectives of this Regulation;
+
+and
+
+(c) in the case of products of plant origin, fishery products and wild game, transport operations to deliver primary products, the nature of which has not been substantially altered, from the place of production to an establishment.
+
+**II. Hygiene provisions**
+
+2\. As far as possible, food business operators are to ensure that primary products are protected against contamination, having regard to any processing that primary products will subsequently undergo.
+
+3\. Notwithstanding the general duty laid down in paragraph 2, food business operators are to comply with appropriate Community and national legislative provisions relating to the control of hazards in primary production and associated operations, including:
+
+(a) measures to control contamination arising from the air, soil, water, feed, fertilisers, veterinary medicinal products, plant protection products and biocides and the storage, handling and disposal of waste;
+
+and
+
+(b) measures relating to animal health and welfare and plant health that have implications for human health, including programmes for the monitoring and control of zoonoses and zoonotic agents.
+
+4\. Food business operators rearing, harvesting or hunting animals or producing primary products of animal origin are to take adequate measures, as appropriate:
+
+(a) to keep any facilities used in connection with primary production and associated operations, including facilities used to store and handle feed, clean and, where necessary after cleaning, to disinfect them in an appropriate manner;
+
+(b) to keep clean and, where necessary after cleaning, to disinfect, in an appropriate manner, equipment, containers, crates, vehicles and vessels;
+
+(c) as far as possible to ensure the cleanliness of animals going to slaughter and, where necessary, production animals;
+
+(d) to use potable water, or clean water, whenever necessary to prevent contamination;
+
+(e) to ensure that staff handling foodstuffs are in good health and undergo training on health risks;
+
+(f) as far as possible to prevent animals and pests from causing contamination;
+
+(g) to store and handle waste and hazardous substances so as to prevent contamination;
+
+(h) to prevent the introduction and spread of contagious diseases transmissible to humans through food, including by taking precautionary measures when introducing new animals and reporting suspected outbreaks of such diseases to the competent authority;
+
+(i) to take account of the results of any relevant analyses carried out on samples taken from animals or other samples that have importance to human health;
+
+and
+
+(j) to use feed additives and veterinary medicinal products correctly, as required by the relevant legislation.
+
+5\. Food business operators producing or harvesting plant products are to take adequate measures, as appropriate:
+
+(a) to keep clean and, where necessary after cleaning, to disinfect, in an appropriate manner, facilities, equipment, containers, crates, vehicles and vessels;
+
+(b) to ensure, where necessary, hygienic production, transport and storage conditions for, and the cleanliness of, plant products;
+
+(c) to use potable water, or clean water, whenever necessary to prevent contamination;
+
+(d) to ensure that staff handling foodstuffs are in good health and undergo training on health risks;
+
+(e) as far as possible to prevent animals and pests from causing contamination;
+
+(f) to store and handle wastes and hazardous substances so as to prevent contamination;
+
+(g) to take account of the results of any relevant analyses carried out on samples taken from plants or other samples that have importance to human health;
+
+and
+
+(h) to use plant protection products and biocides correctly, as required by the relevant legislation.
+
+5a. Equipment, conveyances and/or containers used for the harvesting, transport or storage of one of the substances or products causing allergies or intolerances, referred to in Annex II to Regulation (EU) No 1169/2011, shall not be used for the harvesting, transport or storage of any food not containing that substance or product, unless the equipment, conveyances and/or containers have been cleaned and checked at least for the absence of any visible debris of that substance or product.
+
+6\. Food business operators are to take appropriate remedial action when informed of problems identified during official controls.
+
+**III. Record-keeping**
+
+7\. Food business operators are to keep and retain records relating to measures put in place to control hazards in an appropriate manner and for an appropriate period, commensurate with the nature and size of the food business. Food business operators are to make relevant information contained in these records available to the competent authority and receiving food business operators on request.
+
+8\. Food business operators rearing animals or producing primary products of animal origin are, in particular, to keep records on:
+
+(a) the nature and origin of feed fed to the animals;
+
+(b) veterinary medicinal products or other treatments administered to the animals, dates of administration and withdrawal periods;
+
+(c) the occurrence of diseases that may affect the safety of products of animal origin;
+
+(d) the results of any analyses carried out on samples taken from animals or other samples taken for diagnostic purposes, that have importance for human health;
+
+and
+
+(e) any relevant reports on checks carried out on animals or products of animal origin.
+
+9\. Food business operators producing or harvesting plant products are, in particular, to keep records on:
+
+(a) any use of plant protection products and biocides;
+
+(b) any occurrence of pests or diseases that may affect the safety of products of plant origin;
+
+and
+
+(c) the results of any relevant analyses carried out on samples taken from plants or other samples that have importance to human health.
+
+10\. The food business operators may be assisted by other persons, such as veterinarians, agronomists and farm technicians, with the keeping of records.
+
+**PART B: RECOMMENDATIONS FOR GUIDES TO GOOD HYGIENE PRACTICE**
+
+1\. National and Community guides referred to in Articles 7 to 9 of this Regulation should contain guidance on good hygiene practice for the control of hazards in primary production and associated operations.
+
+2\. Guides to good hygiene practice should include appropriate information on hazards that may arise in primary production and associated operations and actions to control hazards, including relevant measures set out in Community and national legislation or national and Community programmes. Examples of such hazards and measures may include:
+
+(a) the control of contamination such as mycotoxins, heavy metals and radioactive material;
+
+(b) the use of water, organic waste and fertilisers;
+
+(c) the correct and appropriate use of plant protection products and biocides and their traceability;
+
+(d) the correct and appropriate use of veterinary medicinal products and feed additives and their traceability;
+
+(e) the preparation, storage, use and traceability of feed;
+
+(f) the proper disposal of dead animals, waste and litter;
+
+(g) protective measures to prevent the introduction of contagious diseases transmissible to humans through food, and any obligation to notify the competent authority;
+
+(h) procedures, practices and methods to ensure that food is produced, handled, packed, stored and transported under appropriate hygienic conditions, including effective cleaning and pest-control;
+
+(i) measures relating to the cleanliness of slaughter and production animals;
+
+(j) measures relating to record-keeping.
+
+## ANNEX II — GENERAL HYGIENE REQUIREMENTS FOR ALL FOOD BUSINESS OPERATORS (EXCEPT WHEN ANNEX I APPLIES)
+
+**INTRODUCTION**
+
+Chapters V, Va, VI, VII, VIII, IX, X, XI, XIa and XII apply to all stages of production, processing and distribution of food. The remaining Chapters apply as follows:
+
+— Chapter I applies to all food premises, except premises to which Chapter III applies,
+
+— Chapter II applies to all rooms where food is prepared, treated or processed, except dining areas and premises to which Chapter III applies,
+
+— Chapter III applies to those premises listed in the heading of that Chapter,
+
+— Chapter IV applies to all transportation,
+
+**CHAPTER I**
+
+**General requirements for food premises (other than those specified in chapter iii)**
+
+1\. Food premises are to be kept clean and maintained in good repair and condition.
+
+2\. The layout, design, construction, siting and size of food premises are to:
+
+(a) permit adequate maintenance, cleaning and/or disinfection, avoid or minimise air-borne contamination, and provide adequate working space to allow for the hygienic performance of all operations;
+
+(b) be such as to protect against the accumulation of dirt, contact with toxic materials, the shedding of particles into food and the formation of condensation or undesirable mould on surfaces;
+
+(c) permit good food hygiene practices, including protection against contamination and, in particular, pest control;
+
+and
+
+(d) where necessary, provide suitable temperature-controlled handling and storage conditions of sufficient capacity for maintaining foodstuffs at appropriate temperatures and designed to allow those temperatures to be monitored and, where necessary, recorded.
+
+3\. An adequate number of flush lavatories are to be available and connected to an effective drainage system. Lavatories are not to open directly into rooms in which food is handled.
+
+4\. An adequate number of washbasins is to be available, suitably located and designated for cleaning hands. Washbasins for cleaning hands are to be provided with hot and cold running water, materials for cleaning hands and for hygienic drying. Where necessary, the facilities for washing food are to be separate from the hand-washing facility.
+
+5\. There is to be suitable and sufficient means of natural or mechanical ventilation. Mechanical airflow from a contaminated area to a clean area is to be avoided. Ventilation systems are to be so constructed as to enable filters and other parts requiring cleaning or replacement to be readily accessible.
+
+6\. Sanitary conveniences are to have adequate natural or mechanical ventilation.
+
+7\. Food premises are to have adequate natural and/or artificial lighting.
+
+8\. Drainage facilities are to be adequate for the purpose intended. They are to be designed and constructed to avoid the risk of contamination. Where drainage channels are fully or partially open, they are to be so designed as to ensure that waste does not flow from a contaminated area towards or into a clean area, in particular an area where foods likely to present a high risk to the final consumer are handled.
+
+9\. Where necessary, adequate changing facilities for personnel are to be provided.
+
+10\. Cleaning agents and disinfectants are not to be stored in areas where food is handled.
+
+**CHAPTER II**
+
+**Specific requirements in rooms where foodstuffs are prepared, treated or processed (excluding dining areas and those premises specified in chapter III)**
+
+1\. In rooms where food is prepared, treated or processed (excluding dining areas and those premises specified in Chapter III, but including rooms contained in means of transport) the design and layout are to permit good food hygiene practices, including protection against contamination between and during operations. In particular:
+
+(a) floor surfaces are to be maintained in a sound condition and be easy to clean and, where necessary, to disinfect. This will require the use of impervious, non-absorbent, washable and non-toxic materials unless food business operators can satisfy the competent authority that other materials used are appropriate. Where appropriate, floors are to allow adequate surface drainage;
+
+(b) wall surfaces are to be maintained in a sound condition and be easy to clean and, where necessary, to disinfect. This will require the use of impervious, non-absorbent, washable and non-toxic materials and require a smooth surface up to a height appropriate for the operations unless food business operators can satisfy the competent authority that other materials used are appropriate;
+
+(c) ceilings (or, where there are no ceilings, the interior surface of the roof) and overhead fixtures are to be constructed and finished so as to prevent the accumulation of dirt and to reduce condensation, the growth of undesirable mould and the shedding of particles;
+
+(d) windows and other openings are to be constructed to prevent the accumulation of dirt. Those which can be opened to the outside environment are, where necessary, to be fitted with insect-proof screens which can be easily removed for cleaning. Where open windows would result in contamination, windows are to remain closed and fixed during production;
+
+(e) doors are to be easy to clean and, where necessary, to disinfect. This will require the use of smooth and non-absorbent surfaces unless food business operators can satisfy the competent authority that other materials used are appropriate;
+
+and
+
+(f) surfaces (including surfaces of equipment) in areas where foods are handled and in particular those in contact with food are to be maintained in a sound condition and be easy to clean and, where necessary, to disinfect. This will require the use of smooth, washable corrosion-resistant and non-toxic materials, unless food business operators can satisfy the competent authority that other materials used are appropriate.
+
+2\. Adequate facilities are to be provided, where necessary, for the cleaning, disinfecting and storage of working utensils and equipment. These facilities are to be constructed of corrosion-resistant materials, be easy to clean and have an adequate supply of hot and cold water.
+
+3\. Adequate provision is to be made, where necessary, for washing food. Every sink or other such facility provided for the washing of food is to have an adequate supply of hot and/or cold potable water consistent with the requirements of Chapter VII and be kept clean and, where necessary, disinfected.
+
+**CHAPTER III**
+
+**Requirements for movable and/or temporary premises (such as marquees, market stalls, mobile sales vehicles), premises used primarily as a private dwelling-house but where foods are regularly prepared for placing on the market and vending machines**
+
+1\. Premises and vending machines are, so far as is reasonably practicable, to be so sited, designed, constructed and kept clean and maintained in good repair and condition as to avoid the risk of contamination, in particular by animals and pests.
+
+2\. In particular, where necessary:
+
+(a) appropriate facilities are to be available to maintain adequate personal hygiene (including facilities for the hygienic washing and drying of hands, hygienic sanitary arrangements and changing facilities);
+
+(b) surfaces in contact with food are to be in a sound condition and be easy to clean and, where necessary, to disinfect. This will require the use of smooth, washable, corrosion-resistant and non-toxic materials, unless food business operators can satisfy the competent authority that other materials used are appropriate;
+
+(c) adequate provision is to be made for the cleaning and, where necessary, disinfecting of working utensils and equipment;
+
+(d) where foodstuffs are cleaned as part of the food business' operations, adequate provision is to be made for this to be undertaken hygienically;
+
+(e) an adequate supply of hot and/or cold potable water is to be available;
+
+(f) adequate arrangements and/or facilities for the hygienic storage and disposal of hazardous and/or inedible substances and waste (whether liquid or solid) are to be available;
+
+(g) adequate facilities and/or arrangements for maintaining and monitoring suitable food temperature conditions are to be available;
+
+(h) foodstuffs are to be so placed as to avoid the risk of contamination so far as is reasonably practicable.
+
+**CHAPTER IV**
+
+**Transport**
+
+1\. Conveyances and/or containers used for transporting foodstuffs are to be kept clean and maintained in good repair and condition to protect foodstuffs from contamination and are, where necessary, to be designed and constructed to permit adequate cleaning and/or disinfection.
+
+2\. Receptacles in vehicles and/or containers are not to be used for transporting anything other than foodstuffs where this may result in contamination.
+
+3\. Where conveyances and/or containers are used for transporting anything in addition to foodstuffs or for transporting different foodstuffs at the same time, there is, where necessary, to be effective separation of products.
+
+4\. Bulk foodstuffs in liquid, granulate or powder form are to be transported in receptacles and/or containers/tankers reserved for the transport of foodstuffs. Such containers are to be marked in a clearly visible and indelible fashion, in one or more Community languages, to show that they are used for the transport of foodstuffs, or are to be marked ‘for foodstuffs only’.
+
+5\. Where conveyances and/or containers have been used for transporting anything other than foodstuffs or for transporting different foodstuffs, there is to be effective cleaning between loads to avoid the risk of contamination.
+
+6\. Foodstuffs in conveyances and/or containers are to be so placed and protected as to minimise the risk of contamination.
+
+7\. Where necessary, conveyances and/or containers used for transporting foodstuffs are to be capable of maintaining foodstuffs at appropriate temperatures and allow those temperatures to be monitored.
+
+**CHAPTER V**
+
+**Equipment requirements**
+
+1\. All articles, fittings and equipment with which food comes into contact are to:
+
+(a) be effectively cleaned and, where necessary, disinfected. Cleaning and disinfection are to take place at a frequency sufficient to avoid any risk of contamination;
+
+(b) be so constructed, be of such materials and be kept in such good order, repair and condition as to minimise any risk of contamination;
+
+(c) with the exception of non-returnable containers and packaging, be so constructed, be of such materials and be kept in such good order, repair and condition as to enable them to be kept clean and, where necessary, to be disinfected;
+
+and
+
+(d) be installed in such a manner as to allow adequate cleaning of the equipment and the surrounding area.
+
+2\. Where necessary, equipment is to be fitted with any appropriate control device to guarantee fulfilment of this Regulation's objectives.
+
+3\. Where chemical additives have to be used to prevent corrosion of equipment and containers, they are to be used in accordance with good practice.
+
+**CHAPTER Va**
+
+**Redistribution of food**
+
+Food business operators may redistribute food for the purpose of food donation subject to the following conditions:
+
+(1) Food business operators shall routinely check if food under their responsibility is not injurious to health and is fit for human consumption in accordance with Article 14(2) of Regulation (EC) No 178/2002 ( 5 ). If the check carried out is satisfactory, food business operators may redistribute food in accordance with point (2):
+
+— for food for which a ‘use by’ date is applied in accordance with Article 24 of Regulation (EU) No 1169/2011, before the expiry of that date,
+
+— for food for which a date of minimum durability is applied in accordance with Article 2(2)(r) of Regulation (EU) No 1169/2011, up to and after that date, or
+
+— for food for which a date of minimum durability is not required in accordance with point 1(d) of Annex X to Regulation (EU) No 1169/2011, at any time provided.
+
+(2) Food business operators handling food referred to in point 1, shall assess if food is not injurious to health and fit for human consumption by taking into account at least the following:
+
+— the date of minimum durability or the ‘use by’ date, ensuring sufficient remaining shelf-life left to allow for the safe redistribution and use by the final consumer,
+
+— the integrity of the packaging, when applicable,
+
+— the proper storage and transport conditions, including applicable temperature requirements,
+
+— the date of freezing in accordance with point 2(b) of Section IV of Annex II to Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 6 ), when applicable,
+
+— the organoleptic conditions,
+
+— the assurance of traceability in accordance with Commission Implementing Regulation (EU) No 931/2011 ( 7 ), in case of products of animal origin.
+
+**CHAPTER VI**
+
+**Food waste**
+
+1\. Food waste, non-edible by-products and other refuse are to be removed from rooms where food is present as quickly as possible, so as to avoid their accumulation.
+
+2\. Food waste, non-edible by-products and other refuse are to be deposited in closable containers, unless food business operators can demonstrate to the competent authority that other types of containers or evacuation systems used are appropriate. These containers are to be of an appropriate construction, kept in sound condition, be easy to clean and, where necessary, to disinfect.
+
+3\. Adequate provision is to be made for the storage and disposal of food waste, non-edible by-products and other refuse. Refuse stores are to be designed and managed in such a way as to enable them to be kept clean and, where necessary, free of animals and pests.
+
+4\. All waste is to be eliminated in a hygienic and environmentally friendly way in accordance with Community legislation applicable to that effect, and is not to constitute a direct or indirect source of contamination.
+
+**CHAPTER VII**
+
+**Water supply**
+
+1.
+
+(a) There is to be an adequate supply of potable water, which is to be used whenever necessary to ensure that foodstuffs are not contaminated;
+
+(b) Clean water may be used with whole fishery products.
+
+Clean seawater may be used with live bivalve molluscs, echinoderms, tunicates and marine gastropods; clean water may also be used for external washing.
+
+When clean water is used, adequate facilities and procedures are to be available for its supply to ensure that such use is not a source of contamination for the foodstuff.
+
+2\. Where non-potable water is used, for example for fire control, steam production, refrigeration and other similar purposes, it is to circulate in a separate duly identified system. Non-potable water is not to connect with, or allow reflux into, potable water systems.
+
+3\. Recycled water used in processing or as an ingredient is not to present a risk of contamination. It is to be of the same standard as potable water, unless the competent authority is satisfied that the quality of the water cannot affect the wholesomeness of the foodstuff in its finished form.
+
+4\. Ice which comes into contact with food or which may contaminate food is to be made from potable water or, when used to chill whole fishery products, clean water. It is to be made, handled and stored under conditions that protect it from contamination.
+
+5\. Steam used directly in contact with food is not to contain any substance that presents a hazard to health or is likely to contaminate the food.
+
+6\. Where heat treatment is applied to foodstuffs in hermetically sealed containers it is to be ensured that water used to cool the containers after heat treatment is not a source of contamination for the foodstuff.
+
+**CHAPTER VIII**
+
+**Personal hygiene**
+
+1\. Every person working in a food-handling area is to maintain a high degree of personal cleanliness and is to wear suitable, clean and, where necessary, protective clothing.
+
+2\. No person suffering from, or being a carrier of a disease likely to be transmitted through food or afflicted, for example, with infected wounds, skin infections, sores or diarrhoea is to be permitted to handle food or enter any food-handling area in any capacity if there is any likelihood of direct or indirect contamination. Any person so affected and employed in a food business and who is likely to come into contact with food is to report immediately the illness or symptoms, and if possible their causes, to the food business operator.
+
+**CHAPTER IX**
+
+**Provisions applicable to foodstuffs**
+
+1\. A food business operator is not to accept raw materials or ingredients, other than live animals, or any other material used in processing products, if they are known to be, or might reasonably be expected to be, contaminated with parasites, pathogenic microorganisms or toxic, decomposed or foreign substances to such an extent that, even after the food business operator had hygienically applied normal sorting and/or preparatory or processing procedures, the final product would be unfit for human consumption.
+
+2\. Raw materials and all ingredients stored in a food business are to be kept in appropriate conditions designed to prevent harmful deterioration and protect them from contamination.
+
+3\. At all stages of production, processing and distribution, food is to be protected against any contamination likely to render the food unfit for human consumption, injurious to health or contaminated in such a way that it would be unreasonable to expect it to be consumed in that state.
+
+4\. Adequate procedures are to be in place to control pests. Adequate procedures are also to be in place to prevent domestic animals from having access to places where food is prepared, handled or stored (or, where the competent authority so permits in special cases, to prevent such access from resulting in contamination).
+
+5\. Raw materials, ingredients, intermediate products and finished products likely to support the reproduction of pathogenic micro-organisms or the formation of toxins are not to be kept at temperatures that might result in a risk to health. The cold chain is not to be interrupted. However, limited periods outside temperature control are permitted, to accommodate the practicalities of handling during preparation, transport, storage, display and service of food, provided that it does not result in a risk to health. Food businesses manufacturing, handling and wrapping processed foodstuffs are to have suitable rooms, large enough for the separate storage of raw materials from processed material and sufficient separate refrigerated storage.
+
+6\. Where foodstuffs are to be held or served at chilled temperatures they are to be cooled as quickly as possible following the heat-processing stage, or final preparation stage if no heat process is applied, to a temperature which does not result in a risk to health.
+
+7\. The thawing of foodstuffs is to be undertaken in such a way as to minimise the risk of growth of pathogenic microorganisms or the formation of toxins in the foods. During thawing, foods are to be subjected to temperatures that would not result in a risk to health. Where run-off liquid from the thawing process may present a risk to health it is to be adequately drained. Following thawing, food is to be handled in such a manner as to minimise the risk of growth of pathogenic microorganisms or the formation of toxins.
+
+8\. Hazardous and/or inedible substances, including animal feed, are to be adequately labelled and stored in separate and secure containers.
+
+9\. Equipment, conveyances and/or containers used for the processing, handling, transport or storage of one of the substances or products causing allergies or intolerances, referred to in Annex II to Regulation (EU) No 1169/2011, shall not be used for the processing, handling, transport or storage of any food, not containing that substance or product, unless the equipment, conveyances and/or containers have been cleaned and checked at least for the absence of any visible debris of that substance or product.
+
+**CHAPTER X**
+
+**Provisions applicable to the wrapping and packaging of foodstuffs**
+
+1\. Material used for wrapping and packaging are not to be a source of contamination.
+
+2\. Wrapping materials are to be stored in such a manner that they are not exposed to a risk of contamination.
+
+3\. Wrapping and packaging operations are to be carried out so as to avoid contamination of the products. Where appropriate and in particular in the case of cans and glass jars, the integrity of the container's construction and its cleanliness is to be assured.
+
+4\. Wrapping and packaging material re-used for foodstuffs is to be easy to clean and, where necessary, to disinfect.
+
+**CHAPTER XI**
+
+**Heat treatment**
+
+The following requirements apply only to food placed on the market in hermetically sealed containers:
+
+1\. any heat treatment process used to process an unprocessed product or to process further a processed product is:
+
+(a) to raise every party of the product treated to a given temperature for a given period of time;
+
+and
+
+(b) to prevent the product from becoming contaminated during the process;
+
+2\. to ensure that the process employed achieves the desired objectives, food business operators are to check regularly the main relevant parameters (particularly temperature, pressure, sealing and microbiology), including by the use of automatic devices;
+
+3\. the process used should conform to an internationally recognised standard (for example, pasteurisation, ultra high temperature or sterilisation).
+
+**CHAPTER XIa**
+
+**Food Safety Culture**
+
+1\. Food business operators shall establish, maintain and provide evidence of an appropriate food safety culture by fulfilling the following requirements:
+
+(a) commitment of the management, in accordance with point 2, and all employees to the safe production and distribution of food;
+
+(b) leadership towards the production of safe food and to engage all employees in food safety practices;
+
+(c) awareness of food safety hazards and of the importance of food safety and hygiene by all employees in the business;
+
+(d) open and clear communication between all employees in the business, within an activity and between consecutive activities, including communication of deviations and expectations;
+
+(e) availability of sufficient resources to ensure the safe and hygienic handling of food.
+
+2\. Management commitment shall include:
+
+(a) ensuring that roles and responsibilities are clearly communicated within each activity of the food business;
+
+(b) maintaining the integrity of the food hygiene system when changes are planned and implemented;
+
+(c) verifying that controls are being performed timely and efficiently and documentation is up to date;
+
+(d) ensuring that the appropriate training and supervision are in place for personnel;
+
+(e) ensuring compliance with relevant regulatory requirements;
+
+(f) encouraging continual improvement of the food safety management system of the business, where appropriate, taking into account developments in science, technology and best practices.
+
+3\. The implementation of the food safety culture shall take account of the nature and size of the food business.
+
+**CHAPTER XII**
+
+**Training**
+
+Food business operators are to ensure:
+
+1\. that food handlers are supervised and instructed and/or trained in food hygiene matters commensurate with their work activity;
+
+2\. that those responsible for the development and maintenance of the procedure referred to in Article 5(1) of this Regulation or for the operation of relevant guides have received adequate training in the application of the HACCP principles;
+
+and
+
+3\. compliance with any requirements of national law concerning training programmes for persons working in certain food sectors.
+
+( 1 ) OJ L 330, 5.12.1998, p. 32. Directive as amended by Regulation (EC) No 1882/2003.
+
+( 2 ) Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (OJ L 204, 21.7.1998, p. 37). Directive as last amended by the 2003 Act of Accession.
+
+( 3 ) See page 83 of this Official Journal.
+
+( 4 ) OJ L 157, 30.4.2004, p. 33.
+
+( 5 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 6 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 7 ) Commission Implementing Regulation (EU) No 931/2011 of 19 September 2011 on the traceability requirements set by Regulation (EC) No 178/2002 of the European Parliament and of the Council for food of animal origin (OJ L 242, 20.9.2011, p. 2).

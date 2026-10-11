@@ -94,6 +94,7 @@ José Manuel BARROSO
 
 **List of species referred to in Article 1(2)(a) which are to comply with CPVO test protocols**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>CPVO protocol</td></tr>
 <tr><td>Festuca filiformis Pourr.</td><td>Fine-leaved sheep’s fescue</td><td>TP 67/1 of 23.6.2011</td></tr>
 <tr><td>Festuca ovina L.</td><td>Sheep’s fescue</td><td>TP 67/1 of 23.6.2011</td></tr>
@@ -118,11 +119,13 @@ José Manuel BARROSO
 <tr><td>Solanum tuberosum L.</td><td>Potato</td><td>TP 23/2 of 1.12.2005</td></tr>
 <tr><td colspan="3">The text of these protocols can be found on the CPVO web site (www.cpvo.europa.eu).</td></tr>
 </tbody>
+</table>
 
 **‘ANNEX II**
 
 **List of species referred to in Article 1(2)(b) which are to comply with UPOV test guidelines**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>UPOV guideline</td></tr>
 <tr><td>Beta vulgaris L.</td><td>Fodder beet</td><td>TG/150/3 of 4.11.1994</td></tr>
 <tr><td>Agrostis canina L.</td><td>Velvet bent</td><td>TG/30/6 of 12.10.1990</td></tr>
@@ -160,6 +163,7 @@ José Manuel BARROSO
 <tr><td>Sorghum bicolor (L.) Moench</td><td>Sorghum</td><td>TG/122/3 of 6.10.1989</td></tr>
 <tr><td colspan="3">The text of these guidelines can be found on the UPOV web site (www.upov.int).</td></tr>
 </tbody>
+</table>
 
 ’
 
@@ -169,6 +173,7 @@ José Manuel BARROSO
 
 **List of species referred to in Article 1(2)(a) which are to comply with CPVO test protocols**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>CPVO protocol</td></tr>
 <tr><td>Allium cepa L. (Cepa group)</td><td>Onion and Echalion</td><td>TP 46/2 of 1.4.2009</td></tr>
 <tr><td>Allium cepa L. (Aggregatum group)</td><td>Shallot</td><td>TP 46/2 of 1.4.2009</td></tr>
@@ -212,11 +217,13 @@ José Manuel BARROSO
 <tr><td>Zea mays L. (partim)</td><td>Sweet corn and Pop corn</td><td>TP 2/3 of 11.3.2010</td></tr>
 <tr><td colspan="3">The text of these protocols can be found on the CPVO web site (www.cpvo.europa.eu).</td></tr>
 </tbody>
+</table>
 
 **‘ANNEX II**
 
 **List of species referred to in Article 1(2)(b) which are to comply with UPOV test guidelines**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>UPOV guideline</td></tr>
 <tr><td>Beta vulgaris L.</td><td>Spinach beet or Chard</td><td>TG/106/4 of 31.3.2004</td></tr>
 <tr><td>Brassica rapa L.</td><td>Turnip</td><td>TG/37/10 of 4.4.2001</td></tr>
@@ -227,5 +234,6 @@ José Manuel BARROSO
 <tr><td>Scorzonera hispanica L.</td><td>Scorzonera or Black salsify</td><td>TG/116/4 of 24.3.2010</td></tr>
 <tr><td colspan="3">The text of these guidelines can be found on the UPOV web site (www.upov.int).</td></tr>
 </tbody>
+</table>
 
 ’

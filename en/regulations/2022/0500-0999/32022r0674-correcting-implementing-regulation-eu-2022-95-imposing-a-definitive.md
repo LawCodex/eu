@@ -1,0 +1,76 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/674 of 22 April 2022 correcting Implementing Regulation (EU) 2022/95 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China, as extended to imports of certain tube and pipe fittings, of iron or steel consigned from Taiwan, Indonesia, Sri Lanka and the Philippines, whether declared as originating in these countries or not following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council"
+identifier: "32022R0674"
+eli: "http://data.europa.eu/eli/reg_impl/2022/674/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-04-22
+entry_into_force: 2023-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0674"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/674 of 22 April 2022 correcting Implementing Regulation (EU) 2022/95 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China, as extended to imports of certain tube and pipe fittings, of iron or steel consigned from Taiwan, Indonesia, Sri Lanka and the Philippines, whether declared as originating in these countries or not following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/674**
+
+**of 22 April 2022**
+
+**correcting Implementing Regulation (EU) 2022/95 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China, as extended to imports of certain tube and pipe fittings, of iron or steel consigned from Taiwan, Indonesia, Sri Lanka and the Philippines, whether declared as originating in these countries or not following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports from countries not members of the European Union (1) (the basic Regulation), and in particular Article 11(2) thereof,
+
+Whereas:
+
+(1) By Commission Implementing Regulation (EU) 2022/95 (2), the Commission imposed a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China (‘PRC’), as extended to imports of certain tube and pipe fittings, of iron or steel consigned from Taiwan, Indonesia, Sri Lanka and the Philippines, whether declared as originating in these countries or not.
+
+(2) By Article 1 of Council Regulation (EC) No 763/2000 (3), three Taiwanese producers, Chup Hsin Enterprise Co. Ltd, Niang Hong Pipe Fittings Co. Ltd, and Rigid Industries Co. Ltd were exempted from the extension of the duty, as it was found that the said companies did not circumvent the measures.
+
+(3) However, the exemption from the extension of the duty to imports of the fittings produced by Chup Hsin Enterprise Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A098) and Niang Hong Pipe Fittings Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A100) was repealed by Council Regulation (EC) No 803/2009 (4).
+
+(4) Article 2(1) of Implementing Regulation (EU) 2022/95 erroneously states that imports of fittings produced by Chup Hsin Enterprise Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A098) and by Niang Hong Pipe Fittings Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A100) continue to be exempted from the application of the anti-dumping duties.
+
+(5) Therefore, the Commission has decided to correct Article 2(1) of Implementing Regulation (EU) 2022/95 in order to rectify the error mentioned in recital (4). This rectification should take effect as from the entry into force of Implementing Regulation (EU) 2022/95, namely 26 January 2022.
+
+(6) The measures provided for in this Regulation are in accordance with the opinion of the Committee, established by Article 15(1) of Regulation (EU) 2016/1036,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Article 2(1) of Implementing Regulation (EU) 2022/95 is replaced by the following:
+
+‘1. The definitive anti-dumping duty imposed by Article 1 on imports originating in the People’s Republic of China is hereby extended to imports of the same fittings (currently classified under TARIC codes: 7307931191; 7307931991; 7307998092) consigned from Taiwan (TARIC additional code A999), whether declared as originating in Taiwan or not, with the exception of those produced by Rigid Industries Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A099).’.
+
+## Article 2
+
+Members States’ customs authorities shall correct the customs declarations accepted from 26 January 2022 impacted by Article 1 of this Regulation and retroactively collect the anti-dumping duties on imports of the fittings produced by Chup Hsin Enterprise Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A098) and Niang Hong Pipe Fittings Co. Ltd, Kaohsiung (Taiwan) (TARIC additional code A100).
+
+## Article 3
+
+This Regulation shall enter into force with retroactive effect as from 26 January 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 22 April 2022.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 176, 30.6.2016, p. 21.
+
+(2) Commission Implementing Regulation (EU) 2022/95 of 24 January 2022 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China, as extended to imports of certain tube and pipe fittings, of iron or steel consigned from Taiwan, Indonesia, Sri Lanka and the Philippines, whether declared as originating in these countries or not, following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council (OJ L 16, 25.1.2022, p. 36).
+
+(3) Council Regulation (EC) No 763/2000 of 10 April 2000 extending the definitive anti-dumping duty, imposed by Regulation (EC) No 584/96 on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China to imports of certain tube and pipe fittings, of iron or steel, consigned from Taiwan, whether declared as originating in Taiwan or not, and terminating the investigation in respect of imports from three Taiwanese exporters (OJ L 94, 14.4.2000, p. 1).
+
+(4) Council Regulation (EC) No 803/2009 of 27 August 2009 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People’s Republic of China and Thailand, and those consigned from Taiwan, whether declared as originating in Taiwan, or not, and repealing the exemption granted to Chup Hsin Enterprise Co. Ltd and Nian Hong Pipe Fittings Co. Ltd (OJ L 233, 4.9.2009, p. 1).

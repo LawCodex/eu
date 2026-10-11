@@ -1,0 +1,331 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/980 of 16 May 2023 amending Implementing Regulation (EU) 2016/799 as regards a transitional smart tachograph and its use of the Galileo Open Service Navigation Message Authentication and amending Implementing Regulation (EU) 2021/1228 (Text with EEA relevance)"
+identifier: "32023R0980"
+eli: "http://data.europa.eu/eli/reg_impl/2023/980/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-05-16
+entry_into_force: 2023-12-25
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0980"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/980 of 16 May 2023 amending Implementing Regulation (EU) 2016/799 as regards a transitional smart tachograph and its use of the Galileo Open Service Navigation Message Authentication and amending Implementing Regulation (EU) 2021/1228 (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/980**
+
+**of 16 May 2023**
+
+**amending Implementing Regulation (EU) 2016/799 as regards a transitional smart tachograph and its use of the Galileo Open Service Navigation Message Authentication and amending Implementing Regulation (EU) 2021/1228**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport (1), and in particular Article 11 thereof,
+
+Whereas:
+
+(1) Regulation (EU) No 165/2014 has introduced smart tachographs, which include a connection to the global navigation satellite system (‘GNSS’).
+
+(2) The technical specifications for the construction, testing, installation operation and repair of smart tachographs and their components are set out in Implementing Regulation (EU) 2016/799 (2).
+
+(3) Regulation (EU) 2020/1054 of the European Parliament and of the Council (3) introduced new requirements for the smart tachograph, which required amending its technical specifications. Commission Implementing Regulation (EU) 2021/1228 (4) therefore amended Regulation (EU) 2016/799 to introduce a second version of the smart tachograph.
+
+(4) Implementing Regulation (EU) 2021/1228 introduced the mandatory use of the Galileo Open Service Navigation Message Authentication (‘OSNMA’) by smart tachographs, to allow the authentication of positions recorded by the tachograph through the use of Galileo Global Navigation Satellite System (GNSS).
+
+(5) OSNMA is currently in a public testing phase, with a service declaration expected only after the introduction date of the second version of the smart tachograph in newly-registered vehicles. This makes the type-approval of vehicle units uncertain, as well as the behaviour of second version smart tachographs following a future change in signal-in-space in OSNMA.
+
+(6) To ensure harmonised testing and type approval conditions, as well as harmonised behaviours of vehicle units, it is necessary to ensure a common functioning of second version smart tachographs, both before and after the OSNMA service declaration.
+
+(7) The initial second version smart tachographs should be type approved on the basis of the OSNMA signal-in-space and cryptographic material available for the public testing phase of the service. In order to ensure that the driver is not disturbed after the change to the operational signal-in-space, these tachographs should ignore OSNMA until they can be updated to fully use the OSNMA service. This creates a transitional period for second version smart tachographs with regards to the use of OSNMA.
+
+(8) These transitional tachographs should ensure all the functionalities laid down in Chapter II of Regulation (EU) No 165/2014.
+
+(9) It is expected that no changes to the hardware will be needed once the service declaration of OSNMA takes place for the tachograph to function with the operational OSNMA service. It should therefore be possible for the software of a transitional tachograph to be updated to make full use of OSNMA once it is available.
+
+(10) In light of future developments regarding the availability and functioning of OSNMA, the feasibility of updating the tachograph in a workshop, or possible manipulation techniques detected against the tachograph in the field, the Commission may re-evaluate whether the technical specifications should be revised, including whether a requirement for the transitional smart tachograph to make full use of its OSNMA capability is necessary.
+
+(11) Sufficient time should be given to the industry to implement the transitional measures. The request for type approval of transitional tachographs should therefore be possible until at least 31 December 2023. It should also be possible to continue to install transitional tachographs for a limited period of time after the OSNMA Service Declaration.
+
+(12) Enforcement authorities should be able to recognise, once the transitional period has ended, whether the smart tachograph installed is fitted with a software version that allows it to make use of Galileo OSNMA.
+
+(13) The current date of application laid out in Article 2 of Implementing Regulation (EU) 2021/1228 prevents type-approval authorities from granting type-approval to equipment pursuant to Implementing Regulation (EU) 2016/799 in accordance with the amendments laid down in Implementing Regulation (EU) 2021/1228 before 21 August 2023. However, pursuant to articles 8(1) and 11 of Regulation (EU) No 165/2014, from that date vehicles registered for the first time in a Member State are to be equipped with the new version of the smart tachograph. Implementing Regulation (EU) 2021/1228 should therefore be amended to allow type-approval to be granted as soon as this Regulation enters into force.
+
+(14) The measures provided for in this Regulation are in accordance with the opinion of the Committee established by Article 42(1) of Regulation (EU) No 165/2014,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex IC to Implementing Regulation (EU) 2016/799 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+The following paragraph is added in Article 2 of Implementing Regulation (EU) 2021/1228:
+
+‘However, from 25 May 2023, national authorities shall not refuse to grant EU type approval for a new type of tachograph, tachograph component, or tachograph card, or grant extension for an existing type of tachograph, tachograph component, or tachograph card, or prohibit registration, placing on the market or entry into service of a new tachograph, tachograph component, or tachograph card where the equipment concerned complies with Implementing Regulation (EU) 2016/799 as amended by this Regulation, if a manufacturer so requests.’
+
+## Article 3
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 August 2023.
+
+However, from 25 May 2023, national authorities shall not refuse to grant EU type approval for a new type of tachograph, tachograph component, or tachograph card, or grant extension for an existing type of tachograph or tachograph component, or tachograph card, or prohibit registration, placing on the market or entry into service of a new tachograph, tachograph component, or tachograph card where the equipment concerned complies with Implementing Regulation (EU) 2016/799 as amended by Implementing Regulation (EU) 2021/1228 and this Regulation, if a manufacturer so requests.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 16 May 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 60, 28.2.2014, p. 1.
+
+(2) Commission Implementing Regulation (EU) 2016/799 of 18 March 2016 implementing Regulation (EU) No 165/2014 of the European Parliament and of the Council laying down the requirements for the construction, testing, installation, operation and repair of tachographs and their components (OJ L 139, 26.5.2016, p. 1).
+
+(3) Regulation (EU) 2020/1054 of the European Parliament and of the Council of 15 July 2020 amending Regulation (EC) No 561/2006 as regards minimum requirements on maximum daily and weekly driving times, minimum breaks and daily and weekly rest periods and Regulation (EU) No 165/2014 as regards positioning by means of tachographs (OJ L 249, 31.7.2020, p. 1).
+
+(4) Commission Implementing Regulation (EU) 2021/1228 of 16 July 2021 amending Implementing Regulation (EU) 2016/799 as regards the requirements for the construction, testing, installation, operation and repair of smart tachographs and their components (OJ L 273, 30.7.2021, p. 1).
+
+## ANNEX
+
+In Annex IC to Implementing Regulation (EU) 2016/799, the following Appendix 17 is added:
+
+**‘Appendix 17**
+
+**TRANSITIONAL PROVISIONS RELATED to THE USE OF OSNMA BY TACHOGRAPHS**
+
+**1\. DEFINITIONS AND ACRONYMS**
+
+**1.1. Definitions**
+
+Service Declaration of Galileo Open Service Navigation Message Authentication (OSNMA) means the declaration of the European Commission that Galileo OSNMA enters its operational phase.
+
+Transitional vehicle unit: Vehicle unit complying with the provisions of this Appendix.
+
+Transitional vehicle units are constructed in accordance with the SIS ICD and the OSNMA receiver guidelines applicable to the OSNMA public test phase. They contain a GNSS receiver which is capable of using OSNMA available during its public test phase.
+
+Transitional vehicle units are however unable to authenticate the navigation messages available after the Service Declaration of OSNMA, due to a necessary update of the cryptographic material in the vehicle unit. An appropriate software update needs to be applied, so that they can start to use OSNMA, and comply with all the requirements of Annex IC and its Appendixes 1 to 16. Before being updated, transitional vehicle units implement the OSNMA related functionalities as specified in this Appendix. Functionalities unrelated to OSNMA remain unchanged.
+
+If the appropriate software update is applied, transitional vehicle units implement the SIS ICD and the OSNMA receiver guidelines applicable to the OSNMA operational phase, and comply with all the requirements of Annex IC and its Appendixes 1 to 16, using OSNMA available during the operational phase.
+
+Transitional tachograph: tachograph including a transitional vehicle unit.
+
+**1.2. Acronyms**
+
+| ICD | Interface Control Document |
+| --- | --- |
+| OSNMA | Galileo Open Service Navigation Message Authentication |
+| SIS | Signal in Space |
+| VU | Vehicle Unit |
+
+**2\. GENERAL CONSIDERATIONS RELATED TO OSNMA**
+
+In order to allow vehicles registered for the first time to be fitted with version 2 of second generation tachographs, starting from the requested introduction date as defined in point (ccc) of Section 1 of Annex I C to Implementing Regulation (EU) 2016/799, there is a need to type-approve, produce and commercialize vehicle units before the Service Declaration of OSNMA. For these vehicle units, referred to as transitional vehicle units, OSNMA-related requirements of Annex IC and its Appendixes 1 to 16 need to be adapted, so that they can be type approved and used in the field.
+
+The provisions laid down in this Appendix define the specific requirements applicable to transitional vehicle units. They only apply to vehicle units with an internal GNSS receiver.
+
+**3\. REQUIREMENTS APPLICABLE TO THE GNSS RECEIVER OF TRANSITIONAL TACHOGRAPHS**
+
+|  | TRA_001 | Transitional vehicle units shall include a GNSS receiver capable of using OSNMA available during its public test phase. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_002</td><td>Appendix 12 requirements apply to the GNSS receiver included in transitional vehicle units, with the following interpretations:<table><tbody><tr><td>—</td><td>SIS ICD and OSNMA Receiver Guidelines referred to are the documents available for the public test phase:<table><tbody><tr><td>—</td><td>Galileo Open Service Navigation Message Authentication (OSNMA) User ICD for the Test Phase, Issue 1.0, November 2021,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Galileo Open Service Navigation Message Authentication (OSNMA) Receiver Guidelines for the Test Phase, Issue 1.0, November 2021,</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>OSNMA is the service available during the public test phase,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>SIS is the Signal In Space available during the public test phase.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_003 | The GNSS receiver included in transitional vehicle units shall be so designed that after an update of its software, applied through a vehicle unit software update, it fully complies with Annex 12 requirements, using OSNMA available during its operational phase. |
+| --- | --- | --- |
+
+**4\. REQUIREMENTS APPLICABLE TO TRANSITIONAL VEHICLE UNITS**
+
+Transitional vehicle units may process the OSNMA signal available during its public test phase, but are not able to report the Navigation Messages Authentication Status from the SIS available during OSNMA operational phase, until an appropriate software update is applied. They therefore assume that the standard positions provided by the GNSS receiver are always authenticated.
+
+The requirements of Annex IC and its Appendixes 1 to 16 apply, with the following interpretations.
+
+|  | TRA_004 | Annex IC, 3.9.15 ‘Time conflict’ event, requirement 86, shall be understood as: This event shall be triggered, while not in calibration mode, when the VU detects a discrepancy between the time of the vehicle unit’s time measurement function and the time originating from the standard positions transmitted by the GNSS receiver or the external GNSS facility. A “ time discrepancy” is detected if the time difference exceeds ± 3 seconds corresponding to the time accuracy set out in requirement 41a, the latter increased by the maximal time drift per day. This event shall be recorded together with the internal clock value of the recording equipment. The VU shall perform the check for triggering the “time conflict” event right before the VU automatically re-adjusts the VU internal clock, in accordance with requirement 211. |
+| --- | --- | --- |
+
+|  | TRA_005 | Annex IC, 3.9.18 “GNSS anomaly” event, requirement 88a, shall be understood as: This event shall be triggered, while not in calibration mode, when the GNSS receiver detects an attack , as specified in Appendix 12. After a GNSS anomaly event has been triggered, the VU shall not generate other GNSS anomaly events for the next 10 minutes. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_006</td><td>Annex IC, 3.12.5 Recording and storing in the data memory, Places and positions where daily work periods begin, end, and/or where 3 hours accumulated driving time is reached, requirement 110, shall be understood as: Together with each place or position, the recording equipment shall record and store in its data memory: <table><tbody><tr><td>—</td><td>the driver and/or co-driver card number and card issuing Member State,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the card generation,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the date and time of the entry,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the type of entry (begin, end or 3 hours accumulated driving time),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the related GNSS accuracy, date and time if applicable,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the vehicle odometer value,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>a flag indicating that the position has been assumed as authenticated.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>TRA_007</td><td>Annex IC, 3.12.17 Recording and storing in the data memory, Border crossings, requirement 133b, shall be understood as: Together with countries and position, the recording equipment shall record and store in its data memory: <table><tbody><tr><td>—</td><td>the driver and/or co-driver card number and card issuing Member State,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the card generation,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the related GNSS accuracy, date and time,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>a flag indicating that the position has been assumed as authenticated,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the vehicle odometer value at the time of border crossing detection.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>TRA_008</td><td>Annex IC, 3.12.18 Recording and storing in the data memory, Load/unload operations, requirement 133g, shall be understood as: Together with the type of operation and position, the recording equipment shall record and store in its data memory: <table><tbody><tr><td>—</td><td>the driver and/or co-driver card number and card issuing Member State,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the card generation,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the date and time of the load/unload operation,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the related GNSS accuracy, date and time if applicable,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>a flag indicating that the position has been assumed as authenticated,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the vehicle odometer value.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_009 | Annex IC, 3.23 Time adjustment, requirement 211, shall be understood as: The time setting of the VU internal clock shall be automatically re-adjusted, at variable time intervals. The next automatic time re-adjustment shall be triggered between 72h and 168h after the previous one, and after the VU can access to GNSS time through a valid standard position message in accordance with Appendix 12. Nevertheless, the time adjustment shall never be bigger than the accumulated maximal time drift per day, as calculated by the VU manufacturer in accordance with requirement 41b. If the difference between internal VU clock time and GNSS receiver time is bigger than the accumulated maximum time drift per day, then the time adjustment shall bring the VU internal clock as close as possible to the GNSS receiver time. The time setting may only be done if the time provided by the GNSS receiver is obtained using standard position messages as set out in Appendix 12. The time reference for the automatic time setting of the VU internal clock shall be the time provided in the standard position message. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_010</td><td>Annex IC, 3.23 Time adjustment, requirement 212, shall be understood as: The time adjustment function shall also allow for triggered adjustment of the current time, in calibration mode.  Workshops may adjust time: <table><tbody><tr><td>—</td><td>either by writing a time value in the VU, using the WriteDataByIdentifier service in accordance with section 6.2 of Appendix 8,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>or by requesting an alignment of the VU clock to the time provided by the GNSS receiver. This may only be done if the time provided by the GNSS receiver is obtained using standard position messages. In this latter case, the RoutineControl service shall be used in accordance with section 8 of Appendix 8.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_011 | Appendix 4, 2. Data blocks specification, first paragraph, seventh indent, shall be understood as: When printed after the longitude and the latitude of a recorded position, or after the timestamp when the position was determined, the [image] pictogram indicates that this position has been assumed as authentic. |
+| --- | --- | --- |
+
+|  | TRA_012 | Appendix 8, 8.1 RoutineControl service (Time adjustment), Message description, requirement CPR_065a, shall be understood as: The service RoutineControl (TimeAdjustment) provides the ability to trigger an alignment of the VU clock to the time provided by the GNSS receiver. For the service RoutineControl (TimeAdjustment) execution the VU must be in CALIBRATION mode. Precondition: it is ensured that the VU is able to receive standard position messages from the GNSS receiver. As long the time adjustment is ongoing, the VU shall respond to the request RoutineControl, subfunction requestRoutineResults, with routineInfo = 0x78. Note: the time adjustment may take some time. The diagnostic tester shall request the time adjustment status by using the sub-function requestRoutineResults. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_013</td><td>In Appendix 12, 3 Sentences provided by the GNSS receiver, requirement GNS_4a: Data contained in the AMC sentences provided by the GNSS receiver, if any,shall not be usedby the vehicle unit, except for the following values of the Status: <table><tbody><tr><td>J = jamming or O = other GNSS attack (by implemented consistency checks according to GNS_3a),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>V = Void (authenticated position is not available for any other reason).</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_014 | In Appendix 12, 3 Sentences provided by the GNSS receiver, requirement GNS_5: Data contained in the ASA sentences provided by the GNSS receiver, if any, shall not be used by the vehicle unit. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_015</td><td>In Appendix 12, 5.2 Vehicle Unit without an external GNSS facility, Transfer of information from the GNSS receiver to the VU, requirements GNS_34 and 36: The VU processorshall notuse information extracted from the AMC sentence, except for the following values of the Status: <table><tbody><tr><td>J = jamming or O = other GNSS attack (by implemented consistency checks according to GNS_3a),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>V = Void (authenticated position is not available for any other reason).</td></tr>
+</tbody>
+</table>
+ The VU processorshall notuse information extracted from the ASA sentence. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>TRA_016</td><td>Appendix 12, 6 Position data processing and recording by the VU, requirement GNS_39, shall be understood as: Position data shall be stored in the VU, together with a flag indicating if the position has been assumed as authenticated. When position data need to be recorded in the VU, the following rule shall apply: <table><tbody><tr><td>(a)</td><td>If the standard position is valid, the standard position and its accuracy shall be recorded in the VU and the flag shall be set to ‘authenticated’.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_017 | Appendix 12, 6 Position data processing and recording by the VU, requirement GNS_40, shall be understood as: When the value of the Status in a received AMC sentence is set to ‘J’ or ‘O’ in accordance with requirement GNS_4a, the VU shall generate and record a GNSS anomaly event, as defined in requirement 88a of Annex IC and Appendix 1 (EventFaultType), The vehicle unit may perform additional checks before storing a GNSS anomaly event following the reception of a ‘J’ or ‘O’ setting. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>TRA_018</td><td>Appendix 12, 8 Vehicle motion conflict, requirement GNS_42, Trigger condition 2, the first and second indents after the formula shall be understood as:<table><tbody><tr><td>—</td><td>GnssDistance is the distance between the current position of the vehicle and the previous one, both obtained from validstandardposition messages, without considering the height,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>OdometerDifference is the difference between the current odometer value and the odometer value corresponding to the previous validstandardposition message.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | TRA_019 | Appendix 14, 5.4.5 DSRC Protocol requirements for RTMElements of RtmData, actions performed and definitions, requirement DSC_41, Table 14.3, second cell in the RTM20 row, shall be understood as: The VU shall generate an integer value (timeReal from Appendix 1) for data element RTM20. The VU shall set the value of RTM20 to the time at which the latest standard vehicle position was available from the GNSS receiver. If no standard vehicle position was available ever from the GNSS receiver the VU shall set the value of RTM20 to 0. |
+| --- | --- | --- |
+
+|  | TRA_020 | The manufacturer of a type approved transitional vehicle unit shall inform the Commission of its software versions. The Commission shall publish these software versions on a publicly available website. |
+| --- | --- | --- |
+
+**5\. SPECIFIC PROVISIONS FOR TYPE APPROVAL AND USE OF TRANSITIONAL TACHOGRAPHS**
+
+|  | TRA_021 | Transitional vehicle units shall be type approved according to the requirements of Annex IC and its Annexes 1 to 16, supplemented by the provisions of this Appendix. |
+| --- | --- | --- |
+
+|  | TRA_022 | Type approval certificates of transitional vehicle units and transitional tachographs may only be requested until 31 December 2023 or the Service Declaration date of OSNMA, whichever is the latest. |
+| --- | --- | --- |
+
+|  | TRA_023 | Transitional vehicle units may be fitted in vehicles registered for the first time only until 31 May 2024 or 5 months after the Service Declaration date of OSNMA, whichever is the latest. |
+| --- | --- | --- |
+
+’

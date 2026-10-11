@@ -1,0 +1,63 @@
+---
+title: "Commission Regulation (EC) No 1753/2006 of 28 November 2006 amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands, defining detailed provisions for amending and adapting these measures and repealing Regulation (EC) No 1983/95"
+identifier: "32006R1753"
+eli: "http://data.europa.eu/eli/reg/2006/1753/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-11-28
+entry_into_force: 2006-06-27
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006R1753"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1753/2006 of 28 November 2006 amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands, defining detailed provisions for amending and adapting these measures and repealing Regulation (EC) No 1983/95
+
+**COMMISSION REGULATION (EC) No 1753/2006**
+
+**of 28 November 2006**
+
+**amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands, defining detailed provisions for amending and adapting these measures and repealing Regulation (EC) No 1983/95**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 669/97 of 14 April 1997 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands, defining detailed provisions for amending and adapting these measures and repealing Regulation (EC) No 1983/95 (1), and in particular Article 5(1)(b) thereof,
+
+Whereas:
+
+(1) Decision No 1/2006 of the EC-Denmark/Faroe Islands Joint Committee of 13 July 2006 (2) has amended Table II of the Annex to Protocol 1 to the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, by increasing the annual tariff quota for shrimps, prawns and Norway lobsters, prepared or preserved, from 3 000 to 4 000 tonnes. That Decision took effect on 1 September 2006.
+
+(2) The volume of the annual tariff quota for shrimps, prawns and Norway lobsters, listed in the Annex to Regulation (EC) No 669/97 under order number 09.0679, should be amended to take account of that increase.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Annex to Regulation (EC) No 669/97 is amended as follows:
+
+In the table, for the order number 09.0679 in relation to the annual tariff quota for shrimps, prawns and Norway lobsters, prepared or preserved, the volume indicated in the sixth column ‘ 3 000 ’ is replaced by ‘ 4 000 ’.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 September 2006.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 28 November 2006.
+
+For the Commission
+
+László KOVÁCS
+
+Member of the Commission
+
+(1) OJ L 101, 18.4.1997, p. 1. Regulation as last amended by Commission Regulation (EC) No 31/2002 (OJ L 6, 10.1.2002, p. 36).
+
+(2) OJ L 221, 12.8.2006, p. 15.

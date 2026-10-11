@@ -1,0 +1,498 @@
+---
+title: "Commission Delegated Regulation (EU) 2016/522 of 17 December 2015 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards an exemption for certain third countries public bodies and central banks, the indicators of market manipulation, the disclosure thresholds, the competent authority for notifications of delays, the permission for trading during closed periods and types of notifiable managers' transactions (Text with EEA relevance)"
+identifier: "32016R0522"
+eli: "http://data.europa.eu/eli/reg_del/2016/522/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2015-12-17
+entry_into_force: 2017-05-07
+last_amended: 2026-08-05
+consolidated_version: "02016R0522-20260805"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0522-20260805"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2016/522 of 17 December 2015 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards an exemption for certain third countries public bodies and central banks, the indicators of market manipulation, the disclosure thresholds, the competent authority for notifications of delays, the permission for trading during closed periods and types of notifiable managers' transactions (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/522**
+
+**of 17 December 2015**
+
+**supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards an exemption from the application of that Regulation for certain third countries public bodies and central banks, the indicators of market manipulation, the disclosure thresholds, the competent authority for notifications of delays, the permission for trading during closed periods, the types of notifiable managers’ transactions, and the list of designated trading venues that have a significant cross-border dimension in the supervision of market abuse**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/461 of 30 January 2019 </td><td> L 80</td><td>10</td><td>22.3.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/788 of 8 April 2026 </td><td> L 788</td><td>1</td><td>16.7.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/522**
+
+**of 17 December 2015**
+
+**supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards an exemption from the application of that Regulation for certain third countries public bodies and central banks, the indicators of market manipulation, the disclosure thresholds, the competent authority for notifications of delays, the permission for trading during closed periods, the types of notifiable managers’ transactions, and the list of designated trading venues that have a significant cross-border dimension in the supervision of market abuse**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject-matter and scope
+
+This Regulation lays down detailed rules with regard to:
+
+(1) the extension of the exemption to certain public bodies and central banks of third countries from the obligations and prohibitions set out in Regulation (EU) No 596/2014 in carrying out monetary, exchange-rate or public debt management policy;
+
+(2) the indicators of market manipulation laid down in Annex I to Regulation (EU) No 596/2014;
+
+(3) the thresholds for the disclosure by emission allowance market participants of inside information;
+
+(4) the competent authority for the notifications of delays of public disclosure of inside information;
+
+(5) the circumstances under which trading during a closed period may be permitted by the issuer;
+
+(6) types of transactions triggering the duty to notify managers’ transactions;
+
+(7) trading venues that have a significant cross-border dimension in the supervision of market abuse.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, ‘equity securities’ mean the class of transferable securities referred to in Article 4(1)(44)(a) of Directive 2014/65/EU of the European Parliament and of the Council ( 1 ).
+
+## Article 3 — Exempted public bodies and central banks of third countries
+
+Regulation (EU) No 596/2014 shall not apply to transactions, orders or behaviours, in pursuit of monetary, exchange rate or public debt management policy insofar as they are undertaken in the public interest and solely in pursuit of those policies by the public bodies and central banks of third countries set out in Annex I to this Regulation.
+
+## Article 4 — Indicators of manipulative behaviour
+
+1\. In relation to indicators of manipulative behaviour relating to false or misleading signals and to price securing referred to in Section A of Annex I to Regulation (EU) No 596/2014, the practices set out in Indicators A(a) to A(g) of Annex I to Regulation (EU) No 596/2014 are laid down in Section 1 of Annex II to this Regulation.
+
+2\. In relation to indicators of manipulative behaviour relating to the employment of a fictitious device or any other form of deception or contrivance referred to in Section B of Annex I to Regulation (EU) No 596/2014, the practices set out in Indicators B(a) and (b) of Annex I to Regulation (EU) No 596/2014 are laid down in Section 2 of Annex II to this Regulation.
+
+## Article 5 — Minimum thresholds of carbon dioxide and rated thermal input
+
+1\. For the purposes of the second subparagraph of Article 17(2) of Regulation (EU) No 596/2014:
+
+(a) the minimum threshold of carbon dioxide (CO2) equivalent shall be 6 million tonnes a year;
+
+(b) the minimum threshold of rated thermal input shall be 2 430 MW.
+
+2\. Thresholds set out in paragraph 1 shall apply at group level and relate to all business, including aviation activities or installations, which the participant in the emission allowance market concerned, or its parent undertaking or related undertaking owns or controls or for the operational matters of which the participant concerned, or its parent undertaking or related undertaking is responsible, in whole or in part.
+
+## Article 6 — Determination of the competent authority
+
+1\. The competent authority to which an issuer of financial instruments must notify the delay in disclosing inside information according to Article 17(4) and (5) of Regulation (EU) No 596/2014 shall be the competent authority of the Member State where the issuer is registered in any of the following cases:
+
+(a) if and as long as the issuer has equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in the Member State where the issuer is registered;
+
+(b) if and as long as the issuer does not have equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in any Member State, provided that the issuer has any other financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in the Member State where the issuer is registered.
+
+2\. In all other cases, including in the case of issuers incorporated in a third country, the competent authority to which an issuer of financial instruments must notify the delay in disclosing inside information shall be the competent authority of the Member State where:
+
+(a) the issuer has equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue for the first time;
+
+(b) the issuer has any other financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue for the first time, if and as long as the issuer does not have equity securities admitted to trading or traded with its consent, or for which it has requested admission to trading, on a trading venue in any Member State.
+
+Where the issuer has the relevant financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, for the first time simultaneously on trading venues in more than one Member State, an issuer of financial instruments shall notify the delay to be the competent authority of the trading venue that is the most relevant market in terms of liquidity, as determined in the Commission Delegated Regulation to be adopted under Article 26(9)(b) of Regulation (EU) No 600/2014 of the European Parliament and of the Council ( 2 ).
+
+3\. For the purpose of the notifications under Article 17(4) of Regulation (EU) No 596/2014, an emission allowance market participant shall notify the delay in disclosing inside information to the competent authority of the Member State where the emission allowance market participant is registered.
+
+## Article 7 — Trading during a closed period
+
+1\. A person discharging managerial responsibilities within an issuer shall have the right to conduct trading during a closed period as defined under Article 19(11) of Regulation (EU) No 596/2014 provided that the following conditions are met:
+
+(a) one of the circumstances referred to in Article 19(12) of Regulation (EU) No 596/2014 is met;
+
+(b) the person discharging managerial responsibilities is able to demonstrate that the particular transaction cannot be executed at another moment in time than during the closed period.
+
+2\. In the circumstances set out in Article 19(12), point (a), of Regulation (EU) No 596/2014, prior to any trading during the closed period, a person discharging managerial responsibilities shall provide the issuer with a reasoned written request to obtain the issuer’s permission to proceed with the immediate sale of shares or of financial instruments other than shares during a closed period.
+
+The written request shall describe the envisaged sale and explain why the sale of shares or of financial instruments other than shares is the only reasonable alternative to obtain the necessary financing.
+
+## Article 8 — Exceptional circumstances
+
+1\. When deciding whether to grant permission to proceed with the immediate sale of its shares or of financial instruments other than shares during a closed period, an issuer shall assess, on a case-by-case basis, the written request referred to in Article 7(2). The issuer shall have the right to permit the immediate sale of shares or of financial instruments other than shares only where the circumstances for such transactions are deemed exceptional.
+
+2\. Circumstances referred to in paragraph 1 shall be considered to be exceptional when they are extremely urgent, unforeseen and compelling and where their cause is external to the person discharging managerial responsibilities and the person discharging managerial responsibilities has no control over them.
+
+3\. When examining whether the circumstances described in the written request referred to in Article 7(2) are exceptional, the issuer shall take into account, among other indicators, whether and to the extent to which the person discharging managerial responsibilities:
+
+(a) is at the moment of submitting its request facing a legally enforceable financial commitment or claim;
+
+(b) has to fulfil or is in a situation entered into before the beginning of the closed period and requiring the payment of sum to a third party, including tax liability, and cannot reasonably satisfy a financial commitment or claim by means other than the immediate sale of shares or of financial instruments other than shares.
+
+## Article 9 — Characteristics of the trading during a closed period
+
+The issuer shall have the right to permit the person discharging managerial responsibilities within the issuer to trade on its own account or for the account of a third party during a closed period, including but not limited to circumstances where that person discharging managerial responsibilities:
+
+(a) had been awarded or granted financial instruments under an employee scheme, provided that the following conditions are met:
+
+(i) the employee scheme and its terms have been previously approved by the issuer in accordance with national law and the terms of the employee scheme specify the timing of the award or the grant and the amount of financial instruments awarded or granted, or the basis on which such an amount is calculated and given that no discretion can be exercised;
+
+(ii) the person discharging managerial responsibilities does not have any discretion as to the acceptance of the financial instruments awarded or granted;
+
+(b) had been awarded or granted financial instruments under an employee scheme that takes place in the closed period provided that a pre-planned and organised approach is followed regarding the conditions, the periodicity, the time of the award, the group of entitled persons to whom the financial instruments are granted and the amount of financial instruments to be awarded, the award or grant of financial instruments takes place under a defined framework under which any inside information cannot influence the award or grant of financial instruments;
+
+(c) exercises options or warrants or conversion of convertible bonds assigned to him under an employee scheme when the expiration date of such options, warrants or convertible bonds falls within a closed period, as well as sales of the shares acquired pursuant to such exercise or conversion, provided that all of the following conditions are met:
+
+(i) the person discharging managerial responsibilities notifies the issuer of its choice to exercise or convert at least four months before the expiration date;
+
+(ii) the decision of the person discharging managerial responsibilities is irrevocable;
+
+(iii) the person discharging managerial responsibilities has received the authorisation from the issuer prior to proceed;
+
+(d) acquires the issuer's financial instruments under an employee saving scheme, provided that all of the following conditions are met:
+
+(i) the person discharging managerial responsibilities has entered into the scheme before the closed period, except when it cannot enter into the scheme at another time due to the date of commencement of employment;
+
+(ii) the person discharging managerial responsibilities does not alter the conditions of his participation into the scheme or cancel his participation into the scheme during the closed period;
+
+(iii) the purchase operations are clearly organised under the scheme terms and that the person discharging managerial responsibilities has no right or legal possibility to alter them during the closed period, or are planned under the scheme to intervene at a fixed date which falls in the closed period;
+
+(e) transfers or receives, directly or indirectly, financial instruments, provided that the financial instruments are transferred between two accounts of the person discharging managerial responsibilities and that such a transfer does not result in a change in price of financial instruments;
+
+(f) acquires qualification or entitlement of shares of the issuer and the final date for such an acquisition, under the issuer's statute or by-law falls during the closed period, provided that the person discharging managerial responsibilities submits evidence to the issuer of the reasons for the acquisition not taking place at another time, and the issuer is satisfied with the provided explanation.
+
+## Article 10 — Notifiable transactions
+
+1\. Pursuant to Article 19 of Regulation (EU) No 596/2014 and in addition to transactions referred to in Article 19(7) of that Regulation, persons discharging managerial responsibilities within an issuer or an emission allowance market participant and persons closely associated with them shall notify the issuer or the emission allowance market participant and the competent authority of their transactions.
+
+Those notified transactions shall include all transactions conducted by persons discharging managerial responsibilities on their own account relating, in respect of the issuers, to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked thereto, and in respect of emission allowance market participants, to emission allowances, to auction products based thereon or to derivatives relating thereto.
+
+2\. Those notified transactions shall include the following:
+
+(a) acquisition, disposal, short sale, subscription or exchange;
+
+(b) acceptance or exercise of a stock option, including of a stock option granted to managers or employees as part of their remuneration package, and the disposal of shares stemming from the exercise of a stock option;
+
+(c) entering into or exercise of equity swaps;
+
+(d) transactions in or related to derivatives, including cash-settled transaction;
+
+(e) entering into a contract for difference on a financial instrument of the concerned issuer or on emission allowances or auction products based thereon;
+
+(f) acquisition, disposal or exercise of rights, including put and call options, and warrants;
+
+(g) subscription to a capital increase or debt instrument issuance;
+
+(h) transactions in derivatives and financial instruments linked to a debt instrument of the concerned issuer, including credit default swaps;
+
+(i) conditional transactions upon the occurrence of the conditions and actual execution of the transactions;
+
+(j) automatic or non-automatic conversion of a financial instrument into another financial instrument, including the exchange of convertible bonds to shares;
+
+(k) gifts and donations made or received, and inheritance received;
+
+(l) transactions executed in index-related products, baskets and derivatives, insofar as required by Article 19 of Regulation (EU) No 596/2014;
+
+(m) transactions executed in shares or units of investment funds, including alternative investment funds (AIFs) referred to in Article 1 of Directive 2011/61/EU of the European Parliament and of the Council ( 3 ), insofar as required by Article 19 of Regulation (EU) No 596/2014;
+
+(n) transactions executed by manager of an AIF in which the person discharging managerial responsibilities or a person closely associated with such a person has invested, insofar as required by Article 19 of Regulation (EU) No 596/2014;
+
+(o) transactions executed by a third party under an individual portfolio or asset management mandate on behalf or for the benefit of a person discharging managerial responsibilities or a person closely associated with such a person;
+
+(p) borrowing or lending of shares or debt instruments of the issuer or derivatives or other financial instruments linked thereto.
+
+## Article 10a — Designated trading venues for the exchange of order data
+
+The trading venues listed in Annex III shall be considered to be trading venues that have a significant cross-border dimension in the supervision of market abuse with respect to shares as referred to in Article 25a of Regulation (EU) No 596/2014.
+
+## Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 3 July 2016.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+1\. Australia:
+
+— Reserve Bank of Australia;
+
+— Australian Office of Financial Management;
+
+2\. Brazil:
+
+— Central Bank of Brazil;
+
+— National Treasury of Brazil;
+
+3\. Canada:
+
+— Bank of Canada;
+
+— Department of Finance Canada;
+
+4\. China:
+
+— People's Bank of China;
+
+5\. Hong Kong SAR:
+
+— Hong Kong Monetary Authority;
+
+— Financial Services and the Treasury Bureau of Hong Kong;
+
+6\. India:
+
+— Reserve Bank of India;
+
+7\. Japan:
+
+— Bank of Japan;
+
+— Ministry of Finance of Japan;
+
+8\. Mexico:
+
+— Bank of Mexico;
+
+— Ministry of Finance and Public Credit of Mexico;
+
+9\. Singapore:
+
+— Monetary Authority of Singapore;
+
+10\. South Korea:
+
+— Bank of Korea;
+
+— Ministry of Strategy and Finance of Korea;
+
+11\. Switzerland:
+
+— Swiss National Bank;
+
+— Federal Finance Administration of Switzerland;
+
+12\. Turkey:
+
+— Central Bank of the Republic of Turkey;
+
+— Undersecretariat of Treasury of the Republic of Turkey;
+
+13\. The United Kingdom:
+
+— Bank of England;
+
+— Her Majesty's Treasury;
+
+14\. The United States:
+
+— Federal Reserve System;
+
+— U.S. Department of the Treasury.
+
+## ANNEX II
+
+**Indicators of manipulative behaviour**
+
+**SECTION 1**
+
+**INDICATORS OF MANIPULATIVE BEHAVIOUR RELATING TO FALSE OR MISLEADING SIGNALS AND TO PRICE SECURING (SECTION A OF ANNEX I TO REGULATION (EU) No 596/2014)**
+
+1\. Practices specifying Indicator A(a) of Annex I to Regulation (EU) No 596/2014:
+
+(a) Buying of positions, also by colluding parties, of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, on the secondary market, after the allocation in the primary market in order to post the price to an artificial level and generate interest from other investors — usually known, for example in the equity context, as colluding in the after-market of an Initial Public Offer (IPO) where colluding parties are involved. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) unusual concentration of transactions and/or orders to trade, whether generally, or by only one person using one or different accounts, or by a limited number of persons;
+
+(ii) transactions or orders to trade with no other apparent justification than to increase the price of or to increase the volume of trading, namely near to a reference point during the trading day, for instance at the opening or near the close;
+
+(b) Transactions or orders to trade carried out in such a way that obstacles are created to the financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, with prices falling below, or rising above a certain level, mainly in order to avoid negative consequences deriving from changes in the price of the financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances — usually known as ‘creation of a floor, or a ceiling in the price pattern’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) transactions or orders to trade which have the effect, or are likely to have the effect, of increasing or decreasing or maintaining the price during the days preceding the issue, optional redemption or expiry of a related derivative or convertible;
+
+(ii) transactions or orders to trade which have the effect of, or are likely to have the effect of increasing or decreasing the weighted average price of the day or of a period during the trading session;
+
+(iii) transactions or orders to trade which have the effect of, or are likely to have the effect of, maintaining the price of an underlying financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, below or above a strike price or other element used to determine the pay-out (e.g. barrier) of a related derivative at expiration date;
+
+(iv) transactions on any trading venue which have the effect of, or are likely to have the effect of, modifying the price of the underlying financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, so that it surpasses or does not reach the strike price or other element used to determine the pay-out (e.g. barrier) of a related derivative at expiration date;
+
+(v) transactions which have the effect of, or are likely to have the effect of, modifying the settlement price of a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, when this price is used as a reference or determinant namely in the calculation of margin requirements.
+
+(c) Entering small orders to trade in order to ascertain the level of hidden orders and particularly to assess what is resting on a dark platform — usually known as ‘ping orders’;
+
+(d) Executing orders to trade, or a series of orders to trade, in order to uncover orders of other participants, and then entering an order to trade to take advantage of the information obtained — usually known as ‘phishing’.
+
+1a. When assessing whether orders to trade given or transactions undertaken represent a significant proportion of the volume of orders or transactions for the purposes of Indicator A(a) of Annex I to Regulation (EU) No 596/2014, market participants and competent authorities may consider a time frame that is longer or shorter than a day or a trading session. In addition, when applying Indicator A(a) of Annex I to Regulation (EU) No 596/2014, market participants and competent authorities may also consider orders to trade or transactions that lead to a significant change in the volume of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances.
+
+2\. Practices specifying Indicator A(b) of Annex I of Regulation (EU) No 596/2014:
+
+(a) The practice set out in Point 1(a) of this Section, usually known, for example in the equity context, as colluding in the after-market of an Initial Public Offer where colluding parties are involved;
+
+(b) Taking advantage of the significant influence of a dominant position over the supply of, or demand for, or delivery mechanisms for a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, in order to materially distort, or likely to distort, the prices at which other parties have to deliver, take delivery or defer delivery in order to satisfy their obligations — usually known as ‘abusive squeeze’;
+
+(c) Undertaking trading or entering orders to trade in one trading venue or outside a trading venue (including entering indications of interest) with a view to improperly influencing the price of the same financial instrument in another trading venue or outside a trading venue, related spot commodity contract, or an auctioned product based on emission allowances — usually known as ‘inter-trading venues manipulation’ (trading on one trading venue or outside a trading venue to improperly position the price of a financial instrument in another trading venue or outside a trading venue). This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) execution of a transaction, changing the bid-offer prices, when the spread between the bid and offer prices is a factor in the determination of the price of any other transaction whether or not on the same trading venue;
+
+(ii) the indicators set out in Point 1(b)(i), (b)(iii), (b)(iv) and (b)(v) of this Section;
+
+(d) Undertaking trading or entering orders to trade in one trading venue or outside a trading venue (including entering indications of interest) with a view to improperly influencing the price of a related financial instrument in another or in the same trading venue or outside a trading venue, related spot commodity contract, or a related auctioned product based on emission allowances — usually known as ‘cross-product manipulation’ (trading on a financial instrument to improperly position the price of a related financial instrument in another or in the same trading venue or outside a trading venue). This practice may also be illustrated by the additional indicators of market manipulation referred to in Point 1(b)(i), (b)(iii), (b)(iv) and (b)(v), and Point 2(c)(i) of this Section.
+
+2a. A significant buying position as referred to in Indicator A(b) of Annex I to Regulation (EU) No 596/2014 may encompass both positions already taken and a potential position through current pending orders. For the purposes of the Indicator A(b) of Annex I to Regulation (EU) No 596/2014, market participants and competent authorities may also take into account orders to trade given or transactions undertaken by persons that do not have a significant buying or selling position but that have a significant interest in or exposure to a change of price of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, including through margin calls or debt covenants.
+
+3\. Practices specifying Indicator A(c) of Annex I of Regulation (EU) No 596/2014:
+
+(a) Entering into arrangements for the sale or purchase of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, where there is no change in beneficial interests or market risk or where beneficial interest or market risk is transferred between parties who are acting in concert or collusion — usually known as ‘wash trades’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) unusual repetition of a transaction among a small number of parties over a certain period of time;
+
+(ii) transactions or orders to trade which modify, or are likely to modify, the valuation of a position while not decreasing/increasing the size of the position;
+
+(iii) the indicator set out in Point 1(a)(i) of this Section.
+
+(b) Entering into orders to trade or engaging in a transaction or series of transactions which are shown on a public display facility to give the impression of activity or price movement in a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances — usually known as ‘painting the tape’. This practice may also be illustrated by the indicators set out in Point 1(a)(i) and Point 3(a)(i) of this Section.
+
+(c) Transactions carried out as a result of the entering of buy and sell orders to trade at or nearly at the same time, with very similar quantity and similar price, by the same party or different but colluding parties — usually known as ‘improper matched orders’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) transactions or orders to trade which have the effect of, or are likely to have the effect of setting a market price when the liquidity or the depth of the order book is not sufficient to fix a price within the session;
+
+(ii) the indicators set out in Points 1(a)(i), 3(a)(i) and 3(a)(ii) of this Section.
+
+(d) Transaction or series of transactions designed to conceal the ownership of a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances via the breach of disclosure requirements through the holding of the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances in the name of a colluding party or parties. The disclosures are misleading in respect of the true underlying holding of the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances — usually known as ‘concealing ownership’. This practice may also be illustrated by the indicator described in Point 3(a)(i) of this Section.
+
+4\. Practices specifying Indicator A(d) of Annex I of Regulation (EU) No 596/2014:
+
+(a) The practice set out in Point 3(b) of this Section, usually known as ‘painting the tape’;
+
+(b) The practice set out in Point 3(c) of this Section, usually known as ‘improper matched orders’;
+
+(c) Taking of a long position in a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances and then undertaking further buying activity and/or disseminating misleading positive information about the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances with a view to increasing the price of the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, by the attraction of other buyers. When the price is at an artificial high level, the long position held is sold out — usually known as ‘pump and dump’;
+
+(d) Taking of a short position in a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances and then undertaking further selling activity and/or disseminating misleading negative information about the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances with a view to decreasing the price of the financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, by the attraction of other sellers. When the price has fallen, the position held is closed — usually known as ‘trash and cash’;
+
+(e) Entering large number of orders to trade and/or cancellations and/or updates to orders to trade so as to create uncertainty for other participants, slowing down their process and/or to camouflage their own strategy — usually known as ‘quote stuffing’;
+
+(f) Entering orders to trade or a series of orders to trade, or executing transactions or series of transactions, likely to start or exacerbate a trend and to encourage other participants to accelerate or extend the trend in order to create an opportunity to close out or open a position at a favourable price — usually known as momentum ignition. This practice may also be illustrated by the high ratio of cancelled orders (e.g. order to trade ratio) which may be combined with a ratio on volume (e.g. number of financial instruments per order).
+
+4a. The position reversals referred to in Indicator A(d) of Annex I to Regulation (EU) No 596/2014 comprise activities that result in actual or potential changes in notional volumes or financial risks in the relevant instrument or in a set of closely linked instruments, that is, instruments the price of which depends or has an impact on other instruments in that set. When assessing whether orders to trade given or transactions undertaken represent a significant proportion of the volume of orders or transactions for the purposes of Indicator A(d) of Annex I to Regulation (EU) No 596/2014, market participants and competent authorities may consider a time frame that is longer or shorter than a day or a trading session. In addition, when applying Indicator A(d) of Annex I to Regulation (EU) No 596/2014, market participants and competent authorities may also consider orders to trade or transactions that lead to a significant change in the volume of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances.
+
+5\. Practices specifying Indicator A(e) of Annex I of Regulation (EU) No 596/2014:
+
+(a) The practice set out in Point 1(b) of this Section, usually known as ‘creation of a floor, or a ceiling in the price pattern’;
+
+(b) The practice set out in Point 2(c) of this Section, usually known as ‘inter-trading venues manipulation’ (trading on one trading venue or outside a trading venue to improperly position the price of a financial instrument in another trading venue or outside a trading venue);
+
+(c) The practice set out in Point 2(d) of this Section, usually known as ‘cross-product manipulation’ (trading on a financial instrument to improperly position the price of a related financial instrument in another or in the same trading venue or outside a trading venue);
+
+(d) Buying or selling of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances, deliberately, at the reference time of the trading session (e.g. opening, closing, settlement) in an effort to increase, to decrease or to maintain the reference price (e.g. opening price, closing price, settlement price) at a specific level — usually known as ‘marking the close’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) entering orders representing significant volumes in the central order book of the trading system a few minutes before the price determination phase of the auction and cancelling these orders a few seconds before the order book is frozen for computing the auction price so that the theoretical opening price might look higher/lower than it otherwise would do;
+
+(ii) the indicators set out in Point 1(b)(i), (b)(iii), (b)(iv) and (b)(v) of this Section;
+
+(iii) transactions carried out or submission of orders to trade, namely near to a reference point during the trading day, which, because of their size in relation to the market, shall clearly have a significant impact on the supply of or demand for or the price or value;
+
+(iv) transactions or orders to trade with no other apparent justification than to increase/decrease the price or to increase the volume of trading, namely near to a reference point during the trading day — e.g. at the opening or near the close;
+
+(e) Submitting multiple or large orders to trade often away from the touch on one side of the order book to execute a trade on the other side of the order book. Once the trade has taken place, the orders with no intention to be executed shall be removed — usually known as layering and spoofing. That practice may also be illustrated by the indicator set out in point 4(f);
+
+(f) The practice set out in Point 4(e) of this Section, usually known as ‘quote stuffing’;
+
+(g) The practice set out in Point 4(f) of this Section, usually known as ‘momentum ignition’.
+
+5a. The time span referred to in Indicator A(e) of Annex I to Regulation (EU) No 596/2014 may vary depending on the liquidity and the market characteristics of the financial instruments. For the application of that Indicator, a price change reversal can be either full or partial.
+
+6\. Practices specifying Indicator A(f) of Annex I of Regulation (EU) No 596/2014:
+
+(a) Entering of orders which are withdrawn before execution, thus having the effect, or which are likely to have the effect, of giving a misleading impression that there is demand for or supply of a financial instrument, a related spot commodity contract, or an auctioned product based on emission allowances at that price — usually known as ‘placing orders with no intention of executing them’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) orders to trade inserted with such a price that they increase the bid or decrease the offer, and have the effect, or are likely to have the effect, of increasing or decreasing the price of a related financial instrument;
+
+(ii) the indicator set out in point 4(f) of this Section.
+
+(b) The practice set out in Point 1(b) of this Section, usually known as ‘creation of a floor, or a ceiling, in the price pattern’;
+
+(c) Moving the bid-offer spread to and/or maintaining it at artificial levels, by abusing of market power, usually known as excessive bid-offer spreads. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) transactions or orders to trade which have the effect of, or are likely to have the effect of bypassing the trading safeguards of the market (e.g. price limits, volume limits, bid/offer spread parameters, etc.);
+
+(ii) the indicator set out in Point 2(c)(i) of this Section.
+
+(d) Entering orders to trade which increase the bid (or decrease the offer) for a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, in order to increase (or decrease) its price — usually known as ‘advancing the bid’. This practice may also be illustrated by the indicator set out in Point 6(a)(i) of this Section;
+
+(e) The practice set out in Point 2(c) of this Section, usually known as ‘inter-trading venues manipulation’ (trading on one trading venue or outside a trading venue to improperly position the price of a financial instrument in another trading venue or outside a trading venue);
+
+(f) The practice set out in Point 2(d) of this Section, usually known as ‘cross-product manipulation’ (trading on a financial instrument to improperly position the price of a related financial instrument in another or in the same trading venue or outside a trading venue);
+
+(g) The practice set out in Point 5(e) of this Section, usually known as ‘layering’ and ‘spoofing’;
+
+(h) The practice set out in Point 4(e) of this Section, usually known as ‘quote stuffing’;
+
+(i) The practice set out in Point 4(f) of this Section, usually known as ‘momentum ignition’;
+
+(j) Posting orders to trade, to attract other market participants employing traditional trading techniques (‘slow traders’), that are then rapidly revised onto less generous terms, hoping to execute profitably against the incoming flow of ‘slow traders’ orders to trade, usually known as ‘smoking’.
+
+7\. Practices specifying Indicator A(g) of Annex I of Regulation (EU) No 596/2014:
+
+(a) The practice set out in Point 5(d) of this Section, usually known as ‘marking the close’;
+
+(b) The practice set out in Point 1(a) of this Section, usually known, for example in the equity context, as ‘colluding in the after-market of an Initial Public Offer where colluding parties are involved’;
+
+(c) The practice set out in Point 1(b) of this Section, usually known as ‘creation of a floor, or a ceiling’ in the price pattern;
+
+(d) The practice set out in Point 2(c) of this Section, usually known as ‘inter-trading venues manipulation’ (trading on one trading venue or outside a trading venue to improperly position the price of a financial instrument in another trading venue or outside a trading venue);
+
+(e) The practice set out in Point 2(d) of this Section, usually known as ‘cross-product manipulation’ (trading on a financial instrument to improperly position the price of a related financial instrument in another or in the same trading venue or outside a trading venue);
+
+(f) Entering into arrangements in order to distort costs associated with a commodity contract, such as insurance or freight, with the effect of fixing the settlement price of a financial instrument or a related spot commodity contract at an abnormal or artificial price.
+
+8\. The practice set out in point 2(c) of this Section and also referred to in points 5(b), 6(e) and 7(d) of this Section is relevant in the context of the scope of Regulation (EU) No 596/2014 concerning cross-venue manipulation.
+
+9\. The practice set out in Point 2(d) of this Section and also referred to in Points 5(c), 6(f) and 7(e) of this Section is relevant the context of the scope of Regulation (EU) No 596/2014 concerning cross-venue manipulation, taking into account that the price or value of a financial instrument may depend on or may have an effect on the price or value of another financial instrument or spot commodity contract.
+
+10\. The Indicators listed in Annex I to Regulation (EU) No 596/2014 and the practices listed in this Annex may also be assessed and computed over a time frame that is longer or shorter than a day or a trading session. That is particularly relevant when assessing cases of market manipulation in less liquid financial instruments and in the context of algorithmic trading.
+
+**SECTION 2**
+
+**INDICATORS OF MANIPULATIVE BEHAVIOUR RELATING TO THE EMPLOYMENT OF A FICTITIOUS DEVICE OR ANY OTHER FORM OF DECEPTION OR CONTRIVANCE (SECTION B OF ANNEX I OF REGULATION (EU) No 596/2014)**
+
+1\. Practices specifying Indicator B(a) of Annex I of Regulation (EU) No 596/2014:
+
+(a) Dissemination of false or misleading market information through the media, including the internet, or by any other means, which results or is likely to result in the moving of the price of a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances, in a direction favourable to the position held or to a transaction planned by the person or persons interested in the dissemination of the information;
+
+(b) Opening a position in a financial instrument, related spot commodity contract, or an auctioned product based on emission allowances and closing such position immediately after having publicly disclosed and having put emphasis on the long holding period of the investment — usually known as ‘opening a position and closing it immediately after its public disclosure’;
+
+(c) The practice set out in Point 4(c) of Section 1, usually known as ‘pump and dump’. This practice may also be illustrated by the following additional indicators of market manipulation:
+
+(i) dissemination of news through the media related to the increasing (or decreasing) of a qualified holding before or shortly after an unusual movement of the price of a financial instrument;
+
+(ii) the indicator set out in Point 5(d)(i) of Section 1;
+
+(d) The practice set out in Point 4(d) of Section 1, usually known as ‘trash and cash’. This practice may also be illustrated by the indicators set out in Point 5(d)(i) of Section 1 and Point 1(c)(i) of this Section;
+
+(e) The practice set out in Point 3(d) of Section 1, usually known as ‘concealing ownership’;
+
+(f) Movement or storage of physical commodities, which might create a misleading impression as to the supply of, or demand for, or price or value of, a commodity or the deliverable into a financial instrument or a related spot commodity contract;
+
+(g) Movement of an empty cargo ship, which might create a false or misleading impression as to the supply of, or the demand for, or the price or value of a commodity or the deliverable into a financial instrument or a related spot commodity contract.
+
+2\. Practices specifying Indicator B(b) of Annex I of Regulation (EU) No 596/2014:
+
+(a) The practice set out in Point 1(a) of this Section. This practice may also be illustrated by entering orders to trade or transactions before or shortly after the market participant or persons publicly known as linked to that market participant produce or disseminate contrary research or investment recommendations that are made publicly available.
+
+(b) The practice set out in point 4(c) of Section 1, usually known as ‘pump and dump’, which may also be illustrated by the indicator set out in point 2(a) of this Section.
+
+(c) The practice set out in point 4(d) of Section 1, usually known as ‘trash and cash’, which may also be illustrated by the indicator set out in point 2(a) of this Section.
+
+## ANNEX III — Trading venues with a significant cross-border dimension in the supervision of market abuse with respect to shares
+
+| Entity name | Operating Market Identifier Code |
+| --- | --- |
+| Aquis exchange Europe | AQEU |
+| TP ICAP (Europe) SA | TPIC |
+| Cboe Europe B.V. | CCXE |
+| Turquoise Global Holdings Europe BV | TQEX |
+
+( 1 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 2 ) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+( 3 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).

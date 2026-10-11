@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(89/491/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>REGULATION (EC) No 715/2007 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2007</td><td> L 171</td><td>1</td><td>29.6.2007</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE**
 
@@ -120,6 +122,7 @@ Annex V is replaced by the following:
 
 **CEC reference fuel RF-03-A-84 (1) (3) (7)**
 
+<table>
 <tbody><tr><td></td><td>Limits and units</td><td>ASTM method</td></tr>
 <tr><td rowspan="2">Cetan number (4)</td><td>min 49</td><td rowspan="2">D 613</td></tr>
 <tr><td>max 53</td></tr>
@@ -146,6 +149,7 @@ Annex V is replaced by the following:
 <tr><td>Carbon-hydrogen ratio</td><td>(to be reported)</td><td></td></tr>
 <tr><td colspan="3">(1) Equivalent ISO methods will be adopted when issued all properties listed above. (2) The figures quoted show the evaporated quantities (percentage recovered + percentage loss).  (3) The values quoted in the specification are “true values”. In establishment of their limit values the terms of ASTM D 3244 “Defining a basis for petroleum product quality disputes” have been applied and in fixing a maximum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility).  (4) The range for cetane is note in accordance with the requirement of a minimum range of 4R. However, in cases of dispute between fuel supplier and fuel user, the terms of ASTM D 3244 can be used to resolve such disputes provided replicate measurements, of sufficient number to achieve the necessary precision, are made in preference to single determinations.  (5) This fuel should be based on straight run and cracked hydrocarbon distillate components only; desulphurization is allowed. It must not contain any metallic additives or cetane improver additives.  (6) Even though oxidation stability is controlled, it is likely that shell life will be limited. Advice should be sought from the supplier as to storage conditions and life.  (7) If it is required to calculate thermal efficiency of an engine or vehicle, the calorific value of the fuel can be calculated from:  d = the density at 15 °C,  x = the proportion by mass of water (%/100),  y = the proportion by mass of ash (%/100),  s = the proportion by mass of sulphur (%/100).’ </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI — AMENDMENTS TO ANNEX I TO DIRECTIVE 88/1269/EEC
 

@@ -1,0 +1,907 @@
+---
+title: "Commission Implementing Regulation (EU) 2015/1375 of 10 August 2015 laying down specific rules on official controls for Trichinella in meat (codification) (Text with EEA relevance)"
+identifier: "32015R1375"
+eli: "http://data.europa.eu/eli/reg_impl/2015/1375/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2015-08-10
+entry_into_force: 2015-06-08
+last_amended: 2025-04-09
+consolidated_version: "02015R1375-20250409"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R1375-20250409"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2015/1375 of 10 August 2015 laying down specific rules on official controls for Trichinella in meat (codification) (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/1375**
+
+**of 10 August 2015**
+
+**laying down specific rules on official controls for Trichinella in meat**
+
+**(Codification)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1478 of 14 October 2020 </td><td> L 338</td><td>7</td><td>15.10.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/519 of 24 March 2021 </td><td> L 104</td><td>36</td><td>25.3.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1418 of 22 August 2022 </td><td> L 218</td><td>7</td><td>23.8.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2156 of 17 October 2023 </td><td> L 2156</td><td>1</td><td>18.10.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/506 of 19 March 2025 </td><td> L 506</td><td>1</td><td>20.3.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/1375**
+
+**of 10 August 2015**
+
+**laying down specific rules on official controls for Trichinella in meat**
+
+**(Codification)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISION
+
+### Article 1 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘Trichinella’ means any nematode belonging to the species of the genus Trichinella;
+
+(2) ‘controlled housing conditions’ means a type of animal husbandry where swine are kept at all times under conditions controlled by the food business operator with regard to feeding and housing;
+
+(3) ‘compartment’ means a group of holdings which apply controlled housing conditions. All holdings applying controlled housing conditions in a Member States, may be considered as one compartment.
+
+## CHAPTER II — OBLIGATIONS OF COMPETENT AUTHORITIES AND OF FOOD BUSINESS OPERATORS
+
+### Article 2 — Sampling of carcasses
+
+1\. Carcasses of domestic swine shall be sampled in slaughterhouses as part of the post-mortem examination as follows:
+
+(a) all carcasses of breeding sows and boars or at least 10 % of carcasses of animals sent in for slaughter each year from each holding that is officially recognised as applying controlled housing conditions, shall be examined for Trichinella;
+
+(b) all carcasses from holdings that are not officially recognised as applying controlled housing conditions shall be systematically examined for Trichinella.
+
+A sample shall be collected from each carcass and the sample shall be examined for Trichinella, in a laboratory designated by the competent authority, using one of the following methods of detection:
+
+(a) the reference method of detection set out in Chapter I of Annex I; or
+
+(b) an equivalent method of detection set out in Chapter II of Annex I.
+
+2\. Carcasses of solipeds, wild boar and other farmed and wild animal species susceptible to Trichinella infestation shall be systematically sampled in slaughterhouses or game-handling establishments as part of the post-mortem examination.
+
+A sample shall be collected from each carcass and the sample shall be examined in accordance with Annexes I and III in a laboratory designated by the competent authority.
+
+3\. Pending the results of the Trichinella examination and provided full traceability is guaranteed by the food business operator, carcasses of domestic swine and of solipeds may be cut up into a maximum of six parts in a slaughterhouse or in a cutting plant on the same premises.
+
+### Article 3 — Derogations
+
+1\. By way of derogation from Article 2(1), meat of domestic swine that has undergone a freezing treatment in accordance with Annex II under the supervision of the competent authority shall be exempt from Trichinella examination.
+
+2\. By way of derogation from Article 2(1), carcasses and meat of not weaned domestic swine less than five weeks of age shall be exempt from Trichinella examination.
+
+3\. By way of derogation from Article 2(1), carcasses and meat of domestic swine may be exempt from Trichinella examination where the animals come from a holding or a compartment officially recognised as applying controlled housing conditions in accordance with Annex IV, if:
+
+(a) no autochthonous Trichinella infestations in domestic swine kept in holdings officially recognised as applying controlled housing conditions have been detected in the Member State in the past three years, during which time continuous testing has been conducted in accordance with Article 2; or
+
+(b) historical data on continuous testing carried out on slaughtered swine population provide at least 95 % confidence that the prevalence of Trichinella does not exceed one per million in that population; or
+
+(c) the holdings applying controlled housing conditions are located in Belgium or Denmark.
+
+4\. Where a Member State implements the derogation provided for in paragraph 3 of this Article, the Member State concerned shall inform the Commission and the other Member States at the Standing Committee on Plants, Animals, Food and Feed. The Commission shall publish the list of Member States implementing that derogation on its website.
+
+Where a Member State fails to submit, in accordance with Article 9(1), second subparagraph of Directive 2003/99/EC, the data on the Trichinella examination referred to in Chapter II of Annex IV to this Regulation, the derogation, provided for in paragraph 3 of this Article, shall cease to apply to that Member State.
+
+5\. By way of derogation from Article 2(3) and following approval by the competent authority:
+
+(a) carcasses may be cut up at a cutting plant attached to or separate from the slaughterhouse provided that:
+
+(i) the procedure is approved by the competent authority;
+
+(ii) a carcass or the parts thereof have not more than one cutting plant as its destination;
+
+(iii) the cutting plant is situated within the territory of the Member State; and
+
+(iv) in the case of a positive result all the parts are declared unfit for human consumption;
+
+(b) carcasses derived from domestic swine may be cut up into more parts in a cutting plant on the same premises or attached to the slaughterhouse provided that:
+
+(i) the procedure is approved by the competent authority;
+
+(ii) cutting or boning, prior to reaching the temperature referred to in point 2(b) of Chapter V of Section I of Annex III to Regulation (EC) No 853/2004, is applied in accordance with point 4 of Chapter V of Section I of Annex III to that Regulation;
+
+(iii) in the case of a positive result all the parts are declared unfit for human consumption.
+
+### Article 4 — Trichinella examination and application of health mark
+
+1\. Carcases as referred to in Article 2 or parts thereof, except for those referred to in Article 3(5), may not leave the premises, before the result of the Trichinella examination is found to be negative.
+
+Similarly, other parts of an animal intended for human or animal consumption which contain striated muscle tissue may not leave the premises before the result of the Trichinella examination is found to be negative.
+
+2\. Animal waste and animal by-products not intended for human consumption and not containing striated muscle may leave the premises before the results of the Trichinella examination are available.
+
+However, the competent authority may require a Trichinella examination or prior treatment of animal by-products to be carried out before permitting them to leave the premises.
+
+3\. Where a procedure is in place in the slaughterhouse to ensure that no part of carcases examined leaves the premises until the result of the Trichinella examination is found to be negative and the procedure is formally approved by the competent authority or where the derogation provided for in Article 3(5) applies, the health mark provided for in Article 18(4) of Regulation (EU) 2017/625 may be applied before the results of the Trichinella examination are available.
+
+### Article 5 — Training
+
+The competent authority shall ensure that all personnel involved in the examination of samples to detect Trichinella shall be properly trained and participate in:
+
+(a) a quality control programme of the tests used to detect Trichinella; and
+
+(b) a regular assessment of the testing, recording and analysis procedures used in the laboratory.
+
+### Article 6 — Methods of detection
+
+1\. The methods of detection set out in Chapters I and II of Annex I shall be used for examining samples as referred to in Article 2 where they provide grounds for suspecting Trichinella infestation.
+
+2\. All positive samples shall be forwarded to the national reference laboratory or the EU reference laboratory for determination of the Trichinella species involved.
+
+### Article 7 — Contingency plans
+
+The competent authorities of the Member States shall provide for a contingency plan outlining all action to be taken where samples as referred to in Article 2 test positive for Trichinella. That plan shall include details covering:
+
+(a) traceability of infested carcasses and parts thereof containing muscle tissue;
+
+(b) measures for dealing with infested carcasses and parts thereof;
+
+(c) investigation of the source of infestation and any spread among wildlife;
+
+(d) any measures to be taken at the retail or consumer level;
+
+(e) measures to be taken where infested carcasses cannot be identified at the slaughterhouse;
+
+(f) determination of the Trichinella species involved.
+
+### Article 8 — Official recognition of holdings applying controlled housing conditions
+
+1\. For the purposes of this Regulation, the competent authority may officially recognise a holding or a compartment applying controlled housing conditions where the requirements laid down in Annex IV are complied with.
+
+2\. Holdings or a compartment applying controlled housing conditions in Belgium or Denmark, in accordance with Article 3(3)(c), on 1 June 2014 shall be considered to be officially recognised as applying controlled housing conditions as listed in Annex IV.
+
+### Article 9 — Obligation on food business operators to inform
+
+Food business operators of holdings officially recognised as applying controlled housing conditions shall inform the competent authority of any requirement as laid down in Annex IV that is no longer fulfilled or of any other change that might affect the Trichinella status of those holdings.
+
+### Article 10 — Audits of holdings officially recognised as applying controlled housing conditions
+
+The competent authority shall ensure that audits are carried out periodically of holdings officially recognised as applying controlled housing conditions.
+
+The frequency of the audits shall be risk-based, taking account of the disease history and the prevalence, previous findings, the geographical area, local susceptible wildlife, animal husbandry practices, veterinary supervision and farmers' compliance.
+
+The competent authority shall verify that domestic swine coming from those holdings are examined in accordance with Article 2(1).
+
+### Article 11 — Monitoring programmes
+
+The competent authority may implement a monitoring programme covering the population of domestic swine coming from a holding or a compartment officially recognised as applying controlled housing conditions, in order to verify that Trichinella is actually absent in that population.
+
+The frequency of testing, the number of animals to be tested and the sampling plan shall be laid down in the monitoring programme. To that end, meat samples shall be collected and examined for the presence of Trichinella parasites in accordance with Chapter I or II of Annex I.
+
+The monitoring programme may include serological methods as an additional tool once a suitable test is validated by the EU reference laboratory.
+
+### Article 12 — Withdrawal of official recognition of holdings as applying controlled housing conditions
+
+1\. Where the results of the audits carried out in accordance with Article 10 show that the requirements of Annex IV are no longer fulfilled, the competent authority shall withdraw the holding's official recognition without delay.
+
+2\. Where domestic swine from a holding officially recognised as applying controlled housing conditions test positive to Trichinella, the competent authority shall without delay:
+
+(a) withdraw the holding's official recognition;
+
+(b) examine all domestic swine of that holding at the time of slaughter;
+
+(c) trace and test all breeding animals that arrived on the holding and, as far as possible, all those that left the holding in at least the six months preceding the positive finding; to that end, meat samples shall be collected and examined for presence of Trichinella parasites using the detection methods laid down in Chapters I and II of Annex I;
+
+(d) when relevant, as far as is feasible, investigate the spread of parasite infestation due to the distribution of meat from domestic swine slaughtered in the period preceding the positive finding;
+
+(e) inform the Commission and the other Member States;
+
+(f) when relevant, initiate an epidemiological investigation to elucidate the cause of infestation;
+
+(g) take appropriate measures where any infested carcass cannot be identified at the slaughterhouse, including:
+
+(i) increasing the size of each meat sample collected for testing of the suspect carcasses; or
+
+(ii) declaring the carcasses unfit for human consumption;
+
+(iii) taking appropriate measures for the disposal of suspect carcasses or parts thereof and those testing positive.
+
+3\. Following withdrawal of the recognition, holdings may be officially recognised again once the problems identified have been solved and the requirements laid down in Annex IV are fulfilled to the satisfaction of the competent authority.
+
+4\. If the inspection identified a lack of compliance with Article 9 or positive testing in a holding of a compartment, the holding concerned shall be removed from the compartment until compliance is re-established.
+
+## CHAPTER III — IMPORTS
+
+### Article 13 — Import health requirements
+
+1\. Meat containing striated muscles of animal species that may be carriers of Trichinella may only be imported into the Union if prior to export the examination for Trichinella has been performed in accordance with conditions equivalent to those laid down in Article 2 or 3 in the third country where the animals were slaughtered.
+
+2\. Only the third countries listed in Annex VII may apply the derogations provided for in Article 3(2) and (3) after having informed the Commission on the application of those derogations.
+
+## CHAPTER IV — REPEAL AND FINAL PROVISIONS
+
+### Article 15 — Repeal
+
+Regulation (EC) No 2075/2005 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VI.
+
+### Article 16 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Detection methods**
+
+**CHAPTER I**
+
+**REFERENCE METHOD OF DETECTION**
+
+1\. The reference method of detection for the examination of samples for Trichinella, shall be ISO 18743:2015/Amd1:2023.
+
+2\. The following rules shall apply only to the examination of meat of domestic swine:
+
+(a) In the case of whole carcasses of domestic swine other than breeding sows and boars, a specimen weighing at least 1 g shall be taken from a pillar of the diaphragm at the transition to the sinewy part. Special trichinae forceps may be used provided that an accuracy of between 1,00 and 1,15 g can be guaranteed.
+
+In the case of whole carcasses of breeding sows and boars, a larger sample weighing at least 2 g shall be taken from a pillar of the diaphragm at the transition to the sinewy part.
+
+In the absence of diaphragm pillars, a specimen of 2 g shall be taken from the rib part or the breastbone part of the diaphragm, or from the jaw muscle, tongue or abdominal muscles of domestic swine other than breeding sows and boars, and a specimen of 4 g shall be taken from the same tissues of breeding sows and boars.
+
+(b) For cuts of meat, a sample weighing at least 5 g of striated muscle, and containing little fat shall be taken, where possible from close to bones or tendons. A sample of the same size shall be collected from meat that is not intended to be cooked thoroughly or other types of post-slaughter processing.
+
+**CHAPTER II**
+
+**EQUIVALENT METHODS**
+
+**A. Mechanically assisted pooled sample digestion method/sedimentation technique**
+
+1\. Apparatus and reagents
+
+(a) Knife or scissors for cutting specimens.
+
+(b) Trays marked off with 50 squares, each of which can hold samples of approximately 2 g of meat, or other tools giving equivalent guarantees as regards the traceability of the samples.
+
+(c) Meat mincer or electrical blender.
+
+(d) A Stomacher lab-blender 3 500 thermo model.
+
+(e) Plastic bags suitable for the Stomacher lab-blender.
+
+(f) Conical separation funnels, capacity 2 litres, preferably fitted with Teflon safety plugs.
+
+(g) Stands, rings and clamps.
+
+(h) Sieves, mesh size 180 microns, external diameter 11 cm, with stainless steel or brash mesh.
+
+(i) Funnels, internal diameter not less than 12 cm, to support the sieves.
+
+(j) 100 ml glass measuring cylinders.
+
+(k) A thermometer accurate to 0,5 °C within the range 20 °C to 70 °C.
+
+(l) A vibrator, e.g. an electric shaver with the head removed.
+
+(m) A relay which will switch on and off at one-minute intervals.
+
+(n) A trichinoscope with a horizontal table or a stereo-microscope, with a sub-stage transmitted light source of adjustable intensity.
+
+(o) Petri dishes of approximately 90 mm in diameter, gridded with squares of approximately 1 cm, or equivalent equipment for larval counting as in point 6.14 of the ISO 18743:2015/Amd1:2023  .
+
+(p) 17,5 % hydrochloric acid.
+
+(q) Pepsin with the following strength:
+
+— if powder or granular: 1:10 000 NF (US National Formulary) corresponding to 1:12 500 BP (British Pharmacopoeia) and to 2 000 FIP (Fédération internationale de pharmacie), or
+
+— if liquid: stabilised liquid pepsin with minimum 660 European Pharmacopoeia units/ml.
+
+Other pepsin activities can be used, provided the final activity in the digest fluid is equivalent to the activity of 10 g of 1:10 000 NF as stipulated in point 5.3 of the ISO 18743:2015/Amd1:2023  .
+
+(r) A number of 10 litre bins to be used for decontamination of apparatus, e.g. with formol, and for digestive juice remaining where specimens test positive.
+
+(s) Calibrated scale, for weighing samples and/or pepsin (accuracy ± 0,1 g).
+
+2\. Collecting of specimens and quantity to be digested
+
+As stipulated in Chapter I and in point 4.2 of the ISO 18743:2015/Amd1:2023 (see also Annexes A and B thereto for further details).
+
+3\. Procedure
+
+I. Grinding
+
+Grinding the meat samples in a meat mincer beforehand will improve the digestion quality. If an electrical blender is used, the blender must be operated three to four times for approximately one second each time.
+
+II. Digestion procedure
+
+This procedure may involve complete pools (100 g of samples at a time) or pools of less than 100 g.
+
+(a) Complete pools (100 samples at a time):
+
+(i) The Stomacher lab-blender 3 500 is fitted with a double plastic bag and the temperature control set at 40 to 41 °C.
+
+(ii) One and a half litres of water preheated to 40 to 41 °C is poured into the inner plastic bag.
+
+(iii) 25 ml of 17,5 % hydrochloric acid is added to the water in the Stomacher.
+
+(iv) 100 samples weighing approximately 1 g each (at 25 to 30 °C) taken from each individual sample in accordance with point 2 are added.
+
+(v) Lastly, 6 g pepsin or 18 ml liquid pepsin is added. This order must be followed strictly to avoid decomposition of the pepsin.
+
+(vi) The Stomacher is then allowed to pound the content of the bag for 25 minutes.
+
+(vii) The plastic bag is removed from the Stomacher and the digestion fluid is filtered through the sieve into a 3 litre beaker.
+
+(viii) The plastic bag is washed with approximately 100 ml of water, which is then used to rinse the sieve and lastly added to the filtrate in the beaker.
+
+(ix) Up to 15 individual samples can be added to a total pool of 100 samples and examined together with these samples.
+
+(b) Smaller pools (less than 100 samples):
+
+(i) The Stomacher lab-blender 3 500 is fitted with a double plastic bag and the temperature control set at 40 to 41 °C.
+
+(ii) A digestion fluid is prepared by mixing about one and a half litres of water and 25 ml of 17,5 % hydrochloric acid. 6 g of pepsin is added and the whole mixed at a temperature of 40 to 41 °C. This order must be followed strictly to avoid decomposition of the pepsin.
+
+(iii) Of the digestion fluid, a volume corresponding to 15 ml per gram of sample is measured (e.g. for 30 samples the volume required is 30 × 15 ml = 450 ml) and transferred to the inner of the two plastic bags, together with the meat samples weighing approximately 1 g (at 25 to 30 °C) taken from each individual sample in accordance with point 2.
+
+(iv) Water at a temperature of approximately 41 °C is poured into the outer bag to make up a total volume in the two bags of one and a half litres. The Stomacher is then allowed to pound the content of the bag for 25 minutes.
+
+(v) The plastic bag is removed from the Stomacher and the digestion fluid is filtered through the sieve into a 3 litre beaker.
+
+(vi) The plastic bag is washed with approximately 100 ml of water (at 25 to 30 °C), which is then used to rinse the sieve and lastly added to the filtrate in the beaker.
+
+III. Recovery of larvae by sedimentation
+
+— Ice (300 to 400 g of ice flakes, scaly ice or crushed ice) is added to the digestion fluid to bring its volume up to about 2 litres. The digestion fluid is then stirred until the ice has melted. In the case of smaller pools (see Section II(b)), the amount of ice must be reduced correspondingly.
+
+— The chilled digestion fluid is transferred to a 2 litre separation funnel, equipped with a vibrator in an extra clamp.
+
+— Sedimentation is allowed to proceed for 30 minutes, during which time the sedimentation funnel is vibrated intermittently, i.e. one minute vibration followed by a one-minute pause.
+
+— After 30 minutes, a 60 ml sample of the sediment is quickly run off into a 100 ml measuring cylinder (the funnel is rinsed with detergent solution after use).
+
+— The 60 ml sample is allowed to stand for at least 10 minutes, after which time the supernatant is withdrawn by suction to leave a volume of 15 ml, to be examined for presence of larvae.
+
+— For suction, a disposable syringe, equipped with a plastic tube, can be used. The length of the tube must be such that 15 ml remains in the measuring cylinder when the flanges of the syringe rest on the cylinder’s rim.
+
+— The remaining 15 ml is poured into a petri dish or equivalent equipment for larval counting, and examined using a trichinoscope or stereo-microscope.
+
+— The measuring cylinder is washed with 5 to 10 ml of tap water and the washings are added to the sample.
+
+— Digests are to be examined as soon as they are ready. Under no circumstances is examination to be postponed until the following day.
+
+Where the digests are unclear, they must be clarified as follows:
+
+— the final sample of 60 ml is poured into a measuring cylinder and allowed to stand for 10 minutes; 45 ml of supernatant fluid is then removed by suction and the remaining 15 ml is made up to 45 ml with tap water,
+
+— after a further settling period of 10 minutes, 30 ml of supernatant fluid is removed by suction and the remaining 15 ml is poured into a petri dish or equivalent equipment for larval counting and examined using a trichinoscope or stereo-microscope.
+
+— the measuring cylinder is washed with 10 ml of tap water and these washings are added to the sample in the petri dish or equivalent equipment for larval counting and examined using a trichinoscope or stereo-microscope.
+
+IV. Positive or doubtful results
+
+Where examination of a collective sample produces a positive or uncertain result, a further 20 g sample is taken from each pig, as stipulated in point 4.2 of the ISO 18743:2015/Amd1:2023  (see also Annexes A and B thereto for further details). The 20 g samples from five pigs are pooled and examined using the method described in this Chapter. In this way samples from 20 groups of five pigs will be examined. When Trichinella is detected in a pooled sample from five pigs, further 20 g samples are collected from the individual pigs in the group and each is examined separately using the method described in this Chapter. Parasite samples are to be kept in 70-90 % (final concentration) ethyl alcohol for conservation and identification at species level at the EU or national reference laboratory. For decontamination procedure, see point 12 of the ISO 18743:2015/Amd1:2023  .
+
+**B. Mechanically assisted pooled sample digestion method/'on filter isolation' technique**
+
+1\. Apparatus and reagents
+
+As stipulated in Section A(1).
+
+Additional equipment:
+
+(a) 1 litre Gelman funnel, complete with filter holder (diameter 45 mm);
+
+(b) filter discs, consisting of a circular stainless steel mesh with an aperture of 35 microns (disc diameter: 45 mm), two rubber rings 1 mm thick (external diameter: 45 mm; internal diameter: 38 mm), the circular mesh being placed between the two rubber rings and bonded to them using a two-component glue suitable for the two materials;
+
+(c) an Erlenmeyer flask, capacity 3 litres, fitted with a side tube for suction;
+
+(d) a filter pump;
+
+(e) plastic bags, capacity at least 80 ml;
+
+(f) equipment for sealing the plastic bags;
+
+(g) rennilase, strength 1:150 000 Soxhlet units per gram.
+
+2\. Collecting of specimens and quantity to be digested
+
+As stipulated in Chapter I and in point 4.2 of the ISO 18743:2015/Amd1:2023 (see also Annexes A and B thereto for further details).
+
+3\. Procedure
+
+I. Grinding
+
+Grinding the meat samples in a meat mincer beforehand will improve the digestion quality. If an electrical blender is used, the blender must be operated three to four times for approximately one second each time.
+
+II. Digestion procedure
+
+This procedure may involve complete pools (100 g of samples at a time) or pools of less than 100 g.
+
+(a) Complete pools (100 samples at a time)
+
+See Section A(3)(II)(a).
+
+(b) Smaller pools (less than 100 samples)
+
+See Section A(3)(II)(b).
+
+III. Recovery of larvae by filtration
+
+(a) Ice (300 to 400 g of ice flakes, scaly ice or crushed ice) is added to the digestion fluid to bring its volume up to about 2 litres. In the case of smaller pools, the amount of ice must be reduced correspondingly.
+
+(b) The digestion fluid is stirred until the ice has melted. The chilled digestion fluid is then left for at least three minutes to let the larvae coil.
+
+(c) The Gelman funnel, fitted with a filter holder and filter disc, is mounted on an Erlenmeyer flask connected to a filter pump.
+
+(d) The digestion fluid is poured into the Gelman funnel and filtered. Towards the end of filtration, the digestion fluid can be helped to pass through the filter by applying suction with the filter pump. Suction must cease before the filter becomes dry, i.e. when 2 to 5 ml of fluid is left in the funnel.
+
+(e) Once all the digestion fluid has been filtered, the filter disc is removed and placed in an 80 ml capacity plastic bag, together with 15 to 20 ml of rennilase solution. The rennilase solution is made by adding 2 g of rennilase to 100 ml of tap water.
+
+(f) The plastic bag is sealed twice and placed between the inner and outer bags in the Stomacher.
+
+(g) The Stomacher is allowed to pound for three minutes, e.g. while it is working on a complete or incomplete pool.
+
+(h) After three minutes, the plastic bag, complete with filter disc and rennilase solution, is removed from the Stomacher and opened with scissors. The liquid contents are poured into a petri dish or equivalent equipment for larval counting. The bag is washed out with 5 to 10 ml of water, which is then added to the petri dish or equivalent equipment for larval counting and examined using a trichinoscope or stereo-microscope.
+
+(i) Digests must be examined as soon as they are ready. Under no circumstances is examination to be postponed until the following day.
+
+Note:Filter discs must never be used when not completely clean. Unclean discs must never be allowed to dry out. Filter discs can be cleaned by leaving them in rennilase solution overnight. Before use, they must be washed in fresh rennilase solution using the Stomacher.
+
+IV. Positive or doubtful results
+
+As laid down in point IV of Section A(3).
+
+**C. Automatic digestion method for pooled samples of up to 35 g**
+
+1\. Apparatus and reagents
+
+(a) Knife or scissors for cutting specimens.
+
+(b) Trays marked off with 50 squares, each of which can hold samples of approximately 2 g of meat, or other tools giving equivalent guarantees as regards the traceability of the samples.
+
+(c) A Trichomatic 35® blender with filtration insert.
+
+(d) Hydrochloric acid 8,5 ± 0,5 % weight.
+
+(e) Transparent polycarbonate membrane filters with a diameter of 50 mm and a pore size of 14 microns.
+
+(f) Pepsin with the following strength:
+
+— if powder or granular: 1:10 000 NF (US National Formulary) corresponding to 1:12 500 BP (British Pharmacopoeia) and to 2 000 FIP (Fédération internationale de pharmacie), or
+
+— if liquid: stabilised liquid pepsin with minimum 660 European Pharmacopoeia units/ml.
+
+Other pepsin activities can be used, provided the final activity in the digest fluid is equivalent to the activity of 10 g of 1:10 000 NF as stipulated in point 5.3 of the ISO 18743:2015/Amd1:2023  .
+
+(g) Calibrated scale, for weighing samples and/or pepsin (accuracy ± 0,1 g).
+
+(h) Tweezers with a flat tip.
+
+(i) A number of microscope slides with a side-length of at least 5 cm or a number of petri dishes at least 6 cm in diameter, marked on their undersides into 10 × 10 mm square areas using a pointed instrument.
+
+(j) A (stereo-)microscope with transmitted light (magnification 15 to 60 times) or a trichinoscope with a horizontal table.
+
+(k) A bin for collection of waste liquids.
+
+(l) A number of 10 litre bins to be used for decontamination of apparatus, e.g. with formol, and for digestive juice remaining where specimens test positive.
+
+(m) A thermometer accurate to 0,5 °C within the range 20 to 70 °C.
+
+2\. Collecting of specimens and quantity to be digested
+
+As stipulated in Chapter I and in point 4.2 of the ISO 18743:2015/Amd1:2023 (see also Annexes A and B thereto for further details).
+
+3\. Procedure
+
+I. Digestion procedure
+
+(a) Place the blender with the filtration insert, connect the waste tube and place the tube so it drains into the waste bin.
+
+(b) When the blender is switched on, heating will start.
+
+(c) Before this is done, the bottom valve located below the reaction chamber must be opened and closed.
+
+(d) Up to 35 samples weighing approximately 1 g each (at 25 to 30 °C) taken from each individual sample in accordance with point 2 are then added. Ensure that larger pieces of tendons are removed as they may clot the membrane filter.
+
+(e) Pour water up to the edge of a liquid chamber connected to the blender (approximately 400 ml).
+
+(f) Pour about 30 ml hydrochloric acid (8,5 %) to the edge of the smaller, connected liquid chamber.
+
+(g) Place a membrane filter under the coarse filter in the filter holder in the filter insert.
+
+(h) Lastly, add 7 g of pepsin or 21 ml liquid pepsin. This order must be followed strictly to avoid decomposition of the pepsin.
+
+(i) Close the lids of the reaction and liquid chambers.
+
+(j) Select the period of digestion. A short digestion period (5 minutes) must be set for pigs at the normal slaughter age and a longer time (8 minutes) for other samples.
+
+(k) When the start button on the blender is turned on, the process of dispensing and digestion starts automatically, followed by filtration. After 10 to 13 minutes the process is completed and stops automatically.
+
+(l) Open the lid of the reaction chamber after checking that the chamber is empty. If there is foam or any digestion liquid remaining in the chamber, repeat the procedure in accordance with Section V.
+
+II. Recovery of larvae
+
+(a) Remove the filter holder and transfer the membrane filter to a slide or petri dish.
+
+(b) Examine the membrane filter using a (stereo-)microscope or a trichinoscope.
+
+III. Cleaning equipment
+
+(a) Where the result is positive, fill the blender reaction chamber with boiling water until it is two-thirds full. Ordinary tap water is poured into the connecting liquid chamber until it covers the lower sensor. Automatic cleaning then takes place. Decontaminate the filter-holder and any other equipment, e.g. using formol.
+
+(b) After work is completed for the day, fill the blender liquid chamber with water and put it through a standard cycle.
+
+IV. Use of membrane filters
+
+Each polycarbonate membrane filter may be used no more than five times. The filter is to be turned between each use. In addition, the filter must be checked after each use for any damage which would make it unsuitable for further use.
+
+V. Method to be applied when digestion is incomplete and filtration cannot be carried out
+
+Once the blender has been put through an automatic cycle in accordance with Section I, open the lid of the reaction chamber and check whether there is foam or any liquid remaining in the chamber. If this is the case, proceed as follows:
+
+(a) close the bottom valve below the reaction chamber;
+
+(b) remove the filter holder and transfer the membrane filter to a slide or petri dish;
+
+(c) put a new membrane filter in the filter holder and attach the filter holder;
+
+(d) fill the blender liquid chamber with water until the lower sensor is covered;
+
+(e) carry out the automatic cleaning cycle;
+
+(f) after the cleaning cycle has ended, open the lid of the reaction chamber and check whether any liquid remains;
+
+(g) if the chamber is empty, remove the filter holder and transfer the membrane filter to a slide or petri dish with tweezers;
+
+(h) examine the two membrane filters in accordance with Section II. If the filters cannot be examined, repeat the entire digestion process with a longer digestion time in accordance with Section I.
+
+VI. Positive or doubtful results
+
+As laid down in point IV of Section A(3).
+
+**D. Magnetic stirrer method for pooled sample digestion/'on filter isolation' and larva detection by a latex agglutination test**
+
+This method is only considered equivalent for the testing of meat of domestic swine.
+
+1\. Apparatus and reagents
+
+(a) Knife or scissors and tweezers for cutting specimens.
+
+(b) Trays marked off into 50 squares, each of which can hold samples of approximately 2 g of meat, or other tools giving equivalent guarantees as regards the traceability of the samples.
+
+(c) A blender with a sharp chopping blade. Where the samples are larger than 3 g, a meat mincer with openings of 2 to 4 mm or scissors must be used. In the case of frozen meat or tongue (after removal of the superficial layer, which cannot be digested), a meat mincer is necessary and the sample size will need to be increased considerably.
+
+(d) Magnetic stirrers with thermostatically controlled heating plate and Teflon-coated stirring rods approximately 5 cm long.
+
+(e) Glass beakers, capacity 3 litres.
+
+(f) Sieves, mesh size 180 microns, external diameter 11 cm, with stainless steel mesh.
+
+(g) Steel filtration apparatus for 20 μm mesh filters with a steel funnel.
+
+(h) Vacuum pump.
+
+(i) Metal or plastic tanks, capacity 10 to 15 litres, to collect the digestive juice.
+
+(j) A 3D gyratory rocker.
+
+(k) Aluminium foil.
+
+(l) 25 % hydrochloric acid.
+
+(m) Pepsin with the following strength:
+
+— if powder or granular: 1:10 000 NF (US National Formulary) corresponding to 1:12 500 BP (British Pharmacopoeia) and to 2 000 FIP (Fédération internationale de pharmacie), or
+
+— if liquid: stabilised liquid pepsin with minimum 660 European Pharmacopoeia units/ml.
+
+Other pepsin activities can be used, provided the final activity in the digest fluid is equivalent to the activity of 10 g of 1:10 000 NF as stipulated in point 5.3 of the ISO 18743:2015/Amd1:2023  .
+
+(n) Tap water heated to 46 to 48 °C.
+
+(o) Calibrated scale, for weighing samples and/or pepsin (accuracy ± 0,1 g).
+
+(p) Pipettes of different sizes (1, 10 and 25 ml), micropipettes according to the latex agglutination manufacturer's instructions and pipette holders.
+
+(q) 20 microns nylon mesh filters of a diameter that fits with the filtration system.
+
+(r) Plastic or steel forceps of 10 to 15 cm.
+
+(s) Conical vials of 15 ml.
+
+(t) A pestle with a Teflon or steel conical tip to fit in the conical vials.
+
+(u) A thermometer accurate to 0,5 °C within the range 20 to 70 °C.
+
+(v) Latex agglutination cards of the Trichin-L antigen test kit validated under the code No EURLP_D_001/2011.
+
+(w) Buffer solution with preservative (sample diluent) of the Trichin-L antigen test kit validated under the code No EURLP_D_001/2011.
+
+(x) Buffer supplemented with preservative (negative control) of the Trichin-L antigen test kit validated under the code No EURLP_D_001/2011.
+
+(y) Buffer supplemented with Trichinella spiralis antigens and preservative (positive control) of the Trichin-L antigen test kit validated under the code No EURLP_D_001/2011.
+
+(z) Buffer with polystyrene particles coated with antibodies supplemented with preservative (latex beads) of the Trichin-L antigen test kit validated under the code No EURLP_D_001/2011.
+
+(aa) Disposable sticks.
+
+2\. Collecting of specimens and quantity to be digested
+
+As stipulated in Chapter I and in point 4.2 of the ISO 18743:2015/Amd1:2023 (see also Annexes A and B thereto for further details).
+
+3\. Procedure
+
+I. For complete pools (100 g of samples at a time)
+
+(a) 16 ± 0,5 ml of 25 % hydrochloric acid (0,2 % final) is added to a 3 litre beaker containing 2,0 litres ± 200 ml of tap water, preheated to 46 to 48 °C; a stirring rod is placed in the beaker, the beaker is placed on the preheated plate and the stirring is started.
+
+(b) 10 ± 1 g of powder pepsin (or 30 ± 3 ml of liquid pepsin) is added.
+
+(c) 100-115 g of samples collected in accordance with point 2 are chopped in the blender, with 150 ± 15 ml of preheated digestion buffer.
+
+(d) The chopped meat is transferred to the 3 litre beaker containing the water, pepsin and hydrochloric acid.
+
+(e) The mincing insert of the blender is immersed repeatedly in the digestion fluid in the beaker and the blender bowl is rinsed with a small quantity of digestion fluid to remove any meat still adhering.
+
+(f) The beaker is covered with aluminium foil.
+
+(g) The magnetic stirrer must be adjusted so that it maintains a constant temperature of 44 to 46 °C throughout the operation. During stirring, the digestion fluid must rotate at a sufficiently high speed to create a deep whirl without splashing.
+
+(h) The digestion fluid is stirred until the meat particles disappear (approximately 30 minutes). The stirrer is then switched off and the digestion fluid is poured through the sieve into the sedimentation funnel. Longer digestion times may be necessary (not exceeding 60 minutes) in the processing of certain types of meat (tongue, game meat, etc.).
+
+(i) The digestion process is considered satisfactory if not more than 5 % of the starting sample weight remains on the sieve.
+
+(j) The 20 microns nylon mesh filter is placed on the filtration support. The conical filtration steel funnel is fixed to the support with the block system and the steel sieve of 180 microns mesh size is placed on the funnel. The vacuum pump is connected with the filtration support and with the metal or plastic tank, to collect the digestive fluid.
+
+(k) Stirring is stopped and the digestion fluid is poured into the filtration funnel through the sieve. The beaker is rinsed with approximately 250 ml of warm water. The rinsing liquid is poured into the filtration ramp after the digested fluid has been successfully filtrated.
+
+(l) The filtration membrane is taken with the forceps, holding it by an edge. The filtration membrane is folded (minimal) in four and put in the 15 ml conical tube. The choice of conical tube must be adapted to the pestle.
+
+(m) The filtration membrane is pushed at the bottom of the 15 ml conical tube with the help of the pestle and strongly pressed by doing approximately 20 successive back and forth movements with the pestle which should be positioned inside the filtration membrane folding according to the manufacturer's instructions.
+
+(n) 0,5 ± 0,01 ml of sample diluents is added into the 15 ml conical tube by pipette and the filtration membrane is homogenised with the pestle by doing successive low amplitude back and forth movements for approximately 30 seconds, avoiding abrupt movements to limit liquid splashes according to the manufacturer's instructions.
+
+(o) Each sample, the negative control, and the positive control, are dispensed into different fields of the agglutination card by pipettes, according to the manufacturer's instructions.
+
+(p) The latex beads are added into each field of the agglutination card by a pipette, according to the manufacturer's instructions, without making them come into contact with the sample/s and controls. In each field, the latex beads are then gently mixed with a disposable stick until the homogeneous liquid covers the entire field.
+
+(q) The agglutination card is put on the 3D rocker and is rocked for 10 ± 1 minutes according to the manufacturer's instructions.
+
+(r) After the time established by the manufacturer's instructions, the rocking is stopped and the agglutination card is put on a plane surface and the reaction results are read immediately, according to the manufacturer's instructions. In the case of a positive sample, the beads aggregates must appear. In the case of a negative sample, the suspension remains homogeneous without beads aggregates.
+
+II. Pools of less than 100 g as set out in in point 8 of the ISO 18743:2015/Amd1:2023
+
+Where needed, up to 15 g can be added to a total pool of 100 g and examined together with these samples in accordance with Section I. More than 15 g must be examined as a complete pool. For pools of up to 50 g, the digestion fluid and the ingredients may be reduced to 1 litre of water, 8 ml of hydrochloric acid and 5 g of pepsin.
+
+III. Positive or doubtful results
+
+Where examination of a collective sample produces a positive or uncertain latex agglutination result, a further 20 g sample is taken from each swine in accordance with point 4.2 of the ISO 18743:2015/Amd1:2023  (see also Annexes A and B thereto for further details). The 20 g samples from five swine are pooled and examined using the method described in Section I. In this way samples from 20 groups of five swine must be examined.
+
+When a positive latex agglutination is obtained from a group of five swine, further 20 g samples are collected from the individuals in the group and each is examined separately using the method described in Section I.
+
+When a positive or uncertain latex agglutination result is obtained, at least 20 g of swine muscle must be sent to the national reference laboratory for confirmation using the ISO 18743:2015/Amd1:2023  or one of the equivalent methods as described above.
+
+Parasite samples must be kept in 70-90 % (final concentration) ethyl alcohol for conservation and identification at species level at the EU or national reference laboratory.
+
+After parasite collection, positive fluids must be decontaminated by heating to at least 60 °C.
+
+IV. Cleaning and decontamination procedure after a positive or doubtful result
+
+When the examination of a collective or individual sample produces a positive or doubtful latex agglutination result, all material in contact with meat (blender bowl and blade, pestle, beaker, stirring rod, temperature sensor, conical filtration funnel, sieve and forceps) must be carefully decontaminated by soaking for few seconds in warm water (65 to 90 °C). Meat residues or inactivated larvae that could remain on their surface may be removed with a clean sponge and tap water. If required, a few drops of detergent can be added for degreasing equipment. It is then recommended to rinse each piece thoroughly to remove all traces of detergent.
+
+**E. Artificial digestion test for in vitro detection of Trichinella spp. larvae in meat samples, PrioCHECK® Trichinella AAD Kit**
+
+This method is only considered equivalent for the testing of meat of domestic swine.
+
+The PrioCHECK® Trichinella AAD Kit shall be used according to the instruction manual of the kit using separatory funnels (Lenz NS 29/32) and a glass test tube of 80 ml.
+
+**F. Automated detection of Trichinella spp. using the lumiVAST Trichinella method**
+
+This method shall only be considered equivalent for the testing of meat of domestic swine
+
+Sample preparation and analysis shall be carried out in accordance with the instructions provided by the manufacturer. All apparatuses used for this method shall be calibrated and maintained in accordance with the instructions provided by the manufacturer(s).
+
+Where examination of a collective sample produces a positive or uncertain result, a further 20 g sample shall be taken from a pillar of the diaphragm or other tissue of each swine in accordance with Chapter I.
+
+The 20 g samples from 5 swine shall be pooled and examined using the same method.
+
+When a positive result is obtained from a group of 5 swine, a further 20 g sample shall be collected from the individuals in the group and each shall be examined separately using the same method.
+
+When a positive or uncertain result is obtained, at least 20 g of swine muscle shall be sent to the national reference laboratory for confirmation using the reference method laid down in Chapter I.
+
+Parasite samples shall be kept in 70 to 90 % ethyl alcohol for conservation and identification at species level at the EU or national reference laboratory.
+
+## ANNEX II
+
+**Freezing treatments**
+
+**A. Freezing method 1**
+
+(a) Meat brought in already frozen is to be kept in this condition.
+
+(b) The technical equipment and energy supply of the refrigeration room must be such as to ensure that the required temperature is reached very rapidly and maintained in all parts of the room and of the meat.
+
+(c) Insulated packaging must be removed before freezing, except in the case of meat that is already at the required temperature throughout when it is brought into the refrigeration room or meat so packaged that the packaging will not prevent it from reaching the required temperature within the specified time.
+
+(d) Consignments in the refrigeration room must be kept separately and under lock and key.
+
+(e) The date and time when each consignment is brought into the refrigeration room must be recorded.
+
+(f) The temperature in the refrigeration room must be at least – 25 °C. It must be measured using calibrated thermo-electric instruments and recorded continuously. It may not be measured directly in the cold air flow. The instruments must be kept under lock and key. The temperature charts must include the relevant data from the meat inspection register on import and the date and time of commencement and completion of freezing, and must be retained for one year after compilation.
+
+(g) Meat of a diameter or thickness of up to 25 cm must be frozen for at least 240 consecutive hours, and meat of a diameter or thickness of between 25 and 50 cm must be frozen for at least 480 consecutive hours. This freezing process must not be applied to meat that is thicker or of a larger diameter. The freezing time is calculated from the point when the temperature in the freezing room reaches that specified in point (f).
+
+**B. Freezing method 2**
+
+The general provisions of points (a) to (e) of Section A (method 1) are complied with, and the following time-temperature combinations applied:
+
+(a) meat of a diameter or thickness of up to 15 cm must be frozen for one of the following time-temperature combinations:
+
+— 20 days at – 15 °C,
+
+— 10 days at – 23 °C,
+
+— 6 days at – 29 °C.
+
+(b) meat of a diameter or thickness of between 15 cm and 50 cm must be frozen for one of the following time-temperature combinations:
+
+— 30 days at – 15 °C,
+
+— 20 days at – 25 °C,
+
+— 12 days at – 29 °C.
+
+The temperature in the refrigeration room must be no higher than the level of the selected inactivation temperature. It must be measured using calibrated thermo-electric instruments and recorded continuously. It must not be measured directly in the cold air flow. The instruments must be kept under lock and key. The temperature charts must include the relevant data from the meat inspection register on importation and the date and time of commencement and completion of freezing, and must be retained for one year after compilation.
+
+Where freezing tunnels are used and the procedures described in Sections A and B are not followed strictly, the food business operator must be able to prove to the competent authority that the alternative method is effective in killing Trichinella parasites in pigmeat.
+
+**C. Freezing method 3**
+
+Treatment consists of commercial freeze-drying or freezing of meat for specified time-temperature combinations with temperature monitored at the centre of each cut.
+
+(a) The general provisions of points (a) to (e) of Section A (method 1) are to be complied with for the following time-temperature combinations:
+
+— 106 hours at – 18 °C,
+
+— 82 hours at – 21 °C,
+
+— 63 hours at – 23,5 °C,
+
+— 48 hours at – 26 °C,
+
+— 35 hours at – 29 °C,
+
+— 22 hours at – 32 °C,
+
+— 8 hours at – 35 °C,
+
+— 1/2 hour at – 37 °C.
+
+(b) The temperature is to be measured using calibrated thermo-electric instruments and recorded continuously. The thermometer probe is inserted in the centre of a cut of meat no smaller in size than the thickest piece of meat to be frozen. This cut must be placed at the least favourable position in the refrigeration room, not close to the cooling equipment or directly in the cold airflow. The instruments must be kept under lock and key. The temperature charts must include the data numbers from the meat inspection register on import and the date and time of commencement and completion of freezing, and must be retained for one year after compilation.
+
+## ANNEX III
+
+**Examination of animals other than swine**
+
+Soliped meat, wild game meat and other meat that could contain Trichinella parasites must be examined in accordance with one of the digestion methods specified in Chapter I or II of Annex I, with the following changes:
+
+(a) specimens weighing at least 10 g are taken from the lingual or jaw muscle of solipeds and from the foreleg, tongue or diaphragm of wild boar;
+
+(b) in the case of solipeds, where those muscles are lacking, a larger-sized specimen is to be taken from a pillar of the diaphragm at the transition to the sinewy part. The muscle must be clean of connective tissue and fat;
+
+(c) at least 5 g of sample is digested following the reference method of detection set out in Chapter I or an equivalent method set out in Chapter II. For each digest, the total weight of muscle examined must not exceed 100 g in the case of the method set out in Chapter I and methods A and B set out in Chapter II and 35 g in the case of method C set out in Chapter II;
+
+(d) where the result is positive, a further 50 g specimen is taken for a subsequent independent examination;
+
+(e) without prejudice to the rules on conservation of animal species, all meat of game animals other than wild boar, such as bears, carnivorous mammals (including marine mammals) and reptiles, are to be tested by sampling 10 g of muscle at the predilection sites or larger amounts if those sites are not available. Predilection sites are:
+
+(i) in bears: diaphragm, masseter muscle and tongue;
+
+(ii) in walruses: tongue;
+
+(iii) in crocodiles: masseter, pterygoid and intercostal muscles;
+
+(iv) in birds: muscles of the head (e.g. masseter and neck muscles);
+
+(f) the digestion time must suffice to ensure adequate digestion of the tissue of these animals but must not exceed 60 minutes.
+
+## ANNEX IV
+
+**CHAPTER I**
+
+**OFFICIAL RECOGNITION OF HOLDINGS OR A COMPARTMENT AS APPLYING CONTROLLED HOUSING CONDITIONS**
+
+A. The following requirements must be met by food business operators to obtain official recognition of holdings:
+
+(a) the operator must have taken all practical precautions with regard to building construction and maintenance in order to prevent rodents, any other kind of mammals and carnivorous birds from having access to buildings where animals are kept;
+
+(b) the operator must apply a pest-control programme, in particular for rodents, effectively to prevent infestation of pigs. The operator must keep records of the programme to the satisfaction of the competent authority;
+
+(c) the operator must ensure that all feed has been obtained from a facility that produces feed in accordance with the principles described in Regulation (EC) No 183/2005 of the European Parliament and of the Council ( 1 );
+
+(d) the operator must store feed intended for Trichinella susceptible species in closed silos or other containers that are impenetrable to rodents. All other feed supplies must be heat-treated or produced and stored to the satisfaction of the competent authority;
+
+(e) the operator must ensure that dead animals are collected, identified and transported without undue delay in accordance with Articles 21 and 22 of Regulation (EC) No 1069/2009 and with Annex VIII to Regulation (EU) No 142/2011;
+
+(f) if a rubbish dump is located in the neighbourhood of the holding, the operator must inform the competent authority. Subsequently, the competent authority must assess the risks involved and decide whether the holding is to be recognised as applying controlled housing conditions;
+
+(g) the operator must ensure that domestic swine are identified so that each animal can be traced back to the holding;
+
+(h) the operator must ensure that domestic swine are only introduced onto the holding if they originate in and come from holdings officially recognised as applying controlled housing conditions;
+
+(i) none of the domestic swine has access to outdoor facilities unless the operator can show by a risk analysis to the satisfaction of the competent authority that the time period, facilities and circumstances of outdoor access do not pose a danger for introduction of Trichinella in the holding;
+
+(j) none of the swine for breeding and production, as defined in Article 2(2)(c) of Directive 64/432/EEC, has been unloaded after leaving the holding of origin at an assembly centre as defined in Article 2(2)(o) of Directive 64/432/EEC, unless the assembly centre meets the requirements of points (a) to (i) and all domestic swine being grouped for consignments at the assembly centre originate in and come from holdings officially recognised as applying controlled housing conditions or from officially recognised compartments.
+
+B. Food business operators of holdings officially recognised as applying controlled housing conditions shall inform the competent authority where any of the requirements laid down in point A is no longer fulfilled or where any other change has occurred that might affect the status of the holding.
+
+C. The competent authorities in Member States may only recognise a holding or a category of holdings provided that they have verified that the requirements laid down in point A are met.
+
+**CHAPTER II**
+
+**REPORTING ON TRICHINELLA SITUATION**
+
+(a) The number of cases (imported and autochthonous) of Trichinella in humans, including epidemiological data shall be reported in accordance with Decision 2000/96/EC.
+
+(b) The number of tests and the results of testing for Trichinella in domestic swine, wild boar, solipeds, game and any other susceptible animals shall be submitted in accordance with Annex IV to Directive 2003/99/EC. Data on domestic swine shall, at least, provide specific information related to:
+
+(i) tests on animals raised under controlled housing conditions;
+
+(ii) tests on breeding sows, boars and fattening pigs.
+
+## ANNEX V
+
+**Repealed Regulation with list of its successive amendments**
+
+| Commission Regulation (EC) No 2075/2005 | (OJ L 338, 22.12.2005, p. 60). |
+| --- | --- |
+| Commission Regulation (EC) No 1665/2006 | (OJ L 320, 18.11.2006, p. 46). |
+| Commission Regulation (EC) No 1245/2007 | (OJ L 281, 25.10.2007, p. 19). |
+| Commission Implementing Regulation (EU) No 1109/2011 | (OJ L 287, 4.11.2011, p. 23). |
+| Commission Regulation (EU) No 216/2014 | (OJ L 69, 8.3.2014, p. 85). |
+| Commission Implementing Regulation (EU) No 1114/2014 | (OJ L 302, 22.10.2014, p. 46). |
+
+## ANNEX VI
+
+**Correlation Table**
+
+| Regulation (EC) No 2075/2005 | This Regulation |
+| --- | --- |
+| Articles 1 to 5 | Articles 1 to 5 |
+| Article 6(1), introductory wording | Article 6(1) |
+| Article 6(1), point (a) | Article 6(1) |
+| Article 6(1), point (b) | — |
+| Article 6(2) | Article 6(2) |
+| Articles 7 to 13 | Articles 7 to 13 |
+| Article 15 | Article 14 |
+| Article 16 | — |
+| — | Article 15 |
+| Article 17, first paragraph | Article 16 |
+| Article 17, second paragraph | — |
+| Annex I, Chapter I | Annex I, Chapter I |
+| Annex I, Chapter II | Annex I, Chapter II |
+| Annex I, Chapter III | — |
+| Annexes II, III and IV | Annexes II, III and IV |
+| — | Annex V |
+| — | Annex VI |
+
+## ANNEX VII — Third countries or regions thereof applying the derogations referred to in Article 13(2)
+
+<table>
+<tbody><tr><td>Country ISO code</td><td>Third country or regions thereof</td><td>Remarks</td></tr>
+<tr><td>GB</td><td>United Kingdom (*1)</td><td>Application of the derogations provided for in Article 3(2) and (3)</td></tr>
+<tr><td colspan="3">(*1)  In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, for the purposes of this Annex, references to the United Kingdom do not include Northern Ireland. </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene (OJ L 35, 8.2.2005, p. 1).

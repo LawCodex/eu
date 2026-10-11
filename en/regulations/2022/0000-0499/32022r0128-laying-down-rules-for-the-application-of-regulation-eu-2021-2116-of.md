@@ -1,0 +1,1578 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/128 of 21 December 2021 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council on paying agencies and other bodies, financial management, clearance of accounts, checks, securities and transparency"
+identifier: "32022R0128"
+eli: "http://data.europa.eu/eli/reg_impl/2022/128/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-12-21
+entry_into_force: 2023-01-11
+last_amended: 2026-07-22
+consolidated_version: "02022R0128-20260722"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R0128-20260722"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/128 of 21 December 2021 laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council on paying agencies and other bodies, financial management, clearance of accounts, checks, securities and transparency
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/128**
+
+**of 21 December 2021**
+
+**laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council on paying agencies and other bodies, financial management, clearance of accounts, checks, securities and transparency**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/860 of 25 April 2023 </td><td> L 111</td><td>23</td><td>26.4.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2155 of 17 October 2023 </td><td> L 2155</td><td>1</td><td>18.10.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2773 of 13 December 2023 </td><td> L 2773</td><td>1</td><td>14.12.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/165 of 21 January 2026 </td><td> L 165</td><td>1</td><td>22.1.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1906 of 31 July 2026 </td><td> L 1906</td><td>1</td><td>3.8.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/128**
+
+**of 21 December 2021**
+
+**laying down rules for the application of Regulation (EU) 2021/2116 of the European Parliament and of the Council on paying agencies and other bodies, financial management, clearance of accounts, checks, securities and transparency**
+
+## CHAPTER I — Paying agencies and other bodies
+
+#### Article 1 — Procedure for the accreditation of paying agencies
+
+1\. Member States shall designate an authority at ministerial level responsible for:
+
+(a) the issuing, reviewing and withdrawing of accreditation of paying agencies;
+
+(b) carrying out the tasks assigned to the competent authority pursuant to this Chapter.
+
+2\. The competent authority shall, by way of a formal act, decide on the issuing or, after review, the withdrawal of the accreditation of the paying agency on the basis of an examination of the accreditation criteria referred to in Article 1(2) and (3) of Delegated Regulation (EU) 2022/127. The competent authority shall inform the Commission of accreditations and withdrawals of accreditations without delay.
+
+3\. The competent authority shall appoint an audit body to carry out an examination before any accreditation is issued (pre-accreditation review). The audit body shall be an audit authority, or other public or private organisation or organisational unit of an authority with the requisite proficiency, skills and capacity to carry out audits. The audit body shall be independent from the paying agency to be accredited.
+
+4\. The examination (pre-accreditation review) to be carried out by the audit body shall cover, in particular:
+
+(a) the procedures and systems in place for the authorisation and execution of payments and for the execution of the annual performance reporting;
+
+(b) the division of duties and the adequacy of internal and external control in respect of transactions financed by the European Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD), hereinafter together referred to as ‘the Funds’;
+
+(c) the extent to which the procedures and systems put in place are apt to safeguard the Union budget including risk-based anti-fraud measures;
+
+(d) the security of information systems;
+
+(e) the maintenance of accounting records.
+
+The audit body shall prepare a report detailing the audit work carried out, the results of that work and its assessment as to whether the paying agency complies with the accreditation criteria. The report shall be provided to the competent authority which shall then assess the results and issue the accreditation act where it is satisfied that the paying agency complies with the accreditation criteria.
+
+5\. Where the competent authority considers that the paying agency does not comply with the accreditation criteria, it shall inform the paying agency of the specific conditions it is required to fulfil before accreditation may be issued.
+
+Pending the implementation of any necessary changes in order to fulfil such specific conditions, accreditation may be issued provisionally for a period to be determined taking into account the severity of the problems identified, which shall not exceed 12 months. In duly justified cases, the Commission may, upon request of the Member State concerned, grant an extension of that period.
+
+6\. The information provided for in Article 90(1), first subparagraph, point (a), of Regulation (EU) 2021/2116 shall be communicated immediately after the paying agency is first accredited and in any case before any expenditure effected by it is charged to the Funds. That information shall be accompanied by declarations and documents concerning:
+
+(a) the responsibilities vested in the paying agency;
+
+(b) the allocation of responsibilities between the departments of the paying agency;
+
+(c) the relationship of the paying agency with other bodies, public or private, which are responsible for implementing any measures under which the paying agency charges expenditure to the Funds;
+
+(d) the procedures by which claims by beneficiaries are received, verified, and validated, and by which expenditure is authorised, paid and accounted for;
+
+(e) the provisions concerning the security of information systems;
+
+(f) the report of the pre-accreditation review carried out by the audit body referred to in paragraph 3.
+
+7\. The Commission shall inform the Committee on the Agricultural Funds of paying agencies accredited in each Member State.
+
+#### Article 2 — Review and withdrawal of accreditation of paying agencies
+
+1\. The competent authority shall keep the paying agencies for which it is responsible under constant supervision, on the basis of, in particular, the certificates and reports drawn up by the certification body referred to in Article 12 of Regulation (EU) 2021/2116, and shall follow-up on any deficiencies identified.
+
+Every 3 years, the competent authority shall report in writing to the Commission on its supervision of paying agencies and monitoring of their activities. The report shall include a review of the paying agencies’ continuous compliance with the accreditation criteria, together with a summary of the actions taken to remedy the deficiencies. The competent authority shall confirm whether a paying agency for which it is responsible continues to comply with the accreditation criteria.
+
+2\. Member States shall establish a system that ensures that any information suggesting that a paying agency does not comply with the accreditation criteria is communicated to the competent authority without delay.
+
+3\. Where the competent authority has determined that an accredited paying agency no longer respects one or more of the accreditation criteria in a manner that is liable to hinder the fulfilment of the tasks set out in Article 1(1) of Delegated Regulation (EU) 2022/127, the competent authority shall put the paying agency’s accreditation under probation without delay. It shall draw up a plan including actions and deadlines to remedy the deficiencies found within a period to be determined according to the severity of the problem, which shall not exceed 12 months from the date on which the accreditation is put under probation. In duly justified cases, the Commission may, upon request of the Member State concerned, grant an extension of that period.
+
+4\. The competent authority shall inform the Commission of its decision to place a paying agency’s accreditation under probation, of the plan drawn up pursuant to paragraph 3 and, subsequently, of the progress in the implementation of such plans.
+
+5\. If the accreditation is withdrawn, the competent authority shall without delay accredit another paying agency which fulfils the conditions laid down in Article 9(2) of Regulation (EU) 2021/2116 to ensure that payments to beneficiaries are not interrupted.
+
+6\. Where the Commission finds that the competent authority has not complied with its obligation to draw up a remedial plan pursuant to paragraph 3 or that the paying agency continues to be accredited without having fully implemented such a plan within the determined period, it shall request the competent authority to withdraw the accreditation of that paying agency unless the necessary changes are made within a period to be determined by the Commission according to the severity of the problem. In such a situation, the Commission may decide to pursue the deficiencies through the conformity procedure in accordance with Article 55 of Regulation (EU) 2021/2116.
+
+#### Article 3 — Procedure for issuing, reviewing and withdrawing the accreditation of the coordinating body
+
+1\. Member States shall designate an authority at ministerial level responsible for the issuing, reviewing and withdrawing of the accreditation of the coordinating body referred to in Article 10 of Regulation (EU) 2021/2116 (hereinafter “the competent authority”).
+
+2\. The competent authority shall, by way of a formal act, designate and decide on the issuing or, after review, the withdrawal of the accreditation of the coordinating body on the basis of an examination of the accreditation criteria referred to in Article 2 of Delegated Regulation (EU) 2022/127. This examination on the compliance with the accreditation criteria shall be carried out by the competent authority and it may rely on an examination performed by an audit body. The competent authority shall inform the Commission of issuing and withdrawing the accreditation of the coordinating body without delay.
+
+3\. The coordinating body referred to in Article 10 of Regulation (EU) 2021/2116 shall act as the Commission’s sole interlocutor for the Member State concerned for all questions relating to the Funds as regards its tasks.
+
+4\. A paying agency may act as a coordinating body provided that the two functions are kept separate.
+
+5\. In performing its tasks, the coordinating body may, in accordance with national procedures, call on other administrative bodies or departments, particularly on those with accounting or technical expertise.
+
+6\. The confidentiality, integrity and availability of all computer data held by the coordinating body shall be ensured by measures adapted to the administrative structure, staffing and technological environment of each coordinating body. The financial and technological effort shall be proportionate to the actual risks incurred.
+
+7\. The communication of information provided for in Article 90, first subparagraph, point (a), of Regulation (EU) 2021/2116 shall be made immediately after the coordinating body is first accredited and, in any case, before any expenditure for which it is responsible is charged to the Funds. That information shall be accompanied by declarations and documents concerning:
+
+(a) the responsibilities vested in the coordinating body;
+
+(b) the allocation of responsibilities within the coordinating body;
+
+(c) the relationship of the coordinating body with other bodies, public or private, which are responsible to collaborate with it on the performance of its tasks;
+
+(d) the procedures and systems in place in place to ensure the performance of its tasks;
+
+(e) the provisions concerning the security of information systems;
+
+(f) the result of the examination on the compliance with the accreditation criteria referred to in paragraph 2.
+
+8\. Where the competent authority considers that the coordinating body does not comply with the accreditation criteria, it shall inform the coordinating body of the requirements to be complied with.
+
+Pending the implementation of any necessary changes in order to meet the accreditation criteria, accreditation may be:
+
+(a) issued provisionally for a new coordinating body;
+
+(b) put under probation for an existing coordinating body provided that an action plan is followed to remedy the situation.
+
+The accreditation shall be withdrawn if the accreditation criteria have not been fulfilled and the competent authority considers that the coordinating body cannot fulfil its tasks.
+
+#### Article 4 — Management declarations
+
+1\. The management declarations referred to in Article 9(3), first subparagraph, point (d), and Article 10(3) of Regulation (EU) 2021/2116 shall be drawn up in due time for the certification body to issue the opinion referred to in Article 12(1) of that Regulation.
+
+The management declarations shall be in the forms set out in Annexes I and II respectively to this Regulation and may be qualified by reservations quantifying the potential financial impact. In the event that reservations are expressed, the declaration shall include a remedial action plan and a precise a time frame for its implementation.
+
+2\. The management declarations shall be based on an effective supervision of the management and control system in place throughout the year.
+
+#### Article 5 — Certification
+
+1\. The competent authority shall designate the certification body provided for in Article 12 of Regulation (EU) 2021/2116.
+
+Where there is more than one certification body in a Member State, that Member State may designate a public certification body at the national level to be responsible for coordination.
+
+2\. The certification body shall organise its work in an effective and efficient manner, and carry out its checks within an appropriate time frame, taking into account the nature and the timing of the transactions for the financial year concerned.
+
+3\. The opinion to be provided by the certification body in accordance with Article 12(2)  of Regulation (EU) 2021/2116 shall be drawn up annually.
+
+That opinion shall be based on the audit work to be carried out in accordance with Articles 6 and 7 of this Regulation.
+
+4\. The certification body shall draw up a report of its findings. The report shall also cover the delegated functions of the paying agency in accordance with Section 1.(D) of Annex I to Delegated Regulation (EU) 2022/127. The report shall state whether, for the period covered by the report:
+
+(a) the paying agency complied with the accreditation criteria;
+
+(b) the paying agency’s procedures were such as to give reasonable assurance that the expenditure charged to the Funds was effected in compliance with Union rules, thus ensuring that:
+
+(i) as regards the types of intervention referred to in Regulation (EU) 2021/2115, the expenditure has corresponding reported output and that it has been effected in accordance with the applicable governance systems, and that recommendations for improvements, if any, have been followed up;
+
+(ii) the underlying transactions were legal and regular, as regards the measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and Regulation (EU) No 1144/2014 of the European Parliament and of the Council ( 1 ), as well as for the crop-specific payment for cotton and support for early retirement under Title III, Chapter II, Section 3, Subsection 2, and Article 155(2), respectively, of Regulation (EU) 2021/2115, and that recommendations for improvements, if any, have been followed up;
+
+(c) the performance reporting on output indicators and the performance reporting on result indicators for the multiannual performance monitoring referred to in Article 134 of Regulation (EU) 2021/2115, demonstrating that Article 37 of Regulation (EU) 2021/2116 is complied with, was correct;
+
+(d) the annual accounts referred to in Article 33 of this Regulation were kept in accordance with the books and records of the paying agency;
+
+(e) the statements of expenditure and of public intervention operations were a materially true, complete and accurate record of the operations charged to the Funds;
+
+(f) the financial interests of the Union were properly protected as regards advances paid, guarantees obtained, intervention stocks and amounts to be collected.
+
+The report shall include information on the number and qualifications of staff conducting the audit, the work done, the systems examined, the level of materiality and confidence obtained where applicable, any weaknesses found and recommendations made for improvement and the operations of both the certification body and other audit bodies, internal and external to the paying agency, from which all or part of the certification body’s assurance on the matters reported was gained.
+
+#### Article 6 — Audit principles
+
+1\. The certification audit shall be carried out in accordance with internationally accepted auditing standards.
+
+2\. The certification body shall prepare an audit strategy that sets the scope, timing and direction of the certification audit, the audit methods and the sampling methodology, while distinguishing types of intervention referred to in Regulation (EU) 2021/2115 from measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014. An audit plan shall be developed in respect of each financial year audited based on the estimated audit risk. Upon request, the certification body shall provide the Commission with the audit strategy and the audit plan.
+
+3\. The reasonable level of audit assurance to be achieved from auditing shall be obtained as to the proper functioning of the governance systems, the correctness of the performance reporting, the true and fair view of the annual accounts and the legality and regularity of the underlying transactions as regards the measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014, as well as for the crop-specific payment for cotton and support for early retirement under Title III, Chapter II, Section 3, Subsection 2, and Article 155(2), respectively, of Regulation (EU) 2021/2115, for which reimbursement has been requested from the Commission.
+
+This shall be done through system audit and compliance testing as regards the functioning of governance system, completeness and accuracy testing and analytical procedures for the performance reporting system.
+
+As regards the audit of annual accounts substantive testing of expenditure shall be applied, including test of details. As regards the audit of the legality and regularity of the underlying transactions as referred to in the first subparagraph, the testing shall include verification on-the-spot.
+
+4\. The Commission shall establish guidelines, which contain, in particular:
+
+(a) further clarification and guidance in respect of the certification audit to be performed;
+
+(b) the determination of the reasonable level of audit assurance to be achieved from auditing.
+
+#### Article 7 — Audit methods
+
+1\. The audit methods relevant to the certification audit shall be defined in the audit strategy provided for in Article 6(2).
+
+2\. To achieve the audit objectives and to issue the opinion as laid down in Article 12(2) of Regulation (EU) 2021/2116, the audit steps shall include systems audits, substantive testing, where necessary, and the verification of reconciliations on financial and management declarations.
+
+3\. As regards the auditing of governance systems, the certification body shall perform systems audits that may include compliance testing and also testing of IT general controls and application controls, for the purpose of verification of the system design and implementation.
+
+4\. Substantive testing of expenditure shall cover the verification of legality and regularity of the underlying transactions at the level of the final beneficiaries as regards the measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014, as well as for the crop-specific payment for cotton and support for early retirement under Title III, Chapter II, Section 3, Subsection 2, and Article 155(2), respectively, of Regulation (EU) 2021/2115. For those purposes, the certification body may accompany the paying agency when it carries out secondary level on-the-spot checks. The certification body shall not accompany the paying agency when it carries out initial on-the-spot checks, with the exception of those situations where it would be physically impossible to re-verify the initial check carried out by the paying agency.
+
+5\. As regards auditing of the performance reporting system, the certification body shall apply testing of records, databases to verify if reported performance output and result indicators are correctly reported and match the expenditure financed by the Union or objectives of intervention, respectively. The certification body’s work shall also include the verification of the calculation of the indicators.
+
+6\. The certification body may rely on the audit results of the external auditors of the bodies implementing financial instruments for the purpose of the overall assurance and on this basis, the certification body may decide to limit its own audit work.
+
+In the context of guarantee funds, the certification body may conduct audits of the bodies providing new underlying loans only when either one or both of the following situations occur:
+
+(a) supporting documents, providing evidence of the support from the financial instrument to final recipients, are not available at the level of the managing authority or at the level of the bodies implementing the financial instrument;
+
+(b) there is evidence that the documents available at the level of the managing authority or at the level of the bodies implementing the financial instrument do not represent a true and accurate record of the support provided.
+
+The Member State shall define the arrangements to ensure the audit trail for financial instruments in accordance with the template set out in Annex III, demonstrating the fulfilment of conditions or achievement of results.
+
+7\. The European Investment Bank (EIB), or other international financial institutions in which a Member State is a shareholder implementing financial instruments, shall by the end of each calendar year provide the Member States with the annual audit report referred to in the third subparagraph of Article 12(2) of Regulation (EU) 2021/2116 prepared by their external auditors covering the elements included in Annex IV to this Regulation.
+
+8\. The Commission shall provide further conditions and guidance on designing the audit procedures, sampling integration, planning and carrying out the on-the-spot re-verification of transactions, where necessary, through the guidelines as referred to in Article 6(4).
+
+## CHAPTER II — Financial management of the Funds
+
+### Section 1 — General provisions
+
+#### Article 8 — Paying agencies’ accounts
+
+1\. Each paying agency shall keep a set of accounts covering only the expenditure and revenue referred to in Article 5(1) and Articles 6 and 45 of Regulation (EU) 2021/2116 and the use of the funds made available to it to defray the corresponding expenditure. Those accounts shall enable the financial data for the Funds to be distinguished and provided separately.
+
+Member States shall make available for the Commission the information of the expenditure effected and assigned revenue received on its request.
+
+2\. The paying agencies of the Member States which have not adopted the euro shall keep accounts covering the amounts expressed in the currency in which the expenditure was incurred and the revenue received. However, to enable all their expenditure and revenue to be consolidated, they must be able to provide the corresponding data in national currency and in euro.
+
+3\. As regards the EAFRD, each paying agency shall keep accounts enabling all the operations for each plan and each intervention to be identified. Such accounts shall include in particular:
+
+(a) the amount of public expenditure and the amount of the Union contribution paid for each operation;
+
+(b) the amounts to be recovered from beneficiaries for irregularities or negligence found;
+
+(c) the amounts recovered, with an indication of the original operation.
+
+### Section 2 — EAGF accounts
+
+#### Article 9 — Establishment of the declaration of expenditure
+
+1\. The amount of the payment to be granted to a beneficiary under the EAGF shall be determined by the Member States in the framework of the control systems as referred to in Title IV of Regulation (EU) 2021/2116.
+
+2\. The expenditure effected and to be declared to the EAGF shall take account of penalties applied in the framework of Member States’ control systems in case of non-compliances.
+
+3\. The amount resulting from the application of paragraph 2 shall serve for types of intervention in the form of direct payments referred to in Article 16 of Regulation (EU) 2021/2115 and the programmes for the outermost regions of the Union and the smaller Aegean islands as laid down in Regulation (EU) No 228/2013 and Regulation (EU) No 229/2013, respectively, as a basis for the reduction of payments referred to in Article 17 of Regulation (EU) 2021/2115 and for the application of financial discipline referred to in Article 17 of Regulation (EU) 2021/2116.
+
+4\. The amount resulting from the application of paragraph 2 and in the specific case of direct payments and the programmes referred to in paragraph 3, the amount resulting from the application of paragraphs 2 and 3 shall constitute the amount to be declared to the Commission.
+
+5\. The expenditure declared to the EAGF shall serve as a basis for the verification of the financial ceilings set by Union law.
+
+6\. The amount resulting from the application of paragraphs 2 and 3 shall serve as a basis for the calculation of administrative penalties in relation to conditionality as referred to in Title IV, Chapters IV and V, of Regulation (EU) 2021/2116.
+
+7\. By way of derogation from paragraph 3, Member States may pay advances for direct payments without applying the adjustment rate for financial discipline referred to in Article 17 of Regulation (EU) 2021/2116 to beneficiaries in respect of the aid applications for a given year. The balance payment to be granted to beneficiaries as from 1 December shall take into account the adjustment rate for financial discipline applicable at that time for the total amount of direct payments in the corresponding calendar year.
+
+#### Article 10 — Communication of information by Member States
+
+1\. In accordance with Article 90(1), point (c)(i) and (ii), of Regulation (EU) 2021/2116, Member States shall send to the Commission, electronically and by the seventh day of each month at the latest, the information and documents on expenditure and assigned revenue referred to in Articles 11 and 12 of this Regulation, and in particular the declaration of expenditure drawn up in accordance with paragraph 2 of this Article.
+
+However, the communication on expenditure effected and assigned revenue received between 1 and 15 October shall be sent by 25 October at the latest.
+
+All relevant information shall be provided on the basis of the model made available by the Commission to Member States through information systems.
+
+2\. The declaration of expenditure referred to in paragraph 1 shall consist of at least:
+
+(a) a statement, drawn up by each paying agency, broken down according to the nomenclature of the Union budget and by expenditure and assigned revenue, based on a detailed nomenclature made available within the information systems to the Member States covering:
+
+(i) the expenditure effected and assigned revenue received during the preceding month;
+
+(ii) total expenditure effected and assigned revenue received from the beginning of the financial year until the end of the preceding month;
+
+(iii) estimates of expenditure and assigned revenue covering separately the next three months and, as appropriate, the total of estimates of expenditure and assigned revenue to the end of the financial year.
+
+Where the estimates for the next three months, as referred to in the first subparagraph, point (iii), fall in the next financial year, only the total per month needs to be provided;
+
+(b) the accounts evidencing expenditure and revenue relating to public intervention.
+
+3\. All the financial information required under this Article shall be communicated in euro.
+
+4\. By way of derogation from paragraph 1, second subparagraph, and paragraph 2, point (a)(i), in respect of claim year 2026, advances paid prior to 16 October 2026 for interventions in the form of direct payments and for aid constituting direct payments under the measures referred to in Chapter IV of Regulation (EU) No 228/2013 and in Chapter IV of Regulation (EU) No 229/2013 shall count as having been made in the month of November and shall be communicated and declared by Member States in the declaration relating to that month.
+
+#### Article 11 — General rules on the declaration of expenditure and on assigned revenue
+
+1\. Without prejudice to the special provisions on declarations of expenditure and revenue relating to public storage referred to in Article 12, expenditure and assigned revenue declared by paying agencies in respect of a given month shall correspond to payments and receipts actually effected during that month.
+
+That expenditure and assigned revenue shall be entered in the accounts of the EAGF budget in respect of the corresponding financial year.
+
+However:
+
+(a) expenditure which may be paid prior to the implementation of the provision permitting it to be wholly or partially borne by the EAGF may be declared only:
+
+(i) in respect of the month during which the provision in question was implemented; or
+
+(ii) in respect of the month following implementation of that provision;
+
+(b) revenue assigned to the EAGF shall be declared in respect of the month during which the time limit for payment of the corresponding amounts, laid down in Union legislation, expires. Where corrections to assigned revenue lead, at paying agency level, to the declaration of negative revenue assigned for a budget line, surplus corrections shall be carried over to the following month.
+
+2\. Expenditure and assigned revenue shall be taken into consideration on the date on which the account of the paying agency was debited or credited. However, for payments, the date to be taken into consideration may be the date on which the agency concerned issued the payment document and sent it to a financial institution or to the beneficiary. Each paying agency shall use the same method throughout the financial year.
+
+3\. Payment orders which are not executed and payments debited to the account, then re-credited, shall be shown in the accounts as deductions from expenditure in respect of the month during which the failure to execute or the cancellation is reported to the paying agency.
+
+4\. Where payments due under the EAGF are encumbered by claims, they shall be deemed to have been effected in their entirety for the purpose of applying paragraph 1:
+
+(a) on the date of the payment of the sum due to the beneficiary, if the claim is less than the expenditure settled;
+
+(b) on the date of set-off, if the expenditure is less than or equal to the claim.
+
+5\. By way of derogation from paragraph 1, first subparagraph, in respect of claim year 2026, expenditure for advances effected by the paying agency prior to 16 October 2026 for interventions in the form of direct payments and for aid constituting direct payments under the measures referred to in Chapter IV of Regulation (EU) No 228/2013 and in Chapter IV of Regulation (EU) No 229/2013 shall, for the purposes of the monthly declaration, be deemed to have been effected during the month of November.
+
+#### Article 12 — Special rules on declarations of expenditure relating to public storage
+
+1\. The operations to be taken into consideration for drawing up declarations of expenditure relating to public storage shall be those entered at the end of a given month in the accounts of the paying agency, which have taken place from the beginning of the accounting year within the meaning of Article 3(3), first subparagraph, point (a) of Delegated Regulation (EU) 2022/127 up to the end of that month.
+
+2\. Such declarations of expenditure shall comprise the values and amounts determined in accordance with Articles 17and 18 of this Regulation and Article 4 of Commission Delegated Regulation (EU) No 906/2014 ( 2 ) entered in the accounts by paying agencies during the month following that to which the operations relate.
+
+However:
+
+(a) in the case of operations carried out in the course of September, the values and amounts shall be entered in the accounts by paying agencies by 15 October at the latest;
+
+(b) in the case of the overall depreciation amounts referred to in Article 3(1), point (e), of Delegated Regulation (EU) No 906/2014, the amounts shall be entered in the accounts on the date laid down in the decision providing for them.
+
+#### Article 13 — Payment decision by the Commission
+
+1\. On the basis of the data sent in accordance with Article 10(1) of this Regulation, the Commission shall decide to make the monthly payments pursuant to Article 21(3) of Regulation (EU) 2021/2116, without prejudice to the corrections which may be made by means of subsequent decisions in accordance with Articles 53 and 55 of that Regulation, and taking into account the reductions and suspensions decided in accordance with Articles 39 to 42 of that Regulation.
+
+2\. If the total expenditure declared by Member States for the following financial year exceeds three quarters of the EAGF total appropriations for the current financial year, the advance commitments referred to in Article 11(2), point (b), of Regulation (EU, Euratom) 2018/1046 and the corresponding monthly payments shall be granted in proportion to the declarations of expenditure, up to a maximum of 75 % of the appropriations for the current financial year. The Commission shall take the balance of amounts not reimbursed to Member States into account in decisions on subsequent reimbursements.
+
+#### Article 14 — Making resources available to Member States
+
+By deciding to make the monthly payments, the Commission shall place at the disposal of the Member States, within the framework of the budget appropriations, the resources needed to cover expenditure to be financed by the EAGF, less the corresponding amount of assigned revenue, in the account opened by each Member State.
+
+When the amount established by the Commission for the application of Article 13(1) is negative for a Member State in total or for a given budget line, the effective offsetting may be deferred to the following months.
+
+#### Article 15 — Communication under public intervention
+
+1\. Paying agencies shall transmit to the Commission:
+
+(a) at the Commission’s request, the documents and information referred to in Article 3(7) of Delegated Regulation (EU) 2022/127 and the additional national administrative provisions adopted for the application and management of intervention measures;
+
+(b) by the day provided for in Article 10(1), of this Regulation, the information on public storage, on the basis of the models made available by the Commission to Member States through information systems.
+
+2\. The relevant information systems referred to in Article 25 shall be used to perform the notifications and information exchanges and to draw up the documents relating to public intervention expenditure.
+
+#### Article 16 — Content of the public storage accounts to be kept by paying agencies
+
+1\. The stock accounts provided for in Article 3(3), first subparagraph, point (a), of Delegated Regulation (EU) 2022/127 shall contain the following categories of elements, shown separately:
+
+(a) the quantities of products recorded on entry into and removal from storage, with or without physical movement;
+
+(b) the quantities used for free distribution to the most deprived persons under the Fund for European Aid to the Most Deprived, and accounted for under Article 4(3) of Delegated Regulation (EU) No 906/2014, distinguishing those which are the subject of a transfer to another Member State;
+
+(c) quantities taken as samples, distinguishing samples taken by purchasers;
+
+(d) the quantities which, after checking by visual examination in the context of the annual stock-taking or during the inspection after taking into intervention, may no longer be repackaged and are the subject of direct sales;
+
+(e) quantities missing, for identifiable or unidentifiable reasons, including those corresponding to the legal tolerance limits;
+
+(f) quantities which have deteriorated;
+
+(g) surplus quantities;
+
+(h) missing quantities exceeding the tolerance limits;
+
+(i) quantities which have entered into storage and been found not to meet the requirements and for which taking-over has therefore been refused;
+
+(j) net quantities in storage at the end of each month or accounting year, which are carried forward to the next month or accounting year.
+
+2\. The financial accounts provided for in Article 3(3), first subparagraph, point (a), of Delegated Regulation (EU) 2022/127 shall contain:
+
+(a) the value of the quantities referred to in paragraph 1, point (a), of this Article, showing separately the value of the quantities bought in and of the quantities sold;
+
+(b) the book value of the quantities used or taken into account under the free distribution arrangements referred to in paragraph 1, point (b), of this Article;
+
+(c) the financing costs referred to in Article 3(1), point (a), of Delegated Regulation (EU) No 906/2014;
+
+(d) expenditure on physical operations as referred to in Article 3(1), points (b) and (c), of Delegated Regulation (EU) No 906/2014;
+
+(e) amounts resulting from depreciation as referred to in Article 3(1), point (e), of Delegated Regulation (EU) No 906/2014;
+
+(f) the amounts collected or recovered from sellers, purchasers and storers, other than those referred to in Article 21 of this Regulation;
+
+(g) the amount from direct sales carried out after the annual stock-taking or following checks after products are taken into intervention storage;
+
+(h) losses and gains on removals of products, taking account of depreciation as referred to in point (e) of this paragraph;
+
+(i) other debits and credits, in particular those corresponding to the quantities referred to in paragraph 1, points (c) to (g), of this Article;
+
+(j) the average book value, expressed per tonne.
+
+#### Article 17 — Accounting related to public intervention
+
+1\. The elements referred to in Article 16 shall be booked for the quantities, values, amounts and averages actually recorded by paying agencies or for the values and amounts calculated on the basis of the standard amounts established by the Commission.
+
+2\. The records and calculations referred to in paragraph 1 shall be made subject to the application of the following rules:
+
+(a) the removal costs relating to quantities for which quantitative losses or deterioration have been recorded, in accordance with the rules laid down in Annexes VI and VII to Delegated Regulation (EU) No 906/2014, shall be entered in the accounts only for the quantities actually sold and removed from storage;
+
+(b) quantities recorded as missing on transfer between Member States shall not be deemed to have entered storage in the Member State of destination and shall not be covered by standard entry costs;
+
+(c) the standard entry and removal costs fixed for transport and transfer shall be entered in the accounts if those costs are not considered, under the Union rules, to be an integral part of the transport costs;
+
+(d) unless specific Union rules provide otherwise, amounts accruing from sales of products which have deteriorated and any other amounts received in this context shall not be entered in the EAGF account records;
+
+(e) any surplus quantities recorded shall be entered in the accounts as a negative amount, in the missing quantities in the stock situation and movements. Those quantities shall be included when determining the quantities exceeding the tolerance limit;
+
+(f) samples other than those taken by purchasers shall be entered in the accounts in accordance with point 2(a) of Annex VII to Delegated Regulation (EU) No 906/2014.
+
+3\. Corrections made by the Commission, as regards the elements referred to in Article 16 for the current accounting year, shall be notified to the Committee on the Agricultural Funds. They may be notified to the Member States on the occasion of a monthly payment decision or, failing that, at the time of the decision on the clearance of accounts. They shall be entered in the accounts by paying agencies under the terms of that decision.
+
+#### Article 18 — Dates for entering expenditure and revenue and product movements in the accounts for public intervention
+
+1\. The various items of expenditure and revenue shall be entered in the accounts on the date on which the physical operation under the public intervention measure takes place and by using the exchange rate as referred to in Article 3(2) of Delegated Regulation (EU) No 906/2014.
+
+However, the following dates shall apply in the cases set out below:
+
+(a) the date of receipt, in the case of amounts received or recovered, as referred to in Article 16(2), points (f) and (g), of this Regulation;
+
+(b) the date of actual payment of costs relating to physical operations, where such costs are not covered by standard amounts.
+
+2\. The various elements relating to the physical movement of products and the management of stocks shall be entered in the accounts on the date on which the physical operation under the intervention measure takes place.
+
+However, the following dates shall apply in the cases set out below:
+
+(a) the date of taking-over of products by the paying agency, in accordance with Article 22(2) of Commission Implementing Regulation (EU) 2016/1240 ( 3 ), for quantities entering public storage without any change in the place of storage;
+
+(b) regarding missing or deteriorated and surplus quantities, the date of the finding as to the facts in the case of missing or deteriorated and surplus quantities;
+
+(c) the date of actual removal from storage, in the case of direct sales of products remaining in storage which can no longer be repackaged after visual examination in the context of the annual stock-taking or during the inspection after taking into intervention;
+
+(d) the last day of the accounting year, for any losses exceeding the tolerance limit referred to in Article 4(2) of Delegated Regulation (EU) 2022/127.
+
+#### Article 19 — Amount financed under public intervention
+
+1\. The amount to be financed under the intervention measures referred to in Article 2 of Delegated Regulation (EU) No 906/2014 shall be determined on the basis of the accounts drawn up and kept by paying agencies in accordance with Article 3(3), first subparagraph, point (a) of Delegated Regulation (EU) 2022/127, and to which the various items of expenditure and revenue referred to in Article 16 of this Regulation are debited and credited, respectively, taking account where necessary of amounts of expenditure fixed under the sectoral agricultural legislation.
+
+2\. Paying agencies or coordinating bodies as appropriate shall transmit to the Commission, each month and each year, by electronic means, on the basis of the models made available by the Commission to Member States through information systems, the information needed for the financing of public storage expenditure and the accounts evidencing expenditure and revenue relating to public storage in the form of tables, by the day provided for in Article 10(1) and by the date provided for in Article 33(2).
+
+#### Article 20 — Declarations of public intervention expenditure and revenue
+
+1\. Financing by the EAGF under the intervention measures referred to in Article 2 of Delegated Regulation (EU) No 906/2014 shall be equal to the expenditure, calculated on the basis of the information notified by the paying agency, after deduction of any revenue accruing from the intervention measures, validated by the information system set up by the Commission and included by the paying agency in its declaration of expenditure drawn up in accordance with Article 12 of this Regulation.
+
+2\. Sums recovered in accordance with Article 53 of Regulation (EU) 2021/2116 and amounts received or recovered from sellers, purchasers and storers, which meet the criteria laid down in Article 45 of that Regulation shall be declared to the EAGF budget in accordance with Article 10(2), point (a), of this Regulation.
+
+### Section 3 — EAFRD accounts
+
+#### Article 21 — Forecast of funding requirements
+
+For each CAP Strategic Plan as referred to in Article 118 of Regulation (EU) 2021/2115, and in accordance with Article 90(1), first subparagraph, point (c)(ii), of Regulation (EU) 2021/2116, Member States shall send to the Commission, twice per year, by 31 January and 31 August at the latest, their forecasts of the amounts to be funded by the EAFRD for the financial year. In addition, Member States shall send an updated estimate of their funding requests for the following financial year.
+
+Those forecasts and that updated estimate shall be sent on the basis of the model made available by the Commission to Member States through information systems.
+
+#### Article 22 — Declarations of expenditure
+
+1\. Paying agencies shall declare expenditure and recovered amount for each rural development type of intervention and technical assistance under the CAP Strategic Plan as referred to in Article 118 of Regulation (EU) 2021/2115 for each of the reference periods, referred to in paragraph 2 of this Article, on the basis of the model made available by the Commission to Member States through information systems.
+
+For each CAP Strategic Plan, paying agencies shall specify in a declaration of expenditure at least the following:
+
+(a) the amount of eligible public expenditure, excluding additional national financing as referred to in Article 115(5) of Regulation (EU) 2021/2115, for which the paying agency has actually paid the corresponding EAFRD contribution during each of the reference periods referred to in paragraph 2 of this Article;
+
+(b) the information on financial instruments as referred to in Article 32(4) and (5) of Regulation (EU) 2021/2116;
+
+(c) the additional information on advances paid to beneficiaries as referred to in Article 44(3) of Regulation (EU) 2021/2116;
+
+(d) the amount recovered during the current period as referred to in paragraph 2 of this Article, in respect of the CAP Strategic Plan;
+
+(e) the amount recovered during the current period as referred to in paragraph 2 of this Article in respect of the EAFRD rural development programmes from 2007 onwards, for which Member States is no more obliged to send interim declaration of expenditure;
+
+(f) the amounts related to technical assistance.
+
+The expenditure effected and to be declared to the EAFRD shall take account of penalties applied in the framework of Member States’ management and control system in case of non-compliance.
+
+2\. Once the Commission has approved a CAP Strategic Plan, Member States shall send to the Commission, in accordance with Article 90(1), first subparagraph, point (c)(i), of Regulation (EU) 2021/2116, their declarations of expenditure by the following deadlines:
+
+(a) by 30 April at the latest in the case of expenditure in the period 1 January to 31 March;
+
+(b) by 31 July at the latest in the case of expenditure in the period 1 April to 30 June;
+
+(c) by 10 November at the latest in the case of expenditure in the period 1 July to 15 October;
+
+(d) by 31 January at the latest in the case of expenditure in the period 16 October to 31 December.
+
+If in a Member State the CAP Strategic Plan is implemented by more than one paying agency, the coordinating body shall ensure that the declarations of expenditure are transmitted on the same day.
+
+However, all expenditure paid by paying agencies to the beneficiaries in accordance with Article 86 of Regulation (EU) 2021/2115 until the end of the last period, as specified in the first subparagraph of this paragraph, prior to the approval of a CAP Strategic Plan as referred to in Article 118 of that Regulation, is made under the Member States’ responsibility and shall be declared to the Commission in the first declaration of expenditure following the approval of that plan. Recovered amounts for the corresponding period, as referred to in paragraph 1, second subparagraph, points (d) and (e), of this Article shall also be declared in that declaration. The same rule shall apply mutatis mutandis in case of amendment of a CAP Strategic Plan as referred to in Article 119 of Regulation (EU) 2021/2115, except for financing plan adjustments as referred to in Article 23 of this Regulation.
+
+As regards financial instruments set up in accordance with Article 58 of Regulation (EU) 2021/1060 and Article 80 of Regulation (EU) 2021/2115, the expenditure shall be declared in the financial year when the conditions as referred to in Article 32(3) and (4) of Regulation (EU) 2021/2116 are met and it had been effected by the paying agency before the end of the financial year.
+
+All the financial information required under this Article shall be communicated in euro.
+
+#### Article 23 — Calculation of the amount to be paid
+
+1\. The Union contribution to be paid in respect of the eligible public expenditure, excluding additional national financing as referred to in Article 115(5) of Regulation (EU) 2021/2115, shall be mentioned in the financing plan in force on the first day of the reference period and calculated as regards the CAP Strategic Plans referred to in Article 118 of that Regulation as follows:
+
+(a) for each reference period referred to in Article 22(2) of this Regulation on the basis of the EAFRD contribution rate as provided for in Article 91 of Regulation (EU) 2021/2115 and approved by the Commission in accordance with Article 118 of that Regulation;
+
+(b) for certain eligible types of expenditure, referred to in Article 155 of Regulation (EU) 2021/2115 in the period 2023–2027, on the basis of the contribution rate of the intervention set in the CAP Strategic Plan, subject to the conditions in that Article;
+
+(c) technical assistance on the basis of a flat rate, as referred to in Article 94(2) of Regulation (EU) 2021/2115.
+
+The calculation shall take account of the corrections to the Union contribution as declared in the declaration of expenditure for that period.
+
+2\. Without prejudice to the ceiling provided for in Article 30(2) of Regulation (EU) 2021/2116, where the combined total of the Union contribution paid to the CAP Strategic Plan exceeds the contribution to a type of intervention, as regards the EAFRD, the amount to be paid shall be reduced to the amount programmed for that type of intervention. Any Union contribution excluded as a result may be paid later provided that an adjusted financing plan has been submitted by the Member State and approved by the Commission.
+
+#### Article 24 — Automatic decommitment
+
+In case a Member State does not submit a revised financing plan, as provided for in Article 34(6) of Regulation (EU) 2021/2116, and the related amendment of the CAP Strategic Plan by 30 June, the Commission shall reduce the amounts allocated to each type of intervention pro rata, by amending the decision approving the Member State’s CAP Strategic Plan no later than 30 September.
+
+### Section 4 — Common provisions for the Funds
+
+#### Article 25 — Electronic exchange of information and documents
+
+1\. The Commission shall define the information systems enabling electronic exchanges of documents and information between it and the Member States for the communications and consultation of information provided for in Article 90 of Regulation (EU) 2021/2116 and the necessary arrangements for their application. It shall inform the Member States of the general conditions for implementing those systems via the Committee on the Agricultural Funds.
+
+2\. The information systems referred to in paragraph 1 shall be able to process in particular:
+
+(a) the data required for financial transactions, in particular those relating to the annual accounts of paying agencies, declarations of expenditure and assigned revenue and the transmission of information and documents referred to in Article 3 of Delegated Regulation (EU) 2022/127 and Articles 8, 10, 11, 12, 14, 18, 19, 21, 22, 23 and 32 of this Regulation;
+
+(b) documents of common interest enabling the monthly and interim declarations of expenditure and annual accounts to be monitored and the information and documents which paying agencies must make available to the Commission to be consulted;
+
+(c) the Union texts and Commission guidelines on the financing of the Common Agricultural Policy by authorities accredited and designated under Regulation (EU) 2021/2116, and the guidelines on the harmonised application of the relevant legislation.
+
+3\. The form and content of the documents referred to in Articles 10, 18, 19, 21, 22, 23 and 32 shall be made available by the Commission to Member States by way of models through information systems.
+
+Those models shall be adapted and updated by the Commission, after having informed the Committee on the Agricultural Funds.
+
+4\. The information systems referred to in paragraph 1 may contain the tools required for storing the data and for managing the accounts of the Funds by the Commission.
+
+5\. Data on financial transactions shall be communicated, entered and updated in the information systems referred to in paragraph 1 under the responsibility of paying agencies, by paying agencies themselves or by bodies to which that function has been delegated, where applicable via the coordinating bodies accredited in accordance with Article 9(4) and Article 10 of Regulation (EU) 2021/2116.
+
+6\. Where a document sent pursuant to Article 90(1), point (c),(i) and (iii), of Regulation (EU) 2021/2116 or a procedure in the information systems require the signature or the approval of an authorised person at one or more of the stages of that procedure, that compulsory electronic signature or approval shall be done in compliance with Regulation (EU) No 910/2014.
+
+7\. The electronic and digitised documents shall be kept for the whole of the period provided for in Article 3(3), first subparagraph, point (a), of Delegated Regulation (EU) 2022/127.
+
+8\. Where there is a malfunction in an information system or no stable connection, the Member State may, with the prior approval of the Commission, send the documents in another form, under the conditions laid down by the Commission.
+
+#### Article 26 — Requirements for the reimbursement of expenditure for the Funds
+
+1\. Declarations of expenditure for the Funds shall be entered in the form of structured data by accredited paying agencies or the accredited coordinating body on the basis of the model made available by the Commission to Member States through information systems.
+
+2\. EAGF and EAFRD expenditure and EAGF assigned revenue declared in respect of a period may contain corrections to data declared in respect of the preceding declaration periods of the same financial year.
+
+3\. EAGF and EAFRD expenditure and assigned revenue to be charged to the financial year not introduced respectively in the monthly and interim declarations may be corrected only in the annual accounts to be sent to the Commission in accordance with Article 90(1), first subparagraph, point (c)(iii), of Regulation (EU) 2021/2116.
+
+4\. The Union contribution shall be paid by the Commission, subject to resource availability, into the account(s) opened by each Member State.
+
+5\. Each Member State shall notify the Commission of the name or number of the account(s) in accordance with the format made available to it by the Commission.
+
+#### Article 27 — Suspension of payments
+
+The implementing acts determining the monthly payments referred to in Article 21(3) of Regulation (EU) 2021/2116 or the interim payments referred to in Article 32 of that Regulation shall take account of the suspension of payments decided in accordance with Articles 40(1) and (2), 41(2) and 42(2) of that Regulation.
+
+#### Article 28 — Action plans in relation to the multi-annual performance monitoring
+
+1\. Following the assessment of the justification submitted by the Member State in the context of the performance review referred to in Article 135 of Regulation (EU) 2021/2115, the Commission may ask the Member State concerned to submit an action plan as referred to in Article 41 of Regulation (EU) 2021/2116. The Member State shall submit an action plan within 2 months after receiving the Commission request. In that action plan the Member State shall propose concrete remedial actions to address the shortcomings and identify the interventions, which affect the performance of the CAP Strategic Plan, in particular as regards deviations from milestones set to achieve the specific objectives laid down in Article 6(1) of Regulation (EU) 2021/2115. The remedial actions shall be described in sufficient detail to enable the Commission assessing whether the action plan is appropriate to remedy these shortcomings, including, where relevant, the actions to improve the performance of the concerned interventions.
+
+2\. For each of the remedial actions the Member State shall set the planned implementation deadline, which shall not be later than 2 years from the time the action plan is accepted by the Commission. The Member State shall also set up progress indicators towards that deadline, which shall be at least every 3 months throughout the duration of the action plan.
+
+3\. Within a period of 2 months after receipt of the action plan from the Member State concerned, the Commission shall, where appropriate, inform that Member State in writing of its objections to the submitted action plan and request its modification. The Member State concerned shall provide further clarifications or submit an updated action plan within 2 months after receiving the Commission comments.
+
+4\. Following the period referred to in paragraph 3, the Commission shall inform the Member State in writing within a period of 2 months, whether it considers that the action plan is sufficient to address the shortcomings affecting the performance of the CAP Strategic Plan. In case of a positive assessment, the receipt of that assessment by the Member State shall be considered as the date of launching the implementation of the action plan. The launching date is without prejudice to the possibility for the Member State concerned to start implementing remedial actions earlier. In case of a negative assessment, the Commission shall inform the Member State concerned of its intention concerning the suspension of payments, referred to in Article 41(2) of Regulation (EU) 2021/2116.
+
+5\. Member States shall prepare the action plans using the templates available in the electronic system for the secure exchange of information called ‘SFC 2021’ provided for in Article 3 of Commission Implementing Regulation (EU) 2021/2289 ( 4 ) and report on the progress in their implementation within the deadline for the provision of the annual performance report, laid down in Article 9(3) of Regulation (EU) 2021/2116. The action plans shall be submitted by means of the ‘SFC2021’.
+
+#### Article 29 — Action plans in relation to deficiencies in the governance systems
+
+1\. Member State shall submit the action plan referred to in Article 42 of Regulation (EU) 2021/2116 within 2 months after receiving the Commission request. In its action plan, the Member State concerned shall propose concrete actions to address each of the serious deficiencies indicated by the Commission. The corrective actions shall be adequately described so as to enable the Commission to assess whether the action plan is sufficient to remedy the deficiencies.
+
+2\. For each of the actions Member State shall set the planned implementation deadline which shall not be later than 2 years from the date of the launching of the action plan. In order to enable the review of progress indicators, Member State shall also set milestones towards that deadline which shall be at least every 3 months throughout the duration of the action plan.
+
+3\. Within 2 months after receipt of the action plan from the Member State concerned, the Commission shall, where appropriate, inform that Member State in writing of its objections to the submitted action plan and request its modification. The Member State concerned shall provide further clarifications or submit an updated action plan within 2 months after receiving the Commission comments. In duly justified cases, this period may be extended.
+
+4\. Following the exchanges referred to in paragraph 3, and not later than 2 months after receiving the latest communication from the Member State, the Commission shall inform the Member State in writing of its assessment. In case of a positive assessment, the receipt of that assessment by the Member State shall be considered as the date of launching the implementation of the action plan. The launching date is without prejudice to the possibility for the Member State concerned to start implementing remedial actions earlier. In case of a negative assessment due to a manifestly insufficient action plan, the Commission shall inform the Member State concerned of its intention concerning the suspension of payments, referred to in Article 42(2) of Regulation (EU) 2021/2116.
+
+5\. Where there is insufficient progress in the implementation of the action plan or it has not been submitted in accordance with the written request of the Commission, the Commission shall inform the Member State concerned of its intention concerning the suspension of payments, referred to in Article 42(2) of Regulation (EU) 2021/2116.
+
+6\. For recurrent serious deficiencies revealed in the quality assessment reports referred to in Articles 68(3), 69(6) and 70(2) of Regulation (EU) 2021/2116, the Commission shall request an action plan in accordance with Article 42 (1) of that Regulation, if the same deficiencies are detected without any improvement in the second consecutive year.
+
+7\. Member States shall prepare the action plans and report on the progress in their implementation in accordance with the respective template provided by the Commission. The template shall be available and used in electronic form.
+
+## CHAPTER III — Clearance of accounts
+
+### Section 1 — Recovery of debts
+
+#### Article 30 — Recovery of undue payments
+
+1\. For any undue payment following the occurrence of irregularity or negligence, Member States shall set up a system ensuring a recovery request from the beneficiaries within a reasonable time frame after where applicable, the paying agency or body responsible for the recovery received a control report or similar document, stating that an irregularity has taken place. The system shall ensure that the corresponding amounts are recorded at the time of the recovery request in the debtors' ledger of the paying agency.
+
+2\. The Member States shall have a system in place to ensure that the recovery procedures, including calculation of interest in accordance with the applicable national laws, regulations and administrative provisions referred to in Article 59(1) of Regulation (EU) 2021/2116, off-setting and enforcement of unduly paid amounts, are launched and followed up in a timely manner. The follow up of a debt according to the applicable national recovery procedure shall be ensured and the recovered amounts shall be reimbursed to the Funds in due time.
+
+3\. The correction of a debt towards the Funds shall only take place if the absence of any irregularity is recorded by an administrative or legal instrument of a final nature.
+
+4\. The Member States shall properly justify the write-off of a debt and the decision not to pursue the recovery of a debt in accordance with the applicable national rules.
+
+#### Article 31 — Recovery by offsetting
+
+Without prejudice to any other enforcement action provided for by national law, Member States shall offset any undue amount arising from a pending irregularity of a beneficiary established in accordance with national law against any future payments in favour of that beneficiary, to be made by the paying agency responsible for the recovery of the debt.
+
+### Section 2 — Clearance
+
+#### Article 32 — Content of the annual accounts
+
+1\. The annual accounts referred to in Article 90(1), first subparagraph, point (c)(iii), of Regulation (EU) 2021/2116 shall include:
+
+(a) the assigned revenue referred to in Article 45 of that Regulation;
+
+(b) the expenditure of the EAGF after deduction of any undue payments not recovered at the end of the financial year other than those referred to in point (f) of this paragraph, including any interests thereon, summarised by item and sub-item of the Union budget;
+
+(c) the expenditure of the EAFRD, by programme, measure or type of intervention as applicable and specific contribution rate. The annual statement of expenditure shall also include information on the amounts recovered. Once a programme or CAP Strategic Plan is closed, any undue payments not recovered other than those referred to in point (f) of this paragraph, including any interests thereon, shall be deducted from the expenditure of the financial year in question;
+
+(d) a table of differences by item and sub-item or, in the case of the EAFRD by programme, measure or by type of intervention as applicable and by specific contribution rate and focus area where applicable, between the expenditure and the assigned revenue declared in the annual accounts and that declared for the same period in the documents referred to in Article 10(2) of this Regulation, as far as the EAGF is concerned, and Article 22(2) of this Regulation, as far as the EAFRD is concerned, accompanied by an explanation for every difference;
+
+(e) separately, the amounts to be borne by, respectively, the Member State concerned and the Union in accordance with Article 54(2), first subparagraph, and (3) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 5 ) in relation to:
+
+(i) expenditure incurred and payments made for support schemes under Regulation (EU) No 1307/2013 of the European Parliament and of the Council ( 6 ) in respect of calendar year 2022 and before;
+
+(ii) measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014 until 31 December 2022;
+
+(iii) aid for operational programmes of recognised producer organisations or their associations in the fruit and vegetables sector and support programmes in the wine sector as referred to in Article 5(6) and (7), respectively, of Regulation (EU) 2021/2117 of the European Parliament and of the Council ( 7 ) in relation to expenditure incurred and payments made for operations implemented pursuant to Regulation (EU) No 1308/2013 after 31 December 2022 until the end of the operational programmes or the support programmes in accordance with Article 5(6)(c) and (7), respectively, of Regulation (EU) 2021/2117;
+
+(iv) revenue declared in the framework of the implementation of rural development programmes approved by the Commission pursuant to Regulation (EU) No 1305/2013, Council Regulation (EC) No 1698/2005 ( 8 ) and Commission Regulation (EC) No 27/2004 ( 9 );
+
+(f) an extract of the undue payments yet to be recovered at the end of the financial year as a consequence of irregularities within the meaning of Article 1(2) of Council Regulation (EC, Euratom) No 2988/95 ( 10 ), including any penalties provided for by the applicable sectoral Union rules and the interest thereon, to be presented in a table in accordance with the model set out in Annex V to this Regulation. For expenditure referred to point (e) of this paragraph, an extract of the undue payments shall be presented in a table in accordance with the model set out in Annex II to Implementing Regulation (EU) No 908/2014;
+
+(g) an extract from the debtors ledger of the amounts to be recovered and credited to either the EAGF or the EAFRD other than those referred to in point (b), (c), (e) and (f) of this paragraph, including any penalties and interest thereon, to be presented in a table in accordance with the model set out in Annex III to Implementing Regulation (EU) No 908/2014 in respect of expenditure referred to in point (e) of this paragraph;
+
+(h) a summary of intervention operations and a statement of the quantity and location of stocks at the end of the financial year;
+
+(i) confirmation that expenditure, assigned revenue and the details of each movement of intervention storage is held on the paying agency’s files and accounting records;
+
+(j) the closing balance at the end of the financial year of unused/un-cleared cumulated advances paid by Member States to beneficiaries, detailed for the EAGF by intervention and for the EAFRD by programme, or by type of intervention as applicable and for the latter, including the financial instruments. For the financial instruments, the closing balance concerns amounts paid as advances by the Commission in accordance with Article 32(4) point (a), of Regulation (EU) 2021/2116 that have neither been used by Member States for payments to or for the benefit of final recipients, nor have been committed for guarantee contracts or paid as management fees and costs in accordance with Article 80(5) of Regulation (EU) 2021/2115.
+
+2\. The annual accounts shall be the basis for the Annual Performance Report to be submitted pursuant to Article 134 of Regulation (EU) 2021/2115.
+
+#### Article 33 — Transmission of information
+
+1\. For the purpose of the clearance of accounts pursuant to Article 53 of Regulation (EU) 2021/2116, each Member State shall send to the Commission:
+
+(a) the items included in the annual accounts, as referred to in Article 32 of this Regulation;
+
+(b) the annual performance report referred to in Article 134 of Regulation (EU) 2021/2115;
+
+(c) the opinion and reports established by the certification body or bodies, as referred to in Article 5(3) and (4) of this Regulation;
+
+(d) the management declarations referred to in Article 4  of this Regulation;
+
+(e) an annual summary of the final audit reports and of controls carried out, including an analysis of the nature and extent of errors and weaknesses identified in systems, as well as corrective action taken or planned, as provided for in Article 63(5), point (b), of Regulation (EU, Euratom) 2018/1046 and Article 9(3), first subparagraph, point (c), of Regulation (EU) 2021/2116, submitted with the Paying Agency management declaration referred to in Article 3 of this Regulation.
+
+Upon request by the Commission, the Member State shall provide the complete records of all the accounting information required for statistical and control purposes, related to expenditure as regards the measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014.The form and content of the accounting information shall be specified by the Commission.
+
+2\. The documents referred to in paragraph 1 shall be sent to the Commission by 15 February at the latest, of the year following the end of the financial year to which they relate. The documents shall be submitted electronically in accordance with the format and under the conditions established by the Commission pursuant to Article 25.
+
+Those documents shall bear a compulsory electronic signature within the meaning of Regulation (EU) No 910/2014.
+
+3\. At the request of the Commission or on the initiative of a Member State, further information concerning the clearance of accounts may be addressed to the Commission within a time period determined by the Commission, taking into account the amount of work required for providing that information. In the absence of such information, the Commission may clear the accounts on the basis of the information in its possession.
+
+4\. In duly justified cases, the Commission may accept a request for late submission of information, if that request is addressed to it before the submission deadline.
+
+#### Article 34 — Conservation of accounting information
+
+1\. The supporting documents regarding the expenditure financed and the assigned revenues to be collected by the EAGF shall be kept at the Commission’s disposal for at least 3 years  following the year in which the Commission clears the accounts of the financial year concerned pursuant to Article 53 of Regulation (EU) 2021/2116.
+
+2\. The supporting documents regarding the expenditure financed and the assigned revenues to be collected by the EAFRD shall be kept at the Commission’s disposal for at least 3 years following the year in which the final payment by the paying agency has taken place.
+
+3\. In the case of irregularities or negligence, the supporting documents referred to in paragraphs 1 and 2 shall be kept at the Commission’s disposal for at least 3 years following the year in which the sums are entirely recovered from the beneficiary and credited to the Funds.
+
+4\. The supporting documents regarding the outputs corresponding to the expenditure declared under the EAGF pursuant to Regulation (EU) 2021/2115 and under the EAFRD shall be kept at the Commission’s disposal for at least 3 years following the year in which the final expenditure under the CAP Strategic Plans pursuant to Regulation (EU) 2021/2115 is declared.
+
+5\. In the case of a conformity procedure provided for in Article 55 of Regulation (EU) 2021/2116, the supporting documents referred to in paragraphs 1 and 2 of this Article shall be kept at the Commission’s disposal for at least 1 year following the year in which that procedure has been concluded or, if a conformity decision is the subject of legal proceedings before the Court of Justice of the European Union, for at least 1 year following the year in which those proceedings are concluded.
+
+6\. The supporting documents referred to in paragraphs 1 to 5 shall be kept at the Commission’s disposal either in paper form, in electronic form and/or in both forms.
+
+Documents may only be kept exclusively in electronic form if the national law of the Member State concerned permits the use of electronic documents as evidence of the underlying transactions in national court proceedings.
+
+If the documents are kept in electronic form only, the system for doing so shall comply with Section 3.(B) of Annex I to Delegated Regulation (EU) 2022/127.
+
+#### Article 35 — Financial clearance
+
+1\. The Commission’s decision on the clearance of accounts referred to in Article 53 of Regulation (EU) 2021/2116 shall determine the amounts of expenditure effected in each Member State during the financial year concerned which shall be recognised as being chargeable to the Funds on the basis of the accounts referred to in Article 32 of this Regulation and any reductions and suspensions pursuant to Articles 39, 40 and 41 of Regulation (EU) 2021/2116.
+
+For the EAFRD, the amount determined by the clearance of accounts decision shall include the funds which are re-usable by reallocation by the Member State concerned pursuant to Article 57 of Regulation (EU) 2021/2116.
+
+2\. As regards the EAGF, the amount which, as a result of the clearance of accounts decision, is recoverable from or payable to each Member State shall be established by deducting the monthly payments in respect of the financial year concerned from the expenditure recognised for the same year in accordance with paragraph 1. The Commission shall deduct that amount from or add it to the monthly payment relating to the expenditure effected in the second month following the clearance of accounts decision.
+
+As regards the EAFRD, the amount which, as a result of the clearance of accounts decision, is recoverable from or payable to each Member State shall be established by deducting the intermediate payments in respect of the financial year concerned from the expenditure recognised for the same year in accordance with paragraph 1.
+
+The Commission shall deduct that amount from or add it to the first payment for which the declaration of expenditure is submitted by the Member State after the decision pursuant to Article 53 of Regulation (EU) 2021/2116 has been adopted.
+
+3\. The Commission shall communicate to the Member State concerned the results of its verification of the information supplied, together with any amendments it proposes, by 30 April following the end of the financial year at the latest.
+
+4\. If, for reasons attributable to the Member State concerned, the Commission is unable to clear the accounts of a Member State before 31 May of the following year, the Commission shall notify that Member State of the additional inquiries it proposes to undertake pursuant to Article 49 of Regulation (EU) 2021/2116.
+
+5\. Paragraphs 1 to 4 shall apply, mutatis mutandis, to the assigned revenue referred to Article 45 of Regulation (EU) 2021/2116.
+
+#### Article 37 — Conformity procedure
+
+1\. In order to determine what amounts are to be excluded from Union financing, when finding that expenditure has not been effected in conformity with Union rules, the Commission shall use its own findings and shall take into account the information made available by Member States, provided that the latter information is provided within the time limits set by the Commission in the framework of the conformity procedure carried out in accordance with Article 55 of Regulation (EU) 2021/2116 and in conformity with this Article. For interventions under the integrated administration and control system, referred to in Article 65 of that Regulation, the Commission shall also take into account the assessment reports on the quality of the identification system for agricultural parcels, of the geo-spatial application and of the area monitoring system.
+
+2\. When, as a result of any inquiry, the Commission considers that expenditure was not effected in compliance with Union rules, it shall communicate its findings to the Member State concerned, specifying the corrective measures needed to ensure future compliance with those rules, and indicating the provisional level of financial correction which at that stage of the procedure it considers corresponds to its findings. That communication shall also schedule a bilateral meeting within 5 months after expiry of the period for reply by the Member State. The communication shall make reference to this Article.
+
+The Member State shall reply within 2 months of receipt of the communication. In its reply the Member State shall have the opportunity, in particular, to:
+
+(a) demonstrate to the Commission that the actual extent of the non-compliance or the risk for the Funds is less than what was indicated by the Commission;
+
+(b) inform the Commission of the corrective measures it has undertaken to ensure compliance with Union rules and the effective date of their implementation.
+
+In justified cases, the Commission may, upon reasoned request of the Member State, authorise an extension of the 2-month period by a maximum of 2 months. The justified reason may be the certification body’s assessment of the Member State’s calculation. The request shall be addressed to the Commission before the expiry of that period.
+
+If the Member State considers that a bilateral meeting is not required, it shall inform the Commission accordingly in its reply to the communication.
+
+3\. In the bilateral meeting both parties shall endeavour to come to an agreement as to the measures to be taken as well as to the evaluation of the gravity of the infringement and of the financial damage caused to the Union budget.
+
+The Commission shall within 30 working days of the bilateral meeting draw up the minutes and send them to the Member State. The Member State may send its observations to the Commission within 15 working days after receipt of the minutes.
+
+The Commission shall within 6 months after sending the minutes of the bilateral meeting formally communicate its conclusions to the Member State on the basis of the information received in the framework of the conformity procedure. That communication shall evaluate the expenditure to be excluded from Union financing under Article 55 of Regulation (EU) 2021/2116 and Articles 14 and 15 of Delegated Regulation (EU) 2022/127. The communication shall make reference to Article 43(1) of this Regulation.
+
+If a Member State notifies the Commission that a bilateral meeting is not required, the 6-month period starts from the date of receipt by the Commission of the notification.
+
+4\. Where the Member State has made use of the conciliation procedure referred to in Article 43, the Commission shall communicate its conclusions to the Member State no later than 6 months after:
+
+(a) the receipt of the conciliation body report; or
+
+(b) the receipt of additional information from the Member State within the deadline referred to in Article 43(3), second subparagraph, provided that the conditions set out in paragraph 6 of this Article are met.
+
+5\. In order to apply paragraphs 3 and 4 within the respective time periods, the Commission shall have available all information relevant at that particular step of the procedure. Where the Commission deems it lacks information, it may at any time within the time periods set out in those paragraphs:
+
+(a) ask for additional information from the Member State, to which the Member State shall reply within 2 months of receipt of the communication; and/or
+
+(b) inform the Member State of its intention to carry out an additional audit mission to conduct the necessary verifications.
+
+In that case, the time periods referred to in paragraphs 3 and 4 shall start again either on the receipt by the Commission of the requested additional information or from the last day of the additional audit mission.
+
+Where the time periods referred to in paragraphs 2, 3 and 4 and in this paragraph include fully or partially the month of August, the running of those time periods will be suspended during that month.
+
+6\. When evaluating the expenditure to be excluded from Union financing, the information communicated by the Member State after the Commission’s formal communication referred to in paragraph 3, third subparagraph, may only be taken into account:
+
+(a) where it is necessary to avoid the gross overestimation of the financial damage caused to the Union budget; and
+
+(b) if the late transmission of the information is duly justified by external factors and does not jeopardise the timely adoption by the Commission of the decision pursuant to Article 55 of Regulation (EU) 2021/2116.
+
+7\. The Commission, after having communicated its conclusions to the Member States in accordance with paragraph 3 or 4 of this Article, shall adopt, where appropriate, one or more decisions under Article 55 of Regulation (EU) 2021/2116 in order to exclude from Union financing expenditure affected by the non-compliance with Union rules. The Commission may pursue consecutive conformity procedures until the Member State has actually implemented the corrective measures.
+
+8\. As regards the EAGF, the deductions from the Union financing shall be made by the Commission from the monthly payments relating to the expenditure effected in the second month following the decision pursuant to Article 55 of Regulation (EU) 2021/2116.
+
+As regards the EAFRD, the deductions from Union financing shall be made by the Commission from the payment for which the declaration of expenditure is submitted by the Member State after the decision pursuant to Article 55 of Regulation (EU) 2021/2116 has been adopted.
+
+However, at the Member State’s request and after consultation of the Committee on the Agricultural Funds, the Commission may adopt an implementing decision setting a different date for the deductions or authorising their reimbursement in not more than three instalments where this is warranted by the materiality of the deductions included in an implementing act adopted on the basis of Article 55 of Regulation (EU) 2021/2116. This request for instalments shall be submitted by the Member State to the Commission not later than 5 days after the consultation of the Committee on the Agricultural Funds on the decision pursuant to Article 55 of that Regulation.
+
+9\. For Member States which are subject to financial assistance under Council Regulation (EC) No 332/2002 ( 11 ), Council Regulation (EU) No 407/2010 ( 12 ) and the Treaty establishing the European Stability Mechanism, the Commission may, at the Member State's request and after consultation of the Committee on the Agricultural Funds, adopt an implementing decision deferring, for a period not exceeding 24 months from the date of its adoption, the execution of decisions adopted after 1 May 2025 pursuant to Article 55 of Regulation (EU) 2021/2116 (‘deferral decision’).
+
+The deferral decision shall authorise the deductions to be made after the end of the deferral period in three annual instalments. Where the total amount subject to the deferral decision represents more than 0,02 % of the Member State's gross domestic product, the Commission may authorise the reimbursement in maximum five annual instalments.
+
+The Commission may decide, at the Member State's request and after consultation of the Committee on the Agricultural Funds, to extend once, for a period not exceeding 12 months, the time period of deferral referred to in the first subparagraph.
+
+The Member State benefitting from a deferral decision shall ensure that the deficiencies which have been the reasons for the deductions and which persist at the time of adoption of the deferral decision are being remedied on the basis of an action plan, established in consultation with the Commission, including deadlines and clear progress indicators. The Commission shall amend or repeal the deferral decision, taking into account the principle of proportionality, in one of the following cases:
+
+(a) the Member State fails to take the necessary actions to remedy the deficiencies as foreseen in the action plan;
+
+(b) the progress of the remedial actions is not sufficient according to the progress indicators; or
+
+(c) the outcome of the actions is not satisfactory.
+
+10\. The implementing decisions referred to in paragraphs 8 and 9 shall be adopted in accordance with the advisory procedure referred to in Article 102(2) of Regulation (EU) 2021/2116.
+
+11\. In duly justified cases to be notified to the Member State concerned, the Commission may extend the time periods set out in paragraphs 2 to 5.
+
+12\. The communications referred to in this Article may be made via electronic means.
+
+13\. Paragraphs 1 to 11 shall apply, mutatis mutandis, to the assigned revenue referred to in Article 45 of Regulation (EU) 2021/2116.
+
+#### Article 38 — Decision not to start or pursue a conformity inquiry
+
+1\. The Commission may decide not to start or pursue a conformity inquiry in accordance with Article 55 of Regulation (EU) 2021/2116 where it expects that the possible financial correction, for the non-compliance identified as a result of an inquiry referred to in Article 37(2) of this Regulation, would not exceed EUR 50 000 and 2 % of the relevant expenditure or the amounts to be recovered.
+
+2\. Where the Commission reduces the monthly payments in accordance with Article 39(1) and (2) of Regulation (EU) 2021/2116, it may decide not to start or pursue a conformity inquiry in accordance with Article 55 of that Regulation, provided that the Member State concerned has not expressed its objection to the application of this paragraph in the framework of the procedure provided for in Article 39(1) and (2) of that Regulation.
+
+#### Article 39 — Conciliation body
+
+For the purpose of the conformity procedure provided for in Article 55 of Regulation (EU) 2021/2116, a conciliation body shall be established. It shall perform the following tasks:
+
+(a) to examine any matter referred to it by a Member State which has received a formal communication from the Commission pursuant to Article 37(3), third subparagraph, of this Regulation, including an evaluation of expenditure which the Commission intends to exclude from Union financing;
+
+(b) to try to reconcile the divergent positions of the Commission and the Member State concerned;
+
+(c) at the end of its examination, to draw up a report on the results of its reconciliation efforts, making any remarks it deems useful should all or some of the points of dispute remain unresolved.
+
+#### Article 40 — Composition of the conciliation body
+
+1\. The conciliation body shall be composed of at least five members selected among eminent persons offering every guarantee of independence and who are highly qualified in matters regarding the financing of the common agricultural policy, including rural development, or in the practice of financial audit.
+
+They must be nationals of different Member States.
+
+2\. The chairperson, the members and the substitute members shall be appointed by the Commission for an initial term of office of 3 years after consultation of the Committee on the Agricultural Funds.
+
+The terms of office may be renewed for a year at a time only, the Committee on the Agricultural Funds having been informed. However, if the chairperson to be appointed is already a member of the Conciliation Body, the initial term of office as chairperson shall be three years.
+
+The names of the chairperson, the members and the substitute members shall be published in the C series of the Official Journal of the European Union.
+
+3\. The members of the conciliation body shall be remunerated having regard to the time which they are required to dedicate to the task. Costs shall be compensated in accordance with the rules in force for Commission staff.
+
+4\. After expiry of the term of office, the chairperson and the members shall remain in office until they are replaced or their term of office is renewed.
+
+5\. The term of office of members who no longer meet the conditions required for the accomplishment of their duties with the conciliation body or who, for whatever reason, are unavailable for an indeterminate period may be terminated by the Commission after consultation of the Committee on the Agricultural Funds.
+
+In that case, the member concerned shall be replaced for the remainder of the period for which that member was appointed by a substitute member, the Committee on the Agricultural Funds being informed.
+
+If the chairperson’s term of office is terminated, the member who is to perform the chairperson’s duties for the remainder of the period for which the chairperson was appointed shall be appointed by the Commission after consultation of the Committee on the Agricultural Funds.
+
+#### Article 41 — Independence of the conciliation body
+
+1\. The members of the conciliation body shall carry out their duties independently, neither seeking nor accepting instructions from the Commission, any government or body.
+
+The members shall not take part in the work of the conciliation body or sign a report if, in a previous office, they have been personally involved in the matter at issue.
+
+2\. Without prejudice to Article 287 of the Treaty, the members shall not disclose any information acquired by them in the course of their work for the conciliation body. Such information shall be confidential and covered by the obligation of professional secrecy.
+
+#### Article 42 — Working arrangements
+
+1\. The conciliation body shall meet at the headquarters of the Commission. The chairperson shall prepare and organise the work. In the chairperson’s absence, and without prejudice to Article 40(5), first subparagraph, the most senior member shall take the chair.
+
+The secretariat of the conciliation body shall be provided by the Commission.
+
+2\. Without prejudice to Article 41(1), second subparagraph, reports shall be adopted by an absolute majority of members present, the quorum for deliberations being three.
+
+The reports shall be signed by the chairperson and members who have taken part in the deliberations. They shall be co-signed by the secretariat.
+
+#### Article 43 — Conciliation procedure
+
+1\. A Member State may refer a matter to the conciliation body within 30 working days of receipt of the Commission’s formal communication referred to in Article 37(3), third subparagraph, by sending a reasoned request for conciliation to the secretariat of the conciliation body.
+
+2\. The procedure to be followed and the address of the secretariat shall be notified to the Member States through the Committee on the Agricultural Funds.
+
+3\. A request for conciliation shall only be admissible where the amount envisaged to be excluded from the Union financing according to the Commission’s communication either:
+
+(a) exceeds EUR 1 million;
+
+or
+
+(b) represents at least 25 % of the Member State’s total annual expenditure under the budget items concerned.
+
+In addition, if during the preceding discussions the Member State claimed and demonstrated that the matter is one of principle relating to the application of Union rules, the chairperson of the conciliation body may declare a request for conciliation to be admissible. However, such a request shall not be admissible if it relates solely to a matter of legal interpretation.
+
+4\. The conciliation body shall conduct its investigations as informally and promptly as possible, basing itself solely on the evidence available to the Commission at the time when formal conclusions are communicated in accordance with Article 37(3), third subparagraph, and giving the Commission and the national authorities concerned a fair hearing.
+
+However, if the Member State considers it necessary to present in its request for conciliation information which has not yet been communicated to the Commission, the conciliation body may invite the Commission to assess that new information only if the conditions set out in Article 37(6) are met. The information shall be communicated to the Commission at the latest 2 months after the report referred to in Article 39, point (c), has been sent.
+
+5\. Where, within 4 months of a case being referred to it, the conciliation body is not able to reconcile the positions of the Commission and the Member State, the conciliation procedure shall be deemed to have failed.
+
+6\. The report referred to in of Article 39, point (c), shall state the reasons why the positions could not be reconciled. It shall indicate whether any partial agreement was reached during the proceedings and whether the conciliation body invites the Commission to assess new information in accordance with paragraph 4, second subparagraph.
+
+7\. The report shall be sent to:
+
+(a) the Member State concerned;
+
+(b) the Commission, for examination before communicating its conclusions to the Member State;
+
+(c) the other Member States in the framework of the Committee on the Agricultural Funds.
+
+8\. Where the time periods referred to in paragraphs 1, 4, second subparagraph, and 5 include fully or partially the month of August, the running of those time periods will be suspended during that month.
+
+## CHAPTER IV — Checks
+
+### Section 1 — General rules
+
+#### Article 44 — Information to be collected on the identification of beneficiaries
+
+1\. Member States shall ensure that beneficiaries provide in the aid applications and payment claims the information necessary for their identification, including, where applicable, the identification of the group, as defined in Article 2(11) of Directive 2013/34/EU of the European Parliament and of the Council ( 13 ) in which they participate as of a certain date to be set by the Member State. That information shall include at least:
+
+(a) name of the entity;
+
+(b) VAT or tax identification number;
+
+(c) name of the parent entity and VAT or tax identification number;
+
+(d) ultimate parent and VAT or tax identification number;
+
+(e) subsidiaries and VAT or tax identification numbers.
+
+The information referred to in the first subparagraph may be used when drawing up the check sample referred to in Article 60(1), second subparagraph, of Regulation (EU) 2021/2116. The information may, in particular, be used to carry out checks as regards circumvention as referred to in Article 62 of that Regulation.
+
+2\. The information on the identification of groups as referred in paragraph 1, first subparagraph, point (c), of this Article shall be published ex-post by the Member State, in accordance with Article 98 of Regulation (EU) 2021/2116.
+
+#### Article 45 — Requirements for the data-mining tool
+
+1\. In order to make use on a voluntary basis of the data-mining tool referred to in Article 59(2) of Regulation (EU) 2021/2116 to be made available by the Commission for the checks under Article 60 of that Regulation, Member States shall ensure that:
+
+(a) the management and control systems, including the integrated administration and control system referred to in Article 65(1) of Regulation (EU) 2021/2116, can be linked electronically to the tool and, in order to minimise the administrative burden and manual intervention, the exchange of data shall be automatic and in machine-readable format;
+
+(b) the information and the checks performed with the data-mining tool can automatically fed back to the management and control systems, and can be recorded and stored there.
+
+2\. Where the Member State decides to use the information collected under Article 44 of this Regulation when drawing up the check sample referred to in Article 60(1), second subparagraph, of Regulation (EU) 2021/2116, the information may be verified by means of that data-mining tool.
+
+### Section 2 — Scrutiny of transactions
+
+#### Article 46 — Scrutiny by Member States
+
+1\. In relation to each scrutiny period, Member States shall, without prejudice to their obligations laid down in Article 77(1) of Regulation (EU) 2021/2116, select the undertakings to be scrutinised on the basis of a risk analysis for all measures. Member States shall communicate to the Commission the risk analysis as part of the control plan referred in Article 80(1) of that Regulation.
+
+2\. The scrutiny period shall run from 1 July to 30 June of the following year.
+
+3\. For measures for which a Member State considers the use of a risk analysis not to be practicable, it shall be compulsory to scrutinise undertakings which receive payments exceeding EUR 350 000 within the system of financing by the EAGF and which were not scrutinised in accordance with this Regulation and Title IV, Chapter III, of Regulation (EU) 2021/2116 during either of the two preceding scrutiny periods.
+
+4\. The scrutiny period shall run from 1 July to 30 June of the following year.
+
+#### Article 47 — Mutual assistance
+
+Member States shall send a request for mutual assistance referred to in Article 79 of Regulation (EU) 2021/2116 to each Member State in which an undertaking as referred to in that Article is established. The request shall contain all the details necessary to enable the Member State of destination to identify the undertakings and to undertake its scrutiny obligations. The Member State of destination shall be responsible for the scrutiny of such undertakings in accordance with Article 77 of that Regulation.
+
+#### Article 48 — Annual control plans and reports
+
+1\. The control plan for scrutiny and the report referred to in Article 80 of Regulation (EU) 2021/2116 shall be drawn up in accordance with the specimen form set out in Annexes VI and VII to this Regulation.
+
+2\. The information to be submitted under this Article shall be communicated in an electronic form through an information system.
+
+3\. The Commission shall inform annually the Member States of the results of the scrutiny.
+
+## CHAPTER V — Securities
+
+### Section 1 — Scope, information technology, force majeure
+
+#### Article 49 — Scope
+
+This Chapter shall apply in all cases where the agricultural legislation provides for a security, whether or not the particular term ‘security’ is used.
+
+This Chapter shall not apply to securities lodged to ensure payment of import and export duties referred to in Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 14 ).
+
+#### Article 50 — e-Administration
+
+Communications, documents and securities may be produced, processed, and managed by using IT systems on condition that the systems applicable are managed under the officially approved quality and security protocols fit for those systems.
+
+If competent authorities cannot access required documents for verification because of differences in IT systems, those documents shall be printed out and certified as genuine by the authority competent for the management of those IT systems (‘the issuing authority’) or by an authority competent for certifying documents as genuine copies.
+
+Such print-outs may be replaced by an electronic message between the issuing authority and the beneficiary or the competent authority, on condition that the issuing authority provides in an officially approved certification protocol ensuring the genuineness of the message.
+
+#### Article 51 — Force majeure time limits
+
+1\. This Article shall apply when a specific Regulation refers to it.
+
+2\. A request for recognition of a case of force majeure shall not be admissible if it is received by the competent authority more than 30 calendar days after the date on which the operator was informed by the competent authority of the established non-fulfilment of the relevant obligation within the meaning of Article 24(2) of Delegated Regulation (EU) 2022/127, the expiry of the time limit for the fulfilment of the relevant obligation as referred to in Article 24(3) of that Regulation or the expiry of the time limit for the presentation of the proof for the fulfilment of the relevant obligation as referred to in Article 24(4) of that Regulation.
+
+3\. Operators shall, to the competent authority’s satisfaction, provide proof of the circumstances which they consider to constitute force majeure within 181 calendar days of the expiry of the period in which the obligation had to be fulfilled completely. Operators may be granted further time if they are unable to produce proof within that time limit despite having acted with all due diligence.
+
+4\. Member States shall notify the Commission of the cases of force majeure they have recognised, providing the relevant information of each case.
+
+### Section 2 — Form of securities
+
+#### Article 52 — Form
+
+1\. A security may be given:
+
+(a) as a cash deposit as referred to in Article 20(2) and (3) of Delegated Regulation (EU) 2022/127; and/or
+
+(b) by providing a guarantor in accordance with Article 22 of Delegated Regulation (EU) 2022/127.
+
+2\. At the discretion of the competent authority, a security may be given by:
+
+(a) pledging cash deposits in a bank;
+
+(b) pledging recognised claims against a public body or public funds, which are due and payable and against which no other claim has precedence; and/or
+
+(c) pledging collateral negotiable in the Member State concerned provided they are issued or guaranteed by that Member State.
+
+3\. The competent authority may impose additional terms for accepting securities of the type listed in paragraph 2.
+
+#### Article 53 — Negotiable collateral
+
+1\. Collateral pledged in accordance with Article 52(2), point (c), shall, at the time the security is given, have a disposable value of at least 115 % of the value of the security required.
+
+2\. A competent authority may accept a security as referred to in Article 52(2), point (c), only if the party offering it undertakes, in writing, either to give an additional security or to replace the original security should the disposable value of the security in question have been for a period of 3 months below 105 % of the value of the security required. That written undertaking shall not be necessary where national law already so provides. The competent authority shall regularly review the value of such security.
+
+3\. The disposable value of a security as referred to in Article 52(2), point (c), shall be assessed by the competent authority, taking into account any costs of disposal.
+
+4\. The disposable value of securities shall be assessed using the last available quotation.
+
+5\. The party giving the security shall, at the request of the competent authority, provide proof of its disposable value.
+
+#### Article 54 — Replacement and assignment
+
+1\. Any form of security may be replaced by another.
+
+However, the agreement of the competent authority shall be required in the following cases:
+
+(a) where the original security has been forfeited but not yet realised; or
+
+(b) where the replacement security is of a type listed in Article 52(2).
+
+2\. A block security may be replaced by another block security on condition that the new block security covers at least that part of the original block security assigned at the time of replacement to ensure fulfilment of one or more obligations still outstanding.
+
+3\. As soon as part of a block security is assigned to a particular obligation, the balance of the block security remaining shall be noted.
+
+### Section 3 — Release and forfeiture
+
+#### Article 55 — Partial release
+
+Where specific Union rules do not specify a minimum quantity, the competent authority may itself restrict the number of partial releases of any one security and may specify a minimum sum for any such release.
+
+Before releasing all or part of a security the competent authority may require that a written request for release be provided.
+
+In the case of securities covering more than 100 % of the sum required to be secured, that part of the security exceeding 100 % shall be released when the remainder of the sum secured is finally released or forfeited.
+
+#### Article 56 — Forfeiture
+
+1\. Once the competent authority is aware of circumstances giving rise to forfeiture of the security, in whole or in part, it shall without delay demand the party required to meet the obligation to pay the sum forfeited, allowing up to 30 days from the day of receipt of demand for payment.
+
+Where payment has not been made at the end of that period, the competent authority shall:
+
+(a) without delay clear any security of the type described in Article 52(1), point (a), to the appropriate account;
+
+(b) without delay require the guarantor referred to in Article 52(1), point (b), to pay, allowing up to 30 days from the day of receipt of demand for payment;
+
+(c) without delay take steps to:
+
+(i) convert the securities described in Article 52(2), points (b) and (c), into money sufficient to recover the sum due;
+
+(ii) clear pledged cash deposits referred to in Article 52(2), point (a), to its own account.
+
+The competent authority may without delay clear any security of the type described in Article 52(1), point (a), to the appropriate account without first requiring the person concerned to effect payment.
+
+2\. Without prejudice to paragraph 1:
+
+(a) where the decision to forfeit a security is taken but on appeal is subsequently postponed in accordance with national law, the party concerned shall pay interest on the sum actually forfeited over the period starting 30 days from the day of receipt of the demand for payment as referred to in paragraph 1 and ending on the day prior to the payment of the sum actually forfeited;
+
+(b) where following the outcome of the appeal procedure the party concerned is asked to pay within 30 days the sum forfeited, for the purpose of calculating interest the Member State may consider payment to be made on the 20th day following the date of such request;
+
+(c) the rate of interest applicable is calculated in accordance with national law, but shall in no case be lower than the interest rate applicable in case of recovery of national amounts;
+
+(d) paying agencies shall deduct the interest paid from EAGF or EAFRD expenditure in accordance with Regulation (EU) 2021/2116;
+
+(e) Member States may claim periodically an increase of the security in respect of the interest involved.
+
+3\. Where a security has been forfeited and the amount already credited to the Funds and, following the outcome of an appeal procedure, the sum forfeited in whole or in part, including interest at a rate in accordance with national law, is to be repaid, the sum to be repaid shall be borne by the Funds, unless the repayment of the security is attributable to the negligence or serious mistake of administrative authorities or other bodies of the Member State.
+
+### Section 4 — Information
+
+#### Article 57 — Information on securities forfeiture, types of securities and guarantors
+
+1\. Member States shall keep available for the Commission, for each year, the total number and sum of securities forfeited, whatever stage of the procedure set out in Article 56 has been reached, distinguishing in either case between those credited to the national budgets and those credited to the budget of the Union. That information shall be kept in relation to all securities forfeited for an amount greater than EUR 1 000 and each Union provision requiring that a security be given. The information shall cover both sums paid directly by the interested party and sums recovered by realising a security.
+
+2\. Member States shall keep at the Commission’s disposal a list of:
+
+(a) the types of institutions authorised to act as guarantors and the requirements laid down in that respect;
+
+(b) the types of security accepted pursuant to Article 52(2) and the requirements laid down in that respect.
+
+## CHAPTER VI — Transparency
+
+#### Article 58 — Form and way of presentation
+
+1\. The information referred to in Article 98 of Regulation (EU) 2021/2116 in connection to Article 49(3), first subparagraph, points (a), (b), (d) and (f) to (l), of Regulation (EU) 2021/1060 and the information referred to in Article 111 of Regulation (EU) No 1306/2013 for the measures referred to in Article 104(1), second subparagraph, points (a)(i) to (iv), of Regulation (EU) 2021/2116 shall be published in open, machine-readable formats, such as CSV or XLXS, and shall contain the information specified in Annex VIII to this Regulation, including, the code of the operation and measures indicated in Annex IX to this Regulation.
+
+2\. Member States may decide not to publish the information referred to in Article 49(3), first subparagraph, points (f) and (g) of Regulation (EU) 2021/1060, in relation to the types of intervention in form of direct payments referred to in Article 16 of Regulation (EU) 2021/2115, the types of intervention for rural development referred to in Article 69, points (b) and (c) of Regulation (EU) 2021/2115 and the measures laid down in Regulations (EU) No 228/2013 and (EU) No 229/2013.
+
+3\. The information shall be accessible through a web search tool allowing the user to search for beneficiaries by either name, group of beneficiaries, municipality, amounts received or operation, or by a combination thereof, and to extract all the corresponding information as a single set of data.
+
+4\. The information referred to in paragraph 1 shall be provided in the official language or languages of the Member State and in one of the three working languages of the Commission.
+
+5\. The information referred to in paragraph 1 shall be expressed in euro. A Member State that has not adopted the euro shall express the amounts in both euro and its national currency, using two separate tables in open, machine-readable formats.
+
+6\. The exchange rate specified in Article 12 of Delegated Regulation (EU) 2022/127 shall apply to the national currencies.
+
+7\. The information referred to in Article 98(2) of Regulation (EU) 2021/2116 in connection to Article 49(3), first subparagraph, point (e), of Regulation (EU) 2021/1060, shall be published in a separate document, which shall include at least the information contained in Annex IX to this Regulation.
+
+#### Article 59 — Publication of beneficiaries in case of small amounts
+
+1\. Where the amount of aid received in one year by a beneficiary is equal to or less than EUR 1 250 , that beneficiary shall be identified by a code. Member States shall decide on the form of that code.
+
+2\. Where the information on beneficiaries referred to in paragraph 1 would, due to the limited number of beneficiaries residing or registered in a given municipality, allow for the identification of a natural person as a beneficiary, the Member State concerned shall publish as information, for the purposes of Article 49(3), first subparagraph, point (l), of Regulation (EU) 2021/1060, the next larger administrative entity of which the municipality in question is part of.
+
+#### Article 60 — Date of publication
+
+The information referred to in this Chapter shall be published by 31 May each year for the preceding financial year.
+
+#### Article 61 — Information to the beneficiary
+
+The information to the beneficiaries referred to in Article 99 of Regulation (EU) 2021/2116 shall be provided by including it in the application forms for receiving support from the EAGF or the EAFRD, or otherwise at the time when the data are collected.
+
+#### Article 62 — Cooperation between the Commission and Member States
+
+1\. The Commission shall set up and maintain a Union website under its central internet address which includes links to the websites of Member States referred to in Article 98(4) of Regulation (EU) 2021/2116. The Commission shall provide updated internet links according to the information sent by Member States.
+
+2\. Member States shall provide the Commission with their websites’ internet addresses as soon as they have been set up as well as any subsequent changes thereof having an influence on the accessibility of their websites from the Union website.
+
+3\. Member States shall nominate a body in charge of setting up and maintaining the website. They shall inform the Commission of the name and address details of that body.
+
+## CHAPTER VII — Data for WTO notification of domestic support
+
+#### Article 63 — Data and transmission
+
+1\. On the same date as the date on which the annual accounts are submitted to the Commission, Member States shall transmit data on the amounts paid from national sources for all expenditures related to the Funds as indicated in Article 32(1), points (b) and (c).
+
+2\. The data required under paragraph 1 shall be submitted in the same structure as the data to be submitted pursuant to Article 32(1), points (b) and (c). This information shall be provided on the basis of the model made available by the Commission to Member States through information systems.
+
+## CHAPTER VIII — Final provisions
+
+#### Article 64 — Repeal
+
+Implementing Regulation (EU) No 908/2014 is repealed with effect from 1 January 2023.
+
+However:
+
+(a) Article 2, Article 3(1), first subparagraph, Article 3(2), Article 4(1), point (b), Articles 5, 6 and 7, Articles 21 to 25, Articles 27, 28 and 29, Article 30(1), points (a), (b) and (c), Article 30(2), (3) and (4), and Articles 31 to 40 of that Implementing Regulation shall continue to apply:
+
+(i) in relation to expenditure incurred and payments made for support schemes under Regulation (EU) No 1307/2013 in respect of the calendar year 2022 and before;
+
+(ii) for measures implemented until 31 December 2022 under Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014;
+
+(iii) for the aid schemes referred to in Article 5(6), first subparagraph, point (c), and Article 5(7) of Regulation (EU) 2021/2117 in relation to expenditure incurred and payments made for operations implemented pursuant to Regulation (EU) No 1308/2013 after 31 December 2022 and until the end of those aid schemes; and
+
+(iv) as regards the EAFRD, in relation to expenditure incurred by the beneficiaries and payments made by the paying agency in the framework of the implementation of rural development programmes pursuant to Regulation (EU) No 1305/2013;
+
+(b) Articles 57 and 59 of that Implementing Regulation shall continue to apply to all payments made on the basis of Regulation (EU) No 1306/2013 for all the financial years up to and including 2022;
+
+(c) Annexes II and III to that Regulation shall continue to apply for the purposes of Article 32, points (f) and (g), of this Regulation.
+
+#### Article 65 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2023.
+
+However:
+
+(a) Articles 9, 10 and 11 shall apply to expenditure incurred and assigned revenue received by Member States from 16 October 2022;
+
+(b) Article 22(1), second subparagraph, point (e), shall apply in respect of the assigned revenue recovered from 1 January 2026 for the rural development programmes approved by the Commission pursuant to Regulation (EU) No 1305/2013;
+
+(c) Article 60 shall apply from financial year 2023.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Management declaration – Paying Agency as referred to in Article 4
+
+I, …, Director of the … Paying Agency, present the accounts for this Paying Agency for the financial year 16/10/xx to 15/10/xx+1.
+
+I declare, based on my own judgement and on the information at my disposal, including, inter alia, the results of work of the internal audit service, that:
+
+— the accounts presented give, to the best of my knowledge, a true, complete and accurate view of the expenditure and receipts for the financial year referred to above. In particular, all debts, advances, guarantees and stocks known to me have been recorded in the accounts, and all receipts collected relating to the EAGF and the EAFRD have been properly credited to the appropriate funds;
+
+— I have put in place a system which provides reasonable assurance:
+
+(i) that payments are legal and regular in relation to expenditure incurred and payments made for support schemes under Regulation (EU) No 1307/2013 in respect of the calendar year 2022 and before; as regards the measures laid down in Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014; for aid schemes referred to in Article 5(6), first subparagraph, point (c), and Article 5(7) of Regulation (EU) 2021/2117 of the European Parliament and of the Council in relation to expenditure incurred and payments made for operations implemented pursuant to Regulation (EU) No 1308/2013 after 31 December 2022 and until the end of those aid schemes; and as regards the EAFRD, in relation to expenditure incurred by the beneficiaries and payments made by the paying agency in the framework of the implementation of rural development programmes pursuant to Regulation (EU) No 1305/2013;
+
+(ii) that the governance systems as referred to in Article 9(3), first subparagraph, point (d)(ii), of Regulation (EU) 2021/2116 are functioning properly and ensure that the expenditure was made in accordance with Article 37 of that Regulation;
+
+(iii) on the quality and reliability of the reporting system and of data on indicator as regards types of interventions referred to in Regulation (EU) 2021/2115 and that the expenditure matches the corresponding reported output and that it has been effected in accordance with the applicable governance systems.
+
+The expenditure entered in the accounts was used for its intended purpose, as defined in Regulation (EU) 2021/2116.
+
+Furthermore, I confirm that effective and proportionate anti-fraud measures under Article 59 of Regulation (EU) 2021/2116 are in place and take account of the risks identified.
+
+That assurance is, however, subject to the following reservations:
+
+Finally, I confirm that I am not aware of any undisclosed matter which could be damaging to the financial interest of the Union.
+
+Signature
+
+## ANNEX II — Management declaration – coordinating body as referred to in Article 4
+
+I, …, Director of the … Coordinating Body, present the annual performance report for … (Member State) for the financial year 16/10/xx to 15/10/xx+1.
+
+I declare, based on my own judgement and on the information at my disposal, including, inter alia, the results of the work of the certification body, that:
+
+— the annual performance report referred to in Article 134 of Regulation (EU) 2021/2115 has been compiled following the accredited procedure and systems in place at the coordinating body and based on the certified data provided by the paying agencies (…list) in … (Member State).
+
+That assurance is, however, subject to the following reservations:
+
+Finally, I confirm that I am not aware of any undisclosed matter, which could be damaging to the financial interest of the Union.
+
+Signature
+
+## ANNEX III — Elements for the audit trail for financial instruments as referred to in Article 7(6)
+
+1\. documents on the establishment of the financial instrument, such as funding agreements, etc.;
+
+2\. documents identifying the amounts contributed by the CAP Strategic Plan and under each type of intervention to the financial instrument, the expenditure that is eligible under the CAP Strategic Plan and the interest and other gains generated by support from the EAFRD and re-use of resources attributable to the EAFRD in accordance with Articles 60 and 62 of Regulation (EU) 2021/1060;
+
+3\. documents on the functioning of the financial instrument, including those related to monitoring, reporting and control;
+
+4\. documents concerning exits of CAP Strategic Plan contributions and the winding-up of the financial instrument;
+
+5\. documents on the management costs and fees;
+
+6\. application forms, or equivalent, submitted by final recipients with supporting documents, including business plans and, when relevant, previous annual accounts;
+
+7\. checklists and reports from the bodies implementing the financial instrument;
+
+8\. declarations made in connection with de minimis aid, when applicable;
+
+9\. agreements signed in connection with the support provided by the financial instrument, including for equity, loans, guarantees or other forms of investment provided to final recipients;
+
+10\. evidence that the support provided through the financial instrument is to be used for its intended purpose;
+
+11\. records of the financial flows between the paying agency and the financial instrument, and within the financial instrument at all levels, down to the final recipients, and, for guarantees, proof that underlying loans were disbursed;
+
+12\. separate records or accounting codes for a CAP Strategic Plan contribution paid or a guarantee committed by the financial instrument for the benefit of the final recipient.
+
+## ANNEX IV — Template for the annual audit report on financial instruments as referred to in Article 7(7)
+
+**1\. Introduction**
+
+1.1. Identification of the external audit firm that has been involved in preparing the report.
+
+1.2. Reference period (16 October N-1 to 15 October N).
+
+1.3. Identification of the financial instrument(s)/mandate(s) and CAP Strategic Plan(s) covered by the audit report. Identification of the funding agreement to which the report relates to (the ‘Funding agreement’).
+
+**2\. Audit of internal control systems applied by the EIB/EIF or other international financial institutions**
+
+Results of the external audit of the internal control system of the EIB or other international financial institutions (IFIs), in which a Member State is a shareholder, assessing the set-up and effectiveness of this internal control system and covering the following elements:
+
+2.1. Mandate acceptance process.
+
+2.2. Process for the appraisal and selection of financial intermediaries: formal and quality assessment.
+
+2.3. Process for the approval of transactions with financial intermediaries and signature of relevant funding agreements.
+
+2.4. Processes for the monitoring of financial intermediaries relating to:
+
+2.4.1. reporting by financial intermediaries;
+
+2.4.2. maintenance of records;
+
+2.4.3. disbursements to final recipients;
+
+2.4.4. eligibility of support to final recipients;
+
+2.4.5. management fees and costs charged by the financial intermediaries;
+
+2.4.6. visibility, transparency and communication requirements;
+
+2.4.7. implementation of State aid and cumulation of aid requirements by the financial intermediaries;
+
+2.4.8. differentiated treatment of investors, where relevant;
+
+2.4.9. compliance with applicable Union law related to money laundering, terrorism financing, tax avoidance, tax fraud or tax evasion.
+
+2.5. Systems for the processing of payments received from the paying agency.
+
+2.6. Systems for the calculation and payment of amounts related to management costs and fees.
+
+2.7. Systems for the processing of payments to financial intermediaries.
+
+2.8. Systems for the processing of interest and other gains generated by support from the CAP Strategic Plan(s) to financial instruments.
+
+2.9. For the annual audit report concerning the final accounting year information on the following elements shall be covered in addition to those of points 2.1 to 2.8:
+
+2.9.1. Use of differentiated treatment of investors;
+
+2.9.2. Achieved multiplier ratio compared to the agreed multiplier ratio in the guarantee agreements for financial instruments delivering guarantees;
+
+2.9.3. Use of interest and other gains attributable to the support from the CAP Strategic Plan paid to financial instruments in line with Article 60 of Regulation (EU) 2021/1060;
+
+2.9.4. Use of resources paid back to financial instruments, which are attributable to the support from the EAFRD, until the end of the eligibility period and arrangements put in place for the use of those resources after the end of the eligibility period in line with Article 62 of Regulation (EU) 2021/1060.
+
+For points 2.1, 2.2 and 2.3, following the submission of the first annual audit report, only information on updates or changes to the procedures or arrangements in place need to be provided.
+
+**3\. Audit conclusions**
+
+3.1. Conclusion as to whether the external audit firm can provide reasonable assurance on the set-up and effectiveness of the internal control system put in place by the EIB or other IFIs, in which a Member State is a shareholder, in accordance with the applicable rules, as per the elements referred to in section 2.
+
+3.2. Findings and recommendations resulting from the audit work carried out.
+
+Points 3.1 and 3.2 shall be based on the results of the audit work referred to in section 2 and where relevant, take account of the results of other national or Union audit work carried out in relation to the same body implementing financial instruments and/or to the same mandate for financial instruments.
+
+## ANNEX V — Model table referred to in Article 32(1), point (f), concerning irregularities
+
+The information referred to in Article 32(1), point (f), shall be provided per paying agency by using the following table:
+
+| a | b | c | d | e | f | g | h | i | j |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Paying Agency | Fund | Currency unit | Balance 15 October N-1 | Total ‘new cases’ (financial year N) | Total ‘corrections’ (financial year N) | Total ‘interests’ (financial year N) | Total ‘recoveries’ (financial year N) | Total ‘irrecoverable’ amounts (year N) | Amount for which recovery is ongoing (Balance 15 October N) |
+
+## ANNEX VI
+
+**Control plan for scrutiny as referred to in Article 80(1) of Regulation (EU) 2021/2116 and Article 48 of this Regulation**
+
+**PROPOSED CONTROL PLAN FOR THE SCRUTINY PERIOD …**
+
+**Part 1. Procedures and risk analysis**
+
+1.1. Selection procedure
+
+A description shall be provided of the procedure to be applied in order to select the undertakings to be scrutinised.
+
+Furthermore, a clear indication shall be made on the use of the risk analysis specifying if such procedure is complemented by random and/or manual selection.
+
+In addition, an explanation shall be provided on how the different sectors/measures and regions will be covered in the selection of the undertakings.
+
+1.2. Risk factors, risk values and weighting to be applied
+
+Where risk analysis shall be applied, information shall be provided on all risk factors taken into consideration and the subsequent possible values assigned to those risk factors. That information shall be included in the tables provided below.
+
+Where appropriate, a description shall be provided of the procedure to be applied to weight the risk factors.
+
+<table>
+<tbody><tr><td colspan="3">Risk factors and risk values applicable to all sectors/measures subject to risk analysis</td><td rowspan="3">Weighting of risk factors</td></tr>
+<tr><td rowspan="2">Risk factors</td><td colspan="2">Risk values</td></tr>
+<tr><td>Description</td><td>Values</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="3">Specific risk factors and risk values applicable to … (sector/measure)</td><td rowspan="3">Weighting of risk factors</td></tr>
+<tr><td rowspan="2">Risk factors</td><td colspan="2">Risk values</td></tr>
+<tr><td>Description</td><td>Values</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Where applicable, additional boxes for risk factors and risk values to sector/measures shall be added.
+
+1.3. Results of selection procedure
+
+Information shall be provided on how the results of the risk analysis and the adopted procedures led to the selection of undertakings into the final scrutiny control plan.
+
+Sectors/measures to be excluded shall be clearly identified and the reasons for exclusion shall be described.
+
+Reasons to select undertakings whose receipts or payments, or the sum thereof, were less than EUR 40 000 , shall be provided.
+
+**Part 2. Control plan**
+
+2.1. Overview of the selection
+
+<table>
+<tbody><tr><td colspan="2">Population from which the selection is made:</td></tr>
+<tr><td>(C) Total number</td><td>  </td></tr>
+<tr><td>(D) Total number whose receipts or payments, or the sum thereof, were exceeding EUR 350 000 </td><td>  </td></tr>
+<tr><td>(E) Total number whose receipts or payments, or the sum thereof, were EUR 350 000 or less, but not less than EUR 40 000 </td><td>  </td></tr>
+<tr><td>(F) Total number whose receipts or payments, or the sum thereof, were less than EUR 40 000 </td><td>  </td></tr>
+<tr><td colspan="2">Undertakings proposed for scrutiny:</td></tr>
+<tr><td>(G) Total number</td><td>  </td></tr>
+<tr><td>(H) Total based upon risk analysis (*1)</td><td>  </td></tr>
+<tr><td>(I) Total number whose receipts or payments, or the sum thereof, were exceeding EUR 350 000 </td><td>  </td></tr>
+<tr><td>(J) Total number whose receipts or payments, or the sum thereof, were EUR 350 000 or less, but not less than EUR 40 000 </td><td>  </td></tr>
+<tr><td>(K) Total number whose receipts or payments, or the sum thereof, were less than EUR 40 000 </td><td>  </td></tr>
+<tr><td colspan="2">(*1)  Undertakings in this category include only those selected through risk analysis and exclude those added randomly and/or manually to the control plan no subject to risk analysis.  Note on table: </td></tr>
+</tbody>
+</table>
+
+2.2. Selection of undertakings proposed for scrutiny
+
+<table>
+<tbody><tr><td>(A) EAGF Budget Item No</td><td>(B) EAGF Budget Article</td><td>(C) Total expenditure by EAGF budget heading (EUR)</td><td>(D) Total expenditure by EAGF budget heading relating to undertakings whose receipts or payments, or the sum thereof, were above EUR 40 000 (EUR)</td><td>(E) Total expenditure by EAGF budget heading relating to undertakings included in the scrutiny control plan (EUR)</td><td>(F) Number of undertakings by EAGF budget heading included in the scrutiny control plan</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Totals:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">Note on table: Where applicable, additional rows shall be added. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII
+
+**Scrutiny report as referred to in Article 80(2), point (B) of Regulation (EU) 2021/2116 and Article 48 of this Regulation**
+
+**REPORT FOR THE SCRUTINY PERIOD …**
+
+**1\. Overview of the controls**
+
+| (A) The total number of undertakings to be scrutinised: |  |
+| --- | --- |
+| (B) The total number of undertakings scrutinised: |  |
+| (C) The total number of undertakings in the course of scrutiny: |  |
+| (D) The total number of undertakings not yet scrutinised |  |
+
+**2\. Overview of controls (per budget article or item No)**
+
+<table>
+<tbody><tr><td rowspan="2">(A) EAGF Budget Item No</td><td rowspan="2">(B) EAGF Budget Article</td><td rowspan="2">(C) Total expenditure relating to undertakings selected for scrutiny… (EUR) (C=E+F+G) </td><td colspan="2">Scrutinised undertakings</td><td rowspan="2">(F) Undertakings in the course of scrutiny –total expenditure relating to those undertakings (EUR) </td><td rowspan="2">(G) Undertakings not scrutinised –total expenditure relating to those undertakings (EUR) </td></tr>
+<tr><td>(D) Expenditure actually scrutinised (EUR)* </td><td>(E) Total expenditure related to those undertakings (EUR) </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Totals:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">Notes on table: * Relates only to the expenditure of the invoices that have been effectively scrutinised (which are those selected for verification and/or cross-checked).  Where applicable, additional rows shall be added. </td></tr>
+</tbody>
+</table>
+
+**3\. Potential irregularities identified**
+
+<table>
+<tbody><tr><td>(A) EAGF Budget Article</td><td>(B) EAGF Budget Item N.</td><td>(C) The reference number of the undertaking concerned</td><td>(D) Description and nature of each potential irregularity identified</td><td>(E) Number of potential irregularities identified</td><td>(F) Estimated value of potential irregularities</td><td>(G) The OLAF reference number(s) (IMS notification numbers</td><td>(H) Scrutiny period in which scrutiny has been planned *</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Totals:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">Notes on table: * For preceding scrutiny periods, only those not reported in previous reports.  Each undertaking with irregularity(ies) should be reported in a separate line.  Where applicable, additional rows are to be added. </td></tr>
+</tbody>
+</table>
+
+**4\. Execution of scrutinies relating to preceding scrutiny control plans.**
+
+<table>
+<tbody><tr><td>Execution of scrutinies relating to preceding scrutiny control plans</td><td>(A) Number of undertakings</td><td>(B) Expenditure concerned</td><td>(C) Expenditure actually scrutinised relating to undertakings *</td></tr>
+<tr><td>4.1. Undertakings declared in previous report as in the course of scrutiny (4.1 = 4.2+ 4.3)</td><td>  </td><td>  </td><td>x</td></tr>
+<tr><td>4.2. Undertakings in 4.1 for which scrutinies have been completed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.3. Undertakings in 4.1 for which scrutinies are still in course</td><td>  </td><td>  </td><td>x</td></tr>
+<tr><td>4.4. Undertakings for which scrutinies in previous report were declared as not started (4.4 = 4.5+4.6+4.7)</td><td>  </td><td>  </td><td>x</td></tr>
+<tr><td>4.5. Undertakings in 4.4 for which scrutinies have been completed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.6. Undertakings in 4.4 for which scrutinies are still in course</td><td>  </td><td>  </td><td>x</td></tr>
+<tr><td>4.7. Undertakings in 4.4 for which scrutinies have not been started</td><td>  </td><td>  </td><td>x</td></tr>
+<tr><td colspan="4">Notes on table: * Relates only to the expenditure of the invoices that has been effectively scrutinised (those selected for verification and/or cross-checked). </td></tr>
+</tbody>
+</table>
+
+**5\. Mutual assistance**
+
+A summary of mutual assistance requests made and received under Title IV, Chapter III, of Regulation (EU) 2021/2116, shall be provided.
+
+Information on the requests sent and the replies received shall be included in the tables provided below:
+
+<table>
+<tbody><tr><td>(A) Member State to whom request has been sent</td><td>(B) Date of request</td><td>(C) Date of reply and a summary of the results</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">Note on table: Where applicable, additional rows shall be added. </td></tr>
+</tbody>
+</table>
+
+**6\. Resources**
+
+The number of staff, expressed in person/years, allocated to scrutinies, per control body and, where appropriate, per region shall be provided.
+
+**7\. Difficulties and suggestions for improvement**
+
+Information shall be provided on any difficulties encountered in the application of Title IV, Chapter III, of Regulation (EU) 2021/2116 and the measures taken to overcome them or proposals to that end.
+
+Where appropriate, suggestions shall be made for the improvement of the application of Title IV, Chapter III, of Regulation (EU) 2021/2116.
+
+## ANNEX VIII — INFORMATION FOR THE PURPOSES OF TRANSPARENCY PURSUANT TO ARTICLE 58 ()
+
+<table>
+<tbody><tr><td>Name of the beneficiary/Legal entity/association</td><td>Surname of beneficiary</td><td>If belonging to a group, name of the parent entity and VAT or Tax identification number</td><td>Municipality</td><td>Code of the measure/type of intervention/sector as set in Annex IX</td><td>Specific objective (1)</td><td>Start date (2)</td><td>End date (3)</td><td>Amount by operation under EAGF</td><td>Total of EAGF amount for that beneficiary</td><td>Amount by operation under EAFRD</td><td>Total of EAFRD amount for that beneficiary</td><td>Amount by operation under co-financing</td><td>Total of co-financed amount for that beneficiary</td><td>Total of EAFRD and co-financed amounts</td><td>Total of the EU amount and co-financed amount for that beneficiary</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>50 </td><td>  </td><td>70 </td><td>  </td><td>40 </td><td>110 </td><td>160 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Code A</td><td>  </td><td>  </td><td>  </td><td>20 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Code B</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>40 </td><td>  </td><td>25 </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Code C</td><td>  </td><td>  </td><td>  </td><td>30 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Code D</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>30 </td><td>  </td><td>15 </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="16">(1)  The specific objective of the operation shall correspond to one or more objectives set in the relevant Union legislation governing the operation concerned as described in Annex IX. In particular, the specific objective(s) of an operation under Regulation (EU) 2021/2115 shall correspond to the specific objectives laid down in Article 6 thereof and be consistent with the CAP Plan of the Member State. Furthermore, the specific objective(s) of an operation under Regulations (EU) No 1305/2013, (EU) No 1307/2013 and (EU) No 1308/2013 shall correspond to the objectives laid down in Article 110(2) of Regulation (EU) No 1306/2013 (for further guidance Member States may refer to the Technical Handbook on the Monitoring and Evaluation Framework of the Common Agricultural Policy 2014 – 2020).  (2)  The information on the start date of the types of intervention in the form of direct payments, the types of interventions for rural development interventions with regard to natural or other area-specific constraints and to area-specific disadvantages resulting from certain mandatory requirements as well as of the measures under Regulations (EU) No 228/2013 and (EU) No 229/2013 is not relevant as those measures and types of intervention operations are annual.  (3)  The information on the end date of the types of interventions in the form of direct payments, the types of intervention for rural development interventions with regard to natural or other area-specific constraints and to area-specific disadvantages resulting from certain mandatory requirements as well as of the measures under Regulations (EU) No 228/2013 and (EU) No 229/2013 is not relevant as those measures and types of intervention operations are annual.  (4)  For the publication of the following information: <br> (a) expenditure incurred and payments made for support schemes under Regulation (EU) No 1307/2013 in respect of the calendar year 2022 and before;  (b) for measures implemented under Regulations (EU) No 228/2013, (EU) No 229/2013, (EU) No 1308/2013 and (EU) No 1144/2014 until 31 December 2022;  (c) for the aid schemes referred to in Article 5(6), first subparagraph, point (c), and Article 5(7) of Regulation (EU) 2021/2117 in relation to expenditure incurred and payments made for operations implemented pursuant to Regulation (EU) No 1308/2013 after 31 December 2022 and until the end of those aid schemes; and  (d) payments made by the paying agency in the framework of the implementation of rural development programmes pursuant to Regulation (EU) No 1305/2013;  only the information prescribed in Article 111 of Regulation (EU) No 1306/2013 shall be published in this table, the other columns shall be left blank or marked with N/A. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX
+
+**Measure/type of intervention/sector as referred to in Article 58 (1)**
+
+<table>
+<tbody><tr><td>Code of the measure/type of intervention/sector</td><td>Name of the measure/type of intervention/sector</td><td>Purpose of the measure/type of intervention/sector</td></tr>
+<tr><td>  </td><td>Operations in the form of types of intervention for direct payments as provided for in Article 16 of Regulation (EU) 2021/2115</td><td>  </td></tr>
+<tr><td>  </td><td>1. Decoupled income support</td><td>  </td></tr>
+<tr><td>I.1</td><td>Basic income support for sustainability</td><td>The basic income support is an area payment decoupled from production. The aim is to support viable farm income and resilience across the Union to enhance food security.</td></tr>
+<tr><td>I.2</td><td>Complementary redistributive income support for sustainability</td><td>The complementary redistributive income support for sustainability is an area payment decoupled from production. The aim is to improve the distribution of direct payments by redistributing support from larger to smaller or medium-sized farms.</td></tr>
+<tr><td>I.3</td><td>Complementary income support for young farmers</td><td>The complementary income support for young farmers is a payment decoupled from production providing enhanced income support to young farmers who are setting up for the first time. The aim is to modernise the agricultural sector by attracting young people and improving their business development.</td></tr>
+<tr><td>I.4</td><td>Schemes for the climate and the environment</td><td>Eco-schemes are a payment decoupled from production. The aim is to target income support to agricultural practices beneficial for the environment, climate and animal welfare.</td></tr>
+<tr><td>I.5</td><td>Small farmer’s payments (Article 28)</td><td>The small farmer’s payments are decoupled from production and replace all other direct payments for the concerned beneficiaries. The purpose of the payments for small farmers is to promote a more balanced distribution of support and to reduce administrative burden for both beneficiaries of small amounts and managing authorities.</td></tr>
+<tr><td>  </td><td>2. Coupled direct payments</td><td>  </td></tr>
+<tr><td>I.6</td><td>Coupled income support</td><td>Coupled income support covers payments per hectare or head linked to specific productions. The aim is to improve competitiveness, sustainability, and/or quality in certain sectors and products that are particularly important for social, economic or environmental reasons and encounter certain difficulties.</td></tr>
+<tr><td>I.7</td><td>Crop-specific payment for cotton</td><td>The crop-specific payment for cotton is a coupled payment granted per hectare of eligible area of cotton. It is a mandatory scheme for cotton producer’s Member States to support the cotton production in regions where it is important for the agricultural economy.</td></tr>
+<tr><td>  </td><td>Measures set out in Annex I to Regulation (EU) No 1307/2013</td><td>  </td></tr>
+<tr><td>II.1</td><td>Basic payment scheme (Title III, Chapter 1, Sections 1, 2, 3 and 5)</td><td>The basic payment scheme is an area payment decoupled from production operated on the basis of payment entitlements allocated to farmers. The aim is to support the income of farmers which is, on average, significantly below the average income in the rest of the economy.</td></tr>
+<tr><td>II.2</td><td>Single area payment scheme (Article 36)</td><td>The single area payment scheme is an area payment decoupled from production paid for eligible hectares declared by a farmer. The aim is to support the income of farmers which is, on average, significantly below the average income in the rest of the economy.</td></tr>
+<tr><td>II.3</td><td>Redistributive payment (Title III, Chapter 2)</td><td>The redistributive payment is a decoupled area payment. The aim is to support smaller farms by providing them an additional support on their first hectares declared under the basic payment.</td></tr>
+<tr><td>II.4</td><td>Payment for agricultural practices beneficial for the climate and the environment (Title III, Chapter 3)</td><td>Greening is a decoupled area payment per hectare paid. The aim is to observe three agricultural practices in favour of the climate and the environment: crop diversification, maintenance of permanent grassland and having ecological focus area on the agricultural area</td></tr>
+<tr><td>II.5</td><td>Payment for areas with natural constraints (Title III, Chapter 4)</td><td>The payment to areas with natural constraints is an area based decoupled payment, provided on top of the basic payment to farmers. The aim is to give support to farmers who are situated in areas with natural constraints</td></tr>
+<tr><td>II.6</td><td>Payment for young farmers (Title III, Chapter 5)</td><td>Payment for young farmers is a payment decoupled from production providing enhanced income support to young farmers who are newly set up for the first time. The aim is to promote the creation and development of new economic activities in the agricultural sector, which is essential for the competitiveness of the agricultural sector in the Union.</td></tr>
+<tr><td>II.7</td><td>Voluntary coupled support (Title IV, Chapter 1)</td><td>The voluntary coupled support covers payments per hectare or head linked to specific productions. The aim is to improve the competitiveness and sustainability of sectors that are particularly important for economic, social or environmental reasons and undergo certain difficulties.</td></tr>
+<tr><td>II.8</td><td>Crop-specific payment for cotton (Title IV, Chapter 2)</td><td>The crop-specific payment for cotton is a coupled payment granted per hectare of eligible area of cotton. It is a mandatory scheme for Member States producing cotton so as to support its production in regions where it is important for the agricultural economy.</td></tr>
+<tr><td>II.9</td><td>Small farmers’ scheme (Title V)</td><td>The small farmers’ scheme is decoupled from production and replaces all other direct payments for the concerned beneficiaries. The aim is to promote a more balanced distribution of support and to reduce administrative burden for both beneficiaries of small amounts and managing authorities.</td></tr>
+<tr><td>II.10</td><td>Measures set out in Annex I to Council Regulation (EC) No 73/2009(2)</td><td>The aim of these direct payments is to decouple support from the production of crops and livestock in order to improve the income support of the farmers.</td></tr>
+<tr><td>  </td><td>Operations in the form of sectoral interventions as provided for in Article 42 of Regulation (EU) 2021/2115</td><td>  </td></tr>
+<tr><td>III.1</td><td>In the fruit and vegetables sector (Articles 49 to 53)</td><td>The aim is to support concentration of supply, competiveness and sustainability of the fruit and vegetables sector. It is done through producer organisations (PO) or their associations (APO) recognised under Regulation (EU) No 1308/2013 and running operational programmes in accordance with Regulation (EU) 2021/2115. Beneficiaries are POs and APOs. Programmes have a duration of between 3 and 7 years and are managed on a financial year basis. Member States have to approve every single programme.</td></tr>
+<tr><td>III.2</td><td>In the apiculture products sector (Articles 54, 55 and 56)</td><td>The aim is to support beekeepers, quality and market for apiculture products.</td></tr>
+<tr><td>III.3</td><td>In the wine sector (Articles 57 to 60)</td><td>The aim is to support competitiveness and sustainability of the wine sector. Programmes are run by Member States at national level as part of their Strategic Plan and are managed in a financial year basis. Beneficiaries are winegrowers as well as wine-making and wine-trading operators or their associations/organisations. Operations to be approved by Member States can be annual or multiannual.</td></tr>
+<tr><td>III.4</td><td>In the hops sector (Articles 61 and 62)</td><td>The aim is to support concentration of supply, competiveness and sustainability of the hops sector through producer organisations (PO) or their associations (APO) recognised under Regulation (EU) No 1308/2013 and running operational programmes in accordance with Regulation (EU) 2021/2115. Beneficiaries are POs or APOs. Programmes have a duration of between 3 and 7 years and are managed on a financial year basis. Member States have to approve every single programme.</td></tr>
+<tr><td>III.5</td><td>In the olive oil and table olives sector (Articles 63, 64 and 65)</td><td>The aim is to support concentration of supply, competiveness and sustainability of the olive oil and table olives sector through producer organisations (PO) and their associations (APO) recognised under Regulation (EU) No 1308/2013 and running operational programmes in accordance with Regulation (EU) 2021/2115. Beneficiaries are POs or APOs. Programmes have a duration of between 3 and 7 years and are managed in a financial year basis. Member States have to approve every single programme.</td></tr>
+<tr><td>III.6</td><td>In other sectors referred to in Article 1(2), points (a) to (h), (k), (m), (o) to (t) and (w), of Regulation (EU) No 1308/2013 and sectors covering products listed in Annex XIII to Regulation (EU) 2021/2115 (Articles 66, 67 and 68)</td><td>The aim is to support concentration of supply, competiveness and sustainability of the related sectors through producer organisations (PO), their associations (APO) recognised under Regulation (EU) No 1308/2013, as well as Producers Groups (PG) temporarily approved by Member States, and running operational programmes in accordance with Regulation (EU) 2021/2115. Beneficiaries are POs, APOs or PGs. Programmes have a duration of between 3 and 7 years and are managed in a financial year basis. Member States have to approve every single programme.</td></tr>
+<tr><td>  </td><td>Measures set out in Regulation (EU) No 1308/2013</td><td>  </td></tr>
+<tr><td>IV.1</td><td>Public intervention (Chapter I, Section 2)</td><td>When market prices for certain agricultural products fall below a predetermined level, the public authorities of the Member States may intervene to stabilise the market by purchasing surplus supplies, which may then be stored until the market price increases. The entities that must be published are the ones which benefit from the aid, in other words the entities from which the product has been bought.</td></tr>
+<tr><td>IV.2</td><td>Aid for private storage (Chapter I, Section 3)</td><td>The aim of the aid granted is to temporarily support producers of certain products regarding the cost of private storage.</td></tr>
+<tr><td>IV.3</td><td>The EU school scheme, school fruit and school milk schemes (Chapter II, Section 1)</td><td>The aim of the aid provided is to support the distribution of agricultural products to children in nursery, primary and secondary schools with the objective to increase their fruit, vegetables and milk consumption and improve their eating habits.</td></tr>
+<tr><td>IV.4</td><td>Exceptional measures (Chapter I, Sections 1, 2 and 3)</td><td>The aim of the exceptional measures granted under Article 219(1), Article 220(1) and Article 221(1) and (2) of Regulation (EU) No 1308/2013 is to support agricultural markets in accordance with Article 5(2), point (a), of Regulation (EU) 2021/2116.</td></tr>
+<tr><td>IV.5</td><td>Aid in the fruit and vegetables sector (Chapter II, Section 3)</td><td>Growers are encouraged to join producer organisations (POs). These receive aid for implementing operational programmes, based on a national strategy. The aim of the aid granted is also to mitigate income fluctuation from crises. Aid is offered for crisis prevention and crisis management measures under operational programmes, i.e.: product withdrawal, green harvesting/non-harvesting, promotion and communication tools, training, harvest insurance, help to secure bank loans and cover administrative costs of setting up mutual funds (farmer-owned stabilisation funds).</td></tr>
+<tr><td>IV.6</td><td>Support in the wine sector (Chapter II, Section 4)</td><td>The aim of the various aids granted is to ensure market balance and increase the competitiveness of Union wine: support for promotion of wine on third country markets and information on responsible consumption of wine and the Union system of Protected Designation of Origin (PDO) and Protected Geographical Indication (PGI); co-financing of costs for restructuring and conversion of vineyards, for investments in wineries and in marketing facilities as well as for innovation; support for green harvesting, mutual funds, harvest insurance and by-product distillation.</td></tr>
+<tr><td>IV.7</td><td>Support in the olive oil and tables olives sector (Chapter II, Section 2)</td><td>Support granted to the three-year work programmes to be drawn up by producer organisations, associations of producer organisations or interbranch organisations in one or more of the following areas: market follow-up and management in the olive oil and table olives sector; the improvement of the environmental impact of olive cultivation; the improvement of the competitiveness of olive cultivation through modernisation; the improvement of the production quality of olive oil and table olives; the traceability system, the certification and protection of the quality of olive oil and table olives; the dissemination of information on measures carried out by producer organisations, associations of producer organisations or interbranch organisations to improve the quality of olive oil and table olives.</td></tr>
+<tr><td>IV.8</td><td>Aid in the apiculture sector (Chapter II, Section 5)</td><td>The aim of the aid granted is to support this sector through apiculture programmes in order to improve the production and marketing of apiculture products.</td></tr>
+<tr><td>IV.9</td><td>Aid in the hops sector (Chapter II, Section 6)</td><td>Aid granted to support hops producer organisations.</td></tr>
+<tr><td>  </td><td>Operation in the form of types of intervention for rural development as provided for in Article 69 of Regulation (EU) 2021/2115</td><td>  </td></tr>
+<tr><td>V.1</td><td>Environmental, climate and other management commitments</td><td>The aim of the aid granted is to compensate farmers, forest holders and other land managers for the additional costs and income foregone related to voluntary environment, climate and other management commitments undertaken which go beyond mandatory standards and which contribute to the specific objectives of the CAP, notably in the area of environment, climate and animal welfare.</td></tr>
+<tr><td>V.2</td><td>Natural or other area-specific constraints</td><td>The aim of the aid granted is to compensate farmers for all or part of the additional costs and income foregone related to the natural or other area-specific constraints in the area concerned, such as mountainous areas.</td></tr>
+<tr><td>V.3</td><td>Area-specific disadvantages resulting from certain mandatory requirements</td><td>The aim of the aid granted is to compensate farmers, forest holders and other land managers for all or part of the additional costs and income foregone related to certain area-specific disadvantages in the area concerned which are imposed by requirements resulting from the implementation of the Natura 2000 Directives (Council Directive 92/43/EEC (3) and Directive 2009/147/EC of the European Parliament and of the Council (4)) or, for agricultural areas, the Water Framework Directive (Directive 2000/60/EC of the European Parliament and of the Council (5)).</td></tr>
+<tr><td>V.4</td><td>Investments, including investments in irrigation</td><td>The aim of the aid granted is to support investments in tangible or intangible assets, including investments in irrigation, that contribute to achieving one or more of the specific objectives of the CAP.</td></tr>
+<tr><td>V.5</td><td>Setting-up of young farmers, new farmers and rural business start-up</td><td>The aim of the aid granted is to support the setting-up of young farmers, new farmers and, under certain conditions, rural business start-up with the view of contributing to the achievement of one or more of the specific objectives of the CAP.</td></tr>
+<tr><td>V.6</td><td>Risk management tools</td><td>The aim of the aid granted is to promote risk management tools, which help farmers manage production and income risks related to their agricultural activity which are outside their control.</td></tr>
+<tr><td>V.7</td><td>Cooperation</td><td>The aim of the aid granted is to support cooperation with the view of contributing to the achievement of one or more of the specific objectives of the CAP. This includes cooperation support to: (a) prepare and implement Operational Group operations of the European Innovation Partnership for agricultural productivity and sustainability;  (b) prepare and implement LEADER;  (c) promote and support Union and national recognised quality schemes and their use by farmers;  (d) support producer groups, producer organisations or inter-branch organisations;  (e) prepare and implement Smart Villages strategies;  (f) support other forms of cooperation. </td></tr>
+<tr><td>V.8</td><td>Knowledge exchange and dissemination of information</td><td>The aim of the aid granted is to support knowledge exchange and information actions that contribute to one or more of the specific objectives of the CAP, specifically targeting the protection of nature, environment and climate, including environmental education and awareness actions and the development of rural businesses and communities. Such actions may include actions to promote innovation, training and advice as well as exchange and dissemination of knowledge and information.</td></tr>
+<tr><td>  </td><td>Measures provided for in Title III, Chapter I, of Regulation (EU) No 1305/2013</td><td>  </td></tr>
+<tr><td>VI.1</td><td>Knowledge transfer and information actions (Article 14)</td><td>This measure concerns training and other types of activities such as workshops, coaching, demonstration activities, information actions, short-term farm and forest exchange and visit schemes in order. The aim is to enhance the human potential of persons engaged in the agricultural, food and forestry sectors, land managers and small and medium-sized enterprises (SMEs) operating in rural areas.</td></tr>
+<tr><td>VI.2</td><td>Advisory services, farm management and farm relief services (Article 15)</td><td>This measure, through the use of advisory services as well as the setting up of advisory, farm management and farm relief services, aims to improve the sustainable management and the economic and environmental performance of farm and forest holdings and SMEs operating in rural areas. It also promotes the training of advisors.</td></tr>
+<tr><td>VI.3</td><td>Quality schemes for agricultural products and foodstuffs (Article 16)</td><td>The aim of this measure is to support all new entrants to the Union, national and voluntary quality schemes. Support may also cover costs arising from information and promotion activities in order to improve consumers’ awareness of the existence and specifications of products produced under these Union and national quality schemes.</td></tr>
+<tr><td>VI.4</td><td>Investments in physical assets (Article 17)</td><td>The aim of this measure is to improve the economic and environmental performance of agricultural holdings and rural enterprises, improve the efficiency of the agricultural products marketing and processing sectors provide infrastructure needed for the development of agriculture and forestry and support non-remunerative investments necessary to achieve environmental aims.</td></tr>
+<tr><td>VI.5</td><td>Restoring agricultural production potential damage by natural disasters and introduction of appropriate prevention actions (Article 18)</td><td> The aim of this measure is to help farmers prevent natural disasters and catastrophic events or restore agricultural potential, which has been damaged, after its formal recognition by the competent public authorities of Member States, in order to help farm viability and competitiveness in the face of such events.  </td></tr>
+<tr><td>VI.6</td><td>Farm and business development (Article 19)</td><td>The aim of this measure is to support the creation and development of new viable economic activities such as new holdings run by young farmers, new businesses in rural areas, or the development of small farms. Support is also given to new or existing enterprises for investments and development of non- agricultural activities which are essential for the development and competitiveness of rural areas and of all farmers diversifying their agricultural activities. The measure provides payments for farmers eligible for the small farmers scheme who permanently transfer their holding to another farmer.</td></tr>
+<tr><td>VI.7</td><td>Basic services and village renewal in rural areas (Article 20)</td><td>The aim of this measure is to support the interventions stimulating growth and promoting environmental and socioeconomic sustainability of rural areas, in particular through the development of local infrastructure (including broadband, renewable energy and social infrastructure) and local basic services, as well as through the renewal of villages and activities aimed at the restoration and upgrading of the cultural and natural heritage. The measure also supports the relocation of activities and conversion of facilities with a view to improving the quality of life or increasing the environmental performance of the settlement.</td></tr>
+<tr><td>VI.8</td><td>Investments in forest area development and improvement of the viability of forests (Article 21, Articles 22 to 26)</td><td>The aim of this measure is to promote investments in development of woodlands, in forest protection, in innovation in forestry, in forestry technologies and forest products, in order to contribute to the growth potential of rural areas.</td></tr>
+<tr><td>VI.9</td><td>Afforestation and creation of woodland (Article 22)</td><td>The aim of this sub-measure is to provide support for operations of afforestation and creation of woodland on agricultural and non-agricultural land.</td></tr>
+<tr><td>VI.10</td><td>Establishment, regeneration or renovation of agroforestry systems (Article 23)</td><td>The aim of this sub-measure is to support the establishment of agroforestry systems and practices where woody perennials are deliberately integrated with crops and/or animals on the same land unit.</td></tr>
+<tr><td>VI.11</td><td>Prevention and restoration of damage to forests from forest fires, natural disasters and catastrophic events (Article 24)</td><td>This sub-measure aims at preventing and restoring (clearing and replanting) forestry potential after the occurrence of forest fires, other natural disasters including pest and disease outbreaks, as well as climate change related threats.</td></tr>
+<tr><td>VI.12</td><td>Investments improving the resilience and environmental value of forest ecosystems (Article 25)</td><td>The aim of this sub-measure is to support actions that enhance the environmental value of the forest, facilitate the adaptation and mitigation of forests to climate change, provide ecosystem services and enhance the public amenity value of forest. The increase of the environmental value of the forest should be ensured.</td></tr>
+<tr><td>VI.13</td><td>Investments in forest technologies, processing, mobilising and marketing of forest products (Article 26)</td><td>This sub-measure aims at providing support for investment in machinery and/or equipment related to harvesting, cutting, mobilising, processing the wood prior to industrial sawing of wood. The main goal of this sub-measure is to improve the economic value of forests.</td></tr>
+<tr><td>VI.14</td><td>Setting up of producer groups and organisations (Article 27)</td><td>The aim of this measure is to support the setting up of producer groups and organisations, especially in the early years, when additional costs are incurred so as to face jointly market challenges and strengthening bargain power in relation to production and marketing, including in local markets.</td></tr>
+<tr><td>VI.15</td><td>Agri-environment-climate (Article 28)</td><td>The aim of this measure is to encourage land managers to apply farming practices contributing to the protection of the environment, landscape, natural resources and climate mitigation and adaptation. It may concern not only environmentally beneficial improvements to farming practice but also the maintenance of existing beneficial practices.</td></tr>
+<tr><td>VI.16</td><td>Organic farming (Article 29)</td><td>The aim of this measure is to focus on supporting the conversion to and/or the maintenance of organic farming practices and methods, with a view to encourage farmers to participate in such schemes, thus answering to society’s demand for the use of environmentally friendly farm practices.</td></tr>
+<tr><td>VI.17</td><td>Natura 2000 and Water Framework Directive payments (Article 30)</td><td>The aim of this measure is to give compensatory support to beneficiaries who suffer from particular disadvantages due to specific mandatory requirements in the areas concerned resulting from the implementation of Directives 92/43/EEC, 2009/147/EC and 2000/60/EC when compared to the situation of farmers and foresters in other areas not concerned by these disadvantages.</td></tr>
+<tr><td>VI.18</td><td>Payments to areas facing natural or other specific constraints (Article 31)</td><td>The aim of this measure is to give support to beneficiaries who suffer from particular constraints due to their location in mountain areas or other areas facing significant natural constraints or specific constraints.</td></tr>
+<tr><td>VI.19</td><td>Animal welfare (Article 33)</td><td>The aim of this measure is to provide payments to farmers who undertake, on a voluntary basis, to carry out operations of one or more animal welfare commitments.</td></tr>
+<tr><td>VI.20</td><td>Forest-environmental and climate services and forest conservation (Article 34)</td><td>The aim of this measure is to respond to the needs of promoting the sustainable management and improvement of forests and woodland, including the maintenance and improvement of biodiversity, water and soil resources and combating climate change and also to the need to conserve the forest genetic resources, including activities such as development of different varieties of forest species in order to adapt to specific local conditions.</td></tr>
+<tr><td>VI.21</td><td>Cooperation (Article 35)</td><td>The aim of this measure is to promote forms of cooperation involving at least two entities and aiming to develop, among others: pilot projects; new products, practices, processes and technologies in the agriculture, food and forestry sectors; tourism services; short supply chains and local markets; joint projects or practices concerning the environment or climate change; projects for the sustainable provision of biomass; non-LEADER local development strategies; forest management plans; and diversification into "social farming" activities.</td></tr>
+<tr><td>VI.22</td><td>Risk management (Article 36)</td><td>This measure represents a new risk management toolkit and takes forward the possibilities that currently exist to support insurances and mutual funds via Member States’ national direct payment envelopes to help farmers exposed to increasing economic and environmental risks. The measure also introduces an income stabilisation tool to provide compensation to farmers suffering a severe drop in their income.</td></tr>
+<tr><td>VI.22a</td><td>Exceptional temporary support to farmers and SMEs particularly affected by the COVID-19 crisis (Article 39b)</td><td>The aim of this measure is to offer to farmers and to small and medium-sized enterprises (SMEs) temporary support due to the COVID-19 crisis.</td></tr>
+<tr><td>VI.22b</td><td>Exceptional temporary support to farmers and SMEs particularly affected by the Russia’s invasion of Ukraine (Article 39c)</td><td>The aim of this measure is to offer to farmers and to small and medium-sized enterprises (SMEs) temporary support due to Russia’s invasion of Ukraine.</td></tr>
+<tr><td>VI.23</td><td>Financing of complementary national direct payments for Croatia (Article 40)</td><td>The aim of this measure is to offer to the farmers eligible for complementary national direct payments in Croatia a top-up payment under the EAFRD.</td></tr>
+<tr><td>VI.24</td><td>Support for LEADER local development (community-led local development) (Article 35 of Regulation (EU) No 1303/2013 of the European Parliament and of the Council (6))</td><td>The aim of this measure is to maintain LEADER as an integrated territorial development tool on sub-regional (‘local’) level which will directly contribute to the balanced territorial development of rural areas, which is one of the overall objectives of the rural development policy.</td></tr>
+<tr><td>VI.25</td><td>Technical assistance (Articles 51 to 54)</td><td>The aim of this measure is to give to Member States the ability to provide a technical assistance to support actions that support administrative capacity linked to the management of European Structural and Investment (ESI) Funds. These actions may be addressed to the preparation, management, monitoring, evaluation, information and communication, networking, complaint resolution and control and audit of the Rural Development Programmes.</td></tr>
+<tr><td>VII.1</td><td>Measures provided for in Regulation (EU) No 228/2013</td><td>POSEI measures are specific agricultural schemes aiming at taking into account the constraints of the Outermost Regions as required by Article 349 of the Treaty. It consists of two main elements: the specific supply arrangements and the measures to support local production. The former aims at mitigating additional costs for supplying essential products resulting from the remoteness of these regions (through aid for products from the Union and exemption from import duties for products from third countries) and the latter at assisting the development of the local agriculture sector (direct payments and market measures). POSEI also allow the financing of plant-health programmes.</td></tr>
+<tr><td>VIII.1</td><td>Measures provided for in Regulation (EU) No 229/2013</td><td>The regime for the Smaller Aegean Islands is similar to POSEI but does not have the same legal basis in the Treaty and operates on a smaller scale than POSEI. It includes both the specific supply arrangements (limited however to aid for products from the Union) and the measures to support the local agricultural activities consisting in top-up payments for specifically defined local products.</td></tr>
+<tr><td>IX.1</td><td>Information and promotion measures provided for in Regulation (EU) No 1144/2014</td><td>Information provision and promotion measures concerning agricultural products and certain food products based on agricultural products implemented in the internal market or in third countries as listed in Regulation (EU) No 1144/2014 may be fully or partly financed by the Union budget, subject to the conditions laid down in this Regulation. These measures shall take the form of information and promotion programmes.</td></tr>
+<tr><td colspan="3">(1)  And further support measures to be adopted pursuant to Article 39(2) of the Treaty and/or to Regulation (EU) No 1308/2013.  (2)  Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 (OJ L 30, 31.1.2009, p. 16).  (3)  Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).  (4)  Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7).  (5)  Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1).  (6)  Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (OJ L 347, 20.12.2013, p. 320). </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) No 1144/2014 of the European Parliament and of the Council of 22 October 2014 on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries and repealing Council Regulation (EC) No 3/2008 (OJ L 317, 4.11.2014, p. 56).
+
+( 2 ) Commission Delegated Regulation (EU) No 906/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to public intervention expenditure (OJ L 255, 28.8.2014, p. 1).
+
+( 3 ) Commission Implementing Regulation (EU) 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage (OJ L 206, 30.7.2016, p. 71).
+
+( 4 ) Commission Implementing Regulation (EU) 2021/2289 of 21 December 2021 laying down rules for the application of Regulation (EU) 2021/2115 of the European Parliament and of the Council on the presentation of the content of the CAP Strategic Plans and on the electronic system for the secure exchange of information (OJ L 458, 22.12.2021, p. 463, ELI: http://data.europa.eu/eli/reg_impl/2021/2289/oj).
+
+( 5 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 6 ) Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009 (OJ L 347, 20.12.2013, p. 608).
+
+( 7 ) Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union (OJ L 435, 6.12.2021, p. 262).
+
+( 8 ) Council Regulation (EC) No 1698/2005 of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) (OJ L 277, 21.10.2005, p. 1).
+
+( 9 ) Commission Regulation (EC) No 27/2004 of 5 January 2004 laying down transitional detailed rules for the application of Council Regulation (EC) No 1257/1999 as regards the financing by the EAGGF Guarantee Section of rural development measures in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia (OJ L 5, 9.1.2004, p. 36).
+
+( 10 ) Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities financial interests (OJ L 312, 23.12.1995, p. 1).
+
+( 11 ) Council Regulation (EC) No 332/2002 of 18 February 2002 establishing a facility providing medium-term financial assistance for Member States' balances of payments (OJ L 53, 23.2.2002, p. 1).
+
+( 12 ) Council Regulation (EU) No 407/2010 of 11 May 2010 establishing a European financial stabilisation mechanism (OJ L 118, 12.5.2010, p. 1).
+
+( 13 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 14 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).

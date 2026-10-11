@@ -1,0 +1,599 @@
+---
+title: "Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species"
+identifier: "32014R1143"
+eli: "http://data.europa.eu/eli/reg/2014/1143/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-10-22
+entry_into_force: 2014-05-26
+last_amended: 2019-12-14
+consolidated_version: "02014R1143-20191214"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R1143-20191214"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species
+
+**REGULATION (EU) No 1143/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 October 2014**
+
+**on the prevention and management of the introduction and spread of invasive alien species**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2016/2031 OF THE EUROPEAN PARLIAMENT OF THE COUNCIL of 26 October 2016 </td><td> L 317</td><td>4</td><td>23.11.2016</td></tr>
+</table>
+
+**REGULATION (EU) No 1143/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 October 2014**
+
+**on the prevention and management of the introduction and spread of invasive alien species**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation sets out rules to prevent, minimise and mitigate the adverse impact on biodiversity of the introduction and spread within the Union, both intentional and unintentional, of invasive alien species.
+
+### Article 2 — Scope
+
+1\. This Regulation applies to all invasive alien species.
+
+2\. This Regulation does not apply to:
+
+(a) species changing their natural range without human intervention, in response to changing ecological conditions and climate change;
+
+(b) genetically modified organisms as defined in point 2 of Article 2 of Directive 2001/18/EC;
+
+(c) pathogens that cause animal diseases; for the purpose of this Regulation, animal disease means the occurrence of infections and infestations in animals, caused by one or more pathogens transmissible to animals or to humans;
+
+(d) pests of plants listed pursuant to Article 5(2) or Article 32(3), or subject to measures pursuant to Article 30(1), of Regulation (EU) 2016/2031 of the European Parliament and of the Council ( 1 );
+
+(e) species listed in Annex IV to Regulation (EC) No 708/2007 when used in aquaculture;
+
+(f) micro-organisms manufactured or imported for use in plant protection products already authorised or for which an assessment is ongoing under Regulation (EC) No 1107/2009; or
+
+(g) micro-organisms manufactured or imported for use in biocidal products already authorised or for which an assessment is ongoing under Regulation (EU) No 528/2012.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) 'alien species' means any live specimen of a species, subspecies or lower taxon of animals, plants, fungi or micro-organisms introduced outside its natural range; it includes any part, gametes, seeds, eggs or propagules of such species, as well as any hybrids, varieties or breeds that might survive and subsequently reproduce;
+
+(2) 'invasive alien species' means an alien species whose introduction or spread has been found to threaten or adversely impact upon biodiversity and related ecosystem services;
+
+(3) 'invasive alien species of Union concern' means an invasive alien species whose adverse impact has been deemed such as to require concerted action at Union level pursuant to Article 4(3);
+
+(4) 'invasive alien species of Member State concern' means an invasive alien species other than an invasive alien species of Union concern, for which a Member State considers on the basis of scientific evidence that the adverse impact of its release and spread, even where not fully ascertained, is of significance for its territory, or part of it, and requires action at the level of that Member State;
+
+(5) 'biodiversity' means the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes diversity within species, between species and of ecosystems;
+
+(6) 'ecosystem services' means the direct and indirect contributions of ecosystems to human wellbeing;
+
+(7) 'introduction' means the movement, as a consequence of human intervention, of a species outside its natural range;
+
+(8) 'research' means descriptive or experimental work, undertaken under regulated conditions to obtain new scientific findings or to develop new products, including the initial phases of identification, characterisation and isolation of genetic features, other than those features which make a species invasive, of invasive alien species only insofar as essential to enable the breeding of those features into non-invasive species;
+
+(9) 'contained holding' means keeping an organism in closed facilities from which escape or spread is not possible;
+
+(10) 'ex-situ conservation' means the conservation of components of biological diversity outside their natural habitat;
+
+(11) 'pathways' means the routes and mechanisms of the introduction and spread of invasive alien species;
+
+(12) 'early detection' means the confirmation of the presence of a specimen or specimens of an invasive alien species in the environment before it has become widely spread;
+
+(13) 'eradication' means the complete and permanent removal of a population of invasive alien species by lethal or non-lethal means;
+
+(14) 'population control' means any lethal or non-lethal action applied to a population of invasive alien species, while also minimising the impact on non-targeted species and their habitats, with the aim of keeping the number of individuals as low as possible, so that, while not being able to eradicate the species, its invasive capacity and adverse impact on biodiversity, the related ecosystem services, on human health or the economy, are minimised;
+
+(15) 'containment' means any action aimed at creating barriers which minimises the risk of a population of an invasive alien species dispersing and spreading beyond the invaded area;
+
+(16) 'widely spread' means an invasive alien species whose population has gone beyond the naturalisation stage, in which a population is self-sustaining, and has spread to colonise a large part of the potential range where it can survive and reproduce;
+
+(17) 'management' means any lethal or non-lethal action aimed at the eradication, population control or containment of a population of an invasive alien species, while also minimising the impact on non-targeted species and their habitats.
+
+### Article 4 — List of invasive alien species of Union concern
+
+1\. The Commission shall adopt, by means of implementing acts, a list of invasive alien species of Union concern ('the Union list'), on the basis of the criteria laid down in paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2). The draft implementing acts shall be submitted to the Committee referred to in Article 27(1) by 2 January 2016.
+
+2\. The Commission shall undertake a comprehensive review of the Union list at least every six years and shall, in the meantime, update it, as appropriate, in accordance with the procedure referred to in paragraph 1 with:
+
+(a) the addition of new invasive alien species;
+
+(b) the removal of listed species if they no longer meet one or more of the criteria laid down in paragraph 3.
+
+3\. Invasive alien species shall only be included on the Union list if they meet all of the following criteria:
+
+(a) they are found, based on available scientific evidence, to be alien to the territory of the Union excluding the outermost regions;
+
+(b) they are found, based on available scientific evidence, to be capable of establishing a viable population and spreading in the environment under current conditions and in foreseeable climate change conditions in one biogeographical region shared by more than two Member States or one marine subregion excluding their outermost regions;
+
+(c) they are, based on available scientific evidence, likely to have a significant adverse impact on biodiversity or the related ecosystem services, and may also have an adverse impact on human health or the economy;
+
+(d) it is demonstrated by a risk assessment carried out pursuant to Article 5(1) that concerted action at Union level is required to prevent their introduction, establishment or spread;
+
+(e) it is likely that the inclusion on the Union list will effectively prevent, minimise or mitigate their adverse impact.
+
+4\. Member States may submit to the Commission requests for the inclusion of invasive alien species on the Union list. Those requests shall include all of the following:
+
+(a) the name of the species;
+
+(b) a risk assessment carried out in accordance with Article 5(1);
+
+(c) evidence that the criteria set out in paragraph 3 of this Article are met.
+
+5\. The Union list shall make reference, where relevant, to the goods with which the invasive alien species are generally associated and their Combined Nomenclature codes as provided by Council Regulation (EEC) No 2658/87 ( 2 ), indicating the categories of goods that shall be subject to official controls pursuant to Article 15 of this Regulation.
+
+6\. When adopting or updating the Union list, the Commission shall apply the criteria set out in paragraph 3 with due consideration to the implementation cost for Member States, the cost of inaction, the cost-effectiveness and the socio-economic aspects. The Union list shall include as a priority those invasive alien species that:
+
+(a) are not yet present in the Union or are at an early stage of invasion and are most likely to have a significant adverse impact;
+
+(b) are already established in the Union and have the most significant adverse impact.
+
+7\. When proposing the Union list, the Commission shall also justify that the objectives of this Regulation are better achieved by measures at Union level.
+
+### Article 5 — Risk assessment
+
+1\. For the purposes of Article 4, a risk assessment shall be carried out in relation to the current and potential range of invasive alien species, having regard to the following elements:
+
+(a) a description of the species with its taxonomic identity, its history, and its natural and potential range;
+
+(b) a description of its reproduction and spread patterns and dynamics including an assessment of whether the environmental conditions necessary for its reproduction and spread exist;
+
+(c) a description of the potential pathways of introduction and spread of the species, both intentional and unintentional, including where relevant the commodities with which the species is generally associated;
+
+(d) a thorough assessment of the risk of introduction, establishment and spread in relevant biogeographical regions in current conditions and in foreseeable climate change conditions;
+
+(e) a description of the current distribution of the species, including whether the species is already present in the Union or in neighbouring countries, and a projection of its likely future distribution;
+
+(f) a description of the adverse impact on biodiversity and related ecosystem services, including on native species, protected sites, endangered habitats, as well as on human health, safety, and the economy including an assessment of the potential future impact having regard to available scientific knowledge;
+
+(g) an assessment of the potential costs of damage;
+
+(h) a description of the known uses for the species and social and economic benefits deriving from those uses.
+
+2\. When proposing species for listing as invasive alien species of Union concern, the Commission shall carry out the risk assessment referred to in paragraph 1.
+
+Whenever a Member State submits a request for the inclusion of a species on the Union list it shall be responsible for carrying out the risk assessment referred to in paragraph 1. Where necessary, the Commission may assist the Member States in the development of such risk assessments in so far as it relates to their European dimension.
+
+3\. The Commission shall be empowered to adopt delegated acts, in accordance with Article 29, to further specify the type of evidence acceptable for the purposes of point (b) of Article 4(3) and provide a detailed description of the application of points (a) to (h) of paragraph 1 of this Article. The detailed description shall include the methodology to be applied in the risk assessments, taking into account relevant national and international standards and the need to prioritise action against invasive alien species associated with, or that have the potential to cause, a significant adverse impact on biodiversity or related ecosystem services, as well as on human health or the economy, such adverse impact being considered as an aggravating factor. It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States' experts, before adopting those delegated acts.
+
+### Article 6 — Provisions for the outermost regions
+
+1\. Invasive alien species of Union concern shall not be subject to Article 7 or Articles 13 to 20 in the outermost regions.
+
+2\. By 2 January 2017, each Member State with outermost regions shall adopt for each of those regions a list of invasive alien species of concern, in consultation with those regions.
+
+3\. As regards the invasive alien species included on the lists referred to in paragraph 2 of this Article, Member States may, within the respective outermost regions, apply the measures as provided for in Articles 7 to 9, 13 to 17, 19 and 20, as appropriate. Those measures shall be compatible with the TFEU and be notified to the Commission in accordance with Union law.
+
+4\. Member States shall immediately notify the Commission and shall inform the other Member States of the lists referred to in paragraph 2 and of any update to those lists.
+
+## CHAPTER II — PREVENTION
+
+### Article 7 — Restrictions
+
+1\. Invasive alien species of Union concern shall not be intentionally:
+
+(a) brought into the territory of the Union, including transit under customs supervision;
+
+(b) kept, including in contained holding;
+
+(c) bred, including in contained holding;
+
+(d) transported to, from or within the Union, except for the transportation of species to facilities in the context of eradication;
+
+(e) placed on the market;
+
+(f) used or exchanged;
+
+(g) permitted to reproduce, grown or cultivated, including in contained holding; or
+
+(h) released into the environment.
+
+2\. Member States shall take all necessary steps to prevent the unintentional introduction or spread, including, where applicable, by gross negligence, of invasive alien species of Union concern.
+
+### Article 8 — Permits
+
+1\. By way of derogation from the restrictions set out in points (a), (b), (c), (d), (f) and (g) of Article 7(1), and subject to paragraph 2 of this Article, Member States shall establish a permit system allowing establishments to carry out research on, or ex-situ conservation of, invasive alien species of Union concern. Where the use of products derived from invasive alien species of Union concern is unavoidable to advance human health, Member States may also include scientific production and subsequent medicinal use within their permit system.
+
+2\. Member States shall empower their competent authorities to issue the permits referred to in paragraph 1 for activities carried out in contained holding that fulfil all of the following conditions:
+
+(a) the invasive alien species of Union concern is kept in and handled in contained holding in accordance with paragraph 3;
+
+(b) the activity is to be carried out by appropriately qualified personnel as laid down by the competent authorities;
+
+(c) transport to and from contained holding is carried out under conditions that exclude escape of the invasive alien species as established by the permit;
+
+(d) in the case of invasive alien species of Union concern that are animals, they are marked or otherwise effectively identified where appropriate, using methods that do not cause avoidable pain, distress or suffering;
+
+(e) the risk of escape or spread or removal is effectively managed, taking into account the identity, biology and means of dispersal of the species, the activity and the contained holding envisaged, the interaction with the environment and other relevant factors;
+
+(f) a continuous surveillance system and a contingency plan covering possible escape or spread is drawn up by the applicant, including an eradication plan. The contingency plan shall be approved by the competent authority. If an escape or spread occurs, the contingency plan shall be implemented immediately and the permit may be withdrawn, temporarily or permanently.
+
+The permit referred to in paragraph 1 shall be limited to a number of invasive alien species and specimens that does not exceed the capacity of the contained holding. It shall include the restrictions necessary to mitigate the risk of escape or spread of the species concerned. It shall accompany the invasive alien species to which it refers at all times when those species are kept, brought into and transported within the Union.
+
+3\. Specimens shall be considered to be kept in contained holding if the following conditions are fulfilled:
+
+(a) the specimens are physically isolated and they cannot escape or spread or be removed by unauthorised persons from the holdings where they are kept;
+
+(b) cleaning, waste handling and maintenance protocols ensure that no specimens or reproducible parts can escape, spread or be removed by unauthorised persons;
+
+(c) the removal of the specimens from the holdings, disposal or destruction or humane cull is done in such way as to exclude propagation or reproduction outside of the holdings.
+
+4\. When applying for a permit, the applicant shall provide all necessary evidence to allow the competent authority to assess whether the conditions set out in paragraphs 2 and 3 are fulfilled.
+
+5\. Member States shall empower their competent authorities to withdraw the permit at any point in time, temporarily or permanently, if unforeseen events with an adverse impact on biodiversity or related ecosystem services occur. Any withdrawal of a permit shall be justified on scientific grounds and, where scientific information is insufficient, on the grounds of the precautionary principle and having due regard to national administrative rules.
+
+6\. The Commission shall adopt, by means of implementing acts, the format of the document serving as evidence for the permit issued by the competent authorities of a Member State. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2). Member States shall use that format for a document accompanying the permit.
+
+7\. For all permits issued in accordance with paragraph 1 of this Article, Member States, shall, without delay, make publicly available on the internet at least the following:
+
+(a) the scientific and common names of the invasive alien species of Union concern for which the permit has been issued;
+
+(b) the number or the volume of specimens concerned;
+
+(c) the purpose for which the permit has been issued; and
+
+(d) the codes of Combined Nomenclature as provided by Regulation (EEC) No 2658/87.
+
+8\. Member States shall ensure that inspections are carried out by their competent authorities to ensure that the establishments comply with the conditions set out in those permits issued.
+
+### Article 9 — Authorisations
+
+1\. In exceptional cases, for reasons of compelling public interest, including those of a social or economic nature, Member States may issue permits allowing establishments to carry out activities other than those set out in Article 8(1) subject to authorisation by the Commission, in accordance with the procedure laid down in this Article and subject to the conditions set out in Article 8(2) and (3).
+
+2\. The Commission shall set up and operate an electronic authorisation system and shall decide on applications for authorisation within 60 days of receipt of an application.
+
+3\. Applications for authorisation shall be submitted by Member States using the system referred to in paragraph 2.
+
+4\. An application for an authorisation shall include the following:
+
+(a) details of the establishment or groups of establishments including their name and address;
+
+(b) the scientific and common names of the invasive alien species of Union concern for which an authorisation is requested;
+
+(c) the codes of Combined Nomenclature as provided by Regulation (EEC) No 2658/87;
+
+(d) the number or the volume of specimens concerned;
+
+(e) the reasons for the requested authorisation;
+
+(f) a detailed description of the envisaged measures to ensure that escape or spread are not possible from contained holding facilities in which the invasive alien species of Union concern is to be kept in and handled, as well as of the measures to ensure that any transport of the species that may be necessary is carried out under conditions that exclude escape;
+
+(g) an assessment of the risk of escape of the invasive alien species of Union concern for which an authorisation is requested, accompanied by a description of the risk mitigation measures to be put in place;
+
+(h) a description of the surveillance system planned and of the contingency plan drawn to cater for possible escape or spread, including an eradication plan where necessary;
+
+(i) a description of relevant national law applicable to those establishments.
+
+5\. Authorisations granted by the Commission shall be notified to the competent authority of the Member State concerned. An authorisation shall be specific to an individual establishment, irrespective of the application procedure followed in accordance with point (a) of paragraph 4, and shall include the information referred to in paragraph 4 and the duration of the authorisation. An authorisation shall also include provisions regarding the supply to the establishment of additional or replacement specimens for use in the activity for which that authorisation is requested.
+
+6\. Following an authorisation by the Commission, the competent authority may issue the permit referred to in paragraph 1 of this Article in accordance with Article 8(4) to (8). The permit shall include all provisions specified in the authorisation issued by the Commission.
+
+7\. The Commission shall reject an application for an authorisation if any relevant obligations set out in this Regulation are not complied with.
+
+8\. The Commission shall, as soon as possible, inform the Member State concerned of any rejection of an application pursuant to paragraph 7 and shall specify the reason for the rejection.
+
+### Article 10 — Emergency measures
+
+1\. Where a Member State has evidence concerning the presence in, or imminent risk of introduction into its territory of an invasive alien species, which is not included on the Union list but which the competent authorities have found, on the basis of preliminary scientific evidence, to be likely to meet the criteria set out in Article 4(3), it may immediately take emergency measures, consisting of any of the restrictions set out in Article 7(1).
+
+2\. The Member State introducing emergency measures in its national territory which include the application of points (a), (d) or (e) of Article 7(1) shall immediately notify the Commission and all other Member States of the measures taken and the evidence justifying those measures.
+
+3\. The Member State concerned shall without delay carry out a risk assessment pursuant to Article 5 for the invasive alien species subject to the emergency measures, given the available technical and scientific information, and in any case within 24 months from the date of the adoption of the decision to introduce emergency measures, with a view to include that species on the Union list.
+
+4\. Where the Commission receives the notification referred to in paragraph 2 of this Article or has other evidence concerning the presence in or imminent risk of introduction into the Union of an invasive alien species which is not included on the Union list, but is likely to meet the criteria set out in Article 4(3), it shall, by means of implementing acts, conclude, on the basis of preliminary scientific evidence, whether the species is likely to meet those criteria and adopt emergency measures for the Union consisting of any of the restrictions set out in Article 7(1) for a limited time as regards the risks posed by that species, where it concludes that the criteria set out in Article 4(3) are likely to be fulfilled. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+5\. Where the Commission adopts an implementing act referred to in paragraph 4, Member States shall repeal or amend, as appropriate, any emergency measures which they have taken.
+
+6\. Where the Commission includes the invasive alien species on the Union list, Member States shall also repeal or amend their emergency measures.
+
+7\. When, following the risk assessment carried out pursuant to paragraph 3 of this Article, the Commission does not include the invasive alien species on the Union list, Member States shall repeal their emergency measures taken pursuant to paragraph 1 of this Article and may include that species on a national list of invasive alien species of Member State concern, pursuant to Article 12(1), and consider enhanced regional cooperation in accordance with Article 11.
+
+### Article 11 — Invasive alien species of regional concern and species native to the Union
+
+1\. Member States may identify, from their national list of invasive alien species of Member State concern established in accordance with Article 12, species native or non-native to the Union that require enhanced regional cooperation.
+
+2\. At the request of the Member States involved, the Commission shall act to facilitate the cooperation and coordination among those Member States involved, in accordance with Article 22(1). Where necessary, based on the impact of certain invasive alien species on biodiversity and related ecosystem services as well as on human health and the economy and provided that it is thoroughly substantiated by a comprehensive analysis of the justification for an enhanced regional cooperation carried out by the requesting Member States, the Commission may require, by means of implementing acts, that the Member States concerned apply, mutatis mutandis, in their territory or part of it, Articles 13, 14 and 16, Article 17 notwithstanding Article 18, as well as apply Articles 19 and 20, as appropriate. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+3\. Invasive alien species of regional concern which are native to a Member State shall not be subject to the provisions of Articles 13, 14, 16, 17, 19, 20 and 24 in the territory of that Member State. Member States to which those species are native, shall cooperate with the Member States concerned for the assessment of the pathways in accordance with Article 13 and, in consultation with the other Member States, may adopt relevant measures to avoid further spread of those species in accordance with the procedure referred to in Article 22(1).
+
+### Article 12 — Invasive alien species of Member State concern
+
+1\. Member States may establish a national list of invasive alien species of Member State concern. For those invasive alien species, Member States may apply, in their territory, measures such as those provided for in Articles 7, 8, 13 to 17, 19 and 20, as appropriate. Those measures shall be compatible with the TFEU and be notified to the Commission in accordance with Union law.
+
+2\. Member States shall inform the Commission and the other Member States of the species they consider to be invasive alien species of Member State concern and of the measures applied in accordance with paragraph 1.
+
+### Article 13 — Action plans on the pathways of invasive alien species
+
+1\. Member States shall, within 18 months of the adoption of the Union list carry out a comprehensive analysis of the pathways of unintentional introduction and spread of invasive alien species of Union concern at least in their territory, as well as in their marine waters as defined in point (1) of Article 3 of Directive 2008/56/EC, and identify the pathways which require priority action ('priority pathways') because of the volume of species or of the potential damage caused by the species entering the Union through those pathways.
+
+2\. Within three years of the adoption of the Union list, each Member State shall establish and implement one single action plan or a set of action plans to address the priority pathways it has identified pursuant to paragraph 1. Action plans shall include timetables for action and shall describe the measures to be adopted and, as appropriate, voluntary actions and codes of good practice, to address the priority pathways and to prevent the unintentional introduction and spread of invasive alien species into or within the Union.
+
+3\. Member States shall ensure coordination with the aim of establishing one single action plan or a set of action plans coordinated at the appropriate regional level in accordance with Article 22(1). Where such regional action plans are not established, Member States shall establish and implement action plans for their territory and as far as possible coordinated at the appropriate regional level.
+
+4\. The action plans referred to in paragraph 2 of this Article shall include, in particular, measures based on an analysis of costs and benefits, in order to:
+
+(a) raise awareness;
+
+(b) minimise contamination of goods, commodities, vehicles and equipment by specimens of invasive alien species, including measures to tackle transportation of invasive alien species from third countries;
+
+(c) ensure appropriate checks at the Union borders, other than the official controls pursuant to Article 15.
+
+5\. The action plans established in accordance with paragraph 2 shall be transmitted to the Commission without delay. Member States shall review their action plans and transmit them to the Commission at least every six years.
+
+## CHAPTER III — EARLY DETECTION AND RAPID ERADICATION
+
+### Article 14 — Surveillance system
+
+1\. Within 18 months of the adoption of the Union list, Member States shall establish a surveillance system of invasive alien species of Union concern, or include it in their existing system, which collects and records data on the occurrence in the environment of invasive alien species by survey, monitoring or other procedures to prevent the spread of invasive alien species into or within the Union.
+
+2\. The surveillance system referred to in paragraph 1 of this Article shall:
+
+(a) cover the territory, including marine territorial waters, of the Member States to determine the presence and distribution of new as well as already established invasive alien species of Union concern;
+
+(b) be sufficiently dynamic to detect rapidly the appearance in the environment of the territory or part of the territory of a Member State of any invasive alien species of Union concern, whose presence was previously unknown;
+
+(c) build upon, be compatible with, and avoid duplication of relevant provisions for assessment and monitoring laid down by Union law or under international agreements and make use of the information provided by the existing systems of surveillance and monitoring set out in Article 11 of Directive 92/43/EEC, Article 8 of Directive 2000/60/EC and Article 11 of Directive 2008/56/EC;
+
+(d) take into account the relevant transboundary impact and transboundary features, to the extent possible.
+
+### Article 15 — Official controls
+
+1\. By 2 January 2016, Member States shall have in place fully functioning structures to carry out the official controls necessary to prevent the intentional introduction into the Union of invasive alien species of Union concern. Those official controls shall apply to the categories of goods falling within the Combined Nomenclature codes to which a reference is made in the Union list, pursuant to Article 4(5).
+
+2\. Competent authorities shall carry out the appropriate risk-based controls to the goods mentioned in paragraph 1 of this Article verifying that:
+
+(a) they are not on the Union list; or
+
+(b) they are covered by a valid permit as referred to in Article 8.
+
+3\. The controls referred to in paragraph 2 of this Article, consisting of documentary, identity and where necessary, physical checks, shall take place when goods referred to in paragraph 1 of this Article are brought into the Union. Where Union law on official controls already provides for specific official controls at border entities in accordance with Regulation (EC) No 882/2004 and Directives 91/496/EEC and 97/78/EC or at points of entry in accordance with Directive 2000/29/EC, for categories of goods referred to in paragraph 1 of this Article, Member States shall confer the responsibility of carrying out the controls referred to in paragraph 2 of this Article to the competent authorities tasked with those controls in accordance with Article 4 of Regulation (EC) No 882/2004 or with point (g) of Article 2(1) of Directive 2000/29/EC.
+
+4\. The handling in free zones or free warehouses and the placing of goods referred to in paragraph 1 under the customs procedures of release for free circulation, transit, customs warehousing, inward processing, processing under customs control and temporary admission shall be subject to the declaration to the customs authorities of:
+
+(a) the relevant entry document duly completed by the competent authorities referred to in paragraph 3 of this Article attesting that the conditions referred to in paragraph 2 of this Article are met, in cases where the controls have been carried out at border entities in accordance with Regulation (EC) No 882/2004 and Directives 91/496/EEC and 97/78/EC or at points of entry in accordance with point (j) of Article 2(1) of Directive 2000/29/EC. The customs procedure indicated therein shall be followed; or
+
+(b) where goods are not subject to official controls according to Union law, other documentary evidence that the controls have been carried out with satisfactory results and the subsequent entry document.
+
+Those documents may also be submitted electronically.
+
+5\. If the controls establish non-compliance with this Regulation:
+
+(a) customs authorities shall suspend the placing under a customs procedure or detain the goods;
+
+(b) competent authorities referred to in paragraph 3 shall detain the goods.
+
+Where goods are detained, they shall be entrusted to the competent authority in charge of applying this Regulation. That authority shall act in accordance with national legislation. Member States may delegate specific functions to other authorities.
+
+6\. Costs incurred while the verification is carried out and those arising from any non-compliance shall be at the expense of the natural or legal person within the Union who brought the goods into the Union, except where the Member State concerned determines otherwise.
+
+7\. Member States shall put in place procedures to ensure the exchange of relevant information and the efficient and effective coordination and cooperation between all authorities involved for the verification referred to in paragraph 2.
+
+8\. Based on best practices, the Commission, together with all Member States, shall develop guidelines and training programmes to facilitate the identification and detection of invasive alien species of Union concern and the performance of efficient and effective controls.
+
+9\. Where permits have been issued in accordance with Article 8, reference to a valid permit covering the declared goods shall be made in the customs declaration or relevant notifications to the border entity.
+
+### Article 16 — Early detection notifications
+
+1\. Member States shall use the surveillance system established in accordance with Article 14 and the information collected at official controls provided for by Article 15 to confirm early detection of the introduction or presence of invasive alien species of Union concern.
+
+2\. Member States shall without delay notify the Commission, in writing, of the early detection of the introduction or presence of invasive alien species of Union concern and inform the other Member States, in particular of:
+
+(a) the appearance on their territory or part of their territory of any species included on the Union list whose presence was previously unknown in their territory or in part of their territory;
+
+(b) the re-appearance on their territory or part of their territory of any species included on the Union list after it has been reported as eradicated.
+
+### Article 17 — Rapid eradication at an early stage of invasion
+
+1\. After early detection and within three months after the transmission of the early detection notification referred to in Article 16, Member States shall apply eradication measures and notify those measures to the Commission and inform the other Member States.
+
+2\. When applying eradication measures, Member States shall ensure that the methods used are effective in achieving the complete and permanent removal of the population of the invasive alien species concerned, with due regard to human health and the environment, especially non-targeted species and their habitats, and ensuring that animals are spared any avoidable pain, distress or suffering.
+
+3\. Member States shall monitor the effectiveness of the eradication. Member States may use the surveillance system provided for in Article 14 to this effect. The monitoring shall also assess the impact on non-targeted species, as appropriate.
+
+4\. Member States shall inform the Commission of the effectiveness of the measures taken and notify the Commission when a population of an invasive alien species of Union concern has been eradicated. They shall also provide that information to other Member States.
+
+### Article 18 — Derogations from the obligation of rapid eradication
+
+1\. A Member State may, based on robust scientific evidence, decide, within two months of the detection of an invasive alien species referred to in Article 16, not to apply eradication measures if at least one of the following conditions is met:
+
+(a) eradication is demonstrated to be technically unfeasible because the eradication methods available cannot be applied in the environment where the invasive alien species is established;
+
+(b) a cost-benefit analysis demonstrates on the basis of the available data with reasonable certainty that the costs will, in the long term, be exceptionally high and disproportionate to the benefits of eradication;
+
+(c) eradication methods are not available or are available but have very serious adverse impact on human health, the environment or other species.
+
+The Member State concerned shall without delay notify the Commission of its decision in writing. The notification shall be accompanied by all the evidence referred to in points (a), (b) and (c) of the first subparagraph.
+
+2\. The Commission may decide, by means of implementing acts, to reject the decision notified in accordance with the second subparagraph of paragraph 1 where the conditions set out therein are not met.
+
+3\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2). The draft implementing acts shall be submitted to the Committee referred to in Article 27(1) within two months of receipt of the Member State's notification.
+
+4\. Member States shall ensure that containment measures are in place to avoid further spread of the invasive alien species to other Member States when, pursuant to paragraph 1, no eradication measures are applied.
+
+5\. Where the Commission rejects a decision notified in accordance with the second subparagraph of paragraph 1 of this Article, the Member State concerned shall apply the eradication measures referred to in Article 17 without delay.
+
+6\. Where the Commission does not reject a decision notified in accordance with the second subparagraph of paragraph 1 of this Article, the invasive alien species shall be subject to the management measures referred to in Article 19.
+
+## CHAPTER IV — MANAGEMENT OF INVASIVE ALIEN SPECIES THAT ARE WIDELY SPREAD
+
+### Article 19 — Management measures
+
+1\. Within 18 months of an invasive alien species being included on the Union list, Member States shall have in place effective management measures for those invasive alien species of Union concern which the Member States have found to be widely spread on their territory, so that their impact on biodiversity, the related ecosystem services, and, where applicable, on human health or the economy are minimised.
+
+Those management measures shall be proportionate to the impact on the environment and appropriate to the specific circumstances of the Member States, be based on an analysis of costs and benefits and also include, as far as is feasible, the restoration measures referred to in Article 20. They shall be prioritised based on the risk evaluation and their cost effectiveness.
+
+2\. The management measures shall consist of lethal or non-lethal physical, chemical or biological actions aimed at the eradication, population control or containment of a population of an invasive alien species. Where appropriate, management measures shall include actions applied to the receiving ecosystem aimed at increasing its resilience to current and future invasions. The commercial use of already established invasive alien species may be temporarily allowed as part of the management measures aimed at their eradication, population control or containment, under strict justification and provided that all appropriate controls are in place to avoid any further spread.
+
+3\. When applying management measures and selecting methods to be used, Member States shall have due regard to human health and the environment, especially non-targeted species and their habitats, and shall ensure that, when animals are targeted, they are spared any avoidable pain, distress or suffering, without compromising the effectiveness of the management measures.
+
+4\. The surveillance system provided for in Article 14 shall be designed and used to monitor the effectiveness of eradication, population control or containment measures in minimising the impact on biodiversity, the related ecosystems services and, where applicable, on human health or the economy. The monitoring shall also assess the impact on non-targeted species, as appropriate.
+
+5\. Where there is a significant risk that an invasive alien species of Union concern will spread to another Member State, the Member States in which that species is present shall immediately notify the other Member States and the Commission. Where appropriate, the Member States concerned shall establish jointly agreed management measures. Where third countries may also be affected by the spread, the Member State affected shall endeavour to inform the third countries concerned.
+
+### Article 20 — Restoration of the damaged ecosystems
+
+1\. Member States shall carry out appropriate restoration measures to assist the recovery of an ecosystem that has been degraded, damaged, or destroyed by invasive alien species of Union concern unless a cost-benefit analysis demonstrates, on the basis of the available data and with reasonable certainty, that the costs of those measures will be high and disproportionate to the benefits of restoration.
+
+2\. The restoration measures referred to in paragraph 1 shall include at least the following:
+
+(a) measures to increase the ability of an ecosystem exposed to disturbance caused by the presence of invasive alien species of Union concern to resist, absorb, accommodate to and recover from the effects of disturbance;
+
+(b) measures to support the prevention of reinvasion following an eradication campaign.
+
+## CHAPTER V — HORIZONTAL PROVISIONS
+
+### Article 21 — Costs recovery
+
+In accordance with the polluter pays principle and without prejudice to Directive 2004/35/EC of the European Parliament and of the Council ( 3 ), Member States shall aim to recover the costs of the measures needed to prevent, minimise or mitigate the adverse impact of invasive alien species, including environmental and resources costs as well as the restoration cost.
+
+### Article 22 — Cooperation and coordination
+
+1\. Member States shall, when complying with their obligations under this Regulation, make every effort to ensure close coordination with all Member States concerned and, where practical and appropriate, use existing structures arising from regional or international agreements. In particular, Member States concerned shall endeavour to ensure coordination with other Member States that share:
+
+(a) the same marine subregions in accordance with Article 4(2) of Directive 2008/56/EC, regarding marine species;
+
+(b) the same biogeographical region in accordance with point (iii) of point (c) of Article 1 of Directive 92/43/EEC, regarding non-marine species;
+
+(c) the same borders;
+
+(d) the same river basin in accordance with point (13) of Article 2 of Directive 2000/60/EC, regarding fresh water species; or
+
+(e) any other common concern.
+
+At the request of the Member States involved, the Commission shall act to facilitate the coordination.
+
+2\. Member States shall, when complying with their obligations under this Regulation, endeavour to cooperate with third countries, as appropriate, including by using existing structures arising from regional or international agreements, for the purpose of meeting the objectives of this Regulation.
+
+3\. Member States may also apply provisions, such as those referred to in paragraph 1 of this Article, to ensure coordination and cooperation with other relevant Member States as regards invasive alien species of Member State concern identified in national lists adopted in accordance with Article 12(1). Member States may also establish mechanisms for cooperation at the appropriate level for those invasive alien species. Such mechanisms may include exchange of information and data, action plans on pathways and exchange of best practice on management, control and eradication of invasive alien species, early warning systems and programmes related to public awareness or education.
+
+### Article 23 — More stringent national rules
+
+Member States may maintain or lay down more stringent national rules with the aim of preventing the introduction, establishment and spread of invasive alien species. Those measures shall be compatible with the TFEU and be notified to the Commission in accordance with Union law.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 24 — Reporting and review
+
+1\. By 1 June 2019, and every six years thereafter, Member States shall update and transmit to the Commission the following:
+
+(a) a description, or an updated version thereof, of the surveillance system pursuant to Article 14 and of the official control system on alien species entering the Union pursuant to Article 15;
+
+(b) the distribution of the invasive alien species of Union concern or regional concern in accordance with Article 11(2) present in their territory, including information regarding migratory or reproductive patterns;
+
+(c) information about the species considered as invasive alien species of Member State concern pursuant to Article 12(2);
+
+(d) the action plans referred to in Article 13(2);
+
+(e) aggregated information covering the entire national territory on the eradication measures taken in accordance with Article 17, the management measures undertaken in accordance with Article 19, their effectiveness, and their impact on non-targeted species;
+
+(f) the number of the permits referred to in Article 8 and the purpose for which they were issued;
+
+(g) measures taken to inform the public about the presence of an invasive alien species and any actions that citizens have been requested to take;
+
+(h) the inspections required under Article 8(8); and
+
+(i) information on the cost of action undertaken to comply with this Regulation, when available.
+
+2\. By 5 November 2015, Member States shall notify the Commission and inform the other Member States of the competent authorities in charge of applying this Regulation.
+
+3\. By 1 June 2021, the Commission shall review the application of this Regulation including the Union list, the action plans referred to in Article 13(2), the surveillance system, customs controls, eradication obligation and management obligations, and submit a report to the European Parliament and to the Council, which may be accompanied by legislative proposals for the amendment of this Regulation, including changes to the Union list. That review shall also examine the effectiveness of the implementing provisions on invasive alien species of regional concern, the need for and the feasibility of, including species native to the Union in the Union list and whether further harmonisation is needed to increase the effectiveness of the action plans and measures undertaken by the Member States.
+
+4\. The Commission shall, by means of implementing acts, specify the technical formats for reporting in order to simplify and streamline reporting obligations for the Member States in relation to the information pursuant to paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+
+### Article 25 — Information support system
+
+1\. The Commission shall progressively establish an information support system necessary to facilitate the application of this Regulation.
+
+2\. By 2 January 2016 that system shall include a data support mechanism interconnecting existing data systems on invasive alien species, paying particular attention to information on the invasive alien species of Union concern, so as to facilitate the reporting pursuant to Article 24.
+
+The data support mechanism referred to in the first subparagraph shall become a tool to assist the Commission and the Member States in handling the relevant notifications required by Article 16(2).
+
+3\. By 2 January 2019, the data support mechanism referred to in paragraph 2 shall become a mechanism for exchanging information on other aspects of the application of this Regulation.
+
+It may also include information on invasive alien species of Member State concern, and on pathways, risk assessment, management and eradication measures, when available.
+
+### Article 26 — Public participation
+
+Where action plans are being established pursuant to Article 13 of this Regulation and where management measures are put in place pursuant to Article 19 of this Regulation, Member States shall ensure that the public is given early and effective opportunities to participate in their preparation, modification or review, using the arrangements already determined by the Member States in accordance with the second subparagraph of Article 2(3) of Directive 2003/35/EC.
+
+### Article 27 — Committee
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 and may be assisted in its tasks by the scientific forum referred to in Article 28.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+### Article 28 — Scientific forum
+
+The Commission shall ensure the participation of representatives of the scientific community appointed by the Member States in providing advice on any scientific question related to the application of this Regulation, in particular as regards Articles 4, 5, 10 and 18. Those representatives shall meet in a scientific forum. The rules of procedure of that forum shall be established by the Commission.
+
+### Article 29 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 5(3) shall be conferred on the Commission for a period of five years from 1 January 2015. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 5(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 5(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 30 — Penalties
+
+1\. Member States shall lay down the provisions on penalties applicable to infringements of this Regulation. Member States shall take all the necessary measures to ensure that they are applied.
+
+2\. The penalties provided for shall be effective, proportionate and dissuasive.
+
+3\. The penalties provided may include, inter alia:
+
+(a) fines;
+
+(b) seizure of the non-compliant invasive alien species of Union concern;
+
+(c) immediate suspension or withdrawal of a permit issued in accordance with Article 8.
+
+4\. By 2 January 2016, Member States shall communicate to the Commission the provisions referred to in paragraph 1, and any subsequent amendments without delay.
+
+### Article 31 — Transitional provisions for non-commercial owners
+
+1\. By way of derogation from points (b) and (d) of Article 7(1), owners of companion animals not kept for commercial purposes that belong to the invasive alien species included on the Union list shall be allowed to keep them until the end of the animals' natural life, provided the following conditions are met:
+
+(a) the animals were kept before their inclusion on the Union list;
+
+(b) the animals are kept in contained holding and all appropriate measures are put in place to ensure that reproduction or escape are not possible.
+
+2\. Competent authorities shall take all reasonable steps to inform non-commercial owners of the risks posed by keeping the animals referred to in paragraph 1 and of the measures to be taken to minimise the risk of reproducing and escaping through awareness-raising and education programmes organised by Member States.
+
+3\. Non-commercial owners who cannot ensure that the conditions set out in paragraph 1 are met, shall not be permitted to keep the animals concerned. Member States may offer them the possibility of having their animals taken from them. Where this occurs, due regard to animal welfare shall be given.
+
+4\. The animals referred to in paragraph 3 of this Article may be kept by the establishments referred to in Article 8 or in facilities established by Member States for that purpose.
+
+### Article 32 — Transitional provisions for commercial stocks
+
+1\. Keepers of a commercial stock of specimens of invasive alien species acquired before their inclusion on the Union list shall be allowed up to two years after inclusion of the species on that list to keep and transport live specimens or reproducible parts of those species in order to sell or transfer them to the research or ex-situ conservation establishments and for the purposes of medicinal activities referred to in Article 8, provided that the specimens are kept and transported in contained holding and all appropriate measures are put in place to ensure that reproduction or escape are not possible; or in order to slaughter or humanely cull those specimens to exhaust their stock.
+
+2\. The sale or transfer of live specimens to non-commercial users shall be allowed for one year after inclusion of the species on the Union list provided that the specimens are kept and transported in contained holding and all appropriate measures are put in place to ensure that reproduction or escape are not possible.
+
+3\. Where a permit has been issued in accordance with Article 6 of Regulation (EC) No 708/2007 for an aquaculture species that is subsequently included on the Union list, and the duration of the permit exceeds the period referred to in paragraph 1 of this Article, the Member State shall withdraw the permit in accordance with Article 12 of Regulation (EC) No 708/2007 by the end of the period referred to in paragraph 1 of this Article.
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on 1 January 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2016/2031 of the European Parliament and of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).
+
+( 2 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+( 3 ) Directive 2004/35/EC of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56).

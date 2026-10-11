@@ -1,0 +1,2144 @@
+---
+title: "Regulation (EU) 2022/869 of the European Parliament and of the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013"
+identifier: "32022R0869"
+eli: "http://data.europa.eu/eli/reg/2022/869/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-05-30
+entry_into_force: 2022-10-04
+last_amended: 2026-04-29
+consolidated_version: "02022R0869-20260429"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R0869-20260429"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2022/869 of the European Parliament and of the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013
+
+**REGULATION (EU) 2022/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2022**
+
+**on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1041 of 28 November 2023 </td><td> L 1041</td><td>1</td><td>8.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1789</td><td>1</td><td>15.7.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1991 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 June 2024 </td><td> L 1991</td><td>1</td><td>29.7.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/764 of 1 December 2025 </td><td> L 764</td><td>1</td><td>9.4.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2022/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2022**
+
+**on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013**
+
+## CHAPTER I — General provisions
+
+### Article 1 — Subject matter, objectives and scope
+
+1\. This Regulation lays down guidelines for the timely development and interoperability of the priority corridors and areas of trans-European energy infrastructure (energy infrastructure priority corridors and areas) set out in Annex I that contribute to ensuring climate change mitigation, in particular achieving the Union’s 2030 targets for energy and climate and its climate neutrality objective by 2050 at the latest, and to ensuring interconnections, energy security, market and system integration and competition that benefits all Member States, as well as affordability of energy prices.
+
+2\. In particular, this Regulation:
+
+(a) provides for the identification of projects on the Union list of projects of common interest and of projects of mutual interest established pursuant to Article 3 (Union list);
+
+(b) facilitates the timely implementation of projects on the Union list by streamlining, coordinating more closely and accelerating permit granting processes, and by enhancing transparency and public participation;
+
+(c) provides rules for the cross-border allocation of costs and risk-related incentives for projects on the Union list;
+
+(d) determines the conditions for eligibility of projects on the Union list for Union financial assistance.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, in addition to the definitions in Regulations (EC) No 715/2009, (EU) 2018/1999, (EU) 2019/942 and (EU) 2019/943 and in Directives 2009/73/EC, (EU) 2018/2001 ( 1 ) and (EU) 2019/944, the following definitions apply:
+
+(1) ‘energy infrastructure’ means any physical equipment or facility falling under the energy infrastructure categories which is located within the Union, or linking the Union and one or more third countries;
+
+(2) ‘energy infrastructure bottleneck’ means limitation of physical flows in an energy system due to insufficient transmission capacity, which includes, inter alia, the absence of infrastructure;
+
+(3) ‘comprehensive decision’ means the decision or set of decisions taken by a Member State authority or authorities not including courts or tribunals, that determines whether or not a project promoter is authorised to build the energy infrastructure to realise a project of common interest or a project of mutual interest by having the possibility to start, or procure and start, the necessary construction works (ready-to-build phase) without prejudice to any decision taken in the context of an administrative appeal procedure;
+
+(4) ‘project’ means one or several lines, pipelines, facilities, equipment or installations falling under the energy infrastructure categories set out in Annex II;
+
+(5) ‘project of common interest’ means a project necessary to implement the energy infrastructure priority corridors and areas set out in Annex I and which is on the Union list;
+
+(6) ‘project of mutual interest’ means a project promoted by the Union in cooperation with third countries pursuant to letters of support from the governments of the directly affected countries or other non-binding agreements, which falls under one of the energy infrastructure categories set out in point 1(a) or (f), point 3(a), or point 5(a) or (c) of Annex II, which contributes to the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and which is on the Union list;
+
+(7) ‘competing projects’ means projects that fully or partially address the same identified infrastructure gap or regional infrastructure need;
+
+(8) ‘project promoter’ means one of the following:
+
+(a) a transmission system operator (TSO), a distribution system operator (DSO) or another operator or investor developing a project on the Union list;
+
+(b) in the case of more than one such TSO, DSO, other operator or investor, or any group thereof, the entity with legal personality under the applicable national law which has been designated by contractual arrangement between them and which has the capacity to undertake legal obligations and assume financial liability on behalf of the parties to the contractual arrangement;
+
+(9) ‘smart electricity grid’ means an electricity network, including on islands that are not interconnected or not sufficiently connected to the trans-European energy networks, that enables cost-efficient integration and active control of the behaviour and actions of all users connected to it, including generators, consumers and prosumers, in order to ensure an economically efficient and sustainable power system with low losses and a high level of integration of renewable sources, of security of supply and of safety, and in which the grid operator can digitally monitor the actions of the users connected to it, and information and communication technologies for communicating with related grid operators, generators, energy storage facilities, and consumers or prosumers, with a view to transmitting and distributing electricity in a sustainable, cost-efficient and secure way;
+
+(10) ‘smart gas grid’ means a gas network that makes use of innovative and digital solutions to integrate in a cost-efficient manner a plurality of low-carbon and particularly renewable gas sources in accordance with consumers’ needs and gas quality requirements in order to reduce the carbon footprint of the related gas consumption, enable an increased share of renewable and low-carbon gases, and create links with other energy carriers and sectors, including the related physical upgrades if they are indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases;
+
+(11) ‘authority concerned’ means an authority that, under national law, is competent to issue various permits and authorisations related to the planning, design and construction of immovable assets, including energy infrastructure;
+
+(12) ‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC or a regulatory authority at national level designated in accordance with Article 57 of Directive (EU) 2019/944;
+
+(13) ‘relevant national regulatory authority’ means the national regulatory authority in the Member States hosting the projects and in Member States to which the project provides a significant positive impact;
+
+(14) ‘works’ means the purchase, supply and deployment of components, systems and services including software, the carrying out of development, repurposing and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;
+
+(15) ‘studies’ means activities needed to prepare project implementation, such as preparatory, feasibility, evaluation, testing and validation studies, including software, and any other technical support measure including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;
+
+(16) ‘commissioning’ means the process of bringing a project into operation once it has been constructed;
+
+(17) ‘dedicated hydrogen assets’ means infrastructure ready to accommodate pure hydrogen without further adaptation works, including pipeline networks or storage facilities that are newly constructed, repurposed from natural gas assets, or both;
+
+(18) ‘repurposing’ means the technical upgrading or modification of existing natural gas infrastructure in order to ensure that it is dedicated for the use of pure hydrogen;
+
+(19) ‘climate adaptation’ means a process that ensures that resilience to the potential adverse impacts of climate change of energy infrastructure is achieved through a climate vulnerability and risk assessment, including through relevant adaptation measures.
+
+## CHAPTER II — Projects of common interest and projects of mutual interest
+
+### Article 3 — Union list of projects of common interest and projects of mutual interest
+
+1\. Regional groups (Groups) shall be established in accordance with the process set out in Section 1 of Annex III. The membership of each Group shall be based on each priority corridor and area and their respective geographical coverage as set out in Annex I. Decision-making power in the Groups shall be restricted to Member States and the Commission (decision-making body), and based on consensus.
+
+2\. Each Group shall adopt its own rules of procedure, having regard to the provisions set out in Annex III.
+
+3\. The decision-making body of each Group shall adopt a regional list of projects drawn up in accordance with the process set out in Section 2 of Annex III, the contribution of each project to implementing the energy infrastructure priority corridors and areas set out in Annex I and their fulfilment of the criteria set out in Article 4.
+
+Where a Group draws up its regional list:
+
+(a) each individual proposal for a project shall require the approval of the Member States to whose territory the project relates; where a Member State does not give its approval, it shall present its substantiated reasons for doing so to the Group concerned;
+
+(b) it shall take into account the advice from the Commission with the aim of having a manageable total number of projects on the Union list.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 20 of this Regulation in order to establish the Union list, subject to the second paragraph of Article 172 TFEU.
+
+In exercising its power, the Commission shall ensure that the Union list is established every two years, on the basis of the regional lists adopted by the decision-making bodies of the Groups established pursuant to Section 1, point (1), of Annex III, following the procedure set out in paragraph 3 of this Article.
+
+The Commission shall adopt the delegated act establishing the first Union list pursuant to this Regulation by 30 November 2023.
+
+If a delegated act adopted by the Commission pursuant to this paragraph cannot enter into force due to an objection expressed either by the European Parliament or the Council pursuant to Article 20(6), the Commission shall immediately convene the Groups in order to draw up new regional lists taking into account the reasons for the objection. The Commission shall adopt a new delegated act establishing the Union list as soon as possible.
+
+5\. When establishing the Union list by combining the regional lists referred to in paragraph 3, the Commission shall, taking due account of the deliberations of the Groups:
+
+(a) ensure that only projects that fulfil the criteria referred to in Article 4 are included;
+
+(b) ensure cross-regional consistency, taking into account the opinion of the Agency as referred to in Section 2, point (14), of Annex III;
+
+(c) take into account the opinions of Member States referred to in Section 2, point (10), of Annex III;
+
+(d) aim to ensure a manageable total number of projects on the Union list.
+
+6\. Projects of common interest that fall under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II to this Regulation shall become an integral part of the relevant regional investment plans under Article 34 of Regulation (EU) 2019/943 and of the relevant national ten-year network development plans under Article 51 of Directive (EU) 2019/944 and other national infrastructure plans, as appropriate. Those projects of common interest shall be conferred the highest possible priority within each of those plans. This paragraph shall not apply to competing projects, projects that have not reached a sufficient degree of maturity to provide a project-specific cost-benefit analysis as referred to in Section 2, point (1)(d), of Annex III or projects of mutual interest.
+
+7\. Projects of common interest that fall under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II and that are competing projects or projects that have not reached a sufficient degree of maturity to provide a project-specific cost-benefit analysis as referred to in Section 2, point (1)(d), of Annex III may be included in the relevant regional investment plans, the national ten-year network development plans and other national infrastructure plans, as appropriate, as projects under consideration.
+
+### Article 4 — Criteria for the assessment of projects by the Groups
+
+1\. A project of common interest shall meet the following general criteria:
+
+(a) the project is necessary for at least one of the energy infrastructure priority corridors and areas set out in Annex I;
+
+(b) the potential overall benefits of the project, assessed in accordance with the relevant specific criteria in paragraph 3, outweigh its costs, including in the longer term;
+
+(c) the project meets any of the following criteria:
+
+(i) it involves at least two Member States by directly or indirectly, via interconnection with a third country, crossing the border of two or more Member States;
+
+(ii) it is located on the territory of one Member State, either inland or offshore, including islands, and has a significant cross-border impact as set out in point (1) of Annex IV.
+
+2\. A project of mutual interest shall meet the following general criteria:
+
+(a) the project contributes significantly to the objectives referred to in Article 1(1), and those of the third country, in particular by not hindering the capacity of the third country to phase out fossil fuel generation assets for its domestic consumption, and to sustainability, including through the integration of renewable energy into the grid and the transmission and distribution of renewable generation to major consumption centres and storage sites;
+
+(b) the potential overall benefits of the project at Union level, assessed in accordance with the relevant specific criteria in paragraph 3, outweigh its costs within the Union, including in the longer term;
+
+(c) the project is located on the territory of at least one Member State and on the territory of at least one third country and has a significant cross-border impact as set out in point (2) of Annex IV;
+
+(d) for the part located on Member State territory, the project is in line with Directives 2009/73/EC and (EU) 2019/944 where it falls within the infrastructure categories set out in points (1) and (3) of Annex II to this Regulation;
+
+(e) there is a high level of convergence of the policy framework of the third country or countries involved and legal enforcement mechanisms to support the policy objectives of the Union are demonstrated, in particular to ensure:
+
+(i) a well-functioning internal energy market;
+
+(ii) security of supply based, inter alia, on diverse sources, cooperation and solidarity;
+
+(iii) an energy system, including production, transmission and distribution, moving towards the objective of climate neutrality, in line with the Paris Agreement and the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, in particular, avoiding carbon leakage;
+
+(f) the third country or countries involved support the priority status of the project, as set out in Article 7, and commit to complying with a similar timeline for accelerated implementation and other policy and regulatory support measures as applies to projects of common interest in the Union.
+
+As regards projects for the storage of carbon dioxide falling under the energy infrastructure category set out in point (5)(c) of Annex II, the project shall be necessary to allow the cross-border transport and storage of carbon dioxide and the third country where the project is located shall have an adequate legal framework based on demonstrated effective enforcement mechanisms to ensure that standards and safeguards apply to the project, preventing any carbon dioxide leaks, and concerning climate, human health and ecosystems as regards the safety and effectiveness of the permanent storage of carbon-dioxide, which are at least at the same level as those provided by Union law.
+
+3\. The following specific criteria shall apply to projects of common interest falling within specific energy infrastructure categories:
+
+(a) for electricity transmission, distribution and storage projects falling under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II, the project contributes significantly to sustainability through the integration of renewable energy into the grid, the transmission or distribution of renewable generation to major consumption centres and storage sites, and to reducing energy curtailment, where applicable, and contributes to at least one of the following specific criteria:
+
+(i) market integration, including through lifting the energy isolation of at least one Member State and reducing energy infrastructure bottlenecks, competition, interoperability and system flexibility;
+
+(ii) security of supply, including through interoperability, system flexibility, cybersecurity, appropriate connections and secure and reliable system operation;
+
+(b) for smart electricity grid projects falling under the energy infrastructure category set out in point (1)(e) of Annex II, the project contributes significantly to sustainability through the integration of renewable energy into the grid, and contributes to at least two of the following specific criteria:
+
+(i) security of supply, including through efficiency and interoperability of electricity transmission and distribution in day-to-day network operation, avoidance of congestion, and integration and involvement of network users;
+
+(ii) market integration, including through efficient system operation and use of interconnectors;
+
+(iii) network security, flexibility and quality of supply, including through higher uptake of innovation in balancing, flexibility markets, cybersecurity, monitoring, system control and error correction;
+
+(iv) smart sector integration, either in the energy system through linking various energy carriers and sectors, or in a wider way, favouring synergies and coordination between the energy, transport and telecommunication sectors;
+
+(c) for carbon dioxide transport and storage projects falling under the energy infrastructure categories set out in point (5) of Annex II, the project contributes significantly to sustainability through the reduction of carbon dioxide emissions in the connected industrial installations and contributes to all of the following specific criteria:
+
+(i) avoiding carbon dioxide emissions while maintaining security of supply;
+
+(ii) increasing the resilience and security of transport and storage of carbon dioxide;
+
+(iii) the efficient use of resources, by enabling the connection of multiple carbon dioxide sources and storage sites via common infrastructure and minimising environmental burden and risks;
+
+(d) for hydrogen projects falling under the energy infrastructure categories set out in point (3) of Annex II, the project contributes significantly to sustainability, including by reducing greenhouse gas emissions, by enhancing the deployment of renewable or low carbon hydrogen, with an emphasis on hydrogen from renewable sources in particular in end-use applications, such as hard-to-abate sectors, in which more energy efficient solutions are not feasible, and supporting variable renewable power generation by offering flexibility, storage solutions, or both, and the project contributes significantly to at least one of the following specific criteria:
+
+(i) market integration, including by connecting existing or emerging hydrogen networks of Member States, or otherwise contributing to the emergence of an Union-wide network for the transport and storage of hydrogen, and ensuring interoperability of connected systems;
+
+(ii) security of supply and flexibility, including through appropriate connections and facilitating secure and reliable system operation;
+
+(iii) competition, including by allowing access to multiple supply sources and network users on a transparent and non-discriminatory basis;
+
+(e) for electrolysers falling under the energy infrastructure category set out in point (4) of Annex II, the project contributes significantly to all of the following specific criteria:
+
+(i) sustainability, including by reducing greenhouse gas emissions and enhancing the deployment of renewable or low-carbon hydrogen in particular from renewable sources, as well as synthetic fuels of those origins;
+
+(ii) security of supply, including by contributing to secure, efficient and reliable system operation, or by offering storage, flexibility solutions, or both, such as demand side response and balancing services;
+
+(iii) enabling flexibility services such as demand response and storage by facilitating smart energy sector integration through the creation of links to other energy carriers and sectors;
+
+(f) for smart gas grid projects falling under the energy infrastructure category set out in point (2) of Annex II, the project contributes significantly to sustainability by ensuring the integration of a plurality of low-carbon and particularly renewable gases, including where they are locally sourced, such as biomethane or renewable hydrogen, into the gas transmission, distribution or storage systems in order to reduce greenhouse gas emissions, and that project contributes significantly to at least one of the following specific criteria:
+
+(i) network security and quality of supply by improving the efficiency and interoperability of gas transmission, distribution or storage systems in day-to-day network operation by, inter alia, addressing challenges arising from the injection of gases of various qualities;
+
+(ii) market functioning and customer services;
+
+(iii) facilitating smart energy sector integration through the creation of links to other energy carriers and sectors and enabling demand response.
+
+4\. For projects falling under the energy infrastructure categories set out in Annex II, the criteria set out in paragraph 3 of this Article shall be assessed in accordance with the indicators set out in points (3) to (8) of Annex IV.
+
+5\. In order to facilitate the assessment of all projects that could be eligible as projects of common interest and that could be included in a regional list, each Group shall assess each project’s contribution to the implementation of the same energy infrastructure priority corridor or area in a transparent and objective manner. Each Group shall determine its assessment method on the basis of the aggregated contribution to the criteria referred to in paragraph 3. That assessment shall lead to a ranking of projects for internal use of the Group. Neither the regional list nor the Union list shall contain any ranking, nor shall the ranking be used for any subsequent purpose except as described in Section 2, point (16), of Annex III.
+
+In assessing projects, in order to ensure a consistent assessment approach among the Groups, each Group shall give due consideration to:
+
+(a) the urgency and the contribution of each proposed project in order to meet the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, market integration, competition, sustainability, and security of supply;
+
+(b) the complementarity of each proposed project with other proposed projects, including competing or potentially competing projects;
+
+(c) possible synergies with priority corridors and thematic areas identified under trans-European networks for transport and telecommunications;
+
+(d) for proposed projects that are, at the time of the assessment, projects on the Union list, the progress of their implementation and their compliance with the reporting and transparency obligations.
+
+As regards smart electricity grids and smart gas grids projects falling under the energy infrastructure categories set out in point (1)(e) and point (2) of Annex II, ranking shall be carried out for those projects that affect the same two Member States, and due consideration shall also be given to the number of users affected by the project, the annual energy consumption and the share of generation from non-dispatchable resources in the area covered by those users.
+
+### Article 5 — Implementation and monitoring of projects on the Union list
+
+1\. Project promoters shall draw up an implementation plan for projects on the Union list, including a timetable for each of the following:
+
+(a) feasibility and design studies including, as regards, climate adaptation and compliance with environmental legislation and with the doing ‘no significant harm’ principle;
+
+(b) approval by the national regulatory authority or by any other authority concerned;
+
+(c) construction and commissioning;
+
+(d) the permit granting process referred to in Article 10(6), point (b).
+
+2\. TSOs, DSOs and other operators shall cooperate with each other in order to facilitate the development of projects on the Union list in their area.
+
+3\. The Agency and the Groups concerned shall monitor the progress achieved in implementing the projects on the Union list and, where necessary, make recommendations to facilitate their implementation. The Groups may request additional information in accordance with paragraphs 4, 5 and 6, convene meetings with the relevant parties and invite the Commission to verify the information provided on site.
+
+4\. By 31 December of each year following the year of the inclusion of a project on the Union list, project promoters shall submit an annual report, for each project falling under the energy infrastructure categories set out in Annex II, to the national competent authority referred to in Article 8(1).
+
+That report shall include details of:
+
+(a) the progress achieved in the development, construction and commissioning of the project, in particular with regard to the permit granting process and the consultation procedure, as well as compliance with environmental legislation, with the principle that the project does ‘no significant harm’ to the environment, and climate adaptation measures taken;
+
+(b) where relevant, delays compared to the implementation plan, the reasons for such delays and other difficulties encountered;
+
+(c) where relevant, a revised plan aiming to overcome the delays.
+
+5\. By 28 of February of each year following the year in which the project promoter has to submit the report referred to in paragraph 4 of this Article, the competent authorities referred to in Article 8(1) shall submit to the Agency and to the relevant Group the report referred to in paragraph 4 of this Article supplemented with information on the progress and, where relevant, on delays in the implementation of projects on the Union list located on their respective territory with regard to the permit granting processes, and on the reasons for such delays. The contribution of the competent authorities to the report shall be clearly marked as such and drafted without modifying the text introduced by the project promoters.
+
+6\. By 30 April of each year in which a new Union list should be adopted, the Agency shall submit to the Groups a consolidated report for the projects on the Union list that are subject to the competence of national regulatory authorities, evaluating the progress achieved and expected changes in project costs, and, where appropriate, make recommendations on how to overcome the delays and difficulties encountered. That consolidated report shall also evaluate, in accordance with Article 11, point (b), of Regulation (EU) 2019/942, the consistent implementation of the Union-wide network development plans with regard to the energy infrastructure priority corridors and areas set out in Annex I.
+
+In duly justified cases, the Agency may request additional information necessary for carrying out its tasks set out in this paragraph.
+
+7\. Where the commissioning of a project on the Union list is delayed when compared to the implementation plan, other than for overriding reasons beyond the control of the project promoter, the following measures shall apply:
+
+(a) in so far as measures referred to in Article 22(7), point (a), (b) or (c) of Directive 2009/73/EC and Article 51(7), point (a), (b) or (c) of Directive (EU) 2019/944 are applicable in accordance with respective national law, national regulatory authorities shall ensure that the investment is carried out;
+
+(b) if the measures of national regulatory authorities pursuant to point (a) are not applicable, the project promoter shall, within 24 months of the date of commissioning set out in the implementation plan, choose a third party to finance or construct all or part of the project;
+
+(c) if a third party is not chosen in accordance with point (b), the Member State or, when the Member State has so provided, the national regulatory authority may, within two months of the expiry of the period referred to in point (b), designate a third party to finance or construct the project which the project promoter shall accept;
+
+(d) where the delay compared to the date of commissioning in the implementation plan exceeds 26 months, the Commission, subject to the agreement and with the full cooperation of the Member States concerned, may launch a call for proposals open to any third party capable of becoming a project promoter to build the project in accordance with an agreed timetable;
+
+(e) where measures referred to in point (c) or (d) are applied, the system operator in whose area the investment is located shall provide the implementing operators or investors or third party with all the information needed to realise the investment, shall connect new assets to the transmission network or, where applicable, the distribution network and shall generally make its best efforts to facilitate the implementation of the investment and the secure, reliable and efficient operation and maintenance of the project on the Union list.
+
+8\. A project on the Union list may be removed from the Union list in accordance with the procedure set out in Article 3(4) if its inclusion in that list was based on incorrect information which was a determining factor for that inclusion, or the project does not comply with Union law.
+
+9\. Projects which are no longer on the Union list shall lose all rights and obligations linked to the status of project of common interest or project of mutual interest provided for in this Regulation.
+
+However, a project which is no longer on the Union list but for which an application file has been accepted for examination by the competent authority shall maintain the rights and obligations laid down in Chapter III, except where the project has been removed from the Union list for the reasons set out in paragraph 8 of this Article.
+
+10\. This Article shall be without prejudice to any Union financial assistance granted to any project on the Union list prior to its removal from the Union list.
+
+### Article 6 — European coordinators
+
+1\. Where a project of common interest encounters significant implementation difficulties, the Commission may designate, in agreement with the Member States concerned, a European coordinator for a period of up to one year, renewable twice.
+
+2\. The European coordinator shall:
+
+(a) promote the projects, for which he or she has been designated as a European coordinator and the cross-border dialogue between the project promoters and all stakeholders concerned;
+
+(b) assist all parties as necessary in consulting the stakeholders concerned, discussing alternative routing, where appropriate, and obtaining necessary permits for the projects;
+
+(c) where appropriate, advise project promoters on the financing of the project;
+
+(d) ensure that appropriate support and strategic direction by the Member States concerned are provided for the preparation and implementation of the projects;
+
+(e) submit every year, and, where appropriate, upon completion of their mandate, a report to the Commission on the progress of the projects and on any difficulties and obstacles which are likely to significantly delay the commissioning date of the projects.
+
+The Commission shall transmit the report of the European coordinator referred to in point (e) to the European Parliament and the Groups concerned.
+
+3\. The European coordinator shall be chosen following an open, non-discriminatory and transparent process and on the basis of a candidate’s experience with regard to the specific tasks assigned to him or her for the projects concerned.
+
+4\. The decision designating the European coordinator shall specify the terms of reference, detailing the duration of the mandate, the specific tasks and corresponding deadlines, and the methodology to be followed. The coordination effort shall be proportionate to the complexity and estimated costs of the projects.
+
+5\. The Member States concerned shall fully cooperate with the European coordinator in the execution of the tasks referred to in paragraphs 2 and 4.
+
+## CHAPTER III — Permit granting and public participation
+
+### Article 7 — Priority status of projects on the Union list
+
+1\. The adoption of the Union list shall establish, for the purposes of any decisions issued in the permit granting process, the necessity of projects on the Union list from an energy policy and climate perspective, without prejudice to the exact location, routing or technology of the project.
+
+This paragraph shall not apply to competing projects or to projects that have not reached a sufficient degree of maturity to provide a project specific cost-benefit analysis as referred to in Section 2, point (1)(d), of Annex III.
+
+2\. For the purpose of ensuring efficient administrative processing of the application files related to projects on the Union list, project promoters and all authorities concerned shall ensure that those files are treated in the most rapid way possible in accordance with Union and national law.
+
+3\. Without prejudice to obligations provided for in Union law, projects on the Union list shall be granted the status of the highest national significance possible, where such a status exists in national law, and be appropriately treated in the permit granting processes and, if national law so provides, in spatial planning, including those processes relating to environmental assessments, in the manner such treatment is provided for in national law applicable to the corresponding type of energy infrastructure.
+
+4\. All dispute resolution procedures, litigation, appeals and judicial remedies related to projects on the Union list in front of any national courts, tribunals, panels, including mediation or arbitration, where they exist in national law, shall be treated as urgent, if and to the extent to which national law provides for such urgency procedures.
+
+5\. Member States shall assess, taking due account of the existing guidance issued by the Commission on streamlining the environmental assessment procedures for projects on the Union list, which legislative and non-legislative measures are necessary to streamline the environmental assessment procedures and to ensure their coherent application and shall inform the Commission of the result of that assessment.
+
+6\. By 24 March 2023, Member States shall take the non-legislative measures that they have identified under paragraph 5.
+
+7\. By 24 June 2023, Member States shall take the legislative measures that they have identified under paragraph 5. Those legislative measures shall be without prejudice to obligations provided for in Union law.
+
+8\. With regard to the environmental impacts addressed in Article 6(4) of Directive 92/43/EEC, Article 4(7) of Directive 2000/60/EC and Article 4(14) and (15) and Article 5(11) and (12) of Regulation (EU) 2024/1991 of the European Parliament and of the Council ( 2 ), provided that all the conditions set out in those Directives and that Regulation are fulfilled, projects on the Union list shall be considered as being of public interest from an energy policy perspective, and may be considered as having an overriding public interest.
+
+Where the opinion of the Commission is required in accordance with Directive 92/43/EEC, the Commission and the national competent authority referred to in Article 9 of this Regulation shall ensure that the decision with regard to the overriding public interest of a project is taken within the time limits set in Article 10(1) and (2) of this Regulation.
+
+This paragraph shall not apply to competing projects or to projects that have not reached a sufficient degree of maturity to provide a project specific cost-benefit analysis as referred to in Section 2, point (1)(d), of Annex III.
+
+### Article 8 — Organisation of the permit granting process
+
+1\. By 23 June 2022, each Member State shall update, where necessary, the designation of one national competent authority which shall be responsible for facilitating and coordinating the permit granting process for projects on the Union list.
+
+2\. The responsibilities of the national competent authority referred to in paragraph 1 or the tasks related to it may be delegated to, or carried out by, another authority, per project on the Union list or per particular category of projects on the Union list, provided that:
+
+(a) the national competent authority notifies the Commission of that delegation and the information therein is published by either the national competent authority or the project promoter on the website referred to in Article 9(7);
+
+(b) only one authority is responsible per project on the Union list, and it is the sole point of contact for the project promoter in the process leading to the comprehensive decision for a given project on the Union list, and coordinates the submission of all relevant documents and information.
+
+The national competent authority may retain the responsibility to establish time limits, without prejudice to the time limits set in Article 10(1) and (2).
+
+3\. Without prejudice to relevant requirements under Union and international law and, to the extent it does not contradict them, national law, the national competent authority shall facilitate the issuing of the comprehensive decision. The comprehensive decision shall be issued within the time limits set in Article 10(1) and (2) and in accordance with one of the following schemes:
+
+(a) integrated scheme:
+
+the comprehensive decision shall be issued by the national competent authority and shall be the sole legally binding decision arising from the statutory permit granting procedure. Where other authorities are concerned by the project, they may, in accordance with national law, give their opinion as input to the procedure, which shall be taken into account by the national competent authority;
+
+(b) coordinated scheme:
+
+the comprehensive decision comprises multiple individual legally binding decisions issued by several authorities concerned, which shall be coordinated by the national competent authority. The national competent authority may establish a working group where all concerned authorities are represented in order to draw up a detailed schedule for the permit granting process in accordance with Article 10(6), point (b), and to monitor and coordinate its implementation. The national competent authority shall, after consulting the other authorities concerned, where applicable in accordance with national law, and without prejudice to time limits set in Article 10(1) and (2), establish on a case-by-case basis a reasonable time limit within which the individual decisions shall be issued. The national competent authority may take an individual decision on behalf of another national authority concerned, where the decision by that authority is not delivered within the time limit and where the delay cannot be adequately justified; or, where provided under national law, and to the extent that this is compatible with Union law, the national competent authority may consider that another national authority concerned has either given its approval or refusal for the project where the decision by that authority is not delivered within the time limit. Where provided under national law, the national competent authority may disregard an individual decision of another national authority concerned if it considers that the decision is not sufficiently substantiated with regard to the underlying evidence presented by the national authority concerned; in doing so, the national competent authority shall ensure that the relevant requirements under Union and international law are respected and shall provide reasons for its decision;
+
+(c) collaborative scheme:
+
+the comprehensive decision shall be coordinated by the national competent authority. The national competent authority shall, after consulting the other authorities concerned, where applicable in accordance with national law, and without prejudice to time limits set in Article 10(1) and (2), establish on a case-by-case basis a reasonable time limit within which the individual decisions shall be issued. It shall monitor compliance with the time limits by the authorities concerned.
+
+Member States shall implement the schemes in a manner which, according to national law, contributes to the most efficient and timely issuing of the comprehensive decision.
+
+The competence of the authorities concerned can either be incorporated into the competence of the national competent authority designated in accordance with paragraph 1 or the authorities concerned can maintain, to a certain extent, their independent competence in line with the respective permitting scheme chosen by the Member State in accordance with this paragraph to facilitate the issuing of the comprehensive decision and cooperate with the national competent authority accordingly.
+
+Where an authority concerned does not expect to deliver an individual decision within the set time limit, that authority shall immediately inform the national competent authority, providing reasons for the delay. Subsequently, the national competent authority shall set another time limit within which that individual decision shall be issued, in compliance with the overall time limits set in Article 10(1) and (2).
+
+Member States shall choose among the three schemes referred to in points (a), (b) and (c) of the first subparagraph to facilitate and coordinate their procedures and shall implement the scheme which is most effective for them in light of national specificities in their planning and permit granting processes. Where a Member State chooses the collaborative scheme, it shall inform the Commission of its reasons.
+
+4\. Member States may apply the schemes set out in paragraph 3 to onshore and offshore projects on the Union list.
+
+5\. Where a project on the Union list requires decisions to be taken in two or more Member States, the relevant national competent authorities shall take all necessary steps for efficient and effective cooperation and communication among themselves, including the steps referred to in Article 10(6). Member States shall endeavour to provide joint procedures, particularly with regard to the assessment of environmental impacts.
+
+6\. The relevant national competent authorities of the Member States involved in a project on the Union list belonging to one of the priority offshore grid corridors set out in Section 2 of Annex I shall jointly designate among themselves a unique point of contact for project promoters per project, which shall be responsible for facilitating the exchange of information between the national competent authorities on the permit granting process of the project, with the aim of facilitating that process as well as the issuance of decisions by the relevant national competent authorities. The unique points of contact may act as a repository aggregating the existing documents pertaining to the projects.
+
+### Article 9 — Transparency and public participation
+
+1\. By 24 October 2023, the Member State or national competent authority shall, where applicable, in collaboration with other authorities concerned, publish an updated manual of procedures for the permit granting process applicable to projects on the Union list to include at least the information specified in point (1) of Annex VI. The manual shall not be legally binding, but it shall refer to or quote relevant legal provisions. The national competent authorities shall, where relevant, cooperate and find synergies with the authorities of neighbouring countries with a view to exchanging good practices and facilitating the permit granting process, in particular for the development of the manual of procedures.
+
+2\. Without prejudice to environmental law and any requirements under the Aarhus Convention, the Espoo Convention and relevant Union law, all parties involved in the permit granting process shall follow the principles for public participation set out in point (3) of Annex VI.
+
+3\. The project promoter shall, within an indicative period of three months following the start of the permit granting process pursuant to Article 10(3), draw up and submit a concept for public participation to the national competent authority, following the process outlined in the manual referred to in paragraph 1 of this Article and in line with the guidelines set out in Annex VI. The national competent authority shall request modifications or approve the concept for public participation within three months of receipt of the concept, taking into consideration any form of public participation and consultation that took place before the start of the permit granting process, to the extent that such public participation and consultation has fulfilled the requirements of this Article.
+
+Where the project promoter intends to make significant changes to an approved concept for public participation, it shall inform the national competent authority thereof. In that case the national competent authority may request modifications.
+
+4\. Where it is not already required under national law at the same or higher standards, the project promoter or, where required by national law, the national competent authority shall carry out at least one public consultation, before the project promoter submits the final and complete application file to the national competent authority pursuant to Article 10(7). That public consultation shall be without prejudice to any public consultation to be carried out after submission of the request for development consent pursuant to Article 6(2) of Directive 2011/92/EU. The public consultation shall inform the stakeholders referred to in point (3)(a) of Annex VI about the project at an early stage and shall help to identify the most suitable location, trajectory or technology, including, where relevant, in view of adequate climate adaptation considerations for the project, all impacts relevant under Union and national law, and the relevant issues to be addressed in the application file. The public consultation shall comply with the minimum requirements set out in point (5) of Annex VI. Without prejudice to the procedural and transparency rules in Member States, the project promoter shall publish on the website referred to in paragraph 7 of this Article a report explaining how the opinions expressed in the public consultations were taken into account by showing the amendments made in the location, trajectory and design of the project, or by providing reasons why such opinions have not been taken into account.
+
+The project promoter shall prepare a report summarising the results of activities related to the participation of the public prior to the submission of the application file, including those activities that took place before the start of the permit granting process.
+
+The project promoter shall submit the reports referred to in the first and second subparagraphs together with the application file to the national competent authority. The comprehensive decision shall take due account of the results of these reports.
+
+5\. For cross-border projects involving two or more Member States, the public consultations carried out pursuant to paragraph 4 in each of the Member States concerned shall take place within a period of no more than two months from the date on which the first public consultation started.
+
+6\. For projects likely to have a significant transboundary impact in one or more neighbouring Member States, to which Article 7 of Directive 2011/92/EU and the Espoo Convention are applicable, the relevant information shall be made available to the national competent authorities of the neighbouring Member States concerned. The national competent authorities of the neighbouring Member States concerned shall indicate, in the notification process where appropriate, whether they, or any other authority concerned, wishes to participate in the relevant public consultation procedures.
+
+7\. The project promoter shall establish and regularly update a dedicated project website with relevant information about the project of common interest, which shall be linked to the Commission website and the transparency platform referred to in Article 23 and which shall meet the requirements specified in point (6) of Annex VI. Commercially sensitive information shall be kept confidential.
+
+Project promoters shall also publish relevant information by other appropriate information means open to the public.
+
+### Article 10 — Duration and implementation of the permit granting process
+
+1\. The permit granting process shall consist of two procedures:
+
+(a) the pre-application procedure, covering the period between the start of the permit granting process and the acceptance of the submitted application file by the national competent authority, which shall take place within an indicative period of 24 months; and
+
+(b) the statutory permit granting procedure, covering the period from the date of acceptance of the submitted application file until the taking of the comprehensive decision, which shall not exceed 18 months.
+
+With regard to point (b) of the first subparagraph, where appropriate, Member States may provide for a statutory permit granting procedure that is shorter than 18 months.
+
+2\. The national competent authority shall ensure that the combined duration of the two procedures referred to in paragraph 1 does not exceed a period of 42 months.
+
+However, where the national competent authority considers that one or both of the procedures will not be completed within the time limits set in paragraph 1, it may extend one or both of those time limits before their expiry and on a case-by-case basis. The national competent authority shall not extend the combined duration of the two procedures for more than nine months other than in exceptional circumstances.
+
+Where the national competent authority extends the time limits, it shall inform the Group concerned and present it with the measures taken, or to be taken, for the conclusion of the permit granting process, with the least possible delay. The Group may request that the national competent authority reports regularly on progress achieved in that regard and reasons for any delays.
+
+3\. For the purpose of establishing the start of the permit granting process, the project promoters shall notify the project to the national competent authority of each Member State concerned in written form and shall include a reasonably detailed outline of the project.
+
+Within three months of receipt of the notification, the national competent authority shall acknowledge or, if it considers the project not to be mature enough to enter the permit granting process, reject the notification, in writing, including on behalf of other authorities concerned. In the event of a rejection, the national competent authority shall provide reasons for its decision, including on behalf of other authorities concerned. The date of signature of the acknowledgement of the notification by the national competent authority shall mark the start of the permit granting process. Where two or more Member States are concerned, the date of the acceptance of the last notification by the national competent authority concerned shall mark the start of the permit granting process.
+
+The national competent authorities shall ensure that the permit granting process is accelerated in line with this Chapter for each category of projects of common interest. To that end, the national competent authorities shall adapt their requirements for the start of the permit granting process and for the acceptance of the submitted application file, to make them fit for projects that due to their nature, dimension or lack of requirement for environmental assessment under national law, may require less authorisations and approvals for reaching the ready-to-build phase. Member States may decide that the pre-application procedure referred to in paragraphs 1 and 6 of this Article is not required for the projects referred to in this subparagraph.
+
+4\. The national competent authorities shall take into consideration in the permit granting process any valid studies conducted and permits or authorisations issued for a given project on the Union list before the project entered the permit granting process in accordance with this Article, and shall not require duplicate studies and permits or authorisations.
+
+5\. In Member States where the determination of a route or location undertaken solely for the specific purpose of a planned project, including the planning of specific corridors for grid infrastructures, cannot be included in the process leading to the comprehensive decision, the corresponding decision shall be taken within a separate period of six months, starting on the date of submission of the final and complete application documents by the promoter.
+
+In the circumstances described in the first subparagraph of this paragraph, the extension referred to in paragraph 2, second subparagraph, shall be reduced to six months, other than in exceptional circumstances, including for the procedure referred to in this paragraph.
+
+6\. The pre-application procedure shall comprise the following steps:
+
+(a) as soon as possible and no later than 6 months of the notification pursuant to first subparagraph of paragraph 3, the national competent authority shall determine, on the basis of the checklist referred to in point (1)(e) of Annex VI, and in close cooperation with the other authorities concerned, and where appropriate on the basis of a proposal by the project promoter, the scope of the reports and documents and the level of detail of information to be submitted by the project promoter, as part of the application file, to apply for the comprehensive decision;
+
+(b) the national competent authority shall draw up, in close cooperation with the project promoter and other authorities concerned and taking into account the results of the activities carried out under point (a) of this paragraph, a detailed schedule for the permit granting process in line with the guidelines set out in point (2) of Annex VI;
+
+(c) upon receipt of the draft application file, the national competent authority shall, where necessary, on its own behalf or on behalf of other authorities concerned, request the project promoter to submit missing information relating to the requested elements referred to in point (a).
+
+The pre-application procedure shall include the preparation of any environmental reports by the project promoters, as necessary, including the climate adaptation documentation.
+
+Within three months of submission of the missing information referred to in point (c) of the first subparagraph, the competent authority shall accept for examination the application in written form or on digital platforms, starting the statutory permit granting procedure referred to in paragraph 1, point (b). Requests for additional information may be made, but only where they are justified by new circumstances.
+
+7\. The project promoter shall ensure that the application file is complete and adequate and seek the national competent authority’s opinion on that matter as early as possible during the permit granting process. The project promoter shall cooperate fully with the national competent authority in order to comply with the time limits set in this Regulation.
+
+8\. Member States shall endeavour to ensure that any amendments to the national law do not lead to prolonging any permit granting process started before the entry into force of those amendments. With a view of maintaining an accelerated permit granting process for projects on the Union list, national competent authorities shall adequately adapt the schedule established in line with paragraph 6, point (b), of this Article to ensure, to the extent possible, that the time limits for the permit granting process set in this Article are not exceeded.
+
+9\. The time limits set in this Article shall be without prejudice to obligations arising from Union and international law, and without prejudice to administrative appeal procedures and judicial remedies before a court or tribunal.
+
+The time limits set in this Article for any of the permit granting procedures shall be without prejudice to any shorter time limits set by Member States.
+
+## CHAPTER IV — Cross-sectoral infrastructure planning
+
+### Article 11 — Energy system wide cost-benefit analysis
+
+1\. The ENTSO for Electricity and the European Network of Network Operators for Hydrogen (ENNOH) referred to in Article 57 of Regulation (EU) 2024/1789 of the European Parliament and of the Council ( 3 ) shall draft consistent single sector draft methodologies, including the energy network and market model referred to in paragraph 10 of this Article, for a harmonised energy system-wide cost-benefit analysis at Union level for projects on the Union list falling under the energy infrastructure categories set out in point (1)(a), (b), (d) and (f) and point (3) of Annex II to this Regulation.
+
+The methodologies referred to in the first subparagraph of this paragraph shall be drawn up in line with the principles laid down in Annex V, shall be based on common assumptions allowing for project comparison, and shall be consistent with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, as well as with the rules and indicators set out in Annex IV.
+
+The methodologies referred to in the first subparagraph of this paragraph shall be applied for the preparation of each subsequent Union-wide ten-year network development plans developed by the ENTSO for Electricity pursuant to Article 30 of Regulation (EU) 2019/943 or the ENNOH pursuant to Article 60 of Regulation (EU) 2024/1789.
+
+By 24 April 2023, the ENTSO for Electricity shall publish and submit to Member States, the Commission and the Agency its consistent single sector draft methodology after gathering input from the relevant stakeholders during the consultation process referred to in paragraph 2 of this Article. Any methodology for an energy system-wide hydrogen cost-benefit analysis developed by the ENTSO for Gas by 1 September 2024 shall be approved in accordance with process laid down in this Article. By 1 December 2025, the ENNOH shall publish and submit to Member States, the Commission and the Agency its consistent single sector draft methodology after gathering input from the relevant stakeholders during the consultation procedure pursuant to Article 61(3), point (d), of Regulation (EU) 2024/1789.
+
+2\. Prior to submitting their respective draft methodologies to the Member States, the Commission and the Agency in accordance with paragraph 1, the ENTSO for Electricity and the ENNOH shall publish preliminary draft methodologies and conduct an extensive consultation process and seek recommendations from Member States and, at least, the organisations representing all relevant stakeholders, including the European entity for distribution system operators established pursuant to Article 52(1) of Regulation (EU) 2019/943 (the ‘EU DSO entity’), associations involved in electricity, natural gas and hydrogen markets, heating and cooling, carbon capture and storage and carbon capture and utilisation stakeholders, independent aggregators, demand-response operators, organisations involved in energy efficiency solutions, energy consumer associations, civil society representatives and, where it is considered to be appropriate, the national regulatory authorities and other national authorities.
+
+Within three months of publication of the preliminary draft methodologies under the first subparagraph, any stakeholder referred to in that subparagraph may submit a recommendation.
+
+The European Scientific Advisory Board on Climate Change established under Article 10a of Regulation (EC) No 401/2009 of the European Parliament and of the Council ( 4 ) may, on its own initiative, submit an opinion to the draft methodologies.
+
+Where applicable, Member States, and stakeholders referred to in the first subparagraph shall submit and make publicly available their recommendations and the European Scientific Advisory Board on Climate Change shall submit and make publicly available its opinion to the Agency and, as applicable, to the ENTSO for Electricity or the ENNOH.
+
+The consultation process shall be open, timely and transparent. The ENTSO for Electricity and the ENNOH shall prepare and make public a report on the consultation process.
+
+The ENTSO for Electricity and the ENNOH shall provide reasons where they have not, or have only partly, taken into account the recommendations from Member States or the stakeholders, as well as from national authorities, or the opinion of the European Scientific Advisory Board on Climate Change.
+
+3\. Within three months of receipt of the draft methodologies together with the input received in the consultation process and the report on the consultation, the Agency shall provide an opinion to the ENTSO for Electricity and the ENNOH. The Agency shall notify its opinion to the ENTSO for Electricity, the ENNOH, the Member States, and the Commission and publish it on its website.
+
+4\. Within three months of receipt of the draft methodologies, Member States may deliver their opinions to the ENTSO for Electricity and the ENNOH and the Commission. To facilitate the consultation, the Commission may organise specific meetings of the Groups to discuss the draft methodologies.
+
+5\. Within three months of receipt of the opinions of the Agency and Member States, as referred to in paragraphs 3 and 4, the ENTSO for Electricity and the ENNOH shall amend their respective methodologies to fully take into account the opinions of the Agency and the Member States and submit them together with the opinion of the Agency to the Commission for its approval. The Commission shall issue its decision within three months of submission of the methodologies by the ENTSO for Electricity, the ENTSO for Gas and the ENNOH, respectively.
+
+6\. Within two weeks of the approval by the Commission in accordance with paragraph 5, the ENTSO for Electricity and the ENNOH shall publish their respective methodologies on their websites. They shall publish the corresponding input data and other relevant network, load flow and market data in a sufficiently accurate form subject to restrictions under national law and relevant confidentiality agreements. The Commission and the Agency shall ensure the confidential treatment of the data received by them and by any party that carries out analytical work on the basis of those data on their behalf.
+
+7\. The methodologies shall be updated and improved regularly following the procedure described in paragraphs 1 to 6. In particular, they shall be amended after submission of the energy network and market model referred to in paragraph 10. The Agency, on its own initiative, or upon a duly reasoned request by national regulatory authorities or stakeholders, and after formally consulting the organisations representing all relevant stakeholders referred to in paragraph 2, first subparagraph, and the Commission, may request such updates and improvements, providing reasons and a timetable. The Agency shall publish the requests by national regulatory authorities or stakeholders and all relevant non-commercially sensitive documents leading to a request from the Agency for an update or improvement.
+
+8\. For projects falling under the energy infrastructure categories set out in point (1)(c) and (e) and in points (2), (4) and (5) of Annex II, the Commission shall ensure the development of methodologies for a harmonised energy system-wide cost-benefit analysis at Union level. Those methodologies shall be compatible in terms of benefits and costs with the methodologies developed by the ENTSO for Electricity and the ENNOH. The Agency, with the support of national regulatory authorities, shall promote the consistency of those methodologies with the methodologies elaborated by ENTSO for Electricity and the ENNOH. The methodologies shall be developed in a transparent manner, including extensive consultation of Member States and of all relevant stakeholders.
+
+9\. Every three years, the Agency shall establish and publish a set of indicators and corresponding reference values for the comparison of unit investment costs for comparable projects of the energy infrastructure categories included in Annex II. Project promoters shall provide the requested data to the national regulatory authorities and to the Agency.
+
+The Agency shall publish the first indicators for the infrastructure categories set out in points (1), (2) and (3) of Annex II, by 24 April 2023, to the extent that data is available to calculate robust indicators and reference values. Those reference values may be used by the ENTSO for Electricity and the ENNOH for the cost-benefit analyses carried out for subsequent Union-wide ten-year network development plans.
+
+The Agency shall publish the first indicators for the energy infrastructure categories set out in points (4) and (5) of Annex II, by 24 April 2025.
+
+10\. By 31 October 2025, following an extensive consultation process of stakeholders referred to in paragraph 2, first subparagraph, the ENTSO for Electricity, ENTSO for Gas, and the ENNOH shall jointly submit to the Commission and the Agency a consistent and progressively integrated model that will provide consistency between single sector methodologies on the basis of common assumptions including electricity, natural gas and hydrogen transmission infrastructure as well as natural gas storage facilities, liquefied natural gas and electrolysers, covering the energy infrastructure priority corridors and areas set out in Annex I drawn up in line with the principles laid down in Annex V.
+
+11\. The model referred to in paragraph 10 shall cover at least the relevant sectors’ interlinkages at all stages of infrastructure planning, specifically scenarios, technologies and spatial resolution, infrastructure gaps identification in particular with respect to cross-border capacities, and projects assessment.
+
+12\. After approval of the model referred to in paragraph 10 by the Commission in accordance with the procedure set out in paragraphs 1 to 5, it shall be included in the methodologies referred to in paragraph 1, that shall be amended accordingly.
+
+13\. At least every five years, starting from its approval in accordance with paragraph 10, and more frequently where necessary, the model and the consistent single sector cost-benefit methodologies shall be updated in accordance with the procedure referred to in paragraph 7.
+
+14\. Until 1 January 2027, this Article applies subject to the transitional provisions set out in Article 61 of Regulation (EU) 2024/1789.
+
+### Article 12 — Scenarios for the ten-year network development plans
+
+1\. By 24 January 2023, the Agency, after conducting an extensive consultation process involving the Commission, the Member States, the ENTSO for Electricity, the ENTSO for Gas, the EU DSO entity and at least the organisations representing associations involved in electricity, natural gas and hydrogen markets, heating and cooling, carbon capture and storage and carbon capture and utilisation stakeholders, independent aggregators, demand-response operators, organisations involved in energy efficiency solutions, energy consumer associations and civil society representatives, shall publish the framework guidelines for the joint scenarios to be developed by the ENTSO for Electricity, the ENTSO for Gas and the ENNOH. Those framework guidelines shall be regularly updated as found necessary. The consultation process for any update of the framework guidelines shall also involve the ENNOH.
+
+The framework guidelines referred to in the first subparagraph shall establish criteria for a transparent, non-discriminatory and robust development of scenarios taking into account best practices in the field of infrastructures assessment and network development planning. The framework guidelines shall also aim to ensure that the underlying ENTSO for Electricity, ENTSO for Gas and ENNOH scenarios are fully in line with the energy efficiency first principle and with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and shall take into account the latest available Commission scenarios, as well as, when relevant, the national energy and climate plans.
+
+The European Scientific Advisory Board on Climate Change may, on its own initiative, provide input on how to ensure compliance of scenarios with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective. The Agency shall take duly into account that input in the framework guidelines referred to in the first subparagraph.
+
+The Agency shall provide reasons where it has not, or has only partly, taken into account the recommendations from Member States, stakeholders and the European Scientific Advisory Board on Climate Change.
+
+2\. The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall follow the Agency’s framework guidelines when developing the joint scenarios to be used for the Union-wide ten-year network development plans.
+
+The joint scenarios shall also include a long-term perspective until 2050 and include intermediary steps as appropriate.
+
+3\. The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall invite the organisations representing all relevant stakeholders, including the EU DSO entity, associations involved in electricity, natural gas and hydrogen markets, heating and cooling, carbon capture and storage and carbon capture and utilisation stakeholders, independent aggregators, demand-response operators, organisations involved in energy efficiency solutions, energy consumer associations, civil society representatives, to participate in the scenarios development process, in particular on key elements such as assumptions and how they are reflected in the scenarios data.
+
+4\. The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall publish and submit the draft joint scenarios report to the Agency, the Member States and the Commission for their opinion.
+
+The European Scientific Advisory Board on Climate Change may, on its own initiative, provide an opinion on the joint scenarios report.
+
+5\. Within three months of receipt of the draft joint scenarios report together with the input received in the consultation process and a report on how it was taken into account, the Agency shall submit its opinion on compliance of the scenarios with the framework guidelines referred to in paragraph 1, first subparagraph, including possible recommendations for amendments, to the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, Member States and the Commission.
+
+Within the same time limit, the European Scientific Advisory Board on Climate Change may, on its own initiative, provide an opinion on the compatibility of scenarios with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective.
+
+6\. Within three months of receipt of the opinion referred to in paragraph 5, the Commission, taking into account the opinions of the Agency and Member States, shall approve the draft joint scenarios report or request the ENTSO for Electricity, the ENTSO for Gas and the ENNOH to amend it.
+
+The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall provide reasons explaining how any request for amendments from the Commission has been addressed.
+
+In the event the Commission does not approve the joint scenarios report, it shall provide a reasoned opinion to the ENTSO for Electricity, the ENTSO for Gas and the ENNOH.
+
+7\. Within two weeks of the approval of the joint scenarios report in accordance with paragraph 6, the ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall publish it on their websites. They shall also publish the corresponding input and output data in a sufficiently clear and accurate form for a third party to reproduce the results, taking due account of the national law and relevant confidentiality agreements and sensitive information.
+
+8\. Until 1 January 2027, this Article applies subject to the transitional provisions set out in Article 61 of Regulation (EU) 2024/1789.
+
+### Article 13 — Infrastructure gaps identification
+
+1\. Within six months of approval of the joint scenarios report pursuant to Article 12(6) and every two years thereafter, the ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall publish the infrastructure gaps reports developed within the framework of the Union-wide ten-year network development plans.
+
+When assessing the infrastructure gaps the ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall base their analysis on the scenarios established under Article 12, implement the energy efficiency first principle and consider with priority all relevant alternatives to new infrastructure. When considering new infrastructures solutions, the infrastructures gaps assessment shall take into account all relevant costs, including network reinforcements.
+
+The infrastructures gaps assessment shall, in particular, focus on those infrastructure gaps potentially affecting the fulfilment of the Union’s 2030 climate and energy targets and its 2050 climate neutrality objective.
+
+Prior to publishing their respective reports, the ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall conduct an extensive consultation process involving all relevant stakeholders, including the EU DSO entity, associations involved in electricity, natural gas and hydrogen markets, heating and cooling, carbon capture and storage and carbon capture and utilisation stakeholders, independent aggregators, demand-response operators, organisations involved in energy efficiency solutions and, energy consumer associations, civil society representatives, the Agency and all the Member States’ representatives that are part of the relevant energy infrastructure priority corridors that are set out in Annex I.
+
+2\. The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall submit their respective draft infrastructure gaps report to the Agency and the Commission and Member States for their opinion.
+
+3\. Within three months of receipt of the infrastructure gaps report together with the input received in the consultation process and a report on how it was taken into account, the Agency shall submit its opinion to the ENTSO for Electricity, the ENTSO for Gas or the ENNOH, the Commission and Member States and make it publicly available.
+
+4\. Within three months of receipt of the Agency’s opinion referred to in paragraph 3, the Commission shall, taking the Agency’s opinion into account and with input from the Member States, draft its opinion and submit it to the ENTSO for Electricity, the ENTSO for Gas or the ENNOH.
+
+5\. The ENTSO for Electricity, the ENTSO for Gas and the ENNOH shall adapt their infrastructure gaps reports taking due account of the Agency’s opinion and in line with the Commission’s and the Member States’ opinions and make them publicly available.
+
+6\. Until 1 January 2027, this Article applies subject to the transitional provisions set out in Article 61 of Regulation (EU) 2024/1789.
+
+## CHAPTER V — Offshore grids for renewable integration
+
+### Article 14 — Offshore grid planning
+
+1\. By 24 January 2023, Member States, with the support of the Commission, within their specific priority offshore grid corridors, set out in Section 2 of Annex I, taking into account the specificities and development in each region, shall conclude a non-binding agreement to cooperate on goals for offshore renewable generation to be deployed within each sea basin by 2050, with intermediate steps in 2030 and 2040, in line with their national energy and climate plans, and the offshore renewable potential of each sea basin.
+
+That non-binding agreement shall be made in writing as regards each sea basin linked to the territory of the Member States, and shall be without prejudice to the right of Member States to develop projects on their territorial sea and exclusive economic zone. The Commission shall provide guidance for the work in the Groups.
+
+2\. By 24 January 2024, and as part of each ten-year network development plan thereafter, the ENTSO for Electricity, with the involvement of the relevant TSOs, the national regulatory authorities, the Member States and the Commission, and in line with the non-binding agreement referred to in paragraph 1 of this Article, shall develop and publish, as a separate report which is part of the Union-wide ten-year network development plan, high-level strategic integrated offshore network development plans for each sea-basin, in line with the priority offshore grid corridors referred to in Annex I, taking into account environmental protection and other uses of the sea.
+
+In the development of the high-level strategic integrated offshore network development plans within the timeline provided for in paragraph 1, the ENTSO for Electricity shall consider the non-binding agreements referred to in paragraph 1 for the development of the Union-wide ten-year network development plan scenarios.
+
+The high-level strategic integrated offshore network development plans shall provide a high-level outlook on offshore generation capacities potential and resulting offshore grid needs, including the potential needs for interconnectors, hybrid projects, radial connections, reinforcements, and hydrogen infrastructure.
+
+3\. The high-level strategic integrated offshore network development plans shall be consistent with regional investment plans published pursuant to Article 34(1) of Regulation (EU) 2019/943 and integrated within the Union-wide ten-year network development plans in order to ensure coherent development of onshore and offshore grid planning and the necessary reinforcements.
+
+4\. By 24 December 2024 and every two years thereafter, the Member States, shall update their non-binding agreements referred to in paragraph 1 of this Article, including in view of the results of the application of the cost-benefit and cost-sharing to the priority offshore grid corridors, when those results become available.
+
+5\. After each update of the non-binding agreements in accordance with paragraph 4, for each sea basin, the ENTSO for Electricity shall update the high level strategic integrated offshore network development plans within the next Union-wide ten-year network development plan as referred to in paragraph 2.
+
+### Article 15 — Offshore grids for renewable energy cross-border cost sharing
+
+1\. By 24 June 2024, the Commission shall, with the involvement of the Member States, relevant TSOs, the Agency and the national regulatory authorities, develop guidance for a specific cost-benefit and cost-sharing for the deployment of the sea-basin integrated offshore network development plans referred to in Article 14(2) in accordance with the non-binding agreements referred to in Article 14(1). This guidance shall be compatible with Article 16(1). The Commission shall update its guidance when appropriate, taking into account the results of its implementation.
+
+2\. By 24 June 2025, the ENTSO for Electricity, with the involvement of the relevant TSOs, the Agency, the national regulatory authorities and the Commission, shall present the results of the application of the cost-benefit and cost-sharing to the priority offshore grid corridors.
+
+## CHAPTER VI — Regulatory framework
+
+### Article 16 — Enabling investments with a cross-border impact
+
+1\. The efficiently incurred investment costs, which exclude maintenance costs, related to a project of common interest falling under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II, and projects of common interest falling under the energy infrastructure category set out in point (3) of Annex II, where they fall under the competence of national regulatory authorities in each Member State concerned, shall be borne by the relevant TSO or the project promoters of the transmission infrastructure of the Member States to which the project provides a net positive impact, and, to the extent not covered by congestion rents or other charges, be paid for by network users through tariffs for network access in that or those Member States.
+
+2\. The provisions of this Article shall apply to a project of common interest falling under the energy infrastructure categories set out in point (1)(a), (b), (c), (d), (f) and point (3) of Annex II, where at least one project promoter requests the relevant national authorities their application for the costs of the project.
+
+Projects falling under the energy infrastructure category set out in point (1)(e) and point (2) of Annex II may benefit from the provisions of this Article where at least one project promoter requests its application from the relevant national authorities.
+
+Where a project has several project promoters, the relevant national regulatory authorities shall without delay request all project promoters to submit the investment request jointly in accordance with paragraph 4.
+
+3\. For a project of common interest to which paragraph 1 applies, the project promoters shall keep all relevant national regulatory authorities regularly informed, at least once per year, and until the project is commissioned, of the progress of that project and the identification of costs and the impact associated with it.
+
+4\. As soon as such a project of common interest has reached sufficient maturity, and is estimated to be ready to start the construction phase within the next 36 months, the project promoters, after having consulted the TSOs from the Member States which receive a significant net positive impact from it, shall submit an investment request. That investment request shall include a request for a cross-border cost allocation and shall be submitted to all the relevant national regulatory authorities concerned, accompanied by all of the following:
+
+(a) up-to-date project-specific cost-benefit analysis consistent with the methodology drawn up pursuant to Article 11 and taking into account benefits beyond the borders of the Member States on the territory of which the project is located by considering at least the joint scenarios established for network development planning referred to in Article 12. Where additional scenarios are used, those shall be consistent with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and be subject to the same level of consultation and scrutiny as the process provided for in Article 12. The Agency shall be responsible for assessing any additional scenarios and ensuring their compliance with this paragraph;
+
+(b) a business plan evaluating the financial viability of the project, including the chosen financing solution, and, for a project of common interest falling under the energy infrastructure category referred to in point (3) of Annex II, the results of market testing;
+
+(c) where the project promoters agree, a substantiated proposal for a cross-border cost allocation.
+
+Where a project is promoted by several project promoters, they shall submit their investment request jointly.
+
+The relevant national regulatory authorities shall, upon receipt, transmit to the Agency, without delay, a copy of each investment request, for information purposes.
+
+The relevant national regulatory authorities and the Agency shall preserve the confidentiality of commercially sensitive information.
+
+5\. Within six months of the date on which the investment request is received by the last of the relevant national regulatory authorities, those authorities shall, after consulting the project promoters concerned, take joint coordinated decisions on the allocation of efficiently incurred investment costs to be borne by each system operator for the project, as well as their inclusion in tariffs, or on the rejection of the investment request, in whole or in part, if the common analysis of the relevant national regulatory authorities concludes that the project or a part of it fails to provide a significant net benefit in any of the Member States of the relevant national regulatory authorities. The relevant national regulatory authorities shall include the relevant efficiently incurred investment costs in tariffs, as defined in the recommendation referred to in paragraph 11, in line with the allocation of investment costs to be borne by each system operator for the project. For projects in the territories of their respective Member State, the relevant national regulatory authorities, shall thereafter assess, where appropriate, whether any affordability issues might arise due to the inclusion of the investment costs in tariffs.
+
+In allocating the costs, the relevant national regulatory authorities shall take into account actual or estimated:
+
+(a) congestion rents or other charges;
+
+(b) revenues stemming from the inter-transmission system operator compensation mechanism established under Article 49 of Regulation (EU) 2019/943.
+
+The allocation of costs across borders shall take into account, the economic, social and environmental costs and benefits of the projects in the Member States concerned and the need to ensure a stable financing framework for the development of projects of common interest while minimising the need for financial support.
+
+In allocating costs across borders, the relevant national regulatory authorities, after consulting the TSOs concerned, shall seek a mutual agreement based on, but not limited to, the information specified in paragraphs 4, first subparagraph, points (a) and (b), of this Article. Their assessment shall consider all the relevant scenarios referred to in Article 12 and other scenarios for network development planning, allowing a robust analysis of the contribution of the project of common interest to the Union energy policy of decarbonisation, market integration, competition, sustainability and security of supply. Where additional scenarios are used, they shall be consistent with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and be subject to the same level of consultation and scrutiny as the process provided for in Article 12.
+
+Where a project of common interest mitigates negative externalities, such as loop flows, and that project of common interest is implemented in the Member State at the origin of the negative externality, such mitigation shall not be regarded as a cross-border benefit and shall therefore not constitute a basis for allocating costs to the TSO of the Member States affected by those negative externalities.
+
+6\. The relevant national regulatory authorities shall, on the basis of the cross-border cost allocation referred to in paragraph 5 of this Article, take into account actual costs incurred by a TSO or other project promoter as a result of the investments when fixing or approving tariffs in accordance with Article 41(1), point (a), of Directive 2009/73/EC and Article 59(1), point (a), of Directive (EU) 2019/944, insofar as those costs correspond to those of an efficient and structurally comparable operator.
+
+The relevant national regulatory authorities shall notify the cost allocation decision to the Agency, without delay, together with all the relevant information with respect to that decision. In particular, the cost allocation decision shall set out detailed reasons for the allocation of costs among Member States, including the following:
+
+(a) an evaluation of the identified impact on each of the concerned Member States, including those concerning network tariffs;
+
+(b) an evaluation of the business plan referred to in paragraph 4, first subparagraph, point (b);
+
+(c) regional or Union-wide positive externalities, such as security of supply, system flexibility, solidarity or innovation, which the project would generate;
+
+(d) the result of the consultation of the project promoters concerned.
+
+The cost allocation decision shall be published.
+
+7\. Where the relevant national regulatory authorities have not reached an agreement on the investment request within six months of the date on which the request was received by the last of the relevant national regulatory authorities, they shall inform the Agency without delay.
+
+In that case, or upon a joint request from the relevant national regulatory authorities, the decision on the investment request including cross-border cost allocation referred to in paragraph 5 shall be taken by the Agency within three months of the date of referral to the Agency.
+
+Before taking such a decision, the Agency shall consult the relevant national regulatory authorities and the project promoters. The three-month period referred to in the second subparagraph may be extended by an additional period of two months where further information is sought by the Agency. That additional period shall begin on the day following receipt of the complete information.
+
+The assessment of the Agency shall consider all relevant scenarios established under Article 12 and other scenarios for network development planning, allowing a robust analysis of the contribution of the project of common interest to the Union energy policy targets of decarbonisation, market integration, competition, sustainability and security of supply. Where additional scenarios are used, they shall be consistent with the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and be subject to the same level of consultation and scrutiny as the process provided for in Article 12.
+
+The Agency, in its decision on the investment request including cross-border cost allocation, shall leave the determination of the way the investment costs are included in the tariffs in line with the cross-border cost allocation prescribed, to the relevant national authorities at the time of the implementation of that decision in accordance with national law.
+
+The decision on the investment request including cross-border cost allocation shall be published. Article 25(3) and Articles 28 and 29 of Regulation (EU) 2019/942 shall apply.
+
+8\. A copy of all cost allocation decisions, together with all the relevant information with respect to each decision, shall be notified, without delay, by the Agency to the Commission. That information may be submitted in aggregate form. The Commission shall preserve the confidentiality of commercially sensitive information.
+
+9\. Cost allocation decisions shall not affect the right of TSOs to apply and of national regulatory authorities to approve charges for access to networks in accordance with Article 13 of Regulation (EC) No 715/2009, Article 18(1) and Article 18(3) to (6) of Regulation (EU) 2019/943, Article 32 of Directive 2009/73/EC and Article 6 of Directive (EU) 2019/944.
+
+10\. This Article shall not apply to projects of common interest which have received an exemption from:
+
+(a) Articles 32, 33 and 34 and Article 41(6), (8) and (10) of Directive 2009/73/EC, pursuant to Article 36 of that Directive;
+
+(b) Article 19(2) and (3) of Regulation (EU) 2019/943 or Article 6, Article 59(7) and Article 60(1) of Directive (EU) 2019/944, pursuant to Article 63 of Regulation (EU) 2019/943;
+
+(c) unbundling or third party access rules, pursuant to Article 17 of Regulation (EC) No 714/2009 of the European Parliament and of the Council ( 5 ) or to Article 64 of Regulation (EU) 2019/943 and Article 66 of Directive (EU) 2019/944.
+
+11\. By 24 June 2023, the Agency shall adopt a recommendation for identifying good practices for the treatment of investment requests for projects of common interest. That recommendation shall be regularly updated as necessary, in particular to ensure consistency with the principles on the offshore grids for renewable energy cross-border cost sharing as referred to in Article 15(1). In adopting or amending the recommendation, the Agency shall carry out an extensive consultation process, involving all relevant stakeholders.
+
+12\. This Article shall apply mutatis mutandis to projects of mutual interest.
+
+### Article 17 — Regulatory incentives
+
+1\. Where a project promoter incurs higher risks for the development, construction, operation or maintenance of a project of common interest falling under the competence of national regulatory authorities, when compared to the risks normally incurred by a comparable infrastructure project, Member States and national regulatory authorities may grant appropriate incentives to that project in accordance with Article 13 of Regulation (EC) No 715/2009, Article 18(1) and Article 18(3) to (6) of Regulation (EU) 2019/943, Article 41(8) of Directive 2009/73/EC and Article 58, point (f), of Directive (EU) 2019/944.
+
+The first subparagraph shall not apply where the project of common interest has received an exemption:
+
+(a) from Articles 32, 33, and 34 and from Article 41(6), (8) and (10) of Directive 2009/73/EC, pursuant to Article 36 of that Directive;
+
+(b) from Article 19(2) and (3) of Regulation (EU) 2019/943 or from Article 6, Article 59(7) and Article 60(1) of Directive (EU) 2019/944 pursuant to Article 63 of Regulation (EU) 2019/943;
+
+(c) pursuant to Article 36 of Directive 2009/73/EC;
+
+(d) pursuant to Article 17 of Regulation (EC) No 714/2009.
+
+2\. In the case of a decision to grant the incentives referred to in paragraph 1 of this Article, national regulatory authorities shall consider the results of the cost-benefit analysis consistent with the methodology drawn up pursuant to Article 11 and in particular the regional or Union-wide positive externalities generated by the project. The national regulatory authorities shall further analyse the specific risks incurred by the project promoters, the risk mitigation measures taken and the reasons for the risk profile in view of the net positive impact provided by the project, when compared to a lower-risk alternative. Eligible risks shall in particular include risks related to new transmission technologies, both onshore and offshore, risks related to under-recovery of costs and development risks.
+
+3\. The decision to grant the incentives shall take into account the specific nature of the risk incurred and may grant incentives covering, inter alia, one or more of the following measures:
+
+(a) the rules for anticipatory investment;
+
+(b) the rules for recognition of efficiently incurred costs before commissioning of the project;
+
+(c) the rules for providing additional return on the capital invested for the project;
+
+(d) any other measure deemed necessary and appropriate.
+
+4\. By 24 January 2023, each national regulatory authority shall submit to the Agency its methodology and the criteria used to evaluate investments in energy infrastructure projects and the higher risks incurred by those projects, updated in view of latest legislative, policy, technological and market developments. Such methodology and criteria shall also expressly address the specific risks incurred by offshore grids for renewable energy referred to in point (1)(f) of Annex II and by projects, which, while having low capital expenditure, incur significant operating expenditure.
+
+5\. By 24 June 2023, taking due account of the information received pursuant to paragraph 4 of this Article, the Agency shall facilitate the sharing of good practices and make recommendations in accordance with Article 6(2) of Regulation (EU) 2019/942 regarding both of the following:
+
+(a) the incentives referred to in paragraph 1 on the basis of a benchmarking of best practice by national regulatory authorities;
+
+(b) a common methodology to evaluate the incurred higher risks of investments in energy infrastructure projects.
+
+6\. By 24 September 2023, each national regulatory authority shall publish its methodology and the criteria used to evaluate investments in energy infrastructure projects and the higher risks incurred by them.
+
+7\. Where the measures referred to in paragraphs 5 and 6 are not sufficient to ensure the timely implementation of projects of common interest, the Commission may issue guidelines regarding the incentives laid down in this Article.
+
+## CHAPTER VII — Financing
+
+### Article 18 — Eligibility of projects for Union financial assistance under Regulation (EU) 2021/1153
+
+1\. Projects of common interest falling under the energy infrastructure categories set out in Article 24 and Annex II shall be eligible for Union financial assistance in the form of grants for studies and financial instruments.
+
+2\. Projects of common interest falling under the energy infrastructure categories set out in Article 24 and in point (1)(a), (b), (c), (d) and (f) of Annex II and point (3) of Annex II shall also be eligible for Union financial assistance in the form of grants for works where they fulfil all of the following criteria:
+
+(a) the project specific cost-benefit analysis drawn up pursuant to Article 16(4), point (a), provides evidence concerning the existence of significant positive externalities, such as security of supply, system flexibility, solidarity or innovation;
+
+(b) the project has received a cross-border cost allocation decision pursuant to Article 16 or, as regards projects of common interest falling under the energy infrastructure category set out in point (3) of Annex II, where they do not fall under the competence of national regulatory authorities and therefore they do not receive a cross-border cost allocation decision, the project aims to provide services across borders, brings technological innovation and ensures the safety of cross-border grid operation;
+
+(c) the project cannot be financed by the market or through the regulatory framework in accordance with the business plan and other assessments, in particular those carried out by potential investors, creditors or the national regulatory authority, taking into account any decision on incentives and reasons referred to in Article 17(2) when assessing the project’s need for Union financial assistance.
+
+3\. Projects of common interest carried out in accordance with the procedure referred to in Article 5(7), point (d), shall also be eligible for Union financial assistance in the form of grants for works where they fulfil the criteria set out in paragraph 2 of this Article.
+
+4\. Projects of common interest falling under the energy infrastructure categories set out in point (1)(e) and points (2) and (5) of Annex II shall also be eligible for Union financial assistance in the form of grants for works, where the concerned project promoters, in an evaluation carried out by the relevant national authority or, where applicable, the national regulatory authority, can clearly demonstrate significant positive externalities, such as security of supply, system flexibility, solidarity or innovation, generated by the projects and provide clear evidence of their lack of commercial viability, in accordance with the cost-benefit analysis, the business plan and assessments carried out, in particular by potential investors or creditors or, where applicable, a national regulatory authority.
+
+5\. This Article shall apply mutatis mutandis to projects of mutual interest.
+
+Projects of mutual interest shall be eligible for Union financial assistance under conditions set out in Article 5(2) of Regulation (EU) 2021/1153. With regard to grants for works, projects of mutual interest shall be eligible for Union financial assistance provided that they fulfil the criteria set out in paragraph 2 of this Article and where the project contributes to the Union’s overall energy and climate policy objectives.
+
+### Article 19 — Guidance for the award criteria of Union financial assistance
+
+The specific criteria set out in Article 4(3) of this Regulation and the parameters set out in Article 4(5) of this Regulation shall apply for the purpose of establishing award criteria for Union financial assistance in Regulation (EU) 2021/1153. For projects of common interest falling under Article 24 of this Regulation, the criteria of market integration, security of supply, competition and sustainability shall apply.
+
+## CHAPTER VIII — Final provisions
+
+### Article 20 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3(4) shall be conferred on the Commission for a period of seven years from 23 June 2022. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the seven-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 3(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 21 — Reporting and evaluation
+
+By 30 June 2027, the Commission shall publish a report on the implementation of projects on the Union list, and submit it to the European Parliament and the Council. That report shall provide an evaluation of:
+
+(a) the progress achieved in the planning, development, construction and commissioning of projects on the Union list, and, where relevant, delays in implementation and other difficulties encountered;
+
+(b) the funds engaged and disbursed by the Union for projects on the Union list, compared to the total value of funded projects on the Union list;
+
+(c) the progress achieved in terms of integration of renewable energy sources, including offshore renewable energy sources, and reduced greenhouse gas emissions through the planning, development, construction and commissioning of projects on the Union list;
+
+(d) for the electricity and renewable or low-carbon gases including hydrogen sectors, the evolution of the interconnection level between Member States, the corresponding evolution of energy prices, as well as the number of network system failure events, their causes and related economic cost;
+
+(e) the permit granting process and public participation, in particular:
+
+(i) the average and maximum total duration of the permit granting process for projects on the Union list, including the duration of each step of the pre-application procedure, compared to the timing foreseen by the initial major milestones referred to in Article 10(6);
+
+(ii) the level of opposition faced by projects on the Union list, in particular the number of written objections during the public consultation process and the number of legal recourse actions;
+
+(iii) best and innovative practices with regard to stakeholder involvement;
+
+(iv) best and innovative practices with regard to mitigation of environmental impacts, including climate adaptation, during permit granting processes and project implementation;
+
+(v) the effectiveness of the schemes provided for in Article 8(3) regarding compliance with the time limits set in Article 10(1) and (2);
+
+(f) regulatory treatment, in particular:
+
+(i) the number of projects of common interest having been granted a cross-border cost allocation decision pursuant to Article 16;
+
+(ii) the number and type of projects of common interest which received specific incentives pursuant to Article 17;
+
+(g) the effectiveness of this Regulation in contributing to the Union’s 2030 targets for energy and climate and the achievement of climate neutrality by 2050 at the latest.
+
+### Article 22 — Review
+
+By 30 June 2027, the Commission shall carry out a review of this Regulation, on the basis of the results of the reporting and evaluation provided for in Article 21 of this Regulation, as well as the monitoring, reporting and evaluation carried out pursuant to Articles 22 and 23 of Regulation (EU) 2021/1153.
+
+### Article 23 — Information and publicity
+
+The Commission shall establish and maintain a transparency platform easily accessible to the general public through the internet. The platform shall be regularly updated with information from the reports referred to in Article 5(4) and the website referred to in Article 9(7). The platform shall contain the following information:
+
+(a) general, updated information, including geographic information, for each project on the Union list;
+
+(b) the implementation plan as set out in Article 5(1) for each project on the Union list, presented in a manner that allows the assessment of the progress in implementation at any time;
+
+(c) the main expected benefits and contribution to the objectives referred to in Article 1(1) and the costs of the projects except for any commercially sensitive information;
+
+(d) the Union list;
+
+(e) the funds allocated and disbursed by the Union for each project on the Union list;
+
+(f) the links to the national manual of procedures referred to in Article 9;
+
+(g) existing sea basin studies and plans for each priority offshore grid corridor, without infringing any intellectual property rights.
+
+### Article 24 — Derogation for interconnections for Cyprus and Malta
+
+1\. In the case of Cyprus and Malta, which are not interconnected to the trans-European gas network, a derogation from Article 3, Article 4(1), points (a) and (b), Article 4(5), Article 16(4), point (a), and Annexes I, II and III shall apply, without prejudice to Article 32(2). One interconnection for each of those Member States shall maintain its status of project of common interest under this Regulation with all relevant rights and obligations, where that interconnection:
+
+(a) is under development or planning on 23 June 2022;
+
+(b) has been granted the status of project of common interest under Regulation (EU) No 347/2013; and
+
+(c) is necessary to secure permanent interconnection of those Member States to the trans-European gas network.
+
+Those projects shall ensure the future ability to access new energy markets, including hydrogen.
+
+2\. The project promoters shall provide sufficient evidence of how the interconnections referred to in paragraph 1 will allow access to new energy markets, including hydrogen, in line with the Union’s overall energy and climate policy objectives. Such evidence shall include an assessment of the supply and demand for renewable or low-carbon hydrogen as well as a calculation of the greenhouse gas emissions reduction enabled by the project.
+
+The Commission shall regularly verify that assessment and that calculation, as well as the timely implementation of the project.
+
+3\. In addition to the specific criteria set out in Article 19 for Union financial assistance, the interconnections referred to in paragraph 1 of this Article shall be designed in view of ensuring access to future energy markets, including hydrogen, shall not lead to a prolongation of the lifetime of natural gas assets and shall ensure the interoperability of neighbouring networks across borders. Any eligibility for Union financial assistance under Article 18 shall end on 31 December 2027.
+
+4\. Any request for Union financial assistance for works shall clearly demonstrate the aim to convert the asset into a dedicated hydrogen asset by 2036 if market conditions allow, by means of a roadmap with a precise timeline.
+
+5\. The derogation set out in paragraph 1 shall apply until Cyprus or Malta, respectively, is directly interconnected to the trans-European gas network or until 31 December 2029, whichever is the earlier.
+
+### Article 25 — Amendment to Regulation (EC) No 715/2009
+
+In Article 8(10) of Regulation (EC) No 715/2009, the first subparagraph is replaced by the following:
+
+‘10. The ENTSO for Gas shall adopt and publish a Community-wide network development plan referred to in paragraph 3, point (b), every two years. The Community-wide network development plan shall include the modelling of the integrated network, including hydrogen networks, scenario development, a European supply adequacy outlook and an assessment of the resilience of the system.’.
+
+### Article 26 — Amendment to Regulation (EU) 2019/942
+
+In Article 11 of Regulation (EU) 2019/942, points (c) and (d) are replaced by the following:
+
+‘(c) carry out the obligations laid out in Article 5, Article 11(3), Article 11(6) to (9), Articles 12, 13 and 17 and in Section 2, point (12), of Annex III to Regulation (EU) 2022/869 of the European Parliament and the Council ( 6 );
+
+(d) take decisions on investment requests including cross-border cost allocation pursuant to Article 16(7) of Regulation (EU) 2022/869.
+
+### Article 27 — Amendment to Regulation (EU) 2019/943
+
+In Article 48(1) of Regulation (EU) 2019/943, the first subparagraph is replaced by the following:
+
+‘1. The Union-wide network development plan referred to under Article 30(1), point (b), shall include the modelling of the integrated network, including scenario development and an assessment of the resilience of the system. Relevant input parameters for the modelling such as assumptions on fuel and carbon prices or installation of renewables shall be fully consistent with the European resource adequacy assessment developed pursuant to Article 23.’.
+
+### Article 28 — Amendment to Directive 2009/73/EC
+
+In Article 41(1) of Directive 2009/73/EC, the following point is added:
+
+‘(v) carrying out the obligations laid out in Article 3, Article 5(7) and Articles 14 to 17 of Regulation (EU) 2022/869 of the European Parliament and the Council ( 7 ).
+
+### Article 29 — Amendment to Directive (EU) 2019/944
+
+In Article 59(1) of Directive (EU) 2019/944, the following point is added:
+
+‘(aa) carrying out the obligations laid out in Article 3, Article 5(7) and Articles 14 to 17 of Regulation (EU) 2022/869 of the European Parliament and the Council ( 8 ).
+
+### Article 30 — Transitional provisions
+
+This Regulation shall not affect the granting, continuation or modification of financial assistance awarded by the Commission pursuant to Regulation (EU) No 1316/2013 of the European Parliament and of the Council ( 9 ).
+
+Chapter III shall not apply to projects of common interest that have entered in the permit granting process and for which a project promoter has submitted an application file before 16 November 2013.
+
+### Article 31 — Transitional period
+
+1\. During a transitional period ending on 31 December 2029, dedicated hydrogen assets converted from natural gas assets falling under the energy infrastructure category set out in point (3) of Annex II may be used for transport or storage of a predefined blend of hydrogen with natural gas or biomethane.
+
+2\. During the transitional period referred to in paragraph 1, the project promoters shall closely cooperate on project design and implementation in order to ensure interoperability of neighbouring networks.
+
+3\. The project promoter shall provide sufficient evidence, including through commercial contracts, how, by the end of the transitional period, the assets referred to in paragraph 1 of this Article will cease to be natural gas assets and become dedicated hydrogen assets, as set out in point (3) of Annex II, and how the increased use of hydrogen will be enabled during the transitional period. Such evidence shall include an assessment of the supply and demand for renewable or low-carbon hydrogen as well as a calculation of the greenhouse gas emissions reduction enabled by the project. In the context of the monitoring of progress achieved in implementing the projects of common interest, the Agency shall verify the timely transition of the project to a dedicated hydrogen asset as set out in point (3) of Annex II.
+
+4\. Eligibility of projects referred to in paragraph 1 of this Article for Union financial assistance under Article 18 shall end on 31 December 2027.
+
+5\. In the Annexes to this Regulation, any reference to ‘ENTSO for Gas’ shall be understood to mean ‘the ENTSO for Gas and the ENNOH’ for the purpose of the transitional provisions pursuant to Article 61 of Regulation (EU) 2024/1789. From 1 January 2027, any reference to ‘ENTSO for Gas’ shall be understood to mean ‘the ENNOH’.
+
+### Article 32 — Repeal
+
+1\. Regulation (EU) No 347/2013 is repealed from 23 June 2022. No rights shall arise under this Regulation for projects listed in the Annexes to Regulation (EU) No 347/2013.
+
+2\. Notwithstanding paragraph 1 of this Article, Annex VII to Regulation (EU) No 347/2013, as amended by Commission Delegated Regulation (EU) 2022/564 ( 10 ), containing the fifth Union list of projects of common interest as well as Articles 2 to 10, Articles 12, 13 and 14, and Annexes I to IV and Annex VI to Regulation (EU) No 347/2013, shall remain in force and produce effects as regards the projects of common interest included on the fifth Union list until the entry into force of the first Union list of projects of common interest and projects of mutual interest established pursuant to this Regulation.
+
+3\. Notwithstanding paragraph 2 of this Article, projects that were included in the fifth Union list of projects of common interest established pursuant to Regulation (EU) No 347/2013 and for which an application file has been accepted for examination by the competent authority shall benefit from the rights and obligations arising from Chapter III of this Regulation for a period of four years from the entry into force of this Regulation.
+
+### Article 33 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — ENERGY INFRASTRUCTURE PRIORITY CORRIDORS AND AREAS — (as referred to in Article 1(1))
+
+This Regulation shall apply to the following trans-European energy infrastructure priority corridors and areas:
+
+**1\. PRIORITY ELECTRICITY CORRIDORS**
+
+(1) North-South electricity interconnections in Western Europe (NSI West Electricity): interconnections between Member States of the region and with the Mediterranean area including the Iberian peninsula, in particular to integrate electricity from renewable energy sources, reinforce internal grid infrastructures to foster market integration in the region and to end isolation of Ireland, and to ensure the necessary onshore prolongations of offshore grids for renewable energy and the domestic grid reinforcements necessary to ensure an adequate and reliable transmission grid and to supply electricity generated offshore to landlocked Member States.
+
+Member States concerned: Belgium, Denmark, Germany, Ireland, Spain, France, Italy, Luxembourg, Malta, Netherlands, Austria and Portugal.
+
+(2) North-South electricity interconnections in Central Eastern and South Eastern Europe (NSI East Electricity): interconnections and internal lines in North-South and East-West directions to complete the internal market, integrate generation from renewable energy sources to end the isolation of Cyprus, and to ensure the necessary onshore prolongations of offshore grids for renewable energy and the domestic grid reinforcements necessary to ensure an adequate and reliable transmission grid and to supply electricity generated offshore to landlocked Member States.
+
+Member States concerned: Bulgaria, Czechia, Germany, Croatia, Greece, Cyprus, Italy, Hungary, Austria, Poland, Romania, Slovenia and Slovakia.
+
+(3) Baltic Energy Market Interconnection Plan in electricity (BEMIP Electricity): interconnections between Member States and internal lines in the Baltic region, to foster market integration while integrating growing shares of renewable energy in the region.
+
+Member States concerned: Denmark, Germany, Estonia, Latvia, Lithuania, Poland, Finland and Sweden.
+
+**2\. PRIORITY OFFSHORE GRID CORRIDORS**
+
+(4) Northern Seas offshore grids (NSOG): offshore electricity grid development, integrated offshore electricity, as well as, where appropriate, hydrogen grid development and the related interconnectors in the North Sea, the Irish Sea, the Celtic Sea, the English Channel and neighbouring waters to transport electricity or, where appropriate, hydrogen from renewable offshore energy sources to centres of consumption and storage or to increase cross-border renewable energy exchange.
+
+Member States concerned: Belgium, Denmark, Germany, Ireland, France, Luxembourg, Netherlands and Sweden.
+
+(5) Baltic Energy Market Interconnection Plan offshore grids (BEMIP offshore): offshore electricity grid development, integrated offshore electricity, as well as, where appropriate, hydrogen grid development and the related interconnectors in the Baltic Sea and neighbouring waters to transport electricity or, where appropriate, hydrogen from renewable offshore energy sources to centres of consumption and storage or to increase cross-border renewable energy exchange.
+
+Member States concerned: Denmark, Germany, Estonia, Latvia, Lithuania, Poland, Finland and Sweden.
+
+(6) South and West offshore grids (SW offshore): offshore electricity grid development, integrated offshore electricity, as well as, where appropriate, hydrogen grid development and the related interconnectors in the Mediterranean Sea, including the Cadiz Gulf, and neighbouring waters to transport electricity or, where appropriate, hydrogen from renewable offshore energy sources to centres of consumption and storage or to increase cross-border renewable energy exchange.
+
+Member States concerned: Greece, Spain, France, Italy, Malta and Portugal.
+
+(7) South and East offshore grids (SE offshore): offshore electricity grid development, integrated offshore electricity, as well as, where appropriate, hydrogen grid development and the related interconnectors in the Mediterranean Sea, Black Sea and neighbouring waters to transport electricity or, where appropriate, hydrogen from renewable offshore energy sources to centres of consumption and storage or to increase cross-border renewable energy exchange.
+
+Member States concerned: Bulgaria, Croatia, Greece, Italy, Cyprus, Romania and Slovenia.
+
+(8) Atlantic offshore grids: offshore electricity grid development, integrated offshore electricity grid development and the related interconnectors in the North Atlantic Ocean waters to transport electricity from renewable offshore energy sources to centres of consumption and storage and to increase cross-border electricity exchange.
+
+Member States concerned: Ireland, Spain, France and Portugal.
+
+**3\. PRIORITY CORRIDORS FOR HYDROGEN AND ELECTROLYSERS**
+
+(9) Hydrogen interconnections in Western Europe (HI West): hydrogen infrastructure and the repurposing of gas infrastructure, enabling the emergence of an integrated hydrogen backbone, directly or indirectly (via interconnection with a third country), connecting the countries of the region and addressing their specific infrastructure needs for hydrogen supporting the emergence of an Union-wide network for hydrogen transport, and, in addition, as regards islands and island systems, decreasing energy isolation, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Electrolysers: supporting the deployment of power-to-gas applications aiming to enable greenhouse gas reductions and contributing to secure, efficient and reliable system operation and smart energy system integration and, in addition, as regards islands and island systems, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Member States concerned: Belgium, Czechia, Denmark, Germany, Ireland. Spain, France, Italy, Luxembourg, Malta, Netherlands, Austria and Portugal.
+
+(10) Hydrogen interconnections in Central Eastern and South Eastern Europe (HI East): hydrogen infrastructure and the repurposing of gas infrastructure, enabling the emergence of an integrated hydrogen backbone, directly or indirectly (via interconnection with a third country), connecting the countries of the region and addressing their specific infrastructure needs for hydrogen supporting the emergence of an Union-wide network for hydrogen transport and, in addition, as regards islands and island systems, decreasing energy isolation, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Electrolysers: supporting the deployment of power-to-gas applications aiming to enable greenhouse gas reductions and contributing to secure, efficient and reliable system operation and smart energy system integration and, in addition, as regards islands and island systems, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Member States concerned: Bulgaria, Czechia, Germany, Greece, Croatia, Italy, Cyprus, Hungary, Austria, Poland, Romania, Slovenia and Slovakia.
+
+(11) Baltic Energy Market Interconnection Plan in hydrogen (BEMIP Hydrogen): hydrogen infrastructure and the repurposing of gas infrastructure, enabling the emergence of an integrated hydrogen backbone, directly or indirectly (via interconnection with a third country), connecting the countries of the region and addressing their specific infrastructure needs for hydrogen supporting the emergence of an Union-wide network for hydrogen transport and, in addition, as regards islands and island systems, decreasing energy isolation, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Electrolysers: supporting the deployment of power-to-gas applications aiming to enable greenhouse gas reductions and contributing to secure, efficient and reliable system operation and smart energy system integration and, in addition, as regards islands and island systems, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Member States concerned: Denmark, Germany, Estonia, Latvia, Lithuania, Poland, Finland and Sweden.
+
+**4\. PRIORITY THEMATIC AREAS**
+
+(12) Smart electricity grids deployment: adopting smart grid technologies across the Union to efficiently integrate the behaviour and actions of all users connected to the electricity network, in particular the generation of large amounts of electricity from renewable or distributed energy sources and demand response by consumers, energy storage, electric vehicles and other flexibility sources and, in addition, as regards islands and island systems, decreasing energy isolation, supporting innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributing significantly to the sustainability of the island energy system and that of the Union.
+
+Member States concerned: all.
+
+(13) Cross-border carbon dioxide network: development of infrastructure for transport and storage of carbon dioxide between Member States and with neighbouring third countries of carbon dioxide capture and storage captured from industrial installations for the purpose of permanent geological storage as well as carbon dioxide utilisation for synthetic fuel gases leading to the permanent neutralization of carbon dioxide.
+
+Member States concerned: all.
+
+(14) Smart gas grids: adoption of smart gas grid technologies across the Union to efficiently integrate a plurality of low-carbon and particularly renewable gas sources into the gas network, support the uptake of innovative and digital solutions for network management and facilitating smart energy sector integration and demand response, including the related physical upgrades if indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases.
+
+Member States concerned: all.
+
+## ANNEX II — ENERGY INFRASTRUCTURE CATEGORIES
+
+The energy infrastructure categories to be developed in order to implement the energy infrastructure priorities set out in Annex I shall be the following:
+
+(1) concerning electricity:
+
+(a) high and extra-high voltage overhead transmission lines, crossing a border or within a Member State territory including the exclusive economic zone, if they have been designed for a voltage of 220 kV or more, and underground and submarine transmission cables, if they have been designed for a voltage of 150 kV or more. For Member States and small isolated systems with a lower voltage overall transmission system, those voltage thresholds are equal to the highest voltage level in their respective electricity systems;
+
+(b) any equipment or installation falling under energy infrastructure category referred to in point (a) enabling transmission of offshore renewable electricity from the offshore generation sites (energy infrastructure for offshore renewable electricity);
+
+(c) energy storage facilities, in individual or aggregated form, used for storing energy on a permanent or temporary basis in above-ground or underground infrastructure or geological sites, provided they are directly connected to high-voltage transmission lines and distribution lines designed for a voltage of 110 kV or more. For Member States and small isolated systems with a lower voltage overall transmission system, those voltage thresholds are equal to the highest voltage level in their respective electricity systems;
+
+(d) any equipment or installation essential for the systems referred to in points (a), (b) and (c) to operate safely, securely and efficiently, including protection, monitoring and control systems at all voltage levels and substations;
+
+(e) smart electricity grids: any equipment or installation, digital systems and components integrating information and communication technologies (ICT), through operational digital platforms, control systems and sensor technologies both at transmission and medium and high voltage distribution level, aiming to ensure a more efficient and intelligent electricity transmission and distribution network, increased capacity to integrate new forms of generation, energy storage and consumption and facilitating new business models and market structures, including investments in islands and island systems to decrease energy isolation, to support innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and to contribute significantly to the sustainability of the island energy system and that of the Union;
+
+(f) any equipment or installation falling under energy infrastructure category referred to in point (a) having dual functionality: interconnection and offshore grid connection system from the offshore renewable generation sites to two or more Member States and third countries participating in projects on the Union list, including the onshore prolongation of this equipment up to the first substation in the onshore transmission system, as well as any offshore adjacent equipment or installation essential to operate safely, securely and efficiently, including protection, monitoring and control systems, and necessary substations if they also ensure technology interoperability, inter alia, interface compatibility between various technologies (offshore grids for renewable energy);
+
+(2) concerning smart gas grids: any of the following equipment or installation aiming to enable and facilitate the integration of a plurality of low-carbon and particularly renewable gases, including biomethane or hydrogen, into the gas network: digital systems and components integrating ICT, control systems and sensor technologies to enable the interactive and intelligent monitoring, metering, quality control and management of gas production, transmission, distribution, storage and consumption within a gas network. Furthermore, such projects may also include equipment to enable reverse flows from the distribution to the transmission level, including the related physical upgrades if indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases;
+
+(3) concerning hydrogen:
+
+(a) pipelines for the transport, mainly at high pressure, of hydrogen, including repurposed natural gas infrastructure, giving access to multiple network users on a transparent and non-discriminatory basis;
+
+(b) storage facilities connected to the high-pressure hydrogen pipelines referred to in point (a);
+
+(c) reception, storage and regasification or decompression facilities for liquefied hydrogen or hydrogen embedded in other chemical substances with the objective of injecting the hydrogen, where applicable, into the grid;
+
+(d) any equipment or installation essential for the hydrogen system to operate safely, securely and efficiently or to enable bi-directional capacity, including compressor stations;
+
+(e) any equipment or installation allowing for hydrogen or hydrogen-derived fuels use in the transport sector within the TEN-T core network identified in accordance with Chapter III of Regulation (EU) No 1315/2013 of the European Parliament and of the Council ( 11 ).
+
+Any of the assets listed in points (a) to (d) may be newly constructed or repurposed from natural gas to hydrogen, or a combination of the two;
+
+(4) concerning electrolyser facilities:
+
+(a) electrolysers that:
+
+(i) have at least 50 MW capacity, provided by a single electrolyser or by a set of electrolysers that form a single, coordinated project;
+
+(ii) the production complies with the life cycle greenhouse gas emissions savings requirement of 70 % relative to a fossil fuel comparator of 94 g CO2eq/MJ as set out in Article 25(2) and Annex V to Directive (EU) 2018/2001. Life cycle greenhouse gas emissions savings are calculated using the methodology referred to in Article 28(5) of Directive (EU) 2018/2001 or, alternatively, using ISO 14067 or ISO 14064-1. The life-cycle greenhouse gas emissions must include indirect emissions. Quantified life-cycle greenhouse gas emission savings are verified in line with Article 30 of Directive (EU) 2018/2001 where applicable, or by an independent third party; and
+
+(iii) have a network-related function, particularly with a view to overall system flexibility and overall system efficiency of electricity and hydrogen networks;
+
+(b) related equipment, including pipeline connection to the network;
+
+(5) concerning carbon dioxide:
+
+(a) dedicated pipelines, other than upstream pipeline network, used to transport carbon dioxide from more than one source, for the purpose of permanent geological storage of carbon dioxide pursuant to Directive 2009/31/EC;
+
+(b) fixed facilities for liquefaction, buffer storage and converters of carbon dioxide in view of its further transportation through pipelines and in dedicated modes of transport such as ship, barge, truck, and train;
+
+(c) without prejudice to any prohibition of geological storage of carbon dioxide in a Member State, surface and injection facilities associated with infrastructure within a geological formation that is used, in accordance with Directive 2009/31/EC, for the permanent geological storage of carbon dioxide, where they do not involve the use of carbon dioxide for the enhanced recovery of hydrocarbons and are necessary to allow the cross-border transport and storage of carbon dioxide;
+
+(d) any equipment or installation essential for the system in question to operate properly, securely and efficiently, including protection, monitoring and control systems.
+
+## ANNEX III — REGIONAL LISTS OF PROJECTS
+
+**1\. RULES FOR GROUPS**
+
+(1) With regard to energy infrastructure falling under the competence of national regulatory authorities, each Group shall be composed of representatives of the Member States, national regulatory authorities, TSOs, as well as the Commission, the Agency, the EU DSO entity and either the ENTSO for Electricity or the ENTSO for Gas.
+
+For the other energy infrastructure categories, each Group shall be composed of the Commission and the representatives of the Member States, project promoters concerned by each of the relevant priorities set out in Annex I.
+
+(2) Depending on the number of candidate projects for the Union list, regional infrastructure gaps and market developments, the Groups and the decision-making bodies of the Groups may split, merge or meet in different configurations, as necessary, to discuss matters common to all Groups or pertaining solely to particular regions. Such matters may include issues relevant to cross-regional consistency or the number of proposed projects included on the draft regional lists at risk of becoming unmanageable.
+
+(3) Each Group shall organise its work in line with regional cooperation efforts pursuant to Article 12 of Regulation (EC) No 715/2009, Article 34 of Regulation (EU) 2019/943, Article 7 of Directive 2009/73/EC and Article 61 of Directive (EU) 2019/944, and other existing regional cooperation structures.
+
+(4) Each Group shall invite, as appropriate for the purpose of implementing the relevant energy infrastructure priority corridors and areas designated in Annex I, promoters of a project potentially eligible for selection as a project of common interest as well as representatives of national administrations, of regulatory authorities, of civil society and TSOs from third countries. The decision to invite third-country representatives shall be made by consensus.
+
+(5) For the energy infrastructure priority corridors set out in Section 2 of Annex I, each Group shall invite, as appropriate, representatives of the landlocked Member States, competent authorities, national regulatory authorities and TSOs.
+
+(6) Each Group shall invite, as appropriate, the organisations representing relevant stakeholders, including representatives from third countries, and, where deemed to be appropriate, directly the stakeholders, including producers, DSOs, suppliers, consumers, local populations and Union-based organisations for environmental protection, to express their specific expertise. Each Group shall organise hearings or consultations where relevant for the accomplishments of its tasks.
+
+(7) As regards the meetings of the Groups, the Commission shall publish, on a platform accessible to stakeholders, the internal rules, an updated list of member organisations, regularly updated information on the progress of work, meeting agendas, as well as meeting minutes, where available. The deliberations of the decision-making bodies of the Groups and the project ranking in accordance with Article 4(5) shall be confidential. All decisions concerning to the functioning and work of the regional groups shall be made by consensus between the Member States and the Commission.
+
+(8) The Commission, the Agency and the Groups shall strive for consistency between the Groups. For that purpose, the Commission and the Agency shall ensure, when relevant, the exchange of information on all work representing an interregional interest between the Groups concerned.
+
+(9) The participation of national regulatory authorities and the Agency in the Groups shall not jeopardise the fulfilment of their objectives and duties under this Regulation or under Regulation (EU) 2019/942, Articles 40 and 41 of Directive 2009/73/EC and Articles 58, 59 and 60 of Directive (EU) 2019/944.
+
+**2\. PROCESS FOR ESTABLISHING REGIONAL LISTS**
+
+(1) Promoters of a project potentially eligible for selection as a project on the Union list wanting to obtain that status shall submit an application for selection as a project on the Union list to the Group that includes:
+
+(a) an assessment of their projects with regard to their contribution to implementing the priorities set out in Annex I;
+
+(b) an indication of the relevant project category set out in Annex II;
+
+(c) an analysis of the fulfilment of the relevant criteria laid down in Article 4;
+
+(d) for projects having reached a sufficient degree of maturity, a project-specific cost-benefit analysis consistent with the methodologies drawn up pursuant to Article 11;
+
+(e) for projects of mutual interest, the letters of support from the governments of the directly affected countries expressing their support for the project or other non-binding agreements;
+
+(f) any other relevant information for the evaluation of the project.
+
+(2) All recipients shall ensure the confidentiality of commercially sensitive information.
+
+(3) The proposed electricity transmission and storage projects of common interest falling under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II to this Regulation shall be part of the latest available Union-wide ten-year network development plan for electricity, developed by the ENTSO for Electricity pursuant Article 30 of Regulation (EU) 2019/943. The proposed electricity transmission projects of common interest falling under the energy infrastructure categories set out in point (1)(b) and (f) of Annex II to this Regulation shall derive from and be consistent with the integrated offshore network development and grid reinforcements referred to in Article 14(2) of this Regulation.
+
+(4) From 1 January 2024, the proposed hydrogen projects of common interest falling under the energy infrastructure categories set out in point (3) of Annex II to this Regulation are projects that are part of the latest available Community-wide ten-year network development plan for gas, developed by the ENTSO for Gas pursuant Article 8 of Regulation (EC) No 715/2009.
+
+(5) By 30 June 2022 and subsequently for every Union-wide ten-year network development plan, the ENTSO for Electricity and ENTSO for Gas shall issue updated guidelines for inclusion of projects in their respective Union-wide ten-year network development plan, as referred to in points (3) and (4), in order to ensure equal treatment and the transparency of the process. For all the projects on the Union list in force at the time, the guidelines shall establish a simplified process of inclusion in the Union-wide ten-year network development plans taking into account the documentation and data already submitted during the previous Union-wide ten-year network development plan processes, provided that the documentation and data already submitted remains valid.
+
+The ENTSO for Electricity and ENTSO for Gas shall consult the Commission and the Agency about their respective draft guidelines for inclusion of projects in the Union-wide ten-year network development plans and take due account of the Commission’s and the Agency’s recommendations before the publication of the final guidelines.
+
+(6) Proposed carbon dioxide transport and storage projects falling under the energy infrastructure category set out in point (5) of Annex II shall be presented as part of a plan, developed by at least two Member States, for the development of cross-border carbon dioxide transport and storage infrastructure, to be presented by the Member States concerned or entities designated by those Member States to the Commission.
+
+(7) The ENTSO for Electricity and the ENTSO for Gas shall provide information to the Groups as to how they applied the guidelines to evaluate inclusion in the Union-wide ten-year network development plans.
+
+(8) For projects falling under their competence, the national regulatory authorities and, where necessary, the Agency shall, where possible in the context of regional cooperation pursuant to Article 7 of Directive 2009/73/EC and Article 61 of Directive (EU) 2019/944, check the consistent application of the criteria and of the cost-benefit analysis methodology and evaluate their cross-border relevance. They shall present their assessment to the Group. The Commission shall ensure that criteria and methodologies referred to in Article 4 of this Regulation and Annex IV are applied in a harmonised way to ensure consistency across the regional groups.
+
+(9) For all projects not covered in point (8) of this Annex, the Commission shall evaluate the application of the criteria set out in Article 4 of this Regulation. The Commission shall also take into account the potential for future extension to include additional Member States. The Commission shall present its assessment to the Group. For projects applying for the status of project of mutual interest, third-country representatives and regulatory authorities shall be invited to the presentation of the assessment.
+
+(10) Each Member State to whose territory a proposed project does not relate, but on which the proposed project may have a potential net positive impact or a potential significant effect, such as on the environment or on the operation of the energy infrastructure on its territory, may present an opinion to the Group specifying its concerns.
+
+(11) The Group shall examine, at the request of a Member State of the Group, the substantiated reasons presented by a Member State pursuant to Article 3(3) for not approving a project related to its territory.
+
+(12) The Group shall consider whether the energy efficiency first principle is applied as regards the establishment of the regional infrastructure needs and as regards each of the candidate projects. The Group shall, in particular, consider solutions such as demand-side management, market arrangement solutions, implementation of digital solutions, and renovation of buildings as priority solutions where they are judged more cost-efficient on a system wide perspective than the construction of new supply side infrastructure.
+
+(13) The Group shall meet to examine and rank the proposed projects based on a transparent assessment of the projects and using the criteria set out in Article 4 taking into account the assessment of the regulators, or the assessment of the Commission for projects not falling within the competence of national regulatory authorities.
+
+(14) The draft regional lists of proposed projects falling under the competence of national regulatory authorities drawn up by the Groups, together with any opinions as specified in point (10) of this Section, shall be submitted to the Agency six months before the adoption date of the Union list. The draft regional lists and the accompanying opinions shall be assessed by the Agency within three months of the date of receipt. The Agency shall provide an opinion on the draft regional lists, in particular on the consistent application of the criteria and the cost-benefit analysis across regions. The opinion of the Agency shall be adopted in accordance with the procedure referred to in Article 22(5) of Regulation (EU) 2019/942.
+
+(15) Within one month of the date of receipt of the Agency’s opinion, the decision-making body of each Group shall adopt its final regional list of proposed projects, respecting the provisions set out in Article 3(3), on the basis of the Groups’ proposal and taking into account the opinion of the Agency and the assessment of the national regulatory authorities submitted in accordance with point (8), or the assessment of the Commission for projects not falling within the competence of national regulatory authorities proposed in accordance with point (9), and the advice from the Commission that aims to ensure a manageable total number of projects on the Union list, especially at borders related to competing or potentially competing projects. The decision-making bodies of the Groups shall submit the final regional lists to the Commission, together with any opinions as specified in point (10).
+
+(16) Where, on the basis of the draft regional lists, and after having taken into account the Agency opinion, the total number of proposed projects on the Union list would exceed a manageable number, the Commission shall advise each Group concerned, not to include in the regional list projects that were ranked lowest by the Group concerned in accordance with the ranking established pursuant to Article 4(5).
+
+## ANNEX IV — RULES AND INDICATORS CONCERNING CRITERIA FOR PROJECTS
+
+(1) A project of common interest with a significant cross-border impact shall be a project on the territory of a Member State and shall fulfil the following conditions:
+
+(a) for electricity transmission, the project increases the grid transfer capacity, or the capacity available for commercial flows, at the border of that Member State with one or several other Member States, having the effect of increasing the cross-border grid transfer capacity at the border of that Member State with one or several other Member States, by at least 500 Megawatts (MW) compared to the situation without commissioning of the project, or the project decreases energy isolation of non-interconnected systems in one or more Member States and increases the cross-border grid transfer capacity at the border between two Member States by at least 200 MW;
+
+(b) for electricity storage, the project provides at least 225 MW installed capacity and has a storage capacity that allows a net annual electricity generation of 250 GW-hours/year;
+
+(c) for smart electricity grids, the project is designed for equipment and installations at high-voltage and medium-voltage level, and involves TSOs, TSOs and DSOs, or DSOs from at least two Member States. The project may involve only DSOs provided that they are from at least two Member States and provided that interoperability is ensured. The project shall satisfy at least two of the following criteria: it involves 50 000 users, generators, consumers or prosumers of electricity, it captures a consumption area of at least 300 GW hours/year, at least 20 % of the electricity consumption linked to the project originates from variable renewable resources, or it decreases energy isolation of non-interconnected systems in one or more Member States. The project does not need to involve a physical common border. For projects related to small isolated systems as defined in Article 2, point (42), of Directive (EU) 2019/944, including islands, those voltage levels shall be equal to the highest voltage level in the relevant electricity system;
+
+(d) for hydrogen transmission, the project enables the transmission of hydrogen across the borders of the Member States concerned, or increases existing cross-border hydrogen transport capacity at a border between two Member States by at least 10 % compared to the situation prior to the commissioning of the project, and the project sufficiently demonstrates that it is an essential part of a planned cross-border hydrogen network and provides sufficient proof of existing plans and cooperation with neighbouring countries and network operators or, for projects decreasing energy isolation of non-interconnected systems in one or more Member States, the project aims to supply, directly or indirectly, at least two Member States;
+
+(e) for hydrogen storage or hydrogen reception facilities referred to in point (3) of Annex II, the project aims to supply, directly or indirectly, at least two Member States;
+
+(f) for electrolysers, the project provides at least 50 MW installed capacity provided by a single electrolyser or by a set of electrolysers that form a single, coordinated project and brings benefits directly or indirectly to at least two Member States, and, specifically, as regards projects on islands and island systems, supports innovative and other solutions involving at least two Member States with a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective, and contributes significantly to the sustainability of the island energy system and that of the Union;
+
+(g) for smart gas grids, a project involves TSOs, TSOs and DOS or DSOs from at least two Member States. DSOs may be involved, but only with the support of the TSOs of at least two Member States that are closely associated to the project and ensure interoperability;
+
+(h) for offshore renewable electricity transmission, the project is designed to transfer electricity from offshore generation sites with capacity of at least 500 MW and allows for electricity transmission to onshore grid of a specific Member State, increasing the volume of renewable electricity available on the internal market. The project shall be developed in the areas with low penetration of offshore renewable electricity and shall demonstrate a significant positive impact on the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and shall contribute significantly to the sustainability of the energy system and market integration while not hindering the cross-border capacities and flows;
+
+(i) for carbon dioxide projects, the project is used to transport and, where applicable, store anthropogenic carbon dioxide originating from at least two Member States.
+
+(2) A project of mutual interest with significant cross-border impact shall be a project and shall fulfil the following conditions:
+
+(a) for projects of mutual interest in the category set out in point (1)(a) and (f) of Annex II, the project increases the grid transfer capacity, or the capacity available for commercial flows, at the border of that Member State with one or more third countries and brings significant benefits, either directly or indirectly (via interconnection with a third country), under the specific criteria listed in in Article 4(3), at Union level. The calculation of the benefits for the Member States shall be performed and published by the ENTSO for Electricity in the frame of Union-wide ten-year network development plan;
+
+(b) for projects of mutual interest in the category set out in point (3) of Annex II, the hydrogen project enables the transmission of hydrogen across at the border of a Member State with one or more third countries and proves bringing significant benefits, either directly or indirectly (via interconnection with a third country) under the specific criteria listed in Article 4(3), at Union level. The calculation of the benefits for the Member States shall be performed and published by the ENTSO for Gas in the frame of Union-wide ten-year network development plan;
+
+(c) for projects of mutual interest in the category set out in point (5) of Annex II, the project can be used to transport and store anthropogenic carbon dioxide by at least two Member States and a third country.
+
+(3) Concerning projects falling under the energy infrastructure categories set out in point (1)(a), (b), (c), (d) and (f) of Annex II, the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) transmission of renewable energy generation to major consumption centres and storage sites, measured in line with the analysis made in the latest available Union-wide ten-year network development plan in electricity, in particular by:
+
+(i) for electricity transmission, estimating the amount of generation capacity from renewable energy sources (by technology, in MW), which is connected and transmitted due to the project, compared to the amount of planned total generation capacity from those types of renewable energy sources in the Member State concerned in 2030 according to the National Energy and Climate Plans submitted by Member States in accordance with Regulation (EU) 2018/1999;
+
+(ii) or energy storage, comparing new capacity provided by the project with total existing capacity for the same storage technology in the area of analysis as set out in Annex V;
+
+(b) market integration, competition and system flexibility, measured in line with the analysis made in the latest available Union-wide ten-year network development plan in electricity, in particular by:
+
+(i) calculating, for cross-border projects, including reinvestment projects, the impact on the grid transfer capability in both power flow directions, measured in terms of amount of power (in MW), and their contribution to reaching the minimum 15 % interconnection target, and for projects with significant cross-border impact, the impact on grid transfer capability at borders between relevant Member States, between relevant Member States and third countries or within relevant Member States and on demand-supply balancing and network operations in relevant Member States;
+
+(ii) assessing the impact, for the area of analysis as set out in Annex V, in terms of energy system-wide generation and transmission costs and evolution and convergence of market prices provided by a project under various planning scenarios, in particular taking into account the variations induced on the merit order;
+
+(c) security of supply, interoperability and secure system operation, measured in line with the analysis made in the latest available Union-wide ten-year network development plan in electricity, in particular by assessing the impact of the project on the loss of load expectation for the area of analysis as set out in Annex V in terms of generation and transmission adequacy for a set of characteristic load periods, taking into account expected changes in climate-related extreme weather events and their impact on infrastructure resilience. Where applicable, the impact of the project on independent and reliable control of system operation and services shall be measured.
+
+(4) Concerning projects falling under the energy infrastructure category set out in point (1)(e) of Annex II, the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) the level of sustainability, measured by assessing the extent of the ability of the grids to connect and transport variable renewable energy;
+
+(b) security of supply, measured by assessing the level of losses in distribution, transmission networks, or both, the percentage utilisation (i.e. average loading) of electricity network components, the availability of network components (related to planned and unplanned maintenance) and its impact on network performances, and on the duration and frequency of interruptions, including climate related disruptions;
+
+(c) market integration, measured by assessing the innovative uptake in system operation, the decrease of energy isolation and interconnection, as well as the level of integrating other sectors and facilitating new business models and market structures;
+
+(d) network security, flexibility and quality of supply, measured by assessing the innovative approach to system flexibility, cybersecurity, efficient operability between TSO and DSO level, the capacity to include demand response, storage, energy efficiency measures, the cost-efficient use of digital tools and ICT for monitoring and control purposes, the stability of the electricity system and the voltage quality performance.
+
+(5) Concerning hydrogen falling under the energy infrastructure category set out in point (3) of Annex II, the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) sustainability, measured as the contribution of a project to greenhouse gas emission reductions in various end-use applications in hard-to-abate sectors, such as industry or transport; flexibility and seasonal storage options for renewable electricity generation; or the integration of renewable and low-carbon hydrogen with a view to consider market needs and promote renewable hydrogen;
+
+(b) market integration and interoperability, measured by calculating the additional value of the project to the integration of market areas and price convergence to the overall flexibility of the system;
+
+(c) security of supply and flexibility, measured by calculating the additional value of the project to the resilience, diversity and flexibility of hydrogen supply;
+
+(d) competition, measured by assessing the project’s contribution to supply diversification, including the facilitation of access to indigenous sources of hydrogen supply.
+
+(6) Concerning smart gas grid projects falling under the energy infrastructure category set out in point (2) of Annex II, the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) level of sustainability, measured by assessing the share of renewable and low-carbon gases integrated into the gas network, the related greenhouse gas emission savings towards total system decarbonisation and the adequate detection of leakage;
+
+(b) quality and security of supply, measured by assessing the ratio of reliably available gas supply and peak demand, the share of imports replaced by local renewable and low-carbon gases, the stability of system operation, the duration and frequency of interruptions per customer;
+
+(c) enabling flexibility services such as demand response and storage by facilitation of smart energy sector integration through the creation of links to other energy carriers and sectors, measured by assessing the cost savings enabled in connected energy sectors and systems, such as the heat and power system, transport and industry.
+
+(7) Concerning electrolyser projects falling under the energy infrastructure category set out in point (4) of Annex II the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) sustainability, measured by assessing the share of renewable hydrogen or low-carbon hydrogen, in particular from renewable sources meeting the criteria defined in point (4)(a)(ii) of Annex II integrated into the network or estimating the amount of deployment of synthetic fuels of those origins and the related greenhouse gas emission savings;
+
+(b) security of supply, measured by assessing its contribution to the safety, stability and efficiency of network operation, including through the assessment of avoided curtailment of renewable electricity generation;
+
+(c) enabling flexibility services such as demand response and storage by the facilitation of smart energy sector integration through the creation of links to other energy carriers and sectors, measured by assessing the cost savings enabled in connected energy sectors and systems, such as the gas, hydrogen, power and heat networks, the transport and industry sectors.
+
+(8) Concerning carbon dioxide infrastructure falling under the energy infrastructure categories set out in point (5) of Annex II the criteria listed in Article 4 shall be evaluated as follows:
+
+(a) sustainability, measured by assessing the total expected project life-cycle greenhouse gas reductions and the absence of alternative technological solutions such as, but not limited to, energy efficiency, electrification integrating renewable sources, to achieve the same level of greenhouse gas reductions as the amount of carbon dioxide to be captured at connected industrial installations at a comparable cost within a comparable timeline taking into account the greenhouse gas emissions from the energy necessary to capture, transport and store the carbon dioxide, as applicable, considering the infrastructure including, where applicable, other potential future uses;
+
+(b) resilience and security, measured by assessing the security of the infrastructure;
+
+(c) the mitigation of environmental burden and risk via the permanent neutralisation of carbon dioxide.
+
+## ANNEX V — ENERGY SYSTEM-WIDE COST-BENEFIT ANALYSIS
+
+The methodologies for cost-benefit analyses developed by the ENTSO for Electricity and the ENTSO for Gas shall be consistent with each other, taking into account sectorial specificities. The methodologies for a harmonised and transparent energy system-wide cost-benefit analysis for projects on the Union list shall be uniform for all infrastructure categories, unless specific divergences are justified. They shall address costs in the broader sense, including externalities, in view of the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and shall comply with the following principles:
+
+(1) the area for the analysis of an individual project shall cover all Member States and third countries, on whose territory the project is located, all directly neighbouring Member States and all other Member States in which the project has a significant impact. For this purpose, ENTSO for Electricity and ENTSO for Gas shall cooperate with all the relevant system operators in the relevant third countries. In the case of projects falling under the energy infrastructure category set out at point (3) of Annex II, the ENTSO for Electricity and the ENTSO for Gas shall cooperate with the project promoter, including where it is not a system operator;
+
+(2) each cost-benefit analysis shall include sensitivity analyses concerning the input data set, including the cost of generation and greenhouse gases as well as the expected development of demand and supply, including with regard to renewable energy sources, and including the flexibility of both, and the availability of storage, the commissioning date of various projects in the same area of analysis, climate impacts and other relevant parameters;
+
+(3) they shall establish the analysis to be carried out, based on the relevant multi-sectorial input data set by determining the impact with and without each project and shall include the relevant interdependencies with other projects;
+
+(4) they shall give guidance for the development and use of energy network and market modelling necessary for the cost-benefit analysis. The modelling shall allow for a full assessment of economic benefits, including market integration, security of supply and competition, as well as lifting energy isolation, social and environmental and climate impacts, including the cross-sectorial impacts. The methodology shall be fully transparent including details on why, what and how each of the benefits and costs are calculated;
+
+(5) they shall include an explanation on how the energy efficiency first principle is implemented in all the steps of the Union-wide ten-year network development plans;
+
+(6) they shall explain that the development and deployment of renewable energy will not be hampered by the project;
+
+(7) they shall ensure that the Member States on which the project has a net positive impact, the beneficiaries, the Member States on which the project has a net negative impact, and the cost bearers, which may be Members States other than those on which territory the infrastructure is constructed, are identified;
+
+(8) they shall take into account, at least, the capital expenditure, operational and maintenance expenditure costs, as well as the costs induced for the related system over the technical lifecycle of the project as a whole, such as decommissioning and waste management costs, including external costs. The methodologies shall give guidance on discount rates, technical lifetime and residual value to be used for the cost- benefit calculations. They shall furthermore include a mandatory methodology to calculate benefit-to-cost ratio and the net present value, as well as a differentiation of benefits in accordance with the level of reliability of their estimation methods. Methods to calculate the climate and environmental impacts of the projects and the contribution to Union energy targets, such as renewable penetrations, energy efficiency and interconnection targets shall also be taken into account;
+
+(9) they shall ensure that the climate adaptation measures taken for each project are assessed and reflect the cost of greenhouse gas emissions and that the assessment is robust and consistent with other Union policies in order to enable comparison with other solutions which do not require new infrastructures.
+
+## ANNEX VI — GUIDELINES FOR TRANSPARENCY AND PUBLIC PARTICIPATION
+
+(1) The manual of procedures referred to in Article 9(1) shall contain at least:
+
+(a) specifications of the relevant pieces of legislation upon which decisions and opinions are based for the various types of relevant projects of common interest, including environmental law;
+
+(b) the list of relevant decisions and opinions to be obtained;
+
+(c) the names and contact details of the competent authority, other authorities concerned and major stakeholders concerned;
+
+(d) the work flow, outlining each stage in the process, including an indicative timeline and a concise overview of the decision-making process for the various types of relevant projects of common interest;
+
+(e) information about the scope, structure and level of detail of documents to be submitted with the application for decisions, including a checklist;
+
+(f) the stages and means for the general public to participate in the process;
+
+(g) the manner in which the competent authority, other authorities concerned and the project promoter shall demonstrate that the opinions expressed in the public consultation were taken into account, for example by showing what amendments were done in the location and design of the project or by providing reasons why such opinions have not been taken into account;
+
+(h) to the extent possible, translations of its content in all languages of the neighbouring Member States to be realised in coordination with the relevant neighbouring Member States.
+
+(2) The detailed schedule referred to in Article 10(6), point (b), shall at least specify the following:
+
+(a) the decisions and opinions to be obtained;
+
+(b) the authorities, stakeholders, and the public likely to be concerned;
+
+(c) the individual stages of the procedure and their duration;
+
+(d) major milestones to be accomplished and their deadlines in view of the comprehensive decision to be taken;
+
+(e) the resources planned by the authorities and possible additional resource needs.
+
+(3) Without prejudice to the requirements for public consultations under environmental law, to increase public participation in the permit granting process and ensure in advance information and dialogue with the public, the following principles shall be applied:
+
+(a) the stakeholders affected by a project of common interest, including relevant national, regional and local authorities, landowners and citizens living in the vicinity of the project, the general public and their associations, organisations or groups, shall be extensively informed and consulted at an early stage, in an inclusive manner, when potential concerns by the public can still be taken into account and in an open and transparent manner. Where relevant, the competent authority shall actively support the activities undertaken by the project promoter;
+
+(b) competent authorities shall ensure that public consultation procedures for projects of common interest are grouped together where possible including public consultations already required under national law. Each public consultation shall cover all subject matters relevant to the particular stage of the procedure, and one subject matter relevant to the particular stage of the procedure shall not be addressed in more than one public consultation; however, one public consultation may take place in more than one geographical location. The subject matters addressed by a public consultation shall be clearly indicated in the notification of the public consultation;
+
+(c) comments and objections shall be admissible only from the beginning of the public consultation until the expiry of the deadline;
+
+(d) the project promoters shall ensure that consultations take place during a period that allows for open and inclusive public participation.
+
+(4) The concept for public participation shall at least include information about:
+
+(a) the stakeholders concerned and addressed;
+
+(b) the measures envisaged, including proposed general locations and dates of dedicated meetings;
+
+(c) the timeline;
+
+(d) the human resources allocated to various tasks.
+
+(5) In the context of the public consultation to be carried out before submission of the application file, the relevant parties shall at least:
+
+(a) publish in electronic and, where relevant, printed form, an information leaflet of no more than 15 pages, giving, in a clear and concise manner, an overview of the description, purpose and preliminary timetable of the development steps of the project, the national grid development plan, alternative routes considered, types and characteristics of the potential impact, including of cross-border or transboundary nature, and possible mitigation measures, such information leaflet is to be published prior to the start of the consultation and to list the web addresses of the website of the project of common interest referred to in Article 9(7), the transparency platform referred to in Article 23 and the manual of procedures referred to in point (1) of this Annex;
+
+(b) publish the information on the consultation on the website of the project of common interest referred to in Article 9(7), on the bulletin boards of the offices of local administrations, and, at least, in one or, if applicable, two local media outlets;
+
+(c) invite, in written or electronic form, the relevant affected stakeholders, associations, organisations and groups to dedicated meetings, during which concerns shall be discussed.
+
+(6) The project website referred to in Article 9(7) shall at least publish the following information:
+
+(a) the date when the project website was last updated;
+
+(b) translations of its content in all languages of the Member States concerned by the project or on which the project has a significant cross-border impact in accordance with point (1) of Annex IV;
+
+(c) the information leaflet referred to in point (5) updated with the latest data on the project;
+
+(d) a non-technical and regularly updated summary reflecting the current status of the project, including geographic information, and clearly indicating, in case of updates, changes to previous versions;
+
+(e) the implementation plan as set out in Article 5(1) updated with the latest data on the project;
+
+(f) the funds allocated and disbursed by the Union for the project;
+
+(g) the project and public consultation planning, clearly indicating dates and locations for public consultations and hearings and the envisaged subject matters relevant for those hearings;
+
+(h) contact details in view of obtaining additional information or documents;
+
+(i) contact details in view of conveying comments and objections during public consultations.
+
+## ANNEX VII — THE UNION LIST OF PROJECTS OF COMMON INTEREST AND PROJECTS OF MUTUAL INTEREST (‘UNION LIST’)
+
+(referred to in Article 3(4))
+
+**A. PRINCIPLES APPLIED IN ESTABLISHING THE UNION LIST**
+
+(1) Clusters of PCIs and PMIs
+
+Some PCIs/PMIs form part of a cluster because of their interdependent, potentially competing or competing nature. The following types of clusters of PCIs/PMIs have been drawn up:
+
+(a) A cluster of interdependent PCIs/PMIs is defined as a ‘Cluster X, including the following PCIs/PMIs:’. Such a cluster is formed to identify PCIs/PMIs that are all needed to address the same bottleneck across country borders and that provide synergies if implemented together. In this case, all the PCIs/PMIs shall be implemented to achieve the Union-wide benefits;
+
+(b) A cluster of potentially competing PCIs/PMIs is defined as a ‘Cluster X, including one or more of the following PCIs/PMIs:’. Such a cluster reflects uncertainty as to the extent of the bottleneck across country borders. In this case, not all the PCIs/PMIs included in the cluster have to be implemented. It is left to the market to determine whether one, several or all PCIs/PMIs are to be implemented, subject to the necessary planning, permit and regulatory approvals. The need for the PCIs/PMIs shall be reassessed – also with regard to the capacity needs – in a subsequent PCI/PMI-identification process;
+
+(c) A cluster of competing PCIs/PMIs is defined as a ‘Cluster X, including one of the following PCIs/PMIs:’. Such a cluster addresses the same bottleneck. However, the extent of the bottleneck is more certain than in the case of a cluster of potentially competing PCIs/PMIs, and therefore, it is decided that only one PCI/PMI has to be implemented. It is left to the market to determine which PCI/PMI is to be implemented, subject to the necessary planning, permit and regulatory approvals. Where necessary, the need for PCIs/PMIs shall be reassessed in a subsequent PCI/PMI identification process.
+
+All PCIs/PMIs are subject to the rights and obligations set under Regulation (EU) 2022/869.
+
+(2) Treatment of substations and compressor stations
+
+Substations and back-to-back electricity stations and compressor stations are considered parts of PCIs/PMIs if they are geographically located on transmission lines or next to pipelines, as the case may be. Substations, back-to-back stations and compressor stations are considered stand-alone PCIs and are listed explicitly on the Union list if their geographical location is different from transmission lines or pipelines, as the case may be. They are subject to the rights and obligations laid down in Regulation (EU) 2022/869.
+
+(3) Projects that are no longer considered PCIs or PMIs, and projects that have become part of other PCIs or PMIs
+
+Several projects included in the first Union list are no longer considered PCIs or PMIs for one or more of the following reasons:
+
+(a) the project has already been commissioned or will be commissioned by March of 2026 and would therefore not benefit from the provisions of Regulation (EU) 2022/869;
+
+(b) according to new data, the project does not satisfy the general criteria;
+
+(c) the project was not re-submitted to be selected as a PCI/PMI;
+
+(d) a Member State to whose territory the project relates has not granted its approval; or
+
+(e) the project was ranked lower than other candidate PCIs/PMIs in the selection process.
+
+Those projects (with the exception of the projects commissioned or to be commissioned by March 2026) may be considered for inclusion on the next Union list if the reasons for non-inclusion in the current Union list no longer apply.
+
+Such projects are not PCIs or PMIs but, for reasons of transparency and clarity, are listed with their original PCI or PMI numbers in part C of this Annex as ‘Projects no longer considered PCIs or PMIs’.
+
+Some projects included in the first Union list became, during their implementation process, integral parts of other (clusters of) PCIs or PMIs.
+
+Such projects are no longer considered independent PCIs or PMIs but, for reasons of transparency and clarity, are listed with their original PCI or PMI numbers in part C of this Annex as ‘Projects that are now integral parts of other PCIs or PMIs’.
+
+(4) Non-eligible parts of the PCI/PMI projects
+
+Some PCI/PMI projects include one or more non-eligible investments. These following investments shall not be considered as part of the Union list:
+
+(a) internal reinforcements for the ‘MEDLINK’ project (part of PMI 1.35), namely the AC transmission line between Annaba and Tougourt in Algeria, and the AC transmission line between De Jebil and Marsa Dhib in Tunisia;
+
+(b) internal reinforcements for the Interconnector between Subotica (RS) and Sándorfalva (HU) (part of PMI 2.12), namely the overhead line between Novi Sad 3 to Sombor 3, the overhead line between Srbobran and Sremska Mitrovica 2, and the reconstruction of substation Subotica 3;
+
+(c) internal reinforcements for the Interconnection between Wadi El Natroon (EG) and Mesogeia/St Stefanos (EL) [currently known as the ‘GREGY Interconnector’] (part of PMI 2.13) – internal sections in EG;
+
+(d) internal reinforcements for the interconnection between Bobov Dol (BG) and Leskovac 2 (RS) [currently known as the ‘Central Balkan Corridor’] (part of PMI 2.26), namely the upgrade of the overhead line between Nis 2 and Krusevac 1, the upgrade of substation Krusevac 1, the upgrade of the overhead line Krusevac 1 and Kraljevo 3, the upgrade of the overhead line between Kraljevo and Pozega, the new Pozega substation, the new overhead line between Jagodina and Pozarevac, the upgrade of the overhead line between Pozega and Vardiste, and the new substation in Pozarevac 3;
+
+(e) internal sections of the Spanish backbone (part of PCI 9.1.3): Coruña – Zamora, Huelva – Algeciras, Castilla y León (between Zamora – Haro), Guitiriz – Zamora, and the Castilla La Mancha and Madrid connection;
+
+(f) the Freiburg – Offenbach internal section in Germany (part of PCI 9.2.1);
+
+(g) the Limburg area section and its connection to the North-South backbone in the East of NL (part of PCI 9.6);
+
+(h) the internal section in Germany starting close to Bremen and going towards Hanover (part of PCI 9.7.4);
+
+(i) the internal section in France from Port-de-la-Nouvelle via Barbaira (part of PCI 9.27.2);
+
+(j) the internal section in France Bordeaux – Lussagnet (part of PCI 9.27.3);
+
+(k) the internal section in Germany starting close to Bremen and going south (part of PCI 9.28);
+
+(l) the internal section in UK from Bacton to the internal UK hydrogen network (part of PMI 9.35);
+
+(m) the internal sections in Tunisia of the North Africa Hydrogen Corridor (part of PMI 10.12);
+
+(n) the internal section in Sweden connecting Kiruna to Luleå of the Nordic Hydrogen Route – Bothnian Bay (part of PCI 11.1);
+
+(o) the internal sections in Finland (geographical references are given as indications): Mäntsälä, Imatra, Kouvola, Kotka; the internal line of the Nordic-Baltic Hydrogen Corridor in LT connecting to Klaipėda (part of PCI 11.2);
+
+(p) the section Sweden – Finland and the connection of the Baltic Sea Hydrogen Collector to Gotland island (part of PCI 11.3).
+
+(5) Numbering of the projects on the Union list
+
+Projects that were included in the first Union list shall retain their original PCI/PMI number in the current Union list. Projects that are newly included in the current Union list shall be assigned a new unique PCI/PMI number.
+
+**B. THE UNION LIST OF PROJECTS OF COMMON INTEREST AND PROJECTS OF MUTUAL INTEREST**
+
+(1) North-South electricity interconnections in Western Europe (NSI West Electricity)
+
+Projects of common interest developed in the region:
+
+No Definition
+
+1.1 Portugal – Spain interconnection between Beariz – Fontefría (ES), Fontefria (ES) – Ponte de Lima (PT) and Ponte de Lima – Vila Nova de Famalicão (PT), including substations in Beariz (ES), Fontefría (ES) and Ponte de Lima (PT)
+
+1.2 Interconnection between Gatica (ES) and Cubnezais (FR) [currently known as ‘Biscay Gulf’]
+
+1.3 Interconnection between La Martyre (FR) and Great Island or Knockraha (IE) [currently known as ‘Celtic Interconnector’]
+
+1.4 1.4.1 Internal line from Emden-East to Osterath to increase capacity from Northern Germany to the Rhineland [currently known as ‘A-Nord’]
+
+1.5 Internal line in Germany between Brunsbüttel/Wilster to Großgartach/Grafenrheinfeld to increase capacity at Northern and Southern borders [currently known as ‘Suedlink’]
+
+1.6 Internal line between Osterath and Philippsburg (DE) to increase capacity at Western borders [currently known as ‘Ultranet’]
+
+1.7 1.7.1 Interconnection between Navarra (ES) and Landes (FR) [currently known as ‘Pyrenean crossing 1’]
+
+1.7.2 Interconnection between Aragón region (ES) and Marsillon (FR) [currently known as ‘Pyrenean crossing 2’]
+
+1.8 Interconnection between Lonny (FR) and Gramme (BE)
+
+1.9 Internal lines at the Belgian north border between Zandvliet and Lillo-Liefkenshoek (BE), and between Liefkenshoek and Mercator, including a substation in Lillo (BE) [currently known as ‘BRABO II + III’]
+
+1.10 Interconnection between mainland Italy – Corsica (FR) and Sardinia (IT) [currently known as ‘SACOI 3’]
+
+1.11 Kaunertal Storage Extension Project (AT)
+
+1.12 Purifying-Pumped Hydroelectric Energy Storage NAVALEO (ES)
+
+1.13 Silvermines Pumped Hydroelectric Energy Storage (IE)
+
+1.14 Pumped Hydroelectric Energy Storage RIEDL (DE)
+
+1.16 Green Hydrogen Hub Denmark Compressed Air Energy Storage (DK)
+
+1.17 Pumped Hydroelectric Energy Storage WSK PULS (DE)
+
+1.18 Reversible Hydraulic Pumped Energy Storage AGUAYO II (ES)
+
+1.22 Internal line between Bordeaux area and Nantes area (FR) [currently known as ‘GiLA’]
+
+1.23 Internal line between Montalto and Avenza (IT) [currently known as ‘HG North Tyrrhenian Corridor’]
+
+1.24 Internal line between Ovelgönne/Rastede/Wiefelstede/Westerstede and Bürstadt and Marxheim (Taunus) (DE) [currently known as ‘Rhine-Main-Link’]
+
+1.25 Online Grid Controller ‘PSKW-Rio’ (DE)
+
+1.26 Pumped Hydroelectric Energy Storage CHR IRENE (ES)
+
+1.27 Pumped Hydroelectric Energy Storage PSP CONSO II (ES)
+
+1.28 Pumped Hydroelectric Energy Storage Villarosa (IT)
+
+1.29 Pumped Hydroelectric Energy Storage Taccu Sa Pruna (IT)
+
+1.30 Pumped Hydroelectric Energy Storage Favazzina (IT)
+
+1.31 Pumped Hydroelectric Energy Storage Serra Del Corvo (IT)
+
+1.32 Compressed Air Energy Storage ‘CAES Ahaus, Germany’ (DE)
+
+Projects of mutual interest developed in the region:
+
+No Definition
+
+1.19 Interconnection between Sicily (IT) and Tunisia node (TN) [currently known as ‘ELMED’]
+
+1.20 Interconnection between Zeebrugge area (BE) and Kemsley, Kent (UK) [currently known as ‘Cronos’]
+
+1.21 Interconnection between Emden areas (DE) and Corringham, Essex (UK) [currently known as ‘Tarchon’]
+
+1.33 Interconnection between Woodland (IE) and Turleenan (UK) [currently known as ‘North-South interconnector’] (No 2.13.1 on the fourth PCI list)
+
+1.34 Interconnection between Maynooth (IE) and Bodelwyddan (UK) [currently known as ‘MaresConnect’]
+
+1.35 Interconnection between La Spezia (IT) and Annaba (DZ) and between Suvereto (IT) and Marsa Dhib (TN) [currently known as ‘Medlink’]
+
+(2) North-South electricity interconnections in Central Eastern and South Eastern Europe (NSI East Electricity)
+
+Projects of common interest developed in the region:
+
+No Definition
+
+2.1 Cluster Austria – Germany, including the following PCIs:
+
+2.1.1 Interconnection between Isar/Altheim/Ottenhofen (DE) – St.Peter (AT)
+
+2.1.3 Internal line between Westtirol – Zell/Ziller (AT)
+
+2.1.4 Interconnector between Pleinting (DE) – St.Peter (AT)
+
+2.2 Internal line in Germany between Wolmirstedt and Isar [currently known as ‘SuedOstLink’]
+
+2.3 Cluster of internal lines in Czechia, including the following PCIs:
+
+2.3.2 Internal line between Prestice and Kocin
+
+2.3.3 Internal line between Kocin and Mirovka
+
+2.4 Interconnector between Würmlach (AT) – Somplago (IT)
+
+2.5 Cluster Hungary – Romania, including the following PCIs:
+
+2.5.1 Interconnector between Józsa (HU) and Oradea (RO)
+
+2.5.2 Internal line between Urechesti (RO) and Targu Jiu (RO)
+
+2.5.3 Internal line between Targu Jiu (RO) and Paroseni (RO)
+
+2.5.4 Internal line between Paroseni (RO) and Baru Mare (RO)
+
+2.5.5 Internal line between Baru Mare (RO) and Hasdat (RO)
+
+2.5.6 Upgrade of substation Rosiori (RO)
+
+2.5.7 Interconnector between Nadab (RO) and Bekescsaba (HU)
+
+2.6 Cluster Israel – Cyprus – Greece [currently known as ‘Great Sea Interconnector’], including the following PCIs:
+
+2.6.1 Interconnection between Hadera (IL) and Kofinou (CY)
+
+2.6.2 Interconnection between Kofinou (CY) and Korakia, Crete (EL)
+
+2.7 Interconnector between Otrokovice (CZ) – Ladce (SK)
+
+2.8 Interconnector between Lienz (AT) – Veneto region (IT)
+
+2.9 Hydro-pumped storage in Amfilochia (EL)
+
+2.10 Ptolemaida Battery Energy Storage System (EL)
+
+2.11 Modernisation of Pumped Hydroelectric Energy Storage in Čierny Váh (SK) [currently known as ‘SE Integrator’]
+
+2.14 Internal line between Villanova and Fano (IT) [currently known as ‘Adriatic HVDC link’]
+
+2.15 Internal line between Lienz, Malta and Obersielach (AT)
+
+2.16 Interconnection between Hradec (CZ) and Röhrsdorf (DE)
+
+2.17 Interconnection between Galatina (IT) and Thesprotia (EL) [currently known as ‘GRITA 2’]
+
+2.18 Internal line between St. Peter and Dürnrohr (AT)
+
+2.19 Internal line between Foggia and Forli (IT) [currently known as ‘HG Adriatic Corridor’]
+
+2.20 Interconnection between Sajóivánka (HU) – Rimavská Sobota (SK) (No 3.17 on the fourth PCI list)
+
+2.21 Hydro-pumped storage in Yadenitsa (BG) (No 3.23 on the fourth PCI list)
+
+2.22 Hydro-pumped storage in Kozjak (SI)
+
+2.23 Hydro-pumped storage in Batak (BG)
+
+2.24 Hydro-pumped storage Dospat (BG)
+
+Projects of mutual interest developed in the region:
+
+No Definition
+
+2.12 Interconnector between Subotica (RS) and Sándorfalva (HU) [currently known as ‘Pannonian Corridor’]
+
+2.13 Interconnection between Sidi Barrani shore (EG) and Mesogeia/St Stefanos (EL) [currently known as ‘GREGY Interconnector’]
+
+2.25 Second interconnection between Villanova (IT) and Lastva (ME)
+
+2.26 Interconnection between Bobov Dol (BG) and Leskovac 2 (RS) [currently known as the ‘Central Balkan Corridor’]
+
+2.27 Interconnection between Anaklia (GE) and Constanta Sud (RO) [currently known as ‘Black Sea interconnection cable’]
+
+2.28 Interconnection between Mukacheve (UA) and Veľké Kapušany (SK)
+
+2.29 Interconnection between Artsyz (UA) and Isaccea (RO)
+
+(3) Baltic Energy Market Interconnection Plan in electricity (BEMIP Electricity)
+
+Projects of common interest developed in the region:
+
+No Definition
+
+3.2 Hydro-pumped electricity storage in Estonia
+
+3.3 Integration and synchronisation of the Baltic States’ electricity system with the European networks, including the following PCIs:
+
+3.3.3 Internal line between Paide and Sindi (EE)
+
+3.3.5 Further infrastructure aspects related to the implementation of the synchronisation of the Baltic States’ system with the continental European network
+
+3.3.6 Interconnection between Lithuania and Poland [currently known as ‘Harmony Link’]
+
+3.3.11 Internal line between Dunowo and Żydowo Kierzkowo (PL)
+
+3.3.12 Internal line between Piła Krzewina and Żydowo Kierzkowo (PL)
+
+3.3.13 Internal line between Morzyczyn-Dunowo-Słupsk-Żarnowiec (PL)
+
+3.3.14 Internal line between Żarnowiec-Gdańsk/Gdańsk Przyjaźń-Gdańsk Błonia (PL)
+
+3.5 Fourth interconnection between Finland – Sweden [currently known as ‘Aurora line 2’]
+
+3.6 Interconnection between Finland and Estonia [currently known as ‘Estlink 3’]
+
+3.7 Interconnection between Finland and Sweden [currently known as ‘Fenno-Skan 3’]
+
+3.8 Interconnection between Sweden and Denmark [currently known as ‘Upgrade to Konti-Skan’]
+
+3.9 Latvia and Lithuania cross-border strengthening project
+
+3.10 Hydro-pumped electricity storage in Finland [currently known as ‘Kemijoki PSP’]
+
+(4) Northern Seas offshore grids (NSOG):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+4.2 Offshore hybrid interconnector between Belgium and Denmark [currently known as ‘Triton Link’]
+
+4.3 High voltage offshore substation and connection to Menuel (FR) [currently known as ‘Offshore Wind connection Centre Manche 1’]
+
+4.4 High voltage offshore substation and connection to Tourbe (FR) [currently known as ‘Offshore Wind connection Centre Manche 2’]
+
+4.7 Offshore Wind Connection Fécamp-Grand Large 1 (FR)
+
+4.8 Offshore Wind Connection Fécamp-Grand Large 2 (FR)
+
+4.9 Offshore hybrid Interconnector between Germany and the Netherlands
+
+Projects of mutual interest developed in the region:
+
+No Definition
+
+4.5 Multi-purpose interconnector between Princess Elisabeth Island (BE) and Kent (UK) [currently known as ‘Nautilus’]
+
+4.6 Multi-purpose HVDC interconnection between Great Britain and the Netherlands [currently known as ‘LionLink’]
+
+4.10 Offshore hybrid interconnector between the United Kingdom and Germany [currently known as ‘HansaLink – Phase 1’]
+
+(5) Baltic Energy Market Interconnection Plan offshore grids (BEMIP offshore):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+5.1 Latvia and Estonia Hybrid Offshore interconnector [currently known as ‘Elwind’]
+
+5.2 Bornholm Energy Island (BEI) Hybrid Offshore interconnector between Denmark and Germany
+
+(6) South and West offshore grids (SW offshore):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+6.1 Offshore Wind Connection Occitanie (FR)
+
+6.2 Offshore Wind Connection PACA (FR)
+
+6.3 Offshore Wind Connection Golfe de Lion Centre (FR)
+
+(7) South and East offshore grids (SE offshore):
+
+No projects were submitted for this corridor.
+
+(8) Atlantic offshore grids:
+
+Projects of common interest developed in the region:
+
+No Definition
+
+8.1 Offshore Wind Connection South Britanny (FR)
+
+8.2 Offshore Wind Connection South Atlantic Oléron 1 (FR)
+
+8.3 Offshore Wind Connection South Atlantic Oléron 2 (FR)
+
+8.4 Offshore Wind Connection Golfe de Gascogne Sud (FR)
+
+8.5 Offshore Wind Connection Bretagne Nord-Ouest (FR)
+
+(9) Hydrogen interconnections in Western Europe (HI West):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+9.1 Corridor Portugal – Spain – France – Germany:
+
+9.1.1 Internal hydrogen infrastructure in Portugal
+
+9.1.2 Hydrogen interconnector Portugal – Spain
+
+9.1.3 Internal hydrogen infrastructure in Spain
+
+9.1.4 Hydrogen interconnector Spain – France [currently known as ‘BarMar’]
+
+9.1.5 Internal hydrogen infrastructure in France connecting to Germany [currently known as ‘HyFen’]
+
+9.1.6 Internal hydrogen infrastructure in Germany connecting to France [currently known as ‘H2Hercules South-West’]
+
+9.2 France – Germany cross-border hydrogen valleys:
+
+9.2.1 Hydrogen valley in Germany to the French border [currently known as ‘RHYn’]
+
+9.2.2 Hydrogen valley in France to the German border [currently known as ‘Mosahyc’]
+
+9.3 Internal hydrogen infrastructure in France to the Belgian border [currently known as ‘Franco-Belgian H2 corridor’]
+
+9.4 Internal hydrogen infrastructure in Germany [currently known as ‘H2ercules West’]
+
+9.5 Internal hydrogen infrastructure in Belgium [currently known as ‘Belgian Hydrogen Backbone’]
+
+9.6 Internal hydrogen infrastructure in the Netherlands [currently known as ‘National Hydrogen Backbone’]
+
+9.7 Hydrogen interconnectors National Hydrogen Backbone (NL) – Germany
+
+German part:
+
+9.7.1 Hydrogen interconnector from the North-South backbone in East to Oude (NL) [currently known as ‘H2ercules North’]
+
+9.7.2 Hydrogen interconnector from the North-South backbone in East to Vlieghuis (NL) – Vlieghuis – Ochtrup (DE)
+
+9.7.3 Hydrogen interconnector from Netherlands to Germany [currently known as ‘Delta Rhine Corridor H2’]
+
+9.7.4 Hydrogen interconnector Germany – Netherlands 2 [currently known as ‘Hyperlink’]
+
+9.7.5 Hydrogen interconnector from the North-South backbone in Winterswijk/Vreden to Germany [currently known as ‘H2ercules North-West’]
+
+9.8 Offshore hydrogen pipeline Germany [currently known as ‘AquaDuctus’]
+
+9.9 Hydrogen interconnector Denmark – Germany:
+
+9.9.1 Internal hydrogen infrastructure in Germany [currently known as ‘HyperLink III’]
+
+9.9.2 Internal hydrogen infrastructure in Denmark [currently known as ‘DK Hydrogen Pipeline West’]
+
+9.10 Ammonia reception facilities in Belgium:
+
+9.10.1 Ammonia reception facility Antwerp
+
+9.10.2 Ammonia reception facility Amplifhy Antwerp
+
+9.10.3 Zeebrugge New Molecules development ammonia reception facility
+
+9.10.4 Ammonia reception facility Antwerp VEPA
+
+9.11 Ammonia reception facilities in Germany:
+
+9.11.1 Ammonia reception facility terminal Brunsbüttel
+
+9.11.3 Ammonia reception facility Wilhelmshaven (Uniper)
+
+9.12 9.12.2 Ammonia reception facility Amplifhy Rotterdam
+
+9.13 Ammonia reception facility Dunkerque (FR)
+
+9.15 Electrolyser facilities in Spain:
+
+9.15.4 Valle andaluz del hidrógeno verde electrolyser – Huelva
+
+9.15.5 Asturias H2 valley electrolyser
+
+9.15.6 Valdo Eume electrolyser
+
+9.15.7 Catalina electrolyser
+
+9.15.8 ErasmoPower2X electrolyser
+
+9.16 Electrolyser facilities in France:
+
+9.16.6 GHYga H2 electrolyser
+
+9.16.7 H2V 59 electrolyser
+
+9.17 9.17.4 ScheldeH2 electrolyser (NL)
+
+9.18 Electrolyser facilities in Germany:
+
+9.18.3 Rheinfelden electrolyser
+
+9.18.4 GreenRoot electrolyser
+
+9.20 Danish Hydrogen Storage (DK)
+
+9.21 Hystock Opslag H2 storage (NL)
+
+9.22 Hydrogen storages in Germany:
+
+9.22.1 Salthy hydrogen storage Harsefeld
+
+9.22.3 Salthy hydrogen storage Harsefeld II A+B
+
+9.22.4 EWE Hydrogen Storage Huntorf
+
+9.22.5 UST Hydrogen Storage Krummhörn
+
+9.22.6 NWKG H2 Storage
+
+9.22.7 EWE Hydrogen Storage Jemgum
+
+9.22.8 Gasunie SpHyGER Etzel
+
+9.22.9 RWE H2 Storage expansion Gronau-Epe (No 9.22.2 on the 1st Union list)
+
+9.22.10 RWE H2 Storage Gronau-Epe – 2nd expansion
+
+9.22.11 UST Hydrogen Storage Epe
+
+9.24 Hydrogen storages in Spain:
+
+9.24.1 H2 storage North – 1
+
+9.24.2 H2 storage North – 2
+
+9.26 Hydrogen interconnectors France – Luxembourg – Belgium:
+
+9.26.1 Hydrogen interconnector France Luxembourg [currently known as ‘Hy4link (FR)’]
+
+9.26.2 Internal hydrogen pipeline in Luxembourg to the Belgium border [currently known as ‘Hy4link (LU)’]
+
+9.27 Internal hydrogen infrastructure in France from Bordeaux to Mediterranean coast:
+
+9.27.1 MidHY
+
+9.27.2 HySoW Mediterranean
+
+9.27.3 HySoW Atlantic
+
+9.28 Internal hydrogen infrastructure in Germany [currently known as ‘Hyperlink 4-5’]
+
+9.29 Hydrogen corridor Italy – Switzerland – Germany:
+
+9.29.1 Internal hydrogen infrastructure in Italy from Poggio Renatico to the Swiss border
+
+9.29.2 Internal hydrogen infrastructure in Germany [currently known as ‘Alpine HyWay’]
+
+9.30 Electrolyser facilities in Denmark:
+
+9.30.1 HØST PtX Esbjerg (formerly Jyske Banke Nord PtX) electrolyser (No 9.19 on the 1st Union list)
+
+9.30.2 Hela electrolyser
+
+9.30.3 Vidar electrolyser
+
+9.30.4 Plug Idomlund electrolyser
+
+9.30.5 Esbjerg electrolyser
+
+9.31 H2Austria&Bavaria+Store electrolyser (AT)
+
+9.32 CHYMIA electrolyser (BE)
+
+9.33 Hydrogen storages in France:
+
+9.33.1 Storage GeoH2 (No 9.23 on the first Union list)
+
+9.33.2 HyPSTER_3 Storage
+
+9.33.3 HySoW storage
+
+Projects of mutual interest developed in the region:
+
+No Definition
+
+9.34 Internal hydrogen infrastructure in Switzerland (part of the hydrogen corridor Italy – Switzerland – Germany) [currently known as ‘Alpine H2 corridor’])
+
+9.35 Hydrogen interconnector Belgium – United Kingdom
+
+(10) Hydrogen interconnections in Central Eastern and South Eastern Europe (HI East):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+10.1 SoutH2 corridor Tunisia – Italy – Austria – Germany:
+
+10.1.1 Internal hydrogen infrastructure in Italy [currently known as ‘Italian H2 Backbone’]
+
+10.1.2 Internal hydrogen infrastructure in Austria [currently known as ‘H2 Readiness of the TAG pipeline system’]
+
+10.1.3 Internal hydrogen infrastructure in Austria [currently known as ‘H2 Backbone WAG and Penta West’]
+
+10.1.4 Internal hydrogen infrastructure in Germany [currently known as ‘HyPipe Bavaria – The Hydrogen Hub’]
+
+10.2 Czech – German Hydrogen Interconnection:
+
+10.2.1 Internal hydrogen infrastructure in Czechia towards Germany [currently known as ‘Czech H2 Backbone West’]
+
+10.2.2 Internal hydrogen infrastructure in Germany [currently known as ‘FLOW East – Making Hydrogen Happen’]
+
+10.2.3 Internal hydrogen infrastructure in Germany [currently known as ‘H2ercules Network South-East’]
+
+10.3 Hydrogen interconnection Greece – Bulgaria:
+
+10.3.1 Internal hydrogen infrastructure in Greece towards the Bulgarian border [currently known as ‘H2DRIA pipeline’]
+
+10.3.2 Internal hydrogen infrastructure in Bulgaria towards the Greece border
+
+10.5 Central European Hydrogen Corridor Ukraine – Slovakia – Czechia – Germany:
+
+10.5.1 Internal hydrogen infrastructure in Slovakia [currently known as ‘Slovak Hydrogen Backbone’]
+
+10.5.2 Internal hydrogen infrastructure in Czechia [currently known as ‘Czech Hydrogen Backbone North’]
+
+10.6 Hydrogen interconnection Slovakia – Hungary:
+
+10.6.1 Internal hydrogen infrastructure in Slovakia [currently known as ‘SK-HU H2 corridor’]
+
+10.6.2 Internal hydrogen infrastructure in Hungary [currently known as ‘HU/SK hydrogen corridor’]
+
+10.7 Hydrogen corridor Greece – Italy:
+
+10.7.1 Internal hydrogen infrastructure in Greece [currently known as ‘Komnina – Florovouni pipeline’]
+
+10.7.2 Offshore hydrogen pipeline between Greece and Italy [currently known as ‘H2 Poseidon pipeline’]
+
+10.8 Ammonia reception facility Ionian Energy Terminal (GR)
+
+10.9 Electrolyser facility Thalis 1 (GR)
+
+10.10 EWE Hydrogen Storage Ruedersdorf (DE)
+
+10.11 Fiume Treste Livello Underground Hydrogen Storage (IT)
+
+Projects of mutual interest developed in the region:
+
+No Definition
+
+10.12 Offshore hydrogen pipeline between Tunisia and Italy [currently known as ‘North Africa Hydrogen Corridor’] (part of SoutH2 corridor)
+
+10.13 Internal hydrogen infrastructure in Ukraine [currently known as ‘Central European Hydrogen Corridor (UKR part)’]
+
+(11) Baltic Energy Market Interconnection Plan in hydrogen (BEMIP Hydrogen):
+
+Projects of common interest developed in the region:
+
+No Definition
+
+11.1 Hydrogen interconnector between Sweden and Finland [currently known as ‘Nordic Hydrogen Route – Bothnian Bay’]
+
+11.2 Hydrogen interconnector between Finland, Estonia, Latvia, Lithuania, Poland and Germany [currently known as ‘Nordic-Baltic Hydrogen Corridor’]
+
+11.3 Hydrogen interconnector between Finland and Germany [currently known as the ‘Baltic Sea Hydrogen Collector’]
+
+11.4 H2 interconnections Germany – Poland [currently known as ‘Pomeranian Green Hydrogen cluster’]
+
+11.5 Electrolyser facilities in Finland:
+
+11.5.1 Porvoo Phase 2
+
+11.5.2 Project FOX
+
+11.5.3 Plug Power Kristinestad project
+
+(12) Priority Thematic Area Smart electricity grids deployment:
+
+Projects of common interest developed in the thematic area:
+
+No Definition
+
+12.2 CARMEN (BG, RO), to reinforce cross-border cooperation and data sharing between TSOs, enhance cooperation between TSOs and DSOs, support grid expansion and increase capacity for integration of new renewable energy sources and improve grid stability, security and flexibility
+
+12.3 Danube InGrid (HU, SK), to efficiently integrate the behaviour and actions of all market users connected to the electricity networks in Hungary and Slovakia
+
+12.4 Gabreta Smart Grids (CZ, DE), to increase grid hosting capacity, enable remote monitoring and control of MV grids and improve grid observability and network planning
+
+12.5 GreenSwitch (AT, HR, SI), to increase hosting capacity for distributed renewable sources and efficient integration of new loads, improving observability of the distribution network and increasing cross-border capacity
+
+12.6 Selena (CZ, HU, SK), to enhance energy security, efficiency, and resilience in Czech Republic, Hungary, and Slovakia by modernising and integrating their electricity distribution networks
+
+12.7 Tune (HU, SI, SK), to increase controllability and strengthen the power networks in Slovenia, Slovakia. and Hungary
+
+(13) Priority Thematic Area Cross-border carbon dioxide network:
+
+Projects of common interest developed in the thematic area:
+
+No Definition
+
+13.1 CO2 TransPorts will establish infrastructure to facilitate large-scale capture, transport and storage of CO2 from the Rotterdam, Antwerp and North Sea Port areas
+
+13.2 Aramis – cross-border CO2 transport and storage project, intake from emitters in the hinterland of the Rotterdam harbour area, pipe transport to storage on the Dutch continental shelf
+
+13.4 Bifrost – transport and storage project with offshore storage in DK from emitters from Denmark, Germany and Poland
+
+13.5 Callisto – development of multi-modal CO2 hubs in the Mediterranean storing CO2 emissions from France and Italy in storage sites off the coast of Ravenna
+
+13.6 CCS Baltic Consortium – cross-border CO2 transport via pipeline and rail/truck between Latvia and Lithuania with a multi-modal LCO2 terminal based in Klaipeda
+
+13.7 Delta Rhine Corridor – project to transport CO2 via pipelines from emitters in the Ruhr area in Germany and the Rotterdam area in the Netherlands to offshore storage off the Dutch coast
+
+13.8 EU2NSEA – cross-border CO2 network developed between Belgium, Germany and Norway to also collect CO2 from DK, FR, LV, NL, PL and SE, with storage on the Norwegian continental shelf
+
+13.10 Norne – transport infrastructure in Denmark with onshore and possibly offshore storage, emitters primarily from DK, SE, BE and UK will transport to DK via ship
+
+13.11 Prinos – Apollo CO2 – Offshore storage at Prinos field for emissions from EL, by pipeline, and from BG, HR, CY, EL, IT and SI by ship
+
+13.12 Pycasso – transport and storage of CO2 in onshore storage site in southwestern FR, industrial emitters from FR and ES
+
+13.15 BaltiCO2Net – the project includes 17 capture initiatives at industrial emission sites in five EU Member States (DK, DE, LV, PL, SE) with storage foreseen onshore in Denmark
+
+13.16 ECO2CEE – LCO2 terminal in Gdansk receiving CO2 from industry in Poland via pipeline and Klaipeda terminal receiving CO2 from Lithuanian plant via pipe/rail/truck (No 13.3 on the 1st Union list)
+
+Projects of mutual interest developed in the thematic area:
+
+No Definition
+
+13.13 Northern Lights – a CO2 cross-border connection project between several European capture initiatives (among others Belgium, Germany, Ireland, France, Sweden) transport by ship to storage on the Norwegian continental shelf
+
+13.14 Nautilus CCS – Emissions from Le Havre, Dunkirk, Duisburg and Rogaland areas to be captured and transported by ship to various sinks in the North Sea (extension of No 12.8 on the fifth PCI list)
+
+13.17 Atlas – storage in offshore Atlas site (NO) and transport by CO2 shuttle vessels with direct offloading capacity and Floating Collection, Storage and Offloading unit (FCSO) as option for CO2 captured at industrial sites in the EU
+
+13.18 Carbon Connect – a ~200km cross-border sub-sea trunk pipeline for transport and storage of anthropogenic CO2 from Zeebrugge (Belgium), to the UK sector of the Southern North Sea
+
+13.19 German Carbon Transport Grid – the project intends to build and operate an extensive network of CO2 pipelines in Germany, transporting emissions to CO2 sinks in Northern Europe and to link the grid to various national grids
+
+(14) Priority Thematic Area Smart gas grids:
+
+No Definition
+
+14.1 GREENCONNECT (Grid for Renewable gas Enabling Efficient Networks and Cross-border Operation for New Net-zero Energy interConnection and Transmission)
+
+14.2 Croatia and Slovenia Smart Gas Grid Project
+
+14.3 SmartSwitch project – Smartening of existing Greek and Bulgarian Gas Transmission System for the integration of hydrogen and renewable gases in the network
+
+(15) Projects that maintain their status of project of common interest (Article 24 derogation):
+
+No Definition
+
+15.1 Connection of Malta to the European gas network – pipeline interconnection with Italy at Gela
+
+15.2 Pipeline from the East Mediterranean gas reserves to Greece mainland via Cyprus and Crete [currently known as ‘EastMed Pipeline’], with metering and regulating station at Megalopoli
+
+**C. LISTS OF THE ‘PROJECTS NO LONGER CONSIDERED PCIS OR PMIS’ AND OF THE ‘PROJECTS THAT ARE NOW INTEGRAL PARTS OF OTHER PCIS or PMIS’**
+
+(1) North-South electricity interconnections in Western Europe (NSI West Electricity)
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+1.4.2
+
+1.4.3
+
+1.15
+
+(2) North-South electricity interconnections in Central Eastern and South Eastern Europe (NSI East Electricity)
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+2.1.2
+
+2.3.1
+
+(3) Baltic Energy Market Interconnection Plan in electricity (BEMIP Electricity)
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+3.1
+
+3.3.1
+
+3.3.2
+
+3.3.4
+
+3.3.7
+
+3.3.8
+
+3.3.9
+
+3.3.10
+
+3.3.15
+
+3.4.1
+
+3.4.2
+
+(4) Northern Seas offshore grids (NSOG)
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+4.1
+
+(9) Hydrogen interconnections in Western Europe (HI West)
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+9.11.2
+
+9.12.1
+
+9.12.3
+
+9.14
+
+9.15.1
+
+9.15.2
+
+9.15.3
+
+9.16.1
+
+9.16.2
+
+9.16.3
+
+9.16.4
+
+9.16.5
+
+9.17.1
+
+9.17.2
+
+9.17.3
+
+9.18.1
+
+9.18.2
+
+9.19
+
+9.22.2
+
+9.25
+
+(10) Hydrogen interconnections in Central Eastern and South Eastern Europe (HI East)
+
+Projects that are now integral parts of other PCIs/PMIs
+
+| Original PCI/PMI number of the project | Number of a PCI/PMI in which the project is now integrated |
+| --- | --- |
+| 10.4 | 10.5 and 10.13 |
+
+(12) Priority Thematic Area Smart electricity grids deployment
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+12.1
+
+(13) Priority Thematic Area Cross-border carbon dioxide network
+
+PCI/PMI numbers of the projects no longer considered PCIs/PMIs
+
+13.9
+
+( 1 ) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
+
+( 2 ) Regulation (EU) 2024/1991 of 24 June 2024 of the European Parliament and of the Council on nature restoration and amending Regulation (EU) 2022/869 (OJ L, 2024/1991, 29.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1991/oj).
+
+( 3 ) Regulation (EU) 2024/1789 of the European Parliament and of the Council of 13 June 2024 on the internal markets for renewable gas, natural gas and hydrogen, amending Regulations (EU) No 1227/2011, (EU) 2017/1938, (EU) 2019/942 and (EU) 2022/869 and Decision (EU) 2017/684 and repealing Regulation (EC) No 715/2009 (OJ L, 2024/1789, 15.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1789/oj).
+
+( 4 ) Regulation (EC) No 401/2009 of the European Parliament and of the Council of 23 April 2009 on the European Environment Agency and the European Environment Information and Observation Network (OJ L 126, 21.5.2009, p. 13).
+
+( 5 ) Regulation (EC) No 714/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity and repealing Regulation (EC) No 1228/2003 (OJ L 211, 14.8.2009, p. 15).
+
+( 6 ) Regulation (EU) 2022/869 of the European Parliament and the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45).’.
+
+( 7 ) Regulation (EU) 2022/869 of the European Parliament and the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45).’.
+
+( 8 ) Regulation (EU) 2022/869 of the European Parliament and the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45).’.
+
+( 9 ) Regulation (EU) No 1316/2013 of the European Parliament and of the Council of 11 December 2013 establishing the Connecting Europe Facility, amending Regulation (EU) No 913/2010 and repealing Regulations (EC) No 680/2007 and (EC) No 67/2010 (OJ L 348, 20.12.2013, p. 129).
+
+( 10 ) Commission Delegated Regulation (EU) 2022/564 of 19 November 2021 amending Regulation (EU) No 347/2013 of the European Parliament and of the Council as regards the Union list of projects of common interest (OJ L 109, 8.4.2022, p. 14).
+
+( 11 ) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1).

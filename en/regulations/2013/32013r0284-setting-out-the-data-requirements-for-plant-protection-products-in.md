@@ -1,0 +1,3116 @@
+---
+title: "Commission Regulation (EU) No 284/2013 of 1 March 2013 setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market Text with EEA relevance"
+identifier: "32013R0284"
+eli: "http://data.europa.eu/eli/reg/2013/284/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-03-01
+entry_into_force: 2013-05-27
+last_amended: 2022-11-21
+consolidated_version: "02013R0284-20221121"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0284-20221121"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 284/2013 of 1 March 2013 setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 284/2013**
+
+**of 1 March 2013**
+
+**setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/1475 of 27 August 2015 </td><td> L 225</td><td>10</td><td>28.8.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/1440 of 31 August 2022 </td><td> L 227</td><td>38</td><td>1.9.2022</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 284/2013**
+
+**of 1 March 2013**
+
+**setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Data requirements for plant protection products
+
+The data requirements for plant protection products provided for in Article 8(1)(c) of Regulation (EC) No 1107/2009 shall be as set out in the Annex to this Regulation.
+
+## Article 2 — Repeal
+
+Regulation (EU) No 545/2011 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+## Article 3 — Transitional measures as regards procedures concerning active substances
+
+With respect to active substances, Regulation (EU) No 545/2011 shall continue to apply as regards the following:
+
+(a) procedures concerning the approval of an active substance or an amendment to the approval of such a substance pursuant to Article 13 of Regulation (EC) No 1107/2009 for which the dossiers provided for in Article 8(1) and (2) thereof have been submitted by 31 December 2013;
+
+(b) procedures concerning the renewal of approval of an active substance pursuant to Article 20 of Regulation (EC) No 1107/2009 for which the supplementary dossiers referred to in Article 9 of Commission Regulation (EU) No 1141/2010 ( 1 ) have been submitted by 31 December 2013.
+
+## Article 4 — Transitional measures as regards procedures concerning plant protection products
+
+1\. Regulation (EU) No 545/2011 shall continue to apply as regards procedures concerning the authorisation of a plant protection product, as referred to in Article 28 of Regulation (EC) No 1107/2009, provided that the respective application has been submitted by 31 December 2015 and that the plant protection product contains at least one active substance for which the dossiers or supplementary dossiers have been submitted in compliance with Article 3.
+
+Regulation (EU) No 545/2011 shall continue to apply as regards procedures concerning the renewal of authorisations of plant protection product pursuant to Article 43(2) of Regulation (EC) No 1107/2009, following the renewal of an active substance carried out pursuant to Regulation (EU) No 1141/2010.
+
+2\. By way of derogation from paragraph 1, from 1 January 2014 applicants may choose to apply the data requirements, as set out in the Annex to this Regulation. This choice shall be made in writing when submitting the application and shall be irrevocable.
+
+## Article 5 — Entry into force and date of application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. For procedures concerning the renewal of approval of active substances whose approval expires on 1 January 2016 or later, this Regulation shall apply as of entry into force.
+
+As regards all other procedures, it shall apply from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**INTRODUCTION**
+
+**Information to be submitted, its generation and its presentation**
+
+1\. For the purposes of this Annex, the following definitions apply:
+
+(1) ‘storage stability’ means the capacity of a plant protection product to maintain the initial properties and the specified content during the storage period under established storage conditions;
+
+(2) ‘effectiveness’ means the capacity of the plant protection product to produce a positive effect regarding the desired plant protection activity;
+
+(3) ‘efficacy’ means a measure concerning the overall effect of the application of a plant protection product on the agricultural system in which it is used (i.e. which includes positive effects of treatment in performing the desired plant protection activity and negative effects such as development of resistance, phytotoxicity or reduction of qualitative or quantitative yield);
+
+(4) ‘relevant impurity’ means a chemical impurity that is of concern for human health, animal health or the environment;
+
+(5) ‘toxicity’ means the degree of injury or damage in an organism caused by a toxin or a toxic substance;
+
+(6) ‘toxin’ means a substance that is produced within living cells or organisms and is able to injure or cause damage in a living organism.
+
+The information submitted shall meet the requirements set out in points 1.1 to 1.15.
+
+1.1. The information shall be sufficient to evaluate efficacy and the foreseeable risks, whether immediate or delayed, which the plant protection product may entail for humans, including vulnerable groups, animals and the environment and contain at least the information and results of the studies referred to in this Annex.
+
+1.2. Any information including any known data on potentially harmful effects of the plant protection product on human and animal health or on groundwater shall be included as well as known and expected cumulative and synergistic effects.
+
+1.3. Any information including any known data on potentially unacceptable effects of the plant protection product on the environment, plants and plant products shall be included as well as known and expected cumulative and synergistic effects.
+
+1.4. The information shall include all relevant data from the scientific peer reviewed open literature on the active substance, relevant metabolites, and where relevant breakdown or reaction products, and plant protection products containing the active substance and dealing with side-effects on human and animal health, the environment and non-target species. A summary of that data shall be provided.
+
+1.5. The information shall include a full and unbiased report of the studies conducted as well as a full description of them. Such information shall not be required, where a justification is provided showing that:
+
+(a) it is not necessary owing to the nature of the plant protection product or its proposed uses, or it is not scientifically necessary; or
+
+(b) it is technically not possible to supply.
+
+1.6. Where relevant, the information shall be generated using test methods, which are included in the list referred to in point 6.
+
+In the absence of suitable internationally or nationally validated test guidelines, test guidelines accepted by the competent authority shall be used. Any deviations from test guidelines shall be described and justified.
+
+1.7. The information shall include a full description of the test methods used.
+
+1.8. Where relevant, the information shall be generated in accordance with Directive 2010/63/EU of the European Parliament and of the Council ( 2 ).
+
+1.9. The information shall include a list of endpoints for the plant protection product where relevant.
+
+1.10. The information shall include the proposed classification and labelling of the plant protection product in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 3 ), where relevant.
+
+1.11. Information as provided for in Commission Regulation (EU) No 283/2013 ( 4 ) may be required by the competent authorities on co-formulants. Before requiring additional studies to be performed, the competent authorities shall assess all available information provided in accordance with other Union legislation.
+
+1.12. The information provided for the plant protection product and that provided for the active substance, shall be sufficient to:
+
+(a) decide whether or not the plant protection product is to be authorised;
+
+(b) specify conditions or restrictions to be associated with any authorisation;
+
+(c) permit an evaluation of short and long-term risks for non-target species - populations, communities and processes;
+
+(d) identify relevant first aid measures as well as appropriate diagnostic and therapeutic measures to be followed in the event of poisoning in humans;
+
+(e) permit a risk assessment of acute and chronic consumer exposure, including, where relevant, a cumulative risk assessment deriving from exposure to more than one active substance;
+
+(f) permit an estimation of acute and chronic exposure of operators, workers, residents and bystanders including, where relevant, the cumulative exposure to more than one active substance;
+
+(g) permit an evaluation to be made as to the nature and extent of the risks for humans, animals (species normally fed and kept by humans or food-producing animals) and of the risks for other non-target vertebrate species;
+
+(h) predict the distribution, fate and behaviour in the environment, as well as the time courses involved;
+
+(i) identify non-target species and populations for which risks arise because of potential exposure;
+
+(j) permit an assessment of the impact of the plant protection product on non-target species;
+
+(k) identify measures necessary to minimise contamination of the environment and impact on non-target species;
+
+(l) classify the plant protection product as to hazard in accordance with Regulation (EC) No 1272/2008;
+
+(m) specify the pictograms, the signal words, and relevant hazard and precautionary statements for the protection of human health, non-target species and the environment, which are to be used for labelling purposes.
+
+1.13. Where relevant, tests shall be designed and data analysed using appropriate statistical methods. Details of the statistical analysis shall be reported transparently.
+
+1.14. Exposure calculations shall refer to scientific methods accepted by the European Food Safety Authority, when available. The use of additional methods shall be justified.
+
+1.15. For each section of this Annex, a summary of all data, information and evaluation made shall be submitted. This shall include a detailed and critical assessment in accordance with Article 4 of Regulation (EC) No 1107/2009.
+
+2\. The requirements set out in this Annex constitute the minimum set of data to be submitted. Member States may set out additional requirements at national level to address specific circumstances, specific exposure scenarios and specific patterns of use other than those taken into account for approval. The applicant shall pay careful attention to environmental, climatic and agronomic conditions when tests are set up subject to the approval by the Member State where the application has been submitted.
+
+**3\. Good laboratory practice (GLP)**
+
+3.1. Tests and analyses shall be conducted in accordance with the principles laid down in Directive 2004/10/EC of the European Parliament and of the Council ( 5 ) where testing is done to obtain data on the properties or safety with respect to human or animal health or the environment.
+
+3.2. By way of derogation from point 3.1, tests and analyses, required under Section 6 of Part A and Section 6 of Part B, may be conducted by official or officially recognised testing facilities or organisations, which satisfy at least the following requirements:
+
+(a) they have at their disposal sufficient scientific and technical staff having the necessary education, training, technical knowledge and experience for their assigned functions;
+
+(b) they have at their disposal suitable equipment required for correct performance of the tests and measurements which they claim to be competent to carry out; that equipment is properly maintained and calibrated, where appropriate, before being put into service and thereafter in accordance with an established programme;
+
+(c) they have at their disposal appropriate experimental fields and, where necessary, greenhouses, growth cabinets or storage rooms; they ensure that environment in which the tests are undertaken does not invalidate their results or adversely affect the required accuracy of measurement;
+
+(d) they make available to all relevant personnel operating procedures and protocols used for the trials;
+
+(e) they make available, where requested by the competent authority, prior to the commencement of a test, information on its location and on the tested plant protection products;
+
+(f) they ensure that the quality of the work performed is appropriate to its type, range, volume and intended purpose;
+
+(g) they maintain records of all observations, calculations and derived data and calibrations records and final test report as long as the plant protection product concerned is authorised in a Member State.
+
+3.3. Officially recognised testing facilities and organisations, and, where requested by the competent authorities, official facilities and organisations shall:
+
+(a) report to the relevant national authority all information necessary to demonstrate that they can satisfy the requirements set out in point 3.2,
+
+(b) permit at any time the inspections, which each Member State shall regularly organise on its territory in order to verify the compliance with point 3.2.
+
+3.4. By way of derogation from point 3.1:
+
+(a) For active substances that are micro-organisms, tests and analyses performed to obtain data on their properties and safety with respect to other aspects than human health, may be conducted by official or officially recognised testing facilities or organisations which satisfy at least the requirements specified in points 3.2 and 3.3.
+
+(b) Studies conducted before the application of this Regulation, although not fully compliant with GLP principles or with current test methods, shall be considered for the assessment if carried out in accordance with the recognised international test guidelines in place at the time of conduction of the studies and/or scientifically valid, thereby avoiding repeating animal tests, especially for carcinogenicity and reprotoxicity studies. This derogation shall apply in particular to studies with vertebrate species.
+
+**4\. Test material**
+
+4.1. Due to the influence that impurities and other components can have on toxicological and ecotoxicological behaviour, a detailed description (specification) of the test material used shall be provided for each study submitted. Studies shall be conducted using the plant protection product to be authorised or bridging principles may be applied, for example, by using a study on a plant protection product with a comparable/equivalent composition. A detailed description of the composition used shall be provided.
+
+4.2. Where radio-labelled test material is used, radio-labels shall be positioned at sites (one or more as necessary), to facilitate elucidation of metabolic and transformation pathways and to facilitate investigation of the distribution of the active substance and of its metabolites, breakdown and reaction products.
+
+4.3. Whenever a study implies the use of different doses, the relationship between the dose and the adverse effect shall be reported.
+
+**5\. Tests on vertebrate animals**
+
+5.1. Tests on vertebrate animals shall be undertaken only where no other validated methods are available. Alternative methods shall include in vitro methods or in silico methods. Reduction and refinement methods for in vivo testing shall also be encouraged to keep the number of animals used in testing to a minimum.
+
+5.2. The principles of replacement, reduction and refinement of the use of vertebrate animals shall be taken into account in the design of the test methods, in particular when appropriate validated methods become available to replace, reduce or refine animal testing.
+
+5.3. Study designs shall be carefully considered from an ethical point of view, taking into account the scope for reduction, refinement and replacement of animal tests. For example, by including one or more additional dose groups or time points for blood sampling in one study, it may be possible to avoid the need for another study.
+
+6\. For purposes of information and harmonisation, the list of test methods and guidance documents referred to in this Annex shall be published in the Official Journal of the European Union. That list shall be regularly updated.
+
+**PART A**
+
+**CHEMICAL PLANT PROTECTION PRODUCTS**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>SECTION 1</td><td>Identity of the plant protection product</td></tr>
+<tr><td>1.1.</td><td>Applicant</td></tr>
+<tr><td>1.2.</td><td>Producer of the plant protection product and the active substances</td></tr>
+<tr><td>1.3.</td><td>Trade name or proposed trade name and producer’s development code number of the plant protection product if appropriate</td></tr>
+<tr><td>1.4.</td><td>Detailed quantitative and qualitative information on the composition of the plant protection product</td></tr>
+<tr><td>1.4.1.</td><td>Composition of the plant protection product</td></tr>
+<tr><td>1.4.2.</td><td>Information on the active substances</td></tr>
+<tr><td>1.4.3.</td><td>Information on safeners, synergists and co-formulants</td></tr>
+<tr><td>1.5.</td><td>Type and code of the plant protection product</td></tr>
+<tr><td>1.6.</td><td>Function</td></tr>
+<tr><td>SECTION 2</td><td>Physical, chemical and technical properties of the plant protection product</td></tr>
+<tr><td>2.1.</td><td>Appearance</td></tr>
+<tr><td>2.2.</td><td>Explosive and oxidising properties</td></tr>
+<tr><td>2.3.</td><td>Flammability and self-heating</td></tr>
+<tr><td>2.4.</td><td>Acidity/alkalinity and pH value</td></tr>
+<tr><td>2.5.</td><td>Viscosity and surface tension</td></tr>
+<tr><td>2.6.</td><td>Relative density and bulk density</td></tr>
+<tr><td>2.7.</td><td>Storage stability and shelf-life: effects of temperature on technical characteristics of the plant protection product</td></tr>
+<tr><td>2.8.</td><td>Technical characteristics of the plant protection product</td></tr>
+<tr><td>2.8.1.</td><td>Wettability</td></tr>
+<tr><td>2.8.2.</td><td>Persistent foaming</td></tr>
+<tr><td>2.8.3.</td><td>Suspensibility, spontaneity of dispersion and dispersion stability</td></tr>
+<tr><td>2.8.4.</td><td>Degree of dissolution and dilution stability</td></tr>
+<tr><td>2.8.5.</td><td>Particle size distribution, dust content, attrition and mechanical stability</td></tr>
+<tr><td>2.8.5.1.</td><td>Particle size distribution</td></tr>
+<tr><td>2.8.5.2.</td><td>Dust content</td></tr>
+<tr><td>2.8.5.3.</td><td>Attrition</td></tr>
+<tr><td>2.8.5.4.</td><td>Hardness and integrity</td></tr>
+<tr><td>2.8.6.</td><td>Emulsifiability, re-emulsifiability, emulsion stability</td></tr>
+<tr><td>2.8.7.</td><td>Flowability, pourability and dustability</td></tr>
+<tr><td>2.9.</td><td>Physical and chemical compatibility with other products including plant protection products with which its use is to be authorised</td></tr>
+<tr><td>2.10.</td><td>Adherence and distribution to seeds</td></tr>
+<tr><td>2.11.</td><td>Other studies</td></tr>
+<tr><td>SECTION 3</td><td>Data on application</td></tr>
+<tr><td>3.1.</td><td>Field of use envisaged</td></tr>
+<tr><td>3.2.</td><td>Effects on harmful organisms</td></tr>
+<tr><td>3.3.</td><td>Details of intended use</td></tr>
+<tr><td>3.4.</td><td>Application rate and concentration of the active substance</td></tr>
+<tr><td>3.5.</td><td>Method of application</td></tr>
+<tr><td>3.6.</td><td>Number and timing of applications and duration of protection</td></tr>
+<tr><td>3.7.</td><td>Necessary waiting periods or other precautions to avoid phytotoxic effects on succeeding crops</td></tr>
+<tr><td>3.8.</td><td>Proposed instructions for use</td></tr>
+<tr><td>SECTION 4</td><td>Further information on the plant protection product</td></tr>
+<tr><td>4.1.</td><td>Safety intervals and other precautions to protect humans, animals and the environment</td></tr>
+<tr><td>4.2.</td><td>Recommended methods and precautions</td></tr>
+<tr><td>4.3.</td><td>Emergency measures in the case of an accident</td></tr>
+<tr><td>4.4.</td><td>Packaging, compatibility of the plant protection product with proposed packaging materials</td></tr>
+<tr><td>4.5.</td><td>Procedures for destruction or decontamination of the plant protection product and its packaging</td></tr>
+<tr><td>4.5.1.</td><td>Neutralisation procedures</td></tr>
+<tr><td>4.5.2.</td><td>Controlled incineration</td></tr>
+<tr><td>SECTION 5</td><td>Analytical methods</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>5.1.</td><td>Methods used for the generation of pre-authorisation data</td></tr>
+<tr><td>5.1.1.</td><td>Methods for the analysis of the plant protection product</td></tr>
+<tr><td>5.1.2.</td><td>Methods for the determination of residues</td></tr>
+<tr><td>5.2.</td><td>Methods for post-authorisation control and monitoring purposes</td></tr>
+<tr><td>SECTION 6</td><td>Efficacy data</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>6.1.</td><td>Preliminary tests</td></tr>
+<tr><td>6.2.</td><td>Testing effectiveness</td></tr>
+<tr><td>6.3.</td><td>Information on the occurrence or possible occurrence of the development of resistance</td></tr>
+<tr><td>6.4.</td><td>Adverse effects on treated crops</td></tr>
+<tr><td>6.4.1.</td><td>Phytotoxicity to target plants (including different cultivars), or to target plant products</td></tr>
+<tr><td>6.4.2.</td><td>Effects on the yield of treated plants or plant products</td></tr>
+<tr><td>6.4.3.</td><td>Effects on the quality of plants or plant product</td></tr>
+<tr><td>6.4.4.</td><td>Effects on transformation processes</td></tr>
+<tr><td>6.4.5.</td><td>Impact on treated plants or plant products to be used for propagation</td></tr>
+<tr><td>6.5.</td><td>Observations on other undesirable or unintended side-effects</td></tr>
+<tr><td>6.5.1.</td><td>Impact on succeeding crops</td></tr>
+<tr><td>6.5.2.</td><td>Impact on other plants, including adjacent crops</td></tr>
+<tr><td>6.5.3.</td><td>Effects on beneficial and other non-target organisms</td></tr>
+<tr><td>SECTION 7</td><td>Toxicological studies</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>7.1.</td><td>Acute toxicity</td></tr>
+<tr><td>7.1.1.</td><td>Oral toxicity</td></tr>
+<tr><td>7.1.2.</td><td>Dermal toxicity</td></tr>
+<tr><td>7.1.3.</td><td>Inhalation toxicity</td></tr>
+<tr><td>7.1.4.</td><td>Skin irritation</td></tr>
+<tr><td>7.1.5.</td><td>Eye irritation</td></tr>
+<tr><td>7.1.6.</td><td>Skin sensitisation</td></tr>
+<tr><td>7.1.7.</td><td>Supplementary studies on the plant protection product</td></tr>
+<tr><td>7.1.8.</td><td>Supplementary studies for combinations of plant protection products</td></tr>
+<tr><td>7.2.</td><td>Data on exposure</td></tr>
+<tr><td>7.2.1.</td><td>Operator exposure</td></tr>
+<tr><td>7.2.1.1.</td><td>Estimation of operator exposure</td></tr>
+<tr><td>7.2.1.2.</td><td>Measurement of operator exposure</td></tr>
+<tr><td>7.2.2.</td><td>Bystander and resident exposure</td></tr>
+<tr><td>7.2.2.1.</td><td>Estimation of bystander and resident exposure</td></tr>
+<tr><td>7.2.2.2.</td><td>Measurement of bystander and resident exposure</td></tr>
+<tr><td>7.2.3.</td><td>Worker exposure</td></tr>
+<tr><td>7.2.3.1.</td><td>Estimation of worker exposure</td></tr>
+<tr><td>7.2.3.2.</td><td>Measurement of worker exposure</td></tr>
+<tr><td>7.3.</td><td>Dermal absorption</td></tr>
+<tr><td>7.4.</td><td>Available toxicological data relating to co-formulants</td></tr>
+<tr><td>SECTION 8</td><td>Residues in or on treated products, food and feed</td></tr>
+<tr><td>SECTION 9</td><td>Fate and behaviour in the environment</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>9.1.</td><td>Fate and behaviour in soil</td></tr>
+<tr><td>9.1.1.</td><td>Rate of degradation in soil</td></tr>
+<tr><td>9.1.1.1.</td><td>Laboratory studies</td></tr>
+<tr><td>9.1.1.2.</td><td>Field studies</td></tr>
+<tr><td>9.1.1.2.1.</td><td>Soil dissipation studies</td></tr>
+<tr><td>9.1.1.2.2.</td><td>Soil accumulation studies</td></tr>
+<tr><td>9.1.2.</td><td>Mobility in the soil</td></tr>
+<tr><td>9.1.2.1.</td><td>Laboratory studies</td></tr>
+<tr><td>9.1.2.2.</td><td>Lysimeter studies</td></tr>
+<tr><td>9.1.2.3.</td><td>Field leaching studies</td></tr>
+<tr><td>9.1.3.</td><td>Estimation of concentrations in soil</td></tr>
+<tr><td>9.2.</td><td>Fate and behaviour in water and sediment</td></tr>
+<tr><td>9.2.1.</td><td>Aerobic mineralisation in surface water</td></tr>
+<tr><td>9.2.2.</td><td>Water/sediment study</td></tr>
+<tr><td>9.2.3.</td><td>Irradiated water/sediment study</td></tr>
+<tr><td>9.2.4.</td><td>Estimation of concentrations in groundwater</td></tr>
+<tr><td>9.2.4.1.</td><td>Calculation of concentrations in groundwater</td></tr>
+<tr><td>9.2.4.2.</td><td>Additional field tests</td></tr>
+<tr><td>9.2.5.</td><td>Estimation of concentrations in surface water and sediment</td></tr>
+<tr><td>9.3.</td><td>Fate and behaviour in air</td></tr>
+<tr><td>9.3.1.</td><td>Route and rate of degradation in air and transport via air</td></tr>
+<tr><td>9.4.</td><td>Estimation of concentrations for other routes of exposure</td></tr>
+<tr><td>SECTION 10</td><td>Ecotoxicological studies</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>10.1.</td><td>Effects on birds and other terrestrial vertebrates</td></tr>
+<tr><td>10.1.1.</td><td>Effects on birds</td></tr>
+<tr><td>10.1.1.1.</td><td>Acute oral toxicity to birds</td></tr>
+<tr><td>10.1.1.2.</td><td>Higher tier data on birds</td></tr>
+<tr><td>10.1.2.</td><td>Effects on terrestrial vertebrates other than birds</td></tr>
+<tr><td>10.1.2.1.</td><td>Acute oral toxicity to mammals</td></tr>
+<tr><td>10.1.2.2.</td><td>Higher tier data on mammals</td></tr>
+<tr><td>10.1.3.</td><td>Effects on other terrestrial vertebrate wildlife (reptiles and amphibians)</td></tr>
+<tr><td>10.2.</td><td>Effects on aquatic organisms</td></tr>
+<tr><td>10.2.1.</td><td>Acute toxicity to fish, aquatic invertebrates, or effects on aquatic algae and macrophytes</td></tr>
+<tr><td>10.2.2.</td><td>Additional long-term and chronic toxicity studies on fish, aquatic invertebrates and sediment dwelling organisms</td></tr>
+<tr><td>10.2.3.</td><td>Further testing on aquatic organisms</td></tr>
+<tr><td>10.3.</td><td>Effects on arthropods</td></tr>
+<tr><td>10.3.1.</td><td>Effects on bees</td></tr>
+<tr><td>10.3.1.1.</td><td>Acute toxicity to bees</td></tr>
+<tr><td>10.3.1.1.1.</td><td>Acute oral toxicity</td></tr>
+<tr><td>10.3.1.1.2.</td><td>Acute contact toxicity</td></tr>
+<tr><td>10.3.1.2.</td><td>Chronic toxicity to bees</td></tr>
+<tr><td>10.3.1.3.</td><td>Effects on honey bee development and other honey bee life stages</td></tr>
+<tr><td>10.3.1.4.</td><td>Sub-lethal effects</td></tr>
+<tr><td>10.3.1.5.</td><td>Cage and tunnel tests</td></tr>
+<tr><td>10.3.1.6.</td><td>Field tests with honeybees</td></tr>
+<tr><td>10.3.2.</td><td>Effects on non-target arthropods other than bees</td></tr>
+<tr><td>10.3.2.1.</td><td>Standard laboratory testing for non-target arthropods</td></tr>
+<tr><td>10.3.2.2.</td><td>Extended laboratory testing, aged residue studies with non-target arthropods</td></tr>
+<tr><td>10.3.2.3.</td><td>Semi-field studies with non-target arthropods</td></tr>
+<tr><td>10.3.2.4.</td><td>Field studies with non-target arthropods</td></tr>
+<tr><td>10.3.2.5.</td><td>Other routes of exposure for non-target arthropods</td></tr>
+<tr><td>10.4.</td><td>Effects on non-target soil meso- and macrofauna</td></tr>
+<tr><td>10.4.1.</td><td>Earthworms</td></tr>
+<tr><td>10.4.1.1.</td><td>Earthworms — sub-lethal effects</td></tr>
+<tr><td>10.4.1.2.</td><td>Earthworms — field studies</td></tr>
+<tr><td>10.4.2.</td><td>Effects on non-target soil meso- and macrofauna (other than earthworms)</td></tr>
+<tr><td>10.4.2.1.</td><td>Species level testing</td></tr>
+<tr><td>10.4.2.2.</td><td>Higher tier testing</td></tr>
+<tr><td>10.5.</td><td>Effects on soil nitrogen transformation</td></tr>
+<tr><td>10.6.</td><td>Effects on terrestrial non-target higher plants</td></tr>
+<tr><td>10.6.1.</td><td>Summary of screening data</td></tr>
+<tr><td>10.6.2.</td><td>Testing on non-target plants</td></tr>
+<tr><td>10.6.3.</td><td>Extended laboratory studies on non-target plants</td></tr>
+<tr><td>10.6.4.</td><td>Semi-field and field tests on non-target plants</td></tr>
+<tr><td>10.7.</td><td>Effects on other terrestrial organisms (flora and fauna)</td></tr>
+<tr><td>10.8.</td><td>Monitoring data</td></tr>
+<tr><td>SECTION 11</td><td>Literature data</td></tr>
+<tr><td>SECTION 12</td><td>Classification and labelling</td></tr>
+</table>
+
+**SECTION 1**
+
+**Identity of the plant protection product**
+
+The information provided shall be sufficient to precisely identify the plant protection product and define it in terms of its specification and nature.
+
+**1.1. Applicant**
+
+The name and address of the applicant shall be provided, as well as the name, position, telephone, e-mail address and telefax number of a contact point.
+
+**1.2. Producer of the plant protection product and of the active substances**
+
+The name and address of the producer of the plant protection product and of each active substance in the plant protection product shall be provided, as well as the name and address of each manufacturing plant in which the plant protection product and active substance are manufactured. A contact point (name, telephone, e-mail address and telefax number) shall be provided.
+
+If the active substance originates from a producer from which data in accordance with Regulation (EU) No 283/2013 have not been submitted previously, data to address those requirements shall be provided in order to establish equivalence of the active substance.
+
+**1.3. Trade name or proposed trade name and producer’s development code number of the plant protection product if appropriate**
+
+All former and current trade names and proposed trade names and development code numbers of the plant protection product shall be provided. Where trade names and code numbers referred to, relate to similar but different plant protection products, full details of the differences shall be provided. The proposed trade name shall be such that it does not give rise to confusion with the trade name of already authorised plant protection products. Each code number shall be specific to a unique plant protection product.
+
+**1.4. Detailed quantitative and qualitative information on the composition of the plant protection product**
+
+1.4.1. Composition of the plant protection product
+
+For plant protection products the following information shall be reported:
+
+— the content of the technical active substances (based on the specified minimum purity) and the declared content of pure active substances and, where relevant, the corresponding content of the variant (such as salts and esters) of the active substances,
+
+— the content of safeners, synergists and co-formulants,
+
+— the maximum content of relevant impurities, where appropriate.
+
+In addition to the total active substance content, for slow or controlled release plant protection products (such as capsule suspension, CS) the free (non-encapsulated) and encapsulated active substance content and the release rate shall be given. Where possible, appropriate Collaborative International Pesticides Analytical Council (CIPAC) methods shall be used. If an alternative method is used this shall be justified by the applicant and a detailed description of the methodology used shall be given.
+
+The concentration of each active substance shall be expressed as follows:
+
+— for solids, aerosols, volatile liquids (maximum boiling point 50 °C) or viscous liquids (lower limit 1 Pa s at 20 °C), as % w/w and g/kg,
+
+— for other liquids/gel formulations, as % w/w and g/l,
+
+— for gases, as % v/v and % w/w.
+
+1.4.2. Information on the active substances
+
+For active substances their International Organisation for Standardisation (ISO) common names or proposed ISO common names, their CIPAC numbers, and, where available, the European Commission (EC) numbers shall be provided. Where relevant, it shall be stated which salt, ester, anion or cation is present.
+
+1.4.3. Information on safeners, synergists and co-formulants
+
+Safeners, synergists and co-formulants shall, where possible, be identified both by their chemical name as given in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council or, if not included in that Regulation, in accordance with both the International Union of Pure and Applied Chemistry (IUPAC) and Chemical Abstracts (CA) nomenclature. Their structural formula shall be provided. For each component of the safeners, synergists and co-formulants the relevant EC number and Chemical Abstracts Service (CAS) number, where they exist, shall be provided. For co-formulants which are mixtures, the composition shall be provided. Where the information provided does not fully identify the safener, synergist or co-formulant, an appropriate specification shall be provided. The trade name, where available, shall also be provided. Safety data sheets pursuant to Article 31 of Regulation (EC) No 1907/2006 ( *1 ) shall be provided. They shall be up to date and in accordance with other Union legislation.
+
+For co-formulants the function shall be specified from among the following:
+
+(a) adhesive (sticker);
+
+(b) antifoaming agent;
+
+(c) antifreeze;
+
+(d) binder;
+
+(e) buffer;
+
+(f) carrier;
+
+(g) deodorant;
+
+(h) dispersing agent;
+
+(i) dye;
+
+(j) emetic;
+
+(k) emulsifier;
+
+(l) fertiliser;
+
+(m) preservative;
+
+(n) odourant;
+
+(o) perfume;
+
+(p) propellant;
+
+(q) repellent;
+
+(r) solvent;
+
+(s) stabiliser;
+
+(t) thickener;
+
+(u) wetting agent;
+
+(v) miscellaneous (shall be specified by the applicant).
+
+A description of the formulation process shall be provided.
+
+**1.5. Type and code of the plant protection product**
+
+The type and code of plant protection product shall be designated according to the latest edition of the ‘Manual on development and use of FAO and WHO specifications for pesticides’ prepared by the FAO/WHO Joint Meeting on Pesticide Specifications (JMPS).
+
+Where a plant protection product is not defined precisely in this publication, a full description of the physical nature and state of the plant protection product shall be provided, together with a proposal for a suitable description of the type of plant protection product and a proposal for its definition.
+
+**1.6. Function**
+
+The function shall be specified from among the following:
+
+(a) acaricide;
+
+(b) bactericide;
+
+(c) fungicide;
+
+(d) herbicide;
+
+(e) insecticide;
+
+(f) molluscicide;
+
+(g) nematicide;
+
+(h) plant growth regulator;
+
+(i) repellent;
+
+(j) rodenticide;
+
+(k) semio-chemicals;
+
+(l) talpicide;
+
+(m) viricide;
+
+(n) other (shall be specified by the applicant).
+
+**SECTION 2**
+
+**Physical, chemical and technical properties of the plant protection product**
+
+The extent to which plant protection products for which authorisation is sought, comply with relevant FAO/WHO specifications, shall be stated. Divergences from these specifications shall be described in detail, and justified by the applicant.
+
+**2.1. Appearance**
+
+A description of the colour and of the physical state of the plant protection product shall be provided.
+
+**2.2. Explosive and oxidising properties**
+
+The explosive and oxidising properties of plant protection products shall be determined and reported. A theoretical estimation based on structure shall be accepted if it meets the criteria set out in Appendix 6 of the United Nations’ Recommendations on the Transport of Dangerous Goods Manual of Tests and Criteria ( 6 ).
+
+**2.3. Flammability and self-heating**
+
+The flash point of liquids which contain flammable solvents shall be determined and reported. The flammability of solid plant protection products and gases shall be determined and reported. A theoretical estimation based on structure shall be accepted if it meets the criteria set out in Appendix 6 of the United Nations’ Recommendations on the Transport of Dangerous Goods Manual of Tests and Criteria.
+
+The self-heating shall be determined and reported.
+
+**2.4. Acidity/alkalinity and pH value**
+
+In the case of aqueous plant protection products, the pH value of the neat plant protection product shall be determined and reported.
+
+In the case of solid and non-aqueous liquid plant protection products which are to be applied as aqueous dilutions the pH of a 1 % dilution of the plant protection product shall be determined and reported.
+
+In the case of plant protection products which are acidic (pH &lt; 4) or alkaline (pH > 10) the acidity or alkalinity shall be determined and reported.
+
+**2.5. Viscosity and surface tension**
+
+For liquid formulations the viscosity shall be determined at two shear rates and at 20°C and 40°C and reported together with the test conditions. The surface tension shall be determined at the highest concentration.
+
+For liquid plant protection products containing ≥10 % hydrocarbons and for which the kinematic viscosity is less than 7 × 10– 6 m2/sec at 40 °C the surface tension of the neat formulation shall be determined at 25 °C and reported.
+
+**2.6. Relative density and bulk density**
+
+The relative density of liquid plant protection products shall be determined and reported.
+
+The bulk density (pour and tap) of plant protection products which are powders or granules shall be determined and reported.
+
+**2.7. Storage stability and shelf-life: effects of temperature on technical characteristics of the plant protection product**
+
+The stability of the plant protection product after accelerated storage for 14 days at 54 °C shall be determined and reported. Data generated from alternative time/temperature combinations (for example 8 weeks at 40 °C, 12 weeks at 35 °C or 18 weeks at 30 °C) may be submitted as alternative accelerated storage data. Consideration shall be given to performing this test in packaging made of the same material as the commercial packaging.
+
+If the active substance content after the heat stability test has decreased by more than 5 % from the initial value, then information on the breakdown products shall be supplied.
+
+For liquid plant protection products, the effect of low temperatures on stability shall be determined and reported.
+
+The shelf life of the plant protection product at ambient temperature shall be determined and reported. Where shelf life is less than two years, the shelf life in months, with appropriate temperature specifications, shall be reported. The ambient temperature stability test shall be performed in packaging made of the same material as the commercial packaging. Where appropriate, data on the content of relevant impurities, before and after storage, shall be provided.
+
+**2.8. Technical characteristics of the plant protection product**
+
+The technical characteristics of the plant protection product shall be determined and reported at appropriate concentrations.
+
+2.8.1. Wettability
+
+The wettability of solid plant protection products, which are diluted for use shall be determined and reported.
+
+2.8.2. Persistent foaming
+
+The persistence of foaming of plant protection products to be diluted with water shall be determined and reported.
+
+2.8.3. Suspensibility, spontaneity of dispersion and dispersion stability
+
+The suspensibility and the spontaneity of dispersion of water dispersible products shall be determined and reported.
+
+The dispersion stability of plant protection products such as aqueous suspo-emulsions (SE), oil-based suspension concentrates (OD) or emulsifiable granules (EG) shall be determined and reported.
+
+2.8.4. Degree of dissolution and dilution stability
+
+The degree of dissolution and the dilution stability of water soluble products shall be determined and reported.
+
+2.8.5. Particle size distribution, dust content, attrition and mechanical stability
+
+2.8.5.1. Particle size distribution
+
+In the case of water dispersible products, a wet sieve test shall be conducted and reported.
+
+The size distribution of particles in the case of powders and suspension concentrates shall be determined and reported.
+
+The nominal size range of granules shall be determined and reported.
+
+2.8.5.2. Dust content
+
+The dust content of granular plant protection products shall be determined and reported.
+
+If results show > 1 % w/w dust then the particle size of the dust generated shall be determined and reported.
+
+2.8.5.3. Attrition
+
+The attrition characteristics of granules and tablets which are loose packed shall be determined and reported.
+
+2.8.5.4. Hardness and integrity
+
+The hardness and integrity of tablets shall be determined and reported.
+
+2.8.6. Emulsifiability, re-emulsifiability, emulsion stability
+
+The emulsifiability, emulsion stability and re-emulsifiability of plant protection products, which exist as emulsions in the spray tank, shall be determined and reported.
+
+2.8.7. Flowability, pourability and dustability
+
+The following characteristics shall be determined and reported:
+
+— the flowability of granular plant protection products,
+
+— the pourability of suspensions, and
+
+— the dustability of dustable powders following accelerated storage according to point 2.7.
+
+**2.9. Physical and chemical compatibility with other products including plant protection products with which its use is to be authorised**
+
+The physical and chemical compatibility of recommended tank mixes shall be determined and reported. Known non-compatibility shall be reported.
+
+**2.10. Adherence and distribution to seeds**
+
+In the case of plant protection products for seed treatment, both distribution and adhesion shall be determined and reported.
+
+**2.11. Other studies**
+
+Supplementary studies necessary for the classification of the plant protection product by hazard shall be carried out in accordance with Regulation (EC) 1272/2008.
+
+**SECTION 3**
+
+**Data on application**
+
+Data on application shall be submitted and shall be consistent with good plant protection practice.
+
+**3.1. Field of use envisaged**
+
+The fields of use, existing and proposed, shall be specified from among the following:
+
+(a) field use, such as agriculture, horticulture, forestry and viticulture, protected crops, amenity, weed control on non-cultivated areas;
+
+(b) home gardening;
+
+(c) house plants;
+
+(d) plant products storage practice;
+
+(e) other (shall be specified by the applicant).
+
+**3.2. Effects on harmful organisms**
+
+The nature of the effects on harmful organisms shall be stated:
+
+(a) contact action;
+
+(b) stomach action;
+
+(c) inhalation action;
+
+(d) fungitoxic action;
+
+(e) fungistatic action;
+
+(f) desiccant;
+
+(g) reproduction inhibitors;
+
+(h) other (shall be specified by the applicant).
+
+In addition, it shall be specified whether the plant protection product is systemic or not in plants.
+
+**3.3. Details of intended use**
+
+Details of the intended use shall be provided including, where relevant, the following information:
+
+— effects achieved for example sprout suppression, retardation of ripening, reduction in stem length, enhanced fertilisation,
+
+— types of harmful organisms controlled,
+
+— plants or plant products to be protected.
+
+**3.4. Application rate and concentration of the active substance**
+
+For each method of application and each use, the rate of application per unit (ha, m2, m3) treated, for plant protection product in g, kg, mL or L and active substance in g or kg shall be provided.
+
+Application rates shall be expressed, as appropriate, in one of the following units:
+
+— g, kg, mL or L per ha,
+
+— kg or L per m3,
+
+— g, kg, mL or L per tonne.
+
+For protected crops and home gardening use rates shall be expressed in:
+
+— g, kg, mL or L per 100 m2, or
+
+— g, kg, mL or L per m3.
+
+The content of active substance shall be expressed, as appropriate, in:
+
+— g or mL per L, or
+
+— g or mL per kg.
+
+**3.5. Method of application**
+
+The method of application proposed shall be described fully, indicating the type of equipment to be used, if any, as well as the type and volume of diluent to be used per unit of area or volume.
+
+**3.6. Number and timing of applications and duration of protection**
+
+The maximum number of applications to be used and their timing shall be reported. Where relevant, the growth stages of the crop or plants to be protected and the development stages of the harmful organisms shall be indicated. Where possible, the interval between applications in days shall be stated.
+
+The duration of protection afforded both by each application and by the maximum number of applications to be used, shall be indicated.
+
+**3.7. Necessary waiting periods or other precautions to avoid phytotoxic effects on succeeding crops**
+
+Where relevant, minimum waiting periods between last application and sowing or planting of succeeding crops, which are necessary to avoid phytotoxic effects on succeeding crops, shall be stated, and follow from the data provided in accordance with point 6.5.1.
+
+Limitations on choice of succeeding crops, if any, shall be stated.
+
+**3.8. Proposed instructions for use**
+
+The proposed instructions for use of the plant protection product, to be printed on labels and leaflets, shall be provided.
+
+**SECTION 4**
+
+**Further information on the plant protection product**
+
+**4.1. Safety intervals and other precautions to protect humans, animals and the environment**
+
+The information provided shall follow from and be supported by the data provided for the active substances and that provided in accordance with Sections 7 and 8.
+
+Where relevant, pre-harvest intervals, re-entry periods or withholding periods necessary to minimise the presence of residues in or on crops, plants and plant products, or in treated areas or spaces, with a view to protecting humans, animals and the environment, shall be specified, such as:
+
+(a) pre-harvest interval (in days) for each relevant crop;
+
+(b) re-entry period (in days) for livestock, to areas to be grazed;
+
+(c) re-entry period (in hours or days) for humans to crops, buildings or spaces treated;
+
+(d) withholding period (in days) for animal feeding stuffs and for post-harvest uses;
+
+(e) waiting period (in days), between application and handling treated products;
+
+(f) waiting period (in days), between last application and sowing or planting succeeding crops.
+
+Where necessary in the light of the test results, information on any specific agricultural, plant health or environmental conditions under which the plant protection product may or may not be used shall be provided.
+
+**4.2. Recommended methods and precautions**
+
+The recommended methods and precautions concerning washing/cleaning of machinery and protective equipment, detailed handling procedures for the storage, at both warehouse and user level of plant protection products, for their transport and in the event of fire shall be provided by the applicant. The effectiveness of cleaning procedures shall be described in detail. Where available, information on combustion products shall be provided. The risks likely to arise and the methods and procedures to minimise the hazards arising, shall be specified. Procedures to preclude or minimise the generation of waste or leftovers shall be provided.
+
+Where appropriate, the nature and characteristics of protective clothing and equipment proposed shall be provided. The data provided shall be sufficient to evaluate the suitability and effectiveness under realistic conditions of use (for example field or glasshouse circumstances).
+
+**4.3. Emergency measures in the case of an accident**
+
+Detailed procedures to be followed in the event of an emergency, whether arising during transport, storage or use, shall be provided and include:
+
+(a) containment of spillages;
+
+(b) decontamination of areas, vehicles and buildings;
+
+(c) disposal of damaged packaging, absorbents and other materials;
+
+(d) protection of emergency workers and residents, including bystanders;
+
+(e) first aid measures.
+
+**4.4. Packaging, compatibility of the plant protection product with proposed packaging materials**
+
+Packaging to be used shall be fully described and specified in terms of the materials used, manner of construction (for example extruded, welded), size and capacity, wall thickness, size of opening, type of closure and seals. Packaging shall be designed in order to limit as much as possible exposure of operators and of the environment.
+
+All packaging used shall comply with the relevant Union legislation on transportation and safe handling.
+
+**4.5. Procedures for destruction or decontamination of the plant protection product and its packaging**
+
+Procedures for destruction and decontamination shall be developed for both small quantities (user level) and large quantities (warehouse level). The procedures shall be consistent with provisions in place relating to the disposal of waste and of toxic waste. The proposed means of disposal shall be without unacceptable influence on the environment and be the most cost effective and feasible.
+
+4.5.1. Neutralisation procedures
+
+Neutralisation procedures (such as by reaction with other substances to form less toxic compounds) for use in the event of accidental spillages shall be described, where such procedures can be applied. The products produced after neutralisation shall be practically or theoretically evaluated and reported.
+
+4.5.2. Controlled incineration
+
+Chemical active substances as well as plant protection products containing them, contaminated materials, or contaminated packaging shall be disposed of through controlled incineration in a licensed incinerator in accordance with the criteria laid down in Directive 94/67/EC of the Council ( 7 ).
+
+If controlled incineration is not the preferred method of disposal, full information on the alternative method of safe disposal used shall be provided. Data shall be provided for such methods, to establish their effectiveness and safety.
+
+**SECTION 5**
+
+**Analytical methods**
+
+**Introduction**
+
+The provisions of this Section cover analytical methods used for the generation of pre-authorisation data and required for post-authorisation control and monitoring purposes.
+
+Descriptions of methods shall be provided and include details of equipment, materials and conditions used.
+
+On request, the following shall be provided:
+
+(a) analytical standards of the purified active substance and of the plant protection product;
+
+(b) samples of the active substance as manufactured;
+
+(c) analytical standards of relevant metabolites and all other components included in all monitoring residue definitions;
+
+(d) samples of reference substances for the relevant impurities.
+
+In addition, the standards referred to in points (a) and (c) shall, where possible, be made commercially available and, on request, the distributing company shall be named.
+
+**5.1. Methods used for the generation of pre-authorisation data**
+
+5.1.1. Methods for the analysis of the plant protection product
+
+Methods shall be provided, with a full description, for the determination of:
+
+(a) active substance and/or variant in the plant protection product;
+
+(b) relevant impurities identified in the technical material or which may be formed during manufacture of the plant protection product or from degradation of the plant protection product during storage;
+
+(c) relevant co-formulants or components of co-formulants, where required by the national competent authorities.
+
+In the case of a plant protection product containing more than one active substance and/or variant a method capable of determining each, in the presence of the other, shall be provided. If a combined method is not submitted, the technical reasons shall be stated.
+
+The applicability of CIPAC methods shall be assessed and reported. In case of use of a CIPAC method, further validation data shall not be required, but example chromatograms shall be submitted, where available.
+
+The specificity of the methods shall be determined and reported. In addition, the extent of interference by other substances present in the plant protection product (such as impurities or co-formulants), shall be determined.
+
+The linearity of methods shall be determined and reported. The calibration range shall extend (by at least 20 %) beyond the highest and lowest nominal content of the analyte in relevant analytical solutions. Either duplicate determinations at three or more concentrations or single determinations at five or more concentrations shall be made. The equation of the calibration line and the correlation coefficient shall be reported and a typical calibration plot shall be submitted. In cases where a non-linear response is used, this shall be justified by the applicant.
+
+The precision (repeatability) of the methods shall be determined and reported. A minimum of five replicate sample determinations shall be made, and the mean, the relative standard deviation and the number of determinations shall be reported. The accuracy of the methods shall be determined on at least two representative samples at levels appropriate to the material specification. The mean and the relative standard deviation of the recoveries shall be reported.
+
+For relevant impurities and, where necessary, for relevant co-formulants the limit of quantification (LOQ) shall be determined and reported and shall be at a concentration of analyte, which is of toxicological or environmental significance, or at the concentration which is formed during storage of the product, where relevant.
+
+5.1.2. Methods for the determination of residues
+
+Methods shall be submitted, with a full description, for the determination of non-isotope-labelled residues in all areas of the dossier, as set out in detail in the following points:
+
+(a) in soil, water, sediment, air and any additional matrices used in support of environmental fate studies;
+
+(b) in soil, water and any additional matrices used in support of efficacy studies;
+
+(c) in feed, body fluids and tissues, air and any additional matrices used in support of toxicology studies;
+
+(d) in body fluids, air and any additional matrices used in support of operator, worker, resident and bystander exposure studies;
+
+(e) in or on plants, plant products, processed food commodities, food of plant and animal origin, feed and any additional matrices used in support of residues studies;
+
+(f) in soil, water, sediment, feed and any additional matrices used in support of ecotoxicology studies;
+
+(g) in water, buffer solutions, organic solvents and any additional matrices resulting from the physical and chemical properties tests.
+
+The specificity of the methods shall be determined and reported. Validated confirmatory methods shall be submitted if appropriate.
+
+The linearity, recovery and precision (repeatability) of methods shall be determined and reported.
+
+Data shall be generated at the LOQ and either the likely residue levels or ten times the LOQ. The LOQ shall be determined and reported for each component in the residue definition.
+
+**5.2. Methods for post-authorisation control and monitoring purposes**
+
+As far as practicable these methods shall employ the simplest approach, involve the minimum cost, and require commonly available equipment.
+
+Analytical methods for the determination of the active substance and relevant impurities in the plant protection product shall be submitted, unless the applicant shows that these methods already submitted in accordance with the requirements set out in point 5.1.1 can be applied.
+
+The provisions set out in point 5.1.1 shall apply.
+
+Methods, with a full description, shall be submitted for the determination of residues:
+
+— in or on plants, plant products, processed food commodities, food and feed of plant and animal origin,
+
+— in body fluids and tissues,
+
+— in soil,
+
+— in water,
+
+— in air, unless the applicant shows that exposure of operators, workers, residents or bystanders is negligible.
+
+The applicant may deviate from such requirement by showing that the methods submitted in accordance with the requirements set out in point 4.2 of Part A of the Annex to Regulation (EU) No 283/2013 can be applied.
+
+The specificity of the methods shall enable all components included in the monitoring residue definition to be determined. Validated confirmatory methods shall be submitted if appropriate.
+
+The linearity, recovery and precision (repeatability) of methods shall be determined and reported.
+
+Data shall be generated at the LOQ and either the likely residue levels or ten times the LOQ. The LOQ shall be determined and reported for each component included in the monitoring residue definition.
+
+For residues in or on food and feed of plant and animal origin and residues in drinking water, the reproducibility of the method shall be determined by means of an independent laboratory validation (ILV) and reported.
+
+**SECTION 6**
+
+**Efficacy data**
+
+**Introduction**
+
+1\. The data supplied shall be sufficient to permit an evaluation of the plant protection product to be made. It shall be possible to evaluate the nature and extent of benefits that accrue following use of the plant protection product, in comparison to an untreated control and where they exist in comparison to suitable reference products and damage thresholds, and to define its conditions of use.
+
+2\. The number of trials to be conducted and reported shall reflect factors such as the extent to which the properties of the active substances it contains are known and on the range of conditions that arise, including variability in plant health conditions, climatic differences, the range of agricultural practices, the uniformity of the crops, the mode of application the type of harmful organism and the type of plant protection product.
+
+3\. Sufficient data shall be submitted to confirm that patterns of use of the plant protection product are representative of the regions and the range of conditions, likely to be encountered in the regions concerned, for which its use is intended. Where the applicant claims that tests in one or more of the proposed regions of use are unnecessary because conditions are comparable with those in other regions where tests have been carried out, the applicant shall substantiate the claim for comparability with documentary evidence.
+
+4\. In order to assess seasonal differences, if any, sufficient data shall be generated and submitted to confirm the performance of the plant protection product in each agronomically and climatically different region for each particular crop (or commodity)/harmful organism combination. Trials on effectiveness and phytotoxicity, where relevant, usually in at least two growing seasons shall be reported.
+
+5\. If the trials from the first season adequately confirm the validity of claims made on the basis of extrapolation of results from other crops, commodities or situations or from tests with closely similar plant protection products, the applicant shall provide a justification for not carrying out a second season’s work. Where, because of climatic or plant health conditions or other reasons the data obtained in any particular season are of limited value for the assessment of performance, trials in one or more further seasons shall be conducted and reported.
+
+**6.1. Preliminary tests**
+
+Reports in summary form of preliminary tests, including glasshouse and field studies, used to assess the biological activity or dose range finding of the plant protection product and of the active substances it contains, shall be submitted as relevant when requested by the competent authority. These reports shall provide additional information for the competent authority in order to justify the recommended dose of the plant protection product and, where the plant protection product contains more than one active substance, the ratio of the active substances.
+
+**6.2. Testing effectiveness**
+
+The tests shall provide sufficient data to permit an evaluation of the level, duration and consistency of control or protection or other intended effects of the plant protection product in comparison to suitable reference products, where they exist.
+
+Test conditions
+
+A trial shall, where possible, consist of the following three components: test product, reference product and untreated control.
+
+The performance of the plant protection product shall be investigated in relation to suitable reference products, where they exist. A plant protection product shall be considered a suitable reference product if it fulfils the following requirements: it is authorised and has proved a sufficient performance in practice under the conditions of the area of intended use (plant health, agricultural, horticultural, forestry, climatic, environmental, as appropriate). The working spectrum, time and method of application, mode of action shall be close to those of the tested plant protection product. If this is not possible, reference product and test product shall be applied according to their specified use.
+
+Plant protection products shall be tested in circumstances where the target harmful organism has been shown to have been present at a level causing or known to cause adverse effects (yield, quality, operational benefit) on an unprotected crop or area or on plants or plant products which have not been treated or where the harmful organism is present at such a level that an evaluation of the plant protection product can be made.
+
+On plant protection products for control of harmful organisms trials shall be performed which show the level of control of the species of harmful organisms concerned or of species representative of groups for which claims are made. Trials shall include the different stages of growth of life cycle of the harmful species, where this is relevant and the different strains or races, where these are likely to show different degrees of susceptibility. Where relevant, these considerations may be addressed in laboratory studies.
+
+Trials to provide data on plant protection products which are plant growth regulators, shall show the level of effects on the species to be treated, and include investigation of differences in the response of a representative sample of the range of cultivars on which its use is proposed.
+
+In order to clarify the dose response, dose rates lower than the recommended one shall be included in some trials in order to enable assessment of whether the recommended rate is the minimum necessary to achieve the desired effect.
+
+The duration of the effects of treatment shall be investigated in relation to the control of the target organism or effect on the treated plants or plant products, as appropriate. When more than one application is recommended for the proposed use pattern of the product, trials shall be reported, which establish the duration of the effects of an application, the number of applications necessary and the desired intervals between them.
+
+Evidence shall be submitted to show that the dose, timing and method of application recommended give adequate control, protection or have the intended effect in the range of circumstances likely to be encountered in practical use.
+
+If there is clear evidence that the performance of the plant protection product is likely to be affected by environmental factors, such as temperature or rain, an investigation of the effects of such factors on performance shall be carried out and reported, particularly where it is known that the performance of chemically related products is so affected.
+
+Where proposed label claims include recommendations for the use of the plant protection product with other plant protection products or adjuvants information on the performance of the mixture shall be provided.
+
+Trials shall be designed to investigate specified issues, to minimise the effects of random variation between different parts of each site and to enable statistical analysis to be applied to results amenable to such analysis. The design, analysis, conduct and reporting of trials shall be in accordance with the specific standards of the European and Mediterranean Plant Protection Organisation (EPPO), where available. Deviations from available EPPO guidelines, may be acceptable provided the trials design meets the minimum requirements of the relevant EPPO standard, and is fully described and justified. The report shall include a detailed and critical assessment of the data.
+
+A statistical analysis of results amenable to such analysis shall be carried out; where necessary the test guideline used shall be adapted to enable such analysis.
+
+Where relevant, evidence of yield and quality may be required as a demonstration of effectiveness.
+
+**6.3. Information on the occurrence or possible occurrence of the development of resistance**
+
+Laboratory data and where it exists, field information relating to the occurrence and development of resistance or cross-resistance in populations of harmful organisms to the active substances, or to related active substances, shall be provided. Where such information is not directly relevant to the uses for which authorisation is sought or to be renewed (different species of harmful organism or different crops), it shall, if available, nevertheless be provided in summary form, as it may provide an indication of the likelihood of resistance developing in the target population.
+
+Where there is evidence or information to suggest that, in commercial use, the development of resistance is likely, evidence shall be generated and submitted as to the sensitivity of the population of the harmful organism concerned to the plant protection product. In such cases a management strategy designed to minimise the likelihood of resistance developing in target species shall be provided. This management strategy shall have regard for and refer to any relevant existing strategies and restrictions already in place.
+
+**6.4. Adverse effects on treated crops**
+
+6.4.1. Phytotoxicity to target plants (including different cultivars), or to target plant products
+
+The test shall provide sufficient data to permit an evaluation of the performance of the plant protection product and of the possible occurrence of phytotoxicity after treatment with the plant protection product.
+
+Test conditions
+
+For herbicides testing with a dose which is twice the recommended dose shall be required. For other plant protection products for which adverse effects, however transitory, are seen during the trials, performed in accordance with point 6.2, the margins of selectivity on target crops shall be established, using higher doses than the recommended rates of application. Where serious phytotoxic effects are seen, an intermediate application rate shall also be investigated.
+
+Where adverse effects occur, but are claimed to be unimportant in comparison with the benefits of use or transient, evidence to support this claim is required. If necessary, yield measurement shall be submitted.
+
+The safety of a plant protection product to the main cultivars of the main crops for which it is recommended shall be demonstrated, including effects of crop growth stage, vigour, and other factors which may influence susceptibility to damage or injury.
+
+The extent of information necessary on other crops shall reflect their degree of similarity to the main crops already tested, the quantity and quality of data available on those main crops and how far the manner of use of the plant protection product, if relevant, is similar. It is sufficient to perform the test with the main plant protection product type to be authorised.
+
+Where proposed label claims include recommendations for the use of the plant protection product with another plant protection product, this point shall apply to the mixture.
+
+Observations concerning phytotoxicity shall be performed in the tests set out in point 6.2.
+
+Where phytotoxic effects are seen, they shall be accurately assessed and recorded.
+
+A statistical analysis of results amenable to such analysis should be carried out, where necessary the test guideline used shall be adapted to enable such analysis.
+
+6.4.2. Effects on the yield of treated plants or plant products
+
+The test shall provide sufficient data to permit an evaluation of the performance of the plant protection product and of possible occurrence of yield reduction or loss in storage of treated plants or plant products.
+
+Circumstances in which required
+
+The effects of plant protection products on the yield or yield components of treated plant products shall be determined where relevant. When treated plants or plant products are likely to be stored the effect on the yield after storage, including data on storage life, shall be determined where relevant.
+
+6.4.3. Effects on the quality of plants or plant product
+
+Appropriate observations of quality parameters may be required for individual crops (for example cereal grain quality, sugar content). Such information can be gathered from appropriate assessments in trials described under 6.2 and 6.4.1.
+
+Where relevant, taint testing shall be conducted.
+
+6.4.4. Effects on transformation processes
+
+Where relevant, tests for effects on transformation processes shall be conducted.
+
+6.4.5. Impact on treated plants or plant products to be used for propagation
+
+Where relevant, sufficient data and observations shall be provided to permit an evaluation of possible adverse effects of a treatment with the plant protection product on plants or plant products to be used for propagation.
+
+Circumstances in which required
+
+Those data and observations shall be submitted, except where the proposed uses preclude use on crops intended for production of seeds, cuttings, runners, tubers or bulbs for planting, as appropriate.
+
+**6.5. Observations on other undesirable or unintended side-effects**
+
+6.5.1. Impact on succeeding crops
+
+Sufficient data shall be provided to permit an evaluation of possible adverse effects of a treatment with the plant protection product on succeeding crops.
+
+Circumstances in which required
+
+Where data, generated in accordance with point 9.1, shows that significant residues of the active substance, its metabolites or breakdown products, which have or may have biological activity on succeeding crops, remain in soil or in plant materials, such as straw or organic material up to sowing or planting time of possible succeeding crops, observations shall be submitted on effects on the normal range of succeeding crops.
+
+6.5.2. Impact on other plants, including adjacent crops
+
+Sufficient data shall be reported to permit an evaluation of possible adverse effects of a treatment with the plant protection product on other plants, including adjacent crops.
+
+Circumstances in which required
+
+Observations shall be submitted on adverse effects on other plants, including the normal range of adjacent crops, when there are indications that the plant protection product could affect these plants via drift. Sufficient data shall be submitted to demonstrate that residues of the plant protection product do not remain in the application equipment after cleaning, and that there is no risk to subsequently treated crops.
+
+6.5.3. Effects on beneficial and other non-target organisms
+
+Any effects, positive or negative, on the incidence of other harmful organisms, observed in the tests performed in accordance with the requirements of this Section, shall be reported. Any observed environmental effects shall also be reported, such as effects on wildlife and non-target organisms, and especially effects on beneficial organisms in case of Integrated Pest Management (IPM).
+
+**SECTION 7**
+
+**Toxicological studies**
+
+**Introduction**
+
+1\. For the evaluation of the toxicity of the plant protection product information shall be provided on acute toxicity, irritation and sensitisation of the active substance. The relevant calculation methods used for the classification of mixtures as laid down in Regulation (EC) No 1272/2008 shall, where appropriate, be applied in the hazard assessment of the plant protection product. Where available, information on mode of toxic action, toxicological profile and all other known toxicological aspects of the active substance and of substances of concern, shall be submitted.
+
+2\. Consideration shall be given to the possible effects of components on the toxic potential of the total mixture.
+
+**7.1. Acute toxicity**
+
+The studies, data and information to be provided and evaluated, shall be sufficient to permit the identification of effects following a single exposure to the plant protection product, to be assessed, and in particular to establish, or indicate:
+
+(a) the toxicity of the plant protection product;
+
+(b) toxicity of the plant protection product relative to the active substance;
+
+(c) the time course and characteristics of the effect with full details of behavioural changes and possible gross pathological findings at post-mortem;
+
+(d) where possible the mode of toxic action; and
+
+(e) the relative hazard associated with the different routes of exposure.
+
+While the emphasis shall be on estimating the toxicity ranges involved, the information generated shall also permit the plant protection product to be classified in accordance with Regulation (EC) No 1272/2008, where applicable.
+
+7.1.1. Oral toxicity
+
+Circumstances in which required
+
+A test for acute oral toxicity shall be carried out, unless the applicant can justify an alternative approach under Regulation (EC) No 1272/2008. In the latter case, acute oral toxicity of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the toxic potential of the total mixture.
+
+7.1.2. Dermal toxicity
+
+Circumstances in which required
+
+A test for dermal toxicity shall be carried out on a case by case basis, unless the applicant can justify an alternative approach under Regulation (EC) No 1272/2008. In the latter case, acute dermal toxicity of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the toxic potential of the total mixture.
+
+Findings of severe skin irritation or corrosion in the dermal study may be used instead of performing a specific irritation study.
+
+7.1.3. Inhalation toxicity
+
+The study shall provide the inhalation toxicity to rats of the plant protection product or of the smoke it generates.
+
+Circumstances in which required
+
+The study shall be carried out where the plant protection product:
+
+(a) is a gas or liquified gas;
+
+(b) is a smoke generating plant protection product or fumigant;
+
+(c) is used with fogging/misting equipment;
+
+(d) is a vapour releasing plant protection product;
+
+(e) is supplied in an aerosol dispenser;
+
+(f) is in a form of a powder or granules containing a significant proportion of particles of diameter &lt; 50 μm (> 1 % on a weight basis);
+
+(g) is to be applied from aircraft in cases where inhalation exposure is relevant;
+
+(h) contains an active substance with a vapour pressure > 1 × 10–2 Pa and is to be used in enclosed spaces such as warehouses or glasshouses;
+
+(i) is to be applied by spraying.
+
+A study shall not be required if the applicant can justify an alternative approach under Regulation (EC) No 1272/2008, where applicable. For this purpose, acute inhalation toxicity of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the toxic potential of the total mixture.
+
+The head/nose only exposure shall be used, unless whole body exposure can be justified.
+
+7.1.4. Skin irritation
+
+The results of the study shall provide the potential for skin irritancy of the plant protection product including the potential reversibility of the effects observed.
+
+Before undertaking in vivo studies for corrosion/irritation of the plant protection product, a weight-of-evidence analysis shall be performed on the existing relevant data. Where insufficient data are available, they can be developed through application of sequential testing.
+
+The testing strategy shall follow a tiered approach:
+
+(1) the assessment of dermal corrosivity using a validated in vitro test method;
+
+(2) the assessment of dermal irritation using a validated in vitro test method (such as human reconstituted skin models);
+
+(3) an initial in vivo dermal irritation study using one animal, and where no adverse effects are noted;
+
+(4) confirmatory testing using one or two additional animals.
+
+Consideration shall be given to use the dermal toxicity study to provide irritancy information.
+
+Findings of severe skin irritation or corrosion in the dermal study may be used instead of performing a specific irritation study.
+
+Circumstances in which required
+
+The skin irritancy of the plant protection product shall be reported based on the tiered approach, unless the applicant can justify an alternative approach under Regulation (EC) No 1272/2008. In the latter case, skin irritation properties of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the irritant potential of the total mixture.
+
+7.1.5. Eye irritation
+
+The results of the study shall provide the potential for eye irritation of the plant protection product, including the potential reversibility of the effects observed.
+
+Before undertaking in vivo studies for eye corrosion/irritation of the plant protection product, a weight-of-evidence analysis shall be performed on the existing relevant data. Where available data are considered insufficient, further data may be developed through application of sequential testing.
+
+The testing strategy shall follow a tiered approach:
+
+(1) the use of an in vitro dermal irritation/corrosion test to predict eye irritation/corrosion;
+
+(2) the performance of a validated or accepted in vitro eye irritation study to identify severe eye irritants/corrosives (such as BCOP, ICE, IRE, HET-CAM), and where negative results are obtained;
+
+(3) the assessment of eye irritation using an available, in vitro test method validated for plant protection products for identification of non-irritants or irritants, and when not available;
+
+(4) an initial in vivo eye irritation study using one animal, and where no adverse effects are noted;
+
+(5) confirmatory testing using one or two additional animals.
+
+Circumstances in which required
+
+Eye irritation tests shall be provided, unless it is likely that severe effects on the eyes may be produced or the applicant can justify an alternative approach under Regulation (EC) No 1272/2008. In the latter case, eye irritation properties of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the irritant potential of the total mixture.
+
+7.1.6. Skin sensitisation
+
+The study shall provide information to assess the potential of the plant protection product to provoke skin sensitisation reactions.
+
+Circumstances in which required
+
+The skin sensitisation test shall be carried out unless the active substances or co-formulants are known to have sensitising properties or the applicant can justify an alternative approach under Regulation (EC) No 1272/2008. In the latter case, skin sensitisation properties of all components shall be provided or reliably predicted with a validated method. Consideration shall be given to the possible effects of components on the sensitising potential of the total mixture.
+
+The local lymph node assay (LLNA) shall be used, including where appropriate the reduced variant of the assay. In case the LLNA cannot be conducted, a justification shall be provided and the Guinea Pig Maximisation Test shall be performed. Where a guinea pig assay (Maximisation or Buehler), meeting OECD guidelines and providing a clear result, is available, further testing shall not be carried out for animal welfare reasons.
+
+Since a skin sensitiser can potentially induce hypersensitivity reaction, potential respiratory sensitisation shall be taken into account when appropriate tests are available or when there are indications of respiratory sensitisation effects.
+
+7.1.7. Supplementary studies on the plant protection product
+
+The need to perform supplementary studies on the plant protection product shall be discussed with the national competent authorities on a case by case basis in the light of the particular parameters to be investigated and the objectives to be achieved (for example for plant protection products containing active substances or other components suspected to have synergistic or additive toxicological effects).
+
+The type of the study shall be adapted to the endpoint of concern.
+
+7.1.8. Supplementary studies for combinations of plant protection products
+
+In cases where the product label includes requirements for use of the plant protection product with other plant protection products or with adjuvants as a tank mix, it may be necessary to carry out studies for a combination of plant protection products or for the plant protection product with adjuvant. The need to perform supplementary studies shall be discussed with the national competent authorities on a case by case basis, taking into account the results of the acute toxicity studies of the individual plant protection products and the toxicological properties of the active substances, the possibility for exposure to the combination of the products concerned, with particular regard to vulnerable groups, and available information or practical experience with the products concerned or similar products.
+
+**7.2. Data on exposure**
+
+For the purpose of this Regulation the following definitions apply:
+
+(a) operators are people who are involved in activities relating to the application of a plant protection product, such as mixing, loading, application, or relating to cleaning and maintenance of equipment containing a plant protection product; operators may be professionals or amateurs;
+
+(b) workers are people who, as part of their employment, enter an area that has previously been treated with a plant protection product or who handle a crop that has been treated with a plant protection product;
+
+(c) bystanders are people who casually are located within or directly adjacent to an area where application of a plant protection product is in process or has taken place, but not for the purpose of working on the treated area or with the treated commodity;
+
+(d) residents are people who live, work or attend any institution near to areas that are treated with plant protection products, but not for the purpose of working on the treated area or with the treated commodity.
+
+In cases where the product label includes requirements for use of the plant protection product with other plant protection products or with adjuvants as a tank mix, the exposure assessment shall cover the combined exposure. Cumulative and synergistic effects shall be taken into account and reported in the dossier.
+
+7.2.1. Operator exposure
+
+Information shall be provided to permit an assessment of the extent of exposure to the active substances and toxicologically relevant compounds in the plant protection product likely to occur under the proposed conditions of use, taking into account cumulative and synergistic effects. It shall also provide a basis for the selection of the appropriate protective measures including personal protective equipment to be used by operators and to be specified on the label.
+
+7.2.1.1. Estimation of operator exposure
+
+An estimation shall be made, using where available a suitable calculation model, in order to permit an evaluation of the operator exposure likely to arise under the proposed conditions of use. Where relevant, this estimation shall take into account cumulative and synergistic effects resulting from the exposure to more than one active substance and toxicologically relevant compounds, including those in the product and tank mix.
+
+Circumstances in which required
+
+An estimation of operator exposure shall always be performed.
+
+Estimation conditions
+
+An estimation shall be made for each type of application method and application equipment proposed for use of the plant protection product taking account of the requirements resulting from Regulation (EC) No 1272/2008, where applicable, for handling the undiluted or diluted product.
+
+The estimation shall address mixing/loading and application, and shall include clean-up activities and routine maintenance of the application equipment. Specific information on local use conditions (types and sizes of containers to be used, application equipment, typical work rates and application rates, spray concentration, field sizes, crop growing climatic conditions) shall be included.
+
+At first an estimation shall be made with the assumption that the operator is not using any personal protective equipment.
+
+Where appropriate, a further estimation shall be made with the assumption that the operator is using effective and readily obtainable protective equipment, which is feasible to be used in practice. Where protective measures are specified on the label, the estimation shall take these into account.
+
+7.2.1.2. Measurement of operator exposure
+
+The study shall provide data to permit an evaluation of the operator exposure likely to arise under the specific proposed conditions of use. The study shall be ethically sound.
+
+Circumstances in which required
+
+Exposure data for the relevant exposure routes shall be reported where there are no representative data in available calculation models or where the model-based risk assessment indicates that the relevant reference value is exceeded.
+
+This will be the case, where the results of the estimation of operator exposure in accordance with point 7.2.1.1 indicate that one or both of the following conditions are fulfilled:
+
+(a) the AOEL established in the context of approval of the active substance may be exceeded;
+
+(b) the Limit Values established for the active substance and toxicologically relevant compounds of the plant protection product in accordance with Directive 98/24/EC and Directive 2004/37/EC may be exceeded.
+
+The study shall be done under realistic exposure conditions taking into account the proposed conditions of use.
+
+7.2.2. Bystander and resident exposure
+
+Information shall be provided to permit an assessment of the extent of exposure to the active substances and toxicologically relevant compounds likely to occur under the proposed conditions of use, taking into account, where relevant, cumulative and synergistic effects. It shall also provide a basis for the selection of appropriate protective measures, including restricted entry intervals, exclusion of residents and bystanders from treatment areas and separation distances.
+
+7.2.2.1 Estimation of bystander and resident exposure
+
+An estimation shall be made, using where available a suitable calculation model in order to permit an evaluation of the bystander and resident exposure likely to arise under the proposed conditions of use. Where relevant, this estimation shall take into account cumulative and synergistic effects resulting from the exposure to more than one active substance and toxicologically relevant compounds, including those in the product and tank mix.
+
+The applicant shall take into consideration that bystanders can be exposed during or after the application of plant protection products and residents may be exposed to plant protection products, mainly, but not only, by inhalation and dermal route and that infants and toddlers exposure may also occur by the oral route (through hand-mouth transfer).
+
+Circumstances in which required
+
+An estimation of bystander and resident exposure shall always be performed.
+
+Estimation conditions
+
+An estimation of bystander and resident exposure shall be made for each relevant type of application method. Specific information including maximum total dose and spray concentration shall be included. The estimation shall be made with the assumption that bystanders and residents do not use any personal protective equipment.
+
+7.2.2.2. Measurement of bystander and resident exposure
+
+The study shall provide data to permit an evaluation of the bystander and resident exposure likely to arise under the specific proposed conditions of use. The study shall be ethically sound.
+
+Circumstances in which required
+
+Exposure data for the relevant exposure routes shall be required where the model based risk assessment indicates that the relevant reference value is exceeded or where there are no representative data in available calculation models.
+
+The study shall be done under realistic exposure conditions taking into account the proposed conditions of use.
+
+7.2.3. Worker exposure
+
+Information shall be provided to permit an assessment of the extent of exposure to the active substances and toxicologically relevant compounds in the plant protection product likely to occur under the proposed conditions of use and agricultural practices, taking into account cumulative and synergistic effects. It shall also provide a basis for the selection of appropriate protective measures, including waiting and re-entry periods.
+
+7.2.3.1. Estimation of worker exposure
+
+An estimation shall be made using, where available, a suitable calculation model, in order to permit an evaluation of the worker exposure likely to arise under the proposed conditions of use. Where relevant, this estimation shall take into account cumulative and synergistic effects resulting from the exposure to more than one active substance and toxicologically relevant compounds, including those in the product and tank mix.
+
+Circumstances in which required
+
+The estimation of worker exposure shall be completed when such exposure could arise under the proposed conditions of use.
+
+Estimation conditions
+
+An estimation of worker exposure shall be made for crops and tasks to be carried out. Specific information including description of post-applications activities, exposure duration, application rate, number of applications, minimum spray interval and growth stage, shall be provided. If data on the amount of dislodgeable residues under the proposed conditions of use are not available, default assumptions shall be used.
+
+At first, the estimation shall be made using available data on the exposure to be expected with the assumption that the worker is not using any personal protective equipment. Where appropriate, a second estimation shall be made with the assumption that the worker is using effective and readily obtainable protective equipment which is feasible to be used and will be worn habitually by workers, for example because it was necessitated by other aspects of task being undertaken.
+
+7.2.3.2. Measurement of worker exposure
+
+The study shall provide data to permit an evaluation of the worker exposure likely to arise under the proposed conditions of use. The study shall be ethically sound.
+
+Circumstances in which required
+
+Exposure data for the relevant exposure routes shall be reported where the model based risk assessment indicates that the relevant reference value is exceeded or where there are no representative data in available calculation models.
+
+This will be the case, where the results of the estimation of worker exposure in accordance with point 7.2.3.1 indicate that one or both of the following conditions are fulfilled:
+
+(a) the AOEL established in the context of approval of the active substance may be exceeded;
+
+(b) the Limit Values established for the active substance and toxicologically relevant compounds of the plant protection product in accordance with Directive 98/24/EC and Directive 2004/37/EC may be exceeded.
+
+The study shall be done under realistic exposure conditions taking into account the proposed conditions of use.
+
+**7.3. Dermal absorption**
+
+The studies shall provide a measurement of the absorption through the skin of the active substances and toxicologically relevant compounds in the plant protection product to be authorised.
+
+Circumstances in which required
+
+The study shall be conducted when dermal exposure is a significant exposure route, and no acceptable risk is estimated using default absorption value.
+
+Test conditions
+
+Data from absorption studies, preferably using human skin in vitro, shall be reported.
+
+Studies shall be performed on representative plant protection products at both in use dilution (when applicable) as well as the concentrated form.
+
+In case studies do not correspond with the anticipated exposure situation (for example with regard to the type of co-formulant or the concentration), scientific argument shall be provided before such data can be used with confidence.
+
+**7.4. Available toxicological data relating to co-formulants**
+
+Where relevant, the applicant shall submit and assess the following information:
+
+(a) the registration number in accordance with Article 20(3) of Regulation (EC) No 1907/2006);
+
+(b) the study summaries included in the technical dossier submitted in accordance with Article 10(a)(vi) of Regulation (EC) No 1907/2006; and
+
+(c) the safety data sheet referred to in Article 31 of Regulation (EC) No 1907/2006.
+
+The safety data sheet under point (c) shall also be submitted and assessed for the plant protection product.
+
+Any other available information shall be submitted.
+
+**SECTION 8**
+
+**Residues in or on treated products, food and feed**
+
+Data and information on residues in or on treated products, food and feed in accordance with Section 6 of Part A of the Annex to Regulation (EU) No 283/2013 shall be submitted, unless the applicant shows that the data and information already submitted for the active substance can be applied.
+
+**SECTION 9**
+
+**Fate and behaviour in the environment**
+
+**Introduction**
+
+1\. Predicted environmental concentrations (PEC).
+
+1.1. A realistic worst-case estimation shall be made of the expected concentrations of the active substance and metabolites, breakdown and reaction products:
+
+— which account for more than 10 % of the amount of active substance added,
+
+— which account for more than 5 % of the amount of active substance added, in at least two sequential measurements,
+
+— for whose individual components (> 5 %) the maximum of formation is not yet reached at the end of the study, in soil, surface in soil, groundwater, surface water, sediment and air, following use as proposed or already occurring.
+
+1.2. For the purposes of the estimation of such concentrations the following definitions apply:
+
+(a) Predicted environmental concentration in soil (PECS) : the level of residues in the top layer of the soil and to which non-target soil organisms may be exposed (acute and chronic exposure).
+
+(b) Predicted environmental concentration in surface water (PECSW) : the level of residues, in surface water to which non-target organisms may be exposed (acute and chronic exposure).
+
+(c) Predicted environmental concentration in sediment (PECSED) : the level of residues, in sediment to which non-target benthic organisms may be exposed (acute and chronic exposure).
+
+(d) Predicted environmental concentration in groundwater (PECGW) : the level of residues in groundwater.
+
+(e) Predicted environmental concentration in air (PECA) : the level of residues in air, to which man, animals and other non-target organisms may be exposed (acute and chronic exposure).
+
+1.3. For the estimation of these concentrations all relevant information on the plant protection product and on the active substance shall be taken into account. Where relevant the parameters set out in Section 7 of Part A of the Annex to Regulation (EU) No 283/2013 shall be used.
+
+1.4. When models are used for estimation of predicted environmental concentrations they shall:
+
+— make a best-possible estimation of all relevant processes involved taking into account realistic parameters and assumptions,
+
+— where possible be reliably validated with measurements carried out under circumstances relevant for the use of the model,
+
+— be relevant to the conditions in the area of use.
+
+1.5. The information provided shall, where relevant, include that referred to in Section 7 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+2\. For solid plant protection products, treated and coated seeds there shall be an assessment of the risk from dust drift on to non-target species during application or sowing. Until agreed dust dissipation rates are available, then likely exposure levels shall be determined using a range of application techniques, suitable dust measurement methodology and, where appropriate, mitigation measures.
+
+**9.1. Fate and behaviour in soil**
+
+9.1.1. Rate of degradation in soil
+
+9.1.1.1. Laboratory studies
+
+Laboratory studies on soil degradation shall provide best possible estimates of the time required for degradation of 50 % and 90 % (DegT50lab and DegT90lab) of the active substance under laboratory conditions.
+
+Circumstances in which required
+
+The persistence and behaviour of plant protection products in soil shall be investigated unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.2.1 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Where it is not possible to extrapolate from anaerobic incubation data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.2.1 of Part A of the Annex to Regulation (EU) No 283/2013, an anaerobic degradation study shall be submitted unless the applicant shows that exposure of the plant protection product containing the active substance to anaerobic conditions is unlikely to occur for the intended uses.
+
+Test conditions
+
+Studies on the rate of aerobic degradation of the active substance shall be reported for at least four soils. Soil properties shall be comparable to those used for the aerobic studies performed in accordance with point 7.1.1 and 7.1.2.1 of Part A of the Annex to Regulation (EU) No 283/2013. Reliable DegT50 and 90 values shall be available for a minimum of four different soils.
+
+Studies on the rate of anaerobic degradation of the active substance shall be carried out using the same procedure and comparable soil as for the anaerobic study performed in accordance with point 7.1.1.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+The kinetic formation fraction and degradation rates of potentially relevant metabolites shall be established, in the studies under both aerobic and anaerobic conditions by extension of the study for the active substance, where it is not possible to extrapolate from points 7.1.2.1.2 and 7.1.2.1.4 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+In order to assess the influence of temperature on degradation, a calculation with an adequate Q10 factor or an adequate number of additional studies at a range of temperatures shall be performed.
+
+Reliable DegT50 and 90 values for metabolites, breakdown and reaction products shall be provided for at least three soils from the studies under aerobic conditions.
+
+9.1.1.2. Field studies
+
+9.1.1.2.1. Soil dissipation studies
+
+The soil dissipation studies shall provide best-possible estimates of the time taken for dissipation of 50 % and 90 % (DisT50field and DisT90field) and if possible the time taken for degradation of 50 % and 90 % (DegT50field and DegT90field), of the active substance under field conditions. Where relevant, information on metabolites, breakdown and reaction products shall be reported.
+
+Circumstances in which required
+
+The dissipation and behaviour of plant protection products in soil shall be investigated unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.2.2.1 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Test conditions
+
+Individual studies on a range of representative soils (normally at least four different types at different geographical locations) shall be continued until at least 90% of the amount applied has dissipated from the soil or been transformed to substances that are not the subject of the investigation.
+
+9.1.1.2.2. Soil accumulation studies
+
+The tests shall provide sufficient data to evaluate the possibility of accumulation of residues of the active substance and of metabolites, breakdown and reaction products.
+
+Circumstances in which required
+
+Soil accumulation studies shall be reported unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.2.2.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Test conditions
+
+Long term field studies shall be performed on at least two relevant soils at different geographical locations and involve multiple applications.
+
+In absence of guidance being included in the list referred to under point 6 of the introduction, the type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+9.1.2. Mobility in soil
+
+The information made available shall provide sufficient data to evaluate the mobility and leaching potential of the active substance and metabolites, breakdown and reaction products.
+
+9.1.2.1. Laboratory studies
+
+Circumstances in which required
+
+The mobility of plant protection products in soil shall be investigated unless it is possible to extrapolate from data obtained in accordance with the requirements set out in points 7.1.2 and 7.1.3.1 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Test conditions
+
+The same provisions as provided under points 7.1.2 and 7.1.3.1 of Part A of the Annex to Regulation (EU) No 283/2013 apply.
+
+9.1.2.2. Lysimeter studies
+
+Lysimeter studies shall be performed, where necessary, to provide information on:
+
+— the mobility in soil,
+
+— the potential for leaching to ground water,
+
+— the potential distribution in soil.
+
+Circumstances in which required
+
+The decision whether lysimeter studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the results of degradation and mobility studies and the calculated PECGW. The type of study to be conducted shall be discussed with the national competent authorities.
+
+These studies shall be performed unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.4.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Test conditions
+
+Studies shall cover the realistic worst case situation, and the duration necessary for observation of potential leaching, taking into account the soil type, climatic conditions, the application rate and the frequency and period of application.
+
+Water percolating from soil columns shall be analysed at suitable intervals, while residues in plant material shall be determined at harvest. Residues in the soil profile in at least five layers shall be determined on termination of experimental work. Intermediate sampling shall be avoided, since removal of plants (except for harvesting in accordance with normal agricultural practice) and soil influence the leaching process.
+
+Precipitation, soil and air temperatures shall be recorded at regular intervals, at least on a weekly base.
+
+The depth of the lysimeters shall be at least 100 cm. The soil cores shall be undisturbed. Soil temperatures shall be similar to those pertaining in the field. Where necessary, supplementary irrigation shall be provided to ensure optimal plant growth and to ensure that the quantity of percolation water is similar to that in the regions for which authorisation is sought. When during the study the soil has to be disturbed for agricultural reasons it shall not be disturbed deeper than 25 cm.
+
+9.1.2.3. Field leaching studies
+
+Field leaching studies shall be performed, where necessary, to provide information on:
+
+— the mobility in soil,
+
+— the potential for leaching to ground water,
+
+— the potential distribution in soil.
+
+Circumstances in which required
+
+The decision whether field leaching studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the calculated PECGW and the results of degradation and mobility studies. The type of study to be conducted shall be discussed with the national competent authorities. These studies shall be performed unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.1.4.3 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+Test conditions
+
+Studies shall cover the realistic worst case situation, taking into account the soil type, climatic conditions, the application rate and the frequency and period of application.
+
+Water shall be analysed at suitable intervals. Residues in the soil profile in at least five layers shall be determined on termination of experimental work. Intermediate sampling of plant and soil material shall be avoided (except for harvesting in accordance with normal agricultural practice), since removal of plants and soil influence the leaching process.
+
+Precipitation, soil and air temperatures shall be recorded at regular intervals (at least on a weekly base).
+
+Information on the groundwater table in the experimental fields shall be submitted. Depending on the experimental design, a detailed hydrological characterisation of the test field shall be carried out. If soil cracking is observed during the study this shall be fully described.
+
+Attention shall be given to the number and the location of water collection devices. The placement of these devices in the soil shall not result in preferential flow paths.
+
+9.1.3. Estimation of concentrations in soil
+
+PECS estimations shall relate both to a single application at the highest rate of application for which authorisation is sought, and to the maximum number at the shortest interval and highest rates of application for which authorisation is sought, and shall be expressed in terms of mg of active substance per kg of dry soil.
+
+The factors which shall be considered in making PECS estimations relate to direct and indirect application to soil, drift, run off, and leaching and include processes such as volatilisation, adsorption, hydrolysis, photolysis, aerobic and anaerobic degradation. Appropriate soil layer depths shall be used depending on the application method and soil cultivation. Where ground cover is present at time of application, the impact of crop interception in reducing soil exposure may be included in estimations.
+
+Initial PECS, immediately after application, shall be provided for the active substance, metabolites, breakdown and reaction products. Appropriate short-term and long-term PECS calculations (time weighted averages) shall be provided for the active substance, metabolites, breakdown and reaction products with respect to data from ecotoxicological studies.
+
+Calculation of plateau concentrations in soil shall be provided where on the basis of soil dissipation studies it is established that DisT90 > one year, and where repeated application is envisaged, whether in the same growing season or in succeeding years.
+
+**9.2. Fate and behaviour in water and sediment**
+
+9.2.1. Aerobic mineralisation in surface water
+
+Circumstances in which required
+
+The persistence and behaviour of plant protection products in open water (freshwater, estuarine and marine) shall be investigated unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.2.2.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+The test shall be reported unless the applicant shows that contamination of open water will not occur.
+
+Test conditions
+
+The rate of degradation and the pathway or pathways shall be reported either for a ‘pelagic’ test system or for a ‘suspended sediment’ system. Where relevant, additional test systems, which differ with respect to organic carbon content, texture or pH shall be used.
+
+Results obtained shall be presented in the form of schematic drawings showing the pathways involved, and in the form of balance sheets which show the distribution of radio-label in water and, where relevant, sediment as a function of time, as between:
+
+(a) active substance;
+
+(b) CO2;
+
+(c) volatile compounds other than CO2;
+
+(d) individual identified transformation products;
+
+(e) extractable substances not identified; and
+
+(f) non-extractable residues in sediment.
+
+The duration of the study shall not exceed 60 days unless the semi-continuous procedure with periodical renewal of the test suspension is applied. However, the period for the batch test may be extended to a maximum of 90 days, if the degradation of the test substance has started within the first 60 days.
+
+9.2.2. Water/sediment study
+
+Circumstances in which required
+
+The persistence and behaviour of plant protection products in aquatic systems shall be investigated unless it is possible to extrapolate from data obtained on the active substance and metabolites, breakdown and reaction products in accordance with the requirements set out in point 7.2.2.3 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+The test shall be reported unless the applicant shows that contamination of surface water will not occur.
+
+Test conditions
+
+The degradation pathway or pathways shall be reported for two water/sediment systems. The two sediments selected shall differ with respect to organic carbon content and texture, and where relevant, with respect to pH.
+
+Results obtained shall be presented in the form of schematic drawings showing the pathways involved, and in the form of balance sheets which show the distribution of radio-label in water and sediment as a function of time, as between:
+
+(a) active substance;
+
+(b) CO2;
+
+(c) volatile compounds other than CO2;
+
+(d) individual identified transformation products;
+
+(e) extractable substances not identified; and
+
+(f) non-extractable residues in sediment.
+
+The duration of the study shall be at least 100 days. It shall be longer where this is necessary to establish the degradation pathway and water/sediment distribution pattern of the active substance and its metabolites, breakdown and reaction products. If more than 90% of the active substance is degraded before the period of 100 days expires, the test duration may be shorter.
+
+The degradation pattern of potentially relevant metabolites occurring within the water/sediment study shall be established by extension of the study for the active substance, when it is not possible to extrapolate from point 7.2.2.3 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+9.2.3. Irradiated water/sediment study
+
+If photochemical degradation is of importance, a water/sediment study under influence of a light/dark regime may additionally be reported.
+
+Test conditions
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+9.2.4. Estimation of concentrations in groundwater
+
+The groundwater contamination routes shall be defined taking into account relevant agricultural, plant health, and environmental (including climatic) conditions.
+
+9.2.4.1. Calculation of concentrations in groundwater
+
+PECGW estimations shall relate to the maximum number and highest rates of application, at the shortest interval, and to the time of application for which authorisation is sought.
+
+Relevant EU groundwater models shall be run. Where specific crops and circumstances are relevant, specific scenarios for typical use situations for the regions of use, for the respective crop or other situation of use shall be used. In case the behaviour in soil is dependent on soil parameters, respective parameters on degradation and adsorption in soil (DegT50 and Koc values) reflecting this dependency shall be used. If identified metabolites, breakdown or reaction products are found to occur in concentrations above 0,1 μg/L in the leachate, an assessment of their relevance shall be required.
+
+Suitable estimations (calculations) of predicted environmental concentration in groundwater PECGW, of active substance shall be submitted, unless it is clearly evident from the data on degradation or adsorption, taking worst case values, that leaching would be negligible under the intended areas of use.
+
+For all metabolites, breakdown or reaction products identified as a part of the residue definition for risk assessment with respect to groundwater (see point 7.4.1 of Part A of the Annex to Regulation (EU) No 283/2013) a PECGW calculation shall be required for assessing their relevance.
+
+Where identified metabolites, breakdown or reaction products are found to occur in concentrations above 0,1 μg/L in the leachate, an assessment of their relevance shall be required.
+
+9.2.4.2. Additional field tests
+
+The need to perform additional field tests and the type and conditions of the tests to be performed shall be discussed with the national competent authorities.
+
+9.2.5. Estimation of concentrations in surface water and sediment
+
+The surface water and sediment contamination routes shall be defined taking into account relevant agricultural, plant health, and environmental (including climatic) conditions. Suitable estimations (calculations) of predicted environmental concentration in surface water PECSW and sediment PECSED of active substance shall be submitted, unless the applicant shows that contamination will not occur. PECSW and PECSED estimations shall relate to the maximum number and highest rates of application, at the shortest interval, for which authorisation is sought, and be relevant to ditches, ponds, and streams.
+
+Relevant EU surface water modelling tools shall be run. The factors which shall be considered in making PECSW and PECSED estimations relate to direct application to water, drift, run-off, discharge via drains and atmospheric deposition, and include processes such as volatilisation, adsorption, advection, hydrolysis, photolysis, biodegradation, sedimentation and re-suspension, and transfer between water and sediment. Initial maximum concentration following an application (global maximum), short-term and long-term PECSW calculations for relevant water bodies (time weighted averages) shall be provided. Corresponding initial maximum concentration following an application (global maximum), short-term and long-term PECSED calculations for relevant water bodies (time weighted averages) shall also be provided. These PEC values shall be provided for the active substance and all metabolites, breakdown and reaction products identified as a part of the residue definition for the risk assessment with respect to surface water and sediment. They shall be used to complete risk assessments, through a comparison with the endpoints derived from data from ecotoxicological studies.
+
+Short-term and long-term PECSW and corresponding short-term and long-term PECSED calculations for relevant static water bodies (ponds; time weighted averages) and for relevant slow moving water bodies (ditches and streams; time weighted averages), shall be calculated with the aid of a moving time-window. Appropriate time windows with respect to data from ecotoxicological studies shall be applied.
+
+The need to perform additional higher tier tests and the type and conditions of the tests to be performed shall be discussed with the national competent authorities.
+
+**9.3. Fate and behaviour in air**
+
+9.3.1. Route and rate of degradation in air and transport via air
+
+If the trigger for volatilisation, Vp = 10– 5 Pa (for volatilisation from plant) or 10– 4 Pa (for volatilisation from soil) at a temperature of 20 °C is exceeded and (drift) mitigation measures are required to reduce exposure to non-target organisms, model calculations of off-site deposition (PEC) originating from volatilisation shall be provided. The volatilisation term (PEC) shall be added into the relevant risk assessment procedures for PECS and PECSW. The calculation may be refined using data from confined experiments. Where relevant, laboratory, wind-tunnel or field experiments to determine PECS from deposition following volatilisation and mitigation measures shall be provided.
+
+**9.4. Estimation of concentrations for other routes of exposure**
+
+Suitable estimations (calculations) of predicted environmental concentration, of active substance and metabolites, breakdown and reaction products shall be submitted unless the applicant shows that contamination will not occur in case of exposure by other routes, such as:
+
+— deposition of dust containing plant protection products by drift during sowing,
+
+— indirect exposure of surface water via a sewage treatment plant (STP) after application of a plant protection product in storage rooms, and
+
+— amenity use.
+
+PEC estimations shall relate to the maximum number and highest rates of application, at the shortest interval, for which authorisation is sought, and be relevant to the relevant environmental compartments.
+
+The type of information to be provided shall be discussed with the national competent authorities.
+
+**SECTION 10**
+
+**Ecotoxicological studies**
+
+**Introduction**
+
+1\. Testing of the plant protection product shall be necessary where its toxicity cannot be predicted on the basis of data on the active substance. Where testing is necessary, the aim shall be to demonstrate whether the plant protection product, taking account of content of active substance, is more toxic than the active substance. Thus bridging studies or a limit test may be sufficient. However, where a plant protection product is more toxic than the active substance (expressed in comparable units), definitive testing shall be required. Possible effects on organisms/ecosystems shall be investigated, unless the applicant shows that exposure of the organisms or ecosystems does not occur.
+
+Tests and studies conducted using the plant protection product as test material necessary to assess the toxicity of the active substance shall be reported in the context of the relevant data requirement concerning the active substance.
+
+2\. All potentially adverse effects found during routine ecotoxicological investigations shall be reported and such additional studies, which may be necessary to investigate the mechanisms involved and assess the significance of these effects, shall be undertaken and reported.
+
+3\. Whenever a study implies the use of different doses, the relationship between dose and adverse effect shall be reported.
+
+4\. Where exposure data are necessary to decide whether a study has to be performed, the data obtained in accordance with Section 9 shall be used.
+
+For the estimation of exposure of organisms, all information on the plant protection product and on the active substance shall be taken into account. A tiered approach shall start with default worst-case parameters for exposure and be followed by a parameter refinement based on the identification of representative organisms. Where relevant, the parameters set out in this Section shall be used. Where it appears from available data that the plant protection product is more toxic than the active substance, the toxicity data for the plant protection product shall be used for the calculation of appropriate risk quotients (see point 8 of this introduction).
+
+5\. The requirements laid down in this Section shall include certain study types that are set out in Section 8 of Part A of the Annex to Regulation (EU) No 283/2013 (such as standard laboratory tests with birds, aquatic organisms, bees, arthropods, earthworms, soil micro-organisms, soil meso-fauna and non-target plants). While each point shall be addressed, experimental data with a plant protection product shall be generated only if its toxicity cannot be predicted on the basis of data on the active substance. It may be sufficient to test the plant protection product with that species of a group that was most sensitive with the active substance.
+
+6\. A detailed description (specification) of the material used as provided for in accordance with point 1.4 shall be provided.
+
+7\. In order to facilitate the assessment of the significance of test results obtained, the same strain of each species shall, where possible, be used in the various toxicity tests specified.
+
+8\. The ecotoxicological assessment shall be based on the risk that the proposed plant protection product poses to non-target organisms. In carrying out a risk assessment, toxicity shall be compared with exposure. The general term for the output from such a comparison is ‘risk quotient’ (RQ). RQ may be expressed in several ways, for example, toxicity:exposure ratio (TER) and as a hazard quotient (HQ).
+
+9\. For those guidelines which allow for study to be designed to determine an effective concentration (ECx), the study shall be conducted to determine an EC10 and EC20 along with corresponding 95 % confidence intervals. If an ECx approach is used, a NOEC shall still be determined.
+
+Existing acceptable studies that have been designed to generate a NOEC shall not be repeated. An assessment of the statistical power of the NOEC derived from those studies shall be carried out.
+
+10\. For solid formulations an assessment of the risk from dust drift on to non-target arthropods and plants shall be required. Details on the likely exposure levels shall be presented in accordance with Section 9 of this Annex. For aquatic life, the risk of movement of the whole particle as well as dust particles shall be considered. Until agreed dust dissipation rate assessments are available likely exposure levels shall be used in the risk assessment.
+
+11\. Higher tier studies using a plant protection product shall be designed and data analysed using suitable statistical methods. Full details of the statistical methods shall be reported. Where appropriate, higher tier studies shall be supported by chemical analysis to verify exposure has occurred at an appropriate level.
+
+12\. Pending the validation and adoption of new studies and of a new risk assessment scheme, existing protocols shall be used to address the acute and chronic risk to bees, including those on colony survival and development, and the identification and measurement of sub-lethal effects in the risk assessment.
+
+**10.1. Effects on birds and other terrestrial vertebrates**
+
+10.1.1. Effects on birds
+
+Possible risks to birds shall be investigated if the toxicity of the plant protection product cannot be predicted on the basis of the data for the active substance, except, for example, where the plant protection product is used in enclosed spaces or for wound-healing treatments where birds will experience neither direct nor secondary exposure.
+
+In the case of pellets, granules or treated seeds the amount of active substance in each pellet, granule or seed shall be reported as well as the size, weight and shape of pellets or granules. From that data, the number as well as the weight of pellets, granules or seeds required to achieve the LD50 ( 8 ) shall be calculated and reported as well.
+
+In the case of baits the concentration of as in the bait (mg active substance/kg) shall be reported.
+
+A risk assessment for birds shall be conducted in accordance with the relevant risk quotient analysis.
+
+10.1.1.1. Acute oral toxicity to birds
+
+Circumstances in which required
+
+The acute oral toxicity of the plant protection product shall be investigated if toxicity cannot be predicted on the basis of the data for the active substance, or where results from mammalian testing give evidence of higher toxicity of the plant protection product compared to the active substance, unless the applicant shows that it is not likely that birds are exposed to the plant protection product itself.
+
+Test conditions
+
+The test shall provide, where possible, LD50 values, the lethal threshold dose, time courses of response and recovery, the No Observed Effect Level (NOEL), and shall include gross pathological findings. Study design shall be optimised for the achievement of an accurate LD50 rather than for any secondary endpoint.
+
+The study shall be conducted on the species used in the study referred to in point 8.1.1 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+The highest dose used in tests shall not exceed 2 000 mg active substance/kg body weight, however, depending on the expected exposure levels in the field following the intended use of the compound, higher doses may be required.
+
+10.1.1.2. Higher tier data on birds
+
+Higher tier studies on birds shall be conducted where the first tiers of the risk assessment do not demonstrate that risk is acceptable.
+
+10.1.2. Effects on terrestrial vertebrates other than birds
+
+Possible risks to vertebrate species other than birds shall be investigated except when the test substance is included in plant protection products used, for example, in enclosed spaces and wound-healing treatments where vertebrate species other than birds will experience neither direct nor secondary exposure.
+
+Experimental testing of vertebrates shall only be carried out where the data required for risk assessment cannot be derived from the data generated in accordance with the requirements set out in Section 5 and 7 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+An acute and reproductive risk assessment for terrestrial vertebrates other than birds shall be conducted in accordance with the relevant risk quotient analysis.
+
+10.1.2.1. Acute oral toxicity to mammals
+
+Circumstances in which required
+
+If exposure to the formulation is considered possible and the toxicity cannot be predicted on the basis of the data for the active substance, data on the acute oral toxicity of the plant protection product from the mammalian toxicological assessment shall also be considered (see point 5.8 of Part A of the Annex to Regulation (EU) No 283/2013).
+
+10.1.2.2. Higher tier data on mammals
+
+Higher tier studies on mammals shall be conducted where the first tiers of the risk assessment do not demonstrate that risk is acceptable.
+
+10.1.3. Effects on other terrestrial vertebrate wildlife (reptiles and amphibians)
+
+Where it cannot be predicted from the active substance data and, if relevant, the risk to amphibians and reptiles from plant protection products shall be addressed. The type and conditions of the studies to be provided shall be discussed with the national competent authorities.
+
+**10.2. Effects on aquatic organisms**
+
+Possible effects on aquatic species (fish, aquatic invertebrates, algae and in the case of herbicides and plant growth regulators, aquatic macrophytes) shall be investigated except where the possibility that aquatic species will be exposed can be ruled out.
+
+A risk assessment for aquatic organisms shall be conducted in accordance with the relevant risk quotient analysis.
+
+10.2.1. Acute toxicity to fish, aquatic invertebrates, or effects on aquatic algae and macrophytes.
+
+Circumstances in which required
+
+Testing shall be performed where:
+
+(a) the acute toxicity of the plant protection product cannot be predicted on the basis of the data for the active substance; or
+
+(b) the intended use includes direct application on water;
+
+(c) extrapolation on the basis of available data for a similar plant protection product is not possible.
+
+Tests shall be carried out on one species from each of the three/four groups of aquatic organisms, that is to say fish, aquatic invertebrates, algae and, where relevant, macrophytes as referred to in point 8.2 of Part A of the Annex to Regulation (EU) No 283/2013, if the plant protection product itself may contaminate water.
+
+However, where the available information permits to conclude that one of these groups is clearly more sensitive, tests on only the relevant group shall be performed.
+
+If the plant protection product contains two or more active substances, and the most sensitive taxonomic groups for the individual active substances are not the same, testing on all three/four aquatic groups, that is to say fish, aquatic invertebrates, algae and, where relevant macrophytes, shall be required.
+
+Test conditions
+
+The relevant provisions as under points 8.2.1, 8.2.4, 8.2.6 and 8.2.7 of Part A of the Annex to Regulation (EU) No 283/2013 apply. In order to minimise fish testing a threshold approach shall be considered for testing acute toxicity in fish (see point 8.2.1 of Part A of the Annex to Regulation (EU) No 283/2013)
+
+10.2.2. Additional long-term and chronic toxicity studies on fish, aquatic invertebrates and sediment dwelling organisms
+
+The studies referred to in points 8.2.2 and 8.2.5 of Part A of the Annex to Regulation (EU) No 283/2013 shall be conducted for particular plant protection products, where it is not possible to extrapolate from data obtained in the corresponding studies on the active substance (for example the plant protection product is more acutely toxic than the active substance as manufactured by a factor of 10), unless it is demonstrated that exposure will not occur.
+
+If chronic toxicity studies with the plant protection product are required, the type and conditions of the studies to be provided shall be discussed with the national competent authorities.
+
+10.2.3. Further testing on aquatic organisms
+
+The studies referred to in point 8.2.8 of Part A of the Annex to Regulation (EU) No 283/2013 may be required for particular plant protection products where it is not possible to extrapolate from data obtained in the corresponding studies for the active substance or another plant protection product.
+
+**10.3. Effects on arthropods**
+
+10.3.1. Effects on bees
+
+The possible effects on bees shall be investigated except where the plant protection product is for exclusive use in situations where bees are not likely to be exposed such as:
+
+(a) food storage in enclosed spaces;
+
+(b) non-systemic plant protection products for application to soil, except granules;
+
+(c) non-systemic dipping treatments for transplanted crops and bulbs;
+
+(d) wound sealing and healing treatments;
+
+(e) non-systemic rodenticidal baits;
+
+(f) use in greenhouses without bees as pollinators.
+
+Testing shall be required if:
+
+— the plant protection product contains more than one active substance,
+
+— the toxicity of a plant protection product cannot be reliably predicted to be either the same or lower than the active substance tested, in accordance with the requirements set out in points 8.3.1 and 8.3.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+For seed treatments the risk from drift of dust during drilling of the treated seed shall be taken into account. As regards granules and slug pellets the risk from drift of dust during application shall be taken into account. If the plant protection product is systemic and to be used on seeds, bulbs, roots, applied directly to soil, for example sprayed on to soil, granules/pellets applied to soil, irrigation water, or applied directly to or into the plant, for example by spraying or stem injection, then the risk to bees foraging those plants shall be assessed, including the risk deriving from residues of the plant protection product in nectar, pollen and water, including guttation.
+
+Where bees are likely to be exposed, testing by both acute (oral and contact) and chronic toxicity, including sub-lethal effects, shall be conducted.
+
+Where exposure of bees to residues in nectar, pollen or water resulting from systemic properties of the active substance may occur and where the acute oral toxicity is &lt; 100 μg/bee or a considerable toxicity for larvae occurs, residues concentrations in these matrices shall be provided and the risk assessment shall be based on a comparison of the relevant endpoint with those residue concentrations. If this comparison indicates that an exposure to toxic levels cannot be excluded, effects shall be investigated with higher tier tests.
+
+10.3.1.1. Acute toxicity to bees
+
+Where bee acute testing with the plant protection product is required, both acute oral and contact toxicity tests shall be conducted.
+
+10.3.1.1.1. Acute oral toxicity
+
+A test for acute oral toxicity shall be provided establishing the acute LD50 values together with the NOEC. Sub-lethal effects, if observed, shall be reported.
+
+Test conditions
+
+Results shall be presented in terms of μg plant protection product/bee.
+
+10.3.1.1.2. Acute contact toxicity
+
+A test for acute contact toxicity shall be provided establishing the acute LD50 values together with the NOEC. Sub-lethal effects, if observed, shall be reported.
+
+Test conditions
+
+Results shall be presented in terms of μg plant protection product/bee.
+
+10.3.1.2. Chronic toxicity to bees
+
+A test for chronic toxicity to bees shall be provided establishing the chronic oral EC10, EC20, EC50 together with the NOEC. Where the chronic oral EC10, EC20, EC50 cannot be estimated, an explanation shall be provided. Sub-lethal effects, if observed, shall be reported.
+
+Circumstances in which required
+
+The test shall be carried out where bees are likely to be exposed.
+
+Test conditions
+
+Results shall be presented in terms of μg plant protection product/bee.
+
+10.3.1.3. Effects on honey bee development and other honey bee life stages
+
+A bee brood study shall be conducted to determine effects on honey bee development and brood activity.
+
+The bee brood test shall provide sufficient information to evaluate possible risks from the plant protection product on honey bee larvae.
+
+The test shall provide the EC10, EC20 and EC50 for adult bees/larvae (or an explanation if they cannot be estimated) together with the NOEC. Sub-lethal effects, if observed, shall be reported.
+
+10.3.1.4. Sub-lethal effects
+
+Tests investigating sub-lethal effects, such as behavioural and reproductive effects, on bees and, where applicable, on colonies may be required.
+
+10.3.1.5. Cage and tunnel tests
+
+The test shall provide sufficient information to evaluate:
+
+— possible risks from the plant protection product for bee survival and behaviour, and
+
+— impact on bees resulting from feeding on contaminated honey dew or flowers.
+
+Sub-lethal effects shall be addressed, if necessary, by carrying out specific tests (for example foraging behaviour).
+
+Circumstances in which required
+
+When acute or chronic effects on colony survival and development cannot be ruled out, further testing shall be required especially if effects are observed in the honeybee brood feeding test (see point 8.3.1.3 of Part A of the Annex to Regulation (EU) No 283/2013) or if there are indications for indirect effects such as delayed action, effects on juvenile stages, or modification of bee behaviour; or other effects such as prolonged residual effects; in those cases cage/tunnel tests shall be carried out and reported.
+
+Test conditions
+
+The test shall be carried out using healthy queen-right honey bee colonies in which pathogens are low and regularly monitored.
+
+10.3.1.6. Field tests with honeybees
+
+The test shall have an adequate statistical power and shall provide sufficient information to evaluate possible risks from the plant protection product on bee behaviour, colony survival and development.
+
+Sub-lethal effects shall be addressed, if necessary by carrying out specific tests (for example homing flight).
+
+Circumstances in which required
+
+When acute or chronic effects on colony survival and development cannot be ruled out, further testing shall be required if:
+
+— effects are observed in the honeybee brood feeding test (see point 8.3.1.3 of Part A of the Annex to Regulation (EU) No 283/2013), or
+
+— there are indications for indirect effects such as delayed action, effects on juvenile stages, or modification of bee behaviour or other effects such as prolonged residual effects.
+
+In those cases field tests shall be carried out.
+
+Test conditions
+
+The test shall be carried out using healthy queen-right honey bee colonies in which pathogens are low and regularly monitored.
+
+Test guideline
+
+The design of higher tier studies to be used shall be discussed with the relevant competent authorities.
+
+10.3.2. Effects on non-target arthropods other than bees
+
+Circumstances in which required
+
+Effects on non-target terrestrial arthropods shall be investigated for all plant protection products except where plant protection products containing the active substance are for exclusive use in situations where non-target arthropods are not exposed such as:
+
+(a) food storage in enclosed spaces that preclude exposure;
+
+(b) wound sealing and healing treatments;
+
+(c) enclosed spaces with rodenticidal baits.
+
+Testing shall be required if:
+
+— the plant protection product contains more than one active substance,
+
+— the toxicity of a plant protection product cannot be reliably predicted to be either the same or lower than the active substance tested, in accordance with the requirements set out in point 8.3.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+For plant protection products, two indicator species, the cereal aphid parasitoid Aphidius rhopalosiphi (Hymenoptera: Braconidae) and the predatory mite Typhlodromus pyri (Acari: Phytoseiidae) shall be tested. Initial testing shall be performed using glass plates, and both mortality and effects on reproduction (if assessed) shall be reported. Testing shall determine a rate-response relationship and LR50 ( 9 ), ER50 ( 10 ) and NOEC endpoints shall be reported for assessment of the risk to these species in accordance with the relevant risk quotient analysis.
+
+For a plant protection product containing an active substance suspected of having a special mode of action (for example insect growth regulators, insect feeding inhibitors) additional tests involving sensitive life stages, special routes of uptake or other modifications, may be required. The rationale for the choice of test species used shall be provided.
+
+Testing shall provide sufficient information to evaluate the toxicity (mortality) of the plant protection product to arthropods in the in-field as well as in the off-field area.
+
+10.3.2.1. Standard laboratory testing for non-target arthropods
+
+The test shall provide sufficient information to evaluate the toxicity of the plant protection product to the two indicator species (Aphidius rhopalosiphi (Hymenoptera: Braconidae) and Typhlodromus pyri) (Acari: Phytoseiidae) in accordance with the relevant risk quotient analysis.
+
+Where adverse effects are indicated, testing using higher tier studies shall be required (see points 10.3.2.2 to 10.3.2.5) for further details. In higher tier assessment the risk quotient analysis used for standard laboratory non-target arthropod testing is not appropriate.
+
+10.3.2.2. Extended laboratory testing, aged residue studies with non-target arthropods
+
+The tests shall provide sufficient information to evaluate the risk of the plant protection product for arthropods using a more realistic test substrate or exposure regime.
+
+Circumstances in which required
+
+Further testing shall be required where effects are seen following laboratory testing in accordance with the requirements set out in point 10.3.2.1 and where the relevant risk quotient analysis indicates a risk to the standard indicator non-target arthropod species.
+
+Firstly, the indicator species affected in standard Tier 1 laboratory testing (point 10.3.2.1) shall be tested. In addition, where an in-field risk is indicated to one or both standard indicator species, testing of one additional species shall be required. Where an off-field risk to the standard indicator species is indicated, testing of one further additional species shall be required.
+
+An aged residue study shall be conducted with the most sensitive species to give information on the time scale needed for potential re-colonisation of treated in-field areas.
+
+Test conditions
+
+(a) Extended laboratory studies
+
+Extended laboratory studies shall be carried out under controlled environmental conditions, by exposing laboratory-reared test organisms, or field collected specimens, to fresh and dried pesticide deposits applied to natural substrates, for example leaves, plants or natural soil under laboratory or field conditions.
+
+(b) Aged residue studies
+
+Aged residue studies shall assess the duration of effects on in-field non-target arthropods. They shall involve ageing of plant protection product deposits under field conditions (use of rain protection may be advisable), with exposure of the test organisms on treated leaves or plants either in the laboratory, under semi-field conditions or a combination of both (such as mortality assessment under semi-field conditions and reproduction assessment under laboratory conditions).
+
+10.3.2.3. Semi-field studies with non-target arthropods
+
+The tests shall provide sufficient information to evaluate the risk of the plant protection product for arthropods taking field conditions into account.
+
+Circumstances in which required
+
+Where effects are seen following laboratory testing in accordance with the requirements set out in point 8.3.2 of Part A of the Annex to Regulation (EU) No 283/2013 or point 10.3.2 of this Annex (for example relevant trigger values are breached), semi-field testing shall be required.
+
+Test conditions
+
+The tests shall be conducted under representative agricultural conditions and in accordance with the proposed recommendations for use, resulting in a realistic worst case study.
+
+In semi-field testing the results from lower tier testing as well as the specific questions to be addressed shall be taken in to account. In the selection of species for semi-field testing, the results from lower tier testing as well as the specific questions to be addressed shall be taken into account.
+
+Testing shall include lethal and sub-lethal endpoints (for example integrated parameters in field studies), but such endpoints shall be interpreted with care since they are subject to high variability.
+
+10.3.2.4. Field studies with non-target arthropods
+
+The tests shall provide sufficient information to evaluate the risk of the plant protection product for arthropods taking field conditions into account.
+
+Circumstances in which required
+
+Where effects are seen following testing in accordance with the requirements set out in point 8.3.2 of Part A of the Annex to Regulation (EU) No 283/2013 or in accordance with points 10.3.2.2 or 10.3.2.3 of this Annex, and where the relevant risk quotient analysis indicates a risk to non-target arthropods, field testing shall be required.
+
+Test conditions
+
+The tests shall be conducted under representative agricultural conditions and in accordance with the proposed recommendations for use, resulting in a realistic worst case study.
+
+Field trials shall allow the determination of short- and long-term effects on naturally occurring arthropod populations of a plant protection product following application in accordance with the proposed use pattern for the plant protection product under normal agricultural conditions.
+
+10.3.2.5. Other routes of exposure for non-target arthropods
+
+Where for particular arthropods (such as pollinators and herbivores) testing conducted in accordance with points 10.3.1 and 10.3.2.1 to 10.3.2.4 is not appropriate, additional specific testing shall be required, where there are indications that exposure by routes other than by contact occur (for example plant protection products containing active substances with systemic activity). Before undertaking such testing, the proposed design to be used shall be discussed with the relevant competent authorities.
+
+**10.4. Effects on non-target soil meso- and macrofauna**
+
+10.4.1. Earthworms
+
+The possible impact on earthworms shall be reported unless the applicant shows that it is not likely that earthworms are exposed, directly or indirectly.
+
+A risk assessment for earthworm shall be conducted in accordance with the relevant risk quotient analysis.
+
+10.4.1.1. Earthworms — sub-lethal effects
+
+The test shall provide information on the effects on growth and reproduction of the earthworm.
+
+Circumstances in which required
+
+The sub-lethal toxicity of a plant protection product to earthworms shall be investigated if the relevant criteria as defined in point 8.4.1 of Part A of the Annex to Regulation (EU) No 283/2013 are met, and the toxicity of the plant protection product cannot be predicted on the basis of the data for the active substance, unless the applicant shows that no exposure occurs.
+
+Test conditions
+
+Testing shall determine a dose-response relationship and the EC10, EC20 and NOEC shall enable the risk assessment to be conducted in accordance with the appropriate risk quotient analysis, taking into account likely exposure, the organic carbon content (foc) of the test medium and the lipophilic properties (Kow) of the test substance. The test substance shall be incorporated into the soil to obtain a homogenous soil concentration. Testing with soil metabolites may be avoided if there is analytical evidence to indicate that the metabolite is present at an adequate concentration and duration in the study conducted with the parent active substance.
+
+10.4.1.2. Earthworms — field studies
+
+The test shall provide sufficient data to evaluate effects on earthworms under field conditions.
+
+Circumstances in which required
+
+Where the relevant risk quotient analysis indicates a chronic risk to earthworms a field study to determine effects under practical field conditions shall be conducted and reported as an option for refined risk assessment.
+
+Test conditions
+
+The study design shall reflect the proposed use of the plant protection product, the environmental conditions likely to arise and species that will be exposed.
+
+If a study is to be used for risk assessment in relation to metabolites, their concentrations occurring shall be confirmed analytically.
+
+10.4.2. Effects on non-target soil meso- and macrofauna (other than earthworms)
+
+Circumstances in which required
+
+Effects on soil organisms (other than earthworms) shall be investigated for all plant protection products, except in situations where soil organisms are not exposed such as:
+
+(a) food storage in enclosed spaces that preclude exposure;
+
+(b) wound sealing and healing treatments;
+
+(c) enclosed spaces with rodenticidal baits.
+
+Testing shall be required if:
+
+— the plant protection product contains more than one active substance,
+
+— the toxicity of a plant protection product cannot be reliably predicted to be either the same or lower than the active substance tested in accordance with point 8.4.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+For plant protection products applied as a foliar spray, data on the relevant two non target arthropod species might be taken into account for a preliminary risk assessment. If effects do occur on either species, testing on Folsomia candida and Hypoaspis aculeifer shall be required (see point 10.4.2.1).
+
+If data on Aphidius rhopalosiphi and Typhlodromus pyri are not available then the data outlined in point 10.4.2.1 shall be required.
+
+For plant protection products applied as soil treatments directly to soil either as a spray or as a solid formulation, then testing shall be required on both Folsomia candida and Hypoaspis aculeifer (see point 10.4.2.1).
+
+10.4.2.1. Species level testing
+
+The test shall provide sufficient information to perform an assessment of the toxicity of the plant protection product to the soil invertebrate indicator species Folsomia candida and Hypoaspis aculeifer.
+
+Test conditions
+
+Testing shall determine a dose-response relationship and the EC10, EC20 and NOEC shall enable the risk assessment to be conducted in accordance with the appropriate risk quotient analysis, taking into account likely exposure, the organic carbon content (foc) of the test medium and the lipophilic properties (Kow) of the active substance in the plant protection product. The plant protection product shall be incorporated into the soil to obtain a homogenous soil concentration.
+
+10.4.2.2. Higher tier testing
+
+The tests shall provide sufficient information to evaluate the risk of the plant protection product for soil organisms (other than earthworms) using a more realistic test substrate or exposure regime.
+
+Circumstances in which required
+
+Further testing shall be required where significant effects are seen following laboratory testing in accordance with the requirements set out in point 8.4.2.1 of Part A of the Annex to Regulation (EU) No 283/2013 or in accordance with point 10.4.2.1 of this Annex and where risk is indicated following the relevant risk quotient analysis.
+
+The need to perform such studies and the type and conditions of the studies to be performed shall be discussed with the national competent authorities.
+
+Test conditions
+
+Higher-tier tests may take the form of community/population studies (for example. terrestrial model ecosystems, soil mesocosms) or field studies. Timing, levels and routes of exposure shall reflect those of the proposed use of the plant protection product. Key effect end-points include: changes in community and population structure of both micro and macro-organisms; species diversity; number and biomass of key species/groups.
+
+**10.5. Effects on soil nitrogen transformation**
+
+The test shall provide sufficient data to evaluate the impact of the plant protection products on soil microbial activity in terms of nitrogen transformation.
+
+Circumstances in which required
+
+The effects of plant protection products on soil microbial function shall be investigated if the toxicity of the plant protection product cannot be predicted on the basis of data for the active substance, unless the applicant shows that no exposure occurs.
+
+**10.6. Effects on terrestrial non-target higher plants**
+
+10.6.1. Summary of screening data
+
+The effects of plant protection products on non-target plants shall be reported, if the toxicity of the plant protection product cannot be predicted on the basis of the data for the active substance, unless the applicant shows that no exposure occurs.
+
+Circumstances in which required
+
+Screening data shall be required for plant protection products other than those exhibiting herbicidal or plant growth regulator activity, and if the toxicity cannot be established from data on the active substance (point 8.6.1 of Part A of the Annex to Regulation (EU) No 283/2013). The data shall include testing from at least six plant species from six different families including both mono- and dicotyledons. The tested concentrations/rates shall be equal or higher than the maximum recommended application rate. If screening studies do not cover the specified range of species or the concentrations/rates necessary, then tests in accordance with point 10.6.2 shall be carried out.
+
+Data are not required, where exposure is negligible, for example in the case of rodenticides, active substances used for wound protection or seed treatment, or in the case of active substances used on stored products or in glasshouses where exposure is precluded.
+
+Test conditions
+
+A summary of available data from tests used to assess biological activity and dose range finding studies, whether positive or negative, which may provide information with respect to possible impact on other non-target flora, shall be provided, together with an assessment as to the potential impact on non-target plant species.
+
+These data shall be supplemented by further information, in summary form, on the observed effects on plants during the course of field testing, namely efficacy, residues, environmental fate and ecotoxicological field studies.
+
+10.6.2. Testing on non-target plants
+
+The test shall provide the ER50 values of the plant protection product to non-target plants.
+
+Circumstances in which required
+
+Studies of effects on non-target plants shall be required for herbicide and plant growth regulator plant protection products and for other plant protection products, where risk cannot be predicted from screening data (see point 10.6.1) or when the risk cannot be reliably predicted on the basis of the active substance data generated in accordance with point 8.6.2 of Part A of the Annex to Regulation (EU) No 283/2013.
+
+For all granules risk from drift of dust during time of application shall be considered.
+
+Data shall not be required, where exposure is not likely (such as in the case of rodenticides, active substances used for wound protection or seed treatment, or in the case of active substances used on stored products or in glasshouses where exposure is precluded).
+
+Test conditions
+
+The test substance used shall be the plant protection product concerned or another relevant formulation, containing the active substance, and other relevant co-formulants.
+
+For plant protection products that exhibit herbicidal or plant growth regulator activity, vegetative vigour and seedling emergence concentration/response tests shall be required for at least six species, representing families for which herbicidal/plant growth regulatory action has been found. Where, from the mode of action, it can be clearly established that either seedling emergence or vegetative vigour is only affected, only the relevant study shall be conducted.
+
+Dose-response tests on a selection of 6 to 10 monocotyledon and dicotyledon plant species representing as many taxonomic groups as possible shall be required.
+
+Where on the basis of screening data or other available information, a specific mode of action is evident, or significant differences in species sensitivities are identified, that information shall be used in the selection of the relevant test species.
+
+10.6.3. Extended laboratory studies on non-target plants
+
+If as a result of conducting studies in accordance with points 10.6.1 and 10.6.2 and carrying out a risk assessment, a high risk has been identified, an extended laboratory study on non-target plants addressing lower tier concerns may be required by the national competent authorities. The study shall provide information regarding the potential effects of the plant protection product on non-target plants following a more realistic exposure.
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+10.6.4. Semi-field and field tests on non-target plants
+
+Semi-field and field tests to study effects observed on non-target plants following realistic application may be submitted as a basis for a refined risk assessment. Testing shall address effects on plant abundance and biomass production at varying distances from the crop or at exposure levels representing varying distances from the crop.
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+**10.7. Effects on other terrestrial organisms (flora and fauna)**
+
+Any available data on the effects of the plant protection product on other terrestrial organisms shall be submitted.
+
+**10.8. Monitoring data**
+
+Available monitoring data concerning effects of the plant protection product to non-target organisms shall be reported.
+
+**SECTION 11**
+
+**Literature data**
+
+A summary of all relevant data from the scientific peer reviewed open literature on the active substance, metabolites and breakdown or reaction products and plant protection products containing the active substance shall be submitted.
+
+**SECTION 12**
+
+**Classification and labelling**
+
+Proposals for the classification and labelling of the plant protection product in accordance with Regulation (EC) No 1272/2008, where applicable, shall be submitted and justified, including:
+
+— pictograms,
+
+— signal words,
+
+— hazard statements, and
+
+— precautionary statements.
+
+**PART B**
+
+**PLANT PROTECTION PRODUCTS CONTAINING AN ACTIVE SUBSTANCE THAT IS A MICRO-ORGANISM**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td></td><td>INTRODUCTION TO PART B</td></tr>
+<tr><td>1.</td><td>Identity of the applicant, identity of the plant protection product and manufacturing information</td></tr>
+<tr><td>1.1.</td><td>Applicant</td></tr>
+<tr><td>1.2.</td><td>Producer of the preparation and the micro-organism(s)</td></tr>
+<tr><td>1.3.</td><td>Trade name or proposed trade name, and producer’s development code number of the preparation if appropriate</td></tr>
+<tr><td>1.4.</td><td>Detailed quantitative and qualitative information on the composition of the preparation</td></tr>
+<tr><td>1.5.</td><td>Physical state and nature of the preparation</td></tr>
+<tr><td>1.6.</td><td>Method of production of the preparation and quality control</td></tr>
+<tr><td>1.7.</td><td>Packaging and compatibility of the preparation with proposed packaging materials</td></tr>
+<tr><td>2.</td><td>Physical, chemical and technical properties of the plant protection product</td></tr>
+<tr><td>2.1.</td><td>Appearance (colour and odour)</td></tr>
+<tr><td>2.2.</td><td>Explosivity and oxidising properties</td></tr>
+<tr><td>2.3.</td><td>Flash point and other indications of flammability or spontaneous ignition</td></tr>
+<tr><td>2.4.</td><td>Acidity, alkalinity and if necessary pH value</td></tr>
+<tr><td>2.5.</td><td>Viscosity and surface tension</td></tr>
+<tr><td>2.6.</td><td>Storage stability and shelf life</td></tr>
+<tr><td>2.6.1.</td><td>Use concentration</td></tr>
+<tr><td>2.6.2.</td><td>Effects of temperature and packaging</td></tr>
+<tr><td>2.6.3.</td><td>Other factors affecting stability</td></tr>
+<tr><td>2.7.</td><td>Technical characteristics of the plant protection product</td></tr>
+<tr><td>2.7.1.</td><td>Wettability</td></tr>
+<tr><td>2.7.2.</td><td>Persistent foaming</td></tr>
+<tr><td>2.7.3.</td><td>Suspensibility, spontaneity of dispersion and dispersion stability</td></tr>
+<tr><td>2.7.4.</td><td>Dry sieve test and wet sieve test</td></tr>
+<tr><td>2.7.5.</td><td>Particle size distribution (dustable and wettable powders, granules), content of dust/fines (granules), attrition and friability (granules)</td></tr>
+<tr><td>2.7.6.</td><td>Emulsifiability, re-emulsifiability and emulsion stability</td></tr>
+<tr><td>2.7.7.</td><td>Flowability, pourability (rinsability) and dustability</td></tr>
+<tr><td>2.8.</td><td>Physical and chemical compatibility with other plant protection products including plant protection products with which its use is to be authorised</td></tr>
+<tr><td>2.8.1.</td><td>Physical compatibility</td></tr>
+<tr><td>2.8.2.</td><td>Chemical compatibility</td></tr>
+<tr><td>2.9.</td><td>Adherence and distribution to seeds</td></tr>
+<tr><td>3.</td><td>Data on application</td></tr>
+<tr><td>3.1.</td><td>Field of use envisaged</td></tr>
+<tr><td>3.2.</td><td>Mode of action on the target organism</td></tr>
+<tr><td>3.3.</td><td>Function, target organisms and plants or plants products to be protected and possible risk mitigation measures</td></tr>
+<tr><td>3.4.</td><td>Application rate</td></tr>
+<tr><td>3.5.</td><td>Content of micro-organism in material used (e.g. in the diluted spray, baits or treated seed)</td></tr>
+<tr><td>3.6.</td><td>Method of application</td></tr>
+<tr><td>3.7.</td><td>Number and timing of applications on the same crop, duration of protection and waiting period(s)</td></tr>
+<tr><td>3.8.</td><td>Proposed instructions for use</td></tr>
+<tr><td>3.9.</td><td>Safety intervals and other precautions to protect human health, animal health and the environment</td></tr>
+<tr><td>4.</td><td>Further information on the plant protection product</td></tr>
+<tr><td>4.1.</td><td>Procedures for cleaning and decontaminating of application equipment</td></tr>
+<tr><td>4.2.</td><td>Recommended methods and precautions concerning: handling, storage, transport, fire or use</td></tr>
+<tr><td>4.3.</td><td>Measures in case of accident</td></tr>
+<tr><td>4.4.</td><td>Procedures for destruction or decontamination of the plant protection product and its packaging</td></tr>
+<tr><td>4.4.1.</td><td>Controlled incineration</td></tr>
+<tr><td>4.4.2.</td><td>Others</td></tr>
+<tr><td>5.</td><td>Analytical methods</td></tr>
+<tr><td>5.1.</td><td>Methods for the analysis of the preparation</td></tr>
+<tr><td>5.2.</td><td>Methods to determine and quantify residues</td></tr>
+<tr><td>6.</td><td>Efficacy data</td></tr>
+<tr><td>6.1.</td><td>Preliminary tests</td></tr>
+<tr><td>6.2.</td><td>Minimum effective dose</td></tr>
+<tr><td>6.3.</td><td>Testing effectiveness</td></tr>
+<tr><td>6.4.</td><td>Information on possible development of resistance in target organisms</td></tr>
+<tr><td>6.5.</td><td>Adverse effects on treated crops</td></tr>
+<tr><td>6.5.1.</td><td>Phytotoxicity to target plants (including different cultivars), or to target plant products</td></tr>
+<tr><td>6.5.2.</td><td>Effects on the yield of treated plants or plant products</td></tr>
+<tr><td>6.5.3.</td><td>Effects on the quality of plants or plant products</td></tr>
+<tr><td>6.5.4.</td><td>Effects on transformation processes</td></tr>
+<tr><td>6.5.5.</td><td>Impact on treated plants or plant propagating material</td></tr>
+<tr><td>6.6.</td><td>Observations on undesirable or unintended side-effects on succeeding crops and other plants</td></tr>
+<tr><td>6.6.1.</td><td>Impact on succeeding crops</td></tr>
+<tr><td>6.6.2.</td><td>Impact on other plants, including adjacent crops</td></tr>
+<tr><td>6.7.</td><td>Compatibility in plant protection programmes</td></tr>
+<tr><td>7.</td><td>Effect on human health</td></tr>
+<tr><td>7.1.</td><td>Medical data</td></tr>
+<tr><td>7.2.</td><td>Assessment of potential toxicity of the plant protection product</td></tr>
+<tr><td>7.3.</td><td>Acute toxicity</td></tr>
+<tr><td>7.3.1.</td><td>Acute oral toxicity</td></tr>
+<tr><td>7.3.2.</td><td>Acute dermal toxicity</td></tr>
+<tr><td>7.3.3.</td><td>Acute inhalation toxicity</td></tr>
+<tr><td>7.3.4.</td><td>Skin irritation</td></tr>
+<tr><td>7.3.5.</td><td>Eye irritation</td></tr>
+<tr><td>7.3.6.</td><td>Skin sensitisation</td></tr>
+<tr><td>7.4.</td><td>Additional toxicity information</td></tr>
+<tr><td>7.5.</td><td>Data on exposure</td></tr>
+<tr><td>7.6.</td><td>Available toxicological data relating to non-active substances</td></tr>
+<tr><td>7.7.</td><td>Supplementary studies for combinations of plant protection products</td></tr>
+<tr><td>8.</td><td>Residues in or on treated products, food and feed</td></tr>
+<tr><td>9.</td><td>Fate and behaviour in the environment</td></tr>
+<tr><td>10.</td><td>Effects on non-target organisms</td></tr>
+<tr><td>10.1.</td><td>Effects on terrestrial vertebrates</td></tr>
+<tr><td>10.2.</td><td>Effects on aquatic organisms</td></tr>
+<tr><td>10.2.1.</td><td>Effects on fish</td></tr>
+<tr><td>10.2.2.</td><td>Effects on aquatic invertebrates</td></tr>
+<tr><td>10.2.3.</td><td>Effects on algae</td></tr>
+<tr><td>10.2.4.</td><td>Effects on aquatic macrophytes</td></tr>
+<tr><td>10.3.</td><td>Effects on bees</td></tr>
+<tr><td>10.4.</td><td>Effects on non-target arthropods other than bees</td></tr>
+<tr><td>10.5.</td><td>Effects on non-target meso- and macroorganisms in soil</td></tr>
+<tr><td>10.6.</td><td>Effects on non-target terrestrial plants</td></tr>
+<tr><td>10.7.</td><td>Additional toxicity studies</td></tr>
+</table>
+
+**INTRODUCTION TO PART B**
+
+(i) This Introduction to Part B complements the Introduction to this Annex with points which are specific for plant protection products containing an active substance that is a micro-organism.
+
+(ii) For the purposes of Part B, the following definitions apply:
+
+(1) ‘strain’ means a genetic variant of an organism in its taxonomic level (species) that is made up of the descendants of a single isolation in pure culture from the original matrix (e.g. the environment) and usually is made up of a succession of cultures ultimately derived from an initial single colony;
+
+(2) ‘colony-forming unit’ (‘CFU’) means a measurement unit used to estimate the number of bacterial or fungal cells in a sample, which have the ability to multiply under controlled growing conditions, with the consequence that one or more cells reproduce and multiply to form a single visible colony;
+
+(3) ‘Microbial Pest Control Agent as manufactured’ (‘MPCA as manufactured’) means the outcome of the manufacturing process of the micro-organism(s) intended to be used as active substance in plant protection products, consisting of the micro-organism(s) and any additives, metabolites (including metabolites of concern), chemical impurities (including relevant impurities), contaminating micro-organisms (including relevant contaminating micro-organisms) and the spent medium/rest fraction resulting from the manufacturing process or, in case of a continuous manufacturing processes where a strict separation between the manufacturing of the micro-organism(s) and the production process of the plant protection product is not possible, a non-isolated intermediate;
+
+(4) ‘additive’ means a component added to the active substance during its manufacturing, to preserve microbial stability and/or facilitate handling;
+
+(5) ‘purity’ means the content of the micro-organism present in the MPCA as manufactured expressed in a relevant unit and the maximum content of substances of concern in case they are identified;
+
+(6) ‘relevant contaminating micro-organism’ means a pathogenic/infective micro-organism unintentionally present in the MPCA as manufactured;
+
+(7) ‘seed stock’ means a microbial strain starter culture used to manufacture the MPCA as manufactured or the final plant protection product;
+
+(8) ‘spent medium/rest fraction’ means the fraction of the MPCA as manufactured consisting of remaining or transformed starting materials, and excluding the micro-organism(s) that is the active substance, metabolites of concern, additives, relevant contaminating micro-organisms, and relevant impurities;
+
+(9) ‘starting material’ means substances used in the manufacturing process of the MPCA as manufactured as substrate and/or buffering agent;
+
+(10) ‘infectivity’ means the ability of a micro-organism to cause an infection;
+
+(11) ‘infection’ means the non-opportunistic introduction or entry of micro-organism into a susceptible host, where the micro-organism is able to reproduce to form new infective units and persist in the host, whether or not the micro-organism causes pathological effects or disease;
+
+(12) ‘pathogenicity’ means the non-opportunistic ability of a micro-organism to inflict injury and damage to the host upon infection;
+
+(13) ‘non-opportunistic’ means a condition under which a micro-organism exerts an infection or inflicts an injury or damage when the host is not weakened by a predisposing factor (e.g. immune system impaired by an unrelated cause);
+
+(14) ‘opportunistic infection’ means an infection occurring in a host weakened by a predisposing factor (e.g. immune system impaired by an unrelated cause);
+
+(15) ‘metabolite of concern’ means a metabolite produced by the micro-organism under assessment, with known toxicity or known relevant antimicrobial activity, which is present in the MPCA as manufactured at levels that may present a risk to human health, animal health or the environment, and/or for which it cannot be adequately justified that in-situ production of the metabolite is not relevant for the risk assessment;
+
+(16) ‘ in situ production’ means the production of a metabolite by the micro-organism after application of the plant protection product containing that micro-organism;
+
+(17) ‘relevant antimicrobial activity’ means the antimicrobial activity caused by relevant antimicrobial agents;
+
+(18) ‘antimicrobial agent’ means any antibacterial, antiviral, antifungal, anthelmintic or antiprotozoal agent that is a substance of natural, semi-synthetic, or synthetic origin that at in vivo concentrations kills or inhibits the growth of micro-organisms by interacting with a specific target;
+
+(19) ‘relevant antimicrobial agents’ means all antimicrobial agents important for therapeutic use in humans or animals, as described in the latest available versions at the time of submission of the dossier:
+
+— in a list adopted by means of Commission Regulation (EU) 2021/1760 ( 11 ) in accordance with Article 37(5) of Regulation (EU) 2019/6 of the European Parliament and of the Council ( 12 ), or
+
+— by the World Health Organisation ( 13 ) in the lists of Critically Important Antimicrobials, Highly Important Antimicrobials and Important Antimicrobials for Human Medicine.
+
+(iii) The information from scientific peer-reviewed literature as mentioned under the Introduction to this Annex, point 1.4, shall be provided at the relevant taxonomic level. An explanation on why the chosen taxonomic level is considered relevant for the addressed data requirement shall be provided.
+
+(iv) Other available sources of information, such as medical reports, may also be provided and submitted in a summary.
+
+(v) Where appropriate or specifically indicated in the data requirements, test guidelines as described in Part A shall be used also for this Part, upon adaptation in such a way that they are appropriate for chemical compounds present in the plant protection product containing an active substance that is a micro-organism.
+
+(vi) Where testing is done, a detailed description (specification) of the material used and its impurities, in accordance with point 1.4, shall be provided.
+
+(vii) In cases where a new plant protection product containing an active substance that is a micro-organism is to be dealt with, data extrapolation from Part B of the Annex to Regulation (EU) No 283/2013, may be acceptable, provided that all the possible toxic effects of the co-formulants and other components, are sufficiently characterized and evaluated as of no concern.
+
+(viii) Alternative methods to test toxicity of plant protection products containing an active substance that is a micro-organism on vertebrates, may also be included in a weight of evidence approach.
+
+**1\. IDENTITY OF THE APPLICANT, IDENTITY OF THE PLANT PROTECTION PRODUCT AND MANUFACTURING INFORMATION**
+
+The information provided, taken together with that provided for the active substance that is a micro-organism, shall be sufficient to precisely identify and define plant protection products. The information provided, shall be sufficient to identify if any factor could alter the properties of the active substance that is a micro-organism as a plant protection product, in comparison to the active substance as such, which is treated in Part B of the Annex to Regulation (EU) No 283/2013. The information and data referred to, unless otherwise specified, are required for all plant protection products.
+
+1.1. Applicant
+
+The name and address of the applicant shall be provided as well as the name, address, telephone number and email address of the contact point.
+
+1.2. Producer of the preparation and the micro-organism(s)
+
+The name and address of the producer of the preparation and of each active substance that is a micro-organism in the preparation shall be provided, as well as the name and address of each manufacturing plant in which the preparation and active substance that is a micro-organism are manufactured. If the producer contracts a third party for the manufacturing process, same information shall be provided for such third party.
+
+A contact point (preferable a central contact point, to include name, telephone number, email address and fax number) shall be provided for each producer.
+
+If the active substance that is a micro-organism is manufactured by a producer whose data have not been submitted in accordance with Regulation (EU) No 283/2013, data to address the relevant requirements laid down in Regulation (EU) No 283/2013 shall be provided.
+
+1.3. Trade name or proposed trade name, and producer’s development code number of the preparation if appropriate
+
+All former and current trade names and proposed trade names and development code numbers of the preparation referred to in the dossier as well as the current names and numbers shall be provided. Full detail of any differences shall be provided. The proposed trade name shall not give rise to confusion with the trade name of already authorised plant protection products.
+
+1.4. Detailed quantitative and qualitative information on the composition of the preparation
+
+(i) Each micro-organism that is subject to the application shall be identified as unequivocally belonging to a certain species, based on the latest scientific information, and named at the strain level, including any other designation which may be relevant to the micro-organism (e.g. isolate level, if relevant for viruses), as required by point 1.3 of Part B of the Annex to Regulation (EU) No 283/2013. The micro-organism shall be deposited at an internationally recognised culture collection and given an accession number. The scientific name shall be stated, as well as the group assignment (bacteria, virus, etc.) and any other denomination relevant to the micro-organism (e.g. strain, serotype). In addition, the development phase of the micro-organism (e.g. spores, mycelium) in the marketed plant protection product shall be stated.
+
+(ii) For preparations, the following information shall be reported:
+
+— the minimum and maximum content of the active substance that is a micro-organism in the plant protection product, as required in point 1.4.1 of Part B of the Annex to Regulation (EU) No 283/2013,
+
+— the minimum and maximum content of the MPCA as manufactured in the plant protection product,
+
+— in case of presence of relevant contaminating micro-organisms, the identity and the maximum content of relevant contaminating micro-organisms expressed in appropriate microbial unit,
+
+— in case of presence of chemical impurities that are relevant for human and animal health and/or the environment, including metabolites of concern (identified in accordance with point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013) produced by the micro-organism as relevant impurities in the manufacturing batch, the identity and maximum content, expressed in appropriate units, shall be provided,
+
+— the content of co-formulants, safeners and synergists in the plant protection product.
+
+(iii) Co-formulants, safeners and synergists shall, where possible, be identified either by their International Chemical Identification as given in Annex VI to Regulation (EC) No 1272/2008, or, if not included in that Regulation, in accordance with both IUPAC and CA nomenclature. Their structure or structural formula shall be provided. For each component of the co-formulants safeners and synergists the relevant EC (EINECS or ELINCS) number and CAS number, where they exist, shall be provided. Where the information provided does not lead to an identification, an appropriate specification shall be provided. The trade name of co-formulants, safeners and synergists, shall also be provided.
+
+(iv) For co-formulants, the function shall be given as:
+
+— adhesive (sticker),
+
+— antifoaming agent,
+
+— antifreeze,
+
+— antioxidant,
+
+— binder,
+
+— buffer,
+
+— carrier,
+
+— deodorant,
+
+— dispersing agent,
+
+— dye,
+
+— emetic,
+
+— emulsifier,
+
+— fertilising product,
+
+— odorant,
+
+— osmoprotectant,
+
+— perfume,
+
+— preservative,
+
+— propellant,
+
+— repellent,
+
+— safener,
+
+— solar protectant,
+
+— solvent,
+
+— stabiliser,
+
+— thickener,
+
+— wetting agent,
+
+— miscellaneous (shall be specified).
+
+(v) Relevant contaminating micro-organisms shall be identified as provided for under point 1.4.2.2 of Part B of the Annex to Regulation (EU) No 283/2013.
+
+Chemicals (inert components, by-products, etc.) shall be identified as provided for under point 1.10 of Part A of the Annex to Regulation (EU) No 283/2013. Where the information provided does not fully identify a component (such as condensate, culture medium), detailed information on the composition shall be provided for each such component.
+
+1.5. Physical state and nature of the preparation
+
+The type and code of preparation shall be designated in accordance with relevant guidance documents. Where a particular preparation is not defined precisely in relevant guidance documents, a full description of the physical nature and state of the preparation shall be provided, together with a proposal for a suitable description of the type of preparation and a proposal for its definition.
+
+1.6. Method of production of the preparation and quality control
+
+Full information on how the plant protection product is produced in bulk shall be provided for all the steps of the manufacturing process. The type of manufacturing process (e.g. continuous or batch process) shall be indicated.
+
+1.7. Packaging and compatibility of the preparation with proposed packaging materials
+
+(i) Packaging to be used shall be described and specified in terms of the materials used, manner of construction (e.g. extruded, welded), size and capacity, size of opening, type of closure and seals.
+
+(ii) The suitability of the packaging, including closures, in terms of its strength, leakproofness and resistance to normal transport, storage and handling conditions, shall be determined and reported.
+
+(iii) The resistance of the packaging material to its content shall be reported.
+
+**2\. PHYSICAL, CHEMICAL AND TECHNICAL PROPERTIES OF THE PLANT PROTECTION PRODUCT**
+
+2.1. Appearance (colour and odour)
+
+A description of the colour and the odour, if any, and the physical state of the preparation shall be provided.
+
+2.2. Explosivity and oxidising properties
+
+Explosivity and oxidising properties shall be reported as provided for under point 2.2 of Part A, unless it can be justified that it is technically or scientifically not necessary to perform such studies.
+
+2.3. Flash point and other indications of flammability or spontaneous ignition
+
+Flash point and flammability shall be reported, as provided for under point 2.3 of Part A, unless it can be justified that it is technically or scientifically not necessary to perform such studies.
+
+2.4. Acidity, alkalinity and if necessary pH value
+
+Acidity, alkalinity and pH (before and after storage at the recommended conditions) shall be reported, as provided for under point 2.4 of Part A, unless it can be justified that it is technically or scientifically not necessary to perform such studies.
+
+2.5. Viscosity and surface tension
+
+Viscosity and surface tension shall be reported, as provided for under point 2.5 of Part A, unless it can be justified that it is technically or scientifically not necessary to perform such studies.
+
+2.6. Storage stability and shelf life
+
+2.6.1. Use concentration
+
+The appropriate minimum and maximum use concentrations of the plant protection product, justifying the volume of the commercial packaging used in line with a reasonable storage period, shall be indicated, as well as the nature of the packaging material in line with the recommended storage conditions.
+
+2.6.2. Effects of temperature and packaging
+
+The optimal temperature and packaging to ensure the storage stability of the plant protection product in line with the recommended maximal shelf life shall also be stated. Where shelf life is less than two years, the shelf life in months, shall be reported.
+
+At these conditions, information shall be provided on:
+
+— the physical stability of the preparation during and after storage at the recommended storage temperature and, in case of liquid preparation, at low temperatures, evaluated by performing tests in the original packaging,
+
+— the content of the active substance that is a micro-organism, which shall be in accordance with the minimum and maximum certified content declared by the applicant before and after storage at the recommended storage temperature and, if applicable, at low temperatures,
+
+— growth of possible relevant contaminating micro-organisms, before and after storage at the recommended storage temperature, described in appropriate terms for micro-organisms (such as number of active units per volume or weight, colony forming units (CFU) or international units per volume or weight, or any other manner that is relevant to the micro-organism),
+
+— presence of metabolites of concern identified in accordance with point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013, before and after storage.
+
+2.6.3. Other factors affecting stability
+
+Effect of exposure to air, light, etc., on the plant protection product’s stability shall be reported.
+
+The optimal moisture conditions to ensure the storage stability of the plant protection product shall be stated. For dry preparations also the effects of contaminating water on viability of the micro-organism shall be described. This information may be provided by direct measurement of moisture content before and after storage or by describing packaging integrity and viability of the micro-organism before and after storage.
+
+2.7. Technical characteristics of the plant protection product
+
+The technical characteristics of plant protection products shall be determined and reported at appropriate concentrations.
+
+2.7.1. Wettability
+
+The wettability of solid plant protection products which are diluted for use (e.g. wettable powders and water dispersible granules), shall be determined and reported.
+
+2.7.2. Persistent foaming
+
+The persistence of foaming of plant protection products to be diluted with water shall be determined and reported.
+
+2.7.3. Suspensibility, spontaneity of dispersion and dispersion stability
+
+The suspensibility of water dispersible plant protection products (e.g. wettable powders, water dispersible granules, suspension concentrates) shall be determined and reported.
+
+The spontaneity of dispersion of water dispersible plant protection products (e.g. suspension concentrates and water dispersible granules) shall be determined and reported.
+
+The dispersion stability of plant protection products such as aqueous suspo-emulsions (SE), oil-based suspension concentrates (OD) or emulsifiable granules (EG) shall be determined and reported.
+
+2.7.4. Dry sieve test and wet sieve test
+
+In order to ensure that dustable powders have a suitable particle size distribution for ease of application, a dry sieve test shall be conducted and reported. In the case of water dispersible plant protection products, a wet sieve test shall be conducted and reported.
+
+The nominal size range of granules shall be determined and reported.
+
+2.7.5. Particle size distribution (dustable and wettable powders, granules), content of dust/fines (granules), attrition and friability (granules)
+
+(i) The size distribution of particles in the case of powders shall be determined and reported. The nominal size range of granules for direct application shall be determined and reported.
+
+(ii) The dust content of granular plant protection products shall be determined and reported. If results show > 1 % w/w dust then the particle size of the dust generated shall be determined and reported. If relevant for operator exposure the particle size of dust shall be determined and reported.
+
+(iii) The friability and attrition characteristics of granules and tablets, which are loose packed, shall be determined and reported.
+
+(iv) The hardness and integrity of tablets shall be determined and reported.
+
+2.7.6. Emulsifiability, re-emulsifiability and emulsion stability
+
+(i) The emulsifiability, emulsion stability and re-emulsifiability of plant protection products which form emulsions, shall be determined and reported.
+
+(ii) The stability of dilute emulsions and of plant protection products which are emulsions, shall be determined and reported.
+
+2.7.7. Flowability, pourability (rinsability) and dustability
+
+(i) The flowability of granular plant protection products shall be determined.
+
+(ii) The pourability (including rinsed residue) of suspension plant protection products (e.g. suspension concentrates, suspo-emulsions) shall be determined and reported.
+
+(iii) The dustability of dustable powders shall be determined and reported.
+
+2.8. Physical and chemical compatibility with other plant protection products including plant protection products with which its use is to be authorised
+
+2.8.1. Physical compatibility
+
+If in the label claim a use in a mixture with other plant protection products or adjuvants is indicated, the physical compatibility of the plant protection product with different plant protection products and adjuvants, which are indicated in the label claim, to be used in the same recommended tank mixes shall be determined and reported.
+
+2.8.2. Chemical compatibility
+
+If in the label claim a use in a mixture with other plant protection products or adjuvants is indicated, the chemical compatibility of the plant protection product with different plant protection products or adjuvants in the same recommended tank mixes shall be determined and reported, except where after examination of the individual properties of the plant protection product it is established that there is no possibility of reaction taking place. In such cases, it is sufficient to provide that information as justification for not practically determining the chemical compatibility.
+
+2.9. Adherence and distribution to seeds
+
+In the case of plant protection products for seed treatment, distribution and adhesion of the plant protection product to the seeds shall be investigated and reported.
+
+**3\. DATA ON APPLICATION**
+
+3.1. Field of use envisaged
+
+The field(s) of use, existing and proposed, for plant protection product containing the micro-organism shall be specified as:
+
+— field use, such as agriculture, horticulture, forestry and viticulture,
+
+— protected crops (e.g. in greenhouses),
+
+— non-cultivated areas,
+
+— home gardening,
+
+— houseplants,
+
+— stored food/feed items,
+
+— other (shall be specified).
+
+3.2. Mode of action on the target organism
+
+The information required in accordance with point 2.3 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product. Additional information on the mode of action on the target organism shall be provided in case the chemical components (e.g. co-formulants) may have a relevant effect on efficacy, human and animal health or the environment.
+
+3.3. Function, target organisms and plants or plants products to be protected and possible risk mitigation measures
+
+The biological function shall be given as one of the following:
+
+— control of bacteria,
+
+— control of fungi,
+
+— control of insects,
+
+— control of mites,
+
+— control of molluscs,
+
+— control of nematodes,
+
+— control of plants,
+
+— other (shall be specified).
+
+Details of the target organisms and plants or plant products to be protected shall be provided.
+
+3.4. Application rate
+
+For each method of application and each use, the rate of application per unit treated, in terms of g, kg, ml or l for the plant protection product and in terms of appropriate units for the micro-organism (e.g. number of active units, colony forming units (CFU) or international units per volume or weight) shall be provided. For protected crops and home gardening use rates shall be expressed in g or kg/100 m2, or g or kg/m3, ml or l/100 m2, or ml or l/m3.
+
+3.5. Content of micro-organism in material used (e.g. in the diluted spray, baits or treated seed)
+
+The content of micro-organism shall be reported, as appropriate, such as number of active unit per volume or weight, colony forming units (CFU) or international units per volume or weight, or any other manner that is relevant to the micro-organism.
+
+3.6. Method of application
+
+The method of application proposed shall be described, indicating the type of equipment to be used, if any, as well as the type and volume of diluent to be used per unit of area of application, or volume of plant protection product.
+
+3.7. Number and timing of applications on the same crop, duration of protection and waiting period(s)
+
+The maximum number of applications to be used on the same crop and their timing shall be reported.
+
+Where relevant, the growth stages of the crops to be protected and the development stages of the target organisms shall be indicated. Where applicable, the interval between applications, in days, shall be stated. The duration of protection afforded both by each application and by the maximum number of applications to be used shall be indicated.
+
+3.8. Proposed instructions for use
+
+The proposed instructions for use of the plant protection product to be printed on labels and leaflets shall be provided. Details on the risk mitigation measures (if relevant) shall be provided.
+
+3.9. Safety intervals and other precautions to protect human health, animal health and the environment
+
+The information provided shall follow from and be supported by the data provided for the micro-organism(s) and that provided under Sections 7 to 10.
+
+(i) Where relevant, pre-harvest intervals, re-entry periods or withholding periods necessary to minimise the presence of residues in or on crops, plants and plant products, or in treated areas or spaces, with a view to protecting human and animal health, shall be specified, e.g.:
+
+— pre-harvest interval (in days) for each relevant crop,
+
+— re-entry period (in days) for livestock, to areas to be grazed,
+
+— re-entry period (in hours or days) for humans to crops, buildings or spaces treated,
+
+— withholding period (in days) for animal feeding stuffs and for post-harvest uses,
+
+— waiting period (in days) between application and handling treated products.
+
+(ii) Where necessary, in the light of the test results, information on any specific agricultural, plant health or environmental conditions under which the plant protection product may or may not be used shall be provided.
+
+**4\. FURTHER INFORMATION ON THE PLANT PROTECTION PRODUCT**
+
+4.1. Procedures for cleaning and decontaminating of application equipment
+
+Cleaning and decontaminating procedures for application equipment and protective clothing shall be described.
+
+Such procedures shall aim at inactivating or destroying the active substance that is a micro-organism and at removing residues of the plant protection product (including metabolites of concern, if any were identified in accordance with point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013).
+
+Sufficient data shall be submitted to demonstrate the effectiveness of the cleaning and decontaminating procedures.
+
+4.2. Recommended methods and precautions concerning: handling, storage, transport, fire or use
+
+The recommended methods and precautions concerning (detailed) handling procedures for the storage, at both warehouse and user level of plant protection products, for their transport and in the event of fire shall be provided. Where relevant, information on combustion products shall be provided. The hazards likely to arise and the methods and procedures to minimise the risks shall be specified. Procedures to preclude or minimize the generation of waste or leftovers shall be provided.
+
+Where relevant, an assessment of the procedures shall be provided.
+
+The nature and characteristics of protective clothing and equipment proposed shall be provided. The data provided shall be sufficient to evaluate obtainability, suitability and effectiveness under realistic conditions of use (e.g. field or greenhouse circumstances), resistance and compatibility with the plant protection product.
+
+4.3. Measures in case of accident
+
+Whether arising during transport, storage or use, detailed procedures to be followed in the event of an accident shall be provided and include:
+
+— containment of spillages,
+
+— decontamination of areas, vehicles and buildings,
+
+— disposal of damaged packaging, adsorbents and other materials,
+
+— protection of emergency workers and residents, including bystanders,
+
+— first-aid measures.
+
+4.4. Procedures for destruction or decontamination of the plant protection product and its packaging
+
+Procedures for destruction and decontamination shall be developed and described for both small quantities (e.g. user level) and large quantities (e.g. warehouse level). The procedures shall be consistent with provisions in place relating to the disposal of waste and of toxic waste. The means of disposal proposed shall be without unacceptable effects on the environment and be the most cost effective and practical means of disposal feasible.
+
+4.4.1. Controlled incineration
+
+The applicant shall provide detailed instructions for safe disposal, taking into consideration that, in many cases, the preferred or sole means to safely dispose of plant protection products and in particular the co-formulants contained in it, contaminated materials, or contaminated packaging, is through controlled incineration in a licensed incinerator.
+
+4.4.2. Others
+
+Other methods for destruction or decontamination of plant protection products, packaging and contaminated materials, where proposed, shall be described. Data shall be provided for such methods.
+
+**5\. ANALYTICAL METHODS**
+
+Introduction
+
+Both production and the resulting plant protection product shall be subject to a continuous quality control by the applicant. The quality criteria for the plant protection product shall be submitted.
+
+Descriptions of methods shall be provided and include details of equipment, materials and conditions used. The applicability of internationally recognised methods shall be reported.
+
+On request of competent authorities, the following samples shall be provided:
+
+(i) samples of the preparation;
+
+(ii) samples of the MPCA as manufactured;
+
+(iii) sample of the seed stock;
+
+(iv) if technically possible, analytical standards of metabolites of concern (see point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013) and all other components included in the residue definition;
+
+(v) if technically possible and needed, analytical standards of relevant impurities.
+
+As far as practicable, the post-authorisation methods shall employ the simplest approach, involve the minimum cost and require commonly available equipment.
+
+5.1. Methods for the analysis of the preparation
+
+The following methods shall be described:
+
+— for identification and quantification of each micro-organism in the plant protection product, of which the active substance consists, including methods on how to distinguish between different micro-organisms, when the plant protection product includes more than one, and the most appropriate molecular analytical or phenotypic methods as described in point 4.1 of Part B of the Annex to Regulation (EC) No 283/2013,
+
+— to establish microbiological purity of the plant protection product,
+
+— to detect and enumerate relevant contaminating micro-organisms in the plant protection product,
+
+— used to determine the storage stability and shelf life of the plant protection product.
+
+5.2. Methods to determine and quantify residues
+
+Analytical methods for the determination of densities of the micro-organism and residues, as provided for under point 4.2 of Part B of the Annex to Regulation (EU) No 283/2013, shall be submitted, unless the information already submitted in accordance with the requirements of point 4.2 of Part B of the Annex to Regulation (EU) No 283/2013 is sufficient.
+
+**6\. EFFICACY DATA**
+
+Introduction
+
+The data supplied shall be sufficient to permit an evaluation of the plant protection product to be made. In particular, it shall be possible to evaluate the nature and extent of benefits that accrue following use of the plant protection product, in comparison to suitable reference products where they exist, and/or an untreated control, damage thresholds, and to define its conditions of use.
+
+The design, analysis, conduct and reporting of trials shall be in accordance with the relevant standards, where available. Deviations from available relevant standards may only be acceptable if the trials design meets the minimum requirements of the relevant standards and it is described and justified. The report shall include a detailed and critical assessment of the data.
+
+The number of trials to be conducted and reported shall depend on factors such as the extent to which the properties of the active substance that is a micro-organism in the plant protection product are known. This number may depend also on the variability of conditions that arise in the trials (e.g. variability of plant health or climatic conditions), on the range of agricultural practices, the uniformity of the crops, the mode of application, the type of target organism, the climatic region and the type of plant protection product.
+
+Data submitted shall be sufficient to be representative for the regions and the range of conditions of use encountered in practice concerning the uses of the plant protection product. If properly justified and relevant based on case-by-case approach and expert judgement, the applicant may read-across data to support the application, including data generated on other relevant uses, crops, European environments or other relevant conditions.
+
+If read-across cannot be applied in order to assess seasonal differences, if any, sufficient data shall be generated and submitted to confirm the efficacy of the plant protection product in each agronomically and climatically different region for each particular crop (or commodity)/target organism combination. Trials on efficacy or phytotoxicity, where relevant, in at least two growing seasons shall be reported.
+
+Any effects, positive or negative, on any non-target organism, which are observed in the tests performed in accordance with the requirements of this Section, shall be reported.
+
+6.1. Preliminary tests
+
+When requested by the competent authority, summary reports of preliminary tests shall be submitted, including laboratory, greenhouse and field studies, used to assess the biological activity, mode of action and dose-range finding of the plant protection product and the active substance(s) it contains. These reports shall provide justification on the combination of several active substances, safeners and/or synergists, if applicable, and they shall provide additional information for the competent authority when it evaluates the plant protection product. Where this information is not submitted, a justification, which is acceptable to the competent authority, shall be provided.
+
+6.2. Minimum effective dose
+
+The minimum effective dose shall be reported, or a range of minimum doses, necessary to achieve with sufﬁcient efﬁcacy the claimed plant protection action, across the broad range of situations in which that plant protection product is to be applied.
+
+6.3. Testing effectiveness
+
+The tests shall provide sufficient data to permit an evaluation of the level, duration and consistency of intended effects of the plant protection product. Also, possible beneficial effects on treated crops shall be reported. Tests shall include an untreated control. In case of availability of suitable reference products, a comparison shall be performed between the plant protection product subject of the application and the reference product. Trials shall be designed to investigate specified issues, to minimise the effects of random variation between different parts of each testing site and to enable statistical analysis to be applied to results amenable to such analysis. The design, analysis and reporting of trials shall be in accordance with relevant standards or with guidelines satisfying at least the requirements of the corresponding relevant standards. The report shall include a detailed and critical assessment of the data. A statistical analysis of results amenable to such analysis shall be carried out. Where necessary, the test guideline used shall be adapted to enable such analysis.
+
+6.4. Information on possible development of resistance in target organisms
+
+Data on the occurrence and development of resistance or cross-resistance in populations of target organisms to the active substance that is a micro-organism shall be provided, unless the applicant shows that the data and information already submitted for the active substance under point 3.4 of Part B of the Annex to Regulation (EU) No 283/2013 are sufficient to permit an assessment to be performed.
+
+If provision of data is required, such data may be generated in experimental studies (either in laboratories or under field condition) or retrieved from available scientific literature.
+
+If provision of data is required and information is available for uses not directly relevant to the uses for which authorisation is sought or to be renewed, including information on different species of target organism or different crops, this information shall also be provided. Where there is evidence or information to suggest that, in commercial use, the development of resistance is likely, evidence shall be generated and submitted as to the sensitivity of the population of the target organism concerned to the plant protection product. In such cases, a management strategy designed to minimise the likelihood of resistance or cross-resistance developing in target species shall be provided.
+
+6.5. Adverse effects on treated crops
+
+6.5.1. Phytotoxicity to target plants (including different cultivars) or to target plant products
+
+For herbicides and for other plant protection products for which adverse effects, however transitory, are seen during the trials, the margins of selectivity on target crops shall be established, using twice the recommended rate of application. In this case, tests shall be performed to provide sufficient data to permit an evaluation of the possible occurrence of phytotoxicity after treatment with the plant protection product. Where serious phytotoxic effects are seen, an intermediate application rate shall also be investigated. Where adverse effects occur, but are claimed to be unimportant in comparison with the benefits of use or transient, evidence to support that claim is required. If necessary, yield measurement shall be submitted.
+
+If testing is required, the safety of the plant protection product to the main cultivars of the main crops for which it is recommended shall be demonstrated, including effects of crop growth stage, vigour and other factors, which may influence susceptibility to damage or injury.
+
+The extent of investigation necessary on other crops shall depend on their degree of similarity to the main crops already tested, the quantity and quality of data available on those main crops and how far the manner of use of the plant protection product, if relevant, is similar. The test may be performed with the main preparation type to be authorised.
+
+Where proposed label claims include recommendations for the use of the plant protection product with other plant protection product(s), the provisions laid down in this point shall apply for the mixture.
+
+Where phytotoxic effects are seen, they shall be accurately assessed and recorded in accordance with the relevant EPPO standards or, when a Member State requires so and when the test is carried out on the territory of that Member State, with guidelines satisfying at least the requirements of the relevant EPPO guideline.
+
+6.5.2. Effects on the yield of treated plants or plant products
+
+Tests shall be performed to provide sufficient data to permit an evaluation of the efficacy of the plant protection product and of possible occurrence of yield reduction or loss in storage of treated plants or plant products.
+
+The effects of plant protection products on the yield or yield components of treated plant products shall be determined, unless the applicant can properly justify that such data is not relevant. When treated plants or plant products are likely to be stored, possible effects on the yield after storage, including data on storage life, shall be reported.
+
+6.5.3. Effects on the quality of plants or plant products
+
+Appropriate observations of quality parameters may be required for individual crops (for example, cereal grain quality and sugar content). Such information may be gathered from appropriate assessments in trials described under points 6.3 and 6.5.1.
+
+Where relevant, taint testing shall be conducted.
+
+6.5.4. Effects on transformation processes
+
+The tests shall provide sufficient data to permit an evaluation of the possible occurrence of adverse effects after treatment with the plant protection product on transformation processes or on the quality of their products, and they are required when all of the following circumstances apply:
+
+— the treated plants or plant products are normally intended for use in transformation process (e.g. wine making, brewing or bread making),
+
+— at harvest, significant residues are present (see Section 8), and
+
+— at least one of the following two also apply:
+
+— there are indications that the use of the plant protection product could have an influence on the processes involved (e.g., in the case of active substance that is a micro-organism with fungicidal function, when used close to the harvest), or
+
+— other plant protection products based on the same or a closely similar active ingredient have been shown to have an adverse influence on these processes or their products.
+
+When the test is required, it may be performed with the main preparation type to be authorised. The possibility of the occurrence of adverse effects on transformation processes shall be investigated and reported. The tests shall provide sufficient data to permit an evaluation of the possible occurrence of adverse effects after treatment with the plant protection product on transformation processes or on the quality of their products.
+
+6.5.5. Impact on treated plants or plant propagating material
+
+Sufficient data shall be reported to permit an evaluation of possible adverse effects of a treatment with the plant protection product on plants or plant products to be used for propagation, except where the proposed uses preclude use on crops intended for production of seeds, cuttings, runners or tubers for planting, as appropriate.
+
+Observations shall be submitted for:
+
+(i) seeds – viability, germination and vigour;
+
+(ii) cuttings – rooting and growth rates;
+
+(iii) runners – establishment and growth rates;
+
+(iv) tubers – sprouting and normal growth.
+
+Seeds testing shall be done in accordance with the relevant standards or with guidelines satisfying at least their requirements.
+
+6.6. Observations on undesirable or unintended side-effects on succeeding crops and other plants
+
+6.6.1. Impact on succeeding crops
+
+The provision laid down in this point shall apply only for:
+
+— plant-pathogenic micro-organisms, or
+
+— metabolites of concern for which a hazard to plants was identified, and for which data provided in accordance with Section 9 shows that significant amounts of these metabolites of concern remain in soil or in plant materials, such as straw or organics material up to sowing or planting time of possible succeeding crops.
+
+Sufficient data shall be reported to permit an evaluation of possible adverse effects of a treatment with the plant protection product on succeeding crops. Minimum waiting periods between the last application and sowing or planting of succeeding crops shall be stated. Limitations on choice of succeeding crops, if any, shall be stated. The duration of protection brought both by each application and by the maximum number of applications to be used shall be indicated.
+
+6.6.2. Impact on other plants, including adjacent crops
+
+Sufficient data shall be reported to permit an evaluation of possible adverse effects of a treatment with the plant protection product on other plants, including adjacent crops.
+
+Observations shall be submitted on adverse effects on other plants, including the normal range of adjacent crops, when there are indications that the plant protection product could affect these plants via drift.
+
+6.7. Compatibility in plant protection programmes
+
+Where the proposed label claim includes requirements for the use conditions with other plant protection products in tank mix, spray sequences or other relevant types of applications, potential effects (e.g. antagonism, fungicidal effects) on the activity of the micro-organism after mixing, spraying in sequence, or employing other relevant types of applications with other plant protection products shall be investigated. Appropriate information shall be provided.
+
+A general precautionary statement shall be proposed on the label, alerting the user about possible loss of efficacy of the micro-organism due to interaction in tank mix, spray sequences or other relevant types of applications with plant protection products other than those indicated in the label. Known biological incompatibilities with other plant protection products shall be reported on the label.
+
+Appropriate recommendations (e.g. intervals between application of the plant protection product and other products) shall be specified, where necessary to avoid potential negative effects on the activity of the micro-organism. Appropriate information supporting the recommendations shall be provided.
+
+If relevant, potential adverse effects of the plant protection product on natural enemies (e.g. released biological control agents) or other practices (e.g. conservation biological control) under the expected condition of use of the plant protection product shall be reported. The assessment of those potential adverse effects shall be based on information provided on one or more of the following:
+
+— host range of the micro-organism (point 2.3 of Part B of the Annex to Regulation (EU) No 283/2013),
+
+— effects on bees (point 8.3 of Part B of the Annex to Regulation (EU) No 283/2013 and point 10.3 of Part B of the Annex to Regulation (EU) No 284/2013),
+
+— effects on non-target arthropods other than bees (point 8.4 of Part B of the Annex to Regulation (EU) No 283/2013 and point 10.4 of Part B of the Annex to Regulation (EU) No 284/2013) or
+
+— any other relevant information.
+
+**7\. EFFECT ON HUMAN HEALTH**
+
+Introduction
+
+For proper evaluation of risks for human and animal (i.e. species normally fed and kept by humans or food-producing animals) health linked to the use of a plant protection product containing an active substance that is a micro-organism, the infectivity and pathogenicity of the micro-organism have been already assessed in accordance with Section 5 of Part B of the Annex to Regulation (EU) No 283/2013. This assessment includes the micro-organism and any metabolite(s) of concern for human and animal health identified in accordance with point 2.8 of Part B of the Annex to that Regulation.
+
+This Section identifies the relevant additional tests to be carried out to determine the classification and labelling of the plant protection product and the acceptability of the risks related to its use. In some cases, already existing information on toxicity of co-formulants and other non-active ingredients of the plant protection product may be sufficient to conclude on the toxicity of the plant protection product.
+
+In view of determining the classification and labelling of the plant protection product, as well as the risks associated with its use, information on intrinsic toxicological properties of the co-formulants, safeners and synergists, shall be provided. Possible adverse synergistic effects and/or interaction among chemical substances present in the plant protection product (e.g. co-formulants, other active substance(s) and its/their impurities present in the same plant protection product) shall also be investigated. Available data concerning any possible adverse effect on human health shall be reported.
+
+The information provided shall be sufficient to allow an evaluation of the risks to human health associated with the use of the plant protection products (e.g. operators, workers, bystanders, residents and consumers), the risks for human health handling treated crops, as well as the risk for human health and animals arising from residual traces remaining in food, feed and water. In addition, the information provided shall be sufficient to:
+
+— permit a decision to be made as to whether, or not, the plant protection product may be authorised,
+
+— specify appropriate conditions or restrictions to be associated with any authorisation,
+
+— specify hazard and precautionary statements for the protection of human health, animal health and the environment to be included on packaging (containers),
+
+— identify relevant first aid measures as well as appropriate diagnostic and therapeutic measures to be followed in the event of infection or another adverse effect in humans.
+
+In the context of the possible contribution that relevant impurities and other components can have on the toxicological profile of the plant protection product, for each study submitted, a detailed description of the material used shall be provided. Tests shall be conducted using the plant protection product to be authorised. In particular, the information provided shall demonstrate that the micro-organism used in the plant protection product and the conditions of culturing it are the same for which information and data are submitted in accordance with Part B of the Annex to Regulation (EU) No 283/2013. While performing toxicology studies, all signs of adverse effects shall be reported.
+
+Based on the information submitted, proposals for the classification and labelling of the plant protection product, using CLP calculation rules in accordance with Regulation (EC) No 1272/2008, where applicable, shall be submitted and justified, including:
+
+— pictograms,
+
+— signal words,
+
+— hazard statements, and
+
+— precautionary statements.
+
+Where the information available is considered not to be robust enough to exclude possible adverse synergistic effects of substances present in the plant protection product (e.g. co-formulants, other active substance(s) and its/their impurities present in the same plant protection product), toxicological studies on possible adverse synergistic effects shall be required by the competent authority, as described under points 7.4 and 7.7.
+
+7.1. Medical data
+
+Any available information on possible adverse effect on human health shall be reported, including sensitisation and allergenic response of humans exposed to the plant protection product. In the case of adverse effects, special attention shall be paid to whether the individual’s susceptibility may have been affected by e.g. pre-existing disease, medication, compromised immunity, pregnancy or breast-feeding. The information provided shall include details of level and duration of exposure, symptoms observed and other relevant clinical observation.
+
+7.2. Assessment of potential toxicity of the plant protection product
+
+Possible human health hazards related to pathogenic events linked to the use of the plant protection product are addressed through data on infectivity, pathogenicity, and clearance of the active substance that is a micro-organism in accordance with Section 5 of Part B of the Annex to Regulation (EU) No 283/2013.
+
+Studies to determine the potential toxicity of the plant protection product shall be performed as required in point 7.3, unless the applicant demonstrates by following a weight of evidence approach, based on the information provided under Sections 2, 3, 4 and point 7.1 or retrieved from any other reliable sources (e.g. Integrated Approach to Testing and Assessment – IATA, CLP calculation rules in accordance with Regulation (EC) No 1272/2008 or read-across data from similar preparations) that no such effects are to be expected. An assessment of the potential toxicity of the plant protection product shall be submitted, taking into consideration information on the intrinsic properties of co-formulants, metabolites of concern identified in accordance with point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013, relevant impurities, with consideration for possible adverse synergistic effects and/or interaction between them and with the proposal for classification and labelling. With this assessment, the applicant shall demonstrate whether or not sufficient information is available to classify the plant protection product in accordance with Regulation (EC) No 1272/2008 with regard to toxicity to humans and whether or not acute toxicity studies on animals as described in points 7.3.1 to 7.3.6 are needed.
+
+7.3. Acute toxicity
+
+Unless information can be provided to allow an assessment to be conducted on the possible human toxicity of the plant protection product as set out in point 7.2, the applicant shall define which of the tests described in points 7.3.1 to 7.3.6 is relevant for the plant protection product and perform the test(s) identified in accordance with the instruction provided in each respective relevant point. The studies indicated in points 7.3.1 to 7.3.6, data and information to be provided and evaluated shall be sufficient to permit the identification of effects following a single exposure to the plant protection product and in particular to establish or indicate:
+
+— the acute toxicity of the plant protection product,
+
+— the time course and characteristics of the adverse effect with full details of behavioural changes and possible gross toxicological findings at post-mortem in animal studies,
+
+— where possible, the mode of toxic action, and
+
+— the relative hazard associated with the different routes of exposure.
+
+The information generated shall also permit the plant protection product to be classified in accordance with Regulation (EC) No 1272/2008.
+
+7.3.1. Acute oral toxicity
+
+Unless information can be provided to allow an assessment to be conducted on the possible acute oral toxicity of the plant protection product as set out in point 7.2, a test for acute oral toxicity shall be carried out in accordance with the most appropriate guidelines.
+
+7.3.2. Acute dermal toxicity
+
+Unless information can be provided to allow an assessment to be conducted on the possible dermal toxicity of the plant protection product as set out in point 7.2, a test for dermal toxicity shall be carried out in accordance with the most appropriate guidelines.
+
+7.3.3. Acute inhalation toxicity
+
+Unless information can be provided to allow an assessment to be conducted on the possible inhalation toxicity of the plant protection product as set out in point 7.2, a test for acute inhalation toxicity shall be carried out if the plant protection product:
+
+— is used with fogging equipment,
+
+— is used as a smoke generating formulation,
+
+— is used as a vapour releasing preparation,
+
+— is to be applied from aircraft in cases where inhalation exposure is relevant (broadcast air-assisted sprayer),
+
+— is an aerosol,
+
+— is a powder containing a significant proportion of particles of diameter &lt; 50 micrometre (> 1 % on a weight basis),
+
+— is to be applied in a manner which generates a significant proportion of particles or droplets of diameter &lt; 50 micrometre (> 1 % on a weight basis), or
+
+— contains a volatile component at greater than 10 %.
+
+7.3.4. Skin irritation
+
+Unless information can be provided to allow an assessment to be conducted on the skin irritation potential of the plant protection product from the available information regarding its components, including the active substance, co-formulants, safeners, synergists, and relevant impurities as set out in point 7.2, a test for skin irritation shall be carried out in accordance with the most appropriate guidelines.
+
+The test shall provide the potential of skin irritancy of the plant protection product including the potential reversibility of the effects observed.
+
+7.3.5. Eye irritation
+
+A test for eye irritation shall be carried out in accordance with the most appropriate guidelines, unless:
+
+— information can be provided to allow an assessment to be conducted on the eye irritating potential of the plant protection product as set out in point 7.2, or
+
+— the micro-organism is an already known eye irritant or it is likely, as indicated in the test guideline, that severe effects on the eyes may be produced.
+
+The test shall provide the potential for eye irritation of the plant protection product, including the potential reversibility of the effects observed.
+
+7.3.6. Skin sensitisation
+
+Unless information can be provided to allow an assessment to be conducted on the skin sensitisation properties of the plant protection product from the available information regarding its chemical components (i.e. co-formulants, metabolites of concern and relevant impurities) as set out in point 7.2, a test for skin sensitisation when available, shall be carried out in accordance with the most appropriate guidelines.
+
+7.4. Additional toxicity information
+
+If, based on results of the studies required in point 7.3, one or more substances of concern is present in the plant protection product (e.g. metabolites of concern and/or co-formulants) for which the risk is for human and animal health is considered not acceptable based on those studies already performed, relevant additional information on toxicity may be necessary for the plant protection product. The need to perform supplementary studies on the plant protection product shall be based on expert judgement case-by-case, in the light of the particular parameters to be investigated and the objectives to be achieved, for example, if concern on the toxicity of the plant protection products has arisen from studies described in points 7.3.1 to 7.3.6 or a conclusion on toxicity could not be reached.
+
+7.5. Data on exposure
+
+If, based on data provided in Section 5 of Part B of the Annex to Regulation (EU) No 283/2013 and this Section, effects on human health cannot be excluded, sufficient information and data shall be generated and reported to permit an assessment of the extent of exposure to the plant protection product likely to occur under the proposed conditions of use. Study design shall take into account biological, physical, chemical and toxicological properties of the plant protection product as well as the type of the product (undiluted/diluted), preparation type, and the route, the degree and duration of exposure.
+
+In the case where there is a particular concern for a possibility of dermal absorption of a toxic component of the plant protection product based on information provided in this Section, dermal absorption data shall be provided as provided for under point 7.3 of Part A.
+
+Results from exposure monitoring during production and use of the plant protection product shall be submitted.
+
+The information and data referred to in this point shall provide the basis for the selection of appropriate protective measures including personal protective equipment (see point 4.2) to be used by operators and workers and other appropriate risk mitigation measures (e.g. for bystanders and residents) and to be specified on the label.
+
+7.6. Available toxicological data relating to non-active substances
+
+Where relevant, the following information shall be submitted for each co-formulants, safeners and synergists:
+
+(a) the registration number as referred to in Article 20(3) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 14 );
+
+(b) the study summaries included in the technical dossier; and
+
+(c) the safety data sheet as referred to in Article 31 of Regulation (EC) No 1907/2006.
+
+All other available information shall be submitted.
+
+7.7. Supplementary studies for combinations of plant protection products
+
+Where the plant protection product label indicates the use of the plant protection product with other plant protection products and/or with adjuvants as a tank mix, the studies as referred to under points 7.3.1 to 7.3.6 shall be carried out for the relevant combination of plant protection products. Decisions as to the need for supplementary studies shall be made on a case-by-case basis, taking into account the results of the acute toxicity studies of the individual plant protection products, the possibility for exposure to the combination of the plant protection products concerned and available information or practical experience with the plant protection products concerned or similar plant protection products.
+
+The need to perform supplementary studies on the plant protection product shall be based on expert judgement case-by-case, in the light of the particular parameters to be investigated and the objectives to be achieved (for example, for plant protection products containing active substances or other components suspected to have synergistic or additive toxicological effects).
+
+**8\. RESIDUES IN OR ON TREATED PRODUCTS, FOOD AND FEED**
+
+Data and information on residues in or on treated products, food and feed in accordance with Section 6 of Part B of the Annex to Regulation (EU) No 283/2013 shall be submitted, unless the applicant shows that the data and information already submitted for the active substance are sufficient to permit a risk assessment to be performed on the plant protection product.
+
+**9\. FATE AND BEHAVIOUR IN THE ENVIRONMENT**
+
+Data and information in accordance with Section 7 of Part B of the Annex to Regulation (EU) No 283/2013 shall be submitted on the fate and behaviour of the plant protection product in the environment, unless the applicant shows that the data and information already submitted for the active substance are sufficient to permit a risk assessment to be performed on the plant protection product.
+
+**10\. EFFECTS ON NON-TARGET ORGANISMS**
+
+Introduction
+
+(i) The information provided, taken together with that for the active substance that is a micro-organism provided in accordance with Part B of the Annex to Regulation (EU) No 283/2013 (including possible metabolite(s) of concern as identified in accordance with point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013) shall be sufficient to permit an assessment of the potential impact on non-target species of the plant protection product, when used as proposed. When submitting this information, the applicant shall take into account that the impact on non-target species can result from single, prolonged or repeated exposure and can be reversible or irreversible.
+
+(ii) Where exposure data are necessary to decide whether a study shall be performed, the data obtained in accordance with Section 9 shall be used. For the estimation of exposure of organisms all relevant information on the plant protection product and on the micro-organism shall be taken into account. Where relevant, the data provided for under this Section shall be used. Where it appears from available data that the plant protection product has a stronger effect than the active substance that is a micro-organism, the data on effects on non-target organisms of the plant protection product shall be used for the calculation of relevant effect/exposure ratios.
+
+(iii) Unless it can be justified that an assessment of effects on non-target organisms can be performed with the information already available, experimental data may be required. The duration of experimental studies shall be long enough to permit time for incubation, infection and manifestation of adverse effects in non-target organisms, but in line with the expected exposure under the proposed use. In order to distinguish between pathogenic and toxic effects, appropriate controls shall be used in addition to the no-dosed control group, such as inactivated controls and/or sterile filtrate/supernatant controls. Special attention shall be required when the plant protection product contains a micro-organism which is pathogenic to non-target organisms other than mammals and that was not isolated from a relevant European environment. The information provided shall be sufficient to assess environmental impacts.
+
+(iv) The relevance of non-target organism species used for testing environmental effects shall be based on a weight of evidence approach, taking into consideration, for instance:
+
+— information on the micro-organism (particularly on biological properties) as required in Part B of the Annex to Regulation (EU) No 283/2013,
+
+— information concerning the co-formulants, safeners and synergists, as required in Sections 1 to 9, and
+
+— proposed use patterns of the plant protection product (e.g. foliar or soil application).
+
+In order to facilitate the assessment of the significance of test results obtained, where possible, the same strain of each relevant species of non-target organisms shall be used in the various specified tests for effects on non-target organisms.
+
+(v) All the adverse effects observed in tests and trials performed with the plant protection product shall be reported, and additional studies, which may be necessary to investigate the mechanisms involved and assess the significance of these effects, shall be undertaken and reported.
+
+(vi) Where adverse toxic effects are indicated in the studies considered for the risk assessment and risk identified may be considered not acceptable, additional toxicity studies under field conditions and in accordance with the proposed recommendations for use shall be conducted, if applicable.
+
+The type of study to be performed depends on the effects and the affected non-target organism(s) observed in the studies required in points 10.1 to 10.7 and during efficacy testing and may have to include also further studies on additional non-target species (i.e. different than those initially tested). Special attention shall be given to possible effects on non-target organisms occurring in the relevant European environment and deliberately released organisms for biological control purposes.
+
+(vii) The information provided for the plant protection product, together with other relevant information, and that provided for the micro-organism (including possible metabolites of concern as identified in point 2.8 of Part B of the Annex to Regulation (EU) No 283/2013) shall be sufficient to:
+
+— specify the hazard symbols, the indications of danger and relevant risk and safety phrases or the pictograms, signal words, relevant hazard and precautionary statements for the protection of the environment to be mentioned on packaging (containers),
+
+— permit an evaluation of the short- and long-term risks for non-target species – populations, communities, and processes as appropriate,
+
+— permit an evaluation whether special precautions are necessary for the protection of non-target species.
+
+10.1. Effects on terrestrial vertebrates
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use), as detailed in points 8.1, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or for a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that the non-target terrestrial vertebrates (e.g. mammals, birds, reptiles, and amphibians) will not be exposed to the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed and they shall provide LD50 values and include gross pathological findings. The studies may be conducted on the species used in the studies referred to in point 8.1 of Part B of the Annex to Regulation (EU) No 283/2013.
+
+10.2. Effects on aquatic organisms
+
+10.2.1. Effects on fish
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.2.1, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the active substance(s) in the plant protection product), or
+
+— justify that fish will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed and they shall provide LD50 values, and shall include gross pathological findings. The studies may be conducted on the species used in the studies referred to in point 8.2.1 of Part B of the Annex to Regulation (EU) No 283/2013.
+
+10.2.2. Effects on aquatic invertebrates
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use)as detailed in points 8.2.2, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the active substance(s) in the plant protection product), or
+
+— justify that the aquatic invertebrates will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.2.3. Effects on algae
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.2.3, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that algae will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.2.4. Effects on aquatic macrophytes
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.2.4, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with in Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that aquatic macrophytes will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.3. Effects on bees
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.3, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that bees will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.4. Effects on non-target arthropods other than bees
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.4, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that the non-target arthropods other than bees will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed. Analyses might include further studies on additional species, or higher tier studies such as studies on selected non-target organisms using the formulated plant protection product. The choice of non-target arthropods test species playing an important role in integrated pest management may be based on several factors, such as biological properties of the micro-organism and the intended use (e.g. crop type).
+
+10.5. Effects on non-target meso- and macroorganisms in soil
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.5, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that the non-target meso- and macroorganisms in soil will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.6. Effects on non-target terrestrial plants
+
+The same information submitted on the micro-organism (and/or on a plant protection product containing that active substance with respect to a representative use) as detailed in points 8.6, 8.7 and 8.8 of Part B of the Annex to Regulation (EU) No 283/2013 shall be provided for the plant protection product subject of the application, unless the applicant can:
+
+— justify the applicability and relevance of the outcome of the assessment made on the same data submitted for the micro-organism approval (and/or on a plant protection product containing that active substance with respect to a representative use),
+
+— predict the effects of the plant protection product on the basis of the data available for the co-formulants (e.g. qualitative and quantitative composition), as well as for the micro-organism and possible metabolites of concern (based on data submitted in accordance with Section 8 of Part B of the Annex to Regulation (EU) No 283/2013 for the approval of the micro-organism(s) in the plant protection product), or
+
+— justify that the non-target terrestrial plants will not be exposed to the components of the plant protection product (based on data submitted in accordance with Section 9).
+
+If generation of data is required based on the provisions laid down under this point, relevant studies shall be performed.
+
+10.7. Additional toxicity studies
+
+Further data may be submitted or additional toxicity studies performed, if tests required in points 10.1 to 10.6 have shown adverse effects in one or more non-target organisms and the risk is considered not acceptable. The type of study to be performed shall be chosen based on the effects and the affected non-target organism(s) observed in the studies required in points 10.1 to 10.6 and during efficacy testing, and may have to include also further studies on additional non-target species.
+
+( 1 ) OJ L 322, 8.12.2010, p. 10.
+
+( 2 ) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes (OJ L 276, 20.10.2010, p. 33).
+
+( 3 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).
+
+( 4 ) Commission Regulation (EU) No 283/2013 of 1 March 2013 setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 93, 3.4.2013, p. 1).
+
+( 5 ) Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances (OJ L 50, 20.2.2004, p. 44).
+
+( *1 ) OJ L 396, 30.12.2006, p. 1.
+
+( 6 ) United Nations New York and Geneva (2009) Publication ISBN 978-92-1-139135-0.
+
+( 7 ) OJ L 365, 31.12.1994, p. 34.
+
+( 8 ) LD50, abbreviation for ‘Lethal Dose, 50 %’, that is to say the dose required to kill half the members of a tested population after a specified test duration.
+
+( 9 ) LR50, abbreviation for ‘Lethal Rate, 50 %’, that is to say the application rate required to kill half the members of a tested population after a specified test duration.
+
+( 10 ) ER50, abbreviation for ‘Effect Rate, 50 %’, that is to say the application rate required to cause an effect on half the members of a tested population after a specified test duration.
+
+( 11 ) Commission Delegated Regulation (EU) 2021/1760 of 26 May 2021 supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by establishing the criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans (OJ L 353, 6.10.2021, p. 1).
+
+( 12 ) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43).
+
+( 13 ) https://www.who.int/publications/i/item/9789241515528.
+
+( 14 ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).

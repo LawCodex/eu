@@ -32,9 +32,11 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Commission Decision of 15 April 1996</td><td> L 109</td><td>20</td><td>3.5.1996</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -106,6 +108,7 @@ ANEXO IBILAG IANHANG IΠΑΡΑΡΤΗΜΑ ΙANNEX IANNEXE IALLEGATO IBIJLAGE IANE
 
 Zonas desfavorecidas tal como se definen en el apartado 3 del artículo 3 de la Directiva 75/268/CEEUgunstigt stillede områder, jf. artikel 3, stk. 3, i direktiv 75/268/EØFBenachteiligte Gebiete im Sinne von Artikel 3 Absatz 3 der Richtlinie 75/268/EWGΜειονεκτικές περιοχές κατά την έννοια του άρθρου 3 παράγραφος 3 της οδηγίας 75/268/ΕΟΚLess-favoured areas within the meaning of Article 3 (3) of Directive 75/268/EECZones défavorisées au titre de l'article 3 paragraphe 3 de la directive 75/268/CEEZone svantaggiate ai sensi dell'articolo 3, paragrafo 3 della direttiva 75/268/CEEProbleemgebieden in de zin van artikel 3, lid 3, van Richtlijn 75/268/EEGZonas desfavorecidas na acepção do no 3 do artigo 3o da Directiva 75/268/CEEDirektiivin 75/268/ETY 3 artiklan 3 kohdan mukaisesti epäsuotuisiksi määritettyjä alueitaMindre gynnade områden i enlighet med artikel 3.3 i direktiv 75/268/EEG
 
+<table>
 <tbody><tr><td>Code</td><td>Municipality</td><td>Parish</td><td>Land area</td><td>Agricultural area (UAA)</td></tr>
 <tr><td>Kod</td><td>Kommun</td><td>Församling</td><td>Landareal</td><td>Areal jordbruksmark</td></tr>
 <tr><td colspan="5">1</td></tr>
@@ -200,11 +203,13 @@ NORRBOTTENS LÄN<tr><td>2505</td><td>Arvidsjaur</td><td>ALL PARISHES</td><td>5 7
 <tr><td>2583</td><td>Haparanda</td><td>ALL PARISHES</td><td>918,29</td><td>4 704</td></tr>
 <tr><td>2584</td><td>Kiruna</td><td>ALL PARISHES</td><td>19 446,78</td><td>1 591</td></tr>
 </tbody>
+</table>
 
 ANEXO IIBILAG IIANHANG IIΠΑΡΑΡΤΗΜΑ IΙANNEX IIANNEXE IIALLEGATO IIBIJLAGE IIANEXO IILIITE IIBILAGA II
 
 Zonas desfavorecidas tal como se definen en el apartado 4 del artículo 3 de la Directiva 75/268/CEEUgunstigt stillede områder, jf. artikel 3, stk. 4, i direktiv 75/268/EØFBenachteiligte Gebiete im Sinne von Artikel 3 Absatz 4 der Richtlinie 75/268/EWGΜειονεκτικές περιοχές κατά την έννοια του άρθρου 3 παράγραφος 4 της οδηγίας 75/268/ΕΟΚLess-favoured areas within the meaning of Article 3 (4) of Directive 75/268/EECZones défavorisées au titre de l'article 3 paragraphe 4 de la directive 75/268/CEEZone svantaggiate ai sensi dell'articolo 3, paragrafo 4 della direttiva 75/268/CEEProbleemgebieden in de zin van artikel 3, lid 4, van Richtlijn 75/268/EEGZonas desfavorecidas na acepção do no 4 do artigo 3o da Directiva 75/268/CEEDirektiivin 75/268/ETY 3 artiklan 4 kohdan mukaisesti epäsuotuisiksi määritettyjä alueitaMindre gynnade områden i enlighet med artikel 3.4 i direktiv 75/268/EEG
 
+<table>
 <tbody><tr><td>Code</td><td>Municipality</td><td>Parish</td><td>Land area</td><td>Agricultural area (UAA)</td></tr>
 <tr><td>Kod</td><td>Kommun</td><td>Församling</td><td>Landareal</td><td>Areal jordbruksmark</td></tr>
 <tr><td colspan="5">3</td></tr>
@@ -556,11 +561,13 @@ GÄVLEBORGS LÄN<tr><td>2104</td><td>Hofors</td><td>ALL PARISHES</td><td>410,97<
 <tr><td>2181</td><td>Sandviken</td><td>ALL PARISHES</td><td>1 164,73</td><td>11 063</td></tr>
 <tr><td colspan="5"> (1) Ny församling från och med 1.1.1995. Uppgifterna är inkluderade i församlingen Gävle Staffan. </td></tr>
 </tbody>
+</table>
 
 ANEXO IIIBILAG IIIANHANG IIIΠΑΡΑΡΤΗΜΑ ΙIIANNEX IIIANNEXE IIIALLEGATO IIIBIJLAGE IIIANEXO IIILIITE IIIBILAGA III
 
 Zonas desfavorecidas tal como se definen en el apartado 5 del artículo 3 de la Directiva 75/268/CEEUgunstigt stillede områder, jf. artikel 3, stk. 5, i direktiv 75/268/EØFBenachteiligte Gebiete im Sinne von Artikel 3 Absatz 5 der Richtlinie 75/268/EWGΜειονεκτικές περιοχές κατά την έννοια του άρθρου 3 παράγραφος 5 της οδηγίας 75/268/ΕΟΚLess-favoured areas within the meaning of Article 3 (5) of Directive 75/268/EECZones défavorisées au titre de l'article 3 paragraphe 5 de la directive 75/268/CEEZone svantaggiate ai sensi dell'articolo 3, paragrafo 5 della direttiva 75/268/CEEProbleemgebieden in de zin van artikel 3, lid 5, van Richtlijn 75/268/EEGZonas desfavorecidas na acepção do no 5 do artigo 3o da Directiva 75/268/CEEDirektiivin 75/268/ETY 3 artiklan 5 kohdan mukaisesti epäsuotuisiksi määritettyjä alueitaMindre gynnade områden i enlighet med artikel 3.5 i direktiv 75/268/EEG
 
+<table>
 <tbody><tr><td>Code</td><td>Municipality</td><td>Parish</td><td>Land area</td><td>Agricultural area (UAA)</td></tr>
 <tr><td>Kod</td><td>Kommun</td><td>Församling</td><td>Landareal</td><td>Areal jordbruksmark</td></tr>
 <tr><td colspan="5">1</td></tr>
@@ -856,6 +863,7 @@ VÄSTMANLANDS LÄN<tr><td>1980100</td><td>Västerås</td><td>VÄSTERÅS-BARKARÖ
 <tr><td>1984040</td><td>Arboga</td><td>GÖTLUNDA</td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>  </td><td>Valen</td><td>1,2</td><td>30</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1. Directive as last amended by the 1994 Act of Accession.
 

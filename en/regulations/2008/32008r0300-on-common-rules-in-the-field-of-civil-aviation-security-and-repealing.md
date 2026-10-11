@@ -1,0 +1,1195 @@
+---
+title: "Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (Text with EEA relevance)"
+identifier: "32008R0300"
+eli: "http://data.europa.eu/eli/reg/2008/300/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-03-11
+entry_into_force: 2008-09-01
+last_amended: 2026-08-02
+consolidated_version: "02008R0300-20260802"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0300-20260802"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (Text with EEA relevance)
+
+**REGULATION (EC) No 300/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2008**
+
+**on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 18/2010 of 8 January 2010 </td><td> L 7</td><td>3</td><td>12.1.2010</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1689 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1689</td><td>1</td><td>12.7.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2026/247 of 2 February 2026 </td><td> L 247</td><td>1</td><td>3.2.2026</td></tr>
+</table>
+
+**REGULATION (EC) No 300/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2008**
+
+**on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Objectives
+
+1\. This Regulation establishes common rules to protect civil aviation against acts of unlawful interference that jeopardise the security of civil aviation.
+
+It also provides the basis for a common interpretation of Annex 17 to the Chicago Convention on International Civil Aviation.
+
+2\. The means of achieving the objectives set out in paragraph 1 shall be:
+
+(a) the setting of common rules and common basic standards on aviation security;
+
+(b) mechanisms for monitoring compliance.
+
+## Article 2 — Scope
+
+1\. This Regulation shall apply to the following:
+
+(a) all airports or parts of airports located in the territory of a Member State that are not exclusively used for military purposes;
+
+(b) all operators, including air carriers, providing services at airports referred to in point (a);
+
+(c) all entities applying aviation security standards that operate from premises located inside or outside airport premises and provide goods and/or services to or through airports referred to in point (a).
+
+2\. The application of this Regulation to the airport of Gibraltar is understood to be without prejudice to the respective legal positions of the Kingdom of Spain and the United Kingdom with regard to the dispute over sovereignty over the territory in which the airport is situated.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation:
+
+1\. ‘civil aviation’ means any air operation carried out by civil aircraft, excluding operations carried out by State aircraft referred to in Article 3 of the Chicago Convention on International Civil Aviation;
+
+2\. ‘aviation security’ means the combination of measures and human and material resources intended to safeguard civil aviation against acts of unlawful interference that jeopardise the security of civil aviation;
+
+3\. ‘operator’ means a person, organisation or enterprise engaged, or offering to engage, in an air transport operation;
+
+4\. ‘air carrier’ means an air transport undertaking holding a valid operating licence or equivalent;
+
+5\. ‘Community air carrier’ means an air carrier holding a valid operating licence granted by a Member State in accordance with Council Regulation (EEC) No 2407/92 of 23 July 1992 on licensing of air carriers ( 1 );
+
+6\. ‘entity’ means a person, organisation or enterprise, other than an operator;
+
+7\. ‘prohibited articles’ means weapons, explosives or other dangerous devices, articles or substances that may be used to commit an act of unlawful interference that jeopardises the security of civil aviation;
+
+8\. ‘screening’ means the application of technical or other means which are intended to identify and/or detect prohibited articles;
+
+9\. ‘security control’ means the application of means by which the introduction of prohibited articles may be prevented;
+
+10\. ‘access control’ means the application of means by which the entry of unauthorised persons or unauthorised vehicles, or both, may be prevented;
+
+11\. ‘airside’ means the movement area of an airport, adjacent terrain and buildings or portions thereof, access to which is restricted;
+
+12\. ‘landside’ means those parts of an airport, adjacent terrain and buildings or portions thereof that are not airside;
+
+13\. ‘security restricted area’ means that area of airside where, in addition to access being restricted, other aviation security standards are applied;
+
+14\. ‘demarcated area’ means an area that is separated by means of access control either from security restricted areas, or, if the demarcated area itself is a security restricted area, from other security restricted areas of an airport;
+
+15\. ‘background check’ means a recorded check of a person’s identity, including any criminal history, as part of the assessment of an individual’s suitability for unescorted access to security restricted areas;
+
+16\. ‘transfer passengers, baggage, cargo or mail’ means passengers, baggage, cargo or mail departing on an aircraft other than that on which they arrived;
+
+17\. ‘transit passengers, baggage, cargo or mail’ means passengers, baggage, cargo or mail departing on the same aircraft as that on which they arrived;
+
+18\. ‘potentially disruptive passenger’ means a passenger who is either a deportee, a person deemed to be inadmissible for immigration reasons or a person in lawful custody;
+
+19\. ‘cabin baggage’ means baggage intended for carriage in the cabin of an aircraft;
+
+20\. ‘hold baggage’ means baggage intended for carriage in the hold of an aircraft;
+
+21\. ‘accompanied hold baggage’ means baggage, carried in the hold of an aircraft, which has been checked in for a flight by a passenger travelling on that same flight;
+
+22\. ‘air carrier mail’ means mail whose origin and destination are both an air carrier;
+
+23\. ‘air carrier materials’ means materials either whose origin and destination are both an air carrier or that are used by an air carrier;
+
+24\. ‘mail’ means dispatches of correspondence and other items, other than air carrier mail, tendered by and intended for delivery to postal services in accordance with the rules of the Universal Postal Union;
+
+25\. ‘cargo’ means any property intended for carriage on an aircraft, other than baggage, mail, air carrier mail, air carrier materials and in-flight supplies;
+
+26\. ‘regulated agent’ means an air carrier, agent, freight forwarder or any other entity who ensures security controls in respect of cargo or mail;
+
+27\. ‘known consignor’ means a consignor who originates cargo or mail for its own account and whose procedures meet common security rules and standards sufficient to allow carriage of cargo or mail on any aircraft;
+
+28\. ‘account consignor’ means a consignor who originates cargo or mail for its own account and whose procedures meet common security rules and standards sufficient to allow carriage of that cargo on all-cargo aircraft or mail on all-mail aircraft;
+
+29\. ‘aircraft security check’ means an inspection of those parts of the interior of the aircraft to which passengers may have had access, together with an inspection of the hold of the aircraft in order to detect prohibited articles and unlawful interferences with the aircraft;
+
+30\. ‘aircraft security search’ means an inspection of the interior and accessible exterior of the aircraft in order to detect prohibited articles and unlawful interferences that jeopardise the security of the aircraft;
+
+31\. ‘in-flight security officer’ means a person who is employed by a state to travel on an aircraft of an air carrier licensed by it with the purpose of protecting that aircraft and its occupants against acts of unlawful interference that jeopardise the security of the flight.
+
+## Article 4 — Common basic standards
+
+1\. The common basic standards for safeguarding civil aviation against acts of unlawful interference that jeopardise the security of civil aviation shall be as laid down in the Annex.
+
+Additional common basic standards not foreseen at the entry into force of this Regulation should be added to the Annex in accordance with the procedure referred to in Article 251 of the Treaty.
+
+2\. General measures, designed to amend non-essential elements of the common basic standards referred to in paragraph 1 by supplementing them, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 19(3).
+
+These general measures shall concern:
+
+(a) methods of screening allowed;
+
+(b) categories of articles that may be prohibited;
+
+(c) as regards access control, grounds for granting access to airside and security restricted areas;
+
+(d) methods allowed for the examination of vehicles, aircraft security checks and aircraft security searches;
+
+(e) criteria for recognising the equivalence of security standards of third countries;
+
+(f) conditions under which cargo and mail shall be screened or subjected to other security controls, as well as the process for the approval or designation of regulated agents, known consignors and account consignors;
+
+(g) conditions under which air carrier mail and air carrier materials shall be screened or subjected to other security controls;
+
+(h) conditions under which in-flight supplies and airport supplies shall be screened or subjected to other security controls, as well as the process for the approval or designation of regulated suppliers and known suppliers;
+
+(i) criteria for defining critical parts of security restricted areas;
+
+(j) criteria for staff recruitment and methods of training;
+
+(k) conditions under which special security procedures or exemptions from security controls may be applied; and
+
+(l) any general measures designed to amend non-essential elements of the common basic standards referred to in paragraph 1 by supplementing them not foreseen at the date of entry into force of this Regulation.
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 19(4).
+
+3\. Detailed measures for the implementation of the common basic standards referred to in paragraph 1 and the general measures referred to in paragraph 2 shall be laid down in accordance with the regulatory procedure referred to in Article 19(2).
+
+These shall include:
+
+(a) requirements and procedures for screening;
+
+(b) a list of prohibited articles;
+
+(c) requirements and procedures for access control;
+
+(d) requirements and procedures for the examination of vehicles, aircraft security checks and aircraft security searches;
+
+(e) decisions to recognise the equivalence of security standards applied in a third country;
+
+(f) as regards cargo and mail, procedures for the approval or designation of, and the obligations to be fulfilled by, regulated agents, known consignors and account consignors;
+
+(g) requirements and procedures for security controls of air carrier mail and air carrier materials;
+
+(h) as regards in-flight supplies and airport supplies, procedures for the approval or designation of, and the obligations to be fulfilled by, regulated suppliers and known suppliers;
+
+(i) definition of critical parts of security restricted areas;
+
+(j) staff recruitment and training requirements;
+
+(k) special security procedures or exemptions from security controls;
+
+(l) technical specifications and procedures for approval and use of security equipment; and
+
+(m) requirements and procedures concerning potentially disruptive passengers.
+
+When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council ( 2 ), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+4\. The Commission shall, by amending this Regulation through a decision in accordance with the regulatory procedure with scrutiny referred to in Article 19(3), set criteria to allow Member States to derogate from the common basic standards referred to in paragraph 1 and to adopt alternative security measures that provide an adequate level of protection on the basis of a local risk assessment. Such alternative measures shall be justified by reasons relating to the size of the aircraft, or by reasons relating to the nature, scale or frequency of operations or of other relevant activities.
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 19(4).
+
+The Member States shall inform the Commission of such measures.
+
+5\. Member States shall ensure the application in their territory of the common basic standards referred to in paragraph 1. Where a Member State has reason to believe that the level of aviation security has been compromised through a security breach, it shall ensure that appropriate and prompt action is taken to rectify that breach and ensure the continuing security of civil aviation.
+
+## Article 5 — Security costs
+
+Subject to the relevant rules of Community law, each Member State may determine in which circumstances, and the extent to which, the costs of security measures taken under this Regulation to protect civil aviation against acts of unlawful interference should be borne by the State, the airport entities, air carriers, other responsible agencies, or users. If appropriate, and in conformity with Community law, Member States may contribute with users to the costs of more stringent security measures taken under this Regulation. As far as may be practicable, any charges or transfers of security costs shall be directly related to the costs of providing the security services concerned and shall be designed to recover no more than the relevant costs involved.
+
+## Article 6 — More stringent measures applied by Member States
+
+1\. Member States may apply more stringent measures than the common basic standards referred to in Article 4. In doing so, they shall act on the basis of a risk assessment and in compliance with Community law. Τhose measures shall be relevant, objective, non-discriminatory and proportional to the risk that is being addressed.
+
+2\. Member States shall inform the Commission of such measures as soon as possible after their application. Upon reception of such information, the Commission shall transmit this information to the other Member States.
+
+3\. Member States are not required to inform the Commission where the measures concerned are limited to a given flight on a specific date.
+
+## Article 7 — Security measures required by third countries
+
+1\. Without prejudice to any bilateral agreements to which the Community is a party, a Member State shall notify the Commission of measures required by a third country if they differ from the common basic standards referred to in Article 4 in respect of flights from an airport in a Member State to, or over, that third country.
+
+2\. At the request of the Member State concerned or on its own initiative, the Commission shall examine the application of any measures notified under paragraph 1 and may, in accordance with the regulatory procedure referred to in Article 19(2), draw up an appropriate response to the third country concerned.
+
+3\. Paragraphs 1 and 2 shall not apply if:
+
+(a) the Member State concerned applies the measures concerned in accordance with Article 6; or
+
+(b) the requirement of the third country is limited to a given flight on a specific date.
+
+## Article 8 — Cooperation with the International Civil Aviation Organisation
+
+Without prejudice to Article 300 of the Treaty, the Commission may conclude a Memorandum of Understanding concerning audits with the International Civil Aviation Organisation (ICAO) in order to avoid duplicate monitoring of Member States’ compliance with Annex 17 to the Chicago Convention on International Civil Aviation.
+
+## Article 9 — Appropriate authority
+
+Where, within a single Member State, two or more bodies are involved in civil aviation security, that Member State shall designate a single authority (hereinafter referred to as the appropriate authority) to be responsible for the coordination and monitoring of the implementation of the common basic standards referred to in Article 4.
+
+## Article 10 — National civil aviation security programme
+
+1\. Every Member State shall draw up, apply and maintain a national civil aviation security programme.
+
+That programme shall define responsibilities for the implementation of the common basic standards referred to in Article 4 and shall describe the measures required by operators and entities for this purpose.
+
+2\. The appropriate authority shall make available in writing on a ‘need to know’ basis the appropriate parts of its national civil aviation security programme to operators and entities which it deems to have a legitimate interest.
+
+## Article 11 — National quality control programme
+
+1\. Every Member State shall draw up, apply and maintain a national quality control programme.
+
+That programme shall enable the Member State to check the quality of civil aviation security in order to monitor compliance both with this Regulation and with its national civil aviation security programme.
+
+2\. The specifications for the national quality control programme shall be adopted by amending this Regulation through the addition of an annex in accordance with the regulatory procedure with scrutiny referred to in Article 19(3).
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 19(4).
+
+The programme shall allow for the swift detection and correction of deficiencies. It shall also provide that all airports, operators and entities responsible for the implementation of aviation security standards that are located in the territory of the Member State concerned shall be regularly monitored directly by, or under the supervision of, the appropriate authority.
+
+## Article 12 — Airport security programme
+
+1\. Every airport operator shall draw up, apply and maintain an airport security programme.
+
+That programme shall describe the methods and procedures which are to be followed by the airport operator in order to comply both with this Regulation and with the national civil aviation security programme of the Member State in which the airport is located.
+
+The programme shall include internal quality control provisions describing how compliance with these methods and procedures is to be monitored by the airport operator.
+
+2\. The airport security programme shall be submitted to the appropriate authority, which may take further action if appropriate.
+
+## Article 13 — Air carrier security programme
+
+1\. Every air carrier shall draw up, apply and maintain an air carrier security programme.
+
+That programme shall describe the methods and procedures which are to be followed by the air carrier in order to comply both with this Regulation and with the national civil aviation security programme of the Member State from which it provides services.
+
+The programme shall include internal quality control provisions describing how compliance with these methods and procedures is to be monitored by the air carrier.
+
+2\. Upon request, the air carrier security programme shall be submitted to the appropriate authority, which may take further action if appropriate.
+
+3\. Where a Community air carrier security programme has been validated by the appropriate authority of the Member State granting the operating licence, the air carrier shall be recognised by all other Member States as having fulfilled the requirements of paragraph 1. This is without prejudice to a Member State’s right to request from any air carrier details of its implementation of:
+
+(a) the security measures applied by that Member State under Article 6; and/or
+
+(b) local procedures that are applicable at the airports served.
+
+## Article 14 — Entity security programme
+
+1\. Every entity required under the national civil aviation security programme referred to in Article 10 to apply aviation security standards shall draw up, apply and maintain a security programme.
+
+That programme shall describe the methods and procedures which are to be followed by the entity in order to comply with the national civil aviation security programme of the Member State in respect of its operations in that Member State.
+
+The programme shall include internal quality control provisions describing how compliance with these methods and procedures is to be monitored by the entity itself.
+
+2\. Upon request, the security programme of the entity applying aviation security standards shall be submitted to the appropriate authority, which may take further action if appropriate.
+
+## Article 15 — Commission inspections
+
+1\. The Commission, acting in cooperation with the appropriate authority of the Member State concerned, shall conduct inspections, including inspections of airports, operators and entities applying aviation security standards, in order to monitor the application by Member States of this Regulation and, as appropriate, to make recommendations to improve aviation security. For this purpose, the appropriate authority shall inform the Commission in writing of all airports in its territory serving civil aviation other than those covered by Article 4(4).
+
+The procedures for conducting Commission inspections shall be adopted in accordance with the regulatory procedure referred to in Article 19(2).
+
+2\. Commission inspections of airports, operators and entities applying aviation security standards shall be unannounced. The Commission shall in good time before an inspection inform the Member State concerned thereof.
+
+3\. Each Commission inspection report shall be communicated to the appropriate authority of the Member State concerned, which shall, in its answer, set out the measures taken to remedy any identified deficiencies.
+
+The report, together with the answer of the appropriate authority, shall subsequently be communicated to the appropriate authority of the other Member States.
+
+## Article 16 — Annual report
+
+Every year the Commission shall present a report to the European Parliament, the Council and the Member States informing them of the application of this Regulation and of its impact on improving aviation security.
+
+## Article 17 — Stakeholders’ Advisory Group
+
+Without prejudice to the role of the Committee referred to in Article 19, the Commission shall establish a Stakeholders’ Advisory Group on Aviation Security, composed of European representative organisations engaged in, or directly affected by, aviation security. The role of this group shall be solely to advise the Commission. The Committee referred to in Article 19 shall keep the Stakeholders’ Advisory Group informed during the entire regulatory process.
+
+## Article 18 — Dissemination of information
+
+As a general rule, the Commission shall publish measures that have a direct impact on passengers. However, the following documents shall be regarded as EU classified information within the meaning of Decision 2001/844/EC, ECSC, Euratom:
+
+(a) measures and procedures as referred to in Articles 4(3), 4(4), 6(1) and 7(1), if containing sensitive security information;
+
+(b) the Commission inspection reports and the answers of the appropriate authorities referred to in Article 15(3).
+
+## Article 19 — Committee procedure
+
+1\. The Commission shall be assisted by a Committee.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at one month.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1), (2), (4), and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+## Article 20 — Agreements between the Community and third countries
+
+When appropriate, and in conformity with Community law, agreements recognising that the security standards applied in a third country are equivalent to Community standards could be envisaged in aviation agreements between the Community and a third country in accordance with Article 300 of the Treaty, in order to advance the goal of ‘one-stop security’ for all flights between the European Union and third countries.
+
+## Article 21 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+## Article 22 — Commission report on financing
+
+The Commission will report, no later than 31 December 2008, on the principles of the financing of the costs of civil aviation security measures. That report will consider what steps need to be taken in order to ensure that security charges are used exclusively to meet security costs, and to improve the transparency of such charges. The report will also address the principles necessary to safeguard undistorted competition between airports and between air carriers, and the different methods to ensure consumer protection as regards the distribution of the costs of security measures between taxpayers and users. The Commission report will be accompanied, if appropriate, by a legislative proposal.
+
+## Article 23 — Repeal
+
+Regulation (EC) No 2320/2002 is hereby repealed.
+
+## Article 24 — Entry into force
+
+1\. This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+2\. It shall apply as from the date specified in the implementing rules adopted in accordance with the procedures referred to in Article 4(2) and (3), but not later than 24 months after the entry into force of this Regulation.
+
+3\. By way of exception to paragraph 2, Articles 4(2), 4(3), 4(4), 8, 11(2), 15(1) second subparagraph, 17, 19 and 22 shall apply from the date of entry into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — COMMON BASIC STANDARDS FOR SAFEGUARDING CIVIL AVIATION AGAINST ACTS OF UNLAWFUL INTERFERENCE (ARTICLE 4)
+
+**1\. AIRPORT SECURITY**
+
+**1.1. Airport planning requirements**
+
+1\. When designing and constructing new airport facilities or altering existing airport facilities, requirements for the implementation of the common basic standards set out in this Annex and its implementing acts shall be fully taken into account.
+
+2\. At airports the following areas shall be established:
+
+(a) landside;
+
+(b) airside;
+
+(c) security restricted areas; and
+
+(d) critical parts of security restricted areas.
+
+**1.2. Access control**
+
+1\. Access to airside shall be restricted in order to prevent unauthorised persons and vehicles from entering these areas.
+
+2\. Access to security restricted areas shall be controlled in order to ensure that no unauthorised persons and vehicles enter these areas.
+
+3\. Persons and vehicles may be granted access to airside and security restricted areas only if they fulfil the required security conditions.
+
+4\. Persons, including flight crew members, shall have successfully completed a background check before either a crew identification card or an airport identification card authorising unescorted access to security restricted areas is issued to them.
+
+**1.3. Screening of persons other than passengers and items carried**
+
+1\. Persons other than passengers, together with items carried, shall be screened on a continuous random basis upon entering security restricted areas in order to prevent prohibited articles from being introduced into these areas.
+
+2\. All persons other than passengers, together with items carried, shall be screened upon entering critical parts of security restricted areas in order to prevent prohibited articles from being introduced into these parts.
+
+**1.4. Examination of vehicles**
+
+Vehicles entering a security restricted area shall be examined in order to prevent prohibited articles from being introduced into these areas.
+
+**1.5. Surveillance, patrols and other physical controls**
+
+There shall be surveillance, patrols and other physical controls at airports and, where appropriate, in adjacent areas with public access, in order to identify suspicious behaviour of persons, to identify vulnerabilities which could be exploited to carry out an act of unlawful interference and to deter persons from committing such acts.
+
+**2\. DEMARCATED AREAS OF AIRPORTS**
+
+Aircraft parked in demarcated areas of airports to which alternative measures referred to in Article 4(4) apply, shall be separated from aircraft to which the common basic standards apply in full, in order to ensure that security standards applied to aircraft, passengers, baggage, cargo and mail of the latter are not compromised.
+
+**3\. AIRCRAFT SECURITY**
+
+1\. Before departure, an aircraft shall be subjected to an aircraft security check or aircraft security search in order to ensure that no prohibited articles are present on board. An aircraft in transit may be subjected to other appropriate measures.
+
+2\. Every aircraft shall be protected from unauthorised interference.
+
+**4\. PASSENGERS AND CABIN BAGGAGE**
+
+**4.1. Screening of passengers and cabin baggage**
+
+1\. All originating, transfer and transit passengers and their cabin baggage shall be screened in order to prevent prohibited articles from being introduced into security restricted areas and on board an aircraft.
+
+2\. Transfer passengers and their cabin baggage may be exempted from screening, if:
+
+(a) they arrive from a Member State, unless the Commission or that Member State has provided information that those passengers and their cabin baggage cannot be considered as having been screened to the common basic standards; or
+
+(b) they arrive from a third country where the security standards applied are recognised as equivalent to the common basic standards in accordance with the regulatory procedure referred to in Article 19(2).
+
+3\. Transit passengers and their cabin baggage may be exempted from screening, if:
+
+(a) they remain on board the aircraft; or
+
+(b) they do not mix with screened departing passengers other than those who board the same aircraft; or
+
+(c) they arrive from a Member State, unless the Commission or that Member State has provided information that those passengers and their cabin baggage cannot be considered as having been screened to the common basic standards; or
+
+(d) they arrive from a third country where the security standards applied are recognised as equivalent to the common basic standards in accordance with the regulatory procedure referred to in Article 19(2).
+
+**4.2. Protection of passengers and cabin baggage**
+
+1\. Passengers and their cabin baggage shall be protected from unauthorised interference from the point at which they are screened until departure of the aircraft on which they are carried.
+
+2\. Screened departing passengers shall not mix with arriving passengers, unless:
+
+(a) the passengers arrive from a Member State, provided that the Commission or that Member State has not provided information that those arriving passengers and their cabin baggage cannot be considered as having been screened to the common basic standards; or
+
+(b) the passengers arrive from a third country where the security standards applied are recognised as equivalent to the common basic standards in accordance with the regulatory procedure referred to in Article 19(2).
+
+**4.3. Potentially disruptive passengers**
+
+Before departure potentially disruptive passengers shall be subjected to appropriate security measures.
+
+**5\. HOLD BAGGAGE**
+
+**5.1. Screening of hold baggage**
+
+1\. All hold baggage shall be screened prior to being loaded onto an aircraft in order to prevent prohibited articles from being introduced into security restricted areas and on board aircraft.
+
+2\. Transfer hold baggage may be exempted from screening, if:
+
+(a) it arrives from a Member State, unless the Commission or that Member State has provided information that this hold baggage cannot be considered as having been screened to the common basic standards; or
+
+(b) it arrives from a third country where the security standards applied are recognised as equivalent to the common basic standards in accordance with the regulatory procedure referred to in Article 19(2).
+
+3\. Transit hold baggage may be exempted from screening if it remains on board the aircraft.
+
+**5.2. Protection of hold baggage**
+
+Hold baggage to be carried on an aircraft shall be protected from unauthorised interference from the point at which it is screened or accepted into the care of the air carrier, whichever is earlier, until the departure of the aircraft on which it is to be carried.
+
+**5.3. Baggage reconciliation**
+
+1\. Each item of hold baggage shall be identified as accompanied or unaccompanied.
+
+2\. Unaccompanied hold baggage shall not be transported, unless that baggage has been either separated due to factors beyond the passenger’s control or subjected to appropriate security controls.
+
+**6\. CARGO AND MAIL**
+
+**6.1. Security controls for cargo and mail**
+
+1\. All cargo and mail shall be subjected to security controls prior to being loaded on an aircraft. An air carrier shall not accept cargo or mail for carriage on an aircraft unless it has applied such controls itself or their application has been confirmed and accounted for by a regulated agent, a known consignor or an account consignor.
+
+2\. Transfer cargo and transfer mail may be subjected to alternative security controls to be detailed in an implementing act.
+
+3\. Transit cargo and transit mail may be exempted from security controls if it remains on board the aircraft.
+
+**6.2. Protection of cargo and mail**
+
+1\. Cargo and mail to be carried on an aircraft shall be protected from unauthorised interference from the point at which security controls are applied until the departure of the aircraft on which it is to be carried.
+
+2\. Cargo and mail that are not adequately protected from unauthorised interference after security controls have been applied shall be screened.
+
+**7\. AIR CARRIER MAIL AND AIR CARRIER MATERIALS**
+
+Air carrier mail and air carrier materials shall be subjected to security controls and thereafter protected until loaded onto the aircraft in order to prevent prohibited articles from being introduced on board an aircraft.
+
+**8\. IN-FLIGHT SUPPLIES**
+
+In-flight supplies, including catering, intended for carriage or use on board an aircraft shall be subjected to security controls and thereafter protected until loaded onto the aircraft in order to prevent prohibited articles from being introduced on board an aircraft.
+
+**9\. AIRPORT SUPPLIES**
+
+Supplies intended to be sold or used in security restricted areas of airports, including supplies for duty-free shops and restaurants, shall be subjected to security controls in order to prevent prohibited articles from being introduced into these areas.
+
+**10\. IN-FLIGHT SECURITY MEASURES**
+
+1\. Without prejudice to the applicable aviation safety rules:
+
+(a) unauthorised persons shall be prevented from entering the flight crew compartment during a flight;
+
+(b) potentially disruptive passengers shall be subjected to appropriate security measures during a flight.
+
+2\. Appropriate security measures such as training of flight crew and cabin staff shall be taken to prevent acts of unlawful interference during a flight.
+
+3\. Weapons, with the exception of those carried in the hold, shall not be carried on board an aircraft, unless the required security conditions in accordance with national laws have been fulfilled and authorisation has been given by the states involved.
+
+4\. Paragraph 3 shall also apply to in-flight security officers if they carry weapons.
+
+**11\. STAFF RECRUITMENT AND TRAINING**
+
+1\. Persons implementing, or responsible for implementing, screening, access control or other security controls shall be recruited, trained and, where appropriate, certified so as to ensure that they are suitable for employment and competent to undertake the duties to which they are assigned.
+
+2\. Persons other than passengers requiring access to security restricted areas shall receive security training, before either an airport identification card or crew identification card is issued.
+
+3\. Training as mentioned in paragraphs 1 and 2 shall be conducted on initial and recurrent basis.
+
+4\. Instructors engaged in the training of the persons mentioned in paragraphs 1 and 2 shall have the necessary qualifications.
+
+**12\. SECURITY EQUIPMENT**
+
+Equipment used for screening, access control and other security controls shall comply with the defined specifications and be capable of performing the security controls concerned.
+
+## ANNEX II — COMMON SPECIFICATIONS FOR THE NATIONAL QUALITY CONTROL PROGRAMME TO BE IMPLEMENTED BY EACH MEMBER STATE IN THE FIELD OF CIVIL AVIATION SECURITY
+
+**1\. DEFINITIONS**
+
+1.1. For the purposes of this Annex, the following definitions shall apply:
+
+(1) ‘annual traffic volume’ means the total number of passengers arriving, departing and in transit (counted once);
+
+(2) ‘appropriate authority’ means the national authority designated by a Member State pursuant to Article 9 to be responsible for the coordination and monitoring of the implementation of its national civil aviation security programme;
+
+(3) ‘auditor’ means any person conducting national compliance monitoring activities on behalf of the appropriate authority;
+
+(4) ‘certification’ means a formal evaluation and confirmation by or on behalf of the appropriate authority that a person possesses the necessary competencies to perform the functions of an auditor to an acceptable level as defined by the appropriate authority;
+
+(5) ‘compliance monitoring activities’ means any procedure or process used for assessing the implementation of this Regulation and the national aviation security programme;
+
+(6) ‘deficiency’ means a failure to comply with an aviation security requirement;
+
+(7) ‘inspection’ means an examination of the implementation of security measures and procedures in order to determine whether they are being carried out effectively and to the required standard and to identify any deficiencies;
+
+(8) ‘interview’ means an oral check by an auditor to establish whether specific security measures or procedures are implemented;
+
+(9) ‘observation’ means a visual check by an auditor that a security measure or procedure is implemented;
+
+(10) ‘overt test’ means an announced exercise with screeners or other security personnel concerned which realistically simulates the performance of a security control or an act of unlawful interference for the purpose of examining or measuring elements such as the effectiveness of the implementation of existing security measures, competences and capabilities of that personnel to perform assigned functions;
+
+(11) ‘relevant authorities’ means, for the purposes of Chapter 19, the appropriate authority or any other national authority having responsibilities for the reporting of aviation security occurrences, incidents, acts of unlawful interference and preparatory acts thereto;
+
+(12) ‘reporter’ means any legal or natural person who reports a security occurrence, incident, act of unlawful interference, a preparatory act or other security-related information pursuant to the mandatory or voluntary reporting process established by Member States;
+
+(13) ‘representative sample’ means a selection made from amongst possible options for monitoring which is sufficient in number and range to provide a basis for general conclusions on implementing standards;
+
+(14) ‘security audit’ means an in-depth examination of security measures and procedures in order to determine if they are being fully implemented on a continual basis;
+
+(15) ‘security incident’ means a security occurrence which affects or could affect the safety of passengers, crew, ground personnel and the general public;
+
+(16) ‘security occurrence’ means any security-related event that may result in a reduced security outcome, may increase the operational risks or that endangers the safety of passengers, crew, ground personnel and the general public, or is a potential compliance breach. This includes the identification or observation of a vulnerability in the protection of civil aviation against acts of unlawful interference;
+
+(17) ‘test’ means a trial of aviation security measures, where the appropriate authority simulates intent to commit an act of unlawful interference for the purpose of examining the effectiveness of the implementation of existing security measures;
+
+(18) ‘verification’ means an action taken by an auditor to establish whether a specific security measure is actually in place;
+
+(19) ‘vulnerability’ means any weakness in the implemented measures and procedures which could be exploited to carry out an act of unlawful interference.
+
+**2\. POWERS OF THE APPROPRIATE AUTHORITY**
+
+2.1. Member States shall provide the appropriate authority with the necessary powers for monitoring and enforcing all requirements of this Regulation and its implementing acts, including the power to impose penalties in accordance with Article 21.
+
+2.2. The appropriate authority shall perform compliance monitoring activities and have the powers necessary to require any identified deficiency to be rectified within set timeframes.
+
+2.3. A graduated and proportionate approach shall be established regarding deficiency correction activities and enforcement measures. This approach shall consist of progressive steps to be followed until correction is achieved, including:
+
+(a) advice and recommendations in writing;
+
+(b) formal warning in writing;
+
+(c) official enforcement notice;
+
+(d) administrative sanctions and legal proceedings.
+
+The appropriate authority may omit one or more of these steps, especially where the deficiency is serious or recurring.
+
+**3\. OBJECTIVES AND CONTENT OF THE NATIONAL QUALITY CONTROL PROGRAMME**
+
+3.1. The objectives of the national quality control programme are to verify that aviation security measures are effectively and properly implemented and to determine the level of compliance with the provisions of this Regulation and the national civil aviation security programme, by means of compliance monitoring activities.
+
+3.2. The national quality control programme shall include the following elements:
+
+(a) organisational structure, responsibilities and resources;
+
+(b) job descriptions of, and qualifications required for auditors;
+
+(c) compliance monitoring activities, including scope of security audits, inspections, tests and, following an actual or potential breach of security, investigations, frequencies for security audits and inspections and also classification of compliance;
+
+(d) surveys, where there is cause to reassess security needs;
+
+(e) deficiency correction activities providing details concerning deficiency reporting, follow-up and correction in order to ensure compliance with aviation security requirements;
+
+(f) enforcement measures and, where appropriate, penalties, as specified in points 2.1 and 2.3 of this Annex;
+
+(g) reporting of compliance monitoring activities carried out including, where appropriate, information exchange between national bodies on compliance levels;
+
+(h) monitoring process of the airport, operator and entity internal quality control measures;
+
+(i) a process to record and analyse the results of the national quality control programme to identify trends and steer future policy development;
+
+(j) a process for the mandatory reporting of information concerning aviation security incidents, acts of unlawful interference and preparatory acts thereto, by any operator and entity responsible for the implementation of the national civil aviation security programme in a practical and timely manner to the relevant authorities;
+
+(k) a confidential, voluntary reporting system for analysing security information provided by sources such as the public, passengers, staff, crew, ground personnel and any other person in the aviation sector.
+
+**4\. COMPLIANCE MONITORING**
+
+4.1. All airports, operators and other entities with aviation security responsibilities shall be regularly monitored to ensure the swift detection and correction of failures.
+
+4.2. Monitoring shall be undertaken in accordance with the national quality control programme, taking into consideration the threat level, type and nature of the operations, standard of implementation, results of internal quality control of airports, operators and entities and other factors and assessments which will affect the priorities and frequency of monitoring.
+
+4.3. Monitoring shall include the implementation and effectiveness of the internal quality control measures of airports, operators and entities.
+
+4.4. Monitoring at each individual airport shall be made up of a suitable mixture of compliance monitoring activities and provide a comprehensive overview of the implementation of security measures in the field.
+
+4.5. The management, setting of priorities and organisation of the quality control programme shall be undertaken independently from the operational implementation of the measures taken under the national civil aviation security programme.
+
+4.6. Compliance monitoring activities shall include security audits, inspections and tests.
+
+**5\. METHODOLOGY**
+
+5.1. The methodology for conducting monitoring activities shall conform to a standardised approach, which includes tasking, planning, preparation, on-site activity, the classification of findings, the completion of the report and the correction process.
+
+5.2. Compliance monitoring activities shall be based on the systematic gathering of information by means of observations, interviews, examination of documents and verifications.
+
+5.3. Compliance monitoring shall include both announced and unannounced activities.
+
+**6\. SECURITY AUDITS**
+
+6.1. A security audit shall cover:
+
+(a) all security measures at an airport; or
+
+(b) all security measures implemented by an individual airport, terminal of an airport, operator or entity; or
+
+(c) a particular part of the national civil aviation security programme.
+
+6.2. A methodology for conducting a security audit shall be established taking into consideration the following elements:
+
+(a) announcement of the security audit and communication of a pre-audit questionnaire, if appropriate;
+
+(b) preparation phase including examination of the completed pre-audit questionnaire and other relevant documentation;
+
+(c) entry briefing with airport/operator/entity representatives prior to beginning the monitoring activity on site;
+
+(d) on-site activity;
+
+(e) debriefing and reporting;
+
+(f) where deficiencies are identified, the correction process and the associated monitoring of that process.
+
+6.3. In order to confirm that security measures are implemented, the conduct of a security audit shall be based on a systematic gathering of information by one or more of the following techniques:
+
+(a) examination of documents;
+
+(b) observations;
+
+(c) interviews;
+
+(d) verifications.
+
+6.4. Airports with an annual traffic volume of more than 10 million passengers shall be subject to a security audit covering all aviation security standards at least every 4 years. The examination shall include a representative sample of information.
+
+**7\. INSPECTIONS**
+
+7.1. The scope of an inspection shall cover at least one set of directly linked security measures of Annex I and the corresponding implementing acts monitored as a single activity or within a reasonable time frame, not normally exceeding three months. The examination shall include a representative sample of information.
+
+7.2. A set of directly linked security measures is a set of two or more requirements as referred to in Annex I and the corresponding implementing acts which impact on each other so closely that achievement of the objective cannot be adequately assessed unless they are considered together. These sets shall include those listed in Appendix I to this Annex.
+
+7.3. Inspections shall be unannounced. Where the appropriate authority considers that this is not practicable, inspections may be announced. A methodology for conducting an inspection shall be established taking into consideration the following elements:
+
+(a) preparation phase;
+
+(b) on-site activity;
+
+(c) a debrief, depending on the frequency and the results of the monitoring activities;
+
+(d) reporting/recording;
+
+(e) correction process and its monitoring.
+
+7.4. In order to confirm that security measures are effective, the conduct of the inspection shall be based on the systematic gathering of information by one or more of the following techniques:
+
+(a) examination of documents;
+
+(b) observations;
+
+(c) interviews;
+
+(d) verifications.
+
+7.5. At airports with an annual traffic volume of more than 2 million passengers the minimum frequency for inspecting all sets of directly linked security measures set out in Chapters 1 to 6 of Annex I shall be at least every 12 months, unless an audit has been carried out at the airport during that time. The frequency for inspecting all security measures covered by Chapters 7 to 12 of Annex I shall be determined by the appropriate authority based on a risk assessment.
+
+7.6. Where a Member State has no airport with an annual traffic volume exceeding 2 million passengers, the requirements of point 7.5 shall apply to the airport on its territory with the greatest annual traffic volume.
+
+7.7. Frequencies for inspecting airports with an annual traffic volume not exceeding 2 million passengers, operators and entities shall be established by the appropriate authority taking into consideration the elements referred to in point 4.2. The frequencies shall refer to monitoring of all relevant sets of directly linked security measures set out in Chapters 1 to 12 of Annex I.
+
+**8\. TESTS**
+
+8.1. Tests shall be carried out to examine the effectiveness of the implementation of the security measures listed hereunder, as a minimum at all airports falling under points 7.5 and 7.6:
+
+(a) access control to security restricted areas;
+
+(b) screening of persons other than passengers and items carried;
+
+(c) aircraft protection;
+
+(d) screening of passengers and cabin baggage;
+
+(e) protection of hold baggage;
+
+(f) screening of cargo or mail;
+
+(g) protection of cargo and mail.
+
+For tests to be performed at airports not falling under points 7.5 and 7.6, priorities shall be stablished in the yearly planning of compliance monitoring activities.
+
+8.2. The appropriate authority may, on the basis of a risk assessment, carry out tests to examine the effectiveness of the implementation of the following additional security measures:
+
+(a) examination of vehicles;
+
+(b) aircraft security search;
+
+(c) screening of hold baggage;
+
+(d) screening of in-flight and airport supplies;
+
+(e) protection of in-flight and airport supplies;
+
+(f) protection of facilities and airport perimeter.
+
+8.3. A test protocol including the methodology shall be developed taking into consideration the legal, safety and operational requirements. The methodology shall address the following elements:
+
+(a) preparation phase;
+
+(b) on-site activity;
+
+(c) a debrief, depending on the frequency and the results of the monitoring activities;
+
+(d) reporting/recording;
+
+(e) correction process and the associated monitoring.
+
+8.4. Frequencies for tests shall be established by the appropriate authority taking into consideration the elements referred to in point 4.2.
+
+8.5. Tests may be replaced or supplemented by overt tests in cases where it is not possible to achieve a representative sample of tests due to, for instance, limited implementation of certain security measures, or when local conditions would impair the effectiveness of the tests.
+
+**9\. SURVEYS**
+
+9.1. Surveys shall be carried out whenever the appropriate authority recognises a need to re-evaluate operations in order to identify and address any vulnerabilities. Where a vulnerability is identified, the appropriate authority shall require the implementation of protective measures commensurate with the threat.
+
+**10\. REPORTING OF COMPLIANCE MONITORING ACTIVITIES**
+
+10.1. Compliance monitoring activities shall be reported or recorded in a standardised format which allows for an on-going analysis of trends.
+
+10.2. The following elements shall be included in the standardised format:
+
+(a) type of activity;
+
+(b) airport, operator or entity monitored;
+
+(c) date and time of the activity;
+
+(d) name of the auditors conducting the activity;
+
+(e) scope of the activity;
+
+(f) findings with the corresponding provisions of the national civil aviation security programme;
+
+(g) classification of compliance;
+
+(h) recommendations for remedial actions, where appropriate;
+
+(i) time frame for correction, where appropriate.
+
+10.3. Where deficiencies are identified, the appropriate authority shall report the relevant findings to the airport, operators or entities subjected to monitoring.
+
+**11\. COMMON CLASSIFICATION OF COMPLIANCE**
+
+11.1. Compliance monitoring activities shall assess the implementation of the national civil aviation security programme using the harmonised classification system of compliance set out in Appendix II.
+
+**12\. CORRECTION OF DEFICIENCIES**
+
+12.1. The correction of identified deficiencies shall be implemented promptly. Where the correction cannot take place promptly, compensatory measures shall be implemented. When the overall monitoring of the implementation of a security measure, due to individual or isolated failures, results in the compliance level ‘Compliant, but improvement desirable’, those shortcomings shall also be corrected.
+
+12.2. The appropriate authority shall require airports, operators or entities subjected to compliance monitoring activities to submit for agreement an action plan addressing any deficiencies outlined in the reports together with a timeframe for implementation of the remedial actions and to provide confirmation when the correction process has been completed.
+
+**13\. FOLLOW-UP ACTIVITIES RELATED TO THE VERIFICATION OF THE CORRECTION**
+
+13.1. Following confirmation by the airport, operator or entity subjected to monitoring that any required remedial actions have been taken, the appropriate authority shall verify the implementation of the remedial actions.
+
+13.2. Follow-up activities shall use the most relevant monitoring method.
+
+**14\. AVAILABILITY OF AUDITORS**
+
+14.1. Each Member State shall ensure that a sufficient number of auditors are available to the appropriate authority directly or under its supervision for performing all compliance monitoring activities.
+
+**15\. QUALIFICATION CRITERIA FOR AUDITORS**
+
+15.1. Each Member State shall ensure that auditors performing functions on behalf of the appropriate authority:
+
+(a) are free from any contractual or pecuniary obligation to the airport, operator or entity to be monitored; and
+
+(b) have the appropriate competencies, which include sufficient theoretical and practical experience in the relevant field.
+
+Auditors shall be subject to certification or equivalent approval by the appropriate authority.
+
+15.2. The auditors shall have the following competencies:
+
+(a) an understanding of current applicable security measures and how they are applied to the operations being examined including:
+
+— an understanding of security principles,
+
+— an understanding of supervisory tasks,
+
+— an understanding of factors affecting human performance;
+
+(b) a working knowledge of security technologies and techniques;
+
+(c) a knowledge of compliance monitoring principles, procedures and techniques;
+
+(d) a working knowledge of the operations being examined;
+
+(e) an understanding of the role and powers of the auditor.
+
+15.3. Auditors shall undergo recurrent training at a frequency sufficient to ensure that existing competencies are maintained and new competencies are acquired to take account of developments in the field of security.
+
+**16\. POWERS OF AUDITORS**
+
+16.1. Auditors carrying out monitoring activities shall be provided with sufficient authority to obtain the information necessary to carry out their tasks.
+
+16.2. Auditors shall carry a proof of identity authorising compliance monitoring activities on behalf of the appropriate authority and allowing access to all areas required.
+
+16.3. Auditors shall be entitled to:
+
+(a) obtain immediate access to all relevant areas including aircraft and buildings for monitoring purposes; and
+
+(b) require the correct implementation or repetition of the security measures.
+
+16.4. As a consequence of the powers conferred on auditors, the appropriate authority shall act in accordance with point 2.3 in the following cases:
+
+(a) intentional obstruction or impediment of an auditor;
+
+(b) failure or refusal to supply information requested by an auditor;
+
+(c) when false or misleading information is supplied to an auditor with intent to deceive; and
+
+(d) impersonation of an auditor with intent to deceive.
+
+**17\. BEST PRACTICES**
+
+17.1. Member States shall inform the Commission of best practices with regard to quality control programmes, audit methodologies and auditors. The Commission shall share this information with the Member States.
+
+**18\. REPORTING OF COMPLIANCE MONITORING ACTIVITIES TO THE COMMISSION**
+
+18.1. Member States shall annually submit a report to the Commission on the measures taken to fulfil their obligations under this Regulation and on the aviation security situation at the airports located in their territory. The reference period for the report shall be 1 January–31 December. The report shall be due three months after completion of the reference period.
+
+18.2. The content of the report shall be in accordance with Appendix III using a template provided by the Commission.
+
+18.3. The Commission shall share the main conclusions drawn from these reports with Member States.
+
+**19\. REPORTING OF AVIATION SECURITY OCCURRENCES, INCIDENTS, ACTS OF UNLAWFUL INTERFERENCE AND PREPARATORY ACTS THERETO**
+
+19.1. Where the appropriate authority identifies or receives information about an act of unlawful interference or an aviation security incident occurred or about to occur, which is having or likely to have a serious impact on the level of aviation security in the Union or on the international aviation security system, it shall inform the Commission as soon as possible. Subject to national rules on the protection of information relevant for national security, the notification shall include any relevant and available factual information useful to assess whether any prompt action is necessary in order to maintain or reestablish the level of aviation security in the Union and provide the necessary cooperation and coordination at international level. Upon receiving such information, the Commission shall inform the other Member States.
+
+19.2. For the purpose of implementing the requirements laid down in points 3.2(j) and (k) and the provisions hereunder, as from 1 January 2028 each Member State shall establish a process for the reporting, classification, processing, storage, protection, analysis and aggregation of information on aviation security incidents, acts of unlawful interference and preparatory acts thereto. That process shall provide for a mandatory and a confidential voluntary reporting systems and shall contain detailed requirements to ensure effective and efficient reporting and follow-up including the execution and coordination of subsequent tasks as well as any measures or decision that shall be taken by the relevant authorities.
+
+19.3. As from 1 January 2028, operators and entities responsible for the implementation of the national civil aviation security programme shall report information on aviation security incidents to the relevant authorities. Security incidents are designated by a security official or manager to a reported security occurrence based on an analysis of the occurrence and a determination that additional action is required. A security incident may also result, and classified as such by the appropriate authority, in an act of unlawful interference to be reported to ICAO in accordance with Annex 17 to the Chicago Convention. The following reporting deadlines shall apply to such mandatory reporting, starting from the time when the underlying occurrence is reported through the internal reporting system referred to in point 19.4:
+
+(a) as soon as possible, but within 24 hours at the latest in case the incident has a serious and immediate impact on the level of aviation security;
+
+(b) within 72 hours, where the incident has a serious impact on the level of aviation security;
+
+(c) on a monthly basis, in the case of all other incidents.
+
+19.4. As from 1 January 2028, operators and entities responsible for the implementation of the national civil aviation security programme shall put in place an internal reporting system for the reporting of information on aviation security occurrences in a practical and timely manner. All personnel of operators and entities responsible for the implementation of the national civil aviation security programme shall report information on aviation security occurrences through such internal reporting system.
+
+19.5. As from 1 January 2028, the relevant authorities and any operator or entity responsible for the implementation of the national civil aviation security programme shall designate at least one person or department responsible for reporting including data quality checking to improve data consistency. Recruitment and training requirements for the persons designated to perform such tasks shall be laid down in the implementing rules, adopted by the Commission in accordance with article 4(3) of this Regulation.
+
+19.6. As from 1 January 2028, mandatory reporting to the relevant authorities shall be performed using the template as set out in Appendix IV, and shall refer to the common classification as laid down in Appendix V. Voluntary reporting may also be performed using the template set out in Appendix IV and refer to the common classification as laid down in Appendix V.
+
+19.7. As from 1 January 2028, the relevant authorities shall store reports in a national database. The confidentiality of sensitive aviation security information contained in reports as well as any analysis thereof shall be ensured in accordance with applicable Union and national legislation. To this end, each Member State shall lay down detailed requirements regarding access to such information as well as its physical and information technology protection.
+
+19.8. As from 1 January 2028, each Member State shall lay down detailed requirements on the processing and storage of reports to prevent the use of information contained therein for purposes other than aviation security and shall appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in the report, subject to the requirements on criminal, disciplinary or administrative proceedings under national law.
+
+19.9. As from 1 January 2028, the relevant authorities shall establish and implement procedures for sharing, on a need-to-know basis, relevant information contained in reports and on follow-up actions to assist other national authorities and agencies, airport operators, air carriers and other entities concerned, where this may contribute to maintaining and improving aviation security.
+
+19.10. As from 1 January 2028, notwithstanding point 19.8, in case the information has relevance for aviation safety, the relevant authorities may share it with the national civil aviation safety authorities, subject to the applicable requirements on confidentiality, protection and redaction as appropriate.
+
+19.11. As from 1 January 2028, subject to the requirements on confidentiality and protection under Union and national legislation, as applicable, the relevant authorities shall share relevant information contained in reports with the Commission and other Member States, where this may contribute to maintaining and improving aviation security, including in reply to specific queries by the Commission or other Member States.
+
+19.12. As from 1 January 2028, subject to the requirements on confidentiality and protection under Union and national legislation, as applicable, the Commission and Member States may share relevant information contained in reports with international organisations and with the relevant authorities of third countries, where this is required under international agreements or where this may contribute to maintaining and improving aviation security.
+
+19.13. As from 1 January 2028, without prejudice to points 19.1 and 19.11, Member States shall annually submit to the Commission a report containing statistics on the reports received, aggregated in accordance with the common classification as laid down in Appendix V and their analysis. The reference period for the report shall be 1 January–31 December, and shall be due six months after completion of the reference period.
+
+19.14. As from 1 January 2028, the Commission shall share the main conclusions drawn from reports submitted pursuant to point 19.13 with the Regulatory Committee for Civil Aviation Security and the Stakeholders Advisory Group on Aviation Security.
+
+19.15. As from 1 January 2028, in order to provide a harmonised approach at Union level, the Commission may make available an appropriate information technology instrument to support the implementation of the requirements laid down in this Chapter, in coordination with Member States.
+
+## Appendix I — Elements to be included in the set of directly linked security measures
+
+The sets of directly linked security measures as referred to in point 7.1 of this Annex shall include the following elements of Annex I and the corresponding provisions in its implementing acts adopted by the Commission in accordance with article 4(3) of this Regulation:
+
+**For point 1 – Airport security:**
+
+(a) all provisions of point 1.1; or
+
+(b) all provisions of point 1.2 (except those relating to identification cards and vehicle passes); or
+
+(c) all provisions of point 1.2 relating to identification cards; or
+
+(d) all provisions of point 1.2 relating to vehicle passes; or
+
+(e) all provisions of point 1.3 and the relevant elements of point 12; or
+
+(f) all provisions of point 1.4; or
+
+(g) all provisions of point 1.5; or
+
+(h) all provisions of point 1.7, and the relevant elements of point 11.
+
+**For point 2 – Demarcated areas of airports:**
+
+all provisions of this point.
+
+**For point 3 – Aircraft security:**
+
+(a) all provisions of point 3.1; or
+
+(b) all provisions of point 3.2.
+
+**For point 4 – Passengers and cabin baggage:**
+
+(a) all provisions of point 4.1 and the relevant elements of point 12; or
+
+(b) all provisions of point 4.2; or
+
+(c) all provisions of point 4.3.
+
+**For point 5 – Hold baggage:**
+
+(a) all provisions of point 5.1 and the relevant elements of point 12; or
+
+(b) all provisions of point 5.2; or
+
+(c) all provisions of point 5.3.
+
+**For point 6 – Cargo and mail:**
+
+(a) all provisions relating to security controls, screening and transportation applied by a regulated agent and the relevant elements of point 12; or
+
+(b) all provisions relating to security controls and transportation applied by known consignors; or
+
+(c) all provisions relating to security controls and transportation applied by approved hauliers; or
+
+(d) all provisions relating to the protection of cargo and mail at airports.
+
+**For point 7 – Air carrier mail and air carrier materials:**
+
+all provisions of this point.
+
+**For point 8 – In-flight supplies:**
+
+all provisions of this point and the relevant elements of point 12.
+
+**For point 9 – Airport supplies:**
+
+all provisions of this point and the relevant elements of point 12.
+
+**For point 10 – In-flight security measures:**
+
+all provisions of this point.
+
+**For point 11 – Staff recruitment and training:**
+
+(a) all provisions relating to staff recruitment at an airport, operator, air carrier or entity; or
+
+(b) all provisions relating to staff training at an airport, operator, air carrier or entity.
+
+## Appendix II — Harmonised classification system of compliance
+
+The following classification of compliance shall apply to assess the implementation of the national civil aviation security programme.
+
+|  | Security Audit | Inspection | Test |
+| --- | --- | --- | --- |
+| Fully compliant | √ | √ | √ |
+| Compliant, but improvement desirable | √ | √ | √ |
+| Not compliant | √ | √ | √ |
+| Not compliant, with serious deficiencies | √ | √ | √ |
+| Not applicable | √ | √ |  |
+| Not confirmed | √ | √ | √ |
+
+## Appendix III — Content of report to the Commission
+
+**1\. Organisational structure, responsibilities and resources**
+
+(a) Structure of the quality control organisation, responsibilities and resources, including planned future amendments (see point 3.2(a)).
+
+(b) Number of auditors – present and planned (see point (14).
+
+(c) Training completed by auditors (see point 15.2).
+
+**2\. Operational monitoring activities**
+
+All monitoring activities carried out, specifying:
+
+(a) type (security audit, initial inspection, follow up inspection, test, other);
+
+(b) airports, operators and entities monitored;
+
+(c) scope;
+
+(d) frequencies; and
+
+(e) total man-days spent in the field.
+
+**3\. Deficiency correction activities**
+
+(a) Status of the implementation of the deficiency correction activities.
+
+(b) Main activities undertaken or planned (e.g. new posts created, equipment purchased, construction work) and progress achieved towards correction.
+
+(c) Enforcement measures used (see point 3.2(f)).
+
+**4\. General data and trends**
+
+(a) Total national annual passenger and freight traffic and number of aircraft movements.
+
+(b) List of airports by category.
+
+(c) Number of air carriers operating from the territory by category (national, Union, third country).
+
+(d) Number of regulated agents.
+
+(e) Number of known consignors.
+
+(f) Number of approved hauliers.
+
+(g) Number of regulated suppliers (for airport supplies and for in-flight supplies).
+
+(h) Approximate number of other entities with aviation security responsibilities (ground handling companies, security companies, known suppliers of airport and in-flight supplies).
+
+**5\. Aviation security situation at airports**
+
+General context of the aviation security situation in the Member State.
+
+## Appendix IV — Template for the reporting of information on security occurrences and incidents ( 3 )
+
+Exact date and time or period ( 4 ) of occurrence: …/…/…
+
+Date of the report ( 5 ): …/…/…
+
+Location of the occurrence ( 6 ):
+
+Name of the company and/or person reporting (if possible ( 7 )):
+
+Description of the occurrence:
+
+Immediate action(s) taken and by whom ( 8 ):
+
+Affected area of aviation security:
+
+Landside security; Passengers and cabin baggage; Staff and crew; Access control; Hold baggage; In-flight supplies; Airport supplies; Aircraft protection on the ground; Aircraft in-flight security measures; Cargo and mail; Air Traffic Control; Digital information and technologies; Unmanned aircraft system(s) (UAS) / Unmanned aerial vehicle (UAV) / Remotely-piloted aircraft system(s) (RPAS); Stand-off weapon (MANPADs etc.); Lasers; Aviation security information; General Aviation/Aeroclubs
+
+Effect or potential effect on security ( 9 ):
+
+Any other comment/proposal/information ( 10 ):
+
+Contact (email, telephone number):
+
+## Appendix V — Common classification of security occurrences and incidents ( 11 )
+
+<table>
+<tbody><tr><td>Class (1)</td><td>Category (2)</td></tr>
+<tr><td>Landside security</td><td>Discovery or use of vehicle-borne improvised explosive device (IED) or improvised incendiary device (IID)</td></tr>
+<tr><td>  </td><td>Discovery or use of person-delivered IED/IID</td></tr>
+<tr><td>  </td><td>Armed attack</td></tr>
+<tr><td>  </td><td>Unattended/suspicious items (also applicable airside)</td></tr>
+<tr><td>  </td><td>Chemical, biological and radiological (CBR) attack</td></tr>
+<tr><td>  </td><td>Damage to critical infrastructure/vulnerable points</td></tr>
+<tr><td>  </td><td>Suspicious behaviour</td></tr>
+<tr><td>  </td><td>Unplanned disruptions, including bomb threat or hoax</td></tr>
+<tr><td>Passengers and cabin baggage</td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>  </td><td>Deficiency in the security checkpoint screening process</td></tr>
+<tr><td>  </td><td>Mixing of screened and unscreened passengers</td></tr>
+<tr><td>  </td><td>Suspicious behaviour</td></tr>
+<tr><td>Staff and crew</td><td>Deficiency in the security checkpoint screening process</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>  </td><td>Sabotage</td></tr>
+<tr><td>  </td><td>Insider bypassing security controls</td></tr>
+<tr><td>  </td><td>Deliberate attempt to circumvent vetting / background check regime</td></tr>
+<tr><td>Access control</td><td>Breach or attempted breach of perimeter</td></tr>
+<tr><td>  </td><td>Unauthorized access to security restricted area (SRA) or other controlled area (non-staff)</td></tr>
+<tr><td>  </td><td>Unauthorized/unescorted access within SRA (staff)</td></tr>
+<tr><td>  </td><td>Suspicious behaviour of staff</td></tr>
+<tr><td>  </td><td>Deficiency in the access control system</td></tr>
+<tr><td>  </td><td>Deficiency in the ID pass issuing system</td></tr>
+<tr><td>  </td><td>Deficiency in the vehicle access control system including application of security controls and/or screening of occupants and vehicles</td></tr>
+<tr><td>Hold baggage</td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>  </td><td>Deficiency in protecting screened hold baggage</td></tr>
+<tr><td>  </td><td>Evidence of tampering of screened hold baggage</td></tr>
+<tr><td>  </td><td>Deficiency in the hold baggage screening (HBS) system or process (including passenger baggage reconciliation)</td></tr>
+<tr><td>  </td><td>Deficiency in the process of transportation of dispatched weapons</td></tr>
+<tr><td>In-flight supplies</td><td>Unauthorized access to in-flight supply facility</td></tr>
+<tr><td>  </td><td>Deficiency in protecting secure supplies</td></tr>
+<tr><td>  </td><td>Evidence of tampering of secured in flight supplies</td></tr>
+<tr><td>  </td><td>Deficiency in applying security controls</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>Airport supplies</td><td>Unauthorized access to facility</td></tr>
+<tr><td>  </td><td>Deficiency in protecting secure supplies</td></tr>
+<tr><td>  </td><td>Evidence of tampering of secured airport supplies</td></tr>
+<tr><td>  </td><td>Deficiency in applying security controls</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>Aircraft protection on the ground</td><td>Unauthorized passenger on the aircraft</td></tr>
+<tr><td>  </td><td>Unauthorized staff on the aircraft</td></tr>
+<tr><td>  </td><td>Deficiency in the aircraft security search/check</td></tr>
+<tr><td>  </td><td>Deficiency in aircraft protection measures, including where aircraft are parked overnight</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID in the aircraft cabin or hold</td></tr>
+<tr><td>Aircraft in-flight security measures</td><td>Unruly passenger (to be considered for level 3 and 4 (see ICAO Aviation Security Manual) only to be reported)</td></tr>
+<tr><td>  </td><td>Deficiency in the cockpit door process/protection</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>  </td><td>CBR attack</td></tr>
+<tr><td>  </td><td>Hijacking in flight</td></tr>
+<tr><td>  </td><td>Bomb threat in flight</td></tr>
+<tr><td>Cargo and mail</td><td>Unauthorized access to cargo screening facility</td></tr>
+<tr><td>  </td><td>Deficiency in the screening process</td></tr>
+<tr><td>  </td><td>Discovery or use of prohibited item/IED/IID</td></tr>
+<tr><td>  </td><td>Deficiency in protecting secured cargo</td></tr>
+<tr><td>  </td><td>Evidence of tampering of secured cargo</td></tr>
+<tr><td>  </td><td>Deficiency in the acceptance process</td></tr>
+<tr><td>  </td><td>Suspicious activity</td></tr>
+<tr><td>  </td><td>Do Not Load notification under PLACI schemes</td></tr>
+<tr><td>Air Traffic Control</td><td>Armed attack against air traffic control (ATC) facility</td></tr>
+<tr><td>  </td><td>Destruction or damage of air navigation aids</td></tr>
+<tr><td>  </td><td>Unauthorized access</td></tr>
+<tr><td>Digital information and technologies</td><td>Attack against aircraft system(s)</td></tr>
+<tr><td>  </td><td>Attack against air traffic management (ATM) system(s)</td></tr>
+<tr><td>  </td><td>Attack against airport system(s)</td></tr>
+<tr><td>  </td><td>Attack against other critical systems and data</td></tr>
+<tr><td>Unmanned aircraft systems (UAS)</td><td>Unauthorized incursion into controlled airspace</td></tr>
+<tr><td>Unmanned aerial vehicle (UAV)</td><td>Near miss/Encounter with aircraft in flight</td></tr>
+<tr><td>Remotely-piloted aircraft system (RPAS)</td><td>Strike/Collision with aircraft in flight</td></tr>
+<tr><td>  </td><td>Sighting from aircraft/airport</td></tr>
+<tr><td>  </td><td>Unmanned aerial vehicle (UAV) caused threat against aircraft</td></tr>
+<tr><td>  </td><td>UAV caused threat against airport infrastructure</td></tr>
+<tr><td>  </td><td>UAV caused threat against passengers</td></tr>
+<tr><td>Stand-off weapon (MANPADs etc.)</td><td>Attack on aircraft or airport facility</td></tr>
+<tr><td>  </td><td>Reported sighting</td></tr>
+<tr><td>Lasers</td><td>Attack on aircraft or airport facility</td></tr>
+<tr><td>  </td><td>Reported sighting</td></tr>
+<tr><td>  </td><td>Suspicious activity</td></tr>
+<tr><td>Aviation security information</td><td>Deficiency in protecting sensitive aviation security information</td></tr>
+<tr><td>  </td><td>Loss of integrity and availability of information systems</td></tr>
+<tr><td>General Aviation/Aeroclubs</td><td>Unauthorized access</td></tr>
+<tr><td>  </td><td>Discovery of prohibited item/IED/IID</td></tr>
+<tr><td colspan="2">(1)  Class: describes the topic the security incident would refer to, such as ‘access controls’, ‘hold baggage’ or ‘cargo/mail’. The chosen identifiers are already commonly used in ICAO Annex 17 and the Aviation Security Manual (Doc 8973) and are expected to be easy for entities to refer to and relevant for authorities to make assessments.  (2)  Category: indicates a more specific description of the security incident involved. The categories differ per class as the possible security incidents vary depending on which aviation security process they relate to. For instance, the class ‘aircraft protection on the ground’ includes the category ‘deficiency in the aircraft security search/check’, whereas the class ‘hold baggage’ includes the category ‘deficiency in protecting screened hold baggage’. There would also be a category ‘other’ for those incidents that may be too rare to justify a separate category, or which may be considered a new threat or vulnerability. However, this option should only be used when none of the other categories seems suitable. </td></tr>
+</tbody>
+</table>
+
+( 1 ) OJ L 240, 24.8.1992, p. 1.
+
+( 2 ) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).
+
+( 3 ) For the purposes of the template, ‘occurrence’ will cover aviation security occurrences and incidents.
+
+( 4 ) In case the exact date and time cannot be established.
+
+( 5 ) If different from the date of occurrence.
+
+( 6 ) Name and possibly IATA/ICAO code of the airport, as well as the area where the occurrence is observed.
+
+( 7 ) Name of natural person reporting may be left out.
+
+( 8 ) Such as notifying local law enforcement and/or airport authorities of the situation.
+
+( 9 ) To determine from the reporter’s perspective, how the level of aviation security is affected.
+
+( 10 ) This section may include further desirable information from the reporter, for instance, as regards Preliminary risk assessment; Action(s) to limit the effect on aviation security; Remedial action(s) (where applicable); and Status of the file within the company (where applicable).
+
+( 11 ) Appendix V may also serve as a tool to categorise security data and support the development of definitions of relevant occurrences.

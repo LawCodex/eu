@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE 2005/1/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2005 </td><td> L 79</td><td>9</td><td>24.3.2005</td></tr>
@@ -33,6 +34,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE 2013/36/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 June 2013 </td><td> L 176</td><td>338</td><td>27.6.2013</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2034 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 314</td><td>64</td><td>5.12.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+</table>
 
 **DIRECTIVE 2002/87/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

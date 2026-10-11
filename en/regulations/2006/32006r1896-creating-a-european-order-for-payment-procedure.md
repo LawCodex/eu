@@ -1,0 +1,489 @@
+---
+title: "Regulation (EC) No 1896/2006 of the European Parliament and of the Council of 12 December 2006 creating a European order for payment procedure"
+identifier: "32006R1896"
+eli: "http://data.europa.eu/eli/reg/2006/1896/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-12-12
+entry_into_force: 2006-10-14
+last_amended: 2025-05-01
+consolidated_version: "02006R1896-20250501"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1896-20250501"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1896/2006 of the European Parliament and of the Council of 12 December 2006 creating a European order for payment procedure
+
+**REGULATION (EC) No 1896/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2006**
+
+**creating a European order for payment procedure**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 936/2012 of 4 October 2012 </td><td> L 283</td><td>1</td><td>16.10.2012</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2015/2421 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2015 </td><td> L 341</td><td>1</td><td>24.12.2015</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2017/1260 of 19 June 2017 </td><td> L 182</td><td>20</td><td>13.7.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2844 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2844</td><td>1</td><td>27.12.2023</td></tr>
+</table>
+
+C1
+
+**REGULATION (EC) No 1896/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2006**
+
+**creating a European order for payment procedure**
+
+## Article 1 — Subject matter
+
+1\. The purpose of this Regulation is:
+
+(a) to simplify, speed up and reduce the costs of litigation in cross-border cases concerning uncontested pecuniary claims by creating a European order for payment procedure;
+
+and
+
+(b) to permit the free circulation of European orders for payment throughout the Member States by laying down minimum standards, compliance with which renders unnecessary any intermediate proceedings in the Member State of enforcement prior to recognition and enforcement.
+
+2\. This Regulation shall not prevent a claimant from pursuing a claim within the meaning of Article 4 by making use of another procedure available under the law of a Member State or under Community law.
+
+## Article 2 — Scope
+
+1\. This Regulation shall apply to civil and commercial matters in cross-border cases, whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters or the liability of the State for acts and omissions in the exercise of State authority (‘acta iure imperii’).
+
+2\. This Regulation shall not apply to:
+
+(a) rights in property arising out of a matrimonial relationship, wills and succession;
+
+(b) bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
+
+(c) social security;
+
+(d) claims arising from non-contractual obligations, unless:
+
+(i) they have been the subject of an agreement between the parties or there has been an admission of debt,
+
+or
+
+(ii) they relate to liquidated debts arising from joint ownership of property.
+
+3\. In this Regulation, the term ‘Member State’ shall mean Member States with the exception of Denmark.
+
+## Article 3 — Cross-border cases
+
+1\. For the purposes of this Regulation, a cross-border case is one in which at least one of the parties is domiciled or habitually resident in a Member State other than the Member State of the court seised.
+
+2\. Domicile shall be determined in accordance with Articles 59 and 60 of Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( 1 ).
+
+3\. The relevant moment for determining whether there is a cross-border case shall be the time when the application for a European order for payment is submitted in accordance with this Regulation.
+
+## Article 4 — European order for payment procedure
+
+The European order for payment procedure shall be established for the collection of pecuniary claims for a specific amount that have fallen due at the time when the application for a European order for payment is submitted.
+
+## Article 5 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+1) ‘Member State of origin’ means the Member State in which a European order for payment is issued;
+
+2) ‘Member State of enforcement’ means the Member State in which enforcement of a European order for payment is sought;
+
+3) ‘court’ means any authority in a Member State with competence regarding European orders for payment or any other related matters;
+
+4) ‘court of origin’ means the court which issues a European order for payment.
+
+## Article 6 — Jurisdiction
+
+1\. For the purposes of applying this Regulation, jurisdiction shall be determined in accordance with the relevant rules of Community law, in particular Regulation (EC) No 44/2001.
+
+2\. However, if the claim relates to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside his trade or profession, and if the defendant is the consumer, only the courts in the Member State in which the defendant is domiciled, within the meaning of Article 59 of Regulation (EC) No 44/2001, shall have jurisdiction.
+
+## Article 7 — Application for a European order for payment
+
+1\. An application for a European order for payment shall be made using standard form A as set out in Annex I.
+
+2\. The application shall state:
+
+(a) the names and addresses of the parties, and, where applicable, their representatives, and of the court to which the application is made;
+
+(b) the amount of the claim, including the principal and, where applicable, interest, contractual penalties and costs;
+
+(c) if interest on the claim is demanded, the interest rate and the period of time for which that interest is demanded unless statutory interest is automatically added to the principal under the law of the Member State of origin;
+
+(d) the cause of the action, including a description of the circumstances invoked as the basis of the claim and, where applicable, of the interest demanded;
+
+(e) a description of evidence supporting the claim;
+
+(f) the grounds for jurisdiction;
+
+and
+
+(g) the cross-border nature of the case within the meaning of Article 3.
+
+3\. In the application, the claimant shall declare that the information provided is true to the best of his knowledge and belief and shall acknowledge that any deliberate false statement could lead to appropriate penalties under the law of the Member State of origin.
+
+4\. In an Appendix to the application, the claimant may indicate to the court which, if any, of the procedures listed in points (a) and (b) of Article 17(1) he requests to be applied to his claim in the subsequent civil proceedings in the event that the defendant lodges a statement of opposition against the European order for payment.
+
+In the Appendix provided for in the first subparagraph, the claimant may also indicate to the court that he opposes a transfer to civil proceedings within the meaning of point (a) or point (b) of Article 17(1) in the event of opposition by the defendant. This does not prevent the claimant from informing the court thereof subsequently, but in any event before the order is issued.
+
+5\. The application shall be submitted by the means of electronic communication provided for in Article 4 of Regulation (EU) 2023/2844 of the European Parliament and of the Council ( 2 ), in paper form or by any other means of communication, including electronic, accepted by the Member State of origin and available to the court of origin.
+
+6\. The application shall be signed by the claimant or, where applicable, by the claimant’s representative. Where the application is submitted in electronic form in accordance with paragraph 5 of this Article, the requirement to sign the application shall be fulfilled in accordance with Article 7(3) of Regulation (EU) 2023/2844. The electronic signature shall be recognised in the Member State of origin and may not be made subject to additional requirements.
+
+However, such electronic signature shall not be required if and to the extent that an alternative electronic communications system exists in the courts of the Member State of origin which is available to a certain group of pre-registered authenticated users and which permits the identification of those users in a secure manner. Member States shall inform the Commission of such communications systems.
+
+## Article 8 — Examination of the application
+
+The court seised of an application for a European order for payment shall examine, as soon as possible and on the basis of the application form, whether the requirements set out in Articles 2, 3, 4, 6 and 7 are met and whether the claim appears to be founded. This examination may take the form of an automated procedure.
+
+## Article 9 — Completion and rectification
+
+1\. If the requirements set out in Article 7 are not met and unless the claim is clearly unfounded or the application is inadmissible, the court shall give the claimant the opportunity to complete or rectify the application. The court shall use standard form B as set out in Annex II.
+
+2\. Where the court requests the claimant to complete or rectify the application, it shall specify a time limit it deems appropriate in the circumstances. The court may at its discretion extend that time limit.
+
+## Article 10 — Modification of the application
+
+1\. If the requirements referred to in Article 8 are met for only part of the claim, the court shall inform the claimant to that effect, using standard form C as set out in Annex III. The claimant shall be invited to accept or refuse a proposal for a European order for payment for the amount specified by the court and shall be informed of the consequences of his decision. The claimant shall reply by returning standard form C sent by the court within a time limit specified by the court in accordance with Article 9(2).
+
+2\. If the claimant accepts the court's proposal, the court shall issue a European order for payment, in accordance with Article 12, for that part of the claim accepted by the claimant. The consequences with respect to the remaining part of the initial claim shall be governed by national law.
+
+3\. If the claimant fails to send his reply within the time limit specified by the court or refuses the court's proposal, the court shall reject the application for a European order for payment in its entirety.
+
+## Article 11 — Rejection of the application
+
+1\. The court shall reject the application if:
+
+(a) the requirements set out in Articles 2, 3, 4, 6 and 7 are not met;
+
+or
+
+(b) the claim is clearly unfounded;
+
+or
+
+(c) the claimant fails to send his reply within the time limit specified by the court under Article 9(2);
+
+or
+
+(d) the claimant fails to send his reply within the time limit specified by the court or refuses the court's proposal, in accordance with Article 10.
+
+The claimant shall be informed of the grounds for the rejection by means of standard form D as set out in Annex IV.
+
+2\. There shall be no right of appeal against the rejection of the application.
+
+3\. The rejection of the application shall not prevent the claimant from pursuing the claim by means of a new application for a European order for payment or of any other procedure available under the law of a Member State.
+
+## Article 12 — Issue of a European order for payment
+
+1\. If the requirements referred to in Article 8 are met, the court shall issue, as soon as possible and normally within 30 days of the lodging of the application, a European order for payment using standard form E as set out in Annex V.
+
+The 30-day period shall not include the time taken by the claimant to complete, rectify or modify the application.
+
+2\. The European order for payment shall be issued together with a copy of the application form. It shall not comprise the information provided by the claimant in Appendices 1 and 2 to form A.
+
+3\. In the European order for payment, the defendant shall be advised of his options to:
+
+(a) pay the amount indicated in the order to the claimant;
+
+or
+
+(b) oppose the order by lodging with the court of origin a statement of opposition, to be sent within 30 days of service of the order on him.
+
+4\. In the European order for payment, the defendant shall be informed that:
+
+(a) the order was issued solely on the basis of the information which was provided by the claimant and was not verified by the court;
+
+(b) the order will become enforceable unless a statement of opposition has been lodged with the court in accordance with Article 16;
+
+(c) where a statement of opposition is lodged, the proceedings shall continue before the competent courts of the Member State of origin in accordance with the rules of ordinary civil procedure unless the claimant has explicitly requested that the proceedings be terminated in that event.
+
+5\. The court shall ensure that the order is served on the defendant in accordance with national law by a method that shall meet the minimum standards laid down in Articles 13, 14 and 15.
+
+## Article 13 — Service with proof of receipt by the defendant
+
+The European order for payment may be served on the defendant in accordance with the national law of the State in which the service is to be effected, by one of the following methods:
+
+(a) personal service attested by an acknowledgement of receipt, including the date of receipt, which is signed by the defendant;
+
+(b) personal service attested by a document signed by the competent person who effected the service stating that the defendant has received the document or refused to receive it without any legal justification, and the date of service;
+
+(c) postal service attested by an acknowledgement of receipt, including the date of receipt, which is signed and returned by the defendant;
+
+(d) service by electronic means such as fax or e-mail, attested by an acknowledgement of receipt, including the date of receipt, which is signed and returned by the defendant.
+
+The European order for payment may be served on the defendant by electronic means of service provided for in Articles 19 and 19a of Regulation (EU) 2020/1784 of the European Parliament and of the Council ( 3 ).
+
+## Article 14 — Service without proof of receipt by the defendant
+
+1\. The European order for payment may also be served on the defendant in accordance with the national law of the State in which service is to be effected, by one of the following methods:
+
+(a) personal service at the defendant's personal address on persons who are living in the same household as the defendant or are employed there;
+
+(b) in the case of a self-employed defendant or a legal person, personal service at the defendant's business premises on persons who are employed by the defendant;
+
+(c) deposit of the order in the defendant's mailbox;
+
+(d) deposit of the order at a post office or with competent public authorities and the placing in the defendant's mailbox of written notification of that deposit, provided that the written notification clearly states the character of the document as a court document or the legal effect of the notification as effecting service and setting in motion the running of time for the purposes of time limits;
+
+(e) postal service without proof pursuant to paragraph 3 where the defendant has his address in the Member State of origin;
+
+(f) electronic means attested by an automatic confirmation of delivery, provided that the defendant has expressly accepted this method of service in advance.
+
+2\. For the purposes of this Regulation, service under paragraph 1 is not admissible if the defendant's address is not known with certainty.
+
+3\. Service pursuant to paragraph 1(a), (b), (c) and (d) shall be attested by:
+
+(a) a document signed by the competent person who effected the service, indicating:
+
+(i) the method of service used;
+
+and
+
+(ii) the date of service;
+
+and
+
+(iii) where the order has been served on a person other than the defendant, the name of that person and his relation to the defendant;
+
+or
+
+(b) an acknowledgement of receipt by the person served, for the purposes of paragraphs (1)(a) and (b).
+
+## Article 15 — Service on a representative
+
+Service pursuant to Articles 13 or 14 may also be effected on a defendant's representative.
+
+## Article 16 — Opposition to the European order for payment
+
+1\. The defendant may lodge a statement of opposition to the European order for payment with the court of origin using standard form F as set out in Annex VI, which shall be supplied to him together with the European order for payment.
+
+2\. The statement of opposition shall be sent within 30 days of service of the order on the defendant.
+
+3\. The defendant shall indicate in the statement of opposition that he contests the claim, without having to specify the reasons for this.
+
+4\. The statement of opposition shall be submitted by the means of electronic communication provided for in Article 4 of Regulation (EU) 2023/2844, in paper form or by any other means of communication, including electronic, accepted by the Member State of origin and available to the court of origin.
+
+5\. The statement of opposition shall be signed by the defendant or, where applicable, by the defendant’s representative. Where the statement of opposition is submitted in electronic form in accordance with paragraph 4 of this Article, the requirement to sign the statement of opposition shall be fulfilled in accordance with Article 7(3) of Regulation (EU) 2023/2844. The electronic signature shall be recognised in the Member State of origin and may not be made subject to additional requirements.
+
+However, such electronic signature shall not be required if and to the extent that an alternative electronic communications system exists in the courts of the Member State of origin which is available to a certain group of pre-registered authenticated users and which permits the identification of those users in a secure manner. Member States shall inform the Commission of such communications systems.
+
+## Article 17 — Effect of the lodging of a statement of opposition
+
+1\. If a statement of opposition is lodged within the time limit laid down in Article 16(2), the proceedings shall continue before the competent courts of the Member State of origin unless the claimant has explicitly requested that the proceedings be terminated in that event. The proceedings shall continue in accordance with the rules of:
+
+(a) the European Small Claims Procedure laid down in Regulation (EC) No 861/2007, if applicable; or
+
+(b) any appropriate national civil procedure.
+
+2\. Where the claimant has not indicated which of the procedures listed in points (a) and (b) of paragraph 1 he requests to be applied to his claim in the proceedings that ensue in the event of a statement of opposition or where the claimant has requested that the European Small Claims Procedure as laid down in Regulation (EC) No 861/2007 be applied to a claim that does not fall within the scope of that Regulation, the proceedings shall be transferred to the appropriate national civil procedure, unless the claimant has explicitly requested that such transfer not be made.
+
+3\. Where the claimant has pursued his claim through the European order for payment procedure, nothing under national law shall prejudice his position in subsequent civil proceedings.
+
+4\. The transfer to civil proceedings within the meaning of points (a) and (b) of paragraph 1 shall be governed by the law of the Member State of origin.
+
+5\. The claimant shall be informed of whether the defendant has lodged a statement of opposition and of any transfer to civil proceedings within the meaning of paragraph 1.
+
+## Article 18 — Enforceability
+
+1\. If within the time limit laid down in Article 16(2), taking into account an appropriate period of time to allow a statement to arrive, no statement of opposition has been lodged with the court of origin, the court of origin shall without delay declare the European order for payment enforceable using standard form G as set out in Annex VII. The court shall verify the date of service.
+
+2\. Without prejudice to paragraph 1, the formal requirements for enforceability shall be governed by the law of the Member State of origin.
+
+3\. The court shall send the enforceable European order for payment to the claimant.
+
+## Article 19 — Abolition of exequatur
+
+A European order for payment which has become enforceable in the Member State of origin shall be recognised and enforced in the other Member States without the need for a declaration of enforceability and without any possibility of opposing its recognition.
+
+## Article 20 — Review in exceptional cases
+
+1\. After the expiry of the time limit laid down in Article 16(2) the defendant shall be entitled to apply for a review of the European order for payment before the competent court in the Member State of origin where:
+
+(a)
+
+(i) the order for payment was served by one of the methods provided for in Article 14,
+
+and
+
+(ii) service was not effected in sufficient time to enable him to arrange for his defence, without any fault on his part,
+
+or
+
+(b) the defendant was prevented from objecting to the claim by reason of force majeure or due to extraordinary circumstances without any fault on his part,
+
+provided in either case that he acts promptly.
+
+2\. After expiry of the time limit laid down in Article 16(2) the defendant shall also be entitled to apply for a review of the European order for payment before the competent court in the Member State of origin where the order for payment was clearly wrongly issued, having regard to the requirements laid down in this Regulation, or due to other exceptional circumstances.
+
+3\. If the court rejects the defendant's application on the basis that none of the grounds for review referred to in paragraphs 1 and 2 apply, the European order for payment shall remain in force.
+
+If the court decides that the review is justified for one of the reasons laid down in paragraphs 1 and 2, the European order for payment shall be null and void.
+
+## Article 21 — Enforcement
+
+1\. Without prejudice to the provisions of this Regulation, enforcement procedures shall be governed by the law of the Member State of enforcement.
+
+A European order for payment which has become enforceable shall be enforced under the same conditions as an enforceable decision issued in the Member State of enforcement.
+
+2\. For enforcement in another Member State, the claimant shall provide the competent enforcement authorities of that Member State with:
+
+(a) a copy of the European order for payment, as declared enforceable by the court of origin, which satisfies the conditions necessary to establish its authenticity;
+
+and
+
+(b) where necessary, a translation of the European order for payment into the official language of the Member State of enforcement or, if there are several official languages in that Member State, the official language or one of the official languages of court proceedings of the place where enforcement is sought, in conformity with the law of that Member State, or into another language that the Member State of enforcement has indicated it can accept. Each Member State may indicate the official language or languages of the institutions of the European Union other than its own which it can accept for the European order for payment. The translation shall be certified by a person qualified to do so in one of the Member States.
+
+3\. No security, bond or deposit, however described, shall be required of a claimant who in one Member State applies for enforcement of a European order for payment issued in another Member State on the ground that he is a foreign national or that he is not domiciled or resident in the Member State of enforcement.
+
+## Article 22 — Refusal of enforcement
+
+1\. Enforcement shall, upon application by the defendant, be refused by the competent court in the Member State of enforcement if the European order for payment is irreconcilable with an earlier decision or order previously given in any Member State or in a third country, provided that:
+
+(a) the earlier decision or order involved the same cause of action between the same parties;
+
+and
+
+(b) the earlier decision or order fulfils the conditions necessary for its recognition in the Member State of enforcement;
+
+and
+
+(c) the irreconcilability could not have been raised as an objection in the court proceedings in the Member State of origin.
+
+2\. Enforcement shall, upon application, also be refused if and to the extent that the defendant has paid the claimant the amount awarded in the European order for payment.
+
+3\. Under no circumstances may the European order for payment be reviewed as to its substance in the Member State of enforcement.
+
+## Article 23 — Stay or limitation of enforcement
+
+Where the defendant has applied for a review in accordance with Article 20, the competent court in the Member State of enforcement may, upon application by the defendant:
+
+(a) limit the enforcement proceedings to protective measures;
+
+or
+
+(b) make enforcement conditional on the provision of such security as it shall determine;
+
+or
+
+(c) under exceptional circumstances, stay the enforcement proceedings.
+
+## Article 24 — Legal representation
+
+Representation by a lawyer or another legal professional shall not be mandatory:
+
+(a) for the claimant in respect of the application for a European order for payment;
+
+(b) for the defendant in respect of the statement of opposition to a European order for payment.
+
+## Article 25 — Court fees
+
+1\. Where, in a Member State, the court fees for civil proceedings within the meaning of point (a) or point (b) of Article 17(1), as applicable, are equivalent to or higher than those of the European order for payment procedure, the total of the court fees for a European order for payment procedure and for the civil proceedings that ensue in the event of a statement of opposition in accordance with Article 17(1) shall not exceed the fees for those proceedings without a preceding European order for payment procedure in that Member State.
+
+No additional court fees may be charged in a Member State for the civil proceedings that ensue in the event of a statement of opposition in accordance with point (a) or point (b) of Article 17(1), as applicable, if the court fees for such proceedings in that Member State are lower than those for the European order for payment procedure.
+
+2\. For the purposes of this Regulation, court fees shall comprise fees and charges to be paid to the court, the amount of which is fixed in accordance with national law.
+
+## Article 26 — Relationship with national procedural law
+
+All procedural issues not specifically dealt with in this Regulation shall be governed by national law.
+
+## Article 27 — Relationship with Regulation (EC) No 1348/2000
+
+This Regulation shall not affect the application of Council Regulation (EC) No 1348/2000 of 29 May 2000 on the service in the Member States of judicial and extrajudicial documents in civil and commercial matters ( 4 ).
+
+## Article 28 — Information relating to service costs and enforcement
+
+Member States shall cooperate to provide the general public and professional circles with information on:
+
+(a) costs of service of documents;
+
+and
+
+(b) which authorities have competence with respect to enforcement for the purposes of applying Articles 21, 22 and 23,
+
+in particular via the European Judicial Network in civil and commercial matters established in accordance with Council Decision 2001/470/EC ( 5 ).
+
+## Article 29 — Information relating to jurisdiction, review procedures, means of communication and languages
+
+1\. By 12 June 2008, Member States shall communicate to the Commission:
+
+(a) which courts have jurisdiction to issue a European order for payment;
+
+(b) the review procedure and the competent courts for the purposes of the application of Article 20;
+
+(c) the means of communication accepted for the purposes of the European order for payment procedure and available to the courts;
+
+(d) languages accepted pursuant to Article 21(2)(b).
+
+Member States shall apprise the Commission of any subsequent changes to this information.
+
+2\. The Commission shall make the information notified in accordance with paragraph 1 publicly available through publication in the Official Journal of the European Union and through any other appropriate means.
+
+## Article 30 — Amendment of the Annexes
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 31 concerning the amendment of Annexes I to VII.
+
+## Article 31 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 30 shall be conferred on the Commission for an indeterminate period of time from 13 January 2016.
+
+3\. The delegation of power referred to in Article 30 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 30 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 32 — Review
+
+By 12 December 2013, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a detailed report reviewing the operation of the European order for payment procedure. That report shall contain an assessment of the procedure as it has operated and an extended impact assessment for each Member State.
+
+To that end, and in order to ensure that best practice in the European Union is duly taken into account and reflects the principles of better legislation, Member States shall provide the Commission with information relating to the cross-border operation of the European order for payment. This information shall cover court fees, speed of the procedure, efficiency, ease of use and the internal payment order procedures of the Member States.
+
+The Commission's report shall be accompanied, if appropriate, by proposals for adaptation.
+
+## Article 33 — Entry into force
+
+This Regulation shall enter into force on the day following the date of its publication in the Official Journal of the European Union.
+
+It shall apply from 12 December 2008, with the exception of Articles 28, 29, 30 and 31 which shall apply from 12 June 2008.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.
+
+## ANNEX I
+
+## ANNEX II
+
+►(1) M2
+
+## ANNEX III
+
+## ANNEX IV
+
+## ANNEX V
+
+►(1) M2
+
+## ANNEX VI
+
+## ANNEX VII
+
+►(1) C2
+
+( 1 ) OJ L 12, 16.1.2001, p. 1. Regulation as last amended by Commission Regulation (EC) No 2245/2004 (OJ L 381, 28.12.2004, p. 10).
+
+( 2 ) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).
+
+( 3 ) Regulation (EU) 2020/1784 of the European Parliament and of the Council of 25 November 2020 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (OJ L 405, 2.12.2020, p. 40).
+
+( 4 ) OJ L 160, 30.6.2000, p. 37.
+
+( 5 ) OJ L 174, 27.6.2001, p. 25.

@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the reorganisation and winding up of credit institutions**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/59/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 173</td><td>190</td><td>12.6.2014</td></tr>
+</table>
 
 **DIRECTIVE 2001/24/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

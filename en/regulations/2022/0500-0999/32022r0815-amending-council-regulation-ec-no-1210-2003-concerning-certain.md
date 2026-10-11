@@ -1,0 +1,70 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/815 of 23 May 2022 amending Council Regulation (EC) No 1210/2003 concerning certain specific restrictions on economic and financial relations with Iraq"
+identifier: "32022R0815"
+eli: "http://data.europa.eu/eli/reg_impl/2022/815/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-05-23
+entry_into_force: 2022-11-14
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0815"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/815 of 23 May 2022 amending Council Regulation (EC) No 1210/2003 concerning certain specific restrictions on economic and financial relations with Iraq
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/815**
+
+**of 23 May 2022**
+
+**amending Council Regulation (EC) No 1210/2003 concerning certain specific restrictions on economic and financial relations with Iraq**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1210/2003 of 7 July 2003 concerning certain specific restrictions on economic and financial relations with Iraq and repealing Regulation (EC) No 2465/96 (1), and in particular Article 11(b) thereof,
+
+Whereas:
+
+(1) Annex IV to Regulation (EC) No 1210/2003 lists natural and legal persons, bodies or entities associated with the regime of former President Saddam Hussein covered by the freezing of funds and economic resources and by a prohibition to make funds or economic resources available.
+
+(2) On 19 May 2022, the Sanctions Committee of the United Nations Security Council decided to remove one natural person and two entities from the list of persons and entities to whom the assets freeze should apply.
+
+(3) Annex IV to Regulation (EC) No 1210/2003 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex IV to Regulation (EC) No 1210/2003 is amended as set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 23 May 2022.
+
+For the Commission
+
+On behalf of The President
+
+Director-General
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union
+
+(1) OJ L 169, 8.7.2003, p. 6.
+
+## ANNEX
+
+In Annex IV to Regulation (EC) No 1210/2003, the following entries are deleted:
+
+‘80. Khalaf M. M. Al-Dulaymi (alias Khalaf Al Dulaimi). Date of birth: 25 January 1932. Passport No H0044232 (Iraqi)’
+
+‘98. MIDCO FINANCIAL, S.A. (alias MIDCO FINANCE, S.A.). Other information: Federal No: CH-660-0-469-982-0 (Switzerland).’
+
+‘99. MONTANA MANAGEMENT, INC. Address: Panama.’

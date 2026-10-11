@@ -34,11 +34,13 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 89/586/EEC of 23 October 1989</td><td> L 330</td><td>1</td><td>15.11.1989</td></tr>
 <tr><td></td><td>Commission Decision of 18 December 1990</td><td> L 16</td><td>27</td><td>22.1.1991</td></tr>
 <tr><td> M3</td><td>Council Directive 92/92/EEC of 9 November 1992</td><td> L 338</td><td>1</td><td>23.11.1992</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -168,18 +170,23 @@ BENACHTEILIGTE AGRARZONE
 
 001 Flensburg, Kreisfreie Stadt
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>000</td><td>Flensburg</td><td> mit Gemarkung Flensburg  Flur W 43 bis W 45  Flur X 40 bis X 45  Flur Y 39 bis Y 46  Flur Z 38 bis Z 47  Flur A 38 bis A 47  Flur B 38 bis B 47  Flur C 38 bis C 48, C 52  Flur D 38 bis D 43, D 52/D 53  Flur E 38 bis E 42  Flur F 38 bis F 41  Flur G 38, G 39 </td></tr>
 </tbody>
+</table>
 
 004 Neumünster, Kreisfreie Stadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>000</td><td>Neumünster</td></tr>
 </tbody>
+</table>
 
 051 Kreis Ditmarschen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Albersdorf</td></tr>
 <tr><td>002</td><td>Arkebek</td></tr>
@@ -251,7 +258,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>138</td><td>Tensbüttel-Röst</td></tr>
 <tr><td>139</td><td>Süderdorf</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>022</td><td>Dingen</td><td>mit Flur 2, 3, 4</td></tr>
 <tr><td>024</td><td>Eddelak</td><td> mit Gemarkung Warfen  Flur 1, 2, 3 </td></tr>
@@ -260,9 +269,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>096</td><td rowspan="2">Sankt Annen</td><td> mit Gemarkung Sankt Annen-Damm  Flur 2 </td></tr>
 <tr><td>  </td><td> mit Gemarkung Sankt Annen-Neufeld  Flur 2, 3, 4 </td></tr>
 </tbody>
+</table>
 
 054 Kreis Nordfriesland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Achtrup</td></tr>
 <tr><td>002</td><td>Ahrenshöft</td></tr>
@@ -333,7 +344,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>162</td><td>Wobbenbüll</td></tr>
 <tr><td>167</td><td>Enge-Sande</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>010</td><td>Bargum</td><td>mit Flur 6 bis 11</td></tr>
 <tr><td>014</td><td>Bordelum</td><td>mit Flur 15 bis 17</td></tr>
@@ -350,9 +363,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>166</td><td>Emmelsbüll-Hörsbüll</td><td>mit Gemarkung Emmelsbüll Flur 12 bis 15</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 056 Kreis Pinneberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>006</td><td>Bokel</td></tr>
 <tr><td> 010  </td><td> Brande-Hörnerkirchen  </td></tr>
@@ -361,20 +376,26 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>038</td><td>Osterhorn</td></tr>
 <tr><td> 051  </td><td> Westerhorn  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Barmstedt, Stadt</td><td>mit Gemarkung Heede Flur 1 und 2</td></tr>
 <tr><td>022</td><td>Heede</td><td>mit Flur 1, 2, 4 bis 8</td></tr>
 </tbody>
+</table>
 
 057 Kreis Plön
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>008</td><td>Bönebüttel</td></tr>
 </tbody>
+</table>
 
 058 Kreis Rendsburg-Eckernförde
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>002</td><td>Ahlefeld</td></tr>
 <tr><td>003</td><td>Alt Duvenstedt</td></tr>
@@ -463,7 +484,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>169</td><td>Wasbek</td></tr>
 <tr><td>172</td><td>Westerrönfeld</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>049</td><td rowspan="2">Emkendorf</td><td> mit Gemarkung Klein Vollstedt  Flur 1 bis 13, 15 </td></tr>
 <tr><td>  </td><td> mit Gemarkung Bokelholm  Flur 1 bis 6 </td></tr>
@@ -471,9 +494,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>084</td><td>Hummelfeld</td><td>mit Flur 7 bis 10</td></tr>
 <tr><td>094</td><td>Langwedel</td><td>mit Flur 13 bis 18</td></tr>
 </tbody>
+</table>
 
 059 Kreis Schleswig-Flensburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Alt Bennebek</td></tr>
 <tr><td>005</td><td>Bergenhusen</td></tr>
@@ -539,14 +564,18 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>180</td><td>Jarplund-Weding</td></tr>
 <tr><td>181</td><td>Sankelmark</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>037</td><td rowspan="2">Havetoft</td><td> mit Gemarkung Havetoft  Flur 6 und 7 </td></tr>
 <tr><td>  </td><td> mit Gemarkung Holming  Flur 1 bis 3 </td></tr>
 </tbody>
+</table>
 
 060 Kreis Segeberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>003</td><td>Armstedt</td></tr>
 <tr><td>004</td><td>Bad Bramstedt, Stadt</td></tr>
@@ -587,9 +616,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>099</td><td>Wiemersdorf</td></tr>
 <tr><td>101</td><td>Wittenborn</td></tr>
 </tbody>
+</table>
 
 061 Kreis Steinburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Aasbüttel</td></tr>
 <tr><td>002</td><td>Äbtissinwitsch</td></tr>
@@ -664,6 +695,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>116</td><td>Wrist</td></tr>
 <tr><td>117</td><td>Wulfsmoor</td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
@@ -674,6 +706,7 @@ KLEINES GEBIET
 
 053 Landkreis Herzogtum Lauenburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>010</td><td>Besenthal</td></tr>
 <tr><td>015</td><td>Bröthen</td></tr>
@@ -696,13 +729,17 @@ KLEINES GEBIET
 <tr><td>132</td><td>Witzeeze</td></tr>
 <tr><td>134</td><td>Woltersdorf</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>046</td><td>Gudow</td><td>mit Gudow-Dorf und Segrahn</td></tr>
 </tbody>
+</table>
 
 054 Landkreis Nordfriesland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>005</td><td>Alkersum</td></tr>
 <tr><td>015</td><td>Borgsum</td></tr>
@@ -724,13 +761,17 @@ KLEINES GEBIET
 <tr><td>163</td><td>Wrixum</td></tr>
 <tr><td>164</td><td>Wyk auf Föhr, Stadt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>091</td><td>Nordstrand</td><td>mit Nordstrandischmoor</td></tr>
 </tbody>
+</table>
 
 sowie die Deiche und Vorländereien an der gesamten Westküste und die gefährdeten Deiche an der Ostküste.
 
+<table>
 <tbody><tr><td colspan="2">Insel Sylt mit den Gemeinden:</td></tr>
 <tr><td>046</td><td>Hörnum</td></tr>
 <tr><td>061</td><td>Kampen</td></tr>
@@ -740,23 +781,30 @@ sowie die Deiche und Vorländereien an der gesamten Westküste und die gefährde
 <tr><td>149</td><td>Wennigstedt</td></tr>
 <tr><td>151</td><td>Westerland, Stadt</td></tr>
 </tbody>
+</table>
 
 061 Landkreis Steinburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Altenmoor</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>044</td><td>Horst</td><td>  </td></tr>
 <tr><td>050</td><td>Kiebitzreihe</td><td>mit Orsteil Noordiek Flur 20, 21, 23, 24</td></tr>
 </tbody>
+</table>
 
 062 Landkreis Stormarn
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>020</td><td>Grande</td></tr>
 </tbody>
+</table>
 
 HAMBURG
 
@@ -772,6 +820,7 @@ Alle Flächen der nachstehend aufgeführten Bezirke oder Ortsteile, die im gelte
 
 einschließlich der Dorfgebiete dargestellt sind.
 
+<table>
 <tbody><tr><td colspan="2">Bezirk</td></tr>
 <tr><td>Altona</td><td>mit den Ortsteilen Osdorf, Rissen Sülldorf</td></tr>
 <tr><td>Eimsbüttel</td><td>mit den Ortsteilen Eidelstedt, Niendorf, Schnelsen</td></tr>
@@ -780,6 +829,7 @@ einschließlich der Dorfgebiete dargestellt sind.
 <tr><td colspan="2">Bezirk</td></tr>
 <tr><td>Hamburg Mitte</td><td>mit dem Ortsteil Insel Neuwerk.</td></tr>
 </tbody>
+</table>
 
 NIEDERSACHSEN
 
@@ -797,13 +847,16 @@ Gemeinde Ortsteil
 
 03 Wolfsburg, Stadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>000</td><td>Wolfsburg, Stadt</td><td> Velstove  Vorsfelde  Wendschott </td></tr>
 </tbody>
+</table>
 
 Landkreis: 51 Gifhorn
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Adenbüttel</td><td>Rolfsbüttel</td></tr>
@@ -836,15 +889,19 @@ Landkreis: 51 Gifhorn
 <tr><td>039</td><td>Weyhausen</td><td>  </td></tr>
 <tr><td>040</td><td>Wittingen, Stadt</td><td>Vorhop</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="2">Gemeindefreies Gebiet</td></tr>
 <tr><td>501</td><td>Giebel</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 2 Hannover
 
 Landkreis: 51 Diepholz
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>003</td><td>Bahrenborstel</td></tr>
@@ -877,9 +934,11 @@ Landkreis: 51 Diepholz
 <tr><td>045</td><td>Wehrbleck</td><td>  </td></tr>
 <tr><td>046</td><td>Wetschen</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 53 Hannover
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>002</td><td>Burgdorf, Stadt</td><td> Otze  Ramlingen-Ehlershausen </td></tr>
@@ -891,7 +950,9 @@ Landkreis: 53 Hannover
 <tr><td>017</td><td>Uetze</td><td> Hänigsen  Obershagen </td></tr>
 <tr><td>018</td><td>Wedemark</td><td> Abbensen  Berkhof  Brelingen  Elze  Meitze  Negenborn  Oegenbostel  Resse </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Garbsen, Stadt</td><td>Berenbostel, Osterwald O. E., Stelingen</td></tr>
 <tr><td>007</td><td>Isernhagen</td><td>Altwarmbüchen, Isernhagen HB, Kirchhorst</td></tr>
@@ -900,9 +961,11 @@ Landkreis: 53 Hannover
 <tr><td>011</td><td>Neustadt am Rübenberge, Stadt</td><td>Borstel</td></tr>
 <tr><td>018</td><td>Wedemark</td><td>Gailhof</td></tr>
 </tbody>
+</table>
 
 Landkreis: 56 Nienburg (Weser)
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>002</td><td>Binnen</td></tr>
@@ -927,11 +990,13 @@ Landkreis: 56 Nienburg (Weser)
 <tr><td>033</td><td>Uchte, Flecken</td><td>  </td></tr>
 <tr><td>034</td><td>Warmsen</td><td>  </td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 3 Lüneburg
 
 Landkreis: 51 Celle
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Adelheidsdorf</td></tr>
@@ -949,14 +1014,18 @@ Landkreis: 51 Celle
 <tr><td>023</td><td>Wietze</td><td>  </td></tr>
 <tr><td>024</td><td>Winsen (Aller)</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>009</td><td>Eschede</td><td>Dalle, Weyhausen</td></tr>
 <tr><td>013</td><td>Hermannsburg</td><td>Weesen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 52 Cuxhaven
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Appeln</td></tr>
@@ -1006,13 +1075,17 @@ Landkreis: 52 Cuxhaven
 <tr><td>E 056</td><td>Wingst</td><td>  </td></tr>
 <tr><td>058</td><td>Wulsbüttel</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>011</td><td>Cuxhaven, Stadt</td><td>Sahlenburg, Stickenbüttel, Süder- und Westerwisch</td></tr>
 </tbody>
+</table>
 
 Landkreis: 53 Harburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>002</td><td>Asendorf</td></tr>
@@ -1046,14 +1119,18 @@ Landkreis: 53 Harburg
 <tr><td>041</td><td>Wistedt</td><td>  </td></tr>
 <tr><td>042</td><td>Wulfsen</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>026</td><td>Neu Wulmstorf</td><td>Daerstorf (Exklave Daerstorfer Moor)</td></tr>
 <tr><td>031</td><td>Seevetal</td><td>Horst, Maschen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 54 Lüchow-Dannenberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>002</td><td>Clenze, Flecken</td><td> Bausen  Granstedt  Sachau </td></tr>
@@ -1083,9 +1160,11 @@ Landkreis: 54 Lüchow-Dannenberg
 <tr><td>026</td><td>Wustrow, Stadt</td><td>  </td></tr>
 <tr><td>027</td><td>Zernien</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 55 Lüneburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Adendorf</td></tr>
@@ -1117,13 +1196,17 @@ Landkreis: 55 Lüneburg
 <tr><td>041</td><td>Westergellersen</td><td>  </td></tr>
 <tr><td>042</td><td>Wittorf</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>027</td><td>Oldendorf</td><td>Wetzen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 56 Osterholz
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Axstedt</td></tr>
@@ -1138,9 +1221,11 @@ Landkreis: 56 Osterholz
 <tr><td>010</td><td>Vollersode</td><td>  </td></tr>
 <tr><td>011</td><td>Worpswede</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 57 Rotenburg (Wümme)
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Ahausen</td></tr>
@@ -1201,9 +1286,11 @@ Landkreis: 57 Rotenburg (Wümme)
 <tr><td>056</td><td>Wohnste</td><td>  </td></tr>
 <tr><td>057</td><td>Zeven, Stadt</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 58 Soltau-Fallingbostel
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Ahlden (Aller), Flecken</td></tr>
@@ -1230,9 +1317,11 @@ Landkreis: 58 Soltau-Fallingbostel
 <tr><td>022</td><td>Walsrode, Stadt</td><td> Benzen  Bockhorn  Düshorn  Groß Eilstorf  Hamwiede  Hollige  Krelingen  Nordkampen  Südkampen  Westenholz </td></tr>
 <tr><td>023</td><td>Wietzendorf</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 59 Stade
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Agathenburg</td></tr>
@@ -1266,26 +1355,34 @@ Landkreis: 59 Stade
 <tr><td>039</td><td>Steinkirchen</td><td>  </td></tr>
 <tr><td>040</td><td>Wischhafen</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>010</td><td>Buxtehude, Stadt</td><td>Buxtehude, Ovelgönne</td></tr>
 <tr><td>037</td><td>Sauensiek</td><td>Wiegersen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 60 Uelzen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>004</td><td>Bienenbüttel</td><td> Grünhagen  Hohenbostel  Niendorf  Wulfstorf </td></tr>
 <tr><td>007</td><td>Eimke</td><td>Wichtenbeck</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>029</td><td>Wriedel</td><td>Brambostel</td></tr>
 </tbody>
+</table>
 
 Landkreis: 61 Verden
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Achim, Stadt</td><td> Achim  Baden  Embsen  Uphusen </td></tr>
@@ -1296,38 +1393,50 @@ Landkreis: 61 Verden
 <tr><td>009</td><td>Oyten</td><td>  </td></tr>
 <tr><td>012</td><td>Verden (Aller), Stadt</td><td> Borstel  Eitze  Scharnhorst  Verden (Aller), Stadt  Walle </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>012</td><td>Verden (Aller), Stadt</td><td>Dauelsen</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 4 Weser-Ems
 
 01 Delmenhorst, Stadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>000</td><td>Delmenhorst, Stadt</td><td> Deichhausen  Hasbergen  Iprump  Neuendeel  Schohasbergen </td></tr>
 </tbody>
+</table>
 
 02 Emden, Stadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>000</td><td>Emden, Stadt</td><td> Emden, Stadt  Petkum  Twixlum, Widdelswehr </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="2">Kreisfreie Städte</td></tr>
 <tr><td>403</td><td>Oldenburg, Stadt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>401</td><td>Delmenhorst, Stadt</td><td>Adelheide, Annenheide, Annenriede, Bungerhof, Deichhorst, Delmenhorst, Stickgras</td></tr>
 <tr><td>402</td><td>Emden, Stadt</td><td>Wybelsum Flur 16</td></tr>
 </tbody>
+</table>
 
 Landkreis: 51 Ammerland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>E 001</td><td>Apen</td></tr>
@@ -1337,9 +1446,11 @@ Landkreis: 51 Ammerland
 <tr><td>E 007</td><td>Westerstede, Stadt</td><td>  </td></tr>
 <tr><td>E 008</td><td>Wiefelstede</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 52 Aurich
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Aurich, Stadt</td></tr>
@@ -1360,7 +1471,9 @@ Landkreis: 52 Aurich
 <tr><td>024</td><td>Upgant-Schott</td><td>Siegelsum</td></tr>
 <tr><td>025</td><td>Wiesmoor</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Dornum, Flecken</td><td>Dornum Flur 7 und 8</td></tr>
 <tr><td>014</td><td>Krummhörn</td><td>Canum Flur 2, 3, 4 und 5, Pawsum Flur 10 und 12, Uttum Flur 3, 4, 5, 9, 10 und 18</td></tr>
@@ -1368,9 +1481,11 @@ Landkreis: 52 Aurich
 <tr><td>019</td><td>Norden</td><td>Norden Flur 6, 7, 8, 9, 10, 11, 12, 13, 39, 40 und 41, Ostermarsch Flur 8, 11 und 12, Süderneuland II Flur 5</td></tr>
 <tr><td>021</td><td>Osteel</td><td>Osteel Flur 1, 2, 16, 17, 18, 19 und 20</td></tr>
 </tbody>
+</table>
 
 Landkreis: 53 Cloppenburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Barßel</td></tr>
@@ -1387,14 +1502,18 @@ Landkreis: 53 Cloppenburg
 <tr><td>E 012</td><td>Molbergen</td><td>  </td></tr>
 <tr><td>013</td><td>Saterland</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>003</td><td>Cappeln (Oldenburg)</td><td>Bokel Flur 17, Cappeln Flur 1, 2 und 4, Schwichteler Flur 8, 9 und 10, Tenstedt Flur 12, 13 und 14</td></tr>
 <tr><td>004</td><td>Cloppenburg, Stadt</td><td>Lankum</td></tr>
 </tbody>
+</table>
 
 Landkreis: 54 Emsland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Andervenne</td></tr>
@@ -1458,9 +1577,11 @@ Landkreis: 54 Emsland
 <tr><td>059</td><td>Wettrup</td><td>  </td></tr>
 <tr><td>060</td><td>Wippingen</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 55 Friesland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>007</td><td>Jever, Stadt</td><td> Cleverns-Nord  Cleverns-Süd  Sandeler Horsten  Sandeler Möns </td></tr>
@@ -1469,7 +1590,9 @@ Landkreis: 55 Friesland
 <tr><td>026</td><td>Varel, Stadt</td><td> Altjührden-Ost  Altjührden-West  Borgstede  Bramloge  Büppel  Dangastermoor  Grünenkamp  Langendamm-Ost  Langendamm-West  Neudorf  Neuenwege  Obenstrohe-Mitte  Obenstrohe-Nord  Obenstrohe-Süd  Rallenbüschen  Rosenberg  Winkelsheide </td></tr>
 <tr><td>027</td><td>Zetel</td><td> Astede  Astederfeld  Bohlenberge  Bohlenbergerfeld  Collstede  Fuhrenkamp  Groß Schweinebrück  Klein Schweinebrück  Neuenburg  Neuenburgerfeld  Ruttel  Zetel-Mitte  Zetel-Nord  Zetel-Ost  Zetel-Süd  Zetel-West </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>007</td><td>Jever, Stadt</td><td>Moorwarfen, Rahrdum (Jever), Rahrdum (Cleverns), Innere Stadt</td></tr>
 <tr><td>015</td><td>Schortens</td><td>Grafschaft ohne Clarum, Gem. Gillenstede Flur 11, Groß Ostiem I, Gem. Schortens Flur 18, 19 und 20 tlw., Heidemühle, Jungfernbusch, Sillenstede-West Flur 1, 2, 3, 4, 5 tlw., 10, 13 und 14</td></tr>
@@ -1478,9 +1601,11 @@ Landkreis: 55 Friesland
 <tr><td>027</td><td>Zetel</td><td>Driefel</td></tr>
 <tr><td>020</td><td>Wangerland</td><td>Wiedel-Folkertshausen Gem. Waddewarden Flur 8 tlw.</td></tr>
 </tbody>
+</table>
 
 Landkreis: 56 Grafschaft Bentheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Bad Bentheim, Stadt</td></tr>
@@ -1510,9 +1635,11 @@ Landkreis: 56 Grafschaft Bentheim
 <tr><td>025</td><td>Wietmarschen</td><td>  </td></tr>
 <tr><td>026</td><td>Wilsum</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 57 Leer
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Boen</td></tr>
@@ -1536,16 +1663,20 @@ Landkreis: 57 Leer
 <tr><td>022</td><td>Westoverledingen</td><td> Breinermoor  Flachsmeer  Folmhusen  Großwolde  Ihren  Ihrhove  Mitling-Mark  Steenfelde  Völlen </td></tr>
 <tr><td>023</td><td>Wymeer</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>007</td><td>Dollart</td><td>Bunderhammrich Flur 1, 2, 3, 6 und 5 tlw.</td></tr>
 <tr><td>012</td><td>Jemgum</td><td>Jemgum, Pogum</td></tr>
 <tr><td>013</td><td>Leer (Ostfriesland), Stadt</td><td>Hohegaste, Nettelburg</td></tr>
 <tr><td>022</td><td>Westoverledingen</td><td>Grotegaste</td></tr>
 </tbody>
+</table>
 
 Landkreis: 58 Oldenburg (Oldb.)
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Beckeln</td></tr>
@@ -1560,13 +1691,17 @@ Landkreis: 58 Oldenburg (Oldb.)
 <tr><td>013</td><td>Wardenburg</td><td>  </td></tr>
 <tr><td>014</td><td>Wildeshausen, Stadt</td><td> Aumühle  Glane </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>008</td><td>Harpstedt, Flecken</td><td> Winkelsett  Gemarkung Winkelsett Flur 1, 2, 13, 17, 18, 19, 21 und 29, Flur 20, 22, 24 und 25 teilweise  Gemarkung Reckum Flur 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 und 11 </td></tr>
 </tbody>
+</table>
 
 Landkreis: 59 Osnabrück
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Alfhausen</td><td> Alfhausen  Thiene </td></tr>
@@ -1590,23 +1725,29 @@ Landkreis: 59 Osnabrück
 <tr><td>031</td><td>Rieste</td><td>  </td></tr>
 <tr><td>032</td><td>Voltlage</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Ankum</td><td>Druchhorn, Loxter Ort Gem. Nortrup/Ankum Flur 19, 20, 18 (südl. Teil)</td></tr>
 <tr><td>003</td><td>Bad Essen</td><td>Heithöfen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 60 Vechta
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>002</td><td>Damme, Stadt</td><td> Rottinghausen  Sierhausen  Südfelde </td></tr>
 <tr><td>005</td><td>Holdorf</td><td>Grandorf</td></tr>
 <tr><td>007</td><td>Neuenkirchen (Oldenburg)</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 61 Wesermarsch
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>E 001</td><td>Berne</td></tr>
@@ -1615,14 +1756,18 @@ Landkreis: 61 Wesermarsch
 <tr><td>006</td><td>Lemwerder</td><td>  </td></tr>
 <tr><td>E 008</td><td>Ovelgönne</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Brake, Stadt</td><td>Hamelwarder-Außendeich, Harrierwurp, Norderfeld, Süderfeld</td></tr>
 <tr><td>009</td><td>Stadland</td><td>Reitland, Schweieraußendeich I und II, Seefeldermoor Gem. Seefeld Flur 6, 7 tlw., Norderaußendeieh Gem. Seefeld Flur 6, 7 tlw., Süderaußendeich Gem. Seefeld Flur 6, 8, 10, 11 tlw., Norderschwei Gem. Schwei Flur 5, 6, Schwei Gem. Schwei Flur 7, 9 tlw., Süderschwei/Achterstadt Gem. Schwei Flur 8, 14, 12, 13 tlw., Kötermoor Gem. Schwei Flur 14, 15, 16, 12 und 13 tlw.</td></tr>
 </tbody>
+</table>
 
 Landkreis: 62 Wittmund
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Blomberg</td></tr>
@@ -1641,10 +1786,13 @@ Landkreis: 62 Wittmund
 <tr><td>018</td><td>Westerholt</td><td>  </td></tr>
 <tr><td>019</td><td>Wittmund, Stadt</td><td> Ardorf  Blersum  Burhafe  Hovel  Leerhafe  Uttel  Willen  Wittmund, Stadt </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>010</td><td>Neuherlingersiel</td><td>Ostbense Flur 4, 5, und 6</td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
@@ -1652,12 +1800,15 @@ Regierungsbezirk: 1 Braunschweig
 
 Landkreis: 51 Gifhorn
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>017</td><td>Meinersen</td><td>Ohof</td></tr>
 </tbody>
+</table>
 
 Landkreis: 52 Göttingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td> 001  </td><td> Adelebsen  </td></tr>
@@ -1665,7 +1816,9 @@ Landkreis: 52 Göttingen
 <tr><td>019</td><td>Rhumspringe</td><td>  </td></tr>
 <tr><td>022</td><td>Rüdershausen</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Bovenden</td><td>Billingshausen, Spanbeck</td></tr>
 <tr><td>006</td><td>Dransfeld, Stadt</td><td>Ossenfeld, Varmissen</td></tr>
@@ -1678,9 +1831,11 @@ Landkreis: 52 Göttingen
 <tr><td>026</td><td>Staufenberg</td><td>Nienhagen, Sichelnstein</td></tr>
 <tr><td>027</td><td>Waake</td><td>Bösinghausen, Waake</td></tr>
 </tbody>
+</table>
 
 Landkreis: 53 Goslar
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Altenau, Bergstadt</td></tr>
@@ -1693,15 +1848,19 @@ Landkreis: 53 Goslar
 <tr><td>015</td><td>Wildmann, Bergstadt</td><td>  </td></tr>
 <tr><td>504</td><td>Gemeindefreies Gebiet Harz</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 54 Helmstedt
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>018</td><td>Rennau</td><td>Rottorf</td></tr>
 </tbody>
+</table>
 
 Landkreis: 55 Northeim
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Bodenfelde</td><td>Nienover</td></tr>
 <tr><td>005</td><td>Hordegsen, Stadt</td><td>Asche, Ertinghausen, Espol, Hettensen, Lichtenborn, Trögen</td></tr>
@@ -1709,9 +1868,11 @@ Landkreis: 55 Northeim
 <tr><td>010</td><td>Nörten-Hardenberg</td><td>Flecken Sudershausen</td></tr>
 <tr><td>012</td><td>Uslar, Stadt</td><td>Delliehausen, Fürstenhagen, Gierswalde, Schlarpe, Schönhagen, Volpriehausen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 56 Osterode am Harz
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td><td rowspan="2">Ortsteil</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>001</td><td>Bad Grund (Harz), Bergstadt</td></tr>
@@ -1728,87 +1889,110 @@ Landkreis: 56 Osterode am Harz
 <tr><td>016</td><td>Zorge</td><td>  </td></tr>
 <tr><td>501</td><td>Gemeindefreies Gebiet Harz</td><td>  </td></tr>
 </tbody>
+</table>
 
 Landkreis: 57 Peine
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>001</td><td>Edemissen</td><td>Plockhorst</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 2 Hannover
 
 Landkreis: 52 Hameln-Pyrmont
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>003</td><td>Bad Pyrmont, Stadt</td><td>Baarsen, Eichenborn, Großenberg, Hagen, Kleinenberg, Neersen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 54 Hildesheim
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Alfeld (Leine), Stadt</td><td>Langenholzen, Sack</td></tr>
 <tr><td>023</td><td>Lamspringe, Flecken</td><td>Irmenseul</td></tr>
 <tr><td>097</td><td>Duingen, Flecken</td><td>Capellenhagen</td></tr>
 </tbody>
+</table>
 
 Landkreis: 55 Holzminden
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>003</td><td>Bodenwerder, Stadt</td><td>Rühle</td></tr>
 <tr><td>008</td><td>Delligsen, Flecken</td><td>Delligsen, Grüneplan, Kaierde</td></tr>
 <tr><td>023</td><td>Holzminden, Stadt</td><td>Neuhaus im Solling, Silberborn</td></tr>
 <tr><td>034</td><td>Stadtoldendorf, Stadt</td><td>Emmerborn, Hellental, Linnenkamp</td></tr>
 </tbody>
+</table>
 
 Landkreis: 57 Schaumburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>003</td><td>Auetal</td><td>Raden</td></tr>
 <tr><td>031</td><td>Rinteln, Stadt</td><td>Friedrichswald, Goldbeck, Wennenkamp</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 3 Lüneburg
 
 Landkreis: 60 Uelzen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>020</td><td>Soltendieck</td><td>Kakau, Varbitz</td></tr>
 </tbody>
+</table>
 
 Landkreis: 61 Verden
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>004</td><td>Emtinghausen</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk: 4 Weser-Ems
 
 Landkreis: 52 Aurich
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>002</td><td>Baltrum</td></tr>
 <tr><td>013</td><td>Juist</td></tr>
 <tr><td>020</td><td>Norderney, Stadt</td></tr>
 </tbody>
+</table>
 
 Landkreis: 55 Friesland
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>021</td><td>Wangerooge, Nordseebad</td></tr>
 </tbody>
+</table>
 
 Landkreis: 57 Leer
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>002</td><td>Borkum, Stadt</td></tr>
 </tbody>
+</table>
 
 Landkreis: 62 Wittmund
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>007</td><td>Langeoog</td></tr>
 <tr><td>014</td><td>Spiekeroog</td></tr>
 </tbody>
+</table>
 
 ▼
 
@@ -1818,6 +2002,7 @@ Land: NIEDERSACHSEN (Ergänzung)
 
 Von Mecklenburg-Vorpommern nach Niedersachsen umgegliederte Gemeinden:
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>335</td><td>Landkreis Lüneburg</td><td>15828</td></tr>
 <tr><td rowspan="4">335009</td><td>Bleckede, Stadt</td><td>  </td></tr>
@@ -1826,6 +2011,7 @@ Von Mecklenburg-Vorpommern nach Niedersachsen umgegliederte Gemeinden:
 <tr><td>*Gem. Neu-Wendischthum</td><td>299</td></tr>
 <tr><td>335049</td><td>Neuhaus</td><td>14 907</td></tr>
 </tbody>
+</table>
 
 BREMEN
 
@@ -1844,14 +2030,17 @@ BERGGEBIET
 
 366 Kreis Euskirchen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>020</td><td>Hellenthal</td><td>mit Hollerath, Udenbreth</td></tr>
 </tbody>
+</table>
 
 9 Regierungsbezirk Arnsberg
 
 958 Hochsauerlandkreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>020</td><td>Hallenberg</td><td>mit Trambach</td></tr>
 <tr><td>028</td><td>Medebach</td><td>mit Küstelberg, Titmaringhausen, Wissinghausen</td></tr>
@@ -1860,15 +2049,19 @@ BERGGEBIET
 <tr><td>044</td><td>Sundern</td><td>mit Röhrenspring</td></tr>
 <tr><td>048</td><td>Winterberg</td><td>mit Winterberg, Altastenberg, Elkeringhausen, Grönebach, Hildfeld, Langewiese, Mollseifen, Neuastenberg, Silbach</td></tr>
 </tbody>
+</table>
 
 966 Kreis Olpe
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>016</td><td>Kirchhundem</td><td>mit Heinsberg, Oberhundem</td></tr>
 </tbody>
+</table>
 
 970 Kreis Siegen-Wittgenstein
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Bad Berleburg</td><td>mit Christianseck, Girkhausen, Wunderthausen</td></tr>
 <tr><td>012</td><td>Erndtebrück</td><td>mit Benfe, Zinse</td></tr>
@@ -1877,6 +2070,7 @@ BERGGEBIET
 <tr><td>028</td><td>Laasphe</td><td>mit Großenbach, Heiligenborn</td></tr>
 <tr><td>032</td><td>Netphen</td><td>mit Lahnhof</td></tr>
 </tbody>
+</table>
 
 BENACHTEILIGTE AGRARZONE
 
@@ -1884,31 +2078,40 @@ BENACHTEILIGTE AGRARZONE
 
 354 Kreis Aachen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>020</td><td>Monschau, Stadt</td></tr>
 <tr><td>024</td><td>Roetgen</td></tr>
 <tr><td>028</td><td>Simmerath</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilfläche</td></tr>
 <tr><td>032</td><td>Stolberg</td><td>mit Zweifall</td></tr>
 </tbody>
+</table>
 
 358 Kreis Düren
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>012</td><td>Heimbach</td></tr>
 <tr><td>016</td><td>Hürtgenwald</td></tr>
 <tr><td>044</td><td>Nideggen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>028</td><td>Kreuzau</td><td>mit Bogheim, Bolch-Leversbach, Drove, Obermaulbach-Schlagstein, Thum, Üdingen, Untermaubach</td></tr>
 <tr><td>060</td><td>Vettweiß</td><td>mit Ginnick</td></tr>
 </tbody>
+</table>
 
 366 Kreis Euskirchen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Bad Münstereifel, Stadt</td></tr>
 <tr><td>008</td><td>Blankenheim</td></tr>
@@ -1917,16 +2120,20 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>032</td><td>Nettersheim</td></tr>
 <tr><td>036</td><td>Schleiden, Stadt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>016</td><td>Euskirchen, Stadt</td><td>mit Kirchheim</td></tr>
 <tr><td>020</td><td>Hellenthal</td><td>mit Hellenthal, Losheim</td></tr>
 <tr><td>028</td><td>Mechernich</td><td>mit Berg, Bleibuir, Breitenbenden, Eicks, Floisdorf, Glehn, Harzheim, Holzheim, Hostel, Kollmuth, Kommern, Lorbach, Mechernich, Vussem-Bergheim, Wachendorf, Weller am Berge, Weyer</td></tr>
 <tr><td>044</td><td>Zülpich</td><td>mit Bürvenich</td></tr>
 </tbody>
+</table>
 
 374 Oberbergischer Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Bergneustadt</td></tr>
 <tr><td>012</td><td>Gummersbach</td></tr>
@@ -1936,22 +2143,28 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>040</td><td>Reichshof</td></tr>
 <tr><td>044</td><td>Waldbröl</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>008</td><td>Engelskirchen</td><td>mit Ründeroth</td></tr>
 <tr><td>020</td><td>Lindlar</td><td>mit Gimborn (Teilfläche)</td></tr>
 <tr><td>048</td><td>Wiehl</td><td>mit Wiehl</td></tr>
 <tr><td>052</td><td>Wipperfürth</td><td>mit Klüppelberg und Wipperfeld</td></tr>
 </tbody>
+</table>
 
 382 Rhein-Sieg-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>016</td><td>Eitorf</td></tr>
 <tr><td>052</td><td>Ruppichteroth</td></tr>
 <tr><td>076</td><td>Windeck</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>020</td><td>Hennef</td><td>mit Uckerath</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -1959,33 +2172,41 @@ BENACHTEILIGTE AGRARZONE
 <tr><td colspan="3"></td></tr>
 <tr><td>048</td><td>Rheinbach, Stadt</td><td>mit Hilberath, Neukirchen, Queckenberg, Todenfeld</td></tr>
 </tbody>
+</table>
 
 5 Regierungsbezirk Münster
 
 566 Kreis Steinfurt
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>020</td><td>Hopsten</td><td>mit Halverde, Schale</td></tr>
 </tbody>
+</table>
 
 7 Regierungsbezirk Detmold
 
 770 Kreis Minden-Lübbecke
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>040</td><td>Rahden</td></tr>
 <tr><td>044</td><td>Stemwede</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>008</td><td>Espelkamp</td><td>mit Espelkamp, Fabbenstedt, Frotheim, Vehlage</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>028</td><td>Stadt Petershagen</td><td> mit Wasserstraße  mit Seelenfeld, Neuenknick </td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 762 Kreis Höxter
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Bad Driburg</td><td>mit Alhausen, Bad Driburg, Dringenberg, Erpentrup, Herste, Kühlsen, Langeland, Neuenheerse, Pömbsen, Reelsen</td></tr>
 <tr><td>008</td><td>Beverungen</td><td>mit Dahlhausen, Haarbrück, Jacobsberg, Rothe, Tietelsen</td></tr>
@@ -1998,14 +2219,18 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>036</td><td>Warburg</td><td>mit Bonenburg, Scherfede</td></tr>
 <tr><td>040</td><td>Willebadessen</td><td>mit Altenheerse, Borlinghausen, Fölsen, Helmern, Ikenhausen, Niesen, Willebadessen</td></tr>
 </tbody>
+</table>
 
 766 Kreis Lippe
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Augustdorf</td></tr>
 <tr><td>064</td><td>Schlangen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>012</td><td>Barntrup</td><td>mit Alverdissen, Sonneborn</td></tr>
 <tr><td>016</td><td>Blomberg</td><td>mit Eschenbruch</td></tr>
@@ -2013,9 +2238,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>032</td><td>Horn-Bad Meinberg</td><td>mit Bellenberg, Holzhausen-Externsteine, Kempenfeldrom, Veldrom</td></tr>
 <tr><td>012</td><td>Lügde</td><td>mit Falkenhagen, Hummersen, Köterberg, Lügde, Niese, Wörderfeld</td></tr>
 </tbody>
+</table>
 
 744  Kreis Paderborn
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Altenbeken</td><td>mit Altenbeken, Buke, Schwaney</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -2028,6 +2255,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>036</td><td>Salzkotten</td><td>mit Niederntudorf</td></tr>
 <tr><td>040</td><td>Wünnenberg</td><td>mit Bleiwäsche, Elisenhof, Fürstenberg, Haaren, Helmern, Leiberg, Wünnenberg-Stadt</td></tr>
 </tbody>
+</table>
 
 745 Kreis Gütersloh
 
@@ -2040,18 +2268,23 @@ BENACHTEILIGTE AGRARZONE
 
 9 Regierungsbezirk Arnsberg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>914</td><td>Stadt Hagen</td><td>mit Dahl</td></tr>
 </tbody>
+</table>
 
 954 Kreis Ennepe-Ruhr
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>004</td><td>Breckerfeld</td></tr>
 </tbody>
+</table>
 
 958 Hochsauerlandkreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Bestwig</td></tr>
 <tr><td>012</td><td>Brilon</td></tr>
@@ -2059,7 +2292,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>016</td><td>Eslohe</td></tr>
 <tr><td>024</td><td>Marsberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Arnsberg</td><td>mit Arnsberg-Stadt, Breitenbruch, Herdringen, Holzen, Müschede, Wennigloh</td></tr>
 <tr><td>020</td><td>Hallenberg</td><td>ohne Trambach</td></tr>
@@ -2069,9 +2304,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>040</td><td>Schmallenberg</td><td>ohne Nesselbach, Ohlenbach, Nordenau, Hoher Knochen, Jagdhaus, Schanze</td></tr>
 <tr><td>048</td><td>Winterberg</td><td>mit Niedersfeld, Siedlingshausen, Züschen</td></tr>
 </tbody>
+</table>
 
 962 Märkischer Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Altena</td></tr>
 <tr><td>012</td><td>Halver</td></tr>
@@ -2084,7 +2321,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>056</td><td>Schalksmühle</td></tr>
 <tr><td>060</td><td>Werdohl</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>008</td><td>Balve</td><td>mit Langenholzhausen, Leveringhausen, Mellen</td></tr>
 <tr><td>016</td><td>Hemer</td><td>mit Frönsberg, Ihmert</td></tr>
@@ -2092,9 +2331,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>040</td><td>Menden</td><td>mit Asbeck</td></tr>
 <tr><td>048</td><td>Neuenrade</td><td>mit Affeln, Altenaffeln, Blintrop, Neuenrade</td></tr>
 </tbody>
+</table>
 
 966 Kreis Olpe
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Attendorn</td></tr>
 <tr><td>008</td><td>Drolshagen</td></tr>
@@ -2103,13 +2344,17 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>024</td><td>Olpe</td></tr>
 <tr><td>028</td><td>Wenden</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>016</td><td>Kirchhundem</td><td>mit Kirchhundem, Kohlhagen, Rahrbach</td></tr>
 </tbody>
+</table>
 
 970 Kreis Siegen-Wittgenstein
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Burbach</td></tr>
 <tr><td>016</td><td>Freudenberg</td></tr>
@@ -2117,7 +2362,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>040</td><td>Siegen</td></tr>
 <tr><td>044</td><td>Wilnsdorf</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Bad Berleburg</td><td>ohne Christianseck, Girkhausen, Wunderthausen</td></tr>
 <tr><td>012</td><td>Erndtebrück</td><td>ohne Benfe, Zinse</td></tr>
@@ -2126,14 +2373,17 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>028</td><td>Laasphe</td><td>ohne Großenbach, Heiligenborn</td></tr>
 <tr><td>032</td><td>Netphen</td><td>ohne Lahnhof</td></tr>
 </tbody>
+</table>
 
 974 Kreis Soest
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Anröchte</td><td>mit Effeln</td></tr>
 <tr><td>036</td><td>Rüthen</td><td>mit Altenrüthen, Drewer, Hemmern, Kallenhardt, Kellinghausen, Kneblinghausen, Meiste, Menzel, Rüthen-Stadt</td></tr>
 <tr><td>044</td><td>Warstein</td><td>mit Allagen, Belecke, Hirschberg, Mülheim, Sichtigvor, Suttrop, Waldhausen, Warstein</td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
@@ -2177,6 +2427,7 @@ BENACHTEILIGTE AGRARZONE
 
 431 Landkreis Bergstraße
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>431</td><td>1</td><td>10</td><td>Abtsteinach-Mackenheim</td></tr>
@@ -2250,9 +2501,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>431</td><td>21</td><td>90</td><td>Wald-Michelbach-U.-Schönmat</td></tr>
 <tr><td>431</td><td>21</td><td>100</td><td>Wald-Michelbach</td></tr>
 </tbody>
+</table>
 
 432 Landkreis Darmstadt-Dieburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>432</td><td>7</td><td>10</td><td>Fischbachtal-Billings</td></tr>
@@ -2267,9 +2520,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>432</td><td>22</td><td>10</td><td>Seeheim-Balkhausen</td></tr>
 <tr><td>432</td><td>22</td><td>40</td><td>Seeheim-Ober-Beerbach</td></tr>
 </tbody>
+</table>
 
 434 Hochtaunuskreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>434</td><td>3</td><td>10</td><td>Glashütten</td></tr>
@@ -2320,9 +2575,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>434</td><td>13</td><td>120</td><td>Weilrod-Rod a. d. Weil</td></tr>
 <tr><td>434</td><td>13</td><td>130</td><td>Weilrod- Winden</td></tr>
 </tbody>
+</table>
 
 435 Main-Kinzig-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>435</td><td>1</td><td>0</td><td>Bad Orb</td></tr>
@@ -2420,9 +2677,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>435</td><td>29</td><td>80</td><td>Wächtersbach- Wittgenborn</td></tr>
 <tr><td>435</td><td>200</td><td>0</td><td>Gutsbezirk Spessart</td></tr>
 </tbody>
+</table>
 
 436 Main-Taunus-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>436</td><td>1</td><td>10</td><td>Bad Soden-Altenhain</td></tr>
@@ -2437,9 +2696,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>436</td><td>8</td><td>20</td><td>Kelkheim-Fischbach</td></tr>
 <tr><td>436</td><td>8</td><td>40</td><td>Kelkheim-Ruppertshain</td></tr>
 </tbody>
+</table>
 
 437 Odenwaldkreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>437</td><td>1</td><td>20</td><td>Bad König-Etzen-Gesäß</td></tr>
@@ -2525,9 +2786,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>437</td><td>15</td><td>20</td><td>Sensbachtal-Ober-Sensbach</td></tr>
 <tr><td>437</td><td>15</td><td>30</td><td>Sensbachtal-Unt.-Sensbach</td></tr>
 </tbody>
+</table>
 
 439 Rheingau-Taunus-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>439</td><td>1</td><td>10</td><td>Aarbergen-Daisbach</td></tr>
@@ -2612,9 +2875,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>439</td><td>16</td><td>50</td><td>Waldems-Steinfischbach</td></tr>
 <tr><td>439</td><td>16</td><td>60</td><td>Waldems-Wüstems</td></tr>
 </tbody>
+</table>
 
 440 Wetteraukreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>440</td><td>4</td><td>60</td><td>Büdingen-Dudenrod</td></tr>
@@ -2646,11 +2911,13 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>440</td><td>19</td><td>70</td><td>Ortenberg</td></tr>
 <tr><td>440</td><td>19</td><td>90</td><td>Ortenberg-Usenborn</td></tr>
 </tbody>
+</table>
 
 5 Reg.-Bez. Gießen
 
 531 Landkreis Gießen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>531</td><td>2</td><td>10</td><td>Biebertal-Fellingshausen</td></tr>
@@ -2671,9 +2938,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>531</td><td>18</td><td>10</td><td>Wettenberg-Krofdorf-Gleib</td></tr>
 <tr><td>531</td><td>18</td><td>30</td><td>Wettenberg-Wissmar</td></tr>
 </tbody>
+</table>
 
 532 Lahn-Dill-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>532</td><td>1</td><td>10</td><td>Asslar</td></tr>
@@ -2799,9 +3068,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>532</td><td>22</td><td>60</td><td>Waldsolms-Weiperfelden</td></tr>
 <tr><td>532</td><td>23</td><td>10</td><td>Wetzlar-Blasbach</td></tr>
 </tbody>
+</table>
 
 533 Landkreis Limburg-Weilburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>533</td><td>3</td><td>20</td><td>Camberg-Dombach</td></tr>
@@ -2846,9 +3117,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>533</td><td>18</td><td>120</td><td>Weilmünster-Wolfenhausen</td></tr>
 <tr><td>533</td><td>19</td><td>10</td><td>Weinbach-Blessenbach</td></tr>
 </tbody>
+</table>
 
 534 Landkreis Marburg-Biedenkopf
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>534</td><td>1</td><td>10</td><td>Amöneburg</td></tr>
@@ -2960,9 +3233,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>534</td><td>22</td><td>30</td><td>Wohratal-Langendorf</td></tr>
 <tr><td>534</td><td>22</td><td>40</td><td>Wohratal-Wohra</td></tr>
 </tbody>
+</table>
 
 535 Vogelsbergkreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>535</td><td>1</td><td>40</td><td>Alsfeld-Berfa</td></tr>
@@ -3107,11 +3382,13 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>535</td><td>19</td><td>10</td><td>Wartenberg-Angersbach</td></tr>
 <tr><td>535</td><td>19</td><td>20</td><td>Wartenberg-Landenhausen</td></tr>
 </tbody>
+</table>
 
 63 Regierungsbezirk Kassel
 
 631 Landkreis Fulda
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>631</td><td>1</td><td>0</td><td>Bad Salzschlirf</td></tr>
@@ -3293,9 +3570,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>631</td><td>23</td><td>90</td><td>Tann-Theobaldshof</td></tr>
 <tr><td>631</td><td>23</td><td>100</td><td>Tann-Wendershausen</td></tr>
 </tbody>
+</table>
 
 632 Landkreis Hersfeld-Rothenburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>632</td><td>1</td><td>10</td><td>Alheim-Baumbach</td></tr>
@@ -3453,9 +3732,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>632</td><td>20</td><td>40</td><td>Wildeck-Rassdorf</td></tr>
 <tr><td>632</td><td>20</td><td>50</td><td>Wildeck-Richelsdorf</td></tr>
 </tbody>
+</table>
 
 633 Landkreis Kassel
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>633</td><td>1</td><td>20</td><td>Ahnatal-Weimar</td></tr>
@@ -3484,9 +3765,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>633</td><td>29</td><td>60</td><td>Zierenberg-Ölshausen</td></tr>
 <tr><td>633</td><td>29</td><td>70</td><td>Zierenberg</td></tr>
 </tbody>
+</table>
 
 634 Schwalm-Eder-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>634</td><td>1</td><td>30</td><td>Borken-Dillich</td></tr>
@@ -3577,9 +3860,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>634</td><td>27</td><td>10</td><td>Zwesten-Betzigerode</td></tr>
 <tr><td>634</td><td>27</td><td>50</td><td>Zwesten-Wenzigerode</td></tr>
 </tbody>
+</table>
 
 635 Landkreis Waldeck-Frankenberg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>635</td><td>1</td><td>10</td><td>Allendorf (Eder)</td></tr>
@@ -3716,9 +4001,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>635</td><td>22</td><td>80</td><td>Willingen-Welleringhausen</td></tr>
 <tr><td>635</td><td>22</td><td>90</td><td>Willingen</td></tr>
 </tbody>
+</table>
 
 636 Werra-Meißner-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde-Kennziffer</td><td rowspan="2">Gemeinde-Ortsteil</td></tr>
 <tr><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>636</td><td>1</td><td>10</td><td>B.S.-Allendorf-Ahrenberg</td></tr>
@@ -3822,6 +4109,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>636</td><td>16</td><td>170</td><td>Witzenhausen-Ziegenhagen</td></tr>
 <tr><td>636</td><td>20</td><td>0</td><td>GB. Kaufunger Wald</td></tr>
 </tbody>
+</table>
 
 Gemeinden/Ortsteile
 
@@ -4155,13 +4443,16 @@ BENACHTEILIGTE AGRARZONE
 
 1 Regierungsbezirk Koblenz
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td rowspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>111</td><td>Koblenz, Kreisfreie Stadt mit Teilflächen</td><td>Lay</td></tr>
 </tbody>
+</table>
 
 131 Landkreis Ahrweiler
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>—</td><td>077 00</td><td>Sinzig, Verbandsfreie Gemeinde mit Teilflächen</td><td>Franken</td></tr>
@@ -4202,9 +4493,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>007 00</td><td>Bad Neuenahr-Ahrweiler Ramersbach (2)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 132 Landkreis Altenkirchen
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="38">Altenkirchen</td><td>001 0</td><td>Almersbach</td></tr>
@@ -4280,9 +4573,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>091 06</td><td>Pracht</td><td>  </td></tr>
 <tr><td>  </td><td>102 06</td><td>Seelbach</td><td>  </td></tr>
 </tbody>
+</table>
 
 133 Landkreis Bad Kreuznach
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>02</td><td rowspan="6">Bad Münster am Stein — Ebernburg</td><td> 003 02  </td><td> Altenbamberg  </td></tr>
@@ -4366,9 +4661,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>052 00</td><td>Kirn, Stadt (2)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 134 Landkreis Birkenfeld
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Baumholder</td><td>  </td><td>  </td></tr>
@@ -4378,9 +4675,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>501 00</td><td>Gutsbezirk Baumholder (1)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 135 Landkreis Cochem-Zell
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="6">Cochem Land</td><td>021 01</td><td>Dohr</td></tr>
@@ -4436,9 +4735,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>020 00</td><td>Cochem(2)</td><td> Ellerer Berg  Brauheck  Schafstallerhof </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 137 Landkreis Mayen-Koblenz
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>—</td><td>003 00</td><td>Andernach, Verbandsfreie Gemeinden mit Teilflächen</td><td>Kell</td></tr>
@@ -4488,9 +4789,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>07</td><td>Vallendar</td><td>226 07</td><td>Vallendar (1)</td><td>Bembermühle</td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 138 Landkreis Neuwied
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>—</td><td>045 00</td><td>Neuwied, Verbandsfreie Gemeinde mit Teilflächen</td><td>Burghof</td></tr>
@@ -4518,9 +4821,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>07</td><td>Unkel</td><td>073 07</td><td>Unkel (1)</td><td>Hohenunkel</td></tr>
 <tr><td colspan="5"> (1) Mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 05 Puderbach
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>06</td><td rowspan="13">Rengsdorf</td><td>002 06</td><td>Anhausen</td></tr>
@@ -4548,9 +4853,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>045 00</td><td>Neuwied(3)</td><td>Rockenfeld</td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Rheinhöhe (Flächen östlich der Nr. L 253).  (3) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 140 Landkreis Rhein-Hunsrück
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td colspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>—</td><td>501 00</td><td>Boppard, Verbandsfreie Gemeinde mit Teilflächen</td><td>  </td><td> Hirzenach  Boppard  Bad Salzig </td></tr>
 <tr><td>02</td><td>Emmelshausen</td><td>  </td><td>  </td><td>  </td></tr>
@@ -4569,9 +4876,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>07</td><td>Simmern</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td colspan="6"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 141 Landkreis Rhein-Lahn
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="5">Bad Ems</td><td>201 01</td><td>Arzbach</td></tr>
@@ -4668,9 +4977,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>075 00</td><td>Lahnstein(2)</td><td> Buchholz  Neuborn  Kirchheimersborn  Deutschherrenhütte  Grenzloch  Buchenberg  Schwarzwald </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 143 Landkreis Westerwaldkreis
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>02</td><td rowspan="11">Hachenburg</td><td>212 02</td><td>Borod</td></tr>
@@ -4714,9 +5025,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>077 04</td><td>Untershausen</td><td>  </td></tr>
 <tr><td>  </td><td>079 04</td><td>Welschneudorf</td><td>  </td></tr>
 </tbody>
+</table>
 
 05 Ransbach-Baumbach
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>07</td><td rowspan="15">Selters</td><td>015 07</td><td>Ellenhausen</td></tr>
@@ -4761,6 +5074,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>073 10</td><td>Staudt</td><td>  </td></tr>
 <tr><td>  </td><td>081 10</td><td>Wirges</td><td>  </td></tr>
 </tbody>
+</table>
 
 2 Regierungsbezirk Trier
 
@@ -4773,6 +5087,7 @@ BENACHTEILIGTE AGRARZONE
 
 231 Landkreis Bernkastel-Wittlich
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="16">Bernkastel-Kues</td><td>040 01</td><td>Gornhausen</td></tr>
@@ -4856,9 +5171,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>502 00</td><td>Morbach (2)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen.  (2) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 232 Landkreis Bitburg-Prüm
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Arzfeld</td><td>  </td><td>  </td></tr>
@@ -4965,9 +5282,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>018 00</td><td>Bitburg(1)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 233 Landkreis Daun
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td rowspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Daun</td></tr>
@@ -4976,9 +5295,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>04</td><td>Kelberg</td><td>  </td><td>  </td></tr>
 <tr><td>05</td><td>Obere Kyll</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 235 Landkreis Trier-Saarburg
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Hermeskeil</td><td>  </td><td>  </td></tr>
@@ -5040,6 +5361,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>151 07</td><td>Zemmer</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 3 Regierungsbezirk Rheinhessen-Pfalz
 
@@ -5063,14 +5385,17 @@ BENACHTEILIGTE AGRARZONE
 
 332 Landkreis Bad Dürkheim
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>04</td><td rowspan="2">Hettenleidelheim</td><td>001 04</td><td>Altleiningen</td></tr>
 <tr><td>  </td><td>007 04</td><td>Carlsberg</td><td>  </td></tr>
 </tbody>
+</table>
 
 333 Landkreis Donnersbergkreis
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="16">Alsenz-Obermoschel</td><td>003 01</td><td>Alsenz</td></tr>
@@ -5132,9 +5457,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>503 06</td><td>Winnweiler (1)</td><td> Hochstein  Potzbach  Winnweiler   </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 335 Landkreis Kaiserslautern
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="5">Bruchmühlbach-Miesau</td><td>E 003 01</td><td>Bruchmühlbach-Miesau</td></tr>
@@ -5174,9 +5501,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>043 09</td><td>Schwedelbach(1)</td><td> Pörrbach  Schwedelbach   </td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 336 Landkreis Kusel
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Altenglan</td><td>  </td><td>  </td></tr>
@@ -5241,9 +5570,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>06</td><td>Waldmohr</td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>07</td><td>Wolfstein</td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 337 Landkreis Südliche Weinstraße
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Annweiler</td><td>  </td><td>  </td></tr>
@@ -5254,9 +5585,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>005 02</td><td>Bad Bergzabern(1)</td><td>Blankenhorn</td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 339 Landkreis Mainz-Bingen
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="8">Bingen-Land</td><td>003 01</td><td>Bacharach, Stadt</td></tr>
@@ -5269,9 +5602,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>062 01</td><td>Waldalgesheim(1)</td><td>Hof Immig</td></tr>
 <tr><td colspan="5"> (1) Gemeinde mit Teilflächen. </td></tr>
 </tbody>
+</table>
 
 340 Landkreis Pirmasens
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="14">Dahn</td><td>001 01</td><td>Bobenthal</td></tr>
@@ -5349,6 +5684,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>  </td><td>226 08</td><td>Walshausen</td><td>  </td></tr>
 <tr><td>  </td><td>227 08</td><td>Wiesbach</td><td>  </td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
@@ -5356,6 +5692,7 @@ KLEINES GEBIET
 
 132 Landkreis Altenkirchen
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td rowspan="4">Altenkirchen</td><td>048 01</td><td>Helmeroth</td></tr>
@@ -5373,9 +5710,11 @@ KLEINES GEBIET
 <tr><td>08</td><td>Wissen</td><td>050 00</td><td>Herdorf (1)</td><td>  </td></tr>
 <tr><td colspan="5"> (1) Verbandsfreie Gemeinde. </td></tr>
 </tbody>
+</table>
 
 143 Landkreis Westerwaldkreis
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td colspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>01</td><td>Bad Marienberg</td><td>  </td><td>  </td></tr>
@@ -5439,9 +5778,11 @@ KLEINES GEBIET
 <tr><td>  </td><td>314 09</td><td>Winnen</td><td>  </td></tr>
 <tr><td>10</td><td>Wirges</td><td>275 10</td><td>Niedersayn</td><td>  </td></tr>
 </tbody>
+</table>
 
 3 Regierungsbezirk Rheinhessen-Pfalz
 
+<table>
 <tbody><tr><td colspan="2">Verbandsgemeinden</td><td rowspan="2">Gemeinden</td><td rowspan="2">Ortsteile</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>Kreisfreie Städte mit Teilflächen</td></tr>
@@ -5475,6 +5816,7 @@ KLEINES GEBIET
 <tr><td>07</td><td>Offenbach a. d. Queich (1)</td><td>  </td><td>  </td></tr>
 <tr><td colspan="4"> (1) Die flurstücksscharfe Abgrenzung liegt bei der jeweiligen landwirtschaftlichen Beratungsstelle vor. </td></tr>
 </tbody>
+</table>
 
 BADEN-WÜRTTEMBERG
 
@@ -5484,21 +5826,28 @@ BERGGEBIET
 
 116 Landkreis Esslingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>043</td><td>Neidlingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>079</td><td>Lenningen</td><td>Gutenberg: ohne Krebstein; Oberlenningen, Schlattstall</td></tr>
 </tbody>
+</table>
 
 117 Landkreis Göppingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>007</td><td>Bad Überkingen</td></tr>
 <tr><td>028</td><td>Gruibingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>006</td><td>Bad Ditzenbach</td><td>Auendorf, Bad Ditzenbach: nur Hanglagen; Gosbach: nur Hanglagen</td></tr>
 <tr><td>014</td><td>Deggingen</td><td>Deggingen: nur Hanglagen; Reichenbach im Täle</td></tr>
@@ -5510,59 +5859,75 @@ BERGGEBIET
 <tr><td>058</td><td>Wiesensteig</td><td>ohne Heidental, Lämmerbuckel, Pferchfeld</td></tr>
 <tr><td>061</td><td>Lauterstein</td><td>Nenningen: nur Eigenlau, Galgenberg, Zunderhalde</td></tr>
 </tbody>
+</table>
 
 136 Landkreis Ostalbkreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>065</td><td>Schwäbisch Gmünd</td><td>Degenfeld</td></tr>
 <tr><td>079</td><td>Waldstetten</td><td>Waldstetten: nur Christentalhof, Tannenhalde, Tannweiler; Wißgoldingen: nur Hinterberg, Oberberg, Rechbergle, Schönberg</td></tr>
 </tbody>
+</table>
 
 2 Regierungsbezirk Karlsruhe
 
 216 Landkreis Rastatt
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>013</td><td>Forbach</td><td>Bermersbach, Forbach, Gausbach</td></tr>
 <tr><td>017</td><td>Gernsbach</td><td>Reichental</td></tr>
 </tbody>
+</table>
 
 235 Landkreis Calw
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>018</td><td>Dobel</td></tr>
 <tr><td>025</td><td>Enzklösterle</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>033</td><td>Bad Herrenalb</td><td>Bad Herrenalb</td></tr>
 <tr><td>050</td><td>Neuweiler</td><td>Agenbach</td></tr>
 <tr><td>079</td><td>Wildbad i. Schwarzw.</td><td>Aichelberg, Wildbad</td></tr>
 </tbody>
+</table>
 
 237 Landkreis Freudenstadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Baiersbronn</td></tr>
 <tr><td>075</td><td>Bad Rippoldsau-Schapbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Alpirsbach</td><td>Reinerzau</td></tr>
 <tr><td>028</td><td>Freudenstadt</td><td>Freudenstadt: nur Forbachtal, Kniebis</td></tr>
 <tr><td>073</td><td>Seewald</td><td>Besenfeld, Göttelfingen: nur Eisenbach, Lägerhalde</td></tr>
 </tbody>
+</table>
 
 3 Regierungsbezirk Freiburg
 
 311 Stadtkreis Freiburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>000</td><td>Günterstal</td><td>nur Holzschlägermatte, Schauinsland</td></tr>
 </tbody>
+</table>
 
 315 Landkreis Breisgau-Hochschwarzwald
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>016</td><td>Breitnau</td></tr>
 <tr><td>031</td><td>Eisenbach (Hochschw.)</td></tr>
@@ -5578,7 +5943,9 @@ BERGGEBIET
 <tr><td>113</td><td>Titisee-Neustadt</td></tr>
 <tr><td>130</td><td>Münsteral (Schwarzw.)</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>014</td><td>Bollschweil</td><td>Bollschweil: nur Bitterst; St. Ulrich</td></tr>
 <tr><td>020</td><td>Buchenbach</td><td>Buchenbach: nur Diezenbach, Haberstrohhof, Nesselache, Pfaffendobel, Rufenhof; Falkensteig, Wagensteig, Unteribental: nur Schwärzlehof und anschließendes Gebiet hinteres Ibenbachtal</td></tr>
@@ -5587,23 +5954,31 @@ BERGGEBIET
 <tr><td>109</td><td>Stegen</td><td>Eschbach</td></tr>
 <tr><td>131</td><td>Ehrenkirchen</td><td>Ehrenstetten: nur Kohlerhof</td></tr>
 </tbody>
+</table>
 
 316 Landkreis Emmendingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>042</td><td>Simonswald</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>010</td><td>Elzach</td><td>Oberprechtal, Prechtal, Yach</td></tr>
 </tbody>
+</table>
 
 317 Landkreis Ortenaukreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>008</td><td>Bad Peterstal-Griesbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>051</td><td>Hornberg</td><td>Niederwasser, Reichenbach</td></tr>
 <tr><td>093</td><td>Oberwolfach</td><td>nur Landeck, Schwarzenbruch</td></tr>
@@ -5612,21 +5987,27 @@ BERGGEBIET
 <tr><td>126</td><td>Seebach</td><td>nur Bosenstein</td></tr>
 <tr><td>145</td><td>Wolfach</td><td>Kinzigtal: nur Äcker, Elmlisberg, Grube, Hinterheubach, Oberippichen, Oberlangenbach, Oberübelbach, Ruxen, St. Roman, Trillen; Kirnbach: nur Grafenloch, Grube, Morgend, Mosenmättle, Obertal, Rotsel</td></tr>
 </tbody>
+</table>
 
 325 Landkreis Rottweil
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>036</td><td>Lauterbach</td></tr>
 <tr><td>058</td><td>Tennenbronn</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>050</td><td>Schenkenzell</td><td>Kaltbrunn</td></tr>
 <tr><td>051</td><td>Schiltach</td><td>Lehengericht: nur Hinterholz, Hinterlehen, Hollach, Kienbronn, Obersteigenbach, Ramsel, Untersteigenbach, Vorderlehengericht</td></tr>
 </tbody>
+</table>
 
 326 Landkreis Schwarzwald-Baar-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>017</td><td>Furtwangen</td></tr>
 <tr><td>020</td><td>Gütenbach</td></tr>
@@ -5637,7 +6018,9 @@ BERGGEBIET
 <tr><td>065</td><td>Unterkirnach</td></tr>
 <tr><td>068</td><td>Vöhrenbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>003</td><td>Bad Dürrheim</td><td>Öfingen</td></tr>
 <tr><td>005</td><td>Blumberg</td><td>Achdorf, Epfenhofen, Fützen, Nordhalden</td></tr>
@@ -5647,9 +6030,11 @@ BERGGEBIET
 <tr><td>031</td><td>Königsfeld i. Schw.</td><td>Buchenberg</td></tr>
 <tr><td>074</td><td>Villingen-Schwenningen</td><td>Herzogenweiler</td></tr>
 </tbody>
+</table>
 
 327 Landkreis Tuttlingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Bärenthal</td></tr>
 <tr><td>005</td><td>Balgheim</td></tr>
@@ -5673,21 +6058,27 @@ BERGGEBIET
 <tr><td>055</td><td>Seitingen-Oberflacht</td></tr>
 <tr><td>056</td><td>Rietheim-Weilheim</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>025</td><td>Immendingen</td><td>Ippingen, Zimmern, Hattingen: nur An der Weiden, Breitenloh, Finsterwiese, Frenzenhardt, Hänslisgrund, Mühlebol, Oberhardt, Ried, Riedhof, Schlutt, Windegg, Witthoh</td></tr>
 <tr><td>050</td><td>Tuttlingen</td><td>Eßlingen, Möhringen: nur Brunnerhof, Engelberthof, ehem. Rabenhof, Rabenbrunnen; Tuttlingen: nur Aichhaldenhof, Lohhof, Wenigbronner Hof, Württemberger Hof</td></tr>
 <tr><td>057</td><td>Emmingen-Liptingen</td><td>Emmingen ab Egg: nur Buch, Heubiet, Heubietsteig, Hohenfirst, Kirchbühl, Oberriet; Liptingen: nur Wehstetten</td></tr>
 </tbody>
+</table>
 
 335 Landkreis Konstanz
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>022</td><td>Engen</td><td>Biesendorf: nur Langengrund</td></tr>
 </tbody>
+</table>
 
 336 Landkreis Lörrach
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Aitern</td></tr>
 <tr><td>010</td><td>Böllen</td></tr>
@@ -5709,7 +6100,9 @@ BERGGEBIET
 <tr><td>104</td><td>Malsburg-Marzell</td></tr>
 <tr><td>106</td><td>Häg-Ehrsberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>036</td><td>Hausen im Wiesental</td><td>nur Rümmelesbühl</td></tr>
 <tr><td>078</td><td>Schliengen</td><td>Obereggenen: nur Bürgeln, Lippisbacher Höfe</td></tr>
@@ -5718,9 +6111,11 @@ BERGGEBIET
 <tr><td>086</td><td>Tegernau</td><td>nur Schwand</td></tr>
 <tr><td>098</td><td>Wieslet</td><td>nur Eichholz, Henschenberg</td></tr>
 </tbody>
+</table>
 
 337 Landkreis Waldshut
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>013</td><td>Bernau</td></tr>
 <tr><td>027</td><td>Dachsberg (Südschw.)</td></tr>
@@ -5732,7 +6127,9 @@ BERGGEBIET
 <tr><td>097</td><td>St. Blasien</td></tr>
 <tr><td>108</td><td>Todtmoos</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>022</td><td>Bonndorf i. Schw.</td><td>Boll, Bonndorf, Brunnadern, Ebnet, Gündelwangen, Holzschlag</td></tr>
 <tr><td>038</td><td>Görwihl</td><td>Engelschwand, Hartschwand, Rotzingen, Segeten, Strittmatt</td></tr>
@@ -5743,18 +6140,22 @@ BERGGEBIET
 <tr><td>127</td><td>Wutach</td><td>Ewattingen: nur Bruderhof; Münchingen</td></tr>
 <tr><td>128</td><td>Ühlingen-Birkendorf</td><td>Berau, Brenden</td></tr>
 </tbody>
+</table>
 
 4 Regierungsbezirk Tübingen
 
 415 Landkreis Reutlingen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>078</td><td>Urach</td><td>Urach: nur Hanglagen</td></tr>
 <tr><td>088</td><td>Römerstein</td><td>Donnstetten, Zainingen</td></tr>
 </tbody>
+</table>
 
 417 Landkreis Zollernalbkreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>010</td><td>Bitz</td></tr>
 <tr><td>029</td><td>Hausen am Tann</td></tr>
@@ -5765,7 +6166,9 @@ BERGGEBIET
 <tr><td>052</td><td>Ratshausen</td></tr>
 <tr><td>079</td><td>Albstadt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Balingen</td><td>Roßwangen, Streichen, Weilstetten, Zillhausen</td></tr>
 <tr><td>008</td><td>Bisingen</td><td>Thanheim, Zimmern</td></tr>
@@ -5774,40 +6177,51 @@ BERGGEBIET
 <tr><td>063</td><td>Straßberg</td><td>Straßberg</td></tr>
 <tr><td>075</td><td>Winterlingen</td><td>Winterlingen</td></tr>
 </tbody>
+</table>
 
 425 Landkreis Alb-Donau-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>134</td><td>Westerheim</td></tr>
 </tbody>
+</table>
 
 435 Landkreis Bodensee-Kreis
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>015</td><td>Frickingen</td><td>Frickingen: nur Birkenweiler, Buchenhalde, Golpenweiler, Heiligenberg, Hohenreute, Rickertsweiler, Rickenwiesen, Windhalde</td></tr>
 <tr><td>020</td><td>Heiligenberg</td><td>Heiligenberg: nur Baustadel, Hagelstein, Steigen; Wintersulgen: nur Boshasler Halde, Gaisberg, Haldenholz, Mönchhalden, Oberboshasel, Obere Acheck, Oberhalden, Rebbühl, Sennberg, Schneckenbühl, Unterhalden, Unterboshasel, Unterhaslach</td></tr>
 <tr><td>052</td><td>Salem</td><td>Beuren: nur Brand, Faulental, Mausloch</td></tr>
 <tr><td>067</td><td>Deggenhausertal</td><td>Deggenhausen: nur Auf dem Berg, Ellenfurt, Falkenstein, Hanglagen westl. der Deggenhauser Ach, Katzenmoos, Krautlöffel, Lehen, Marxenlehen, Reffental, Rosental, Schloßbühl, Sennhof, Steinenbach, Wallisreute; Homberg: nur Falkenhalden, Höchsten, Tobel, westl. Atzenweiler; Wittenhofen: nur Heuben, Höhlenstein, Jeglebrunnen, Moosen, Rebhalde, Schwende, Stockenbühl</td></tr>
 </tbody>
+</table>
 
 436 Landkreis Ravensburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>049</td><td>Isny im Allgäu</td><td>Großholzleute, Neutrauchburg: nur Ratzenhofen; Rohrdorf</td></tr>
 <tr><td>055</td><td>Leutkirch im Allgäu</td><td>Friesenhofen: nur Ellmeney, Rinnebühl</td></tr>
 </tbody>
+</table>
 
 437 Landkreis Sigmaringen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>005</td><td>Beuron</td></tr>
 <tr><td>102</td><td>Schwenningen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>056</td><td>Illmensee</td><td>Illmensee: nur Gehrenberg, Hellebarten, Lichtenegg, Obere Ösch, Untere Ösch; Illwangen: nur Breite, Glashütten, Höchsten, Putscherhaus</td></tr>
 <tr><td>107</td><td>Stetten a. k. M.</td><td>Frohnstetten, Glashütte/Baden</td></tr>
 </tbody>
+</table>
 
 BENACHTEILIGTE AGRARZONE
 
@@ -5815,6 +6229,7 @@ BENACHTEILIGTE AGRARZONE
 
 115 Landkreis Böblingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Aidlingen</td></tr>
 <tr><td>013</td><td>Ehningen</td></tr>
@@ -5829,7 +6244,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>052</td><td>Weinsach</td></tr>
 <tr><td>054</td><td>Grafenau</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>015</td><td>Gärtringen</td><td>Rohrau</td></tr>
 <tr><td>021</td><td>Herrenberg</td><td> Gültstein (1),  Kayh, Kuppingen, Mönchberg, Oberjesingen</td></tr>
@@ -5843,9 +6260,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>053</td><td>Jettingen</td><td>Oberjettingen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 116 Landkreis Esslingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>005</td><td>Altdorf</td></tr>
 <tr><td>007</td><td>Baltmannsweiler</td></tr>
@@ -5867,7 +6286,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>076</td><td>Aichwald</td></tr>
 <tr><td>081</td><td>Aichtal</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>004</td><td>Altbach</td><td>ohne Ortslage</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -5886,9 +6307,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>079</td><td>Lenningen</td><td>Gutenberg: nur Krebstein; Schopfloch, Unterlenningen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 117 Landkreis Göppingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Adelberg</td></tr>
 <tr><td>002</td><td>Aichelberg</td></tr>
@@ -5904,7 +6327,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>037</td><td>Ottenbach</td></tr>
 <tr><td>053</td><td>Wäschenbeuren</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>006</td><td>Bad Ditzenbach</td><td>Bad Ditzenbach: nur Albhochflächen; Gosbach: nur Albhochflächen</td></tr>
 <tr><td>014</td><td>Deggingen</td><td>Deggingen: nur Albhochflächen, Nordalb</td></tr>
@@ -5939,15 +6364,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>061</td><td>Lauterstein</td><td>Nenningen: ohne Eigenlau, Galgenberg, Zunderhalde; Weißenstein</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt.  (2) Von der Gemeinde bzw. Gemarkung sind schon Teile im Fördergebiet, jetzt kommen weitere hinzu. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 118 Landkreis Ludwigsburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>060</td><td>Oberstenfeld</td><td>Gronau</td></tr>
 </tbody>
+</table>
 
 119 Landkreis Rems-Murr-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>003</td><td>Allmersbach</td></tr>
 <tr><td>004</td><td>Althütte</td></tr>
@@ -5966,7 +6395,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>089</td><td>Berglen</td></tr>
 <tr><td>090</td><td>Remshalden</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>001</td><td>Alfdorf</td><td>Alfdorf, Pfahlbronn, Vordersteinenberg</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -5980,15 +6411,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>093</td><td>Kernen i. Remstal</td><td>Stetten i. Remstal</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 125 Landkreis Heilbronn
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>08</td><td>Roigheim</td></tr>
 <tr><td>103</td><td>Widdern</td></tr>
 <tr><td>107</td><td>Wüstenrot</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>008</td><td>Beilstein</td><td>Beilstein: Etzlenswenden, Stocksberg , Obere Ölmühle, Untere Ölmühle  ; Schmidhausen</td></tr>
 <tr><td>048</td><td>Jagsthausen</td><td>Olnhausen</td></tr>
@@ -5996,9 +6431,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>063</td><td>Möckmühl</td><td>Korb, Ruchsen, Möckmühl</td></tr>
 <tr><td>110</td><td>Obersulm</td><td>Eichelberg</td></tr>
 </tbody>
+</table>
 
 126 Landkreis Hohenlohekreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>020</td><td>Dörzbach</td></tr>
 <tr><td>039</td><td>Ingelfingen</td></tr>
@@ -6008,7 +6445,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>085</td><td>Waldenburg</td></tr>
 <tr><td>086</td><td>Weißbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>011</td><td>Bretzfeld</td><td> Adolzfurt (1),  Geddelsbach,Scheppach(1),   Unterheimbach</td></tr>
 <tr><td>028</td><td>Forchtenberg</td><td>Ernsbach, Forchtenberg,Muthof(1),   Sindringen</td></tr>
@@ -6022,9 +6461,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>072</td><td>Schöntal</td><td>Berlichingen, Bieringen, Marlach, Oberkessach,Schöntal(1),   Sindeldorf, Westernhausen, Winzenhofen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 127 Landkreis Schwäbisch Hall
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Blaufelden</td></tr>
 <tr><td>012</td><td>Bühlertann</td></tr>
@@ -6053,7 +6494,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>103</td><td>Frankenhardt</td></tr>
 <tr><td>104</td><td>Stimpfach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>009</td><td>Braunsbach</td><td>Braunsbach, Döttingen, Geislingen a. K.,Jungholzhausen,Steinkirchen</td></tr>
 <tr><td>043</td><td>Ilshofen</td><td>Ilshofen, Obersteinach, Ruppertshofen,  Unteraspach (1)(2)  , Stadel (Hang- und Tallagen a. d. Bühler), Eckartshausen</td></tr>
@@ -6061,16 +6504,20 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>086</td><td>Untermünkheim</td><td>Enslingen, Untermünkheim</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt.  (2) Von der Gemeinde bzw. Gemarkung sind schon Teile im Fördergebiet, jetzt kommen weitere hinzu. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 128 Landkreis Main-Tauber
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>007</td><td>Bad Mergentheim</td></tr>
 <tr><td>061</td><td>Königheim</td></tr>
 <tr><td>082</td><td>Niederstetten</td></tr>
 <tr><td>138</td><td>Ahorn</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>014</td><td>Boxberg</td><td>Angeltürn, Bobstadt, Boxberg, Epplingen, Kupprichshausen, Lengenrieden, Oberschüpf, Schweigern, Uiffingen, Unterschüpf, Wölchingen</td></tr>
 <tr><td>020</td><td>Creglingen</td><td>Archshofen, Craintal, Creglingen, Münster, Oberrimbach, Schmerbach, Blumweiler, Finsterlohr , Frauental (1), Niederrimbach (1), Reinsbronn (1)  </td></tr>
@@ -6086,15 +6533,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>139</td><td>Lauda-Königshofen</td><td>Beckstein, Gerlachsheim, Heckfeld, Königshofen, Marbach, Oberbalbach, Oberlauda, Sachsenflur, Unterbalbach, Lauda , Deubach (1), Messelhausen (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 135 Landkreis Heidenheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>025</td><td>Königsbronn</td></tr>
 <tr><td>026</td><td>Nattheim</td></tr>
 <tr><td>032</td><td>Steinheim am Albuch</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>010</td><td>Dischingen</td><td>Dischingen, Frickingen, Trugenhofen</td></tr>
 <tr><td>015</td><td>Gerstetten</td><td>Gerstetten, Gussenstadt, Heldenfingen</td></tr>
@@ -6103,9 +6554,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>020</td><td>Herbrechtingen</td><td>Bolheim,Herbrechtingen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 136 Landkreis Ostalbkreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>002</td><td>Abtsgmünd</td></tr>
 <tr><td>003</td><td>Adelmannsfelden</td></tr>
@@ -6145,7 +6598,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>088</td><td>Aalen</td></tr>
 <tr><td>089</td><td>Rainau</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>020</td><td>Eschach</td><td>Eschach: nur Dietenhalden, Gehrenhof, Hirnbuschhöhe, Waldmannshofen</td></tr>
 <tr><td>037</td><td>Kirchheim a. Ries</td><td>Dirgenheim, Kirchheim</td></tr>
@@ -6155,22 +6610,28 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>087</td><td>Riesbürg</td><td> Goldburghausen (1), Pflaumloch (1),  Utzmemmingen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 2 Regierungsbezirk Karlsruhe
 
 211 Stadtkreis Baden-Baden
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit den Teilflächen</td></tr>
 <tr><td>000</td><td>Baden-Baden</td><td>ohne Ortslage; Ebersteinburg, Sandweier, Varnhalt , Neuweier (1), Haueneberstein (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 215 Landkreis Karlsruhe
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>047</td><td>Marxzell</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>017</td><td>Ettlingen</td><td>Schluttenbach, Schöllbronn, Spessart</td></tr>
 <tr><td>046</td><td>Malsch</td><td>Völkersbach , Malsch (1), Waldprechtsweier (1)  </td></tr>
@@ -6178,15 +6639,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>110</td><td>Waldbronn</td><td>Etzenrot</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 216 Landkreis Rastatt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Bühlertal</td></tr>
 <tr><td>029</td><td>Loffenau</td></tr>
 <tr><td>059</td><td>Weisenbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>006</td><td>Bischweier (1)</td><td>  </td></tr>
@@ -6204,9 +6669,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt.  (2) Von der Gemeinde bzw. Gemarkung sind schon Teile im Fördergebiet, jetzt kommen weitere hinzu. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 221 Stadtkreis Heidelberg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit der Teilfläche</td></tr>
 <tr><td>000</td><td>Ziegelhausen</td><td>  </td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6214,9 +6681,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 225 Landkreis Neckar-Odenwald-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Adelsheim</td></tr>
 <tr><td>024</td><td>Fahrenbach</td></tr>
@@ -6227,7 +6696,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>113</td><td>Zwingenberg</td></tr>
 <tr><td>118</td><td>Waldbrunn</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>009</td><td>Billigheim</td><td>Waldmühlbach</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6246,9 +6717,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>117</td><td>Elztal</td><td>Auerbach, Neckarburken, Rittersbach, Dallau</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 226 Landkreis Rhein-Neckar-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>013</td><td>Eberbach</td></tr>
 <tr><td>022</td><td>Gaiberg</td></tr>
@@ -6257,7 +6730,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>080</td><td>Schönau</td></tr>
 <tr><td>099</td><td>Wilhelmsfeld</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>006</td><td>Bammental (1)</td><td>  </td></tr>
@@ -6274,15 +6749,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>104</td><td>Lobbach</td><td>Waldschwimmersbach</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 231 Stadtkreis Pforzheim
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit den Teilflächen</td></tr>
 <tr><td>000</td><td>Pforzheim</td><td>Büchenbronn, Hohenwart, Huchenfeld, Würm</td></tr>
 </tbody>
+</table>
 
 235 Landkreis Calw
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>007</td><td>Althengstett</td></tr>
 <tr><td>008</td><td>Bad Liebenzell</td></tr>
@@ -6297,7 +6776,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>067</td><td>Simmozheim</td></tr>
 <tr><td>073</td><td>Unterreichenbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>006</td><td>Altensteig</td><td>Berneck, Hornberg, Spielberg, Walddorf, Wart , Altensteig (1), Altensteigdorf (1)  </td></tr>
 <tr><td>033</td><td>Bad Herrenalb</td><td>Bernbach, Neusatz, Rotensol</td></tr>
@@ -6314,9 +6795,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>085</td><td>Calw</td><td>Calw: ohne Ortslage; Hirsau, Holzbronn, Stammheim , Altburg (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 236 Landkreis Enzkreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>004</td><td>Birkenfeld</td></tr>
 <tr><td>011</td><td>Eisingen</td></tr>
@@ -6333,7 +6816,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>070</td><td>Keltern</td></tr>
 <tr><td>074</td><td>Kämpfelbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>030</td><td>Ispringen (1)</td><td>  </td></tr>
@@ -6343,9 +6828,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>072</td><td>Straubenhardt</td><td>Langenalb, Ottenhausen, Feldrennach</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 237 Landkreis Freudenstadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Betzweiler-Wälde</td></tr>
 <tr><td>019</td><td>Dornstetten</td></tr>
@@ -6358,7 +6845,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>072</td><td>Wörnersberg</td></tr>
 <tr><td>074</td><td>Waldachtal</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Alpirsbach</td><td>Alpirsbach, Ehlenbogen, Peterzell, Reutin, Römlinsdorf</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6369,24 +6858,30 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>073</td><td>Seewald</td><td>Erzgrube, Göttelfingen: ohne Eisenbach, Lägerhalde; Hochdorf</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 3 Regierungsbezirk Freiburg
 
 311 Stadtkreis Freiburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde mit der Teilfläche</td></tr>
 <tr><td>000</td><td>Kappel/Dreisamtal</td></tr>
 </tbody>
+</table>
 
 315 Landkreis Breisgau-Hochschwarzwald
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>003</td><td>Au</td></tr>
 <tr><td>028</td><td>Ebringen</td></tr>
 <tr><td>107</td><td>Sölden</td></tr>
 <tr><td>125</td><td>Wittnau</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>007</td><td>Badenweiler</td><td>Lipburg</td></tr>
 <tr><td>014</td><td>Bollschweil</td><td>Bollschweil:ohne Bitterst</td></tr>
@@ -6405,9 +6900,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>109</td><td>Stegen</td><td>Stegen, Wittental</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 316 Landkreis Emmendingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>003</td><td>Biederbach</td></tr>
 <tr><td>014</td><td>Gutach i. Breisgau</td></tr>
@@ -6416,7 +6913,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>055</td><td>Winden im Etztal</td></tr>
 <tr><td>056</td><td>Waldkirch</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>010</td><td>Elzach</td><td>Elzach, Katzenmoos</td></tr>
 <tr><td>011</td><td>Emmendingen</td><td>Maleck , Mundingen (1)  </td></tr>
@@ -6428,9 +6927,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>043</td><td>Teningen</td><td>Heimbach , Köndringen (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 317 Landkreis Ortenaukreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>009</td><td>Berghaupten</td></tr>
 <tr><td>011</td><td>Biberach</td></tr>
@@ -6452,7 +6953,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>129</td><td>Steinach</td></tr>
 <tr><td>146</td><td>Zell a. Harmersbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>021</td><td>Durbach</td><td>Durbach</td></tr>
 <tr><td>026</td><td>Ettenheim</td><td>Ettenheimmünster , Münchweier (1)  </td></tr>
@@ -6471,9 +6974,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>145</td><td>Wolfach</td><td>Kinzigtal: ohne Äcker, Elmlisberg, Grube, Hinterheubach, Oberippichen, Oberlangenbach, Oberübelbach, Ruxen, St. Roman, Trillen; Kirnbach: ohne Grafenloch, Grube, Morgend, Mosenmättle, Obertal, Rotsel; Wolfach</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 325 Landkreis Rottweil
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Aichhalden</td></tr>
 <tr><td>009</td><td>Bösingen</td></tr>
@@ -6494,14 +6999,18 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>071</td><td>Eschbronn</td></tr>
 <tr><td>072</td><td>Deißlingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>050</td><td>Schenkenzell</td><td>Schenkenzell</td></tr>
 <tr><td>051</td><td>Schiltach</td><td>Lehengericht: ohne Hinterholz, Hinterlehen, Hollach, Kienbronn, Obersteigenbach, Ramsel, Untersteigenbach, Vorderlehengericht; Schiltach</td></tr>
 </tbody>
+</table>
 
 326 Landkreis Schwarzwald-Baar-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>010</td><td>Dauchingen</td></tr>
 <tr><td>037</td><td>Mönchweiler</td></tr>
@@ -6509,6 +7018,7 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>061</td><td>Tuningen</td></tr>
 <tr><td>075</td><td>Brigachtal</td></tr>
 </tbody>
+</table>
 
 | 003 | Bad Dürrheim | Bad Dürrheim, Biesingen, Hochemmingen, Oberbaldingen, Sunthausen, Unterbaldingen |
 | --- | --- | --- |
@@ -6521,6 +7031,7 @@ BENACHTEILIGTE AGRARZONE
 
 327 Landkreis Tuttlingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>002</td><td>Aldingen</td></tr>
 <tr><td>008</td><td>Buchheim</td></tr>
@@ -6534,15 +7045,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>049</td><td>Trossingen</td></tr>
 <tr><td>054</td><td>Wurmlingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>025</td><td>Immendingen</td><td>Hattingen: ohne An der Weiden, Breitenloh, Finsterwiese, Frenzenhardt, Hänslisgrund, Mühlebol, Oberhardt, Ried, Riedhof, Schlutt, Windegg, Witthoh; Hintschingen, Immendingen, Mauenheim</td></tr>
 <tr><td>050</td><td>Tuttlingen</td><td>Möhringen: ohne Brunnerhof, Engelberthof, ehem. Rabenhof, Rabenbrunnen; Nendingen, Tuttlingen: ohne Aichhaldenhof, Lohhof, Wenigbronner Hof, Württemberger Hof</td></tr>
 <tr><td>057</td><td>Emmingen-Liptingen</td><td>Emmingen ab Egg: ohne Buch, Heubiet, Heubietsteig, Hohenfirst, Kirchbühl, Oberriet; Liptingen: ohne Wehstetten</td></tr>
 </tbody>
+</table>
 
 335 Landkreis Konstanz
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Aach</td></tr>
 <tr><td>057</td><td>Mühlingen</td></tr>
@@ -6551,7 +7066,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>097</td><td>Mühlhausen-Ehingen</td></tr>
 <tr><td>100</td><td>Rielasingen-Worblingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Allensbach</td><td>Allensbach</td></tr>
 <tr><td>021</td><td>Eigeltingen</td><td>Heudorf i. Hegau, Honstetten, Reute i. Hegau, Rorgenwies , Eigeltingen (1)  </td></tr>
@@ -6573,13 +7090,17 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>096</td><td>Hohenfels</td><td>Mindersdorf, Deutwang , Kalkofen (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 336 Landkreis Lörrach
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>034</td><td>Hasel</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>043</td><td>Inzlingen (1)</td><td>  </td></tr>
@@ -6598,9 +7119,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>098</td><td>Wieslett</td><td>ohne Eichholz, Henschenberg</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 337 Landkreis Waldshut
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>002</td><td>Albbruck</td></tr>
 <tr><td>030</td><td>Dettighofen</td></tr>
@@ -6616,7 +7139,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>124</td><td>Eggingen</td></tr>
 <tr><td>125</td><td>Küssaberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>022</td><td>Bonndorf i. Schw.</td><td>Dillendorf, Wellendingen, Wittlekofen</td></tr>
 <tr><td>038</td><td>Görwihl</td><td>Görwihl, Niederwihl, Oberwihl, Rüßwihl</td></tr>
@@ -6629,11 +7154,13 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>127</td><td>Wutach</td><td>Ewattingen: ohne Bruderhof; Lembach</td></tr>
 <tr><td>128</td><td>Ühlingen-Birkendorf</td><td>Birkendorf, Hürrlingen, Obermettingen, Ühlingen, Untermettingen, Riedern am Wald</td></tr>
 </tbody>
+</table>
 
 4 Regierungsbezirk Tübingen
 
 415 Landkreis Reutlingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>014</td><td>Dettingen a. d. Erms</td></tr>
 <tr><td>019</td><td>Enigen unt. Achalm</td></tr>
@@ -6659,7 +7186,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>092</td><td>Lichtenstein</td></tr>
 <tr><td>093</td><td>St. Johann</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>050</td><td>Metzingen</td><td>Glems,Metzingen(1),   Neuhausen a. d. Erms</td></tr>
 <tr><td>061</td><td>Reutlingen</td><td> Altenburg (1),  Bronnweiler, Gönningen (1)(2)  ; Oferdingen (1),  Reutlingen: ohne Ortslage, Reicheneck , Rommelsbach (1)  </td></tr>
@@ -6667,9 +7196,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>088</td><td>Römerstein</td><td>Böhringen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt.  (2) Von der Gemeinde bzw. Gemarkung sind schon Teile im Fördergebiet, jetzt kommen weitere hinzu. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 416 Landkreis Tübingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>006</td><td>Bodelshausen</td></tr>
 <tr><td>009</td><td>Dettenhausen</td></tr>
@@ -6680,7 +7211,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>031</td><td>Ofterdingen</td></tr>
 <tr><td>048</td><td>Ammerbuch</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>023</td><td>Kusterdingen</td><td>Immenhausen (1)</td></tr>
@@ -6690,9 +7223,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>050</td><td>Starzach</td><td>Bierlingen, Börstingen, Felldorf, Wachendorf</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 417 Landkreis Zollernalbkreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>014</td><td>Dautmergen</td></tr>
 <tr><td>015</td><td>Dormettingen</td></tr>
@@ -6705,7 +7240,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>071</td><td>Weilen unter den Rinnen</td></tr>
 <tr><td>078</td><td>Zimmern unt. d. Burg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Balingen</td><td>Balingen, Endingen, Engstlatt, Erzingen, Frommern, Ostdorf, Stockenhausen</td></tr>
 <tr><td>008</td><td>Bisingen</td><td>Bisingen, Wessingen</td></tr>
@@ -6716,15 +7253,19 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>075</td><td>Winterlingen</td><td>Benzingen, Harthausen a. d. Scher</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 421 Stadtkreis Ulm
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde mit der Teilfläche</td></tr>
 <tr><td>000</td><td>Mähringen</td></tr>
 </tbody>
+</table>
 
 425 Landkreis Alb-Donau-Kreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Amstetten</td></tr>
 <tr><td>017</td><td>Berghülen</td></tr>
@@ -6739,7 +7280,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>135</td><td>Westerstetten</td></tr>
 <tr><td>139</td><td>Heroldstatt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>002</td><td>Allmendingen</td><td>Allmendingen, Ennahofen, Grötzingen, Weilersteußlingen</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6756,16 +7299,20 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>141</td><td>Blaustein</td><td>Arnegg, Blaustein, Herrlingen, Markbronn, Wippingen</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt.  (2) Von der Gemeinde bzw. Gemarkung sind schon Teile im Fördergebiet, jetzt kommen weitere hinzu. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 426 Landkreis Biberach
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>043</td><td>Erlenmoos</td></tr>
 <tr><td>090</td><td>Oggelshausen</td></tr>
 <tr><td>044</td><td>Erolzheim</td></tr>
 <tr><td>109</td><td>Seekirch</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>005</td><td>Alleshausen(1)</td><td>  </td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6788,13 +7335,17 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>125</td><td>Gutenzell-Hürbel</td><td>Gutenzell</td></tr>
 <tr><td colspan="3"> (1) Jeweils nur die Moorgebiete.  (2) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 435 Landkreis Bodenseekreis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>000</td><td>Neukirch</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>020</td><td>Heiligenberg</td><td>Heiligenberg: ohne Baustadel, Hagelstein, Steigen; Wintersulgen: ohne Boshasler Halde, Gaisberg, Haldenholz, Mönchhalden, Obersboshasel, Obere Acheck, Oberhalden, Rebbühl, Sennberg, Schneckenbühl, Unterhalden, Unterboshasel, Unterhaslach , Hattenweiler (1)  </td></tr>
 <tr><td colspan="3"></td></tr>
@@ -6809,9 +7360,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>057</td><td>Tettnang</td><td>Langnau</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 436 Landkreis Ravensburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>001</td><td>Achberg</td></tr>
 <tr><td>003</td><td>Aichstetten</td></tr>
@@ -6831,7 +7384,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>085</td><td>Wolfegg</td></tr>
 <tr><td>094</td><td>Argenbühl</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>010</td><td>Bad Wurzach</td><td>Arnach, Bad Wurzach, Eintürnen, Gospoldshofen, Hauerz, Seibranz, Ziegelbach</td></tr>
 <tr><td>049</td><td>Isny</td><td>Beuren, Isny, Neutrauchburg: ohne Ratzenhofen</td></tr>
@@ -6842,9 +7397,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 437 Landkreis Sigmaringen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>008</td><td>Bingen</td></tr>
 <tr><td>031</td><td>Gammertingen</td></tr>
@@ -6859,7 +7416,9 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>105</td><td>Sigmaringendorf</td></tr>
 <tr><td>114</td><td>Veringenstadt</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>044</td><td>Herbertingen</td><td>Hundersingen</td></tr>
 <tr><td>053</td><td>Hohentengen</td><td>Bremen, Eichen, Günzkofen, Ursendorf, Völlkofen, Beizkofen, Enzkofen, Hohentengen</td></tr>
@@ -6874,9 +7433,11 @@ BENACHTEILIGTE AGRARZONE
 <tr><td>124</td><td>Herdwangen-Schönach</td><td>Herdwangen, Großschönach , Oberndorf (1)  </td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
+<table>
 <tbody><tr><td colspan="3"> 1 Regierungsbezirk Stuttgart </td></tr>
 <tr><td colspan="3"> 119 Landkreis Rems-Murr-Kreis </td></tr>
 <tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
@@ -7152,6 +7713,7 @@ KLEINES GEBIET
 <tr><td>124</td><td>Herwangen-Schönach</td><td>Oberndorf (1)</td></tr>
 <tr><td colspan="3"> (1) Von der Gemeinde bzw. Gemarkung befinden sich nur Teile (Flurstücke) im Fördergebiet. Die grundstückscharfe Abgrenzung befindet sich beim jeweiligen Landwirtschaftsamt. </td></tr>
 </tbody>
+</table>
 
 BAYERN
 
@@ -7167,6 +7729,7 @@ BERGGEBIET
 
 172 Landkreis Berchtesgadner Land
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Anger</td></tr>
 <tr><td>115</td><td>Bayerisch Gmain</td></tr>
@@ -7177,16 +7740,20 @@ BERGGEBIET
 <tr><td>131</td><td>Schneizlreuth</td></tr>
 <tr><td>132</td><td>Schönau a. Königssee</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Ainring</td><td>mit Bach, Bicheln, Bichlbruck, Doppeln, Fürberg, Hinterau, Höglau, Hofer, Kohlstatt, Langacker, Mühlstatt, Mürack, Oberholzen, Ottmaning, Pirach, Rabling, Rain, Reit, Simonhäusl, Thundorf, Ulrichshögl</td></tr>
 <tr><td>114</td><td>Bad Reichenhall, GKSt.</td><td>mit Karlstein, Kirchberg, Nonn, Thumsee</td></tr>
 <tr><td>128</td><td>Piding</td><td>mit Kleinhögl, Steineralm (*)</td></tr>
 <tr><td>134</td><td>Teisendorf, M.</td><td>mit Achthal, Adligstadt, Allerberg, Aschau, Atzlbach, Au, Babing, Bach, Beilehen, Berg, Braunsreut, Brunnmeister, Burgstall, Dandlhäusl, Doppeln, Feidel, Freidling, Fuchssteig, Gastag, Geislehen, Gemachmühle, Gierstling, Goppling, Graben, Grabenhäusl, Grafenberg, Gröben, Grub, Grübel, Gschwend, Hammer, Haslach, Hausmoning, Hinterfarmach (*), Hinterleiten, Hinterloh, Hochhorn, Hochöd, Hochmoos, Hörbering, Hub, Kendl, Kendler, Kirchsteg, Klötzel, Knapper, Kolberstatt, Krainwinkl, Kressenberg, Kühberg, Kumpfmühle, Leiten, Loch, Lohstampf, Lohwiesen, Mauerreuten, Mitterleiten, Mitterstatt, Mühlleiten, Mühlpoint, Mühwalten, Neukirchen a. Teisenberg, Niederreit, Obau, Oberachthal, Oberlehen, Obermoos, Oberreit, Oberreut, Oberteisendorf, Oberwiesen, Eder, Point, Point, Querchtsfelden, Rainer, Reit a. Berg, Reuter, Ried, Roll, Schnaitt, Schmidleiten, Schnelling, Schütz, Schwammgraben, Schwarzenberg, Selberstadt, Spöck, Spittenreut, Sprung, Stadl, Stetten, Stölin, Strußberg, Surbergbichl, Surmühl, Telsenberg, Thalhausen, Thumberg, Vorderleiten, Vorderloh, Wagneröd, Wald, Wank, Weitwies, Wetzeisberg, Wieshäusl, Wildberg, Winkl (*)</td></tr>
 </tbody>
+</table>
 
 173 Landkreis Bad Tölz — Wolfratshausen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Benediktbeuern</td></tr>
 <tr><td>115</td><td>Bichl</td></tr>
@@ -7199,15 +7766,19 @@ BERGGEBIET
 <tr><td>142</td><td>Schlehdorf</td></tr>
 <tr><td>145</td><td>Wackersberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Bad Heilbrunn</td><td>ohne Bocksberg, Fletzen, Graben, Hohenbirken, Karpfsee, Letten, Mürnsee, Nantesbuch, Podling, Reindlschmiede, Unterkarpfsee</td></tr>
 <tr><td>112</td><td>Bad Tölz, St.</td><td>mit Einbach (*), Kogl</td></tr>
 <tr><td>118</td><td>Dietramszell</td><td>mit Au, Bergerhof, Habichau, Spöttberg</td></tr>
 </tbody>
+</table>
 
 180 Landkreis Garmisch-Partenkirchen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Bad Kohlgrub</td></tr>
 <tr><td>113</td><td>Bayersolen</td></tr>
@@ -7228,14 +7799,18 @@ BERGGEBIET
 <tr><td>135</td><td>Unterammergau</td></tr>
 <tr><td>136</td><td>Wallgau</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>124</td><td>Murnau a. Staffelsee, M.</td><td>mit Achrain, Hechendorf, Hermannswiese, Mühlhabing, Murnau, Westried, Ramsach</td></tr>
 <tr><td>134</td><td>Uffing a. Staffelsee</td><td>mit Brand, Buch, Filzbauer, Grub, Guggenberg, Harberg, Hechenrain, Höldern, Kalkofen, Kirnberg, Luketsried, Saliter, Sallach, Schachmoos, Schöffau, Spindler, Streicher, Tafertshofen, Völlenbach</td></tr>
 </tbody>
+</table>
 
 182 Landkreis Miesbach
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Bad Wiessee</td></tr>
 <tr><td>112</td><td>Bayrischzell</td></tr>
@@ -7248,7 +7823,9 @@ BERGGEBIET
 <tr><td>131</td><td>Schliersee, M.</td></tr>
 <tr><td>132</td><td>Tegernsee, St.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>116</td><td>Gmund a. Tegernsee</td><td>mit Am See, Angerlweber, Antenloh, Berg, Bürstling, Eben, Eck, Finsterwald, Gasse, Giglberg, Gmund a. Tegernsee, Grub, Grund, Hallmannshof, Kaltenbrunn, Niemandsbichl, Oed, Osterberg, Ostin, Reith, Riedl, Sankt Quirin, Schafstatt, Schmerold, Schuß, Schwärzenbach, Schweinberg, Wackersberg, Waldhof</td></tr>
 <tr><td>120</td><td>Holzkirchen, M.</td><td>mit Asberg, Babenberg, Buch, Grasberg, Kleinhartpenning, Kögelsberg, Kurzenberg, Leithen, Pelletsmühl, Reith, Ried, Stubenbach</td></tr>
@@ -7257,9 +7834,11 @@ BERGGEBIET
 <tr><td>136</td><td>Warngau</td><td>mit Allhöfe, Christoph, Gschwendtner, Haidhub, Hainz, Hinterhöher, Jehl, Marold, Plankenhofer, Polz, Schwarz, Steingräber, Taubenberg, Vorderhöher, Wieser, Wölfl</td></tr>
 <tr><td>137</td><td>Weyarn</td><td>mit Adam, Aigner, Arnhofen, Baderer, Bernecker, Bruck, Feller, Fentbach, Ferdinand, Filzer, Gotzing, Großseeham, Günderer, Harring, Haus, Hochhaus, Holzolling, Huber, Kilian, Kleinhöhenkirchen, Kleinplenzenau, Kleinseeham, Langenegger, Leher, Linnerer, Mittenkirchen, Neukirchen, Nudler, Ötz, Reinthal, Riedler, Ried, Schliershofer, Schwarzöd, Sonderdilching, Standkirchen, Still, Stützlham, Thalham, Wattersdorf, Westin, Weyarn, Zehenthofer</td></tr>
 </tbody>
+</table>
 
 187 Landkreis Rosenheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>120</td><td>Brannenburg</td></tr>
 <tr><td>131</td><td>Flintsbach a. Inn</td></tr>
@@ -7268,7 +7847,9 @@ BERGGEBIET
 <tr><td>157</td><td>Oberaudorf</td></tr>
 <tr><td>172</td><td>Samerberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>114</td><td>Aschau i. Chiemgau</td><td>ohne Grünwald, Höhenberg, Seehaus, Spöck, Weiher</td></tr>
 <tr><td>118</td><td>Bernau a. Chiemsee</td><td>mit Abling, Aufing, Bach, Bernau a. Chiemsee, Bergham, Bichling, Eichet, Farbing, Felden, Gattern, Gröben, Gut Lambelhof, Hafenstein, Hitzelsberg, Hötzing, Irschen, Kraimoos, Moos, Neumühle, Osterham, Reit, Reitham, Rudersberg, Schleipfen, Stocka, Stötten, Unterbergham, Westerham, Wiesen</td></tr>
@@ -7281,9 +7862,11 @@ BERGGEBIET
 <tr><td>168</td><td>Rimsting</td><td>mit Geigereck, Kaps, Weingarten</td></tr>
 <tr><td>169</td><td>Rohrdorf</td><td>mit Buch, Entbuch, Leitner am Berg, Loch, Sachsenkam, Taffenreuth</td></tr>
 </tbody>
+</table>
 
 189 Landkreis Traunstein
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Bergen</td></tr>
 <tr><td>120</td><td>Grassau, M.</td></tr>
@@ -7295,7 +7878,9 @@ BERGGEBIET
 <tr><td>146</td><td>Staudach-Egerndach</td></tr>
 <tr><td>160</td><td>Unterwössen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>119</td><td>Grabenstätt</td><td>mit Eckering, Gutharting, Höring, Osterbuchberg, Zeiering</td></tr>
 <tr><td>145</td><td>Siegsdorf</td><td>ohne Gastag, Lohhäusl, Traundorf</td></tr>
@@ -7304,9 +7889,11 @@ BERGGEBIET
 <tr><td>159</td><td>Übersee</td><td>mit Westerbuchberg, Sonnleiten (*)</td></tr>
 <tr><td>161</td><td>Vachendorf</td><td>mit Hasperting, Schlecht</td></tr>
 </tbody>
+</table>
 
 190 Landkreis Weilheim-Schongau
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>114</td><td>Bernbeuren</td></tr>
 <tr><td>117</td><td>Böbing</td></tr>
@@ -7319,7 +7906,9 @@ BERGGEBIET
 <tr><td>154</td><td>Steingaden</td></tr>
 <tr><td>160</td><td>Wildsteig</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>118</td><td>Burggen</td><td>mit Bernried, Engenwies, Forchenwald (*), Ghagetslaich (*), Hausenried, Haslach, Hochegart (*), Schorenwald (*), Steig, Tannenberg</td></tr>
 <tr><td>135</td><td>Oberhausen</td><td>mit Sankt Nikolaus</td></tr>
@@ -7328,23 +7917,29 @@ BERGGEBIET
 <tr><td>148</td><td>Schongau, St.</td><td>mit Weinland (*)</td></tr>
 <tr><td>149</td><td>Schwabbruck</td><td>mit Mooshof (*)</td></tr>
 </tbody>
+</table>
 
 7 Regierungsbezirk Schwaben
 
 762 Kreisfreie Stadt Kaufbeuren
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>762</td><td>Kaufbeuren</td><td>mit Kleinkemnath, Oberbeuren</td></tr>
 </tbody>
+</table>
 
 763 Kreisfreie Stadt Kempten
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>763</td><td>Kempten (Allgäu)</td><td>mit Bachtelsteig, Bahnholz, Burkarts (*), Bühls, Dottenried, Elmatried, Eppenried, Feigen, Härtnagel a. M., Haßberg, Hinteregg, Höflings (*), Johannisried, Jägers, Kindo, Kniebos, Lämmlings, Lauben ob der Bruck, Lauben unter der Bruck, Mariaberg, Obergrünenberg, Oberheggers, Oberried, Oberschmieden, Öschberg, Ohnholz, Prestlings, Rauhen, Reiters, Schallenmühle (*), Schwarzen, Staudach, Stoffels, Stürmers, Unterheggers, Unterried, Vorderhaiden, Wegflecken, Weihers, Wittleiters (*), Leubastal-West (*), Bachtelweiher (*)</td></tr>
 </tbody>
+</table>
 
 776 Landkreis Lindau (Bodensee)
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Gestratz</td></tr>
 <tr><td>113</td><td>Grünenbach</td></tr>
@@ -7355,16 +7950,20 @@ BERGGEBIET
 <tr><td>127</td><td>Stiefenhofen</td></tr>
 <tr><td>129</td><td>Weiler-Simmerberg, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>114</td><td>Heimenkirch</td><td>mit Aspach, Biesenberg, Dreiheiligen, Engenberg, Geigersthal, Riedhirsch</td></tr>
 <tr><td>117</td><td>Lindenberg</td><td>mit Ellgassen, Goßholz, Kellershub, Manzen, Nadenberg, Ratzenberg, Ried, Weihers</td></tr>
 <tr><td>122</td><td>Opfenbach</td><td>mit Heimen, Litzis, Mellatz, Schrundholz</td></tr>
 <tr><td>126</td><td>Sigmarszell</td><td>mit Adelberg, Emsgritt, Haggen, Hölzlers, Kargen, Kinberg, Widdum</td></tr>
 </tbody>
+</table>
 
 777 Landkreis Ostallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>125</td><td>Eisenberg</td></tr>
 <tr><td>129</td><td>Füssen, St.</td></tr>
@@ -7388,7 +7987,9 @@ BERGGEBIET
 <tr><td>176</td><td>Untrasried</td></tr>
 <tr><td>179</td><td>Wald</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Altrang</td><td>mit Binnings, Böck, Görwangs, Huttenwang, Jackel, Münzenried, Neuenried, Umwangs, Wolfholz, Lohbauer, Unger, Wenglingen, St. Alban, Sommer, Steigeleböck</td></tr>
 <tr><td>118</td><td>Bidingen</td><td>mit Ämbisried, Bidingen, Ebenried, Etzlensberg, Geblatsried, Geislatsried, Ob, Königsried, Langweid, Rudratsried, Tremmelschwang, Weiler, In der Grube (*)</td></tr>
@@ -7401,18 +8002,22 @@ BERGGEBIET
 <tr><td>167</td><td>Ruderatshofen</td><td>mit Apfeltrang, Bergbauer (*), Dionis, Fleischer, Fuchs, Hefele, Nettengrub</td></tr>
 <tr><td>175</td><td>Unterthingau, M.</td><td>mit Beilstein, Büchel, Eichelschwang; Eschenau, Heuwang, Jägermühle, Kipfenberg, Lippenhalde, Oberthingau, Osterberg, Reinhardsried, Ried, Riedles, Schotten, Seelenberg (*), Haugen, Brandeln, Höllbauer</td></tr>
 </tbody>
+</table>
 
 778 Landkreis Unterallgäu
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>119</td><td>Böhen</td><td>mit Birkenlechner (*), Böhen, Günzegg, Lampolz, Oberrechberg, Oberwarlins, Osterberg, Unterrechberg, Unterwarlins, Wies</td></tr>
 <tr><td>144</td><td>Grönenbach, M.</td><td>mit Gsäng (*)</td></tr>
 <tr><td>168</td><td>Markt Rettenbach, M.</td><td>mit Bruderhof, Engetried, Grießtal, Hatzleberg, Hillenloh, In der Halde (*), Kilbrakhof, In den Teilen (*), Letten (*), Linden, Speckrau, Stein</td></tr>
 <tr><td>186</td><td>Ottobeuren, M.</td><td>mit Neuvogelsang, Oberried, Unterschochen, Vogelsang, Daßberg, Ollarzried, Rempolz</td></tr>
 </tbody>
+</table>
 
 Landkreis Oberallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Balderschwang</td></tr>
 <tr><td>114</td><td>Betzigau</td></tr>
@@ -7438,13 +8043,16 @@ Landkreis Oberallgäu
 <tr><td>146</td><td>Wiggensbach, M.</td></tr>
 <tr><td>147</td><td>Wildpoldsried</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Altusried, M.</td><td>mit Behütgott, Bergen, Bodenwalz, Bossen, Brand, Bronnen, Bruderhöfe, Buchen, Buch, Buchen a. W., Dezion, Duracherberg, Dürrenbach, Eggarts, Frauenzell, Gaggen, Greut, Greuts, Gschnaidt, Häuslen, Halden, Heckelsmühle, Hehlen, Heuglosen, Hiemen, Hinterbrennberg, Hinteregg, Hohentann, Holzmühle, Horns, Hubbrände, Käsers, Katzenloh, Kohlstatt, Kühsteig, Lendraß, Leuten, Maggmannshofen, Mushanen, Naien, Neumühle, Oberegg, Oberhofen, Oberhub, Oberräthen, Oberwalzlings, Opprechts, Osterberg, Radsperre, Reinthal, Rungatshofen, Sägmühle (*), Schmidberg, Schöneberg, Schreiers, Schwenden, Seefeld, Spöck, Ungers, Unterhub, Unterräthen, Ursulers, Vorderbrennberg, Waldsteig, Walkenberg, Walzlings, Wasserbühl, Wendelins, Wies</td></tr>
 <tr><td>119</td><td>Dietmannsried, M.</td><td>mit Albus, Bärenwies, Buchen, Ehemanns, Finstersteig, Gemeinderied, Göhlmühle, Gschlavers, Haslach, Hinterhalde, Öschle, Osterberg, Osterwald, Probstried, Rauhmühle, Reutacker, Reute, Schilchern, Todtenberg, Ussenried, Wiesenthal, Wirthshalde, Wohlmuths</td></tr>
 <tr><td>122</td><td>Haldenwang</td><td>mit Berg, Fleschützen, Haslach, Hinterkindberg, Koneberg, Pfaffenhofen, Steig, Stoßberg, Unkraut, Vorderkindberg, Wuhr, Leubastal-Ost (*)</td></tr>
 <tr><td>143</td><td>Waltenhofen</td><td>mit Aubruck, Bachtel, Berg, Bergen, Birkach, Brenden, Einzenberg, Ettlis, Friesinsel, Gerats, Gopprechts, Helen, Hof, Hubers, Hupprechts, Illermorne (*), Insel, Judenried, Kiesels, Langenegg, Leuten, Linden, Linsen, Mähris, Maierhof (*), Maind, Memhölz, Moos, Niedersonthofen, Oberburg, Oberdorfer Wald (*), Oberegg, Rieggis, Steig, Stoffels, Suiters, Türken, Unterburg, Unteregg, Wachters, Walkarts, Widdum, Wies, Wolfen, Wollmuths, Zellen</td></tr>
 </tbody>
+</table>
 
 BENACHTEILIGTE AGRARZONE
 
@@ -7458,12 +8066,15 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 
 1 Regierungsbezirk Oberbayern
 
+<table>
 <tbody><tr><td colspan="2">Kreisfreie Stadt</td></tr>
 <tr><td>163 000</td><td>Rosenheim</td></tr>
 </tbody>
+</table>
 
 172 Landkreis Berchtesgadener Land
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Ainring</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>114</td><td>Bad Reichenhall, GKSt.</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
@@ -7477,9 +8088,11 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>134</td><td>Teisendorf, M.</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 173 Landkreis Bad Tölz/Wolfratshausen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>120</td><td>Egling</td></tr>
 <tr><td>123</td><td>Eurasburg</td></tr>
@@ -7489,48 +8102,62 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>141</td><td>Sachsenkam</td></tr>
 <tr><td>147</td><td>Wolfratshausen, St.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Bad Heilbrunn</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>112</td><td>Bad Tölz, St.</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>118</td><td>Dietramszell</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 174 Landkreis Dachau
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Altomünster, Markt</td><td>Altomünster, Hohenzell, Kiemertshofen, Oberzeitlbach, Thalhausen, Randelsried, Wollomoos (1)</td></tr>
 <tr><td>147</td><td>Hilgertshausen-Tandern</td><td>Tandern, Randelsried</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 175 Landkreis Ebersberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>136</td><td>Emmering</td></tr>
 </tbody>
+</table>
 
 176 Landkreis Eichstatt
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>139</td><td>Kösching, Markt</td><td>Bettbrunn</td></tr>
 <tr><td>166</td><td>Wellheim, Markt</td><td>Gammerfeld, Hard, Wellheim</td></tr>
 </tbody>
+</table>
 
 180 Landkreis Garmisch-Partenkirchen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>132</td><td>Seehausen a. Staffelsee</td></tr>
 <tr><td>133</td><td>Spatzenhausen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>124</td><td>Murnau a. Staffelsee, M.</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>134</td><td>Uffing a. Staffelsee</td><td>ohne die Orsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 181 Landkreis Landsberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Apfeldorf</td></tr>
 <tr><td>114</td><td>Dießen a. Ammersee, M.</td></tr>
@@ -7539,7 +8166,9 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>137</td><td>Rott</td></tr>
 <tr><td>142</td><td>Thaining</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>113</td><td>Denklingen</td><td>Epfach</td></tr>
 <tr><td>121</td><td>Fuchstal</td><td>Seestall</td></tr>
@@ -7547,9 +8176,11 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>144</td><td>Utting a. A.</td><td>Utting (1), Rieden</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 182 Landkreis Miesbach
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>116</td><td>Gmund am Tegernsee</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>120</td><td>Holzkirchen, M.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
@@ -7558,13 +8189,17 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>136</td><td>Warngau</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>137</td><td>Weyarn</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 183 Landkreis Mühldorf a. Inn
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>151</td><td>Zangberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Ampfing</td><td>Stefanskirchen, Salmanskirchen (1)</td></tr>
 <tr><td>114</td><td>Buchbach, Markt</td><td>Buchbach, Walkersaich</td></tr>
@@ -7574,23 +8209,29 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>144</td><td>Schwindegg</td><td>Walkersaich</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 185 Landkreis Neuburg-Schrobenhausen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>127</td><td>Ehekirchen</td><td>Walda</td></tr>
 <tr><td>153</td><td>Rennertshofen, Markt</td><td>Ammerfeld (1), Emskeim, Rohrbach</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 186 Landkreis Pfaffenhofen a. d. Ilm
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>125</td><td>Gerolsbach</td><td>Gerolsbach-Süd</td></tr>
 </tbody>
+</table>
 
 187 Landkreis Rosenheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Amerang</td></tr>
 <tr><td>117</td><td>Bad Aibling, St.</td></tr>
@@ -7607,7 +8248,9 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>177</td><td>Stephanskirchen</td></tr>
 <tr><td>179</td><td>Tuntenhausen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>114</td><td>Aschau i. Chiemgau</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -7629,15 +8272,19 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>182</td><td>Wasserburg</td><td>Wasserburg</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 187 Landkreis Pfaffenhofen a. d. Ilm
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>137</td><td>Manching, Markt</td><td>Manching</td></tr>
 </tbody>
+</table>
 
 188 Landkreis Starnberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>117</td><td>Andechs</td></tr>
 <tr><td>118</td><td>Feldafing</td></tr>
@@ -7645,23 +8292,29 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>137</td><td>Pöcking</td></tr>
 <tr><td>141</td><td>Tutzing</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>132</td><td>Seefeld</td><td>Oberalting-Seefeld</td></tr>
 <tr><td>139</td><td>Starnberg, Stadt</td><td>Perchting (1)</td></tr>
 <tr><td>145</td><td>Wörthsee</td><td>Steinebach a. W.</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 189 Landkreis Traunstein
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>127</td><td>Kirchanschöring</td></tr>
 <tr><td>135</td><td>Petting</td></tr>
 <tr><td>162</td><td>Waging a. See, M.</td></tr>
 <tr><td>165</td><td>Wonneberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>114</td><td>Chieming</td><td>Oberhochstätt</td></tr>
@@ -7678,9 +8331,11 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>159</td><td>Übersee</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>161</td><td>Vachendorf</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 190 Landkreis Weilheim-Schongau
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Altenstadt</td></tr>
 <tr><td>113</td><td>Antdorf</td></tr>
@@ -7701,7 +8356,9 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>158</td><td>Wessobrunn</td></tr>
 <tr><td>159</td><td>Wielenbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>118</td><td>Burggen</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>135</td><td>Oberhausen</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
@@ -7710,6 +8367,7 @@ Die mit (*) gekennzeichneten Gemeindeteile werden im amtlichen Ortsverzeichnis f
 <tr><td>148</td><td>Schongau, St.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>149</td><td>Schwabbruck</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 7 Regierungsbezirk Schwaben
 
@@ -7725,12 +8383,15 @@ Kreisfreie Stadt Kempten (Allgäu)
 
 771 Landkreis Aichach-Friedberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>140</td><td>Hollenbach</td></tr>
 <tr><td>165</td><td>Sielenbach</td></tr>
 <tr><td>169</td><td>Todtenweis</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Adelzhausen</td><td>Heretshausen</td></tr>
 <tr><td>113</td><td>Aichach, Stadt</td><td>Klingen, Ecknach, Gallenbach, Sulzbach, Oberbernbach, Oberwittelsbach, Unterwittelsbach, Obermauerbach (1) , Aichach-Ost  </td></tr>
@@ -7740,9 +8401,11 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>156</td><td>Pöttmes, Markt</td><td>Pöttmes, Schnellmannskreut, Handzell, Schorn, Grimolzhausen, Immendorf</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 772 Landkreis Augsburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>125</td><td>Bobingen, Stadt</td><td>Waldberg, Reinhartshausen, Straßberg, Kreuzanger</td></tr>
 <tr><td>130</td><td>Diedorf</td><td>Biburg</td></tr>
@@ -7757,9 +8420,11 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>207</td><td>Thierhaupten, Markt</td><td>Thierhaupten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 773 Landkreis Dillingen
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Bachhagel</td><td>Burghagel (1)</td></tr>
 <tr><td>117</td><td>Bissingen, Markt</td><td>Burgmagerbein, Fronhofen, Hochstein, Oberliezheim (1), Diemantstein, Leiheim, Unterringingen, Zoltingen, Bissingen (1), Buggenhofen (1), Gaishardt (1), Göllingen (1), Thalheim-Ost, Warnhofen (1)</td></tr>
@@ -7768,39 +8433,49 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>179</td><td>Villenbach</td><td>Hegnenbach</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 774 Landkreis Günzburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>122</td><td>Burtenbach, Markt</td><td>Kemnat</td></tr>
 <tr><td>140</td><td>Haldenwang</td><td>Eichenhofen (1)</td></tr>
 <tr><td>160</td><td>Münsterhausen, Markt</td><td>Edelstetten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 776 Landkreis Lindau
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>115</td><td>Hergensweiler</td></tr>
 <tr><td>131</td><td>Hergatz</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>114</td><td>Heimenkirch, M.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>117</td><td>Lindenberg i. Allgäu, St.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>122</td><td>Opfenbach</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>126</td><td>Sigmarszell</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 777 Landkreis Ostallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Biessenhofen</td></tr>
 <tr><td>158</td><td>Pforzen</td></tr>
 <tr><td>172</td><td>Stöttwang</td></tr>
 <tr><td>174</td><td>Baisweil</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Aitrang</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>118</td><td>Bidingen</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
@@ -7813,13 +8488,17 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>167</td><td>Ruderatshofen</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>175</td><td>Unterthingau, M.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 778 Landkreis Unterallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>207</td><td>Unteregg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>115</td><td>Babenhausen, Markt</td><td>Klosterbeuren, Babenhausen-West</td></tr>
@@ -7839,9 +8518,11 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>221</td><td>Kettershausen</td><td>Tafertshofen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 779 Landkreis Donau-Ries
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
  ————— <tr><td colspan="3"></td></tr>
 <tr><td>131</td><td>Donauwörth, Stadt</td><td>Zirgesheim</td></tr>
@@ -7850,24 +8531,30 @@ Kreisfreie Stadt Kempten (Allgäu)
 <tr><td>226</td><td>Wechingen</td><td>Wechingen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 780 Landkreis Oberallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>125</td><td>Lauben</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Altusried, M.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>119</td><td>Dietmannsried, M.</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>122</td><td>Haldenwang</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 <tr><td>143</td><td>Waltenhofen</td><td>ohne die Ortsteile bzw. Flächen im Berggebiet</td></tr>
 </tbody>
+</table>
 
 Regierungsbezirk Oberbayern
 
 171 Landkreis Altötting
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>114</td><td>Emmerting</td></tr>
 <tr><td>115</td><td>Erlbach</td></tr>
@@ -7878,25 +8565,31 @@ Regierungsbezirk Oberbayern
 <tr><td>130</td><td>Stammham</td></tr>
 <tr><td>137</td><td>Winhöring</td></tr>
 </tbody>
+</table>
 
 172 Landkreis Berchtesgadener Land
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>122</td><td>Laufen, Stadt</td><td>Leobendorf (1)</td></tr>
 <tr><td>130</td><td>Saaldorf</td><td>Saaldorf-Nord</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 174 Landkreis Dachau
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Altomünster, Markt</td><td>Altomünster, Hohenzell, Kiemertshofen, Oberzeitlbach, Thalhausen, Randelsried, Wollomoos (1)</td></tr>
 <tr><td>147</td><td>Hilgertshausen-Tandern</td><td>Tandern, Randelsried</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 176 Landkreis Eichstätt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Altmannstein, M.</td></tr>
 <tr><td>114</td><td>Beilngries, St.</td></tr>
@@ -7911,14 +8604,18 @@ Regierungsbezirk Oberbayern
 <tr><td>164</td><td>Titting, M.</td></tr>
 <tr><td>165</td><td>Walting</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>139</td><td>Kösching, Markt</td><td>Bettbrunn</td></tr>
 <tr><td>166</td><td>Wellheim, Markt</td><td>Gammerfeld, Hard, Wellheim</td></tr>
 </tbody>
+</table>
 
 181 Landkreis Landsberg a. Lech
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>113</td><td>Denklingen</td><td>Epfach</td></tr>
 <tr><td>121</td><td>Fuchstal</td><td>Seestall</td></tr>
@@ -7926,14 +8623,18 @@ Regierungsbezirk Oberbayern
 <tr><td>144</td><td>Utting a. A.</td><td>Utting (1), Rieden</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 183 Landkreis Mühldorf
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>131</td><td>Niedertaufkirchen</td></tr>
 <tr><td> 151  </td><td> Zangberg  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Ampfing</td><td>Stefanskirchen, Salmanskirchen (1)</td></tr>
 <tr><td>114</td><td>Buchbach, Markt</td><td>Buchbach, Walkersaich</td></tr>
@@ -7943,9 +8644,11 @@ Regierungsbezirk Oberbayern
 <tr><td>144</td><td>Schwindegg</td><td>Walkersaich</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 185 Landkreis Neuburg-Schrobenhausen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Aresing</td></tr>
 <tr><td>116</td><td>Berg i. Gau</td></tr>
@@ -7958,7 +8661,9 @@ Regierungsbezirk Oberbayern
 <tr><td>163</td><td>Königsmoos</td></tr>
 <tr><td>165</td><td>Waidhofen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>127</td><td>Ehekirchen</td><td>Walda</td></tr>
@@ -7966,9 +8671,11 @@ Regierungsbezirk Oberbayern
 <tr><td>153</td><td>Rennertshofen, M.</td><td>mit Ammerfeld (1),   Dünsberg, Emskeim,   Kienberg, Rohrbach,   Störzelmühle, Trugenhofen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 186 Landkreis Pfaffenhofen a. d. Ilm
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Baar-Ebenhausen</td></tr>
 <tr><td>116</td><td>Ernsgaden</td></tr>
@@ -7978,37 +8685,47 @@ Regierungsbezirk Oberbayern
 <tr><td>147</td><td>Reichertshofen, M.</td></tr>
 <tr><td>149</td><td>Rohrbach</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>125</td><td>Gerolsbach</td><td>Gerolsbach-Süd</td></tr>
 </tbody>
+</table>
 
 187 Landkreis Pfaffenhofen a. d. Ilm
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>137</td><td>Manching, Markt</td><td>Manching</td></tr>
 </tbody>
+</table>
 
 187 Landkreis Rosenheim
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>126</td><td>Eiselfing</td><td>Bachmehring (1)</td></tr>
 <tr><td>182</td><td>Wasserburg</td><td>Wasserburg</td></tr>
 <tr><td>116</td><td>Babensham</td><td>Babensham, Kling (1), Penzing, Schambach (1)</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 188 Landkreis Starnberg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>132</td><td>Seefeld</td><td>Oberalting-Seefeld</td></tr>
 <tr><td>145</td><td>Wörthsee</td><td>Steinebach a. W.</td></tr>
 <tr><td>139</td><td>Starnberg, Stadt</td><td>Perchting (1)</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 189 Landkreis Traunstein
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>114</td><td>Chieming</td><td>Oberhochstätt</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -8016,22 +8733,26 @@ Regierungsbezirk Oberbayern
 <tr><td colspan="3"></td></tr>
 <tr><td>143</td><td>Seeon-Seebruck</td><td>Seebruck, Truchtlaching</td></tr>
 </tbody>
+</table>
 
 2 Regierungsbezirk Niederbayern
 
 227 Landkreis Rottal-Inn
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Bayerbach</td><td>Steinberg-Süd</td></tr>
 <tr><td>113</td><td>Birnbach, M.</td><td>Asenham-Süd</td></tr>
 <tr><td>128</td><td>Kirchdorf am Inn</td><td>Ecken</td></tr>
 <tr><td>149</td><td>Triftern, M.</td><td>Anzenkirchen-Süd</td></tr>
 </tbody>
+</table>
 
 262 Kreisfreie Stadt Passau
 
 271 Landkreis Deggendorf
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>113</td><td>Auerbach</td></tr>
 <tr><td>114</td><td>Außernzell</td></tr>
@@ -8048,13 +8769,16 @@ Regierungsbezirk Oberbayern
 <tr><td>149</td><td>Schöllnach, M.</td></tr>
 <tr><td>153</td><td>Winzer, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>119</td><td>Deggendorf, GKSt.</td><td>ohne Natternberg, Haidhof, Mainkofen, Mettenufer, Rettenbach, Stauffendorf</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>128</td><td>Künzing</td><td>Forsthart</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 272 Landkreis Freyung-Grafenau
 
@@ -8062,6 +8786,7 @@ mit allen Gemeinden
 
 273 Landkreis Kelheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td> 119  </td><td> Biburg  </td></tr>
 <tr><td>121</td><td>Essing, M.</td></tr>
@@ -8069,7 +8794,9 @@ mit allen Gemeinden
 <tr><td>159</td><td>Painten, M.</td></tr>
 <tr><td>164</td><td>Riedenburg, St.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>111</td><td>Abensberg, Stadt</td><td>Abensberg, Sandharlanden, Offenstetten, Sallingberg</td></tr>
@@ -8082,9 +8809,11 @@ mit allen Gemeinden
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 275 Landkreis Passau
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Aicha vorm Wald</td></tr>
 <tr><td>117</td><td>Beutelsbach</td></tr>
@@ -8112,13 +8841,16 @@ mit allen Gemeinden
 <tr><td>159</td><td>Windorf, M.</td></tr>
 <tr><td>160</td><td>Witzmannsberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>122</td><td>Fürstenzell, M.</td><td>mit Altenmarkt,   Hofmark, Mahd (*), Steinhügl, Straß , Voglarn  </td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>132</td><td>Malching</td><td>Malching Nord-West</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 276 Landkreis Regen
 
@@ -8126,6 +8858,7 @@ mit allen Gemeinden
 
 277 Landkreis Rottal-Inn
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>116</td><td>Eggenfelden, St.</td></tr>
 <tr><td>119</td><td>Falkenberg</td></tr>
@@ -8143,7 +8876,9 @@ mit allen Gemeinden
 <tr><td>153</td><td>Wurmannsquick, M.</td></tr>
 <tr><td>154</td><td>Zeilarn</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>111</td><td>Arnstorf, Markt</td><td>Unterhöft</td></tr>
 <tr><td>113</td><td>Birnbach, Markt</td><td>Brombach</td></tr>
@@ -8157,9 +8892,11 @@ mit allen Gemeinden
 <tr><td>149</td><td>Triftern, Markt</td><td>Lengsham, Neukirchen bei Pf., Triftern, Wiesing, Voglarn</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 278 Landkreis Straubing-Bogen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>116</td><td>Ascha</td></tr>
 <tr><td>118</td><td>Bogen, St.</td></tr>
@@ -8182,17 +8919,22 @@ mit allen Gemeinden
 <tr><td>197</td><td>Wiesenfelden</td></tr>
 <tr><td>198</td><td>Windberg</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>141</td><td>Kirchroth</td><td>mit Aufroth, Neumühl, Neuroth</td></tr>
 </tbody>
+</table>
 
 279 Landkreis Dingolfing-Landau
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>134</td><td>Reisbach, Markt</td><td>Haberskirchen, Niederreisbach</td></tr>
 <tr><td>145</td><td>Simbach, Markt</td><td>Ruhstorf, Pischlsdorf</td></tr>
 </tbody>
+</table>
 
 3 Regierungsbezirk Oberpfalz
 
@@ -8218,6 +8960,7 @@ mit allen Gemeinden
 
 375 Landkreis Regensburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>114</td><td>Altenthann</td></tr>
 <tr><td>118</td><td>Beratzhausen</td></tr>
@@ -8241,7 +8984,9 @@ mit allen Gemeinden
 <tr><td>211</td><td>Wolfsegg</td></tr>
 <tr><td>213</td><td>Zeitlarn</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>116</td><td>Bach a. d. Donau</td><td>Bach/Donau (1)</td></tr>
@@ -8250,6 +8995,7 @@ mit allen Gemeinden
 <tr><td>210</td><td>Wörth a. d. Donau, St.</td><td>mit Hafnerhof, Hintergrub, Hinterzirnberg, Hornau, Hungeracker, Kälberhäusl, Kirnberg, Pfraumbach, Piehl, Reichenbach, Reiserhof, Vordergrub, Vorderzirnberg, Oberelend, Unterelend, Weihern , Tiefenthal (1), Wörth/Donau  </td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 376 Landkreis Schwandorf
 
@@ -8325,6 +9071,7 @@ mit Ottersdorf, Walpersdorf
 
 571 Landkreis Ansbach
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Adelshofen</td></tr>
 <tr><td>113</td><td>Arberg, M.</td></tr>
@@ -8381,15 +9128,19 @@ mit Ottersdorf, Walpersdorf
 <tr><td>228</td><td>Wörnitz</td></tr>
 <tr><td>229</td><td>Wolframs-Eschenbach, St.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>169</td><td>Insingen</td><td>Insingen</td></tr>
 <tr><td>193</td><td>Rothenburg o. d. Tauber, Große Kreisstadt</td><td>Rothenburg-West</td></tr>
 <tr><td>205</td><td>Steinsfeld</td><td>Bettwar, Gattenhofen-West,   Hartershofen-Ost, Endsee</td></tr>
 </tbody>
+</table>
 
 72 Landkreis Erlangen-Höchstadt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Adelsdorf</td></tr>
 <tr><td>114</td><td>Aurachtal, M.</td></tr>
@@ -8413,21 +9164,27 @@ mit Ottersdorf, Walpersdorf
 <tr><td>160</td><td>Wachenroth, M.</td></tr>
 <tr><td>164</td><td>Weisendorf, M.</td></tr>
 </tbody>
+</table>
 
 573 Landkreis Fürth
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>115</td><td>Großhabersdorf</td></tr>
 <tr><td>133</td><td>Wilhermsdorf, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>120</td><td>Langenzenn, Stadt</td><td>Kirchfembach, Laubendorf (1)</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 574 Landkreis Nürnberger Land
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Alfeld</td></tr>
 <tr><td>112</td><td>Altdorf b. Nürnberg, St.</td></tr>
@@ -8455,9 +9212,11 @@ mit Ottersdorf, Walpersdorf
 <tr><td>161</td><td>Vorra</td></tr>
 <tr><td>164</td><td>Winkelhaid</td></tr>
 </tbody>
+</table>
 
 575 Landkreis a. d. Aisch-Bad Windsheim
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Bad Windsheim, St.</td></tr>
 <tr><td>113</td><td>Baudenbach, M.</td></tr>
@@ -8488,7 +9247,9 @@ mit Ottersdorf, Walpersdorf
 <tr><td>167</td><td>Ühlfeld, M.</td></tr>
 <tr><td>181</td><td>Wilhelmsdorf</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>115</td><td>Burgbernheim, Stadt</td><td>Burgbernheim (1)</td></tr>
 <tr><td>124</td><td>Gallmersgarten</td><td>Gallmersgarten-Süd, Steinach a. d. E.</td></tr>
@@ -8496,6 +9257,7 @@ mit Ottersdorf, Walpersdorf
 <tr><td>179</td><td>Weigenheim</td><td>Reusch, Geckenheim-Nord</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 576 Landkreis Roth
 
@@ -8509,12 +9271,15 @@ mit allen Gemeinden
 
 Kreisfreie Stadt Aschaffenburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>661</td><td>Aschaffenburg</td><td>mit Gailbach</td></tr>
 </tbody>
+</table>
 
 671 Landkreis Aschaffenburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Bessenbach</td></tr>
 <tr><td>113</td><td>Blankenbach</td></tr>
@@ -8545,6 +9310,7 @@ Kreisfreie Stadt Aschaffenburg
 <tr><td>160</td><td>Dammbach</td></tr>
 <tr><td>162</td><td>Wiesen</td></tr>
 </tbody>
+</table>
 
 672 Bad Kissingen
 
@@ -8556,6 +9322,7 @@ mit allen Gemeinden
 
 674 Landkreis Haßberge
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Aidhausen</td></tr>
 <tr><td>118</td><td>Breitbrunn</td></tr>
@@ -8581,14 +9348,18 @@ mit allen Gemeinden
 <tr><td>219</td><td>Wonfurt</td></tr>
 <tr><td>221</td><td>Zeil a. Main, St.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>180</td><td>Theres</td><td>Buch (1)</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 675 Landkreis Kitzingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Abtswind, M.</td></tr>
 <tr><td>116</td><td>Castell</td></tr>
@@ -8599,16 +9370,20 @@ mit allen Gemeinden
 <tr><td>177</td><td>Wiesenbronn</td></tr>
 <tr><td>178</td><td>Wiesentheid, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>142</td><td>Kleinlangheim, Markt</td><td>Atzhausen (1)</td></tr>
 <tr><td>158</td><td>Prichsenstadt</td><td>Altenhönbach, Kirchschönbach, Neudorf</td></tr>
 <tr><td>165</td><td>Schwarzach a. M., Markt</td><td>Gerlachshausen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 676 Landkreis Miltenberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Altenbuch</td></tr>
 <tr><td>112</td><td>Amorbach, St.</td></tr>
@@ -8626,7 +9401,9 @@ mit allen Gemeinden
 <tr><td>160</td><td>Sulzbach a. Main, M.</td></tr>
 <tr><td>165</td><td>Weilbach, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>123</td><td>Eschau, M.</td><td>mit Hobbach, Hofwildensee, Wildensee, Wildenthal , Eschau-Nordost, Oberaulenbach, Unteraulenbach, Wildenstein (1)  </td></tr>
 <tr><td colspan="3"></td></tr>
@@ -8634,9 +9411,11 @@ mit allen Gemeinden
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 677 Landkreis Main-Spessart
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>114</td><td>Arnstein, St.</td></tr>
 <tr><td>116</td><td>Aura i. Sinngrund</td></tr>
@@ -8669,16 +9448,20 @@ mit allen Gemeinden
 <tr><td>200</td><td>Wiesthal</td></tr>
 <tr><td>174</td><td>Retzbach, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>148</td><td>Karlstadt, St.</td><td>mit Karlstadt, Gambach, Stetten, Heßlar</td></tr>
 <tr><td>151</td><td>Kreuzwertheim, M.</td><td>mit Kreuzwertheim, Wiebelbach</td></tr>
 <tr><td>157</td><td>Marktheidenfeld, St.</td><td>mit Zimmern</td></tr>
 <tr><td>166</td><td>Neustadt a. Main</td><td>mit Neustadt a. M., Aurora, Margarethenhof</td></tr>
 </tbody>
+</table>
 
 678 Landkreis Schweinfurt
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>123</td><td>Dittelbrunn</td></tr>
 <tr><td>157</td><td>Michelau i. Steigerwald</td></tr>
@@ -8687,7 +9470,9 @@ mit allen Gemeinden
 <tr><td>181</td><td>Stadtlauringen, M.</td></tr>
 <tr><td>186</td><td>Üchtelhausen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>128</td><td>Euerbach</td><td>Obbach</td></tr>
@@ -8698,18 +9483,22 @@ mit allen Gemeinden
 <tr><td>192</td><td>Wasserlosen</td><td>mit Kaisten, Greßtal (1), Rütschenhausen, Burghausen (1), Schwemmelsbach,   Wasserlosen, Wülfershausen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 679 Landkreis Würzburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>161</td><td>Margetshöchheim</td></tr>
 <tr><td>194</td><td>Tüngersheim</td></tr>
 </tbody>
+</table>
 
 7 Regierungsbezirk Schwaben
 
 772 Landkreis Augsburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Adelsried</td></tr>
 <tr><td>115</td><td>Altenmünster</td></tr>
@@ -8727,7 +9516,9 @@ mit allen Gemeinden
 <tr><td>216</td><td>Welden, M.</td></tr>
 <tr><td>223</td><td>Zusmarshausen, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>125</td><td>Bobingen, Stadt</td><td>Waldberg, Reinhartshausen, Straßberg, Kreuzanger</td></tr>
 <tr><td>130</td><td>Diedorf</td><td>Biburg</td></tr>
@@ -8742,9 +9533,11 @@ mit allen Gemeinden
 <tr><td>207</td><td>Thierhaupten, Markt</td><td>Thierhaupten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 771 Landkreis Aichach-Friedberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>140</td><td>Hollenbach</td></tr>
@@ -8754,7 +9547,9 @@ mit allen Gemeinden
 <tr><td>165</td><td>Sielenbach</td></tr>
 <tr><td>169</td><td>Todtenweis</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Adelzhausen</td><td>Heretshausen</td></tr>
 <tr><td>113</td><td>Aichach, Stadt</td><td>Klingen, Ecknach, Gallenbach, Sulzbach, Oberbernbach, Oberwittelsbach, Unterwittelsbach, Obermauerbach (1) , Aichach-Ost  </td></tr>
@@ -8764,9 +9559,11 @@ mit allen Gemeinden
 <tr><td>156</td><td>Pöttmes, Markt</td><td>Pöttmes, Schnellmannskreut, Handzell, Schorn, Grimolzhausen, Immendorf</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 773 Landkreis Dillingen a. d. Donau
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>112</td><td>Bachhagel</td><td>Burghagel (1)</td></tr>
@@ -8779,9 +9576,11 @@ mit allen Gemeinden
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 774 Landkreis Günzburg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Aletshausen</td></tr>
 <tr><td>115</td><td>Balzhausen</td></tr>
@@ -8800,16 +9599,20 @@ mit allen Gemeinden
 <tr><td>196</td><td>Winterbach</td></tr>
 <tr><td>198</td><td>Ziemetshausen, M.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>122</td><td>Burtenbach, Markt</td><td>Kemnat</td></tr>
 <tr><td>140</td><td>Haldenwang</td><td>Eichenhofen (1)</td></tr>
 <tr><td>160</td><td>Münsterhausen, Markt</td><td>Edelstetten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 775 Landkreis Neu-Ulm
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>118</td><td>Buch, M.</td></tr>
 <tr><td>132</td><td>Kellmünz a. d. Iller, M.</td></tr>
@@ -8817,9 +9620,11 @@ mit allen Gemeinden
 <tr><td>142</td><td>Osterberg</td></tr>
 <tr><td>161</td><td>Unterroth</td></tr>
 </tbody>
+</table>
 
 778 Landkreis Unterallgäu
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>134</td><td>Eppishausen</td></tr>
 <tr><td>157</td><td>Kirchhaslach</td></tr>
@@ -8828,7 +9633,9 @@ mit allen Gemeinden
 <tr><td>188</td><td>Pleß</td></tr>
 <tr><td>217</td><td>Winterrieden</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>115</td><td>Babenhausen, Markt</td><td>Klosterbeuren, Babenhausen-West</td></tr>
 <tr><td>120</td><td>Boos</td><td>Reichau, Ried</td></tr>
@@ -8837,9 +9644,11 @@ mit allen Gemeinden
 <tr><td>221</td><td>Kettershausen</td><td>Tafertshofen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 779 Landkreis Donau-Ries
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>126</td><td>Buchdorf</td></tr>
 <tr><td>129</td><td>Daiting</td></tr>
@@ -8858,7 +9667,9 @@ mit allen Gemeinden
 <tr><td>231</td><td>Wolferstadt</td></tr>
 <tr><td>206</td><td>Rögling</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Alerheim</td><td>mit Anhauserhöfe, Bühl i. Ries, Rudelstetten</td></tr>
 <tr><td>117</td><td>Auhausen</td><td>mit Aushausen-Ost,   Dornstadt, Hirschbrunn, Linkersbaindt</td></tr>
@@ -8873,17 +9684,21 @@ mit allen Gemeinden
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 7 Regierungsbezirk Schwaben
 
 771 Landkreis Aichach-Friedberg
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>140</td><td>Hollenbach</td></tr>
 <tr><td>165</td><td>Sielenbach</td></tr>
 <tr><td>169</td><td>Todtenweis</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>111</td><td>Adelzhausen</td><td>Heretshausen</td></tr>
 <tr><td>113</td><td>Aichach, Stadt</td><td>Klingen, Ecknach, Gallenbach, Sulzbach, Oberbernbach, Oberwittelsbach, Unterwittelsbach, Obermauerbach (1) , Aichach-Ost  </td></tr>
@@ -8893,9 +9708,11 @@ mit allen Gemeinden
 <tr><td>156</td><td>Pöttmes, Markt</td><td>Pöttmes, Schnellmannskreut, Handzell, Schorn, Grimolzhausen, Immendorf</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 772 Landkreis Augsburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>125</td><td>Bobingen, Stadt</td><td>Waldberg, Reinhartshausen, Straßberg, Kreuzanger</td></tr>
 <tr><td>130</td><td>Diedorf</td><td>Biburg</td></tr>
@@ -8910,13 +9727,17 @@ mit allen Gemeinden
 <tr><td>207</td><td>Thierhaupten, Markt</td><td>Thierhaupten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 773 Landkreis Dillingen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>187</td><td>Zöschingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>112</td><td>Bachhagel</td><td>Burghagel (1)</td></tr>
 <tr><td>117</td><td>Bissingen, Markt</td><td>Burgmagerbein, Fronhofen, Hochstein, Oberliezheim (1), Diemantstein, Leiheim, Unterringingen, Zoltingen, Bissingen (1), Buggenhofen (1), Gaishardt (1), Göllingen (1), Thalheim-Ost, Warnhofen (1)</td></tr>
@@ -8925,18 +9746,22 @@ mit allen Gemeinden
 <tr><td>179</td><td>Villenbach</td><td>Hegnenbach</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 774 Landkreis Günzburg
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>122</td><td>Burtenbach, Markt</td><td>Kemnat</td></tr>
 <tr><td>140</td><td>Haldenwang</td><td>Eichenhofen (1)</td></tr>
 <tr><td>160</td><td>Münsterhausen, Markt</td><td>Edelstetten</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 778 Landkreis Unterallgäu
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
 <tr><td>115</td><td>Babenhausen, Markt</td><td>Klosterbeuren, Babenhausen-West</td></tr>
 <tr><td>120</td><td>Boos</td><td>Reichau, Ried</td></tr>
@@ -8945,13 +9770,17 @@ mit allen Gemeinden
 <tr><td>221</td><td>Kettershausen</td><td>Tafertshofen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 779 Landkreis Donau-Ries
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>136</td><td>Ederheim</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinde mit Teilflächen</td></tr>
  ————— <tr><td colspan="3"></td></tr>
 <tr><td>131</td><td>Donauwörth, Stadt</td><td>Zirgesheim</td></tr>
@@ -8963,9 +9792,11 @@ mit allen Gemeinden
 <tr><td>226</td><td>Wechingen</td><td>Wechingen</td></tr>
 <tr><td colspan="3"> (1) Teile der Gemarkung. </td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
+<table>
 <tbody><tr><td colspan="2">Landkreis</td><td colspan="2">Gemeinde</td><td rowspan="2"> mit Teilflächen  (Gemarkung/Altgemeinde) </td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>178</td><td>Freising</td><td>124</td><td>Freising, Große Kreisstadt</td><td>Haindlfing</td></tr>
@@ -8983,6 +9814,7 @@ KLEINES GEBIET
 <tr><td>675</td><td>Kitzingen</td><td>174</td><td>Volkach, Stadt</td><td>Fahr</td></tr>
 <tr><td>774</td><td>Günzburg</td><td>135</td><td>Günzburg, Große Kreisstadt</td><td>Riedhausen b. G., Moos</td></tr>
 </tbody>
+</table>
 
 SAARLAND
 
@@ -8990,57 +9822,74 @@ BENACHTEILIGTE AGRARZONE
 
 42 Landkreis Merzig-Wadern
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Losheim</td></tr>
 <tr><td>116</td><td>Wadern</td></tr>
 <tr><td>117</td><td>Weiskirchen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>113</td><td>Merzig</td><td>mit Brotdorf</td></tr>
 <tr><td>114</td><td>Mettlach</td><td>mit Saarhölzbach</td></tr>
 </tbody>
+</table>
 
 46 Landkreis St. Wendel
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>111</td><td>Freisen</td></tr>
 <tr><td>114</td><td>Nohfelden</td></tr>
 <tr><td>115</td><td>Nonnweiler</td></tr>
 </tbody>
+</table>
 
 KLEINES GEBIET
 
 41 Stadtverband Saarbrücken
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>  </td><td>Völklingen, Stadt</td></tr>
 <tr><td>  </td><td>Emmersweiler</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>512</td><td>Großrosseln</td><td>mit Karlsbrunn</td></tr>
 <tr><td>514</td><td>Kleinblittersdorf</td><td>mit Auersmacher, Bliesransbach, Rilchingen-Hanweiler, Sitterswald</td></tr>
 <tr><td>519</td><td>Völklingen</td><td>mit Lauterbach</td></tr>
 </tbody>
+</table>
 
 42 Landkreis Merzig-Wadern
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>111</td><td>Beckingen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>113</td><td>Merzig</td><td>mit Bietzen, Büdingen, Harlingen, Mechern, Menningen, Merchingen, Mondorf, Silwingen, Weiler, Wellingen</td></tr>
 <tr><td>114</td><td>Mettlach</td><td>mit Bethingen, Dreisbach, Nohn, Tünsdorf, Wehingen, Weiten</td></tr>
 </tbody>
+</table>
 
 45 Landkreis Saar
 
+<table>
 <tbody><tr><td colspan="2">Gemeinde</td></tr>
 <tr><td>113</td><td>Gersheim</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>111</td><td>Bexbach</td><td>mit Bexbach (Stadt), Frankenholz, Höchen, Kleinottweiler, Oberbexbach</td></tr>
 <tr><td>112</td><td>Blieskastel</td><td>mit Altheim, Ballweiler, Bierbach, Blickweiler, Blieskastel (Stadt), Breitfurt, Brenschelbach, Neualtheim, Niederwürzbach, Wolfersheim</td></tr>
@@ -9049,15 +9898,19 @@ KLEINES GEBIET
 <tr><td>116</td><td>Mandelbachtal</td><td>mit Bebelsheim, Bliesmengen-Bolchen, Habkirchen, Heckendahlheim, Wittersheim</td></tr>
 <tr><td>117</td><td>St. Ingbert</td><td>mit Hassel, Oberwürzbach, Rohrbach</td></tr>
 </tbody>
+</table>
 
 44 Landkreis Saarlouis
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>114</td><td>Rehlingen</td></tr>
 <tr><td>119</td><td>Überherrn</td></tr>
 <tr><td>121</td><td>Wallerfangen</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>  </td><td>Schwalbach</td><td>mit Schwalbach und Elm</td></tr>
@@ -9066,9 +9919,11 @@ KLEINES GEBIET
 <tr><td>117</td><td>Schmelz</td><td>mit Dorf, Limbach, Michelbach</td></tr>
 <tr><td>120</td><td>Wadgassen</td><td>mit Differten</td></tr>
 </tbody>
+</table>
 
 46 Landkreis St. Wendel
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>112</td><td>Marpingen</td></tr>
 <tr><td>113</td><td>Namborn</td></tr>
@@ -9076,20 +9931,25 @@ KLEINES GEBIET
 <tr><td>117</td><td>St. Wendel</td></tr>
 <tr><td>118</td><td>Tholey</td></tr>
 </tbody>
+</table>
 
 43 Landkreis Neunkirchen
 
+<table>
 <tbody><tr><td colspan="2">Gemeinden</td></tr>
 <tr><td>  </td><td> Neunkirchen, Stadt  </td></tr>
 <tr><td>113</td><td>Merchweiler</td></tr>
 <tr><td>115</td><td>Ottweiler</td></tr>
 <tr><td>116</td><td>Schiffweiler</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="3">Gemeinden mit Teilflächen</td></tr>
 <tr><td>112</td><td>Illingen</td><td>mit Hirtzweiler, Hüttigweiler, Illingen, Welschbach</td></tr>
 <tr><td>114</td><td>Neunkirchen</td><td>mit Hangard, Münchwies</td></tr>
 </tbody>
+</table>
 
 BERLIN
 
@@ -9117,6 +9977,7 @@ Neukölln
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (4) OF DIRECTIVE 75/268/EEC
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td rowspan="7">11000</td><td>Berlin (Ost)</td><td>4901</td></tr>
 <tr><td>*Hellersdorf</td><td>800</td></tr>
@@ -9126,11 +9987,13 @@ LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (4) OF DIRECTIVE 75/268/EEC
 <tr><td>*Hohenschönhausen</td><td>200</td></tr>
 <tr><td>*Köpenick</td><td>801</td></tr>
 </tbody>
+</table>
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (3) OF DIRECTIVE 75/268/EEC
 
 Land: SACHSEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>14171</td><td>Annaberg</td><td>649</td></tr>
 <tr><td>14171150</td><td>Hammerunterwiesenthal</td><td>210</td></tr>
@@ -9147,11 +10010,13 @@ Land: SACHSEN
 <tr><td>*Gemarkungen*</td><td>  </td></tr>
 <tr><td>*Gem. Tellerhäuser</td><td>9</td></tr>
 </tbody>
+</table>
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (4) OF DIRECTIVE 75/268/EEC
 
 Land: BRANDENBURG
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td rowspan="7">12051</td><td>Brandenburg a. d. Havel, St.</td><td>3450</td></tr>
 <tr><td>*Gemarkungen*</td><td>  </td></tr>
@@ -10607,9 +11472,11 @@ Land: BRANDENBURG
 <tr><td>12073632</td><td>Wolletz</td><td>415</td></tr>
 <tr><td>12073636</td><td>Wollschow</td><td>1 539</td></tr>
 </tbody>
+</table>
 
 Land: MECKLENBURG-VORPOMMERN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>13051</td><td>Bad Doberan</td><td>24431</td></tr>
 <tr><td>13051008</td><td>Benitz</td><td>799</td></tr>
@@ -11279,9 +12146,11 @@ Land: MECKLENBURG-VORPOMMERN
 <tr><td>13002000</td><td>Weitin</td><td>450</td></tr>
 <tr><td>13002000</td><td>Küssow</td><td>507</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>14166</td><td>Plauen, Stadt</td><td>2797</td></tr>
 <tr><td rowspan="13">14166000</td><td>Plauen, Stadt</td><td>  </td></tr>
@@ -12042,9 +12911,11 @@ Land: SACHSEN
 <tr><td>14389350</td><td>Wildenhain</td><td>759</td></tr>
 <tr><td>14389370</td><td>Wörblitz</td><td>913</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN-ANHALT
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>151</td><td>Kreis Anhalt-Zerbst</td><td>  </td></tr>
 <tr><td>151002</td><td>Bornum</td><td>1 636</td></tr>
@@ -12382,9 +13253,11 @@ Land: SACHSEN-ANHALT
 <tr><td>370111</td><td>Thielbeer</td><td>695</td></tr>
 <tr><td>370126</td><td>Ziemendorf</td><td>635</td></tr>
 </tbody>
+</table>
 
 Land: THÜRINGEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>16061</td><td>Kreis Eichsfeld</td><td>28242</td></tr>
 <tr><td>16061002</td><td>Asbach-Sickenberg</td><td>241</td></tr>
@@ -13290,11 +14163,13 @@ Land: THÜRINGEN
 <tr><td>*Gem. Wichtshausen</td><td>142</td></tr>
 <tr><td>*Gem. Vesser</td><td>113</td></tr>
 </tbody>
+</table>
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 
 Land: BRANDENBURG
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>12073</td><td>Kreis Uckermark</td><td>8494</td></tr>
 <tr><td>12073064</td><td>Blumberg</td><td>1 348</td></tr>
@@ -13308,6 +14183,7 @@ Land: BRANDENBURG
 <tr><td>*Gem. Heinersdorf</td><td>1 200</td></tr>
 <tr><td>12073580</td><td>Vierraden</td><td>1 491</td></tr>
 </tbody>
+</table>
 
 Land: SACHSEN
 
@@ -13319,6 +14195,7 @@ Land: SACHSEN
 
 Land: THÜRINGEN
 
+<table>
 <tbody><tr><td>Nummer</td><td>Kreis-/Gemeindename</td><td>LF (ha)</td></tr>
 <tr><td>16053</td><td>Jena, Stadt</td><td>482</td></tr>
 <tr><td rowspan="8">16053000</td><td>Jena, Stadt</td><td>  </td></tr>
@@ -13330,6 +14207,7 @@ Land: THÜRINGEN
 <tr><td>*Gem. Wöllnitz\Lobeda</td><td>59</td></tr>
 <tr><td>*Gem. Göschwitz</td><td>38</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1.
 

@@ -1,0 +1,79 @@
+---
+title: "Commission Implementing Regulation (EU) No 81/2013 of 29 January 2013 amending Implementing Regulation (EU) No 1051/2011 as regards the micro-data files for the transmission of data Text with EEA relevance"
+identifier: "32013R0081"
+eli: "http://data.europa.eu/eli/reg_impl/2013/81/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2013-01-29
+entry_into_force: 2013-09-29
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0081"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 81/2013 of 29 January 2013 amending Implementing Regulation (EU) No 1051/2011 as regards the micro-data files for the transmission of data Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 81/2013**
+
+**of 29 January 2013**
+
+**amending Implementing Regulation (EU) No 1051/2011 as regards the micro-data files for the transmission of data**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 692/2011 of the European Parliament and of the Council of 6 July 2011 concerning European statistics on tourism and repealing Council Directive 95/57/EC (1), and in particular Article 9(2) and (3) thereof,
+
+Whereas:
+
+(1) The introduction of an updated classification system is central to the Commission’s ongoing efforts to maintain the relevance of European statistics, by taking into account developments and changes in the area of education.
+
+(2) The United Nations Educational, Scientific and Cultural Organisation (Unesco) has revised the version of the International Standard Classification of Education (ISCED) used hitherto (ISCED 1997) with the objective of ensuring that it is consistent with developments in the policies and structures of education and training.
+
+(3) The need for international comparability of educational statistics requires that the Member States and the institutions of the European Union use classifications of education which are compatible with the revised International Standard Classification of Education ISCED 2011 (ISCED 2011), as adopted by the Unesco Member States at their 36th General Conference in November 2011.
+
+(4) Commission Implementing Regulation (EU) No 1051/2011 (2) should therefore be amended accordingly.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the European Statistical System Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex III to Implementing Regulation (EU) No 1051/2011 is amended as set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 29 January 2013.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+(1) OJ L 192, 22.7.2011, p. 17.
+
+(2) OJ L 276, 21.10.2011, p. 13.
+
+## ANNEX
+
+The description of column 80 (Educational level) of Annex III to Implementing Regulation (EU) No 1051/2011 is replaced by the following:
+
+| Column | Identifier | Description | Filter/remarks |
+| --- | --- | --- | --- |
+| ‘80 |  | Educational attainment level | Optional variable, if not transmitted: code = Blank’ |
+|  | 1 | At most lower secondary (ISCED 2011 levels 0-2) |  |
+|  | 2 | Upper secondary and post-secondary (non-tertiary) (ISCED 2011 levels 3 and 4) |  |
+|  | 3 | Tertiary (ISCED 2011 levels 5-8) |  |

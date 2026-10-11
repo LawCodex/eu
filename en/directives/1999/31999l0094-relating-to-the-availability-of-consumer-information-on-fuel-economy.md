@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COMMISSION DIRECTIVE 2003/73/EC Text with EEA relevance of 24 July 2003</td><td> L 186</td><td>34</td><td>25.7.2003</td></tr>
 <tr><td></td><td>REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td>REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008</td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
+</table>
 
 **DIRECTIVE 1999/94/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

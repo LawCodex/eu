@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/1/EU of 20 December 2012 </td><td> L 26</td><td>27</td><td>26.1.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 93/109/EC**
 

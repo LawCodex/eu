@@ -1,0 +1,60 @@
+---
+title: "Commission Delegated Regulation (EU) 2023/1570 of 23 May 2023 correcting the Hungarian language version of Delegated Regulation (EU) 2020/689 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (Text with EEA relevance)"
+identifier: "32023R1570"
+eli: "http://data.europa.eu/eli/reg_del/2023/1570/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2023-05-23
+entry_into_force: 2023-11-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1570"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2023/1570 of 23 May 2023 correcting the Hungarian language version of Delegated Regulation (EU) 2020/689 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/1570**
+
+**of 23 May 2023**
+
+**correcting the Hungarian language version of Delegated Regulation (EU) 2020/689 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Article 42(6) thereof,
+
+Whereas:
+
+(1) The Hungarian language version of Commission Delegated Regulation (EU) 2020/689 (2) contains an error in Part I, Chapter 1, Section 3, point 1, introductory phrase, of Annex IV that alters the meaning of the provision.
+
+(2) The Hungarian language version of Delegated Regulation (EU) 2020/689 should therefore be corrected accordingly. The other language versions are not affected,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(Does not concern the English language.)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 23 May 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 84, 31.3.2016, p. 1.
+
+(2) Commission Delegated Regulation (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (OJ L 174, 3.6.2020, p. 211).

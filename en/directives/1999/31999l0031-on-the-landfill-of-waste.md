@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the landfill of waste**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003 </td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COUNCIL DIRECTIVE 2011/97/EU of 5 December 2011 </td><td> L 328</td><td>49</td><td>10.12.2011</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2018/850 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>100</td><td>14.6.2018</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1785 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 </td><td> L 1785</td><td>1</td><td>15.7.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 1999/31/EC**
 
@@ -705,6 +707,7 @@ The purpose of this Annex is to provide the minimum procedures for monitoring to
 
 Should Member States decide that water balances are an effective tool for evaluating whether leachate is building up in the landfill body or whether the site is leaking, it is recommended that the following data are collected from monitoring at the landfill or from the nearest meteorological station, as long as required by the competent authority in accordance with Article 13(c) of this Directive:
 
+<table>
 <tbody><tr><td>  </td><td>Operation phase</td><td>After-care phase</td></tr>
 <tr><td>1.1. Volume of precipitation</td><td>daily</td><td>daily, added to monthly values</td></tr>
 <tr><td>1.2. Temperature (min., max., 14.00 h CET)</td><td>daily</td><td>monthly average</td></tr>
@@ -713,6 +716,7 @@ Should Member States decide that water balances are an effective tool for evalua
 <tr><td>1.5. Atmospheric humidity (14.00 h CET)</td><td>daily</td><td>monthly average</td></tr>
 <tr><td colspan="3">(1)  Or through other suitable methods. </td></tr>
 </tbody>
+</table>
 
 **3\. Emission data: water, leachate and gas control**
 
@@ -724,6 +728,7 @@ Gas monitoring must be representative for each section of the landfill. The freq
 
 The frequency of sampling could be adapted on the basis of the morphology of the landfill waste (in tumulus, buried, etc). This has to be specified in the permit.
 
+<table>
 <tbody><tr><td>  </td><td>Operating phase</td><td>After-care phase (3)</td></tr>
 <tr><td>2.1. Leachate volume</td><td>monthly (1)(3)</td><td>every six months</td></tr>
 <tr><td>2.2. Leachate composition (2)</td><td>quarterly (3)</td><td>every six months</td></tr>
@@ -731,6 +736,7 @@ The frequency of sampling could be adapted on the basis of the morphology of the
 <tr><td>2.4. Potential gas emissions and atmospheric pressure (4)(CH4, CO2, O2, H2S, H2 etc.)</td><td>monthly (3)(5)</td><td>every six months (6)</td></tr>
 <tr><td colspan="3">(1)  The frequency of sampling could be adapted on the basis of the morphology of the landfill waste (in tumulus, buried, etc.). This has to be specified in the permit.  (2)  The parameters to be measured and the substances to be analysed vary according to the composition of the waste deposited; they must be laid down in the permit document and reflect the leaching characteristics of the wastes.  (3)  If the evaluation of data indicates that longer intervals are equally effective, they may be adapted. For leachates, conductivity must always be measured at least once a year.  (4)  Thease measurements are related mainly to the content of organic material in the waste.  (5)  CH4, CO2, O2, regularly, other gases as required, according to the composition of the waste deposited, with a view to reflecting its leaching properties.  (6)  Efficiency of the gas extraction system must be checked regularly.  (7)  On the basis of the characteristics of the landfill site, the competent authority may determine that these measurements are not required, and will report accordingly in the way laid down in Article 15 of the Directive.  2.1 and 2.2 apply only where leachate collection takes place (see Annex I(2)). </td></tr>
 </tbody>
+</table>
 
 **4\. Protection of groundwater**
 
@@ -744,11 +750,13 @@ Sampling must be carried out in at least three locations before the filling oper
 
 The parameters to be analysed in the samples taken must be derived from the expected composition of the leachate and the groundwater quality in the area. In selecting the parameters for analysis account should be taken of mobility in the groundwater zone. Parameters could include indicator parameters in order to ensure an early recognition of change in water quality ( 8 ).
 
+<table>
 <tbody><tr><td>  </td><td>Operation phase</td><td>After-care phase</td></tr>
 <tr><td>Level of groundwater</td><td>every six months (1)</td><td>every six months (1)</td></tr>
 <tr><td>Groundwater composition</td><td>site-specific frequency (2)(3)</td><td>site-specific frequency (2)(3)</td></tr>
 <tr><td colspan="3">(1)  If there are fluctuating groundwater levels, the frequency must be increased.  (2)  The frequency must be based on possibility for remedial actions between two samplings if a trigger level is reached, i.e. the frequency must be determined on the basis of knowledge and the evaluation of the velocity of groundwater flow.  (3)  When a trigger level is reached (see C), verification is necessary by repeating the sampling. When the level has been confirmed, a contingency plan (laid down in the permit) must be followed. </td></tr>
 </tbody>
+</table>
 
 **C. Trigger levels**
 
@@ -758,11 +766,13 @@ The observations must be evaluated by means of control charts with established c
 
 **5\. Topography of the site: data on the landfill body**
 
+<table>
 <tbody><tr><td>  </td><td>Operating phase</td><td>After-care phase</td></tr>
 <tr><td>5.1. Structure and composition of landfill body (1)</td><td>yearly</td><td>  </td></tr>
 <tr><td>5.2. Settling behaviour of the level of the landfill body</td><td>yearly</td><td>yearly reading</td></tr>
 <tr><td colspan="3">(1)  Data for the status plan of the concerned landfill: surface occupied by waste, volume and composition of waste, methods of depositing, time and duration of depositing, calculation of the remaining capacity still available at the landfill. </td></tr>
 </tbody>
+</table>
 
 **6\. Specific requirements for metallic mercury**
 

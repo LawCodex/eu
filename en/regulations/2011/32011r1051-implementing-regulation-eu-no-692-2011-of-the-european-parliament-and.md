@@ -1,0 +1,322 @@
+---
+title: "Commission Implementing Regulation (EU) No 1051/2011 of 20 October 2011 implementing Regulation (EU) No 692/2011 of the European Parliament and of the Council concerning European statistics on tourism, as regards the structure of the quality reports and the transmission of the data Text with EEA relevance"
+identifier: "32011R1051"
+eli: "http://data.europa.eu/eli/reg_impl/2011/1051/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2011-10-20
+entry_into_force: 2011-12-01
+last_amended: 2021-08-08
+consolidated_version: "02011R1051-20210808"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R1051-20210808"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1051/2011 of 20 October 2011 implementing Regulation (EU) No 692/2011 of the European Parliament and of the Council concerning European statistics on tourism, as regards the structure of the quality reports and the transmission of the data Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1051/2011**
+
+**of 20 October 2011**
+
+**implementing Regulation (EU) No 692/2011 of the European Parliament and of the Council concerning European statistics on tourism, as regards the structure of the quality reports and the transmission of the data**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 81/2013 of 29 January 2013 </td><td> L 28</td><td>1</td><td>30.1.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1179 of 16 July 2021 </td><td> L 256</td><td>89</td><td>19.7.2021</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1051/2011**
+
+**of 20 October 2011**
+
+**implementing Regulation (EU) No 692/2011 of the European Parliament and of the Council concerning European statistics on tourism, as regards the structure of the quality reports and the transmission of the data**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+The arrangements for and structure of the quality reports shall be as set out in Annex I.
+
+## Article 2
+
+The exchange standard for aggregate tables shall be as set out in Annex II.
+
+## Article 3
+
+The exchange standard for micro-data files shall be as set out in Annex III.
+
+## Article 4
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Structure of quality reports**
+
+**Arrangements and structure for providing metadata**
+
+Member States shall provide the Commission (Eurostat) with reference metadata in accordance with the Euro SDMX Metadata Structure, as defined in Commission Recommendation 2009/498/EC ( 1 ) for the European Statistical System.
+
+Member States shall provide the required metadata (including quality) in accordance with an exchange standard specified by the Commission (Eurostat). The metadata shall be provided to Eurostat through the single entry point or in such a form that the Commission (Eurostat) can retrieve it by electronic means.
+
+**Contents of the metadata and quality reports**
+
+The report shall include the following concepts and cover internal tourism (Annex I to Regulation (EU) No 692/2011) as well as national tourism (Annex II to Regulation (EU) No 692/2011):
+
+(1) Relevance, including completeness as compared to user needs and data completeness as compared to the requirements and recommendations laid down in Articles 2, 3, 4 and 10 of Regulation (EU) No 692/2011.
+
+(2) Accuracy, including coverage error (over-coverage and under-coverage), recall bias, classification error, item and unit non-response (broken down by type of unit non-response), imputation rate (for Section 2 of Annex II), sampling error and coefficients of variation for a set of leading indicators and breakdowns (as well as a description of the formulae or algorithm used to calculate the coefficients of variation) and data revision (policy, practice, impact on leading indicators).
+
+(3) Timeliness, including information on the calendar for the production process until the publication of the results (first results, final and complete results).
+
+(4) Punctuality, including information on the dates of transmission of the data to the Commission (Eurostat) as compared to the deadlines specified in Article 9(4) of Regulation (EU) No 692/2011 for all data deliveries relating to the reference year.
+
+(5) Accessibility and clarity, including information on the release calendar for the main publications (paper and online) relating to the reference periods of the reference year.
+
+(6) Comparability, including comparability between geographical areas, over time (break in series) and between statistical domains.
+
+(7) Coherence, including coherence within the domain with data from other sources, coherence with other statistical domains, coherence between annual and infra-annual statistics.
+
+(8) Cost and burden, including (where available) a quantitative/monetary and qualitative indication of the cost associated with the collection and production and the burden on respondents, and a description of recent or planned measures to improve cost efficiency and/or reduce respondent burden.
+
+(9) Metadata relating to statistical presentation and statistical processing, including information on (where applicable) concepts, definitions and classifications used, sources used, population frame, target population, frequency of data collection, survey type and data collection methods, scope (and limitations to the scope), sampling design and methodology, grossing-up procedures, treatment of confidential data and disclosure control.
+
+## ANNEX II
+
+**Aggregate tables for the transmission of data listed in Annex I and Sections 1 and 3 of Annex II to Regulation (EU) No 692/2011**
+
+**File structure and codification**
+
+Member States shall provide the data required by this Regulation in accordance with an exchange standard specified by the Commission (Eurostat). Data shall be provided to Eurostat through the single entry point or in such a way that the Commission (Eurostat) can retrieve it by electronic means.
+
+Where reference is made to ‘identifiers’, this shall mean the identifiers specified by the Commission (Eurostat). The Commission (Eurostat) shall provide detailed documentation in relation to these identifiers and will supply supplementary guidance in relation to the exchange standard. Data that do not comply with the provisions for the exchange standard specified by the Commission (Eurostat) will be considered as not having been provided.
+
+Each dataset shall contain the fields listed in this Annex.
+
+**Header**
+
+The purpose of the header is to identify the transmitted data series and it shall consist of three fields:
+
+— Reference period shall consist of seven characters, the first four identifying the year and the last three the period within the year. Examples: 2012A00 (annual data for 2012) or 2012M01 (monthly data for January 2012),
+
+— Country code shall consist of two characters, containing the two-character country code of the Member States transmitting the data. Examples: BE (Belgium), BG (Bulgaria), etc.,
+
+— Subject shall consist of one of the following identifiers of the dataset:
+
+TOUR_CAP_A internal tourism — capacity of tourist accommodation establishments;
+
+data listed in Section 1 of Annex I to Regulation (EU) No 692/2011
+
+TOUR_OCC_A internal tourism — annual occupancy data (including estimate for below threshold establishments);
+
+data listed in Section 2A of Annex I to Regulation (EU) No 692/2011
+
+TOUR_NIGHTS_M internal tourism — monthly data on nights spent;
+
+data listed in Section 2B of Annex I to Regulation (EU) No 692/2011
+
+TOUR_ARRNOCC_M internal tourism — monthly data on arrivals and net occupancy rates;
+
+data listed in Section 2B of Annex I to Regulation (EU) No 692/2011
+
+TOUR_NONRENT_A internal tourism — annual data on nights spent in non-rented accommodation;
+
+data listed in Section 4 of Annex I to Regulation (EU) No 692/2011
+
+TOUR_PARTIC_A national tourism — participation in tourism;
+
+data listed in Section 1 of Annex II to Regulation (EU) No 692/2011
+
+TOUR_SDVOUT_Q national tourism — outbound same-day visits;
+
+data listed in Section 3A of Annex II to Regulation (EU) No 692/2011
+
+TOUR_SDVDOM_Q national tourism — domestic same-day visits;
+
+data listed in Section 3B of Annex II to Regulation (EU) No 692/2011
+
+**Data**
+
+For each dataset, this entity shall contain the values for the variables and breakdowns and shall consist of six fields:
+
+— Variable shall contain the identifier for the variable,
+
+— Breakdown shall contain the identifier for the breakdown category or, where applicable, the combination of breakdown categories,
+
+— Unit shall contain the identifier for the unit of measurement,
+
+— Value shall contain the grossed up value for the population characteristic relating to the indicated variable and breakdown,
+
+— Flag shall contain flags for ‘data is cleared for dissemination’, ‘data is unreliable and shall not be used disseminated, but can be combined with other data in higher-level aggregate tables’ and for ‘data subject to primary or secondary confidentiality’,
+
+— Comment shall contain any short comment or metadata relating to one particular value (comments or footnotes relating to variables or breakdowns shall be mentioned under Notes).
+
+**Notes**
+
+For each dataset, this entity shall contain any explanatory notes, footnotes, metadata concerning one or more variables or breakdowns or general notes on the entire dataset, and shall consist of three fields:
+
+— Variable shall contain the identifier for the variable to which the note relates,
+
+— Breakdown shall contain the identifier for the breakdown category or, where applicable, the combination of breakdown categories to which the note relates,
+
+— Comment shall contain the free note that can be published as methodological notes or additional explanations in order to better understand the transmitted data.
+
+## ANNEX III
+
+**Micro-data files for the transmission of data listed in Section 2 of Annex II to Regulation (EU) No 692/2011**
+
+**File structure and codification: practical arrangements**
+
+Each observed trip shall be an individual record in the transmitted micro-data file. This micro-data file shall be fully checked, edited and, where necessary, imputed, and shall follow the file structure and codification described in the table below. The Commission (Eurostat) will supply additional guidance on the format for transmission.
+
+Data that does not respect the exchange standard set out in this Annex will be considered as not having been sent.
+
+**Header**
+
+The purpose of the header is to identify the transmitted data series. It shall consist of four fields:
+
+— Reference period shall consist of seven characters, the first four identifying the year and the last three the period within the year (A00).
+
+— Country code shall consist of two characters, containing the two-character country code of the Member State transmitting the data. Examples: BE (Belgium), BG (Bulgaria), …
+
+— Subject shall consist of the identifier of the dataset: nat_dem_microdata.
+
+— Currency identifies the currency in which expenditure is reported (EUR or NAC). While euro area Member States shall provide data in euro (code EUR), non-euro area Member States can report data either in euro or in their national currency (code NAC). However, all expenditure must be reported in the same currency inside one file.
+
+**Data**
+
+| Column name | Identifier | Description | Filter/remarks |
+| --- | --- | --- | --- |
+| ID | 000001-999999 | Sequence number of the trip |  |
+|  |  | CHARACTERISTICS OF THE TRIP |  |
+| Field 1 |  | Month of departure |  |
+|  | 01-24 | Number of the month (January of the reference year = 01, December of the reference year = 12; January of the previous calendar year = 13, December of the previous calendar year = 24) |  |
+| Field 2 |  | Duration of the trip in number of nights |  |
+|  | 001-366 | Number of nights (3 digits maximum) |  |
+| Field 3 |  | Duration of the trip: number of nights spent on the domestic territory | Only for outbound trips Triennial variable, in the optional years: code = Blank |
+|  | 000-183 | Number of nights (3 digits maximum) |  |
+| Field 4 |  | Main country of destination |  |
+|  |  | Coding according to the country list in the methodological manual drawn up under Article 10 of Regulation (EU) No 692/2011 |  |
+| Field 5 |  | Main purpose of the trip |  |
+|  | 1 | Private/personal purpose: leisure, recreation and holidays |  |
+|  | 2 | Private/personal purpose: visiting relatives and friends |  |
+|  | 3 | Private/personal purpose: other (e.g. health treatment, pilgrimage) |  |
+|  | 4 | Professional/business purpose |  |
+|  |  | Type of destination | Triennial variable, in the optional years: code = Blank |
+| Field 6 | 1 | City = Yes |  |
+|  | 2 | City = No |  |
+|  | 9 | City = Not applicable (Field 5 = 4) |  |
+| Field 7 | 1 | Seaside = Yes |  |
+|  | 2 | Seaside = No |  |
+|  | 9 | Seaside = Not applicable (Field 5 = 4) |  |
+| Field 8 | 1 | Countryside (including lakeside, riverside, etc.) = Yes |  |
+|  | 2 | Countryside (including lakeside, riverside, etc.) = No |  |
+|  | 9 | Countryside (including lakeside, riverside, etc.) = Not applicable (Field 5 = 4) |  |
+| Field 9 | 1 | Cruise ship = Yes |  |
+|  | 2 | Cruise ship = No |  |
+|  | 9 | Cruise ship = Not applicable (Field 5 = 4) |  |
+| Field 10 | 1 | Mountains (highlands, hills, etc.) = Yes |  |
+|  | 2 | Mountains (highlands, hills, etc.) = No |  |
+|  | 9 | Mountains (highlands, hills, etc.) = Not applicable (Field 5 = 4) |  |
+| Field 11 | 1 | Other = Yes |  |
+|  | 2 | Other = No |  |
+|  | 9 | Other = Not applicable (Field 5 = 4) |  |
+| Field 12 |  | Participation of children | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+|  | 9 | Not applicable (Field 5 = 4) |  |
+| Field 13 |  | Main means of transport |  |
+|  | 1 | Air (flights, scheduled or chartered, or other air services) |  |
+|  | 2 | Waterway (passenger lines and ferries, cruises, pleasure boat, rented vessel, etc.) |  |
+|  | 3 | Railway |  |
+|  | 4 | Bus, coach (regular/scheduled or occasional/non-scheduled) |  |
+|  | 5 | Regular/scheduled bus or coach | Optional breakdown |
+|  | 6 | Occasional/non-scheduled bus or coach | Optional breakdown |
+|  | 7 | Private motor vehicle (owned or leased, including friends/relatives’ car) |  |
+|  | 8 | Rented motor vehicle (including ride-sharing or car-sharing platforms) |  |
+|  | 9 | Other (e.g. bicycle) |  |
+| Field 14 |  | Main means of accommodation |  |
+|  | 1 | Rented accommodation: hotels or similar establishments |  |
+|  | 2 | Rented accommodation: campsites, caravan or trailer park (non-residential) |  |
+|  | 3 | Rented accommodation: such as a house, villa or apartment; rented room(s) in a dwelling |  |
+|  | 4 | Rented accommodation: other rented accommodation (such as youth hostels, marinas, health establishments) |  |
+|  | 5 | Non-rented accommodation: own holiday home |  |
+|  | 6 | Non-rented accommodation: accommodation provided free of charge by relatives or friends |  |
+|  | 7 | Non-rented accommodation: other non-rented accommodation |  |
+| Field 15 |  | Booking of the trip: internet booking of the main means of accommodation | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+| Field 16 |  | Booking of the trip: booking channel for the main means of accommodation | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Directly with the accommodation provider |  |
+|  | 2 | Via a travel agency, tour operator, portal or short-term property or holiday letting agency listing multiple accommodation providers |  |
+|  | 3 | No booking was needed |  |
+| Field 17 |  | Booking of the main means of accommodation via a website or app such as Airbnb, Booking.com, Expedia, HomeAway | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+|  | 9 | Not applicable (Field 14 ≠ 3 or Field 15 ≠ 1 or Field 16 ≠ 2) |  |
+| Field 18 |  | Booking of the trip: internet booking of the main means of transport | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+| Field 19 |  | Booking of the trip: booking channel for the main means of transport | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Directly with the transport provider |  |
+|  | 2 | Via a travel agency, tour operator, portal |  |
+|  | 3 | No booking was needed |  |
+| Field 20 |  | Booking of the main means of transport via a website or app such as BlaBlaCar | Optional triennial variable, if not transmitted: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+|  | 9 | Not applicable (Field 18 ≠ 1 or Field 19 ≠ 2) |  |
+| Field 21 |  | Booking of the trip: package trip | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+| Field 22 |  | Booking of the trip: internet booking of the package | Triennial variable, in the optional years: code = Blank |
+|  | 1 | Yes |  |
+|  | 2 | No |  |
+| Field 23 |  | Expenditure related to the trip by the individual tourist on packages |  |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+| Field 24 |  | Expenditure related to the trip by the individual tourist on transport |  |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+| Field 25 |  | Expenditure related to the trip by the individual tourist on accommodation |  |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+| Field 26 |  | Expenditure related to the trip by the individual tourist on food and drinks in cafés and restaurants | Optional variable, if not transmitted: code = Blank |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+| Field 27 |  | Other expenditure related to the trip by the individual tourist (total other, including durables and valuable goods) |  |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+| Field 28 |  | Durables and valuable goods (subcategory of ‘Other expenditure related to the trip by the individual tourist’) |  |
+|  | 00000000-99999998 | Amount in euro (or in national currency for non-euro area Member States) (8 digits maximum) |  |
+|  |  | Profile of the visitor |  |
+| Field 29 |  | Gender |  |
+|  | 1 | Male |  |
+|  | 2 | Female |  |
+| Field 30 |  | Age |  |
+|  | 000-198 | Number of full years (3 digits) |  |
+| Field 31 |  | Country of residence |  |
+|  |  | The two-digit country code (Belgium = BE, Bulgaria = BG, ...) |  |
+| Field 32 |  | Educational attainment level | Optional variable, if not transmitted: code = Blank |
+|  | 1 | At most lower secondary (ISCED 2011 levels 0-2) |  |
+|  | 2 | Upper secondary and post-secondary (non-tertiary) (ISCED 2011 levels 3 and 4) |  |
+|  | 3 | Tertiary (ISCED 2011 levels 5-8) |  |
+| Field 33 |  | Employment situation | Optional variable, if not transmitted: code = Blank |
+|  | 1 | Employed (employee or self-employed) |  |
+|  | 2 | Unemployed |  |
+|  | 3 | Student (or pupil) |  |
+|  | 4 | Other not in the labour force |  |
+| Field 34 |  | Household income in quartiles | Optional variable, if not transmitted: code = Blank |
+|  | 1 | 1st quartile |  |
+|  | 2 | 2nd quartile |  |
+|  | 3 | 3rd quartile |  |
+|  | 4 | 4th quartile |  |
+|  |  | Grossing-Up factor |  |
+|  |  | Grossing-up factor from sample to population |  |
+| Field 35 | 000000-999999 | Field 35 contains integers |  |
+| Field 36 | 000-999 | Field 36 contains decimal places |  |
+
+( 1 ) OJ L 168, 30.6.2009, p. 50.

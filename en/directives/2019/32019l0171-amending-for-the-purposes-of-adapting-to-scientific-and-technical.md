@@ -93,6 +93,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, entry 8(b) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘8(b)</td><td>Cadmium and its compounds in electrical contacts</td><td>Applies to categories 8, 9 and 11 and expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments;</td></tr>
 </tbody>
 </table>
@@ -129,3 +130,4 @@ In Annex III to Directive 2011/65/EU, entry 8(b) is replaced by the following:
 </table>
 </td><td>Applies to categories 1 to 7 and 10 and expires on 21 July 2021.’</td></tr>
 </tbody>
+</table>

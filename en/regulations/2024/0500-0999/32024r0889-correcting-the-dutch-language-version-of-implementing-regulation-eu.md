@@ -1,0 +1,64 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/889 of 15 March 2024 correcting the Dutch language version of Implementing Regulation (EU) 2023/2866 implementing Regulation (EU) 2019/631 of the European Parliament and of the Council by determining the procedures for performing the verification of the CO2 emission and fuel consumption values of passenger cars and light commercial vehicles in-service (in-service verification)"
+identifier: "32024R0889"
+eli: "http://data.europa.eu/eli/reg_impl/2024/889/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-03-15
+entry_into_force: 2024-12-16
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0889"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/889 of 15 March 2024 correcting the Dutch language version of Implementing Regulation (EU) 2023/2866 implementing Regulation (EU) 2019/631 of the European Parliament and of the Council by determining the procedures for performing the verification of the CO2 emission and fuel consumption values of passenger cars and light commercial vehicles in-service (in-service verification)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/889**
+
+**of 15 March 2024**
+
+**correcting the Dutch language version of Implementing Regulation (EU) 2023/2866 implementing Regulation (EU) 2019/631 of the European Parliament and of the Council by determining the procedures for performing the verification of the CO2 emission and fuel consumption values of passenger cars and light commercial vehicles in-service (in-service verification)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and for new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (1), and in particular Article 7(9), third subparagraph and Article 13(4), first subparagraph, thereof,
+
+Whereas:
+
+(1) The Dutch language version of Commission Implementing Regulation (EU) 2023/2866 (2) contains an error in Article 1(3), point (b), as regards the circumstances under which that regulation would not apply to certain manufacturers. The error affects the substance of the act.
+
+(2) The Dutch language version of Implementing Regulation (EU) 2023/2866 should therefore be corrected accordingly. The other language versions are not affected.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Climate Change Committee, delivered prior to the adoption of Implementing Regulation (EU) 2023/2866,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(does not concern the English language)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 15 March 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 111, 25.4.2019, p. 13, ELI: http://data.europa.eu/eli/reg/2019/631/oj.
+
+(2) Commission Implementing Regulation (EU) 2023/2866 of 15 December 2023 implementing Regulation (EU) 2019/631 of the European Parliament and of the Council by determining the procedures for performing the verification of the CO2 emission and fuel consumption values of passenger cars and light commercial vehicles in-service (in-service verification) (OJ L, 2023/2866, 18.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2866/oj).
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/889/oj
+
+ISSN 1977-0677 (electronic edition)

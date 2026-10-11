@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on consumer protection in the indication of the prices of products offered to consumers**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 328</td><td>7</td><td>18.12.2019</td></tr>
+</table>
 
 **DIRECTIVE 98/6/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

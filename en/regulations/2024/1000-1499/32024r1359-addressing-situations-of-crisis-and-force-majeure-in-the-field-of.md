@@ -1,0 +1,391 @@
+---
+title: "Regulation (EU) 2024/1359 of the European Parliament and of the Council of 14 May 2024 addressing situations of crisis and force majeure in the field of migration and asylum and amending Regulation (EU) 2021/1147"
+identifier: "32024R1359"
+eli: "http://data.europa.eu/eli/reg/2024/1359/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-05-14
+entry_into_force: 2024-12-02
+last_amended: 2024-05-22
+consolidated_version: "02024R1359-20240522"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1359-20240522"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1359 of the European Parliament and of the Council of 14 May 2024 addressing situations of crisis and force majeure in the field of migration and asylum and amending Regulation (EU) 2021/1147
+
+**REGULATION (EU) 2024/1359 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**addressing situations of crisis and force majeure in the field of migration and asylum and amending Regulation (EU) 2021/1147**
+
+**REGULATION (EU) 2024/1359 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**addressing situations of crisis and force majeure in the field of migration and asylum and amending Regulation (EU) 2021/1147**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+1\. This Regulation addresses exceptional situations of crisis, including instrumentalisation, and force majeure, in the field of migration and asylum within the Union by means of temporary measures. It provides for enhanced solidarity and support measures that build upon Regulation (EU) 2024/1351 while ensuring the fair sharing of responsibility, and for temporary specific rules derogating from those set out in Regulations (EU) 2024/1351 and (EU) 2024/1348.
+
+2\. Temporary measures adopted pursuant to this Regulation shall meet the requirements of necessity and proportionality, be appropriate to achieving their stated objectives and ensuring the protection of the rights of applicants and beneficiaries of international protection, and be consistent with the obligations of the Member States under the Charter, international law and the Union asylum acquis. This Regulation shall not affect the fundamental principles and guarantees, established by the legislative acts from which derogations are allowed pursuant to this Regulation.
+
+3\. The measures adopted pursuant to this Regulation shall be applied only to the extent strictly required by the exigencies of the situation, in a temporary and limited manner and only in exceptional circumstances. Member States may apply the measures provided for in Chapter IV and benefit from the measures provided for in Chapter III only upon request and to the extent provided for in the Council implementing decision referred to in Article 4(3) without prejudice to Article 10(5).
+
+4\. For the purposes of this Regulation, a situation of crisis means:
+
+(a) an exceptional situation of mass arrivals of third-country nationals or stateless persons in a Member State by land, air or sea, including of persons that have been disembarked following search and rescue operations, of such a scale and nature, taking into account, inter alia, the population, GDP and geographical specificities of the Member State, including the size of the territory, that it renders the Member State’s well-prepared asylum, reception, including child protection services, or return system non-functional, including as a result of a situation at local or regional level, such that there could be serious consequences for the functioning of the Common European Asylum System; or
+
+(b) a situation of instrumentalisation where a third country or a hostile non-state actor encourages or facilitates the movement of third-country nationals or stateless persons to the external borders or to a Member State, with the aim of destabilising the Union or a Member State, and where such actions are liable to put at risk essential functions of a Member State, including the maintenance of law and order or the safeguard of its national security.
+
+Member States may request the authorisation to apply measures listed in Chapter III and IV in particular where there is an unexpected significant increase in the caseload of applications for international protection at the external borders. Member States may apply the derogations provided for in the Council implementing decision referred to in Article 4(3) in the situation of instrumentalisation only in respect of third-country nationals or stateless persons who are subject to instrumentalisation and who are either apprehended or found in the proximity of the external border, meaning the Member State’s land borders, including river and lake borders, sea borders and its airports, river ports, sea ports and lake ports, provided that they are not internal borders, in connection with an unauthorised crossing by land, sea or air, or who are disembarked following search and rescue operations or who have presented themselves at border crossing points.
+
+5\. For the purposes of this Regulation, force majeure refers to abnormal and unforeseeable circumstances outside a Member State’s control, the consequences of which could not have been avoided notwithstanding the exercise of all due care, which prevent that Member State from complying with obligations under Regulations (EU) 2024/1351 and (EU) 2024/1348.
+
+## CHAPTER II — GOVERNANCE
+
+### Article 2 — Reasoned request by a Member State
+
+1\. Where a Member State considers itself to be in a situation of crisis or force majeure, it may, given those exceptional circumstances, submit a reasoned request to the Commission, in order to benefit from solidarity measures allowing for the proper management of that situation and to allow for possible derogations from the relevant rules on the asylum procedure, while ensuring that the applicants’ fundamental rights are respected.
+
+2\. A reasoned request as referred to in paragraph 1 shall include:
+
+(a) a description of:
+
+(i) how, as a result of a situation of crisis as referred to in Article 1(4), point (a), the Member State’s asylum and reception system, including child-protection services, has become non-functional, as well as the measures taken so far to address the situation and a justification proving that that system, although well-prepared and notwithstanding the measures already taken, is unable to address the situation; or
+
+(ii) how the Member State is faced with a situation of instrumentalisation as referred to in Article 1(4), point (b), that is putting its essential functions at risk, including the maintenance of law and order or the safeguard of its national security; or
+
+(iii) how the Member State is faced with abnormal and unforeseeable circumstances outside its control, the consequences of which could not be avoided notwithstanding the exercise of all due care, and how that situation of force majeure prevents it from fulfilling its obligations laid down in Article 27, Article 45(1) and Article 51(2) of Regulation (EU) 2024/1348 and in Articles 39, 40, 41 and 46 of the Regulation (EU) 2024/1351;
+
+(b) where relevant, the type and level of solidarity measures provided for in Article 8(1) that it considers necessary;
+
+(c) where relevant, the derogations provided for in Articles 10 to 13 that it considers necessary; and
+
+(d) if the Member State requests to apply the derogation provided for in Article 11(6), whether it intends to provide for the exclusion of specific categories of applicants as referred to in paragraph 7, point (a), or paragraph 7, point (b) of that Article or the cessation of the border procedure for specific categories of applicants following an individual assessment as provided for in paragraph 9 of that Article.
+
+### Article 3 — Commission implementing decision establishing a situation of crisis or force majeure
+
+1\. Following the submission of a reasoned request as referred to in Article 2, the Commission, in close cooperation with the requesting Member State and in consultation with relevant Union agencies and international organisations, in particular UNHCR and IOM, shall expeditiously assess the situation and, where the conditions set out in Article 1 are met, adopt an implementing decision as referred to in paragraph 8 of this Article.
+
+2\. The Commission may also adopt a recommendation on the application of an expedited procedure for granting international protection to certain categories of applicants as referred to in Article 14.
+
+3\. The Commission shall immediately notify the European Parliament, the Council and the Member States that it is undertaking an assessment as referred to in paragraph 1.
+
+4\. When assessing whether the Member State is facing a situation of instrumentalisation as referred to in Article 1(4), point (b), of this Regulation, the Commission shall assess inter alia the following:
+
+(a) whether a third country or a hostile non-state actor is facilitating the movement of third-country nationals or stateless persons into the Union;
+
+(b) whether the information provided by the Member State adequately demonstrates that any actions falling under point (a) have the aim of destabilising the Union or the Member State concerned;
+
+(c) whether there is an unexpected significant increase in the caseload of applications for international protection at the external borders or in the Member State concerned compared to the average number of applications;
+
+(d) whether the response to the implications of the situation of instrumentalisation on the migration and asylum system of the Member State concerned cannot be sufficiently addressed by means of the measures contained in the Toolbox in accordance with Article 6(3) of Regulation (EU)2024/1351.
+
+5\. The Commission shall determine whether the conditions with regard to the situation faced by the Member State as set out in Article 1 are met, taking into account the reasoned request as referred to in Article 2, and in the light of the information provided and the indicators relating to the Member State concerned referred to in Article 9 of Regulation (EU) 2024/1351. The Commission shall assess the information provided in the reasoned request against the situation in the Member State concerned during the preceding two months and as compared to the overall situation in the Union.
+
+6\. The Commission shall determine in particular:
+
+(a) whether the requesting Member State’s asylum, reception, including child-protection services, or migration system, although well-prepared, and notwithstanding the measures already taken, has become non-functional as a result of a situation of mass arrivals of third-country nationals or stateless persons rendering that Member State unable to address the situation and whether there might be serious consequences for the functioning of the Common European Asylum System;
+
+(b) whether the Member State is faced with a situation of instrumentalisation as referred to in Article 1(4), point (b), to be addressed with the necessary and proportionate use of the measures set out in this Regulation;
+
+(c) whether the Member State is faced with abnormal and unforeseeable circumstances outside its control, the consequences of which could not be avoided notwithstanding of the exercise of all due care, and how such situation of force majeure prevents it from fulfilling its obligations set out in Article 27, Article 45(1) and Article 51(2) of Regulation (EU) 2024/1348 and in Articles 39, 40, 41 and 46 of Regulation (EU) 2024/1351.
+
+7\. When adopting an implementing decision as referred to in paragraph 8 of this Article, the Commission shall indicate why the response to the situation of instrumentalisation cannot be sufficiently addressed by means of the measures set out in the Toolbox in accordance with Article 6(3) of Regulation (EU) 2024/1351.
+
+8\. Where the Commission determines pursuant to paragraph 5 of this Article that the assessment referred to in paragraph 1 demonstrates the existence of the conditions set out in Article 1, taking into account the reasoned request as referred to in Article 2, and in the light of the information provided and the indicators relating to the Member State concerned referred to in Article 9 of Regulation (EU) 2024/1351, the Commission shall adopt, without delay and in any case no later than two weeks from the submission of the reasoned request referred to in Article 2 of this Regulation, an implementing decision determining whether the requesting Member State is in a situation of crisis referred to in Article 1(4), point (a) or (b), of this Regulation, or force majeure. The Commission shall transmit the implementing decision to the European Parliament and the Council.
+
+### Article 4 — Commission proposal and Council implementing decision authorising derogations and establishing solidarity measures
+
+1\. Simultaneously with the adoption of the Commission implementing decision referred to in Article 3, the Commission shall, where appropriate, make a proposal for a Council implementing decision. The Commission shall immediately inform the European Parliament of that proposal.
+
+2\. The Commission’s proposal for a Council implementing decision referred to in paragraph 1 shall ensure that the principles of necessity and proportionality are respected and shall include:
+
+(a) where appropriate, the specific derogations as referred to in Articles 10 to 13 that the Member State should be authorised to apply;
+
+(b) where appropriate, where the Member State is facing a situation of crisis, a draft Solidarity Response Plan, after consultation with the Member State, that ensures the full discretion of contributing Member States in choosing between the types of solidarity measures, and that includes:
+
+(i) where appropriate, the total amount of relocation contributions needed to address the situation of crisis;
+
+(ii) where appropriate, the other relevant solidarity measures referred to in Article 8(1), points (b) and (c), and the level of such measures needed to address the specific situation of crisis;
+
+(iii) where applicable, the total amount of solidarity measures to be taken from the available pledges in the Annual Solidarity Pool;
+
+(iv) where the available pledges in the Annual Solidarity Pool do not cover the needs identified in subpoints (i) and (ii) of this point, the Solidarity Response Plan shall also establish the additional pledges needed to cover such needs; and
+
+(v) the indicative contributions of each Member State to contribute their fair share, calculated in accordance with the reference key set out in Article 66 of Regulation (EU) 2024/1351; and
+
+(c) where the Member State is facing a situation of crisis as referred to in Article 1(4), point (b), the identification of the third-country nationals or stateless persons subject to that situation.
+
+When setting up the solidarity needs of the Member State, the Commission shall take into account whether the Member State is already a benefitting Member State pursuant to Articles 58 and 59 of Regulation (EU) 2024/1351.
+
+Where, in the reasoned request as referred to in Article 2, the Member State considers that relocation is the primary or only solidarity measure to address the situation, the Commission shall take that into account in its proposal for a Council implementing decision, without prejudice to the discretion of the contributing Member States to choose between the types of solidarity measures.
+
+3\. The Council shall assess the Commission’s proposal for a Council implementing decision as referred to in paragraph 1 and adopt an implementing decision within two weeks of receipt of that proposal, authorising the Member State to apply the derogations provided for in Articles 10 to 13 and establishing a Solidarity Response Plan as referred to in paragraph 2, point (b), of this Article, including the solidarity measures that the Member State can benefit from in order to address the situation.
+
+4\. Where appropriate, when adopting the proposal for a Council implementing decision as referred to in paragraph 1, the Commission may adopt a recommendation on the application of an expedited procedure for granting international protection to certain categories of applicants as referred to in Article 14.
+
+5\. The Council implementing decision shall ensure that the principles of necessity and proportionality are respected, shall state the grounds on which it is based and set the date from which the derogations laid down in Articles 10 to 13 may be applied, as well as the time period for their application, in accordance with Article 5. The Council implementing decision shall:
+
+(a) where appropriate, identify the specific derogations referred to in Articles 10 to 13 that the Member State concerned is authorised to apply;
+
+(b) where appropriate, establish a Solidarity Response Plan that includes:
+
+(i) the total amount of relocation contributions needed to address the situation of crisis giving full consideration to the assessment of the Commission;
+
+(ii) the other relevant solidarity measures referred to in Articles 8(1), points (b) and (c), and the level of such measures needed to address the situation of crisis;
+
+(iii) the total amount of solidarity measures to be taken from the Annual Solidarity Pool;
+
+(iv) the additional pledges needed to cover the needs to address the situation of crisis, if the existing pledges in the annual Solidarity Pool are not sufficient;
+
+(v) the specific contribution by each Member State pledged under the mandatory fair share calculated in accordance with the reference key set out in Article 66 of Regulation (EU) 2024/1351;
+
+(c) where the Member State concerned is facing a situation of crisis as referred to in Article 1(4), point (b), identify the third-country nationals or stateless persons subject to that situation.
+
+The Council shall transmit the implementing decision immediately to the European Parliament and the Commission.
+
+### Article 5 — Duration
+
+1\. Without prejudice to paragraph 3 of this Article, the period for the application of the derogations and solidarity measures set out in the Council implementing decision as referred to in Article 4(3) shall be three months. Unless that decision is repealed pursuant to Article 6 (3), that period may be extended once by three months upon confirmation by the Commission that the situation of crisis or force majeure persists.
+
+2\. At the end of the period referred to in paragraph 1 and upon request of the Member State concerned, the Commission may submit a proposal for a new Council implementing decision to amend or extend the specific derogations or the Solidarity Response Plan referred to in Article 4(5) for a period not exceeding three months. Unless that decision is repealed pursuant to Article 6(3), that period may be extended once by three months upon confirmation by the Commission of the persistence of the situation of crisis or force majeure. Article 4(3) and (5) shall apply.
+
+3\. The Member State facing a situation of crisis or force majeure, shall apply Articles 10 to 13 no longer than what is strictly necessary to address the situation, and, in any case, no longer than the period set out in the Council implementing decision referred to in Article 4(3). The total duration of the application of the measures shall not exceed the duration of the situation of crisis or force majeure and shall be a maximum of 12 months.
+
+### Article 6 — Monitoring
+
+1\. The Commission and Council shall constantly monitor whether a situation of crisis or force majeure, identified in a Commission implementing decision as referred to in Article 3(8) persists.
+
+2\. The Commission shall pay particular attention to the compliance with fundamental rights and humanitarian standards and may request the Asylum Agency to initiate a specific monitoring exercise pursuant to Article 15(2) of Regulation (EU) 2021/2303.
+
+3\. Where the Commission considers that the circumstances that led to the establishment of the situation of crisis or force majeure have ceased to exist, it shall propose to repeal the Council implementing decision referred to in Article 4(3). Where the Commission considers it appropriate on the basis of relevant information, it shall propose the adoption of a new Council implementing decision authorising the amendment or extension of the measures as established in accordance with Article 5(2).
+
+4\. The Commission shall report to the European Parliament and the Council, every three months after the entry into force of the Council implementing decision as referred to in Article 4(3), on the application of that decision, in particular on the effectiveness of the measures undertaken in resolving the situation of crisis or force majeure and shall determine whether the situation persists and whether the measures continue to be necessary and proportionate.
+
+### Article 7 — EU Solidarity coordinator
+
+The EU Solidarity Coordinator, as established by Articles 15 and 60 of Regulation (EU) 2024/1351 shall, in addition to the tasks listed under those Articles:
+
+(a) support the relocation activities from the Member State concerned to the contributing Member State under this Regulation;
+
+(b) promote a culture of preparedness, cooperation and resilience among Member States in the field of asylum and migration, including through the sharing of best practices.
+
+For that purpose, the EU Solidarity Coordinator shall be updated by the EU Migration Preparedness and Crisis Management Network in the framework of the relevant stages of the Migration Preparedness and Crisis Blueprint pursuant to Recommendation (EU) 2020/1366 in its original version.
+
+The EU Solidarity Coordinator shall, every two weeks, provide a bulletin on the state of the implementation and functioning of the relocation mechanism. That bulletin shall be transmitted to the European Parliament and to the Council.
+
+## CHAPTER III — SOLIDARITY MEASURES APPLICABLE IN A SITUATION OF CRISIS
+
+### Article 8 — Solidarity and support measures in a situation of crisis
+
+1\. A Member State facing a situation of crisis may request the following types of contributions in the reasoned request referred to in Article 2:
+
+(a) relocations, to be conducted following the procedures set out in Articles 67 and 68 of Regulation (EU) 2024/1351:
+
+(i) of applicants for international protection;
+
+(ii) where bilaterally agreed by the contributing and benefitting Member State concerned, of beneficiaries of international protection who have been granted international protection less than three years prior to the adoption of the Council implementing act establishing the Annual Solidarity Pool;
+
+(b) financial contributions aiming at actions that are relevant to address the situation of crisis in the Member State concerned or in relevant third countries, in full respect of human rights, to be provided by other Member States pursuant to Article 64 of Regulation (EU) 2024/1351;
+
+(c) alternative solidarity measures as referred to in Article 56(2), point (c), of Regulation (EU) 2024/1351, specifically needed to address the situation of crisis and in accordance with Article 65(2) and (3) of that Regulation; such measures shall be counted as financial solidarity and their actual value shall be established based on objective criteria.
+
+2\. When implementing relocations referred to in paragraph 1, point (a), of this Article, Member States shall give primary consideration to the relocation of vulnerable persons in accordance with Article 60 of Regulation (EU) 2024/1351.
+
+### Article 9 — Responsibility offsets
+
+1\. Where the additional relocation pledges set out in the Council implementing decision referred to in Article 4(3) and the pledges available in the Annual Solidarity Pool are below the relocation needs identified in that Council implementing decision:
+
+(a) the contributing Member States shall take responsibility, up to 100 % of the relocation needs identified in the Solidarity Response Plan established in the Council implementing decision, for applications for international protection for which the Member State facing a situation of crisis has been determined as responsible;
+
+(b) when applying point (a) of this subparagraph and where necessary, the contributing Member States shall take responsibility above their fair share by way of derogation from Article 63(7) of Regulation (EU) 2024/1351;
+
+(c) when applying points (a) and (b) of this subparagraph, Article 63(6), (8) and (9) of Regulation (EU) 2024/1351 shall apply mutatis mutandis.
+
+Where Directive 2001/55/EC is activated in relation to the same situation as referred to in Article 1(4), point (a), and Member States agree at the moment of activation not to apply Article 11 of that Directive, mandatory offsets pursuant to this Article shall not apply. Where the Council implementing decision referred to in Article 4(3) authorises the Member State concerned to apply Article 13, mandatory offsets pursuant to this Article shall not apply.
+
+2\. Where the application of paragraph 1 of this Article is not sufficient to cover 100 % of the relocation needs identified in the Council implementing decision referred to in Article 4(3), the High-Level EU Solidarity Forum shall be reconvened as a matter of urgency, in accordance with Article 13(4) of Regulation (EU) 2024/1351 and following the procedure set out in Article 57 of that Regulation.
+
+3\. A benefitting Member State may request the other Member States to take responsibility for examining applications for international protection for which the benefitting Member State has been determined as responsible instead of relocations in accordance with the procedure set out in Article 69 of Regulation (EU) 2024/1351.
+
+4\. Where a contributing Member State has become responsible for applications above its fair share in accordance with paragraph 1, point (b), of this Article or Article 13, it shall be entitled to:
+
+(a) proportionally reduce from its fair share in relation to future solidarity contributions under the upcoming annual cycles of Regulation (EU) 2024/1351, with the corresponding number of applications for which that Member State contributed above its fair share over a period of five years;
+
+(b) reduce from its fair share in relation to future solidarity contributions set out in a Council implementing decision adopted pursuant to Article 4(3) with the corresponding number of applications for which that Member State contributed above its fair share; such reduction may only be claimed within five years from the date in which the Council implementing decision that led the Member State to go beyond its fair share is no longer in force.
+
+5\. Where a Member State intends to avail itself of the possibility provided for in paragraph 4, it shall notify the Commission accordingly. The notification shall contain the number of applications for which the Member State took responsibility above its fair share and the reduction it intends to apply under the upcoming annual cycles of Regulation (EU) 2024/1351 or during the implementation of a Council implementing decision adopted pursuant to Article 4(3).
+
+If, on completing its examination of the notification referred to in the first subparagraph, the Commission confirms that the Member State concerned has contributed above its fair share, the Commission shall authorise, by means of an implementing act, the Member State concerned to reduce from its fair share the corresponding number of applications for which that Member State contributed above its fair share under the upcoming annual cycles of Regulation (EU) 2024/1351 or when implementing a Council implementing decision adopted pursuant to Article 4(3) within the period referred to in paragraph 4, point (b), of this Article to support another Member State or where responsibility offsets are required pursuant to paragraph 1, point (b), of this Article.
+
+6\. Where the solidarity needs of other Member States that are benefitting Member States pursuant to Article 58 or 59 of Regulation (EU) 2024/1351 cannot be addressed as a result of the use made by the Member State facing a situation of crisis of the pledges available in the Annual Solidarity Pool pursuant to Article 4(5), point (b), of this Article, the High-Level EU Solidarity Forum shall be reconvened as a matter of urgency, in accordance with Article 13 of Regulation (EU) 2024/1351 and following the procedure set out in Article 57 of that Regulation.
+
+7\. Where, as a result of the measures required to support the Member State facing a situation of crisis that are included in the Council implementing decision as referred to in Article 4(3), another Member State considers itself to be under migratory pressure or facing a significant migratory situation within the meaning of Article 2, points (24) and (25) respectively, of Regulation (EU) 2024/1351 or facing a situation of crisis, the Member State concerned may request solidarity measures, full or partial reductions of its solidarity contributions in accordance with that Regulation, or solidarity and support measures in accordance with this Regulation.
+
+When assessing the Member State’s reasoned request as referred to in Article 2 of this Regulation, the Commission shall also take into account whether that Member State has taken responsibility for examining applications for international protection above its fair share, in addition to the information set out in Articles 9 and 10 of Regulation 2024/1351.
+
+## CHAPTER IV — DEROGATIONS
+
+### Article 10 — Registration of applications for international protection in situations of crisis, or force majeure
+
+1\. In a situation of crisis or force majeure, by way of derogation from Article 27 of Regulation (EU) 2024/1348, the Member State facing that situation may register applications made within the period during which this paragraph is applied, no later than four weeks after those applications are made.
+
+2\. When applying paragraph 1, the Member State concerned shall prioritise the registration of applications of persons with special reception needs as defined in Directive (EU) 2024/1346 and of minors and their family members.
+
+3\. When applying paragraph 1, Member States may prioritise the registration of applications which are likely to be well-founded.
+
+4\. In a situation of crisis as referred to in Article 1(4), point (a), the derogation referred to in paragraph 1 of this Article may only be applied during the time period set out in the initial Council implementing decision referred to in Article 4(3) and not during any subsequent extensions thereof pursuant to Article 5(1) or (2).
+
+5\. In accordance with Article 3 of Directive (EU) 2024/1346 and Regulation (EU) 2024/1348, Member States shall ensure that applicants are able to access and exercise their rights under those instruments in an effective manner as soon as they make an application, regardless of when the registration takes place. The Member State concerned shall duly inform the third-country nationals or stateless persons in a language which they understand, or are reasonably supposed to understand, about the measure applied, the location of the registration points, including the border crossing points accessible for registering and lodging an application for international protection, and the duration of the measure.
+
+6\. When submitting a reasoned request as referred to in Article 2(1), a Member State may notify the Commission that it considers it necessary to apply the derogation referred to in paragraph 1 of this Article before it is authorised to do so in the Council implementing decision as referred to in Article 4(3), indicating the precise reasons for which immediate action is required.
+
+In such a case, the Member State concerned may apply the derogation referred to in paragraph 1 of this Article for a period not exceeding 10 days from the day following the date of the submission of the request, unless the Council implementing decision as referred to in Article 4(3) authorises the Member State concerned to continue to apply that derogation.
+
+7\. The extension of the time limit for registration of applications for international protection is without prejudice to the obligations to comply with the deadlines set out in Article 15(1), point (b), of Regulation (EU) 2024/1358.
+
+### Article 11 — Measures applicable to the asylum border procedure in a situation of crisis or force majeure
+
+1\. In a situation of crisis or force majeure, Member States may, as regards applications made within the period during which this Article is applied, derogate from Article 51(2) of Regulation (EU) 2024/1348, by extending the maximum duration of the border procedure for the examination of applications set out in that Article by an additional period of maximum six weeks. That period shall not be used in addition to the period referred to in Article 51(2), third subparagraph, of that Regulation.
+
+2\. In a situation of crisis as referred to in Article 1(4), point (a), or force majeure, by way of derogation from Article 45(1) of Regulation (EU) 2024/1348, Member States may not be required to examine, in a border procedure, applications made by applicants referred to in Article 42(1), point (j), of that Regulation, when the measures in the contingency plan of the concerned Member State referred to in Article 32 of Directive (EU) 2024/1346 are not sufficient to address that situation.
+
+3\. In a situation of crisis as referred to in Article 1(4), point (a), by way of derogation from Article 45(1) of Regulation (EU) 2024/1348, Member States may reduce the threshold provided for in Article 42(1), point (j), to 5 %.
+
+4\. In a situation of crisis as referred to in Article 1(4), point (a), by way of derogation from Article 44(1), point (b), of Regulation (EU) 2024/1348, Member States may, in a border procedure, take decisions on the merits of an application in cases where the applicant is a national or, in the case of stateless persons, a former habitual resident of, a third country for which the proportion of decisions granting international protection by the determining authority is, according to the latest available yearly Union-wide average Eurostat data, 50 % or lower, in addition to the cases referred to in Article 42(1), point (j), of that Regulation, taking into account the rapidly evolving protection needs that might arise in the country of origin as reflected in quarterly updates of Eurostat data.
+
+5\. When applying paragraph 3 or 4 of this Article, the Member State concerned shall prioritise the examination of applications for international protection lodged by persons with special procedural or special reception needs as defined in Directive (EU) 2024/1346 and in Regulation (EU) 2024/1348, and minors and their family members. When applying paragraph 3, 4 or 6 of this Article, the Member State concerned may also prioritise the examination of applications for international protection which are likely to be well-founded.
+
+6\. In a situation of crisis as referred to in Article 1(4), point (b), by way of derogation from Article 44(1), point (b), and Article 53(2), point (a), of Regulation (EU) 2024/1348, Member States may, in a border procedure, take decisions on the merits of all applications that are made by any third-country national or stateless person who is subject to instrumentalisation and that are registered within the period during which this paragraph is applied.
+
+7\. When applying paragraph 6, Member States shall:
+
+(a) exclude from the border procedure minors under the age of 12 and their family members, and persons with special procedural or special reception needs as defined in Directive (EU) 2024/1346 and in Regulation (EU) 2024/1348; or
+
+(b) cease to apply the border procedure in respect of the following categories of applicants where it is determined, on the basis of an individual assessment, that their applications are likely to be well-founded:
+
+(i) minors under the age of 12 and their family members; and
+
+(ii) vulnerable persons with special procedural or special reception needs as defined in Directive (EU) 2024/1346 and in Regulation (EU) 2024/1348.
+
+This paragraph shall be without prejudice to the mandatory nature of the border procedure as referred to in Article 45 of Regulation (EU) 2024/1348.
+
+8\. Where the Member State concerned is authorised to apply the derogation referred to in paragraph 6 of this Article, the Council implementing decision as referred to in Article 4(3) shall specify whether paragraph 7, point (a) or (b), applies, based on the indication made by the Member State concerned in accordance with Article 2(2), point (d).
+
+9\. The Member State facing a situation of crisis or force majeure shall not apply or shall cease to apply the derogation from the asylum procedure provided for in paragraphs 4 and 6 of this Article in cases where there are medical reasons for not applying the border procedure in accordance with Article 53(2), point (d), of Regulation (EU) 2024/1348, or where the necessary support cannot be provided to applicants with special reception needs in accordance with Directive (EU) 2024/1346 or with special procedural needs in accordance with Article 53(2), point (c), of Regulation (EU) 2024/1348.
+
+10\. For the purpose of applying the derogations referred to in this Article, the basic principles of the right to asylum and the respect of the principle of non-refoulement, as well as the guarantees provided for in Chapters I and II of Regulation (EU) 2024/1348 shall apply to ensure that the rights of those who seek international protection, including the right to an effective remedy, are protected.
+
+Organisations and persons permitted under national law to provide advice and counselling shall have effective access to applicants held in detention facilities or present at border crossing points. Member States may impose limits to such actions where, by virtue of national law, they are objectively necessary for the security, public order or administrative management of a detention facility, provided that access is not thereby severely restricted or rendered impossible.
+
+11\. The derogations provided for in this Article do not affect the process of determining the Member State responsible within the framework of Regulation (EU) 2024/1351. Where that process is longer than the maximum duration of the asylum border procedure in a situation of crisis or force majeure, the process and the remainder of the asylum procedure shall be completed in the territory of the determining Member State in accordance with Article 51 of Regulation (EU) 2024/1348.
+
+### Article 12 — Extension of time limits set out for take charge requests, take back notifications and transfers in a situation of crisis referred to in Article 1(4), point (a), or force majeure
+
+1\. In a situation of crisis as referred to in Article 1(4), point (a), or force majeure which renders it impossible for a Member State facing such a situation to comply with the time limits set out in Articles 39, 40, 41 and 46 of Regulation (EU) 2024/1351 or to receive persons for whom it is responsible pursuant to that Regulation, Member States may derogate from the time limits set out in Articles 39, 40, 41 and 46 of that Regulation simultaneously.
+
+2\. Where a Member State applies the derogation provided for in paragraph 1 of this Article, it shall:
+
+(a) submit a take charge request as referred to in Article 39 of Regulation (EU) 2024/1351 within four months of the date on which the application was registered;
+
+(b) reply to a take charge request as referred to in Article 40 of Regulation (EU) 2024/1351 within two months of receipt of the request;
+
+(c) submit a take back notification as referred to in Article 41 of Regulation (EU) 2024/1351 within one month of receiving the Eurodac hit or confirm receipt within one month of such notification; and
+
+(d) carry out a transfer as referred to in Article 46(1) of Regulation (EU) 2024/1351 within one year of the acceptance of the take charge request or of the confirmation of the take back notification by another Member State or of the final decision on an appeal or review of a transfer decision that has suspensive effect in accordance with Article 43(3) of that Regulation.
+
+3\. If the Member State referred to in paragraph 1 does not comply with the time limits set out in paragraph 2, point (a), (b) or (d), of this Article, the responsibility for examining the application for international protection pursuant to Regulation (EU) 2024/1351 shall lie with it or be transferred to it.
+
+4\. Where paragraph 1 of this Article is applied, transfers pursuant to Article 46 of Regulation (EU) 2024/1351 to the Member State responsible that faces a situation of crisis as referred to in Article 1(4), point (a), of this Regulation or force majeure, shall not be carried out until that Member State is no longer facing that situation, unless, due to the individual circumstances of the applicant, the responsible Member State has agreed to receive the person concerned. If the transfer does not take place within one year of the acceptance of the take charge request or of the confirmation of the take back notification by another Member State or of the final decision on an appeal or review of a transfer decision that has suspensive effect in accordance with Article 43(3) of Regulation (EU) 2024/1351, including due to the persistence of the situation of crisis referred to in Article 1(4), point (a), of this Regulation or force majeure, by way of derogation from Article 46(1) of Regulation (EU) 2024/1351, the Member State responsible, facing that situation, shall be relieved of its obligations to take charge of or to take back the person concerned and responsibility shall be transferred to the transferring Member State.
+
+### Article 13 — Derogations from the obligation to take back an applicant in a situation of extraordinary mass arrivals
+
+1\. By way of derogation from Article 36(1), point (b), and Article 38(4) of Regulation (EU) 2024/1351, in a situation of crisis as referred to in Article 1(4), point (a), of this Regulation where the mass arrivals of third-country nationals or stateless persons are of such extraordinary scale and intensity that it could create a serious risk of serious deficiencies in the treatment of applicants, thereby creating a serious risk that the Common European Asylum System is rendered non-functional, the Member State facing that situation may be relieved of its obligation to:
+
+(a) take back an applicant, a third-country national or stateless person in relation to whom that Member State has been indicated as the Member State responsible under Article 16(1) of Regulation (EU) 2024/1358 where that responsibility was determined pursuant to Article 16(2) of Regulation (EU) 2024/1351; or
+
+(b) take back an applicant pursuant to Article 38(4) of Regulation (EU) 2024/1351.
+
+This paragraph shall only apply where the application was registered in the Member State facing that situation within the period set out in the Council implementing decision referred to in Article 4(3) of this Regulation which shall not exceed four months before the date of adoption of that Council implementing decision.
+
+2\. Where paragraph 1 of this Article is applied, and the Member State facing that situation was determined as responsible pursuant to Article 16(2) of Regulation (EU) 2024/1351, that Member State shall be relieved of its obligation to take back the person concerned and responsibility shall be transferred to the Member State where the second application was registered.
+
+The Member State that becomes responsible pursuant to the first subparagraph of this paragraph shall indicate in Eurodac that it has become the Member State responsible in accordance with Article 16(3) of Regulation (EU) 2024/1358.
+
+3\. By way of derogation from paragraphs 2 and 4 of Article 38 of Regulation (EU) 2024/1351, where paragraph 1 of this Article is applied and the Member State facing that situation is obliged to take back an applicant pursuant to Article 38(4) of Regulation (EU) 2024/1351, the Member State where the second application is registered shall apply the procedures set out in Part III of that Regulation, with the exception of Article 16(2), Article 17(1) and (2), Article 25(5) and Article 33(1) and (2), and the obligation to take back an applicant pursuant to Article 38(4) shall be transferred to that Member State.
+
+Where no Member State responsible can be determined under the first subparagraph of this paragraph, the Member State where the second application was registered shall be responsible for examining the application for international protection. Applications for international protection for which a Member State has sent a take back notification pursuant to Article 41 of Regulation (EU) 2024/1351 before the date of adoption of the Council implementing decision referred to in Article 4(3) of this Regulation shall not be affected by this subparagraph.
+
+The Member State that becomes responsible pursuant to the second subparagraph of this paragraph shall indicate in Eurodac that it has become the Member State responsible in accordance with Article 16(1) of Regulation (EU) 2024/1358.
+
+## CHAPTER V — EXPEDITED PROCEDURE
+
+### Article 14 — Expedited procedure
+
+1\. Where objective circumstances suggest that applications for international protection from groups of applicants from a specific country of origin or of former habitual residence, or from a part of such a country, or on the basis of the criteria set out in Regulation (EU) 2024/1347 could be well-founded, the Commission may, after consultation with the High-Level EU Solidarity Forum, adopt a recommendation for the application of an expedited procedure by providing all relevant information in view of facilitating, in particular, the application by the determining authorities of Article 13(11), point (a), and Article 34(5), point (a), of Regulation (EU) 2024/1348.
+
+2\. Where, following the adoption of a recommendation as referred to in paragraph 1 of this Article, the determining authority applies Article 13(11), point (a), of Regulation (EU) 2024/1348 to omit the personal interview and Article 34(5), point (a), of that Regulation to prioritise the examination of the application because it is likely to be well-founded, it shall ensure, by way of derogation from Article 35(4) of that Regulation, that the examination of the merits of the application is concluded no later than four weeks from the lodging of the application.
+
+3\. When considering whether to adopt a recommendation as referred to in paragraph 1, the Commission may consult the relevant Union agencies, UNHCR and other relevant organisations.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 15 — Specific provisions and guarantees
+
+In a situation of crisis, where a Member State applies a derogation as referred to in Articles 10 to 13, it shall duly inform third-country nationals or stateless persons in a language which they understand or are reasonably supposed to understand about the measures applied, the location of the registration points, including the border crossing points, which are accessible for registering and lodging an application for international protection, and the duration of the measures.
+
+### Article 16 — Crisis preparedness
+
+1\. National strategies established by Member States in accordance with Article 7 of Regulation (EU) 2024/1351 shall also include:
+
+(a) preventive measures to ensure a sufficient level of preparedness and to reduce the risk of situations of crisis, and contingency planning, taking into account the contingency planning pursuant to Regulations (EU) 2021/2303 and (EU) 2019/1896 and Directive (EU) 2024/1346 and the reports of the Commission issued within the framework of the Migration Preparedness and Crisis Blueprint;
+
+(b) an analysis of measures needed to respond to and resolve situations of crisis and force majeure in the Member State concerned, including measures to protect the rights of applicants and beneficiaries of international protection and other forms of protection.
+
+2\. For the purposes of paragraph 1, Member States may consult the Commission and relevant Union bodies, offices and agencies, in particular the Asylum Agency, as well as regional and local authorities, as appropriate and in accordance with national law.
+
+3\. The Member States shall revise, where necessary, the national strategies established in accordance with Article 7 of Regulation (EU) 2024/1351 and in any case, no later than one year from the date on which the situation of crisis ended in accordance with Article 5 of this Regulation.
+
+### Article 17 — Cooperation and assessment
+
+1\. In order to ensure the smooth application of the measures included in the Council implementing decision referred to in Article 4(3) of this Regulation, the EU Solidarity Coordinator shall convene a first meeting of the Technical-Level EU Solidarity Forum as referred to in Article 14(5) of Regulation (EU) 2024/1351 immediately following the adoption of such a Council implementing decision. Following that first meeting, the Technical-Level EU Solidarity Forum shall meet as many times as necessary.
+
+2\. The Member State in a situation of crisis may request the assistance of all authorities that are able to increase, at short notice, the human resources of its competent authorities in accordance with Article 5 of Regulation (EU) 2024/1348 and the assistance of experts deployed by the Asylum Agency in accordance with Article 5, point (a), of that Regulation, and Article 16(2), point (b), and Article 21(3), point (d), of Regulation (EU) 2021/2303.
+
+3\. The Commission, the European Parliament, the Council, the relevant Union agencies and the Member State facing a situation of crisis or force majeure shall closely cooperate and regularly inform each other on the implementation of the Council implementing decision referred to in Article 4(3).
+
+4\. The Member State facing a situation of crisis or force majeure shall continue reporting all relevant data to the Commission, including statistics that are relevant for the implementation of this Regulation. The Member State concerned shall also provide the Commission with the specific information needed for it to carry out the review under Article 6(3) and to make the proposal for repeal or extension of the Council implementing decision as well as any other information the Commission may request on that basis.
+
+5\. The Member State facing a situation of crisis or force majeure shall continue to cooperate closely with the UNHCR and any other organisations entrusted by the Member State with tasks under this Chapter and Regulation (EU) 2024/1348 and Directive (EU) 2024/1346.
+
+6\. In exercising their powers and carrying out their responsibilities pursuant to this Article, the Commission and the Council shall ensure at all times that the principles of necessity and proportionality are respected.
+
+### Article 18 — Financial support
+
+1\. Member States undertaking relocation as a solidarity measure shall be able to benefit from Union financial support under the conditions set out in Article 11(9) of Regulation (EU) 2021/1147, including for early integration measures implemented by regional and local authorities.
+
+2\. Emergency funding support for a Member State in a situation of crisis may be allocated pursuant to Article 31(1), point (a), of Regulation (EU) 2021/1147, including for the construction, maintenance and renovation of reception facilities required for the implementation of this Regulation, in accordance with the standards provided for in Directive (EU) 2024/1346.
+
+### Article 19 — Amendment to Regulation (EU) 2021/1147
+
+In Article 31(1) of Regulation (EU) 2021/1147, the following point is added:
+
+‘(ba) a situation of crisis within the meaning of Article 1(4), point (a), of Regulation (EU) 2024/1359 of the European Parliament and of the Council ( *1 ).
+
+### Article 20 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 12 June 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( *1 ) Regulation (EU) 2024/1359 of the European Parliament and of the Council of 14 May 2024 addressing situations of crisis and force majeure in the field of migration and asylum and amending Regulation (EU) 2021/1147 (OJ L, 2024/1359, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1359/oj).’.

@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2009/133/EC**
 
@@ -381,12 +383,14 @@ This Directive is addressed to the Member States.
 
 **(referred to in Article 17)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time-limit for transposition</td><td>Date of application</td></tr>
 <tr><td>90/434/EEC</td><td>1 January 1992</td><td>1 January 1993 (1)</td></tr>
 <tr><td>2005/19/EC</td><td>1 January 2006 (2) 1 January 2007 (3) </td><td>—</td></tr>
 <tr><td>2006/98/EC</td><td>1 January 2007</td><td>—</td></tr>
 <tr><td colspan="3">(1)  Applicable to the Portuguese Republic only.  (2)  As regards the provisions referred to in Article 2(1) of the Directive.  (3)  As regards the provisions referred to in Article 2(2) of the Directive. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

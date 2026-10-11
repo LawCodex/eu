@@ -32,10 +32,12 @@ laying down the categories of feed materials  which may be used for the purposes
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Commission Directive 91/334/EEC of 6 June 1991</td><td> L 184</td><td>27</td><td>10.7.1991</td></tr>
 <tr><td></td><td>Commission Directive 98/67/EC Text with EEA relevance of 7 September 1998</td><td> L 261</td><td>10</td><td>24.9.1998</td></tr>
+</table>
 
 COMMISSION DIRECTIVE
 

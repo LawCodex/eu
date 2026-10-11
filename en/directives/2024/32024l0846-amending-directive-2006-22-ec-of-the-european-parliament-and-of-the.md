@@ -87,6 +87,7 @@ Annex III to Directive 2006/22/EC is replaced by the following:
 
 **1\. Groups of infringements against Regulation of the European Parliament and of the Council (EC) No 561/2006 (*1) (Driving and resting time)**
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">EU LEGAL BASIS</td><td colspan="2" rowspan="2">TYPE OF INFRINGEMENT</td><td colspan="4">LEVEL OF SERIOUSNESS</td></tr>
 <tr><td>MSI</td><td>VSI</td><td>SI</td><td>MI</td></tr>
 <tr><td>A</td><td colspan="7">Crew</td></tr>
@@ -151,9 +152,11 @@ Annex III to Directive 2006/22/EC is replaced by the following:
 <tr><td>F2</td><td>Article. 10.1</td><td>Link between wage/payment and distance travelled, speed of delivery and/or amount of goods carried</td><td></td><td></td><td>X</td><td></td><td></td></tr>
 <tr><td>F3</td><td>Article. 10.2</td><td>No or improper organisation of driver's work, no or improper instructions given to driver enabling him to comply with the law</td><td></td><td></td><td>X</td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **2\. Groups of infringements against Regulation (EU) No 165/2014 of the European Parliament and of the Council (*2) (Tachograph)**
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">LEGAL BASIS</td><td rowspan="2">TYPE OF INFRINGEMENT</td><td colspan="3">LEVEL OF SERIOUSNESS</td></tr>
 <tr><td>MSI</td><td>VSI</td><td>SI</td></tr>
 <tr><td>G</td><td colspan="5">Installation of tachograph</td></tr>
@@ -189,6 +192,7 @@ Annex III to Directive 2006/22/EC is replaced by the following:
 <tr><td>J1.</td><td>Article 37(1) and Article 22(1)</td><td>Tachograph not repaired by an approved fitter or workshop</td><td></td><td>X</td><td></td></tr>
 <tr><td>J2</td><td>Article 37(2)</td><td>Driver not marking all required information for the periods of time, which are no longer recorded while tachograph is unserviceable or malfunctioning</td><td></td><td>X</td><td></td></tr>
 </tbody>
+</table>
 
 ’
 

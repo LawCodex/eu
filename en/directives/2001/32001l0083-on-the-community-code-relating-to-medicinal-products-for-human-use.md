@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the Community code relating to medicinal products for human use**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2002/98/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 January 2003 </td><td> L 33</td><td>30</td><td>8.2.2003</td></tr>
@@ -41,6 +42,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/642 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 April 2022 </td><td> L 118</td><td>4</td><td>20.4.2022</td></tr>
 <tr><td></td><td> REGULATION (EU) 2023/1182 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 June 2023 </td><td> L 157</td><td>1</td><td>20.6.2023</td></tr>
+</table>
 
 **DIRECTIVE 2001/83/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -3062,6 +3064,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — ANALYTICAL, PHARMACOTOXICOLOGICAL AND CLINICAL STANDARDS AND PROTOCOLS IN RESPECT OF THE TESTING OF MEDICINAL PRODUCTS
 
+<table>
 <tr><td colspan="2">TABLE OF CONTENTS</td></tr>
 <tr><td></td><td>Introduction and general principles</td></tr>
 <tr><td></td><td>Part I:Standardised marketing authorisation dossier requirements</td></tr>
@@ -3191,6 +3194,7 @@ This Directive is addressed to the Member States.
 <tr><td>5.4.1.</td><td>Pharmacokinetic studies</td></tr>
 <tr><td>5.4.2.</td><td>Pharmacodynamic studies</td></tr>
 <tr><td>5.4.3.</td><td>Safety studies</td></tr>
+</table>
 
 **Introduction and general principles**
 
@@ -4994,6 +4998,7 @@ Council Directive 92/73/EEC (OJ L 297, 13.10.1992, p. 8)
 
 **Time-limits for transposition into national law (referred to by Article 128)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td>Directive 65/65/EEC</td><td>31 December 1966</td></tr>
 <tr><td>Directive 66/454/EEC</td><td>—</td></tr>
@@ -5019,6 +5024,7 @@ Council Directive 92/73/EEC (OJ L 297, 13.10.1992, p. 8)
 <tr><td>Directive 2000/38/EC</td><td>5 December 2001</td></tr>
 <tr><td colspan="2">(1)  Deadline for transposition applicable to Greece, Spain and Portugal.  (2)  Except Section A, point 3.3 in Part II of the Annex.  (3)  Deadline for transposition applicable to Section A, point 3.3 in Part II of the Annex.  (4)  Except with regard to Article 1(6).  (5)  Deadline for transposition applicable to Article 1(7). </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III — CORRELATION TABLE
 

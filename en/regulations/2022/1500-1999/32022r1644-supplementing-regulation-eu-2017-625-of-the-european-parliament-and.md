@@ -1,0 +1,365 @@
+---
+title: "Commission Delegated Regulation (EU) 2022/1644 of 7 July 2022 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with specific requirements for the performance of official controls on the use of pharmacologically active substances authorised as veterinary medicinal products or as feed additives and of prohibited or unauthorised pharmacologically active substances and residues thereof (Text with EEA relevance)"
+identifier: "32022R1644"
+eli: "http://data.europa.eu/eli/reg_del/2022/1644/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2022-07-07
+entry_into_force: 2022-09-07
+last_amended: 2025-01-01
+consolidated_version: "02022R1644-20250101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1644-20250101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2022/1644 of 7 July 2022 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with specific requirements for the performance of official controls on the use of pharmacologically active substances authorised as veterinary medicinal products or as feed additives and of prohibited or unauthorised pharmacologically active substances and residues thereof (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2022/1644**
+
+**of 7 July 2022**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with specific requirements for the performance of official controls on the use of pharmacologically active substances authorised as veterinary medicinal products or as feed additives and of prohibited or unauthorised pharmacologically active substances and residues thereof**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2562 of 3 June 2024 </td><td> L 2562</td><td>1</td><td>27.9.2024</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2022/1644**
+
+**of 7 July 2022**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with specific requirements for the performance of official controls on the use of pharmacologically active substances authorised as veterinary medicinal products or as feed additives and of prohibited or unauthorised pharmacologically active substances and residues thereof**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+For the purposes of this Regulation, the definitions laid down in Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 1 ), Commission Delegated Regulation (EU) 2019/2090 ( 2 ) and Commission Implementing Regulation (EU) 2021/808 ( 3 ) apply.
+
+In addition, the following definitions apply:
+
+(1) ‘official sample’ means a sample taken by the competent authority, which bears, for the purposes of examination of the residues or substances listed in Annex I, a reference to the species, the type, the quantity concerned, the method of collection and particulars identifying the sex of the animal and the origin of the animal or of the product of animal origin, as applicable.
+
+(2) ‘targeted sampling’ means taking official sample or samples with the aim of maximising the possibility of detecting non-compliance with maximum residue limits or maximum levels, established under Union legislation for pharmacologically active substances.
+
+(3) ‘random sampling’ means the taking of an official sample or samples under statistical consideration to provide representative data
+
+(4) ‘suspect sampling’ means taking official samples as a follow-up to non-compliant control results or as the follow-up to any suspected or established non-compliance with Union rules on pharmacologically active substances, as laid down in Regulation (EU) 2019/2090.
+
+(5) ‘matrix’ means the material from which a sample is taken, including animal body parts, fluids, excrements, tissues, products of animal origin, animal by-products, animal feed and water.
+
+(6) ‘food-producing animals’ means animals bred, raised, kept, slaughtered or harvested for the purposes of producing food.
+
+(7) ‘residue’ means a residue of substances having a pharmacological action, of metabolites of such substances, degradation products of such substances and of other related substances present in animals or products of animal origin.
+
+## Article 2
+
+1\. Member States shall control the use of pharmacologically active substances authorised as veterinary medicinal products or as feed additives and the presence of prohibited or unauthorised pharmacologically active substances and residues thereof listed in Annex I.
+
+2\. For national risk-based control plans for production in the Member States, as specified in Article 4 of Implementing Regulation (EU) 2022/1646, Member States shall control combinations of substance groups and commodity groups in accordance with Annex II to this Regulation and they shall adopt a sampling strategy in accordance with the criteria set out in Annex III to this Regulation.
+
+3\. For national randomised surveillance plans for production in the Member States, as specified in Article 5 of Implementing Regulation (EU) 2022/1646, Member States shall control combinations of substance groups and commodity groups in accordance with Annex IV to this Regulation and they shall adopt a sampling strategy in accordance with the criteria set out in Annex V to this Regulation.
+
+4\. For national risk-based control plans for third country imports, as specified in Article 6 of Implementing Regulation (EU) 2022/1646, Member States shall control combinations of substance groups and commodity groups in accordance with Annex VI to this Regulation and they shall adopt a sampling strategy in accordance with the criteria set out in Annex VII to this Regulation.
+
+## Article 3
+
+References to Annexes II and III to Directive 96/23/EC shall be construed as references to this Regulation.
+
+## Article 4
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 15 December 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Group A – Prohibited or unauthorised pharmacologically active substances in food-producing animals**
+
+1\. Substances with hormonal and thyrostatic action and beta agonists the use of which is prohibited under Council Directive 96/22/EC ( 4 ):
+
+(a) Stilbenes;
+
+(b) Antithyroid agents;
+
+(c) Steroids;
+
+(d) Resorcylic acid lactones, including zeranol;
+
+(e) Beta-agonists.
+
+2\. Prohibited substances listed in Table 2 of the Annex to Regulation (EU) No 37/2010:
+
+(a) Chloramphenicol;
+
+(b) Nitrofurans;
+
+(c) Dimetridazole, metronidazole, ronidazole and other nitro-imidazoles;
+
+(d) Other substances.
+
+3\. Pharmacologically active substances, not listed in Table 1 of the Annex to Regulation (EU) No 37/2010 ( 5 ) or substances not authorised for use in feed for food-producing animals in the Union according to Regulation (EU) No 1831/2003 of the European Parliament and of the Council ( 6 ):
+
+(a) Dyes;
+
+(b) Plant protection products as defined in Regulation (EU) No 1107/2009 of the European Parliament and of the Council ( 7 ) and biocides as defined in Regulation (EU) No 528/2012 of the European Parliament and of the Council ( 8 ) which may be used in animal husbandry of food-producing animals;
+
+(c) Antimicrobial substances;
+
+(d) Coccidiostats, histomonostats and other antiparasitic agents;
+
+(e) Protein and peptide hormones;
+
+(f) Anti-inflammatory substances, sedatives and any other pharmacologically active substances;
+
+(g) Antiviral substances.
+
+**Group B – Pharmacologically active substances authorised for use in food-producing animals**
+
+1\. Pharmacologically active substances listed in Table 1 of the Annex to Regulation (EU) No 37/2010:
+
+(a) Antimicrobial substances;
+
+(b) Insecticides, fungicides, anthelmintics and other antiparasitic agents;
+
+(c) Sedatives;
+
+(d) Non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids and glucocorticoids;
+
+(e) Other pharmacologically active substances.
+
+2\. Coccidiostats and histomonostats authorised according to Union legislation, for which maximum levels and maximum residue limits are set under Union legislation
+
+## ANNEX II — Criteria for the selection of specific combination of substance groups and commodity groups for national risk-based control plan for production in the Member States (as referred to in Article 2(2))
+
+**A. Group A substances**
+
+1\. Combinations of substance groups and commodity groups:
+
+<table>
+<tbody><tr><td>  </td><td colspan="10">Commodity group</td></tr>
+<tr><td>Substance group by reference to Annex I</td><td>Bovine, ovine and caprine</td><td>Porcine</td><td>Equine</td><td>Poultry</td><td>Aquaculture (finfish, crustaceans and other aquaculture products)</td><td>Raw bovine, ovine and caprine milk</td><td>Hen eggs and other eggs</td><td>Rabbits, farmed game and, reptiles and insects</td><td>Honey</td><td>Casings (*1)</td></tr>
+<tr><td>A(1), point (a)</td><td>X</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X (*2)</td><td>  </td><td>  </td></tr>
+<tr><td>A(1), point (b)</td><td>X</td><td>X</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X (*3)</td><td>  </td><td>  </td></tr>
+<tr><td>A(1), point (c)</td><td>X</td><td>X</td><td>X</td><td>  </td><td>X (*4)</td><td>  </td><td>  </td><td>X (*3)</td><td>  </td><td>  </td></tr>
+<tr><td>A(1), point (d)</td><td>X</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X (*3)</td><td>  </td><td>  </td></tr>
+<tr><td>A(1), point (e)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>  </td><td>  </td><td>  </td><td>X (*3)</td><td>  </td><td>  </td></tr>
+<tr><td>A(2)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>A(3), point (a)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11"></td></tr>
+<tr><td>A(3), point (b)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>  </td><td>X</td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td colspan="11"></td></tr>
+<tr><td>A(3), point (c)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X (*2)</td><td>X</td><td>  </td></tr>
+<tr><td>A(3), point (d)</td><td>X</td><td>X</td><td>  </td><td>X</td><td>  </td><td>  </td><td>X</td><td>X (*2)</td><td>  </td><td>  </td></tr>
+<tr><td>A(3), point (e)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11"></td></tr>
+<tr><td>A(3), point (f)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>  </td><td>X</td><td>  </td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td colspan="11"></td></tr>
+<tr><td>A(3), point (g)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  As defined in Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (OJ L 174, 3.6.2020, p. 379).  (*2)  Not relevant for insects  (*3)  Relevant only for reptiles  (*4)  Relevant only for finfish </td></tr>
+</tbody>
+</table>
+
+— The residue or substance groups shall be analysed in samples drawn from food-producing animals including, where appropriate, their excrements, body fluids and unprocessed animal products, feed, water and animal by-products.
+
+— When there are indications or suspicions that illegal treatments may take place for residue or substance groups in species or products not covered by the table of this Annex, these controls shall be also included in the risk-based control plan for production in the Member States.
+
+2\. Criteria for selecting specific substances for testing within each substance group:
+
+— frequency of the detection of non-compliance in the Member State or reported in the results from other Member States, or in third countries’ samples, especially when reported under the Rapid Alert System for Food and Feed (‘RASFF’) or the Administrative Assistance and Cooperation System (‘AAC’) or where there is evidence that substances not authorised for use in food-producing animals in the Union are used in third countries;
+
+— availability of suitable laboratory methods and analytical standards;
+
+— pharmacologically active substances likely to be misused in order to increase production or increase feed conversion efficiency;
+
+— prohibited or unauthorised substances for which there are indications of misuse;
+
+— possible risk for consumers or certain population groups arising from consumption of residues present in food, taking into account the relevant information available from, inter alia, the European Medicines Agency, European Food Safety Authority and the Codex Alimentarius Joint Expert Committee on Food Additives or in absence of such information, other sources of information such as scientific publications or national risk assessment.
+
+3\. Criteria for the selection of animals and products of animal origin:
+
+— indication of the use of specific pharmacologically active substances, including mutilations at the ears or the tail or the presence of injection sites;
+
+— secondary sexual characteristics, behavioural changes, signs of disease or chronic disorders, different health status of specific animals within a group;
+
+— sex, age and pregnancy status of the animals;
+
+— veterinary history of the animal and health certificate;
+
+— animals showing a good physical conformation and well-developed muscles with little fat.
+
+**B. Group B substances**
+
+1\. Criteria for selecting specific substances for testing within each substance group:
+
+— frequency of the detection of non-compliance in the Member State’s samples, in other Member States’ samples or in third countries’ samples, especially when reported under the RASFF or AAC;
+
+— availability of suitable laboratory methods and analytical standard;
+
+— information on the quantities of veterinary medicinal products produced, imported, exported, marketed and sold for a specific food-producing animal species;
+
+— information on the veterinary medicinal product distribution chain, the national register of pharmacologically active substances authorised as veterinary medicinal products or feed additives, information on the most popular prescribing patterns;
+
+— the likelihood of misuse of the pharmacologically active substances;
+
+— maximum residue limits and maximum levels for pharmacologically active substances and feed additives including restrictions (e.g. not for use in lactating animals);
+
+— formulations of veterinary medicinal products for which long withdrawal periods, post-animal treatment, have been established to ensure that edible unprocessed animal products comply with EU MRLs;
+
+— possible treatment of food-producing animals under Articles 113 and 114 of Regulation (EU) 2019/6 of the European Parliament and of the Council ( 9 ).
+
+2\. Criteria for the selection of substance groups and animals and products of animal origin:
+
+— information on the marketing authorisations for veterinary medicinal products containing pharmacologically active substances for specific animal species and production classes;
+
+— information on the marketing authorisations for feed additives for specific animal species and production classes;
+
+— information on the frequency of the use of substances from specific substance categories in specific animal species;
+
+— frequency of the detection of non-compliance for residues of pharmacologically active substances and feed additives per production category;
+
+— information on the rates of antimicrobial resistance in certain animal production sectors.
+
+## ANNEX III — Criteria for sampling strategy for national risk-based control plan for production in the Member States (as referred to in Article 2(2))
+
+1\. Sampling shall be carried out in variable intervals spread evenly over all months of the year or relevant production period. In this context, it shall be considered that a number of pharmacologically active substances are administered only in particular seasons.
+
+2\. Sampling shall be performed at or close to slaughter, collection or harvest. However, for Group A substances sampling should also be performed at any relevant stage in the life cycle of the animals.
+
+3\. All samples shall be targeted according to the criteria laid down in the national control plan. For Group A substances, sampling shall be targeted at detection of illegal treatment with prohibited or unauthorised substances – thus animals which are most likely to have been treated are preferentially selected over those animals which are not, and, as much of this sampling is carried out on farm, samples of drinking water and feed may be appropriate in addition to inedible materials such as blood, urine, faeces, hair etc.
+
+4\. For Group B substances, samples shall comprise only edible tissues/products (the objective is to verify compliance with maximum residue limits and maximum levels). Sampling shall be targeted on products from those animals, which are most likely to have been treated with a specific pharmacologically active substance or substance within therapeutic class of veterinary medicinal products.
+
+5\. Samples from injection sites can be appropriate to control the illegal use of substances. In case samples are taken from injection sites, this shall be clearly mentioned when reporting analytical results from these samples.
+
+6\. Criteria for the selection of the animals or products to be controlled for each food business operator to be controlled:
+
+— history of non-compliance of the farm or producer;
+
+— shortcomings in the application of veterinary medicinal products, deficiencies identified in previous controls, reported increase of losses of animals on the farm, animal health status of the farm, epidemiological status of the region;
+
+— information on the farming system, fattening system, breed and sex of the animals;
+
+— common practices with regard to the administration of particular pharmacologically active substances in the respective farm or production system;
+
+— indications of the use of pharmacologically active substances;
+
+— the absence or the unreliability of own-checks, the membership of quality assurance schemes (when available) and results of testing under such schemes;
+
+— evidence of insufficient supervision of the farm by veterinarians;
+
+— representative sampling regardless the size of the food business operator.
+
+7\. Criteria for the selection of slaughterhouses, cutting plants, establishments for the milk production, establishments for the production and placing on the market of aquaculture products, establishments for honey and egg and egg packing centres from which samples should be taken:
+
+— the criteria listed under points A.2 and B.1 of Annex II and point 6 of this Annex;
+
+— the respective establishments’ share of the country’s total production volume;
+
+— non-compliance identified in earlier controls on the use of pharmacologically active substances and residues thereof in animals and animal products;
+
+— origins and transport routes of the slaughtered animals, milk, eggs or honey;
+
+— absence of participation in quality assurance programmes (when available);
+
+— the scope and results of own-checks for residues.
+
+8\. When taking the samples, efforts shall be made to avoid multiple sampling (i.e. the taking of several different samples from a single animal/product (unless the different samples are analysed for a different group of substances), or sampling several animals/products from a single producer on a given day when samples could be drawn from animals/products from several producers which would satisfy the targeting criteria) unless the operator has been identified on the basis of the criteria included in point 6 or an appropriate justification has been provided in the control plan. The compliance with the planned frequency of checks shall be ensured.
+
+## ANNEX IV — Criteria for the selection of specific combination of substance groups and commodity groups for national randomised surveillance plan for production in the Member States (as referred to in Article 2(3))
+
+**Group A substances**
+
+The samples that consist in combinations of substance groups and commodity groups shall be different from the samples taken referred to in the national risk-based control plans for production in the Member States.
+
+**Group B substances**
+
+Combinations of substance groups and commodity groups:
+
+<table>
+<tbody><tr><td>Substance group</td><td>Bovine, ovine and caprine</td><td>Porcine</td><td>Equine</td><td>Poultry</td><td>Aquaculture (finfish, crustaceans and other aquaculture products)</td><td>Raw bovine, ovine and caprine milk</td><td>Hen eggs and other eggs</td><td>Rabbits, farmed game, reptiles and insects</td><td>Honey</td></tr>
+<tr><td>B1a</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>B1b</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>B1c</td><td>X</td><td>X</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>B1d</td><td>X</td><td>X</td><td>X</td><td>X</td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td>B1e</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>B2</td><td>X</td><td>X</td><td>X</td><td>X</td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td colspan="10"></td></tr>
+</tbody>
+</table>
+
+Each sample for a specific type of animal or product shall be analysed for as wide range of the substance groups listed in the table included in this Annex as practically feasible.
+
+It shall be ensured that for a specific type of animal or product all substance groups listed in the table are covered by the surveillance plan. The controls shall be performed for as many pharmacologically active substances as possible, for which maximum residue limits have been set in Table 1 of the Annex to Regulation (EU) No 37/2010 or for feed additives, for which maximum residue limits and maximum levels have been set pursuant to Regulation (EC) No 1831/2003.
+
+## ANNEX V — Criteria for sampling strategy for national randomised surveillance plan for production in the Member States (as referred to in Article 2(3)
+
+1\. Sampling shall be random and shall be performed at or close to slaughter, collection or harvest and representative of the Member States’ production/consumption pattern:
+
+— for Group A substances, sampling shall be performed throughout the production process of food-producing animals and unprocessed products of animal origin on live food-producing animals, their body parts, excrements and body fluids and in tissue, products of animal origin, animal by-products, animal feed and water, whichever matrix is the most relevant,
+
+— for Group B substances, only fresh or frozen meat, edible offal, eggs, milk or honey (as close as possible to the production date), which have not undergone further processing or mixing, shall be sampled.
+
+2\. In case several substance categories are to be analysed in one sample, the sample size shall be adjusted accordingly.
+
+## ANNEX VI — Criteria for the selection of specific combination of substance groups and commodity groups for national risk-based control plan for third country imports (as referred to in Article 2(4))
+
+1\. The relevant criteria listed in Annex II
+
+2\. Information where available and relevant, on:
+
+— the RASFF notifications and AAC system for residues in imported food;
+
+— the outcome of Commission controls in third countries;
+
+— level of guarantees provided by the importer on the compliance of imported food of animal origin with Union legislation on pharmacologically active substances including compliance with Union maximum residue limits and maximum levels or attestations on non-use of certain substances;
+
+— records of non-compliances for individual food business operators or importers identified in earlier Member State import controls.
+
+3\. Relevant information provided by the Commission services, where available, on:
+
+— the use in the third country of pharmacologically active substances that are prohibited or not authorised in the Union, existence of information on the restrictions on such use, administration practices for veterinary medicinal products (e.g. with or without the involvement of authorised animal health professionals);
+
+— the distribution of veterinary medicinal products and whether they are available over the counter or are subject to a veterinary prescription;
+
+— whether there is an obligation to keep veterinary medicinal product treatment records on farms in the third country;
+
+— whether and how animals are identified (and can thus be linked to treatments).
+
+## ANNEX VII — Criteria for sampling strategy for national risk-based control plan for third country imports (as referred to in Article 2(4))
+
+1\. Sampling shall be targeted according to rules set out in Annex VI, supplemented by the relevant rules laid down in Annex III.
+
+— For Group A substances, sampling shall be targeted at detecting the illegal treatment with prohibited or unauthorised substances.
+
+— For Group B substances, sampling shall be targeted at controlling the compliance with maximum residue limits or maximum levels for residues of pharmacologically active substances established under Union legislation.
+
+2\. Samples shall be taken at the point of entry into the Union.
+
+( 1 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 2 ) Commission Delegated Regulation (EU) 2019/2090 of 19 June 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and Council regarding cases of suspected or established non-compliance with Union rules applicable to the use or residues of pharmacologically active substances authorised in veterinary medicinal products or as feed additives or with Union rules applicable to the use or residues of prohibited or unauthorised pharmacologically active substances (OJ L 317, 9.12.2019, p. 28).
+
+( 3 ) Commission Implementing Regulation (EU) 2021/808 of 22 March 2021 on the performance of analytical methods for residues of pharmacologically active substances used in food-producing animals and on the interpretation of results as well as on the methods to be used for sampling and repealing Decisions 2002/657/EC and 98/179/EC (OJ L 180, 21.5.2021, p. 84).
+
+( 4 ) Council Directive 96/22/EC of 29 April 1996 concerning the prohibition on the use in stockfarming of certain substances having a hormonal or thyrostatic action and of ß-agonists, and repealing Directives 81/602/EEC, 88/146/EEC and 88/299/EEC (OJ L 125, 23.5.1996, p. 3).
+
+( 5 ) Commission Regulation (EU) No 37/2010 of 22 December 2009 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin (OJ L 15, 20.1.2010, p. 1).
+
+( 6 ) Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (OJ L 268, 18.10.2003, p. 29).
+
+( 7 ) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1).
+
+( 8 ) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1).
+
+( 9 ) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43).

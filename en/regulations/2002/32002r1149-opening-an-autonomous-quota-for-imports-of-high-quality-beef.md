@@ -1,0 +1,67 @@
+---
+title: "Council Regulation (EC) No 1149/2002 of 27 June 2002 opening an autonomous quota for imports of high-quality beef"
+identifier: "32002R1149"
+eli: "http://data.europa.eu/eli/reg/2002/1149/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-06-27
+entry_into_force: 2002-07-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R1149"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 1149/2002 of 27 June 2002 opening an autonomous quota for imports of high-quality beef
+
+Council Regulation (EC) No 1149/2002
+
+of 27 June 2002
+
+opening an autonomous quota for imports of high-quality beef
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) In view of the Community's interest in developing harmonious trade relations with third countries, provision should be made for opening, as an autonomous measure, a Community import tariff quota of 1000 tonnes of high-quality fresh, chilled or frozen beef.
+
+(2) In spite of the difficulties experienced in 2001, the beef market is now on the way to becoming more stable. Demand of consumers in the Community is increasing, especially for high-quality beef. An additional reduced-tariff-quota for high-quality beef would satisfy at the same time the consumer interests as well as supplier interests. It would not have a significant impact on the total volume of beef imports into the Community.
+
+(3) All operators concerned in the Community should be offered equal and continuous access to that quota. It is also necessary to insure appropriate monitoring. To this end, the utilisation of the quota should be based on the presentation of a certificate of authenticity guaranteeing the type and origin of the products.
+
+(4) Under Article 32 of Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), tariff quotas for the products covered by this Regulation are to be administered by the Commission in accordance with detailed rules adopted under the procedure laid down in Article 43 of the said Regulation,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. An annual Community import tariff quota of 1000 tonnes, expressed in product weight, of high-quality fresh, chilled or frozen beef falling within positions 0201 30 00 and 0202 30 90 of the Common Customs Tariff is opened.
+
+2\. The applicable duty for the quota shall be 20 % ad valorem.
+
+3\. The quota year shall run from 1 July to 30 June.
+
+## Article 2
+
+Detailed rules for the application of this Regulation, adopted in accordance with the procedure laid down in Article 43 of Regulation (EC) No 1254/1999, shall include provisions making the utilisation of the quota referred to in Article 1 subject to the presentation of a certificate of authenticity guaranteeing the type and origin of the products.
+
+## Article 3
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Luxembourg, 27 June 2002.
+
+For the Council
+
+The President
+
+M. Arias Cañete
+
+(1) OJ L 160, 26.6.1999, p. 21. Regulation last amended by Commission Regulation (EC) No 2345/2001 (OJ L 315, 1.12.2001, p. 29).

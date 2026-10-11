@@ -1,0 +1,792 @@
+---
+title: "Commission Implementing Regulation (EU) No 792/2012 of 23 August 2012 laying down rules for the design of permits, certificates and other documents provided for in Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein and amending Commission Regulation (EC) No 865/2006"
+identifier: "32012R0792"
+eli: "http://data.europa.eu/eli/reg_impl/2012/792/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-08-23
+entry_into_force: 2013-01-01
+last_amended: 2025-02-18
+consolidated_version: "02012R0792-20250218"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0792-20250218"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 792/2012 of 23 August 2012 laying down rules for the design of permits, certificates and other documents provided for in Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein and amending Commission Regulation (EC) No 865/2006
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 792/2012**
+
+**of 23 August 2012**
+
+**laying down rules for the design of permits, certificates and other documents provided for in Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein and amending Commission Regulation (EC) No 865/2006**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/57 of 15 January 2015 </td><td> L 10</td><td>19</td><td>16.1.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2281 of 16 December 2021 </td><td> L 473</td><td>131</td><td>30.12.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/132 of 28 January 2025 </td><td> L 132</td><td>1</td><td>29.1.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 792/2012**
+
+**of 23 August 2012**
+
+**laying down rules for the design of permits, certificates and other documents provided for in Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein and amending Commission Regulation (EC) No 865/2006**
+
+## Article 1 — General provision
+
+The design and technical specifications with regard to forms for permits, certificates and other documents provided for in Regulation (EC) No 338/97 and Regulation (EC) No 865/2006 are described in this Regulation. The design and technical specifications are specified for the following documents:
+
+(1) import permits;
+
+(2) export permits;
+
+(3) re-export certificates;
+
+(4) personal ownership certificates;
+
+(5) sample collection certificates;
+
+(5a) musical instrument certificates;
+
+(6) import notifications;
+
+(7) travelling exhibition certificates;
+
+(8) continuation sheets for personal ownership certificates, for travelling exhibition certificates and for musical instrument certificates;
+
+(9) certificates provided for in paragraphs 2(b), 3 and 4 of Article 5 of Regulation (EC) No 338/97, and in Articles 8(3) and 9(2)(b) thereof;
+
+(10) labels referred to in Article 7(4) of Regulation (EC) No 338/97.
+
+## Article 2 — Forms
+
+1\. The forms on which import permits, export permits, re-export certificates, personal ownership certificates, sample collection certificates and musical instrument certificates and applications for such documents are drawn up shall conform, except as regards spaces reserved for national use, to the model set out in Annex I.
+
+2\. The forms on which import notifications are drawn up shall conform, except as regards spaces reserved for national use, to the model set out in Annex II. They may contain a serial number.
+
+Until 19 January 2023 import notifications may instead be drawn up using the forms set out in Annex II in the version in force on 18 January 2022.
+
+3\. The forms on which travelling exhibition certificates and applications for such documents are drawn up shall conform, except as regards spaces reserved for national use, to the model set out in Annex III.
+
+4\. The forms on which continuation sheets are drawn up for personal ownership certificates, travelling exhibition certificates and musical instrument certificates shall conform to the model set out in Annex IV.
+
+5\. The forms on which the certificates provided for in paragraphs 2(b), 3 and 4 of Article 5 of Regulation (EC) No 338/97 and in Articles 8(3) and 9(2)(b) thereof and applications for such certificates are drawn up shall conform to the model set out in Annex V to this Regulation, except as regards spaces reserved for national use.
+
+Member States may, however, provide that, instead of the pre-printed text, boxes 18 and 19 are to contain only the relevant certification or authorisation, or both.
+
+6\. The form of the labels referred to in Article 7(4) of Regulation (EC) No 338/97 shall conform to the model set out in Annex VI to this Regulation.
+
+## Article 3 — Technical specifications with regard to forms
+
+1\. The paper used for the forms referred to in Article 2 shall be free of mechanical pulp and dressed for writing purposes, and shall weigh at least 55 g/m2.
+
+2\. The size of the forms referred to in Article 2(1) to (5) shall be 210 x 297 mm (A4) with a maximum tolerance as to length of 18 mm less and 8 mm more.
+
+3\. The colour of the paper used for the forms referred to in Article 2(1) shall be as follows:
+
+(a) white for form 1, the original, with a guilloche pattern background, printed in grey on the front, so as to reveal any falsification by mechanical or chemical means;
+
+(b) yellow for form 2, the copy for the holder;
+
+(c) pale green for form 3, the copy for the exporting or re-exporting country in the case of an import permit, or the copy for return by customs to the issuing management authority in the case of an export permit or re-export certificate;
+
+(d) pink for form 4, the copy for the issuing management authority;
+
+(e) white for form 5, the application.
+
+4\. The colour of the paper used for the forms referred to in Article 2(2) shall be as follows:
+
+(a) white for form 1, the original;
+
+(b) yellow for form 2, the copy for the importer.
+
+5\. The colour of the paper used for the forms referred to in Article 2(3) and (5) shall be as follows:
+
+(a) yellow for form 1, the original, with a guilloche pattern background, printed in grey on the front, so as to reveal any falsification by mechanical or chemical means;
+
+(b) pink for form 2, the copy for the issuing management authority;
+
+(c) white for form 3, the application.
+
+6\. The colour of the paper used for the continuation sheets and labels referred to in Article 2(4) and (6) respectively shall be white.
+
+7\. The forms referred to in Article 2 shall be printed and completed in one of the official Union languages as specified by the management authorities of each Member State. They shall, where necessary, contain a translation of their contents in one of the official working languages of the Convention.
+
+8\. Member States shall be responsible for the printing of the forms referred to in Article 2, which, in the case of the forms referred to in Article 2(1) to (5), may be part of a computerised permit/certificate issuing process.
+
+## Article 4
+
+Regulation (EC) No 865/2006 is amended as follows:
+
+(1) Articles 2 and 3 are deleted;
+
+(2) Annexes I to VI are deleted.
+
+## Article 5
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 27 September 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+[image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the actual (re-)exporter, not of an agent. In the case of a personal ownership certificate or of a musical instrument certificate, the full name and address of the legal owner. In the case of a musical instrument certificate, if the applicant is different from the legal owner, the full name and address of both the owner and of the applicant should be included in the form and a copy of a loan agreement between owner and applicant should be provided to the relevant permit issuing authority.
+
+2\. The period of validity of an export permit or re-export certificate shall not exceed six months and of an import permit 12 months. The period of validity of a personal ownership certificate and of a musical instrument certificate shall not exceed three years. After its last day of validity, this document is void and the original and all copies must be returned by the holder to the issuing management authority without undue delay. An import permit is not valid where the corresponding CITES document from the (re-)exporting country was used for (re-)export after its last day of validity or if the date of introduction into the Union is more than six months from its date of issue.
+
+3\. Full name and address of the actual importer, not of an agent. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+5\. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+6\. For live specimens of Annex A species other than captive bred or artificially propagated specimens, the issuing authority may prescribe the location at which they are to be kept by including details thereof in this box. Any movement, except for urgent veterinary treatment and provided the specimens are returned directly to their authorised location, then requires prior authorisation from the competent management authority.
+
+8\. Description must be as precise as possible and include a three-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein. In the case of a musical instrument certificate, the description of the instrument should allow the competent authority to verify that the certificate corresponds to the specimen being imported or exported, and the description should include elements such as the manufacturer's name, the serial number or other means of identification such as photographs.
+
+9/10. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+11\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of issue of the permit/certificate.
+
+12\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date of issue of the permit/certificate.
+
+13\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 1 )
+
+O Pre-convention (2)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006 ( 2 ), and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production.
+
+14\. Use one of the following codes to indicate the purpose for which the specimens are to be (re-)exported/imported:
+
+B Breeding in captivity or artificial propagation
+
+E Educational. Where the transaction is for the purpose of use in educational and training programs or for display in an institution with a primarily educational remit
+
+G Botanical gardens
+
+H Hunting trophies
+
+L Law enforcement/judicial/forensic. Where the transaction is for the purpose of transfer of specimens between, or in support of, government agencies for law enforcement, judicial or forensic purposes
+
+M Medical (including bio-medical research). Where the transaction is for the purpose of medical or veterinary testing, diagnosis, treatment or research, including biomedical research
+
+N Reintroduction or introduction into the wild. Where the transaction is for the purpose of reinforcement and reintroduction within a species’ natural and historical range, and for conservation introductions, comprising assisted colonization and ecological replacement, outside the species’ natural and historical range
+
+P Personal
+
+Q Travelling exhibitions (sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public)
+
+S Scientific
+
+T Commercial
+
+Z Zoos. Where the transaction is for the purpose of movement of a specimen to a zoo and/or aquarium or by a zoo and/or aquarium for public display, care, reproduction, public education and awareness, scientific research, rescue, rehabilitation, or conservation
+
+15 to 17. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated. Where this is a third country, boxes 16 and 17 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+18 to 20. The country of last re-export is, in the case of a re-export certificate, the re-exporting third country from which the specimens were imported before being re-exported from the Union. In the case of an import permit, it is the re-exporting third country from which the specimens are to be imported. Boxes 19 and 20 must contain details of the relevant re-export certificate.
+
+21\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+23 to 25. For official use only.
+
+26\. The importer/(re)exporter or his agent must, where appropriate, indicate the number of the bill of lading or air waybill.
+
+27\. To be completed by the customs office of introduction into the Union or that of (re-)export as appropriate. In the case of introduction, the original (form 1) must be returned to the management authority of the Member State concerned and the copy for the holder (form 2) to the importer In the case of (re-)export, the copy for return by customs to the issuing authority (form 3) must be returned to the management authority of the Member State concerned and the original (form 1) and the copy for the holder (form 2) to the (re-)exporter.
+
+[image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the actual (re-)exporter, not of an agent. In the case of a personal ownership certificate or of a musical instrument certificate, the full name and address of the legal owner. In the case of a musical instrument certificate, if the applicant is different from the legal owner, the full name and address of both the owner and of the applicant should be included in the form and a copy of a loan agreement between owner and applicant should be provided to the relevant permit issuing authority.
+
+2\. The period of validity of an export permit or re-export certificate shall not exceed six months and of an import permit 12 months. The period of validity of a personal ownership certificate and of a musical instrument certificate shall not exceed three years. After its last day of validity, this document is void and the original and all copies must be returned by the holder to the issuing management authority without undue delay. An import permit is not valid where the corresponding CITES document from the (re-)exporting country was used for (re-)export after its last day of validity or if the date of introduction into the Union is more than six months from its date of issue.
+
+3\. Full name and address of the actual importer, not of an agent. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+5\. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+6\. For live specimens of Annex A species other than captive bred or artificially propagated specimens, the issuing authority may prescribe the location at which they are to be kept by including details thereof in this box. Any movement, except for urgent veterinary treatment and provided the specimens are returned directly to their authorised location, then requires prior authorisation from the competent management authority.
+
+8\. Description must be as precise as possible and include a three-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein. In the case of a musical instrument certificate, the description of the instrument should allow the competent authority to verify that the certificate corresponds to the specimen being imported or exported, and the description should include elements such as the manufacturer's name, the serial number or other means of identification such as photographs.
+
+9/10. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+11\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of issue of the permit/certificate.
+
+12\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date of issue of the permit/certificate.
+
+13\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 3 )
+
+O Pre-convention (3)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+14\. Use one of the following codes to indicate the purpose for which the specimens are to be (re-)exported/imported:
+
+B Breeding in captivity or artificial propagation
+
+E Educational. Where the transaction is for the purpose of use in educational and training programs or for display in an institution with a primarily educational remit
+
+G Botanical gardens
+
+H Hunting trophies
+
+L Law enforcement/judicial/forensic. Where the transaction is for the purpose of transfer of specimens between, or in support of, government agencies for law enforcement, judicial or forensic purposes
+
+M Medical (including bio-medical research). Where the transaction is for the purpose of medical or veterinary testing, diagnosis, treatment or research, including biomedical research
+
+N Reintroduction or introduction into the wild. Where the transaction is for the purpose of reinforcement and reintroduction within a species’ natural and historical range, and for conservation introductions, comprising assisted colonization and ecological replacement, outside the species’ natural and historical range
+
+P Personal
+
+Q Travelling exhibitions (sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public)
+
+S Scientific
+
+T Commercial
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+Z Zoos. Where the transaction is for the purpose of movement of a specimen to a zoo and/or aquarium or by a zoo and/or aquarium for public display, care, reproduction, public education and awareness, scientific research, rescue, rehabilitation, or conservation
+
+15 to 17. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated. Where this is a third country, boxes 16 and 17 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+18 to 20. The country of last re-export is, in the case of a re-export certificate, the re-exporting third country from which the specimens were imported before being re-exported from the Union. In the case of an import permit, it is the re-exporting third country from which the specimens are to be imported. Boxes 19 and 20 must contain details of the relevant re-export certificate.
+
+21\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+23 to 25. For official use only.
+
+26\. The importer/(re)exporter or his agent must, where appropriate, indicate the number of the bill of lading or air waybill.
+
+27\. To be completed by the customs office of introduction into the Union or that of (re-)export as appropriate. In the case of introduction, the original (form 1) must be returned to the management authority of the Member State concerned and the copy for the holder (form 2) to the importer In the case of (re-)export, the copy for return by customs to the issuing authority (form 3) must be returned to the management authority of the Member State concerned and the original (form 1) and the copy for the holder (form 2) to the (re-)exporter.
+
+[image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the actual (re-)exporter, not of an agent. In the case of a personal ownership certificate or of a musical instrument certificate, the full name and address of the legal owner. In the case of a musical instrument certificate, if the applicant is different from the legal owner, the full name and address of both the owner and of the applicant should be included in the form and a copy of a loan agreement between owner and applicant should be provided to the relevant permit issuing authority.
+
+2\. The period of validity of an export permit or re-export certificate shall not exceed six months and of an import permit 12 months. The period of validity of a personal ownership certificate and of a musical instrument certificate shall not exceed three years. After its last day of validity, this document is void and the original and all copies must be returned by the holder to the issuing management authority without undue delay. An import permit is not valid where the corresponding CITES document from the (re-)exporting country was used for (re-)export after its last day of validity or if the date of introduction into the Union is more than six months from its date of issue.
+
+3\. Full name and address of the actual importer, not of an agent. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+5\. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+6\. For live specimens of Annex A species other than captive bred or artificially propagated specimens, the issuing authority may prescribe the location at which they are to be kept by including details thereof in this box. Any movement, except for urgent veterinary treatment and provided the specimens are returned directly to their authorised location, then requires prior authorisation from the competent management authority.
+
+8\. Description must be as precise as possible and include a three-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein. In the case of a musical instrument certificate, the description of the instrument should allow the competent authority to verify that the certificate corresponds to the specimen being imported or exported, and the description should include elements such as the manufacturer's name, the serial number or other means of identification such as photographs.
+
+9/10. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+11\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of issue of the permit/certificate.
+
+12\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date of issue of the permit/certificate.
+
+13\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 4 )
+
+O Pre-convention (4)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+14\. Use one of the following codes to indicate the purpose for which the specimens are to be (re-)exported/imported:
+
+B Breeding in captivity or artificial propagation
+
+E Educational. Where the transaction is for the purpose of use in educational and training programs or for display in an institution with a primarily educational remit
+
+G Botanical gardens
+
+H Hunting trophies
+
+L Law enforcement/judicial/forensic. Where the transaction is for the purpose of transfer of specimens between, or in support of, government agencies for law enforcement, judicial or forensic purposes
+
+M Medical (including bio-medical research). Where the transaction is for the purpose of medical or veterinary testing, diagnosis, treatment or research, including biomedical research
+
+N Reintroduction or introduction into the wild. Where the transaction is for the purpose of reinforcement and reintroduction within a species’ natural and historical range, and for conservation introductions, comprising assisted colonization and ecological replacement, outside the species’ natural and historical range
+
+P Personal
+
+Q Travelling exhibitions (sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public)
+
+S Scientific
+
+T Commercial
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+Z Zoos. Where the transaction is for the purpose of movement of a specimen to a zoo and/or aquarium or by a zoo and/or aquarium for public display, care, reproduction, public education and awareness, scientific research, rescue, rehabilitation, or conservation
+
+15 to 17. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated. Where this is a third country, boxes 16 and 17 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+18 to 20. The country of last re-export is, in the case of a re-export certificate, the re-exporting third country from which the specimens were imported before being re-exported from the Union. In the case of an import permit, it is the re-exporting third country from which the specimens are to be imported. Boxes 19 and 20 must contain details of the relevant re-export certificate.
+
+21\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+23 to 25. For official use only.
+
+26\. The importer/(re)exporter or his agent must, where appropriate, indicate the number of the bill of lading or air waybill.
+
+27\. To be completed by the customs office of introduction into the Union or that of (re-)export as appropriate. In the case of introduction, the original (form 1) must be returned to the management authority of the Member State concerned and the copy for the holder (form 2) to the importer In the case of (re-)export, the copy for return by customs to the issuing authority (form 3) must be returned to the management authority of the Member State concerned and the original (form 1) and the copy for the holder (form 2) to the (re-)exporter.
+
+[image]
+
+[image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the actual (re-)exporter, not of an agent. In the case of a personal ownership certificate or of a musical instrument certificate, the full name and address of the legal owner. In the case of a musical instrument certificate, if the applicant is different from the legal owner, the full name and address of both the owner and of the applicant should be included in the form and a copy of a loan agreement between owner and applicant should be provided to the relevant permit issuing authority.
+
+2\. Not applicable.
+
+3\. Full name and address of the actual importer, not of an agent. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+5\. To be left blank in the case of a personal ownership certificate or of a musical instrument certificate.
+
+6\. To be completed only on the application form in the case of live specimens of Annex A species other than captive bred or artificially propagated specimens.
+
+8\. Description must be as precise as possible and include a 3-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein. In the case of a musical instrument certificate, the description of the instrument should allow the competent authority to verify that the certificate corresponds to the specimen being imported or exported, and the description should include elements such as the manufacturer's name, the serial number or other means of identification such as photographs.
+
+9/10. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+11\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of application for the permit/certificate.
+
+12\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date of application.
+
+13\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 5 )
+
+O Pre-convention (5)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+14\. Use one of the following codes to indicate the purpose for which the specimens are to be (re-)exported/imported:
+
+B Breeding in captivity or artificial propagation
+
+E Educational. Where the transaction is for the purpose of use in educational and training programs or for display in an institution with a primarily educational remit
+
+G Botanical gardens
+
+H Hunting trophies
+
+L Law enforcement/judicial/forensic. Where the transaction is for the purpose of transfer of specimens between, or in support of, government agencies for law enforcement, judicial or forensic purposes
+
+M Medical (including bio-medical research). Where the transaction is for the purpose of medical or veterinary testing, diagnosis, treatment or research, including biomedical research
+
+N Reintroduction or introduction into the wild. Where the transaction is for the purpose of reinforcement and reintroduction within a species’ natural and historical range, and for conservation introductions, comprising assisted colonization and ecological replacement, outside the species’ natural and historical range
+
+P Personal
+
+Q Travelling exhibitions (sample collection, circus, menagerie, plant exhibition, orchestra or museums exhibition that is used for commercial display for the public)
+
+S Scientific
+
+T Commercial
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+Z Zoos. Where the transaction is for the purpose of movement of a specimen to a zoo and/or aquarium or by a zoo and/or aquarium for public display, care, reproduction, public education and awareness, scientific research, rescue, rehabilitation, or conservation
+
+15 to 17. The country of origin is the country where the specimens were taken form the wild, born and bred in captivity or artificially propagated. Where this is a third country, boxes 16 and 17 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+18 to 20. The country of last re-export is, in the case of a re-export certificate, the re-exporting third country from which the specimens were imported before being re-exported from the Union. In the case of an import permit, it is the re-exporting third country from which the specimens are to be imported. Boxes 19 and 20 must contain details of the relevant re-export certificate.
+
+21\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+23\. Provide as many details as possible and justify any omissions to the information required above.
+
+## ANNEX II
+
+[image]
+
+Instructions and explanations
+
+1\. Enter full name and address of importer or authorised representative.
+
+4\. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated.
+
+5\. Only applies where the country from which the specimens are imported is not the country of origin.
+
+6\. Description must be as precise as possible.
+
+9\. Use one of the following codes to indicate the source:
+
+<table>
+<tbody><tr><td>W</td><td>Specimens taken from the wild</td></tr>
+<tr><td>R</td><td>Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>D</td><td>Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof</td></tr>
+<tr><td>A</td><td>Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>C</td><td>Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof.</td></tr>
+<tr><td>F</td><td>Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof</td></tr>
+<tr><td>I</td><td>Confiscated or seized specimens (1)</td></tr>
+<tr><td>O</td><td>Pre-convention (1)</td></tr>
+<tr><td>U</td><td>Source unknown (must be justified)</td></tr>
+<tr><td>X</td><td>Specimens taken in the marine environment not under the jurisdiction of any State</td></tr>
+<tr><td>Y</td><td>Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production.</td></tr>
+<tr><td colspan="2">(1)  To be used only in conjunction with another source code. </td></tr>
+</tbody>
+</table>
+
+10\. The scientific name must be the name used in Annexes C or D to Regulation (EC) No 338/97.
+
+11\. Enter III for species listed in Appendix III to CITES.
+
+13\. Enter the letters (C or D) of the Annex to Regulation (EC) No 338/97 in which the species is listed.
+
+14\. The importer has to submit the signed original (form 1) and ‘copy for the importer’ (form 2), where appropriate together with CITES Appendix III documents from the (re-)exporting country to the customs office of introduction into the Union.
+
+15\. The customs office shall send the stamped original (form 1) to the management authority of his country and return the stamped ‘copy for the importer’ (form 2) to the importer or his authorised representative.
+
+[image]
+
+Instructions and explanations
+
+1\. Enter full name and address of importer or authorised representative.
+
+4\. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated.
+
+5\. Only applies where the country from which the specimens are imported is not the country of origin.
+
+6\. Description must be as precise as possible.
+
+9\. Use one of the following codes to indicate the source
+
+<table>
+<tbody><tr><td>W</td><td>Specimens taken from the wild</td></tr>
+<tr><td>R</td><td>Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>D</td><td>Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof</td></tr>
+<tr><td>A</td><td>Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>C</td><td>Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof</td></tr>
+<tr><td>F</td><td>Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof</td></tr>
+<tr><td>I</td><td>Confiscated or seized specimens (1)</td></tr>
+<tr><td>O</td><td>Pre-convention (1)</td></tr>
+<tr><td>U</td><td>Source unknown (must be justified)</td></tr>
+<tr><td>X</td><td>Specimens taken in the marine environment not under the jurisdiction of any State</td></tr>
+<tr><td>Y</td><td>Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production.</td></tr>
+<tr><td colspan="2">(1)  To be used only in conjunction with another source code. </td></tr>
+</tbody>
+</table>
+
+10\. The scientific name must be the name used in Annexes C or D to Regulation (EC) No 338/97.
+
+11\. Enter III for species listed in Appendix III to CITES.
+
+13\. Enter the letters (C or D) of the Annex to Regulation (EC) No 338/97 in which the species is listed.
+
+14\. The importer has to submit the signed original (form 1) and ‘copy for the importer’ (form 2), where appropriate together with CITES Appendix III documents from the (re-)exporting country to the customs office of introduction into the Union.
+
+15\. The customs office shall send the stamped original (form 1) to the management authority of his country and return the stamped ‘copy for the importer’ (form 2) to the importer or his authorised representative.
+
+## ANNEX III
+
+[image]
+
+**Instructions and explanations**
+
+1\. A unique number should be generated by the issuing management authority for the certificate.
+
+2\. The date of expiry of the document may not be more than three years after the date of issuance. Where the travelling exhibition originates from a third country the expiry date shall be no later than that indicated on the equivalent certificate from that country.
+
+3\. Complete the full name, permanent address and country of the owner of the specimen covered by the certificate. Absence of the signature of the owner renders the certificate invalid.
+
+4\. The name, address and country of the issuing management authority should already be pre-printed on the form.
+
+5\. This block has been pre-printed to indicate the validity of the certificate for multiple cross-border movements of the specimen with its exhibition for exhibition purposes only, allowing the specimens to be displayed to the public in accordance with Article 8(3) of Regulation (EC) No 338/97 and to clarify that the certificate is not to be collected but is to remain with the specimen/owner. This block also can be used to justify the omission of certain information.
+
+6\. This block has been pre-printed to indicate that cross-border movement is permitted to any country accepting this certificate as a matter of national law.
+
+7\. This block has been pre-printed with the code Q for circuses and travelling exhibitions.
+
+8\. Where appropriate, indicate the number of the security stamp affixed in block 19.
+
+9\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.
+
+10\. Describe, as precisely as possible, the specimen covered by the certificate, including identifying marks (tags, rings, unique markings, etc.) sufficient to permit the authorities of the country into which the exhibition enters to verify that the certificate corresponds to the specimen covered. The sex and age, at the time of the issuance of the certificate, should be recorded, where possible.
+
+11\. Indicate the total number of specimens. In the case of live animals it should normally be one. If more than one specimen, state ‘see attached inventory’.
+
+12\. Enter the number of the Appendix to the Convention (I, II or III) in which the species is listed at the time of issuance of the certificate.
+
+13\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the time of issuance of the certificate.
+
+14\. Use the codes below to indicate the source. This certificate may not be used for specimens with source code W, R, F or U unless they were acquired in, or were introduced into, the Union before the provisions relating to species listed in Appendices I, II or III to the Convention or Annex C to Regulation (EEC) No 3626/82 or Annexes A, B and C to Regulation (EC) No 338/97 became applicable to them and the code O is also used.
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+U Source unknown (must be justified)
+
+O Pre-Convention (may be used in conjunction with any other code).
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+15/16. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity or artificially propagated. Where this is a third country, box 16 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+17\. This block must contain the exhibition registration number.
+
+18\. Enter the date of acquisition only for specimens which were acquired in or were introduced into, the Union before the provisions relating to species listed in Appendices I, II or III to the Convention or Annex C to Regulation (EEC) No 3626/82 or Annexes A, B and C to Regulation (EC) No 338/97 applied to them.
+
+19\. To be completed by the official who issues the certificate. A certificate may only be issued by the management authority of the country where an exhibition is based and only when the owner of the exhibition has registered full details of the specimen with that management authority. In the case of an exhibition originating in a third country, a certificate may only be issued by the management authority of the country of first destination. The name of the issuing official must be written in full. The seal, signature and, where appropriate, security stamp number, should be clearly legible.
+
+20\. This block may be used to refer to national legislation or additional special conditions placed on the cross-border movement by the issuing management authority.
+
+21\. This block has been pre-printed to refer to the attached continuation sheet, which should indicate all cross-border movements.
+
+Subject to point 5, upon expiration, this document must be returned to the issuing management authority.
+
+The holder or his authorised representative shall surrender the original of this certificate (form 1) — and, where applicable, the travelling exhibition certificate issued by a third country — for verification purposes and submit the accompanying continuation sheet or (where the certificate is issued on the basis of an equivalent certificate from a third country) the two continuation sheets and copies thereof to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97. The customs office shall, after completing the continuation sheet or sheets, return the original of this certificate (form 1), the original certificate issued by a third country (where applicable) — and the continuation sheet or sheets — to the holder or to his authorised representative and forward an endorsed copy of the continuation sheet of the certificate issued by Member State’s management authority to the relevant management authority in accordance with Article 45 of Regulation (EC) No 865/2006.
+
+[image]
+
+[image]
+
+**Instructions and explanations**
+
+3\. Complete the full name, permanent address and country of the owner of the specimen covered by the certificate (not of an agent). Absence of the signature of the owner renders the certificate invalid.
+
+8\. Where appropriate, indicate the number of the security stamp affixed in block 19.
+
+9\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.
+
+10\. Describe, as precisely as possible, the specimen covered by the certificate, including identifying marks (tags, rings, unique markings, etc.) sufficient to permit the authorities of the country into which the exhibition enters to verify that the certificate corresponds to the specimen covered. The sex and age, at the time of the issuance of the certificate, should be recorded, where possible.
+
+11\. Indicate the total number of specimens. In the case of live animals it should normally be one. If more than one specimen, state ‘see attached inventory’.
+
+12\. Enter the number of the Appendix to the Convention (I, II or III) in which the species is listed at the time of application.
+
+13\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the time of application.
+
+14\. Use the codes below to indicate the source. This certificate may not be used for specimens with source code W, R, F or U unless they were acquired in, or were introduced into, the Union before the provisions relating to species listed in Appendices I, II or III to the Convention or Annex C to Regulation (EEC) No 3626/82 or Annexes A, B and C to Regulation (EC) No 338/97 became applicable to them and the code O is also used.
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+U Source unknown (must be justified)
+
+O Pre-Convention (may be used in conjunction with any other code).
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+15/16. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity, or artificially propagated. Where this is a third country (i.e. a non-EU country), box 16 must contain details of the relevant permit. Where specimens originating in a Member State of the Union are exported from another, only the name of the Member State of origin must be mentioned in box 15.
+
+17\. This block must contain the exhibition registration number.
+
+18\. Enter the date of acquisition only for specimens which were acquired in, or were introduced into, the Union before the provisions relating to species listed in Appendices I, II or III to the Convention or Annex C to Regulation (EEC) No 3626/82 or Annexes A, B and C to Regulation (EC) No 338/97 applied to them.
+
+19\. Provide as many details as possible and justify any omissions to the information required above.
+
+## ANNEX IV
+
+►(1) M1
+
+## ANNEX V
+
+[image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the holder of the certificate, not of an agent.
+
+2\. Only to be completed in case the import permit for the specimens concerned prescribes the location at which they are to be kept, or where specimens that were taken from the wild in a Member State shall be required to be kept at an authorised address.
+
+Any movement, except for urgent veterinary treatment and provided the specimens are returned directly to their authorised location, from the location indicated shall then be subject to prior authorisation from the competent management authority (see box 19).
+
+4\. Description must be as precise as possible and include a three-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.
+
+5/6. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+7\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of issue of the certificate.
+
+8\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date of issue of the certificate.
+
+9\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 6 )
+
+O Pre-convention (6)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+10 to 12. The country of origin is the country where the specimens were taken form the wild, born and bred in captivity, or artificially propagated.
+
+13 to 15. The Member State of import is, where applicable, the Member State having issued the import permit for the specimens concerned.
+
+16\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+[image] [image]
+
+**Instructions and explanations**
+
+1\. Full name and address of the applicant for the certificate, not of an agent.
+
+2\. To be completed only on the application form in the case of live specimens of Annex A species other than captive bred or artificially propagated specimens.
+
+4\. Description must be as precise as possible and include a three-letter code in accordance with Annex VII to Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein.
+
+5/6. Use the units of quantity and/or net mass in accordance with those contained in Annex VII to Regulation (EC) No 865/2006.
+
+7\. Enter the number of the CITES Appendix (I, II or III) in which the species is listed at the date of application.
+
+8\. Enter the letter of the Annex to Regulation (EC) No 338/97 (A, B or C) in which the species is listed at the date application.
+
+9\. Use one of the following codes to indicate the source:
+
+W Specimens taken from the wild
+
+R Specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood
+
+D Specimens of animal species listed in Appendix I to the Convention that are bred in captivity for commercial purposes in operations included in the register of operations that breed Appendix I animal species for commercial purposes, which is maintained by the Secretariat of the Convention, as well as parts and derivatives thereof, and specimens of plant species listed in Appendix I to the Convention that are artificially propagated for commercial purposes in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+A Plants artificially propagated in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+C Animals bred in captivity in accordance with Chapter XIII of Regulation (EC) No 865/2006, as well as parts and derivatives thereof
+
+F Animals born in captivity, but for which the criteria of Chapter XIII of Regulation (EC) No 865/2006 are not met, as well as parts and derivatives thereof
+
+I Confiscated or seized specimens ( 7 )
+
+O Pre-convention (7)
+
+U Source unknown (must be justified)
+
+X Specimens taken in the marine environment not under the jurisdiction of any State
+
+Y Plant specimens obtained from assisted production, which are considered not to be ‘artificially propagated’ as set out in Article 56 of Regulation (EC) No 865/2006, and also not considered to be taken from the wild because they are propagated or planted in an environment with some level of human intervention for the purpose of plant production
+
+10 to 12. The country of origin is the country where the specimens were taken from the wild, born and bred in captivity, or artificially propagated.
+
+13 to 15. The Member State of import is, where applicable, the Member State having issued the import permit for the specimens concerned.
+
+16\. The scientific name must be in accordance with the standard references for nomenclature referred to in Annex VIII to Regulation (EC) No 865/2006.
+
+18\. Provide as many details as possible and justify any omissions to the information required above.
+
+## ANNEX VI
+
+( 1 ) To be used only in conjunction with another source code.
+
+( 2 ) Commission Regulation (EC) No 865/2006 of 4 May 2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein (OJ L 166, 19.6.2006, p. 1).
+
+( 3 ) To be used only in conjunction with another source code.
+
+( 4 ) To be used only in conjunction with another source code.
+
+( 5 ) To be used only in conjunction with another source code.
+
+( 6 ) To be used only in conjunction with another source code.
+
+( 7 ) To be used only in conjunction with another source code.

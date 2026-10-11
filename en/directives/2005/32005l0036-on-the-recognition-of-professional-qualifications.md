@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/100/EC of 20 November 2006 </td><td> L 363</td><td>141</td><td>20.12.2006</td></tr>
@@ -46,6 +47,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2024/782 of 4 March 2024 </td><td> L 782</td><td>1</td><td>31.5.2024</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/1223 of 10 April 2025 </td><td> L 1223</td><td>1</td><td>20.6.2025</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DECISION (EU) 2025/2187 of 30 July 2025 </td><td> L 2187</td><td>1</td><td>29.10.2025</td></tr>
+</table>
 
 |  | ACT concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community | L 112 | 21 | 24.4.2012 |
 | --- | --- | --- | --- | --- |
@@ -1696,6 +1698,7 @@ This Directive is addressed to the Member States.
 
 NICE nomenclature (corresponding to ISIC major groups 23 to 40)
 
+<table>
 <tbody><tr><td rowspan="9">Major group</td><td>23</td><td>Manufacture of textiles</td></tr>
 <tr><td>232</td><td>Manufacturing and processing of textile materials on woollen machinery</td></tr>
 <tr><td>233</td><td>Manufacturing and processing of textile materials on cotton machinery</td></tr>
@@ -1796,6 +1799,7 @@ NICE nomenclature (corresponding to ISIC major groups 23 to 40)
 <tr><td>403</td><td>Installation work</td></tr>
 <tr><td>404</td><td>Decorating and finishing</td></tr>
 </tbody>
+</table>
 
 **2 Directive 68/366/EEC**
 
@@ -1803,6 +1807,7 @@ NICE nomenclature (corresponding to ISIC major groups 23 to 40)
 
 NICE nomenclature
 
+<table>
 <tbody><tr><td rowspan="11">Major group</td><td>20A</td><td>200 Industries producing animal and vegetable fats and oils</td></tr>
 <tr><td>20B</td><td>Food manufacturing industries (excluding the beverage industry)</td></tr>
 <tr><td>201</td><td>Slaughtering, preparation and preserving of meat</td></tr>
@@ -1822,6 +1827,7 @@ NICE nomenclature
 <tr><td>ex 30</td><td>Manufacture of rubber products, plastic materials, artificial and synthetic fibres and starch products</td></tr>
 <tr><td>304</td><td>Manufacture of starch products</td></tr>
 </tbody>
+</table>
 
 **3 Directive 82/489/EEC**
 
@@ -2073,6 +2079,7 @@ These activities comprise in particular:
 
 **5.1.1. Evidence of formal qualifications in basic medical training**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the qualifications</td><td>Certificate accompanying the qualifications</td><td>Reference date</td></tr>
 <tr><td>België / Belgique/Belgien</td><td>Diploma van arts/ Diplôme de docteur en médecine Diplôme de ‘médecin’ / Master in de geneeskunde </td><td>— Les universités / De universiteiten — Le Jury compétent d’enseignement de la Communauté française / De bevoegde Examencommissie van de Vlaamse Gemeenschap </td><td>  </td><td>20.12.1976</td></tr>
 <tr><td>България</td><td>Диплома за висше образование на образователно-квалификационна степен «магистър» по «Медицина» и професионална квалификация «Магистър-лекар»</td><td>Университет</td><td>  </td><td>1.1.2007</td></tr>
@@ -2111,9 +2118,11 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Primary qualification (10)</td><td>Competent examining body</td><td>Certificate of experience</td><td>20.12.1976</td></tr>
 <tr><td colspan="5">(1)  As from September 2013.  (2)  As from September 2013.  (3)  As from October 2014.  (4)  Until 2012.  (5)  As of 2013.  (6)  As of 2011.  (7)  As from 2003/2004 until 2013/2014.  (8)  As from 2001/2002.  (9)  Until 2.4.2020.  (10)  Issued before 1.1.2021. </td></tr>
 </tbody>
+</table>
 
 **5.1.2. Evidence of formal qualifications of specialised doctors**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the qualifications</td><td>Reference date</td></tr>
 <tr><td>België/ Belgique/ Belgie</td><td>Bijzondere beroepstitel van geneesheer-specialist / Titre professionnel particulier de médecin spécialiste</td><td>Minister bevoegd voor Volksgezondheid / Ministre de la Santé publique (9) Departement Zorg van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin / Ministre de la Communauté française compétent pour l'agrément des professionnels de soins de santé (10) </td><td>20.12.1976</td></tr>
 <tr><td>България</td><td>Свидетелство за призната специалност</td><td>Университет</td><td>1.1.2007</td></tr>
@@ -2153,9 +2162,11 @@ These activities comprise in particular:
 <tr><td>General Medical Council</td><td>1.4.2010</td></tr>
 <tr><td colspan="4">(1)  As of January 2013.  (2)  Issued before 1.1.2021.  (3)  As of 15.09.2021.  (4)  As of 1.01.2022.  (5)  Until 31.12.2012.  (6)  Until 31.12.2008.  (7)  Until 31.1.2015.  (8)  As of 1.02.2015.  (9)  Until 2014,  (10)  As of 2014. </td></tr>
 </tbody>
+</table>
 
 **5.1.3. Titles of training courses in specialised medicine**
 
+<table>
 <tbody><tr><td>  </td><td>Anaesthetics</td><td>General surgery</td></tr>
 <tr><td>  </td><td>Minimum period of training: 3 years</td><td>Minimum period of training: 5 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2189,7 +2200,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Anaesthetics (5)</td><td>General surgery (5)</td></tr>
 <tr><td colspan="3">(1)  As of June 2015.  (2)  As of February 2015.  (3)  Until 2018.  (4)  As of 2019.  (5)  Issued before 1.1.2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Neurological surgery</td><td>Obstetrics and Gynaecology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2223,7 +2236,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Neurosurgery (1)</td><td>Obstetrics and gynaecology (1)</td></tr>
 <tr><td colspan="3">(1)  Issued before 1.1.2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>General (internal) medicine</td><td>Ophthalmology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 3 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2257,7 +2272,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>General (internal) medicine (2)</td><td>Ophthalmology (2)</td></tr>
 <tr><td colspan="3">(1)  As of 1991/1992.  (2)  Issued before 1.1.2021.  (3)  As of 2017/2018.  (4)  Until 2018.  (5)  As of 2018. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Otorhinolaryngology</td><td>Paediatrics</td></tr>
 <tr><td>  </td><td>Minimum period of training: 3 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2291,7 +2308,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Otolaryngology (3)</td><td>Paediatrics (3)</td></tr>
 <tr><td colspan="3">(1)  As of June 2015.  (2)  As of 19.01.2018.  (3)  Issued before 1.1.2021.  (4)  Until 30.6.2017.  (5)  As of 1.7.2017.  (6)  Until 31.1.2014.  (7)  As of 1.2.2014. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Respiratory medicine</td><td>Urology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 5 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2325,7 +2344,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Respiratory medicine (3)</td><td>Urology (3)</td></tr>
 <tr><td colspan="3">(1)  As of July 2011.  (2)  As of June 2015.  (3)  Issued before 1.1.2021.  (4)  As of 2017/2018. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Orthopaedics</td><td>Pathological anatomy</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2359,7 +2380,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Trauma and orthopaedic surgery (4)</td><td>Histopathology (4)</td></tr>
 <tr><td colspan="3">(1)  As of May 2006.  (2)  As of June 2015.  (3)  As of 3.11.2015.  (4)  Issued before 1.1.2021.  (5)  Until 1.10.2013,  (6)  As of 2.10.2013. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Neurology</td><td>Psychiatry</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2393,7 +2416,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Neurology (1)</td><td>General psychiatry (1)</td></tr>
 <tr><td colspan="3">(1)  Issued before 1.1.2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Diagnostic radiology</td><td>Radiotherapy</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2427,7 +2452,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Clinical radiology (3)</td><td>Clinical oncology (3)</td></tr>
 <tr><td colspan="3">(1)  As of September 2008.  (2)  As of May 2015.  (3)  Issued before 1.1.2021.  (4)  As of 2017/2018. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Plastic surgery</td><td>Clinical biology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training : 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2461,7 +2488,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Plastic surgery (7)</td><td>  </td></tr>
 <tr><td colspan="3">(1)  As of 2006.  (2)  As of 2012.  (3)  As of June 2015.  (4)  As of June 2015.  (5)  Date of repeal within the meaning of Article 27(3): 30.12.1994.  (6)  As from 2012.  (7)  Issued before 1.1.2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Microbiology-bacteriology</td><td>Biological chemistry</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2495,7 +2524,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Medical microbiology and virology (8)(10)</td><td>Chemical pathology (10)</td></tr>
 <tr><td colspan="3">(1)  Until 2012.  (2)  Date of repeal within the meaning of Article 27(3): 4.4.2000.  (3)  As of May 2006.  (4)  As of June 2015.  (5)  Date of repeal within the meaning of Article 27(3): 3.6.2015.  (6)  Date of repeal within the meaning of Article 27(3): 30.12.1994.  (7)  As of May 2015.  (8)  Until 11.10.2018.  (9)  As of 3.6.2015.  (10)  Issued before 1.1.2021.  (11)  As of 2020/2021.  (12)  As of 2020/2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Immunology</td><td>Thoracic surgery</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 5 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2529,7 +2560,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Immunology (5)</td><td>Cardo-thoracic surgery (5)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 1.1.1983.  (2)  As of June 2015.  (3)  Date of repeal within the meaning of Article 27(3): 14.6.2017.  (4)  As of September 2011.  (5)  Issued before 1.1.2021.  (6)  As of 2017/2018.  (7)  As of 2010.  (8)  Until 2024.  (9)  As of 2024. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Paediatric surgery</td><td>Vascular surgery</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 5 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2563,7 +2596,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Paediatric surgery (3)</td><td>Vascular surgery (3)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 1.1.1983.  (2)  As of June 2017.  (3)  Issued before 1.1.2021.  (4)  As of 2017/2018. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Cardiology</td><td>Gastroenterology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2597,7 +2632,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Cardiology (3)</td><td>Gastroenterology (3)</td></tr>
 <tr><td colspan="3">(1)  As of October 2009.  (2)  As of June 2015.  (3)  Issued before 1.1.2021.  (4)  As of 2017/2018.  (5)  Until 20.04.2017.  (6)  As of 21.04.2017. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Rheumatology</td><td>General Haematology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 3 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2631,7 +2668,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Rheumatology (3)</td><td>Haematology (3)</td></tr>
 <tr><td colspan="3">(1)  As of October 2009.  (2)  As from 2017.  (3)  Issued before 1.1.2021.  (4)  As of 2020/2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Endocrinology</td><td>Physiotherapy</td></tr>
 <tr><td>  </td><td>Minimum period of training: 3 years</td><td>Minimum period of training: 3 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2665,7 +2704,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Endocrinology and diabetes mellitus (7)</td><td>  </td></tr>
 <tr><td colspan="3">(1)  As of October 2009.  (2)  As of February 2015.  (3)  As of September 2008.  (4)  As from 2012.  (5)  As from 2016.  (6)  As of 2011.  (7)  Issued before 1.1.2021.  (8)  As of 2017.  (9)  As of 2017-2018.  (10)  Until 1.10.2013.  (11)  As of 2.10.2013. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Neuropsychiatry</td><td>Dermato-venereology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 3 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2699,7 +2740,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>  </td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 1.8.1987 except for persons having commenced training prior to that date.  (2)  Date of repeal within the meaning of Article 27(3): 31.12.1971.  (3)  Date of repeal within the meaning of Article 27(3): 31.10.1999.  (4)  Evidence of qualifications is no longer awarded for training commenced after 5.3.1982.  (5)  Date of repeal within the meaning of Article 27(3): 9.7.1984.  (6)  Date of repeal within the meaning of Article 27(3): 31.3.2004. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Radiology</td><td>Child psychiatry</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2733,7 +2776,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>Child and adolescent psychiatry (9)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 1.2.1984.  (2)  Date of repeal within the meaning of Article 27(3): 3.12.1971.  (3)  Date of repeal within the meaning of Article 27(3): 31.10.1993.  (4)  Evidence of qualifications is no longer awarded for training commenced after 5.3.1982.  (5)  Date of repeal within the meaning of Article 27(3): 8.7.1984.  (6)  Date of repeal within the meaning of Article 27(3): 31.3.2004.  (7)  Date of repeal within the meaning of Article 27(3): 1.1.1991.  (8)  As of June 2015.  (9)  Issued before 1.1.2021.  (10)  As of 2022-2023. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Geriatrics</td><td>Renal diseases</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2767,7 +2812,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Geriatric medicine (5)</td><td>Renal medicine (5)</td></tr>
 <tr><td colspan="3">(1)  As of October 2009.  (2)  As of May 2015.  (3)  As of 2017.  (4)  As of 2005.  (5)  Issued before 1.1.2021.  (6)  As of 2010/2011. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Communicable diseases</td><td>Community medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2802,7 +2849,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Infectious diseases (5)</td><td>Public health medicine (5)</td></tr>
 <tr><td colspan="3">(1)  As of June 2015.  (2)  As of February 2015.  (3)  Date of repeal within the meaning of Article 27(3): 8.12.2016.  (4)  As of 2017.  (5)  Issued before 1.1.2021.  (6)  As of 2017/2018.  (7)  As of 2020/2021. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Pharmacology</td><td>Occupational medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2836,7 +2885,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Clinical pharmacology and therapeutics (6)</td><td>Occupational medicine (6)</td></tr>
 <tr><td colspan="3">(1)  As of June 2015.  (2)  As of February 2015.  (3)  As of September 2008.  (4)  As of July 2017.  (5)  As of May 2009.  (6)  Issued before 1.1.2021.  (7)  Until 20.04.2017.  (8)  As of 21.04.2017.  (9)  As of 2016-2017.  (10)  As of 2023. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Allergology</td><td>Nuclear medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 3 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2870,7 +2921,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>Nuclear medicine (5)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 12.8.1996.  (2)  As of September 2008.  (3)  As of 2018.  (4)  As of 2017.  (5)  Issued before 1.1.2021.  (6)  Until 2008.  (7)  As of 2008. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Maxillo-facial surgery (basic medical training)</td><td>Biological haematology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2904,7 +2957,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>  </td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 30.9.2007.  (2)  Date of repeal within the meaning of Article 27(3): 28.2.2013.  (3)  As of 2017-2018. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Stomatology</td><td>Dermatology</td></tr>
 <tr><td>  </td><td>Minimum period of training: 3 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2938,7 +2993,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>Dermatology (2)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 31.12.1994.  (2)  Issued before 1.1.2021.  (3)  Until 21.2.2008. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Venerology</td><td>Tropical medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -2972,7 +3029,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Genito-urinary medicine (3)</td><td>Tropical medicine (3)</td></tr>
 <tr><td colspan="3">(1)  As of June 2015.  (2)  As of 3.6.2020.  (3)  Issued before 1.1.2021.  (4)  As of 2024. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Gastroenterological surgery</td><td>Accident and emergency medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 5 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -3006,7 +3065,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>Emergency medicine (8)</td></tr>
 <tr><td colspan="3">(1)  Date of repeal within the meaning of Article 27(3): 1.1.1983.  (2)  As of 17.2.2006.  (3)  Date of repeal within the meaning of Article 27(3): 3.6.2015.  (4)  As of 11.09.2015.  (5)  As of February 2018.  (6)  As of September 2016.  (7)  Until 14.9.2010.  (8)  Issued before 1.1.2021.  (9)  As of 2009/2010.  (10)  As of 2013/2014. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Clinical neurophysiology</td><td>Dental, oral and maxillo-facial surgery (basic medical and dental training) (1)</td></tr>
 <tr><td>  </td><td>Minimum period of training: 4 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -3040,7 +3101,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Clinical neurophysiology (6)</td><td>Oral and maxillo-facial surgery (6)</td></tr>
 <tr><td colspan="3">(1)  Training leading to the award of evidence of formal qualifications as a specialist in dental, oral and maxillo-facial surgery (basic medical and dental training) assumes completion and validation of basic medical studies (Article 24) and, in addition, completion and validation of basic dental studies (Article 34).  (2)  As of 2006.  (3)  As of 10.7.2014.  (4)  As of 2009.  (5)  As of 2020/2021.  (6)  Issued before 1.1.2021.  (7)  As of 2016/2017. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Medical oncology</td><td>Medical genetics</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -3074,7 +3137,9 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Medical oncology (2)</td><td>Clinical genetics (2)</td></tr>
 <tr><td colspan="3">(1)  As of 2017.  (2)  Issued before 1.1.2021.  (3)  As of 2017/2018.  (4)  As of 2022/2023. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>  </td><td>Cardiac surgery</td><td>Sports medicine</td></tr>
 <tr><td>  </td><td>Minimum period of training: 5 years</td><td>Minimum period of training: 4 years</td></tr>
 <tr><td>Country</td><td>Title</td><td>Title</td></tr>
@@ -3108,9 +3173,11 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>  </td><td>  </td></tr>
 <tr><td colspan="3">(1)  As of 2014/2015.  (2)  As of 2015/2016.  (3)  As of 2007/2008.  (4)  As of 01.09.2016.  (5)  As of 13.07.2017.  (6)  As of 01.01.2023.  (7)  As of 31.05.2011.  (8)  As of 2009.  (9)  As of 2010.  (10)  As of 2024. </td></tr>
 </tbody>
+</table>
 
 **5.1.4. Evidence of formal qualifications of general practitioners**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Professional title</td><td>Reference date</td></tr>
 <tr><td>België/Belgique/ Belgien </td><td>Bijzondere beroepstitel van huisarts / Titre professionnel particulier de médecin généraliste</td><td>Huisarts / Médecin généraliste</td><td>31.12.1994</td></tr>
 <tr><td>България</td><td>Свидетелство за призната специалност по Обща медицина</td><td>Лекар-специалист по Обща медицина</td><td>1.1.2007</td></tr>
@@ -3144,6 +3211,7 @@ These activities comprise in particular:
 <tr><td>United Kingdom</td><td>Certificate of completion of training (1)</td><td>General practitioner</td><td>31.12.1994</td></tr>
 <tr><td colspan="4">(1)  Issued before 1.1.2021.  (2)  Until 31.12.2012.  (3)  As of 2020/2021. </td></tr>
 </tbody>
+</table>
 
 **V.2. NURSE RESPONSIBLE FOR GENERAL CARE**
 
@@ -3241,6 +3309,7 @@ Theoretical instruction must be weighted and coordinated with clinical instructi
 
 **5.2.2. Evidence of formal qualifications of nurses responsible for general care**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Professional title</td><td>Reference date</td></tr>
 <tr><td>België/Belgique/Belgien</td><td>— Diploma gegradueerde verpleger/verpleegster / Diplôme d’infirmier(ère) gradué(e) / Diplom eines (einer) graduierten Krankenpflegers (-pflegerin)</td><td>— De erkende opleidingsinstituten / Les établissements d’enseignement reconnus / Die anerkannten Ausbildungsanstalten</td><td>— Hospitalier(ère) / Verpleegassistent(e)</td><td>29.6.1979</td></tr>
 <tr><td>  </td><td>— Diploma in de ziekenhuisverpleegkunde / Brevet d’infirmier(ère) hospitalier(ère) / Brevet eines (einer) Krankenpflegers (-pflegerin)</td><td>— De bevoegde Examencommissie van de Vlaamse Gemeenschap / Le Jury compétent d’enseignement de la Communauté française / Der zuständige Prüfungsausschuß der Deutschsprachigen Gemeinschaft</td><td>— Infirmier(ère) hospitalier(ère) / Ziekenhuisverpleger(-verpleegster)</td><td>  </td></tr>
@@ -3323,6 +3392,7 @@ Theoretical instruction must be weighted and coordinated with clinical instructi
 <tr><td>United Kingdom</td><td>A qualification approved by the Nursing and Midwifery Council or one of its predecessor bodies as attesting to the completion of training required for general nurses by Article 31 and the standard of proficiency as required for registration as a Registered Nurse – Adult in its register (3)(10)</td><td>Education institutions approved by the Nursing and Midwifery Council or one of its predecessor bodies</td><td>Registered Nurse – Adult</td><td>29.6.1979</td></tr>
 <tr><td colspan="5">(1)  This evidence of formal qualification entitles the holder to automatic recognition when it is issued to the nationals of Member States who obtained qualification in Ireland.  (2)  This information on the evidence of qualifications was included to ensure that graduates trained in Ireland would be entitled to automatic recognition without the need for actual registration in Ireland, such registration not being part of the qualification process.  (3)  This information on the evidence of qualifications replaces previous entries for the UK in order to ensure that graduates trained in the United Kingdom would be entitled to automatic recognition of their qualification without the need for actual registration, such registration not being part of the qualification process.  (4)  Valid until 2001.  (5)  As of 2001/2002.  (6)  As of 2018/2019.  (7)  Until 14.9.2012.  (8)  As of 15.9.2012.  (9)  Until 31.12.2018.  (10)  Issued before 1.1.2021.  (11)  As of 01.01.2020.  (12)  Until 01.04.2024. </td></tr>
 </tbody>
+</table>
 
 **V.3. DENTAL PRACTITIONER**
 
@@ -3422,6 +3492,7 @@ The programme of studies leading to evidence of formal qualifications in dentist
 
 **5.3.2. Evidence of basic formal qualifications of dental practitioners**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Certificate accompanying the evidence of qualifications</td><td>Professional title</td><td>Reference date</td></tr>
 <tr><td>België/ Belgique/ Belgien</td><td>Diploma van tandarts / Diplôme licencié en science dentaire</td><td>— De universiteiten / Les universités — De bevoegde Examencommissie van de Vlaamse Gemeenschap / Le Jury compétent d’enseignement de la Communauté française </td><td>  </td><td>Licentiaat in de tandheelkunde/ Licencié en science dentaire</td><td>28.1.1980</td></tr>
 <tr><td>България</td><td>Диплома за висше образование на образователно-квалификационна степен «Магистър» по «Дентална медицина» с професионална квалификация «Магистър-лекар по дентална медицина»</td><td>Университет</td><td>  </td><td>Лекар по дентална медицина</td><td>1.1.2007</td></tr>
@@ -3466,9 +3537,11 @@ The programme of studies leading to evidence of formal qualifications in dentist
 <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>— Dental surgeon</td><td>  </td></tr>
 <tr><td colspan="6">(1)  Until 2012.  (2)  As of 2013.  (3)  The evidence of formal qualifications should also be accompanied by a certificate of completion of the post-graduate internship (‘staż podyplomowy’) except for persons who did not start the internship before 2.10.2016 and applied between 2.10.2016 and 28.2.2017 for the right to pursue the profession of dentist.  (4)  As of 1.10.2011.  (5)  As of 1.9.2017.  (6)  As of 2002/2003.  (7)  Issued before 1.1.2021.  (8)  Until 31.12.2012.  (9)  As of 1.1.2013.  (10)  The accompanying certificate is required for training that started before 1.8.2011 and was completed in accordance with the syllabus in force before that date. </td></tr>
 </tbody>
+</table>
 
 **5.3.3. Evidence of formal qualifications of specialised dentists Oral surgery**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Reference date</td></tr>
 <tr><td>België/ Belgique/ Belgien</td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>България</td><td>Свидетелство за призната специалност по «Орална хирургия»</td><td>Факултет по дентална медицина към Медицински университет</td><td>1.1.2007</td></tr>
@@ -3503,9 +3576,11 @@ The programme of studies leading to evidence of formal qualifications in dentist
 <tr><td>United Kingdom</td><td>Certificate of completion of specialist training in oral surgery (3)</td><td>Competent authority recognised for this purpose</td><td>28.1.1980</td></tr>
 <tr><td colspan="4">(1)  Until 31.12.2020.  (2)  As of 1.1.2021.  (3)  Issued before 1.1.2021.  (4)  Until 31.01.2015.  (5)  As of 01.02.2015.  (6)  As of 19.6.2019 and until 8.2.2024.  (7)  As of 9.02.2024.  (8)  As of 19.6.2019. </td></tr>
 </tbody>
+</table>
 
 **Orthodontics**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Reference date</td></tr>
 <tr><td>België/ Belgique/ Belgien</td><td>Titre professionnel particulier de dentiste spécialiste en orthodontie/ Bijzondere beroepstitel van tandarts specialist in de orthodontie</td><td>Ministre de la Santé publique/ Minister bevoegd voor Volksgezondheid</td><td>27.1.2005</td></tr>
 <tr><td>България</td><td>Свидетелство за призната специалност по «Ортодонтия»</td><td>Факултет по дентална медицина към Медицински университет</td><td>1.1.2007</td></tr>
@@ -3539,6 +3614,7 @@ The programme of studies leading to evidence of formal qualifications in dentist
 <tr><td>United Kingdom</td><td>Certificate of Completion of specialist training in orthodontics (3)</td><td>Competent authority recognised for this purpose</td><td>28.1.1980</td></tr>
 <tr><td colspan="4">(1)  Until 31.12.2020.  (2)  As of 1.1.2021.  (3)  Issued before 1.1.2021.  (4)  Until 31.12.2012.  (5)  As of 01.01.2013.  (6)  Until 31.01.2015.  (7)  As of 01.02.2015. </td></tr>
 </tbody>
+</table>
 
 **V.4. VETERINARY SURGEON**
 
@@ -3640,6 +3716,7 @@ The distribution of the theoretical and practical training among the various gro
 
 **5.4.2. Evidence of formal qualifications of veterinary surgeons**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Certificate accompanying the evidence of qualifications</td><td>Reference date</td></tr>
 <tr><td>België/ Belgique/ Belgien</td><td>— Diploma van dierenarts / Diplôme de docteur en médecine vétérinaire — Médecin vétérinaire (10) </td><td>— De universiteiten/ Les universités — De bevoegde Examencommissie van de Vlaamse Gemeenschap / Le Jury compétent d’enseignement de la Communauté française </td><td>  </td><td>21.12.1980</td></tr>
 <tr><td>България</td><td>Диплома за висше образование на образователно-квалификационна</td><td>— Лесотехнически университет София Факултет Ветеринарна медицина</td><td>  </td><td>1.1.2007</td></tr>
@@ -3688,6 +3765,7 @@ The distribution of the theoretical and practical training among the various gro
 <tr><td>7. Bachelor of Veterinary Medicine and Bachelor of Veterinary Surgery (B.V.M., B.V.S.) (9)</td><td>7. University of Nottingham</td></tr>
 <tr><td colspan="5">(1)  Valid until 22.11.2006.  (2)  As of 23.11.2006.  (3)  Valid until 10.4.2008.  (4)  As of 11.4.2008.  (5)  As of 10.1.2011.  (6)  As of 1.10.2011.  (7)  Valid between 1.10.2012 and 23.04.2024.  (8)  As of 31.12.2012.  (9)  Issued before 1.1.2021.  (10)  As of 2023/2024.  (11)  As of 2018/2019.  (12)  As of 24.10.2022.  (13)  As of 11.06.2024.  (14)  As of 01.10.2019.  (15)  As of 2017/2018.  (16)  Université de Rouen and École vétérinaire UniLaSalle de Rouen - Institut polytechnique UniLaSalle: As of 2022/2023. </td></tr>
 </tbody>
+</table>
 
 **V.5. MIDWIFE**
 
@@ -3781,6 +3859,7 @@ Clinical instruction shall take the form of supervised in-service training in ho
 
 **5.5.2. Evidence of formal qualifications of midwives**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Professional title</td><td>Reference date</td></tr>
 <tr><td rowspan="2">België/ Belgique/ Belgien</td><td>Diploma van vroedvrouw/Diplôme d’accoucheuse</td><td>— De erkende opleidingsinstituten/Les établissements d’enseignement</td><td>Vroedvrouw/ Accoucheuse </td><td rowspan="2">23.1.1983</td></tr>
 <tr><td>Bachelier sage-femme (10)</td><td>— De bevoegde Examencommissie van de Vlaamse Gemeenschap/Le Jury compétent d’enseignement de la Communauté française</td><td>Sage-femme (10)</td></tr>
@@ -3846,6 +3925,7 @@ Clinical instruction shall take the form of supervised in-service training in ho
 <tr><td>United Kingdom</td><td>A qualification approved by the Nursing and Midwifery Council or its predecessor bodies as attesting to the completion of training as required for midwives by Article 40 and the standard of proficiency as required for registration as a Registered Midwife in its register (3)(8)</td><td>Education institution approved by the Nursing and Midwifery Council or its predecessor bodies</td><td>Registered Midwife</td><td>23.1.1983</td></tr>
 <tr><td colspan="5">(1)  This evidence of formal qualification entitles the holder to automatic recognition when it is issued to the nationals of Member States who obtained qualification in Ireland.  (2)  This information on the evidence of qualifications was included to ensure that graduates trained in Ireland would be entitled to automatic recognition without the need for actual registration in Ireland, such registration not being part of the qualification process.  (3)  This information on the evidence of qualifications was included to ensure that graduates trained in the United Kingdom would be entitled to automatic recognition of their qualification without the need for actual registration, such registration not being part of the qualification process.  (4)  Valid until 2001.  (5)  As of 2001/2002.  (6)  Until 14.9.2012.  (7)  As of 15.9.2012.  (8)  Issued before 1.1.2021.  (9)  As of 01.09.2016.  (10)  As of 14.09.2016.  (11)  As of 01.01.2022.  (12)  As of 01.09.2008.  (13)  As of 01.09.2005.  (14)  As of 01.01.2020. </td></tr>
 </tbody>
+</table>
 
 **V.6. PHARMACIST**
 
@@ -3901,6 +3981,7 @@ The balance between theoretical and practical training shall, in respect of each
 
 **5.6.2. Evidence of formal qualifications of pharmacists**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Certificate accompanying the evidence of qualifications</td><td>Reference date</td></tr>
 <tr><td rowspan="2">België/ Belgique/ Belgien</td><td>Diploma van apotheker / Diplôme de pharmacien</td><td>— De universiteiten/Les universities</td><td rowspan="2">  </td><td rowspan="2">1.10.1987</td></tr>
 <tr><td>Master en sciences pharmaceutiques (8)</td><td>— De bevoegde Examencommissie van de Vlaamse Gemeenschap/Le Jury compétent d’enseignement de la Communauté française</td></tr>
@@ -3945,11 +4026,13 @@ The balance between theoretical and practical training shall, in respect of each
 <tr><td>  </td><td>2. A degree in pharmacy approved by either the General Pharmaceutical Council (formerly Royal Pharmaceutical Society of Great Britain) or the Pharmaceutical Society of Northern Ireland (4)(7)</td><td>Universities delivering pharmacy degrees approved by the General Pharmaceutical Council (formerly Royal Pharmaceutical Society of Great Britain) or the Pharmaceutical Society of Northern Ireland</td><td>Notification from the General Pharmaceutical Council or Pharmaceutical Society of Northern Ireland confirming successful completion of the approved pharmacy degree, 12 months practical training and a pass of the registration assessment.</td><td>  </td></tr>
 <tr><td colspan="5">(1)  This evidence of formal qualification entitles the holder to automatic recognition when it is issued to the nationals of Member States who obtained qualification in Ireland.  (2)  This information on the evidence of qualifications was included to ensure that graduates trained in Ireland would be entitled to automatic recognition without the need for actual registration in Ireland. In such cases, the accompanying certificate testifies the completion of all qualifications requirements.  (3)  This evidence of formal qualification entitles the holder to automatic recognition of their qualification when it is issued to the nationals of Member States who obtained qualification in the United Kingdom.  (4)  This information on the evidence of qualifications was included to ensure that graduates trained in the United Kingdom would be entitled to automatic recognition of their qualification without the need for actual registration. In such cases, the accompanying certificate testifies the completion of all qualifications requirements.  (5)  As of 10.1.2011.  (6)  As of 1.9.2002.  (7)  Issued before 1.1.2021.  (8)  As of 2023/2024.  (9)  As of 2017/2018.  (10)  As of 2022/2023. </td></tr>
 </tbody>
+</table>
 
 **V.7. ARCHITECT**
 
 **5.7.1. Evidence of formal qualifications of architects recognised pursuant to Article 46**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Body awarding the evidence of qualifications</td><td>Certificate accompanying the evidence of qualifications</td><td>Reference academic year</td></tr>
 <tr><td>België/ Belgique/ Belgien</td><td>1. Architect / Architecte</td><td>— Nationale hogescholen voor architectuur / Ecoles nationales supérieures d’architecture</td><td>Certificat de stage délivré par l’Ordre des Architectes/Stagegetuigschrift afgeleverd door de Orde van Architecten</td><td>1988/1989</td></tr>
 <tr><td>  </td><td>  </td><td>— Hogere architectuurinstituten / Instituts supérieurs d’architecture (until 2007/2008)</td><td>  </td><td>  </td></tr>
@@ -4546,11 +4629,13 @@ The balance between theoretical and practical training shall, in respect of each
 <tr><td>  </td><td>36. MArch Sustainable Architecture (14)</td><td>36. The University of East London (qualification offered by the Centre for Alternative Technology)</td><td>  </td><td>2017/2018</td></tr>
 <tr><td colspan="5">(1)  The two denominations ‘Università degli studi di (name of the town)’ and ‘Università di (name of the town)’ are equivalent terms that identify the same University.  (2)  As of October 2016 denomination changed into ‘Università degli Studi della Campania ‘Luigi Vanvitelli’’.  (3)  Until 2008/2009.  (4)  Until 2003/2004.  (5)  Until 2003/2004.  (6)  Until 2004/2005.  (7)  Until 2008/2009.  (8)  Until 2004/2005.  (9)  Until 2008/2009.  (10)  Until 2009/2010.  (11)  Until 2009/2010.  (12)  Until 2009/2010.  (13)  Until 2009/2010.  (14)  Issued before 1.1.2021.  (15)  The evidence of formal qualifications with the denomination ‘Diploma de licență’ was only issued for the promotion of 2017.  (16)  Until 28.02.2022.  (17)  As of 1.5.2022 denomination changed into ‘South East Technological University’.  (18)  As of 2.6.2011 denomination changed from ”Kunstakademiets Arkitektskole i København” into ‘Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering’.  (19)  As of 1.3.2006 denomination changed from ”Arkitektskolen i Århus” into ‘Arkitektskolen Aarhus’.  (20)  As of 2021 denomination changed from ‘ESG/Escola Superior Gallaecia’ into ‘UPT - Universidade Portucalense Infante D. Henrique’. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI — Acquired rights applicable to the professions subject to recognition on the basis of coordination of the minimum training conditions
 
 **—————  Evidence of formal qualifications of architects benefiting from acquired rights pursuant to Article 49(1)**
 
+<table>
 <tbody><tr><td>Country</td><td>Evidence of formal qualifications</td><td>Reference academic year</td></tr>
 <tr><td>België/Belgique/Belgien</td><td>— the diplomas awarded by the higher national schools of architecture or the higher national institutes of architecture (architecte-architect) — the diplomas awarded by the higher provincial school of architecture of Hasselt (architect)  — the diplomas awarded by the Royal Academies of Fine Arts (architecte — architect)  — the diplomas awarded by the ‘écoles Saint-Luc’ (architecte — architect)  — university diplomas in civil engineering, accompanied by a traineeship certificate awarded by the association of architects entitling the holder to hold the professional title of architect (architecte — architect)  — the diplomas in architecture awarded by the central or State examining board for architecture (architecte — architect)  — the civil engineering/architecture diplomas and architecture/engineering diplomas awarded by the faculties of applied sciences of the universities and by the Polytechnical Faculty of Mons (ingénieur — architecte, ingénieur-architect) </td><td>1987/1988</td></tr>
 <tr><td colspan="3"></td></tr>
@@ -4586,6 +4671,7 @@ The balance between theoretical and practical training shall, in respect of each
 <tr><td>Sverige</td><td>— the diplomas awarded by the School of Architecture at the Royal Institute of Technology, the Chalmers Institute of Technology and the Institute of Technology at Lund University (arkitekt, university diploma in architecture) — the certificates of membership of the ‘Svenska Arkitekters Riksförbund’ (SAR) if the persons concerned have received their training in a State to which this Directive applies </td><td>1997/1998</td></tr>
 <tr><td>United Kingdom</td><td>— the qualifications awarded following the passing of examinations of: —  — the Royal Institute of British Architects  — schools of architecture at universities, polytechnics, colleges, academies, schools of technology and art which, as of 10 June 1985, were recognised by the Architects Registration Council of the United Kingdom for the purpose of admission to the Register (Architect)  — a certificate stating that its holder has an acquired right to hold the professional title of architect by virtue of section 6 (1) a, 6 (1) b or 6 (1) of the Architects Registration Act 1931 (Architect)  — a certificate stating that its holder has an acquired right to hold the professional title of architect by virue of section 2 of the Architects Registration Act 1938 (Architect) </td><td>1987/1988</td></tr>
 </tbody>
+</table>
 
 ## ANNEX VII — Documents and certificates which may be required in accordance with Article 50(1)
 

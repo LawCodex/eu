@@ -1,0 +1,113 @@
+---
+title: "Council Regulation (EU) 2022/626 of 13 April 2022 amending Regulation (EU) 2022/263 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas"
+identifier: "32022R0626"
+eli: "http://data.europa.eu/eli/reg/2022/626/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-04-13
+entry_into_force: 2022-12-07
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0626"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2022/626 of 13 April 2022 amending Regulation (EU) 2022/263 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas
+
+**COUNCIL REGULATION (EU) 2022/626**
+
+**of 13 April 2022**
+
+**amending Regulation (EU) 2022/263 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,
+
+Having regard to Council Decision (CFSP) 2022/628 of 13 April 2022 amending Decision (CFSP) 2022/266 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas (1),
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and the European Commission,
+
+Whereas:
+
+(1) Council Regulation (EU) 2022/263 (2) gives effect to several measures provided for by Council Decision (CFSP) 2022/266 (3), including certain restrictions to trade in the non-government-controlled areas of the Donetsk and Luhansk oblasts of Ukraine.
+
+(2) In view of the humanitarian crisis resulting from the unprovoked invasion of Ukraine by armed forces of the Russian Federation, on 13 April 2022 the Council adopted Decision (CFSP) 2022/628, amending Decision (CFSP) 2022/266 in order to include exceptions that allow clearly defined categories of bodies, persons, entities, organisations and agencies to provide goods and technology for use in certain sectors, as well as certain restricted services and assistance related to such goods and technology, to persons, entities and bodies in the non-government-controlled areas of the Donetsk and Luhansk oblasts of Ukraine or for use in those areas, where necessary for humanitarian purposes. Similarly, the exceptions allow for the provision of specific restricted services and assistance directly relating to certain infrastructure in the non-government-controlled areas of the Donetsk and Luhansk oblasts of Ukraine, where necessary for humanitarian purposes.
+
+(3) Council Regulation (EU) 2022/263 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In Regulation (EU) 2022/263, the following articles are inserted:
+
+## ‘Article 4a
+
+1\. The prohibitions set out in Article 4 shall not apply to:
+
+(a) the sale, supply, transfer or export of goods or technology listed in Annex II;
+
+(b) the provision, directly or indirectly, of technical assistance or brokering services related to goods and technology listed in Annex II or related to the provision, manufacture, maintenance and use of such items; or
+
+(c) the provision, directly or indirectly, of financing or financial assistance related to goods and technology listed in Annex II, to any natural or legal person, entity or body in the specified territories or for use in the specified territories by:
+
+— public bodies or legal persons, entities or bodies which receive public funding from the Union or Member States, provided that such goods, technology, services and assistance are necessary for exclusively humanitarian purposes in the specified territories;
+
+— organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that such goods technology, services and assistance are necessary for exclusively humanitarian purposes in the specified territories;
+
+— organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures, provided that such goods, technology, services and assistance are necessary for exclusively humanitarian purposes in the specified territories; or
+
+— Member States’ specialised agencies, provided that such goods, technology, services and assistance are necessary for exclusively humanitarian purposes in the specified territories.
+
+2\. By way of derogation from Article 4, in cases not covered by paragraph 1 of this Article, the competent authorities may grant specific or general authorisations, under such general and specific terms and conditions they deem appropriate, for:
+
+(a) the sale, supply, transfer or export of goods or technology listed in Annex II;
+
+(b) the provision, directly or indirectly, of technical assistance or brokering services related to goods and technology listed in Annex II or related to the provision, manufacture, maintenance and use of such items; or
+
+(c) the provision, directly or indirectly, of financing or financial assistance related to goods and technology listed in Annex II,
+
+to any natural or legal person, entity or body in the specified territories or for use in the specified territories, provided that such goods, technology, services and assistance are necessary for exclusively humanitarian purposes in the specified territories.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 2 within two weeks of the authorisation.
+
+4\. Nothing in this Article shall affect compliance with Council Regulation (EU) No 269/2014 (*1).
+
+## Article 5a
+
+1\. The prohibitions set out in Article 5(1) shall not apply to the provision of technical assistance, or brokering, construction or engineering services directly relating to infrastructure in the specified territories in the sectors referred to in Article 4(1) as defined on the basis of Annex II, independently of the origin of the goods and technology, by:
+
+(a) public bodies or legal persons, entities or bodies which receive public funding from the Union or Member States, provided that such assistance and services are necessary for exclusively humanitarian purposes in the specified territories;
+
+(b) organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that such assistance and services are necessary for exclusively humanitarian purposes in the specified territories;
+
+(c) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognisedby a Member State in accordance with national procedures, provided that such assistance and services are necessary for exclusively humanitarian purposes in the specified territories; or
+
+(d) Member States’ specialised agencies, provided that such assistance and services are necessary for exclusively humanitarian purposes in the specified territories.
+
+2\. By way of derogation from Article 5(1), in cases not covered by paragraph 1 of this Article, the competent authorities may grant specific or general authorisations, under such general and specific terms and conditions as they deem appropriate, for the provision of technical assistance, or brokering, construction or engineering services directly relating to infrastructure in the specified territories in the sectors referred to in Article 4(1) as defined on the basis of Annex II, independently of the origin of the goods and technology, provided that such assistance and services are necessary for exclusively humanitarian purposes in the specified territories.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 2 within two weeks of the authorisation.
+
+4\. Nothing in this Article shall affect compliance with Regulation (EU) No 269/2014.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 April 2022.
+
+For the Council
+
+The President
+
+J.-Y. LE DRIAN
+
+(1) OJ L 116, 13.4.2022
+
+(2) Council Regulation (EU) 2022/263 of 23 February 2022 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas (OJ L 42I, 23.2.2022, p. 77).
+
+(3) Council Decision (CFSP) 2022/266 of 23 February 2022 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas (OJ L 42I,23.2.2022, p. 109).

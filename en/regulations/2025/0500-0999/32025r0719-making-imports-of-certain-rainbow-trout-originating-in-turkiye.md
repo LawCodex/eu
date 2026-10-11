@@ -1,0 +1,186 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/719 of 14 April 2025 making imports of certain rainbow trout originating in Türkiye subject to registration following the reopening of the investigation in order to implement the judgment of 5 February 2025 in case T-122/23 regarding Commission Implementing Regulation (EU) 2022/2390"
+identifier: "32025R0719"
+eli: "http://data.europa.eu/eli/reg_impl/2025/719/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-04-14
+entry_into_force: 2026-02-12
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0719"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/719 of 14 April 2025 making imports of certain rainbow trout originating in Türkiye subject to registration following the reopening of the investigation in order to implement the judgment of 5 February 2025 in case T-122/23 regarding Commission Implementing Regulation (EU) 2022/2390
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/719**
+
+**of 14 April 2025**
+
+**making imports of certain rainbow trout originating in Türkiye subject to registration following the reopening of the investigation in order to implement the judgment of 5 February 2025 in case T-122/23 regarding Commission Implementing Regulation (EU) 2022/2390**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union (1) (‘the basic regulation’), and in particular Article 24 thereof,
+
+Whereas:
+
+**1\. PROCEDURE**
+
+**1.1. Adoption of measures**
+
+(1) By Commission Implementing Regulation (EU) 2015/309 (2), the Commission imposed definitive countervailing duties on imports of certain rainbow trout originating in Türkiye (‘the original investigation’).
+
+(2) On 4 June 2018, following a partial interim review concerning subsidisation of all exporting producers in accordance with Article 19 of the basic Regulation, the Commission decided to maintain the measures as established in the original investigation by Commission Implementing Regulation (EU) 2018/823 (3).
+
+(3) On 15 May 2020, following a partial interim review, in accordance with Article 19 of the basic Regulation, by Commission Implementing Regulation (EU) 2020/658 (4), the Commission amended the level of the countervailing duty for one exporting producer.
+
+(4) On 25 May 2021, following an expiry review in accordance with Article 18 of the basic Regulation, the Commission extended the measures as established in the original investigation (and as amended by Implementing Regulation (EU) 2020/658) for a further five years by Commission Implementing Regulation (EU) 2021/823 (5).
+
+(5) On 8 December 2022, following a partial interim review the Commission published Commission Implementing Regulation (EU) 2022/2390 (6) (‘the regulation at issue’).
+
+**1.2. The Judgement of the General Court of the European Union**
+
+(6) On 6 March 2023, Ege İhracatçıları Birliği (Aegean Exporters Association), Akdeniz İhracatçıları Birliği (Mediterranean Exporters Association), İstanbul İhracatçıları Birliği (Istanbul Exporters Association), Doğu Karadeniz İhracatçıları Birliği (Eastern Black Sea Exporters Association), and Denizli İhracatçıları Birliği (Denizli Exporters Association), jointly with their members (‘the applicants’), brought an annulment action before the General Court of the European Union (‘the General Court’) challenging the legality of the regulation at issue.
+
+(7) In support of their action, the applicants raised seven pleas in law. The first plea alleged infringement of Article 1(1), Article 3(2), Article 5 and Article 7 of the basic Regulation in so far as the Commission failed to carry out an analysis of the pass-through of the subsidy per kilogram of purchased trout.
+
+(8) The second plea alleged infringement of Article 22(6) of the basic Regulation, in so far as the Commission applied a new methodology for calculating the subsidy amount per kilogram of purchased trout.
+
+(9) The third plea alleged infringement of Article 1(1), Article 3(2), Article 5 and Article 7 of the basic Regulation, in so far as the Commission made manifest errors of assessment when calculating the subsidy amount per kilogram of purchased trout.
+
+(10) The fourth plea alleged infringement of Article 22(6) of the basic Regulation, in so far as the Commission amended the methodology for calculating the amount of subsidy per kilogram of purchased trout by including large trout in that calculation.
+
+(11) The fifth plea alleged infringement of Article 1(1), Article 3(2), Article 5 and Article 7 of the basic Regulation, in so far as the Commission included large trout in the calculation of the subsidy amount per kilogram of purchased trout, even though the countervailing measures did not relate to large trout.
+
+(12) The sixth plea alleged infringement of Article 3 of the basic Regulation, in so far as the Commission reached the incorrect conclusion that certain export loans granted to Gümüșdoğa Su Ürünleri Üretim İhracat ve İthalat AŞ (‘Gümüșdoğa’) by private banks had to be attributed to the Government of Türkiye.
+
+(13) The seventh and final plea alleged infringement of Article 5 and Article 7(2) and (4) of the basic Regulation, in so far as the Commission made manifest errors of assessment when calculating Gümüșdoğa’s subsidy rate.
+
+(14) On 5 February 2025, the General Court issued its judgement (7) partially annulling the regulation at issue as far as the applicants are concerned, with the exception of Özpekler İnșaat Taahhüt Dayanıklı Tüketim Malları Su Ürünleri Sanayi ve Ticaret Ltd Șirketi and Selina Balık İșleme Tesisi İthalat İhracat Ticaret AȘ.
+
+(15) The General Court found that the Commission had made two errors of assessment affecting the amounts of benefit found, namely to the benefit received by way of ‘Exhibition Support’ and to the benefit received by way of ‘Aegean Exporters’ Association support’.
+
+**2\. GROUND FOR REGISTRATION**
+
+(16) The Commission analysed whether it is appropriate to make the imports of the product concerned subject to registration. In that context, the Commission took the following considerations into account.
+
+(17) Article 266 of the Treaty on the Functioning of the European Union (‘TFEU’) provides that the Institutions must take the necessary measures to comply with the judgments. In case of annulment of an act adopted by the Institutions in the context of an administrative procedure, such as anti-subsidy investigations, compliance with the General Court’s judgement consists in the replacement of the annulled act by a new act, in which the illegality identified by the General Court is eliminated (8).
+
+(18) According to the case-law of the Court of Justice of the European Union (‘the Court of Justice’), the procedure for replacing the annulled act may be resumed at the very point at which the illegality occurred (9). That implies in particular that in a situation where an act concluding an administrative procedure is annulled, that annulment does not necessarily affect the preparatory acts, such as the initiation of the anti-subsidy procedure.
+
+(19) In a situation where for instance a Regulation imposing definitive anti-subsidy measures is annulled, that means that subsequent to the annulment, the anti-subsidy proceeding is still open, because the act concluding the proceeding has disappeared from the Union legal order (10), except if the illegality occurred at the stage of initiation.
+
+(20) As explained in the reopening Notice (11), and since the illegality did not occur at the stage of initiation but at the stage of the investigation, the Commission decided to reopen the interim review and resumed it at the point at which the irregularity occurred.
+
+(21) According to the case-law of the Court of Justice, the resumption of the administrative procedure and the eventual re-imposition of duties cannot be seen as contrary to the rule of non-retroactivity (12). The Notice of reopening informed interested parties, including importers, that any future liability, if warranted, would emanate from the findings of the re-examination.
+
+(22) Based on its new findings and the outcome of the reopened investigation, which is unknown at this stage, the Commission may adopt a regulation revising, where warranted, the applicable duty rates. Those revised rates, if any, will take effect as from the date on which the regulation at issue entered into force.
+
+(23) For this purpose, the Commission requested national customs authorities to await the outcome of the re-examination before deciding on any repayment claim concerning the countervailing duties annulled by the General Court. Customs authorities are thus directed to put on hold any claims for reimbursements of the annulled duties until the outcome of the re-examination is published in the Official Journal of the European Union.
+
+(24) Furthermore, should the reopening investigation lead to the re-imposition of measures, duties should also be collected for the period during which the reopening investigation was carried out.
+
+(25) In this respect, the Commission notes that registration is a tool provided in Article 24(5) of the basic Regulation so that measures may subsequently be applied against imports from the date of the registration. In the present case, the Commission deems it appropriate to register imports with a view to facilitating the collection of countervailing duties once their levels are revised in line with the General Court ruling (13).
+
+(26) In line with the jurisprudence of the Court of Justice (14), contrary to registration taking place during the period before the adoption of provisional measures, the conditions of Article 16(4) of the basic Regulation are not applicable to the case at hand.
+
+(27) Indeed, the purpose of registration in the context of Court implementation is not to allow the possible retroactive collection of trade defence measures as envisaged in those provisions. The purpose is rather to safeguard the effectiveness of the measures in place, without undue interruption from the date of entry into force of the regulation at issue until the re-imposition of the corrected duties, by ensuring that the collection of the correct amount of duties is possible in the future.
+
+(28) In light of the above considerations, the Commission considered that there were grounds for registration pursuant to Article 24(5) of the basic Regulation.
+
+**3\. REGISTRATION**
+
+(29) On the basis of the above, imports of the product produced by companies listed in Annex must be made subject to registration.
+
+(30) As indicated in the reopening Notice, the final liability for payment of countervailing duties, if any, from the date of entry into force of the regulation at issue will result from the findings of the re-examination.
+
+(31) No duties higher than the duties established in the regulation at issue may be collected for the period between the publication of the Notice of reopening and the date of entry into force of the results of the reopening investigation.
+
+(32) The current countervailing duties applicable to companies listed in Annex range from 3,4 % to 4,4 %,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The Customs authorities shall, under Article 24(5) of Regulation (EU) 2016/1037, take the appropriate steps to register the imports of certain rainbow trout, currently falling under CN codes ex 0301 91 90 , ex 0302 11 80 , ex 0303 14 90 , ex 0304 42 90 , ex 0304 82 90 , ex 0305 43 00 and ex 1604 19 10 (TARIC codes 0301 91 90 11, 0302 11 80 11, 0303 14 90 11, 0304 42 90 10, 0304 82 90 10, 0305 43 00 11 and 1604 19 10 11), originating in the Republic of Türkiye and produced by the companies listed in Annex.
+
+2\. Registration shall expire nine months following the date of entry into force of this Regulation.
+
+3\. The rates of the countervailing duties that can be collected on imports of certain rainbow trout currently falling under CN codes ex 0301 91 90 , ex 0302 11 80 , ex 0303 14 90 , ex 0304 42 90 , ex 0304 82 90 , ex 0305 43 00 and ex 1604 19 10 (TARIC codes 0301 91 90 11, 0302 11 80 11, 0303 14 90 11, 0304 42 90 10, 0304 82 90 10, 0305 43 00 11 and 1604 19 10 11) originating in the Republic of Türkiye and produced by companies listed in Annex between the reopening of the investigation and the date of entry into force of the results of the reopening investigation shall not exceed those imposed by Implementing Regulation (EU) 2022/2390.
+
+4\. The national customs authorities shall await the publication of the relevant Commission Implementing Regulation re-imposing the duties before deciding on any claims for repayment and remission of countervailing duties insofar as imports concerning companies listed in Annex are concerned.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 April 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 176, 30.6.2016, p. 55, ELI: http://data.europa.eu/eli/reg/2016/1037/oj.
+
+(2) Commission Implementing Regulation (EU) 2015/309 of 26 February 2015 imposing a definitive countervailing duty and collecting definitively the provisional duty imposed on imports of certain rainbow trout originating in Turkey (OJ L 56, 27.2.2015, p. 12, ELI: http://data.europa.eu/eli/reg_impl/2015/309/oj).
+
+(3) Commission Implementing Regulation (EU) 2018/823 of 4 June 2018 terminating the partial interim review of the countervailing measures applicable to imports of certain rainbow trout originating in the Republic of Turkey (OJ L 139, 5.6.2018, p. 14, ELI: http://data.europa.eu/eli/reg_impl/2018/823/oj).
+
+(4) Commission Implementing Regulation (EU) 2020/658 of 15 May 2020 amending Implementing Regulation (EU) 2015/309 imposing a definitive countervailing duty and collecting definitively the provisional duty on imports of certain rainbow trout originating in Turkey following an interim review pursuant to Article 19(4) of Regulation (EU) 2016/1037 of the European Parliament and of the Council (OJ L 155, 18.5.2020, p. 3, ELI: http://data.europa.eu/eli/reg_impl/2020/658/oj).
+
+(5) Commission Implementing Regulation (EU) 2021/823 of 20 May 2021 imposing a definitive countervailing duty on imports of certain rainbow trout originating in Turkey following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council (OJ L 183, 25.5.2021, p. 5, ELI: http://data.europa.eu/eli/reg_impl/2021/823/oj).
+
+(6) Commission Implementing Regulation (EU) 2022/2390 of 7 December 2022 amending the definitive countervailing duty imposed on imports of certain rainbow trout originating in Türkiye by Implementing Regulation (EU) 2021/823 following a partial interim review pursuant to Article 19 of Regulation (EU) 2016/1037 of the European Parliament and of the Council (OJ L 316, 8.12.2022, p. 52, ELI: http://data.europa.eu/eli/reg_impl/2022/2390/oj).
+
+(7) Judgment of 5 February 2025, Case T-122/23, Ege İhracatçıları Birliği and Others v Commission, ECLI:EU:T:2025:133.
+
+(8) Joined cases 97, 193, 99 and 215/86, Asteris AE and others and Hellenic Republic v Commission [1988] ECR 2181, paragraphs 27 and 28.
+
+(9) Case C-415/96, Spain v Commission [1998] ECR I-6993, paragraph 31; Case C-458/98 P, Industrie des Poudres Sphériques v Council [2000] I-8147, paragraphs 80 to 85; Case T-301/01, Alitalia v Commission [2008] II-1753, paragraphs 99 and 142; Joined Cases T-267/08 and T-279/08, Région Nord-Pas de Calais v Commission [2011] II-0000, paragraph 83.
+
+(10) Case C-415/96, Spain v Commission [1998] ECR I-6993, paragraph 31; Case C-458/98 P Industrie des Poudres Sphériques v Council [2000] I-8147, paragraphs 80 to 85.
+
+(11) OJ C, C/2025/2264, 15.4.2025, ELI: http://data.europa.eu/eli/C/2025/2264/oj.
+
+(12) Case C-256/16, Deichmann SE v Hauptzollamt Duisburg, Judgment of the Court of 15 March 2018, paragraph 79 and C & J Clark International Ltd v Commissioners for Her Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 5.
+
+(13) Case T-440/20, Jindal Saw v European Commission, ECLI:EU:T:2022:318, paragraphs 154-159.
+
+(14) Case C-256/16, Deichmann SE v Hauptzollamt Duisburg, paragraph 79, and Case C-612/16, C & J Clark International Ltd v Commissioners for Her Majesty’s Revenue & Customs, judgment of 19 June 2019, paragraph 58.
+
+## ANNEX
+
+Turkish exporting producers whose imports are to be subject to registration:
+
+| Name | TARIC additional code |
+| --- | --- |
+| Fishark Su Ürünleri Üretim ve Sanayi Ticaret A.Ş. | B985 |
+| Gümüşdoga Su Ürünleri Üretim Ihracat Ithalat AŞ | B964 |
+| Abalıoğlu Balık ve Gıda Ürünleri A.Ş. | B968 |
+| Alima Su Ürünleri ve Gıda Sanayi Ticaret A.Ş. | B974 |
+| Bağcı Balık Gıda ve Enerji Üretimi San ve Tic. A.Ş. | B977 |
+| Baypa Bayhan Su Urunleri San. Ve Tic. A.S. | C890 |
+| Ertug Balik Uretim Tesisi A.S. and More Su Urunleri A.S. | C891 |
+| Kemal Balıkçılık Ihracat Ltd. Şti. | B981 |
+| Kılıç Deniz Ürünleri Üretimi İhracat İthalat ve Ticaret A.Ş. | B965 |
+| Kuzuoğlu Su Ürünleri Sanayi ve Ticaret A.Ş. | 89MI |
+| Lazsom Su Urunleri Gida Uretim Pazarlama Sanayi Ve Ticaret Limited Sirketi | C892 |
+| Liman Entegre Balıkçılık San ve Tic. Ltd. Şti. | B982 |
+| Ömer Yavuz Balikcilik Su Ürünleri San. Tic. Ltd. Sti. | B984 |
+| Premier Kultur Balikciligi Yatirim Ve Pazarlama A.S | C893 |
+| Uluturhan Balikçilik Turizm Ticaret Limited Şirketi | C894 |
+| Yavuzlar Otomotiv Balikcilik San.Tic.Ltd.Sti. | C895 |
+| All other companies | B999 |
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/719/oj
+
+ISSN 1977-0677 (electronic edition)

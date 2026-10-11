@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(87/217/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE of 23 December 1991 </td><td> L 377</td><td>48</td><td>31.12.1991</td></tr>
 <tr><td></td><td> COUNCIL REGULATION (EC) No 807/2003 of 14 April 2003</td><td> L 122</td><td>36</td><td>16.5.2003</td></tr>
 <tr><td></td><td> DECISION (EU) 2018/853 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>155</td><td>14.6.2018</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

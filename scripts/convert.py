@@ -79,7 +79,9 @@ class Converter:
                     parts.append(" ")
                 elif node.name == "img":
                     src = node.get("src")
-                    if src:
+                    if src and src.startswith("data:"):
+                        parts.append(" [image] ")
+                    elif src:
                         url = urllib.parse.urljoin(self.base_url, src)
                         alt = norm(node.get("alt", "")) or "image"
                         parts.append(f" ![{alt}]({url}) ")
@@ -215,7 +217,11 @@ class Converter:
                     elif node.name == "br":
                         out.append("<br>")
                     elif node.name == "img":
-                        src = urllib.parse.urljoin(self.base_url, node.get("src", ""))
+                        src = node.get("src", "")
+                        if src.startswith("data:"):
+                            out.append("[image]")
+                            continue
+                        src = urllib.parse.urljoin(self.base_url, src)
                         out.append(f'<img src="{src}" alt="{node.get("alt", "")}">')
                     elif node.name in ("p", "div") and out:
                         out.append(" " + rec(node).strip() + " ")
@@ -224,7 +230,7 @@ class Converter:
                     else:
                         out.append(rec(node))
             return MARKER.sub("", "".join(out))
-        return rec(t).strip()
+        return "<table>\n" + rec(t).strip() + "\n</table>"
 
     # ---------- walk ----------
     def walk(self, el):
@@ -385,17 +391,52 @@ def html_to_md(path, base_url):
     return render(events)
 
 
+PDF_BREAK = re.compile(r"^(Article \d+|ARTICLE \d+|\(\w{1,5}\)\s|\d{1,3}\.\s|[—–-]\s|CHAPTER|TITLE|SECTION|PART|ANNEX|Whereas|Having regard|HAS ADOPTED|HAVE ADOPTED|Done at|For the )")
+
+
 def pdf_to_md(path):
+    import logging
+    logging.getLogger("pypdf").setLevel(logging.ERROR)
     from pypdf import PdfReader
     reader = PdfReader(str(path))
-    paras = []
+    paras, cur = [], []
     for page in reader.pages:
         t = page.extract_text() or ""
-        for block in re.split(r"\n\s*\n", t):
-            b = norm(block)
-            if b:
-                paras.append(escape_md(b))
-    return "\n\n".join(paras)
+        for line in t.splitlines():
+            line = norm(line)
+            if not line:
+                continue
+            # drop running headers of consolidated PDFs ("1982R1985 — EN — 01.03.1986 — 001.001 — 2")
+            if re.match(r"^\d{4}[A-Z]\d{4} — [A-Z]{2} — [\d.]+ — [\d.]+ — \d+", line):
+                line = re.sub(r"^\d{4}[A-Z]\d{4} — [A-Z]{2} — [\d.]+ — [\d.]+ — \d+\s*", "", line)
+                if not line:
+                    continue
+            if cur and (PDF_BREAK.match(line) or re.search(r"[.;:]$", cur[-1]) or ART_RE.match(cur[-1])):
+                paras.append(cur)
+                cur = []
+            cur.append(line)
+    if cur:
+        paras.append(cur)
+    conv = Converter("")
+    conv.legacy = True
+    for p in paras:
+        text = ""
+        for l in p:
+            if text.endswith("-") and l[:1].islower():
+                text = text[:-1] + l
+            else:
+                text = (text + " " + l).strip()
+        if ART_RE.match(text):
+            conv.article(text)
+        elif LEGACY_SEC_RE.match(text) and len(text) < 200:
+            conv.section(text)
+        elif ANNEX_RE.match(text) and len(text) < 120:
+            conv.section(text)
+        else:
+            conv.para(text)
+    conv.flush_prefix()
+    conv.flush_heading()
+    return render(conv.events)
 
 
 # ---------------- metadata / filenames ----------------
@@ -518,6 +559,9 @@ SUBTYPE = {"REG_IMPL": "implementing", "REG_DEL": "delegated", "DIR_IMPL": "impl
 def main(letters):
     acts = json.loads((RAW / "acts.json").read_text())
     stats = {"treaties": 0, "missing": [], "consolidated": 0, "original": 0}
+    import shutil
+    for l in letters:  # rebuild each requested category from scratch (drops stale files)
+        shutil.rmtree(OUT / ("treaties" if l == "T" else TYPE_DIR[l]), ignore_errors=True)
     if "T" in letters:
         convert_treaties(stats)
     counts = {}

@@ -1,0 +1,187 @@
+---
+title: "Commission Regulation (EEC) No 937/90 of 10 April 1990 opening a standing invitation to tender for the supply to Poland of 300 000 tonnes of bread-making common wheat held by the German intervention agency and amending Regulation (EEC) No 709/90"
+identifier: "31990R0937"
+eli: "http://data.europa.eu/eli/reg/1990/937/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1990-04-10
+entry_into_force: 1990-03-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990R0937"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EEC) No 937/90 of 10 April 1990 opening a standing invitation to tender for the supply to Poland of 300 000 tonnes of bread-making common wheat held by the German intervention agency and amending Regulation (EEC) No 709/90
+
+*****
+
+COMMISSION REGULATION (EEC) No 937/90
+
+of 10 April 1990
+
+opening a standing invitation to tender for the supply to Poland of 300 000 tonnes of bread-making common wheat held by the German intervention agency and amending Regulation (EEC) No 709/90
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 457/90 of 22 February 1990 on an emergency measure for the free supply of certain agricultural products to Poland (1),
+
+Having regard to Council Regulation (EEC) No 2727/75 of 29 October 1975 on the common organization of the market in cereals (2), as last amended by Regulation (EEC) No 201/90 (3), and in particular Article 7 (5) thereof,
+
+Whereas Commission Regulation (EEC) No 709/90 (4), provides that contracts for the supply of cereals under Regulation (EEC) No 457/90 are to be allocated by invitation to tender; whereas, for the sake of simplification and effectiveness, that regulation should be amended as regards the taking of samples within the supply framework;
+
+Whereas Commission Regulation (EEC) No 1570/77 (5), as last amended by Regulation (EEC) No 2258/87 (6), lays down in particular quality criteria for bread-making common wheat accepted for intervention;
+
+Whereas a standing invitation to tender should be opened for the supply of an instalment of bread-making common wheat held by the German intervention agency;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+On the terms laid down in Regulation (EEC) No 709/90, the German intervention agency shall open a standing invitation to tender for the supply to Poland of bread-making common wheat held by the said agency.
+
+## Article 2
+
+1\. The invitation to tender shall cover:
+
+- approximately 200 000 tonnes of bread-making common wheat to be supplied from North Sea and Baltic Sea ports,
+
+- a maximum 100 000 tonnes of bread-making common wheat to be supplied by rail.
+
+2\. The common wheat must at least be of bread-making quality as defined in Article 4a of Regulation (EEC) No 1570/77.
+
+3\. The regions where the 300 000 tonnes of bread-making common wheat are stored are listed in Annex I hereto.
+
+## Article 3
+
+1\. Tenders may relate only to the entire lot or group of lots specified in the notice of invitation to tender provided for in Article 14 of Regulation (EEC) No 709/90.
+
+2\. Tenders may be lodged subject to the allocation of a given quantity.
+
+## Article 4
+
+1\. The time limit for the submission of tenders in response to the first partial invitation to tender shall be 1 p. m., Brussels time, on 25 April 1990.
+
+2\. The time limit for the submission of tenders in response to the last partial invitation to tender shall be 1 p. m., Brussels time, on 16 May 1990.
+
+## Article 5
+
+Tenders must be submitted to the German intervention agency.
+
+The German intervention agency shall forward tenders to the Commission in accordance with the model in Annex II hereto.
+
+## Article 6
+
+The taking-over certificate referred to in Article 10 (3) of Regulation (EEC) No 709/90 shall take the form shown in Annex III hereto in the case of supply by sea and in Annex IV hereto in the case of supply by rail. Certificates shall be issued:
+
+- after unloading of the goods in the case of supply by sea,
+
+- on arrival at the Polish frontier in the case of supply by rail.
+
+## Article 7
+
+The successful tenderer shall undertake to provide the Polish authorities with the documents required for supply purposes as specified in the notice of invitation to tender drawn up by the German intervention agency.
+
+## Article 8
+
+Article 11 of Regulation (EEC) No 709/90 is hereby replaced by the following:
+
+'Article 11
+
+1\. Representative samples of the quantities supplied shall be taken by security firms deisgnated by the tenderers before tenders are lodged in agreement with the intervention agency:
+
+- in the case of supply by sea, at the time of loading in the port of export and at the time of unloading in the port of destination,
+
+- in the case of supply by rail, at the time of loading onto the railway wagons.
+
+2\. Samples shall be taken at the expense of the successful tenderer and made available to the competent intervention agency.
+
+3\. In the case of carriage by rail, the security firm concerned shall seal the wagons after loading.'
+
+## Article 9
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 April 1990.
+
+For the Commission
+
+Ray MAC SHARRY
+
+Member of the Commission
+
+(1) OJ No L 48, 24. 2. 1990, p. 3.
+
+(2) OJ No L 281, 1. 11. 1975, p. 1.
+
+(3) OJ No L 22, 27. 1. 1990, p. 7.
+
+(4) OJ No L 78, 24. 3. 1990, p. 13.
+
+(5) OJ No L 174, 14. 7. 1977, p. 18.
+
+(6) OJ No L 208, 30. 7. 1987, p. 10.
+
+## ANNEX I
+
+(tonnes)
+
+1.2 // // // Regions of storage // Quantity // // // Schleswig-Holstein / Hamburg // 77 362 // Niedersachsen / Bremen // 97 951 // Nordrhein-Westfalen // 25 241 // Hessen // 11 381 // Rheinland-Pfalz // 17 240 // Baden-Wuerttemberg // 10 435 // Bayern // 60 336 // //
+
+## ANNEX II
+
+Standing invitation to tender for the supply of 300 000 tonnes of bread-making common wheat held by the German intervention agency
+
+(Regulation (EEC) No 937/90)
+
+1.2.3.4,5.6.7 // // // // // // // Tenderer number // Number of lot or group of lots // Quantity (tonnes) // Carriage by sea // Carriage by rail // Supply costs applied for (ECU/tonne) // 1.2.3.4.5.6.7 // // // // Place of removal from store // Port of destination // Place at which Polish frontier is crossed // // // // // // // // // 1 // 2 // 3 // 4 // 5 // 6 // 7 // // // // // // // // 1 // // // // // // // 2 // // // // // // // 3 // // // // // // // 4 // // // // // // // etc. // // // // // // // // // // // // //
+
+## ANNEX III
+
+SUPPLY BY SEA
+
+TAKING-OVER CERTIFICATE
+
+I, the undersigned:
+
+(name, first name, business name)
+
+acting on behalf of the Polish Government, hereby certify that the goods mentioned below have been taken over:
+
+- Name of vessel:
+
+- Place and date of taking-over:
+
+- Product:
+
+- Tonnage taken over:
+
+Remarks or reservations:
+
+## ANNEX IV
+
+SUPPLY BY RAIL
+
+TAKING-OVER CERTIFICATE
+
+I, the undersigned:
+
+(name, first name, business name)
+
+acting on behalf of the Polish Government, hereby certify that the goods mentioned below have been taken over:
+
+- Number of wagons:
+
+- Place and date of taking-over:
+
+- Product:
+
+- Wagon duly sealed in presence of security firm designated by the successful tenderer:
+
+Remarks or reservations:

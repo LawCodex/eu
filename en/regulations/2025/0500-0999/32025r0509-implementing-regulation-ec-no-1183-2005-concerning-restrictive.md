@@ -1,0 +1,94 @@
+---
+title: "Council Implementing Regulation (EU) 2025/509 of 17 March 2025 implementing Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo"
+identifier: "32025R0509"
+eli: "http://data.europa.eu/eli/reg_impl/2025/509/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-03-17
+entry_into_force: 2025-12-03
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0509"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Regulation (EU) 2025/509 of 17 March 2025 implementing Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo
+
+**COUNCIL IMPLEMENTING REGULATION (EU) 2025/509**
+
+**of 17 March 2025**
+
+**implementing Regulation (EC) No 1183/2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1183/2005 of 18 July 2005 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo (1), and in particular Article 9(2) thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 18 July 2005, the Council adopted Regulation (EC) No 1183/2005.
+
+(2) On 25 January 2025, the High Representative of the Union for Foreign Affairs and Security Policy issued a statement on behalf of the Union expressing its deep concern at the latest escalation of the conflict in eastern Democratic Republic of the Congo (DRC), as aggravated by the renewed offensive of the M23 armed group supported by the Rwanda Defence Force (RDF).
+
+(3) The RDF’s unauthorised presence in the DRC constitutes a violation of that country’s territorial integrity and sustains the armed conflict, instability and insecurity in the region.
+
+(4) Revenues from the illegal extraction and trafficking of natural resources from eastern DRC are being used to fund, inter alia, the M23 armed group and its operations, and are thereby contributing to the escalation of the conflict.
+
+(5) In view of the gravity of the situation in the DRC, nine persons and one entity should be added to the list of natural or legal persons, entities and bodies set out in Annex Ia to Regulation (EC) No 1183/2005.
+
+(6) Regulation (EC) No 1183/2005 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex Ia to Regulation (EC) No 1183/2005 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 17 March 2025.
+
+For the Council
+
+The President
+
+K. KALLAS
+
+(1) OJ L 193, 23.7.2005, p. 1, ELI: http://data.europa.eu/eli/reg/2005/1183/oj.
+
+## ANNEX
+
+Annex Ia to Regulation (EC) No 1183/2005 is amended as follows:
+
+(1) the following persons are added to Section A (‘Persons’):
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| ‘36. | Bertrand BISIMWA | Function/rank: Leader (President) of the political branch of the “Mouvement du 23 mars” (M23) DOB: 8.9.1972 POB: Bukavu, Democratic Republic of the Congo Nationality: Congolese Gender: male | Bertrand Bisimwa holds a leading position as President of the March 23 Movement (M23), a nongovernmental armed movement. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment. Owing to his leading position in the M23, Bertrand Bisimwa is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 37. | Ruki KARUSISI | a.k.a. Rocky Function/rank: Major-General Commander of the Special Force Command of the Rwanda Defence Force (RDF) DOB: 6.5.1974 Gender: male Nationality: Rwandan RDF Service number: 2357 | Major-General Ruki Karusisi is the commander of the Special forces of the Rwanda Defence Force (RDF), deployed in eastern DRC. The RDF presence in the DRC has as its objective reinforcing the operations of the March 23 Movement/Congolese Revolutionary Army (M23/ARC), a nongovernmental armed group operating in eastern DRC, by providing troops and materiel. The RDF presence constitutes a violation of the territorial integrity of the DRC and sustains the armed conflict, instability and insecurity in the region. It is also responsible for serious human rights abuses, including collective punishment, and sustains serious human rights abuses committed by members of M23. Owing to his commanding role within the Special Force Command of the RDF deployed in Eastern DRC, Ruki Karusisi is responsible for sustaining the armed conflict, instability and insecurity in the region. He is also responsible for providing support to entities sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 38. | Désiré RUKOMERA | Function/rank: Head of recruitment and propaganda of the March 23 Movement (M23) Gender: male Nationality: Rwandan | Désiré Rukomera holds a leading position as head of recruitment and propaganda for the March 23 Movement (M23), a non-governmental armed movement, since January 2024. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment. Owing to his leading position in the M23, Désiré Rukomera is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 39. | John Imani NZENZE | a.k.a. Mike Bravo Function/rank: “Colonel” and “G2” intelligence chief of the M23 armed group (M23) DOB: 6.8.1978 POB: Kakwende (South Kivu) Gender: male Nationality: Congolese | John Imani Nzenze holds a leading position as Colonel of the March 23 Movement (M23), a non-governmental armed movement. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment. Owing to his leading position in the M23, John Imani Nzenze is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 40. | Eugene NKUBITO | Function/rank: Commander 3rd division (Major General) of the Rwanda Defence Force (RDF) Gender: male Nationality: Rwandan RDF Service number: 218 | Major-General Eugène Nkubito holds a leading position as Commander of the 3rd Division of the Rwanda Defence Force (RDF), deployed in eastern DRC and more specifically in the North Kivu province. He has been in this position since August 2022. The RDF presence in the DRC has as its objective reinforcing the operations of the March 23 Movement/Congolese Revolutionary Army (M23/ARC), a non-governmental armed group operating in Eastern DRC by providing troops and materiel. The RDF presence constitutes a violation of the territorial integrity of the DRC and sustains the armed conflict, instability and insecurity in the region. It is also responsible for serious human rights abuses, including collective punishment, and sustains serious human rights abuses committed by members of M23. Owing to his commanding role within the 3rd Division of the RDF deployed in eastern DRC, Eugène Nkubito is responsible for sustaining the armed conflict, instability and insecurity in the region. | 17.3.2025 |
+| 41. | Pascal MUHIZI | Function/rank: Commander 2nd Division (Brigadier General) of the Rwanda Defence Force (RDF) Nationality: Rwandan Gender: male Associated entities: Rwanda Defence Force (RDF); March 23 Movement/Congolese Revolutionary Army (M23/ARC) RDF Service number: 451 | Pascal Muhizi is Brigadier-General of the Rwanda Defence Force (RDF) since June 2021 and is the Commander of the 2nd Division of the RDF, deployed in Eastern DRC since August 2023. The RDF presence in the DRC constitutes a violation of the territorial integrity of the DRC and sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of the March 23 Movement/Congolese Revolutionary Army (M23/ARC). Owing to his leading position within the 2nd Division of the RDF present in the DRC, Brigadier-General Pascal Muhizi is responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 42. | Jean-Bosco NZABONIMPA MUPENZI | Function/rank: Deputy Head of the Finance and production department of the M23 POB: Rubaya, Masisi, North Kivu Nationality: Congolese Gender: male Associated entities: March 23 Movement/Congolese Revolutionary Army (M23/ARC) | Jean-Bosco Nzabonimpa Mupenzi is the Deputy Chief of Finances and Production of the March 23 Movement/Congolese Revolutionary Army (M23/ARC) operating in the Democratic Republic of the Congo (DRC), more specifically in the North Kivu province, since January 2024. The M23 is a rebel armed group responsible for the current armed conflict. It also sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of the M23, including killings of and attacks and sexual violence against civilians, as well as child recruitment. Jean-Bosco Nzabonimpa Mupenzi provides support to the M23 armed group, in particular by ensuring the management of the M23 Finances and Production department, as well as taking part in the training of new recruits. Owing to his leading position within the M23, Jean-Bosco Nzabonimpa Mupenzi is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025 |
+| 43. | Francis KAMANZI | Function/rank: Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board (RMB) Nationality: Rwandan Gender: male | Francis Kamanzi holds a leading position as Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board (RMB) since February 2024. Minerals continue to be exploited in mining areas controlled by the March 23 Movement (M23) and trafficked to Rwanda for the benefit of both the Alliance Fleuve Congo/M23 and the Rwandan economy, where these conflict minerals are mixed with Rwandan production. Owing to his leading position in the RMB, Francis Kamanzi is responsible for exploiting the armed conflict, instability or insecurity in the DRC, including through the illicit exploitation or trading of natural resources. | 17.3.2025 |
+| 44. | Joseph MUSANGA BAHATI | a.k.a. “Erasto”; “Bahati Erasto”; “Colonel Erasto”; “Colonel Bahati Musanga” Function/rank: Governor of North-Kivu DOB: 18.8.1978 POB: Bashali-Mokoto (Busumba) Nationality: Congolese Gender: male Associated entities: March 23 Movement/Alliance Fleuve Congo (M23/AFC) | Joseph Bahati Musanga is a senior figure in the structure of the March 23 Movement (M23) rebel group and within the Alliance Fleuve Congo. He has held the position of Chief of Finance of the M23 for several years. In January 2024, he was appointed governor of North Kivu within the new illegal “administration” imposed by the M23 in violation of Congolese sovereignty. The deployment of a parallel administration in the DRC constitutes a violation of the territorial integrity of the DRC. It also sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of the M23. Owing to his leading position in the M23, Joseph Bahati Musanga is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. | 17.3.2025’ |
+
+(2) the following entity is added to Section B (‘Entities’):
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| ‘2. | Gasabo Gold Refinery | Place of establishment: Kigali, Rwanda | The Gasabo Gold Refinery, based in Kigali, began its refining activities on 1 June 2022 following the closure of Aldango Gold Refinery. The illegal extraction and trafficking of natural resources from eastern DRC, such as gold, contributes to the escalation of the conflict. The transit of gold through the only gold refinery in Rwanda, Gasabo Gold Refinery, contributes to the illicit export via Rwanda of illegally extracted gold. Hence, Gasabo Gold Refinery has been exploiting the armed conflict, instability or insecurity in the DRC, including through the illicit exploitation or trading of natural resources. | 17.3.2025’ |
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/509/oj
+
+ISSN 1977-0677 (electronic edition)

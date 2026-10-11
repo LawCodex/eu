@@ -125,6 +125,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘354</td><td>Pencycuron CAS No 66063-05-6  CIPAC No 402 </td><td>1-(4-chlorobenzyl)-1-cyclopentyl-3-phenylurea</td><td>≥ 980 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on pencycuron, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to the protection of large omnivorous mammals.  Conditions of use shall include risk mitigation measures, where appropriate.  The Member States concerned shall request the submission of confirmatory information as regards: <table><tbody><tr><td>(1)</td><td>the fate and behaviour in soil of the chlorophenyl and cyclopentyl portions of pencycuron;</td></tr>
 </tbody>
@@ -137,5 +138,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (1), (2) and (3) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

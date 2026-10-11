@@ -1,0 +1,241 @@
+---
+title: "Commission Regulation (EU) No 517/2011 of 25 May 2011 implementing Regulation (EC) No 2160/2003 of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain Salmonella serotypes in laying hens of Gallus gallus and amending Regulation (EC) No 2160/2003 and Commission Regulation (EU) No 200/2010 Text with EEA relevance"
+identifier: "32011R0517"
+eli: "http://data.europa.eu/eli/reg/2011/517/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-05-25
+entry_into_force: 2012-01-01
+last_amended: 2019-03-10
+consolidated_version: "02011R0517-20190310"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0517-20190310"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 517/2011 of 25 May 2011 implementing Regulation (EC) No 2160/2003 of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain Salmonella serotypes in laying hens of Gallus gallus and amending Regulation (EC) No 2160/2003 and Commission Regulation (EU) No 200/2010 Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 517/2011**
+
+**of 25 May 2011**
+
+**implementing Regulation (EC) No 2160/2003 of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain Salmonella serotypes in laying hens of Gallus gallus and amending Regulation (EC) No 2160/2003 and Commission Regulation (EU) No 200/2010**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/268 of 15 February 2019 </td><td> L 46</td><td>11</td><td>18.2.2019</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 517/2011**
+
+**of 25 May 2011**
+
+**implementing Regulation (EC) No 2160/2003 of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain Salmonella serotypes in laying hens of Gallus gallus and amending Regulation (EC) No 2160/2003 and Commission Regulation (EU) No 200/2010**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Target
+
+1\. The Union target referred to in Article 4(1) of Regulation (EC) No 2160/2003 for the reduction of the prevalence of Salmonella Enteritidis and Salmonella Typhimurium in adult laying hens of Gallus gallus (‘Union target’) shall be as follows:
+
+(a) an annual minimum percentage of reduction of positive flocks of adult laying hens equal to at least:
+
+(i) 10 % where the prevalence in the preceding year was less than 10 %;
+
+(ii) 20 % where the prevalence in the preceding year was more than or equal to 10 % and less than 20 %;
+
+(iii) 30 % where the prevalence in the preceding year was more than or equal to 20 % and less than 40 %;
+
+(iv) 40 % where the prevalence in the preceding year was more than or equal to 40 %;
+
+or
+
+(b) a reduction of the maximum percentage equal to 2 % or less of positive flocks of adult laying hens; however, for Member States with less than 50 flocks of adult laying hens, not more than one adult flock may remain positive.
+
+The Union target shall be achieved every year based on the monitoring of the previous year. As regards the target to be achieved in 2011, the results of the year 2010 based on the monitoring carried out in accordance with Article 1 of Regulation (EC) No 1168/2006 shall be used as reference.
+
+As regards monophasic Salmonella Typhimurium, serotypes with the antigenic formula 1,4,[5],12:i:-  shall be included in the Union target.
+
+2\. The testing scheme necessary to verify progress on the achievement of the Union target is set out in the Annex (‘testing scheme’).
+
+## Article 2 — Review of the Union target
+
+The Union target shall be reviewed by the Commission taking into account the information collected in accordance with the testing scheme and the criteria laid down in Article 4(6)(c) of Regulation (EC) No 2160/2003.
+
+## Article 3 — Amendment to Regulation (EC) No 2160/2003
+
+In Annex II to Regulation (EC) No 2160/2003, in Part C, the following subparagraph is inserted:
+
+‘6. All references in this section to “Salmonella Typhimurium” shall also include monophasic Salmonella Typhimurium with the antigenic formula 1,4,[5],12:i:-  ,’.
+
+## Article 4 — Amendment to Regulation (EU) No 200/2010
+
+In Article 1(1), the first subparagraph is replaced by the following:
+
+‘1. From 1 January 2010, the Union target, as referred to in Article 4(1) of Regulation (EC) No 2160/2003, for the reduction of Salmonella spp. in breeding flocks of Gallus gallus (“the Union target”) shall be a reduction to 1 % or less of the maximum percentage of adult breeding flocks of Gallus gallus remaining positive for Salmonella Enteritidis, Salmonella Infantis, Salmonella Hadar, Salmonella Typhimurium, including monophasic Salmonella Typhimurium with the antigenic formula 1,4,[5],12:i:-  , and Salmonella Virchow (the relevant Salmonella serotypes).’.
+
+## Article 5 — Repeal of Regulation (EC) No 1168/2006
+
+Regulation (EC) No 1168/2006 is repealed.
+
+References to Regulation (EC) No 1168/2006 shall be construed as references to this Regulation.
+
+## Article 6 — Entry into force and applicability
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Testing scheme necessary to verify the achievement of the Union target for the reduction of Salmonella Enteritidis and Salmonella Typhimurium in adult laying hens of Gallus gallus, as referred to in Article 1(2)**
+
+**1\. SAMPLING FRAME**
+
+The sampling frame shall cover all flocks of adult laying hens of Gallus gallus (‘laying flocks’) within the framework of the national control programmes provided for in Article 5 of Regulation (EC) No 2160/2003.
+
+**2\. MONITORING IN LAYING FLOCKS**
+
+**2.1. Frequency and status of sampling**
+
+Laying flocks shall be sampled at the initiative of the food business operator and by the competent authority.
+
+Sampling at the initiative of the food business operator shall take place at least every 15 weeks. The first sampling shall take place at the flock-age of 24 +/– 2 weeks.
+
+Sampling by the competent authority shall take place at least:
+
+(a) in one flock per year per holding comprising at least 1 000 birds;
+
+(b) at the age of 24 +/– 2 weeks in laying flocks housed in buildings where the relevant Salmonella was detected in the preceding flock;
+
+(c) in any case of suspicion of Salmonella infection when investigating food-borne outbreaks in accordance with Article 8 of Directive 2003/99/EC or any cases where the competent authority considers it appropriate, using the sampling protocol laid down in point 4(b) of Part D to Annex II to Regulation (EC) No 2160/2003;
+
+(d) in all other laying flocks on the holding in case Salmonella Enteritidis or Salmonella Typhimurium is detected in one laying flock on the holding;
+
+(e) in cases where the competent authority considers it appropriate.
+
+A sampling carried out by the competent authority may replace one sampling at the initiative of the food business operator.
+
+**2.2. Sampling protocol**
+
+In order to maximise the sensitivity of the sampling, and to ensure the correct application of the sampling protocol, the competent authority or the food business operator shall ensure that samples are taken by trained persons.
+
+2.2.1. Sampling by the food business operator
+
+(a) In cage flocks, 2 × 150 grams of naturally pooled faeces that have accumulated on scrapers or belt cleaners shall be taken from all belts or scrapers in the house after running the manure removal system; however, in the case of cage houses without scrapers or belts 2 × 150 grams of mixed fresh faeces must be collected from 60 different places beneath the cages in the dropping pits.
+
+In cage houses where a sufficient amount of faeces does not accumulate on scrapers or belt cleaners at the discharge end of belts, four or more moistened fabric swabs of at least 900 cm2 per swab shall be used to swab as large a surface area as possible at the discharge end of all accessible belts after they have been run, ensuring each swab is coated on both sides with faecal material from the belts and scrapers or belt cleaners.
+
+(b) In barn or free-range houses, two pairs of boot swabs or socks shall be taken.
+
+Boot swabs used must be sufficiently absorptive to soak up moisture. The surface of the boot swab must be moistened using appropriate diluents.
+
+The samples must be taken while walking through the house using a route that produces representative samples for all parts of the house or the respective sector. This shall include littered and slatted areas provided that slats are safe to walk on, but not areas outside the house in the case of flocks with outdoor access. All separate pens within a house must be included in the sampling. On completion of the sampling in the chosen sector, boot swabs must be removed carefully so as not to dislodge adherent material.
+
+In multi-tier barn or free range houses in which most of the faecal material is removed from the house by dropping belts, one pair of boot swabs shall be taken by walking around in littered areas and at least a second pair of moistened fabric swabs shall be taken from all accessible dropping belts, as in the second paragraph of point (a).
+
+The two samples can be pooled together to form one sample for testing.
+
+2.2.2. Sampling by the competent authority
+
+At least one sample must be collected using the sampling protocol in addition to samples referred to under point 2.2.1. Further samples shall be taken in order to ensure representative sampling if required by the distribution or the size of the flock.
+
+In the case of sampling referred to in point 2.1(b), (c), (d) and (e), the competent authority shall satisfy itself by conducting further checks, namely by laboratory tests and/or documentary checks as appropriate to ensure that the results of examinations for Salmonella in birds are not affected by the use of antimicrobials in the flocks.
+
+Where the presence of Salmonella Enteritidis and Salmonella Typhimurium is not detected but antimicrobials or bacterial growth inhibitory effects are detected it shall be considered and accounted for as an infected laying flock for the purpose of the Union target.
+
+The competent authority may decide to allow replacement of one faecal sample or one pair of boot swabs by a dust sample of 100 grams collected from multiple places throughout the house from surfaces with a visible presence of dust. As an alternative one or several moistened fabric swab(s) of at least 900 cm2 surface area in total may be used instead to gather dust from multiple surfaces throughout the house, ensuring that each swab is well coated with dust on both sides.
+
+The competent authority may decide to increase the minimum number of samples in order to ensure representative sampling on a case-by-case evaluation of epidemiological parameters, namely the biosecurity conditions, the distribution or size of the flock or other relevant conditions.
+
+**3\. EXAMINATION OF THE SAMPLES**
+
+**3.1. Transport and preparation of the samples**
+
+Samples shall preferably be sent by express mail or courier to the laboratories referred to in Articles 11 and 12 of Regulation (EC) No 2160/2003, within 24 hours after collection. If they are not sent within 24 hours, they shall be stored refrigerated. The samples may be transported at ambient temperature provided that excessive heat (namely over 25 °C) or exposure to sunlight is avoided. At the laboratory the samples shall be kept refrigerated until examination, which must be started within 48 hours following receipt and within 4 days after sampling.
+
+Separate preparations shall be made of the boot swabs and dust or the fabric dust swab in the case of samples by the competent authority, but as regards samples by food business operators the different sample types may be combined in one test.
+
+3.1.1. Boot and fabric swab samples
+
+(a) The two pairs of boot swabs (or ‘socks’) or dust swabs shall be carefully unpacked to avoid dislodging adherent faecal material, pooled and placed in 225 ml of Buffered Peptone Water (BPW) which has been pre-warmed to room temperature, or the 225 ml of diluent must be added directly to the two pairs of boot swabs in their container as received in the laboratory. The boot/socks or fabric swab shall be fully submersed in BPW to provide sufficient free liquid around the sample for migration of Salmonella away from the sample and therefore more BPW may be added if necessary.
+
+(b) The sample shall be swirled to fully saturate it and culture shall be continued by using the detection method set out in point 3.2.
+
+3.1.2. Other faecal and dust material
+
+(a) The faeces samples shall be pooled and thoroughly mixed and a 25-gram sub-sample shall be collected for the culture.
+
+(b) The 25-gram sub-sample (or 50 ml of suspension containing 25 grams of the initial sample) shall be added to 225 ml of BPW which has been pre-warmed to room temperature.
+
+(c) Culture of the sample shall be continued by using the detection method set out in point 3.2.
+
+If ISO standards on the preparation of relevant samples for the detection of Salmonella are agreed on, they shall be applied and replace those set out in points 3.1.1 and 3.1.2.
+
+3.1.3. In case of collection of fabric swabs in accordance with point 2.2.1(a), second paragraph, pooling shall occur in accordance with point 3.1.1.
+
+**3.2. Detection method**
+
+The detection of Salmonella spp. shall be carried out according to EN ISO 6579-1.
+
+After incubation the samples in BPW shall not be shaken, swirled or otherwise agitated.
+
+**3.3. Serotyping**
+
+At least one isolate from each positive sample taken by the competent authority shall be serotyped, following the Kaufmann-White-LeMinor scheme. In isolates taken by the food business operators, at least the serotyping for Salmonella Enteritidis and Salmonella Typhimurium must be carried out.
+
+**3.4. Alternative methods**
+
+Alternative methods may be used instead of the methods for detection and serotyping provided for in points 3.1, 3.2 and 3.3 of this Annex, if validated in accordance with EN ISO 16140-2 (for alternative detection methods).
+
+**3.5. Testing for antimicrobial resistance**
+
+The isolates shall be tested for antimicrobial resistance in accordance with Article 2 of Commission Decision 2007/407/EC ( 1 ).
+
+**3.6. Storage of strains**
+
+The competent authority shall ensure that at least one isolated strain of the relevant Salmonella serotypes from sampling as part of official controls per house and per year is stored for possible future phagetyping or antimicrobial susceptibility testing, using the normal methods for culture collection, which must ensure integrity of the strains for a minimum period of 2 years.
+
+If the competent authority so decides, isolates from sampling by food business operators shall also be stored for these purposes.
+
+**4\. RESULTS AND REPORTING**
+
+**4.1. A laying flock shall be considered positive for the purpose of ascertaining the achievement of the Union target where:**
+
+(a) the presence of the relevant Salmonella serotypes (other than vaccine strains) has been detected in one or more samples taken in the flock, even if the relevant Salmonella serotype is only detected in the dust sample or dust swab; or
+
+(b) antimicrobials or bacterial growth inhibitors have been detected in the flock.
+
+This rule shall not apply in exceptional cases described in Annex II D point 4 of Regulation (EC) No 2160/2003, where the initial Salmonella positive result has not been confirmed by that respective sampling protocol.
+
+**4.2. A positive laying flock shall only be counted once regardless of:**
+
+(a) how often the relevant Salmonella serotype has been detected in this flock during the production period;
+
+or
+
+(b) whether the sampling was carried out at the initiative of the food business operator or by the competent authority.
+
+However, if sampling during the production period is spread over 2 calendar years, the result of each year shall be reported separately.
+
+**4.3. Reporting shall include:**
+
+(a) the total number of adult laying flocks which were tested at least once during the year of reporting;
+
+(b) the results of the testing including:
+
+(i) the total number of laying flocks positive with any Salmonella serotype in the Member State;
+
+(ii) the number of laying flocks positive at least once with Salmonella Enteritidis and Salmonella Typhimurium;
+
+(iii) the number of positive laying flocks for each Salmonella serotype or for Salmonella unspecified (isolates that are untypable or not serotyped);
+
+(c) explanations of the results, in particular concerning exceptional cases or any substantial changes in number of flocks tested and/or found positive.
+
+The results and any additional relevant information shall be reported as part of the report on trends and sources provided for in Article 9(1) of Directive 2003/99/EC.
+
+( 1 ) OJ L 153, 14.6.2007, p. 26.

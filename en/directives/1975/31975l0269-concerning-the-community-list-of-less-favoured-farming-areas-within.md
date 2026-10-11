@@ -32,9 +32,11 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 27 June 1977</td><td> L 179</td><td>28</td><td>19.7.1977</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 

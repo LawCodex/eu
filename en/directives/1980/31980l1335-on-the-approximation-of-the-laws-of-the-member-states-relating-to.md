@@ -32,9 +32,11 @@ on the approximation of the laws of the Member States relating to methods of ana
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Directive 87/143/EEC of 10 February 1987</td><td> L 57</td><td>56</td><td>27.2.1987</td></tr>
+</table>
 
 FIRST COMMISSION DIRECTIVE
 
@@ -674,11 +676,13 @@ It occasionally happens that the liquid phase is still cloudy after centrifuging
 
 6.3.4. Inject 3 µl of this solution (6.3.3) under the conditions described in section 6.1. Repeat this operation. For the conditions described above, the following retention times can be given as guide values:
 
+<table>
 <tbody><tr><td>methanol</td><td>approximately one minute</td></tr>
 <tr><td>acetonitrile</td><td>approximately 2 · 5 minutes</td></tr>
 <tr><td>chloroform</td><td>approximately six minutes</td></tr>
 <tr><td colspan="2">dimethylformamide &gt; 15 minutes</td></tr>
 </tbody>
+</table>
 
 6.3.5. Determination of the relative response factor
 

@@ -1,0 +1,1762 @@
+---
+title: "Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device Text with EEA relevance"
+identifier: "32013R0812"
+eli: "http://data.europa.eu/eli/reg_del/2013/812/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2013-02-18
+entry_into_force: 2013-09-29
+last_amended: 2018-04-26
+consolidated_version: "02013R0812-20180426"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0812-20180426"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device Text with EEA relevance
+
+**COMMISSION DELEGATED REGULATION (EU) No 812/2013**
+
+**of 18 February 2013**
+
+**supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 518/2014 of 5 March 2014 </td><td> L 147</td><td>1</td><td>17.5.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2017/254 of 30 November 2016 </td><td> L 38</td><td>1</td><td>15.2.2017</td></tr>
+<tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2018/543 of 23 January 2018 </td><td> L 90</td><td>63</td><td>6.4.2018</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 812/2013**
+
+**of 18 February 2013**
+
+**supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes requirements for the energy labelling of, and the provision of supplementary product information on, water heaters with a rated heat output ≤ 70 kW, hot water storage tanks with a storage volume ≤ 500 litres and packages of water heater ≤ 70 kW and solar device.
+
+2\. This Regulation shall not apply to:
+
+(a) water heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;
+
+(b) water heaters using solid fuels;
+
+(c) water heaters within the scope of Directive 2010/75/EU of the European Parliament and of the Council ( 1 );
+
+(d) combination heaters as defined in Article 2 of Commission Delegated Regulation (EU) No 811/2013 ( 2 );
+
+(e) water heaters which do not meet at least the load profile with the smallest reference energy, as specified in Annex VII, Table 3;
+
+(f) water heaters designed for making hot drinks and/or food only.
+
+## Article 2 — Definitions
+
+In addition to the definitions set out in Article 2 of Directive 2010/30/EU, the following definitions shall apply for the purposes of this Regulation:
+
+(1) ‘water heater’ means a device that:
+
+(a) is connected to an external supply of drinking or sanitary water;
+
+(b) generates and transfers heat to deliver drinking or sanitary hot water at given temperature levels, quantities and flow rates during given intervals; and
+
+(c) is equipped with one or more heat generators;
+
+(2) ‘heat generator’ means the part of a water heater that generates the heat using one or more of the following processes:
+
+(a) combustion of fossil fuels and/or biomass fuels;
+
+(b) use of the Joule effect in electric resistance heating elements;
+
+(c) capture of ambient heat from an air source, water source or ground source, and/or waste heat;
+
+(3) ‘rated heat output’ means the declared heat output of the water heater when providing water heating at standard rating conditions, expressed in kW;
+
+(4) ‘storage volume’ (V) means the rated volume of a hot water storage tank, expressed in litres;
+
+(5) ‘standard rating conditions’ means the operating conditions of water heaters for establishing the rated heat output, water heating energy efficiency and sound power level, and of hot water storage tanks for establishing the standing loss;
+
+(6) ‘biomass’ means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;
+
+(7) ‘biomass fuel’ means a gaseous or liquid fuel produced from biomass;
+
+(8) ‘fossil fuel’ means a gaseous or liquid fuel of fossil origin;
+
+(9) ‘hot water storage tank’ means a vessel for storing hot water for water and/or space heating purposes, including any additives, which is not equipped with any heat generator except possibly one or more back-up immersion heaters;
+
+(10) ‘back-up immersion heater’ means a Joule effect electric resistance heater that is part of a hot water storage tank and generates heat only when the external heat source is disrupted (including during maintenance periods) or out of order, or that is part of a solar hot water storage tank and provides heat when the solar heat source is not sufficient to satisfy required comfort levels;
+
+(11) ‘solar device’ means a solar-only system, a solar collector, a solar hot water storage tank or a pump in the collector loop, which are placed on the market separately;
+
+(12) ‘solar-only system’ means a device that is equipped with one or more solar collectors and solar hot water storage tanks and possibly pumps in the collector loop and other parts, which is placed on the market as one unit and is not equipped with any heat generator except possibly one or more back-up immersion heaters;
+
+(13) ‘package of water heater and solar device’ means a package offered to the end-user containing one or more water heaters and one or more solar devices;
+
+(14) ‘water heating energy efficiency’ (ηwh ) means the ratio between the useful energy provided by a water heater or a package of water heater and solar device and the energy required for its generation, expressed in %;
+
+(15) ‘sound power level’ (LWA ) means the A-weighted sound power level, indoors and/or outdoors, expressed in dB;
+
+(16) ‘standing loss’ (S) means the heating power dissipated from a hot water storage tank at given water and ambient temperatures, expressed in W;
+
+(17) ‘heat pump water heater’ means a water heater that uses ambient heat from an air source, water source or ground source, and/or waste heat for heat generation.
+
+For the purposes of Annexes II to IX, additional definitions are set out in Annex I.
+
+## Article 3 — Responsibilities of suppliers and timetable
+
+1\. From 26 September 2015 suppliers placing water heaters on the market and/or putting them into service, including those integrated in packages of water heater and solar device, shall ensure that:
+
+(a) a printed label complying with the format and content of information set out in point 1.1 of Annex III is provided for each water heater conforming to the water heating energy efficiency classes set out in point 1 of Annex II, whereby: for heat pump water heaters, the printed label is provided at least in the packaging of the heat generator; for water heaters intended for use in packages of water heater and solar device, a second label complying with the format and content of information set out in point 3 of Annex III is provided for each water heater;
+
+(b) a product fiche, as set out in point 1 of Annex IV, is provided for each water heater, whereby: for heat pump water heaters, the product fiche is provided at least for the heat generator; for water heaters intended for use in packages of water heater and solar device, a second fiche, as set out in point 4 of Annex IV, is provided;
+
+(c) the technical documentation, as set out in point 1 of Annex V, is provided on request to the authorities of the Member States and to the Commission;
+
+(d) any advertisement relating to a specific water heater model and containing energy-related or price information includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(e) any technical promotional material concerning a specific water heater model and describing its specific technical parameters includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(f) an electronic label in the format and containing the information set out in point 1.1 of Annex III is made available to dealers for each water heater model conforming to the water heating energy efficiency classes set out in point 1 of Annex II;
+
+(g) an electronic product fiche as set out in point 1 of Annex IV is made available to dealers for each water heater model, whereby for heat pump water heaters models, the electronic product fiche is made available to dealers at least for the heat generator.
+
+From 26 September 2017 a printed label complying with the format and content of information set out in point 1.2 of Annex III shall be provided for each water heater conforming to the water heating energy efficiency classes set out in point 1 of Annex II, whereby: for heat pump water heaters, the printed label shall be provided at least in the packaging of the heat generator.
+
+From 26 September 2017 an electronic label in the format and containing the information set out in point 1.2 of Annex III shall be made available to dealers for each water heater model conforming to the water heating energy efficiency classes set out in point 1 of Annex II.
+
+2\. From 26 September 2015 suppliers placing hot water storage tanks on the market and/or putting them into service shall ensure that:
+
+(a) a printed label complying with the format and content of information set out in point 2.1 of Annex III is provided for each hot water storage tank conforming to the energy efficiency classes set out in point 2 of Annex II;
+
+(b) a product fiche, as set out in point 2 of Annex IV, is provided;
+
+(c) the technical documentation, as set out in point 2 of Annex V, is provided on request to the authorities of the Member States and to the Commission;
+
+(d) any advertisement relating to a specific hot water storage tank model and containing energy-related or price information includes a reference to the energy efficiency class for that model;
+
+(e) any technical promotional material concerning a specific hot water storage tank model and describing its specific technical parameters includes a reference to the energy efficiency class for that model;
+
+(f) an electronic label in the format and containing the information set out in point 2.1 of Annex III is made available to dealers for each hot water storage tank model in accordance with the energy efficiency classes set out in point 2 of Annex II;
+
+(g) an electronic product fiche as set out in point 2 of Annex IV is made available to dealers for each hot water storage tank model.
+
+From 26 September 2017 a printed label complying with the format and content of information as set out in point 2.2 of Annex III shall be provided for each hot water storage tank conforming to the energy efficiency classes set out in point 2 of Annex II.
+
+From 26 September 2017 an electronic label in the format and containing the information set out in point 2.2 of Annex III shall be made available to dealers for each hot water storage tank model, in accordance with the energy efficiency classes set out in point 2 of Annex II.
+
+3\. From 26 September 2015 suppliers placing solar devices on the market and/or putting them into service shall ensure that:
+
+(a) a product fiche, as set out in point 3 of Annex IV, is provided;
+
+(b) the technical documentation, as set out in point 3 of Annex V, is provided on request to the authorities of the Member States and to the Commission;
+
+(c) an electronic product fiche, as set out in point 3 of Annex IV, is made available to dealers for each solar device model.
+
+4\. From 26 September 2015 suppliers placing packages of water heater and solar device on the market and/or putting them into service shall ensure that:
+
+(a) a printed label complying with the format and content of information set out in point 3 of Annex III is provided for each package of water heater and solar device conforming to the water heating energy efficiency classes set out in point 1 of Annex II;
+
+(b) a product fiche, as set out in point 4 of Annex IV, is provided for each package of water heater and solar device;
+
+(c) the technical documentation, as set out in point 4 of Annex V, is provided on request to the authorities of the Member States and to the Commission;
+
+(d) any advertisement relating to a specific package of water heater and solar device model and containing energy-related or price information includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(e) any technical promotional material concerning a specific package of water heater and solar device model and describing its specific technical parameters includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(f) an electronic label in the format and containing the information set out in point 3 of Annex III is made available to dealers for each model comprising a package of water heater and solar device, in accordance with the water heating energy efficiency classes set out in point 1 of Annex II;
+
+(g) an electronic product fiche as set out in point 4 of Annex IV is made available to dealers for each model comprising a package of water heater and solar device.
+
+## Article 4 — Responsibilities of dealers
+
+1\. Dealers of water heaters shall ensure that:
+
+(a) each water heater, at the point of sale, bears the label provided by suppliers in accordance with Article 3(1), as set out in point 1 of Annex III, on the outside of the front of the appliance, in such a way as to be clearly visible;
+
+(b) water heaters offered for sale, hire or hire-purchase, where the end-user cannot be expected to see the water heater displayed, are marketed with the information provided by the suppliers in accordance with point 1 of Annex VI, except where the offer is made through the internet, in which case the provisions in Annex X shall apply;
+
+(c) any advertisement relating to a specific water heater model and containing energy-related or price information includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(d) any technical promotional material concerning a specific water heater model and describing its specific technical parameters includes a reference to the water heating energy efficiency class under average climate conditions for that model.
+
+2\. Dealers of hot water storage tanks shall ensure that:
+
+(a) each hot water storage tank, at the point of sale, bears the label provided by suppliers in accordance with Article 3(2), as set out in point 2 of Annex III, on the outside of the front of the appliance, in such a way as to be clearly visible;
+
+(b) hot water storage tanks offered for sale, hire or hire-purchase, where the end user cannot be expected to see the hot water storage tank displayed, are marketed with the information provided by the suppliers in accordance with point 2 of Annex VI; except where the offer is made through the internet in which case the provisions in Annex X shall apply;
+
+(c) any advertisement relating to a specific hot water storage tank model and containing energy-related or price information includes a reference to the energy efficiency class for that model;
+
+(d) any technical promotional material concerning a specific hot water storage tank model and describing its specific technical parameters includes a reference to the energy efficiency class for that model.
+
+3\. Dealers of packages of water heater and solar device shall ensure, based on the label and fiches provided by suppliers in accordance with Article 3(1), (3) and (4), that:
+
+(a) any offer for a specific package includes the water heating energy efficiency and the water heating energy efficiency class for that package under average, colder or warmer climate conditions, as applicable, by displaying with the package the label set out in point 3 of Annex III and providing the fiche set out in point 4 of Annex IV, duly filled in according to the characteristics of that package;
+
+(b) packages of water heater and solar device offered for sale, hire or hire purchase, where the end-user cannot be expected to see the package of water heater and solar device displayed, are marketed with the information provided in accordance with point 3 of Annex VI, except where the offer is made through the internet, in which case the provisions in Annex X shall apply;
+
+(c) any advertisement relating to a specific package of water heater and solar device model and containing energy-related or price information includes a reference to the water heating energy efficiency class under average climate conditions for that model;
+
+(d) any technical promotional material concerning a specific package of water heater and solar device model and describing its specific technical parameters includes a reference to the water heating energy efficiency class under average climate conditions for that model.
+
+## Article 5 — Measurement and calculation methods
+
+The information to be provided pursuant to Articles 3 and 4 shall be obtained by reliable, accurate and reproducible measurement and calculation methods which take into account the recognised state-of-the-art measurement and calculation methods, as set out in Annex VII and Annex VIII.
+
+## Article 6 — Verification procedure for market surveillance purposes
+
+Member States shall apply the procedure set out in Annex IX when assessing the conformity of the declared water heating energy efficiency class, water heating energy efficiency, annual energy consumption and sound power level of water heaters and the declared energy efficiency class and standing loss of hot water storage tanks.
+
+## Article 7 — Review
+
+The Commission shall review this Regulation in the light of technological progress no later than five years after its entry into force. The review shall in particular assess any significant changes in the market shares of various types of appliances and the appropriateness of the package fiche and label set out in point 3 of Annex III and point 4 of Annex IV.
+
+## Article 8 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Definitions applicable for Annexes II to IX**
+
+For the purposes of Annexes II to IX, the following definitions shall apply:
+
+(1) ‘conventional water heater’ means a water heater that generates heat using the combustion of fossil and/or biomass fuels and/or the Joule effect in electric resistance heating elements;
+
+(2) ‘solar water heater’ means a water heater equipped with one or more solar collectors, solar hot water storage tanks, heat generators and possibly pumps in the collector loop and other parts, a solar water heater is placed on the market as one unit;
+
+(3) ‘load profile’ means a given sequence of water draw-offs, as specified in Annex VII, Table 3; each water heater meets at least one load profile;
+
+(4) ‘water draw-off’ means a given combination of useful water flow rate, useful water temperature, useful energy content and peak temperature, as specified in Annex VII, Table 3;
+
+(5) ‘useful water flow rate’ (f) means the minimum flow rate, expressed in litres per minute, for which hot water is contributing to the reference energy, as specified in Annex VII, Table 3;
+
+(6) ‘useful water temperature’ (Tm ) means the water temperature, expressed in degrees Celsius, at which hot water starts contributing to the reference energy, as specified in Annex VII, Table 3;
+
+(7) ‘useful energy content’ (Qtap ) means the energy content of hot water, expressed in kWh, provided at a temperature equal to, or above, the useful water temperature, and at water flow rates equal to, or above, the useful water flow rate, as specified in Annex VII, Table 3;
+
+(8) ‘energy content of hot water’ means the product of the specific heat capacity of water, the average temperature difference between the hot water output and cold water input, and the total mass of the hot water delivered;
+
+(9) ‘peak temperature’ (Tp ) means the minimum water temperature, expressed in degrees Celsius, to be achieved during water draw-off, as specified in Annex VII, Table 3;
+
+(10) ‘reference energy’ (Qref ) means the sum of the useful energy content of water draw-offs, expressed in kWh, in a particular load profile, as specified in Annex VII, Table 3;
+
+(11) ‘maximum load profile’ means the load profile with the greatest reference energy that a water heater is able to provide while fulfilling the temperature and flow rate conditions of that load profile;
+
+(12) ‘declared load profile’ means the load profile applied when determining water heating energy efficiency;
+
+(13) ‘conversion coefficient’ (CC) means a coefficient reflecting the estimated 40 % average EU generation efficiency referred to in Directive 2012/27/EU of the European Parliament and of the Council ( 3 ); the value of the conversion coefficient is CC = 2,5;
+
+(14) ‘daily electricity consumption’ (Qelec ) means the consumption of electricity over 24 consecutive hours under the declared load profile and under given climate conditions, expressed in kWh in terms of final energy;
+
+(15) ‘daily fuel consumption’(Qfuel) means the consumption of fuels over 24 consecutive hours under the declared load profile and under given climate conditions, expressed in kWh in terms of GCV, and for the purposes of point 4 in Annex VIII expressed in GJ in terms of GCV;
+
+(16) ‘gross calorific value’ (GCV) means the total amount of heat released by a unit quantity of fuel when it is burned completely with oxygen and when the products of combustion are returned to ambient temperature; this quantity includes the condensation heat of any water vapour contained in the fuel and of the water vapour formed by the combustion of any hydrogen contained in the fuel;
+
+(17) ‘smart control’ means a device that automatically adapts the water heating process to individual usage conditions with the aim of reducing energy consumption;
+
+(18) ‘smart control compliance’ (smart) means the measure of whether a water heater equipped with smart controls fulfils the criterion set out in point 5 of Annex VIII;
+
+(19) ‘smart control factor’ (SCF) means the water heating energy efficiency gain due to smart control under the conditions set out in point 3 of Annex VII;
+
+(20) ‘weekly electricity consumption with smart controls’ (Qelec,week,smart ) means the weekly electricity consumption of a water heater with the smart control function enabled, expressed in kWh in terms of final energy;
+
+(21) ‘weekly fuel consumption with smart controls’ (Qfuel,week,smart ) means the weekly fuel consumption of a water heater with the smart control function enabled, expressed in kWh in terms of GCV;
+
+(22) ‘weekly electricity consumption without smart controls’ (Qelec,week ) means the weekly electricity consumption of a water heater with the smart control function disabled, expressed in kWh in terms of final energy;
+
+(23) ‘weekly fuel consumption without smart controls’ (Qfuel,week ) means the weekly fuel consumption of a water heater with the smart control function disabled, expressed in kWh in terms of GCV;
+
+(24) ‘annual electricity consumption’ (AEC) means the annual electricity consumption of a water heater under the declared load profile and under given climate conditions, expressed in kWh in terms of final energy;
+
+(25) ‘annual fuel consumption’ (AFC) means the annual fossil and/or biomass fuel consumption of a water heater under the declared load profile and under given climate conditions, expressed in GJ in terms of GCV;
+
+(26) ‘ambient correction term’ (Qcor ) means a term which takes into account the fact that the place where the water heater is installed is not an isothermal place, expressed in kWh;
+
+(27) ‘standby heat loss’ (Pstby ) means the heat loss of a heat pump water heater in operating modes without heat demand, expressed in kW;
+
+(28) ‘average climate conditions’, ‘colder climate conditions’ and ‘warmer climate conditions’ mean the temperatures and global solar irradiance conditions characteristic for the cities of Strasbourg, Helsinki and Athens, respectively;
+
+(29) ‘annual energy consumption’ (Qtota ) means the annual energy consumption of a solar water heater, expressed in kWh in terms of primary energy and/or kWh in terms of GCV;
+
+(30) ‘annual non-solar heat contribution’ (Qnonsol ), means the annual contribution of electricity (expressed in kWh in terms of primary energy) and/or fuels (expressed in kWh in terms of GCV) to the useful heat output of a solar water heater or a package of water heater and solar device, taking into account the annual amount of heat captured by the solar collector and the heat losses of the solar hot water storage tank;
+
+(31) ‘solar collector’ means a device designed to absorb global solar irradiance and to transfer the heat energy so produced to a fluid passing through it; it is characterised by the collector aperture area, the zero-loss efficiency, the first order coefficient, the second-order coefficient and the incidence angle modifier;
+
+(32) ‘global solar irradiance’ means the rate of total incoming solar energy, both direct and diffuse, on a collector plane with an inclination of 45 degrees and southward orientation at the Earth’s surface, expressed in W/m2;
+
+(33) ‘collector aperture area’ (Asol ) means the maximum projected area through which unconcentrated solar radiation enters the collector, expressed in m2;
+
+(34) ‘zero-loss efficiency’ (η0 ) means the efficiency of the solar collector, when the solar collector mean fluid temperature is equal to the ambient temperature;
+
+(35) ‘first-order coefficient’ (a1 ) means the heat loss coefficient of a solar collector, expressed in W/(m2 K);
+
+(36) ‘second-order coefficient’ (a2 ) means the coefficient measuring the temperature dependence of the first order coefficient, expressed in W/(m2 K2);
+
+(37) ‘incidence angle modifier’ (IAM) means the ratio of the useful heat output of the solar collector at a given incidence angle and its useful heat output at an incidence angle of 0 degrees;
+
+(38) ‘incidence angle’ means the angle between the direction to the sun and the direction perpendicular to the solar collector aperture;
+
+(39) ‘solar hot water storage tank’ means a hot water storage tank storing heat energy produced by one or more solar collectors;
+
+(40) ‘heat generator water heating energy efficiency’ (ηwh,nonsol ) means the water heating energy efficiency of a heat generator which is part of a solar water heater, expressed in %, established under average climate conditions and without using solar heat input;
+
+(41) ‘auxiliary electricity consumption’ (Qaux ), for the purpose of Figure 1 in Annex IV referred to as ‘auxiliary electricity’, means the annual electricity consumption of a solar water heater or a solar-only system that is due to the pump power consumption and the standby power consumption, expressed in kWh in terms of final energy;
+
+(42) ‘pump power consumption’ (solpump) means the rated electrical power consumption of the pump in the collector loop of a solar water heater or solar-only system, expressed in W;
+
+(43) ‘standby power consumption’ (solstandby) means the rated electrical power consumption of a solar water heater or solar-only system when the pump and the heat generator are inactive, expressed in W;
+
+(44) ‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific water heater, hot water storage tank, solar device or package of water heater and solar device model from other models with the same trade mark, supplier’s name or dealer’s name.
+
+## ANNEX II
+
+**Energy efficiency classes**
+
+**1\. WATER HEATING ENERGY EFFICIENCY CLASSES OF WATER HEATERS**
+
+The water heating energy efficiency class of a water heater shall be determined on the basis of its water heating energy efficiency as set out in Table 1.
+
+The water heating energy efficiency of a water heater shall be calculated in accordance with point 3 of Annex VIII, for solar water heaters and heat pump water heaters under average climate conditions.
+
+**Table 1**
+
+**Water heating energy efficiency classes of water heaters, categorised by declared load profiles, ηwh in %**
+
+|  | 3XS | XXS | XS | S | M | L | XL | XXL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A+++ | ηwh ≥ 62 | ηwh ≥ 62 | ηwh ≥ 69 | ηwh ≥ 90 | ηwh ≥ 163 | ηwh ≥ 188 | ηwh ≥ 200 | ηwh ≥ 213 |
+| A++ | 53 ≤ ηwh < 62 | 53 ≤ ηwh < 62 | 61 ≤ ηwh < 69 | 72 ≤ ηwh < 90 | 130 ≤ ηwh < 163 | 150 ≤ ηwh < 188 | 160 ≤ ηwh < 200 | 170 ≤ ηwh < 213 |
+| A+ | 44 ≤ ηwh < 53 | 44 ≤ ηwh < 53 | 53 ≤ ηwh < 61 | 55 ≤ ηwh < 72 | 100 ≤ ηwh < 130 | 115 ≤ ηwh < 150 | 123 ≤ ηwh < 160 | 131 ≤ ηwh < 170 |
+| A | 35 ≤ ηwh < 44 | 35 ≤ ηwh < 44 | 38 ≤ ηwh < 53 | 38 ≤ ηwh < 55 | 65 ≤ ηwh < 100 | 75 ≤ ηwh < 115 | 80 ≤ ηwh < 123 | 85 ≤ ηwh < 131 |
+| B | 32 ≤ ηwh < 35 | 32 ≤ ηwh < 35 | 35 ≤ ηwh < 38 | 35 ≤ ηwh < 38 | 39 ≤ ηwh < 65 | 50 ≤ ηwh < 75 | 55 ≤ ηwh < 80 | 60 ≤ ηwh < 85 |
+| C | 29 ≤ ηwh < 32 | 29 ≤ ηwh < 32 | 32 ≤ ηwh < 35 | 32 ≤ ηwh < 35 | 36 ≤ ηwh < 39 | 37 ≤ ηwh < 50 | 38 ≤ ηwh < 55 | 40 ≤ ηwh < 60 |
+| D | 26 ≤ ηwh < 29 | 26 ≤ ηwh < 29 | 29 ≤ ηwh < 32 | 29 ≤ ηwh < 32 | 33 ≤ ηwh < 36 | 34 ≤ ηwh < 37 | 35 ≤ ηwh < 38 | 36 ≤ ηwh < 40 |
+| E | 22 ≤ ηwh < 26 | 23 ≤ ηwh < 26 | 26 ≤ ηwh < 29 | 26 ≤ ηwh < 29 | 30 ≤ ηwh < 33 | 30 ≤ ηwh < 34 | 30 ≤ ηwh < 35 | 32 ≤ ηwh < 36 |
+| F | 19 ≤ ηwh < 22 | 20 ≤ ηwh < 23 | 23 ≤ ηwh < 26 | 23 ≤ ηwh < 26 | 27 ≤ ηwh < 30 | 27 ≤ ηwh < 30 | 27 ≤ ηwh < 30 | 28 ≤ ηwh < 32 |
+| G | ηwh < 19 | ηwh < 20 | ηwh < 23 | ηwh < 23 | ηwh < 27 | ηwh < 27 | ηwh < 27 | ηwh < 28 |
+
+**2\. ENERGY EFFICIENCY CLASSES OF HOT WATER STORAGE TANKS**
+
+The energy efficiency class of a hot water storage tank shall be determined on the basis of its standing loss as set out in Table 2.
+
+**Table 2**
+
+**Energy efficiency classes of hot water storage tanks**
+
+| Energy efficiency class | Standing loss S in Watts, with storage volume V in litres |
+| --- | --- |
+| A+ | [image] |
+| A | [image] |
+| B | [image] |
+| C | [image] |
+| D | [image] |
+| E | [image] |
+| F | [image] |
+| G | [image] |
+
+## ANNEX III
+
+**The labels**
+
+**1\. WATER HEATERS**
+
+**1.1. Label 1**
+
+1.1.1. Conventional water heaters in water heating energy efficiency classes A to G
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. the water heating function, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII;
+
+IV. the water heating energy efficiency class, determined in accordance with point 1 of Annex II; the head of the arrow containing the water heating energy efficiency class of the water heater shall be placed at the same height as the head of the relevant energy efficiency class;
+
+V. the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+VI. the sound power level LWA , indoors, in dB, rounded to the nearest integer;
+
+VII. for conventional water heaters able to work only during off-peak hours, the pictogram referred to in point 4(d)(10) of this Annex may be added.
+
+(b) The design aspects of the label for conventional water heaters shall be in accordance with point 4 of this Annex.
+
+1.1.2. Solar water heaters in water heating energy efficiency classes A to G
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. the water heating function, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII;
+
+IV. the water heating energy efficiency class under average climate conditions, determined in accordance with point 1 of Annex II; the head of the arrow containing the water heating energy efficiency class of the water heater shall be placed at the same height as the head of the relevant energy efficiency class;
+
+V. the annual electricity consumption in kWh in terms of final energy or the annual fuel consumption in GJ in terms of GCV, under average, colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+VI. European solar map displaying three indicative global solar irradiance zones;
+
+VII. the sound power level LWA , indoors, in dB, rounded to the nearest integer.
+
+(b) The design aspects of the label for solar water heaters shall be in accordance with point 5 of this Annex.
+
+1.1.3. Heat pump water heaters in water heating energy efficiency classes A to G
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. the water heating function, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII;
+
+IV. the water heating energy efficiency class under average climate conditions, determined in accordance with point 1 of Annex II; the head of the arrow containing the water heating energy efficiency class of the water heater shall be placed at the same height as the head of the relevant energy efficiency class;
+
+V. the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, under average, colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+VI. European temperature map displaying three indicative temperature zones;
+
+VII. the sound power level LWA , indoors (if applicable) and outdoors, in dB, rounded to the nearest integer;
+
+VIII. for heat pump water heaters able to work only during off-peak hours, the pictogram referred to in point 6(d)(11) of this Annex may be added.
+
+(b) The design aspects of the label for heat pump water heaters shall be in accordance with point 6 of this Annex. By way of exception, where a model has been granted an ‘EU Ecolabel’ under Regulation (EC) No 66/2010 of the European Parliament and of the Council ( 4 ), a copy of the EU Ecolabel may be added.
+
+**1.2. Label 2**
+
+1.2.1. Conventional water heaters in water heating energy efficiency classes A+ to F
+
+(a) The information listed in point 1.1.1(a) of this Annex shall be included in the label.
+
+(b) The design aspects of the label for conventional water heaters shall be in accordance with point 4 of this Annex.
+
+1.2.2. Solar water heaters in water heating energy efficiency classes A+ to F
+
+(a) The information listed in point 1.1.2(a) of this Annex shall be included in the label.
+
+(b) The design aspects of the label for solar water heaters shall be in accordance with point 5 of this Annex.
+
+1.2.3. Heat pump water heaters in water heating energy efficiency classes A+ to F
+
+(a) The information listed in point 1.1.3(a) of this Annex shall be included in the label.
+
+(b) The design aspects of the label for heat pump water heaters shall be in accordance with point 6 of this Annex.
+
+**2\. HOT WATER STORAGE TANKS**
+
+**2.1. Label 1 for hot water storage tanks in energy efficiency classes A to G**
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. the water storage function;
+
+IV. the energy efficiency class, determined in accordance with point 2 of Annex II; the head of the arrow containing the energy efficiency class of the hot water storage tank shall be placed at the same height as the head of the relevant energy efficiency class;
+
+V. the standing loss in W, rounded to the nearest integer;
+
+VI. the hot water storage tank volume in litres, rounded to the nearest integer.
+
+(b) The design aspects of the label for hot water storage tanks shall be in accordance with point 7 of this Annex.
+
+**2.2. Label 2 for hot water storage tanks in energy efficiency classes A+ to F**
+
+(a) The information listed in point 2.1(a) of this Annex shall be included in the label.
+
+(b) The design aspects of the label for hot water storage tanks shall be in accordance with point 7 of this Annex.
+
+**3\. PACKAGES OF WATER HEATER AND SOLAR DEVICE**
+
+Label for packages of water heater and solar device in water heating energy efficiency classes A+++ to G
+
+(a) The following information shall be included in the label:
+
+I. dealer’s and/or supplier's name or trade mark;
+
+II. dealer’s and/or supplier's model(s) identifier;
+
+III. the water heating function, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII;
+
+IV. the water heating energy efficiency class of the water heater, determined in accordance with point 1 of Annex II;
+
+V. indication of whether a solar collector and hot water storage tank may be included in the package of water heater and solar device;
+
+VI. the water heating energy efficiency class of the package of water heater and solar device, determined in accordance with point 4 of Annex IV; the head of the arrow containing the water heating energy efficiency class of the package of water heater and solar device shall be placed at the same height as the head of the relevant energy efficiency class.
+
+(b) The design aspects of the label for packages of water heater and solar device shall be in accordance with point 8 of this Annex. For packages of water heater and solar device in water heating energy efficiency classes A+++ to D, the last classes E to G in the A+++ to G scale may be omitted.
+
+4\. The design of the label for conventional water heaters shall be the following:
+
+Whereby:
+
+(a) The label shall be at least 105 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(b) The background shall be white.
+
+(c) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(d) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border stroke: 4 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00. Pictogram as depicted: EU logo + energy label: width: 86 mm, height: 17 mm.
+
+[image] Sub-logos border: 1 pt, colour: cyan 100 %, length: 86 mm.
+
+[image] Water heating function:
+
+— Pictogram as depicted, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII: Calibri bold 16 pt, 100 % black.
+
+[image] A-G or A+-F scale:
+
+— Arrow: height: 7 mm, gap: 1 mm, colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class: 00-X-X-00,
+
+— Text: Calibri bold 16 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Water heating energy efficiency class:
+
+— Arrow: width: 22 mm, height: 12 mm, 100 % black,
+
+— Text: Calibri bold 24 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Sound power level, indoors:
+
+— Pictogram as depicted,
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm,
+
+— Value ‘YZ’: Calibri bold 15 pt, 100 % black,
+
+— Text ‘dB’: Calibri regular 10 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum or GJ/annum:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm,
+
+— Value ‘WXYZ’ or ‘YZ’: Calibri bold at least 20 pt, 100 % black,
+
+— Text ‘kWh/annum’ or ‘GJ/annum’: Calibri regular at least 15 pt, 100 % black.
+
+[image] If applicable, off-peak fitness:
+
+— Pictogram as depicted,
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] Year of label introduction and number of Regulation:
+
+— Text: Calibri bold 10 pt.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The supplier’s name or trade mark and model identifier shall fit in a space of 86 × 12 mm.
+
+5\. The design of the label for solar water heaters shall be the following:
+
+Whereby:
+
+(a) The label shall be at least 105 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(b) The background shall be white.
+
+(c) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(d) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border stroke: 4 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00. Pictogram as depicted: EU logo + energy label: width: 86 mm, height: 17 mm.
+
+[image] Sub-logos border: 1 pt, colour: cyan 100 %, length: 86 mm.
+
+[image] Water heating function:
+
+— Pictogram as depicted, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII: Calibri bold 16 pt, 100 % black.
+
+[image] A-G or A+-F scale:
+
+— Arrow: height: 7 mm, gap: 1 mm, colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class: 00-X-X-00,
+
+— Text: Calibri bold 16 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Water heating energy efficiency class:
+
+— Arrow: width: 22 mm, height: 12 mm, 100 % black,
+
+— Text: Calibri bold 24 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Sound power level, indoors:
+
+— Pictogram as depicted,
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Value ‘YZ’: Calibri bold 15 pt, 100 % black,
+
+— Text ‘dB’: Calibri regular 10 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum or GJ/annum:
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Values ‘WXYZ’ or ‘YZ’: Calibri at least 13 pt, 100 % black,
+
+— Text ‘kWh/annum’ or ‘GJ/annum’: Calibri regular at least 11 pt, 100 % black.
+
+[image] European solar map and colour squares:
+
+— Pictogram as depicted,
+
+— Colours: Dark blue: 86-51-00-00,
+
+Middle blue: 53-08-00-00,
+
+Light blue: 25-00-02-00.
+
+[image] Year of label introduction and number of Regulation:
+
+— Text: Calibri bold 10 pt.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The supplier’s name or trade mark and model identifier shall fit in a space of 86 × 12 mm.
+
+6\. The design of the label for heat pump water heaters shall be the following:
+
+Whereby:
+
+(a) The label shall be at least 105 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(b) The background shall be white.
+
+(c) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(d) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border stroke: 4 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00. Pictogram as depicted: EU logo + energy label: width: 86 mm, height: 17 mm.
+
+[image] Sub-logos border: 1 pt, colour: cyan 100 %, length: 86 mm.
+
+[image] Water heating function:
+
+— Pictogram as depicted, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII: Calibri bold 16 pt, 100 % black.
+
+[image] A-G or A+-F scale:
+
+— Arrow: height: 7 mm, gap: 1 mm, colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class: 00-X-X-00,
+
+— Text: Calibri bold 16 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Water heating energy efficiency class:
+
+— Arrow: width: 22 mm, height: 12 mm, 100 % black,
+
+— Text: Calibri bold 24 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Sound power level, indoors (if applicable) and outdoors:
+
+— Pictogram as depicted,
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Value ‘YZ’: Calibri bold 15 pt, 100 % black,
+
+— Text ‘dB’: Calibri regular 10 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum or GJ/annum:
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Values ‘WXYZ’ or ‘YZ’: Calibri at least 13 pt, 100 % black,
+
+— Text ‘kWh/annum’ or ‘GJ/annum’: Calibri regular at least 11 pt, 100 % black.
+
+[image] European temperature map and colour squares:
+
+— Pictogram as depicted,
+
+— Colours: Dark blue: 86-51-00-00,
+
+Middle blue: 53-08-00-00,
+
+Light blue: 25-00-02-00.
+
+[image] If applicable, off-peak fitness:
+
+— Pictogram as depicted,
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] Year of label introduction and number of Regulation:
+
+— Text: Calibri bold 10 pt.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The supplier’s name or trade mark and model identifier shall fit in a space of 86 × 12 mm.
+
+7\. The design of the label for hot water storage tanks shall be the following:
+
+Whereby:
+
+(a) The label shall be at least 105 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(b) The background shall be white.
+
+(c) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(d) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border stroke: 4 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00. Pictogram as depicted: EU logo + energy label: width: 86 mm, height: 17 mm.
+
+[image] Sub-logos border: 1 pt, colour: cyan 100 %, length: 86 mm.
+
+[image] Storage function:
+
+— Pictogram as depicted.
+
+[image] A-G or A+-F scale:
+
+— Arrow: height: 7 mm, gap: 1 mm, colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class: 00-X-X-00,
+
+— Text: Calibri bold 16 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Energy efficiency class:
+
+— Arrow: width: 22 mm, height: 12 mm, 100 % black,
+
+— Text: Calibri bold 24 pt, capitals, white, ‘+’ symbol: superscript.
+
+[image] Standing loss:
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Value ‘YZ’: Calibri bold 45 pt, 100 % black,
+
+— Text ‘W’: Calibri regular 30 pt, 100 % black.
+
+[image] Storage volume:
+
+— Border: 2 pt, colour: cyan 100 %, round corners: 3,5 mm,
+
+— Value ‘XYZ’: Calibri bold 45 pt, 100 % black,
+
+— Text ‘L’: Calibri regular 30 pt, 100 % black.
+
+[image] Year of label introduction and number of Regulation:
+
+— Text: Calibri bold 10 pt.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The supplier’s name or trade mark and model identifier shall fit in a space of 86 × 12 mm.
+
+8\. The design of the label for packages of water heater and solar device shall be the following:
+
+Whereby:
+
+(a) The label shall be at least 210 mm wide and 297 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(b) The background shall be white.
+
+(c) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(d) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border stroke: 6 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00. Pictogram as depicted: EU logo + energy label: width: 191 mm, height: 37 mm.
+
+[image] Sub-logos border: 2 pt, colour: cyan 100 %, length: 191 mm.
+
+[image] Water heating function:
+
+— Pictogram as depicted, including the declared load profile expressed as the appropriate letter in accordance with Table 3 of Annex VII: Calibri bold 22 pt, 100 % black.
+
+[image] Water Heater:
+
+— Pictogram as depicted.
+
+— Water heating energy efficiency class of water heater:
+
+Arrow: width: 24 mm, height: 14 mm, 100 % black,
+
+Text: Calibri bold 28 pt, capitals, white,
+
+— Border: 3 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] Package with solar collector and/or hot water storage tank:
+
+— Pictograms as depicted,
+
+— ‘+’ symbol: Calibri bold 50 pt, cyan 100 %,
+
+— Boxes: width: 12 mm, height: 12 mm, border: 4 pt, cyan 100 %,
+
+— Border: 3 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] A+++-G scale with border:
+
+— Arrow: height: 15 mm, gap: 3 mm, colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Seventh class: 00-X-X-00,
+
+If applicable, last classes: 00-X-X-00,
+
+— Text: Calibri bold 30 pt, capitals, white, ‘+’ symbols: superscript, aligned on a single row,
+
+— Border: 3 pt, colour: cyan 100 %, round corners: 3,5 mm.
+
+[image] Water heating energy efficiency class for package of water heater and solar device:
+
+— Arrow: width: 33 mm, height: 19 mm, 100 % black,
+
+— Text: Calibri bold 40 pt, capitals, white, ‘+’ symbols: superscript, aligned on a single row.
+
+[image] Year of label introduction and number of Regulation:
+
+— Text: Calibri bold 12 pt.
+
+[image] Dealer’s and/or supplier's name or trademark.
+
+[image] Dealer’s and/or supplier's model identifier:
+
+The dealer’s and/or supplier's name or trade mark and model identifier shall fit in a space of 191 × 19 mm.
+
+## ANNEX IV
+
+**Product Fiche**
+
+**1\. WATER HEATERS**
+
+1.1. The information in the product fiche of the water heater shall be provided in the following order and shall be included in the product brochure or other literature provided with the product:
+
+(a) supplier’s name or trade mark;
+
+(b) supplier’s model identifier;
+
+(c) the declared load profile, expressed by the appropriate letter and typical usage in accordance with Table 3 of Annex VII;
+
+(d) the water heating energy efficiency class of the model, determined in accordance with point 1 of Annex II, whereby: for solar water heaters and heat pump water heaters, under average climate conditions;
+
+(e) the water heating energy efficiency in %, rounded to the nearest integer and calculated in accordance with point 3 of Annex VIII, whereby: for solar water heaters and heat pump water heaters, under average climate conditions;
+
+(f) the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII, whereby: for solar water heaters and heat pump water heaters, under average climate conditions;
+
+(g) if applicable, other load profiles for which the water heater is suitable to use and the corresponding water heating energy efficiency and annual electricity consumption as set out in points (e) and (f);
+
+(h) the thermostat temperature settings of the water heater, as placed on the market by the supplier;
+
+(i) the sound power level LWA , indoors, in dB, rounded to the nearest integer (for heat pump water heaters if applicable);
+
+(j) if applicable, an indication that the water heater is able to work only during off-peak hours;
+
+(k) any specific precautions that shall be taken when the water heater is assembled, installed or maintained;
+
+(l) where the value of smart is declared as being ‘1’, an indication that the information on water heating energy efficiency, annual electricity and fuel consumption, as applicable, relate to enabled smart control settings only;
+
+in addition, for solar water heaters and heat pump water heaters:
+
+(m) the water heating energy efficiency in %, under colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 3 of Annex VIII;
+
+(n) the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, under colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+in addition, for solar water heaters:
+
+(o) the collector aperture area in m2, to two decimal places;
+
+(p) the zero-loss efficiency, to three decimal places;
+
+(q) the first-order coefficient in W/(m2 K), to two decimal places;
+
+(r) the second-order coefficient in W/(m2 K2), to three decimal places;
+
+(s) the incidence angle modifier, to two decimal places;
+
+(t) the storage volume in litres, rounded to the nearest integer;
+
+(u) the pump power consumption in W, rounded to the nearest integer;
+
+(v) the standby power consumption in W, to two decimal places;
+
+in addition, for heat pump water heaters:
+
+(w) the sound power level LWA , outdoors, in dB, rounded to the nearest integer.
+
+1.2. One fiche may cover a number of water heater models supplied by the same supplier.
+
+1.3. The information contained in the fiche may be given in the form of a copy of the label, either in colour or in black and white. Where this is the case, the information listed in point 1.1 not already displayed on the label shall also be provided.
+
+**2\. HOT WATER STORAGE TANKS**
+
+2.1. The information in the product fiche of the hot water storage tank shall be provided in the following order and shall be included in the product brochure or other literature provided with the product:
+
+(a) supplier’s name or trade mark;
+
+(b) supplier’s model identifier;
+
+(c) the energy efficiency class of the model, determined in accordance with point 2 of Annex II;
+
+(d) the standing loss in W, rounded to the nearest integer;
+
+(e) the storage volume in litres, rounded to the nearest integer.
+
+2.2. One fiche may cover a number of hot water storage tank models supplied by the same supplier.
+
+2.3. The information contained in the fiche may be given in the form of a copy of the label, either in colour or in black and white. Where this is the case, the information listed in point 2.1 not already displayed on the label shall also be provided.
+
+**3\. SOLAR DEVICES**
+
+3.1. The information in the product fiche of the solar device shall be provided in the following order and shall be included in the product brochure or other literature provided with the product (for pumps in the collector loop if applicable):
+
+(a) supplier’s name or trade mark;
+
+(b) supplier’s model identifier;
+
+(c) the collector aperture area in m2, to two decimal places;
+
+(d) the zero-loss efficiency, to three decimal places;
+
+(e) the first-order coefficient in W/(m2 K), to two decimal places;
+
+(f) the second-order coefficient in W/(m2 K2), to three decimal places;
+
+(g) the incidence angle modifier, to two decimal places;
+
+(h) the storage volume in litres, rounded to the nearest integer;
+
+(i) the annual non-solar heat contribution Qnonsol in kWh in terms of primary energy for electricity and/or in kWh in terms of GCV for fuels, for the load profiles M, L, XL and XXL under average climate conditions, rounded to the nearest integer;
+
+(j) the pump power consumption in W, rounded to the nearest integer;
+
+(k) the standby power consumption in W, to two decimal places;
+
+(l) the annual auxiliary electricity consumption Qaux in kWh in terms of final energy, rounded to the nearest integer.
+
+3.2. One fiche may cover a number of solar device models supplied by the same supplier.
+
+**4\. PACKAGES OF WATER HEATER AND SOLAR DEVICE**
+
+The fiche for packages of water heater and solar device shall contain the elements set out in Figure 1 for evaluating the water heating energy efficiency of a package of water heater and solar device, where the following information shall be included:
+
+— I: the value of the water heating energy efficiency of the water heater, expressed in %,
+
+— II: the value of the mathematical expression
+
+[image]
+
+, where
+
+Qref
+
+is taken from Table 3 in Annex VII and
+
+Qnonsol
+
+from the product fiche of the solar device for the declared load profile M, L, XL or XXL of the water heater,
+
+— III: the value of the mathematical expression
+
+[image]
+
+, expressed in %, where
+
+Qaux
+
+is taken from the product fiche of the solar device and Q
+
+ref
+
+from Table 3 in Annex VII for the declared load profile M, L, XL or XXL.
+
+**Figure 1**
+
+**Fiche for a package of water heater and solar device indicating the water heating energy efficiency of the package offered**
+
+## ANNEX V
+
+**Technical documentation**
+
+**1\. WATER HEATERS**
+
+For water heaters, the technical documentation referred to in Article 3(1)(c) shall include:
+
+(a) the name and address of the supplier;
+
+(b) a description of the water heater model sufficient for its unambiguous identification;
+
+(c) where appropriate, the references of the harmonised standards applied;
+
+(d) where appropriate, the other technical standards and specifications used;
+
+(e) the identification and signature of the person empowered to bind the supplier;
+
+(f) the results of the measurements for the technical parameters specified in point 7 of Annex VII;
+
+(g) the results of the calculations for the technical parameters specified in point 2 of Annex VIII;
+
+(h) any specific precautions that shall be taken when the water heater is assembled, installed or maintained.
+
+**2\. HOT WATER STORAGE TANKS**
+
+For hot water storage tanks, the technical documentation referred to in Article 3(2)(c) shall include:
+
+(a) the name and address of the supplier;
+
+(b) a description of the hot water storage tank model sufficient for its unambiguous identification;
+
+(c) where appropriate, the references of the harmonised standards applied;
+
+(d) where appropriate, the other technical standards and specifications used;
+
+(e) the identification and signature of the person empowered to bind the supplier;
+
+(f) the results of the measurements for the technical parameters specified in point 8 of Annex VII;
+
+(g) any specific precautions that shall be taken when the hot water storage tank is assembled, installed or maintained.
+
+**3\. SOLAR DEVICES**
+
+The technical documentation of solar devices referred to in Article 3(3)(b) shall include:
+
+(a) the name and address of the supplier;
+
+(b) a description of the solar device model sufficient for its unambiguous identification;
+
+(c) where appropriate, the references of the harmonised standards applied;
+
+(d) where appropriate, the other technical standards and specifications used;
+
+(e) the identification and signature of the person empowered to bind the supplier;
+
+(f) the results of the measurements for the technical parameters as specified in point 9 of Annex VII;
+
+(g) any specific precautions that shall be taken when the solar device is assembled, installed or maintained.
+
+**4\. PACKAGES OF WATER HEATER AND SOLAR DEVICE**
+
+For packages of water heater and solar device, the technical documentation referred to in Article 3(4)(c) shall include:
+
+(a) the name and address of the supplier;
+
+(b) a description of the package of water heater and solar device model sufficient for its unambiguous identification;
+
+(c) where appropriate, the references of the harmonised standards applied;
+
+(d) where appropriate, the other technical standards and specifications used;
+
+(e) the identification and signature of the person empowered to bind the supplier;
+
+(f) technical parameters:
+
+— the water heating energy efficiency in %, rounded to the nearest integer,
+
+— the technical parameters set out in points 1, 2 and 3 of this Annex;
+
+(g) any specific precautions that shall be taken when the package of water heater and solar device is assembled, installed or maintained.
+
+## ANNEX VI
+
+**Information to be provided in the cases where end-users cannot be expected to see the product displayed, except on the internet**
+
+**1\. WATER HEATERS**
+
+1.1. The information referred to in Article 4(1)(b) shall be provided in the following order:
+
+(a) the declared load profile, expressed by the appropriate letter and typical usage in accordance with Table 3 of Annex VII;
+
+(b) the water heating energy efficiency class of the model, under average climate conditions, in accordance with point 1 of Annex II;
+
+(c) the water heating energy efficiency in %, under average climate conditions, rounded to the nearest integer and calculated in accordance with point 3 of Annex VIII;
+
+(d) the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, under average climate conditions, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+(e) the sound power level, indoors, in dB, rounded to the nearest integer (for heat pump water heaters, if applicable);
+
+in addition, for solar water heaters and heat pump water heaters:
+
+(f) the water heating energy efficiency in %, under colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 3 of Annex VIII;
+
+(g) the annual electricity consumption in kWh in terms of final energy and/or the annual fuel consumption in GJ in terms of GCV, under colder and warmer climate conditions, rounded to the nearest integer and calculated in accordance with point 4 of Annex VIII;
+
+in addition, for solar water heaters:
+
+(h) the collector aperture area in m2, to two decimal places;
+
+(i) the storage volume in litres, rounded to the nearest integer;
+
+in addition, for heat pump water heaters:
+
+(j) the sound power level, outdoors, in dB, rounded to the nearest integer.
+
+1.2. Where other information contained in the product fiche is also provided, it shall be in the form and order specified in point 1 of Annex IV.
+
+1.3. The size and font in which the information referred in points 1.1 and 1.2 is printed or shown shall be legible.
+
+**2\. HOT WATER STORAGE TANKS**
+
+2.1. The information referred to in Article 4(2)(b) shall be provided in the following order:
+
+(a) the energy efficiency class of the model, determined in accordance with point 2 of Annex II;
+
+(b) the standing loss in W, rounded to the nearest integer;
+
+(c) the storage volume in litres, rounded to the nearest integer.
+
+2.2. The size and font in which the information referred in point 2.1 is printed or shown shall be legible.
+
+**3\. PACKAGES OF WATER HEATER AND SOLAR DEVICE**
+
+3.1. The information referred to in Article 4(3)(b) shall be provided in the following order:
+
+(a) the water heating energy efficiency class of the model, determined in accordance with point 1 of Annex II;
+
+(b) the water heating energy efficiency in %, rounded to the nearest integer;
+
+(c) the elements set out in Figure 1 of Annex IV.
+
+3.2. The size and font in which the information referred in point 3.1 is printed or shown shall be legible.
+
+## ANNEX VII
+
+**Measurements**
+
+1\. For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union, or using other reliable, accurate and reproducible measurement methods that take into account the generally recognised state-of-the-art methods. They shall meet the conditions and technical parameters set out in points 2 to 9.
+
+2\. General conditions for testing water heaters:
+
+(a) measurements shall be carried out using the load profiles set out in Table 3;
+
+(b) measurements shall be carried out using a 24-hour measurement cycle as follows:
+
+— 00:00 to 06:59: no water draw-off,
+
+— from 07:00: water draw-offs according to the declared load profile,
+
+— from end of last water draw-off until 24:00: no water draw-off;
+
+(c) the declared load profile shall be the maximum load profile or the load profile one below the maximum load profile.
+
+**Table 3**
+
+**Load profiles of water heaters**
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="3">3XS</td><td colspan="3">XXS</td><td colspan="3">XS</td><td colspan="4">S</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:05</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:26</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>0,525 </td><td>3 </td><td>35 </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:01</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>0,525 </td><td>3 </td><td>35 </td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>16:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>16:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>17:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:15</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>19:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>1,05 </td><td>3 </td><td>35 </td><td>0,42 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,525 </td><td>5 </td><td>45 </td><td>  </td></tr>
+<tr><td>21:35</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td colspan="3">0,345 </td><td colspan="3">2,100 </td><td colspan="3">2,100 </td><td colspan="4">2,100 </td></tr>
+</tbody>
+</table>
+
+**Continued Table 3**
+
+**Load profiles of water heaters**
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="4">M</td><td colspan="4">L</td><td colspan="4">XL</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:05</td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>1,82 </td><td>6 </td><td>40 </td><td>  </td></tr>
+<tr><td>07:26</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>08:01</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>3,605 </td><td>10 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:30</td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td></tr>
+<tr><td>11:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>17:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:15</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>19:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>3,605 </td><td>10 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>21:30</td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:35</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td colspan="4">5,845 </td><td colspan="4">11,655 </td><td colspan="4">19,07 </td></tr>
+</tbody>
+</table>
+
+**Continued Table 3**
+
+**Load profiles of water heaters**
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="4">XXL</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:05</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>1,82 </td><td>6 </td><td>40 </td><td>  </td></tr>
+<tr><td>07:26</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:30</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:45</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td></tr>
+<tr><td>08:01</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:30</td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td></tr>
+<tr><td>11:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>17:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:15</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>19:30</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>21:30</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:35</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td colspan="4">24,53 </td></tr>
+</tbody>
+</table>
+
+3\. Conditions for testing the smart control compliance (smart) of water heaters
+
+Where the supplier deems it appropriate to declare the value of smart as being ‘1’, measurements of the weekly electricity and/or fuel consumption with smart controls and the weekly electricity and/or fuel consumption without smart controls shall be carried out using a two-week measurement cycle as follows:
+
+— days 1 to 5: random sequence of load profiles chosen from the declared load profile and the load profile one below the declared load profile, and smart control disabled,
+
+— days 6 and 7: no water draw-offs, and smart control disabled,
+
+— days 8 to 12: repetition of the same sequence applied for days 1 to 5, and smart control enabled,
+
+— days 13 and 14: no water draw-offs, and smart control enabled,
+
+— the difference between the useful energy content measured during days 1 to 7 and the useful energy content measured during days 8 to 14 shall not exceed 2 % of Qref of the declared load profile.
+
+4\. Conditions for testing solar water heaters
+
+The solar collector, solar hot water storage tank, pump in the collector loop (if applicable) and heat generator shall be tested separately. Where the solar collector and solar hot water storage tank cannot be tested separately, they shall be tested in combination. The heat generator shall be tested under the conditions set out in point 2 of this Annex.
+
+The results shall be used for the calculations set out in point 3(b) of Annex VIII under the conditions set out in Tables 4 and 5. For the purpose of establishing Qtota the efficiency of the heat generator using the Joule effect in electric resistance heating elements is assumed to be 100/CC, expressed in %.
+
+5\. Conditions for testing heat pump water heaters
+
+— Heat pump water heaters shall be tested under the conditions set out in Table 6,
+
+— Heat pump water heaters which use ventilation exhaust air as the heat source shall be tested under the conditions set out in Table 7.
+
+6\. Conditions for testing solar devices
+
+The solar collector, solar hot water storage tank and pump in the collector loop (if applicable) shall be tested separately. Where the solar collector and solar hot water storage tank cannot be tested separately, they shall be tested in combination.
+
+The results shall be used for the calculations of Qnonsol for the load profiles M, L, XL and XXL under the average climate conditions set out in Tables 4 and 5 and Qaux .
+
+**Table 4**
+
+**Average daytime temperature [°C]**
+
+|  | January | February | March | April | May | June | July | August | September | October | November | December |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Average climate conditions | + 2,8 | + 2,6 | + 7,4 | + 12,2 | + 16,3 | + 19,8 | + 21,0 | + 22,0 | + 17,0 | + 11,9 | + 5,6 | + 3,2 |
+| Colder climate conditions | – 3,8 | – 4,1 | – 0,6 | + 5,2 | + 11,0 | + 16,5 | + 19,3 | + 18,4 | + 12,8 | + 6,7 | + 1,2 | – 3,5 |
+| Warmer climate conditions | + 9,5 | + 10,1 | + 11,6 | + 15,3 | + 21,4 | + 26,5 | + 28,8 | + 27,9 | + 23,6 | + 19,0 | + 14,5 | + 10,4 |
+
+**Table 5**
+
+**Average global solar irradiance [W/m2]**
+
+|  | January | February | March | April | May | June | July | August | September | October | November | December |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Average climate conditions | 70 | 104 | 149 | 192 | 221 | 222 | 232 | 217 | 176 | 129 | 80 | 56 |
+| Colder climate conditions | 22 | 75 | 124 | 192 | 234 | 237 | 238 | 181 | 120 | 64 | 23 | 13 |
+| Warmer climate conditions | 128 | 137 | 182 | 227 | 248 | 268 | 268 | 263 | 243 | 175 | 126 | 109 |
+
+**Table 6**
+
+**Standard rating conditions for heat pump water heaters, temperatures in dry bulb air temperature (wet bulb air temperature in brackets)**
+
+<table>
+<tbody><tr><td>Heat source</td><td colspan="3">Outdoor air</td><td>Indoor air</td><td>Exhaust air</td><td>Brine</td><td>Water</td></tr>
+<tr><td>Climate conditions</td><td>Average climate conditions</td><td>Colder climate conditions</td><td>Warmer climate conditions</td><td>Not applicable</td><td colspan="3">All climate conditions</td></tr>
+<tr><td>Temperature</td><td>+ 7 °C (+ 6 °C)</td><td>+ 2 °C (+ 1 °C)</td><td>+ 14 °C (+ 13 °C)</td><td>+ 20 °C (maximum + 15 °C)</td><td>+ 20 °C (+ 12 °C)</td><td>0 °C (inlet)/– 3 °C (outlet)</td><td>+ 10 °C (inlet)/+ 7 °C (outlet)</td></tr>
+</tbody>
+</table>
+
+**Table 7**
+
+**Maximum ventilation exhaust air available [m3/h], at a temperature of 20 °C and with humidity of 5,5 g/m3**
+
+| Declared load profile | XXS | XS | S | M | L | XL | XXL |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Maximum ventilation exhaust air available | 109 | 128 | 128 | 159 | 190 | 870 | 1 021 |
+
+7\. Technical parameters of water heaters
+
+The following parameters shall be established for water heaters:
+
+(a) the daily electricity consumption Qelec in kWh, rounded to three decimal places;
+
+(b) the declared load profile, expressed by the appropriate letter in accordance with Table 3 of this Annex;
+
+(c) the sound power level in dB, indoors, rounded to the nearest integer (for heat pump water heaters, if applicable);
+
+in addition, for water heaters using fossil and/or biomass fuels:
+
+(d) the daily fuel consumption Qfuel in kWh in terms of GCV, rounded to three decimal places;
+
+in addition, for water heaters for which the value of smart is declared as being ‘1’:
+
+(e) the weekly fuel consumption with smart controls Qfuel,week,smart in kWh in terms of GCV, rounded to three decimal places;
+
+(f) the weekly electricity consumption with smart controls Qelec,week,smart in kWh, rounded to three decimal places;
+
+(g) the weekly fuel consumption without smart controls Qfuel,week in kWh in terms of GCV, rounded to three decimal places;
+
+(h) the weekly electricity consumption without smart controls Qelec,week in kWh, rounded to three decimal places;
+
+in addition, for solar water heaters:
+
+(i) the collector aperture area Asol in m2, rounded to two decimal places;
+
+(j) the zero-loss efficiency η0 , rounded to three decimal places;
+
+(k) the first-order coefficient a1 in W/(m2 K), rounded to two decimal places;
+
+(l) the second-order coefficient a2 in W/(m2 K2), rounded to three decimal places;
+
+(m) the incidence angle modifier IAM, rounded to two decimal places;
+
+(n) the pump power consumption solpump in W, rounded to two decimal places;
+
+(o) the standby power consumption solstandby in W, rounded to two decimal places;
+
+in addition, for heat pump water heaters:
+
+(p) the sound power level LWA in dB, outdoors, rounded to the nearest integer.
+
+8\. Technical parameters of hot water storage tanks
+
+The following parameters shall be established for hot water storage tanks:
+
+(a) the storage volume V in litres, rounded to one decimal place;
+
+(b) the standing loss S in W, rounded to one decimal place.
+
+9\. Technical parameters of solar devices
+
+The following parameters shall be established for solar devices:
+
+(a) the collector aperture area Asol in m2, rounded to two decimal places;
+
+(b) the zero-loss efficiency η0 , rounded to three decimal places;
+
+(c) the first-order coefficient a1 in W/(m2 K), rounded to two decimal places;
+
+(d) the second-order coefficient a2 in W/(m2 K2), rounded to three decimal places;
+
+(e) the incidence angle modifier IAM, rounded to two decimal place;
+
+(f) the pump power consumption solpump in W, rounded to two decimal places;
+
+(g) the standby power consumption, solstandby in W, rounded to two decimal places.
+
+## ANNEX VIII
+
+**Method for calculating the water heating energy efficiency of water heaters**
+
+1\. For the purposes of compliance and verification of compliance with the requirements of this Regulation, calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union, or using other appropriate calculation methods that take into account the generally recognised state-of-the-art methods. They shall meet the technical parameters and calculations set out in points 2 to 6.
+
+Technical parameters used for the calculations shall be measured in accordance with Annex VII.
+
+2\. Technical parameters of water heaters
+
+The following parameters shall be calculated for water heaters under average climate conditions:
+
+(a) the water heating energy efficiency ηwh in %, rounded to one decimal place;
+
+(b) the annual electricity consumption AEC in kWh in terms of final energy, rounded to the nearest integer;
+
+in addition, for water heaters using fuels under average climate conditions:
+
+(c) the annual fuel consumption AFC in kWh in terms of GCV, rounded to the nearest integer;
+
+in addition, for solar water heaters under average climate conditions:
+
+(d) the heat generator water heating energy efficiency ηwh,nonsol in %, rounded to one decimal place;
+
+(e) the annual auxiliary electricity consumption Qaux in kWh in terms of final energy, rounded to one decimal place;
+
+in addition, for solar water heaters and heat pump water heaters under colder and warmer climate conditions:
+
+(f) the parameters set out in points (a) to (c);
+
+in addition for solar water heaters under average, colder and warmer climate conditions:
+
+(g) the annual non-solar heat contribution Qnonsol in kWh in terms of primary energy for electricity and/or in kWh in terms of GCV for fuels, rounded to one decimal place.
+
+3\. Calculation of the water heating energy efficiency ηwh
+
+(a) Conventional water heaters and heat pump water heaters:
+
+The water heating energy efficiency is calculated as follows:
+
+[image]
+
+For water-/brine-to-water heat pump water heaters, the electricity consumption of one or more ground water pumps shall be taken into account.
+
+(b) Solar water heaters:
+
+The water heating energy efficiency is calculated as follows:
+
+[image]
+
+Where:
+
+[image]
+
+4\. Calculation of the annual electricity consumption AEC and the annual fuel consumption AFC
+
+(a) Conventional water heaters and heat pump water heaters:
+
+The annual electricity consumption AEC in kWh in terms of final energy is calculated as follows:
+
+[image]
+
+The annual fuel consumption AFC in GJ in terms of GCV is calculated as follows:
+
+[image]
+
+(b) Solar water heaters:
+
+The annual electricity consumption AEC in kWh in terms of final energy is calculated as follows:
+
+[image]
+
+The annual fuel consumption AFC in GJ in terms of GCV is calculated as follows:
+
+[image]
+
+5\. Determination of the smart control factor SCF and of smart control compliance smart
+
+(a) The smart control factor is calculated as follows:
+
+[image]
+
+(b) If SCF ≥ 0,07, the value of smart shall be 1. In all other cases, the value of smart shall be 0.
+
+6\. Determination of the ambient correction term Qcor
+
+The ambient correction term is calculated as follows:
+
+(a) for conventional water heaters using electricity:
+
+[image]
+
+(b) for conventional water heaters using fuels:
+
+[image]
+
+(c) for heat pump water heaters:
+
+[image]
+
+Where:
+
+the k-values are given in Table 8 for each load profile.
+
+**Table 8**
+
+**k-values**
+
+|  | 3XS | XXS | XS | S | M | L | XL | XXL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| k | 0,23 | 0,23 | 0,23 | 0,23 | 0,23 | 0,23 | 0,23 | 0,0 |
+
+## ANNEX IX
+
+**Product compliance verification by market surveillance authorities**
+
+The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product fiche shall not be more favourable for the supplier than the values reported in the technical documentation.
+
+When verifying the compliance of a product model with the requirements laid down in this Delegated Regulation, for the requirements referred to in this Annex, the authorities of the Member States shall apply the following procedure:
+
+(1) The Member State authorities shall verify one single unit of the model.
+
+(2) The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to Article 5(b) of Directive 2010/30/EU (declared values), and, where applicable, the values used to calculate these values, are not more favourable for the supplier than the corresponding values given in the test reports pursuant to point (iii) of the abovementioned Article; and
+
+(b) the values published on the label and in the product fiche are not more favourable for the supplier than the declared values, and the indicated energy efficiency class is not more favourable for the supplier than the class determined by the declared values; and
+
+(c) when the Member State authorities test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 9.
+
+(3) If the results referred to in points 2(a) or (b) are not achieved, the model and all other equivalent water heater models, hot water storage tanks models, solar device models or package of water heater and solar device models shall be considered not to comply with this Delegated Regulation.
+
+(4) If the result referred to in point 2(c) is not achieved, the Member State authorities shall select three additional units of the same model for testing. As an alternative, the three additional units selected may be of one or more different equivalent models.
+
+(5) The model shall be considered to comply with the applicable requirements if for these three units, the arithmetical mean of the determined values complies with the respective tolerances given in Table 9.
+
+(6) If the result referred to in point 5 is not achieved, the model and all other equivalent water heater models, hot water storage tanks models, solar device models or package of water heater and solar device models shall be considered not to comply with this Delegated Regulation.
+
+(7) The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 and 6.
+
+The Member State authorities shall use the measurement and calculation methods set out in Annex VII and Annex VIII.
+
+The Member State authorities shall only apply the verification tolerances that are set out in Table 9 and shall only use the procedure described in points 1 to 7 for the requirements referred to in this Annex. No other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+**Table 9**
+
+**Verification tolerances**
+
+| Parameters | Verification tolerances |
+| --- | --- |
+| Daily electricity consumption, Qelec | The determined value shall not exceed the declared value by more than 5 %. |
+| Sound power level, LWA , indoors and/or outdoors | The determined value shall not exceed the declared value by more than 2 dB. |
+| Daily fuel consumption, Qfuel | The determined value shall not exceed the declared value by more than 5 %. |
+| Weekly fuel consumption with smart controls, Qfuel,week,smart | The determined value shall not exceed the declared value by more than 5 %. |
+| Weekly electricity consumption with smart controls, Qelec,week,smart | The determined value shall not exceed the declared value by more than 5 %. |
+| Weekly fuel consumption without smart controls, Qfuel,week | The determined value shall not exceed the declared value by more than 5 %. |
+| Weekly electricity consumption without smart controls, Qelec,week | The determined value shall not exceed the declared value by more than 5 %. |
+| Storage volume, V | The determined value shall not be lower than the declared value by more than 2 %. |
+| Collector aperture area, Asol | The determined value shall not be lower than the declared value by more than 2 %. |
+| Pump power consumption, solpump | The determined value shall not exceed the declared value by more than 3 %. |
+| Standby power consumption, solstandby | The determined value shall not exceed the declared value by more than 5 %. |
+| Standing loss, S | The determined value shall not exceed the declared value by more than 5 %. |
+
+## ANNEX X — Information to be provided in the case of sale, hire or hire-purchase through the internet
+
+(1) For the purpose of points 2 to 5 of this Annex the following definitions shall apply:
+
+(a) ‘display mechanism’ means any screen, including tactile screen, or other visual technology used for displaying internet content to users;
+
+(b) ‘nested display’ means visual interface where an image or data set is accessed by a mouse click, mouse roll-over or tactile screen expansion of another image or data set;
+
+(c) ‘tactile screen’ means a screen responding to touch, such as that of a tablet computer, slate computer or a smartphone;
+
+(d) ‘alternative text’ means text provided as an alternative to a graphic allowing information to be presented in non-graphical form where display devices cannot render the graphic or as an aid to accessibility such as input to voice synthesis applications.
+
+(2) The appropriate label made available by suppliers in accordance with Article 3 or in the case of a package where appropriate duly filled in based on the label and fiches provided by suppliers in accordance with Article 3, shall be shown on the display mechanism in proximity to the price of the product or package in accordance with the timetable set out in Article 3. If both a product and a package are shown, but with a price indicated only for the package, only the package label shall be displayed. The size shall be such that the label is clearly visible and legible and shall be proportionate to the size specified in Annex III. The label may be displayed using a nested display, in which case the image used for accessing the label shall comply with the specifications laid down in point 3 of this Annex. If nested display is applied, the label shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the image.
+
+(3) The image used for accessing the label in the case of nested display shall:
+
+(a) be an arrow in the colour corresponding to the energy efficiency class of the product or package on the label;
+
+(b) indicate on the arrow the energy efficiency class of the product or package in white in a font size equivalent to that of the price; and
+
+(c) have one of the following two formats:
+
+[image]
+
+(4) In the case of nested display, the sequence of display of the label shall be as follows:
+
+(a) the image referred to in point 3 of this Annex shall be shown on the display mechanism in proximity to the price of the product or package;
+
+(b) the image shall link to the label;
+
+(c) the label shall be displayed after a mouse click, mouse roll-over or tactile screen expansion on the image;
+
+(d) the label shall be displayed by pop up, new tab, new page or inset screen display;
+
+(e) for magnification of the label on tactile screens, the device conventions for tactile magnification shall apply;
+
+(f) the label shall cease to be displayed by means of a close option or other standard closing mechanism;
+
+(g) the alternative text for the graphic, to be displayed on failure to display the label, shall be the energy efficiency class of the product or package in a font size equivalent to that of the price.
+
+(5) The appropriate product fiche made available by suppliers in accordance with Article 3 shall be shown on the display mechanism in proximity to the price of the product or package. The size shall be such that the product fiche is clearly visible and legible. The product fiche may be displayed using a nested display, in which case the link used for accessing the fiche shall clearly and legibly indicate ‘Product fiche’. If nested display is used, the product fiche shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the link.
+
+( 1 ) OJ L 334, 17.12.2010, p. 17.
+
+( 2 ) See page 1 of this Official Journal.
+
+( 3 ) OJ L 315, 14.11.2012, p. 1.
+
+( 4 ) OJ L 27, 30.1.2010, p. 1.

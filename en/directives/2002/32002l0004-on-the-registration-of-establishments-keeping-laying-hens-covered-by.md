@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the registration of establishments keeping laying hens, covered by Council Directive 1999/74/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2006/83/EC of 23 October 2006 </td><td> L 362</td><td>97</td><td>20.12.2006</td></tr>
+</table>
 
 | A1 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
 | --- | --- | --- | --- | --- |

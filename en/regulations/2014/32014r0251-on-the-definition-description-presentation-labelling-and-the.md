@@ -1,0 +1,711 @@
+---
+title: "Regulation (EU) No 251/2014 of the European Parliament and of the Council of 26 February 2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and repealing Council Regulation (EEC) No 1601/91"
+identifier: "32014R0251"
+eli: "http://data.europa.eu/eli/reg/2014/251/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-02-26
+entry_into_force: 2014-01-29
+last_amended: 2026-03-18
+consolidated_version: "02014R0251-20260318"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0251-20260318"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 251/2014 of the European Parliament and of the Council of 26 February 2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and repealing Council Regulation (EEC) No 1601/91
+
+**REGULATION (EU) No 251/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 26 February 2014**
+
+**on the definition, description, presentation and labelling of aromatised wine products and repealing Council Regulation (EEC) No 1601/91**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/2117 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 2 December 2021 </td><td> L 435</td><td>262</td><td>6.12.2021</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/471 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 471</td><td>1</td><td>26.2.2026</td></tr>
+</table>
+
+**REGULATION (EU) No 251/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 26 February 2014**
+
+**on the definition, description, presentation and labelling of aromatised wine products and repealing Council Regulation (EEC) No 1601/91**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules on the definition, description, presentation and labelling of aromatised wine products.
+
+2\. Regulation (EU) No 1169/2011 shall apply to the presentation and labelling of aromatised wine products, save as otherwise provided for in this Regulation.
+
+3\. This Regulation shall apply to all aromatised wine products placed on the market in the Union whether produced in the Member States or in third countries, as well as to those produced in the Union for export.
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘sales denomination’ means the name of any of the aromatised wine products laid down in this Regulation;
+
+(2) ‘description’ means the list of the specific characteristics of an aromatised wine product.
+
+## CHAPTER II — DEFINITION, DESCRIPTION, PRESENTATION AND LABELLING OF AROMATISED WINE PRODUCTS
+
+### Article 3 — Definition and classification of aromatised wine products
+
+1\. Aromatised wine products are products obtained from products of the wine sector as referred to in Regulation (EU) No 1308/2013 that have been flavoured. They are classified into the following categories:
+
+(a) aromatised wines;
+
+(b) aromatised wine-based drinks;
+
+(c) aromatised wine-product cocktails.
+
+2\. Aromatised wine is a drink:
+
+(a) obtained from one or more of the grapevine products defined in point 5 of Part IV of Annex II and in points 1 and 3 to 9 of Part II of Annex VII to Regulation (EU) No 1308/2013, with the exception of ‘Retsina’ wine;
+
+(b) in which the grapevine products referred to in point (a) represent at least 75 % of the total volume;
+
+(c) to which alcohol may have been added;
+
+(d) to which colours may have been added;
+
+(e) to which grape must, partially fermented grape must or both may have been added;
+
+(f) which may have been sweetened;
+
+(g) which has an actual alcoholic strength by volume of not less than 14,5 % vol. and less than 22 % vol. and a total alcoholic strength by volume of not less than 17,5 % vol.
+
+3\. Aromatised wine-based drink is a drink:
+
+(a) obtained from one or more of the grapevine products defined in points 1, 2 and 4 to 9 of Part II of Annex VII to Regulation (EU) No 1308/2013, with the exception of wines produced with the addition of alcohol and ‘Retsina’ wine;
+
+(b) in which the grapevine products referred to in point (a) represent at least 50 % of the total volume;
+
+(c) to which no alcohol has been added, except where Annex II provides otherwise;
+
+(d) to which colours may have been added;
+
+(e) to which grape must, partially fermented grape must or both may have been added;
+
+(f) which may have been sweetened;
+
+(g) which has an actual alcoholic strength by volume of not less than 4,5 % vol. and less than 14,5 % vol.
+
+4\. Aromatised wine-product cocktail is a drink:
+
+(a) obtained from one or more of the grapevine products defined in points 1, 2 and 4 to 11 of Part II of Annex VII to Regulation (EU) No 1308/2013, with the exception of wines produced with the addition of alcohol and ‘Retsina’ wine;
+
+(b) in which the grapevine products referred to in point (a) represent at least 50 % of the total volume;
+
+(c) to which no alcohol has been added;
+
+(d) to which colours may have been added;
+
+(e) which may have been sweetened;
+
+(f) which has an actual alcoholic strength by volume of more than 1,2 % vol. and less than 10 % vol.
+
+5\. By way of derogation from the minimum actual alcoholic strength and total alcoholic strength thresholds laid down in paragraph 2, point (g), paragraph 3, point (g), and paragraph 4, point (f), of this Article, and in Annex II to, this Regulation for each product category, aromatised wine products may have a lower actual and lower total alcoholic strength by volume where they are obtained from grapevine products that have undergone in their totality or in part a de-alcoholisation treatment in accordance with Part I, Section E of Annex VIII to Regulation (EU) No 1308/2013.
+
+### Article 4 — Production processes and methods of analysis for aromatised wine products
+
+1\. Aromatised wine products shall be produced in accordance with the requirements, restrictions and descriptions laid down in Annexes I and II.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 33 concerning the establishment of authorised production processes for obtaining aromatised wine products, taking into account consumers’ expectations.
+
+In establishing the authorised production processes referred to in the first subparagraph, the Commission shall take into account the production processes recommended and published by the OIV.
+
+3\. The Commission shall, where necessary, adopt, by means of implementing acts, methods of analysis for determining the composition of aromatised wine products. Those methods shall be based on any relevant methods recommended and published by the OIV, unless they would be ineffective or inappropriate in view of the objective pursued. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).
+
+Pending the adoption of such methods by the Commission, the methods to be used shall be those allowed by the Member State concerned.
+
+4\. The oenological practices and restrictions laid down in accordance with Articles 74, 75(4) and 80 of Regulation (EU) No 1308/2013 shall apply to the grapevine products used in the production of aromatised wine products.
+
+### Article 5 — Sales denominations
+
+1\. The sales denominations set out in Annex II shall be used for any aromatised wine product placed on the market in the Union, provided that it complies with the requirements for the corresponding sales denomination laid down in that Annex. Sales denominations may be supplemented by a customary name as defined in Article 2(2)(o) of Regulation (EU) No 1169/2011.
+
+1a. Where aromatised wine products have been obtained from grapevine products that have undergone in their totality or in part a de-alcoholisation treatment in accordance with Part I, Section E of Annex VIII to Regulation (EU) No 1308/2013, their sales denominations shall be supplemented by the terms laid down in Article 119(1), point (a)(i) and (ii), and in Article 119(1), point (k), of Regulation (EU) No 1308/2013 under the conditions laid down therein.
+
+2\. Where aromatised wine products comply with the requirements of more than one sales denomination, the use of only one of those sales denominations is authorised, except where Annex II provides otherwise.
+
+3\. An alcoholic beverage not fulfilling the requirements laid down in this Regulation shall not be described, presented or labelled by associating words or phrases such as ‘like’, ‘type’, ‘style’, ‘made’, ‘flavour’ or any other term similar to any of the sales denominations.
+
+4\. Sales denominations may be supplemented or replaced by a geographical indication of aromatised wine products protected under Regulation (EU) No 1151/2012.
+
+5\. Without prejudice to Article 26, sales denominations shall not be supplemented by protected designations of origin or protected geographical indications allowed for wine products.
+
+6\. In the case of aromatised wine products produced in the Union that are destined for export to third countries whose legislation requires different sales denominations, Member States may allow those sales denominations to accompany the sales denominations set out in Annex II. Those additional sales denominations may appear in languages other than the official languages of the Union.
+
+7\. The Commission shall be empowered to adopt delegated acts in accordance with Article 33 to supplement Annex II in order to take into account technical progress, scientific and market developments, consumer health or consumer needs for information.
+
+### Article 6 — Additional particulars to the sales denominations
+
+1\. The sales denominations referred to in Article 5 may also be supplemented by the following particulars concerning the sugar content of the aromatised wine product:
+
+(a) ‘extra-dry’ : in the case of products with a sugar content of less than 30 grams per litre and, for the category of aromatised wines and by way of derogation from Article 3(2)(g), a minimum total alcoholic strength by volume of 15 % vol.;
+
+(b) ‘dry’ : in the case of products with a sugar content of less than 50 grams per litre and, for the category of aromatised wines and by way of derogation from Article 3(2)(g), a minimum total alcoholic strength by volume of 16 % vol.;
+
+(c) ‘semi-dry’ : in the case of products with a sugar content of between 50 and less than 90 grams per litre;
+
+(d) ‘semi-sweet’ : in the case of products with a sugar content of between 90 and less than 130 grams per litre;
+
+(e) ‘sweet’ : in the case of products with a sugar content of 130 grams per litre or more.
+
+The sugar content indicated in points (a) to (e) of the first subparagraph is expressed as invert sugar.
+
+The particulars ‘semi-sweet’ and ‘sweet’ may be accompanied by an indication of the sugar content, expressed in grams of invert sugar per litre.
+
+2\. Where the sales denomination is supplemented by or includes the particular ‘sparkling’, the quantity of sparkling wine used shall be not less than 95 %.
+
+3\. Sales denominations may also be supplemented by a reference to the main flavouring used.
+
+### Article 6a — Nutrition declaration and ingredients list
+
+1\. The labelling of aromatised wine products marketed in the Union shall contain the following mandatory particulars:
+
+(a) the nutrition declaration pursuant to Article 9(1), point (l), of Regulation (EU) No 1169/2011; and
+
+(b) the list of ingredients pursuant to Article 9(1), point (b), of Regulation (EU) No 1169/2011.
+
+2\. By way of derogation from paragraph 1, point (a), the nutrition declaration on the package or on a label attached thereto may be limited to the energy value, which may be expressed by using the symbol “E” for energy. In such cases, the full nutrition declaration shall be provided by electronic means identified on the package or on a label attached thereto. That nutrition declaration shall not be displayed with other information intended for sales or marketing purposes and no user data shall be collected or tracked.
+
+3\. By way of derogation from paragraph 1, point (b), the list of ingredients may be provided by electronic means identified on the package or on a label attached thereto. In such cases, the following requirements apply:
+
+(a) no user data shall be collected or tracked;
+
+(b) the list of ingredients shall not be displayed with other information intended for sales or marketing purposes; and
+
+(c) the indication of the particulars referred to in Article 9(1), point (c), of Regulation (EU) No 1169/2011 shall appear directly on the package or on a label attached thereto.
+
+The indication referred to in the first subparagraph, point (c), of this paragraph shall comprise the word “contains” followed by the name of the substance or product as listed in Annex II to Regulation (EU) No 1169/2011.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 33 supplementing this Regulation by further specifying the rules for the indication and designation of ingredients for the application of paragraph 1, point (b), of this Article.
+
+5\. In order to take into account the specific characteristics of the aromatised wine sector, the Commission is empowered to adopt delegated acts in accordance with Article 33 to supplement this Regulation by laying down rules on:
+
+(a) the identification on the package, or on the label attached thereto, of the electronic means referred to in paragraphs 2 and 3 of this Article, including by means of a common pictogram or symbol instead of words;
+
+(b) the form and layout of the information provided by electronic means, to simplify its presentation, to adapt it to future technological progress and to new requirements concerning mandatory information relevant to consumers as provided for by Union law or national legislation, or to improve consumer accessibility.
+
+### Article 6b — Repetition of mandatory particulars
+
+The obligation to indicate the mandatory particulars on any given packaging applies only once in respect of that packaging.
+
+### Article 7 — Indication of provenance
+
+Where the provenance of aromatised wine products is indicated, it shall correspond to the place where the aromatised wine product is produced. The provenance shall be indicated with the words ‘produced in (…)’, or expressed in equivalent terms, supplemented by the name of the corresponding Member State or third country.
+
+### Article 8 — Use of language in the presentation and labelling of aromatised wine products
+
+1\. The sales denominations set out in italics in Annex II shall not be translated on the label or in the presentation of aromatised wine products.
+
+Additional and mandatory particulars referred to in Article 6 and Article 6a as well as the terms referred to in Article 5(1a) shall, where expressed in words, appear in one or more official languages of the Union.
+
+2\. The name of the geographical indication of aromatised wine products protected under Regulation (EU) No 1151/2012 shall appear on the label in the language or languages in which it is registered, even where the geographical indication replaces the sales denomination in accordance with Article 5(4) of this Regulation.
+
+Where the name of a geographical indication of aromatised wine products protected under Regulation (EU) No 1151/2012 is written in a non-Latin alphabet, it may also appear in one or more of the official languages of the Union.
+
+## CHAPTER IV — GENERAL, TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 31 — Checks and verification of aromatised wine products
+
+1\. Member States shall be responsible for the checks of aromatised wine products. They shall take the measures necessary to ensure compliance with the provisions of this Regulation and in particular they shall designate the competent authority or authorities responsible for checks in respect of the obligations established by this Regulation in accordance with Regulation (EC) No 882/2004.
+
+2\. The Commission shall, when necessary, by means of implementing acts, adopt the rules concerning administrative and physical checks to be conducted by the Member States with regard to the respect of obligations resulting from the application of this Regulation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).
+
+### Article 32 — Exchange of information
+
+1\. Member States and the Commission shall notify each other of any information necessary for the application of this Regulation and for complying with the international obligations concerning the aromatised wine products. That information may, where appropriate, be transmitted or made available to the competent authorities of third countries and may be made public.
+
+2\. In order to make the notifications referred to in paragraph 1 fast, efficient, accurate, and cost effective, the Commission shall be empowered to adopt delegated acts in accordance with Article 33 to lay down:
+
+(a) the nature and type of the information to be notified;
+
+(b) the methods of notification;
+
+(c) the rules related to the access rights to the information or information systems made available;
+
+(d) the conditions and means of publication of the information.
+
+3\. The Commission shall, by means of implementing acts, adopt:
+
+(a) rules on providing the information necessary for the application of this Article;
+
+(b) arrangements for the management of the information to be notified, as well as rules on content, form, timing, frequency and deadlines of the notifications;
+
+(c) arrangements for transmitting or making information and documents available to the Member States, the competent authorities in third countries, or the public.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).
+
+### Article 33 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 4(2), 28, 32(2) and 36(1) shall be conferred on the Commission for a period of five years from 27 March 2014. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+2a. The power to adopt delegated acts referred to in Article 5(7) shall be conferred on the Commission for a period of five years from 7 December 2021. The power to adopt delegated acts referred to in Article 6a(4) shall be conferred on the Commission for a period of five years from 8 December 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 4(2), Article 5(7), Article 6a(4), Article 28, Article 32(2) and Article 36(1) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect the day following the publication in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 4(2), Article 5(7), Article 6a(4), Article 28, Article 32(2) and Article 36(1) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months on the initiative of the European Parliament or the Council.
+
+### Article 34 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on aromatised wine products. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+In the case of implementing acts referred to in the first subparagraph of Article 4(3) and Article 29(1)(b), where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+### Article 35 — Repeal
+
+Regulation (EEC) No 1601/91 is hereby repealed as from 28 March 2015.
+
+References made to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex III to this Regulation.
+
+### Article 36 — Transitional measures
+
+1\. In order to facilitate the transition from the rules provided for in Regulation (EEC) No 1601/91 to those established by this Regulation, the Commission shall be empowered to adopt, where appropriate, delegated acts in accordance with Article 33 concerning the adoption of measures to amend or derogate from this Regulation, which shall remain in force until 28 March 2018.
+
+2\. Aromatised wine products not meeting the requirements of this Regulation but which have been produced in accordance with Regulation (EEC) No 1601/91 prior to 28 March 2015  may be placed on the market until stocks are exhausted.
+
+3\. Aromatised wine products which comply with Articles 1 to 6 and Article 9 of this Regulation and which have been produced prior to 28 March 2015  may be placed on the market until stocks are exhausted, provided that such products comply with Regulation (EEC) No 1601/91 in respect of all aspects not regulated by Articles 1 to 6 and Article 9 of this Regulation.
+
+### Article 37 — Entry into force
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 28 March 2015. However, Article 36(1) and (3) shall apply from 27 March 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**TECHNICAL DEFINITIONS, REQUIREMENTS AND RESTRICTIONS**
+
+**(1) Flavouring**
+
+(a) The following products are authorised for the flavouring of aromatised wines:
+
+(i) natural flavouring substances and/or flavouring preparations as defined in Article 3(2)(c) and (d) of Regulation (EC) No 1334/2008;
+
+(ii) flavourings as defined in Article 3(2)(a) of Regulation (EC) No 1334/2008, which:
+
+— are identical to vanillin,
+
+— smell and/or taste of almonds,
+
+— smell and/or taste of apricots,
+
+— smell and/or taste of eggs; and
+
+(iii) aromatic herbs and/or spices and/or flavouring foodstuffs; and
+
+(iv) spirit drinks in a quantity not exceeding 1 % of the overall volume.
+
+(b) The following products are authorised for the flavouring of aromatised wine-based drinks and aromatised wine-product cocktails:
+
+(i) flavouring substances and/or flavouring preparations as defined in Article 3(2)(b) and (d) of Regulation (EC) No 1334/2008; and
+
+(ii) aromatic herbs and/or spices and/or flavouring foodstuffs.
+
+Addition of such substances confers on the final product organoleptic characteristics other than those of wine.
+
+**(2) Sweetening**
+
+The following products are authorised for the sweetening of aromatised wine products:
+
+(a) semi-white sugar, white sugar, extra-white sugar, dextrose, fructose, glucose syrup, sugar solution, invert sugar solution, invert sugar syrup, as defined in Council Directive 2001/111/EC ( 1 );
+
+(b) grape must, concentrated grape must and rectified concentrated grape must, as defined in points 10, 13 and 14 of Part II of Annex VII to Regulation (EU) No 1308/2013;
+
+(c) burned sugar, which is the product obtained exclusively from the controlled heating of sucrose without bases, mineral acids or other chemical additives;
+
+(d) honey as defined in Council Directive 2001/110/EC ( 2 );
+
+(e) carob syrup;
+
+(f) any other natural carbohydrate substances having a similar effect to those products.
+
+**(3) Addition of alcohol**
+
+The following products are authorised for the preparation of some aromatised wines and, some aromatised wine-based drinks:
+
+(a) ethyl alcohol of agricultural origin, as defined in Annex I, point 1, to Regulation (EC) No 110/2008, including viticultural origin;
+
+(b) wine alcohol or dried grape alcohol;
+
+(c) wine distillate or dried grape distillate;
+
+(d) distillate of agricultural origin, as defined in Annex I, point 2, to Regulation (EC) No 110/2008;
+
+(e) wine spirit, as defined in Annex II, point 4, to Regulation (EC) No 110/2008;
+
+(f) grape-marc spirit, as defined in Annex II, point 6, to Regulation (EC) No 110/2008;
+
+(g) spirit drinks distilled from fermented dried grapes.
+
+The ethyl alcohol used to dilute or dissolve colorants, flavourings or any other authorised additives used in the preparation of aromatised wine products must be of agricultural origin and must be used in the dose strictly necessary and is not considered as addition of alcohol for the purpose of production of an aromatised wine product.
+
+**(4) Additives and colouring**
+
+The rules on food additives, including colours, laid down in Regulation (EC) No 1333/2008 apply to aromatised wine products.
+
+**(5) Addition of water**
+
+For the preparation of aromatised wine products, the addition of water is authorised provided that it is used in the dose necessary:
+
+— to prepare flavouring essence,
+
+— to dissolve colorants and sweeteners,
+
+— to adjust the final composition of the product.
+
+The quality of the water added has to be in conformity with Directive 2009/54/EC of the European Parliament and of the Council ( 3 ) and Council Directive 98/83/EC ( 4 ), and it should not change the nature of the product.
+
+This water may be distilled, demineralised, permuted or softened.
+
+(6) For the preparation of aromatised wine products, the addition of carbon dioxide is authorised.
+
+(7) Alcoholic strength
+
+‘Alcoholic strength by volume’ means the ratio of the volume of pure alcohol contained in the product in question at a temperature of 20 °C to the total volume of that product at the same temperature.
+
+‘Actual alcoholic strength by volume’ means the number of volumes of pure alcohol contained at a temperature of 20 °C in 100 volumes of the product at that temperature.
+
+‘Potential alcoholic strength by volume’ means the number of volumes of pure alcohol at a temperature of 20 °C capable of being produced by total fermentation of the sugars contained in 100 volumes of the product at the same temperature.
+
+‘Total alcoholic strength by volume’ means the sum of the actual and potential alcoholic strengths by volume.
+
+## ANNEX II
+
+**SALES DENOMINATIONS AND DESCRIPTIONS OF AROMATISED WINE PRODUCTS**
+
+**A. SALES DENOMINATIONS AND DESCRIPTIONS OF AROMATISED WINES**
+
+**(1) Aromatised wine**
+
+Products complying with the definition set out in Article 3(2).
+
+**(2) Wine-based aperitif**
+
+Aromatised wine to which alcohol may have been added.
+
+The use of the term ‘aperitif’ in this connection is without prejudice to its use to define products which do not fall within the scope of this Regulation.
+
+**(3) Vermouth**
+
+Aromatised wine:
+
+— to which alcohol may have been added; and
+
+— whose characteristic taste has been obtained by the use of appropriate substances of Artemisia species.
+
+**(4) Bitter aromatised wine**
+
+Aromatised wine with a characteristic bitter flavour to which alcohol has been added.
+
+The sales denomination ‘bitter aromatised wine’ is followed by the name of the main bitter-flavouring substance.
+
+The sales denomination ‘bitter aromatised wine’ may be supplemented or replaced by the following terms:
+
+— ‘Quinquina wine’, whose main flavouring is natural quinine flavouring,
+
+— ‘ Bitter vino ’, whose main flavouring is natural gentian flavouring and which has been coloured with authorised yellow and/or red colour; the use of the word ‘bitter’ in this connection is without prejudice to its use to define products which do not fall within the scope of this Regulation,
+
+— ‘ Americano ’, where the flavouring is due to the presence of natural flavouring substances derived from wormwood and gentian and which has been coloured with authorised yellow and/or red colours.
+
+**(5) Egg-based aromatised wine**
+
+Aromatised wine:
+
+— to which alcohol has been added,
+
+— to which good-quality egg yolk or extracts thereof have been added,
+
+— which has a sugar content expressed in terms of invert sugar of more than 200 grams, and
+
+— in the preparation of which the minimum quantity of egg yolk used in the mixture is 10 grams per litre.
+
+The sales denomination ‘egg-based aromatised wine’ may be accompanied by the term ‘ cremovo ’ where such product contains wine of the protected designation of origin ‘Marsala’ in a proportion of not less than 80 %.
+
+The sales denomination ‘egg-based aromatised wine’ may be accompanied by the term ‘ cremovo zabaione ’, where such product contains wine of the protected designation of origin ‘Marsala’ in a proportion of not less than 80 % and has an egg yolk content of not less than 60 grams per litre.
+
+**(6) Väkevä viiniglögi/Starkvinsglögg**
+
+An aromatised wine:
+
+— to which alcohol has been added, and
+
+— whose characteristic taste has been obtained by the use of cloves and/or cinnamon.
+
+**B. SALES DENOMINATIONS AND DESCRIPTIONS OF AROMATISED WINE BASED DRINKS**
+
+**(1) Aromatised wine-based drink**
+
+Products complying with the definition set out in Article 3(3).
+
+**(2) Aromatised fortified wine-based drink**
+
+Aromatised wine-based drink
+
+— to which alcohol has been added,
+
+— which has actual alcoholic strength by volume not less than 7 % vol.,
+
+— which has been sweetened,
+
+— which is obtained from white wine,
+
+— to which dried grape distillate has been added, and
+
+— which has been flavoured exclusively by cardamom extract;
+
+or
+
+— to which alcohol has been added,
+
+— which has actual alcoholic strength by volume not less than 7 % vol.,
+
+— which has been sweetened,
+
+— which is obtained from red wine, and
+
+— to which flavouring preparations obtained exclusively from spices, ginseng, nuts, citrus fruit essences and aromatic herbs, have been added.
+
+**(3) Sangría/Sangria**
+
+Aromatised wine-based drink
+
+— which is obtained from wine,
+
+— which is aromatised with the addition of natural citrus-fruit extracts or essences, with or without the juice of such fruit,
+
+— to which spices may have been added,
+
+— to which carbon dioxide may have been added,
+
+— which has not been coloured,
+
+— which have an actual alcoholic strength by volume of not less than 4,5 % vol., and less than 12 % vol., and
+
+— which may contain solid particles of citrus-fruit pulp or peel and its colour must come exclusively from the raw materials used.
+
+‘ Sangría ’ or ‘ Sangria ’ may be used as a sales denomination only when the product is produced in Spain or Portugal. When the product is produced in other Member States, ‘ Sangría ’ or ‘ Sangria ’ may only be used to supplement the sales denomination ‘aromatised wine-based drink’, provided that it is accompanied by the words: ‘produced in …’, followed by the name of the Member State of production or of a more restricted region.
+
+**(4) Clarea**
+
+Aromatised wine-based drink, which is obtained from white wine under the same conditions as for Sangría/Sangria.
+
+‘ Clarea ’ may be used as a sales denomination only when the product is produced in Spain. When the product is produced in other Member States, ‘ Clarea ’ may only be used to supplement the sales denomination ‘aromatised wine-based drink’, provided that it is accompanied by the words: ‘produced in …’, followed by the name of the Member State of production or of a more restricted region.
+
+**(5) Zurra**
+
+Aromatised wine-based drink obtained by adding brandy or wine spirit as defined in Regulation (EC) No 110/2008 to Sangría/Sangria and Clarea, possibly with the addition of pieces of fruit. The actual alcoholic strength by volume must be not less than 9 % vol. and less than 14 % vol.
+
+**(6) Bitter soda**
+
+Aromatised wine-based drink
+
+— which is obtained from ‘ bitter vino ’ the content of which in the finished product must not be less than 50 % by volume,
+
+— to which carbon dioxide or carbonated water has been added, and
+
+— which has an actual alcoholic strength by volume of not less than 8 % vol., and less than 10,5 % vol..
+
+The use of the word ‘bitter’ in this context shall be without prejudice to its use to define products which do not fall within the scope of this Regulation.
+
+**(7) Kalte Ente**
+
+Aromatised wine-based drink
+
+— which is obtained by mixing wine, semi-sparkling wine or aerated semi-sparkling wine with sparkling wine or aerated sparkling wine,
+
+— to which natural lemon substances or extracts thereof have been added, and
+
+— which has an actual alcoholic strength by volume of not less than 7 % vol..
+
+The finished product must contain not less than 25 % by volume of the sparkling wine or aerated sparkling wine.
+
+**(8) Glühwein**
+
+Aromatised wine-based drink
+
+— which is obtained exclusively from red, white or rosé wine or a combination thereof,
+
+— which is flavoured mainly with cinnamon or cloves, or both, and
+
+— which has an actual alcoholic strength by volume of not less than 7 % vol.
+
+Without prejudice to the quantities of water resulting from the application of Annex I, point 2, the addition of water is forbidden.
+
+Where it has been prepared exclusively from white wine, the sales denomination ‘ Glühwein ’ shall be supplemented with the term ‘white’.
+
+Where it has been prepared exclusively from rosé wine, the sales denomination shall be supplemented with the term ‘rosé’. The term ‘rosé’ shall however not be used where the Glühwein is obtained by combining red wine with white wine or any of those wines with rosé wine.
+
+Where it has been prepared from a combination of red, white or rosé wine, the sales denomination shall be supplemented with the words ‘made from …’ followed by terms indicating the colour of the wines used in the production.
+
+By way of derogation from Article 5(1) and (3) of this Regulation and the first and third indents of the first subparagraph of this point, the sales denomination ‘ Glühwein ’ may be used in the presentation and labelling of fermented beverages produced in accordance with the above requirements which have been obtained from fruit wine, as defined by Member States in accordance with Part II, point 1, fifth subparagraph, point (a), of Annex VII to Regulation (EU) No 1308/2013, and which have an actual alcoholic strength by volume of not less than 5 % vol. In that case, the sales denomination of that fermented beverage may use the term ‘ Glühwein ’ supplemented by the word ‘fruit’ or the name of the fruit used for the production of such fruit wine.
+
+**(9) Viiniglögi/Vinglögg/Karštas vynas**
+
+Aromatised wine-based drink
+
+— which is obtained exclusively from red, white or rosé wine,
+
+— which is flavoured mainly with cinnamon or cloves, or both, and
+
+— which has an actual alcoholic strength by volume of not less than 7 % vol.
+
+Where it has been prepared exclusively from white, red or rosé wine, the sales denomination shall be supplemented with the terms ‘white’, ‘red’ or ‘rosé’, respectively.
+
+**(10) Maiwein**
+
+Aromatised wine-based drink
+
+— which is obtained from wine in which Galium odoratum (L.) Scop. (Asperula odorata L.), plants or extracts thereof has been added so as to ensure a predominant taste of Galium odoratum (L.) Scop. (Asperula odorata L.), and
+
+— which has an actual alcoholic strength by volume of not less than 7 % vol..
+
+**(11) Maitrank**
+
+Aromatised wine-based drink
+
+— which is obtained from white wine in which Galium odoratum (L.) Scop. (Asperula odorata L.) plants have been macerated or to which extracts thereof have been added with the addition of oranges and/or other fruits, possibly in the form of juice, concentrated or extracts, and with maximum 5 % sugar sweetening, and
+
+— which has an actual alcoholic strength by volume of not less than 7 % vol..
+
+**(12) Pelin**
+
+Aromatised wine-based drink
+
+— which is obtained from red, white or rosé wine or from a combination thereof and a specific mixture of herbs,
+
+— which has an actual alcoholic strength by volume of not less than 8,5 % vol.,
+
+— which has a maximum sugar content expressed as invert sugar of at most 50 grams per litre, and a total acidity of not less than 3 grams per litre expressed as tartaric acid, and
+
+— to which carbon dioxide may have been added.
+
+Where the product is obtained by combining red wine with white wine or any of these wines with rosé wine, the term ‘rosé’ may not supplement the sales denomination.
+
+Where it has been prepared from a combination of red, white or rosé wine, the sales denomination shall be supplemented with the words ‘made from …’ followed by terms indicating the colour of the wines used in the production.
+
+**(13) Aromatizovaný dezert**
+
+Aromatised wine-based drink
+
+— which is obtained from white or red wine, sugar and dessert spices mixture,
+
+— which has an actual alcoholic strength by volume of not less than 9 % vol. and less than 12 % vol., and
+
+— which has a sugar content expressed as invert sugar of 90-130 grams per litre and a total acidity of at least 2,5 grams per litre expressed as tartaric acid.
+
+‘ Aromatizovaný dezert ’ may be used as a sales denomination only when the product is produced in the Czech Republic. When the product is produced in other Member States, ‘ Aromatizovaný dezert ’ may only be used to supplement the sales denomination ‘aromatised wine-based drink’ provided that it is accompanied by the words ‘produced in …’ followed by the name of the Member State of production or of a more restricted region.
+
+**(14) Wino ziołowe**
+
+Aromatised wine-based drink:
+
+(a) which is obtained from wine and in which grapevine products represent at least 85 % of the total volume,
+
+(b) which has been flavoured exclusively with flavouring preparations obtained from herbs or spices or both,
+
+(c) which has not been coloured,
+
+(d) which has an actual alcoholic strength by volume of not less than 7 %
+
+**C. SALES DENOMINATIONS AND DESCRIPTIONS OF AROMATISED WINE-PRODUCT COCKTAILS**
+
+**(1) Aromatised wine-product cocktail**
+
+Product complying with the definition set out in Article 3(4).
+
+The use of the term ‘cocktail’ in this connection is without prejudice to its use to define products which do not fall within the scope of this Regulation.
+
+**(2) Wine-based cocktail**
+
+Aromatised wine-product cocktail
+
+— in which the proportion of concentrated grape must does not exceed 10 % of the total volume of the finished product,
+
+— which has an actual alcoholic strength by volume less than 7 % vol., and
+
+— in which the sugar content, expressed as invert sugar, is less than 80 grams per litre.
+
+**(3) Aromatised semi-sparkling grape-based cocktail**
+
+Aromatised wine-product cocktail
+
+— which is obtained exclusively from grape must,
+
+— which has an actual alcoholic strength by volume less than 4 % vol., and
+
+— which contains carbon dioxide obtained exclusively from fermentation of the products used.
+
+**(4) Sparkling wine cocktail**
+
+Aromatised wine-product cocktail, which is mixed with sparkling wine.
+
+## ANNEX III
+
+**CORRELATION TABLE**
+
+| Regulation (EEC) No 1601/91 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2(1) to (4) | Article 3 and Annex II |
+| Article 2(5) | Article 6(1) |
+| Article 2(6) | Article 6(2) |
+| Article 2(7) | — |
+| Article 3 | Article 4(1) and Annex I |
+| Article 4(1) to (3) | Article 4(1) and Annex I |
+| Article 4(4) | Article 4(3) |
+| Article 5 | Article 4(2) |
+| Article 6(1) | Article 5(1) and (2) |
+| Article 6(2)(a) | Article 5(4) |
+| Article 6(2)(b) | Article 20(1) |
+| Article 6(3) | Article 5(5) |
+| Article 6(4) | Article 9 |
+| Article 7(1) and (3) | — |
+| Article 7(2) | Article 5(3) |
+| Article 8(1) | — |
+| Article 8(2) | Article 5(1) and (2) |
+| Article 8(3) | Article 6(3) |
+| — | Article 7 |
+| Article 8(4), first and second paragraphs | — |
+| Article 8(4) third paragraph | Annex I, point 3, second paragraph |
+| Article 8(4a) | — |
+| Article 8(5) to (8) | Article 8 |
+| Article 8(9) | — |
+| Article 9(1) to (3) | Article 31 |
+| Article 9(4) | Article 32 |
+| Article 10 | Article 11 |
+| Article 10a | Article 2, point 3, and Articles 10 to 30 |
+| Article 11 | Article 1(3) |
+| Articles 12 to 15 | Articles 33 and 34 |
+| — | Article 35 |
+| Article 16 | Article 36 |
+| Article 17 | Article 37 |
+| Annex I | Annex I(3)(a) |
+| Annex II | — |
+
+( 1 ) Council Directive 2001/111/EC of 20 December 2001 relating to certain sugars intended for human consumption (OJ L 10, 12.1.2002, p. 53).
+
+( 2 ) Council Directive 2001/110/EC of 20 December 2001 relating to honey (OJ L 10, 12.1.2002, p. 47).
+
+( 3 ) Directive 2009/54/EC of the European Parliament and of the Council of 18 June 2009 on the exploitation and marketing of natural mineral waters (recast) (OJ L 164, 26.6.2009, p. 45).
+
+( 4 ) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).

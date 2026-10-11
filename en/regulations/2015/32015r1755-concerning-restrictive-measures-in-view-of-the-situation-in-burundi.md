@@ -1,0 +1,435 @@
+---
+title: "Council Regulation (EU) 2015/1755 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi"
+identifier: "32015R1755"
+eli: "http://data.europa.eu/eli/reg/2015/1755/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2015-10-01
+entry_into_force: 2015-06-16
+last_amended: 2025-09-24
+consolidated_version: "02015R1755-20250924"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R1755-20250924"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2015/1755 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi
+
+**COUNCIL REGULATION (EU) 2015/1755**
+
+**of 1 October 2015**
+
+**concerning restrictive measures in view of the situation in Burundi**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1605 of 25 October 2018 </td><td> L 268</td><td>18</td><td>26.10.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2019/1777 of 24 October 2019 </td><td> L 272</td><td>1</td><td>25.10.2019</td></tr>
+<tr><td> M4</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1779 of 24 October 2019 </td><td> L 272</td><td>5</td><td>25.10.2019</td></tr>
+<tr><td> M5</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1578 of 29 October 2020 </td><td> L 362</td><td>1</td><td>30.10.2020</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2043 of 24 October 2022 </td><td> L 275</td><td>50</td><td>25.10.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/2694 of 27 November 2023 </td><td> L 2694</td><td>1</td><td>28.11.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1940 of 22 September 2025 </td><td> L 1940</td><td>1</td><td>23.9.2025</td></tr>
+</table>
+
+C1
+
+**COUNCIL REGULATION (EU) 2015/1755**
+
+**of 1 October 2015**
+
+**concerning restrictive measures in view of the situation in Burundi**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefits of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly- and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body as listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include natural or legal persons, entities and bodies which, in accordance with Article 2(1) of Council Decision (CFSP) 2015/1763, have been identified by the Council as:
+
+(a) undermining democracy or obstructing the search for a political solution in Burundi, including by acts of violence, repression or inciting violence;
+
+(b) being involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute serious human rights abuses, in Burundi; and
+
+(c) associated with the persons, entities or bodies referred to in points (a) and (b).
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons listed in Annex I and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources; or
+
+(d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to authorisation.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 4
+
+1\. By way of derogation from Article 2(1), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are subject to an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 4a
+
+1\. Article 2(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations (UN), including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the UN General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the UN Humanitarian Response Plans, UN Refugee Response Plans, other UN appeals or humanitarian clusters coordinated by the UN Office for the Coordination of Humanitarian Affairs;
+
+(e) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures;
+
+(f) Member States’ specialised agencies; or
+
+(g) the employees, grantees, subsidiaries or implementing partners of the entities referred to in points (a) to (f) while and to the extent that they are acting in those capacities.
+
+2\. Without prejudice to paragraph 1, and by way of derogation from Article 2(1) and (2), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the relevant competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, that authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under paragraphs 2 and 3 within four weeks of such authorisation.
+
+## Article 5
+
+1\. By way of derogation from Article 2(1) and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources will be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 2(2).
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 6
+
+1\. Article 2(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 2 was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned;
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 2(1).
+
+## Article 7
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 2, to the competent authority of the Member State where they are resident or located, and shall transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of this information.
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 8
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2.
+
+## Article 9
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 10
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 11
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information:
+
+(a) in respect of funds frozen under Article 2 and authorisations granted under Articles 3, 4 and 5;
+
+(b) in respect of violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 12
+
+The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 13
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 2(1), it shall amend Annex I accordingly.
+
+2\. The Council shall communicate its decision, including the grounds for listing, to the natural or legal person, entity or body referred to in paragraph 1, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body accordingly.
+
+4\. The list in Annex I shall be reviewed at regular intervals and at least every 12 months.
+
+## Article 14
+
+1\. Annex I shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+2\. Annex I shall include, where available, information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify those rules to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 15a
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) may process personal data in order to carry out their tasks under this Regulation. These tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I to the electronic consolidated list of persons, groups and entities subject to Union financial restrictive measures and in the interactive sanctions map, both publicly available;
+
+(ii) processing information on the impact of measures taken under this Regulation, such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission service listed in Annex II to this Regulation and the High Representative are designated as ‘controllers’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725, in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 16
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 17
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board of any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 18
+
+This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of natural and legal persons, entities and bodies referred to in Article 2**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Grounds for designation</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"></td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notification to the European Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu

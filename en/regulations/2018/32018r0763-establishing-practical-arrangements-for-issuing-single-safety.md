@@ -1,0 +1,668 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/763 of 9 April 2018 establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007 (Text with EEA relevance. )"
+identifier: "32018R0763"
+eli: "http://data.europa.eu/eli/reg_impl/2018/763/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-04-09
+entry_into_force: 2018-03-28
+last_amended: 2020-06-16
+consolidated_version: "02018R0763-20200616"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0763-20200616"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/763 of 9 April 2018 establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007 (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/763**
+
+**of 9 April 2018**
+
+**establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/777 of 12 June 2020 </td><td> L 188</td><td>1</td><td>15.6.2020</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/763**
+
+**of 9 April 2018**
+
+**establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+This Regulation sets out the practical arrangements to be applied by railway undertakings when submitting applications for single safety certificates or for the renewal or update of such certificates through the one-stop shop facility referred to in Article 12 of Regulation (EU) 2016/796 of the European Parliament and of the Council ( 1 ) (‘one-stop shop’).
+
+It also sets out the practical arrangements to be applied by safety certification bodies when assessing applications for single safety certificates, or for the renewal or update of such certificates as well as for coordinating with the national safety authorities concerned with the intended area of operation.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘safety certification body’ means the body responsible for issuing a single safety certificate, either the Agency or a national safety authority;
+
+(2) ‘date of receipt of the application’ means:
+
+(a) where the Agency acts as the safety certification body, the first working day common to the Agency and to the national safety authorities concerned with the intended area of operation following the acknowledgement of receipt of the application file;
+
+(b) where a national safety authority acts as the safety certification body, the first working day in the Member State concerned following the acknowledgement of receipt of the application file;
+
+(3) ‘pre-engagement’ means a procedural stage preceding the submission of an application, in the course of which the applicant may request additional information on the following stages of the safety assessment process from the safety certification body and the national safety authorities concerned with the intended area of operation;
+
+(4) ‘residual concern’ means a minor issue identified during the assessment of an application for a single safety certificate which does not prevent its issuing and can be deferred for later supervision;
+
+(5) ‘relevant date’ means 16 June 2019 as regards those Member States that have not notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 that they have extended the transposition period of that Directive. It means 16 June 2020 as regards those Member States that have notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 that they have extended the transposition period of that Directive and that have not notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798. It means 31 October 2020 as regards those Member States that have notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798 that they have further extended the transposition period of that Directive.
+
+## Article 3 — Responsibilities of the Agency and the national safety authorities
+
+1\. In addition to the issuing of single safety certificates, the safety certification body shall be responsible for the following tasks:
+
+(a) the planning, implementation and monitoring of the assessment work it carries out;
+
+(b) the setting up of coordination arrangements between the relevant parties.
+
+2\. The safety certification body and the national safety authorities concerned with the intended area of operation shall accept pre-engagement at the request of the applicant and shall provide any clarifications requested by the applicant in the context of the pre-engagement.
+
+3\. For the purposes of issuing single safety certificates, the safety certification body and the national safety authorities concerned with the intended area of operation shall, each for their own part, compile the following information:
+
+(a) all relevant information concerning the different stages of the assessment, including the reasons for the decisions taken during the assessment and the identification of any restriction or condition of use to be included in the single safety certificate;
+
+(b) the outcome of the assessment, including summary conclusions and where appropriate, an opinion concerning the issuing of the single safety certificate.
+
+4\. Where the Agency acts as the safety certification body, it shall compile the information referred to in point (b) of paragraph 3 in the final outcome of the assessment.
+
+5\. The Agency shall monitor the expiry dates of all valid single safety certificates with an area of operation in more than one Member State and share that information with the relevant national safety authorities.
+
+6\. National safety authorities shall share with the Agency and other national safety authorities concerned with the intended area of operation all relevant information that may have an impact on the safety assessment process.
+
+7\. The Agency shall publish and keep up to date an application guide, free of charge, in all the official languages of the Union, describing and where necessary explaining the requirements set out in this Regulation. The application guide shall also include model templates developed by the Agency in cooperation with the national safety authorities.
+
+8\. The national safety authorities shall publish and keep up to date an application guide, free of charge, describing and where necessary explaining the national rules that apply in respect of the intended area of operation and the applicable national procedural rules.
+
+9\. The Agency and the national safety authority shall establish internal arrangements or procedures for managing the safety assessment process. Those arrangements or procedures shall take into account the agreements referred to in Article 11 of Directive (EU) 2016/798.
+
+10\. Each single safety certificate shall be given a unique European Identification Number (EIN). The Agency shall define the structure and content of EINs and make them available on its website.
+
+11\. Where the applicant indicates in its application that it intends to operate to stations in neighbouring Member States with similar network characteristics and similar operating rules, when those stations are close to the border, the single safety certificate shall also be valid to such stations without requesting an extension of the area of operation, following consultation of the national safety authorities of the neighbouring Member States by the safety certification body. The national safety authorities of the Member States concerned shall confirm to the safety certification body that the relevant notified national rules and the obligations pertaining to the relevant cross-border agreements are met before it issues the single safety certificate.
+
+12\. For the purposes of the assessment of applications, the safety certification body shall accept the authorisations, recognitions or certificates of products or services provided by railway undertakings or their contractors, partners or suppliers, granted in accordance with relevant Union law, as proof of the ability of railway undertakings to fulfil the corresponding requirements defined in Commission Delegated Regulation (EU) 2018/762 ( 2 ).
+
+## Article 4 — Responsibilities of applicants
+
+1\. Without prejudice to the timeframe allowed for the assessment set out in Article 6, the applicant shall submit the application for a single safety certificate, or for the update or renewal of such a certificate, through the one-stop shop before the following dates, as appropriate:
+
+(a) the planned start date of any new rail transport operation;
+
+(b) the planned start date of a rail transport operation under conditions other than those laid down in the current single safety certificate, following a substantial change made to the type, extent or area of operation;
+
+(c) the expiry date of the current single safety certificate.
+
+2\. When submitting an application for a new single safety certificate, the applicant shall provide the information listed in Annex I.
+
+3\. When submitting an application for the update or renewal of a single safety certificate, the applicant shall provide the information listed in Annex I and describe changes made since the current certificate was issued.
+
+If major non-compliances, which may affect safety performance or create serious safety risks, or any other areas of concern are identified during supervision activities since the previous assessment, the safety certification body and the national safety authorities concerned with the intended area of operation shall decide whether the whole application file needs to be re-assessed.
+
+4\. The selection of the safety certification body made by the applicant shall be binding until the safety assessment process is completed or terminated.
+
+5\. When the applicant requests pre-engagement, it shall submit the information listed in points 1 to 6 of Annex I through the one-stop shop.
+
+6\. Where the submitted file contains copies of documents issued by entities other than the safety certification body, the applicant shall keep the originals for at least 5 years after the end of the period of validity of the single safety certificate. In the case of renewal or update, the applicant shall keep the originals of documents submitted for that application and issued by entities other than the safety certification body for at least 5 years after the end of the period of validity of the renewed or updated single safety certificate. The applicant shall make available those original documents at the request of the Agency or the national safety authorities.
+
+## Article 5 — Language
+
+1\. Where the Agency acts as the safety certification body, the language to be used for the application shall be as follows:
+
+(a) for the part of the application file referred to in point (a) of Article 10(3) of Directive (EU) 2016/798, one of the official languages of the Union at the choice of the applicant;
+
+(b) for the parts of the application file referred to in point (b) of Article 10(3) of Directive (EU) 2016/798, as well as for the parts of the application file referred to in point 8.1 of Annex I, the language determined by the Member State concerned and indicated in the application guide referred to in Article 3(8) of this Regulation.
+
+2\. Any decision concerning the issuing of the single safety certificate taken by the Agency, including the reasons for the decision in the final outcome of the assessment and where applicable, the single safety certificate, shall be in the language referred to in point (a) of paragraph 1.
+
+## Article 6 — Procedural stages and timeframes
+
+1\. The safety certification body and the national safety authorities concerned with the intended area of operation shall apply the process set out in Annex II.
+
+2\. The safety certification body and the national safety authorities concerned with the intended area of operation shall evaluate, each for their own part, whether the application file contains the required documentary evidence listed in Annex I. The safety certification body shall inform the applicant, without undue delay, and in any case no later than one month following the date of receipt of the application, whether the application is complete.
+
+3\. The decision on the issuing of the single safety certificate shall be taken no later than four months following the date on which the applicant is informed that the application is complete, subject to paragraphs 5 to 7.
+
+4\. If the applicant is informed that its file is not complete, the safety certification body, in coordination with the national safety authorities concerned with the intended area of operation, shall request the necessary supplementary information promptly, including justifications and details of the timeframe for the applicant's response.
+
+The timeframe for providing supplementary information shall be reasonable, proportionate to the difficulty of providing the information requested and agreed with the applicant as soon as it is informed that its file is not complete. If the applicant does not provide the required information within the agreed timeframe, the safety certification body may decide to extend the timeframe for the applicant's response or to notify the applicant that its application is rejected.
+
+The decision on the issuing of the single safety certificate shall be taken no later than four months following the date on which the requested supplementary information is submitted by the applicant.
+
+5\. Even if the application file is complete, the Agency or any national safety authority concerned with the intended area of operation may request further information at any time prior to taking its decision and shall set a reasonable deadline for the provision thereof. Such a request shall extend the timeframe laid down in paragraph 3 of this Article under the conditions laid down in Annex II.
+
+6\. The timeframe in paragraph 3 of this Article may be extended by the Agency for the following periods referred to in Article 10(7) of Directive (EU) 2016/798:
+
+(a) the period of cooperation with a view to agreeing on a mutually acceptable assessment;
+
+(b) the period when the matter is referred to the Board of Appeal for arbitration.
+
+7\. The timeframe may also be extended for the time necessary for the applicant to arrange a visit or inspection on its sites, or an audit of its organisation.
+
+8\. The single safety certificate shall contain the information listed in Annex III.
+
+## Article 7 — Communication
+
+1\. The safety certification body, the national safety authorities concerned with the intended area of operation and the applicant shall communicate through the one-stop shop as regards any issue referred to in Article 12.
+
+2\. The status of all stages of the safety assessment process, the outcome of the assessment and the decision on the application shall be communicated to the applicant through the one-stop shop.
+
+3\. Without prejudice to paragraph 1, the application guides of the Agency and of the national safety authorities shall indicate arrangements for communicating between themselves and with the applicant.
+
+4\. The one-stop shop shall acknowledge receipt of the application for a single safety certificate.
+
+## Article 8 — Period of validity of single safety certificates
+
+Single safety certificates shall be valid for a period of five years.
+
+However, if a shorter period is necessary to ensure the effective control of risks affecting the safety of railway operations, the safety certification body may decide, in coordination with the national safety authorities concerned with the intended area of operation, to grant the single safety certificate for a period of less than five years. In this case, the safety certification body shall include the reasons for its decision in the outcome of the assessment registered in accordance with Article 9.
+
+## Article 9 — Information management
+
+The safety certification body and the national safety authorities concerned with the intended area of operation shall register all relevant information and the outcome of the assessment referred to in Article 3(3) in the one-stop shop. The Agency shall also register the final outcome of the assessment referred to in Article 3(4) in the one-stop shop.
+
+Where the national safety authorities use an information management system for processing the applications addressed to them, they shall transfer all relevant information to the one-stop shop.
+
+## Article 10 — Arrangements for visits and inspections on the sites of railway undertakings and audits
+
+1\. When undertaking visits and inspections on the sites of applicants and audits, as referred to in Article 10(5) of Directive (EU) 2016/798, the objectives and scope of these visits and inspections on the sites of applicants and audits, as well as the role assigned to each authority, shall be coordinated between the Agency and the national safety authorities concerned with the intended area of operation.
+
+2\. When undertaking visits and inspections on the sites of applicants and audits, as referred to in Article 10(5) and (8) of Directive (EU) 2016/798, the body responsible for carrying out the visit, inspection or audit shall produce a report, identifying issues identified in the course of the assessment and specifying whether they have been closed by evidence provided during the visit, inspection or audit and, if so, how. That report may also include additional issues referred to in Article 12 to be resolved by the applicant within an agreed timeframe.
+
+3\. In the case of visits, inspections on the sites of applicants and audits as referred to in Article 10(5) and (8) of Directive (EU) 2016/798 cases, the applicant shall provide details of who will represent it and the site safety rules and procedures that need to be respected by the body responsible for carrying out the visit, inspection or audit. The timeframe for visits, inspections and audits, including the provision of the information referred above, shall be agreed among the authorities concerned and the applicant.
+
+## Article 11 — Coordination between the Agency and national safety authorities
+
+1\. When acting as the certification body, the Agency shall coordinate with the national safety authorities concerned with the intended area of operation at the different stages of the safety assessment process. The Agency and the national safety authorities shall discuss any issues relating to the safety assessment process, including any deficiency, and any requests for supplementary information which have an impact on the timeframe of the assessment or have the potential to affect the work of the other national safety authorities concerned with the area of operation.
+
+2\. Without prejudice to paragraph 1, each body involved in the safety assessment process may take direct contact with the applicant with regard to issues related to its own part of the assessment.
+
+3\. Before deciding on the issuing of a single safety certificate, the Agency and the national safety authorities concerned with the intended area of operation shall take the following steps:
+
+(a) discuss the outcome of their respective assessments;
+
+(b) agree on any residual concerns to be deferred for consideration during later supervision;
+
+(c) agree on any restrictions or conditions of use to be included in the single safety certificate.
+
+4\. Where the applicant establishes an action plan to address the residual concerns referred to in point (b) of paragraph 3, the national safety authorities shall agree which of them shall follow up its completion. To that end, the national safety authorities shall coordinate where appropriate, in accordance with the arrangements referred to in Article 8(2) of Delegated Regulation (EU) 2018/761 ( 3 ), and inform the Agency about their agreement and the outcome of their related supervision activities.
+
+The Agency shall take into account information on the outcome of supervision activities carried out by the national safety authorities concerned with the intended area of operation regarding the follow up of residual concerns to decide whether these can be closed during the assessment of the update or renewal application.
+
+5\. The Agency shall keep records of coordination activities and shall register them in the one-stop shop in accordance with Article 9.
+
+## Article 12 — Categorisation of issues
+
+1\. The safety certification body and the national safety authorities concerned with the intended area of operation shall categorise issues identified in the course of their assessment of the application file as follows:
+
+(a) ‘Type 1’: issues that require a response from the applicant for the understanding of the application file;
+
+(b) ‘Type 2’: issues that may lead to an amendment of the application file or minor action from the applicant; the action to be taken shall be left to the judgement of the applicant and shall not prevent the issuing of the single safety certificate;
+
+(c) ‘Type 3’: issues that require specific action to be taken by the applicant, completion of which may be postponed until after the single safety certificate is granted; action to resolve an issue shall be proposed by the applicant and shall be agreed with the party that identified the issue;
+
+(d) ‘Type 4’: issues that require an amendment of the application file or specific action to be taken by the applicant; the single safety certificate shall not be granted unless the issue is resolved or restrictions or conditions of use are included in the certificate to address the issue; any action to resolve an issue shall be proposed by the applicant and shall be agreed with the party that identified the issue.
+
+2\. Following the response or the action taken by the applicant according to the issue, the safety certification body or the national safety authority concerned shall re-evaluate the issues it identified, re-classify them where relevant and assign one of the following statuses for each of the issues identified:
+
+(a) ‘Issue pending’ if the evidence provided by the applicant is not satisfactory and additional information is still required;
+
+(b) ‘Residual concern for supervision’ if a residual concern still exists;
+
+(c) ‘Issue closed out’ if a suitable applicant's response has been provided and no residual concern remains.
+
+## Article 13 — Competence of the staff involved in assessments
+
+1\. The Agency and the national safety authorities shall ensure that staff involved in assessments have the following competencies:
+
+(a) knowledge of the relevant regulatory framework as it applies to assessment;
+
+(b) knowledge of the functioning of the railway system;
+
+(c) appropriate level of critical analysis;
+
+(d) experience in the assessment of a safety or similar management system in the railway sector, or a safety management system in a sector with equivalent operational and technical challenges;
+
+(e) problem solving, communication and team working;
+
+(f) any other competency required by a particular assessment.
+
+In the case of team work, the competencies may be shared amongst the team members.
+
+Staff carrying out visits, inspections and audits as referred to in Article 10 shall also demonstrate knowledge of, and experience in interviewing skills.
+
+2\. With a view to ensuring the correct application of paragraph 1, the Agency and the national safety authorities shall put in place a competence management system which shall include:
+
+(a) the development of competence profiles for each job, position or role;
+
+(b) the recruitment of staff in accordance with the established competence profiles;
+
+(c) the maintenance, development and assessment of staff competence in accordance with the established competence profiles.
+
+## Article 14 — Review under Article 10(12) of Directive (EU) 2016/798
+
+1\. Where the safety certification body issues a negative decision, which includes the refusal of the single safety certificate, the exclusion of part of the network in accordance with a negative assessment as referred to in Article 10(7) of Directive (EU) 2016/798 and the identification of restrictions or conditions of use other than those requested in the application, the applicant may request the review of the decision.
+
+2\. The request for review shall be submitted by the applicant through the one-stop shop and include a list of any issues that, in the view of the applicant, have not been properly considered during the safety assessment process.
+
+3\. Any supplementary information provided after the adoption of the decision on issuing or refusing a single safety certificate shall not be admissible as evidence.
+
+4\. The safety certification body in coordination with the national safety authorities concerned with the intended area of operation shall ensure impartiality of the review process.
+
+5\. The review process shall target the issues justifying the deviation of the decision of the safety certification body from the applicant's request.
+
+6\. Where the Agency acts as the safety certification body, the review shall be carried out in coordination with the national safety authorities concerned with the intended area of operation.
+
+7\. The safety certification body shall communicate its decision to confirm or to adapt the initial decision to all parties involved in the assessment, including the applicant, through the one-stop shop.
+
+## Article 15 — Transitional provisions
+
+1\. Where a national safety authority recognises that it will not be able to issue a safety certificate in accordance with Directive 2004/49/EC before the relevant date in the Member State concerned, it shall inform the applicant and the Agency immediately.
+
+2\. In the case referred to in Article 10(8) of Directive (EU) 2016/798, the applicant shall decide whether the application should continue to be assessed by the national safety authority or transferred to the Agency. The applicant shall inform both and the following shall apply:
+
+(a) In cases where the applicant has decided to use the Agency as safety certification body, the national safety authority shall transfer the application file and the results of the assessment referred to in point (a) of Article 10(2) of Directive 2004/49/EC to the Agency. The Agency and the national safety authority shall cooperate and assist the applicant to supplement the application in order to meet the additional requirements of Article 9 of Directive (EU) 2016/798.
+
+(b) In cases where the applicant has decided to use the national safety authority as safety certification body, the national safety authority shall continue the assessment of the application and decide on the issue of the single safety certificate in accordance with Article 10 of Directive (EU) 2016/798 and this Regulation. That authority shall assist the applicant to supplement the application in order to meet the additional requirements of Article 9 of Directive (EU) 2016/798.
+
+3\. In the case of an applicant intending to operate in more than one Member State, the safety certification body shall be the Agency and the procedure set out in point (a) of paragraph 2 applies.
+
+4\. In all cases, the applicant shall submit the revised application after the relevant date in the Member State concerned through the one-stop shop. The safety certification body shall assist the applicant in this task.
+
+4a. Notwithstanding paragraphs 1 to 4, in those Member States that have notified the Agency and the Commission in accordance with 33(2) of Directive (EU) 2016/798 and where Directive (EU) 2016/798 shall apply from 16 June 2020, the NSA shall, at the request of the applicant, continue to carry out the assessment of the applications for a safety certificate in accordance with Directive 2004/49/EC, beyond 16 June 2020, provided that it shall issue the safety certificate before 30 October 2020.
+
+Where a NSA recognises that it will not be able to issue a safety certificate before 30 October 2020, it shall inform the applicant and the Agency immediately and paragraphs 2 to 4 shall apply.
+
+5\. After the relevant date, any railway undertaking established in the Member State concerned, for which a safety certificate issued in accordance with Directive 2004/49/EC needs renewal or update resulting from changes to type, extent and area of operation, shall submit a new application for a single safety certificate through the one-stop shop, in accordance with this Regulation.
+
+6\. Where the area of intended operation is not limited to one Member State, a single safety certificate issued by the Agency between 16 June 2019 and 16 June 2020 shall exclude the network or networks in any of the Member States that have notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 and that have not yet transposed that Directive and not brought into force its national transposition measures. The national safety authorities of the Member States that have made such a notification shall:
+
+(a) treat a single safety certificate issued by the Agency as equivalent to the part of the safety certificate issued in accordance with point (a) of Article 10(2) of Directive 2004/49/EC;
+
+(b) issue safety certificates in accordance with point (b) of Article 10(2) of Directive 2004/49/EC from 16 June 2019 with a validity period not extending beyond that of the single safety certificate.
+
+6a. Where the area of intended operation is not limited to one Member State, a single safety certificate issued by the Agency between 16 June 2020 and 30 October 2020 shall exclude the network or networks in any of the Member States that have notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798. The national safety authorities of the Member States that have made such a notification shall:
+
+(a) treat a single safety certificate issued by the Agency as equivalent to the part of the safety certificate issued in accordance with point (a) of Article 10(2) of Directive 2004/49/EC;
+
+(b) issue, from 16 June 2020, safety certificates in accordance with point (b) of Article 10(2) of Directive 2004/49/EC with a validity period not extending beyond that of the single safety certificate.
+
+7\. In the cases referred to in point (a) of paragraph 2 and in paragraphs 6 and 6a of this Article, the national safety authority shall cooperate and coordinate with the Agency to undertake the assessment of the elements set out in point (a) of Article 10(3) of Directive (EU) 2016/798. In doing so, the Agency shall accept the assessment referred to in point (a) of Article 10(2) of Directive 2004/49/EC carried out by the national safety authority.
+
+8\. Between 16 June 2020 and 30 October 2020, in Member States that have notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798, applicants for a safety certificate for the purposes of Directive 2004/49/EC may submit to the national safety authorities a file compiled in accordance with Annex I.
+
+Applications for safety certificates in accordance with this Regulation shall be accepted by the national safety authorities referred to in the first subparagraph for the purposes of Directive 2004/49/EC.
+
+## Article 16 — Repeal
+
+Regulation (EC) No 653/2007 is repealed with effect from 16 June 2019.
+
+However, it shall continue to apply until 15 June 2020 in respect of those Member States that have notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 that they have extended the period for transposition of that Directive and that have not notified the Agency and the Commission in accordance with 33(2a) of Directive (EU) 2016/798.
+
+It shall continue to apply until 30 October 2020 in respect of those Member States that have notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798 that they have extended the period for transposition of that Directive.
+
+## Article 17 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 16 June 2019 in the Member States that have not notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798.
+
+It shall apply from 16 June 2020 in the Member States that have notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 and that have not notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798.
+
+It shall apply in all Member States from 31 October 2020.
+
+However, paragraphs (1), (2), (3) and (7) of Article 15 shall apply from 16 February 2019 and Article 15(6) shall apply from 16 June 2019, in all Member States.
+
+Articles 15(6a) shall apply from 16 June 2020 in all Member States.
+
+Article 15(8) shall apply from 16 June 2020 in Member States that have notified the Agency and the Commission in accordance with Article 57(2a) of Directive (EU) 2016/797.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Content of the application for a single safety certificate**
+
+Note: all information is mandatory, including the documents annexed to the application, except where indicated with ‘O’ (optional). Where the railway undertaking needs to establish a corrective action plan referred to in point 9, the information about it is mandatory.
+
+**1\. Type of application:**
+
+1.1. New
+
+1.2. Renewal
+
+1.3. Update
+
+1.4. EIN of the previous certificate (in case of renewal or update application only)
+
+**2\. Type of operation requested (select one or more) ( 4 ):**
+
+2.1. Passenger transport including high-speed services
+
+2.2. Passenger transport excluding high-speed services
+
+2.3. Freight transport including dangerous goods services ( 5 )
+
+2.4. Freight transport excluding dangerous goods services
+
+2.5. Shunting only
+
+2.6. Other (specify)
+
+**3\. Rail transport operations:**
+
+3.1. Expected date of starting services/operations (O)
+
+3.2. Member State(s) concerned with the intended area of operation
+
+3.3. Definition of the intended area of operation (for the concerned networks) ( 6 )
+
+3.4. Station(s) in neighbouring Member State(s) (in the cases referred to in Article 3(11) of Implementing Regulation (EU) 2018/763 and Article 10(8) of Directive (EU) 2016/798)
+
+**4\. Safety certification body:**
+
+4.1. The Agency
+
+4.2. The national safety authority (in the cases referred to in Article 10(8) of Directive (EU) 2016/798)
+
+**5\. Applicant's information:**
+
+5.1. Legal denomination
+
+5.2. Acronym (O)
+
+5.3. Complete postal address
+
+5.4. Phone
+
+5.5. Fax (O)
+
+5.6. Email
+
+5.7. Website (O)
+
+5.8. National registration number
+
+5.9. VAT number (O)
+
+5.10. Other relevant information (O)
+
+**6\. Contact person information:**
+
+6.1. First name
+
+6.2. Surname
+
+6.3. Title or function
+
+6.4. Complete postal address
+
+6.5. Phone
+
+6.6. Fax (O)
+
+6.7. Email
+
+6.8. Language or languages spoken
+
+**Documents annexed to the application**
+
+**7\. Documents submitted for the safety management system part of the assessment:**
+
+7.1. Description of the safety management system and other documents demonstrating compliance with the requirements set out in point (a) of Article 10(3) of Directive (EU) 2016/798 and showing how those requirements are met.
+
+7.2. Information cross-referencing the safety management system (see point 7.1) against Annex I to Delegated Regulation (EU) 2018/762, including an indication where in the safety management system documentation the relevant requirements of the applicable technical specification for interoperability relating to the operation and traffic management subsystem are met.
+
+**8\. Documents submitted for the national part (for each Member State covered by the intended area of operation) of the assessment:**
+
+8.1. Description or other demonstration of how the safety management arrangements address the relevant national rules notified in accordance with Article 8 of Directive (EU) 2016/798.
+
+8.2. Information cross-referencing the safety management system (see point 7.1) against the requirements laid down in the relevant national rules (see point 8.1).
+
+**9\. Corrective action plan(s)**
+
+9.1. The current status of the action plan or plans established by the railway undertaking to resolve any major non-compliance and any other area of concern identified during supervision activities since the previous assessment.
+
+9.2. The current status of the action plan or plans established by the railway undertaking to resolve residual concerns from the previous assessment.
+
+## ANNEX II
+
+**Safety assessment process**
+
+**1\. GENERAL**
+
+1.1. The safety certification body and the national safety authorities concerned with the intended area of operation shall develop a structured and auditable process for the complete activity which takes into account the elements set out in this Annex. The safety assessment process shall be iterative, as shown in the diagram below (see Figure 1 in the Appendix), that is the safety certification body and the national safety authorities concerned with the intended area of operation shall be entitled to make reasonable requests for further information or re-submission in accordance with this Regulation.
+
+**2\. RECEIPT OF APPLICATION**
+
+2.1. After receiving the application for a single safety certificate, the safety certification body shall formally and promptly acknowledge receipt of the application.
+
+2.2. The safety certification body and the national safety authorities concerned with the intended area of operation shall assign competent resources to deliver the assessment process.
+
+**3\. INITIAL SCREEN**
+
+3.1. The safety certification body in coordination with the national safety authorities concerned with the intended area of operation shall undertake promptly on receipt of the application an initial screen to check the following elements:
+
+(a) the applicant has provided the basic information which is either required by the legislation or needed for it to be processed effectively;
+
+(b) the application file contains sufficient evidence and is structured and internally cross-referenced so that it can be properly assessed against the safety management system requirements and relevant notified national rules. The safety certification body in coordination with the national safety authorities concerned with the intended area of operation shall conduct an initial review of the actual content of the evidence contained in the application to make an initial judgement on the quality, sufficiency and appropriateness of the safety management system;
+
+(c) if applicable, the current status of the action plan (or plans) established by the railway undertaking to resolve any major non-compliance and any other area of concern identified during supervision activities since the previous assessment is included;
+
+(d) if applicable, the current status of the action plan (or plans) established by the railway undertaking to resolve residual concerns from previous assessment is included.
+
+3.2. The national safety authorities concerned with the intended area of operation shall also check that the evidence for the type, extent and intended area of operation is clearly identified.
+
+3.3. Following the checks referred to in points 3.1 and 3.2, the safety certification body and the national safety authorities concerned with the intended area of operation shall decide if there are any areas in which, for their respective part, further information is necessary. Where further information is necessary, the safety certification body and the national safety authorities concerned with the intended area of operation may promptly seek the information, to the extent that they deem reasonably necessary to support their assessment.
+
+3.4. The safety certification body and the national safety authorities concerned with the intended area of operation shall read a sufficient sample of the application, each for their own part, to check that its content is understandable. If it is clearly not, the safety certification body and the national safety authorities concerned with the intended area of operation shall decide, each for their own part, whether it needs to be returned, with a request for an improved version.
+
+**4\. DETAILED ASSESSMENT**
+
+4.1. After the completion of the initial screen stage, the safety certification body and the national safety authorities concerned with the intended area of operation shall proceed, each for their own part, to the detailed assessment of the application file (see Figure 2 in the Appendix), using the safety management system requirements and relevant notified national rules.
+
+4.2. In undertaking the detailed assessment referred to in point 4.1, in accordance with Article 18(1) of Directive (EU) 2016/798, the safety certification body and the national safety authorities concerned with the intended area of operation shall exercise professional judgment, be impartial and proportionate, and provide documented reasons for conclusions reached.
+
+4.3. The assessment shall determine whether the safety management system requirements and relevant notified national rules are met or whether further information shall be requested. During the assessment, the safety certification body and the national safety authorities concerned with the intended area of operation shall also seek evidence that the safety management system requirements and relevant notified national rules have been met from the outputs of the safety management system processes, using sampling methods where appropriate, to ensure that the applicant has understood and can meet the requirements according to the type and extent of the railway operations and the intended area of operation in order to ensure safe operation of the railway.
+
+4.4. Any type 4 issue shall be resolved to the satisfaction of the safety certification body and lead to an update of the application file where appropriate before the single safety certificate can be issued.
+
+4.5. Residual concerns may be deferred for consideration to supervision, or actions may be agreed upon with the applicant, based on its proposal for updating the application file, or both. In such a case formal resolution of the issue shall take place after the issue of the single safety certificate.
+
+4.6. The safety certification body and the national safety authorities concerned with the intended area of operation shall be transparent on how they judge the severity of each identified issue referred to in Article 12(1).
+
+4.7. When identifying an issue referred to in Article 12(1), the safety certification body and the national safety authorities concerned with the intended area of operation shall be specific and help the applicant understand the level of detail expected in the response. To that end, the safety certification body and the national safety authorities concerned with the intended area of operation shall take the following steps:
+
+(a) refer accurately to the relevant safety management system requirements and notified national rules and help the applicant to understand the identified issues;
+
+(b) identify the relevant part of related regulations and rules;
+
+(c) state why the individual safety management system requirement or notified national rule, including any related legislation, is not met;
+
+(d) agree with the applicant on further commitments, documents and any other supporting information to be provided, as required by the level of detail of the safety management system requirement or the notified national rule;
+
+(e) specify and agree with the applicant on a timeframe for compliance, reasonable and proportionate to the difficulty of providing the information requested.
+
+4.8. If the applicant significantly delays providing the requested information, the safety certification body may decide to extend the timeframe for the applicant's response or to reject the application after notice.
+
+4.9. The timeframe for taking the decision on the issuing of the single safety certificate may only be extended, until the requested information has been submitted, upon decision of the safety certification body in coordination with the national safety authorities concerned with the intended area of operation and with the agreement of the applicant in one of the following cases:
+
+(a) type 1 issues referred to in Article 12(1) that, considered individually or collectively, prevent the assessment or parts of it from continuing;
+
+(b) type 4 issues or multiple type 3 issues referred to in Article 12(1) that, considered collectively, may raise the category to a type 4 issue, preventing the issuing of the single safety certificate.
+
+4.10. To be satisfactory, the applicant's written responses shall be sufficient to allay the concerns expressed and to demonstrate that its proposed arrangements will meet the relevant criteria or notified national rules.
+
+4.11. Where a response is considered unsatisfactory, it shall be explained precisely why, identifying the further information or demonstration required of the applicant to make it satisfactory.
+
+4.12. If concerns emerge that the application could be rejected, or that it will take a longer time to reach a decision than the timeframe allowed for the assessment, the safety certification body may consider possible contingency measures.
+
+4.13. When it is concluded that either the application meets all requirements or that further progress is unlikely in securing satisfactory responses to outstanding matters, the safety certification body and the national safety authorities concerned with the intended area of operation shall, each for their own part, complete the assessment by the following steps:
+
+(a) stating whether all criteria have been met or whether there are still matters outstanding;
+
+(b) identifying any residual concern;
+
+(c) identifying any restriction or condition of use to be included in the single safety certificate;
+
+(d) reporting on the follow-up of major non-compliances identified during supervision activities, as referred to in Article 5 of Delegated Regulation (EU) 2018/761, where appropriate;
+
+(e) ensuring that the safety assessment process has been correctly applied;
+
+(f) compiling the outcome of the assessment, including summary conclusions and where appropriate, an opinion concerning the issuing of the single safety certificate.
+
+4.14. The safety certification body and the national safety authorities concerned with the intended area of operation shall record and justify in writing all findings and judgments in order to facilitate both the assurance process and the decision-making process, as well as to assist with any appeal against the decision to issue or not the single safety certificate.
+
+**5\. DECISION-MAKING**
+
+5.1. Based on the conclusions of the completed assessment, a decision shall be made on whether to issue a single safety certificate or to reject the application. Where a single safety certificate is to be issued, some residual concerns may be identified. A single safety certificate shall not be issued where any type 4 issue referred to in Article 12(1) is identified and not resolved during the assessment.
+
+5.2. The safety certification body may decide to restrict the scope of the single safety certificate, by identifying restrictions or conditions of use, if it is concluded in coordination with the national safety authorities concerned with the intended area of operation that such restrictions or conditions of use address any type 4 issue that would prevent the issue of the single safety certificate. The single safety certificate shall be updated on request of the applicant after all residual concerns have been addressed in its application file.
+
+5.3. The applicant shall be informed about the decision of the safety certification body, including the outcome of the assessment, and a single safety certificate shall be issued as appropriate.
+
+5.4. If the issuing of the single safety certificate is refused or if the single safety certificate contains restrictions or conditions of use other than those defined in the application, the safety certification body shall inform the applicant, giving the reasons for the decision, and notify it of the procedure to request a review of or to appeal against the decision.
+
+**6\. CLOSING ASSESSMENT**
+
+6.1. The safety certification body shall complete the administrative closure by ensuring that all documents and records are reviewed, organised and archived. To continually improve its process, the safety certification body shall identify historic information and lessons learned for use by future assessments.
+
+**7\. SPECIFIC PROVISIONS FOR THE RENEWAL OF A SINGLE SAFETY CERTIFICATE**
+
+7.1. A single safety certificate may be renewed upon request of the applicant before the expiry of its validity to ensure continuity of certification.
+
+7.2. In the case of a renewal application, the safety certification body and the national safety authorities concerned with the intended area of operation shall check details of changes to the evidence submitted in the previous application and consider the results of past supervision activities as referred to in Article 5 of Delegated Regulation (EU) 2018/761 to prioritise or target the relevant safety management system requirements and notified national rules upon which to assess the renewal application.
+
+7.3. The safety certification body and the national safety authorities concerned with the intended area of operation shall take a proportionate approach to re-assessment, based on the degree of changes proposed.
+
+**8\. SPECIFIC PROVISIONS FOR THE UPDATE OF A SINGLE SAFETY CERTIFICATE**
+
+8.1. A single safety certificate shall be updated whenever there is a substantial change proposed to the type or extent of operation in accordance with Article 10(13) of Directive (EU) 2016/798, or in case of extension of the area of operation in accordance with Article 10(14) of that Directive.
+
+8.2. Where it intends to make any change referred to in point 8.1, the railway undertaking holding the single safety certificate shall notify the safety certification body without delay.
+
+8.3. Following the notification by the railway undertaking as referred to in point 8.2, the safety certification body shall:
+
+(a) check that the change relating to any potential application is clearly described and that potential safety risks are assessed;
+
+(b) discuss with the railway undertaking and the national safety authorities concerned with the intended area of operation the need for an update of the single safety certificate.
+
+8.4. The safety certification body in coordination with the national safety authorities concerned with the intended area of operation may make further enquiries with the applicant. Where the safety certification body agrees that the proposed change is not substantial, it shall inform the applicant in writing that an update is not required, keeping a record of the decision for the registered file.
+
+8.5. In the case of an update application, the safety certification body and the national safety authorities concerned with the intended area of operation shall:
+
+(a) check details of changes to the evidence submitted in the previous application upon which the current certificate was issued;
+
+(b) consider the results of past supervision activities as referred to in Article 5 of Delegated Regulation (EU) 2018/761, and in particular, issues relating to the ability of the applicant to effectively implement and monitor its change management process;
+
+(c) prioritise or target the relevant safety management system requirements and notified national rules in order to assess the update application.
+
+8.6. The safety certification body and the national safety authorities concerned with the intended area of operation shall take a proportionate approach to re-assessment, based on the degree of changes proposed.
+
+8.7. An application to the safety certification body to update a single safety certificate shall not lead to the extension of its validity period.
+
+8.8. The safety certification body shall decide at the request of the applicant whether the single safety certificate needs to be updated where the conditions under which the single safety certificate was issued are to be changed without any impact on the type, extent or area of operation.
+
+## Appendix
+
+**Safety assessment process**
+
+**Figure 1: Safety assessment process.**
+
+[image]
+
+**Detailed assessment process**
+
+**Figure 2: Detailed assessment process.**
+
+[image]
+
+## ANNEX III
+
+**Content of the single safety certificate**
+
+The single safety certificate confirming acceptance of the railway undertaking's safety management system including the provisions adopted by the railway undertaking to meet specific requirements necessary for safe operation on the relevant network in conformity with Directive (EU) 2016/798 and applicable national legislation shall contain the following information:
+
+1\. European Identification Number (EIN) of the single safety certificate
+
+2\. Identification of the railway undertaking:
+
+2.1. Legal denomination
+
+2.2. National registration number
+
+2.3. VAT number
+
+3\. Identification of the safety certification body:
+
+3.1. Organisation
+
+3.2. Member State (where applicable)
+
+4\. Certificate information:
+
+4.1. New
+
+4.2. Renewal
+
+4.3. Update
+
+4.4. EIN of the previous certificate (in case of renewal or update only)
+
+4.5. Validity start and end dates
+
+4.6. Type of operation (
+
+7
+
+)
+
+4.6.1. Passenger transport including high-speed services
+
+4.6.2. Passenger transport excluding high-speed services
+
+4.6.3. Freight transport including dangerous goods services
+
+4.6.4. Freight transport excluding dangerous goods services
+
+4.6.5. Shunting only
+
+4.6.6. Other operations (7)
+
+5\. Applicable national legislation (7)
+
+6\. Area of operation (7)
+
+7\. Restrictions and conditions of use
+
+8\. Additional information
+
+9\. Issuing date and authorised signatory/stamp of the authority
+
+( 1 ) Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Railways and repealing Regulation (EC) No 881/2004 (OJ L 138, 26.5.2016, p. 1).
+
+( 2 ) Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (see page 26 of this Official Journal).
+
+( 3 ) Commission Delegated Regulation (EU) 2018/761 of 16 February 2018 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 (see page 16 of this Official Journal).
+
+( 4 ) For each Member State concerned with the intended area of operation.
+
+( 5 ) ‘Dangerous goods’ means substances and articles whose carriage is authorised only under the conditions prescribed in Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+( 6 ) For each Member State concerned with the intended area of operation.
+
+( 7 ) For each Member State concerned with the intended area of operation.

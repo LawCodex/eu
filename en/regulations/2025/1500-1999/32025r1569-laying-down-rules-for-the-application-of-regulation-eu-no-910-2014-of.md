@@ -1,0 +1,360 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/1569 of 29 July 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards qualified electronic attestations of attributes and electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source"
+identifier: "32025R1569"
+eli: "http://data.europa.eu/eli/reg_impl/2025/1569/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-07-29
+entry_into_force: 2025-11-26
+last_amended: 2026-08-11
+consolidated_version: "02025R1569-20260811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R1569-20260811"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/1569 of 29 July 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards qualified electronic attestations of attributes and electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/1569**
+
+**of 29 July 2025**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards qualified electronic attestations of attributes and electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1735 of 15 July 2026 </td><td> L 1735</td><td>1</td><td>22.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/1569**
+
+**of 29 July 2025**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards qualified electronic attestations of attributes and electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down the reference standards, specifications, and procedures, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework, relating to:
+
+(1) qualified electronic attestations of attributes;
+
+(2) electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source;
+
+(3) the list of providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source;
+
+(4) catalogue of attributes and catalogue of schemes for the attestations of attributes referred to in points (1) and (2);
+
+(5) the verification of attributes with reference to authentic sources or designated intermediaries.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;
+
+(2) ‘wallet user’ means a user who is in control of the wallet unit;
+
+(3) ‘catalogue of attributes’ means a digital repository of attributes that is maintained and published online by the Commission;
+
+(4) ‘scheme for the attestation of attributes’ means a set of rules applicable to one or more types of electronic attestation of attributes;
+
+(5) ‘type of electronic attestation of attributes’ means a specifically named and semantically described group of electronic attestation of attributes;
+
+(6) ‘catalogue of schemes for the attestation of attributes’ means a digital repository listing schemes for the attestation of attributes registered in accordance with this Regulation and that is maintained [and published online] by the Commission;
+
+(7) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;
+
+(8) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and which the wallet user uses to interact with the wallet unit;
+
+(9) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;
+
+(10) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;
+
+(11) ‘wallet provider’ means a natural or legal person who provides wallet solutions;
+
+(12) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;
+
+(13) ‘owner of a scheme for the attestation of attributes’ means an entity responsible for establishing and maintaining a scheme for the attestation of attributes.
+
+## Article 3 — Issuance of qualified electronic attestations of attributes and electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source
+
+1\. Providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source shall comply with the list of reference standards and specifications set out in Annex I and shall ensure that the electronic attestations of attributes they issue comply with the technical specifications set out in Annex II.
+
+2\. Where providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source issue electronic attestations of attributes which are included in schemes registered in the catalogue of schemes for the attestation of attributes, they shall comply with the requirements of the corresponding scheme for the attestation of attributes. Policies and procedures established by the issuers of attestations in order to comply with the requirements of the schemes for the attestation of attributes shall be part of the conformity assessment established in Regulation (EU) No 910/2014.
+
+## Article 4 — Revocation of qualified electronic attestations of attributes and electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source
+
+2\. Providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source shall be the only entities able to revoke the electronic attestations of attributes they issue.
+
+3\. Providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source, whenever those attestations are issued with a validity period of more than 24 hours, shall revoke them in at least the following circumstances:
+
+(a) upon the request of the person to whom the electronic attestation of attributes was issued or, where applicable, of the subject of the attestation;
+
+(b) where the provider becomes aware that there has been a compromise of the security or trustworthiness of the qualified electronic attestations of attributes or electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source;
+
+(c) in other situations, as required by Union or national law.
+
+4\. Providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source shall set up revocation techniques and management methods that are privacy preserving and hindering linkability or traceability. The revocation techniques shall comply with the requirements set out in Annex II.
+
+5\. Providers of qualified electronic attestations of attributes and providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source shall make available to relying parties information on the validity or revocation status of the electronic attestations of attributes they have issued in a manner that ensures the integrity and authenticity of that information.
+
+## Article 5 — Notification of public sector bodies
+
+1\. Member States shall submit at least the information set out in Annex III on public sector bodies as referred to in Article 45f (3) of Regulation (EU) No 910/2014 through a secure electronic notification system provided by the Commission.
+
+2\. Member States shall notify any changes to the notified information.
+
+3\. Member States shall make the notifications at least in English. Member States shall not be obliged to translate any document supporting the notifications where this would create an unreasonable administrative or financial burden.
+
+4\. The Commission may, where appropriate, ask the Member States to provide additional information.
+
+## Article 6 — Publication of the list of public sector bodies
+
+1\. The Commission shall establish, maintain, and publish a list of providers of electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source on the basis of the information notified by Member States pursuant to Article 5.
+
+2\. The Commission shall ensure that the list referred to in paragraph 1 can be accessed:
+
+(a) in both electronically signed or sealed form suitable for automated processing, and through a human-readable website;
+
+(b) without the need to register or to be authenticated;
+
+(c) only by using state of the art transport layer security.
+
+3\. The Commission shall publish through a secure channel and without undue delay:
+
+(a) the technical specifications of the list;
+
+(b) the details of the URL where the list is published;
+
+(c) the certificates to be used to verify the electronic signature or seal on the list;
+
+(d) details relating to the mechanisms used to validate future changes to the location or to the certificates referred to in points (b) and (c).
+
+## Article 7 — Creation and maintenance of the catalogue of attributes
+
+1\. The Commission shall establish and publish a catalogue of attributes and set up a secure system to enable requests to include or modify attributes in the catalogue of attributes.
+
+2\. The Commission shall assess requests made using the system referred to in paragraph 1 to include or modify an attribute in the catalogue of attributes, after considering any advice provided by the Cooperation Group. The Commission’s assessment shall, take into account whether the inclusion of the attribute contributes to a common foundation for secure and privacy-aware electronic interaction between citizens, businesses and public authorities and to fostering interoperability. The Commission shall also take into account sector-specific regulations, where applicable.
+
+3\. Member States shall request the inclusion of attributes listed in Annex VI to Regulation (EU) No 910/2014 to the catalogue of attributes wherever those attributes rely on authentic sources for the purpose of the verification by qualified trust service providers.
+
+4\. In addition, Member States may request the inclusion of attributes not listed in Annex VI to the catalogue of attributes wherever those attributes rely on authentic sources within the public sector. Private entities that are considered to be a primary source of information or recognised as authentic in accordance with Union or national law, including administrative practice, may request the inclusion of attributes not listed in Annex VI to the catalogue of attributes wherever the requesting entity is responsible for those attributes.
+
+5\. The request to include or to modify an attribute in the catalogue shall contain at least the following information:
+
+(a) identification of the entity making the request;
+
+(b) where applicable, a reference to Union or national law or administrative practice under which the entity making the request is considered to be a primary source of information or recognised authentic source.
+
+(c) if the request refers to an attribute already existing in the catalogue or is a new attribute;
+
+(d) a namespace for the identifier of the attributes, the value of which is unique within the catalogue of attributes;
+
+(e) an identifier of the attribute, unique within the namespace, and the version of the attribute;
+
+(f) semantic description of the attribute;
+
+(g) the data type of the attribute;
+
+(h) the verification point for the attribute at national level or a link to a description on how to initiate the verification requests.
+
+6\. The request to include or modify an attribute shall be signed or sealed by the requester by means of a qualified electronic signature or seal or an advanced electronic signature or seal based on a qualified certificate.
+
+7\. The Commission, following the assessment referred to in paragraph 2 and having verified that the information provided in the request for the inclusion or modification of an attribute includes all the information listed in paragraph 5, may include the requested attribute or modification in the catalogue of attributes.
+
+8\. The catalogue of attributes sealed by the Commission shall be publicly accessible, through a secure channel, free of charge and without prior identification or authentication, and shall be published in both machine-readable and human-readable forms. The catalogue shall also include a search function.
+
+9\. The Commission shall publish the technical specifications the Commission uses for the catalogue of attributes.
+
+10\. The Commission shall issue a unique identifier to each registered attribute.
+
+## Article 8 — Creation and maintenance of the catalogue of schemes for the attestation of attributes
+
+1\. The Commission shall establish and publish a catalogue of schemes for the attestation of attributes and set up a secure system to enable requests to include or modify schemes for the attestation of attributes in the catalogue of schemes for the attestation of attributes.
+
+2\. Requests to include or modify schemes for the attestation of attributes in the catalogue of schemes for the attestation of attributes shall be assessed by the Commission, after considering any advice provided by the Cooperation Group. The Commission’s assessment shall take into account whether the scheme contributes to a common foundation for secure and privacy-aware electronic interaction between citizens, businesses and public authorities and contributes to fostering interoperability. The Commission shall also take into account sector-specific regulations where applicable.
+
+3\. Owners of a scheme for the attestation of attributes may request adding schemes to the catalogue of schemes. A request to include or modify a scheme in the catalogue of schemes for the attestation of attributes shall contain, at least:
+
+(a) the name of the scheme, chosen by the scheme for the attestation of attributes owner and unique within the catalogue of schemes for the attestation of attributes;
+
+(b) the name and contact information of the scheme for the attestation of attributes owner;
+
+(c) the status and version of the scheme;
+
+(d) a reference to specific laws, standards or guidelines, where the issuance, validation, or use of an electronic attestation of attributes within the scope of the scheme is subject to them;
+
+(e) the format or formats of electronic attestation of attributes within the scope of the scheme;
+
+(f) one or more namespaces, attribute identifiers, semantic descriptions and data types of each attribute that is part of an electronic attestation of attributes within the scope of the scheme, either by reference to an attribute in the catalogue of attributes in Article 7, or an attribute defined in an analogue way within the scope of the scheme;
+
+(g) a description of the trust model and the governance mechanisms applied under the scheme, including the revocation mechanisms;
+
+(h) any requirements concerning the providers of the electronic attestations of attributes or the sources of information on which those providers rely when issuing electronic attestations of attributes, including any authentic sources, if applicable;
+
+(i) a statement whether electronic attestations of attributes within the scope of the scheme are to be issued as qualified electronic attestations of attributes, as electronic attestations of attributes issued by or on behalf of a public sector body responsible for an authentic source, or as both.
+
+4\. The schemes for which inclusion in the catalogue is requested shall only contain attributes that are identifiable based on unique identifiers. The request to include or modify a scheme for the attestation of attributes shall be signed or sealed by the requester by means of a qualified electronic signature or seal or an advanced electronic signature or seal based on a qualified certificate.
+
+5\. The Commission, following the assessment referred to in paragraph 2 and having verified that the information provided in the request for the inclusion or modification of an attestation scheme contains all the information listed in paragraphs 3 and 4 may include the requested scheme or modification in the catalogue of schemes for the attestation of attributes.
+
+6\. The catalogue of schemes for the attestation of attributes, sealed by the Commission, shall be publicly accessible, through a secure channel, free of charge and without prior identification or authentication, and shall be machine-readable and human-readable. The catalogue shall also include a search function and shall be in a format that guarantees integrity and authenticity.
+
+7\. The Commission shall publish the technical specifications the Commission uses for the catalogue of schemes for the attestation of attributes.
+
+8\. The Commission shall issue a unique identifier to each registered scheme for the attestation of attributes.
+
+## Article 9 — Verification of attributes against authentic sources or designated intermediaries
+
+1\. To enable the electronic verification of the attributes referred to in Article 45e(1) of Regulation (EU) No 910/2014 by qualified trust service providers issuing qualified electronic attestations of attributes, at the request of the user, Member States shall establish mechanisms that allow that verification and may make available single points of verification for the attributes listed in Annex VI of that Regulation wherever those attributes rely on authentic sources within the public sector. Member States shall publish information on the procedures for initiating the verification requests and for receiving the verification results.
+
+2\. The verification mechanism shall provide an access point where qualified trust service providers issuing qualified electronic attestations of attributes can electronically request the verification against authentic sources or designated intermediaries recognised at national level, of the attributes referred to in Article 45e(1) of Regulation (EU) No 910/2014. Attributes subject to verification will be provided to the verification point by the qualified trust service provider at the user request. The public sector body or designated intermediary shall share, through the verification point, the verification results with the qualified trust service providers issuing qualified electronic attestations of attributes.
+
+3\. The verification request shall set out the attributes and the identification data of the subject of the attribute for which the qualified trust service provider requests the verification.
+
+4\. The verification result shall state exclusively whether the attribute has been verified or not and specify the public sector body responsible for the authentic source or, where applicable, the public sector body designated to act on behalf of the authentic source against which the attribute has been verified.
+
+5\. Member States may impose access controls or other verification mechanisms that provide integrity, authenticity, and confidentiality to determine that the requester is a qualified trust service provider and is acting at the request of a legitimate user. Member States may also impose control mechanisms on the use of the verification methods, where they deem this appropriate, taking into account relevant factors, including whether the authentic sources contain personal confidential or sensitive data. Where Member States establish these control mechanisms, they shall publish information on the extent of the control mechanisms as part of the information referred to in paragraph 1.
+
+## Article 10 — Interoperability and reuse
+
+1\. For the purpose of Articles 3 to 9, Member States may refer to and re-use the common services of the technical system set out in Article 14 of Regulation (EU) 2018/1724, as well as the national components connected to them.
+
+2\. When establishing the secure notification system and the list of public sector bodies referred to in Articles 5 and 6 and the catalogues referred to in Articles 7 and 8 of this Regulation, the European Commission shall refer to and re-use, where appropriate, the common services of the technical system pursuant to Regulation (EU) 2018/1724.
+
+## Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 6 to 9 shall apply from 19 August 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of reference standards and specifications referred to in Article 3
+
+ETSI TS 119 471 V1.1.1 (2025-05) shall apply with the following adaptations:
+
+(1) 2.1 Normative references:
+
+[1] ETSI EN 319 401 V3.2.1 (2026-01): ‘Electronic Signatures and Trust Infrastructures (ESI); General Policy Requirements for Trust Service Providers’;
+
+[2] European Cybersecurity Certification Group, Sub-group on Cryptography: ‘Agreed Cryptographic Mechanisms’ published by the European Union Agency for Cybersecurity (‘ENISA’);
+
+[3] FIPS PUB 140-3 (2019) ‘Security Requirements for Cryptographic Modules’;
+
+[4] Commission Implementing Regulation (EU) 2024/482 ( 1 );
+
+[5] Commission Implementing Regulation (EU) 2024/3144 ( 2 );
+
+[6] ISO/IEC 15408:2022 (parts 1 to 5): ‘Information security, cybersecurity and privacy protection – Evaluation criteria for IT security’.
+
+(2) 3.1 Terms:
+
+Following term is added:
+
+— secure cryptographic device: device which holds the user’s private key, protects this key against compromise and performs signing or decryption functions on behalf of the user
+
+(3) 4. EAA trust services
+
+— Clause 4.2.2.2 ‘Verification of attributes against authentic sources’ shall not apply.
+
+— REQ-EAASP-4.2.2.3-02: The EAASP shall authenticate to the EUDIW instance implementing mutual authentication mechanisms that use a valid access certificate.
+
+— REQ-EAASP-4.2.2.3-03: The EAASP shall validate the EUDIW unit, and whether the EUDIW instance is revoked.
+
+— Clause 4.3.2 ‘ EUDIW Specific ’ shall not apply.
+
+(4) 6.1 EAAS practice statement:
+
+— REQ-EAASP-6.1-02: EAASP shall document the revocation mechanism in the EAAS practice statement
+
+(5) 6.3 Information security policy:
+
+— REQ-EAASP-6.3-02: The EAASP shall establish procedures to notify the supervisory body of any changes in the provision of the electronic attestation of attributes trust service and on the intention to cease those activities, in accordance with business requirements and relevant laws and regulations, including in accordance with the requirements of the implementing acts adopted pursuant to Article 24(5) of Regulation (EU) No 910/2014. The EAASP shall notify the supervisory body at least:
+
+— one month before implementing any change;
+
+— three months before the planned cessation of a trust service provision.
+
+(6) 7.5 Cryptographic controls:
+
+— REQ-EAASP-7.5.2-05: void
+
+— REQ-EAASP-7.5.2-06: void
+
+— REQ-EAASP-7.5.3-01A: Appropriate security controls shall be in place for the management of any cryptographic keys, cryptographic algorithms, and cryptographic devices throughout their lifecycle, following, where appropriate, a cryptographic agility approach.
+
+— REQ-EAASP-7.5.3-01B: For the purpose of the provision of its trust services, the EAASP shall select and use suitable cryptographic techniques compliant with the Agreed Cryptographic Mechanisms endorsed by the European Cybersecurity Certification Group and published by ENISA [2].
+
+— REQ-EAASP-7.5.3-02: The EAASP shall ensure that the secure cryptographic device it uses for the digital signature or seal of EAA is a qualified signature or seal creation device and that all other digital signatures or seals used to provide the corresponding electronic attestation of attributes trust service, or part thereof, are created by means of a secure cryptographic device that is a trustworthy system certified in accordance with:
+
+(a) Common Criteria for Information Technology Security Evaluation, as set out in Common Criteria for Information Technology Security Evaluation, version 3.1 (CC3.1) until 31.08.2027 or in version CC:2022, Parts 1 through 5, published by the participants of the Arrangement on the Recognition of Common Criteria Certificates in the field of IT Security, or as set out in ISO/IEC 15408 [6], and certified to EAL 4 or higher or
+
+(b) the European Common Criteria-based cybersecurity certification scheme (EUCC) [4][5], and certified to EAL 4 or higher; or
+
+(c) FIPS-140-2level 3 to be used until 31.08.2027 for existing certified systems or FIPS PUB 140-3 [3] level 3 until 31.12.2030.
+
+This certification shall be to a security target or protection profile, or to a module design and security documentation, which meets the requirements of the present document, based on a risk analysis and taking into account physical and other non-technical security measures.
+
+If the secure cryptographic device benefits from an EUCC [4][5] certification, then this device shall be configured and used in accordance with that certification.
+
+— REQ-EAASP-7.5.5-01: void
+
+— REQ-EAASP-7.5.5-02: void
+
+— REQ-EAASP-7.5.5-04: void
+
+(7) 7.9 Vulnerabilities and Incident management:
+
+— REQ-EAASP-7.9-02: Monitoring activities shall take account of the sensitivity of any information collected or analysed.
+
+(8) 7.12 EAASP and EAAS termination and termination plans:
+
+— REQ-EAASP-7.12-04: The EAASP’s termination plan shall comply with the requirements set out in the implementing acts adopted pursuant to Article 24(5) of Regulation (EU) No 910/2014 [i.1].
+
+## ANNEX II — Technical specifications referred to in Article 3 and Article 4
+
+Providers of qualified electronic attestations of attributes and providers of electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source shall issue their attestations in compliance with at least one of the standards set out in Annex II to Commission Implementing Regulation (EU) 2024/2979 ( 3 ) and apply the relevant revocation techniques, also set out in Annex II to Commission Implementing Regulation (EU) 2024/2979.
+
+## ANNEX III — Notifications referred to in Article 5
+
+Member States shall notify to the Commission at least:
+
+(1) the name of the public sector body, and where applicable, the registration number as used in official records; the Member State in which the public sector body is established; the Union or national law under which the public sector body is established as the responsible for the authentic source on the basis of which the electronic attestation of attributes is issued or is designated to act on behalf of the public sector body that is responsible for the authentic source;
+
+(2) the contact email and phone number of the public sector body;
+
+(3) the URL of the webpage for additional information about the public sector body;
+
+(4) conformity assessment report as specified Article 45f (3) of Regulation (EU) No 910/2014.
+
+## ANNEX IV — List of standards and technical specifications referred to in Article 9
+
+The verification mechanisms referred to in Article 9 shall comply with one or both of the following with the following adaptations:
+
+(a) the technical specifications set out in clause 6.1.1 of ETSI TS 119 478 V1.1.1 (2026-01) - Electronic Signatures and Trust Infrastructures (ESI); Specification of interfaces related to Authentic Sources;
+
+— REQ-ASIP-6.1.1.2-04-01 [CONDITIONAL]: In case the attributeVerificationResult is either http://uri.etsi.org/19478/VerificationResult/Match or http://uri.etsi.org/19478/VerificationResult/MatchWithVariation the attributeVerificationResult may contain an attributeValue element.
+
+— REQ-ASIP-6.1.1.2-04-02 [CONDITIONAL]: In case the returned attributeVerificationResult is http://uri.etsi.org/19478/VerificationResult/Match, and the attributeVerificationResult contains an attributeValue element, then the attributeValue element shall contain the value as in the request.
+
+— REQ-ASIP-6.1.1.2-04-03 [CONDITIONAL]: In case the returned attributeVerificationResult is http://uri.etsi.org/19478/VerificationResult/MatchWithVariation, and the attributeVerificationResult contains an attributeValue element, then the attributeValue element shall contain the value of the attribute as stored in the authentic source.
+
+— REQ-ASIP-6.1.1.2-06-04-01 [CONDITIONAL]: In case the fragmentVerificationResult is either http://uri.etsi.org/19478/VerificationResult/Match or http://uri.etsi.org/19478/VerificationResult/MatchWithVariation the attributeVerificationResult may contain a fragmentValue element.
+
+— REQ-ASIP-6.1.1.2-06-04-02 [CONDITIONAL]: In case the returned fragmentVerificationResult is http://uri.etsi.org/19478/VerificationResult/Match, and the attributeVerificationResult contains a fragmentValue element, then the fragmentValue element shall contain the value as in the request.
+
+— REQ-ASIP-6.1.1.2-06-04-03 [CONDITIONAL]: In case the returned fragmentVerificationResult is http://uri.etsi.org/19478/VerificationResult/MatchWithVariation, and the attributeVerificationResult contains a fragmentValue element, then the fragmentValue element shall contain the value of the fragment of the attribute as stored in the authentic source.
+
+(b) the technical specifications set out in clause 6.2.3 of ETSI TS 119 478 V1.1.1 (2026-01)- Electronic Signatures and Trust Infrastructures (ESI); Specification of interfaces related to Authentic Sources.
+
+— REQ-ASIP-6.2.3.2.1-08-04: The AttributeVerificationResponse element may include exactly one child element of the choice TextValue, XMLValue or AttributeProperties.
+
+( 1 ) Commission Implementing Regulation (EU) 2024/482 of 31 January 2024 laying down rules for the application of Regulation (EU) 2019/881 of the European Parliament and of the Council as regards the adoption of the European Common Criteria-based cybersecurity certification scheme (EUCC) (OJ L, 2024/482, 7.2.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/482/oj).
+
+( 2 ) Commission Implementing Regulation (EU) 2024/3144 of 18 December 2024 amending Implementing Regulation (EU) 2024/482 as regards applicable international standards and correcting that Implementing Regulation (OJ L, 2024/3144, 19.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/3144/oj).
+
+( 3 ) Commission Implementing Regulation (EU) 2024/2979 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards the integrity and core functionalities of European Digital Identity Wallets (OJ L, 2024/2979, 4.12.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2979/oj).

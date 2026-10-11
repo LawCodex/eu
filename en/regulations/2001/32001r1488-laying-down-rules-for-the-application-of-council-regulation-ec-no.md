@@ -1,0 +1,528 @@
+---
+title: "Commission Regulation (EC) No 1488/2001 of 19 July 2001 laying down rules for the application of Council Regulation (EC) No 3448/93 as regards the placement of certain quantities of certain basic products listed in Annex I to the Treaty establishing the European Community under the inward processing arrangements without prior examination of the economic conditions"
+identifier: "32001R1488"
+eli: "http://data.europa.eu/eli/reg/2001/1488/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2001-07-19
+entry_into_force: 2001-07-01
+last_amended: 2013-07-01
+consolidated_version: "02001R1488-20130701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R1488-20130701"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1488/2001 of 19 July 2001 laying down rules for the application of Council Regulation (EC) No 3448/93 as regards the placement of certain quantities of certain basic products listed in Annex I to the Treaty establishing the European Community under the inward processing arrangements without prior examination of the economic conditions
+
+**COMMISSION REGULATION (EC) No 1488/2001**
+
+**of 19 July 2001**
+
+**laying down rules for the application of Council Regulation (EC) No 3448/93 as regards the placement of certain quantities of certain basic products listed in Annex I to the Treaty establishing the European Community under the inward processing arrangements without prior examination of the economic conditions**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1914/2003 of 30 October 2003 </td><td> L 283</td><td>27</td><td>31.10.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 886/2004 of 4 March 2004 </td><td> L 168</td><td>14</td><td>1.5.2004</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1792/2006 of 23 October 2006 </td><td> L 362</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 519/2013 of 21 February 2013 </td><td> L 158</td><td>74</td><td>10.6.2013</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1488/2001**
+
+**of 19 July 2001**
+
+**laying down rules for the application of Council Regulation (EC) No 3448/93 as regards the placement of certain quantities of certain basic products listed in Annex I to the Treaty establishing the European Community under the inward processing arrangements without prior examination of the economic conditions**
+
+## Article 1 — Scope of the Regulation
+
+1\. The placement of certain quantities of basic products set out in Article 11 of Regulation (EC) No 3448/93 under the inward processing arrangements without prior examination of the economic conditions is subject, during its period of validity, to presentation of an inward processing certificate (hereinafter ‘IP certificate’).
+
+2\. Two successive inward processing authorisations may be granted — one for the placement of a basic product and one for the placement of an intermediate product corresponding to the basic product. The economic conditions will then also be regarded as having been met by each of these authorisations, provided that each of the applications for authorisation is submitted on the basis of the same IP certificate.
+
+## Article 2 — Balance
+
+1\. No later than 21 September of each year, the Commission shall draw up the balance described in Article 11 of Regulation (EC) No 3448/93 and submit it for examination to the Group of Experts on horizontal questions concerning trade in processed agricultural products not listed in Annex I (hereinafter ‘Group of Experts’).
+
+2\. If the estimated amount needed for refunds exceeds the funds available, the quantities of the various products, as identified by their eight-digit Combined Nomenclature code, shall be determined, in accordance with Article 11(1) of Regulation (EC) No 3448/93, with the aid of the balance.
+
+## Article 3 — Initial publication of the quantities available
+
+The total quantities of each basic product determined pursuant to Article 2(2) will be published no later than 30 September each year in the Official Journal of the European Communities.
+
+Certificates may be granted for those quantities in three tranches in accordance with Articles 21, 22 and 23.
+
+## Article 4 — Applications for IP certificates
+
+1\. Only an operator who is a titular holder of a valid refund certificate within the meaning of Commission Regulation (EC) No 1520/2000 ( 6 ) or who was the titular holder of a certificate issued during the previous budget year, may apply for an IP certificate.
+
+Nonetheless, where the second subparagraph of Article 14(3) of Regulation (EC) No 1520/2000 applies, any operator who has been granted refunds during the current or the previous budget year may also apply for an IP certificate.
+
+2\. A separate application must be made for each quantity of a single, available, basic product, identified by its eight-digit nomenclature code. Only one application per tranche may be made by any single operator for each basic product.
+
+The authority shall only accept applications for certificates for which the applicant has provided a written declaration that, for the tranche in question, he has not made and undertakes not to make any other applications for IP certificates for the same basic product in the Member State to which he has applied, nor in any other Member States. If more than one application is made for the same basic product, all of the applications shall be rejected.
+
+3\. The total quantity applied for per operator and per tranche for any basic product shall not exceed 5 000 tonnes for basic products covered by the common organisation of the markets in milk products, sugar and rice, and 20 000 tonnes for basic products covered by the common organisation of the market in cereals.
+
+## Article 5 — Lodging of applications for certificates
+
+1\. No application for a certificate shall be accepted unless it is forwarded to or lodged with the competent body on forms printed and/or made out in accordance with Article 9.
+
+However, competent bodies may accept written telecommunications and electronic messages as valid applications, provided they include all the information which would have appeared on the form, had it been used. Member States may require that a written telecommunication and/or electronic message be followed by an application on a form printed or made out in accordance with Article 9, forwarded or delivered direct to the competent body; in such cases the date on which the written telecommunication or electronic message reached the competent body shall be taken as the day the application is lodged. This requirement shall not affect the validity of applications forwarded by written telecommunication or electronic message.
+
+Where applications for certificates are submitted electronically, the competent authorities of the Member State shall determine how the hand-written signature is to be replaced by another method, which might be based on the use of codes.
+
+2\. Applications for certificates may be cancelled only by letter, written telecommunication or electronic message received by the competent authority, except in cases of force majeure, by 1 p.m. on the day the application is lodged.
+
+## Article 6 — Procedure for lodging applications
+
+1\. The day an application for a certificate is lodged means the day on which it is received by the competent body, provided it is received not later than 1 p.m., regardless of whether the application is delivered direct to the competent body or forwarded to it by letter or written telecommunication or electronic message.
+
+2\. An application for a certificate received by the competent body either on a Saturday, a Sunday or a holiday or after 1 p.m. on a working day shall be deemed to have been lodged on the first working day following the day on which it was in fact received.
+
+3\. Where a period of a specified number of days is laid down for the lodging of applications for certificates and where the last day of the period falls on a Saturday, a Sunday or a holiday, the period in question shall end on the first following working day at 1 p.m.
+
+However, such extensions shall not be taken into account for the purpose of determining the certificate's period of validity.
+
+4\. The time limits specified in this Regulation are in Belgian local time.
+
+## Article 7 — Rejection of applications
+
+Applications containing conditions not provided for in Community rules shall be rejected.
+
+## Article 8 — Extracts
+
+Extracts from certificates shall have the same legal effects as the certificates from which they are extracted, within the limits of the quantity in respect of which such extracts are issued.
+
+## Article 9 — Specifications for the use and design of the forms
+
+1\. Without prejudice to the second subparagraph of Article 5(1) and Article 11(1), applications for certificates, certificates and extracts therefrom shall be drawn up on forms conforming to the specimens set out in Annex I to Regulation (EC) No 1291/2000 under the heading ‘Import certificate AGRIM’, subject to the following changes:
+
+(a) either the title ‘Import certificate AGRIM’ should be removed or crossed out, or ‘IP certificate’ should be stamped over it. This may be achieved by mechanical or electronic means;
+
+(b) sections 7 and 8 are deleted;
+
+(c) the title of section 11 is deleted;
+
+(d) section 19 of the model for the certificate is deleted;
+
+(e) the entry ‘IP certificate for the manufacture of goods not covered by Annex I and referred to in Article 1(1) of Regulation (EC) No 1520/2000’ shall be made, either manually or by mechanical or electronic means, in section 20 of the model for applying for a certificate and in section 24 of the model for the certificate.
+
+Such forms must be completed following the instructions given therein.
+
+2\. Certificate forms shall be made up in sets containing copy No 1, copy No 2 and the application, together with any extra copies of the certificate, in that order.
+
+However, Member States may require applicants to complete an application form only, instead of the sets provided for in the preceding subparagraph.
+
+Where the quantity for which the certificate is issued is less than the quantity initially applied for, the quantity applied for must be entered only on the application form.
+
+Forms for extracts of certificates shall be made up in sets containing copy No 1 and copy No 2, in that order.
+
+3\. Forms, including extension pages, shall be printed on white paper free of mechanical pulp, dressed for writing and weighing at least 40 grams per square metre. Their size shall be 210 × 297 mm, the permitted length ranging from 5 mm below the latter figure to 8 mm above; the type space between lines shall be 4,24 mm (one sixth of an inch); the layout of forms shall be followed precisely. Both sides of copy No 1 and the side of the extension pages on which the attributions must appear shall in addition have a printed guilloche pattern background so as to reveal any falsification by mechanical or chemical means. The guilloche background shall be green.
+
+4\. Member States shall be responsible for having the forms printed. The forms may also be printed by printers appointed by the Member State in which they are established. In the latter case, reference to the approval by the Member State must appear on each form. Each form shall bear an indication of the printer's name and address or a mark enabling the printer to be identified and, except for the application form and extension pages, an individual serial number. The number shall be preceded by the following letters according to the Member State issuing the document: ‘BE’ for Belgium, ‘BG’ for Bulgaria, ‘CZ’ for the Czech Republic, ‘DK’ for Denmark, ‘DE’ for Germany, ‘EE’ for Estonia, ‘IE’ for Ireland, ‘GR’ for Greece, ‘ES’ for Spain, ‘FR’ for France, ‘HR’ for Croatia, ‘IT’ for Italy, ‘CY’ for Cyprus, ‘LV’ for Latvia, ‘LT’ for Lithuania, ‘LU’ for Luxembourg, ‘HU’ for Hungary, ‘MT’ for Malta, ‘NL’ for the Netherlands, ‘AT’ for Austria, ‘PL’ for Poland, ‘PT’ for Portugal, ‘RO’ for Romania, ‘SI’ for Slovenia, ‘SK’ for Slovakia, ‘FI’ for Finland, ‘SE’ for Sweden, ‘UK’ for the United Kingdom.
+
+At the time of their issue, certificates and extracts may bear an issue number allocated by the issuing body.
+
+5\. Applications, certificates and extracts shall be completed in typescript or by computerised means: They shall be printed and completed in one of the official languages of the Community, as specified by the competent authorities of the issuing Member State. However, Member States may allow applications only to be handwritten in ink and in block capitals.
+
+6\. The stamps of issuing bodies and attributing authorities shall be applied by means of a metal stamp, preferably made of steel. However, an embossing press combined with letters or figures obtained by means of perforation may be substituted for the issuing body's stamp.
+
+7\. The competent authorities of the Member States concerned may, where necessary, require certificates and extracts therefrom to be translated into the official language or one of the official languages of that Member State.
+
+## Article 10 — Procedure for issuing extracts
+
+1\. On application by the titular holder of the certificate or by the transferee, and on presentation of copy No 1 of the document, one or more extracts therefrom may be issued by the issuing body or the agency or agencies designated by each Member State.
+
+Extracts shall be drawn up in at least two copies, the first of which, called ‘holder's copy’ and marked ‘No 1’, shall be supplied or addressed to the applicant and the second, called ‘issuing body's copy’ and marked ‘No 2’, shall be retained by the issuing body.
+
+The body issuing the extract shall, on copy No 1 of the certificate, enter the quantity for which the extract has been issued. The word ‘extract’ shall be entered beside the quantity entered on copy No 1 of the certificate.
+
+2\. No further extract may be made of an extract of a certificate.
+
+3\. Copy No 1 of an extract which has been used or which is out of date shall be returned by the titular holder to the body which issued the certificate, together with copy No 1 of the certificate from which it derives, so that the body may adjust the entries on copy No 1 of the certificate in the light of those appearing on copy No 1 of the extract.
+
+## Article 11 — Electronic certificates
+
+1\. Without prejudice to Article 9, certificates may be issued and used using computerised systems in accordance with detailed rules laid down by the competent authorities. They are known hereinafter as ‘electronic certificates’.
+
+The content of electronic certificates must be identical to that of certificates on paper.
+
+2\. Where titular holders or transferees of certificates need to use the electronic form thereof in a Member State which is not linked to the computerised issuing system, they shall request an extract therefrom.
+
+Such extracts shall be issued without delay and at no additional cost on a form as provided for in Article 9(1).
+
+In Member States linked to the computerised issuing system, such extracts shall be issued in the form of the paper extract.
+
+## Article 12 — Number of copies of IP certificates
+
+Without prejudice to Article 11, certificates shall be drawn up in at least two copies, the first of which, called ‘holder's copy’ and marked ‘No 1’, shall be supplied without delay to the applicant and the second, called ‘issuing body's copy’ and marked ‘No 2’, shall be retained by the issuing body.
+
+## Article 13 — Validity of IP certificate
+
+1\. IP certificates shall be valid until the end of the third month following that in which they are applied for.
+
+2\. For the purpose of determining their period of validity, certificates shall be considered to have been issued on the day on which the application for them was lodged, that day being included in the calculation of such period of validity. However, certificates may not be used until their actual issue.
+
+3\. On presentation, during its period of validity, of copy No 1 of the IP certificate or of the extract therefrom, the operator may, under the conditions set out by Commission Regulation (EEC) No 2454/93 ( 7 ) make a single application to the customs authority in a Member State for authorisation to use inward processing arrangements for a quantity of the basic product less than or equal to the quantity referred to in the certificate or the extract. The economic conditions referred to in Article 117(c) of Regulation (EEC) No 2913/92 shall then be deemed to have been met.
+
+However, a second application may subsequently be accepted under the terms of Article 14.
+
+The customs authority shall state in part 2 of the first section of column 29 and in the first section of column 30 of copy No 1 the quantity actually applied for.
+
+The customs authority shall sign the first Section of column 32 of the original of copy No 1 and stamp it to certify the date on which the application was lodged.
+
+The customs authority shall then forward the duly completed original of copy No 1 to the issuing body specified in section 1 within 15 working days. If, however, Article 14(1) is applied, it shall send a copy of completed copy No 1 to the issuing body and keep the original.
+
+If the certificate is electronic, the procedure may be carried out electronically.
+
+## Article 14 — Second application for authorisation
+
+1\. At the request of the operator, and before the application for a first inward processing authorisation has been lodged, the issuing body or the body designated by each Member State (or one of these bodies, if more than one has been designated) shall enter the following, duly completed, in Section 20 of the certificate or, where appropriate, the extract:
+
+— Искане от … за второ разрешение за поставяне на продукта с код по КН … в съответствие с член 1, параграф 2 на Регламент (ЕО) № 1488/2001
+
+— Solicitud de segunda autorización prevista por […] para la admisión del producto de código NC […] con arreglo al apartado 2 del artículo 1 del Reglamento (CE) no 1488/2001
+
+— Žádost o druhé povolení k převozu zboží (vložte kód KN) podle článku 1 odstavce 2 nařízení (EK) č. 1488/2001
+
+— Påtænkt ansøgning om anden tilladelse fra … med henblik på henførsel af produktet … (KN-koden anføres) i henhold til artikel 1, stk. 2, i forordning (EF) nr. 1488/2001
+
+— Antrag auf eine zweite Bewilligung vorgesehen von …, zwecks Überführung des Erzeugnisses der KN-Position … gemäß Artikel 1 Absatz 2 der Verordnung (EG) Nr. 1488/2001
+
+— … taotlus toote, mille CN-kood on …., lubamise teise loa saamiseks vastavalt määruse (EÜ) nr 1488/2001 artikli 1 lõikele 2
+
+— Αίτηση παροχής δεύτερης άδειας πού ζητήθηκε από τον … για την εμπορία του προϊόντος του κώδικα ΣΟ … σύμφωνα με το άρθρο 1 παράγραφος 2 του κανονισμού (ΕΚ) αριθ. 1488/2001
+
+— Application by … for a second authorisation for the placement of the product … [insert CN code] in accordance with Article 1(2) of Regulation (EC) No 1488/2001
+
+— Demande de deuxième autorisation envisagée par … pour le placement de produit de code NC … conformément à l’article 1 paragraphe 2 du règlement (CE) no 1488/2001
+
+— Zahtjev od … za drugo odobrenje za stavljanje proizvoda … [umetnuti oznaku KN] u skladu s člankom 1. stavkom 2. Uredbe (EZ) br. 1488/2001
+
+— Domanda di seconda autorizzazione, richiesta da … per l’iscrizione del prodotto del codice NC … ai sensi dell’articolo 1, paragrafo 2, del regolamento (CE) n. 1488/2001
+
+— Pieteikums otrās atļaujas saņemšanai … [ieraksta KN kodu] produkta ievešanai saskaņā ar Regulas (EK) Nr. 1488/2001 1. panta 2. punktu
+
+— Antroji … paraiška išduoti leidimą produkto KN kodas … pateikimui pagal Reglamento (EB) Nr. 1488/2001 1 straipsnio 2 dalį
+
+— Kérelem … részéről a(z) … termék (KN-kód) kihelyezésére vonatkozó második engedély iránt az 1488/2001/EK rendelet 1. cikkének (2) bekezdésének megfelelően
+
+— Applikazjoni minn … għat-tieni awtoriżżazzjoni għat-tqegħid tal-prodott … [niżżel il-kodiċi KN] skond l-Artiklu 1(2) tar-Regolament (KE) Nru. 1488/2001
+
+— Aanvraag voor een tweede vergunning van … voor de plaatsing van het product met GN-code … overeenkomstig artikel 1, lid 2, van Verordening (EG) nr. 1488/2001
+
+— Wniosek składany przez … o drugie upoważnienie na objęcie produktu … (zamieścić kod CN) w związku z artykułem 1(2) Rozporządzenia (WE) nr 1488/2001
+
+— Pedido de segunda autorização previsto por … para a colocação do produto do código NC … em conformidade com o n.o 2 do artigo 1.o do Regulamento (CE) n.o 1488/2001
+
+— Solicitare făcută de către … pentru o a doua autorizație de plasare a produsului … (introduceți codul NC) în conformitate cu Articolul 1(2) al Regulamentului (CE) nr. 1488/2001
+
+— Použitie pri … pre druhé schválenie umiestnenia výrobku … [vložiť KN kód] podľa článku 1 ods. 2 nariadenia (ES) č. 1488/2001
+
+— Vlogo za drugo dovoljenje predložil … zaradi aktivnega oplemenitenja proizvoda s tarifno oznako … (vpisati KN kodo) v skladu s členom 1(2) Uredbe (ES) št. 1488/2001
+
+— Toinen lupahakemus, jonka tekee …, tuotteen, jonka CN-koodi on …, saattamiseksi sisäiseen jalostusmenettelyyn asetuksen (EY) N:o 1488/2001 1 artiklan 2 kohdan mukaisesti
+
+— En andra tillståndsansökan planeras av … för aktiv förädling av en produkt med KN-kod … enligt artikel 1.2 i förordning (EG) nr 1488/2001.
+
+The operator may only designate one applicant for a second authorisation and only one product, and may only require one entry.
+
+Furthermore, the body in question shall stamp the entry to certify the date on which it was made.
+
+2\. The operator — holder of the first authorisation — shall notify the customs authority of the quantity of the product referred to in the entry given in the second subparagraph of paragraph 1.
+
+On receipt of the notification referred to in the previous subparagraph, the customs authority shall add in section 20 of the certificate the following, duly completed, after the entry mentioned in paragraph 1:
+
+— За … kg
+
+— Por una cantidad de … kg
+
+— Za kg
+
+— For … kg
+
+— Für eine Menge von … kg
+
+— Kogusele … kg
+
+— Για ποσότητα … Κg
+
+— For … kg
+
+— Pour une quantité de … Kg
+
+— Za … kg
+
+— Per una quantità di … kg
+
+— Par … kg
+
+— … kg
+
+— kg-ra
+
+— Għal … kg
+
+— Voor een hoeveelheid van … kg
+
+— Na … kg
+
+— Para uma quantidade de … kg
+
+— Pentru… kg
+
+— Pre … kg
+
+— Za … kg
+
+— Määrälle … kg
+
+— För en kvantitet på … kg.
+
+Within 15 working days of the notification referred to in the first subparagraph, the customs authority shall forward the original of copy No 1 to the issuing body specified in section 1.
+
+3\. On receipt of copy No 1 in accordance with paragraph 2, the body in question shall calculate the number of calendar days corresponding to the outstanding period of validity, with reference to the date on which the application mentioned in the first subparagraph of Article 13(3), a complete month being deemed to have 30 days.
+
+4\. The holder of the certificate shall, on the day on which he issues the notification referred to in paragraph 2, ask for rights to be transferred or, where appropriate, transferred back to the operator referred to in paragraph 1, in accordance with Article 15.
+
+5\. At the request of the operator referred to in the entry given in paragraph 1 above, the body in question shall return the certificate after effecting the transfer or, where appropriate, the transfer back referred to in paragraph 4, and after making the following, duly completed, entry in section 11:
+
+— Нова крайна дата на валидност: …
+
+— Nueva fecha de fin de validez: …
+
+— Nové datum konce platnosti: …
+
+— Ny udløbsdato …
+
+— Neues Ende der Gültigkeitsdauer: …
+
+— Uus kehtivusaeg: …
+
+— Νέα ημερομηνία λήξης ισχύος …
+
+— New expiry date: …
+
+— Nouvelle date de fin de validité le …
+
+— Novi datum isteka važenja: …
+
+— Nuova data di scadenza della validità: …
+
+— Jaunais derīguma termiņš: …
+
+— Nauja galiojimo pabaigos data …
+
+— Az érvényesség lejártának időpontja
+
+— Data ġdida meta jiskadi
+
+— Nieuwe datum waarop geldigheidsduur afloopt: …
+
+— Nowa data ważności: …
+
+— Nova data de termo de validade: …
+
+— Noul termen de expirare: …
+
+— Nový dátum trvanlivosti: …
+
+— Novi datum poteka veljavnosti: …
+
+— Uusi voimassaolon päättymispäivä on …
+
+— Ny sista giltighetsdag …
+
+The new expiry date shall be calculated by adding the period calculated in paragraph 3 to the date of receipt of the application referred to in the previous subparagraph.
+
+6\. On presentation, during the period of validity, of copy No 1 of the IP certificate or the extract, the operator may lodge with the customs authority of a Member State, under the terms set out in Regulation (EEC) No 2454/93, an application for inward processing authorisation for a quantity less than or equal to the quantity of the product specified in the certificate or extract in accordance with paragraph 1. The economic conditions referred to in Article 117(c) of Regulation (EEC) No 2913/92 shall then be regarded as having been met.
+
+The customs authority shall state the quantity actually applied for in part 2 of Section 2 of column 29 and in section 2 of column 30 of copy No 1 of the certificate.
+
+The customs authority shall sign the original of copy No 1 and stamp it to certify the date on which it was lodged in the second section of column 32 of the original of copy No 1.
+
+The customs authority shall forward the duly completed original of copy No 1 to the issuing body specified in section 1 within 15 working days.
+
+7\. If the certificate is electronic, the procedure may be carried out electronically.
+
+## Article 15 — Transfer of rights
+
+1\. Rights deriving from certificates shall be transferable by their titular holder during the period of their validity. Such transfer may be made in favour of a single transferee only for each certificate or extract therefrom.
+
+2\. Transferees may not further transfer their rights but may transfer them back to the titular holder.
+
+In such cases, one of the following entries shall be made by the issuing body in section 6 of the certificate:
+
+— Права, прехвърлени обратно на титулярa на … (дата) …
+
+— Retrocesión al titular el …
+
+— Práva převedena zpět na majitele …
+
+— Tilbageføring til indehaveren den …
+
+— Rückübertragung auf den Lizenzinhaber am …
+
+— [kuupäeval] omanikule tagasi antud õigused
+
+— Εκ νέου παραχώρηση στο δικαιούχο στις …
+
+— Rights transferred back to the titular holder on … [date]
+
+— Rétrocession au titulaire le …
+
+— Prava prenesena natrag na nositelja … (datum)
+
+— Retrocessione al titolare in data …
+
+— … (datums) tiesības nodotas atpakaļ nominālajam īpašniekam
+
+— Teisės grąžinamos atgal sąvininkui … (data)
+
+— A jogok … -tól az eredeti jogosultra szálltak vissza
+
+— Drittijiet trasferiti lura lid-detentur tat-titlu fuq … [data]
+
+— Aan de titularis geretrocedeerd op …
+
+— Uprawnienia przywrócone prawowitemu posiadaczowi w dniu …(data)
+
+— Retrocessão ao titular em …
+
+— Drepturi transferate înapoi la titular la … (data) …
+
+— Práva prenesené na držiteľa … [dňa]
+
+— Pravice, prenesene nazaj na imetnika dne …
+
+— Palautus todistuksenhaltijalle …
+
+— Återbördad till licensinnehavaren den …
+
+3\. In the event of a request for transfer by the titular holder or transfer back to the titular holder by the transferee, the issuing body or the agency or agencies designated by each Member State shall enter the following on the certificate or where appropriate the extract therefrom:
+
+(a) the name and address of the transferee or the entry referred to in paragraph 2;
+
+(b) the date of such entry certified by the stamp of the body or agency.
+
+4\. The transfer or transfer back to the titular holder shall take effect from the date of the entry.
+
+## Article 16 — Effects of the entries made by the authorities of a Member State
+
+Certificates and extracts issued and entries and endorsements made by the authorities of a Member State shall have the same legal effects in each of the other Member States as documents issued and entries and endorsements made by the authorities of these Member States.
+
+## Article 17 — Erroneous entries on certificates
+
+1\. Entries made on certificates or extracts may not be altered after their issue.
+
+2\. Where the accuracy of entries on the certificate or extract is in doubt, such certificate or extract shall, on the initiative of the party concerned or of the competent authorities of the Member State concerned, be returned to the issuing body.
+
+If the issuing body considers a correction to be required, it shall withdraw the extract or certificate as well as any extracts previously issued and shall issue without delay either a corrected extract or a corrected certificate and the corrected extracts corresponding thereto. On such further documents, which shall include the entry ‘certificate corrected on …’ or ‘extract corrected on …’, any former entries shall be reproduced on each copy.
+
+Where the issuing body does not consider it necessary to correct the certificate or extract, it shall enter thereon the endorsement ‘verified on … in accordance with Article 17 of Regulation (EC) No 1488/2001’ and apply its stamp.
+
+## Article 18 — Return of the certificate to the issuing body
+
+1\. At the request of the issuing body, the titular holder must return to it the certificate and the extracts therefrom.
+
+2\. Where a disputed document is returned or held in accordance with this Article or Article 17, the competent national authorities shall on request give the party concerned a receipt.
+
+## Article 19 — Checking for authenticity
+
+1\. Where there is doubt concerning the authenticity of a certificate or extract, or entries or endorsements thereon, the competent national authorities shall return the questionable document, or a photocopy thereof, to the authorities concerned for checking.
+
+Documents may also be returned by way of random check; in such case only a photocopy of the document shall be returned.
+
+2\. Where a questionable document is returned in accordance with paragraph 1, the competent national authorities shall on request give a receipt to the party concerned.
+
+## Article 20 — Loss of a certificate
+
+Where the holder or transferee of an IP certificate is able to prove to the satisfaction of the competent authority both that the certificate or an extract therefrom has not been used wholly or in part and that it can no longer be used, particularly because it has been totally or partially destroyed, the body which issued the original certificate shall issue a replacement certificate or extract for a quantity of goods equalling the quantity remaining available.
+
+A replacement certificate or extract shall contain the information and entries appearing on the document which it replaces.
+
+## Article 21 — First tranche of IP certificate issues — reduction coefficient
+
+1\. For the purposes of the first tranche of certificate issues, the quantities of the basic products published pursuant to Article 3 shall be covered to the extent of 60 %.
+
+After the publication date referred to in Article 3 and not later than 14 October of each year, each operator may apply for one IP certificate per basic product.
+
+2\. By 21 October at the latest, Member States shall inform the Commission of the applications for each basic product, stating the quantity applied for and the company name of the corresponding operator.
+
+3\. Using the quantities referred to in the first subparagraph of paragraph 1, the Commission shall, if necessary, set a reduction coefficient for each basic product.
+
+The Commission shall publish the coefficient(s) in question in the Official Journal of the European Communities within five working days after the date given in paragraph 2.
+
+If necessary, within five working days of the date given in paragraph 2, it shall inform the Member States concerned of the applications rejected because they were made in several Member States by the same operator and for the same basic product.
+
+4\. Within five working days of the end of the period specified in the third subparagraph of paragraph 3, the competent authority of the Member State in question may issue the certificates which have been applied for.
+
+5\. If a reduction coefficient has been set, the certificates issued for each application must include the quantity of the basic product requested multiplied by the reduction coefficient in question.
+
+The issuing body shall indicate in sections 17 and 18 the quantity for which the certificate is issued.
+
+## Article 22 — Second and third publication of available quantities
+
+The Commission, taking into account the foreseeable volumes of exports of the goods concerned and the situation of the market of each basic product, shall review the balance regularly and submit it for examination to the Group of Experts.
+
+Where the amount of refunds due is estimated to be greater than the financial resources available, and taking into account the quantities already granted with certificates and the unused quantities of which the Commission has been informed in accordance with Article 25 of this Regulation, the remaining quantity available for each basic product shall be determined in accordance with Article 11(1) of Regulation (EC) No 3448/93. That quantity shall be the subject of a second publication in the Official Journal of the European Union by no later than 31 January of each year and of a third publication by no later than 31 May of each year.
+
+## Article 23 — Second and third tranches of IP certificate issues — reduction coefficient
+
+1\. For the purposes of the second tranche of certificate issues, the quantities of the basic products published pursuant to the second subparagraph of Article 22 shall be covered to the extent of 60 %
+
+For the purposes of the third tranche of certificate issues, the quantities of the basic products published pursuant to the second subparagraph of Article 22 shall be covered to the extent of 100 %.
+
+2\. Each operator may apply for an IP certificate for each basic product within 10 working days following the publication referred to in the second subparagraph of Article 22.
+
+3\. Within five working days of the end of the period described in paragraph 2, Member States shall inform the Commission of the total quantities applied for per basic product, stating the quantity applied for and the business name of the corresponding operator.
+
+4\. Using the quantities published pursuant to Article 22,  the Commission shall, if necessary, fix a reduction coefficient for each basic product.
+
+5\. The procedure set out in the second and third subparagraphs of Article 21(3) and Article 21(4) and (5) shall apply.
+
+## Article 24 — Emergency issue of IP certificates
+
+Throughout the budget year, taking into account the quantities already granted with certificates and the unused quantities of which the Commission has been informed in accordance with Article 25 of this Regulation, the remaining quantity available for each basic product identified by its eight-digit nomenclature code may, as a matter of urgency, be determined in accordance with Article 11(1) of Regulation (EC) No 3448/93. That quantity shall be published in the Official Journal of the European Union. The provisions of Article 23(2) to (5) of this Regulation shall apply.
+
+## Article 25 — Statistical information
+
+1\. By 15 March of each budget year, Member States, on the basis of the communications referred to in the first subparagraph of Article 13(3), shall communicate to the Commission the total quantities for each basic product in respect of which a customs authorisation has been granted and for which a certificate has been issued pursuant to Article 21.
+
+2\. By 15 October of each budget year, Member States, on the basis of the communications referred to in the first subparagraph of Article 13(3), shall communicate to the Commission the total quantities for each basic product in respect of which a customs authorisation has been granted and for which a certificate has been issued pursuant to Articles 23 and 24.
+
+3\. By 1 May of the budget year following that in which customs authorisations were granted under this Regulation, Member States shall communicate to the Commission the actual quantities of each basic product imported under these authorisations.
+
+## Article 26 — Mutual assistance and communications to the Commission
+
+1\. Where necessary for the proper application of this Regulation, the competent authorities of the Member States shall exchange information on certificates and extracts therefrom and on irregularities and infringements concerning them.
+
+2\. Member States shall inform the Commission as soon as they have knowledge of irregularities and infringements in regard to this Regulation.
+
+3\. Member States shall communicate to the Commission the names and addresses of the bodies which issue certificates and extracts therefrom. The Commission shall publish this information in the Official Journal of the European Communities.
+
+4\. Member States shall also forward to the Commission impressions of the official stamps and, where appropriate, of the embossing presses used by authorities empowered to act. The Commission shall immediately inform the other Member States thereof.
+
+## Article 27 — Entry into force
+
+This Regulation shall enter into force on the seventh day after its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 318, 20.12.1993, p. 18.
+
+( 2 ) OJ L 298, 25.11.2000, p. 5.
+
+( 3 ) OJ L 302, 19.10.1992, p. 1.
+
+( 4 ) OJ L 311, 12.12.2000, p. 1.
+
+( 5 ) OJ L 152, 24.6.2000, p. 1.
+
+( 6 ) OJ L 177, 15.7.2000, p. 1.
+
+( 7 ) OJ L 253, 11.10.1993, p. 1.

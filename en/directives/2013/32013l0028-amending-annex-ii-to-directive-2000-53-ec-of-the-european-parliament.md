@@ -78,6 +78,7 @@ José Manuel BARROSO
 
 **Materials and components exempt from Article 4(2)(a)**
 
+<table>
 <tbody><tr><td>Materials and components</td><td>Scope and expiry date of the exemption</td><td>To be labelled or made identifiable in accordance with Article 4(2)(b)(iv)</td></tr>
 <tr><td colspan="3">Lead as an alloying element</td></tr>
 <tr></tr>
@@ -250,6 +251,7 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (1) This exemption shall be reviewed in 2015.
 

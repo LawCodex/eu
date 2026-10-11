@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘337</td><td>Bupirimate CAS No: 41483-43-6  CIPAC No: 261 </td><td>5-butyl-2-ethylamino-6-methylpyrimidine-4-yl dimethylsulfamate</td><td>≥ 945 g/kg Impurities:  Ethirimol: max. 2 g/kg  Toluene: max. 3 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on bupirimate, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 January 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>the protection of aquatic organisms. Conditions of authorisation shall include risk mitigation measures, where appropriate,</td></tr>
 </tbody>
@@ -145,5 +146,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits such confirmatory data and information to the Commission set out in points (1) and (2) by 30 November 2011 and the information set out in point (3) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

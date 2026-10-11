@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003 </td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td> M2</td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> DECISION (EU) 2018/853 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>155</td><td>14.6.2018</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
 
 **EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE 94/63/EC**
 

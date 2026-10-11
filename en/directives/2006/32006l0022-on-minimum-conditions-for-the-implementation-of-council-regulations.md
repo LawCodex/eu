@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2009/4/EC of 23 January 2009 </td><td> L 21</td><td>39</td><td>24.1.2009</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td> M3</td><td> COMMISSION REGULATION (EU) 2016/403 of 18 March 2016 </td><td> L 74</td><td>8</td><td>19.3.2016</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2020/1057 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 July 2020 </td><td> L 249</td><td>49</td><td>31.7.2020</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2024/846 of 14 March 2024 </td><td> L 846</td><td>1</td><td>31.5.2024</td></tr>
+</table>
 
 C1
 
@@ -334,6 +336,7 @@ Member States shall ensure that the following standard equipment is available to
 
 1\. Groups of infringements against Regulation of the European Parliament and of the Council (EC) No 561/2006 (1) (Driving and resting time)
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">EU LEGAL BASIS</td><td colspan="2" rowspan="3">TYPE OF INFRINGEMENT</td><td colspan="4">LEVEL OF SERIOUSNESS</td></tr>
 <tr><td>MSI</td><td>VSI</td><td>SI</td><td>MI</td></tr>
 <tr><td>A</td><td colspan="7">Crew</td></tr>
@@ -399,9 +402,11 @@ Member States shall ensure that the following standard equipment is available to
 <tr><td>F3</td><td>Article. 10.2</td><td>No or improper organisation of driver's work, no or improper instructions given to driver enabling him to comply with the law</td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td colspan="8">(1)  Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 (OJ L 102, 11.4.2006, p. 1). </td></tr>
 </tbody>
+</table>
 
 2\. Groups of infringements against Regulation (EU) No 165/2014 of the European Parliament and of the Council (1) (Tachograph)
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">LEGAL BASIS</td><td rowspan="3">TYPE OF INFRINGEMENT</td><td colspan="3">LEVEL OF SERIOUSNESS</td></tr>
 <tr><td>MSI</td><td>VSI</td><td>SI</td></tr>
 <tr><td>G</td><td colspan="5">Installation of tachograph</td></tr>
@@ -438,6 +443,7 @@ Member States shall ensure that the following standard equipment is available to
 <tr><td>J2</td><td>Article 37(2)</td><td>Driver not marking all required information for the periods of time, which are no longer recorded while tachograph is unserviceable or malfunctioning</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td colspan="6">(1)  Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, repealing Council Regulation (EEC) No 3821/85 on recording equipment in road transport and amending Regulation (EC) No 561/2006 of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport (OJ L 60, 28.2.2014, p. 1). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 (OJ L 102, 11.4.2006, p. 1).
 

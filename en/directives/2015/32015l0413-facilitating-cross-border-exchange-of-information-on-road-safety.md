@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/3237 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 2024 </td><td> L 3237</td><td>1</td><td>30.12.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2015/413 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -580,6 +582,7 @@ This Directive is addressed to the Member States.
 
 **1\. Data elements of initiating search (outgoing request)**
 
+<table>
 <tbody><tr><td>Item</td><td>M (1)</td><td>Remarks</td></tr>
 <tr><td>Member State of registration</td><td>M</td><td>Distinguishing sign (2) of the Member State of registration of the vehicle</td></tr>
 <tr><td>Registration number</td><td>M</td><td>Full registration number of the vehicle</td></tr>
@@ -594,11 +597,13 @@ This Directive is addressed to the Member States.
 <tr><td>Purpose of the search</td><td>M</td><td>Code indicating the type of road-safety-related traffic offence as listed in Article 2(1) 1. = Speeding  2. = Drink-driving  3. = Failing to use a seat belt  4. = Failing to stop at a red traffic light  5. = Use of a forbidden lane  10. = Driving under the influence of drugs  11. = Failing to wear a safety helmet  12. = Illegally using a mobile phone or any other communication devices while driving  14. = Failing to keep a safe distance from the vehicle in front  15. = Dangerous overtaking  16. = Dangerous parking or stopping  17. = Crossing one or more solid lines  18. = Wrong-way driving  19. = Failing to respect the rules on the creation and use of emergency corridors or on giving way to emergency service vehicles  20. = Using an overloaded vehicle  33. = Failing to respect the rules on vehicle-access restrictions  34. = Hit-and-run  35. = Failing to respect the rules at a railway level-crossing </td></tr>
 <tr><td colspan="3">(1)  M = mandatory communication of the data element.  (2)  Distinguishing sign in accordance with Article 37 of the Convention on road traffic, done at Vienna on 8 November 1968, or the code of a EUCARIS member State. </td></tr>
 </tbody>
+</table>
 
 **2\. Data elements provided as a result of the initiating search conducted pursuant to Article 4(1) and (3)**
 
 **Part I. Data relating to vehicles provided in accordance with Article 4(1) and (3)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (2)</td><td>Remarks (3)</td></tr>
 <tr><td>Registration number</td><td>M</td><td>(Code A) Full registration number of the vehicle</td></tr>
 <tr><td>Chassis number/VIN (1)</td><td>M</td><td>(Code E) Full chassis number/VIN of the vehicle</td></tr>
@@ -612,9 +617,11 @@ This Directive is addressed to the Member States.
 <tr><td>Previous inquiries</td><td>O</td><td>The dates of previous inquiries on the vehicle</td></tr>
 <tr><td colspan="3">(1)  VIN = vehicle identification number.  (2)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element.  (3)  The codes are harmonised according to Annex I and II to Council Directive 1999/37/EC of 29 April 1999 on the registration documents for vehicles (OJ L 138, 1.6.1999, p. 57).  (4)  Distinguishing sign in accordance with Article 37 of the Convention on road traffic, done at Vienna on 8 November 1968, or the code of a EUCARIS member State. </td></tr>
 </tbody>
+</table>
 
 **Part II. Data relating to vehicles provided in accordance with Article 4(1) and (3)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks (2)</td></tr>
 <tr><td>Maximum technically permissible laden mass except for motorcycles</td><td>M</td><td>(Code F.1)</td></tr>
 <tr><td>Maximum permissible laden mass of the vehicle in service in the Member State of registration</td><td>M</td><td>(Code F.2)</td></tr>
@@ -636,9 +643,11 @@ This Directive is addressed to the Member States.
 <tr><td>EURO type</td><td>O</td><td>(Code V.9)</td></tr>
 <tr><td colspan="3">(1)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element.  (2)  The codes are harmonised according to Annex I and II to Council Directive 1999/37/EC of 29 April 1999 on the registration documents for vehicles (OJ L 138, 1.6.1999, p. 57). </td></tr>
 </tbody>
+</table>
 
 **Part III. Data relating to holders and owners of the vehicles**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks (2)</td></tr>
 <tr><td>Data relating to holders of the vehicle</td><td>  </td><td>(Code C.1) The data refer to the holder of the specific registration certificate </td></tr>
 <tr><td>Surname or business name</td><td>M</td><td>(Code C.1.1) Separate fields shall be used for surname or business name, infixes and titles communicated in printable format </td></tr>
@@ -662,9 +671,11 @@ This Directive is addressed to the Member States.
 <tr><td>ID number</td><td>M</td><td>An identifier that uniquely identifies the person or the company</td></tr>
 <tr><td colspan="3">(1)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element.  (2)  The codes are harmonised according to Annex I and II to Council Directive 1999/37/EC of 29 April 1999 on the registration documents for vehicles (OJ L 138, 1.6.1999, p. 57). </td></tr>
 </tbody>
+</table>
 
 **Part IV. Data relating to end users of the vehicles**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks</td></tr>
 <tr><td>Data relating to end users of the vehicle</td><td>  </td><td>The data refer to the end user of the vehicle</td></tr>
 <tr><td>Surname or business name</td><td>M</td><td>Separate fields shall be used for surname or business name, infixes and titles communicated in printable format</td></tr>
@@ -678,9 +689,11 @@ This Directive is addressed to the Member States.
 <tr><td>ID number</td><td>M</td><td>An identifier that uniquely identifies the person or the company</td></tr>
 <tr><td colspan="3">(1)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element. </td></tr>
 </tbody>
+</table>
 
 **Part V. Data at the time when the road-safety-related traffic offence was committed relating to previous holder and owner of the vehicle which is subject to the intitiating search in Section 1 of this Annex, in accordance with Article 4a(2)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks (2)</td></tr>
 <tr><td>Data relating to previous holders of the vehicle</td><td>  </td><td>(Code C.1) The data refer to the holder of the specific registration certificate </td></tr>
 <tr><td>Surname or business name</td><td>M</td><td>(Code C.1.1) Separate fields shall be used for surname or business name, infixes and titles communicated in printable format </td></tr>
@@ -704,9 +717,11 @@ This Directive is addressed to the Member States.
 <tr><td>ID number</td><td>M</td><td>An identifier that uniquely identifies the person or the company</td></tr>
 <tr><td colspan="3">(1)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element.  (2)  The codes are harmonised according to Annex I and II to Council Directive 1999/37/EC of 29 April 1999 on the registration documents for vehicles (OJ L 138, 1.6.1999, p. 57). </td></tr>
 </tbody>
+</table>
 
 **Part VI. Data at the time when the offence was committed relating to previous end user of the vehicle which is subject to the intitiating search in Section 1 of this Annex, in accordance with Article 4a(2)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (1)</td><td>Remarks</td></tr>
 <tr><td>Data relating to previous end users of the vehicle</td><td>  </td><td>The data refer to previous end user of the vehicle</td></tr>
 <tr><td>Surname or business name</td><td>M</td><td>Separate fields shall be used for surname or business name, infixes and titles communicated in printable format</td></tr>
@@ -720,6 +735,7 @@ This Directive is addressed to the Member States.
 <tr><td>ID number</td><td>M</td><td>An identifier that uniquely identifies the person or the company</td></tr>
 <tr><td colspan="3">(1)  M = Mandatory communication of the data element when available in any national register of a Member State, O = Optional communication of the data element. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Commission Delegated Regulation (EU) 2022/670 of 2 February 2022 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of EU-wide real-time traffic information services (OJ L 122, 25.4.2022, p. 1).
 

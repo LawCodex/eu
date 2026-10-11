@@ -491,6 +491,7 @@ CAS: Chemical Abstracts Service.
 | MAC | : | maximum allowable concentration. |
 | Unit | : | [μg/l] for columns (4) to (7) [μg/kg wet weight] for column (8) |
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td></tr>
 <tr><td>No</td><td>Name of substance</td><td>CAS number (1)</td><td>AA-EQS (2) Inland surface waters (3) </td><td>AA-EQS (2) Other surface waters </td><td>MAC-EQS (4) Inland surface waters (3) </td><td>MAC-EQS (4) Other surface waters </td><td>EQS Biota (12) </td></tr>
 <tr><td>(1)</td><td>Alachlor</td><td>15972-60-8</td><td>0,3 </td><td>0,3 </td><td>0,7 </td><td>0,7 </td><td></td></tr>
@@ -562,6 +563,7 @@ CAS: Chemical Abstracts Service.
 <tr><td>(44)</td><td>Heptachlor and heptachlor epoxide</td><td>76-44-8/1024-57-3</td><td>2 × 10–7</td><td>1 × 10–8</td><td>3 × 10–4</td><td>3 × 10–5</td><td>6,7 × 10–3</td></tr>
 <tr><td>(45)</td><td>Terbutryn</td><td>886-50-0</td><td>0,065 </td><td>0,0065 </td><td>0,34 </td><td>0,034 </td><td></td></tr>
 </tbody>
+</table>
 
 (1) CAS: Chemical Abstracts Service.
 

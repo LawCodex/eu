@@ -1,0 +1,11733 @@
+---
+title: "Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council Text with EEA relevance"
+identifier: "32011R1178"
+eli: "http://data.europa.eu/eli/reg/2011/1178/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-11-03
+entry_into_force: 2011-01-31
+last_amended: 2026-04-30
+consolidated_version: "02011R1178-20260430"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R1178-20260430"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 1178/2011**
+
+**of 3 November 2011**
+
+**laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 290/2012 of 30 March 2012 </td><td> L 100</td><td>1</td><td>5.4.2012</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 70/2014 of 27 January 2014 </td><td> L 23</td><td>25</td><td>28.1.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 245/2014 of 13 March 2014 </td><td> L 74</td><td>33</td><td>14.3.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/445 of 17 March 2015 </td><td> L 74</td><td>1</td><td>18.3.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/539 of 6 April 2016 </td><td> L 91</td><td>1</td><td>7.4.2016</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/1065 of 27 July 2018 </td><td> L 192</td><td>31</td><td>30.7.2018</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/1119 of 31 July 2018 </td><td> L 204</td><td>13</td><td>13.8.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1974 of 14 December 2018 </td><td> L 326</td><td>1</td><td>20.12.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/27 of 19 December 2018 </td><td> L 8</td><td>1</td><td>10.1.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/430 of 18 March 2019 </td><td> L 75</td><td>66</td><td>19.3.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1747 of 15 October 2019 </td><td> L 268</td><td>23</td><td>22.10.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/359 of 4 March 2020 </td><td> L 67</td><td>82</td><td>5.3.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/723 of 4 March 2020 </td><td> L 170</td><td>1</td><td>2.6.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/2193 of 16 December 2020 </td><td> L 434</td><td>13</td><td>23.12.2020</td></tr>
+<tr><td> M15</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1310 of 6 August 2021 </td><td> L 284</td><td>15</td><td>9.8.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2227 of 14 December 2021 </td><td> L 448</td><td>39</td><td>15.12.2021</td></tr>
+<tr><td> M17</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/844 of 30 May 2022 </td><td> L 148</td><td>24</td><td>31.5.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/203 of 27 October 2022 </td><td> L 31</td><td>1</td><td>2.2.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1111 of 10 April 2024 </td><td> L 1111</td><td>1</td><td>23.5.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2076 of 24 July 2024 </td><td> L 2076</td><td>1</td><td>25.7.2024</td></tr>
+<tr><td> M21</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2857 of 11 November 2024 </td><td> L 2857</td><td>1</td><td>12.11.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/134 of 28 January 2025 </td><td> L 134</td><td>1</td><td>29.1.2025</td></tr>
+<tr><td> M23</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1345 of 14 July 2025 </td><td> L 1345</td><td>1</td><td>15.7.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2293 of 10 November 2025 </td><td> L 2293</td><td>1</td><td>11.11.2025</td></tr>
+<tr><td> M25</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2253 of 11 November 2025 </td><td> L 2253</td><td>1</td><td>12.11.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/781 of 8 April 2026 </td><td> L 781</td><td>1</td><td>10.4.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 1178/2011**
+
+**of 3 November 2011**
+
+**laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+1\. This Regulation lays down detailed rules for:
+
+(a) different ratings for pilot licences, the conditions for issuing, maintaining, amending, limiting, suspending or revoking pilot licences, the privileges and responsibilities of the holders of pilot licences, as well as the conditions for the conversion of existing national pilot licences and of national flight engineer licences into pilot licences;
+
+(b) the certification of persons who are responsible for providing flight training or flight simulation training and for assessing pilots’ skills;
+
+(c) different medical certificates for pilots, the conditions for issuing, maintaining, amending, limiting, suspending or revoking medical certificates, the privileges and responsibilities of the holders of medical certificates as well as the conditions for the conversion of national medical certificates into mutually recognised medical certificates;
+
+(d) the certification of aero-medical examiners, as well as the conditions under which general medical practitioners may act as aero-medical examiners;
+
+(e) the periodical aero-medical assessment of cabin crew members, as well as the qualifications of persons who are responsible for that assessment;
+
+(f) the conditions for issuing, maintaining, amending, limiting, suspending or revoking cabin crew attestations, as well as the privileges and responsibilities of the holders of cabin crew attestations;
+
+(g) the conditions for issuing, maintaining, amending, limiting, suspending or revoking certificates of pilot training organisations and of aero-medical centres involved in the qualification and aero-medical assessment of civil aviation aircrew;
+
+(h) the requirements for the certification of flight simulation training devices and for organisations that operate and use those devices;
+
+(i) the requirements for the administration and management system to be fulfilled by the Member States, the European Union Aviation Safety Agency (‘EASA’) and organisations in relation to the rules referred to in points (a) to (h).
+
+2\. Articles 11b and 11c of this Regulation as well as Annex IV (Part-MED), Annex VI (Part-ARA), Annex VII (Part-ORA) and Annex VIII (Part-DTO) to this Regulation shall apply to pilot licences for balloons and sailplanes.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘Part-FCL licence’ means a flight crew licence which complies with the requirements of Annex I;
+
+(2) ‘JAR’ means joint aviation requirements adopted by the Joint Aviation Authorities as applicable on 30 June 2009;
+
+(3a) ‘Complex aeroplane’ means an aeroplane that meets either of the following characteristics:
+
+(i) with a maximum certificated take-off mass exceeding 5 700 kg;
+
+(ii) certificated for a maximum passenger seating configuration of more than nineteen;
+
+(iii) certificated for operation with a minimum crew of two pilots;
+
+(iv) equipped with a turbojet engine or turbojet engines or more than one turboprop engine;
+
+(3b) ‘Complex helicopter’ means a helicopter that meets either of the following characteristics:
+
+(i) with a maximum certificated take-off mass exceeding 3 175 kg;
+
+(ii) certificated for a maximum passenger seating configuration of more than nine;
+
+(iii) certificated for operation with a minimum crew of two pilots;
+
+(5) ‘Non-JAR-compliant licence’ means the pilot licence issued or recognised by a Member State in accordance with national legislation and not having been recommended for mutual recognition in relation to the relevant JAR;
+
+(6) ‘Credit’ means the recognition of prior experience or qualifications;
+
+(7) ‘Credit report’ means a report on the basis of which prior experience or qualifications may be recognised;
+
+(8) ‘Conversion report’ means a report on the basis of which a licence may be converted into a Part-FCL licence;
+
+(8a) ‘rotorcraft’ means a power-driven, heavier-than-air aircraft that depends principally for its support in flight on the lift generated by up to two rotors;
+
+(8b) ‘vertical take-off and landing (VTOL)-capable aircraft (VCA)’ means a power-driven, heavier-than-air aircraft, other than aeroplane or rotorcraft, capable of performing vertical take-off and landing by means of lift and thrust units used to provide lift during take-off and landing;
+
+(8c) ‘SEP aeroplane’ means a single-engine, single-pilot aeroplane for which no type rating is required and whose single centric propulsion unit is operated by a single thrust control and driven by either of the following types of engine:
+
+(a) a piston engine;
+
+(b) an electric engine system which, if so specified following the certification process in accordance with Regulation (EU) No 748/2012, may consist of more than one electric engine;
+
+(c) a hybrid engine system that consists of piston and electric engines, if so specified following the certification process in accordance with Regulation (EU) No 748/2012;
+
+(8d) ‘SEP helicopter’ means a single-engine, single-pilot helicopter which is powered by a piston engine;
+
+(11) ‘Cabin crew member’ means an appropriately qualified crew member, other than a flight crew or technical crew member, who is assigned by an operator to perform duties related to the safety of passengers and flight during operations;
+
+(12) ‘Aircrew’ means flight crew and cabin crew;
+
+(14) ‘Acceptable means of compliance (AMC)’ means non-binding standards adopted by the Agency to illustrate means to establish compliance with Regulation (EC) No 216/2008 and its implementing rules;
+
+(15) ‘Alternative means of compliance (AltMoC)’ means those means that propose an alternative to an existing AMC or those that propose new means to establish compliance with Regulation (EC) No 216/2008 and its implementing rules for which no associated AMC have been adopted by the Agency;
+
+(16) ‘Approved training organisation (ATO)’ means an organisation which is entitled to provide training to pilots on the basis of an approval issued in accordance with the first subparagraph of Article 10a(1);
+
+(17) ‘Basic instrument training device (BITD)’ means a ground-based training device for the training of pilots representing the student pilot's station of a class of aeroplanes, which may use screen-based instrument panels and spring-loaded flight controls, and providing a training platform for at least the procedural aspects of instrument flight;
+
+(18) ‘Certification specifications (CS)’ mean technical standards adopted by the Agency indicating means to be used by an organisation for the purpose of certification;
+
+(19) ‘Flight instructor (FI)’ means an instructor with the privileges to provide training in an aircraft in accordance with Subpart J of Annex I (Part-FCL) to this Regulation, Subpart FI of Annex III (Part-BFCL) to Regulation (EU) 2018/395 ( 1 ), or Subpart FI of Annex III (Part-SFCL) to Implementing Regulation (EU) 2018/1976 ( 2 );
+
+(20) ‘Flight simulation training device (FSTD)’ means a device for the training of pilots which is:
+
+(a) in the case of aeroplanes, a full flight simulator (FFS), a flight training device (FTD), a flight and navigation procedures trainer (FNPT) or a basic instrument training device (BITD);
+
+(b) in the case of helicopters, a full flight simulator (FFS), a flight training device (FTD) or a flight and navigation procedures trainer (FNPT);
+
+(21) ‘FSTD qualification’ means the level of technical ability of an FSTD as specified in the certification specifications relating to the FSTD in question;
+
+(22) ‘Principal place of business’ of an organisation means the head office or registered office of the organisation within which the principal financial functions and operational control of the activities referred to in this Regulation are exercised;
+
+(22a) ‘ARO.RAMP’ means the Subpart RAMP of Annex II to the Regulation on Air Operations;
+
+(22b) ‘Automatically validated’ means the acceptance, without formalities, by an ICAO contracting State listed in the ICAO attachment of a flight crew licence issued by a State in accordance with Annex 1 to the Chicago Convention;
+
+(22c) ‘ICAO attachment’ means an attachment to an automatically validated flight crew licence issued in accordance with Annex 1 to the Chicago Convention, which is mentioned under item XIII of the flight crew licence;
+
+(23) ‘Qualification test guide (QTG)’ means a document established to demonstrate that the performance and handling qualities of an FSTD represent those of the aircraft, class of aeroplane or type of helicopter, simulated within prescribed limits and that all applicable requirements have been met. The QTG includes both the data of the aircraft, class of aeroplane or type of helicopter and FSTD data used to support the validation;
+
+(24) ‘Declared training organisation (DTO)’ means an organisation which is entitled to provide training to pilots on the basis of a declaration made in accordance with the second subparagraph of Article 10a(1);
+
+(25) ‘DTO training programme’ means a document established by a DTO, describing in detail the training course provided by that DTO.
+
+## Article 3 — Pilot licensing and medical certification
+
+1\. Without prejudice to Commission Delegated Regulation (EU) 2020/723 ( 3 ), pilots of aircraft referred to in Article 2(1), points (b)(i) and (ii), of Regulation (EU) 2018/1139 shall comply with the technical requirements and administrative procedures laid down in Annex I and Annex IV to this Regulation.
+
+2\. Notwithstanding the privileges of the holders of licences as defined in Annex I to this Regulation, holders of pilot licences issued in accordance with Subpart B or C of Annex I to this Regulation may carry out flights referred to in Article 6(4a) of Regulation (EU) No 965/2012. This is without prejudice to compliance with any additional requirements for the carriage of passengers or the development of commercial operations defined in Subparts B or C of Annex I to this Regulation.
+
+## Article 3a — Transitional measures for medical assessment protocols applied in accordance with point ARA.MED.330 of Annex VI (Part-ARA) and medical certificates issued on the basis thereof
+
+1\. Competent authorities involved in medical assessment protocols, or wishing to join an existing medical assessment protocol, in accordance with point ARA.MED.330 of Annex VI (Part-ARA) applicable before 13 February 2025 may continue to apply the, or join the, relevant protocol until the end of its validity, where the validity has been determined before 13 August 2024.
+
+2\. Holders of medical certificates issued in accordance with the medical assessment protocols referred to in paragraph 1 may exercise the privileges of their pilot licences on the basis of their medical certificates, as long as the relevant medical assessment protocol continues to apply in accordance with paragraph 1.
+
+## Article 4 — Existing national pilots’ licences
+
+2\. Non-JAR-compliant licences including any associated ratings, certificates, authorisations or qualifications issued or recognised by a Member State before the applicability of this Regulation shall be converted into Part-FCL licences by the Member State that issued the licence. By way of derogation from this paragraph,, Article 4g shall apply to gyroplane pilot licences.
+
+3\. Non-JAR-compliant licences shall be converted into Part-FCL licences and associated ratings or certificates in accordance with:
+
+(a) the provisions of Annex II; or
+
+(b) the elements laid down in a conversion report.
+
+4\. The conversion report shall:
+
+(a) be established by the Member State that issued the pilot licence in consultation with the European Aviation Safety Agency (the Agency);
+
+(b) describe the national requirements on the basis of which the pilot licences were issued;
+
+(c) describe the scope of the privileges that were given to the pilots;
+
+(d) indicate for which requirements in Annex I credit is to be given;
+
+(e) indicate any limitations that need to be included on the Part-FCL licences and any requirements the pilot has to comply with in order to remove those limitations.
+
+5\. The conversion report shall include copies of all documents necessary to demonstrate the elements set out in points (a) to (e) of paragraph 4, including copies of the relevant national requirements and procedures. When developing the conversion report, Member States shall aim at allowing pilots to, as far as possible, maintain their current scope of activities.
+
+6\. Notwithstanding paragraph 3, holders of a class rating instructor certificate or an examiner certificate who have privileges for single-pilot high performance complex aircraft shall have those privileges converted into a type rating instructor certificate or an examiner certificate for single-pilot aeroplanes.
+
+7\. A Member State may authorise student pilots who follow a LAPL training course to exercise limited privileges without supervision before they meet all the requirements necessary for the issuance of a LAPL, subject to the following conditions:
+
+(a) the scope of the privileges shall be based on a safety risk assessment carried out by the Member State, taking into account the extent of training necessary for the intended level of pilot competence to be achieved;
+
+(b) the privileges shall be limited to the following:
+
+(i) the whole or part of the national territory of the authorising Member State;
+
+(ii) aircraft registered in the authorising Member State;
+
+(iii) SEP aeroplanes and SEP helicopters, both with a maximum take-off mass not exceeding 2 000 kg;
+
+(c) for training conducted under the authorisation, the holder of such an authorisation who applies for the issuance of a LAPL shall receive credits that are determined by the Member State on the basis of a recommendation from an ATO or a DTO;
+
+(d) the Member State shall submit periodical reports and safety risk assessments to the Commission and to the Agency every 3 years;
+
+(e) the Member States shall monitor the use of authorisations issued under this paragraph to ensure an acceptable level of aviation safety and take appropriate action in case of identifying an increased safety risk or any other safety concerns.
+
+8\. Until 8 September 2021  , a Member State may issue an authorisation to a pilot to exercise specified limited privileges to fly aeroplanes under instrument flight rules before the pilot complies with all of the requirements necessary for the issue of an instrument rating in accordance with this Regulation, subject to the following conditions:
+
+(a) the Member State shall only issue these authorisations when justified by a specific local need which cannot be met by the ratings established under this Regulation;
+
+(b) the scope of the privileges granted by the authorisation shall be based on a safety risk assessment carried out by the Member State, taking into account the extent of training necessary for the intended level of pilot competence to be achieved;
+
+(c) the privileges of the authorisation shall be limited to the airspace of the Member State’s national territory or parts of it;
+
+(d) the authorisation shall be issued to applicants having completed appropriate training with qualified instructors and demonstrated the required competencies to a qualified examiner, as determined by the Member State;
+
+(e) the Member State shall inform the Commission, EASA and the other Member States of the specificities of this authorisation, including its justification and safety risk assessment;
+
+(f) the Member State shall monitor the activities associated with the authorisation to ensure an acceptable level of safety and take appropriate action in case of identifying an increased risk or any safety concerns;
+
+(g) the Member State shall carry out a review of the safety aspects of the implementation of the authorisation and submit a report to the Commission by 8 April 2017 at the latest.
+
+9\. For licences issued before 19 August 2018, Member States shall comply with the requirements laid down in the second paragraph of point (a) of ARA.FCL.200 as amended by Commission Regulation (EU) 2018/1065 ( 4 ) by 31 December 2022 at the latest.
+
+## Article 4a — Performance-based navigation instrument rating privileges
+
+1\. Pilots may only fly in accordance with performance-based navigation (‘PBN’) procedures after they have been granted PBN privileges as an endorsement to their instrument rating (‘IR’).
+
+2\. A pilot shall be granted PBN privileges where he or she fulfils all of the following requirements:
+
+(a) the pilot has successfully completed a course of theoretical knowledge including PBN, in accordance with FCL.615 of Annex I (Part-FCL);
+
+(b) the pilot has successfully completed flying training including PBN, in accordance with FCL.615 of Annex I (Part-FCL);
+
+(c) the pilot has successfully completed either a skill test in accordance with Appendix 7 to Annex I (Part-FCL) or a skill test or a proficiency check in accordance with Appendix 9 of Annex I (Part-FCL).
+
+3\. The requirements of paragraph 2(a) and (b) shall be deemed to have been fulfilled where the competent authority considers that the competence acquired, either through training or from familiarity with PBN operations, is equivalent to the competence acquired through the courses referred to in paragraph 2(a) and (b) and the pilot demonstrates such competence to the satisfaction of the examiner at the proficiency check or skill test referred to in paragraph 2(c).
+
+4\. A record of the successful demonstration of competency in PBN shall, upon completion of the skill test or the proficiency check referred to in paragraph 2(c), be entered in the pilot's logbook or equivalent record and signed by the examiner who conducted the test or check.
+
+5\. IR pilots without PBN privileges may only fly on routes and approaches that do not require PBN privileges and no PBN items shall be required for the renewal of their IR, until 25 August 2020; after that date, PBN privileges shall be required for every IR.
+
+## Article 4b — Upset prevention and recovery training
+
+1\. Upset prevention and recovery training shall become a mandatory part of a training course for a multi-crew pilot licence (MPL), an integrated training course for airline transport pilots for aeroplanes (ATP(A)), a training course for a commercial pilot licence for aeroplanes (CPL(A)) and training courses for a class or type rating for:
+
+(a) single-pilot aeroplanes operated in multi-pilot operations;
+
+(b) single-pilot non-high-performance complex aeroplanes;
+
+(c) single-pilot high-performance complex aeroplanes; or
+
+(d) multi-pilot aeroplanes;
+
+in accordance with Annex I (Part-FCL).
+
+2\. For training courses referred to in paragraph 1 that commence before 20 December 2019 at an approved training organisation (ATO), upset prevention and recovery training shall not be mandatory provided that:
+
+(a) CPL(A), ATP(A) or MPL training course is otherwise completed in accordance with Annex I (Part-FCL) and the skill test is completed in compliance with points FCL.320 (CPL), FCL.620 (IR) or FCL.415.A (MPL) of Annex I (Part-FCL) by 20 December 2021 at the latest; or
+
+(b) class or type rating training course for the aeroplanes is otherwise completed in accordance with Annex I (Part-FCL) and the skill test is completed in compliance with the second subparagraph of paragraph (c) of point FCL.725 of Annex I (Part-FCL) to this Regulation by 20 December 2021 at the latest.
+
+For the purpose of paragraph 1, the competent authority may on its own assessment and pursuant to a recommendation from an ATO give credit for any upset prevention and recovery training completed before 20 December 2019 under national training requirements.
+
+## Article 4c — Transitional measures for holders of an en route instrument rating
+
+1\. Up to and including 8 September 2022, holders of an en route instrument rating (‘EIR’) set out in point FCL.825 of Annex I (Part-FCL) shall:
+
+(a) be entitled to continue to exercise the privileges of their EIR;
+
+(b) continue to be entitled to receive revalidation or renewal of their EIR, in accordance with point FCL.825(g) of Annex I (Part-FCL);
+
+(c) be entitled to receive full credit towards the training requirements in point FCL.835(c)(2)(i) and (iii) of Annex I (Part-FCL), when applying for the issue of a basic instrument rating (BIR) in accordance with point FCL.835 of Annex I (Part-FCL); and
+
+(d) continue to be entitled to receive full credit as established for EIR holders in Annex I (Part- FCL).
+
+2\. As from 8 September 2021, training courses for an EIR referred to in paragraph 1, that have commenced prior to that date, can be continued and shall be regarded as training courses for a BIR. Based on an assessment of the applicant, the approved training organisation responsible for the BIR training course shall determine the amount of EIR training to be credited towards the issue of the BIR.
+
+3\. Applicants for a BIR who hold an EIR or have passed the theoretical knowledge examination for an EIR in accordance with point FCL.825(d) prior to 8 September 2021 shall receive full credit towards the requirements for the theoretical knowledge instruction and examination for the BIR.
+
+## Article 4d — Transitional measures for single-engine instrument rating privileges for helicopters
+
+Without prejudice to point FCL.630.H of Annex I (Part-FCL) to this Regulation, all of the following shall apply:
+
+1\. instrument ratings for helicopters (IR(H)) issued in accordance with Annex I (Part-FCL) to this Regulation before 30 October 2022 shall be deemed as IR(H) for both single-engine and multi-engine helicopters and shall be reissued as such IR(H), when reissuing a helicopter pilot licence for administrative reasons.
+
+2\. Applicants who before 30 October 2022 commenced training for an IR(H) for either single-engine or multi-engine helicopters shall be allowed to complete that training and, in such a case, be issued with an IR(H) for both single-engine and multi-engine helicopters.
+
+## Article 4e — Transitional measures for training, testing and checking related to multi-pilot operations in single-pilot helicopters
+
+1\. Member States may decide to issue specific privileges for conducting training, skill tests and proficiency checks in multi-pilot operation in single-pilot helicopters to applicants who meet all of the following conditions:
+
+(a) hold an instructor or examiner certificate, as applicable, issued in accordance with Annex I (Part-FCL) to this Regulation, including the privileges to instruct or to examine, as applicable, in the relevant type of helicopter;
+
+(b) have completed the training specified in point FCL.735.H of Part-FCL;
+
+(c) have experience in multi-pilot operation in helicopters at a level that is acceptable to the competent authority of that Member State.
+
+2\. The privileges issued in accordance with paragraph 1 shall be valid until 30 October 2025. In order to revalidate the privileges, applicants shall comply with the experience requirements for instructor and examiner privileges related to multi-pilot operation in single-pilot helicopters as set out in Part-FCL.
+
+## Article 4f — Type ratings for VCA
+
+1\. Applicants that hold a commercial pilot licence for aeroplanes (CPL(A)) or helicopters (CPL(H)) in accordance with Annex I (Part-FCL) shall be entitled to be issued with a type rating for a VCA and shall exercise the privileges of such a type rating, provided they comply with all the following:
+
+(a) the prerequisites specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(b) Section 1 of Subpart H of Annex I (Part-FCL) and the provisions of this Article.
+
+2\. The theoretical knowledge examination shall be written, and the number of multiple-choice questions shall depend on the complexity of the aircraft.
+
+3\. Type rating training, skill tests and proficiency checks for aircraft specified in paragraph 1 shall:
+
+(a) comply with the following requirements of Appendix 9 to Annex I (Part-FCL):
+
+(i) Section A;
+
+(ii) Sections B, C or D, as determined and unless otherwise specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012; and
+
+(b) under the conditions and to the extent specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, include additional training and testing to allow applicants to obtain the competence to operate the relevant VCA.
+
+4\. By way of derogation from the paragraphs above, applicants that hold a CPL(A) or a CPL(H) and that were involved in test flights for a particular type of VCA shall be issued with a type rating for that aircraft, provided they comply with all the following:
+
+(a) they comply with the flight conditions for acting as test pilot in the relevant VCA type, as established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(b) they have completed either 50 hours of total flight time or 10 hours of flight time as pilot-in-command on test flights in the relevant VCA type;
+
+(c) they comply with the prerequisites referred to in paragraph 1(a).
+
+5\. The validity period of type ratings issued in accordance with this Article shall be 1 year. Holders shall do all the following:
+
+(a) in order to revalidate the type rating:
+
+(i) within the validity period of the rating, complete at least 2 hours of flight time as pilot of the relevant VCA type;
+
+(ii) within the 3 months immediately preceding the expiry date of the rating and in the relevant VCA type or an FSTD representing that aircraft, pass a proficiency check in accordance with paragraph 3, the duration of which may be counted towards the flight time specified in paragraph (a)(i). If applicants choose to pass the proficiency check earlier than within these 3 months, the new validity period shall commence from the date of the proficiency check;
+
+(b) in order to renew the type rating, comply with point FCL.740(b) of Annex I (Part-FCL).
+
+6\. Holders of a licence and a type rating as specified in paragraph 1 shall be entitled to operate the relevant VCA under instrument flight rules, provided they comply with all the following:
+
+(a) they hold an IR(A) or an IR(H), as applicable;
+
+(b) they have, in the relevant VCA type, completed the skill test or the proficiency check, as applicable, in accordance with paragraph 3 including the content relevant for instrument flight.
+
+7\. Notwithstanding point FCL.900(b) of Annex I (Part-FCL), applicants that hold an instructor certificate in accordance with Annex I (Part-FCL) with privileges to provide training for aeroplane or helicopter type ratings shall be issued with privileges to provide training for type ratings specified in paragraph 1, provided they:
+
+(a) hold a type rating as per paragraph 1 for the relevant VCA type;
+
+(b) unless otherwise specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, have, within the 12 months preceding the application, completed at least 30 route sectors, including take-offs and landings, as pilot-in-command in the relevant VCA type, of which 15 route sectors may be completed in an FSTD representing that VCA type;
+
+(c) have completed, at an ATO, theoretical and practical training for extending instructor privileges to that VCA type, including mandatory training elements as specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(d) pass the relevant sections of the assessment of competence in accordance with point FCL.935 of Annex I (Part-FCL).
+
+By way of derogation from paragraphs (b), (c) and (d), applicants that hold a TRI(A) certificate or a TRI(H) certificate and that were issued with a type rating for a VCA in accordance with paragraph 4, shall receive an extension of their TRI privileges to that VCA type.
+
+8\. Holders of instructor privileges referred to in paragraph 7 shall receive revalidation or renewal, as applicable, of these privileges when they comply with the relevant revalidation or renewal requirements of Subpart J of Annex I (Part-FCL), as applicable for the instructor certificate held, and additionally do either of the following:
+
+(a) complete, at an ATO, instructor refresher training that focuses on the privileges as per paragraph 7;
+
+(b) pass the relevant sections of the assessment of competence in accordance with point FCL.935 of Annex I (Part-FCL) in the relevant VCA type specified in paragraph 1 or an FSTD representing that type.
+
+9\. Notwithstanding point FCL.1000(b) of Annex I (Part-FCL), applicants that hold an examiner certificate in accordance with Annex I (Part-FCL) with privileges to act as an examiner for aeroplane or helicopter type ratings shall be issued with privileges to conduct skill tests and proficiency checks for an VCA type specified in paragraph 1, provided they hold instructor privileges as per paragraph 7 for the relevant VCA type and comply with all the following in the relevant VCA type or an FSTD representing that type:
+
+(a) complete examiner standardisation in accordance with point FCL.1015 of Annex I (Part-FCL), including the conduct of at least one skill test or proficiency check;
+
+(b) pass the relevant sections of the assessment of competence in accordance with point FCL.1020 of Annex I (Part-FCL).
+
+10\. Holders of examiner privileges referred to in paragraph 9 shall receive revalidation or renewal, as applicable, of these privileges when they comply with the relevant parts of point FCL.1025 of Annex I (Part-FCL) and additionally do either of the following:
+
+(a) complete an examiner refresher course in accordance with point FCL.1025(b)(2) of Annex I (Part-FCL) that focuses on the privileges as per paragraph 9;
+
+(b) pass the relevant sections of the assessment of competence in accordance with point FCL.1020 of Annex I (Part-FCL) in the relevant VCA type or an FSTD representing that type.
+
+## Article 4g — Specific requirements for applicants for a gyroplane pilot licence
+
+1\. Until 18 February 2028, applicants who hold a gyroplane pilot licence and associated ratings and certificates that were issued in accordance with national gyroplane flight crew licensing requirements, or who commenced training in accordance with such requirements, shall receive credits for the purpose of being issued with a gyroplane pilot licence and associated ratings and certificates in accordance with this Regulation, on the basis of a credit report established by a Member State in consultation with EASA. The credit report shall comply with Article 9(3).
+
+2\. When establishing a credit report in accordance with paragraph (1), Member States shall:
+
+(a) solely grant credits for flight time that applicants completed in gyroplanes that have a maximum take-off mass of at least 450 kg;
+
+(b) for the purpose of issuing a gyroplane pilot licence in accordance with this Regulation, solely grant credits the amount of which does not exceed the credit that may have been granted in accordance with point FCL.210.G(c) of Annex I. In such cases, applicants shall complete the additional flight training at an approved training organisation (ATO) or at a declared training organisation (DTO) in a gyroplane that has been certified in accordance with Regulation (EU) 2018/1139 and the implementing and delegated acts adopted on the basis thereof, before being recommended by the ATO or the DTO for the skill test.
+
+## Article 4h — Transitional measures for holders of a mountain rating
+
+Holders of a mountain rating which was issued before 13 August 2024 with an expiry date endorsed in accordance with point FCL.815 of Annex I shall, in order to continue to exercise their privileges after that date, take the following steps:
+
+(a) have their mountain rating re-issued by the competent authority without an expiry date;
+
+(b) comply with point FCL.815(d) of Annex I, unless, within the preceding 2 years, they have revalidated their mountain rating in accordance with point FCL.815(e) of Annex I applicable until 12 August 2024.
+
+## Article 6 — Conversion of flight test qualifications
+
+1\. Pilots who before this Regulation applies conducted category 1 and 2 flight tests as defined in the Annex to Commission Regulation (EC) No 1702/2003 ( 5 ), or who provided instruction to flight test pilots, shall have their flight test qualifications converted into flight test ratings in accordance with Annex I to this Regulation and, where applicable, flight test instructor certificates by the Member State that issued the flight test qualifications.
+
+2\. This conversion shall be carried out in accordance with the elements established in a conversion report that complies with the requirements set out in Article 4(4) and (5).
+
+## Article 7 — Existing national flight engineers’ licences
+
+1\. In order to convert flight engineer licences, issued in accordance with Annex 1 to the Chicago Convention, into Part-FCL licences, holders shall apply to the Member State that issued the licences.
+
+2\. Flight engineer licences shall be converted into Part-FCL licences in accordance with a conversion report that complies with the requirements set out in Article 4(4) and (5).
+
+3\. When applying for the airline transport pilot licence (ATPL) for aeroplanes, the provisions on credit in FCL.510.A(c)(2) of Annex I shall be complied with.
+
+## Article 9 — Credit for training commenced prior to the application of this Regulation
+
+1\. In respect of issuing Part-FCL licences in accordance with Annex I, training commenced prior to the application of this Regulation in accordance with the JARs and procedures, under the regulatory oversight of a Member State recommended for mutual recognition within the Joint Aviation Authorities’ system in relation to the relevant JARs, shall be given full credit provided that the training and testing were completed by 8 April 2016 at the latest and a Part-FCL licence is issued by 1 April 2020 at the latest.
+
+2\. Training commenced prior to the application of this Regulation in accordance with Annex 1 to the Chicago Convention shall be given credit for the purposes of issuing Part-FCL licences on the basis of a credit report established by the Member State in consultation with the Agency.
+
+3\. The credit report shall describe the scope of the training, indicate for which requirements of Part-FCL licences credit is given and, if applicable, which requirements applicants need to comply with in order to be issued with Part-FCL licences. It shall include copies of all documents necessary to demonstrate the scope of the training and of the national regulations and procedures in accordance with which the training was commenced.
+
+## Article 9a — Type rating training and operational suitability data
+
+1\. Where the Annexes to this Regulation make reference to the operational suitability data established in accordance with Regulation (EU) No 748/2012, and that data is not available for the relevant type aircraft, the applicant for a type rating training course shall comply with the provisions of the Annexes of Regulation (EU) No 1178/2011 only.
+
+2\. Type rating training courses approved before the approval of the minimum syllabus of pilot type rating training in the operational suitability data for the relevant type of aircraft in accordance with Regulation (EU) No 748/2012 shall include the mandatory training elements not later than 18 December 2017 or within two years after the operational suitability data was approved, whichever is the latest.
+
+## Article 10 — Credit for pilot licences obtained during military service
+
+1\. In order for holders of military flight crew licences to obtain Part-FCL licences, they shall apply to the Member State where they served.
+
+2\. The knowledge, experience and skill gained in military service shall be given credit for the purposes of the relevant requirements of Annex I in accordance with the elements of a credit report established by the Member State in consultation with the Agency.
+
+3\. The credit report shall:
+
+(a) describe the national requirements on the basis of which the military licences, ratings, certificates, authorisations and/or qualifications were issued;
+
+(b) describe the scope of the privileges that were given to the pilots;
+
+(c) indicate for which requirements of Annex I credit is to be given;
+
+(d) indicate any limitations that need to be included on the Part-FCL licences and indicate any requirements pilots have to comply with to remove those limitations;
+
+(e) include copies of all documents necessary to demonstrate the elements above, accompanied by copies of the relevant national requirements and procedures.
+
+## Article 10a — Pilot training organisations
+
+1\. Organisations shall, in accordance with Article 24(2) of Regulation (EU) 2018/1139, be entitled to provide training to pilots involved in the operation of aircraft referred to in points (b)(i) and (ii) of Article (2)(1) of Regulation (EU) 2018/1139 only where those organisations have been issued by the competent authority with an approval confirming that they comply with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139 and with the requirements of Annex VII to this Regulation.
+
+However, having regard to Article 24(6) of Regulation (EU) 2018/1139, organisations having their principal place of business in a Member State shall be entitled to provide the training referred to in point DTO.GEN.110 of Annex VIII to this Regulation without such approval inside the territory for which Member States are responsible under the Chicago Convention where they have made a declaration to the competent authority in accordance with the requirements laid down in point DTO.GEN.115 of that Annex and, where so required pursuant to point DTO.GEN.230(c) of that Annex, the competent authority has approved the training programme.
+
+5\. Pilot training organisations shall ensure that the IR training course they offer include training for PBN privileges compliant with the requirements of Annex I (Part-FCL) by 25 August 2020 at the latest.
+
+6\. Pilot training organisations that provide training for the IR(H) shall adapt their training programme to be compliant with Annex I by 30 October 2023.
+
+## Article 10b — Flight simulation training devices
+
+1\. Flight simulation training devices (FSTDs) used for pilot training, testing and checking, with the exception of developmental training devices used for flight test training, shall comply with the technical requirements and administrative procedures laid down in Annexes VI and VII and shall be qualified.
+
+## Article 10c — Aero-medical centres
+
+1\. Aero-medical centres shall comply with the technical requirements and administrative procedures laid down in Annexes VI and VII and shall be certified.
+
+## Article 11 — Cabin crew medical fitness
+
+1\. Cabin crew members involved in the operation of aircraft referred to in Article 4(1)(b) and (c) of Regulation (EC) No 216/2008 shall comply with the technical requirements and administrative procedures laid down in Annex IV.
+
+## Article 11a — Cabin crew qualifications and related attestations
+
+1\. Cabin crew members involved in commercial operation of aircraft referred to in Article 4(1)(b) and (c) of Regulation (EC) No 216/2008 shall be qualified and hold the related attestation in accordance with the technical requirements and administrative procedures laid down in Annexes V and VI.
+
+4\. Cabin crew members involved in commercial operations of helicopters on the date of application of this Regulation:
+
+(a) shall be deemed to be compliant with the initial training requirements of Annex V if they comply with the applicable training, checking and recency provisions of the JARs for commercial air transportation by helicopters; or
+
+(b) if they do not comply with the applicable training, checking and recency requirements of the JARs for commercial air transportation by helicopters, they shall complete all relevant training and checking required to operate on helicopter(s), except the initial training, before being deemed to be compliant with this Regulation; or
+
+(c) if they have not operated in commercial operations by helicopters for more than 5 years, they shall complete the initial training course and shall pass the related examination as required in Annex V before being deemed to be compliant with this Regulation.
+
+5\. Without prejudice to Article 2, cabin crew attestations complying with the format laid down in Annex VI shall be issued to all cabin crew members involved in commercial operations by helicopters by 8 April 2013 at the latest.
+
+## Article 11b — Oversight capabilities
+
+1\. Member States shall designate one or more entities as the competent authority within that Member State with the necessary powers and allocated responsibilities for the certification and oversight of persons and organisations subject to Regulation (EC) No 216/2008 and its implementing rules.
+
+2\. If a Member State designates more than one entity as competent authority:
+
+(a) the areas of competence of each competent authority shall be clearly defined in terms of responsibilities and geographic limitation;
+
+(b) coordination shall be established between those entities to ensure effective oversight of all organisations and persons subject to Regulation (EC) No 216/2008 and its implementing rules within their respective remits.
+
+3\. Member States shall ensure that the competent authority(ies) has/have the necessary capability to ensure the oversight of all persons and organisations covered by their oversight programme, including sufficient resources to fulfil the requirements of this Regulation.
+
+4\. Member States shall ensure that competent authority personnel do not perform oversight activities when there is evidence that this could result directly or indirectly in a conflict of interest, in particular when relating to family or financial interest.
+
+5\. Personnel authorised by the competent authority to carry out certification and/or oversight tasks shall be empowered to perform at least the following tasks:
+
+(a) examine the records, data, procedures and any other material relevant to the execution of the certification and/or oversight task;
+
+(b) take copies of or extracts from such records, data, procedures and other material;
+
+(c) ask for an oral explanation on site;
+
+(d) enter relevant premises, operating sites or means of transport;
+
+(e) perform audits, investigations, assessments and inspections, including ramp inspections and unannounced inspections; and
+
+(f) take or initiate enforcement measures as appropriate.
+
+6\. The tasks under paragraph 5 shall be carried out in compliance with the legal provisions of the relevant Member State.
+
+## Article 11c — Transitional measures
+
+Member States shall:
+
+(a) by 8 April 2021 at the latest, transfer to EASA all records related to the oversight of organisations that provide training for pilot licences in accordance with Regulation (EU) 2018/395 and Implementing Regulation (EU) 2018/1976 and for which EASA is the competent authority in accordance with Article 78 of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 6 );
+
+(b) in coordination with EASA, conclude, certification processes initiated before 8 April 2020 and issue the certificate following which EASA assumes all its responsibilities as a competent authority for those certified organisations.
+
+## Article 12 — Entry into force and application
+
+1\. This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 8 April 2012.
+
+4\. By way of derogation from paragraph 1, Member States may decide not to apply the provisions of this Regulation until 20 June 2022  , to pilots holding a licence and associated medical certificate issued by a third country involved in the non-commercial operation of aircraft as specified in Article 2(1)(b), points (i) or (ii), of Regulation (EU) 2018/1139. Member States shall make those decisions publicly available.
+
+7\. When a Member State makes use of the requirements of paragraphs 2a and 4, it shall notify the Commission and the Agency. This notification shall describe the reasons for such derogation as well as the programme for implementation containing actions envisaged and related timing.
+
+8\. By way of derogation from paragraph 1, point FCL.315.A, the second sentence of paragraph (a) of point FCL.410.A and paragraph (c) of point FCL.725.A of Annex I (Part-FCL) shall apply from 20 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**[PART-FCL]**
+
+**SUBPART A**
+
+**GENERAL REQUIREMENTS**
+
+**FCL.001 Competent authority**
+
+For the purpose of this Part, the competent authority shall be an authority designated by the Member State to whom a person applies for the issue of pilot licences or associated ratings or certificates.
+
+**FCL.005 Scope**
+
+This Part establishes the requirements for the issue of pilot licences and associated ratings and certificates and the conditions of their validity and use.
+
+**FCL.010 Definitions**
+
+For the purposes of this Annex (Part-FCL), the following definitions shall apply:
+
+‘Accessible’ means that a device can be used by:
+
+— the approved training organisation (ATO) under whose approval a training course for a class or type rating is being conducted; or
+
+— the examiner conducting the assessment of competence, skill test or proficiency check for the purpose of assessing, testing or checking.
+
+‘Aerobatic flight’ means an intentional manoeuvre involving an abrupt change in an aircraft's attitude, an abnormal attitude, or abnormal acceleration, not necessary for normal flight or for instruction for licences, certificates, or ratings other than the aerobatic rating.
+
+‘Aeroplane’ means an engine-driven fixed-wing aircraft heavier than air which is supported in flight by the dynamic reaction of the air against its wings.
+
+‘Aeroplane required to be operated with a co-pilot’ means a type of aeroplane which is required to be operated with a co-pilot as specified in the flight manual or by the air operator certificate.
+
+‘Aeroplane upset prevention and recovery training’ (UPRT) means training consisting of:
+
+— aeroplane upset prevention training: a combination of theoretical knowledge and flying training with the aim of providing flight crew with the required competencies to prevent aeroplane upsets; and
+
+— aeroplane upset recovery training: a combination of theoretical knowledge and flying training with the aim of providing flight crew with the required competencies to recover from aeroplane upsets.
+
+‘Aircraft’ means any machine which can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth’s surface.
+
+‘Airmanship’ means the consistent use of good judgement and well-developed knowledge, skills and attitudes to accomplish flight objectives.
+
+‘Airship’ means a power-driven lighter-than-air aircraft, with the exception of hot-air airships, which are considered to be balloons in accordance with Article 2(7) of Commission Regulation (EU) 2018/395.
+
+‘Available FSTD’ means any flight simulation training device (FSTD) that is vacant for use of the FSTD operator or of the customer irrespective of any time considerations.
+
+‘Angular operation’ means an instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in terms of deflection of the needles on the Course Deviation Indicator (CDI) or equivalent display in the cockpit.
+
+‘Assessment of competence’ means the demonstration of skills, knowledge and attitude for the initial issue, revalidation or renewal of an instructor or examiner certificate.
+
+‘Balloon’ means a lighter-than-air aircraft which is not engine-driven and sustains flight through the use of either gas or an airborne heater. For the purposes of this Part, a hot-air airship, although engine-driven, is also considered a balloon.
+
+‘Category of aircraft’ means a categorisation of aircraft according to specified basic characteristics, for example aeroplane, powered-lift, helicopter, airship, sailplane, free balloon.
+
+‘Class of aeroplane’ means a categorisation of single-pilot aeroplanes not requiring a type rating.
+
+‘Commercial air transport’ means the transport of passengers, cargo or mail for remuneration or hire.
+
+‘Competency’ means a combination of skills, knowledge and attitude required to perform a task to the prescribed standard.
+
+‘Competency element’ means an action which constitutes a task that has a triggering event and a terminating event that clearly defines its limits, and an observable outcome.
+
+‘Competency unit’ means a discrete function consisting of a number of competency elements.
+
+‘Co-pilot’ means a pilot operating other than as pilot-in-command, on an aircraft for which more than one pilot is required, but excluding a pilot who is on board the aircraft for the sole purpose of receiving flight instruction for a licence or rating.
+
+‘Cross-country’ means a flight between a point of departure and a point of arrival following a pre-planned route, using standard navigation procedures.
+
+‘Cruise relief co-pilot’ means a pilot who relieves the co-pilot of his/her duties at the controls during the cruise phase of a flight in multi-pilot operations above FL 200.
+
+‘Dual instruction time’ means flight time or instrument ground time during which a person is receiving flight instruction from a properly authorised instructor.
+
+‘En route IFR flight’ means the phase of an IFR flight that commences after the completion of an IFR departure procedure and finishes when commencing an IFR approach procedure.
+
+‘Error’ means an action or inaction taken by the flight crew which leads to deviations from organisational or flight intentions or expectations.
+
+‘Error management’ means the process of detecting and responding to errors with countermeasures which reduce or eliminate the consequences of errors, and mitigate the probability of errors or undesired aircraft states.
+
+‘Full Flight Simulator’ (FFS) means a full size replica of a specific type or make, model and series aircraft flight deck, including the assemblage of all equipment and computer programmes necessary to represent the aircraft in ground and flight operations, a visual system providing an out-of-the-flight deck view, and a force cueing motion system.
+
+‘Flight time’:
+
+for aeroplanes, touring motor gliders and powered-lift aircraft, it means the total time from the moment an aircraft first moves for the purpose of taking off until the moment it finally comes to rest at the end of the flight;
+
+for helicopters, it means the total time from the moment a helicopter’s rotor blades start turning until the moment the helicopter finally comes to rest at the end of the flight, and the rotor blades are stopped;
+
+for airships, it means the total time from the moment an airship is released from the mast for the purpose of taking off until the moment the airship finally comes to rest at the end of the flight, and is secured on the mast;
+
+for VTOL-capable aircraft (VCA), it means the total time between the moment the lift and thrust units are powered on for the purpose of taking off until the moment the aircraft finally comes to rest at the end of the flight and the lift and thrust units are powered off.
+
+‘Flight time under Instrument Flight Rules’ (IFR) means all flight time during which the aircraft is being operated under the Instrument Flight Rules.
+
+‘Flight Training Device’ (FTD) means a full size replica of a specific aircraft type’s instruments, equipment, panels and controls in an open flight deck area or an enclosed aircraft flight deck, including the assemblage of equipment and computer software programmes necessary to represent the aircraft in ground and flight conditions to the extent of the systems installed in the device. It does not require a force cueing motion or visual system, except in the case of helicopter FTD levels 2 and 3, where visual systems are required.
+
+‘Flight and Navigation Procedures Trainer’ (FNPT) means a training device which represents the flight deck or cockpit environment, including the assemblage of equipment and computer programmes necessary to represent an aircraft type or class in flight operations to the extent that the systems appear to function as in an aircraft.
+
+‘Flown solely by reference to instruments’ means that the pilots fly the aircraft without any external visual references, in simulated or actual instrument meteorological conditions (IMC).
+
+‘Gyroplane’ means a type of rotorcraft supported in flight by the reactions of the air on up to two rotors, which rotate freely on substantially vertical axes.
+
+‘Helicopter’ means a type of rotorcraft supported in flight chiefly by the reactions of the air on up to two power-driven rotors on substantially vertical axes.
+
+‘Instrument flight time’ means the time during which a pilot is controlling an aircraft in flight solely by reference to instruments.
+
+‘Instrument ground time’ means the time during which a pilot is receiving instruction in simulated instrument flight, in flight simulation training devices (FSTD).
+
+‘Instrument time’ means instrument flight time or instrument ground time.
+
+‘Limited panel instrument flight’ means attitude interpretation by reference to standby instruments interpretation after the loss of main attitude and heading reference system.
+
+‘Linear operation’ means an instrument approach operation in which the maximum tolerable error/deviation from the planned track is expressed in units of length, for instance nautical miles, for cross-track lateral deviation.
+
+‘Line flying under supervision’ (LIFUS) means line flying after an approved zero flight time type rating training course or the line flying required by an operational suitability data (OSD) report.
+
+‘LNAV’ means Lateral Navigation.
+
+‘LPV’ means Localiser Performance with Vertical Guidance.
+
+‘Multi-pilot operation’ means an operation requiring at least two pilots using multi-crew cooperation in either a multi-pilot or a single-pilot aircraft.
+
+‘Multi-crew cooperation’ (MCC) means the functioning of the flight crew as a team of cooperating members led by the pilot-in-command.
+
+‘Multi-pilot aircraft’:
+
+— for aeroplanes, it means aeroplanes certificated for operation with a minimum crew of at least two pilots,
+
+— for helicopters, airships and powered-lift aircraft, it means an aircraft which is certificated for operation with a minimum crew of at least two pilots or which is required to be operated with at least two pilots in accordance with Regulation (EU) No 965/2012.
+
+‘Night’ means the period between the end of evening civil twilight and the beginning of morning civil twilight or such other period between sunset and sunrise as may be prescribed by the appropriate authority.
+
+‘OSD’ means the operational suitability data established in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012.
+
+‘Other training devices’ (OTD) means training aids other than FSTDs which provide means for training where a complete flight deck environment is not necessary.
+
+‘Performance-Based Navigation (PBN)’ means area navigation based on performance requirements for aircraft operating along an ATS route, on an instrument approach procedure or in a designated airspace.
+
+‘Performance criteria’ means a simple, evaluative statement on the required outcome of the competency element and a description of the criteria used to judge if the required level of performance has been achieved.
+
+‘Pilot-in-command’ (PIC) means the pilot designated as being in command and charged with the safe conduct of the flight.
+
+‘Pilot-in-command under supervision’ (PICUS) means a co-pilot performing, under the supervision of the pilot-in-command, the duties and functions of a pilot-in-command.
+
+‘Powered-lift aircraft’ means any aircraft deriving vertical lift and in flight propulsion/lift from variable geometry rotors or engines/propulsive devices attached to or contained within the fuselage or wings.
+
+‘Powered sailplane’ means a sailplane equipped with one or more engines that has, with engines inoperative, the characteristics of a sailplane.
+
+‘Private pilot’ means a pilot who holds a licence which prohibits the piloting of aircraft in operations for which remuneration is given, with the exclusion of instruction or examination activities, as established in this Part.
+
+‘Proficiency check’ means the demonstration of skill to revalidate or renew ratings or privileges, and including such oral examination as may be required.
+
+‘Renewal’ (of, e.g. a rating or certificate) means the administrative action taken after a rating or certificate has lapsed for the purpose of renewing the privileges of the rating or certificate for a further specified period consequent upon the fulfilment of specified requirements.
+
+‘Revalidation’ (of, e.g. a rating or certificate) means the administrative action taken within the period of validity of a rating or certificate which allows the holder to continue to exercise the privileges of a rating or certificate for a further specified period consequent upon the fulfilment of specified requirements.
+
+‘RNP APCH’ means a PBN specification used for instrument approach operations.
+
+‘RNP APCH operation down to LNAV minima’ means a 2D instrument approach operation for which the lateral guidance is based on GNSS positioning.
+
+‘RNP APCH operation down to LNAV/VNAV minima’ means a 3D instrument approach operation for which the lateral guidance is based on GNSS positioning and the vertical guidance is provided either by the Baro VNAV function or by the GNSS positioning including SBAS.
+
+‘RNP APCH operation down to LPV minima’ means a 3D instrument approach operation for which both lateral and vertical guidance are based on GNSS positioning including SBAS.
+
+‘RNP AR APCH’ means a navigation specification used for instrument approach operations requiring a specific approval.
+
+‘Route sector’ means a flight comprising take-off, departure, cruise of not less than 15 minutes, arrival, approach and landing phases.
+
+‘Sailplane’ means a heavier-than-air aircraft which is supported in flight by the dynamic reaction of the air against its fixed lifting surfaces, the free flight of which does not depend on an engine.
+
+‘Single-pilot aircraft’:
+
+— for aeroplanes, it means an aircraft certificated for operation by one pilot,
+
+— for helicopters, airships and powered lift aircraft, it means an aircraft which is certificated for operation by one pilot and which is not required to be operated with at least two pilots by Regulation (EU) No 965/2012.
+
+‘Skill test’ means the demonstration of skill for a licence or rating issue, including such oral examination as may be required.
+
+‘Solo flight time’ means flight time during which a student pilot is the sole occupant of an aircraft.
+
+‘Student pilot-in-command’ (SPIC) means a student pilot acting as pilot-in-command on a flight with an instructor where the latter will only observe the student pilot and shall not influence or control the flight of the aircraft.
+
+‘Threat’ means events or errors which occur beyond the influence of the flight crew, increase operational complexity and which must be managed to maintain the margin of safety.
+
+‘Threat management’ means the process of detecting and responding to the threats with countermeasures which reduce or eliminate the consequences of threats, and mitigate the probability of errors or undesired aircraft states.
+
+‘Three-dimensional (3D) instrument approach operation’ means an instrument approach operation using both lateral and vertical navigation guidance.
+
+‘Touring motor glider (TMG)’ means, unless otherwise specified following the certification process in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, a specific class of powered sailplanes that has an integrally mounted, non-retractable engine and a non-retractable propeller. It shall be capable of taking off and climbing under its engine power according to its flight manual.
+
+‘Two-dimensional (2D) instrument approach operation’ means an instrument approach operation using lateral navigation guidance only.
+
+‘Type of aircraft’ means a categorisation of aircraft requiring a type rating as determined in the operational suitability data established in accordance with Part-21, and which include all aircraft of the same basic design including all modifications thereto except those which result in a change in handling or flight characteristics.
+
+‘Type rating and licence endorsement list’ means a list published by the Agency based on the result of the OSD evaluation and containing classes of aeroplanes and types of aircraft for the purpose of flight crew licensing.
+
+‘VNAV’ means Vertical Navigation.
+
+‘Evidence based training (EBT) operator’ means an organisation that is holding an air operator certificate (AOC) in accordance with Annex III (Part-ORO) to Regulation (EU) No 965/2012 and that has implemented an EBT programme approved by the competent authority, in accordance with the provisions of that Regulation.
+
+‘EBT practical assessment’ means a method for assessing performance that serves to verify the integrated performance of competencies. It takes place in either a simulated or an operational environment.
+
+‘EBT programme’ means a pilot assessment and training programme in accordance with point ORO.FC.231 of Annex III (Part-ORO) to Regulation (EU) No 965/2012.
+
+‘Mixed EBT programme’ means an operator’s recurrent training and checking programme provided for in point ORO.FC.230 of Annex III (Part-ORO) to Regulation (EU) No 965/2012, a portion of which is dedicated to the application of EBT but which does not replace proficiency checks provided for in Appendix 9 to this Annex.
+
+**FCL.015 Application and issue, revalidation and renewal of licences, ratings and certificates**
+
+(a) An application for the issue, revalidation or renewal of pilot licences and associated ratings and certificates as well as any amendment thereto shall be submitted to the competent authority in a form and manner established by that authority. The application shall be accompanied by evidence that applicants comply with the requirements for the issue, revalidation or renewal of the licence or certificate as well as associated ratings or endorsements established in this Annex (Part-FCL) and in Annex IV (Part-MED).
+
+(b) Unless otherwise specified in this Annex, any limitation or extension of the privileges granted by a licence, rating or certificate shall be endorsed in the licence or certificate by the competent authority.
+
+(c) A person shall not hold at any time more than one licence per category of aircraft issued in accordance with this Part.
+
+(d) A licence holder shall submit applications in accordance with paragraph (a) to the competent authority designated by the Member State in which his or her licence was issued in accordance with this Annex (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 or with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable.
+
+(e) The holder of a licence that has been issued in accordance with this Annex (Part-FCL) may apply to the competent authority designated by another Member State for a change of competent authority relating to all licences held, as specified in point (d). Holders of an medical certificate issued in accordance with Annex IV (Part-MED) who do not yet hold a pilot licence shall be entitled to make such an application for a change of competent authority relating to all medical records kept by the competent authority.
+
+(f) For the issue of a licence, rating or certificate the applicant shall apply not later than 6 months after having succeeded at the skill test or assessment of competence.
+
+(g) Training completed in aircraft or in FSTDs in accordance with Annex III (Part-ORO) to Regulation (EU) No 965/2012 shall be taken into account for the experience and revalidation requirements established in this Annex (Part-FCL).
+
+**FCL.020 Student pilot**
+
+(a) A student pilot shall not fly solo unless he or she meets the following conditions:
+
+(1) is authorised to do so and supervised by a flight instructor;
+
+(2) prior to receiving the authorisation specified in point (1), has acquired the competence to safely operate the relevant aircraft during the intended solo flight.
+
+(b) Before his or her first solo flight, a student pilot shall be at least 16 years of age.
+
+**FCL.025 Theoretical knowledge examinations for the issue of licences and ratings**
+
+(a) Responsibilities of the applicant
+
+(1) Applicants shall take the entire set of theoretical knowledge examinations for a specific licence or rating under the responsibility of the same Member State’s competent authority.
+
+(2) Applicants shall only take the theoretical knowledge examination when recommended by the declared training organisation (DTO) or the approved training organisation (ATO) responsible for their training, once they have completed the appropriate elements of the training course of theoretical knowledge instruction to a satisfactory standard.
+
+(3) The recommendation by a DTO or an ATO shall be valid for 12 months. If the applicant has failed to attempt at least one theoretical knowledge examination paper within this period of validity, the need for further training shall be determined by the DTO or the ATO, based on the needs of the applicant.
+
+(b) Pass standards
+
+(1) A pass in a theoretical knowledge examination paper will be awarded to an applicant achieving at least 75 % of the marks allocated to that paper. No penalty marking shall be applied.
+
+(2) Unless otherwise determined in this Part, an applicant has successfully completed the required theoretical knowledge examination for the appropriate pilot licence or rating if he or she has passed all the required theoretical knowledge examination papers within a period of 18 months counted from the end of the calendar month when the applicant first attempted an examination.
+
+(3) If an applicant for the ATPL theoretical knowledge examination, or for the issue of a commercial pilot licence (CPL), or an instrument rating (IR) has failed to pass one of the theoretical knowledge examination papers within four attempts, or has failed to pass all papers within either six sittings or within the period mentioned in point (b)(2), he or she shall retake the complete set of theoretical knowledge examination papers.
+
+(4) If applicants for the issue of a light aircraft pilot licence (LAPL), a private pilot licence (PPL), a basic instrument rating (BIR) or a gyroplane pilot licence (GPL) have failed to pass one of the theoretical knowledge examination papers within four attempts or have failed to pass all papers within the period mentioned in point (b)(2), they shall retake the complete set of theoretical knowledge examination papers.
+
+(5) Before retaking the complete set of theoretical knowledge examination papers, applicants shall undertake further training at a DTO or an ATO. The extent and scope of the training needed shall be determined by the DTO or the ATO, based on the needs of the applicants.
+
+(c) Validity period
+
+(1) The successful completion of the theoretical knowledge examinations will be valid:
+
+(i) for the issue of a light aircraft pilot licence, a private pilot licence or a gyroplane pilot licence, for a period of 24 months;
+
+(ii) for the issue of a commercial pilot licence, a multi-crew pilot licence or an instrument rating (IR), for a period of 36 months;
+
+(iii) for the issue of a basic instrument rating (BIR), for an unlimited duration.
+
+The periods in paragraphs (i) and (ii) shall be counted from the day on which the pilots have successfully completed the theoretical knowledge examination, in accordance with paragraph (b)(2).
+
+(2) The completion of the airline transport pilot licence (ATPL) theoretical knowledge examinations will remain valid for the issue of an ATPL for a period of 7 years from the last validity date of:
+
+(i) an IR entered in the licence; or
+
+(ii) in the case of helicopters, a helicopter’s type rating entered in that licence.
+
+**FCL.030 Practical skill test**
+
+(a) Before a skill test for the issue of a licence, rating or certificate is taken, the applicant shall have passed the required theoretical knowledge examination, except in the case of applicants undergoing a course of integrated flying training.
+
+In any case, the theoretical knowledge instruction shall always have been completed before the skill tests are taken.
+
+(b) Except for the issue of an airline transport pilot licence, the applicant for a skill test shall be recommended for the test by the organisation/person responsible for the training, once the training is completed. The training records shall be made available to the examiner.
+
+(c) For the issue of a BIR, the applicant for a skill test must first complete all training modules and be recommended for the skill test by an ATO. His or her training records shall be made available to the examiner, by the ATO.
+
+**FCL.035 Crediting of flight time and theoretical knowledge**
+
+(a) Crediting of flight time
+
+(1) Unless otherwise specified in this Part, flight time to be credited for a licence, rating or certificate shall have been flown in the same category of aircraft for which the licence, rating or certificate is sought.
+
+(2) PIC or under instruction.
+
+(i) An applicant for a licence, rating or certificate shall be credited in full with all solo, dual instruction or PIC flight time towards the total flight time required for the licence, rating or certificate.
+
+(ii) A graduate of an ATP integrated training course is entitled to be credited with up to 50 hours of student pilot-in-command instrument time towards the PIC time required for the issue of the airline transport pilot licence, commercial pilot licence and a multi-engine type or class rating.
+
+(iii) A graduate of a CPL/IR integrated training course is entitled to be credited with up to 50 hours of the student pilot-in-command instrument time towards the PIC time required for the issue of the commercial pilot licence and a multi-engine type or class rating.
+
+(3) Flight time as co-pilot or PICUS. Unless otherwise determined in this Part, the holder of a pilot licence, when acting as co-pilot or PICUS, is entitled to be credited with all of the co-pilot time towards the total flight time required for a higher grade of pilot licence.
+
+(4) All hours flown in aeroplanes or TMGs that are subject to a decision of a Member State taken in accordance with points (a) or (c) of Article 2(8) of Regulation (EU) 2018/1139 or that fall within the scope of Annex I to that Regulation shall be credited in full towards fulfilling the flight time requirements of point FCL.140.A(a)(1) and point FCL.740.A(b)(1)(ii) of this Annex, provided that the following conditions are met:
+
+(i) the aeroplane or TMG concerned is of the same category and class as the Part-FCL aircraft in respect of which the hours flown are to be credited;
+
+(ii) in case of training flights with an instructor, the aeroplane or TMG used is subject to an authorisation specified in point ORA.ATO.135 of Annex VII (Part-ORA) or point DTO.GEN.240 of Annex VIII (Part-DTO).
+
+(5) All hours flown in gyroplanes that fall within the scope of Annex I to Regulation (EU) 2018/1139 and which have a maximum certificated take-off mass of at least 450 kg shall be credited in full towards completing the 12 hours of flight time and 12 take-offs and landings in accordance with point FCL.240.G(a) but shall not be credited towards the requirement in point FCL.240.G(a)(1)(ii).
+
+(b) Crediting of theoretical knowledge
+
+(1) Applicants that have passed the theoretical knowledge examination for an airline transport pilot licence shall be credited towards the requirements for the theoretical knowledge for the light aircraft pilot licence, the private pilot licence, the commercial pilot licence and, except in the case of helicopters, the IR and the BIR in the same category of aircraft.
+
+(2) Applicants that have passed the theoretical knowledge examination for a commercial pilot licence shall be credited towards the requirements for the theoretical knowledge for:
+
+(i) the light aircraft pilot licence in the same category of aircraft;
+
+(ii) the private pilot licence in the same category of aircraft; and
+
+(iii) the subject ‘communications’ for the BIR. This credit shall include the IFR part of the subject ‘communications’ only if that subject was completed in accordance with point FCL.310, as applicable as of 20 December 2019.
+
+(3) Holders of an IR or applicants that have passed the IR theoretical knowledge examination for a category of aircraft shall be credited towards the requirements for the theoretical knowledge instruction and examination for:
+
+(i) the IR in another category of aircraft; and
+
+(ii) the BIR.
+
+(4) Holders of a pilot licence shall be credited towards the requirements for theoretical knowledge instruction and examination for a licence in another category of aircraft in accordance with Appendix 1 to this Part. This credit also applies to applicants for a pilot licence who have already successfully completed the theoretical knowledge examinations for the issue of that licence in another category of aircraft, as long as the theoretical knowledge examination is within the validity period specified in point FCL.025(c).
+
+(5) By way of derogation from paragraph (b)(3), holders of an IR(A) who have completed a competency-based modular IR(A) course shall be fully credited towards the requirements for theoretical knowledge instruction and examination for an IR in another category of aircraft only if they have also passed the theoretical knowledge instruction and examination for the IFR part of the course required in accordance with point FCL.720.A.(a)(2)(ii)(A)  .
+
+(6) When Appendix 1 includes a credit for the subject Communications, all of the following shall apply:
+
+(i) such credit shall only be granted for training and examination for that subject if applicants, during previous theoretical knowledge examinations in accordance with point ARA.FCL.300 of Annex VI, have completed either the subject Communications or both subjects VFR communications and IFR communications;
+
+(ii) applicants who have completed either only the subject VFR communications or only the subject IFR communications shall complete theoretical knowledge instruction in the subject Communications, the duration of which may be reduced based on an assessment of the applicants by the ATO. For applicants who have completed the subject VFR communications, aspects purely related to VFR communication may be reduced. For applicants who have completed the subject IFR communications, aspects purely related to IFR communication may be reduced. In any case, applicants shall complete the theoretical knowledge examination in the subject Communications.
+
+**FCL.040 Exercise of the privileges of licences**
+
+The exercise of the privileges granted by a licence shall be dependent upon the validity of the ratings contained therein, if applicable, and of the medical certificate as appropriate to the privileges exercised.
+
+**FCL.045 Obligation to carry and present documents**
+
+(a) A valid licence and a valid medical certificate shall always be carried by the pilot when exercising the privileges of the licence.
+
+(b) The pilot shall also carry a personal identification document containing his/her photo.
+
+(c) A pilot or a student pilot shall without undue delay present his/her flight time record for inspection upon request by an authorised representative of a competent authority.
+
+(d) A student pilot shall carry on all solo cross-country flights evidence of the authorisation required by point FCL.020(a)(1).
+
+(e) A pilot intending to fly outside Union territory on an aircraft registered in a Member State other than the one that issued the flight crew licence shall carry, in print or in electronic format, the latest issue of the ICAO attachment, which includes a reference to the ICAO registration number of the agreement that recognises the automatic validation of licences, as well as the list of States which are party to this agreement.
+
+**FCL.050 Recording of flight time**
+
+The pilot shall keep a reliable record of the details of all flights flown in a form and manner established by the competent authority.
+
+**FCL.055 Language proficiency**
+
+(a) General. Aeroplane, helicopter, powered-lift aircraft, airship and gyroplane pilots required to use the radio telephone shall not exercise the privileges of their licences and ratings unless they have a language proficiency endorsement on their licence in either in English or the language used for radio communications involved in the flight. The endorsement shall indicate the language, the proficiency level and the validity date, and it shall be obtained in accordance with a procedure established by a competent authority. The minimum acceptable proficiency level is the operational level (Level 4) in accordance with Appendix 2 to this Annex.
+
+(b) The applicant for a language proficiency endorsement shall demonstrate, in accordance with Appendix 2 to this Annex, at least an operational level of language proficiency both in the use of phraseologies and plain language to an assessor certified by a competent authority or a language-testing body approved by a competent authority as applicable. To do so, the applicant shall demonstrate the ability to:
+
+(1) communicate effectively in voice-only and in face-to-face situations;
+
+(2) communicate on common and work-related topics with accuracy and clarity;
+
+(3) use appropriate communicative strategies to exchange messages and to recognise and resolve misunderstandings in a general or work-related context;
+
+(4) handle successfully the linguistic challenges presented by a complication or unexpected turn of events which occurs within the context of a routine work situation or communicative task with which they are otherwise familiar; and
+
+(5) use a dialect or accent which is intelligible to the aeronautical community.
+
+(c) Except for pilots who have demonstrated language proficiency at the expert level (level 6) in accordance with Appendix 2 to this Annex, the language proficiency endorsement shall be re-evaluated every:
+
+(1) 4 years, if the level demonstrated is operational level (level 4); or
+
+(2) 6 years, if the level demonstrated is extended level (level 5).
+
+(d) Specific requirements for holders of an instrument rating (IR). By way of derogation from the paragraphs above, holders of an IR shall have demonstrated the ability to use the English language at the appropriate proficiency level as defined in Appendix 2 to this Annex.
+
+(e) The demonstration of language proficiency and the use of the English language for IR holders shall be done through a method of assessment established by any competent authority.
+
+**FCL.060 Recent experience**
+
+(b) Aeroplanes, helicopters, powered-lift aircraft, airships, VTOL-capable aircraft (VCA) and gyroplanes. A pilot shall not operate an aircraft in commercial air transport or for carrying passengers:
+
+(1) as PIC or co-pilot unless he or she has carried out, in the preceding 90 days, at least 3 take-offs, approaches and landings as a pilot flying in an aircraft of the same type or class or an FFS representing that type or class. The 3 take-offs and landings shall be performed in either multi-pilot or single-pilot operations, depending on the privileges held by the pilot; and
+
+(2) as PIC at night unless he/she:
+
+(i) has carried out in the preceding 90 days at least 1 take-off, approach and landing at night as a pilot flying in an aircraft of the same type or class or an FFS representing that type or class; or
+
+(ii) holds an IR;
+
+(3) as cruise relief co-pilot unless he or she has completed, within the preceding 90 days, either of the following:
+
+(i) at least three sectors as cruise relief co-pilot in the relevant type;
+
+(ii) training the content of which is determined by the operator and that comprises at least three sectors as cruise relief co-pilot in an FSTD representing the relevant type;
+
+(iii) recurrent training in accordance with Subpart FC (ORO.FC) of Annex III (Part-ORO) to Regulation (EU) No 965/2012;
+
+(iv) a proficiency check for cruise relief co-pilots in accordance with Appendix 9.
+
+(4) When a pilot has the privilege to operate more than one type of aeroplane with similar handling and operation characteristics, the 3 take-offs, approaches and landings required in (1) may be performed as defined in the operational suitability data established in accordance with Part-21.
+
+(5) When a pilot has the privilege to operate more than one type of non-complex helicopter with similar handling and operation characteristics, as defined in the operational suitability data established in accordance with Part-21, the 3 take-offs, approaches and landings required in (1) may be performed in just one of the types, provided that the pilot has completed at least 2 hours of flight in each of the types of helicopter, during the preceding 6 months.
+
+(c) Specific requirements for commercial air transport:
+
+(1) In the case of commercial air transport, the 90-day period prescribed in subparagraphs (b)(1) and (2) above may be extended up to a maximum of 120 days, as long as the pilot undertakes line flying under the supervision of a type rating instructor or examiner.
+
+(2) If the pilot does not comply with the requirement in point (1), he or she shall complete a training flight with an instructor qualified in accordance with Subpart J to instruct for that aircraft type. The training flight shall be performed in the aircraft or an FFS of the aircraft type to be used, and shall include at least the requirements described in points (b)(1) and (2) before he or she can exercise his/her privileges.
+
+**FCL.065 Curtailment of privileges of licence holders aged 60 years or more in commercial air transport**
+
+(a) Age 60–64. Aeroplanes and helicopters. The holder of a pilot licence who has attained the age of 60 years shall not act as a pilot of an aircraft engaged in commercial air transport except as a member of a multi-pilot crew. By way of derogation, such holders shall be entitled to act as pilots of an aircraft engaged in single-pilot helicopter emergency medical service operations in accordance with Regulation (EU) No 965/2012, provided that they comply with the applicable requirements specified for that purpose in that Regulation and in Annex IV (Part-MED) to this Regulation.
+
+(b) Age 65. Holders of a pilot licence who has attained the age of 65 years shall not act as a pilot of an aircraft that is engaged in commercial air transport.
+
+**FCL.070 Revocation, suspension and limitation of licences, ratings and certificates**
+
+(a) Licences, ratings and certificates issued in accordance with this Part may be limited, suspended or revoked by the competent authority when the pilot does not comply with the requirements of this Part, Part-Medical or the applicable operational requirements, in accordance with the conditions and procedures laid down in Part-ARA.
+
+(b) When the pilot has his/her licence suspended or revoked, he/she shall immediately return the licence or certificate to the competent authority.
+
+**SUBPART B**
+
+**LIGHT AIRCRAFT PILOT LICENCE — LAPL**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.100 LAPL — Minimum age
+
+Applicants for the LAPL for aeroplanes or helicopters shall be at least 17 years old.
+
+FCL.105 LAPL — Privileges and conditions
+
+(a) General. The privileges of the holder of an LAPL are to act without remuneration as PIC in non-commercial operations on the appropriate aircraft category.
+
+(b) Conditions. Applicants for the LAPL shall have fulfilled the requirements for the relevant aircraft category and, when applicable, for the class or type of aircraft used in the skill test.
+
+FCL.110 LAPL — Crediting for the same aircraft category
+
+(a) Applicants for an LAPL who have held another licence in the same category of aircraft shall be fully credited towards the requirements of the LAPL in that category of aircraft.
+
+(b) Without prejudice to the paragraph above, if the licence has lapsed, the applicant shall have to pass a skill test in accordance with FCL.125 for the issue of an LAPL in the appropriate aircraft category.
+
+FCL.115 LAPL – Training course
+
+(a) Applicants for an LAPL shall complete a training course at a DTO or an ATO. That training course shall include:
+
+(1) theoretical knowledge and flight instruction appropriate to the privileges of the LAPL applied for;
+
+(2) additionally, for the LAPL(H), the mandatory training elements for the relevant helicopter type as defined in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012.
+
+(b) Theoretical knowledge instruction and flight instruction may be completed at a DTO or at an ATO different from the one where applicants have commenced their training.
+
+(c) For the training for the SEP aeroplanes-sea class privilege, the elements of Section B (Specific requirements for the aeroplane category), point 7 (Class ratings — sea), of Appendix 9 shall be considered.
+
+(d) Applicants for an LAPL may receive credits for previous PPL training they have undergone in accordance with Subpart C in the same aircraft category, based on an assessment of the applicant by the ATO or the DTO that is responsible for the LAPL training course. In any case, applicants shall comply with the experience requirements set out in points FCL.110.A(a) or FCL.110.H(a), as applicable.
+
+FCL.120 LAPL — Theoretical knowledge examination
+
+Applicants for an LAPL shall demonstrate a level of theoretical knowledge appropriate to the privileges granted, through examinations on the following:
+
+(a) common subjects:
+
+— Air law,
+
+— Human performance,
+
+— Meteorology,
+
+— Communications, and
+
+— Navigation.
+
+(b) specific subjects concerning the different aircraft categories:
+
+— Principles of flight,
+
+— Operational procedures,
+
+— Flight performance and planning, and
+
+— Aircraft general knowledge.
+
+FCL.125 LAPL — Skill test
+
+(a) Applicants for an LAPL shall demonstrate through the completion of a skill test the ability to perform, as PIC on the appropriate aircraft category, the relevant procedures and manoeuvres with competency appropriate to the privileges granted.
+
+(b) Applicants for the skill test shall have received flight instruction on the same class or type of aircraft to be used for the skill test. The privileges will be restricted to the class or type used for the skill test until further extensions are endorsed on the licence, in accordance with this Subpart.
+
+(c) Pass marks
+
+(1) The skill test shall be divided into different sections, representing all the different phases of flight appropriate to the category of aircraft flown.
+
+(2) Failure in any item of a section will cause the applicant to fail the entire section. If the applicant fails only 1 section, he/she shall repeat only that section. Failure in more than 1 section will cause the applicant to fail the entire test.
+
+(3) When the test needs to be repeated in accordance with (2), failure in any section, including those that have been passed on a previous attempt, will cause the applicant to fail the entire test.
+
+(4) Failure to achieve a pass in all sections of the test in 2 attempts will require further practical training.
+
+**SECTION 2**
+
+**Specific requirements for the LAPL for aeroplanes — LAPL(A)**
+
+FCL.105.A LAPL(A) — Privileges and conditions
+
+(a) Privileges
+
+The privileges of the holder of an LAPL for aeroplanes are to act as PIC on SEP aeroplanes-land (SEP(land)), SEP aeroplanes-sea (SEP(sea)) or TMG with a maximum certified take-off mass of 2 000 kg or less, carrying a maximum of three passengers, such that there are never more than four persons on board the aircraft.
+
+(b) Conditions
+
+(1) Holders of a LAPL(A) shall carry passengers only if they have completed 10 hours of flight time as PIC on aeroplanes or TMG after the issuance of the licence.
+
+(2) Holders of a LAPL(A) who previously held an ATPL(A), an MPL(A), a CPL(A) or a PPL(A), are exempted from the requirements laid down in point (b)(1).
+
+FCL.110.A LAPL(A) — Experience requirements and crediting
+
+(a) Applicants for an LAPL(A) shall have completed at least 30 hours of flight instruction on aeroplanes or TMGs, including at least:
+
+(1) 15 hours of dual flight instruction in the class in which the skill test will be taken;
+
+(2) 6 hours of supervised solo flight time, including at least 3 hours of solo cross-country flight time with at least 1 cross-country flight of at least 150 km (80 NM), during which 1 full stop landing at an aerodrome different from the aerodrome of departure shall be made.
+
+(b) Specific requirements for applicants who hold an SPL issued in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, including privileges to fly TMGs. Applicants for an LAPL(A) who hold an SPL with the privileges to fly TMGs shall have completed at least 21 hours of flight time on TMGs after the endorsement of the TMG privileges and shall comply with the requirements of point FCL.135.A(a) on aeroplanes.
+
+(c) Crediting. Applicants with prior experience as PIC may be credited towards the requirements of point (a) under the following conditions:
+
+(1) the amount of credit shall be decided by the DTO or the ATO where the pilot undergoes the training course, on the basis of a pre-entry flight assessment, but shall in any case:
+
+(i) not exceed the total flight time as PIC;
+
+(ii) not exceed 50 % of the hours required in point (a);
+
+(iii) not include the requirements of point (a)(2);
+
+(2) previous experience as PIC in aircraft that are subject to a decision of a Member State taken in accordance with Article 2(8), points (a) or (c), of Regulation (EU) 2018/1139 or that fall within the scope of Annex I to that Regulation may be considered, provided that the aircraft match the definition of the respective aircraft category under this Annex (Part-FCL).
+
+FCL.135.A LAPL(A) — Extension of privileges to another class or variant of aeroplane
+
+(a) Applicants for an LAPL(A) shall be issued with privileges for the class of aeroplanes or TMGs in which the skill test was taken. In order to extend their privileges to another class, holders of an LAPL(A) shall complete, in that other class, all of the following:
+
+(1) 3 hours of flight instruction, including the following:
+
+(i) 10 dual take-offs and landings;
+
+(ii) 10 supervised solo take-offs and landings;
+
+(2) a skill test to demonstrate an adequate level of practical skill in the new class. During that skill test, the applicant shall also demonstrate to the examiner an adequate level of theoretical knowledge for the other class in the following subjects:
+
+(i) Operational procedures;
+
+(ii) Flight performance and planning;
+
+(iii) Aircraft general knowledge.
+
+(b) In order to extend the privileges to another variant within a class, the pilot shall either undergo differences training or do familiarisation. The differences training shall be entered in the pilot’s logbook or in an equivalent record and shall be signed by the instructor. When extending the privileges for an SEP aeroplane class to a variant with another type of engine referred to in Article 2, point (8c), the differences training shall consist of dual flight instruction and theoretical knowledge instruction which shall include, with regard to that other type of engine and related aircraft systems, at least all of the following subjects:
+
+(1) Operational procedures;
+
+(2) Flight performance and planning;
+
+(3) Aircraft general knowledge.
+
+(c) Applicants for the extension of privileges of the LAPL(A) to TMG who also hold an SPL in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, including the privileges to fly on TMGs, shall receive full credits towards the requirements in paragraph (a).
+
+FCL.140.A LAPL(A) — Recency requirements
+
+(a) Holders of a LAPL(A) shall exercise the privileges of their licence only if in the last 2 years they have met any of the following conditions as pilots of aeroplanes or TMGs:
+
+(1) they have completed at least 12 hours of flight time as PIC or flying dual or solo under the supervision of an instructor, including:
+
+(i) 12 take-offs and landings;
+
+(ii) refresher training of at least 1 hour of total flight time with and to the satisfaction of an instructor who shall select those flight exercises that allow the applicant to refresh their competence in safely operating the aircraft and applying normal, abnormal and emergency procedures;
+
+(2) they have passed a LAPL(A) proficiency check with an examiner. The proficiency check programme shall be based on the skill test for the LAPL(A);
+
+(b) If holders of a LAPL(A) hold both a SEP(land) and a SEP(sea) privilege, they may comply with the requirements in point (a)(1) in either class or a combination thereof which shall be valid for both privileges. For this purpose, at least 1 hour of the required flight time and 6 out of the required 12 take-offs and landings shall be completed in each class.
+
+(c) Holders of an LAPL(A) with privileges for SEP aeroplanes who, in accordance with point FCL.135.A(b), have extended their privileges to a variant with a different type of engine referred to in Article 2, point (8c), if they have not flown that variant within the preceding 2 years, shall complete any of the following in that variant, before exercising their privileges in that variant:
+
+(1) further differences training in accordance with point FCL.135.A(b);
+
+(2) a proficiency check;
+
+(3) refresher training in accordance with point FCL.140.A(a)(1)(ii).
+
+(d) The dual flights, flights under supervision referred to in the introductory phrase of point (a)(1), the refresher training referred to in point (a)(1)(ii) and point (c)(3) and the proficiency check referred to in point (a)(2) and point (c)(2) shall be entered in the pilot’s logbook or equivalent record and shall be signed by the instructor or examiner, as applicable.
+
+**SECTION 3**
+
+**Specific requirements for the LAPL for helicopters — LAPL(H)**
+
+FCL.105.H LAPL(H) — Privileges
+
+The privileges of the holder of an LAPL for helicopters are to act as PIC on single-engine helicopters with a maximum certificated take-off mass of 2 000 kg or less, carrying a maximum of 3 passengers, such that there are never more than 4 persons on board.
+
+FCL.110.H LAPL(H) — Experience requirements and crediting
+
+(a) Applicants for the LAPL(H) shall have completed 40 hours of flight instruction on helicopters. At least 35 hours of which shall be flown on the type of helicopter that is to be used for the skill test. The flight instruction shall include at least:
+
+(1) 20 hours of dual flight instruction; and
+
+(2) 10 hours of supervised solo flight time, including at least 5 hours of solo cross-country flight time with at least 1 cross-country flight of at least 150 km (80 NM), during which one full stop landing at an aerodrome different from the aerodrome of departure shall be made.
+
+(b) Crediting. Applicants with prior experience as PIC may be credited towards the requirements of point (a) under the following conditions:
+
+(1) the amount of credit shall be decided by the DTO or the ATO where the pilot undergoes the training course, on the basis of a pre-entry flight assessment, but shall in any case:
+
+(i) not exceed the total flight time as PIC;
+
+(ii) not exceed 50 % of the hours required in point (a);
+
+(iii) not include the requirements of point (a)(2);
+
+(2) previous experience as PIC in aircraft that are subject to a decision of a Member State taken in accordance with Article 2(8), point (b), of Regulation (EU) 2018/1139 or that fall within the scope of Annex I to that Regulation may be considered, provided that the aircraft match the definition of the helicopter category under this Annex (Part-FCL).
+
+FCL.135.H LAPL(H) — Extension of privileges to another type or variant of helicopter
+
+(a) Applicants for an LAPL(H) shall be issued with privileges for the specific type of helicopter in which the skill test was taken. In order to extend their privileges to another type of helicopter, holders of an LAPL(H) shall complete, in that other type, all of the following:
+
+(1) unless otherwise specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, at least 5 hours of flight instruction, including:
+
+(i) 15 dual take-offs, approaches and landings;
+
+(ii) 15 supervised solo take-offs, approaches and landings;
+
+(2) a skill test to demonstrate an adequate level of practical skill in the new type. During that skill test, the applicant shall also demonstrate to the examiner an adequate level of theoretical knowledge for the other type in the following subjects:
+
+(i) Operational procedures,
+
+(ii) Flight performance and planning,
+
+(iii) Aircraft general knowledge.
+
+(b) Before the holder of an LAPL(H) can exercise the privileges of the licence in another variant of helicopter than the one used for the skill test, the pilot shall undergo differences training or do familiarisation, as determined in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012. The differences training shall be entered in the pilot’s logbook or equivalent record and shall be signed by the instructor.
+
+FCL.140.H LAPL(H) – Recency requirements
+
+(a) Holders of an LAPL(H) shall exercise the privileges of their licence on a specific type only if in the last 12 months they have, in the relevant type, taken one of the following steps:
+
+(1) completed both of the following:
+
+(i) at least 6 hours of flight time on helicopters of that type as PIC, or flying dual or solo under the supervision of an instructor, including six take-offs, approaches and landings;
+
+(ii) a refresher training of at least 1 hour of total flight time with and to the satisfaction of an instructor who shall select those flight exercises that allow the applicant to refresh their competence in safely operating the aircraft and applying normal, abnormal and emergency procedures;
+
+(2) passed a proficiency check with an examiner on the specific type before resuming the exercise of the privileges of their licence. That proficiency check programme shall be based on the skill test for the LAPL(H).
+
+(b) Applicants may choose to complete the refresher training referred to in point (a)(1)(ii) in the aircraft or an FSTD representing the relevant type, or in a combination of both.
+
+(c) The dual flights, flights under supervision referred to in point (a)(1)(i), the refresher training referred to in point (a)(1)(ii) and the proficiency check referred to in point (a)(2) shall be entered in the pilot’s logbook or equivalent record and shall be signed by the instructor or examiner, as applicable.
+
+**SUBPART C**
+
+**PRIVATE PILOT LICENCE (PPL) AND GYROPLANE PILOT LICENCE (GPL)**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.200 Minimum age
+
+Applicants for a PPL or a GPL shall be at least 17 years old.
+
+FCL.205 Conditions
+
+(a) Applicants for the issue of a PPL shall have fulfilled the requirements for the class or type rating for the aircraft used in the skill test, as established in Subpart H.
+
+(b) Applicants for the issue of a GPL shall have fulfilled the requirements for the class or type of aircraft used in the skill test.
+
+FCL.210 Training course
+
+(a) Applicants for a PPL or a GPL shall complete a training course at an ATO or a DTO.
+
+(b) The course shall include theoretical knowledge and flight instruction appropriate to the privileges of the PPL or GPL applied for.
+
+(c) Theoretical knowledge instruction and flight instruction may be completed at a DTO or at an ATO different from the one where applicants have commenced their training.
+
+FCL.215 Theoretical knowledge examination
+
+Applicants for a PPL or a GPL shall demonstrate a level of theoretical knowledge appropriate to the privileges granted through examinations in the following subjects:
+
+(a) common subjects:
+
+— Air law,
+
+— Human performance,
+
+— Meteorology,
+
+— Communications; and
+
+— Navigation.
+
+(b) specific subjects concerning the different aircraft categories:
+
+— Principles of flight,
+
+— Operational procedures,
+
+— Flight performance and planning, and
+
+— Aircraft general knowledge.
+
+FCL.235 Skill test
+
+(a) Through the completion of a skill test, applicants for a PPL or a GPL shall demonstrate the ability to perform as PIC on the appropriate aircraft category the relevant procedures and manoeuvres with the competency appropriate to the privileges granted.
+
+(b) Applicants for the skill test shall have received flight instruction on the same class or type of aircraft to be used for the skill test.
+
+(c) Pass marks
+
+(1) The skill test shall be divided into different sections, representing all the different phases of flight appropriate to the category of aircraft flown.
+
+(2) Failure in any item of a section will cause the applicant to fail the entire section. If the applicant fails only 1 section, he/she shall repeat only that section. Failure in more than 1 section will cause the applicant to fail the entire test.
+
+(3) When the test needs to be repeated in accordance with (2), failure in any section, including those that have been passed on a previous attempt, will cause the applicant to fail the entire test.
+
+(4) Failure to achieve a pass in all sections of the test in 2 attempts will require further training.
+
+**SECTION 2**
+
+**Specific requirements for the PPL aeroplanes — PPL(A)**
+
+FCL.205.A PPL(A) — Privileges
+
+(a) The privileges of the holders of a PPL(A) are to act without remuneration as PIC or co-pilots of aeroplanes or TMGs engaged in non-commercial operations and to exercise all privileges of holders of an LAPL(A).
+
+(b) Notwithstanding the paragraph above, the holder of a PPL(A) with instructor or examiner privileges may receive remuneration for:
+
+(1) the provision of flight instruction for the LAPL(A) or PPL(A);
+
+(2) the conduct of skill tests and proficiency checks for the licences specified in point (1);
+
+(3) the training, testing and checking for the ratings or certificates associated with the instructor’s or examiner’s licence, as applicable.
+
+FCL.210.A PPL(A) — Experience requirements and crediting
+
+(a) Applicants for a PPL(A) shall have completed at least 45 hours of flight instruction in aeroplanes or TMGs, of which 5 hours may have been completed in an FSTD, including at least the following:
+
+(1) 25 hours of dual flight instruction;
+
+(2) 10 hours of supervised solo flight time, including at least 5 hours of solo cross-country flight time with at least one cross-country flight of at least 270 km (150 NM), during which full-stop landings at two aerodromes different from the aerodrome of departure shall be made.
+
+Applicants may complete the flight time of a night rating training course in accordance with point FCL.810(a)(1)(ii) as part of the 45 hours of flight instruction, provided that, before commencing night rating training, they have completed basic instrument flight training.
+
+(b) Specific requirements for applicants that have undergone LAPL(A) training. Applicants for a PPL(A) shall receive credits for previous LAPL(A) training they have undergone and shall be issued with a PPL(A), provided that the LAPL(A) training and the PPL(A) training that they completed in total complies with the experience requirements in point (a). However, in such a case all of the following shall apply:
+
+(1) if applicants already hold an LAPL(A), all of the following shall apply, provided that applicants have completed at least 45 hours of total flight time in aeroplanes or TMGs:
+
+(i) the requirement in the introductory sentence of point (a) is reduced to 40 hours of flight instruction;
+
+(ii) the requirement in point (a)(1) is reduced to 21 hours of dual flight instruction;
+
+(2) applicants shall have completed at least all of the following with an instructor that is qualified to instruct for a PPL(A):
+
+(i) 5 hours of dual flight instruction;
+
+(ii) solo flight time as specified in point (a)(2).
+
+(c) Specific requirements for applicants who hold an SPL issued in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, including privileges to fly TMGs. Applicants for a PPL(A) who hold an SPL with the privileges to fly TMGs shall have completed:
+
+(1) at least 24 hours of flight time on TMGs after endorsement of the TMG privileges; and
+
+(2) at least 15 hours of flight instruction in aeroplanes in a training course at a DTO or at an ATO, including at least the requirements of point (a)(2).
+
+(d) Crediting. Applicants holding a pilot licence for another category of aircraft, with the exception of balloons, shall be credited with 10 % of their total flight time as PIC on such aircraft up to a maximum of 10 hours. The amount of credit given shall in any case not include the requirements in (a)(2).
+
+**SECTION 3**
+
+**Specific requirements for the PPL helicopters — PPL(H)**
+
+FCL.205.H PPL(H) — Privileges
+
+(a) The privileges of the holder of a PPL(H) are to act without remuneration as PIC or co-pilot of helicopters engaged in non-commercial operations and to exercise all privileges of holders of an LAPL(H).
+
+(b) Notwithstanding the paragraph above, the holder of a PPL(H) with instructor or examiner privileges may receive remuneration for:
+
+(1) the provision of flight instruction for the LAPL(H) or the PPL(H);
+
+(2) the conduct of skill tests and proficiency checks for the licences specified in point (1);
+
+(3) the training, testing and checking for the ratings or certificates associated with the instructor’s or examiner’s licence, as applicable.
+
+FCL.210.H PPL(H) — Experience requirements and crediting
+
+(a) Applicants for a PPL(H) shall have completed at least 45 hours of flight instruction on helicopters, of which 5 hours may have been completed in an FSTD, including at least:
+
+(1) 25 hours of dual flight instruction; and
+
+(2) 10 hours of supervised solo flight time, including at least 5 hours of solo cross-country flight time with at least 1 cross-country flight of at least 185 km (100 NM), with full stop landings at 2 aerodromes different from the aerodrome of departure.
+
+(3) 35 of the 45 hours of flight instruction have to be completed on the same type of helicopter as the one used for the skill test.
+
+(b) Specific requirements for applicants that have undergone LAPL(H) training. Applicants for a PPL(H) shall receive credits for previous LAPL(H) training they have undergone and shall be issued with a PPL(H), provided that the LAPL(H) training and the PPL(H) training that they completed in total complies with the experience requirements in point (a).
+
+(c) Applicants holding a pilot licence for another category of aircraft, with the exception of balloons, shall be credited with 10 % of their total flight time as PIC on such aircraft up to a maximum of 6 hours. The amount of credit given shall in any case not include the requirements in (a)(2).
+
+**SECTION 4**
+
+**Specific requirements for the PPL airships — PPL(As)**
+
+FCL.205.As PPL(As) — Privileges
+
+(a) The privileges of the holder of a PPL(As) are to act without remuneration as PIC or co-pilot on airships engaged in non-commercial operations.
+
+(b) Notwithstanding the paragraph above, the holder of a PPL(As) with instructor or examiner privileges may receive remuneration for:
+
+(1) the provision of flight instruction for the PPL(As);
+
+(2) the conduct of skill tests and proficiency checks for the licence specified in point (1);
+
+(3) the training, testing and checking for the ratings or certificates associated with the instructor’s or examiner’s licence, as applicable.
+
+FCL.210.As PPL(As) — Experience requirements and crediting
+
+(a) Applicants for a PPL(As) shall have completed at least 35 hours of flight instruction in airships, 5 of which may have been completed in an FSTD, including at least:
+
+(1) 25 hours of dual flight instruction, including:
+
+(i) 3 hours of cross-country flight training, including 1 cross-country flight of at least 65 km (35 NM);
+
+(ii) 3 hours of instrument instruction;
+
+(2) 8 take-offs and landings at an aerodrome, including masting and unmasting procedures;
+
+(3) 8 hours of supervised solo flight time.
+
+(b) Applicants who hold a BPL issued in accordance with Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and are qualified to fly hot-air airships shall be credited with 10 % of their total flight time as PIC on such airships and up to a maximum of 5 hours.
+
+**SECTION 5**
+
+**Specific requirements for the GPL**
+
+FCL.205.G GPL – Privileges
+
+(a) The privileges of the holder of a GPL are to act as PIC in gyroplanes:
+
+(1) without remuneration in non-commercial operations;
+
+(2) performing the carriage of passengers only when they have completed 10 hours of flight time as PIC on gyroplanes after the issuance of the licence.
+
+(b) Notwithstanding point (a)(1) above, the holder of a GPL with instructor or examiner privileges may receive remuneration for:
+
+(1) the provision of flight instruction for the GPL;
+
+(2) the conduct of skill tests and proficiency checks for the GPL;
+
+(3) the training, testing and checking for the ratings and privileges associated with the instructor’s or examiner’s licence, as applicable.
+
+(c) GPL holders shall exercise GPL privileges only if they comply with the applicable recency requirements and only if their medical certificate, appropriate to the privileges exercised, is valid.
+
+FCL.210.G GPL – Experience requirements and crediting
+
+(a) An applicant for a GPL shall have completed at least 35 hours of flight instruction in gyroplanes, 5 of which may have been completed in an FSTD, including at least:
+
+(1) 20 hours of dual flight instruction; and
+
+(2) 8 hours of supervised solo flight time, including at least 4 hours of solo cross-country flight time with at least one cross-country flight of at least 150 km (80 NM), during which full-stop landings at two aerodromes different from the aerodrome of departure shall be made.
+
+(b) Crediting. An applicant that holds a pilot licence for another category of aircraft, with the exception of balloons, shall be credited with 10 % of their total flight time as PIC on such aircraft up to a maximum of 10 hours. In any case, credits shall not be given for the requirements of point (a)(2).
+
+(c) Applicants with prior experience as PIC on gyroplanes, that have a maximum take-off mass of at least 450 kg, may receive credits towards the requirements of point (a). The amount of credit shall be decided by the DTO or the ATO where the applicant undergoes the training course, on the basis of a pre-entry flight assessment, but shall in any case not exceed any of the following:
+
+(1) the total flight time as PIC;
+
+(2) 50 % of the hours required in point (a).
+
+In any case, credits shall not be given for the requirements of point (a)(2).
+
+FCL.235.G GPL – Privileges for classes, types and variants of gyroplanes
+
+(a) For the purpose of gyroplane pilot licensing in accordance with this Annex, gyroplanes shall be categorised into the following class and types:
+
+(1) single-propeller gyroplane (SPG) class: Single-pilot gyroplanes whose single-centric propulsion unit is operated by a single thrust control and driven by either of the following types of engines:
+
+(a) a piston engine system which, if so specified following the certification process in accordance with Regulation (EU) No 748/2012, may consist of more than one piston engine;
+
+(b) an electric engine system which, if so specified following the certification process in accordance with Regulation (EU) No 748/2012, may consist of more than one electric engine;
+
+(c) if so specified following the certification process in accordance with Regulation (EU) No 748/2012, a hybrid engine system consisting of piston and electric engines;
+
+(2) gyroplane types that require privileges for that individual type, as determined following the certification process in accordance with Regulation (EU) No 748/2012.
+
+(b) Applicants for a GPL shall be issued with privileges for the class or type of gyroplanes in which the skill test was taken. In order to extend their privileges to another class or type, holders of a GPL shall complete, in that other class or type, all of the following:
+
+(1) unless specified otherwise in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, where applicable, 3 hours of flight instruction, including:
+
+(i) 10 dual take-offs and landings; and
+
+(ii) 10 supervised solo take-offs and landings;
+
+(2) a skill test to demonstrate an adequate level of practical skill in the new class or type. During this skill test, the applicant shall also demonstrate to the examiner an adequate level of theoretical knowledge for the other class or type in the following subjects:
+
+(i) operational procedures;
+
+(ii) flight performance and planning;
+
+(iii) aircraft general knowledge.
+
+(c) In order to extend the privileges to another variant within a class or type, the pilot shall complete differences training or familiarisation. Where applicable, that differences training or familiarisation shall comply with the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012. The differences training shall be entered in the pilot’s logbook or into an equivalent record and be signed by the instructor. When extending the privileges for an SPG class to a variant with another type of engine, as specified in point (a)(1), the differences training shall consist of dual flight instruction and theoretical knowledge instruction which shall include, with regard to that other type of engine and related aircraft systems, at least all of the following:
+
+(1) operational procedures;
+
+(2) flight performance and planning;
+
+(3) aircraft general knowledge.
+
+FCL.240.G GPL – Recency requirements
+
+(a) Holders of a GPL shall exercise the privileges of their licence in a specific class or type of gyroplane only if in the last 2 years they have met any of the following conditions as pilots of gyroplanes in the relevant class or type:
+
+(1) they have completed at least 12 hours of flight time as PIC or flying dual or solo under the supervision of an instructor, including:
+
+(i) 12 take-offs and landings;
+
+(ii) refresher training of at least 1 hour of total flight time with and to the satisfaction of an instructor who shall select those flight exercises that allow the applicant to refresh their competence in safely operating the aircraft and applying normal, abnormal and emergency procedures;
+
+(2) they have passed a GPL proficiency check with an examiner. The proficiency check programme shall be based on the skill test for the GPL.
+
+(b) Holders of a GPL with privileges for the SPG class who, in accordance with point FCL.235.G(c), have extended their privileges to a variant with a different type of engine as specified in point FCL.235.G(a) shall, if they have not flown that variant within the preceding 2 years, complete any of the following in that variant, before exercising their privileges in that variant:
+
+(1) further differences training in accordance with point FCL.235.G(c);
+
+(2) a proficiency check;
+
+(3) refresher training in accordance with point (a)(1)(ii).
+
+(c) The dual flights and the solo flights under supervision as per the introductory phrase of point (a)(1), the refresher training as per points (a)(1)(ii) and (b)(3), and the proficiency check as per point (a)(2) and (b)(2) shall be entered in the pilot’s logbook or equivalent record and shall be signed by the instructor or examiner, as applicable.
+
+**SUBPART D**
+
+**COMMERCIAL PILOT LICENCE — CPL**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.300 CPL — Minimum age
+
+An applicant for a CPL shall be at least 18 years of age.
+
+FCL.305 CPL — Privileges and conditions
+
+(a) Privileges. The privileges of the holder of a CPL are, within the appropriate aircraft category, to:
+
+(1) exercise all the privileges of the holder of an LAPL and a PPL;
+
+(2) act as PIC or co-pilot of any aircraft engaged in operations other than commercial air transport;
+
+(3) act as PIC in commercial air transport of any single-pilot aircraft subject to the restrictions specified in FCL.060 and in this Subpart;
+
+(4) act as co-pilot in commercial air transport subject to the restrictions specified in FCL.060.
+
+(b) Conditions. An applicant for the issue of a CPL shall have fulfilled the requirements for the class or type rating of the aircraft used in the skill test.
+
+FCL.310 CPL — Theoretical knowledge examinations
+
+Applicants for the issue of a CPL shall demonstrate a level of knowledge appropriate to the privileges granted in the following subjects:
+
+(a) air law;
+
+(b) aircraft general knowledge — airframe/systems/power plant;
+
+(c) aircraft general knowledge — instrumentation;
+
+(d) mass and balance;
+
+(e) performance;
+
+(f) flight planning and monitoring;
+
+(g) human performance;
+
+(h) meteorology;
+
+(i) general navigation;
+
+(j) radio navigation;
+
+(k) operational procedures;
+
+(l) principles of flight; and
+
+(m) communications.
+
+FCL.315 CPL — Training course
+
+An applicant for a CPL shall have completed theoretical knowledge instruction and flight instruction at an ATO, in accordance with Appendix 3 to this Part.
+
+FCL.320 CPL — Skill test
+
+An applicant for a CPL shall pass a skill test in accordance with Appendix 4 to this Part to demonstrate the ability to perform, as PIC of the appropriate aircraft category, the relevant procedures and manoeuvres with the competency appropriate to the privileges granted.
+
+**SECTION 2**
+
+**Specific requirements for the aeroplane category — CPL(A)**
+
+FCL.315.A CPL — Training course
+
+Theoretical knowledge and flight instruction for the issue of a CPL(A) shall include upset prevention and recovery training.
+
+FCL.325.A CPL(A) – Specific requirements for applicants who hold an MPL
+
+(a) Applicants for a CPL(A) who hold an MPL shall have completed in aeroplanes:
+
+(1) 70 hours of flight time in one of the following ways:
+
+(i) as PIC;
+
+(ii) made up of at least 10 hours as PIC and the additional flight time as PIC under supervision (PICUS).
+
+Of those 70 hours, 20 hours shall be of VFR cross-country flight time as PIC, or cross-country flight time made up of at least 10 hours as PIC and 10 hours as PICUS. That shall include a VFR cross-country flight of at least 540 km (300 NM) in the course of which full-stop landings at two different aerodromes shall be flown as PIC;
+
+(2) the elements of the CPL(A) modular course as specified in Chapter E, point 10(a) and point 11, of Appendix 3;
+
+(3) the CPL(A) skill test, in accordance with point FCL.320.
+
+(b) When being issued with a CPL in accordance with point (a), applicants shall be subject to the following conditions:
+
+(1) comply with the requirements of point FCL.405.A(c) in order to have the privileges of their IR(A) extended to single-pilot operations in aeroplanes;
+
+(2) have the privileges of their type ratings restricted to exercise the privileges of a co-pilot only. That restriction shall be removed when applicants complete a proficiency check for the relevant type in accordance with Appendix 9 in the role of the PIC.
+
+**SUBPART E**
+
+**MULTI-CREW PILOT LICENCE — MPL**
+
+**FCL.400.A MPL — Minimum age**
+
+An applicant for an MPL shall be at least 18 years of age.
+
+**FCL.405.A MPL — Privileges**
+
+(a) The privileges of the holder of an MPL are to act as co-pilot in an aeroplane required to be operated with a co-pilot.
+
+(b) Holders of an MPL shall, upon application:
+
+(1) be issued with additional privileges of the holder of a PPL(A), provided that they comply with the requirements for the PPL(A) specified in Subpart C;
+
+(2) have their MPL replaced by a CPL(A), provided that they comply with the requirements specified in point FCL.325.A.
+
+(c) The holder of an MPL shall have the privileges of his/her IR(A) limited to aeroplanes required to be operated with a co-pilot. The privileges of the IR(A) may be extended to single-pilot operations in aeroplanes, provided that the licence holder has completed the training necessary to act as PIC in single-pilot operations exercised solely by reference to instruments and passed the skill test of the IR(A) as a single-pilot.
+
+**FCL.410.A MPL – Training course and theoretical knowledge examinations**
+
+(a) Course
+
+Applicants for the issue of an MPL shall have completed a training course of theoretical knowledge and flight instruction at an ATO in accordance with Appendix 5 to this Annex (Part-FCL).
+
+(b) Examination
+
+Applicants for the issue of an MPL shall demonstrate a level of theoretical knowledge appropriate to the holders of an ATPL(A), in accordance with FCL.515, and to a multi-pilot type rating.
+
+**FCL.415.A MPL — Practical skill**
+
+(a) An applicant for an MPL shall have demonstrated through continuous assessment the skills required for fulfilling all the competency units specified in Appendix 5 to this Part, as pilot flying and pilot not flying, in a multi-engine turbine-powered multi-pilot aeroplane, under VFR and IFR.
+
+(b) On completion of the training course, the applicant shall pass a skill test in accordance with Appendix 9 to this Part, to demonstrate the ability to perform the relevant procedures and manoeuvres with the competency appropriate to the privileges granted. The skill test shall be taken in the type of aeroplane used on the advanced phase of the MPL integrated training course or in an FFS representing the same type.
+
+**SUBPART F**
+
+**AIRLINE TRANSPORT PILOT LICENCE — ATPL**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.500 ATPL — Minimum age
+
+Applicants for an ATPL shall be at least 21 years of age.
+
+FCL.505 ATPL — Privileges
+
+(a) The privileges of the holder of an ATPL are, within the appropriate aircraft category, to:
+
+(1) exercise all the privileges of the holder of an LAPL, a PPL and a CPL;
+
+(2) act as PIC of aircraft engaged in commercial air transport.
+
+(b) Applicants for the issue of an ATPL shall have fulfilled the requirements for the type rating of the aircraft used in the skill test.
+
+FCL.515 ATPL — Training course and theoretical knowledge examinations
+
+(a) Course
+
+Applicants for an ATPL shall have completed a training course at an ATO. The course shall be either an integrated training course or a modular course, in accordance with Appendix 3 to this Annex (Part-FCL).
+
+(b) Examination
+
+Applicants for the issue of an ATPL shall demonstrate a level of knowledge appropriate to the privileges granted in the following subjects:
+
+(1) air law;
+
+(2) aircraft general knowledge — airframe/systems/power plant;
+
+(3) aircraft general knowledge — instrumentation;
+
+(4) mass and balance;
+
+(5) performance;
+
+(6) flight planning and monitoring;
+
+(7) human performance;
+
+(8) meteorology;
+
+(9) general navigation;
+
+(10) radio navigation;
+
+(11) operational procedures;
+
+(12) principles of flight; and
+
+(13) communications.
+
+**SECTION 2**
+
+**Specific requirements for the aeroplane category — ATPL(A)**
+
+FCL.505.A ATPL(A) — Restriction of privileges for pilots previously holding an MPL
+
+When the holder of an ATPL(A) has previously held only an MPL, the privileges of the licence shall be restricted to multi-pilot operations, unless the holder has complied with FCL.405.A(b)(2) and (c) for single-pilot operations.
+
+FCL.510.A ATPL(A) — Prerequisites, experience and crediting
+
+(a) Prerequisites. Applicants for an ATPL(A) shall hold:
+
+(1) an MPL; or
+
+(2) a CPL(A) and a multi-engine IR for aeroplanes. In this case, the applicant shall also have received instruction in MCC.
+
+(b) Experience. Applicants for an ATPL(A) shall have completed a minimum of 1 500 hours of flight time in aeroplanes, including at least:
+
+(1) 500 hours in multi-pilot operations on aeroplanes;
+
+(2)
+
+(i) 500 hours as PIC under supervision; or
+
+(ii) 250 hours as PIC; or
+
+(iii) 250 hours, including at least 70 hours as PIC, and the remaining as PIC under supervision;
+
+(3) 200 hours of cross-country flight time of which at least 100 hours shall be as PIC or as PIC under supervision;
+
+(4) 75 hours of instrument time of which not more than 30 hours may be instrument ground time; and
+
+(5) 100 hours of night flight as PIC or co-pilot.
+
+Of the 1 500 hours of flight time, up to 100 hours of flight time may have been completed in an FFS and FNPT. Of these 100 hours, only a maximum of 25 hours may be completed in an FNPT.
+
+(c) Crediting.
+
+(1) Holders of a pilot licence for other categories of aircraft shall be credited with flight time up to a maximum of:
+
+(i) for TMG or sailplanes, 30 hours flown as PIC;
+
+(ii) for helicopters, 50 % of all the flight time requirements of paragraph (b).
+
+(2) Holders of a flight engineer licence issued in accordance with applicable national rules shall be credited with 50 % of the flight engineer time up to a maximum credit of 250 hours. These 250 hours may be credited against the 1 500 hours requirement of paragraph (b), and the 500 hours requirement of paragraph (b)(1), provided that the total credit given against any of these paragraphs does not exceed 250 hours.
+
+(3) Holders of a restricted type rating issued in accordance with point FCL.720.A(c) shall receive credits for their flight time completed while exercising the privileges of that type rating up to a maximum of 250 hours.
+
+(d) The experience required in (b) shall be completed before the skill test for the ATPL(A) is taken.
+
+FCL.520.A ATPL(A) — Skill test
+
+Applicants for an ATPL(A) shall pass a skill test in accordance with Appendix 9 to this Part to demonstrate the ability to perform, as PIC of a multi-pilot aeroplane under IFR, the relevant procedures and manoeuvres with the competency appropriate to the privileges granted.
+
+The skill test shall be taken in the aeroplane or an adequately qualified FFS representing the same type.
+
+**SECTION 3**
+
+**Specific requirements for the helicopter category — ATPL(H)**
+
+FCL.510.H ATPL(H) – Prerequisites, experience and crediting
+
+Applicants for an ATPL(H) shall:
+
+(a) hold a CPL(H);
+
+(b) have received instruction in MCC in accordance with point FCL.735.H;
+
+(c) have completed as a pilot of helicopters a minimum of 1 000 hours of flight time including at least:
+
+(1) 350 hours in multi-pilot operations in helicopters;
+
+(2)
+
+(i) 250 hours as PIC; or
+
+(ii) 100 hours as PIC and 150 hours as PIC under supervision; or
+
+(iii) 250 hours as PIC under supervision in multi-pilot helicopters. In this case, the ATPL(H) privileges shall be limited to multi-pilot operations only, until 100 hours as PIC have been completed;
+
+(3) 200 hours of cross-country flight time of which at least 100 hours shall be as PIC or as PIC under supervision;
+
+(4) 30 hours of instrument time of which not more than 10 hours may be instrument ground time; and
+
+(5) 100 hours of night flight as PIC or as co-pilot.
+
+Of the 1 000 hours, a maximum of 100 hours may have been completed in an FSTD, of which not more than 25 hours may be completed in an FNPT;
+
+(d) flight time in aeroplanes shall be credited up to 50 % against the flight time requirements of point (c);
+
+(e) the experience required in point (c) shall be completed before the skill test for the ATPL(H) is taken;
+
+(f) applicants for an ATPL(H) shall receive a full credit for the requirement in point (b) when they comply with point FCL.720.H(a)(2)(ii) and, additionally, have received training at an ATO to meet the necessary standard for the successful completion of the course as per point FCL.735.H.
+
+FCL.520.H ATPL(H) — Skill test
+
+Applicants for an ATPL(H) shall pass a skill test in accordance with Appendix 9 to this Part to demonstrate the ability to perform as PIC of a multi-pilot helicopter the relevant procedures and manoeuvres with the competency appropriate to the privileges granted.
+
+The skill test shall be taken in the helicopter or an adequately qualified FFS representing the same type.
+
+**SUBPART G**
+
+**INSTRUMENT RATING — IR**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.600 IR — General
+
+Except as provided in point FCL.835, operations under IFR on an aeroplane, helicopter, airship or powered-lift aircraft shall be conducted only by holders of a PPL, CPL, MPL and ATPL with an IR appropriate to the category of aircraft or, if an IR appropriate to the category of aircraft is not available, only while undergoing skill testing or dual instruction.
+
+FCL.605 IR – Privileges and conditions
+
+(a) Privileges
+
+The privileges of holders of an IR are to fly aircraft under IFR, including PBN operations, with a minimum decision height of:
+
+(1) no less than 200 ft (60 m);
+
+(2) less than 200 ft (60 m), provided that they are authorised to do so in accordance with Annex V (Part-SPA) to Regulation (EU) No 965/2012.
+
+(b) Conditions
+
+(1) Holders of an IR shall exercise their privileges in accordance with the conditions established in Appendix 8 to this Annex.
+
+(2) To exercise privileges as PIC under IFR in multi-pilot operation in helicopters, holders of an IR(H) shall have at least 70 hours of instrument time, of which up to 30 hours may be instrument ground time.
+
+FCL.610 IR — Prerequisites and crediting
+
+Applicants for an IR shall:
+
+(a) hold:
+
+(1) at least a PPL in the appropriate aircraft category, and:
+
+(i) the privileges to fly at night in accordance with FCL.810, if the IR privileges will be used at night; or
+
+(ii) an ATPL in another category of aircraft; or
+
+(2) a CPL, in the appropriate aircraft category;
+
+(b) have completed at least 50 hours of cross-country flight time as PIC in aeroplanes, TMGs, helicopters or airships, of which at least 10 or, in the case of airships, 20 hours shall be in the relevant aircraft category;
+
+(c) Helicopters only. Applicants who have completed an ATP(H)/IR, ATP(H), CPL(H)/IR or CPL(H) integrated training course shall be exempted from the requirement in (b).
+
+FCL.615 IR — Theoretical knowledge and flight instruction
+
+(a) Course
+
+Applicants for an IR shall have completed a course of theoretical knowledge and flight instruction at an ATO. The course shall be:
+
+(1) an integrated training course which includes training for the IR, in accordance with Appendix 3 to this Annex (Part-FCL); or
+
+(2) a modular course in accordance with Appendix 6 to this Annex (Part-FCL).
+
+(b) Examination
+
+Applicants shall demonstrate a level of theoretical knowledge appropriate to the privileges granted in the following subjects:
+
+(1) air law;
+
+(2) aircraft general knowledge — instrumentation;
+
+(3) flight planning and monitoring;
+
+(4) human performance;
+
+(5) meteorology;
+
+(6) radio navigation; and
+
+(7) communications.
+
+FCL.620 IR – Skill test
+
+Applicants for an IR shall pass a skill test in accordance with Appendix 7 to this Annex to demonstrate their ability to perform the relevant procedures and manoeuvres with a degree of competency appropriate to the privileges granted.
+
+FCL.625 IR — Validity, revalidation and renewal
+
+(a) Validity
+
+An IR shall be valid for 1 year.
+
+(b) Revalidation
+
+(1) An IR shall be revalidated within the 3 months immediately preceding its expiry date by complying with the revalidation criteria for the relevant aircraft category.
+
+(2) If applicants choose to fulfil the revalidation requirements earlier than prescribed in point (1), the new validity period shall commence from the date of the proficiency check.
+
+(3) Applicants who fail to pass the relevant section of an IR proficiency check before the expiry date of the IR shall exercise the IR privileges only if they have passed the IR proficiency check.
+
+(4) Applicants for the revalidation of an IR shall receive full credits for the proficiency check as required in this Subpart when they complete EBT practical assessment in accordance with Appendix 10 related to the IR at an EBT operator.
+
+(c) Renewal
+
+If an IR has expired, in order to renew their privileges, applicants shall comply with all of the following:
+
+(1) in order to determine whether refresher training is necessary for the applicant to reach the level of proficiency needed to pass the instrument element of the skill test in accordance with Appendix 9, they shall undergo an assessment at either of the following organisations:
+
+(i) at an ATO;
+
+(ii) at an EBT operator that is specifically approved for such refresher training;
+
+(2) if deemed necessary by the organisation providing the assessment in accordance with point (1), they shall complete refresher training at that organisation;
+
+(3) after complying with point (1) and, as applicable, point (2), they shall pass a proficiency check in accordance with Appendix 9 or complete EBT practical assessment in accordance with Appendix 10 in the relevant aircraft category. That EBT practical assessment may be combined with the refresher training specified in point (2);
+
+(4) they shall hold the relevant class or type rating unless specified otherwise in this Annex.
+
+(d) If the IR has not been revalidated or renewed in the preceding 7 years, applicants for the IR shall pass again the IR theoretical knowledge examination and skill test.
+
+(e) Holders of a valid IR on a pilot licence issued by a third country in accordance with Annex 1 to the Chicago Convention shall be exempted from complying with the requirements in points (c)(1), (c)(2) and (d) when renewing the IR privileges contained in licences issued in accordance with this Annex.
+
+(f) The proficiency check specified in point (c)(3) may be combined with a proficiency check performed for the renewal of the relevant class or type rating.
+
+**SECTION 2**
+
+**Specific requirements for the aeroplane category**
+
+FCL.620.A IR(A) – Skill test
+
+(a) For a multi-engine IR(A), the skill test shall be taken in a multi-engine aeroplane. For a single-engine IR(A), the test shall be taken in a single-engine aeroplane. A multi-engine centreline thrust aeroplane shall be considered a single-engine aeroplane for the purposes of this point.
+
+(b) Applicants who have completed a skill test for a multi-engine IR(A) in a single-pilot multi-engine aeroplane for which a class rating is required shall also be issued with a single-engine IR(A) for the single-engine aeroplane class or type ratings that they hold.
+
+FCL.625.A IR(A) — Revalidation
+
+(a) Revalidation.
+
+To revalidate an IR(A), applicants shall:
+
+(1) hold the relevant class or type rating, unless the IR revalidation is combined with the renewal of the relevant class or type rating;
+
+(2) pass a proficiency check in accordance with Appendix 9, or complete EBT practical assessment in accordance with Appendix 10, if the IR revalidation is combined with the revalidation of a class or type rating;
+
+(3) if the IR revalidation is not combined with the revalidation of a class or type rating:
+
+(i) for single-pilot aeroplanes, complete section 3b and those parts of section 1 which are relevant to the intended flight of the proficiency check in accordance with Appendix 9 to this Annex;
+
+(ii) for multi-engine aeroplanes, complete section 6 of the proficiency check for single-pilot aeroplanes in accordance with Appendix 9 to this Annex by sole reference to instruments.
+
+(4) An FNPT II or an FFS representing the relevant class or type of aeroplane may be used for the revalidation pursuant to point (3), provided that at least each alternate proficiency check for the revalidation of an IR(A) is performed in an aeroplane.
+
+(b) Cross-credit shall be given in accordance with Appendix 8 to this Part.
+
+**SECTION 3**
+
+**Specific requirements for the helicopter category**
+
+FCL.625.H IR(H) — Revalidation
+
+(a) To revalidate an IR(H), applicants shall:
+
+(1) hold the relevant type rating, unless the IR revalidation is combined with the renewal of the relevant type rating;
+
+(2) pass a proficiency check in accordance with Appendix 9 to this Annex for the relevant type of helicopter if the IR revalidation is combined with the revalidation of a type rating;
+
+(3) if the IR revalidation is not combined with the revalidation of a type rating, complete Section 5 and the relevant parts of Section 1 of the proficiency check in accordance with Appendix 9 to this Annex for the relevant type of helicopter.
+
+(b) An FTD 2/3 or an FFS representing the relevant type of helicopter may be used for the proficiency check pursuant to point (a)(3), provided that at least each alternate proficiency check for the revalidation of an IR(H) is performed in a helicopter.
+
+(c) Cross-credit shall be given in accordance with Appendix 8 to this Annex.
+
+FCL.630.H IR(H) – Extension of the privileges of an IR(H) to further helicopter types
+
+Unless specified otherwise in the operational suitability data established in accordance with Annex I (Part 21) to Commission Regulation (EU) No 748/2012, holders of an IR(H) who wish to extend their IR(H) privileges to further helicopter types shall, in addition to the relevant type rating training course, complete at an ATO 2 hours of flight training on the relevant type by sole reference to instruments according to IFR which may be conducted in an FFS or an FTD which appropriately represents the relevant type for IFR operation.
+
+**SECTION 4**
+
+**Specific requirements for the airship category**
+
+FCL.620.As IR(As) – Skill test
+
+For a multi-engine IR(As), the skill test shall be taken in a multi-engine airship. For a single-engine IR(As), the test shall be taken in a single-engine airship.
+
+FCL.625.As IR(As) — Revalidation
+
+Applicants for the revalidation of an IR(As):
+
+(a) when combined with the revalidation of a type rating, shall complete a proficiency check in accordance with Appendix 9 to this Part, for the relevant type of airship;
+
+(b) when not combined with the revalidation of a type rating, shall complete section 5 and those parts of section 1 relevant to the intended flight of the proficiency check for airships in accordance with Appendix 9 of this part. In this case, an FTD 2/3 or FFS representing the relevant type may be used, but at least each alternate proficiency check for the revalidation of an IR(As) in these circumstances shall be performed in an airship.
+
+**SUBPART H**
+
+**CLASS AND TYPE RATINGS**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.700 Circumstances in which class or type ratings are required
+
+(a) Holders of a pilot licence shall act as pilots of an aircraft only if they have a valid and appropriate class or type rating, unless any of the following applies:
+
+(1) they exercise the privileges of an LAPL or a GPL;
+
+(2) they take skill tests or proficiency checks for renewal of class or type ratings;
+
+(3) they receive flight instruction;
+
+(4) they hold a flight test rating issued in accordance with point FCL.820.
+
+(b) Notwithstanding (a), in the case of flights related to the introduction or modification of aircraft types, pilots may hold a special certificate given by the competent authority, authorising them to perform the flights. This authorisation shall have its validity limited to the specific flights.
+
+FCL.705 Privileges of the holder of a class or type rating
+
+The privileges of the holder of a class or type rating are to act as pilot on the class or type of aircraft specified in the rating.
+
+FCL.710 Class and type ratings — variants
+
+(a) Pilots shall complete differences training or familiarisation in order to extend their privileges to another variant of aircraft within a class or type rating, or, in the case of point FCL.710(d)(1) of this Annex, in order to maintain those privileges. In the case of variants within a class or type rating, the differences training or familiarisation shall include the relevant elements defined in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, where applicable. When extending the privileges of an SEP aeroplane class rating to a variant with another type of engine referred to in Article 2, point (8c), of this Regulation, the differences training shall consist of dual flight instruction and theoretical knowledge instruction which shall include, with regard to that other type of engine and related aircraft systems, at least all of the following subjects:
+
+(1) Aircraft general knowledge;
+
+(2) Operational procedures;
+
+(3) Flight performance and planning.
+
+(b) The differences training shall be conducted at any of the following:
+
+(1) an ATO;
+
+(2) a DTO in the case of aircraft referred to in points (a)(1)(c) and (a)(2)(c) of point DTO.GEN.110 of Annex VIII;
+
+(3) an AOC holder having an approved differences training programme for the relevant class or type.
+
+(c) Notwithstanding the requirement in point (b), differences training for the following aircraft may be conducted by an appropriately qualified instructor unless otherwise provided in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012:
+
+(1) aeroplanes requiring a class rating:
+
+(i) TMGs;
+
+(ii) SEP aeroplanes;
+
+(iii) MEP aeroplanes;
+
+(iv) SET aeroplanes, except for complex or high-performance SET aeroplanes;
+
+(2) single-engine helicopters with a maximum take-off mass not exceeding 3 175 kg.
+
+(d) Pilots who, after having extended their privileges to another variant within a class or type rating in accordance with this point, have not flown that variant within the preceding 2 years shall, before exercising their privileges in that variant, complete any of the following in that variant:
+
+(1) further differences training in accordance with points (a) and (b) or, if applicable, (c);
+
+(2) a proficiency check;
+
+(3) in the case of a variant within the SEP class rating with a particular engine type referred to in Article 2, point (8c), refresher training in accordance with point FCL.740.A(b)(1)(ii)(C).
+
+(da) Point FCL.710(d) shall not apply in the case of variants within the TMG class rating and variants within the SEP class rating that have the same type of engine referred to in Article 2, point (8c), of this Regulation.
+
+(e) The differences training or the proficiency check in that variant shall be entered in the pilots’ logbook or equivalent record and signed by the instructor or examiner as appropriate.
+
+FCL.725 Requirements for the issue of class and type ratings
+
+(a) Training course. An applicant for a class or type rating shall complete a training course at an ATO. An applicant for a non-high-performance SEP aeroplane class rating, a TMG class rating or a single-engine type rating for helicopters referred to in point DTO.GEN.110(a)(2)(c) of Annex VIII (Part-DTO) to this Regulation may complete the training course at a DTO. The type rating training course shall include the mandatory training elements for the relevant type as defined in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012.
+
+(b) Theoretical knowledge examination. The applicant for a class or type rating shall pass a theoretical knowledge examination organised by the ATO to demonstrate the level of theoretical knowledge required for the safe operation of the applicable aircraft class or type.
+
+(1) For multi-pilot aircraft, the theoretical knowledge examination shall be written and comprise at least 100 multiple-choice questions distributed appropriately across the main subjects of the syllabus.
+
+(2) For single-pilot multi-engine aircraft, the theoretical knowledge examination shall be written and the number of multiple-choice questions shall depend on the complexity of the aircraft.
+
+(3) For single-engine aircraft, the theoretical knowledge examination shall be conducted verbally by the examiner during the skill test to determine whether or not a satisfactory level of knowledge has been achieved.
+
+(4) For single-pilot aeroplanes that are classified as high performance aeroplanes, the examination shall be written and comprise at least 100 multiple-choice questions distributed appropriately across the subjects of the syllabus.
+
+(5) For single-pilot single-engine and single-pilot multi-engine aeroplanes (sea), the examination shall be in a written form and shall comprise at least 30 multiple-choice questions.
+
+(c) Skill test. An applicant for a class or type rating shall pass a skill test in accordance with Appendix 9 to this Part to demonstrate the skill required for the safe operation of the applicable class or type of aircraft.
+
+The applicant shall pass the skill test within a period of 6 months after commencement of the class or type rating training course and within a period of 6 months preceding the application for the issue of the class or type rating.
+
+(d) Single- and multi-pilot operations in single-pilot aircraft – type ratings
+
+(1) The privileges of holders of a type rating for a single-pilot aircraft include the privileges to fly the aircraft in single-pilot operations and multi-pilot operations. However, such holders shall exercise those privileges for a particular form of operation only if they comply with all of the following:
+
+(i) they have successfully completed flight training for the relevant form of operation in the relevant aircraft type in accordance with Appendix 9 to this Annex, unless specified otherwise in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012. That flight training for a particular form of operation shall either be included in the initial type rating training course at an ATO or, following the initial issuance of the type rating, be completed in the form of additional training at either of the following:
+
+(A) an ATO;
+
+(B) an organisation that is subject to Annex III (Part-ORO) to Regulation (EU) No 965/2012 and that is entitled to provide such training on the basis of either an approval or a declaration;
+
+(ii) they have completed a skill test or a proficiency check:
+
+(A) for single-pilot operations in one of the following ways:
+
+(1) in single-pilot operations;
+
+(2) in multi-pilot operations with additional elements for single-pilot operations as specified in Appendix 9;
+
+(B) for multi-pilot operations, in multi-pilot operations.
+
+(iii) additionally, in the case of multi-pilot operations in single-pilot aircraft:
+
+(A) they meet the requirements that are specified in:
+
+(1) point FCL.720.A(b)(4) or point FCL.720.H(a)(2), as applicable;
+
+(2) point FCL.720.A(b)(5), for single-pilot aeroplanes, before starting flight training for multi-pilot operations in accordance with point FCL.725(d)(1)(i);
+
+(B) they exercise their privileges only at an organisation that is subject to Annex III (Part-ORO) to Regulation (EU) No 965/2012.
+
+(2) When applicants for the initial issue of a type rating for a single-pilot aircraft complete the flight training and the skill test in multi-pilot operations only, the type rating shall be issued with a restriction to multi-pilot operations. That restriction shall be removed when applicants complete, in accordance with Appendix 9, additional training and a proficiency check that include the necessary elements for single-pilot operations.
+
+In all other cases, the form of operation shall not be entered onto the licence.
+
+(da) Single- and multi-pilot operations – aeroplane class ratings
+
+The privileges of holders of a class rating for a single-pilot aeroplane include the privileges to fly the aeroplane in multi-pilot operations, provided that such holders:
+
+(1) comply with the requirements set out in:
+
+(i) point FCL.720.A(b)(4);
+
+(ii) point FCL.720.A(b)(5), before starting flight training for multi-pilot operations in accordance with point FCL.725(da)(2);
+
+(2) have completed flight training and passed a proficiency check for multi-pilot operations in the relevant aeroplane class in accordance with Section B, point 5(g), of Appendix 9 at an organisation that is specified in point FCL.725(d)(1)(i); and
+
+(3) exercise their privileges only at an organisation that is subject to Annex III (Part-ORO) to Regulation (EU) No 965/2012.
+
+Additional privileges for multi-pilot operations in a single-pilot aeroplane class shall not be entered onto the licence.
+
+(db) If a skill test or proficiency check for a single-pilot aircraft class or type rating is conducted in either of the following, the form or forms of operation in which that skill test or a proficiency check is conducted shall be entered in the logbook of the applicants and signed by the examiner:
+
+(1) multi-pilot operations;
+
+(2) single-pilot and multi-pilot operations.
+
+(e) Notwithstanding the paragraphs above, pilots holding a flight test rating issued in accordance with FCL.820 who were involved in development, certification or production flight tests for an aircraft type, and have completed either 50 hours of total flight time or 10 hours of flight time as PIC on test flights in that type, shall be entitled to apply for the issue of the relevant type rating, provided that they comply with the experience requirements and the prerequisites for the issue of that type rating, as established in this Subpart for the relevant aircraft category.
+
+(f) Applicants for a class rating for TMGs who also hold an SPL in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, including the privileges to fly on TMGs, shall receive full credits towards the requirements in paragraphs (a), (b) and (c).
+
+FCL.740 Validity and renewal of class and type ratings
+
+(a) Validity
+
+(1) The validity period of class and type ratings shall be 1 year, except for single-pilot single-engine class ratings for which the validity period shall be 2 years, unless otherwise determined in the OSD. If pilots choose to fulfil the revalidation requirements earlier than prescribed in points FCL.740.A, FCL.740.H, FCL.740.PL and FCL.740.As, the new validity period shall commence from the date of the proficiency check.
+
+(2) Applicants for the revalidation of a class or type rating shall receive full credits for the proficiency check as required in this Subpart when they complete EBT practical assessment in accordance with Appendix 10 at an operator that has implemented EBT for the relevant class or type rating.
+
+(b) Renewal
+
+For the renewal of a class or type rating, applicants shall comply with all of the following:
+
+(1) in order to determine whether refresher training is necessary for the applicant to reach the level of proficiency to safely operate the aircraft, they shall undergo an assessment at one of the following:
+
+(i) at an ATO;
+
+(ii) at a DTO or at an ATO, if the expired rating concerned a non-high-performance SEP aeroplane class rating, a TMG class rating or a single-engine type rating for helicopters referred to in point DTO.GEN.110(a)(2)(c) of Annex VIII;
+
+(iii) at a DTO, at an ATO or with an instructor, if the rating expired no more than 3 years ago and the rating concerned a non-high-performance SEP aeroplane class rating or a TMG class rating;
+
+(iv) at an EBT operator that is specifically approved for such refresher training;
+
+(2) if deemed necessary by the organisation or the instructor providing the assessment as per point (1), they shall complete refresher training at that organisation or with that instructor;
+
+(3) after complying with point (1) and, as applicable, point (2), they shall pass a proficiency check in accordance with Appendix 9 or complete EBT practical assessment in accordance with Appendix 10. That EBT practical assessment may be combined with the refresher training specified in point (2).
+
+By way of derogation from points (b)(1), (b)(2) and (b)(3), pilots holding a flight test rating issued in accordance with point FCL.820 who were involved in the development, certification or production flight tests for an aircraft type and have completed either 50 hours of total flight time or 10 hours of flight time as PIC in test flights in that type during the year prior to the date of their application, shall be entitled to apply for the revalidation or renewal of the relevant type rating.
+
+Applicants shall be exempted from the requirement in points (b)(1) and (b)(2) if they hold a valid rating for the same class or type of aircraft on a pilot licence issued by a third country in accordance with Annex 1 to the Chicago Convention and if they are entitled to exercise the privileges of that rating.
+
+(c) Pilots who leave an operator’s EBT programme after having failed to demonstrate an acceptable level of competence in accordance with that EBT programme shall not exercise the privileges of that type rating until they have complied with one of the following:
+
+(1) they have completed EBT practical assessment in accordance with Appendix 10;
+
+(2) they have passed a proficiency check in accordance with point FCL.625(c)(3) or point FCL.740(b)(3), as applicable. In such a case, point FCL.625(b)(4) and point FCL.740(a)(2) shall not apply.
+
+**SECTION 2**
+
+**Specific requirements for the aeroplane category**
+
+FCL.720.A Experience requirements and prerequisites for the issue of class or type ratings — aeroplanes
+
+Unless otherwise determined in the operational suitability data established in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012 (OSD), applicants for the issue of a class or type rating shall comply with the following experience requirements and prerequisites for the issue of the relevant rating:
+
+(a) Single-pilot aeroplanes
+
+(1) Single-pilot multi-engine aeroplanes
+
+Applicants for the issue of a first class or type rating on a single-pilot multi-engine aeroplane shall have completed at least 70 hours as PIC in aeroplanes.
+
+(2) Single-pilot high-performance non-complex aeroplanes
+
+Before starting flight training, applicants for the issue of a class or type rating for a single-pilot aeroplane classified as a high-performance aeroplane shall:
+
+(i) have at least 200 hours of total flying experience, of which 70 hours as PIC in aeroplanes; and
+
+(ii) comply with one of the following requirements:
+
+(A) hold a certificate of satisfactory completion of a course for additional theoretical knowledge undertaken at an ATO; or
+
+(B) have passed the ATPL(A) theoretical knowledge examinations in accordance with this Annex (Part-FCL); or
+
+(C) hold, in addition to a licence issued in accordance with this Annex (Part-FCL), an ATPL(A) or CPL(A)/IR with theoretical knowledge credit for ATPL(A), issued in accordance with Annex 1 to the Chicago Convention.
+
+(3) Single-pilot high-performance complex aeroplanes
+
+Applicants for the issue of a type rating for a complex single-pilot aeroplane classified as a high-performance aeroplane shall, in addition to meeting the requirements in point (2), comply with all of the following:
+
+(i) they shall hold or have held a single- or multi-engine IR(A), as appropriate and as established in Subpart G;
+
+(ii) for the issue of the first type rating, they shall, before starting the type rating training course, meet the requirements in point (b)(5).
+
+(b) Multi-pilot aeroplanes
+
+Applicants for the issue of the first type rating for a multi-pilot aeroplane shall be student pilots currently undergoing training on an MPL training course or shall, before starting the type rating training course, comply with the following requirements:
+
+(1) have at least 70 hours of flight experience as PIC in aeroplanes;
+
+(2) hold or have held a multi-engine IR(A);
+
+(3) have passed the ATPL(A) theoretical knowledge examinations in accordance with this Annex (Part-FCL);
+
+(4) except when the type rating course is combined with an MCC course:
+
+(i) hold a certificate of satisfactory completion of an MCC course in aeroplanes; or
+
+(ii) hold a certificate of satisfactory completion of MCC in helicopters and have more than 100 hours of flight experience as pilots of multi-pilot helicopters; or
+
+(iii) have at least 500 hours as pilots of multi-pilot helicopters; or
+
+(iv) have at least 500 hours as pilots in multi-pilot operations on single-pilot multi-engine aeroplanes, in commercial air transport in accordance with the applicable air operations requirements; and
+
+(5) have completed the training course specified in point FCL.745.A, unless they comply with any of the following:
+
+(i) they completed, within the preceding 3 years, the training and checking in accordance with points ORO.FC.220 or ORO.FC.230 of Annex III (Part-ORO) to Regulation (EU) No 965/2012;
+
+(ii) they have completed the training specified in point FCL.915(e)(1)(ii).
+
+(c) Notwithstanding point FCL.720.A(b), applicants who comply with Section B, point 6(i), of Appendix 9 shall be issued with a type rating with restricted privileges for a multi-pilot aeroplane that allows holders of such a rating to act as cruise relief co-pilots above Flight Level 200, provided that two other members of the crew have a type rating in accordance with point FCL.720.A(b).
+
+To remove the restriction, applicants shall comply with all of the following:
+
+(1) undergo an assessment at an ATO which shall determine their training needs to have the restriction removed;
+
+(2) based on the assessment specified in point (1), complete, at that ATO, training which shall allow them to reach the level of proficiency to safely operate the aircraft;
+
+(3) after the completion of the training specified in point (2), complete a skill test in accordance with Appendix 9;
+
+(4) after the completion of the skill test specified in point (3), meet one of the following conditions:
+
+(i) comply with point ORO.FC.220(e) of Annex III (Part-ORO) to Regulation (EU) No 965/2012, provided that they meet the experience requirements specified in point FCL.730.A of this Annex;
+
+(ii) complete flight training in the aircraft which includes manoeuvres on take-off, landing and go-around.
+
+(d) When so determined in the OSD, the exercise of the privileges of a type rating may be initially limited to flight under the supervision of an instructor. The flight hours under supervision shall be entered in the pilots' logbook or equivalent record and signed by the instructor. The limitation shall be removed when pilots demonstrate that the hours of flight under supervision required in the OSD have been completed.
+
+FCL.725.A Theoretical knowledge and flight instruction for the issue of class and type ratings — aeroplanes
+
+Unless otherwise determined in in the operational suitability data established in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012:
+
+(a) for single-pilot multi-engine aeroplanes:
+
+(1) the theoretical knowledge course for a single-pilot multi-engine class rating shall include at least 7 hours of instruction in multi-engine aeroplane operations; and
+
+(2) the flight training course for a single-pilot multi-engine class or type rating shall include at least 2 hours and 30 minutes of dual flight instruction under normal conditions of multi-engine aeroplane operations, and not less than 3 hours 30 minutes of dual flight instruction in engine failure procedures and asymmetric flight techniques.
+
+(b) for single-pilot aeroplanes (sea):
+
+(1) the training course for single-pilot aeroplane (sea) ratings shall include theoretical knowledge and flight instruction; and
+
+(2) the flight training for a class or type rating (sea) for single-pilot aeroplanes (sea) shall include at least 8 hours of dual flight instruction if applicants hold the land version of the relevant class or type rating, or 10 hours if applicants do not hold such a rating; and
+
+(c) for single-pilot non-high-performance complex aeroplanes, single-pilot high-performance complex aeroplanes and multi-pilot aeroplanes, the training courses shall include UPRT theoretical knowledge and flight instruction related to the specificities of the relevant class or type. For the flight instruction, FSTDs may be used in accordance with Section A, point 18 of Appendix 9.
+
+FCL.730.A Specific requirements for pilots undertaking a zero flight time type rating (ZFTT) course — aeroplanes
+
+(a) A pilot undertaking instruction at a ZFTT course shall have completed, on a multi-pilot turbo-jet aeroplane certificated to the standards of CS-25 or equivalent airworthiness code or on a multi-pilot turbo-prop aeroplane having a maximum certificated take-off mass of not less than 10 tonnes or a certificated passenger seating configuration of more than 19 passengers, at least:
+
+(1) if an FFS qualified to level CG, C or interim C is used during the course:
+
+(i) in the case of cruise relief co-pilots, 1 500 hours of flight time;
+
+(ii) in all other cases, 1 500 hours of flight time or 250 route sectors;
+
+(2) if an FFS qualified to level DG or D is used during the course:
+
+(i) in the case of cruise relief co-pilots, 750 hours of flight time;
+
+(ii) in all other cases, 500 hours of flight time or 100 route sectors.
+
+(b) When a pilot is changing from a turbo-prop to a turbo-jet aeroplane or from a turbo-jet to a turbo-prop aeroplane, additional simulator training shall be required.
+
+FCL.735.A Multi-crew cooperation training course — aeroplanes
+
+(a) The MCC training course shall comprise at least:
+
+(1) 25 hours of theoretical knowledge instruction and exercises; and
+
+(2) 20 hours of practical MCC training, or 15 hours in the case of student pilots attending an ATP integrated course.
+
+An FNPT II MCC or an FFS shall be used. When the MCC training is combined with initial type rating training, the practical MCC training may be reduced to no less than 10 hours if the same FFS is used for both the MCC and type rating training.
+
+(b) The MCC training course shall be completed within 6 months at an ATO.
+
+(c) Unless the MCC course has been combined with a type rating course, on completion of the MCC training course the applicant shall be given a certificate of completion.
+
+(d) An applicant having completed MCC training for any other category of aircraft shall be exempted from the requirement in (a)(1).
+
+FCL.740.A Revalidation of class and type ratings — aeroplanes
+
+(a) Revalidation of multi-engine class ratings and type ratings. For revalidation of multi-engine class ratings and type ratings, the applicant shall:
+
+(1) pass a proficiency check in accordance with Appendix 9 or complete EBT practical assessment in accordance with Appendix 10 in the relevant class or type of aeroplane or an FSTD representing that class or type, within the 3 months immediately preceding the expiry date of the rating; and
+
+(2) complete during the period of validity of the rating, at least:
+
+(i) 10 route sectors as pilot of the relevant class or type of aeroplane; or
+
+(ii) 1 route sector as pilot of the relevant class or type of aeroplane or FFS, flown with an examiner. This route sector may be flown during the proficiency check.
+
+(3) A pilot working for a commercial air transport operator approved in accordance with the applicable air operations requirements who has passed the operators proficiency check combined with the proficiency check for the revalidation of the class or type rating shall be exempted from complying with the requirement in (2).
+
+(4) The revalidation of a BIR or an IR(A), if held, may be combined with a proficiency check for the revalidation of a class or type rating.
+
+(b) Revalidation of single-pilot single-engine class ratings.
+
+(1) SEP aeroplane class ratings and TMG class ratings. For the revalidation of SEP aeroplane class ratings or TMG class ratings, applicants shall:
+
+(i) within the 3 months preceding the expiry date of the rating, pass a proficiency check in the relevant class in accordance with Appendix 9 to this Part with an examiner; or
+
+(ii) within the 12 months preceding the expiry date of the rating, complete 12 hours of flight time in the relevant class, including the following:
+
+(A) 6 hours as PIC;
+
+(B) 12 take-offs and 12 landings;
+
+(C) refresher training of at least 1 hour of total flight time with and to the satisfaction of a flight instructor (FI) or a class rating instructor (CRI) who shall select those flight exercises that allow the applicant to refresh their competence in safely operating the aircraft and applying normal, abnormal and emergency procedures. Applicants shall be exempted from this refresher training if they have passed any of the following, in any class or type of aeroplane:
+
+(1) a class or type rating proficiency check;
+
+(2) a skill test;
+
+(3) an EBT practical assessment;
+
+(4) an assessment of competence.
+
+(2) When applicants hold both an SEP aeroplane-land class rating and a TMG class rating, they may complete the requirements of point (1) in either class or a combination of those classes, and achieve revalidation of both ratings.
+
+(3) Single-pilot single-engine turbo-prop aeroplanes. For revalidation of single-engine turbo-prop class ratings applicants shall pass a proficiency check on the relevant class in accordance with Appendix 9 to this Part with an examiner, within the 3 months preceding the expiry date of the rating.
+
+(4) When applicants hold both an SEP aeroplane-land class rating and an SEP aeroplane-sea class rating, they may complete the requirements of point (1)(ii) in either class or a combination of those classes, and achieve the fulfilment of those requirements for both ratings. At least 1 hour of the required PIC time and 6 of the required 12 take-offs and 12 landings shall be completed in each class.
+
+(5) The proficiency check for the revalidation of a single-pilot single-engine aeroplane class rating may be combined with the proficiency check for the revalidation of a BIR, in accordance with point FCL.835(g)(8).
+
+(c) Applicants who fail to achieve a pass in all sections of a proficiency check before the expiry date of a class or type rating shall not exercise the privileges of that rating until a pass in the proficiency check has been achieved.
+
+FCL.745.A Advanced UPRT course — aeroplanes
+
+(a) The advanced UPRT course shall be completed at an ATO and shall comprise at least:
+
+(1) 5 hours of theoretical knowledge instruction;
+
+(2) preflight briefings and postflight debriefings; and
+
+(3) 3 hours of dual flight instruction with a flight instructor for aeroplanes FI(A) qualified in accordance with point FCL.915(e) and consisting of advanced UPRT in an aeroplane qualified for the training task. Flight time that does not include advanced UPRT but serves to go to or return from the UPRT training area shall not count towards those 3 hours.
+
+(b) Upon completion of the UPRT course, applicants shall be issued with a certificate of completion by the ATO.
+
+**SECTION 3**
+
+**Specific requirements for the helicopter category**
+
+FCL.720.H Experience requirements and prerequisites for the issue of type ratings — helicopters
+
+Unless otherwise determined in the operational suitability data established in accordance with Annex I (Part 21) to Commission Regulation (EU) No 748/2012, an applicant for the issue of the first helicopter type rating shall comply with the following experience requirements and prerequisites for the issue of the relevant rating:
+
+(a) Multi-pilot helicopters. An applicant for a type rating for a multi-pilot helicopter type shall, before starting the type rating training course:
+
+(1) have at least 70 hours as PIC on helicopters;
+
+(2) except when the type rating course is combined with an MCC course:
+
+(i) hold a certificate of satisfactory completion of an MCC course in helicopters; or
+
+(ii) have completed at least 500 hours of flight time as a pilot in multi-pilot operations in any aircraft category.
+
+(3) have passed the ATPL(H) theoretical knowledge examinations.
+
+(b) A graduate from an ATP(H)/IR, ATP(H), CPL(H)/IR or CPL(H) integrated course who does not comply with the requirement of point (a)(1), shall be entitled to undergo the type rating training course for a multi-pilot helicopter type rating and shall have the type rating issued with the privileges limited to exercising functions as co-pilot only. The limitation shall be removed once the pilot has complied with all of the following:
+
+(1) completed 70 hours as PIC or pilot-in-command under supervision of helicopters;
+
+(2) passed the multi-pilot skill test on the applicable helicopter type as PIC.
+
+(c) Multi-engine helicopters. An applicant for the issue of a first type rating for a multi-engine helicopter shall:
+
+(1) before starting flight training:
+
+(i) have passed the ATPL(H) theoretical knowledge examinations; or
+
+(ii) hold a certificate of completion of a pre-entry course conducted by an ATO. The course shall cover the following subjects of the ATPL(H) theoretical knowledge course:
+
+— Aircraft General Knowledge: airframe/systems/power plant, and instrument/electronics,
+
+— Flight Performance and Planning: mass and balance, performance;
+
+(2) in the case of applicants who have not completed an ATP(H)/IR, ATP(H), or CPL(H)/IR integrated training course, have completed at least 70 hours as PIC on helicopters.
+
+FCL.735.H Multi-crew cooperation training course — helicopters
+
+(a) The MCC training course shall comprise at least:
+
+(1) for MCC/IR:
+
+(i) 25 hours of theoretical knowledge instruction and exercises; and
+
+(ii) 20 hours of practical MCC training or 15 hours, in the case of student pilots attending an ATP(H)/IR integrated course. When the MCC training is combined with the initial type rating training for a multi-pilot helicopter, the practical MCC training may be reduced to not less than 10 hours if the same FSTD is used for both MCC and type rating;
+
+(2) for MCC/VFR:
+
+(i) 25 hours of theoretical knowledge instruction and exercises; and
+
+(ii) 15 hours of practical MCC training or 10 hours, in the case of student pilots attending an ATP(H)/IR integrated course. When the MCC training is combined with the initial type rating training for a multi-pilot helicopter, the practical MCC training may be reduced to not less than 7 hours if the same FSTD is used for both MCC and type rating.
+
+(b) The MCC training course shall be completed within 6 months at an ATO.
+
+An FNPT II or III qualified for MCC, an FTD 2/3 or an FFS shall be used.
+
+(c) Unless the MCC course has been combined with a multi-pilot type rating course, on completion of the MCC training course the applicant shall be given a certificate of completion.
+
+(d) An applicant having completed MCC training for any other category of aircraft shall be exempted from the requirement in (a)(1)(i) or (a)(2)(i), as applicable.
+
+(e) An applicant for MCC/IR training who has completed MCC/VFR training shall be exempted from the requirement in (a)(1)(i), and shall complete 5 hours of practical MCC/IR training.
+
+FCL.740.H Revalidation of type ratings – helicopters
+
+(a) Revalidation. For the revalidation of type ratings for helicopters, applicants shall comply with one of the following, as applicable:
+
+(1) they shall take the following steps:
+
+(i) within the validity period of the type rating, complete at least 2 hours as pilot in the relevant helicopter type;
+
+(ii) within the 3 months immediately preceding the expiry date of the type rating, pass a proficiency check:
+
+(A) which is conducted in accordance with Appendix 9 in the relevant type of helicopter or an FSTD representing that type;
+
+(B) the duration of which may be counted towards the flight time specified in point (i);
+
+(2) for type ratings for single-engine helicopters up to a maximum take-off mass of 3 175 kg, they shall meet one of the following conditions:
+
+(i) comply with point (a)(1);
+
+(ii) complete, in the relevant type of helicopter, both of the following:
+
+(A) within the validity period of the type rating, at least 6 hours as PIC;
+
+(B) within the 3 months immediately preceding the expiry date of the rating, a refresher training of at least 1 hour of total flight time with and to the satisfaction of an instructor who shall select those flight exercises that allow the applicant to refresh their competence in safely operating the aircraft and applying normal, abnormal and emergency procedures. Applicants may choose to complete the refresher training in the aircraft or an FSTD representing the relevant type, or in a combination of both.
+
+(b) When applicants hold more than one type rating for SEP helicopters, they may achieve revalidation of all the relevant type ratings by passing the proficiency check in accordance with point (a)(1)(ii) or completing the refresher training in accordance with point (a)(2)(ii)(B) in only one of the relevant types held, provided that they have completed either of the following flight times as PIC in each of the other relevant types during the validity period:
+
+(1) if they completed a proficiency check in accordance with point (a)(1)(ii), at least 2 hours;
+
+(2) if they completed a refresher training in accordance with point (a)(2)(ii)(B), at least 6 hours.
+
+The proficiency check or the refresher training, as applicable, shall be performed each time on a different type. The new validity period of all type ratings revalidated in accordance with this point shall commence together with the validity period of the type rating for which the proficiency check or the refresher training is performed.
+
+(c) When applicants hold more than one type rating for SET helicopters with a maximum certified take-off mass up to 3 175 kg, they may achieve revalidation of all the relevant type ratings by passing the proficiency check in accordance with point (a)(1)(ii) or completing the refresher training in accordance with point (a)(2)(ii)(B) in only one of the relevant types held, provided that they have completed all of the following:
+
+(1) 300 hours as PIC on helicopters;
+
+(2) 15 hours on each of the types held;
+
+(3) either of the following flight times as PIC in each of the other relevant types during the validity period:
+
+(i) if they completed a proficiency check in accordance with point (a)(1)(ii), at least 2 hours;
+
+(ii) if they completed a refresher training in accordance with point (a)(2)(ii)(B), at least 6 hours.
+
+The proficiency check or the refresher training, as applicable, shall be performed each time on a different type. The new validity period of all type ratings revalidated in accordance with this point shall commence together with the validity period of the type rating for which the proficiency check or the refresher training is completed.
+
+(d) Applicants who successfully complete a skill test for the issue of an additional type rating or a proficiency check for the renewal of a type rating shall achieve revalidation for the relevant type ratings already held in the common groups, as specified in points (b) and (c).
+
+The new validity period of all type ratings revalidated in accordance with this point shall commence together with the validity period of the type rating for which the skill test or proficiency check is completed.
+
+(e) The revalidation of an IR(H), if held, may be combined with a proficiency check for a type rating.
+
+(f) Applicants who fail to achieve a pass in all sections of a proficiency check before the expiry date of a type rating shall not exercise the privileges of that rating until a pass in the proficiency check has been achieved. In the case of points (b) and (c), applicants shall not exercise their privileges in any of the types.
+
+**SECTION 4**
+
+**Specific requirements for the powered-lift aircraft category**
+
+FCL.720.PL Experience requirements and prerequisites for the issue of type ratings — powered-lift aircraft
+
+Unless otherwise determined in the operational suitability data established in accordance with Part-21, an applicant for the first issue of a powered-lift type rating shall comply with the following experience requirements and prerequisites:
+
+(a) for pilots of aeroplanes:
+
+(1) hold a CPL/IR(A) with ATPL theoretical knowledge or an ATPL(A);
+
+(2) hold a certificate of completion of an MCC course;
+
+(3) have completed more than 100 hours as pilot on multi-pilot aeroplanes;
+
+(4) have completed 40 hours of flight instruction in helicopters;
+
+(b) for pilots of helicopters:
+
+(1) hold a CPL/IR(H) with ATPL theoretical knowledge or an ATPL/IR(H);
+
+(2) hold a certificate of completion of an MCC course;
+
+(3) have completed more than 100 hours as a pilot on multi-pilot helicopters;
+
+(4) have completed 40 hours of flight instruction in aeroplanes;
+
+(c) for pilots qualified to fly both aeroplanes and helicopters:
+
+(1) hold at least a CPL(H);
+
+(2) hold an IR and ATPL theoretical knowledge or an ATPL in either aeroplanes or helicopters;
+
+(3) hold a certificate of completion of an MCC course in either helicopters or aeroplanes;
+
+(4) have completed at least 100 hours as a pilot on multi-pilot helicopters or aeroplanes;
+
+(5) have completed 40 hours of flight instruction in aeroplanes or helicopters, as applicable, if the pilot has no experience as ATPL or on multi-pilot aircraft.
+
+FCL.725.PL Flight instruction for the issue of type ratings — powered-lift aircraft
+
+The flight instruction part of the training course for a powered-lift type rating shall be completed in both the aircraft and an FSTD representing the aircraft and adequately qualified for this purpose.
+
+FCL.740.PL Revalidation of type ratings — powered-lift aircraft
+
+(a) Revalidation. For revalidation of powered-lift type ratings, the applicant shall:
+
+(1) pass a proficiency check in accordance with Appendix 9 to this Part in the relevant type of powered-lift within the 3 months immediately preceding the expiry date of the rating;
+
+(2) complete during the period of validity of the rating, at least:
+
+(i) 10 route sectors as pilot of the relevant type of powered-lift aircraft; or
+
+(ii) 1 route sector as pilot of the relevant type of powered-lift aircraft or FFS, flown with an examiner. This route sector may be flown during the proficiency check.
+
+(3) A pilot working for a commercial air transport operator approved in accordance with the applicable air operations requirements who has passed the operators proficiency check combined with the proficiency check for the revalidation of the type rating shall be exempted from complying with the requirement in (2).
+
+(b) An applicant who fails to achieve a pass in all sections of a proficiency check before the expiry date of a type rating shall not exercise the privileges of that rating until the a pass in the proficiency check has been achieved.
+
+**SECTION 5**
+
+**Specific requirements for the airship category**
+
+FCL.720.As Prerequisites for the issue of type ratings — airships
+
+Unless otherwise determined in the operational suitability data established in accordance with Part-21, an applicant for the first issue of an airship type rating shall comply with the following experience requirements and prerequisites:
+
+(a) for multi-pilot airships:
+
+(1) have completed 70 hours of flight time as PIC on airships;
+
+(2) hold a certificate of satisfactory completion of MCC on airships.
+
+(3) An applicant who does not comply with the requirement in (2) shall have the type rating issued with the privileges limited to exercising functions as co-pilot only. The limitation shall be removed once the pilot has completed 100 hours of flight time as PIC or pilot-in-command under supervision of airships.
+
+FCL.735.As Multi-crew cooperation training course — airships
+
+(a) The MCC training course shall comprise at least:
+
+(1) 12 hours of theoretical knowledge instruction and exercises; and
+
+(2) 5 hours of practical MCC training;
+
+An FNPT II, or III qualified for MCC, an FTD 2/3 or an FFS shall be used.
+
+(b) The MCC training course shall be completed within 6 months at an ATO.
+
+(c) Unless the MCC course has been combined with a multi-pilot type rating course, on completion of the MCC training course the applicant shall be given a certificate of completion.
+
+(d) An applicant having completed MCC training for any other category of aircraft shall be exempted from the requirements in (a).
+
+FCL.740.As Revalidation of type ratings — airships
+
+(a) Revalidation. For revalidation of type ratings for airships, the applicant shall:
+
+(1) pass a proficiency check in accordance with Appendix 9 to this Part in the relevant type of airship within the 3 months immediately preceding the expiry date of the rating; and
+
+(2) complete at least 2 hours as a pilot of the relevant airship type within the validity period of the rating. The duration of the proficiency check may be counted towards the 2 hours.
+
+(3) The revalidation of an IR(As), if held, may be combined with a proficiency check for the revalidation of a class or type rating.
+
+(b) An applicant who fails to achieve a pass in all sections of a proficiency check before the expiry date of a type rating shall not exercise the privileges of that rating until a pass in the proficiency check has been achieved.
+
+**SUBPART I**
+
+**ADDITIONAL RATINGS**
+
+**FCL.800 Aerobatic rating**
+
+(a) Holders of a pilot licence with privileges to fly aeroplanes or TMGs shall undertake aerobatic flights only if they hold an aerobatic rating in accordance with this point.
+
+(b) Applicants for an aerobatic rating shall have completed:
+
+(1) after the issue of the licence, at least 30 hours of flight time as PIC in aeroplanes or TMGs;
+
+(2) a training course at a DTO or at an ATO, including:
+
+(i) theoretical knowledge instruction appropriate for the rating;
+
+(ii) at least 5 hours of aerobatic instruction in aeroplanes or TMGs flown with engine power.
+
+(c) The privileges of the aerobatic rating shall be limited to aerobatic flight in either aeroplanes or TMGs flown with engine power, depending on which aircraft the requirements of (b)(1) and (b)(2)(ii) were complied with. This limitation shall be lifted upon application if a pilot has successfully completed at least 3 dual training flights in aeroplanes or TMGs flown with engine power, as applicable, covering the full aerobatic training syllabus.
+
+(d) Applicants for an aerobatic rating who also hold a TMG class rating as well as advanced aerobatic privileges for sailplanes with privileges as specified in point SFCL.200(d) of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 shall:
+
+(1) be exempted from getting their aerobatic rating limited to aeroplanes, as specified in paragraph (c) if they have complied with the requirements of (b)(1) and (b)(2)(ii) in aeroplanes, or
+
+(2) receive full credit towards the requirements in paragraph (b) for the issue of an aerobatic rating restricted to TMGs flown with engine power. This limitation shall be lifted upon application if a pilot has completed the training as specified in paragraph (c).
+
+**FCL.805 Sailplane towing and banner towing ratings**
+
+(a) Holders of a pilot licence with privileges to fly aeroplanes or TMGs shall only tow sailplanes or banners when they hold the appropriate sailplane towing or banner towing rating.
+
+(b) Applicants for a sailplane towing rating shall have completed:
+
+(1) at least 30 hours of flight time as PIC and 60 take-offs and landings in aeroplanes, if the activity is to be carried out in aeroplanes, or in TMGs, if the activity is to be carried out in TMGs, completed after the issue of the licence;
+
+(2) a training course at a DTO or at an ATO, including:
+
+(i) theoretical knowledge instruction on towing operations and procedures;
+
+(ii) at least 10 instruction flights towing a sailplane, including at least 5 dual instruction flights; and
+
+(iii) except for holders of an SPL in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, 5 familiarisation flights in a sailplane which is launched by an aircraft.
+
+(c) Applicants for a banner towing rating shall have completed:
+
+(1) at least 100 hours of flight time and 200 take-offs and landings as PIC on aeroplanes or TMG, after the issue of the licence. At least 30 of these hours shall be in aeroplanes, if the activity is to be carried out in aeroplanes, or in TMG, if the activity is to be carried out in TMGs;
+
+(2) a training course at a DTO or at an ATO, including:
+
+(i) theoretical knowledge instruction on towing operations and procedures;
+
+(ii) at least 10 instruction flights towing a banner, including at least 5 dual flights.
+
+(d) The privileges of the sailplane and banner towing ratings shall be limited to aeroplanes or TMGs appropriately to aircraft on which the flight instruction was completed. For banner towing, the privileges shall be limited to the towing method used for flight instruction. The privileges shall be extended if pilots have successfully completed at least three dual training flights covering the full towing training syllabus in either aircraft and towing method for banner towing.
+
+(e) In order to exercise the privileges of the sailplane or banner towing ratings, the holder of the rating shall have completed a minimum of 5 tows during the last 24 months.
+
+(f) When the pilot does not comply with the requirement in (e), before resuming the exercise of his/her privileges, the pilot shall complete the missing tows with or under the supervision of an instructor.
+
+(g) Applicants for a sailplane towing or banner towing rating on TMGs in accordance with this point shall receive full credit towards the requirements of paragraph (b) or (c), as applicable, if they hold a sailplane towing or banner towing rating in accordance with point SFCL.205 of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable, or if they have fulfilled all the requirements for the issue of that rating.
+
+**FCL.810 Night rating**
+
+(a) Aeroplanes, TMGs, airships.
+
+(1) Applicants shall have completed a training course within a period of up to 6 months at a DTO or at an ATO to exercise the privileges of an LAPL or a PPL for aeroplanes, TMGs or airships in VFR conditions at night. The course shall comprise:
+
+(i) theoretical knowledge instruction;
+
+(ii) at least 5 hours of flight time in the appropriate aircraft category at night, including at least 3 hours of dual instruction, including at least 1 hour of cross-country navigation with at least one dual cross-country flight of at least 50 km (27 NM) and 5 solo take-offs and 5 solo full-stop landings.
+
+(2) Before completing the training at night, LAPL holders shall have completed the basic instrument flight training required for the issue of the PPL.
+
+(3) When applicants hold both an SEP aeroplane-land and a TMG class rating, they may meet the requirements in point (1) in either class or in both classes.
+
+(4) Applicants for a night rating for aeroplanes or TMGs in accordance with this subparagraph shall receive full credit towards the requirements of subparagraphs (1) and (2) if they hold a TMG night rating in accordance with point SFCL.210 of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 or if they have fulfilled all the requirements for the issue of that rating.
+
+(b) Helicopters. If the privileges of a PPL for helicopters are to be exercised in VFR conditions at night, the applicant shall have:
+
+(1) completed at least 100 hours of flight time as pilot in helicopters after the issue of the licence, including at least 60 hours as PIC on helicopters and 20 hours of cross-country flight;
+
+(2) completed a training course at a DTO or at an ATO. The course shall be completed within a period of 6 months and comprise:
+
+(i) 5 hours of theoretical knowledge instruction;
+
+(ii) 10 hours of helicopter dual instrument instruction time; and
+
+(iii) 5 hours of flight time at night, including at least 3 hours of dual instruction, including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing.
+
+An applicant that holds or has held an IR in an aeroplane or TMG shall be credited with 5 hours towards the requirement in point (2)(ii) above.
+
+(c) Gyroplanes. If the privileges of a GPL are to be exercised in VFR conditions at night, applicants shall have:
+
+(1) completed at least 50 hours of flight time as pilot in gyroplanes after the issue of the licence, including at least 20 hours as PIC on gyroplanes and 20 hours of cross-country flight;
+
+(2) completed a training course at a DTO or at an ATO. The course shall be completed within a period of 6 months and comprise:
+
+(i) 5 hours of theoretical knowledge instruction;
+
+(ii) 3 hours of gyroplane dual instrument instruction time; and
+
+(iii) 5 hours of flight time at night, including at least 3 hours of dual instruction, including at least 1 hour of cross-country navigation and five solo night circuits; each circuit shall include a take-off and a landing.
+
+An applicant that holds or has held an instrument rating in an aeroplane or a helicopter shall be credited with 2 hours towards the requirement in point (2)(ii) above. An applicant that holds a night rating in an aeroplane, helicopter or TMG shall receive a full credit for the element specified in point (2)(i).
+
+**FCL.815 Mountain rating**
+
+(a) Privileges. The privileges of the holder of a mountain rating are to conduct flights with aeroplanes or TMGs to and from surfaces which are designated to require such a rating by the appropriate authorities designated by the Member States.
+
+Holders of an LAPL or a PPL with privileges to fly aeroplanes or TMGs may obtain the initial mountain rating either on:
+
+(1) wheels, to grant the privilege to fly to and from such surfaces when they are not covered by snow; or
+
+(2) skis, to grant the privilege to fly to and from such surfaces when they are covered by snow.
+
+(3) The privileges of the initial rating may be extended to either wheel or ski privileges when the pilot has undertaken an appropriate additional familiarisation course, including theoretical knowledge instruction and flight training, with a mountain flight instructor.
+
+(b) Training course. Applicants for a mountain rating shall have completed, within a period of 24 months, a course of theoretical knowledge instruction and flight training at a DTO or at an ATO. The content of the course shall be appropriate to the privileges of the mountain rating applied for.
+
+(c) Skill test. After the completion of the training, the applicant shall pass a skill test with an FE qualified for this purpose. The skill test shall contain:
+
+(1) a verbal examination of theoretical knowledge;
+
+(2) 6 landings on at least 2 different surfaces designated as requiring a mountain rating other than the surface of departure.
+
+(d) In order to exercise the privileges of the mountain rating, the holder of the rating shall, during the last 2 years, have complied with either of the following conditions:
+
+(1) completed at least six landings on a surface designated to require a mountain rating;
+
+(2) passed a proficiency check that complies with the requirements in point (c). The completion of the proficiency check shall be entered in the logbook of the pilot and signed by the responsible examiner.
+
+**FCL.820 Flight test rating**
+
+(a) Holders of a pilot licence for aeroplanes or helicopters shall only act as PIC in category 1 or 2 flight tests, as defined in Part-21, when they hold a flight test rating.
+
+(b) The obligation to hold a flight test rating established in point (a) shall only apply to flight tests conducted on:
+
+(1) helicopters certificated or to be certificated in accordance with the standards of CS-27 or CS-29 or equivalent airworthiness codes; or
+
+(2) aeroplanes certificated or to be certificated in accordance with:
+
+(i) the standards of CS-25 or equivalent airworthiness codes; or
+
+(ii) the standards of CS-23 or equivalent airworthiness codes, except for aeroplanes with a maximum take-off mass of 2 000 kg or less.
+
+(c) The privileges of the holder of a flight test rating are to, within the relevant aircraft category:
+
+(1) in the case of a category 1 flight test rating, conduct all categories of flight tests, as defined in Part-21, either as PIC or co-pilot;
+
+(2) in the case of a category 2 flight test rating:
+
+(i) conduct category 1 flight tests, as defined in Part-21:
+
+— as a co-pilot, or
+
+— as PIC, in the case of aeroplanes referred to in (b)(2)(ii), except for those within the commuter category or having a design diving speed above 0,6 mach or a maximum ceiling above 25 000 feet;
+
+(ii) conduct all other categories of flight tests, as defined in Part-21, either as PIC or co-pilot;
+
+(3) conduct flights without a type or class rating as defined in Subpart H, except that the flight test rating shall not be used for commercial air transport operations.
+
+(d) Applicants for the first issue of a flight test rating shall:
+
+(1) hold at least a CPL and an IR in the appropriate aircraft category;
+
+(2) have completed at least 1 000 hours of flight time in the appropriate aircraft category, of which at least 400 hours as PIC;
+
+(3) have completed a training course at an ATO appropriate to the intended aircraft and category of flights. The training shall cover at least the following subjects:
+
+— Performance,
+
+— Stability and control/Handling qualities,
+
+— Systems,
+
+— Test management,
+
+— Risk/Safety management.
+
+(e) The privileges of holders of a flight test rating may be extended to another category of flight test and another category of aircraft when they have completed an additional course of training at an ATO.
+
+**FCL.835 Basic instrument rating (BIR)**
+
+(a) Privileges and conditions
+
+(1) The privileges of a BIR holder are to conduct flights under IFR on single-pilot aeroplanes for which class ratings are held, with the exception of the following:
+
+(i) high-performance aeroplanes;
+
+(ii) aeroplane variants if operational suitability data has determined that an IR is required.
+
+(2) BIR privileges shall only be exercised in accordance with point FCL.205.A.
+
+(3) BIR privileges may be exercised at night only if the pilot holds a night rating in accordance with point FCL.810.
+
+(4) The privileges of a multi-engine BIR shall also be valid on single-engine aeroplanes for which the pilot holds a valid single-engine class rating.
+
+(5) The exercise of BIR privileges shall be subject to all of the following conditions:
+
+(i) the decision height (DH) or minimum descent height (MDH) used in aerodrome operating minima shall be at least 200 ft greater than what would otherwise be calculated according to point ‘NCO.OP.110 Aerodrome operating minima – aeroplanes and helicopters’ and point ‘NCO.OP.111 Aerodrome operating minima – NPA, APV, CAT I operations’ to Annex VII of Regulation (EU) No 965/2012; and
+
+(ii) the visibility used in aerodrome operating minima shall not be less than 1 500 m;
+
+(iii) the pilot-in-command shall not commence a flight under IFR or undertake a VFR-to-IFR transition, unless:
+
+(A) at the aerodrome of departure, the visibility is at least 1 500 m and the cloud ceiling is at least 600 ft, or the published circling minimum applicable to the aeroplane category, whichever is the greater; and
+
+(B) at the destination aerodrome and at any required alternate aerodrome the available current meteorological information indicates, for the period from 1 hour before until 1 hour after the estimated time of arrival, or from the actual time of departure to 1 hour after the estimated time of arrival, whichever period is shorter, a visibility of at least 1 500 m and a cloud ceiling of at least 600 ft, or the published circling minimum applicable to the aeroplane category, or the DH/MDH incremented by 200 ft in accordance with (i), whichever is the greater.
+
+(b) Prerequisites. Applicants for the BIR shall hold at least a PPL(A).
+
+(c) Training course. Applicants for the BIR shall have completed at an ATO:
+
+(1) theoretical knowledge instruction in accordance with point FCL.615(a); and
+
+(2) flight instruction that comprises the following instrument flight instruction modules:
+
+(i) module 1 – the core flying training module of flight handling skills by sole reference to instruments;
+
+(ii) module 2 – the applied flying training module of IFR departure, holding, 2D and 3D approach procedures;
+
+(iii) module 3 – the applied flying training module of en-route IFR flight procedures; and
+
+(iv) module 4 – if a multi-engine BIR is sought, the applied flying training module with one engine inoperative shall include asymmetric instrument approach and go-around procedures; and
+
+(3) flight instruction that complies with the following requirements:
+
+(i) The module specified in paragraph (c)(2)(i) shall be completed first. The modules specified in paragraphs (c)(2)(ii) and (c)(2)(iii), and, if applicable, (c)(2)(iv), may be completed in an order chosen by the applicant.
+
+(ii) The modules specified in paragraph (c)(2) may be completed in aeroplanes, FSTDs or a combination of these. In any case, the applicant shall receive training in the aeroplane to be used for the skill test.
+
+(iii) The modules specified in paragraphs (c)(2)(i), (c)(2)(ii) and (c)(2)(iv) may be commenced outside an ATO but shall be completed at an ATO. The module specified in point (c)(2)(iii) may be completed outside an ATO.
+
+(iv) Prior to commencing the module specified in paragraph (c)(2)(iv), a pilot who does not hold a multi-engine aeroplane class or type rating shall have received the multi-engine training specified in Subpart H of this Annex (Part-FCL).
+
+(d) Theoretical knowledge. Prior to taking the skill test and through examinations in the subjects referred to in point FCL.615(b), the applicants shall demonstrate a level of theoretical knowledge that is appropriate to the privileges granted. The theoretical knowledge examination shall consist of one examination paper associated with each module as specified in paragraphs (c)(2)(i), (c)(2)(ii) and (c)(2)(iii).
+
+(e) Skill test. After the completion of the training course specified in paragraph (c), the applicants shall pass a skill test in an aeroplane in accordance with Appendix 7 to this Annex. For a multi-engine BIR, the skill test shall be taken in a multi-engine aeroplane. For a single-engine BIR, the skill test shall be taken in a single-engine aeroplane. A multi-engine centreline thrust aeroplane shall be considered to be a single-engine aeroplane for the purposes of this paragraph.
+
+(f) By way of derogation from paragraph (d), holders of a single-engine BIR who also hold a multi-engine class rating and who wish to obtain a multi-engine BIR for the first time shall complete a training course at an ATO that comprises the training as specified in paragraph (c)(2)(iv) and shall pass the skill test referred to in paragraph (e).
+
+(g) Validity, revalidation and renewal
+
+(1) A BIR shall be valid for 1 year.
+
+(2) Applicants for the revalidation of a BIR shall:
+
+(i) within a period of three months immediately preceding the expiry date of the rating, pass a proficiency check in accordance with Appendix 9 to this Part; or
+
+(ii) within the validity period, complete 6 hours as PIC under IFR including three instrument approach procedures and complete a training flight of at least one hour with an instructor who holds privileges to provide training for the BIR.
+
+(3) For each alternate subsequent revalidation, the holder of the BIR shall pass a proficiency check in accordance with paragraph (2)(i) in an aeroplane.
+
+(4) If a pilot chooses to fulfil the revalidation requirements specified in paragraph (g)(2)(i) earlier than what is prescribed in that paragraph, the new validity period shall commence from the date of the proficiency check.
+
+(5) Applicants who fail to pass the relevant sections of a BIR proficiency check before the expiry date of the BIR shall not exercise the BIR privileges until they have passed the proficiency check.
+
+(6) If a BIR has expired, in order to renew their privileges, applicants shall:
+
+(i) where necessary to reach the level of proficiency needed, complete refresher training provided by an ATO or, if the BIR is expired for three years or less, by an instructor who holds privileges to provide training for the BIR; and
+
+(ii) pass a proficiency check in an aeroplane.
+
+(7) For a multi-engine BIR, the proficiency check for the revalidation or renewal as well as the flying training required in paragraph (g)(2)(ii) shall be completed in a multi-engine aeroplane.
+
+(8) The proficiency check for the revalidation or renewal of a BIR may be combined with a proficiency check for the revalidation or renewal of a single-pilot aeroplane class rating on which BIR privileges may be exercised in accordance with point FCL.835(a)(1).
+
+(h) Applicants for the BIR who hold a PPL or CPL issued in accordance with Annex I (Part-FCL) and a valid IR(A) issued in accordance with the requirements of Annex 1 to the Chicago Convention by a third country may be credited in full towards the training course referred to in paragraph (c)(2). In order to be issued with the BIR, the applicants shall:
+
+(1) successfully complete the skill test referred to in paragraph (e);
+
+(2) demonstrate orally to the examiner during the skill test that they have acquired an adequate level of theoretical knowledge of air law, meteorology, and flight planning and performance; and
+
+(3) have experience of at least 25 hours of flight time under IFR as PIC on aeroplanes.
+
+(j) The holder of an IR shall receive full credits for the requirement in paragraph (c)(2).
+
+**SUBPART J**
+
+**INSTRUCTORS**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.900 Instructor certificates
+
+(a) General. A person shall only carry out:
+
+(1) flight instruction in aircraft when he/she holds:
+
+(i) a pilot licence issued or accepted in accordance with this Regulation;
+
+(ii) an instructor certificate appropriate to the instruction given, issued in accordance with this Subpart;
+
+(2) synthetic flight instruction or MCC instruction when he/she holds an instructor certificate appropriate to the instruction given, issued in accordance with this Subpart.
+
+(b) Special conditions:
+
+(1) The competent authority may issue a specific certificate granting privileges for flight instruction when compliance with the requirements established in this Subpart is not possible in the case of the introduction of:
+
+(i) new aircraft in the Member States or in an operator's fleet; or
+
+(ii) new training courses in this Annex (Part-FCL).
+
+Such a certificate shall be limited to the training flights necessary for the introduction of the new type of aircraft or the new training course and its validity shall not, in any case, exceed 1 year.
+
+(2) Holders of a certificate issued in accordance with (b)(1) who wish to apply for the issue of an instructor certificate shall comply with the prerequisites and revalidation requirements established for that category of instructor. Notwithstanding FCL.905.TRI(b), a TRI certificate issued in accordance with this (sub)paragraph will include the privilege to instruct for the issue of a TRI or SFI certificate for the relevant type.
+
+(c) Instruction provided outside the territory of the Member States:
+
+(1) By way of derogation from point (a), in the case of flight instruction provided during a training course approved in accordance with this Annex outside the territory for which Member States are responsible under the Chicago Convention, the competent authority shall issue an instructor certificate to applicants who:
+
+(i) holds a pilot licence that meets all of the following criteria:
+
+(A) it complies with Annex 1 to the Chicago Convention;
+
+(B) in any case, it is at least a CPL in the relevant aircraft category with a relevant rating or certificate;
+
+(ii) complies with the requirements established in this Subpart for the issue of the relevant instructor certificate;
+
+(iii) demonstrates to the competent authority an adequate level of knowledge of European aviation safety rules to be able to exercise instructional privileges in accordance with this Annex.
+
+(2) The certificate shall be limited to providing flight instruction during a training course approved in accordance with this Annex which meets all of the following conditions:
+
+(i) it is provided outside the territory for which Member States are responsible under the Chicago Convention;
+
+(ii) it is provided to student pilots who have sufficient knowledge of the language in which flight instruction is provided.
+
+FCL.915 General prerequisites and requirements for instructors
+
+(a) General
+
+Applicants for the issue of an instructor certificate shall be at least 18 years of age.
+
+(b) Additional requirements for instructors that provide flight instruction in aircraft
+
+Applicants for the issue of or holders of an instructor certificate with privileges to conduct flight instruction in an aircraft shall:
+
+(1) for licence training, hold at least the licence or, in the case of point FCL.900(c), the equivalent licence, for which flight instruction is to be given;
+
+(2) for a rating training, hold the relevant rating or, in the case of point FCL.900(c), the equivalent rating, for which flight instruction is to be given;
+
+(3) except in the case of flight test instructors (FTIs), have:
+
+(i) completed at least 15 hours of flight time as pilots of the class or type of aircraft on which flight instruction is to be given, of which a maximum of 7 hours may be in an FSTD representing the class or type of aircraft, if applicable; or
+
+(ii) passed an assessment of competence for the relevant category of instructor on that class or type of aircraft;
+
+(4) be entitled to act as PIC in the aircraft during such flight instruction; and
+
+(5) when providing flight instruction in a variant of the SEP aeroplane class with a particular type of engine referred to in Article 2, point (8c), of this Regulation, have complied with one of the following conditions:
+
+(i) completed at least 5 hours of flight time as pilots in that variant;
+
+(ii) passed an assessment of competence for the relevant category of instructor in that variant.
+
+(c) Credit towards further instructor certificates and for the purpose of revalidation
+
+(1) Full credit towards the teaching and learning skills may be granted to:
+
+(i) holders of an instructor certificate who apply for further instructor certificates; and
+
+(ii) applicants for an instructor certificate who already hold an instructor certificate issued in accordance with Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 or with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.
+
+(2) Hours flown as an examiner during skill tests or proficiency checks shall be credited in full towards revalidation requirements for all instructor certificates held.
+
+(d) Credit for extension to further types shall take into account the relevant elements as defined in the operational suitability data established in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012 (OSD).
+
+(e) Additional requirements for instructing in a training course in accordance with FCL.745.A:
+
+(1) In addition to (b), before acting as instructors for a training course according to FCL.745.A, holders of an instructor certificate shall:
+
+(i) have at least 500 hours of flight time as pilots of aeroplanes, including 200 hours of flight instruction;
+
+(ii) after complying with the experience requirements in point (e)(1)(i), have completed a UPRT instructor training course at an ATO, during which the competence of applicants shall have been assessed continuously; and
+
+(iii) upon completion of the course, have been issued with a certificate of course completion by the ATO, whose Head of Training (HT) shall have entered the privileges specified in point (e)(1) in the logbook of the applicants.
+
+(2) The privileges referred to in point (e)(1) shall only be exercised if instructors have, during the last year, received refresher training at an ATO during which the competence required to instruct on a course in accordance with point FCL.745.A is assessed to the satisfaction of the HT.
+
+(3) Instructors holding the privileges specified in point (e)(1) may act as instructors for a course as specified in point (e)(1)(ii), provided that they:
+
+(i) have 25 hours of flight instruction experience during training according to FCL745.A;
+
+(ii) have completed an assessment of competence for this privilege; and
+
+(iii) comply with the recency requirements in point (e)(2).
+
+(4) These privileges shall be entered in the logbook of the instructors and signed by the examiner.
+
+FCL.920 Instructor competencies and assessment
+
+All instructors shall be trained to achieve the following competences:
+
+— Prepare resources,
+
+— Create a climate conducive to learning,
+
+— Present knowledge,
+
+— Integrate Threat and Error Management (TEM) and crew resource management,
+
+— Manage time to achieve training objectives,
+
+— Facilitate learning,
+
+— Assess trainee performance,
+
+— Monitor and review progress,
+
+— Evaluate training sessions,
+
+— Report outcome.
+
+FCL.925 Additional requirements for instructors for the MPL
+
+(a) Instructors conducting training for the MPL shall:
+
+(1) have successfully completed an MPL instructor training course at an ATO; and
+
+(2) additionally, for the basic, intermediate and advanced phases of the MPL integrated training course:
+
+(i) be experienced in multi-pilot operations; and
+
+(ii) have completed initial crew resource management training with a commercial air transport operator approved in accordance with the applicable air operations requirements.
+
+(b) MPL instructors training course
+
+(1) The MPL instructor training course shall comprise at least 14 hours of training.
+
+Upon completion of the training course, the applicant shall undertake an assessment of instructor competencies and of knowledge of the competency-based approach to training.
+
+(2) The assessment shall consist of a practical demonstration of flight instruction in the appropriate phase of the MPL training course. This assessment shall be conducted by an examiner qualified in accordance with Subpart K.
+
+(3) Upon successful completion of the MPL training course, the ATO shall issue an MPL instructor qualification certificate to the applicant.
+
+(c) In order to maintain the privileges, the instructor shall have, within the preceding 12 months, conducted within an MPL training course:
+
+(1) 1 simulator session of at least 3 hours; or
+
+(2) 1 air exercise of at least 1 hour comprising at least 2 take-offs and landings.
+
+(d) If the instructor has not fulfilled the requirements of (c), before exercising the privileges to conduct flight instruction for the MPL he/she shall:
+
+(1) receive refresher training at an ATO to reach the level of competence necessary to pass the assessment of instructor competencies; and
+
+(2) pass the assessment of instructor competencies as set out in (b)(2).
+
+FCL.930 Training course
+
+(a) An applicant for an instructor certificate shall have completed a course of theoretical knowledge and flight instruction at an ATO.
+
+(b) In addition to the specific elements set out in this Annex (Part-FCL) for each category of instructor, the training course shall contain the elements required in point FCL.920.
+
+FCL.935 Assessment of competence
+
+(a) Except for the multi-crew cooperation instructor (MCCI), the synthetic training instructor (STI), the mountain rating instructor (MI) and the flight test instructor (FTI), an applicant for an instructor certificate shall pass an assessment of competence in the appropriate aircraft category, in the relevant class or type or in the appropriate FSTD, to demonstrate to an examiner qualified in accordance with Subpart K of this Annex the ability to instruct a student pilot to the level required for the issue of the relevant licence, rating or certificate.
+
+(b) This assessment shall include:
+
+(1) the demonstration of the competencies described in FCL.920, during pre-flight, post-flight and theoretical knowledge instruction;
+
+(2) oral theoretical examinations on the ground, pre-flight and post-flight briefings and in-flight demonstrations in the appropriate aircraft class, type or FSTD;
+
+(3) exercises adequate to evaluate the instructor’s competencies.
+
+(c) The assessment shall be performed on the same class or type of aircraft or FSTD used for the flight instruction.
+
+(d) When an assessment of competence is required for revalidation of an instructor certificate, an applicant who fails to achieve a pass in the assessment before the expiry date of an instructor certificate shall not exercise the privileges of that certificate until the assessment has successfully been completed.
+
+FCL.940 Validity of instructor certificates
+
+With the exception of the MI, and without prejudice to points FCL.900 (b)(1) and FCL.915 (e)(2), instructor certificates shall be valid for a period of 3 years.
+
+FCL.945 Obligations for instructors
+
+Upon completion of the training flight for the revalidation of an SEP aeroplane or TMG class rating in accordance with point FCL.740.A(b)(1)(ii)(C) or for the revalidation of a single-engine helicopter type rating in accordance with point FCL.740.H(a)(2)(ii)(B), and only in the event of fulfilment of all the other revalidation criteria required by point FCL.740.A(b)(1)(ii) or point FCL.740.H(a)(2)(ii), as applicable, the instructor shall endorse the applicant’s licence with the new expiry date of the rating, if specifically authorised for that purpose by the competent authority responsible for the applicant’s licence.
+
+**SECTION 2**
+
+**Specific requirements for the flight instructor — FI**
+
+FCL.905.FI FI — Privileges and conditions
+
+The privileges of FIs are to conduct flight instruction for the issue, revalidation or renewal of:
+
+(a) a PPL, LAPL and GPL in the appropriate aircraft category;
+
+(b) class and type ratings for single-pilot aircraft, except for single-pilot high-performance complex aeroplanes;
+
+(c) class and type ratings for single-pilot aeroplanes, except for single-pilot high-performance complex aeroplanes, in multi-pilot operations, provided that FIs meet any of the following conditions:
+
+(1) hold or have held a TRI certificate for multi-pilot aeroplanes;
+
+(2) have completed all of the following:
+
+(i) at least 500 hours as pilots in multi-pilot operations on aeroplanes;
+
+(ii) the training course for an MCCI in accordance with point FCL.930.MCCI;
+
+(d) type ratings for single or multi-pilot airships;
+
+(e) a CPL in the appropriate aircraft category, provided that FIs have completed at least 200 hours of flight instruction in that aircraft category;
+
+(f) the night rating, provided that FIs meet all of the following conditions:
+
+(1) are qualified to fly at night in the appropriate aircraft category;
+
+(2) have demonstrated the ability to instruct at night to an FI qualified in accordance with point (j);
+
+(3) comply with the night experience requirement laid down in point FCL.060(b)(2);
+
+(g) a towing or aerobatic rating, provided that such privileges are held and the FI has demonstrated the ability to instruct for that rating to an FI who is qualified in accordance with point (j);
+
+(h) a BIR or an IR in the appropriate aircraft category, provided that FI meets the following conditions:
+
+(1) they have completed as student pilots the IRI training course and have passed an assessment of competence for the IRI certificate;
+
+(2) they comply with points FCL.915.CRI(a), FCL.930.CRI and FCL.935 in the case of multi-engine aeroplanes and with points FCL.910.TRI(c)(1) and FCL.915.TRI(d)(2) in the case of multi-engine helicopters;
+
+In addition to conditions (1) and (2):
+
+(3) if during an approved training course at an ATO, the FI is providing training in FSTDs or supervising SPIC training flights that take place under IFR, the FI shall have completed at least 50 hours of flight time under IFR after the issuance of the BIR or the IR, of which a maximum of 10 hours may be instrument ground time in an FFS, an FTD 2/3 or an FNPT II,;
+
+(4) if the FI is providing training in an aircraft, the FI shall have completed at least 200 hours of flight time under IFR, of which up to 50 hours may be instrument ground time in an FFS, an FTD 2/3 or an FNPT II;
+
+(i) single-pilot multi-engine class or type ratings, except for single-pilot high-performance complex aeroplanes, provided that they meet the following conditions:
+
+(1) in the case of aeroplanes, comply with points FCL.915.CRI(a), FCL.930.CRI and FCL.935;
+
+(2) in the case of helicopters, comply with points FCL.910.TRI(c)(1) and FCL.915.TRI(d)(2);
+
+(j) an FI, an IRI, a CRI, an STI or an MI certificate provided that they meet all of the following conditions:
+
+(1) they have completed at least 500 hours of flight instruction in the appropriate aircraft category;
+
+(2) they have passed an assessment of competence in accordance with point FCL.935 in the appropriate aircraft category to demonstrate to a flight instructor examiner (FIE) the ability to instruct for the relevant certificate;
+
+(k) an MPL, provided that the FIs meet all of the following conditions:
+
+(1) for the core flying phase of the training, have completed at least 500 hours of flight time as a pilot of aeroplanes, including at least 200 hours of flight instruction;
+
+(2) for the basic phase of the training:
+
+(i) hold a multi-engine aeroplane IR and the privilege to instruct for an IR;
+
+(ii) have completed at least 1 500 hours of flight time in multi-crew operations;
+
+(3) in the case of FIs already qualified to instruct on ATP(A) or CPL(A)/IR integrated courses, the requirement in point (2)(ii) may be replaced by the completion of a structured course of training consisting of:
+
+(i) MCC qualification;
+
+(ii) observation of five sessions of flight instruction in Phase 3 of an MPL course;
+
+(iii) observation of five sessions of flight instruction in Phase 4 of an MPL course;
+
+(iv) observation of five operator recurrent line-oriented flight training sessions;
+
+(v) the content of the MCCI course.
+
+In this case, FIs shall conduct their first five instructor sessions under the supervision of a TRI(A), an MCCI(A) or an SFI(A) qualified for MPL flight instruction.
+
+FCL.910.FI FI — Restricted privileges
+
+(a) An FI shall have his or her privileges limited to conducting flight instruction under the supervision of an FI for the same category of aircraft nominated by the DTO or the ATO for this purpose, in the following cases:
+
+(1) for the issue of the PPL and LAPL;
+
+(2) in all integrated courses at PPL level, in case of aeroplanes and helicopters;
+
+(3) for class and type ratings for single-pilot, single-engine aircraft, except for single-pilot high-performance complex aeroplanes;
+
+(4) for the night, towing or aerobatic ratings.
+
+(b) While conducting training under supervision, in accordance with (a), the FI shall not have the privilege to authorise student pilots to conduct first solo flights and first solo cross-country flights.
+
+(c) The limitations in (a) and (b) shall be removed from the FI certificate when the FI has completed at least:
+
+(1) for the FI(A), 100 hours of flight instruction in aeroplanes or TMGs and, in addition has supervised at least 25 student solo flights;
+
+(2) for the FI(H) 100 hours of flight instruction in helicopters and, in addition has supervised at least 25 student solo flight air exercises;
+
+(3) for the FI(As), 15 hours or 50 take-offs of flight instruction covering the full training syllabus for the issue of a PPL(As);
+
+(4) for the FI(G):
+
+(i) 100 hours of flight instruction in gyroplanes and, in addition, has supervised at least 25 solo flights;
+
+(ii) in the case of an FI(G) who also holds an FI(A) or FI(H) certificate and complies with points (1) or (2), as applicable, 25 hours of flight instruction in gyroplanes and, in addition, has supervised at least 10 student solo flights.
+
+FCL.915.FI FI — Prerequisites
+
+An applicant for an FI certificate shall:
+
+(a) in the case of the FI(A), FI(H) and FI(G):
+
+(1) have received at least 10 hours of instrument flight instruction on the appropriate aircraft category, of which not more than 5 hours may be instrument ground time in an FSTD;
+
+(2) have completed 20 hours of VFR cross-country flight on the appropriate aircraft category as PIC; and
+
+(b) additionally, for the FI(A):
+
+(1) hold at least a CPL(A); or
+
+(2) hold at least a PPL(A), or hold an MPL with additional PPL privileges in accordance with point FCL.405.A(b)(1), and have complied with the following conditions:
+
+(i) except for an FI(A) providing training for the LAPL(A) only, passed the CPL theoretical knowledge examination, which may be taken without completing a CPL theoretical knowledge training course and which in that case shall not be valid for any of the following:
+
+(A) the issue of a CPL;
+
+(B) receiving credits for CPL theoretical knowledge in accordance with point FCL.035 and Appendix 1;
+
+(ii) completed at least 200 hours of flight time on aeroplanes or TMGs, of which 150 hours as PIC;
+
+(3) have completed at least 30 hours in the class or type of aeroplane used for the FI(A) training course, of which at least 5 hours shall have been completed during the 6 months preceding the pre-entry flight assessment set out in point FCL.930.FI(a);
+
+(4) have completed a VFR cross-country flight as PIC, including a flight of at least 540 km (300 NM) in the course of which full stop landings at 2 different aerodromes shall be made;
+
+(c) additionally, for the FI(H), have completed 250 hours total flight time as pilot on helicopters of which:
+
+(1) at least 100 hours shall be as PIC, if the applicant holds at least a CPL(H); or
+
+(2) at least 200 hours as PIC if the applicant holds at least a PPL(H) and has passed the CPL theoretical knowledge examination, which may be taken without completing a CPL theoretical knowledge training course and which shall not be valid for the issue of a CPL;
+
+(ca) additionally, for the FI(G), have completed at least 150 hours of flight time on gyroplanes, of which at least 100 hours as PIC;
+
+(d) for an FI(As), have completed 500 hours of flight time on airships as PIC, of which 400 hours shall be as PIC holding a CPL(As).
+
+FCL.930.FI FI — Training course
+
+(a) Applicants for the FI certificate shall, at an ATO, have passed a specific pre-entry flight assessment with an FI qualified in accordance with point FCL.905.FI(j) within the 6 months preceding the start of the course, to assess their ability to undertake the course. That pre-entry flight assessment shall be based on the proficiency check for the class and type ratings as set out in Appendix 9.
+
+(b) The FI training course shall include:
+
+(1) 25 hours of teaching and learning;
+
+(2) at least 100 hours of theoretical knowledge instruction, including progress tests;
+
+(3)
+
+(i) in the case of an FI(A), (H) and (G), at least 30 hours of flight instruction, of which 25 hours shall be dual flight instruction, of which 5 hours may be conducted in an FFS, an FNPT I or II, or an FTD 2/3;
+
+(ii) in the case of an FI(As), at least 20 hours of flight instruction, of which 15 hours shall be dual flight instruction;
+
+(c) Applicants for an FI certificate in another category of aircraft who are holding or have held an FI(A), (H), (As) or (G) shall be credited with 55 hours towards the requirement in point (b)(2).
+
+(d) Applicants for an FI(G) certificate that hold or have held an FI(A), (H) or (As) certificate shall be credited with 15 hours towards the requirement in point (b)(3)(i), of which a maximum of 10 hours shall be a credit towards the dual instruction time.
+
+(e) Applicants for the FI certificate who hold or have held any other instructor certificate issued in accordance with this Annex shall be deemed to meet the requirements in point (b)(1).
+
+FCL.940.FI FI — Revalidation and renewal
+
+(a) Revalidation
+
+(1) To revalidate an FI certificate, holders shall fulfil at least two out of the three following requirements before the expiry date of the FI certificate:
+
+(i) they have completed:
+
+(A) in the case of an FI(A) and an FI(H), at least 50 hours of flight instruction in the appropriate aircraft category as FIs, TRIs, CRIs, IRIs MIs or examiners. If the privileges to instruct for the BIR and the IR are to be revalidated, 10 of those 50 hours shall be flight instruction for a BIR or an IR and shall have been completed within the last 12 months immediately preceding the expiry date of the FI certificate;
+
+(B) in the case of an FI(As), at least 20 hours of flight instruction in airships as FIs, IRIs or as examiners. If the privileges to instruct for the IR are to be revalidated, 10 of those hours shall be flight instruction for an IR and shall have been completed in the period of 12 months immediately preceding the expiry date of the FI certificate;
+
+(C) in the case of an FI(G), at least 50 hours of flight instruction in gyroplanes as FIs or as examiners;
+
+(ii) they have completed instructor refresher training as an FI at an ATO or at the competent authority;
+
+(iii) they have passed an assessment of competence in accordance with point FCL.935 in the period of 12 months immediately preceding the expiry date of the FI certificate.
+
+(2) For at least each alternate revalidation, in the case of FI(A), FI(H) or FI(G), or each third revalidation, in the case of FI(As), holders of the relevant FI certificate shall pass an assessment of competence in accordance with point FCL.935.
+
+(b) Renewal.
+
+If the FI certificate has expired, applicants shall, within a period of 12 months before the application date for the renewal, complete instructor refresher training as an FI at an ATO or at a competent authority and complete an assessment of competence in accordance with point FCL.935.
+
+**SECTION 4**
+
+**Specific requirements for the type rating instructor — TRI**
+
+FCL.905.TRI TRI – Privileges and conditions
+
+(a) The privileges of a TRI are to instruct for:
+
+(1) the revalidation and renewal of an IR, provided the TRI holds a valid IR;
+
+(2) the issue of a TRI or SFI certificate, provided that the holder meets all of the following conditions:
+
+(i) has at least 50 hours of instructional experience as a TRI or SFI in accordance with this Regulation or Regulation (EU) No 965/2012;
+
+(ii) has conducted the flight instruction syllabus of the relevant part of the TRI training course in accordance with point FCL.930.TRI(ab)(3) to the satisfaction of the head of training of an ATO;
+
+(3) in the case of the TRI for single-pilot aeroplanes:
+
+(i) the issue, revalidation and renewal of type ratings for single-pilot high-performance complex aeroplanes provided that the applicant seeks privileges to operate in single-pilot operations.
+
+The privileges of the TRI(SPA) may be extended to flight instruction for single-pilot high-performance complex aeroplane type ratings in multi-pilot operations, provided that the TRI meets any of the following conditions:
+
+(A) holds or has held a TRI certificate for multi-pilot aeroplanes;
+
+(B) has at least 500 hours on aeroplanes in multi-pilot operations and completed an MCCI training course in accordance with point FCL.930.MCCI;
+
+(ii) the MPL course on the basic phase, provided that he or she has the privileges extended to multi-pilot operations and holds or has held an FI(A) or an IRI(A) certificate;
+
+(4) in the case of the TRI for multi-pilot aeroplanes:
+
+(i) the issue, revalidation and renewal of type ratings for:
+
+(A) multi-pilot aeroplanes;
+
+(B) single-pilot high-performance complex aeroplanes when the applicant seeks privileges to operate in multi-pilot operations;
+
+(ii) MCC training;
+
+(iii) the MPL course on the basic, intermediate and advanced phases, provided that, for the basic phase, he or she holds or has held an FI(A) or IRI(A) certificate;
+
+(5) in the case of the TRI for helicopters:
+
+(i) the issue, revalidation and renewal of helicopter type ratings;
+
+(ii) MCC training, provided that he or she has completed 350 hours of flight time as a pilot in multi-pilot operations in any aircraft category.
+
+(6) in the case of the TRI for powered-lift aircraft:
+
+(i) the issue, revalidation and renewal of powered-lift type ratings;
+
+(ii) MCC training.
+
+(b) The privileges of a TRI include privileges to conduct EBT practical assessment at an EBT operator, provided that the instructor complies with the requirements of Annex III (Part-ORO) to Regulation (EU) No 965/2012 for EBT instructor standardisation at that EBT operator.
+
+FCL.910.TRI TRI — Restricted privileges
+
+(a) General. If the TRI training is carried out in FSTDs only, the privileges of TRIs shall be restricted to training in FSTDs. This restriction shall however include the following privileges for conducting, in the aircraft:
+
+(1) LIFUS, provided that the TRI training course has included the relevant training specified in point FCL.930.TRI(ab)(4)
+
+(2) landing training, provided that the TRI training course has included the relevant training specified in point FCL.930.TRI(ab)(4); or
+
+(3) the training flight specified in point FCL.060(c)(2), provided that the TRI training course has included the training referred to in points (a)(1) or (a)(2).
+
+The restriction to FSTD shall be removed if TRIs have completed an assessment of competence in the aircraft.
+
+(b) TRIs for aeroplanes and for powered-lift aircraft — TRI(A) and TRI(PL). The privileges of TRIs are restricted to the type of aeroplane or powered-lift aircraft in which the training and the assessment of competence were conducted. Unless otherwise determined in the OSD, to extend the privileges of TRIs to further types, TRIs shall have:
+
+(1) completed within the 12 months preceding the application, at least 15 route sectors, including take-offs and landings on the applicable aircraft type, of which of maximum of 7 sectors may be completed in an FSTD;
+
+(2) completed the relevant parts of the technical training and the flight instruction parts of the applicable TRI course;
+
+(3) passed the relevant sections of the assessment of competence in accordance with point FCL.935 in order to demonstrate to an FIE or a TRE qualified in accordance with Subpart K to this Annex their ability to instruct a pilot to the level required for the issue of a type rating, including pre-flight, post-flight and theoretical knowledge instruction.
+
+The privileges of TRIs shall be extended to further variants, provided that they comply with point FCL.710 in those other variants and, where applicable, the elements set out in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012 for those variants.
+
+(c) TRIs for helicopters — TRI(H).
+
+(1) The privileges of TRIs(H) are restricted to the type of helicopter in which the assessment of competence for the issue of the TRI certificate was taken. Unless otherwise determined in the OSD, the privileges of the TRIs shall be extended to further types if TRIs have:
+
+(i) completed the relevant parts of the technical training and flight instruction parts of the TRI course;
+
+(ii) completed within the 12 months preceding the date of application, at least 10 hours on the applicable helicopter type, of which a maximum of 5 hours may be completed in an FFS or FTD 2/3; and
+
+(iii) passed the relevant sections of the assessment of competence in accordance with point FCL.935 in order to demonstrate to an FIE or a TRE qualified in accordance with Subpart K of this Annex their ability to instruct a pilot to the level required for the issue of a type rating, including pre-flight, post-flight and theoretical knowledge instruction.
+
+The privileges of TRIs shall be extended to further variants, provided that they comply with point FCL.710 in those other variants and, where applicable, the elements set out in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012 for those variants.
+
+(2) In order to extend the privileges of a TRI(H) to multi-pilot operations in the same type of single-pilot helicopters, the holder shall have at least 350 hours of flight time as a pilot in multi-pilot operations in any aircraft category or have at least 100 hours of flight time as a pilot in multi-pilot operations on the specific type within the last 2 years.
+
+(3) Before the privileges of a TRI(H) are extended from single-pilot helicopters to multi-pilot helicopters, the holder shall comply with point FCL.915.TRI(d)(3).
+
+(d) Notwithstanding the points above, holders of a TRI certificate who received a type rating in accordance with point FCL.725(e) shall be entitled to have their TRI privileges extended to that new type of aircraft.
+
+FCL.915.TRI TRI — Prerequisites
+
+An applicant for a TRI certificate shall:
+
+(a) hold a CPL, MPL or ATPL pilot licence on the applicable aircraft category;
+
+(b) for a TRI(MPA) certificate:
+
+(1) have completed 1 500 hours flight time as a pilot on multi-pilot aeroplanes; and
+
+(2) have completed, within the 12 months preceding the date of application, 30 route sectors, including take-offs and landings, as PIC or co-pilot on the applicable aeroplane type, of which 15 sectors may be completed in an FFS representing that type;
+
+(c) for a TRI(SPA) certificate:
+
+(1) have completed, within the 12 months preceding the date of the application, at least 30 route sectors, including take-offs and landings, as PIC on the applicable aeroplane type, of which a maximum of 15 sectors may be completed in an FSTD representing that type; and
+
+(2)
+
+(i) have competed at least 500 hours flight time as pilot on aeroplanes, including 30 hours as PIC on the applicable type of aeroplane; or
+
+(ii) hold or have held an FI certificate for multi-engine aeroplanes with IR(A) privileges;
+
+(d) for TRI(H):
+
+(1) for a TRI(H) certificate for single-pilot single-engine helicopters, either:
+
+(i) have completed 250 hours as a pilot on helicopters; or
+
+(ii) hold an FI(H) certificate.
+
+(2) for a TRI(H) certificate for single-pilot multi-engine helicopters, either:
+
+(i) have completed 500 hours as pilot of helicopters, including 100 hours as PIC in single-pilot multi-engine helicopters; or
+
+(ii) hold an FI(H) certificate and have completed 100 hours of flight time as a pilot in multi-engine helicopters.
+
+(3) for a TRI(H) certificate for multi-pilot helicopters, have completed 1 000 hours of flight time as a pilot on helicopters, and have either 350 hours in multi-pilot operations on any aircraft category or 100 hours of flight time as a pilot in multi-pilot operations on the type for which the TRI(H) certificate is sought;
+
+(e) for TRI(PL):
+
+(1) have completed 1 500 hours flight time as a pilot on multi-pilot aeroplanes, powered-lift, or multi-pilot helicopters; and
+
+(2) have completed, within the 12 months preceding the application, 30 route sectors, including take-offs and landings, as PIC or co-pilot on the applicable powered-lift type, of which 15 sectors may be completed in an FFS representing that type.
+
+FCL.930.TRI TRI — Training course
+
+(a) The TRI training course shall be conducted:
+
+(1) in the case of MPA, in an FFS or a combination of FSTD(s) and FFS;
+
+(2) in the case of type ratings for SPA and helicopters, in either of the following:
+
+(i) an available and accessible FFS, or in a combination of such FFS and FSTD(s);
+
+(ii) a combination of FSTD(s) and the aircraft if an FFS is not available or accessible;
+
+(iii) the aircraft if no FSTD is available or accessible.
+
+(aa) By way of derogation from point (a), the TRI training course:
+
+(1) for non-complex helicopters may be conducted in a combination of FSTD(s) and the aircraft even if an FFS is available and accessible;
+
+(2) for aircraft referred to in Section A, point 1e, of Appendix 9 may be conducted in accordance with points FCL.930.TRI(a)(2)(i), (ii) or (iii), irrespective of the availability and accessibility of FFS or FSTD.
+
+(ab) The TRI training course shall include:
+
+(1) 25 hours of teaching and learning;
+
+(2) 10 hours of technical training, including revision of technical knowledge, the preparation of lesson plans and the development of classroom or simulator instructional skills;
+
+(3) 5 hours of flight instruction on the appropriate aircraft or an FSTD representing that aircraft for single-pilot aircraft and 10 hours for multi-pilot aircraft or an FSTD representing that aircraft;
+
+(4) if privileges for conducting LIFUS or take-off and landing training are sought, the following training, as applicable:
+
+(i) in an FSTD and related to the relevant privileges, additional specific training which, in the case of privileges for conducting take-off and landing training, shall include training for emergency procedures related to the aircraft;
+
+(ii) consolidation of the specific training in accordance with point (4)(i), where the applicant shall, in the aircraft, provide LIFUS or take-off and landing training, as applicable, under the supervision of a TRI that is nominated for that purpose by the ATO.
+
+(b) Applicants holding or having held an instructor certificate shall be fully credited towards the requirement of point (ab)(1).
+
+(c) An applicant for a TRI certificate who holds an SFI certificate for the relevant type shall be fully credited towards the requirements of this paragraph for the issue of a TRI certificate restricted to flight instruction in simulators.
+
+FCL.935.TRI TRI — Assessment of competence
+
+(a) The assessment of competence for a TRI for MPA and PL shall be conducted in an FFS. If no FFS is available or accessible, an aircraft shall be used.
+
+(b) The assessment of competence for a TRI for single-pilot high-performance complex aeroplanes and helicopters shall be conducted in any of the following:
+
+(1) an available and accessible FFS;
+
+(2) if no FFS is available or accessible, in a combination of FSTD(s) and an aircraft;
+
+(3) if no FSTD is available or accessible, in an aircraft.
+
+(c) By way of derogation from point (b), the assessment of competence:
+
+(1) for TRIs for non-complex helicopters may be conducted in a combination of FSTD(s) and the aircraft even if an FFS is available and accessible;
+
+(2) for TRIs for helicopters referred to in Section A, point 1e(c), of Appendix 9 may be conducted in accordance with points FCL.935.TRI(b)(1), (2) or (3), irrespective of the availability and accessibility of an FFS or FSTD.
+
+FCL.940.TRI TRI — Revalidation and renewal
+
+(a) Revalidation
+
+(1) Aeroplanes
+
+To revalidate a TRI(A) certificate, applicants shall, within the 12 months immediately preceding the expiry date of the certificate fulfil at least two out of the three following requirements:
+
+(i) conduct one of the following parts of a complete type rating or recurrent training course: simulator session of at least 3 hours or one air exercise of at least 1 hour comprising a minimum of two take-offs and landings;
+
+(ii) complete instructor refresher training as a TRI(A) at an ATO;
+
+(iii) pass the assessment of competence in accordance with point FCL.935. Applicants who have complied with point FCL.910.TRI (b)(3) shall be deemed to comply with this requirement.
+
+(2) Helicopters and powered lift
+
+To revalidate a TRI (H) or TRI(PL) certificate, applicants shall, within the validity period of the TRI certificate fulfil at least two out of the three following requirements:
+
+(i) completed at least 50 hours of flight instruction in each of the types of aircraft for which instructional privileges are held or in an FSTD representing those types, of which at least 15 hours shall be completed in the period of 12 months immediately preceding the expiry date of the TRI certificate. In the case of a TRI(PL), those hours shall be completed as a TRI or a type rating examiner (TRE), or as an SFI or a synthetic flight examiner (SFE). In the case of a TRI(H), the time flown as FIs, instrument rating instructors (IRIs), synthetic training instructors (STIs) or as any kind of examiners shall be accounted for this purpose;
+
+(ii) complete instructor refresher training as a TRI(H) or TRI(PL), as relevant, at an ATO;
+
+(iii) in the period of 12 months immediately preceding the expiry date of the certificate, passed an assessment of competence in accordance with points FCL.935, FCL.910.TRI(b)(3) or FCL.910.TRI(c)(3), as applicable.
+
+(3) For at least each alternate revalidation of a TRI certificate, holders shall pass the assessment of competence in accordance with point FCL.935.
+
+(4) If TRIs hold a certificate for more than one type of aircraft within the same category, the assessment of competence taken on one of those types of aircraft shall revalidate the TRI certificate for the other types held within the same category of aircraft, unless it is otherwise determined in the OSD.
+
+(5) Specific requirements for the revalidation of a TRI(H) certificate
+
+TRIs(H) holding an FI(H) certificate in the relevant type shall be deemed to comply with the requirements in point (a). In that case, the TRI(H) certificate shall be valid until the expiry date of the FI(H) certificate.
+
+(b) Renewal
+
+To renew a TRI certificate, applicants shall, within the 12 months immediately preceding the date of the application, have passed the assessment of competence in accordance with point FCL.935 and shall have completed the following:
+
+(1) for aeroplanes:
+
+(i) at least 30 route sectors, including take-offs and landings on the applicable aeroplane type, of which maximum 15 sectors may be completed in an FFS;
+
+(ii) instructor refresher training as a TRI at an ATO which shall cover the relevant elements of the TRI training course;
+
+(2) for helicopters and powered lift:
+
+(i) at least 10 hours of flight time, including take-offs and landings on the applicable aircraft type, of which maximum 5 hours may be completed in an FFS or FTD 2/3;
+
+(ii) instructor refresher training as a TRI at an ATO, which shall cover the relevant elements of the TRI training course.
+
+(3) If applicants held a certificate for more than one type of aircraft within the same category, the assessment of competence taken on one of those types of aircraft shall renew the TRI certificate for the other types held within the same category of aircraft, unless it is otherwise determined in the OSD.
+
+**SECTION 5**
+
+**Specific requirements for the class rating instructor — CRI**
+
+FCL.905.CRI CRI — Privileges and conditions
+
+(a) The privileges of a CRI are to instruct for:
+
+(1) the issue, revalidation or renewal of a class or type rating for single-pilot aeroplanes, except for single-pilot high performance complex aeroplanes, when the privileges sought by the applicant are to fly in single-pilot operations;
+
+(2) a towing or aerobatic rating for the aeroplane category, provided that the CRI holds the relevant rating and has demonstrated the ability to instruct for that rating to an FI qualified in accordance with point FCL.905.FI(j);
+
+(3) extension of LAPL(A) privileges to another class or variant of aeroplane.
+
+(b) The privileges of a CRI are restricted to the class or type of aeroplane in which the instructor assessment of competence was taken. The privileges of the CRI shall be extended to further classes or types when the CRI has completed, within the last 12 months:
+
+(1) 15 hours flight time as PIC on aeroplanes of the applicable class or type of aeroplane;
+
+(2) one training flight from the right hand seat under the supervision of another CRI or FI qualified for that class or type occupying the other pilot’s seat.
+
+(ba) The privileges of CRIs are to instruct for class and type ratings for single-pilot aeroplanes, except for single-pilot high-performance complex aeroplanes, in multi-pilot operations, provided that CRIs meet any of the following conditions:
+
+(1) hold or have held a TRI certificate for multi-pilot aeroplanes;
+
+(2) have at least 500 hours on aeroplanes in multi-pilot operations and completed an MCCI training course in accordance with point FCL.930.MCCI.
+
+(c) Applicants for a CRI for multi-engine aeroplanes holding a CRI certificate for single-engine aeroplanes shall have fulfilled the prerequisites for a CRI established in FCL.915.CRI(a) and the requirements of FCL.930.CRI(a)(3) and FCL.935.
+
+FCL.915.CRI CRI — Prerequisites
+
+An applicant for a CRI certificate shall have completed at least:
+
+(a) for multi-engine aeroplanes:
+
+(1) 500 hours flight time as a pilot on aeroplanes;
+
+(2) 30 hours as PIC on the applicable class or type of aeroplane;
+
+(b) for single-engine aeroplanes:
+
+(1) 300 hours flight time as a pilot on aeroplanes;
+
+(2) 30 hours as PIC on the applicable class or type of aeroplane.
+
+FCL.930.CRI CRI — Training course
+
+(a) The training course for the CRI shall include, at least:
+
+(1) 25 hours of teaching and learning instruction;
+
+(2) 10 hours of technical training, including revision of technical knowledge, the preparation of lesson plans and the development of classroom/simulator instructional skills;
+
+(3) 5 hours of flight instruction on multi-engine aeroplanes or an FSTD representing that class or type of aeroplane, including at least 3 hours on the aeroplane, or at least 3 hours of flight instruction on single-engine aeroplanes, given by an FI(A) qualified in accordance with point FCL.905.FI(j).
+
+(b) Applicants holding or having held an instructor certificate shall be fully credited towards the requirement of (a)(1).
+
+FCL.940.CRI CRI — Revalidation and renewal
+
+(a) To revalidate a CRI certificate, applicants shall fulfil, within the validity period of the CRI certificate, at least two out of the following three requirements:
+
+(1) conduct at least 10 hours of flight instruction as a CRI. If applicants have CRI privileges on both single-engine and multi-engine aeroplanes, those hours of flight instruction shall be equally divided between single-engine and multi-engine aeroplanes;
+
+(2) complete a refresher training as a CRI at an ATO or at a competent authority;
+
+(3) pass the assessment of competence in accordance with point FCL.935 for multi-engine or single-engine aeroplanes, as relevant.
+
+(b) For at least each alternate revalidation of a CRI certificate, holders shall have complied with the requirement in point (a)(3).
+
+(c) Renewal
+
+If the CRI certificate has expired, it shall be renewed if the applicants in the period of 12 months before the application for the renewal:
+
+(1) have completed a refresher training as a CRI at an ATO or at a competent authority;
+
+(2) have completed the assessment of competence as required by point FCL.935.
+
+**SECTION 6**
+
+**Specific requirements for the instrument rating instructor — IRI**
+
+FCL.905.IRI IRI — Privileges and conditions
+
+(a) The privileges of IRIs are to instruct for the issue, revalidation and renewal of a BIR and an IR in the appropriate aircraft category.
+
+(b) Specific requirements for the MPL course. To instruct for the basic phase of training on an MPL course, the IRI(A) shall:
+
+(1) hold an IR for multi-engine aeroplanes; and
+
+(2) have completed at least 1 500 hours of flight time in multi-crew operations.
+
+(3) In the case of IRI already qualified to instruct on ATP(A) or CPL(A)/IR integrated courses, the requirement of point FCL.905.IRI(b)(2) may be replaced by the completion of the course provided for in point FCL.905.FI(k)(3).
+
+FCL.915.IRI IRI — Prerequisites
+
+Applicants for an IRI certificate shall:
+
+(a) in case of an IRI(A):
+
+(1) to provide training in FSTDs during an approved training course at an ATO, have completed at least 200 hours of flight time under IFR after the issuance of the BIR or the IR, of which at least 50 hours shall be in aeroplanes;
+
+(2) to provide training in an aeroplane, have completed at least 800 hours of flight time under IFR, of which at least 400 hours shall be in aeroplanes;
+
+(3) to apply for an IRI(A) for multi-engine aeroplanes, meet the requirements of points FCL.915.CRI(a), FCL.930.CRI and FCL.935;
+
+(b) for an IRI(H):
+
+(1) to provide training in FSTDs during an approved training course at an ATO, have completed at least 125 hours of flight time under IFR after the issuance of the IR, of which at least 65 hours shall be instrument flight time in helicopters;
+
+(2) to provide training in a helicopter, have completed at least 500 hours of flight time under IFR, of which at least 250 hours shall be instrument flight time in helicopters; and
+
+(3) when seeking privileges to provide training in multi-engine helicopters, meet the requirements of points FCL.910.TRI(c)(1) and FCL.915.TRI(d)(2);
+
+(c) Applicants for an IRI(As) certificate shall have completed at least 300 hours of flight time under IFR, of which at least 100 hours shall be instrument flight time in airships.
+
+FCL.930.IRI IRI — Training course
+
+(a) The training course for the IRI shall include, at least:
+
+(1) 25 hours of teaching and learning instruction;
+
+(2) 10 hours of technical training, including revision of instrument theoretical knowledge, the preparation of lesson plans and the development of classroom instructional skills;
+
+(3)
+
+(i) for the IRI(A), at least 10 hours of flight instruction on an aeroplane, FFS, FTD 2/3 or FPNT II. In the case of applicants holding an FI(A) certificate, these hours are reduced to 5;
+
+(ii) for the IRI(H), at least 10 hours of flight instruction on a helicopter, FFS, FTD 2/3 or FNPT II/III. In the case of applicants holding an FI(H) certificate, those hours are reduced to at least 5;
+
+(iii) for the IRI(As), at least 10 hours of flight instruction on an airship, FFS, FTD 2/3 or FNPT II.
+
+(b) Flight instruction shall be given by an FI qualified in accordance with point FCL.905.FI(j).
+
+(c) Applicants holding or having held an instructor certificate shall be fully credited towards the requirement of (a)(1).
+
+FCL.940.IRI IRI — Revalidation and renewal
+
+For revalidation and renewal of an IRI certificate, the holder shall meet the requirements for revalidation and renewal of an FI certificate, in accordance with FCL.940.FI.
+
+**SECTION 7**
+
+**Specific requirements for the synthetic flight instructor — SFI**
+
+FCL.905.SFI SFI — Privileges and conditions
+
+(a) The privileges of SFIs are to carry out synthetic flight instruction, within the relevant aircraft category, for:
+
+(1) the revalidation and renewal of an IR, provided that they hold or have held an IR in the relevant aircraft category;
+
+(2) the issue of an IR, provided that they hold or have held an IR in the relevant aircraft category and have completed an IRI training course.
+
+(b) The privileges of SFIs for single-pilot aeroplanes are to carry out synthetic flight instruction for:
+
+(1) the issue, revalidation and renewal of type ratings for single-pilot high performance complex aeroplanes, if applicants seek privileges to operate in single-pilot operations.
+
+The privileges of SFIs for single-pilot aeroplanes may be extended to flight instruction for single-pilot high performance complex aeroplanes type ratings in multi-pilot operations, provided that they meet any of the following conditions:
+
+(i) hold or have held a TRI certificate for multi-pilot aeroplanes;
+
+(ii) have at least 500 hours on aeroplanes in multi-pilot operations and have completed an MCCI training course in accordance with point FCL.930.MCCI;
+
+(2) the MCC and the MPL training courses on the basic phase, provided that the privileges of SFIs(SPA) have been extended to multi-pilot operations in accordance with point (1).
+
+(c) The privileges of SFIs for multi-pilot aeroplanes are to carry out synthetic flight instruction for:
+
+(1) the issue, revalidation and renewal of type ratings for multi-pilot aeroplanes and if applicants seek privileges to operate in multi-pilot operations, for single-pilot high-performance complex aeroplanes;
+
+(2) the MCC training course;
+
+(3) the MPL course on the basic, intermediate and advanced phases, provided that, for the basic phase, they hold or have held an FI(A) or an IRI(A) certificate;
+
+(d) The privileges of SFIs for helicopters are to carry out synthetic flight instruction for:
+
+(1) the issue, revalidation and renewal of helicopter type ratings;
+
+(2) MCC training, provided that they have at least 350 hours as a pilot in multi-pilot operations in any aircraft category.
+
+(e) The privileges of an SFI include privileges to conduct EBT practical assessment at an EBT operator, provided that the instructor complies with the requirements of Annex III (Part-ORO) to Regulation (EU) No 965/2012 for EBT instructor standardisation at that EBT operator.
+
+FCL.910.SFI SFI — Restricted privileges
+
+The privileges of SFIs shall be restricted to the FTD 2/3 or FFS of the aircraft type in which the SFI training course was taken.
+
+Unless otherwise specified in the operational suitability data established in accordance with Annex I (Part 21) to Regulation (EU) No 748/2012, to extend the privileges of SFIs to other FSTDs representing further types of the same category of aircraft, SFIs shall have:
+
+(a) completed the simulator content of the relevant type rating course;
+
+(b) completed the relevant parts of the technical training and the FSTD content of the flight instruction syllabus of the applicable TRI course;
+
+(c) conducted on a complete type rating course at least 3 hours of flight instruction related to the duties of an SFI on the applicable type under the supervision and to the satisfaction of a TRE or an SFE qualified for this purpose.
+
+The privileges of the SFI shall be extended to further variants in accordance with the OSD if the SFI has completed the type relevant parts of the technical training and the FSTD content of the flight instruction syllabus of the applicable TRI course.
+
+FCL.915.SFI SFI — Prerequisites
+
+An applicant for an SFI certificate shall:
+
+(a) hold or have held a CPL, MPL or ATPL in the appropriate aircraft category;
+
+(b) have completed the proficiency check for the issue of the specific aircraft type rating in an FFS representing the applicable type, within the 12 months preceding the application; and
+
+(c) additionally, for an SFI(A) for multi-pilot aeroplanes or SFI(PL), have:
+
+(1) at least 1 500 hours flight time as a pilot on multi-pilot aeroplanes or powered-lift, as applicable;
+
+(2) completed, as a pilot or as an observer, within the 12 months preceding the application, at least:
+
+(i) 3 route sectors on the flight deck of the applicable aircraft type; or
+
+(ii) 2 line-orientated flight training-based simulator sessions conducted by qualified flight crew on the flight deck of the applicable type. These simulator sessions shall include 2 flights of at least 2 hours each between 2 different aerodromes, and the associated pre-flight planning and de-briefing;
+
+(d) additionally, for an SFI(A) for single-pilot high performance complex aeroplanes:
+
+(1) have completed at least 500 hours of flight time as PIC on single-pilot aeroplanes;
+
+(2) hold or have held a multi-engine IR(A) rating; and
+
+(3) have met the requirements in (c)(2);
+
+(e) additionally, for an SFI(H), have:
+
+(1) completed, as a pilot or as an observer, at least 1 hour of flight time on the flight deck of the applicable type, within the 12 months preceding the application; and
+
+(2) in the case of multi-pilot helicopters, at least 1 000 hours of flying experience as a pilot in helicopters, including at least 350 hours in multi-pilot operations in any aircraft category;
+
+(3) in the case of single-pilot multi-engine helicopters, completed 500 hours as pilot of helicopters, including 100 hours as PIC on single-pilot multi-engine helicopters;
+
+(4) in the case of single-pilot single-engine helicopters, completed 250 hours as a pilot on helicopters;
+
+(5) in the case of single-pilot helicopters in multi-pilot operations, completed at least 350 hours in multi-pilot operations in any aircraft category.
+
+FCL.930.SFI SFI — Training course
+
+(a) The training course for the SFI shall include:
+
+(1) the FSTD content of the applicable type rating course;
+
+(2) the relevant parts of the technical training and the FSTD content of the flight instruction syllabus of the applicable TRI training course;
+
+(3) 25 hours of teaching and learning instruction.
+
+(b) An applicant for an SFI certificate who:
+
+(1) holds a TRI certificate for the relevant type shall be fully credited towards the requirements of point (a);
+
+(2) holds or has held an instructor certificate shall be fully credited towards the requirement of point (a)(3).
+
+FCL.940.SFI SFI — Revalidation and renewal
+
+(a) Revalidation
+
+To revalidate an SFI certificate, applicants shall fulfil, before the expiry date of the SFI certificate, at least two out of the following three requirements:
+
+(1) have completed at least 50 hours as instructors or examiners in FSTDs, of which at least 15 hours in the period of 12 months immediately preceding the expiry date of the SFI certificate;
+
+(2) have completed instructor refresher training as an SFI at an ATO;
+
+(3) have passed the relevant sections of the assessment of competence in accordance with point FCL.935.
+
+(b) Additionally, applicants shall have completed, on an FFS, the proficiency checks for the issue of the specific aircraft type ratings representing the types for which privileges are held.
+
+(c) For at least each alternate revalidation of an SFI certificate, holders shall comply with the requirement in point (a)(3).
+
+(d) If an SFI holds a certificate in more than one type of aircraft within the same category, the assessment of competence taken on one of those types shall revalidate the SFI certificate for the other types held within the same category of aircraft, unless otherwise is determined in the OSD.
+
+(e) Renewal
+
+To renew the SFI certificate, applicants shall, within the period of 12 months immediately preceding the application for the renewal, comply with all of the following conditions:
+
+(1) have completed instructor refresher training as an SFI at an ATO;
+
+(2) have passed the assessment of competence in accordance with point FCL.935;
+
+(3) have completed, on an FSTD, the skill test for the issue of the specific aircraft type ratings representing the types for which privileges are to be renewed.
+
+**SECTION 8**
+
+**Specific requirements for the multi-crew cooperation instructor — MCCI**
+
+FCL.905.MCCI MCCI — Privileges and conditions
+
+(a) The privileges of an MCCI are to carry out flight instruction during:
+
+(1) the practical part of MCC courses when not combined with type rating training; and
+
+(2) in the case of MCCI(A), the basic phase of the MPL integrated training course, provided he/she holds or has held an FI(A) or an IRI(A) certificate.
+
+FCL.910.MCCI MCCI — Restricted privileges
+
+The privileges of the holder of an MCCI certificate shall be restricted to the FNPT II/III MCC, FTD 2/3 or FFS in which the MCCI training course was taken.
+
+The privileges may be extended to other FSTDs representing further types of aircraft when the holder has completed the practical training of the MCCI course on that type of FNPT II/III MCC, FTD 2/3 or FFS.
+
+FCL.915.MCCI MCCI — Prerequisites
+
+An applicant for an MCCI certificate shall:
+
+(a) hold or have held a CPL, MPL or ATPL in the appropriate aircraft category;
+
+(b) have at least:
+
+(1) in the case of aeroplanes, airships and powered-lift aircraft, 1 500 hours of flying experience as a pilot in multi-pilot operations, of which at least 350 hours in the appropriate aircraft category;
+
+(2) in the case of helicopters, 1 000 hours of flying experience as a pilot in multi-pilot operations, of which at least 350 hours in helicopters.
+
+FCL.930.MCCI MCCI — Training course
+
+(a) The training course for the MCCI shall include, at least:
+
+(1) 25 hours of teaching and learning instruction;
+
+(2) technical training related to the type of FSTD where the applicant wishes to instruct;
+
+(3) 3 hours of practical instruction, which may be flight instruction or MCC instruction on the relevant FNPT II/III MCC, FTD 2/3 or FFS, under the supervision of a TRI, SFI or MCCI nominated by the ATO for that purpose. These hours of flight instruction under supervision shall include the assessment of the applicant’s competence as described in FCL.920.
+
+(b) Applicants holding or having held an FI, TRI, CRI, IRI or SFI certificate shall be fully credited towards the requirement of (a)(1).
+
+FCL.940.MCCI MCCI — Revalidation and renewal
+
+(a) For revalidation of an MCCI certificate the applicant shall have completed the requirements of FCL.930.MCCI(a)(3) on the relevant type of FNPT II/III, FTD 2/3 or FFS, within the last 12 months of the validity period of the MCCI certificate.
+
+(b) Renewal. If the MCCI certificate has lapsed, the applicant shall complete the requirements of FCL.930.MCCI(a)(2) and (3) on the relevant type of FNPT II/III MCC, FTD 2/3 or FFS.
+
+**SECTION 9**
+
+**Specific requirements for the synthetic training instructor — STI**
+
+FCL.905.STI STI — Privileges and conditions
+
+(a) The privileges of an STI are to carry out synthetic flight instruction in the appropriate aircraft category for:
+
+(1) the issue of a licence;
+
+(2) the issue, revalidation or renewal of a BIR and an IR and a class or type rating for single-pilot aircraft, except for single-pilot high-performance complex aeroplanes.
+
+(b) Additional privileges for the STI(A). The privileges of an STI(A) shall include synthetic flight instruction during the core flying skills training of the MPL integrated training course.
+
+FCL.910.STI STI — Restricted privileges
+
+The privileges of STIs shall be restricted to the FSTD in which the STI training course was taken.
+
+The privileges may be extended to other FSTDs representing further types of aircraft if in the period of 12 months immediately preceding the application the holders have:
+
+(a) completed the FSTD content of the CRI or TRI course on the class or type of aircraft for which instructional privileges are sought;
+
+(b) passed in the FSTD on which flight instruction is to be conducted, the applicable section of the proficiency check in accordance with Appendix 9 to this Annex for the appropriate class or type of aircraft.
+
+For STIs(A) instructing on BITD only, the proficiency check shall include only the exercises appropriate for the skill test for the issue of a PPL(A);
+
+(c) conducted, on a CPL, an IR, a PPL or a class or type rating course, at least 3 hours of flight instruction under the supervision of an FI, a CRI(A), an IRI or a TRI nominated by the ATO for this purpose, including at least 1 hour of flight instruction that is supervised by an FIE in the appropriate aircraft category.
+
+FCL.915.STI STI — Prerequisites
+
+(a) Applicants for the issue of an STI certificate shall:
+
+(1) hold, or have held within the 3 years prior to the application, a pilot licence and instructional privileges appropriate to the courses on which instruction is intended;
+
+(2) have completed in an FSTD the relevant proficiency check for the class or type rating, in the period of 12 months immediately preceding the application.
+
+Applicants for the issue of an STI(A) wishing to instruct on BITDs only, shall complete the exercises appropriate for a skill test for the issue of a PPL(A) only;
+
+(b) Additionally to the requirements laid down in point (a), applicants for the issue of an STI(H) certificate shall have completed at least 1 hour of flight time as an observer on the flight deck of the applicable type of helicopter, in the period of 12 months immediately preceding the application.
+
+FCL.930.STI STI — Training course
+
+(a) The training course for the STI shall comprise at least 3 hours of flight instruction related to the duties of an STI in an FFS, FTD 2/3 or FNPT II/III, under the supervision of an FIE. These hours of flight instruction under supervision shall include the assessment of the applicant’s competence as described in FCL.920.
+
+Applicants for an STI(A) wishing to instruct on a BITD only, shall complete the flight instruction on a BITD.
+
+(b) For applicants for an STI(H), the course shall also include the FFS content of the applicable TRI course.
+
+FCL.940.STI STI — Revalidation and renewal of the STI certificate
+
+(a) Revalidation
+
+To revalidate an STI certificate, applicants shall, within the period of 12 months immediately preceding the expiry date of the STI certificate, comply with all of the following conditions:
+
+(1) have conducted at least 3 hours of flight instruction in an FSTD, as part of a complete CPL, IR, PPL or class or type rating course;
+
+(2) have passed in the FSTD on which flight instruction is conducted, the applicable sections of the proficiency check in accordance with Appendix 9 to this Annex for the appropriate class or type of aircraft.
+
+For STIs(A) instructing on BITDs only, the proficiency check shall include the exercises appropriate for a skill test for the issue of a PPL(A) only.
+
+(b) Renewal
+
+To renew STI certificate, the applicants shall within the period of 12 months immediately preceding the application for the renewal:
+
+(1) complete a refresher training as an STI at an ATO;
+
+(2) pass in the FSTD on which flight instruction is conducted, the applicable sections of the proficiency check in accordance with Appendix 9 to this Annex for the appropriate class or type of aircraft.
+
+For an STI(A) instructing on BITDs only, the proficiency check shall include the exercises appropriate for a skill test for the issue of a PPL(A) only;
+
+(3) conduct, in the relevant aircraft category, on a complete CPL, IR, PPL or class or type rating course, at least 3 hours of flight instruction under the supervision of an FI, a CRI, an IRI or a TRI nominated by the ATO for this purpose, including at least 1 hour of flight instruction supervised by a flight instructor examiner (FIE).
+
+**SECTION 10**
+
+**Mountain rating instructor — MI**
+
+FCL.905.MI MI — Privileges and conditions
+
+The privileges of an MI are to carry out flight instruction for the issue of a mountain rating.
+
+FCL.915.MI MI — Prerequisites
+
+An applicant for an MI certificate shall:
+
+(a) hold a, FI, CRI, or TRI certificate, with privileges for single-pilot aeroplanes;
+
+(b) hold a mountain rating.
+
+FCL.930.MI MI — Training course
+
+(a) The training course for the MI shall include the assessment of the applicant’s competence as described in FCL.920.
+
+(b) Before attending the course, applicants shall have passed a pre-entry flight test with an MI holding an FI certificate to assess their experience and ability to undertake the training course.
+
+FCL.940.MI Validity of the MI certificate
+
+The MI certificate is valid as long as the FI, TRI or CRI certificate is valid.
+
+**SECTION 11**
+
+**Specific requirements for the flight test instructor — FTI**
+
+FCL.905.FTI FTI — Privileges and conditions
+
+(a) The privileges of a flight test instructor (FTI) are to instruct, within the appropriate aircraft category, for:
+
+(1) the issue of category 1 or 2 flight test ratings, provided he/she holds the relevant category of flight test rating;
+
+(2) the issue of an FTI certificate, within the relevant category of flight test rating, provided that the instructor has at least 2 years of experience instructing for the issue of flight test ratings.
+
+(b) The privileges of an FTI holding a category 1 flight test rating include the provision of flight instruction also in relation to category 2 flight test ratings.
+
+FCL.915.FTI FTI — Prerequisites
+
+An applicant for an FTI certificate shall:
+
+(a) hold a flight test rating issued in accordance with FCL.820;
+
+(b) have completed at least 200 hours of category 1 or 2 flight tests.
+
+FCL.930.FTI FTI — Training course
+
+(a) The training course for the FTI shall include, at least:
+
+(1) 25 hours of teaching and learning;
+
+(2) 10 hours of technical training, including revision of technical knowledge, the preparation of lesson plans and the development of classroom/simulator instructional skills;
+
+(3) 5 hours of practical flight instruction under the supervision of an FTI qualified in accordance with FCL.905.FTI(b). These hours of flight instruction shall include the assessment of the applicant’s competence as described in FCL.920.
+
+(b) Crediting:
+
+(1) Applicants holding or having held an instructor certificate shall be fully credited towards the requirement of (a)(1).
+
+(2) In addition, applicants holding or having held an FI or TRI certificate in the relevant aircraft category shall be fully credited towards the requirements of (a)(2).
+
+FCL.940.FTI FTI — Revalidation and renewal
+
+(a) Revalidation. For revalidation of an FTI certificate, the applicant shall, within the validity period of the FTI certificate, fulfil one of the following requirements:
+
+(1) complete at least:
+
+(i) 50 hours of flight tests, of which at least 15 hours shall be within the 12 months preceding the expiry date of the FTI certificate; and
+
+(ii) 5 hours of flight test flight instruction within the 12 months preceding the expiry date of the FTI certificate; or
+
+(2) receive refresher training as an FTI at an ATO. The refresher training shall be based on the practical flight instruction element of the FTI training course, in accordance with FCL.930.FTI(a)(3), and include at least 1 instruction flight under the supervision of an FTI qualified in accordance with FCL.905.FTI(b).
+
+(b) Renewal. If the FTI certificate has lapsed, the applicant shall receive refresher training as an FTI at an ATO. The refresher training shall comply at least with the requirements of FCL.930.FTI(a)(3).
+
+**SUBPART K**
+
+**EXAMINERS**
+
+**SECTION 1**
+
+**Common requirements**
+
+FCL.1000 Examiner certificates
+
+(a) General
+
+Holders of an examiner certificate shall:
+
+(1) hold, unless otherwise determined in this Annex, an equivalent licence, rating or certificate to the ones for which they are authorised to conduct skill tests, proficiency checks or assessments of competence and the privilege to instruct for them;
+
+(2) be qualified to act as PIC in the aircraft during a skill test, proficiency check or assessment of competence if conducted on the aircraft.
+
+(b) Special conditions:
+
+(1) The competent authority may issue a specific certificate granting privileges for the conduct of skill tests, proficiency checks and assessments of competence if compliance with the requirements established in this Subpart is not possible because of the introduction of any of the following:
+
+(i) new aircraft in the Member States or in an operator’s fleet;
+
+(ii) new training courses in this Annex.
+
+Such a certificate shall be limited to the skill tests, proficiency checks and assessments of competence necessary for the introduction of the new type of aircraft or the new training course and its validity shall not, in any case, exceed 1 year.
+
+(2) Holders of a certificate issued in accordance with point (b)(1) who wish to apply for an examiner certificate shall comply with the prerequisites and revalidation requirements for that category of examiner certificate.
+
+(3) Where no qualified examiner is available, competent authorities may, on a case-by -case basis, authorise inspectors or examiners who do not meet the relevant instructor, type or class rating requirements as specified in (a), to perform skill tests, proficiency checks and assessments of competence.
+
+(c) Examination provided outside the territory of the Member States:
+
+(1) By way of derogation from point (a), in the case of skill tests and proficiency checks provided outside the territory for which Member States are responsible under the Chicago Convention, the competent authority shall issue an examiner certificate to applicants holding a pilot licence that is compliant with Annex 1 to the Chicago Convention, provided that those applicants:
+
+(i) hold at least an equivalent licence, rating, or certificate to the one for which they are authorised to conduct skill tests, proficiency checks or assessments of competence, and in any case at least a CPL;
+
+(ii) are qualified to act as PIC in the aircraft during a skill test or proficiency check that is conducted in the aircraft;
+
+(iii) comply with the requirements established in this Subpart for the issue of the relevant examiner certificate; and
+
+(iv) demonstrate to the competent authority an adequate level of knowledge of European aviation safety rules to be able to exercise examiner privileges in accordance with this Annex.
+
+(2) The certificate referred to in point (1) shall be limited to performing skill tests and proficiency checks:
+
+(i) outside the territories for which the Member States are responsible under the Chicago Convention; and
+
+(ii) to pilots who have sufficient knowledge of the language in which the test/check is given.
+
+FCL.1005 Limitation of privileges in case of vested interests
+
+Examiners shall not conduct:
+
+(a) skill tests or assessments of competence of applicants for the issue of a licence, rating or certificate to whom they have provided more than 25 % of the required flight instruction for the licence, rating or certificate for which the skill test or assessment of competence is being taken; and
+
+(b) skill tests, proficiency checks or assessments of competence whenever they feel that their objectivity may be affected.
+
+FCL.1010 Prerequisites for examiners
+
+Applicants for an examiner certificate shall demonstrate:
+
+(a) relevant knowledge, background and appropriate experience related to the privileges of an examiner;
+
+(b) that they have not been subject to any sanctions, including the suspension, limitation or revocation of any of their licences, ratings or certificates issued in accordance with this Part, for non-compliance with the Basic Regulation and its Implementing Rules during the last 3 years.
+
+FCL.1015 Examiner standardisation
+
+(a) An applicant for an examiner certificate shall undertake a standardisation course which is provided by the competent authority or which is provided by an ATO and approved by the competent authority.
+
+(b) The standardisation course shall consist of theoretical and practical instruction and shall include, at least:
+
+(1) the conduct of 2 skill tests, proficiency checks or assessments of competences for the licences, ratings or certificates for which the applicant seeks the privilege to conduct tests and checks;
+
+(2) instruction on the applicable requirements in this part and the applicable air operations requirements, the conduct of skill tests, proficiency checks and assessments of competence, and their documentation and reporting;
+
+(3) a briefing on the national administrative procedures, requirements for protection of personal data, liability, accident insurance and fees;
+
+(4) a briefing on the need to review and apply the items in (3) when conducting skill tests, proficiency checks or assessments of competence of an applicant for which the competent authority is not the same that issued the examiner's certificate; and
+
+(5) an instruction on how to get access to these national procedures and requirements of other competent authorities when needed;
+
+(c) Holders of an examiners certificate shall not conduct skill tests, proficiency checks or assessments of competence of an applicant for which the competent authority is not the same that issued the examiner's certificate, unless they have reviewed the latest available information containing the relevant national procedures of the applicant's competent authority.
+
+FCL.1020 Examiners assessment of competence
+
+Applicants for an examiner certificate shall demonstrate their competence to an inspector from the competent authority or a senior examiner specifically authorised to do so by the competent authority responsible for the examiner’s certificate through the conduct of a skill test, proficiency check or assessment of competence in the examiner role for which privileges are sought, including briefing, conduct of the skill test, proficiency check or assessment of competence, and assessment of the person to whom the test, check or assessment is given, debriefing and recording documentation.
+
+FCL.1025 Validity, revalidation and renewal of examiner certificates
+
+(a) Validity
+
+An examiner certificate shall be valid for 3 years.
+
+(b) Revalidation
+
+To revalidate an examiner certificate, holders shall comply with all of the following conditions:
+
+(1) before the expiry date of the certificate, have conducted at least six skill tests, proficiency checks, assessments of competence, or EBT evaluation phases during an EBT module referred to in point ORO.FC.231 of Annex III (Part-ORO) to Regulation (EU) No 965/2012;
+
+(2) in the period of 12 months immediately preceding the expiry date of the certificate, have completed an examiner refresher course which is provided by the competent authority or which is provided by an ATO and approved by the competent authority;
+
+(3) one of the skill tests, proficiency checks, assessments of competence or EBT evaluation phases conducted in accordance with point (1) shall take place in the period of 12 months immediately preceding the expiry date of the examiner certificate and shall:
+
+(i) have been assessed by an inspector from the competent authority or by a senior examiner specifically authorised to do so by the competent authority responsible for the examiner certificate; or
+
+(ii) comply with the requirements in point FCL.1020.
+
+If applicants for the revalidation hold privileges for more than one category of examiner, all examiner privileges may be revalidated if applicants comply with the requirements laid down in points (b)(1) and (2) and point FCL.1020 for one of the categories of examiner certificates held, in agreement with the competent authority.
+
+(c) Renewal
+
+If the certificate has expired, before resuming the exercise of the privileges, the applicants shall comply with the requirements in point (b)(2) and point FCL.1020 in the period of 12 months immediately preceding the application for the renewal.
+
+(d) An examiner certificate shall only be revalidated or renewed if applicants demonstrate continued compliance with the requirements laid down in points FCL.1010 and FCL.1030.
+
+FCL.1030 Conduct of skill tests, proficiency checks and assessments of competence
+
+(a) When conducting skill tests, proficiency checks and assessments of competence, examiners shall:
+
+(1) ensure that communication with the applicant can be established without language barriers;
+
+(2) verify that the applicant complies with all the qualification, training and experience requirements in this Part for the issue, revalidation or renewal of the licence, rating or certificate for which the skill test, proficiency check or assessment of competence is taken;
+
+(3) make the applicant aware of the consequences of providing incomplete, inaccurate or false information related to their training and flight experience.
+
+(b) After completion of the skill test or proficiency check, the examiner shall:
+
+(1) inform the applicant of the result of the test. In the event of a partial pass or fail, the examiner shall inform the applicant that he/she may not exercise the privileges of the rating until a full pass has been obtained. The examiner shall detail any further training requirement and explain the applicant’s right of appeal;
+
+(2) in the event of a pass in a proficiency check or assessment of competence for revalidation or renewal, endorse the applicant’s licence or certificate with the new expiry date of the rating or certificate, if specifically authorised for that purpose by the competent authority responsible for the applicant’s licence;
+
+(3) provide the applicant with a signed report of the skill test or proficiency check and submit without delay copies of the report to the competent authority responsible for the applicant’s licence, and to the competent authority that issued the examiner certificate. The report shall include:
+
+(i) a declaration that the examiner has received information from the applicant regarding his/her experience and instruction, and found that experience and instruction complying with the applicable requirements in this Part;
+
+(ii) confirmation that all the required manoeuvres and exercises have been completed, as well as information on the verbal theoretical knowledge examination, when applicable. If an item has been failed, the examiner shall record the reasons for this assessment;
+
+(iii) the result of the test, check or assessment of competence;
+
+(iv) a declaration that the examiner has reviewed and applied the national procedures and requirements of the applicant’s competent authority if the competent authority responsible for the applicant’s licence is not the same that issued the examiner’s certificate;
+
+(v) a copy of the examiner certificate containing the scope of his/her privileges as examiner in the case of skill tests, proficiency checks or assessments of competence of an applicant for which the competent authority is not the same that issued the examiner’s certificate.
+
+(c) Examiners shall maintain records for 5 years with details of all skill tests, proficiency checks and assessments of competence performed and their results.
+
+(d) Upon request by the competent authority responsible for the examiner certificate, or the competent authority responsible for the applicant’s licence, examiners shall submit all records and reports, and any other information, as required for oversight activities.
+
+**SECTION 2**
+
+**Specific requirements for flight examiners — FE**
+
+FCL.1005.FE FE — Privileges and conditions
+
+(a) FE(A). The privileges of an FE for aeroplanes are to conduct:
+
+(1) skill tests for the issue of the PPL(A) and skill tests and proficiency checks for associated single-pilot class and type ratings, except for single-pilot high performance complex aeroplanes, provided that the examiner has completed at least 1 000 hours of flight time as a pilot on aeroplanes or TMGs, including at least 250 hours of flight instruction;
+
+(2) skill tests for the issue of the CPL(A) and skill tests and proficiency checks for the associated single-pilot class and type ratings, except for single-pilot high performance complex aeroplanes, provided that the examiner has completed at least 2 000 hours of flight time as a pilot on aeroplanes or TMGs, including at least 250 hours of flight instruction;
+
+(3) skill tests and proficiency checks for the LAPL(A), provided that the examiner has completed at least 500 hours of flight time as a pilot on aeroplanes or TMGs, including at least 100 hours of flight instruction;
+
+(4) skill tests for the issue of a mountain rating, provided that the examiner has completed at least 500 hours of flight time as a pilot on aeroplanes or TMGs, including at least 500 take-offs and landings of flight instruction for the mountain rating;
+
+(5) proficiency checks for the revalidation and renewal of EIRs, provided that the FE has completed at least 1 500 hours as a pilot on aeroplanes and complies with the requirements in FCL.1010.IRE(a)(2).
+
+(b) FE(H). The privileges of an FE for helicopters are to conduct:
+
+(1) skill tests for the issue of the PPL(H) and skill tests and proficiency checks for single-pilot single-engine helicopter type ratings entered in a PPL(H), provided that the examiner has completed 1 000 hours of flight time as a pilot on helicopters, including at least 250 hours of flight instruction;
+
+(2) skill tests for the issue of the CPL(H) and skill tests and proficiency checks for single-pilot single-engine helicopter type ratings entered in a CPL(H), provided the examiner has completed 2 000 hours of flight time as pilot on helicopters, including at least 250 hours of flight instruction;
+
+(3) skill tests and proficiency checks for single-pilot multi-engine helicopter type ratings entered in a PPL(H) or a CPL(H), provided the examiner has completed the requirements in (1) or (2), as applicable, and holds a CPL(H) or ATPL(H) and, when applicable, an IR(H);
+
+(4) skill tests and proficiency checks for the LAPL(H), provided that the examiner has completed at least 500 hours of flight time as a pilot on helicopters, including at least 150 hours of flight instruction.
+
+(c) FE(As). The privileges of an FE for airships are to conduct skill tests for the issue of the PPL(As) and CPL(As) and skill tests and proficiency checks for the associated airship type ratings, provided that the examiner has completed 500 hours of flight time as a pilot on airships, including 100 hours of flight instruction.
+
+(d) FE(G). The privileges of an FE for gyroplanes are to conduct skill tests and proficiency checks for the GPL and for associated privileges for gyroplane classes and types, provided that the FE has completed at least 500 hours of flight time as a pilot on gyroplanes, including at least 100 hours of flight instruction, of which up to 40 hours may be flight instruction conducted as FI(A) or FI(H).
+
+FCL.1010.FE FE — Prerequisites
+
+An applicant for an FE certificate shall hold:
+
+an FI certificate in the appropriate aircraft category.
+
+**SECTION 3**
+
+**Specific requirements for type rating examiners — TRE**
+
+FCL.1005.TRE TRE — Privileges and conditions
+
+(a) TRE(A) and TRE(PL). The privileges of a TRE for aeroplanes or powered-lift aircraft are to conduct:
+
+(1) skill tests for the initial issue of type ratings for aeroplanes or powered-lift aircraft, as applicable;
+
+(2) proficiency checks for the revalidation or renewal of type ratings and IRs;
+
+(3) skill tests for ATPL(A) issue;
+
+(4) skill tests for MPL issue, provided that the examiner has complied with the requirements in FCL.925;
+
+(5) assessments of competence for the issue, revalidation or renewal of a TRI or SFI certificates in the applicable aircraft category, provided that they have completed at least 3 years as a TRE and have undergone specific training for the assessment of competence in accordance with point FCL.1015 (b).
+
+(b) TRE(H). The privileges of a TRE(H) are to conduct:
+
+(1) skill tests and proficiency checks for the issue, revalidation or renewal of helicopter type ratings;
+
+(2) proficiency checks for the revalidation or renewal of IRs, provided the TRE(H) holds a valid IR(H);
+
+(3) skill tests for ATPL(H) issue;
+
+(4) assessments of competence for the issue, revalidation or renewal of a TRI(H) or SFI(H) certificates, provided that they have completed at least 3 years as a TRE and have undergone specific training for the assessment of competence in accordance with point FCL.1015 (b).
+
+FCL.1010.TRE TRE — Prerequisites
+
+(a) TRE(A) and TRE(PL). Applicants for a TRE certificate for aeroplanes and powered-lift aircraft shall:
+
+(1) in the case of multi-pilot aeroplanes or powered-lift aircraft, have completed 1 500 hours of flight time as a pilot of multi-pilot aeroplanes or powered-lift aircraft, as applicable, of which at least 500 hours shall be as PIC;
+
+(2) in the case of single-pilot high performance complex aeroplanes, have completed 500 hours of flight time as a pilot of single-pilot aeroplanes, of which at least 200 hours shall be as PIC;
+
+(3) hold a CPL or ATPL and a TRI certificate for the applicable type;
+
+(4) for the initial issue of an TRE certificate, have completed at least 50 hours of flight instruction as a TRI, FI or SFI in the applicable type or an FSTD representing that type.
+
+(b) TRE(H). Applicants for a TRE (H) certificate for helicopters shall:
+
+(1) hold a TRI(H) certificate or, in the case of single-pilot single-engine helicopters, a valid FI(H) certificate, for the applicable type;
+
+(2) for the initial issue of a TRE certificate, have completed 50 hours of flight instruction as a TRI, FI or SFI in the applicable type or an FSTD representing that type;
+
+(3) in the case of multi-pilot helicopters, hold a CPL(H) or ATPL(H) and have completed 1 500 hours of flight as a pilot on multi-pilot helicopters, of which at least 500 hours shall be as PIC;
+
+(4) in the case of single-pilot multi-engine helicopters:
+
+(i) have completed 1 000 hours of flight as pilot on helicopters, of which at least 500 hours shall be as PIC;
+
+(ii) hold a CPL(H) or ATPL(H) and, when applicable, a valid IR(H);
+
+(5) in the case of single-pilot single-engine helicopters:
+
+(i) have completed 750 hours of flight as a pilot on helicopters, of which at least 500 hours shall be as PIC;
+
+(ii) hold a CPL(H) or ATPL(H).
+
+(6) Before the privileges of a TRE(H) are extended from single-pilot operations to multi-pilot operations on the same type of helicopter, the holder shall have either:
+
+(i) at least 100 hours in multi-pilot operations on this type; or
+
+(ii) at least 350 hours in multi-pilot operations in any aircraft category.
+
+(7) In the case of applicants for the first multi-pilot multi-engine TRE certificate, the 1 500 hours of flight experience on multi-pilot helicopters required in (b)(3) may be considered to have been met if they have completed the 500 hours of flight time as PIC on a multi-pilot helicopter of the same type.
+
+**SECTION 4**
+
+**Specific requirements for Class Rating Examiner — CRE**
+
+FCL.1005.CRE CRE — Privileges
+
+The privileges of a CRE are to conduct, for single-pilot aeroplanes, except for single-pilot high performance complex aeroplanes:
+
+(a) skill tests for the issue of class and type ratings;
+
+(b) proficiency checks for:
+
+(1) revalidation or renewal of class and type ratings;
+
+(2) revalidation of IRs, provided that they have completed at least 1500 hours as pilots of aeroplanes and have competed at least 450 hours of flight time under IFR;
+
+(3) renewal of IRs, provided that they comply with the requirements laid down in point FCL.1010.IRE(a); and
+
+(4) revalidation and renewal of BIRs, provided that the CRE has completed:
+
+(i) 1 500 hours of flight time as a pilot of aeroplanes; and
+
+(ii) 450 hours of flight time under IFR; and
+
+(c) skill tests for the extension of LAPL(A) privileges to another class or variant of aeroplane.
+
+FCL.1010.CRE CRE — Prerequisites
+
+Applicants for a CRE certificate shall:
+
+(a) hold a CPL(A), MPL(A) or ATPL(A) with single-pilot privileges or have held it and hold a PPL(A);
+
+(b) hold a CRI or FI certificate with instructional privileges for the applicable class or type;
+
+(c) have completed 500 hours of flight time as a pilot on aeroplanes.
+
+**SECTION 5**
+
+**Specific requirements for Instrument Rating Examiner — IRE**
+
+FCL.1005.IRE IRE — Privileges
+
+The privileges of holders of an instrument rating examiner (IRE) certificate are to conduct skill tests for the issue and proficiency checks for the revalidation or renewal of BIRs and IRs.
+
+FCL.1010.IRE IRE — Prerequisites
+
+(a) IRE(A)
+
+Applicants for an IRE certificate for aeroplanes shall hold an IRI(A) or an FI(A) certificate with the privilege to instruct for the IR(A) and shall have completed:
+
+(1) 2000 hours of flight time as pilots of aeroplanes; and
+
+(2) 450 hours of flight time under IFR, of which 250 hours shall be as an instructor.
+
+(b) IRE(H)
+
+Applicants for an IRE certificate for helicopters shall hold an IRI(H) or an FI(H) certificate with the privilege to instruct for the IR(H) and shall have completed:
+
+(1) 2000 hours of flight time as pilots of helicopters; and
+
+(2) 300 hours of instrument flight time in helicopters, of which 200 hours shall be as an instructor.
+
+(c) IRE(As)
+
+Applicants for an IRE certificate for airships shall hold an IRI(As) or an FI(As) certificate with the privilege to instruct for the IR(As) and shall have completed:
+
+(1) 500 hours of flight time as pilots on airships; and
+
+(2) 100 hours of instrument flight time on airships, of which 50 hours shall be as an instructor.
+
+**SECTION 6**
+
+**Specific requirements for Synthetic Flight Examiner — SFE**
+
+FCL.1005.SFE SFE — Privileges and conditions
+
+(a) SFE for aeroplanes (SFE(A)) and SFE for powered-lift aircraft (SFE(PL))
+
+The privileges of SFEs for aeroplanes or powered-lift aircraft are to conduct in an FFS, or for the assessments in point (5) on the applicable FSTD:
+
+(1) skill tests and proficiency checks for the issue, revalidation or renewal of type ratings for aeroplanes or powered-lift aircraft, as applicable;
+
+(2) proficiency checks for the revalidation or renewal of IRs if combined with the revalidation or renewal of a type rating, provided that they have passed a proficiency check for the aircraft type including the instrument rating within the last year;
+
+(3) skill tests for ATPL(A) issue;
+
+(4) skill tests for MPL issue, provided that they have complied with the requirements laid down in point FCL.925; and
+
+(5) assessments of competence for the issue, revalidation or renewal of an SFI certificate in the relevant aircraft category, provided that they have completed at least 3 years as an SFE(A) and have undergone specific training for the assessment of competence in accordance with point FCL.1015 (b).
+
+(b) SFE for helicopters (SFE(H))
+
+The privileges of an SFEs(H) are to conduct in an FFS or for the assessments in point (4) on the applicable FSTD:
+
+(1) skill tests and proficiency checks for the issue, revalidation and renewal of type ratings;
+
+(2) proficiency checks for the revalidation and renewal of IRs if those checks are combined with the revalidation or renewal of a type rating, provided that the SFEs have passed a proficiency check for the aircraft type including the instrument rating within the last year preceding the proficiency check;
+
+(3) skill tests for ATPL(H) issue; and
+
+(4) assessments of competence for the issue, revalidation or renewal of an SFI(H) certificate, provided that they have completed at least 3 years as an SFE(H) and have undergone specific training for the assessment of competence in accordance with point FCL.1015 (b).
+
+FCL.1010.SFE SFE — Prerequisites
+
+(a) SFE(A)
+
+Applicants for an SFE(A) certificate shall comply with all of the following conditions:
+
+(1) in the case of multi-pilot aeroplanes:
+
+(i) hold or have held an ATPL(A) and a type rating;
+
+(ii) hold an SFI(A) certificate for the applicable type of aeroplane; and
+
+(iii) have at least 1500 hours of flight time as pilots of multi-pilot aeroplanes;
+
+(2) in the case of single-pilot high-performance complex aeroplanes:
+
+(i) hold or have held a CPL(A) or an ATPL(A) and a type rating;
+
+(ii) hold an SFI(A) certificate for the applicable class or type of aeroplane; and
+
+(iii) have at least 500 hours of flight time as pilots of single-pilot aeroplanes.
+
+(3) for the initial issue of an SFE certificate, have completed at least 50 hours of synthetic flight instruction as a TRI(A) or an SFI(A) on the applicable type.
+
+(b) SFE(H)
+
+Applicants for an SFE(H) certificate shall comply with all of the following conditions:
+
+(1) hold or have held an ATPL(H), and a type rating for the applicable type of helicopter;
+
+(2) hold an SFI(H) certificate for the applicable type of helicopter;
+
+(3) in the case of multi-pilot helicopters, have at least 1 000 hours of flight time as pilots of multi-pilot helicopters;
+
+(4) in the case of single-pilot helicopters in multi-pilot operations, have completed at least 350 hours in multi-pilot operations in any aircraft category;
+
+(5) for the initial issue of an SFE certificate, have completed at least 50 hours of synthetic flight instruction as a TRI(H) or an SFI(H) on the applicable type.
+
+**SECTION 7**
+
+**Specific requirements for the flight instructor examiner — FIE**
+
+FCL.1005.FIE FIE — Privileges and conditions
+
+(a) FIE(A). The privileges of an FIE on aeroplanes are to conduct assessments of competence for the issue, revalidation or renewal of certificates for FI(A), CRI(A), IRI(A) and TRI(A) on single-pilot aeroplanes, provided that the relevant instructor certificate is held.
+
+(b) FIE(H). The privileges of an FIE on helicopters are to conduct assessments of competence for the issue, revalidation or renewal of certificates for FI(H), IRI(H) and TRI(H) on single-pilot helicopters, provided that the relevant instructor certificate is held.
+
+(c) FIE(As) and FIE(G). The privileges of an FIE on airships and gyroplanes are to conduct assessments of competence for the issue, revalidation, or renewal of instructor certificates in the applicable aircraft category, provided that the relevant instructor certificate is held.
+
+(d) FIE(G). Applicants for an FIE certificate for gyroplanes shall:
+
+(1) hold an FI(G) instructor certificate;
+
+(2) have completed 1 000 hours of flight time as a pilot on gyroplanes; and
+
+(3) have completed at least 100 hours of flight time instructing applicants for an FI(G) certificate. In the case of applicants holding a FIE(A) or FIE(H) certificate, this requirement is reduced to 50 hours.
+
+FCL.1010.FIE FIE — Prerequisites
+
+(a) FIE(A). Applicants for an FIE certificate for aeroplanes shall:
+
+in case of applicants wishing to conduct assessments of competence:
+
+(1) hold the relevant instructor certificate, as applicable;
+
+(2) have completed 2 000 hours of flight time as a pilot on aeroplanes or TMGs; and
+
+(3) have at least 100 hours of flight time instructing applicants for an instructor certificate.
+
+(b) FIE(H). Applicants for an FIE certificate for helicopters shall:
+
+(1) hold the relevant instructor certificate, as applicable;
+
+(2) have completed 2 000 hours of flight time as pilot on helicopters;
+
+(3) have at least 100 hours of flight time instructing applicants for an instructor certificate.
+
+(c) FIE(As). Applicants for an FIE certificate for airships shall:
+
+(1) have completed 500 hours of flight time as a pilot on airships;
+
+(2) have at least 20 hours of flight time instructing applicants for an FI(AS) certificate;
+
+(3) hold the relevant instructor certificate.
+
+## Appendix 1
+
+**Crediting of theoretical knowledge**
+
+**CREDITING OF THEORETICAL KNOWLEDGE IN THE SAME OR ANOTHER CATEGORY OF AIRCRAFT — BRIDGE INSTRUCTION AND EXAMINATION REQUIREMENTS**
+
+**1\. LAPL, PPL and GPL**
+
+1.1. For the issue of an LAPL, the holder of an LAPL in another category of aircraft shall be fully credited towards requirements of theoretical knowledge on the common subjects established in point FCL.120(a).
+
+1.2. For the issue of an LAPL or a PPL, holders of a PPL, CPL or ATPL in another category of aircraft shall be credited towards requirements of theoretical knowledge on the common subjects established in point FCL.215(a). This credit shall also apply to applicants for an LAPL or a PPL who hold a BPL issued in accordance with Annex III (Part-BFCL) to Regulation (EU) 2018/395 or an SPL issued in accordance with Annex III (Part-SFCL) to Implementing Regulation (EU) 2018/1976, except that the subject ‘navigation’ shall not be credited.
+
+1.3. For the issue of a PPL, the holder of an LAPL in the same category of aircraft shall be fully credited towards the requirements of theoretical knowledge instruction and examination. That credit shall also apply to applicants for a PPL who have already successfully completed the theoretical knowledge examination for the LAPL in the same aircraft category, as long as it is within the validity period specified in point FCL.025(c).
+
+1.4. By way of derogation from point 1.2, for the issue of an LAPL(A), the holder of an SPL issued in accordance with Annex III (Part-SFCL) to Implementing Regulation (EU) 2018/1976 with privileges to fly TMGs shall demonstrate an adequate level of theoretical knowledge for the SEP aeroplane-land class in accordance with point FCL.135.A(a)(2).
+
+1.5. For the issue of a GPL, the holder of a pilot licence for aeroplanes or helicopters in accordance with this Regulation shall be credited in full towards the theoretical knowledge instruction and examination requirements in the following subjects:
+
+(a) Air law and ATC procedures,
+
+(b) Human performance,
+
+(c) Meteorology,
+
+(d) Communications,
+
+(e) Navigation.
+
+**2\. CPL**
+
+2.1. Applicants for the issue of a CPL holding a CPL in another category of aircraft shall have received theoretical knowledge bridge instruction at an ATO on an approved course according to the differences identified between the CPL syllabi for different aircraft categories.
+
+2.2. Applicants shall pass theoretical knowledge examinations as set out in this Annex (Part-FCL) for the following subjects in the appropriate aircraft category:
+
+021 — Aircraft general knowledge: airframe and systems, electrics, power plant and emergency equipment;
+
+022 — Aircraft general knowledge: instrumentation;
+
+032/034 — Performance aeroplanes or helicopters, as applicable;
+
+070 — Operational procedures;
+
+081/082 — Principles of flight for aeroplanes or helicopters, as applicable.
+
+2.3. Applicants for the issue of a CPL having passed the relevant theoretical knowledge examinations for an IR in the same category of aircraft are credited towards the theoretical knowledge requirements in human performance and meteorology unless they have completed the IR training course in accordance with Appendix 6, Section Aa, to this Annex (Part-FCL).
+
+2.4. Applicants for a CPL that have passed the relevant theoretical knowledge examinations for an IR in the same category of aircraft are credited towards the theoretical knowledge requirements in the communications subject.
+
+**3\. ATPL**
+
+3.1. Applicants for the issue of an ATPL holding an ATPL in another category of aircraft shall have received theoretical knowledge bridge instruction at an ATO on an approved course according to the differences identified between the ATPL syllabi for different aircraft categories.
+
+3.2. Applicants shall pass theoretical knowledge examinations as defined in this Annex (Part-FCL) for the following subjects in the appropriate aircraft category:
+
+021 — Aircraft general knowledge: airframe and systems, electrics, power plant and emergency equipment;
+
+022 — Aircraft general knowledge: instrumentation;
+
+032/034 — Performance aeroplanes or helicopters, as applicable;
+
+070 — Operational procedures;
+
+081/082 — Principles of flight for aeroplanes or helicopters, as applicable.
+
+3.3. Applicants for the issue of an ATPL(A) having passed the relevant theoretical examination for a CPL(A) are credited towards the theoretical knowledge requirements in the subject ‘communications’.
+
+3.4. Applicants for the issue of an ATPL(H) having passed the relevant theoretical examinations for a CPL(H) are credited towards the theoretical knowledge requirements in the following subjects:
+
+— air law;
+
+— principles of flight (helicopter); and
+
+— communications.
+
+3.5. Applicants for the issue of an ATPL(A) having passed the relevant theoretical examination for an IR(A) are credited towards the theoretical knowledge requirements in the subject ‘communications’.
+
+3.6. Applicants for the issue of an ATPL(H) with an IR(H) having passed the relevant theoretical examinations for a CPL(H) are credited towards the theoretical knowledge requirements in the following subjects:
+
+— principles of flight (helicopter); and
+
+— communications.
+
+**4\. IR**
+
+4.1. Applicants for an IR, or for a BIR, who have passed the relevant theoretical examinations for a CPL in the same aircraft category, shall be credited towards the theoretical knowledge requirements in the following subjects:
+
+— Human Performance,
+
+— Meteorology,
+
+— Communication.
+
+4.2. Applicants for the issue of an IR(H) having passed the relevant theoretical examinations for an ATPL(H) VFR are required to pass the following examination subjects:
+
+— air law;
+
+— flight planning and flight monitoring; and
+
+— radio navigation.
+
+## Appendix 2
+
+**Language Proficiency Rating Scale — Expert, extended and operational level**
+
+| Level | Pronunciation | Structure | Vocabulary | Fluency | Comprehension | Interactions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Expert (Level 6) | Pronunciation, stress, rhythm, and intonation, though possibly influenced by the first language or regional variation, almost never interfere with ease of understanding. | Both basic and complex grammatical structures and sentence patterns are consistently well controlled. | Vocabulary range and accuracy are sufficient to communicate effectively on a wide variety of familiar and unfamiliar topics. Vocabulary is idiomatic, nuanced and sensitive to register. | Able to speak at length with a natural, effortless flow. Varies speech flow for stylistic effect, e.g. to emphasise a point. Uses appropriate discourse markers and connectors spontaneously. | Comprehension is consistently accurate in nearly all contexts and includes comprehension of linguistic and cultural subtleties. | Interacts with ease in nearly all situations. Is sensitive to verbal and non-verbal cues, and responds to them appropriately. |
+| Extended (Level 5) | Pronunciation, stress, rhythm, and intonation, though influenced by the first language or regional variation, rarely interfere with ease of understanding. | Basic grammatical structures and sentence patterns are consistently well controlled. Complex structures are attempted but with errors which sometimes interfere with meaning. | Vocabulary range and accuracy are sufficient to communicate effectively on common, concrete, and work-related topics. Paraphrases consistently and successfully. Vocabulary is sometimes idiomatic. | Able to speak at length with relative ease on familiar topics, but may not vary speech flow as a stylistic device. Can make use of appropriate discourse markers or connectors. | Comprehension is accurate on common, concrete, and work-related topics and mostly accurate when the speaker is confronted with a linguistic or situational complication or an unexpected turn of events. Is able to comprehend a range of speech varieties (dialect and/or accent) or registers. | Responses are immediate, appropriate, and informative. Manages the speaker/listener relationship effectively. |
+| Operational (Level 4) | Pronunciation, stress, rhythm, and intonation are influenced by the first language or regional variation but only sometimes interfere with ease of understanding. | Basic grammatical structures and sentence patterns are used creatively and are usually well controlled. Errors may occur, particularly in unusual or unexpected circumstances, but rarely interfere with meaning. | Vocabulary range and accuracy are usually sufficient to communicate effectively on common, concrete, and work-related topics. Can often paraphrase successfully when lacking vocabulary particularly in unusual or unexpected circumstances. | Produces stretches of language at an appropriate tempo. There may be occasional loss of fluency on transition from rehearsed or formulaic speech to spontaneous interaction, but this does not prevent effective communication. Can make limited use of discourse markers and connectors. Fillers are not distracting. | Comprehension is mostly accurate on common, concrete, and work-related topics when the accent or variety used is sufficiently intelligible for an international community of users. When the speaker is confronted with a linguistic or situational complication or an unexpected turn of events, comprehension may be slower or require clarification strategies. | Responses are usually immediate, appropriate, and informative. Initiates and maintains exchanges even when dealing with an unexpected turn of events. Deals adequately with apparent misunderstandings by checking, confirming, or clarifying. |
+
+Note: The initial text of Appendix 2 has been transferred to AMC, see also the Explanatory Note.
+
+## Appendix 3
+
+**Training courses for the issue of a CPL and an ATPL**
+
+1\. This Appendix describes the requirements for the different types of training courses for the issue of a CPL and an ATPL, with and without an IR.
+
+2\. An applicant wishing to transfer to another ATO during a training course shall apply to the competent authority for a formal assessment of the further hours of training required.
+
+**A. ATP integrated course — Aeroplanes**
+
+**GENERAL**
+
+1\. The aim of the ATP(A) integrated course is to train pilots to the level of proficiency necessary to enable them to operate as co-pilot on multi-pilot multi-engine aeroplanes in commercial air transport and to obtain the CPL(A)/IR.
+
+2\. An applicant wishing to undertake an ATP(A) integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(A) or PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of a PPL(A) or PPL(H) entrant, 50 % of the hours flown prior to the course shall be credited, up to a maximum of 40 hours flying experience, or 45 hours if an aeroplane night rating has been obtained, of which up to 20 hours may count towards the requirement for dual instruction flight time.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the ATPL(A) knowledge level;
+
+(b) visual and instrument flying training;
+
+(c) training in MCC for the operation of multi-pilot aeroplanes; and
+
+(d) UPRT in accordance with FCL.745.A unless applicants have already completed this training course before starting the ATP integrated course.
+
+5\. Applicants failing or being unable to complete the entire ATP(A) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An ATP(A) theoretical knowledge course shall comprise at least 750 hours of instruction.
+
+7.1.  The MCC course shall comprise at least 25 hours of theoretical knowledge instruction and exercises.
+
+7.2. The theoretical knowledge instruction in UPRT shall be conducted in accordance with FCL.745.A.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+8\. An applicant shall demonstrate the level of knowledge appropriate to the privileges granted to the holder of an ATPL(A).
+
+**FLYING TRAINING**
+
+9\. The flying training, not including type rating training, shall comprise a total of at least 195 hours, including all progress tests, of which up to 55 hours for the entire course may be instrument ground time. Within the total of 195 hours, applicants shall complete at least:
+
+(a) 95 hours of dual instruction, of which up to 55 hours may be instrument ground time;
+
+(b) 70 hours as PIC, of which up to 55 hours may be SPIC. The instrument flight time as SPIC shall only be counted as PIC flight time up to a maximum of 20 hours;
+
+(c) 50 hours of cross-country flight as PIC, including one VFR cross-country flight of at least 540 km (300 NM), in the course of which full-stop landings at two aerodromes different from the aerodrome of departure shall be made; and
+
+(d) 5 hours of flight time at night, comprising 3 hours of dual instruction, which shall include at least:
+
+(1) 1 hour of cross-country navigation;
+
+(2) five solo take-offs; and
+
+(3) five solo full-stop landings;
+
+(e) UPRT flight instruction in accordance with FCL.745.A;
+
+(f) 115 hours of instrument time comprising, at least:
+
+(1) 20 hours as SPIC;
+
+(2) 15 hours of MCC, for which an FFS or an FNPT II may be used;
+
+(3) 50 hours of instrument flight instruction, of which up to:
+
+(i) 25 hours may be instrument ground time in an FNPT I; or
+
+(ii) 40 hours may be instrument ground time in an FNPT II, an FTD 2 or an FFS, of which up to 10 hours may be conducted in an FNPT I.
+
+Applicants holding a BIR or a course completion certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours towards the required instrument instruction time. Hours done in a BITD shall not be credited.
+
+(g) 5 hours in an aeroplane which:
+
+(1) is certificated for the carriage of at least 4 persons; and
+
+(2) has a variable pitch propeller and retractable landing gear.
+
+**SKILL TEST**
+
+10\. Upon completion of the related flying training, the applicant shall take the CPL(A) skill test on either a single-engine or a multi-engine aeroplane and the IR skill test on a multi-engine aeroplane.
+
+**B. ATP modular course — Aeroplanes**
+
+1\. Applicants for an ATPL(A) who complete their theoretical knowledge instruction at a modular course shall:
+
+(a) hold at least a PPL(A) issued in accordance with Annex 1 to the Chicago Convention; and
+
+complete at least the following hours of theoretical knowledge instruction:
+
+(1) for applicants holding a PPL(A): 650 hours;
+
+(2) for applicants holding a CPL(A): 400 hours;
+
+(3) for applicants holding an IR(A): 500 hours;
+
+(4) for applicants holding a CPL(A) and an IR(A): 250 hours.
+
+The theoretical knowledge instruction shall be completed before the skill test for the ATPL(A) is taken.
+
+**C. CPL/IR integrated course — Aeroplanes**
+
+**GENERAL**
+
+1\. The aim of the CPL(A) and IR(A) integrated course is to train pilots to the level of proficiency necessary to operate single-pilot single-engine or multi-engine aeroplanes in commercial air transport and to obtain the CPL(A)/IR.
+
+2\. An applicant wishing to undertake a CPL(A)/IR integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(A) or PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of a PPL(A) or PPL(H) entrant, 50 % of the hours flown prior to the course shall be credited, up to a maximum of 40 hours flying experience, or 45 hours if an aeroplane night rating has been obtained, of which up to 20 hours may count towards the requirement for dual instruction flight time.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(A) and IR knowledge level; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL/IR(A) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. A CPL(A)/IR theoretical knowledge course shall comprise at least 500 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(A) and an IR.
+
+**FLYING TRAINING**
+
+8\. The flying training, not including type rating training, shall comprise a total of at least 180 hours, to include all progress tests, of which up to 40 hours for the entire course may be instrument ground time. Within the total of 180 hours, applicants shall complete at least:
+
+(a) 80 hours of dual instruction, of which up to 40 hours may be instrument ground time;
+
+(b) 70 hours as PIC, of which up to 55 hours may be SPIC. The instrument flight time as SPIC shall only be counted as PIC flight time up to a maximum of 20 hours;
+
+(c) 50 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 540 km (300 NM), in the course of which full stop landings at two aerodromes different from the aerodrome of departure shall be made;
+
+(d) 5 hours flight time shall be completed at night, comprising 3 hours of dual instruction, which shall include at least 1 hour of cross-country navigation and 5 solo take-offs and 5 solo full stop landings; and
+
+(e) 100 hours of instrument time comprising, at least:
+
+(1) 20 hours as SPIC; and
+
+(2) 50 hours of instrument flight instruction, of which up to:
+
+(i) 25 hours may be instrument ground time in an FNPT I; or
+
+(ii) 40 hours may be instrument ground time in an FNPT II, FTD 2 or FFS, of which up to 10 hours may be conducted in an FNPT I.
+
+Applicants holding a BIR or a course completion certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours towards the required instrument instruction time. Hours done in a BITD shall not be credited; and
+
+(f) 5 hours to be carried out in an aeroplane certificated for the carriage of at least 4 persons that has a variable pitch propeller and retractable landing gear.
+
+**SKILL TESTS**
+
+9\. Upon completion of the related flying training the applicant shall take the CPL(A) skill test and the IR skill test on either a multi-engine aeroplane or a single-engine aeroplane.
+
+**D. CPL integrated course — Aeroplanes**
+
+**GENERAL**
+
+1\. The aim of the CPL(A) integrated course is to train pilots to the level of proficiency necessary for the issue of a CPL(A).
+
+2\. An applicant wishing to undertake a CPL(A) integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(A) or PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of a PPL(A) or PPL(H) entrant, 50 % of the hours flown prior to the course shall be credited, up to a maximum of 40 hours flying experience, or 45 hours if an aeroplane night rating has been obtained, of which up to 20 hours may count towards the requirement for dual instruction flight time.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(A) knowledge level; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL(A) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. A CPL(A) theoretical knowledge course shall comprise at least 350 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(A).
+
+**FLYING TRAINING**
+
+8\. The flying training, not including type rating training, shall comprise a total of at least 150 hours, to include all progress tests, of which up to 5 hours for the entire course may be instrument ground time. Within the total of 150 hours, applicants shall complete at least:
+
+(a) 80 hours of dual instruction, of which up to 5 hours may be instrument ground time;
+
+(b) 70 hours as PIC, of which up to 55 hours may be as SPIC;
+
+(c) 20 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 540 km (300 NM), in the course of which full stop landings at two aerodromes different from the aerodrome of departure shall be made;
+
+(d) 5 hours flight time shall be completed at night, comprising 3 hours of dual instruction, which shall include at least 1 hour of cross-country navigation and 5 solo take-offs and 5 solo full stop landings;
+
+(e) 10 hours of instrument flight instruction, of which up to 5 hours may be instrument ground time in an FNPT I, FTD 2, FNPT II or FFS. Applicants holding a BIR or a course completion certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours towards the required instrument instruction time. Hours done in a BITD shall not be credited;
+
+(f) 5 hours to be carried out in an aeroplane certificated for the carriage of at least four persons that has a variable pitch propeller and retractable landing gear.
+
+**SKILL TEST**
+
+9\. Upon completion of the flying training the applicant shall take the CPL(A) skill test on a single-engine or a multi-engine aeroplane.
+
+**E. CPL modular course — Aeroplanes**
+
+**GENERAL**
+
+1\. The aim of the CPL(A) modular course is to train PPL(A) holders to the level of proficiency necessary for the issue of a CPL(A).
+
+2\. Before commencing a CPL(A) modular course an applicant shall be the holder of a PPL(A) issued in accordance with Annex 1 to the Chicago Convention.
+
+3\. Before commencing the flight training the applicant shall:
+
+(a) have completed 150 hours flight time; including 50 hours as PIC on aeroplanes of which 10 hours shall be cross-country.
+
+Except for the requirement of 50 hours as PIC in aeroplanes, hours as PIC in other categories of aircraft may account for the 150 hours of aeroplane flight time in any of the following cases:
+
+(1) 20 hours in helicopters, if applicants hold a PPL(H);
+
+(2) 50 hours in helicopters, if applicants hold a CPL(H);
+
+(3) 10 hours in TMGs or sailplanes;
+
+(4) 20 hours in airships, if applicants hold a PPL(As);
+
+(5) 50 hours in airships, if applicants hold a CPL(As).
+
+(b) have complied with the prerequisites for the issue of a class or type rating for multi-engine aeroplanes in accordance with Subpart H, if a multi-engine aeroplane is to be used on the skill test.
+
+4\. An applicant wishing to undertake a modular CPL(A) course shall complete all the flight instructional stages in one continuous course of training as arranged by an ATO. The theoretical knowledge instruction may be given at an ATO conducting theoretical knowledge instruction only.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(A) knowledge level; and
+
+(b) visual and instrument flying training.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved CPL(A) theoretical knowledge course shall comprise at least 250 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(A).
+
+**FLYING TRAINING**
+
+8\. Applicants without an IR shall be given at least 25 hours dual flight instruction, including 10 hours of instrument instruction of which up to 5 hours may be instrument ground time in a BITD, an FNPT I or II, an FTD 2 or an FFS.
+
+9\. Applicants holding a valid IR(A) shall be credited towards the dual instrument instruction time. Applicants holding a valid IR(H) shall be credited up to 5 hours of the dual instrument instruction time, in which case at least 5 hours dual instrument instruction time shall be given in an aeroplane. Applicants holding a BIR or a Course Completion Certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours towards the required instrument instruction time.
+
+10.
+
+(a) Applicants with a valid IR shall be given at least 15 hours dual visual flight instruction.
+
+(b) Applicants without a night rating aeroplane shall be given additionally at least 5 hours night flight instruction, comprising 3 hours of dual instruction, which shall include at least 1 hour of cross-country navigation and 5 solo take-offs and 5 solo full stop landings.
+
+11\. At least 5 hours of the flight instruction shall be carried out in an aeroplane certificated for the carriage of at least 4 persons and have a variable pitch propeller and retractable landing gear.
+
+**EXPERIENCE**
+
+12\. The applicant for a CPL(A) shall have completed at least 200 hours flight time, including at least:
+
+(a) 100 hours as PIC, of which 20 hours of cross-country flight as PIC, which shall include a VFR cross-country flight of at least 540 km (300 NM), in the course of which full stop landings at two aerodromes different from the aerodrome of departure shall be made;
+
+(b) 5 hours of flight time shall be completed at night, comprising 3 hours of dual instruction, which shall include at least 1 hour of cross-country navigation and 5 solo take-offs and 5 solo full stop landings; and
+
+(c) 10 hours of instrument flight instruction, of which up to 5 hours may be instrument ground time in an FNPT I, or FNPT II or FFS. Applicants holding a BIR or a course completion certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours towards the required instrument instruction time. Hours done in a BITD shall not be credited;
+
+(d) 6 hours of flight time shall be completed in a multi-engine aeroplane, if a multi-engine aeroplane is used for the skill test.
+
+(e) Hours as PIC of other categories of aircraft may count towards the 200 hours flight time, in the following cases:
+
+(i) 30 hours in helicopter, if the applicant holds a PPL(H); or
+
+(ii) 100 hours in helicopters, if the applicant holds a CPL(H); or
+
+(iii) 30 hours in TMGs or sailplanes; or
+
+(iv) 30 hours in airships, if the applicant holds a PPL(As); or
+
+(v) 60 hours in airships, if the applicant holds a CPL(As).
+
+**SKILL TEST**
+
+13\. Upon completion of the flying training and relevant experience requirements the applicant shall take the CPL(A) skill test on either a single-engine or a multi-engine aeroplane.
+
+**F. ATP/IR integrated course — Helicopters**
+
+**GENERAL**
+
+1\. The aim of the ATP(H)/IR integrated course is to train pilots to the level of proficiency necessary to enable them to operate as co-pilot on multi-pilot multi-engine helicopters in commercial air transport and to obtain the CPL(H)/IR.
+
+2\. An applicant wishing to undertake an ATP(H)/IR integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of a PPL(H) entrant, 50 % of the relevant experience shall be credited, up to a maximum of:
+
+(a) 40 hours, of which up to 20 hours may be dual instruction; or
+
+(b) 50 hours, of which up to 25 hours may be dual instruction, if a helicopter night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the ATPL(H) and IR knowledge level;
+
+(b) visual and instrument flying training; and
+
+(c) training in MCC for the operation of multi-pilot helicopters.
+
+5\. An applicant failing or unable to complete the entire ATP(H)/IR course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An ATP(H)/IR theoretical knowledge course shall comprise at least 750 hours of instruction.
+
+7\. The MCC course shall comprise at least 25 hours of theoretical knowledge instruction exercises.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+8\. An applicant shall demonstrate the level of knowledge appropriate to the privileges granted to the holder of an ATPL(H) and an IR.
+
+**FLYING TRAINING**
+
+9\. The flying training shall comprise a total of at least 195 hours, to include all progress tests. Within the total of 195 hours, applicants shall complete at least:
+
+(a) 140 hours of dual instruction, of which:
+
+(1) 75 hours visual instruction may include:
+
+(i) 30 hours in a helicopter FFS, level C/D; or
+
+(ii) 25 hours in a FTD 2,3; or
+
+(iii) 20 hours in a helicopter FNPT II/III; or
+
+(iv) 20 hours in an aeroplane or TMG;
+
+(2) 50 hours instrument instruction may include:
+
+(i) up to 20 hours in a helicopter FFS or FTD 2,3 or FNPT II/III; or
+
+(ii) 10 hours in at least a helicopter FNPT 1 or an aeroplane;
+
+(3) 15 hours MCC, for which a helicopter FFS or helicopter FTD 2,3(MCC) or FNPT II/III(MCC) may be used.
+
+If the helicopter used for the flying training is of a different type from the helicopter FFS used for the visual training, the maximum credit shall be limited to that allocated for the helicopter FNPT II/III;
+
+(b) 55 hours as PIC, of which 40 hours may be as SPIC. At least 14 hours solo day and 1 hour solo night shall be made;
+
+(c) 50 hours of cross-country flight, including at least 10 hours of cross-country flight as SPIC including a VFR cross-country flight of at least 185 km (100 NM) in the course of which landings at two different aerodromes from the aerodrome of departure shall be made;
+
+(d) 5 hours flight time in helicopters shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing;
+
+(e) 50 hours of dual instrument time comprising:
+
+(i) 10 hours basic instrument instruction time; and
+
+(ii) 40 hours IR Training, which shall include at least 10 hours in a multi-engine IFR-certificated helicopter.
+
+**SKILL TESTS**
+
+10\. Upon completion of the related flying training, the applicant shall take the CPL(H) skill test on a multi-engine helicopter and the IR skill test on an IFR certificated multi-engine helicopter and shall comply with the requirements for MCC training.
+
+**G. ATP integrated course — Helicopters**
+
+**GENERAL**
+
+1\. The aim of the ATP(H) integrated course is to train pilots to the level of proficiency necessary to enable them to operate as co-pilot on multi-pilot multi-engine helicopters limited to VFR privileges in commercial air transport and to obtain the CPL(H).
+
+2\. An applicant wishing to undertake an ATP(H) integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of a PPL(H) entrant, 50 % of the relevant experience shall be credited, up to a maximum of:
+
+(a) 40 hours, of which up to 20 hours may be dual instruction; or
+
+(b) 50 hours, of which up to 25 hours may be dual instruction, if a helicopter night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the ATPL(H) knowledge level;
+
+(b) visual and basic instrument flying training; and
+
+(c) training in MCC for the operation of multi-pilot helicopters.
+
+5\. An applicant failing or unable to complete the entire ATP(H) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An ATP(H) theoretical knowledge course shall comprise at least 650 hours of instruction.
+
+7\. The MCC course shall comprise at least 20 hours of theoretical knowledge instruction exercises.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+8\. An applicant shall demonstrate the level of knowledge appropriate to the privileges granted to the holder of an ATPL (H).
+
+**FLYING TRAINING**
+
+9\. The flying training shall comprise a total of at least 150 hours, to include all progress tests. Within the total of 150 hours, applicants shall complete at least:
+
+(a) 95 hours of dual instruction, of which:
+
+(i) 75 hours visual instruction may include:
+
+(1) 30 hours in a helicopter FFS level C/D; or
+
+(2) 25 hours in a helicopter FTD 2,3; or
+
+(3) 20 hours in a helicopter FNPT II/III; or
+
+(4) 20 hours in an aeroplane or TMG;
+
+(ii) 10 hours basic instrument instruction may include 5 hours in at least a helicopter FNPT I or an aeroplane;
+
+(iii) 10 hours MCC, for which a helicopter: helicopter FFS or FTD 2,3(MCC) or FNPT II/III(MCC) may be used.
+
+If the helicopter used for the flying training is of a different type from the helicopter FFS used for the visual training, the maximum credit shall be limited to that allocated for the helicopter FNPT II/III;
+
+(b) 55 hours as PIC, of which 40 hours may be as SPIC. At least 14 hours solo day and 1 hour solo night shall be made;
+
+(c) 50 hours of cross-country flight, including at least 10 hours of cross-country flight as SPIC, including a VFR cross-country flight of at least 185 km (100 NM) in the course of which landings at two different aerodromes from the aerodrome of departure shall be made;
+
+(d) 5 hours flight time in helicopters shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing.
+
+**SKILL TESTS**
+
+10\. Upon completion of the related flying training the applicant shall take the CPL(H) skill test on a multi-engine helicopter and comply with MCC requirements.
+
+**H. ATP modular course — Helicopters**
+
+1\. Applicants for an ATPL(H) who complete their theoretical knowledge instruction at a modular course shall hold at least a PPL(H) and complete at least the following hours of instruction within a period of 18 months:
+
+(a) for applicants holding a PPL(H) issued in accordance with Annex 1 to the Chicago Convention: 550 hours;
+
+(b) for applicants holding a CPL(H): 300 hours.
+
+2\. Applicants for an ATPL(H)/IR who complete their theoretical knowledge instruction at a modular course shall hold at least a PPL(H) and complete at least the following hours of instruction:
+
+(a) for applicants holding a PPL(H): 650 hours;
+
+(b) for applicants holding a CPL(H): 400 hours;
+
+(c) for applicants holding an IR(H): 500 hours;
+
+(d) for applicants holding a CPL(H) and an IR(H): 250 hours.
+
+**I. CPL/IR integrated course — Helicopters**
+
+**GENERAL**
+
+1\. The aim of the CPL(H)/IR integrated course is to train pilots to the level of proficiency necessary to operate single-pilot multi-engine helicopters and to obtain the CPL(H)/IR multi-engine helicopter.
+
+2\. An applicant wishing to undertake a CPL(H)/IR integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of an entrant holding a PPL(H), 50 % of the relevant experience shall be credited, up to a maximum of:
+
+(a) 40 hours, of which up to 20 hours may be dual instruction; or
+
+(b) 50 hours, of which up to 25 hours may be dual instruction, if a helicopter night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(H) and IR knowledge level, and the initial multi-engine helicopter type rating; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL(H)/IR course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. A CPL(H)/IR theoretical knowledge course shall comprise at least 500 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(H) and an IR.
+
+**FLYING TRAINING**
+
+8\. The flying training shall comprise a total of at least 180 hours including all progress tests. Within the 180 hours, applicants shall complete at least:
+
+(a) 125 hours of dual instruction, of which:
+
+(i) 75 hours visual instruction, which may include:
+
+(1) 30 hours in a helicopter FFS level C/D; or
+
+(2) 25 hours in a helicopter FTD 2,3; or
+
+(3) 20 hours in a helicopter FNPT II/III; or
+
+(4) 20 hours in an aeroplane or TMG;
+
+(ii) 50 hours instrument instruction which may include:
+
+(1) up to 20 hours in a helicopter FFS or FTD 2,3, or FNPT II, III; or
+
+(2) 10 hours in at least a helicopter FNPT I or an aeroplane.
+
+If the helicopter used for the flying training is of a different type from the FFS used for the visual training, the maximum credit shall be limited to that allocated for the FNPT II/III;
+
+(b) 55 hours as PIC, of which 40 hours may be as SPIC. At least 14 hours solo day and 1 hour solo night shall be made;
+
+(c) 10 hours dual cross-country flying;
+
+(d) 10 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 185 km (100 NM) in the course of which full stop landings at two different aerodromes from the aerodrome of departure shall be made;
+
+(e) 5 hours of flight time in helicopters shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing;
+
+(f) 50 hours of dual instrument time comprising:
+
+(i) 10 hours basic instrument instruction time; and
+
+(ii) 40 hours IR Training, which shall include at least 10 hours in a multi-engine IFR-certificated helicopter.
+
+**SKILL TEST**
+
+9\. Upon completion of the related flying training, the applicant shall take the CPL(H) skill test on either a multi-engine or a single-engine helicopter and the IR skill test on an IFR-certificated helicopter.
+
+**J. CPL integrated course — Helicopters**
+
+**GENERAL**
+
+1\. The aim of the CPL(H) integrated course is to train pilots to the level of proficiency necessary for the issue of a CPL(H).
+
+2\. An applicant wishing to undertake a CPL(H) integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of an entrant holding a PPL(H), 50 % of the relevant experience shall be credited, up to a maximum of:
+
+(a) 40 hours, of which up to 20 hours may be dual instruction; or
+
+(b) 50 hours, of which up to 25 hours may be dual instruction if a helicopter night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(H) knowledge level; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL(H) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved CPL(H) theoretical knowledge course shall comprise at least 350 hours of instruction or 200 hours if the applicant is the holder of a PPL.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(H).
+
+**FLYING TRAINING**
+
+8\. The flying training shall comprise a total of at least 135 hours, to include all progress tests, of which up to 5 hours may be instrument ground time. Within the 135 hours total, applicants shall complete at least:
+
+(a) 85 hours of dual instruction, of which:
+
+(i) up to 75 hours may be visual instruction, and may include:
+
+(1) 30 hours in a helicopter FFS level C/D; or
+
+(2) 25 hours in a helicopter FTD 2,3; or
+
+(3) 20 hours in a helicopter FNPT II/III; or
+
+(4) 20 hours in an aeroplane or TMG;
+
+(ii) up to 10 hours may be instrument instruction, and may include 5 hours in at least a helicopter FNPT I or an aeroplane.
+
+If the helicopter used for the flying training is of a different type from the FFS used for the visual training, the maximum credit shall be limited to that allocated for the FNPT II/III;
+
+(b) 50 hours as PIC, of which 35 hours may be as SPIC. At least 14 hours solo day and 1 hour solo night shall be made;
+
+(c) 10 hours dual cross-country flying;
+
+(d) 10 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 185 km (100 NM) in the course of which full stop landings at two different aerodromes from the aerodrome of departure shall be made;
+
+(e) 5 hours flight time in helicopters shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing;
+
+(f) 10 hours of instrument dual instruction time, including at least 5 hours in a helicopter.
+
+**SKILL TEST**
+
+9\. Upon completion of the related flying training, the applicant shall take the CPL(H) skill test.
+
+**K. CPL modular course — Helicopters**
+
+**GENERAL**
+
+1\. The aim of the CPL(H) modular course is to train PPL(H) holders to the level of proficiency necessary for the issue of a CPL(H).
+
+2\. Before commencing a CPL(H) modular course an applicant shall be the holder of a PPL(H) issued in accordance with Annex 1 to the Chicago Convention.
+
+3\. Before commencing the flight training the applicant shall:
+
+(a) have completed 155 hours flight time, including 50 hours as PIC in helicopters of which 10 hours shall be cross-country.
+
+Except for the requirement of 50 hours as PIC in helicopters, hours as PIC in other categories of aircraft may account for the 155 hours of helicopter flight time in any of the following cases:
+
+(1) 20 hours in aeroplanes if applicants hold a PPL(A);
+
+(2) 50 hours in aeroplanes if applicants hold a CPL(A);
+
+(3) 10 hours in TMGs or sailplanes;
+
+(4) 20 hours in airships if applicants hold a PPL(As);
+
+(5) 50 hours in airships if applicants hold a CPL(As);
+
+(b) have complied with FCL.725 and FCL.720.H if a multi-engine helicopter is to be used on the skill test.
+
+4\. An applicant wishing to undertake a modular CPL(H) course shall complete all the flight instructional stages in one continuous course of training as arranged by an ATO. The theoretical knowledge instruction may be given at an ATO that conducts theoretical knowledge instruction only.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(H) knowledge level; and
+
+(b) visual and instrument flying training.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved CPL(H) theoretical knowledge course shall comprise at least 250 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(H).
+
+**FLYING TRAINING**
+
+8\. Applicants without an IR shall be given at least 30 hours dual flight instruction, of which:
+
+(a) 20 hours visual instruction, which may include 5 hours in a helicopter FFS or FTD 2,3 or FNPT II, III; and
+
+(b) 10 hours instrument instruction, which may include 5 hours in at least a helicopter FTD 1 or FNPT I or aeroplane.
+
+9\. Applicants holding a valid IR(H) shall be fully credited towards the dual instrument instruction time. Applicants holding a valid IR(A) shall complete at least 5 hours of the dual instrument instruction time in a helicopter.
+
+10\. Applicants without a night rating helicopter shall be given additionally at least 5 hours night flight instruction comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing.
+
+**EXPERIENCE**
+
+11\. The applicant for a CPL(H) shall have completed at least 185 hours flight time, including 50 hours as PIC, of which 10 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 185 km (100 NM), in the course of which full stop landings at two aerodromes different from the aerodrome of departure shall be made.
+
+Hours as pilot-in-command of other categories of aircraft may count towards the 185 hours flight time, in the following cases:
+
+(a) 20 hours in aeroplanes, if the applicant holds a PPL(A); or
+
+(b) 50 hours in aeroplanes, if the applicant holds a CPL(A); or
+
+(c) 10 hours in TMGs or sailplanes; or
+
+(d) 20 hours in airships, if the applicant holds a PPL(As); or
+
+(e) 50 hours in airships, if the applicant holds a CPL(As).
+
+**SKILL TEST**
+
+12\. Upon completion of the related flying training and relevant experience, the applicant shall take the CPL(H) skill test.
+
+**L. CPL/IR integrated course — Airships**
+
+**GENERAL**
+
+1\. The aim of the CPL(As)/IR integrated course is to train pilots to the level of proficiency necessary to operate airships and to obtain the CPL(As)/IR.
+
+2\. An applicant wishing to undertake a CPL(As)/IR integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(As), PPL(A) or PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of an entrant holding a PPL(As), PPL(A) or PPL(H) shall be credited up to a maximum of:
+
+(a) 10 hours, of which up to 5 hours may be dual instruction; or
+
+(b) 15 hours, of which up to 7 hours may be dual instruction, if an airship night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(As) and IR knowledge level, and the initial airship type rating; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL/IR(As) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. A CPL(As)/IR theoretical knowledge course shall comprise at least 500 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(As) and an IR.
+
+**FLYING TRAINING**
+
+8\. The flying training shall comprise a total of at least 80 hours including all progress tests. Within the 80 hours, applicants shall complete at least:
+
+(a) 60 hours of dual instruction, of which:
+
+(i) 30 hours visual instruction, which may include:
+
+(1) 12 hours in an airship FFS; or
+
+(2) 10 hours in an airship FTD; or
+
+(3) 8 hours in an airship FNPT II/III; or
+
+(4) 8 hours in an aeroplane, helicopter or TMG;
+
+(ii) 30 hours instrument instruction which may include:
+
+(1) up to 12 hours in an airship FFS or FTD or FNPT II, III; or
+
+(2) 6 hours in at least a airship FTD 1 or FNPT I or aeroplane.
+
+If the airship used for the flying training is of a different type from the FFS used for the visual training, the maximum credit shall be limited to 8 hours;
+
+(b) 20 hours as PIC, of which 5 hours may be as SPIC. At least 14 hours solo day and 1 hour solo night shall be made;
+
+(c) 5 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 90 km (50 NM) in the course of which two full stop landings at the destination aerodrome shall be made;
+
+(d) 5 hours flight time in airships shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include take-off and landing;
+
+(e) 30 hours of dual instrument time comprising:
+
+(i) 10 hours basic instrument instruction time; and
+
+(ii) 20 hours IR Training, which shall include at least 10 hours in a multi-engine IFR-certificated airship.
+
+**SKILL TEST**
+
+9\. Upon completion of the related flying training, the applicant shall take the CPL(As) skill test on either a multi-engine or a single-engine airship and the IR skill test on an IFR-certificated multi-engine airship.
+
+**M. CPL integrated course — Airships**
+
+**GENERAL**
+
+1\. The aim of the CPL(As) integrated course is to train pilots to the level of proficiency necessary for the issue of a CPL(AS).
+
+2\. An applicant wishing to undertake a CPL(As) integrated course shall complete all the instructional stages in one continuous course of training as arranged by an ATO.
+
+3\. An applicant may be admitted to training either as an ab-initio entrant, or as a holder of a PPL(As), PPL(A) or PPL(H) issued in accordance with Annex 1 to the Chicago Convention. In the case of an entrant holding a PPL(As), PPL(A) or PPL(H) shall be credited up to a maximum of:
+
+(a) 10 hours, of which up to 5 hours may be dual instruction; or
+
+(b) 15 hours, of which up to 7 hours may be dual instruction if a airship night rating has been obtained.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(As) knowledge level; and
+
+(b) visual and instrument flying training.
+
+5\. An applicant failing or unable to complete the entire CPL(As) course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved CPL(As) theoretical knowledge course shall comprise at least 350 hours of instruction or 200 hours if the applicant is a PPL holder.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+7\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(As).
+
+**FLYING TRAINING**
+
+8\. The flying training shall comprise a total of at least 50 hours, to include all progress tests, of which up to 5 hours may be instrument ground time. Within the 50 hours total, applicants shall complete at least:
+
+(a) 30 hours of dual instruction, of which up to 5 hours may be instrument ground time;
+
+(b) 20 hours as PIC;
+
+(c) 5 hours dual cross-country flying;
+
+(d) 5 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 90 km (50 NM) in the course of which two full stop landings at the destination aerodrome shall be made;
+
+(e) 5 hours flight time in airships shall be completed at night comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include take-off and landing;
+
+(f) 10 hours of instrument dual instruction time, including at least 5 hours in an airship.
+
+**SKILL TEST**
+
+9\. Upon completion of the related flying training, the applicant shall take the CPL(As) skill test.
+
+**N. CPL modular course — Airships**
+
+**GENERAL**
+
+1\. The aim of the CPL(As) modular course is to train PPL(As) holders to the level of proficiency necessary for the issue of a CPL(As).
+
+2\. Before commencing a CPL(As) modular course an applicant shall:
+
+(a) hold a PPL(As) issued in accordance with Annex 1 to the Chicago Convention;
+
+(b) have completed 200 hours flight time as a pilot on airships, including 100 hours as PIC, of which 50 hours shall be cross-country.
+
+3\. An applicant wishing to undertake a modular CPL(As) course shall complete all the flight instructional stages in one continuous course of training as arranged by an ATO. The theoretical knowledge instruction may be given at an ATO that conducts theoretical knowledge instruction only.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to CPL(As) knowledge level; and
+
+(b) visual and instrument flying training.
+
+**THEORETICAL KNOWLEDGE**
+
+5\. An approved CPL(As) theoretical knowledge course shall comprise at least 250 hours of instruction.
+
+**THEORETICAL KNOWLEDGE EXAMINATION**
+
+6\. An applicant shall demonstrate a level of knowledge appropriate to the privileges granted to the holder of a CPL(As).
+
+**FLYING TRAINING**
+
+7\. Applicants without an IR shall be given at least 20 hours dual flight instruction, of which:
+
+10 hours visual instruction, which may include 5 hours in an airship FFS or FTD 2,3 or FNPT II, III; and
+
+10 hours instrument instruction, which may include 5 hours in at least an airship FTD 1 or FNPT I or aeroplane.
+
+8\. Applicants holding a valid IR(As) shall be fully credited towards the dual instrument instruction time. Applicants holding a valid IR in another category of aircraft shall complete at least 5 hours of the dual instrument instruction time in an airship.
+
+9\. Applicants without a night rating airship shall be given additionally at least 5 hours night flight instruction comprising 3 hours of dual instruction including at least 1 hour of cross-country navigation and 5 solo night circuits. Each circuit shall include a take-off and a landing.
+
+**EXPERIENCE**
+
+10\. The applicant for a CPL(As) shall have completed at least 250 hours flight time in airships, including 125 hours as PIC, of which 50 hours of cross-country flight as PIC, including a VFR cross-country flight of at least 90 km (50 NM), in the course of which a full stop landing at destination aerodrome.
+
+Hours as PIC of other categories of aircraft may count towards the 185 hours flight time, in the following cases:
+
+(a) 30 hours in aeroplanes or helicopters, if the applicant holds a PPL(A) or PPL(H) respectively; or
+
+(b) 60 hours in aeroplanes or helicopters, if the applicant holds a CPL(A) or CPL(H) respectively; or
+
+(c) 10 hours in TMGs or sailplanes; or
+
+(d) 10 hours in balloons.
+
+**SKILL TEST**
+
+11\. Upon completion of the related flying training and relevant experience, the applicant shall take the CPL(As) skill test.
+
+## Appendix 4
+
+**Skill test for the issue of a CPL**
+
+**A. General**
+
+1\. An applicant for a skill test for the CPL shall have received instruction on the same class or type of aircraft to be used in the test.
+
+2\. An applicant shall pass all the relevant sections of the skill test. If any item in a section is failed, that section is failed. Failure in more than one section will require the applicant to take the entire test again. An applicant failing only in one section shall only repeat the failed section. Failure in any section of the retest, including those sections that have been passed on a previous attempt, will require the applicant to take the entire test again. All relevant sections of the skill test shall be completed within 6 months. Failure to achieve a pass in all relevant sections of the test in two attempts will require further training.
+
+3\. Further training may be required following any failed skill test. There is no limit to the number of skill tests that may be attempted.
+
+**CONDUCT OF THE TEST**
+
+4\. Should the applicant choose to terminate a skill test for reasons considered inadequate by the Flight Examiner (FE), the applicant shall retake the entire skill test. If the test is terminated for reasons considered adequate by the FE, only those sections not completed shall be tested in a further flight.
+
+5\. At the discretion of the FE, any manoeuvre or procedure of the test may be repeated once by the applicant. The FE may stop the test at any stage if it is considered that the applicant’s demonstration of flying skills requires a complete re-test.
+
+6\. An applicant shall be required to fly the aircraft from a position where the PIC functions can be performed and to carry out the test as if no other crew member is present. Responsibility for the flight shall be allocated in accordance with national regulations.
+
+7\. An applicant shall indicate to the FE the checks and duties carried out, including the identification of radio facilities. Checks shall be completed in accordance with the checklist for the aircraft on which the test is being taken. During pre-flight preparation for the test, the applicant is required to determine power settings and speeds. Performance data for take-off, approach and landing shall be calculated by the applicant in compliance with the operations manual or flight manual for the aircraft used.
+
+8\. The FE shall take no part in the operation of the aircraft except where intervention is necessary in the interests of safety or to avoid unacceptable delay to other traffic.
+
+**B. Content of the skill test for the issue of a CPL — Aeroplanes**
+
+1\. The aeroplane used for the skill test shall meet the requirements for training aeroplanes, and shall be certificated for the carriage of at least four persons, have a variable pitch propeller and retractable landing gear.
+
+2\. The route to be flown shall be chosen by the FE and the destination shall be a controlled aerodrome. The applicant shall be responsible for the flight planning and shall ensure that all equipment and documentation for the execution of the flight are on board. The duration of the flight shall be at least 90 minutes.
+
+3\. The applicant shall demonstrate the ability to:
+
+(a) operate the aeroplane within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge; and
+
+(e) maintain control of the aeroplane at all times in such a manner that the successful outcome of a procedure or manoeuvre is never seriously in doubt.
+
+**FLIGHT TEST TOLERANCES**
+
+4\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the aeroplane used.
+
+Height
+
+normal flight ± 100 feet
+
+| with simulated engine failure | ± 150 feet |
+| --- | --- |
+
+| Tracking on radio aids | ± 5° |
+| --- | --- |
+
+Heading
+
+normal flight ± 10°
+
+| with simulated engine failure | ± 15° |
+| --- | --- |
+
+Speed
+
+| take-off and approach | ± 5 knots |
+| --- | --- |
+
+| all other flight regimes | ± 10 knots |
+| --- | --- |
+
+**CONTENT OF THE TEST**
+
+5\. Items in Section 2(c) and (e)(iv), Section 3(g), and the whole of Sections 5 and 6 may be performed in an FNPT II or an FFS. The examiner may decide not to perform items in Section 6(d).
+
+Use of the aeroplane checklists, airmanship, control of the aeroplane by external visual reference, anti-icing/de-icing procedures and principles of threat and error management apply in all sections.
+
+<table>
+<tbody><tr><td colspan="2">SECTION 1 — PRE-FLIGHT OPERATIONS AND DEPARTURE</td></tr>
+<tr><td>a</td><td>Pre-flight, including: Flight planning, Documentation, Mass and balance determination, Weather brief, NOTAMS </td></tr>
+<tr><td>b</td><td>Aeroplane inspection and servicing</td></tr>
+<tr><td>c</td><td>Taxiing and take-off</td></tr>
+<tr><td>d</td><td>Performance considerations and trim</td></tr>
+<tr><td>e</td><td>Aerodrome and traffic pattern operations</td></tr>
+<tr><td>f</td><td>Departure procedure, altimeter setting, collision avoidance (lookout)</td></tr>
+<tr><td>g</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 2 — GENERAL AIRWORK</td></tr>
+<tr><td>a</td><td>Control of the aeroplane by external visual reference, including straight and level, climb, descent, lookout</td></tr>
+<tr><td>b</td><td>Flight at critically low airspeeds including recognition of and recovery from incipient and full stalls</td></tr>
+<tr><td>c</td><td>Turns, including turns in landing configuration. Steep turns 45°</td></tr>
+<tr><td>d</td><td>Flight at critically high airspeeds, including recognition of and recovery from spiral dives</td></tr>
+<tr><td>e</td><td>Flight by reference solely to instruments, including: (i) level flight, cruise configuration, control of heading, altitude and airspeed  (ii) climbing and descending turns with 10°-30° bank  (iii) recoveries from unusual attitudes  (iv) limited panel instruments </td></tr>
+<tr><td>f</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 3 — EN-ROUTE PROCEDURES</td></tr>
+<tr><td>a</td><td>Control of aeroplane by external visual reference, including cruise configuration Range/Endurance considerations</td></tr>
+<tr><td>b</td><td>Orientation, map reading</td></tr>
+<tr><td>c</td><td>Altitude, speed, heading control, lookout</td></tr>
+<tr><td>d</td><td>Altimeter setting. ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>e</td><td>Monitoring of flight progress, flight log, fuel usage, assessment of track error and re-establishment of correct tracking</td></tr>
+<tr><td>f</td><td>Observation of weather conditions, assessment of trends, diversion planning</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>g</td><td>Tracking, positioning (NDB, VOR, or track between waypoints), identification of facilities (instrument flight).</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>h</td><td>Implementation of diversion plan to alternate aerodrome (visual flight)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">SECTION 4 — APPROACH AND LANDING PROCEDURES</td></tr>
+<tr><td>a</td><td>Arrival procedures, altimeter setting, checks, lookout</td></tr>
+<tr><td>b</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>c</td><td>Go-around action from low height</td></tr>
+<tr><td>d</td><td>Normal landing, crosswind landing (if suitable conditions)</td></tr>
+<tr><td>e</td><td>Short field landing</td></tr>
+<tr><td>f</td><td>Approach and landing with idle power (single-engine only)</td></tr>
+<tr><td>g</td><td>Landing without use of flaps</td></tr>
+<tr><td>h</td><td>Post-flight actions</td></tr>
+<tr><td colspan="2">SECTION 5 — ABNORMAL AND EMERGENCY PROCEDURES</td></tr>
+<tr><td colspan="2">This section may be combined with sections 1 through 4</td></tr>
+<tr><td>a</td><td>Simulated engine failure after take-off (at a safe altitude), fire drill</td></tr>
+<tr><td>b</td><td>Equipment malfunctions including alternative landing gear extension, electrical and brake failure </td></tr>
+<tr><td>c</td><td>Forced landing (simulated)</td></tr>
+<tr><td>d</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>e</td><td>Oral questions</td></tr>
+<tr><td colspan="2">SECTION 6 — SIMULATED ASYMMETRIC FLIGHT AND RELEVANT CLASS OR TYPE ITEMS</td></tr>
+<tr><td colspan="2">This section may be combined with sections 1 through 5</td></tr>
+<tr><td>a</td><td>Simulated engine failure during take-off (at a safe altitude unless carried out in an FFS)</td></tr>
+<tr><td>b</td><td>Asymmetric approach and go-around</td></tr>
+<tr><td>c</td><td>Asymmetric approach and full stop landing</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>d</td><td>Engine shut-down and restart (if selected by the examiner)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>e</td><td>ATC liaison — compliance, R/T procedures, Airmanship</td></tr>
+<tr><td>f</td><td>As determined by the FE — any relevant items of the class or type rating skill test to include, if applicable: (i) aeroplane systems including handling of autopilot  (ii) operation of pressurisation system  (iii) use of de-icing and anti-icing system </td></tr>
+<tr><td>g</td><td>Oral questions</td></tr>
+</tbody>
+</table>
+
+**C. Content of the skill test for the issue of the CPL — Helicopters**
+
+1\. The helicopter used for the skill test shall meet the requirements for training helicopters.
+
+2\. The area and route to be flown shall be chosen by the FE and all low level and hover work shall be at an approved aerodrome/site. Routes used for section 3 may end at the aerodrome of departure or at another aerodrome and one destination shall be a controlled aerodrome. The skill test may be conducted in 2 flights. The total duration of the flight(s) shall be at least 90 minutes.
+
+3\. The applicant shall demonstrate the ability to:
+
+(a) operate the helicopter within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge; and
+
+(e) maintain control of the helicopter at all times in such a manner that the successful outcome of a procedure or manoeuvre is never seriously in doubt.
+
+**FLIGHT TEST TOLERANCES**
+
+4\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the helicopter used.
+
+Height
+
+normal flight ± 100 feet
+
+| simulated major emergency | ± 150 feet |
+| --- | --- |
+
+| Tracking on radio aids | ± 10° |
+| --- | --- |
+
+Heading
+
+normal flight ± 10°
+
+| simulated major emergency | ± 15° |
+| --- | --- |
+
+Speed
+
+| take-off and approach multi-engine | ± 5 knots |
+| --- | --- |
+
+| all other flight regimes | ± 10 knots |
+| --- | --- |
+
+Ground drift
+
+| T.O. hover I.G.E. | ± 3 feet |
+| --- | --- |
+
+landing no sideways or backwards movement
+
+**CONTENT OF THE TEST**
+
+5\. Items in section 4 may be performed in a helicopter FNPT or a helicopter FFS. Use of helicopter checklists, airmanship, control of helicopter by external visual reference, anti-icing procedures, and principles of threat and error management apply in all sections.
+
+<table>
+<tbody><tr><td colspan="2">SECTION 1 — PRE-FLIGHT/POST-FLIGHT CHECKS AND PROCEDURES</td></tr>
+<tr><td>a</td><td>Helicopter knowledge (e.g. technical log, fuel, mass and balance, performance), flight planning, documentation, NOTAMS, weather</td></tr>
+<tr><td>b</td><td>Pre-flight inspection/action, location of parts and purpose</td></tr>
+<tr><td>c</td><td>Cockpit inspection, starting procedure</td></tr>
+<tr><td>d</td><td>Communication and navigation equipment checks, selecting and setting frequencies</td></tr>
+<tr><td>e</td><td>Pre-take-off procedure, R/T procedure, ATC liaison-compliance</td></tr>
+<tr><td>f</td><td>Parking, shutdown and post-flight procedure</td></tr>
+<tr><td colspan="2">SECTION 2 — HOVER MANOEUVRES, ADVANCED HANDLING AND CONFINED AREAS</td></tr>
+<tr><td>a</td><td>Take-off and landing (lift-off and touchdown)</td></tr>
+<tr><td>b</td><td>Taxi, hover taxi</td></tr>
+<tr><td>c</td><td>Stationary hover with head/cross/tail wind</td></tr>
+<tr><td>d</td><td>Stationary hover turns, 360° left and right (spot turns)</td></tr>
+<tr><td>e</td><td>Forward, sideways and backwards hover manoeuvring</td></tr>
+<tr><td>f</td><td>Simulated engine failure from the hover</td></tr>
+<tr><td>g</td><td>Quick stops into and downwind</td></tr>
+<tr><td>h</td><td>Sloping ground/unprepared sites landings and take-offs</td></tr>
+<tr><td>i</td><td>Take-offs (various profiles)</td></tr>
+<tr><td>j</td><td>Crosswind, downwind take-off (if practicable)</td></tr>
+<tr><td>k</td><td>Take-off at maximum take-off mass (actual or simulated)</td></tr>
+<tr><td>l</td><td>Approaches (various profiles)</td></tr>
+<tr><td>m</td><td>Limited power take-off and landing</td></tr>
+<tr><td>n</td><td>Autorotations (FE to select two items from — Basic, range, low speed, and 360° turns)</td></tr>
+<tr><td>o</td><td>Autorotative landing</td></tr>
+<tr><td>p</td><td>Practice forced landing with power recovery</td></tr>
+<tr><td>q</td><td>Power checks, reconnaissance technique, approach and departure technique</td></tr>
+<tr><td colspan="2">SECTION 3 — NAVIGATION — EN-ROUTE PROCEDURES</td></tr>
+<tr><td>a</td><td>Navigation and orientation at various altitudes/heights, map reading</td></tr>
+<tr><td>b</td><td>Altitude/height, speed, heading control, observation of airspace, altimeter setting</td></tr>
+<tr><td>c</td><td>Monitoring of flight progress, flight log, fuel usage, endurance, ETA, assessment of track error and re-establishment of correct track, instrument monitoring</td></tr>
+<tr><td>d</td><td>Observation of weather conditions, diversion planning</td></tr>
+<tr><td>e</td><td>Tracking, positioning (NDB and/or VOR), identification of facilities</td></tr>
+<tr><td>f</td><td>ATC liaison and observance of regulations, etc.</td></tr>
+<tr><td colspan="2">SECTION 4 — FLIGHT PROCEDURES AND MANOEUVRES BY SOLE REFERENCE TO INSTRUMENTS</td></tr>
+<tr><td>a</td><td>Level flight, control of heading, altitude/height and speed</td></tr>
+<tr><td>b</td><td>Rate 1 level turns onto specified headings, 180° to 360° left and right</td></tr>
+<tr><td>c</td><td>Climbing and descending, including turns at rate 1 onto specified headings</td></tr>
+<tr><td>d</td><td>Recovery from unusual attitudes</td></tr>
+<tr><td>e</td><td>Turns with 30° bank, turning up to 90° left and right</td></tr>
+<tr><td colspan="2">SECTION 5 — ABNORMAL AND EMERGENCY PROCEDURES (SIMULATED WHERE APPROPRIATE)</td></tr>
+<tr><td colspan="2">Note 1: Where the test is conducted on a multi-engine helicopter a simulated engine failure drill, including a single-engine approach and landing, shall be included in the test.</td></tr>
+<tr><td colspan="2">Note 2: The FE shall select four items from the following:</td></tr>
+<tr><td>a</td><td>Engine malfunctions, including governor failure, carburettor/engine icing, oil system, as appropriate</td></tr>
+<tr><td>b</td><td>Fuel system malfunction</td></tr>
+<tr><td>c</td><td>Electrical system malfunction</td></tr>
+<tr><td>d</td><td>Hydraulic system malfunction, including approach and landing without hydraulics, as applicable</td></tr>
+<tr><td>e</td><td>Main rotor and/or anti-torque system malfunction (FFS or discussion only)</td></tr>
+<tr><td>f</td><td>Fire drills, including smoke control and removal, as applicable</td></tr>
+<tr><td>g</td><td>Other abnormal and emergency procedures as outlined in appropriate flight manual, including for multi-engine helicopters: Simulated engine failure at take-off: rejected take-off at or before TDP or safe forced landing at or before DPATO, shortly after TDP or DPATO.  Landing with simulated engine failure: landing or go-around following engine failure before LDP or DPBL,  following engine failure after LDP or safe forced landing after DPBL. </td></tr>
+</tbody>
+</table>
+
+**D. Content of the skill test for the issue of a CPL — Airships**
+
+1\. The airship used for the skill test shall meet the requirements for training airships.
+
+2\. The area and route to be flown shall be chosen by the FE. Routes used for section 3 may end at the aerodrome of departure or at another aerodrome and one destination shall be a controlled aerodrome. The skill test may be conducted in 2 flights. The total duration of the flight(s) shall be at least 60 minutes.
+
+3\. The applicant shall demonstrate the ability to:
+
+(a) operate the airship within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge; and
+
+(e) maintain control of the airship at all times in such a manner that the successful outcome of a procedure or manoeuvre is never seriously in doubt.
+
+**FLIGHT TEST TOLERANCES**
+
+4\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the airship used.
+
+Height
+
+normal flight ± 100 feet
+
+| simulated major emergency | ± 150 feet |
+| --- | --- |
+
+| Tracking on radio aids | ± 10° |
+| --- | --- |
+
+Heading
+
+normal flight ± 10°
+
+| simulated major emergency | ± 15° |
+| --- | --- |
+
+**CONTENT OF THE TEST**
+
+5\. Items in sections 5 and 6 may be performed in an Airship FNPT or an airship FFS. Use of airship checklists, airmanship, control of airship by external visual reference, anti-icing procedures, and principles of threat and error management apply in all sections.
+
+<table>
+<tbody><tr><td colspan="2">SECTION 1 — PRE-FLIGHT OPERATIONS AND DEPARTURE</td></tr>
+<tr><td>a</td><td>Pre-flight, including: Flight planning, Documentation, Mass and Balance determination, Weather brief, NOTAMS </td></tr>
+<tr><td>b</td><td>Airship inspection and servicing</td></tr>
+<tr><td>c</td><td>Off-mast procedure, ground manoeuvring and take-off</td></tr>
+<tr><td>d</td><td>Performance considerations and trim</td></tr>
+<tr><td>e</td><td>Aerodrome and traffic pattern operations</td></tr>
+<tr><td>f</td><td>Departure procedure, altimeter setting, collision avoidance (lookout)</td></tr>
+<tr><td>g</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 2 — GENERAL AIRWORK</td></tr>
+<tr><td>a</td><td>Control of the airship by external visual reference, including straight and level, climb, descent, lookout</td></tr>
+<tr><td>b</td><td>Flight at pressure height</td></tr>
+<tr><td>c</td><td>Turns</td></tr>
+<tr><td>d</td><td>Steep descents and climbs</td></tr>
+<tr><td>e</td><td>Flight by reference solely to instruments, including: (i) level flight, control of heading, altitude and airspeed  (ii) climbing and descending turns  (iii) recoveries from unusual attitudes  (iv) limited panel instruments </td></tr>
+<tr><td>f</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 3 — EN-ROUTE PROCEDURES</td></tr>
+<tr><td>a</td><td>Control of airship by external visual reference, Range/Endurance considerations </td></tr>
+<tr><td>b</td><td>Orientation, map reading</td></tr>
+<tr><td>c</td><td>Altitude, speed, heading control, lookout</td></tr>
+<tr><td>d</td><td>Altimeter setting, ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>e</td><td>Monitoring of flight progress, flight log, fuel usage, assessment of track error and re-establishment of correct tracking</td></tr>
+<tr><td>f</td><td>Observation of weather conditions, assessment of trends, diversion planning</td></tr>
+<tr><td>g</td><td>Tracking, positioning (NDB or VOR), identification of facilities (instrument flight). Implementation of diversion plan to alternate aerodrome (visual flight)</td></tr>
+<tr><td colspan="2">SECTION 4 — APPROACH AND LANDING PROCEDURES</td></tr>
+<tr><td>a</td><td>Arrival procedures, altimeter setting, checks, lookout</td></tr>
+<tr><td>b</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>c</td><td>Go-around action from low height</td></tr>
+<tr><td>d</td><td>Normal landing</td></tr>
+<tr><td>e</td><td>Short field landing</td></tr>
+<tr><td>f</td><td>Approach and landing with idle power (single-engine only)</td></tr>
+<tr><td>g</td><td>Landing without use of flaps</td></tr>
+<tr><td>h</td><td>Post-flight actions</td></tr>
+<tr><td colspan="2">SECTION 5 — ABNORMAL AND EMERGENCY PROCEDURES</td></tr>
+<tr><td colspan="2">This section may be combined with sections 1 through 4</td></tr>
+<tr><td>a</td><td>Simulated engine failure after take-off (at a safe altitude), fire drill</td></tr>
+<tr><td>b</td><td>Equipment malfunctions</td></tr>
+<tr><td>c</td><td>Forced landing (simulated)</td></tr>
+<tr><td>d</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td>e</td><td>Oral questions</td></tr>
+<tr><td colspan="2">SECTION 6 — RELEVANT CLASS OR TYPE ITEMS</td></tr>
+<tr><td colspan="2">This section may be combined with sections 1 through 5</td></tr>
+<tr><td>a</td><td>Simulated engine failure during take-off (at a safe altitude unless carried out in an FFS)</td></tr>
+<tr><td>b</td><td>Approach and go-around with failed engine(s)</td></tr>
+<tr><td>c</td><td>Approach and full stop landing with failed engine(s)</td></tr>
+<tr><td>d</td><td>Malfunctions in the envelope pressure system</td></tr>
+<tr><td>e</td><td>ATC liaison — compliance, R/T procedures, Airmanship</td></tr>
+<tr><td>f</td><td>As determined by the FE — any relevant items of the class or type rating skill test to include, if applicable: (i) airship systems  (ii) operation of envelope pressure system </td></tr>
+<tr><td>g</td><td>Oral questions</td></tr>
+</tbody>
+</table>
+
+## Appendix 5
+
+**Integrated MPL training course**
+
+**GENERAL**
+
+1\. The aim of the MPL integrated course is to train pilots to the level of proficiency necessary to enable them to operate as co-pilot of a multi-engine multi-pilot turbine-powered air transport aeroplane under VFR and IFR and to obtain an MPL.
+
+2\. Approval for an MPL training course shall only be given to an ATO that is part of a commercial air transport operator certificated in accordance with Part-ORO or having a specific arrangement with such an operator.
+
+3\. An applicant wishing to undertake an MPL integrated course shall complete all the instructional stages in one continuous course of training at an ATO. The training shall be competency based and conducted in a multi-crew operational environment.
+
+4\. Only ab-initio applicants shall be admitted to the course.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the ATPL(A) knowledge level;
+
+(b) visual and instrument flying training;
+
+(c) training in MCC for the operation of multi-pilot aeroplanes; and
+
+(d) type rating training.
+
+6\. An applicant failing or unable to complete the entire MPL course may apply to the competent authority for the theoretical knowledge examination and skill test for a licence with lower privileges and an IR, if the applicable requirements are met.
+
+**THEORETICAL KNOWLEDGE**
+
+7\. An approved MPL theoretical knowledge course shall comprise at least 750 hours of instruction for the ATPL(A) knowledge level, as well as the hours required for:
+
+(a) theoretical knowledge instruction for the relevant type rating, in accordance with Subpart H; and
+
+(b) UPRT theoretical knowledge instruction in accordance with FCL.745.A.
+
+**FLYING TRAINING**
+
+8\. The flying training shall comprise a total of at least 240 hours, composed of hours as PF and PM, in actual and simulated flight, and covering the following four phases of training:
+
+**(a) Phase 1 — Core flying skills**
+
+Specific basic single-pilot training in an aeroplane
+
+**(b) Phase 2 — Basic**
+
+Introduction of multi-crew operations and instrument flight
+
+**(c) Phase 3 — Intermediate**
+
+Application of multi-crew operations to a multi-engine turbine aeroplane certified as a high-performance aeroplane in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012
+
+**(d) Phase 4 — Advanced**
+
+Type rating training within an airline-oriented environment.
+
+MCC requirements shall be incorporated into the relevant phases above.
+
+Training in asymmetric flight shall be given either in an aeroplane or an FFS.
+
+8a. Flight experience in actual flight shall include:
+
+(a) all the experience requirements of Subpart H;
+
+(b) UPRT flight instruction in accordance with FCL.745.A;
+
+(c) aeroplane UPRT exercises related to the specificities of the relevant type in accordance with FCL.725.A(c);
+
+(d) night flying;
+
+(e) flight solely by reference to instruments; and
+
+(f) the experience required to achieve the relevant airmanship.
+
+9\. Each phase of training in the flight instruction syllabus shall be composed of both instruction in the underpinning knowledge and in practical training segments.
+
+10\. The training course shall include a continuous evaluation process of the training syllabus and a continuous assessment of the students following the syllabus. Evaluation shall ensure that:
+
+(a) the competencies and related assessment are relevant to the task of a co-pilot of a multi-pilot aeroplane; and
+
+(b) the students acquire the necessary competencies in a progressive and satisfactory manner.
+
+11\. The training course shall include at least 12 take-offs and landings to ensure competency. Those take-offs and landings may be reduced to at least six, provided that prior to delivering the training, the ATO and the operator ensure that:
+
+(a) a procedure is in place to assess the required level of competency of the student pilot; and
+
+(b) a process is in place to ensure that corrective action is taken if in-training evaluation indicates the need to do so.
+
+Those take-offs and landings shall be performed under the supervision of an instructor in an aeroplane for which the type rating shall be issued.
+
+**ASSESSMENT LEVEL**
+
+12\. The applicant for the MPL shall have demonstrated performance in all 9 competency units specified in paragraph 13 below, at the advanced level of competency required to operate and interact as a co-pilot in a turbine-powered multi-pilot aeroplane, under visual and instrument conditions. Assessment shall confirm that control of the aeroplane or situation is maintained at all times, to ensure the successful outcome of a procedure or manoeuvre. The applicant shall consistently demonstrate the knowledge, skills and attitudes required for the safe operation of the applicable aeroplane type, in accordance with the MPL performance criteria.
+
+**COMPETENCY UNITS**
+
+13\. The applicant shall demonstrate competency in the following 9 competency units:
+
+(1) apply human performance principles, including principles of threat and error management;
+
+(2) perform aeroplane ground operations;
+
+(3) perform take-off;
+
+(4) perform climb;
+
+(5) perform cruise;
+
+(6) perform descent;
+
+(7) perform approach;
+
+(8) perform landing; and
+
+(9) perform after landing and aeroplane post-flight operations.
+
+**SIMULATED FLIGHT**
+
+14\. Minimum requirements for FSTDs:
+
+(a) Phase 1 — Core flying skills
+
+E-training and part tasking devices approved by the competent authority that have the following characteristics:
+
+— involve accessories beyond those normally associated with desktop computers, such as functional replicas of a throttle quadrant, a side-stick controller, or an FMS keypad, and
+
+— involve psychomotor activity with appropriate application of force and timing of responses.
+
+(b) Phase 2 — Basic
+
+An FNPT II MCC that represents a generic multi-engine turbine-powered aeroplane.
+
+(c) Phase 3 — Intermediate
+
+An FSTD that represents a multi-engine turbine-powered aeroplane required to be operated with a co-pilot and qualified to an equivalent standard to level B, additionally including:
+
+— a daylight/twilight/night visual system continuous cross-cockpit minimum collimated visual field of view providing each pilot with 180° horizontal and 40° vertical field of view, and
+
+— ATC environment simulation.
+
+(d) Phase 4 — Advanced
+
+An FFS which is fully equivalent to level D or level C with an enhanced daylight visual system, including ATC environment simulation.
+
+## Appendix 6
+
+**Modular training courses for the IR**
+
+**A. IR(A) — Modular flying training course**
+
+**GENERAL**
+
+1\. The aim of the IR(A) modular flying training course is to train pilots to the level of proficiency necessary to operate aeroplanes under IFR and in IMC. The course consists of two modules, which may be taken separately or combined:
+
+(a) Basic Instrument Flight Module
+
+This comprises 10 hours of instrument time under instruction, of which up to 5 hours can be instrument ground time in a BITD, FNPT I or II, or an FFS. Upon completion of the Basic Instrument Flight Module, the candidate shall be issued a Course Completion Certificate.
+
+(b) Procedural Instrument Flight Module
+
+This comprises the remainder of the training syllabus for the IR(A), 40 hours single-engine or 45 hours multi-engine instrument time under instruction, and the theoretical knowledge course for the IR(A).
+
+2\. Applicants for a modular IR(A) course shall be the holder of a PPL(A) or a CPL(A). Applicants for the Procedural Instrument Flight Module, who do not hold a CPL(A), shall be a holder of a BIR or of a Course Completion Certificate for the Basic Instrument Flight Module.
+
+The ATO shall ensure that the applicant for a multi-engine IR(A) course who has not held a multi-engine aeroplane class or type rating has received the multi-engine training specified in Subpart H prior to commencing the flight training for the IR(A) course.
+
+3\. An applicant wishing to undertake the Procedural Instrument Flight Module of a modular IR(A) course shall be required to complete all the instructional stages in one continuous approved course of training. Prior to commencing the Procedural Instrument Flight Module, the ATO shall ensure the competence of the applicant in basic instrument flying skills. Refresher training shall be given as required.
+
+4\. The course of theoretical instruction shall be completed within 18 months. The Procedural Instrument Flight Module and the skill test shall be completed within the period of validity of the pass in theoretical examinations.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the IR knowledge level;
+
+(b) instrument flight instruction.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved modular IR(A) course shall comprise at least 150 hours of theoretical knowledge instruction.
+
+**FLYING TRAINING**
+
+7\. A single-engine IR(A) course shall comprise at least 50 hours instrument time under instruction of which up to 20 hours may be instrument ground time in an FNPT I, or up to 35 hours in an FFS or FNPT II. A maximum of 10 hours of FNPT II or an FFS instrument ground time may be conducted in an FNPT I.
+
+8\. A multi-engine IR(A) course shall comprise at least 55 hours instrument time under instruction, of which up to 25 hours may be instrument ground time in an FNPT I, or up to 40 hours in an FFS or FNPT II. A maximum of 10 hours of FNPT II or an FFS instrument ground time may be conducted in an FNPT I. The remaining instrument flight instruction shall include at least 15 hours in multi-engine aeroplanes.
+
+9\. The holder of a single-engine IR(A) who also holds a multi-engine class or type rating wishing to obtain a multi-engine IR(A) for the first time shall complete a course at an ATO comprising at least 5 hours instruction in instrument flying in multi-engine aeroplanes, of which 3 hours may be in an FFS or FNPT II.
+
+10.1. Holders of a CPL(A), of a BIR, or of a Course Completion Certificate for the Basic Instrument Flight Module shall be credited with up to 10 hours in regard of the total amount of training required in paragraphs 7 or 8 above.
+
+10.2. The holder of an IR(H) may have the total amount of training required in paragraphs 7 or 8 above reduced to 10 hours.
+
+10.3. The total instrument flight instruction in aeroplane shall comply with paragraph 7 or 8, as appropriate.
+
+11\. The flying exercises up to the IR(A) skill test shall comprise:
+
+(a) Basic Instrument Flight Module: Procedure and manoeuvre for basic instrument flight covering at least:
+
+basic instrument flight without external visual cues:
+
+— horizontal flight,
+
+— climbing,
+
+— descent,
+
+— turns in level flight, climbing, descent;
+
+instrument pattern;
+
+steep turn;
+
+radionavigation;
+
+recovery from unusual attitudes;
+
+limited panel;
+
+recognition and recovery from incipient and full stalls;
+
+(b) Procedural Instrument Flight Module:
+
+(i) pre-flight procedures for IFR flights, including the use of the flight manual and appropriate air traffic services documents in the preparation of an IFR flight plan;
+
+(ii) procedure and manoeuvres for IFR operation under normal, abnormal and emergency conditions covering at least:
+
+— transition from visual to instrument flight on take-off,
+
+— standard instrument departures and arrivals,
+
+— en-route IFR procedures,
+
+— holding procedures,
+
+— instrument approaches to specified minima,
+
+— missed approach procedures,
+
+— landings from instrument approaches, including circling;
+
+(iii) in-flight manoeuvres and particular flight characteristics;
+
+(iv) if required, operation of a multi-engine aeroplane in the above exercises, including operation of the aeroplane solely by reference to instruments with one engine simulated inoperative and engine shutdown and restart (the latter exercise to be carried out at a safe altitude unless carried out in an FFS or FNPT II).
+
+**Aa. IR(A) — Competency-based modular flying training course**
+
+**GENERAL**
+
+1\. The aim of the competency-based modular flying training course is to train PPL or CPL holders for the instrument rating, taking into account prior instrument flight instruction and experience. It is designed to provide the level of proficiency needed to operate aeroplanes under IFR and in IMC. The course shall be taken within an ATO or consist of a combination of instrument flight instruction provided by an IRI(A) or an FI(A) holding the privilege to provide training for the IR and flight instruction within an ATO.
+
+2\. An applicant for such a competency-based modular IR(A) shall be the holder of a PPL(A) or CPL(A).
+
+3\. The course of theoretical instruction shall be completed within 18 months. The instrument flight instruction and the skill test shall be completed within the period of validity of the pass of the theoretical knowledge examinations.
+
+4\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the IR(A) knowledge level;
+
+(b) instrument flight instruction.
+
+**THEORETICAL KNOWLEDGE**
+
+5\. An approved competency-based modular IR(A) course shall comprise at least 80 hours of theoretical knowledge instruction. The theoretical knowledge course may contain computer-based training and e-learning elements. A minimum amount of classroom teaching as required by ORA.ATO.305 has to be provided.
+
+**FLYING TRAINING**
+
+6\. The method of attaining an IR(A) following this modular course is competency-based. However, the minimum requirements below shall be completed by the applicant. Additional training may be required to reach required competencies.
+
+(a) A single-engine competency-based modular IR(A) course shall include at least 40 hours of instrument time under instruction, of which up to 10 hours may be instrument ground time in an FNPT I, or up to 25 hours in an FFS or FNPT II. A maximum of 5 hours of FNPT II or FFS instrument ground time may be conducted in an FNPT I.
+
+(i) When the applicant has:
+
+(A) completed instrument flight instruction provided by an IRI(A) or an FI(A) holding the privilege to provide training for the IR; or
+
+(B) prior experience of instrument flight time as PIC on aeroplanes, under a rating providing the privileges to fly under IFR and in IMC,
+
+these hours may be credited towards the 40 hours above up to maximum of 30 hours,
+
+(ii) When the applicant has prior instrument flight time under instruction other than specified in point (a)(i), these hours may be credited towards the required 40 hours up to a maximum of 15 hours.
+
+(iii) In any case, the flying training shall include at least 10 hours of instrument flight time under instruction in an aeroplane at an ATO.
+
+(iv) The total amount of dual instrument instruction shall not be less than 25 hours.
+
+(b) A multi-engine competency-based modular IR(A) course shall include at least 45 hours instrument time under instruction, of which up to 10 hours may be instrument ground time in an FNPT I, or up to 30 hours in an FFS or FNPT II. A maximum of 5 hours of FNPT II or FFS instrument ground time may be conducted in an FNPT I.
+
+(i) When the applicant has:
+
+(A) completed instrument flight instruction provided by an IRI(A) or an FI(A) holding the privilege to provide training for the IR; or
+
+(B) prior experience of instrument flight time as PIC on aeroplanes, under a rating giving the privileges to fly under IFR and in IMC,
+
+these hours may be credited towards the 45 hours above up to a maximum of 35 hours.
+
+(ii) When the applicant has prior instrument flight time under instruction other than specified in point (b)(i), these hours may be credited towards the required 45 hours up to a maximum of 15 hours.
+
+(iii) In any case, the flying training shall include at least 10 hours of instrument flight time under instruction in a multi-engine aeroplane at an ATO.
+
+(iv) The total amount of dual instrument instruction shall not be less than 25 hours, of which at least 15 hours shall be completed in a multi-engine aeroplane.
+
+(c) To determine the amount of hours credited and to establish the training needs, the applicant shall complete a pre-entry assessment at an ATO.
+
+(d) The completion of the instrument flight instruction provided by an IRI(A) or FI(A) in accordance with point (a)(i) or (b)(i) shall be documented in a specific training record and signed by the instructor.
+
+7\. The flight instruction for the competency-based modular IR(A) shall comprise:
+
+(a) procedures and manoeuvres for basic instrument flight covering at least:
+
+(i) basic instrument flight without external visual cues;
+
+(ii) horizontal flight;
+
+(iii) climbing;
+
+(iv) descent;
+
+(v) turns in level flight, climbing and descent;
+
+(vi) instrument pattern;
+
+(vii) steep turn;
+
+(viii) radio navigation;
+
+(ix) recovery from unusual attitudes;
+
+(x) limited panel; and
+
+(xi) recognition and recovery from incipient and full stall;
+
+(b) pre-flight procedures for IFR flights, including the use of the flight manual and appropriate air traffic services documents for the preparation of an IFR flight plan;
+
+(c) procedure and manoeuvres for IFR operation under normal, abnormal, and emergency conditions covering at least:
+
+(i) transition from visual to instrument flight on take-off;
+
+(ii) standard instrument departures and arrivals;
+
+(iii) en route IFR procedures;
+
+(iv) holding procedures;
+
+(v) instrument approaches to specified minima;
+
+(vi) missed approach procedures; and
+
+(vii) landings from instrument approaches, including circling;
+
+(d) in-flight manoeuvres and particular flight characteristics;
+
+(e) if required, operation of a multi-engine aeroplane in the above exercises, including:
+
+(i) operation of the aeroplane solely by reference to instruments with one engine simulated inoperative;
+
+(ii) engine shutdown and restart (to be carried out at a safe altitude unless carried out in an FFS or FNPT II).
+
+8\. Applicants for the competency-based modular IR(A) holding a Part-FCL PPL or CPL and a valid IR(A) issued in compliance with the requirements of Annex 1 to the Chicago Convention by a third country may be credited in full towards the training course mentioned in paragraph 4. In order to be issued the IR(A), the applicant shall:
+
+(a) successfully complete the skill test for the IR(A) in accordance with Appendix 7;
+
+(b) demonstrate to the examiner during the skill test that he/she has acquired an adequate level of theoretical knowledge of air law, meteorology and flight planning and performance (IR); and
+
+(c) have a minimum experience of at least 50 hours of flight time under IFR as PIC on aeroplanes.
+
+9\. Applicants for the competency-based modular IR(A) who hold a BIR in accordance with point FCL.835 and who have received at least 10 hours of instrument flight time under instruction at an ATO may be credited towards the training course referred to in paragraph 4, provided that all competency-based instrument rating topics have been included in that BIR training, and assessed by the ATO that provides the competency-based modular flying training course.
+
+10\. Applicants for the competency-based modular IR(A) who hold a BIR and have experience of at least 50 hours of flight time under IFR as PIC on aeroplanes, shall:
+
+(a) at an ATO:
+
+(i) be assessed as having an acceptable standard of competency-based instrument rating theoretical knowledge;
+
+(ii) receive appropriate flight training to extend IFR privileges in accordance with FCL.605.IR(a);
+
+(b) after completion of (a);
+
+(i) successfully complete the skill test for the IR(A) in accordance with Appendix 7;
+
+(ii) demonstrate orally to the examiner during the skill test that they have acquired an adequate level of theoretical knowledge of air law, meteorology, and flight planning and performance.
+
+**PRE-ENTRY ASSESSMENT**
+
+11\.  The content and duration of the pre-entry assessment shall be determined by the ATO based on the prior instrument experience of the applicant.
+
+**MULTI-ENGINE**
+
+12\.  The holder of a single-engine IR(A) who also holds a multi-engine class or type rating wishing to obtain a multi-engine IR(A) for the first time shall complete a course at an ATO comprising at least 5 hours instrument time under instruction in multi-engine aeroplanes, of which 3 hours may be in an FFS or FNPT II and shall pass a skill test.
+
+**B. IR(H) — Modular flying training course**
+
+1\. The aim of the IR(H) modular flying training course is to train pilots to the level of proficiency necessary to operate helicopters under IFR and in IMC.
+
+2\. An applicant for a modular IR(H) course shall be the holder of a PPL(H), or a CPL(H) or an ATPL(H). Prior to commencing the aircraft instruction phase of the IR(H) course, the applicant shall be the holder of the helicopter type rating used for the IR(H) skill test, or have completed approved type rating training on that type. The applicant shall hold a certificate of satisfactory completion of MCC if the skill test is to be conducted in Multi- Pilot conditions.
+
+3\. An applicant wishing to undertake a modular IR(H) course shall be required to complete all the instructional stages in one continuous approved course of training.
+
+4\. The course of theoretical instruction shall be completed within 18 months. The flight instruction and the skill test shall be completed within the period of validity of the pass in the theoretical examinations.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the IR knowledge level;
+
+(b) instrument flight instruction.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved modular IR(H) course shall comprise at least 150 hours of instruction.
+
+**FLYING TRAINING**
+
+7\. An IR(H) course shall comprise at least 55 hours instrument time under instruction, of which:
+
+(a) up to 20 hours may be instrument ground time in an FNPT I (H) or (A). These 20 hours instruction time in FNPT I (H) or (A) may be substituted by 20 hours instruction time for IR(H) in an aeroplane, approved for this course; or
+
+(b) up to 40 hours may be instrument ground time in a helicopter FTD 2/3, FNPT II/III or FFS.
+
+The instrument flight instruction shall include at least 10 hours in an IFR-certificated helicopter.
+
+8.1.  Holders of an ATPL(H) shall have the theoretical knowledge instruction hours reduced by 50 hours.
+
+8.2.  The holder of an IR(A) may have the amount of training required reduced to 10 hours.
+
+8.3.  The holder of a PPL(H) with a helicopter night rating or a CPL(H) may have the total amount of instrument time under instruction required reduced by 5 hours.
+
+9\.  The flying exercises up to the IR(H) skill test shall comprise:
+
+(a) pre-flight procedures for IFR flights, including the use of the flight manual and appropriate air traffic services documents in the preparation of an IFR flight plan;
+
+(b) procedure and manoeuvres for IFR operation under normal, abnormal and emergency conditions covering at least:
+
+— transition from visual to instrument flight on take-off,
+
+— standard instrument departures and arrivals,
+
+— en-route IFR procedures,
+
+— holding procedures,
+
+— instrument approaches to specified minima,
+
+— missed approach procedures,
+
+— landings from instrument approaches, including circling.
+
+(c) in-flight manoeuvres and particular flight characteristics;
+
+(d) if required, operation of a multi-engine helicopter in the above exercises, including operation of the helicopter solely by reference to instruments with one engine simulated inoperative and engine shutdown and restart (the latter exercise to be carried out in an FFS or FNPT II or FTD 2/3).
+
+**C. IR(As) — Modular flying training course**
+
+**GENERAL**
+
+1\. The aim of the IR(As) modular flying training course is to train pilots to the level of proficiency necessary to operate airships under IFR and in IMC. The course consists of two modules, which may be taken separately or combined:
+
+(a) Basic Instrument Flight Module
+
+This comprises 10 hours of instrument time under instruction, of which up to 5 hours can be instrument ground time in a BITD, FNPT I or II, or an FFS. Upon completion of the Basic Instrument Flight Module, the candidate shall be issued a Course Completion Certificate.
+
+(b) Procedural Instrument Flight Module
+
+This comprises the remainder of the training syllabus for the IR(As), 25 hours instrument time under instruction, and the theoretical knowledge course for the IR(As).
+
+2\. An applicant for a modular IR(As) course shall be the holder of a PPL(As) including the privileges to fly at night or a CPL(As). An applicant for the Procedural Instrument Flight Module, who does not hold a CPL(As), shall be holder of a Course Completion Certificate for the Basic Instrument Flight Module.
+
+3\. An applicant wishing to undertake the Procedural Instrument Flight Module of a modular IR(As) course shall be required to complete all the instructional stages in one continuous approved course of training. Prior to commencing the Procedural Instrument Flight Module, the ATO shall ensure the competence of the applicant in basic instrument flying skills. Refresher training shall be given as required.
+
+4\. The course of theoretical instruction shall be completed within 18 months. The Procedural Instrument Flight Module and the skill test shall be completed within the period of validity of the pass in theoretical examinations.
+
+5\. The course shall comprise:
+
+(a) theoretical knowledge instruction to the IR knowledge level;
+
+(b) instrument flight instruction.
+
+**THEORETICAL KNOWLEDGE**
+
+6\. An approved modular IR(As) course shall comprise at least 150 hours of theoretical knowledge instruction.
+
+**FLYING TRAINING**
+
+7\. An IR(As) course shall comprise at least 35 hours instrument time under instruction of which up to 15 hours may be instrument ground time in an FNPT I, or up to 20 hours in an FFS or FNPT II. A maximum of 5 hours of FNPT II or FFS instrument ground time may be conducted in an FNPT I.
+
+8\. The holder of a CPL(As) or of a Course Completion Certificate for the Basic Instrument Flight Module may have the total amount of training required in paragraph 7 reduced by 10 hours. The total instrument flight instruction in airship shall comply with paragraph 7.
+
+9\. If the applicant is the holder of an IR in another category of aircraft the total amount of flight instruction required may be reduced to 10 hours on airships.
+
+10\. The flying exercises up to the IR(As) skill test shall comprise:
+
+(a) Basic Instrument Flight Module:
+
+Procedure and manoeuvre for basic instrument flight covering at least:
+
+basic instrument flight without external visual cues:
+
+— horizontal flight,
+
+— climbing,
+
+— descent,
+
+— turns in level flight, climbing, descent;
+
+instrument pattern;
+
+radionavigation;
+
+recovery from unusual attitudes;
+
+limited panel;
+
+(b) Procedural Instrument Flight Module:
+
+(i) pre-flight procedures for IFR flights, including the use of the flight manual and appropriate air traffic services documents in the preparation of an IFR flight plan;
+
+(ii) procedure and manoeuvres for IFR operation under normal, abnormal and emergency conditions covering at least:
+
+— transition from visual to instrument flight on take-off,
+
+— standard instrument departures and arrivals,
+
+— en-route IFR procedures,
+
+— holding procedures,
+
+— instrument approaches to specified minima,
+
+— missed approach procedures,
+
+— landings from instrument approaches, including circling;
+
+(iii) inflight manoeuvres and particular flight characteristics;
+
+(iv) operation of airship in the above exercises, including operation of the airship solely by reference to instruments with one engine simulated inoperative and engine shut-down and restart (the latter exercise to be carried out at a safe altitude unless carried out in an FFS or FNPT II).
+
+## Appendix 7
+
+**BIR and IR skill test**
+
+1\. Applicants shall have received instruction on the same class or type of aircraft to be used in the test which shall be appropriately equipped for the training and testing purposes.
+
+2\. An applicant shall pass all the relevant sections of the skill test. If any item in a section is failed, that section is failed. Failure in more than one section will require the applicant to take the entire test again. An applicant failing only one section shall only repeat the failed section. Failure in any section of the retest, including those sections that have been passed on a previous attempt, will require the applicant to take the entire test again. All relevant sections of the skill test shall be completed within 6 months. Failure to achieve a pass in all relevant sections of the test in two attempts will require further training.
+
+3\. Further training may be required following a failed skill test. There is no limit to the number of skill tests that may be attempted.
+
+**CONDUCT OF THE TEST**
+
+4\. The test is intended to simulate a practical flight. The route to be flown shall be chosen by the examiner. An essential element is the ability of the applicant to plan and conduct the flight from routine briefing material. The applicant shall undertake the flight planning and shall ensure that all equipment and documentation for the execution of the flight are on board. The duration of the flight shall be at least 1 hour.
+
+5\. Should the applicant choose to terminate a skill test for reasons considered inadequate by the examiner, the applicant shall retake the entire skill test. If the test is terminated for reasons considered adequate by the examiner, only those sections not completed shall be tested in a further flight.
+
+6\. At the discretion of the examiner, any manoeuvre or procedure of the test may be repeated once by the applicant. The examiner may stop the test at any stage if it is considered that the applicant’s demonstration of flying skill requires a complete retest.
+
+7\. An applicant shall fly the aircraft from a position where the PIC functions can be performed and to carry out the test as if there is no other crew member. The examiner shall take no part in the operation of the aircraft, except when intervention is necessary in the interests of safety or to avoid unacceptable delay to other traffic. Responsibility for the flight shall be allocated in accordance with national regulations.
+
+8\. Decision heights/altitude, minimum descent heights/altitudes and missed approach point shall be determined by the applicant and agreed by the examiner.
+
+9\. Applicants shall indicate to the examiner the checks and duties carried out, including the identification of radio facilities. Checks shall be completed in accordance with the authorised checklist for the aircraft on which the test is being taken. During pre-flight preparation for the test applicants shall determine power settings and speeds. The applicants shall calculate performance data for take-off, approach and landing in compliance with the operations manual or flight manual for the aircraft used.
+
+**FLIGHT TEST TOLERANCES**
+
+10\. The applicant shall demonstrate the ability to:
+
+operate the aircraft within its limitations;
+
+complete all manoeuvres with smoothness and accuracy;
+
+exercise good judgment and airmanship;
+
+apply aeronautical knowledge; and
+
+maintain control of the aircraft at all times in such a manner that the successful outcome of a procedure or manoeuvre is never seriously in doubt.
+
+11\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the aircraft used:
+
+<table>
+<tbody><tr><td colspan="2">Height</td></tr>
+<tr><td>Generally</td><td>± 100 feet</td></tr>
+<tr><td>Starting a go-around at decision height/altitude</td><td>+ 50 feet/– 0 feet</td></tr>
+<tr><td>Minimum descent height/MAP/altitude</td><td>+ 50 feet/– 0 feet</td></tr>
+<tr><td colspan="2">Tracking</td></tr>
+<tr><td>On radio aids</td><td>± 5°</td></tr>
+<tr><td>For angular deviations</td><td>Half scale deflection, azimuth and glide path (e.g. LPV, ILS, MLS, GLS)</td></tr>
+<tr><td>2D (LNAV) and 3D (LNAV/VNAV) ‘linear’ lateral deviations</td><td>cross-track error/deviation shall normally be limited to ±  [image]  the RNP value associated with the procedure. Brief deviations from this standard up to a maximum of 1 time the RNP value are allowable.</td></tr>
+<tr><td>3D linear vertical deviations (e.g. RNP APCH (LNAV/VNAV) using BaroVNAV)</td><td>not more than – 75 feet below the vertical profile at any time, and not more than + 75 feet above the vertical profile at or below 1 000 feet above aerodrome level.</td></tr>
+<tr><td colspan="2">Heading</td></tr>
+<tr><td>all engines operating</td><td>± 5°</td></tr>
+<tr><td>with simulated engine failure</td><td>± 10°</td></tr>
+<tr><td colspan="2">Speed</td></tr>
+<tr><td>all engines operating</td><td>± 5 knots</td></tr>
+<tr><td>with simulated engine failure</td><td>+ 10 knots/– 5 knots,</td></tr>
+</tbody>
+</table>
+
+**CONTENT OF THE TEST**
+
+**Aeroplanes**
+
+<table>
+<tbody><tr><td colspan="2">SECTION 1 — PRE-FLIGHT OPERATIONS AND DEPARTURE Use of checklist, airmanship, anti-icing/de-icing procedures, etc., apply in all sections </td></tr>
+<tr><td>a</td><td>Use of flight manual (or equivalent) especially a/c performance calculation, mass and balance</td></tr>
+<tr><td>b</td><td>Use of Air Traffic Services document, weather document</td></tr>
+<tr><td>c</td><td>Preparation of ATC flight plan, IFR flight plan/log</td></tr>
+<tr><td>d</td><td>Identification of the required navaids for departure, arrival and approach procedures</td></tr>
+<tr><td>e</td><td>Pre-flight inspection</td></tr>
+<tr><td>f</td><td>Weather Minima</td></tr>
+<tr><td>g</td><td>Taxiing</td></tr>
+<tr><td>h</td><td>PBN departure (if applicable): — Check that the correct procedure has been loaded in the navigation system; and — Cross-check between the navigation system display and the departure chart. </td></tr>
+<tr><td>i</td><td>Pre-take-off briefing, Take-off</td></tr>
+<tr><td>j ()</td><td>Transition to instrument flight</td></tr>
+<tr><td>k ()</td><td>Instrument departure procedures, including PBN departures, and altimeter setting</td></tr>
+<tr><td>l ()</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 2 — GENERAL HANDLING ()</td></tr>
+<tr><td>a</td><td>Control of the aeroplane by reference solely to instruments, including level flight at various speeds, trim</td></tr>
+<tr><td>b</td><td>Climbing and descending turns with sustained Rate 1 turn</td></tr>
+<tr><td>c</td><td>Recoveries from unusual attitudes, including sustained 45° bank turns and steep descending turns</td></tr>
+<tr><td>d (*1)</td><td>Recovery from approach to stall in level flight, climbing/descending turns and in landing configuration</td></tr>
+<tr><td>e</td><td>Limited panel: stabilised climb or descent, level turns at Rate 1 onto given headings, recovery from unusual attitudes</td></tr>
+<tr><td colspan="2">SECTION 3 — EN-ROUTE IFR PROCEDURES ()</td></tr>
+<tr><td>a</td><td>Tracking, including interception, e.g. NDB, VOR, or track between waypoints</td></tr>
+<tr><td>b</td><td>Use of navigation system and radio aids</td></tr>
+<tr><td>c</td><td>Level flight, control of heading, altitude and airspeed, power setting, trim technique</td></tr>
+<tr><td>d</td><td>Altimeter settings</td></tr>
+<tr><td>e</td><td>Timing and revision of ETAs (en-route hold, if required)</td></tr>
+<tr><td>f</td><td>Monitoring of flight progress, flight log, fuel usage, systems’ management</td></tr>
+<tr><td>g</td><td>Ice protection procedures, simulated if necessary</td></tr>
+<tr><td>h</td><td>ATC liaison - compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 3a — ARRIVAL PROCEDURES</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids, and identification of facilities, if applicable</td></tr>
+<tr><td>b</td><td>Arrival procedures, altimeter checks</td></tr>
+<tr><td>c</td><td>Altitude and speed constraints, if applicable</td></tr>
+<tr><td>d</td><td>PBN arrival (if applicable): — Check that the correct procedure has been loaded in the navigation system; and — Cross-check between the navigation system display and the arrival chart. </td></tr>
+<tr><td colspan="2">SECTION 4 ()— 3D Operations ()</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids Check Vertical Path angle  For RNP APCH:  — Check that the correct procedure has been loaded in the navigation system; and — Cross-check between the navigation system display and the approach chart. </td></tr>
+<tr><td>b</td><td>Approach and landing briefing, including descent/approach/landing checks, including identification of facilities</td></tr>
+<tr><td>c ()</td><td>Holding procedure</td></tr>
+<tr><td>d</td><td>Compliance with published approach procedure</td></tr>
+<tr><td>e</td><td>Approach timing</td></tr>
+<tr><td>f</td><td>Altitude, speed heading control (stabilised approach)</td></tr>
+<tr><td>g ()</td><td>Go-around action</td></tr>
+<tr><td>h ()</td><td>Missed approach procedure/landing</td></tr>
+<tr><td>i</td><td>ATC liaison – compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 5 () – 2D OPERATIONS ()</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids For RNP APCH:  — Check that the correct procedure has been loaded in the navigation system; and — Cross-check between the navigation system display and the approach chart. </td></tr>
+<tr><td>b</td><td>Approach and landing briefing, including descent/approach/landing checks, including identification of facilities</td></tr>
+<tr><td>c ()</td><td>Holding procedure</td></tr>
+<tr><td>d</td><td>Compliance with published approach procedure</td></tr>
+<tr><td>e</td><td>Approach timing</td></tr>
+<tr><td>f</td><td>Altitude/Distance to MAPT, speed, heading control (stabilised approach), Step Down Fixes (SDF(s)), if applicable</td></tr>
+<tr><td>g ()</td><td>Go-around action</td></tr>
+<tr><td>h ()</td><td>Missed approach procedure/landing</td></tr>
+<tr><td>i</td><td>ATC liaison – compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 6 — FLIGHT WITH ONE ENGINE INOPERATIVE (multi-engine aeroplanes only) ()</td></tr>
+<tr><td>a</td><td>Simulated engine failure after take-off or on go-around</td></tr>
+<tr><td>b</td><td>Approach, go-around and procedural missed approach with one engine inoperative</td></tr>
+<tr><td>c</td><td>Approach and landing with one engine inoperative</td></tr>
+<tr><td>d</td><td>ATC liaison – compliance, R/T procedures</td></tr>
+<tr><td colspan="2">(1)  Must be performed by sole reference to instruments.  (*1)  May be performed in an FFS, FTD 2/3 or FNPT II.  (2)  May be performed in either Section 4 or Section 5.  (3)  To establish PBN privileges, one approach in either Section 4 or Section 5 shall be an RNP APCH. Where an RNP APCH is not practicable, it shall be performed in an appropriately equipped FSTD. </td></tr>
+</tbody>
+</table>
+
+**Helicopters**
+
+<table>
+<tbody><tr><td colspan="2">SECTION 1 — DEPARTURE</td></tr>
+<tr><td colspan="2">Use of checklist, airmanship, anti-icing/de-icing procedures, etc., apply in all sections</td></tr>
+<tr><td>a</td><td>Use of flight manual (or equivalent) especially aircraft performance calculation; mass and balance</td></tr>
+<tr><td>b</td><td>Use of Air Traffic Services document, weather document</td></tr>
+<tr><td>c</td><td>Preparation of ATC flight plan, IFR flight plan/log</td></tr>
+<tr><td>d</td><td>Identification of the required navaids for departure, arrival and approach procedures</td></tr>
+<tr><td>e</td><td>Pre-flight inspection</td></tr>
+<tr><td>f</td><td>Weather minima</td></tr>
+<tr><td>g</td><td>Taxiing/Air taxi in compliance with ATC or instructions of instructor</td></tr>
+<tr><td>h</td><td>PBN departure (if applicable): — Check that the correct procedure has been loaded in the navigation system; and  — Cross-check between the navigation system display and the departure chart. </td></tr>
+<tr><td>i</td><td>Pre-take-off briefing, procedures and checks</td></tr>
+<tr><td>j</td><td>Transition to instrument flight</td></tr>
+<tr><td>k</td><td>Instrument departure procedures, including PBN procedures</td></tr>
+<tr><td colspan="2">SECTION 2 — GENERAL HANDLING</td></tr>
+<tr><td>a</td><td>Control of the helicopter by reference solely to instruments, including:</td></tr>
+<tr><td>b</td><td>Climbing and descending turns with sustained Rate 1 turn</td></tr>
+<tr><td>c</td><td>Recoveries from unusual attitudes, including sustained 30° bank turns and steep descending turns</td></tr>
+<tr><td colspan="2">SECTION 3 — EN-ROUTE IFR PROCEDURES</td></tr>
+<tr><td>a</td><td>Tracking, including interception, e.g. NDB, VOR, RNAV</td></tr>
+<tr><td>b</td><td>Use of radio aids</td></tr>
+<tr><td>c</td><td>Level flight, control of heading, altitude and airspeed, power setting</td></tr>
+<tr><td>d</td><td>Altimeter settings</td></tr>
+<tr><td>e</td><td>Timing and revision of ETAs</td></tr>
+<tr><td>f</td><td>Monitoring of flight progress, flight log, fuel usage, systems management</td></tr>
+<tr><td>g</td><td>Ice protection procedures, simulated if necessary and if applicable</td></tr>
+<tr><td>h</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 3a — ARRIVAL PROCEDURES</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids, if applicable</td></tr>
+<tr><td>b</td><td>Arrival procedures, altimeter checks</td></tr>
+<tr><td>c</td><td>Altitude and speed constraints, if applicable</td></tr>
+<tr><td>d</td><td>PBN arrival (if applicable) — Check that the correct procedure has been loaded in the navigation system; and  — Cross-check between the navigation system display and the arrival chart. </td></tr>
+<tr><td colspan="2">SECTION 4 — 3D OPERATIONS ()</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids Check Vertical Path angle For RNP APCH:  (a) Check that the correct procedure has been loaded in the navigation system; and  (b) Cross-check between the navigation system display and the approach chart. </td></tr>
+<tr><td>b</td><td>Approach and landing briefing, including descent/approach/landing checks</td></tr>
+<tr><td>c (*1)</td><td>Holding procedure</td></tr>
+<tr><td>d</td><td>Compliance with published approach procedure</td></tr>
+<tr><td>e</td><td>Approach timing</td></tr>
+<tr><td>f</td><td>Altitude, speed, heading control (stabilised approach)</td></tr>
+<tr><td>g (*1)</td><td>Go-around action</td></tr>
+<tr><td>h (*1)</td><td>Missed approach procedure/landing</td></tr>
+<tr><td>i</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 5 — 2D OPERATIONS ()</td></tr>
+<tr><td>a</td><td>Setting and checking of navigational aids For RNP APCH:  — Check that the correct procedure has been loaded in the navigation system; and  — Cross-check between the navigation system display and the approach chart. </td></tr>
+<tr><td>b</td><td>Approach and landing briefing, including descent/approach/landing checks and identification of facilities</td></tr>
+<tr><td>c (*1)</td><td>Holding procedure</td></tr>
+<tr><td>d</td><td>Compliance with published approach procedure</td></tr>
+<tr><td>e</td><td>Approach timing</td></tr>
+<tr><td>f</td><td>Altitude, speed, heading control (stabilised approach)</td></tr>
+<tr><td>g (*1)</td><td>Go-around action</td></tr>
+<tr><td>h (*1)</td><td>Missed approach procedure (*1)/landing</td></tr>
+<tr><td>i</td><td>ATC liaison — compliance, R/T procedures</td></tr>
+<tr><td colspan="2">SECTION 6 — ABNORMAL AND EMERGENCY PROCEDURES</td></tr>
+<tr><td colspan="2">This section may be combined with sections 1 through 5. The test shall have regard to control of the helicopter, identification of the failed engine, immediate actions (touch drills), follow-up actions and checks and flying accuracy, in the following situations:</td></tr>
+<tr><td>a</td><td>Simulated engine failure after take-off and on/during approach (*2) (at a safe altitude unless carried out in an FFS or FNPT II/III, FTD 2,3)</td></tr>
+<tr><td>b</td><td>Failure of stability augmentation devices/hydraulic system (if applicable)</td></tr>
+<tr><td>c</td><td>Limited panel</td></tr>
+<tr><td>d</td><td>Autorotation and recovery to a pre-set altitude</td></tr>
+<tr><td>e</td><td>3D operations manually without flight director (*3) 3D operations manually with flight director (*3) </td></tr>
+<tr><td colspan="2">(1)  To establish PBN privileges, one approach in either Section 4 or Section 5 shall be an RNP APCH. Where an RNP APCH is not practicable, it shall be performed in an appropriately equipped FSTD.    (*1)  To be performed in Section 4 or Section 5.  (*2)  Multi-engine helicopter only.  (*3)  Only one item to be tested. </td></tr>
+</tbody>
+</table>
+
+## Appendix 8
+
+**Cross-crediting of the IR part of a class or type rating proficiency check or EBT practical assessment**
+
+**A. Aeroplanes**
+
+Credits shall be granted only if holders are revalidating or renewing IR privileges for single-pilot single-engine and single-pilot multi-engine aeroplanes, as appropriate.
+
+<table>
+<tbody><tr><td colspan="2"></td></tr>
+<tr><td>If a skill test, proficiency check or EBT practical assessment including IR is performed, and holders have a valid:</td><td>Credit is valid towards the IR part in proficiency check for:</td></tr>
+<tr><td>MPA type rating; single-pilot high-performance complex aeroplane type rating</td><td>SE class rating (*1), and SE type rating (*1), and  SP ME class or type rating except for high-performance complex type ratings, only credits for Section 3B of the proficiency check in point B.5 of Appendix 9 (*1) </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>SP ME aeroplane class or type rating except for high-performance complex aeroplane type ratings, operated as single-pilot</td><td>SE class rating, and SE type rating, and  SP ME class or type rating except for high-performance complex aeroplane type ratings </td></tr>
+<tr><td>SP ME aeroplane class or type rating except for high-performance complex aeroplane type ratings, restricted to MP operations</td><td>SE class rating (*1), and SE type rating (*1), and  SP ME class or type rating except for high-performance complex aeroplane type ratings (*1). </td></tr>
+<tr><td>SP SE aeroplane class or type rating</td><td>SE class rating, and SE type rating </td></tr>
+<tr><td colspan="2">(*1)  Provided that within the preceding 12 months the applicants have flown at least three IFR departures and approaches exercising PBN privileges, including at least one RNP APCH approach, on an SP class or type of aeroplane in SP operations, or, for multi-engine, other than HP complex aeroplanes, the applicants have passed Section 6 of the skill test for SP, other than HP complex aeroplanes flown solely by reference to instruments in SP operations. </td></tr>
+</tbody>
+</table>
+
+**B. Helicopters**
+
+Credits shall be granted only if holders are revalidating or renewing IR privileges for single-pilot helicopters, as appropriate.
+
+<table>
+<tbody><tr><td>If a skill test or a proficiency check, including IR, is performed and the holders have a valid:</td><td>Credit is valid towards the IR part in a proficiency check for:</td></tr>
+<tr><td>Multi-pilot helicopter (MPH) type rating</td><td>Single-pilot helicopter (SPH) of the same type, including privileges for single-pilot operations (1)</td></tr>
+<tr><td>Single-pilot helicopter (SPH) type rating, in multi-pilot operations</td><td>Privileges for single-pilot operations in the same type (1)</td></tr>
+<tr><td colspan="2">(1)  Provided that within the preceding 12 months at least three IFR departures and approaches exercising PBN privileges, including one RNP APCH approach (which may be a Point in Space (PinS) approach), have been performed on a SP type of helicopter in SP operations. </td></tr>
+</tbody>
+</table>
+
+## Appendix 9
+
+**Training, skill test and proficiency check for the MPL, and the ATPL, and for type and class ratings, and proficiency checks for the BIR and the IR**
+
+**A. General**
+
+1\. Applicants for a skill test shall have received instruction in the same class or type of aircraft to be used in the test.
+
+1a. Training in FFS in accordance with points 1b and 1c of this Section shall be complemented with take-off and landing training in a single-pilot aircraft operated in single-pilot or multi-pilot operations, or in a multi-pilot aircraft, as applicable, in accordance with point 17 of this Section, unless the training is completed in accordance with point FCL.730.A or constitutes training for cruise relief co-pilots in accordance with Section B, point 6(i), of this Appendix.
+
+1b. The training for MPA and PL type ratings shall be conducted in an FFS or in a combination of FSTD(s) and FFS. The skill test or proficiency check for MPA and PL type ratings and the issue of an ATPL and an MPL, shall be conducted in an FFS, if available.
+
+1c. The training, skill test or proficiency check for class or type ratings for SPA and helicopters shall be conducted in either of the following:
+
+(a) an available and accessible FFS, or in a combination of such FFS and FSTD(s);
+
+(b) a combination of FSTD(s) and the aircraft if an FFS is not available or accessible;
+
+(c) the aircraft if no FSTD is available or accessible.
+
+1d. By way of derogation from point 1c, the training, skill test or proficiency check for class or type ratings for non-complex SPA and for non-complex helicopters may be conducted in a combination of FSTD(s) and the aircraft even if an FFS is available and accessible.
+
+1e. By way of derogation from point 1c, the training, skill test or proficiency check for any of the following may be conducted in accordance with points 1c(a), (b) or (c), irrespective of the availability and accessibility of FFS or FSTD:
+
+(a) non-complex non-high-performance single-pilot aeroplanes;
+
+(b) TMGs;
+
+(c) non-complex helicopters for which the maximum certified seat configuration does not exceed five seats.
+
+1f. If FSTDs are used during training, testing or checking, the suitability of the FSTDs used shall be verified against the applicable ‘Table of functions and subjective tests’ and the applicable ‘Table of FSTD validation tests’ contained in the primary reference document applicable for the device used. All restrictions and limitations indicated on the device’s qualification certificate shall be considered.
+
+2\. Failure to achieve a pass in all sections of the test in two attempts will require further training.
+
+3\. There is no limit to the number of skill tests that may be attempted.
+
+**CONTENT OF THE TRAINING/SKILL TEST/PROFICIENCY CHECK**
+
+4\. Unless otherwise determined in the operational suitability data established in accordance with Annex I (Part-21) to Regulation (EU) No 748/2012 (OSD), the syllabus of flight instruction, the skill test and the proficiency check shall comply with this Appendix. The syllabus, skill test and proficiency check may be reduced to give credit for previous experience on similar aircraft types, as determined in the OSD.
+
+5\. Except in the case of skill tests for the issue of an ATPL, when so defined in the OSD for the specific aircraft, credit may be given for skill test items common to other types or variants where the pilots are qualified.
+
+**CONDUCT OF THE TEST/CHECK**
+
+6\. The examiner may choose between different skill test or proficiency check scenarios containing simulated relevant operations. Full-flight simulators and other training devices shall be used, as established in this Annex (Part-FCL).
+
+7\. During the proficiency check, the examiner shall verify that holders of the class or type rating maintain an adequate level of theoretical knowledge.
+
+8\. Should applicants choose to terminate a skill test for reasons considered inadequate by the examiner, they shall retake the entire skill test. If the test is terminated for reasons considered adequate by the examiner, only those sections not completed shall be tested in a further flight.
+
+9\. At the discretion of the examiner, any manoeuvre or procedure of the test may be repeated once by the applicants. The examiner may stop the test at any stage if it is considered that the applicants' demonstration of flying skill requires a complete retest.
+
+10\. Applicants shall be required to fly the aircraft from a position where the PIC or co-pilot functions, as relevant, can be performed. Under single-pilot conditions, the test shall be performed as if there was no other crew member present.
+
+11\. During preflight preparation for the test, applicants are required to determine power settings and speeds. Applicants shall indicate to the examiner the checks and duties carried out, including the identification of radio facilities. Checks shall be completed in accordance with the checklist for the aircraft on which the test is being taken and, if applicable, with the MCC concept. Performance data for take-off, approach and landing shall be calculated by applicants in compliance with the operations manual or flight manual for the aircraft used. Decision heights/altitudes, minimum descent heights/altitudes and missed approach point shall be agreed upon with the examiner.
+
+12\. The examiner shall take no part in the operation of the aircraft except where intervention is necessary in the interests of safety or to avoid unacceptable delay to other traffic.
+
+**SPECIFIC REQUIREMENTS FOR THE TRAINING, SKILL TEST AND PROFICIENCY CHECK FOR TYPE RATINGS FOR MULTI-PILOT AIRCRAFT, FOR SINGLE-PILOT AIRCRAFT WHEN OPERATED IN MULTI-PILOT OPERATIONS, FOR THE MPL AND FOR THE ATPL**
+
+13\. The skill test for a multi-pilot aircraft or a single-pilot aircraft when operated in multi-pilot operations shall be performed in a multi-crew environment. Another applicant or another type rated qualified pilot may function as the second pilot. If an aircraft is used, the second pilot shall be the examiner or an instructor.
+
+14\. Applicants shall operate as PF during all sections of the skill test, except for abnormal and emergency procedures, which may be conducted as PF or PM in accordance with MCC. Applicants for the initial issue of a multi-pilot aircraft type rating or ATPL shall also demonstrate the ability to act as PM. Applicants may choose either the left-hand or the right-hand seat for the skill test if all items can be executed from the selected seat.
+
+15\. The following matters shall be specifically checked by the examiner for applicants for the ATPL or a type rating for multi-pilot aircraft or for multi-pilot operations in a single-pilot aircraft extending to the duties of a PIC, irrespective of whether the applicants act as PF or PM:
+
+(a) managing crew cooperation;
+
+(b) maintaining a general survey of the aircraft operation by appropriate supervision; and
+
+(c) setting priorities and making decisions in accordance with safety aspects and relevant rules and regulations appropriate to the operational situation, including emergencies.
+
+16\. The test or check should be accomplished under IFR, if the IR rating is included, and as far as possible be accomplished in a simulated commercial air transport environment. An essential element to be checked is the ability to plan and conduct the flight from routine briefing material.
+
+17\. When their type rating course has included less than 2 hours of flight training in the aircraft, applicants shall, before or after the skill test, complete flight training in the aircraft.
+
+Such approved flight training shall include take-off and landing manoeuvres and shall be performed by a qualified instructor under the responsibility of:
+
+(a) an ATO; or
+
+(b) an organisation holding an AOC issued in accordance with Annex III (Part-ORO) to Regulation (EU) No 965/2012 and specifically approved for such training; or
+
+(c) the instructor, in cases where no aircraft flight training for SP aircraft at an ATO or AOC holder is approved, and the aircraft flight training was approved by the applicants' competent authority.
+
+A certificate of completion of the type rating course including the flight training in the aircraft shall be forwarded to the competent authority before the new type rating is entered in the applicants' licence.
+
+18\. For the upset recovery training, ‘stall event’ means either an approach-to-stall or a stall. An FFS can be used by the ATO to either train recovery from a stall or demonstrate the type-specific characteristics of a stall, or both, provided that:
+
+(a) the FFS has been qualified in accordance with the special evaluation requirements in CS-FSTD(A); and
+
+(b) the ATO has successfully demonstrated to the competent authority that any negative transfer of training is mitigated.
+
+**B. Specific requirements for the aeroplane category**
+
+**PASS MARKS**
+
+1\. In the case of single-pilot aeroplanes, with the exception of single-pilot high-performance complex aeroplanes, applicants shall pass all sections of the skill test or proficiency check. Failure in any item of a section will cause applicants to fail the entire section. If they fail only one section, they shall repeat only that section. Failure in more than one section will require applicants to repeat the entire test or check. Failure in any section in the case of a retest or recheck, including those sections that have been passed on a previous attempt, will require applicants to repeat the entire test or check again. For single-pilot multi-engine aeroplanes, Section 6 of the relevant test or check, addressing asymmetric flight, shall be passed.
+
+2\. In the case of multi-pilot and single-pilot high-performance complex aeroplanes, applicants shall pass all sections of the skill test or proficiency check. Failure in more than five items will require applicants to take the entire test or check again. Applicants failing five or fewer items shall take the failed items again. Failure in any item on the retest or recheck, including those items that have been passed on a previous attempt, will require applicants to repeat the entire check or test again.
+
+**FLIGHT TEST TOLERANCE**
+
+3\. Applicants shall demonstrate the ability to:
+
+(a) operate the aeroplane within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge;
+
+(e) maintain control of the aeroplane at all times in such a manner that the successful outcome of a procedure or manoeuvre is never in doubt;
+
+(f) understand and apply crew coordination and incapacitation procedures, if applicable; and
+
+(g) communicate effectively with the other crew members, if applicable.
+
+4\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the aeroplane used:
+
+Height
+
+| Generally | ± 100 ft |
+| --- | --- |
+| Starting a go-around at decision height/altitude | + 50 ft/– 0 ft |
+| Minimum descent height/MAPt/altitude | + 50 ft/– 0 ft |
+
+Tracking
+
+| On radio aids | ± 5° |
+| --- | --- |
+| For ‘angular’ deviations | Half-scale deflection, azimuth and glide path (e.g. LPV, ILS, MLS, GLS) |
+| 2D (LNAV) and 3D (LNAV/VNAV) ‘linear’ lateral deviations | cross-track error/deviation shall normally be limited to ± [image] of the RNP value associated with the procedure. Brief deviations from this standard up to a maximum of one time the RNP value are allowable. |
+| 3D linear vertical deviations (e.g. RNP APCH (LNAV/VNAV) using BaroVNAV) | not more than – 75 ft below the vertical profile at any time, and not more than + 75 ft above the vertical profile at or below 1 000 ft above aerodrome level. |
+
+Heading
+
+| all engines operating | ± 5° |
+| --- | --- |
+| with simulated engine failure | ± 10° |
+
+Speed
+
+| all engines operating | ± 5 knots |
+| --- | --- |
+| with simulated engine failure | + 10 knots/– 5 knots |
+
+**CONTENT OF THE TRAINING/SKILL TEST/PROFICIENCY CHECK**
+
+5\. Single-pilot aeroplanes, except for high-performance complex aeroplanes
+
+(a) The following symbols mean:
+
+P = Trained as PIC or co-pilot and as PF and PM
+
+OTD = Other training devices may be used for this exercise
+
+X = An FFS shall be used for this exercise; otherwise, an aeroplane shall be used if appropriate for the manoeuvre or procedure
+
+P# = The training shall be complemented by supervised aeroplane inspection
+
+(b) The practical training shall be conducted at least at the training equipment level shown as (P), or may be conducted on any higher level of equipment shown by the arrow (---->).
+
+The following abbreviations are used to indicate the training equipment used:
+
+A = aeroplane
+
+FFS = full-flight simulator
+
+FSTD = flight simulation training device
+
+(c) The starred (*) items of Section 3B and, for multi-engine, Section 6, shall be flown solely by reference to instruments if revalidation/renewal of an IR is included in the skill test or proficiency check. If the starred (*) items are not flown solely by reference to instruments during the skill test or proficiency check, and when there is no crediting of IR privileges, the class or type rating will be restricted to VFR only.
+
+(d) Section 3A shall be completed to revalidate a type or multi-engine class rating, VFR only, where the required experience of 10 route sectors within the previous 12 months has not been completed. Section 3A is not required if Section 3B is completed.
+
+(e) Where the letter ‘M’ appears in the skill test or proficiency check column, this will indicate a mandatory exercise or a choice where more than one exercise appears.
+
+(f) An FSTD shall be used for practical training for type or ME class ratings if they form part of an approved class or type rating course. The following considerations will apply to the approval of the course:
+
+(i) the qualification of the FSTD as set out in the relevant requirements of Annex VI (Part-ARA) and Annex VII (Part-ORA);
+
+(ii) the qualifications of the instructors;
+
+(iii) the amount of FSTD training provided on the course; and
+
+(iv) the qualifications and previous experience on similar types of the pilots under training.
+
+(g) To exercise the privileges of a class or type rating in multi-pilot operations in accordance with point FCL.725(d) or (da), pilots that are already entitled to operate the relevant class or type of aeroplane in single-pilot operations shall meet the following conditions:
+
+(1) complete a bridge course containing manoeuvres and procedures including MCC as well as the exercises of Section 7 using threat and error management (TEM), CRM and human factors at an organisation that is specified in point FCL.725(d)(1)(i);
+
+(2) pass a proficiency check in multi-pilot operations.
+
+(h) To exercise the privileges of a type rating in single-pilot operations in accordance with point FCL.725(d), pilots that are already entitled to operate the relevant type of aeroplane in multi-pilot operations shall be trained at an organisation that is specified in point FCL.725(d)(1)(i) and checked for the following additional manoeuvres and procedures in single-pilot operations:
+
+(i) for SE aeroplanes, 1.6, 4.5, 4.6, 5.2 and, if applicable, one approach from Section 3.B;
+
+(ii) for ME aeroplanes, 1.6, Section 6 and, if applicable, one approach from Section 3.B.
+
+(i) Pilots that are entitled to exercise the privileges of a class or type rating in both single-pilot and multi-pilot operations in accordance with points (g) and (h) may maintain privileges for both forms of operation by completing either of the following:
+
+(i) two proficiency checks, one in single-pilot operations and one in multi-pilot operations;
+
+(ii) a proficiency check in multi-pilot operations in addition to the exercises referred to in points (h)(i) or (h)(ii), as applicable, in single-pilot operations.
+
+Proficiency checks for the revalidation or renewal of class ratings shall always include the exercises referred to in points (h)(i) or (h)(ii), as applicable, in single-pilot operations.
+
+(j) To remove a restriction to multi-pilot operations from a single-pilot aeroplane type rating in accordance with point FCL.725(d)(2), pilots shall comply with point (h).
+
+(k) The training, testing and checking shall follow the table mentioned below.
+
+(1) Training at an ATO, testing and checking requirements for single-pilot privileges
+
+(2) Training at an ATO, testing and checking requirements for multi-pilot privileges
+
+(3) Training at an ATO, testing and checking requirements for pilots holding single-pilot privileges seeking multi-pilot privileges for the first time (bridge course)
+
+(4) Training at an ATO, testing and checking requirements for pilots holding multi-pilot privileges seeking single-pilot privileges for the first time (bridge course)
+
+(5) Training at an ATO and checking requirements for combined revalidation and renewal of single and multi-pilot privileges
+
+<table>
+<tbody><tr><td>  </td><td colspan="2">(1)</td><td colspan="2">(2)</td><td colspan="2">(3)</td><td colspan="2">(4)</td><td colspan="2">(5)</td></tr>
+<tr><td>  </td><td colspan="10">Type of operation</td></tr>
+<tr><td>Type of aircraft</td><td colspan="2">SP</td><td colspan="2">MP</td><td colspan="2">SP → MP (initial)</td><td colspan="2">MP → SP (initial)</td><td colspan="2">SP+MP</td></tr>
+<tr><td>  </td><td>Training</td><td>Testing/checking</td><td>Training</td><td>Testing/checking</td><td>Training</td><td>Testing/checking</td><td>Training, testing and checking (SE aeroplanes)</td><td>Training, testing and checking (ME aeroplanes)</td><td>SE aeroplanes</td><td>ME aeroplanes</td></tr>
+<tr><td>Initial issue</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>All (except SP complex)</td><td>Sections 1-6</td><td>Sections 1-6</td><td rowspan="2">MCC CRM  Human factors  TEM  Sections 1-7 </td><td rowspan="2">Sections 1-6</td><td rowspan="2">MCC CRM  Human factors  TEM  Section 7 </td><td rowspan="2">Sections 1-6</td><td rowspan="2">1.6, 4.5, 4.6, 5.2 and, if applicable, one approach from Section 3.B</td><td rowspan="2">1.6, Section 6 and, if applicable, one approach from Section 3.B</td><td rowspan="2">  </td><td rowspan="2">  </td></tr>
+<tr><td>SP complex</td><td>1-7</td><td>1-6</td></tr>
+<tr><td>Revalidation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>All</td><td>n/a</td><td>Sections 1-6</td><td>n/a</td><td>Sections 1-6</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>MPO: Sections 1-7 (training)  Section 1-6 (checking)  SPO:  1.6, 4.5, 4.6, 5.2 and, if applicable, one approach from Section 3.B </td><td>MPO: Sections 1-7 (training)  Sections 1-6 (checking)  SPO:  1.6, Section 6 and, if applicable, one approach from Section 3.B </td></tr>
+<tr><td>Renewal</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>All</td><td>FCL.740</td><td>Sections 1-6</td><td>FCL.740</td><td>Sections 1-6</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>Training: FCL.740 Check: as for the revalidation </td><td>Training: FCL.740 Check: as for the revalidation </td></tr>
+</tbody>
+</table>
+
+(l) To establish or maintain PBN privileges, one approach shall be an RNP APCH. Where an RNP APCH is not practicable, it shall be performed in an appropriately equipped FSTD.
+
+By way of derogation from the first paragraph, in cases where a proficiency check for revalidation of PBN privileges is performed in an aircraft or an FSTD representing that aircraft, which are not equipped for RNP APCH manoeuvres, the proficiency check may not include RNP APCH exercises. In such cases, the PBN privileges of the pilot shall not include RNP APCH. The restriction shall be lifted if the pilot has completed a proficiency check including an RNP APCH exercise for the relevant class or type.
+
+<table>
+<tbody><tr><td colspan="2">TMGs AND SINGLE-PILOT AEROPLANES, EXCEPT FOR HIGH-PERFORMANCE COMPLEX AEROPLANES</td><td colspan="3">PRACTICAL TRAINING</td><td colspan="2">CLASS OR TYPE RATING SKILL TEST OR PROFICIENCY CHECK</td></tr>
+<tr><td colspan="2">Manoeuvres/procedures</td><td>FSTD</td><td>A</td><td>Instructor initials when training completed</td><td>Tested or checked in FSTD or A</td><td>Examiner initials when test or check completed</td></tr>
+<tr><td colspan="7">SECTION 1</td></tr>
+<tr><td>1 1.1 </td><td>Departure Preflight including:  — documentation;  — mass and balance;  — weather briefing; and  — NOTAM. </td><td>OTD</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2</td><td>Pre-start checks</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2.1</td><td>External</td><td>OTD P# </td><td>P</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.2.2</td><td>Internal</td><td>OTD P# </td><td>P</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.3</td><td>Engine starting: normal malfunctions. </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.4</td><td>Taxiing</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.5</td><td>Pre-departure checks: engine run-up (if applicable) </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.6</td><td>Take-off procedure: — normal with flight manual flap settings; and  — crosswind (if conditions are available). </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.7</td><td>Climbing: — Vx/Vy;  — turns onto headings; and  — level off. </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.8</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>  </td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 2</td></tr>
+<tr><td>2 2.1 </td><td>Airwork (visual meteorological conditions (VMC)) Straight and level flight at various airspeeds including flight at critically low airspeed with and without flaps (including approach to V Vmca when applicable) </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.2</td><td>Steep turns (360° left and right at 45° bank)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.3</td><td>Stalls and recovery: (i) clean stall;  (ii) approach to stall in descending turn with bank with approach configuration and power;  (iii) approach to stall in landing configuration and power; and  (iv) approach to stall, climbing turn with take-off flap and climb power (single-engine aeroplanes only) </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.4</td><td>Handling using autopilot and flight director (may be conducted in Section 3), if applicable</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.5</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 3A</td></tr>
+<tr><td>3A 3A.1 </td><td>En route procedures VFR (see B.5 (c) and (d))  Flight plan, dead reckoning and map reading </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3A.2</td><td>Maintenance of altitude, heading and speed</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3A.3</td><td>Orientation, timing and revision of ETAs</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3A.4</td><td>Use of radio navigation aids (if applicable)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3A.5</td><td>Flight management (flight log, routine checks including fuel, systems and icing)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3A.6</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">SECTION 3B</td></tr>
+<tr><td>3B 3B.1* </td><td>Instrument flight Departure IFR </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.2*</td><td>En route IFR</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.3*</td><td>Holding procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.4*</td><td>3D operations to decision height/altitude (DH/A) of 200 ft (60 m) or to higher minima if required by the approach procedure (autopilot may be used to the final approach segment vertical path intercept)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.5*</td><td>2D operations to minimum descent height/altitude (MDH/A)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.6*</td><td>Flight exercises including simulated failure of the compass and attitude indicator: — rate 1 turns; and  — recoveries from unusual attitudes. </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3B.7*</td><td>Failure of localiser or glideslope</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3B.8*</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Intentionally left blank</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">SECTION 4</td></tr>
+<tr><td>4 4.1 </td><td>Arrival and landings Aerodrome arrival procedure </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>4.2</td><td>Normal landing</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>4.3</td><td>Flapless landing</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>4.4</td><td>Crosswind landing (if suitable conditions)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.5</td><td>Approach and landing with idle power from up to 2 000 ft above the runway (single-engine aeroplanes only)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.6</td><td>Go-around from minimum height</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>4.7</td><td>Night go-around and landing (if applicable)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.8</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 5</td></tr>
+<tr><td>5</td><td>Abnormal and emergency procedures (This section may be combined with Sections 1 through 4.)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.1</td><td>Rejected take-off at a reasonable speed</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>5.2</td><td>Simulated engine failure after take-off (single-engine aeroplanes only)</td><td>  </td><td>P</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>5.3</td><td>Simulated forced landing without power (single-engine aeroplanes only)</td><td>  </td><td>P</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>5.4</td><td>Simulated emergencies: (i) fire or smoke in flight; and  (ii) systems' malfunctions as appropriate </td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.5</td><td>ME aeroplanes and TMG training only: engine shutdown and restart (at a safe altitude if performed in the aircraft)</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6</td><td>ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">SECTION 6</td></tr>
+<tr><td>6 6.1* </td><td>Simulated asymmetric flight (This section may be combined with Sections 1 through 5.)  Simulated engine failure during take-off (at a safe altitude unless carried out in an FFS or an FNPT II) </td><td>P----&gt;</td><td>---&gt;X</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>6.2*</td><td>Asymmetric approach and go-around</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>6.3*</td><td>Asymmetric approach and full-stop landing</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>6.4</td><td>ATC liaison — compliance, R/T procedures</td><td>P----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 7</td></tr>
+<tr><td>7</td><td>UPRT</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1</td><td>Flight manoeuvres and procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1.1</td><td>Manual flight with and without flight directors (no autopilot, no autothrust/autothrottle, and at different control laws, where applicable) </td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1.1.1</td><td>At different speeds (including slow flight) and altitudes within the FSTD training envelope.</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1.1.2</td><td>Steep turns using 45° bank, 180° to 360° left and right</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1.1.3</td><td>Turns with and without spoilers</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.1.1.4</td><td>Procedural instrument flying and manoeuvring including instrument departure and arrival, and visual approach</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.2 7.2.1 </td><td>Upset recovery training Recovery from stall events in:  — take-off configuration;  — clean configuration at low altitude;  — clean configuration near maximum operating altitude; and  — landing configuration </td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>7.2.2</td><td>The following upset exercises: — recovery from nose-high at various bank angles; and  — recovery from nose-low at various bank angles. </td><td>P</td><td>X An aeroplane shall not be used for this exercise </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>7.3</td><td>Go-around with all engines operating* from various stages during an instrument approach</td><td>P---&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.4</td><td>Rejected landing with all engines operating: — from various heights below DH/MDH 15 m (50 ft) above the runway threshold  — after touchdown (baulked landing)  — In aeroplanes which are not certificated as transport category aeroplanes (JAR/FAR 25) or as commuter category aeroplanes (SFAR 23), the rejected landing with all engines operating shall be initiated below MDH/A or after touchdown. </td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+6\. Multi-pilot aeroplanes and single-pilot high-performance complex aeroplanes
+
+(a) The following symbols mean:
+
+P = Trained as PIC or co-pilot and as PF and PM for the issue of a type rating as applicable.
+
+OTD = Other training devices may be used for this exercise
+
+X = An FFS shall be used for this exercise; otherwise an aeroplane shall be used if appropriate for the manoeuvre or procedure
+
+P# = The training shall be complemented by supervised aeroplane inspection
+
+(b) The practical training shall be conducted at least at the training equipment level shown as (P), or may be conducted up to any higher equipment level shown by the arrow (----->).
+
+The following abbreviations are used to indicate the training equipment used:
+
+A = aeroplane
+
+FFS = full-flight simulator
+
+FSTD = flight simulation training device
+
+(c) The starred items (*) shall be flown solely by reference to instruments.
+
+(d) Where the letter ‘M’ appears in the skill test or proficiency check column, this will indicate a mandatory exercise or a choice where more than one exercise appears.
+
+(e) An FFS shall be used for practical training and testing if the FFS forms part of an approved type rating course. The following considerations will apply to the approval of the course:
+
+(i) the qualifications of the instructors;
+
+(ii) the qualification and the amount of training provided on the course in an FSTD; and
+
+(iii) the qualifications and previous experience on similar types of the pilots under training.
+
+(f) Manoeuvres and procedures shall include MCC for multi-pilot aeroplane and for single-pilot high-performance complex aeroplanes in multi-pilot operations.
+
+(g) Manoeuvres and procedures shall be conducted in single-pilot role for single-pilot high-performance complex aeroplanes in single-pilot operations.
+
+(h) To remove a restriction to multi-pilot operations in accordance with point FCL.725(d)(2) from a single-pilot high-performance complex aeroplane type rating, pilots shall complete the manoeuvres/procedures in 2.5, 3.8.3.4, 4.4, 5.5 and at least one manoeuvre/procedure from Section 3.4 in single-pilot operation.
+
+(i) Applicants for and holders of a restricted type rating issued in accordance with point FCL.720.A(c) shall complete training, skill tests and proficiency checks in accordance with this Appendix. However, unless they undergo a skill test in accordance with point FCL.720.A(c)(3), they shall, during a skill test or a proficiency check, perform at least the landing manoeuvres in the role of the pilot monitoring but shall not be required to perform the following:
+
+(i) take-off manoeuvres;
+
+(ii) landing manoeuvres in the role of the pilot flying.
+
+(j) To establish or maintain PBN privileges, one approach shall be an RNP APCH. Where an RNP APCH is not practicable, it shall be performed in an appropriately equipped FSTD.
+
+By way of derogation from the first paragraph, in cases where a proficiency check for revalidation of PBN privileges is performed in an aircraft or an FSTD representing that aircraft, which are not equipped for RNP APCH manoeuvres, the proficiency check may not include RNP APCH exercises. In such cases, the PBN privileges of the pilot shall not include RNP APCH. The restriction shall be lifted if the pilot has completed a proficiency check including an RNP APCH exercise for the relevant class or type.
+
+<table>
+<tbody><tr><td>MULTI-PILOT AEROPLANES AND SINGLE-PILOT HIGH-PERFORMANCE COMPLEX AEROPLANES</td><td colspan="3">PRACTICAL TRAINING</td><td colspan="2">ATPL/MPL/TYPE RATING SKILL TEST OR PROF. CHECK</td></tr>
+<tr><td>Manoeuvres/procedures</td><td>FSTD</td><td>A</td><td>Instructor initials when training completed</td><td>Tested or checked in FSTD or A</td><td>Examiner initials when test or check completed</td></tr>
+<tr><td colspan="6">SECTION 1</td></tr>
+<tr><td>1 Flight preparation 1.1. Performance calculation </td><td>OTD P </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2. Aeroplane external visual inspection; location of each item and purpose of inspection</td><td>OTD P#</td><td>P</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.3. Cockpit inspection</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.4. Use of checklist prior to starting engines, starting procedures, radio and navigation equipment check, selection and setting of navigation and communication frequencies</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.5. Taxiing in compliance with ATC instructions or instructions of instructor</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.6. Before take-off checks</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="6">SECTION 2</td></tr>
+<tr><td>2 Take-offs 2.1. Normal take-offs with different flap settings, including expedited take-off </td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.2* Instrument take-off; transition to instrument flight is required during rotation or immediately after becoming airborne</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.3. Crosswind take-off</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.4. Take-off at maximum take-off mass (actual or simulated maximum take-off mass)</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.5. Take-offs with simulated engine failure: 2.5.1* shortly after reaching V2 </td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(In aeroplanes which are not certificated as transport category or commuter category aeroplanes, the engine failure shall not be simulated until reaching a minimum height of 500 ft above the runway end. In aeroplanes having the same performance as a transport category aeroplane regarding take-off mass and density altitude, the instructor may simulate the engine failure shortly after reaching V2)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.5.2* between V1 and V2</td><td>P</td><td>X</td><td>  </td><td>M FFS only</td><td>  </td></tr>
+<tr><td>2.6. Rejected take-off at a reasonable speed before reaching V1</td><td>P-----&gt;</td><td>----&gt;X</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="6">SECTION 3</td></tr>
+<tr><td>3 Flight manoeuvres and procedures 3.1. Manual flight with and without flight directors  (no autopilot, no autothrust/autothrottle, and at different control laws, where applicable) </td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.1.1. At different speeds (including slow flight) and altitudes within the FSTD training envelope</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.1.2. Steep turns using 45° bank, 180° to 360° left and right</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.1.3. Turns with and without spoilers</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.1.4. Procedural instrument flying and manoeuvring including instrument departure and arrival, and visual approach</td><td>P-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.2. Tuck under and Mach buffets (if applicable), and other specific flight characteristics of the aeroplane (e.g. Dutch Roll)</td><td>P-----&gt;</td><td>----&gt;X An aeroplane shall not be used for this exercise </td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>3.3. Normal operation of systems and controls engineer's panel (if applicable)</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4. Normal and abnormal operations of following systems:</td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 abnormal items shall be selected from 3.4.0 to 3.4.14 inclusive</td></tr>
+<tr><td>3.4.0. Engine (if necessary propeller)</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.1. Pressurisation and air conditioning</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.2. Pitot/static system</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.3. Fuel system</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.4. Electrical system</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.5. Hydraulic system</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.6. Flight control and trim system</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.7. Anti-icing/de-icing system, glare shield heating</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.8. Autopilot/flight director</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>M (single pilot only) </td><td>  </td></tr>
+<tr><td>3.4.9. Stall warning devices or stall avoidance devices, and stability augmentation devices</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.10. Ground proximity warning system, weather radar, radio altimeter, transponder</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.11. Radios, navigation equipment, instruments, FMS</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.12. Landing gear and brake</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.13. Slat and flap system</td><td>OTD</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4.14. Auxiliary power unit (APU)</td><td>OTD P-----&gt; </td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Intentionally left blank</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6. Abnormal and emergency procedures:</td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from 3.6.1 to 3.6.9 inclusive</td></tr>
+<tr><td>3.6.1. Fire drills, e.g. engine, APU, cabin, cargo compartment, flight deck, wing and electrical fires including evacuation</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.2. Smoke control and removal</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.3. Engine failures, shutdown and restart at a safe height</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.4. Fuel dumping (simulated)</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.5. Wind shear at take-off/landing</td><td>P</td><td>X</td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>3.6.6. Simulated cabin pressure failure/emergency descent</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.7. Incapacitation of flight crew member</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.8. Other emergency procedures as outlined in the appropriate aeroplane flight manual (AFM)</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6.9. TCAS event</td><td>OTD P-----&gt; </td><td>An aeroplane shall not be used</td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>3.7. Upset recovery training 3.7.1. Recovery from stall events in:  — take-off configuration;  — clean configuration at low altitude;  — clean configuration near maximum operating altitude; and  — landing configuration. </td><td>P FFS qualified for the training task only </td><td>X An aeroplane shall not be used for this exercise </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.7.2. The following upset exercises: — recovery from nose-high at various bank angles; and  — recovery from nose-low at various bank angles </td><td>P FFS qualified for the training task only </td><td>X An aeroplane shall not be used for this exercise </td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>3.8. Instrument flight procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8.1* Adherence to departure and arrival routes and ATC instructions</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3.8.2* Holding procedures</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8.3* 3D operations to DH/A of 200 ft (60 m) or to higher minima if required by the approach procedure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">Note: According to the AFM, RNP APCH procedures may require the use of autopilot or flight director. The procedure to be flown manually shall be chosen taking into account such limitations (for example, choose an ILS for 3.8.3.1 in the case of such AFM limitation).</td></tr>
+<tr><td>3.8.3.1* Manually, without flight director</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>M (skill test only) </td><td>  </td></tr>
+<tr><td>3.8.3.2* Manually, with flight director</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8.3.3* With autopilot</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>3.8.3.4* Manually, with one engine simulated inoperative during final approach, either until touchdown or through the complete missed approach procedure (as applicable), starting: (i) before passing 1 000 ft above aerodrome level; and  (ii) after passing 1 000 ft above aerodrome level.  In aeroplanes which are not certificated as transport category aeroplanes (JAR/FAR 25) or as commuter category aeroplanes (SFAR 23), the approach with simulated engine failure and the ensuing go-around shall be initiated in conjunction with the 2D approach in accordance with 3.8.4. The go-around shall be initiated when reaching the published obstacle clearance height/altitude (OCH/A); however, not later than reaching an MDH/A of 500 ft above the runway threshold elevation. In aeroplanes having the same performance as a transport category aeroplane regarding take-off mass and density altitude, the instructor may simulate the engine failure in accordance with exercise 3.8.3.4. </td><td>P —-&gt;</td><td>—-&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>3.8.4* 2D operations down to the MDH/A</td><td>P*---&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>3.8.5. Circling approach under the following conditions: (a)* approach to the authorised minimum circling approach altitude at the aerodrome in question in accordance with the local instrument approach facilities in simulated instrument flight conditions;  followed by:  (b) circling approach to another runway at least 90° off centreline from the final approach used in item (a), at the authorised minimum circling approach altitude.  Remark: If (a) and (b) are not possible due to ATC reasons, a simulated low visibility pattern may be performed. </td><td>P*---&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8.6. Visual approaches</td><td>P----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">SECTION 4</td></tr>
+<tr><td>4 Missed approach procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.1. Go-around with all engines operating* during a 3D operation on reaching decision height</td><td>P*---&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2. Go-around with all engines operating* from various stages during an instrument approach</td><td>P*---&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.3. Other missed approach procedures</td><td>P*---&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.4* Manual go-around with the critical engine simulated inoperative after an instrument approach on reaching DH, MDH or MAPt</td><td>P*-----&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>4.5. Rejected landing with all engines operating: — from various heights below DH/MDH;  — after touchdown (baulked landing)  In aeroplanes which are not certificated as transport category aeroplanes (JAR/FAR 25) or as commuter category aeroplanes (SFAR 23), the rejected landing with all engines operating shall be initiated below MDH/A or after touchdown. </td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">SECTION 5</td></tr>
+<tr><td>5 Landings 5.1. Normal landings* with visual reference established when reaching DA/H following an instrument approach operation </td><td>P</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.2. Landing with simulated jammed horizontal stabiliser in any out-of-trim position</td><td>P-----&gt;</td><td>An aeroplane shall not be used for this exercise</td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>5.3. Crosswind landings (aircraft, if practicable)</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4. Traffic pattern and landing without extended or with partly extended flaps and slats</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.5. Landing with critical engine simulated inoperative</td><td>P-----&gt;</td><td>-----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>5.6. Landing with two engines inoperative: — aeroplanes with three engines: the centre engine and one outboard engine as far as practicable according to data of the AFM; and  — aeroplanes with four engines: two engines at one side </td><td>P</td><td>X</td><td>  </td><td>M FFS only  (skill test only) </td><td>  </td></tr>
+<tr><td colspan="6"> —————</td></tr>
+</tbody>
+</table>
+
+7\. Class ratings — sea
+
+Section 6 shall be completed to revalidate a multi-engine class rating sea, VFR only, where the required experience of 10 route sectors within the previous 12 months has not been completed.
+
+<table>
+<tbody><tr><td colspan="2">CLASS RATING SEA</td><td>PRACTICAL TRAINING</td><td>CLASS RATING SKILL TEST OR PROFICIENCY CHECK</td></tr>
+<tr><td colspan="2">Manoeuvres/procedures</td><td>Instructor's initials when training completed</td><td>Examiner's initials when test completed</td></tr>
+<tr><td colspan="4">SECTION 1</td></tr>
+<tr><td colspan="2">1 Departure 1.1. Preflight including:  — documentation;  — mass and balance;  — weather briefing; and  — NOTAM. </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.2. Pre-start checks External/internal </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.3. Engine start-up and shutdown Normal malfunctions </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.4. Taxiing</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.5. Step taxiing</td><td>  </td><td>  </td></tr>
+<tr><td>1.6. Mooring:</td><td>Beach Jetty pier  Buoy </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.7. Engine-off sailing</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.8. Pre-departure checks: Engine run-up (if applicable) </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.9. Take-off procedure: — normal with flight manual flap settings; and  — crosswind (if conditions are available). </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.10. Climbing: — turns onto headings  — level off </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">1.11. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">SECTION 2</td></tr>
+<tr><td colspan="2">2 Airwork (VFR) 2.1. Straight and level flight at various airspeeds including flight at critically low airspeed with and without flaps (including approach to VMCA when applicable) </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">2.2. Steep turns (360° left and right at 45° bank)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">2.3. Stalls and recovery: (i) clean stall;  (ii) approach to stall in descending turn with bank with approach configuration and power;  (iii) approach to stall in landing configuration and power; and  (iv) approach to stall, climbing turn with take-off flap and climb power (single-engine aeroplanes only). </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">2.4. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">SECTION 3</td></tr>
+<tr><td colspan="2">3 En route procedures VFR 3.1. Flight plan, dead reckoning and map reading </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">3.2. Maintenance of altitude, heading and speed</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">3.3. Orientation, timing and revision of ETAs</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">3.4. Use of radio navigation aids (if applicable)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">3.5. Flight management (flight log, routine checks including fuel, systems and icing)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">3.6. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">SECTION 4</td></tr>
+<tr><td colspan="2">4 Arrivals and landings 4.1. Aerodrome arrival procedure (amphibians only) </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.2. Normal landing</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.3. Flapless landing</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.4. Crosswind landing (if suitable conditions)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.5. Approach and landing with idle power from up to 2 000 ′ above the water (single-engine aeroplanes only)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.6. Go-around from minimum height</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.7. Glassy water landing Rough water landing </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">4.8. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">SECTION 5</td></tr>
+<tr><td colspan="2">5 Abnormal and emergency procedures (This section may be combined with Sections 1 through 4.)  5.1. Rejected take-off at a reasonable speed </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">5.2. Simulated engine failure after take-off (single-engine aeroplanes only)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">5.3. Simulated forced landing without power (single-engine aeroplanes only)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">5.4. Simulated emergencies: (i) fire or smoke in flight; and  (ii) systems' malfunctions as appropriate. </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">5.5. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">SECTION 6</td></tr>
+<tr><td colspan="2">6 Simulated asymmetric flight (This section may be combined with Sections 1 through 5.)  6.1. Simulated engine failure during take-off (at a safe altitude unless carried out in an FFS and an FNPT II) </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">6.2. Engine shutdown and restart (ME skill test only)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">6.3. Asymmetric approach and go-around</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">6.4. Asymmetric approach and full-stop landing</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">6.5. ATC liaison — compliance, R/T procedures</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**C. Specific requirements for the helicopter category**
+
+1\. In the case of skill test or proficiency check for type ratings and the ATPL, applicants shall pass Sections 1 to 4 and 6 (as applicable) of the skill test or proficiency check. Failure in more than five items will require applicants to repeat the entire test or check. Applicants failing not more than five items shall repeat the failed items. Failure in any item in the case of a retest or a recheck or failure in any other items already passed will require the applicants to repeat the entire test or check again. All sections of the skill test or proficiency check shall be completed within 6 months.
+
+2\. In the case of proficiency check for an IR, applicants shall pass Section 5 of the proficiency check. Failure in more than 3 items will require applicants to repeat the entire Section 5. Applicants failing not more than 3 items shall repeat the failed items. Failure in any item in the case of a recheck or failure in any other items of Section 5 already passed will require applicants to repeat the entire check.
+
+**FLIGHT TEST TOLERANCE**
+
+3\. Applicants shall demonstrate the ability to:
+
+(a) operate the helicopter within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge;
+
+(e) maintain control of the helicopter at all times in such a manner that the successful outcome of a procedure or manoeuvre is never in doubt;
+
+(f) understand and apply crew coordination and incapacitation procedures, if applicable; and
+
+(g) communicate effectively with the other crew members, if applicable.
+
+4\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the helicopter used.
+
+(a) IFR flight limits
+
+Height
+
+| Generally | ± 100 ft |
+| --- | --- |
+| Starting a go-around at decision height/altitude | + 50 ft/– 0 ft |
+| Minimum descent height/MAPt/altitude | + 50 ft/– 0 ft |
+
+Tracking
+
+| On radio aids | ± 5° |
+| --- | --- |
+| For ‘angular’ deviations | Half-scale deflection, azimuth and glide path (e.g. LPV, ILS, MLS, GLS) |
+| 2D (LNAV) and 3D (LNAV/VNAV) ‘linear’ lateral deviations | cross-track error/deviation shall normally be limited to ± [image] of the RNP value associated with the procedure. Brief deviations from this standard up to a maximum of one time the RNP value are allowable. |
+| 3D linear vertical deviations (e.g. RNP APCH (LNAV/VNAV) using BaroVNAV) | not more than – 75 ft below the vertical profile at any time, and not more than + 75 ft above the vertical profile at or below 1 000 ft above aerodrome level. |
+
+Heading
+
+| all engines operating | ± 5° |
+| --- | --- |
+| with simulated engine failure | ± 10° |
+
+Speed
+
+| all engines operating | ± 5 knots |
+| --- | --- |
+| with simulated engine failure | + 10 knots/– 5 knots |
+
+(b) VFR flight limits
+
+| Height |  |
+| --- | --- |
+| Generally | ± 100 ft |
+| Heading |  |
+| Normal operations | ± 5° |
+| Abnormal operations/emergencies | ± 10° |
+| Speed |  |
+| Generally | ± 10 knots |
+| With simulated engine failure | + 10 knots/– 5 knots |
+| Ground drift |  |
+| T.O. hover I.G.E. | ± 3 ft |
+| Landing | ± 2 ft (with 0 ft rearward or lateral flight) |
+
+**CONTENT OF THE TRAINING/SKILL TEST/PROFICIENCY CHECK**
+
+**GENERAL**
+
+5\. The following symbol means:
+
+| P | = | Trained as PIC for the issue of a type rating for single-pilot helicopters (SPH) or trained as PIC or co-pilot and as PF and PM for the issue of a type rating for multi pilot helicopters (MPH). |
+| --- | --- | --- |
+
+6\. The practical training shall be conducted at least at the training equipment level shown as (P), or may be conducted up to any higher equipment level shown by the arrow (---->).
+
+The following abbreviations are used to indicate the training equipment used:
+
+FFS = full-flight simulator
+
+FTD = flight training device
+
+H = helicopter
+
+7\. The starred items (*) shall be flown in actual or simulated IMC, only by applicants wishing to renew or revalidate an IR(H) or extend the privileges of that rating to another type.
+
+8\. Instrument flight procedures (Section 5) shall be performed only by applicants wishing to renew or revalidate an IR(H) or extend the privileges of that rating to another type. An FFS or an FTD 2/3 may be used for this purpose.
+
+8a. To establish or maintain PBN privileges, one approach shall be an RNP APCH. Where an RNP APCH is not practicable, it shall be performed in an appropriately equipped FSTD.
+
+By way of derogation from subparagraph above, in cases where a proficiency check for revalidation of PBN privileges does not include an RNP APCH exercise, the PBN privileges of the pilot shall not include RNP APCH. The restriction shall be lifted if the pilot has completed a proficiency check including an RNP APCH exercise.
+
+9\. Where the letter ‘M’ appears in the skill test or proficiency check column, this will indicate a mandatory exercise.
+
+10\. An FSTD shall be used for practical training and testing if the FSTD forms part of a type rating course. The following considerations will apply to the course:
+
+(a) the qualification of the FSTD as set out in the relevant requirements of Annex VI (Part-ARA) and Annex VII (Part-ORA);
+
+(b) the qualifications of the instructor and examiner;
+
+(c) the amount of FSTD training provided on the course;
+
+(d) the qualifications and previous experience in similar types of the pilots under training; and
+
+(e) the amount of supervised flying experience provided after the issue of the new type rating.
+
+**MULTI-PILOT HELICOPTERS**
+
+11\. Applicants for the skill test for the issue of the multi-pilot helicopter type rating and ATPL(H) shall pass only Sections 1 to 4 and, if applicable, Section 6.
+
+12\. Applicants for the revalidation or renewal of the multi-pilot helicopter type rating proficiency check shall pass only Sections 1 to 4 and, if applicable, Section 6.
+
+<table>
+<tbody><tr><td colspan="2">SINGLE/MULTI-PILOT HELICOPTERS</td><td colspan="3">PRACTICAL TRAINING</td><td colspan="2">SKILL TEST OR PROFICIENCY CHECK</td></tr>
+<tr><td colspan="2">Manoeuvres/procedures</td><td>FSTD</td><td>H</td><td>Instructor initials when training completed</td><td>Checked in FSTD or H</td><td>Examiner initials when test completed</td></tr>
+<tr><td colspan="7">SECTION 1 — Preflight preparations and checks</td></tr>
+<tr><td>1.1</td><td>Helicopter exterior visual inspection; location of each item and purpose of inspection</td><td>  </td><td>P</td><td>  </td><td>M (if performed in the helicopter)</td><td>  </td></tr>
+<tr><td>1.2</td><td>Cockpit inspection</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.3</td><td>Starting procedures, radio and navigation equipment check, selection and setting of navigation and communication frequencies</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.4</td><td>Taxiing/air taxiing in compliance with ATC instructions or with instructions of an instructor</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.5</td><td>Pre-take-off procedures and checks</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 2 — Flight manoeuvres and procedures</td></tr>
+<tr><td>2.1</td><td>Take-offs (various profiles)</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.2</td><td>Sloping ground or crosswind take-offs & landings</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.3</td><td>Take-off at maximum take-off mass (actual or simulated maximum take-off mass)</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.4</td><td>Take-off with simulated engine failure shortly before reaching TDP or DPATO</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.4.1</td><td>Take-off with simulated engine failure shortly after reaching TDP or DPATO</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.5</td><td>Climbing and descending turns to specified headings</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.5.1</td><td>Turns with 30° bank, 180° to 360° left and right, by sole reference to instruments</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.6</td><td>Autorotative descent</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>2.6.1</td><td>For single-engine helicopters (SEH): — autorotative landing; or  — power recovery, provided that applicants, in the preceding year, completed training that included an autorotative landing and that training was entered and signed in the applicants’ logbook by the instructor.  For multi-engine helicopters (MEH): power recovery. </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>2.7</td><td>Landings, various profiles</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.7.1</td><td>Go-around or landing following simulated engine failure before LDP or DPBL</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.7.2</td><td>Landing following simulated engine failure after LDP or DPBL</td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 3 — Normal and abnormal operations of the following systems and procedures</td></tr>
+<tr><td>3</td><td>Normal and abnormal operations of the following systems and procedures:</td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from this section</td></tr>
+<tr><td>3.1</td><td>Engine</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.2</td><td>Air conditioning (heating, ventilation)</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.3</td><td>Pitot/static system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4</td><td>Fuel system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.5</td><td>Electrical system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6</td><td>Hydraulic system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.7</td><td>Flight control and trim system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8</td><td>Anti-icing and de-icing system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.9</td><td>Autopilot/flight director</td><td>P</td><td>---&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.10</td><td>Stability augmentation devices</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.11</td><td>Weather radar, radio altimeter, transponder</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.12</td><td>Area navigation system</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.13</td><td>Landing gear system</td><td>P</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.14</td><td>APU</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.15</td><td>Radio, navigation equipment, instruments and FMS</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">SECTION 4 — Abnormal and emergency procedures</td></tr>
+<tr><td>4</td><td>Abnormal and emergency procedures</td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from this section</td></tr>
+<tr><td>4.1</td><td>Fire drills (including evacuation if applicable)</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2</td><td>Smoke control and removal</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.3</td><td>Engine failures, shutdown and restart at a safe height</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.4</td><td>Fuel dumping (simulated)</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.5</td><td>Tail rotor control failure (if applicable)</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.5.1</td><td>Tail rotor loss (if applicable)</td><td>P</td><td>A helicopter shall not be used for this exercise</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.6</td><td>Incapacitation of crew member — MPH only</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.7</td><td>Transmission malfunctions</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.8</td><td>Other emergency procedures as outlined in the appropriate flight manual</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">SECTION 5 — Instrument flight procedures (to be performed in IMC or simulated IMC)</td></tr>
+<tr><td>5.1</td><td>Instrument take-off: transition to instrument flight is required as soon as possible after becoming airborne</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.1.1</td><td>Simulated engine failure during departure</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.2</td><td>Adherence to departure and arrival routes and ATC instructions</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.3</td><td>Holding procedures</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4</td><td>3D operations to DH/A of 200 ft (60 m) or to higher minima if required by the approach procedure</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>5.4.1</td><td>Manually, without flight director. Note: According to the AFM, RNP APCH procedures may require the use of autopilot or flight director. The procedure to be flown manually shall be chosen taken into account such limitations (for example, choose an ILS for 5.4.1 in the case of such AFM limitation).</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M* (unless Exercise 5.4.2 is completed) </td><td>  </td></tr>
+<tr><td>5.4.2</td><td>Manually, with flight director</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M* (unless Exercise 5.4.1 is completed) </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>5.4.3</td><td>With coupled autopilot</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.4</td><td>Manually, with one engine simulated inoperative; engine failure has to be simulated during final approach before passing 1 000 ft above aerodrome level until touchdown or until completion of the missed approach procedure</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.5</td><td>2D operations down to the MDA/H</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.6</td><td>Go-around with all engines operating on reaching DA/H or MDA/MDH</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.1</td><td>Other missed approach procedures</td><td>P*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.2</td><td>Go-around with one engine simulated inoperative on reaching DA/H or MDA/MDH</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.7</td><td>IMC autorotation with power recovery</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.8</td><td>Recovery from unusual attitudes</td><td>P*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td colspan="7">SECTION 6 — Use of optional equipment</td></tr>
+<tr><td>6</td><td>Use of optional equipment</td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**SINGLE-PILOT HELICOPTERS**
+
+13\. To exercise the privileges of the type rating in accordance with point FCL.725(d), applicants for the issue, revalidation or renewal of a single-pilot helicopter type rating shall:
+
+(a) for single-pilot operations, complete the skill test or proficiency check in single-pilot operations;
+
+(b) in multi-pilot operations, complete the skill test or proficiency check in multi-pilot operations;
+
+(c) for both single-pilot and multi-pilot operations, complete the skill test or proficiency check in multi-pilot operations and, additionally, the following manoeuvres and procedures in single-pilot operations:
+
+(1) for single-engine helicopters: 2.1 take-off and 2.6 and 2.6.1 autorotative descent and autorotative landing;
+
+(2) for multi-engine helicopters: 2.1 take-off and 2.4 and 2.4.1 engine failures shortly before and shortly after reaching TDP;
+
+(3) for IR privileges, in addition to point (1) or (2), as applicable, one approach of Section 5, unless the criteria of Appendix 8 are met;
+
+(d) in order to remove a restriction to multi-pilot operations from a single-pilot helicopter type rating in accordance with point FCL.725(d)(2), complete a proficiency check that includes the manoeuvres and procedures referred to in points (c)(1) or (c)(2), as applicable.
+
+**D. Specific requirements for the powered-lift aircraft category**
+
+1\. In the case of skill tests or proficiency checks for powered-lift aircraft type ratings, applicants shall pass Sections 1 to 5 and 6 (as applicable) of the skill test or proficiency check. Failure in more than five items will require applicants to repeat the entire test or check. Applicants failing not more than five items shall repeat the failed items. Failure in any item in the case of a retest or a recheck or failure in any other items already passed will require applicants to repeat the entire test or check. All sections of the skill test or proficiency check shall be completed within 6 months.
+
+**FLIGHT TEST TOLERANCE**
+
+2\. Applicants shall demonstrate the ability to:
+
+(a) operate the powered-lift aircraft within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge;
+
+(e) maintain control of the powered-lift aircraft at all times in such a manner that the successful outcome of a procedure or manoeuvre is never in doubt;
+
+(f) understand and apply crew coordination and incapacitation procedures; and
+
+(g) communicate effectively with the other crew members.
+
+3\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the powered-lift aircraft used.
+
+(a) IFR flight limits
+
+| Height |  |
+| --- | --- |
+| Generally | ± 100 ft |
+| Starting a go-around at decision height/altitude | + 50 ft/– 0 ft |
+| Minimum descent height/altitude | + 50 ft/– 0 ft |
+| Tracking |  |
+| On radio aids | ± 5° |
+| Precision approach | half-scale deflection, azimuth and glide path |
+
+| Heading |  |
+| --- | --- |
+| Normal operations | ± 5° |
+| Abnormal operations/emergencies | ± 10° |
+| Speed |  |
+| Generally | ± 10 knots |
+| With simulated engine failure | + 10 knots/– 5 knots |
+
+(b) VFR flight limits:
+
+| Height |  |
+| --- | --- |
+| Generally | ± 100 ft |
+| Heading |  |
+| Normal operations | ± 5° |
+| Abnormal operations/emergencies | ± 10° |
+| Speed |  |
+| Generally | ± 10 knots |
+| With simulated engine failure | + 10 knots/– 5 knots |
+| Ground drift |  |
+| T.O. hover I.G.E. | ± 3 ft |
+| Landing | ± 2 ft (with 0 ft rearward or lateral flight) |
+
+**CONTENT OF THE TRAINING/SKILL TEST/PROFICIENCY CHECK**
+
+4\. The following symbol means:
+
+| P | = | Trained as PIC or co-pilot and as PF and PM for the issue of a type rating as applicable |
+| --- | --- | --- |
+
+5\. The practical training shall be conducted at least at the training equipment level shown as (P), or may be conducted up to any higher equipment level shown by the arrow (---->).
+
+6\. The following abbreviations are used to indicate the training equipment used:
+
+FFS = full-flight simulator
+
+FTD = flight training device
+
+OTD = other training device
+
+PL = powered-lift aircraft
+
+6a. The starred items (*) shall be flown solely by reference to instruments. If this condition is not met during the skill test or proficiency check, the type rating will be restricted to VFR only.
+
+7\. Where the letter ‘M’ appears in the skill test or proficiency check column, this will indicate a mandatory exercise.
+
+8\. FSTDs shall be used for practical training and testing if they form part of an approved type rating course. The following considerations will apply to the approval of the course:
+
+(a) the qualification of the FSTDs as set out in the relevant requirements of Annex VI (Part-ARA) and Annex VII (Part-ORA); and
+
+(b) the qualifications of the instructor.
+
+<table>
+<tbody><tr><td colspan="2">POWERED-LIFT AIRCRAFT CATEGORY</td><td colspan="5">PRACTICAL TRAINING</td><td colspan="2">SKILL TEST OR PROFICIENCY CHECK</td></tr>
+<tr><td colspan="2" rowspan="11">Manoeuvres/procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td rowspan="11">Instructor's initials when training completed</td><td rowspan="11">Checked in FFS PL</td><td rowspan="11">Examiner's initials when test completed</td></tr>
+<tr><td>OTD</td><td>FTD</td><td>FFS</td><td>PL</td></tr>
+<tr><td colspan="9">SECTION 1 — Preflight preparations and checks</td></tr>
+<tr><td>1.1</td><td>Powered-lift aircraft exterior visual inspection; location of each item and purpose of inspection </td><td>  </td><td>  </td><td>  </td><td>P</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2</td><td>Cockpit inspection</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.3</td><td>Starting procedures, radio and navigation equipment check, selection and setting of navigation and communication frequencies</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.4</td><td>Taxiing in compliance with ATC instructions or with instructions of an instructor</td><td>  </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.5</td><td>Pre-take-off procedures and checks including power check</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="9">SECTION 2 — Flight manoeuvres and procedures</td></tr>
+<tr><td>2.1</td><td>Normal VFR take-off profiles: Runway operations (short take-off and landing (STOL) and vertical take-off and landing (VTOL)) including crosswind  Elevated heliports  Ground level heliports </td><td>  </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.2</td><td>Take-off at maximum take-off mass (actual or simulated maximum take-off mass)</td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.3.1</td><td>Rejected take-off: — during runway operations;  — during elevated heliport operations; and  — during ground level operations. </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.3.2</td><td>Take-off with simulated engine failure after passing decision point: during runway operations;  during elevated heliport operations; and  during ground level operations. </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.4</td><td>Autorotative descent in helicopter mode to ground (an aircraft shall not be used for this exercise)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>M FFS  only </td><td>  </td></tr>
+<tr><td>2.4.1</td><td>Windmill descent in aeroplane mode (an aircraft shall not be used for this exercise)</td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>M FFS  only </td><td>  </td></tr>
+<tr><td>2.5</td><td>Normal VFR landing profiles: runway operations (STOL and VTOL)  elevated heliports  ground level heliports </td><td>  </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.5.1</td><td>Landing with simulated engine failure after reaching decision point: — during runway operations;  — during elevated heliport operations; and  — during ground level operations. </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.6</td><td>Go-around or landing following simulated engine failure before decision point</td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="9">SECTION 3 — Normal and abnormal operations of the following systems and procedures:</td></tr>
+<tr><td>3</td><td>Normal and abnormal operations of the following systems and procedures (may be completed in an FSTD if qualified for the exercise):</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from this section</td></tr>
+<tr><td>3.1</td><td>Engine</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.2</td><td>Pressurisation and air conditioning (heating, ventilation)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.3</td><td>Pitot/static system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4</td><td>Fuel system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.5</td><td>Electrical system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6</td><td>Hydraulic system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.7</td><td>Flight control and trim system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8</td><td>Anti-icing and de-icing system, glare shield heating (if fitted)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.9</td><td>Autopilot/flight director</td><td>P</td><td>---&gt;</td><td>---&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.10</td><td>Stall warning devices or stall avoidance devices and stability augmentation devices</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.11</td><td>Weather radar, radio altimeter, transponder, ground proximity warning system (if fitted)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.12</td><td>Landing gear system</td><td>P</td><td>-----&gt;</td><td>-----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.13</td><td>APU</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.14</td><td>Radio, navigation equipment, instruments and FMS</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.15</td><td>Flap system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">SECTION 4 — Abnormal and emergency procedures</td></tr>
+<tr><td>4</td><td>Abnormal and emergency procedures (may be completed in an FSTD if qualified for the exercise) </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from this section</td></tr>
+<tr><td>4.1</td><td>Fire drills, engine, APU, cargo compartment, flight deck and electrical fires including evacuation if applicable</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2</td><td>Smoke control and removal</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.3</td><td>Engine failures, shutdown and restart (an aircraft shall not be used for this exercise) including one engine inoperative conversion from helicopter to aeroplane modes and vice versa </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.4</td><td>Fuel dumping (simulated, if fitted)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.5</td><td>Wind shear at take-off and landing (an aircraft shall not be used for this exercise)</td><td>  </td><td>  </td><td>P</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.6</td><td>Simulated cabin pressure failure/emergency descent (an aircraft shall not be used for this exercise)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.7</td><td>ACAS event (an aircraft shall not be used for this exercise) </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.8</td><td>Incapacitation of crew member</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.9</td><td>Transmission malfunctions</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.10</td><td>Recovery from a full stall (power on and off) or after activation of stall warning devices in climb, cruise and approach configurations (an aircraft shall not be used for this exercise)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>FFS only </td><td>  </td></tr>
+<tr><td>4.11</td><td>Other emergency procedures as detailed in the appropriate flight manual</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">SECTION 5 — Instrument flight procedures (to be performed in IMC or simulated IMC)</td></tr>
+<tr><td>5.1</td><td>Instrument take-off: transition to instrument flight is required as soon as possible after becoming airborne</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.1.1</td><td>Simulated engine failure during departure after decision point</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.2</td><td>Adherence to departure and arrival routes and ATC instructions</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.3</td><td>Holding procedures</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4</td><td>Precision approach down to a decision height not less than 60 m (200 ft)</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.1</td><td>Manually, without flight director</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M* (Skill test only)</td><td>  </td></tr>
+<tr><td>5.4.2</td><td>Manually, with flight director</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.3</td><td>With use of autopilot</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.4</td><td>Manually, with one engine simulated inoperative; engine failure has to be simulated during final approach before passing the OM and continued either to touchdown or until completion of the missed approach procedure</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.5</td><td>Non-precision approach down to the MDA/H</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.6</td><td>Go-around with all engines operating on reaching DA/H or MDA/MDH</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.1</td><td>Other missed approach procedures</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.2</td><td>Go-around with one engine simulated inoperative on reaching DA/H or MDA/MDH</td><td>P*</td><td>  </td><td>  </td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.7</td><td>IMC autorotation with power recovery to land on runway in helicopter mode only (an aircraft shall not be used for this exercise)</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M* FFS only </td><td>  </td></tr>
+<tr><td>5.8</td><td>Recovery from unusual attitudes (this one depends on the quality of the FFS)</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td colspan="9"> —————</td></tr>
+<tr><td colspan="9"></td></tr>
+<tr><td colspan="9">SECTION 6 – Optional equipment</td></tr>
+<tr><td>6</td><td>Use of optional equipment</td><td>  </td><td>P</td><td>→</td><td>→</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9"></td></tr>
+</tbody>
+</table>
+
+**E. Specific requirements for the airship category**
+
+1\. In the case of skill tests or proficiency checks for airship type ratings, applicants shall pass Sections 1 to 5 and 6 (as applicable) of the skill test or proficiency check. Failure in more than five items will require applicants to repeat the entire test or check. Applicants failing not more than five items shall take the failed items again. Failure in any item in the case of a retest or a recheck, or failure in any other items already passed will require applicants to repeat the entire test or check again. All sections of the skill test or proficiency check shall be completed within 6 months.
+
+**FLIGHT TEST TOLERANCE**
+
+2\. Applicants shall demonstrate the ability to:
+
+(a) operate the airship within its limitations;
+
+(b) complete all manoeuvres with smoothness and accuracy;
+
+(c) exercise good judgement and airmanship;
+
+(d) apply aeronautical knowledge;
+
+(e) maintain control of the airship at all times in such a manner that the successful outcome of a procedure or manoeuvre is never in doubt;
+
+(f) understand and apply crew coordination and incapacitation procedures; and
+
+(g) communicate effectively with the other crew members.
+
+3\. The following limits shall apply, corrected to make allowance for turbulent conditions and the handling qualities and performance of the airship used.
+
+(a) IFR flight limits:
+
+| Height |  |
+| --- | --- |
+| Generally | ± 100 ft |
+| Starting a go-around at decision height/altitude | + 50 ft/– 0 ft |
+| Minimum descent height/altitude | + 50 ft/– 0 ft |
+| Tracking |  |
+| On radio aids | ± 5° |
+| Precision approach | half-scale deflection, azimuth and glide path |
+| Heading |  |
+| Normal operations | ± 5° |
+| Abnormal operations/emergencies | ± 10° |
+
+(b) VFR flight limits:
+
+| Height |  |
+| --- | --- |
+| Generally | ± 100 ft |
+| Heading |  |
+| Normal operations | ± 5° |
+| Abnormal operations/emergencies | ± 10° |
+
+**CONTENT OF THE TRAINING/SKILL TEST/PROFICIENCY CHECK**
+
+4\. The following symbol means:
+
+| P | = | Trained as PIC or co-pilot and as PF and PM for the issue of a type rating as applicable. |
+| --- | --- | --- |
+
+5\. The practical training shall be conducted at least at the training equipment level shown as (P), or may be conducted up to any higher equipment level shown by the arrow (---->).
+
+6\. The following abbreviations are used to indicate the training equipment used:
+
+FFS = full-flight simulator
+
+FTD = flight training device
+
+OTD = other training device
+
+As = airship
+
+6a. The starred items (*) shall be flown solely by reference to instruments. If this condition is not met during the skill test or proficiency check, the type rating will be restricted to VFR only.
+
+7\. Where the letter ‘M’ appears in the skill test or proficiency check column, this will indicate a mandatory exercise.
+
+8\. FSTDs shall be used for practical training and testing if they form part of a type rating course. The following considerations will apply to the course:
+
+(a) the qualification of the FSTDs as set out in the relevant requirements of Annex VI (Part-ARA) and Annex VII (Part-ORA); and
+
+(b) the qualifications of the instructor.
+
+<table>
+<tbody><tr><td colspan="2">AIRSHIP CATEGORY</td><td colspan="5">PRACTICAL TRAINING</td><td colspan="2">SKILL TEST OR PROFICIENCY CHECK</td></tr>
+<tr><td colspan="2" rowspan="10">Manoeuvres/procedures</td><td>  </td><td>  </td><td>  </td><td>  </td><td rowspan="10">Instructor's initials when training completed</td><td>Checked in</td><td rowspan="10">Examiner's initials when test completed</td></tr>
+<tr><td>OTD</td><td>FTD</td><td>FFS</td><td>As</td><td>FFS As</td></tr>
+<tr><td colspan="9">SECTION 1 — Preflight preparations and checks</td></tr>
+<tr><td>1.1</td><td>Preflight inspection</td><td>  </td><td>  </td><td>  </td><td>P</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2</td><td>Cockpit inspection</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.3</td><td>Starting procedures, radio and navigation equipment check, selection and setting of navigation and communication frequencies</td><td>  </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.4</td><td>Off-mast procedure and ground manoeuvring</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>1.5</td><td>Pre-take-off procedures and checks</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td colspan="9">SECTION 2 — Flight manoeuvres and procedures</td></tr>
+<tr><td>2.1</td><td>Normal VFR take-off profile</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.2</td><td>Take-off with simulated engine failure</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.3</td><td>Take-off with heaviness &gt; 0 (Heavy T/O)</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.4</td><td>Take-off with heaviness &lt; 0 (Light/TO)</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.5</td><td>Normal climb procedure</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.6</td><td>Climb to pressure height</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.7</td><td>Recognising of pressure height</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.8</td><td>Flight at or close to pressure height</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.9</td><td>Normal descent and approach</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.10</td><td>Normal VFR landing profile</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.11</td><td>Landing with heaviness &gt; 0 (Heavy Ldg.)</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>2.12</td><td>Landing with heaviness &lt; 0 (Light Ldg.)</td><td>  </td><td>  </td><td>P</td><td>----&gt;</td><td>  </td><td>M</td><td>  </td></tr>
+<tr><td>  </td><td>Intentionally left blank</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">SECTION 3 — Normal and abnormal operations of the following systems and procedures</td></tr>
+<tr><td>3</td><td>Normal and abnormal operations of the following systems and procedures (may be completed in an FSTD if qualified for the exercise):</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of 3 items shall be selected from this section</td></tr>
+<tr><td>3.1</td><td>Engine</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.2</td><td>Envelope pressurisation</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.3</td><td>Pitot/static system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.4</td><td>Fuel system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.5</td><td>Electrical system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.6</td><td>Hydraulic system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.7</td><td>Flight control and trim system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.8</td><td>Ballonet system</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.9</td><td>Autopilot/flight director</td><td>P</td><td>---&gt;</td><td>---&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.10</td><td>Stability augmentation devices</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.11</td><td>Weather radar, radio altimeter, transponder, ground proximity warning system (if fitted)</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.12</td><td>Landing gear system</td><td>P</td><td>-----&gt;</td><td>-----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.13</td><td>APU</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.14</td><td>Radio, navigation equipment, instruments and FMS</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Intentionally left blank</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">SECTION 4 — Abnormal and emergency procedures</td></tr>
+<tr><td>4</td><td>Abnormal and emergency procedures (may be completed in an FSTD if qualified for the exercise) </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>A mandatory minimum of three items shall be selected from this section</td></tr>
+<tr><td>4.1</td><td>Fire drills, engine, APU, cargo compartment, flight deck and electrical fires, including evacuation if applicable</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2</td><td>Smoke control and removal</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.3</td><td>Engine failures, shutdown and restart: in particular phases of flight, inclusive multiple engine failure </td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.4</td><td>Incapacitation of crew member</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.5</td><td>Transmission/gearbox malfunctions</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>FFS only</td><td>  </td></tr>
+<tr><td>4.6</td><td>Other emergency procedures as outlined in the appropriate flight manual</td><td>P</td><td>----&gt;</td><td>----&gt;</td><td>----&gt;</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">SECTION 5 — Instrument Flight Procedures (to be performed in IMC or simulated IMC)</td></tr>
+<tr><td>5.1</td><td>Instrument take-off: transition to instrument flight is required as soon as possible after becoming airborne</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.1.1</td><td>Simulated engine failure during departure</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.2</td><td>Adherence to departure and arrival routes and ATC instructions</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.3</td><td>Holding procedures</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4</td><td>Precision approach down to a decision height not less than 60 m (200 ft)</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.1</td><td>Manually, without flight director</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M* (Skill test only) </td><td>  </td></tr>
+<tr><td>5.4.2</td><td>Manually, with flight director</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.3</td><td>With use of autopilot</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.4.4</td><td>Manually, with one engine simulated inoperative; engine failure has to be simulated during final approach before passing the OM and continued to touchdown or until completion of the missed approach procedure</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.5</td><td>Non-precision approach down to the MDA/H</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.6</td><td>Go-around with all engines operating on reaching DA/H or MDA/MDH</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.1</td><td>Other missed approach procedures</td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.6.2</td><td>Go-around with one engine simulated inoperative on reaching DA/H or MDA/MDH</td><td>P*</td><td>  </td><td>  </td><td>  </td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td>5.7</td><td>Recovery from unusual attitudes (this one depends on the quality of the FFS) </td><td>P*</td><td>----&gt;*</td><td>----&gt;*</td><td>----&gt;*</td><td>  </td><td>M*</td><td>  </td></tr>
+<tr><td colspan="9"> —————</td></tr>
+<tr><td colspan="9"></td></tr>
+<tr><td colspan="9">SECTION 6 – Optional equipment</td></tr>
+<tr><td>6</td><td>Use of optional equipment</td><td>  </td><td>P</td><td>→</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## Appendix 10 — Revalidation and renewal of type ratings, and revalidation and renewal of IRs when combined with the revalidation or renewal of type ratings – EBT practical assessment
+
+**A – General**
+
+1\. The revalidation and renewal of type ratings as well as the revalidation and renewal of IRs when combined with the revalidation or renewal of type ratings in accordance with this Appendix shall be completed only at EBT operators which comply with all of the following:
+
+(a) they have established an EBT programme relevant for the applicable type rating or the IR in accordance with point ORO.FC.231 of Annex III (Part-ORO) to Regulation (EU) No 965/2012;
+
+(b) they have an experience of at least 3 years in conducting a mixed EBT programme;
+
+(c) for each type rating within the EBT programme, the organisation has appointed an EBT manager. EBT managers shall comply with all of the following:
+
+(i) they shall hold examiner privileges for the relevant type rating;
+
+(ii) they shall have extensive experience in training as an instructor for the relevant type rating;
+
+(iii) they shall either be the person nominated in accordance with point ORO.AOC.135(a)(2) of Annex III (Part-ORO) to Regulation (EU) No 965/2012 or a deputy of that person.
+
+2\. The EBT manager responsible for the relevant type rating shall ensure that the applicant complies with all qualification, training and experience requirements of this Annex for the revalidation or the renewal of the relevant rating.
+
+3\. Applicants who wish to revalidate or renew a rating in accordance with this Appendix shall comply with all of the following:
+
+(a) they shall be enrolled in the operator’s EBT programme;
+
+(b) in the case of revalidation of a rating, they shall complete the operator’s EBT programme within the period of validity of the relevant rating;
+
+(c) in the case of renewal of a rating, they shall comply with procedures developed by the EBT operator in accordance with point ORO.FC.231(a)(5) of Annex III (Part-ORO) to Regulation (EU) No 965/2012.
+
+4\. The revalidation or renewal of a rating in accordance with this Appendix shall comprise all of the following:
+
+(a) continuous EBT practical assessment within an EBT programme;
+
+(b) demonstration of an acceptable level of performance in all competencies;
+
+(c) the administrative action of licence revalidation or renewal for which the EBT manager responsible for the relevant type rating shall do all of the following:
+
+(1) ensure that the requirements of point FCL.1030 are complied with;
+
+(2) when acting in accordance with point FCL.1030(b)(2), endorse the applicant’s licence with the new expiry date of the rating. That endorsement may be completed by another person on behalf of the EBT manager, if that person received a delegation from the EBT manager to do so in accordance with the procedures established in the EBT programme.
+
+**B – Conduct of the EBT practical assessment**
+
+The EBT practical assessment shall be conducted in accordance with the operator’s EBT programme.
+
+## ANNEX II
+
+**CONDITIONS FOR THE CONVERSION OF EXISTING NATIONAL LICENCES AND RATINGS FOR AEROPLANES AND HELICOPTERS**
+
+**A. AEROPLANES**
+
+**1\. Pilot licences**
+
+A pilot licence issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL licence provided that the applicant complies with the following requirements:
+
+(a) for ATPL(A) and CPL(A), complete as a proficiency check the revalidation requirements of Part-FCL for type/class and instrument rating, relevant to the privileges of the licence held;
+
+(b) demonstrate knowledge of the relevant parts of the operational requirements and Part-FCL;
+
+(c) demonstrate language proficiency in accordance with FCL.055;
+
+(d) comply with the requirements set out in the following table:
+
+<table>
+<tbody><tr><td>National licence held</td><td>Total flying hours experience</td><td>Any further requirements</td><td>Replacement Part-FCL licence and conditions (where applicable)</td><td>Removal of conditions</td><td>  </td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>  </td></tr>
+<tr><td>ATPL(A)</td><td>&gt; 1 500 as PIC on multi-pilot aeroplanes</td><td>None</td><td>ATPL(A)</td><td>Not applicable</td><td>(a)</td></tr>
+<tr><td>ATPL(A)</td><td>&gt; 1 500 on multi-pilot aeroplanes</td><td>None</td><td>as in (c)(4)</td><td>as in (c)(5)</td><td>(b)</td></tr>
+<tr><td>ATPL(A)</td><td>&gt; 500 on multi-pilot aeroplanes</td><td>Demonstrate knowledge of flight planning and performance as required by FCL.515</td><td>ATPL(A), with type rating restricted to co-pilot</td><td>Demonstrate ability to act as PIC as required by Appendix 9 to Part-FCL</td><td>(c)</td></tr>
+<tr><td>CPL/IR(A) and passed an ICAO ATPL theory test in the Member State of licence issue</td><td>  </td><td>(i) demonstrate knowledge of flight planning and performance as required by FCL.310 and FCL.615(b) (ii) meet remaining requirements of FCL.720.A(c) </td><td>CPL/IR(A) with ATPL theory credit</td><td>Not applicable</td><td>(d)</td></tr>
+<tr><td>CPL/IR(A)</td><td>&gt; 500 on multi-pilot aeroplanes, or in multi-pilot operations on single-pilot aeroplanes CS-23 commuter category or equivalent in accordance with the relevant requirements of Part-CAT and Part-ORO for commercial air transport</td><td>(i) pass an examination for ATPL(A) knowledge in the Member State of licence issue (*1) (ii) meet remaining requirements of FCL.720.A(c) </td><td>CPL/IR(A) with ATPL theory credit</td><td>Not applicable</td><td>(e)</td></tr>
+<tr><td>CPL/IR(A)</td><td>&gt; 500 as PIC on single-pilot aeroplanes</td><td>None</td><td>CPL/IR(A) with class ratings and type ratings restricted to single-pilot aeroplanes</td><td>Obtain multi-pilot type rating in accordance with Part-FCL</td><td>(f)</td></tr>
+<tr><td>CPL/IR(A)</td><td>&lt; 500 as PIC on single-pilot aeroplanes</td><td>Demonstrate knowledge of flight planning and flight performance for CPL/IR level</td><td>As (4)(f)</td><td>As (5)(f)</td><td>(g)</td></tr>
+<tr><td>CPL(A)</td><td>&gt; 500 as PIC on single-pilot aeroplanes</td><td>Night rating, if applicable</td><td>CPL(A), with type/class ratings restricted to single-pilot aeroplanes</td><td>  </td><td>(h)</td></tr>
+<tr><td>CPL(A)</td><td>&lt; 500 as PIC on single-pilot aeroplanes</td><td>(i) Night rating, if applicable; (ii) demonstrate knowledge of flight performance and planning as required by FCL.310 </td><td>as (4)(h)</td><td>  </td><td>(i)</td></tr>
+<tr><td>PPL/IR(A)</td><td>≥ 75 in accordance with IFR</td><td>  </td><td>PPL/IR(A) (the IR restricted to PPL)</td><td>Demonstrate knowledge of flight performance and planning as required by FCL.615(b)</td><td>(j)</td></tr>
+<tr><td>PPL(A)</td><td>≥ 70 on aeroplanes</td><td>Demonstrate the use of radio navigation aids</td><td>PPL(A)</td><td>  </td><td>(k)</td></tr>
+<tr><td colspan="6">(*1)  CPL holders already holding a type rating for a multi-pilot aeroplane are not required to have passed an examination for ATPL(A) theoretical knowledge whilst they continue to operate that same aeroplane type, but will not be given ATPL(A) theory credit for a Part-FCL licence. If they require another type rating for a different multi-pilot aeroplane, they must comply with column (3), row (e)(i) of the above table. </td></tr>
+</tbody>
+</table>
+
+**2\. Instructor certificates**
+
+An instructor certificate issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL certificate provided that the applicant complies with the following requirements:
+
+| National certificate or privileges held | Experience | Any further requirements | Replacement Part-FCL certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| FI(A)/IRI(A)/TRI(A)/CRI(A) | as required under Part-FCL for the relevant certificate | N/A | FI(A)/IRI(A)/TRI(A)/CRI(A) |
+
+**3\. SFI certificate**
+
+An SFI certificate issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL certificate provided that the holder complies with the following requirements:
+
+| National certificate held | Experience | Any further requirements | Replacement Part-FCL certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| SFI(A) | > 1 500 hours as pilot of MPA | (i) hold or have held a CPL, MPL or ATPL for aeroplanes issued by a Member State; (ii) have completed the flight simulator content of the applicable type rating course including MCC. | SFI(A) |
+| SFI(A) | 3 years’ recent experience as an SFI | have completed the flight simulator content of the applicable type rating course including MCC | SFI(A) |
+
+The conversion shall be valid for a maximum period of 3 years. Revalidation shall be subject to the completion of the relevant requirements set out in Part-FCL.
+
+**4\. STI certificate**
+
+An STI certificate issued by a Member State in accordance with the national requirements of that State may be converted into a Part-FCL certificate provided that the holder complies with the requirements set out in the table below:
+
+| National certificate held | Experience | Any further requirements | Replacement certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| STI(A) | > 500 hours as pilot on SPA | (i) hold or have held a pilot licence issued by a Member State; (ii) have completed a proficiency check in accordance with Appendix 9 to Part-FCL in an FSTD appropriate to the instruction intended | STI(A) |
+| STI(A) | 3 years’ recent experience as an STI | have completed a proficiency check in accordance with Appendix 9 to Part-FCL in an FSTD appropriate to the instruction intended | STI(A) |
+
+Revalidation of the certificate shall be subject to the completion of the relevant requirements set out in Part-FCL.
+
+**B. HELICOPTERS**
+
+**1\. Pilot licences**
+
+A pilot licence issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL licence provided that the applicant complies with the following requirements:
+
+(a) complete as a proficiency check the revalidation requirements of Part-FCL for type and instrument rating, relevant to the privileges of the licence held;
+
+(b) demonstrate knowledge of the relevant parts of the operational requirements and Part-FCL;
+
+(c) demonstrate language proficiency in accordance with FCL.055;
+
+(d) comply with the requirements set out in the following table:
+
+<table>
+<tbody><tr><td>National licence held</td><td>Total flying hours experience</td><td>Any further requirements</td><td>Replacement Part-FCL licence and conditions (where applicable)</td><td>Removal of conditions</td><td>  </td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>  </td></tr>
+<tr><td>ATPL(H) valid IR(H)</td><td>&gt; 1 000 as PIC on multi-pilot helicopters</td><td>none</td><td>ATPL(H) and IR</td><td>Not applicable</td><td>(a)</td></tr>
+<tr><td>ATPL(H) no IR(H) privileges</td><td>&gt; 1 000 as PIC on multi-pilot helicopters</td><td>none</td><td>ATPL(H)</td><td>  </td><td>(b)</td></tr>
+<tr><td>ATPL(H) valid IR(H)</td><td>&gt; 1 000 on multi-pilot helicopters</td><td>None</td><td>ATPL(H), and IR with type rating restricted to co-pilot</td><td>demonstrate ability to act as PIC as required by Appendix 9 to Part-FCL</td><td>(c)</td></tr>
+<tr><td>ATPL(H) no IR(H) privileges</td><td>&gt; 1 000 on multi-pilot helicopters</td><td>None</td><td>ATPL(H) type rating restricted to co-pilot</td><td>demonstrate ability to act as PIC as required by Appendix 9 to Part-FCL</td><td>(d)</td></tr>
+<tr><td>ATPL(H) valid IR(H)</td><td>&gt; 500 on multi-pilot helicopters</td><td>demonstrate knowledge of flight planning and flight performance as required by FCL.515 and FCL.615(b)</td><td>as (4)(c)</td><td>as (5)(c)</td><td>(e)</td></tr>
+<tr><td>ATPL(H) no IR(H) privileges</td><td>&gt; 500 on multi-pilot helicopters</td><td>as (3)(e)</td><td>as (4)(d)</td><td>as (5)(d)</td><td>(f)</td></tr>
+<tr><td>CPL/IR(H) and passed an ICAO ATPL(H) theory test in the Member State of licence issue</td><td>  </td><td>(i) demonstrate knowledge of flight planning and flight performance as required by FCL.310 and FCL.615(b); (ii) meet remaining requirements of FCL.720.H(b) </td><td>CPL/IR(H) with ATPL(H) theory credit, provided that the ICAO ATPL(H) theory test is assessed as being at Part-FCL ATPL level</td><td>Not applicable</td><td>(g)</td></tr>
+<tr><td>CPL/IR(H)</td><td>&gt; 500 hrs on multi-pilot helicopters</td><td>(i) to pass an examination for Part-FCL ATPL(H) theoretical knowledge in the Member State of licence issue (*1) (ii) to meet remaining requirements of FCL.720.H(b) </td><td>CPL/IR(H) with Part-FCL ATPL(H) theory credit</td><td>Not applicable</td><td>(h)</td></tr>
+<tr><td>CPL/IR(H)</td><td>&gt; 500 as PIC on single-pilot helicopters</td><td>None</td><td>CPL/IR(H) with type ratings restricted to single-pilot helicopters</td><td rowspan="4">obtain multi-pilot type rating as required by Part-FCL</td><td>(i)</td></tr>
+<tr><td>CPL/IR(H)</td><td>&lt; 500 as PIC on single-pilot helicopters</td><td>demonstrate knowledge of flight planning and flight performance as required by FCL.310 and FCL.615(b)</td><td>as (4)(i)</td><td>(j)</td></tr>
+<tr><td>CPL(H)</td><td>&gt; 500 as PIC on single-pilot helicopters</td><td>night rating</td><td>CPL(H), with type ratings restricted to single-pilot helicopters</td><td>(k)</td></tr>
+<tr><td>CPL(H)</td><td>&lt; 500 as PIC on single-pilot helicopters</td><td>night rating demonstrate knowledge of flight performance and planning as required by FCL.310</td><td>as (4)(k)</td><td>(l)</td></tr>
+<tr><td>CPL(H) Without night rating</td><td>&gt; 500 as PIC on single-pilot helicopters</td><td>  </td><td>As (4)(k) and restricted to day VFR operations</td><td rowspan="2">Obtain multi-pilot type rating as required by Part-FCL and a night rating</td><td>(m)</td></tr>
+<tr><td>CPL(H) Without night rating</td><td>&lt; 500 as PIC on single-pilot helicopters</td><td>demonstrate knowledge of flight planning and flight performance as required by FCL.310</td><td>As (4)(k) and restricted to day VFR operations</td><td>(n)</td></tr>
+<tr><td>PPL/IR(H)</td><td>≥ 75 in accordance with IFR</td><td>  </td><td>PPL/IR(H) (the IR restricted to PPL)</td><td>Demonstrate knowledge of flight performance and planning as required by FCL.615(b)</td><td>(o)</td></tr>
+<tr><td>PPL(H)</td><td>≥ 75 on helicopters</td><td>demonstrate the use of radio navigation aids</td><td>PPL (H)</td><td>  </td><td>(p)</td></tr>
+<tr><td colspan="6">(*1)  CPL holders already holding a type rating for a multi-pilot helicopter are not required to have passed an examination for ATPL(H) theoretical knowledge whilst they continue to operate that same helicopter type, but will not be given ATPL(H) theory credit for a Part-FCL licence. If they require another type rating for a different multi-pilot helicopter, they must comply with column (3), row (h)(i) of the table. </td></tr>
+</tbody>
+</table>
+
+**2\. Instructor certificates**
+
+An instructor certificate issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL certificate provided that the applicant complies with the following requirements:
+
+| National certificate or privileges held | Experience | Any further requirements | Replacement certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| FI(H)/IRI(H)/TRI(H) | as required under Part-FCL for the relevant certificate |  | FI(H)/IRI(H)/TRI(H) (*) |
+
+Revalidation of the certificate shall be subject to the completion of the relevant requirements set out in Part-FCL.
+
+**3\. SFI certificate**
+
+An SFI certificate issued by a Member State in accordance with the national requirements shall be converted into a Part-FCL certificate provided that the holder complies with the following requirements:
+
+| National certificate held | Experience | Any further requirements | Replacement certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| SFI(H) | > 1 000 hours as pilot of MPH | (i) hold or have held a CPL, MPL or ATPL issued by a Member State; (ii) have completed the flight simulator content of the applicable type rating course including MCC | SFI(H) |
+| SFI(H) | 3 years’ recent experience as an SFI | have completed the simulator content of the applicable type rating course including MCC | SFI(H) |
+
+Revalidation of the certificate shall be subject to the completion of the relevant requirements set out in Part-FCL.
+
+**4\. STI certificate**
+
+An STI certificate issued by a Member State in accordance with the national requirements of that State may be converted into a Part-FCL certificate provided that the holder complies with the requirements set out in the table below:
+
+| National certificate held | Experience | Any further requirements | Replacement certificate |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| STI(H) | > 500 hours as pilot on SPH | (i) hold or have held a pilot licence issued by a Member State; (ii) have completed a proficiency check in accordance with Appendix 9 to Part-FCL in an FSTD appropriate to the instruction intended | STI(H) |
+| STI(H) | 3 years’ recent experience as an STI | have completed a proficiency check in accordance with Appendix 9 to Part-FCL in an FSTD appropriate to the instruction intended | STI(H) |
+
+Revalidation of the certificate shall be subject to the completion of the relevant requirements set out in Part-FCL.
+
+## ANNEX IV
+
+**[PART-MED]**
+
+**SUBPART A**
+
+**GENERAL REQUIREMENTS**
+
+**SECTION 1**
+
+**General**
+
+MED.A.001 Competent authority
+
+For the purpose of this Annex (Part-MED), the competent authority shall be:
+
+(a) for aero-medical centres (AeMCs):
+
+(1) the authority designated by the Member State, where the AeMC has its principal place of business;
+
+(2) the Agency, if the AeMC is located in a third country;
+
+(b) for aero-medical examiners (AMEs):
+
+(1) the authority designated by the Member State where the AME has its principal place of practice;
+
+(2) if the principal place of practice of an AME is located in a third country, the authority designated by the Member State to which the AME applies for the issue of the AME certificate;
+
+(c) for general medical practitioners (GMPs), the authority designated by the Member State to which the GMP notify their activity;
+
+(d) for occupational health medical practitioners (OHMPs) assessing the medical fitness of cabin crew, the authority designated by the Member State to which the OHMP notify their activity.
+
+MED.A.005 Scope
+
+This Annex (Part-MED) establishes the requirements for:
+
+(a) the issuance, validity, revalidation and renewal of the medical certificate required for exercising the privileges of a pilot licence or of a student pilot;
+
+(b) the medical fitness of cabin crew;
+
+(c) the certification of AMEs;
+
+(d) the qualification of GMPs and OHMPs.
+
+MED.A.010 Definitions
+
+For the purpose of this Annex (Part-MED), the following definitions shall apply:
+
+— ‘limitation’ means a condition placed on the medical certificate or cabin crew medical report that shall be complied with whilst exercising the privileges of the licence or cabin crew attestation;
+
+— ‘aero-medical examination’ means an inspection, palpation, percussion, auscultation or any other means of investigation for determining the medical fitness to exercise the privileges of the licence, or to carry out cabin crew safety duties;
+
+— ‘aero-medical assessment’ means the conclusion on the medical fitness of an applicant based on the evaluation of the applicant as required in this Annex (Part-MED) and further examinations and medical tests as clinically indicated;
+
+— ‘significant’ means a degree of a medical condition, the effect of which would prevent the safe exercise of the privileges of the licence or of the cabin crew safety duties;
+
+— ‘applicant’ means a person applying for, or being the holder of, a medical certificate who undergoes an aero-medical assessment of fitness to exercise the privileges of the licence, or to carry out cabin crew safety duties;
+
+— ‘medical history’ means a narrative or record of past diseases, injuries, treatments or other medical facts, including unfit assessment(s) or limitation of a medical certificate, that are or may be relevant to an applicant's current state of health and aero-medical fitness;
+
+— ‘licensing authority’ means the competent authority of the Member State that issued the licence, or to which a person applies for the issuance of a licence, or, when a person has not yet applied for a licence, the competent authority as determined in accordance with FCL.001 of Annex I (Part-FCL);
+
+— ‘colour safe’ means the ability of an applicant to readily distinguish the colours used in air navigation and to correctly identify aviation coloured lights;
+
+— ‘helicopter emergency medical services (HEMS) operation’ means a ‘HEMS flight’ as defined in point 61 of Annex I to Regulation (EU) No 965/2012;
+
+— ‘investigation’ means the assessment of a suspected pathological condition of an applicant by means of examinations and tests in order to verify the presence or absence of a medical condition;
+
+— ‘accredited medical conclusion’ means the conclusion reached by one or more medical experts acceptable to the licensing authority, on the basis of objective and non-discriminatory criteria, for the purposes of the case concerned, in consultation with flight operations or other experts as necessary, for which an operational risk assessment may be appropriate;
+
+— ‘misuse of substances’ means the use of one or more psychoactive substances by aircrew in a way that, alternatively or jointly:
+
+(a) constitutes a direct hazard to the user or endangers the lives, health or welfare of others;
+
+(b) causes or worsens an occupational, social, mental or physical problem or disorder;
+
+— ‘psychoactive substances’ means alcohol, opioids, cannabinoids, sedatives and hypnotics, cocaine, other psychostimulants, hallucinogens, and volatile solvents, with the exception of caffeine and tobacco;
+
+— ‘refractive error’ means the deviation from emmetropia measured in dioptres in the most ametropic meridian, measured by standard methods.
+
+MED.A.015 Medical confidentiality
+
+All persons involved in aero-medical examinations, assessments and certification shall ensure that medical confidentiality is respected at all times.
+
+MED.A.020 Decrease in medical fitness
+
+(a) Licence holders shall not exercise the privileges of their licence and related ratings or certificates, and student pilots shall not fly solo, at any time when they:
+
+(1) are aware of any decrease in their medical fitness which might render them unable to safely exercise those privileges;
+
+(2) take or use any prescribed or non-prescribed medication which is likely to interfere with the safe exercise of the privileges of the applicable licence;
+
+(3) receive any medical, surgical or other treatment that is likely to interfere with the safe exercise of the privileges of the applicable licence.
+
+(b) In addition, holders of a medical certificate shall, without undue delay and before exercising the privileges of their licence, seek aero-medical advice from the AeMC, AME or GMP, as applicable, when they:
+
+(1) have undergone a surgical operation or invasive procedure;
+
+(2) have commenced the regular use of any medication;
+
+(3) have suffered any significant personal injury involving incapacity to function as a member of the flight crew;
+
+(4) have been suffering from any significant illness involving incapacity to function as a member of the flight crew;
+
+(5) are pregnant;
+
+(6) have been admitted to hospital or medical clinic;
+
+(7) first require correcting lenses.
+
+(c) In the cases referred to in point (b):
+
+(1) holders of class 1 and class 2 medical certificates shall seek the aero-medical advice of an AeMC or AME. In that case, the AeMC or AME shall assess their medical fitness and decide whether they are fit to resume the exercise of their privileges;
+
+(2) holders of light aircraft pilot licence medical certificates shall seek the aero-medical advice of an AeMC, an AME or the GMP who signed the medical certificate. In that case, the AeMC, AME or GMP shall assess their medical fitness and decide whether they are fit to resume the exercise of their privileges.
+
+(d) Cabin crew members shall not perform duties on an aircraft and, where applicable, shall not exercise the privileges of their cabin crew attestation when they are aware of any decrease in their medical fitness, to the extent that this medical condition might render them unable to discharge their safety duties and responsibilities.
+
+(e) In addition, if any of the medical conditions specified in points (1) to (5) of point (b) apply, cabin crew members shall, without undue delay, seek the advice of an AME, AeMC or OHMP, as applicable. In that case, the AME, AeMC or OHMP shall assess the medical fitness of the cabin crew members and decide whether they are fit to resume their safety duties.
+
+MED.A.025 Obligations of the AeMC, AME, GMP and OHMP
+
+(a) When conducting aero-medical examinations and aero-medical assessments as required in this Annex (Part-MED), the AeMC, AME, GMP and OHMP shall:
+
+(1) ensure that communication with the applicant can be established without language barriers;
+
+(2) make the applicant aware of the consequences of providing incomplete, inaccurate or false statements on their medical history;
+
+(3) notify the licensing authority, or, in the case of cabin crew attestation holders, notify the competent authority, if the applicant provides incomplete, inaccurate or false statements on their medical history;
+
+(4) notify the licensing authority if an applicant withdraws the application for a medical certificate at any stage of the process.
+
+(b) After completion of the aero-medical examinations and assessments, the AeMC, AME, GMP and OHMP shall:
+
+(1) inform the applicant whether he or she is fit, unfit or referred to the medical assessor of the licensing authority, AeMC or AME, as applicable;
+
+(2) inform the applicant of any limitation that may restrict flight training or the privileges of his or her licence or cabin crew attestation, as applicable;
+
+(3) if the applicant has been assessed as unfit, inform him or her of his or her right to have the decision reviewed in accordance with the procedures of the competent authority;
+
+(4) in the case of applicants for a medical certificate, submit without delay to the medical assessor of the licensing authority a signed, or electronically authenticated, report containing the detailed results of the aero-medical examinations and assessments as required for the class of medical certificate and a copy of the application form, the examination form, and the medical certificate;
+
+(5) inform the applicant of his or her responsibilities in the case of decrease in medical fitness, as specified in point MED.A.020.
+
+(c) Where consultation with the medical assessor of the licensing authority is required in accordance with this Annex (Part-MED), the AeMC and AME shall follow the procedure established by the competent authority.
+
+(d) AeMCs, AMEs, GMPs and OHMPs shall maintain records with details of aero-medical examinations and assessments performed in accordance with this Annex (Part-MED) and their results for a minimum of 10 years, or for a longer period if so determined by national legislation.
+
+(e) AeMCs, AMEs, GMPs and OHMPs shall submit to the medical assessor of the competent authority, upon request, all aero-medical records and reports, and any other relevant information, when required for:
+
+(1) medical certification;
+
+(2) oversight functions.
+
+(f) AeMCs and AMEs shall enter or update the data included in the European Aero-Medical Repository in accordance with point (d) of point ARA.MED.160.
+
+**SECTION 2**
+
+**Requirements for medical certificates**
+
+MED.A.030 Medical certificates
+
+(a) A student pilot shall not fly solo unless that student pilot holds a medical certificate, as required for the relevant licence.
+
+(b) An applicant for a licence, in accordance with Annex I (Part-FCL), shall hold a medical certificate issued in accordance with this Annex (Part-MED) and appropriate to the licence privileges applied for.
+
+(c) When exercising the privileges of a:
+
+(1) light aircraft pilot licence (LAPL), a balloon pilot licence (BPL) issued in accordance with Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395, or a sailplane pilot licence (SPL) issued in accordance with Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, the pilot shall hold at least a valid LAPL medical certificate;
+
+(2) private pilot licence (PPL) or gyroplane pilot licence (GPL), the pilot shall hold at least a valid class 2 medical certificate;
+
+(3) BPL for the purpose of:
+
+(i) commercial passenger ballooning, the pilot shall hold at least a valid class 2 medical certificate;
+
+(ii) commercial operation other than commercial passenger ballooning, with more than 4 persons on board the aircraft, the pilot shall hold at least a valid class 2 medical certificate;
+
+(4) SPL for the purpose of commercial sailplane operations other than those specified in Article 3(2) of Commission Implementing Regulation (EU) 2018/1976, the pilot shall hold at least a valid class 2 medical certificate;
+
+(5) a commercial pilot licence (CPL), a multi-crew pilot licence (MPL) or an airline transport pilot licence (ATPL), the pilot shall hold a valid class 1 medical certificate.
+
+(d) If a night rating is added to a PPL or LAPL, the licence holder shall be colour safe.
+
+(e) If an instrument rating or basic instrument rating is added to a PPL, the licence holder shall undergo pure tone audiometry examinations in accordance with the periodicity and the standard required for class 1 medical certificate holders.
+
+(f) A licence holder shall not at any time hold more than one medical certificate issued in accordance with this Annex (Part-MED).
+
+MED.A.035 Application for a medical certificate
+
+(a) Applications for a medical certificate shall be made in a form and manner established by the competent authority.
+
+(b) Applicants for a medical certificate shall provide the AeMC, AME or GMP, as applicable, with:
+
+(1) proof of their identity;
+
+(2) a signed declaration:
+
+(i) of medical facts concerning their medical history;
+
+(ii) as to whether they have previously applied for a medical certificate or have undergone an aero-medical examination for a medical certificate and, if so, by whom and with what result;
+
+(iii) as to whether they have ever been assessed as unfit or had a medical certificate suspended or revoked.
+
+(c) When applying for a revalidation or renewal of the medical certificate, applicants shall present the most recent medical certificate to the AeMC, AME or GMP, as applicable, prior to the relevant aero-medical examinations.
+
+MED.A.040 Issuance, revalidation and renewal of medical certificates
+
+(a) A medical certificate shall only be issued, revalidated or renewed once the required aero-medical examinations and assessments, as applicable, have been completed and the applicant has been assessed as fit.
+
+(b) Initial issuance
+
+(1) Class 1 medical certificates shall be issued by an AeMC.
+
+(2) Class 2 medical certificates shall be issued by an AeMC or an AME.
+
+(3) LAPL medical certificates shall be issued by an AeMC or an AME. They may also be issued by a GMP if so permitted under the national law of the Member State of the licensing authority to which the application for the medical certificate has been made.
+
+(c) Revalidation and renewal
+
+(1) Class 1 and class 2 medical certificates shall be revalidated and renewed by an AeMC or an AME. Specifically, class 1 medical certificates for applicants who have reached the age of 60 and are involved in single-pilot HEMS operations shall be revalidated and renewed primarily by an AeMC or, at the discretion of the competent authority, by an experienced AME designated by the competent authority.
+
+(2) LAPL medical certificates shall be revalidated and renewed by an AeMC or an AME. They may also be revalidated or renewed by a GMP if so permitted under the national law of the Member State of the licensing authority to which the application for the medical certificate has been made.
+
+(d) The AeMC, AME or GMP shall only issue, revalidate or renew a medical certificate if both of the following conditions have been met:
+
+(1) the applicant has provided them with a complete medical history and, if required by the AeMC, AME or GMP, with results of medical examinations and tests conducted by the applicant's physician or any medical specialists;
+
+(2) the AeMC, AME or GMP has conducted the aero-medical assessment based on the medical examinations and tests as required for the relevant medical certificate to verify that the applicant complies with all the relevant requirements of this Annex (Part-MED).
+
+(e) The AME, AeMC or, in the case of referral, the medical assessor of the licensing authority may require the applicant to undergo additional medical examinations and investigations when there is a clinical or epidemiological indication before the medical certificate is issued, revalidated or renewed.
+
+(f) The medical assessor of the licensing authority may issue or reissue a medical certificate.
+
+MED.A.045 Validity, revalidation and renewal of medical certificates
+
+(a) Validity
+
+(1) Class 1 medical certificates shall be valid for a period of 12 months.
+
+(2) By derogation from point (1), the period of validity of class 1 medical certificates shall be 6 months for licence holders who:
+
+(i) are engaged in single-pilot commercial air transport operations carrying passengers and have reached the age of 40;
+
+(ii) have reached the age of 60.
+
+(3) Class 2 medical certificates shall be valid for a period of:
+
+(i) 60 months, until the licence holder reaches the age of 40. A medical certificate issued prior to the licence holder reaching the age of 40 shall cease to be valid after the licence holder reaches the age of 42;
+
+(ii) 24 months, for licence holders aged between 40 and 50. A medical certificate issued prior to the licence holder reaching the age of 50 shall cease to be valid after the licence holder reaches the age of 51;
+
+(iii) 12 months, for licence holders aged above 50.
+
+(4) LAPL medical certificates shall be valid for a period of:
+
+(i) 60 months, until the licence holder reaches the age of 40. A medical certificate issued prior to the licence holder reaching the age of 40 shall cease to be valid after the licence holder reaches the age of 42;
+
+(ii) 24 months, for licence holders aged above 40.
+
+(5) The validity period of a medical certificate, including any associated examination or special investigation, shall be calculated from the date of the aero-medical examination in the case of initial issue and renewal, and from the expiry date of the previous medical certificate in the case of revalidation.
+
+(b) Revalidation
+
+Aero-medical examinations and assessments, as applicable, for the revalidation of a medical certificate may be undertaken up to 45 days prior to the expiry date of the medical certificate.
+
+(c) Renewal
+
+(1) If the holder of a medical certificate does not comply with point (b), a renewal examination and assessment, as applicable, shall be required.
+
+(2) In the case of class 1 and class 2 medical certificates:
+
+(i) if the medical certificate has expired for less than 2 years, a routine revalidation aero-medical examination shall be performed;
+
+(ii) if the medical certificate has expired for more than 2 years but less than 5 years, the AeMC or AME shall only conduct the renewal aero-medical examination after assessment of the aero-medical records of the applicant;
+
+(iii) if the medical certificate has expired for more than 5 years, the aero-medical examination requirements for initial issue shall apply and the assessment shall be based on the revalidation requirements.
+
+(3) In the case of LAPL medical certificates, the AeMC, AME or GMP shall assess the medical history of the applicant and perform the aero-medical examinations and assessments, as applicable, in accordance with points MED.B.005 and MED.B.095.
+
+MED.A.046 Suspension or revocation of medical certificates
+
+(a) A medical certificate may be suspended or revoked by the licensing authority.
+
+(b) Upon suspension of the medical certificate, the holder shall return the medical certificate to the licensing authority on request of that authority.
+
+(c) Upon revocation of the medical certificate, the holder shall immediately return the medical certificate to the licensing authority.
+
+MED.A.050 Referral
+
+(a) If an applicant for a class 1 or class 2 medical certificate is referred to the medical assessor of the licensing authority in accordance with point MED.B.001, the AeMC or AME shall transfer the relevant medical documentation to the licensing authority.
+
+(b) If an applicant for a LAPL medical certificate is referred to an AME or AeMC in accordance with point MED.B.001, the GMP shall transfer the relevant medical documentation to the AeMC or AME.
+
+**SUBPART B**
+
+**REQUIREMENTS FOR PILOT MEDICAL CERTIFICATES**
+
+**SECTION 1**
+
+**General**
+
+MED.B.001 Limitations to medical certificates
+
+(a) Limitations to class 1 and class 2 medical certificates
+
+(1) If the applicant does not fully comply with the requirements for the relevant class of medical certificate but is considered to be not likely to jeopardise the safe exercise of the privileges of the applicable licence, the AeMC or AME shall:
+
+(i) in the case of applicants for a class 1 medical certificate, refer the decision on fitness of the applicant to the medical assessor of the licensing authority as indicated in this Subpart;
+
+(ii) in cases where a referral to the medical assessor of the licensing authority is not indicated in this Subpart, evaluate whether the applicant is able to perform his/her duties safely when complying with one or more limitations endorsed on the medical certificate and issue the medical certificate with limitation(s) as necessary;
+
+(iii) in the case of applicants for a class 2 medical certificate, evaluate, in consultation with the medical assessor of the licensing authority as indicated in this Subpart, whether the applicant is able to perform his/her duties safely when complying with one or more limitations endorsed on the medical certificate and issue the medical certificate, with limitation(s) as necessary.
+
+(2) The AeMC or AME may revalidate or renew a medical certificate with the same limitation(s) without referring to or consulting with the medical assessor of the licensing authority.
+
+(b) Limitations to LAPL medical certificates
+
+(1) If a GMP, after due consideration of the applicant's medical history, concludes that the applicant for a LAPL medical certificate does not fully meet the requirements for medical fitness, the GMP shall refer the applicant to an AeMC or AME, unless the applicant requires only limitation(s) related to the use of corrective lenses or to the period of validity of the medical certificate.
+
+(2) If an applicant for a LAPL medical certificate has been referred in accordance with point (1), the AeMC or AME shall give due consideration to points MED.B.005 and MED.B.095, evaluate whether the applicant is able to perform his or her duties safely when complying with one or more limitations endorsed on the medical certificate and issue the medical certificate with limitation(s) as necessary. The AeMC or AME shall always consider the need to restrict the applicant from carrying passengers (operational passenger limitation, OPL).
+
+(3) The GMP may revalidate or renew a LAPL medical certificate with the same limitation without referring the applicant to an AeMC or AME.
+
+(c) When assessing whether a limitation is necessary, particular consideration shall be given to:
+
+(1) whether accredited medical conclusion indicates that in special circumstances the applicant's failure to meet any requirement, whether numerical or otherwise, is such that the exercise of the privileges of the licence applied for is not likely to jeopardise flight safety;
+
+(2) the applicant's ability, skill and experience relevant to the operation to be performed.
+
+(d) Operational limitation codes
+
+(1) Operational multi-pilot limitation (OML – class 1 only)
+
+(i) When the holder of a CPL, ATPL or MPL does not fully meet the requirements for a class 1 medical certificate and has been referred to a medical assessor of the licensing authority, that medical assessor shall assess whether the medical certificate may be issued with an OML ‘valid only as or with qualified co-pilot’.
+
+(ii) The holder of a medical certificate with an OML shall only operate an aircraft in multi-pilot operations when the other pilot is fully qualified on the relevant class and type of aircraft, is not subject to an OML and has not attained the age of 60 years.
+
+(iii) The OML for class 1 medical certificates shall be initially imposed and only removed by the medical assessor of the licensing authority.
+
+(2) Operational safety pilot limitation (OSL – class 2 and LAPL privileges)
+
+(i) The holder of a medical certificate with an OSL shall only operate an aircraft if another pilot fully qualified to act as pilot-in-command on the relevant class and type of aircraft is carried on board, the aircraft is fitted with dual controls and the other pilot occupies a seat at the controls.
+
+(ii) The OSL for class 2 medical certificates may be imposed and removed either by the medical assessor of the licensing authority, or by an AeMC or an AME in consultation with the medical assessor of the licensing authority.
+
+(iii) The OSL for LAPL medical certificates may be imposed and removed by the medical assessor of the licensing authority, an AeMC or an AME.
+
+(3) Operational passenger limitation (OPL – class 2 and LAPL privileges)
+
+(i) The holder of a medical certificate with an OPL shall only operate an aircraft without passengers on board.
+
+(ii) The OPL for class 2 medical certificates may be imposed and removed either by the medical assessor of the licensing authority, or by an AeMC or an AME in consultation with the medical assessor of the licensing authority.
+
+(iii) The OPL for LAPL medical certificates may be imposed and removed by the medical assessor of the licensing authority, an AeMC or an AME.
+
+(4) Operational pilot restriction limitation (ORL – class 2 and LAPL privileges)
+
+(i) The holder of a medical certificate with an ORL shall only operate an aircraft if one of the two following conditions have been met:
+
+(A) another pilot fully qualified to act as pilot-in-command on the relevant class and type of aircraft is on board the aircraft, the aircraft is fitted with dual controls and the other pilot occupies a seat at the controls;
+
+(B) there are no passengers on board the aircraft.
+
+(ii) The ORL for class 2 medical certificates may be imposed and removed either by the medical assessor of the licensing authority, or by an AeMC or AME in consultation with the medical assessor of the licensing authority.
+
+(iii) The ORL for LAPL medical certificates may be imposed and removed by the medical assessor of the licensing authority, an AeMC or an AME.
+
+(5) Special restriction as specified (SSL)
+
+The SSL on a medical certificate shall be followed by a description of the limitation.
+
+(e) Any other limitation may be imposed on the holder of a medical certificate by the medical assessor of the licensing authority, AeMC, AME or GMP, as applicable, if required to ensure flight safety.
+
+(f) Any limitation imposed on the holder of a medical certificate shall be specified therein.
+
+MED.B.005 General medical requirements
+
+Applicants for a medical certificate shall be assessed in accordance with the detailed medical requirements set out in Sections 2 and 3.
+
+They shall, in addition, be assessed as unfit where they have any of the following medical conditions which entails a degree of functional incapacity which is likely to interfere with the safe exercise of the privileges of the licence applied for or could render the applicant likely to become suddenly unable to exercise those privileges:
+
+(a) abnormality, either congenital or acquired;
+
+(b) active, latent, acute or chronic disease or disability;
+
+(c) wound, injury or sequelae from operation;
+
+(d) effect or side effect of any prescribed or non-prescribed therapeutic, diagnostic or preventive medication taken.
+
+In their examination AMEs shall give proper consideration to the degenerative effects of ageing on the body systems.
+
+**SECTION 2**
+
+**Medical requirements for class 1 and class 2 medical certificates**
+
+MED.B.010 Cardiovascular System
+
+(a) Examination
+
+(1) A standard 12-lead resting electrocardiogram (ECG) and report shall be completed when clinically indicated and at the following moments:
+
+(i) for a class 1 medical certificate, at the initial examination, then every 5 years until age 30, every 2 years until age 40, annually until age 50, and at all revalidation or renewal examinations thereafter;
+
+(ii) for a class 2 medical certificate, at the initial examination, at the first examination after age 40 and then at the first examination after age 50, and every 2 years thereafter.
+
+(2) An extended cardiovascular assessment shall be required when clinically indicated.
+
+(3) For a class 1 medical certificate, an extended cardiovascular assessment shall be completed at the first revalidation or renewal examination after the age of 65 and every 4 years thereafter. For applicants involved in single-pilot HEMS operations, an extended cardiovascular assessment shall be completed at the first revalidation or renewal examination after the age of 60 and subject to a cardiovascular risk factor assessment thereafter.
+
+(4) For a class 1 medical certificate, estimation of serum lipids, including cholesterol fractions, shall be required at the initial examination, and at the first examination after having reached the age of 40.
+
+(b) Cardiovascular System – General
+
+(1) Applicants for a class 1 medical certificate with any of the following medical conditions shall be assessed as unfit:
+
+(i) aneurysm of the thoracic or supra-renal abdominal aorta, before surgery;
+
+(ii) significant functional or symptomatic abnormality of any of the heart valves;
+
+(iii) heart or heart/lung transplantation.;
+
+(iv) symptomatic hypertrophic cardiomyopathy.
+
+(2) Before further consideration is given to their application, applicants for a class 1 medical certificate with a documented medical history or diagnosis of any of the following medical conditions shall be referred to the medical assessor of the licensing authority:
+
+(i) peripheral arterial disease before or after surgery;
+
+(ii) aneurysm of the thoracic or supra-renal abdominal aorta after surgery;
+
+(iii) aneurysm of the infra-renal abdominal aorta before or after surgery;
+
+(iv) functionally insignificant cardiac valvular abnormalities;
+
+(v) after cardiac valve surgery;
+
+(vi) abnormality of the pericardium, myocardium or endocardium;
+
+(vii) congenital abnormality of the heart, before or after corrective surgery;
+
+(viii) vasovagal syncope of uncertain cause;
+
+(ix) arterial or venous thrombosis;
+
+(x) pulmonary embolism;
+
+(xi) cardiovascular condition requiring systemic anticoagulant therapy.
+
+(3) Applicants for a class 2 medical certificate with an established diagnosis of one of the conditions specified in points (1) and (2) shall be evaluated by a cardiologist before they may be assessed as fit, in consultation with the medical assessor of the licensing authority.
+
+(4) Applicants with cardiac disorders other than those specified in points (1) and (2) may be assessed as fit subject to satisfactory cardiological evaluation.
+
+(5) A cardiovascular risk factor assessment shall form part of examinations for class 1 and class 2 medical certificates at the first examination after reaching the age of 40 and at regular intervals thereafter.
+
+(c) Blood Pressure
+
+(1) Applicants' blood pressure shall be recorded at each examination.
+
+(2) Applicants whose blood pressure is not within normal limits shall be further assessed with regard to their cardiovascular condition and medication with a view to determining whether they are to be assessed as unfit in accordance with points (3) and (4).
+
+(3) Applicants for a class 1 medical certificate with any of the following medical conditions shall be assessed as unfit:
+
+(i) symptomatic hypotension;
+
+(ii) blood pressure at examination consistently exceeding 160 mmHg systolic or 95 mmHg diastolic, with or without treatment.
+
+(4) Applicants who have commenced the use of medication for the control of blood pressure shall be assessed as unfit until the absence of significant side effects has been established.
+
+(d) Coronary Artery Disease
+
+(1) Before further consideration is given to their application, applicants for a class 1 medical certificate with any of the following medical conditions shall be referred to the medical assessor of the licensing authority and undergo cardiological evaluation to exclude myocardial ischaemia:
+
+(i) suspected myocardial ischaemia;
+
+(ii) asymptomatic minor coronary artery disease requiring no anti-anginal treatment.
+
+(2) Before further consideration is given to their application, applicants for a class 2 medical certificate with any of the medical conditions set out in point (1) shall undergo satisfactory cardiological evaluation.
+
+(3) Applicants with any of the following medical conditions shall be assessed as unfit:
+
+(i) myocardial ischaemia;
+
+(ii) symptomatic coronary artery disease;
+
+(iii) symptoms of coronary artery disease controlled by medication.
+
+(4) Applicants for the initial issue of a class 1 medical certificate with a medical history or diagnosis of any of the following medical conditions shall be assessed as unfit:
+
+(i) myocardial ischaemia;
+
+(ii) myocardial infarction;
+
+(iii) revascularisation or stenting for coronary artery disease.
+
+(5) Before further consideration is given to their application, applicants for a class 2 medical certificate who are asymptomatic following myocardial infarction or surgery for coronary artery disease shall undergo satisfactory cardiological evaluation, in consultation with the medical assessor of the licensing authority. Such applicants for the revalidation of a class 1 medical certificate shall be referred to the medical assessor of the licensing authority.
+
+(e) Rhythm/Conduction Disturbances
+
+(1) Applicants with any of the following medical conditions shall be assessed as unfit:
+
+(i) symptomatic sinoatrial disease;
+
+(ii) complete atrioventricular block;
+
+(iii) symptomatic QT prolongation;
+
+(iv) an automatic implantable defibrillating system;
+
+(v) a ventricular anti-tachycardia pacemaker.
+
+(2) Before further consideration is given to their application, applicants for a class 1 medical certificate havingany significant disturbance of cardiac conduction or rhythm, including any of the following, shall be referred to the medical assessor of the licensing authority:
+
+(i) disturbance of supraventricular rhythm, including intermittent or established sinoatrial dysfunction, atrial fibrillation and/or flutter and asymptomatic sinus pauses;
+
+(ii) complete left bundle branch block;
+
+(iii) Mobitz type 2 atrioventricular block;
+
+(iv) broad and/or narrow complex tachycardia;
+
+(v) ventricular pre-excitation;
+
+(vi) asymptomatic QT prolongation;
+
+(vii) Brugada pattern on electrocardiography.
+
+(3) Before further consideration is given to their application, applicants for a class 2 medical certificate with any of the medical conditions specified in point (2) shall undergo satisfactory cardiological evaluation, in consultation with the medical assessor of the licensing authority.
+
+(4) Applicants with any of the following medical conditions may be assessed as fit subject to satisfactory cardiological evaluation and in the absence of any other abnormality:
+
+(i) incomplete bundle branch block;
+
+(ii) complete right bundle branch block;
+
+(iii) stable left axis deviation;
+
+(iv) asymptomatic sinus bradycardia;
+
+(v) asymptomatic sinus tachycardia;
+
+(vi) asymptomatic isolated uniform supra-ventricular or ventricular ectopic complexes;
+
+(vii) first degree atrioventricular block;
+
+(viii) Mobitz type 1 atrioventricular block.
+
+(5) Applicants with a medical history of any of the following medical conditions shall undergo satisfactory cardiovascular evaluation before they may be assessed as fit:
+
+(i) ablation therapy;
+
+(ii) pacemaker implantation.
+
+Such applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority. Such applicants for a class 2 medical certificate shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.015 Respiratory System
+
+(a) Applicants with significant impairment of pulmonary function shall be assessed as unfit. However, they may be assessed as fit once pulmonary function has recovered and is satisfactory.
+
+(b) Applicants for a class 1 medical certificate shall undertake pulmonary functional tests at the initial examination and when clinically indicated.
+
+(ba) For class 1 medical certificate holders involved in single-pilot HEMS operations, pulmonary functional tests and obstructive sleep apnoea (OSA) screening shall be completed at the first revalidation or renewal examination after the age of 60.
+
+(c) Applicants for a class 2 medical certificate shall undertake pulmonary morphological and functional tests when clinically or epidemiologically indicated.
+
+(d) Applicants with a medical history or diagnosis of any of the following medical conditions shall undertake respiratory evaluation with a satisfactory result before they may be assessed as fit:
+
+(1) asthma requiring medication;
+
+(2) active inflammatory disease of the respiratory system;
+
+(3) active sarcoidosis;
+
+(4) pneumothorax;
+
+(5) sleep apnoea syndrome;
+
+(6) major thoracic surgery;
+
+(7) pneumonectomy;
+
+(8) chronic obstructive pulmonary disease.
+
+Before further consideration is given to their application, applicants with an established diagnosis of any of the medical conditions specified in points (3) and (5) shall undergo satisfactory cardiological evaluation.
+
+(e) Aero-medical assessment
+
+(1) Applicants for a class 1 medical certificate with any of the medical conditions specified in point (d) shall be referred to the medical assessor of the licensing authority.
+
+(2) Applicants for a class 2 medical certificate with any of the medical conditions specified in point (d) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+(f) Applicants for a class 1 medical certificate who have undergone a pneumonectomy shall be assessed as unfit.
+
+MED.B.020 Digestive System
+
+(a) Applicants with any sequelae of disease or surgical intervention in any part of the digestive tract or its adnexa likely to cause incapacitation in flight, in particular any obstruction due to stricture or compression, shall be assessed as unfit.
+
+(b) Applicants who have herniae that might give rise to incapacitating symptoms shall be assessed as unfit.
+
+(c) Applicants with any of the following disorders of the gastrointestinal system may be assessed as fit subject to satisfactory gastrointestinal evaluation after successful treatment or full recovery after surgery:
+
+(1) recurrent dyspeptic disorder requiring medication;
+
+(2) pancreatitis;
+
+(3) symptomatic gallstones;
+
+(4) a clinical diagnosis or documented medical history of chronic inflammatory bowel disease;
+
+(5) after surgical operation on the digestive tract or its adnexa, including surgery involving total or partial excision or a diversion of any of these organs.
+
+(d) Aero-medical assessment
+
+(1) Applicants for a class 1 medical certificate with the diagnosis of any of the medical conditions specified in points (2), (4) and (5) of point (c) shall be referred to the medical assessor of the licensing authority.
+
+(2) The fitness of applicants for a class 2 medical certificate with the diagnosis of the medical condition specified in point (2) of point (c) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.025 Metabolic and Endocrine Systems
+
+(a) Applicants with metabolic, nutritional or endocrine dysfunction may be assessed as fit subject to demonstrated stability of the medical condition and satisfactory aero-medical evaluation.
+
+(b) Diabetes mellitus
+
+(1) Applicants with diabetes mellitus requiring insulin shall be assessed as unfit.
+
+(2) Applicants with diabetes mellitus not requiring insulin shall be assessed as unfit unless it can be demonstrated that blood sugar control has been achieved and is stable.
+
+(c) Aero-medical assessment
+
+(1) Applicants for a class 1 medical certificate requiring medication other than insulin for blood sugar control shall be referred to the medical assessor of the licensing authority.
+
+(2) The fitness of applicants for a class 2 medical certificate requiring medication other than insulin for blood sugar control shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.030 Haematology
+
+(a) Applicants for a class 1 medical certificate shall be subjected to an haemoglobin test at each aero-medical examination.
+
+(b) Applicants with a haematological condition may be assessed as fit subject to satisfactory aero-medical evaluation.
+
+(c) Applicants for a class 1 medical certificate with any of the following haematological conditions shall be referred to the medical assessor of the licensing authority:
+
+(1) abnormal haemoglobin, including, but not limited to anaemia, erythrocytosis or haemoglobinopathy;
+
+(2) significant lymphatic enlargement;
+
+(3) enlargement of the spleen;
+
+(4) coagulation, haemorrhagic or thrombotic disorder;
+
+(5) leukaemia.
+
+(d) The fitness of applicants for a class 2 medical certificate with any of the haematological conditions specified in points (4) and (5) of point (c) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.035 Genitourinary System
+
+(a) Urinalysis shall form part of each aero-medical examination. Applicants shall be assessed as unfit where their urine contains abnormal elements considered to be of pathological significance that could entail a degree of functional incapacity which is likely to jeopardise the safe exercise of the privileges of the license or could render the applicant likely to become suddenly unable to exercise those privileges.
+
+(b) Applicants with any sequelae of disease or surgical procedures on the genitourinary system or its adnexa likely to cause incapacitation, in particular any obstruction due to stricture or compression, shall be assessed as unfit.
+
+(c) Applicants with a diagnosis or medical history of the following may be assessed as fit subject to satisfactory genitourinary evaluation, as applicable:
+
+(1) renal disease;
+
+(2) one or more urinary calculi, or a medical history of renal colic.
+
+(d) Applicants who have undergone a major surgical operation in the genitourinary system or its adnexa involving a total or partial excision or a diversion of their organs shall be assessed as unfit. However, after full recovery, they may be assessed as fit.
+
+(e) The applicants for a class 1 medical certificate referred to in points (c) and (d) shall be referred to the medical assessor of the licensing authority.
+
+MED.B.040 Infectious Disease
+
+(a) Applicants shall be assessed as unfit where they have a clinical diagnosis or medical history of any infectious disease which is likely to jeopardise the safe exercise of the privileges of the licence.
+
+(b) Applicants who are HIV positive may be assessed as fit subject to satisfactory aero-medical evaluation. Such applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority.
+
+MED.B.045 Obstetrics and Gynaecology
+
+(a) Applicants who have undergone a major gynaecological operation shall be assessed as unfit. However, they may be assessed as fit after full recovery.
+
+(b) Pregnancy
+
+(1) In the event of pregnancy, an applicant may continue to exercise her privileges until the end of the 26th week of gestation only if the AeMC or AME considers that she is fit to do so.
+
+(2) For holders of a class 1 medical certificate who are pregnant, an OML shall apply. Notwithstanding point MED.B.001, in that case, the OML may be imposed and removed by the AeMC or AME.
+
+(3) An applicant may resume exercising her privileges after recovery following the end of the pregnancy.
+
+MED.B.050 Musculoskeletal System
+
+(a) Applicants who do not have sufficient sitting height, arm and leg length and muscular strength for the safe exercise of the privileges of the licence shall be assessed as unfit. However, where their sitting height, arm and leg length and muscular strength is sufficient for the safe exercise of the privileges in respect of a certain aircraft type, which can be demonstrated where necessary through a medical flight or a simulator flight test, the applicant may be assessed as fit and their privileges shall be limited accordingly.
+
+(b) Applicants who do not have satisfactory functional use of the musculoskeletal system to enable them to safely exercise the privileges of the licence shall be assessed as unfit. However, where their functional use of the musculoskeletal system is satisfactory for the safe exercise the privileges in respect of a certain aircraft type, which may be demonstrated where necessary through a medical flight or a simulator flight test, the applicant may be assessed as fit and their privileges shall be limited accordingly.
+
+(c) In case of doubt arising in the context of the assessments referred to in points (a) and (b), applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority and applicants for a class 2 medical certificate shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.055 Mental Health
+
+(a) Comprehensive mental health assessment shall form part of the initial class 1 aero-medical examination.
+
+(b) Drugs and alcohol screening shall form part of the initial class 1 aero-medical examination.
+
+(c) Applicants with a mental or behavioural disorder due to use or misuse of alcohol or other psychoactive substances shall be assessed as unfit pending recovery and freedom from psychoactive substance use or misuse and subject to satisfactory psychiatric evaluation after successful treatment.
+
+(d) Applicants with a clinical diagnosis or documented medical history of any of the following psychiatric conditions shall undergo satisfactory psychiatric evaluation before they may be assessed as fit:
+
+(1) mood disorder;
+
+(2) neurotic disorder;
+
+(3) personality disorder;
+
+(4) mental or behavioural disorder;
+
+(5) misuse of a psychoactive substance.
+
+(e) Applicants with a documented medical history of a single or repeated acts of deliberate self-harm or suicide attempt shall be assessed as unfit. However, they may be assessed as fit after satisfactory psychiatric evaluation.
+
+(f) Aero-medical assessment
+
+(1) Applicants for a class 1 medical certificate with any of the conditions specified in point (c), (d) or (e) shall be referred to the medical assessor of the licensing authority.
+
+(2) The fitness of applicants for a class 2 medical certificate with any of the conditions specified in point (c), (d) or (e) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+(g) Applicants with a documented medical history or clinical diagnosis of schizophrenia, schizotypal or delusional disorder shall be assessed as unfit.
+
+MED.B.065 Neurology
+
+(a) Applicants with clinical diagnosis or a documented medical history of any of the following medical conditions shall be assessed as unfit:
+
+(1) epilepsy, except in the cases referred to in points (1) and (2) of point (b);
+
+(2) recurring episodes of disturbance of consciousness of uncertain cause.
+
+(b) Applicants with clinical diagnosis or a documented medical history of any of the following medical conditions shall undergo further evaluation before they may be assessed as fit:
+
+(1) epilepsy without recurrence after age 5;
+
+(2) epilepsy without recurrence and off all treatment for more than 10 years;
+
+(3) epileptiform EEG abnormalities and focal slow waves;
+
+(4) progressive or non-progressive disease of the nervous system;
+
+(5) inflammatory disease of the central or peripheral nervous system;
+
+(6) migraine;
+
+(7) a single episode of disturbance of consciousness of uncertain cause;
+
+(8) loss of consciousness after head injury;
+
+(9) penetrating brain injury;
+
+(10) spinal or peripheral nerve injury;
+
+(11) disorders of the nervous system due to vascular deficiencies including haemorrhagic and ischaemic events.
+
+Applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority. The fitness of applicants for a class 2 medical certificate shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.070 Visual System
+
+(a) Examination
+
+(1) For a class 1 medical certificate:
+
+(i) a comprehensive eye examination shall form part of the initial examination and shall be undertaken when clinically indicated and periodically, depending on the refraction and the functional performance of the eye.
+
+(ii) a routine eye examination shall form part of all revalidation and renewal examinations.
+
+(iii) when holders are involved in single-pilot HEMS operations, a comprehensive eye examination shall be completed at the first revalidation or renewal examination after the age of 60 and every year thereafter.
+
+(2) For a class 2 medical certificate:
+
+(i) a routine eye examination shall form part of the initial and all revalidation and renewal examinations.
+
+(ii) a comprehensive eye examination shall be undertaken when clinically indicated.
+
+(b) Visual acuity
+
+(1) For a class 1 medical certificate:
+
+(i) Distant visual acuity, with or without correction, shall be 6/9 (0,7) or better in each eye separately and visual acuity with both eyes shall be 6/6 (1,0) or better.
+
+(ii) At the initial examination, applicants with substandard vision in one eye shall be assessed as unfit.
+
+(iii) At revalidation and renewal examinations, notwithstanding point (b)(1)(i), applicants with acquired substandard vision in one eye or acquired monocularity shall be referred to the medical assessor of the licensing authority and may be assessed as fit subject to a satisfactory ophthalmological evaluation.
+
+(2) For a class 2 medical certificate:
+
+(i) Distant visual acuity, with or without correction, shall be 6/12 (0,5) or better in each eye separately and visual acuity with both eyes shall be 6/9 (0,7) or better.
+
+(ii) Notwithstanding point (b)(2)(i), applicants with substandard vision in one eye or monocularity may be assessed as fit, in consultation with the medical assessor of the licensing authority and subject to a satisfactory ophthalmological evaluation.
+
+(3) Applicants shall be able to read an N5 chart or equivalent at 30-50 cm and an N14 chart or equivalent at 100 cm, if necessary with correction.
+
+(c) Refractive error and anisometropia
+
+(1) Applicants with refractive errors or anisometropia may be assessed as fit subject to satisfactory ophthalmic evaluation.
+
+(2) Notwithstanding point (c)(1), applicants for a class 1 medical certificate with any of the following medical conditions shall be referred to the medical assessor of the licensing authority and may be assessed as fit subject to a satisfactory ophthalmological evaluation:
+
+(i) myopia exceeding – 6.0 dioptres;
+
+(ii) astigmatism exceeding 2.0 dioptres;
+
+(iii) anisometropia exceeding 2.0 dioptres.
+
+(3) Notwithstanding point (c)(1), applicants for a class 1 medical certificate with hypermetropia exceeding + 5.0 dioptres shall be referred to the medical assessor of the licensing authority and may be assessed as fit subject to a satisfactory ophthalmological evaluation, provided that there are adequate fusional reserves, normal intraocular pressures and anterior angles and no significant pathology has been demonstrated. Notwithstanding point (b)(1)(i), corrected visual acuity in each eye shall be 6/6 or better.
+
+(4) Applicants with a clinical diagnosis of keratoconus may be assessed as fit subject to a satisfactory examination by an ophthalmologist. Such applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority.
+
+(d) Binocular function
+
+(1) Applicants for a class 1 medical certificate shall be assessed as unfit, where they do not have normal binocular function and that medical condition is likely to jeopardise the safe exercise of the privileges of the license, taking account of any appropriate corrective measures where relevant.
+
+(2) Applicants with diplopia shall be assessed as unfit.
+
+(e) Visual fields
+
+Applicants for a class 1 medical certificate shall be assessed as unfit, where they do not have normal fields of vision and that medical condition is likely to jeopardise the safe exercise of the privileges of the license, taking account of any appropriate corrective measures where relevant.
+
+(f) Eye surgery
+
+Applicants who have undergone eye surgery shall be assessed as unfit. However, they may be assessed as fit after full recovery of their visual function and subject to satisfactory ophthalmological evaluation.
+
+(g) Spectacles and contact lenses
+
+(1) If satisfactory visual function is achieved only with the use of correction, the spectacles or contact lenses shall provide optimal visual function, be well-tolerated and suitable for aviation purposes.
+
+(2) No more than one pair of spectacles shall be used to meet the visual requirements when exercising the privileges of the applicable licence(s).
+
+(3) For distant vision, spectacles or contact lenses shall be worn when exercising the privileges of the applicable licence(s).
+
+(4) For near vision, a pair of spectacles shall be kept available when exercising the privileges of the applicable licence(s).
+
+(5) A spare set of similarly correcting spectacles, for distant or near vision as applicable, shall be readily available for immediate use when exercising the privileges of the applicable licence(s).
+
+(6) If contact lenses are worn when exercising the privileges of the applicable licence(s), they shall be for distant vision, monofocal, and non-tinted and well-tolerated.
+
+(7) Applicants with a large refractive error shall use contact lenses or high-index spectacle lenses.
+
+(8) Orthokeratological lenses shall not be used.
+
+MED.B.075 Colour vision
+
+(a) Applicants shall be assessed as unfit, where they cannot demonstrate their ability to readily perceive the colours that are necessary for the safe exercise of the privileges of the licence.
+
+(b) Examination and assessment
+
+(1) Applicants shall be subjected to the Ishihara test for the initial issue of a medical certificate. For class 1 medical certificate holders involved in single-pilot HEMS operations, a colour vision assessment shall be completed at the first revalidation or renewal examination after the age of 60 and every year thereafter. Applicants who pass that test may be assessed as fit.
+
+(2) For a class 1 medical certificate:
+
+(i) Applicants who do not pass the Ishihara test shall be referred to the medical assessor of the licensing authority and shall undergo further colour perception testing to establish whether they are colour safe.
+
+(ii) Applicants shall be normal trichromats or shall be colour safe.
+
+(iii) Applicants who fail further colour perception testing shall be assessed as unfit.
+
+(3) For a class 2 medical certificate:
+
+(i) Applicants who do not pass the Ishihara test shall undergo further colour perception testing to establish whether they are colour safe.
+
+(ii) Applicants who do not have satisfactory perception of colours shall be limited to exercising the privileges of the applicable licence in daytime only.
+
+MED.B.080 Otorhinolaryngology (ENT)
+
+(a) Examination
+
+(1) Applicants' hearing shall be tested at all examinations.
+
+(i) For a class 1 medical certificate, and for a class 2 medical certificate when an instrument rating or a basic instrument rating is to be added to the licence, hearing shall be tested with pure-tone audiometry at the initial examination, then every 5 years until the licence holder reaches the age of 40, and then every 2 years until the licence holder reaches the age of 60 and every year thereafter.
+
+(ii) When tested on a pure-tone audiometer, initial applicants shall not have a hearing loss of more than 35 dB at any of the frequencies 500, 1 000 or 2 000 Hz, or more than 50 dB at 3 000 Hz, in either ear separately. Applicants for revalidation or renewal with greater hearing loss shall demonstrate satisfactory functional hearing ability.
+
+(2) A comprehensive ear, nose and throat examination shall be undertaken for the initial issue of a class 1 medical certificate and periodically thereafter when clinically indicated.
+
+(3) For class 1 medical certificate holders involved in single-pilot HEMS operations, a comprehensive ear, nose and throat examination shall be completed at the first revalidation or renewal examination after the age of 60.
+
+(b) Applicants with any of the following medical conditions shall undergo further examination to establish that the medical condition does not interfere with the safe exercise of the privileges of the applicable licence(s):
+
+(1) hypoacusis;
+
+(2) an active pathological process of the internal or middle ear;
+
+(3) unhealed perforation or dysfunction of the tympanic membrane(s);
+
+(4) dysfunction of the Eustachian tube(s);
+
+(5) disturbance of vestibular function;
+
+(6) significant restriction of the nasal passages;
+
+(7) sinus dysfunction;
+
+(8) significant malformation or significant infection of the oral cavity or upper respiratory tract;
+
+(9) significant disorder of speech or voice;
+
+(10) any sequelae of surgery of the internal or middle ear.
+
+(c) Aero-medical assessment
+
+(1) Applicants for a class 1 medical certificate with any of the medical conditions specified in points (1), (4) and (5) of point (b) shall be referred to the medical assessor of the licensing authority.
+
+(2) The fitness of applicants for a class 2 medical certificate with any of the medical conditions specified in point (4) and (5) of point (b) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+(3) The fitness of applicants for a class 2 medical certificate for an instrument rating or en route instrument rating to be added to the licence with the medical condition specified in point (1) of point (b) shall be assessed in consultation with the medical assessor of the licensing authority.
+
+MED.B.085 Dermatology
+
+Applicants shall be assessed as unfit, where they have an established dermatological condition which is likely to jeopardise the safe exercise of the privileges of the licence.
+
+MED.B.090 Oncology
+
+(a) Before further consideration is given to their application, applicants with primary or secondary malignant disease shall undergo satisfactory oncological evaluation. Such applicants for a class 1 medical certificate shall be referred to the medical assessor of the licensing authority. Such applicants for a class 2 medical certificate shall be assessed in consultation with the medical assessor of the licensing authority.
+
+(b) Applicants with a documented medical history or clinical diagnosis of an intracerebral malignant tumour shall be assessed as unfit.
+
+**SECTION 3**
+
+**Specific requirements for LAPL medical certificates**
+
+MED.B.095 Medical examination and assessment of applicants for LAPL medical certificates
+
+(a) An applicant for a LAPL medical certificate shall be assessed based on aero-medical best practice.
+
+(b) Special attention shall be given to the applicant's complete medical history.
+
+(c) The initial assessment, all subsequent re-assessments after the licence holder reaches the age of 50 and any assessments in cases where the medical history of the applicant is not available to the examiner shall include at least all of the following:
+
+(1) clinical examination;
+
+(2) blood pressure;
+
+(3) urine test;
+
+(4) vision;
+
+(5) hearing ability.
+
+(d) After the initial assessment, subsequent re-assessments until the licence holder reaches the age of 50 shall include at least both of the following:
+
+(1) an assessment of the LAPL holder's medical history;
+
+(2) the items specified in point(c) as deemed necessary by the AeMC, AME or GMP in accordance with aero-medical best practice.
+
+**SUBPART C**
+
+**REQUIREMENTS FOR MEDICAL FITNESS OF CABIN CREW**
+
+**SECTION 1**
+
+**General requirements**
+
+MED.C.001 General
+
+Cabin crew members shall only perform the duties and responsibilities required by aviation safety rules on an aircraft if they comply with the applicable requirements of this Part.
+
+MED.C.005 Aero-medical assessments
+
+(a) Cabin crew members shall undergo aero-medical assessments to verify that they are free from any physical or mental illness which might lead to incapacitation or an inability to perform their assigned safety duties and responsibilities.
+
+(b) Each cabin crew member shall undergo an aero-medical assessment before being first assigned to duties on an aircraft, and after that at intervals of maximum 60 months.
+
+(c) Aero-medical assessments shall be conducted by an AME, AeMC, or by an OHMP if the requirements of MED.D.040 are complied with.
+
+**SECTION 2**
+
+**Requirements for aero-medical assessment of cabin crew**
+
+MED.C.020 General
+
+Cabin crew members shall be free from any:
+
+(a) abnormality, congenital or acquired;
+
+(b) active, latent, acute or chronic disease or disability;
+
+(c) wound, injury or sequelae from operation; and
+
+(d) effect or side effect of any prescribed or non-prescribed therapeutic, diagnostic or preventive medication taken that would entail a degree of functional incapacity which might lead to incapacitation or an inability to discharge their safety duties and responsibilities.
+
+MED.C.025 Content of aero-medical assessments
+
+(a) An initial aero-medical assessment shall include at least:
+
+(1) an assessment of the applicant cabin crew member’s medical history; and
+
+(2) a clinical examination of the following:
+
+(i) cardiovascular system;
+
+(ii) respiratory system;
+
+(iii) musculoskeletal system;
+
+(iv) otorhino-laryngology;
+
+(v) visual system; and
+
+(vi) colour vision.
+
+(b) Each subsequent aero-medical re-assessment shall include:
+
+(1) an assessment of the cabin crew member’s medical history; and
+
+(2) a clinical examination if deemed necessary in accordance with aero-medical best practice.
+
+(c) For the purpose of (a) and (b), in case of any doubt or if clinically indicated, a cabin crew member’s aero-medical assessment shall also include any additional medical examination, test or investigation that are considered necessary by the AME, AeMC or OHMP.
+
+**SECTION 3**
+
+**Additional requirements for applicants for, or holders of, a cabin crew attestation**
+
+MED.C.030 Cabin crew medical report
+
+(a) After completion of each aero-medical assessment, applicants for, and holders of, a cabin crew attestation:
+
+(1) shall be provided with a cabin crew medical report by the AME, AeMC or OHMP; and
+
+(2) shall provide the related information, or a copy of their cabin crew medical report to the operator(s) employing their services.
+
+(b) Cabin crew medical report
+
+A cabin crew medical report shall indicate the date of the aero-medical assessment, whether the cabin crew member has been assessed fit or unfit, the date of the next required aero-medical assessment and, if applicable, any limitation(s). Any other elements shall be subject to medical confidentiality in accordance with MED.A.015.
+
+MED.C.035 Limitations
+
+(a) If holders of a cabin crew attestation do not fully comply with the medical requirements specified in Section 2, the AME, AeMC or OHMP shall consider whether they may be able to perform cabin crew duties safely if complying with one or more limitations.
+
+(b) Any limitation(s) to the exercise of the privileges granted by the cabin crew attestation shall be specified on the cabin crew medical report and shall only be removed by an AME, AeMC or by an OHMP in consultation with an AME.
+
+**SUBPART D**
+
+**AERO-MEDICAL EXAMINERS, GENERAL MEDICAL PRACTITIONERS, OCCUPATIONAL HEALTH MEDICAL PRACTITIONERS**
+
+**SECTION 1**
+
+**Aero-Medical Examiners**
+
+MED.D.001 Privileges
+
+(a) The privileges of holders of an aero-medical examiner (AME) certificate are to issue, revalidate and renew class 2 medical certificates and LAPL medical certificates and to conduct the relevant medical examinations and assessments.
+
+(b) Holders of an AME certificate may apply for an extension of their privileges to include medical examinations for the revalidation and renewal of class 1 medical certificates, if they comply with the requirements set out in point MED.D.015.
+
+(c) The privileges of a holder of an AME certificate referred to in points (a) and (b) shall include the privileges to conduct cabin crew members' aero-medical examinations and assessments and to provide the related cabin crew members' medical reports, as applicable, in accordance with this Annex (Part-MED).
+
+(d) The scope of the privileges of the holder of an AME certificate, and any condition thereof, shall be specified in that certificate.
+
+(e) A holder of an AME certificate shall not at any time hold more than one AME certificate issued in accordance with this Regulation.
+
+(f) Holders of an AME certificate shall not undertake aero-medical examinations and assessments in a Member State other than the Member State that issued their AME certificate, unless they have completed all the following steps:
+
+(1) they have been granted access by the other Member State concerned to exercise their professional activities as a specialised doctor;
+
+(2) they have informed the competent authority of that other Member State of their intention to conduct aero-medical examinations and assessments and to issue medical certificates within the scope of their privileges as AME;
+
+(3) they have received a briefing from the competent authority of that other Member State.
+
+MED.D.005 Application
+
+(a) An application for an AME certificate or for an extension of the privileges of an AME certificate shall be made in a form and manner specified by the competent authority.
+
+(b) Applicants for an AME certificate shall provide the competent authority with:
+
+(1) their personal details and professional address;
+
+(2) documentation demonstrating that they comply with the requirements of point MED.D.010, including evidence of successful completion of the training course in aviation medicine appropriate to the privileges they apply for;
+
+(3) a written declaration that, once the AME certificate has been issued, the AME will issue medical certificates on the basis of the requirements of this Regulation.
+
+(c) When AMEs undertake aero-medical examinations in more than one location, they shall provide the competent authority with relevant information regarding all practice locations and practice facilities.
+
+MED.D.010 Requirements for the issue of an AME certificate
+
+Applicants shall be issued an AME certificate, where they meet all of the following conditions:
+
+(a) they are fully qualified and licensed for the practice of medicine and have evidence of completion of specialist medical training;
+
+(b) they have successfully completed a basic training course in aviation medicine, including practical training in the examination methods and aero-medical assessments;
+
+(c) they have demonstrated to the competent authority that they:
+
+(1) have adequate facilities, procedures, documentation and functioning equipment suitable for aero-medical examinations;
+
+(2) have in place the necessary procedures and conditions to ensure medical confidentiality.
+
+MED.D.011 Privileges of an AME certificate holder
+
+Through the issuance of an AME certificate, the holder shall be granted the privileges to initially issue, revalidate and renew all of the following:
+
+(a) class 2 medical certificates;
+
+(b) LAPL medical certificates;
+
+(c) cabin crew members' medical reports.
+
+MED.D.015 Requirements for the extension of privileges
+
+Applicants shall be issued an AME certificate extending their privileges to the revalidation and renewal of class 1 medical certificates where they meet all of the following conditions:
+
+(a) they hold a valid AME certificate;
+
+(b) they conducted at least 30 examinations for the issue, revalidation or renewal of class 2 medical certificates or equivalent over a period of no more than 3 years preceding the application;
+
+(c) they successfully completed an advanced training course in aviation medicine, including practical training in the examination methods and aero-medical assessments;
+
+(d) they have successfully completed practical training of a duration of at least 2 days, either at an AeMC or under the supervision of the competent authority.
+
+MED.D.020 Training courses in aviation medicine
+
+(a) Training courses in aviation medicine refered to in MED.D.010(b) and MED.D.015 (c) shall only be provided after the prior approval of the course by the competent authority of the Member State where the training organisation has its principal place of business. In order to obtain such approval, the training organisation shall demonstrate that the course syllabus contains the learning objectives to acquire the necessary competencies and that the persons in charge of providing the training have adequate knowledge and experience.
+
+(aa) For demonstrating compliance with points MED.D.010(b) and MED.D.015(c), an aviation medicine training course completed by an applicant outside the territories for which Member States are responsible under the Chicago Convention may be accepted by the competent authority, provided that the following conditions are met:
+
+(i) the competent authority has assessed and verified the course syllabus in accordance with point ARA.MED.200(c)(1) of Annex VI;
+
+(ii) the applicant has completed a specific training module on the aero-medical requirements detailed in this Annex (Part-MED) as provided by the competent authority.
+
+(b) Except in the case of refresher training, the courses shall be concluded by a written examination on the subjects included in the course content.
+
+(c) The training organisation shall issue a certificate of successful completion to participants when they have obtained a pass in the examination.
+
+MED.D.025 Changes to the AME certificate
+
+(a) Holders of an AME certificate shall, without undue delay, notify the competent authority of the following circumstances which could affect their AME certificate:
+
+(1) the AME is subject to disciplinary proceedings or investigation by a medical regulatory body;
+
+(2) there are changes to the conditions under which the certificate was granted, including the content of the statements provided with the application;
+
+(3) the requirements for the issuance of the AME certificate are no longer met;
+
+(4) there is a change to the aero-medical examiner's practice location(s) or correspondence address.
+
+(b) Failure to notify the competent authority in accordance with point (a) shall result in the suspension or revocation of the AME certificate in accordance with point ARA.MED.250 of Annex II (Part-ARA).
+
+MED.D.030 Validity of AME certificates
+
+An AME certificate shall be valid for a period of 3 years, unless the competent authority decides to reduce that period for duly justified reasons related to the individual case.
+
+Upon application by the holder, the certificate shall be:
+
+(a) revalidated, provided that the holder:
+
+(1) continues to fulfil the general conditions required for medical practice and maintains his or her licence for the practice of medicine;
+
+(2) has undertaken refresher training in aviation medicine within the last 3 years;
+
+(3) has performed at least 10 aero-medical examinations or equivalent every year;
+
+(4) remains in compliance with the terms of the certificate;
+
+(5) exercises the privileges in accordance with the requirements of this Annex (Part-MED);
+
+(6) has demonstrated that he or she maintains his or her aero-medical competency in accordance with the procedure established by the competent authority.
+
+(b) renewed, provided that the holder complies with either the requirements for revalidation set out in point (a) or with all of the following requirements:
+
+(1) continues to fulfil the general conditions required for medical practice and maintains his or her licence for the practice of medicine;
+
+(2) has undertaken refresher training in aviation medicine within the previous year;
+
+(3) has successfully completed practical training within the previous year, either at an AeMC or under the supervision of the competent authority;
+
+(4) remains in compliance with the requirements of point MED.D.010;
+
+(5) has demonstrated that he or she maintains his or her aero-medical competency in accordance with the procedure established by the competent authority.
+
+**SECTION 2**
+
+**General Medical Practitioners**
+
+MED.D.035 Requirements for general medical practitioners
+
+General medical practitioners (GMPs) may act as AMEs for issuing LAPL medical certificates, where they meet all of the following conditions:
+
+(a) they exercise their activity in a Member State where GMPs have access to the full medical records of applicants;
+
+(b) they exercise their activity in accordance with any additional requirements established in the national law of the Member State of their competent authority;
+
+(c) they are fully qualified and licensed for the practice of medicine in accordance with national law of the Member State of their competent authority;
+
+(d) they have notified the competent authority before starting such activity.
+
+**SECTION 3**
+
+**Occupational Health Medical Practitioners**
+
+MED.D.040 Requirements for occupational health medical practitioners
+
+In Member States where the competent authority is satisfied that the requirements of the national health system applicable to occupational health medical practitioners (OHMPs) are such as to ensure compliance with the requirements of this Annex (Part-MED) applicable to OHMPs, OHMPs may conduct aero-medical assessments of cabin crew, provided that:
+
+(a) they are fully qualified and licensed in the practice of medicine and qualified in occupational medicine;
+
+(b) the in-flight working environment and safety duties of the cabin crew were included in their occupational medicine qualification syllabus or other training or operational experience;
+
+(c) they have notified the competent authority before starting such activity.
+
+## ANNEX V
+
+**QUALIFICATION OF CABIN CREW INVOLVED IN COMMERCIAL AIR TRANSPORT OPERATIONS**
+
+**[PART-CC]**
+
+**SUBPART GEN**
+
+**GENERAL REQUIREMENTS**
+
+**CC.GEN.001 Competent authority**
+
+For the purpose of this Part, the competent authority shall be the authority designated by the Member State where a person applies for the issue of a cabin crew attestation.
+
+**CC.GEN.005 Scope**
+
+This Part establishes the requirements for the issue of cabin crew attestations and the conditions for their validity and use by their holders.
+
+**CC.GEN.015 Application for a cabin crew attestation**
+
+The application for a cabin crew attestation shall be made in a form and manner established by the competent authority.
+
+**CC.GEN.020 Minimum age**
+
+The applicant for a cabin crew attestation shall be at least 18 years of age.
+
+**CC.GEN.025 Privileges and conditions**
+
+(a) The privileges of holders of a cabin crew attestation are to act as cabin crew members in commercial air transport operation of aircraft referred to in Article 4(1)(b) and (c) of Regulation (EC) No 216/2008.
+
+(b) Cabin crew members may exercise the privileges specified in (a) only if they:
+
+(1) hold a valid cabin crew attestation as specified in CC.CCA.105; and
+
+(2) comply with CC.GEN.030, CC.TRA.225 and the applicable requirements of Part-MED.
+
+**CC.GEN.030 Documents and record-keeping**
+
+To show compliance with the applicable requirements as specified in CC.GEN.025(b), each holder shall keep, and provide upon request, the cabin crew attestation, the list and the training and checking records of his/her aircraft type or variant qualification(s), unless the operator employing his/her services keeps such records and can make them readily available upon request by a competent authority or by the holder.
+
+**SUBPART CCA**
+
+**SPECIFIC REQUIREMENTS FOR THE CABIN CREW ATTESTATION**
+
+**CC.CCA.100 Issue of the cabin crew attestation**
+
+(a) Cabin crew attestations shall only be issued to applicants who have passed the examination following completion of the initial training course in accordance with this Part.
+
+(b) Cabin crew attestations shall be issued:
+
+(1) by the competent authority; and/or
+
+(2) by an organisation approved to do so by the competent authority.
+
+**CC.CCA.105 Validity of the cabin crew attestation**
+
+The cabin crew attestation shall be issued with unlimited duration and shall remain valid unless:
+
+(a) it is suspended or revoked by the competent authority; or
+
+(b) its holder has not exercised the associated privileges during the preceding 60 months on at least one aircraft type.
+
+**CC.CCA.110 Suspension and revocation of the cabin crew attestation**
+
+(a) If holders do not comply with this Part, their cabin crew attestation may be suspended or revoked by the competent authority.
+
+(b) In case of suspension or revocation of their cabin crew attestation by the competent authority, holders shall:
+
+(1) be informed in writing of this decision, and of their right of appeal in accordance with national law;
+
+(2) not exercise the privileges granted by their cabin crew attestation;
+
+(3) inform, without undue delay, the operator(s) employing their services; and
+
+(4) return their attestation in accordance with the applicable procedure established by the competent authority.
+
+**SUBPART TRA**
+
+**TRAINING REQUIREMENTS FOR CABIN CREW ATTESTATION APPLICANTS AND HOLDERS**
+
+**CC.TRA.215 Provision of training**
+
+Training required in this Part shall be:
+
+(a) provided by training organisations or commercial air transport operators approved to do so by the competent authority;
+
+(b) performed by personnel suitably experienced and qualified for the training elements to be covered; and
+
+(c) conducted according to a training programme and syllabus documented in the organisation's approval.
+
+**CC.TRA.220 Initial training course and examination**
+
+(a) Applicants for a cabin crew attestation shall complete an initial training course to familiarise themselves with the aviation environment and to acquire sufficient general knowledge and basic proficiency required to perform the duties and discharge the responsibilities related to the safety of passengers and flight during normal, abnormal and emergency operations.
+
+(b) The programme of the initial training course shall cover at least the elements specified in Appendix 1 to this Part. It shall include theoretical and practical training.
+
+(c) Applicants for a cabin crew attestation shall undergo an examination covering all elements of the training programme specified in (b), except CRM training, to demonstrate that they have attained the level of knowledge and proficiency required in (a).
+
+**CC.TRA.225 Aircraft type or variant qualification(s)**
+
+(a) Holders of a valid cabin crew attestation shall only operate on an aircraft if they are qualified in accordance with the applicable requirements of Part-ORO.
+
+(b) To be qualified for an aircraft type or a variant, the holder:
+
+(1) shall comply with the applicable training, checking and validity requirements, covering as relevant to the aircraft to be operated:
+
+(i) aircraft-type specific training, operator conversion training and familiarisation;
+
+(ii) differences training;
+
+(iii) recurrent training; and
+
+(2) shall have operated within the preceding 6 months on the aircraft type, or shall have completed the relevant refresher training and checking before operating again on that aircraft type.
+
+## Appendix 1 to Part-CC
+
+**Initial training course and examination**
+
+**TRAINING PROGRAMME**
+
+The training programme of the initial training course shall include at least the following:
+
+**1\. General theoretical knowledge of aviation and aviation regulations covering all elements relevant to the duties and responsibilities required from cabin crew:**
+
+1.1. aviation terminology, theory of flight, passenger distribution, areas of operation, meteorology and effects of aircraft surface contamination;
+
+1.2. aviation regulations relevant to cabin crew and the role of the competent authority;
+
+1.3. duties and responsibilities of cabin crew during operations and the need to respond promptly and effectively to emergency situations;
+
+1.4. continuing competence and fitness to operate as a cabin crew member, including as regards flight and duty time limitations and rest requirements;
+
+1.5. the importance of ensuring that relevant documents and manuals are kept up-to-date, with amendments provided by the operator as applicable;
+
+1.6. the importance of cabin crew performing their duties in accordance with the operations manual of the operator;
+
+1.7. the importance of the cabin crew’s pre-flight briefing and the provision of necessary safety information with regards to their specific duties; and
+
+1.8. the importance of identifying when cabin crew members have the authority and responsibility to initiate an evacuation and other emergency procedures.
+
+**2\. Communication:**
+
+During training, emphasis shall be placed on the importance of effective communication between cabin crew and flight crew, including communication techniques, common language and terminology.
+
+**3\. Introductory course on human factors (HF) in aviation and crew resource management (CRM)**
+
+This course shall be conducted by at least one cabin crew CRM instructor. The training elements shall be covered in depth and shall include at least the following:
+
+3.1. General: human factors in aviation, general instructions on CRM principles and objectives, human performance and limitations;
+
+3.2. Relevant to the individual cabin crew member: personality awareness, human error and reliability, attitudes and behaviours, self-assessment; stress and stress management; fatigue and vigilance; assertiveness; situation awareness, information acquisition and processing.
+
+**4\. Passenger handling and cabin surveillance:**
+
+4.1. the importance of correct seat allocation with reference to aeroplane mass and balance, special categories of passengers and the necessity of seating able-bodied passengers adjacent to unsupervised exits;
+
+4.2. rules covering the safe stowage of cabin baggage and cabin service items and the risk of it becoming a hazard to occupants of the passenger compartment or otherwise obstruction or damaging emergency equipment or exits;
+
+4.3. advice on the recognition and management of passengers who are, or become, intoxicated with alcohol or are under the influence of drugs or are aggressive;
+
+4.4. precautions to be taken when live animals are carried in the passenger compartment;
+
+4.5. duties to be undertaken in the event of turbulence, including securing the passenger compartment; and
+
+4.6. methods used to motivate passengers and the crowd control necessary to expedite an emergency evacuation.
+
+**5\. Aero-medical aspects and first-aid:**
+
+5.1. general instruction on aero-medical aspects and survival;
+
+5.2. the physiological effects of flying with particular emphasis on hypoxia, oxygen requirements, Eustachian tubal function and barotraumas;
+
+5.3. basic first-aid, including care of:
+
+(a) air sickness;
+
+(b) gastro-intestinal disturbances;
+
+(c) hyperventilation;
+
+(d) burns;
+
+(e) wounds;
+
+(f) the unconscious; and
+
+(g) fractures and soft tissue injuries;
+
+5.4. in-flight medical emergencies and associated first-aid covering at least:
+
+(a) asthma;
+
+(b) stress and allergic reactions;
+
+(c) shock;
+
+(d) diabetes;
+
+(e) choking;
+
+(f) epilepsy;
+
+(g) childbirth;
+
+(h) stroke; and
+
+(i) heart attack;
+
+5.5. the use of appropriate equipment including first-aid oxygen, first-aid kits and emergency medical kits and their contents;
+
+5.6. practical cardio-pulmonary resuscitation training by each cabin crew member using a specifically designed dummy and taking account of the characteristics of an aircraft environment; and
+
+5.7. travel health and hygiene, including:
+
+(a) hygiene on board;
+
+(b) risk of contact with infectious diseases and means to reduce such risks;
+
+(c) handling of clinical waste;
+
+(d) aircraft disinsection;
+
+(e) handling of death on board; and
+
+(f) alertness management, physiological effects of fatigue, sleep physiology, circadian rhythm and time zone changes.
+
+**6\. Dangerous goods in accordance with the applicable ICAO Technical Instructions.**
+
+**7\. General security aspects in aviation, including awareness of the provisions laid down in Regulation (EC) No 300/2008.**
+
+**8\. Fire and smoke training:**
+
+8.1. emphasis on the responsibility of cabin crew to deal promptly with emergencies involving fire and smoke and, in particular, emphasis on the importance of identifying the actual source of the fire;
+
+8.2. the importance of informing the flight crew immediately, as well as the specific actions necessary for coordination and assistance, when fire or smoke is discovered;
+
+8.3. the necessity for frequent checking of potential fire-risk areas including toilets, and the associated smoke detectors;
+
+8.4. the classification of fires and the appropriate type of extinguishing agents and procedures for particular fire situations;
+
+8.5. the techniques of application of extinguishing agents, the consequences of misapplication, and of use in a confined space including practical training in fire-fighting and in the donning and use of smoke protection equipment used in aviation; and
+
+8.6. the general procedures of ground-based emergency services at aerodromes.
+
+**9\. Survival training:**
+
+9.1. principles of survival in hostile environments (e.g. polar, desert, jungle, sea); and
+
+9.2. water survival training which shall include the actual donning and use of personal flotation equipment in water and the use of slide-rafts or similar equipment, as well as actual practice in water.
+
+## ANNEX VI
+
+**AUTHORITY REQUIREMENTS FOR AIRCREW**
+
+**[PART-ARA]**
+
+**SUBPART GEN**
+
+**GENERAL REQUIREMENTS**
+
+**SECTION I**
+
+**General**
+
+ARA.GEN.115 Oversight documentation
+
+The competent authority shall provide all legislative acts, standards, rules, technical publications and related documents to relevant personnel in order to allow them to perform their tasks and to discharge their responsibilities.
+
+ARA.GEN.120 Means of compliance
+
+(a) The Agency shall develop Acceptable Means of Compliance (AMC) that may be used to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules. When the AMC are complied with, the related requirements of the Implementing Rules are met.
+
+(b) Alternative means of compliance may be used to establish compliance with the Implementing Rules.
+
+(c) The competent authority shall establish a system to consistently evaluate that all alternative means of compliance used by itself or by organisations and persons under its oversight allow the establishment of compliance with Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(d) The competent authority shall evaluate all alternative means of compliance proposed by an organisation in accordance with ORA.GEN.120 by analysing the documentation provided and, if considered necessary, conducting an inspection of the organisation.
+
+When the competent authority finds that the alternative means of compliance are in accordance with the Implementing Rules, it shall without undue delay:
+
+(1) notify the applicant that the alternative means of compliance may be implemented and, if applicable, amend the approval or certificate of the applicant accordingly; and
+
+(2) notify the Agency of their content, including copies of all relevant documentation;
+
+(3) inform other MS about alternative means of compliance that were accepted.
+
+(e) When the competent authority itself uses alternative means of compliance to achieve compliance with Regulation (EC) No 216/2008 and its Implementing Rules it shall:
+
+(1) make them available to all organisations and persons under its oversight; and
+
+(2) without undue delay notify the Agency.
+
+The competent authority shall provide the Agency with a full description of the alternative means of compliance, including any revisions to procedures that may be relevant, as well as an assessment demonstrating that the Implementing Rules are met.
+
+ARA.GEN.125 Information to the Agency
+
+(a) The competent authority shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 7 ) and the delegated and implementing acts adopted on the basis thereof, the competent authority shall provide the Agency with safety-significant information stemming from the occurrence reports stored in the national database, as soon as possible.
+
+(c) The competent authority of the Member State shall provide the Agency as soon as possible with safety-significant information stemming from the information security reports it has received pursuant to point IS.I.OR.230 of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203.
+
+ARA.GEN.135 Immediate reaction to a safety problem
+
+(a) Without prejudice to Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof, the competent authority shall implement a system to appropriately collect, analyse and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety information received and without undue delay provide to Member States and the Commission any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to a safety problem involving products, parts, non-installed equipment, persons or organisations subject to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+(c) Upon receiving the information referred to in (a) and (b), the competent authority shall take adequate measures to address the safety problem.
+
+(d) Measures taken under point (c) shall immediately be notified to all persons or organisations that need to comply with them under Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. The competent authority shall also notify those measures to the Agency and, when combined action is required, the other Member States concerned.
+
+ARA.GEN.135A Immediate reaction to an information security incident or vulnerability with an impact on aviation safety
+
+(a) The competent authority shall implement a system to appropriately collect, analyse, and disseminate information related to information security incidents and vulnerabilities with a potential impact on aviation safety that are reported by organisations. This shall be done in coordination with any other relevant authorities responsible for information security or cybersecurity within the Member State to increase the coordination and compatibility of reporting schemes.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety-significant information received in accordance with point ARA.GEN.125(c), and without undue delay provide the Member States and the Commission with any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to an information security incident or vulnerability with a potential impact on aviation safety involving products, parts, non-installed equipment, persons or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the potential impact on aviation safety of the information security incident or vulnerability.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to all persons or organisations that shall comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, the competent authorities of the other Member States concerned.
+
+**SECTION II**
+
+**Management**
+
+ARA.GEN.200 Management system
+
+(a) The competent authority shall establish and maintain a management system, including as a minimum:
+
+(1) documented policies and procedures to describe its organisation, means and methods to achieve compliance with Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. The procedures shall be kept up to date and serve as the basic working documents within that competent authority for all related tasks;
+
+(2) a sufficient number of personnel to perform its tasks and discharge its responsibilities. Such personnel shall be qualified to perform their allocated tasks and have the necessary knowledge, experience, initial and recurrent training to ensure continuing competence. A system shall be in place to plan the availability of personnel, in order to ensure the proper completion of all tasks;
+
+(3) adequate facilities and office accommodation to perform the allocated tasks;
+
+(4) a function to monitor compliance of the management system with the relevant requirements and adequacy of the procedures including the establishment of an internal audit process and a safety risk management process. Compliance monitoring shall include a feedback system of audit findings to the senior management of the competent authority to ensure implementation of corrective actions as necessary; and
+
+(5) a person or group of persons, ultimately responsible to the senior management of the competent authority for the compliance monitoring function.
+
+(b) The competent authority shall, for each field of activity including management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The competent authority shall establish procedures for participation in a mutual exchange of all necessary information and assistance with other competent authorities concerned, whether from within the Member State or in other Member States, including the following information:
+
+(1) on all findings raised, corrective follow-up actions taken pursuant to such findings and enforcement measures taken as a result of oversight of persons and organisations exercising activities in the territory of a Member State but certified by or having made declarations to the competent authority of another Member State or the Agency;
+
+(2) stemming from mandatory and voluntary occurrence reporting as required by point ORA.GEN.160 of Annex VII.
+
+(d) A copy of the procedures related to the management system and their amendments shall be made available to the Agency for the purpose of standardisation.
+
+(e) In addition to the requirements contained in point (a), the management system established and maintained by the competent authority shall comply with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+ARA.GEN.205 Allocation of tasks
+
+(a) Tasks related to the initial certification or continuing oversight of persons or organisations subject to Regulation (EC) No 216/2008 and its Implementing Rules shall be allocated by Member States only to qualified entities. When allocating tasks, the competent authority shall ensure that it has:
+
+(1) a system in place to initially and continuously assess that the qualified entity complies with Annex V to Regulation (EC) No 216/2008.
+
+This system and the results of the assessments shall be documented;
+
+(2) established a documented agreement with a the qualified entity, approved by both parties at the appropriate management level, which clearly defines:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports and records to be provided;
+
+(iii) the technical conditions to be met in performing such tasks;
+
+(iv) the related liability coverage; and
+
+(v) the protection given to information acquired in carrying out such tasks.
+
+(b) The competent authority shall ensure that the internal audit process and a safety risk management process required by ARA.GEN.200(a)(4) cover all certification or continuing oversight tasks performed on its behalf.
+
+(c) With regard to the certification and oversight of the organisation’s compliance with point ORA.GEN.200A, the competent authority may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Member State. When allocating tasks, the competent authority shall ensure that:
+
+(1) all aspects related to aviation safety are coordinated and taken into account by the qualified entity or relevant authority;
+
+(2) the results of the certification and oversight activities performed by the qualified entity or relevant authority are integrated in the overall certification and oversight files of the organisation;
+
+(3) its own information security management system established in accordance with point ARA.GEN.200(e) covers all the certification and continuing oversight tasks performed on its behalf.
+
+ARA.GEN.210 Changes in the management system
+
+(a) The competent authority shall have a system in place to identify changes that affect its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. That system shall enable it to take action as appropriate to ensure that its management system remains adequate and effective.
+
+(b) The competent authority shall update its management system to reflect any change to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof in a timely manner, so as to ensure effective implementation.
+
+(c) The competent authority shall notify the Agency of changes affecting its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+ARA.GEN.220 Record-keeping
+
+(a) The competent authority shall establish a system of record-keeping providing for adequate storage, accessibility and reliable traceability of:
+
+(1) the management system’s documented policies and procedures;
+
+(2) training, qualification and authorisation of its personnel;
+
+(3) the allocation of tasks, covering the elements required by ARA.GEN.205 as well as the details of tasks allocated;
+
+(4) certification and declaration processes as well as oversight of certified and declared organisations;
+
+(5) processes for issuing personnel licences, ratings, certificates and attestations and for the continuing oversight of the holders of those licences, ratings, certificates and attestations;
+
+(6) processes for issuing FSTD qualification certificates and for the continuing oversight of the FSTD and of the organisation operating it;
+
+(7) oversight of persons and organisations exercising activities within the territory of the Member State, but overseen or certified by the competent authority of another Member State or the Agency, as agreed between these authorities;
+
+(8) the evaluation and notification to the Agency of alternative means of compliance proposed by organisations and the assessment of alternative means of compliance used by the competent authority itself;
+
+(9) findings, corrective actions and date of action closure;
+
+(10) enforcement measures taken;
+
+(11) safety information and follow-up measures;
+
+(12) the use of flexibility provisions in accordance with Article 71 of Regulation (EU) 2018/1139; and
+
+(13) the evaluation and authorisation process of aircraft laid down in points ORA.ATO.135 (a) and DTO.GEN.240 (a).
+
+(b) The competent authority shall establish and keep up to date a list of all organisation certificates, FSTD qualification certificates and personnel licences, certificates and attestations it issued, DTO declarations it received, and the DTO training programmes it verified or approved for compliance with Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395, or Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.
+
+(c) All records shall be kept for the minimum period specified in this Regulation. In the absence of such indication, records shall be kept for a minimum period of 5 years subject to applicable data protection law.
+
+**SECTION III**
+
+**Oversight, certification and enforcement**
+
+ARA.GEN.300 Oversight
+
+(a) The competent authority shall verify:
+
+(1) compliance with the requirements applicable to organisations or persons prior to the issue of an organisation certificate, approval, FSTD qualification certificate or personnel licence, certificate, rating, or attestation, as applicable;
+
+(2) continued compliance with the requirements applicable to the persons holding licences, ratings and certificates, the organisations it has certified, the holders of a FSTD qualification and the organisations from which it received a declaration;
+
+(3) implementation of appropriate safety measures mandated by the competent authority as defined in ARA.GEN.135(c) and (d).
+
+(b) This verification shall:
+
+(1) be supported by documentation specifically intended to provide personnel responsible for safety oversight with guidance to perform their functions;
+
+(2) provide the persons and organisations concerned with the results of safety oversight activity;
+
+(3) be based on audits and inspections, including ramp and unannounced inspections; and
+
+(4) provide the competent authority with the evidence needed in case further action is required, including the measures foreseen by ARA.GEN.350 and ARA.GEN.355.
+
+(c) The scope of oversight defined in (a) and (b) shall take into account the results of past oversight activities and the safety priorities.
+
+(d) Without prejudice to the competences of the Member States and to their obligations as set out in ARO.RAMP, the scope of the oversight of activities performed in the territory of a Member State by persons or organisations established or residing in another Member State shall be determined on the basis of the safety priorities, as well as of past oversight activities.
+
+(e) Where the activity of a person or organisation involves more than one Member State or the Agency, the competent authority responsible for the oversight under (a) may agree to have oversight tasks performed by the competent authority(ies) of the Member State(s) where the activity takes place or by the Agency. Any person or organisation subject to such agreement shall be informed of its existence and of its scope.
+
+(f) The competent authority shall collect and process any information deemed useful for oversight, including for ramp and unannounced inspections.
+
+(g) With regard to the certification and oversight of the organisation’s compliance with point ORA.GEN.200A of this Annex, in addition to complying with points (a) to (f) of this point, the competent authority shall review any approval granted under point IS.I.OR.200(e) of Annex II to Commission Implementing Regulation (EU) 2023/203 ( 8 ) following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+ARA.GEN.305 Oversight programme
+
+(a) The competent authority shall establish and maintain an oversight programme covering the oversight activities required by ARA.GEN.300 and by ARO.RAMP.
+
+(b) For organisations certified by the competent authority and FSTD qualification certificate holders, the oversight programme shall be developed taking into account the specific nature of the organisation, the complexity of its activities, the results of past certification and/or oversight activities and shall be based on the assessment of associated risks. It shall include within each oversight planning cycle:
+
+(1) audits and inspections, including ramp and unannounced inspections as appropriate; and
+
+(2) meetings convened between the accountable manager and the competent authority to ensure both remain informed of significant issues.
+
+(c) For organisations certified by the competent authority and FSTD qualification certificate holders an oversight planning cycle not exceeding 24 months shall be applied.
+
+The oversight planning cycle may be reduced if there is evidence that the safety performance of the organisation or the FTSD qualification certificate holder has decreased.
+
+The oversight planning cycle may be extended to a maximum of 36 months if the competent authority has established that, during the previous 24 months:
+
+(1) the organisation has demonstrated an effective identification of aviation safety hazards and management of associated risks;
+
+(2) the organisation has continuously demonstrated under ORA.GEN.130 that it has full control over all changes;
+
+(3) no level 1 findings have been issued; and
+
+(4) all corrective actions have been implemented within the time period accepted or extended by the competent authority as defined in ARA.GEN.350(d)(2).
+
+The oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the above, the organisation has established, and the competent authority has approved, an effective continuous reporting system to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(ca) Notwithstanding (c), for organisations only providing training towards the LAPL, PPL, SPL or BPL and associated ratings and certificates, an oversight planning cycle not exceeding 48 months shall be applied. The oversight planning cycle shall be reduced if there is evidence that the safety performance of the organisation holder has decreased.
+
+The oversight planning cycle may be extended to a maximum of 72 months, if the competent authority has established that, during the previous 48 months:
+
+(1) the organisation has demonstrated an effective identification of aviation safety hazards and management of associated risks, as demonstrated by the results of the annual review in accordance with ORA.GEN.200(c);
+
+(2) the organisation has continuously maintained control over all changes in accordance with ORA.GEN.130 as demonstrated by the results of the annual review in accordance with ORA.GEN.200(c);
+
+(3) no level 1 findings have been issued; and
+
+(4) all corrective actions have been implemented within the time period accepted or extended by the competent authority as defined in ARA.GEN.350(d)(2).
+
+(d) For persons that hold a licence, certificate, rating, or attestation issued by the competent authority, the oversight programme shall include an appropriate volume of inspections and unannounced inspections.
+
+(e) The oversight programme shall include records of the dates when audits, inspections and meetings are due and when such audits, inspections and meetings have been carried out.
+
+(f) Notwithstanding points (b), (c), and (ca), the oversight programme of DTOs shall be developed taking into account the specific nature of the organisation, the complexity of its activities and the results of past oversight activities and shall be based on the assessment of risks associated with the type of training provided. The oversight activities shall include inspections, including unannounced inspections, and may, as deemed necessary by the competent authority, include audits.
+
+ARA.GEN.310 Initial certification procedure – organisations
+
+(a) Upon receiving an application for the initial issue of a certificate for an organisation, the competent authority shall verify the organisation’s compliance with the applicable requirements.
+
+(b) When satisfied that the organisation is in compliance with the applicable requirements, the competent authority shall issue the certificate(s), as established in Appendixes III and V to this Part. The certificate(s) shall be issued for an unlimited duration. The privileges and scope of the activities that the organisation is approved to conduct shall be specified in the terms of approval attached to the certificate(s).
+
+(c) To enable an organisation to implement changes without prior competent authority approval in accordance with ORA.GEN.130, the competent authority shall approve the procedure submitted by the organisation defining the scope of such changes and describing how such changes will be managed and notified.
+
+ARA.GEN.315 Procedure for issue, revalidation, renewal or change of licences, ratings, certificates or attestations – persons
+
+(a) Upon receiving an application for the issue, revalidation, renewal or change of a personal licence, rating, certificate or attestation and any supporting documentation, the competent authority shall verify whether the applicant meets the applicable requirements.
+
+(b) When satisfied that the applicant meets the applicable requirements, the competent authority shall issue, revalidate, renew or change the licence, certificate, rating, or attestation.
+
+ARA.GEN.330 Changes – organisations
+
+(a) Upon receiving an application for a change that requires prior approval, the competent authority shall verify the organisation’s compliance with the applicable requirements before issuing the approval.
+
+The competent authority shall prescribe the conditions under which the organisation may operate during the change, unless the competent authority determines that the organisation’s certificate needs to be suspended.
+
+When satisfied that the organisation is in compliance with the applicable requirements, the competent authority shall approve the change.
+
+(b) Without prejudice to any additional enforcement measures, when the organisation implements changes requiring prior approval without having received competent authority approval as defined in (a), the competent authority shall suspend, limit or revoke the organisation’s certificate.
+
+(c) For changes not requiring prior approval, the competent authority shall assess the information provided in the notification sent by the organisation in accordance with ORA.GEN.130 to verify compliance with the applicable requirements. In case of any non-compliance, the competent authority shall:
+
+(1) notify the organisation about the non-compliance and request further changes; and
+
+(2) in case of level 1 or level 2 findings, act in accordance with ARA.GEN.350.
+
+(d) Notwithstanding points (a), (b) and (c), in the case of changes to the information contained in the declarations received from a DTO or to the training programme used by the DTO, notified to it in accordance with point DTO.GEN.116 of Annex VIII (Part-DTO), the competent authority shall act in accordance with the requirements of points ARA.DTO.105 and ARA.DTO.110, as applicable.
+
+ARA.GEN.330A Changes to the information security management system
+
+(a) With regard to changes managed and notified to the competent authority in accordance with the procedure set out in point IS.I.OR.255(a) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point ARA.GEN.300. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point ARA.GEN.350.
+
+(b) With regard to other changes requiring an application for approval in accordance with point IS.I.OR.255(b) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+ARA.GEN.350 Findings and corrective actions – organisations
+
+(a) The competent authority for oversight in accordance with ARA.GEN.300 (a) shall have a system to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules, with the organisation’s procedures and manuals or with the terms of an approval or certificate which lowers safety or seriously hazards flight safety.
+
+The level 1 findings shall include:
+
+(1) failure to give the competent authority access to the organisation’s facilities as defined in ORA.GEN.140 during normal operating hours and after two written requests;
+
+(2) obtaining or maintaining the validity of the organisation certificate by falsification of submitted documentary evidence;
+
+(3) evidence of malpractice or fraudulent use of the organisation certificate; and
+
+(4) the lack of an accountable manager.
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules, with the organisation’s procedures and manuals or with the terms of an approval or certificate which could lower safety or hazard flight safety.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EC) No 216/2008 and its Implementing Rules, communicate the finding to the organisation in writing and request corrective action to address the non-compliance(s) identified. Where relevant, the competent authority shall inform the State in which the aircraft is registered.
+
+(1) In the case of level 1 findings the competent authority shall take immediate and appropriate action to prohibit or limit activities and, if appropriate, it shall take action to revoke the certificate or specific approval or to limit or suspend it in whole or in part, depending upon the extent of the level 1 finding, until successful corrective action has been taken by the organisation.
+
+(2) In the case of level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period appropriate to the nature of the finding that in any case initially shall not be more than 3 months. At the end of this period, and subject to the nature of the finding, the competent authority may extend the 3-month period subject to a satisfactory corrective action plan agreed by the competent authority; and
+
+(ii) assess the corrective action and implementation plan proposed by the organisation and, if the assessment concludes that they are sufficient to address the non-compliance(s), accept these.
+
+(3) Where an organisation fails to submit an acceptable corrective action plan, or to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to a level 1 finding and action taken as laid down in (d)(1).
+
+(4) The competent authority shall record all findings it has raised or that have been communicated to it and, where applicable, the enforcement measures it has applied, as well as all corrective actions and date of action closure for findings.
+
+(da) By way of derogation from paragraphs (a) to (d), in the case of DTOs, if during oversight or by any other means the competent authority finds evidence that indicates DTO non-compliance with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139, with the requirements of Annex I (Part-FCL) and Annex VIII (Part-DTO) to this Regulation, or with the requirements of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, the competent authority shall:
+
+(1) raise a finding, record it, communicate it in writing to the representative of the DTO and determine a reasonable period of time within which the DTO is to take the steps specified in point DTO.GEN.150 of Annex VIII (Part-DTO);
+
+(2) take immediate and appropriate action to limit or prohibit the training activities affected by the non-compliance until the DTO has taken the corrective action referred to in point (1), where any of the following situations occurs:
+
+(i) a safety problem has been identified;
+
+(ii) the DTO fails to take corrective action in accordance with point DTO.GEN.150;
+
+(3) in respect of the training programmes referred to in point DTO.GEN.230(c) of Annex VIII (Part-DTO), limit, suspend or revoke the approval of the training programme;
+
+(4) take any further enforcement measures necessary in order to ensure the termination of the non-compliance and, where relevant, remedy the consequences thereof.
+
+(e) Without prejudice to any additional enforcement measures, if the authority of a Member State that acts in accordance with point ARA.GEN.300(d) identifies any non-compliance with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139, with the requirements of Annex I (Part-FCL), Annex VII (Part-ORA) and Annex VIII (Part-DTO) to this Regulation, or with the requirements of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 by an organisation certified by, or having made a declaration to, the competent authority of another Member State or the Agency, it shall inform that competent authority of that non-compliance.
+
+ARA.GEN.355 Findings and enforcement measures – persons
+
+(a) If, during oversight or by any other means, evidence is found by the competent authority responsible for oversight in accordance with ARA.GEN.300(a) that shows a non-compliance with the applicable requirements by a person holding a licence, certificate, rating or attestation issued in accordance with Regulation (EC) No 216/2008 and its Implementing Rules, the competent authority shall raise a finding, record it and communicate it in writing to the licence, certificate, rating or attestation holder.
+
+(b) When such finding is raised, the competent authority shall carry out an investigation. If the finding is confirmed, it shall:
+
+(1) limit, suspend or revoke the licence, certificate, rating or attestation as applicable, when a safety issue has been identified; and
+
+(2) take any further enforcement measures necessary to prevent the continuation of the non-compliance.
+
+(c) Where applicable, the competent authority shall inform the person or organisation that issued the medical certificate or attestation.
+
+(d) Without prejudice to any additional enforcement measures, when the authority of a Member State acting under the provisions of ARA.GEN.300(d) finds evidence showing a non-compliance with the applicable requirements by a person holding a licence, certificate, rating or attestation issued by the competent authority of any other Member State, it shall inform that competent authority.
+
+(e) If, during oversight or by any other means, evidence is found showing a non-compliance with the applicable requirements by a person subject to the requirements laid down in Regulation (EC) No 216/2008 and its Implementing Rules and not holding a licence, certificate, rating or attestation issued in accordance with that Regulation and its Implementing Rules, the competent authority that identified the non-compliance shall take any enforcement measures necessary to prevent the continuation of that non-compliance.
+
+ARA.GEN.360 Change of competent authority
+
+(a) Upon receiving a licence holder’s request for a change of competent authority as specified in point FCL.015(e) of Annex I (Part-FCL), point BFCL.015(f) of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 or point SFCL.015(f) of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, the receiving competent authority shall, without undue delay, request the competent authority of the licence holder to transfer, without undue delay, all of the following:
+
+(1) a verification of the licence;
+
+(2) copies of the licence holder’s medical records kept by that competent authority in accordance with points ARA.GEN.220 and ARA.MED.150. The medical records shall be transferred in accordance with point MED.A.015 of Annex IV (Part-MED) and shall include a summary of the relevant medical history of the applicant, verified and signed by the medical assessor.
+
+(b) The transferring competent authority shall keep the licence holder’s original licensing and medical records in accordance with points ARA.GEN.220, ARA.FCL.120 and ARA.MED.150.
+
+(c) The receiving competent authority shall, without undue delay, reissue the licence and medical certificate provided that it has received and processed all documents specified in point (a). Upon the reissuance of the licence and medical certificate, the receiving competent authority shall immediately request the licence holder to surrender to it the licence issued by the transferring competent authority and the associated medical certificate.
+
+(d) The receiving competent authority shall immediately notify the transferring competent authority once it has reissued the licence and medical certificate to the licence holder and the licence holder has surrendered the licence and medical certificate pursuant to point (c). Until such a notification is received, the transferring competent authority remains responsible for the licence and the medical certificate originally issued to that licence holder.
+
+(e) When a competent authority receives an medical certificate holder’s request for a change of competent authority, as specified in the requirements referred to in point (a), the procedure specified in points (a) to (d) shall apply.
+
+**SUBPART FCL**
+
+**SPECIFIC REQUIREMENTS RELATING TO FLIGHT CREW LICENSING**
+
+**SECTION I**
+
+**General**
+
+ARA.FCL.120 Record-keeping
+
+In addition to the records required in ARA.GEN.220(a), the competent authority shall include in its system of record-keeping results of theoretical knowledge examinations and the assessments of pilots’ skills.
+
+**SECTION II**
+
+**Licences, ratings and certificates**
+
+ARA.FCL.200 Procedure for issue, revalidation or renewal of a licence, rating or certificate
+
+(a) Issue of licences and ratings. The competent authority shall issue a flight crew licence and associated ratings, using the form established in Appendix I to this Part.
+
+If a pilot intends to fly outside Union territory on an aircraft registered in a Member State other than the Member State that issued the flight crew licence, the competent authority shall:
+
+(1) add the following remark on the flight crew licence under item XIII: ‘This licence is automatically validated as per the ICAO attachment to this licence’; and
+
+(2) make the ICAO attachment available to the pilot in print or electronic format.
+
+(b) Issue of instructor and examiner certificates. The competent authority shall issue an instructor or examiner certificate as:
+
+(1) an endorsement of the relevant privileges in the pilot licence as established in Appendix I to this Part; or
+
+(2) a separate document, in a form and manner specified by the competent authority.
+
+(c) Endorsement of licences by examiners. Before specifically authorising an examiner to revalidate or renew ratings or certificates, the competent authority shall develop appropriate procedures.
+
+(d) Endorsement of licence by instructors. Before specifically authorising certain instructors to revalidate an SEP aeroplane class rating, a TMG class rating or a type rating for a single-engine helicopter up to a MTOM of 3 175 kg, the competent authority shall develop appropriate procedures.
+
+(e) Instructors for FI(B) or FI(S) certificates: The competent authority shall develop appropriate procedures for the conduct of the training flights under supervision specified in:
+
+(1) points BFCL.315(a)(4)(ii) and BFCL.360(a)(2) of Annex III (Part-BFCL) to Regulation (EU) 2018/395; and
+
+(2) points SFCL.315(a)(7)(ii) and SFCL.360(a)(2) of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.
+
+ARA.FCL.205 Monitoring of examiners
+
+(a) The competent authority shall develop an oversight programme to monitor the conduct and performance of examiners taking into account:
+
+(1) the number of examiners it has certified; and
+
+(2) the number of examiners certified by other competent authorities exercising their privileges within the territory where the competent authority exercises oversight.
+
+(b) The competent authority shall maintain a list of examiners it has certified. The list shall state the privileges of the examiners and be published and kept updated by the competent authority.
+
+(c) The competent authority shall develop procedures to designate examiners for the conduct of skill tests.
+
+ARA.FCL.210 Information for examiners
+
+(a) The competent authority shall notify the Agency of the national administrative procedures, requirements for protection of personal data, liability, accident insurance and fees applicable in its territory, which shall be used by examiners when conducting skill tests, proficiency checks or assessments of competence of an applicant for which the competent authority is not the same that issued the examiner’s certificate.
+
+(b) To facilitate dissemination and access to the information received from competent authorities under (a), the Agency shall publish this information according to a format prescribed by it.
+
+(c) The competent authority may provide examiners it has certified and examiners certified by other competent authorities exercising their privileges in their territory with safety criteria to be observed when skill tests and proficiency checks are conducted in an aircraft.
+
+ARA.FCL.215 Validity period
+
+(a) When issuing or renewing a rating or certificate, the competent authority or, in the case of renewal, an examiner specifically authorised by the competent authority, shall extend the validity period until the end of the relevant month.
+
+(b) When revalidating a rating, an instructor or an examiner certificate, the competent authority, or an examiner specifically authorised by the competent authority, shall extend the validity period of the rating or certificate until the end of the relevant month.
+
+(c) The competent authority, or an examiner specifically authorised for that purpose by the competent authority, shall enter the expiry date on the licence or the certificate.
+
+(d) The competent authority may develop procedures to allow privileges to be exercised by the licence or certificate holder for a maximum period of 8 weeks after successful completion of the applicable examination(s), pending the endorsement on the licence or certificate.
+
+ARA.FCL.220 Procedure for the re-issue of a pilot licence
+
+(a) The competent authority shall re-issue a licence whenever necessary for administrative reasons and:
+
+(1) after initial issue of a rating; or
+
+(2) when paragraph XII of the licence established in Appendix I to this Part is completed and no further spaces remain.
+
+(b) Only valid ratings and certificates shall be transferred to the new licence document.
+
+ARA.FCL.250 Limitation, suspension or revocation of licences, ratings and certificates
+
+(a) The competent authority shall limit, suspend or revoke as applicable a pilot licence and associated ratings or certificates in accordance with ARA.GEN.355 in, but not limited to, the following circumstances:
+
+(1) obtaining the pilot licence, rating or certificate by falsification of submitted documentary evidence;
+
+(2) falsification of the logbook and licence or certificate records;
+
+(3) the licence holder no longer complies with the applicable requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 or Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976;
+
+(4) exercising the privileges of a licence, rating or certificate when adversely affected by alcohol or drugs;
+
+(5) non-compliance with the applicable operational requirements;
+
+(6) evidence of malpractice or fraudulent use of the certificate; or
+
+(7) unacceptable performance in any phase of the flight examiner’s duties or responsibilities.
+
+(b) The competent authority may also limit, suspend or revoke a licence, rating or certificate upon the written request of the licence or certificate holder.
+
+(c) All skill tests, proficiency checks or assessments of competence conducted during suspension or after the revocation of an examiner’s certificate will be invalid.
+
+**SECTION III**
+
+**Theoretical knowledge examinations**
+
+ARA.FCL.300 Examination procedures
+
+(a) The competent authority shall put in place the necessary arrangements and procedures to allow applicants to take theoretical knowledge examinations in accordance with the applicable requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 or Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.
+
+(b) In the case of the ATPL, MPL, commercial pilot licence (CPL), and instrument ratings, those procedures shall comply with all of the following:
+
+(1) Examinations shall be done in written or computer-based form.
+
+(2) Questions for an examination shall be selected by the competent authority, according to a common method which allows coverage of the entire syllabus in each subject, from the European Central Question Bank (ECQB). The ECQB is a database of multiple choice questions held by the Agency.
+
+(3) The examination in communications may be provided separately from those in other subjects.
+
+(c) The competent authority shall inform applicants of the languages available for examinations.
+
+(d) The competent authority shall establish appropriate procedures to ensure the integrity of the examinations.
+
+(e) If the competent authority finds that the applicant is not complying with the examination procedures during the examination, this shall be assessed with a view to failing the applicant, either in the examination of a single subject or in the examination as a whole.
+
+(f) The competent authority shall ban applicants who are proven to be cheating from taking any further examination for a period of at least 12 months from the date of the examination in which they were found cheating.
+
+**SUBPART CC**
+
+**SPECIFIC REQUIREMENTS RELATING TO CABIN CREW**
+
+**SECTION I**
+
+**Cabin crew attestations**
+
+ARA.CC.100 Procedures for cabin crew attestations
+
+(a) The competent authority shall establish procedures for the issue, record-keeping and oversight of cabin crew attestations in accordance with ARA.GEN.315, ARA.GEN.220 and ARA.GEN.300 respectively.
+
+(b) Cabin crew attestations shall be issued, using the format and specifications established in Appendix II to this Part,
+
+either
+
+(1) by the competent authority;
+
+and/or, if so decided by a Member State
+
+(2) by an organisation approved to do so by the competent authority.
+
+(c) The competent authority shall make publicly available:
+
+(1) which body(ies) issue cabin crew attestations in their territory; and
+
+(2) if organisations are approved to do so, the list of such organisations.
+
+ARA.CC.105 Suspension or revocation of cabin crew attestations
+
+The competent authority shall take measures in accordance with ARA.GEN.355, including the suspension or revocation of a cabin crew attestation, at least in the following cases:
+
+(a) non-compliance with Part-CC or with the applicable requirements of Part-ORO and Part-CAT, where a safety issue has been identified;
+
+(b) obtaining or maintaining the validity of the cabin crew attestation by falsification of submitted documentary evidence;
+
+(c) exercising the privileges of the cabin crew attestation when adversely affected by alcohol or drugs; and
+
+(d) evidence of malpractice or fraudulent use of the cabin crew attestation.
+
+**SECTION II**
+
+**Organisations providing cabin crew training or issuing cabin crew attestations**
+
+ARA.CC.200 Approval of organisations to provide cabin crew training or to issue cabin crew attestations
+
+(a) Before issuing an approval to a training organisation or a commercial air transport operator to provide cabin crew training, the competent authority shall verify that:
+
+(1) the conduct, the syllabi and associated programmes of the training courses provided by the organisation comply with the relevant requirements of Part-CC;
+
+(2) the training devices used by the organisation realistically represent the passenger compartment environment of the aircraft type(s) and the technical characteristics of the equipment to be operated by the cabin crew; and
+
+(3) the trainers and instructors conducting the training sessions are suitably experienced and qualified in the training subject covered.
+
+(b) If in a Member State organisations may be approved to issue cabin crew attestations, the competent authority shall only grant such approvals to organisations complying with the requirements in (a). Before granting such an approval, the competent authority shall:
+
+(1) assess the capability and accountability of the organisation to perform the related tasks;
+
+(2) ensure that the organisation has established documented procedures for the performance of the related tasks, including for the conduct of examination(s) by personnel who are qualified for this purpose and free from conflict of interest, and for the issue of cabin crew attestations in accordance with ARA.GEN.315 and ARA.CC.100(b); and
+
+(3) require the organisation to provide information and documentation related to the cabin crew attestations it issues and their holders, as relevant for the competent authority to conduct its record-keeping, oversight and enforcement tasks.
+
+**SUBPART ATO**
+
+**SPECIFIC REQUIREMENTS RELATED TO APPROVED TRAINING ORGANISATIONS (ATOs)**
+
+**SECTION I**
+
+**General**
+
+ARA.ATO.105 Oversight Programme
+
+The oversight programme for ATOs shall include the monitoring of course standards, including the sampling of training flights with students, if appropriate to the aircraft used.
+
+ARA.ATO.110 Approval of minimum equipment lists
+
+When the competent authority receives an application for approval of a minimum equipment list under points ORO.MLR.105 of Annex III (Part-ORO) and NCC.GEN.101 of Annex VI (Part-NCC) to Regulation (EU) No 965/2012, it shall act in accordance with point ARO.OPS.205 of Annex II (Part-ARO) to that Regulation.
+
+ARA.ATO.120 Record-keeping
+
+In addition to the records required in ARA.GEN.220, the competent authority shall include in its system of record-keeping details of courses provided by the ATO, and if applicable, records relating to FSTDs used for training.
+
+**SUBPART FSTD**
+
+**SPECIFIC REQUIREMENTS RELATED TO THE QUALIFICATION OF FLIGHT SIMULATION TRAINING DEVICES (FSTDs)**
+
+**SECTION I**
+
+**General**
+
+ARA.FSTD.100 Initial evaluation procedure
+
+(a) Upon receiving an application for an FSTD qualification certificate, the competent authority shall:
+
+(1) evaluate the FSTD submitted for initial evaluation or for upgrading against the applicable qualification basis;
+
+(2) assess the FSTD in those areas that are essential to completing the flight crew member training, testing and checking process, as applicable;
+
+(3) conduct objective, subjective and functions tests in accordance with the qualification basis and review the results of such tests to establish the qualification test guide (QTG); and
+
+(4) verify if the organisation operating the FSTD is in compliance with the applicable requirements. This does not apply to the initial evaluation of basic instrument training devices (BITDs).
+
+(b) The competent authority shall only approve the QTG after completion of the initial evaluation of the FSTD and when all discrepancies in the QTG have been addressed to the satisfaction of the competent authority. The QTG resulting from the initial evaluation procedure shall be the master QTG (MQTG), which shall be the basis for the FSTD qualification and subsequent recurrent FSTD evaluations.
+
+(c) Qualification basis and special conditions.
+
+(1) The competent authority may prescribe special conditions for the FSTD qualification basis when the requirements of ORA.FSTD.210(a) are met and when it is demonstrated that the special conditions ensure an equivalent level of safety to that established in the applicable certification specification.
+
+(2) When the competent authority, if other than the Agency, has established special conditions for the qualification basis of an FSTD, it shall without undue delay notify the Agency thereof. The notification shall be accompanied by a full description of the special conditions prescribed, and a safety assessment demonstrating that an equivalent level of safety to that established in the applicable Certification Specification is met.
+
+ARA.FSTD.110 Issue of an FSTD qualification certificate
+
+(a) After completion of an evaluation of the FSTD and when satisfied that the FSTD meets the applicable qualification basis in accordance with ORA.FSTD.210 and that the organisation operating it meets the applicable requirements to maintain the qualification of the FSTD in accordance with ORA.FSTD.100, the competent authority shall issue the FSTD qualification certificate of unlimited duration, using the form as established in Appendix IV to this Part.
+
+ARA.FSTD.115 Interim FSTD qualification
+
+(a) In the case of the introduction of new aircraft programmes, when compliance with the requirements established in this Subpart for FSTD qualification is not possible, the competent authority may issue an interim FSTD qualification level.
+
+(b) For full flight simulators (FFS) an interim qualification level shall only be granted at level A, B or C.
+
+(c) This interim qualification level shall be valid until a final qualification level can be issued and, in any case, shall not exceed 3 years.
+
+ARA.FSTD.120 Continuation of an FSTD qualification
+
+(a) The competent authority shall continuously monitor the organisation operating the FSTD, as part of the oversight programme, to verify that the following conditions are met:
+
+(1) the complete set of tests in the master QTG is rerun progressively over a 12-month period;
+
+(2) the results of recurrent evaluations continue to comply with the qualification basis and are dated and retained;
+
+(3) a configuration control system is in place to ensure the continued integrity of the hardware and software of the qualified FSTD.
+
+(b) The competent authority shall conduct recurrent evaluations of the FSTD in accordance with the procedures detailed in point ARA.FSTD.100. Those evaluations shall take place:
+
+(1) every year, in the case of a full flight simulator (FFS), flight training device (FTD) or flight and navigation procedures trainer (FNPT). The start for each recurrent 12-month period is the end of the month of the initial qualification unless another date is agreed between the competent authority and the organisation operating the FSTD. Each FSTD recurrent evaluation shall take place within a period of 60 days before and 30 days after the start of each recurrent 12-month period;
+
+(2) every 3 years, in the case of a BITD.
+
+(c) The competent authority may extend the recurrent evaluation period of an FSTD specified in point ARA.FSTD.120(b)(1) to a maximum of 36 months, provided that all of the following apply:
+
+(1) during the preceding 36 months, the organisation operating that FSTD complies with the criteria specified in points ARA.GEN.305(c)(1) to (c)(4);
+
+(2) the FSTD has been subject to an initial and at least one recurrent evaluation that have established its continuous compliance with the qualification basis;
+
+(3) the competent authority performs an audit of the elements of the management system of the organisation, as specified in points ORA.GEN.200(a)(3) and (a)(6) of Annex VII, every 12 months;
+
+(4) the organisation has developed procedures to conduct the tasks specified in point ORA.FSTD.225(b) of Annex VII.
+
+ARA.FSTD.130 Changes
+
+(a) Upon receipt of an application for any changes to the FSTD qualification certificate, the competent authority shall comply with the applicable elements of the initial evaluation procedure requirements as described in ARA.FSTD.100(a) and (b).
+
+(b) The competent authority may complete a special evaluation following major changes or when an FSTD appears not to be performing at its initial qualification level.
+
+(c) The competent authority shall always conduct a special evaluation before granting a higher level of qualification to the FSTD.
+
+ARA.FSTD.135 Findings and corrective actions – FSTD qualification certificate
+
+The competent authority shall limit, suspend or revoke, as applicable, an FSTD qualification certificate in accordance with ARA.GEN.350 in, but not limited to, the following circumstances:
+
+(a) obtaining the FSTD qualification certificate by falsification of submitted documentary evidence;
+
+(b) the organisation operating the FSTD can no longer demonstrate that the FSTD complies with its qualification basis; or
+
+(c) the organisation operating the FSTD no longer complies with the applicable requirements of Part-ORA.
+
+ARA.FSTD.140 Record keeping
+
+In addition to the records required in ARA.GEN.220, the competent authority shall keep and update a list of the qualified FSTDs under its supervision, the dates when evaluations are due and when such evaluations were carried out.
+
+**SUBPART AeMC**
+
+**SPECIFIC REQUIREMENTS RELATING TO AERO-MEDICAL CENTRES (AeMCs)**
+
+**SECTION I**
+
+**General**
+
+ARA.AeMC.110 Initial certification procedure
+
+The certification procedure for an AeMC shall follow the provisions laid down in ARA.GEN.310.
+
+ARA.AeMC.150 Findings and corrective actions – AeMC
+
+Without prejudice to ARA.GEN.350, level 1 findings include, but are not limited to, the following:
+
+(a) failure to nominate a head of the AeMC;
+
+(b) failure to ensure medical confidentiality of aero-medical records; and
+
+(c) failure to provide the competent authority with the medical and statistical data for oversight purposes.
+
+**SUBPART MED**
+
+**SPECIFIC REQUIREMENTS RELATING TO AERO-MEDICAL CERTIFICATION**
+
+**SECTION I**
+
+**General**
+
+ARA.MED.120 Medical assessors
+
+The competent authority shall appoint one or more medical assessor(s) to undertake the aero-medical tasks described in this Regulation. The medical assessor shall be licensed and qualified in medicine and have the following:
+
+(a) postgraduate work experience in clinical medicine;
+
+(b) specific knowledge and experience in aviation medicine and aero-medical practice;
+
+(c) specific training in aero-medical certification.
+
+ARA.MED.125 Referral to the licensing authority
+
+When an AeMC or aero-medical examiner (AME) has referred the decision on the fitness of an applicant to the medical assessor of the licensing authority, the following steps shall be taken:
+
+(a) the medical assessor or medical staff designated by the medical assessor shall evaluate the relevant medical documentation and request further medical documentation, examinations and tests where necessary;
+
+(b) the medical assessor shall determine the applicant’s fitness for the issuance of a medical certificate with one or more limitation(s) if necessary;
+
+(c) the medical assessor shall inform the AeMC or AME of the decision;
+
+(d) in case the applicant is assessed as fit, the medical assessor shall issue, if appropriate, the medical certificate or delegate the issuance to the AeMC or AME that referred the respective applicant.
+
+ARA.MED.126 Limitation, suspension or revocation of medical certificates
+
+(a) The licensing authority shall establish a procedure to limit, suspend or revoke a medical certificate.
+
+(b) The licensing authority shall limit, suspend or revoke a medical certificate if there is evidence that:
+
+(1) a medical certificate is falsified or obtained by a false declaration or false evidence;
+
+(2) a medical certificate is used in violation of the provisions of point MED.A.020 of Annex IV;
+
+(3) the holder of a medical certificate is no longer compliant with Annex IV (Part-MED);
+
+(c) The licensing authority may also suspend or revoke a medical certificate upon the written request of the holder of a medical certificate.
+
+(d) In case of limitation, suspension or revocation of a medical certificate, the licensing authority shall inform the issuing AME or AeMC about the reason for limitation, suspension or revocation.
+
+(e) In case of suspension or revocation of a medical certificate, the licensing authority shall ensure that the provisions of point MED.A.046 of Annex IV (Part-MED) are complied with.
+
+(f) The licensing authority shall establish a procedure for reinstating a medical certificate.
+
+ARA.MED.128 Consultation procedure
+
+The competent authority shall establish a consultation procedure for the AeMCs and AMEs in accordance with Annex IV (Part-MED).
+
+ARA.MED.130 Medical certificate format
+
+The medical certificate shall conform to the following specifications:
+
+(a) Content
+
+(1) State where the pilot licence has been issued or applied for (I),
+
+(3) Medical certificate number commencing with the UN country code of the State where the pilot licence has been issued or applied for and followed by a code of numbers and/or letters in Arabic numerals and Latin script (III),
+
+(4) Name of holder (IV),
+
+(5) Nationality of holder (VI),
+
+(6) Date of birth of holder: (dd/mm/yyyy) (IVa),
+
+(7) Signature of holder (VII),
+
+(8) Limitation(s) (XIII),
+
+(9) Expiry date of the medical certificate (IX) for:
+
+(i) Class 1,
+
+(ii) Class 1 single-pilot commercial operations carrying passengers,
+
+(iii) Class 2,
+
+(iv) LAPL
+
+(10) Date of medical examination
+
+(11) Date of last and next electrocardiogram
+
+(12) Date of last and next audiogram
+
+(12a) Date of last and next ophthalmological examination
+
+(13) Date of issue and signature of the AME or medical assessor that issued the certificate. GMP may be added to this field if they have the competence to issue medical certificates under the national law of the Member State where the licence is issued.
+
+(14) Seal or stamp (XI)
+
+(15) Other information
+
+(b) The paper or other material used shall prevent or readily show any alterations or erasures. Any entries or deletions to the form shall be clearly authorised by the licensing authority.
+
+(c) Language: Medical certificates shall be written in the national language(s) and in English and such other languages as the competent authority deems appropriate.
+
+(d) All dates on the medical certificate shall be written in a dd/mm/yyyy format.
+
+ARA.MED.135 Aero-medical forms
+
+The competent authority shall provide the AMEs with the format for the following documents:
+
+(a) the application form for a medical certificate;
+
+(b) the examination report form for class 1 and class 2 applicants;
+
+(c) the examination report form for light aircraft pilot licence (LAPL) applicants.
+
+ARA.MED.145 GMP notification to the competent authority
+
+The competent authority, when applicable, shall establish a notification process for general medical practitioners (GMPs) to ensure that the GMP is aware of the applicable requirements laid down in this Regulation.
+
+ARA.MED.150 Record-keeping
+
+(a) In addition to the records required in point ARA.GEN.220, the competent authority shall include in its system of record-keeping, details of aero-medical examinations, and assessments submitted by AMEs, AeMCs or GMPs.
+
+(b) All aero-medical records of applicants/licence holders shall be kept for a minimum period of 10 years after the expiry date of their last medical certificate.
+
+(c) For the purpose of aero-medical assessments and standardisation, aero-medical records shall be made available after written consent of the applicant/licence holder to the following entities:
+
+(1) an AeMC, AME or GMP for the purpose of completion of an aero-medical assessment;
+
+(2) a medical review board that may be established by the competent authority for secondary review of borderline cases;
+
+(3) relevant medical specialists for the purpose of completion of an aero-medical assessment;
+
+(4) the medical assessor of the competent authority of another Member State for the purpose of cooperative oversight;
+
+(5) the applicant/licence holder concerned upon their written request;
+
+(6) the Agency for standardisation purposes, in a manner that ensures that medical confidentiality is respected at all times.
+
+(d) The competent authority may make aero-medical records available for other purposes than those mentioned in point (c) in accordance with Regulation (EU) 2016/679.
+
+(e) The competent authority shall maintain a list of:
+
+(1) AeMCs and AMEs that it has certified;
+
+(2) AMEs certified by other competent authorities exercising their privileges in its territory and to whom it has provided a briefing in accordance with point MED.D.001(f)(3) of Annex IV (Part-MED);
+
+(3) GMPs exercising their privileges in accordance with point MED.A.040 of Annex IV (Part-MED), where applicable;
+
+(4) OHMPs having notified the competent authority of their intention to perform cabin crew aero-medical assessments in accordance with points MED.C.005(c) and MED.D.040 of Annex IV (Part-MED), where applicable.
+
+The list shall state the privileges of the persons and organisations specified in points (1) to (4) of the first paragraph and shall be published and kept updated by the competent authority.
+
+(f) The competent authority shall analyse the health data of pilots above the age of 60, especially of those involved in single-pilot HEMS operations, and report such health data in an anonymised and aggregated manner to EASA on a yearly basis.
+
+ARA.MED.160 Exchange of information on medical certificates through a central repository.
+
+(a) The Agency shall establish and manage a central repository, the European Aero-Medical Repository (EAMR).
+
+(b) For the purposes of medical certification and oversight of applicants for and holders of class 1 medical certificates and for the oversight of AMEs and AeMCs, the persons referred to in point (c) shall exchange the following information through EAMR:
+
+(1) basic data of the applicant for or holder of a class 1 medical certificate: licensing authority; surname and forename; date of birth; nationality; email address and the number of one or more identification documents (national identity card or passport) as provided by the applicant;
+
+(2) class 1 medical certificate data: date of the medical examination or, in case the medical examination is not finalised, the date of initiation of the medical examination; dates of issuing and of expiration of the class 1 medical certificate; place of the examination; status of limitations; status of that certificate (new, released, suspended or revoked); unique reference number of the medical assessor of the licensing authority; AME or AeMC issuing that certificate and of its competent authority.
+
+(c) For the purposes of point (b), the following persons shall have access to EAMR and the information contained therein:
+
+(1) medical assessors of the licensing authority of the applicant for or holder of a class 1 medical certificate, as well as any other duly authorised personnel of that authority in charge of creating or managing the record of that applicant or holder as required by this Regulation;
+
+(2) AMEs and any duly authorised personnel of AeMCs to whom that applicant or holder has provided a declaration in accordance with point MED.A.035(b)(2);
+
+(3) any duly authorised personnel of the competent authority responsible for the oversight of AMEs or AeMCs conducting aero-medical assessments of those applicants or holders.
+
+In addition, the Agency and national competent authorities may grant access to EAMR and the information contained therein to other persons, where necessary for the purposes of ensuring the proper functioning of EAMR, in particular its technical maintenance. In that case, the Agency or the national competent authority concerned shall ensure that those persons are duly authorised and qualified, that their access remains limited to what is necessary for the purposes for which they have been granted access and that they have received prior training on the applicable personal data protection legislation and related safeguards. Whenever a competent authority grants a person such access, it shall inform the Agency beforehand.
+
+(d) The licensing authorities, AMEs and AeMCs referred to in point (c) shall, each time immediately upon having examined an applicant for or a holder of a class 1 medical certificate, enter the data referred to in point (b) into EAMR or update that data where necessary.
+
+(e) Where the data constitutes personal data as defined in point a of Article 2 of Regulation (EC) No 45/2001 ( 9 ), they shall, each time when entering or updating that data, inform, ex ante, the applicant for or holder of the class 1 certificate thereof.
+
+(f) The Agency shall ensure the integrity and security of EAMR and the information contained therein by appropriate information technology infrastructure. It shall establish and apply, in consultation with the national competent authorities, the protocols and technological measures necessary to ensure that any access to EAMR and the information contained therein is lawful and secure.
+
+(g) The Agency shall ensure that any information contained in EAMR is deleted after a period of 10 years. That period shall be calculated from the date of expiration of the last class 1 certificate issued in respect of the applicant or holder concerned, or from the date of the last entry or update of data in respect of that applicant or holder, whichever date is later.
+
+(h) The Agency shall ensure that applicants for or holders of class 1 medical certificates can access any information relating to them contained in EAMR and that they are informed that they can request that information to be rectified or deleted. The licensing authorities shall assess such requests and, where they consider that the information concerned is incorrect or not necessary for the purposes specified in point (b), ensure that the information is rectified or deleted.
+
+**SECTION II**
+
+**Aero-medical examiners (AMEs)**
+
+ARA.MED.200 Procedure for the issue, revalidation, renewal or change of an AME certificate
+
+Without prejudice to the provisions laid down in point ARA.GEN.315, all of the following shall apply:
+
+(a) the competent authority shall ensure that before the issue, revalidation, renewal or extension of privileges of an AME certificate, applicants demonstrate their aero-medical competency in accordance with points MED.D.030(a)(6) and (b)(5) of Annex IV;
+
+(b) the competent authority shall have a procedure in place to ensure that, before issuing the AME certificate, it has the evidence that the AME practice is equipped and the appropriate processes are in place to perform aero-medical examinations within the scope of the AME certificate applied for. In the case of multiple AME practice locations, all of them shall be specified on the AME certificate;
+
+(c) for applicants referred to in point MED.D.020(aa) of Annex IV, the competent authority may accept an aviation medicine training course completed by an applicant outside the territories for which Member States are responsible under the Chicago Convention, provided that the competent authority has done all of the following:
+
+(1) assessed and verified that the course syllabus is equivalent to the aviation medicine training courses available in the Member States;
+
+(2) provided to the applicant a specific training module on the aero-medical requirements detailed in Annex IV (Part-MED);
+
+(d) when satisfied that the AME is in compliance with the applicable requirements, the competent authority shall issue, revalidate, renew or change the AME certificate for a period not exceeding 3 years, using the form established in Appendix VII.
+
+ARA.MED.240 General medical practitioners (GMPs) exercising the privileges in accordance with point MED.A.040 of Annex IV (Part-MED)
+
+The competent authority of a Member State shall notify the Agency and competent authorities of other Member States if aero-medical examinations for the LAPL can be carried out on its territory by GMPs.
+
+ARA.MED.245 Continuing oversight of AMEs and GMPs
+
+When developing the continuing oversight programme referred to in point ARA.GEN.305, the competent authority shall take into account:
+
+(1) the number of AMEs and GMPs exercising their privileges within the territory where the competent authority exercises oversight;
+
+(2) the number of AMEs certified by competent authorities of other Member States exercising their privileges within the territory where the competent authority exercises oversight;
+
+(3) a risk-based assessment of the AMEs’ and GMPs’ activity.
+
+ARA.MED.246 Cooperative oversight of AMEs and AeMCs
+
+Without prejudice to the provisions laid down in point ARA.GEN.300(e):
+
+(a) where an AME or AeMC carries out their activity in more than one Member State, the competent authority that certified the AME or AeMC shall have a procedure in place to ensure the exchange of information in accordance with point ARA.GEN.200(c) and points ARA.GEN.300(d) and (e) with the competent authority of the other Member State(s) where the AME or AeMC carries out their activity. The procedure shall be agreed upon by the competent authorities involved;
+
+(b) in the case mentioned in point (a), the competent authority of the other Member State(s) where the AME or AeMC carries out their activity shall share all information relevant to the oversight of the AME or AeMC with the competent authority certificating the AME or AeMC.
+
+ARA.MED.250 Limitation, suspension or revocation of an AME certificate
+
+(a) The competent authority shall limit, suspend or revoke an AME certificate in the following circumstances:
+
+(1) the AME does not comply with applicable requirements;
+
+(2) failure to meet the criteria for certification or continuing certification;
+
+(3) deficiency of aero-medical record-keeping or submission of incorrect data or information;
+
+(4) falsification of medical records, certificates or documentation;
+
+(5) concealment of facts appertaining to an application for, or holder of, a medical certificate or false or fraudulent statements or representations to the competent authority;
+
+(6) failure to correct findings from audit of the AME practice; —————
+
+(7) at the request of the certified AME; and
+
+(8) any operational context of the AME that may have a direct or indirect negative impact on flight safety.
+
+(b) The certificate of an AME shall be considered invalid in either of the following circumstances and the competent authority shall immediately revoke it:
+
+(1) revocation of medical licence to practice; or
+
+(2) removal from the Medical Register.
+
+(c) The competent authority shall have a process in place for retrieval of the revoked AME certificates, shall update the AME list, and inform the competent authorities of the other Member States accordingly.
+
+ARA.MED.255 Enforcement measures
+
+If, during oversight or by any other means, evidence is found showing a non-compliance of an AeMC, an AME or a GMP, the competent authority shall have a process to review the medical certificates issued by that AeMC, AME or GMP and may render them invalid, where required, to ensure flight safety.
+
+For medical certificates issued to applicants who have a licensing authority different from the competent authority that issued the AME certificate, that competent authority shall inform and exchange relevant information with the medical assessor of the licensing authority of the affected medical certificate holder.
+
+**SECTION III**
+
+**Medical certification**
+
+ARA.MED.315 Review of examination reports
+
+The licensing authority shall have a process in place for the medical assessor to take the following steps:
+
+(a) review examination and assessment reports received from the AeMCs, AMEs and GMPs and inform them of any inconsistencies, mistakes or errors made in the assessment process;
+
+(aa) take the appropriate corrective actions for any inconsistencies, mistakes or errors identified;
+
+(b) assist AMEs and AeMCs on their request regarding their decision on aero-medical fitness in borderline and complex cases.
+
+ARA.MED.325 Secondary review procedure
+
+The competent authority shall establish a procedure for the review of borderline and complex cases and cases where an applicant requests a review in accordance with the applicable medical requirements and accredited medical conclusion as defined in point MED.A.010 of Annex IV (Part-MED).
+
+**SUBPART DTO**
+
+**SPECIFIC REQUIREMENTS RELATING TO DECLARED TRAINING ORGANISATIONS (DTOs)**
+
+**ARA.DTO.100 Declaration to the competent authority**
+
+(a) Upon receiving a declaration from a DTO, the competent authority shall verify that the declaration contains all the information specified in point DTO.GEN.115 of Annex VIII (Part-DTO) and acknowledge receipt of the declaration, including the assignment of an individual DTO reference number to the representative of the DTO.
+
+(b) If the declaration does not contain the required information or contains information that indicates a non-compliance with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139, with the requirements of Annex I (Part-FCL) and Annex VIII (Part-DTO) to this Regulation, or with the requirements of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, the competent authority shall act in accordance with point ARA.GEN.350(da).
+
+**ARA.DTO.105 Changes to declarations**
+
+Upon receiving a notification of a change to the information contained in the declaration of a DTO, the competent authority shall act in accordance with point ARA.DTO.100.
+
+**ARA.DTO.110 Verification of compliance of the training programme**
+
+(a) Upon receiving the training programmes of a DTO, and any changes thereto, notified to it in accordance with point DTO.GEN.115(c) of Annex VIII (Part-DTO) or the application for approval of the training programmes of a DTO submitted to it in accordance with point DTO.GEN.230(c) of that Annex, the competent authority shall verify the compliance of those training programmes with the requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable.
+
+(b) When satisfied that the DTO training programme, and any subsequent changes thereto, are in compliance with those requirements, the competent authority shall inform the representative of the DTO thereof in writing or, in the case referred to in point DTO.GEN.230(c) of Annex VIII (Part-DTO), approve the training programme. For such approval it shall use the form contained in Appendix VIII to this Annex (Part-ARA).
+
+(c) In case of any non-compliance, the competent authority shall act in accordance with point ARA.GEN.350(da) or, in the case referred to in point DTO.GEN.230(c) of Annex VIII (Part-DTO), reject the application for approval of the training programme.
+
+## Appendix I
+
+**Flight crew licence**
+
+The flight crew licence issued by a Member State in accordance with Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 shall conform to the following specifications:
+
+(a) Content. The item number shown shall always be printed in association with the item heading. Items I to XI are the ‘permanent’ items and items XII to XIV are the ‘variable’ items which may appear on a separate or detachable part of the main form. Any separate or detachable part shall be clearly identifiable as part of the licence.
+
+(1) Permanent items:
+
+(I) State of licence issue;
+
+(II) title of licence;
+
+(III) serial number of the licence commencing with the UN country code of the State of licence issue and followed by ‘FCL’, ‘BFCL’ or ‘SFCL’, as applicable, and a code of numbers and/or letters in Arabic numerals and in Latin script;
+
+(IV) name of holder (in Latin script, even if the script of the national language(s) is other than Latin);
+
+(IVa) date of birth;
+
+(V) holder's address;
+
+(VI) nationality of holder;
+
+(VII) signature of holder;
+
+(VIII) competent authority and, where necessary, conditions under which the licence was issued;
+
+(IX) certification of validity and authorisation for the privileges granted;
+
+(X) signature of the officer issuing the licence and the date of issue; and
+
+(XI) seal or stamp of the competent authority.
+
+(2) Variable items:
+
+(XII) ratings, certificates and, in the case of balloons and sailplanes, privileges: class, type, instructor certificates, etc., with dates of expiry, as applicable. Radio telephony (R/T) privileges may appear on the licence or on a separate certificate;
+
+(XIII) remarks: i.e. special endorsements relating to limitations and endorsements for privileges, including endorsements of language proficiency, and remarks on the automatic validation of the licence; and
+
+(XIV) any other details required by the competent authority (e.g. place of birth/place of origin).
+
+(b) Material. The paper or other material used will prevent or readily show any alterations or erasures. Any entries or deletions to the form will be clearly authorised by the competent authority.
+
+(c) Language. Licences shall be written in the national language(s) and in English and such other languages as the competent authority deems appropriate.
+
+**Cover page**
+
+Text of image
+
+Competent authority name and logo
+
+(English and any language(s) determined by the competent authority)
+
+EUROPEAN UNION
+
+(English only)
+
+FLIGHT CREW LICENCE
+
+(English and any language(s) determined by the competent authority)
+
+Issued in accordance with Part-FCL
+
+This licence complies with ICAO standards, except for the LAPL and EIR privileges
+
+(English and any language(s) determined by the competent authority)
+
+EASA Form 141 Issue 2
+
+Requirements
+
+“European Union” to be deleted for non-EU Member States
+
+Size of each page shall be one eighth A4
+
+►(1)(2) M12
+
+►(3)(4) M22
+
+**Page 2**
+
+Text of image
+
+I
+
+State of issue
+
+Requirements
+
+III
+
+Licence number
+
+Serial number of the licence will always commence with the UN country code of the State of licence issue followed by “.FCL.”.
+
+IV
+
+Last and first name of holder
+
+IVa
+
+Date of birth (see instructions)
+
+Standard date format is to be used, dd/mm/yyyy in full.
+
+XIV
+
+Place of birth
+
+V
+
+Address of holder:
+
+Street, town, area, postal code
+
+VI
+
+Nationality
+
+VII
+
+Signature of holder
+
+VIII
+
+Issuing competent authority
+
+E.g. This CPL(A) has been issued on the basis of an ATPL issued by (third county)
+
+X
+
+Signature of issuing officer and date
+
+XI
+
+Seal or stamp of issuing competent authority
+
+►(1) M12
+
+**Page 3**
+
+Text of image
+
+II
+
+Title of the licence, date of initial issue and country code
+
+Abbreviations used will be as used in Part-FCL (e.g. PPL(H), ATPL(A), etc.)
+
+Standard date format is to be used, dd/mm/yyyy in full.
+
+IX
+
+Validity: The privileges of the licence shall be exercised only if the holder has a valid medical certificate for the required privilege.
+
+A document containing a photo shall be carried for the purposes of identification of the licence holder.
+
+This document is not specified, but a passport would suffice when outside the State of licence issue.
+
+XII
+
+Radiotelephony privileges: The holder of this licence has demonstrated competence to operate R/T equipment on board aircraft in (specify the language(s)).
+
+XIII
+
+Remarks:
+
+Language Proficiency:
+
+(language(s)/level/validity date)
+
+All additional licensing information required and privileges established by ICAO, EC or EU Directives/Regulations to be entered here.
+
+Language proficiency endorsement(s), level and validity date shall be included.
+
+In case of LAPL: LAPL not issued in accordance with ICAO standards
+
+►(1)(2) M12
+
+►(3) M14
+
+**Additional pages — Requirements:**
+
+Pages 1, 2, and 3 of the licence shall be in accordance with the format laid down in the model in this point. The competent authority shall include additional customized pages containing tables which shall contain at least the following information:
+
+— Ratings, certificates, endorsements and privileges;
+
+— Expiry dates of the ratings, the instructor and examiner certificate privileges;
+
+— Dates of the test or check;
+
+— Remarks and restrictions (operational limitations);
+
+— Fields for the examiner and/or instructor certificate number and signature, as applicable;
+
+— Abbreviations.
+
+These additional pages are intended for use by the competent authority, or by specifically authorised instructors or examiners.
+
+Initial issues of ratings or certificates shall be entered by the competent authority. Revalidation or renewal of ratings or certificates may be entered by the competent authority or by specifically authorised instructors or examiners.
+
+Operational limitations shall be entered in ‘Remarks and Restrictions’ against the appropriate restricted privilege, e.g. IR skill test taken with co-pilot, restricted instruction privileges to 1 aircraft type.
+
+Ratings that are not validated may be removed from the licence by the competent authority.
+
+## Appendix II to ANNEX VI PART-ARA
+
+**Standard EASA format for cabin crew attestations**
+
+Cabin crew attestations issued in accordance with Part-CC in a Member State shall conform to the following specifications:
+
+Text of image
+
+1\. CABIN CREW ATTESTATION
+
+Issued in accordance with Part-CC
+
+2\. Reference number:
+
+3\. State of issue:
+
+4\. Full name of holder:
+
+5\. Date and place of birth:
+
+6\. Nationality:
+
+7\. Signature of holder:
+
+8\. Competent authority:
+
+9\. Issuing body: Official seal, Stamp or Logo
+
+10\. Signature of issuing officer:
+
+11\. Date of issue:
+
+12\. The holder may only exercise the privileges to act as cabin crew on aircraft engaged in commercial air transport operations if he/she complies with the requirements in Part-CC for continuous fitness and valid aircraft type qualifications.
+
+EASA Form 142 Issue 1
+
+Instructions:
+
+(a) The cabin crew attestation shall include all items specified in EASA Form 142 in accordance with items 1 - 12 as listed and described below.
+
+(b) Size shall be either 105mm × 74mm (one-eighth A4) or 85mm × 54mm, and the material used shall prevent or readily show any alterations or erasures.
+
+(c) The document shall be printed in English and such other languages as the competent authority deems appropriate.
+
+(d) The document shall be issued by the competent authority or by an organisation approved to issue cabin crew attestations. In that latter case reference to the approval by the competent authority of the Member State shall be stated.
+
+(e) The cabin crew attestation is recognised in all Member States and it is not necessary to exchange the document when working in another Member State.
+
+| Item 1 | : | The title ‘CABIN CREW ATTESTATION’ and the reference to Part-CC. |
+| --- | --- | --- |
+
+| Item 2 | : | Attestation reference number shall commence with the UN country code of the Member State followed by at least the two last numbers of the year of issue and an individual reference/number according to a code established by the competent authority (e.g. BE-08-xxxx). |
+| --- | --- | --- |
+
+| Item 3 | : | The Member State where the attestation is issued. |
+| --- | --- | --- |
+
+| Item 4 | : | The full name (surname and first name) stated in the official identity document of the holder. |
+| --- | --- | --- |
+
+| Items 5 and 6 | : | Date and place of birth as well as nationality as stated in the official identity document of the holder. |
+| --- | --- | --- |
+
+| Item 7 | : | The signature of the holder. |
+| --- | --- | --- |
+
+| Item 8 | : | Identification details of the competent authority of the Member State where the attestation is issued shall be entered and shall provide the full name of the competent authority, postal address, and official seal, stamp or logo as applicable. |
+| --- | --- | --- |
+
+| Item 9 | : | If the competent authority is the issuing body, the term ‘competent authority’ and official seal, stamp or logo shall be entered. In this case only, the competent authority may determine if its official seal, stamp or logo shall also be entered under Item 8. |
+| --- | --- | --- |
+
+| Item 10 | : | The signature of the officer acting on behalf of the issuing body. |
+| --- | --- | --- |
+
+| Item 11 | : | Standard date format shall be used: i.e. day/month/year in full (e.g. 22/02/2008). |
+| --- | --- | --- |
+
+| Item 12 | : | The same sentence in English and its full and precise translation into such other languages as the competent authority deems appropriate. |
+| --- | --- | --- |
+
+## Appendix III to ANNEX VI PART-ARA
+
+**CERTIFICATE FOR APPROVED TRAINING ORGANISATIONS (ATOs)**
+
+**European Union ***
+
+**Competent Authority**
+
+**APPROVED TRAINING ORGANISATION CERTIFICATE**
+
+[CERTIFICATE NUMBER/REFERENCE]
+
+Pursuant to Commission Regulation (EU) No 1178/2011 [and Commission Regulation (EU) 2018/395/Commission Implementing Regulation (EU) 2018/1976 (ADJUST AS APPLICABLE)] and subject to the conditions specified below, the [Competent Authority] hereby certifies
+
+[NAME OF THE TRAINING ORGANISATION]
+
+[ADDRESS OF THE TRAINING ORGANISATION]
+
+as a Part-ORA certified training organisation with the privilege to provide Part-FCL training courses, including the use of FSTDs, as listed in the attached training course approval/Part-BFCL training courses/Part-SFCL training courses [ADJUST AS APPLICABLE].
+
+CONDITIONS:
+
+This certificate is limited to the privileges and the scope of providing the training courses, including the use of FSTDs, as listed in the attached training course approval.
+
+This certificate is valid whilst the approved organisation remains in compliance with Part-ORA, Part-FCL, Part-BFCL, Part-SFCL [ADJUST AS APPLICABLE] and other applicable regulations.
+
+Subject to compliance with the foregoing conditions, this certificate shall remain valid unless it has been surrendered, superseded, limited, suspended or revoked.
+
+Date of issue:
+
+Signed:
+
+[Competent Authority]
+
+* ‘European Union’ to be deleted for non-EU Member States or EASA.
+
+EASA Form 143 Issue 3 – page 1/2
+
+**APPROVED TRAINING ORGANISATION CERTIFICATE**
+
+**TRAINING COURSE APPROVAL**
+
+Attachment to ATO Certificate Number:
+
+[CERTIFICATE NUMBER/REFERENCE]
+
+[NAME OF THE TRAINING ORGANISATION]
+
+has obtained the privilege to provide and conduct the following Part-FCL/Part-BFCL/Part-SFCL [ADJUST AS APPLICABLE] training courses and to use the following FSTDs:
+
+<table>
+<tbody><tr><td>Training course</td><td>FSTD(s) used, including letter code (1)</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">(1)  as indicated on the qualification certificate </td></tr>
+</tbody>
+</table>
+
+This training course approval is valid as long as:
+
+(a) the ATO certificate has not been surrendered, superseded, limited, suspended or revoked; and
+
+(b) all operations are conducted in compliance with Part-ORA, Part-FCL, Part-BFCL, Part-SFCL [ADJUST AS APPLICABLE], other applicable regulations, and, when relevant, with the procedures in the organisation’s documentation as required by Part-ORA.
+
+Date of issue:
+
+Signed: [Competent Authority]
+
+For the Member State/EASA
+
+EASA Form 143 Issue 3 – page 2/2
+
+## Appendix IV to ANNEX VI PART-ARA
+
+**FLIGHT SIMULATION TRAINING DEVICE QUALIFICATION CERTIFICATE**
+
+**Introduction**
+
+EASA Form 145 shall be used for the FSTD qualification certificate. This document shall contain the FSTD Specification including any limitation(s) and special authorisation(s) or approval(s) as appropriate to the FSTD concerned. The qualification certificate shall be printed in English and in any other language(s) determined by the competent authority.
+
+Convertible FSTDs shall have a separate qualification certificate for each aircraft type. Different engine and equipment fit on one FSTD shall not require separate qualification certificates. All qualification certificates shall carry a serial number prefixed by a code in letters, which shall be specific to that FSTD. The letter code shall be specific to the competent authority of issue.
+
+Text of image
+
+European Union (*)
+
+Competent Authority
+
+FLIGHT SIMULATION TRAINING DEVICE QUALIFICATION CERTIFICATE
+
+REFERENCE:
+
+Pursuant to Commission Regulation (EU) No 1178/2011 and subject to the conditions specified below, the [competent authority] hereby certifies that
+
+FSTD [TYPE AND LETTER CODE]
+
+located at [NAME and ADDRESS OF THE ORGANISATION]
+
+has satisfied the qualification requirements prescribed in Part-OR, subject to the conditions of the attached FSTD specification
+
+This qualification certificate shall remain valid subject to the FSTD and the holder of the qualification certificate remaining in compliance with the applicable requirements of Part-OR, unless it has been surrendered, superseded, suspended or revoked.
+
+Date of issue: …
+
+Signed: …
+
+(*) “European Union” to be deleted for non-EU Member States.
+
+EASA Form 145 Issue 1 – page 1/2
+
+Text of image
+
+[competent authority]
+
+FSTD QUALIFICATION CERTIFICATE: [Reference]
+
+FSTD SPECIFICATIONS
+
+A. Type or variant of aircraft:
+
+B. FSTD qualification level:
+
+C. Primary reference document:
+
+D. Visual system:
+
+E. Motion system:
+
+F. Engine fit:
+
+G. Instrument fit:
+
+H. ACAS fit:
+
+I. Windshear:
+
+J. Additional capabilities:
+
+K. Restrictions or limitations:
+
+L. Guidance information for training, testing and checking considerations
+
+CAT I
+
+RVR
+
+m
+
+DH
+
+ft
+
+CAT II
+
+RVR
+
+m
+
+DH
+
+ft
+
+CAT III
+
+RVR
+
+m
+
+DH
+
+ft
+
+(lowest minimum)
+
+LVTO
+
+RVR
+
+m
+
+Recency
+
+IFR-training/check
+
+/
+
+Type rating
+
+Proficiency checks
+
+Autocoupled approach
+
+Autoland/roll out guidance
+
+/
+
+ACAS I/II
+
+/
+
+Windshear warning system/predictive windshear
+
+/
+
+WX-radar
+
+HUD/HUGS
+
+/
+
+FANS
+
+GPWS/EGPWS
+
+/
+
+ETOPS capability
+
+GPS
+
+Other
+
+Date of issue: …
+
+Signed: …
+
+For the Member State/EASA
+
+EASA Form 145 Issue 1 – page 2/2
+
+►(1) M20
+
+## Appendix V to ANNEX VI PART-ARA
+
+**CERTIFICATE FOR AERO-MEDICAL CENTRES (AeMCs)**
+
+**European Union ( 10 )**
+
+**Competent Authority**
+
+**AERO-MEDICAL CENTRE CERTIFICATE**
+
+**REFERENCE:**
+
+Pursuant to Commission Regulation (EU) No 1178/2011 and Regulation (EU) 2015/340 ( 11 ) and subject to the conditions specified below, the [competent authority] hereby certifies
+
+[NAME OF THE ORGANISATION]
+
+[ADDRESS OF THE ORGANISATION]
+
+as a Part-ORA certified Aero-medical centre with the privileges and the scope of activities as listed in the attached terms of approval.
+
+**CONDITIONS:**
+
+1\. This certificate is limited to that specified in the scope of approval section of the approved organisation manual;
+
+2\. This certificate requires compliance with the procedures specified in the organisation documentation as required by Part- ORA.
+
+3\. This certificate shall remain valid subject to compliance with the requirements of Part-ORA unless it has been surrendered, superseded, suspended or revoked.
+
+| Date of issue: dd/mm/yyyy | Signature: [Competent Authority] |
+| --- | --- |
+
+EASA Form 146 Issue 2
+
+**AERO-MEDICAL CENTRE CERTIFICATE**
+
+Attachment ( 12 ) to AeMC certificate number:
+
+**PRIVILEGES AND SCOPE**
+
+[Name of the organisation] has obtained the privilege(s) to undertake aero-medical examinations and assessments for the issuance of medical certificates and medical reports as stated in the table below and to issue these medical certificates and medical reports for:
+
+<table>
+<tbody><tr><td>  </td><td>Initial/revalidation/renewal</td><td>Date of issue</td></tr>
+<tr><td>Class 1</td><td>  </td><td>  </td></tr>
+<tr><td>Class 2/LAPL/Cabin Crew</td><td>  </td><td>  </td></tr>
+<tr><td>Class 3 (1)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">(1)  Class 3 shall be added only for the AeMCs approved to perform class 3 aero-medical examinations. </td></tr>
+</tbody>
+</table>
+
+| Date: dd/mm/yyyy | Signature: [Competent Authority] |
+| --- | --- |
+
+## Appendix VI to ANNEX VI PART-ARA
+
+(BLANK PAGE)
+
+## Appendix VII to ANNEX VI PART-ARA
+
+**CERTIFICATE FOR AERO-MEDICAL EXAMINERS (AMEs)**
+
+**European Union ( 13 )**
+
+**Competent Authority**
+
+**AERO-MEDICAL EXAMINER CERTIFICATE**
+
+**CERTIFICATE NUMBER/REFERENCE:**
+
+Pursuant to Commission Regulation (EU) No 1178/2011 and Regulation (EU) 2015/340 ( 14 ) and subject to the conditions specified below, the [competent authority] hereby certifies
+
+[NAME OF THE AERO-MEDICAL EXAMINER]
+
+[PRACTICE ADDRESS(ES) OF THE AERO-MEDICAL EXAMINER]
+
+as aero-medical examiner
+
+**CONDITIONS:**
+
+1\. This certificate is limited to the privileges specified in the attachment to this AME certificate;
+
+2\. This certificate requires compliance with the implementing rules and procedures specified in Part-MED/Part ATCO.MED (14) .
+
+3\. This certificate shall remain valid from [dd/mm/yyyy] until [dd/mm/yyyy ( 15 )] subject to compliance with the requirements of Part-MED/Part ATCO.MED (14) unless it has been surrendered, superseded, suspended or revoked.
+
+| Date of issue: dd/mm/yyyy | Signature: [Competent Authority] |
+| --- | --- |
+
+EASA Form 148 Issue 2
+
+**AERO-MEDICAL EXAMINER CERTIFICATE**
+
+Attachment ( 16 ) to the AME certificate number:
+
+**PRIVILEGES AND SCOPE**
+
+[Name and academic title of the aero-medical examiner] has obtained the privilege(s) to undertake aero-medical examinations and assessments for the issuance of medical certificates and medical reports as stated in the table below and to issue these medical certificates and medical reports for:
+
+<table>
+<tbody><tr><td>Class 1 revalidation/renewal</td><td>[valid until]/[Not Applicable]</td></tr>
+<tr><td>Class 2/LAPL/Cabin crew Initial/revalidation/renewal</td><td>[valid until]</td></tr>
+<tr><td>Class 3 (1) revalidation/renewal</td><td>[valid until]/[Not Applicable]</td></tr>
+<tr><td colspan="2">(1)  Class 3 shall be added only for the AMEs approved to perform class 3 aero-medical examinations. </td></tr>
+</tbody>
+</table>
+
+| Date of issue: dd/mm/yyyy | Signature: [Competent Authority] |
+| --- | --- |
+
+## Appendix VIII to ANNEX VI (Part-ARA)
+
+**Training programme approval**
+
+for a declared training organisation (DTO)
+
+European Union (*)
+
+Competent authority
+
+<table>
+<tbody><tr><td colspan="3">Issuing authority:</td></tr>
+<tr><td colspan="3">Name of DTO:</td></tr>
+<tr><td colspan="3">DTO reference number:</td></tr>
+<tr><td colspan="3">  </td></tr>
+<tr><td>Training programme(s) approved: Examiner standardisation – FE(S), FE(B) (**)  Examiner refresher course – FE(S), FE(B) (**) </td><td>Doc reference:</td><td>Remarks:</td></tr>
+<tr><td colspan="3">The above-mentioned training programme(s) has (have) been verified by the above-mentioned competent authority and found to be in compliance with the requirements of Annex I (Part-FCL) to Commission Regulation (EU) No 1178/2011, Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.</td></tr>
+<tr><td colspan="3">Date of issue:</td></tr>
+<tr><td colspan="3">Signed: [competent authority]</td></tr>
+<tr><td colspan="3">(*) ‘European Union’ to be deleted for non-EU Member States. (**) To be adjusted as applicable. </td></tr>
+</tbody>
+</table>
+
+EASA Form 157 – Issue 2  – Page 1/1
+
+## ANNEX VII
+
+**ORGANISATION REQUIREMENTS FOR AIRCREW**
+
+**[PART-ORA]**
+
+**SUBPART GEN**
+
+**GENERAL REQUIREMENTS**
+
+**SECTION I**
+
+**General**
+
+ORA.GEN.105 Competent authority
+
+(a) For the purpose of this Part, the competent authority exercising oversight over:
+
+(1) organisations subject to a certification obligation shall be:
+
+(i) for organisations having their principal place of business in a Member State, the authority designated by that Member State;
+
+(ii) for organisations having their principal place of business located in a third country, the Agency;
+
+(2) FSTDs shall be:
+
+(i) the Agency, for FSTDs:
+
+— located outside the territory of the Member States, or,
+
+— located within the territory of the Member States and operated by organisations having their principal place of business located in a third country,
+
+(ii) for FSTDs located within the territory of the Member States and operated by organisations having their principal place of business in a Member State, the authority designated by the Member State where the organisation operating it has its principle place of business, or the Agency, if so requested by the Member State concerned.
+
+(b) When the FSTD located outside the territory of the Member States is operated by an organisation certified by a Member State, the Agency shall qualify this FSTD in coordination with the Member State that has certified the organisation that operates such FSTD.
+
+ORA.GEN.115 Application for an organisation certificate
+
+(a) The application for an organisation certificate or an amendment to an existing certificate shall be made in a form and manner established by the competent authority, taking into account the applicable requirements of Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(b) Applicants for an initial certificate shall provide the competent authority with documentation demonstrating how they will comply with the requirements established in Regulation (EC) No 216/2008 and its Implementing Rules. Such documentation shall include a procedure describing how changes not requiring prior approval will be managed and notified to the competent authority.
+
+ORA.GEN.120 Means of compliance
+
+(a) Alternative means of compliance to the AMC adopted by the Agency may be used by an organisation to establish compliance with Regulation (EC) No 216/2008 and its Implementing Rules.
+
+(b) When an organisation wishes to use an alternative means of compliance, it shall, prior to implementing it, provide the competent authority with a full description of the alternative means of compliance. The description shall include any revisions to manuals or procedures that may be relevant, as well as an assessment demonstrating that Regulation (EC) No 216/2008 and its Implementing Rules are met.
+
+The organisation may implement these alternative means of compliance subject to prior approval by the competent authority and upon receipt of the notification as prescribed in ARA.GEN.120(d).
+
+ORA.GEN.125 Terms of approval and privileges of an organisation
+
+A certified organisation shall comply with the scope and privileges defined in the terms of approval attached to the organisation’s certificate.
+
+ORA.GEN.130 Changes to organisations
+
+(a) Any change affecting:
+
+(1) the scope of the certificate or the terms of approval of an organisation; or
+
+(2) any of the elements of the organisation’s management system as required in ORA.GEN.200(a)(1) and (a)(2),
+
+shall require prior approval by the competent authority.
+
+(b) For any changes requiring prior approval in accordance with Regulation (EC) No 216/2008 and its Implementing Rules, the organisation shall apply for and obtain an approval issued by the competent authority. The application shall be submitted before any such change takes place, in order to enable the competent authority to determine continued compliance with Regulation (EC) No 216/2008 and its Implementing Rules and to amend, if necessary, the organisation certificate and related terms of approval attached to it.
+
+The organisation shall provide the competent authority with any relevant documentation.
+
+The change shall only be implemented upon receipt of formal approval by the competent authority in accordance with ARA.GEN.330.
+
+The organisation shall operate under the conditions prescribed by the competent authority during such changes, as applicable.
+
+(c) All changes not requiring prior approval shall be managed and notified to the competent authority as defined in the procedure approved by the competent authority in accordance with ARA.GEN.310(c).
+
+ORA.GEN.135 Continued validity
+
+(a) The organisation’s certificate shall remain valid subject to:
+
+(1) the organisation remaining in compliance with the relevant requirements of Regulation (EC) No 216/2008 and its Implementing Rules, taking into account the provisions related to the handling of findings as specified under ORA.GEN.150;
+
+(2) the competent authority being granted access to the organisation as defined in ORA.GEN.140 to determine continued compliance with the relevant requirements of Regulation (EC) No 216/2008 and its Implementing Rules; and
+
+(3) the certificate not being surrendered or revoked.
+
+(b) Upon revocation or surrender the certificate shall be returned to the competent authority without delay.
+
+ORA.GEN.140 Access
+
+For the purpose of determining compliance with the relevant requirements of Regulation (EC) No 216/2008 and its Implementing Rules, the organisation shall grant access to any facility, aircraft, document, records, data, procedures or any other material relevant to its activity subject to certification, whether it is contracted or not, to any person authorised by:
+
+(a) the competent authority defined in ORA.GEN.105; or
+
+(b) the authority acting under the provisions of ARA.GEN.300(d), ARA.GEN.300(e) or ARO.RAMP.
+
+ORA.GEN.150 Findings
+
+After receipt of notification of findings, the organisation shall:
+
+(a) identify the root cause of the non-compliance;
+
+(b) define a corrective action plan; and
+
+(c) demonstrate corrective action implementation to the satisfaction of the competent authority within a period agreed with that authority as defined in ARA.GEN.350(d).
+
+ORA.GEN.155 Immediate reaction to a safety problem
+
+The organisation shall implement:
+
+(a) any safety measures mandated by the competent authority in accordance with ARA.GEN.135(c); and
+
+(b) any relevant mandatory safety information issued by the Agency, including airworthiness directives.
+
+ORA.GEN.160 Occurrence reporting
+
+(a) As part of its management system, the organisation shall establish and maintain an occurrence-reporting system, including mandatory and voluntary reporting. For organisations having their principal place of business in a Member State, that system shall meet the requirements of Regulation (EU) No 376/2014 and Regulation (EU) 2018/1139 as well as the delegated and implementing acts adopted on the basis of those Regulations.
+
+(b) The organisation shall report to the competent authority and, in case of aircraft not registered in a Member State, the State of Registry any safety-related event or condition that endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person, and in particular any accident or serious incident.
+
+(c) Without prejudice to point (b), the organisation shall report to the competent authority and the design approval holder of the aircraft any incident, malfunction, technical defect, exceeding of technical limitations, occurrence that would highlight inaccurate, incomplete or ambiguous information, contained in data established in accordance with Regulation (EU) No 748/2012, or other irregular circumstance that has or may have endangered an aircraft, its occupants or any other person and has not resulted in an accident or serious incident.
+
+(d) Without prejudice to Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof, reports in accordance with point (c) shall:
+
+(1) be made as soon as practicable, but in any case no later than 72 hours after the organisation has identified the event or condition to which the report relates unless exceptional circumstances prevent this;
+
+(2) be made in a form and manner established by the competent authority, as defined in point ORA.GEN.105;
+
+(3) contain all pertinent information about the condition known to the organisation.
+
+(e) For organisations not having their principal place of business in a Member State:
+
+(1) initial mandatory reports shall:
+
+(i) appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in the report;
+
+(ii) be made as soon as practicable, but in any case, no later than 72 hours after the organisation has become aware of the occurrence unless exceptional circumstances prevent this;
+
+(iii) be made in a form and manner established by the Agency;
+
+(iv) contain all pertinent information about the condition known to the organisation;
+
+(2) where relevant, a follow-up report providing details of actions the organisation intends to take to prevent similar occurrences in the future shall be made as soon as those actions have been identified; those follow-up reports shall:
+
+(i) be sent to relevant entities initially reported to in accordance with points (b) and (c);
+
+(ii) be made in a form and manner established by the Agency.
+
+**SECTION II**
+
+**Management**
+
+ORA.GEN.200 Management system
+
+(a) The organisation shall establish, implement and maintain a management system that includes:
+
+(1) clearly defined lines of responsibility and accountability throughout the organisation, including a direct safety accountability of the accountable manager;
+
+(2) a description of the overall philosophies and principles of the organisation with regard to safety, referred to as the safety policy;
+
+(3) the identification of aviation safety hazards entailed by the activities of the organisation, their evaluation and the management of associated risks, including taking actions to mitigate the risk and verify their effectiveness;
+
+(4) maintaining personnel trained and competent to perform their tasks;
+
+(5) documentation of all management system key processes, including a process for making personnel aware of their responsibilities and the procedure for amending this documentation;
+
+(6) a function to monitor compliance of the organisation with the relevant requirements. Compliance monitoring shall include a feedback system of findings to the accountable manager to ensure effective implementation of corrective actions as necessary; and
+
+(7) any additional relevant requirements prescribed in Regulation (EU) 2018/1139 and in Regulation (EU) No 376/2014 as well as in the delegated and implementing acts adopted on the basis thereof.
+
+(b) The management system shall correspond to the size of the organisation and the nature and complexity of its activities, taking into account the hazards and associated risks inherent in these activities.
+
+(c) Notwithstanding point (a), in an organisation providing training only for the LAPL, PPL, SPL or BPL and the associated ratings or certificates, safety risk management and compliance monitoring defined in points (a)(3) and (a)(6) may be accomplished by an organisational review, to be performed at least once every calendar year. The competent authority shall be notified about the results of this review by the organisation without undue delay.
+
+ORA.GEN.200A Information security management system
+
+In addition to the management system referred to in point ORA.GEN.200, the organisation shall establish, implement and maintain an information security management system in accordance with Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+ORA.GEN.205 Contracted activities
+
+(a) Contracted activities include all activities within the organisation’s scope of approval that are performed by another organisation either itself certified to carry out such activity or if not certified, working under the contracting organisation’s approval. The organisation shall ensure that when contracting or purchasing any part of its activity, the contracted or purchased service or product conforms to the applicable requirements.
+
+(b) When the certified organisation contracts any part of its activity to an organisation that is not itself certified in accordance with this Part to carry out such activity, the contracted organisation shall work under the approval of the contracting organisation. The contracting organisation shall ensure that the competent authority is given access to the contracted organisation, to determine continued compliance with the applicable requirements.
+
+ORA.GEN.210 Personnel requirements
+
+(a) The organisation shall appoint an accountable manager, who has the authority for ensuring that all activities can be financed and carried out in accordance with the applicable requirements. The accountable manager shall be responsible for establishing and maintaining an effective management system.
+
+(b) A person or group of persons shall be nominated by the organisation, with the responsibility of ensuring that the organisation remains in compliance with the applicable requirements. Such person(s) shall be ultimately responsible to the accountable manager.
+
+(c) The organisation shall have sufficient qualified personnel for the planned tasks and activities to be performed in accordance with the applicable requirements.
+
+(d) The organisation shall maintain appropriate experience, qualification and training records to show compliance with paragraph (c).
+
+(e) The organisation shall ensure that all personnel are aware of the rules and procedures relevant to the exercise of their duties.
+
+ORA.GEN.215 Facility requirements
+
+The organisation shall have facilities allowing the performance and management of all planned tasks and activities in accordance with the applicable requirements.
+
+ORA.GEN.220 Record-keeping
+
+(a) The organisation shall establish a system of record–keeping that allows adequate storage and reliable traceability of all activities developed, covering in particular all the elements indicated in ORA.GEN.200.
+
+(b) The format of the records shall be specified in the organisation’s procedures.
+
+(c) Records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+**SUBPART ATO**
+
+**APPROVED TRAINING ORGANISATIONS**
+
+**SECTION I**
+
+**General**
+
+ORA.ATO.100 Scope
+
+This Subpart establishes the requirements to be met by organisations providing training for pilot licences and associated ratings and certificates.
+
+ORA.ATO.105 Application
+
+(a) Applicants for the issue of a certificate as an approved training organisation (ATO) shall provide the competent authority with:
+
+(1) the following information:
+
+(i) name and address of the training organisation;
+
+(ii) date of intended commencement of activity;
+
+(iii) personal details and qualifications of the head of training (HT), the flight instructor(s), flight simulation training instructors and the theoretical knowledge instructor(s);
+
+(iv) name(s) and address(es) of the aerodromes(s) and/or operating site(s) at which the training is to be conducted;
+
+(v) list of aircraft to be operated for training, including their group, class or type, registration, owners and category of the certificate of airworthiness, if applicable
+
+(vi) list of flight simulation training devices (FSTDs) that the training organisation intends to use, if applicable;
+
+(vii) the type of training that the training organisation wishes to provide and the corresponding training programme; and
+
+(2) the operations and training manuals.
+
+(b) Flight test training organisations. Notwithstanding (a)(1)(iv) and (v), training organisations providing flight test training shall only need to provide:
+
+(1) the name(s) and address(es) of the main aerodromes and/or operating site(s) at which the training is to be conducted; and
+
+(2) a list of the types or categories of aircraft to be used for flight test training.
+
+(c) In the case of a change to the certificate, applicants shall provide the competent authority with the relevant parts of the information and documentation referred to in (a).
+
+ORA.ATO.110 Personnel requirements
+
+(a) An HT shall be nominated. The HT shall have extensive experience as an instructor in the areas relevant for the training provided by the ATO and shall possess sound managerial capability.
+
+(b) The HT’s responsibilities shall include:
+
+(1) ensuring that the training provided is in compliance with Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395, Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable, and, in the case of flight test training, that the relevant requirements of Annex I (Part 21) to Commission Regulation (EU) No 748/2012 and the training programme have been established;
+
+(2) ensuring the satisfactory integration of flight training in an aircraft or a flight simulation training device (FSTD) and theoretical knowledge instruction; and
+
+(3) supervising the progress of individual students.
+
+(c) Theoretical knowledge instructors shall have:
+
+(1) practical background in aviation in the areas relevant for the training provided and have undergone a course of training in instructional techniques; or
+
+(2) previous experience in giving theoretical knowledge instruction and an appropriate theoretical background in the subject on which they will provide theoretical knowledge instruction.
+
+(d) Flight instructors and flight simulation training instructors shall hold the qualifications required by Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 for the type of training they provide.
+
+ORA.ATO.120 Record-keeping
+
+The following records shall be kept throughout the course and for a period of three years after the completion of the training:
+
+(a) details of ground, flight, and simulated flight training given to individual students;
+
+(b) detailed and regular progress reports from instructors including assessments, and regular progress flight tests and ground examinations; and
+
+(c) information on the licences and associated ratings and certificates of the students, including the expiry dates of medical certificates and ratings.
+
+ORA.ATO.125 Training programme
+
+(a) A training programme shall be developed for each type of course offered.
+
+(b) The training programme shall comply with the requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395, Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable, and, in the case of flight test training, the relevant requirements of Annex I (Part 21) to Commission Regulation (EU) No 748/2012.
+
+ORA.ATO.130 Training manual and operations manual
+
+(a) The ATO shall establish and maintain a training manual and operations manual containing information and instructions to enable personnel to perform their duties and to give guidance to students on how to comply with course requirements.
+
+(b) The ATO shall make available to staff and, where appropriate, to students the information contained in the training manual, the operations manual and the ATO’s approval documentation.
+
+(c) In the case of ATOs providing flight test training, the operations manual shall comply with the requirements for the flight test operations manual, as established in Part-21.
+
+(d) The operations manual shall establish flight time limitation schemes for flight instructors, including the maximum flying hours, maximum flying duty hours and minimum rest time between instructional duties in accordance with Part-ORO.
+
+ORA.ATO.135 Training aircraft and FSTDs
+
+(a) The ATO shall use an adequate fleet of training aircraft or FSTDs appropriately equipped for the training courses provided. The fleet of aircraft shall be composed of aircraft that comply with all requirements defined in Regulation (EU) 2018/1139. Aircraft that fall under points (a), (b), (c) or (d) of Annex I to Regulation (EU) 2018/1139, may be used for training if all of the following conditions are met:
+
+(1) during an evaluation process the competent authority has confirmed a level of safety comparable to the one defined by all essential requirements laid down in Annex II to Regulation (EU) 2018/1139;
+
+(2) the competent authority has authorised the use of the aircraft for training in the ATO.
+
+(b) The ATO shall only provide training in FSTDs when it demonstrates to the competent authority:
+
+(1) the adequacy between the FSTD specifications and the related training programme;
+
+(2) that the FSTDs used comply with the relevant requirements of Part-FCL;
+
+(3) in the case of full flight simulators (FFSs), that the FFS adequately represents the relevant type of aircraft; and
+
+(4) that it has put in place a system to adequately monitor changes to the FSTD and to ensure that those changes do not affect the adequacy of the training programme.
+
+(c) If the aircraft used for the skill test is of a different type to the FFS used for the visual flight training, the maximum credit shall be limited to that allocated for flight and navigation procedures trainer II (FNPT II) for aeroplanes and FNPT II/III for helicopters in the relevant flight training programme.
+
+(d) Flight test training organisations. Aircraft used for flight test training shall be appropriately equipped with flight testing instrumentation, according to the purpose of the training.
+
+ORA.ATO.140 Aerodromes and operating sites
+
+When providing flight training on an aircraft, the ATO shall use aerodromes or operating sites that have the appropriate facilities and characteristics to allow training of the manoeuvres relevant, taking into account the training provided and the category and type of aircraft used.
+
+ORA.ATO.145 Pre-requisites for training
+
+(a) The ATO shall ensure that the students meet all the pre-requisites for training established in Part-Medical, Part-FCL, and, if applicable, as defined in the mandatory part of the operational suitability data established in accordance with Regulation (EU) No 748/2012.
+
+(b) In the case of ATOs providing flight test training, the students shall meet all the pre-requisites for training established in accordance with Regulation (EU) No 748/2012.
+
+ORA.ATO.150 Training in third countries
+
+When the ATO is approved to provide training for the instrument rating (IR) in third countries:
+
+(a) the training programme shall include acclimatisation flying in one of the Member States before the IR skill test is taken; and
+
+(b) the IR skill test shall be taken in one of the Member States.
+
+**SECTION II**
+
+**Additional requirements for ATOs providing training for CPL, MPL and ATPL and the associated ratings and certificates**
+
+ORA.ATO.210 Personnel requirements
+
+(a) Head of training (HT). Except in the case of ATOs providing flight test training, the nominated HT shall have extensive experience in training as an instructor for professional pilot licences and associated ratings or certificates.
+
+(b) Chief flight instructor (CFI). The ATO providing flight instruction shall nominate a CFI who shall be responsible for the supervision of flight and flight simulation training instructors and for the standardisation of all flight instruction and flight simulation instruction. The CFI shall hold the highest professional pilot licence and associated ratings related to the flight training courses conducted and hold an instructor certificate with the privilege to instruct for at least one of the training courses provided.
+
+(c) Chief theoretical knowledge instructor (CTKI). The ATO providing theoretical knowledge instruction shall nominate a CTKI who shall be responsible for the supervision of all theoretical knowledge instructors and for the standardisation of all theoretical knowledge instruction. The CTKI shall have extensive experience as a theoretical knowledge instructor in the areas relevant for the training provided by the ATO.
+
+ORA.ATO.225 Training programme
+
+(a) The training programme shall include a breakdown of flight and theoretical knowledge instruction, presented in a week-by-week or phase layout, a list of standard exercises and a syllabus summary.
+
+(b) The content and sequence of the training programme shall be specified in the training manual.
+
+ORA.ATO.230 Training manual and operations manual
+
+(a) The training manual shall state the standards, objectives and training goals for each phase of training that the students are required to comply with and shall address the following subjects:
+
+— training plan,
+
+— briefing and air exercises,
+
+— flight training in an FSTD, if applicable,
+
+— theoretical knowledge instruction.
+
+(b) The operations manual shall provide relevant information to particular groups of personnel, as flight instructors, flight simulation training instructors, theoretical knowledge instructors, operations and maintenance personnel, and shall include general, technical, route and staff training information.
+
+**SECTION III**
+
+**Additional requirements for atos providing specific types of training**
+
+Chapter 1
+
+Distance Learning Course
+
+ORA.ATO.300 General
+
+The ATO may be approved to conduct modular course programmes using distance learning in the following cases:
+
+(a) modular courses of theoretical knowledge instruction;
+
+(b) courses of additional theoretical knowledge for a class or type rating; or
+
+(c) courses of approved pre-entry theoretical knowledge instruction for a first type rating for a multi-engined helicopter.
+
+ORA.ATO.305 Classroom instruction
+
+(a) An element of classroom instruction shall be included in all subjects of modular distance learning courses.
+
+(b) The amount of time spent in actual classroom instruction shall not be less than 10 % of the total duration of the course.
+
+(c) To this effect, classroom accommodation shall be available either at the principal place of business of the ATO or within a suitable facility elsewhere.
+
+ORA.ATO.310 Instructors
+
+All instructors shall be fully familiar with the requirements of the distance learning course programme.
+
+Chapter 2
+
+Zero Flight-Time Training
+
+ORA.ATO.330 General
+
+(a) Approval for zero flight-time training (ZFTT), as specified in Part-FCL, shall only be given to ATOs that also have the privileges to conduct commercial air transport operations or ATOs having specific arrangements with commercial air transport operators.
+
+(b) Approval for ZFTT shall only be given if the operator has at least 90 days of operational experience on the aeroplane type.
+
+(c) In the case of ZFTT provided by an ATO having a specific arrangement with an operator, the 90 days of operational experience requirements will not apply if the type rating instructor (TRI(A)) involved in the additional take-offs and landings, as required in Part-ORO, has operational experience on the aeroplane type.
+
+ORA.ATO.335 Full flight simulator
+
+(a) The FFS approved for ZFTT shall be serviceable according to the management system criteria of the ATO.
+
+(b) The motion and the visual system of the FFS shall be fully serviceable, in accordance with the applicable certification specifications for FSTD as mentioned in ORA.FSTD.205.
+
+Chapter 3
+
+Multi-crew pilot licence (MPL) courses
+
+ORA.ATO.350 General
+
+The privileges to conduct MPL integrated training courses and MPL instructor courses shall only be given to the ATO if it also has the privilege to conduct commercial air transport operations or a specific arrangement with a commercial air transport operator.
+
+Chapter 4
+
+Flight test training
+
+ORA.ATO.355 Flight test training organisations
+
+(a) The ATO that has been approved to provide flight test training for the issue of a category 1 or 2 flight test rating in accordance with Part-FCL may have its privileges extended to providing training for other categories of flight tests and other categories of flight test personnel, provided that:
+
+(1) the relevant requirements of Part-21 are met; and
+
+(2) a specific arrangement exists between the ATO and the Part-21 organisation that employs, or intends to employ, such personnel.
+
+(b) The training records shall include the written reports by the student, as required by the training programme, including, where applicable, data processing and analysis of recorded parameters relevant to the type of flight test.
+
+**SUBPART FSTD**
+
+**REQUIREMENTS FOR ORGANISATIONS OPERATING FLIGHT SIMULATION TRAINING DEVICES (FSTDs) AND THE QUALIFICATION OF FSTDs**
+
+**SECTION I**
+
+**Requirements for organisations operating FSTDs**
+
+ORA.FSTD.100 General
+
+(a) The applicant for an FSTD qualification certificate shall demonstrate to the competent authority that it has established a management system in accordance with ORA.GEN Section II. This demonstration shall ensure that the applicant has, directly or through contract, the capability to maintain the performance, functions and other characteristics specified for the FSTD’s qualification level and to control the installation of the FSTD.
+
+(b) If the applicant is the holder of a qualification certificate issued in accordance with this Part, the FSTD specifications shall be detailed:
+
+(1) in the terms of the ATO certificate; or
+
+(2) in the case of an AOC holder, in the training manual.
+
+ORA.FSTD.105 Maintaining the FSTD qualification
+
+(a) In order to maintain the qualification of the FSTD, an FSTD qualification certificate holder shall run the complete set of tests contained within the master qualification test guide (MQTG) and functions and subjective tests progressively over a 12-month period.
+
+(b) The results shall be dated, marked as analysed and evaluated, and retained in accordance with ORA.FSTD.240, in order to demonstrate that the FSTD standards are being maintained.
+
+(c) A configuration control system shall be established to ensure the continued integrity of the hardware and software of the qualified FSTD.
+
+ORA.FSTD.110 Modifications
+
+(a) The holder of an FSTD qualification certificate shall establish and maintain a system to identify, assess and incorporate any important modifications into the FSTDs it operates, especially:
+
+(1) any aircraft modifications that are essential for training, testing and checking, whether or not enforced by an airworthiness directive; and
+
+(2) any modification of an FSTD, including motion and visual systems, when essential for training, testing and checking, as in the case of data revisions.
+
+(b) Modifications of the FSTD hardware and software that affect handling, performance and systems operation or any major modifications of the motion or visual system shall be evaluated to determine the impact on the original qualification criteria. The organisation shall prepare amendments for any affected validation tests. The organisation shall test the FSTD to the new criteria.
+
+(c) The organisation shall inform the competent authority in advance of any major changes to determine if the tests carried out are satisfactory. The competent authority shall determine if a special evaluation of the FSTD is necessary prior to returning it to training following the modification.
+
+ORA.FSTD.115 Installations
+
+(a) The holder of an FSTD qualification certificate shall ensure that:
+
+(1) the FSTD is housed in a suitable environment that supports safe and reliable operation;
+
+(2) all FSTD occupants and maintenance personnel are briefed on FSTD safety to ensure that they are aware of all safety equipment and procedures in the FSTD in case of an emergency; and
+
+(3) the FSTD and its installations comply with the local regulations for health and safety.
+
+(b) The FSTD safety features, such as emergency stops and emergency lighting, shall be checked at least annually and recorded.
+
+ORA.FSTD.120 Additional equipment
+
+Where additional equipment has been added to the FSTD, even though not required for qualification, it shall be assessed by the competent authority to ensure that it does not adversely affect the quality of training.
+
+**SECTION II**
+
+**Requirements for the qualification of FSTDs**
+
+ORA.FSTD.200 Application for FSTD qualification
+
+(a) The application for an FSTD qualification certificate shall be made in a form and manner established by the competent authority:
+
+(1) in the case of basic instrument training devices (BITDs), by the BITD manufacturer;
+
+(2) in all other cases, by the organisation intending to operate the FSTD.
+
+(b) Applicants for an initial qualification shall provide the competent authority with documentation demonstrating how they will comply with the requirements established in this Regulation. Such documentation shall include the procedure established to ensure compliance with ORA.GEN.130 and ORA.FSTD.230.
+
+ORA.FSTD.205 Certification specifications for FSTDs
+
+(a) The Agency shall issue, in accordance with Article 19 of Regulation (EC) No 216/2008, Certification Specifications as standard means to show compliance of FSTDs with the Essential Requirements of Annex III to Regulation (EC) No 216/2008.
+
+(b) Such Certification Specifications shall be sufficiently detailed and specific to indicate to applicants the conditions under which qualifications will be issued.
+
+ORA.FSTD.210 Qualification basis
+
+(a) The qualification basis for the issuance of an FSTD qualification certificate shall consist of:
+
+(1) the applicable Certification Specifications established by the Agency that are effective on the date of the application for the initial qualification;
+
+(2) the aircraft validation data defined by the mandatory part of the operational suitability data as approved under Regulation (EU) No 748/2012, if applicable; and
+
+(3) any special conditions prescribed by the competent authority if the related Certification Specifications do not contain adequate or appropriate standards for the FSTD because the FSTD has novel or different features to those upon which the applicable Certification Specifications are based.
+
+(b) The qualification basis shall be applicable for future recurrent qualifications of the FSTD, unless it is recategorised.
+
+ORA.FSTD.225 Duration and continued validity
+
+(a) The FSTD qualification certificate shall remain valid subject to the following conditions:
+
+(1) the FSTD and the operating organisation remaining in compliance with the applicable requirements;
+
+(2) the competent authority being granted access to the organisation as defined in point ORA.GEN.140 to determine continued compliance with the relevant requirements of Regulation (EU) 2018/1139 and the implementing and delegated acts adopted on the basis thereof;
+
+(3) the qualification certificate not being surrendered or revoked.
+
+(b) If the competent authority has extended the recurrent evaluation period for an FSTD in accordance with point ARA.FSTD.120(c) of Annex VI (Part-ARA), the organisation shall assign a person or group of persons with adequate experience who shall do all of the following within a period of 60 days before and 30 days after the start of each recurrent 12-month period in accordance with point ARA.FSTD.120(b)(1) of Annex VI:
+
+(1) review the regular reruns of the complete tests in the master QTG;
+
+(2) conduct the relevant functions and subjective tests;
+
+(3) send a report of the results to the competent authority.
+
+(c) A BITD qualification shall remain valid subject to regular evaluation for compliance with the applicable qualification basis by the competent authority in accordance with point ARA.FSTD.120 of Annex VI.
+
+(d) Upon surrender or revocation, the FSTD qualification certificate shall be returned to the competent authority.
+
+ORA.FSTD.230 Changes to the qualified FSTD
+
+(a) The holder of an FSTD qualification certificate shall inform the competent authority of any proposed changes to the FSTD, such as:
+
+(1) major modifications;
+
+(2) relocation of the FSTD; and
+
+(3) any de-activation of the FSTD.
+
+(b) In case of an upgrade of the FSTD qualification level, the organisation shall apply to the competent authority for an upgrade evaluation. The organisation shall run all validation tests for the requested qualification level. Results from previous evaluations shall not be used to validate FSTD performance for the current upgrade.
+
+(c) When an FSTD is moved to a new location, the organisation shall inform the competent authority before the planned activity along with a schedule of related events.
+
+Prior to returning the FSTD to service at the new location, the organisation shall perform at least one third of the validation tests, and functions and subjective tests to ensure that the FSTD performance meets its original qualification standard. A copy of the test documentation shall be retained together with the FSTD records for review by the competent authority.
+
+The competent authority may perform an evaluation of the FSTD after relocation. The evaluation shall be in accordance with the original qualification basis of the FSTD.
+
+(d) If an organisation plans to remove an FSTD from active status for prolonged periods, the competent authority shall be notified and suitable controls established for the period during which the FSTD is inactive.
+
+The organisation shall agree with the competent authority a plan for the de-activation, any storage and re-activation to ensure that the FSTD can be restored to active status at its original qualification level.
+
+ORA.FSTD.235 Transferability of an FSTD qualification
+
+(a) When there is a change of the organisation operating an FSTD, the new organisation shall inform the competent authority in advance in order to agree upon a plan of transfer of the FSTD.
+
+(b) The competent authority may perform an evaluation in accordance with the original qualification basis of the FSTD.
+
+(c) When the FSTD no longer complies with its initial qualification basis, the organisation shall apply for a new FSTD qualification certificate.
+
+ORA.FSTD.240 Record-keeping
+
+The holder of an FSTD qualification certificate shall keep records of:
+
+(a) all documents describing and proving the initial qualification basis and level of the FSTD for the duration of the FSTD’s lifetime; and
+
+(b) any recurrent documents and reports related to each FSTD and to compliance monitoring activities for a period of at least 5 years.
+
+**SUBPART AeMC**
+
+**AERO-MEDICAL CENTRES**
+
+**SECTION I**
+
+**General**
+
+ORA.AeMC.105 Scope
+
+This Subpart establishes the additional requirements to be met by an organisation to qualify for the issue or continuation of an approval as an aero-medical centre (AeMC) to:
+
+(a) provide aero-medical expertise and practical training for AMEs;
+
+(b) issue medical certificates and cabin crew medical reports, including initial class 1 medical certificates, or class 3 medical certificates in accordance with Commission Regulation (EU) 2015/340 ( 17 ), or both, as applicable.
+
+ORA.AeMC.115 Application
+
+Applicants for an AeMC certificate shall:
+
+(a) comply with MED.D.005; and
+
+(b) in addition to the documentation for the approval of an organisation required in point ORA.GEN.115, provide details of activities that are contracted to designated hospitals or medical institutes for the purpose of specialist medical examinations.
+
+ORA.AeMC.120 AeMC certificate
+
+An organisation holding an AeMC certificate shall not, at any time, hold more than one AeMC certificate issued with the same scope in accordance with Regulation (EU) 2018/1139 and the implementing and delegated acts adopted on the basis thereof.
+
+ORA.AeMC.135 Continued validity
+
+The AeMC certificate shall be issued for an unlimited duration. It shall remain valid subject to the holder and the aero-medical examiners of the organisation complying with the following conditions:
+
+(a) complying with point MED.D.030 of Annex IV (Part-MED) to this Regulation or point ATCO.MED.C.025 of Annex IV (Part-ATCO.MED) to Regulation (EU) 2015/340, as applicable;
+
+(b) ensuring their continued experience by performing an adequate number of class 1 medical examinations, or class 3 medical examinations in accordance with Regulation (EU) 2015/340, or equivalent military aero-medical examinations, as appropriate, every year.
+
+ORA.AeMC.160 Reporting
+
+The AeMC shall provide the competent authority with statistical reports regarding the aero-medical assessments of applicants, including reports of the drugs and alcohol screening performed in accordance with point MED.B.055(b) of Annex IV (Part-MED) and any health risk factors or trends identified during the aero-medical assessments.
+
+**SECTION II**
+
+**Management**
+
+ORA.AeMC.200 Management system
+
+The AeMC shall establish and maintain a management system that includes the items addressed in ORA.GEN.200 and, in addition, processes:
+
+(a) for medical certification in compliance with Part-MED;
+
+(aa) to facilitate cooperation between the AMEs and other medical experts of the AeMC; and
+
+(b) to ensure medical confidentiality at all times.
+
+ORA.AeMC.205 Contracted activities
+
+Notwithstanding point ORA.GEN.205, all of the following shall apply:
+
+(a) minimum required aero-medical examinations shall be performed within the organisation of the AeMC, in accordance with the scope and privileges defined in the terms of approval attached to the AeMC’s certificate;
+
+(b) additional medical examinations and investigations may be performed by contracted individual experts or organisations. The organisation shall ensure that when contracting any part of its activity, the contracted service or product conforms to the applicable requirements.
+
+ORA.AeMC.210 Personnel requirements
+
+(a) The AeMC shall have the following in its staff:
+
+(1) an aero-medical examiner (AME) nominated as head of the AeMC, with privileges to issue class 1 medical certificates, or class 3 medical certificates in accordance with Regulation (EU) 2015/340, as applicable, in accordance with the scope defined in the terms of approval attached to the AeMC’s certificate and sufficient experience in aviation medicine to exercise his or her duties;
+
+(2) at least one additional qualified AME with privileges to issue class 1 medical certificates, or class 3 medical certificates in accordance with Regulation (EU) 2015/340, as applicable, in accordance with the scope defined in the terms of approval attached to the AeMC’s certificate privileges, and other technical staff;
+
+(3) available medical experts.
+
+(b) The head of the AeMC shall be responsible for:
+
+(1) coordinating the assessment of examination results;
+
+(2) signing reports, certificates, and initial class 1 medical certificates and class 3 medical certificates in accordance with Regulation (EU) 2015/340.
+
+ORA.AeMC.215 Facility requirements
+
+The AeMC shall be equipped with medico-technical facilities adequate to perform aero-medical examinations necessary for the exercise of the privileges included in the scope of the approval.
+
+ORA.AeMC.220 Record-keeping
+
+In addition to the records required in ORA.GEN.220, the AeMC shall:
+
+(a) maintain records with details of medical examinations and assessments performed for the issue, revalidation or renewal of medical certificates and their results, for a minimum period of 10 years after the last examination date; and
+
+(b) keep all medical records in a way that ensures that medical confidentiality is respected at all times.
+
+## ANNEX VIII
+
+**REQUIREMENTS FOR DECLARED TRAINING ORGANISATIONS (DTOs)**
+
+**[PART-DTO]**
+
+**DTO.GEN.100 General**
+
+In accordance with the second subparagraph of Article 10a(1), this Annex (Part-DTO) sets out the requirements applicable to pilot training organisations providing the training referred to in point DTO.GEN.110 on the basis of an declaration made in accordance with point DTO.GEN.115.
+
+**DTO.GEN.105 Competent authority**
+
+For the purpose of this Annex (Part-DTO), the competent authority in respect of a DTO shall be the authority designated by the Member State on the territory of which the DTO has its principal place of business.
+
+**DTO.GEN.110 Scope of the training**
+
+(a) A DTO shall be entitled to provide the following training, provided that the DTO has submitted a declaration in accordance with point DTO.GEN.115:
+
+(1) for aeroplanes:
+
+(a) theoretical knowledge instruction for LAPL(A) and PPL(A);
+
+(b) flight instruction for LAPL(A) and PPL(A);
+
+(c) training towards class rating for SEP(land), SEP(sea) and TMG;
+
+(d) training towards additional ratings: night, aerobatics, mountain, sailplane and banner towing;
+
+(2) for helicopters:
+
+(a) theoretical knowledge instruction for LAPL(H) and PPL(H);
+
+(b) flight instruction for LAPL(H), PPL(H);
+
+(c) single-engine type rating for helicopters for which the maximum certified seat configuration does not exceed five seats;
+
+(d) training towards night rating;
+
+(3) for sailplanes, in accordance with the requirements of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976:
+
+(a) theoretical knowledge instruction for the SPL;
+
+(b) flight instruction for the SPL;
+
+(c) training towards extension of privileges to sailplanes or TMGs in accordance with point SFCL.150;
+
+(d) training towards additional launching methods in accordance with point SFCL.155;
+
+(e) training towards additional ratings and privileges: basic aerobatic and advanced aerobatic privileges, sailplane and banner towing rating, TMG night rating, and sailplane cloud flying privileges;
+
+(f) training towards flight instructor certificate for sailplanes (FI(S));
+
+(g) FI(S) refresher course;
+
+(4) for balloons, in accordance with the requirements of Annex III (Part-BFCL) to Commission Implementing Regulation (EU) 2018/1976:
+
+(a) theoretical knowledge instruction for the BPL;
+
+(b) flight instruction for the BPL;
+
+(c) training towards class or group extension in accordance with point BFCL.150;
+
+(d) training towards additional ratings: tethered hot-air balloon flight, night, and commercial operation rating;
+
+(g) training towards flight instructor certificate for balloons (FI(B));
+
+(h) FI(B) refresher course.
+
+(5) for gyroplanes:
+
+(a) theoretical knowledge instruction for the GPL;
+
+(b) flight instruction for the GPL;
+
+(c) training towards privileges for single-pilot gyroplane classes and types;
+
+(d) training towards night rating.
+
+(b) A DTO shall be entitled to also provide the examiner courses referred to in points BFCL.430 and BFCL.460(b)(1) of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 for FE(B), as well as in points SFCL.430 and SFCL.460(b)(1) of Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 for FE(S), provided that the DTO has submitted a declaration in accordance with point DTO.GEN.115 and the competent authority has approved the training programme in accordance with point DTO.GEN.230(c).
+
+**DTO.GEN.115 Declaration**
+
+(a) Prior to providing any of the training specified in point DTO.GEN.110, an organisation intending to provide such training shall submit a declaration to the competent authority. The declaration shall contain at least the following information:
+
+(1) the name of the DTO;
+
+(2) contact details of the DTO's principal place of business and, where applicable, the contact details of the aerodromes and the operating sites of the DTO;
+
+(3) names and contact details of the following persons:
+
+(i) the representative of the DTO;
+
+(ii) the head of training of the DTO; and
+
+(iii) all deputy heads of training, if required by point DTO.GEN.250(b)(1);
+
+(4) the type of training, as specified in point DTO.GEN.110, provided at each aerodrome and/or operating site;
+
+(5) a list of all aircraft and FSTDs to be used for the training, if applicable;
+
+(6) the date of intended commencement of the training;
+
+(7) a statement confirming that the DTO has developed a safety policy and will apply that policy during all training activities covered by the declaration, in accordance with point DTO.GEN.210(a)(1)(ii);
+
+(8) a statement that confirms that the DTO complies and will, during all training activities covered by the declaration, continue to comply with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139, with the requirements of Annex I (Part-FCL) and Annex VIII (Part-DTO) to this Regulation and with the requirements of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.
+
+(b) The declaration, and any subsequent changes thereto, shall be made using the form contained in Appendix 1.
+
+(c) A DTO shall, together with the declaration, submit to the competent authority the training programme or programmes, which it uses or intends to use to provide the training, as well as its application for approval of the training programme or programmes where such approval is required in accordance with point DTO.GEN.230(c).
+
+(d) By derogation from point (c), an organisation which holds an approval issued in accordance with Subpart ATO of Annex VII (Part-ORA) may, together with the declaration, only submit the reference to the already approved training manual or manuals.
+
+**DTO.GEN.116 Notification of changes and cessation of training activities**
+
+A DTO shall notify the competent authority without undue delay of the following:
+
+(a) any changes to the information contained in the declaration specified in point DTO.GEN.115(a) and to the training programme or programmes or the approved training manual or manuals referred to in points DTO.GEN.115(c) and (d) respectively;
+
+(b) the cessation of some or all training activities covered by the declaration.
+
+**DTO.GEN.135 Termination of entitlement to provide training**
+
+(a) A DTO shall no longer be entitled to provide some or all of the training specified in its declaration on the basis of that declaration, where one of the following occurs:
+
+(1) the DTO has notified the competent authority of the cessation of some or all of the training activities covered by the declaration in accordance with point DTO.GEN.116(b);
+
+(2) the DTO has not provided the training for more than 36 consecutive months.
+
+(b) A DTO shall return approval certificates in accordance with point DTO.GEN.230(c) to the competent authority without delay:
+
+(1) in case of cessation of training activities in accordance with point (a);
+
+(2) in case of revocation in accordance with point ARA.GEN.350(da)(3) of Annex VI (Part-ARA).
+
+**DTO.GEN.140 Access**
+
+For the purpose of determining whether a DTO is acting in compliance with its declaration, the DTO shall grant access at any time to any facility, aircraft, document, records, data, procedures or any other material relevant to its training activities covered by the declaration, to any person authorised by the competent authority
+
+**DTO.GEN.150 Findings**
+
+After the competent authority has communicated a finding to a DTO in accordance with point ARA.GEN.350(da)(1), the DTO shall take the following steps within the time period determined by the competent authority:
+
+(a) identify the root cause of the non-compliance;
+
+(b) take the necessary corrective action to terminate the non-compliance and, where relevant, remedy the consequences thereof;
+
+(c) inform the competent authority about the corrective action it has taken.
+
+**DTO.GEN.155 Reaction to a safety problem**
+
+As a reaction to a safety problem, a DTO shall implement:
+
+(a) the safety measures mandated by the competent authority in accordance with point ARA.GEN.135(c);
+
+(b) the relevant mandatory safety information issued by the Agency, including airworthiness directives.
+
+**DTO.GEN.210 Personnel requirements**
+
+(a) A DTO shall designate:
+
+(1) a representative, who shall be responsible and duly authorised to do at least the following:
+
+(i) ensure compliance of the DTO and its activities with the applicable requirements and with its declaration;
+
+(ii) develop and establish a safety policy which ensures that the DTO's activities are carried out safely, ensure that the DTO adheres to that safety policy and take the necessary measures in order to achieve the objectives of that safety policy;
+
+(iii) promote safety within the DTO;
+
+(iv) ensure the availability of sufficient resources within the DTO so that the activities referred to in points (i), (ii) and (iii) can be carried out in an effective manner.
+
+(2) a head of training, who shall be responsible and qualified to ensure at least the following:
+
+(i) that the training provided complies with the requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Regulation (EU) 2018/1976 and with the DTO’s training programme;
+
+(ii) the satisfactory integration of flight training in an aircraft or a flight simulation training device (FSTD) and theoretical knowledge instruction;
+
+(iii) the supervision of the progress of students;
+
+(iv) in the case referred to in point DTO.GEN.250(b), the supervision of the deputy head or heads of training.
+
+(b) A DTO may designate a single person as its representative and its head of training.
+
+(c) A DTO shall not designate a person as its representative or its head of training if there are objective indications that he or she cannot be trusted to carry out the tasks listed in point (a) in a manner which safeguards and furthers aviation safety. The fact that a person has been subject to an enforcement measure taken in accordance with point ARA.GEN.355 in the past three years shall be deemed to constitute such an objective indication, unless that person can demonstrate that the finding leading to that measure, by reason of its nature, scale or impact on aviation safety, is not such as to indicate that he or she cannot be trusted to carry out those tasks in that manner.
+
+(d) A DTO shall ensure that its theoretical knowledge instructors have either of the following qualifications:
+
+(1) practical background in aviation in the areas relevant for the training provided and have undergone a course of training instructional techniques;
+
+(2) previous experience in giving theoretical knowledge instruction and an appropriate theoretical background in the subject on which they will provide theoretical knowledge instruction.
+
+(e) Flight instructors and flight simulation training instructors shall hold the qualifications required by Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976 for the type of training they provide.
+
+**DTO.GEN.215 Facility requirements**
+
+A DTO shall have facilities in place allowing the performance and management of all its activities in accordance with the essential requirements of Annex III to Regulation (EC) No 216/2008 and with the requirements of this Annex (Part-DTO).
+
+**DTO.GEN.220 Record-keeping**
+
+(a) A DTO shall keep for each individual student the following records throughout the training course and for three years after completion of the last training session:
+
+(1) details of ground, flight and simulated flight training;
+
+(2) information on individual progress;
+
+(3) information on the licences and associated ratings relevant to the training provided, including expiry dates of ratings and medical certificates.
+
+(b) A DTO shall keep the report on the annual internal review and the activity report referred to in point DTO.GEN.270(a) and (b) respectively for three years from the date at which the DTO established those reports.
+
+(c) A DTO shall keep its training programme for three years from the date at which it provided the last training course in accordance with that programme.
+
+(d) A DTO shall, in accordance with the applicable law on the protection of personal data, store the records referred to in point (a) in a manner that ensures protection by appropriate tools and protocols and take the necessary measures to restrict the access to those records to persons who are duly authorised to access them.
+
+**DTO.GEN.230 DTO training programme**
+
+(a) A DTO shall establish a training programme for each of the trainings specified in point DTO.GEN.110 which the DTO provides.
+
+(b) The training programmes shall comply with the requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable.
+
+(c) A DTO shall be entitled to provide the training referred to in point DTO.GEN.110(b) only when its training programme for that training, and any changes thereto, have been issued by the competent authority, upon application by the DTO, with an approval in accordance with point ARA.DTO.110, confirming that the training programme and any changes thereto comply with the requirements of Annex I (Part-FCL), Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976, as applicable. A DTO shall apply for such approval through the submission of its declaration in accordance with point DTO.GEN.115.
+
+(d) Point (c) shall not apply to an organisation also holding an approval issued in accordance with Subpart ATO of Annex VII (Part-ORA) that includes privileges for that training.
+
+**DTO.GEN.240 Training aircraft and FSTDs**
+
+(a) A DTO shall use an adequate fleet of training aircraft or FSTDs appropriately equipped for the training course provided. The fleet of aircraft shall be composed of aircraft that comply with all requirements defined in Regulation (EU) 2018/1139. Aircraft that fall under points (a), (b), (c) or (d) of Annex I to Regulation (EU) 2018/1139, may be used for training if all of the following conditions are met:
+
+(1) during an evaluation process the competent authority has confirmed a level of safety comparable to the one defined by all essential requirements laid down in Annex II to Regulation (EU) 2018/1139;
+
+(2) the competent authority has authorised the use of the aircraft for training in the DTO.
+
+(b) A DTO shall establish and keep up-to-date a list of all aircraft, including their registration marks, used for the training it provides.
+
+**DTO.GEN.250 Aerodromes and operating sites**
+
+(a) When providing flight training on an aircraft, a DTO shall only use aerodromes or operating sites that have the appropriate facilities and characteristics to allow training of the relevant manoeuvres, taking into account the training provided and the category and type of aircraft used.
+
+(b) When a DTO uses more than one aerodrome to provide any of the training specified in point DTO.GEN.110(a)(1) and (2), it shall:
+
+(1) for each additional aerodrome, designate a deputy head of training, who shall be responsible for the tasks referred to in point DTO.GEN.210(a)(2)(i) to (iii) on that aerodrome; and
+
+(2) ensure the availability of sufficient resources to safely operate on all aerodromes, in compliance with the requirements of this Annex (Part-DTO).
+
+**DTO.GEN.260 Theoretical knowledge instruction**
+
+(a) When providing theoretical knowledge instruction, a DTO may use on-site instruction or distance learning.
+
+(b) A DTO shall monitor and record the progress of any student undergoing theoretical knowledge instruction.
+
+**DTO.GEN.270 Annual internal review and annual activity report**
+
+A DTO shall take the following steps:
+
+(a) conduct an annual internal review of the tasks and responsibilities specified in point DTO.GEN.210 and establish a report on that review;
+
+(b) establish an annual activity report;
+
+(c) submit the report on the annual internal review and the annual activity report to the competent authority by the date determined by the competent authority.
+
+## Appendix 1 to Annex VIII (Part-DTO)
+
+<table>
+<tbody><tr><td colspan="2">DECLARATION pursuant to Commission Regulation (EU) No 1178/2011 </td></tr>
+<tr><td colspan="2">□Initial declaration □Notification of changes (1) – DTO reference number: </td></tr>
+<tr><td>1.</td><td>Declared training organisation (DTO) Name: </td></tr>
+<tr><td>2.</td><td>Place(s) of business Contact details (address, phone, email) of the DTO's principal place of business: </td></tr>
+<tr><td>3.</td><td>Personnel Name and contact details (address, phone, email) of the DTO's representative:  Name and contact details (address, phone, email) of the DTO's head of training and, if applicable, of the DTO's deputy head(s) of training: </td></tr>
+<tr><td>4.</td><td>Training scope List of all training provided:  List of all training programmes used to provide the training (documents to be attached to this declaration) or, in the case referred to in point DTO.GEN.230(d) of Annex VIII (Part-DTO) to Regulation (EU) No 1178/2011, the reference to all approved training manuals used to provide the training: </td></tr>
+<tr><td>5.</td><td>Training aircraft and FSTDs List of aircraft used for the training:  List of qualified FSTDs used for the training (if applicable, including letter code as indicated on the qualification certificate): </td></tr>
+<tr><td>6.</td><td>Aerodrome(s) and the operating site(s) Contact details (address, phone, email) of all aerodromes and operating sites used by the DTO to provide the training: </td></tr>
+<tr><td>7.</td><td>Date of intended commencement of training:</td></tr>
+<tr><td>8.</td><td>Application for approval of examiner standardisation courses and refresher seminars (if applicable) □The DTO hereby applies for approval of the above-mentioned training programme(s) for examiner courses for sailplanes or balloons in accordance with points DTO.GEN.110(b) and DTO.GEN.230(c) of Annex VIII (Part-DTO) to Regulation (EU) No 1178/2011. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>9.</td><td>Statement The DTO has developed a safety policy in accordance with Annex VIII (Part-DTO) to Commission Regulation (EU) No 1178/2011, and in particular with point DTO.GEN.210(a)(1)(ii) thereof, and will apply that policy during all training activities covered by the declaration.  The DTO complies and will, during all training activities covered by the declaration, continue to comply with the essential requirements set out in Annex IV to Regulation (EU) 2018/1139, with the requirements of Annex I (Part-FCL) and Annex VIII (Part-DTO) to Commission Regulation (EU) No 1178/2011, and with the requirements of Annex III (Part-BFCL) to Commission Regulation (EU) 2018/395 and Annex III (Part-SFCL) to Commission Implementing Regulation (EU) 2018/1976.  We confirm that all information contained in this declaration, including its annexes (if applicable), is complete and correct.  Name, date and signature of the representative of the DTO  Name, date and signature of the head of training of the DTO. </td></tr>
+<tr><td colspan="2">(1)  In the case of changes, only point 1 and those fields containing changes need to be completed. </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Regulation (EU) 2018/395 of 13 March 2018 laying down detailed rules for the operation of balloons pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 71, 14.3.2018, p. 10).
+
+( 2 ) Commission Implementing Regulation (EU) 2018/1976 of 14 December 2018 laying down detailed rules for the operation of sailplanes pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council (OJ L 326, 20.12.2018, p. 64).
+
+( 3 ) Commission Delegated Regulation (EU) 2020/723 of 4 March 2020 laying down detailed rules with regard to the acceptance of third-country certification of pilots and amending Regulation (EU) No 1178/2011 (OJ L 170, 2.6.2020, p. 1, ELI: http://data.europa.eu/eli/reg_del/2020/723/oj).
+
+( 4 ) Commission Regulation (EU) 2018/1065 of 27 July 2018 amending Regulation (EU) No 1178/2011 as regards the automatic validation of Union flight crew licences and take-off and landing training (OJ L 192, 30.7.2018, p. 31).
+
+( 5 ) OJ L 243, 27.9.2003, p. 6.
+
+( 6 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+( 7 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).
+
+( 8 ) Commission Implementing Regulation (EU) 2023/203 of 27 October 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664, and for competent authorities covered by Commission Regulations (EU) No 748/2012, (EU) No 1321/2014, (EU) No 965/2012, (EU) No 1178/2011, (EU) 2015/340 and (EU) No 139/2014, Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 and amending Commission Regulations (EU) No 1178/2011, (EU) No 748/2012, (EU) No 965/2012, (EU) No 139/2014, (EU) No 1321/2014, (EU) 2015/340, and Commission Implementing Regulations (EU) 2017/373 and (EU) 2021/664 (OJ L 31, 2.2.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/203/oj).
+
+( 9 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 10 ) ‘European Union’ to be deleted for non-EU Member States or EASA.
+
+( 11 ) Reference to Regulation (EU) No 1178/2011 or Regulation (EU) 2015/340 shall be modified as per the certificate’s scope.
+
+( 12 ) This attachment may be issued as part of the AeMC certificate or as a separate document.
+
+( 13 ) ‘European Union’ to be deleted for non-EU Member States.
+
+( 14 ) Reference to Regulation (EU) No 1178/2011 or Regulation (EU) 2015/340 as well as Part-MED and Part ATCO.MED shall be modified as per the certificate’s scope.
+
+( 15 ) Expiry date format: day/month/year.
+
+( 16 ) This attachment may be issued as part of the AME certificate or as a separate document.
+
+( 17 ) Commission Regulation (EU) 2015/340 of 20 February 2015 laying down technical requirements and administrative procedures relating to air traffic controllers' licences and certificates pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, amending Commission Implementing Regulation (EU) No 923/2012 and repealing Commission Regulation (EU) No 805/2011 (OJ L 63, 6.3.2015, p. 1, ELI: http://data.europa.eu/eli/reg/2015/340/oj).

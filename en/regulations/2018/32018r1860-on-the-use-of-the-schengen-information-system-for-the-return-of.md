@@ -1,0 +1,331 @@
+---
+title: "Regulation (EU) 2018/1860 of the European Parliament and of the Council of 28 November 2018 on the use of the Schengen Information System for the return of illegally staying third-country nationals"
+identifier: "32018R1860"
+eli: "http://data.europa.eu/eli/reg/2018/1860/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2018-11-28
+entry_into_force: 2018-06-06
+last_amended: 2021-08-03
+consolidated_version: "02018R1860-20210803"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1860-20210803"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2018/1860 of the European Parliament and of the Council of 28 November 2018 on the use of the Schengen Information System for the return of illegally staying third-country nationals
+
+**REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 November 2018**
+
+**on the use of the Schengen Information System for the return of illegally staying third-country nationals**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021 </td><td> L 249</td><td>15</td><td>14.7.2021</td></tr>
+</table>
+
+**REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 November 2018**
+
+**on the use of the Schengen Information System for the return of illegally staying third-country nationals**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;
+
+(2) ‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;
+
+(3) ‘return decision’ means an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return that respects Directive 2008/115/EC;
+
+(4) ‘alert’ means an alert as defined in point (1) of Article 3 of Regulation (EU) 2018/1861;
+
+(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;
+
+(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;
+
+(7) ‘voluntary departure’ means a voluntary departure as defined in point (8) of Article 3 of Directive 2008/115/EC;
+
+(8) ‘issuing Member State’ means an issuing Member State as defined in point (10) of Article 3 of Regulation (EU) 2018/1861;
+
+(9) ‘granting Member State’ means a granting Member State as defined in point (11) of Article 3 of Regulation (EU) 2018/1861;
+
+(10) ‘executing Member State’ means an executing Member State as defined in point (12) of Article 3 of Regulation (EU) 2018/1861;
+
+(11) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
+
+(12) ‘CS-SIS’ means the technical support function of the Central SIS as referred to in point (a) of Article 4(1) of Regulation (EU) 2018/1861;
+
+(13) ‘residence permit’ means a residence permit as defined in point (16) of Article 2 of Regulation (EU) 2016/399;
+
+(14) ‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ( 1 );
+
+(15) a ‘hit’ means a hit as defined in point (8) of Article 3 of Regulation (EU) 2018/1861;
+
+(16) ‘threat to public health’ means a threat to public health as defined in point (21) of Article 2 of Regulation (EU) 2016/399;
+
+(17) ‘external borders’ means the external borders as defined in point (2) of Article 2 of Regulation (EU) 2016/399.
+
+## Article 3 — Entry of alerts on return into SIS
+
+1\. Member States shall enter into SIS alerts on third-country nationals subject to a return decision for the purpose of verifying that the obligation to return has been complied with and of supporting the enforcement of the return decisions. An alert on return shall be entered into SIS without delay following issue of a return decision.
+
+2\. Member States may refrain from entering alerts on return when the return decisions concern third-country nationals who are detained pending removal. If the third-country nationals concerned are released from detention without being removed, an alert on return shall be entered into SIS without delay.
+
+3\. Member States may refrain from entering alerts on return when the return decision is issued at the external border of a Member State and is executed immediately.
+
+4\. The period for voluntary departure granted in accordance with Article 7 of Directive 2008/115/EC shall be recorded in the alert on return immediately. Any extension of that period shall be recorded in the alert without delay.
+
+5\. Any suspension or postponement of the enforcement of the return decision, including as a result of the lodging of an appeal, shall immediately be recorded in the alert on return.
+
+## Article 4 — Categories of data
+
+1\. An alert on return entered into SIS in accordance with Article 3 of this Regulation shall contain only the following data:
+
+(a) surnames;
+
+(b) forenames;
+
+(c) names at birth;
+
+(d) previously used names and aliases;
+
+(e) place of birth;
+
+(f) date of birth;
+
+(g) gender;
+
+(h) any nationalities held;
+
+(i) whether the person concerned:
+
+(i) is armed;
+
+(ii) is violent;
+
+(iii) has absconded or escaped;
+
+(iv) poses a risk of suicide;
+
+(v) poses a threat to public health; or
+
+(vi) is involved in an activity referred to in Articles 3 to 14 of Directive (EU) 2017/541;
+
+(j) the reason for the alert;
+
+(k) the authority which created the alert;
+
+(l) a reference to the decision giving rise to the alert;
+
+(m) the action to be taken in the case of a hit;
+
+(n) links to other alerts pursuant to Article 48 of Regulation (EU) 2018/1861;
+
+(o) whether the return decision is issued in relation to a third-country national who poses a threat to public policy, to public security or to national security;
+
+(p) the type of offence;
+
+(q) the category of the person's identification documents;
+
+(r) the country of issue of the person's identification documents;
+
+(s) the number(s) of the person's identification documents;
+
+(t) the date of issue of the person's identification documents;
+
+(u) photographs and facial images;
+
+(v) dactyloscopic data;
+
+(w) a copy of the identification documents, in colour wherever possible;
+
+(x) last date of the period for voluntary departure, if granted;
+
+(y) whether the return decision has been suspended or the enforcement of the decision has been postponed, including as a result of the lodging of an appeal;
+
+(z) whether the return decision is accompanied by an entry ban constituting the basis for an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.
+
+2\. The minimum set of data necessary to enter an alert into SIS shall be the data referred to in points (a), (f), (j), (l), (m), (x) and (z) of paragraph 1. The other data referred to in that paragraph shall also be entered into SIS, if available.
+
+3\. Dactyloscopic data referred to in point (v) of paragraph 1 may consist of:
+
+(a) one to ten flat fingerprints and one to ten rolled fingerprints of the third-country national concerned;
+
+(b) up to two palm prints in respect of third-country nationals from whom the collection of fingerprints is impossible;
+
+(c) up to two palm prints in respect of third-country nationals who are subject to return as a criminal law sanction or who have committed a criminal offence on the territory of the Member State which issued the return decision.
+
+## Article 5 — Authority responsible for the exchange of supplementary information
+
+The SIRENE Bureau designated under Article 7 of Regulation (EU) 2018/1861 shall ensure the exchange of all supplementary information on third-country nationals who are the subject of an alert on return, in accordance with Articles 7 and 8 of that Regulation.
+
+## Article 6 — Hits at the external borders at exit — Confirmation of return
+
+1\. In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:
+
+(a) that the third-country national has been identified;
+
+(b) the location and time of the check;
+
+(c) that the third-country national has left the territory of the Member States;
+
+(d) that the third-country national has been subject to removal, if this is the case.
+
+Where a third-country national who is the subject of an alert on return exits the territory of the Member States through the external border of the issuing Member State, the confirmation of return shall be sent to the competent authority of that Member State in accordance with national procedures.
+
+2\. The issuing Member State shall delete the alert on return without delay following the receipt of the confirmation of return. Where applicable, an alert for refusal of entry and stay shall be entered without delay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.
+
+3\. The Member States shall on a quarterly basis provide statistics to the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) on the number of confirmed returns and on the number of those confirmed returns where the third-country national was subject to removal. eu-LISA shall compile the quarterly statistics into the annual statistical report referred to in Article 16 of this Regulation. The statistics shall not contain personal data.
+
+## Article 7 — Non-compliance with return decisions
+
+1\. Upon expiry of the period for voluntary departure indicated in an alert on return, including any possible extensions, CS-SIS shall automatically notify the issuing Member State.
+
+2\. Without prejudice to the procedure referred to in Articles 6(1), 8 and 12, in the event of a hit on an alert on return, the executing Member State shall immediately contact the issuing Member State through the exchange of supplementary information in order to determine the measures to be taken.
+
+## Article 8 — Hits at the external borders upon entry
+
+In the event of a hit on an alert on return concerning a third-country national who is entering the territory of the Member States through the external borders, the following shall apply:
+
+(a) where the return decision is accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information. The issuing Member State shall immediately delete the alert on return and enter an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861;
+
+(b) where the return decision is not accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information, in order that the issuing Member State delete the alert on return without delay.
+
+The decision on the entry of the third-country national shall be taken by the executing Member State in accordance with Regulation (EU) 2016/399.
+
+## Article 9 — Prior consultation before granting or extending a residence permit or long-stay visa
+
+1\. Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State that is accompanied by an entry ban, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:
+
+(a) the granting Member State shall consult the issuing Member State prior to granting or extending the residence permit or long-stay visa;
+
+(b) the issuing Member State shall reply to the consultation request within 10 calendar days;
+
+(c) the absence of a reply by the deadline referred to in point (b) shall mean that the issuing Member State does not object to the granting or extending of the residence permit or long-stay visa;
+
+(d) when making the relevant decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;
+
+(e) the granting Member State shall notify the issuing Member State of its decision; and
+
+(f) where the granting Member State notifies the issuing Member State that it intends to grant or extend the residence permit or long-stay visa or that it has decided to do so, the issuing Member State shall delete the alert on return.
+
+The final decision on whether to grant a residence permit or long-stay visa to a third-country national rests with the granting Member State.
+
+2\. Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State which is not accompanied by an entry ban, the granting Member State shall inform without delay the issuing Member State that it intends to grant or has granted a residence permit or a long-stay visa. The issuing Member State shall delete the alert on return without delay.
+
+## Article 10 — Prior consultation before entering an alert on return
+
+Where a Member State has issued a return decision in accordance with Article 6(2) of Directive 2008/115/EC and considers entering an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:
+
+(a) the Member State that has taken the return decision shall inform the granting Member State of the decision;
+
+(b) the information exchanged under point (a) shall include sufficient detail on the reasons for the return decision;
+
+(c) on the basis of the information provided by the Member State that has taken the return decision, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;
+
+(d) when making the relevant decision, the granting Member State shall take into account the reasons for the decision of the Member State that has taken the return decision and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;
+
+(e) within 14 calendar days of receipt of the request for consultation the granting Member State shall notify the Member State that has taken the return decision of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;
+
+(f) where the granting Member State notifies the Member State that has taken the return decision that it is maintaining the residence permit or long-stay visa, the Member State that has taken the return decision shall not enter the alert on return.
+
+## Article 11 — A posteriori consultation after entering an alert on return
+
+Where it emerges that a Member State has entered an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the issuing Member State may decide to withdraw the return decision. In the case of such withdrawal, it shall immediately delete the alert on return. However, where the issuing Member State decides to maintain the return decision issued in accordance with Article 6(2) of Directive 2008/115/EC, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:
+
+(a) the issuing Member State shall inform the granting Member State of the return decision;
+
+(b) the information exchanged under point (a) shall include sufficient detail on the reasons for the alert on return;
+
+(c) on the basis of the information provided by the issuing Member State, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;
+
+(d) when making its decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;
+
+(e) within 14 calendar days of receipt of the request for consultation the granting Member State shall notify the issuing Member State of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;
+
+(f) where the granting Member State notifies the issuing Member State that it is maintaining the residence permit or long-stay visa, the issuing Member State shall immediately delete the alert on return.
+
+## Article 12 — Consultation in the case of a hit concerning a third-country national holding a valid residence permit or long-stay visa
+
+Where a Member State encounters a hit on an alert on return entered by a Member State concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:
+
+(a) the executing Member State shall inform the issuing Member State of the situation;
+
+(b) the issuing Member State shall initiate the procedure laid down in Article 11;
+
+(c) the issuing Member State shall notify the executing Member State of the outcome following the consultation.
+
+## Article 13 — Statistics on exchange of information
+
+Member States shall provide statistics to eu-LISA on an annual basis on the exchanges of information carried out in accordance with Articles 8 to 12 and on the instances in which the deadlines provided for in those Articles were not met.
+
+## Article 14 — Deletion of alerts
+
+1\. In addition to Articles 6 and 8 to 12, alerts on return shall be deleted when the decision on the basis of which the alert was entered has been withdrawn or annulled by the competent authority. Alerts on return shall also be deleted when the third-country national concerned can demonstrate that he or she has left the territory of the Member States in compliance with the respective return decision.
+
+2\. Alerts on return concerning a person who has acquired citizenship of a Member State or of any State whose nationals are beneficiaries of the right of free movement under Union law shall be deleted as soon as the issuing Member State becomes aware, or is so informed pursuant to Article 44 of Regulation (EU) 2018/1861 that the person in question has acquired such citizenship.
+
+## Article 15 — Transfer of personal data to third countries for the purpose of return
+
+1\. By way of derogation from Article 50 of Regulation (EU) 2018/1861, the data referred to in points (a), (b), (c), (d), (e), (f), (g), (h), (q), (r), (s), (t), (u), (v) and (w) of Article 4(1) of this Regulation and the related supplementary information may be transferred or made available to a third country with the agreement of the issuing Member State.
+
+2\. The transfer of the data to a third country shall be carried out in accordance with the relevant provisions of Union law, in particular provisions on protection of personal data, including Chapter V of Regulation (EU) 2016/679, with readmission agreements where applicable, and with the national law of the Member State transferring the data.
+
+3\. The transfers of data to a third country shall take place only when the following conditions are met:
+
+(a) the data is transferred or made available solely for the purpose of identification of, and issuance of an identification or travel document to, an illegally staying third-country national in view of his or her return;
+
+(b) the third-country national concerned has been informed that his or her personal data and supplementary information may be shared with the authorities of a third country.
+
+4\. Transfers of personal data to third countries pursuant to this Article shall not prejudice the rights of applicants for and beneficiaries of international protection, in particular as regards non-refoulement, and the prohibition on disclosing or obtaining information set out in Article 30 of Directive 2013/32/EU of the European Parliament and of the Council ( 2 ).
+
+5\. Data processed in SIS and the related supplementary information exchanged pursuant to this Regulation shall not be made available to a third country where the enforcement of the return decision was suspended or postponed, including as a result of the lodging of an appeal, on grounds that such return would violate the principle of non-refoulement.
+
+6\. Application of Regulation (EU) 2016/679, including with regard to the transfer of personal data to third countries pursuant to this Article, and in particular the use, proportionality and necessity of transfers based on point (d) of Article 49(1) of that Regulation, shall be subject to monitoring by the independent supervisory authorities referred to in Article 51(1) of that Regulation.
+
+## Article 16 — Statistics
+
+eu-LISA shall produce daily, monthly and annual statistics, both for each Member State and in aggregate, on the number of alerts on return entered into SIS. The statistics shall include the data referred to in point (y) of Article 4(1), the number of notifications referred to in Article 7(1) and the number of alerts on return that have been deleted. eu-LISA shall produce statistics on the data provided by the Member States in accordance with Article 6(3) and Article 13. The statistics shall not contain any personal data.
+
+Those statistics shall be included in the annual statistical report provided for in Article 60(3) of Regulation (EU) 2018/1861.
+
+## Article 17 — Competent authorities having a right to access data in SIS
+
+1\. Access to data in SIS and the right to search such data shall be reserved to the national competent authorities referred to in Article 34(1), (2) and (3) of Regulation (EU) 2018/1861.
+
+2\. Europol shall within its mandate have the right to access and search data in SIS in accordance with Article 35 of Regulation (EU) 2018/1861 for the purpose of supporting and strengthening action by the competent authorities of the Member States and their mutual cooperation in preventing and combating migrant smuggling and facilitation of irregular migration.
+
+3\. Members of the teams referred to in points (8) and (9) of Article 2 of Regulation (EU) 2016/1624 shall within their mandate have the right to access and search data in SIS in accordance with Article 36 of Regulation (EU) 2018/1861 for the purpose of carrying out border checks, border surveillance and return operations through the technical interface set up and maintained by the European Border and Coast Guard Agency.
+
+## Article 18 — Evaluation
+
+The Commission shall evaluate the application of this Regulation within two years of the date of the start of its application. This evaluation shall include an assessment of the possible synergies between this Regulation and Regulation (EU) 2017/2226 of the European Parliament and of the Council ( 3 ).
+
+## Article 19 — Applicability of Regulation (EU) 2018/1861
+
+Insofar as not established in this Regulation, the entry, processing and updating of alerts, the provisions on responsibilities of the Member States and eu-LISA, the conditions concerning access and the review period for alerts, data processing, data protection, liability and monitoring and statistics, as laid down in Articles 6 to 19, Article 20(3) and (4), Articles 21, 23, 32 and 33, Article 34(5) and Articles 36a, 36b, 36c and 38 to 60 of Regulation (EU) 2018/1861, shall apply to data entered and processed in SIS in accordance with this Regulation.
+
+## Article 20 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+It shall apply from the date set by the Commission in accordance with Article 66(2) of Regulation (EU) 2018/1861.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( 1 ) OJ L 239, 22.9.2000, p. 19.
+
+( 2 ) Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).
+
+( 3 ) Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20).

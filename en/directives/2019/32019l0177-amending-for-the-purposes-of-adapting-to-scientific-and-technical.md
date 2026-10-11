@@ -95,6 +95,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 18(b) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘18(b)</td><td>Lead as activator in the fluorescent powder (1 % lead by weight or less) of discharge lamps when used as sun tanning lamps containing phosphors such as BSP (BaSi2O5:Pb)</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10;</td></tr>
 </tbody>
 </table>
@@ -110,3 +111,4 @@ In Annex III, entry 18(b) is replaced by the following:
 </td></tr>
 <tr><td>18(b)-I</td><td>Lead as activator in the fluorescent powder (1 % lead by weight or less) of discharge lamps containing phosphors such as BSP (BaSi2O5:Pb) when used in medical phototherapy equipment</td><td>Applies to categories 5 and 8, excluding applications covered by entry 34 of Annex IV, and expires on 21 July 2021.’</td></tr>
 </tbody>
+</table>

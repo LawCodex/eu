@@ -1,0 +1,360 @@
+---
+title: "Commission Implementing Regulation (EU) No 920/2013 of 24 September 2013 on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices Text with EEA relevance"
+identifier: "32013R0920"
+eli: "http://data.europa.eu/eli/reg_impl/2013/920/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2013-09-24
+entry_into_force: 2013-05-27
+last_amended: 2020-05-19
+consolidated_version: "02013R0920-20200519"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0920-20200519"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 920/2013 of 24 September 2013 on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 920/2013**
+
+**of 24 September 2013**
+
+**on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/666 of 18 May 2020 </td><td> L 156</td><td>2</td><td>19.5.2020</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 920/2013**
+
+**of 24 September 2013**
+
+**on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘device’ means active implantable medical devices as defined in Article 1(2)(c) of Directive 90/385/EEC or medical devices and their accessories as defined in Article 1(2) of Directive 93/42/EEC;
+
+(b) ‘conformity assessment body’ means a body which performs calibration, testing, certification and inspection activities under Article R1(13) in Annex I to Decision No 768/2008/EC of the European Parliament and of the Council ( 1 );
+
+(c) ‘notified body’ means a conformity assessment body which has been notified by a Member State in accordance with Article 11 of Directive 90/385/EEC or Article 16 of Directive 93/42/EEC;
+
+(d) ‘accreditation body’ means the sole body in a Member State that performs accreditation with authority derived from the State as laid down by Article 2(10) of Regulation (EC) No 765/2008;
+
+(e) ‘designating authority’ means the authority(ies) entrusted by a Member State to assess, designate, notify and monitor notified bodies under Directive 90/385/EEC or Directive 93/42/EEC;
+
+(f) ‘competent authority’ means the authority(ies) in charge of market surveillance and/or of vigilance for devices;
+
+(g) ‘on-site assessment’ means a verification in the premises of the body or of one of its subcontractors or subsidiaries by the designating authority;
+
+(h) ‘surveillance on-site assessment’ means a periodic routine on-site assessment which is neither the on-site assessment undertaken for the initial designation, nor the on-site assessment undertaken for the renewal of the designation;
+
+(i) ‘observed audit’ means a designating authority's assessment of the performance of a notified body’s audit team in the premises of the body's client;
+
+(j) ‘functions’ means the tasks to be fulfilled by the body’s staff and its external experts, namely: auditing of the quality systems, product related technical documentation review, review of clinical evaluations and investigations, device testing and, for each of the previously mentioned items, the final review and decision making thereon;
+
+(k) ‘subcontracting’ means the transfer of tasks to one of the following:
+
+(i) a legal person;
+
+(ii) a natural person who further delegates these tasks or parts thereof;
+
+(iii) several natural or legal persons who jointly perform these tasks.
+
+## Article 2 — Interpretation of designation criteria
+
+The criteria set out in Annex 8 to Directive 90/385/EEC or in Annex XI to Directive 93/42/EEC shall be applied as laid down in Annex I.
+
+## Article 3 — Procedure for the designation of notified bodies
+
+1\. When applying for designation as a notified body, a conformity assessment body shall use the application form set out in Annex II. If the conformity assessment body submits the application and documents annexed to the application on paper, it shall also submit an electronic copy of the application and its annexes.
+
+The application shall specify the conformity assessment activities, the conformity assessment procedures and the fields of competence for which the conformity assessment body wishes to be notified, the latter by indicating the codes used in the ‘New Approach Notified and Designated Organisations’ Information System ( 2 ) and subdivisions of those fields.
+
+2\. The designating authority of the Member State where the conformity assessment body is established shall assess that body in accordance with an assessment check-list that covers at least the items listed in Annex II. The assessment shall include an on-site assessment.
+
+Representatives of designating authorities of two other Member States shall, in coordination with the designating authority of the Member State in which the conformity assessment body is established and together with a representative of the Commission, participate to the assessment of the conformity assessment body, including the on-site assessment. The designating authority of the Member State where the conformity assessment body is established shall give those representatives timely access to the documents necessary to assess the conformity assessment body. They shall produce within 45 days after the on-site assessment a report, which shall contain at least a summary of identified non-compliances with the criteria set out in Annex I and recommendation with regard to the designation of the notified body.
+
+3\. The Member States shall make available a pool of assessors for the Commission to call upon for each assessment.
+
+4\. The designating authority of the Member State where the conformity assessment body is established shall upload into a data storage system managed by the Commission, the assessment report drafted by the representatives referred to in paragraph 2, its own assessment report and, if not contained therein, an on-site assessment report.
+
+5\. The designating authorities of all the other Member States shall be informed of the application and may request to get access to certain or all the documents referred to in paragraph 4. Those authorities and the Commission may review all the documents referred to in paragraph 4, may raise questions or concerns and may request further documentation within one month after the last upload of one of those documents. Within the same period of time, they may request an exchange of views on the application, organised by the Commission.
+
+6\. The designating authority of the Member State where the conformity assessment body is established shall respond to the questions, concerns and requests for further documentation within four weeks following their receipt.
+
+The designating authorities of the other Member States or the Commission may individually or jointly address recommendations to the designating authority of the Member State where the conformity assessment body is established within four weeks following the receipt of the response. That designating authority shall take account of the recommendations when it takes the decision on the designation of the conformity assessment body. If it does not follow the recommendations, it shall give the reasons therefor within two weeks after its decision.
+
+7\. The Member State shall notify to the Commission its decision on the designation of a conformity assessment body by means of the ‘New Approach Notified and Designated Organisations’ Information System.
+
+The validity of the designation shall be limited up to a maximum of five years.
+
+## Article 4 — Extension and renewal of designation
+
+1\. An extension of the scope of the notified body's designation may be granted in accordance with Article 3.
+
+2\. A designation as notified body may be renewed in accordance with Article 3 before the end of the validity period of the previous designation.
+
+3\. For the purposes of paragraph 2, the procedure set out in Article 3(2) shall include, where appropriate, an observed audit.
+
+4\. Extension and renewal procedures may be combined.
+
+5\. Notified bodies already designated before the entry into force of this Regulation and for which the designation does not have a stated validity period or has a validity period exceeding five years, shall be subject to renewal at least within three years of entry into force of this Regulation.
+
+6\. By way of derogation from paragraph 2, during the period from 19 May 2020 to 25 May 2021, the designating authority of a Member State, in extraordinary circumstances resulting from the COVID-19 pandemic and due to the adoption of Regulation (EU) 2020/561 of the European Parliament and of the Council ( 3 ) deferring the application of certain provisions of Regulation (EU) 2017/745 of the European Parliament and of the Council ( 4 ), may decide to renew a designation as notified body without having recourse to the procedures laid down in Article 3.
+
+In order to decide on the renewal of a designation as notified body in accordance with the first subparagraph, the designating authority shall carry out an assessment in order to verify the continuous competence of the notified body and its ability to perform the tasks for which it was designated.
+
+The decision on the renewal of a designation as notified body in accordance with this paragraph shall be adopted before the end of the validity period of the preceding designation and shall automatically become void at the latest on 26 May 2021.
+
+The designating authority shall notify the Commission of its decision, giving substantive reasons therefore, on the renewal of a designation as notified body in accordance with this paragraph by means of the ‘New Approach Notified and Designated Organisations’ Information System.
+
+The Commission may require a designating authority to provide it with the results of the assessment supporting the decision on the renewal of a designation as notified body in accordance with this paragraph, as well as the outcome of related surveillance and monitoring activities, including those referred to in Article 5.
+
+## Article 5 — Surveillance and monitoring
+
+1\. For the purpose of surveillance, the designating authority of the Member State where the notified body is established shall assess an appropriate number of notified body’s reviews of the manufacturer’s clinical evaluations and shall carry out an appropriate number of file reviews, surveillance on-site assessments and observed audits at the following intervals:
+
+(a) at least every 12 months for notified bodies with more than 100 clients;
+
+(b) at least every 18 months for all other notified bodies.
+
+That designating authority shall, in particular, examine changes which have occurred since the last assessment and the work the notified body has performed since that assessment.
+
+By way of derogation from the first and second subparagraphs, in exceptional circumstances relating to the COVID-19 pandemic that temporarily prevent the designating authority of a Member State from carrying out surveillance on-site assessments or observed audits, it shall carry out any measures to ensure an adequate level of surveillance that remain possible under those circumstances in addition to the assessment of an appropriate number of the notified body’s reviews of the manufacturer’s technical documentation, including clinical evaluations. That designating authority shall examine changes to the organisational and general requirements set out in Annex II that have occurred since the last on-site assessment and the activities the notified body has performed thereafter.
+
+2\. Surveillance and monitoring conducted by the designating authorities shall appropriately address subsidiaries.
+
+3\. The designating authority of the Member State where the notified body is established shall continuously monitor that body to ensure ongoing compliance with the applicable requirements. That authority shall provide for a systematic follow-up of complaints, vigilance reports and other information, including from other Member States, which might indicate the non-fulfilment of the obligations by a notified body or its deviation from common or best practice.
+
+In addition to surveillance or renewal on-site assessments, the designating authority of the Member State where the notified body is established shall initiate unannounced or short-notice on-site assessments if those on-site assessments are needed to verify compliance.
+
+## Article 6 — Investigation of the competence of a notified body
+
+1\. The Commission may investigate cases regarding the competence of a notified body or the fulfilment of the requirements and responsibilities to which a notified body is subject under Directive 90/385/EEC and Directive 93/42/EEC.
+
+2\. Investigations will start with a consultation of the designating authority of the Member State where the notified body is established. Upon request, that designating authority shall, within four weeks, provide the Commission with all relevant information concerning the relevant notified body.
+
+3\. The Commission will ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+
+4\. When the notified body no longer meets the requirements for its notification, the Commission will inform the Member State where that body is established and may request the Member State to take the necessary corrective measures.
+
+## Article 7 — Exchange of experience on designation and supervision of conformity assessment bodies
+
+1\. Designating authorities shall consult each other and the Commission on questions with general relevance with regard to the implementation of this Regulation and the interpretation of the provisions of Directive 90/385/EEC and of Directive 93/42/EEC in relation with conformity assessment bodies.
+
+2\. Designating authorities shall communicate to each other and the Commission by 31 December 2013 the model assessment check-list used in accordance with Article 3(2) and thereafter the adaptations made to this check-list.
+
+3\. When the assessment reports referred to in Article 3(4) indicate discrepancies in the general practice of designating authorities, Member States or the Commission may request an exchange of views, which will be organised by the latter.
+
+## Article 8 — Operating of designating authorities
+
+1\. Designating authorities shall have a sufficient number of competent personnel at their disposal for the proper performance of their tasks. Those authorities shall be established, organised and operated so as to safeguard the objectivity and impartiality of their activities and to avoid any conflicts of interests with conformity assessment bodies. The designating authorities shall be organised so that each decision relating to a notification of a conformity assessment body is not taken by the same member of personnel who carried out the assessment of that body.
+
+2\. Where designating authorities are not in charge of market surveillance and vigilance for medical devices, they shall involve the competent authorities of that Member State for all tasks incumbent to them in accordance with this Regulation. They shall in particular consult the competent authorities of that Member State prior to taking decisions and invite them to attend all types of assessments.
+
+## Article 9 — Cooperation with accreditation bodies
+
+Where designation is based on accreditation in the meaning of Regulation (EC) No 765/2008, Member States shall ensure that the accreditation body that has accredited a particular notified body is kept informed by the competent authorities on incident reports and other information that relate to matters under the control of the notified body when the information may be relevant for the assessment of the performance of the notified body. Member States shall ensure that the accreditation body in charge of the accreditation of a particular conformity assessment body is kept informed by the designating authority of the Member State where the conformity assessment body is established on findings relevant for the accreditation. The accreditation body shall inform the designating authority of the Member State where the conformity assessment body is established on its findings.
+
+## Article 10 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply to extension of designations as from 25 December 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Interpretation of the criteria set out in Annex 8 to Directive 90/385/EEC and in Annex XI to Directive 93/42/EEC**
+
+1\. Sections 1 and 5 of Annex 8 to Directive 90/385/EEC and of Annex XI to Directive 93/42/EEC shall be interpreted as including the following elements:
+
+1.1. The conformity assessment body shall be a third-party body that is independent of the manufacturer of the product in relation to which it performs conformity assessment activities. The conformity assessment body shall also be independent of any other economic operator having an interest in the product as well as of any competitor of the manufacturer.
+
+1.2. That conformity assessment body shall be organised and operated so as to safeguard the independence, objectivity and impartiality of its activities. The conformity assessment body shall have procedures in place that effectively ensure identification, investigation and resolution of any case in which a conflict of interests may arise, including involvement of its staff in consultancy services in the field of medical devices prior to taking up employment with the body.
+
+1.3. That conformity assessment body, its top management and the personnel responsible for carrying out the conformity assessment tasks shall not:
+
+(a) engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified;
+
+(b) offer or provide any service which may jeopardise the confidence in their independence, impartiality or objectivity. In particular, they shall not offer or provide or have offered or provided, during the last three years, consultancy services to the manufacturer, his authorised representative, a supplier or a commercial competitor as regards Union requirements for the design, construction, marketing or maintenance of the products or processes under assessment. This does not preclude conformity assessment activities for manufacturers and economic operators mentioned above or general training activities relating to medical device regulations or related standards that are not client specific.
+
+1.4. The conformity assessment body’s top level management and its assessment personnel shall be impartial. The remuneration of the top level management and assessment personnel of a conformity assessment body shall not depend on the number or the results of assessments carried out.
+
+1.5. When a conformity assessment body is owned by a public entity or institution, the Member State shall ensure and document the independence of the conformity assessment body and the absence of any conflict of interests between, on the one hand, the designating authority and/or competent authority and, on the other hand, the conformity assessment body.
+
+1.6. The conformity assessment body shall ensure and document that the activities of its subsidiaries or subcontractors, or of any associated body, do not affect its independence, impartiality or objectivity in its conformity assessment activities.
+
+1.7. The requirements of points 1.1 to 1.6 do not preclude exchanges of technical information and regulatory guidance between a body and a manufacturer seeking their conformity assessment.
+
+2\. The second paragraph of Section 2 of Annex XI to Directive 93/42/EEC shall be interpreted as including the following elements:
+
+2.1. Subcontracting shall be limited to specific tasks. The subcontracting of the auditing of quality management systems or of products related reviews in its entirety is not allowed. The conformity assessment body shall in particular keep internal the review of the qualification and the monitoring of the performance of the external experts, the experts’ assignment to specific conformity assessment activities, and the final review and decision-making functions.
+
+2.2. Where a conformity assessment body subcontracts specific tasks or consults external experts related to the conformity assessment, it shall have a policy describing the conditions under which subcontracting or the consultation of external experts may take place. Any subcontracting or consultation of external experts shall be properly documented and be subject to a written agreement covering, among others, confidentiality and conflict of interests.
+
+2.3. The conformity assessment body shall establish procedures for assessing and monitoring the competence of all subcontractors and external experts used.
+
+3\. Sections 3 and 4 of Annex 8 to Directive 90/385/EEC and of Annex XI to Directive 93/42/EEC shall be interpreted as including the following elements:
+
+3.1. At all times and for each conformity assessment procedure and each kind or category of products in relation to which it has been or wishes to be notified, a conformity assessment body shall have within its organisation the following elements:
+
+(a) the necessary administrative, technical, clinical and scientific personnel with technical and scientific knowledge and sufficient and appropriate experience relating to medical devices and the corresponding technologies to perform the conformity assessment tasks, including the assessment of clinical data;
+
+(b) a documented process for the conduct of the conformity assessment procedures for which it is designated ( 5 ) taking into account their respective specificities, including legally required consultations, in respect of the different categories of devices covered by the scope of notification, ensuring transparency and the ability of reproduction of those procedures.
+
+3.2. The conformity assessment body shall have the necessary personnel and shall possess or have access to all equipment and facilities needed to perform properly the technical and administrative tasks entailed in the conformity assessment activities in relation to which it has been notified.
+
+3.3. The conformity assessment body shall have at its disposal the financial resources required to conduct its conformity assessment activities and related business operations. It shall document and provide evidence of its financial capacity and its sustainable economic viability, taking into account specific circumstances during an initial start-up phase.
+
+3.4. The conformity assessment body shall have a quality management system in place and operating.
+
+3.5. The experience and knowledge of the personnel responsible for carrying out conformity assessment activities shall be interpreted as including the following:
+
+(a) sound scientific, technical and vocational training, in particular in the relevant fields of medicine, pharmacy, engineering or other relevant sciences, covering all the conformity assessment activities in relation to which the body has been notified or wishes to be notified;
+
+(b) substantial relevant experience covering all the conformity assessment activities in relation to which the body has been notified or wishes to be notified;
+
+(c) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(d) appropriate knowledge and understanding of the relevant provisions of the medical devices legislation and of the applicable harmonised standards;
+
+(e) the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.
+
+3.6. The conformity assessment body shall establish and document qualification criteria and procedures for selection and authorisation of persons involved in conformity assessment activities (knowledge, experience and other competence required) and the required training (initial and ongoing training). The qualification criteria shall address the various functions within the conformity assessment process (e.g. auditing, product evaluation/testing, design dossier/file review, decision-making) as well as the devices, technologies and areas (e.g. biocompatibility, sterilisation, tissues and cells of animal origin, clinical evaluation) covered by the scope of designation.
+
+3.7. The conformity assessment body shall have procedures in place to ensure that its subsidiaries operate on the basis of the same operating procedures and with the same stringency as its headquarters.
+
+3.8. Where subcontractors or external experts are used in the context of the conformity assessment, in particular regarding novel, invasive and implantable medical devices or technologies, the conformity assessment body shall have adequate internal competence in each product area for which it is designated to direct the conformity assessment, to verify the appropriateness and validity of expert opinions and make the decision on the certification. The internal competence requested shall cover technological, clinical and auditing aspects.
+
+4\. Sections 6 of Annex 8 to Directive 90/385/EEC and of Annex XI to Directive 93/42/EEC shall be interpreted as including the following elements:
+
+4.1. The conformity assessment body shall take out appropriate liability insurance corresponding to the conformity assessment activities for which it is notified, including the possible suspension, restriction or withdrawal of certificates, and the geographic scope of its activities, unless liability is assumed by the State under domestic legislation or the Member State itself carries out the inspections directly.
+
+5\. Sections 7 of Annex 8 to Directive 90/385/EEC and of Annex XI to Directive 93/42/EEC shall be interpreted as including the following elements:
+
+5.1. The conformity assessment body shall ensure that confidentiality of the information which comes into its possession during the performance of the conformity assessment activities is observed by its personnel, committees, subsidiaries, subcontractors or any associated body, except when disclosure is required by law. To this end, it shall have documented procedures in place.
+
+5.2. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks, except in relation to the designating authorities and the competent authorities or the Commission. Proprietary rights shall be protected. To this end, the conformity assessment body shall have documented procedures in place.
+
+## ANNEX II
+
+**Application form to be submitted when applying for designation as notified body**
+
+Designating authority: …
+
+Name of the applying conformity assessment body: …
+
+Previous name (if applicable): …
+
+EU Notified Body number (if applicable): …
+
+Address: …
+
+…
+
+…
+
+…
+
+Contact person: …
+
+E-mail: …
+
+Telephone: …
+
+Legal form of the conformity assessment body: …
+
+Company registration number: …
+
+At company register: …
+
+…
+
+…
+
+The following documents shall be added. In case of extension or renewal, only new or modified documents shall be submitted.
+
+<table>
+<tbody><tr><td colspan="2">Item/issue</td><td>Corresponding Annex I section</td><td>Attachment number + Reference (Section/page) </td></tr>
+<tr><td colspan="4">ORGANISATIONAL AND GENERAL REQUIREMENTS</td></tr>
+<tr><td colspan="4">Legal status and organisational structure</td></tr>
+<tr><td>1</td><td>Company statutes</td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>Extract of company registration or enrolment act (Company register)</td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>Documentation on the activities of the organisation to which the conformity assessment body belongs (if any) and its relationship with the conformity assessment body</td><td>  </td><td>  </td></tr>
+<tr><td>4</td><td>Documentation on entities the conformity assessment body owns (if any), either within the Member State or outside, and the relationship with those entities</td><td>  </td><td>  </td></tr>
+<tr><td>5</td><td>Description of legal ownership and the legal or natural persons exercising control of the conformity assessment body</td><td>  </td><td>  </td></tr>
+<tr><td>6</td><td>Description of organisational structure and the operational management of the conformity assessment body</td><td>  </td><td>  </td></tr>
+<tr><td>7</td><td>Descriptions of functions, responsibilities and authorities of top-level management</td><td>  </td><td>  </td></tr>
+<tr><td>8</td><td>List of all staff who have an influence in the conformity assessment activities</td><td>  </td><td>  </td></tr>
+<tr><td>9</td><td>Documentation on other services provided by the conformity assessment body (if any) (e.g. consultancy relevant to devices, training etc.)</td><td>  </td><td>  </td></tr>
+<tr><td>10</td><td>Documentation on accreditation(s) relevant to this application</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Independence and impartiality</td></tr>
+<tr><td>11</td><td>Documentation on structures, policies and procedures to safeguard and promote the principles of impartiality throughout the organisation, personnel and assessment activities, including ethical rules or codes of conduct</td><td>  </td><td>  </td></tr>
+<tr><td>12</td><td>Description of how the conformity assessment body ensures that the activities of subsidiaries, subcontractors and external experts do not affect its independence, impartiality or objectivity</td><td>  </td><td>  </td></tr>
+<tr><td>13</td><td>Documentation on the impartiality of the top-level management and personnel involved in conformity assessment activities, including their remuneration and bonuses</td><td>  </td><td>  </td></tr>
+<tr><td>14</td><td>Documentation on conflict of interest and resolution of potential conflict procedure/form</td><td>  </td><td>  </td></tr>
+<tr><td>15</td><td>Description of independence of the conformity assessment body from the designating authority and from the competent authority, in particular when this body is a public entity/institution</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Confidentiality</td></tr>
+<tr><td>16</td><td>Documentation on professional secrecy procedure including protection of proprietary data</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Liability</td></tr>
+<tr><td>17</td><td>Documentation of the liability insurance, proof that the liability insurance covers cases where the notified body may be obliged to withdraw or suspend certificates</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Financial resources</td></tr>
+<tr><td>18</td><td>Documentation of the financial resources required to conduct the conformity assessment activities, related operations, including the ongoing commitments for certificates issued to demonstrate the continuing viability of the notified body and consistency with the range of products certified</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Quality system</td></tr>
+<tr><td>19</td><td>Quality Manual and a list of related documentation on the implementation, maintenance and operation of a quality management system, including policies for assignment of personnel to activities and their responsibilities</td><td>  </td><td>  </td></tr>
+<tr><td>20</td><td>Documentation on the procedure(s) for control of documents</td><td>  </td><td>  </td></tr>
+<tr><td>21</td><td>Documentation on the procedure(s) for control of records</td><td>  </td><td>  </td></tr>
+<tr><td>22</td><td>Documentation on the procedure(s) for management review</td><td>  </td><td>  </td></tr>
+<tr><td>23</td><td>Documentation on the procedure(s) for internal audits</td><td>  </td><td>  </td></tr>
+<tr><td>24</td><td>Documentation on the procedure(s) for corrective and preventive actions</td><td>  </td><td>  </td></tr>
+<tr><td>25</td><td>Documentation on the procedure(s) for complaints and appeals</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Resource requirements</td></tr>
+<tr><td colspan="4">General</td></tr>
+<tr><td>26</td><td>Description of own laboratories and testing facilities</td><td>  </td><td>  </td></tr>
+<tr><td>27</td><td>Employment contracts and other agreements with internal personnel, in particular in relation to impartiality, independence, conflict of interest (attach a standard contract template)</td><td>  </td><td>  </td></tr>
+<tr><td>28</td><td>Contracts and other agreements with subcontractors and external experts, in particular for impartiality, independence, conflict of interest (attach a standard contract template)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Qualification and authorisation of personnel</td></tr>
+<tr><td>29</td><td>List of all permanent and temporary personnel (technical, administrative etc.) including information on professional qualification, past experience and the types of contracts held</td><td>  </td><td>  </td></tr>
+<tr><td>30</td><td>List of all external personnel (e.g. external experts, external auditors) including information on professional qualification, past experience and on the types of contracts held</td><td>  </td><td>  </td></tr>
+<tr><td>31</td><td>Qualification matrix linking the body's staff and its external experts to the functions to be accomplished by them and to the fields of competence for which the body has been notified or wishes to be notified</td><td>  </td><td>  </td></tr>
+<tr><td>32</td><td>Qualification criteria for the different functions (see point 31)</td><td>  </td><td>  </td></tr>
+<tr><td>33</td><td>Documentation on the procedure(s) for selection and assignment of internal or external personnel involved in the conformity assessment activities, including conditions for the attribution of tasks to external personnel and the supervision of their expertise</td><td>  </td><td>  </td></tr>
+<tr><td>34</td><td>Documentation demonstrating that the management of the conformity assessment body has appropriate knowledge to set up and operate a system for: — the selection of the personnel deployed during the conformity assessment,  — the verification of the knowledge and experience of this personnel,  — the assignment of the personnel to their tasks,  — the verification of the performance of the personnel,  — the definition and the verification of their initial and ongoing training </td><td>  </td><td>  </td></tr>
+<tr><td>35</td><td>Documentation on the procedure assuring ongoing monitoring of competences and performance monitoring</td><td>  </td><td>  </td></tr>
+<tr><td>36</td><td>Documentation on standard training programmes conducted by the conformity assessment body relevant to the conformity assessment activities</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Subcontractors</td></tr>
+<tr><td>37</td><td>List of all subcontractors (not individual external experts) used for conformity assessment activities</td><td>  </td><td>  </td></tr>
+<tr><td>38</td><td>Subcontractor policy and procedure</td><td>  </td><td>  </td></tr>
+<tr><td>39</td><td>Documentation demonstrating adequate core competence within the conformity assessment body to assess, select, contract, and to verify the appropriateness and validity of subcontractor activities</td><td>  </td><td>  </td></tr>
+<tr><td>40</td><td>Examples of standard template contract, prohibiting further subcontracting by legal persons and specifically including provisions to ensure confidentiality and conflict of interest management with subcontractors (attach examples)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">Process</td></tr>
+<tr><td>41</td><td>Documentation on procedures relating to conformity assessment activities and other related documents reflecting the scope of conformity assessment activities including, in particular procedures relating to: — Qualification and classification  — Quality system assessments  — Risk management  — Pre-clinical data evaluation  — Clinical evaluation  — Representative sampling of technical documentation  — Post-market clinical follow up  — Communications from regulatory authorities including competent authorities and designating authorities  — Communication and analysis of the impact of vigilance reports on device certification  — Consultation procedures for drug-device combination products, devices utilising animal tissue, devices utilising human blood derivatives  — Review and decision making on certificate issuance including approval responsibilities  — Review and decision making on certificate suspension, restriction, withdrawal and refusal including approval responsibilities </td><td>  </td><td>  </td></tr>
+<tr><td>42</td><td>Checklists, templates, reports and certificates used for the conformity assessment activities</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+| Name and signature of an authorised representative of the applicant conformity assessment body (unless electronic signature is accepted) |  | Place and date |
+| --- | --- | --- |
+
+( 1 ) OJ L 218, 13.8.2008, p. 82.
+
+( 2 ) ‘NANDO’; see http://ec.europa.eu/enterprise/newapproach/nando
+
+( 3 ) Regulation (EU) 2020/561 of the European Parliament and of the Council of 23 April 2020 amending Regulation (EU) 2017/745 on medical devices, as regards the dates of application of certain of its provisions (OJ L 130, 24.4.2020, p. 18).
+
+( 4 ) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+
+( 5 ) See Annex II Item 41.

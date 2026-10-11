@@ -95,8 +95,10 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 2(b)(4) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘2(b)(4)- I</td><td>Lamps for other general lighting and special purposes (e.g. induction lamps): 15 mg</td><td>Expires on 24 February 2025</td></tr>
 <tr><td>2(b)(4)- II</td><td>Lamps emitting mainly light in the ultraviolet spectrum: 15 mg</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>2(b)(4)- III</td><td>Emergency lamps: 15 mg</td><td>Expires on 24 February 2027’</td></tr>
 </tbody>
+</table>

@@ -1,0 +1,578 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/1584 of 1 August 2023 on measures to prevent the establishment and spread of Popillia japonica Newman and on measures for the eradication and containment of that pest within certain demarcated areas of the Union territory"
+identifier: "32023R1584"
+eli: "http://data.europa.eu/eli/reg_impl/2023/1584/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-08-01
+entry_into_force: 2024-01-03
+last_amended: 2025-07-24
+consolidated_version: "02023R1584-20250724"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1584-20250724"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/1584 of 1 August 2023 on measures to prevent the establishment and spread of Popillia japonica Newman and on measures for the eradication and containment of that pest within certain demarcated areas of the Union territory
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/1584**
+
+**of 1 August 2023**
+
+**on measures to prevent the establishment and spread of Popillia japonica Newman and on measures for the eradication and containment of that pest within certain demarcated areas of the Union territory**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1313 of 3 July 2025 </td><td> L 1313</td><td>1</td><td>4.7.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/1584**
+
+**of 1 August 2023**
+
+**on measures to prevent the establishment and spread of Popillia japonica Newman and on measures for the eradication and containment of that pest within certain demarcated areas of the Union territory**
+
+## Article 1 — Subject matter
+
+This Regulation sets out measures to prevent the establishment and spread within the Union territory of Popillia japonica Newman, measures for its eradication, where it is found present in that territory, and measures for its containment, when eradication is no longer possible.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means Popillia japonica Newman;
+
+(2) ‘host plants’ means all plants for planting with growing media intended to sustain the vitality of the plants, other than plants in tissue culture and aquatic plants;
+
+(3) ‘specified plants’ means the plants for planting with growing media intended to sustain the vitality of the plants, other than plants in tissue culture and aquatic plants listed in Annex I;
+
+(4) ‘demarcated area for containment’ means an area listed in Annex II, where the specified pest cannot be eradicated;
+
+(5) ‘the pest survey card’ means the publication ‘Pest survey card on Popillia japonica’ ( 1 ) of the European Food Safety Authority (‘the Authority’);
+
+(6) ‘General guidelines for statistically sound and risk-based surveys’ means the publication ‘General guidelines for statistically sound and risk-based surveys of plant pests’ of the Authority.
+
+## Article 3 — Surveys of the Union territory outside of demarcated areas
+
+1\. The competent authorities shall conduct annual risk-based surveys for the presence of the specified pest outside of the demarcated areas, in the areas of the Union territory where the specified pest is not known to be present, but could become established, taking into account the information referred to in the pest survey card.
+
+2\. The survey design and sampling scheme of the survey shall be in line with the General guidelines for statistically sound and risk-based surveys, in order to detect with a sufficient level of confidence, a low level of presence of the specified pest within the Member State concerned.
+
+3\. The surveys shall be carried out:
+
+(a) on the basis of the level of the phytosanitary risk;
+
+(b) in the risk areas of open air fields, orchards/vineyards, nurseries, public sites, areas with grass such as sport grounds and golf courses, surroundings of airports, ports and railway stations, as well as in greenhouses and garden centres, and especially in areas close to the transport network axis connecting with areas where the pest is known to be present;
+
+(c) at appropriate times of the year, with regards to the possibility to detect the specified pest, taking into account the biology of the pest and the presence of specified plants.
+
+4\. The surveys shall consist of:
+
+(a) trapping, using lures to attract the specified pest; and
+
+(b) where appropriate, visual examinations of the specified plants.
+
+## Article 4 — Contingency plans
+
+1\. Member States shall, in addition to the elements listed in Article 25(2) of Regulation (EU) 2016/2031, provide in their contingency plans for the following:
+
+(a) measures for the eradication of the specified pest, as set out in Article 9;
+
+(b) special requirements regarding the introduction of host plants into and their movement within the Union territory, as set out in Annexes VII and VIII to Implementing Regulation (EU) 2019/2072;
+
+(c) procedures for identifying the owners of private properties where measures will have to be applied in case of detection of the specified pest.
+
+2\. Member States shall update their contingency plans, as appropriate, by 31 December of each year.
+
+## Article 5 — Establishment of demarcated areas
+
+1\. Where the presence of the specified pest is officially confirmed, the Member State concerned shall, without delay, establish a demarcated area for the purpose of eradication of the specified pest.
+
+2\. Following an official confirmation of the presence of the specified pest and the establishment of the demarcated area referred to in paragraph 1, the competent authorities shall, without delay, determine the level of infestation through adequate visual examinations and the use of traps with lures to attract the specified pest.
+
+3\. When, based on the results of the surveys referred to in Article 7 or the results of the investigations referred to in paragraph 2, it is concluded that the level of infestation by the specified pest is such that makes its eradication impossible, the competent authorities shall immediately notify to the Commission the details of the new demarcated area for containment that they intend to designate or modify, in order for such area to be included in the list of demarcated areas for containment in Annex II.
+
+4\. The demarcated areas shall consist of the following:
+
+(a) an infested zone including the area where the presence of the specified pest has been officially confirmed surrounded by at least a width of:
+
+(i) 1 km in the case of a demarcated area for eradication of the specified pest;
+
+(ii) 3 km in the case of a demarcated area for containment of the specified pest; and
+
+(b) a buffer zone with a width of at least:
+
+(i) 5 km beyond the boundary of the infested zone in the case of a demarcated area for eradication of the specified pest;
+
+(ii) 15 km beyond the boundary of the infested zone in the case of a demarcated area for containment of the specified pest.
+
+5\. The delimitation of the demarcated area shall take into account the scientific principles, the biology of the specified pest, the level of infestation, the particular distribution of the host plants in the area concerned and the evidence of establishment of the specified pest.
+
+6\. If the presence of the specified pest is confirmed outside the infested zone, eradication measures shall be taken in accordance with Article 9 and the delimitation of the infested zone and buffer zone shall be reviewed and modified accordingly.
+
+Where the presence of the specified pest has been officially confirmed in the buffer zone of a demarcated area for containment, Articles 17 and 18 of Regulation (EU) 2016/2031 shall apply until the competent authorities evaluate the level of that infestation. In case eradication is not considered possible, paragraph 3 of this Article shall apply.
+
+7\. Within the demarcated areas the competent authorities shall raise public awareness concerning the threat of the specified pest and the measures adopted to prevent its further spread outside of those areas.
+
+They shall ensure that the general public and professional operators are aware of the delimitation of the demarcated areas.
+
+## Article 6 — Derogations from the obligation to establish demarcated areas
+
+1\. By way of derogation from Article 5(1), the competent authorities may choose not to establish a demarcated area if the following conditions are fulfilled:
+
+(a) there is evidence that the specified pest has not multiplied; and
+
+(b) there is evidence that:
+
+(i) the specified pest has been introduced into the area with the plants on which it was found and those plants were infested before their introduction into the area concerned; or
+
+(ii) it is an isolated finding, not expected to lead to establishment.
+
+2\. Where the competent authority applies the derogation provided for in paragraph 1, it shall:
+
+(a) take measures to ensure the prompt eradication of the specified pest and to exclude the possibility of its spread;
+
+(b) immediately intensify the number of traps and the frequency with which the traps are checked in that area;
+
+(c) immediately intensify visual examination for the presence of adults of the specified pest and inspect grassland and soil for the presence of larvae of the specified pest at appropriate times;
+
+(d) during at least one life cycle of the specified pest plus one additional year, survey a width of at least 1 km around the infested plants or the place where the specified pest was found, regularly and intensively during the flying period of the specified pest;
+
+(e) trace back the origin of the infestation and investigate the pathways associated with the finding of the specified pest as far as possible;
+
+(f) raise public awareness of the threat of the specified pest; and
+
+(g) take any other measure, which may help eradicate the specified pest, in accordance with the eradication measures described in Article 9.
+
+## Article 7 — Annual surveys in demarcated areas
+
+1\. In the demarcated areas, the competent authorities shall carry out annual surveys, as referred to in Article 19(1) of Regulation (EU) 2016/2031, to detect the presence of the specified pest, taking into account the information referred to in the pest survey card.
+
+2\. The survey design shall be in line with the General guidelines for statistically sound and risk-based surveys and the survey design and sampling scheme used for detection surveys shall guarantee the detection with at least 95 % of confidence, a level of presence of the specified pest of 1 %.
+
+3\. The annual surveys shall be carried out:
+
+(a) in the infested zones, in the case of demarcated areas for eradication;
+
+(b) in the buffer zones in the demarcated areas for eradication and in the buffer zones in the demarcated areas for containment;
+
+(c) in open air fields, orchards/vineyards, forests, nurseries, private gardens, public sites, areas with grass such as sport grounds and golf courses, surroundings of airports, ports and railway stations, as well as in greenhouses and garden centres, in particular in the areas close to the transport network axis connecting with areas where the specified pest is not known to be present; and
+
+(d) at appropriate times of the year, with regard to the possibility to detect the specified pest, taking into account the biology of the specified pest and the presence of specified plants.
+
+4\. The annual surveys shall consist of:
+
+(a) trapping, using lures to attract the specified pest in the case of surveys carried out in the infested zones in the demarcated areas for eradication;
+
+(b) visual examinations of the specified plants;
+
+(c) soil sampling and testing, to detect the larvae of the specified pest.
+
+## Article 8 — Lifting of demarcation
+
+The demarcation may be lifted when, based on the surveys referred to in Article 7, the specified pest has not been detected in the demarcated area for at least three consecutive years.
+
+## Article 9 — Eradication measures
+
+1\. In the infested zones, the competent authorities shall ensure that to eradicate the specified pest the following measures are taken:
+
+(a) against the adults of the specified pest, at least a combination of two of these:
+
+(i) mass trapping system with lures, ensuring the destruction of the specified pest by appropriate methods;
+
+(ii) attract-and-kill strategy;
+
+(iii) manual capture of the specified pest, ensuring the destruction of the specified pest by appropriate methods;
+
+(iv) chemical treatments of the plants;
+
+(v) biological control (such as entomopathogenic fungi or any other effective biological control);
+
+(vi) any other measure which has been scientifically proven to be effective;
+
+(b) against the larvae of the specified pest, at least a combination of two of these:
+
+(i) appropriate treatments of the soil where larvae of the specified pest are present;
+
+(ii) biological control (such as entomopathogenic fungi or entomopathogenic nematodes or any other effective biological control);
+
+(iii) prohibition of irrigation of grassland during the emergence of the adults of the specified pest from the soil and during their flying period;
+
+(iv) use of mechanical milling to destroy larvae in the soil at appropriate times of the year;
+
+(v) local destruction of heavily infested grassland;
+
+(c) during the flying period of the specified pest:
+
+(i) specific measures in airports, harbours and railway stations to ensure that the specified pest is kept out of aircrafts, ships and trains, based on specific risk management procedures, which have been communicated to the Commission and the other Member States in writing; and
+
+(ii) prohibition of the movement of untreated plant debris outside of the infested zone, unless it is transported within enclosed vehicles, and it is stored and composted in an indoor facility outside the infested area;
+
+(d) prohibition of the movement of the upper layer of the soil and used growing media outside of the infested zone, unless:
+
+(i) it has been subject to appropriate measures to eliminate the specified pest or prevent infestation of the specified plants; or
+
+(ii) it will be deep buried in landfill under the supervision of the competent authorities, while being transported within enclosed vehicles, which to ensure that the specified pest cannot spread.
+
+2\. In the buffer zones, the competent authorities shall ensure that the upper layer of the soil, used growing media and untreated plant debris are moved outside the buffer zone, only in so far as the specified pest has not been found to be present therein.
+
+## Article 10 — Containment measures
+
+1\. In the infested zones, the competent authorities shall ensure that the following measures are taken, in order to contain the specified pest:
+
+(a) measures to control the presence of the specified pest and to avoid further spread, through an integrated approach, including one or more of the following:
+
+(i) mass trapping system with lures, or manual capture, ensuring the destruction of the captures by appropriate methods, or attract-and-kill strategy;
+
+(ii) biological control such as by entomopathogenic fungi or by entomopathogenic nematodes;
+
+(iii) chemical treatment of the plants and/or appropriate treatment of the soil;
+
+(iv) use of mechanical milling to destroy larvae in the soil at appropriate times of the year;
+
+v) mechanical destruction of vegetation in sites at risk;
+
+(b) during the flying period of the specified pest:
+
+(i) specific measures in airports, harbours and railway stations to ensure the specified pest is kept out of aircrafts, ships and trains, based on specific risk management procedures, which have been communicated to the Commission and the other Member States in writing; and
+
+(ii) prohibition of the movement of untreated plant debris outside of the infested zone, unless it is transported within enclosed vehicles, and it is stored and composted in an indoor facility outside the infested area;
+
+(c) prohibition of the movement of the upper layer of the soil and used growing medium outside of the infested zone, unless:
+
+(i) it has been subject to appropriate measures to eliminate the specified pest or prevent infestation of the specified plants; or
+
+(ii) it will be deep buried in landfill under the supervision of the competent authorities, being transported within enclosed vehicles which ensures the specified pest cannot spread.
+
+2\. In the buffer zones, the competent authorities shall ensure that the upper layer of the soil, used growing media and untreated plant debris are moved outside the buffer zone, only in so far as the specified pest has not been found to be present.
+
+## Article 11 — Reporting
+
+By 30 April of each year, Member States shall submit to the Commission and to the other Member States:
+
+(a) a report on the measures taken during the preceding calendar year pursuant to this Regulation and on the results of the measures provided for in Articles 5 to 10;
+
+(b) the results of the surveys carried out pursuant to Article 3, outside of the demarcated areas, during the preceding calendar year, using the templates referred to in Annex I to Commission Implementing Regulation (EU) 2020/1231 ( 2 );
+
+(c) the results of the surveys carried out pursuant to Article 7, in the demarcated areas, during the preceding calendar year, using one of the templates referred to in Annex III.
+
+## Article 12 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 3(2) shall apply from 1 January 2026.
+
+Article 4 shall apply from 1 August 2023.
+
+Article 7(2) shall apply from 1 January 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**LIST OF SPECIFIED PLANTS**
+
+Acer L.
+
+Actinidia Lindley
+
+Aesculus L.
+
+Alcea L.
+
+Alnus Mill.
+
+Althaea L.
+
+Ampelopsis A.Rich. ex Michx.
+
+Aronia Medikus
+
+Artemisia L.
+
+Asparagus Tourn. ex L.
+
+Berchemia Neck. ex DC.
+
+Betula L.
+
+Carpinus L.
+
+Castanea Mill.
+
+Clethra L.
+
+Convolvulus L.
+
+Corylus L.
+
+Crategus L.
+
+Cyperaceae Juss.
+
+Dioscorea L.
+
+Fallopia Lour.
+
+Filipendula Mill.
+
+Fragaria L.
+
+Glycine Willd.
+
+Hibiscus L.
+
+Humulus L.
+
+Hypericum Tourn. ex L.
+
+Juglans L.
+
+Kerria D.C.
+
+Lagerstroemia L.
+
+Lythrum L.
+
+Malus Mill.
+
+Malva Tourn. ex L.
+
+Medicago L.
+
+Melia L.
+
+Morus L.
+
+Oenothera L.
+
+Parthenocissus Planch.
+
+Persicaria (L.) Mill.
+
+Phaseolus L.
+
+Platanus L.
+
+Poaceae Barnhart
+
+Populus L.
+
+Prunus L.
+
+Pteridium Gled. ex Scop.
+
+Pyrus L.
+
+Quercus L.
+
+Reynoutria Houtt.
+
+Rheum L.
+
+Ribes L.
+
+Robinia L.
+
+Rosa L.
+
+Rubus L.
+
+Rumex L.
+
+Salix L.
+
+Sassafras L. ex Nees
+
+Smilax L.
+
+Solanum L.
+
+Sorbus L.
+
+Tilia L.
+
+Toxicodendron Mill.
+
+Trifolium Tourn. ex L.
+
+Ulmus L.
+
+Urtica L.
+
+Vaccinium L.
+
+Vitis L.
+
+Wisteria Nutt.
+
+Zelkova Spach
+
+## ANNEX II — LIST OF DEMARCATED AREAS FOR CONTAINMENT AS REFERRED TO IN ARTICLE 2, POINT (4)
+
+**1\. Italy**
+
+<table>
+<tbody><tr><td>Number/name of demarcated area (DA)</td><td>Zone of DA</td><td>Region</td><td>Municipalities or other administrative/geographic delimitations</td></tr>
+<tr><td rowspan="9">1.</td><td rowspan="4">Infested zone</td><td>Lombardia</td><td>The entire territory of the following municipalities: Provincia di Bergamo:  Ambivere, Antegnate, Arcene, Arzago d’Adda, Azzano San Paolo, Bagnatica, Barbata, Bariano, Bergamo, Boltiere, Bonate Sopra, Bonate Sotto, Bottanuco, Brembate, Brembate di Sopra, Brignano Gera d’Adda, Brusaporto, Calcinate, Calcio, Calusco d’Adda, Calvenzano, Canonica d’Adda, Capriate San Gervasio, Caprino Bergamasco, Caravaggio, Carvico, Casirate d’Adda, Castel Rozzone, Cavernago, Chignolo d’Isola, Cisano Bergamasco, Ciserano, Cividate al Piano, Cologno al Serio, Comun Nuovo, Cortenuova, Covo, Curno, Dalmine, Fara Gera d’Adda, Fara Olivana con Sola, Filago, Fontanella, Fornovo San Giovanni, Ghisalba, Gorle, Grassobbio, Isso, Lallio, Levate, Lurano, Madone, Mapello, Martinengo, Medolago, Misano di Gera d’Adda, Morengo, Mornico al Serio, Mozzanica, Mozzo, Orio al Serio, Osio Sopra, Osio Sotto, Pagazzano, Palosco, Pedrengo, Pognano, Ponte San Pietro, Pontida, Pontirolo Nuovo, Presezzo, Pumenengo, Romano di Lombardia, Seriate, Solza, Sotto il Monte Giovanni XXIII, Spirano, Stezzano, Suisio, Terno d’Isola, Torre de’ Busi, Torre Pallavicina, Treviglio, Treviolo, Urgnano, Valbrembo, Verdellino, Verdello, Villa d’Adda, Zanica.  Provincia di Brescia:  Chiari, Orzinuovi, Orzivecchi, Palazzolo sull’Oglio, Pontoglio, Roccafranca, Rudiano, Urago d’Oglio, Villachiara.  Provincia di Como:  Albavilla, Albese con Cassano, Albiolo, Alserio, Alta Valle Intelvi, Alzate Brianza, Anzano del Parco, Appiano Gentile, Argegno, Arosio, Asso, Barni, Bellagio, Bene Lario, Beregazzo con Figliaro, Binago, Bizzarone, Blessagno, Blevio, Bregnano, Brenna, Brienno, Brunate, Bulgarograsso, Cabiate, Cadorago, Caglio, Campione d’Italia, Cantù, Canzo, Capiago Intimiano, Carate Urio, Carbonate, Carimate, Carlazzo, Carugo, Caslino d’Erba, Casnate con Bernate, Cassina Rizzardi, Castelmarte, Castelnuovo Bozzente, Centro Valle Intelvi, Cerano Intelvi, Cermenate, Cernobbio, Cirimido, Claino con Osteno, Colonno, Colverde, Como, Corrido, Cucciago, Dizzasco, Erba, Eupilio, Faggeto Lario, Faloppio, Fenegrò, Figino Serenza, Fino Mornasco, Gera Lario, Grandate, Grandola ed Uniti, Griante, Guanzate, Inverigo, Laglio, Laino, Lambrugo, Lasnigo, Lezzeno, Limido Comasco, Lipomo, Locate Varesino, Lomazzo, Longone al Segrino, Luisago, Lurago d’Erba, Lurago Marinone, Lurate Caccivio, Magreglio, Mariano Comense, Maslianico, Menaggio, Merone, Moltrasio, Monguzzo, Montano Lucino, Montorfano, Mozzate, Nesso, Novedrate, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Pigra, Plesio, Pognana Lario, Ponna, Ponte Lambro, Porlezza, Proserpio, Pusiano, Rezzago, Rodero, Ronago, Rovellasca, Rovello Porro, Sala Comacina, San Fermo della Battaglia, Schignano, Senna Comasco, Solbiate con Cagno, Sorico, Sormano, Tavernerio, Torno, Tremezzina, Turate, Uggiate-Trevano, Valbrona, Valmorea, Valsolda, Veleso, Veniano, Vertemate con Minoprio, Villa Guardia, Zelbio.  Provincia di Cremona:  Acquanegra Cremonese, Agnadello, Annicco, Bagnolo Cremasco, Camisano, Campagnola Cremasca, Capergnanica, Cappella Cantone, Capralba, Casale Cremasco-Vidolasco, Casaletto Ceredano, Casaletto di Sopra, Casaletto Vaprio, Casalmorano, Castel Gabbiano, Castelleone, Chieve, Credera Rubbiano, Crema, Cremosano, Crotta d’Adda, Cumignano sul Naviglio, Dovera, Fiesco, Formigara, Genivolta, Gombito, Grumello Cremonese ed Uniti, Izano, Madignano, Monte Cremasco, Montodine, Moscazzano, Offanengo, Paderno Ponchielli, Palazzo Pignano, Pandino, Pianengo, Pieranica, Pizzighettone, Quintano, Ricengo, Ripalta Arpina, Ripalta Cremasca, Ripalta Guerina, Rivolta d’Adda, Romanengo, Salvirola, San Bassano, Sergnano, Sesto ed Uniti, Soncino, Soresina, Spinadesco, Spino d’Adda, Ticengo, Torlino Vimercati, Trescore Cremasco, Trigolo, Vaiano Cremasco, Vailate.  Provincia di Lecco:  Abbadia Lariana, Airuno, Annone di Brianza, Barzago, Barzanò, Barzio, Bosisio Parini, Brivio, Bulciago, Calco, Calolziocorte, Casatenovo, Cassago Brianza, Castello di Brianza, Cernusco Lombardone, Cesana Brianza, Civate, Colico, Colle Brianza, Cortenova, Costa Masnaga, Crandola Valsassina, Cremella, Dolzago, Dorio, Ello, Esino Lario, Galbiate, Garbagnate Monastero, Garlate, Imbersago, Introbio, La Valletta Brianza, Lecco, Lierna, Lomagna, Malgrate, Mandello del Lario, Merate, Missaglia, Molteno, Monte Marenzo, Montevecchia, Monticello Brianza, Nibionno, Oggiono, Olgiate Molgora, Olginate, Oliveto Lario, Osnago, Paderno d’Adda, Pasturo, Perledo, Pescate, Primaluna, Robbiate, Rogeno, Santa Maria Hoè, Sirone, Sirtori, Suello, Valgreghentino, Valmadrera, Varenna, Vercurago, Verderio, Viganò.  Provincia di Lodi:  Abbadia Cerreto, Bertonico, Boffalora d’Adda, Borghetto Lodigiano, Borgo San Giovanni, Brembio, Casaletto Lodigiano, Casalmaiocco, Casalpusterlengo, Caselle Landi, Caselle Lurani, Castelgerundo, Castelnuovo Bocca d’Adda, Castiglione d’Adda, Castiraga Vidardo, Cavenago d’Adda, Cervignano d’Adda, Codogno, Comazzo, Cornegliano Laudense, Corno Giovine, Cornovecchio, Corte Palasio, Crespiatica, Fombio, Galgagnano, Graffignana, Guardamiglio, Livraga, Lodi, Lodi Vecchio, Maccastorna, Mairago, Maleo, Marudo, Massalengo, Meleti, Merlino, Montanaso Lombardo, Mulazzano, Orio Litta, Ospedaletto Lodigiano, Ossago Lodigiano, Pieve Fissiraga, Salerano sul Lambro, San Fiorano, San Martino in Strada, San Rocco al Porto, Sant’Angelo Lodigiano, Santo Stefano Lodigiano, Secugnago, Senna Lodigiana, Somaglia, Sordio, Tavazzano con Villavesco, Terranova dei Passerini, Turano Lodigiano, Valera Fratta, Villanova del Sillaro, Zelo Buon Persico.  Provincia di Sondrio:  Ardenno, Berbenno di Valtellina, Buglio in Monte, Civo, Colorina, Dazio, Delebio, Dubino, Forcola, Morbegno, Piantedo, Talamona, Tartano.  The entire territory of:  Provincia di Milano, Provincia di Monza e della Brianza, Provincia di Pavia, Provincia di Varese </td></tr>
+<tr><td>Piemonte</td><td>The entire territory of the following municipalities: Provincia di Alessandria:  Alessandria, Alfiano Natta, Alluvioni Piovera, Altavilla Monferrato, Alzano Scrivia, Avolasca, Balzola, Bassignana, Bergamasco, Berzano di Tortona, Borgo San Martino, Borgoratto Alessandrino, Bosco Marengo, Bozzole, Brignano-Frascata, Camagna Monferrato, Camino, Carbonara Scrivia, Carentino, Carezzano, Casal Cermelli, Casale Monferrato, Casalnoceto, Casasco, Cassano Spinola, Castellania Coppi, Castellar Guidobono, Castellazzo Bormida, Castelletto Merli, Castelletto Monferrato, Castelnuovo Scrivia, Cella Monte, Cereseto, Cerreto Grue, Cerrina Monferrato, Coniolo, Conzano, Costa Vescovato, Felizzano, Frassinello Monferrato, Frassineto Po, Frugarolo, Fubine Monferrato, Gabiano, Garbagna, Gavi, Giarole, Gremiasco, Guazzora, Isola Sant’Antonio, Lu e Cuccaro Monferrato, Masio, Mirabello Monferrato, Molino dei Torti, Mombello Monferrato, Momperone, Moncestino, Monleale, Montecastello, Montegioco, Montemarzino, Morano sul Po, Murisengo, Novi Ligure, Occimiano, Odalengo Grande, Odalengo Piccolo, Olivola, Ottiglio, Oviglio, Ozzano Monferrato, Paderna, Pecetto di Valenza, Pietra Marazzi, Pomaro Monferrato, Pontecurone, Pontestura, Ponzano Monferrato, Pozzol Groppo, Pozzolo Formigaro, Quargnento, Quattordio, Rivarone, Rosignano Monferrato, Sala Monferrato, Sale, San Giorgio Monferrato, San Salvatore Monferrato, San Sebastiano Curone, Sant’Agata Fossili, Sardigliano, Sarezzano, Serralunga di Crea, Solero, Solonghello, Spineto Scrivia, Terruggia, Ticineto, Tortona, Treville, Valenza, Valmacca, Vignale Monferrato, Viguzzolo, Villadeati, Villalvernia, Villamiroglio, Villanova Monferrato, Villaromagnano, Volpedo, Volpeglino.  Provincia di Asti:  Albugnano, Aramengo, Asti, Azzano d’Asti, Baldichieri d’Asti, Belveglio, Berzano di San Pietro, Bruno, Buttigliera d’Asti, Calliano Monferrato, Camerano Casasco, Cantarana, Capriglio, Casorzo Monferrato, Castagnole Monferrato, Castell’Alfero, Castellero, Castello di Annone, Castelnuovo Belbo, Castelnuovo Calcea, Castelnuovo Don Bosco, Cerreto d’Asti, Cerro Tanaro, Chiusano d’Asti, Cinaglio, Cocconato, Corsione, Cortandone, Cortanze, Cortazzone, Cortiglione, Cossombrato, Cunico, Dusino San Michele, Fontanile, Frinco, Grana Monferrato, Grazzano Badoglio, Incisa Scapaccino, Maretto, Mombaruzzo, Mombercelli, Monale, Moncalvo, Moncucco Torinese, Mongardino, Montafia, Montechiaro d’Asti, Montemagno Monferrato, Montiglio Monferrato, Moransengo-Tonengo, Passerano Marmorito, Penango, Piea, Pino d’Asti, Piovà Massaia, Portacomaro, Refrancore, Roatto, Robella, Rocca d’Arazzo, Rocchetta Tanaro, San Marzano Oliveto, San Paolo Solbrito, Scurzolengo, Settime, Soglio, Tigliole, Tonco, Viale, Viarigi, Vigliano d’Asti, Villa San Secondo, Villafranca d’Asti, Villanova d’Asti, Vinchio.  Città metropolitana di Torino:  Agliè, Albiano d’Ivrea, Andezeno, Andrate, Arignano, Azeglio, Bairo, Baldissero Canavese, Baldissero Torinese, Banchette, Barone Canavese, Beinasco, Bollengo, Borgaro Torinese, Borgofranco d’Ivrea, Borgomasino, Bosconero, Brandizzo, Bricherasio, Brosso, Brozolo, Bruino, Brusasco, Burolo, Busano, Caluso, Candia Canavese, Candiolo, Cantalupa, Caravino, Carema, Casalborgone, Cascinette d’Ivrea, Caselle Torinese, Castagneto Po, Castellamonte, Castelnuovo Nigra, Castiglione Torinese, Cavagnolo, Chiaverano, Chieri, Chivasso, Ciconio, Cinzano, Collegno, Colleretto Giacosa, Cossano Canavese, Cuceglio, Cumiana, Favria, Feletto, Fiorano Canavese, Foglizzo, Front, Frossasco, Garzigliana, Gassino Torinese, Grugliasco, Issiglio, Ivrea, La Loggia, Lauriano, Leini, Lessolo, Lombardore, Loranzè, Lusigliè, Maglione, Mappano, Marentino, Mazzè, Mercenasco, Mombello di Torino, Moncalieri, Montaldo Torinese, Montalenghe, Montalto Dora, Montanaro, Monteu da Po, Moriondo Torinese, Nichelino, Nomaglio, None, Oglianico, Orbassano, Orio Canavese, Osasco, Ozegna, Palazzo Canavese, Parella, Pavarolo, Pavone Canavese, Pecetto Torinese, Perosa Canavese, Pinerolo, Pino Torinese, Piossasco, Piverone, Quagliuzzo, Quassolo, Quincinetto, Riva presso Chieri, Rivalba, Rivalta di Torino, Rivara, Rivarolo Canavese, Rivarossa, Rivoli, Roletto, Romano Canavese, Rondissone, Rueglio, Salassa, Salerano Canavese, Samone, San Benigno Canavese, San Francesco al Campo, San Giorgio Canavese, San Giusto Canavese, San Martino Canavese, San Maurizio Canavese, San Mauro Torinese, San Raffaele Cimena, San Sebastiano da Po, San Secondo di Pinerolo, Scarmagno, Sciolze, Settimo Rottaro, Settimo Torinese, Settimo Vittone, Strambinello, Strambino, Tavagnasco, Torino, Torrazza Piemonte, Torre Canavese, Traversella, Trofarello, Val di Chy, Valchiusa, Venaria Reale, Verolengo, Verrua Savoia, Vestignè, Vialfrè, Vidracco, Villareggia, Vinovo, Vische, Vistrorio, Volpiano, Volvera.  Provincia del Verbano-Cusio-Ossola:  Antrona Schieranco, Anzola d’Ossola, Arizzano, Arola, Baceno, Bannio Anzino, Baveno, Bee, Belgirate, Beura-Cardezza, Bognanco, Borgomezzavalle, Brovello-Carpugnino, Calasca-Castiglione, Cambiasca, Cannero Riviera, Cannobio, Casale Corte Cerro, Ceppo Morelli, Cesara, Cossogno, Crevoladossola, Crodo, Domodossola, Druogno, Formazza, Germagno, Ghiffa, Gignese, Gravellona Toce, Loreglia, Macugnaga, Madonna del Sasso, Masera, Massiola, Mergozzo, Miazzina, Montescheno, Nonio, Oggebbio, Omegna, Ornavasso, Pallanzeno, Piedimulera, Pieve Vergonte, Premeno, Premia, Premosello-Chiovenda, Quarna Sopra, Quarna Sotto, San Bernardino Verbano, Stresa, Trasquera, Trontano, Valstrona, Vanzone con San Carlo, Varzo, Verbania, Vignone, Villadossola, Vogogna.  Provincia di Vercelli:  Albano Vercellese, Alice Castello, Arborio, Asigliano Vercellese, Balmuccia, Balocco, Bianzè, Borgo d’Ale, Borgo Vercelli, Borgosesia, Buronzo, Campertogno, Caresana, Caresanablot, Carisio, Casanova Elvo, Cellio con Breia, Cervatto, Cigliano, Civiasco, Collobiano, Costanzana, Cravagliana, Crescentino, Crova, Desana, Fobello, Fontanetto Po, Formigliana, Gattinara, Ghislarengo, Greggio, Guardabosone, Lamporo, Lenta, Lignana, Livorno Ferraris, Lozzolo, Moncrivello, Motta de’ Conti, Olcenengo, Oldenico, Palazzolo Vercellese, Pertengo, Pezzana, Pila, Piode, Postua, Prarolo, Quarona, Quinto Vercellese, Rassa, Rimella, Rive, Roasio, Ronsecco, Rossa, Rovasenda, Salasco, Sali Vercellese, Saluggia, San Germano Vercellese, San Giacomo Vercellese, Santhià, Scopa, Scopello, Serravalle Sesia, Stroppiana, Tricerro, Trino, Tronzano Vercellese, Valduggia, Varallo, Vercelli, Villarboit, Villata, Vocca.  The entire territory of:  Provincia di Biella, Provincia di Novara </td></tr>
+<tr><td>Emilia-Romagna</td><td>The entire territory of the following municipalities: Provincia di Piacenza  Alta Val Tidone, Borgonovo Val Tidone, Castel San Giovanni, Ziano Piacentino. </td></tr>
+<tr><td>Valle d’Aosta</td><td>The entire territory of the following municipalities: Provincia di Aosta  Arnad, Bard, Brissogne, Donnas, Hône, Issogne, Montjovet, Pollein, Pont-Saint-Martin, Quart, Saint-Christophe, Verrès </td></tr>
+<tr><td rowspan="5">Buffer zone</td><td>Lombardia</td><td>The entire territory of the following municipalities: Provincia di Bergamo:  Adrara San Martino, Adrara San Rocco, Albano Sant’Alessandro, Albino, Algua, Almè, Almenno San Bartolomeo, Almenno San Salvatore, Alzano Lombardo, Ardesio, Averara, Aviatico, Barzana, Bedulita, Berbenno, Berzo San Fermo, Bianzano, Blello, Bolgare, Borgo di Terzo, Bracca, Branzi, Brumano, Camerata Cornello, Capizzone, Carobbio degli Angeli, Carona, Casazza, Casnigo, Cassiglio, Castelli Calepio, Cazzano Sant’Andrea, Cenate Sopra, Cenate Sotto, Cene, Chiuduno, Corna Imagna, Cornalba, Costa di Mezzate, Costa Serina, Costa Valle Imagna, Credaro, Cusio, Dossena, Entratico, Fiorano al Serio, Fonteno, Foppolo, Foresto Sparso, Fuipiano Valle Imagna, Gandosso, Gaverina Terme, Gazzaniga, Gorlago, Grone, Grumello del Monte, Isola di Fondra, Leffe, Lenna, Locatello, Luzzana, Mezzoldo, Moio de’ Calvi, Monasterolo del Castello, Montello, Nembro, Olmo al Brembo, Oltre il Colle, Ornica, Paladina, Palazzago, Parzanica, Piazza Brembana, Piazzatorre, Piazzolo, Ponteranica, Pradalunga, Predore, Ranica, Roncobello, Roncola, Rota d’Imagna, San Giovanni Bianco, San Paolo d’Argon, San Pellegrino Terme, Sant’Omobono Terme, Santa Brigida, Sarnico, Scanzorosciate, Sedrina, Selvino, Serina, Sorisole, Spinone al Lago, Strozza, Taleggio, Tavernola Bergamasca, Telgate, Torre Boldone, Torre de’ Roveri, Trescore Balneario, Ubiale Clanezzo, Val Brembilla, Valbondione, Valgoglio, Valleve, Valnegra, Valtorta, Vedeseta, Vertova, Viadanica, Vigano San Martino, Vigolo, Villa d’Almè, Villa di Serio, Villongo, Zandobbio, Zogno.  Provincia di Brescia:  Adro, Alfianello, Azzano Mella, Bagnolo Mella, Barbariga, Bassano Bresciano, Berlingo, Borgo San Giacomo, Brandico, Capriano del Colle, Capriolo, Castegnato, Castel Mella, Castelcovati, Castrezzato, Cazzago San Martino, Cigole, Coccaglio, Cologne, Comezzano-Cizzago, Corte Franca, Corzano, Dello, Erbusco, Flero, Gussago, Iseo, Leno, Lograto, Longhena, Maclodio, Mairano, Manerbio, Monte Isola, Monticelli Brusati, Offlaga, Ome, Ospitaletto, Paderno Franciacorta, Paratico, Passirano, Polaveno, Pompiano, Poncarale, Pontevico, Provaglio d’Iseo, Quinzano d’Oglio, Rodengo-Saiano, Roncadelle, Rovato, San Gervasio Bresciano, San Paolo, Sulzano, Torbole Casaglia, Travagliato, Trenzano, Verolanuova, Verolavecchia.  Provincia di Como:  Cavargna, Cremia, Cusino, Domaso, Dongo, Dosso del Liro, Garzeno, Gravedona ed Uniti, Livo, Montemezzo, Musso, Peglio, Pianello del Lario, San Bartolomeo Val Cavargna, San Nazzaro Val Cavargna, San Siro, Stazzona, Trezzone, Val Rezzo, Vercana.  Provincia di Cremona:  Azzanello, Bonemerse, Bordolano, Casalbuttano ed Uniti, Castelverde, Castelvisconti, Corte de’ Cortesi Con Cignone, Corte de’ Frati, Cremona, Gadesco Pieve Delmona, Gerre de’ Caprioli, Grontardo, Malagnino, Olmeneta, Persico Dosimo, Pieve d’Olmi, Pozzaglio ed Uniti, Robecco d’Oglio, Scandolara Ripa d’Oglio, Sospiro, Stagno Lombardo, Vescovato.  Provincia di Lecco:  Ballabio, Bellano, Carenno, Casargo, Cassina Valsassina, Cremeno, Dervio, Erve, Margno, Moggio, Morterone, Pagnona, Parlasco, Premana, Sueglio, Taceno, Valvarrone.  Provincia di Sondrio:  Albaredo per San Marco, Albosaggia, Andalo Valtellino, Bema, Caiolo, Caspoggio, Castione Andevenno, Cedrasco, Cercino, Chiavenna, Chiesa in Valmalenco, Cino, Cosio Valtellino, Faedo Valtellino, Fusine, Gandellino, Gerola Alta, Gordona, Lanzada, Mantello, Mello, Mese, Montagna in Valtellina, Novate Mezzola, Pedesina, Piateda, Piuro, Poggiridenti, Ponte in Valtellina, Postalesio, Prata Camportaccio, Rasura, Rogolo, Samolaco, San Giacomo Filippo, Sondrio, Spriana, Torre di Santa Maria, Traona, Tresivio, Val Masino, Verceia, Villa di Chiavenna. </td></tr>
+<tr><td>Piemonte</td><td>The entire territory of the following municipalities: Provincia di Alessandria:  Acqui Terme, Albera Ligure, Alice Bel Colle, Arquata Scrivia, Basaluzzo, Belforte Monferrato, Bistagno, Borghetto di Borbera, Bosio, Cabella Ligure, Cantalupo Ligure, Capriata d’Orba, Carpeneto, Carrega Ligure, Carrosio, Cartosio, Casaleggio Boiro, Cassine, Cassinelle, Castelletto d’Erro, Castelletto d’Orba, Castelnuovo Bormida, Castelspina, Cavatore, Cremolino, Denice, Dernice, Fabbrica Curone, Fraconalto, Francavilla Bisio, Frascaro, Fresonara, Gamalero, Grognardo, Grondona, Lerma, Melazzo, Molare, Mongiardino Ligure, Montacuto, Montaldeo, Montaldo Bormida, Montechiaro d’Acqui, Morbello, Mornese, Morsasco, Orsara Bormida, Ovada, Parodi Ligure, Pasturana, Ponti, Ponzone, Prasco, Predosa, Ricaldone, Rivalta Bormida, Rocca Grimalda, Roccaforte Ligure, Rocchetta Ligure, San Cristoforo, Serravalle Scrivia, Sezzadio, Silvano d’Orba, Stazzano, Strevi, Tagliolo Monferrato, Tassarolo, Terzo, Trisobbio, Vignole Borbera, Visone, Voltaggio.  Provincia di Asti:  Agliano Terme, Antignano, Bubbio, Calamandrana, Calosso, Canelli, Cassinasco, Castagnole delle Lanze, Castel Boglione, Castel Rocchero, Castelletto Molina, Cellarengo, Celle Enomondo, Cessole, Cisterna d’Asti, Coazzolo, Costigliole d’Asti, Ferrere, Isola d’Asti, Loazzolo, Maranzana, Moasca, Monastero Bormida, Montabone, Montaldo Scarampi, Montegrosso d’Asti, Nizza Monferrato, Quaranti, Revigliasco d’Asti, Roccaverano, Rocchetta Palafea, San Damiano d’Asti, San Giorgio Scarampi, San Martino Alfieri, Sessame, Vaglio Serra, Valfenera, Vesime.  Provincia di Cuneo:  Alba, Bagnolo Piemonte, Baldissero d’Alba, Barbaresco, Barge, Canale, Caramagna Piemonte, Cardè, Casalgrasso, Castagnito, Castellinaldo d’Alba, Castiglione Tinella, Castino, Ceresole Alba, Corneliano d’Alba, Cossano Belbo, Crissolo, Envie, Faule, Govone, Guarene, Magliano Alfieri, Mango, Montà, Montaldo Roero, Monteu Roero, Moretta, Murello, Neive, Neviglie, Ostana, Paesana, Piobesi d’Alba, Polonghera, Priocca, Racconigi, Revello, Rocchetta Belbo, Saluzzo, Sanfront, Santo Stefano Belbo, Santo Stefano Roero, Sommariva del Bosco, Torre San Giorgio, Treiso, Trezzo Tinella, Vezza d’Alba.  Città metropolitana di Torino:  Airasca, Almese, Alpette, Alpignano, Angrogna, Avigliana, Balangero, Barbania, Bibiana, Bobbio Pellice, Borgiallo, Borgone Susa, Buriasco, Bussoleno, Buttigliera Alta, Cafasse, Cambiano, Campiglione Fenile, Canischio, Cantoira, Caprie, Carignano, Carmagnola, Caselette, Castagnole Piemonte, Cavour, Cercenasco, Ceres, Chiesanuova, Chiusa di San Michele, Cintano, Ciriè, Coassolo Torinese, Coazze, Colleretto Castelnuovo, Condove, Corio, Cuorgnè, Druento, Fiano, Forno Canavese, Frassinetto, Germagnano, Giaveno, Givoletto, Grosso, Ingria, Inverso Pinasca, Isolabella, La Cassa, Lanzo Torinese, Lemie, Levone, Locana, Lombriasco, Luserna San Giovanni, Lusernetta, Macello, Mathi, Mezzenile, Monastero di Lanzo, Nole, Osasio, Pancalieri, Perosa Argentina, Perrero, Pertusio, Pessinetto, Pianezza, Pinasca, Piobesi Torinese, Piscina, Poirino, Pomaretto, Pont Canavese, Porte, Prali, Pralormo, Pramollo, Prarostino, Prascorsano, Pratiglione, Reano, Ribordone, Robassomero, Rocca Canavese, Ronco Canavese, Rosta, Rorà, Roure, Rubiana, San Carlo Canavese, San Colombano Belmonte, San Germano Chisone, San Gillio, San Giorio di Susa, San Pietro Val Lemina, San Ponso, Sangano, Sant’Ambrogio di Torino, Sant’Antonino di Susa, Santena, Scalenghe, Sparone, Torre Pellice, Trana, Traves, Vaie, Val della Torre, Valgioie, Vallo Torinese, Valperga, Valprato Soana, Varisella, Vauda Canavese, Vigone, Villafranca Piemonte, Villanova Canavese, Villar Dora, Villar Focchiardo, Villar Pellice, Villar Perosa, Villarbasse, Villastellone, Virle Piemonte, Viù.  Provincia del Verbano-Cusio-Ossola:  Aurano, Caprezzo, Craveggia, Gurro, Intragna, Malesco, Montecrestese, Re, Santa Maria Maggiore, Toceno, Trarego Viggiona, Valle Cannobina, Villette.  Provincia di Vercelli:  Alagna Valsesia, Alto Sermenza, Boccioleto, Carcoforo, Mollia. </td></tr>
+<tr><td>Emilia-Romagna</td><td>The entire territory of the following municipalities: Provincia di Parma:  Polesine Zibello.  Provincia di Piacenza:  Agazzano, Besenzone, Bettola, Bobbio, Cadeo, Calendasco, Caorso, Carpaneto Piacentino, Castelvetro Piacentino, Cerignale, Coli, Corte Brugnatella, Cortemaggiore, Farini, Ferriere, Fiorenzuola d’Arda, Gazzola, Gossolengo, Gragnano Trebbiense, Monticelli d’Ongina, Ottone, Piacenza, Pianello Val Tidone, Piozzano, Podenzano, Ponte dell’Olio, Pontenure, Rivergaro, Rottofreno, San Giorgio Piacentino, San Pietro in Cerro, Sarmato, Travo, Vigolzone, Villanova sull’Arda, Zerba. </td></tr>
+<tr><td>Liguria</td><td>The entire territory of the following municipalities: Provincia di Genova:  Busalla, Campo Ligure, Campomorone, Ceranesi, Crocefieschi, Fascia, Fontanigorda, Gorreto, Isola del Cantone, Masone, Mignanego, Propata, Rezzoaglio, Ronco Scrivia, Rondanina, Rossiglione, Rovegno, Savignone, Serra Riccò, Valbrevenna, Vobbia. </td></tr>
+<tr><td>Valle d’Aosta</td><td>The entire territory of the following municipalities: Provincia di Aosta  Allein, Antey-Saint-André, Aosta, Arvier, Avise, Ayas, Aymavilles, Bionaz, Brusson, Challand-Saint-Anselme, Challand-Saint-Victor, Chambave, Chamois, Champdepraz, Champorcher, Charvensod, Châtillon, Cogne, Doues, Emarèse, Etroubles, Fénis, Fontainemore, Gaby, Gignod, Gressan, Gressoney-La-Trinité, Gressoney-Saint-Jean, Introd, Issime, Jovençan, La Magdeleine, Lillianes, Nus, Ollomont, Oyace, Perloz, Pontboset, Pontey, Rhêmes-Saint-Georges, Roisan, Saint-Denis, Saint-Marcel, Saint-Nicolas, Saint-Oyen, Saint-Pierre, Saint-Rhémy-en-Bosses, Saint-Vincent, Sarre, Torgnon, Valpelline, Valsavarenche, Valtournenche, Verrayes, Villeneuve. </td></tr>
+</tbody>
+</table>
+
+**2\. Portugal**
+
+<table>
+<tbody><tr><td>Number/name of demarcated area (DA)</td><td>Zone of DA</td><td>Region</td></tr>
+<tr><td>1.</td><td>Infested zone</td><td>Azores Islands (1)</td></tr>
+<tr><td colspan="3">(1)  No need of buffer zone, as they are islands. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**TEMPLATES FOR REPORTING OF THE RESULTS OF THE ANNUAL SURVEYS CARRIED OUT PURSUANT TO ARTICLE 7**
+
+**PART A**
+
+**1\. Template for reporting of results of annual surveys**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="9">1. Description of the Demarcated Area (DA)</td><td rowspan="11">2. Initial size of DA (ha)</td><td rowspan="11">3. Updated size of DA (ha)</td><td rowspan="11">4. Approach (eradication or containment)</td><td rowspan="11">5. Zone</td><td colspan="2" rowspan="9">6. Survey sites</td><td rowspan="11">7. Risk areas identified</td><td rowspan="11">8. Risk areas inspected</td><td rowspan="11">9. Plant material/Commodity</td><td rowspan="11">10. List of host plant species</td><td rowspan="11">11. Timing</td><td colspan="9">12. Survey details</td><td colspan="4" rowspan="10">13. No of symptomatic samples analysed: i: Total  ii: Positive  iii: Negative  iv: Undetermined </td><td colspan="4" rowspan="10">14. No of asymptomatic samples analysed: i: Total  ii: Positive  iii: Negative  iv: Undetermined </td><td colspan="2" rowspan="9">15. Notification number of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td><td rowspan="11">16. Comments</td></tr>
+<tr><td colspan="9">A) Number of visual examinations</td></tr>
+<tr><td colspan="9">B) Total number of samples taken</td></tr>
+<tr><td colspan="9">C) Type of traps (or other alternative method (e.g. sweep nets))</td></tr>
+<tr><td colspan="9">D) Number of traps (or other capturing method)</td></tr>
+<tr><td colspan="9">E) Number of trapping sites, when different from data reported in (D)</td></tr>
+<tr><td colspan="9">F) Type of tests (e.g. microscopic identification, PCR, ELISA, etc.)</td></tr>
+<tr><td colspan="9">G) Total number of tests</td></tr>
+<tr><td colspan="9">H) Other measures (e.g. sniffer dogs, drones, helicopters, awareness raising campaigns etc.)</td></tr>
+<tr><td rowspan="2">Name</td><td rowspan="2">Date of establishment</td><td rowspan="2">Description</td><td rowspan="2">Number</td><td colspan="9">I) Number of other measures</td><td rowspan="2">Number</td><td rowspan="5">Date</td></tr>
+<tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>i</td><td>ii</td><td>iii</td><td>iv</td><td>i</td><td>ii</td><td>iii</td><td>iv</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**2\. Instructions how to fill in the template**
+
+If this template is filled, the template in Part B is not to be filled.
+
+For column 1: Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established.
+
+For column 2: Indicate the size of the DA before the start of the survey.
+
+For column 3: Indicate the size of the DA after the survey.
+
+For column 4: Indicate the approach: Eradication or Containment. Please, include as many rows as necessary, depending on the number of DA and the approaches these areas are subject to.
+
+For column 5: Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infested (IZ) or buffer zone (BZ), using separate rows. When applicable, indicate the area of the IZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries, etc.) in different rows.
+
+For column 6: Indicate the number and the description of the survey sites, by choosing one of the following entries for the description:
+
+1\. Open air (production area): 1.1. field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest;
+
+2\. Open air (other): 2.1. private garden; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network, etc.);
+
+3\. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry).
+
+For column 7: Indicate which are the risk areas identified based on the biology of the pest, presence of host plants, eco-climatic conditions and risk locations.
+
+For column 8: Indicate the risk areas included in the survey, from those identified in column 7.
+
+For column 9: Indicate plants, fruits, seeds, soil, packaging material, wood, machinery, vehicles, water, other, specifying the specific case.
+
+For column 10: Indicate the list of plant species/genera surveyed using one row per plant species/genera.
+
+For column 11: Indicate the months of the year when the survey was carried out.
+
+For column 12: Indicate the details of the survey, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not applicable.
+
+For columns 13 and 14: Indicate the results, if applicable, providing the information available in the corresponding columns. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old).
+
+For column 15: Indicate the outbreak notifications of the year when the survey took place for findings in the BZ. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Article 14(2), Article 15(2) or Article 16 of Regulation (EU) 2016/2031. In this case, indicate the reason for not providing this information in column 16 (‘Comments’).
+
+**PART B**
+
+**1\. Template for reporting of the results of statistically-based annual surveys**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">1. escription of the Demarcated Area (DA)</td><td rowspan="3">2. Initial size of DA (ha)</td><td rowspan="3">3. Updated size of DA (ha)</td><td rowspan="3">4. Approach</td><td rowspan="3">5. Zone</td><td colspan="2" rowspan="2">6. Survey sites</td><td rowspan="3">7. Timing</td><td colspan="16">A. Survey definition (input parameters for RiBESS+)</td><td colspan="7">B. Sampling effort</td><td colspan="7">C. Survey results</td><td rowspan="3">25. Comments</td></tr>
+<tr><td colspan="3">8. Target population</td><td colspan="2">9. Epidemiological units</td><td colspan="4">10. Detection methods</td><td rowspan="2">11. Sampling effectiveness</td><td rowspan="2">12. Method sensitivity</td><td colspan="5">13. Risk factors (activities, locations and areas)</td><td rowspan="2">14. No of epidemiological units inspected</td><td rowspan="2">15. No of visual examinations</td><td rowspan="2">16. No samples</td><td rowspan="2">17. No of traps</td><td rowspan="2">18. No of trapping sites</td><td rowspan="2">19. No of tests</td><td rowspan="2">20. No of other measures</td><td colspan="3">21. Results</td><td colspan="2">22. Notification number of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td><td rowspan="2">23. Achieved Confidence level</td><td rowspan="2">24. Design prevalence</td></tr>
+<tr><td>Name</td><td>Date of establishment</td><td>Description</td><td>Number</td><td>Host species</td><td>Area (ha or other more relevant unit)</td><td>Inspection units</td><td>Description</td><td>Units</td><td>Visual examinations</td><td>Trapping</td><td>Testing</td><td>Other methods</td><td>Risk factor</td><td>Risk levels</td><td>of locations</td><td>Relative risks</td><td>Proportion of the host population</td><td>Positive</td><td>Negative</td><td>Undetermined</td><td>Number</td><td>Date</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**2\. Instructions on how to fill in the template**
+
+Explain the underlying assumptions for the survey design per pest. Summarise and justify:
+
+— the target population, epidemiological unit and inspection units,
+
+— the detection method and method sensitivity,
+
+— the risk factor(s), indicating the risk levels and corresponding relative risks and proportions of host plant population.
+
+For column 1: Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established.
+
+For column 2: Indicate the size of the DA before the start of the survey.
+
+For column 3: Indicate the size of the DA after the survey.
+
+For column 4: Indicate the approach: Eradication or Containment. Please, include as many rows as necessary, depending on the number of DA per pest and the approaches these areas are subject to.
+
+For column 5: Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infested zone (IZ) or buffer zone (BZ), using separate rows. Where applicable, indicate the area of the IZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries, etc.) in different rows.
+
+For column 6: Indicate the number and the description of the survey sites, by choosing one of the following entries for the description:
+
+1\. Open air (production area): 1.1 field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest;
+
+2\. Open air (other): 2.1. private gardens; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network, etc.);
+
+3\. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry).
+
+For column 7: Indicate the months of the year when the surveys were carried out.
+
+For column 8: Indicate the chosen target population providing accordingly the list of host species/genera and area covered. The target population is defined as the ensemble of inspection units. Its size is defined typically for agricultural areas as hectares, but could be lots, fields, greenhouses, etc. Please justify the choice made in the underlying assumptions. Indicate the inspection units surveyed. ‘Inspection unit’ means plants, plant parts, commodities, materials, pest vectors that had been scrutinised for identifying and detecting the pests.
+
+For column 9: Indicate the epidemiological units surveyed, indicating its description and unit of measurement. ‘Epidemiological unit’ means a homogeneous area where the interactions between the pest, the host plants and the abiotic and biotic factors and conditions would result into the same epidemiology, should the pest be present. The epidemiological units are a subdivision of the target population that are homogenous in terms of epidemiology with at least one host plant. In some cases the whole host population in a region/area/country may be defined as epidemiological unit. They could be Nomenclature of territorial units for statistics (NUTS) regions, urban areas, forests, rose gardens or farms, or hectares. The choice of the epidemiological units has to be justified in the underlying assumptions.
+
+For column 10: Indicate the methods used during the survey including the number of activities in each case, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not available.
+
+For column 11: Indicate an estimation of the sampling effectiveness. Sampling effectiveness means the probability of selecting infected plant parts from an infected plant. For vectors, it is the effectiveness of the method to capture a positive vector when it is present in the survey area. For soil, it is the effectiveness of selecting a soil sample containing the pest when the pest is present in the survey area.
+
+For column 12: ‘Method sensitivity’ means the probability of a method to correctly detect pest presence. The method sensitivity is defined as the probability that a truly positive host tests positive. It is the multiplication of the sampling effectiveness (i.e. probability of selecting infected plant parts from an infected plant) by the diagnostic sensitivity (characterised by the visual inspection and/or laboratory test used in the identification process).
+
+For column 13: Provide the risk factors in different rows, using as many rows as necessary. For each risk factor indicate the risk level and corresponding relative risk and proportion of host population.
+
+For column B: Indicate the details of the survey, depending on the specific legal requirements for each pest. Indicate with N/A when the information of certain column is not applicable. The information to be provided in these columns is related to the information included in the column 10 ‘Detection methods’.
+
+For column 18: Indicate the number of trapping sites in case this number differs from the number of traps (column 17) (e.g. the same trap is used in different places).
+
+For column 21: Indicate the number of samples found positive, negative or undetermined. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old).
+
+For column 22: Indicate the outbreak notifications of the year when the survey took place. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Article 14(2), Article 15(2) or Article 16 of Regulation (EU) 2016/2031. In this case, indicate the reason for not providing this information in column 25 (‘Comments’).
+
+For column 23: Indicate the sensitivity of the survey, as defined in International Standard for Phytosanitary Measures (ISPM) 31. This value of the achieved confidence level of pest freedom is calculated based on the examinations (and/or samples) performed given the method sensitivity and the design prevalence.
+
+For column 24: Indicate the design prevalence based on a pre-survey estimate of the likely actual prevalence of the pest in the field. The design prevalence is set as a goal of the survey and corresponds to the compromise the risk managers are making between the risk of having the pest and the resources available for the survey. Typically, for a detection survey a value of 1 % is set.
+
+( 1 ) EFSA (European Food Safety Authority), 2019. Pest survey card on Popillia japonica. EFSA supporting publication 2019:EN-1568. 22pp. doi:10.2903/sp.efsa.2019.EN-1568.
+
+( 2 ) Commission Implementing Regulation (EU) 2020/1231 of 27 August 2020 on the format and instructions for the annual reports on the results of the surveys and on the format of the multiannual survey programmes and the practical arrangements, respectively provided for in Articles 22 and 23 of Regulation (EU) 2016/2031 of the European Parliament and the Council (OJ L 280, 28.8.2020, p. 1).

@@ -1,0 +1,709 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/587 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments and on transaction execution obligations in respect of certain shares on a trading venue or by a systematic internaliser (Text with EEA relevance. )"
+identifier: "32017R0587"
+eli: "http://data.europa.eu/eli/reg_del/2017/587/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2016-07-14
+entry_into_force: 2018-01-10
+last_amended: 2026-03-02
+consolidated_version: "02017R0587-20260302"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0587-20260302"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/587 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments and on transaction execution obligations in respect of certain shares on a trading venue or by a systematic internaliser (Text with EEA relevance. )
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/587**
+
+**of 14 July 2016**
+
+**supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments and on transaction execution obligations in respect of certain shares on a trading venue or by a systematic internaliser**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/442 of 12 December 2018 </td><td> L 77</td><td>56</td><td>20.3.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/944 of 17 January 2023 </td><td> L 131</td><td>1</td><td>16.5.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1246 of 18 June 2025 </td><td> L 1246</td><td>1</td><td>3.11.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/587**
+
+**of 14 July 2016**
+
+**supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on transparency requirements for trading venues and investment firms in respect of shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments and on transaction execution obligations in respect of certain shares on a trading venue or by a systematic internaliser**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL
+
+#### Article 1 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘portfolio trade’ means transactions in five or more different financial instruments where those transactions are traded at the same time by the same client and as a single lot against a specific reference price;
+
+(4) ‘systematic internaliser’ means an investment firm as defined in Article 4(1)(20) of Directive 2014/65/EU of the European Parliament and of the Council ( 1 ).
+
+#### Article 2
+
+Transactions not contributing to the price discovery process
+
+(Article 23(1) of Regulation (EU) No 600/2014)
+
+A transaction in shares does not contribute to the price discovery process where any of the following circumstances apply:
+
+(a) the transaction is executed by reference to a price that is calculated over multiple time instances based on a given benchmark, including transactions executed by reference to a volume-weighted average price or a time-weighted average price, whereby the time instances for price calculation cover a sufficiently long period to ensure that there is no relation to the current market price;
+
+(b) the transaction is part of a portfolio trade which includes five or more different shares;
+
+(c) the transaction is contingent on the purchase, sale, creation or redemption of a derivative contract or other financial instrument where all the components of the trade are to be executed only as a single lot;
+
+(j) the transaction is not a transaction for the purposes of Article 26 of Regulation (EU) No 600/2014, as determined on the basis of the criteria laid down in Article 2(5) of Commission Delegated Regulation (EU) 2017/590 ( 2 ), or is a type of transaction listed in Article 13 of this Regulation.
+
+## CHAPTER II — PRE-TRADE TRANSPARENCY
+
+### Section 1 — Pre-trade transparency for trading venues
+
+#### Article 3
+
+Pre-trade transparency obligations
+
+(Article 3(1) and (2) of Regulation (EU) No 600/2014)
+
+1\. Market operators and investment firms operating a trading venue shall make public the range of bid and offer prices and the depth of trading interest at those prices. The information is to be made public in accordance with the type of trading systems they operate as set out in Table 1 of Annex I.
+
+The details of pre-trade data to be made public shall be those specified in Table 1b of Annex I.
+
+2\. The transparency requirements referred to in paragraph 1 shall also apply to any ‘actionable indication of interest’ as defined in Article 2(1)(33) of Regulation (EU) No 600/2014 and pursuant to Article 3 of that Regulation.
+
+#### Article 4
+
+Most relevant market in terms of liquidity
+
+(Article 4(1)(a) of Regulation (EU) No 600/2014)
+
+1\. For the purposes of Article 4(1)(a) of Regulation (EU) No 600/2014, the most relevant market in terms of liquidity for a share, depositary receipt, ETF, certificate or other similar financial instrument shall be considered to be the trading venue with the highest turnover within the Union for that financial instrument.
+
+2\. For the purpose of determining the most relevant markets in terms of liquidity in accordance with paragraph 1, competent authorities shall calculate the turnover in accordance with the methodology set out in Article 17(4) in respect of each financial instrument for which they are the competent authority and for each trading venue where that financial instrument is traded.
+
+3\. The calculation referred to in paragraph 2 shall have the following characteristics:
+
+(a) it shall include, for each trading venue, transactions executed under the rules of that trading venue excluding reference price and negotiated transactions flagged as set out in Table 4 of Annex I and transactions executed on the basis of at least one order that has benefitted from a large-in-scale waiver and where the transaction size is above the applicable large-in-scale threshold as determined in accordance with Article 7;
+
+(b) it shall cover either the preceding calendar year or, where applicable, the period of the preceding calendar year during which the financial instrument was admitted to trading or traded on a trading venue and was not suspended from trading.
+
+4\. Until the most relevant market in terms of liquidity for a specific financial instrument is determined in accordance with the procedure specified in paragraphs 1 to 3, the most relevant market in terms of liquidity shall be either of the following:
+
+(a) the regulated market where that financial instrument is first admitted to trading or first traded;
+
+(b) where the financial instrument is not made available for trading on a regulated market in the Union, the multilateral trading facility where that financial instrument is first admitted to trading or first traded.
+
+5\. Paragraphs 2 and 3 shall not apply to shares, depositary receipts, ETFs, certificates and other similar financial instruments which were first admitted to trading or first traded on a trading venue between 1 and 31 December of the preceding calendar year.
+
+6\. The determination of the most relevant market in terms of liquidity set out in paragraph 4 shall apply from the day on which the financial instrument was first admitted to trading or first traded.
+
+#### Article 5
+
+Specific characteristics of negotiated transactions
+
+(Article 4(1)(b) of Regulation (EU) No 600/2014)
+
+A negotiated transaction in shares, depositary receipts, ETF, certificates or other similar financial instruments shall be considered to be a transaction which is negotiated privately but reported under the rules of a trading venue and where any of the following circumstances applies:
+
+(a) two members or participants of that trading venue are involved in any of the following capacities:
+
+(i) one is dealing on own account when the other is acting on behalf of a client;
+
+(ii) both are dealing on own account;
+
+(iii) both are acting on behalf of a client;
+
+(b) one member or participant of that trading venue is either of the following:
+
+(i) acting on behalf of both the buyer and seller;
+
+(ii) dealing on own account against a client order.
+
+#### Article 6
+
+Negotiated transactions subject to conditions other than the current market price
+
+(Article 4(1)(b) of Regulation (EU) No 600/2014)
+
+A negotiated transaction in shares, depositary receipts, ETFs, certificates and other similar financial instruments shall be subject to conditions other than the current market price of the financial instrument where any of the following circumstances applies:
+
+(a) the transaction is executed in reference to a price that is calculated over multiple time instances based on a given benchmark, including transactions executed by reference to a volume-weighted average price or a time-weighted average price, whereby the time instances for price calculation cover a sufficiently long period to ensure that there is no relation to the current market price;
+
+(b) the transaction is part of a portfolio trade;
+
+(c) the transaction is contingent on the purchase, sale, creation or redemption of a derivative contract or other financial instrument where all the components of the trade are meant to be executed as a single lot;
+
+(j) any other transaction equivalent to one of those referred to in points (a) to (c) in that it is contingent on technical characteristics which are unrelated to the current market valuation of the financial instrument traded;
+
+(k) the transaction is not a transaction for the purposes of Article 26 of Regulation (EU) No 600/2014, as determined on the basis of the criteria laid down in Article 2(5) of Delegated Regulation (EU) 2017/590, or the transaction is a type of transaction listed in Article 13 of this Regulation.
+
+#### Article 7
+
+Orders that are large in scale
+
+(Article 4(1)(c) of Regulation (EU) No 600/2014)
+
+1\. An order in respect of a share, depositary receipt, certificate or other similar financial instrument shall be considered to be large in scale where the order is equal to or larger than the minimum size of orders set out in Tables 1 and 2 of Annex II.
+
+2\. An order in respect of an ETF shall be considered to be large in scale where the order is equal to or larger than EUR 3 000 000 .
+
+3\. For the purpose of determining orders that are large in scale, competent authorities shall calculate, in accordance with paragraph 4, the average daily turnover in respect of shares, depositary receipts, certificates and other similar financial instruments traded on a trading venue.
+
+4\. The calculation referred to in paragraph 3 shall have the following characteristics:
+
+(a) it shall include transactions executed in the Union in respect of the financial instrument, whether traded on or outside a trading venue;
+
+(b) it shall cover the period beginning on 1 January of the preceding calendar year and ending on 31 December of the preceding calendar year or, where applicable, that part of the calendar year during which the financial instrument was admitted to trading or traded on a trading venue and was not suspended from trading.
+
+Paragraphs 3 and 4 shall not apply to shares, depositary receipts, certificates and other similar financial instruments that were first admitted to trading or first traded on a trading venue between 1 and 31 December of the preceding calendar year.
+
+5\. Unless the price or other relevant conditions for the execution of an order are amended, the waiver referred to in Article 4(1) of Regulation (EU) No 600/2014 shall continue to apply in respect of an order that is large in scale when entered into an order book but that, following partial execution, falls below the threshold applicable for that financial instrument as determined in accordance with paragraphs 1 and 2.
+
+6\. Before a share, depositary receipt, certificate, or other similar financial instrument is traded for the first time on a trading venue in the Union, the competent authority shall estimate the average daily turnover for that financial instrument taking into account:
+
+(a) any previous trading history of that financial instrument;
+
+(b) other previous or similar financial instruments of the same issuer;
+
+(c) other financial instruments that are considered to have similar characteristics.
+
+The competent authority shall publish that estimated average daily turnover.
+
+7\. The estimated average daily turnover referred to in paragraph 6 shall be used for the calculation of orders that are large in scale during a six-week period following the date that the share, depositary receipt, certificate or other similar financial instrument was admitted to trading or first traded on a trading venue.
+
+8\. The competent authority shall calculate and ensure publication of the average daily turnover based on the first four weeks of trading before the end of the six-week period referred to in paragraph 7.
+
+9\. The average daily turnover referred to in paragraph 8 shall be used for the calculation of orders that are large in scale and until an average daily turnover calculated in accordance with paragraph 3 applies.
+
+10\. For the purposes of this Article, the average daily turnover shall be calculated by dividing the total turnover for a particular financial instrument as specified in Article 17(4) by the number of trading days in the period considered. The number of trading days in the period considered is the number of trading days on the most relevant market in terms of liquidity for that financial instrument as determined in accordance with Article 4.
+
+#### Article 8
+
+Type and minimum size of orders held in an order management facility
+
+(Article 4(1)(d) of Regulation (EU) No 600/2014)
+
+1\. The type of order held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived is an order which:
+
+(a) is intended to be disclosed to the order book operated by the trading venue and is contingent on objective conditions that are pre-defined by the system's protocol;
+
+(b) for orders other than reserve orders, cannot interact with other trading interests prior to disclosure to the order book operated by the trading venue;
+
+(c) once disclosed to the order book, interacts with other orders in accordance with the rules applicable to orders of that kind at the time of disclosure.
+
+2\. Orders held in an order management facility of a trading venue pending disclosure for which pre-trade transparency obligations may be waived shall, at the point of entry and following any amendment, have one of the following sizes:
+
+(a) in the case of a reserve order, a size that is greater than or equal to EUR 10 000 ;
+
+(b) for all other orders, a size that is greater than or equal to the minimum tradable quantity set in advance by the system operator under its rules and protocols.
+
+3\. A reserve order as referred to in paragraph 2, point (a), shall be considered a limit order consisting of a disclosed order relating to a part of the amount and a non-disclosed order relating to the remaining part of the amount where the order on the non-disclosed amount can be executed only after the order on the disclosed amount is executed.
+
+### Section 2 — Pre-trade transparency for systematic internalisers and investment firms trading outside a trading venue
+
+#### Article 9
+
+Arrangements for the publication of a firm quote
+
+(Article 14(1) of Regulation (EU) No 600/2014)
+
+Any arrangement that a systematic internaliser adopts in order to comply with the obligation to make public firm quotes shall satisfy the following conditions:
+
+(a) the arrangement includes all reasonable steps necessary to ensure that the information to be published is reliable, monitored continuously for errors, and corrected as soon as errors are detected;
+
+(b) the arrangement complies with technical arrangements equivalent to those specified for approved publication arrangements (APAs) in Article 14 of Delegated Regulation (EU) 2017/571 that facilitate the consolidation of the data with similar data from other sources;
+
+(c) the arrangement makes the information available to the public on a non-discriminatory basis;
+
+(d) the arrangement includes the publication of the time the quotes have been entered or amended in accordance with Article 50 of Directive 2014/65/EU as specified in Commission Delegated Regulation (EU) 2017/574 ( 3 ).
+
+#### Article 10
+
+Prices reflecting prevailing market conditions
+
+(Article 14(3) of Regulation (EU) No 600/2014)
+
+The prices published by a systematic internaliser shall be deemed to reflect prevailing market conditions where they are close in price, at the time of publication, to quotes of equivalent sizes for the same financial instrument on the most relevant market in terms of liquidity as determined in accordance with Article 4 for that financial instrument.
+
+Where there are no quotes of equivalent sizes for the same financial instrument on the most relevant market in terms of liquidity as determined in accordance with Article 4 for that financial instrument, the prices published by a systematic internaliser shall be deemed to reflect prevailing market conditions where they are close in price to quotes of equivalent sizes for the same financial instrument on trading venues other than the most relevant market in terms of liquidity as determined in accordance with Article 4.
+
+However, the prices published by a systematic internaliser in respect of shares and depositary receipts shall be deemed to reflect prevailing market conditions only where those prices meet the requirements set out in the first paragraph of this Article and respect minimum price increments corresponding to the tick sizes specified in Article 2 of Commission Delegated Regulation (EU) No 2017/588 ( 4 ).
+
+#### Article 11
+
+Standard market size
+
+(Article 14(2) and (4) of Regulation (EU) No 600/2014)
+
+1\. The standard market size for shares, depositary receipts, ETFs, certificates, and other similar financial instruments for which there is a liquid market shall be determined on the basis of the average value of transactions for each financial instrument calculated in accordance with paragraphs 2 and 3 and in accordance with Table 3 and Table 3a of Annex II.
+
+2\. For the purpose of determining the standard market size which is applicable to a specific financial instrument as set out in paragraph 1, competent authorities shall calculate the average value of transactions in respect of all the shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue for which there is a liquid market and for which they are the competent authority.
+
+3\. The calculation referred to in paragraph 2 shall have the following characteristics:
+
+(a) it shall take into account the transactions executed in the Union in respect of the financial instrument concerned whether executed on or outside a trading venue;
+
+(b) it shall cover either the preceding calendar year or, where applicable, the period of the preceding calendar year during which the financial instrument was admitted to trading or traded on a trading venue and was not suspended from trading;
+
+(c) it shall exclude post-trade large-in-scale transactions as set out in Table 4 of Annex I.
+
+Paragraphs 2 and 3 shall not apply to shares, depositary receipts, ETFs, certificates and other similar financial instruments first admitted to trading or first traded on a trading venue four weeks or less before the end of the preceding calendar year.
+
+4\. Before a share, depositary receipt, ETF, certificate or other similar financial instrument is traded for the first time on a trading venue in the Union, the competent authority shall estimate the average value of transactions for that financial instrument taking into account any previous trading history of that financial instrument and of other financial instruments that are considered to have similar characteristics, and ensure publication of that estimate.
+
+5\. The estimated average value of transactions laid down in paragraph 4 shall be used to determine the standard market size for a share, depositary receipt, ETF, certificate or other similar financial instrument during a six-week period following the date that the share, depositary receipt, ETF, certificate or other similar financial instrument was first admitted to trading or first traded on a trading venue.
+
+6\. The competent authority shall calculate and ensure publication of the average value of transactions based on the first four weeks of trading before the end of the six-week period referred to in paragraph 5.
+
+7\. The average value of transactions in paragraph 6 shall apply immediately after its publication and until a new average value of transactions calculated in accordance with paragraphs 2 and 3 applies.
+
+8\. For the purposes of this Article, the average value of transactions shall be calculated by dividing the total turnover for a particular financial instrument as set out in Article 17(4) by the total number of transactions executed for that financial instrument in the period considered.
+
+#### Article 11a
+
+Quote size below which the pre-trade transparency requirements under Articles 14, 15, 16 and 17 of Regulation (EU) No 600/2014 apply
+
+(Article 14(2) of Regulation (EU) No 600/2014)
+
+The obligation to make public firm quotes in respect of shares, depositary receipts, ETFs, certificates, and other similar financial instruments shall apply to systematic internalisers when they deal in sizes up to twice the standard market size as determined in accordance with Article 11.
+
+#### Article 11b
+
+Minimum quote size
+
+(Article 14(3) of Regulation (EU) No 600/2014)
+
+The minimum quote size for a particular share, depositary receipt, ETF, certificate, or other similar financial instrument traded on trading venue shall be equal to the standard market size as determined in accordance with Article 11.
+
+## CHAPTER III — POST-TRADE TRANSPARENCY FOR TRADING VENUES AND INVESTMENT FIRMS TRADING OUTSIDE A TRADING VENUE
+
+#### Article 12
+
+Post-trade transparency obligations
+
+(Article 6(1) and Article 20(1) and (2) of Regulation (EU) No 600/2014)
+
+1\. Market operators and investment firms operating a trading venue, and investment firms trading outside a trading venue, shall make public the details of each transaction by applying reference Tables 2, 3 and 4 of Annex I.
+
+The field names in Table 3 of Annex I shall be made public using the same naming conventions as specified in the field identifier of that Table.
+
+2\. Where a previously published trade report is cancelled, market operators and investment firms operating a trading venue, and investment firms trading outside of a trading venue, shall make public a new trade report which contains all the details of the original trade report and the cancellation flag specified in Table 4 of Annex I.
+
+3\. Where a previously published trade report is amended, market operators and investment firms operating a trading venue and investment firms trading outside a trading venue shall make the following information public:
+
+(a) a new trade report that contains all the details of the original trade report and the cancellation flag specified in Table 4 of Annex I;
+
+(b) a new trade report that contains all the details of the original trade report with all necessary details corrected and the amendment flag specified in Table 4 of Annex I.
+
+4\. Where a transaction between two investment firms is concluded outside the rules of a trading venue, either on own account or on behalf of clients, only the investment firm that sells the financial instrument concerned shall make the transaction public through an APA.
+
+#### Article 13
+
+Application of post-trade transparency to certain types of transactions executed outside a trading venue
+
+(Article 20(1) of Regulation (EU) No 600/2014)
+
+The obligation in Article 20(1) of Regulation (EU) No 600/2014 shall not apply to the following:
+
+(a) excluded transactions listed under Article 2(5) of Commission Delegated Regulation (EU) 2017/590 ( 5 ) where applicable.
+
+(b) give-up transactions or give-in transactions, which are any of the following transactions:
+
+(i) a transaction where an investment firm passes a client trade to, or receives a client trade from, another investment firm for post-trade processing;
+
+(ii) a transaction where an investment firm executing a trade passes it to, or receives it from, another investment firm for the purpose of hedging the position that it has committed to enter into with a client.
+
+#### Article 14
+
+Real time publication of transactions
+
+(Article 6(1) of Regulation (EU) No 600/2014)
+
+1\. For transactions that take place on a given trading venue, post-trade information shall be made public in the following circumstances:
+
+(a) where the transaction takes place during the daily trading hours of the trading venue, as close to real-time as is technically possible and in any case within one minute of the relevant transaction;
+
+(b) where the transaction takes place outside the daily trading hours of the trading venue, before the opening of the next trading day for that trading venue.
+
+2\. For transactions that take place outside a trading venue, post-trade information shall be made public in the following circumstances:
+
+(a) where the transaction takes place during the daily trading hours of the most relevant market in terms of liquidity determined in accordance with Article 4 for the share, depositary receipt, ETF, certificate or other similar financial instrument concerned, or during the investment firm's daily trading hours, as close to real-time as is technically possible and in any case within one minute of the relevant transaction;
+
+(b) where the transaction takes place in any case not covered by point (a), immediately upon the commencement of the investment firm's daily trading hours and at the latest before the opening of the next trading day of the most relevant market in terms of liquidity determined in accordance with Article 4.
+
+3\. Information relating to a portfolio trade shall be made public with respect to each constituent transaction as close to real-time as is technically possible, having regard to the need to allocate prices to particular shares, depositary receipts, ETFs, certificates and other similar financial instruments. Each constituent transaction shall be assessed separately for the purposes of determining whether deferred publication in respect of that transaction is applicable pursuant to Article 15.
+
+#### Article 15
+
+Deferred publication of transactions
+
+(Article 7(1) and 20(1) and (2) of Regulation (EU) No 600/2014)
+
+1\. Where a competent authority authorises the deferred publication of the details of transactions pursuant to Article 7(1) of Regulation (EU) No 600/2014, market operators and investment firms operating a trading venue and investment firms trading outside a trading venue shall make public each transaction no later than at the end of the relevant period set out in Tables 4, 5 and 6 of Annex II provided that the following criteria are satisfied:
+
+(a) the transaction is between an investment firm dealing on own account other than through matched principal trading and another counterparty;
+
+(b) the size of the transaction is equal to or exceeds the relevant minimum qualifying size specified in Tables 4, 5 or 6 of Annex II, as appropriate.
+
+2\. The relevant minimum qualifying size for the purposes of point (b) in paragraph 1 shall be determined in accordance with the average daily turnover calculated as set out in Article 7.
+
+3\. For transactions for which deferred publication is permitted until the end of the trading day as specified in Tables 4, 5 and 6 of Annex II, investment firms trading outside a trading venue and market operators and investment firms operating a trading venue shall make public the details of those transactions either:
+
+(a) as close to real-time as possible after the end of the trading day which includes the closing auction, where applicable, for transactions executed more than two hours before the end of the trading day;
+
+(b) no later than the opening of the next trading day of the most relevant market in terms of liquidity for transactions not covered in point (a).
+
+For transactions that take place outside a trading venue, references to trading days and closing auctions shall be those of the most relevant market in terms of liquidity as determined in accordance with Article 4.
+
+4\. Where a transaction between two investment firms is executed outside the rules of a trading venue, the competent authority for the purpose of determining the applicable deferral regime shall be the competent authority of the investment firm responsible for making the trade public through an APA in accordance with Article 21a(3) of Regulation (EU) No 600/2014.
+
+#### Article 16 — References to trading day and daily trading hours
+
+1\. A reference to a trading day in relation to a trading venue shall be a reference to any day during which that trading venue is open for trading.
+
+2\. A reference to daily trading hours of a trading venue or an investment firm shall be a reference to the hours which the trading venue or investment firm establishes in advance and makes public as its trading hours.
+
+3\. A reference to the opening of the trading day at a given trading venue shall be a reference to the commencement of the daily trading hours of that trading venue.
+
+4\. A reference to the end of the trading day at a given trading venue shall be a reference to the end of the daily trading hours of that trading venue.
+
+## CHAPTER IV — PROVISIONS COMMON TO PRE-TRADE AND POST-TRADE TRANSPARENCY CALCULATIONS
+
+#### Article 17
+
+Methodology, date of publication and date of application of the transparency calculations
+
+(Article 22(1) of Regulation (EU) No 600/2014)
+
+1\. By 1 March of each year after the date of application of this Regulation, competent authorities and ESMA shall, in relation to each financial instrument for which they are the competent authority, collect the data, calculate and ensure the publication of the following:
+
+(a) the trading venue which is the most relevant market in terms of liquidity as set out in Article 4(2);
+
+(b) the average daily turnover for the purpose of identifying the size of orders that are large in scale as set out in Article 7(3);
+
+(c) the average value of transactions to determine the standard market size set out in Article 11(2) and the thresholds set out in Articles 11a and 11b.
+
+2\. Competent authorities, market operators, and investment firms, including investment firms operating a trading venue, shall use the information published in accordance with paragraph 1 for the purposes of Article 4(1), points (a) and (c), and Article 14(2), (3) and (4) of Regulation (EU) No 600/2014, for the period between the first Monday of April of the year in which the information is published and the day before the first Monday of April of the subsequent year.
+
+3\. Competent authorities shall ensure that the information to be made public pursuant to paragraph 1 is updated on a regular basis for the purposes of Regulation (EU) No 600/2014 and that all changes to a specific share, depositary receipt, ETF, certificate or other similar financial instrument which significantly affects the previous calculations and the published information are included in such updates.
+
+4\. For the purposes of the calculations referred to in paragraph 1, the turnover in relation to a financial instrument shall be calculated by summing the results of multiplying, for each transaction executed during a defined period of time, the number of units of that instrument exchanged between the buyers and sellers by the unit price applicable to such transaction.
+
+5\. After the end of the trading day, but before the end of the day, trading venues shall submit to competent authorities the details set out in Tables 1 and 2 of Annex III whenever the financial instrument is admitted to trading or first traded on that trading venue or whenever those previously submitted details have changed.
+
+6\. Where ESMA or competent authorities require information in accordance with Article 22 of Regulation (EU) No 600/2014 trading venues, APAs and CTPs shall provide such information in accordance with Annex IV to this Regulation.
+
+7\. Where the trade size determined for the purposes of Article 7(1) and (2), Article 8(2), point (a), Article 11(1), Articles 11a and 11b, and Article 15(1) is expressed in monetary value and the financial instrument is not denominated in euro, the trade size shall be converted to the currency in which the financial instrument is denominated by applying the European Central Bank euro foreign exchange reference rate as of 31 December of the preceding year.
+
+#### Article 18
+
+Reference to competent authorities
+
+(Article 22(1) of Regulation (EU) No 600/2014)
+
+The competent authority for a specific financial instrument responsible for performing the calculations and ensuring the publication of the information referred to in Articles 4, 7, 11 and 17 shall be the competent authority of the most relevant market in terms of liquidity in Article 26 of Regulation (EU) No 600/2014 and specified in Article 16 of Delegated Regulation (EU) 2017/590.
+
+#### Article 19 — Sunset clause
+
+Article 17(6) and Annex IV shall no longer apply from 1 January 2026 and Article 17(5) and Annex III shall no longer apply from 1 January 2027.
+
+#### Article 20 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 3 January 2018.
+
+However Article 19 shall apply from the date of entry into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Information to be made public**
+
+**Table 1**
+
+**Description of the type of trading systems and the related information to be made public in accordance with Article 3**
+
+<table>
+<tbody><tr><td>Row</td><td>Type of trading system</td><td>Description of the trading system</td><td>Information to be made public</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>1</td><td>Continuous order book trading system</td><td>A system that by means of an order book and a trading algorithm operated without human intervention matches sell orders with buy orders on the basis of the best available price on a continuous basis.</td><td>The aggregate number of orders and the shares, depositary receipts, ETFs, certificates and other similar financial instruments that they represent at each price level for at least the five best bid and offer price levels.</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>2</td><td>Quote-driven trading system</td><td>A system where transactions are concluded on the basis of firm quotes that are continuously made available to participants, which requires the market makers to maintain quotes in a size that balances the needs of members and participants to deal in a commercial size and the risk to which the market maker exposes itself.</td><td>The best bid and offer by price of each market maker in shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on the trading system, together with the volumes attaching to those prices. The quotes made public shall be those that represent binding commitments to buy and sell the financial instruments and which indicate the price and volume of financial instruments in which the registered market makers are prepared to buy or sell. In exceptional market conditions, however, indicative or one-way prices may be allowed for a limited time.</td></tr>
+<tr><td>3</td><td>Periodic auction trading system</td><td>A system that matches orders on the basis of a periodic auction and a trading algorithm operated without human intervention.</td><td>The price at which the auction trading system would best satisfy its trading algorithm in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on the trading system and the volume that would potentially be executable at that price by participants in that system.</td></tr>
+<tr><td>4</td><td>Request for quote trading system</td><td>A system where a quote or quotes are provided in response to a request for quote submitted by one or more members or participants. The quote is executable exclusively by the requesting member or participant. The requesting member or participant may conclude a transaction by accepting the quote or quotes provided to it on request.</td><td>The quotes and the attached volumes from any member or participant which, if accepted, would lead to a transaction under the system's rules. All submitted quotes in response to a request for quote may be published at the same time but not later than when they become executable.</td></tr>
+<tr><td>5</td><td>Hybrid trading system</td><td>A system falling into two or more of the types of trading systems referred to in rows 1 to 4 of this Table.</td><td>For hybrid systems that combine different trading systems at the same time, the requirements correspond to the pre-trade trade transparency requirements applicable to each type of trading system that forms the hybrid system. For hybrid systems that combine two or more trading systems subsequently, the requirements correspond to the pre-trade transparency requirements applicable to the respective trading system operated at a particular point in time </td></tr>
+<tr><td>6</td><td>Any other trading system</td><td>Any other type of trading system not covered by rows 1 to 5.</td><td>Adequate information as to the level of orders or quotes and of trading interest in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on the trading system; in particular, the five best bid and offer price levels and/or two-way quotes of each market maker in that instrument, if the characteristics of the price discovery mechanism so permit.</td></tr>
+</tbody>
+</table>
+
+**Table 1a**
+
+**Symbol table for Table 1b**
+
+| Symbol | Data type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field. |
+| {CURRENCYCODE_3} | 3 alphanumerical characters | 3-letter currency code, as specified by ISO 4217 currency codes |
+| {DATE_TIME_ FORMAT} | ISO 8601 date and time format | Date and time in the following format: YYYY-MM-DDThh:mm:ss.ddddddZ. — ‘YYYY’ is the year; — ‘MM’ is the month; — ‘DD’ is the day; — ‘T’ – means that the letter ‘T’ shall be used — ‘hh’ is the hour; — ‘mm’ is the minute; — ‘ss.dddddd’ is the second and its fraction of a second; — ‘Z’ is UTC time. Dates and times shall be reported in UTC. |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total of which up to m digits can be fraction digits | Numerical field for both positive and negative values. – decimal separator is ‘.’ (full stop); – negative numbers are prefixed with ‘–’ (minus); Where applicable, values shall be rounded and not truncated. |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as specified in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as specified in ISO 10383 |
+| {LEI} | 20 alphanumerical characters | Legal entity identifier as specified in ISO 17442 |
+
+**Table 1b**
+
+**List of details for the purpose of pre-trade transparency**
+
+<table>
+<tbody><tr><td>#</td><td>Field identifier</td><td>Description and details to be published</td><td>Format to be populated as specified in Table 2</td></tr>
+<tr><td>1</td><td>Update date and time</td><td>For non-aggregated orders or quotes as referred to in Table 1, the date and time when the order or quote was received for execution, cancelled or modified into the trading system. For aggregated orders or quotes as referred to in Table 1, the date and time when the aggregated bid price (Field 5) or volume (Field 8) or the aggregated offer price (Field 5) or volume (Field 8) was calculated following the receipt of an order for execution, cancellation, or modification into the trading system, or following an execution.  For periodic auction trading systems as referred to in Table 1, the date and time at which the price would best satisfy the trading algorithm and any modification of the price (Field 5) or quantity (Field 8) thereafter.  The level of granularity shall be in accordance with the requirements set out in Article 12 of Commission Delegated Regulation (EU) 2025/1155 (1). </td><td>{DATE_TIME_FORMAT}</td></tr>
+<tr><td>2</td><td>Instrument identification code</td><td>Code used to identify the financial instrument.</td><td>{ISIN}</td></tr>
+<tr><td>3</td><td>Side</td><td>The side of the order or quote. For periodic auction trading system, this field is not mandatory. </td><td>‘BUYI’ or ‘SELL’</td></tr>
+<tr><td>4</td><td>Market Maker</td><td>For quote-driven trading system the identification of the market maker.</td><td>{LEI}</td></tr>
+<tr><td>5</td><td>Price</td><td>The price of orders and quotes as required under Table 1 and excluding, where applicable, commission and accrued interest. For periodic auction trading system as referred to in Table 1, the price at which the auction trading system would best satisfy its trading algorithm.  Where the price is reported in monetary terms, it shall be provided in the major currency unit.  Where the price is not available but pending (‘PNDG’) or not applicable (‘NOAP’), this field shall not be populated. </td><td>{DECIMAL-18/13} when the price is expressed as monetary value in the case of equity and equity-like financial instruments {DECIMAL-11/10} when the price is expressed as percentage or yield in the case of certificates and other equity-like financial instruments  {DECIMAL-18/17} when the price is expressed as percentage, yield or basis points in the case of certificates and other equity-like financial instruments </td></tr>
+<tr><td>6</td><td>Price currency</td><td>Major currency unit in which the price (Field 5) is expressed (applicable where the price is expressed as monetary value).</td><td>{CURRENCYCODE_3}</td></tr>
+<tr><td>7</td><td>Price notation</td><td>Indication as to whether the price (Field 5) is expressed in monetary value, in percentage or in yield.</td><td>‘MONE’ – Monetary value in the case of equity and equity-like financial instruments ‘PERC’ – Percentage in n the case of certificates and other equity-like financial instruments  ‘YIEL’ – Yield in the case of certificates and other equity-like financial instruments  ‘BAPO’ – Basis points in the case of certificates and other equity-like financial instruments </td></tr>
+<tr><td>8</td><td>Quantity</td><td>Number of units of the financial instruments attached to the quotes or orders as required under Table 1. Where the quantity is not traded in units, the nominal or monetary value of the financial instrument shall be provided in the major currency unit.  For periodic auction trading systems as referred to in Table 1, the aggregated quantity attached to the price that would best satisfy the trading algorithm. </td><td>{DECIMAL-18/17} in case the quantity is expressed as number of units in the case of equity and equity-like financial instruments {DECIMAL-18/5} in case the quantity is expressed as monetary or nominal value in the case of certificates and other equity-like financial instruments. </td></tr>
+<tr><td>9</td><td>Quantity currency</td><td>Major currency in which the quantity (Field 8) is expressed. The major currency unit shall be provided. This field shall be populated where the quantity is not traded in units and is expressed as a nominal or monetary value. Otherwise, this field shall be center blank. </td><td>{CURRENCYCODE_3}</td></tr>
+<tr><td>10</td><td>Aggregated number of orders and quotes</td><td>The number of aggregated orders or quotes from members or participants where aggregated information is required under Table 1.</td><td>{DECIMAL-18/0}</td></tr>
+<tr><td>11</td><td>Venue</td><td>Identification of the trading venue through the system of which orders and quotes are advertised. Use the ISO 10383 segment MIC or, where the segment MIC does not exist, the operating MIC. </td><td>{MIC}</td></tr>
+<tr><td>12</td><td>Trading system</td><td>Type of trading system where the order or quote is advertised</td><td>‘CLOB’ – central limit order book trading systems. A continuous order book trading system as referred to in Table 1 of Annex I, and a trading system combining elements of a continuous order book trading as referred to in Table 1 of Annex I and of a periodic auction trading system as referred to in Table 1 of Annex I. ‘QDTS’ – quote driven trading systems as referred to in Table 1 of Annex I.  ‘PATS’ – periodic auction trading systems as referred to in Table 1 of Annex I.  ‘RFQT’ – request for quote trading systems as referred to in Table 1 of Annex I.  ‘HYBR’ – hybrid trading systems as referred to. in Table 1 of Annex I. A trading system combining elements of a continuous order book trading as referred to in Table 1 of Annex I and of a periodic auction trading system as referred to in Table 1 of Annex I shall not be considered a hybrid system but a CLOB.  ‘OTHR’ – for any other trading system as referred to in Table 1 of Annex I. </td></tr>
+<tr><td>13</td><td>Trading system phase</td><td>Type of trading system phase where the order or quote is advertised</td><td>‘UDUC’ – Undefined Auction ‘SOAU’ – Scheduled Opening Auction  ‘SCAU’ – Scheduled Closing Auction  ‘SIAU’ – Scheduled Intraday Auction  ‘UAUC’ – Unscheduled Auction  ‘ODAU’ – On Demand Auction (Frequent Batch Auction)  ‘COTR’ – Continuous Trading  ‘MACT’ – At Market Close Trading  ‘OMST’ – Out of Main Session Trading  ‘OTSP’ – Other </td></tr>
+<tr><td>14</td><td>Publication date and time</td><td>Date and time when the information was published by the trading venue. The level of granularity shall be in accordance with the requirements set out in Article 12 of Delegated Regulation (EU) 2025/1155. </td><td>{DATE_TIME_FORMAT}</td></tr>
+<tr><td colspan="4">(1)  Commission Delegated Regulation (EU) 2025/1155 of 12 June 2025 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards specifying the input and output data of consolidated tapes, the synchronisation of business clocks and the revenue redistribution by the consolidated tape provider for shares and ETFs, and repealing Commission Delegated Regulation (EU) 2017/574 (OJ L, 2025/1155, 3.11.2025, ELI: http://data.europa.eu/eli/reg_del/2025/1155/oj). </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Symbol table for Table 3**
+
+| Symbol | Data type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field. |
+| {CURRENCYCODE_3} | 3 alphanumerical characters | 3-letter currency code, as defined by ISO 4217 currency codes |
+| {DATE_TIME_FORMAT} | ISO 8601 date and time format | Date and time in the following format: YYYY-MM-DDThh:mm:ss.ddddddZ. — ‘YYYY’ is the year; — ‘MM’ is the month; — ‘DD’ is the day; — ‘T’ — means that the letter ‘T’ shall be used — ‘hh’ is the hour; — ‘mm’ is the minute; — ‘ss.dddddd’ is the second and its fraction of a second; — Z is UTC time. Dates and times shall be reported in UTC. |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total of which up to m digits can be fraction digits | Numerical field for both positive and negative values. — decimal separator is ‘.’ (full stop); — negative numbers are prefixed with ‘–’ (minus); Where applicable, values shall be rounded and not truncated. |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+
+**Table 3**
+
+**List of details for the purpose of post-trade transparency**
+
+| Field num | Field identifier | Description and details to be published | Type of execution or publication venue | Format to be populated as specified in Table 2 |
+| --- | --- | --- | --- | --- |
+| 1 | Trading date and time | Date and time when the transaction was executed. For transactions executed on a trading venue, the level of granularity shall be in accordance with the requirements set out in Article 12 of Delegated Regulation (EU) 2025/1155. For transactions not executed on a trading venue, the date and time when the parties agree on the content of the following fields: quantity, price, currencies, as specified in fields 31, 34 and 44 of Table 2 of Annex I to Delegated Regulation (EU) 2017/590, instrument identification code, instrument classification and underlying instrument code, where applicable. For transactions not executed on a trading venue the time reported shall be granular to at least the nearest second. Where the transaction results from an order transmitted by the executing firm on behalf of a client to a third party where the conditions for transmission set out in Article 4 of Delegated Regulation (EU) 2017/590 were not satisfied, the date and time of the transaction rather than the time of the order transmission. | Regulated Market (RM), Multilateral Trading Facility (MTF), Organised Trading Facility (OTF) Approved Publication Arrangement (APA) | {DATE_TIME_FORMAT} |
+| 2 | Instrument identification code | Code used to identify the financial instrument | RM, MTF, APA | {ISIN} |
+| 3 | Price | Traded price of the transaction excluding, where applicable, commission and accrued interest. Where the price is reported in monetary terms, it shall be provided in the major currency unit. Where the price is not available but pending (‘PNDG’) or not applicable (‘NOAP’), this field shall not be populated. | RM, MTF, APA | {DECIMAL-18/13} in case the price is expressed as monetary value {DECIMAL-11/10} in case the price is expressed as percentage or yield {DECIMAL-18/17} when the price is expressed as basis points in the case of certificates and other equity-like financial instruments |
+| 4 | Missing Price | Where the price is not available but pending, the value shall be ‘PNDG’. Where the price is not applicable, the value shall be ‘NOAP’. | RM, MTF APA | ‘PNDG’ in case the price is not available ‘NOAP’ in case the price is not applicable |
+| 5 | Price currency | Major currency unit in which the price is expressed (applicable where the price is expressed as monetary value). | RM, MTF APA | {CURRENCYCODE_3} |
+| 6 | Price notation | Indication as to whether the price is expressed in monetary value, in percentage, or in yield. | RM, MTF APA | ‘MONE’ – Monetary value in the case of equity and equity-like financial instruments ‘PERC’ – Percentage in the case of certificates and other equity-like financial instruments ‘YIEL’ – Yield in the case of certificates and other equity-like financial instruments ‘BAPO’ – Basis points in the case of certificates and other equity-like financial instruments |
+| 7 | Quantity | Number of units of the financial instruments. The nominal or monetary value of the financial instrument. | RM, MTF, APA | {DECIMAL-18/17} in case the quantity is expressed as number of units {DECIMAL-18/5} in case the quantity is expressed as monetary or nominal value |
+| 8 | Venue of execution | Identification of the venue where the transaction was executed. Use the ISO 10383 segment MIC for transactions executed on an EU trading venue Where the segment MIC does not exist, use the operating MIC. Use ‘SINT’ for financial instruments admitted to trading or traded on a trading venue, where the transaction on that financial instrument is executed on a Systematic Internaliser. Use MIC code ‘XOFF’ for financial instruments admitted to trading or traded on a trading venue, where the transaction on that financial instrument is neither executed on an EU trading venue nor executed on a systematic internaliser. Where the transaction is executed on an organised trading platform outside of the Union, the population of the field ‘Third-country trading venue of execution’ shall be required, in addition to the MIC code ‘XOFF’. | RM, MTF, APA | {MIC} – EU trading venues or ‘SINT’ – systematic internaliser ‘XOFF’ – otherwise |
+| 9 | Third-country trading venue of execution | Identification of the third-country trading venue where the transaction was executed. Use the ISO 10383 segment MIC. Where the segment MIC does not exist, use the operating MIC. Where the transaction is not executed on a third-country trading venue, this field shall not be populated. | APA | {MIC} |
+| 10 | Trading system | Type of trading system on which the transaction was executed. Where the field ‘Venue of execution’ is populated with ‘SINT’ or ‘XOFF’, this field shall not be populated. | RM, MTF | ‘CLOB’ – central limit order book trading systems. A continuous order book trading system as referred to in Table 1 of Annex I and a trading system combining elements of a continuous order book trading as referred to in Table 1 of Annex I and of a periodic auction trading system as referred to in Table 1 of Annex I. ‘QDTS’ – quote driven trading systems as referred to in Table 1 of Annex I. ‘PATS’ – periodic auction trading systems as referred to in Table 1 of Annex I. ‘RFQT’ – request for quote trading systems as referred to in Table 1 of Annex I. ‘HYBR’ – hybrid trading systems as referred to in Table 1 of Annex I. A trading system combining elements of a continuous order book trading as referred to in Table 1 of Annex I and of a periodic auction trading system as referred to in Table 1 of Annex I shall not be considered a hybrid system but a CLOB. ‘OTHR’ – for any other trading system as referred to in Table 1 of Annex I. |
+| 11 | Publication date and time | Date and time when the transaction was published by a trading venue or APA. For transactions executed on a trading venue, the level of granularity shall be in accordance with the requirements set out in Article 12 of Delegated Regulation (EU) 2025/1155. For transactions not executed on a trading venue, the date and time shall be granular to at least the nearest second. | RM, MTF, APA | {DATE_TIME_FORMAT} |
+| 12 | Venue of Publication | Code used to identify the trading venue or APA publishing the transaction. | RM, MTF, APA | {MIC} |
+| 13 | Transaction identification code | Alphanumerical code assigned by trading venues (pursuant to Article 12 of Delegated Regulation (EU) 2017/580) and APAs and used in any subsequent reference to the specific trade. The transaction identification code shall be unique, consistent and persistent per ISO 10383 segment MIC and per trading day. Where the trading venue does not use segment MICs, the transaction identification code shall be unique, consistent and persistent per operating MIC per trading day. Where the APA does not use MICs, the transaction identification code shall be unique, consistent and persistent per 4-character code used to identify the APA per trading day. The components of the transaction identification code shall not disclose the identity of the counterparties to the transaction for which the code is maintained. | RM, MTF, APA | {ALPHANUM-52} |
+| 14 | Flags | One or multiple fields shall be populated with the applicable flags referred to in Table 4 of Annex Ι. Where none of the specified circumstances apply, the transaction shall be published without a flag. Where a combination of flags is possible and reported in one field, the flags shall be reported separated by commas. | RM, MTF, APA | As per Table 4 of Annex I |
+
+**Table 4**
+
+**List of flags for the purpose of post-trade transparency**
+
+| Flag | Name | Type of execution or publication venue | Description |
+| --- | --- | --- | --- |
+| ‘BENC’ | Benchmark transactions flag | RM, MTF APA | Transactions executed in reference to a price that is calculated over multiple time instances according to a given benchmark, such as volume-weighted average price or time-weighted average price. |
+| ‘NPFT’ | Non-price forming transactions flag | RM, MTF | Non-price forming transactions as set out in Article 2(5) of Delegated Regulation (EU) 2017/590. |
+| ‘PORT’ | Portfolio transactions flag | RM, MTF APA | Transactions in five or more different financial instruments where those transactions are traded at the same time by the same client and as a single lot against a specific reference price. |
+| ‘CONT’ | Contingent transactions flag | RM, MTF APA | Transactions that are contingent on the purchase, sale, creation or redemption of a derivative contract or other financial instrument where all the components of the trade are meant to be executed as a single lot. |
+| ‘SDIV’ | Special dividend transaction flag | RM, MTF APA | Transactions that are either: executed during the ex-dividend period where the dividend or other form of distribution accrues to the buyer instead of the seller; or executed during the cum-dividend period where the dividend or other form of distribution accrues to the seller instead of the buyer. |
+| ‘LRGS’ | Post-trade large in scale transaction flag | RM, MTF APA | Transactions that are large in scale compared with normal market size for which deferred publication is permitted under Article 15. |
+| ‘RFPT’ | Reference price transaction flag | RM, MTF | Transactions which are executed under systems operating in accordance with Article 4(1), point (a), of Regulation (EU) No 600/2014. |
+| ‘NLIQ’ | Negotiated transaction in liquid financial instruments flag | RM, MTF | Transactions executed in accordance with Article 4(1), point (b)(i), of Regulation (EU) No 600/2014. |
+| ‘OILQ’ | Negotiated transaction in illiquid financial instruments flag | RM, MTF | Transactions executed in accordance with Article 4(1), point (b)(ii), of Regulation (EU) No 600/2014. |
+| ‘PRIC’ | Negotiated transaction subject to conditions other than the current market price flag | RM, MTF | Transactions executed in accordance with Article 4(1), point (b)(iii), of Regulation (EU) No 600/2014 and as set out in Article 6 of this Regulation. |
+| ‘ALGO’ | Algorithmic transaction flag | RM, MTF | Transactions executed as a result of an investment firm engaging in algorithmic trading as defined in Article 4(1), point (39), of Directive 2014/65/EU. |
+| ‘CANC’ | Cancellation flag | RM, MTF APA | Where a previously published transaction is cancelled |
+| ‘AMND’ | Amendment flag | RM, MTF APA | Where a previously published transaction is amended |
+
+## ANNEX II
+
+**Orders large in scale compared with normal market size, standard market sizes and deferred publications and delays**
+
+**Table 1**
+
+**Orders large in scale compared with normal market size for shares and depositary receipts**
+
+| Average daily turnover (ADT) in EUR | ADT < 50 000 | 50 000 ≤ ADT < 100 000 | 100 000 ≤ ADT < 500 000 | 500 000 ≤ ADT < 1 000 000 | 1 000 000 ≤ ADT < 5 000 000 | 5 000 000 ≤ ADT < 25 000 000 | 25 000 000 ≤ ADT < 50 000 000 | 50 000 000 ≤ ADT < 100 000 000 | ADT ≥ 100 000 000 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Minimum size of orders qualifying as large in scale compared with normal market size in EUR | 15 000 | 30 000 | 60 000 | 100 000 | 200 000 | 300 000 | 400 000 | 500 000 | 650 000 |
+
+**Table 2**
+
+**Orders large in scale compared with normal market size certificates and other similar financial instruments**
+
+| Average daily turnover (ADT) in EUR | ADT < 50 000 | ADT ≥ 50 000 |
+| --- | --- | --- |
+| Minimum size of orders qualifying as large in scale compared with normal market size in EUR | 15 000 | 30 000 |
+
+**Table 3**
+
+**Standard market sizes for shares and depositary receipts**
+
+| Average value of transactions (AVT) in EUR | AVT bucket [0 -10 000 ) | AVT bucket [10 000 -12 000 ) | AVT bucket [12 000 -14 000 ) | AVT bucket [14 000 -16 000 ) | AVT bucket [16 000 -18 000 ) | AVT bucket [18 000 -20 000 ) | AVT bucket [20 000 -40 000 ) | AVT bucket [40 000 -60 000 ) | Etc. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Standard market size | 5 000 | 11 000 | 13 000 | 15 000 | 17 000 | 19 000 | 30 000 | 50 000 | Etc. |
+
+**Table 3a**
+
+**Standard market sizes for ETFs, certificates and other similar financial instruments**
+
+| Average value of transactions (AVT) in EUR | AVT bucket [0 -10 000 ) | AVT bucket [10 000 -15 000 ) | AVT bucket [15 000 -20 000 ) | AVT bucket [20 000 -25 000 ) | AVT bucket [25 000 -30 000 ) | AVT bucket [30 000 -35 000 ) | AVT bucket [35 000 -40 000 ) | AVT bucket [40 000 -60 000 ) | Etc. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Standard market size | 5 000 | 12 500 | 17 500 | 22 500 | 27 500 | 32 500 | 37 500 | 50 000 | Etc. |
+
+**Table 4**
+
+**Deferred publication thresholds and delays for shares and depositary receipts**
+
+<table>
+<tbody><tr><td>Average daily turnover (ADT) in EUR</td><td>Minimum qualifying size of transaction for permitted delay in EUR</td><td>Timing of publication after the transaction</td></tr>
+<tr><td rowspan="3">&gt; 100 m</td><td>10 000 000 </td><td>60 minutes</td></tr>
+<tr><td>20 000 000 </td><td>120 minutes</td></tr>
+<tr><td>35 000 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">50 m-100 m</td><td>7 000 000 </td><td>60 minutes</td></tr>
+<tr><td>15 000 000 </td><td>120 minutes</td></tr>
+<tr><td>25 000 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">25 m-50 m</td><td>5 000 000 </td><td>60 minutes</td></tr>
+<tr><td>10 000 000 </td><td>120 minutes</td></tr>
+<tr><td>12 000 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">5 m-25 m</td><td>2 500 000 </td><td>60 minutes</td></tr>
+<tr><td>4 000 000 </td><td>120 minutes</td></tr>
+<tr><td>5 000 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">1 m-5 m</td><td>450 000 </td><td>60 minutes</td></tr>
+<tr><td>750 000 </td><td>120 minutes</td></tr>
+<tr><td>1 000 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">500 000 -1 m</td><td>75 000 </td><td>60 minutes</td></tr>
+<tr><td>150 000 </td><td>120 minutes</td></tr>
+<tr><td>225 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">100 000 -500 000 </td><td>30 000 </td><td>60 minutes</td></tr>
+<tr><td>80 000 </td><td>120 minutes</td></tr>
+<tr><td>120 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">50 000 -100 000 </td><td>15 000 </td><td>60 minutes</td></tr>
+<tr><td>30 000 </td><td>120 minutes</td></tr>
+<tr><td>50 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="3">&lt; 50 000 </td><td>7 500 </td><td>60 minutes</td></tr>
+<tr><td>15 000 </td><td>120 minutes</td></tr>
+<tr><td>25 000 </td><td>End of the next trading day</td></tr>
+</tbody>
+</table>
+
+**Table 5**
+
+**Deferred publication thresholds and delays for ETFs**
+
+| Minimum qualifying size of transaction for permitted delay in EUR | Timing of publication after the transaction |
+| --- | --- |
+| 15 000 000 | 60 minutes |
+| 50 000 000 | End of the trading day |
+
+**Table 6**
+
+**Deferred publication thresholds and delays for certificates and other similar financial instruments**
+
+<table>
+<tbody><tr><td>Average daily turnover (ADT) in EUR</td><td>Minimum qualifying size of transaction for permitted delay in EUR</td><td>Timing of publication after the transaction</td></tr>
+<tr><td rowspan="2">ADT &lt; 50 000 </td><td>15 000 </td><td>120 minutes</td></tr>
+<tr><td>30 000 </td><td>End of the trading day</td></tr>
+<tr><td rowspan="2">ADT ≥ 50 000 </td><td>30 000 </td><td>120 minutes</td></tr>
+<tr><td>60 000 </td><td>End of the trading day</td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Reference data to be provided for the purpose of transparency calculations**
+
+**Table 1**
+
+**Symbol table**
+
+| Symbol | Data Type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field. |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+
+**Table 2**
+
+**Details of the reference data to be provided for the purpose of transparency calculations**
+
+| # | Field | Details to be reported | Format and standards for reporting |
+| --- | --- | --- | --- |
+| 1 | Instrument identification code | Code used to identify the financial instrument | {ISIN} |
+| 2 | Instrument full name | Full name of the financial instrument | {ALPHANUM-350} |
+| 3 | Trading venue | Segment MIC for the trading venue or systematic internaliser, where available, otherwise operational MIC. | {MIC} |
+| 4 | MiFIR identifier | Identification of equity financial instruments Shares as referred to in Article 4(44)(a) of Directive 2014/65/EU; Depositary receipts as defined in Article 4(45) of Directive 2014/65/EU; ETF as defined in Article 4(46) of Directive 2014/65/EU; Certificates as defined in Article 2(1)(27) of Regulation (EU) No 600/2014; Other equity-like financial instrument is a transferable security which is an equity instrument similar to a share, ETF, depositary receipt or certificate but other than a share, ETF, depositary receipt or certificate. | Equity financial instruments: SHRS = shares ETFS = ETFs DPRS = depositary receipts CRFT = certificates OTHR = other equity-like financial instruments |
+
+## ANNEX IV
+
+**Data to be provided for the purpose of determining the Most Relevant Market in terms of liquidity, the ADT and the AVT**
+
+**Table 1**
+
+**Symbol table**
+
+| Symbol | Data Type | Definition |
+| --- | --- | --- |
+| {ALPHANUM-n} | Up to n alphanumerical characters | Free text field |
+| {ISIN} | 12 alphanumerical characters | ISIN code, as defined in ISO 6166 |
+| {MIC} | 4 alphanumerical characters | Market identifier as defined in ISO 10383 |
+| {DATEFORMAT} | ISO 8601 date format | Dates shall be formatted by the following format: YYYY-MM-DD. |
+| {DECIMAL-n/m} | Decimal number of up to n digits in total of which up to m digits can be fraction digits | Numerical field for both positive and negative values. decimal separator is ‘.’ (full stop); negative numbers are prefixed with ‘–’ (minus); values are rounded and not truncated. |
+| {INTEGER-n} | Integer number of up to n digits | Numerical field for both positive and negative integer values. |
+
+**Table 2**
+
+**Details to be provided for the purpose of determining the Most Relevant Market in terms of liquidity, the ADT and the AVT (based on the current reporting instructions)**
+
+<table>
+<tbody><tr><td>Field num</td><td>Field identifier</td><td>Description and details to be published</td><td>Type of execution or publication venue</td><td>Format to be populated as defined in Table 1</td></tr>
+<tr><td>1</td><td>Instrument identification code</td><td>Code used to identify the financial instrument</td><td>Regulated Market (RM) Multilateral Trading Facility (MTF)  Approved Publication Arrangement (APA)  Consolidated tape provider (CTP) </td><td>{ISIN}</td></tr>
+<tr><td>2</td><td>Execution date</td><td>Date on which the trades are executed.</td><td>RM, MTF, APA, CTP</td><td>{DATEFORMAT}</td></tr>
+<tr><td>3</td><td>Execution venue</td><td>Segment MIC for the EU trading venue or systematic internaliser, where available, otherwise operating MIC. MIC XOFF in the case the transaction is executed by investment firms which are not systematic internalisers and is not executed on a trading venue. </td><td>RM, MTF, APA, CTP</td><td>{MIC} – of the trading venue or systematic internaliser or {MIC}- XOFF’</td></tr>
+<tr><td>4</td><td>Suspended instrument flag</td><td>Indicator of whether the instrument was suspended for the whole trading day on the respective TV on the execution date. As a consequence of an instrument being suspended for the whole trading day, fields 5 to 10 shall be reported with a value of zero. </td><td>RM, MTF, CTP</td><td>TRUE - if the instrument was suspended for the whole trading day or FALSE – if the instrument was not suspended for the whole trading day </td></tr>
+<tr><td>5</td><td>Total number of transactions</td><td>The total number of transactions executed on the execution date (*2).</td><td>RM, MTF, APA, CTP</td><td>{INTEGER-18}</td></tr>
+<tr><td>6</td><td>Total turnover</td><td>The total turnover executed on the execution date, expressed in EUR (*1)(*2).</td><td>RM, MTF, APA, CTP</td><td>{DECIMAL-18/5}</td></tr>
+<tr><td>7</td><td>Transactions executed, excluding all transactions executed under pre-trade waivers of Article 4(1), points (a), (b) and(c), of Regulation (EU) No 600/2014.</td><td>The total number of transactions executed on the execution date excluding all transactions executed under pre-trade waivers of Article 4(1), points (a), (b) and (c), of Regulation (EU) No 600/2014 on the same day (*2).</td><td>RM, MTF, CTP</td><td>{INTEGER-18}</td></tr>
+<tr><td>8</td><td>Total turnover executed, excluding all transactions executed under pre-trade waivers of Article 4(1), points (a), (b) and (c), of Regulation (EU) No 600/2014.</td><td>The total turnover executed on the execution date excluding all transactions executed under pre-trade waivers of Article 4(1), points (a), (b) and (c), of Regulation (EU) No 600/2014 on the same day (*1)(*2).</td><td>RM, MTF, CTP</td><td>{DECIMAL-18/5}</td></tr>
+<tr><td>9</td><td>Total number of transactions excluding those executed under the post-trade LIS deferral.</td><td>Total number of transactions executed on the execution date, excluding those transactions executed under Large-In-Scale waiver (post-trade) (*2). For shares and depositary receipts only the highest threshold for the related average daily turnover (ADT) band in Table 4 of Annex II shall be used to identify those transactions.  For certificates and other similar financial instruments only the highest threshold in Table 6 of Annex II shall be used to identify those transactions  For ETFs only the highest threshold in Table 5 of Annex II shall be used to identify those transactions. </td><td>RM, MTF, APA, CTP</td><td>{INTEGER-18}</td></tr>
+<tr><td>10</td><td>Total turnover executed, excluding transactions executed under the post-trade LIS deferral.</td><td>Total volume of transactions executed on the execution date, excluding those transactions executed under Large-In-Scale waiver (post-trade) (*1)(*2). For shares and depositary receipts only the highest threshold for the related average daily turnover (ADT) band in Table 4 of Annex II shall be used to identify those transactions.  For certificates and other similar financial instruments only the highest threshold in Table 6 of Annex II shall be used to identify those transactions  For ETFs only the highest threshold in Table 5 of Annex II shall be used to identify those transactions. </td><td>RM, MTF, APA, CTP</td><td>{DECIMAL-18/5}</td></tr>
+<tr><td colspan="5">(*1)  The turnover shall be calculated as number of instruments exchanged between the buyers and sellers multiplied by the unit price of the instrument exchanged for that specific transaction and shall be expressed in EUR.  (*2)  Transactions that have been cancelled shall be excluded from the reported figures. <br> In all cases, the field has to be populated with any value greater than or equal to zero up to 18 numeric characters including up to 5 decimal places. </td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 2 ) Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the reporting of transactions to competent authorities (OJ L 87, 31.3.2017, p. 449, ELI: http://data.europa.eu/eli/reg_del/2017/590/oj).
+
+( 3 ) Commission Delegated Regulation (EU) 2017/574 of 7 June 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards for the level of accuracy of business clocks (see page 148 of this Official Journal).
+
+( 4 ) Commission Delegated Regulation (EU) 2017/588 of 14 July 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards on the tick size regime for shares, depositary receipts and exchange-traded funds (OJ L 87, 31.3.2017, p. 411).
+
+( 5 ) Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the reporting of transactions to competent authorities (see page 449 of this Official Journal).

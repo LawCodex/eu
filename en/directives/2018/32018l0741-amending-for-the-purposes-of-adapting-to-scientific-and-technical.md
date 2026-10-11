@@ -81,6 +81,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 6(c) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘6(c)</td><td>Copper alloy containing up to 4 % lead by weight</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10,</td></tr>
 </tbody>
 </table>
@@ -95,3 +96,4 @@ In Annex III to Directive 2011/65/EU, point 6(c) is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

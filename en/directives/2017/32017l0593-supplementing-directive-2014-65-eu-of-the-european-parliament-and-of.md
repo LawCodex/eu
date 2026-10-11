@@ -25,10 +25,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2021/1269 of 21 April 2021 </td><td> L 277</td><td>137</td><td>2.8.2021</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2026/374 of 20 February 2026 </td><td> L 374</td><td>1</td><td>2.6.2026</td></tr>
+</table>
 
 **COMMISSION DELEGATED DIRECTIVE (EU) 2017/593**
 

@@ -1,0 +1,908 @@
+---
+title: "Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 2019 establishing a European Union Agency for the Cooperation of Energy Regulators (recast) (Text with EEA relevance.)"
+identifier: "32019R0942"
+eli: "http://data.europa.eu/eli/reg/2019/942/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-06-05
+entry_into_force: 2020-01-09
+last_amended: 2025-02-05
+consolidated_version: "02019R0942-20250205"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0942-20250205"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/942 of the European Parliament and of the Council of 5 June 2019 establishing a European Union Agency for the Cooperation of Energy Regulators (recast) (Text with EEA relevance.)
+
+**REGULATION (EU) 2019/942 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 June 2019**
+
+**establishing a European Union Agency for the Cooperation of Energy Regulators**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2022 </td><td> L 152</td><td>45</td><td>3.6.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1106 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1106</td><td>1</td><td>17.4.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1747 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1747</td><td>1</td><td>26.6.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1787 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1787</td><td>1</td><td>15.7.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1789</td><td>1</td><td>15.7.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2019/942 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 June 2019**
+
+**establishing a European Union Agency for the Cooperation of Energy Regulators**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## Chapter I — Objectives and tasks
+
+### Article 1 — Establishment and objectives
+
+1\. This Regulation establishes a European Union Agency for the Cooperation of Energy Regulators (ACER).
+
+2\. The purpose of ACER shall be to assist the regulatory authorities referred to in Article 57 of Directive (EU) 2019/944 and Article 39 of Directive 2009/73/EC in exercising, at Union level, the regulatory tasks performed in the Member States and, where necessary, to coordinate their action and to mediate and settle disagreements between them in accordance with Article 6(10) of this Regulation. ACER shall also contribute to the establishment of high-quality common regulatory and supervisory practices, thus contributing to the consistent, efficient and effective application of Union law in order to achieve the Union's climate and energy goals.
+
+3\. When carrying out its tasks, ACER shall act independently, objectively, and in the interest of the Union. ACER shall take autonomous decisions, independently of private and corporate interests.
+
+### Article 2 — Type of acts of ACER
+
+ACER shall:
+
+(a) issue opinions and recommendations addressed to transmission system operators, the ENTSO for Electricity, the ENTSO for Gas, the European Network of Network Operators for Hydrogen (ENNOH), the EU DSO entity, regional coordination centres, nominated electricity market operators, and entities established by transmission system operators for natural gas, LNG system operators, natural gas storage system operators or hydrogen storage operators or hydrogen network operators;
+
+(aa) issue opinions and recommendations addressed to the single allocation platform established in accordance with Commission Regulation (EU) 2016/1719 ( 1 );
+
+(b) issue opinions and recommendations addressed to regulatory authorities;
+
+(c) issue opinions and recommendations addressed to the European Parliament, the Council, or the Commission;
+
+(d) issue individual decisions on the provision of information in accordance with Article 3(2), Article 7(2), point (b), and Article 8, point (c); on approving the methodologies, terms and conditions in accordance with Article 4(4), Article 5(2), (3) and (4); on bidding zones reviews as referred to in Article 5(7); on technical issues as referred to in Article 6(1); on arbitration between regulators in accordance with Article 6(10); related to regional coordination centres as referred to in Article 7(2), point (a); on approving and amending methodologies and calculations and technical specifications as referred to in Article 9(1); on approving and amending methodologies as referred to in Article 9(3); on exemptions as referred to in Article 10; on infrastructure as referred to in Article 11, point (d); on matters related to wholesale market integrity and transparency pursuant to Article 12; and on approving and amending the joint proposal from the ENTSO for Electricity and the EU DSO entity regarding the type of data and format and the methodology related to the analysis to be provided as regards the flexibility needs pursuant to Article 5(9);
+
+(e) submit non-binding framework guidelines to the Commission in accordance with Article 59 of Regulation (EU) 2019/943 of the European Parliament and of the Council ( 2 ) and Article 6 of Regulation (EC) No 715/2009 of the European Parliament and of the Council ( 3 ).
+
+### Article 3 — General tasks
+
+1\. ACER may, upon a request of the European Parliament, the Council or the Commission, or on its own initiative, provide an opinion or a recommendation to the European Parliament, the Council and the Commission on any of the issues relating to the purpose for which it has been established.
+
+2\. At ACER’s request, the regulatory authorities, the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the regional coordination centres, the EU DSO entity, the transmission system operators for natural gas, hydrogen network operators, the nominated electricity market operators, and entities established by transmission system operators for natural gas, LNG system operators, natural gas storage system operators or hydrogen storage operators or hydrogen terminal operators shall provide to ACER the information in the same level of detail necessary for the purpose of carrying out ACER’s tasks under this Regulation, unless ACER has already requested and received such information.
+
+For the purpose of information requests as referred to in the first subparagraph, ACER shall have the power to issue decisions. In its decisions, ACER shall specify the purpose of its request, shall make a reference to the legal basis under which the information is requested, and shall state a time limit within which the information is to be provided. That time limit shall be proportionate to the request.
+
+ACER shall use confidential information received pursuant to this Regulation only for the purpose of carrying out the tasks assigned to it in this Regulation. ACER shall ensure the appropriate data protection of the information pursuant to Article 41.
+
+This paragraph shall also apply to the single allocation platform established in accordance with Regulation (EU) 2016/1719.
+
+### Article 4 — Tasks of ACER as regards the cooperation of transmission system operators and distribution system operators
+
+1\. ACER shall provide an opinion to the Commission on the draft statutes, list of members and draft rules of procedure of the ENTSO for Electricity in accordance with Article 29(2) of Regulation (EU) 2019/943 and on those of the ENTSO for Gas in accordance with Article 25(2) of Regulation (EU) 2024/1789 of the European Parliament and of the Council ( 4 ) and on those of the ENNOH in accordance with Article 57(9) of Regulation (EU) 2024/1789 and on those of the EU DSO entity in accordance with Article 53(3) of Regulation (EU) 2019/943 and Article 40(4) of Regulation (EU) 2024/1789.
+
+2\. ACER shall monitor the execution of the tasks of the ENTSO for Electricity in accordance with Article 32 of Regulation (EU) 2019/943, of the ENTSO for Gas in accordance with Article 27 of Regulation (EU) 2024/1789 and of the ENNOH in accordance with Article 64 of Regulation (EU) 2024/1789 and of the EU DSO entity as set out in Article 55 of Regulation (EU) 2019/943 and Article 41 of Regulation (EU) 2024/1789.
+
+3\. ACER may provide an opinion:
+
+(a) to the ENTSO for Electricity in accordance with Article 30(1), point (a), of Regulation (EU) 2019/943, to the ENTSO for Gas in accordance with Article 26(2) of Regulation (EU) 2024/1789 and to the ENNOH in accordance with Article 59(1) of that Regulation on the network codes;
+
+(b) to the ENTSO for Electricity in accordance with Article 32(2) of Regulation (EU) 2019/943, to the ENTSO for Gas in accordance with the Article 26(2) of Regulation (EU) 2024/1789 and to the ENNOH in accordance with Article 60(2) of Regulation (EU) 2024/1789 on the draft Union-wide network development plan and on other relevant documents referred to in Article 30(1) of Regulation (EU) 2019/943 and Article 26(3) and Article 59(1) of Regulation (EU) 2024/1789, taking into account the objectives of non-discrimination, effective competition and the proper and secure functioning of the internal markets for electricity, hydrogen and natural gas;
+
+(c) to the EU DSO entity on the draft annual work programme and other relevant documents referred to in Article 55(2) of Regulation (EU) 2019/943 and Article 41(3) of Regulation (EU) 2024/1789, taking into account the objectives of non-discrimination, effective competition and the proper and secure functioning of the internal market for electricity, hydrogen and natural gas.
+
+4\. ACER, where appropriate, after requesting updates to the drafts submitted by transmission system operators, shall approve the methodology regarding the use of revenues from congestion income pursuant to Article 19(4) of Regulation (EU) 2019/943.
+
+5\. ACER shall, based on matters of fact, provide a duly reasoned opinion as well as recommendations to the ENTSO for Electricity, the ENTSO for Gas, the European Parliament, the Council and the Commission, where it considers that the draft annual work programme or the draft Union-wide network development plan submitted to it in accordance with the second subparagraph of Article 32(2) of Regulation (EU) 2019/943 and the second subparagraph of Article 9(2) of Regulation (EC) No 715/2009 do not contribute to non-discrimination, effective competition and the efficient functioning of the market or a sufficient level of cross-border interconnection open to third-party access, or do not comply with the relevant provisions of Regulation (EU) 2019/943 and Directive (EU) 2019/944 or Regulation (EC) No 715/2009 and Directive 2009/73/EC.
+
+6\. The relevant regulatory authorities shall coordinate in order to jointly identify whether there is non-compliance of the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or regional coordination centres with their obligations under Union law, and shall take appropriate action in accordance with Article 59(1), point (c), and Article 62(1), point (f), of Directive (EU) 2019/944 or with Article 78(1), point (e), of Directive (EU) 2024/1788 of the European Parliament and of the Council ( 5 ).
+
+At the request of one or more regulatory authorities or at its own initiative, ACER shall issue a reasoned opinion as well as a recommendation to the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or the regional coordination centres with regard to compliance with their obligations.
+
+7\. Where a reasoned opinion of ACER identifies a case of potential non-compliance of the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or a regional coordination centre with their respective obligations, the regulatory authorities concerned shall unanimously take coordinated decisions establishing whether there is non-compliance with the relevant obligations and, where applicable, determining the measures to be taken by the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or the regional coordination centre to remedy that non-compliance. Where the regulatory authorities fail to take such coordinated decisions unanimously within four months of the date of receipt of ACER’s reasoned opinion, the matter shall be referred to ACER for a decision pursuant to Article 6(10).
+
+8\. Where the non-compliance by the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or a regional coordination centre that was identified pursuant to paragraph 6 or 7 of this Article has not been remedied within three months, or where the regulatory authority in the Member State in which the entity has its seat has not taken action to ensure compliance, ACER shall issue a recommendation to the regulatory authority to take action in accordance with Article 59(1), point (c), and Article 62(1), point (f), of Directive (EU) 2019/944 or with Article 78(1), point (f), of Directive (EU) 2024/1788, in order to ensure that the ENTSO for Electricity, the ENTSO for Gas, the ENNOH, the EU DSO entity or the regional coordination centre comply with their obligations, and shall inform the Commission.
+
+9\. Paragraphs 6, 7 and 8 of this Article shall also apply to the single allocation platform established in accordance with Regulation (EU) 2016/1719.
+
+### Article 5 — Tasks of ACER as regards the development and implementation of network codes and guidelines
+
+1\. ACER shall participate in the development of network codes in accordance with Article 59 of Regulation (EU) 2019/943 and Articles 71 and 72 of Regulation (EU) 2024/1789 and of guidelines in accordance with Article 61(6) of Regulation (EU) 2019/943 and Article 74(5) of Regulation (EU) 2024/1789. It shall in particular:
+
+(a) submit non-binding framework guidelines to the Commission where it is requested to do so under Article 59(4) of Regulation (EU) 2019/943 or Article 71(4) or Article 72(4) of Regulation (EU) 2024/1789. ACER shall review the framework guidelines and re-submit them to the Commission where requested to do so under Article 59(7) of Regulation (EU) 2019/943 or Article 71(7) or Article 72(7) of Regulation (EU) 2024/1789;
+
+(b) revise the network code in accordance with Article 59(11) of Regulation (EU) 2019/943 or Article 71(11) or Article 72(11) of Regulation (EU) 2024/1789. In its revision, ACER shall take account of the views provided by the parties involved during the drafting of that revised network code led by the ENTSO for Electricity, the ENTSO for Gas, the ENNOH or the EU DSO entity, and shall consult the relevant stakeholders on the version to be submitted to the Commission. To that end, ACER may use the drafting committee established under the network codes where appropriate. ACER shall report to the Commission on the outcome of the consultations. Subsequently, ACER shall submit the revised network code to the Commission in accordance with Article 59(11) of Regulation (EU) 2019/943 or Article 71(11) or Article 72(11) of Regulation (EU) 2024/1789. Where the ENTSO for Electricity, the ENTSO for Gas, the ENNOH or the EU DSO entity have failed to develop a network code, ACER shall prepare and submit a draft network code to the Commission where it is requested to do so under Article 59(12) of Regulation (EU) 2019/943 or Article 71(12) or Article 72(12) of Regulation (EU) 2024/1789;
+
+(c) provide a duly reasoned opinion to the Commission, in accordance with Article 32(1) of Regulation (EU) 2019/943 or Article 27(1) or Article 64(2) of Regulation (EU) 2024/1789, where the ENTSO for Electricity, the ENTSO for Gas, the ENNOH or the EU DSO entity has failed to implement a network code elaborated under Article 30(1), point (a), of Regulation (EU) 2019/943 or Article 26(1) or Article 59(1), point (a), of Regulation (EU) 2024/1789 or a network code which has been established in accordance with Article 59(3) to (12) of Regulation (EU) 2019/943 or Article 71(3) to (12) or Article 72(3) to (12) of Regulation (EU) 2024/1789 but which has not been adopted by the Commission under Article 59(13) of Regulation (EU) 2019/943 or under Article 71(13) or Article 72(13) of Regulation (EU) 2024/1789;
+
+(d) monitor and analyse the implementation of the network codes adopted by the Commission in accordance with Article 59 of Regulation (EU) 2019/943 and Articles 71 and 72 of Regulation (EU) 2024/1789 and the guidelines adopted in accordance with Article 61 of Regulation (EU) 2019/943 and Article 74 of Regulation (EU) 2024/1789, and their effect on the harmonisation of applicable rules aimed at facilitating market integration as well as on non-discrimination, effective competition and the proper functioning of the market, and report to the Commission.
+
+2\. Where one of the following legal acts provides for the development of proposals for common terms and conditions or methodologies for the implementation of network codes and guidelines which require the approval of all regulatory authorities, those proposals for common terms and conditions or methodologies shall be submitted to ACER for revision and approval:
+
+(a) a legislative act of the Union adopted under the ordinary legislative procedure;
+
+(b) network codes and guidelines adopted before 4 July 2019 and subsequent revisions of those network codes and guidelines; or
+
+(c) network codes and guidelines adopted as implementing acts pursuant to Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 6 ).
+
+3\. Where one of the following legal acts provides for the development of proposals for terms and conditions or methodologies for the implementation of network codes and guidelines which require the approval of all the regulatory authorities of the region concerned, those regulatory authorities shall agree unanimously on the common terms and conditions or methodologies to be approved by each of those regulatory authorities:
+
+(a) a legislative act of the Union adopted under the ordinary legislative procedure;
+
+(b) network codes and guidelines that were adopted before 4 July 2019 and subsequent revisions of those network codes and guidelines; or
+
+(c) network codes and guidelines adopted as implementing acts pursuant to Article 5 of Regulation (EU) No 182/2011.
+
+The proposals referred to in the first subparagraph shall be notified to ACER within one week of their submission to those regulatory authorities. The regulatory authorities may refer the proposals to ACER for approval pursuant to point (b) of the second subparagraph of Article 6(10) and shall do so pursuant to point (a) of the second subparagraph of Article 6(10) where there is no unanimous agreement as referred to in the first subparagraph.
+
+The Director or the Board of Regulators, acting on its own initiative or on a proposal from one or more of its members, may require the regulatory authorities of the region concerned to refer the proposal to ACER for approval. Such a request shall be limited to cases in which the regionally agreed proposal would have a tangible impact on the internal energy market or on security of supply beyond the region.
+
+4\. Without prejudice to paragraphs 2 and 3, ACER shall be competent to take a decision pursuant to Article 6(10) where the competent regulatory authorities fail to agree on terms and conditions or methodologies for the implementation of new network codes and guidelines adopted after 4 July 2019 as delegated acts, where those terms and conditions or methodologies require the approval of all the regulatory authorities or of all the regulatory authorities of the region concerned.
+
+5\. By 31 October 2023, and every three years thereafter, the Commission shall submit a report to the European Parliament and to the Council on ACER's involvement in the development and adoption of terms and conditions or methodologies for the implementation of network codes and guidelines adopted as delegated acts after 4 July 2019. Where appropriate, the report shall be accompanied by a legislative proposal to transfer or modify the necessary powers to ACER.
+
+6\. Before approving the terms and conditions or methodologies referred to in paragraphs 2 and 3, the regulatory authorities, or, where competent, ACER, shall revise them where necessary, after consulting the ENTSO for Electricity, the ENTSO for Gas or the EU DSO entity, in order to ensure that they are in line with the purpose of the network code or guideline and contribute to market integration, non-discrimination, effective competition and the proper functioning of the market. ACER shall take a decision on the approval within the period specified in the relevant network codes and guidelines. That period shall begin on the day following that on which the proposal was referred to ACER.
+
+7\. ACER shall carry out its tasks as regards the bidding zone review pursuant to Article 14(5) of Regulation (EU) 2019/943.
+
+8\. ACER shall monitor the regional cooperation of transmission system operators referred to in Article 34 of Regulation (EU) 2019/943 and Article 12 of Regulation (EC) No 715/2009, and shall take into account the outcome of that cooperation when formulating its opinions, recommendations and decisions.
+
+ACER shall monitor the single allocation platform established in accordance with Regulation (EU) 2016/1719.
+
+9\. ACER shall approve and where necessary amend the joint proposal from the ENTSO for Electricity and the EU DSO entity regarding the type of data and format and the methodology related to the analysis to be provided as regards the flexibility needs pursuant to Article 19e(6) of Regulation (EU) 2019/943.
+
+### Article 6 — Tasks of ACER as regards the regulatory authorities
+
+1\. ACER shall adopt individual decisions on technical issues where those decisions are provided for in Regulation (EU) 2019/943, Regulation (EC) No 715/2009, Directive (EU) 2019/944 or Directive 2009/73/EC.
+
+2\. ACER may, in accordance with its work programme, at the request of the Commission or on its own initiative, make recommendations to assist regulatory authorities and market participants in sharing good practices.
+
+3\. By 5 July 2022, and every four years thereafter the Commission shall submit a report to the European Parliament and the Council on the independence of regulatory authorities pursuant to Article 57(7) of Directive (EU) 2019/944 and Article 76(6) of Directive (EU) 2024/1788.
+
+4\. ACER shall provide a framework within which the regulatory authorities can cooperate in order to ensure efficient decision-making on issues with cross-border relevance. It shall promote cooperation between the regulatory authorities and between regulatory authorities at regional and Union level and shall take into account the outcome of such cooperation when formulating its opinions, recommendations and decisions. Where ACER considers that binding rules on such cooperation are required, it shall make the appropriate recommendations to the Commission.
+
+5\. ACER shall provide a factual opinion at the request of one or more regulatory authorities or of the Commission, on whether a decision taken by a regulatory authority complies with the network codes and guidelines referred to in Regulation (EU) 2019/943, Regulation (EU) 2024/1789, Directive (EU) 2019/944 or Directive (EU) 2024/1788, with other relevant provisions of those regulations or directives, or with Article 13 of Regulation (EU) 2017/1938.
+
+6\. Where a regulatory authority does not comply with the opinion of ACER referred to in paragraph 5 within four months of the date of receipt, ACER shall inform the Commission and the Member State concerned accordingly.
+
+7\. Where, in a specific case, a regulatory authority encounters difficulties with the application of the network codes and guidelines referred to in Regulation (EU) 2019/943, Regulation (EC) No 715/2009, Directive (EU) 2019/944 or Directive 2009/73/EC it may request ACER to provide an opinion. ACER shall deliver its opinion, after consulting the Commission, within three months of the date of receipt of such a request.
+
+9\. ACER shall submit opinions to the regulatory authority concerned and to the Commission pursuant to Article 8(1b) and Article 16(3) of Regulation (EU) 2019/943.
+
+9a. ACER shall issue recommendations to transmission system operators, distribution system operators, hydrogen network operators and regulatory authorities, with regard to the methodologies for setting the inter-temporal cost allocation pursuant to Article 5(6), first subparagraph, of Regulation (EU) 2024/1789.
+
+ACER may issue recommendations to transmission system operators, distribution system operators, hydrogen network operators and regulatory authorities, with regard to the regulatory asset bases pursuant to Article 5(6), third subparagraph, of Regulation (EU) 2024/1789.
+
+9b. ACER may issue recommendations to regulatory authorities on the allocation of costs of solutions for restrictions to cross-border flows due to differences in gas quality pursuant to Article 21(11) of Regulation (EU) 2024/1789.
+
+9c. ACER may issue recommendations to regulatory authorities on the allocation of costs of solutions for restrictions to cross-border flows due to differences in hydrogen quality pursuant to Article 55(8) of Regulation (EU) 2024/1789.
+
+9d. ACER shall publish monitoring reports on congestion at interconnection points pursuant to point 2.2.1(2) of Annex I to Regulation (EU) 2024/1789.
+
+10\. ACER shall be competent to adopt individual decisions on regulatory issues having effects on cross-border trade or cross-border system security which require a joint decision by at least two regulatory authorities, where such competences have been conferred on the regulatory authorities under one of the following legal acts:
+
+(a) a legislative act of the Union adopted under the ordinary legislative procedure;
+
+(b) network codes and guidelines referred to in Articles 59 to 61 of Regulation (EU) 2019/943 adopted before 4 July 2019 and subsequent revisions of those network codes and guidelines;
+
+(c) network codes and guidelines referred to in Articles 59 to 61 of Regulation (EU) 2019/943 adopted as implementing acts pursuant to Article 5 of Regulation (EU) No 182/2011;
+
+(d) guidelines pursuant to Annex I to Regulation (EU) 2024/1789; or
+
+(e) network codes and guidelines referred to in Articles 71 to 74 of Regulation (EU) 2024/1789.
+
+ACER shall be competent to adopt individual decisions as specified in the first subparagraph in the following situations:
+
+(a) where the competent regulatory authorities have not been able to reach an agreement within six months of referral of the case to the last of those regulatory authorities, or within four months with regard to cases under Article 4(7) of this Regulation or under Article 59(1), point (c), or Article 62(1), point (f), of Directive (EU) 2019/944 or Article 78(1), point (f), of Directive (EU) 2024/1788;
+
+(b) on the basis of a joint request from the competent regulatory authorities.
+
+The competent regulatory authorities may jointly request that the period referred to in point (a) of the second subparagraph of this paragraph be extended by a period of up to six months, except with regard to cases under Article 4(7) of this Regulation or under Article 59(1), point (c), or Article 62(1), point (f), of Directive (EU) 2019/944 or Article 78(1), point (f), of Directive (EU) 2024/1788.
+
+Where the competences to decide on cross-border issues referred to in the first subparagraph of this paragraph have been conferred on the regulatory authorities in new network codes or guidelines referred to in Articles 59 to 61 of Regulation (EU) 2019/943 adopted as delegated acts after 4 July 2019, ACER shall only be competent on a voluntary basis pursuant to point (b) of the second subparagraph of this paragraph, upon a request from at least 60 % of the competent regulatory authorities. Where only two regulatory authorities are involved, either one may refer the case to ACER.
+
+By 31 October 2023, and every three years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the possible need to further enhance ACER's involvement in solving cases of disagreement between regulatory authorities concerning joint decisions on matters for which the competences were conferred on those regulatory authorities by a delegated act after 4 July 2019. Where appropriate, the report shall be accompanied by a legislative proposal to modify such powers or to transfer the necessary powers to ACER.
+
+11\. When preparing its decision pursuant to paragraph 10, ACER shall consult the regulatory authorities and transmission system operators concerned and shall be informed of the proposals and observations of all the transmission system operators concerned.
+
+12\. Where a case has been referred to ACER under paragraph 10, ACER:
+
+(a) shall issue a decision within six months of the date of referral, or within four months thereof with regard to cases pursuant to Article 4(7) of this Regulation or Article (59)(1), point (c), or Article 62(1), point (f), of Directive (EU) 2019/944 or Article 78(1), point (f), of Directive (EU) 2024/1788; and
+
+(b) may, if necessary, provide an interim decision to ensure that security of supply or operational security is protected.
+
+13\. Where the regulatory issues referred to in paragraph 10 include exemptions within the meaning of Article 63 of Regulation (EU) 2019/943, or Article 36 of Directive 2009/73/EC, the deadlines provided for in this Regulation shall not be cumulative with the deadlines provided for in those provisions.
+
+### Article 7 — Tasks of ACER as regards regional coordination centres
+
+1\. ACER, in close cooperation with the regulatory authorities and the ENTSO for Electricity, shall monitor and analyse the performance of regional coordination centres, taking into account the reports provided for in Article 46(3) of Regulation (EU) 2019/943.
+
+2\. To carry out the tasks referred to in paragraph 1 in an efficient and expeditious manner, ACER shall in particular:
+
+(a) decide on the configuration of system operation regions pursuant to Article 36(3) and (4) and issue approvals pursuant to Article 37(2) of Regulation (EU) 2019/943;
+
+(b) request information from regional coordination centres where appropriate pursuant to Article 46 of Regulation (EU) 2019/943;
+
+(c) issue opinions and recommendations to the European Parliament, the Council and the Commission;
+
+(d) issue opinions and recommendations to regional coordination centres.
+
+### Article 8 — Tasks of ACER as regards nominated electricity market operators
+
+In order to ensure that nominated electricity market operators carry out their functions under the Regulation (EU) 2019/943 and Commission Regulation (EU) 2015/1222 ( 7 ), ACER shall:
+
+(a) monitor the nominated electricity market operators' progress in establishing the functions under Regulation (EU) 2015/1222;
+
+(b) issue recommendations to the Commission in accordance with Article 7(5) of Regulation (EU) 2015/1222;
+
+(c) request information from nominated electricity market operators where appropriate.
+
+### Article 9 — Tasks of ACER as regards generation adequacy and risk preparedness
+
+1\. ACER shall approve and amend where necessary:
+
+(a) the proposals for methodologies and calculations related to the European resource adequacy assessment pursuant to Article 23(3), (4), (6) and (7) of Regulation (EU) 2019/943;
+
+(b) the proposals for technical specifications for cross-border participation in capacity mechanisms pursuant to Article 26(11) of Regulation (EU) 2019/943.
+
+2\. ACER shall provide an opinion pursuant to Article 24(3) of Regulation (EU) 2019/941 on whether the differences between the national resource adequacy assessment and the European resource adequacy assessment are justified.
+
+3\. ACER shall approve and amend where necessary the methodologies for:
+
+(a) identifying electricity crisis scenarios at a regional level pursuant to Article 5 of Regulation (EU) 2019/941;
+
+(b) short-term and seasonal adequacy assessments pursuant to Article 8 of Regulation (EU) 2019/941.
+
+4\. With respect to the security of gas supply, ACER shall be represented in the Gas Coordination Group in accordance with Article 4 of Regulation (EU) 2017/1938, and shall carry out its obligations regarding permanent bi-directional capacity of interconnections for gas under Annex III to Regulation (EU) 2017/1938.
+
+### Article 10 — Tasks of ACER as regards exemptions
+
+ACER shall decide on exemptions, as provided for in Article 63(5) of Regulation (EU) 2019/943 ACER shall also decide on exemptions as provided for in Article 36(4) of Directive 2009/73/EC where the infrastructure concerned is located in the territory of more than one Member State.
+
+### Article 11 — Tasks of ACER as regards infrastructure
+
+With respect to trans-European energy infrastructure, ACER, in close cooperation with the regulatory authorities and the ENTSO for Electricity and the ENTSO for Gas, shall:
+
+(a) monitor progress as regards the implementation of projects to create new interconnector capacity;
+
+(b) monitor the implementation of the Union-wide network-development plans. If ACER identifies inconsistencies between those plans and their implementation, it shall investigate the reasons for those inconsistencies and make recommendations to the transmission system operators, regulatory authorities or other competent bodies concerned with a view to implementing the investments in accordance with the Union-wide network-development plans;
+
+(c) carry out the obligations laid out in Article 5, Article 11(3), Article 11(6) to (9), Articles 12, 13 and 17 and in Section 2, point (12), of Annex III to Regulation (EU) 2022/869 of the European Parliament and the Council ( 8 );
+
+(d) take decisions on investment requests including cross-border cost allocation pursuant to Article 16(7) of Regulation (EU) 2022/869.
+
+### Article 12 — Tasks of ACER as regards wholesale market integrity and transparency
+
+In order to effectively monitor wholesale market integrity and transparency, ACER, in close cooperation with the regulatory authorities and other national authorities, shall:
+
+(a) monitor wholesale markets, collect and share data and establish a European register of market participants in accordance with Articles 7 to 12 of Regulation (EU) No 1227/2011;
+
+(b) issue recommendations to the Commission in accordance with Article 7 of Regulation (EU) No 1227/2011;
+
+(c) pursue and coordinate investigations pursuant to Articles 13 to 13c and Article 16 of Regulation (EU) No 1227/2011;
+
+(d) authorise and supervise inside information platforms and registered reporting mechanisms pursuant to Articles 4a and 9a of Regulation (EU) No 1227/2011;
+
+(e) have the power to impose periodic penalty payments in the cases referred to in Article 13g of Regulation (EU) No 1227/2011.
+
+### Article 13 — Commissioning of new tasks to ACER
+
+ACER may, in circumstances clearly defined by the Commission in network codes adopted pursuant to Article 59 of Regulation (EU) 2019/943 and guidelines adopted pursuant to Article 61 of that Regulation or Article 23 of Regulation (EC) No 715/2009 and on issues related to the purpose for which it has been established, be commissioned with additional tasks which do not involve decision-making powers.
+
+### Article 14 — Consultations, transparency and procedural safeguards
+
+1\. In carrying out its tasks, in particular in the process of developing framework guidelines in accordance with Article 59 of Regulation (EU) 2019/943 or Articles 71 and 72 of Regulation (EU) 2024/1789, and in the process of proposing amendments of network codes under Article 60 of Regulation (EU) 2019/943 or Article 73 of Regulation (EU) 2024/1789. ACER shall, extensively consult at an early stage market participants, transmission system operators, hydrogen transmission network operators, consumers, end-users and, where relevant, competition authorities, without prejudice to their respective competence, in an open and transparent manner, in particular when its tasks concern transmission system operators and hydrogen transmission network operators.
+
+2\. ACER shall ensure that the public and any interested parties are, where appropriate, given objective, reliable and easily accessible information, in particular with regard to the results of its work.
+
+All documents and minutes of consultation meetings conducted during the development of framework guidelines in accordance with Article 59 of Regulation (EU) 2019/943 or Article 6 of Regulation (EC) No 715/2009, or during the amendment of network codes referred to in paragraph 1 shall be made public.
+
+3\. Before adopting framework guidelines, or proposing amendments to network codes as referred to in paragraph 1, ACER shall indicate how the observations received during the consultation have been taken into account and shall provide reasons where those observations have not been followed.
+
+4\. ACER shall make public, on its own website, at least the agenda, the background documents and, where appropriate, the minutes of the meetings of the Administrative Board, of the Board of Regulators and of the Board of Appeal.
+
+5\. ACER shall adopt and publish adequate and proportionate rules of procedure in accordance with the procedure set out in point (t) of Article 19(1). Those rules shall include provisions which ensure a transparent and reasonable decision-making process guaranteeing fundamental procedural rights based on the rule of law, including the right to be heard, rules on access to files and the standards specified in paragraphs 6, 7 and 8.
+
+6\. Before taking any individual decision as provided for in this Regulation, ACER shall inform any party concerned of its intention to adopt that decision, and shall set a time limit within which the party concerned may express its views on the matter, taking full account of the urgency, complexity and potential consequences of the matter.
+
+7\. Individual decisions of ACER shall state the reasons on which they are based for the purpose of allowing an appeal on the merits.
+
+8\. The parties concerned by individual decisions shall be informed of the legal remedies available under this Regulation.
+
+### Article 15 — Monitoring and reporting on the electricity and natural gas sectors
+
+1\. ACER, in close cooperation with the Commission, the Member States and the relevant national authorities, including the regulatory authorities, and without prejudice to the competences of competition authorities, shall monitor the wholesale and retail markets in electricity and natural gas, in particular the levels and the formation of retail and wholesale prices, in order to facilitate that relevant authorities can identify possible anti-competitive, unfair or untransparent behaviour by market operators, and with regard to compliance with the consumer rights laid down in Directive (EU) 2019/944 and Directive (EU) 2024/1788, the impact of market developments on household customers, access to the networks including access of electricity produced from renewable energy sources, the progress made with regard to interconnectors, potential barriers to cross-border trade, including the impact of blending hydrogen into the natural gas system and barriers to the cross-border flow of biomethane, regulatory barriers for new entrants on the market and smaller market participants, including citizen energy communities and renewable energy communities, State interventions preventing prices from reflecting actual scarcity, such as those set out in Article 10(4) of Regulation (EU) 2019/943, the performance of the Member States in the area of security of supply of electricity on the basis of the results of the European resource adequacy assessment as referred to in Article 23 of that Regulation, taking into account, in particular, the ex post evaluation referred to in Article 17 of Regulation (EU) 2019/941.
+
+ACER, in close cooperation with the Commission, the Member States and the relevant national authorities, including the regulatory authorities, and without prejudice to the competences of competition authorities, shall monitor the hydrogen markets, in particular the impact of market developments on hydrogen customers, access to the hydrogen network, including access to the network of hydrogen produced from renewable energy sources, the progress made with regard to interconnectors and potential barriers to cross-border trade.
+
+2\. ACER shall publish annually a report on the results of the monitoring referred to in paragraph 1. In that report, it shall identify any barriers to the completion of the internal markets for electricity, natural gas and hydrogen.
+
+3\. When publishing its annual report, ACER may submit to the European Parliament and to the Commission an opinion on the possible measures to remove the barriers referred to in paragraph 2.
+
+4\. ACER shall issue a best practices report on transmission and distribution tariffs methodologies pursuant to Article 18(9) of Regulation (EU) 2019/943.
+
+ACER shall issue a report on the impact of using peak-shaving products on the Union electricity market during a crisis following the assessment pursuant to Article 7a(7) of Regulation (EU) 2019/943 and a report on the impact of developing peak-shaving products on the Union electricity market under normal market circumstances following the assessment pursuant to Article 7a(8) of that Regulation.
+
+5\. ACER shall issue a report pursuant to Article 19e(7) of Regulation (EU) 2019/943 analysing the national reports on the estimated flexibility needs and providing recommendations on issues of cross-border relevance regarding the findings of the regulatory authority or another authority or entity designated by a Member State.
+
+6\. ACER shall publish studies comparing the efficiency of Union transmission system operators’ costs pursuant to Article 19(2) of Regulation (EU) 2024/1789.
+
+7\. ACER shall submit opinions providing a harmonised format for the publication of technical information on access to hydrogen transmission networks and publish a monitoring report on congestion at interconnection points pursuant to the guidelines laid down in Annex I to Regulation (EU) 2024/1789.
+
+8\. Every 3 years, ACER, after consulting Member States, shall establish and make publicly available a set of indicators and corresponding reference values for the comparison of unit investment costs linked to measurement, quantification, monitoring, reporting, verification and reduction, including venting and flaring, of methane emissions for comparable projects. It shall issue recommendations on indicators and reference values for unit investment costs for the purposes of complying with the obligations under Regulation (EU) 2024/1787 of the European Parliament and of the Council ( 9 ) as provided in Article 3 of that Regulation.
+
+## Chapter II — Organisation of ACER
+
+### Article 16 — Legal status
+
+1\. ACER shall be a Union body with legal personality.
+
+2\. In each Member State, ACER shall enjoy the most extensive legal capacity accorded to legal persons under national law. It shall, in particular, be able to acquire or dispose of movable and immovable property and be a party to legal proceedings.
+
+3\. ACER shall be represented by its Director.
+
+4\. The seat of ACER shall be Ljubljana, Slovenia.
+
+### Article 17 — Administrative and Management Structure
+
+ACER shall be composed of:
+
+(a) an Administrative Board, which shall exercise the tasks set out in Article 19;
+
+(b) a Board of Regulators, which shall exercise the tasks set out in Article 22;
+
+(c) a Director, who shall exercise the tasks set out in Article 24; and
+
+(d) a Board of Appeal, which shall exercise the tasks set out in Article 28.
+
+### Article 18 — Composition of the Administrative Board
+
+1\. The Administrative Board shall be composed of nine members. Each member shall have an alternate. Two members and their alternates shall be appointed by the Commission, two members and their alternates shall be appointed by the European Parliament and five members and their alternates shall be appointed by the Council. No Member of the European Parliament shall be a member of the Administrative Board. A member of the Administrative Board shall not be a member of the Board of Regulators.
+
+2\. The term of office of the members of the Administrative Board and their alternates shall be four years, renewable once. For the first mandate, the term of office of half of the members of the Administrative Board and their alternates shall be six years.
+
+3\. The Administrative Board shall elect its Chair and its Vice-Chair from among its members by a two-thirds majority. The Vice-Chair shall automatically replace the Chair if the latter is not in a position to perform his or her duties. The term of office of the Chair and of the Vice-Chair shall be two years, renewable once. The term of office of the Chair and that of the Vice-Chair shall expire when they cease to be members of the Administrative Board.
+
+4\. The meetings of the Administrative Board shall be convened by its Chair. The Chair of the Board of Regulators or the nominee of the Board of Regulators, and the Director shall participate, without the right to vote, in the deliberations unless the Administrative Board decides otherwise as regards the Director. The Administrative Board shall meet at least twice a year in ordinary session. It shall also meet at the initiative of its Chair, at the request of the Commission or at the request of at least a third of its members. The Administrative Board may invite any person who may have a relevant opinion to attend its meetings in the capacity of an observer. The members of the Administrative Board may, subject to its rules of procedure, be assisted by advisers or experts. The Administrative Board's secretarial services shall be provided by ACER.
+
+5\. Decisions of the Administrative Board shall be adopted on the basis of a two-thirds majority of the members present, unless provided otherwise in this Regulation. Each member of the Administrative Board or alternate shall have one vote.
+
+6\. The rules of procedure shall set out in greater detail:
+
+(a) the arrangements governing voting, in particular the conditions on the basis of which one member may act on behalf of another and also, where appropriate, the rules governing quorums; and
+
+(b) the arrangements governing the rotation applicable to the renewal of the members of the Administrative Board who are appointed by the Council so as to ensure a balanced participation of Member States over time.
+
+7\. Without prejudice to the role of the members appointed by the Commission, the members of the Administrative Board shall undertake to act independently and objectively in the interest of the Union as a whole, and shall neither seek nor follow instructions from Union institutions, bodies, offices or agencies, from any government of a Member State or from any other public or private body. For that purpose, each member shall make a written declaration of commitments and a written declaration of interests, indicating either the absence of any interest which might be considered to be prejudicial to his or her independence or any direct or indirect interest which might be considered prejudicial to his or her independence. ACER shall make those declarations public on an annual basis.
+
+### Article 19 — Functions of the Administrative Board
+
+1\. The Administrative Board shall:
+
+(a) after consulting the Board of Regulators and obtaining its favourable opinion in accordance with point (c) of Article 22(5), appoint the Director in accordance with Article 23(2) and where relevant extend his or her term of office or remove him or her from office;
+
+(b) formally appoint the members of the Board of Regulators nominated in accordance with Article 21(1);
+
+(c) formally appoint the members of the Board of Appeal in accordance with Article 25(2);
+
+(d) ensure that ACER carries out its mission and performs the tasks assigned to it in accordance with this Regulation;
+
+(e) adopt the programming document referred to in Article 20(1) by a two-thirds majority of its members and, if applicable, amend it in accordance with Article 20(3);
+
+(f) adopt the annual budget of ACER and exercise its other budgetary functions in accordance with Articles 31 to 35;
+
+(g) decide, after obtaining the agreement of the Commission, whether to accept any legacies, donations or grants from other Union sources or any voluntary contribution from the Member States or from the regulatory authorities. The opinion of the Administrative Board delivered pursuant to Article 35(4) shall address the sources of funding set out in this paragraph;
+
+(h) after consulting the Board of Regulators, exercise disciplinary authority over the Director. In addition, in accordance with paragraph 2, it shall exercise, with respect to the staff of ACER, the powers conferred by the Staff Regulations on the Appointing Authority and by the Conditions of Employment on the Authority Empowered to conclude a Contract of Employment;
+
+(i) draw up ACER's implementing rules for giving effect to the Staff Regulations and the Conditions of Employment in accordance with Article 110 of the Staff Regulations pursuant to Article 39(2);
+
+(j) adopt practical measures regarding the right of access to ACER's documents, in accordance with Article 41;
+
+(k) adopt and publish the annual report on ACER's activities, on the basis of the draft annual report referred to in point (i) of Article 24(1), and shall submit that report to the European Parliament, the Council, the Commission, and the Court of Auditors by 1 July of each year. The annual report on ACER's activities shall contain an independent section, approved by the Board of Regulators, concerning ACER's regulatory activities during that year;
+
+(l) adopt and publish its own rules of procedure;
+
+(m) adopt the financial rules applicable to ACER in accordance with Article 36;
+
+(n) adopt an anti-fraud strategy, proportionate to the risk of fraud, taking into account the costs and benefits of the measures to be implemented;
+
+(o) adopt rules for the prevention and management of conflicts of interest in respect of its members as well as members of the Board of Appeal;
+
+(p) adopt and regularly update the communication and dissemination plans referred to in Article 41;
+
+(q) appoint an Accounting Officer, subject to the Staff Regulations and the Conditions of Employment, who shall be totally independent in the performance of his or her duties;
+
+(r) ensure appropriate follow-up to findings and recommendations stemming from the internal or external audit reports and evaluations, as well as from investigations of the European Anti-Fraud Office (OLAF);
+
+(s) authorise the conclusion of working arrangements in accordance with Article 43;
+
+(t) on the basis of a proposal from the Director in accordance with point (b) of Article 24(1), and after consulting the Board of Regulators and obtaining its favourable opinion in accordance with point (f) of Article 22(5), adopt and publish the rules of procedure referred to in Article 14(5).
+
+2\. The Administrative Board shall adopt, in accordance with Article 110 of the Staff Regulations, a decision based on Article 2(1) of the Staff Regulations and on Article 6 of the Conditions of Employment, delegating relevant appointing authority powers to the Director and defining the conditions under which that delegation of powers can be suspended. The Director shall be authorised to sub-delegate those powers.
+
+3\. Where exceptional circumstances so require, the Administrative Board may by way of a decision temporarily suspend the delegation of the appointing authority powers to the Director and those sub-delegated by the latter and in favour of itself or delegate them to one of its members or to a staff member other than the Director. The exceptional circumstances shall be strictly limited to administrative, budgetary or managerial matters, without prejudice to the Director's full independence concerning his or her tasks pursuant to point (c) of Article 24(1).
+
+### Article 20 — Annual and multi-annual programming
+
+1\. Each year, the Director shall prepare a draft programming document containing annual and multi-annual programming, and shall submit the draft programming document to the Administrative Board and to the Board of Regulators.
+
+The Administrative Board shall adopt the draft programming document after receipt of a favourable opinion of the Board of Regulators, and shall submit the draft programming document to the European Parliament, to the Council and to the Commission no later than 31 January.
+
+The draft programming document shall be in accordance with the provisional draft estimate established in accordance with Article 33(1), (2) and (3).
+
+The Administrative Board shall adopt the programming document, taking into account the opinion of the Commission, after receipt of a favourable opinion from the Board of Regulators, and after the Director has presented it to the European Parliament. The Administrative Board shall submit the programming document to the European Parliament, the Council and the Commission by 31 December.
+
+The programming document shall be adopted without prejudice to the annual budgetary procedure and shall be made public.
+
+The programming document shall become definitive after the final adoption of the general budget and, if necessary, shall be adjusted accordingly.
+
+2\. The annual programming in the programming document shall comprise detailed objectives and expected results, including performance indicators. It shall also contain a description of the actions to be financed and an indication of the financial and human resources allocated to each action, including a reference to ACER's working groups tasked with contributing to the drafting of the respective documents, in accordance with the principles of activity-based budgeting and management. The annual programming shall be coherent with the multi-annual programming referred to in paragraph 4. It shall clearly indicate the tasks that have been added, changed or deleted in comparison with the previous financial year.
+
+3\. The Administrative Board shall amend the adopted programming document where a new task is assigned to ACER.
+
+Any substantial amendment to the programming document shall be adopted by the same procedure set out for the initial programming document. The Administrative Board may delegate the power to make non-substantial amendments to the programming document to the Director.
+
+4\. The multi-annual programming in the programming document shall set out the overall strategic programming, including objectives, expected results and performance indicators. It shall also set out resource programming, including the multi-annual budget and staff.
+
+The resource programming shall be updated annually. The strategic programming shall be updated where appropriate, in particular to address the outcome of the evaluation referred to in Article 45.
+
+### Article 21 — Composition of the Board of Regulators
+
+1\. The Board of Regulators shall be composed of:
+
+(a) senior representatives of the regulatory authorities, in accordance with Article 57(1) of Directive (EU) 2019/944 and Article 39(1) of Directive 2009/73/EC, and one alternate per Member State from the current senior staff of those authorities, both nominated by the regulatory authority;
+
+(b) one non-voting representative of the Commission.
+
+Only one representative per Member State from the regulatory authority may be admitted to the Board of Regulators.
+
+2\. The Board of Regulators shall elect a Chair and a Vice-Chair from among its members. The Vice-Chair shall replace the Chair if the latter is not in a position to perform his or her duties. The term of office of the Chair and of the Vice-Chair shall be two-and-a-half years and shall be renewable. In any event, however, the term of office of the Chair and that of the Vice-Chair shall expire when they cease to be members of the Board of Regulators.
+
+### Article 22 — Functions of the Board of Regulators
+
+1\. The Board of Regulators shall act by a two-thirds majority of the members present, with one vote for each member.
+
+2\. The Board of Regulators shall adopt and publish its rules of procedure, which shall set out in greater detail the arrangements governing voting, in particular the conditions on the basis of which one member may act on behalf of another and also, where appropriate, the rules governing quorums. The rules of procedure may provide for specific working methods for the consideration of issues arising in the context of regional cooperation initiatives.
+
+3\. When carrying out the tasks conferred upon it by this Regulation and without prejudice to its members acting on behalf of their respective regulatory authority, the Board of Regulators shall act independently and shall not seek or follow instructions from any government of a Member State, from the Commission, or from another public or private entity.
+
+4\. The secretarial services of the Board of Regulators shall be provided by ACER.
+
+5\. The Board of Regulators shall:
+
+(a) provide opinions and, where appropriate, comments on and amendments to the text of the Director's proposals for draft opinions, recommendations and decisions referred to in Article 3(1), Articles 4 to 8, Article 9(1) and (3), Article 10, point (c) of Article 11, Article 13, Article 15(4), and Articles 30 and 43 which are considered for adoption;
+
+(b) within its field of competence, provide guidance to the Director in the execution of his or her tasks, with the exception of ACER's tasks under Regulation (EU) No 1227/2011 and provide guidance to ACER's working groups established pursuant to Article 30;
+
+(c) provide an opinion to the Administrative Board on the candidate to be appointed as Director in accordance with point (a) of Article 19(1) and Article 23(2);
+
+(d) approve the programming document in accordance with Article 20(1);
+
+(e) approve the independent section on regulatory activities of the annual report, in accordance with point (k) of Article 19(1) and point (i) of Article 24(1);
+
+(f) provide an opinion to the Administrative Board on the rules of procedure under Article 14(5) and Article 30(3);
+
+(g) provide an opinion to the Administrative Board on the communication and dissemination plans referred to in Article 41;
+
+(h) provide an opinion to the Administrative Board on the rules of procedure for relations with third countries or international organisations referred to in Article 43.
+
+6\. The European Parliament shall be informed of the draft agenda of upcoming meetings of the Board of Regulators at least two weeks in advance. Within two weeks of those meetings, the draft minutes shall be sent to the European Parliament. The European Parliament may invite, while fully respecting his or her independence, the Chair of the Board of Regulators or the Vice-Chair to make a statement before its competent committee and answer questions put by the members of that committee.
+
+### Article 23 — Director
+
+1\. ACER shall be managed by its Director, who shall act in accordance with the guidance referred to in point (b) of Article 22(5) and, where provided for in this Regulation, the opinions of the Board of Regulators. Without prejudice to the respective roles of the Administrative Board and the Board of Regulators in relation to the tasks of the Director, the Director shall neither seek nor follow any instruction from any government, from the Union institutions, or from any other public or private entity or person. The Director shall be accountable to the Administrative Board with respect to administrative, budgetary and managerial matters, but remain fully independent concerning his or her tasks under point (c) of Article 24(1). The Director may attend the meetings of the Board of Regulators as an observer.
+
+2\. The Director shall be appointed by the Administrative Board following a favourable opinion of the Board of Regulators, on the basis of merit as well as skills and experience relevant to the energy sector, from a list of at least three candidates proposed by the Commission, following an open and transparent selection procedure. Before appointment, the candidate selected by the Administrative Board shall make a statement before the competent committee of the European Parliament and answer questions put by its members. For the purpose of concluding the contract with the Director, ACER shall be represented by the Chair of the Administrative Board.
+
+3\. The Director's term of office shall be five years. In the course of the nine months preceding the end of that period, the Commission shall undertake an assessment. In the assessment, the Commission shall examine in particular:
+
+(a) the performance of the Director;
+
+(b) ACER's duties and requirements in the following years.
+
+4\. The Administrative Board, acting on a proposal from the Commission, after consulting the Board of Regulators and giving the utmost consideration to the assessment and opinion of the Board of Regulators, and only where justified on the basis of the duties and requirements of ACER, may extend the term of office of the Director once by no more than five years. A Director whose term of office has been extended shall not participate in another selection procedure for the same post at the end of the extended period.
+
+5\. The Administrative Board shall inform the European Parliament of its intention to extend the Director's term of office. Within one month before the extension of his or her term of office, the Director may be invited to make a statement before the competent committee of the European Parliament and to answer questions put by the members of that committee.
+
+6\. If his or her term of office is not extended, the Director shall remain in office until the appointment of his or her successor.
+
+7\. The Director may be removed from office only upon a decision of the Administrative Board, after having obtained a favourable opinion of the Board of Regulators. The Administrative Board shall reach that decision on the basis of a two-thirds majority of its members.
+
+8\. The European Parliament and the Council may call upon the Director to submit a report on the performance of his or her duties. The European Parliament may also invite the Director to make a statement before its competent committee and answer questions put by the members of that committee.
+
+### Article 24 — Tasks of the Director
+
+1\. The Director shall:
+
+(a) be the legal representative of ACER and shall be in charge of its day-to-day management;
+
+(b) prepare the work of the Administrative Board, participate, without having the right to vote, in the work of the Administrative Board and have responsibility for implementing the decisions adopted by the Administrative Board;
+
+(c) draft, consult upon, adopt and publish opinions, recommendations and decisions;
+
+(d) be responsible for implementing ACER's annual work programme under the guidance of the Board of Regulators and under the administrative control of the Administrative Board;
+
+(e) take the necessary measures, in particular as regards adopting internal administrative instructions and publishing notices, to ensure the functioning of ACER in accordance with this Regulation;
+
+(f) each year, prepare ACER's draft work programme for the following year, and shall, after the adoption of the draft by the Administrative Board submit it to the Board of Regulators, to the European Parliament and to the Commission by 31 January every year;
+
+(g) be responsible for implementing the programming document and reporting to the Administrative Board on its implementation;
+
+(h) draw up a provisional draft estimate of ACER pursuant to Article 33(1) and implement ACER's budget in accordance with Articles 34 and 35;
+
+(i) each year, prepare and submit to the Administrative Board a draft annual report including an independent section on ACER's regulatory activities and a section on financial and administrative matters;
+
+(j) prepare an action plan following up on the conclusions of internal or external audit reports and evaluations, as well as on investigations by OLAF, and report on progress twice a year to the Commission and report regularly on progress to the Administrative Board;
+
+(k) be responsible for deciding whether, for the purpose of carrying out ACER's tasks in an efficient and effective manner, it is necessary to locate one or more members of staff in one or more Member States.
+
+For the purpose of point (k) of the first subparagraph, before deciding to establish a local office the Director shall seek the opinion of the Member States concerned, including the Member State in which ACER's seat is located, and shall obtain the prior consent of the Commission and the Administrative Board. The decision shall be based on an appropriate cost-benefit analysis and shall specify the scope of the activities to be carried out at that local office in a manner that avoids unnecessary costs and duplication of ACER's administrative functions.
+
+2\. For the purposes of point (c) of paragraph 1 of this Article, opinions, recommendations and decisions referred to in Article 3(1), Articles 4 to 8, Article 9(1) and (3), Article 10, point (c) of Article 11, Article 13, Article 15(4), and Articles 30 and 43 shall be adopted only after having obtained the favourable opinion of the Board of Regulators.
+
+Before submitting draft opinions, recommendations or decisions to a vote by the Board of Regulators, the Director shall submit proposals for the draft opinions, recommendations or decisions to the relevant working group for consultation sufficiently in advance.
+
+The Director:
+
+(a) shall take the comments and amendments of the Board of Regulators into account and shall resubmit the revised draft opinion, recommendation or decision to the Board of Regulators for a favourable opinion;
+
+(b) may withdraw submitted draft opinions, recommendations or decisions provided that the Director submits a duly justified written explanation where the Director disagrees with the amendments submitted by the Board of Regulators;
+
+In the case of a withdrawal of a draft opinion, recommendation or decision, the Director may issue a new draft opinion, recommendation or decision following the procedure set out in point (a) of Article 22(5) and in the second subparagraph of this paragraph. For the purposes of point (a) of the third subparagraph of this paragraph, where the Director deviates from or rejects the comments and amendments received from the Board of Regulators, the Director shall also provide a duly justified written explanation.
+
+If the Board of Regulators does not give a favourable opinion on the resubmitted text of the draft opinion, recommendation or decision because its comments and amendments were not adequately reflected in the resubmitted text, the Director may revise the text of the draft opinion, recommendation or decision further in accordance with the amendments and comments proposed by the Board of Regulators in order to obtain its favourable opinion, without having to consult the relevant working group again or having to provide additional written reasons.
+
+### Article 25 — Creation and composition of the Board of Appeal
+
+1\. ACER shall establish a Board of Appeal.
+
+2\. The Board of Appeal shall be composed of six members and six alternates selected from among current or former senior staff of the regulatory authorities, competition authorities or other Union or national institutions with relevant experience in the energy sector. The Board of Appeal shall designate its Chair.
+
+The members of the Board of Appeal shall be formally appointed by the Administrative Board, on a proposal from the Commission, following a public call for expression of interest, and after consulting the Board of Regulators.
+
+3\. The Board of Appeal shall adopt and publish its rules of procedure. Those rules shall set out in detail the arrangements governing the organisation and functioning of the Board of Appeal and the rules applicable to appeals before the Board, pursuant to Article 28. The Board of Appeal shall notify the Commission of its draft rules of procedure as well as any significant change to those rules. The Commission may provide an opinion on those rules within three months of the date of receipt of the notification.
+
+ACER's budget shall comprise a separate budget line for the financing of the registry of the Board of Appeal.
+
+4\. The decisions of the Board of Appeal shall be adopted on the basis of a majority of at least four of its six members. The Board of Appeal shall be convened when necessary.
+
+### Article 26 — Members of the Board of Appeal
+
+1\. The term of office of the members of the Board of Appeal shall be five years. That term shall be renewable once.
+
+2\. The members of the Board of Appeal shall be independent in making their decisions. They shall not be bound by any instructions. They shall not perform any other duties in ACER, in its Administrative Board, in its Board of Regulators or in any of its working groups. A member of the Board of Appeal shall not be removed during his or her term of office, unless he or she has been found guilty of serious misconduct, and the Administrative Board, after consulting the Board of Regulators, takes a decision to that effect.
+
+### Article 27 — Exclusion and objection in the Board of Appeal
+
+1\. Members of the Board of Appeal shall not take part in any appeal proceedings if they have any personal interest therein, if they have previously been involved as representatives of one of the parties to the proceedings, or if they participated in the decision under appeal.
+
+2\. A member of the Board of Appeal shall inform the Board in the event that, for one of the reasons referred to in paragraph 1 or for any other reason, he or she considers that a fellow member should not take part in any appeal proceedings. Any party to the appeal proceedings may object to the participation of a member of the Board of Appeal on any of the grounds referred to in paragraph 1, or in the case of suspected bias. Such an objection shall be inadmissible if it is based on the nationality of a member or if, while being aware of a reason for objecting, the objecting party to the appeal proceedings has taken a procedural step in the appeal proceedings other than objecting to the composition of the Board of Appeal.
+
+3\. The Board of Appeal shall decide on the action to be taken in the cases specified in paragraphs 1 and 2 without the participation of the member concerned. For the purpose of taking that decision, the member concerned shall be replaced on the Board of Appeal by his or her alternate. If the alternate finds him or herself in a similar situation to that of the member, the Chair shall designate a replacement from among the available alternates.
+
+4\. The members of the Board of Appeal shall undertake to act independently and in the public interest. For that purpose, they shall make a written declaration of commitments and a written declaration of interests indicating either the absence of any interest which might be considered prejudicial to their independence or indicating any direct or indirect interest which might be considered prejudicial to their independence. Those declarations shall be made public annually.
+
+### Article 28 — Decisions subject to appeal
+
+1\. Any natural or legal person, including the regulatory authorities, may appeal against a decision referred to in point (d) of Article 2 which is addressed to that person, or against a decision which, although in the form of a decision addressed to another person, is of direct and individual concern to that person.
+
+2\. The appeal shall include a statement of the grounds for appeal and shall be filed in writing at ACER within two months of the notification of the decision to the person concerned, or, in the absence thereof, within two months of the date on which ACER published its decision. The Board of Appeal shall decide upon the appeal within four months of the lodging of the appeal.
+
+3\. An appeal lodged pursuant to paragraph 1 shall not have suspensory effect. The Board of Appeal may, however, if it considers that circumstances so require, suspend the application of the contested decision.
+
+4\. If the appeal is admissible, the Board of Appeal shall examine whether it is well-founded. It shall invite the parties to the appeal proceedings as often as necessary to file observations on notifications issued by itself or on communications from the other parties to the appeal proceedings, within specified time limits. Parties to the appeal proceedings shall be entitled to make an oral presentation.
+
+5\. The Board of Appeal may confirm the decision, or it may remit the case to the competent body of ACER. The latter shall be bound by the decision of the Board of Appeal.
+
+6\. ACER shall publish the decisions taken by the Board of Appeal.
+
+### Article 29 — Actions before the Court of Justice
+
+Actions for the annulment of a decision issued by ACER pursuant to this Regulation and actions for failure to act within the applicable time limits may be brought before the Court of Justice only after the exhaustion of the appeal procedure referred to in Article 28. ACER shall take the necessary measures to comply with the judgments of the Court of Justice.
+
+### Article 30 — Working groups
+
+1\. Where justified, and in particular to support the work of the Director and of the Board of Regulators on regulatory issues and for the purpose of preparing the opinions, recommendations and decisions referred to in Article 3(1), Articles 4 to 8, Article 9(1) and (3), Article 10, point (c) of Article 11, Article 13, Article 15(4), and Articles 30 and 43, the Administrative Board shall establish or remove working groups on the basis of a joint proposal from the Director and the Board of Regulators.
+
+The establishment and the removal of a working group shall require a favourable opinion of the Board of Regulators.
+
+2\. The working groups shall be composed of experts from among ACER's and the regulatory authorities' staff. Experts from the Commission may participate in working groups. ACER shall not be responsible for the costs of the participation of experts from the staff of regulatory authorities in ACER's working groups. Working groups shall take into consideration the views of experts from other relevant national authorities where those authorities are competent.
+
+3\. The Administrative Board shall adopt and publish internal rules of procedure for the functioning of the working groups on the basis of a proposal from the Director, after consulting the Board of Regulators and obtaining its favourable opinion.
+
+4\. ACER's working groups shall carry out the activities assigned to them in the programming document adopted pursuant to Article 20 and any activities under this Regulation assigned to them by the Board of Regulators and the Director.
+
+## Chapter III — Establishment and structure of the budget
+
+### Article 31 — Structure of the budget
+
+1\. Without prejudice to other resources the revenues of ACER shall be made up of:
+
+(a) a contribution from the Union;
+
+(b) fees paid to ACER pursuant to Article 32;
+
+(c) any voluntary contributions from the Member States or from the regulatory authorities, under point (g) of Article 19(1);
+
+(d) legacies, donations or grants under point (g) of Article 19(1).
+
+2\. ACER's expenditure shall include staff, administrative, infrastructure, and operational expenses.
+
+3\. ACER's revenue and expenditure shall be in balance.
+
+4\. All ACER's revenue and expenditure shall be the subject of forecasts for each financial year, coinciding with the calendar year, and shall be entered in its budget.
+
+5\. The revenue received by ACER shall not compromise its neutrality, independence or objectivity.
+
+### Article 32 — Fees
+
+1\. Fees shall be due to ACER for collecting, handling, processing and analysing of information reported by market participants, or by persons or entities reporting on their behalf, pursuant to Article 8 of Regulation (EU) No 1227/2011 and for disclosing inside information pursuant to Articles 4 and 4a of that Regulation. The fees shall be paid by registered reporting mechanisms and inside information platforms. Revenues from those fees may also cover the costs of ACER for exercising the supervision and investigatory powers pursuant to Articles 13 to 13c and Article 16 of Regulation (EU) No 1227/2011.
+
+2\. The fees referred to in paragraph 1, and the way in which they are to be paid, shall be set by the Commission after carrying out a public consultation and after consulting the Administrative Board and the Board of Regulators. The fees shall be proportionate to the costs of the relevant services as provided in a cost-effective way and shall be sufficient to cover those costs. Those fees shall be set at such a level as to ensure that they are non-discriminatory and that they avoid placing an undue financial or administrative burden on market participants or entities acting on their behalf.
+
+The Commission shall regularly examine the level of those fees on the basis of an evaluation and, if necessary, shall adapt the level of those fees and the way in which they are to be paid.
+
+### Article 33 — Establishment of the budget
+
+1\. Each year, the Director shall draw up a provisional draft estimate covering the operational expenditure and the programme of work anticipated for the following financial year, and shall submit that provisional draft estimate to the Administrative Board, together with a list of provisional posts.
+
+2\. The provisional draft estimate shall be based on the objectives and expected results of the programming document referred to in Article 20(1), and shall take into account the financial resources that are necessary to achieve those objectives and expected results.
+
+3\. Each year, the Administrative Board shall, on the basis of the provisional draft estimate prepared by the Director, adopt a provisional draft estimate of revenue and expenditure of ACER for the following financial year.
+
+4\. The provisional draft estimate, including a draft establishment plan, shall be transmitted by the Administrative Board to the Commission by 31 January each year. Prior to adoption of the estimate, the draft prepared by the Director shall be transmitted to the Board of Regulators, which may deliver a reasoned opinion on the draft.
+
+5\. The estimate referred to in paragraph 3 shall be transmitted by the Commission to the European Parliament and to the Council, together with the draft general budget of the Union.
+
+6\. On the basis of the draft estimate, the Commission shall enter into the draft general budget of the Union the estimates it considers necessary in respect of the establishment plan and the amount of the grant to be charged to the general budget of the Union in accordance with Articles 313 to 316 of the Treaty on the Functioning of the European Union (TFEU).
+
+7\. The Council in its role as budgetary authority shall adopt the establishment plan for ACER.
+
+8\. ACER's budget shall be adopted by the Administrative Board. It shall become final after the final adoption of the general budget of the Union. Where necessary, it shall be adjusted accordingly.
+
+9\. Any modification to the budget, including the establishment plan, shall follow the same procedure.
+
+10\. By 5 July 2020, the Commission shall assess whether the financial and human resources available to ACER allow it to fulfil its role under this Regulation of working towards an internal energy market and of contributing to energy security to the benefit of consumers in the Union.
+
+11\. The Administrative Board shall, without delay, notify the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of ACER's budget, in particular any project relating to property. The Administrative Board shall also inform the Commission of its intention. If either branch of the budgetary authority intends to issue an opinion, it shall, within two weeks of receipt of the information on the project, notify ACER of its intention thereof. In the absence of a reply, ACER may proceed with the planned project.
+
+### Article 34 — Implementation and control of the budget
+
+1\. The Director shall act as authorising officer and shall implement ACER's budget.
+
+2\. By 1 March following the completion of each financial year, ACER's accounting officer shall submit the provisional accounts, accompanied by the report on budgetary and financial management over the financial year to the Commission's accounting officer and to the Court of Auditors. ACER's accounting officer shall also submit the report on budgetary and financial management to the European Parliament and the Council by 31 March of the following year. The Commission's accounting officer shall then consolidate the provisional accounts of the institutions and decentralised bodies in accordance with Article 245 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 10 ) (‘the Financial Regulation’).
+
+### Article 35 — Presentation of accounts and discharge
+
+1\. ACER's accounting officer shall submit the provisional accounts for the financial year (year N) to the Commission's Accounting Officer and to the Court of Auditors by 1 March of the following financial year (year N + 1).
+
+2\. ACER shall submit a report on the budgetary and financial management for year N to the European Parliament, the Council, the Commission and the Court of Auditors by 31 March of year N + 1.
+
+By 31 March of year N + 1, the Commission's accounting officer shall submit the provisional accounts of ACER to the Court of Auditors. The Commission shall also submit the report on budgetary and financial management over the financial year to the European Parliament and to the Council.
+
+3\. After receipt of the observations of the Court of Auditors on ACER's provisional accounts for year N in accordance with the provisions of Article 246 of the Financial Regulation, the accounting officer, acting on his or her own responsibility, shall draw up ACER's final accounts for that year. The Director shall submit them to the Administrative Board for an opinion.
+
+4\. The Administrative Board shall deliver an opinion on ACER's final accounts for year N.
+
+5\. ACER's accounting officer shall submit the final accounts for year N, accompanied by the opinion of the Administrative Board, by 1 July of year N + 1, to the European Parliament, the Council, the Commission and the Court of Auditors.
+
+6\. The final accounts shall be published in the Official Journal of the European Union by 15 November of year N + 1.
+
+7\. The Director shall submit a reply to the Court of Auditors' observations by 30 September of year N + 1. The Director shall also submit a copy of that reply to the Administrative Board and the Commission.
+
+8\. The Director shall submit to the European Parliament, at the latter's request, any information necessary for the smooth application of the discharge procedure for year N in accordance with Article 109(3) of Delegated Regulation (EU) No 1271/2013.
+
+9\. The European Parliament, following a recommendation by the Council, acting by qualified majority, shall, before 15 May of the year N + 2, grant a discharge to the Director for the implementation of the budget for the financial year N.
+
+### Article 36 — Financial rules
+
+The financial rules applicable to ACER shall be adopted by the Administrative Board after consulting the Commission. Those rules may deviate from Delegated Regulation (EU) No 1271/2013 if the specific operational needs for the functioning of ACER so require and only with the prior agreement of the Commission.
+
+### Article 37 — Combating fraud
+
+1\. In order to facilitate the combating of fraud, corruption and other unlawful activities under Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council ( 11 ), ACER shall accede to the Interinstitutional Agreement of 25 May 1999 concerning internal investigations by OLAF ( 12 ) and shall adopt appropriate provisions applicable to the employees of ACER, using the template set out in the Annex to that Agreement.
+
+2\. The Court of Auditors shall have the power to carry out on-the-spot audits, as well as auditing on the basis of documents, with respect to the grant beneficiaries, contractors and subcontractors that have received Union funds from ACER.
+
+3\. OLAF may carry out investigations, including on-the-spot checks and inspections, with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant or a contract funded by ACER, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/96 ( 13 ).
+
+4\. Without prejudice to paragraphs 1, 2 and 3, cooperation agreements with third countries and international organisations, contracts, grant agreements and grant decisions of ACER shall contain provisions expressly empowering the Court of Auditors and OLAF to conduct the audits and investigations referred to in this Article, in accordance with their respective competences.
+
+## Chapter IV — General and final provisions
+
+### Article 38 — Privileges and immunities and Headquarters Agreement
+
+1\. Protocol No 7 on Privileges and Immunities of the European Union annexed to the TEU and to the TFEU shall apply to ACER and to its staff.
+
+2\. The necessary arrangements concerning the accommodation to be provided for ACER in the host Member State and the facilities to be made available by that Member State, together with the specific rules applicable in the host Member State to the Director, members of the Administrative Board, ACER's staff and members of their families, shall be laid down in a Headquarters Agreement between ACER and the Member State where the seat is located. That agreement shall be concluded after obtaining the approval of the Administrative Board.
+
+### Article 39 — Staff
+
+1\. The Staff Regulations and the Conditions of Employment and the rules adopted jointly by the Union institutions for the purpose of applying the Staff Regulations and the Conditions of Employment shall apply to ACER's staff, including its Director.
+
+2\. The Administrative Board, in agreement with the Commission, shall adopt appropriate implementing rules, in accordance with Article 110 of the Staff Regulations.
+
+3\. In respect of its staff, ACER shall exercise the powers conferred on the appointing authority by the Staff Regulations and on the authority entitled to conclude contracts by the Conditions of Employment.
+
+4\. The Administrative Board may adopt provisions to allow national experts from Member States to be employed on secondment at ACER.
+
+### Article 40 — Liability of ACER
+
+1\. The contractual liability of ACER shall be governed by the law applicable to the contract in question.
+
+Any arbitration clause contained in a contract concluded by ACER shall be subject to the jurisdiction of the Court of Justice.
+
+2\. In the case of non-contractual liability, ACER shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by it or by its staff in the performance of their duties.
+
+3\. The Court of Justice shall have jurisdiction in disputes over compensation for damages referred to in paragraph 2.
+
+4\. The personal financial liability and disciplinary liability of ACER's staff towards it shall be governed by the relevant provisions applying to ACER's staff.
+
+### Article 41 — Transparency and communication
+
+1\. Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 14 ) shall apply to documents held by ACER.
+
+2\. The Administrative Board shall adopt practical measures for applying Regulation (EC) No 1049/2001.
+
+3\. Decisions taken by ACER pursuant to Article 8 of Regulation (EC) No 1049/2001 may be the subject of a complaint to the Ombudsman or of proceedings before the Court of Justice, in accordance with the conditions laid down in Articles 228 and 263 TFEU.
+
+4\. The processing of personal data by ACER shall be subject to the Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 15 ). The Administrative Board shall establish measures for the application of Regulation (EU) 2018/1725 by ACER, including measures concerning the appointment of ACER's Data Protection Officer. Those measures shall be established after consulting the European Data Protection Supervisor.
+
+5\. ACER may engage in communication activities on its own initiative within its field of competence. The allocation of resources to communication activities shall not be detrimental to the effective exercise of the tasks referred to in Article 3 to 13. Communication activities shall be carried out in accordance with relevant communication and dissemination plans adopted by the Administrative Board.
+
+### Article 42 — Protection of classified and sensitive non-classified information
+
+1\. ACER shall adopt its own security rules, which shall be equivalent to the Commission's security rules for protecting European Union Classified Information (EUCI) and sensitive non-classified information, including provisions for the exchange, processing and storage of such information, as set out in the Commission Decisions (EU, Euratom) 2015/443 ( 16 ) and (EU, Euratom) 2015/444 ( 17 ).
+
+2\. ACER may also decide to apply the Commission's Decisions referred to in paragraph 1, mutatis mutandis. ACER's security rules shall cover, inter alia, provisions for the exchange, processing and storage of EUCI and sensitive non-classified information.
+
+### Article 43 — Cooperation agreements
+
+1\. ACER shall be open to the participation of third countries which have concluded agreements with the Union and which have adopted and are applying the relevant rules of Union law in the field of energy including, in particular, the rules on independent regulatory authorities, third-party access to infrastructure and unbundling, energy trading and system operation and consumer participation and protection, as well as the relevant rules in the fields of environment and competition.
+
+2\. Subject to the conclusion of an agreement to that effect between the Union and third countries as referred to in paragraph 1, ACER may also exercise its tasks under Articles 3 to 13 with regard to third countries, provided that those third countries have adopted and apply the relevant rules in accordance with paragraph 1 and have mandated ACER to coordinate the activities of their regulatory authorities with those of the regulatory authorities of Member States. Only in such cases the references to issues of cross-border character shall relate to borders between the Union and third countries, and not to borders between two Member States.
+
+3\. The agreements referred to in paragraph 1 shall provide for arrangements specifying, in particular, the nature, scope and procedural aspects of the involvement of those countries in ACER's work, including provisions relating to financial contributions and to staff.
+
+4\. The Administrative Board shall adopt rules of procedures for relations with third countries referred to in paragraph 1 after receipt of a positive opinion by the Board of Regulators. The Commission shall ensure that ACER operates within its mandate and the existing institutional framework by concluding an appropriate working arrangement with ACER's Director.
+
+### Article 44 — Language arrangements
+
+1\. The provisions of Council Regulation No 1 ( 18 ) shall apply to ACER.
+
+2\. The Administrative Board shall decide on ACER's internal language arrangements.
+
+3\. The translation services required for ACER's functioning shall be provided by the Translation Centre for the Bodies of the European Union.
+
+### Article 45 — Evaluation
+
+1\. By 5 July 2024, and every five years thereafter, the Commission, with the assistance of an independent external expert, shall carry out an evaluation to assess ACER's performance in relation to its objectives, mandate and tasks. The evaluation shall in particular address the possible need to modify ACER's mandate, and the financial implications of any such modification.
+
+2\. Where the Commission considers that the continued existence of ACER is no longer justified with regard to its assigned objectives, mandate and tasks, it may propose that this Regulation be amended accordingly or repealed after carrying out an appropriate consultation of stakeholders and of the Board of Regulators.
+
+3\. The Commission shall submit the evaluation findings referred to in paragraph 1 together with its conclusions to the European Parliament, to the Council and to ACER's Board of Regulators. The findings of the evaluation should be made public.
+
+4\. By 31 October 2025, and at least every five years thereafter, the Commission shall submit to the European Parliament and the Council a report evaluating this Regulation and, in particular, ACER's tasks involving individual decisions. That reports shall, as appropriate, take into account the results of the assessment pursuant to Article 69(1) of Regulation (EU) 2019/943.
+
+The Commission, where appropriate, shall submit a legislative proposal together with its report.
+
+### Article 46 — Repeal
+
+Regulation (EC) No 713/2009 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.
+
+### Article 47 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Repealed Regulation with the amendment thereto**
+
+| Regulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (OJ L 211, 14.8.2009, p. 1) |  |
+| --- | --- |
+| Regulation (EU) No 347/2013 of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure and repealing Decision No 1364/2006/EC and amending Regulations (EC) No 713/2009, (EC) No 714/2009 and (EC) No 715/2009 | Only the reference made by Article 20 of Regulation (EU) No 347/2013 to Article 22(1) of Regulation (EC) No 713/2009. |
+
+## ANNEX II
+
+**Correlation table**
+
+| Regulation (EC) No 713/2009 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 4 | Article 2 |
+| Article 5 | Article 3 |
+| Article 6 (1) to (3) and (4) first subparagraph | Article 4 |
+| Article 6 (4) second to fifth sub-paragraph and paragraphs (5), (6) and (9) | Article 5 |
+| Article 7 and 8 | Article 6 |
+| — | Article 7 |
+| — | Article 8 |
+| — | Article 9 |
+| Article 9 (1) to (2) first sub–paragraph | Article 10 |
+| Article 6 (7) and (8) | Article 11 |
+| — | Article 12 |
+| Article 9 (2) second sub–paragraph | Article 13 |
+| Article 10 | Article 14 |
+| Article 11 | Article 15 |
+| Article 2 | Article 16 |
+| Article 3 | Article 17 |
+| Article 12 | Article 18 |
+| Article 13 | Article 19 |
+| — | Article 20 |
+| Article 14 (1) and (2) | Article 21 |
+| Article 14 (3) to (6) | Article 22 (1) to (4) |
+| Article 15 | Article 22 (5) and (6) |
+| Article 16 | Article 23 |
+| Article 17 | Article 24 |
+| Article 18 (1) and (2) | Article 25 (1), (2) and (4) |
+| Article 19 (6) | Article 25 (3) |
+| Article 18 (3) | Article 26 |
+| Article 18 (4) to (7) | Article 27 |
+| Article 19 (1) to (5) and (7) | Article 28 |
+| — | — |
+| — | Article 29 |
+| — | Article 30 |
+| Article 21 | Article 31 |
+| Article 22 | Article 32 |
+| Article 23 | Article 33 |
+| Article 24 (1) and (2) | Article 34 |
+| Article 24 (3 and following) | Article 35 |
+| Article 25 | Article 36 |
+| — | Article 37 |
+| Article 27 | Article 38 |
+| Article 28 | Article 39 |
+| Article 29 | Article 40 |
+| Article 30 | Article 41(1) to (3) |
+| — | Article 42 |
+| Article 31 | Article 43 |
+| Article 33 | Article 44 |
+| Article 34 | Article 45 |
+| — | Article 46 |
+| Article 35 | Article 47 |
+
+( 1 ) Commission Regulation (EU) 2016/1719 of 26 September 2016 establishing a guideline on forward capacity allocation (OJ L 259, 27.9.2016, p. 42).
+
+( 2 ) Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (see page 54 of this Official Journal).
+
+( 3 ) Regulation (EC) No 715/2009 of the European Parliament and of the Council of 13 July 2009 on conditions for access to the natural gas transmission networks and repealing Regulation (EC) No 1775/2005 (OJ L 211, 14.8.2009, p. 36).
+
+( 4 ) Regulation (EU) 2024/1789 of the European Parliament and of the Council of 13 June 2024 on the internal markets for renewable gas, natural gas and hydrogen, amending Regulations (EU) No 1227/2011, (EU) 2017/1938, (EU) 2019/942 and (EU) 2022/869 and Decision (EU) 2017/684 and repealing Regulation (EC) No 715/2009 (OJ L, 2024/1789, 15.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1789/oj).
+
+( 5 ) Directive (EU) 2024/1788 of the European Parliament and of the Council of 13 June 2024 on common rules for the internal markets in renewable gas, natural gas and hydrogen, amending Directive (EU) 2023/1791 and repealing Directive 2009/73/EC (OJ L, 2024/1788, 15.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1788/oj).
+
+( 6 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 7 ) Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management (OJ L 197, 25.7.2015, p. 24).
+
+( 8 ) Regulation (EU) 2022/869 of the European Parliament and the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45).
+
+( 9 ) Regulation (EU) 2024/1787 of the European Parliament and of the Council of 13 June 2024 on methane emissions reduction in the energy sector and amending Regulation (EU) 2019/942 (OJ L, 2024/1787, 15.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1787/oj).
+
+( 10 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 11 ) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+
+( 12 ) OJ L 136, 31.5.1999, p. 15.
+
+( 13 ) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).
+
+( 14 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 15 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 16 ) Commission Decision (EU, Euratom) 2015/443 of 13 March 2015 on Security in the Commission (OJ L 72, 17.3.2015, p. 41).
+
+( 17 ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53).
+
+( 18 ) Council Regulation No 1 determining the languages to be used by the European Economic Community (OJ 17, 6.10.1958, p. 385).

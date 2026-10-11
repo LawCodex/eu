@@ -95,9 +95,11 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entries 3, 3(a), 3(b) and 3(c) are replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘3</td><td>Mercury in cold cathode fluorescent lamps and external electrode fluorescent lamps (CCFL and EEFL) for special purposes used in EEE placed on the market before 24 February 2022 not exceeding (per lamp):</td><td></td></tr>
 <tr><td>3(a)</td><td>Short length (≤ 500 mm): 3,5 mg</td><td>Expires on 24 February 2025</td></tr>
 <tr><td>3(b)</td><td>Medium length (&gt; 500 mm and ≤ 1 500 mm): 5 mg</td><td>Expires on 24 February 2025</td></tr>
 <tr><td>3(c)</td><td>Long length (&gt; 1 500 mm): 13 mg</td><td>Expires on 24 February 2025’</td></tr>
 </tbody>
+</table>

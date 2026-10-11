@@ -1,0 +1,363 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/1799 of 7 October 2016 laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (Text with EEA relevance)"
+identifier: "32016R1799"
+eli: "http://data.europa.eu/eli/reg_impl/2016/1799/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-10-07
+entry_into_force: 2017-05-07
+last_amended: 2024-07-25
+consolidated_version: "02016R1799-20240725"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1799-20240725"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/1799 of 7 October 2016 laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1799**
+
+**of 7 October 2016**
+
+**laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/634 of 24 April 2018 </td><td> L 105</td><td>14</td><td>25.4.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/2028 of 29 November 2019 </td><td> L 313</td><td>34</td><td>4.12.2019</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2005 of 16 November 2021 </td><td> L 407</td><td>10</td><td>17.11.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1872 of 1 July 2024 </td><td> L 1872</td><td>1</td><td>5.7.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1799**
+
+**of 7 October 2016**
+
+**laying down implementing technical standards with regard to the mapping of credit assessments of external credit assessment institutions for credit risk in accordance with Articles 136(1) and 136(3) of Regulation (EU) No 575/2013 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## TITLE I — QUANTITATIVE FACTORS, QUALITATIVE FACTORS AND BENCHMARK
+
+### CHAPTER 1 — Quantitative factors
+
+##### Article 1 — Quantitative factors of the mapping of a rating category
+
+The quantitative factors referred to in point (a) of Article 136(2) of Regulation (EU) No 575/2013 shall be the short run and long run default rates associated with items assigned the same rating category, as set out in Articles 2 to 6.
+
+##### Article 2 — Items used for the calculation of the quantitative factors
+
+The calculation of the default rates referred to in Article 1 for each rating category shall be performed based solely on items assigned the same rating category by the external credit assessment institution (ECAI) for which the mapping is being performed, where the items meet all of the following requirements:
+
+(a) they belong to the ‘corporate ratings’ referred to in point (a) of Article 3 of Delegated Regulation (EU) 2015/2, and they are assigned on an issuer basis;
+
+(b) they are assigned either of the following:
+
+(i) a solicited credit rating;
+
+(ii) an unsolicited credit rating that meets the requirements of Article 138 of Regulation (EU) No 575/2013.
+
+#### Section 1 — Calculation of the quantitative factors of a rating category where a sufficient number of credit ratings is available
+
+##### Article 3 — Determination of whether a sufficient number of credit ratings is available
+
+1\. For the purpose of the short run default rate calculation, the number of items assigned the same rating category by the ECAI for which the mapping is being performed shall be deemed sufficiently numerous, where the items meet all of the following requirements:
+
+(a) they are sufficient with respect to the perceived risk profile of the rating category, considering as an indicator, the number of items representing the inverse of the long run default rate benchmark of the rating category, as referred to in point (a) of Article 14;
+
+(b) they are representative of the most recent pool of items assigned the same rating category.
+
+2\. For the purpose of the long run default rate calculation, the number of items assigned the same rating category by the ECAI for which the mapping is being performed shall be deemed sufficiently numerous where at minimum the most recent 10 short run default rates as referred to in paragraph 1 are available.
+
+##### Article 4 — Short run default rates of a rating category where a sufficient number of credit ratings is available
+
+1\. Where a sufficient number of credit ratings is available according to Article 3(1), the short run default rates referred to in Article 1 shall be calculated in the manner described in paragraphs 2 to 5.
+
+2\. The short run default rates of a rating category shall be calculated over a 3-year time horizon as a ratio where:
+
+(a) the denominator represents the number of items assigned the same rating category present at the beginning of the time horizon;
+
+(b) the numerator represents the number of items referred to in point (a) that have defaulted prior to the end of the time horizon.
+
+3\. Items withdrawn prior to the end of the time horizon and not defaulted shall only contribute to the denominator of the short run default rates referred to in point (a) of paragraph 2 with a weight equal to 50 %. Any item for which there is evidence that it has been withdrawn prior to the occurrence of a default shall be considered to be a defaulted item.
+
+4\. Items shall be considered to be defaulted items to be included in the numerator specified in point (b) of paragraph 2 where any of the following types of event has occurred:
+
+(a) a bankruptcy filing or legal receivership that will likely cause a miss or delay in future contractually required debt service payments;
+
+(b) a missed or delayed disbursement of a contractually required interest or principal payment, unless payments are made within a contractually allowed grace period;
+
+(c) a distressed exchange if the offer implies the investor will receive less value than the promise of the original securities;
+
+(d) the rated entity is under a significant form of regulatory supervision owing to its financial condition.
+
+5\. The short run default rates shall be calculated for each available pool of items assigned the same rating category on semi-annual periods, which are based on 1 January and 1 July of each year.
+
+##### Article 5 — Long run default rate of a rating category where a sufficient number of credit ratings is available
+
+1\. Where a sufficient number of credit ratings is available in accordance with Article 3, the long run default rate referred to in Article 1 shall be calculated according to paragraphs 2 to 4.
+
+2\. The long run default rate shall be calculated as the weighted average of at least the most recent 20 short run default rates calculated according to Article 4(1). If the available short run default rates span a longer period and they are relevant, the short run default rates for that longer period shall be used. Where less than 20 short run default rates calculated according to Article 4(1) are available the remaining short run default rates shall be estimated to span the 20 short run default rates.
+
+3\. For the purpose of producing the weighted average referred to in paragraph 2, the short run default rates calculated according to Article 4 shall include the most recent recessionary period. This recessionary period shall span a semester or more of the negative growth rates of the Gross Domestic Products in the main geographical areas of reference of the rated items.
+
+4\. For the purpose of producing the weighted average referred to in paragraph 2, the following shall apply:
+
+(a) the short run default rates calculated according to Article 4(1) shall be weighted based on the number of items specified in point (a) of Article 4(2);
+
+(b) the estimated short run default rates shall be weighted based on estimates of the number of items assigned the same rating category present at the beginning of the time horizon.
+
+The weights shall ensure an adequate representation of recessionary and non-recessionary years in a full economic cycle.
+
+#### Section 2 — Calculation of the quantitative factors of a rating category where a sufficient number of credit ratings is not available
+
+##### Article 6 — Items used and long run default rate of a rating category where a sufficient number of credit ratings is not available
+
+Where a sufficient number of credit ratings as referred to in Article 3 is not available, the calculation of the long run default rate specified in Article 1 shall be performed according to both the following:
+
+(a) it shall be based on the estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category, pursuant to point (a) of Article 136(2) of Regulation (EU) No 575/2013;
+
+(b) the estimate referred to in point (a) shall be complemented with the number of defaulted and non-defaulted items assigned the rating category by the ECAI for which the mapping is being performed.
+
+### CHAPTER 2 — Qualitative factors
+
+##### Article 7 — Qualitative factors of the mapping of a rating category
+
+The qualitative factors referred to in point (b) of Article 136(2) of Regulation (EU) No 575/2013 shall be:
+
+(a) the definition of default considered by the ECAI, as referred to in Article 8;
+
+(b) the time horizon of a rating category considered by the ECAI, as referred to in Article 9;
+
+(c) the meaning of a rating category and its relative position within the rating scale established by the ECAI, as referred to in Article 10;
+
+(d) the creditworthiness of the items assigned the same rating category, as referred to in Article 11;
+
+(e) the estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category, pursuant to point (a) of Article 136(2) of Regulation (EU) No 575/2013, as set out in Article 12;
+
+(f) the relationship established by the ECAI (‘internal mapping’), where available, between, on the one hand, the rating category which is being mapped, and, on the other hand, other rating categories produced by the same ECAI, where a mapping for the latter categories has already been set out according to this Regulation, as referred to in Article 13;
+
+(g) any other relevant information that can describe the degree of risk expressed by a rating category.
+
+##### Article 8 — Definition of default used by the ECAI
+
+The type of events considered by the ECAI for the purposes of establishing whether an item is in default situation shall be compared to those specified in Article 4(4) by using all available information. Where the comparison indicates that not all such types of default events have been considered by the ECAI, the quantitative factors referred to in Article 1 shall be adjusted accordingly.
+
+##### Article 9 — Time horizon of a rating category
+
+The time horizon considered by the ECAI for assigning a rating category shall provide a relevant indication of whether the level of risk of that rating category is sustainable over the time horizon specified in Article 4(2).
+
+##### Article 10 — Meaning and relative position of a rating category
+
+1\. The meaning of a rating category established by the ECAI shall be set according to the characteristics of the capacity of financial commitments as reflected in the items assigned such rating category being honoured, and more in particular by its degree of sensitivity to the economic environment and its degree of proximity to the default situation.
+
+2\. The meaning of a rating category shall be compared to the one established for each credit quality step, as set out in Article 15.
+
+3\. The meaning of a rating category shall be considered in combination with its relative position within the rating scale established by the ECAI.
+
+##### Article 11 — Creditworthiness of items assigned the same rating category
+
+1\. The creditworthiness of items assigned the same rating category shall be determined by considering at least their size and the degree of sector and geographical diversification of their business activity.
+
+2\. Different measures of creditworthiness assigned to items of the same rating category may be used, to the extent appropriate, to complement the information provided by the quantitative factors referred to in Article 1 where they are reliable and relevant for the mapping.
+
+##### Article 12 — Estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category
+
+The estimate provided by the ECAI of the long run default rate associated with all items assigned the same rating category shall be taken into account for the purpose of the mapping as long as it has been adequately justified.
+
+##### Article 13 — Internal mapping of a rating category established by the ECAI
+
+The corresponding credit quality step of other rating categories produced by the same ECAI for which an internal mapping exists according to point (f) of Article 7 shall be used as a relevant indication of the level of risk of the rating category which is being mapped.
+
+### CHAPTER 3 — Benchmark and related references
+
+##### Article 14 — Benchmark
+
+The benchmark referred to in point (c) of Article 136(2) of Regulation (EU) No 575/2013, shall be distinguished in:
+
+(a) a long-run default rate benchmark for each credit quality step as set out in Table 1 of Annex I;
+
+(b) a short-run default rate benchmark for each credit quality step as set out in Table 2 of Annex I.
+
+##### Article 15 — Reference meaning of the rating category per credit quality step
+
+The reference meaning of a rating category that corresponds to each credit quality step is set out in Annex II.
+
+## TITLE II — MAPPING TABLES
+
+##### Article 16 — Mapping tables
+
+The correspondence of the rating categories of each ECAI with the credit quality steps set out in Section 2 of Chapter 2 of Title II of Part Three of Regulation (EU) No 575/2013 is that set out in Annex III.
+
+## TITLE III — FINAL PROVISION
+
+##### Article 17 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Benchmarks for the purposes of Article 14**
+
+**Table 1**
+
+**Long-run benchmark**
+
+**(3-year time horizon)**
+
+<table>
+<tbody><tr><td rowspan="2">Credit Quality Step</td><td colspan="3">Long run benchmark</td></tr>
+<tr><td>Mid value</td><td>Lower bound</td><td>Upper bound</td></tr>
+<tr><td>1</td><td>0,10 %</td><td>0,00 %</td><td>0,16 %</td></tr>
+<tr><td>2</td><td>0,25 %</td><td>0,17 %</td><td>0,54 %</td></tr>
+<tr><td>3</td><td>1,00 %</td><td>0,55 %</td><td>2,39 %</td></tr>
+<tr><td>4</td><td>7,50 %</td><td>2,40 %</td><td>10,99 %</td></tr>
+<tr><td>5</td><td>20,00 %</td><td>11,00 %</td><td>26,49 %</td></tr>
+<tr><td>6</td><td>34,00 %</td><td>26,50 %</td><td>100,00 %</td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Short run benchmarks**
+
+**(3-year time horizon)**
+
+<table>
+<tbody><tr><td rowspan="2">Credit Quality Step</td><td colspan="2">Short run benchmarks</td></tr>
+<tr><td>Monitoring level</td><td>Trigger level</td></tr>
+<tr><td>1</td><td>0,80 %</td><td>1,20 %</td></tr>
+<tr><td>2</td><td>1,00 %</td><td>1,30 %</td></tr>
+<tr><td>3</td><td>2,40 %</td><td>3,00 %</td></tr>
+<tr><td>4</td><td>11,00 %</td><td>12,40 %</td></tr>
+<tr><td>5</td><td>28,60 %</td><td>35,00 %</td></tr>
+<tr><td>6</td><td>not applicable</td><td>not applicable</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Reference meaning of the rating category per credit quality step for the purposes of Article 15**
+
+| Credit Quality Step | Meaning of the rating category |
+| --- | --- |
+| 1 | The rated entity has extremely/very strong capacity to meet its financial commitments and is subject to minimal/very low credit risk. |
+| 2 | The rated entity has strong capacity to meet its financial commitments and is subject to low credit risk but is somewhat more susceptible to the adverse effects of changes in circumstances and economic conditions than rated entities in CQS 1. |
+| 3 | The rated entity has adequate capacity to meet its financial commitments and is subject to moderate credit risk. However, adverse economic conditions or changing circumstances are more likely to lead to a weakened capacity of the rated entity to meet its financial commitments. |
+| 4 | The rated entity has the capacity to meet its financial commitments but is subject to substantial credit risk. It faces major ongoing uncertainties and exposure to adverse business, financial, or economic conditions, which could lead to the rated entity's inadequate capacity to meet its financial commitments. |
+| 5 | The rated entity has the capacity to meet its financial commitments but is subject to high credit risk. Adverse business, financial, or economic conditions will likely impair the rated entity's capacity or willingness to meet its financial commitments. |
+| 6 | The rated entity is currently vulnerable or highly vulnerable and is subject to very high credit risk, including in or very near to default. It is dependent upon favourable business, financial, and economic conditions to meet its financial commitments. |
+
+## ANNEX III — MAPPING TABLES FOR THE PURPOSES OF ARTICLE 16
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| A.M. Best (EU) Rating Services B.V. |  |  |  |  |  |  |
+| Long-term issuer credit rating scale | aaa, aa+, aa, aa- | a+, a, a- | bbb+, bbb, bbb- | bb+, bb, bb- | b+, b, b- | ccc+, ccc, ccc-, cc, c, d, e, f, s |
+| Long-term issue rating scale | aaa, aa+, aa, aa- | a+, a, a- | bbb+, bbb, bbb- | bb+, bb, bb- | b+, b, b- | ccc+, ccc, ccc-, cc, c, d, s |
+| Financial strength rating scale | A++, A+ | A, A- | B++, B+ | B, B- | C++, C+ | C, C-, D, E, F, S |
+| Short-term issuer rating scale | AMB-1+ | AMB-1- | AMB-2, AMB-3 | AMB- 4, d, e, f, s |  |  |
+| Short-term issue rating scale | AMB-1+ | AMB-1- | AMB-2, AMB-3 | AMB- 4, d, s |  |  |
+| ARC Ratings S.A. |  |  |  |  |  |  |
+| Medium- and long-term issuer rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Medium- and long-term issue rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Insurance Financial Strength Rating Criteria scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Short-term issuer rating scale | A-1+ | A-1 | A-2, A-3 | B, C, D |  |  |
+| Short-term issue rating scale | A-1+ | A-1 | A-2, A-3 | B, C, D |  |  |
+| ASSEKURATA Assekuranz Rating-Agentur GmbH |  |  |  |  |  |  |
+| Long-term credit rating scale | AAA, AA | A | BBB | BB | B | CCC, CC/C, D |
+| Short-term corporate rating scale | A++ | A |  | B, C, D |  |  |
+| Banque de France |  |  |  |  |  |  |
+| Global ANACOT long-term issuer credit rating scale | 1+ | 1, 1- | 2+, 2, 2- | 3+, 3, 3-, 4+, 4, 4-, 5+ | 5, 5-, 6+, 6, 6- | 7, 8, P |
+| BCRA Credit Rating Agency AD |  |  |  |  |  |  |
+| Global long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Global short-term rating scale | A-1+ | A-1 | A-2, A-3 | B, C, D |  |  |
+| Pension-insurance company long-term scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Pension-insurance company short-term scale | A-1+ | A-1 | A-2, A-3 | B, C, D |  |  |
+| Pension fund long-term scale | AAA pf, AA pf | A pf | BBB pf | BB pf | B pf | C pf |
+| Capital Intelligence Ratings Ltd |  |  |  |  |  |  |
+| International long-term issuer rating scale | AAA, AA | A | BBB | BB | B | C, RS, SD, D |
+| International long-term issue rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| International long-term insurer financial strength rating scale | AAA, AA | A | BBB | BB | B | C, RS, SD, D |
+| International short-term issuer rating scale | A1+ | A1 | A2, A3 | B, C, RS, SD, D |  |  |
+| International short-term issue rating scale | A1+ | A1 | A2, A3 | B, C, D |  |  |
+| International short-term insurer financial strength rating scale | A1+ | A1 | A2, A3 | B, C, RS, SD, D |  |  |
+| Cerved Rating Agency S.p.A. |  |  |  |  |  |  |
+| Corporate long-term rating scale | A1.1, A1.2, A1.3 | A2.1, A2.2, A3.1 | B1.1, B1.2 | B2.1, B2.2 | C1.1 | C1.2, C2.1 |
+| Corporate short-term rating scale | S-1 | S-2 | S-3 | V-1, R-1 |  |  |
+| Creditreform Rating AG |  |  |  |  |  |  |
+| Long-term issuer rating scale | AAA, AA | A | BBB | BB | B | C, SD, D |
+| Long-term issue rating scale | AAA, AA | A | BBB | BB | B | C, D |
+| Short-term rating scale | L1 | L2 | L3 | NEL, D |  |  |
+| CRIF Ratings S.r.l. |  |  |  |  |  |  |
+| Long-term issuer rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D1S, D |
+| Long-term issue rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, DS |
+| SME rating scale | SME1, SME2 |  | SME3 | SME4 | SME5, SME6 | SME7, SME8 |
+| Short-term issuer rating scale | IG-1 |  | IG-2 | SIG-1, SIG-2, SIG-3, SIG-4 |  |  |
+| Short-term issue rating scale | IG-1 |  | IG-2 | SIG-1, SIG-2, SIG-3, SIG-4 |  |  |
+| DBRS Ratings GmbH |  |  |  |  |  |  |
+| Long-term obligations rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Commercial paper and short-term debt rating scale | R-1 H, R-1 M | R-1 L | R-2, R-3 | R-4, R-5, D |  |  |
+| Financial strength rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, R |
+| Expected loss rating scale | AAA(el), AA(el) | A(el) | BBB(el) | BB(el) | B(el) | CCC(el), CC(el), C(el) |
+| Egan-Jones Ratings Co. |  |  |  |  |  |  |
+| Long-term credit rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Short-term credit rating scale | A-1+ | A-1 | A-2 | A-3, B, C, D |  |  |
+| EthiFinance S.L. (formerly Axesor Risk Management S.L.) |  |  |  |  |  |  |
+| Global long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Global short-term rating scale | EF1+ |  | EF1, EF2 | EF3, EF4 EF5 |  |  |
+| EuroRating Sp. z o.o. |  |  |  |  |  |  |
+| Global long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Fitch Ratings Ireland Limited |  |  |  |  |  |  |
+| Long-term issuer default rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, RD, D |
+| Corporate finance obligations long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C |
+| Long-term international Insurer Financial Strength rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C |
+| Derivative counterparty rating scale | AAA dcr, AA dcr | A dcr | BBB dcr | BB dcr | B dcr | CCC dcr, CC dcr, C dcr, RD dcr, R dcr |
+| Short-term rating scale | F1+ | F1 | F2, F3 | B, C, RD, D |  |  |
+| Short-term IFS rating scale | F1+ | F1 | F2, F3 | B, C |  |  |
+| GBB-Rating Gesellschaft für Bonitätsbeurteilung GmbH |  |  |  |  |  |  |
+| Global long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| HR Ratings de México, S.A. de C.V. |  |  |  |  |  |  |
+| Global long-term rating scale | HR AAA(G)/HR AA(G) | HR A(G) | HR BBB(G) | HR BB(G) | HR B(G) | HR C(G)/HR D(G) |
+| Global short-term rating scale | HR+1(G)/HR1(G) | HR2(G) | HR3(G) | HR4(G), HR5(G), HR D(G) |  |  |
+| ICAP CRIF S.A. (previously ICAP S.A.) |  |  |  |  |  |  |
+| Global long-term issuer rating scale | AAA, AA | A | BBB | BB | B, CCC | CC, C, D |
+| Global long-term issue rating scale | AAA, AA | A | BBB | BB | B, CCC | CC, C, D |
+| INBONIS S.A. |  |  |  |  |  |  |
+| Long-term rating scale | AAA/AA | A | BBB | BB | B | CCC, CC, C, D |
+| Japan Credit Rating Agency Ltd |  |  |  |  |  |  |
+| Long-term issuer rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, LD, D |
+| Long-term issue rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Short-term issuer rating scale | J-1+ | J-1 | J-2 | J-3, NJ, LD, D |  |  |
+| Short-term issue credit rating scale | J-1+ | J-1 | J-2 | J-3, NJ, D |  |  |
+| Kroll Bond Rating Agency Europe Limited |  |  |  |  |  |  |
+| Long-term credit rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Short-term credit rating scale | K1+ | K1 | K2, K3 | B, C, D |  |  |
+| Insurance Financial Strength rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| modeFinance S.r.l. |  |  |  |  |  |  |
+| Global long-term rating scale | A1, A2 | A3 | B1 | B2 | B3 | C1, C2, C3, D |
+| Moody’s Investors Service |  |  |  |  |  |  |
+| Global long-term rating scale | Aaa, Aa | A | Baa | Ba | B | Caa, Ca, C |
+| Global short-term rating scale | P-1 | P-2 | P-3 | NP |  |  |
+| Nordic Credit Rating AS |  |  |  |  |  |  |
+| Long-term rating scale | AAA/AA | A | BBB | BB | B | CCC, CC, C, D, SD |
+| Short-term rating scale | N1 | N2 | N3 | N4, N5, N6 |  |  |
+| Scope Ratings GmbH |  |  |  |  |  |  |
+| Long-term rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D/SD |
+| Short-term rating scale | S-1+ | S-1 | S-2 | S-3, S-4, D/SD |  |  |
+| S&P Global Ratings Europe Limited |  |  |  |  |  |  |
+| Long-term issuer credit rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, R, SD/D |
+| Long-term issue credit rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, C, D |
+| Insurer financial strength rating scale | AAA, AA | A | BBB | BB | B | CCC, CC, SD/D, R |
+| Long-term Financial Institution Resolution Counterparty Ratings | AAA, AA | A | BBB | BB | B | CCC, CC, SD, D |
+| Mid-Market Evaluation rating scale |  | MM1 | MM2 | MM3, MM4 | MM5, MM6 | MM7, MM8, MMD |
+| Short-term issuer credit rating scale | A-1+ | A-1 | A-2, A-3 | B, C, R, SD/D |  |  |
+| Short-term issue credit rating scale | A-1+ | A-1 | A-2, A-3 | B, C, D |  |  |
+| Short-term Financial Institution Resolution Counterparty Ratings | A-1+ | A-1 | A-2, A-3 | B, C, SD/D |  |  |

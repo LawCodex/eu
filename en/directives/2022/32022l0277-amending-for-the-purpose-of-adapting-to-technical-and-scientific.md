@@ -95,6 +95,8 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 1(g) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘1(g)</td><td>For general lighting purposes &lt; 30 W with a lifetime equal or above 20 000 h: 3,5 mg</td><td>Expires on 24 August 2023’</td></tr>
 </tbody>
+</table>

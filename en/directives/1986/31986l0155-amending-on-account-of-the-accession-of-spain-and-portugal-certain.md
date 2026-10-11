@@ -32,12 +32,14 @@ amending, on account of the accession of Spain and Portugal, certain Directives 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 88/380/EEC of 13 June 1988</td><td> L 187</td><td>31</td><td>16.7.1988</td></tr>
 <tr><td></td><td>Council Directive 2002/53/EC of 13 June 2002</td><td> L 193</td><td>1</td><td>20.7.2002</td></tr>
 <tr><td></td><td>Council Directive 2002/55/EC of 13 June 2002</td><td> L 193</td><td>33</td><td>20.7.2002</td></tr>
 <tr><td></td><td>Council Directive 2002/57/EC of 13 June 2002</td><td> L 193</td><td>74</td><td>20.7.2002</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -127,19 +129,23 @@ Directive 66/401/EEC is hereby amended as follows:
 
 3\. In Annex II (I) (2) (A) the following lines shall be inserted after the lines Arrhenatherum elatius and Lolium × hybridum respectively:
 
+<table>
 <tbody><tr><td>  </td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
 <tr><td rowspan="2">and</td><td></td><td>‘Cynodon dactylon</td><td>70 (a)</td><td>  </td><td>90</td><td>2,0</td><td>1,0</td><td>0,3</td><td>0,3</td><td>  </td><td>  </td><td>  </td><td>0</td><td>0 (j) (k)</td><td>2</td><td>'</td></tr>
 <tr><td></td><td>‘Phalaris aquatica L.</td><td>75 (a)</td><td>  </td><td>96</td><td>1,5</td><td>1,0</td><td>0,3</td><td>0,3</td><td>  </td><td>  </td><td>  </td><td>0</td><td>0 (j) (k)</td><td>20</td><td>'.</td></tr>
 </tbody>
+</table>
 
 4\. In Annex II (II) (2) (A) the following lines shall be inserted after the lines Arrhenatherum elatius and Lolium × hybridum respectively:
 
 5\. In Annex III the following lines shall be inserted after the lines Arrhenatherum elatius and Lolium × hybridum respectively:
 
+<table>
 <tbody><tr><td>  </td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td rowspan="2">and</td><td></td><td>‘Cynodon dactylon</td><td>10</td><td>50</td><td>5'</td></tr>
 <tr><td></td><td>‘Phalaris aquatica L.</td><td>10</td><td>100</td><td>50'.</td></tr>
 </tbody>
+</table>
 
 ## Article 2
 

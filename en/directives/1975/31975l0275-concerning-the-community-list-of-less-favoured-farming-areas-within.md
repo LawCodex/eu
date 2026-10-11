@@ -34,6 +34,7 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Council Directive 81/875/EEC of 27 October 1981</td><td> L 321</td><td>22</td><td>10.11.1981</td></tr>
@@ -41,6 +42,7 @@ Amended by:
 <tr><td> M3</td><td>Commission Decision of 4 August 1987</td><td> L 252</td><td>21</td><td>3.9.1987</td></tr>
 <tr><td> M4</td><td>Council Directive 88/403/EEC of 18 July 1988</td><td> L 195</td><td>72</td><td>23.7.1988</td></tr>
 <tr><td> M5</td><td>Council Directive 92/93/EEC of 9 November 1992</td><td> L 338</td><td>40</td><td>23.11.1992</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -88,6 +90,7 @@ This Directive is addressed to the Kingdom of the Netherlands.
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 
+<table>
 <tbody><tr><td rowspan="2">Prov. nr.</td><td rowspan="2">Geb. nr.</td><td rowspan="2">Gebiedsnaam</td><td rowspan="2">Gemeente</td><td rowspan="2">Opp. per gem.</td><td colspan="2">Plaatsing</td></tr>
 <tr><td>Oud</td><td>Nieuw</td></tr>
 <tr><td>1</td><td>1</td><td>Slangeborg</td><td>Vlagtwedde</td><td>40</td><td>*</td><td>  </td></tr>
@@ -692,6 +695,7 @@ LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 <tr><td>11</td><td>11</td><td>Randzone Zuid-Limburg</td><td>Susteren</td><td>58</td><td>*</td><td>  </td></tr>
 <tr><td>11</td><td>11</td><td>Randzone Zuid-Limburg</td><td>Geleen</td><td>53</td><td>*</td><td>  </td></tr>
 </tbody>
+</table>
 
 ( 1 ) See page 1 of this Official Journal.
 

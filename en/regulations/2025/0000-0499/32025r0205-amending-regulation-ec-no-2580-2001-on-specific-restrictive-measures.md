@@ -1,0 +1,77 @@
+---
+title: "Council Regulation (EU) 2025/205 of 30 January 2025 amending Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism"
+identifier: "32025R0205"
+eli: "http://data.europa.eu/eli/reg/2025/205/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2025-01-30
+entry_into_force: 2025-12-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0205"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2025/205 of 30 January 2025 amending Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism
+
+**COUNCIL REGULATION (EU) 2025/205**
+
+**of 30 January 2025**
+
+**amending Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,
+
+Having regard to Council Decision (CFSP) 2025/204 of 30 January 2025 amending Common Position 2001/931/CFSP on the application of specific measures to combat terrorism (1),
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and of the European Commission,
+
+Whereas:
+
+(1) Council Regulation (EC) No 2580/2001 (2) gives effect to Council Common Position 2001/931/CFSP (3).
+
+(2) On 19 February 2024, the Council adopted Decision (CFSP) 2024/628 (4) which inserted in Common Position 2001/931/CFSP, for an initial period of 12 months, a humanitarian exemption to asset freeze measures applicable to, and to the restrictions on making funds and economic resources available to, designated persons, groups and entities, for the benefit of actors referred to in United Nations Security Council Resolution 2664 (2022), of organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate, and of organisations and agencies which are certified or recognised by a Member State, or by a specialised agency of a Member State. In addition, Decision (CFSP) 2024/628 introduced a derogation mechanism for those organisations and actors involved in humanitarian activities that cannot benefit from that humanitarian exemption, and a review clause related to those exceptions.
+
+(3) On 30 January 2025, the Council adopted Decision (CFSP) 2025/204, which amends Common Position 2001/931/CFSP to prolong the humanitarian exemption until 22 February 2027.
+
+(4) The measures fall within the scope of the Treaty on the Functioning of the European Union and, therefore, notably with a view to ensuring their uniform application in all Member States, regulatory action at the level of the Union is necessary in order to implement them.
+
+(5) Regulation (EC) No 2580/2001 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Article 6 of Regulation (EC) No 2580/2001 is amended as follows:
+
+(1) in paragraph (7), the words ‘12 months’ are replaced by the words ‘24 months’;
+
+(2) in paragraph (8), the date ‘22 February 2025’ is replaced by that of ‘22 February 2027’.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 January 2025.
+
+For the Council
+
+The President
+
+A. SZŁAPKA
+
+(1) OJ L, 2025/204, 31.1.2025, ELI: http://data.europa.eu/eli/dec/2025/204/oj.
+
+(2) Council Regulation (EC) No 2580/2001 of 27 December 2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism (OJ L 344, 28.12.2001, p. 70, ELI: http://data.europa.eu/eli/reg/2001/2580/oj).
+
+(3) Council Common Position 2001/931/CFSP of 27 December 2001 on the application of specific measures to combat terrorism (OJ L 344, 28.12.2001, p. 93, ELI: http://data.europa.eu/eli/compos/2001/931/oj).
+
+(4) Council Decision (CFSP) 2024/628 of 19 February 2024 amending Common Position 2001/931/CFSP on the application of specific measures to combat terrorism (OJ L, 2024/628, 20.2.2024, ELI: http://data.europa.eu/eli/dec/2024/628/oj).
+
+ELI: http://data.europa.eu/eli/reg/2025/205/oj
+
+ISSN 1977-0677 (electronic edition)

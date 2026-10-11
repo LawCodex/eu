@@ -93,9 +93,11 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entries 4(c), 4(c)-I, 4(c)-II and 4(c)-III are replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘4(c)</td><td>Mercury in other High Pressure Sodium (vapour) lamps for general lighting purposes not exceeding (per burner):</td><td></td></tr>
 <tr><td>4(c)-I</td><td>P ≤ 155 W: 20 mg</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>4(c)-II</td><td>155 W &lt; P ≤ 405 W: 25 mg</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>4(c)-III</td><td>P &gt; 405 W: 25 mg</td><td>Expires on 24 February 2027’</td></tr>
 </tbody>
+</table>

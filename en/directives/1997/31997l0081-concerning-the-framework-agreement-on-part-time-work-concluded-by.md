@@ -30,9 +30,11 @@ concerning the Framework Agreement on part-time work concluded by UNICE, CEEP an
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 98/23/ec of 7 April 1998 </td><td> L 131</td><td>10</td><td>5.5.1998</td></tr>
+</table>
 
 COUNCIL DIRECTIVE 97/81/EC
 

@@ -1,0 +1,878 @@
+---
+title: "Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council"
+identifier: "32024R1347"
+eli: "http://data.europa.eu/eli/reg/2024/1347/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-05-14
+entry_into_force: 2024-11-13
+last_amended: 2024-05-22
+consolidated_version: "02024R1347-20240522"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1347-20240522"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council
+
+**REGULATION (EU) 2024/1347 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council**
+
+**REGULATION (EU) 2024/1347 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Directive 2011/95/EU of the European Parliament and of the Council**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down standards for:
+
+(a) the qualification of third-country nationals or stateless persons as beneficiaries of international protection;
+
+(b) a uniform status for refugees or for persons eligible for subsidiary protection;
+
+(c) the content of the international protection granted.
+
+#### Article 2 — Material scope
+
+1\. This Regulation applies to the qualification of third-country nationals or stateless persons as beneficiaries of international protection and to the content of the international protection granted.
+
+2\. This Regulation does not apply to national humanitarian statuses granted by Member States to third country nationals and stateless persons who do not fall under the scope of this Regulation. National humanitarian statuses, where granted, shall not entail a risk of confusion with international protection.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘refugee status’ means the recognition by a Member State of a third-country national or a stateless person as a refugee;
+
+(2) ‘subsidiary protection status’ means the recognition by a Member State of a third-country national or a stateless person as a person eligible for subsidiary protection;
+
+(3) ‘international protection’ means refugee status or subsidiary protection status;
+
+(4) ‘beneficiary of international protection’ means a person who has been granted refugee status or subsidiary protection status;
+
+(5) ‘refugee’ means a third-country national who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, is outside the country of nationality and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country, or a stateless person, who, being outside of the country of former habitual residence for the same reasons as mentioned, is unable or, owing to such fear, unwilling to return to it, and to whom Article 12 does not apply;
+
+(6) ‘person eligible for subsidiary protection’ means a third-country national or a stateless person who does not qualify as a refugee but in respect of whom substantial grounds have been shown for believing that that person, if returned to his or her country of origin or, in the case of a stateless person, to his or her country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15, and to whom Article 17(1) and (2) does not apply, and is unable or, owing to such risk, unwilling to avail himself or herself of the protection of that country;
+
+(7) ‘application for international protection’ means a request made by a third-country national or a stateless person for protection from a Member State, who can be understood to seek refugee status or subsidiary protection status;
+
+(8) ‘applicant’ means a third-country national or a stateless person who has made an application for international protection in respect of which a final decision has not yet been taken;
+
+(9) ‘family members’ means, in so far as the family already existed before the applicant arrived on the territory of the Member States, the following members of the family of the beneficiary of international protection who are present on the territory of the same Member State in relation to the application for international protection:
+
+(a) the spouse of the beneficiary of international protection or his or her unmarried partner in a stable relationship, where the law or practice of the Member State concerned treats unmarried couples as equivalent to married couples;
+
+(b) the minor or adult dependent children of the couples referred to in point (a) or of the beneficiary of international protection, provided that they are unmarried and regardless of whether they were born in or out of wedlock or adopted as provided for under national law; a minor is considered unmarried provided that, on the basis of an individual assessment, the minor’s marriage would not be in accordance with the relevant national law had it been contracted in the Member State concerned, having regard, in particular, to the legal age of marriage;
+
+(c) where the beneficiary of international protection is a minor and unmarried, the father, mother or another adult responsible for that beneficiary, including an adult sibling, whether by the law or practice of the Member State concerned; a minor is considered unmarried provided that, on the basis of an individual assessment, the minor’s marriage would not be in accordance with the relevant national law had it been contracted in the Member State concerned, having regard, in particular, to the legal age of marriage;
+
+(10) ‘minor’ means a third-country national or stateless person below the age of 18 years;
+
+(11) ‘unaccompanied minor’ means a minor who arrives on the territory of the Member States unaccompanied by an adult responsible for him or her whether by the law or practice of the Member State concerned, and for as long as that minor is not effectively taken into the care of such an adult, including a minor who is left unaccompanied after he or she has entered the territory of the Member States;
+
+(12) ‘residence permit’ means an authorisation issued by the authorities of a Member State, in a uniform format as laid down by Regulation (EC) No 1030/2002, which allows a third-country national or stateless person to reside legally on its territory;
+
+(13) ‘country of origin’ means the country or countries of nationality or, for stateless persons, of former habitual residence;
+
+(14) ‘withdrawal of international protection’ means a decision by a determining authority or a competent court or tribunal to revoke or end, including by refusing to renew, international protection;
+
+(15) ‘determining authority’ means a quasi-judicial or administrative body in a Member State which is responsible for examining applications for international protection and is competent to take decisions at the administrative stage of the procedure;
+
+(16) ‘social security’ means the branches of social security set out in Article 3(1) and (2) of Regulation (EC) No 883/2004 of the European Parliament and of the Council ( 1 );
+
+(17) ‘social assistance’ means benefits granted with the objective of ensuring that the basic needs of those who lack sufficient resources are met;
+
+(18) ‘guardian’ means a natural person or an organisation, including a public body, designated by the competent authorities to assist, represent and act on behalf of an unaccompanied minor, as applicable, in order to ensure that the unaccompanied minor can benefit from the rights and comply with the obligations under this Regulation, while safeguarding his or her best interests and general well-being.
+
+## CHAPTER II — ASSESSMENT OF APPLICATIONS FOR INTERNATIONAL PROTECTION
+
+#### Article 4 — Submission of information and assessment of facts and circumstances
+
+1\. Applicants shall submit all the elements available to them which substantiate the application for international protection. For that purpose, applicants shall fully cooperate with the determining authority and with other competent authorities and shall remain present and available on the territory of the Member State responsible for examining their application throughout the procedure, including during the assessment of the relevant elements of the application.
+
+2\. The elements referred to in paragraph 1 shall consist of the following:
+
+(a) the applicant’s statements; and
+
+(b) all the documentation at the applicant’s disposal regarding the following:
+
+(i) the applicant’s reasons for applying for international protection;
+
+(ii) the applicant’s age;
+
+(iii) the applicant’s background, including that of relevant family members and other relatives;
+
+(iv) the applicant’s identity;
+
+(v) the applicant’s nationality or nationalities;
+
+(vi) the applicant’s country or countries and place or places of previous residence;
+
+(vii) previous applications for international protection from the applicant;
+
+(viii) the results of any resettlement or humanitarian admission procedure relating to the applicant as defined by Regulation (EU) 2024/1350;
+
+(ix) the applicant’s travel routes; and
+
+(x) the applicant’s travel documents.
+
+3\. The determining authority shall assess the relevant elements of an application for international protection in accordance with Article 34 of Regulation (EU) 2024/1348.
+
+4\. The fact that an applicant has already been subject to persecution or serious harm, or to direct threats of such persecution or such harm, shall be considered a serious indication of that applicant’s well-founded fear of being persecuted or of a real risk of suffering serious harm, unless there are good reasons to consider that such persecution or serious harm will not be repeated.
+
+5\. Where one or more particular aspects of the applicant’s statements are not supported by documentary or other evidence, no additional evidence shall be required in respect of those particular aspects where the following conditions are met:
+
+(a) the applicant has made a genuine effort to substantiate his or her application for international protection;
+
+(b) all relevant elements at the applicant’s disposal have been submitted and a satisfactory explanation has been given regarding any lack of other relevant elements;
+
+(c) the applicant’s statements are found to be coherent and plausible and do not run counter to available specific and general information relevant to the applicant’s case;
+
+(d) the general credibility of the applicant has been established, taking into account, inter alia, the time at which the applicant applied for international protection.
+
+#### Article 5 — International protection needs arising sur place
+
+1\. A well-founded fear of being persecuted or a real risk of suffering serious harm may be based on:
+
+(a) events which have taken place since the applicant left the country of origin; or
+
+(b) activities which the applicant has engaged in since the applicant left the country of origin, in particular where it is established that the activities relied upon constitute the expression and continuation of convictions, beliefs or orientations held in the country of origin.
+
+2\. Where the risk of persecution or serious harm is based on circumstances which the applicant has created since leaving the country of origin for the sole or main purpose of creating the necessary conditions for applying for international protection, the determining authority may refuse to grant international protection, provided that any decision taken on the application for international protection respects the Geneva Convention Relating to the Status of Refugees of 28 July 1951, as supplemented by the New York Protocol of 31 January 1967 (the ‘Geneva Convention’), the European Convention on Human Rights (ECHR) and the Charter of Fundamental Rights of the European Union.
+
+#### Article 6 — Actors of persecution or serious harm
+
+Actors of persecution or serious harm can be:
+
+(a) the State;
+
+(b) parties or organisations controlling the State or a substantial part of the territory of the State;
+
+(c) non-State actors, if it can be demonstrated that the actors referred to in Article 7(1) are unable or unwilling to provide protection against persecution or serious harm.
+
+#### Article 7 — Actors of protection
+
+1\. Only the following actors can provide protection against persecution or serious harm, provided that they are able and willing to provide effective and non-temporary protection in accordance with paragraph 2:
+
+(a) the State;
+
+(b) stable, established non-State authorities, including international organisations, which control the State or a substantial part of the territory of the State.
+
+2\. Protection against persecution or serious harm shall be effective and of a non-temporary nature. That protection shall be considered to be provided where the actors referred to in paragraph 1 take reasonable steps to prevent persecution or the suffering of serious harm, inter alia, by operating an effective legal system for the detection, prosecution and punishment of acts constituting persecution or serious harm, and where an applicant has access to that protection.
+
+3\. When assessing whether stable, established non-State authorities, including international organisations, control a State or a substantial part of its territory and provide protection within the meaning of paragraph 2, the determining authority shall take into account precise and up-to-date information on countries of origin obtained from relevant and available national, Union and international sources and, where available, the common analysis on the situation in specific countries of origin and the guidance notes referred to in Article 11 of Regulation (EU) 2021/2303.
+
+#### Article 8 — Internal protection alternative
+
+1\. Where the State or agents of the State are not the actors of persecution or serious harm, the determining authority shall examine, as part of the assessment of the application for international protection, whether an applicant is not in need of international protection because the applicant can safely and legally travel to and gain admittance to a part of the country of origin and can reasonably be expected to settle there and whether, in that part of the country, the applicant:
+
+(a) has no well-founded fear of being persecuted or does not face a real risk of suffering serious harm; or
+
+(b) has access to effective and non-temporary protection against persecution or serious harm.
+
+2\. Where the State or agents of the State are the actors of persecution or serious harm, the determining authority shall presume that effective protection is not available to the applicant and no examination as referred to in paragraph 1 need be carried out.
+
+The determining authority may only carry out an examination as referred to in paragraph 1 where it is clearly established that the risk of persecution or serious harm stems from an actor whose power is clearly limited to a specific geographical area or where the State itself only has control over certain parts of the country.
+
+3\. The determining authority shall carry out an examination as referred to in paragraph 1 once it has established that the qualification criteria set out in this Regulation would otherwise apply to an applicant. The burden of demonstrating that an internal protection alternative is available to the applicant shall fall on the determining authority. The applicant shall be entitled to present evidence and submit any element which indicates that such an alternative is not available to him or her. The determining authority shall take into account the evidence presented and elements submitted by the applicant.
+
+4\. In examining whether an applicant has a well-founded fear of being persecuted or faces a real risk of suffering serious harm, or has access to protection against persecution or serious harm in a part of the country of origin concerned in accordance with paragraph 1, the determining authority shall, at the time of taking the decision on the application for international protection, have regard to the general circumstances prevailing in that part of the country and to the personal circumstances of the applicant set out in Article 4. To that end, the determining authority shall take into account precise and up-to-date information obtained from relevant and available national, Union and international sources and, where available, the common analysis on the situation in specific countries of origin and the guidance notes referred to in Article 11 of Regulation (EU) 2021/2303.
+
+5\. For the purposes of paragraph 1, the determining authority shall take into account:
+
+(a) the general circumstances prevailing in the relevant part of the country of origin, including the accessibility, effectiveness and durability of the protection referred to in Article 7;
+
+(b) the personal circumstances of the applicant in relation to factors such as health, age, gender, including gender identity, sexual orientation, ethnic origin and membership of a national minority; and
+
+(c) whether the applicant would be able to cater for his or her own basic needs.
+
+6\. Where the applicant is an unaccompanied minor, the determining authority shall take into account the best interests of the minor and, in particular, the availability of sustainable and appropriate care and custodial arrangements.
+
+## CHAPTER III — QUALIFICATION FOR BEING A REFUGEE
+
+#### Article 9 — Acts of persecution
+
+1\. An act shall be regarded as an act of persecution within the meaning of Article 1(A) of the Geneva Convention where it is:
+
+(a) sufficiently serious by its nature or repetition as to constitute a severe violation of basic human rights, in particular the rights from which derogation cannot be made under Article 15(2) of the ECHR; or
+
+(b) an accumulation of various measures, including violations of human rights, which is sufficiently severe as to affect an individual in a similar manner to an act referred to in point (a).
+
+2\. Acts of persecution as qualified in paragraph 1 may, inter alia, take the form of:
+
+(a) acts of physical or mental violence, including acts of sexual violence;
+
+(b) legal, administrative, police or judicial measures which are in themselves discriminatory or which are implemented in a discriminatory manner;
+
+(c) prosecution or punishment which is disproportionate or discriminatory;
+
+(d) denial of judicial redress resulting in a disproportionate or discriminatory punishment;
+
+(e) prosecution or punishment for refusal to perform military service in a conflict, where performing military service would include crimes or acts falling within the scope of the grounds for exclusion as set out in Article 12(2);
+
+(f) acts of a gender-specific or child-specific nature.
+
+3\. For an applicant to meet the definition of ‘refugee’ as set out in Article 3, point (5), there shall be a connection between the reasons for persecution referred to in Article 10 and the acts of persecution as qualified in paragraph 1 of this Article or the absence of protection against such acts.
+
+#### Article 10 — Reasons for persecution
+
+1\. The following elements shall be taken into account when assessing the reasons for persecution:
+
+(a) the concept of race shall, in particular, include considerations of colour, descent, or membership of a particular ethnic group;
+
+(b) the concept of religion shall, in particular, include the holding of theistic, non-theistic and atheistic beliefs, the participation in, or abstention from, formal worship in private or in public, either alone or in community with others, other religious acts or expressions of view, or forms of personal or communal conduct based on or mandated by any religious belief;
+
+(c) the concept of nationality shall not be confined to citizenship or lack thereof but shall, in particular, include membership of a group determined by its cultural, ethnic, or linguistic identity, common geographical or political origins or its relationship with the population of another State;
+
+(d) the concept of membership of a particular social group shall include, in particular, membership of a group:
+
+(i) whose members share or are perceived to share an innate characteristic or a common background that cannot be changed, or a characteristic or belief that is so fundamental to identity or conscience that a person should not be forced to renounce it; and
+
+(ii) which has a distinct identity in the relevant country, because it is perceived as being different by the surrounding society;
+
+(e) the concept of political opinion shall, in particular, include the holding of an opinion, thought or belief on a matter related to the potential actors of persecution mentioned in Article 6 and to their policies or methods, whether or not that opinion, thought or belief has been acted upon by the applicant.
+
+Depending on the circumstances in the country of origin, the concept of membership of a particular social group as referred to in point (d) of the first subparagraph shall include membership of a group based on a common characteristic of sexual orientation. Gender related aspects, including gender identity and gender expression, shall be given due consideration for the purposes of determining membership of a particular social group or identifying a characteristic of such a group.
+
+2\. When assessing if an applicant has a well-founded fear of being persecuted, it is irrelevant whether the applicant actually possesses the racial, religious, national, social or political characteristic which attracts the persecution, provided that such a characteristic is attributed to the applicant by the actor of persecution.
+
+3\. When assessing if an applicant has a well-founded fear of being persecuted, the determining authority cannot reasonably expect that applicant to adapt or change his or her behaviour, convictions or identity, or to abstain from certain practices, where such behaviour, convictions or practices are inherent to his or her identity, to avoid the risk of persecution in his or her country of origin.
+
+#### Article 11 — Cessation
+
+1\. A third-country national or a stateless person shall cease to be a refugee where one or more of the following apply:
+
+(a) the third-country national has voluntarily re-availed himself or herself of the protection of the country of nationality;
+
+(b) having lost his or her nationality, the third-country national or stateless person has voluntarily re-acquired it;
+
+(c) the third-country national or stateless person has acquired a new nationality and enjoys the protection of the country of that new nationality;
+
+(d) the third-country national or stateless person has voluntarily re-established himself or herself in the country which he or she left or outside which he or she remained owing to a fear of being persecuted;
+
+(e) the third-country national can no longer, because the circumstances in connection with which he or she has been recognised as a refugee have ceased to exist, continue to refuse to avail himself or herself of the protection of the country of nationality;
+
+(f) the stateless person is able, because the circumstances in connection with which he or she has been recognised as a refugee have ceased to exist, to return to the country of former habitual residence.
+
+Points (e) and (f) of the first subparagraph shall not apply to a refugee who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself or herself of the protection of the country of nationality or, being a stateless person, of the country of former habitual residence.
+
+2\. In order to assess whether points (e) and (f) of paragraph 1, first subparagraph, apply, the determining authority shall:
+
+(a) take into account precise and up-to-date information obtained from relevant and available national, Union and international sources and, where available, the common analysis on the situation in specific countries of origin and the guidance notes referred to in Article 11 of Regulation (EU) 2021/2303;
+
+(b) have regard to whether the change of circumstances is of such a significant and non-temporary nature that the refugee’s fear of being persecuted can no longer be regarded as well-founded.
+
+#### Article 12 — Exclusion
+
+1\. A third-country national or a stateless person shall be excluded from being a refugee where that third-country national or stateless person:
+
+(a) falls within the scope of Article 1(D) of the Geneva Convention, relating to protection or assistance from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees; when such protection or assistance has ceased for any reason, without the position of that third-country national or stateless person being definitely settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, that third-country national or stateless person shall ipso facto be entitled to the benefits of this Regulation;
+
+(b) is recognised by the competent authorities of the country in which third-country national or stateless person has taken up residence as having the rights and obligations which are attached to the possession of the nationality of that country, or equivalent rights and obligations.
+
+2\. A third-country national or a stateless person shall be excluded from being a refugee where there are serious reasons for considering that that third-country national or stateless person:
+
+(a) has committed a crime against peace, a war crime or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+
+(b) has committed a serious non-political crime outside the country of refuge prior to that third-country national or stateless person’s admission as a refugee, which means the time of granting refugee status; particularly cruel actions, even if committed with an allegedly political objective, may be classified as serious non-political crimes;
+
+(c) has been guilty of acts contrary to the purposes and principles of the United Nations as set out in the Preamble to and Articles 1 and 2 of the Charter of the United Nations.
+
+3\. Paragraph 2 shall apply to persons who incite or otherwise participate in the commission of the crimes or acts referred to therein.
+
+4\. Once the determining authority has established, based on an assessment of the seriousness of the crimes or acts committed by the person concerned and of that person’s individual responsibility, taking into account all the circumstances surrounding those crimes or acts and the situation of that person, that one or more of the relevant exclusion grounds laid down in paragraph 2 or 3 apply, the determining authority shall exclude the applicant from refugee status without performing a proportionality assessment linked to the fear of being persecuted.
+
+5\. As part of the assessment referred to in paragraph 4, when carrying out an examination under paragraphs 2 and 3 in relation to a minor, the determining authority shall take into account, inter alia, the minor’s capacity to be considered responsible under criminal law had the minor committed the crime on the territory of the Member State examining the application for international protection in accordance with national law on the age of criminal responsibility.
+
+## CHAPTER IV — REFUGEE STATUS
+
+#### Article 13 — Granting of refugee status
+
+The determining authority shall grant refugee status to a third-country national or a stateless person who qualifies as a refugee in accordance with Chapters II and III.
+
+#### Article 14 — Withdrawal of refugee status
+
+1\. The determining authority shall withdraw the refugee status of a third-country national or stateless person where:
+
+(a) that third-country national or stateless person has ceased to be a refugee in accordance with Article 11;
+
+(b) that third-country national or stateless person should have been or is excluded from being a refugee in accordance with Article 12;
+
+(c) that third-country national or stateless person’s misrepresentation of facts, including the use of false documents, or omission of facts was decisive for the granting of refugee status;
+
+(d) there are reasonable grounds for regarding that third-country national or stateless person as a danger to the security of the Member State in which that third-country national or stateless person is present;
+
+(e) that third-country national or stateless person is convicted by a final judgment of a particularly serious crime and constitutes a danger to the community of the Member State in which that third-country national or stateless person is present;
+
+2\. In situations in which points (d) and (e) of paragraph 1 apply, the determining authority may decide not to grant refugee status where a decision on the application for international protection has not yet been taken.
+
+3\. Persons to whom points (d) and (e) of paragraph 1 or paragraph 2 of this Article apply shall be entitled to the rights set out in, or similar to those set out in, Articles 3, 4, 16, 22, 31, 32 and 33 of the Geneva Convention provided that they are present in the Member State.
+
+4\. The determining authority which granted refugee status shall, on an individual basis, demonstrate that the beneficiary of the refugee status has ceased to be a refugee, or should have never been granted refugee status or should no longer be a beneficiary of refugee status for the reasons set out in paragraph 1 of this Article. During the withdrawal procedure, Article 66 of Regulation (EU) 2024/1348 shall apply.
+
+## CHAPTER V — QUALIFICATION FOR SUBSIDIARY PROTECTION
+
+#### Article 15 — Serious harm
+
+Serious harm as referred to in Article 3(6) consists of:
+
+(a) the death penalty or execution;
+
+(b) torture or inhuman or degrading treatment or punishment of an applicant in the country of origin; or
+
+(c) a serious and individual threat to a civilian’s life or person by reason of indiscriminate violence in situations of international or internal armed conflict.
+
+#### Article 16 — Cessation
+
+1\. A beneficiary of subsidiary protection status shall cease to be eligible for subsidiary protection when the circumstances which led to the granting of that status have ceased to exist or have changed to such a degree that protection is no longer required.
+
+2\. In order to assess whether the circumstances which led to the granting of subsidiary protection status have ceased to exist or have changed to such a degree that protection is no longer required, the determining authority shall:
+
+(a) take into account precise and up-to-date information obtained from relevant and available national, Union and international sources and, where available, the common analysis on the situation in specific countries of origin and the guidance notes referred to in Article 11 of Regulation (EU) 2021/2303;
+
+(b) have regard to whether the change in circumstances is of such a significant and non-temporary nature that the beneficiary of subsidiary protection status no longer faces a real risk of serious harm.
+
+3\. Paragraph 1 shall not apply to a beneficiary of subsidiary protection status who is able to invoke compelling reasons arising out of previous serious harm for refusing to avail himself or herself of the protection of the country of nationality or, being a stateless person, of the country of former habitual residence.
+
+#### Article 17 — Exclusion
+
+1\. A third-country national or a stateless person shall be excluded from being eligible for subsidiary protection where there are serious reasons for considering that that third-country national or stateless person:
+
+(a) has committed a crime against peace, a war crime or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+
+(b) has committed a serious crime prior to arriving on the territory of the Member State or has been convicted for a serious crime after arrival;
+
+(c) has been guilty of acts contrary to the purposes and principles of the United Nations as set out in the Preamble to and Articles 1 and 2 of the Charter of the United Nations;
+
+(d) constitutes a danger to the community or to national security.
+
+2\. Paragraph 1 shall apply to persons who incite or otherwise participate in the commission of the crimes or acts referred to therein.
+
+3\. A third-country national or a stateless person may be excluded from being eligible for subsidiary protection where that third-country national or stateless person, prior to being admitted to the Member State concerned, has committed one or more crimes outside the scope of points (a), (b) and (c) of paragraph 1 which would be punishable by imprisonment had they been committed in the Member State concerned, and if that third-country national or stateless person left the country of origin solely in order to avoid sanctions resulting from those crimes.
+
+4\. Once the determining authority has established, based on an assessment of the seriousness of the crimes or acts committed by the person concerned and of that person’s individual responsibility, taking into account all the circumstances surrounding those crimes or acts and the situation of that person, that one or more of the relevant exclusion grounds laid down in paragraph 1 or 2 apply, the determining authority shall exclude the applicant from subsidiary protection status without performing a proportionality assessment linked to the fear of serious harm.
+
+5\. As part of the assessment referred to in paragraph 4, when carrying out an examination under paragraphs 1 in relation to a minor, the determining authority shall take into account, inter alia, the minor’s capacity to be considered responsible under criminal law had the minor committed the crime on the territory of the Member State examining the application for international protection in accordance with national law on the age of criminal responsibility or, where applicable, a conviction for a serious crime after the minor’s arrival.
+
+## CHAPTER VI — SUBSIDIARY PROTECTION STATUS
+
+#### Article 18 — Granting of subsidiary protection status
+
+The determining authority shall grant subsidiary protection status to a third-country national or a stateless person who is eligible for subsidiary protection in accordance with Chapters II and V.
+
+#### Article 19 — Withdrawal of subsidiary protection status
+
+1\. The determining authority shall withdraw the subsidiary protection status of a third-country national or a stateless person where:
+
+(a) that third-country national or stateless person has ceased to be eligible for subsidiary protection in accordance with Article 16;
+
+(b) after having been granted subsidiary protection status, that third-country national or stateless person should have been or is excluded from being eligible for subsidiary protection in accordance with Article 17;
+
+(c) that third-country national or stateless person’s misrepresentation of facts, including the use of false documents, or omission of facts was decisive for the granting of subsidiary protection status.
+
+2\. The determining authority which granted subsidiary protection status shall, on an individual basis, demonstrate that the beneficiary of the subsidiary protection status has ceased to be eligible for subsidiary protection, or should have never been granted subsidiary protection status, or should no longer be a beneficiary of subsidiary protection status for the reasons set out in paragraph 1of this Article. During the withdrawal procedure, Article 66 of Regulation (EU) 2024/1348 shall apply.
+
+## CHAPTER VII — CONTENT OF INTERNATIONAL PROTECTION RIGHTS AND OBLIGATIONS OF BENEFICIARIES OF INTERNATIONAL PROTECTION
+
+### SECTION I — Common provisions
+
+#### Article 20 — General rules
+
+1\. Without prejudice to the rights and obligations laid down in the Geneva Convention, beneficiaries of international protection shall have the rights and obligations laid down in this Chapter.
+
+2\. Beneficiaries of international protection shall have access to rights provided in accordance with this Chapter once international protection is granted and for as long as refugee status or subsidiary protection status is held.
+
+3\. Where a residence permit is not issued to a beneficiary of international protection within 15 days of the granting of international protection, the Member State concerned shall take provisional measures, such as registration or the issuance of a document, to ensure that the beneficiary has effective access to the rights laid down in this Chapter, with the exception of those laid down in Articles 25 and 27, until such time as a residence permit is issued in accordance with Article 24.
+
+4\. When applying this Chapter, and where it is established that a person has special needs due to being, for example, a minor, an unaccompanied minor, a person with a disability, an elderly person, a pregnant woman, a single parent with a minor or an adult dependent child, a victim of trafficking in human beings, a person with a serious illness, a person with a mental disorder or a person who has been subjected to torture, rape or other serious forms of psychological, physical or sexual violence, the competent authorities shall take into account those special needs.
+
+5\. When applying the provisions of this Chapter that concern minors, the best interests of the child shall be a primary consideration for competent authorities.
+
+#### Article 21 — Protection from refoulement
+
+The principle of non-refoulement shall be respected in accordance with Union and international law.
+
+#### Article 22 — Information
+
+Competent authorities shall provide beneficiaries of international protection with information on the rights and obligations relating to refugee status or subsidiary protection status as soon as possible after such protection has been granted. That information, as specified in Annex I, shall:
+
+(a) be provided in a language that the beneficiary can understand or is reasonably supposed to understand; and
+
+(b) make explicit references to the consequences of not complying with the obligations provided for in Article 27 on movement within the Union.
+
+#### Article 23 — Maintaining family unity
+
+1\. The competent authorities of the Member State that granted international protection to a beneficiary of international protection shall issue, in accordance with national procedures, residence permits to the family members of that beneficiary of international protection who do not individually qualify for international protection and who apply for a residence permit in that Member State, where paragraph 3, 4 or 5 of this Article do not apply and in so far as it is compatible with the personal legal status of the family member.
+
+2\. A residence permit issued pursuant to paragraph 1 shall have the same date of expiry as the residence permit issued to the beneficiary of international protection and shall be renewable for as long as the residence permit issued to the beneficiary of international protection is renewed. The period of validity of the residence permit issued to the family member shall not extend beyond the date of expiry of the residence permit held by the beneficiary of international protection.
+
+3\. No residence permit shall be issued under this Regulation to a family member who is or would be excluded from international protection pursuant to Chapters III and V.
+
+4\. A residence permit shall not be issued under this Regulation to a spouse or unmarried partner in a stable relationship where there are strong indications that the marriage or partnership was contracted for the sole purpose of enabling the person concerned to enter or reside in the Member State concerned.
+
+5\. Where reasons of national security or public policy related to the family member concerned so require, a residence permit shall not be issued to that family member, and such residence permits which have already been issued shall be withdrawn or shall not be renewed.
+
+6\. Family members who have been issued a residence permit pursuant to paragraph 1 of this Article shall be entitled to the rights laid down in Articles 25 to 32, 34 and 35.
+
+7\. Member States may apply this Article to other close relatives, including siblings, who lived together as part of the family before the applicant arrived on the territory of the Member State and who are dependent on the beneficiary of international protection. Member States may apply this Article to a married minor, provided that it is in the best interests of that minor.
+
+### SECTION II — Rights and obligations related to residence and stay
+
+#### Article 24 — Residence permits
+
+1\. Beneficiaries of international protection shall have the right to a residence permit for as long as they hold refugee status or subsidiary protection status.
+
+2\. A residence permit shall be issued as soon as possible after refugee status or subsidiary protection status has been granted, and at the latest 90 days from the notification of the decision to grant international protection, using the uniform format laid down in Regulation (EC) No 1030/2002.
+
+3\. A residence permit shall be issued free of charge or for a fee not exceeding the fee payable by nationals of the Member State concerned for the issuing of identity cards.
+
+4\. A residence permit shall have an initial period of validity of at least three years for beneficiaries of refugee status and at least one year for beneficiaries of subsidiary protection status.
+
+On expiry, residence permits shall be renewed for at least three years for beneficiaries of refugee status and for at least two years for beneficiaries of subsidiary protection status.
+
+The renewal of residence permits shall be organised in such a way as to ensure continuity of the period of permitted residence, with no interruption between the period covered by the lapsing of the permit and the renewed permit, provided that the beneficiary of international protection acts in accordance with relevant national law providing for the administrative formalities for renewal.
+
+5\. The competent authorities may revoke or refuse to renew a residence permit only where they have withdrawn refugee status in accordance with Article 14 or subsidiary protection status in accordance with Article 19.
+
+#### Article 25 — Travel document
+
+1\. Unless compelling reasons of national security or public policy related to a beneficiary of refugee status require otherwise, competent authorities shall issue travel documents in the form set out in the Schedule to the Geneva Convention and which comply with the minimum standards for security features and biometrics outlined in Regulation (EC) No 2252/2004 to beneficiaries of refugee status. Such travel documents shall be valid for more than one year.
+
+2\. Unless compelling reasons of national security or public policy related to a beneficiary of subsidiary protection require otherwise, competent authorities shall issue travel documents which comply with the minimum standards for security features and biometrics outlined in Regulation (EC) No 2252/2004 to beneficiaries of subsidiary protection status who are unable to obtain or renew a national passport. Such travel documents shall be valid for more than one year.
+
+3\. In the exercise of their obligations pursuant to paragraphs 1 and 2 of this Article, the competent authorities of Member States which do not take part in the Schengen acquis shall issue travel documents in the form set out in the Schedule to the Geneva Convention and which comply with minimum standards for security features and biometrics equivalent to those outlined in Regulation (EC) No 2252/2004 to beneficiaries of refugee status, taking into account the specifications of the International Civil Aviation Organisation, in particular those set out in Document 9303 on machine readable travel documents.
+
+In the exercise of their obligations pursuant to paragraphs 1 and 2 of this Article, the competent authorities of Member States which do not take part in the Schengen acquis shall issue travel documents that comply with minimum standards for security features and biometrics equivalent to those outlined in Regulation (EC) No 2252/2004 to beneficiaries of subsidiary protection status who are unable to obtain or renew a national passport, taking into account the specifications of the International Civil Aviation Organisation, in particular those set out in Document 9303 on machine readable travel documents.
+
+#### Article 26 — Freedom of movement within the Member State
+
+Beneficiaries of international protection shall enjoy freedom of movement within the territory of the Member State that granted them international protection, including the right to choose their place of residence in that territory, under the same conditions and restrictions as those provided for other third-country nationals legally resident in the territory of that Member State who are generally in the same circumstances.
+
+#### Article 27 — Movement within the Union
+
+Beneficiaries of international protection shall not have the right to reside in a Member State other than the Member State that granted them international protection. This is without prejudice to their right to:
+
+(a) apply and be admitted to reside in another Member State pursuant to that Member State’s national law or pursuant to relevant provisions of Union law or of international agreements;
+
+(b) move freely in accordance with the conditions of Article 21 of the Convention implementing the Schengen Agreement.
+
+### SECTION III — Rights related to integration
+
+#### Article 28 — Access to employment
+
+1\. Beneficiaries of international protection shall have the right to engage in employed or self-employed activities subject to the rules generally applicable to the profession concerned or to the public service, immediately after protection has been granted.
+
+2\. Beneficiaries of international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection as regards:
+
+(a) terms of employment, including the minimum working age, and working conditions, including pay and dismissal, working hours, leave and holidays, and health and safety requirements at the workplace;
+
+(b) freedom of association and affiliation, and membership of an organisation representing workers or employers or of any organisation whose members are engaged in a specific occupation, including the rights and benefits conferred by such organisations;
+
+(c) employment-related educational opportunities for adults, vocational training, including training courses for upgrading skills and practical workplace experience;
+
+(d) information and counselling services offered by employment offices.
+
+3\. Where necessary, competent authorities shall facilitate full access to the activities referred to in points (c) and (d) of paragraph 2.
+
+#### Article 29 — Access to education
+
+1\. Minors granted international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection as regards access to the education system.
+
+Beneficiaries of international protection shall continue to enjoy equal treatment with nationals of the Member State that granted them international protection for the completion of secondary education irrespective of whether they reach the age of majority.
+
+2\. Adults granted international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection as regards access to the general education system, further training or retraining.
+
+Notwithstanding the first subparagraph, competent authorities may refuse grants and loans to adults granted international protection, where that possibility is provided for under national law.
+
+#### Article 30 — Access to procedures for recognition of qualifications and validation of skills
+
+1\. Beneficiaries of international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection in the context of the existing recognition procedures for foreign diplomas, certificates and other evidence of formal qualifications.
+
+2\. Without prejudice to Article 2(2) and Article 3(3) of Directive 2005/36/EC of the European Parliament and of the Council ( 2 ), competent authorities shall facilitate full access to the procedures referred to in paragraph 1 of this Article for beneficiaries of international protection who cannot provide documentary evidence of their qualifications.
+
+3\. Beneficiaries of international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection as regards access to appropriate schemes for the assessment, validation and recognition of their prior learning outcomes and experience.
+
+#### Article 31 — Social security and social assistance
+
+1\. Beneficiaries of international protection shall enjoy equal treatment with nationals of the Member State that granted them international protection as regards social security and social assistance.
+
+Access to certain forms of social assistance specified in national law may be made conditional on the effective participation of the beneficiary of international protection in integration measures, where participation in such measures is compulsory, provided that they are accessible and free of charge.
+
+2\. Notwithstanding paragraph 1, the provision of equal treatment as regards social assistance may be limited for beneficiaries of subsidiary protection status to core benefits, where that possibility is provided for under national law.
+
+Core benefits shall include at least the following:
+
+(a) minimum income support;
+
+(b) assistance in the case of illness or pregnancy;
+
+(c) parental assistance, including child-care assistance; and
+
+(d) housing benefits, in so far as those benefits are granted to nationals of the Member State concerned under national law.
+
+#### Article 32 — Healthcare
+
+1\. Beneficiaries of international protection shall have access to healthcare under the same eligibility conditions as nationals of the Member State that granted them international protection.
+
+2\. Beneficiaries of international protection who have special needs, such as pregnant women, persons with a disability, persons who have been subjected to torture, rape or other serious forms of psychological, physical or sexual violence or minors who have been victims of any form of abuse, neglect, exploitation, torture, or cruel, inhuman and degrading treatment, or who have suffered from armed conflict shall be provided with adequate healthcare, including treatment of mental disorders when needed, under the same eligibility conditions as nationals of the Member State that granted them international protection.
+
+#### Article 33 — Unaccompanied minors
+
+1\. As soon as possible after international protection is granted in respect of an unaccompanied minor, competent authorities shall take the necessary measures, under national law, to appoint a guardian.
+
+Competent authorities may keep the same person designated as [representative under Article 23(2), point (b), of Regulation (EU) 2024/1348 or under Article 27(1), point (b), of Directive (EU) 2024/1346 to act as the guardian, without the need for formal appointment.
+
+Representatives as referred to in Article 23(2), point (b), of Regulation (EU) 2024/1348 or Article 27(1), point (b), of Directive (EU) 2024/1346 shall remain responsible for unaccompanied minors until a guardian is appointed.
+
+Organisations or natural persons whose interests conflict or could potentially conflict with those of the unaccompanied minor shall not be eligible for appointment as the guardian of that minor.
+
+Where an organisation is appointed as guardian, it shall as soon as possible designate a natural person responsible for carrying out the duties of guardian in respect of the unaccompanied minor in accordance with this Regulation.
+
+2\. For the purposes of this Regulation, with a view to safeguarding the best interests of the child and the unaccompanied minor’s general well-being, the guardian shall:
+
+(a) ensure that the unaccompanied minor has access to all rights stemming from this Regulation;
+
+(b) assist and, where applicable, represent the unaccompanied minor in the event that the unaccompanied minor’s refugee status or subsidiary protection status is withdrawn; and
+
+(c) where applicable, assist in the tracing of family as provided for in paragraph 7.
+
+Guardians shall:
+
+(a) have the necessary expertise and receive initial and continuous appropriate training concerning the rights and needs of unaccompanied minors, including those relating to any applicable child safeguarding standards;
+
+(b) be bound by the confidentiality rules provided for in national law in relation to any information they obtain in the course of their work;
+
+(c) not have a verified record of child-related crimes and offences or of crimes and offences that lead to serious doubts about their ability to assume a role of responsibility with regard to children.
+
+3\. The competent authorities shall appoint each guardian to represent a proportionate and sufficiently limited number of unaccompanied minors in order to ensure that guardians are able to perform their tasks effectively and that unaccompanied minors have effective access to their rights and benefits.
+
+4\. In accordance with national law, Member States shall ensure that there are entities, including judicial authorities, or persons that are responsible for supervising and monitoring guardians on an ongoing basis in order to ensure that they perform their tasks in a satisfactory manner.
+
+Entities and persons as referred to in the first subparagraph shall review the performance of guardians, in particular where there are indications that guardians are not performing their tasks in a satisfactory manner. Such entities and persons shall examine, without delay, any complaints lodged by unaccompanied minors against their guardians.
+
+Where necessary, the competent authorities shall replace a person acting as a guardian, in particular where they consider that that person has not adequately performed his or her tasks.
+
+The competent authorities shall explain to unaccompanied minors, in an age-appropriate manner and in such a way as to ensure that the minors understand, how to lodge a complaint against their guardians in confidence and safety.
+
+5\. While taking into account the best interests of the child, the competent authorities shall place unaccompanied minors:
+
+(a) with an adult relative;
+
+(b) with a foster family;
+
+(c) in centres specialised in accommodation for minors; or
+
+(d) in other accommodation suitable for minors.
+
+The views of unaccompanied minors shall be taken into account in accordance with their age and degree of maturity.
+
+6\. As far as possible, siblings shall be kept together, taking into account the best interests of the unaccompanied minors concerned and, in particular, their age and degree of maturity. Changes of residence of unaccompanied minors shall be kept to a minimum.
+
+7\. Where the tracing of family members of an unaccompanied minor started before that minor was granted international protection, it shall continue after the granting of international protection. Where the tracing of family members has not already started, it shall start as soon as possible after the granting of refugee status or subsidiary protection status, provided that it is in the minor’s best interests.
+
+Where there might be a threat to the life or integrity of the minor or the minor’s close relatives, particularly if they have remained in the country of origin, care shall be taken to ensure that the collection, processing and circulation of information concerning those persons is undertaken on a confidential basis so as to avoid jeopardising their safety.
+
+#### Article 34 — Access to accommodation
+
+1\. Beneficiaries of international protection shall have access to accommodation under conditions at least equivalent to those applicable to other third-country nationals legally resident in the territory of the Member State that granted them international protection who are generally in the same circumstances.
+
+2\. National practices for the dispersal of beneficiaries of international protection shall ensure that beneficiaries of international protection are treated equally unless different treatment is objectively justified. Such national practices shall ensure equal opportunities regarding access to accommodation.
+
+#### Article 35 — Access to integration measures
+
+1\. In order to encourage and facilitate their integration into the society of the Member State that granted them international protection, beneficiaries of international protection shall have access to integration measures provided or facilitated by the Member State which take into account their specific needs and are considered appropriate by the competent authorities, in particular language courses, civic orientation, integration programmes and vocational training.
+
+2\. Beneficiaries of international protection shall participate in integration measures where participation is made compulsory in the Member State that granted them international protection. Such integration measures shall be accessible and free of charge.
+
+3\. By way of derogation from paragraph 2 of this Article and without prejudice to Article 31(1), second subparagraph, Member States may apply a fee for certain compulsory integration measures where the beneficiary of international protection has sufficient means and where such fees do not place an unreasonable burden on the beneficiary of international protection.
+
+4\. Competent authorities shall not apply sanctions against beneficiaries of international protection where they are unable to participate in integration measures due to circumstances beyond their control.
+
+#### Article 36 — Repatriation
+
+Assistance may be provided to beneficiaries of international protection who wish to be repatriated.
+
+## CHAPTER VIII — ADMINISTRATIVE COOPERATION
+
+#### Article 37 — Cooperation
+
+Each Member State shall appoint a national contact point for the purposes of this Regulation and communicate its address to the Commission. The Commission shall communicate that information to the other Member States.
+
+Member States shall, in liaison with the Commission, take all appropriate measures to establish direct cooperation and an exchange of information between the competent authorities.
+
+#### Article 38 — Staff
+
+Authorities and other organisations applying this Regulation shall have received or shall receive the necessary training and shall be bound by the principle of confidentiality in relation to any personal information they acquire in the performance of their duties, as laid down by national law.
+
+## CHAPTER IX — FINAL PROVISIONS
+
+#### Article 39 — Monitoring and evaluation
+
+By 13 June 2028 and every five years thereafter, the Commission shall report to the European Parliament and to the Council on the application of this Regulation and shall, where appropriate, propose necessary amendments.
+
+Nine months prior to the expiry of the relevant deadline as set out in the first paragraph, at the latest, Member States shall forward to the Commission all information appropriate for the preparation of the report referred to in that paragraph.
+
+#### Article 40 — Amendment to Directive 2003/109/EC
+
+Directive 2003/109/EC is amended as follows:
+
+(1) in Article 4(2), the third subparagraph is replaced by the following:
+
+‘Regarding persons to whom international protection has been granted, the period between the date of the lodging of the application for international protection on the basis of which that international protection was granted and the date of the granting of the residence permit referred to in Article 24 of Regulation (EU) 2024/1347 ( *1 ) shall be taken into account in the calculation of the period referred to in paragraph 1.
+
+(2) in Article 4, the following paragraph is inserted:
+
+‘3a. Where a beneficiary of international protection is found in a Member State other than the one that granted international protection, without a right to stay or to reside there in accordance with relevant national, Union or international law, the period of legal stay in the Member State that granted international protection preceding such a situation shall not be taken into account in the calculation of the period referred to in paragraph 1.
+
+By way of derogation from the first subparagraph, in particular where the beneficiary of international protection demonstrates that the reason for the stay or residence without a right was due to circumstances beyond that beneficiary’s control, Member States may provide, in accordance with their national law, that the calculation of the period referred to in paragraph 1 shall not be interrupted.’
+
+;
+
+(3) in Article 26, the first paragraph is replaced by the following:
+
+‘Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 23 January 2006 at the latest. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 4(2), third subparagraph, and (3a) by 12 June 2026. They shall immediately communicate the text of those measures to the Commission.’.
+
+#### Article 41 — Repeal
+
+Directive 2011/95/EU is repealed with effect from 12 June 2026. References to the repealed Directive shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.
+
+To the extent that Council Directive 2004/83/EC ( 3 ) continued to be binding upon Member States not bound by Directive 2011/95/EU, Directive 2004/83/EC is repealed with effect from the date on which those Member States are bound by this Regulation. References to the repealed Directive shall be construed as references to this Regulation.
+
+#### Article 42 — Entry into force and applicability
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall apply from 12 June 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I — Information to be provided to beneficiaries of international protection
+
+As soon as possible after the international protection has been granted, the following information shall be provided, as a minimum, to beneficiaries of international protection regarding the rights and obligations relating to their refugee status or subsidiary protection status. Where necessary, the information may be provided by different authorities, service providers or relevant contact points.
+
+I. Information on rights and obligations related to residence and stay:
+
+(a) right to a residence permit for beneficiaries of international protection (Article 24):
+
+— how and where to apply for a residence permit and information on the competent authority or a relevant contact point;
+
+(b) right to a residence permit for family members of beneficiaries of international protection (Article 23):
+
+— how and where to apply for a residence permit and information on the competent authority or a relevant contact point;
+
+— information on the rights to which family members who are issued a residence permit are entitled;
+
+(c) right to claim a travel document (Article 25):
+
+— how and where to apply for a travel document and information on the competent authority or a relevant contact point;
+
+(d) right to freedom of movement within the Member State and possible restrictions on that movement (Article 26):
+
+— where applicable, the requirement to take up residence or to register within a specific municipality and information on the competent authority or a relevant contact point;
+
+(e) right to freedom of movement within the Union (Article 27):
+
+— the obligation to reside in the Member State that granted international protection;
+
+— the right to move in the Schengen area and the conditions on the exercise of such a right as specified in Article 21 of the Convention implementing the Schengen Agreement and the right to apply and be admitted to reside in another Member State pursuant to that Member State's national law or pursuant to relevant provisions of Union law or of international agreements;
+
+— possible sanctions with regard to the calculation of years in accordance with Directive 2003/109/EC and the take back procedure under Regulation (EU) 2024/1351 where the beneficiary of international protection does not follow the relevant rules and overstays without permission in breach of the Convention implementing the Schengen Agreement or stays or resides in another Member State without permission.
+
+II. Information on rights related to integration:
+
+(a) right to access employment (Article 28):
+
+— administrative requirements for accessing employment or self-employed activities;
+
+— where applicable, the restrictions related to employment in the public service;
+
+— the relevant employment office or contact point for additional information;
+
+(b) right to access education for minors (Article 29(1)):
+
+— minimum age for compulsory schooling;
+
+— where applicable, administrative requirements for accessing the education system;
+
+(c) right to access the general education system for adults (Article 29(2)):
+
+— the requirements, including administrative requirements, for accessing the general education system;
+
+(d) right to access procedures for the recognition of qualifications and the validation of skills (Article 30):
+
+— competent national authorities or relevant contact points for the provision of information on regulated professions exercisable only after formal recognition of qualification and the administrative procedures to be carried out for such recognition;
+
+(e) information on appropriate schemes for assessing, validating and recognising prior learning outcomes and experience (Article 30(3)):
+
+— where applicable, information on such schemes and a relevant contact point for further information;
+
+(f) right to equal treatment with nationals as regards social security (Article 31):
+
+— a relevant contact point for further information;
+
+(g) right to social assistance (Article 31):
+
+— where applicable, the list of benefits which are not provided to beneficiaries of subsidiary protection;
+
+— a relevant contact point for further information;
+
+(h) right to healthcare under the same eligibility conditions as nationals (Article 32):
+
+— general information on the conditions for access to healthcare;
+
+— where applicable, a contact point for services available to victims of abuse, exploitation, torture or cruel, inhuman and degrading treatment;
+
+(i) right to access accommodation under conditions equivalent to those applicable to other third country nationals legally residing in the Member State (Article 34):
+
+— where applicable, basic information on available social housing schemes;
+
+— where applicable, residency requirements in the framework of dispersal practices;
+
+— a competent authority or a relevant contact point for further information;
+
+(j) right to access integration measures considered appropriate, subject to compulsory participation where applicable (Article 35):
+
+— where applicable, information on compulsory integration measures;
+
+— a relevant contact point for further information.
+
+III. Information on specific rights for unaccompanied minors (Article 33):
+
+— information on the right to a guardian and the guardian’s duties;
+
+— the details for lodging a complaint against a guardian.
+
+## ANNEX II — Correlation Table
+
+<table>
+<tbody><tr><td>Directive 2011/95/EU</td><td>This Regulation</td></tr>
+<tr><td>Article 1</td><td>Article 1</td></tr>
+<tr><td>Article 2, point (a)</td><td>Article 3, point (3)</td></tr>
+<tr><td>Article 2, point (b)</td><td>Article 3, point (4)</td></tr>
+<tr><td>Article 2, point (c)</td><td>—</td></tr>
+<tr><td>Article 2, point (d)</td><td>Article 3, point (5)</td></tr>
+<tr><td>Article 2, point (e)</td><td>Article 3, point (1)</td></tr>
+<tr><td>Article 2, point (f)</td><td>Article 3, point (6)</td></tr>
+<tr><td>Article 2, point (g)</td><td>Article 3, point (2)</td></tr>
+<tr><td>Article 2, point (h)</td><td>Article 3, point (7)</td></tr>
+<tr><td>Article 2, point (i)</td><td>Article 3, point (8)</td></tr>
+<tr><td>Article 2, point (j), introductory wording</td><td>Article 3, point (9), introductory wording</td></tr>
+<tr><td>Article 2 point (j), first indent</td><td>Article 3, point (9)(a)</td></tr>
+<tr><td>Article 2 point (j), second indent</td><td>Article 3, point (9)(b)</td></tr>
+<tr><td>Article 2 point (j), third indent</td><td>Article 3, point (9)(c)</td></tr>
+<tr><td>Article 2, point (k)</td><td>Article 3, point (10)</td></tr>
+<tr><td>Article 2, point (l)</td><td>Article 3, point (11)</td></tr>
+<tr><td>Article 2, point (m)</td><td>Article 3, point (12)</td></tr>
+<tr><td>Article 2, point (n)</td><td>Article 3, point (13)</td></tr>
+<tr><td>—</td><td>Article 3, points (14), (15), (16), (17) and (18)</td></tr>
+<tr><td>Article 3</td><td>—</td></tr>
+<tr><td>Article 4(1) and (2)</td><td>Article 4(1) and (2)</td></tr>
+<tr><td>—</td><td>Article 4(3)</td></tr>
+<tr><td>Article 4(3), points (a) to (e)</td><td>– ()</td></tr>
+<tr><td>Article 4(4) and (5)</td><td>Article 4(4) and (5)</td></tr>
+<tr><td>Article 5</td><td>Article 5</td></tr>
+<tr><td>Article 6</td><td>Article 6</td></tr>
+<tr><td>Article 7</td><td>Article 7</td></tr>
+<tr><td>Article 8(1)</td><td>Article 8(1)</td></tr>
+<tr><td>—</td><td>Article 8(2) and (3)</td></tr>
+<tr><td>Article 8(2)</td><td>Article 8(4)</td></tr>
+<tr><td>—</td><td>Article 8(5) and (6)</td></tr>
+<tr><td>Article 9</td><td>Article 9</td></tr>
+<tr><td>Article 10(1) and (2)</td><td>Article 10(1) and (2)</td></tr>
+<tr><td>—</td><td>Article 10(3)</td></tr>
+<tr><td>Article 11(1)</td><td>Article 11(1), first subparagraph</td></tr>
+<tr><td>Article 11(2)</td><td>Article 11(2), points (a) and (b)</td></tr>
+<tr><td>Article 11(3)</td><td>—</td></tr>
+<tr><td>Article 12(1)</td><td>Article 12(1)</td></tr>
+<tr><td>Article 12(2), points (a), (b) and (c)</td><td>Article 12(2), points (a), (b) and (c)</td></tr>
+<tr><td>Article 12(3)</td><td>Article 12(3)</td></tr>
+<tr><td>—</td><td>Article 12(4) and (5)</td></tr>
+<tr><td>Article 13</td><td>Article 13</td></tr>
+<tr><td>Article 14(1)</td><td>Article 14(1), point (a)</td></tr>
+<tr><td>Article 14(2)</td><td>Article 14(4)</td></tr>
+<tr><td>Article 14(3), point (a)</td><td>Articles 14(1), point (b)</td></tr>
+<tr><td>Article 14(3), point (b)</td><td>Article 14(1), point (c)</td></tr>
+<tr><td>Article 14(4), point (a)</td><td>Article 14(1), point (d)</td></tr>
+<tr><td>Article 14(4), point (b)</td><td>Article 14(1), point (e)</td></tr>
+<tr><td>Article 14(5)</td><td>Article 14(2)</td></tr>
+<tr><td>Article 14(6)</td><td>Article 14(3)</td></tr>
+<tr><td>—</td><td>Article 14(4)</td></tr>
+<tr><td>Article 15</td><td>Article 15</td></tr>
+<tr><td>Article 16(1)</td><td>Article 16(1)</td></tr>
+<tr><td>Article 16(2)</td><td>Article 16(2), points (a) and (b)</td></tr>
+<tr><td>Article 16(3)</td><td>Article 16(3)</td></tr>
+<tr><td>Article 17(1), points (a), (b), (c) and (d)</td><td>Article 17(1), points (a), (b), (c) and (d)</td></tr>
+<tr><td>Article 17(2)</td><td>Article 17(2)</td></tr>
+<tr><td>Article 17(3)</td><td>Article 17(3)</td></tr>
+<tr><td>—</td><td>Article 17(4) and (5)</td></tr>
+<tr><td>Article 18</td><td>Article 18</td></tr>
+<tr><td>Article 19(1)</td><td>Article 19(1), point (a)</td></tr>
+<tr><td>Article 19(2)</td><td>Article 19(1), point (b)</td></tr>
+<tr><td>Article 19(3), point (a)</td><td>Article 19(1), point (b)</td></tr>
+<tr><td>Article 19(3), point (b)</td><td>Article 19(1), point (c)</td></tr>
+<tr><td>Article 19(4)</td><td>Article 19(2)</td></tr>
+<tr><td>Article 21</td><td>Article 21</td></tr>
+<tr><td>Article 20(1)</td><td>Article 20(1)</td></tr>
+<tr><td>Article 22</td><td>Article 20(2)</td></tr>
+<tr><td>Article 20(3)</td><td>Article 20(4)</td></tr>
+<tr><td>Article 20(4)</td><td>Article 20(4)</td></tr>
+<tr><td>Article 20(5)</td><td>Article 20(5)</td></tr>
+<tr><td>Article 21(1)</td><td>Article 21</td></tr>
+<tr><td>Article 21(2)</td><td>—</td></tr>
+<tr><td>Article 21(3)</td><td>—</td></tr>
+<tr><td>Article 22</td><td>Article 22</td></tr>
+<tr><td>Article 23(1)</td><td>—</td></tr>
+<tr><td>Article 23(2)</td><td>Article 23(1) and (4)</td></tr>
+<tr><td>—</td><td>Article 23(2)</td></tr>
+<tr><td>Article 23(3)</td><td>Article 23(3)</td></tr>
+<tr><td>Article 23(4)</td><td>Articles 23(5)</td></tr>
+<tr><td>Article 23(5)</td><td>Article 23(7)</td></tr>
+<tr><td>Article 24(1), first subparagraph</td><td>Article 24(2)</td></tr>
+<tr><td>Article 24(2)</td><td>Article 26(4), second subparagraph</td></tr>
+<tr><td>Article 25</td><td>Article 25</td></tr>
+<tr><td>Article 26(1)</td><td>Article 28(1)</td></tr>
+<tr><td>Article 26(2)</td><td>Article 28(2), points (c) and (d)</td></tr>
+<tr><td>Article 26(3)</td><td>Article 28(3)</td></tr>
+<tr><td>Article 26(4)</td><td>Article 31</td></tr>
+<tr><td>Article 27</td><td>Article 29</td></tr>
+<tr><td>Article 28(1) and (2)</td><td>Article 30(1) and (2)</td></tr>
+<tr><td>—</td><td>Article 30(3)</td></tr>
+<tr><td>Article 29(1)</td><td>Article 31(1), first subparagraph</td></tr>
+<tr><td>—</td><td>Article 31(1), second subparagraph</td></tr>
+<tr><td>Article 29(2)</td><td>Article 31(2)</td></tr>
+<tr><td>Article 30</td><td>Article 32</td></tr>
+<tr><td>Article 31(1)</td><td>Article 33(1), first subparagraph</td></tr>
+<tr><td>—</td><td>Article 33(1), second subparagraph</td></tr>
+<tr><td>Article 31(2), (3), (4), (5) and (6)</td><td>Article 33(2), (3), (4), (5), (6) and (7)</td></tr>
+<tr><td>Article 32</td><td>Article 34</td></tr>
+<tr><td>Article 33</td><td>Article 26</td></tr>
+<tr><td>Article 34</td><td>Article 35(1)</td></tr>
+<tr><td>—</td><td>Article 35(2)</td></tr>
+<tr><td>Article 35</td><td>Article 36</td></tr>
+<tr><td>Article 36</td><td>Article 37</td></tr>
+<tr><td>Article 37</td><td>Article 38</td></tr>
+<tr><td>Article 38</td><td>Article 39</td></tr>
+<tr><td>Article 39</td><td>—</td></tr>
+<tr><td>—</td><td>Article 40</td></tr>
+<tr><td>Article 40</td><td>Article 41</td></tr>
+<tr><td>Article 41</td><td>Article 42</td></tr>
+<tr><td>Article 42</td><td>—</td></tr>
+<tr><td colspan="2">(1)  See Article 33(2) of Regulation (EU) 2024/1348. </td></tr>
+</tbody>
+</table>
+
+( ) Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (OJ L 166, 30.4.2004, p. 1).
+
+( ) Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255, 30.9.2005, p. 22).
+
+( *1 ) Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Council Directive 2011/95/EU of the European Parliament and of the Council (OJ L, 2024/1347, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1347/oj).’;
+
+( ) Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted (OJ L 304, 30.9.2004, p. 12).

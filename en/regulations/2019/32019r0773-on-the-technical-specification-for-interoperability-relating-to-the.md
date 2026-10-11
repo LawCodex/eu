@@ -1,0 +1,4676 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/773 of 16 May 2019 on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision (Text with EEA relevance.)"
+identifier: "32019R0773"
+eli: "http://data.europa.eu/eli/reg_impl/2019/773/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-05-16
+entry_into_force: 2019-10-20
+last_amended: 2025-03-31
+consolidated_version: "02019R0773-20250331"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0773-20250331"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/773 of 16 May 2019 on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision (Text with EEA relevance.)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/773**
+
+**of 16 May 2019**
+
+**on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision 2012/757/EU**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/778 of 12 June 2020 </td><td> L 188</td><td>4</td><td>15.6.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/2238 of 15 December 2021 </td><td> L 450</td><td>57</td><td>16.12.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1693 of 10 August 2023 </td><td> L 222</td><td>1</td><td>8.9.2023</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/458 of 10 March 2025 </td><td> L 458</td><td>1</td><td>11.3.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/773**
+
+**of 16 May 2019**
+
+**on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision 2012/757/EU**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+This Regulation lays down the technical specification for interoperability (TSI) relating to the operation and traffic management subsystem of Union rail system, as set out in the Annex.
+
+The TSI set out in the Annex shall apply to the operation and traffic management subsystem set out in point 2.5 of Annex II to Directive (EU) 2016/797.
+
+## Article 2
+
+Member States shall notify the following types of agreement to the Commission by 1 January 2020, where they have not already been notified pursuant to Commission Decisions 2006/920/EC ( 1 ), 2008/231/EC ( 2 ), 2011/314/EU ( 3 ) or 2012/757/EU:
+
+(a) bilateral or multilateral agreements between railway undertakings, infrastructure managers or safety authorities that deliver significant levels of local or regional interoperability;
+
+(b) international agreements between one or more Member States and at least one third country, or between Member State(s') railway undertakings or infrastructure managers and at least one railway undertaking or infrastructure manager of a third country, that deliver significant levels of local or regional interoperability.
+
+## Article 3
+
+The conditions to be complied with for verifying the interoperability pursuant to Article 13 of Directive (EU) 2016/797 shall be as set out in the national rules applicable in the Member State where the operation takes place, in the following situations:
+
+(a) in the specific situations referred to in point 7.2 of the Annex to this Regulation;
+
+(b) with regard to the topics listed as open points and areas for national rules referred to in Appendix I to that Annex.
+
+## Article 4
+
+By 1 July 2019 at the latest, the Agency shall publish a guide on the application of the operation and traffic management subsystem (application guide). The Agency shall keep the application guide up to date.
+
+## Article 5
+
+Decision 2012/757/EU is repealed with effect from 16 June 2021.
+
+However, Appendix A and C of the Annex to Decision 2012/757/EU may continue to apply by 16 June 2024 at the latest.
+
+## Article 5a
+
+By 28 March 2024, each Member State shall notify to the Commission and the Agency any national rules made redundant by the entry into force of Commission Implementing Regulation (EU) 2023/1693 ( 4 ), together with a timetable for their withdrawal if not yet done.
+
+## Article 5b
+
+By 28 June 2024, railway undertakings and infrastructure managers shall change their safety management system as defined in Article 9 of Directive (EU) 2016/798 in accordance with the requirements laid down in the Annex to this Regulation. Such changes, if limited to those strictly necessary to apply this Regulation, as amended, shall not be considered to be substantial changes to the safety regulatory framework within the meaning of Article 10(15) of Directive (EU) 2016/798.
+
+## Article 6
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 16 June 2021.
+
+However, Sections 4.2.2.1.3.2 and 4.4 of the Annex shall apply from 16 June 2019.
+
+Section 4.2.2.5 and Appendix D1 of the Annex to this Regulation shall apply from 16 June 2019 in the Member States that have not notified the Agency and the Commission in accordance with Article 57(2) of Directive (EU) 2016/797.
+
+Section 4.2.2.5 and Appendix D1 of the Annex to this Regulation shall apply from 16 June 2020 in the Member States that have notified the Agency and the Commission in accordance with Article 57(2) of Directive (EU) 2016/797 and that have not notified the Agency and the Commission in accordance with Article 57(2a) of Directive (EU) 2016/797.
+
+Section 4.2.2.5 and Appendix D1 of the Annex to this Regulation shall apply from 31 October 2020 in the Member States that have notified the Agency and the Commission in accordance with Article 57(2a) of Directive (EU) 2016/797.
+
+Appendix A and C of the Annex to this regulation shall apply from 16 June 2024 at the latest.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>1.</td><td>Introduction</td></tr>
+<tr><td>1.1.</td><td>Technical scope</td></tr>
+<tr><td>1.2.</td><td>Geographical scope</td></tr>
+<tr><td>1.3.</td><td>Content</td></tr>
+<tr><td>2.</td><td>Description of scope</td></tr>
+<tr><td>3.</td><td>Essential requirements</td></tr>
+<tr><td>3.1.</td><td>Compliance with the essential requirements</td></tr>
+<tr><td>3.2.</td><td>Essential requirements — overview</td></tr>
+<tr><td>4.</td><td>Characteristics of the subsystem</td></tr>
+<tr><td>4.1.</td><td>Introduction</td></tr>
+<tr><td>4.2.</td><td>Functional and technical specifications of the subsystem</td></tr>
+<tr><td>4.2.1.</td><td>Specifications relating to staff</td></tr>
+<tr><td>4.2.1.1.</td><td>General requirements</td></tr>
+<tr><td>4.2.1.2.</td><td>Information exchange between IMs and RUs, including information for staff executing safety-critical tasks</td></tr>
+<tr><td>4.2.1.2.1.</td><td>Rule Book</td></tr>
+<tr><td>4.2.1.2.2.</td><td>Route Book</td></tr>
+<tr><td>4.2.1.2.3.</td><td>Train running information for drivers</td></tr>
+<tr><td>4.2.1.2.4.</td><td>Informing the driver in real time during train operation</td></tr>
+<tr><td>4.2.1.3.</td><td>Not used</td></tr>
+<tr><td>4.2.1.4.</td><td>Not used</td></tr>
+<tr><td>4.2.1.5.</td><td>Safety-related communications between train crew, other railway undertaking staff and staff authorising train movements</td></tr>
+<tr><td>4.2.2.</td><td>Specifications relating to trains</td></tr>
+<tr><td>4.2.2.1.</td><td>Train visibility</td></tr>
+<tr><td>4.2.2.1.1.</td><td>General requirement</td></tr>
+<tr><td>4.2.2.1.2.</td><td>Front-end</td></tr>
+<tr><td>4.2.2.1.3.</td><td>Rear end</td></tr>
+<tr><td>4.2.2.1.3.1.</td><td>Passenger trains</td></tr>
+<tr><td>4.2.2.1.3.2.</td><td>Freight trains</td></tr>
+<tr><td>4.2.2.2.</td><td>Train audibility</td></tr>
+<tr><td>4.2.2.2.1.</td><td>General requirement</td></tr>
+<tr><td>4.2.2.2.2.</td><td>Control</td></tr>
+<tr><td>4.2.2.3.</td><td>Vehicle identification</td></tr>
+<tr><td>4.2.2.4.</td><td>Safety of passengers and load</td></tr>
+<tr><td>4.2.2.4.1.</td><td>Safety of load</td></tr>
+<tr><td>4.2.2.4.2.</td><td>Safety of passengers</td></tr>
+<tr><td>4.2.2.5.</td><td>Route compatibility and train composition</td></tr>
+<tr><td>4.2.2.5.1.</td><td>Route compatibility</td></tr>
+<tr><td>4.2.2.5.2.</td><td>Train composition</td></tr>
+<tr><td>4.2.2.6.</td><td>Train braking</td></tr>
+<tr><td>4.2.2.6.1.</td><td>Minimum requirements of the braking system</td></tr>
+<tr><td>4.2.2.6.2.</td><td>Braking performance and maximum speed allowed</td></tr>
+<tr><td>4.2.2.7.</td><td>Ensuring that the train is in running order</td></tr>
+<tr><td>4.2.2.7.1.</td><td>General requirement</td></tr>
+<tr><td>4.2.2.7.2.</td><td>Pre-departure data</td></tr>
+<tr><td>4.2.2.8.</td><td>Requirements for signal and lineside marker sighting</td></tr>
+<tr><td>4.2.2.9.</td><td>Driver Vigilance</td></tr>
+<tr><td>4.2.3.</td><td>Specifications relating to train operations, including ERTMS based operation</td></tr>
+<tr><td>4.2.3.1.</td><td>Train planning and timetable</td></tr>
+<tr><td>4.2.3.2.</td><td>Identification of trains</td></tr>
+<tr><td>4.2.3.2.1.</td><td>Format of train running number</td></tr>
+<tr><td>4.2.3.3.</td><td>Train departure</td></tr>
+<tr><td>4.2.3.3.1.</td><td>Checks and tests before departure</td></tr>
+<tr><td>4.2.3.3.2.</td><td>Informing the infrastructure manager of the train's operational status</td></tr>
+<tr><td>4.2.3.4.</td><td>Traffic management</td></tr>
+<tr><td>4.2.3.4.1.</td><td>General requirements</td></tr>
+<tr><td>4.2.3.4.2.</td><td>Train reporting</td></tr>
+<tr><td>4.2.3.4.2.1.</td><td>Data required for train position reporting and predicted hand over time</td></tr>
+<tr><td>4.2.3.4.3.</td><td>Dangerous goods</td></tr>
+<tr><td>4.2.3.4.4.</td><td>Operational quality</td></tr>
+<tr><td>4.2.3.5.</td><td>Data recording</td></tr>
+<tr><td>4.2.3.5.1.</td><td>Recording of monitoring data outside the train</td></tr>
+<tr><td>4.2.3.5.2.</td><td>Recording of monitoring data on-board the train</td></tr>
+<tr><td>4.2.3.6.</td><td>Degraded operation</td></tr>
+<tr><td>4.2.3.6.1.</td><td>Advice to other users</td></tr>
+<tr><td>4.2.3.6.2.</td><td>Advice to train drivers</td></tr>
+<tr><td>4.2.3.6.3.</td><td>Contingency arrangements</td></tr>
+<tr><td>4.2.3.7.</td><td>Managing an emergency situation</td></tr>
+<tr><td>4.2.3.8.</td><td>Aid to train crew in the event of an incident or of a major rolling stock malfunction</td></tr>
+<tr><td>4.3.</td><td>Functional and technical specifications of the interfaces</td></tr>
+<tr><td>4.3.1.</td><td>Interfaces with the infrastructure TSI (INF TSI)</td></tr>
+<tr><td>4.3.2.</td><td>Interfaces with the control-command and signalling TSI (CCS TSI)</td></tr>
+<tr><td>4.3.3.</td><td>Interfaces with the rolling stock TSIs</td></tr>
+<tr><td>4.3.3.1.</td><td>Interfaces with the locomotives and passenger rolling stock TSI (LOC&PAS TSI)</td></tr>
+<tr><td>4.3.3.2.</td><td>Interfaces with the freight wagons TSI (WAG TSI)</td></tr>
+<tr><td>4.3.4.</td><td>Interfaces with the Energy TSI (ENE TSI)</td></tr>
+<tr><td>4.3.5.</td><td>Interfaces with the Safety in Railway Tunnels TSI (SRT TSI)</td></tr>
+<tr><td>4.3.6.</td><td>Interfaces with the Noise TSI (NOI TSI)</td></tr>
+<tr><td>4.3.7.</td><td>Interfaces with the Person with Reduced Mobility TSI (PRM TSI)</td></tr>
+<tr><td>4.4.</td><td>Operating rules</td></tr>
+<tr><td>4.4.1.</td><td>European Union railway system operational principles and rules</td></tr>
+<tr><td>4.4.2.</td><td>National rules</td></tr>
+<tr><td>4.4.3.</td><td>Acceptable Means of Compliance</td></tr>
+<tr><td>4.4.4.</td><td>Transition from application of national rules to implementation of this Regulation</td></tr>
+<tr><td>4.5.</td><td>Maintenance rules</td></tr>
+<tr><td>4.6.</td><td>Professional competences</td></tr>
+<tr><td>4.6.1.</td><td>Professional competence</td></tr>
+<tr><td>4.6.2.</td><td>Language competence</td></tr>
+<tr><td>4.6.2.1.</td><td>Principles</td></tr>
+<tr><td>4.6.2.2.</td><td>Level of knowledge</td></tr>
+<tr><td>4.6.3.</td><td>Initial and ongoing assessment of staff</td></tr>
+<tr><td>4.6.3.1.</td><td>Basic elements</td></tr>
+<tr><td>4.6.3.2.</td><td>Analysis and update of training needs</td></tr>
+<tr><td>4.6.4.</td><td>Auxiliary staff</td></tr>
+<tr><td>4.7.</td><td>Health and safety conditions</td></tr>
+<tr><td>4.7.1.</td><td>Introduction</td></tr>
+<tr><td>4.7.2.</td><td>Medical examinations and psychological assessments</td></tr>
+<tr><td>4.7.2.1.</td><td>Before appointment</td></tr>
+<tr><td>4.7.2.1.1.</td><td>Content of the medical examination</td></tr>
+<tr><td>4.7.2.1.2.</td><td>Psychological assessment</td></tr>
+<tr><td>4.7.2.2.</td><td>After appointment</td></tr>
+<tr><td>4.7.2.2.1.</td><td>Frequency of periodic medical examinations</td></tr>
+<tr><td>4.7.2.2.2.</td><td>Content of the periodic medical examination</td></tr>
+<tr><td>4.7.2.2.3.</td><td>Additional medical examinations and/or psychological assessments</td></tr>
+<tr><td>4.7.3.</td><td>Medical requirements</td></tr>
+<tr><td>4.7.3.1.</td><td>General requirements</td></tr>
+<tr><td>4.7.3.2.</td><td>Vision requirements</td></tr>
+<tr><td>4.7.3.3.</td><td>Hearing requirements</td></tr>
+<tr><td>4.8.</td><td>Additional information on infrastructure and vehicles</td></tr>
+<tr><td>4.8.1.</td><td>Infrastructure</td></tr>
+<tr><td>4.8.2.</td><td>Rolling stock</td></tr>
+<tr><td>5.</td><td>Interoperability constituents</td></tr>
+<tr><td>5.1.</td><td>Definition</td></tr>
+<tr><td>5.2.</td><td>List of constituents</td></tr>
+<tr><td>6.</td><td>Assessment of conformity and/or suitability for use of the constituents and verification of the subsystem</td></tr>
+<tr><td>6.1.</td><td>Interoperability constituents</td></tr>
+<tr><td>6.2.</td><td>Operation and traffic management subsystem</td></tr>
+<tr><td>6.2.1.</td><td>Principles</td></tr>
+<tr><td>7.</td><td>Implementation</td></tr>
+<tr><td>7.1.</td><td>General rules for implementation</td></tr>
+<tr><td>7.1.1.</td><td>Specific transition rules for Appendices A and C</td></tr>
+<tr><td>7.2.</td><td>Specific cases</td></tr>
+<tr><td>7.2.1.</td><td>Introduction</td></tr>
+<tr><td>7.2.2.</td><td>List of specific cases</td></tr>
+<tr><td>7.2.2.1.</td><td>Permanent specific case (P) Estonia, Latvia, Lithuania, Poland, Hungary and Slovakia</td></tr>
+<tr><td>7.2.2.2.</td><td>Permanent specific case Ireland and the UK for Northern Ireland</td></tr>
+<tr><td>7.2.2.3.</td><td>Temporary specific case (T1) Ireland and United Kingdom</td></tr>
+<tr><td>7.2.2.4.</td><td>Permanent specific case (P) Finland</td></tr>
+<tr><td></td><td>Appendix A ERTMS operational principles and rules – version 6</td></tr>
+<tr><td></td><td>Appendix B Fundamental operational principles and common operational rules</td></tr>
+<tr><td></td><td>Appendix C Safety related communications methodology</td></tr>
+<tr><td></td><td>Appendix C1. Oral communication</td></tr>
+<tr><td></td><td>Appendix C2. European Instructions</td></tr>
+<tr><td></td><td>Appendix D Route compatibility and Route Book</td></tr>
+<tr><td></td><td>Appendix D1 Parameters for the vehicle and train compatibility over the route intended for operation</td></tr>
+<tr><td></td><td>Appendix D2 Elements the infrastructure manager has to provide to the railway undertaking for the Route Book</td></tr>
+<tr><td></td><td>Appendix D3 ERTMS trackside engineering information relevant to operation that the infrastructure manager shall provide to the railway undertaking</td></tr>
+<tr><td></td><td>Appendix E Language and communication level</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td></td><td>Appendix F Elements relevant to professional qualification for the tasks associated with ‘accompanying trains’</td></tr>
+<tr><td></td><td>Appendix G Elements relevant to professional qualification for the task of preparing trains</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td></td><td>Appendix H European Vehicle Number and linked alphabetical marking on the bodywork</td></tr>
+<tr><td></td><td>Appendix I List of areas for which national rules may continue to apply according to Article 8 of Directive (EU) 2016/798</td></tr>
+<tr><td></td><td>Appendix J Glossary</td></tr>
+</table>
+
+**1\. INTRODUCTION**
+
+**1.1. Technical scope**
+
+This Technical Specification for Interoperability (‘TSI’) covers the ‘operation and traffic management’ subsystem shown in the list contained in point 1 and defined in point 2.5 of Annex II to Directive (EU) 2016/797.
+
+**1.2. Geographical scope**
+
+The geographical scope of this Regulation is the Union's network as specified in section 1 to Annex I of Directive (EU) 2016/797 and excludes the cases referred to in Article 1(3) and 1(4) of Directive (EU) 2016/797.
+
+**1.3. Content**
+
+In accordance with Article 4(3) of Directive (EU) 2016/797, this TSI lays down the essential requirements for the ‘operation and traffic management’ subsystem and establishes the fundamental operating principles and common operating rules to the Union railway system. Furthermore, it establishes the interface requirements between infrastructure managers and railway undertakings.
+
+**2\. DESCRIPTION OF SCOPE**
+
+This TSI applies to the Union rail system, which includes TSI conform and non-TSI conform vehicles and fixed installations.
+
+This TSI relates to processes and procedures, as well as to physical elements of vehicles and fixed installations that are important for their operational function in the context of this TSI and requirements applicable to staff executing safety-critical tasks.
+
+The railway undertaking and the infrastructure manager shall ensure that all requirements of this TSI become a relevant part of railway undertaking’s and infrastructure manager’s safety management system (‘SMS’) as required by Directive (EU) 2016/798.
+
+**3\. ESSENTIAL REQUIREMENTS**
+
+**3.1. Compliance with the essential requirements**
+
+In accordance with Article 3 of Directive (EU) 2016/797, the Union rail system, its subsystems and their interoperability constituents shall meet the essential requirements set out in general terms in Annex III to that Directive.
+
+**3.2. Essential requirements — overview**
+
+The following table summarises the correspondence between the essential requirements set out in Annex III to Directive (EU) 2016/797 and this Regulation.
+
+<table>
+<tbody><tr><td rowspan="3">Clause</td><td rowspan="3">Clause Title</td><td colspan="5">Safety</td><td>Reliability & Availability</td><td colspan="2">Health</td><td colspan="5">Environmental protection</td><td>Technical compatibility</td><td colspan="2">Accessibility</td><td colspan="4">Essential requirements specific to operation and traffic management</td></tr>
+<tr><td>1.1.1</td><td>1.1.2</td><td>1.1.3</td><td>1.1.4</td><td>1.1.5</td><td>1.2</td><td>1.3.1</td><td>1.3.2</td><td>1.4.1</td><td>1.4.2</td><td>1.4.3</td><td>1.4.4</td><td>1.4.5</td><td>1.5</td><td>1.6.1</td><td>1.6.2</td><td>2.6.1</td><td>2.6.2</td><td>2.6.3</td><td>2.6.4</td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.1.2</td><td>Documentation for staff executing safety-critical tasks</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.1.2.1</td><td>Rule book</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.1.2.2</td><td>Route book</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td colspan="22"> —————</td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.1.2.3</td><td>Train running information for drivers</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.1.2.4</td><td>Informing the driver in real time during train operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td colspan="22"> —————</td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.1.5</td><td>Safety-related communications between train crew, other railway undertaking staff and staff authorising train movements</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.1</td><td>Train visibility</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.1.1</td><td>General requirement</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.1.2</td><td>Front end</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.1.3</td><td>Rear end</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.2</td><td>Train audibility</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.2.1</td><td>General requirement</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.2.2</td><td>Control</td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.3</td><td>Vehicle identification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.4</td><td>Safety of passengers and load</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.5</td><td>Route Compatibility and Train composition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.5.1</td><td>Route Compatibility</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.5.2</td><td>Train composition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.6</td><td>Train braking</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.6.1</td><td>Minimum requirements of the braking system</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.6.2</td><td>Braking performance</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.7</td><td>Ensuring that the train is in running order</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.7.1</td><td>General requirement</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.7.2</td><td>Pre-departure Data</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.2.8</td><td>Requirements for Signal and lineside marker sighting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.9</td><td>Driver vigilance</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.3.1</td><td>Train planning and timetable</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.3.2</td><td>Identification of trains</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.3</td><td>Train departure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.3.1</td><td>Checks and tests before departure</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.3.2</td><td>Informing the infrastructure manager of the train's operational status</td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4</td><td>Traffic management</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4.1</td><td>General requirements</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4.2</td><td>Train reporting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4.2.1</td><td>Data required for train position reporting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4.2.2</td><td>Predicted hand over time</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.4.3</td><td>Dangerous goods</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.4.4</td><td>Operational quality</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.5</td><td>Data recording</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.3.5.1</td><td>Recording of monitoring data outside the train</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.5.2</td><td>Recording of monitoring data on-board the train</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td colspan="22"></td></tr>
+<tr><td>4.2.3.6</td><td>Degraded operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.6.1</td><td>Advice to other users</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.6.2</td><td>Advice to train drivers</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.6.3</td><td>Contingency arrangements</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.7</td><td>Managing an emergency situation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.8</td><td>Aid to train crew in the event of an incident or of a major rolling stock malfunction</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>4.4</td><td>ERTMS operating rules</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>4.6</td><td>Professional qualifications</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>4.7</td><td>Health and safety conditions</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.8</td><td>Additional information on infrastructure and vehicles</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.8.1</td><td>Infrastructure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.8.2</td><td>vehicles</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**4\. CHARACTERISTICS OF THE SUBSYSTEM**
+
+**4.1. Introduction**
+
+In accordance with Directive 2012/34/EU of the European Parliament and of the Council ( 5 ), it is the overall responsibility of the infrastructure manager to provide all the appropriate parameters and characteristics of the infrastructure which shall be used by the railway undertaking to check the compatibility of railway undertaking’s trains to run on infrastructure manager’s network, taking into account the geographic particularities of individual lines and the functional or technical specifications set out in this section.
+
+The fundamental operational principles and common operational rules applicable to the Union rail network are defined in Appendix B.
+
+**4.2. Functional and technical specifications of the subsystem**
+
+The functional and technical specifications of the ‘operation and traffic management’ subsystem define the specifications to ensure safe operation, system reliability and availability and operating efficiency of the Union rail system, with focus in particular on specifications relating to:
+
+— staff executing safety-critical tasks,
+
+— trains,
+
+— train operations,
+
+— ERTMS based harmonised operation.
+
+**4.2.1. Specifications relating to staff**
+
+4.2.1.1. General requirements
+
+In its Safety Management Systems (SMS) established in accordance with Annexes I and II to Commission Delegated Regulation (EU) 2018/762 ( 6 ), each RU and IM shall identify its safety-critical tasks and safety-related functions, and the staff responsible for executing them. RUs and IMs shall define and describe in their SMS procedures and requirements to train, assess and monitor the competence of their staff executing safety-critical tasks, except the requirements laid down in the following provisions:
+
+(i) training, fitness and certification requirements for train drivers (addressed by Directive 2007/59/EC of the European Parliament and of the Council ( 7 ));
+
+(ii) elements relevant to professional qualification applicable to staff ‘accompanying trains’ other than the train driver, to which Appendix F of this Annex shall apply;
+
+(iii) elements relevant to professional qualification applicable to staff ‘preparing trains’ other than the train driver, to which Appendix G of this Annex shall apply.
+
+Any qualification acquired based on the procedures and rules defined in the SMS of the RU or IM shall be recorded in the concerned SMS.
+
+The documents providing evidence of training, experience and professional competences shall be delivered to the concerned staff executing safety-critical tasks, upon request.
+
+Such a qualification shall allow the member of staff executing safety-critical tasks to undertake similar tasks for another RU or IM, subject to the identification of additional training needs on geographical and technical specifications and the SMS of the RU or IM in accordance with point 4.6.3.2, and to the satisfactory completion of that training.
+
+4.2.1.2. Information exchange between IMs and RUs, including information for staff executing safety-critical tasks
+
+IMs and RUs shall plan, prepare and operate trains and instruct staff in accordance with the information contained in Rule Book and Route Book.
+
+Their staff executing safety-critical tasks shall be trained, and train drivers certified, based on the information provided in the Rule Book and the Route Book in accordance with their SMS.
+
+IMs and RUs shall cooperate to exchange information and follow a process for establishing and regularly updating the Rule Book and Route Book as appropriate. Such information shall be applicable for normal, degraded and emergency operations.
+
+The IM, in consultation with the RUs operating on its network, shall define the appropriate procedures for communication in real time and emergency situations in order to ensure that information relevant for operation is provided to the RU and/or the driver as soon as such information is available.
+
+IMs and RUs shall ensure that all infrastructure information and rules relevant for planning, preparing and operating of trains are shared and communicated to staff executing safety-critical tasks in accordance with each staff member’s tasks in all the IMs and RUs respective operating language(s).
+
+IM and RUs may group the Rule Book and Route Book information into support for individual staff and/or individual operations.
+
+IMs and RUs shall supply to each member of their respective staff executing safety-critical tasks, including train drivers, with versions of the Rule Book and the Route Book tailored to the information necessary for their operations. This shall include the interface information where staff executes safety-critical tasks with a direct interface between IM and RU, in particular to ensure safety-related communication between staff authorising the movement of trains and staff onboard trains.
+
+Future developments:
+
+1\. 12 months after the Agency has delivered the updates to the RINF Application in accordance with Article 6(1) of Implementing Regulation (EU) 2019/777 as amended by Implementing Regulation (EU) 2023/1694 and the IMs have made the data available through RINF, RUs shall base their Route Books on the information contained in RINF.
+
+2\. 12 months after point 1, IMs and RUs shall digitalise the Rule Book and the Route Book.
+
+3\. At the latest by 15 December 2025, the Agency shall deliver a Recommendation on how to harmonise the digitalisation of real time information exchange, based on Appendix C, between members of IMs’ and RUs’ staff.
+
+4.2.1.2.1. Rule Book
+
+The RU and the IM shall be responsible for the compilation of their respective Rule Book as integral part of their SMS to instruct staff executing safety-critical tasks, on operational rules applicable to their role.
+
+The Rule Book is a description of the operational rules and procedures for a network or a part thereof and vehicles operated on that network or its part(s) in normal, degraded operation and emergency situations. It shall be consistent across all the lines over which the RU operates and it shall be consistent across all the lines managed by the IM.
+
+The Rule Book shall cover:
+
+(a) for the RU:
+
+(i) the common EU safety and operating rules and procedures in accordance with Appendices A, B, C and D;
+
+(ii) complemented by the national rules covering areas defined by Appendix I, including the IM’s instructions to the RUs on the operations of its infrastructure and the rules for managing interfaces between the IM and the RUs, all of which need to be communicated to the RUs in accordance with the IM’s SMS interface procedures;
+
+(iii) RU instructions to the staff executing safety-critical tasks including train driver laid down in its SMS;
+
+(iv) information relevant to the vehicles and trains operated by the RU; and
+
+(v) all the lines over which the RU operates;
+
+(b) for the IM:
+
+(i) the common EU safety and operating rules and procedures in accordance with Appendices A, B, C and D;
+
+(ii) complemented by the national rules covering areas defined by Appendix I, including the rules for managing interfaces between the IM and the RUs;
+
+(iii) IM instructions to the staff executing safety-critical tasks laid down in its SMS;
+
+(iv) information relevant to the vehicles operated by the IM when applicable and when the IM is not acting as an RU; and
+
+(v) all the lines managed by the IM.
+
+It shall include procedures covering, as a minimum, the following aspects:
+
+— staff safety and security,
+
+— signalling and control command (class A and class B systems),
+
+— train operation, including degraded mode and related to line characteristics and vehicle characteristics,
+
+— incidents and accidents, including the reporting scheme, incident or accident management plan and the detailed actions to be taken in the event of an accident or an incident,
+
+— degraded and emergency situations,
+
+— for the Rus, traction and rolling stock, including all information relevant to the operation of the rolling stock during normal and degraded mode (such as trains requiring assistance); such documentation shall also focus on the specific interface with the infrastructure manager’s staff in these cases.
+
+It shall have two appendices:
+
+— Appendix 1: Manual of communication procedures in accordance with Appendix C1,
+
+— Appendix 2: Book of European and national instructions in accordance with Appendix C2.
+
+Predefined messages and forms shall at least exist in the ‘operating’ language(s) of infrastructure manager(s).
+
+If the language chosen by the railway undertaking for the Rule Book is not the language in which the appropriate information was originally supplied, it is the responsibility of the railway undertaking to arrange for any necessary translation and/or provide explanatory notes in another language.
+
+4.2.1.2.2. Route Book
+
+The IM shall establish the infrastructure information covering its network for its own use and for the use of the RUs operating on this network. The IM shall provide each RU with the information for the RUs’ Route Book as defined in Appendix D2, including permanent or temporary restrictions and modifications.
+
+The infrastructure manager shall ensure that the infrastructure information is complete and accurate; the information shall be managed in accordance with Annex II, point 4.4.3 of Delegated Regulation (EU) 2018/762.
+
+The railway undertaking is responsible for the complete and correct compilation of the Route Book, using the information supplied by the infrastructure manager(s), in accordance with Annex I, point 4.4.3 of Delegated Regulation (EU) 2018/762. The railway undertaking shall ensure the Route Book duly describes operational conditions related to line characteristics and vehicle characteristics.
+
+The infrastructure manager shall inform the railway undertaking of any changes to the infrastructure information, whenever such information becomes available and affects train operations, including permanent or temporary restrictions and modifications.
+
+The IM, in consultation with the RUs operating on its network, shall define the appropriate procedures when modification of the Route Book is not transmitted from the IM to RU in the appropriate agreed timing, as defined in the SMS of the IM and reflected in the SMS of the RU; in that case, the IM shall also directly inform the driver.
+
+RU Route Book:
+
+Using the information received, the railway undertaking is responsible for the complete and correct compilation of the Route Book, covering the infrastructure on which it operates trains.
+
+The railway undertaking shall ensure that the route information compiled in the Route Book consists in a description of the lines and the associated lineside equipment for the lines over which the driver will operate and relevant to the driving task.
+
+The format of the Route Book shall be prepared in the same manner for all the infrastructures operated on by the trains of an individual railway undertaking.
+
+When informed by the infrastructure manager of changes in the infrastructure information, the railway undertaking shall update the Route Book and communicate the modification in accordance with the procedures defined in their SMS, including instructing their drivers impacted by the change.
+
+IM Route Book:
+
+The IM shall compile in an IM Route Book the infrastructure information to be shared with their staff executing safety-critical tasks and compile it in accordance with its SMS.
+
+The infrastructure manager shall update the IM Route Book, whenever such information becomes available and affects the tasks of its staff executing safety critical tasks, including permanent or temporary restrictions and modifications.
+
+4.2.1.2.3. Train running information for drivers
+
+When the railway undertaking provides the drivers with their working plan, it shall provide information necessary for the normal running of the train and as a minimum include:
+
+— the train identification,
+
+— the train running days (if necessary),
+
+— the stopping points and the activities associated with them,
+
+— other timing points,
+
+— the arrival/departure/passing times at each of those points.
+
+Such train running information must be updated whenever appriopriate prior to departure and shall be based on and supplement the Rule Book and Route Book information. The information shall be provided digitally to the train drivers by 15 December 2026.
+
+4.2.1.2.4. Informing the driver in real time during train operation
+
+The infrastructure manager shall inform and instruct drivers in real time about last minute changes to operations regarding the line or relevant lineside equipment, in accordance with the communication methodology established between IM and RU in line with Appendix C.
+
+Real time information shall be limited to situation and changes that have not been managed under 4.2.1.2.2 and 4.2.1.2.3 in accordance with IMs and RUs SMS procedures and are directly affecting the driver’s route.
+
+For emergency situations, appropriate alternative means of communication shall be established between the IM and RU in order to ensure that relevant information is made available.
+
+Infrastructure managers and railway undertakings must have a process in place to be able to confirm the suitability of the vehicles and the drivers in respect of route knowledge for real time route deviation.
+
+4.2.1.3. Not used
+
+4.2.1.4. Not used
+
+4.2.1.5. Safety-related communications between train crew, other railway undertaking staff and staff authorising train movements
+
+The language used for safety-related communication between train crew, other railway undertaking staff (as defined in Appendix G) and the staff authorising train movements is the operating language(s) (as defined in Appendix J) used by the infrastructure manager on the route concerned.
+
+The principles for safety-related communication between train crew and staff responsible for authorising the movement of trains are to be found in Appendix C.
+
+In accordance with Directive 2012/34/EU, the infrastructure manager is responsible for publishing the ‘operating’ language(s) used by its personnel in daily operational use.
+
+Where, however, local practice requires that a second language is also provided for, it is the responsibility of the infrastructure manager to determine the geographic boundaries for its use.
+
+**4.2.2. Specifications relating to trains**
+
+4.2.2.1. Train visibility
+
+4.2.2.1.1. General requirement
+
+The railway undertaking shall ensure that trains are fitted with means of indicating the front and rear of the train.
+
+4.2.2.1.2. Front-end
+
+The railway undertaking shall ensure that an approaching train is clearly visible and recognisable as such, by the presence and layout of its lit white front-end lights.
+
+The forward facing front-end of the leading vehicle of a train shall be fitted with three lights in an isosceles triangle, as shown below. These lights shall always be lit when the train is being driven from that end.
+
+The front-end lights shall optimise train detectability (marker lights), provide sufficient visibility for the train driver (head lights) by night and during low light conditions and shall not dazzle the drivers of oncoming trains.
+
+The spacing, the height above rails, the diameter, the intensity of the lights, the dimensions and shape of the emitted beam in both day and night time operation are defined in the ‘rolling stock — locomotives and passenger rolling stock’ TSI (‘LOC&PAS TSI’).
+
+In order to access lines identified in RINF where permissive driving is used, by the dates mentioned below for the harmonisation of the rear-end signal as per Section 4.2.2.1.3.2, the luminous intensity of vehicle headlamps shall be in accordance with the level defined for the full-beam headlamps in point (5) of Section 4.2.7.1.1 of the Annex to Commission Regulation (EU) 1302/2014 ( 8 ) (‘TSI Loc&Pas’).
+
+4.2.2.1.3. Rear end
+
+The railway undertaking shall provide the required means of indicating the rear of a train. The rear end signal shall only be exhibited on the rear of the last vehicle of the train. It shall be displayed as shown below.
+
+4.2.2.1.3.1. Passenger trains
+
+The rear end signal of a passenger train shall consist of 2 steady red lights at the same height above buffer on the transversal axis.
+
+4.2.2.1.3.2. Freight trains
+
+The rear end signal of a freight train shall consist of 2 reflective plates at the same height above buffer on the transversal axis. Any train equipped with 2 steady red lights shall also be considered to comply with this obligation.
+
+Reflective plates shall comply with Appendix E to Wagon TSI and have the following shape with white side triangles and red top and bottom triangle:
+
+The plates shall be on the same height above buffer on the transversal axis
+
+Specific cases:
+
+Belgium, France, Italy, Portugal, Spain and UK may continue to apply notified national rules that require freight trains to be equipped with 2 steady red lights as a condition to run on sections of their network, where this is justified by operating practices already in place and/or national rules notified before end of January 2019.
+
+Cooperation with neighbouring countries:
+
+In the meantime Member States concerned, in particular at the request of the railway undertakings, shall perform an assessment with a view to accept the use of 2 reflective plates in one or more sections of their network if the result of the assessment is positive and define appropriate conditions, which shall be based upon an assessment of the risks and operational requirements. This assessment shall be completed within a maximum period of 6 months after receiving the railway undertaking's request. The acceptance of reflective plates shall be granted, unless the Member State can duly justify the refusal based on the negative result of the assessment.
+
+Member States shall in particular endeavour to permit the use of reflective plates on rail freight corridors, with a view to prioritise the current bottlenecks. These sections and details of any conditions pertaining to them shall be recorded in the RINF. Until the information is encoded in RINF, the infrastructure manager shall ensure the information is communicated to railway undertakings by other appropriate means. The infrastructure manager shall identify the sections of lines on which 2 steady red lights are required in the RINF.
+
+Phasing out:
+
+The following deadlines shall apply for accepting freight trains equipped with two reflective plates:
+
+(1) From 1 January 2022, along the rail freight corridors specified in accordance with Regulation (EU) No 913/2010, with the following exceptions on the lines where steady red lights are an operational requirement for ensuring safety:
+
+(a) 1 January 2026 for Belgium and France;
+
+(b) 1 January 2025 for Portugal and Spain.
+
+(2) From 1 January 2026, in the whole European Union rail network.
+
+Member States concerned by the exceptions under (1) (a) and (b) shall provide, by 1 March 2022 at the latest, the Commission with a detailed action plan and precise targets ensuring the elimination of the requirement for red lights as rear end signals. Every 6 months thereafter, those Member States shall provide the Commission with a report on progress made on the use of reflective plates on their network with the aim of Union-level harmonisation of rear end signals by 1 January 2026. Stakeholders shall provide all necessary input to allow Member States to fulfil their reporting duty.
+
+The Commission shall report to the committee referred to in Article 51 of Directive (EU) 2016/797 on the implementation progress of section 4.2.2.1.
+
+4.2.2.2. Train audibility
+
+4.2.2.2.1. General requirement
+
+The railway undertaking shall ensure that trains are fitted with an audible warning device to indicate the approach of a train.
+
+4.2.2.2.2. Control
+
+The activation of the audible warning device shall be possible from all driving positions.
+
+4.2.2.3. Vehicle identification
+
+Each vehicle shall have a number to uniquely identify it from any other rail vehicle. This number shall be prominently displayed at least on each longitudinal side of the vehicle.
+
+It shall also be possible to identify operational restrictions applicable to the vehicle.
+
+Further requirements are specified in Appendix H.
+
+4.2.2.4. Safety of passengers and load
+
+4.2.2.4.1. Safety of load
+
+The railway undertaking shall make sure that freight vehicles are safely and securely loaded and remain so throughout the journey.
+
+4.2.2.4.2. Safety of passengers
+
+The railway undertaking shall ensure that passenger transport is undertaken safely at the departure and during the journey.
+
+4.2.2.5. Route compatibility and train composition
+
+4.2.2.5.1. Route compatibility
+
+(A) The railway undertaking is responsible for ensuring that all vehicles composing its train are compatible with the intended route(s).
+
+The railway undertaking shall have a process in its SMS to ensure that all vehicles it uses are authorised, registered and compatible with the intended route(s) including the requirements to be followed by its staff.
+
+The route compatibility process shall not duplicate processes performed as part of the vehicle authorisation under Commission Implementing Regulation (EU) 2018/545 ( 9 ) to ensure technical compatibility between the vehicle and the network(s). Parameters of Appendix D1 already verified and checked during vehicle authorisation or other similar processes shall not be reassessed in the framework of route compatibility check.
+
+For vehicle authorised under Directive (EU) 2016/797, the relevant vehicle data related to the parameters listed in Appendix D1, already checked during the authorisation process, being part of:
+
+— the file referred to in Article 21(3) of Directive (EU) 2016/797, and
+
+— the vehicle authorisation as referred to in Article 21(10) of Directive (EU) 2016/797,
+
+shall be provided by the applicant referred to in Article 2(22) of Directive (EU) 2016/797 or the keeper to the railway undertaking upon request, when such information is not available in ERATV or other registers for rail vehicles.
+
+For vehicles authorised before Directive (EU) 2016/797, the relevant vehicle data related to the parameters listed in Appendix D1 shall be provided to the railway undertaking by the holder of the vehicle authorisation documentation or the keeper upon request, when such information is not available in ERATV or other registers for rail vehicles.
+
+The processes for route compatibility in the SMS of the railway undertaking shall include the following checks, which may be performed in parallel at any appropriate time or in any appropriate sequence:
+
+— each vehicle is authorised and registered;
+
+— each vehicle in the train is compatible with the route;
+
+— the composition of the train is compatible with the route and the path;
+
+— the preparation of the train ensuring that the train is correctly formed and complete.
+
+(B) The infrastructure manager shall provide the information for route compatibility as defined in Appendix D1 through RINF.
+
+Appendix D1 sets out all the parameters that shall be used in the process of the railway undertaking before the first use of a vehicle or train configuration in order to ensure all vehicles composing a train are compatible with the route(s) the train is planned to operate on including, where appropriate, deviation routes and routes to workshops. Modifications of the route and changes of infrastructure characteristics have to be taken into account. When a parameter of Appendix D1 is harmonised at network(s) level of an area of use, conformity with that parameter may be presumed for any vehicle authorised for that area of use. National rules or additional national requirements for network access in respect of route compatibility are in principle considered incompatible with Appendix D1. The infrastructure manager shall not require additional technical checks for the purpose of route compatibility beyond the list laid down in Appendix D1.
+
+At the latest by 15 December 2026, until RINF allows for hosting the following new parameters:
+
+a) Specific check for Combined Transport
+
+1.1.1.1.3.4. Standard combined transport profile number for swap bodies
+
+1.1.1.1.3.9. Standard combined transport profile number for roller units
+
+1.1.1.1.3.8. Standard combined transport profile number for container
+
+1.1.1.1.3.5. Standard combined transport profile number for semi-trailers
+
+(v) (CT Line code)
+
+b) Train detection systems: influencing unit
+
+1.1.1.3.4. Train detection systems defined based on frequency bands
+
+1.1.1.3.4.2. Frequency bands for detection
+
+1.1.1.3.4.2.1. Maximum interference current
+
+1.1.1.3.4.2.2. Minimum Input impedance
+
+1.1.1.3.4.2.3. Maximum magnetic field
+
+c) 1.1.1.3.2.11. Safe consist length information from on-board necessary for access to the line and SIL
+
+The infrastructure manager shall provide these information through other means free of charge as soon as possible and in electronic format to railway undertakings, authorised applicants for path requests and, where applicable, for the applicant referred to in Article 2(22) of Directive (EU) 2016/797.
+
+The infrastructure manager shall inform the railway undertaking of the changes on characteristics of the route through RINF whenever such information becomes available and affects trains operation.
+
+(C) Additional elements for route compatibility shall be checked when relevant:
+
+— transport of dangerous good as referred in point 4.2.3.4.3,
+
+— quieter route as referred in Noise TSI,
+
+— exceptional transport as referred in Appendix I
+
+— access conditions to underground stations for diesel and other thermal traction systems as referred in clause 4.2.8.3 of LOC&PAS TSI.
+
+(D) Specific elements for route compatibility of Combined Transport trains:
+
+— a Combined Transport train not exceeding the loading gauge of all tracks of the line, and for which the CT code does not exceed the codification of all tracks of the line, shall be considered as a normal transport,
+
+— a Combined Transport train exceeding the loading gauge, and for which the CT code does not exceed the codification of the line, shall be considered as a transport with specific requirements as referred to in Appendix I. Such requirements shall be universally applicable to all trains in this category and compliance with them shall not need to involve any further authorisation process between the RU and the IM,
+
+— if the CT code exceeds the codification of the line, or if the line is not codified, a specific authorisation (exceptional transport), based on an evaluation of the operational and technical feasibility, shall be issued by the IM.
+
+Operational procedures applicable to combined transport shall comply with the specifications set out in point 3 of the ERA Technical Document on codification of combined transport (ERA/TD/2023-01/CCT v1.1 21/03/2023 ( 10 ).
+
+4.2.2.5.2. Train composition
+
+Train composition requirements shall take into account the following elements according to the allocated path:
+
+(a) all vehicles composing a train including their loads
+
+— shall be compatible with all the requirements applicable on the routes over which the train shall run;
+
+— shall be fit to run at the maximum speed at which the train is scheduled to run;
+
+(b) all vehicles on the train shall remain within their specified maintenance interval for the duration (in terms of both time and distance) of the journey being undertaken;
+
+(c) the train composed of vehicles including their loads, shall comply with the technical and operational constraints of the route concerned and be within the maximum length permissible for forwarding and receiving terminals.
+
+The railway undertaking is responsible for ensuring that all vehicles composing the train including their load are technically fit for the journey to be undertaken and remain so throughout the journey.
+
+The railway undertaking may need to consider additional constraints due to the type of braking regime or traction type on a particular train (see point 4.2.2.6).
+
+4.2.2.6. Train braking
+
+The railway undertaking shall set up and implement braking requirements in accordance with points 4.2.2.6.1 and 4.2.2.6.2 and shall manage them within its safety management system.
+
+4.2.2.6.1. Minimum requirements of the braking system
+
+All vehicles in a train shall be connected to the continuous automatic braking system as defined in the LOC&PAS and WAG TSIs.
+
+The first and last vehicles (including any traction units) in any train shall have the automatic brake operative.
+
+In the case of a train becoming accidentally divided into two parts, both sets of detached vehicles shall come automatically to a stand as a result of a maximum application of the brake.
+
+4.2.2.6.2. Braking performance and maximum speed allowed
+
+(1) The infrastructure manager shall provide the railway undertaking with all relevant line characteristics for each route through RINF:
+
+(i) signalling distances (warning, stopping) containing their inherent safety margins, that are provided via the respective locations of ‘Stopping signal’ and ‘Warning signal’, requested in Appendix D2 via the parameter 1.1.1.3.14.3;
+
+(ii) gradients;
+
+(iii) maximum permitted speeds;
+
+(iv) conditions of use of braking systems possibly affecting the infrastructure such as magnetic, regenerative and eddy current brake.
+
+The infrastructure manager shall ensure that the information provided to the railway undertaking(s) is complete and accurate, and shall inform the railway undertaking of the changes on the line characteristics through RINF whenever such information becomes available and affects trains operation.
+
+(2) The infrastructure manager may provide the following information:
+
+(i) For trains able to run at a maximum speed higher than 200 km/h, deceleration profile and equivalent response time on level track;
+
+(ii) For trainsets or for fixed train compositions, unable to run at a maximum speed higher than 200 km/h, deceleration (as above in (i)) or brake weight percentage;
+
+(iii) For other trains (variable compositions of trains unable to run at a maximum speed higher than 200 km/h): brake weight percentage.
+
+If the infrastructure manager provides the above mentioned information, it shall be made available to all railway undertakings who intend to operate trains on its network in a non-discriminatory way.
+
+The braking tables already in use and accepted for the existing non TSI conform lines at the date of entry into force of the present Regulation shall also be made available.
+
+(3) The railway undertaking shall, in the planning stage, determine the braking regime, the braking capability and corresponding maximum speed of the train taking into account:
+
+(i) the relevant line characteristics as expressed in point (1) and, if available, the information provided by the infrastructure manager in accordance to point (2); and
+
+(ii) the rolling stock-related margins derived from reliability and availability of the braking system.
+
+Furthermore, the railway undertaking shall ensure that during operation each train achieves at least the necessary braking performance. In particular the railway undertaking has to set up rules to be used if a train does not reach the necessary braking performance during operation. In this case, the railway undertaking shall immediately inform the infrastructure manager. The infrastructure manager may take appropriate measures to reduce the impact on the overall traffic on its network.
+
+4.2.2.7. Ensuring that the train is in running order
+
+4.2.2.7.1. General requirement
+
+The railway undertaking shall define the process to ensure that all safety-related on-train equipment is in a fully functional state and that the train is safe to run.
+
+The railway undertaking shall inform the infrastructure manager of any modification to the characteristics of the train affecting its performance or any modification that might affect the ability to accommodate the train in its allocated path.
+
+The infrastructure manager and the railway undertaking shall define and keep up to date conditions and procedures for train running temporarily in degraded mode.
+
+4.2.2.7.2. Pre-departure data
+
+The railway undertaking shall ensure that the following data required for safe and efficient operation is made available to the infrastructure manager(s) prior to the departure of the train:
+
+— the train identification
+
+— the identity of the railway undertaking responsible for the train
+
+— the actual length of the train
+
+— if a train carries passengers or animals when it is not scheduled to do so
+
+— any operational restrictions with an indication of the vehicle(s) concerned (gauge, speed restrictions, etc.)
+
+— information the infrastructure manager requires for the transport of dangerous goods.
+
+The railway undertaking shall advise the infrastructure manager(s) if a train does not occupy its allocated path or is cancelled.
+
+4.2.2.8. Requirements for signal and lineside marker sighting
+
+Without prejudice of ERTMS operations defined in Appendix A, the driver shall be able to observe signals and lineside markers. Signals and lineside markers as well as all other types of lineside signs that are safety related shall be observable by the driver whenever applicable.
+
+Therefore, signals, lineside markers, signs and information boards shall be designed and positioned in such a consistent way to facilitate this. Issues that shall be taken into account include (see point 4.3.2 of this regulation for reference to CCS TSI):
+
+(i) that they are suitably sited so that train head lights allow the driver to read the information;
+
+(ii) suitability and intensity of lighting, where required to illuminate the information;
+
+(iii) where retro-reflectivity is employed, the reflective properties of the material used are in compliance with appropriate specifications and the signs are fabricated so that train head lights easily allow the driver to read the information.
+
+Driving cabs shall be designed in such a consistent way that the driver is able to easily see the information displayed to him (see point 4.3.3.1 of this Regulation for reference to Loc&Pas TSI).
+
+4.2.2.9. Driver Vigilance
+
+The driver’s activity on board shall be monitored to automatically stop the train when a lack of driver’s activity is detected. The requirements related to the means to monitor the driver’s on-board activity are specified in the clause set out in point 4.2.9.3.1 of Loc&Pas TSI.
+
+**4.2.3. Specifications relating to train operations, including ERTMS based operation**
+
+Fundamental operational principles and common operational rules set out in Appendix B shall apply in addition to this chapter for train operation in the Union rail system.
+
+The ERTMS operational principles and rules specified in Appendix A of this TSI shall apply where ERTMS is deployed.
+
+4.2.3.1. Train planning and timetable
+
+In accordance with Directive 2012/34/EU, the infrastructure manager shall advise what data is required when a train path is requested.
+
+Every train has to follow a timetable, agreed between IM and RU under path allocation process; the IM shall ensure the punctual running of trains and shall assist in service performance when scheduling the timetable.
+
+4.2.3.2. Identification of trains
+
+Each train shall be identified by a train running number. The train running number is given by the infrastructure manager when allocating a train path and shall be known by the railway undertaking and all infrastructure managers operating the train. The train running number shall be unique per network. Changes of train running number during a train journey should be avoided.
+
+4.2.3.2.1. Format of train running number
+
+The train running number format is defined in the control-command and signalling TSI (hereinafter referred to as ‘CCS TSI’, Commission Regulation (EU) 2016/919 ( 11 ))
+
+4.2.3.3. Train departure
+
+4.2.3.3.1. Checks and tests before departure
+
+The railway undertaking shall determine the checks and tests to ensure that any departure of train is undertaken safely.
+
+4.2.3.3.2. Informing the infrastructure manager of the train's operational status
+
+The railway undertaking shall inform the infrastructure manager when a train is ready for access to the network.
+
+The railway undertaking shall inform the infrastructure manager of any anomaly affecting the train or its operation having possible repercussions on the train's running prior to departure and during the journey.
+
+4.2.3.4. Traffic management
+
+4.2.3.4.1. General requirements
+
+Traffic management shall ensure the safe, efficient and punctual operation of the railway, including effective recovery from service disruption.
+
+The infrastructure manager shall determine procedures and means for:
+
+— the real time management of trains,
+
+— operational measures to maintain the highest possible performance of the infrastructure in case of delays or incidents, whether actual or anticipated, and
+
+— the provision of information to the railway undertaking(s) in such cases.
+
+Any additional processes required by the railway undertaking and which affect the interface with the infrastructure manager(s) may be introduced after being agreed with the infrastructure manager.
+
+4.2.3.4.2. Train reporting
+
+4.2.3.4.2.1. Data required for train position reporting and predicted hand over time
+
+The infrastructure manager shall:
+
+(a) provide a means of real time recording of the times at which trains depart from, arrive at or pass appropriate pre-defined reporting points on their networks and the delta-time value;
+
+(b) have a process which enables an indication of the estimated number of minutes of deviation from the scheduled time a train is scheduled to be handed over from one infrastructure manager to another; this shall include information on service disruption (description and location of problem).
+
+(c) provide the specific data according to Commission Regulation (EU) No 1305/2014 ( 12 ) (Telematics Applications for Freight — TAF TSI) and Commission Regulation (EU) No 454/2011 ( 13 ) (Telematics Applications for Passengers — TAP TSI) required in relation to train position reporting. Such information shall include:
+
+(1) Train identification
+
+(2) Identity of reporting point
+
+(3) Line on which the train is running
+
+(4) Scheduled time at reporting point
+
+(5) Actual time at reporting point (and whether depart, arrive or pass — separate arrival and departure times shall be provided in respect of intermediate reporting points at which the train calls)
+
+(6) Number of minutes early or late at the reporting point
+
+(7) Initial explanation of any single delay exceeding 10 minutes or as otherwise required by the performance monitoring regime
+
+(8) Indication that a report for a train is overdue and the number of minutes by which it is overdue
+
+(9) Former train identification(s), if any
+
+(10) Train cancelled for a whole or a part of its journey.
+
+4.2.3.4.3. Dangerous goods
+
+The railway undertaking shall define the procedures to perform the transport of dangerous goods.
+
+These procedures shall include:
+
+— the provisions as specified in Directive 2008/68/EC of the European Parliament and of the Council ( 14 ) and Directive 2010/35/EU of the European Parliament and of the Council ( 15 ), as applicable
+
+— information to the driver of the presence and position of dangerous goods on the train
+
+— information the infrastructure manager requires for transport of dangerous goods
+
+— determination, in conjunction with the infrastructure manager, of lines of communication and planning of specific measures in case of emergency situations involving the goods.
+
+4.2.3.4.4. Operational quality
+
+The infrastructure manager and the railway undertaking shall have processes in place to monitor the efficient operation of all the services concerned.
+
+Monitoring processes shall be designed to analyse data and detect underlying trends, both in terms of human error and system error. The results of this analysis shall be used to generate improvement actions, designed to eliminate or mitigate against events which could compromise the efficient operation of the network.
+
+Where such improvement actions would have network-wide benefits, involving other infrastructure managers and railway undertakings, they shall, subject to commercial confidentiality, be communicated accordingly.
+
+Events that have significantly disrupted operations shall be analysed as soon as possible by the infrastructure manager. Where appropriate, and in particular where one of their staff is concerned, the infrastructure manager shall invite those railway undertaking(s) involved in the event concerned to participate in the analysis. Where the result of such analysis leads to network improvement recommendations designed to eliminate or mitigate against causes of accidents/incidents, these shall be communicated to all relevant infrastructure managers and railway undertakings concerned.
+
+These processes shall be documented and subject to internal audit.
+
+4.2.3.5. Data recording
+
+Data pertaining to the running of a train shall be recorded and retained for the purposes of:
+
+— Supporting systematic safety monitoring as a means of preventing incidents and accidents.
+
+— Identification of driver, train and infrastructure performance in the period leading up to and, if appropriate, immediately after an incident or accident, in order to enable the identification of causes, and supporting the case for new or changed measures to prevent recurrence.
+
+— Recording information relating to the performance of both the locomotive/traction unit and the person driving.
+
+It shall be possible to match recorded data to:
+
+— the date and time of the recording;
+
+— the precise geographic location of the event being recorded;
+
+— the train identification;
+
+— the identity of the driver.
+
+Data to be recorded for ETCS/GSM-R are those defined in the TSI CCS and that are relevant considering the requirements in this point 4.2.3.5.
+
+The data shall be securely sealed and stored and accessible to authorised bodies including Investigating Bodies in carrying out their role pursuant to Article 22 of Directive (EU) 2016/798.
+
+4.2.3.5.1. Recording of monitoring  data outside the train
+
+As a minimum, the infrastructure manager shall record the following data:
+
+— the failure of lineside equipment associated with the movement of trains (signalling, points etc.);
+
+— the detection of an overheating axle bearing, if fitted;
+
+— safety related communication between the train driver and signaller.
+
+4.2.3.5.2. Recording of monitoring  data on-board the train
+
+As a minimum, the railway undertaking shall record the following data:
+
+— the detection of passing of signals at danger or ‘end of movement authority’;
+
+— application of the emergency brake;
+
+— speed at which the train is running;
+
+— any isolation or overriding of the on-board train control (signalling) systems;
+
+— operation of the audible warning device;
+
+— operation of door controls (release, closure), if fitted;
+
+— detection by on-board alarm systems related to the safe operation of the train, if fitted;
+
+— identity of the cab for which data is being recorded to be checked.
+
+Further technical specifications concerning the recording device are set out in the LOC&PAS TSI.
+
+4.2.3.6. Degraded operation
+
+4.2.3.6.1. Advice to other users
+
+The infrastructure manager in conjunction with the railway undertaking(s) shall define a process to immediately inform each other of any situation that impedes the safety, performance and/or the availability of the rail network or rolling stock.
+
+4.2.3.6.2. Advice to train drivers
+
+In any case of degraded operation associated with the infrastructure manager's area of responsibility, the infrastructure manager shall give formal instructions to drivers on what measures to take in order to safely overcome the degradation.
+
+4.2.3.6.3. Contingency arrangements
+
+The infrastructure manager in conjunction with all the railway undertakings operating over its infrastructure, and neighbouring infrastructure managers as appropriate, shall define, publish and make available appropriate contingency measures and assign responsibilities based on the requirement to reduce any negative impact as a result of degraded operation.
+
+The planning requirements and the response to such events shall be proportional to the nature and potential severity of the degradation.
+
+These measures, which shall as a minimum include plans for recovering the network to ‘normal’ status, may also address:
+
+— rolling stock failures (for example, those which could result in substantial traffic disruption, the procedures for rescuing failed trains);
+
+— infrastructure failures (for example, when there has been a failure of the electric power or the conditions under which trains may be diverted from the booked route);
+
+— extreme weather conditions.
+
+The infrastructure manager shall establish and keep updated contact information for key infrastructure manager and railway undertaking staff who may be contacted in the event of service disruption leading to degraded operation. This information shall include contact details both during and outside office hours.
+
+The railway undertaking shall submit this information to the infrastructure manager and advise the infrastructure manager of any changes to these contact details.
+
+The infrastructure manager shall advise all the railway undertaking(s) of any changes to its details.
+
+4.2.3.7. Managing an emergency situation
+
+The infrastructure manager shall, in consultation with:
+
+— all railway undertakings operating over its infrastructure, or, where appropriate, representative bodies of railway undertakings operating over its infrastructure,
+
+— neighbouring infrastructure managers, as appropriate,
+
+— local authorities, representative bodies of the emergency services (including fire-fighting and rescue) at either local or national level, as appropriate,
+
+define, publish and make available appropriate measures to manage emergency situations and restore the line to normal operation.
+
+Such measures shall typically cover:
+
+— collisions,
+
+— fires on train,
+
+— evacuation of trains,
+
+— accidents in tunnels,
+
+— incidents involving dangerous goods
+
+— derailments.
+
+The railway undertaking shall provide the infrastructure manager with any specific information in respect to these circumstances, especially in respect to the recovery or re-railing of their trains.
+
+Additionally, the railway undertaking shall have processes to inform passengers about on-board emergency and safety procedures.
+
+4.2.3.8. Aid to train crew in the event of an incident or of a major rolling stock malfunction
+
+The railway undertaking shall define appropriate procedures to assist the train crew in degraded situations in order to avoid or decrease delays caused by technical or other failures of the rolling stock (for example, lines of communication, measures to be taken in case of evacuation of a train).
+
+**4.3. Functional and technical specifications of the interfaces**
+
+In the light of the essential requirements set out in Chapter 3 of this Regulation, the functional and technical specifications of the interfaces are as follows:
+
+**4.3.1. Interfaces with the infrastructure TSI (INF TSI)**
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference INF TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td>Braking performance and maximum speed allowed</td><td>4.2.2.6.2</td><td>Longitudinal track resistance</td><td>4.2.6.2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Route Book</td><td>4.2.1.2.2</td><td rowspan="3">Operating rules</td><td rowspan="3">4.4</td></tr>
+<tr><td>Degraded operation</td><td>4.2.3.6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Parameters for the vehicle and train compatibility over the route intended for operation</td><td>Appendix D1</td><td>Ascertain Compatibility of infrastructure and rolling stock after authorisation of rolling stock</td><td>7.6</td></tr>
+</tbody>
+</table>
+
+**4.3.2. Interfaces with the control-command and signalling TSI (CCS TSI)**
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference CCS TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Rule Book</td><td>4.2.1.2.1</td><td rowspan="3">Operating rules (normal and degraded conditions) List of harmonised text indications and messages displayed on the ETCS Driver Machine Interface </td><td rowspan="3">4.4 Appendix E </td></tr>
+<tr><td>Operating rules</td><td>4.4</td></tr>
+<tr><td>ERTMS trackside engineering information relevant to operation</td><td>Appendix D3</td></tr>
+<tr><td>Requirements for lineside signal and marker sighting</td><td>4.2.2.8</td><td>Track-side control-command and signalling objects</td><td>4.2.15 4.2.18 </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Train braking</td><td>4.2.2.6</td><td>Train braking performance and characteristics</td><td>4.2.2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Rule Book</td><td>4.2.1.2.1</td><td>Use of sanding equipment On-board flange lubrication  Use of composite brake blocks </td><td>4.2.10</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td rowspan="2">Format of train running number</td><td rowspan="2">4.2.3.2.1</td><td>ETCS DMI</td><td>4.2.12</td></tr>
+<tr><td>GSM-R DMI</td><td>4.2.13</td></tr>
+<tr><td>Data recording</td><td>4.2.3.5</td><td>Interface to data recording for regulatory purposes</td><td>4.2.14</td></tr>
+<tr><td>Ensuring that the train is in running order</td><td>4.2.2.7</td><td>Key management</td><td>4.2.8</td></tr>
+<tr><td>Parameters for the vehicle and train compatibility over the route intended for operation</td><td>Appendix D1</td><td>Route compatibility checks before the use of authorised vehicles</td><td>4.9</td></tr>
+</tbody>
+</table>
+
+**4.3.3. Interfaces with the rolling stock TSIs**
+
+4.3.3.1. Interfaces with the locomotives and passenger rolling stock TSI (LOC&PAS TSI)
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference LOC&PAS TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td rowspan="2">Contingency arrangements</td><td rowspan="2">4.2.3.6.3</td><td>Rescue coupling</td><td>4.2.2.2.4</td></tr>
+<tr><td>End coupling</td><td>4.2.2.2.3</td></tr>
+<tr><td>Route Compatibility and Train composition</td><td>4.2.2.5</td><td>axle load parameter</td><td>4.2.3.2.1</td></tr>
+<tr><td>Train braking</td><td>4.2.2.6</td><td>Braking performance</td><td>4.2.4.5.</td></tr>
+<tr><td>Train visibility</td><td>4.2.2.1</td><td>External lights</td><td>4.2.7.1</td></tr>
+<tr><td>Train audibility</td><td>4.2.2.2</td><td>Horn (audible warning device)</td><td>4.2.7.2</td></tr>
+<tr><td rowspan="3">Requirements for lineside signal and marker sighting</td><td rowspan="3">4.2.2.8</td><td>External visibility</td><td>4.2.9.1.3</td></tr>
+<tr><td>Optical characteristics of the windscreen</td><td>4.2.9.2.2</td></tr>
+<tr><td>Internal lighting</td><td>4.2.9.1.8</td></tr>
+<tr><td>Driver vigilance</td><td>4.2.2.9</td><td>Driver's activity control function</td><td>4.2.9.3.1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Recording of monitoring data on-board the train</td><td>4.2.3.5 Appendix I </td><td>Recording device</td><td>4.2.9.6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td rowspan="3">Managing an emergency situation</td><td rowspan="3">4.2.3.7</td><td>Lifting diagram and instructions</td><td>4.2.12.5</td></tr>
+<tr><td>Rescue related descriptions</td><td>4.2.12.6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Route Compatibility and Train composition Elements relevant to professional qualification for the tasks associated with ‘accompanying trains’ </td><td>4.2.2.5 Appendix F </td><td>Operating documentation</td><td>4.2.12.4</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Sanding</td><td>Appendix B</td><td>Rolling stock characteristics for compatibility with train detection system based on track circuits — Isolating emissions</td><td>4.2.3.3.1.1</td></tr>
+<tr><td>Parameters for the vehicle and train compatibility over the route intended for operation</td><td>Appendix D1</td><td>Route compatibility checks before the use of authorised vehicles</td><td>4.9</td></tr>
+</tbody>
+</table>
+
+4.3.3.2. Interfaces with the freight wagons TSI (WAG TSI)
+
+| Reference this Regulation |  | Reference WAG TSI |  |
+| --- | --- | --- | --- |
+| Parameter | Point | Parameter | Point |
+| Rear end | 4.2.2.1.3 | Attachment devices for rear-end signal | 4.2.6.3 |
+| Freight trains | 4.2.2.1.3.2 | Rear-end signal | Appendix E |
+| Route Compatibility and Train composition | 4.2.2.5 | Gauging | 4.2.3.1 |
+| Route Compatibility and Train composition | 4.2.2.5 | Compatibility with load carrying capacity of lines | 4.2.3. 2 |
+| Contingency arrangements | 4.2.3.6.3 | Strength of unit — Lifting and jacking | 4.2.2.2 |
+| Train braking | 4.2.2.6 | Brake | 4.2.4 |
+| Parameters for the vehicle and train compatibility over the route intended for operation | Appendix D1 | Route compatibility checks before the use of authorised vehicles | 4.9 |
+
+**4.3.4. Interfaces with the Energy TSI (ENE TSI)**
+
+<table>
+<tbody><tr><td colspan="2">Reference this Regulation</td><td colspan="3">Reference TSI ENE</td></tr>
+<tr><td>Parameter</td><td>Point</td><td colspan="2">Parameter</td><td>Point</td></tr>
+<tr><td>Route Compatibility and Train composition</td><td>4.2.2.5</td><td colspan="2" rowspan="2">Maximum train current</td><td rowspan="2">4.2.4.1</td></tr>
+<tr><td>Route Book</td><td>4.2.1.2.2</td></tr>
+<tr><td>Route Compatibility and Train composition</td><td>4.2.2.5</td><td rowspan="2">Separation sections</td><td>Phase</td><td>4.2.15</td></tr>
+<tr><td>Route Book</td><td>4.2.1.2.2</td><td>System</td><td>4.2.16</td></tr>
+<tr><td>Parameters for the vehicle and train compatibility over the route intended for operation</td><td>Appendix D1</td><td colspan="2">Route compatibility checks before the use of authorised vehicles</td><td>7.3.5</td></tr>
+</tbody>
+</table>
+
+**4.3.5. Interfaces with the Safety in Railway Tunnels TSI (SRT TSI)**
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference SRT TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td>Ensuring that the train is in running order</td><td>4.2.2.7</td><td rowspan="3">Emergency rule</td><td rowspan="3">4.4.1</td></tr>
+<tr><td>Train departure</td><td>4.2.3.3</td></tr>
+<tr><td>Degraded operation</td><td>4.2.3.6</td></tr>
+<tr><td rowspan="3">Managing an emergency situation</td><td rowspan="3">4.2.3.7</td><td>Tunnels emergency plan</td><td>4.4.2</td></tr>
+<tr><td>Exercises</td><td>4.4.3</td></tr>
+<tr><td>Provision of on-train safety and emergency information to passengers</td><td>4.4.5</td></tr>
+<tr><td>Professional competence</td><td>4.6.1</td><td>Tunnel specific competence of the train crew and other staff</td><td>4.6.1</td></tr>
+</tbody>
+</table>
+
+**4.3.6. Interfaces with the Noise TSI (NOI TSI)**
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference NOI TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td>Route compatibility and train composition</td><td>4.2.2.5</td><td>Additional provisions for the application of this TSI to existing wagons</td><td>7.2.2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Train planning and timetable</td><td>4.2.3.1</td><td>Quieter routes</td><td>Appendix D</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Contingency arrangements</td><td>4.2.3.6.3</td><td>Specific rules for the operation of wagons on quieter routes in case of degraded operation</td><td>4.4.1</td></tr>
+</tbody>
+</table>
+
+**4.3.7. Interfaces with the Regulation (EU) No 1300/2014 ( 16 ), Person with Reduced Mobility TSI (PRM TSI)**
+
+<table>
+<tbody><tr><td>Reference this Regulation</td><td>  </td><td>Reference PRM TSI</td><td>  </td></tr>
+<tr><td>Parameter</td><td>Point</td><td>Parameter</td><td>Point</td></tr>
+<tr><td>Professional Competence</td><td>4.6.1</td><td rowspan="2">Infrastructure subsystem</td><td rowspan="2">4.4.1</td></tr>
+<tr><td> Elements relevant to professional qualification for the tasks associated with ‘accompanying trains’  </td><td>Appendix F</td></tr>
+<tr><td>Professional Competence</td><td>4.6.1</td><td rowspan="2">Rolling stock subsystem</td><td rowspan="2">4.4.2</td></tr>
+<tr><td> Elements relevant to professional qualification for the tasks associated with ‘accompanying trains’  </td><td>Appendix F</td></tr>
+<tr><td>Route Compatibility and Train composition</td><td>4.2.2.5</td><td>Rolling stock subsystem</td><td>4.4.2</td></tr>
+</tbody>
+</table>
+
+**4.4. Operating rules**
+
+**4.4.1. European Union railway system operational principles and rules**
+
+Operational principles and rules to be applied throughout the European Union railway system are specified in Appendices A (ERTMS operational principles and rules) and B (common operational principles and rules).
+
+**4.4.2. National rules**
+
+National rules are not compatible with this TSI, except for Appendix I which lists the areas where no common operational principles and rules exist and which may continue to be subject to national rules. In accordance with Decision (EU) 2017/1474 the Agency in cooperation with the Member State(s) concerned shall cooperate to assess the list of open points with a view to:
+
+(a) further harmonise the requirements of this Regulation through detailed provisions or through acceptable means of compliance, or
+
+(b) facilitate the integration of such national rules into the safety management systems of the railway undertakings and the infrastructure managers, or
+
+(c) confirm the need for national rules.
+
+**4.4.3. Acceptable Means of Compliance**
+
+The Agency may by means of technical opinion define acceptable means of compliance, which shall be presumed to ensure compliance with specific requirements of this Regulation, and ensure safety in accordance with Directive (EU) 2016/798.
+
+The Commission, the Member States or the affected stakeholders may request the Agency to define acceptable means of compliance in accordance with Article 10 of Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 ( 17 ). The Agency shall consult Member States and affected stakeholders and present the technical opinion to the committee referred to in Article 51 of Directive (EU) 2016/797 before its adoption.
+
+**4.4.4. Transition from application of national rules to implementation of this Regulation**
+
+During the transition from the application of national rules to the implementation of this Regulation, railway undertakings and infrastructure managers shall review their safety management systems to ensure the continuation of safe operations. If necessary, they shall update their safety management systems.
+
+In situation of deficiency, the procedure of Article 6 of Directive (EU) 2016/797 shall apply.
+
+**4.5. Maintenance rules**
+
+Not applicable
+
+**4.6. Professional competences**
+
+**4.6.1. Professional competence**
+
+Staff of the railway undertaking and the infrastructure manager shall have attained appropriate professional competence to undertake all necessary safety-critical tasks in normal, degraded and emergency situations. Such competence comprises professional knowledge and the ability to put this knowledge into practice.
+
+Railway undertakings and Infrastructure managers shall define their own risk-based competence management system within their Safety Management Systems processes, in accordance with Annex I and Annex II to Delegated Regulation (EU) 2018/762.
+
+Appendices F and G defines professional qualification relevant to the competence management system.
+
+**4.6.2. Language competence**
+
+4.6.2.1. Principles
+
+The infrastructure manager and the railway undertaking are required to ensure that their relevant staff are competent in the use of the communication protocols and principles set out in Appendix C.
+
+Where the operating language used by the infrastructure manager differs from that habitually used by the railway undertaking's staff, such linguistic and communications training shall form a critical part of the railway undertaking's overall competence management system.
+
+Railway undertaking staff whose duties require them to communicate with staff of the infrastructure manager in connection with safety-critical matters, whether in normal, degraded or emergency situations, shall have a sufficient level of knowledge in the operating language of the infrastructure manager.
+
+4.6.2.2. Level of knowledge
+
+The level of knowledge in the infrastructure manager's operating language shall be sufficient for safety purposes.
+
+(a) As a minimum this shall comprise of the driver being able to:
+
+— send and understand all the messages specified in Appendix C;
+
+— effectively communicate in normal, degraded and emergency situations;
+
+— complete the forms associated with the use of the Book of European and national Instructions.
+
+(b) Other members of the train crew whose duties require them to communicate with the infrastructure manager on safety-critical matters, shall as a minimum, be able to send and understand information describing the train and its operational status.
+
+The level of knowledge for staff accompanying trains other than train drivers shall be at least level 2 as described in Appendix E.
+
+**4.6.3. Initial and ongoing assessment of staff**
+
+4.6.3.1. Basic elements
+
+Railway undertakings and infrastructure managers are required to define the assessment process for their staff in order to meet the requirements specified in Commission Delegated Regulation (EU) 2018/762 ( 18 ) —————  .
+
+4.6.3.2. Analysis and update of training needs
+
+Railway undertakings and infrastructure managers shall undertake an analysis of training needs for their relevant staff and define a process for reviewing and updating their individual training needs in order to meet the requirements specified in Delegated Regulation (EU) 2018/762 —————  .
+
+This analysis shall set out both scope and complexity and take into account the risks associated with the operation of trains, traction and rolling stock. The railway undertaking shall define the process by which knowledge of on board staff of the routes worked over is acquired and maintained. This process shall be:
+
+— based upon the route information provided by the infrastructure manager; and
+
+— in accordance with the process described in point 4.2.1.
+
+For the tasks associated with ‘accompanying trains’ and ‘preparing trains’, the elements that shall be considered may be found in respectively the appendices F and G. As appropriate, these elements shall be put in place as part of the training for staff.
+
+It is possible that due to the type of operation envisaged by a railway undertaking or the nature of the network being run by an infrastructure manager, some of the elements in the appendices F and G shall not be appropriate. The analysis of training needs shall document those not deemed appropriate and the reasons why.
+
+**4.6.4. Auxiliary staff**
+
+The railway undertaking shall make sure that the auxiliary staff (for example, catering and cleaning) not forming part of the train crew is, in addition to their basic instruction, trained to respond to the instructions of the fully trained members of the train crew.
+
+**4.7. Health and safety conditions**
+
+**4.7.1. Introduction**
+
+Staff identified in point 4.2.1.1 and executing safety-critical tasks as specified in the SMS of a RU or IM shall have appropriate fitness to ensure that overall operational and safety standards are met.
+
+Railway undertakings and infrastructure managers shall set up and document the process they put in place to meet the medical, psychological and health requirements for their staff within their safety management system in accordance with Delegated Regulation (EU) 2018/762 defining common safety method on SMS.
+
+Medical examinations as specified in point 4.7.2 and 4.7.3 on the individual fitness of staff shall be conducted by a person established as medical doctor or a psychologist qualified to carry out such examinations. The results must be accepted by every IM and RU as proof of fitness of staff or potential staff members.
+
+Such examinations shall allow the member of staff executing safety-critical tasks to undertake similar tasks for another RU or IM, subject to the identification of additional medical, psychological and health requirements in the SMS of the RU or IM and to the satisfactory fitness of staff or potential staff members.
+
+Fitness requirements set in point 4.7.2 and in point 4.7.3 are applicable to:
+
+— Staff ‘accompanying trains’ other than the train driver,
+
+— Staff undertaking the task of preparing trains,
+
+— Staff undertaking the task of dispatching and authorising the movement of trains.
+
+4.7.1.1. Alcohol, drugs and psychotropic medication limits
+
+Staff shall not perform safety-critical tasks whilst vigilance is impaired by substances such as alcohol, drugs or psychotropic medication. Therefore, the railway undertaking and the infrastructure manager shall have in place procedures to control the risk that staff attend for work under the influence of such substances, or consume such substances at work.
+
+European or National rules of the Member State where a train service is operated apply with regard to defined limits of the above mentioned substances.
+
+**4.7.2. Medical examinations and psychological assessments**
+
+4.7.2.1. Before appointment
+
+4.7.2.1.1. Content of the medical examination
+
+Medical examinations shall cover:
+
+— General medical examination;
+
+— Examinations of sensory functions (vision, hearing, colour perception);
+
+— Urine or blood analysis for the detection of diabetes mellitus and other conditions as indicated by the clinical examination;
+
+— Screening for abuse of drugs.
+
+4.7.2.1.2. Psychological assessment
+
+The aim of the psychological assessment is to support the railway undertaking in the appointment and management of staff who have the cognitive, psychomotor, behavioural and personality capabilities to perform their roles safely.
+
+In determining the content of the psychological assessment —————  the following criteria relevant to the requirements of each safety function shall be taken into account:
+
+(a) Cognitive:
+
+— Attention and concentration,
+
+— Memory,
+
+— Perceptive capability,
+
+— Reasoning,
+
+— Communication.
+
+(b) Psychomotor:
+
+— Speed of reaction,
+
+— Gestured coordination.
+
+(c) Behavioural and personality
+
+— Emotional self-control,
+
+— Behavioural reliability,
+
+— Autonomy,
+
+— Conscientiousness.
+
+If any of those elements is omitted, the respective decision shall be justified and documented by a psychologist.
+
+Applicants shall demonstrate their psychological fitness by passing an examination conducted by, or under the supervision of — to be decided by the Member State — a psychologist or a medical doctor.
+
+4.7.2.2. After appointment
+
+4.7.2.2.1. Frequency of periodic medical examinations
+
+At least one systematic medical examination shall be performed:
+
+— Every 5 years for staff aged up to 40;
+
+— Every 3 years for staff aged between 41 and 62;
+
+— Every year for staff aged over 62.
+
+Increased frequency of examination shall be set by the medical doctor if the state of health of the member of the staff requires so.
+
+4.7.2.2.2. Content of the periodic medical examination
+
+If the worker complies with the criteria required at the examination, which is carried out before practising an occupation, the periodic specialised examinations shall include —————  :
+
+— General medical examination;
+
+— Examination of sensory functions (vision, hearing, colour perception);
+
+— Urine or blood analysis for the detection of diabetes mellitus and other conditions as indicated by the clinical examination;
+
+— Screening for abuse of drugs where clinically indicated.
+
+4.7.2.2.3. Additional medical examinations and/or psychological assessments
+
+Besides the periodic medical examination, an additional specific medical examination and/or psychological assessment shall be performed where there is reasonable ground for doubting the medical or psychological fitness of a member of staff or reasonable suspicion of use of drugs or use of alcohol over the limits allowed. This would be the case especially after an incident or accident caused by human error on the part of the individual.
+
+The railway undertaking and the infrastructure manager shall put systems in place to ensure that such additional examinations and assessments are undertaken as appropriate.
+
+**4.7.3. Medical requirements**
+
+4.7.3.1. General requirements
+
+Staff shall not suffer from medical conditions or take medical treatment likely to cause:
+
+— Sudden loss of consciousness;
+
+— Impairment of awareness or concentration;
+
+— Sudden incapacity;
+
+— Impairment of balance or coordination;
+
+— Significant limitation of mobility.
+
+The following vision and hearing requirements shall be met:
+
+4.7.3.2. Vision requirements
+
+— Aided or unaided distance visual acuity: 0,8 (right eye + left eye — measured separately); minimum of 0,3 for the worse eye;
+
+— Maximum corrective lenses: hypermetropia + 5/myopia – 8. The medical doctor may allow values outside this range in exceptional cases and after having sought the opinion of an eye specialist;
+
+— Intermediate and near vision: sufficient whether aided or unaided;
+
+— Contact lenses are allowed;
+
+— Normal colour vision: using a recognised test, such as the Ishihara, completed by another recognised test if required;
+
+— Vision field: normal (absence of any abnormality affecting the task to be performed);
+
+— Vision for both eyes: effective;
+
+— Binocular vision: effective;
+
+— Contrast sensitivity: good;
+
+— Absence of progressive eye disease;
+
+— Lens implants, keratotomies and keratectomies are allowed only on condition that they are checked on a yearly basis or according to a frequency set by the medical doctor.
+
+4.7.3.3. Hearing requirements
+
+Sufficient hearing confirmed with tone audiogram, that is:
+
+— Hearing good enough to hold a phone conversation going and be able to hear alert tones and radio messages
+
+— The use of hearing aids is allowed.
+
+**4.8. Additional information on infrastructure and vehicles**
+
+**4.8.1. Infrastructure**
+
+The requirements for the rail infrastructure related data items with regard to the operation and traffic management subsystem, and which shall be made available to railway undertakings through RINF, are specified in Appendix D.
+
+The infrastructure manager shall inform the railway undertaking of the changes on the infrastructure related data through RINF whenever such information becomes available and affects trains operation. The infrastructure manager is responsible for the accuracy of the data.
+
+Until 15 December 2026, provided the necessary adaptations to RINF Application were implemented by the Agency, the infrastructure manager shall provide these information through other means free of charge as soon as possible and in electronic format to railway undertakings, authorised applicants for path requests and, where applicable, for the applicant referred to in Article 2(22) of Directive (EU) 2016/797.
+
+**4.8.2. Rolling stock**
+
+The following rolling stock related data items shall be available to infrastructure managers:
+
+— whether the vehicle is constructed from materials which may be hazardous in case of accidents or fire (for example, asbestos); the keeper is responsible for the correctness of the data;
+
+— total length of the vehicle, including buffers if existing; the railway undertaking is responsible for the correctness of the data.
+
+**5\. INTEROPERABILITY CONSTITUENTS**
+
+**5.1. Definition**
+
+Article 2.7 of Directive (EU) 2016/797 defines the ‘interoperability constituents’.
+
+**5.2. List of constituents**
+
+In respect to the operation and traffic management subsystem, there is no interoperability constituent.
+
+**6\. ASSESSMENT OF CONFORMITY AND/OR SUITABILITY FOR USE OF THE CONSTITUENTS AND VERIFICATION OF THE SUBSYSTEM**
+
+**6.1. Interoperability constituents**
+
+As this Regulation does not yet specify any interoperability constituents, no assessment arrangements are discussed.
+
+**6.2. Operation and traffic management subsystem**
+
+**6.2.1. Principles**
+
+The operation and traffic management subsystem is a functional subsystem according to Annex II to Directive (EU) 2016/797.
+
+In accordance with Articles 9 and 10 of Directive (EU) 2016/798, railway undertakings and infrastructure managers shall demonstrate compliance with the requirements of this Regulation within their safety management system when applying for any new or amended safety certificate or safety authorisation in accordance with Commission Implementing Regulation (EU) 2018/763 ( 19 ).
+
+The common safety methods on safety management system requirements as laid down by Commission Delegated Regulation (EU) 2018/762 require national safety authorities to set up an inspection regime to supervise and monitor compliance with the safety management system in accordance with Commission Delegated Regulation (EU) 2018/761 ( 20 ), including all TSIs. None of the requirements contained within this Regulation require separate assessment by a Notified Body.
+
+Requirements in this Regulation that refer to structural subsystems and listed in the interfaces (point 4.3) are assessed under the relevant structural TSIs.
+
+**7\. IMPLEMENTATION**
+
+**7.1. General rules for implementation**
+
+In accordance with Article 9 of Directive (EU) 2016/798 and Article 5b of this Regulation, railway undertakings and infrastructure managers shall ensure compliance with this Regulation under their SMS, established following Delegated Regulation (EU) 2018/762.
+
+**7.1.1. Specific transition rules for Appendices A and C**
+
+Infrastructure managers may postpone, in coordination with the railway undertakings operating on their networks and in accordance with Annex II point 5.1.1 of Commission Delegated Regulation (EU) 2018/762, the implementation of Appendix A and Appendix C to 16 December 2025 at the latest. This is subject to the condition that the Agency and the concerned NSA receive not later than 16 June 2024:
+
+(a) a commitment of implementation issued by the IM’s management;
+
+(b) an implementation plan of the IM, including training schedules, which sets the delays for the application of the modified operational procedures necessary and, where relevant, the implementation of the respective appropriate IT tools.
+
+RUs shall provide training to drivers and relevant staff to operate trains in accordance with Appendix A and C by 16 December 2025 at the latest or any earlier date defined by the IM.
+
+**7.2. Specific cases**
+
+**7.2.1. Introduction**
+
+The following special provisions are permitted in the specific cases below.
+
+These specific cases belong to two categories:
+
+(a) the provisions apply either permanently (case ‘P’), or temporarily (case ‘T’).
+
+(b) In temporary cases Member States shall conform with the relevant subsystem by 2024 (case ‘T1’).
+
+**7.2.2. List of specific cases**
+
+7.2.2.1. Permanent specific case (P) Estonia, Latvia, Lithuania, Poland, Hungary and Slovakia
+
+For the implementation of point 4.2.2.1.3.2, freight trains which are operated solely on the 1 520 mm gauge network of Estonia, Latvia, Lithuania, Poland, Hungary and Slovakia may use the following train rear end signal.
+
+[image]
+
+The reflective disc shall have a diameter of 185 mm with a red circle diameter of 140 mm. Where justified by operating practices, the reflective disc may be replaced with one reflective plate in compliance with Appendix E to TSI WAG.
+
+For the implementation of point 4.2.2.1.3.1, passenger trains which are operated solely on the 1 520 mm gauge network of Estonia, Latvia, Lithuania, Poland, Hungary and Slovakia may use 3 steady red lights as train rear end signal following the scheme:
+
+[image]
+
+This specific case does not prevent the access of TSI compliant rolling stock to their network.
+
+7.2.2.2. Permanent specific case Ireland and the UK for Northern Ireland
+
+For the implementation of point 4.2.2.1.3.2, trains which are operated solely on the 1 600 mm track gauge system network of Ireland and Northern Ireland shall use 2 steady red lights as train rear end signal.
+
+7.2.2.3. Temporary specific case (T1) Ireland and United Kingdom
+
+For the implementation of point 4.2.3.2.1, Ireland and United Kingdom are using alphanumeric number in the existing systems. The MS set out the requirements and time schedule for the transition from alphanumeric train running numbers to numeric train running numbers in the target system.
+
+7.2.2.4. Permanent specific case (P) Finland
+
+For the implementation of point 4.2.2.1.3.2 and the implementation of common operational rule 5 of Appendix B, Finland is not using any rear end signal device for freight trains. The means to indicate the train rear end signal for freight trains as stated in point 4.2.2.1.3.2 are also accepted in Finland.
+
+## Appendix A — ERTMS operational principles and rules – version 6
+
+**1\. INTENTIONALLY BLANK**
+
+**2\. INTENTIONALLY BLANK**
+
+**3\. INTRODUCTION**
+
+**3.1. Purpose and structure of the document**
+
+This Appendix sets out the principles and harmonised rules for the operation of ERTMS.
+
+The structure of each rule is the following:
+
+(i) title;
+
+(ii) when necessary, situations in which the rule applies, presented in a frame, including the applicable ETCS levels; sometimes the situation is described for some specific sub-sections of the rules;
+
+(iii) the rule itself.
+
+When this Appendix refers to ETCS level 1 it applies to both applications, with or without trackside signals, unless otherwise stated.
+
+When this Appendix refers to ETCS level 2 it applies to both applications, with or without trackside signals, unless otherwise stated.
+
+The European Instructions referenced in this Appendix are listed under Appendix C2 to this TSI.
+
+All language referring to people applies equally to male and female persons.
+
+Part A is intentionally blank.
+
+Part B contains the different ETCS operational train categories.
+
+Part C contains the list of references to non-harmonised rules. In some situations a procedure is not related to ERTMS and therefore depends on non-harmonised rules.
+
+The description of the technical functions for ETCS and GSM-R is contained in the corresponding system requirements specification.
+
+If information displayed on the DMI does not require an action from the driver this information is not contained in the rules.
+
+**SCOPE AND FIELD OF APPLICATION**
+
+This Appendix is fully applicable to trains fitted with ETCS On-board units complying with the single set of specifications of Implementing Regulation (EU) 2023/1695 with an operated system version X.Y up to and including 2.2. It is also applicable to On-board units complying with Set of specifications #2 or Set of specifications #3 and largely applicable to ETCS On-board units complying with Set of specifications #1 of Regulation (EU) 2016/919, provided that the DMI used fulfills the specification ERA_ERTMS_015560.
+
+The scope is the following:
+
+(i) ETCS level 0 application;
+
+(ii) ETCS level 1 application whether or not trackside signals or infill are present;
+
+(iii) ETCS level 2 application, whether or not trackside signals are present;
+
+(iv) ETCS transitions between level 0, level 1 and level 2 applications;
+
+(v) ETCS level NTC application;
+
+(vi) ETCS transitions to / from level NTC;
+
+(vii) GSM-R.
+
+Class B systems (even when operated through the ETCS DMI) are out of the scope.
+
+The rules have been developed independently of other control command systems that may be present including where lines are equipped with ETCS level 1 / 2.
+
+When ETCS level 1 or ETCS level 2 are implemented on lines fitted with other control command systems it is necessary to assess the applicability of these rules and if necessary supplement them with non-harmonised rules. This includes those lines fitted with both ETCS level 1 and ETCS level 2.
+
+GSM-R voice radio operational rules are applicable on lines equipped with GSM-R independently of the control command system in use. Conversely, ETCS operational rules are applicable on lines equipped with ETCS independently of the voice radio system in use.
+
+The applicability of the rules further depends on the engineering solutions adopted by the ERTMS trackside subsystem. In this context, some rules may not need to apply if the relevant functions are not implemented trackside (e.g. when track conditions are not transmitted or the level crossing procedure is not implemented); yet when a rule needs to apply, it will always do so in the way described in this Appendix.
+
+All actions involving the driver assume his physical presence in the driver’s cab, unless when required to examine a technical failure of the train at standstill, obtain signaller’s instructions through a fixed lineside phone or when requested by the signaller or non-harmonised rules.
+
+Throughout this Appendix, the ETCS On-board unit is assumed to be powered on if not otherwise stated. The desk of the active driving cab is assumed to be open unless otherwise stated.
+
+An End of Authority (EOA) can be physically identified by means of an ETCS Stop Marker or an ETCS Location Marker. The EOA can also be identified by a lineside signal or other marker board with a stop indication. Under certain conditions, an EOA can also be at the train’s front end.
+
+**4\. REFERENCES, TERMS AND ABBREVIATIONS**
+
+**4.1. (not used)**
+
+**4.2. Terms & abbreviations**
+
+**Table 1**
+
+**Terms***
+
+<table>
+<tbody><tr><td>Term</td><td>Definition</td></tr>
+<tr><td>Acknowledgement</td><td>Confirmation given by the driver to a request from the ETCS on-board that he/she has received information he/she needs to take into account.</td></tr>
+<tr><td>Applicable speed limit (in SR)</td><td>The lowest speed limit of: — maximum speed for SR,  — maximum train speed,  — timetable / Route Book,  — temporary speed restrictions (transmitted by other means than European Instruction 1, 2, 5, 6, 7 or 8),  — European Instruction. </td></tr>
+<tr><td>Authorisation for ERTMS train movement</td><td>Permission for a train to move given by means of: — a trackside signal at proceed aspect, or  — an MA, or  — a European Instruction: —  — to start after preparing a movement, or  — to pass EOA, or  — to proceed after trip. </td></tr>
+<tr><td>Border crossing</td><td>Location where trains cross from a railway network in one Member State to a railway network in another Member State.</td></tr>
+<tr><td>De-registration</td><td>Termination of the temporary relationship between the telephone number and the train running number. This action can be initiated by the user of a GSM-R radio, by automatic systems or by the network authority. The de-registration allows the de-registered train running number to be re-used.</td></tr>
+<tr><td>Driver Machine Interface (DMI)</td><td>Train device to enable communication between the ETCS on-board and the driver.</td></tr>
+<tr><td>Emergency propelling area</td><td>Area where propelling movements in RV are allowed.</td></tr>
+<tr><td>Emergency stop order</td><td>ETCS order braking a train with the maximum brake force until the train is at a standstill.</td></tr>
+<tr><td>ETCS Location Marker</td><td>Harmonised trackside ETCS marker board defined in EN 16494/2015 () used to identify a potential EOA, e.g. the end of a block section.</td></tr>
+<tr><td>ETCS on-board</td><td>The part of ETCS installed on a railway vehicle.</td></tr>
+<tr><td>ETCS Stop Marker</td><td>Harmonised trackside ETCS marker board defined in EN 16494/2015 used to: — identify a potential EOA, and  — indicate the location where a driver has to stop the train, if running without an MA. </td></tr>
+<tr><td>ETCS operational train category</td><td>Set of technical and/or operational characteristics of a train to which a specific ETCS speed profile applies.</td></tr>
+<tr><td>Functional number (GSM-R) </td><td>Full number used within the functional addressing scheme to identify an end user or a system by function or role rather than by a specific item of radio equipment or user subscription. The functional number can be divided into two parts:  — functional addressing (process of addressing a call using a specific number, representing the function a user is performing, rather than a number identifying the GSM-R on-board),  — location dependent addressing (process of addressing a particular function – typically a signaller – based on the current location of the user – typically a train). </td></tr>
+<tr><td>GSM-R mode</td><td>Status of the GSM-R on-board which provides functions for: — train movement,  — or movement of a shunting composition. </td></tr>
+<tr><td>GSM-R network</td><td>Radio network which provides GSM-R functions.</td></tr>
+<tr><td>GSM-R network marker</td><td>Harmonised trackside GSM-R signal defined in EN 16494/2015 to indicate the network to be selected.</td></tr>
+<tr><td>GSM-R on-board</td><td>The part of GSM-R installed on a railway vehicle.</td></tr>
+<tr><td>Maximum speed for RV</td><td>Maximum speed given from the ETCS trackside in RV.</td></tr>
+<tr><td>Maximum speed for SR</td><td>Maximum speed given from the ETCS trackside in SR.</td></tr>
+<tr><td>Movement Authority (MA)</td><td>Permission for a train (shunting composition) to move to a specific location with supervision of speed.</td></tr>
+<tr><td>Non-stopping area</td><td>Area defined by the Infrastructure Manager where it may not be safe or suitable to stop a train.</td></tr>
+<tr><td>Override EOA speed</td><td>Maximum speed when the override EOA function is active.</td></tr>
+<tr><td>Permitted speed</td><td>Maximum speed at which a train can run without ETCS warning and/or brake intervention.</td></tr>
+<tr><td>Proceed aspect</td><td>Any signal aspect which permits the driver to pass the signal.</td></tr>
+<tr><td>Propelling</td><td>Movement of a train where the driver is not in the leading cab of the leading vehicle.</td></tr>
+<tr><td>Radio communication</td><td>Exchange of information between the ETCS on-board and the RBC/radio infill unit.</td></tr>
+<tr><td>Radio Block Centre (RBC)</td><td>ETCS trackside centralised unit controlling ETCS train movements in level 2.</td></tr>
+<tr><td>Radio hole</td><td>A pre-defined area where it is not possible to establish a reliable radio communication channel.</td></tr>
+<tr><td>Registration</td><td>Temporary relationship between the telephone number and the train running number.</td></tr>
+<tr><td>Release speed</td><td>Maximum speed at which a train is allowed to reach the end of its MA.</td></tr>
+<tr><td>Revocation of MA</td><td>Withdrawal of a previous given Movement Authority.</td></tr>
+<tr><td>Route Book</td><td>Description of the lines and the associated line-side equipment for the lines over which the driver will operate and relevant to the driving task.</td></tr>
+<tr><td>Securing</td><td>Measures to be applied to avoid unintentional movement of railway vehicles.</td></tr>
+<tr><td>Shunting movement</td><td>Way of moving vehicles without train data and controlled by shunting orders.</td></tr>
+<tr><td>Tandem</td><td>Two or more traction units mechanically and pneumatically but not electrically coupled in the same train, each one requiring its own driver.</td></tr>
+<tr><td>Temporary speed restriction</td><td>Reduction of the line speed for a limited period of time.</td></tr>
+<tr><td>Text message</td><td>Information in writing displayed on the Driver Machine Interface.</td></tr>
+<tr><td>Train data</td><td>Information which describes the characteristics of a train.</td></tr>
+<tr><td>Train preparer</td><td>Staff in charge of the preparation of a train.</td></tr>
+<tr><td>Transition</td><td>Controlled change between the different ETCS levels.</td></tr>
+<tr><td>Transition point</td><td>Point where a transition between ETCS levels takes place.</td></tr>
+<tr><td>Trip</td><td>Irrevocable application of the emergency brakes by ETCS until the train/shunting composition is at a standstill.</td></tr>
+<tr><td colspan="2">(1)  EN 16494/2015 – Railway applications – Requirements for ERTMS Trackside Boards. </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Abbreviations***
+
+<table>
+<tbody><tr><td>Abbreviation</td><td>  </td></tr>
+<tr><td>AD</td><td>Automatic Driving mode</td></tr>
+<tr><td>ATO</td><td>Automated Train Operation</td></tr>
+<tr><td>BMM</td><td>Big Metal Mass</td></tr>
+<tr><td>BTM</td><td>Balise Transmission Module</td></tr>
+<tr><td>DAS</td><td>Driver Advisory System</td></tr>
+<tr><td>DMI</td><td>Driver Machine Interface</td></tr>
+<tr><td>EOA</td><td>End Of Authority</td></tr>
+<tr><td>ERTMS</td><td>European Rail Traffic Management System</td></tr>
+<tr><td>ETCS</td><td>European Train Control System</td></tr>
+<tr><td>FS</td><td>Full Supervision mode</td></tr>
+<tr><td>G</td><td>Goods train braking mode</td></tr>
+<tr><td>GSM-R</td><td>Global System for Mobile communication – Railway</td></tr>
+<tr><td>IM</td><td>Infrastructure Manager</td></tr>
+<tr><td>LS</td><td>Limited Supervision mode</td></tr>
+<tr><td>MA</td><td>Movement Authority</td></tr>
+<tr><td>NL</td><td>Non-Leading mode</td></tr>
+<tr><td>NTC</td><td>National Train Control system</td></tr>
+<tr><td>OS</td><td>On Sight mode</td></tr>
+<tr><td>P</td><td>Passenger train braking mode</td></tr>
+<tr><td>RBC</td><td>Radio Block Centre</td></tr>
+<tr><td>REC</td><td>Radio Emergency Call</td></tr>
+<tr><td>RU</td><td>Railway Undertaking</td></tr>
+<tr><td>RV</td><td>Reversing mode</td></tr>
+<tr><td>SH</td><td>Shunting mode</td></tr>
+<tr><td>SL</td><td>Sleeping mode</td></tr>
+<tr><td>SN</td><td>National System</td></tr>
+<tr><td>SR</td><td>Staff Responsible mode</td></tr>
+<tr><td>STM</td><td>Specific Transmission Module</td></tr>
+<tr><td>TIMS</td><td>Train Integrity Monitoring System</td></tr>
+<tr><td>UN</td><td>Unfitted mode</td></tr>
+<tr><td>VBC</td><td>Virtual Balise Cover</td></tr>
+<tr><td colspan="2">* For a complete list of ERTMS terms and abbreviations refer to Subset 023 ‘Glossary of Terms and Abbreviations’ under Appendix A of Implementing Regulation (EU) 2023/1695 (‘TSI CCS’).</td></tr>
+</tbody>
+</table>
+
+**5\. PRINCIPLES**
+
+**5.1. Principles for ETCS**
+
+**5.1.1. CAB-signalling**
+
+The driver shall observe the displayed information on the DMI and shall react as required by this Appendix.
+
+The driver may, depending on the trackside implementation, be required to take into account the harmonised marker boards defined in EN 16494:2015 – Railway applications – Requirements for ERTMS Trackside Boards as well as other non-harmonised trackside information.
+
+**5.1.2. Knowledge of operating level**
+
+The driver and the signaller shall always operate according to the ETCS rules that are particular to the specific operating ETCS level.
+
+When more than one ETCS level are coexisting, the signaller shall ascertain what ETCS level the concerned train is operating in before issuing any instruction to the driver.
+
+**5.1.3. (not used)**
+
+**5.1.4. (not used)**
+
+**5.1.5. (not used)**
+
+**5.1.6. Authorisation to start a movement in SR**
+
+The driver shall be authorised by the signaller to start a movement in SR by means of European Instruction 7, except in case of starting a movement in ETCS level 1 / 2 with trackside signals.
+
+**5.1.7. Speed restrictions in SR**
+
+The signaller shall give all speed restrictions lower than the maximum speed for SR to the driver of a train running in SR by means of a European Instruction 1, 2, 5, 6, 7 or 8 except if the driver is informed by a dedicated document/computer medium about these speed limitations.
+
+**5.1.8. Authorisation to pass an EOA**
+
+The driver shall only be authorised to pass an EOA by the signaller by means of a European Instruction 1 or 7.
+
+**5.1.9. Train/shunting composition being tripped**
+
+After a trip has occurred, the driver shall restart in the initial or opposite direction only if he/she has received authorisation by means of a European Instruction 2 from the signaller.
+
+**5.1.10. ETCS stop marker**
+
+The driver shall stop on the approach to an ETCS Stop Marker:
+
+(i) indicating the EOA of the current MA, or
+
+(ii) when running without an MA unless he/she has received a specific authorisation from the signaller by means of European Instruction 1 or 7.
+
+**5.1.11. ETCS location marker**
+
+The driver shall stop on the approach to an ETCS Location Marker:
+
+(i) indicating the EOA of the current MA, or
+
+(ii) when running without an MA if he/she has received a specific order from the signaller.
+
+**5.2. (not used)**
+
+**6\. ETCS OPERATIONAL RULES**
+
+**6.1. Putting the ETCS on-board into service**
+
+The driver switches the ETCS on-board on.
+
+Levels 0, 1, 2, NTC
+
+**6.1.1. Entering data during start of mission**
+
+When requested by the ETCS on-board, the driver shall enter, re-enter or re-validate the driver identification, the train running number, the ETCS level, the radio network identification and the RBC identification and phone number.
+
+In case the following text message is displayed:
+
+‘Radio network registration failed’
+
+the driver shall enter the radio network identification.
+
+**6.1.2. Manual change of data**
+
+If a change is required, the driver shall enter/modify and validate:
+
+(i) the train running number;
+
+(ii) the driver identification while at standstill or, if allowed by national value, while running;
+
+(iii) the ETCS level, the radio network identification and the RBC identification and phone number while at standstill.
+
+**6.2. Preparing a movement**
+
+The ETCS on-board is in service.
+
+Levels 0, 1, 2, NTC
+
+In ETCS level 2, in case the train is rejected the driver shall apply rule ‘Reacting to unexpected situations when preparing a train movement’ (section 6.40.2).
+
+**6.2.1. The traction unit has to move as a train**
+
+The driver shall:
+
+(i) apply rule ‘Entering train data during train preparation’ (section 6.4.1);
+
+(ii) select ‘Start’.
+
+In case an acknowledgement for SR is requested, the driver shall apply rule ‘The traction unit has to move as a train and an acknowledgement for SR is requested’ (section 6.2.4).
+
+In case an acknowledgement for SH is requested in ETCS level 2, the driver shall apply rule ‘Reacting to unexpected situations when preparing a train movement’ (section 6.40.1).
+
+**6.2.2. The traction unit has to move in SH**
+
+The driver shall prepare for shunting and apply rule ‘Performing shunting movements in SH’ (section 6.3).
+
+**6.2.3. The traction unit has to move in NL**
+
+The driver of the non-leading traction unit shall prepare for tandem movement and apply rule ‘Performing a tandem movement’ (section 6.32).
+
+**6.2.4. The traction unit has to move as a train and an acknowledgement for SR is requested**
+
+Levels 1 without trackside signals, 2 without trackside signals
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+The driver shall inform the signaller, receive authorisation to start in SR by means of European Instruction 7 and acknowledge.
+
+Before authorising a driver to start in SR, the signaller shall, according to non-harmonised rules:
+
+(i) check if all the conditions for the route are met;
+
+(ii) check all restrictions and/or instructions that are necessary and include them in European Instruction 7;
+
+(iii) check for temporary speed restrictions to be included in European Instruction 7.
+
+If the train is located at an ETCS Stop Marker
+
+The signaller shall authorise the driver to pass this ETCS Stop Marker by means of European Instruction 7. This authorisation is valid from this ETCS Stop Marker to the next one. If the conditions allow, the Signaller can authorise the driver to pass this second ETCS Stop Marker as well using the same European Instruction 7. The authorisation is then valid up to the ETCS Stop Marker following the second one in the direction of travel.
+
+The driver shall:
+
+(i) receive European Instruction 7 from the signaller;
+
+(ii) check the applicable speed limit;
+
+(iii) use, unless instructed not to do so, the override function for each of the ETCS Stop Markers to be passed and wait for the following symbol:
+
+[image]
+
+(iv) start the train;
+
+(v) not exceed the override EOA speed while this symbol is displayed.
+
+If the train is not located at an ETCS Stop Marker
+
+The signaller shall authorise the driver to start by means of European Instruction 7. This authorisation is valid from the current location of the train to the first ETCS Stop Marker in the direction of travel. If the conditions allow, the signaller can authorise the driver to pass this as well as the next ETCS Stop Marker by means of the same European Instruction 7. This authorisation is then valid up to the ETCS Stop Marker following the last one authorised by the European Instruction 7 to be passed.
+
+The driver shall:
+
+(i) receive European Instruction 7 from the signaller;
+
+(ii) check the applicable speed limit;
+
+(iii) start the train;
+
+(iv) when approaching an ETCS Stop Marker and if authorised by the European Instruction 7 to pass it, use, unless instructed not to do so, the override function and wait for the following symbol:
+
+[image]
+
+(v) start the train or continue moving;
+
+(vi) not exceed the override EOA speed while this symbol is displayed.
+
+It is possible to provide more than one European Instructions for an equal number of consecutive ETCS Stop Markers to be passed.
+
+If the signaller can establish that the track up to the end of the authorisation to be issued is free then he/she may exempt the driver from running on sight in SR.
+
+Levels 1 with trackside signals, 2 with trackside signals
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+The driver shall apply rule ‘Running in SR’ (section 6.14).
+
+**6.2.5. The traction unit has to move in SL**
+
+The driver / train preparer shall make sure that all driving desks of any non-leading traction unit, which is electrically connected to and will be remotely controlled from the leading one, are closed and remain so as long as this traction unit is remotely controlled from the leading one.
+
+**6.3. Performing shunting movements in SH**
+
+Rolling stock has to be moved in SH.
+
+Levels 1, 2
+
+**6.3.1. Manual entry into SH**
+
+The driver shall select ‘Shunting’ according to non-harmonised rules.
+
+**6.3.2. Automatic entry into SH**
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall:
+
+(i) first ensure he/she has the correct information concerning the movement he/she is to perform;
+
+(ii) then acknowledge.
+
+**6.3.3. Running in SH**
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.3.4. Maintain SH when changing the cab**
+
+When the shunting procedure requires the use of different cabs the driver is allowed to select ‘Maintain Shunting’ before closing the driving desk.
+
+**6.3.5. Exit from SH**
+
+When all shunting movements to be performed in SH are finished the driver shall:
+
+(i) select ‘Exit Shunting’;
+
+(ii) ensure that no traction unit remains in the ‘Maintain Shunting’ status.
+
+**6.3.6. SH not granted**
+
+Level 2
+
+When one of the following text messages is displayed:
+
+‘SH refused’
+
+‘SH request failed’
+
+the driver shall inform the signaller about the situation.
+
+The driver and signaller shall apply non-harmonised rules.
+
+**6.3.7. Passing a defined border of a shunting area**
+
+When a shunting composition needs to pass a defined border of a shunting area the driver and signaller shall apply non-harmonised rules.
+
+**6.4. Entering train data**
+
+Train Data have to be entered or modified.
+
+Levels 0, 1, 2, NTC
+
+**6.4.1. Entering train data during train preparation**
+
+The driver / train preparer shall enter/modify and validate all of the following train data if this data is not pre-configured on-board or received from ETCS external sources:
+
+(i) ETCS operational train category;
+
+(ii) train length;
+
+(iii) brake percentage;
+
+(iv) maximum train speed;
+
+(v) axle load category;
+
+(vi) train fitted with airtight system;
+
+(vii) loading gauge;
+
+(viii) additional data for the available STMs;
+
+(ix) specific data for ATO, if requested.
+
+Before confirming train data that are pre-configured on-board or received from ETCS external sources and that are modifiable by the driver, the train preparer shall make sure the train data and the train composition match.
+
+**6.4.2. Manual change of train data**
+
+After each modification of the composition of the train and after a technical problem that leads to a change of the train data, the train preparer / driver shall:
+
+(i) determine the new train data;
+
+(ii) enter the new train data;
+
+(iii) validate the new train data.
+
+**6.4.3. Change of train data by ETCS external sources**
+
+When the following text message is displayed on the DMI:
+
+‘Train data changed’
+
+a) if the change of train data leads to an application of the brake
+
+When at a standstill, the driver shall:
+
+(i) acknowledge the brake application;
+
+(ii) modify and/or validate the train data if requested by the on-board system;
+
+(iii) take into account the modified train data.
+
+In ETCS level 1, and in ETCS level 2 if no new MA is received, the signaller shall authorise the driver to pass the EOA (rule ‘Authorising the passing of an EOA’ – section 6.39).
+
+b) in all other cases
+
+The driver shall take into account the modified train data.
+
+**6.5. (not used)**
+
+**6.6. (not used)**
+
+**6.7. Entering and operating in ETCS level 0**
+
+**6.7.1. Announcement**
+
+The train is approaching an ETCS level 0 area.
+
+Levels 1, 2, NTC
+
+When a transition to ETCS level 0 is announced by displaying the following symbol:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.7.2. Acknowledgement**
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall acknowledge.
+
+**6.7.3. Running**
+
+The train is running in an ETCS level 0 area.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.8. Entering and operating in ETCS level 1**
+
+**6.8.1. Announcement**
+
+The train is approaching an ETCS level 1 area.
+
+Levels 0, 2, NTC
+
+When a transition to ETCS level 1 is announced by displaying the following symbol:
+
+[image]
+
+the driver shall prepare to apply rules for ETCS level 1.
+
+**6.8.2. (not used)**
+
+**6.8.3. Running**
+
+The train is running in an ETCS level 1 area.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply rules according to ETCS level 1.
+
+**6.9. Entering and operating in ETCS level 2**
+
+**6.9.1. Announcement**
+
+The train is approaching an ETCS level 2 area.
+
+Levels 0, 1, NTC
+
+When a transition to ETCS level 2 is announced by displaying the following symbol:
+
+[image]
+
+the driver shall prepare to apply rules for ETCS level 2.
+
+**6.9.2. (not used)**
+
+**6.9.3. Running**
+
+The train is running in an ETCS level 2 area.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply rules according to ETCS level 2.
+
+When requested by the signaller to manually confirm train integrity on the DMI, the driver shall do so only at standstill and according to RU rules.
+
+**6.10. (not used)**
+
+**6.11. Entering and operating in ETCS level NTC**
+
+**6.11.1. Announcement**
+
+The train is approaching an ETCS level NTC area.
+
+Levels 0, 1, 2
+
+When a transition to ETCS level NTC is announced by displaying a symbol indicating the name of the applicable NTC, as example:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+A specific symbol for each NTC exists.
+
+**6.11.2. Acknowledgement**
+
+When the symbol indicating the applicable NTC is displayed with a flashing frame, as example:
+
+[image]
+
+the driver shall acknowledge.
+
+A specific symbol for each NTC exists.
+
+**6.11.3. Running**
+
+The train is running in an ETCS level NTC area.
+
+When the symbol indicating the entered NTC is displayed, as example:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+A specific symbol for each NTC exists.
+
+**6.12. Running in FS**
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver
+
+(i) shall not exceed the permitted speed;
+
+(ii) may, if DAS information is available on-board:
+
+— follow the target advice speed when displayed on the DMI,
+
+— coast when [image] is displayed,
+
+— respect the stopping points if indicated,
+
+— request a stopping point to be skipped if instructed and this option is available on the DMI,
+
+— operate the doors when invited to do so by relevant DMI indications.
+
+In ETCS level 1 with trackside signals the driver is authorised to proceed without a new MA when the trackside signal shows a proceed aspect.
+
+If in addition the following text message is displayed:
+
+‘Entering FS’
+
+the driver shall not exceed speed restrictions that apply for the part of the train that is not covered by the FS MA.
+
+**6.13. Running in OS**
+
+Levels 1, 2
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall:
+
+(i) acknowledge;
+
+(ii) start or continue applying rule 9 of Appendix B2.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall:
+
+(i) apply rule 9 of Appendix B2 as long as this symbol is displayed;
+
+(ii) not exceed the permitted speed.
+
+If in addition the following text message is displayed:
+
+‘Entering OS’
+
+the driver shall not exceed speed restrictions that apply for the part of the train that is not covered by the OS MA.
+
+**6.14. Running in SR**
+
+Levels 1, 2
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall:
+
+(i) first receive an authorisation for ERTMS train movement;
+
+(ii) check the applicable speed limit;
+
+(iii) then acknowledge.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall:
+
+(i) run on sight, unless a European Instruction 1, 2 or 7 exempts him from running on sight in SR;
+
+(ii) not exceed the applicable speed limit;
+
+(iii) in ETCS level 1 without trackside signals and in ETCS level 2 without trackside signals, when approaching the next ETCS Stop Marker inform the signaller and apply rule ‘Authorising the passing of an EOA’ (section 6.39) unless already authorized to pass this ETCS Stop Marker by means of a European Instruction.
+
+It is possible to provide more than one European Instructions for an equal number of consecutive ETCS Stop Markers to be passed.
+
+**6.15. Running in LS**
+
+Levels 1, 2
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall acknowledge according to non-harmonised rules.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.16. Running in UN**
+
+Level 0
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall acknowledge according to non-harmonised rules.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.17. Running in SN**
+
+Level NTC
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall acknowledge according to non-harmonised rules.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply non-harmonised rules.
+
+**6.18. Approaching an EOA with a release speed indication**
+
+Levels 1, 2
+
+When the train is approaching an EOA and a release speed is displayed on the DMI, the driver is authorised:
+
+(i) to approach a signal, an ETCS Stop Marker, an ETCS Location Marker or a buffer stop which is a short distance behind the EOA indicated on the DMI without exceeding the release speed;
+
+(ii) in ETCS level 1 with trackside signals to proceed without exceeding the release speed when the trackside signal shows a proceed aspect.
+
+**6.19. Managing a track ahead free request**
+
+The train is at a standstill or approaching a trackside signal, or an ETCS Stop Marker / ETCS Location Marker.
+
+Level 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver is allowed to confirm that the track ahead is free if he/she can ascertain that the track section between the head of the train and the next trackside signal, ETCS Stop Marker or ETCS Location Marker is free.
+
+**6.20. Passing a section with lowered pantograph(s)**
+
+The train is approaching a section of the line to be passed with lowered pantograph(s).
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver shall lower the pantograph(s), taking into account their position.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver shall keep the pantograph(s) lowered.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver is authorised to raise the pantograph(s), taking into account their positions.
+
+* For the exact dimensions and layout of the marker boards, EN 16494/2015 needs to be used.
+
+**6.21. Changing the electric power supply**
+
+The train is approaching a section of the line where the electric power supply must be changed.
+
+Levels 1, 2
+
+When one of the following symbols is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, one of the following marker boards is encountered:
+
+[image]
+
+the driver shall change the electric power supply accordingly.
+
+When one of the following symbols is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, one of the following marker boards is encountered:
+
+[image]
+
+the driver shall ensure that the power supply has changed accordingly.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered:
+
+[image]
+
+the driver is informed about approaching a line without any traction system.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered:
+
+[image]
+
+the driver is informed about reaching a line without any traction system.
+
+**6.22. Passing a section with main power switch switched off**
+
+The train is approaching a section of the line where the main power switch must be switched off.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver shall switch off the main power switch, taking into account the position of the pantographs, or, if allowed by the Infrastructure Manager, keep the main power switch on and refrain from applying traction.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver shall keep the main power switch switched off or, if allowed by the Infrastructure Manager, continue to refrain from applying traction.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered
+
+[image] *
+
+the driver is authorised to switch on the main power switch, taking into account the position of the pantographs, and is allowed to apply traction again.
+
+* For the exact dimensions and layout of the marker boards, EN 16494:2015 needs to be used.
+
+**6.23. Passing a non-stopping area**
+
+The train is approaching a non-stopping area.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver is notified of an upcoming area in which he/she shall avoid stopping.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall avoid stopping.
+
+**6.24. Passing a section with inhibition of magnetic shoe brake**
+
+The train is approaching a section of the line where the magnetic shoe brake shall not be used.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall release the magnetic shoe brake, if applied, except in an emergency.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall not use the magnetic shoe brake except in an emergency.
+
+**6.25. Passing a section with inhibition of eddy current brake**
+
+The train is approaching a section of the line where the eddy current brake shall not be used.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall release the eddy current brake, if applied, except in an emergency.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall not use the eddy current brake except in an emergency.
+
+**6.26. Passing a section with inhibition of regenerative brake**
+
+The train is approaching a section of the line where the regenerative brake shall not be used.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall release the regenerative brake, if applied, except in an emergency.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall not use the regenerative brake except in an emergency.
+
+**6.27. Passing a pressure seal section**
+
+The train is approaching a section of the line where the air condition intakes are to be closed.
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall close the air conditioning intakes.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall keep the air conditioning intakes closed.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver is authorised to open the air conditioning intakes.
+
+**6.28. Sounding the audible warning device**
+
+Levels 1, 2
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered:
+
+[image]
+
+the driver shall apply the audible warning device unless prevented by non-harmonised rules.
+
+**6.29. Changing of adhesion factor**
+
+The train is in a section of line where the adhesion factor could be changed.
+
+Levels 1, 2
+
+If the national value allows the driver to select ‘Slippery rail’, he/she may do so when the adhesion conditions are poor or when informed by the signaller. If the driver is not informed by the signaller before selecting ‘Slippery rail’, the driver shall inform the signaller.
+
+When a signaller is informed about poor adhesion conditions, he/she shall activate the ETCS reduced adhesion function, where possible, and if this is not possible he/she shall take measures as prescribed by the IM, until normal operation is restored.
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply internal RU rules.
+
+**6.30. Passing a radio hole**
+
+The train is in a section of line without radio coverage.
+
+Level 2
+
+When the following symbol is displayed:
+
+[image]
+
+the driver may continue on any valid movement authority.
+
+If the driver reaches the end of authority and the symbol is still displayed, the driver shall inform the signaller. The signaller and driver shall apply rule ‘Authorising the passing of an EOA’ (section 6.39).
+
+**6.31. (not used)**
+
+**6.32. Performing a tandem movement**
+
+A non-leading traction unit is coupled to the leading traction unit (or to a train including the leading traction unit).
+
+Levels 0, 1, 2, NTC
+
+**6.32.1. Entry into NL**
+
+The driver of the non-leading traction unit shall select ‘Non-Leading’.
+
+When the following symbol is displayed on the DMI:
+
+[image]
+
+the driver of the non-leading traction unit shall confirm to the driver of the leading traction unit that the non-leading traction unit is in NL.
+
+**6.32.2. Performing the tandem movement**
+
+Both drivers shall apply internal RU rules.
+
+**6.32.3. Exit from NL**
+
+When the train is at a standstill the driver of the non-leading traction unit shall:
+
+(i) apply the brakes;
+
+(ii) confirm to the driver of the leading traction unit that the non-leading traction unit is no longer in NL.
+
+**6.33. Revoking an authorisation for ERTMS train movement**
+
+The signaller decides to change existing traffic arrangements.
+
+Levels 1, 2
+
+**6.33.1. Measures before making traffic arrangements**
+
+(a) In case the co-operative shortening of the MA is possible
+
+If possible in ETCS level 2 the signaller shall revoke an MA by the use of the co-operative shortening of MA.
+
+(b) In all other cases
+
+In all other cases, the signaller shall apply non-harmonised rules to stop the train if it is not already at standstill.
+
+Once the train is at a standstill and before making traffic arrangements, the signaller shall order the driver to remain at a standstill by means of European Instruction 3 or other available means and to delete any MA remaining on-board if required.
+
+**6.33.2. To restart the trains**
+
+To restart the trains the signaller shall:
+
+(i) issue an authorisation for ERTMS train movement;
+
+(ii) revoke European Instruction 3 if one has been issued.
+
+**6.34. Taking measures in the event of an emergency**
+
+An emergency situation occurs.
+
+Levels 1, 2
+
+**6.34.1. To protect the trains**
+
+When a member of staff discovers an emergency situation, he/she shall apply rule 14 of Appendix B2.
+
+To stop trains in ETCS level 2, the signaller may use the emergency stop order; the emergency stop order shall not be revoked before it is safe for these trains to restart.
+
+The signaller may use European Instruction 3 to keep the stopped trains at standstill if required.
+
+When the following text message is displayed:
+
+‘Emergency stop’
+
+and the train is tripped, the driver shall apply rule ‘Responding to a trip’ (section 6.41).
+
+**6.34.2. To restart the trains**
+
+The signaller shall:
+
+(i) decide if it is possible to authorise train movement;
+
+(ii) decide if instructions and/or restrictions for train movement are necessary;
+
+(iii) revoke the emergency stop order if one has been issued;
+
+(iv) revoke European Instruction 3 if one has been issued;
+
+(v) give authorisation to the drivers to restart.
+
+To restart trains that have not been tripped and if instructions and/or restrictions are necessary the signaller shall issue a European Instruction(s). In ETCS level 1 with trackside signals the driver shall run on sight up to the next trackside signal.
+
+To restart trains that have been tripped, the signaller and driver shall apply rule ‘Responding to a trip – to restart’ (section 6.41.2).
+
+**6.34.3. To protect and restart shunting movements**
+
+The signaller and driver shall apply non-harmonised rules.
+
+**6.35. Stopping in a safe area**
+
+The driver needs to stop the train in a safe area.
+
+Levels 1, 2
+
+The driver shall toggle-on the display of the indication of the safe areas where the train can stop.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered:
+
+[image]
+
+and the driver decides to stop at the indicated safe area he/she shall take into account the remaining distance displayed on the DMI or the distance up to the marker board marking the start of the safe area.
+
+When the following symbol is displayed:
+
+[image]
+
+or, when running without an MA or if this functionality is not supported by the trackside, the following marker board is encountered:
+
+[image]
+
+and the driver decides to stop at the indicated safe area, he/she shall stop the train taking into account its length.
+
+When the following marker board is encountered:
+
+[image]
+
+the driver is informed that he/she has reached the end of the safe area.
+
+**6.36. Propelling in RV**
+
+A train has to be moved in the reverse direction inside an emergency propelling area.
+
+Levels 1, 2
+
+**6.36.1. Preparing the movement to be performed in RV**
+
+When the train is at a standstill and the following symbol is displayed:
+
+[image]
+
+the driver shall trigger the transition to RV while informing the signaller if possible and taking into account any further instructions.
+
+**6.36.2. Running in RV**
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall:
+
+(i) acknowledge;
+
+(ii) propel the train following any instructions given by the signaller as soon as the following symbol is displayed:
+
+[image]
+
+(iii) not exceed the maximum speed for RV;
+
+(iv) not exceed the permitted distance to run.
+
+**6.36.3. Exceeding the permitted distance in RV**
+
+When the following text message is displayed with a flashing frame:
+
+‘RV distance exceeded’,
+
+the driver shall:
+
+(i) report to the signaller;
+
+(ii) acknowledge at a standstill if the permitted distance in RV has not been extended;
+
+(iii) release the brake.
+
+**6.36.4. Exit from RV**
+
+After the train has completed its propelling and as soon as it is at a standstill the driver shall report to the signaller. If no additional movement in RV is required the driver shall close the driving desk to exit RV.
+
+**6.37. Reacting to unintentional movements**
+
+After being at a standstill the train/shunting composition has moved unintentionally and the ETCS on-board has triggered the brake.
+
+Levels 1, 2
+
+When the following text message is displayed:
+
+‘Runaway movement’,
+
+the driver shall secure the train/shunting composition according to internal RU rules and acknowledge the brake application.
+
+**6.38. Managing route unsuitability detected by the on-board system**
+
+Levels 1, 2
+
+When any of the following messages is displayed:
+
+‘Route unsuitable – loading gauge’
+
+‘Route unsuitable – traction system’
+
+‘Route unsuitable – axle load category’
+
+a route unsuitability is detected.
+
+The driver shall stop the train using service brake.
+
+The driver shall inform the signaller and follow any instructions given.
+
+**6.39. Authorising the passing of an EOA**
+
+It is necessary to authorise a driver to pass an EOA.
+
+Levels 1, 2
+
+Before authorising a driver to pass an EOA by means of European Instruction 1 the signaller shall, according to non-harmonised rules:
+
+(i) check if all the conditions for the route are met;
+
+(ii) check all restrictions and/or instructions that are necessary and include them in European Instruction 1;
+
+(iii) check for temporary speed restrictions to be included in European Instruction 1.
+
+If the signaller can establish that the track up to the end of the authorisation to be issued is free then he/she may exempt the driver from running on sight in SR.
+
+It is possible to provide more than one European Instructions for an equal number of consecutive ETCS Stop Markers to be passed.
+
+To pass the EOA, the driver shall:
+
+(iv) receive European Instruction 1 from the signaller for this EOA;
+
+(v) check the applicable speed limit;
+
+(vi) use the override function; and
+
+(vii) when the following symbol is displayed:
+
+[image]
+
+start the train or continue moving,
+
+not exceed the override EOA speed while this symbol is displayed.
+
+**6.40. Reacting to unexpected situations when preparing a train movement**
+
+Level 2
+
+**6.40.1. The traction unit has to move as a train but an acknowledgement for SH is requested**
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall inform the signaller about the situation, then acknowledge and proceed according to the instructions received from the signaller.
+
+**6.40.2. The train is rejected**
+
+When the following text message is displayed on the DMI:
+
+‘Train is rejected’
+
+the driver shall inform the signaller about the situation. The driver and signaller shall apply non-harmonised rules.
+
+**6.41. Responding to a trip**
+
+A train/shunting composition is tripped.
+
+Levels 1, 2
+
+**6.41.1. Immediate measures**
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall assume that there is a potentially dangerous situation and he/she shall perform all actions necessary to avoid or reduce the effect of this situation. This may include moving the train/shunting composition backwards.
+
+When the following symbol is displayed with a flashing frame:
+
+[image]
+
+the driver shall acknowledge and apply the brakes.
+
+(a) In case an immediate backward movement is necessary due to an emergency
+
+When the driver decides or is instructed by the signaller to move the train/shunting composition backwards due to an emergency
+
+and
+
+when the following symbol is displayed:
+
+[image]
+
+the driver shall move the train/shunting composition backwards following any instructions given by the signaller.
+
+As soon as the train/shunting composition is at a standstill, the driver shall inform the signaller about the situation.
+
+(b) In all other cases
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall inform the signaller about the situation and follow any instructions given.
+
+**6.41.2. To restart**
+
+(a) In the initial direction
+
+Before giving authorisation to the driver to proceed after a trip by means of European Instruction 2 the signaller shall, according to non-harmonised rules:
+
+(i) check if all the conditions for the route are met;
+
+(ii) check all restrictions and/or instructions that are necessary and include them in European Instruction 2;
+
+(iii) check for temporary speed restrictions to be included in European Instruction 2.
+
+If the signaller can establish that the track up to the end of the authorised movement is free then he/she may exempt the driver from running on sight in SR.
+
+To proceed the driver shall:
+
+(i) receive European Instruction 2 with all additional instructions given by the signaller;
+
+(ii) according to the task to be performed select ‘Start’ or ‘Shunting’ and follow the instructions given in European Instruction 2;
+
+(iii) restart the train/shunting movement.
+
+If in ETCS level 2, at any step of the procedure, the following text message is displayed:
+
+‘Communication error’,
+
+the driver shall inform the signaller about the situation. The signaller and driver shall apply rule ‘Authorising the passing of an EOA’ (section 6.39). In this case, European Instruction 1 shall be issued by the signaller instead of European Instruction 2.
+
+(b) In the opposite direction
+
+The signaller shall order the driver to remain at standstill and to perform End of Mission by means of European Instruction 3, and then to restart in the opposite direction by means of European Instruction 7.
+
+The driver shall carry out the End of Mission and then apply rule ‘Putting the ETCS on-board into service’ (section 6.1) and rule ‘Preparing a movement’ (section 6.2). If the driver is not operating from the leading cab, he/she shall apply internal RU rules to ensure safe running.
+
+**6.41.3. No movement required after a trip**
+
+In the case of a train/shunting composition not required to be moved after a trip, the signaller shall order the driver to remain at standstill and to perform End of Mission by means of European Instruction 3.
+
+**6.41.4. Trip in SH when passing a defined border of a shunting area**
+
+Levels 1, 2
+
+When a shunting composition is tripped when passing a defined border of a shunting area the driver and signaller shall apply non-harmonised rules.
+
+**6.42. Managing an ETCS trackside malfunction**
+
+The on-board receives the information of an ETCS trackside equipment malfunction.
+
+Levels 1, 2
+
+When the following text message is displayed:
+
+‘Trackside malfunction’,
+
+the driver shall inform the signaller about the situation.
+
+**6.43. Managing incompatibility between ETCS trackside and ETCS on-board**
+
+An incompatibility between ETCS trackside and ETCS on-board is detected by the system and the train is tripped.
+
+Levels 1, 2
+
+When the following text message is displayed:
+
+‘Trackside not compatible’,
+
+the train cannot continue in ETCS.
+
+The driver shall apply rule ‘Responding to a trip’ (section 6.41).
+
+**6.44. Managing a level crossing not protected**
+
+The train is approaching a level crossing which is not protected.
+
+Levels 1, 2
+
+**6.44.1. If in FS, OS or LS**
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall apply rule 7 of Appendix B2.
+
+**6.44.2. If in SR**
+
+When the following text message is displayed:
+
+‘Level crossing not protected’,
+
+the driver shall apply rule 7 of Appendix B2.
+
+**6.45. Managing a balise read error**
+
+A balise read error occurs and the brakes are triggered by the ETCS on-board (the train is not tripped).
+
+Levels 1, 2
+
+When the following text message is displayed:
+
+‘Balise read error’,
+
+and the train is not tripped, the driver shall inform the signaller about the situation.
+
+If no new MA is received when the train has come to a standstill, the signaller shall authorise the driver to pass the EOA by applying rule ‘Authorising the passing of an EOA’ (section 6.39).
+
+If the situation is repeated, the driver and signaller shall apply non-harmonised rules.
+
+**6.46. Managing a failed level transition**
+
+The transition takes place but no MA valid beyond the transition point is received on-board or the transition does not take place when passing the transition point.
+
+Levels 1, 2
+
+The ETCS level transition point may be marked through the following trackside marker board:
+
+[image] *
+
+* For the exact dimensions and layout of the marker board, EN 16494:2015 needs to be used.
+
+**6.46.1. If the train has been tripped**
+
+The driver and signaller shall apply rule ‘Responding to a trip’ (section 6.41 ).
+
+After selecting ‘Start’ the driver shall:
+
+(i) check the correct ETCS level to be selected;
+
+(ii) change the ETCS level (rule ‘Manual change of data’ (section 6.1.2)),
+
+and then restart the train.
+
+In case the ETCS level to be selected is not available on-board, the driver and signaller shall apply rule 15 of Appendix B2.
+
+**6.46.2. If in SR**
+
+The driver shall:
+
+(i) stop the train;
+
+(ii) apply the following rule ‘In all other cases’ (section 6.46.3).
+
+**6.46.3. In all other cases**
+
+The driver shall:
+
+(i) inform the signaller about the situation;
+
+(ii) when at a standstill, check the correct ETCS level to be selected;
+
+(iii) change the ETCS level (rule ‘Manual change of data’ (section 6.1.2)),
+
+and then restart the train.
+
+In case the ETCS level to be selected is not available on-board, the driver and signaller shall apply rule 15 of Appendix B2.
+
+**6.47. Managing absence of RBC information**
+
+There is no RBC information received in an area not identified as a radio hole and the brakes are triggered by the ETCS on-board (the train is not tripped).
+
+Level 2
+
+When the following text message is displayed:
+
+‘Communication error’,
+
+the driver shall inform the signaller about the situation when at a standstill.
+
+If no new MA is received when the train has come to a standstill, the signaller shall authorise the driver to pass the EOA by applying rule ‘Authorising the passing of an EOA’ (section 6.39).
+
+**6.48. Managing a radio communication failure**
+
+An ETCS radio communication failure occurs.
+
+Levels 0, 1, 2, NTC
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall check the ETCS level, the radio network identification, the RBC identification and phone number, and correct them if necessary (rule ‘Manual change of data’ (section 6.1.2)).
+
+If the radio communication with the RBC still cannot be established, the driver shall inform the signaller about the situation.
+
+**(a) when in ETCS level 2 preparing a movement and the traction unit has to move in SH**
+
+The driver and the signaller shall apply non-harmonised rules.
+
+**(b) when in ETCS level 2 preparing a tandem movement**
+
+The driver of the non-leading traction unit shall inform the driver of the leading traction unit about the radio communication failure. Both drivers shall apply internal RU rules.
+
+**(c) in all other cases**
+
+The signaller shall authorise the driver to pass the EOA by applying rule ‘Authorising the passing of an EOA’ (section 6.39).
+
+**6.49. Managing a failure of self test**
+
+Levels 0, 1, 2, NTC
+
+When the information about the failure of an ETCS device is shown to the driver, he/she shall switch off the ETCS on-board and then switch it on again to trigger a new self test. If the same information is shown again, the driver shall attempt to troubleshoot the problem using the applicable technical information. If this attempt fails or is not possible, the driver shall inform the signaller about the situation.
+
+The driver shall request a change of traction unit.
+
+If the traction unit must be moved the driver and signaller shall apply rule 15 of Appendix B2.
+
+**6.50. Managing a failure affecting the on-board radio equipment**
+
+Levels 0, 1, 2, NTC
+
+When a failure of the on-board radio equipment is detected the driver shall inform the signaller about the situation.
+
+**6.50.1. During the preparation of the traction unit**
+
+Level 2
+
+The driver shall request a change of traction unit.
+
+If the traction unit must be moved, the driver shall inform the signaller, apply RU rules and any instructions given by the signaller.
+
+If the traction unit need not be moved, the driver shall switch off the ETCS on-board.
+
+**6.50.2. While running**
+
+Levels 1 with infill function by radio, 2
+
+The driver and signaller shall apply rule 15 of Appendix B2.
+
+**6.51. Managing a failed DMI**
+
+The DMI fails.
+
+Levels 0, 1, 2, NTC
+
+When the DMI fails the driver and signaller shall apply rule 15 of Appendix B2, unless another DMI is available on the desk.
+
+**6.52. Managing a system failure**
+
+Levels 0, 1, 2, NTC
+
+When the following symbol is displayed:
+
+[image]
+
+the driver shall attempt to troubleshoot the problem using the applicable technical information.
+
+If this attempt fails or is not possible, the driver and signaller shall apply rule 15 of Appendix B2.
+
+**6.53. Managing a NTC failure**
+
+Levels 0, 1, 2, NTC
+
+When the following text message is displayed:
+
+‘[name of NTC] failed’
+
+the driver shall acknowledge and apply non-harmonised rules.
+
+**6.54. Managing a VBC**
+
+Levels 0, 1, 2, NTC
+
+The driver and signaller shall apply non-harmonised rules.
+
+**6.55. Running in AD**
+
+The driver switches the ATO on-board on.
+
+Levels 1, 2
+
+**6.55.1. Engaging ATO**
+
+When the following symbol is displayed, the driver may engage automated train operation by selecting it:
+
+[image]
+
+When ATO is engaged the following symbol is displayed:
+
+[image]
+
+Running in ATO
+
+When the following symbol is displayed:
+
+[image]
+
+the driver:
+
+(i) shall activate ‘skip stopping point’ when required by the timetable or if instructed to do so;
+
+(ii) after coming to a standstill at an operational stopping point, may manually move the train to correct its position, in the forward direction (when [image] is displayed) after notifying any passengers or in the reverse direction (when [image] is displayed, if authorised by the signaller and after notifying any passengers accordingly, until [image] is displayed;
+
+(iii) shall operate door opening/closing if invited to do so by the respective DMI indications.
+
+**6.55.2. Disengaging ATO**
+
+The driver can disengage ATO by either:
+
+(i) selecting the button associated with this icon [image]
+
+(ii) applying the brake;
+
+(iii) switching off the ATO;
+
+(iv) selecting Override.
+
+Once the ATO disengages, the driver shall observe the icon displaying the current ETCS mode and shall follow the rule applicable for the mode entered.
+
+**6.56. Managing a TIMS failure**
+
+Level 2 when train integrity has to be confirmed
+
+When the train preparer / driver of a train scheduled to run or running in an ETCS level 2 area where train integrity has to be confirmed becomes aware that the TIMS has failed, he/she shall apply rule 15 of Appendix B2.
+
+**6.57. Managing an impaired odometer**
+
+Levels 1, 2
+
+When the following text message is displayed:
+
+‘odometer impaired’
+
+the driver shall apply rule 15 of Appendix B2.
+
+**7\. GSM/R VOICE RADIO OPERATIONAL RULES**
+
+**7.1. Selecting the GSM-R mode**
+
+The driver needs to change the GSM-R mode.
+
+When the displayed GSM-R mode does not correspond with the task to be performed (train or shunting movement), the driver shall select the correct mode.
+
+**7.2. Entering the functional number**
+
+The train preparer / driver is performing the registration.
+
+The train preparer / driver shall enter the functional number:
+
+(i) as early as possible before the initial departure,
+
+(ii) every time the functional number changes.
+
+**7.3. Selecting the GSM-R network at a border crossing**
+
+The train is approaching a border crossing.
+
+**7.3.1. Inhibition of automatic network selection**
+
+When approaching a section in the vicinity of network borders, the driver shall inhibit the (on-board) automatic network selection function in the cab radio, if activated, when instructed to do so by the Route Book.
+
+**7.3.2. Selection of another GSM-R network**
+
+When according to the Route Book or a GSM-R network marker
+
+[image] *
+
+the driver is instructed to select another GSM-R network, he/she shall select the indicated GSM-R network on the cab radio unless the network is selected following an ETCS trackside command. If the driver is engaged in an emergency call, he/she shall not proceed with the manual selection as long as the call is active.
+
+* For the exact dimensions and layout of the marker board, EN 16494:2015 needs to be used.
+
+**7.4. Performing a de-registration**
+
+The train has to be manually de-registered.
+
+At the end of the train run or when requested by the signaller, the driver shall carry out the de-registration.
+
+**7.5. (not used)**
+
+**7.6. Managing a failure of self test**
+
+When a text message indicating the failure of the GSM-R Cab Radio self-test is displayed (e.g. ‘Self-test failed’), the driver shall inform the signaller about the situation.
+
+The driver and signaller shall apply rule 8 of Appendix B2.
+
+**7.7. Managing a lack of GSM-R network after the train has entered service**
+
+When a text message indicating the lack of GSM-R network is displayed (e.g. ‘No network’, ‘GSM-R signal missing’), the driver and signaller shall apply rule 8.2 of Appendix B2.
+
+**7.8. (not used)**
+
+**7.9. Managing a failure of de-registration**
+
+If the de-registration is not possible the driver shall inform the signaller about the situation, apply RU rules and follow any instructions given.
+
+**7.10. Taking measures in case the functional number is not available**
+
+When a text message indicating that the entered functional number is not available is displayed (e.g. ‘Number not available’), the train preparer / driver shall check the number and try again to register using the correct number.
+
+If the registration fails again, he/she shall inform the signaller about the situation, apply RU rules and follow any instructions given.
+
+**7.11. Taking measures in case the functional number is already used**
+
+When a text message indicating that the entered functional number is already in use is displayed (e.g. ‘Number already used’ or ‘Number already allocated’), the train preparer / driver shall check the number and try again to register using the correct number.
+
+If the functional number used was correct, the train preparer / driver shall call that functional number and ask the other party to de-register the current number unless prevented from doing so by non-harmonised rules.
+
+(i) If the call is successful and the other party de-registers the number in question, the train preparer / driver shall re-start the functional number registration procedure.
+
+(ii) If there is no response to the call, the train preparer / driver shall initiate forced de-registration of the specific functional number.
+
+In all other cases, the train preparer / driver shall inform the signaller on the issue and follow any instructions given.
+
+**7.12. Managing a failure when registering the functional number**
+
+When it is not possible to register the functional number, the train preparer / driver shall inform the signaller about the situation, apply RU rules and follow any instructions given.
+
+**7.13. GSM-public as primary communication (if this option is available on-board)**
+
+**7.13.1. Changing-over from GSM-R to GSM-Public**
+
+When instructed through a marker board indicating entry in a GSM network or through instructions on the Route Book, the driver shall select the indicated public GSM network, unless the network is automatically selected.
+
+The driver and signaller shall apply non-harmonised rules.
+
+**7.13.2. Changing-over from GSM-Public to GSM-R**
+
+When instructed through a marker board indicating (re-)entry into a GSM-R network or through instructions on the Route Book, the driver shall select the indicated GSM-R network, unless the GSM-R network is automatically selected.
+
+If the GSM-R network is not available, the driver shall apply rule 8.2 Appendix B2.
+
+**7.14. GSM-public as fall-back communication (if this option is available on-board)**
+
+**7.14.1. Changing-over from GSM-R to GSM-Public**
+
+When the connection to the GSM-R network is lost, the driver shall select an alternate GSM public network if authorised to do so according to instructions previously given by the signaller or provided in the Rule Book and/or Route Book, unless the on-board GSM-R terminal is configured to carry out an automatic network selection.
+
+The driver and signaller shall apply non-harmonised rules.
+
+**7.14.2. Changing-over from GSM-Public to GSM-R**
+
+When instructed by the signaller or through instructions in the Rule and/or Route Book, the driver shall manually select the indicated GSM-R network on the cab radio, unless the on-board GSM-R terminal is configured to carry out an automatic network selection.
+
+**8\. PART A – INTENTIONALLY BLANK**
+
+**9\. PART B – LIST OF ETCS OPERATIONAL TRAIN CATEGORIES**
+
+The ETCS operational train categories are listed in the table below:
+
+<table>
+<tbody><tr><td>Label</td><td>Type of train</td><td>Type of brake</td><td>Cant deficiency</td></tr>
+<tr><td>PASS 1</td><td rowspan="3">passenger train</td><td rowspan="14">P</td><td>80 </td></tr>
+<tr><td>PASS 2</td><td>130 </td></tr>
+<tr><td>PASS 3</td><td>150 </td></tr>
+<tr><td>TILT 1</td><td rowspan="7">tilting passenger train</td><td>165 </td></tr>
+<tr><td>TILT 2</td><td>180 </td></tr>
+<tr><td>TILT 3</td><td>210 </td></tr>
+<tr><td>TILT 4</td><td>225 </td></tr>
+<tr><td>TILT 5</td><td>245 </td></tr>
+<tr><td>TILT 6</td><td>275 </td></tr>
+<tr><td>TILT 7</td><td>300 </td></tr>
+<tr><td>FP 1</td><td rowspan="8">freight train</td><td>80 </td></tr>
+<tr><td>FP 2</td><td>100 </td></tr>
+<tr><td>FP 3</td><td>130 </td></tr>
+<tr><td>FP 4</td><td>150 </td></tr>
+<tr><td>FG 1</td><td rowspan="4">G</td><td>80 </td></tr>
+<tr><td>FG 2</td><td>100 </td></tr>
+<tr><td>FG 3</td><td>130 </td></tr>
+<tr><td>FG 4</td><td>150 </td></tr>
+</tbody>
+</table>
+
+**10\. PART C – TABLE OF REFERENCES TO NON-HARMONISED RULES**
+
+This Part lists the non-harmonised rules of Appendix A.
+
+The table further defines the entity (IM or RU) that is in charge of laying down any necessary further details for each of those rules in their respective safety management system.
+
+| Reference | Subject | In charge |
+| --- | --- | --- |
+| 5.1.1 | Driver’s observance of the line in cab-signalling | RU |
+| 6.2.4 6.39 6.41.2 | Checking route conditions | IM |
+| 6.2.4 6.39 6.41.2 | Checking necessary restrictions and/or instructions for running in SR | IM |
+| 6.2.4 6.39 6.41.2 | Checking speed restrictions lower than the maximum speed for SR | IM |
+| 6.3.1 | Manual entry into SH | RU |
+| 6.3.3 | Running in SH | IM |
+| 6.3.6 | SH refused by the RBC/SH request failed | IM |
+| 6.3.7 | Passing a defined border of a shunting area | IM |
+| 6.7.1 | Announcement of an ETCS level 0 transition | IM |
+| 6.7.3 | Running in ETCS level 0 | IM |
+| 6.11.1 | Announcement of an ETCS level NTC transition | IM |
+| 6.11.3 | Running in ETCS level NTC | IM |
+| 6.15 | Acknowledgement of LS | IM |
+| 6.15 | Running in LS | IM |
+| 6.16 | Acknowledgement of UN | IM |
+| 6.16 | Running in UN | IM |
+| 6.17 | Acknowledgement of SN | IM |
+| 6.17 | Running in SN | IM |
+| 6.28 | Sounding the audible warning device | IM |
+| 6.33.1 | Revoking an authorisation for ERTMS train movement | IM |
+| 6.34.3 | Protecting and restarting shunting movements | IM |
+| 6.40.2 | The train is rejected when preparing a movement | IM |
+| 6.41.4 | Trip in SH | IM |
+| 6.45 | Managing a balise read error | IM |
+| 6.48 a) | Managing a radio communication failure when SH is requested | IM |
+| 6.53 | Managing a NTC failure | IM |
+| 6.54 | Managing a VBC | IM |
+| 7.11 | Taking measures in case the functional number is already used | IM |
+| 7.13.1 | Changing-over from GSM-R to GSM-Public | IM |
+| 7.14.1 | Changing-over from GSM-R to GSM-Public | IM |
+
+## Appendix B
+
+**Fundamental operational principles and common operational rules**
+
+**B1. Fundamental operational principles**
+
+1\. The method of authorising a train movement shall maintain a safe interval between trains.
+
+2\. A train shall only operate over a portion of line if the train composition is compatible with the infrastructure.
+
+3\. Before a train begins or continues its journey, it shall be ensured that passengers, staff and goods are carried safely.
+
+4\. Before a train is allowed to start or continue its movement, it shall have an authority to move and all necessary information to define the conditions of that authority.
+
+5\. A train shall be prevented from proceeding onto a portion of line if it is known or suspected that it would not be safe for the train to pass until measures have been taken to allow the train to continue safely.
+
+6\. A train shall not continue to operate after it has been found to be unsafe in any respect, until measures have been taken to allow the train to continue safely.
+
+**B2. Common operational rules**
+
+In case of degraded operation, the contingency arrangements set out in point 4.2.3.6.3 shall also be considered.
+
+**1\. SANDING**
+
+If the train is equipped with manually activated sanding equipment, the driver shall always be allowed to apply sand but shall avoid it wherever possible:
+
+— in the area of points and crossings,
+
+— during braking at speeds less than 20 km/h,
+
+— when at standstill.
+
+The exceptions to this are:
+
+— if there is a risk of SPAD (Signal Passed At Danger), or other serious incident and the application of sand would assist adhesion,
+
+— when starting away,
+
+— when required to test the sanding equipment on the traction unit.
+
+**2\. DEPARTURE OF THE TRAIN**
+
+At the initial station or after a scheduled stop the driver is allowed to depart when the following conditions are fulfilled:
+
+— after the driver has received an authorisation for train movement;
+
+— after train service conditions are fulfilled;
+
+— when it is time to depart, except when allowed to start before the scheduled time.
+
+**3\. NO AUTHORISATION FOR TRAIN MOVEMENT AT THE EXPECTED TIME**
+
+If the driver has not received an authorisation for train movement at the expected time, and has no information as to the reason, the driver shall inform the signaller.
+
+**4\. COMPLETE FAILURE OF FRONT END LIGHTS**
+
+If the driver is not able to display any front end light:
+
+4.1. During good visibility
+
+The driver shall inform the signaller about the failure. The train shall proceed at the maximum permitted speed to the nearest location where the front end light may be repaired/replaced or the affected vehicle replaced. When proceeding, the driver shall use the train audible warning device as necessary or as instructed by the signaller.
+
+4.2. During darkness or poor visibility
+
+The driver shall inform the signaller about the failure. As long as a portable front end light displaying a white light is fitted on the front of the train, the train shall proceed at the maximum allowable speed for that failure to the nearest location where the front end light may be repaired/replaced or the affected vehicle replaced.
+
+If a portable front end light is not available, the train shall not proceed, unless formal instructions are given by the signaller to continue to the nearest suitable location to where the line may be cleared.
+
+When proceeding, the driver shall use the train audible warning device as necessary or as instructed by the signaller.
+
+**5\. COMPLETE FAILURE OF A REAR END SIGNAL**
+
+(1) If the signaller becomes aware of the complete failure of the train rear end signal, the signaller shall make arrangements to stop the train in an appropriate location and inform the driver.
+
+(2) The driver shall then check the completeness of the train and if necessary repair/replace the train rear end signal.
+
+(3) The driver shall report to the signaller that the train is ready to proceed. Otherwise, if the repair is not possible, the train may not proceed, unless special arrangements are made between signaller and driver.
+
+**6\. FAILURE OF THE AUDIBLE WARNING DEVICE OF A TRAIN**
+
+If the audible warning device fails, the driver shall inform the signaller about the failure. The train shall not exceed the permitted speed in the event of the failure of an audible warning device, and shall proceed to the nearest location where the audible warning device may be repaired or the affected vehicle replaced. The driver shall be prepared to stop before passing over any level crossing where the audible warning device is required to be sounded and then proceed over the level crossing only when it is safe to do so. If a multi-tone audible warning device is defective but at least one tone is functioning, the train may proceed normally.
+
+**7\. FAILURE OF LEVEL CROSSING**
+
+7.1. Stopping trains passing over a defective level crossing
+
+When a technical failure affecting safety of running trains over a level crossing has been detected and as long as the safe operation has not been restored, the normal passing of trains over the level crossing shall be prevented.
+
+7.2. Passing trains over the defective level crossing (if authorised)
+
+(1) Where the nature of the failure permits train movements to continue, the driver of each train shall be authorised to continue and to pass over the level crossing.
+
+(2) After being instructed to pass over the level crossing with a failure, the driver shall pass the level crossing as instructed. If the level crossing becomes obstructed the driver shall take all possible measures necessary to stop.
+
+(3) When approaching the level crossing, the driver shall use the audible warning device when necessary or when formal instructions have been given by the signaller. If the level crossing is clear, the driver shall proceed and accelerate the train as soon as the front of the train has passed clear the level crossing.
+
+**8\. FAILURE OF VOICE RADIO COMMUNICATION**
+
+8.1. Failure of train radio detected during train preparation
+
+In case of on board radio failure a train shall not be permitted to start a service on lines where a radio is required.
+
+8.2. Failure of voice radio communication when the train has entered service
+
+All failure types
+
+If the driver becomes aware that the primary voice radio communication is failed, the driver shall inform the signaller as soon as practicable using any available means.
+
+The driver shall then apply the instructions by the signaller concerning the further movement of the train.
+
+On-board Failure
+
+A train with a failed voice radio communication may:
+
+— continue its service if another means of communication is provided between the train driver and the signaller; or
+
+— proceed to the nearest location where the radio may be repaired or the affected vehicle replaced if another means of voice communication is not provided between the driver and the signaller.
+
+**9\. RUNNING ON SIGHT**
+
+When a driver has to run on sight, the driver shall:
+
+— Proceed with caution, controlling the speed having regard to the visibility of the line ahead, so that it is possible within the free visible part to stop short of any vehicle, stop aspect or obstacle on the infrastructure; and
+
+— Not exceed the maximum speed for running on sight.
+
+This does not apply to unexpected obstacle entering the track zone within the stopping distance.
+
+**10\. ASSISTANCE TO A FAILED TRAIN**
+
+(1) If a train is stopped by failure, the driver shall immediately inform the signaller about the failure and the circumstances of the failure.
+
+(2) When an assisting train is needed, the driver and signaller shall agree at least all of the following:
+
+— the type of assisting train needed
+
+— if a specific direction is required (front or rear)
+
+— the location of the failed train.
+
+After the driver has asked for assistance, the train shall not be moved even if the defect is rectified until:
+
+— the assisting train has arrived, or
+
+— the driver and signaller have agreed alternative arrangements.
+
+(3) The signaller shall not allow the assisting train to enter the section occupied by the failed train unless confirmation has been received that the failed train shall not be moved.
+
+When the assisting train is ready to enter the section occupied by the failed train, the signaller shall inform the driver of the assisting train at least the following:
+
+— the location of the failed train
+
+— the location where the failed train is to be taken to
+
+(4) The driver of the combined train shall make sure that:
+
+— the assisting train is coupled to the failed train, and
+
+— the brake performance of the train is checked, the automatic brake, if compatible, is connected and a brake test has been carried out.
+
+(5) When the combined train is ready to continue, the driver in control shall contact the signaller and inform the signaller of any restrictions and move the train in accordance with any instructions given by the signaller.
+
+**11\. AUTHORISATION TO PASS AN END OF AUTHORITY**
+
+The driver of the train concerned shall have authorisation to pass an EOA.
+
+When giving authorisation, the signaller shall give the driver any instructions concerning the movement. The driver shall apply the instructions and shall not exceed any speed restriction, where one is imposed, until reaching the location where the normal operation may be resumed.
+
+**12\. ANOMALIES IN LINESIDE SIGNALLING**
+
+If any of the following anomalies are observed:
+
+— no signal aspect is shown where there should be one;
+
+— an irregular aspect is shown at the signal;
+
+— an irregular signal aspect sequence is received on the approach to the signal;
+
+— the aspect of the signal is not clearly visible.
+
+The driver shall act according to the most restrictive aspect that could be presented by the signal.
+
+In all cases the driver shall report to the signaller the abnormal signalling aspect when observed.
+
+**13\. EMERGENCY CALL**
+
+When receiving an emergency call the driver shall assume that there is a dangerous situation and perform all actions necessary in order to avoid or reduce the effect of this situation.
+
+In addition, the driver shall:
+
+— immediately reduce the speed of the train to the appropriate speed for running on sight; and
+
+— run on sight unless otherwise instructed by the signaller; and
+
+— obey the instructions given by the signaller.
+
+Drivers that have been ordered to stop shall not restart without authorisation from the signaller. Other drivers shall continue running on sight until the signaller informs them that running on sight is no longer necessary.
+
+Anyone who receives an emergency call shall listen, not intervene in the communication that is in progress except to provide elements relevant to the context.
+
+**14\. IMMEDIATE ACTIONS TO PREVENT DANGER TO TRAINS**
+
+Any railway undertaking/infrastructure manager staff who becomes aware of a danger to trains shall take immediate action to stop any trains which may be affected, alert the signaller and take any other action as necessary to avoid harm or loss, and in particular:
+
+(1) Any driver made aware of a danger to their train shall stop as soon as it is safe to do so and alert the signaller immediately to the danger using the emergency call.
+
+(2) Any signaller made aware of a danger shall alert all drivers as appropriate through an emergency call or using any other available means.
+
+**15\. FAILURE OF ON-BOARD EQUIPMENT**
+
+The railway undertaking shall determine the cases in which a failure of an on-board equipment affects the running of the train.
+
+The railway undertaking shall give the necessary information to the driver and/or train crew of what action to take in the case of on-board failures that affect the running of the train.
+
+If the driver becomes aware of a failure of any on-board equipment that affects the running of the train, the driver shall:
+
+— inform the signaller of the situation, the location and the restrictions on the train should the train be allowed to continue its mission,
+
+— not commence or recommence the mission until permission to do so has been granted by the signaller.
+
+If the signaller gives permission for the train to start or continue its mission then the driver shall proceed in accordance with the restrictions placed upon the train.
+
+If the signaller does not give permission for the train to commence or recommence its mission then the driver shall follow the instructions given by the signaller.
+
+**16\. END OF AUTHORITY PASSED WITHOUT PERMISSION**
+
+— If the driver becomes aware that the train has passed an end of authority without permission, the driver shall stop the train immediately.
+
+— If the train is stopped by ATP/TPS, the driver shall take action to support the emergency brake.
+
+— The driver shall inform the signaller.
+
+— If the signaller becomes aware that a train has passed an end of authority without permission, then the signaller shall take any necessary action to stop the train immediately.
+
+— The driver and signaller shall take any necessary action to protect all movements.
+
+When the train is able to continue, the driver shall inform the signaller. The signaller shall set or check the route for the train to continue its journey and issue all necessary instructions
+
+**17\. FAILURE OF TRACKSIDE EQUIPMENT INCLUDING CATENARY**
+
+— The infrastructure manager shall determine whether the failure of trackside equipment (including catenary) affects the safe and/or effective operation of trains.
+
+— The infrastructure manager shall provide the necessary instructions to the driver of what action to take in the case of such a failure as referenced in this Regulation in point 4.2.1.2.2.3.
+
+— If the driver becomes aware of a failure of any trackside equipment (including catenary) that affects the safe and/or effective operation of trains, the driver shall inform the signaller of the situation as soon as possible and follow the instructions given by the signaller.
+
+**18\. ENTERING AN OCCUPIED TRACK SECTION WITHIN A STATION**
+
+— In case of an unplanned entry into an occupied track section, the signaller shall, before authorising the entry to the occupied track section, ensure that the involved drivers are informed of the circumstances.
+
+— In all cases when a train has to enter an occupied track section, the signaller shall, before authorising the entry to the occupied track section, obtain confirmation that the occupying train or vehicles will not move towards the train entering the occupied track section.
+
+## Appendix C
+
+**Safety related communications methodology**
+
+**C1. Oral communication**
+
+**1\. Scope and Purpose**
+
+This Appendix sets out the rules for safety-related communications, between train crew, mainly the train driver, and signaller, in particular to define its structure, methodology and content. Safety related communication has priority over all other communication.
+
+**2\. Safety related communications**
+
+2.1. Communication structure
+
+The transmission of safety-related messages shall be short and clear and, as far as possible, without abbreviation. In order to ensure a message is understood and the necessary action may be undertaken, whoever is giving the message shall cover at least the following points:
+
+— indicate their exact location.
+
+— state the function they are carrying out and information on the action that is needed.
+
+Drivers shall identify themselves by the train running number and the location.
+
+Signallers shall identify themselves by the control area or the location of the signal box.
+
+2.2. Communication methodology
+
+Whoever is giving the message shall:
+
+— check that the message is received and repeated back as required. As emergency messages are intended to give urgent operational instructions that are directly linked with the safety of the railway, the repetition of these messages may be omitted.
+
+— if necessary, correct a mistake that has been made in the message.
+
+— if necessary, let the person know how they may be contacted.
+
+For communication between signallers and drivers it is the signallers' responsibility to ensure that they are talking to the driver within their control area. This is critical when communication is taking place in areas where communications boundaries overlap. This principle shall apply even after an interruption during transmission.
+
+2.3. Communication content
+
+The following messages shall be used for identification by the different parties:
+
+— by the signaller:
+
+Train … [running number]
+
+this is … [control area/location of the signal box]
+
+— by the driver:
+
+this is train … [running number] at … [location]
+
+Terminology shall be used in the communication procedure by all the parties:
+
+| Situation | Terminology |
+| --- | --- |
+| Term transferring the opportunity to speak to the opposite party | ‘Over’ |
+| Term confirming that the sent message has been received | ‘Received’ |
+| Term used to have the message repeated in the event of poor reception or misunderstanding | ‘Say again’ |
+| Term used to ascertain whether a read-back message exactly matches the sent message | ‘Correct’ |
+| Term used to indicate that a read-back message does not match the sent message | ‘Error (+ I say again)’ |
+| Term used to keep the other party waiting when there is a temporary break in the communication and the connection is not broken | ‘Wait’ |
+| Term used to tell the other party that the communication might be broken but should be resumed later on | ‘I call again’ |
+| Term used to indicate that the message has ended | ‘Out’ |
+
+Standard terminology shall be used in the communication procedure by all the parties without translation:
+
+| Situation | Standard terminology |
+| --- | --- |
+| Term used to indicate that there is an emergency situation | ‘Mayday, mayday, mayday’ |
+
+This term shall not be translated and does not have to be used in case emergency call functionality is available on the train (e.g. GSM-R).
+
+2.4. Glossary of Railway Terminology
+
+When relevant, the railway undertaking shall produce a glossary of railway terminology for each network over which its trains operate. It shall supply the terms in regular use in the language chosen by the railway undertaking and in the ‘operating’ language of the infrastructure manager(s) whose infrastructure the railway undertaking operates on, based on the terminology used by the respective infrastructure manager.
+
+**3\. Communication rules**
+
+In order that safety-related communication is correctly understood, whatever the means of communication used, the following rules shall be used:
+
+3.1. International Phonetic Alphabet
+
+The International Phonetic Alphabet shall be used:
+
+— to identify letters of the alphabet;
+
+— to spell words and location names that are difficult to say, or may be misunderstood;
+
+— when quoting the identity of signals or points.
+
+| A Alpha B Bravo C Charlie D Delta E Echo F Foxtrot | G Golf H Hotel I India J Juliet K Kilo | L Lima M Mike N November O Oscar P Papa | Q Quebec R Romeo S Sierra T Tango U Uniform | V Victor W Whisky X X-ray Y Yankee Z Zulu |
+| --- | --- | --- | --- | --- |
+
+3.2. Numbers
+
+The Numbers shall be spoken digit by digit:
+
+0 = Zero
+
+1 = One
+
+2 = Two
+
+3 = Three
+
+4 = Four
+
+5 = Five
+
+6 = Six
+
+7 = Seven
+
+8 = Eight
+
+9 = Nine
+
+**C2. European Instructions**
+
+**1\. Introduction**
+
+Railway undertakings and infrastructure managers shall use European Instructions in the communication procedure in the following cases:
+
+(1) Authorisation to pass an End of Authority;
+
+(2) Authorisation to proceed after trip;
+
+(3) Obligation to remain at standstill;
+
+(4) Revocation of an instruction;
+
+(5) Obligation to run with speed restriction;
+
+(6) Obligation to run on sight;
+
+(7) Authorisation to start after preparing a movement;
+
+(8) Authorisation to pass defective level crossing(s);
+
+(9) Obligation to run with power supply restriction;
+
+(10-20) RESERVED
+
+The numbers 1 to 20 are reserved for European Instructions.
+
+The use of the European Instructions numbers 1-4 and 7 is mandatory for ETCS, in accordance with the rules of Appendix A.
+
+Whenever the signaller needs to issue an operational instruction for which a European Instruction exists, the signaller shall use this European Instruction. If an operational instruction related to a class B system requires more information than the European Instructions, a national instruction may be used instead. In such a case, the infrastructure manager may set out these requirements in its national instructions.
+
+If numbered, the national instructions drawn up by the individual infrastructure managers shall start from 21 onwards.
+
+The national instructions shall contain at least the same content as that for a European Instruction.
+
+**2\. Content**
+
+An operational instruction shall state the following as a minimum:
+
+— from where it was issued (location of signaller),
+
+— at what date it was issued (not for verbal instruction),
+
+— to which train/ shunting composition  it refers,
+
+— clear, precise, unambiguous instructions,
+
+— unique identification provided by the signaller.
+
+In addition, depending on the circumstances, an operational instruction might also state:
+
+— at what time it was issued,
+
+— where that train/ shunting composition  is located, at which location it applies,
+
+— ID of train driver;
+
+— ID of issuer;
+
+— verification (signature or electronic confirmation) that the instruction has been received.
+
+Any operational instruction that has been issued to be written down may only be revoked by a European instruction no4 explicitly referring to the unique identification of the instruction to be revoked.
+
+By way of derogation, a European Instruction 3 can also be revoked by a European Instruction 1, 2 or 7 without requiring a dedicated European Instruction 4.
+
+**3\. Delivery of the operational instruction**
+
+An operational instruction includes information delivered digitally, verbally, physically on paper or as verbal instructions to be written down by the train driver or by other safe methods of communication with the same level of information.
+
+In principle when it is necessary for an operational instruction to be written down by the train driver, the train shall be at standstill. The railway undertaking and the concerned infrastructure manager may jointly undertake a risk assessment which could, as a result, define the conditions under which it is safe to deviate from this principle.
+
+An operational instruction shall be delivered as close as practicable to the affected area.
+
+An operational instruction takes precedence over the related indications provided by trackside signals and/or the DMI. When a permitted speed or a release speed lower than the maximum speed prescribed in the operational instruction is applicable, the lowest speed shall be applied.
+
+An operational instruction shall only be issued by the signaller when the train running number has been identified and, if necessary, the location of the train/ shunting composition  . Before applying the operational instruction, the train driver shall check that this operational instruction refers to her/his train/ shunting composition  and her/his current or identified location.
+
+**4\. Awareness of the operational instruction**
+
+The railway undertaking has to define a procedure to ensure that the train driver is aware of an operational instruction until the train has reached the location where it has to be processed.
+
+When the operational instruction does not need to be performed immediately after its delivery, it shall be possible for the train driver to retrieve the operational instruction.
+
+**5\. Monitoring of processed operational instruction**
+
+As part of the compliance with Regulation (EU) 2018/762 and Directive (EU) 2016/798, the infrastructure manager and railway undertaking shall monitor the processes of delivery and use of the operational instructions.
+
+**6\. European Instructions**
+
+Each tick box, field of information and option for input in a field contained in a European Instruction shall be given its own alphabetical or numerical identifier. Numbered identifiers that are part of more than one European Instruction shall be given an identifier starting with ‘x’ instead of the number of the European Instruction. This ‘x’ may only be replaced by the number of the European Instruction when transmitting this instruction digitally.
+
+While the content and the identifiers must be used and the alphabetical and numerical order of the identifiers must be respected, the format itself shall be indicative.
+
+If a specific tick box, field or option for input in a field is not to be used in a Member State or on the network of an infrastructure manager, there is no obligation to display this tick box, field or option for input in a field in the European Instruction.
+
+No tick box, field or option for input in a field shall be added.
+
+The scope of each individual field cannot extend beyond the scope of application of the European Instruction to which it belongs.
+
+The infrastructure manager and the railway undertaking may add guidance on how to fill in and read the forms of the European Instructions, under the condition that this guidance is not part of the communication procedure.
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**7\. Communication of an operational instruction**
+
+The following terminology shall be used in the communication procedure by all the parties:
+
+| Situation | Terminology |
+| --- | --- |
+| Starting the delivery of an operational instruction | ‘Prepare procedure … [identification of the procedure]’ |
+| Confirming that an operational instruction may be delivered | ‘Ready for procedure … [identification of the procedure]’ |
+| Cancelling an operational instruction | ‘Cancel procedure… [identification of the procedure]’ |
+| If the message is subsequently to be resumed, the procedure shall be repeated from the start | ‘Error during transmission’ |
+| When a transmission error is discovered by the sender, the sender shall request cancellation | ‘Error (+ prepare new procedure … [identification of the procedure])’ Or ‘Error (+ I say again)’ |
+| Error during read back | ‘Error (+ I say again)’ |
+| Misunderstanding: if one of the parties does not fully understand a message, the message shall be repeated | ‘Say again (+ speak slowly)’ |
+
+**8\. Book of European and national instructions**
+
+The infrastructure manager is responsible for drawing up the Book of European and national instructions in its operating languages.
+
+All the forms of the national instructions and the European Instructions to be used shall be assembled in a document or a computer medium called the Book of European and national instructions.
+
+This Book shall be used by both the driver and the staff authorising the movement of trains. The Book used by the driver and the Book used by the staff authorising the movement of trains shall be structured and numbered in the same way.
+
+The Book shall comprise two parts.
+
+The first part contains at least the following items:
+
+— an index of the European Instructions as used by the infrastructure managers,
+
+— an index of the national operational instructions,
+
+— a list of situations to which each operational instruction applies,
+
+— the way of delivering each operational instruction, including whether it is allowed to be written down by the driver while running,
+
+— the table containing the international phonetic alphabet.
+
+The second part contains, in the operating languages of the infrastructure manager, the forms of:
+
+— the European Instructions,
+
+— the national operational instructions.
+
+These shall be collected by the railway undertaking and given to the driver. Railway undertakings operating in more than one infrastructure manager network shall provide to the driver:
+
+— the generic forms of the European Instructions as defined in point 6 of Appendix C2, or
+
+— reduced forms of the European Instructions that include at least the fields used by the infrastructure manager(s) on the network(s) of which the railway undertaking will operate.
+
+## Appendix D
+
+**Route compatibility and Route Book**
+
+**D1 Parameters for the vehicle and train compatibility over the route intended for operation**
+
+**Note:**
+
+1\. Following the requirements of 4.2.2.5.1, the railway undertaking may cover route compatibility checks of certain parameters during earlier stages.
+
+2\. All parameters must be checked at vehicle level: this is indicated by a ‘X’ in the column ‘Vehicle level’. Some parameters needs to be checked when the train composition changes, as defined in the section 4.2.2.5; those parameters are indicated with a ‘X’ under the column ‘Train level’.
+
+3\. With a view to avoid duplication of testing, in relation to parameters ‘Traffic loads and load carrying capacity of infrastructure’ and ‘Train detection systems’, the infrastructure managers shall provide through RINF parameters 1.1.1.5.1 or 1.1.1.5.2 the list of vehicle types or vehicles compatible with the route for which they have already verified route compatibility, where such information is available.
+
+<table>
+<tbody><tr><td>Route compatibility check interface</td><td>Vehicle information (either from ERATV, the technical file, or any other appropriate means of information)</td><td>Route information available in Register of Infrastructure (RINF) or provided by Infrastructure manager until RINF is complete</td><td>Vehicle level</td><td>Train level</td><td>Procedure to check the vehicle and train compatibility over the route intended for operation</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Traffic loads and load carrying capacity of infrastructure</td><td>Static axle loads and design and operational masses in the following load cases: — design mass as defined in Regulation (EU) 1302/2014: —  — in working order,  — under normal payload,  — under exceptional payload,  — Where relevant operational mass in accordance with EN 15663: 2017- A1 2018: —  — in working order,  — under normal payload.  Maximum design speed  Vehicle length  The position of the axles along the unit (axle spacing)  EN line category  For vehicles capable of carrying a payload of passengers: EN line category for the standard value of payload in standing areas and – in case of application – for any particular value of payload in standing areas, according to Point 6.4 of EN 15528:2021.  Static compatibility check for wagons:  Permissible payload for different line categories according to WAG TSI. </td><td>1.1.1.1.2.4 Load capability 1.1.1.1.2.4.1 National classification for load capability  1.1.1.1.2.4.2 Compliance of structures with the High Speed Load Model (HSLM)  1.1.1.1.2.4.3 Railway location of structures requiring specific checks  1.1.1.1.2.4.4 Document(s) with the procedure(s) for static and dynamic route compatibility checks </td><td>x</td><td>x</td><td>The static compatibility checks for vehicles shall be performed according to Point 7 of EN 15528:2021 and additional procedure(s) or relevant information if provided by the infrastructure manager through RINF under parameter 1.1.1.1.2.4.4. For the United Kingdom in relation to Northern Ireland networks, the static compatibility checks for vehicles shall be performed according to relevant national rules in accordance with point 4.2.7.4 (4) in the Annex to Regulation (EU) No 1299/2014 (‘TSI INF’).  Any requirement set out by the infrastructure manager which relates to the passenger payload, to be considered during route compatibility checks for vehicles capable of carrying a payload of passengers, shall be included in the procedure(s) or relevant information provided by the infrastructure manager through RINF under parameter 1.1.1.1.2.4.4. Such procedure may take into account technical or operational measures which have an impact on the passenger payload on standing areas.  The dynamic compatibility checks for trains, when necessary in accordance with the information provided by the infrastructure manager, shall be performed according to the procedure(s) or relevant information provided by the infrastructure manager through RINF under parameter 1.1.1.1.2.4.4. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Gauging</td><td>Vehicle gauge: — Reference profiles for which the vehicle was authorised;  — other gauges assessed. </td><td>1.1.1.1.3.1.1 gauging 1.2.1.0.3.4 gauging  1.1.1.1.3.1.2 Railway location of particular points requiring specific checks  1.1.1.1.3.1.3 Document with the transversal section of the particular points requiring specific checks  1.2.1.0.3.5 Railway location of particular points requiring specific checks  1.2.1.0.3.6 Document with the transversal section of the particular points requiring specific checks </td><td>X</td><td>X</td><td>Comparison of the declared reference profiles between Vehicle/Train and the intended route. For the specific cases referred to in TSI 1302/2014 section 7.3.2.2 and TSI 1299/2014 sections 7.7.17.2 and 7.7.17.9 a specific procedure for route compatibility check can be applied. For such purpose, the Infrastructure Manager shall make available the relevant information.  The infrastructure manager shall identify particular points which deviate from the declared reference profile in RINF parameters: 1.1.1.1.3.1.1 and 1.2.1.0.3.4. For these cases, RINF shall be updated accordingly (parameters: 1.1.1.1.3.1.2, 1.1.1.1.3.1.3).  Note:  Additional discussion between Infrastructure Manager and Railway Undertaking might be needed for checking these specific points. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Specific check for Combined Transport</td><td>Wagon Compatibility Code, Wagon Correction Digit and ILU Technical Number (WCC + ILU Technical Number) combined with the freight Wagon Correction Digit = CT code </td><td>1.1.1.1.3.4 Standard combined transport profile number for swap bodies 1.1.1.1.3.9 Standard combined transport profile number for roller units  1.1.1.1.3.8 Standard combined transport profile number for container  1.1.1.1.3.5 Standard combined transport profile number for semi-trailers  (CT Line code) </td><td>  </td><td>X</td><td>Comparison in accordance with the specification defined in point 3.1 of the ERA Technical Document on codificaiton of combined transport (ERA/TD/2023-01/CCT) version 1.0 of 6.3.2023.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Vertical radius</td><td>Minimum vertical: — convex curve radius capability  — concave curve radius capability </td><td>1.2.2.0.3.3 Minimum radius of vertical curve (Concern siding)</td><td>X</td><td>  </td><td>Comparison of the declared minimum radius of vertical curve between vehicle and the intended route.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Train detection systems</td><td>Information if the vehicle has electrical or electronic equipment on board creating interference current in the rail or if the vehicle has electrical or electronic equipment on board creating interference electromagnetic fields close to the axel counter Type of train detection systems for which the vehicle has been designed and assessed by tests performed in accordance with ERA/ERTMS/033281 </td><td>1.1.1.3.7.1.1 Type of train detection system 1.1.1.3.7.1.2 Type of track circuits or axle counters to which specific checks are needed.  1.1.1.3.7.1.3 Document with the procedure(s) related to the type of train detection systems declared in 1.1.1.3.7.1.2  Specific to the French network:  1.1.1.3.7.1.4 Section with train detection limitation </td><td>X</td><td>  </td><td>Verification only needed if: — If 1.1.1.3.7.1.1 is ‘track circuit’ then only for vehicles having electrical or electronic equipment on board creating interference current in the rail  — If 1.1.1.3.7.1.1 is ‘axel counter’ then only for vehicles having electrical or electronic equipment on board creating interference electromagnetic fields close to the axel counter  — If 1.1.1.3.7.1.1 is ‘loop’ then not needed.  Comparison of the declared type of train detection system(s) between vehicle and the intended route.  Note:  At vehicle authorisation, based on TSIs and the documents specifying specific cases, that are referenced in RINF and based on ERA/ERTMS/033281, the technical compatibility is verified between the vehicle and all train detection system(s) of the network(s) in the area of use.  In duly justified cases (e.g. problems of non-detection of the vehicle occurring during operation), tests and/or checks could be done after vehicle authorisation, involving the railway undertaking and infrastructure manager. </td></tr>
+<tr><td>Train detection system</td><td>Possibility of preventing the use of the lubrication device</td><td>1.1.1.1.7.1 Use of flange lubrication</td><td>X</td><td>  </td><td>Verification if the use of flange lubrication is allowed in the intended route Note:  The output of the check should be taken into account by the Safety Management System of the Railway Undertaking (e.g. preventing the use of flange lubrication in the section of line) </td></tr>
+<tr><td>Train detection systems: influencing unit</td><td>From technical file of each vehicle of the train For each band of the frequency management defined in the specification referenced in Appendix J.2 index [A] of Loc&Pas TSI and in the specific cases or technical documents referred to in Article 13 of CCS TSI when they are available:  — Maximum interference current (A) and applicable summation rule,  — Maximum magnetic field (dBμA/m) both radiated field and field due to the return current and applicable summation rule,  — Minimum Input Impedance (Ohm).  Comparable parameters specified in the specific cases or in the technical documents referred to in Article 13 of TSI CCS when they are available. </td><td>1.1.1.3.4.2 Frequency bands for detection 1.1.1.3.4.2.1 Maximum interference current  1.1.1.3.4.2.2 Minimum Input impedance  1.1.1.3.4.2.3 Maximum magnetic field </td><td>  </td><td>X</td><td>Route compatibility check applicable to: — passenger trains consisting of locomotive(s) and coaches,  — freight trains where one or several freight wagons have electrical or electronic equipment on board creating interference current in the rail or interference electromagnetic fields close to the axel counter.  Compliance of the resulting emissions at ‘Influencing Unit’ level (as defined in clause 3.2 Appendix A index 77 of CCS TSI) with maximum interference values (current level and magnetic field limit) and minimum impedance allowed, shall be checked.  For each frequency band, the resulting emissions at ‘Influencing Unit’ level shall be calculated based on summation rules specified in:  — Clauses 3.2.1 and 3.2.2 of Appendix A index 77 of CCS TSI compliant train detection system,  — Specific cases referring to technical documents as specified in Art. 13 of the CCS TSI for non TSI compliant train detection system. Pending the notification of specific cases referred to in article 13 of CCS TSI, the notified national rules apply. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Hot axle box detection</td><td>Axle bearing condition monitoring (hot axles box detection)</td><td>1.1.1.1.7.4 Existence of trackside Hot axle box detection Specific to the French, Italian and Swedish networks:  1.1.1.1.7.5 Trackside Hot axle box detection TSI compliant: (Y/N), If No:  —  1.1.1.1.7.6 Identification of trackside hot axle box detection;  —  1.1.1.1.7.7 Generation of trackside hot axle box detection;  —  1.1.1.1.7.8 Railway location of trackside hot axle box detection;  —  1.1.1.1.7.9 Direction of measurement of trackside hot axle box detection </td><td>X</td><td>  </td><td>For existing non-TSI compliant vehicle: Comparison of the declared compliance to track side HABD between vehicle and the intended route, when the network(s) of the area of use is composed of more than one ‘type’ of track side HABD. If the network(s) of the area of use is composed by only one type of trackside hot axle box detector, no route compatibility check is needed.  Note:  For TSI compliant vehicle: Compatibility with tracksides for network(s) of an area of use is verified at authorisation phase. Any specificity of the network has to be covered by a specific case. </td></tr>
+<tr><td>Running characteristics</td><td>Combination(s) of maximum speed and maximum cant deficiency to which the vehicle was authorised (operational envelope that the vehicle has been assessed for); Rail inclination. </td><td>1.1.1.1.4.2 Cant deficiency 1.1.1.1.2.5 Maximum permitted speed  1.1.1.1.4.3 Rail inclination </td><td>X</td><td>  </td><td>Comparison of the combination of maximum speed, maximum cant deficiency and rail inclination(s), to which the Vehicle is assessed, with the cant deficiency, speed and rail inclination(s) declared in RINF or information provided by Infrastructure Manager. In case vehicle characteristics don't match infrastructure characteristics and the compatibility between the vehicle and the route might be compromised, the Infrastructure Manager shall provide the exact combination of speed and cant deficiency for the specific points in which the compatibility might be compromised within one month, free of charge and in an electronic format.  Note:  The output of the check should be taken into account by the Railway Undertaking for the route book preparation. Operational conditions might be imposed as a result of this check (e.g. speed restriction for a section of line). </td></tr>
+<tr><td>Wheelset</td><td>Wheel set gauge</td><td>1.1.1.1.4.1 Nominal track gauge 1.2.1.0.4.1 Nominal track gauge </td><td>X</td><td>  </td><td>Comparison of the wheelset gauge with track gauge of the intended route.</td></tr>
+<tr><td>Wheelset</td><td>Minimum in-service wheel diameter</td><td>1.1.1.1.5.2 Minimum wheel diameter for fixed obtuse crossings</td><td>X</td><td>  </td><td>Comparison of the minimum wheel diameter between Vehicle and the intended route.</td></tr>
+<tr><td>Wheelset</td><td>Type of changeover facilities to which the vehicle is designed for</td><td>1.2.0.0.0.5 Geographical location of Operational Point 1.2.0.0.0.4.1 Type(s) of track gauge changeover facility (ies) </td><td>X</td><td>  </td><td>Comparison of the type(s) of changeover facilities to which the vehicle is designed for with the type(s) of track gauge changeover facilities of the intended route.</td></tr>
+<tr><td>Minimum curve</td><td>Minimum horizontal curve radius capability</td><td>1.1.1.1.3.7 Minimum radius of horizontal curve 1.2.2.0.3.2 Minimum radius of horizontal curve </td><td>X</td><td>X</td><td>Comparison of the minimum horizontal curve radius between vehicle and the intended route.</td></tr>
+<tr><td>Braking</td><td>Emergency braking and maximum service brake: Stopping distance, Maximum deceleration, for the load condition ‘design mass under normal payload’ at the design maximum speed. For general operation (*1), in addition to the above data: brake weight percentage (lambda) </td><td>1.1.1.3.11.1 Maximum braking distance requested 1.1.1.1.3.6 Gradient profile  1.1.1.1.2.5 Maximum permitted speed  1.1.1.1.6.1 Maximum train deceleration  1.1.1.3.11.2 Availability by the infrastructure manager of additional information mentioned in the section 4.2.2.6.2.(2) is available or not (Y/N)  If yes:  1.1.1.3.11.3 Reference to the document(s) to be indicated in RINF. </td><td>X</td><td>X</td><td>For pre-defined formation (as referred in section 2.2.1 of TSI 1302/2014): Comparison of the declared stopping distance and maximum train deceleration between Rolling Stock and the intended route for each load condition per design maximum speed.  For general operation(*1):  No specific suggested procedure, to be covered by Railway Undertaking safety management system. </td></tr>
+<tr><td>Braking</td><td>Thermal capacity: — Reference case of TSI;  — if no reference case is indicated, thermal capacity expressed in terms of: —  — Speed;  — Gradient;  — Distance;  — Time (if distance is not indicated) </td><td>1.1.1.1.3.6 Gradient profile 1.1.1.1.2.5 Maximum permitted speed </td><td>X</td><td>  </td><td>Comparison of the vehicle reference case with the intended route characteristics. Note:  RINF or information provided by Infrastructure Manager, indicates location of change in km, gradient length can be calculated by extracting data. </td></tr>
+<tr><td>Braking</td><td>Maximum gradient on which the unit is kept stationary by the parking brake alone (if the vehicle is fitted with it)</td><td>1.1.1.1.3.6 Gradient profile 1.2.2.0.3.1 Gradient for stabling tracks </td><td>X</td><td>X</td><td>Comparison of the declared maximum gradient profile between vehicle and the intended route. Note:  The output of the comparison should be taken into account by the Safety Management System of the Railway Undertaking (e.g. use of additional means) </td></tr>
+<tr><td>Magnetic track brake</td><td>Possibility of preventing the use of the magnetic brake (only if fitted with magnetic brake)</td><td>1.1.1.1.6.3 Use of magnetic brakes 1.1.1.1.6.5 Document with the conditions of use of magnetic track brake. </td><td>X</td><td>  </td><td>Verification if the use of magnetic track brake is allowed in the intended route. Notes:  Where magnetic brake is allowed, the infrastructure manager shall provide the conditions of its use.  The output of the check should be taken into account by the Safety Management System of the Railway Undertaking (e.g. preventing the use of magnetic track brake in the section of line). </td></tr>
+<tr><td>Eddy current track brake</td><td>Possibility of preventing the use of the eddy current brake (only if fitted with eddy current brake)</td><td>1.1.1.1.6.2 Use of eddy current brakes 1.1.1.1.6.4 Document with the conditions of use of eddy current brake. </td><td>X</td><td>  </td><td>Verification if the use of Eddy current track brake is allowed in the intended route. Notes:  Where Eddy current track brake is allowed, the infrastructure manager shall provide the conditions of its use.  The output of the check should be taken into account by the Safety Management System of the Railway Undertaking (e.g. preventing the use of eddy current track brake in the section of line). </td></tr>
+<tr><td>Weather conditions</td><td>Temperature range</td><td>1.1.1.1.2.6 Temperature range</td><td>X</td><td>  </td><td>Comparison of the declared temperature range between vehicle and the intended route. Note:  The Safety Management System of the Railway Undertaking shall consider any possible restrictions when the compared temperature range diverge. </td></tr>
+<tr><td>Weather conditions</td><td>Snow, ice and hail condition</td><td>1.1.1.1.2.8 Existence of severe climatic conditions</td><td>X</td><td>  </td><td>Comparison of the declared vehicle ‘Snow, ice and hail condition’ (e.g. S1) with and the ‘Existence of severe climatic conditions’ in the intended route. Note:  The Safety Management System of the Railway Undertaking shall consider any possible restrictions. Discussion between Railway Undertaking and Infrastructure Manager to identify the possible restrictions. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Voltages and frequencies</td><td>Energy supply system: — Nominal voltage and frequency,  — Type of contact line system </td><td>1.1.1.2.2.1.1 Type of contact line system 1.1.1.2.2.1.2 Energy supply system (Voltage and frequency)  1.1.1.2.2.1.3 Highest non-permanent voltage (Umax2) for France on lines not compliant with values in table 1 of EN 50163:2004 </td><td>X</td><td>  </td><td>Comparison of the declared voltage between vehicle and the intended route of the traction supply system (nominal voltage and frequency) and type of contact line system. Note: For France, comparison of Highest non-permanent voltage (Umax2) between the vehicle and intended routes having Umax2 not compliant with values in table 1 of EN50163:2004 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Regenerative brake</td><td>Possibility of preventing the use of the regenerative brake (only if fitted with regenerative brake)</td><td>1.1.1.2.2.4 Permission for regenerative braking</td><td>X</td><td>  </td><td>Verification if the use of the regenerative brake is allowed in the intended route or under specific conditions. Note:  The output of the check should be taken into account by the Safety Management System of the Railway Undertaking (e.g. preventing the use of the regenerative brake in the section of line). </td></tr>
+<tr><td>Current limitation</td><td>Electric units equipped with power or current limitation function.</td><td>1.1.1.2.5.1 Current or power limitation on board</td><td>X</td><td>  </td><td>Verification if the intended route require that the vehicle is equipped with a current or power limitation. Note:  TSI-compliant Rolling Stock with a maximum power higher than 2MW are equipped with current or power limitation. </td></tr>
+<tr><td>Pantograph</td><td>Maximum current at standstill per pantograph for each DC systems the vehicle is equipped for</td><td>1.1.1.2.2.3 Maximum current at standstill per pantograph 1.2.2.0.6.1 Maximum current at standstill per pantograph </td><td>X</td><td>  </td><td>Comparison of the declared maximum current at standstill per pantograph for each DC systems, between vehicle and the intended route.</td></tr>
+<tr><td>Pantograph</td><td>Height of interaction of pantograph with contact wires (over top of rail) for each energy supply system the vehicle is equipped for</td><td>1.1.1.2.2.5 Maximum contact wire height 1.1.1.2.2.6 Minimum contact wire height </td><td>X</td><td>  </td><td>Comparison of the height of interaction of pantograph with contact wires, for each energy supply system, between the vehicle and the intended route.</td></tr>
+<tr><td>Pantograph</td><td>Pantograph head for each energy supply system the vehicle is equipped for</td><td>1.1.1.2.3.1 Accepted TSI compliant pantograph heads 1.1.1.2.3.2 Accepted other pantograph heads </td><td>X</td><td>  </td><td>Comparison of the pantograph head geometry (including insulated or nor not insulated horns for 1 950 mm), for each energy supply system, between the vehicle and the intended route.</td></tr>
+<tr><td>Pantograph</td><td>Material of pantograph contact strip the vehicle may be equipped with for each energy supply system the vehicle is equipped for</td><td>1.1.1.2.3.4 Permitted contact strip material</td><td>X</td><td>  </td><td>Comparison of material of pantograph contact strip, for each energy supply system, between the vehicle and the intended route.</td></tr>
+<tr><td>Pantograph</td><td>Mean contact force curve</td><td>1.1.1.2.5.2 Contact force permitted</td><td>X</td><td>  </td><td>Comparison of mean contact force between the vehicle and the intended route: For TSI-Compliant vehicle intended to operate in Non-TSI conform line(s): comparison of mean contact force between the vehicle and the intended route, for each voltage.  For existing non TSI-compliant vehicle: comparison of the mean contact between vehicle and the intended route, for each voltage.  Note:  A TSI-compliant vehicle is authorised with a mean contact force within limits values defined in EN 50367:2012 Table 6. </td></tr>
+<tr><td>Pantograph</td><td>Number of pantographs in contact with the overhead contact line (OCL) (for each energy supply system the vehicle is equipped for); Shortest distance between two pantographs in contact with the OCL (for each energy supply system the vehicle is equipped for; for single and, if applicable, multiple operation) (only if number of raised pantographs is more than 1);  Type of OCL used for the test of current collection performance (for each energy supply system the vehicle is equipped for) (only if number of raised pantographs is more than 1). </td><td>1.1.1.2.3.3 Requirements for number of raised pantographs and spacing between them, at the given speed</td><td>X</td><td>X</td><td>For pre-defined formation (as referred in section 2.2.1 of TSI 1302/2014): For each energy supply system:  — Comparison of number of vehicle pantographs in contact with the OCL and the intended route;  — Comparison of the vehicle shortest distance between two pantographs in contact with the OCL and the intended route.  For general operation(*1):  Covered by Railway Undertaking safety management system, considering the conditions imposed by the Infrastructure Manager, as in RINF or information provided by Infrastructure Manager.  Note:  The output of the comparison, concerning a minimum distance between two raised pantographs, might result in operational constraint on the vehicle to be considered by the safety management system of the Railway Undertaking (e.g. a two pantographs raised Electrical Multiple Units is forced to lower one pantograph). </td></tr>
+<tr><td>Pantograph</td><td>Automatic dropping device (ADD) fitted (for each energy supply system the vehicle is equipped for)</td><td>1.1.1.2.5.3 Automatic dropping device required</td><td>X</td><td>  </td><td>Verification if the intended route(s) require that the vehicle is equipped with an automatic dropping device.</td></tr>
+<tr><td>Specific to the French network: Phase separation</td><td>Distance between cab and pantograph for reverse or multiple unit</td><td>1.1.1.2.4.3 Distance between signboard and phase separation ending</td><td>  </td><td>x</td><td>Verification if the positioning of signboards identifying the place where driver is allowed to raise pantographs or close circuit breakers again on the intended route(s) is compatible with the distance between cab and pantograph for reverse or multiple unit. Where there is incompatibility, the signboard is to be moved and be settled far enough to ensure drivers do not raise pantographs too early. </td></tr>
+<tr><td>Tunnel</td><td>Fire safety category</td><td>1.1.1.1.8.10 Fire category of rolling stock required 1.1.1.1.8.11 National fire category of rolling stock required  1.2.1.0.5.7 Fire category of rolling stock required  1.2.1.0.5.8 National fire category of rolling stock required  1.2.2.0.5.7 Fire category of rolling stock required  1.2.2.0.5.8 National fire category of rolling stock required </td><td>X</td><td>  </td><td>Comparison between fire safety category of vehicle and intended route.</td></tr>
+<tr><td>train length</td><td>Train length</td><td>1.2.2.0.2.1 Usable length of siding 1.2.1.0.6.4 Usable length of platform </td><td>X</td><td>X</td><td>For fixed and pre-defined formation (as referred in section 2.2.1 of TSI 1302/2014): Comparison of unit(s) length (single or multiple operation) with the ‘siding and platform’ length(s) of the intended route.  For general operation(*1):  Verification of the composed train length with the ‘siding and platform’ length(s) of the intended route.  Note:  The output of the check should be taken into account by the Railway Undertaking in its Safety Management System. Operational conditions might be imposed as a result of this check. </td></tr>
+<tr><td>Platform height and access and egress</td><td>Platform heights for which the vehicle is designed</td><td>1.2.1.0.6.5 Height of platform</td><td>X</td><td>  </td><td>Comparison of platform heights between the vehicle and the intended route. Note:  The output of the check should be taken into account by the Railway Undertaking in its Safety Management System. Operational conditions might be imposed as a result of this check. </td></tr>
+<tr><td>ETCS</td><td>ETCS System Compatibility</td><td>1.1.1.3.2.9 ETCS System Compatibility</td><td>X</td><td>  </td><td>Comparison ETCS System Compatibility value in RINF is included in the vehicle authorisation.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>ETCS</td><td>Managing information about the completeness of the train (not from driver)</td><td>1.1.1.3.2.8 Train integrity confirmation from on-board (not from driver) necessary for line access</td><td>X</td><td>X</td><td>Verification that vehicle/train is able to confirm (not from driver) the train integrity if required by trackside.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>ETCS</td><td>Envelope of legally operated ETCS system versions</td><td>1.1.1.3.2.10 ETCS M_version</td><td>X</td><td>  </td><td>Verification that the ETCS M_VERSION value in RINF is in the range of the legally operated ETCS system versions supported by the vehicle.</td></tr>
+<tr><td>ETCS</td><td>Safe consist length information from on-board necessary for access to the line and SIL level</td><td>1.1.1.3.2.11 Safe consist length information from on-board necessary for access to the line and SIL</td><td>X</td><td>X</td><td>Verification that vehicle/train is able to provide the safe consist length information with the minimum required level indicated in RINF.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>GSM-R</td><td>Radio System Compatibility Voice</td><td>1.1.1.3.3.9 Radio System Compatibility Voice</td><td>X</td><td>  </td><td>Comparison Radio System Compatibility voice value in RINF is included in the vehicle authorisation.</td></tr>
+<tr><td>GSM-R</td><td>Radio System Compatibility Data</td><td>1.1.1.3.3.10 Radio System Compatibility data</td><td>X</td><td>  </td><td>Comparison Radio System Compatibility data value in RINF is included in the vehicle authorisation.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>GSM-R</td><td>GSM-R Voice SIM Card Home Network</td><td>1.1.1.3.3.5 GSM-R networks covered by a roaming agreement</td><td>X</td><td>  </td><td>Verification that the GSM-R SIM Card Home Network is in the list of GSM-R networks with roaming agreement for all Points in the route. This has to be performed for all SIM Cards in the vehicle.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>GSM-R</td><td>GSM-R Data SIM Card Home Network</td><td>1.1.1.3.3.5 GSM-R networks covered by a roaming agreement</td><td>X</td><td>  </td><td>Verification that the GSM-R SIM Card Home Network is in the list of GSM-R networks with roaming agreement for all Points in the route. This has to be performed for all SIM cards in the vehicle.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>GSM-R</td><td>GSM-R Voice SIM card support of group ID 555</td><td>1.1.1.3.3.4 GSM-R Use of Group 555</td><td>X</td><td>  </td><td>Verification that the Group ID 555 is used trackside. If this is not configured on-board, alternative operational procedures should be prior established with the infrastructure manager.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Class B</td><td>Class B train protection legacy system</td><td>1.1.1.3.5.3 Train protection legacy systems</td><td>X</td><td>  </td><td>Comparison of name and version of the Class B train protection legacy system.</td></tr>
+<tr><td>Class B</td><td>Class B radio legacy system</td><td>1.1.1.3.6.1 Radio legacy system</td><td>X</td><td>  </td><td>Comparison of name and version of the Class B radio legacy system.</td></tr>
+<tr><td colspan="6">(*1)  General operation: A unit is designed for general operation when the unit is intended to be coupled with other unit(s) in a train formation which is not defined at design stage  (1)  Commission Regulation (EU) No 1299/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union (OJ L 356, 12.12.2014, p. 1).  (2)  Commission Regulation (EU) No 1301/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘energy’ subsystem of the rail system in the Union (OJ L 356, 12.12.2014, p. 179). </td></tr>
+</tbody>
+</table>
+
+**Appendix D2**
+
+**Elements the infrastructure manager has to provide to the railway undertaking for the Route Book**
+
+| Number | Route Book information | Route Book information in Register of Infrastructure (RINF) | Explanations |
+| --- | --- | --- | --- |
+| 1 | Generic information regarding the infrastructure manager |  |  |
+| 1.1 | infrastructure manager's code – IM’s Code | 1.1.0.0.0.1 – section of line 1.1.1.1.8.1 – section of line track tunnel 1.2.1.0.0.1 – operational point track 1.2.1.0.5.1 – operational point track tunnel 1.2.1.0.6.1 – platform 1.2.2.0.0.1 – siding |  |
+| 2 | Maps and Diagrams |  |  |
+| 2.1 | Map: schematic overview including |  |  |
+| 2.1.1 | Sections of line | 1.1.1.0.1.1 | The RINF elements are geo-located. A map of one section of line is provided by its geo location superposed on a mapping service A map of consecutive sections of line will result from a route calculation |
+| 2.1.2 | (Principal) operational points | 1.2.0.0.0.5 | The RINF elements are geo-located. A map of one operational point is provided by its geo location superposed on a mapping service |
+| 2.2 | Route diagram |  | A route is defined by a list of consecutive tracks of sections of line with their corresponding operational points, linking one operational point A from operational point B |
+| 2.2.1.1 | Indication of running lines | 1.1.0.0.0.2 1.1.1.0.0.1 1.1.1.0.0.2 | National line identification is a property of each section of line The running track is given by the identification of the track and the running direction (N/O/B) |
+| 2.2.1.2 | Indication of loops | 1.2.0.0.0.4 |  |
+| 2.2.1.3 | Indication of catch/trap points | 1.2.0.0.0.4 |  |
+| 2.2.1.4 | Indication of sidings | 1.2.2.0.0.2 | Sidings are defined as part of operational points (geo-localised) |
+| 2.2.2 | Principal locations (stations, yards, junctions, freight terminals) and their position relative to the line | 1.2.0.0.0.1 1.2.0.0.0.2 1.2.0.0.0.3 1.2.0.0.0.4 1.2.0.0.0.5 1.2.0.0.0.6 |  |
+| 2.2.3 | Location, type and name of all fixed signals relevant for trains | 1.1.1.3.14 – signal on the track 1.2.1.0.8 – signal in operational point | Signal to be referred in regards to track of section of line or operational point |
+| 2.3 | Station/Yard/Depot diagrams |  | Station, yard, depot are defined in RINF as operational point types |
+| 2.3.1 | Unique Operational Point ID (UOPID) | 1.2.0.0.0.1 1.2.0.0.0.2 1.2.0.0.0.3 |  |
+| 2.3.2 | Type of location passenger terminal, freight terminal, yard, depot | 1.2.0.0.0.4 |  |
+| 2.3.3 | Location, type and identification of fixed signals that protect danger points | 1.2.1.0.8.1 1.2.1.0.8.2 1.2.1.0.8.3 1.2.1.0.8.4 | Signal to be referred in regards to operational point |
+| 2.3.4 | Identification and plan of tracks, including switches | 1.2.1.0.0.2 1.2.0.0.0.7.1 1.2.0.0.0.7.2 | Schematic overview parameters added |
+| 2.3.5 | Identification of platforms | 1.2.1.0.6.2 |  |
+| 2.3.6 | Length of platforms | 1.2.1.0.6.4 |  |
+| 2.3.7 | Height of platforms | 1.2.1.0.6.5 |  |
+| 2.3.8 | Curvature of platforms | 1.2.1.0.6.8 |  |
+| 2.3.9 | Identification of loops | 1.2.0.0.0.1 1.2.0.0.0.2 1.2.0.0.0.3 1.2.0.0.0.4 |  |
+| 2.3.10 | Fixed installations for servicing trains (toilet discharge, cleaning facilities, water restocking, refuelling, sand restocking, electric shore supply) | 1.2.2.0.4.1 1.2.2.0.4.2 1.2.2.0.4.3 1.2.2.0.4.4 1.2.2.0.4.5 1.2.2.0.4.6 |  |
+| 3 | Specific section of line information |  |  |
+| 3.1 | General Characteristics |  |  |
+| 3.1.1 | Section of line extremity 1 | 1.1.0.0.0.3 |  |
+| 3.1.2 | Section of line extremity 2 | 1.1.0.0.0.4 |  |
+| 3.1.3 | Lineside indications of distance (frequency, appearance and positioning) | 1.1.1.0.0.3 |  |
+| 3.1.4 | Maximum permissible speed for each track | 1.1.1.1.2.5 |  |
+| 3.1.5 | Intentionally blank |  |  |
+| 3.1.6 | Intentionally blank |  |  |
+| 3.1.7 | Means of Communication with the traffic management/control centre in normal, degraded and emergency situation | 1.1.1.3.3.1 – GSM-R version 1.1.1.3.6.1 – Other radio systems installed (Radio Legacy Systems) 1.1.1.3.3.3 – Optional GSM-R functions |  |
+| 3.2 | Specific Technical Characteristics |  |  |
+| 3.2.1 | Gradient profile | 1.1.1.1.3.6 |  |
+| 3.2.2 | Gradient location | 1.1.1.1.3.6 |  |
+| 3.2.3 | Tunnels: location, name, length, specific information such as the existence of walkways and evacuation and rescue points as well as the location of safe areas where evacuation of passengers may take place; fire safety categorisation | 1.1.1.1.8.2 1.1.1.1.8.3 1.1.1.1.8.4 1.1.1.1.8.7 1.1.1.1.8.10 1.1.1.1.8.11 1.1.1.1.8.12 1.1.1.1.8.12.1 1.1.1.1.8.13 1.1.1.1.8.13.1 |  |
+| 3.2.4 | Non-stopping areas: identification, location, type | 1.1.1.3.14.1 1.1.1.3.14.2 1.1.1.3.14.3 1.1.1.3.14.5 | Specific type of signal ‘non-stopping area’ plus the length of the non-stopping area |
+| 3.2.5 | Industrial risks – locations where it is dangerous for the driver to step out | 1.1.0.0.1.1 |  |
+| 3.2.6 | Intentionally blank |  |  |
+| 3.2.7 | Type of signalling system and corresponding operational regime (double track, reversible working, left or right hand running, etc.) | 1.1.1.3.2.1 – ETCS level 1.1.1.3.2.2 – ETCS baseline 1.1.1.3.5.3 – Train protection legacy system 1.1.1.0.0.2 – Normal running direction 1.1.0.0.1.3 – Operational regime | Signalling systems already in RINF in accordance with Implementing Regulation (EU) 2019/777. Reversible working regime already defined in RINF at track level. Parameter for double track and left-right hand running regime defined at section of line level |
+| 3.2.8 | Intentionally blank |  |  |
+| 3.3 | Energy subsystem |  |  |
+| 3.3.1 | Energy supply system (voltage and frequency) | 1.1.1.2.2.1.2 |  |
+| 3.3.2 | Maximum train current | 1.1.1.2.2.2 |  |
+| 3.3.3 | Restriction related to power consumption of specific electric traction unit(s) | 1.1.1.2.5.1 1.1.1.2.5.4 | Yes/No already in RINF in accordance with Implementing Regulation (EU) 2019/777. Parameter under ‘Rules and restrictions’ group of parameters for a document describing the restriction |
+| 3.3.4 | Restriction related to the position of Multiple Traction unit(s) to comply with contact line separation (position of pantograph) | 1.1.1.2.5.5 | Parameter under ‘Rules and restrictions’ group of parameters |
+| 3.3.5 | Location of neutral sections | 1.1.1.2.4.1.2 |  |
+| 3.3.6 | Location of areas that shall be passed with lowered pantographs. | 1.1.1.2.4.1.2 |  |
+| 3.3.7 | Conditions applying with regard to regenerative braking | 1.1.1.2.2.4.1 |  |
+| 3.3.8 | Maximum current at standstill per pantograph | 1.1.1.2.2.3 |  |
+| 3.4 | Control-Command and Signalling subsystem |  |  |
+| 3.4.1 | Need for more than one system active simultaneously | 1.1.1.3.10.1 1.1.1.3.10.2 1.2.1.1.9.1 1.2.1.1.9.2 |  |
+| 3.4.2 | Special conditions to switch over between different class B train protection, control and warning systems | 1.1.1.3.8.1.1 1.2.1.1.7.1.1 |  |
+| 3.4.3 | Special technical conditions required to switch over between ERTMS/ETCS and Class B systems, boundary locations between ERTMS/ETCS and Class B systems | 1.1.1.3.8.3 1.2.1.1.7.3 | The boundary location can be deduced from the track associated with ETCS and the adjacent track associated with Class B system |
+| 3.4.4 | Radio network ID(s) used in the route and special instructions (location) to switch over between different radio systems | 1.1.1.3.3.1 – GSM-R version 1.2.1.1.2.1 1.1.1.3.6.1 – Other radio systems installed (Radio Legacy Systems) 1.2.1.1.5.1 1.1.1.3.8.2 1.1.1.3.8.2.1 1.2.1.1.7.2 1.2.1.1.7.2.1 | The location to switch over can be deduced from the track associated with one radio system and the adjacent track associated with another radio system |
+| 3.4.5 | Permissibility to use eddy current brake | 1.1.1.1.6.2 1.2.1.0.4.2 |  |
+| 3.4.6 | Permissibility to use magnetic brake | 1.1.1.1.6.3 1.2.1.0.4.3 |  |
+| 3.4.7 | ID(s), phone number(s) and area(s) of authority (boundary locations) of ERTMS/ETCS Radio Block Centers covering the route | 1.1.1.3.2.17 1.2.1.1.1.17 | The area covered by RBC is defined by all the section of line tracks associated to the same ID or phone number |
+| 3.4.8 | ATO Grade of Automation and system version installed lineside | 1.1.1.3.13.1 1.1.1.3.13.2 1.2.1.1.10.1 1.2.1.1.10.2 | RINF parameters associated to section of line track |
+| 3.4.9 | ATO communication system supported from trackside | 1.1.1.3.13.3 1.2.1.1.10.3 |  |
+| 3.4.10 | Big Metal Mass | 1.1.1.3.2.18 1.2.1.1.1.18 |  |
+| 3.4.11 | Train integrity confirmed by on-board | 1.1.1.3.2.8 1.2.1.1.1.8 |  |
+| 3.5 | Operation and Traffic Management subsystem |  |  |
+| 3.5.1 | Operating language | 1.1.0.0.1.2 1.2.0.0.0.8 |  |
+
+**Appendix D3**
+
+**ERTMS trackside engineering information relevant to operation that the infrastructure manager shall provide to the railway undertaking**
+
+**Notes:**
+
+1\. The information provided herein is complementary to the route compatibility check, which is assumed to have already been performed for a train intended to operate on a route. It has to be provided by the infrastructure managers through RINF. Those parameters can be published in RINF Application by using the concept of ‘common characteristics subset’ as defined in ERA vocabulary and RINF Implementing Regulation (EU) 2019/777 as amended by Implementing Regulation (EU) 2023/1694.
+
+2\. Most of the information listed below is not otherwise visible to the driver or can only be indirectly perceived under certain operational conditions, usually by observing the system behaviour in certain situations.
+
+3\. Item 1.5 lists the minimum set of ETCS National Values required to be made available to the railway undertakings. Infrastructure managers shall also provide upon request to a railway undertaking the complete set of National Values.
+
+4\. The ERTMS terms mentioned in the table are defined in the glossary and system requirements specification of the Control-command and Signalling TSI (under indexes 3 and 4 respectively of Appendix A).
+
+5\. The information provided in this Appendix will enhance drivers’ knowledge of the operational conditions they need to consider when running under ERTMS in the infrastructure manager’s network. It can be used in drivers’ training and may be integrated under internal railway undertaking rules and procedures.
+
+| Number | Information | Explanation |
+| --- | --- | --- |
+| 1 | ETCS specificities |  |
+| 1.1 | Whether the ETCS trackside is engineered to transmit Track Conditions and if yes, which ones | If the trackside does not provide Track Conditions, the driver will need to be informed about such conditions via alternative methods |
+| 1.2 | Whether the ETCS trackside implements the Level Crossing (LX) procedure or an equivalent solution | If the trackside does not implement any solution to cover defective LXs (which are normally protected by means of a technical system), then drivers will be required to comply with instructions received from other sources |
+| 1.3 | The cant deficiency used to determine the basic Static Speed Profile of the line and other cant deficiency train categories for which the ETCS trackside is configured to provide Static Speed Profiles | Essential information for drivers of trains with a worse (lower) tolerated cant deficiency than those for which the ETCS trackside provides Static Speed Profiles |
+| 1.4 | Reasons for which an ETCS Radio Block Center can reject a train | List of cases subject to system design choices made by the infrastructure manager |
+| 1.5 | ETCS National Values | Minimum set of parameters to be communicated to the railway undertakings |
+| 1.5.1 | D_NVROLL | Parameter used by the ETCS on-board to supervise the distance allowed to be travelled under the roll-away protection and the reverse movement protection |
+| 1.5.2 | Q_NVEMRRLS | Qualifier defining whether the application of the emergency brake for reasons other than a trip can be revoked as soon as the conditions for it have disappeared or after the train has come to a complete standstill |
+| 1.5.3 | V_NVALLOWOVTRP | Maximum speed allowed when selecting ‘Override EOA’ |
+| 1.5.4 | V_NVSUPOVTRP | Permitted speed limit supervised when ‘Override EOA’ is active |
+| 1.5.5 | D_NVOVTRP | Maximum distance for overriding the train trip |
+| 1.5.6 | T_NVOVTRP | Maximum time for overriding the train trip |
+| 1.5.7 | D_NVPOTRP | Maximum distance allowed for reversing in Post Trip Mode |
+| 1.5.8 | T_NVCONTACT | Maximum time without a safe message from Radio Block Center before train reacts |
+| 1.5.9 | M_NVCONTACT | On-Board system reaction when T_NVCONTACT expires |
+| 1.5.10 | M_NVDERUN | Qualifier determining whether ETCS on-board allows a driver ID to be changed while running or only at standstill |
+| 1.5.11 | Q_NVDRIVER_ADHES | Qualifier determining whether the driver is allowed to modify the adhesion factor used by the ETCS on-board to calculate the braking curves |
+| 1.5.12 | Q_NVSBTSMPERM | Permission to use service brake in target speed monitoring |
+| 1.5.13 | National Values used for the brake model | Set of parameters for tweaking the braking curves calculated by the ETCS on-board system to match accuracy, performance and safety margins imposed by the infrastructure manager |
+| 2 | GSM-R specificities |  |
+| 2.1 | Whether the GSM-R network is configured to allow forced de-registration of a functional number by another driver | This feature will condition the applicable operational rules for drivers and signallers when dealing with cab radios registered under wrong numbers |
+| 2.2 | Specific constraints imposed by the GSM-R network operator on ETCS on-board units only able to operate in circuit-switch | These constraints, where applicable, are meant to manage the limited number of circuit-switched radio connections that can be handled simultaneously by a Radio Block Center |
+
+## Appendix E
+
+**Language and communication level**
+
+The oral qualification in a language may be subdivided into five levels:
+
+Level Description
+
+5 — may adapt the way he/she speaks to any interlocutor
+
+— may put forward an opinion
+
+— may negotiate
+
+— may persuade
+
+— may give advice
+
+4 — may cope with totally unforeseen situations
+
+— may make assumptions
+
+— may express an argued opinion
+
+3 — may cope with practical situations involving an unforeseen element
+
+— may describe
+
+— may keep a simple conversation going
+
+2 — may cope with simple practical situations
+
+— may ask questions
+
+— may answer questions
+
+1 — may talk using memorised sentences
+
+## Appendix F
+
+**Elements relevant to professional qualification for the tasks associated with ‘accompanying trains’**
+
+**1\. General requirements**
+
+(a) This Appendix, which shall be read in conjunction with points 4.6 and 4.7 is a list of the elements that are deemed to be relevant to the tasks associated with accompanying a train on the network.
+
+(b) The expression ‘professional qualification’, when taken within the context of this Regulation, refers to those elements that are important to ensure that operational staff are trained and able to understand and discharge the tasks.
+
+(c) Rules and procedures apply to the tasks being performed and to the person carrying out the tasks. These tasks may be carried out by any authorised qualified person irrespective of any name, job title or grade used in rules or procedures or by the individual company.
+
+**2\. Professional knowledge**
+
+Any authorisation requires a successfully passed initial examination and provisions for ongoing assessment and training as described in point 4.6.
+
+**2.1. General professional knowledge**
+
+(a) Principles of organisation's safety management system, relevant to the tasks.
+
+(b) Roles and responsibilities of the key players involved in operations.
+
+(c) General conditions relevant to the safety of passengers or cargo and persons on or about the railway track.
+
+(d) Conditions of health and safety at work.
+
+(e) General principles of security of the railway system.
+
+(f) Personal safety including when leaving the train on the running line.
+
+**2.2. Knowledge of operational procedures and safety systems relevant to the tasks**
+
+(a) Operational procedures and safety rules.
+
+(b) Relevant aspects of control command and signalling system.
+
+(c) Formalised messaging procedure including use of communication equipment.
+
+**2.3. Knowledge of rolling stock**
+
+(a) Passenger vehicle interior equipment.
+
+(b) Appropriate knowledge of safety-critical tasks in respect to procedures and interfaces for rolling stock.
+
+**2.4. Knowledge of the route**
+
+(a) Relevant operational arrangements (such as the method of train despatch) at individual locations (station equipment and signalling etc.).
+
+(b) Stations at which passengers may alight or board the train.
+
+(c) Local operating and emergency arrangements specific to the line(s) of route.
+
+**2.5. Knowledge on passenger safety**
+
+The training on passenger safety shall cover at least the following:
+
+(a) Principles to ensure the safety of passengers:
+
+— Support Passengers with Reduced Mobility;
+
+— Identify the hazards;
+
+— Procedures applicable to accidents involving persons;
+
+— Events of a fire and/or smoke;
+
+— Evacuation of passengers.
+
+(b) Principles of communication:
+
+— Identify who needs to be contacted and understand communication methods, especially with the signaller during an evacuation incident;
+
+— Identify causes/situations and requests to initiate communication
+
+— Communication methods for informing passengers;
+
+— Communication methods in degraded operations/emergency situations.
+
+(c) Behavioural skills:
+
+— Situational awareness;
+
+— Conscientiousness;
+
+— Communication;
+
+— Decision making and action.
+
+**3\. Ability to put the knowledge into practice**
+
+The ability to apply this knowledge in normal, degraded and emergency situations shall require staff to be fully acquainted with:
+
+— Methods and principles for applying the rules and procedures;
+
+— Process for the use of line-side equipment and rolling stock, as well as any specific safety-related equipment;
+
+In particular with:
+
+(a) Checks before departure, including brake tests if necessary and correct closure of the doors.
+
+(b) Departure procedure.
+
+(c) Degraded operation.
+
+(d) Assess the potential of a defect within the passenger areas and react according to rules and procedures.
+
+(e) Protection and warning measures as required by the rules and regulations or in assistance to the driver.
+
+(f) Communicate with the infrastructure manager's staff when assisting the driver.
+
+(g) Report any unusual occurrences concerning the operation of the train, the condition of the rolling stock and the safety of passengers. If required these reports shall be made in writing, in the language chosen by the railway undertaking.
+
+## Appendix G
+
+**Elements relevant to professional qualification for the task of preparing trains**
+
+**1\. General requirements**
+
+(a) This Appendix, which shall be read in conjunction with point 4.6 and 4.7, gives a list of the elements that are deemed to be relevant to the task of preparing a train on the network.
+
+(b) The expression ‘professional qualification’, when taken within the context of this Regulation, refers to those elements that are important to ensure that operational staff are trained and able to understand and discharge the elements of the task.
+
+(c) Rules and procedures apply to the task being performed and to the person carrying out the task. These tasks may be carried out by any authorised qualified person irrespective of any name, job title or grade used in rules or procedures or by the individual company.
+
+**2\. Professional knowledge**
+
+Any authorisation requires a successfully passed initial examination and provisions for ongoing assessment and training as described in point 4.6.
+
+**2.1. General professional knowledge**
+
+(a) Principles of organisation's safety management system, relevant to the task.
+
+(b) Roles and responsibilities of the key players involved in operations.
+
+(c) General conditions relevant to the safety of passengers and/or cargo including the carriage of dangerous goods and exceptional loads.
+
+(d) Appreciation of hazards, especially in relation to the risks involving railway operation and electric traction supply.
+
+(e) Conditions of health and safety at work.
+
+(f) General principles of security of the railway system.
+
+(g) Personal safety when on or in the vicinity of rail lines.
+
+(h) Communications principles and formalised messaging procedure including use of communication equipment.
+
+**2.2. Knowledge of operational procedures and safety systems relevant to the task**
+
+(a) Working of trains in normal, degraded and emergency situations.
+
+(b) Operational procedures at individual locations (signalling, station/depot/yard equipment) and safety rules.
+
+(c) Local operating arrangements.
+
+**2.3. Knowledge of train equipment**
+
+(a) Purpose and use of wagon and vehicle equipment.
+
+(b) Identification of and arranging for technical inspections.
+
+(c) Appropriate knowledge of safety-critical tasks in respect to procedures and interfaces for rolling stock.
+
+**3\. Ability to put the knowledge into practice**
+
+The ability to apply this knowledge in normal, degraded and emergency situations shall require staff to be fully acquainted with:
+
+— Methods and principles for applying the rules and procedures;
+
+— Process for the use of line-side equipment and rolling stock, as well as any specific safety-related equipment;
+
+In particular:
+
+(a) Application of train preparation rules, train composition rules, train braking rules, train loading rules etc. to ensure the train is in running order.
+
+(b) Understanding of marking and labels on vehicles.
+
+(c) Process for determining and making train data available.
+
+(d) Communication with train crew.
+
+(e) Communication with staff responsible for controlling the movement of trains.
+
+(f) Degraded operations especially as it affects the preparation of trains.
+
+(g) Protection and warning measures as required by the rules and regulations or local arrangements at the location in question.
+
+(h) Actions to be taken in respect to incidents involving the carriage of dangerous goods (where relevant).
+
+## Appendix H
+
+**European Vehicle Number and linked alphabetical marking on the bodywork**
+
+**1\. GENERAL PROVISIONS ON THE EUROPEAN VEHICLE NUMBER**
+
+The European Vehicle Number (EVN) is assigned in accordance with Appendix 6 of Annex II to Commission Implementing Decision (EU) 2018/1614 ( 21 ).
+
+The EVN shall be changed in accordance with point 3.2.2.8 of Annex II to Implementing Decision (EU) 2018/1614.
+
+The EVN may be changed at the request of the keeper in accordance with point 3.2.2.9 of Annex II to Implementing Decision (EU) 2018/1614.
+
+**2\. GENERAL ARRANGEMENTS FOR EXTERNAL MARKINGS**
+
+The capital letters and figures making up the marking inscriptions shall be at least 80 mm in height, in a sans serif font type of correspondence quality. A smaller height may only be used where there is no option but to place the marking on the sole bars.
+
+The marking is put not higher than 2 metres above rail level.
+
+The keeper may add, in letters of larger size than the European Vehicle Number, an own number marking (consisting generally of digits of the serial number supplemented by alphabetical coding) useful in operations. The place where the own number is marked is left to the choice of the keeper, however it shall be always be possible to distinguish easily the European Vehicle Number from the keeper's own number marking.
+
+**3\. WAGONS**
+
+The marking shall be inscribed on the wagon bodywork in the following manner:
+
+| 23. TEN 80 D-RFC 7369 553-4 Zcs | 31. TEN 80 D-DB 0691 235-2 Tanoos | 33. TEN 84 NL-ACTS 4796 100-8 Slpss |
+| --- | --- | --- |
+
+Where in the examples:
+
+D and NL stand for the registering Member State as set out in Decision (EU) 2018/1614, Appendix 6, part 4.
+
+RFC, DB and ACTS stand for the keeper marking as set out in Decision (EU) 2018/1614, Appendix 6, part 1.
+
+For wagons whose bodywork does not offer a large enough area for this type of arrangement, particularly in the case of flat wagons, the marking shall be arranged as follows:
+
+| 01 87 | 3320 644-7 |  |
+| --- | --- | --- |
+| TEN | F-SNCF | Ks |
+
+When one or more index letters of national significance are inscribed on a wagon, this national marking shall be shown after the international letter marking and separated from it by a hyphen as follows:
+
+| 01 87 | 3320 644-7 |  |
+| --- | --- | --- |
+| TEN | F-SNCF | Ks-xy |
+
+**4\. COACHES AND HAULED PASSENGER STOCK**
+
+The number shall be applied to each sidewall of the vehicle in the following manner:
+
+F-SNCF 61 87 20 - 72 021 - 7
+
+B10 tu
+
+The marking of the country in which the vehicle is registered and of the technical characteristics are printed directly in front of, behind or under the twelve digits of the vehicle number.
+
+In case of coaches with driver's cabin, the European Vehicle Number is also written inside the cabin.
+
+**5\. LOCOMOTIVES, POWER CARS AND SPECIAL VEHICLES**
+
+The European Vehicle Number shall be marked on each sidewall of the tractive stock in the following manner:
+
+92 10 1108 062-6
+
+The European Vehicle Number is also written inside each cabin of the tractive rolling stock.
+
+**6\. ALPHABETICAL MARKING OF THE INTEROPERABILITY CAPABILITY**
+
+‘TEN’: Vehicle which is provided with an authorisation valid for an area of use covering all Member States.
+
+‘PPV/PPW’: Vehicle which complies with PPV/PPW or PGW agreement (inside OSJD States). (original: PPV/PPW: ППВ (Правила пользования вагонами в международном сообщении); PGW: Правила Пользования Грузовыми Вагонами)
+
+Vehicles which are provided with an authorisation valid for an area of use which does not cover all Member States need a marking indicating the Member States which are part of the area of use of the vehicle. This marking shall be according to one of the following drawings, where D stands for the Member State who has granted the first authorisation (in the given example, Germany) and F stands for the second authorising MS (in the given example, France). The MS are codified in accordance with Decision (EU) 2018/1614, Appendix 6, part 4.
+
+## Appendix I — List of areas for which national rules may continue to apply according to Article 8 of Directive (EU) 2016/798
+
+**1\. AREAS FOR NATIONAL RULES**
+
+(a) Shunting
+
+— Excluded are operating rules for Digital Automatic Coupling (DAC)
+
+— National rules for ERTMS shunting are limited to the areas defined in Part C of Appendix A
+
+(b) Signalling rules
+
+— Rules related to the operational use of the national signalling system
+
+(c) Maximum speeds in degraded mode including running on sight
+
+(d) Running at caution
+
+(e) Local operational rule
+
+— Rules of a strictly local nature relating to specific local conditions, when not mentioned in RINF in accordance with Article 14(11) of Directive (EU) 2016/797
+
+(f) Operation during works
+
+(g) Safe operation of test trains
+
+(h) Train visibility
+
+— Front end (see point 4.2.2.1.2)
+
+— Existing Non TSI conform vehicles
+
+(i) Managing an emergency situation and emergency responses (see point 4.2.3.7)
+
+— Role of local/national authorities and emergency services, and their contact details.
+
+— Methods and procedures in emergency situation not covered by the requirement of this Regulation, including notification of accidents and incidents: national instructions on modalities for notifications to authorities.
+
+(j) Safety-related communications methodology
+
+— National operational instructions (see Appendix C2)
+
+(k) Requirements on route knowledge under the national transposition of Directive 2007/59/EC’;
+
+**2\. LIST OF OPEN POINTS**
+
+(a) Exceptional transport
+
+(b) Specific requirements to operate combined transport trains exceeding the loading gauge but not exceeding the codification of the line
+
+(c) Train running information for drivers (see 4.2.1.2.3)
+
+— Additional information’;
+
+(d) Recording of monitoring data outside the train (see 4.2.3.5.1)
+
+— Additional information
+
+(e) Recording of monitoring data on-board the train (see 4.2.3.5.2)
+
+— Additional information
+
+(f) Professional competences (see point 4.2.1.1 and 4.6)
+
+— Elements relevant to professional qualification for the tasks associated with despatching trains and authorising train movements.
+
+— Evidence of professional competences.
+
+(g) Health and safety conditions (see point 4.7)
+
+— Alcohol, drugs and psychotropic medication limits (see 4.7.1).
+
+(h) Common operational principles and rules (See 4.4 and Appendix B)
+
+— Sanding – automatic sanding equipment and report in case of use of the sanding equipment;
+
+— Failure of level crossing – additional information;
+
+(i) Safety-related communications methodology
+
+— Additional terms (see Appendix C1)
+
+(j) Operations in long tunnels (see 4.3.5)
+
+— Additional information
+
+## Appendix J
+
+**Glossary**
+
+The definitions in this glossary refer to the use of terms in this Regulation.
+
+For the purpose of this Regulation, the definition in Article 2 of Directive (EU) 2016/797 and in point 2.2 of Locomotives and passenger rolling stock TSI shall apply.
+
+<table>
+<tbody><tr><td>Term</td><td>Definition</td></tr>
+<tr><td>Accident</td><td>As defined in Article 3 of Directive (EU) 2016/798.</td></tr>
+<tr><td>Authorising train movements</td><td>The operation of equipment in signalling centres, electric traction current supply control rooms and traffic control centres that permits train movement. This does not include those staff employed by a railway undertaking who are responsible for management of resources such as train crew or rolling stock.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Combined transport train</td><td>A Combined Transport train is a freight train composed completely or partly of freight wagons loaded with intermodal loading unit(s) (e.g. swap bodies, semi-trailers, containers, roller units).</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Competence</td><td>The qualification and experience necessary to safely and reliably undertake the task being performed. Experience may be gained as part of the training process.</td></tr>
+<tr><td>Dangerous goods</td><td>As covered by Directive 2008/68/EC of the European Parliament and of the Council on the inland transport of dangerous goods (1)</td></tr>
+<tr><td>Degraded operation</td><td>Operation resulting from an unplanned event that prevents the normal delivery of train services.</td></tr>
+<tr><td>Despatch (= dispatch)</td><td>See Train despatch</td></tr>
+<tr><td>Driver</td><td>As defined in Article 3 of Directive 2007/59/EC.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Emergency call</td><td>Call set up in some dangerous situations to warn all trains /shunting compositions in a defined area.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>End Of Authority</td><td>Location up to which a train or a shunting composition is authorised to proceed.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>End of authority passed without permission</td><td>An end of authority passed without permission is any occasion when a train proceeds beyond the end of authority in the following circumstances: — A trackside signal at danger, or an order to STOP where an ATP is not operational,  — The end of a movement authority provided in an ATP,  — A point communicated by verbal or written authorisation laid down in regulations,  — Stop boards,  — Hand signals.  This covers movement authority as described in ETCS and authority to move covered by instructions/signalling.  Any case in which a vehicle without any traction unit attached or a train that is unattended runs away is not included. </td></tr>
+<tr><td>European instruction</td><td>An harmonised operational instruction giving a similar content to train drivers across the European Union in order for them to answer in a similar manner to similar situation.</td></tr>
+<tr><td>Evacuation</td><td>Evacuation of a train is when all passengers are instructed to leave the train and go on to the infrastructure under the supervision of on-board staff. On-board staff having agreed with the signaller or other responsible infrastructure manager staff, that it is safe to do so.</td></tr>
+<tr><td>Exceptional transport</td><td>A vehicle and/or the load carried which because of construction/design, dimensions or weight does not meet the parameters of the route and requires special authority for the movement and may require special conditions over part or its entire journey.</td></tr>
+<tr><td>Health and Safety Conditions</td><td>In the context of this Regulation, this refers only to the medical and psychological qualifications required to operate the relevant elements of the subsystem.</td></tr>
+<tr><td>Hot axle box</td><td>An axle box and bearing that has exceeded its maximum designed operating temperature.</td></tr>
+<tr><td>Incident</td><td>As defined in Article 3 of Directive (EU) 2016/798.</td></tr>
+<tr><td>Length of train</td><td>Total length of all vehicles over buffers including locomotive(s)</td></tr>
+<tr><td>Loop</td><td>Track, connected to the main track, used for passing, crossing and stabling.</td></tr>
+<tr><td>National instruction</td><td>An instruction defined at national level or by an infrastructure manager which covers situations specific to a Class B system or the transition between class A and class B systems.</td></tr>
+<tr><td>Operating Language</td><td>The language or languages used in daily operation an infrastructure manager and published in its Network Statement, for the communication of operational or safety related messages between the staff of the infrastructure manager and the railway undertaking.</td></tr>
+<tr><td>Operational instruction</td><td>Formal information exchanged between signaller and train driver so as to ensure/continue railway operation in specific situations. The operational instruction exists at both national and European levels.</td></tr>
+<tr><td>Passenger</td><td>Person (other than an employee with specific duties on the train) travelling by train or on railway property before or after a train journey.</td></tr>
+<tr><td>Performance monitoring</td><td>The systematic observation and recording of the performance of the train service and the infrastructure for the purpose of bringing about improvements in the performance of both.</td></tr>
+<tr><td>Qualification</td><td>The physical and psychological suitability for the task together with the required knowledge.</td></tr>
+<tr><td>Real time</td><td>The ability to exchange or process information on specified events (such as arrival at a station, passing a station or departure from a station) on the trains journey as they occur.</td></tr>
+<tr><td>Reporting point</td><td>A point on the trains schedule where reporting of the arrival, departure or passing time is required.</td></tr>
+<tr><td>Route</td><td>The particular section or sections of line</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Safety-critical task</td><td>Task, affecting railway safety, performed by staff preparing, operating, controlling or otherwise involved in the movement of trains.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Scheduled stop</td><td>Planned stop for commercial or operational reasons.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Shunting composition</td><td>A traction unit coupled or not to a set of vehicles and intended to be moved under shunting conditions without train data.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Siding</td><td>Any track(s) within an operational point which is not used for operational routing of a train.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Signaller</td><td>Staff in charge of the route setting of trains /shunting compositions and of issuing instructions to drivers.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Staff</td><td>Employees working for a railway undertaking or an infrastructure manager, or their contractors, undertaking tasks as specified in this Regulation.</td></tr>
+<tr><td>Stop aspect</td><td>Any signal aspect that does not allow the driver to pass the signal.</td></tr>
+<tr><td>Stopping point</td><td>A location identified in the schedule of a train where the train is planned to stop, usually to carry out a specific activity such as allowing passengers to join and leave the train.</td></tr>
+<tr><td>Timetable</td><td>Document or system that gives details of a train(s) schedule over a particular route.</td></tr>
+<tr><td>Timing point</td><td>A location identified in the schedule of a train where a specific time is identified. This time may be an arrival time, departure time or in the case of a train not scheduled to stop at that location the passing time.</td></tr>
+<tr><td>Traction unit</td><td>A powered vehicle able to move itself and other vehicles to which it may be coupled.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Train</td><td>A train is defined as (a) traction unit(s) with or without coupled vehicles with train data available operating between two or more defined points according to an allocated train path and identified by means of a unique train running number.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Train composition</td><td>Train composition is the sequence of vehicles in a train. This means both the formation of vehicles within a train and their specific vehicle characteristics.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Train despatch</td><td>The indication to the person driving the train that all station or depot activities are completed and that, as far as the staff responsible are concerned, movement authority has been granted for the train.</td></tr>
+<tr><td>Train crew</td><td>Members of the on-board staff of a train, who are certified as competent and appointed by a railway undertaking to carry out specific, designated safety related tasks on the train, for example the driver or the guard.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Train preparation</td><td>Process for ensuring that a train is in a fit condition to enter service, that the train equipment is correctly deployed and the train composition matches the train’s designated route(s). It includes the coupling or decoupling of vehicles, connecting or disconnecting of pipes, services, cabling and the indication of a rear end signal. Train preparation also includes brake configuration setting and the inspections, tests, and checks before departure.  Note: The movement to get a vehicle in or out of the train composition is a shunting movement. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">(1)  Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13). </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Abbreviation</td><td>Explanation</td></tr>
+<tr><td>AC</td><td>Alternating current</td></tr>
+<tr><td>ATP</td><td>Automatic Train Protection</td></tr>
+<tr><td>CCS</td><td>Control-Command and Signalling</td></tr>
+<tr><td>CEN</td><td>European Committee for Standardisation (Comité Européen de Normalisation)</td></tr>
+<tr><td>COTIF</td><td>Convention Concerning International Carriage by Rail (Convention relative aux Transports Internationaux Ferroviaires)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>CT</td><td>Combined Transport</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>dB</td><td>Decibels</td></tr>
+<tr><td>DC</td><td>Direct Current</td></tr>
+<tr><td>DMI</td><td>Driver Machine Interface</td></tr>
+<tr><td>EC</td><td>European Community</td></tr>
+<tr><td>ECG</td><td>Electro Cardiogram</td></tr>
+<tr><td>EIRENE</td><td>European Integrated Railway Radio Enhanced Network</td></tr>
+<tr><td>EN</td><td>Euro-norm</td></tr>
+<tr><td>ENE</td><td>Energy</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>EOA</td><td>End Of Authority</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ERA</td><td>European Union Agency for Railways</td></tr>
+<tr><td>ERATV</td><td>European Register of Authorised Types of Vehicles</td></tr>
+<tr><td>ERTMS</td><td>European Rail Traffic Management System</td></tr>
+<tr><td>ETCS</td><td>European Train Control System</td></tr>
+<tr><td>EU</td><td>European Union</td></tr>
+<tr><td>FRS</td><td>Functional Requirement Specification</td></tr>
+<tr><td>GSM-R</td><td>Global System for Mobile Communications — Rail</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ILU</td><td>Intermodal Loading Unit</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>IM</td><td>Infrastructure Manager</td></tr>
+<tr><td>INF</td><td>Infrastructure</td></tr>
+<tr><td>OPE</td><td>Operation and Traffic Management</td></tr>
+<tr><td>OSJD</td><td>Organisation for Cooperation between Railways</td></tr>
+<tr><td>PPV/PPW</td><td>Russian abbreviation for Prawila Polzowaniia Wagonami w mejdunarodnom soobqenii = Rules for use of railway vehicles in international traffic</td></tr>
+<tr><td>RINF</td><td>Register of Infrastructure</td></tr>
+<tr><td>RST</td><td>Rolling Stock</td></tr>
+<tr><td>RU</td><td>Railway Undertaking</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>SIL</td><td>Safety Integrity Level</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>SMS</td><td>Safety Management System</td></tr>
+<tr><td>SPAD</td><td>Signal Passed at Danger</td></tr>
+<tr><td>SRS</td><td>System Requirement Specification</td></tr>
+<tr><td>TAF</td><td>Telematic Applications for Freight</td></tr>
+<tr><td>TEN</td><td>Trans-European Network</td></tr>
+<tr><td>TPS</td><td>Train Protection System</td></tr>
+<tr><td>TSI</td><td>Technical Specification for Interoperability</td></tr>
+<tr><td>UIC</td><td>International Union of Railways (Union Internationale des Chemins de fer)</td></tr>
+<tr><td>Locomotives and passenger rolling stock (LOC&PAS) TSI</td><td>Commission Regulation (EU) No 1302/2014 of 18 November 2014 concerning a technical specification for interoperability relating to the ‘rolling stock — locomotives and passenger rolling stock’ subsystem of the rail system in the European Union</td></tr>
+<tr><td>Control-command and signalling (CCS) TSI</td><td>Commission Regulation (EU) 2016/919 of 27 May 2016 on the technical specification for interoperability relating to the ‘control-command and signalling’ subsystems of the rail system in the European Union</td></tr>
+<tr><td>Noise (NOI) TSI</td><td>Commission Regulation (EU) No 1304/2014 of 26 November 2014 on the technical specification for interoperability relating to the subsystem ‘rolling stock — noise’ amending Decision 2008/232/EC and repealing Decision 2011/229/EU</td></tr>
+<tr><td>Wagon (WAG) TSI</td><td>Commission Regulation (EU) No 321/2013 of 13 March 2013 concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC</td></tr>
+<tr><td>Persons with reduced mobility (PRM) TSI</td><td>Commission Regulation (EU) No 1300/2014 of 18 November 2014 on the technical specifications for interoperability relating to accessibility of the Union's rail system for persons with disabilities and persons with reduced mobility</td></tr>
+<tr><td>Energy (ENE) TSI</td><td>Commission Regulation (EU) No 1301/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘energy’ subsystem of the rail system in the Union</td></tr>
+<tr><td>Infrastructure (INF) TSI</td><td>Commission Regulation (EU) No 1299/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union</td></tr>
+<tr><td>Safety in Railway Tunnels (SRT) TSI</td><td>Commission Regulation (EU) No 1303/2014 of 18 November 2014 concerning the technical specification for interoperability relating to ‘safety in railway tunnels’ of the rail system of the European Union</td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Decision 2006/920/EC of 11 August 2006 concerning the technical specification of interoperability relating to the subsystem Traffic Operation and Management of the trans-European conventional rail system (OJ L 359, 18.12.2006, p. 1).
+
+( 2 ) Commission Decision 2008/231/EC of 1 February 2008 concerning the technical specification of interoperability relating to the operation subsystem of the trans-European high-speed rail system adopted referred to in Article 6(1) of Council Directive 96/48/EC and repealing Commission Decision 2002/734/EC of 30 May 2002 (OJ L 84, 26.3.2008, p. 1).
+
+( 3 ) Commission Decision 2011/314/EU of 12 May 2011 concerning the technical specification for interoperability relating to the ‘operation and traffic management’ subsystem of the trans-European conventional rail system (OJ L 144, 31.5.2011, p. 1).
+
+( 4 ) Commission Implementing Regulation (EU) 2023/1693 of 10 August 2023 amending Implementing Regulation (EU) 2019/773 on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail (OJ L 222, 8.9.2023, p. 1).
+
+( 5 ) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).
+
+( 6 ) Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (OJ L 129, 25.5.2018, p. 26).
+
+( 7 ) Directive 2007/59/EC of the European Parliament and of the Council of 23 October 2007 on the certification of train drivers operating locomotives and trains on the railway system in the Community (OJ L 315, 3.12.2007, p. 51).
+
+( 8 ) Commission Regulation (EU) No 1302/2014 of 18 November 2014 concerning a technical specification for interoperability relating to the ‘rolling stock – locomotives and passenger rolling stock’ subsystem of the rail system in the European Union (OJ L 356, 12.12.2014, p. 228).
+
+( 9 ) Commission Implementing Regulation (EU) 2018/545 of 4 April 2018 establishing practical arrangements for the railway vehicle authorisation and railway vehicle type authorisation process pursuant to Directive (EU) 2016/797 of the European Parliament and of the Council (OJ L 90, 6.4.2018, p. 66).
+
+( 10 ) ERA/TD/CCT publicly available on ERA website.
+
+( 11 ) Commission Regulation (EU) 2016/919 of 27 May 2016 on the technical specification for interoperability relating to the ‘control-command and signalling’ subsystems of the rail system in the European Union (OJ L 158, 15.6.2016, p. 1).
+
+( 12 ) Commission Regulation (EU) No 1305/2014 of 11 December 2014 on the technical specification for interoperability relating to the telematics applications for freight subsystem of the rail system in the European Union and repealing the Regulation (EC) No 62/2006 (OJ L 356, 12.12.2014, p. 438).
+
+( 13 ) Commission Regulation (EU) No 454/2011 of 5 May 2011 on the technical specification for interoperability relating to the subsystem ‘telematics applications for passenger services’ of the trans-European rail system (OJ L 123, 12.5.2011, p. 11).
+
+( 14 ) Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+( 15 ) Directive 2010/35/EU of the European Parliament and of the Council of 16 June 2010 on transportable pressure equipment and repealing Council Directives 76/767/EEC, 84/525/EEC, 84/526/EEC, 84/527/EEC and 1999/36/EC (OJ L 165, 30.6.2010, p. 1).
+
+( 16 ) Commission Regulation (EU) No 1300/2014 of 18 November 2014 on the technical specifications for interoperability relating to accessibility of the Union's rail system for persons with disabilities and persons with reduced mobility (OJ L 356, 12.12.2014, p. 110).
+
+( 17 ) Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Railways and repealing Regulation (EC) No 881/2004 (OJ L 138, 26.5.2016, p. 1).
+
+( 18 ) Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (OJ L 129, 25.5.2018, p. 26).
+
+( 19 ) Commission Implementing Regulation (EU) 2018/763 of 9 April 2018 establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007 (OJ L 129, 25.5.2018, p. 49).
+
+( 20 ) Commission Delegated Regulation (EU) 2018/761 of 16 February 2018 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 1077/2012 (OJ L 129, 25.5.2018, p. 16).
+
+( 21 ) Commission Implementing Decision (EU) 2018/1614 of 25 October 2018 laying down specifications for the vehicle registers referred to in Article 47 of Directive (EU) 2016/797 of the European Parliament and of the Council and amending and repealing Commission Decision 2007/756/EC (OJ L 268, 26.10.2018, p. 53).

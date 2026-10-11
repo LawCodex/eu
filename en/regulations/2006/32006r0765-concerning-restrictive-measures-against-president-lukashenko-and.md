@@ -1,0 +1,7248 @@
+---
+title: "Council Regulation (EC) No 765/2006 of 18 May 2006 concerning restrictive measures against President Lukashenko and certain officials of Belarus"
+identifier: "32006R0765"
+eli: "http://data.europa.eu/eli/reg/2006/765/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-05-18
+entry_into_force: 2006-01-01
+last_amended: 2026-07-24
+consolidated_version: "02006R0765-20260724"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R0765-20260724"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 765/2006 of 18 May 2006 concerning restrictive measures against President Lukashenko and certain officials of Belarus
+
+**COUNCIL REGULATION (EC) No 765/2006**
+
+**of 18 May 2006**
+
+**concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 1587/2006 of 23 October 2006 </td><td> L 294</td><td>25</td><td>25.10.2006</td></tr>
+<tr><td> M2</td><td> COUNCIL REGULATION (EC) No 1791/2006 of 20 November 2006 </td><td> L 363</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EC) No 646/2008 of 8 July 2008 </td><td> L 180</td><td>5</td><td>9.7.2008</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 84/2011 of 31 January 2011 </td><td> L 28</td><td>17</td><td>2.2.2011</td></tr>
+<tr><td> M5</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 271/2011 of 21 March 2011 </td><td> L 76</td><td>13</td><td>22.3.2011</td></tr>
+<tr><td> M6</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 505/2011 of 23 May 2011 </td><td> L 136</td><td>48</td><td>24.5.2011</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 588/2011 of 20 June 2011 </td><td> L 161</td><td>1</td><td>21.6.2011</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 999/2011 of 10 October 2011 </td><td> L 265</td><td>6</td><td>11.10.2011</td></tr>
+<tr><td> M9</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1000/2011 of 10 October 2011 </td><td> L 265</td><td>8</td><td>11.10.2011</td></tr>
+<tr><td> M10</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1320/2011 of 16 December 2011 </td><td> L 335</td><td>15</td><td>17.12.2011</td></tr>
+<tr><td> M11</td><td> COUNCIL REGULATION (EU) No 114/2012 of 10 February 2012 </td><td> L 38</td><td>3</td><td>11.2.2012</td></tr>
+<tr><td> M12</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 170/2012 of 28 February 2012 </td><td> L 55</td><td>1</td><td>29.2.2012</td></tr>
+<tr><td> M13</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 265/2012 of 23 March 2012 </td><td> L 87</td><td>37</td><td>24.3.2012</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 354/2012 of 23 April 2012 </td><td> L 113</td><td>1</td><td>25.4.2012</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 1014/2012 of 6 November 2012 </td><td> L 307</td><td>1</td><td>7.11.2012</td></tr>
+<tr><td> M16</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1017/2012 of 6 November 2012 </td><td> L 307</td><td>7</td><td>7.11.2012</td></tr>
+<tr><td> M17</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 494/2013 of 29 May 2013 </td><td> L 143</td><td>1</td><td>30.5.2013</td></tr>
+<tr><td> M18</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td> M19</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1054/2013 of 29 October 2013 </td><td> L 288</td><td>1</td><td>30.10.2013</td></tr>
+<tr><td> M20</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 46/2014 of 20 January 2014 </td><td> L 16</td><td>3</td><td>21.1.2014</td></tr>
+<tr><td> M21</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 740/2014 of 8 July 2014 </td><td> L 200</td><td>1</td><td>9.7.2014</td></tr>
+<tr><td> M22</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1159/2014 of 30 October 2014 </td><td> L 311</td><td>2</td><td>31.10.2014</td></tr>
+<tr><td> M23</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/1133 of 13 July 2015 </td><td> L 185</td><td>1</td><td>14.7.2015</td></tr>
+<tr><td> M24</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/1326 of 31 July 2015 </td><td> L 206</td><td>16</td><td>1.8.2015</td></tr>
+<tr><td> M25</td><td> COUNCIL REGULATION (EU) 2015/1948 of 29 October 2015 </td><td> L 284</td><td>62</td><td>30.10.2015</td></tr>
+<tr><td> M26</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/1949 of 29 October 2015 </td><td> L 284</td><td>71</td><td>30.10.2015</td></tr>
+<tr><td> M27</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/276 of 25 February 2016 </td><td> L 52</td><td>19</td><td>27.2.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/277 of 25 February 2016 </td><td> L 52</td><td>22</td><td>27.2.2016</td></tr>
+<tr><td> M29</td><td> COUNCIL REGULATION (EU) 2017/331 of 27 February 2017 </td><td> L 50</td><td>9</td><td>28.2.2017</td></tr>
+<tr><td> M30</td><td> COUNCIL REGULATION (EU) 2018/275 of 23 February 2018 </td><td> L 54</td><td>1</td><td>24.2.2018</td></tr>
+<tr><td> M31</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td> M32</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1387 of 2 October 2020 </td><td> L 319I</td><td>1</td><td>2.10.2020</td></tr>
+<tr><td> M33</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1648 of 6 November 2020 </td><td> L 370I</td><td>1</td><td>6.11.2020</td></tr>
+<tr><td> M34</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/2129 of 17 December 2020 </td><td> L 426I</td><td>1</td><td>17.12.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/339 of 25 February 2021 </td><td> L 68</td><td>29</td><td>26.2.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/907 of 4 June 2021 </td><td> L 197I</td><td>1</td><td>4.6.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/996 of 21 June 2021 </td><td> L 219I</td><td>1</td><td>21.6.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/997 of 21 June 2021 </td><td> L 219I</td><td>3</td><td>21.6.2021</td></tr>
+<tr><td> M39</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/999 of 21 June 2021 </td><td> L 219I</td><td>55</td><td>21.6.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1030 of 24 June 2021 </td><td> L 224I</td><td>1</td><td>24.6.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1985 of 15 November 2021 </td><td> L 405</td><td>1</td><td>16.11.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1986 of 15 November 2021 </td><td> L 405</td><td>3</td><td>16.11.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/2124 of 2 December 2021 </td><td> L 430I</td><td>1</td><td>2.12.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/212 of 17 February 2022 </td><td> L 37</td><td>4</td><td>18.2.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/300 of 24 February 2022 </td><td> L 46</td><td>3</td><td>25.2.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/355 of 2 March 2022 </td><td> L 67</td><td>1</td><td>2.3.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/398 of 9 March 2022 </td><td> L 82</td><td>1</td><td>9.3.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/577 of 8 April 2022 </td><td> L 111</td><td>67</td><td>8.4.2022</td></tr>
+<tr><td> M49</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/876 of 3 June 2022 </td><td> L 153</td><td>1</td><td>3.6.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/877 of 3 June 2022 </td><td> L 153</td><td>11</td><td>3.6.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1231 of 18 July 2022 </td><td> L 190</td><td>5</td><td>19.7.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/419 of 24 February 2023 </td><td> L 61</td><td>20</td><td>27.2.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/1591 of 3 August 2023 </td><td> L 195I</td><td>1</td><td>3.8.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/1594 of 3 August 2023 </td><td> L 196</td><td>3</td><td>4.8.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/768 of 26 February 2024 </td><td> L 768</td><td>1</td><td>27.2.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2024/1865 of 29 June 2024 </td><td> L 1865</td><td>1</td><td>30.6.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2113 of 26 July 2024 </td><td> L 2113</td><td>1</td><td>5.8.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3177 of 16 December 2024 </td><td> L 3177</td><td>1</td><td>16.12.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/392 </td><td> L 392</td><td>1</td><td>24.2.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/386 of 24 February 2025 </td><td> L 386</td><td>1</td><td>25.2.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/631 of 27 March 2025 </td><td> L 631</td><td>1</td><td>27.3.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1469 of 18 July 2025 </td><td> L 1469</td><td>1</td><td>19.7.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/1472 of 18 July 2025 </td><td> L 1472</td><td>1</td><td>19.7.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2039 of 23 October 2025 </td><td> L 2039</td><td>1</td><td>23.10.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/2041 of 23 October 2025 </td><td> L 2041</td><td>1</td><td>23.10.2025</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (CFSP) 2025/2601 of 15 December 2025 </td><td> L 2601</td><td>1</td><td>16.12.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/426 of 26 February 2026 </td><td> L 426</td><td>1</td><td>26.2.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/505 of 23 April 2026 </td><td> L 505</td><td>1</td><td>23.4.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/513 of 23 April 2026 </td><td> L 513</td><td>1</td><td>23.4.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1817 of 23 July 2026 </td><td> L 1817</td><td>1</td><td>23.7.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/1846 of 23 July 2026 </td><td> L 1846</td><td>1</td><td>23.7.2026</td></tr>
+</table>
+
+C1
+
+C2
+
+C3
+
+C4
+
+C9
+
+C10
+
+C11
+
+C14
+
+**COUNCIL REGULATION (EC) No 765/2006**
+
+**of 18 May 2006**
+
+**concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine**
+
+## Article 1
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+1\. ‘funds’ means financial assets and benefits of every kind, including but not limited to:
+
+(a) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(b) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(c) publicly- and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(d) interest, dividends or other income on or value accruing from or generated by assets;
+
+(e) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(f) letters of credit, bills of lading, bills of sale;
+
+(g) documents evidencing an interest in funds or financial resources.
+
+2\. ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the use of the funds, including portfolio management.
+
+3\. ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds but can be used to obtain funds, goods or services.
+
+4\. ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them.
+
+5\. ‘territory of the Community’ means the territories of the Member States, including their airspace, to which the Treaty is applicable, under the conditions laid down in the Treaty.
+
+6\. ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services; including verbal forms of assistance.
+
+7\. ‘belarusian air carrier’ means an air transport undertaking holding a valid operating licence or equivalent issued by the competent authorities of Belarus;
+
+8\. ‘dual-use goods and technology’ means the items listed in Annex I to Regulation (EU) 2021/821 of the European Parliament and of the Council ( 1 );
+
+9\. ‘investment services’ means the following services and activities:
+
+(i) reception and transmission of orders in relation to one or more financial instruments;
+
+(ii) execution of orders on behalf of clients;
+
+(iii) dealing on own account;
+
+(iv) portfolio management;
+
+(v) investment advice;
+
+(vi) underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis;
+
+(vii) placing of financial instruments without a firm commitment basis;
+
+(viii) any service in relation to the admission to trading on a regulated market or trading on a multilateral trading facility.
+
+10\. ‘transferable securities’ means the following classes of securities, including in the form of crypto-assets, which are negotiable on the capital market, with the exception of instruments of payment:
+
+(i) shares in companies and other securities equivalent to shares in companies, partnerships or other entities, and depositary receipts in respect of shares;
+
+(ii) bonds or other forms of securitised debt, including depositary receipts in respect of such securities;
+
+(iii) any other securities giving the right to acquire or sell any such transferable securities or giving rise to a cash settlement determined by reference to transferable securities.
+
+11\. ‘money-market instruments’ means those classes of instruments which are normally dealt in on the money market, such as treasury bills, certificates of deposit and commercial papers and excluding instruments of payment;
+
+12\. ‘credit institution’ means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credit for its own account;
+
+13\. ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, including from a third country to any other third country; or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, including where they are located in third countries for their transfer to another third country;
+
+14\. ‘public corporation’ means an undertaking, other than a credit institution, established in Belarus with over 50 % public ownership, or under public control, as of 1 June 2021;
+
+15\. ‘claim’ means any claim, whether asserted by legal proceedings or not, made before, on or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+16\. ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose, ‘contract’ includes a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+17\. ‘financing or financial assistance’ means any action, irrespective of the particular means chosen, whereby the person, entity or body concerned, conditionally or unconditionally, disburses or commits to disburse its own funds or economic resources, including but not limited to grants, loans, guarantees, suretyships, bonds, letters of credit, supplier credits, buyer credits, import or export advances and all types of insurance and reinsurance, including export credit insurance; payment, as well as terms and conditions of payment, of the agreed price for a good or a service, made in line with normal business practice, does not constitute financing or financial assistance;
+
+18\. ‘partner country’ means a country applying a set of export control measures substantially equivalent to those set out in this Regulation, as listed in Annex Vb;
+
+19\. ‘consumer communication devices’ means devices used by private individuals such as personal computers and peripherals (including hard drives and printers), mobile telephones, smart televisions, memory devices (USB drives), and consumer software for those devices;
+
+20\. ‘central securities depository’ means a legal person as defined in point 1 of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council ( 2 );
+
+21\. ‘deposit’ means a credit balance which results from funds left in an account or from temporary situations deriving from normal banking transactions and which a credit institution is required to repay under the legal and contractual conditions applicable, including a fixed-term deposit and a savings deposit, but excluding a credit balance where:
+
+(i) its existence can only be proven by a financial instrument as defined in Article 4(1)(15) of Directive 2014/65/EU of the European Parliament and of the Council ( 3 ), unless it is a savings product which is evidenced by a certificate of deposit made out to a named person and which exists in a Member State on 2 July 2014;
+
+(ii) its principal is not repayable at par;
+
+(iii) its principal is only repayable at par under a particular guarantee or agreement provided by the credit institution or a third party;
+
+22\. ‘investor citizenship schemes’ (or "golden passports") means the procedures put in place by a Member State, which allow third-country nationals to acquire its nationality in exchange for pre-determined payments and investments;
+
+23\. ‘investor residence schemes’ (or "golden visas") means the procedures put in place by a Member State, which allow third-country nationals to obtain a residence permit in a Member State in exchange for pre-determined payments and investments;
+
+24\. ‘trading venue’, as defined in Article 4(1)(24) of Directive 2014/65/EU, means a regulated market, a multilateral trading facility or an organised trading facility;
+
+25\. ‘road transport undertaking’ means any natural or legal person, entity or body engaged with a commercial purpose in the transport of freight by means of motor vehicles or combinations of vehicles;
+
+26\. ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+27\. ‘energy sector’ means a sector covering the following activities with the exception of civil nuclear related activities:
+
+(i) the exploration, production, distribution within Belarus or mining of crude oil, natural gas or solid fossil fuels, the refining of fuels, the liquefaction of natural gas or regasification;
+
+(ii) the manufacture or distribution within Belarus of solid fossil fuel products, refined petroleum products or gas; or
+
+(iii) the construction of facilities or installation of equipment for, or the provision of services, equipment or technology for, activities related to power generation or electricity production;
+
+28\. ‘crypto-asset’ means crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council ( 4 );
+
+29\. ‘payment services’ means services as defined in Article 4, point (3), of Directive (EU) 2015/2366 of the European Parliament and of the Council ( 5 );
+
+30\. ‘managed security service’ means a managed security service as defined in point (14a) of Article 2 of Regulation (EU) 2019/881 of the European Parliament and of the Council ( 6 );
+
+31\. ‘services directly related to tourism activities’ means the following services:
+
+(a) travel agency and tour operator services, including services rendered for passenger travel by travel agencies and tour operators, and similar services; travel information, advice and planning services; services related to the arrangement of tours, accommodation, passenger and baggage transportation; ticket issuance services;
+
+(b) tourist guide services;
+
+(c) advertising services related to the services referred to in points (a) and (b).
+
+## Article 1a
+
+1\. It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, equipment which might be used for internal repression as listed in Annex III, whether or not originating in the Union, to any person, entity or body in Belarus or for use in Belarus;
+
+(b) to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibitions referred to in point (a).
+
+2\. Paragraph 1 shall not apply to protective clothing, including flak jackets and helmets, temporarily exported to Belarus by United Nations (UN) personnel, personnel of the Union or its Member States, representatives of the media or humanitarian and development workers and associated persons exclusively for their personal use.
+
+3\. By way of derogation from paragraph 1, the competent authorities in the Member States as listed in Annex II may authorise the sale, supply, transfer or export of equipment which might be used for internal repression, under such conditions as they deem appropriate, if they determine that such equipment is intended solely for humanitarian or protective use.
+
+## Article 1aa
+
+1\. It shall be prohibited to purchase, import or transfer, directly or indirectly, the goods and technology listed in the Common Military List of the European Union ( 7 ) (“Common Military List”) into the Union if they originate in Belarus or are exported from Belarus.
+
+2\. The prohibitions in paragraph 1 shall be without prejudice to the import, purchase or transfer related to:
+
+(a) the provision of spare parts and services necessary for the maintenance and safety of existing capabilities within the Union; or
+
+(b) the execution of contracts concluded before 20 July 2025, or ancillary contracts necessary for the execution of such contracts.
+
+## Article 1ab
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, the goods and technology listed in the Common Military List, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. By way of derogation from paragraph 1, the prohibitions referred to therein shall not apply to:
+
+(a) non-lethal military equipment intended solely for humanitarian purposes or protective use or for institution building programmes of the UN and the Union, or for EU or UN crisis management operations; or
+
+(b) non-combat vehicles fitted with materials to provide ballistic protection, intended solely for the protective use of personnel of the Union and its Member States in Belarus,
+
+provided that the provision thereof has first been approved by the competent authority of a Member State, as identified on the websites listed in Annex II.
+
+3\. Paragraph 1 shall not apply to protective clothing, including flak jackets and military helmets, temporarily exported to Belarus by UN personnel, personnel of the Union or its Member States, representatives of the media or humanitarian and development workers and associated persons exclusively for their personal use.
+
+## Article 1b
+
+1\. It shall be prohibited:
+
+(a) to provide, directly or indirectly, technical assistance, brokering services or other services related to the goods and technology listed in the Common Military List, or related to the provision, manufacture, maintenance and use of goods included in that list, to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) to provide, directly or indirectly, technical assistance, brokering services or other services related to equipment which might be used for internal repression as listed in Annex III, to any person, entity or body in Belarus or for use in Belarus;
+
+(c) to provide, directly or indirectly, financing or financial assistance related to the sale, supply, transfer or export of the goods and technology listed in the Common Military List or in Annex III, or the provision of related technical assistance, brokering services or other services, to any person, entity or body in Belarus or for use in Belarus;
+
+(d) to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibitions referred to in points (a) to (c).
+
+2\. By way of derogation from paragraph 1, the prohibitions referred to therein shall not apply to:
+
+(a) non-lethal military equipment, or equipment which might be used for internal repression, intended solely for humanitarian purposes or protective use or for institution building programmes of the UN and the Union, or for EU or UN crisis management operations; or
+
+(b) non-combat vehicles fitted with materials to provide ballistic protection, intended solely for the protective use of personnel of the Union and its Member States in Belarus,
+
+provided that the provision thereof has first been approved by the competent authority of a Member State, as identified on the websites listed in Annex II.
+
+3\. Paragraph 1 shall not apply to protective clothing, including flak jackets and military helmets, temporarily exported to Belarus by UN personnel, personnel of the Union or its Member States, representatives of the media or humanitarian and development workers and associated persons exclusively for their personal use.
+
+## Article 1ba
+
+1\. Without prejudice to Article 1a of this Regulation, it shall be prohibited to sell, supply, transfer or export, directly or indirectly, firearms, their parts and essential components and ammunition as listed in Annex I to Regulation (EU) No 258/2012 of the European Parliament and of the Council ( 8 ), and firearms and other arms as listed in Annex XVI to this Regulation, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+1a. The transit via the territory of Belarus of firearms, their parts and essential components and ammunition, as referred to in paragraph 1, exported from the Union shall be prohibited.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods referred to in paragraph 1 for any sale, supply, transfer or export of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus, or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+## Article 1bb
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods which could contribute in particular to the enhancement of Belarusian industrial capacities, whether or not originating in the Union, as listed in Annex XVIII, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. The transit via the territory of Belarus of the goods and technology as listed in Annex XIX, exported from the Union, shall be prohibited.
+
+3d. The prohibitions in paragraphs 1 and 3 shall not apply to the sale, supply, transfer or export of goods falling under CN codes 6902 and 6909 19, as listed in Annex XVIII, that is necessary for the execution until 25 April 2026 of contracts concluded before 24 October 2025, or of ancillary contracts necessary for the execution of such contracts.
+
+3e. The prohibitions in paragraphs 1 and 3 shall not apply to the sale, supply, transfer or export of goods falling under CN codes 2931, 2932, 4001, 4015, 4016, 6805, 7318, 7325, 8209 and 8311, as listed in Annex XVIII, that is necessary for the execution until 25 July 2026 of contracts concluded before 24 April 2026, or of ancillary contracts necessary for the execution of such contracts.
+
+7\. The prohibitions referred to in paragraph 1 and 3 shall not apply to goods which are necessary for the official purposes of diplomatic or consular missions of Member States or partner countries in Belarus or of international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff.
+
+8\. The competent authorities of the Member States may authorise, under the conditions they deem appropriate, the sale, supply, transfer or export of the goods and technology listed in Annex XVIII, or the provision of related technical or financial assistance, after having determined that such goods or technology or the provision of related technical or financial assistance are necessary for:
+
+(a) medical or pharmaceutical purposes, or for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance or for evacuations;
+
+(b) the exclusive use and under the full control of the authorising Member State and in order to fulfil its maintenance obligations in areas which are under a long-term lease agreement between that Member State and Belarus; or
+
+(c) the establishment, operation, maintenance, fuel supply and retreatment and safety of civil nuclear capabilities, and the continuation of design, construction and commissioning required for the completion of civil nuclear facilities, the supply of precursor material for the production of medical radioisotopes and similar medical applications, or critical technology for environmental radiation monitoring, as well as for civil nuclear cooperation, in particular in the field of research and development.
+
+10\. By way of derogation from paragraph 2, the competent authorities may authorise the transit via the territory of Belarus of goods and technology which could contribute in particular to the enhancement of Belarusian industrial capacities as listed in Annex XIX, after having determined that such goods or technology are intended for the purposes set out in paragraph 8.
+
+11\. The prohibitions in paragraphs 1, 2 and 3 shall not apply to the sale, supply, transfer or export of the goods and technology referred to in paragraph 1 or to the related provision of technical and financial assistance, for non-military use and for a non-military end-user, intended for health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+12\. By way of derogation from paragraphs 1 and 3, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the goods and technology falling under CN codes 3917, 8523 and 8536, as listed in Annex XVIII, or the provision of related technical or financial assistance, after having determined that those goods or the provision of related technical or financial assistance are necessary for the purposes of maintenance or repair of medical devices.
+
+13\. The competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the following goods, or the provision of related technical or financial assistance, after having determined that such goods or the provision of related technical or financial assistance are necessary for personal household use of natural persons in Belarus:
+
+(a) goods falling under CN code 8417 20 ;
+
+(b) copper tubes, pipes and pipe fittings falling under CN codes 7411 or 7412 that have an internal diameter of up to 50 mm;
+
+(c) goods falling under CN code 8414 60 ;
+
+(d) goods falling under CN 3916 20 when strictly necessary for the sale of PVC flooring.
+
+14\. The competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the goods falling under CN code 3917 10, or the provision of related technical or financial assistance, after having determined that such goods are sold, supplied, transferred or exported strictly for the production of food items for human consumption in Belarus.
+
+14a. By way of derogation from paragraphs 1 and 3, the competent authorities may authorise the sale, supply, transfer or export of goods falling under CN codes 8517 62 and 8523 52, or the provision of related technical or financial assistance, for non-military-use and for a non-military end-user, after having determined that such goods or related technical or financial assistance are intended for civilian electronic communications networks.
+
+14b. By way of derogation from paragraph 2, the competent authorities may authorise the transit via the territory of Belarus of goods and technology falling under CN code 3403 19 80 as listed in Annex XIX exported from Hungary, after having determined that such goods or technology are destined for Azerbaijan.
+
+15\. When deciding on requests for authorisations for the purposes included in paragraphs 8, 10, 12, 13, 14 and 14a, the competent authorities shall not grant an authorisation for exports to any natural or legal person, entity or body in Belarus, or for use in Belarus, if they have reasonable grounds to believe that the goods might have a military end use.
+
+16\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 8, 10, 12, 13, 14, 14a or 14b within two weeks of the authorisation.
+
+## Article 1c
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, equipment, technology or software identified in Annex IV, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus, unless the competent authority of the relevant Member State, as identified on the websites listed in Annex II, has given prior authorisation.
+
+2\. The competent authorities of the Member States, as identified on the websites listed in Annex II, shall not grant any authorisation under paragraph 1 if they have reasonable grounds to determine that the equipment, technology or software in question would be used for repression by the Belarusian Government, public bodies, corporations or agencies, or any natural or legal person or entity acting on their behalf or at their direction.
+
+3\. Annex IV shall include equipment, technology or software intended primarily for use in the monitoring or interception of internet or telephone communications.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within two weeks of the authorisation.
+
+## Article 1d
+
+1\. Unless the competent authority of the relevant Member State, as identified on the websites listed in Annex II, has given prior authorisation in accordance with Article 1c(2), it shall be prohibited to:
+
+(a) provide, directly or indirectly, technical assistance or brokering services related to the equipment, technology and software identified in Annex IV, or related to the installation, provision, manufacture, maintenance and use of the equipment and technology identified in Annex IV or to the provision, installation, operation or updating of any software identified in Annex IV, to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide, directly or indirectly, financing or financial assistance related to the equipment, technology and software identified in Annex IV to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(c) provide any telecommunication or internet monitoring or interception services of any kind to, or for the direct or indirect benefit of, the Belarusian Government, public bodies, corporations and agencies or any natural or legal person or entity acting on their behalf or at their direction.
+
+2\. For the purposes of point (c) of paragraph 1, "telecommunication or internet monitoring or interception services" means those services that provide, in particular using equipment, technology or software as identified in Annex IV, access to and delivery of a subject's incoming and outgoing telecommunications and call-associated data for the purpose of its extraction, decoding, recording, processing, analysis or storing, or any other related activity.
+
+## Article 1e
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+1a. The transit via the territory of Belarus of the dual-use goods and technology, as referred to in paragraph 1, exported from the Union shall be prohibited.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus, or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+3\. Without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the prohibitions in paragraphs 1 and 2 of this Article shall not apply to the sale, supply, transfer or export of dual-use goods and technology or to the related provision of technical and financial assistance, for non-military use and for a non-military end-user, that is intended for:
+
+(a) humanitarian purposes, health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment or as a response to natural disasters; or
+
+(b) medical or pharmaceutical purposes provided that they are not listed in Annex XXX to this Regulation.
+
+The exporter shall declare in the customs declaration that the items are being exported under the relevant exemption set out in this paragraph and shall notify the competent authority of the Member State where the exporter is resident or established of the first use per recipient in Belarus of the relevant exemption.
+
+3a. Without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the prohibition in paragraph 1a of this Article shall not apply to the transit via the territory of Belarus of dual-use goods and technology intended for the purposes set out in paragraph 3 of this Article.
+
+3b. Member States shall provide for reporting requirements attached to the use of exemptions under paragraph 3 and any additional information on items exported under those exemptions that the Member State where the exporter is resident or established requires.
+
+4\. By way of derogation from paragraphs 1 and 2 of this Article, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the competent authorities may authorise the sale, supply, transfer or export of dual-use goods and technology or the provision of related technical or financial assistance, for non-military use and for a non-military end user, after having determined that such goods or technology or the related technical or financial assistance are intended for:
+
+(b) intergovernmental cooperation in space programmes;
+
+(c) the operation, maintenance, fuel reprocessing and safety of civil nuclear capabilities, as well as civil nuclear cooperation, in particular in the field of research and development;
+
+(d) maritime safety;
+
+(e) civilian electronic communications networks which are not the property of an entity that is publicly controlled or with over 50 % public ownership;
+
+(f) the exclusive use of entities owned, or solely or jointly controlled by a legal person, entity or body which is incorporated or constituted under the law of a Member State or of a partner country;
+
+(g) the diplomatic representations of the Union, Member States and partner countries, including delegations, embassies and missions;
+
+(h) ensuring cyber-security and information security for legal persons, entities and bodies in Belarus which are owned or solely or jointly controlled by a legal person, entity or body which is incorporated or constituted under the law of a Member State;
+
+(i) software updates;
+
+(j) use as consumer communication devices; or
+
+(k) medical or pharmaceutical purposes, provided that they are listed in Annex XXX to this Regulation.
+
+4a. By way of derogation from paragraph 1a, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the competent authorities may authorise the transit via the territory of Belarus of dual-use goods and technology after having determined that such goods or technology are intended for the purposes set out in points (b), (c), (d), (h) and (k) of paragraph 4 of this Article.
+
+5\. By way of derogation from paragraphs 1 and 2 of this Article, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the competent authorities may authorise the sale, supply, transfer or export of dual-use goods and technology or the provision of related technical or financial assistance, for non-military use and for a non-military end-user, after having determined that such goods or technology or such related technical or financial assistance are due under contracts concluded before 3 March 2022, or ancillary contracts necessary for the execution of such a contract, provided that the authorisation is requested before 1 May 2022.
+
+6\. All authorisations required under this Article shall be granted by the competent authorities in accordance with the rules and procedures laid down in Regulation (EU) 2021/821, which shall apply mutatis mutandis. The authorisation shall be valid throughout the Union.
+
+7\. When deciding on requests for authorisations referred to in paragraph 4 and 5, the competent authorities shall not grant an authorisation if they have reasonable grounds to believe that:
+
+(i) the end-user might be a military end-user, a natural or legal person, entity or body in Annex V, or that the goods might have a military end-use, unless the sale, supply, transfer or export of goods and technology referred to in paragraph 1 of this Article or the provision of related technical or financial assistance is allowed under Article 1fa(1b), point (a); or
+
+(ii) the sale, supply, transfer or export of goods and technology referred to in paragraph 1 of this Article or the provision of related technical or financial assistance is intended for aviation or the space industry.
+
+8\. The competent authorities may annul, suspend, modify or revoke an authorisation which they have granted pursuant to paragraphs 4 and 5 if they deem that such annulment, suspension, modification or revocation is necessary for the effective implementation of this Regulation.
+
+## Article 1f
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods and technology which might contribute to Belarus’s military and technological enhancement, or to the development of its defence and security sector, as listed in Annex Va, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+1a. The transit via the territory of Belarus of goods and technology which might contribute to Belarus’s military and technological enhancement or to the development of its defence and security sector, as listed in Annex Va, exported from the Union, shall be prohibited.
+
+1aa. Without prejudice to the prohibition on indirect exports in paragraph 1 of this Article and Article 4 of Regulation (EU) 2021/821, an authorisation shall be required for the export of goods and technology which might contribute to Belarus’s military and technological enhancement, or the development of the defence and security sector, as listed in Annex Va to this Regulation, to any third country other than Belarus, if the exporter has been informed by the competent authority of the Member State where the exporter is resident or established that the items in question are or may be intended, in their entirety or in part, for any natural or legal person, entity or body in Belarus, or for use in Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus, or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+3\. The prohibitions in paragraphs 1 and 2 shall not apply to the sale, supply, transfer or export of the goods and technology referred to in paragraph 1 or to the related provision of technical and financial assistance, for non-military use and for a non-military end-user, that is intended for:
+
+(a) humanitarian purposes, health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment or as a response to natural disasters; or
+
+(b) medical or pharmaceutical purposes provided that they are not listed in Annex XXX to this Regulation.
+
+The exporter shall declare in the customs declaration that the items are being exported under the relevant exemption set out in this paragraph and shall notify the competent authority of the Member State where the exporter is resident or established of the first use per recipient in Belarus of the relevant exemption
+
+3a. The prohibition in paragraph 1a shall not apply to the transit via the territory of Belarus of goods and technology which might contribute to Belarus’s military and technological enhancement or to the development of its defence and security sector, as listed in Annex Va, intended for the purposes set out in paragraph 3.
+
+3b. Member States shall provide for reporting requirements attached to the use of exemptions under paragraph 3 and any additional information on items exported under those exemptions that the Member State where the exporter is resident or established requires.
+
+4\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the sale, supply, transfer or export of the goods and technology referred to in paragraph 1 or the provision of related technical or financial assistance, for non-military use and for a non-military end user, after having determined that such goods or technology or the related technical or financial assistance are intended for:
+
+(b) intergovernmental cooperation in space programmes;
+
+(c) the operation, maintenance, fuel reprocessing and safety of civil nuclear capabilities, as well as civil nuclear cooperation, in particular in the field of research and development;
+
+(d) maritime safety;
+
+(e) civilian electronic communications networks which are not the property of an entity that is publicly controlled or with over 50 % public ownership;
+
+(f) the exclusive use of entities owned, or solely or jointly controlled by a legal person, entity or body which is incorporated or constituted under the law of a Member State or of a partner country;
+
+(g) the diplomatic representations of the Union, Member States and partner countries, including delegations, embassies and missions;
+
+(h) ensuring cyber-security and information security for legal persons, entities and bodies in Belarus which are owned or solely or jointly controlled by a legal person, entity or body which is incorporated or constituted under the law of a Member State;
+
+(j) software updates;
+
+(k) use as consumer communication devices; or
+
+(l) medical or pharmaceutical purposes, provided that they are listed in Annex XXX to this Regulation.
+
+4b. By way of derogation from paragraph 1a, the competent authorities may authorise the transit via the territory of Belarus of goods and technology which might contribute to Belarus’s military and technological enhancement or to the development of its defence and security sector, as listed in Annex Va, after having determined that such goods or technology are intended for the purposes set out in points (b), (c), (d), (h) and (l) of paragraph 4.
+
+5\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the sale, supply, transfer or export of the goods and technology referred in paragraph 1 or the provision of related technical or financial assistance, for non-military use and for a non-military end-user, after having determined that such goods or technology or the related technical or financial assistance are due under contracts concluded before 3 March 2022, or ancillary contracts necessary for the execution of such a contract, provided that the authorisation is requested before 1 May 2022.
+
+6\. All authorisations required under this Article shall be granted by the competent authorities in accordance with the rules and procedures laid down in Regulation (EU) 2021/821, which shall apply mutatis mutandis. The authorisation shall be valid throughout the Union.
+
+6a. Where an authorisation is required in accordance with paragraph 1aa, the competent authorities shall proceed in accordance with the rules and procedures laid down in Article 4 of Regulation (EU) 2021/821, which shall apply mutatis mutandis.
+
+7\. When deciding on requests for authorisations referred to in paragraphs 4 and 5, the competent authorities shall not grant an authorisation if they have reasonable grounds to believe that:
+
+(i) the end-user might be a military end-user, a natural or legal person, entity or body in Annex V, or that the goods might have a military end-use, unless the sale, supply, transfer or export of goods and technology referred to in paragraph 1 of this Article or the provision of related technical or financial assistance is allowed under Article 1fa(1b), point (a); or
+
+(ii) the sale, supply, transfer or export of goods and technology referred to in paragraph 1 of this Article or the provision of related technical or financial assistance is intended for aviation or the space industry.
+
+8\. The competent authorities may annul, suspend, modify or revoke an authorisation which they have granted pursuant to paragraphs 4 and 5 if they deem that such annulment, suspension, modification or revocation is necessary for the effective implementation of this Regulation.
+
+## Article 1fa
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, as well as goods and technology listed in Annex Va, whether or not originating in the Union, to any natural or legal person, entity or body listed in Annex V.
+
+1a. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body listed in Annex V;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body listed in Annex V; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body listed in Annex V.
+
+1b. By way of derogation from paragraphs 1 and 1a, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the competent authorities may allow the sale, supply, transfer or export of dual-use goods and technology, as well as goods and technology as listed in Annex Va, or the provision of related technical or financial assistance only after having determined that:
+
+(a) such goods or technology or the related technical or financial assistance are necessary for the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment; or
+
+(b) such goods or technology or the related technical or financial assistance are due under contracts concluded before 3 March 2022, or ancillary contracts necessary for the execution of such a contract, provided that the authorisation is requested before 1 May 2022.
+
+2\. Authorisations required under this Article shall be granted by the competent authorities of the Member State in accordance with the rules and procedures laid down in Regulation (EU) 2021/821, which shall apply mutatis mutandis. Such authorisation shall be valid throughout the Union.
+
+3\. The competent authorities may annul, suspend, modify or revoke an authorisation which they have granted pursuant to paragraph 1 if they deem that such annulment, suspension, modification or revocation is necessary for the effective implementation of this Regulation.
+
+## Article 1fb
+
+1\. The notification to the competent authority referred to in Articles 1e(3) and 1f(3) shall be submitted by electronic means, whenever possible, on forms containing at least all the elements of, and in the order provided for in, the models set out in Annex Vc.
+
+2\. All authorisations referred to in Articles 1e, 1f and 1fa shall be issued by electronic means, whenever possible, on forms containing at least all the elements of, and in the order provided for in, the models set out in Annex Vc.
+
+## Article 1fc
+
+1\. The competent authorities shall, without delay, exchange information on the application of Articles 1e, 1f and 1fa with the other Member States and the Commission, including on any authorisation granted or denied and, in the event of suspected forum shopping or other cases as appropriate, on requests for authorisation received.
+
+The competent authorities shall exchange information on the enforcement of Articles 1e, 1f and 1fa with the other Member States and the Commission, including on related infringements and penalties, as well as best practices of national enforcement authorities and the detection and prosecution of unauthorised exports. The exchange of information shall be carried out using the electronic system provided for in Article 23(6) of Regulation (EU) 2021/821.
+
+2\. Information received as a result of the application of this Article shall be used only for the purpose for which it was requested, including the exchanges mentioned in paragraph 4. Member States and the Commission shall ensure the protection of confidential information acquired in the application of this Article in accordance with Union law and the respective national law. Member States and the Commission shall ensure that classified information provided or exchanged under this Article is not downgraded or declassified without the prior written consent of the originator.
+
+3\. Before a Member State grants an authorisation in accordance with Article 1e, 1f or 1fa for a transaction which is essentially identical to a transaction which is the subject of a still valid denial issued by another Member State or by other Member States, it shall first consult the Member State or Member States which issued the denial. If, following such consultations, the Member State concerned decides to grant an authorisation, it shall inform the other Member States and the Commission thereof, providing all relevant information to explain the decision.
+
+3a. When a Member State grants an authorisation in accordance with Articles 1e(4)(d), 1f(4)(d) or 1fd(4) for the sale, supply, transfer or export of the goods and technology intended for maritime safety, it shall inform the other Member States and the Commission within 2 weeks of the authorisation.
+
+4\. The Commission, in consultation with the Member States, shall, where appropriate and on the basis of reciprocity, exchange information with partner countries, with a view to supporting the effectiveness of export control measures under this Regulation and the consistent application of export control measures applied by partner countries.
+
+## Article 1fd
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, maritime navigation goods and technology, as listed in Annex XXIV, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+3\. The prohibitions in paragraphs 1 and 2 shall not apply to the sale, supply, transfer or export of the goods and technology referred to in paragraph 1 or to the related provision of technical and financial assistance, for non-military use and for a non-military end-user, intended for humanitarian purposes, health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+## Article 1g
+
+1\. It shall be prohibited to sell, supply, transfer, or export the goods listed in Annex VI, whether such goods originate or not in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+1a. It shall be prohibited to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in paragraph 1
+
+2\. Annex VI shall include goods used for the production or manufacturing of tobacco products.
+
+## Article 1ga
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, luxury goods, whether or not originating in the Union, as listed in Annex XXV, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraph 1 and related to the provision, manufacture, maintenance and use of those goods, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods referred to in paragraph 1 for any sale, supply, transfer or export of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+3\. The prohibition referred to in paragraphs 1 and 2 shall apply to luxury goods listed in Annex XXV insofar as their value exceeds EUR 300 per item, unless otherwise specified in that Annex.
+
+4\. The prohibition referred to in paragraph 1 shall not apply to goods which are necessary for the official purposes of diplomatic or consular missions of Member States or partner countries in Belarus or of international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff.
+
+6\. By way of derogation from paragraph 1, the competent authorities may authorise the transfer or export to Belarus of cultural goods which are on loan in the context of formal cultural cooperation with Belarus.
+
+7\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under paragraph 6 within 2 weeks of the authorisation.
+
+## Article 1gb
+
+1\. It shall be prohibited to:
+
+(a) acquire any new or extend any existing participation in any legal person, entity or body incorporated or constituted under the law of Belarus or any other third country and operating in the energy sector in Belarus;
+
+(b) grant or be part of any arrangement to grant any new loan or credit or otherwise provide financing, including equity capital, to any legal person, entity or body incorporated or constituted under the law of Belarus or any other third country and operating in the energy sector in Belarus, or for the documented purpose of financing such a legal person, entity or body;
+
+(c) create any new joint venture with any legal person, entity or body incorporated or constituted under the law of Belarus or any other third country and operating in the energy sector in Belarus; or
+
+(d) provide investment services directly related to the activities referred to in points (a), (b) and (c).
+
+2\. By way of derogation from paragraph 1, the competent authorities may authorise, under such conditions as they deem appropriate, any activity referred to in paragraph 1 after having determined that:
+
+(a) it is necessary to ensure critical energy supply within the Union, as well as the transport of natural gas and oil, including refined petroleum products, unless prohibited under Article 1h, from or through Belarus into the Union; or
+
+(b) it exclusively concerns a legal person, entity or body operating in the energy sector in Belarus owned by a legal person, entity or body which is incorporated or constituted under the law of a Member State.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 2 within 2 weeks of the authorisation.
+
+## Article 1gc
+
+1\. It shall be prohibited to sell, supply, transfer, or export, directly or indirectly, goods and technology suited for use in oil refining and liquefaction of natural gas, as listed in Annex XX, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any person, entity or body in Belarus or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+4\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the goods and technology listed in Annex XX or the provision of related technical or financial assistance, after having determined that such goods or technology or the provision of related technical or financial assistance are necessary for the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment.
+
+In duly justified cases of emergency, the sale, supply, transfer or export may proceed without prior authorisation, provided that the exporter notifies the competent authority within five working days after the sale, supply, transfer or export has taken place, providing detail about the relevant justification for the sale, supply, transfer or export without prior authorisation.
+
+5\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 4 within 2 weeks of the authorisation.
+
+## Article 1gd
+
+1\. It shall be prohibited to sell, supply, transfer, export or provide, directly or indirectly, software as listed in Annex XXXII, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the sale, supply, transfer, export or provision of software referred to in paragraph 1, directly or indirectly to any natural or legal person, entity or body in Belarus, or for use in Belarus;
+
+(b) provide financing or financial assistance related to the sale, supply, transfer, export or provision of software referred to in paragraph 1, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus, or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the sale, supply, transfer, export or provision of software referred to in paragraph 1, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+3\. The prohibitions in paragraph 1 shall not apply to the sale, supply, transfer, export or provision of software that is necessary for the execution until 26 May 2025 of contracts concluded before 25 February 2025, or of ancillary contracts necessary for the execution of such contracts.
+
+4\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export and the provision of technical or financial assistance, after having determined that it is necessary for ensuring critical energy supply within the Union.
+
+5\. The Member State or Member States concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 4 within 2 weeks of the authorisation.
+
+## Article 1h
+
+1\. It shall be prohibited to purchase, import or transfer, directly or indirectly, mineral products, as listed in Annex VII, and crude oil, as listed in Annex XXIII, if they originate in Belarus or are exported from Belarus.
+
+2\. It shall be prohibited to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance or any other services related to the prohibition in paragraph 1.
+
+3\. The prohibitions in paragraph 1 shall not apply to purchases in Belarus of mineral products listed in Annex VII which are required in order to meet the essential needs of the purchaser in Belarus or of humanitarian projects in Belarus.
+
+5\. The prohibitions in paragraphs 1 and 2 of this Article are without prejudice to the transit through Belarus of crude oil falling under CN code 2709 00 which is delivered by pipeline from Russia into Member States until the Council decides that the prohibitions in paragraphs 1 and 2 of Article 3m of Council Regulation (EU) No 833/2014 ( 9 ) shall apply to crude oil delivered by pipeline from Russia.
+
+## Article 1i
+
+1\. It shall be prohibited to import, purchase or transfer, directly or indirectly, potassium chloride ("potash") products as listed in Annex VIII from Belarus, whether or not originating in Belarus.
+
+1a. It shall be prohibited to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in paragraph 1.
+
+## Article 1j
+
+It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money-market instruments with a maturity exceeding 90 days, issued after 29 June 2021 by:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies;
+
+(b) a major credit institution established in Belarus with over 50 % public ownership, or under public control, as of 1 June 2021, as listed in Annex IX;
+
+(c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50 % by an entity referred to in point (a) or (b) of this Article; or
+
+(d) a natural or legal person, entity or body acting on behalf or at the direction of an entity referred to in point (a), (b) or (c) of this Article.
+
+## Article 1ja
+
+1\. Transactions related to the management of reserves as well as of assets of the Central Bank of Belarus, including transactions with any legal person, entity or body acting on behalf of, or at the direction of, the Central Bank of Belarus, are prohibited.
+
+2\. By way of derogation from paragraph 1, the competent authorities may authorise a transaction provided that it is strictly necessary to ensure the financial stability of the Union as a whole or of the Member State concerned.
+
+3\. The Member State concerned shall immediately inform the other Member States and the Commission of its intention to grant an authorisation under paragraph 2.
+
+## Article 1jb
+
+It shall be prohibited to list and provide services as of 12 April 2022 on trading venues registered or recognised in the Union for the transferable securities of any legal person, entity or body established in Belarus and with over 50 % public ownership.
+
+## Article 1jc
+
+1\. It shall be prohibited to provide, directly or indirectly, accounting services, auditing services, including statutory audit, bookkeeping, tax consulting and business and management consulting, or public relations services to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+2\. It shall be prohibited to provide, directly or indirectly, construction, architectural, engineering, integrated engineering, urban planning, engineering related scientific and technical consulting and technical testing and analysis services, legal advisory services or IT consultancy services to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+3\. It shall be prohibited to provide, directly or indirectly, advertising, market research or public opinion polling services to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+4\. It shall be prohibited to sell, supply, transfer, export, or provide, directly or indirectly, software for the management of enterprises, software for industrial design and manufacture or software with certain uses in the banking and financial sector as listed in Annex XXVI to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+4a. It shall be prohibited, as of 25 November 2025, to provide, directly or indirectly, commercial space-based services consisting of Earth observation or satellite navigation, artificial intelligence (AI) services consisting of access to models or to platforms for their training, fine-tuning and inference, or high-performance computing, including access to graphic processing unit accelerated computing, or quantum computing services to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+4b. It shall be prohibited, as of 25 May 2026, to provide, directly or indirectly, managed security services to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) any natural or legal person, entity or body acting on behalf or at the direction of the Republic of Belarus, its Government, its public bodies, corporations or agencies.
+
+4c. It shall be prohibited to provide services directly related to tourism activities in Belarus.
+
+5\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the services and software referred to in paragraphs 1 to 4b, directly or indirectly, to the Republic of Belarus, its Government, its public bodies, corporations or agencies or to any natural or legal person, entity or body acting on behalf or at the direction of such a legal person, entity or body;
+
+(b) provide financing or financial assistance related to the services and software referred to in paragraphs 1 to 4b, or for the provision of related technical assistance, brokering services or other services, directly or indirectly, to the Republic of Belarus, its Government, its public bodies, corporations or agencies or to any natural or legal person, entity or body acting on behalf or at the direction of such a legal person, entity or body; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the software referred to in paragraph 4 and to the provision, manufacture, maintenance and use of that software, directly or indirectly, to the Republic of Belarus, its Government, its public bodies, corporations or agencies or to any natural or legal person, entity or body acting on behalf or at the direction of such a legal person, entity or body.
+
+5a. A prior authorisation shall be required for the provision, directly or indirectly, of any service not covered by paragraphs 1, 2, 3, 4a, 4b or 4c, to the Republic of Belarus, its Government, its public bodies, corporations or agencies. The competent authorities may authorise, based on a specific and case-by-case assessment, the provision of such services, under such conditions as they deem appropriate, after having determined that this is consistent with the objectives of this Regulation.
+
+5b. Paragraph 5a shall not apply to the provision, directly or indirectly, of services not covered by paragraphs 1, 2, 3, 4a, 4b or 4c to a consular or diplomatic representation of Belarus located in a Member State, where those services are strictly necessary for the functioning of that representation.
+
+7\. Paragraphs 1 and 2 shall not apply to the provision of services that are strictly necessary for the exercise of the right of defence in judicial proceedings and the right to an effective legal remedy.
+
+8\. Paragraphs 1 and 2 shall not apply to the provision of services which are strictly necessary to ensure access to judicial, administrative or arbitral proceedings in a Member State, or for the recognition or enforcement of a judgment or an arbitration award rendered in a Member State, provided that such provision of services is consistent with the objectives of this Regulation.
+
+10\. The prohibitions in paragraphs 2 and 4 and the prohibitions related to commercial space-based services in paragraph 4a shall not apply to the provision of services or software necessary for public health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+10a. The prohibitions in paragraph 4 shall not apply to the provision of software with certain uses in the banking and financial sector as listed in Annex XXVI that is necessary for the execution until 25 January 2026 of contracts concluded before 24 October 2025, or of ancillary contracts necessary for the execution of such contracts.
+
+10b. Paragraph 5a shall not apply to the execution until 1 January 2026 of contracts concluded before 24 October 2025, or ancillary contracts necessary for the execution of such a contract.
+
+10c. Paragraph 4c shall not apply to the execution until 25 June 2026 of contracts concluded before 24 April 2026, or ancillary contracts necessary for the execution of such contracts.
+
+11\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the provision of the services referred to therein, under such conditions as they deem appropriate, after having determined that those services are strictly necessary for the setting-up, certification or evaluation of a firewall which:
+
+(a) removes the control by a natural or legal person, entity or body listed in Annex I over the assets of a non-listed legal person, entity or body incorporated or constituted under the law of a Member State which is owned or controlled by the former; and
+
+(b) ensures that no further funds or economic resources accrue to the benefit of the listed natural or legal person, entity or body.
+
+12\. By way of derogation from the prohibitions related to software in paragraph 4 and from the prohibitions related to the provision of AI services and high-performance computing or quantum computing services in paragraph 4a, the competent authorities may authorise the provision of software and services referred to therein, under such conditions as they deem appropriate, after having determined that the software or services are strictly necessary for the contribution of Belarusian nationals to international open-source projects.
+
+12a. By way of derogation from paragraph 2, the competent authorities may authorise the provision of services referred to therein, under such conditions as they deem appropriate, after having determined that those services are strictly necessary for the functioning of a consular or diplomatic representation of Belarus located in a Member State.
+
+13\. By way of derogation from paragraphs 1 to 5, the competent authorities may authorise the services and software referred to therein, under such conditions as they deem appropriate, after having determined that this is necessary for:
+
+(a) humanitarian purposes such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance, or for evacuations;
+
+(b) civil society activities that directly promote democracy, human rights or the rule of law in Belarus;
+
+(c) the functioning of diplomatic and consular representations of the Union and of the Member States or partner countries in Belarus, including delegations, embassies and missions, or international organisations in Belarus enjoying immunities in accordance with international law;
+
+(d) ensuring critical energy supply within the Union and the purchase, import or transport into the Union of titanium, aluminium, copper, nickel, palladium and iron ore;
+
+(e) ensuring the continuous operation of infrastructures, hardware and software which are critical for human health and safety, or the safety of the environment;
+
+(f) the establishment, operation, maintenance, fuel supply and retreatment and safety of civil nuclear capabilities, and the continuation of design, construction and commissioning required for the completion of civil nuclear facilities, the supply of precursor material for the production of medical radioisotopes and similar medical applications, or critical technology for environmental radiation monitoring, as well as for civil nuclear cooperation, in particular in the field of research and development;
+
+(g) the provision of electronic communication services by Union telecommunication operators necessary for the operation, maintenance and security, including cybersecurity, of electronic communication services, in Belarus, in Ukraine, in the Union, between Belarus and the Union, and between Ukraine and the Union, and for data centre services in the Union;
+
+(h) the exclusive use of legal persons, entities or bodies established in Belarus that are owned by, or solely or jointly controlled by, a legal person, entity or body which is incorporated or constituted under the law of a Member State, a country member of the European Economic Area, Switzerland or a partner country, as listed in Annex Vb; or
+
+(i) the ongoing construction of infrastructures up to 25 m in height necessary for civil energy supply and distribution to educational and healthcare facilities.
+
+14\. By way of derogation from paragraph 2, the competent authorities may authorise the provision of legal advisory services referred to therein, under such conditions as they deem appropriate, after having determined that this is necessary for the continuation of existing initiatives providing support to victims of natural, nuclear or chemical disasters and in the framework of international adoption procedures.
+
+15\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 5a and paragraphs 11 to 14 within 2 weeks of the authorisation.
+
+## Article 1k
+
+1\. It shall be prohibited to directly or indirectly make or be part of any arrangement to make new loans or credit with a maturity exceeding 90 days, after 29 June 2021, to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies;
+
+(b) a major credit institution established in Belarus with over 50 % public ownership, or under public control, as of 1 June 2021, as listed in Annex IX;
+
+(c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50 % by an entity referred to in point (a) or (b) of this paragraph; or
+
+(d) a natural or legal person, entity or body acting on behalf or at the direction of an entity referred to in point (a), (b) or (c) of this paragraph.
+
+2\. The prohibition shall not apply to loans or credits that have a specific and documented objective to provide financing for non-prohibited imports or exports of goods and non-financial services between the Union and any third State, including the expenditure for goods and services from another third State that is necessary for executing the export or import contracts.
+
+3\. The competent authority of a Member State may also grant, under such terms as it deems appropriate, an authorisation to make or be part of the loans or credits referred to in paragraph 1 if it has determined that:
+
+(i) the activities concerned are for the purpose of providing support for the Belarusian civilian population, such as humanitarian assistance, environmental projects, and nuclear safety or the loan or credit is necessary to comply with legal or regulatory minimum reserve or similar requirements to meet solvency and liquidity criteria for financial entities in Belarus which are majority-owned by financial institutions of the Union; and
+
+(ii) the activities concerned do not entail funds or economic resources being made available, directly or indirectly, to or for the benefit of a person, entity or body referred to in Article 2.
+
+When applying the conditions under points (i) and (ii), the competent authority shall require adequate information as regards the use of the authorisation granted, including information concerning the purpose of, and the counterparts to, the activities concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within two weeks of the authorisation.
+
+## Article 1l
+
+1\. It shall be prohibited to provide insurance or re-insurance to:
+
+(i) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(ii) any natural or legal person, entity or body acting on behalf or at the direction of a legal person, entity or body referred to in point (i).
+
+2\. The prohibitions in paragraph 1 shall not apply to the provision of compulsory or third party liability insurance to Belarusian persons, entities or bodies where the risk insured is situated in the Union or to the provision of insurance for Belarusian diplomatic or consular missions in the Union.
+
+## Article 1m
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent prohibitions in this Regulation, including by participating in such activities without deliberately seeking that object or effect but being aware that the participation may have that object or effect and accepting that possibility.
+
+## Article 1n
+
+In addition to the prohibitions set out in Article 1k, the European Investment Bank (EIB) shall:
+
+(a) be prohibited from making any disbursement or payment under or in connection with any existing agreements entered into between the Republic of Belarus or any public authority thereof and the EIB; and
+
+(b) suspend all existing Technical Assistance Service Contracts relating to projects financed under the agreements referred to in point (a), and which are intended for the direct or indirect benefit of the Republic of Belarus or any public authority thereof to be performed in Belarus.
+
+## Article 1o
+
+1\. It shall be prohibited:
+
+(a) to import, directly or indirectly, wood products as listed in Annex X into the Union if they:
+
+(i) originate in Belarus; or
+
+(ii) have been exported from Belarus;
+
+(b) to purchase, directly or indirectly, wood products as listed in Annex X which are located in or which originated in Belarus;
+
+(c) to transport wood products as listed in Annex X if they originated in Belarus or are being exported from Belarus to any other country;
+
+(d) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in points (a), (b) and (c).
+
+## Article 1p
+
+1\. It shall be prohibited:
+
+(a) to import, directly or indirectly, cement products as listed in Annex XI into the Union if they:
+
+(i) originate in Belarus; or
+
+(ii) have been exported from Belarus;
+
+(b) to purchase, directly or indirectly, cement products as listed in Annex XI which are located in or which originated in Belarus;
+
+(c) to transport cement products as listed in Annex XI if they originated in Belarus or are being exported from Belarus to any other country;
+
+(d) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in points (a), (b) and (c).
+
+## Article 1q
+
+1\. It shall be prohibited:
+
+(a) to import, directly or indirectly, iron and steel products as listed in Annex XII into the Union if they:
+
+(i) originate in Belarus; or
+
+(ii) have been exported from Belarus;
+
+(b) to purchase, directly or indirectly, iron and steel products as listed in Annex XII which are located in or which originated in Belarus;
+
+(c) to transport iron and steel products as listed in Annex XII if they originated in Belarus or are being exported from Belarus to any other country;
+
+(d) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in points (a), (b) and (c).
+
+## Article 1r
+
+1\. It shall be prohibited:
+
+(a) to import, directly or indirectly, rubber products as listed in Annex XIII into the Union if they:
+
+(i) originate in Belarus; or
+
+(ii) have been exported from Belarus;
+
+(b) to purchase, directly or indirectly, rubber products as listed in Annex XIII which are located in or which originated in Belarus;
+
+(c) to transport rubber products as listed in Annex XIII if they originated in Belarus or are being exported from Belarus to any other country;
+
+(d) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in points (a), (b) and (c).
+
+## Article 1ra
+
+1\. It shall be prohibited to purchase, import, or transfer into the Union, directly or indirectly, goods which allow Belarus to diversify its sources of revenue, thereby enabling its involvement in the Russian aggression against Ukraine, as listed in Annex XXVII, if they originate in Belarus or are exported from Belarus.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly in relation to the prohibition in paragraph 1;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any purchase, import or transfer of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly in relation to the prohibition in paragraph 1.
+
+3\. The prohibition in paragraph 1 shall not apply to purchases in Belarus which are necessary for the functioning of diplomatic and consular representations of the Union and of the Member States, including delegations, embassies and missions, or for the personal use of nationals of Member States and their immediate family members.
+
+4\. The competent authorities of a Member State may allow the import of goods which are intended for the strict personal use of natural persons travelling to the Union or of their immediate family members, limited to personal effects owned by those individuals and which are manifestly not intended for sale.
+
+5\. The competent authorities may authorise, under such conditions as they deem appropriate, the entry into the Union of a vehicle falling under CN code 8703 not intended for sale and owned by:
+
+(a) a citizen of a Member State or an immediate family member who is resident in Belarus and is driving the vehicle into the Union for strict personal use; or
+
+(b) a citizen of Belarus holding a valid visa or residence permit allowing entry into the Union, who is driving the vehicle into the Union for strict personal use.
+
+6\. The prohibition in paragraph 1 shall not apply to the entry into the Union of motor vehicles falling under CN code 8703 provided that they have a diplomatic vehicle registration plate and are necessary for the functioning of diplomatic and consular representations, including delegations, embassies and missions, or of international organisations enjoying immunities in accordance with international law, or for the personal use of their staff and their immediate family members.
+
+7\. The prohibition in paragraph 1 shall not prevent vehicles already in the territory of the Union on 1 July 2024 from being registered in a Member State.
+
+8\. The prohibition in paragraph 1 shall not apply to the entry into the Union of a vehicle falling under CN code 8703 intended exclusively for humanitarian purposes, including for the evacuation or repatriation of persons, or transporting passengers who hold a certificate issued by a Member State attesting to the fact that they are travelling to that Member State in the framework of initiatives providing support to victims of natural, nuclear or chemical disasters.
+
+9c. As of 26 January 2026 until 31 December 2026, the prohibitions in paragraphs 1 and 2 shall not apply to the purchase or import to Hungary of goods falling under CN code 2901 10 00 originating in Belarus or exported from Belarus, provided that the goods are intended for exclusive use in Hungary.
+
+9d. Goods falling under CN code 2901 10 00 imported to Hungary following the exemption in paragraph 9c shall not be sold on to buyers located in another Member State or in a third country.
+
+9e. With regard to the goods falling under CN codes 2501, 2517, 2522, 2530, 2620, 2815, 2833, 2916, 2926, 4016, 7403, 7404, 7406 and 7610, the prohibitions in paragraphs 1 and 2 shall not apply to the execution until 25 July 2026 of contracts concluded before 24 April 2026, or of ancillary contracts necessary for the execution of such contracts.
+
+9f. With regard to the goods falling under CN codes 3803, 7006, 7008, 7009, 7011, 7013, 7014, 7017, 7018, 7020, 8707 and 8708, the prohibitions in paragraphs 1 and 2 shall not apply to the execution until 25 October 2026 of contracts concluded before 24 July 2026, or of ancillary contracts necessary for the execution of such contracts.
+
+10\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the purchase, import or transfer of the goods listed in Annex XXVII, or the provision of related technical and financial assistance, under such conditions as they deem appropriate, after having determined that this is necessary for the establishment, operation, maintenance, fuel supply and retreatment and safety of civil nuclear capabilities, and the continuation of design, construction and commissioning required for the completion of civil nuclear facilities, the supply of precursor material for the production of medical radioisotopes and similar medical applications, or critical technology for environmental radiation monitoring, as well as for civil nuclear cooperation, in particular in the field of research and development.
+
+11\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise, under such conditions as they deem appropriate, the import or transfer of goods that were physically located in Belarus before the relevant prohibition entered into force in respect of those goods, falling under CN codes 8471, 8523, 8536 and 9027, as listed in Annex XXVII, or the provision of related technical and financial assistance, after having determined that those goods are components of medical devices and are brought into the Union for the purpose of maintenance, repair or returning of defective components.
+
+12\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 10 and 11 within 2 weeks of the authorisation.
+
+## Article 1rb
+
+1\. It shall be prohibited to purchase, import, or transfer, directly or indirectly, gold, as listed in Annex XXI if it originates in Belarus and has been exported from Belarus into the Union or to any third country after 1 July 2024.
+
+2\. It shall be prohibited to purchase, import, or transfer, directly or indirectly the products listed in Annex XXI when processed in a third country incorporating the products prohibited in paragraph 1.
+
+3\. It shall be prohibited to purchase, import, or transfer, directly or indirectly, gold, as listed in Annex XXII, if it originates in Belarus and it has been exported from Belarus into the Union after 1 July 2024.
+
+4\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraphs 1, 2 and 3 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly in relation to the prohibitions in those paragraphs; or
+
+(b) provide financing or financial assistance related to the goods referred to in paragraphs 1, 2 and 3 for any purchase, import or transfer of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly in relation to the prohibitions in those paragraphs.
+
+5\. The prohibitions in paragraphs 1, 2 and 3 shall not apply to gold which is necessary for the official purposes of diplomatic missions, consular posts or international organisations in Belarus enjoying immunities in accordance with international law.
+
+6\. The prohibition in paragraph 3 shall not apply to goods as listed in Annex XXII for the personal use of natural persons travelling to the Union or members of their immediate families travelling with them, owned by those individuals and not intended for sale.
+
+7\. By way of derogation from paragraphs 1, 2 and 3, the competent authorities may authorise the transfer or import of cultural goods which are on loan in the context of formal cultural cooperation with Belarus.
+
+## Article 1rc
+
+1\. It shall be prohibited, as of 1 July 2024, to purchase, import, or transfer, directly or indirectly, diamonds and products incorporating diamonds, as listed in Parts A, B and C of Annex XXIX, if they originate in Belarus or have been exported from Belarus into the Union or to any third country.
+
+2\. It shall be prohibited, as of 1 July 2024, to purchase, import, or transfer, directly or indirectly, diamonds and products incorporating diamonds, as listed in Parts A, B and C of Annex XXIX, of any origin, if they transited via the territory of Belarus.
+
+3\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraphs 1 and 2, and to the provision, manufacture, maintenance and use of those goods, directly or indirectly in relation to the prohibitions in those paragraphs;
+
+(b) provide financing or financial assistance related to the goods referred to in paragraphs 1 and 2 for any purchase, import or transfer of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly in relation to the prohibitions in those paragraphs.
+
+4\. The prohibitions in paragraphs 1 and 2 shall not apply to goods listed in Part C of Annex XXIX for the personal use of natural persons travelling to the Union or of their immediate family members travelling with them, owned by those individuals and not intended for sale.
+
+5\. By way of derogation from paragraphs 1 and 2, the competent authorities may authorise the transfer or import of cultural goods which are on loan in the context of formal cultural cooperation with Belarus.
+
+## Article 1s
+
+1\. It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, machinery as listed in Annex XIV, whether or not originating in the Union, to any person, entity or body in Belarus or for use in Belarus;
+
+(b) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions in point (a).
+
+1a. The transit via the territory of Belarus of machinery as listed in Annex XIVa, exported from the Union, shall be prohibited.
+
+2\. The prohibitions in paragraph 1 shall not apply to the sale, supply, transfer or export of the machinery referred to in paragraph 1 or to the related provision of technical and financial assistance, for non-military use and for a non-military end-user, intended for:
+
+(a) humanitarian purposes, health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or on the environment, or as a response to natural disasters;
+
+(b) medical or pharmaceutical purposes;
+
+(c) temporary use by news media;
+
+(d) software updates;
+
+(e) use as consumer communication devices;
+
+(f) ensuring cyber-security and information security for natural or legal persons, entities or bodies in Belarus except for its government and undertakings directly or indirectly controlled by that government; or
+
+(g) personal use of natural persons travelling to Belarus, and limited to personal effects, household effects, vehicles or tools of trade owned by those individuals and not intended for sale.
+
+With the exception of points (f) and (g), the exporter shall declare in its customs declaration that the items are being exported under the relevant exception set out in this paragraph and shall notify the competent authority of the Member State where the exporter is resident or established of the first use of the relevant exception within 30 days from that first export.
+
+4\. By way of derogation from paragraph 1, the competent authorities may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the machinery listed in Annex XIV or the provision of related technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, after having determined that it is intended for the diplomatic representations of the Union, Member States, and partner countries, including delegations, embassies and missions, and of international organisations enjoying immunities in accordance with international law.
+
+4a. By way of derogation from paragraph 1, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the competent authorities may authorise the sale, supply, transfer or export of machinery falling under CN code 8471 80 or the provision of related technical or financial assistance, for non-military use and for a non-military end-user, after having determined that such machinery or the related technical or financial assistance are intended for civilian electronic communications networks.
+
+4b. By way of derogation from paragraph 1a, the competent authorities may authorise the transit via the territory of Belarus of goods and technology listed in Annex XIVa, after having determined that such goods or technology are necessary for:
+
+(a) medical or pharmaceutical purposes, or for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance or for evacuations;
+
+(b) the exclusive use and under the full control of the authorising Member State and in order to fulfil its maintenance obligations in areas which are under a long-term lease agreement between that Member State and Belarus; or
+
+(c) the establishment, operation, maintenance, fuel supply and retreatment and safety of civil nuclear capabilities, and the continuation of design, construction and commissioning required for the completion of civil nuclear facilities, the supply of precursor material for the production of medical radioisotopes and similar medical applications, or critical technology for environmental radiation monitoring, as well as for civil nuclear cooperation, in particular in the field of research and development.
+
+5\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 4 and 4a within 2 weeks of the authorisation.
+
+## Article 1sa
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods and technology suited for use in aviation or the space industry, as listed in Annex XVII, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+1a. The transit via the territory of Belarus of goods and technology suited for use in aviation or the space industry, as listed in Annex XVII, exported from the Union, shall be prohibited.
+
+2\. It shall be prohibited to provide insurance and reinsurance, directly or indirectly, in relation to goods and technology listed in Annex XVII to any person, entity or body in Belarus or for use in Belarus.
+
+3\. It shall be prohibited to provide any one or any combination of the following activities: overhaul, repair, inspection, replacement, modification or defect rectification of an aircraft or component, with the exception of pre-flight inspection, in relation to the goods and technology listed in Annex XVII, directly or indirectly, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+4\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus; or
+
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as to grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+6\. By way of derogation from paragraphs 1 and 4, the national competent authorities may authorise, under such conditions as they deem appropriate, the execution of an aircraft financial lease concluded before 5 August 2023 after having determined that:
+
+(a) it is strictly necessary to ensure lease re-payments to a legal person, entity or body incorporated or constituted under the law of a Member State which does not fall under any of the restrictive measures provided for in this Regulation; and
+
+(b) no economic resources will be made available to the Belarusian counterpart, with the exception of the transfer of ownership of the aircraft after full reimbursement of the financial lease.
+
+6a. By way of derogation from paragraphs 1 and 4, the competent authorities may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the goods listed in Annex XVII, or related technical assistance, brokering services, financing or financial assistance, after having determined that it is necessary for the production of titanium goods required in the aeronautic industry for which no alternative supply is available.
+
+6b. By way of derogation from paragraph 4, the competent authorities may authorise, under such conditions as they deem appropriate, the provision of technical assistance, related to the use of the goods and technology referred to in paragraph 1, after having determined that the provision of such technical assistance is necessary for avoiding collision between satellites, or their unintended re-entry into the atmosphere.
+
+7\. By way of derogation from paragraphs 1 and 4, the competent authorities may authorise, under such conditions as they deem appropriate, the sale, supply, transfer or export of the goods falling under CN codes 8517 71 00 , 8517 79 00 and 9026 00 00 listed in Annex XVII, or related technical assistance, brokering services, financing or financial assistance, after having determined that it is necessary for medical or pharmaceutical purposes, or for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance or for evacuations.
+
+When deciding on requests for authorisations for medical, pharmaceutical or humanitarian purposes in accordance with this paragraph, the national competent authorities shall not grant an authorisation for exports to any natural or legal person, entity or body in Belarus or for use in Belarus, if they have reasonable grounds to believe that the goods might have a military end-use.
+
+7a. By way of derogation from paragraph 1a, the competent authorities may authorise the transit via the territory of Belarus of goods and technology suited for use in aviation or the space industry, as listed in Annex XVII, after having determined that such goods or technology are intended for the purposes set out in paragraphs 6a, 6b and 7.
+
+7b. By way of derogation from paragraph 1, the competent authorities may authorise the sale, supply, transfer or export of the goods listed in Annex XVII, if the goods are intended for the exclusive use and under the full control of the authorising Member State and in order to fulfil its maintenance obligations in areas which are under a long-term lease agreement between that Member State and Belarus.
+
+8\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under this Article within two weeks of the authorisation.
+
+9\. The prohibition in paragraph 1 shall be without prejudice to Articles 1e(4), point (b), and 1f(4), point (b).
+
+10\. The prohibition in paragraph 4, point (a), shall not apply to the exchange of information aimed at establishing technical standards in the framework of the International Civil Aviation Organization in relation to goods and technology referred to in paragraph 1.
+
+## Article 1t
+
+1\. It shall be prohibited to provide public financing or financial assistance for trade with, or investment in, Belarus.
+
+2\. The prohibition in paragraph 1 shall not apply to:
+
+(a) binding financing or financial assistance commitments established prior to 10 March 2022; or
+
+(c) the provision of public financing or financial assistance for trade in food, and for agricultural, medical or humanitarian purposes.
+
+3\. By way of derogation from paragraph 1, the competent authorities may authorise, under such conditions as they deem appropriate, the provision of public financing or financial assistance up to the total value of EUR 10 000 000 per project benefiting small and medium-sized enterprises established in the Union.
+
+4\. The Member State or Member States concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 3 within 2 weeks of the authorisation.
+
+## Article 1u
+
+1\. It shall be prohibited to accept any deposits from Belarusian nationals or natural persons residing in Belarus, or legal persons, entities or bodies established in Belarus or a legal person, entity or body established outside the Union and whose proprietary rights are directly or indirectly owned for more than 50 % by Belarusian nationals or natural persons residing in Belarus, if the total value of deposits of the natural or legal person, entity or body per credit institution exceeds EUR 100 000 .
+
+2\. It shall be prohibited to provide, directly or indirectly, the following services to Belarusian nationals or natural persons residing in Belarus, or to legal persons, entities or bodies established in Belarus:
+
+(a) crypto-asset services, as defined in Regulation (EU) 2023/1114;
+
+(b) issuing of payment instruments, acquiring of payment transactions, or payment initiation services, as defined in Directive (EU) 2015/2366;
+
+(c) issuing of electronic money, as defined in Directive 2009/110/EC of the European Parliament and of the Council ( 10 ).
+
+3\. It shall be prohibited, as from 26 March 2025, to allow Belarusian nationals or natural persons residing in Belarus to directly or indirectly own or control, or to hold any posts in the governing bodies of, a legal person, entity or body which is incorporated or constituted under the law of a Member State and is providing crypto-asset wallet, account or custody services. As from 25 August 2026, that prohibition shall also apply to the case of a legal person, entity or body which is incorporated or constituted under the law of a Member State and is providing any other crypto-asset services, as defined in Regulation (EU) 2023/1114.
+
+4\. Paragraphs 1, 2 and 3 shall not apply to nationals of a Member State, of a country member of the European Economic Area or of Switzerland, or to natural persons having a temporary or permanent residence permit in a Member State, in a country member of the European Economic Area or in Switzerland.
+
+## Article 1v
+
+1\. By way of derogation from Article 1u(1) and (2), the competent authorities may authorise the acceptance of such a deposit or the provision of such a service, under such conditions as they deem appropriate, after having determined that the acceptance of such a deposit or the provision of such a service is:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies referred to in Article 1u(1) and their dependent family members, including payments for food, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least 2 weeks prior to the authorisation;
+
+(d) necessary for official purposes of a diplomatic mission or consular post or international organisation;
+
+(e) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources; or
+
+(f) necessary for non-prohibited cross-border trade in goods and services between the Union and Belarus.
+
+1a. The prohibition in Article 1u(2), points (b) and (c), shall not apply to the provision of personalised security credentials necessary to access an account with a credit institution or an electronic money institution established in a Member State or a country as listed in Annex Vba.
+
+1b. By way of derogation from Article 1u(2), points (b) and (c), the competent authorities may authorise the provision of such a service, under such conditions as they deem appropriate, after having determined that to do so is necessary for the exclusive use of legal persons, entities or bodies established in Belarus that are owned by, or solely or jointly controlled by, a legal person, entity or body which is incorporated or constituted under the law of a Member State or a country as listed in Annex Vba.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1, point (a), (b), (d), (e) or (f), and paragraph 1b within two weeks of the authorisation.
+
+## Article 1w
+
+1\. By way of derogation from Article 1u(1) and (2), the competent authorities may authorise the acceptance of such a deposit or provision of such a service, under such conditions as they deem appropriate, after having determined that the acceptance of such a deposit or provision of such a service is necessary for:
+
+(a) humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance or for evacuations; or
+
+(b) civil society activities that directly promote democracy, human rights or the rule of law in Belarus.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 1x
+
+1\. It shall be prohibited for Union central securities depositories to provide any services as defined in the Annex to Regulation (EU) No 909/2014 for transferable securities issued after 12 April 2022 to any Belarusian national or natural person residing in Belarus or any legal person, entity or body established in Belarus.
+
+2\. Paragraph 1 shall not apply to nationals of a Member State or natural persons having a temporary or permanent residence permit in a Member State.
+
+## Article 1y
+
+1\. It shall be prohibited to sell transferable securities denominated in any official currency of a Member State issued after 12 April 2022 or units in collective investment undertakings providing exposure to such securities, to any Belarusian national or natural person residing in Belarus or any legal person, entity or body established in Belarus.
+
+2\. Paragraph 1 shall not apply to nationals of a Member State, of a country member of the European Economic Area, or of Switzerland, or to natural persons having a temporary or permanent residence permit in a Member State, in a country member of the European Economic Area, or in Switzerland.
+
+## Article 1z
+
+Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, credit institutions shall:
+
+(a) supply to the national competent authority of the Member State where they are located or to the Commission by no later than 27 May 2022, a list of deposits exceeding EUR 100 000 held by Belarusian nationals or natural persons residing in Belarus, or by legal persons, entities or bodies established in Belarus. They shall provide updates regarding the amounts of such deposits every 12 months.
+
+(b) supply to the national competent authority of the Member State where they are located information on deposits exceeding EUR 100 000 held by Belarusian nationals or natural persons residing in Belarus who have acquired the citizenship of a Member State or residence rights in a Member State through an investor citizenship scheme or an investor residence scheme.
+
+## Article 1za
+
+1\. It shall be prohibited to sell, supply, transfer or export banknotes denominated in any official currency of a Member State to Belarus or to any natural or legal person, entity or body in Belarus, including the government and the Central Bank of Belarus, or for use in Belarus.
+
+2\. The prohibition in paragraph 1 shall not apply to the sale, supply, transfer or export of banknotes denominated in any official currency of a Member State provided that such sale, supply, transfer or export is necessary for:
+
+(a) the personal use of natural persons travelling to Belarus or members of their immediate families travelling with them;
+
+(b) the official purposes of diplomatic missions, consular posts or international organisations in Belarus enjoying immunities in accordance with international law; or
+
+(c) civil society and media activities that directly promote democracy, human rights or the rule of law in Belarus which receive public funding from the Union, Member States or countries listed in Annex Vba.
+
+## Article 1zb
+
+1\. It shall be prohibited to engage, directly or indirectly, in any transaction with legal persons, entities or bodies listed in Annex XV or with any legal person, entity or body established in Belarus whose proprietary rights are directly or indirectly owned for more than 50 % by an entity listed in Annex XV.
+
+1a. The prohibition in paragraph 1 shall not apply to transactions:
+
+(a) that are necessary for the functioning of diplomatic and consular representations of the Union and of the Member States or of partner countries in Belarus, including delegations, embassies and missions, or international organisations in Belarus enjoying immunities in accordance with international law;
+
+(b) made by nationals of a Member State who are residents of Belarus and were so before 24 February 2022;
+
+(c) necessary for the export, sale, supply, transfer or transport of pharmaceutical, medical or agricultural and food products, including wheat and fertilisers, the export, sale, supply, transfer or transport of which to Belarus is allowed under this Regulation;
+
+(d) strictly necessary to ensure access to judicial, administrative or arbitral proceedings in a Member State, as well as for the recognition or enforcement of a judgment or an arbitration award rendered in a Member State, provided that such transactions are consistent with the objectives of this Regulation;
+
+(e) necessary for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance or for evacuations;
+
+(f) necessary for the reception of payments due by the legal persons, entities or bodies referred to in Annex XV pursuant to contracts and obligations performed before 24 April 2026;
+
+(g) strictly necessary for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services; or
+
+(h) that are necessary for the needs of state-funded intermediate organisations for the foreign cultural policy of the Member States in Belarus.
+
+1b. By way of derogation from paragraph 1, the competent authorities may authorise, under such conditions as they deem appropriate, transactions which are strictly necessary for divestment from Belarus or the wind-down of business activities in Belarus.
+
+2\. For each legal person, entity or body referred to in Annex XV, the prohibition set out in paragraph 1 shall apply as of the date mentioned for it in that Annex. The prohibition shall apply as of that same date to any legal person, entity or body established in Belarus whose proprietary rights are directly or indirectly owned for more than 50 % by an entity listed in Annex XV.
+
+## Article 1zc
+
+1\. It shall be prohibited for any road transport undertaking established in Belarus to transport goods by road within the territory of the Union, including in transit.
+
+1a. The prohibition in paragraph 1 shall apply to the transport of goods within the territory of the Union by road transport undertakings, carried out by means of trailers or semi-trailers registered in Belarus, including if those trailers or semi-trailers are hauled by trucks registered in other countries.
+
+1b. It shall be prohibited for any legal person, entity or body established in the Union which is owned for 25 % or more by a Belarusian natural or legal person, entity or body to be admitted to become a road transport undertaking which transports goods by road within the territory of the Union, including in transit.
+
+It shall be prohibited for any legal person, entity or body established in the Union before 8 April 2022 and that is already a road transport undertaking which transports goods by road within the territory of the Union, including in transit, to make any changes to its capital structure that would increase the percentage share owned by a Belarusian natural or legal person, entity or body, unless that percentage remains below 25 % following such a change.
+
+1c. It shall be prohibited, as of 2 August 2024 for any road transport undertaking established in the Union after 8 April 2022, which is owned for 25 % or more by a Belarusian natural or legal person, entity or body to transport goods by road within the territory of the Union, including in transit.
+
+1d. Road transport undertakings established in the Union shall, upon request of the national competent authority of the Member State where they are established, supply information on their ownership structure to that national competent authority.
+
+2\. The prohibition in paragraph 1 shall not apply to road transport undertakings transporting mail as a universal service.
+
+2a. Paragraphs 1b and 1c shall not apply to road transport undertakings established in the Union which are owned for 25 % or more by Belarusian nationals who are also nationals of a Member State or who have a temporary or permanent residence permit in a Member State.
+
+4\. By way of derogation from paragraphs 1 and 1a, the competent authorities of a Member State may authorise the transport of goods by a road transport undertaking established in Belarus or any road transport undertaking when carried out by means of trailers or semi-trailers registered in Belarus, including if those trailers or semi-trailers are hauled by trucks registered in other countries, if the competent authorities have determined that such transport is necessary for:
+
+(a) the purchase, import or transport into the Union of natural gas and oil, including refined petroleum products, as well as titanium, aluminium, copper, nickel, palladium and iron ore;
+
+(b) the purchase, import or transport of pharmaceutical, medical, agricultural and food products, including wheat and fertilisers whose import, purchase and transport is allowed under this Regulation;
+
+(c) humanitarian purposes; or,
+
+(d) the functioning of diplomatic and consular representations in Belarus, including delegations, embassies and missions, or international organisations in Belarus enjoying immunities in accordance with international law.
+
+5\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 4 within two weeks of the authorisation.
+
+## Article 1zd
+
+1\. It shall be prohibited to engage, directly or indirectly, in any transaction with a natural or legal person, entity or body that seeks, or cooperates in, the enforcement outside the Union of judgments satisfying claims referred to in Article 8h(1), or with natural or legal persons, entities or bodies that own or control those legal persons, entities or bodies, with the exception of lawyers and members of the judiciary, as listed in Annex XXXIII.
+
+2\. Unless they are otherwise prohibited, the prohibitions in paragraph 1 shall not apply to transactions that are:
+
+(a) necessary for the purchase, import or transport of pharmaceutical, medical or agricultural and food products, including wheat and fertilisers, the purchase, import and transport of which is allowed under this Regulation;
+
+(b) strictly necessary to ensure access to judicial, administrative or arbitral proceedings in a Member State, as well as for the recognition or enforcement of a judgment or an arbitration award rendered in a Member State, provided that such transactions are consistent with the objectives of this Regulation;
+
+(c) without prejudice to point (b) of this paragraph, strictly necessary to recover damages pursuant to Article 8h.
+
+## Article 1ze
+
+It shall be prohibited to engage, directly or indirectly, in any transaction involving the crypto-assets or central bank digital currencies listed in Annex XXXIV, or to provide any support to the development of such crypto-assets or central banks digital currencies.
+
+## Article 1zf
+
+1\. It shall be prohibited to engage, directly or indirectly, in any transaction with a legal person, entity or body that is an entity providing crypto-assets services or is a platform enabling the exchange or transfer of crypto-assets and is established in Belarus.
+
+2\. The prohibition in paragraph 1 shall not apply to transactions:
+
+(a) that are necessary for the functioning of diplomatic and consular representations of the Union and of the Member States or of partner countries in Belarus, including delegations, embassies and missions, or international organisations in Belarus enjoying immunities in accordance with international law;
+
+(b) made by nationals of a Member State who are residents of Belarus and were so before 24 February 2022.
+
+3\. The prohibition in paragraph 1 shall apply as of 24 May 2026.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, or owned, held or controlled by the natural or legal persons, entities and bodies listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities and bodies listed in Annex I.
+
+3\. The participation, knowingly and intentionally, in activities the object or effect of which is, directly or indirectly, to circumvent the measures referred to in paragraphs 1 and 2 shall be prohibited.
+
+4\. Annex I shall consist of a list of the natural or legal persons, entities and bodies who, in accordance with point (a) of Article 4(1) of Council Decision 2012/642/CFSP of 15 October 2012 concerning restrictive measures against Belarus ( 11 ), have been identified by the Council as being responsible for serious violations of human rights or the repression of civil society and democratic opposition, or whose activities otherwise seriously undermine democracy or the rule of law in Belarus, or any natural or legal persons, entities and bodies associated with them, as well as legal persons, entities or bodies owned or controlled by them.
+
+5\. Annex I shall also consist of a list of the natural or legal persons, entities and bodies who, in accordance with point (b) of Article 4(1) of Decision 2012/642/CFSP, have been identified by the Council as benefiting from or supporting the Lukashenka regime, as well as legal persons, entities and bodies owned or controlled by them.
+
+6\. Annex I shall also consist of a list of:
+
+(a) the natural or legal persons, entities or bodies who, in accordance with Article 4(1), point (c), of Decision 2012/642/CFSP, have been identified by the Council as organising or contributing to activities by the Lukashenka regime that facilitate:
+
+(i) the illegal crossing of the external borders of the Union; or
+
+(ii) the transfer of prohibited goods and the illegal transfer of restricted goods, including hazardous goods, into the territory of the Union; and
+
+(b) the legal persons, entities or bodies who, in accordance with Article 4(1), point (d), of Decision 2012/642/CFSP, have been identified by the Council as legal persons, entities or bodies owned or controlled by persons, entities or bodies referred to in point (a).
+
+6a. Annex I shall also consist of a list of:
+
+(a) the natural or legal persons, entities or bodies who, in accordance with Article 4(1), point (ca), of Decision 2012/642/CFSP, have been identified by the Council as responsible for, implementing, supporting, benefitting from, involved in or facilitating actions or policies attributable to the Republic of Belarus which undermine or threaten democracy, the rule of law, stability or security in the Union or in one or several of its Member States, in an international organisation or in a third country, or which undermine or threaten the sovereignty or independence of one or several of its Member States, or of a third country, through the following actions:
+
+(i) planning, directing, engaging in, directly or indirectly, supporting, or otherwise facilitating the use of information manipulation and interference;
+
+(ii) planning, directing, engaging in, directly or indirectly, supporting, or otherwise facilitating any actions targeted at the functioning of democratic institutions, economic activities or services of public interest, including by unauthorised entry into the territory of a Member State, including its airspace, or aimed at interfering with, damaging or destroying, including through sabotage or malicious cyber activities as part of hybrid activities, critical infrastructure;
+
+(iii) planning, directing, engaging in, directly or indirectly, supporting, or otherwise facilitating or enabling widespread or systematic actions disrupting the functioning of critical infrastructure;
+
+(b) the natural or legal persons, entities or bodies who, in accordance with Article 4(1), point (cb), of Decision 2012/642/CFSP, have been identified by the Council as supporting the natural or legal persons, entities or bodies engaged in activities referred to in point (a);
+
+(c) the legal persons, entities or bodies who, in accordance with Article 4(1), point (e), of Decision 2012/642/CFSP, have been identified by the Council as legal persons, entities or bodies owned or controlled by persons, entities or bodies referred to in points (a) or (b).
+
+7\. Annex I shall also consist of a list of natural or legal persons, entities or bodies, who, in accordance with Article 4(1), point (d), of Decision 2012/642/CFSP, have been identified by the Council as facilitating infringements of the prohibition against circumvention of the provisions of this Regulation or of that Decision or as otherwise significantly frustrating those provisions.
+
+7a. Annex I shall also consist of a list of the natural or legal persons, entities or bodies who, in accordance with Article 4(1), point (da), of Decision 2012/642/CFSP, have been identified by the Council as forming part of, supporting, materially or financially, or benefiting from the military and industrial complex of Belarus, including by being involved in the development, production or supply of military technology and equipment.
+
+8\. Annex I shall also include natural or legal persons, entities or bodies associated with the persons, entities or bodies referred to in paragraphs 5, 6, 6a(a), 7 and 7a.
+
+## Article 2a
+
+Actions by natural or legal persons, entities or bodies shall not give rise to liability of any kind on their part, if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 2b
+
+1\. Annex I  shall include the grounds for the listing of listed persons, entities and bodies.
+
+2\. Annex I  shall also include, where available, information necessary to identify the natural or legal persons, entities and bodies concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities in the Member States, as indicated in the websites listed in Annex II, may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources are:
+
+(a) necessary to satisfy the basic needs of persons listed in Annex I and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources;
+
+(d) intended exclusively for:
+
+(i) humanitarian purposes, including the operation of flights for the evacuation or repatriation of persons, or for initiatives providing support to victims of natural, nuclear or chemical disasters;
+
+(ii) the operation of flights in the framework of international adoption procedures;
+
+(iii) the operation of flights required for attending meetings with the objective of seeking a solution to the crisis in Belarus or promoting the policy objectives of the restrictive measures; or
+
+(iv) an emergency landing, take-off or overflight by an EU air carrier;
+
+(e) necessary to deal with critical and clearly identified air safety matters and after prior consultation of the European Union Aviation Safety Agency.
+
+2\. By way of derogation from Article 2, the competent authorities in the Member States, as indicated in the websites listed in Annex II, may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources are necessary for extraordinary expenses, provided that the Member State concerned has notified the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least 2 weeks before the authorisation.
+
+3\. Member States shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 or 2.
+
+## Article 3a
+
+1\. By way of derogation from Article 2(1), the competent authorities may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 4
+
+1\. Article 2(2) shall not apply to the addition to frozen accounts of
+
+(a) interest or other earnings on those accounts; or
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the provisions of this Regulation,
+
+provided that any such interest, other earnings and payments continue to be subject to Article 2(1).
+
+2\. Article 2(2) shall not prevent financial or credit institutions in the EU from crediting the frozen accounts, if they receive funds transferred by third parties to the account of the listed person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the competent authorities about such transactions without delay.
+
+## Article 4a
+
+By way of derogation from Article 2(1), where a payment by a natural or legal person, entity or body listed in Annex I  is due under a contract or agreement that was concluded by, or an obligation that arose for the natural or legal person, entity or body concerned before the date on which that person, entity or body had been listed, the competent authorities of the Member States, as indicated on the websites listed in Annex II, may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that:
+
+(i) the competent authority concerned has determined that the payment is not, directly or indirectly, to or for the benefit of a person, entity or body listed in Annex I  ; and
+
+(ii) the Member State concerned has, at least 2 weeks prior to the grant of the authorisation, notified the other Member States and the Commission of that determination and its intention to grant the authorisation.
+
+## Article 4b
+
+By way of derogation from Article 2, the competent authorities in the Member States, as indicated in the websites listed in Annex II, may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources or the making available of certain funds or economic resources, after having determined that the funds or economic resources are necessary for official purposes of diplomatic missions or consular posts or international organisations enjoying immunities in accordance with international law.
+
+## Article 4c
+
+By way of derogation from Article 2, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources belonging to, owned, held or controlled by a natural or legal person, entity or body listed in Annex I, or the provision of services to such a natural or legal person, entity or body, under such conditions as they deem appropriate and after having determined that this is strictly necessary for the setting-up, certification or evaluation of a firewall which:
+
+(a) removes the control by the natural or legal person, entity or body listed in Annex I over the assets of a non-listed legal person, entity or body incorporated or constituted under the law of a Member State and which is owned or controlled by the former; and
+
+(b) ensures that no further funds or economic resources accrue to the benefit of the listed natural or legal person, entity or body.
+
+## Article 4d
+
+1\. By way of derogation from Article 2 of this Regulation, and provided that the funds concerned were frozen as a result of the involvement of a legal person, entity or body listed in Annex I to this Regulation, or of a legal person owned or controlled by a legal person, entity or body listed in that Annex, acting as intermediary bank during a transfer of those funds to the Union from the Republic of Belarus, from a third country or from the Union, the competent authorities of a Member State may, under such conditions as they deem appropriate, authorise the release of certain frozen funds, after having determined that the transfer of such funds is:
+
+(a) between two natural or legal persons, entities or bodies that are not listed in Annex I to this Regulation;
+
+(b) carried out using accounts at credit institutions that are not listed in Annex I to this Regulation; and
+
+(c) not in breach of Article 2(2) or Article 1m of this Regulation.
+
+This paragraph shall not apply in relation to frozen funds or economic resources held by Central securities depositories within the meaning of Regulation (EU) No 909/2014.
+
+2\. By way of derogation from Article 2 of this Regulation, and provided that the payment concerned was frozen as a result of a transfer to the Union from the Republic of Belarus, from a third country or from the Union, initiated through or from a legal person, entity or body listed in Annex I to this Regulation, or through or from a legal person owned or controlled by a legal person, entity or body listed in that Annex, the competent authorities of a Member State may, under such conditions as they deem appropriate, authorise the release of that frozen payment, after having determined that the transfer of that payment is:
+
+(a) between two natural or legal persons, entities or bodies that are not listed in Annex I to this Regulation; and
+
+(b) not in breach of Article 2(2) or Article 1m of this Regulation.
+
+This paragraph shall not apply in relation to frozen funds or economic resources held by Central securities depositories within the meaning of Regulation (EU) No 909/2014.
+
+The beneficiaries of a transfer as referred to in the first subparagraph of this paragraph shall only be nationals of a Member State, of a country member of the European Economic Area or of Switzerland, or natural persons having a temporary or permanent residence permit in a Member State, in a country member of the European Economic Area or in Switzerland.
+
+One authorisation per applicant may be granted under this paragraph.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within one week of the authorisation.
+
+## Article 5
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) immediately supply the competent authorities indicated in the websites listed in Annex II, in the country where they are resident or located, with any information which would facilitate compliance with this Regulation, such as accounts and amounts frozen in accordance with Article 2, and directly or indirectly supply such information to the Commission; and
+
+(b) cooperate with the competent authorities indicated in the websites listed in Annex II in any verification of this information.
+
+2\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 6
+
+The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen as a result of negligence.
+
+## Article 7
+
+1\. The Member States and the Commission shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) authorisations granted under this Regulation;
+
+(b) information received under Article 1z;
+
+(c) violation and enforcement problems, penalties applied for infringements of the provisions of this Regulation and judgments handed down by national courts;
+
+(d) detected instances of breach, circumvention and attempts at breach or circumvention of the prohibitions set out in this Regulation including through the use of crypto-assets.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+2a. The Commission may, in consultation with the Member States and on the basis of reciprocity, exchange with the competent authorities of a country, as listed in Annex Vba, information concerning third-country trade, transactions and operators for the purpose of preventing circumvention of the prohibitions set out in this Regulation, to the extent that it is relevant and necessary for the effective implementation of this Regulation. Where that information contains personal data, the exchange shall be done under the conditions set out in Chapter V of Regulation (EU) 2018/1725.
+
+If, on an exceptional basis, the information referred to in the first subparagraph relates to an operator established in a Member State, the Commission shall obtain the agreement of the competent authorities of the Member States concerned before any exchange of that information.
+
+3\. Any information provided or received in accordance with this Article shall be used for the purposes for which it was provided or received, including ensuring the effectiveness of the measures set out in this Regulation.
+
+4\. Any document held by the Council, the Commission or the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) for the purpose of ensuring the enforcement of the measures set out in this Regulation, or of preventing the violation or circumvention thereof, shall be subject to professional secrecy and shall enjoy the protection afforded by the rules applicable to the Union institutions. That protection shall also apply to the joint proposals from the High Representative and the Commission for the amendment of this Regulation and to any preparatory documents related to them.
+
+It shall be presumed that the disclosure of any documents or proposals referred to in the first subparagraph would harm the security of the Union or that of one or more of its Member States or the conduct of their international relations.
+
+## Article 8
+
+The Commission shall be empowered to amend Annexes II and Vc on the basis of information supplied by Member States.
+
+## Article 8a
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 2(1), it shall amend Annex I  accordingly.
+
+2\. The Council shall communicate its decision, including the grounds for the listing, to the natural or legal person, entity or body referred to in paragraph 1, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body accordingly.
+
+4\. The lists in Annex I  shall be reviewed in regular intervals and at least every 12 months.
+
+## Article 8b
+
+1\. It shall be prohibited for any aircraft operated by Belarusian air carriers, including as a marketing carrier in code-sharing or blocked-space arrangements, to land in, take off from or overfly the territory of the Union.
+
+2\. Paragraph 1 shall not apply in the case of an emergency landing or an emergency overflight.
+
+## Article 8c
+
+1\. By way of derogation from Article 8b, the competent authorities in the Member States as listed in Annex II may authorise an aircraft to land in, take off from or overfly the territory of the Union if those competent authorities have determined that such landing, take-off or overflight is required for humanitarian purposes or any other purpose consistent with the objectives of this Regulation.
+
+2\. The Member State or Member States concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 8ca
+
+1\. The Network Manager for air traffic management network functions of the single European sky shall support the Commission and the Member States in ensuring the implementation of, and compliance with, Articles 2(2) and 8b of this Regulation. The Network Manager shall, in particular, reject all flight plans filed by aircraft operators indicating an intent to carry out activities over the territory of the Union or of Belarus that constitute a violation of this Regulation, such that the pilot is not permitted to fly.
+
+2\. The Network Manager shall regularly supply to the Commission and the Member States, based on the analysis of flight plans, reports on the implementation of Article 8b.
+
+## Article 8d
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) entities referred to in Articles 1j, 1k, 1l and 1zb or listed in Annexes V, IX and XV;
+
+(c) any other Belarussian person, entity or body, including the Belarusian government;
+
+(d) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a), (b) or (c) of this paragraph;
+
+(e) any natural person of a third country who is not a Belarusian national and any legal person, entity or body established in a third country other than Belarus, with the exception of partner countries listed in Annex Vba to this Regulation, selling, supplying, transferring or exporting goods, technology and services, the sale, supply, transfer or export of which is prohibited under this Regulation, whether or not originating in the Union, to the persons, entities or bodies referred to in point (a), (b), (c) or (d) of this paragraph or for use in Belarus.
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
+
+2a. No injunction, order, relief, judgment of a judicial court other than a court of a Member State or other court, arbitral or administrative decision issued in proceedings other than those in the Member States pursuant to or derived from investor-State dispute settlement proceedings against a Member State which could lead to the satisfaction of any claims in connection with measures imposed under this Regulation shall be recognised, given effect or enforced in a Member State if it is invoked by any persons, entities or bodies referred to in paragraph 1, points (a), (b), (c) or (d), or persons, entities or bodies that own or control those persons, entities or bodies.
+
+2b. No request for assistance during an investigation or other proceedings, and no punishment or other penalty based on an injunction, order, relief, judgment of a court other than a court of a Member State or other court, arbitral or administrative decision issued in proceedings other than those in the Member States pursuant to or derived from investor-State dispute settlement proceedings against a Member State in connection with measures imposed under this Regulation shall be recognised, given effect or enforced in a Member State if it is invoked by any persons, entities or bodies referred to in paragraph 1, points (a), (b), (c) or (d), or persons, entities or bodies that own or control those persons, entities or bodies.
+
+3\. This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 8da
+
+1\. By way of derogation from Articles 1bb, 1e, 1f, , 1fd, 1g, 1ga, 1gc, 1s and 1sa the competent authorities may authorise the sale, supply or transfer of goods and technologies listed in Annexes Va, VI, XIV, XVII, XVIII, XX, XXIV and XXV until 31 December 2024, where such sale, supply or transfer is strictly necessary for the divestment from Belarus or the wind-down of business activities in Belarus, provided that the following conditions are fulfilled:
+
+(a) the goods and technologies are owned by a national of a Member State or by a legal person, entity or body which is incorporated or constituted under the law of a Member State or by legal persons, entities or bodies established in Belarus that are owned by, or solely or jointly controlled by, a legal person, entity or body which is incorporated or constituted under the law of a Member State; and
+
+(b) the competent authorities deciding on requests for authorisations have no reasonable grounds to believe that the goods and technologies might be for a military end-user or have a military end-use in Belarus; and
+
+(c) the goods and technologies concerned were physically located in Belarus before the relevant prohibitions in Articles 1bb, 1e, 1f, 1fd, 1g, 1ga, 1gc, 1s and 1sa entered into force in respect of those goods and technologies.
+
+2\. By way of derogation from Article 1h, as far as mineral products are concerned, and from Articles 1o, 1p, 1q, 1r, 1ra and 1rb, the competent authorities may authorise the import or transfer of goods listed in Annexes VII, X, XI, XII, XIII, XXI, XXII and XXVII until 31 December 2024, where such import or transfer is strictly necessary for the divestment from Belarus or the wind-down of business activities in Belarus, provided that the following conditions are fulfilled:
+
+(a) the goods are owned by a national of a Member State or by a legal person, entity or body which is incorporated or constituted under the law of a Member State or by legal persons, entities or bodies established in Belarus that are owned by, or solely or jointly controlled by, a legal person, entity or body which is incorporated or constituted under the law of a Member State; and
+
+(b) the goods concerned were physically located in Belarus before the relevant prohibitions in Article 1h, as far as mineral products are concerned, or in Articles 1o, 1p, 1q, 1r, 1ra and 1rb, entered into force in respect of those goods.
+
+3\. By way of derogation from Article 1jc, the competent authorities may authorise the continuation of the provision of services listed therein until 31 December 2024 where such provision of services is strictly necessary for the divestment from Belarus or the wind-down of business activities in Belarus, provided that the following conditions are fulfilled:
+
+(a) such services are provided to and for the exclusive benefit of the legal persons, entities or bodies resulting from the divestment; and
+
+(b) the competent authorities deciding on requests for authorisations have no reasonable grounds to believe that the services might be provided, directly or indirectly, to the Government of Belarus or a military end-user or have a military end-use in Belarus;
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 1, 2 and 3 within 2 weeks of the authorisation.
+
+5\. All authorisations referred to in paragraph 1 with respect to goods and technologies listed in Annex Va to this Regulation and in Annex I to Regulation (EU) 2021/821 shall be issued by electronic means, whenever possible, on forms containing at least all the elements of, and in the order provided for in, the model C set out in Annex Vc to this Regulation.
+
+## Article 8e
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) shall process personal data that are necessary to carry out their tasks under this Regulation. Those tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both publicly available;
+
+(ii) processing information related to its contribution to the correct implementation, enforcement and prevention of the circumvention of the measures imposed under this Regulation.
+
+1a. The Commission shall process personal data, including special categories of personal data and personal data relating to criminal convictions and offences as defined in Article 10(2) and Article 11 of Regulation (EU) 2018/1725, for the purposes of the identification of the natural or legal persons, entities or bodies that are subject to the restrictive measures provided for in this Regulation, in order to assist the persons referred to in Article 10 of this Regulation in their compliance with this Regulation.
+
+2\. The Council, the Commission and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission and the High Representative are designated as ‘controller’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 12 ), in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+4\. The competent authorities of the Member States, including enforcement authorities, customs authorities within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 13 ), competent authorities within the meaning of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 14 ), Directive (EU) 2015/849 of the European Parliament and of the Council ( 15 ), and Directive 2014/65/EU, as well as Financial Intelligence Units as referred to in Directive (EU) 2015/849, and administrators of official registers wherein natural persons, legal persons, entities and bodies, as well as immovable or movable property, are registered, shall process and exchange without delay information, including personal data and, if necessary, the information referred to in Article 8j, with other competent authorities of their Member State, with competent authorities of other Member States and with the Commission, if such processing and exchange is necessary to carry out the tasks of the processing authority or the receiving authority under this Regulation, in particular when they detect instances of breach, circumvention or attempts at breach or circumvention of the prohibitions set out in this Regulation. This provision is without prejudice to rules regarding the confidentiality of information held by judicial authorities.
+
+## Article 8f
+
+1\. For the purposes of the prohibitions on importing goods provided for in this Regulation, goods physically in the Union may be released as provided for in Article 5, point (26), of the Union Customs Code, by the customs authorities provided that they have been presented to customs in accordance with Article 134 of the Union Customs Code before the entry into force or applicability date of the respective import prohibitions, whichever is latest.
+
+2\. All procedural steps necessary for the release referred to in paragraphs 1 and 5 of the relevant goods pursuant to the Union Customs Code shall be allowed.
+
+3\. The customs authorities shall not allow the release of the goods if they have reasonable grounds to suspect circumvention and shall not authorise the re-export of the goods to Belarus.
+
+4\. Payments in relation to such goods shall be consistent with the provisions and objectives of this Regulation, in particular the prohibition on purchasing.
+
+5\. Goods physically in the Union and presented to customs prior to 1 July 2024 which were stopped in application of this Regulation may be released by the customs authorities under the conditions provided for in paragraphs 1 to 4.
+
+## Article 8g
+
+1\. When selling, supplying, transferring or exporting to a third country, with the exception of countries listed in Annex Vba to this Regulation, goods or technology as listed in Annexes XVI, XVII and XXVIII to this Regulation, common high priority items as listed in Annex XXX to this Regulation, or firearms and ammunition as listed in Annex I to Regulation (EU) No 258/2012, exporters shall contractually prohibit re-exportation to Belarus and re-exportation for use in Belarus.
+
+2\. Paragraph 1 shall not apply to:
+
+(a) the execution of contracts relating to goods falling under CN codes 8457 10, 8458 11, 8458 91, 8459 61, 8466 93, as listed in Annex XXX;
+
+(b) the execution of contracts concluded before 1 July 2024 until their expiry date.
+
+3\. Paragraph 1 shall not apply to public contracts concluded with a public authority in a third country or with an international organisation.
+
+4\. Exporters shall inform the competent authority of the Member State where they are resident or established of any public contract they concluded that benefited from the exemption under paragraph 3, within 2 weeks of its conclusion. The Member State concerned shall inform the other Member States and the Commission of any information received under this paragraph within 2 weeks of its receipt.
+
+5\. In application of paragraph 1, exporters shall ensure that the agreement with the third-country counterpart contains adequate remedies in the event of a breach of a contractual obligation concluded in accordance with paragraph 1.
+
+6\. If the third-country counterpart breaches any of the contractual obligations concluded in accordance with paragraph 1, exporters shall inform the competent authority of the Member State where they are resident or established as soon as they become aware of the breach.
+
+7\. Member States shall inform each other and the Commission of detected instances of a breach or circumvention of a contractual obligation concluded in accordance with paragraph 1.
+
+## Article 8ga
+
+1\. Natural and legal persons, entities and bodies that sell, supply, transfer or export common high priority items as listed in Annex XXX or goods as listed in Annex XXXI shall:
+
+(a) take appropriate steps, proportionately to their nature and size, to identify and assess the risks of exportation to Belarus and exportation for use in Belarus for such goods or technology, and ensure that those risk assessments are documented and kept up-to-date;
+
+(b) implement appropriate policies, controls and procedures, proportionately to their nature and size, to mitigate and manage effectively the risks of exportation to Belarus and exportation for use in Belarus for such goods or technology, whether those risks were identified at their level or at the level of the Member State or of the Union.
+
+1a. Paragraph 1 shall apply as of 2 January 2025 with regard to Annex XXX and as of 26 May 2025 with regard to Annex XXXI.
+
+2\. Paragraph 1 shall not apply to natural and legal persons, entities and bodies that sell, supply or transfer common high priority items as listed in Annex XXX or goods as listed in Annex XXXI only within the Union or to countries listed in Annex Vba.
+
+3\. Natural and legal persons, entities and bodies shall ensure that any legal person, entity or body established outside the Union that they own or control and that sells, supplies, transfers or exports common high priority items as listed in Annex XXX or goods as listed in Annex XXXI implements the requirements in points (a) and (b) of paragraph 1.
+
+3a. Paragraph 3 shall apply as of 2 January 2025 with regard to Annex XXX and as of 26 May 2025 with regard to Annex XXXI.
+
+4\. Paragraph 3 shall not apply where, due to reasons that it did not cause itself, a natural or legal person, entity or body is not able to exercise control over the legal person, entity or body that it owns.
+
+## Article 8h
+
+1\. Any person referred to in the third or fourth indent of Article 10 shall be entitled to recover, in judicial proceedings before the competent courts of a Member State, any direct or indirect damages, including legal costs, incurred by that person, or by a legal person, entity or body that the person referred to in the fourth indent of Article 10 owns or controls, as a consequence of claims lodged with courts in third countries by persons, entities and bodies referred to in Article 8d(1), point (a), (b), (c), (d) or (e), in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, provided that the person concerned does not have effective access to the remedies under the relevant jurisdiction. Such damages may be recovered from the persons, entities or bodies referred to in Article 8d(1), point (a), (b), (c), (d) or (e), that lodged the claims with the courts in the third country, or from persons, entities or bodies that own or control those entities or bodies.
+
+2\. Without prejudice to paragraph 1, any person referred to in the third or fourth indent of Article 10 shall be entitled to recover, in judicial proceedings before the competent courts of a Member State, any direct or indirect damages, including legal costs, incurred by that person or by a legal person, entity or body that the person referred to in the fourth indent of Article 10 owns or controls, as a consequence of injunctions, orders, reliefs, judgments or other judicial or administrative decisions rendered in third countries other than Belarus, which seek to enforce judgments upholding claims referred to in paragraph 1, provided that the person concerned does not have effective access to the remedies under the relevant jurisdiction. Such damages may be recovered from the persons, entities or bodies that seek or cooperate in the enforcement of judgments upholding claims referred to in paragraph 1 in a third country other than Belarus or from persons, entities or bodies that own or control those entities or bodies, with the exception of their lawyers and of members of the judiciary, and with the exception of persons referred to in the third or fourth indent of Article 10 or legal persons, entities or bodies that the persons referred to in the fourth indent of Article 10 own or control, against whom a judgment upholding claims referred to in paragraph 1 has been issued.
+
+## Article 8i
+
+Natural and legal persons, entities and bodies shall undertake their best efforts to ensure that any legal person, entity or body established outside the Union that they own or control does not participate in activities that undermine the restrictive measures provided for in this Regulation.
+
+## Article 8j
+
+1\. Consistent with respect for the confidentiality of communications between lawyers and their clients guaranteed in Article 7 of the Charter of Fundamental Rights of the European Union and, where applicable, without prejudice to rules regarding the confidentiality of information held by judicial authorities, natural and legal persons, entities and bodies shall:
+
+(a) supply any information which would facilitate the implementation of this Regulation to the competent authority of the Member State where they are resident or located within two weeks of acquiring this information; and
+
+(b) cooperate with the competent authority in any verification of such information.
+
+2\. For the purposes of paragraph 1, the confidentiality of communications between lawyers and their clients shall include the confidentiality of communications relating to legal advice provided by other certified professionals who are authorised under national law to represent their clients in judicial proceedings, insofar as such legal advice is provided in connection with pending or prospective judicial proceedings.
+
+3\. The Member State concerned shall transmit to the Commission any relevant information received pursuant to paragraph 1 within one month of receiving it. The Member State concerned may transmit such information in an anonymised form if an investigating or judicial authority has declared it to be confidential in the context of pending criminal investigations or criminal judicial proceedings.
+
+4\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+5\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 8k
+
+Where no court of a Member State has jurisdiction pursuant to other provisions of Union or Member State law, a court of a Member State may, on an exceptional basis, hear a claim for damages brought pursuant to Article 8h or Article 8l, provided that the case has a sufficient connection with the Member State of the court seised.
+
+## Article 8l
+
+Any Member State shall, where applicable, take any appropriate measures to recover or be entitled to recover, in judicial proceedings before the competent courts of a Member State, any direct or indirect damages, including legal costs, incurred by that Member State as a consequence of investor-State dispute settlement proceedings brought against a Member State in connection with measures imposed under this Regulation. The Member State shall, where applicable, be entitled to recover such damages from any persons, entities or bodies referred to in Article 8d(1), points (a), (b), (c) or (d), which initiated, intervened or participated in the investor-State dispute settlement or which seek to enforce any award, decision or judgment related to the investor-State dispute settlement and persons, entities or bodies that own or control any of those persons, entities or bodies.
+
+Where applicable, the Union shall be entitled to recover any damages incurred by it under the same conditions.
+
+## Article 8m
+
+Member States shall raise any available objection to the recognition and enforcement of arbitral awards that were rendered against them in investor-State dispute settlement proceedings in connection with measures imposed under this Regulation.
+
+## Article 9
+
+1\. Member States shall lay down the rules on penalties, including as appropriate criminal penalties, applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive, and may take the voluntary self-disclosure of infringements of the provisions of this Regulation into account as a mitigating factor, in accordance with the respective national law. Member States shall also provide for appropriate measures of confiscation of the proceeds of such infringements.
+
+2\. Member States shall notify these rules to the Commission without delay after entry into force of the Regulation and shall notify it of any subsequent amendment.
+
+## Article 9a
+
+1\. Member States shall designate the competent authorities referred to in Articles 3, 4(2) and 5 and identify them in the websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities and the contact details thereof by 31 July 2008 and shall notify it of any subsequent amendment without delay.
+
+## Article 9b
+
+Where there is, in this Regulation, a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 10
+
+This Regulation shall apply:
+
+— within the territory of the Community, including its airspace,
+
+— on board any aircraft or any vessel under the jurisdiction of a Member State,
+
+— to any natural person inside or outside the territory of the Community who is a national of a Member State,
+
+— to any legal person, entity or body which is incorporated or constituted under the law of a Member State,
+
+— to any legal person, entity or body in respect of any business done in whole or in part within the Community.
+
+## Article 11
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+List of natural and legal persons, entities and bodies referred to in Article 2(1)
+
+**A. Natural persons referred to in Article 2(1)**
+
+<table>
+<tbody><tr><td>  </td><td>Names (Transliteration of Belarusian spelling) (Transliteration of Russian spelling) </td><td>Names (Belarusian spelling)  (Russian spelling) </td><td>Identifying information</td><td>Reasons for listing</td><td>Date of listing</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>Uladzimir Uladzimiravich NAVUMAU Vladimir Vladimirovich NAUMOV </td><td>Уладзімір Уладзіміравіч НАВУМАЎ Владимир Владимирович НАУМОВ </td><td>Position(s): former Minister of Internal Affairs; former Head of the President’s Security Service DOB: 7.2.1956  POB: Smolensk, former USSR (now Russian Federation)  Gender: male </td><td>Failed to take action to investigate the case of the unresolved disappearances of Yuri Zakharenko, Viktor Gonchar, Anatoly Krasovski and Dmitri Zavadski in Belarus in 1999-2000. Former Minister of Internal Affairs and also former Head of the President’s Security Service. As a Minister of Internal Affairs he was responsible for the repression of peaceful demonstrations until his retirement on 6 April 2009 for health reasons. Received a residence in the Drozdy nomenklatura district in Minsk from the Presidential Administration. In October 2014, was awarded the Order ‘For Merit’ III degree by President Lukashenka. Since November 2023, Vladimir Naumov has been the owner of a 75 % stake in the company Zorka Food. Zorka Food is registered in Moscow and operates in the Russia-occupied Donetsk region and in the city of Mariupol in Ukraine, exporting grain and feed through the port of Mariupol, supporting Belarus’ involvement in the Russian war of aggression against Ukraine. He is therefore supporting the Lukashenka regime. </td><td>24.9.2004</td></tr>
+<tr><td>2.</td><td>Dzmitry Valerievich PAULICHENKA Dmitri Valerievich PAVLICHENKO (Dmitriy Valeriyevich PAVLICHENKO) </td><td>Дзмiтрый Валер’евiч ПАЎЛIЧЭНКА Дмитрий Валериевич ПАВЛИЧЕНКО </td><td>Position(s): Former Commander of the Special Rapid Response Unit (SOBR); Commander of an OMON unit DOB: 1966  POB: Vitebsk/Viciebsk, former USSR (now Belarus)  Address: Belarusian Association of Veterans of Special Forces of the Ministry of Internal Affairs ‘Honour’, 111 Mayakovskogo St., 220028 Minsk, Belarus  Gender: male </td><td>Key person in the unresolved disappearances of Yuri Zakharenko, Viktor Gonchar, Anatoly Krasovski and Dmitri Zavadski in Belarus in 1999-2000. Former Commander of the Special Rapid Response Unit (SOBR) at the Ministry of Internal Affairs (MoIA). Businessman, Head of ‘Honour’, the MoIA’s Association of Veterans of Special Forces of the MoIA.  He was identified as commanding an OMON unit during the brutal crackdown on protesters that took place in Belarus in the wake of the 2020 presidential election. Dzmitry Paulichenka promoted Lukashenka ahead of the February 2025 presidential election in Belarus. He is therefore supporting the Lukashenka regime. </td><td>24.9.2004</td></tr>
+<tr><td>3.</td><td>Viktar Uladzimiravich SHEIMAN (Viktar Uladzimiravich SHEYMAN) Viktor Vladimirovich SHEIMAN (Viktor Vladimirovich SHEYMAN) </td><td>Вiктар Уладзiмiравiч ШЭЙМАН Виктор Владимирович ШЕЙМАН </td><td>Position(s): Former Head of the Belarus President Property Management Directorate; Co-head of ‘Vector Capital Group’; Presidential envoy DOB: 26.5.1958  POB: Soltanishki, Grodno/Hrodna Region/Oblast, former USSR (now Belarus)  Address: Belarus President Property Management Directorate, 38 Karl Marx St., 220016 Minsk, Belarus  Gender: male  Rank: Colonel-General </td><td>Former Head of the Belarus President Property Management Directorate. Responsible for the unresolved disappearances of Yuri Zakharenko, Viktor Gonchar, Anatoly Krasovski and Dmitri Zavadski in Belarus in 1999-2000. Former Secretary of the Security Council. Sheiman remains active in the Lukashenka regime by serving as a Special Assistant/Aide to the President and as Lukashenka’s special envoy for engagement with Africa. Moreover, Viktar Sheiman co-heads the enterprise ‘Vector Capital Group’, which oversees a company involved in drone manufacturing.  He is therefore supporting the Lukashenka regime and the military and industrial complex of Belarus by being involved in the production of military technology and equipment. </td><td>24.9.2004</td></tr>
+<tr><td>4.</td><td>Iury Leanidavich SIVAKAU (Yuri Leanidavich SIVAKAU, SIVAKOU) Iury (Yuri) Leonidovich SIVAKOV </td><td>Юрый Леанідавіч СIВАКАЎ, СIВАКОЎ Юрий Леонидович СИВАКОВ </td><td>Position(s): former Minister of Internal Affairs; former Deputy Head of the Presidential Administration; Associate Professor at the Internal Affairs Academy and faculty of the Belarusian State University (Department of Law) DOB: 5.8.1946  POB: Onor, Sakhalin Region/Oblast, former USSR (now Russian Federation)  Address: Belarusian Association of Veterans of Special Forces of the Ministry of Internal Affairs ‘Honour’, 111 Mayakovskogo St., Minsk 220028, Belarus  Gender: male </td><td>Orchestrated the unresolved disappearances of Yuri Zakharenko, Viktor Gonchar, Anatoly Krasovski and Dmitri Zavadski in Belarus in 1999-2000. Former Minister of Tourism and Sports, former Minister of Internal Affairs and former Deputy Head of the Presidential Administration.</td><td>24.9.2004</td></tr>
+<tr><td>5.</td><td>Yuri Khadzimuratavich KARAEU Yuri Khadzimuratovich KARAEV </td><td>Юрый Хаджымуратавіч КАРАЕЎ Юрий Хаджимуратович КАРАЕВ </td><td>Position(s): Former Minister of Internal Affairs; Lieutenant General of Militia (police force); Aide to the President of the Republic of Belarus - Inspector for the Grodno/Hrodna Region/Oblast; Chairman of the Grodno Regional Executive Committee DOB: 21.6.1966  POB: Ordzhonikidze, former USSR (now Vladikavkaz, Russian Federation)  Gender: male </td><td>In his former leadership position as Minister of Internal Affairs (MoIA), he is responsible for the repression and intimidation campaign led by MoIA forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. Remains active in the Lukashenka regime as an aide to the President of Belarus – Inspector for the Grodno/Hrodna Region/Oblast, and as the Chairman of the Grodno Regional Executive Committee. He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td>6.</td><td>Genadz Arkadzievich KAZAKEVICH Gennadi Arkadievich KAZAKEVICH </td><td>Генадзь Аркадзьевіч КАЗАКЕВIЧ Геннадий Аркадьевич КАЗАКЕВИЧ </td><td>Position(s): Former First Deputy Minister of Internal Affairs; Deputy Minister of Internal Affairs – Chief of the Criminal Militia, Colonel of Militia (police force) DOB: 14.2.1975  POB: Minsk, former USSR (now Belarus)  Gender: male  Rank: Major General of the Militia </td><td>In his former leadership position as First Deputy Minister of Internal Affairs (MoIA), he is responsible for the repression and intimidation campaign led by MoIA forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as the Deputy Minister of Internal Affairs. He retains his post of Chief of the Criminal Militia. </td><td>2.10.2020</td></tr>
+<tr><td>7.</td><td>Aliaksandr Piatrovich BARSUKOU Alexander (Alexandr) Petrovich BARSUKOV </td><td>Аляксандр Пятровіч БАРСУКОЎ Александр Петрович БАРСУКОВ </td><td>Position(s): Former Deputy Minister Internal Affairs; Lieutenant-General of Militia (police force); Aide to the President of the Republic of Belarus - Inspector for the Minsk Region/Oblast; Member of the House of Representatives of the National Assembly of Belarus DOB: 29.4.1965  POB: Vetkovski (Vetka) District, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as Deputy Minister of Internal Affairs (MoIA), he is responsible for the repression and intimidation campaign led by MoIA forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as Aide to the President of Belarus – Inspector for the Minsk Region/Oblast, and as a member of the House of Representatives of the National Assembly of Belarus.  He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td>8.</td><td>Siarhei Mikalaevich KHAMENKA Sergei Nikolaevich KHOMENKO </td><td>Сяргей Мiкалаевiч ХАМЕНКА Сергей Николаевич ХОМЕНКО </td><td>Position(s): Former Deputy Minister of Internal Affairs; Major-General of Militia (police force); Former Minister of Justice; Deputy Chairperson of the Council of the Republic of Belarus DOB: 21.9.1966  POB: Yasinovataya, former USSR (now Ukraine)  Gender: male </td><td>In his former leadership position as Deputy Minister of the Ministry of Internal Affairs (MoIA), he was responsible for the repression and intimidation campaign led by MoIA forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as Deputy Chairperson of the Council of the Republic of Belarus.  He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Yuri Genadzevich NAZARANKA Yuri Gennadievich NAZARENKO </td><td>Юрый Генадзевіч НАЗАРАНКА Юрий Геннадьевич НАЗАРЕНКО </td><td>Position(s): Former Deputy Minister of Internal Affairs, Former Commander of the Internal Troops; First Deputy Minister of Internal Affairs, Head of the Public Security Police, Major General of Militia (police force)  DOB: 17.4.1976  POB: Slonim, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as Deputy Minister of the Ministry of Internal Affairs (MoIA) and Commander of the MoIA Internal Troops, he is responsible for the repression and intimidation campaign led by MoIA forces, in particular the Internal Troops under his command, in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as first Deputy Minister of Internal Affairs and Head of the Public Security Police. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>10.</td><td>Khazalbek Baktibekavich ATABEKAU Khazalbek Bakhtibekovich ATABEKOV </td><td>Хазалбек Бактiбекавiч АТАБЕКАЎ Хазалбек Бахтибекович АТАБЕКОВ </td><td>Position(s): Former Deputy Commander of the Internal Troops DOB: 18.3.1967  Gender: male </td><td>In his former position as Deputy Commander of the Internal Troops of the Ministry of Internal Affairs (MoIA), he was responsible for the repression and intimidation campaign led by MoIA forces, in particular the Internal Troops under his command, in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators, as well as intimidation and violence against journalists. He was passed to the military reserve in March 2022 by the decree of Aliaksandr Lukashenka. He has the right to wear military uniform and insignia. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.</td><td>Aliaksandr Valerievich BYKAU Alexander (Alexandr) Valerievich BYKOV </td><td>Аляксандр Валер’евiч БЫКАЎ Александр Валерьевич БЫКОВ </td><td>Position(s): First Deputy Commander of the Interior Troops, former Commander of the Special Rapid Response Unit (SOBR), Lieutenant Colonel Gender: male  Rank: Major General </td><td>In his former position as Commander of the Special Rapid Response Unit (SOBR) of the Ministry of Internal Affairs, he was responsible for the repression and intimidation campaign led by SOBR forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators. He remains active in the Lukashenka regime as First Deputy Commander of the Interior Troops. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>12.</td><td>Aliaksandr Sviataslavavich SHEPELEU Alexander (Alexandr) Svyatoslavovich SHEPELEV </td><td>Аляксандр Святаслававіч ШЭПЕЛЕЎ Александр Святославович ШЕПЕЛЕВ </td><td>Position(s): Head of the Department for Safety and Security, Ministry of Internal Affairs DOB: 14.10.1975  POB: village of Rublevsk, Kruglyanskiy district, Mogilev/Mahiliou Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his senior position as Head of the Department for Safety and Security in the Ministry of Internal Affairs (MoIA), he is involved in the repression and intimidation campaign led by MoIA forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.</td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>13.</td><td>Dzmitry Uladzimiravich BALABA Dmitry Vladimirovich BALABA </td><td>Дзмітрый Уладзіміравіч БАЛАБА Дмитрий Владимирович БАЛАБА </td><td>Position(s): Former Head of OMON (‘Special Purpose Police Detachment’) for the Minsk City Executive Committee; Chairman of the Central Council of the Belarusian Physical Culture and Sports Society Dynamo DOB: 1.6.1972  POB: village of Gorodilovo, Minsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his command position over OMON forces in Minsk, he is responsible for the repression and intimidation campaign led by OMON forces in Minsk in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.</td><td>2.10.2020</td></tr>
+<tr><td>14.</td><td>Ivan Uladzimiravich KUBRAKOU Ivan Vladimirovich KUBRAKOV </td><td>Iван Уладзіміравіч КУБРАКОЎ Иван Владимирович КУБРАКОВ </td><td>Position(s): Former Head of the Main Internal Affairs Directorate of the Minsk City Executive Committee; Minister of Internal Affairs, Major General of Militia (police force) DOB: 5.5.1975  POB: village of Malinovka, Mogilev/Mahiliou Region/Oblast, former USSR (now Belarus)  Gender: male  Rank: Lieutenant General </td><td>In his former position as Head of the Main Internal Affairs Directorate of the Minsk City Executive Committee, he is responsible for the repression and intimidation campaign led by police forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as the Minister of Internal Affairs. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>15.</td><td>Maxim Aliaksandravich GAMOLA (HAMOLA) Maxim Alexandrovich GAMOLA </td><td>Максім Аляксандравіч ГАМОЛА Максим Александрович ГАМОЛА </td><td>Position(s): Former Head of the Police Department in Moskovski District, Minsk; Deputy head of the Minsk City Police Department, Head of Criminal Police  Gender: male </td><td>In his former position as Head of the Police Department in Moskovski District, Minsk, he is responsible for the repression and intimidation campaign in that district against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as Deputy Head of the Minsk City Police Department and Head of Criminal Police. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>16.</td><td>Aliaksandr Mikhailavich ALIASHKEVICH Alexander Mikhailovich ALESHKEVICH </td><td>Аляксандр Мiхайлавiч АЛЯШКЕВIЧ Александр Михайлович АЛЕШКЕВИЧ </td><td>Position(s): Former First Deputy Head of the District Department of Internal Affairs in Moskovsky District, Minsk, Head of Criminal Police Head of the District Department of Internal Affairs in Leninsky District, Minsk  Gender: male </td><td>In his former position as First Deputy Head of the District Department of Internal Affairs in Moskovsky District, Minsk, and Head of Criminal Police, he was responsible for the repression and intimidation campaign in that district against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as Head of the District Department of Internal Affairs in Leninsky District, Minsk. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>17.</td><td>Andrei Vasilievich GALENKA Andrey Vasilievich GALENKA </td><td>Андрэй Васiльевiч ГАЛЕНКА Андрей Васильевич ГАЛЕНКА </td><td>Position(s): First Deputy Head of the District Department of Internal Affairs in Moskovski District, Minsk, Head of Public Safety Police Gender: male </td><td>In his former position as Deputy Head of the District Department of Internal Affairs in Moskovski District, Minsk and Head of Public Safety Police, he was responsible for the repression and intimidation campaign in that district against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime and is serving as the First Deputy Head of the District Department of Internal Affairs in Moskovski District, Minsk, Head of Public Safety Police. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>18.</td><td>Aliaksandr Paulavich VASILIEU Alexander Pavlovich VASILIEV </td><td>Аляксандр Паўлавiч ВАСIЛЬЕЎ Александр Павлович ВАСИЛЬЕВ </td><td>Position(s): Former Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee; Former Head of the Academy of the Ministry of Internal Affairs; Representative of the Council of Ministers of Internal Affairs to the CIS Executive Committee DOB: 24.3.1975  POB: Mahiliou/Mogilev, former USSR (now Belarus)  Gender: male </td><td>In his former position as Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, he was responsible for the repression and intimidation campaign in that region/oblast against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as the Representative of the Council of Ministers of Internal Affairs to the CIS Executive Committee. He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td>19.</td><td>Aleh Mikalaevich SHULIAKOUSKI Oleg Nikolaevich SHULIAKOVSKI </td><td>Алег Мiкалаевiч ШУЛЯКОЎСКI Олег Николаевич ШУЛЯКОВСКИЙ </td><td>Position(s): Former First Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, Head of Criminal Police; Head of the Department of Internal Affairs of the Brest Region/Oblast Executive Committee DOB: 26.7.1977  Gender: male  Rank: Major General </td><td>In his former position as First Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee and Head of Criminal Police, he was responsible for the repression and intimidation campaign in that region/oblast against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as Head of the Department of Internal Affairs of the Brest Region/Oblast Executive Committee. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>20.</td><td>Anatol Anatolievich VASILIEU Anatoli Anatolievich VASILIEV </td><td>Анатоль Анатольевiч ВАСIЛЬЕЎ Анатолий Анатольевич ВАСИЛЬЕВ </td><td>Position(s): First Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, Head of Public Safety Police Former Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, Head of Public Safety Police, Former Deputy Chairman of the Investigative Committee  DOB: 26.1.1972  POB: Gomel/Homyel, Gomel/Homyel Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former position as Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee and Head of Public Safety Police, he was responsible for the repression and intimidation campaign in that region/oblast against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as First Deputy Head of the Department of Internal Affairs of Gomel/Homyel Region/Oblast Executive Committee, Head of Public Safety Police. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>Aliaksandr Viachaslavavich ASTREIKA Alexander Viacheslavovich ASTREIKO </td><td>Аляксандр Вячаслававiч АСТРЭЙКА Александр Вячеславович АСТРЕЙКО </td><td>Position(s): Former Head of the Department of Internal Affairs of Brest Region/Oblast Executive Committee, Major-General of Militia (police force); Former Head of the Department of Internal Affairs of the Minsk Region/Oblast Executive Committee; Head of the Academy of the Ministry of Internal Affairs DOB: 22.12.1971  POB: Kapyl, former USSR (now Belarus)  Gender: male  Rank: Major General of Militia </td><td>In his former position as Head of the Department of Internal Affairs of Brest Region/Oblast Executive Committee and Major-General of Militia, he was responsible for the repression and intimidation campaign in that region/oblast against peaceful protesters in the wake of the 2020 presidential election, in particular arbitrary arrests, excessive use of force and ill-treatment, including torture. He remains active in the Lukashenka regime as Head of the Academy of the Ministry of Internal Affairs.  He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td>22.</td><td>Leanid Viachaslavavich ZHURAUSKI Leonid Vyacheslavovich ZHURAVSKI </td><td>Леанiд Вячаслававіч ЖУРАЎСКI Леонид Вячеславович ЖУРАВСКИЙ </td><td>Position(s): Former Head of OMON (‘Special Purpose Police Detachment’) in Vitebsk/Viciebsk; First Deputy Commander of OMON at the Minsk City Executive Committee’s Internal Affairs Department DOB: 20.9.1975  Gender: male  Rank: Colonel of Militia </td><td>In his former command position over OMON forces in Vitebsk/Viciebsk, he was responsible for the repression and intimidation campaign led by OMON forces in Vitebsk/Viciebsk in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators.</td><td>2.10.2020</td></tr>
+<tr><td>23.</td><td>Mikhail Aliaksandravich DAMARNACKI Mikhail Aleksandrovich DOMARNATSKY </td><td>Міхаіл Аляксандравіч ДАМАРНАЦКI Михаил Александрович ДОМАРНАЦКИЙ </td><td>Position(s): Former Head of OMON (‘Special Purpose Police Detachment’) in Gomel/Homyel; Deputy Head of OMON at Minsk City Executive Committee’s Internal Affairs Department Gender: male  Rank: Colonel of Militia </td><td>In his command position over OMON forces in Gomel/Homyel, he is responsible for the repression and intimidation campaign led by OMON forces in Gomel/Homyel in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators.</td><td>2.10.2020</td></tr>
+<tr><td>24.</td><td>Maxim Yakaulevich MIKHOVICH Maxim Yakovlevich MIKHOVICH </td><td>Максім Якаўлевіч МIХОВIЧ Максим Яковлевич МИХОВИЧ </td><td>Position(s): Head of the Penal Correction Department in the Ministry of Internal Affairs, Major-General of Militia (police force) Gender: male  DOB: 25.11.1974 </td><td>In his command position over OMON forces in Brest, he is responsible for the repression and intimidation campaign led by OMON forces in Brest in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment of peaceful demonstrators.</td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>25.</td><td>Aleh Uladzimiravich MATKIN Oleg Vladimirovitch MATKIN </td><td>Алег Уладзіміравіч МАТКІН Олег Владимирович МАТКИН </td><td>Position(s): Head of the Penal Correction Department in the Ministry of Internal Affairs, Major-General of Militia (police force) Gender: male </td><td>In his position as Head of the Penal Correction Department that has authority over the detention facilities of the Ministry of Internal Affairs, he is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained in those detention facilities in the wake of the 2020 presidential election and for the general brutal crackdown on peaceful protesters.</td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>26.</td><td>Ivan Yurievich SAKALOUSKI Ivan Yurievich SOKOLOVSKI </td><td>Iван Юр’евіч САКАЛОЎСКI Иван Юрьевич СОКОЛОВСКИЙ </td><td>Position(s): Former Director of the Akrestina detention centre, Minsk; Head of the Supervisory and Enforcement Department of the Minsk City Executive Committee’s Main Directorate of Internal Affairs DOB: 17.11.1979  Gender: male  Rank: Colonel of Militia </td><td>In his capacity as Director of the Akrestina detention centre in Minsk, Ivan Sakalouski is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained in that detention centre in the wake of the 2020 presidential election.</td><td>2.10.2020</td></tr>
+<tr><td>27.</td><td>Valeri Paulavich VAKULCHYK Valery Pavlovich VAKULCHIK </td><td>Валерый Паўлавіч ВАКУЛЬЧЫК Валерий Павлович ВАКУЛЬЧИК </td><td>Position(s): Former Chairman of the State Security Committee (KGB); Former State Secretary of the Security Council; Former Aide to the President of the Republic of Belarus – Inspector for the Brest Region/Oblast; Head of the Council of Ministers Office DOB: 19.6.1964  POB: Radostovo, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as Chairman of the State Security Committee (KGB), he was responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members. He remains active in the Lukashenka regime as Head of the Council of Ministers Office.  He is therefore supporting the Lukashenka regime and is responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td>28.</td><td>Siarhei Yaugenavich TSERABAU Sergey Evgenievich TEREBOV </td><td>Сяргей Яўгенавіч ЦЕРАБАЎ Сергей Евгеньевич ТЕРЕБОВ </td><td>Position(s): First Deputy Chairman of the State Security Committee (KGB) DOB: 1972  POB: Borisov/Barisaw, former USSR (now Belarus)  Gender: male  Rank: Major General </td><td>In his leadership position as First Deputy Chairman of the State Security Committee (KGB), he is responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members.</td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>29.</td><td>Dzmitry Vasilievich RAVUTSKI Dmitry Vasilievich REUTSKY </td><td>Дзмітрый Васільевіч РАВУЦКІ Дмитрий Васильевич РЕУЦКИЙ </td><td>Position(s): Deputy Chairman of the State Security Committee (KGB) Gender: male </td><td>In his leadership position as Deputy Chairman of the State Security Committee (KGB), he is responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members.</td><td>2.10.2020</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>31.</td><td>Alieg Anatolevich CHARNYSHOU Oleg Anatolievich CHERNYSHEV </td><td>Алег Анатольевiч ЧАРНЫШОЎ Олег Анатольевич ЧЕРНЫШЁВ </td><td>Position(s): Former Deputy Chairman of the State Security Committee (KGB) Deputy Chairman of the Presidium of the National Academy of Sciences  Gender: male  Rank: Major-General </td><td>In his former leadership position as Deputy Chairman of the State Security Committee (KGB), he was responsible for the participation of the KGB in the repression and intimidation campaign in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators and opposition members. He remains active in the Lukashenka regime as Deputy Chairman of the Presidium of the National Academy of Sciences. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>32.</td><td>Aliaksandr Uladzimiravich KANYUK Alexander (Alexandr) Vladimirovich KONYUK </td><td>Аляксандр Уладзіміравіч КАНЮК Александр Владимирович КОНЮК </td><td>Position(s): Former Prosecutor General of the Republic of Belarus; Former Ambassador of the Republic of Belarus to Armenia DOB: 11.7.1960  POB: Grodno/Hrodna, former USSR (now Belarus)  Gender: male </td><td>In his former position as Prosecutor General, he was responsible for the widespread use of criminal proceedings to disqualify opposition candidates ahead of the 2020 presidential election and to prevent persons from joining the Coordination Council launched by the opposition to challenge the outcome of that election. He is therefore supporting the Lukashenka regime and is responsible for the repression of democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>33.</td><td>Lidzia Mihailauna YARMOSHINA Lidia Mikhailovna YERMOSHINA </td><td>Лiдзiя Мiхайлаўна ЯРМОШЫНА Лидия Михайловна ЕРМОШИНА </td><td>Position(s): Former Chairwoman of the Central Electoral Commission (CEC) DOB: 29.1.1953  POB: Slutsk, former USSR (now Belarus)  Gender: female </td><td>In her former position as Chairwoman of the Central Electoral Commission (CEC), she was responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency, and its falsification of election results. The CEC and its leadership have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>34.</td><td>Vadzim Dzmitryevich IPATAU Vadim Dmitrievich IPATOV </td><td>Вадзім Дзмітрыевіч IПАТАЎ Вадим Дмитриевич ИПАТОВ </td><td>Position(s): Former Deputy Chairman of the Central Electoral Commission (CEC); Deputy Chairman of the House of Representatives DOB: 30.10.1964  POB: Kolomyia, Ivano-Frankivsk Region/Oblast, former USSR (now Ukraine)  Gender: male </td><td>As Deputy Chairman of the CEC, he is responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its leadership have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>35.</td><td>Alena Mikalaeuna DMUHAILA Elena Nikolaevna DMUHAILO </td><td>Алена Мiкалаеўна ДМУХАЙЛА Елена Николаевна ДМУХАЙЛО </td><td>Position(s): Former Secretary of the Central Electoral Commission (CEC) DOB: 1.7.1971  Gender: female </td><td>In her former position as Secretary of the CEC, she was responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its leadership have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>36.</td><td>Andrei Anatolievich GURZHY Andrey Anatolievich GURZHIY </td><td>Андрэй Анатольевіч ГУРЖЫ Андрей Анатольевич ГУРЖИЙ </td><td>Position(s): Member of the Central Electoral Commission (CEC) DOB: 10.10.1975  Gender: male </td><td>As a member of the CEC college, he is responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td>37.</td><td>Volga Leanidauna DARASHENKA Olga Leonidovna DOROSHENKO </td><td>Вольга Леанідаўна ДАРАШЭНКА Ольга Леонидовна ДОРОШЕНКО </td><td>Position(s): Member of the Central Electoral Commission (CEC) DOB: 1976  Gender: female </td><td>As a member of the CEC college, she is responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td>38.</td><td>Siarhei Aliakseevich KALINOUSKI Sergey Alexeyevich KALINOVSKIY </td><td>Сяргей Аляксеевіч КАЛІНОЎСКІ Сергей Алексеевич КАЛИНОВСКИЙ </td><td>Position(s): Member of the Central Electoral Commission (CEC) DOB: 3.1.1969  Gender: male </td><td>As a member of the CEC college, he is responsible for its misconduct of the 2020 presidential electoral, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>39.</td><td>Sviatlana Piatrouna KATSUBA Svetlana Petrovna KATSUBO </td><td>Святлана Пятроўна КАЦУБА Светлана Петровна КАЦУБО </td><td>Position(s): Chair of Social Humanities and Legal Disciplines at Gomel/Homyel State Technical University, former Member of the Central Electoral Commission (CEC) DOB: 6.8.1959  POB: Podilsk, Odessa Region/Oblast, former USSR (now Ukraine)  Gender: female </td><td>In her former position as a member of the CEC college, she was responsible for its misconduct in the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner.  She remains active in the Lukashenka regime as the Chair of Social Humanities and Legal Disciplines at Gomel/Homyel State Technical University. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>40.</td><td>Aliaksandr Mikhailavich LASYAKIN Alexander (Alexandr) Mikhailovich LOSYAKIN </td><td>Аляксандр Міхайлавіч ЛАСЯКІН Александр Михайлович ЛОСЯКИН </td><td>Position(s): Member of the Central Electoral Commission (CEC) DOB: 21.7.1957  Gender: male </td><td>As a member of the CEC college, he is responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>41.</td><td>Igar Anatolievich PLYSHEUSKI Ihor Anatolievich PLYSHEVSKIY </td><td>Iгар Анатольевiч ПЛЫШЭЎСКI Игорь Анатольевич ПЛЫШЕВСКИЙ </td><td>Position(s): Managing Director of OOO Bergia Group, former Member of the Central Electoral Commission (CEC); Deputy Chairman for Legal Affairs of the Liberal Democratic Party of Belarus DOB: 19.2.1979  POB: Lyuban, former USSR (now Belarus)  Gender: male </td><td>In his former position as a member of the CEC college, he was responsible for its misconduct in the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner.  He remains active in the Lukashenka regime as the Managing Director of OOO Bergia Group.  He served on the Central Election Commission in an advisory capacity during the 2025 presidential campaign. The 2025 presidential election in Belarus was neither free nor fair, according to multiple reports from international observers and international organisations.  Igar Plysheuski is therefore supporting the Lukashenka regime and is responsible for the repression of democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>42.</td><td>Marina Yureuna RAKHMANAVA Marina Yurievna RAKHMANOVA </td><td>Марына Юр’еўна РАХМАНАВА Марина Юрьевна РАХМАНОВА </td><td>Position(s): Former Member of the Central Electoral Commission (CEC) DOB: 26.9.1970  Gender: female </td><td>In her former position as a member of the CEC college, she was responsible for its misconduct of the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>43.</td><td>Aleh Leanidavich SLIZHEUSKI Oleg Leonidovich SLIZHEVSKI </td><td>Алег Леанiдавiч СЛIЖЭЎСКI Олег Леонидович СЛИЖЕВСКИЙ </td><td>Position(s): Head of the Legal Support Department of the Permanent Committee of the Union State of Belarus and Russia, former Member of the Central Electoral Commission (CEC) DOB: 16.8.1972  POB: Grodno/Hrodna, former USSR (now Belarus)  Gender: male </td><td>In his former position as a member of the CEC college, he was responsible for its misconduct in the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner.  He remains active in the Lukashenka regime as head of the Legal Support Department of the Permanent Committee of the Union State of Belarus and Russia. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>44.</td><td>Irina Aliaksandrauna TSELIKAVETS Irina Alexandrovna TSELIKOVEC </td><td>Iрына Аляксандраўна ЦЭЛIКАВЕЦ Ирина Александровна ЦЕЛИКОВЕЦ </td><td>Position(s): Former Member of the Central Electoral Commission (CEC); Executive Secretary of the Council of Ministers of Justice of the CIS DOB: 2.11.1976  POB: Zhlobin, former USSR (now Belarus)  Gender: female </td><td>In her former position as a member of the CEC college, she was responsible for its misconduct in the 2020 presidential electoral process, its non-compliance with basic international standards of fairness and transparency and its falsification of election results. The CEC and its college have, in particular, organised the dismissal of certain opposition candidates on spurious grounds and placed disproportionate restrictions on observers in polling stations. The CEC has also ensured that the election commissions under its supervision are composed in a biased manner. In her position as the Executive Secretary of the Council of Ministers of Justice of the CIS, she was part of the CIS international election observation mission at the 2025 presidential election.  The 2025 presidential election in Belarus was neither free nor fair, according to multiple reports from international observers and international organisations.  Irina Tselikavets is therefore supporting the Lukashenka regime and is responsible for the repression of democratic opposition in Belarus. </td><td>2.10.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>45.</td><td>Aliaksandr Ryhoravich LUKASHENKA Alexander (Alexandr) Grigorievich LUKASHENKO </td><td>Аляксандр Рыгоравіч ЛУКАШЭНКА Александр Григорьевич ЛУКАШЕНКО </td><td>Position(s): President of the Republic of Belarus DOB: 30.8.1954  POB: Kopys settlement, Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>As President of Belarus with authority over State bodies, he is responsible for the violent repression by the State apparatus carried out before and after the 2020 presidential election, in particular the dismissal of key opposition candidates, arbitrary arrests and ill-treatment of peaceful demonstrators as well as intimidation and violence against journalists.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>46.</td><td>Viktar Aliaksandravich LUKASHENKA Viktor Aleksandrovich LUKASHENKO </td><td>Вiктар Аляксандравiч ЛУКАШЭНКА Виктор Александрович ЛУКАШЕНКО </td><td>Position(s): Former National Security Advisor to the President, Member of the Security Council President of the National Olympic Committee of Belarus  DOB: 28.11.1975  POB: Mahiliou/Mogilev, former USSR (now Belarus)  Gender: male  Personal ID: 3281175A014PB8 </td><td>In his former position as National Security Advisor to the President and a Member of the Security Council, as well as his informal supervisory position over Belarus security forces, he has been responsible for the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as the President of the National Olympic Committee. In this position, to which he was appointed on 26 February 2021, he bears responsibility for the mistreatment by the NOC officials of athlete Krystsina Tsimanouskaya during the 2020 Summer Olympics in Tokyo. </td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>47.</td><td>Ihar Piatrovich SERGYAENKA Igor Petrovich SERGEENKO </td><td>Iгар Пятровіч СЕРГЯЕНКА Игорь Петрович СЕРГЕЕНКО </td><td>Position(s): Former Chief of Staff of the Presidential Administration; Chairman of the House of Representatives (lower house) of the National Assembly of Belarus DOB: 14.1.1963  POB: Stolitsa village in Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his position as the Chief of Staff of the Presidential Administration, he is closely associated with the President and responsible for ensuring the implementation of presidential powers in the field of domestic and foreign policy. He is therefore supporting the Lukashenka regime, including in the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>48.</td><td>Ivan Stanislavavich TERTEL Ivan Stanislavovich TERTEL </td><td>Іван Станіслававіч ТЭРТЭЛЬ Иван Станиславович ТЕРТЕЛЬ </td><td>Position(s): Chairman of the State Security Committee (KGB), former Chairman of the State Control Committee DOB: 8.9.1966  POB: village Privalka/Privalki in Grodno/Hrodna Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his leadership position as the Chairman of the State Security Committee (KGB) and in his former position as the Chairman of the State Control Committee, he is responsible for the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>49.</td><td>Raman Ivanavich MELNIK Roman Ivanovich MELNIK </td><td>Раман Iванавiч МЕЛЬНIК Роман Иванович МЕЛЬНИК </td><td>Position(s): Former Head of the Main Directorate of Law and Order Protection and Prevention at the Ministry of Internal Affairs Head of the Administration of the Leninsky District of Minsk  DOB: 29.5.1964  Gender: male </td><td>In his former leadership position as the Head of the Main Directorate of Law and Order Protection and Prevention at the Ministry of Internal Affairs, he was responsible for the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as Head of the Administration of the Leninsky District of Minsk. </td><td>6.11.2020</td></tr>
+<tr><td>50.</td><td>Ivan Danilavich NASKEVICH Ivan Danilovich NOSKEVICH </td><td>Iван Данiлавiч НАСКЕВIЧ Иван Данилович НОСКЕВИЧ </td><td>Position(s): Former Chairman of the Investigative Committee Member of the reserve of the Investigative Committee  DOB: 25.3.1970  POB: village of Cierabličy in Brest Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as the Chairman of the Investigative Committee, he was responsible for the repression and intimidation campaign led by that Committee in the wake of the 2020 presidential election, in particular investigations launched against the Coordination Council and peaceful demonstrators. He remains active in the Lukashenka regime as a member of the reserve of the Investigative Committee. </td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>51.</td><td>Aliaksey Aliaksandravich VOLKAU Alexei Alexandrovich VOLKOV </td><td>Аляксей Аляксандравіч ВОЛКАЎ Алексей Александрович ВОЛКОВ </td><td>Position(s): Former First Deputy Chairman of the Investigative Committee; currently Chairman of the State Committee for Forensic Expertise DOB: 7.9.1973  POB: Minsk, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as the First Deputy Chairman of the Investigative Committee, he is responsible for the repression and intimidation campaign led by the Committee in the wake of the 2020 presidential election, in particular investigations launched against the Coordination Council and peaceful demonstrators.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>52.</td><td>Siarhei Yakaulevich AZEMSHA Sergei Yakovlevich AZEMSHA </td><td>Сяргей Якаўлевіч АЗЕМША Сергей Яковлевич АЗЕМША </td><td>Position(s): Deputy Chairman of the Investigative Committee DOB: 17.7.1974  POB: Rechitsa, Gomel/Homyel Region/Oblast, former USSR (now Belarus)  Gender: male  Rank: Major General of Justice </td><td>In his leadership position as the Deputy Chairman of the Investigative Committee, he is responsible for the repression and intimidation campaign led by the Committee in the wake of the 2020 presidential election, in particular investigations launched against the Coordination Council and peaceful demonstrators.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>53.</td><td>Andrei Fiodaravich SMAL Andrei Fyodorovich SMAL </td><td>Андрэй Фёдаравiч СМАЛЬ Андрей Федорович СМАЛЬ </td><td>Position(s): Former Deputy Chairman of the Investigative Committee DOB: 1.8.1973  POB: Brest, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as the Deputy Chairman of the Investigative Committee, he was responsible for the repression and intimidation campaign led by the Committee in the wake of the 2020 presidential election, in particular investigations launched against the Coordination Council and peaceful demonstrators.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>54.</td><td>Andrei Yurevich PAULIUCHENKA Andrei Yurevich PAVLYUCHENKO </td><td>Андрэй Юр’евіч ПАЎЛЮЧЕНКА Андрей Юрьевич ПАВЛЮЧЕНКО </td><td>Position(s): Head of Operational-Analytical Center DOB: 1.8.1971  Gender: male </td><td>In his leadership position as the Head of Operational-Analytical Center, he is closely associated with the President and responsible for the repression of civil society, in particular interrupting connection to telecommunication networks as a tool of repression of civil society, peaceful demonstrators and journalists.</td><td>6.11.2020</td></tr>
+<tr><td>55.</td><td>Ihar Ivanavich BUZOUSKI Igor Ivanovich BUZOVSKI </td><td>Ігар Іванавіч БУЗОЎСКІ Игорь Иванович БУЗОВСКИЙ </td><td>Position(s): Deputy Minister of Information DOB: 10.7.1972  POB: village of Koshelevo, Grodno/Hrodna Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his leadership position as Deputy Minister of Information, he is responsible for the repression of civil society, in particular the Ministry of Information decision to cut off access to independent websites and limit internet access in Belarus in the wake of the 2020 presidential election, as a tool of repression of civil society, peaceful demonstrators and journalists.</td><td>6.11.2020</td></tr>
+<tr><td>56.</td><td>Natallia Mikalaeuna EISMANT Natalia Nikolayevna EISMONT </td><td>Наталля Мікалаеўна ЭЙСМАНТ Наталья Николаевна ЭЙСМОНТ </td><td>Position(s): Press Secretary of the President of Belarus DOB: 16.2.1984  POB: Minsk, former USSR (now Belarus)  Maiden name: Kirsanova (Russian spelling: Кирсанова) or Selyun (Russian spelling: Селюн)  Gender: female </td><td>In her position as Press Secretary of the President of Belarus, she is closely associated with the President and responsible for coordinating media activities of the President, including drafting statements and organising public appearances. She is therefores supporting the Lukashenka regime, including in the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election. In particular, with her public statements defending the President and criticising opposition activists as well as the peaceful protesters, made in the wake of the 2020 presidential election, she contributed to seriously undermining democracy and the rule of law in Belarus.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>57.</td><td>Siarhei Yaugenavich ZUBKOU Sergei Yevgenevich ZUBKOV </td><td>Сяргей Яўгенавіч ЗУБКОЎ Сергей Евгеньевич ЗУБКОВ </td><td>Position(s): ALFA Unit Commander (Anti-terrorism unit of State Security Committee (KGB)); Deputy Head of the CIS Anti-Terrorism Center (CIS ATC) DOB: 21.8.1975  Gender: male </td><td>In his commanding position over ALFA Unit forces, he is responsible for the repression and intimidation campaign carried out by those forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists.</td><td>6.11.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>58.</td><td>Andrei Aliakseevich RAUKOU Andrei Alexeyevich RAVKOV </td><td>Андрэй Аляксеевіч РАЎКОЎ Андрей Алексеевич РАВКОВ </td><td>Position(s): Former State Secretary of the Security Council Ambassador of the Republic of Belarus to Azerbaijan  DOB: 25.6.1967  POB: village of Revyaki, Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former position as State Secretary of the Security Council, he has been closely associated with the President and responsible for the repression and intimidation campaign carried out by the State apparatus in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as the ambassador of Belarus to Azerbaijan. </td><td>6.11.2020</td></tr>
+<tr><td>59.</td><td>Pyotr Piatrovich MIKLASHEVICH Petr Petrovich MIKLASHEVICH </td><td>Пётр Пятровіч МІКЛАШЭВІЧ Петр Петрович МИКЛАШЕВИЧ </td><td>Position(s): Chairman of the Constitutional Court of the Republic of Belarus DOB: 18.10.1954  POB: Minsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>As the chairman of the Constitutional Court, he is responsible for the Constitutional Court’s decision adopted on 25 August 2020, by which the results of the fraudulent elections were legitimised. He has therefore supported and facilitated actions of repression and intimidation campaign by the State apparatus against peaceful protestors and journalists and is therefore responsible for seriously undermining democracy and the rule of law in Belarus.</td><td>6.11.2020</td></tr>
+<tr><td>60.</td><td>Anatol Aliaksandravich SIVAK Anatoli Alexandrovich SIVAK </td><td>Анатоль Аляксандравіч СІВАК Анатолий Александрович СИВАК </td><td>Position(s): Deputy Prime Minister; former Chairman of the Minsk City Executive Committee DOB: 19.7.1962  POB: Zavoit, Narovlya District, Gomel/Homyel Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former leadership capacity as Chairman of the Minsk City Executive Committee, he was responsible for the repression and intimidation campaign run by the local apparatus in Minsk under his oversight in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He made numerous public statements criticising peaceful protests taking place in Belarus. In his current leadership position as Deputy Prime Minister he continues to support the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td>61.</td><td>Ivan Mikhailavich EISMANT Ivan Mikhailovich EISMONT </td><td>Іван Міхайлавіч ЭЙСМАНТ Иван Михайлович ЭЙСМОНТ </td><td>Position(s): Chairman of the Belarusian State Television and Radio Company, Head of Belteleradio Company DOB: 20.1.1977  POB: Grodno/Hrodna, former USSR (now Belarus)  Gender: male </td><td>In his current position as Head of the Belarusian State Television and Radio Company, he is responsible for the dissemination of state propaganda in public media and continues to support the Lukashenka regime. This includes using media channels to support the President’s continuation of his term in office, despite the fraudulent presidential elections that took place on 9 August 2020, and the subsequent and repeated violent crackdown on peaceful and legitimate protests. Eismont made public statements criticising the peaceful protesters and refused to provide media coverage of the protests. He also fired striking employees of Belteleradio Company under his management, thereby making him responsible for human rights violations. </td><td>17.12.2020</td></tr>
+<tr><td>62.</td><td>Uladzimir Stsiapanavich KARANIK Vladimir Stepanovich KARANIK </td><td>Уладзімір Сцяпанавіч КАРАНІК Владимир Степанович КАРАНИК </td><td>Position(s): Governor of the Grodno/Hrodna Region/Oblast; former Minister of Healthcare DOB: 30.11.1973  POB: Grodno/Hrodna, former USSR (now Belarus)  Gender: male </td><td>In his former leadership capacity as the Minister of Healthcare, he was responsible for the use of healthcare services to repress peaceful protesters, including using ambulances to transport protesters in need of medical assistance to isolation wards rather than to hospitals. He made numerous public statements criticising the peaceful protests taking place in Belarus, on one occasion accusing a protester of being intoxicated. In his current leadership position as the Governor of the Grodno/Hrodna Region/Oblast he continues to support the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td>63.</td><td>Natallia Ivanauna KACHANAVA Natalia Ivanovna KOCHANOVA </td><td>Наталля Іванаўна КАЧАНАВА Наталья Ивановна КОЧАНОВА </td><td>Position(s): Chair of the Council of the Republic of the National Assembly of Belarus DOB: 25.9.1960  POB: Polotsk, Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: female </td><td>In her current leadership position as Chair of the Council of the Republic of the National Assembly of Belarus, she is responsible for supporting the decisions of the President in the field of domestic policy. She is also responsible for organising the fraudulent elections that took place on 9 August 2020. She made public statements defending the brutal crackdown of the security apparatus on peaceful demonstrators.</td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>64.</td><td>Pavel Mikalaevich LIOHKI Pavel Nikolaevich LIOHKI </td><td>Павел Мiкалаевiч ЛЁГКI Павел Николаевич ЛЁГКИЙ </td><td>Position(s): minister counsellor at the Belarusian embassy in Moscow, Russia, Former First Deputy Minister of Information DOB: 30.5.1972  POB: Baranavichy, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as First Deputy Minister of Information, he is responsible for the repression of civil society, and in particular the Ministry of Information decision to cut off access to independent websites and limit internet access in Belarus in the wake of the 2020 presidential election, as a tool of repression of civil society, peaceful demonstrators and journalists. He remains active in the Lukashenka regime as a minister counsellor at the Belarusian embassy in Moscow, Russia. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>65.</td><td>Ihar Uladzimiravich LUTSKY Igor Vladimirovich LUTSKY </td><td>Iгар Уладзiмiравiч ЛУЦКI Игорь Владимирович ЛУЦКИЙ </td><td>Position(s): Deputy Head of the Presidential Administration; Former Minister of Information; Member of the Council of the Republic of Belarus DOB: 31.10.1972  POB: Stolin, Brest Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as Minister of Information, he was responsible for the repression of civil society, and in particular the Ministry of Information decision to cut off access to independent websites and limit internet access in Belarus in the wake of the 2020 presidential election, as a tool of repression of civil society, peaceful demonstrators and journalists. He remains active in the Lukashenka regime as a Member of the Council of the Republic of Belarus, and as Deputy Head of the Presidential Administration.  He is therefore supporting the Lukashenka regime and is responsible for the repression of civil society in Belarus. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>66.</td><td>Andrei Ivanavich SHVED Andrei Ivanovich SHVED </td><td>Андрэй Іванавіч ШВЕД Андрей Иванович ШВЕД </td><td>Position(s): Prosecutor General of the Republic of Belarus DOB: 21.4.1973  POB: Glushkovichi, Gomel/Homyel Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his position as Prosecutor General, he is responsible for the ongoing repression of civil society and democratic opposition, and in particular the launching of numerous criminal proceedings against peaceful demonstrators, opposition leaders and journalists in the wake of the 2020 presidential elections. He also made public statements threatening participants in ‘unauthorised rallies’ with punishment.</td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>67.</td><td>Genadz Andreevich BOGDAN Gennady Andreievich BOGDAN </td><td>Генадзь Андрэевiч БОГДАН Геннадий Андреевич БОГДАН </td><td>Position(s): Former Deputy Head of the Belarus President Property Management Directorate DOB: 8.1.1977  Gender: male </td><td>In his former position of Deputy Head of the Belarus President Property Management Directorate, he oversees the functioning of numerous enterprises. The body under his leadership provides financial, material and technical, social, household and medical support to the State apparatus and republican authorities. He is closely associated with the President and continues to support the Lukashenka regime.</td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>68.</td><td>Ihar Paulavich BURMISTRAU Igor Pavlovich BURMISTROV </td><td>Iгар Паўлавiч БУРМIСТРАЎ Игорь Павлович БУРМИСТРОВ </td><td>Position(s): Former Chief of Staff and First Deputy Commander of the Internal Troops of the Ministry of Internal Affairs; Chairman of the City Executive Committee of Novopolotsk DOB: 30.9.1968  Gender: male </td><td>In his former leadership position as First Deputy Commander of the Internal Troops of the Ministry of Internal Affairs, he was responsible for the repression and intimidation campaign led by the Internal Troops under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He was passed to the military reserve. He has the right to wear military uniform and insignia. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>69.</td><td>Arciom Kanstantinavich DUNKA Artem Konstantinovich DUNKO </td><td>Арцём Канстанцiнавiч ДУНЬКА Артем Константинович ДУНЬКО </td><td>Position(s): Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department of Financial Investigations of the State Control Committee, former Senior Inspector for Special Matters of the Department of Financial Investigations of the State Control Committee DOB: 8.6.1990  Gender: male </td><td>In his former leadership position as Senior Inspector for Special Matters of the Department of Financial Investigations of the State Control Committee, he was responsible for the repression and intimidation campaign led by the State apparatus in the wake of the 2020 presidential election, in particular investigations launched into opposition leaders and activists. He remains active in the Lukashenka regime as the Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department of Financial Investigations of the State Control Committee. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>70.</td><td>Aleh Heorhievich KARAZIEI Oleg Georgievich KARAZEI </td><td>Алег Георгiевiч КАРАЗЕЙ Олег Георгиевич КАРАЗЕЙ </td><td>Position(s): Former Head of the Prevention Department of the Main Department of Law Enforcement and Prevention of the Public Security Police of the Ministry of Internal Affairs Associate professor at the Academy of the Ministry of Internal Affairs  DOB: 1.1.1979  POB: Minsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his former leadership position as Head of the Prevention Department of the Main Department of Law Enforcement and Prevention of the Public Security Police of the Ministry of Internal Affairs, he was responsible for the repression and intimidation campaign led by the police forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as associate professor at the Academy of the Ministry of Internal Affairs. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>71.</td><td>Dzmitry Aliaksandravich KURYAN Dmitry Alexandrovich KURYAN </td><td>Дзмiтрый Аляксандравiч КУРЬЯН Дмитрий Александрович КУРЬЯН </td><td>Position(s): Deputy Head of the public militia of the Academy of the Ministry of Internal Affairs, Police Colonel, former Deputy Head of the Main Department and Head of the Department of Law Enforcement in the Ministry of Internal Affairs DOB: 3.10.1974  Gender: male </td><td>In his former leadership position as Deputy Head of the Main Department and Head of the Department of Law Enforcement in the Ministry of Internal Affairs, he was responsible for the repression and intimidation campaign led by the police forces in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He remains active in the Lukashenka regime as the Deputy Head of the public militia of the Academy of the Ministry of Internal Affairs and retains the rank of Police Colonel. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>72.</td><td>Aliaksandr Henrykavich TURCHIN Alexander (Alexandr) Henrihovich TURCHIN </td><td>Аляксандр Генрыхавіч ТУРЧЫН Александр Генрихович ТУРЧИН </td><td>Position(s): Former Chairman of Minsk Regional Executive Committee; Prime Minister of the Republic of Belarus DOB: 2.7.1975  POB: Novogrudok, Grodno/Hrodna Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>In his position as the Chairman of Minsk Regional Executive Committee, he was responsible for overseeing local administration, including a number of committees. He continues supporting the Lukashenka regime in his position as Prime Minister of the Republic of Belarus.</td><td>17.12.2020</td></tr>
+<tr><td>73.</td><td>Dzmitry Mikalaevich SHUMILIN Dmitry Nikolayevich SHUMILIN </td><td>Дзмiтрый Мiкалаевiч ШУМIЛIН Дмитрий Николаевич ШУМИЛИН </td><td>Position(s): Deputy Head of the Directorate for the Protection of Law and Order and Prevention, former Deputy Head of the department for mass events of the GUVD (Main Department of Internal Affairs) of the Minsk City Executive Committee DOB: 26.7.1977  Gender: male  Rank: Major General of Militia </td><td>In his former position as Deputy Head of the department for mass events of the GUVD of the Minsk City Executive Committee, he was responsible for the repression and intimidation campaign led by the local apparatus in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. He was documented as personally taking part in the unlawful detention of peaceful protesters.  He remains active in the Lukashenka regime as Deputy Head of the Directorate for the Protection of Law and Order and Prevention of the GUVD (Main Department of Internal Affairs) of the Minsk City Executive Committee. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>74.</td><td>Vital Ivanavich STASIUKEVICH Vitalyi Ivanovich STASIUKEVICH </td><td>Віталь Іванавіч СТАСЮКЕВІЧ Виталий Иванович СТАСЮКЕВИЧ </td><td>Position(s): Deputy Chief of the Public Security Police in Grodno/Hrodna DOB: 5.3.1976  POB: Grodno/Hrodna, former USSR (now Belarus)  Gender: male </td><td>In his position as Deputy Chief of the Public Security Police in Grodno/Hrodna, he is responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised the unlawful detention of peaceful protesters. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>75.</td><td>Siarhei Leanidavich KALINNIK Sergei Leonidovich KALINNIK </td><td>Сяргей Леанiдавiч КАЛИННИК Сергей Леонидович КАЛИННИК </td><td>Position(s): Deputy Head of Criminal Police in the Main Internal Affairs Directorate of the Minsk City Executive Committee, former Police Colonel, Chief of the Sovetsky District Police Department of Minsk DOB: 23.7.1979  Gender: male </td><td>In his former position as Chief of the Sovetsky District Police Department of Minsk, he was responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised and took part in torturing unlawfully detained protesters.  He remains active in the Lukashenka regime as the Deputy Head of Criminal Police in the Main Internal Affairs Directorate of the Minsk City Executive. Committee. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>76.</td><td>Vadzim Siarhaevich PRYGARA Vadim Sergeyevich PRIGARA </td><td>Вадзім Сяргеевіч ПРЫГАРА Вадим Сергеевич ПРИГАРА </td><td>Position(s): Police Lieutenant Colonel, Head of the District Police Department in Molodechno DOB: 31.10.1980  Gender: male </td><td>In his position as Head of the District Police Department in Molodechno, he is responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised beatings of unlawfully detained protesters. He also made numerous derogatory statements about the protesters to the media. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>77.</td><td>Viktar Ivanavich STANISLAUCHYK Viktor Ivanovich STANISLAVCHIK </td><td>Вiктар Iванавiч СТАНIСЛАЎЧЫК Виктор Иванович СТАНИСЛАВЧИК </td><td>Position(s): Former Deputy Head of the Police Department of the Sovetsky District of Minsk, Head of the Public Security Police First Deputy Head of the Centre of Advanced Studies and Specialists of the Ministry of Internal Affairs  DOB: 27.1.1971  Gender: male </td><td>In his former position as Deputy Head of the Police Department of the Sovetsky District of Minsk and Head of the Public Security Police, he was responsible for the repression and intimidation campaign led by the local police force under his command in the wake of the 2020 presidential election, in particular arbitrary arrests and ill-treatment, including torture, of peaceful demonstrators as well as intimidation and violence against journalists. According to witnesses, he personally supervised the detention of peaceful protesters and beatings of those unlawfully detained.  He remains active in the Lukashenka regime as the First Deputy Head of the Centre of Advanced Studies and Specialists of the Ministry of Internal Affairs. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>78.</td><td>Aliaksandr Aliaksandravich PIETRASH Alexander (Alexandr) Alexandrovich PETRASH </td><td>Аляксандр Аляксандравiч ПЕТРАШ Александр Александрович ПЕТРАШ </td><td>Position(s): Chairman of the Tsentralny District Court in Minsk, former Chairman of the Moskovski district court in Minsk DOB: 16.5.1988  Gender: male </td><td>In his former position as chairman of the Moskovski district court in Minsk, he was responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence and reliance on statements from false witnesses were reported during trials conducted under his supervision. He was instrumental in fining and detaining protesters, journalists and opposition leaders in the wake of the 2020 presidential election.  He is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as chairman of the Tsentralny District Court in Minsk. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>79.</td><td>Andrei Aliaksandravich LAHUNOVICH Andrei Alexandrovich LAHUNOVICH </td><td>Андрэй Аляксандравіч ЛАГУНОВІЧ Андрей Александрович ЛАГУНОВИЧ </td><td>Position(s): Judge of the Sovetsky district court in Gomel/Homyel Gender: male </td><td>In his position as judge of the Sovetsky district court in Gomel/Homyel, he is responsible for numerous politically motivated rulings against journalists, activists and protesters. Violations of rights of defence were reported during trials conducted under his supervision. He is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td>80.</td><td>Alena Vasileuna LITVINA Elena Vasilevna LITVINA </td><td>Алена Васільеўна ЛІТВІНА Елена Васильевна ЛИТВИНА </td><td>Position(s): Judge of the Leninsky district court in Mogilev/Mahiliou Gender: female </td><td>In her position as judge of the Leninsky district court in Mogilev/Mahiliou, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of Siarhei Tsikhanousky – opposition activist and husband of presidential candidate Svetlana Tsikhanouskaya. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td>81.</td><td>Victoria Valeryeuna SHABUNYA Victoria Valerevna SHABUNYA </td><td>Вікторыя Валер’еўна ШАБУНЯ Виктория Валерьевна ШАБУНЯ </td><td>Position(s): Judge of the Central district court in Minsk DOB: 27.2.1974  Gender: female </td><td>In her position as judge of the Central district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of Sergei Dylevsky – Coordination Council member and leader of a strike committee. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td>82.</td><td>Alena Aliaksandravna ZHYVITSA Elena Alexandrovna ZHYVITSA </td><td>Алена Аляксандравна ЖЫВІЦА Елена Александровна ЖИВИЦА </td><td>Position(s): Judge of the Oktyabrsky district court in Minsk DOB: 9.4.1990  Gender: female </td><td>In her position as judge of the Oktyabrsky district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td>83.</td><td>Natallia Anatolievna DZIADKOVA Natalia Anatolievna DEDKOVA </td><td>Наталля Анатольеўна ДЗЯДКОВА Наталья Анатольевна ДЕДКОВА </td><td>Position(s): Judge of the Partizanski district court in Minsk DOB: 2.12.1979  Gender: female </td><td>In her position as judge of the Partizanski district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of Coordination Council leader Mariya Kalesnikava. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td>84.</td><td>Maryna Arkadzeuna FIODARAVA Marina Arkadievna FEDOROVA </td><td>Марына Аркадзьеўна ФЁДАРАВА Марина Аркадьевна ФЕДОРОВА </td><td>Position(s): Judge of the Sovetsky district court in Minsk DOB: 11.9.1965  Gender: female </td><td>In her position as judge of the Sovetsky district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>85.</td><td>Yulia Chaslavauna HUSTYR Yulia Cheslavovna HUSTYR </td><td>Юлiя Чаславаўна ГУСТЫР Юлия Чеславовна ГУСТЫР </td><td>Position(s): Judge of the Central district court in Minsk; Legal advisor in the Oktyabrsky District DOB: 27.2.1974  Gender: female </td><td>In her former position as judge of the Central district court in Minsk, she was responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of opposition presidential candidate Viktar Babarika. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.  She remains active in the Lukashenka regime as a lawyer at the legal aid office of the Oktyabrsky District in Minsk. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>86.</td><td>Alena Tsimafeeuna NYAKRASAVA Elena Timofeyevna NEKRASOVA </td><td>Алена Цімафееўна НЯКРАСАВА Елена Тимофеевна НЕКРАСОВА </td><td>Position(s): Judge of the Zavodsky district court in Minsk DOB: 26.11.1974  Gender: female </td><td>In her position as judge of the Zavodsky district court in Minsk, she is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for human rights violations and undermining the rule of law, as well as for contributing to the repression of civil society and democratic opposition. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>87.</td><td>Aliaksandr Vasilevich SHAKUTSIN Aleksandr Vasilevich SHAKUTIN </td><td>Аляксандр Васiльевiч ШАКУЦIН Александр Васильевич ШАКУТИН </td><td>Position(s): Businessman, shareholder of Amkodor Bel, Amkodor Spamash, Spamash, EM System, Navanep, Amkodor-Onego, Amkodor-Alga and Amkodor-Agidel DOB: 12.1.1959  POB: Bolshoe Babino, Orsha Rayon, Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: male </td><td>Aliaksandr Shakutsin is a Belarusian businessman with considerable business interests in Belarus, Russia and other countries. He reaped significant benefits from the Lukashenka regime as the owner and beneficiary of Amkodor Holding. Since the state’s takeover of Amkodor Holding, Aliaksandr Shakutsin continues to benefit from the economic and political capital gained from the Lukashenka regime during his years in Amkodor Holding. Furthermore, he continues to benefit from the regime through his remaining ties to Amkodor Holding and other business interests in Belarus and abroad. He is reported to be one of the persons who has benefitted most from privatisation during Lukashenka’s tenure as President.  He is also a former member of the presidium of the pro-Lukashenka public association ‘Belaya Rus’ and a former member of the Council for the Development of Entrepreneurship in the Republic of Belarus.  In July 2020, he made public comments condemning the opposition protests in Belarus, thus supporting the Lukashenka regime’s policy of repression towards peaceful protesters, democratic opposition and civil society.  He maintains business interests in Belarus, and owns equity in companies linked to Amkodor Holding.  He is therefore benefitting from and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td>88.</td><td>Mikalai Mikalaevich VARABEI/VERABEI Nikolay Nikolaevich VOROBEY </td><td>Мiкалай Мiкалаевiч ВАРАБЕЙ/ВЕРАБЕЙ Николай Николаевич ВОРОБЕЙ </td><td>Position(s): Businessman, co-owner of Bremino Group DOB: 4.5.1963  POB: Ukrainian SSR (now Ukraine)  Gender: male </td><td>He is one of the leading businessmen operating in Belarus, and has had business interests in petroleum, coal transit, banking and other sectors. He is the co-owner of Bremino Group – a company that has enjoyed tax breaks and other forms of support from the Belarusian administration. His company BelKazTrans was granted an exclusive right to transfer coal through Belarus. In December 2020 he transferred some of his assets to his close business associates. According to media reports he still controls companies Interservice and Oil Bitumen Plant. He maintains business activities and close relations with authorities in Belarus and gave two luxury cars to Lukashenka. He also has business interests in Ukraine and Russia.  He has continued his business activities after becoming subject to sanctions, using intermediaries to circumvent restrictive measures. He is therefore benefitting from and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>89.</td><td>Natallia Mikhailauna BUHUK Natalia Mikhailovna BUGUK </td><td>Наталля Мiхайлаўна БУГУК Наталья Михайловна БУГУК </td><td>Position: judge of the Minsk City Court, former judge at the Fruzensky district court in Minsk DOB: 19.12.1989  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her former position as judge at the Fruzensky district court in Minsk, Natallia Buhuk was responsible for numerous politically motivated rulings against journalists and protesters, in particular the sentencing of Katsiaryna Bakhvalava (Andreyeva) and Darya Chultsova. Violations of rights of defence and of right to a fair trial were reported during trials conducted under her supervision. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.  She remains active in the Lukashenka regime as a judge of the Minsk City Court. </td><td>21.6.2021</td></tr>
+<tr><td>90.</td><td>Alina Siarhieeuna KASIANCHYK Alina Sergeevna KASYANCHYK </td><td>Алiна Сяргееўна КАСЬЯНЧЫК Алина Сергеевна КАСЬЯНЧИК </td><td>Position: prosecutor at the Minsk City Prosecutor’s Office, former Assistant Prosecutor at the Frunzensky District Court in Minsk DOB: 12.3.1998  POB:  Gender: female  Nationality: Belarusian </td><td>In her former position as assistant prosecutor at the Fruzensky District Court in Minsk, Alina Kasianchyk has represented the Lukashenka regime in politically motivated cases against journalists, activists and protesters. In particular, she has prosecuted journalists Katsiaryna Bakhvalava (Andreyeva) and Darya Chultsova for recording peaceful protests, based on the groundless charges of ‘conspiracy’ and ‘violating public order’. She has also prosecuted members of Belarusian civil society e.g. for taking part in peaceful protests, and paying tribute to murdered protester Aliaksandr Taraikousky. She has continuously asked the judge for long-term prison sentences. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.  She remains active in the Lukashenka regime as a prosecutor at the Minsk City Prosecutor’s Office. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>91.</td><td>Ihar Viktaravich KURYLOVICH Igor Viktorovich KURILOVICH </td><td>Iгар Вiĸтаравiч КУРЫЛОВIЧ, Игорь Викторович КУРИЛОВИЧ </td><td>Senior Investigator of the Frunzensky District Department of the Investigative Committee DOB: 26.09.1990  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Senior Investigator at the Fruzensky District Court in Minsk, Ihar Kurylovich was involved in preparing a politically motivated criminal case against journalists Katsiaryna Bakhvalava (Andreyeva) and Darya Chultsova. The journalists, who recorded peaceful protests, were accused of violations of public order and sentenced to two years of prison. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>92.</td><td>Siarhei Viktaravich SHATSILA Sergei Viktorovich SHATILO </td><td>Сяргей Віĸтаравіч ШАЦІЛА Сергей Виĸторович ШАТИЛО </td><td>Judge at Sovetsky District Court in Minsk DOB: 13.08.1989  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as judge of the Sovetsky District Court in Minsk, Siarhei Shatsila is responsible for numerous politically motivated rulings against protesters, in particular the sentencing of Natallia Hersche, Dzmitry Halko and Dzmitry Karatkevich, considered as political prisoners by Viasna, a Belarusian human rights organisation. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>93.</td><td>Anastasia Vasileuna ACHALAVA Anastasia Vasilievna ACHALOVA </td><td>Анастасія Васільеўна АЧАЛАВА Анастасия Васильевна АЧАЛОВА </td><td>Judge at the Leninsky District Court in Minsk DOB: 15.10.1992  POB: Minsk, Belarus  Gender: female  Nationality: Belarusian </td><td>In her position as judge of the Leninsky District Court in Minsk, Anastasia Achalava is responsible for numerous politically motivated rulings against journalists, activists and protesters, in particular the sentencing of Coordination Council member Dzmitry Kruk, as well as against medical personnel and senior citizens. Reliance on statements of anonymous witnesses was reported during trials conducted under her supervision.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>94.</td><td>Mariya Viachaslavauna YAROKHINA Maria Viacheslavovna YEROKHINA </td><td>Марыя Вячаславаўна ЯРОХІНА Мария Вячеславовна ЕРОХИНА </td><td>Judge at the Frunzensky District Court in Minsk DOB: 04.07.1987  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her position as judge of the Frunzensky District Court in Minsk, Mariya Yerokhina is responsible for numerous politically motivated rulings against journalists, opposition leaders, trade union activists, sportsmen and protesters, in particular the sentencing of journalist Uladzimir Hrydzin. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>95.</td><td>Yuliya Aliaksandrauna BLIZNIUK Yuliya Aleksandrovna BLIZNIUK </td><td>Юлія Аляĸсандраўна БЛІЗНЮК Юлия Алеĸсандровна БЛИЗНЮК </td><td>Deputy Chairwoman/judge at the Frunzensky District Court in Minsk DOB: 23.09.1971  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her position as Deputy Chairwoman and judge at the Frunzensky District Court in Minsk, Yuliya Blizniuk is responsible for numerous politically motivated rulings against journalists, activists and protesters, in particular sentencing activists Artsiom Khvashcheuski, Artsiom Sauchuk, Maksim Pauliushchyk. These persons are considered as political prisoners by Viasna, a Belarusian human rights organization. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>96.</td><td>Anastasia Dzmitreuna KULIK Anastasia Dmitrievna KULIK </td><td>Анастасія Дзмітрыеўна КУЛІК Анастасия Дмитриевна КУЛИК </td><td>Judge of the Pervomaisky District Court of Minsk DOB: 28.07.1989  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her position as judge of the Pervomaisky District Court of Minsk, Anastasia Kulik is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of Aliaksandr Zakharevich, who is considered as a political prisoner by Viasna, a Belarusian human rights organization. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>97.</td><td>Maksim Leanidavich TRUSEVICH Maksim Leonidovich TRUSEVICH </td><td>Маĸсім Леанідавіч ТРУСЕВІЧ Маĸсим Леонидович ТРУСЕВИЧ </td><td>Judge of the Pervomaisky District Court of Minsk DOB: 12.08.1989  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as judge at the Pervomaisky District Court in Minsk, Maksim Trusevich is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters. Violations of rights of defence and right to a fair trial were reported during trials conducted under his supervision. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>98.</td><td>Tatsiana Yaraslavauna MATYL Tatiana Yaroslavovna MOTYL </td><td>Тацяна Яраславаўна МАТЫЛЬ Татьяна Ярославовна МОТЫЛЬ </td><td>Judge of the Moskovsky District Court of Minsk DOB: 20.01.1968  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her position as judge at the Moskovsky District Court in Minsk, Tatsiana Matyl is responsible for numerous politically motivated rulings against journalists, opposition leaders, activists and protesters, in particular the sentencing of opposition politician Mikalai Statkevich and journalist Alexander Borozenko. Violations of rights of defence and right to a fair trial were reported during trials conducted under her supervision. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>99.</td><td>Aliaksandr Anatolevich RUDZENKA Aleksandr Anatolevich RUDENKO </td><td>Аляĸсандр Анатольевіч РУДЗЕНКА Алеĸсандр Анатольевич РУДЕНКО </td><td>Deputy Chairman of the of the Oktyabrsky District Court of Minsk DOB: 01.12.1981  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Chairman and judge of the Oktyabrsky District Court in Minsk, Aliaksandr Rudzenka is responsible for numerous politically motivated rulings against journalists, activists and protesters, in particular fining an elderly and disabled protester, as well as the sentencing of Lyudmila Kazak – the lawyer of Mariya Kalesnikava, Belarussian opposition leader. Violations of rights of defence and right to a fair trial were reported during trials conducted under his supervision.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>100.</td><td>Aliaksandr Aliaksandravich VOUK Aleksandr Aleksandrovich VOLK </td><td>Аляĸсандр Аляĸсандравіч ВОЎК Алеĸсандр Алеĸсандрович ВОЛК </td><td>Judge of the Sovetsky District Court of Minsk DOB: 01.08.1979  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as judge of the Sovetsky District Court of Minsk, Aliaksandr Vouk is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of sisters Anastasia and Victoria Mirontsev, considered as political prisoners by Viasna, a Belarussian human rights organisation. Violations of rights of defence and right to a fair trial were reported during trials conducted under his supervision.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>101.</td><td>Volha Siarheeuna NIABORSKAIA Olga Sergeevna NEBORSKAIA </td><td>Вольга Сяргееўна НЯБОРСКАЯ Ольга Сергеевна НЕБОРСКАЯ </td><td>Judge of the Oktyabrsky District Court of Minsk DOB: 14.02.1991  POB:  Gender: female  Nationality: Belarusian </td><td>In her position as judge of the Oktyabrsky district court in Minsk, Volha Niaborskaya is responsible for numerous politically motivated rulings against peaceful protesters and journalists, in particular the sentencing of Sofia Malashevich and Tikhon Kliukach, considered as political prisoners by Viasna, a Belarussian human rights organisation. Violations of rights of defence were reported during trials conducted under her supervision. She is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>102.</td><td>Marina Sviataslavauna ZAPASNIK Marina Sviatoslavovna ZAPASNIK </td><td>Марына Святаславаўна ЗАПАСНІК Марина Святославовна ЗАПАСНИК </td><td>Deputy Chairman of the Court of the Leninsky District of Minsk DOB: 28.03.1982  POB: Minsk, former USSR (now Belarus)  Gender: female  Nationality: Belarusian </td><td>In her position as Deputy Chairman and judge of the Court of the Leninsky District of Minsk, Marina Zapasnik is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of activists Vladislav Zenevich, Olga Pavlova, Olga Klaskovskaya, Viktar Barushka, Sergey Ratkevich, Aleksey Charvinskiy, Andrey Khrenkov, student Viktor Aktistov, and minor Maksim Babich. All are recognized as political prisoners by Viasna, a Belarussian human rights organisation.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>She is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>103.</td><td>Maxim Yurevich FILATAU Maxim Yurevich FILATOV </td><td>Максім Юр’евіч ФIЛАТАЎ Максим Юрьевич ФИЛАТОВ </td><td>Position(s): Judge of the Lida City Court DOB: 23.08.1978  Gender: male  Nationality: Belarusian </td><td>In his position as the judge of Lida City Court, Maxim Filatau is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of activist Vitold Ashurok, who is recognised as a political prisoner by Viasna, a Belarussian human rights organisation. He is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>104.</td><td>Andrei Vaclavavich HRUSHKO Andrei Vatslavovich GRUSHKO </td><td>Андрэй Вацлававiч ГРУШКО Андрей Вацлавович ГРУШКО </td><td>Position: Deputy Chairman of the Leninsky District Court of Brest, former Judge of the Leninsky District Court of Brest DOB: 24.1.1979  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as judge of the Leninsky District Court of Brest, Andrei Hrushko is responsible for numerous politically motivated rulings against peaceful protesters, in particular by sentencing activists, recognized as political prisoners, and minors. He is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as the repression of civil society and democratic opposition.  He currently serves as the Deputy Chairman of the Leninsky District Court of Brest. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>105.</td><td>Dzmitry Iurevich HARA Dmitry Iurevich GORA </td><td>Дзмітрый Юр'евіч ГАРА Дмитрий Юрьевич ГОРА </td><td>Chairman of the Investigative Committee of Belarus (appointed on 11 March 2021) Former Deputy Prosecutor General of the Republic of Belarus (until 11 March 2021)  DOB: 04.05.1970 </td><td>In his position of Deputy Prosecutor General until March 2021, Dzmitry Hara bears responsibility for politically motivated criminal cases against peaceful protestors, members of the opposition, journalists, civil society and regular citizens. Mr Hara was also involved in initiating of politically motivated criminal proceedings against Siarhei Tsikhanousky – opposition activist and husband of presidential candidate Svetlana Tsikhanouskaya.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>POB: Tbilisi, former Georgian SSR (now Georgia) Gender: male  Nationality: Belarusian </td><td>As the Head of the Intergovernmental Commission created by the Office of the General Prosecutor to investigate citizens' complaints about abuse of powers by law enforcement officers, Dzmitry Hara is responsible for inaction of this institution, since no case of such an investigation is known, despite applications for the initiation of criminal cases complaining about the use of violence, ill-treatment and torture. As of March 2021, he is the Chairman of the Investigative Committee of Belarus. In this position he is responsible for prosecuting human rights defenders and participants in peaceful protests. </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition</td><td>  </td></tr>
+<tr><td>106.</td><td>Aliaksei Kanstantsinavich STUK Alexey Konstantinovich STUK </td><td>Аляĸсей Канстанцінавіч СТУК Алеĸсей Константинович СТУК </td><td>Deputy Prosecutor General of the Republic of Belarus DOB: 1959  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position of Deputy Prosecutor General, Aliaksei Stuk bears responsibility for politically motivated criminal cases against opposition, journalists, civil society and regular citizens. He is responsible for tightening the Prosecutor's Office's control of citizens' activities in localities and work places and is responsible for applying excessive legal responsibilities on participants in peaceful protests. He publicly stated that the Office of Prosecutor General would work to identify "illegal" citizen associations and suppress their activities.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>107.</td><td>Genadz Iosifavich DYSKO Gennadi Iosifovich DYSKO </td><td>Генадзь Іосіфавіч ДЫСКО Геннадий Иосифович ДЫСКО </td><td>Deputy Prosecutor General of the Republic of Belarus, State Counselor of Justice of the 3rd class DOB: 22.03.1964 POB: Oshmyany, Hrodna region, (former USSR) now Belarus  Gender: male  Nationality: Belarusian </td><td>In his position of Deputy Prosecutor General, Genadz Dysko bears responsibility for politically motivated criminal cases against opposition, journalists, civil society and regular citizens. He was also involved in initiating of politically motivated criminal proceedings against Siarhei Tsikhanousky - opposition activist and husband of presidential candidate Svetlana Tsikhanouskaya. He is therefore responsible for serious human rights violations and seriously undermining the rule of law, as well as the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>108.</td><td>Sviatlana, Anatoleuna LYUBETSKAYA Svetlana Anatolevna LYUBETSKAYA </td><td>Святлана Анатольеўна ЛЮБЕЦКАЯ Светлана Анатольевна ЛЮБЕЦКАЯ </td><td>Position(s): Judge in the Constitutional Court of Belarus, former member of the House of Representatives of the National Assembly of the Republic of Belarus, former Chairperson of the Standing Commission on Law DOB: 3.6.1971  POB: USSR (now Ukraine)  Gender: female  Nationality: Belarusian </td><td>In her former position as Chairperson of the Parliamentary Commission on Law, Sviatlana Lyubetskaya was responsible for the adoption of the new Code of Administrative Infringements (entered into force on 1 March 2021) that authorises arbitrary arrests and imposed increased liability for participation in mass events, including for display of political symbols. Through these legislative activities, she is responsible for serious violations of human rights, including the right of peaceful assembly, and the repression of civil society and democratic opposition. These legislative activities also seriously undermine democracy and the rule of law in Belarus. She remains active in the Lukashenko regime as a judge in the Constitutional Court, appointed by Alexander Lukashenko. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>109.</td><td>Aliaksei Uladzimiravich IAHORAU Alexei Vladimirovich YEGOROV </td><td>Аляксей Уладзіміравіч ЯГОРАЎ Алексей Владимирович ЕГОРОВ </td><td>Member of the House of Representatives of the National Assembly of the Republic of Belarus, Deputy Chairperson of the Standing Commission on Law DOB: 16.12.1969 </td><td>In his position as Deputy Chairperson of the Parliamentary Commission on Law, Aliaksei Iahorau is responsible for the adoption of the new Code of Administrative Infringements (entered into force on 1 March 2021) that authorises arbitrary arrests and imposed increased liability for participation in mass events, including for display of political symbols. Through these legislative activities, he is responsible for serious violations of human rights, including the right of peaceful assembly, and the repression of civil society and democratic opposition. These legislative activities also seriously undermine democracy and the rule of law in Belarus.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>POB: Novosokolniki, Pskov region, former USSR (now Russian Federation) Gender: male  Nationality: Belarusian </td><td>  </td><td>  </td></tr>
+<tr><td>110.</td><td>Aliaksandr Paulavich AMELIANIUK Aleksandr Pavlovich OMELYANYUK </td><td>Аляксандр Паўлавіч АМЕЛЬЯНЮК Александр Павлович ОМЕЛЬЯНЮК </td><td>Member of the House of Representatives of the National Assembly of the Republic of Belarus, Deputy Chairperson of the Standing Commission on Law DOB: 06.03.1964 </td><td>In his position as Deputy Chairperson of the Parliamentary Commission on Law, Aliaksandr Amelianiuk is responsible for the adoption of the new Code of Administrative Infringements (entered into force on 1 March 2021) that authorises arbitrary arrests and imposed increased liability for participation in mass events, including display of political symbols. Through these legislative activities, he is responsible for serious violations of human rights, including the right to peaceful assembly, and the repression of civil society and democratic opposition. These legislative activities also seriously undermine democracy and the rule of law in Belarus.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>POB: Kobrin, Brest Region/ Oblast, former USSR (now Belarus) Gender: male  Nationality: Belarusian </td><td>  </td><td>  </td></tr>
+<tr><td>111.</td><td>Andrei Mikalaevich MUKAVOZCHYK Andrei Nikolaevich MUKOVOZCHYK </td><td>Андрэй Міĸалаевіч МУКАВОЗЧЫК Андрей Ниĸолаевич МУКОВОЗЧИК </td><td>Political observer of "Belarus Today" ("Sovietskaia Belarus - Belarus Segodnya") DOB: 13.06.1963  POB: Novosibirsk, former USSR (now Russian Federation) </td><td>Andrei Mukavozchyk is one of the main propagandists of the Lukashenka regime publishing in "Belarus Today", the official newspaper of the Presidential Administration. In his articles, democratic opposition and civil society are systematically highlighted in a negative and derogatory way, using falsified information. He is one of the main sources of state propaganda, which supports and justifies the repression of the democratic opposition and of civil society.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Gender: male Nationality: Belarusian  Passport number: MP 3413113 and MP 2387911 </td><td>In May 2020, Mukavozchyk became a recipient of the "Golden Pen" award from a pro-governmental organization Belarusian Union of Journalists. In December 2020, he received the prize "Golden Letter", handed over by representatives of the Belarussian Ministry of Information. In January 2021, Lukashenka signed a decree awarding Mukavozchyk a medal "For labour merits". He is therefore benefitting from and supporting the Lukashenka regime. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>112.</td><td>Siarhei Aliaksandravich GUSACHENKA Sergey Alexandrovich GUSACHENKO </td><td>Сяргей Аляксандравiч ГУСАЧЭНКА Сергей Александрович ГУСАЧЕНКО </td><td>Position(s): First Deputy Chairman of the National State Television and Radio Company (Belteleradio Company) DOB: 5.11.1983  POB: Minsk, USSR (now Belarus)  Gender: male  Nationality: Belarusian  Tel. (office): + 375 (17) 369-90-15 </td><td>In his position as the First Deputy Chairman of Belteleradio Company (the National State Television and Radio Company), author and host of weekly propaganda television show ‘Glavnyy efir’, Siarhei Gusachenka has been willingly providing the Belarusian public with false information about the outcome of elections, protests, repressions perpetrated by the state authorities and activities of the Lukashenka regime that facilitate illegal crossing of the external borders of the Union. He is directly responsible for the way in which the state television presents information about the situation in the country, thus lending support to the authorities including Lukashenka. He is therefore supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>113.</td><td>Genadz Branislavavich DAVYDZKA Gennadi Bronislavovich DAVYDKO </td><td>Генадзь Браніслававіч ДАВЫДЗЬКА Геннадий Брониславович ДАВЫДЬКO </td><td>Member of the Chamber of Representatives, Chair of the Committee on Human Rights and Media Chair of the Belarusian political organisation Belaya Rus  DOB: 29.09.1955 </td><td>As the Chairman of Belaya Rus, a major pro-Lukashenka organization, Genadz Davydzka is one of the main propagandists of the regime. In his support for Lukashenka, he frequently used inflammatory language, and encouraged the violence of the state apparatus against peaceful protesters. He is therefore supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>POB: Popovka village, Senno/Sjanno, Vitebsk Region, former USSR (now Belarus) Gender: male  Nationality: Belarusian  Passport MP2156098 </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>114.</td><td>Volha Mikalaeuna CHAMADANAVA Olga Nikolaevna CHEMODANOVA </td><td>Вольга Мiĸалаеўна ЧАМАДАНАВА Ольга Ниĸолаевна ЧЕМОДАНОВА </td><td>Position(s): Former Press Secretary of the Ministry of Internal Affairs of Belarus Head of the Main Directorate for Ideology and Youth of the Minsk City Executive Committee  DOB: 13.10.1977  POB: Minsk Region/Oblast, former USSR (now Belarus)  Gender: female  Nationality: Belarusian  Rank: Colonel  Passport: MC1405076 </td><td>In her former position as the main media person of the Ministry of Internal Affairs of Belarus, Volha Chamadanava played a key role in distorting and deflecting the facts regarding violence against protesters, as well as in spreading false information about them. She threatened peaceful protesters and continuously justified violence against them. Since she has been a part of the security apparatus and has spoken on its behalf, she is therefore supporting the Lukashenka regime.  She remains active in the Lukashenka regime as the Head of the Main Directorate for Ideology and Youth of the Minsk City Executive Committee. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>115.</td><td>Siarhei Ivanavich SKRYBA Sergei Ivanovich SKRIBA </td><td>Сяргей Іванавіч СКРЫБА Сергей Иванович СКРИБА </td><td>Vice Chancellor of the Belarusian State Economic University for Educational Work DOB: 21.11.1964 / 1965  POB: Kletsk, Minsk Region, former USSR (now Belarus)  Gender: male  Nationality: Belarusian  e-mail: skriba_s@bseu.by </td><td>In his position as Vice Chancellor of the Belarusian State Economic University (BSEU) for educational work, Siarhei Skryba is responsible for sanctions taken against students for their participation in peaceful protests, including their expulsion from university. Some of these sanctions were taken following Lukashenka's call on 27 October 2020 for expelling from universities students taking part in protests and strikes.  He is therefore responsible for the repression of civil society and is supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>116.</td><td>Siarhei Piatrovich, RUBNIKOVICH Sergei Petrovich RUBNIKOVICH </td><td>Сяргей Пятровіч РУБНIКОВIЧ Сергей Петрович РУБНИКОВИЧ </td><td>Position(s): Rector of the Belarusian State Medical University DOB: 18.06.1974  POB: Sharkauschyna, Vitebsk/Viciebsk Region/Oblast, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Rector of the Belarusian State Medical University, whose appointment was approved by Alexander Lukashenka, Siarhei Rubnikovich is responsible for the decision of University administration to expel students for taking part in peaceful protests. The expulsion orders were taken following Lukashenka's call on 27 October 2020 for expelling from universities students taking part in protests and strikes. He is therefore responsible for the repression of civil society and is supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td>117.</td><td>Aliaksandr Henadzevich BAKHANOVICH Aleksandr Gennadevich BAKHANOVICH </td><td>Аляĸсандр Генадзевiч БАХАНОВIЧ Алеĸсандр Геннадьевич БАХАНОВИЧ </td><td>Position(s): First Deputy Minister of Education, former Rector of the Brest State Technical University DOB: 15.09.1972  Gender: male  Nationality: Belarusian </td><td>In his former position as the Rector of the Brest State Technical University, whose appointment was approved by Alexander Lukashenka, Aliaksandr Bakhanovich was responsible for the decision of the university administration to expel students for taking part in peaceful protests. The expulsion orders were made following Lukashenka’s call on 27 October 2020 to expel from universities students taking part in protests and strikes. In January 2023, Aliaksandr Bakhanovich was appointed First Deputy Minister of Education of the Republic of Belarus. He is therefore responsible for the repression of civil society and is supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>118.</td><td>Mikhail Ryhoravich BARAZNA Mikhail Grigorevich BOROZNA </td><td>Міхаіл Рыгоравіч БАРАЗНА Михаил Григорьевич БОРОЗНА </td><td>Rector of the Belarusian State Academy of Arts (BSAA) DOB: 20.11.1962  POB: Rakusheva, Mahileu/ Mogiliev Region/ Oblast, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Rector of the Belarusian State Academy of Arts (BSAA), Mikhail Barazna is responsible for the decision of University administration to expel students for taking part in peaceful protests. The expulsion orders were taken following Lukashenka's call on 27 October 2020 for expelling from universities students taking part in protests and strikes.  Mikhail Barazna is therefore responsible for the repression of civil society and is supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>119.</td><td>Maxim Uladzimiravich RYZHANKOU Maxim Vladimirovich RYZHENKOV </td><td>Максім Уладзіміравіч РЫЖАНКОЎ Максим Владимирович РЫЖЕНКОВ </td><td>Position(s): Minister of Foreign Affairs; First Deputy Head of the Presidential Administration DOB: 19.06.1972  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the First Deputy Head of the Presidential Administration, Maxim Ryzhankou is closely associated with the President and responsible for ensuring the implementation of presidential powers in the field of domestic and foreign policy. For over 20 years of his career in the civil service of Belarus he has held a number of posts, including in the Ministry of Foreign Affairs and various embassies. As the Minister of Foreign Affairs, he continues to hold a position of power and to implement the Lukashenka regime’s foreign policy. He is therefore supporting the Lukashenka regime.</td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>120.</td><td>Dzmitry Aliaksandravich LUKASHENKA Dmitry Aleksandrovich LUKASHENKO </td><td>Дзмітрый Аляксандравіч ЛУКАШЭНКА Дмитрий Александрович ЛУКАШЕНКО </td><td>Businessman, chairman of President’s Sport Club DOB: 23.03.1980  POB: Mogilev/ Mahiliou, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>Dzmitry Lukashenka is Aliaksandr Lukashenka’s son and a businessman. He has been the chairman of the State-Public Association ‘Presidential Sport’s Club’ since 2005 and in 2020 he has been re-elected to this post. Through this entity, he conducts business and controls a number of enterprises. He was present on Aliaksandr Lukashenka’s secret inauguration in September 2020. He is therefore benefiting from and supporting the Lukashenka regime.</td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>121.</td><td>Liliya Valereuna LUKASHENKA (SIAMASHKA) Liliya Valerevna LUKASHENKO (SEMASHKO) </td><td>Лiлiя Валер'еўна ЛУКАШЭНКА (СЯМАШКА) Лилия Валерьевна ЛУКАШЕНКО (СЕМАШКО) </td><td>Position(s): Businesswoman, director of an art gallery DOB: 29.10.1979  Gender: female  Nationality: Belarusian  Personal ID: 4291079A047PB1 </td><td>Liliya Lukashenka is the wife of Viktar Lukashenka and daughter-in-law of Aliaksandr Lukashenka. She has been closely connected with a number of high-profile companies which have benefitted from the Lukashenka regime, including Dana Holdings / Dana Astra and Belkhudozhpromysly concern. She was present, alongside her husband Viktar Lukashenka, on Aliaksandr Lukashenka's secret inauguration in September 2020. She is currently the director of the art gallery Art Chaos. Her business activities are promoted by regime-affiliated media.  She is therefore benefitting from and supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>122.</td><td>Valeri Valerevich IVANKOVICH Valery Valerevich IVANKOVICH </td><td>Валерый Валер’евіч IВАНКОВIЧ Валерий Валерьевич ИВАНКОВИЧ </td><td>Position(s): General Director of OJSC ‘MAZ’. DOB: 15.02.1971  POB: Novopolotsk, Belarusian SSR (Now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the General Director of OJSC ‘MAZ’, Valeri Ivankovich bears responsibility for the detention of MAZ workers within MAZ premises by security forces, and for firing MAZ employees who were participating in peaceful protests against the regime. He is therefore responsible for the repression of civil society. He was appointed by Lukashenka as a member of the commission tasked to draft amendments to the Belarus constitution. He therefore supports the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>123.</td><td>Aliaksandr Yauhenavich SHATROU Alexander (Alexandr) Evgenevich SHATROV </td><td>Аляксандр Яўгенавiч ШАТРОЎ Александр Евгеньевич ШАТРОВ </td><td>Position(s): Businessman, shareholder and former head of Synesis LLC DOB: 9.11.1978  POB: former USSR (now Russian Federation)  Gender: male  Nationality: Russian, Belarusian  Personal ID: 3091178A002VF5 </td><td>In his position as the former head and former majority shareholder of Synesis LLC, Alexander Shatrov was responsible for that company’s decision to provide Belarusian authorities with a surveillance platform, Kipod, which can search through and analyse video footage and employ facial recognition software. He is therefore contributing to the repression of civil society and democratic opposition by the state apparatus. Synesis claims to have stopped providing the Belarusian authorities with the Kipod platform, but according to ByPOL reports Kipod is still used by the state securities agencies. Synesis is one of the residents of the Hi-Tech Park, created by a decree of Aliaksandr Lukashenka, and as such enjoys numerous benefits, including exemptions from income tax, VAT, offshore duty, customs duties and others.  Synesis LLC and its subsidiary Panoptes have benefitted from their participation in the Republican Safety Monitoring System. Other companies which have been owned or co-owned by Shatrov, such as BelBet and Synesis Sport, also benefit from government contracts.  He made public statements in which he criticised those protesting against the Lukashenka regime and put into perspective the lack of democracy in Belarus. He therefore benefits from and supports the Lukashenka regime.  He remains a shareholder of Synesis LLC. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>124.</td><td>Siarhei Siamionavich TSIATSERYN Sergei Semionovich TETERIN </td><td>Сяргей Сямёнавiч ЦЯЦЕРЫН Сергей Семёнович ТЕТЕРИН </td><td>Position(s): Businessman, owner of BelGlobalStart, co-owner of VIBEL, former Chairman of the Belarusian Tennis Federation DOB: 7.1.1961  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>Siarhei Tsiatseryn is one of the leading businessmen operating in Belarus, with business interests in the distribution of alcohol drinks (through his company BelGlobalStart), food products and furniture. He belongs to Lukashenka's inner circle. In 2019, BelGlobalStart was granted an opportunity to start the construction of a multi-functional business centre in front of the presidential palace in Minsk. He co-owns the company VIBEL, which sells commercials on a number of Belarusian national TV channels. He was the chairman of the Belarusian Tennis Federation and Lukashenka's former aide for sports matters. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>125.</td><td>Mikail Safarbekovich GUTSERIEV</td><td>Микаил (Михаил) Сафарбекович ГУЦЕРИЕВ</td><td>Position(s): Businessman; Former shareholder and chairman of the board of executives of Slavkali; chairman of the board of directors and shareholder of: JSC Mospromstroi, Industrial Financial Group Safmar JSC, LLC Proekt Grad; Member of the board of directors and shareholder of JSC NKNeftisa DOB: 9.3.1958  POB: Akmolinsk, USSR (now Kazakhstan)  Gender: male  Nationality: Russian </td><td>Mikail Gutseriev is a prominent Russian businessman, with business interests in the energy sector, critical minerals sector and other sectors. Furthermore, he is active in the post-Soviet cultural sector. He is a long-time acquaintance of Aliaksandr Lukashenka and thanks to that association had accumulated significant wealth and influence among the political elite in Belarus. Safmar, an entity linked to Mikail Gutseriev, was the only Russian oil firm that carried on supplying oil to Belarusian refineries during the energy crisis between Belarus and Russia in early 2020.  Mikail Gutseriev also supported Lukashenka in disputes with Russia over oil deliveries. Mikail Gutseriev has been the chairman of the board of directors of, and a shareholder in, the Slavkali company, which was building the Nezhinsky potassium chloride mining and processing plant based on the Starobinsky potash salt deposit near Lyuban. It was the largest investment in Belarus, worth USD 2 billion. Lukashenka promised to rename the town of Lyuban ‘Gutserievsk’ in Mikail Gutseriev’s honour. The Nezhinsky project was nationalised. Under Belarusian law, Mikail Gutseriev should be compensated for the nationalisation of the plant, and Mikail Gutseriev has stated that he is in negotiations with the regime regarding the matter of compensation.  Mikail Gutseriev’s other businesses in Belarus have included fuelling stations and oil depots, a hotel, a business centre and an airport terminal in Minsk. Lukashenka also thanked Mikail Gutseriev for his financial contributions to charity and investments worth billions of dollars in Belarus. Mikail Gutseriev attended Lukashenka’s inauguration in 2020. In that same year, Lukashenka and Mikail Gutseriev both appeared at the opening of an orthodox church, which the latter sponsored.  Mikail Gutseriev assisted with the acquisition of CT scanners for Belarus during the COVID-19 crisis. In 2024, Lukashenka’s daughter-in-law won the ‘Chanson of the year award’, organised by Mikail Gutseriev’s radio station, which helped create momentum around her persona before she became the campaign leader for the 2025 Belarusian elections. Mikail Gutseriev is therefore benefitting from and supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>126.</td><td>Aliaksey Ivanavich ALEKSIN Alexei Ivanovich OLEKSIN </td><td>Аляксей Іванавіч АЛЕКСІН Алексей Иванович ОЛЕКСИН </td><td>Businessman, Co-owner of Bremino Group, DOB:  POB:  Gender: male  Nationality: Belarusian </td><td>Aliaksei Aleksin is one of the leading businessmen in Belarus, with business interests in the sectors of oil and energy, real estate, development, logistics, tobacco, retail, finance and others. He enjoys a close relationship with Aliaksandr Lukashenka and his son and former National Security Advisor Viktar Lukashenka. He is active in the biker movement in Belarus, a hobby he shares with Viktar Lukashenka. His company owns property in ‘Alexandria 2’ (Mogilev region), commonly called ‘presidential residence’, where Aliaksandr Lukashenka is a frequent visitor.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is the co-owner of ‘Bremino Group’ – the initiator and co-administrator of the Bremino-Orsha special economic zone project, created by a presidential decree signed by Aliaksandr Lukashenka. The company has received state support for developing the Bremino-Orsha zone, as well as a number of financial and tax advantages and other benefits. Aleksin and other owners of Bremino Group received support from Viktar Lukashenka.</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>Companies ‘Inter Tobacco’ and ‘Energo-Oil’, which belong to Aleksin and members of his close family, were given exclusive privileges to import tobacco products to Belarus, based on a decree signed by Aliaksandr Lukashenka, and received state support for the creation of Tabakierka kiosks. He was allegedly involved in the establishment of the first government-approved private military company in Belarus ‘GardServis’, with reported links to the Belarussian security apparatus. He is therefore benefitting from the Lukashenka regime.</td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>127.</td><td>Aliaksandr Mikalaevich ZAITSAU Alexander (Alexandr) Nikolaevich ZAITSEV </td><td>Аляксандр Мiкалаевiч ЗАЙЦАЎ Александр Николаевич ЗАЙЦЕВ </td><td>Position(s): Businessman, co-owner of Bremino Group and Sohra Group DOB: 22.11.1976  POB: Ruzhany, Brest Region/Oblast, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>Aliaksandr Zaitsau is the former assistant of Viktar Lukashenka, son of and former Adviser on National Security to Aliaksandr Lukashenka. Through access to the Lukashenka family, Zaitsau obtains lucrative contracts for his businesses. He has had close ties with the Sohra Group that is granted the right to export state-owned enterprises' production (tractors and trucks) to the Gulf and African countries. He is also the co-owner and chairman of the Council of participants of Bremino Group. The company has received state support for developing the Bremino-Orsha zone, as well as a number of financial and tax advantages and other benefits. Zaitsau and other owners of Bremino Group received support from Viktar Lukashenka. He therefore benefits from and supports the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>128.</td><td>Ivan Branislavavich MYSLITSKI Ivan Bronislavovich MYSLITSKIY </td><td>Іван Браніслававіч МЫСЛІЦКІ Иван Брониславович МЫСЛИЦКИЙ </td><td>First Deputy Head of the Penal Correction Department Of the Ministry of Internal Affairs DOB: 23.10.1976  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as First Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs that has authority over detention facilities, Ivan Myslitski is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>In his position, he bears responsibility for detention conditions in Belarusian prisons, including the categorisation of prisoners corresponding to different kinds of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings and brutal torture. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>129.</td><td>Aleh Mikalaevich, BELIAKOU Oleg Nikolaevich BELIAKOV </td><td>Алег Мiĸалаевiч БЕЛЯКОЎ Олег Ниĸолаевич БЕЛЯКОВ </td><td>Position: Head of the Department of ideological work and personnel support at the Ministry of Internal Affairs of Belarus, former Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs DOB:  POB:  Gender: male  Nationality: Belarusian </td><td>In his former position as Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs that has authority over detention facilities, Aleh Beliakou was responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry. In his position, he bears responsibility for detention conditions in Belarusian prisons, including the categorisation of prisoners corresponding to different kinds of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings and brutal torture.  He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as Head of the Department of ideological work and personnel support at the Ministry of Internal Affairs of Belarus. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>130.</td><td>Uladzislau Aliakseevich MANDRYK Vladislav Alekseevich MANDRIK </td><td>Уладзіслаў Аляксеевіч МАНДРЫК Владислав Алексеевич МАНДРИК </td><td>Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs DOB: 04.07.1971  POB:  National ID: 3040771A125PB2; Passport: MP3810311.  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs that has authority over detention facilities, Uladzislau Mandryk is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>In his position, he bears responsibility for detention conditions in Belarusian prisons, including the categorization of prisoners, corresponding to different kinds of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings and brutal torture. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>131.</td><td>Andrei Mikalaevich DAILIDA Andrei Nikolaevich DAILIDA </td><td>Андрэй Мiкалаевiч ДАЙЛIДА Андрей Ниĸолаевич ДАЙЛИДА </td><td>Position: Head of the Rear Support Department at the Ministry of Internal Affairs of Belarus, former Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs DOB: 1.7.1974  POB:  Passport: KH2133825  Gender: male  Nationality: Belarusian </td><td>In his former position as Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs that has authority over detention facilities, Andrei Dailida was responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry. In his position, he bears responsibility for detention conditions in Belarusian prisons, including the categorization of prisoners, corresponding to different kinds of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings and brutal torture. For his work as Deputy head of the Penal Correction Department of the Ministry of Internal Affairs, he received, in December 2020, the Presidential Order for service to the Motherland and has therefore benefitted from the Lukashenka regime.  He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as Head of the Rear Support Department at the Ministry of Internal Affairs of Belarus. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>132.</td><td>Aleh Mikalaevich LASHCHYNOUSKI Oleg Nikolaevich LASHCHINOVSKII </td><td>Алег Мікалаевіч ЛАШЧЫНОЎСКІ Олег Николаевич ЛАЩИНОВСКИЙ </td><td>Former Deputy Head of the Penal Correction Department of the Ministry of Internal Affairs DOB: 12.05.1963  POB:  Gender: male  Nationality: Belarusian </td><td>In his former position as Deputy Head of the Penal Correction Department that has authority over detention facilities of the Ministry of Internal Affairs, Aleh Lashchynouski is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>In his former position, he bears responsibility for conditions in Belarusian prisons and the repressive measures taken there, including the categorisation of prisoners corresponding to different kinds of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings and brutal torture. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>133.</td><td>Zhana Uladzimirauna BATURYTSKAIA Zhanna Vladimirovna BATURITSKAYA </td><td>Жана Уладзіміраўна БАТУРЫЦКАЯ Жанна Владимировна БАТУРИЦКАЯ </td><td>Head of the Directorate of Sentence Enforcement of the Penal Correction Department of the Ministry of Internal Affairs DOB: 20.04.1972  POB:  Gender: female  Nationality: Belarusian </td><td>In her position as Head of the Directorate of Sentence Enforcement of the Penal Correction Department of the Ministry of Internal Affairs that has authority over detention facilities, Zhana Baturitskaia is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in those detention facilities in the wake of the 2020 presidential election, in line with the address of Lukashenka to officers of the Interior Ministry.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>In her position, she bears responsibility for detention conditions in Belarusian prisons, including the categorisation of prisoners corresponding to different kind of ill-treatment and torture the detainees are subject to, such as verbal abuse, punitive isolation, deprivation of calls and visits, mutilation, beatings, brutal torture. She is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>134.</td><td>Dzmitry Mikalaevich STREBKOU Dmitry Nikolaevich STREBKOV </td><td>Дзмітрый Мікалаевіч СТРЭБКОЎ Дмитрий Николаевич СТРЕБКОВ </td><td>Position(s): Head of the Prison No. 8 in Zhodino; Deputy of Zhodino City Council DOB: 19.03.1977  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Head of the Prison No. 8 in Zhodino, Dzmitry Strebkou is responsible for the appalling conditions in the detention centre and for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in this detention facility, including in its temporary detention centre, in the wake of the 2020 presidential election. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition in Belarus. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>135.</td><td>Yauhen Andreevich SHAPETSKA Evgeniy Andreevich SHAPETKO </td><td>Яўген Андрэевіч ШАПЕЦЬКА Евгений Андреевич ШАПЕТЬКО </td><td>Head of Akrestina isolation centre for offenders DOB: 30.03.1989  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Akrestina Isolation Centre for Offenders, Yauhen Shapetska is responsible for appalling conditions in the isolation centre and for the inhumane and degrading treatment, including torture, inflicted on citizens who participated in peaceful protests and were detained in this detention facility in the wake of the 2020 presidential election. He is therefore responsible for serious violations of human rights and for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>136.</td><td>Ihar Ryhoravich KENIUKH Igor Grigorevich KENIUKH </td><td>Ігар Рыгоравіч КЕНЮХ Игорь Григорьевич КЕНЮХ </td><td>Head of Akrestina Temporary Detention Centre DOB: 21.01.1980  POB: Gomel Region/ Oblast, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Akrestina Temporary Detention Centre, Ihar Keniukh is responsible for appalling conditions and for the inhumane and degrading treatment, including beatings and torture, inflicted on citizens detained in this detention facility in the wake of the 2020 presidential election.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He exerted pressure on medical staff to remove doctors who sympathize with protesters. According to the testimony of multiple women included in the report of the Centre for Promotion of Women’s Rights, "Her Rights," the most inhumane treatment took place in the detention centre at Akrestina in Minsk, where the OMON policemen were especially cruel and used torture. He is therefore responsible for serious violations of human rights and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>137.</td><td>Hleb Uladzimiravich DRYL Gleb Vladimirovich DRIL </td><td>Глеб Уладзіміравіч ДРЫЛЬ Глеб Владимирович ДРИЛЬ </td><td>Deputy Head of the Akrestina Temporary Detention Centre DOB: 12.05.1980  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Head of the Temporary Detention Centre, Hleb Dryl is responsible for the appalling conditions and for the inhumane and degrading treatment, including beatings and torture, inflicted on citizens detained in this detention facility in the wake of the 2020 presidential election.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>According to witness testimonies, some of the women detained on 9-12 August 2020 were heavily beaten in the detention centres. According to the testimony of multiple women, included in the report of the Centre for Promotion of Women’s Rights ‘Her Rights’, the most inhumane treatment took place in the detention centre at Akrestina in Minsk, where the OMON policemen were especially cruel and used torture. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>138.</td><td>Uladzimir Iosifavich LAPYR Vladimir Yosifovich LAPYR </td><td>Уладзімір Іосіфавіч ЛАПЫР Владимир Иосифович ЛАПЫРЬ </td><td>Deputy Head of the Akrestina Temporary Detention Centre DOB: 21.08.1977  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Head of the Akrestina Temporary Detention Centre, Uladzimir Lapyr is responsible for appalling conditions and for the inhumane and degrading treatment, including beatings and torture, inflicted on citizens detained in this detention facility in the wake of the 2020 presidential election. According to the testimony of multiple women included in the report of the Centre for Promotion of Women’s Rights, "Her Rights," the most inhumane treatment took place in the detention centre at Akrestina in Minsk, where the OMON policemen were especially cruel and used torture.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious violations of human rights and for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>139.</td><td>Aliaksandr Uladzimiravich VASILIUK Alexander (Alexandr) Vladimirovich VASILIUK </td><td>Аляксандр Уладзіміравіч ВАСІЛЮК Александр Владимирович ВАСИЛЮК </td><td>Head of the Investigation team of the Investigative Committee DOB: 08.05.1975  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Head of the Investigation team of the Investigative Committee of Belarus, Aliaksandr Vasiliuk is responsible for politically-motivated prosecutions and detention, in particular of the opposition Coordination Council members, including Belarusian opposition leader Mariya Kalesnikava who is considered a political prisoner by human rights organisations. He is also responsible for the detention of several opposition media representatives. He is therefore responsible for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>140.</td><td>Yauhen Anatolevich ARKHIREEU Evgeniy Anatolevich ARKHIREEV </td><td>Яўген Анатольевіч АРХІРЭЕЎ Евгений Анатольевич АРХИРЕЕВ </td><td>Head of the Main Investigation Department, Central Office of Investigative Committee DOB: 1.07.1977  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Main Investigation Department of the Investigative Committee of Belarus, Yauhen Arkhireeu is responsible for initiating and investigating politically-motivated criminal proceedings, in particular of the opposition Coordination Council members and other protesters. Such investigations are aimed at intimidating protesters, as well as criminalizing the participation in peaceful protests. He is therefore responsible for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>141.</td><td>Aliaksei Iharavich KAURYZHKIN Alexey Igorovich KOVRYZHKIN </td><td>Аляĸсей Ігаравіч КАЎРЫЖКІН Алеĸсей Игоревич КОВРИЖКИН </td><td>Head of Investigation Team, Main Investigation Department, Investigative Committee DOB: 03.11.1981  POB: Bobruisk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Investigation Team of the Investigative Committee of Belarus, Aliaksei Kauryzhkin is responsible for politically motivated prosecutions and detention, in particular of members of Viktar Babarika's presidential campaign team and of Coordination Council members, including lawyer Maksim Znak who is considered a political prisoner by human rights organisations. He is therefore responsible for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>142.</td><td>Aliaksandr Dzmitryevich AHAFONAU Alexander (Alexandr) Dmitrievich AGAFONOV </td><td>Аляксандр Дзмітрыевіч АГАФОНАЎ Александр Дмитриевич АГАФОНОВ </td><td>First Deputy Head of the Main Investigation Department, Investigative Committee DOB: 13.03.1982  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as the First Deputy Head of the Main Investigation Department of the Investigative Committee of Belarus, Aliaksandr Ahafonau is responsible for politically-motivated prosecutions and arrests of the presidential candidate Siarhei Tsikhanousky – opposition activist and husband of presidential candidate Svetlana Tsikhanouskaya. and other political activists, including Mikalai Statkevich and Dzmitry Kazlou. Siarhei Tsikhanousky, Dzmitry Kazlou, and Mikalai Statkevich are recognised as political prisoners by Viasna, a Belarussian human rights organisation.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>143.</td><td>Kanstantsin Fiodaravich BYCHAK Konstantin Fedorovich BYCHEK </td><td>Канстанцін Фёдаравіч БЫЧАК Константин Фёдорович БЫЧЕК </td><td>Head of Division of the KGB Investigation Department DOB: 20.09.1985  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Head of Division of the KGB Investigation Department, Kanstantin Bychak has supervised politically motivated investigation of presidential candidate Viktar Babarika. Babarika’s candidacy was rejected by the Central Election Commission. This decision was based on a report from the KGB and official TV statements of Bychak declaring Babarika guilty of money laundering while investigations were still ongoing.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>On October 26, 2020, Bychak threatened peaceful protestors on the governmental TV by stating that their actions would be classified as acts of terrorism. He is therefore responsible for the repression of the democratic opposition and civil society. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>144.</td><td>Andrei Siarheevich BAKACH Andrei Sergeevich BAKACH </td><td>Андрэй Сяргеевiч БАКАЧ Андрей Сергеевич БАКАЧ </td><td>Position(s): Former Head of the Pervomaysky District Police Department of Minsk First Deputy Head of the Internal Affairs Directorate of the Grodno/Hrodna Regional Executive Committee  DOB: 19.11.1983  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his former position as Head of the Department of Internal Affairs of the Pervomaysky District Administration in Minsk, Andrei Bakach was responsible for the actions of police forces belonging to that police precinct and for the actions occurring in the police station. During his time as Head, peaceful protesters in Minsk were subjected to cruel, inhumane and degrading treatment inside the police station under his control. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as the First Deputy Head of the Internal Affairs Directorate of the Grodno/Hrodna Regional Executive Committee. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>145.</td><td>Aliaksandr Uladzimiravich, PALULEKH Aleksandr Vladimirovich POLULEKH </td><td>Аляксандр Уладзіміравіч ПАЛУЛЕХ Александр Владимирович ПОЛУЛЕХ </td><td>Head of the Frunzensky District Police Department of Minsk DOB: 25.06.1979  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Internal Affairs Directorate of the Frunzensky District Administration of Minsk, Aliaksandr Palulekh is responsible for the repression led by the police forces in this district against peaceful protesters in the wake of the 2020 presidential elections, in particular with ill-treatment, including torture, of peaceful protesters who were detained inside the police station under his control. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>146.</td><td>Aliaksandr Aliaksandravich ZAKHVITSEVICH Aleksandr Aleksandrovich ZAKHVITSEVICH </td><td>Аляксандр Аляксандравіч ЗАХВІЦЭВІЧ Александр Александрович ЗАХВИЦЕВИЧ </td><td>Deputy Head of the Frunzensky District Police Department of Minsk DOB: 01.01.1977  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as the Deputy Head of the Frunzensky District Police Department of Minsk Aliaksandr Zakhvitsevich supervises public security police and is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained in the Frunzenskiy District in the wake of the 2020 presidential election and for the general brutal crackdown on peaceful protesters in this district. Officers under Zakhvitsevich's supervision used torture against detainees. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>147.</td><td>Siarhei Uladzimiravich USHAKOU Sergei Vladimirovich USHAKOV </td><td>Сяргей Уладзiмiравiч УШАКОЎ Сергей Владимирович УШАКОВ </td><td>Position(s): Head, and former Deputy Head, of the Frunzensky District Police Department of Minsk DOB: 22.8.1980  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his former position as the Deputy Head of the Frunzensky District Police Department of Minsk supervising criminal police, Siarhei Ushakou was responsible for the actions of his subordinates, especially inhumane and degrading treatment, including torture, inflicted on citizens detained in the Frunzensky District in the wake of the 2020 presidential election and for the general brutal crackdown on peaceful protesters. Officers under Ushakou’s direct supervision used torture against detainees. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition.  He is currently the head of the Fruzensky District Police Department of Minsk. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>148.</td><td>Siarhei Piatrovich ARTSIOMENKA Sergei Petrovich ARTEMENKO / ARTIOMENKO </td><td>Сяргей Пятровіч АРЦЁМЕНКА Сергей Петрович АРТЁМЕНКО </td><td>Deputy Head of the Pervomaisky Police District in Minsk DOB: 26.03.1973  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as the Deputy Head of the Pervomaisky Police District in Minsk, supervising public security police, Siarhei Artemenko is responsible for the inhumane and degrading treatment, including torture, inflicted, by his subordinates on citizens detained at the Pervomaiskiy District Police Department of Minsk that occurred in the wake of the 2020 presidential election and for the general brutal crackdown on peaceful protesters. One example is the mistreatment of Maksim Haroshin, a floral shop owner, who was arrested after he gave flowers to the participants of the Women's March on 13 October 2020. Artemenko exerted pressure on citizens not to participate in peaceful demonstrations.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition.</td><td>  </td></tr>
+<tr><td>149.</td><td>Aliaksandr Mikhailavich RYDZETSKI Aleksandr Mikhailovich RIDETSKIY </td><td>Аляксандр Міхайлавіч РЫДЗЕЦКІ Александр Михайлович РИДЕЦКИЙ </td><td>Former Head of the Oktyabrskiy District Police Department of Minsk, Head of the Directorate of internal security of the State Forensic Examination Committee DOB: 14.08.1978  POB:  Gender: male  Nationality: Belarusian </td><td>In his former position as the Head of the Oktyabrsky District Police Department of Minsk, Aliandsandr Rydzetski was responsible for the inhuman and degrading treatment, including torture, inflicted by his subordinates on citizens detained in that district in the wake of the 2020 presidential election. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>150.</td><td>Dzmitry Iauhenevich BURDZIUK Dmitry Evgenevich BURDIUK </td><td>Дзмітрый Яўгеньевіч БУРДЗЮК Дмитрий Евгеньевич БУРДЮК </td><td>Function: Deputy Head of the Main Criminal Investigation Department of the Criminal Police of the Ministry of Internal Affairs of the Republic of Belarus; Head of the Oktyabrsky District Police Department; Former Head of the Partizanski District Police Department of Minsk DOB: 31.01.1980  POB: Brest region, former USSR (now Belarus)  Gender: male  Nationality: Belarusian  Personal identification: 3310180C009PB7  Passport number: MP3567896 </td><td>In his former position as Head of the Partizanski District Police Department of Minsk, Dzmitry Burdziuk was responsible for overseeing the severe beatings and torture of peaceful protesters and bystanders in that district in the wake of the 2020 presidential election. In December 2020 he was appointed Head of the Oktyabrsky District Police Department.  He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>21.6.2021</td></tr>
+<tr><td>151.</td><td>Vital Vitalevich KAPILEVICH Vitaliy Vitalevich KAPILEVICH </td><td>Віталь Вітальевіч КАПIЛЕВIЧ Виталий Витальевич КАПИЛЕВИЧ </td><td>Position(s): Former Head of the Leninsky District Police Department of Minsk; Former Deputy Head of the Main Directorate for Drug Control and Combating Human Trafficking of the Ministry of Internal Affairs of the Republic of Belarus; Deputy Head of the Main Criminal Investigation Department of the Criminal Police of the Ministry of Internal Affairs of the Republic of Belarus DOB: 26.11.1988  POB:  Gender: male  Nationality: Belarusian </td><td>In his former position as Head of the Leninsky District Police Department of Minsk, Vital Kapilevich is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained at the Leninsky District Police Department. The detainees were denied medical help; paramedics who arrived at the Department were intimidated to prevent the provision of medical assistance to the detainees. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>21.6.2021</td></tr>
+<tr><td>152.</td><td>Kiryl Stanislavavich KISLOU Kirill Stanislavovich KISLOV </td><td>Кірыл Станіслававіч КIСЛОЎ Кирилл Станиславович КИСЛОВ </td><td>Position(s): Former Head of the Zavodsky District Police Department of Minsk; Former Deputy Chief of the Public Safety Police of the Main Directorate of Internal Affairs of the Minsk City Executive Committee; Deputy Head of the Academy of the Ministry of Internal Affairs of the Republic of Belarus DOB: 02.1.1979  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his former position as Head of the Zavodsky District Police Department of Minsk, Kiryl Kislou is responsible for inhumane and degrading treatment, including torture, inflicted on citizens detained at the premises of this police station. He is also responsible for mass repressions against peaceful protesters, journalists, human rights activists, workers, representatives of the academic community and bystanders, inflicted by his subordinates. He remains active in the Lukashenka regime as the Deputy Head of the Academy of the Ministry of Internal Affairs of the Republic of Belarus.  He is therefore supporting the Lukashenka regime and responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>153.</td><td>Siarhei Aliaksandravich VAREIKA Sergey Aleksandrovich VAREIKO </td><td>Сяргей Аляĸсандравіч ВАРЭЙКА Сергей Алеĸсандрович ВАРЕЙКО </td><td>Head of Moskovski District Police Department of Minsk, former Deputy Head of the Zavodsky District Police Department of Minsk DOB: 01.02.1980  POB: </td><td>In his former position as Deputy Head of the Zavodsky District Police Siarhei Vareika is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained on the premises of the Zavodsky District Police Department in the wake of the 2020 presidential election. He is also responsible for the actions of his subordinates, who took part in mass repressions against peaceful protesters, journalists, human rights activists, workers, representatives of the academic community and bystanders.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Gender: male Nationality: Belarusian </td><td>On 21 December 2020 he was appointed Head of Moskovsky District Police Department of Minsk. He is therefore responsible for serious violations of human rights and the repression of civil society. </td><td>  </td></tr>
+<tr><td>154.</td><td>Siarhei Feliksavich DUBAVIK Sergey Feliksovich DUBOVIK </td><td>Сяргей Феліĸсавіч ДУБАВІК Сергей Фелиĸсович ДУБОВИК </td><td>Deputy Head of the Leninsky District Police Department DOB: 01.02.1974  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Head of the Leninsky District Police Department, Siarhei Dubavik is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained on the premises of the Leninsky District Police Department in the wake of the 2020 presidential election. The detainees were denied medical help; paramedics who arrived at the Department were intimidated to prevent the provision of medical assistance to the detainees.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>He is also responsible for the actions of his subordinates, who took part in mass repressions against peaceful protesters, journalists, human rights activists, workers, representatives of the academic community and bystanders. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>155.</td><td>Aliaksandr Mechyslavavich ANDRYEUSKI Alexander (Alexandr) Mechislavovich ANDRIEVSKII </td><td>Аляĸсандр Мечыслававіч АНДРЫЕЎСКІ Алеĸсандр Мечиславович АНДРИЕВСКИЙ </td><td>Deputy Head of the Frunzensky District Police Department of Minsk DOB: 29.04.1982  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as Deputy Head of the Frunzensky District Police Department in Minsk, Aliaksandr Andryeuski is responsible for inhumane and degrading treatment, including torture, inflicted on citizens detained on the premises of the Fruzensky District Police Department in the wake of the 2020 presidential election. Detaineees were standing on their knees with heads down for hours, violently beaten, hit with a taser. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>156.</td><td>Vital Mikhailavich MAKRYTSKI Vitalii Mikhailavich MAKRITSKII </td><td>Віталь Міхайлавіч МАКРЫЦКІ Виталий  Михайлович МАКРИЦКИЙ </td><td>Deputy Head of the Oktyabrsky District Police Department of Minsk (Until December 17 2020). From December 17 2020 - the Head of the Partizanski District Police Department of Minsk DOB: 17.02.1975  POB:  Gender: male  Nationality: Belarusian </td><td>In his former position as Deputy Head of the Oktyabrsky District Police Department of Minsk, Vital Makrytski was responsible for overseeing the severe beatings and torture of peaceful protesters and bystanders detained on the premises of this police department, in the wake of the 2020 presidential election. In December 2020 he was promoted to the position of the Head of the Partizanski District Police Department of Minsk.  He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td>157.</td><td>Yauhen Aliakseevich URUBLEUSKI Evgenii Alekseevich VRUBLEVSKII </td><td>Яўген Аляĸсеевіч УРУБЛЕЎСКІ ЕвгенийАлеĸсеевич ВРУБЛЕВСКИЙ </td><td>Senior Police Sergeant of the Akrestina Offenders' Isolation Centre DOB: 28.01 1966  POB:  Gender: male  Nationality: Belarusian </td><td>In his position as a senior police sergeant of the Akrestina Offenders Isolation Centre. Yauhen Urubleuski is responsible for the inhumane and degrading treatment, including torture, inflicted on citizens detained in the Offenders’ Detention Centre. According to witnesses and media reports, he personally took part in brutal beatings of civilians detained in August 2020. He is therefore responsible for serious human rights violations. </td><td>21.6.2021</td></tr>
+<tr><td>158.</td><td>Mikalai Mikalaevich KARPIANKAU Nikolai Nikolaevich KARPENKOV </td><td>Міĸалай Міĸалаевіч КАРПЯНКОЎ Ниĸолай Ниĸолаевич КАРПЕНКОВ </td><td>Deputy Minister of Internal Affairs, Former Head of the Main Department for Combating Organized Crime and Corruption of the Ministry of Internal Affairs DOB: 06.09.1968  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>In his position as the Head of the Main Department for Combating Organized Crime and Corruption of the Ministry of Internal Affairs, Mikalai Karpiankau is responsible for the inhumane and degrading treatment inflicted on citizens who participated in peaceful protests and for their arbitrary arrest and detention. Numerous testimonies, photo and video evidence indicate that the group under his command beat and arrested peaceful protestors, threatened them with firearms.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>On 6 September 2020, Karpiankou was filmed as he was smashing a glass door with a baton to the café where peaceful protestors were hiding and brutally detaining them. A recording has been published where he claimed his department would use firearms against the protestors. He is therefore responsible for serious human rights violations and for repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>159.</td><td>Mikhail Viachaslavavich HRYB Mikhail Viacheslavovich GRIB </td><td>Міхаіл Вячаслававіч ГРЫБ Михаил Вячеславович ГРИБ </td><td>Head of the Main Department of Internal Affairs of the Minsk City Executive Committee DOB: 29.07.1980  POB: Minsk, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>Mikhail Hryb was Head of the Department of Internal Affairs in the Vitebsk Regional Executive Committee from March 2019 to October 2020, afterwards being appointed Head of the Main Department of Internal Affairs of the Minsk city Executive Committee and assigned the title of major general of militia (police forces).</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>In this capacity, he is responsible for the actions of police forces, respectively in the Vitebsk region until October 2020 and in Minsk since after October 2020, including violent repression of peaceful protesters and breaches of right to peaceful assembly and free speech, committed by police forces in Vitebsk and Minsk, in the aftermath of the 2020 Belarussian presidential elections. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition. </td><td>  </td></tr>
+<tr><td>160.</td><td>Viktar Genadzevich KHRENIN Viktor Gennadievich KHRENIN </td><td>Віктар Генадзевіч ХРЭНІН Виктор Геннадиевич ХРЕНИН </td><td>Minister of Defense DOB: 01.08.1971  POB: Navahrudak/ Novogrudek, former USSR (now Belarus)  Gender: Male  Nationality: Belarusian  Rank: Lieutanant General  BY passport number: KH2594621 </td><td>In his position as Minister of Defense of Belarus since 20 January 2020, Viktar Khrenin is responsible for the decision taken by the Command of the Air Forces and Air Defence Forces, on Lukashenka's instructions, to dispatch military aircraft to escort the forced landing of passenger flight FR4978 in Minsk airport without proper justification on 23 May 2021. This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Personal identification: 3010871K003PB1</td><td>He has made several public statements, declaring readiness to use the army against peaceful protesters in August 2020 and likening protesters' use of the historical white-red-white flag to Nazi collaborators. He is therefore responsible for the repression of civil society and democratic opposition in Belarus, and is supporting the Lukashenka regime. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>161.</td><td>Ihar Uladzimiravich HOLUB Igor Vladimirovich GOLUB </td><td>Iгар Уладзiмiравiч ГОЛУБ Игорь Владимирович ГОЛУБ </td><td>Position(s): Director of the Aviation Department of the Ministry of Transport and Communications, former Commander of the Air Force and Air Defence of the Armed Forces DOB: 19.11.1967  POB: Chernigov, Chernigov kaya oblast, former USSR (now Ukraine)  Gender: Male  Nationality: Belarusian  Rank: Major General  BY passport number: KH2187962  Personal identification: 3191167E003PB1 </td><td>In his former position as Commander of the Air Force and Air Defence Forces of the Armed Forces of the Republic of Belarus, Ihar Holub was responsible for the decision taken by the Command of the Air Forces and Air Defence Forces, on Lukashenka’s instructions, to dispatch military aircraft to escort the forced landing of passenger flight FR4978 in Minsk airport without proper justification on 23 May 2021. This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus.  Following the incident, Ihar Holub gave press statements together with Belarusian Ministry of Transport Aviation Department Director Artem Sikorsky justifying the actions of the Belarusian aviation authorities.  He is therefore responsible for the repression of civil society and democratic opposition in Belarus, and is supporting the Lukashenka regime.  He remains active in the Lukashenka regime as the Director of the Aviation Department of the Ministry of Transport and Communications of Belarus. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>162.</td><td>Andrei Mikalaevich GURTSEVICH Andrei Nikolaevich GURTSEVICH </td><td>Андрэй Мікалаевіч ГУРЦЕВИЧ Андрей Николаевич ГУРЦЕВИЧ </td><td>Chief of the Main Staff, First Deputy Commander of the Air Force DOB: 27.07.1971  POB: Baranovich, Brest Region/ Oblast, former USSR (now Belarus)  Gender: Male  Nationality: Belarusian  Rank: Major General </td><td>In his position as Chief of the Main Staff and First Deputy Commander of the Air Force and Air Defence Forces of the Armed Forces, Andrei Gurtsevich is responsible for the decision taken by the Command of the Air Forces and Air Defence Forces, on Lukashenka's instructions, to dispatch military aircraft to escort the forced landing of passenger flight FR4978 in Minsk airport without proper justification on 23 May 2021.</td><td>21.6.2021</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>BY passport number: MP3849920 Personal identification: 3270771C016PB2 </td><td>This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. Following the incident, he gave press statements justifying the actions of the Belarusian authorities. He is therefore responsible for the repression of civil society and democratic opposition in Belarus, and is supporting the Lukashenka regime. </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>163.</td><td>Leanid Mikalaevich CHURO Leonid Nikolaevich CHURO </td><td>Леанiд Мiкалаевiч ЧУРО Леонид Николаевич ЧУРО </td><td>Position(s): Chairman of the Republican Chess Federation – Public Association ‘Belarusian Chess Federation’, former Director General of BELAERONAVIGATSIA State-Owned Enterprise DOB: 8.7.1956  Gender: Male  Nationality: Belarusian  BY passport number: P4289481  Personal identification: 3080756A068PB5 </td><td>In his former position as Director General of the BELAERONAVIGATSIA State-Owned Enterprise, Leanid Churo was responsible for Belarusian air traffic control. He therefore bears responsibility for diverting passenger flight FR4978 to Minsk airport without proper justification on 23 May 2021. This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. He is therefore responsible for the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as the chairman of the Republican Chess Federation – Public Association ‘Belarusian Chess Federation’. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>164.</td><td>Aliaksei Mikalaevich AURAMENKA Alexey Nikolaevich AVRAMENKO </td><td>Аляксей Мікалаевіч АЎРАМЕНКА Алексей Николаевич АВРАМЕНКО </td><td>Minister of Transport and Communications DOB: 11.05.1977  POB: Minsk, former USSR (now Belarus)  Gender: Male  Nationality: Belarusian  BY passport number: MP3102183  Personal identification: 3110577A020PB2 </td><td>In his position as Minister of Transport and Communications of Belarus, Aliaksei Auramenka is responsible for the state management in the sphere of civil aviation and supervision of air traffic control. He therefore bears responsibility for diverting passenger flight FR4978 to Minsk airport without proper justification on 23 May 2021. This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. He is therefore responsible for repression of civil society and democratic opposition.</td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>165.</td><td>Artsiom Igaravich SIKORSKI Artem Igorevich SIKORSKIY </td><td>Арцём Iгаравiч СIКОРСКI Артем Игоревич СИКОРСКИЙ </td><td>Position(s): Director General of the BELAERONAVIGATSIA State-Owned Enterprise, former Director of the Aviation Department of the Ministry of Transport and Communications DOB: 1983  POB: Soligorsk, Minsk Region/Oblast, former USSR (now Belarus)  Gender: Male  Nationality: Belarusian  BY passport number: MP3785448  Personal identification: 3240483A023PB7 </td><td>In his former capacity as the Director of the Aviation Department of the Ministry of Transport and Communications of Belarus, Artsiom Sikorski was responsible for state management in the sphere of civil aviation and supervision of air traffic control. He therefore bears responsibility for diverting passenger flight FR4978 to Minsk on 23 May 2021 without a proper justification. This politically motivated decision was aimed at arresting and detaining the opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition of Belarus. Following the incident, he gave press statements together with Commander of the Air Force and Air Defence Forces of the Armed Forces of the Republic of Belarus, Ihar Holub, justifying the actions of the Belarusian aviation authorities.  He is therefore responsible for repression of civil society and democratic opposition and is supporting the Lukashenka regime.  He remains active in the Lukashenka regime as the Director General of the BELAERONAVIGATSIA State-Owned Enterprise. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>166.</td><td>Aleh Siarheevich HAIDUKEVICH Oleg Sergeevich GAIDUKEVICH </td><td>Алег Сяргеевіч ГАЙДУКЕВIЧ Олег Сергеевич ГАЙДУКЕВИЧ </td><td>Position(s): Deputy Chairman of the Standing Committee on International Affairs in the House of Representatives of the National Assembly, member of the delegation of the National Assembly for contacts with the Parliamentary Assembly of the Council of Europe, chairman of the Liberal Democratic Party of Belarus DOB: 26.3.1977  POB: Minsk, USSR (now Belarus)  Gender: male  Nationality: Belarusian  Personal identification: 3260377A081PB9  Passport number: MP2663333 </td><td>Aleh Haidukevich is the Deputy Chairman of the Standing Committee on International Affairs in the House of Representatives of the National Assembly, and member of the delegation of the National Assembly for contacts with the Parliamentary Assembly of the Council of Europe. He made public statements, applauding diverting passenger flight FR4978 to Minsk on 23 May 2021. This politically motivated decision was done without proper justification and was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. Additionally, Aleh Haidukevich made public statements suggesting that Belarusian opposition leaders may be detained abroad and transported to Belarus ‘in a car trunk’, thus supporting the ongoing crackdown of security forces on Belarusian democratic opposition and journalists.  Aleh Haidukevich is the chairman of the Liberal Democratic Party of Belarus, which supports Lukashenka.  He is therefore supporting the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>167.</td><td>Ihar Anatolevich KRUCHKOU Igor Anatolevich KRIUCHKOV </td><td>Ігар Анатольевіч КРУЧКОЎ Игорь Анатольевич КРЮЧКОВ </td><td>Head of Separate Service for Active Measures (ASAM) of the Special Forces of the State Border Committee DOB: 13.4.1976  Gender: male  Nationality: Belarusian  Personal ID: 3130476M077PB6 </td><td>In his position as Head of Separate Service for Active Measures (ASAM) of the Special Forces of the State Border Committee, Ihar Kruchkou is responsible for actions of forces under his command, who are involved in the physical transportation of migrants inside Belarus to the border between Belarus and Union Member States. ASAM charges the transported migrants for the border crossing. Those actions are implemented as part of operation ‘Gate’. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>168.</td><td>Anatol Piatrovich LAPO Anatoliy Petrovich LAPPO </td><td>Анатоль Пятровiч ЛАПО/ЛАППО Анатолии Петрович ЛАППО </td><td>Position(s): Former Lieutenant General and Chairman of the State Border Committee of the Republic of Belarus (appointed on 29 December 2016), Chief State Border Delegate DOB: 24.5.1963  POB: Kulakovka, Mogilev Region/Oblast, former USSR (now Belarus)  Gender: male  Nationality: Belarusian  Passport number: MP4098888  Personal ID: 3240563K033PB5 </td><td>In his former position as Chairman of the State Border Committee, Anatol Lapo was responsible for actions of border control bodies under his command, whose border guards were documented as directing, guiding or forcing migrants to illegally cross the border between Belarus and Union Member States, and whose deliberate failure to carry out their duties properly facilitates attempts by migrants to cross that border. He is therefore responsible for organising activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union.  He was passed to the military reserve in May 2023. </td><td>2.12.2021</td></tr>
+<tr><td>169.</td><td>Kanstantsin Henadzevich MOLASTAU Konstantin Gennadevich MOLOSTOV </td><td>Канстанцiн Генадзьевiч МОЛАСТАЎ Константин Геннадьевич МОЛОСТОВ </td><td>Position(s): Colonel, Chairman of the State Border Committee, former Head of the Grodno Border Group (appointed on 1 October 2014), Military Unit 2141, State Border Delegate DOB: 30.5.1970  POB: Krasnoarmeysk, Saratov Region, Russian Federation  Gender: male  Nationality: Belarusian  Passport number: KH2479999  Personal ID: 3300570K025PB3 </td><td>In his former position as Head of the Grodno Border Group, Kanstantsin Molastau was responsible for actions of border guards under his command. The deliberate failure of the Grodno Border Group to carry out its duties properly facilitates attempts by migrants to cross the border with Union Member States. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union.  He was appointed by Lukashenka as the Chairman of the State Border Committee. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>170.</td><td>Pavel Mikalaevich KHARCHANKA Pavel Nikolaevich KHARCHENKO </td><td>Павел Мікалаевіч ХАРЧАНКА Павел Николаевич ХАРЧЕНКО </td><td>Head of the Polotsk Border Detachment DOB: 29.3.1981  POB: Chita, former USSR (now Russian Federation)  Gender: male  Nationality: Belarusian </td><td>In his position as Head of the Polotsk Border Detachment, Pavel Kharchanka is responsible for actions of border guards under his command. The deliberate failure of the Polotsk Border Detachment to carry out its duties properly facilitates attempts by migrants to cross the border with Union Member States. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>171.</td><td>Ihar Mikalaevich GUTNIK Igor Nikolaevich GUTNIK </td><td>Iгар Мiкалаевiч ГУТНIК Игорь Николаевич ГУТНИК </td><td>Position(s): Colonel, Deputy Chairman of the State Border Committee, former Head of the Brest Border Group DOB: 17.12.1974  POB: Village of Zabolotye, Smolevichi District, Minsk Region/Oblast, former USSR (now Belarus)  Address: 90 Heroes of Defense of the Brest Fortress St., 224018, Brest, Belarus  Gender: male  Nationality: Belarusian  Passport number: BM1962867 </td><td>In his former position as Head of the Brest Border Group, Ihar Gutnik, who in 2018 became a deputy of the Brest Regional Council as one of the candidates loyal to Lukashenka, was responsible for the actions of the border guards under his command. The deliberate failure of the Brest Border Group to carry out its duties properly facilitates attempts by migrants to cross the border with Union Member States. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union.  He was appointed by Lukashenka as Deputy Chairman of the State Border Committee. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>172.</td><td>Aliaksandr Barysavich DAVIDZIUK Aleksandr Borisovich DAVIDIUK </td><td>Аляксандр Барысавіч ДАВІДЗЮК Александр Борисович ДАВИДЮК </td><td>Colonel, Head of the Lida Border Detachment, Military Unit 1234 (appointed on 27 September 2016), State Border Delegate Member of Lida District Council of Deputies of the 28th convocation (took office on 2 February 2018)  DOB: 4.5.1973  POB: Novograd-Volynsky, Zhytomyr region, former USSR (now Ukraine)  Gender: male  Nationality: Belarusian  Passport number: KH2613034  Personal ID : 3040573E050PB7 </td><td>In his position as Head of the Lida Border Detachment, Aliaksandr Davidziuk is responsible for actions of border guards under his command. The deliberate failure of the Lida Border Detachment to carry out its duties properly facilitates attempts by migrants to cross the border with Union Member States. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union.</td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>173.</td><td>Maksim Viktaravich BUTRANETS Maxim Viktorovich BUTRANETS </td><td>Максiм Вiктаравiч БУТРАНЕЦ Максим Викторович БУТРАНЕЦ </td><td>Position(s): Head of the Brest Border Group, former Head of the Smorgon Border Group, Military Unit 2044 (appointed in March 2018), State Border Delegate DOB: 12.12.1978  POB: Sverdlovsk, former USSR (now Russian Federation)  Gender: male  Nationality: Belarusian </td><td>In his former position as Head of the Smorgon Border Group, Maksim Butranets was responsible for actions of border guards under his command. The deliberate failure of the Smorgon Border Group to carry out its duties properly facilitates attempts by migrants to cross the border with Union Member States. Maksim Butranets also stated that the number of migrants at the Belarusian-Lithuanian border remained at the usual level, despite the substantial increase observed on the Lithuanian side. He is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. He was appointed as the Head of the Brest Border Group. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>174.</td><td>Anatol Anatolyevich GLAZ Anatoliy Anatolyevich GLAZ </td><td>Анатоль Анатольевіч ГЛАЗ Анатолий Анатольевич ГЛАЗ </td><td>Head of the Department of Information and Digital Diplomacy (spokesperson) of the Ministry of Foreign Affairs of Belarus DOB: 31.7.1982  Gender: male  Nationality: Belarusian </td><td>Anatol Glaz has been Head of the Department of Information and Digital Diplomacy and Spokesperson of the Ministry of Foreign Affairs of Belarus since 11 June 2018. In this capacity, he made a number of public statements, supporting the policy of the Lukashenka regime in its latest attempts to facilitate the illegal crossings of the external borders of Union Member States. He also publicly defended the forced landing of passenger flight FR4978 in Minsk airport without proper justification on 23 May 2021. This politically motivated decision had the aim of the arrest and detention of opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. He is therefore supporting the Lukashenka regime. </td><td>2.12.2021</td></tr>
+<tr><td>175.</td><td>Siarhei Aliaksandravich EPIKHAU Sergei Aleksandrovich EPIKHOV </td><td>Сяргей Аляксандравіч ЕПІХАЎ Сергей Александрович ЕПИХОВ </td><td>Judge at the Minsk Regional Court DOB: 16.5.1966  Address: 38 Timoshenko St., apt. 198, Minsk, Belarus;  59 L.Tolstoy St., apt. 80, Vileika, Belarus;  14 Kedyshko St., apt. 11, Minsk, Belarus  Gender: male  Nationality: Belarusian  Personal ID : 3160566B046PB4 </td><td>In his position as judge at the Minsk Regional Court, Siarhei Epikhau is responsible for politically motivated rulings against opposition leaders and activists, in particular the sentencing of Maria Kolesnikova and Maksim Znak, who are considered as political prisoners by human rights organisations. Violations of rights of defence and of the right to a fair trial were reported during trials conducted under his supervision. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td>176.</td><td>Ihar Viachaslavavich LIUBAVITSKI Igor Viacheslavovich LIUBOVITSKI </td><td>Ігар Вячаслававіч ЛЮБАВІЦКІ Игорь Вячеславович ЛЮБОВИЦКИЙ </td><td>Judge at the Supreme Court of the Republic of Belarus DOB: 21.7.1983  Address: Vogel 1K St., apt. 17, Minsk, Belarus  Gender: male  Nationality: Belarusian  Personal ID: 3210783C002PB2 </td><td>In his position as judge at the Supreme Court of the Republic of Belarus, Ihar Liubavitski is responsible for politically motivated rulings against opposition leaders, activists and journalists, in particular the sentencing of opposition presidential candidate Viktar Babarika, who is considered a political prisoner by human rights organisations. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td>177.</td><td>Siarhei Siarheevich GIRGEL Sergei Sergeevich GIRGEL </td><td>Сяргей Сяргеевіч ГIРГЕЛЬ Сергей Сергеевич ГИРГЕЛЬ </td><td>Senior Prosecutor of the Department of Public Prosecution of the General Prosecutor’s Office DOB: 16.6.1978  Address: 16 Lidskaya St., apt. 165, Minsk, Belarus  Gender: male  Nationality: Belarusian  Personal ID: 3160678H018PB5 </td><td>In his position as the Senior Prosecutor of the Department of Public Prosecution of the General Prosecutor’s Office, Siarhei Girgel has represented the Lukashenka regime in politically motivated cases against opposition leaders and civil society members. In particular he has prosecuted the opposition presidential candidate Viktar Babarika, who is recognised as a political prisoner by human rights organisations. Siarhei Girgel has continuously asked the judge for long-term prison sentences. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td>178.</td><td>Valiantsina Genadzeuna KULIK Valentina Gennadevna KULIK </td><td>Валянціна Генадзьеўна КУЛІК Валентина Геннадьевна КУЛИК </td><td>Judge at the Supreme Court of the Republic of Belarus DOB: 15.1.1960  Address: 54 Angarskaya St., apt. 48, Minsk, Belarus  Gender: female  Nationality: Belarusian  Personal ID: 4150160A119PB2 </td><td>In her position as judge at the Supreme Court of the Republic of Belarus, Valiantsina Kulik is responsible for politically motivated decisions against activists and opposition leaders. In particular she denied Viktar Babarika’s complaint to initiate a civil case based on his complaints against the Central Electoral Commission’s decision to refuse registration as a presidential candidate. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>179.</td><td>Andrei Andreevich PRAKAPUK Andrey Andreevich PROKOPUK </td><td>Андрэй Андрэевiч ПРАКАПУК Андрей Андреевич ПРОКОПУК </td><td>Position: Director of the Republican Unitary Enterprise ‘Brest Center for Standardization, Metrology and Certification’, former Deputy Director of the Financial Investigations Department of the State Control Committee of the Republic of Belarus Colonel of the Financial Police  DOB: 22.7.1973  POB: Kobrin, Brest region, Belarus  Address: 22 Mira St., apt. 88, Priluki, Minsk Region, Belarus  Gender: male  Nationality: Belarusian  Personal ID: 3220773C061PB1 </td><td>In his former position as the Deputy Director of the Financial Investigations Department of the State Control Committee of the Republic of Belarus, Andrei Prakapuk was responsible for politically motivated campaigns of that department against journalists and independent Belarusian media outlets. He personally approved a decision to search the premises of independent media outlet TUT.by and initiated a court case into TUT.by and the journalists employed by TUT.by, as well as blocking access to the TUT.by website. He is therefore responsible for serious human rights violations and the repression of civil society and democratic opposition as well as for seriously undermining the rule of law.  He remains active in the Lukashenka regime as Director of the Republican Unitary Enterprise ‘Brest Center for Standardization, Metrology and Certification’. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>180.</td><td>Ihar Anatolevich MARSHALAU Igor Anatolevich MARSHALOV </td><td>Ігар Анатольевіч МАРШАЛАЎ Игорь Анатольевич МАРШАЛОВ </td><td>Deputy Chairman of the State Control Committee, Director of the Financial Investigations Department of the State Control Committee Major General of Financial Police  DOB: 12.1.1972  POB: Shkolv, Mogilev Region/ Oblast, former USSR (now Belarus)  Address: 15 Shchukina St., Minsk, Belarus;  43A Franciska St., apt. 41, Minsk, Belarus  Gender: male  Nationality: Belarusian  Personal ID : 3120172H018PB4 </td><td>Ihar Marshalau is the Deputy Chairman of the State Control Committee of Belarus and Director of the Financial Investigations Department of the State Control Committee. In that position, he is responsible for initiating the politically motivated tax evasion case against the media outlet TUT.by, allegedly based on Article 243 of the Criminal Code of the Republic of Belarus, which threatens the freedom of media in Belarus. He is also responsible for the searches conducted in May 2021 at the office of TUT.by in Minsk, at regional offices and at the homes of several TUT.by staff. He is also responsible for the detention of members of the Belarus Press Club in December 2020, a search and confiscation of items at the office of Rights of People with Disabilities including the violent interrogation of Aleh Hrableuski and Syarhei Drazdouski in January 2021, the detention of and tax evasion charges on member of the Coordination Council Liliya Ulasava, as well as the searches and detentions affecting employees of PandaDoc software company, who was running the initiative ‘Protect Belarus’, in September 2021.  He is therefore responsible for serious human rights violations and the repression of civil society and democratic opposition as well as for seriously undermining the rule of law. </td><td>2.12.2021</td></tr>
+<tr><td>181.</td><td>Hanna Mikhailauna SAKALOUSKAYA Anna Mikhaylovna SOKOLOVSKAYA </td><td>Ганна Міхайлаўна САКАЛОЎСКАЯ Анна Михайловна СОКОЛОВСКАЯ </td><td>Judge of the Judicial Collegium for Civil Cases at the Supreme Court DOB: 18.9.1955  Address: 22 Surhanava St., apt. 1, Minsk, Belarus  Gender: female  Nationality: Belarusian  Personal ID: 4180955A015P80 </td><td>In her position as judge at the Supreme Court of the Republic of Belarus, Hanna Sakalouskaya is responsible for the politically motivated decision to liquidate the Belarus PEN Center – a Belarusian civil society organisation. She is also responsible for a politically motivated decision leading up to the liquidation of the Belarus Helsinki Committee (BHC), as on 2 September 2021 she dismissed the complaint from BHC concerning the warning directed towards BHC by the Belarusian Ministry of Justice. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td>182.</td><td>Marat Siarheevich MARKAU Marat Sergeevich MARKOV </td><td>Марат Сяргеевіч МАРКАЎ Марат Сергеевич МАРКОВ </td><td>Chairman of the Management Board of State-controlled TV channel ONT, host of the ‘Markov: Nothing Personal’ programme DOB: 1.5.1969  POB: Luninets, former USSR (now Belarus)  Gender: male  Nationality: Belarusian </td><td>Marat Markau is the Chairman of the Management Board of State-controlled TV channel ONT and the host of the ‘Markov: Nothing Personal’ programme. In this position he has been willingly providing the Belarusian public with false information about the outcome of elections, protests and the repression perpetrated by the State authorities, and the circumstances of the forced landing of passenger flight FR4978 in Minsk airport without proper justification on 23 May 2021. He is directly responsible for the way in which the ONT channel presents information about the situation in the country, thus lending support to the authorities, including Lukashenka. He is therefore supporting the Lukashenka regime. Markov conducted the first forced interview with Raman Pratasevich, after Pratasevich was detained and according to numerous reports tortured by the Belarusian authorities. Markov also threatened and intimidated ONT workers who were striking in the wake of fraudulent 2020 presidential elections and authorities’ crackdown. He is therefore responsible for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td>183.</td><td>Dzmitry Siarheevich KARSIUK Dmitriy Sergeevich KARSIUK </td><td>Дзмітрый Сяргеевіч КАРСЮК Дмитрий Сергеевич КАРСЮК </td><td>Judge at the Central District of the City of Minsk Court DOB: 7.7.1995  Gender: male  Nationality: Belarusian </td><td>In his position as judge at the Central District of the City of Minsk Court, Dzmitriy Karsiuk is responsible for numerous politically motivated rulings against peaceful protesters, in particular the sentencing of Yahor Viarshynin, Pavel Lukoyanov, Artsiom Sakovich and Mikalai Shemetau, who are recognised as political prisoners by Belarusian Human rights organisation Viasna. He has sentenced people to penal colony, prison and house arrest for taking part in peaceful protests, posts on social media, use of the white-red-white flag of Belarus and other exercises of civil freedoms. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>184.</td><td>Ihar Vasilievich KARPENKA Igor Vasilievich KARPENKO </td><td>Iгар Васiльевiч КАРПЕНКА Игорь Васильевич КАРПЕНКО </td><td>Position(s): Chairperson of the Central Commission of the Republic of Belarus on Elections and Holding Republican Referenda DOB: 28.4.1964  Gender: male  Nationality: Belarusian </td><td>In his position as Chairperson of the Central Commission of the Republic of Belarus on Elections and Holding Republican Referenda since 13 December 2021, Ihar Karpenka is responsible for the organisation and holding of the constitutional referendum of 27 February 2022, which does not meet the international standards of rule of law, democracy and human rights and does not meet the criteria set by the Venice Commission. In particular, the drafting process was not transparent and did not involve civil society or the democratic opposition in exile. He is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>3.6.2022</td></tr>
+<tr><td>185.</td><td>Dzmitry Aliakseevich ALEKSIN Dmitry Alexeevich OLEKSIN </td><td>Дзмiтрый Аляксеевiч АЛЕКСIН Дмитрий Алексеевич ОЛЕКСИН </td><td>Position(s): Son of Aliaksei Aleksin, shareholder of Belneftgaz, Energo-Oil and Grantlo (formerly Energo-Oil-Invest) DOB: 25.4.1987  Gender: male  Nationality: Belarusian </td><td>Dzmitry Aleksin is the son of Aliaksei Aleksin, a prominent Belarusian businessman. In 2021 he became the co-owner of companies owned by or associated with his father, including Energo-Oil, Belneftgaz and Grantlo (formerly Energo-Oil-Invest). Those companies were given preferential treatment based on presidential decrees signed by Aliaksandr Lukashenka: Inter Tobacco was given exclusive privileges to import tobacco products to Belarus, while Belneftgaz was appointed national transit monitoring operator. He is therefore benefitting from the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>186.</td><td>Vital Aliakseevich ALEKSIN Vitaliy Alexeevich OLEKSIN </td><td>Вiталь Аляксеевiч АЛЯКСIН Виталий Алексеевич ОЛЕКСИН </td><td>Position(s): Son of Aliaksei Aleksin, shareholder of Belneftgaz, Energo-Oil and Grantlo (formerly Energo-Oil-Invest) DOB: 29.8.1997  Gender: male  Nationality: Belarusian </td><td>Vital Aleksin is the son of Aliaksei Aleksin, a prominent Belarusian businessman. In 2021 he became the co-owner of companies owned by or associated with his father, including Energo-Oil, Belneftgaz and Grantlo (formerly Energo-Oil-Invest). Those companies were given preferential treatment based on presidential decrees signed by Aliaksandr Lukashenka: Inter Tobacco was given exclusive privileges to import tobacco products to Belarus, while Belneftgaz was appointed national transit monitoring operator. He is therefore benefitting from the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>187.</td><td>Bogoljub KARIĆ</td><td>Богољуб КАРИЋ Боголюб КАРИЧ </td><td>Position(s): Serbian businessman and politician, associated with the company Dana Holdings DOB: 17.1.1954  POB: Peja/Pec, Kosovo  Gender: male  Nationality: Serbian  Passport number: 012830978 (valid until 27.12.2026) </td><td>Bogoljub Karić is a Serbian businessman and politician. Together with his family members, he developed a network of real estate companies in Belarus and has cultivated a network of contacts with the family of Aliaksandr Lukashenka. In particular, he has been closely associated with Dana Holdings and its former subsidiary Dana Astra, and he reportedly represented those entities during meetings with Lukashenka. The Minsk World project, which was developed by a company associated with Karić, was described by Lukashenka as ‘an example of cooperation of the Slavonic world’. Thanks to those close relationships with Lukashenka and his entourage, companies associated with Karić received preferential treatment from the Lukashenka regime, including tax breaks and plots of land for real estate development. He is therefore benefitting from and supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>188.</td><td>Andrii SICH Andrey SYCH </td><td>Андрiй СИЧ Андрей СЫЧ </td><td>Position(s): Co-host of programme ‘Platform’ on state-owned television channel ‘Belarus 1’ Member of organisation ‘Rusj molodaja’  DOB: 20.9.1990  POB: Belarus  Gender: male  Nationality: Belarusian </td><td>Andrii Sich is a co-host of the programme ‘Platform’ on state-owned television channel ‘Belarus 1’. In that position, he has supported regime narratives that aim to discredit independent media, undermine democracy and justify repression. He has supported the Lukashenka regime’s narrative about Western states’ intentions to organise a coup d’état in Belarus and called for harsh punishments for those allegedly involved, supported disinformation campaigns about mistreatment of migrants arriving in the Union from Belarus, and promoted the image of independent media as agents of foreign influence whose activity should be restricted. He is therefore supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>189.</td><td>Dzianis Aliaksandravich MIKUSHEU Denis Alexandrovich MIKUSHEV </td><td>Дзянiс Аляксандравiч МIКУШЭЎ Денис Александрович МИКУШЕВ </td><td>Position(s): Head of the Department for Supervision of Compliance with the Law of Court Decisions in Criminal Cases of the Prosecutor’s Office of the Gomel Region/Oblast; senior legal adviser DOB: 21.3.1980  Gender: male  Nationality: Belarusian </td><td>Dzianis Mikusheu is the Head of the Department for Supervision of Compliance with the Law of Court Decisions in Criminal Cases of the Prosecutor’s Office of the Gomel Region/Oblast and senior legal adviser. In that position, he is responsible for initiating the prosecutions of Siarhei Tsikhanouski, Artsiom Sakau, Dzmitry Papou, lhar Losik, Uladzimir Tsyhanovich and Mikalai Statkevich. He contributed to the arbitrary detention of Siarhei Tsikhanouski, as presented in the report by the Human Rights Council’s Working Group on Arbitrary Detention. He is therefore responsible for serious human rights violations and for undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>3.6.2022</td></tr>
+<tr><td>190.</td><td>Mikalai Ivanavich DOLIA Nikolai Ivanovich DOLYA </td><td>Мiĸалай Iванавiч ДОЛЯ Ниĸолай Иванович ДОЛЯ </td><td>Position(s): Judge at the Gomel Regional Court DOB: 3.7.1979  Gender: male  Nationality: Belarusian  Personal ID: 3070379H041PBI </td><td>Mikalai Dolia is a judge at the Gomel Regional Court. ln that position, he is responsible for sentencing Siarhei Tsikhanouski, Artsiom Sakau, Dzmitry Papou, lhar Losik, Uladzimir Tsyhanovich and Mikalai Statkevich to disproportionally lengthy prison terms. He contributed to the arbitrary detention of Siarhei Tsikhanouski, as presented in the report by the Human Rights Council’s Working Group on Arbitrary Detention. He is therefore responsible for serious violations of human rights and for undermining the rule of law, as well as for the repression of civil society and democratic opposition. </td><td>3.6.2022</td></tr>
+<tr><td>191.</td><td>Andrei Yauhenavich PARSHYN Andrei Yevgenevich PARSHIN </td><td>Андрэй Яўгенавiч ПАРШЫН Андрей Евгеньевич ПАРШИН </td><td>Position(s): Head of the Main Department for Combating Organised Crime and Corruption in Belarus (GUBOPiK) DOB: 19.2.1974  Address: 4A Skryganova St., Apt. 211, Minsk, Belarus  Gender: male  Nationality: Belarusian </td><td>Andrei Parshyn is the Head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) in the Ministry of Internal Affairs since 2021. GUBOPiK is one of the main bodies responsible for political persecution in Belarus, including arbitrary and unlawful arrests and ill-treatment, including torture, of activists and members of civil society. GUBOPiK has published on its Telegram profile videos of forced confessions by Belarusian activists and ordinary citizens, exposing them to the Belarusian general public and using them as a tool for political pressure. GUBOPiK also detained Mark Bernstein, one of the top Russian-language Wikipedia editors, for publishing information on the Russian aggression against Ukraine, considered as anti-Russian ‘fake news’.  Andrei Parshyn is therefore responsible for serious violations of human rights and for the repression of civil society in Belarus. </td><td>3.6.2022</td></tr>
+<tr><td>192.</td><td>Ihar Piatrovich TUR Igor Petrovich TUR </td><td>Iгар Пятровiч ТУР Игорь Петрович ТУР </td><td>Position(s): Employee of state-owned television channel ‘ONT’, author and anchor of several programmes (‘Propaganda’, ‘To be completed’) DOB: 26.3.1989  POB: Grodno/Hrodna, Belarus  Gender: male  Nationality: Belarusian </td><td>Ihar Tur is an employee of the state-owned television channel ‘ONT’ and one of the main propagandists of the Lukashenka regime. He is the host of the ‘Propaganda’ programme, in which he calls for violence, discredits opposition activists and promotes videos with forced confessions from political prisoners. He is the author of a number of false reports on protests by the Belarusian opposition, and of disinformation regarding events in the Union and regarding attacks on civil society. He is also responsible for spreading disinformation and violence-inciting messages online. He was awarded a medal by Aliaksandr Lukashenka for his work in the media. He is therefore benefitting from and supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>193.</td><td>Lyudmila Leanidauna HLADKAYA Lyudmila Leonidovna GLADKAYA </td><td>Людмiла Леанiдаўна ГЛАДКАЯ Людмила Леонидовна ГЛАДКАЯ </td><td>Position(s): Special correspondent of ‘SB Belarus Segodnya’ newspaper, presenter on state-owned television channel ‘Belarus 1’ DOB: 30.6.1983  Address: 8A Vodolazhsky St., apt. 45, Minsk, Belarus  Gender: female  Nationality: Belarusian </td><td>Lyudmila Hladkaya is one of the most prominent propagandists of the Lukashenka regime. She is an employee of the newspaper ‘SB Belarus Segodnya’ and an associate of other pro-regime media, including state-owned television channel ‘Belarus 1’. She frequently uses hate speech and derogatory language while speaking of democratic opposition. She has also conducted numerous ‘interviews’ with unjustly detained Belarusian citizens, often students, showing them in humiliating situations and mocking them. She has promoted repression by the Belarusian security apparatus and taken part in disinformation and information manipulation campaigns. She is publicly voicing support for Aliaksandr Lukashenka and expressing pride in serving his regime. For her work, she has been publicly praised by and received awards from Lukashenka. She is therefore benefitting from and supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>194.</td><td>Ryhor Yuryevich AZARONAK Grigoriy Yurevich AZARYONOK </td><td>Рыгор Юр’евiч АЗАРОНАК Григорий Юрьевич АЗАРЁНОК </td><td>Position(s): Employee of state-owned television channel ‘CTV’, author and host of several programmes (‘Secret Springs of Politics’, ‘Order of Judas’, ‘Panopticon’) Rank: Lieutenant in reserve  DOB: 18.10.1995  POB: Minsk, Belarus  Gender: male  Nationality: Belarusian </td><td>Ryhor Azaronak is one of the chief propagandists of the Lukashenka regime. He is a political columnist, author and the host of weekly propaganda shows on the state-owned television channel ‘CTV’. In his broadcasts he endorsed violence against dissenters of the Lukashenka regime, and systematically used derogatory language about activists, journalists and other opponents of the Lukashenka regime. He received an award with the medal ‘For Courage’ from Aliaksandr Lukashenka. He is therefore benefitting from and supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>195.</td><td>Ivan Ivanavich GALAVATYI Ivan Ivanovich GOLOVATY </td><td>Iван Iванавiч ГАЛАВАТЫ Иван Иванович ГОЛОВАТЫЙ </td><td>Position(s): Former Director-General of the Open Joint Stock Company ‘Belaruskali’; Chairman of the supervisory board of JSC Belarussian Potash Company; First Deputy Director of Nedra Nezhin; First Deputy Director of the Mining and Processing Complex (MPC) in Lyuban District Member of the Standing Committee of the Council of the Republic of the National Assembly of the Republic of Belarus for Foreign Affairs and National Security  DOB: 15.6.1976  POB: Pogost Settlement, Soligorsk District, Minsk Province, Belarus  Gender: male  Nationality: Belarusian </td><td>Ivan Galavatyi is the former director general of the state-owned enterprise Belaruskali, which is a major source of revenue and foreign currency for the Lukashenka regime. He is a former member of the Council of the Republic of Belarus and the National Assembly. He also holds multiple other high positions in Belarus and he has received multiple state awards, including from Lukashenka, during his career. He has been closely associated with Lukashenka and members of his family. Aliaksandr Lukashenka has proposed that Ivan Golovaty be sent to work as an ambassador to one of the countries of the Commonwealth of Independent States. He is therefore benefitting from and supporting the Lukashenka regime. As the former director general of Belaruskali, Ivan Galavatyi was directly involved in the Lukashenka regime’s relocation of Ukrainian children from occupied territories in collaboration with Russia. Therefore, Ivan Galavatyi supports the Lukashenka regime. He continues to support and benefit from the Lukashenka regime as the First Deputy Director of Nedra Nezhin, a company reported to be a successor to Slavkali, a major potash producer in Belarus and as the First Deputy Director of the Mining and Processing Complex (MPC) in Lyuban District.  The employees of OJSC ‘Belaruskali’ who took part in strikes and peaceful protests in the aftermath of the fraudulent presidential elections of August 2020 in Belarus, were deprived of premiums and laid off. Alexander Lukashenka himself personally threatened to replace the strikers with miners from Ukraine. Therefore, as the former head of Belaruskali, Ivan Galavatyi is responsible for the repression of civil society. </td><td>3.6.2022</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>196.</td><td>Aliaksandr Uladzimirovich KARNIENKA Alexander Vladimirovich KORNIENKO </td><td>Аляксандр Уладзiмiравiч КАРНIЕНКА Александр Владимирович КОРНИЕНКО </td><td>Position(s): Former head of the Penal Colony IK-17 Shklov, Lieutenant Colonel of the Internal Service District Inspector, Department of Internal Affairs of the Slutsk District Executive Committee  DOB: 9.1.1979  Gender: male  Nationality: Belarusian </td><td>In his position as former head of Penal Colony IK-17 in Shklov, Aliaksandr Karnienka was responsible for the inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that penal colony in the wake of the 2020 presidential election and the ensuing peaceful protests. He was the head of the penal colony at the time of the death of the political prisoner Vitold Ashurak in that penal colony on 21 May 2021, in unexplained circumstances. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus.  He remains active in the Lukashenka regime as an official of the Slutsk District Executive Committee. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>197.</td><td>Andrei Siarheevich PALCHIK Andrei Sergeevich PALCHIK </td><td>Андрэй Сяргеевiч ПАЛЬЧЫК Андрей Сергеевич ПАЛЬЧИК </td><td>Position(s): Former head of correctional colony No 1 in Novopolotsk; Warden of the detention centre in Vitebsk; Deputy warden of Pretrial Detention Facility No. 2 DOB: 3.3.1981  Gender: male  Nationality: Belarusian </td><td>In his former position as head of correctional colony No 1 in Novopolotsk, Andrei Palchik has been responsible for and participated in the systematic practice of torture, ill-treatment and abusive punishments, including prolonged and repeated use of solitary confinement, against the political prisoners and other citizens detained in that penal colony, notably in the wake of the 2020 presidential election and the ensuing peaceful protests. As head of that penal colony, Andrei Palchik is not only responsible for ordering and supervising these abuses, but has a documented track record of personal involvement in acts of torture and violence against prisoners. During Andrei Palchik’s administration from 2017 until March 2023, correctional colony No 1 in Novopolotsk has become ill-famed for its extremely harsh detention conditions and the ill-treatment applied to the prisoners, many of them leading political activists and civil society representatives, detained for their opposition to President Lukashenka’s regime. After his transfer from Penal Colony No 1, Palchik continues to hold an active high-ranking position at another detention facility and therefore he continues to serve the repressive system.  He remains active in the Lukashenka regime as the warden of the detention centre in Vitebsk and the deputy warden of Pretrial Detention Facility No. 2.  He is therefore supporting the Lukashenka regime and responsible for serious violations of human rights and for the repression of the civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>198.</td><td>Aliaksandr Uladzimiravich KAROL Aleksandr Vladimirovich KAROL </td><td>Аляксандр Уладзiмiравiч КАРОЛЬ Александр Владимирович КОРОЛЬ </td><td>Position(s): Senior Prosecutor of the Department of the Prosecutor General’s Office DOB: 28.6.1992  POB: Bobruisk, Mogilev region, Republic of Belarus  Gender: male  Nationality: Belarusian  Personal ID: 3280692M019PB8 </td><td>In his position as Senior Prosecutor at the Department of the Prosecutor General’s Office of Belarus, Aliaksandr Karol is responsible for numerous politically-motivated criminal cases against Belarusian human rights defenders. In particular, he is involved in the politically motivated prosecution of representatives from the Belarusian human rights organization Viasna, including Viasna chairperson Ales Bialiatski, deputy chairperson Valiantsin Stefanovic, lawyer Uladzimir Labkovich, coordinator of Viasna’s network of volunteers Marfa Rabkova, head of Viasna’s office in Gomel, Leanid Sudalenka, and volunteer Andrei Chapiuk, as well as volunteer Tatsiana Lasitsa who was released from Gomel penal colony on 24 September 2022. He is therefore responsible for serious violations of human rights and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>199.</td><td>Mikhail Mikhailavich MURASHKIN Mikhail Mikhailovich MURASHKIN </td><td>Мiхаiл Мiхайлавiч МУРАШКIН Михаил Михайлович МУРАШКИН </td><td>Position(s): Former Deputy Head of the Municipal Department of Internal Affairs in Zhodino – Head of the Public Security Police; First Deputy Head of the District Department of Internal Affairs in Borisov – Head of the Public Security Police as of 29.10.2021; Acting Chief of the Uzda District Department of Internal Affairs DOB: 8.9.1989  Gender: male  Nationality: Belarusian </td><td>In his capacity as former head of the Public Security Police in Zhodino, Mikhail Murashkin ordered the police troops and riot police, OMON, to brutally crack down on peaceful protests in the wake of the presidential elections in 2020, beating protesters and using violence against them. He is also involved in the unlawful repeated detention of independent journalists covering the protests in the lead-up to the presidential elections. He continues to hold a similarly high-ranking position within the Department of Internal Affairs.  He is therefore supporting the Lukashenka regime and responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>200.</td><td>Mikalai Vasilievich MAKSIMAVICH Nikolai Vasilievich MAKSIMOVICH </td><td>Мiкалай Васiльевiч МАКСIМАВIЧ Николай Васильевич МАКСИМОВИЧ </td><td>Position(s): Deputy Chief of the Public Security Militia, Internal Affairs Directorate of the Minsk Regional Executive Committee DOB: 25.2.1977  Gender: male  Nationality: Belarusian  Address: Minsk, st. Yankee Brylya 21, apt. 224;  Minsk, st. Kolesnikova 32, apt. 3  Personal ID: 3250277M077PB2 </td><td>In his capacity as Deputy Chief of the Public Security Militia, Internal Affairs Directorate of the Minsk Regional Executive Committee, Mikalai Maksimavich is responsible for the brutal crackdown on peaceful protests in the run-up to the presidential elections in August 2020 and afterwards. He has personally given orders to the riot police, OMON, to violently suppress the demonstrations, detain the protesters and the independent journalists covering these events, and submit them to harsh conditions of detention. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>201.</td><td>Piotr Aleksandrovich ARLOU Petr Aleksandrovich ORLOV </td><td>Пётр Александровiч АРЛОЎ Петр Александрович ОРЛОВ </td><td>Position(s): Judge at the Minsk City Court DOB: 6.4.1967  POB: Minsk, Belarus  Gender: male  Nationality: Belarusian  Personal ID: 3040667A088PB0  Address: Minsk, st. Sharangovicha 78, apt. 60 </td><td>In the position of judge at the Minsk City Court, Piotr Arlou has represented the Lukashenka regime in numerous politically motivated trials and is responsible for the lengthy verdicts in absentia against several members of the democratic opposition; Sviatlana Tsikhanouskaya (15 years), Pavel Latushka (18 years), and Volha Kavalkova, Maryia Maroz and Siarhei Dyleuski (12 years each). Piotr Arlou is also responsible for the politically motivated conduct of trial and verdicts against blogger Eduard Palchys (13 years of imprisonment) and journalist Katsiaryna Andreyeva (two years). These verdicts are part a systematic denial of, and punishment for, the exercise of freedom of expression by the Belarusian authorities. Piotr Arlou’s verdicts are examples of the systemic repression of dissent.  He is therefore responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy and the rule of law in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>202.</td><td>Ruslan Khikmetavich MASHADZEOU Ruslan Khikmetovich MASHADIYEV </td><td>Руслан Хiкметовiч МАШАДЗЕЎ Руслан Хикметович МАШАДИЕВ </td><td>Position(s): Former Deputy Head of Penal Colony Noo1; Current Head of Penal Colony Noo1 Gender: male  DOB: 26.9.1981  Nationality: Belarusian </td><td>In his position of Head and the former Deputy Head of Penal Colony Noo1, Ruslan Mashadzeou is responsible for the inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that penal colony in the wake of the 2020 presidential election and in the ensuing peaceful protests. He was the head of the penal colony at the time of the death of the political prisoner Vitold Ashurak in that penal colony on 21 May 2021, in unexplained circumstances. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>203.</td><td>Siarhei Uladzimiravich KARCHEUSKY Sergey Vladimirovitch KARCHEVSKIY </td><td>Сяргей Уладзiмiравiч КАРЧЭЎСКI Сергей Владимирович КАРЧЕВСКИЙ </td><td>Position(s): Major and head of the regime department of Penal Colony No 17 Shklow DOB: 15.6.1983  Address: 6 Fatina str, apt. 100, Mogilev, Belarus  Gender: male  Nationality: Belarusian  Personal: 3150683MO74PB5 </td><td>As head of the regime department of Penal Colony No 17 in Shklow, Siarhei Kharcheusky is directly responsible for the inhumane conditions of detention in the colony, for the violent practices and ill-treatment inflicted on prisoners, notably on political prisoners. He was personally involved in carrying out beatings and other acts of extreme violence against prisoners and he is directly involved in, and responsible for, the death of the political prisoner Vitold Ashurak in that penal colony on 21 May 2021. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>204.</td><td>Siarhei Vasilyevich MASLIUKOU Sergey Vasilyevich MASLIUKOV </td><td>Сяргей Васiльевiч МАСЛЮКОЎ Сергей Васильевич МАСЛЮКОВ </td><td>Position(s): Head colonel of the internal service of Educational Colony No.°2 in Bobruysk POB: Shklov, Belarus  Gender: male  Nationality: Belarusian  Suspected address: Bobruysk </td><td>In his position of Head colonel of the internal service of Educational Colony No.°2 in Bobruysk, Siarhei Masliukou is responsible for the inhuman and degrading treatment of minors. He is responsible for subjecting children to hunger, torture, forced work, and various forms of physical and psychological violence. He is also responsible for depriving underage convicts of access to medical care. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>205.</td><td>Sviatlana Aliaksandrauna BANDARENKA Svetlana Aleksandrovna BONDARENKO </td><td>Святлана Аляксандраўна БАНДАРЭНКА Светлана Александровна БОНДАРЕНКО </td><td>Position(s): Judge of the Supreme Court of Belarus, former Judge at the court of the Moskovsky district of Minsk Gender: female  Nationality: Belarusian </td><td>In her former position as judge of the Moskovsky district of Minsk, Sviatlana Bandarenka was responsible for numerous politically-motivated rulings. She sentenced several Belarusian citizens for participating in protests and publishing anti-government comments on Telegram. She also sentenced the journalist Ekaterina Borisevich and the emergency hospital doctor Artyom Sorokin for disclosing medical secrets about Roman Bondarenko, who was beaten to death by the security forces. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus.  She was appointed by Lukashenka as judge of the Supreme Court of Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>206.</td><td>Sviatlana Paulauna PAKHODAVA Svetlana Pavlovna POKHODOVA </td><td>Святлана Паўлаўна ПАХОДАВА Светлана Павловна ПОХОДОВА </td><td>Position(s): Former Head of Penal Colony No.o4 for women in Gomel Gender: female  Nationality: Belarusian  Suspected location: Gomel </td><td>In her former position of Head of Penal Colony No.o4 for women in Gomel, Sviatlana Pakhodava is responsible for the inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that female penal colony. She was already the head of the penal colony at the time of the prosecution of Maria Kalesnikava, a political prisoner who was handed an 11-year custodial sentence for her participation in the protests against the authoritarian rule of Aliaksandr Lukashenko in the penal colony. She was deprived of all prisoner rights, including the right to consult a lawyer. Sviatlana Pakhodava is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>207.</td><td>Tatsiana Valerieuna PIROZHNIKAVA Tatiana Valeryevna PIROZHNIKOVA </td><td>Таццяна Валер’еўна ПIРОЖНIКАВА Татьяна Валерьевна ПИРОЖНИКОВА </td><td>Position(s): Judge at the court of the Moscovsky district of Minsk DOB: 8.1.1987  Gender: female  Nationality: Belarusian  Personal ID: 4010887M019PB2 </td><td>In her position as Judge of Moskovsky district of Minsk, Tatsiana Pirozhnikava sentenced several Belarusian citizens on political grounds, including for their participation in protests and for publishing anti-government comments on Telegram. She is documented as occasionally issuing heavier sentences than those requested by the prosecutor. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition In Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>208.</td><td>Tatsiana Aliaksandrauna GRAKUN Tatyana Alexandrovna GRAKUN </td><td>Таццяна Аляксандраўна ГРАКУН Татьяна Александровна ГРАКУН </td><td>Position(s): Senior Prosecutor of the Minsk Region Prosecutor’s Office for Supervision of Compliance with the Law of Court Decisions in Criminal Cases, Junior Counsellor of Justice Gender: female  Nationality: Belarusian  DOB: 5.2.1986 </td><td>Tatsiana Grakun is a Belarusian prosecutor who serves in the Minsk Region Prosecutor’s Office. In this position, she has represented the Lukashenka regime in politically-motivated cases against journalists. In particular, she has prosecuted Maryna Zolatava, TUT.BY editor-in-chief, who was sentenced to 12 years in prison, and Liudmila Chekina, TUT.BY general director, who was sentenced to 12 years in prison in March 2023, based on groundless charges of ‘harming to the national security of the Republic of Belarus’. Tatsiana Grakun is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>209.</td><td>Valyantsina Mikalaeuna ZIANKEVICH Valentina Nikolaevna ZENKEVICH </td><td>Валянцiна Мiкалаеўна ЗЯНКЕВIЧ Валентина Николаевна ЗЕНЬКЕВИЧ </td><td>Position(s): Judicial Collegium for Criminal Cases of the Minsk City Court, Judge DOB: 8.1.1969  Gender: female  Nationality: Belarusian </td><td>Valyantsina Ziankevich is a Belarusian judge who serves in a Judicial Collegium for Criminal Cases of the Minsk City Court. She has issued politically-motivated rulings against the opponents of the Belarusian authorities. She has convicted at least seven Belarusian citizens on political grounds, including Maryna Zolatava, TUT.BY editor-in-chief, who was sentenced to 12 years in prison, and Liudmila Chekina, TUT.BY general director, who was sentenced to 12 years in prison in March 2023. She has a documented history of issuing politically-motivated rulings against the opponents of the Belarusian authorities since 2022. She is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>210.</td><td>Yauhen Valerievich BUBICH Yevgeniy Valerievich BUBICH </td><td>Яўген Валер’евiч БУБIЧ Евгений Валерьевич БУБИЧ </td><td>Position(s): Head of Penal Colony No.°2; Lieutenant colonel of the internal service DOB: 3.6.1979  Gender: male  Nationality: Belarusian  Address: Bobruysk, st. Kovzana 60, apartment 42;  Bobruysk, st. Kovzana 5/485;  Bobruysk, st. Internationalnaya 66B, apartment 31 </td><td>In his position as head of Penal Colony No.°2 in Bobruysk, Yauhen Bubich is responsible for the inhuman and degrading treatment, including torture, forced work, physical and psychological violence, inflicted on prisoners. He is therefore responsible for serious violations of human rights and the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>211.</td><td>Yuri Ivanavich VASILEVICH Yuriy Ivanovich VASILEVICH </td><td>Юры Iванавiч ВАСIЛЕВIЧ Юрий Иванович ВАСИЛЕВИЧ </td><td>Position(s): Head of Penal Colony No.°14 in Novosady Gender: male  Nationality: Belarusian </td><td>In his position of Head of Penal Colony No.°14, Yuri Vasilevich is responsible for the mistreatment of the convicts detained under his jurisdiction, and for inhuman and degrading treatment, including torture, inflicted on the political prisoners and other citizens detained in that penal colony. He is therefore responsible for serious violations of human rights and for the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>212.</td><td>Raman Ivanavich BIZIUK Roman Ivanovich BIZYUK </td><td>Раман Iванавiч БIЗЮК Роман Иванович БИЗЮК </td><td>Position(s): Prosecutor DOB: 25.3.1986  Nationality: Belarusian  Gender: male  Personal ID: 3250386H012PB7  Address: Minsk, 30 Masherova Ave., apt. 25 </td><td>In the position of prosecutor at the Minsk Municipal Court, Raman Biziuk has represented the Lukashenka regime in numerous politically-motivated cases, in particular against Marfa Rabkova and Andrei Chapiuk, who receiving exceptionally lengthy verdicts of 15 and six years in prison, respectively, and their eight co-defendants who received prison verdicts of between five and 17 years. Marfa Rabkova was imprisoned on politically-motivated charges of ‘training people to participate in mass riots or financing such activities’ for coordinating the volunteer service at the internationally recognized human rights group Viasna and organising the monitoring of the election in August 2020. She also documented cases of torture and other ill-treatment against detained protesters. Marfa Rabkova was one of the first members of Viasna to be targeted by the authorities with politically-motivated criminal charges after the protests in August 2020.  Andrei Chapiuk was charged for participation in a criminal organisation and the incitement of hatred, among other things, for his engagement in Viasna as a volunteer.  Their trial was held behind closed doors by request of prosecutor Raman Biziuk and approval by judge Siarhei Khrypach due to the alleged existence of ‘materials of extremist nature’ in the case.  Raman Biziuk is also responsible for the politically-motivated prosecution against the co-defendants in the same trial, namely Akihiro Haeuski-Hanada, Alyaksandr Frantaskevich, Alykaksei Galauko, Alyaksandr Kazlyanka, Pavel Shpteny, Mikita Dranets, Andrei Marach and Daniil Chul. He is also responsible for the politically-motivated charges against Andrei Linnik and Anton Bialenski as well as against Dzmitry Kanapelka, Vitalii Kavalenka, Tsimur Pipiya, Dzianis Boltuts, Vital Shyshlou and Emil Huseinau.  Raman Biziuk is therefore responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy or the rule of law in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>213.</td><td>Siarhei Fiodaravich KHRYPACH Sergey Fedorovich KHRIPACH </td><td>Сяргей Фёдаравiч ХРЫПАЧ Сергей Федорович ХРИПАЧ </td><td>Position(s): Judge at the Minsk Municipal Court DOB: 16.4.1966  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3160466A077PB2  Address: Minsk, st. Odintsova 105, apt. 206 </td><td>In the position of judge at the Minsk Municipal Court, Siarhei Khrypach has represented the Lukashenka regime in numerous politically-motivated cases, in particular against Marfa Rabkova, Andrei Chapiuk who received exceptionally lengthy sentences of 15 and six years in prison, respectively, and their eight co-defendants who received custodial sentences of between five to 17 years. Marfa Rabkova was imprisoned on politically-motivated charges of ‘training people to participate in mass riots or financing such activities’, for coordinating the volunteer service at the internationally recognized human rights group Viasna and for organising the monitoring of the election in August 2020. She also documented cases of torture and other ill-treatment against detained protesters. Marfa Rabkova was one of the first members of Viasna to be targeted by the authorities with politically-motivated criminal charges after the protests in August 2020.  Andrei Chapiuk was charged for participation in a criminal organisation and the incitement of hatred among other things, for his engagement in Viasna as a volunteer.  Their trial was held behind closed doors by request of prosecutor Raman Biziuk and by approval of judge Siarhei Khrypach due to the alleged existence of ‘materials of extremist nature’ in the case.  Siarhei Khrypach is also responsible for the politically-motivated conduct of the trial and verdicts for the co-defendants in the same trial, namely Akihiro Haeuski-Hanada, Alyaksandr Frantaskevich, Alykaksei Galauko, Alyaksandr Kazlyanka, Pavel Shpteny, Mikita Dranets, Andrei Marach and Daniil Chul.  Siarhei Khrypach is also responsible for the politically-motivated verdict against Yegor Dudnikov in May 2021.  He is therefore responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy or the rule of law in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>214.</td><td>Vadzim Frantzavich GIGIN Vadim Franzevich GIGIN  Vadzim HIHIN </td><td>Вадзiм Францавiч ГIГIН Вадим Францевич ГИГИН </td><td>Position(s): Director of the National Library of Belarus; former Head of the Belarus governmental society ‘Knowledge’, and Dean of the Faculty of Philosophy and Social Sciences of the Belarus State University, candidate of Historical Science DOB: 21.10.1977  POB: Minsk, former Belarussian SSR (now Belarus)  Nationality: Belarusian  Gender: male </td><td>Vadzim Gigin is one of the most vocal and influential members of the Belarusian state propaganda system. He systematically supports the Lukashenka regime and often presents his views on the state TV channels ONT and Belarus 1. Vadzim Gigin has supported and justified the repression of democratic opposition and civil society and of independent media, in particular after the presidential elections in August 2020. Vadzim Gigin spreads his propaganda narratives on a ‘nazi regime in Ukraine’, discrediting the West and justification of Russia’s war of aggression against Ukraine. Until June 2023, Vadzim Gigin was the head of the Belarusian society ‘Knowledge’, which is known as a state-sponsored non-governmental organisation promoting Lukashenka and his regime. Gigin’s contribution to the regime has been acknowledged by Lukashenka in September 2021 when Gigin received the medal ‘For Labor Merits’. Furthermore, he was appointed in February 2023 as member of the Commission to consider appeals of Belarusian citizens abroad concerning offences committed by them, headed by Prosecutor General of Belarus Andrei Shved.  Therefore, Vadzim Gigin is benefiting from and supporting the Lukashenka regime. </td><td>3.8.2023</td></tr>
+<tr><td>215.</td><td>Ksenia Piatrouna LEBEDZEVA Ksenia Petrovna LEBEDEVA </td><td>Ксенiя Пятроўна ЛЕБЕДЗЕВА Ксения Петровна ЛЕБЕДЕВА </td><td>Position(s): Propagandist and employee of the state channel ‘Belarus 1’ and in Belarus News Agency DOB: 12.12.1987  POB: Mogilev, former Belarussian SSR (now Belarus)  Nationality: Belarusian  Gender: female </td><td>Ksenia Lebedzeva is one of the leading propagandists of the Lukashenka regime and is closely associated with regime media. She is Belarusian TV presenter at the state-owned ‘Belarus 1’ channel. Since July 2021, she has hosted the information and analytical programme ‘This is different’ at the state-owned ‘Belarus 1’ TV channel. In her column and reports for Belarus 1 TV channel, she promotes Russian propaganda regarding Russia’s war of aggression against Ukraine, and Belarus state propaganda directed against opposition and neighbouring countries. Ksenia Lebedzeva is promoting the idea that Ukraine, together with NATO, has been launching information and psychological special operations against Belarus since 2020 and the Lukashenka narrative that opposition representatives are financed by Western countries. On 16.1. 2021, Ksenia Lebedzeva was awarded with gratitude by President Lukashenka for ‘a significant contribution to the implementation of state information policy, high professionalism, objective and comprehensive coverage of the events of the socio-political and socio-cultural life of the country’.  Therefore, Ksenia Lebedeva is benefiting from and supporting and the Lukashenka regime. </td><td>3.8.2023</td></tr>
+<tr><td>216.</td><td>Zinaida Vasilieuna BALABALAVA Zinaida Vasilievna BALABALAVA </td><td>Зiнаiда Васiльеўна БАЛАБАЛАВА Зинаида Васильевна БАЛАБОЛАВА </td><td>Position(s): Judge at Navapolatsk City Court Gender: female </td><td>In her position as judge of the Navapolatsk City Court, Zinaida Balabalava is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of union leader Volha Bytsikava and of activists Hanna Tukava and Andrei Halavyryn. She has subjected people to fines and arrests for publishing ‘no war’ signs or independent trial reporting. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>217.</td><td>Halina KNIZHONAK Galina KNIZHONAK </td><td>Галiна КНIЖОНАК Галина КНИЖОНАК </td><td>Position(s): Judge of Mazyr District Court Gender: female </td><td>In her position as judge of Mazyr district court, Halina Knizhonak is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of Hleb Koipish, Uladzislau Hancharou, Aliaksandr Tsimashenka and Daniil Skipalski. She has sentenced people to terms of imprisonment for taking part in peaceful protests against the Lukashenka regime. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>218.</td><td>Hanna Barisauna LIAVUSIK Anna Borisovna LEUSIK </td><td>Ганна Барысаўна ЛЯВУСIК Анна Борисовна ЛЕУСИК </td><td>Position(s): Judge of Leninsky district court of Hrodna/Grodno DOB: 7.10.1973  Nationality: Belarusian  Gender: female  Address: Grodno, st. Soviet Border Guards 120, apt. 47  Personal ID: 4071073K000PB2 </td><td>In her position as judge of the Leninski district court of Hrodna, Hanna Liavusik is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of Alexander Tyelega. She has sentenced people to fines and prison terms for speaking up against violence and repression. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>219.</td><td>Henadz Ivanavich KUDLASEVICH Gennadiy Ivanovich KUDLASEVICH </td><td>Генадзь Iванавiч КУДЛАСЕВIЧ Геннадий Иванович КУДЛАСЕВИЧ </td><td>Position(s): Judge of Ivanovsky District Court DOB: 5.5.1973  POB: Tereblychi, Stolin District, former Belarussian SSR (now Belarus)  Nationality: Belarusian  Gender: male </td><td>In his position as judge of Ivanovsky District Court, Henadz Kudlasevich is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of Yuryi Holik. He has sentenced people to terms of imprisonment, house detention and fines for protesting against the government or for independent reporting. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>220.</td><td>Ina Leanidauna PAULOUSKAYA Inna Leonidovna PAVLOVSKAYA </td><td>Iна Леанiдаўна ПАЎЛОЎСКАЯ Инна Леонидовна ПАВЛОВСКАЯ </td><td>Position(s): Judge at Baranovichi District Court DOB: 29.7.1975  Nationality: Belarusian  Gender: female  Address: Baranovichi, st. Mikolskaya 32  Personal ID: 4290775C016PB9 </td><td>In her position as judge of Baranovichi District Court, Ina Paulouskaya is responsible for numerous politically-motivated rulings against peaceful protesters, in particular the sentencing of Vitaly Korsak and Anatoly Pugach. She has sentenced people to prison terms and fines for criticizing President Lukashenka and protesting against the outcome of the presidential elections of 2020. She is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>221.</td><td>Aliaksandr Mikalaevich TARAKANAU Alexander Nikolaevich TARAKANOV </td><td>Аляксандр Мiкалаевiч ТАРАКАНАЎ Александр Николаевич ТАРАКАНОВ </td><td>Position(s): Shklov District Court, Mogilev Region, Judge DOB: 19.5.1965  Nationality: Belarusian  Gender: male </td><td>Aliaksandr Tarakanau is a Belarussian judge who serves in a Shklov District Court in Mogilev Region. He was appointed by Aliaksandr Lukashenka indefinitely in 2017. He mainly handed down sentences that increased the penalties against political opponents of the Belarusian authorities, especially in the context of changing sentences imposed to absolute imprisonment or a stricter regime for the serving of such sentences. Such a decision was made in the case of the philosopher and journalist Uladzimir Matskievich who is associated with the independent television channel Belsat.Aliaksandr Tarakanau is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus.</td><td>3.8.2023</td></tr>
+<tr><td>222.</td><td>Dzmitriy Vitalievich BUBENCHIK Dmitriy Vitalievich BUBENCHIK </td><td>Дзмiтрый Вiтальевiч БУБЕНЧЫК Дмитрий Витальевич БУБЕНЧИК </td><td>Position(s): Grodno Regional Court, Judge DOB: 15.7.1985  Nationality: Belarusian  Gender: male </td><td>Dzmitriy Bubenchik is a Belarussian judge who serves in a Grodno District Court. He was appointed by Aliaksandr Lukashenka. He issued politically-motivated rulings against the opponents of the Belarusian authorities. On 8 February 2023, he sentenced Andrzej Poczobut, an independent journalist and a Polish minority activist critical of the government of the Republic of Belarus, to eight years imprisonment. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>223.</td><td>Aleg Uladzimiravich KHOROSHKA Oleg Vladimirovich KHOROSHKO </td><td>Алег Уладзiмiравiч ХОРОШКА Олег Владимирович ХОРОШКО </td><td>Position(s): Gomel Regional Court, Judge DOB: 22.5.1977  Nationality: Belarusian  Gender: male </td><td>Aleg Khoroshka is a Belarussian judge who serves in a Gomel District Court. He was appointed by Aliaksandr Lukashenka. He issued politically-motivated rulings against the opponents of the Belarusian authorities, which include a journalist of the independent TV station Belsat, Katsiaryna Andreyeva who received a sentence of eight years and three months in a penal colony. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>224.</td><td>Anastasia Uladzimirouna BENEDZISIUK Anastasia Vladimirovna BENEDISYUK </td><td>Анастасiя Уладзiмipаўна БЕНЕДЗIСЮК Анастасия Владимировна БЕНЕДИСЮК </td><td>Position(s): Head of the Reporters Department of the TV News Agency in National State TV channel Belarus 1 TV DOB: 31.10.1992  POB: Oshmyan, Belarus  Nationality: Belarussian  Gender: female </td><td>Anastasia Benedzisiuk is one of the leading propagandists of the Lukashenka regime and the Head of the Reporters Department at the TV News Agency, preparing reportages for the Belarus 1 TV channel. She hosts the information program ‘Plan B’ at the state-owned ‘Belarus 1’ TV channel. In her programme and reports for the Belarus 1 TV channel, she spreads Russian propaganda narratives about a ‘nazi regime in Ukraine’, the Ukrainian armed forces, as well as President Lukashenka’s propaganda against the Belarusian opposition and Kalinousky regiment. She also spreads propaganda against Western sanctions.  In 2023, Anastasia Benedzisiuk was given an official award with gratitude from Lukashenka for her ‘significant contribution to the implementation of state information policy, high professionalism, objective and comprehensive coverage of the events of the socio-political and socio-cultural life of the country’.  She is therefore benefiting from and supporting the Lukashenka regime. </td><td>3.8.2023</td></tr>
+<tr><td>225.</td><td>Yauhen PUSTAVY Yevgeniy PUSTOVOY </td><td>Яўген ПУСТАВЫ Евгений ПУСТОВОЙ </td><td>Function: Belarusian propagandist and broadcaster DOB: 29.2.1984  Nationality: Belarusian  Gender: male </td><td>Yauhen Pustavy is a Belarussian propagandist working for Stolichnoye Televideniye, one of the three national television channels in Belarus, and for Minskaya Prauda, a state newspaper. He is responsible for disseminating propaganda in support of Lukashenka’s policies and which justifies Russia’ war of aggression against Ukraine. He was awarded by Lukashenka for his merits in the development of the State information policy. Moreover, he is member of theic State Commission aimed at verifying political refugees who wish to return to Belarus. This commission was created by Lukashenka with the political aim of portraying the refugees returning to Belarus as persons regretting their actions against the Lukashenka regime. He is therefore benefiting from and supporting the Lukashenka regime. </td><td>3.8.2023</td></tr>
+<tr><td>226.</td><td>Alena Stanislavauna HARMASH Alena Stanislavovna GORMASH </td><td>Алена Станiславаўна ГОРМАШ Елена Станиславовна ГОРМАШ </td><td>Function: Court of Bobruisk District and Bobruisk, Judge DOB: 10.9.1967  Nationality: Belarusian  Gender: female </td><td>Alena Harmash is a Belarussian judge who serves in a Court of the Bobruisk District and Bobruisk. She has issued politically-motivated rulings against the opponents of the Belarusian authorities. She convicted six opposition supporters and activists on political grounds. She has a documented history of having issued politically-motivated rulings against the opponents of the Belarusian authorities since 2020. She is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>227.</td><td>Andrei Ramanavich TARASEVICH Andrei Romanovich TARASEVICH </td><td>Андрэй Раманавiч ТАРАСЕВIЧ Андрей Романович ТАРАСЕВИЧ </td><td>Function: Glubokoye District Court, Judge DOB: 10.11.1974  Nationality: Belarusian  Gender: male </td><td>Andrei Tarasevich is a Belarussian judge who serves in a Glubokoye District Court. He has issued politically-motivated rulings against the opponents of the Belarusian authorities. He convicted at least 13 Belarusian citizens on political grounds. He has a documented history of having issued politically-motivated rulings against the opponents of the Belarusian authorities from 2017 to 2023. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>228.</td><td>Hanna Mikhailauna ASIPENKA Anna Mikhailovna OSIPENKO </td><td>Ганна Мiхайлаўна АСIПЕНКА Анна Михайловна ОСИПЕНКО </td><td>Function: Judge of Court of Bobruisk District and Bobruisk DOB: 7.12.1982  Nationality: Belarusian  Gender: female </td><td>Hanna Asipenka is a Belarussian judge who serves in a Court of Bobruisk District and Bobruisk. She has issued politically-motivated rulings against the opponents of the Belarusian authorities. Between 2020 and 2023, she took an active part in the sentencing of political opponents of the regime. During that period, she handed down at least 13 sentences, including in the cases of two independent media journalists. She is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>229.</td><td>Iryna Uladzimirauna PADKAVYRAVA Irina Vladimirovna PODKOVYROVA </td><td>Iрына Уладзiмiраўна ПАДКАВЫРАВА Ирина Владимировна ПОДКОВЫРОВА </td><td>Function: Prosecutor DOB: 22.9.1972  Nationality: Belarusian  Gender: female </td><td>Iryna Padkavyrava is a Belarussian prosecutor. She has been associated with the prosecuting authorities since at least 2009, when she served as a senior prosecutor in the Gomel region. In 2022, she acted as a prosecutor in the trial of an independent journalist affiliated with TVP and Belsat TV. At the time, she requested a four-year prison sentence for the journalist. She also took part in the consideration of appeals against sentences handed down for posting entries on Belarusian social media which were unfavourable to the government and its officials. As a prosecutor, she supported the penalties, considering them adequate and fair. She is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>230.</td><td>Ludmila Stsiapanauna VASHCHANKA Ludmila Stiepanovna VASHCHENKO </td><td>Людмiла Сцяпанаўна ВАШЧАНКА Людмила Степановна ВАЩЕНКО </td><td>Function: Judge of Glubokoye District Court DOB: 22.9.1972  Nationality: Belarusian  Gender: female </td><td>Ludmila Vashchanka is a Belarussian judge who serves in Glubokoye District Court. She has issued politically-motivated rulings against the opponents of the Belarusian authorities. She has a documented history of having issued politically-motivated rulings against the opponents of the Belarusian authorities from 2007 to 2023. During this period, she convicted at least nine Belarusian citizens, including opposition supporters and activists, on political grounds. She is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>231.</td><td>Uladzimir Aliaksandravich DAVYDAU Vladimir Alexandrovich DAVYDOV </td><td>Уладзiмiр Аляксандравiч ДАВЫДАЎ Владимир Александрович ДАВЫДОВ </td><td>Function: Judge of Supreme Court of Belarus DOB: 11.4.1967  Nationality: Belarusian  Gender: male </td><td>Uladzimir Davydau is a Belarussian judge who serves in the Supreme Court of Belarus. He was appointed by Aliaksandr Lukashenka indefinitely in 2014. Judge Davydau has mainly ruled on appeals regarding prison sentences for political activists and journalists. He has left those sentenced unchanged. Such a decision was made in the case of the Belsat journalist, Pavel Vinahradau. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>232.</td><td>Viachaslau Uladzimiravich YELISEENKA Vyacheslav Vladimirovich ELISEENKO </td><td>Вячаслаў Уладзiмiравiч ЕЛIСЕЕНКА Вячеслав Владимирович ЕЛИСЕЕНКО </td><td>Function: Judge of Dokshitsy District Court DOB: 10.4.1979  Nationality: Belarusian  Gender: male </td><td>Viachaslau Yeliseenka is a Belarussian judge who serves in a Dokshitsy District Court. He has issued politically-motivated rulings against the opponents of the Belarusian authorities. He has convicted 10 Belarusian citizens on political grounds. He has a documented history of having issued politically-motivated rulings against the opponents of the Belarusian authorities since 2018. He is therefore responsible for serious violations of human rights and the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>233.</td><td>Anton Uladzimiravich KALYAGA Anton Vladimirovich KOLYAGO </td><td>Антон Уладзiмiравiч КАЛЯГА Антон Владимирович КОЛЯГО </td><td>Function: Chief investigator – investigator for particularly important cases of the Main Directorate for the Investigation of Crimes in the Sphere of Organized Crime and Corruption of the Central Apparatus of the Investigative Committee, Major of Justice DOB: 2.10.1989  POB: Minsk, Republic of Belarus  Nationality: Belarus  Gender: male </td><td>Anton Kalyaga is an investigator of the Main Directorate for Investigating Crimes in the Sphere of Organized Crime and Corruption of the Central Office of the Investigative Committee of the Republic of Belarus. He conducts the criminal case against Viasna members. The judicial proceedings against Ales Bialiatski, Valianstin Stefanovich and Uladzimir Labkovich include numerous irregularities and the investigation period has been artificially extended by the authorities in an attempt to fabricate evidence, exceeding the time limit established by Belarusian law and international standards governing the right to a fair trial. The investigation and trial of the Viasna case did not comply with the rule of law. He is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>234.</td><td>Andrii Valeriovich ANANENKO Andrei Valerievich ANANENKO </td><td>Андрій Валерійович АНАНЕНКО Андрей Валерьевич АНАНЕНКО </td><td>Head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs DOB: 13.10.1977  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male </td><td>Andrii Ananenko is the head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs. GUBOPiK is one of the main bodies responsible for political persecution in Belarus, including arbitrary and unlawful arrests and ill-treatment, including torture, of activists and members of civil society. GUBOPiK has published videos of forced confessions by Belarusian activists and ordinary citizens, exposing them to the Belarusian general public and using them as a tool for political pressure.  In his position, Andrii Ananenko is responsible for serious violations of human rights and for the repression of civil society in Belarus. Furthermore, he is supporting the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>235.</td><td>Mikhail Piatrovich BYADUNKEVICH Mikhail Petrovitch BEDUNKEVICH </td><td>Міхаіл Пятровіч БЯДУНКЕВIЧ Михаил Петрович БЕДУНКЕВИЧ </td><td>Deputy head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs; head of the third department of GUBOPiK, responsible for fighting ‘extremism’ DOB: 8.10.1977  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male </td><td>Mikhail Byadunkevich is the deputy head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs and the head of the third department of GUBOPiK, which is responsible for fighting extremism. GUBOPiK is one of the main bodies responsible for political persecution in Belarus, including arbitrary and unlawful arrests and ill-treatment, including torture, of activists and members of civil society. GUBOPiK has published videos of forced confessions by Belarusian activists and ordinary citizens, exposing them to the Belarusian general public and using them as a tool for political pressure.  In his position, Mikhail Byadunkevich is responsible for serious violations of human rights and for the repression of civil society in Belarus. Furthermore, he is supporting the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>236.</td><td>Zmitser Aliaksandrovich KOVACH Dimitri Aleksandrovich KOVACH </td><td>Змiцер Аляксандравiч КОВАЧ Дмитрий Александрович КОВАЧ </td><td>Deputy head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs DOB: 14.1.1979  POB: Elisovo (oblast of Mogilev)  Nationality: Belarusian  Gender: male </td><td>Zmitser Kovach is the deputy head of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs. GUBOPiK is one of the main bodies responsible for political persecution in Belarus, including arbitrary and unlawful arrests and ill-treatment, including torture, of activists and members of civil society. GUBOPiK has published videos of forced confessions by Belarusian activists and ordinary citizens, exposing them to the Belarusian general public and using them as a tool for political pressure.  In his position, Zmitser Kovach is responsible for serious violations of human rights and for the repression of civil society in Belarus. Furthermore, he is supporting the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>237.</td><td>Mikhail KAVALIOU Mikhail KOVALEV </td><td>Міхаіл КАВАЛЁЎ Михаил КАВАЛЁВ </td><td>Deputy head of the Department of State Prosecution of the Office for Supervision of Compliance with the Law of Court Decisions in Criminal Cases, Prosecutor General’s Office Nationality: Belarusian  Gender: male </td><td>In his position as deputy head of the Department of State Prosecution of the Office for Supervision of Compliance with the Law of Court Decisions in Criminal Cases, Prosecutor General’s Office, Mikhail Kavaliou is responsible for numerous politically motivated criminal cases against Belarusian political opposition. In particular, he is involved in the politically motivated prosecution of Svetlana Tsikhanouskaya, Pavel Latushko, Olga Kovalkova, Maria Moroz and Sergei Dilevsky, all members of the Coordination Council, a Belarusian opposition body, as well as in the ‘conspiracy to seize power’ case against Yuri Ziankovich, Alexander Fyaduta, Ryhor Kastusyov, Olga Halubovych and Dzianis Kravchuk. Mikhail Kavaliou is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>238.</td><td>Viktar Aliaksandravich DUBROUKA Viktor Alexandrovich DUBROVKA </td><td>  </td><td>Function: First Deputy Head of the Department for the Execution of Sentences in the Grodno region; Former Head of the correctional institution Penal Colony No 11; colonel of the internal service Nationality: Belarusian  DOB: 19.6.1978  POB: Makhnachi, Slonim District, Grodno Region  Gender: male  Personal ID: 3190678K013PB2 </td><td>Viktar Dubrouka is the former head of the correctional institution Penal Colony No 11, where Siarhei Ramanau is serving a sentence of 20 years and 11 months and Vadzim Bobyrau is serving a sentence of 11 years. Both Ramanau and Bobyrau have been placed in the punishment cell multiple times. Viktar Dubrouka remains active in the Lukashenka regime as the First Deputy Head of the Department for the Execution of Sentences in the Grodno region.  Viktar Dubrouka therefore supports the Lukashenka regime and is responsible for serious violations of human rights in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>239.</td><td>Pavel Ivanavich KAZAKOU Pavel Ivanovich KAZAKOV </td><td>Павел Iванавіч КАЗАКОЎ Павел Иванович КАЗАКОВ </td><td>Head of the correctional institution Prison No 1, Grodno; colonel of the internal service DOB: 11.6.1977  POB: Russ, Volkavysk District, Grodno Region  Nationality: Belarusian  Gender: male  Personal ID: 3110677K031PB5 </td><td>Pavel Kazakou is the head of the correctional institution Prison No 1 in Grodno, where the political prisoner Ales Pushkin and the artist Ruslan Karchauli died due to not receiving proper medical care. Other prisoners detained in that institution testified to the inhumane conditions. Pavel Kazakou is therefore responsible for serious violations of human rights in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>240.</td><td>Dzianis Anatolievich TAUSTSIANKOU Denis Anatolievich TOLSTENKOV </td><td>Дзяніс Анатольевіч ТАЎСЦЯНКОЎ Денис Анатольевич ТОЛСТЕНКОВ </td><td>Head of the correctional institution Penal Colony No 4; lieutenant colonel of the internal service Nationality: Belarusian  DOB: 17.8.1977  POB: Orsha, Vitebsk Region  Gender: male  Personal ID: 3170877M000PB9 </td><td>Dzianis Taustsiankou is the head of the correctional institution Penal Colony No 4, where Polina Sharendo-Panasyuk, a social activist, is imprisoned. Sharendo’s husband, Andrei Sharendo, has spoken about the inhumane conditions and torture that his wife has been facing in that colony. Dzianis Taustsiankou is therefore responsible for serious violations of human rights in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>241.</td><td>Vasil Vasilevich KOLEDA Vasily Vasilyevich KOLEDA </td><td>Васіль Васільевіч КОЛЕДА Василий Васильевич КОЛЕДА </td><td>Deputy head of ‘Prison No 1’ in Grodno; lieutenant colonel of the internal service Gender: male </td><td>Vasil Koleda is the deputy head of Prison No 1 in Grodno, where the political prisoner Ales Pushkin and the artist Ruslan Karchauli died due to not receiving proper medical care. Other prisoners detained in that institution testified to the inhumane conditions. Vasil Koleda is therefore responsible for serious violations of human rights in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>242.</td><td>Andrei Mikhailovich TSEDRYK Andrey Mikhailovich TSEDRIK </td><td>  </td><td>Position(s): Former Head of Pre-trial Detention Centre No 1; colonel of the internal service Nationality: Belarusian  DOB: 20.4.1978  POB: Minsk  Gender: male  Personal ID: 3200478A058PB3 </td><td>Andrei Tsedryk is the former head of Pre-trial Detention Centre No 1 in Minsk, which is also known as ‘Voldarka’. Many political prisoners, including Ales Pushkin, have gone through that centre and have testified that the conditions in the centre are inhumane. Ales Bialiatski is being held in custody there. The centre also lacks a proper hospital. Andrei Tsedryk is therefore responsible for serious violations of human rights in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>243.</td><td>Iryna Barisauna AKULOVICH Irina Borisovna AKULOVICH </td><td>Iрына Барысаўна АКУЛОВIЧ Ирина Борисовна АКУЛОВИЧ </td><td>Director-general of the republican unitary enterprise Belarusian Telegraph Agency (BelTA) DOB: 24.10.1974  POB: Mogilev, Belarus  Nationality: Belarusian  Gender: female </td><td>Iryna Akulovich is a long-time supporter of Aliaksandr Lukashenka. In 2018, she was appointed by him as director-general of the biggest State news agency, Belarusian Telegraph Agency (BelTA), and still holds that position. BelTA, through its publications and activities, such as photo exhibitions and public events, extensively promotes Lukashenka and his regime. In her public statements and activities, Iryna Akulovich has shown support for Lukashenka and his narratives regarding the democratic opposition. As a head of BelTA, she sets the tone and direction of the news agency and views the media as a tool to preserve the current regime of the country. She is therefore supporting the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>244.</td><td>Mikita Sviatoslavovich RACHYLOUSKI Nikita Sviatoslavovich RACHILOVSKYI </td><td>Мікіта Святаслававіч РАЧЫЛОЎСКI Никита Святославович РАЧИЛОВСКИЙ </td><td>Host of the ‘Senate’ television programme on the STV (СТВ) channel; chairman of the Youth Council (Youth Parliament at the National Assembly of the Republic of Belarus); member of the Youth Chamber commission on tourism and environment at the Parliamentary Assembly of the Union State of Belarus and Russia; chairman of the youth civic alliance Moving Forward DOB: 28.7.1997  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male </td><td>Mikita Rachylouski holds senior positions in the government institution the Youth Council, the GONGO Moving Forward and the media (the ‘Senate’ television programme). Using those positions, Mykyta Rachylouski has spoken out against Belarusian citizens for criticising the government, participating in protests in 2020 and having opposing views. He has been especially vocal in seeking punishment and persecution for the blogger Kokobay, as well as the music band Drozdy and others. His statements incite persecution and promote hatred towards critics of the regime. During one of his numerous television appearances, he advocated for the removal of history faculty staff at Belarusian universities. He has, on numerous occasions, expressed support for the Belarusian government and for Aliaksandr Lukashenka. He is therefore supporting Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>245.</td><td>Dzmitry Aliaksandrovich ZHUK Dmitrii Aleksandrovich ZHUK </td><td>Дзмітрый Аляксандравіч ЖУК Дмитрий Александрович ЖУК </td><td>Director and editor-in-chief of the Belarus Today publishing house DOB: 7.7.1970  POB: Letkaushchyna, Minsk region  Nationality: Belarusian  Gender: male  Personal ID: 3070770A081PB7 </td><td>Dzmitry Zhuk is a long-time supporter of Aliaksandr Lukashenka and his regime. He was previously the head of Lukashenka’s press service and a long-time director-general of the biggest State news agency, Belarusian Telegraph Agency (BelTA). Since 2018, he has been the director and editor-in-chief of the Belarus Today publishing house. In this position, Dzmitry Zhuk has willingly provided the Belarusian public with false information about repression perpetrated by the State authorities, spread disinformation produced by both Belarusian and Russian authorities and promoted hatred towards democratic opposition and civil society. He is directly responsible for the way in which Belarus Today presents information about the situation in the country, lending support to the authorities, including Lukashenka. He is therefore supporting the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td>246.</td><td>Viachaslau Ivanavich TULEYKA Vyacheslav Ivanovich TULEYKO </td><td>Вячаслаў Iванавіч ТУЛЕЙКА Вячеслав Иванович ТУЛЕЙКО </td><td>Judge of the Minsk Regional Court DOB: 27.7.1977  Gender: male  Nationality: Belarusian </td><td>As a judge of the Minsk Regional Court, Viachaslau Tuleyka has represented the Lukashenka regime in numerous politically motivated trials and is responsible for the lengthy sentences against several media workers: lryna Leushyna (BelaPAN), Dzmitry Navazhylau (Bela PAN), Andrey Alyaksandrau (BelaPAN), lryna Zlobina (Bela PAN), Stepan Putilo (Nexta), Yan Rudik (Nexta) and Roman Pratasevich (Nexta). He also sentenced a Belarusian citizen for publishing anti-governmental comments on social media. Those sentences are part a systematic denial of, and punishment for, the exercise of freedom of expression on the part of the Belarusian authorities. Viachaslau Tuleyka is therefore responsible for serious human rights violations and for seriously undermining the rule of law, as well as for the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>247.</td><td>Alena Mikalayeuna ANANICH Elena Nikoayevna ANANICH </td><td>Алена Мікалаеўна АНАНIЧ Елена Николаевна АНАНИЧ </td><td>Judge of the Minsk City Court Gender: female  Nationality: Belarusian </td><td>Alena Ananich is a Belarusian judge who has served in the Minsk City Court since 2015, having been appointed by Aliaksandr Lukashenka. She has issued numerous politically motivated rulings against the opponents of the Belarusian authorities, including with particularly high prison sentences: Yauhen Yushkevich – 11 years; Vital Brahiniets (lawyer of Nobel Peace Prize laureate Alies Bialatski) – 8 years; Viachaslau Kandyba – 7 years; and Siarhiei Nikitsin – 6 years. She also sentenced in absentia an opposition activist abroad, Stanislau Lupanosau, formerly an officer of the Main Department for Combating Organised Crime and Corruption (GUBOPiK) of the Ministry of Internal Affairs, to 18 years in prison. She is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>248.</td><td>Anatoliy Ryhoravich SOTNIKAU Anatoliy Grigorievich SOTNIKOV </td><td>Анатолій Рыгоравіч СОТНIКАЎ Анатолий Григорьевич СОТНИКОВ </td><td>Judge of the Homel Regional Court Nationality: Belarusian  Gender: male </td><td>Anatoliy Sotnikau is a judge who has served in the Homel Regional Court since 2019, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against Russia’s full-scale war of aggression against Ukraine and the brutality of Belarusian law-enforcement structures. He is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>249.</td><td>Andrey Viktaravich MLECHKA Andrei Viktorovich MLECHKO </td><td>Андрэй Віктаравіч МЛЕЧКА Андрей Викторович МЛЕЧКО </td><td>Judge of the Frunze District Court of the City of Minsk Nationality: Belarusian  Gender: male </td><td>Andrey Mlechka is a judge who has served in the Frunze District Court of the City of Minsk since 2021, having been appointed by Aliaksandr Lukashenka. He has issued high politically motivated sentences against citizens peacefully expressing critical opinions of the authorities on the streets and on the internet. He is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>250.</td><td>Ihar Aliaksandravich SHVEDAU Igor Alexandrovich SHVEDOV </td><td>Iгар Аляксандравіч ШВЕДАЎ Игорь Александрович ШВЕДОВ </td><td>Judge of the Mahiliou Regional Court Nationality: Belarusian  Gender: male </td><td>Ihar Shvedau is a judge who has served in the Mahiliou Regional Court since 2020, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against opponents of the Lukashenka regime, including against journalist Andrei Kuznechyk (6 years in prison), political prisoner Anton Shybut (5 years) and others who criticised the Belarusian authorities. He is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>252.</td><td>Tatsiana Viktarauna SHOTSIK Tatiana Viktorovna SHOTIK </td><td>Таццяна Віктараўна ШОЦIК Татьяна Викторовна ШОТИК </td><td>Judge of the court of Leninsky district in Minsk DOB: 21.1.1992  Nationality: Belarusian  Gender: female  Personal ID: 4210192A027PB8 </td><td>Tatsiana Shotsik is a judge who has served in the court of Leninsky district in Minsk since 2021, having been appointed by Aliaksandr Lukashenka. She has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President and the brutality of Belarusian law-enforcement structures. Igor Lednik, a political prisoner, who was sentenced by Shotsik to three years in prison, died on 20 February 2024. Tatsiana Shotsik is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>253.</td><td>Vasil Uladzimiravich SKOK Vasily Vladimirovich SKOK </td><td>Васіль Уладзіміравіч СКОК Василий Владимирович СКОК </td><td>Judge of the Grodno Regional Court Nationality: Belarusian  DOB: 17.11.1959  Gender: male  Personal ID: 3171159K025PB0 </td><td>Vasil Skok is a judge who has served in the Grodno Regional Court since 2003, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President, the regime and the brutality of Belarusian law-enforcement structures. He sentenced Andrey Sachevko to six years in a high-security penal colony. He is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>254.</td><td>Stanislau Uladzimiravich IVANIUTSENKA Stanislav Vladimirovich IVANYUTENKO </td><td>Станіслаў Уладзіміравіч IВАНЮЦЕНКА Станислав Владимирович ИВАНЮТЕНКО </td><td>Judge of the court of the Rechitsa district of the Gomel region DOB: 29.7.1982  Nationality: Belarusian  Gender: male  Personal ID: 3290782H007PB3 </td><td>Stanislau Ivaniutsenka is a judge who has served in the the court of the Rechitsa district of the Gomel region since 2019, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President and the brutality of Belarusian law-enforcement structures. He ruled on the case of Polina Sharendo, a social activist from Belarus, who was detained in January 2021. He is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>255.</td><td>Aliaksey Anatolevich KHLYSZCZANKAU Alexey Anatolievich KHLYSHCHENKOV </td><td>Аляксей Анатольевіч ХЛЫШЧАНКАЎ Алексей Анатольевич ХЛЫЩЕНКОВ </td><td>Position(s): Judge of the Supreme Court of the Republic of Belarus; former judge of the Gomel Regional Court DOB: 27.8.1982  Nationality: Belarusian  Gender: male  Personal ID: 3270882H007PB4 </td><td>Aliaksey Klyshchankau is a judge who served in the Gomel Regional Court between 2019 and 2023, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President and the brutality of Belarusian law-enforcement structures. He sentenced Yuri Vlasov, a confidant of presidential candidate Svetlana Tikhanovskaya, to 6,5 years in a maximum-security penal colony. Since 2023, he is a judge of the Supreme Court of the Republic of Belarus, where he has upheld politically motivated sentences.  Aliaksey Klyshchankau is therefore responsible for seriously undermining the rule of law and for the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>256.</td><td>Ihar Fiodaravich ZIAMTSAU Igor Fedorovich ZEMTSOV </td><td>Iгар Фёдаравіч ЗЯМЦОЎ Игорь Федорович ЗЕМЦОВ </td><td>Judge of the Mogilev Regional Court Nationality: Belarusian  DOB: 20.3.1975  Gender: male  Personal ID: 3200375M061PB1 </td><td>Ihar Ziamtsau is a judge who has served in the Mogilev Regional Court since 2017, having been appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the President and the brutality of Belarusian law-enforcement structures. He is therefore responsible for seriously undermining the rule of law and for the repression of civil society and democratic opposition in Belarus. </td><td>5.8.2024</td></tr>
+<tr><td>257.</td><td>Aliaksei Iurievich KRIAKVIN Alexey Yurevich KRIAKVIN </td><td>Аляксей Юр’евіч КРАКВIН Алексей Юрьевич КРЯКВИН </td><td>Propagandist on the All-National Television (ONT) TV channel DOB: 9.11.1984  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male </td><td>Aliaksei Kriakvin is a propagandist for the State-owned ONT TV channel and is engaged in the production of propaganda material in support of the Lukashenka regime. In particular, he was directly involved in the work on ONT’s ‘special investigation’ about the criminal case of Viktor Babariko, in which data from the preliminary investigation were disclosed. He appears in television programmes, regularly criticising the actions of opponents of the Lukashenka regime and talking about the involvement of the West in popular unrest in Belarus. He is therefore supporting the Lukashenka regime.</td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>258.</td><td>Viktar Arkadzievich SHAUTSOU Viktor Arkadievich CHEVTSOV/ SHEVTSOV </td><td>Вiктар Аркадзьевiч ШАЎЦОЎ Виктор Аркадьевич ШЕВЦОВ </td><td>Position(s): Businessman, investor DOB: 5.12.1963  POB: Razumava village, Vitebsk region, Belarus  Nationality: Belarusian  Gender: male  Passport number: MP4572331, issued on 12.2.2021  Personal ID: 3051263A036PB7 </td><td>Viktar Shautsou is a businessman with business interests in Belarus. In his role as honorary consul of the Philippines in Belarus, and through his involvement in representing the Belarusian Government, he is supporting the Lukashenka regime.  Furthermore, he is benefitting from the regime, through his involvement in Reshenie Bank, which in turn has interests in and is involved in the Dudutki museum complex, which is benefitting from the Belarussian state budget.  Therefore, Viktar Shautsou is supporting and benefitting from the Lukashenka regime. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>259.</td><td>Volha Anatoleuna DUBOVIK Olga Anatolievna DUBOVIK </td><td>Вольга Анатольеўна ДУБОВIК Ольга Анатольевна ДУБОВИК </td><td>Judge of the court of the Maladzechna district of the Minsk region Nationality: Belarusian  DOB: 26.8.1978  Gender: female  Personal ID: 4260878B038PB7 </td><td>Volha Dubovik is a Belarusian judge who serves in the court of the Maladzechna district of the Minsk region. She was appointed by Aliaksandr Lukashenka in 2020. She has issued politically motivated sentences, including against citizens of Belarus who protested against the fraudulent presidential elections of 2020. She also sentenced a citizen for acting in self-defence against law-enforcement brutality. She is therefore responsible for seriously undermining the rule of law and for the repression of civil society and democratic opposition. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>260.</td><td>Anton Genadzevich DUDAL Anton Gennadievich DUDAL </td><td>Антон Генадзевіч ДУДАЛЬ Антон Геннадьевич ДУДАЛЬ </td><td>Position(s):Former judge of the court of the Bobruisk region and the city of Bobruisk, Chairman of the Kirovsky District Court Nationality: Belarusian  DOB: 11.8.1986  Gender: male  Personal ID: 3110886M079PB3 </td><td>Anton Dudal was a judge who served in the court of the Bobruisk district and the city of Bobruisk. He was appointed by Aliaksandr Lukashenka in 2019. He has issued politically motivated sentences, including against citizens of Belarus who voiced their opinions against the President. He sentenced a citizen for acting in self-defence against law-enforcement brutality. He transferred Andrey Sachevko to prison in Mahiliou. Anton Dudal is therefore responsible for the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as the Chairman of Kirovsky District Court. </td><td>5.8.2024</td></tr>
+<tr><td>261.</td><td>Mikalai Vasilievich SIARHEEVICH Nikolai Vasilievich SERGEEVICH </td><td>Мікалай Васільевіч СЯРГЕЕВIЧ Николай Васильевич СЕРГЕЕВИЧ </td><td>Position(s): Former judge of the Zhlobinsky District Court of the Gomel Region, Chairman of the Chechersky District Court Nationality: Belarusian  DOB: 22.8.1983  Gender: male  Personal ID: 3220883H026PB7 </td><td>Mikalai Siarheevich was a Belarusian judge who served in the Zhlobinsky District Court of the Gomel Region He was appointed by Aliaksandr Lukashenka. He has issued politically motivated sentences against citizens of Belarus who voiced their opinions against the fraudulent presidential elections of 2020, including participants in the Zhlobin protests. Mikalai Siarheevich is therefore responsible for the repression of civil society and democratic opposition.  He remains active in the Lukashenka regime as the Chairman of Chechersky District Court. </td><td>5.8.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>262.</td><td>Vitali Viktaravich SINILA Vitaliy Viktorovich SINILO </td><td>Віталій Віктаравіч СIНIЛА Виталий Викторович СИНИЛО </td><td>Judge and chairman of the court of the Mostovsky district of the Grodno region DOB: 15.5.1976  Nationality: Belarusian  Gender: male  Personal ID: 3161180C038PB1 </td><td>Vitali Sinila is a Belarusian judge and chairman of the court of the Mostovsky district of the Grodno region. He was appointed by Aliaksandr Lukashenka. He issued sentences against a number of citizens of Belarus who voiced their opinions against the President and the regime’s authorities, e.g. Viktor Tsarikevich and Sergei Burak, for the dissent they expressed on social media and offline. He is therefore responsible for the repression of civil society and democratic opposition. </td><td>16.12.2024</td></tr>
+<tr><td>263.</td><td>Iryna Vasieuna PRADUN Irina Vasilevna PRADUN </td><td>Iрына Васільеўна ПРАДУН Ирина Васильевна ПРАДУН </td><td>Judge and chairperson of the court of the Rogachev district of the Gomel Region DOB: 21.5.1974  Nationality: Belarusian  Gender: female  Personal ID: 4210574H035PB4 </td><td>Iryna Pradun is a Belarusian judge and chairperson of the court of the Rogachev district of the Gomel region. She was appointed by Aliaksandr Lukashenka. She issued sentences against a large number of citizens of Belarus who voiced their opinions against the President. She also issued sentences against a number of individuals for their alleged participation in protests and for resisting the brutality of the Belarusian law enforcement authorities, e.g. in the case against Evgeny Kokhanovsky, who according to human rights defenders was coerced into pleading guilty to having taken part in protests. She is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>264.</td><td>Vadzim Ivanavich MAZOL Vadim Ivanovich MOZOL </td><td>Вадзім Iванавіч МАЗОЛЬ Вадим Иванович МОЗОЛЬ </td><td>Judge of the Pruzhany District Court of the Brest Region DOB: 13.4.1974  Nationality: Belarusian  Gender: male  Personal ID: 3130474C031PB6 </td><td>Vadzim Mazol is a Belarusian judge of the Pruzhany District Court of the Brest Region. He was appointed by Aliaksandr Lukashenka. He issued sentences against a large number of citizens of Belarus who voiced their opinions against the President and the regime’s law enforcement authorities, including on social media. He is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>265.</td><td>Nina Uladzimirauna SHASTAK Nina Vladimirovna SHESTAK </td><td>Ніна Уладзіміраўна ШАСТАК Нина Владимировна ШЕСТАК </td><td>Judge of the Brest Regional Court DOB: 1.5.1958  Nationality: Belarusian  Gender: female  Personal ID: 4010558C080PB9 </td><td>Nina Shastak is a Belarusian judge of the Brest Regional Court. She was appointed by Aliaksandr Lukashenka. She issued sentences against a number of citizens of Belarus who voiced their opinions against the Belarusian regime’s authorities. She also considered appeals against sentences of peaceful demonstrators, confirming those sentences. She is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>266.</td><td>Vera Viacheslavauna FILONIK Vera Vyacheslavovna FILONIK </td><td>Вера Вячаславаўна ФIЛОНIК Вера Вячеславовна ФИЛОНИК </td><td>Judge of the Brest Regional Court DOB: 8.3.1990  Nationality: Belarusian  Gender: female  Personal ID: 4080390K014PB5 </td><td>Vera Filonik is a Belarusian judge of the Brest Regional Court. She was appointed by Aliaksandr Lukashenka. She issued sentences against a large number of citizens of Belarus accused of having taken part in the protests against the Belarusian regime in August 2020. She is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>267.</td><td>Iryna Leanidauna MAIKO Irina Leonidovna MAIKO </td><td>Iрына Леанідаўна МАЙКО Ирина Леонидовна МАЙКО </td><td>Judge of the Minsk Regional Court DOB: 25.11.1974  Nationality: Belarusian  Gender: female  Personal ID: 4251174A007PB7 </td><td>Iryna Maiko is a Belarusian judge of the Minsk Regional Court. She was appointed by Aliaksandr Lukashenka. She issued sentences against citizens who voiced their opinions against the President and the regime’s authorities, e.g. Roman Yankouski and Mikhail Nemtsov, for the dissent they expressed on social media and offline. She is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>268.</td><td>Vasili Vasilievich BIAGUN Vasily Vasilyevich BEGUN </td><td>Васілій Васільевіч БЯГУН Василий Васильевич БЕГУН </td><td>Judge of the Gomel Regional Court DOB: 9.12.1960  POB: Kondopoga, Republic of Karelia, Russia  Nationality: Belarusian  Gender: male </td><td>Vasily Biagun is a Belarusian judge who has served in the Gomel Regional Court since 2003. He was appointed by Aliaksandr Lukashenka. Biagun issued numerous rulings against opponents of the Belarusian authorities, including sentences against individuals for their activity on social media. He also issued politically motivated prison sentences against Nikita Slepenka (3 years) and Pavel Bobchenko (2 years). He is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>269.</td><td>Yauheni Anatolevich BREGAN Evgeni Anatolevich BREGAN </td><td>Яўгеній Анатольевіч БРЭГАН Евгений Анатольевич БРЕГАН </td><td>Judge of the Brest Regional Court DOB: 26.3.1982  Nationality: Belarusian  Gender: male  Personal ID: 3260382K020PB0 </td><td>Yauheni Bregan is a Belarusian judge of the Brest Regional Court. He was appointed by Aliaksandr Lukashenka. He was formerly a judge of the Moskovsky District Court of Brest and judge of the city of Baranovichi in the Brest region. He issued sentences against a large number of citizens of Belarus accused, amongst other things, of having taken part in the protests against the Belarusian regime in August 2020. He is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>270.</td><td>Aliaksandr Mikalaevich MOKHORAU Alexander Nikolaevich MOKHOREV </td><td>Аляксандр Мікалаевіч МОХОРАЎ Александр Николаевич МОХОРЕВ </td><td>Judge of the Soviet District Court of the city of Gomel DOB: 16.4.1986  Nationality: Belarusian  Gender: male  Personal ID: 3160486H031PB9 </td><td>Aliaksandr Mokhorau a Belarusian judge who has served in the Soviet District Court of the city of Gomel since 2021. He was appointed by Aliaksandr Lukashenka. He issued sentences against citizens of Belarus who voiced their opinions against the President, the system and brutality of Belarusian law enforcement structures. He is therefore responsible for repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>271.</td><td>Alesya Uladzimiravna OSIPAVA Olesya Vladimirovna OSIPOVA </td><td>Алеся Уладзіміраўна ОСIПАВА Олеся Владимировна ОСИПОВА </td><td>Judge of the Central District Court of the city of Gomel DOB: 4.9.1979  Nationality: Belarusian  Gender: female  Personal ID: 4040979H059PB4 </td><td>Alesya Osipava is a Belarusian judge who has served in the Central District Court of the city of Gomel since 2019. She was appointed by Aliaksandr Lukashenka. She issued sentences against citizens of Belarus who voiced their opinions against the President, the system and brutality of Belarusian law enforcement structures. She is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>272.</td><td>Viktar Viktaravich NOVIK Viktor Viktorovich NOVIK </td><td>Віктар Віктаравіч НОВIК Виктор Викторович НОВИК </td><td>Judge, President of the Court, Zhabinka District DOB: 27.5.1963  POB: Beloye, Mamlyutsky district, North Kazakhstan region, Kazakhstan  Nationality: Belarusian  Gender: male  Personal ID: 3270563K025PB7 </td><td>Viktar Novik is a Belarusian judge who has served in the Zhabinka District court since 2017. He was appointed by Aliaksandr Lukashenka. Novik issued numerous rulings against opponents of the Belarusian authorities. He issued politically motivated prison sentences against Vitali Ivanyukovich (2 years), Natalia Letsko (1 years), Andrei Vlasov and Yulia Suvalko (3 years) and Valentin Shumik (2 years). He is therefore responsible for the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>273.</td><td><br> Vadzim Rastsislavavich MURASHKA <br> Vadim Rostislavovich MURASHKO   </td><td>Вадзім Расціслававіч МУРАШКА Вадим Ростиславович МУРАШКО </td><td>Head of the correctional institution Penal Colony No 13 DOB: 20.6.1979  POB: Bortniki, Hlybokaye District, Vitebsk Region, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3200679E065PB6 </td><td>Vadzim Murashka is a Belarusian national and head of the correctional institution Penal Colony No 13, a maximum-security prison where a number of political prisoners are held, including Nikolai Statkevich, Vitaly Melnik and Sergei Vereshkhagin. Prisoners of Colony No 13 face inhumane conditions and are subject to abuses. He is therefore responsible for serious violations of human rights and repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>274.</td><td>Siarhei Uladzimiravich BIAREISHYK Sergey Vladimirovich BEREISHIK </td><td>Сяргей Уладзіміравіч БЯРЭЙШЫК Сергей Владимирович БЕРЕЙШИК </td><td>Deputy head of Pre-trial Detention Centre No 1 ‘Voldarka’ DOB: 31.10.1976  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3311076A076PB6 </td><td>Siarhei Biareishyk is the deputy head of Pre-trial Detention Centre No 1 ‘Voldarka’. In this position, he is responsible for the inhumane treatment of the detainees, including beatings, overcrowding and lack of appropriate medical treatment and sanitary equipment. The majority of inmates are political detainees, such as human rights activist, founder of Belarusian human rights association Viasna and 2022 Nobel Peace Prize Winner Ales Bialiatski, who was detained in ‘Voldarka’ until October 2024. Siarhei Biareishyk is therefore responsible for serious violations of human rights and repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>275.</td><td>Mikalai Mikalaevich MUSHKAROU Nikolai Nikolaevich MUSHKAROV </td><td>Мікалай Мікалаевіч МУШКАРОЎ Николай Николаевич МУШКАРОВ </td><td>Deputy head of labour service in Pre-trial Detention Center No 1 ‘Voldarka’ DOB: 19.12.1980  POB: Minsk, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3191280A031PB0 </td><td>Mikalai Mushkarou is the deputy head of labour service in the Pre-trial Detention centre No 1 ‘Voldarka’. In this position, he is responsible for the inhumane treatment of the mainly political detainees, including beatings, overcrowding and lack of appropriate medical treatment and sanitary equipment. The majority of inmates are political detainees, such as human rights activist, founder of Belarusian human rights association Viasna and 2022 Nobel Peace Prize Winner Ales Bialiatski, who was detained in ‘Voldarka’ until October 2024. Mikalai Mushkarou is therefore responsible for serious violations of human rights and repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>276.</td><td>Siarhei Mikalaevich PETRAKOVICH Sergey Nikolaevich PETRAKOVICH </td><td>Сяргей Мікалаевіч ПЕТРАКОВIЧ Сергей Николаевич ПЕТРАКОВИЧ </td><td>Head of the correctional institution Penal Colony No 9 DOB: 26.10.1976  POB: Stan, Gorki District, Mogilev Region, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3261076M062PB5 </td><td>Siarhei Petrakovich is the head of Penal Colony No 9. In this position he is responsible for the inhumane treatment of prisoners, including isolation and beatings. The majority of the inmates are political prisoners, such as Mikola Dedok and the 2022 Nobel Peace Prize winner Ales Bialiatski. Siarhei Petrakovich is therefore responsible for serious violations of human rights and the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>277.</td><td>Viktar Piatrovich LUTTSAU Viktor Petrovich LUTSEV </td><td>Віктар Пятровіч ЛУТЦАЎ Виктор Петрович ЛУТЦЕВ </td><td>Head of the medical unit, Prison No 1 in Grodno DOB: 24.12.1985  POB: Grodno, Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3241285K026PB1 </td><td>Viktar Luttsau is the head of the medical unit in Prison No 1 in Grodno. In this position, he is responsible for the inhumane treatment of detainees and lack of appropriate and timely medical assistance. The lack of proper medical treatment led to the death of political prisoner Ales Pushkin, who was not provided timely medical assistance. He is therefore responsible for serious human rights violations and the repression of civil society. </td><td>16.12.2024</td></tr>
+<tr><td>278.</td><td>Ihar Tsimafeevich SUBOTSIN Igor Timofeyevich SUBBOTIN </td><td>Iгар Цімафеевіч СУБОЦIН Игорь Тимофеевич СУББОТИН </td><td>Businessman DOB: 15.10.1951  POB: Belarus  Nationality: Belarusian  Gender: male  Personal ID: 3151051A006PB8 </td><td>Ihar Subotsin is a long-term close business associate of Alexander Shakutin. Ihar Subotsin has been working with Alexander Shakutin since the early 1990s and was also his assistant when Alexander Shakutin was a member of the Council of the Republic of the National Assembly of the Republic of Belarus and his deputy at the Belarusian Tennis Federation. Both Alexander Shakutin and Ihar Subotsin are shareholders in the following companies: SIA Anulatrans (Latvia), SV Maschinen GmbH (Germany), PMI Engineering LLC (Belarus), SALEO LLC (Belarus), UAB EM System (Lithuania).  They are co-founders and co-owners of Prommedinvest, which is now named SALEO LLC (Belarus). This company is also partially owned by EM System, PMI Engineering, and SV Maschinen GmbH, of which both Shakutin and Subotsin are shareholders.  Ihar Subotsin is therefore associated with Alexander Shakutin. </td><td>16.12.2024</td></tr>
+<tr><td>279.</td><td>Aliaksei Ivanovich SHVAKAU Alexey Ivanovich SHVAKOV </td><td>Аляксей Iванавіч ШВАКОЎ Алексей Иванович ШВАКОВ </td><td>Chairman of the Belarusian Republican Bar Association (since 14 February 2022); former chairman of the Minsk City Bar Association (26 April 2012–20 February 2022) DOB: 5.10.1964  Nationality: Belarusian  Gender: male  Passport number: 3051064A050PB </td><td>In his role as Chairman of the Belarusian Republican Bar Association, Aliaksei Shvakau has been leading and shaping the the Belarusian Republican Bar Association policy of systemic repression against lawyers who represent clients in politically motivated cases or who speak out against abuses by the Lukashenko regime. In his former role as chairman of the Minsk City Bar Association, he also targeted lawyers representing clients in politically motivated cases. He is therefore responsible for the repression of civil society and democratic opposition and activities that undermine the rule of law in Belarus. </td><td>16.12.2024</td></tr>
+<tr><td>280.</td><td>Aleh Genadzevich ARLOU Oleg Gennadievich ORLOV </td><td>Алег Генадзевіч АРЛОЎ Олег Геннадьевич ОРЛОВ </td><td>DOB: 18.7.1969 POB: Azerbaijan  Nationality: Belarusian  Gender: male  Passport number: MP3428828 </td><td>Aleh Arlou is a businessperson operating in Belarus. He is the owner of Ruzekspeditsiya LLC since 7 August 2023. Since 2019 Aleh Arlou’s company has conducted its business from the Bremino-Orsha Special Economic Zone (SEZ), established by a presidential decree of Aliaksandr Lukashenka, which is managed by Bremino Group LLC. Companies established in the Bremino-Orsha Special Economic Zone profit from tax and other financial advantages. Bremino-Orsha SEZ is home to and therefore gives these benefits to only six companies, including Bremino Group LLC. The decision as to who is allowed to share in the benefits of the Bremino-Orsha SEZ by becoming its resident, lies solely with Bremino Group LLC as the managing company of the SEZ.  According to journalists’ investigations, Ruzekspeditsiya is involved in a sanctions evasion scheme concerning Council Regulation (EC) No 765/2006.  It follows that Arlou is associated with entities listed under Regulation (EC) No 765/2006, namely Ruzekspeditsiya LLC and Bremino Group. Through his ownership of the company he also benefits from the advantages granted to Ruzekspeditsiya LLC by the regime. He also partakes in a scheme designed to frustrate Council Regulation (EC) No 765/2006. </td><td>16.12.2024</td></tr>
+<tr><td>281.</td><td>Andrei Aliakseevich RYBAKOU Andrei Alekseevich RYBAKOV </td><td>Андрэй Аляксеевіч РЫБАКОЎ Андрей Алексеевич РЫБАКОВ </td><td>Director-General of OAO Belaruskali Former Chairman of the Belarusian State Concern for Oil and Chemistry (Belneftekhim)  DOB: 11.7.1976  POB: Mohiliow (Mogilev), Belarus  Nationality: Belarusian  Gender: male </td><td>Andrei Rybakou is the Director-General of OAO Belaruskali. He was appointed by Aliaksandr Lukahsenka on 4 November 2024, replacing Ivan Golovaty. Lukashenka described Belaruskali as a ‘vital state-forming enterprise’. Previously, Rybakou was the Chairman of the Belarusian State Concern for Oil and Chemistry (Belneftekhim), sanctioned by the EU since 3 August 2023. In that capacity, he was responsible for the output of Belarusian oil refineries, a vital operation for the Lukashenka regime. Dmitri Krutoi, the Head of the Belarus President Administration, stated that Rybakou was appointed specifically for his ‘specific experience’ running ‘the most sanctioned’ entity – Belneftekhim. Therefore, Andrei Rybakou benefits from and supports the Lukashenka regime by managing state-owned companies of great importance to the regime. He is also associated with sanctioned entity OAO Belaruskali, as its Director-General. </td><td>16.12.2024</td></tr>
+<tr><td>282.</td><td>Aleh Fyedaravych BARABANAU Oleg Fedorovich BARABANOV </td><td>Алег Федаровіч БАРАБАНАЎ Олег Федорович БАРАБАНОВ </td><td>DOB: 29.8.1956 POB: Grodno region, Belarus  Nationality: Belarusian  Gender: male  Passport number: KH2539329  National ID:3290856K010PB6 </td><td>Aleh Barabanau is the director and part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through the privileges awarded to the company, Barabanau benefits from the Lukashenka regime.</td><td>16.12.2024</td></tr>
+<tr><td>283.</td><td>Aleh Ramualdavych HERASIM Oleg Romualdovich GERASIM </td><td>Алег Рамуальдавіч ГЕРАСIМ Олег Ромуальдович ГЕРАСИМ </td><td>DOB: 3.3.1962 POB: Belarus  Nationality: Belarusian  Gender: male  Passport number: MP3293367  National ID: 3030362A074PB6 </td><td>Aleh Herasim is part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through the privileges awarded to the company, Herasim benefits from the Lukashenka regime.</td><td>16.12.2024</td></tr>
+<tr><td>284.</td><td>Aleh Uladzimiravych PIATROU Oleg Vladimirovich PETROV </td><td>Алег Уладзіміравіч ПЯТРОЎ Олег Владимирович ПЕТРОВ </td><td>DOB: 26.3.1962 POB: Russia  Nationality: Russian  Gender: male  Passport no.: OI110473 </td><td>Aleh Piatrou is part-owner of Vlate Logistik LLC, a transport and storage company which holds a status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through the privileges awarded to the company, Piatrou benefits from the Lukashenka regime.</td><td>16.12.2024</td></tr>
+<tr><td>285.</td><td>Andrei Ryhoravich SVIRYDAU Andrei Grigoryevich SVIRIDOV </td><td>Андрэй Рыгоравiч СВIРЫДАЎ Андрей Григорьевич СВИРИДОВ </td><td>Financial director of Dimicandum Invest Holding LTD DOB: 24.11.1983  POB: Belarus  Nationality: Belarusian  Gender: male  Passport number: KH 1801845 </td><td>Andrei Svirydau is the financial director of Dimicandum Invest Holding LTD, a company established in the EU. In 2022 and 2023, Dimicandum Invest Holding LTD provided transport and forwarding services to OJSC Belaruskali – which has been designated by the Union since 2022 – at a price nearly double the market rate. As financial director of Dimicandum, Svirydau signed documents confirming this deal, facilitating the undermining of the provisions set out in Council Regulation (EC) No 765/2006. It follows that by making funds or economic resources available, directly or indirectly, to or for the benefit of OJSC Belaruskali, Andrei Svirydau has significantly frustrated the prohibition against circumvention of Art. 2(2) of Council Regulation (EC) No 765/2006. Moreover, Andrei Svirydau is benefitting from and supporting the Lukashenka regime by facilitating the export of Belaruskali’s potash fertilisers. </td><td>16.12.2024</td></tr>
+<tr><td>286.</td><td>Dzmitry Mihaylavych ZAMULEVICH Dmitriy Mikhailovich ZAMULEVICH </td><td>Дзмітрьій Міхайлавіч ЗАМУЛЕВIЧ Дмитрий Михайлович ЗАМУЛЕВИЧ </td><td>Part-owner of Vlate Logistik LLC DOB: 7.5.1974  Nationality: Belarusian  Gender: male  Belarusian passport number: BM2229283  Belarusian ID:3070574E057PB8 </td><td>Dzmitry Zamulevich is part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through ownership of Vlate Logistik LLC, Zamulevich is associated with an entity benefitting from the Lukashenka regime.</td><td>16.12.2024</td></tr>
+<tr><td>287.</td><td>Uladzimir Mihaylavych ARKADZYEU Vladimir Mikhailovich ARKADIEV </td><td>Уладзімір Міхайлавіч АРКАДЗЬЕЎ Владимир Михайлович АРКАДЬЕВ </td><td>Part-owner of Vlate Logistik LLC DOB: 23.4.1965  POB: Russia  Nationality: Russian and Belarusian  Gender: male  Belarusian passport number: KH2757270  Belarusian ID: 3230465K000PB5  Russian passport number: KH1935655 </td><td>Uladzimir Arkadzyeu is part-owner of Vlate Logistik LLC, a transport and storage company which holds the status of authorised economic operator. Through this status, issued by state authorities, it enjoys significant tax advantages. Through ownership of Vlate Logistik LLC, Arkadzyeu is associated with an entity benefitting from the Lukashenka regime.</td><td>16.12.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>288.</td><td>Aliaksei Uladzimiravich BASHAN Alexey Vladimirovich BASHAN </td><td>Аляксей Уладзіміравіч БАШАН Алексей Владимирович БАШАН </td><td>Deputy Chairman of the Central Election Commission DOB: 28.2.1975  Passport number: 3280275A062PB3  Nationality: Belarusian  Gender: male </td><td>Aliaksei Bashan is the Deputy Chairman of the Belarusian Central Election Commission. As Deputy Chairman, Aliaksei Bashan is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Aliaksei Bashan is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>289.</td><td>Alena Anatolieuna BALDOUSKAYA Elena Anatolyevna BALDOVSKAYA </td><td>Алена Анатольеўна БАЛДОЎСКАЯ Елена Анатольевна БАЛДОВСКАЯ </td><td>Secretary of the Central Election Commission DOB: 14.4.1980  Personal ID: 4140480B020PB4 </td><td>Alena Baldouskaya is the Secretary of the Belarusian Central Election Commission. As Secretary, Alena Baldouskaya is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Alena Baldouskaya is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>290.</td><td>Dzianis Uladzimiravich DUK Denis Vladimirovich DUK </td><td>Дзяніс Уладзіміравіч ДУК Денис Владимирович ДУК </td><td>Member of the Central Election Commission DOB: 29.5.1977  Personal ID: 3290577E034PB4 </td><td>Dzianis Duk is a member of the Belarusian Central Election Commission. As CEC member, Dzianis Duk is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Dzianis Duk is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>291.</td><td>Alena Kanstantinauna KUNTSEVICH Elena Konstantinovna KUNTSEVICH </td><td>Алена Канстанцінаўна КУНЦЭВIЧ Елена Константиновна КУНЦЕВИЧ </td><td>Member of the Central Election Commission DOB: 30.4.1971  Personal ID: 4300471C014PB0 </td><td>Alena Kuntsevich is a member of the Belarusian Central Election Commission. As CEC member, Alena Kuntsevich is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Alena Kuntsevich is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>292.</td><td>Aliaksandr Genadzevich TKACHOU Alexander Gennadievich TKACHEV </td><td>Аляксандр Генадзьевіч ТКАЧОЎ Александр Геннадьевич ТКАЧЕВ </td><td>Member of the Central Election Commission DOB: 17.9.1977  Personal ID: 3170977H042PB1 </td><td>Aliaksandr Tkachou is a member of the Belarusian Central Election Commission. As CEC Member, Aliaksandr Tkachou is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Aliaksandr Tkachou is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>293.</td><td>Katsiaryna Aliaksandrauna FEDASENKA Ekaterina Alexandrovna FEDOSENKO </td><td>Кацярына Аляксандраўна ФЕДАСЕНКА Екатерина Александровна ФЕДОСЕНКО </td><td>Member of the Central Election Commission DOB: 20.12.1976  Personal ID: 4201276K012PB1 </td><td>Katsiaryna Fedasenka is a member of the Belarusian Central Election Commission. As CEC Member, Katsiaryna Fedasenka is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Katsiaryna Fedasenka is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>294.</td><td>Aliaksandr Uladzimiravich YUZHIK Alexander Vladimirovich YUZHIK </td><td>Аляксандр Уладзіміравіч ЮЖЫК Александр Владимирович ЮЖИК </td><td>Member of the Central Election Commission DOB: 25.4.1975  Personal ID: 3250475K039PB6 </td><td>Aliaksandr Yuzhik is a member of the Belarusian Central Election Commission. As CEC Member, Aliaksandr Yuzhik is responsible for the organisation of the 2025 presidential election, which was neither free, nor fair. The election violated basic laws and international standards of fairness and transparency, and the results were falsified. Aliaksandr Yuzhik is therefore responsible for seriously undermining democracy and the rule of law in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>295.</td><td>Aleh Aliaksandravich RAMANAU Oleg Aleksandrovich ROMANOV </td><td>Алег Аляксандравіч РАМАНАЎ Олег Александрович РОМАНОВ </td><td>Leader of the party ‘Belaya Rus’ Chairman of the republican public association ‘Belaya Rus’  DOB: 9.8.1975  POB: Grodno (Hrodna), Belarus  Nationality: Belarusian  Gender: male </td><td>Aleh Ramanau is a long-time supporter of President Lukashenka. In 2022, Aleh Ramanau was elected as a chairman of pro-regime public association ‘Belaya Rus’, which he turned into the largest political party in Belarus, holding the majority of seats in the Parliament. In 2021, Aliaksandr Lukashenka appointed Aleh Ramanau to be Rector of the Polotsk State University, where he served until 2022. Aleh Ramanau was also a member of the Council of the Republic of Belarus of the 7th convocation from 6 December 2019 to 22 March 2024.  As chairman of ‘Belaya Rus’, Aleh Ramanau supports the Lukashenka regime. </td><td>27.3.2025</td></tr>
+<tr><td>296.</td><td>Nastassia Paulauna PAPKO Anastasia Pavlovna POPKO </td><td>Настасся Паўлаўна ПАПКО Анастасия Павловна ПОПКО </td><td>Judge at the Minsk City Court DOB: 13.12.1984  Personal ID: 4131284A078PB8 </td><td>Nastassia Papko is a judge of Minsk City Court. Since at least August 2020, she has been issuing politically-motivated verdicts against civil society representatives, with sentences of over 10 years imposed in at least five cases. Nastassia Papko is therefore responsible for serious violations of human rights or the repression of civil society and democratic opposition in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>297.</td><td>Yury Viktaravich NAZARAU Yury Viktorovich NAZAROV </td><td>Юрый Віктаравіч НАЗАРАЎ Юрий Викторович НАЗАРОВ </td><td>Head of the Belarus President Property Management Directorate DOB: 7.2.1962  POB: Belarus  Passport number: MP4071150 (issued on 4.10.2017)  Personal ID: 3070262M082PB4 </td><td>Yury Nazarau is the Head of the Belarus President Property Management Directorate. The Belarus President Property Management Directorate (PPMD) is a Belarusian government body subordinated directly to Aliaksandr Lukashenka. The Directorate started as a small unit managing inventory, logistics and welfare for government agencies, and has since evolved into the largest operator of non-residential real estate and of lotteries in Belarus. It thereby generates revenue for the regime. As Head of the Belarus President Property Management Directorate, Yury Nazarau supports the Lukashenka regime. He is also associated with Synesis LLC and the Directorate’s subsidiaries: GHU – Main Economic Department of the Presidential Administration, Republican unitary enterprise ‘Tsentrkurort’ (now merged with BelExpo), Republican subsidiary unitary enterprise ‘Hotel Minsk’, Open Joint Stock Company ‘Hotel Planeta’, Republican unitary enterprise Belorusskiye Loterei. </td><td>27.3.2025</td></tr>
+<tr><td>298.</td><td>Mikalai Uladzimiravich SHKRED Nikolai Vladimirovich SHKRED </td><td>Мікалай Уладзіміравіч ШКРЭД Николай Владимирович ШКРЕД </td><td>First Deputy Head of the Belarus President Property Management Directorate Former Deputy Head of the Security Service of the President of Belarus  DOB: 26.4.1981  POB: Belarus  Passport number: MP4388698 (issued on 17.7.2019)  Personal ID: 3260481A001PB5 </td><td>Mikalai Shkred is the First Deputy Head of the Belarus President Property Management Directorate and a former Deputy Head of the Security Service of Aliaksandr Lukashenka. The Directorate is a Belarusian government body subordinated directly to Aliaksandr Lukashenka. The Directorate started as a small unit managing inventory, logistics and welfare for government agencies, and has since evolved into the largest operator of non-residential real estate and of lotteries in Belarus. It thereby generates revenue for the regime. As First Deputy Head of the Belarus President Property Management Directorate, Mikalai Shkred supports the Lukashenka regime. He is also associated with Synesis LLC and the Directorate’s subsidiaries: GHU – Main Economic Department of the Presidential Administration, Republican unitary enterprise ‘Tsentrkurort’ (now merged with BelExpo), Republican subsidiary unitary enterprise ‘Hotel Minsk’, Open Joint Stock Company ‘Hotel Planeta’, Republican unitary entreprise Belorusskiye Loterei. </td><td>27.3.2025</td></tr>
+<tr><td>299.</td><td>Anton Mikhailavich KRAEUSKY Anton Mikhailovich KRAEVSKY </td><td>Антон Міхайлавіч КРАЕЎСКI Антон Михайлович КРАЕВСКИЙ </td><td>Deputy Head of the Belarus President Property Management Directorate DOB: 22.8.1982  Passport number: MP4083089 (issued on 2.11.2017)  Personal ID: 3220882A100PB8 </td><td>Anton Kraeusky is a Deputy Head of the Belarus President Property Management Directorate. The Directorate is a Belarusian government body subordinated directly to Aliaksandr Lukashenka. The Directorate started as a small unit managing inventory, logistics and welfare for government agencies, and has since evolved into the largest operator of non-residential real estate and of lotteries in Belarus. It thereby generates revenue for the regime. Companies subordinate to PPMD, like Belorusskiye Loterei, also benefit from their connection to the regime through preferential conditions. In turn, the regime benefits from additional revenue. As Deputy Head of the Belarus President Property Management Directorate, Anton Kraeusky supports the Lukashenka regime. He is also associated with Synesis LLC and the Directorate’s subsidiaries: GHU – Main Economic Department of the Presidential Administration, Republican unitary enterprise ‘Tsentrkurort’ (now merged with BelExpo), Republican subsidiary unitary enterprise ‘Hotel Minsk’, Open Joint Stock Company ‘Hotel Planeta’, Republican unitary enterprise Belorusskiye Loterei. </td><td>27.3.2025</td></tr>
+<tr><td>300.</td><td>Mikalai Mikhailavich RAHASHCHUK Nikolai Mikhailovich ROGASHCHUK </td><td>Мікалай Міхайлавіч РАГАШЧУК Николай Михайлович РОГАЩУК </td><td>Deputy Head of the Belarus President Property Management Directorate DOB: 22.4.1979  POB: Belarus  Passport number: MP4274241 (issued on 29.11.2018)  Personal ID: 3220479C043PB6 </td><td>Mikalai Rahashchuk is a Deputy Head of the Belarus President Property Management Directorate. The Directorate is a Belarusian government body subordinated directly to Aliaksandr Lukashenka. The Directorate started as a small unit managing inventory, logistics and welfare for government agencies, and has since evolved into the largest operator of non-residential real estate and of lotteries in Belarus. It thereby generates revenue for the regime. As Deputy Head of the Belarus President Property Management Directorate, Mikalai Rahashchuk supports the Lukashenka regime. He is also associated with Synesis LLC and the Directorate’s subsidiaries: GHU – Main Economic Department of the Presidential Administration, Republican unitary enterprise ‘Tsentrkurort’ (now merged with BelExpo), Republican subsidiary unitary enterprise ‘Hotel Minsk’, Open Joint Stock Company ‘Hotel Planeta’, Republican unitary enterprise Belorusskiye Loterei. </td><td>27.3.2025</td></tr>
+<tr><td>301.</td><td>Dzmitry Mikalaevich SHVEDKA Dmitry Nikolaevich SHVEDKO </td><td>Дзмітрый Мікалаевіч ШВЕДКА Дмитрий Николаевич ШВЕДКO </td><td>Businessman, majority shareholder and director of Ridotto LLC. DOB: 17.1.1979  POB: Belarus  Passport number: MP3615765 (issued on 19.2.2015) </td><td>Dzmitry Shvedka is a Belarusian businessman. He is a majority shareholder and director of Ridotto LLC, a Belarusian IT company specialising in online gambling application development. Ridotto LLC has developed and maintains the online casino Belbet for the state-owned Republican Unitary Enterprise Belorusskiye Loterei, which operates under the Belarus President Property Management Directorate. Belorusskiye Loterei serves as a significant revenue source for the Directorate, which reports directly to Aliaksandr Lukashenka. Alexander Shatrov, who has been sanctioned by the Union since 21 June 2021 for benefiting from and supporting the Lukashenka regime, owns 49,99 % of the shares of Ridotto LLC.  Dzmitry Shvedka is associated with Alexander Shatrov, Ridotto LLC, the Belarus President Property Management Directorate, and the Republican unitary enterprise Belorusskiye Loterei. Dzmitry Shvedka is also benefiting from and supporting the Lukashenka regime by providing a service that brings significant revenue to the President Property Management Directorate, subordinate directly to Aliaksandr Lukashenka. </td><td>27.3.2025</td></tr>
+<tr><td>302.</td><td>Mikhail Uladzimiravich DZENISENKA Mikhail Vladimirovich DENISENKO </td><td>Міхаіл Уладзіміравіч ДЗЯНIСЕНКА Михаил Владимирович ДЕНИСЕНКО </td><td>Businessperson DOB: 27.5.1974  POB: Belarus  Passport number: MP3303172 (issued on 10.6.2013; might have expired)  Personal ID: 3270574C044PB2 </td><td>Mikhail Dzenisenka is the director of the Republican unitary enterprise Belorusskiye Loterei. Belorusskiye Loterei is owned by the Belarus President Property Management Directorate; a government body subordinate to Aliaksandr Lukashenka. Belorusskiye Loterei is one of the two government bodies which have the right to run lotteries in Belarus. It manages Belbet, an online casino, which creates high revenues.  Under Belarusian law, Belbet is classified as an online lottery, while de-facto it operates as an online casino, which creates favourable conditions for its work. The online casino was developed, and its operation is maintained by Ridotto LLC, a company born out of the reorganisation of Synesis LLC, co-owned by Alexander Shatrov, who has been designated by the Union since 21 June 2021 for benefitting from and supporting the Lukashenka regime.  Mikhail Dzenisenka is associated with Belorusskiye Loterei and the Belarus President Property Management Directorate. Moreover, in his role as the director of Belorusskiye Loterei, Mikhail Dzenisenka is supporting the Lukashenka regime through generating substantial profit from online gambling. </td><td>27.3.2025</td></tr>
+<tr><td>303.</td><td>Siarhei Mirzaevich AVAKAU Sergey Mirzoevich AVAKOV </td><td>Сяргей Мірзаевіч АВАКАЎ Сергей Мирзоевич АВАКОВ </td><td>Businessperson, CEO of OJSC Planar DOB: 1955  POB: Belarus </td><td>Siarhei Avakau is the CEO of OJSC Planar. OJSC Planar is a state enterprise that specialises in the development and supply of components in the field of microelectronics, which are used for the production of military hardware such as UAVs. It forms part of a state-administered enterprise cluster supervised by the Strategic Projects Council under the direct supervision of the President of Belarus. Planar also contributes to Belarusian-Russian technological and military cooperation.  As CEO of OJSC Planar, Siarhei Avakau benefits from and materially supports the Belarussian military industrial complex. </td><td>27.3.2025</td></tr>
+<tr><td>304.</td><td>Yuri Mikalaevich TCHORNY Yuri Nikolaevich CHERNYI </td><td>Юрый Мікалаевіч ЧОРНЫ Юрий Николаевич ЧЕРНЫЙ </td><td>Director of Precise Electro-Mechanics Plant DOB: 1979, 1980 or 1981  POB: Belarus </td><td>Yuri Tchorny is the Director of Precise Electro-Mechanics, a Belarusian State enterprise that specializes in the development and production of military products and is subordinate to the State Military-Industrial Committee of the Republic of Belarus. In that capacity, Precise Electro-Mechanics Plant produces military hardware for use by the Belarus armed forces, notably ballistic missiles and provides revenue to the Belarusian State. Thus, Yuri Tchorny supports the Lukashenka regime and is associated with the listed entity Precise Electro-Mechanics. </td><td>27.3.2025</td></tr>
+<tr><td>305.</td><td>Aleh KALIADA Oleg KALYADA </td><td>Алег КАЛЯДА Олег КАЛЯДА </td><td>Judge of the Zavodsky District Court of the city of Minsk DOB: 1.1.1965  Passport number: 3010165A135PB5 </td><td>Aleh Kaliada is a Belarusian judge of the Zavodsky District Court of the City of Minsk. He has issued politically motivated sentences concerning, inter alia, freedom of expression or freedom of assembly, against Yana Barysovich, Andrei Asaula, Rastsislau Shavel, Aliaksandr Zialiutkin, and Maksim Prazhenik. Aleh Kaliada is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>306.</td><td>Alena BUSHAVA Alena BUSHEVA </td><td>Алена БУШАВА Алена БУШЕВА </td><td>Judge of the Court of the Frunzensky District of the City of Minsk DOB: 23.8.1976  Personal ID: 4230876A016PB7 </td><td>Alena Bushava is a Belarusian judge at the Court of the Frunzensky District of the City of Minsk. She has issued politically motivated sentences concerning, inter alia, freedom of expression or freedom of assembly against Siarhei Karytanovich, Darya Lychkouskaya, Aliaksei Maltsau, Yahor Mikhailau, Yuliya Mudreuskaya, Andrei Sheshko, Siarhei Staravoitau, Ihar Kapanaika. Alena Bushava is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>307.</td><td>Andrei VASILIUK Andrei VASILYUK </td><td>Андрэй ВАСIЛЮК Андрей ВАСИЛЮК </td><td>Judge of the court of Brest region DOB: 20.7.1977  Personal ID: 3200777C039PB0 </td><td>Andrei Vasiliuk is a Belarusian judge of the court of the Brest region. He has issued politically motivated rulings concerning, inter alia, freedom of expression or freedom of assembly against Aliaksandr Bazarau, Anastasiya Padhaiskaya, Aliaksandr Veliasnitski. Andrei Vasiliuk is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>308.</td><td>Dzina KUCHUK Dina KUCHUK </td><td>Дзіна КУЧУК Дина КУЧУК </td><td>Judge of the Supreme Court of Belarus; former judge of Minsk City Court DOB: 11.2.1974  Personal ID: 4110274A107PB7 </td><td>Dzina Kuchuk is a Belarusian judge at the Supreme Court of Belarus. Until February 2024, Dzina Kuchuk served as a judge of the Judicial Collegium for Criminal Cases of the Minsk City Court. As a judge at Minsk City Court, Dzina Kuchuk issued politically motivated rulings concerning freedom of expression or freedom of assembly against Andrei Andreyeu, Aliaksandr Komar, Sviatlana Bychkouskaya, Maryna Dubrouskaya, Yury Hrabianiok, Valeryia Kastsiuhova, Tatsiana Kouzina, Aliaksei Khralovich, Uladzimir Lavor, Viachaslau Pantsiushenka, Dzianis Varozau, Volha Tserakh, and Katsiaryna Zaretskaya, among others. Dzina Kuchuk is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>309.</td><td>Halina BONDAL Galina BONDAL </td><td>Галіна БОНДАЛ Галина БОНДАЛ </td><td>Judge at Vitebsk Regional Court DOB: 30.4.1962  Personal ID: 4300462E001PB6 </td><td>Halina Bondal is a Belarusian judge of the Vitebsk Regional Court. Halina Bondal has issued politically motivated rulings concerning freedom of expression or freedom of assembly against Volha Brytsikava, Siarhei Dalivelia, Maryia Famina, Tatsiana Frantskevich, Tsimafei Halubko, Yaraslau Kazakevich, Robert Kuzniatsou, Natallia Labatsevich, Anatol Mikhailau, and Andrei Ruskikh, among others. Halina Bondal is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>310.</td><td>Siarhei BUDREVICH Sergei BUDREVICH </td><td>Сяргей БУДРЭВIЧ Сергей БУДРЕВИЧ </td><td>Judge of the Oktyabrsky District Court of Minsk DOB: 29.6.1986 </td><td>Siarhei Budrevich is a Belarusian judge of the Oktyabrsky District Court of the City of Minsk. He has issued politically motivated sentences concerning freedom of expression or freedom of assembly against Yuliya Kashaverava, Siarhei Paspelau, Siarhei Belski, Aliaksandr Mikhailau, Andrei Hryva, Siarhei Yupatau, Artsiom Isakau, and Aliaksandr Zhaliazousk, among others. Siarhei Budrevich is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>311.</td><td>Zhanna BRYSINA Zhanna BRYSINA </td><td>Жанна БРЫСIНА Жанна БРЫСИНА </td><td>Judge of the Oktyabrsky District Court of the City of Minsk DOB: 21.10.1961 </td><td>Zhanna Brysina is a Belarusian judge of Minsk City Court. Zhanna Brysina has issued politically motivated rulings concerning freedom of expression or freedom of assembly against Pavel Belavus, Siarhei Kreida, Tsimafei Shkuratovich , Maksim Hrechkayedau, Vadzim Baranau, Aliaksandr Loban, Dzmitry Maholin, Ihar Artsiukh, Aliaksandr Ziankou, Ruslan Zavadzich, Artsiom Ziankou, Andrei Velikaselets, and Pavel Kharytonau, among others. Zhanna Brysina is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td>312.</td><td>Ala SKURATOVICH Alla SKURATOVICH </td><td>Ала СКУРАТОВIЧ Алла СКУРАТОВИЧ </td><td>Judge of the court of the Frunzensky district of the city of Minsk DOB: 18.10.1980  Personal ID: 4181080A069PB5 </td><td>Ala Skuratovich is a Belarusian judge of the court of the Frunzensky district of the city of Minsk. She has issued politically motivated sentences concerning, inter alia, freedom of expression or freedom of assembly against Andrus Asmalousk, Ivan Charavaka, Dzmitry Lapets , Andrei Akushka, Dziana Charnushyna, Andrei Mirashnichenka , and Artur Smaliakou. Ala Skuratovich is therefore responsible for the repression of civil society in Belarus.</td><td>27.3.2025</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>313.</td><td>Ilya Valerievich IKAN</td><td>Iлля Валер’евіч IКАН Илья Валерьевич ИКАН </td><td>Function: Chairman of Belneftekhim, Member of the Council of the Republic of the National Assembly of the Republic of Belarus DOB: 10.1.1981  POB: Pchelnik, Borisov District, Minsk Region/Oblast, former USSR (now Belarus)  Nationality: Belarusian  Gender: male  Associated entities: Belneftekhim </td><td>Ilya Ikan is the Chairman of the Belarusian State Concern for Oil and Chemistry (Belneftekhim). Belneftekhim is one of the largest industrial complexes of the Republic of Belarus and consists of multiple other state-owned companies established in 1997. Aliaksandr Lukashenka considers Belneftekhim to be one of the most important and strategic concerns in Belarus.  In particular, Belneftekhim represents a fundamental asset for the Belarusian economy and foreign policy, in particular in relation to the cooperation between Russia and Belarus in developing a common oil market. Regular consultations are held between the concern and President Lukashenka. Belneftekhim benefits from the support provided by the Lukashenka regime, especially with regard to the effects of sanctions. Therefore, Belneftekhim is benefitting from and supporting the Lukashenka regime.  By acting as the Chairman of Belneftekhim, Ilya Ikan is benefitting from and supporting the Lukashenka regime. </td><td>23.10.2025</td></tr>
+<tr><td>314.</td><td>Yuri Ivanovich PREDKO a.k.a. Yuriy Ivanovich PREDKO </td><td>Юрий Иванович ПРЕДКО</td><td>Function: General Director of OJSC Horizont DOB: 1964  POB: Belarus  Nationality: Belarusian  Gender: male  Associated entities: Horizont Holding, ICT Horizont </td><td>Yuri Predko is general manager of OJSC ‘Management Company of the Holding Horizont’, which is one of the largest manufacturers of consumer electronics and household appliances in the Republic of Belarus. It is the managing company of Horizont Holding. Horizont Holding is one of the largest and most dynamically developing diversified holdings in the Republic of Belarus, covering a wide range of business areas. Horizont Holding’s activities are being implemented with the instructions of Aliaksandr Lukashenka.  ICT Horizont, part of Horizont Holding, is one of the leaders in the development and production of special electronics in the Republic of Belarus. The company develops and produces special and dual-use goods, for example video-viewing devices for armoured vehicles. ICT Horizont collaborates with the Ministry of Defence of the Republic of Belarus in creating and modernising models of range equipment in accordance with the requirements for the training of formations and military units of the Armed Forces.  In addition, ICT Horizont takes part in the Union State (Russia and Belarus) scientific-technical programme ‘Intelavto’. The programme was approved by the Council of Ministers of the Republic of Belarus.  Therefore, Yuri Predko is associated with entities forming part of the military-industrial complex of Belarus by being involved in the development of military technology and equipment. </td><td>23.10.2025</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+**B. Legal persons, entities and bodies referred to in Article 2(1)**
+
+<table>
+<tbody><tr><td>  </td><td>Names (Transliteration of Belarusian spelling)  (Transliteration of Russian spelling) </td><td>Names (Belarusian spelling)  (Russian spelling) </td><td>Identifying information</td><td>Reasons for listing</td><td>Date of listing</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>Beltechexport</td><td>Белтехэкспорт</td><td>Address: Nezavisimosti Ave. 86-B, Minsk, Belarus Website: https://bte.by/  E-mail address: mail@bte.by  Registration number: 100138662 </td><td>Beltechexport is a private entity which exports weapons and military equipment produced by Belarusian state-owned companies to countries in Africa, South America, Asia and the Middle East. Beltechexport is closely associated with the Ministry of Defence of Belarus. Beltechexport is therefore benefitting from and supporting the Lukashenka regime, by bringing benefits to the presidential administration. Furthermore, Beltechexport forms part of the military and industrial complex of Belarus, and is involved in the development, production and supply of military technology and equipment. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>2.</td><td>Dana Holdings</td><td>ТАА ‘Дана Холдынгз’ ООО ‘Дана Холдингз’ </td><td>Address: Peter Mstislavets St. 9, pom. 3 (office 4), 220076 Minsk, Belarus Registration number: 690611860  Websites: https://bir.by/; https://en.dana-holdings.com; https://dana-holdings.com/  E-mail address: info@bir.by  Tel.: +375 (29) 636-23-91 </td><td>Dana Holdings is one of the main real estate developers and constructors in Belarus. The company and its subsidiaries received development rights for plots of land and developed several large residential complexes and business centres. Individuals reportedly representing Dana Holdings maintain close relations with President Lukashenka. Liliya Lukashenka, daughter-in-law of the President, had a high-ranking position in Dana Astra.  Dana Holdings is still active economically in Belarus.  Dana Holdings is therefore benefitting from and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td>3.</td><td>Dana Astra</td><td>ЗТАА ‘Дана Астра’ ИООО ‘Дана Астра’ </td><td>Address: Peter Mstislavets St. 9, pom. 9-13, 220076 Minsk, Belarus Registration number: 191295361  Websites: https://bir.by/; https://en.dana-holdings.com; https://dana-holdings.com/  E-mail address: PR@bir.by  Tel.: +375 (17) 269-32-60; +375 17 269-32-51 </td><td>Dana Astra, previously a subsidiary of Dana Holdings, is one of the main real estate developers and constructors in Belarus. The company received development rights for plots of land and is developing the multifunctional centre ‘Minsk World’, which is advertised by the company as the biggest investment of its kind in Europe. Individuals reportedly representing Dana Astra maintain close relations with President Lukashenka. Liliya Lukashenka, daughter-in-law of the President, had a high-ranking position in the company.  Dana Astra is therefore benefitting from and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td>4.</td><td>GHU – Main Economic Department of the Presidential Administration</td><td>Главное хозяйственное управление</td><td>Address: Miasnikova St. 37, Minsk, Belarus Website: http://ghu.by  E-mail address: ghu@ghu.by </td><td>Main Economic Department (GHU) of the Presidential Administration is the largest operator on the non-residential real estate market in the Republic of Belarus and a supervisor of numerous companies. Victor Sheiman, who as the former head of the Belarus President Property Management Directorate exercised direct control over GHU, was asked by President Aliaksandr Lukashenka to supervise the safety of the 2020 presidential elections.  GHU is therefore benefitting from its association with and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>SYNESIS LLC</td><td>ООО ‘Синезис’</td><td>Address: 220005, Minsk, Platonova 20B Belarus; Mantulinskaya 24, Moscow 123100, Russia. Registration number (УНН/ИНН): 190950894 (Belarus); 7704734000/  770301001 (Russia).  Website: https://synesis.partners; https://synesis-group.com/  Tel. +375 (17) 240-36-50  Email address: yuriy.serbenkov@synesis.by </td><td>Synesis LLC has provided the Belarusian authorities with a Kipod surveillance platform, which can search through and analyse video footage and employ facial recognition software, making the company responsible for the repression of civil society and democratic opposition by the state apparatus in Belarus. The Belarusian State Security Committee (KGB) and Ministry of Internal Affairs have been listed as users of a system created by Synesis. Synesis claims to have stopped providing the Belarusian authorities with the Kipod platform, but according to ByPOL reports Kipod is still used by the state securities agencies.  Synesis is one of the residents of the Hi-Tech Park, created by a decree of Aliaksandr Lukashenka, and as such enjoys numerous benefits, including exemptions from income tax, VAT, offshore duty, customs duties and others.  The company is therefore benefitting from its association with and supporting the Lukashenka regime. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>6.</td><td>AGAT electromechanical Plant OJSC</td><td>Агат-электромеханический завод</td><td>Address: Nezavisimosti Ave. 115, 220114 Minsk, Belarus Website: https://agat-emz.by/  E-mail address: marketing@agat-emz.by  Tel.:  +375 (17) 272-01-32;  +375 (17) 570-41-45  Registration number: 100093400 </td><td>AGAT electromechanical Plant OJSC is part of the Belarusian State Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial Committee), which is responsible for implementing the military-technical policy of the State and a subordinate to the Council of Ministers and President of Belarus. AGAT electromechanical Plant OJSC is therefore benefitting from its association with and supporting the Lukashenka regime.  The company manufactures ‘Rubezh’ – a barrier system designed for riot control that has been deployed against peaceful demonstrations that took place in the wake of the presidential elections held on 9 August 2020, thus making the company responsible for the repression of civil society and democratic opposition.  The company also produces goods with military end use, which are used by the Belarusian military, including the Air Force.  AGAT electromechanical Plant OJSC therefore forms part of the military and industrial complex of Belarus by being involved in the development, production and supply of military technology and equipment. </td><td>17.12.2020</td></tr>
+<tr><td>7.</td><td>140 Repair Plant</td><td>140 ремонтный завод</td><td>Address: Borisov, 19 L. Chalovskaya St. Phone:  +375 177 74-64-64  +375 177 74-79-99  Email:  info@140zavod.by  Website: 140zavod.org  Registration number: 600136102 </td><td>140 Repair Plant is part of the Belarussian State Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial Committee), which is responsible for implementing the military-technical policy of the State and a subordinate to the Council of Ministers and President of Belarus. 140 Repair Plant is therefore benefitting from its association with and supporting the Lukashenka regime. The company manufactures transport vehicles and armoured vehicles, which have been deployed against peaceful demonstrations that took place in the wake of the presidential elections held on 9 August 2020, thus making the company responsible for the repression of civil society and democratic opposition.  Furthermore, the company develops, produces and modernises military vehicles.  140 Repair Plant therefore forms part of the military and industrial complex of Belarus by being involved in the development, production and supply of military technology and equipment. </td><td>17.12.2020</td></tr>
+<tr><td>8.</td><td>MZKT (a.k.a. VOLAT)</td><td>МЗКТ - Минский завод колёсных тягачей</td><td>Address: 150 Partizansky Ave., 220021, Minsk, Republic of Belarus Phone: +375 (17) 330-17-09  Fax: +375 (17) 291-31-92  E-Mail: link@mzkt.by  Website: www.mzkt.by  Registration number: 100534485 </td><td>MZKT (a.k.a. VOLAT) is part of the Belarusian State Authority for Military Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial Committee), which is responsible for implementing the military-technical policy of the State and a subordinate to the Council of Ministers and the President of Belarus. MZKT (a.k.a. VOLAT) is therefore benefitting from its association with and supporting the Lukashenka regime. Employees of MZKT who protested during the visit of Aliaksandr Lukashenka to the factory and went on strike in the wake of the 2020 presidential elections in Belarus were fired, which makes the company responsible for violation of human rights.  Furthermore, the company also develops and produces military vehicles.  MZKT therefore forms part of the military and industrial complex of Belarus by being involved in the development, production and supply of military technology and equipment. </td><td>17.12.2020</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Sohra Group / Sohra LLC</td><td>ООО Сохра</td><td>Address: Revolucyonnaya 17/19, office no. 22, 220030 Minsk, Belarus Registration number: 192363182  Website: http://sohra.by/  E-mail address: info@sohra.by </td><td>Sohra company was owned by Aliaksandr Zaitsau, one of the most influential businessmen in Belarus, a person with close connections to the Belarusian political establishment and a close aide to Lukashenka's eldest son Viktor. Sohra promotes Belarusian industrial products in countries in Africa and the Middle East. It co-founded the defence company BSVT-New Technologies, engaged in weapons production and missile modernisation. Sohra, using its privileged position, serves as a proxy between the Belarusian political establishment and state-owned companies and foreign partners in Africa and the Middle East. It also engaged in gold mining in African countries on the basis of concessions obtained by the Lukashenka regime. Sohra Group is therefore benefitting from the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td>10.</td><td>Bremino Group LLC</td><td>ООО ‘Бремино групп’</td><td>Address: Niamiha 40, 220004 Minsk, Belarus; Bolbasovo village, Zavodskaya 1k, Orsha Region/Oblast, Belarus Registration number: 691598938  Website: http://www.bremino.by  E-mail address: office@bremino.by; marketing@bremino.by </td><td>Bremino Group is the initiator and co-administrator of the Bremino-Orsha special economic zone project, created by a presidential decree signed by Aliaksandr Lukashenka. The company has received state support for developing the Bremino-Orsha zone, as well as a number of financial and tax advantages and other benefits. The owners of Bremino Group - Aliaksandr Zaitsau, Mikalai Varabei and Aliaksei Aleksin - belong to the inner circle of Lukashenka-related businessmen and maintain close relations with Lukashenka and his family. Bremino Group is therefore benefitting from the Lukashenka regime.  Bremino Group is the owner of Transport and Logistics Center (TLC) on the Belarusian-Polish border - Bremino-Bruzgi, which was used by the Lukashenka regime as a shelter for migrants who have been transported to the Belarusian-Union border with the aim of illegally crossing it. Bremino-Bruzgi TLC was also a site of Lukashenka's propaganda visit to the migrants.  Bremino Group is therefore contributing to the activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>21.6.2021</td></tr>
+<tr><td>11.</td><td>Globalcustom Management LLC</td><td>ООО ‘Глобалкастом-менеджмент’</td><td>Address: Nemiga 40/301, Minsk, Belarus Registration number: 193299162  Website: https://globalcustom.by/  E-mail address: info@globalcustom.by </td><td>Globalcustom Management is associated with the Belarus President Property Management Directorate, formerly headed by Victor Sheiman, who has been designated by the Union since 2004. The company is involved in the smuggling of goods to Russia, which would not be possible without the consent of the Lukashenka regime, which controls the border guards and customs. The privileged position in the flower export sector to Russia, from which the company benefits, is also conditioned on the support of the regime. Globalcustom Management was the first owner of the GardService, the only private company to whom Lukashenka granted the use of weapons. Globalcustom Management is therefore benefitting from the Lukashenka regime.</td><td>21.6.2021</td></tr>
+<tr><td>12.</td><td>Belarusski Avtomobilnyi Zavod (BelAZ) / OJSC ‘BELAZ’ Open Joint Stock Company ‘BELAZ’ - Management Company of Holding ‘BELAZ-HOLDING’ </td><td>ААТ ‘БЕЛАЗ’ ОАО ‘БЕЛАЗ’ </td><td>Address: 40 let Octyabrya St. 4, 222161, Zhodino, Minsk Region/Oblast, Belarus Website: https://belaz.by </td><td>OJSC BelAZ is one of the leading state-owned companies in Belarus and one of the largest manufacturers of large trucks and large dump trucks in the world. It is a source of significant revenue for the Lukashenka regime. Lukashenka stated that the government will always support the company, and described it as a ‘Belarusian brand’ and ‘part of the national legacy’. OJSC BelAZ has offered its premises and equipment to stage a political rally in support of the Lukashenka regime. Therefore OJSC BelAZ benefits from and supports the Lukashenka regime. The employees of OJSC BelAZ who took part in strikes and peaceful protests in the aftermath of the fraudulent August 2020 elections in Belarus were threatened with layoffs and intimidated by the company management. A group of employees was locked indoors by OJSC BelAZ to prevent them from joining the other protesters. The company management presented a strike to the media as a staff meeting. Therefore OJSC BelAZ is responsible for the repression of civil society and supports the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>13.</td><td>Minskii Avtomobilnyi Zavod (MAZ) / OJSC ‘MAZ’ Open Joint Stock Company ‘Minsk Automobile Works’ – Management Company of ‘BELAVTOMAZ’ Holding </td><td>ААТ ‘Мiнскi аўтамабiльны завод’ ОАО ‘Минский автомобильный завод’ </td><td>Address: Socialisticheskaya 2, 220021 Minsk, Belarus Website: http://maz.by/  Date of registration: 16.7.1944  Tel. + 375 (17) 217-22-22; + 8000 217-22-22 </td><td>OJSC Minsk Automobile Plant (MAZ) is one of the biggest state-owned automotive manufacturers in Belarus. Lukashenka described it as ‘one of the most important industrial enterprises of the country’. It is a source of revenue for the Lukashenka regime. OJSC MAZ has offered its premises and equipment to stage a political rally in support of the regime. Furthermore, in the light of the involvement of Belarus in the Russian war of aggression against Ukraine, MAZ delivers military trucks to the Russian Army, which are also deployed in the Ukrainian territory for military actions. Therefore, OJSC MAZ benefits from and supports the Lukashenka regime. Employees of OJSC MAZ who took part in strikes and peaceful protests in the aftermath of fraudulent elections of August 2020 in Belarus were intimidated and later laid off by the company’s management. A group of employees was locked indoors by OJSC MAZ to prevent them from joining the other protesters. Therefore, OJSC MAZ is responsible for the repression of civil society and supports the Lukashenka regime. </td><td>21.06.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>14.</td><td>Logex</td><td>ТАА ‘Лагекс’ ООО ‘Логекс’ </td><td>Address: 24 Kommunisticheskaya St., office 2, Minsk, Belarus Registration number: 192695465  Website: http://logex.by/  E-mail address: info@logex.by </td><td>Logex is associated with Aliaksandr Shakutsin, a businessman close to the Lukashenka regime, who has been designated by the Union. The company is involved in the export of flowers to the Russian Federation at dumped prices, which would not be possible without the consent of the regime, which controls the border guards and customs. The privileged position in the flower export sector to Russia, from which the company benefits, is conditioned on the support of the regime. The main Belarusian suppliers of cut flowers are the companies that are closely connected with the leadership of the republic.  Logex is therefore benefitting from the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td>15.</td><td>JSC ‘NNK’ (Novaia naftavaia kampania) / New Oil Company</td><td>ЗАТ ‘ННК’ (Новая нафтавая кампанiя) ЗАО ‘ННК’ (Новая нефтяная компания) </td><td>Address: Rakovska St. 14W room 7, 5th floor, Minsk, Belarus Registration number: 193402282 </td><td>Novaya Neftnaya Kompaniya (NNK), New Oil company, is an entity founded in March 2020. It is the only private company entitled to export oil products from Belarus - an indication of close links to the authorities and the highest level of state privileges. NNK is owned by Interservice, a company belonging to Mikalai Varabei who is one of the leading businessmen benefitting from and supporting the Lukashenka regime. NNK is also reported to be connected to Aliaksei Aleksin, another prominent Belarusian businessman who benefits from the Lukashenka regime. According to media reports, Aleskin was the founder of NNK alongside Varabei. NNK was also used by the Belarusian authorities to adapt the Belarusian economy to restrictive measures introduced by the Union. NNK is therefore benefitting from the Lukashenka regime. </td><td>21.6.2021</td></tr>
+<tr><td>16.</td><td>Belaeronavigatsia State-owned enterprise </td><td>Белаэранавiгацыя Дзяржаўнае прадпрыемства  Белаэронавигация  Государственное предприятие </td><td>Address: 19 Korotkevich St., 220039 Minsk, Belarus Date of registration: 1996  Website: http://www.ban.by/  E-mail address: office@ban.by  Tel.: +375 (17) 215-40-51  Fax: +375 (17) 213-41-63 </td><td>The state-owned enterprise Belaeronavigatsia is responsible for Belarusian air traffic control. It therefore bears responsibility for diverting passenger flight FR4978 to Minsk airport without proper justification on 23 May 2021. This politically motivated decision was taken with the aim of arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus. The state-owned enterprise Belaeronavigatsia is therefore responsible for the repression of civil society and democratic opposition. </td><td>21.6.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>17.</td><td>Open Joint Stock Company ‘Belavia Belarusian Airlines’</td><td>ААТ ‘Авiякампанiя Белавiя’ ОАО ‘Авиакомпания Белавиа’ </td><td>Address: 14A Nemiga St., 220004 Minsk, Belarus Date of registration: 4.1.1996  Registration number: 600390798 </td><td>OJSC Belavia Belarusian Airlines is the state-owned national flag carrier airline. Belavia also owns and operates Belarusian governmental airplanes used by President Aliaksandr Lukashenka. Aliaksandr Lukashenka promised that his administration would provide all possible support to Belavia after the Union decided to introduce a prohibition on the overflight of Union airspace and on access to Union airports by all Belarusian air carriers. To that end, he agreed with the Russian President Vladimir Putin on planning the opening of new airline routes for Belavia. In 2021, Belavia’s CEO confirmed receiving government support in the restoration of flights to the Russian Federation. The flag carrier airline has also been exempted from paying added value tax by the Belarusian government in respect of aircraft and components imported into the territory of the Republic of Belarus. Furthermore, in 2014, Belavia received loans for the acquisition of new aircraft from a state-owned bank. Belavia’s management also told its employees not to protest against election irregularities and mass detentions in Belarus, in view of the fact that Belavia is a state-owned enterprise.  Belavia is therefore benefitting from and supporting the Lukashenka regime. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>18.</td><td>Republican unitary enterprise ‘TSENTRKURORT’</td><td>Рэспублiканскае унiтарнае прадпрыемства ‘ЦЭНТРКУРОРТ’ Республиканское унитарное предприятие ‘ЦЕНТРКУРОРТ’ </td><td>Address: 39 Myasnikova St., 220030 Minsk, Belarus Date of registration: 12.8.2003  Registration number: 100726604 </td><td>State-owned tourism company Tsentrkurort is part of the Belarus President Property Management Directorate. Tsentrkurort is reported to be one of the companies coordinating the flow of migrants that intend to cross the border between Belarus and the Union. Tsentrkurort helped at least 51 Iraqi citizens acquire visas for their visit to Belarus, and signed a contract for transportation services with Belarusian company Stroitur, which offers bus rentals with drivers. Buses booked by Tsentrkurort transported migrants, including children, from Minsk airport to hotels. Tsentrkurort is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td>19.</td><td>Oskartour LLC</td><td>ООО Оскартур</td><td>Address: 25 Karl Marx St., room 1n, Minsk, Belarus Date of registration: 18.10.2016  Registration number: 192721937 </td><td>Oskartour is a tour operator, which facilitated the obtainment of visas for migrants coming from Iraq and organised their subsequent travel to Belarus by flights from Bagdad to Minsk. Those Iraqi migrants were later transported to the Belarusian-Union border with the aim of illegally crossing it. Thanks to Oskartour and its contacts with Iraqi airlines, Belarusian authorities and the state-owned Tsentrkurort company, regular flights from Baghdad to Minsk were launched by the Iraqi air carrier, in order to bring more persons to Belarus to illegally cross the external borders of the Union. Oskartour took part in this illegal border-crossing scheme carried out by Belarusian security services and state-owned companies. It is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td>20.</td><td>Republican subsidiary unitary enterprise ‘Hotel Minsk’</td><td>Гатэль ‘Мiнск’ Республиканское дочернее унитарное предприятие “Отель ‘Минск’ </td><td>Address: 11 Nezavisimosti Ave., Minsk, Belarus Date of registration: 26.12.2016/3.4.2017  Registration number: 192750964  Website: http://hotelminsk.by/  E-mail address: hotelminsk@udp.gov.by; marketing@hotelminsk.by  Tel.: +375 (17) 209-90-61  Fax: +375 (17) 200-00-72 </td><td>Hotel Minsk is a subsidiary company of the Belarus President Property Management Directorate – a government agency that directly reports to the President. Hotel Minsk took part in the illegal border-crossing scheme carried out by Belarusian security services and state-owned companies. Migrants were accommodated in the hotel before being transported to the border between Belarus and the Union in order to illegally cross it. Iraqi migrants had listed Hotel Minsk as a temporary residence in their Belarusian visa applications, which were lodged immediately before their arrival in Belarus. Hotel Minsk is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td>21.</td><td>Open Joint Stock Company ‘Hotel Planeta’</td><td>ААТ ‘Гасцiнiца Планета’ OAO ‘Гостиница Планета’ </td><td>Address: 31 Pobediteley Ave., Minsk, Belarus Date of registration: 1.2.1994/6.3.2000  Registration number: 100135173  Website: https://hotelplaneta.by/  E-mail address: planeta@udp.gov.by  Tel.: +375 (17) 226-78-53  Fax: +375 (17) 226-78-55 </td><td>OJSC Hotel Planeta is a subsidiary company of the Belarus President Property Management Directorate – a government agency that directly reports to the President. Hotel Planeta took part in the illegal border-crossing scheme carried out by Belarusian security services and state-owned companies. Migrants were accommodated in the hotel before being transported to the border between Belarus and the Union in order to illegally cross it. They paid USD 1 000 to a travel agent in Baghdad for the flight, a tourist visa and a stay in the hotel. Hotel Planeta is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td>22.</td><td>ASAM (Asobnaia sluzhba aktyunykh merapryemstvau) OSAM (Otdiel'naya sluzhba aktivnykh mieropriyatiy) </td><td>Асобная служба актыўных мерапрыемстваў (АСАМ) Отдельная служба активных мероприятий (ОСАМ) </td><td>Address: State Border Committee of the Republic of Belarus, 24 Volodarsky St., 220050 Minsk, Belarus</td><td>ASAM (Separate Service for Active Measures) is a Belarusian special border guard unit controlled by Viktar Lukashenka and headed by Ihar Kruchkou. ASAM forces under special operation ‘Gate’ organise illegal border crossings through Belarus to Union Member States and are directly involved in the physical transportation of migrants to the other side of the border. ASAM additionally charges the transported migrants for the border crossing. ASAM is therefore contributing to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>24.</td><td>VIP Grub</td><td>  </td><td>Address: Büyükdere Cad., No:201, Istanbul, Turkey</td><td>VIP Grub is a passport and visa service based in Istanbul, Turkey, which organises trips to Belarus with the explicit intention of facilitating migration to the Union. VIP Grub actively advertises migration to the Union. VIP Grub therefore contributes to activities by the Lukashenka regime that facilitate the illegal crossing of the external borders of the Union.</td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>25.</td><td>Open Joint Stock Company ‘Grodno Azot’ Including Branch ‘Khimvolokno Plant’ JSC ‘Grodno Azot’ </td><td>ААТ ‘Гродна Азот’ ОАО ‘Гродно Азот’  Фiлiял ‘Завод Хiмвалакно’ ААТ ‘Гродна Азот’  Филиал ‘Завод Химволокно’ ОАО ‘Гродно Азот’ </td><td>Address: 100 Kosmonavtov Ave., Grodno/Hrodna, Belarus Date of registration: 1965  Registration number: 500036524  Website: https://azot.by/en/  Address: 4 Slavinskogo St., 230026 Grodno/Hrodna, Belarus  Date of registration: 12.5.2000  Registration number: 590046884  Website: www.grodno-khim.by  E-mail address: office@grodno-khim.by; market@grodno-khim.by; ppm@grodno-khim.by; tnp@grodno-khim.by  Tel./Fax: +375 (152) 39-19-00; +375 (152) 39-19-44 </td><td>OJSC Grodno Azot is a large state-owned producer of nitrogen compounds, based in Grodno/Hrodna. Lukashenka described it as ‘a very important enterprise, a strategic one’. Grodno Azot also owns Khimvolokno Plant, which is a large manufacturer of polyamide and polyester and composite materials. Grodno Azot and its Khimvolokno Plant are a source of substantial revenue for the Lukashenka regime. Grodno Azot is therefore supporting the Lukashenka regime. Lukashenka visited the company and met with its representatives, discussing the plant’s modernisation and various forms of State support. Lukashenka also promised that a loan would be used for the construction of a new nitrogen plant in Grodno/Hrodna. Grodno Azot is therefore benefitting from the Lukashenka regime.  The workers of Grodno Azot, including its employees at the Khimvolokno Plant, who participated in peaceful protests against the regime and went on strike, were dismissed, intimidated and threatened both by the Grodno Azot management and regime representatives. Grodno Azot is therefore responsible for the repression of civil society.  Furthermore, Grodno Azot is part of the Belneftekhim concern. Therefore, Grodno Azot is associated with Belneftekhim, which is benefitting from and supporting the Lukashenka regime. </td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>26.</td><td>State Production Association ‘Belorusneft’</td><td>Дзяржаўнае вытворчае аб'яднанне ‘Беларуснафта’ Государственное производственное объединение ‘Белоруснефть’ </td><td>Address: 9 Rogachevskaya St., 246003 Gomel/Homyel, Belarus Date of registration: 25.2.1966  Registration number: 400051902 </td><td>Belorusneft is a state-owned company, operating in the petrochemical sector. The company's management dismissed workers who went on strike, took part in anti-regime protests or publicly supported those protests. Belorusneft is therefore responsible for the repression of civil society.</td><td>2.12.2021</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>27.</td><td>Open Joint Stock Company ‘Belshina’</td><td>AAT ‘Белшина’ ОАО ‘Белшина’ </td><td>Address: 4 Minskoe Shosse St., 213824 Bobruisk, Belarus Date of registration: 10.1.1994  Registration number: 700016217  Website: http://www.belshinajsc.by/ </td><td>OJSC Belshina is one of the leading state-owned companies in Belarus and a large manufacturer of vehicle tyres. In the years 2022 and 2023 it had a profitability of 9 %, as confirmed by the Belarusian deputy prime minister Petr Parkhomczyk. The Belarusian State is directly profiting from the earnings made by Belshina. Furthermore, Belshina is supplying tyres to the Russian military deployed in Ukraine, supporting the involvement of Belarus in the Russian aggression against Ukraine. The distributor for Belshina’s sales to Russia is controlled by Dmitry Lukashenko, Aliaksandr Lukashenko’s son. Therefore, Belshina is supporting the Lukashenka regime. Employees of Belshina who protested and went on strike in the wake of the 2020 presidential elections in Belarus were dismissed and forced to resign, under the pretence of absenteeism. Additionally, political prisoners are forced by the State to perform hazardous labour for the benefit of Belshina. Moreover, Belshina receives state aid in the form of payment of debts and deferment in the payment of import VAT. Furthermore, state bodies are allowed by the Belarusian government to purchase Belshina products without a tender. Belshina is therefore benefitting from the Lukashenka regime and it is responsible for the repression of civil society in Belarus. </td><td>2.12.2021</td></tr>
+<tr><td>28.</td><td>Open Joint Stock Company ‘Belaruskali’</td><td>Адкрытае акцыянернае таварыства ‘Беларуськалiй’ Открытое акционерное общество ‘Беларуськалий’ </td><td>Address: 5 Korzha St., Soligorsk, 223710 Minsk Region/Oblast, Belarus Date of registration: 23.12.1996  Registration number: 600122610 </td><td>OJSC Belaruskali is a state-owned enterprise and one of the biggest potash producers in the world. Despite the decline of its global share in the global potash market from 20 % to 9 % in 2022, Belaruskali remains one of the most significant exporters of potash and a substantial source of revenue for the Belarussian state budget. Alexander Lukashenka described Belaruskali as ‘a national treasure, pride, one of the pillars of Belarusian exports’. It is also a major source of foreign currency for the Lukashenka regime. Belaruskali is directly involved in the Lukashenka regime’s relocation of Ukrainian children from occupied territories in collaboration with Russia. Since Russia’s illegal and unprovoked full-scale invasion of Ukraine, the Dubrava facility, which is owned by OJSC Belaruskali, has held more than 2 050 Ukrainian children. Therefore, OJSC ‘Belaruskali’ supports the Lukashenka regime.  The employees of OJSC ‘Belaruskali’ who took part in strikes and peaceful protests in the aftermath of the fraudulent August 2020 presidential elections in Belarus were intimidated and laid off by the company’s management. Alexander Lukashenka himself personally threatened to replace the strikers with miners from Ukraine. In 2024, several dozen employees of OJSC ‘Belaruskali’ were dismissed due to their participation in the 2020 protests. Therefore, ‘Belaruskali’ is responsible for the repression of civil society in Belarus and supports the Lukashenka regime. </td><td>3.6.2022.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>29.</td><td>Joint Stock Company ‘Belarusian Potash Company’</td><td>ААТ ‘Беларуская калiйная кампанiя’ ОАО ‘Белорусская калийная компания’ </td><td>Address: 35 Masherova Ave., 220002 Minsk, Belarus Date of registration: 13.9.2013  Registration number: 192050251  Tel. +375 (17) 309-30-10; +375 (17) 309-30-30  Email address: info@belpc.by </td><td>JSC Belarusian Potash Company is the exporting arm of Belarusian state potash producer Belaruskali. Belaruskali is one of the largest sources of revenue for the Lukashenka regime. Supplies from the Belarusian Potash Company account for 20 % of global potash exports. The state guaranteed the Belarusian Potash Company monopoly rights to export potassium fertilizers. Thanks to preferential treatment from the Belarusian authorities, the company earns a substantial revenue. Therefore, the Belarusian Potash Company benefits from and supports the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>30.</td><td>‘Inter Tobacco’ LLC</td><td>Таварыства з абмежаванай адказнасцю ‘Iнтэр Табак’ Общество с ограниченной ответственностью ‘Интер Тобако’ </td><td>Address: 131 Novodvorskiy village, Novodvorskiy village council, Minsk District, 223016 Minsk Region/Oblast, Belarus (Minsk Free Economic Zone) Date of registration: 10.10.2002  Registration number: 808000714 </td><td>Inter Tobacco LLC is part of the tobacco manufacturing industry in Belarus. It has a significant share of the profitable domestic cigarette market in Belarus. The company was given exclusive privileges to import tobacco products to Belarus, based on a decree signed by Aliaksandr Lukashenka. Additionally, Lukashenka issued a Presidential decree to re-draw the boundaries of Belarus’s capital, Minsk, to carve out land for Inter Tobacco’s factory, probably for reasons related to tax evasion. Inter Tobacco belongs to Alexei Oleksin and members of his close family (it is owned by Oleksin’s company Energo-Oil). Therefore, Inter Tobacco is benefitting from the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>31.</td><td>Open Joint Stock Company ‘Naftan’</td><td>Адкрытае акцыянернае таварыства ‘Нафтан’ Открытое акционерное общество ‘Нафтан’ </td><td>Address: Novopolotsk 1, 211440 Vitebsk Region/Oblast, Belarus Date of registration: 1992  Registration number: 300042199 </td><td>As a state-owned enterprise, OJSC Naftan is a major source of revenue and foreign currency for the Lukashenka regime. Therefore, Naftan benefits from and supports the Lukashenka regime. Employees of Naftan who took part in strikes and peaceful protests in the aftermath of the fraudulent August 2020 presidential elections in Belarus were intimidated and dismissed by the company’s management. Therefore, Naftan is responsible for the repression of civil society in Belarus and supports the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>32.</td><td>Open Joint Stock Company ‘Grodno Tobacco Factory Neman’</td><td>Адкрытае акцыянернае таварыства ‘Гродзенская тытунёвая фабрыка Нёман’ Oткрытое акционерное общество ‘Гродненская табачная фабрика Неман’ </td><td>Address: 18 Ordzhonikidze St., 230771 Grodno/Hrodna, Belarus Date of registration: 30.12.1996  Registration number: 500047627 </td><td>OJSC Grodno Tobacco Factory Neman is a Belarusian state-owned enterprise and one of the major sources of revenue for the Lukashenka regime. The company has a 70-80 % share of the tobacco market in Belarus. Grodno Tobacco Factory Neman therefore benefits from and supports the Lukashenka regime. Manufactured in Belarus, Grodno Tobacco Factory Neman brands are among the most common cigarettes smuggled into the Union as part of the lucrative contraband tobacco trade. Train cars belonging to Belarusian state-owned companies Belaruskali and Grodno Azot are used in the contraband scheme. Grodno Tobacco Factory Neman therefore contributes to facilitating the illegal transfer of restricted goods into the territory of the Union. </td><td>3.6.2022</td></tr>
+<tr><td>33.</td><td>Beltamozhservice</td><td>Рэспублiканскае унiтарнае прадпрыемства ‘Белмытсэрвiс’ Республиканское унитарное предприятие ‘Белтаможсервис’ </td><td>Address: 17th km, Minsk- Dzerzhinsk highway, administrative building, office 75, Shchomyslitsky s/s, 223049 Minsk Region/Oblast, Belarus Date of registration: 9.6.1999  Registration number: 101561144 </td><td>Beltamozhservice is a state-owned company and one of the largest logistics companies in Belarus. It is closely associated with the Belarusian authorities and is involved in the smuggling and re-export of goods from Belarus to Russia. The company benefits from links with the Belarusian authorities and provides significant revenue to the Lukashenka regime. Beltamozhservice is therefore benefitting from and supporting the Lukashenka regime.</td><td>3.6.2022</td></tr>
+<tr><td>34.</td><td>Open Joint Stock Company ‘Managing Company of Holding ‘Belkommunmash’’</td><td>Адкрытае акцыянернае таварыства ‘Кiруючая кампанiя холдынгу ‘Белкамунмаш’’ Открытое акционерное общество ‘Управляющая компания холдинга ‘Белкоммунмаш’’ </td><td>Address: 64B-2 Perekhodnaya St., 220070 Minsk, Belarus Date of registration: 13.8.1991  Registration number: 100205408 </td><td>Belkommunmash is a Belarusian manufacturer of public transport vehicles. Aliaksandr Lukashenka is promoting Belkommunmash’s business, guaranteeing the company’s compliance with its contractual obligations to its partners and using his influence to support its business activity. Belkommunmash is therefore benefitting from the Lukashenka regime. Belkommunmash dismissed workers in retaliation for their protest against falsified presidential election results in 2020, and is therefore responsible for the repression of civil society and supports the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td>35.</td><td>Belteleradio Company / National State Television and Radio Company of the Republic of Belarus</td><td>Нацыянальная дзяржаўная тэлерадыёкампанiя Рэспублiкi Беларусь / Белтэлерадыёкампанiя Национальная государственная телерадиокомпания Республики Беларусь / Белтелерадиокомпания </td><td>Address: 9 Makayonka St., Minsk, Belarus Date of registration: 14.9.1994  Registration number: 100717729  Website: tvr.by </td><td>Belteleradio Company is the state television and radio broadcasting company, and controls seven television channels and five radio stations in Belarus. In the aftermath of fraudulent presidential elections in August 2020, Belteleradio Company dismissed protesting workers of the media outlets it controls and replaced them with Russian media employees. It is therefore responsible for the repression of civil society. The television and radio stations supervised by Belteleradio Company are actively spreading propaganda and thus supporting the Lukashenka regime. </td><td>3.6.2022</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>36.</td><td>Open Joint Stock Company ‘MINSK ELECTROTECHNICAL PLANT NAMED AFTER V. I. KOZLOV’</td><td>Адкрытае акцыянернае таварыства ‘МIНСКI ЭЛЕКТРАТЭХНIЧНЫ ЗАВОД IМЯ В.I.КАЗЛОВА’ Открытое акционерное общество ‘МИНСКИЙ ЭЛЕКТРОТЕХНИЧЕСКИЙ ЗАВОД ИМЕНИ В.И.КОЗЛОВА’/ОАО ‘МЭТЗ ИМ. В.И.КОЗЛОВА’ </td><td>Address: Room 502, 4, Uralskaya st., Minsk 220037, Republic of Belarus Type of entity: State-owned company  Place of registration: 4, Uralskaya st.,  Minsk 220037,  Republic of Belarus  Date of registration: 1.3.1994  Registration number: 100211261(УНП)  Principal place of business: Belarus  Company website: www.metz.by  Company email: urist@metz.by  Company phone: 8017 230 11 22 </td><td>OJSC ‘Minsk Electrotechnical Plant named after V.I. Kozlov’ is a state-owned enterprise, one of the biggest producers of electricity equipment in Europe and one of industrial giants of Belarus. As such, it is a major source of revenue for the Lukashenka regime. The employees of OJSC ‘Minsk Electrotechnical Plant named after V.I. Kozlov’ who took part in peaceful protests and strikes in the aftermath of the fraudulent August 2020 elections in Belarus were threatened with layoffs and intimidated by company management. Workers were later fired due to their participation in the strikes. Therefore OJSC ‘Minsk Electrotechnical Plant named after V.I. Kozlov’ is benefiting from and supporting the Lukashenka regime. Furthermore, OJSC ‘Minsk Electrotechnical Plant named after V.I. Kozlov’ is responsible for the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>37.</td><td>Open joint stock company ‘Byelorussian Steel Works – management company of ‘Byelorusssian Metallurgical Company’ holding’ a.k.a. OJSC ‘BSW (BMZ) – management company of ‘BMC’ holding’</td><td>Адкрытае акцыянернае таварыства ‘Беларускi металургiчны завод – кiруючая кампанiя холдынгу ‘Беларуская металургiчная кампанiя’’ a.k.a. ААТ ‘БМЗ – кiруючая кампанiя холдынгу ‘БМК’’ Открытое акционерное общество ‘Белорусский металлургический завод- управляющая компания холдинга ‘Белорусская металлургическая компания’’ a.k.a. ОАО ‘БМЗ- управляющая компания холдинга ‘БМК’’ </td><td>Address: 37, Promyshlennaya Street, Zhlobin,Gomel region, Belarus, 247210 Type of entity: Open joint stock company  Place of registration: Zhlobin, Gomel region, Belarus  Date of registration: 24.4.1991 as ‘БЕЛОРУССКИЙ МЕТАЛЛУРГИЧЕСКИЙ ЗАВОД’,  11.9.1996 as ‘Государственное предприятие – Белорусский металлургический завод’,  1.12.1997 as ‘Белорусский металлургический завод’,  3.11.1999 as ‘Республиканское унитарное предприятие ‘Белорусский металлургический завод’’,  1.1.2012 as ‘Открытое акционерное общество ‘Белорусский металлургический завод’’  Registration number: 400074854  Principal place of business: Zhlobin, Gomel region, Belarus </td><td>OJSC BSW – management company of ‘BMC’ holding is a unique state enterprise in the metallurgical industry in Belarus and among the largest companies in the country. As such, it is a substantial source of revenue for the Lukashenka regime. The Belarusian State is directly profiting from the earnings made by OJSC BSW – management company of ‘BMC’ holding. Furthermore, the company receives large government grants and political support from the Lukashenka regime. The general director of OJSC BSW – management company of ‘BMC’ holding was personally appointed by President Lukashenka. Employees of OJSC BSW – management company of ‘BMC’ holding who protested and went on strike in the wake of the 2020 presidential elections in Belarus were dismissed. Since then, the enterprise continues to take measures against employees who attempt to organize strikes through threats and dismissals. Therefore, OJSC BSW – management company of ‘BMC’ holding is benefiting from and supporting the Lukashenka regime. Furthermore, it is responsible for the repression of civil society in Belarus. </td><td>3.8.2023</td></tr>
+<tr><td>38.</td><td>Belneftekhim – Belarusian State Concern for Oil and Chemistry</td><td>Белнафтахiм – Беларускi дзяржаўны канцэрн па нафце i хiмii Белнефтехим, Белорусский государственный концерн по нефти и химии </td><td>Address: 73, Dzerzhinskogo Street, Minsk, 220116 Type of entity: State concern  Place of registration: 73 Dzerzhinskogo Street, Minsk, 220116  Date of registration: 21.7.1997  Registration number: 101272253  Principal place of business: Minsk, Belarus </td><td>The Belarusian State Concern for Oil and Chemistry (Belneftekhim) is one of the largest industrial complexes of the Republic of Belarus and consists of multiple other state-owned companies established in 1997. Aliaksandr Lukashenka considers Belneftekhim to be one of the most important and strategic concerns in Belarus. In particular, Belneftekhim represents a fundamental asset for the Belarusian economy and foreign policy, in particular in relation to the cooperation between Russia and Belarus in developing a common oil market. Regular consultations are held between the concern and President Lukashenka. Belneftekhim benefits from the support provided by the Lukashenka regime, especially in relation to the effects of Western sanctions. Therefore, Belneftekhim is benefiting from and supporting the Lukashenka regime.</td><td>3.8.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>39.</td><td>Ruzekspeditsiya LLC RUZSPEDITION LLC  OOO RUDENSKI UDOBRENCHESKI ZAVOD  OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUZEKSPEDITSIYA </td><td>TAA ‘Рузэкспедыцыя’ OOO ‘Рузэкспедиция’ </td><td>Address: 1K Zavodzkaya St., room 36 Bolbasovo 211004 Belarus; 40 Nemiga St., room 304 Minsk 220004 Belarus  Date of registration: 6.1.2016  Registration number: 690664113  Email address: info@ruz.by  Tel. + 375296615929;  +375172006232  Website: https://ruz.by/ </td><td>Ruzekspeditsiya LLC conducts its business from the Bremino-Orsha Special Economic Zone (SEZ) established by a presidential decree of Aliaksandr Lukashenka, which is managed by Bremino Group LLC. Bremino Group LLC was listed in Annex I of Council Regulation (EC) No 765/2006. Companies established in the Bremino-Orsha Special Economic Zone profit from tax and other financial advantages. Bremino-Orsha SEZ is home to and therefore gives these benefits to only six companies, including Bremino Group LLC. The decision as to who is allowed to share in the benefits of the Bremin-Orsha SEZ by becoming its resident lies solely Bremino Group LLC as the managing company of the SEZ.  For the reasons set out above, Ruzekspeditsiya is associated with Bremino Group LLC. As a company established in the Bremino-Orsha SEZ it benefits from the regime. Ruzekspeditsiya also facilitates infringements of the prohibition against circumvention of the provisions of Council Regulation (EC) No 765/2006 by participating in the delivery of cars prohibited to be sold, supplied, transferred or exported from the Union to Belarus. </td><td>16.12.2024</td></tr>
+<tr><td>40.</td><td>Vlate Logistik LLC</td><td>ТАА ‘ВЛАТЭ Лагістык’ ООО ‘ВЛАТЕ Логистик’ </td><td>Address: 48 Komarova St., Pogranichny, 231773, Belarus Date of registration: 16.4.2013  Registration number: 192003422 </td><td>Vlate Logistik LLC is a Belarusian company which owns two border checkpoints on EU-Belarus border. As of 10 August 2023, Aleh Herasim, Aleh Piatrou, Iryna Kalesnikava, Aleh Barabanau, Dzmitry Zamulevich, and Uladzimir Arkadzyeu owned equal shares of Vlate Logistic LLC. Vlate Logistik LLC benefits from the regime through having the status of ‘authorised economic operator’, which allows for significant tax exemptions and is issued by state authorities.</td><td>16.12.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>41.</td><td>Central Election Commission of the Republic of Belarus (CEC)</td><td>Цэнтральная выбарчая камісія Рэспублікі Беларусь Центральная избирательная комиссия Республики Беларусь </td><td>Address: 11 Sovyetska Str., Minsk, 220010, Republic of Belarus Date of establishement: 1989 </td><td>The Central Election Commission (CEC) of the Republic of Belarus is responsible for the organisation of democratic elections in Belarus. The 2025 presidential election in Belarus was neither free nor fair, according to multiple reports from international observers and international organisations. The CEC is therefore responsible for seriously undermining democracy in Belarus. </td><td>27.3.2025</td></tr>
+<tr><td>42.</td><td>JSC ‘INTEGRAL’ – the management company of the holding ‘INTEGRAL’</td><td>ААТ ‘Iнтэграл’ – кіруючая кампанія холдынгу ‘Iнтэграл’ ОАО ‘Интеграл’ – управляющая компания холдинга ‘Интеграл’ </td><td>Address: Kazintsa I.P., 121A, room 327, Minsk, 220108, Republic of Belarus Place of registration: Minsk, Belarus  Date of registration: 1.8.2013  Registration number: 100386629 </td><td>JSC Integral is a Belarusian state-owned manufacturer of semiconductors, integrated circuits and other high technology goods with particular importance for the Belarusian economy and the defence sector. JSC Integral is located in the Minsk Free Economic Zone, established by the Belarusian Government. Entities established in the Minsk Free Economic Zone profit from various financial advantages. Therefore, JSC Integral is benefitting from the Lukashenka regime. JSC Integral is furthermore supporting the Lukashenka regime due to its focus on microelectronic production, which is crucial to the defence industry. </td><td>27.3.2025</td></tr>
+<tr><td>43.</td><td>Republican unitary enterprise Belorusskiye Loterei</td><td>Беларускія Латарэі Белорусские Лотереи </td><td>Date of registration: 1.9.1999 Place of registration: Belarus  Address: Budzyonnaha 10, Minsk, Belarus  Phone number + 375173292103  Email address: info@belloto.by  Registration number: 190000087 </td><td>Republican unitary enterprise Belorusskiye Loterei is a Belarusian company owned by the Belarus President Property Management Directorate; a government body subordinated directly to Aliaksandr Lukashenka. The exclusive right to run lotteries in Belarus belongs to the state. Belorusskiye Loterei is one of the two government bodies which have the right to run lotteries in Belarus. It runs 17 out of 25 existing lotteries in Belarus.  Belbet is an online casino managed by Belorusskiye Loterei, which accounts for 99,8 % of its revenue. Under Belarusian laws, Belbet is classified as an online lottery, while de facto it operates as an online casino, which creates favourable conditions for its work.  The online casino was developed and its operation is maintained by Ridotto LLC, a company born out of the reorganisation of Synesis LLC, designated by the Union on 17 December 2020 for benefitting from its association with and supporting the Lukashenka regime, co-owned by Alexander Shatrov, who has been designated by the Union since 21 June 2021 for benefitting from and supporting the Lukashenka regime.  Belorusskiye Loterei is subordinate to the Belarus President Property Management Directorate which is controlled by Aliaksandr Lukashenka. It also benefits from the Lukashenka regime by operating under favourable conditions and supports it by generating revenue from gambling. Furthermore, Belorusskiye Loterei is associated with Alexander Shatrov. </td><td>27.3.2025</td></tr>
+<tr><td>44.</td><td>Ridotto LLC</td><td>ТАА ‘Рыдота’ ООО ‘Ридотто’ </td><td>Date of registration: 13.2.2020 Place of registration: Minsk, Belarus  Address: Platonava 20b, Minsk, Belarus  Phone number: + 375 17 240-36-50  Email address: info@ridotto.by  Registration number: 193384228 </td><td>Ridotto LLC is a Belarusian IT company specialising in online gambling application development. Alexander Shatrov, who has been sanctioned by the Union since 21 June 2021 for benefiting from and supporting the Lukashenka regime, owns 49,99 % of its shares. Ridotto LLC developed and currently maintains the online casino Belbet for the state-owned Republican Unitary Enterprise Belorusskiye Loterei, a subsidiary of the Belarus President Property Management Directorate. Belorusskiye Loterei serves as a significant revenue source for the Directorate, which reports directly to Aliaksandr Lukashenka.  It follows that Ridotto LLC is associated with Alexander Shatrov, the Belarus President Property Management Directorate, and the Republican unitary enterprise Belorusskiye Loterei. Moreover, Ridotto LLC is benefiting from or supporting the Lukashenka regime. </td><td>27.3.2025</td></tr>
+<tr><td>45.</td><td>OJSC Planar</td><td>ААТ ‘Планар’ КБТЭМ ПЛАНАР </td><td>Address: Partizansky Ave., 2, building 2-31, Minsk, Belarus Phone: + 375 17 297 37 09  Email address: office@kbtem-omo.by  Web: planar.by  Registration number: 100104937  Date of registration: 15.3.1992 </td><td>OJSC Planar is a state enterprise that specialises in the development and supply of components in the field of microelectronics, which are used for the production of military hardware such as UAVs. It forms part of a state-administered enterprise cluster supervised by the Strategic Projects Council under the direct supervision of the President of Belarus. OJSC Planar also contributes to the Belarusian-Russian technological and military cooperation. OJSC Planar therefore forms part of the Belarussian military industrial complex. </td><td>27.3.2025</td></tr>
+<tr><td>46.</td><td>Precise Electro-Mechanics Plant</td><td>РВУП ‘Завод дакладнай электрамеханікі’ РПУП ‘Завод точной электромеханики’ </td><td>Address: ul. Kulman 2, Minsk, 220013 Belarus Registration number: 690653077  Date of Registration: 27.5.2009 </td><td>Precise Electro-Mechanics Plant is a Belarusian State enterprise that specializes in the development and production of military products and subordinate to the State Military-Industrial Committee of the Republic of Belarus. In this capacity Precise Electro-Mechanics Plant produces military hardware in use by the Belarus armed forces, notably ballistic missiles and provides revenue to the Belarusian State. Thus, Precise Electro-Mechanics Plant is a legal person supporting the Lukashenka regime. </td><td>27.3.2025</td></tr>
+<tr><td>47.</td><td>Tsybulka Bel Zybulka Bel </td><td>ТАА ‘ЦЫБУЛЬКА-БЕЛ’ ООО ‘ЦЫБУЛЬКА-БЕЛ’ </td><td>Address: st. Centralnaya, 4, ag. Gudy, Krupovsky village council, Lida district, Grodno region, Belarus Registration number: 592000217  Date of registration: 1.10.2020  Phone: + 375 292 85-31-33 </td><td>Tsybulka-Bel LLC is a Belarussian Agro-company based in the Lida district which is owned by the German national Jörg Dornau. The management of Tsybulka-Bel coordinated with Belarussian state authorities to deploy inmates – including in particular Belarussian political prisoners – as forced laborers at Tsybulka-Bel for fieldwork under inhumane conditions, including the withholding of food and water during extensive work shifts, wholly insufficient protection against extreme weather conditions and arbitrary punishment against prisoners requesting exemptions due to illnesses. Tsybulka-Bel LLC is thus an entity responsible for serious violations of human rights and repression of the democratic opposition Belarus.</td><td>27.3.2025</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>48.</td><td>State-owned Foreign Trade Unitary Enterprise Belvneshpromservice</td><td>Дзяржаўнае знешнегандлёвае ўнітарнае прадпрыемства Белзнешпрамсэрвіс Государственное внешнеторговое унитарное предприятие Белвнешпромсервис </td><td>Address: 2 Kazinets street, Minsk, 220099, Belarus Date of registration: 14.7.1992  Tax identification number: 100128724  Phone: + 375 17 272 07 08  Fax: + 375 17 260 18 87  Email: reception@bvpservice.com  Website: https://www.bvpservice.by/  Associated individuals: Director General Aleksandr Yakovlevich Anischenko </td><td>State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established in order to promote Belarusian defence products in foreign markets. It specialises in the export of high-tech products for military purposes and has the right to upgrade, repair and supply military goods for the Belarusian Air Defence, Air Force and Land Forces. Therefore, State-owned Foreign Trade Unitary Enterprise Belvneshpromservice is supporting the military and industrial complex of Belarus.</td><td>19.7.2025</td></tr>
+<tr><td>49.</td><td>OKB TSP Scientific Production Limited Liability Company</td><td>Науково-виробниче товариство з обмеженою відповідальністю ‘ОКБ ТСП’ Научно-производственное общество с ограниченной ответственностью ‘ОКБ ТСП’ </td><td>Address: Frantsiska Skoriny Street, building 1, unit 21, 220076 Minsk, Belarus Date of registration: 8.7.2002  Tax identification number: 190369982  Phone: + 375 17 311 05 69  Email: tsp@tspbel.com  Website: https://sdc.okbtsp.com </td><td>OKB TSP Scientific Production Limited Liability Company is a defence company involved in the development, production and design of weapons. It holds manufacturing and foreign trade licences issued by the State Authority for Military Industry of the Republic of Belarus. It produces equipment such as military vehicles and anti-aircraft systems. Therefore, OKB TSP Scientific Production Limited Liability Company is an entity forming part of the military and industrial complex of Belarus.</td><td>19.7.2025</td></tr>
+<tr><td>50.</td><td>KB Unmanned Helicopters (UAVHeli)</td><td>КБ Беспілотныя Верталёты ООО КБ Беспилотныйе вертолеты </td><td>Address: d. 47, korp. 14, ul. Yanki Mavra, Minsk, 220015, Belarus Date of registration: 27.4.2017  Registration number: 192807396 </td><td>KB Unmanned Helicopters (UAVHeli) is a Belarusian company which produces aircraft and aircraft equipment. The company produces unmanned helicopters specifically equipped and designed to be used in a military context. Therefore, KB Unmanned Helicopters is an entity forming part of the military and industrial complex of Belarus, including by being involved in the development and production of military technology and equipment. </td><td>19.7.2025</td></tr>
+<tr><td>51.</td><td>Legmash Plant OJSC a.k.a. ZAVOD SHVEINYKH MASHIN OAO  a.k.a. OTKRYTOE AKTSIONERNOE OBSCHESTVO BELORUSSKIY METALLURGICHESKIY ZAVOD  a.k.a. OTKRYTOE AKTSIONERNOE OBSCHESTVO ZAVOD LEGMASH </td><td>Адкрытае акцыянернае таварыства Завод ‘Легмаш’</td><td>Address: Vostochny Lane, 17, Orsha, 211390, Belarus Date of registration: 6.5.1994  Registration number: 300228934  Phone: +375 216 42 00 91  Website: https://legmash.by/  Email: legmash@vitebsk.by </td><td>Legmash Plant OJSC is a Belarusian plant which produces 152-mm and 122-mm shells for cannon artillery (including howitzers D-30, D-20, Msta-B, Giatsint-B, and the self-propelled modifications thereof). The facility also manufactures 122-mm unguided rockets of the 9M22U-1 line for the 9K51 Grad MLRS multiple rocket launcher. Therefore, Legmash Plant OJSC is an entity forming part of the military and industrial complex of Belarus. Legmash Plant OJSC receives extensive tax benefits, regulated by presidential legislation and the Belarusian Government. Therefore, Legmash Plant OJSC is also benefitting from the Lukashenka regime. </td><td>19.7.2025</td></tr>
+<tr><td>52.</td><td>Research and Production Unitary Enterprise ‘Scientific and Technical Center ‘LEMT’ BelOMO’ a.k.a. UP NTTS LEMT BELOMO </td><td>Науково-виробниче унітарне підприємство ‘Науково-технічний центр ‘ЛЕМТ’ БєлОМО’</td><td>Address: D. 23, korp. 1, Nezhiloe pomeshchenie, Makaenka street, Minsk, 220114, Belarus Type of entity: State-Owned Enterprise  Place of registration: Belarus  Date of registration: 26.05.1992  Registration number: 100230590 </td><td>The Belarusian Scientific and Technical Center ‘LEMT’ is owned by the state enterprise BelOMO. LEMT manufactures optical sights and systems for conventional weapons, laser rangefinders, distance measurement modules based on diode lasers, and laser fire control systems. LEMT sights are used in the AK-12 automatic rifles produced by Russia’s Kalashnikov. Therefore, LEMT forms a part of the military and industrial complex of Belarus, including by being involved in the development and production of military technology and equipment.</td><td>19.7.2025</td></tr>
+<tr><td>53.</td><td>Laser Devices and Technologies a.k.a. Laser Devices and Technologies Limited Liability Company </td><td>Общество с ограниченной ответственностью ‘Лазерные приборы и технологии’ Таварыства з абмежаванай адказнасцю ‘Лазерныя прыборы і тэхналогіі’ </td><td>Address: Tsentralnaya Street, House 2, Room 116, Demidovichsky Village Council, Yutski Village, Dzerzhinsky District, Minsk Region, Belarus Type of entity: Limited Liability Company  Place of registration: Belarus  Date of registration: 10.2.2017  Registration number: 691827047  Principal place of business: Minsk, Belarus </td><td>LLC Laser Devices and Technologies, formerly known as LLC Laboratory of Additive Technologies, is a Belarusian company specialising in gaskets. It supplies components to military end-users such as Peleng and Uralvagonzavod. The company also provides parts for the production of panoramic sights (PKP) for Russian T-72 and T-90 tanks. Thus, LLC Laser Devices and Technologies provides components to Belarus’s military and industrial sectors, supporting the country’s military and technological advancements, as well as the development of its defence and security capabilities. </td><td>19.7.2025</td></tr>
+<tr><td>54.</td><td>JSC Vistan a.k.a. Open Joint Stock Company ‘VISTAN’ </td><td>Адкрытае акцыянернае таварыства ‘ВIСТАН’ Открытое акционерное общество ‘ВИСТАН’ </td><td>Address: Dimitrova street, 36/7, 210627, Vitebsk, Belarus Type of entity: Open Joint Stock Company  Place of registration: Vitebsk, Belarus  Date of registration: 1.2.1994  Registration number: 300029332  Principal place of business: Belarus  Website: https://vistan.ru/index.html  E-mail: comintern@tut.by  info@vistan.ru </td><td>JSC Vistan is a Belarusian manufacturer of machine tools, including CNC machining centres, cylindrical grinders, centreless grinding machines, gear processing equipment, and lathes. These are dual-use technologies used in the production of military goods. JSC Vistan exports over 60 % of its products to Russia and supplies machine tools to Russian defence-related enterprises, including JSC ‘Krasny Oktyabr’. The company is part of a Belarus-Russia import-substitution program and is receiving US$15 000 000 in funding backed by Russian state financial support, to expand gear-processing machine production. Additionally, JSC Vistan has received Russian government funding for the development of strategic aviation projects, indicating its contribution to the Russian military-industrial complex. Therefore, JSC Vistan forms a part of the Belarusian military and industrial complex and contributes to the military and technological improvement of Belarus, and the development of its defence and security sector. </td><td>19.7.2025</td></tr>
+<tr><td>55.</td><td>Rukhservomotor LLC a.k.a. OOO Ruchservomotor  a.k.a. TAA Ruchservamator  a.k.a. OOO Rukhservomotor  a.k.a. Limited Liability Company ‘Rukhservomotor’ </td><td>TAA Рухсерваматор OOO Рухсервомотор </td><td>Address: 5 Montazhnikov Street, 220019, Minsk, Belarus Type of entity: Limited Liability Company  Place of registration: Belarus  Date of registration: 24.2.2000  Registration number: 800002497  Principal place of business: Minsk, Belarus  Website: https://eng.e-motors.tech/  https://lasercut.by/  Phone: + 375 17 390 54 47  +375 17 390 30 76  Fax: + 375 17 390 54 48  Email: info@e-motors.tech </td><td>Rukhservomotor LLC is a Belarusian company which focuses on the development and manufacturing of precision coordinate systems. It supplies companies which are military end-users with goods with military end-use. The company participates in the production of panoramic sights (PKP) for Russian T-72 and T-90 tanks. Therefore, Rukhservomotor LLC forms a part of the Belarusian military and industrial complex, and contributes to the military and technological improvement of Belarus, and the development of its defence and security sector. </td><td>19.7.2025</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>56.</td><td>JSC Holography Industry ZAT Galagrafichnaya Industryya  ZAO Golograficheskaya Industriya </td><td>Закрытае акцыянернае таварыства ‘ГАЛАГРАФIЧНАЯ IНДУСТРЫЯ’ Закрытое акционерное общество ‘ГОЛОГРАФИЧЕСКАЯ ИНДУСТРИЯ’ </td><td>Address: Kalinina 12, Minsk, Belarus Registration number: 101482057  Date of registration: 7.5.1998  Phone: +375 266 01 31, +375 266 34 17  Email: info@holography.by  Web: www.holography.by </td><td>JSC Holography Industry is the leading Belarusian producer of protective holograms and crystallograms. Under Belarusian legislation, protective holographic stickers are put on excise stamps, including excise stamps on alcoholic beverages, a wide range of consumer goods, cash registers and slot machines. This creates significant demand for JSC Holography Industry’s products. JSC Holography Industry has a close working relationship with state entities, some of which are its shareholders. This close relationship has, in part, resulted from the company founder’s former business partner gifting shares to the state. In return, the state has placed orders with the company.  Therefore, JSC Holography Industry is benefitting from the Lukashenka regime. </td><td>23.10.2025</td></tr>
+<tr><td>57.</td><td>ICT Horizont a.k.a. Research Unitary Enterprise ‘INSTITUTE OF DIGITAL TELEVISION HORIZONT’  a.k.a. DIGITAL TELEVISION INSTITUTE HORIZONT  a.k.a. UE ‘Institute of Digital Television Horizon’  a.k.a. Chelyabinsk Institute of Digital television ‘Horizont’ </td><td>Навукова-даследчае ўнітарнае прадпрыемства ‘IНСТЫТУТ ЛIЧБАВАГА ТЭЛЕБАЧАННЯ ГАРЫЗОНТ’ a.k.a. Унітарнае прадпрыемства ‘IЛТ ГАРЫЗОНТ’  Унитарное предприятие ‘ИЦТ ГОРИЗОНТ’  a.k.a. Научно-исследовательское унитарное предприятие ‘ИНСТИТУТ ЦИФРОВОГО ТЕЛЕВИДЕНИЯ ГОРИЗОНТ’ </td><td>Address: Kuibysheva 35-1, Minsk, 220029, Belarus Type of entity: state-owned company  Registration number: 100085149  OKPO: 37406850  Date of registration: 26.11.1991  Place of registration: Belarus  Phone: 8 740 740 91 00, +375 740 740 91 00  Fax: +375 17 288 11 82  Email: office@horizont-rnd.by, ict@dtv.horizont.by  Web: https://h-rnd.by/ </td><td>ICT Horizont is a Belarusian company, and one of the most modern high-tech centres in the country. ICT Horizont is one of the leaders in the development and production of special electronics in the Republic of Belarus. The company develops and produces special and dual-use goods, such as video-viewing devices for armoured vehicles. ICT Horizont collaborates with the Ministry of Defence of the Republic of Belarus in creating and modernising range equipment, in accordance with the requirements of the Armed Forces.  In addition, ICT Horizont takes part in the scientific-technical programme ‘Intelavto’, which is aimed at creating high-tech digital and electronic components and systems for special and dual-use transport vehicles. The programme was approved by the Council of Ministers of the Republic of Belarus.  Therefore, ICT Horizont forms part of the Belarusian military-industrial complex by being involved in the development of military technology and equipment. </td><td>23.10.2025</td></tr>
+<tr><td>58.</td><td>Horizont Holding a.k.a. Horizon Holding  a.k.a. OJSC N Holding  a.k.a. The Horizon Group of Companies </td><td>Xолдынга ‘Гарызонт’ Холдинг ‘Горизонт’  a.k.a. ОАО ‘Н Холдинг’  a.k.a. Группа компаний ‘Горизонт’ </td><td>Address: S. Kovalevskaya Lane, 62, room 16, 220014, Minsk, Belarus Type of entity: holding company  Registration number: 101050240  Date of registration: 2010  Place of registration: Belarus  Principal place of business: Minsk, Belarus  Phone: +375 (17) 226 36 01  Fax: +375 (17) 303 76 07  Email: info@h-tv.by  Web: https://h-tv.by/, https://h-holding.by/  Associated entities: ICT Horizont  Associated individuals: Yuri Ivanovich Predko </td><td>Horizont Holding is a Belarusian holding company. Horizont Holding is one of the largest and most dynamically developing diversified holdings in the Republic of Belarus, covering a wide range of business areas. It has been described as one of the flagships of Minsk industry. Horizont Holding’s projects are being implemented with the instructions of Aliaksandr Lukashenka. ICT Horizont is a part of Horizont Holding. ICT Horizont is one of the leaders in the development and production of special electronics in the Republic of Belarus.  The company develops and produces special and dual-use goods, for example video-viewing devices for armoured vehicles. ICT Horizont collaborates with the Ministry of Defence of the Republic of Belarus in creating and modernising models of range equipment in accordance with the requirements for the training of formations and military units of the Armed Forces.  In addition, ICT Horizont takes part in the Union State (Russia and Belarus) scientific-technical programme ‘Intelavto’, which is aimed at creating high-tech digital and electronic components and systems for special and dual-use transport vehicles. The programme was approved by the Council of Ministers of the Republic of Belarus.  Therefore, Horizont Holding is supporting the Lukashenka regime. It is, moreover, associated with ICT Horizont, which forms part of the Belarusian military-industrial complex, including by being involved in the development of military technology and equipment. </td><td>23.10.2025</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>59.</td><td>Volat-Sanjiang Joint Venture Limited Liability Company</td><td>Совместное общество с ограниченной ответственностью ‘Волат-Санцзян’</td><td>Address: 220070 Republic of Belarus, Minsk, Budennogo str. Budennogo, 1A/7, office 20 Type of entity: Joint Venture  Registration number: 191299395  Date of registration: 24.3.2010 </td><td>Volat-Sanjiang Joint Venture Limited Liability Company is a Belarusian joint venture co-created by Minsk Wheel Tractor Plant. It produces wheeled chassis for military equipment, including multiple launch rocket systems manufactured by the Minsk Wheel Tractor Plant. Therefore, Volat-Sanjiang Joint Venture Limited Liability Company forms part of and supports the military and industrial complex of Belarus by being involved in the development, production and supply of military technology and equipment.</td><td>23.4.2026</td></tr>
+<tr><td>60.</td><td>CJSC Belarusian Oil Company a.k.a. BelOil  a.k.a. BNK </td><td>ЗАО Белорусская нефтяная компания БНК </td><td>Address: 4A-305, Leshchinsky Street, 220140, Minsk, Republic of Belarus Type of entity: Closed Joint Stock Company  Place of registration: Republic of Belarus  Date of registration: 17.5.2007  Registration number: 190832326  Principal place of business: Republic of Belarus  Associated entities: State Production Association ‘Belorusneft’; Open Joint Stock Company ‘Naftan’ </td><td>CJSC Belarusian Oil Company is Belarus’s leading exporter of petroleum and is owned by several of the largest oil production and refining enterprises in the Republic of Belarus, including Belorusneft and Naftan. Via its ownership structure, BNK is controlled by the Government of Belarus. The appointment of its General Director is agreed by Aliaksandr Lukashenka, who also names the direction in which the company should be steered. Therefore, BNK is associated with entities supporting the Lukashenka regime and is owned and controlled by entities responsible for the repression of Belarusian civil society and supporting the Lukashenka regime.</td><td>23.4.2026</td></tr>
+<tr><td>61.</td><td>China Space Sanjiang Group</td><td>Chinese: [image] Text of image  中国航天三江集团有限公司 </td><td>Address: No. 9 Jinshan Avenue, Dongxihu District, Wuhan City, Hubei Province, China</td><td>China Space Sanjiang Group is the co-creator of Volat-Sanjiang Joint Venture Limited Liability Company, and one of the two main partners in that joint venture. Volat-Sanjiang Joint Venture Limited Liability Company produces wheeled chassis for military equipment, including multiple launch rocket systems manufactured by the Minsk Wheel Tractor Plant. Therefore, China Space Sanjiang Group supports the military and industrial complex of Belarus by being involved in the development and production of military technology and equipment.</td><td>23.4.2026</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>62.</td><td>European Trading Company LLC</td><td>OOO Европейская Трейдинговая Компания (ETK)</td><td>Address: Room 1, 2; 4a Tenishevoy st., Smolensk, 21400, Russia Type of entity: Limited Liability Company  Place of registration: Russia  Date of registration: 9.10.2012  OGRN: 1126733000063  KPP: 673201001  INN: 6732050064  Principal place of business: Russia  Email: info@etkoil.ru  Phone: +7 (4812) 24 01 15  Web: https://www.etkoil.ru  Associated entities: OJSC Naftan; OJSC Mozyr Oil Refinery; State Production Association Belorusneft; Belarusian Oil Company (BNK) </td><td>European Trading Company (ETK) is a subsidiary of Belarusian Oil Company (BNK), Belarus’s leading exporter of petroleum. BNK is owned by the three largest oil production and refining enterprises in the Republic of Belarus: Belorusneft, Naftan, and Mozyr Oil Refinery. Through its ownership structure, BNK is controlled by the state of Belarus. As a subsidiary of BNK, ETK is also indirectly controlled and owned by those entities. The ETK company was created to sell petroleum products produced by Naftan and Mozyr Oil Refinery in the territory of the Russian Federation. ETK lists BNK, Naftan, Belorusneft and Mozyr Oil Refinery as its partners. Therefore, ETK is associated with, owned and controlled by, entities supporting the Lukashenka regime.</td><td>23.7.2026</td></tr>
+<tr><td>63.</td><td>OJSC Mozyr Oil Refinery OAO a.k.a. Mozyrskii Neftepererabatyvayushchii Zavod </td><td>OAO Мозырский нефтеперерабатывающий завод</td><td>Address: Mikhalki v/c 18, Mozyr district, Gomel region, 247782, Republic of Belarus Type of entity: Open Joint Stock Company, Oil refinery  Place of registration: Belarus  Date of registration: 26.12.1991  Registration number: 400091131  Principal place of business: Belarus  Phone: +375 236 37 33 30  Email: office@mnpz.by  Web: https://mnpz.by  Associated entities: Belarus State Property Committee OJSC Naftan; State Production Association Belorusneft; OJSC Belarusian Oil Company (BNK) Belneftekhim; European Trading Company LLC (ETK) </td><td>Mozyr Oil Refinery is one of the two oil refineries in Belarus. It is part of the Belneftekhim concern, which has been subject to restrictive measures by the Union since 3 August 2023, and is owned almost entirely by the state of Belarus and Slavneft. The refinery is of significant importance for the Lukashenka regime. Mozyr Oil Refinery is also a part-owner of the Belarusian Oil Company (BNK), Belarus’s leading exporter of petroleum, alongside Belorusneft and Naftan, Therefore, Mozyr Oil Refinery is controlled by and associated with entities supporting and benefitting from the Lukashenka regime. Because of its importance to the Belarusian economy, Mozyr Oil Refinery is also supporting and benefitting from the Lukashenka regime.</td><td>23.7.2026</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Websites for information on the competent authorities referred to in Articles 3, 4(2), and 5, and address for notifications to the European Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+## ANNEX III
+
+**List of equipment which might be used for internal repression as referred to in Article 1a and Article 1b**
+
+1\. Fire-arms, ammunition and related accessories therefor, as follows:
+
+1.1. Firearms not controlled by ML 1 and ML 2 of the Common Military List of the European Union ( 16 ) (‘Common Military List’);
+
+1.2. Ammunition specially designed for the firearms listed in item 1.1 and specially designed components therefor;
+
+1.3. Weapon-sights not controlled by the Common Military List.
+
+2\. Bombs and grenades not controlled by the Common Military List.
+
+3\. Vehicles as follows:
+
+3.1. Vehicles equipped with a water cannon, specially designed or modified for the purpose of riot control;
+
+3.2. Vehicles specially designed or modified to be electrified to repel borders;
+
+3.3. Vehicles specially designed or modified to remove barricades, including construction equipment with ballistic protection;
+
+3.4. Vehicles specially designed for the transport or transfer of prisoners and/or detainees;
+
+3.5. Vehicles specially designed to deploy mobile barriers;
+
+3.6. Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control.
+
+Note 1 This item does not control vehicles specially designed for the purposes of fire-fighting.
+
+Note 2 For the purposes of item 3.5 the term ‘vehicles’ includes trailers.
+
+4\. Explosive substances and related equipment as follows:
+
+4.1. Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including firing sets, detonators, igniters, boosters and detonating cord, and specially designed components therefor; except those specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the creation of explosions (e.g., car air-bag inflaters, electric-surge arresters of fire sprinkler actuators);
+
+4.2. Linear cutting explosive charges not controlled by the Common Military List;
+
+4.3. Other explosives not controlled by the Common Military List and related substances as follows:
+
+a. amatol;
+
+b. nitrocellulose (containing more than 12,5 % nitrogen);
+
+c. nitroglycol;
+
+d. pentaerythritol tetranitrate (PETN);
+
+e. picryl chloride;
+
+f. 2,4,6-trinitrotoluene (TNT).
+
+5\. Protective equipment not controlled by ML 13 of the Common Military List as follows:
+
+5.1. Body armour providing ballistic and/or stabbing protection;
+
+5.2. Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.
+
+Note: This item does not control:
+
+— equipment specially designed for sports activities,
+
+— equipment specially designed for safety of work requirements,
+
+6\. Simulators, other than those controlled by ML 14 of the Common Military List, for training in the use of firearms, and specially designed software therefor.
+
+7\. Night vision, thermal imaging equipment and image intensifier tubes, other than those controlled by the Common Military List.
+
+8\. Razor barbed wire.
+
+9\. Military knives, combat knives and bayonets with blade lengths in excess of 10 cm.
+
+9a. Riot control agents, as defined by article 1A004.a.4 of the Commission Delegated Regulation (EU) 2020/1749 of 7 October 2020 amending Council Regulation (EC) No 428/2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items.
+
+10\. Production equipment specially designed for the items specified in this list.
+
+11\. Specific technology for the development, production or use of the items specified in this list.
+
+## ANNEX IV
+
+**EQUIPMENT, TECHNOLOGY AND SOFTWARE REFERRED TO IN ARTICLES 1c AND 1d**
+
+**General note**
+
+Notwithstanding the contents of this Annex, it shall not apply to:
+
+(a) equipment, technology or software which are specified in Annex I to Council Regulation (EC) No 428/2009 ( 17 ) or the Common Military List; or
+
+(b) software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
+
+(i) over the counter transactions;
+
+(ii) mail order transactions;
+
+(iii) electronic transactions; or
+
+(iv) telephone order transactions; or
+
+(c) software which is in the public domain.
+
+The categories A, B, C, D and E refer to the categories referred to in Regulation (EC) No 428/2009.
+
+The equipment, technology and software referred to in Articles 1c and 1d is:
+
+A. List of equipment:
+
+— Deep Packet Inspection equipment,
+
+— Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment,
+
+— Radio Frequency monitoring equipment,
+
+— Network and Satellite jamming equipment,
+
+— Remote Infection equipment,
+
+— Speaker recognition/processing equipment,
+
+— IMSI ( 18 ), MSISDN ( 19 ), IMEI ( 20 ), TMSI ( 21 ) interception and monitoring equipment,
+
+— Systems, equipment, and components therefor, specially designed or modified for the generation, command and control, or delivery of intrusion software as defined in Regulation (EU) 2021/821 of the European Parliament and of the Council ( 22 ),
+
+— Equipment designed or modified to perform cryptanalysis,
+
+— Tactical SMS ( 23 ) /GSM ( 24 ) /GPS ( 25 ) /GPRS ( 26 ) /UMTS ( 27 ) /CDMA ( 28 ) /PSTN ( 29 ) interception and monitoring equipment,
+
+— DHCP ( 30 ) /SMTP ( 31 ), GTP ( 32 ) information interception and monitoring equipment,
+
+— Pattern Recognition and Pattern Profiling equipment,
+
+— Remote Forensics equipment,
+
+— Semantic Processing Engine equipment,
+
+— WEP and WPA code breaking equipment,
+
+— Interception equipment for VoIP proprietary and standard protocol.
+
+B. Not used.
+
+C. Not used.
+
+D. "Software" for the "development", "production" or "use" of the equipment specified in point A and "software" having the characteristics of, or performing or simulating, the functions of the equipment specified in point A.
+
+E. "Technology" for the "development", "production" or "use" of the equipment specified in point A.
+
+Equipment, technology and software falling within those categories is within the scope of this Annex only to the extent that it falls within the general description "internet, telephone and satellite communications interception and monitoring systems".
+
+For the purpose of this Annex, "monitoring" means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
+
+## ANNEX V — LIST OF NATURAL OR LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLES 1e(7), 1f(7), 1fa(1) AND 1fa(1a)
+
+Belarus Ministry of Defence
+
+140 Repair Plant JSC
+
+558 Aircraft Repair Plant JSC
+
+2566 Radioelectronic Armament Repair Plant JSC
+
+AGAT - Control Systems - Managing Company of Geoinformation Control Systems Holding, JSC
+
+AGAT - Electromechanical Plant OJSC
+
+AGAT - SYSTEM
+
+ATE - Engineering LLC
+
+BelOMO Holding
+
+Belspetsvneshtechnika SFTUE
+
+Beltechexport CJSC
+
+BSVT-New Technologies
+
+Department of Internal Affairs of the Gomel Region Executive Committee
+
+Internal Troops of the Ministry of Internal Affairs of the Republic of Belarus
+
+KGB Alpha
+
+Kidma Tech OJSC
+
+Legmash Plant OJSC
+
+Minotor-Service
+
+Minsk Wheeled Tractor Plant
+
+Oboronnye Initsiativy LLC
+
+OJS KB Radar Managing Company
+
+Peleng JSC
+
+State Authority for Military Industry of the Republic of Belarus
+
+State Security Committee of the Republic of Belarus
+
+Transaviaexport Airlines JSC
+
+Volatavto OJSC
+
+CHIP AND DIP LLC
+
+OJSC Rogachev Plant Diaprojector
+
+DISPLAY DESIGN BUREAU JSC
+
+CJSC ‘Hull Products Plant’
+
+## ANNEX Va — List of goods and technology referred to in Articles 1f(1) and 1fa(1)
+
+**Part A**
+
+General Notes, Acronyms and Abbreviations, and Definitions in Annex I to Regulation (EU) 2021/821 apply to this Annex, with the exception of “Part I – General Notes, Acronyms and Abbreviations, and Definitions, General Notes to Annex I, point 2”.
+
+Definitions of Terms used in the Common Military List (CML) of the European Union (C/2024/1945) apply to this Annex.
+
+Without prejudice to Article 1m of this Regulation, non-controlled items containing one or more components listed in this Annex are not subject to the controls under Articles 1f(1) and 1fa(1) of this Regulation.
+
+**Category I – Electronics**
+
+X.A.I.001 Electronic devices and components.
+
+a. “Microprocessor microcircuits”, “microcomputer microcircuits”, and microcontroller microcircuits having any of the following:
+
+1\. A performance speed of 5 GigaFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;
+
+2\. A clock frequency rate exceeding 25 MHz; or
+
+3\. More than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel “microprocessor microcircuits” with a transfer rate of 2,5 Mbyte/s;
+
+b. Storage integrated circuits, as follows:
+
+1\. Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;
+
+a. Exceeding 16 Mbits per package for flash memory types; or
+
+b. Exceeding either of the following limits for all other EEPROM types:
+
+1\. Exceeding 1 Mbit per package; or
+
+2\. Exceeding 256 kbit per package and a maximum access time of less than 80 ns;
+
+2\. Static random access memories (SRAMs) with a storage capacity:
+
+a. Exceeding 1 Mbit per package; or
+
+b. Exceeding 256 kbit per package and a maximum access time of less than 25 ns;
+
+c. Analogue-to-digital converters having any of the following:
+
+1\. A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 Mega Samples Per Second (MSPS);
+
+2\. A resolution of 12 bit with an output rate greater than 105 Mega Samples per Second (MSPS);
+
+3\. A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 Mega Samples per Second (MSPS); or
+
+4\. A resolution of more than 14 bit with an output rate greater than 2,5 Mega Samples Per Second (MSPS);
+
+d. Field programmable logic devices having a maximum number of single-ended digital input/outputs between 200 and 700;
+
+e. Fast Fourier Transform (FFT) processors having a rated execution time for a 1 024 point complex FFT of less than 1 ms;
+
+f. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
+
+1\. More than 144 terminals; or
+
+2\. A typical basic propagation delay time of less than 0,4 ns;
+
+g. Traveling-wave “vacuum electronic devices”, pulsed or continuous wave, as follows:
+
+1\. Coupled cavity devices, or derivatives thereof;
+
+2\. Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:
+
+a. An “instantaneous bandwidth” of half an octave or more and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,2 ; or
+
+b. An “instantaneous bandwidth” of less than half an octave; and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,4 ;
+
+h. Flexible waveguides designed for use at frequencies exceeding 40 GHz;
+
+i. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having either of the following:
+
+1\. A carrier frequency exceeding 1 GHz; or
+
+2\. A carrier frequency of 1 GHz or less; and
+
+a. A “frequency side-lobe rejection” exceeding 55 dB;
+
+b. A product of the maximum delay time and bandwidth (time in μs and bandwidth in MHz) of more than 100; or
+
+c. A dispersive delay of more than 10 μs;
+
+Technical Note: For the purpose of X.A.I.001.i “Frequency side-lobe rejection” is the maximum rejection value specified in data sheet.
+
+j. “Cells” as follows:
+
+1\. “Primary cells” having an “energy density” of 550 Wh/kg or less at 293 K (20 oC);
+
+2\. “Secondary cells” having an “energy density” of 350 Wh/kg or less at 293 K (20 oC);
+
+Note: X.A.I.001.j does not control batteries, including single cell batteries.
+
+Technical Notes:
+
+1\. For the purpose of X.A.I.001.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+
+2\. For the purpose of X.A.I.001.j, a “cell” is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+
+3\. For the purpose of X.A.I.001.j.1, a “primary cell” is a “cell” that is not designed to be charged by any other source.
+
+4\. For the purpose of X.A.I.001.j.2, a “secondary cell” is a “cell” that is designed to be charged by an external electrical source.
+
+k. “Superconductive” electromagnets or solenoids specially designed to be fully charged or discharged in less than one minute, having all of the following:
+
+Note: X.A.I.001.k does not control “superconductive” electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.
+
+1\. Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;
+
+2\. Inner diameter of the current carrying windings of more than 250 mm; and
+
+3\. Rated for a magnetic induction of more than 8T or “overall current density” in the winding of more than 300 A/mm2;
+
+l. Circuits or systems for electromagnetic energy storage, containing components manufactured from “superconductive” materials specially designed for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents, having all of the following:
+
+1\. Resonant operating frequencies exceeding 1 MHz;
+
+2\. A stored energy density of 1 MJ/m3 or more; and
+
+3\. A discharge time of less than 1 ms;
+
+m. Hydrogen/hydrogen-isotope thyratrons of ceramic-metal construction and rate for a peak current of 500 A or more;
+
+n. Ceramic frequency filters;
+
+o. Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are “space qualified” and not controlled by 3A001.e.4 ( 33 );
+
+p. Cermet trimmers;
+
+q. Surface Mounted Device (SMD) inductors.
+
+X.A.I.002 General purpose “electronic assemblies”, modules and equipment.
+
+a. Electronic test equipment, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+b. Digital instrumentation magnetic tape data recorders having any of the following characteristics:
+
+1\. A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;
+
+2\. A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or
+
+3\. “Space qualified”;
+
+c. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders;
+
+d. Non-modular analogue oscilloscopes having a bandwidth of 1 GHz or greater;
+
+e. Modular analogue oscilloscope systems having either of the following characteristics:
+
+1\. A mainframe with a bandwidth of 1 GHz or greater; or
+
+2\. Plug-in modules with an individual bandwidth of 4 GHz or greater;
+
+f. Analogue sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz;
+
+g. Digital oscilloscopes and transient recorders, using analogue-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 Giga Samples per Second (GSPS)), digitising to 8 bits or greater resolution and storing 256 or more samples.
+
+Note: X.A.I.002 controls the following specially designed components for analogue oscilloscopes:
+
+1\. Plug-in units;
+
+2\. External amplifiers;
+
+3\. Pre-amplifiers;
+
+4\. Sampling devices;
+
+5\. Cathode ray tubes.
+
+X.A.I.003 Specific processing equipment, other than those specified in the CML or in Regulation (EU) 2021/821, as follows:
+
+a. Frequency changers and their specially designed components, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+b. Mass spectrometers, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+c. All flash X-ray machines, or components of pulsed power systems designed thereof, including Marx generators, high power pulse shaping networks, high voltage capacitors, and triggers;
+
+d. Pulse amplifiers, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+e. Electronic equipment for time delay generation or time interval measurement, as follows:
+
+1\. Digital time delay generators with a resolution of 50 ns or less over time intervals of 1 μs or greater; or
+
+2\. Multi-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 ns or less over time intervals of 1 μs or greater;
+
+f. Chromatography and spectrometry analytical instruments.
+
+X.B.I.001 Equipment for the manufacture of electronic components or materials, as follows and specially designed components and accessories therefor:
+
+a. Equipment specially designed for the manufacture of electron tubes, optical elements and specially designed components therefor controlled by 3A001 ( 34 ) or X.A.I.001;
+
+b. Equipment specially designed for the manufacture of semiconductor devices, integrated circuits and “electronic assemblies”, as follows, and systems incorporating or having the characteristics of such equipment:
+
+Note: X.B.I.001.b. also controls equipment used or modified for use in the manufacture of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+1\. Equipment for the processing of materials for the manufacture of devices and components as specified in the heading of X.B.I.001.b, as follows:
+
+Note: X.B.I.001 does not control quartz furnace tubes, furnace liners, paddles, boats (except specially designed caged boats), bubblers, cassettes or crucibles specially designed for the processing equipment controlled by X.B.I.001.b.1.
+
+a. Equipment for producing polycrystalline silicon and materials controlled by 3C001 ( 35 );
+
+b. Equipment specially designed for purifying or processing III/V and II/VI semiconductor materials controlled by 3C001, 3C002, 3C003, 3C004, or 3C005 ( 36 ) except crystal pullers, for which see X.B.I.001.b.1.c below;
+
+c. Crystal pullers and furnaces, as follows:
+
+Note: X.B.I.001.b.1.c does not control diffusion and oxidation furnaces.
+
+1\. Annealing or recrystallizing equipment other than constant temperature furnaces employing high rates of energy transfer capable of processing wafers at a rate exceeding 0,005 m2 per minute;
+
+2\. “Stored program controlled” crystal pullers having any of the following characteristics:
+
+a. Rechargeable without replacing the crucible container;
+
+b. Capable of operation at pressures above 2,5 x 105 Pa; or
+
+c. Capable of pulling crystals of a diameter exceeding 100 mm;
+
+d. “Stored program controlled” equipment for epitaxial growth having any of the following characteristics:
+
+1\. Capable of producing silicon layer with a thickness uniform to less than ±2,5 % across a distance of 200 mm or more;
+
+2\. Capable of producing a layer of any material other than silicon with a thickness uniformity across the wafer of equal to or better than ±3,5 %; or
+
+3\. Rotation of individual wafers during processing;
+
+e. Molecular beam epitaxial growth equipment;
+
+f. Magnetically enhanced “sputtering” equipment with specially designed integral load locks capable of transferring wafers in an isolated vacuum environment;
+
+g. Equipment specially designed for ion implantation, ion-enhanced or photo-enhanced diffusion, having any of the following characteristics:
+
+1\. Patterning capability;
+
+2\. Beam energy (accelerating voltage) exceeding 200 keV;
+
+3\. Optimised to operate at a beam energy (accelerating voltage) of less than 10 keV; or
+
+4\. Capable of high energy oxygen implant into a heated “substrate”;
+
+h. “Stored program controlled” equipment for the selective removal (etching) by means of anisotropic dry methods (e.g., plasma), as follows:
+
+1\. “Batch types” having either of the following:
+
+a. End-point detection, other than optical emission spectroscopy types; or
+
+b. Reactor operational (etching) pressure of 26,66 Pa or less;
+
+2\. “Single wafer types” having any of the following:
+
+a. End-point detection, other than optical emission spectroscopy types;
+
+b. Reactor operational (etching) pressure of 26,66 Pa or less; or
+
+c. Cassette-to-cassette and load locks wafer handling;
+
+**Notes:**
+
+1\. “Batch types” refers to machines not specially designed for production processing of single wafers. Such machines can process two or more wafers simultaneously with common process parameters, e.g., RF power, temperature, etch gas species, flow rates.
+
+2\. “Single wafer types” refers to machines specially designed for production processing of single wafers. These machines may use automatic wafer handling techniques to load a single wafer into the equipment for processing. The definition includes equipment that can load and process several wafers but where the etching parameters, e.g., RF power or end point, can be independently determined for each individual wafer.
+
+i. Chemical vapour deposition (CVD) equipment, e.g., plasma-enhanced CVD (PECVD) or photo-enhanced CVD, for semiconductor device manufacturing, having either of the following capabilities, for deposition of oxides, nitrides, metals or polysilicon:
+
+1\. Chemical vapour deposition equipment operating below 105 Pa; or
+
+2\. PECVD equipment operating either below 60 Pa or having automatic cassette-to-cassette and load lock wafer handling;
+
+Note: X.B.I.001.b.1.i does not control low pressure chemical vapour deposition (LPCVD) systems or reactive “sputtering” equipment.
+
+j. Electron beam systems specially designed or modified for mask making or semiconductor device processing having any of the following characteristics:
+
+1\. Electrostatic beam deflection;
+
+2\. Shaped, non-Gaussian beam profile;
+
+3\. Digital-to-analogue conversion rate exceeding 3 MHz;
+
+4\. Digital-to-analogue conversion accuracy exceeding 12 bit; or
+
+5\. Target-to-beam position feedback control precision of 1 μm or finer;
+
+Note: X.B.I.001.b.1.j does not control electron beam deposition systems or general purpose scanning electron microscopes.
+
+k. Surface finishing equipment for the processing of semiconductor wafers as follows:
+
+1\. Specially designed equipment for backside processing of wafers thinner than 100 μm and the subsequent separation thereof; or
+
+2\. Specially designed equipment for achieving a surface roughness of the active surface of a processed wafer with a two-sigma value of 2 μm or less, total indicator reading (TIR);
+
+Note: X.B.I.001.b.1.k does not control single-side lapping and polishing equipment for wafer surface finishing.
+
+l. Interconnection equipment which includes common single or multiple vacuum chambers specially designed to permit the integration of any equipment controlled by X.B.I.001 into a complete system;
+
+m. “Stored program controlled” equipment using “lasers” for the repair or trimming of “monolithic integrated circuits” with either of the following characteristics:
+
+1\. Positioning accuracy less than ± 1 μm; or
+
+2\. Spot size (kerf width) less than 3 μm.
+
+Technical Note: For the purpose of X.B.I.001.b.1, “sputtering” is an overlay coating process wherein positively charged ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on the substrate. (Note: Triode, magnetron or radio frequency sputtering to increase adhesion of coating and rate of deposition are ordinary modifications of the process.)
+
+2\. Masks, mask substrates, mask-making equipment and image transfer equipment for the manufacture of devices and components as specified in the heading of X.B.I.001, as follows:
+
+Note: The term masks refers to those used in electron beam lithography, X-ray lithography, and ultraviolet lithography, as well as the usual ultraviolet and visible photo-lithography.
+
+a. Finished masks, reticles and designs therefor, except:
+
+1\. Finished masks or reticles for the production of integrated circuits not controlled by 3A001 ( 37 ); or
+
+2\. Masks or reticles, having both of the following characteristics:
+
+a. Their design is based on geometries of 2,5 μm or more; and
+
+b. The design does not include special features to alter the intended use by means of production equipment or “software”;
+
+b. Mask substrates as follows:
+
+1\. Hard surface (e.g., chromium, silicon, molybdenum) coated “substrates” (e.g., glass, quartz, sapphire) for the preparation of masks having dimensions exceeding 125 mm x 125 mm; or
+
+2\. Substrates specially designed for X-ray masks;
+
+c. Equipment, other than general purpose computers, specially designed for computer aided design (CAD) of semiconductor devices or integrated circuits;
+
+d. Equipment or machines, as follows, for mask or reticle fabrication:
+
+1\. Photo-optical step and repeat cameras capable of producing arrays larger than 100 mm x 100 mm, or capable of producing a single exposure larger than 6 mm x 6 mm in the image (i.e., focal) plane, or capable of producing line widths of less than 2,5 μm in the photoresist on the “substrate”;
+
+2\. Mask or reticle fabrication equipment using ion or “laser” beam lithography capable of producing line widths of less than 2,5 μm; or
+
+3\. Equipment or holders for altering masks or reticles or adding pellicles to remove defects;
+
+Note: X.B.I.001.b.2.d.1 and b.2.d.2 do not control mask fabrication equipment using photo-optical methods which was either commercially available before 1 January 1980, or has a performance no better than such equipment.
+
+e. “Stored program controlled” equipment for the inspection of masks, reticles or pellicles with:
+
+1\. A resolution of 0,25 μm or finer; and
+
+2\. A precision of 0,75 μm or finer over a distance in one or two coordinates of 63,5 mm or more;
+
+Note: X.B.I.001.b.2.e does not control general purpose scanning electron microscopes except when specially designed and instrumented for automatic pattern inspection.
+
+f. Align and expose equipment for wafer production using photo-optical or X-ray methods, e.g., lithography equipment, including both projection image transfer equipment and step and repeat (direct step on wafer) or step and scan (scanner) equipment, capable of performing any of the following functions:
+
+Note: X.B.I.001.b.2.f does not control photo-optical contact and proximity mask align and expose equipment or contact image transfer equipment.
+
+1\. Production of a pattern size of less than 2,5 μm;
+
+2\. Alignment with a precision finer than ±0,25 μm (3 sigma);
+
+3\. Machine-to-machine overlay no better than ±0,3 μm; or
+
+4\. A light source wavelength shorter than 400 nm;
+
+g. Electron beam, ion beam or X-ray equipment for projection image transfer capable of producing patterns less than 2,5 μm;
+
+Note: For focused, deflected-beam systems (direct write systems), see X.B.I.001.b.1.j.
+
+h. Equipment using “lasers” for direct write on wafers capable of producing patterns less than 2,5 μm.
+
+3\. Equipment for the assembly of integrated circuits, as follows:
+
+a. “Stored program controlled” die bonders having all of the following characteristics:
+
+1\. Specially designed for “hybrid integrated circuits”;
+
+2\. X-Y stage positioning travel exceeding 37,5 x 37,5 mm; and
+
+3\. Placement accuracy in the X-Y plane of finer than ± 10 μm;
+
+b. “Stored program controlled” equipment for producing multiple bonds in a single operation (e.g., beam lead bonders, chip carrier bonders, tape bonders);
+
+c. Semi-automatic or automatic hot cap sealers, in which the cap is heated locally to a higher temperature than the body of the package, specially designed for ceramic microcircuit packages controlled by 3A001 ( 38 ) and that have a throughput equal to or more than one package per minute.
+
+Note: X.B.I.001.b.3 does not control general purpose resistance type spot welders.
+
+4\. Filters for clean rooms capable of providing an air environment of 10 or less particles of 0,3 μm or smaller per 0,02832 m3 and filter materials therefor.
+
+Technical Note: For the purpose of X.B.I.001, “stored program controlled” is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be “stored program controlled” whether the electronic storage is internal or external to the equipment.
+
+X.B.I.002 Equipment for the inspection or testing of electronic components and materials, and specially designed components and accessories therefor.
+
+a. Equipment specially designed for the inspection or testing of electron tubes, optical elements and specially designed components therefor controlled by 3A001 ( 39 ) or X.A.I.001;
+
+b. Equipment specially designed for the inspection or testing of semiconductor devices, integrated circuits and “electronic assemblies”, as follows, and systems incorporating or having the characteristics of such equipment:
+
+Note: X.B.I.002.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+1\. “Stored program controlled” inspection equipment for the automatic detection of defects, errors or contaminants of 0,6 μm or less in or on processed wafers, substrates, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;
+
+Note: X.B.I.002.b.1 does not control general purpose scanning electron microscopes, except when specially designed and instrumented for automatic pattern inspection.
+
+2\. Specially designed “stored program controlled” measuring and analysis equipment, as follows:
+
+a. Specially designed for the measurement of oxygen or carbon content in semiconductor materials;
+
+b. Equipment for line width measurement with a resolution of 1 μm or finer;
+
+c. Specially designed flatness measurement instruments capable of measuring deviations from flatness of 10 μm or less with a resolution of 1 μm or finer.
+
+3\. “Stored program controlled” wafer probing equipment having any of the following characteristics:
+
+a. Positioning accuracy finer than 3,5 μm;
+
+b. Capable of testing devices having more than 68 terminals; or
+
+c. Capable of testing at a frequency exceeding 1 GHz;
+
+4\. Test equipment as follows:
+
+a. “Stored program controlled” equipment specially designed for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;
+
+Technical Note: Discrete semiconductor devices include photocells and solar cells.
+
+b. “Stored program controlled” equipment specially designed for testing integrated circuits and “electronic assemblies” thereof, capable of functional testing:
+
+1\. At a “pattern rate” exceeding 20 MHz; or
+
+2\. At a “pattern rate” exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.
+
+Notes: X.B.I.002.b.4.b does not control test equipment specially designed for testing:
+
+1\. Memories;
+
+2\. Assemblies or a class of “electronic assemblies” for home and entertainment applications; and
+
+3\. Electronic components, “electronic assemblies” and integrated circuits not controlled by 3A001 ( 40 )or X.A.I.001 provided such test equipment does not incorporate computing facilities with “user accessible programmability”.
+
+Technical Note: For purposes of X.B.I.002.b.4.b, “pattern rate” is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.
+
+c. Equipment specially designed for determining the performance of focal-plane arrays at wavelengths of more than 1 200 nm, using “stored program controlled” measurements or computer aided evaluation and having any of the following characteristics:
+
+1\. Using scanning light spot diameters of less than 0,12 mm;
+
+2\. Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; or
+
+3\. Designed for evaluating arrays capable of creating images with more than 32 x 32 line elements;
+
+5\. Electron beam test systems designed for operation at 3 keV or below, or “laser” beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:
+
+a. Stroboscopic capability with either beam blanking or detector strobing;
+
+b. An electron spectrometer for voltage measurements with a resolution of less than 0,5 V; or
+
+c. Electrical tests fixtures for performance analysis of integrated circuits;
+
+Note: X.B.I.002.b.5 does not control scanning electron microscopes, except when specially designed and instrumented for non-contactive probing of a powered-up semiconductor device.
+
+6\. “Stored program controlled” multifunctional focused ion beam systems specially designed for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:
+
+a. Target-to-beam position feedback control precision of 1 μm or finer; or
+
+b. Digital-to-analogue conversion accuracy exceeding 12 bit;
+
+7\. Particle measuring systems employing “lasers” designed for measuring particle size and concentration in air having both of the following characteristics:
+
+a. Capable of measuring particle sizes of 0,2 μm or less at a flow rate of 0,02832 m3 per minute or more; and
+
+b. Capable of characterizing Class 10 clean air or better.
+
+Technical Note: For the purpose of X.B.I.002, “stored program controlled” is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions. Equipment may be “stored program controlled” whether the electronic storage is internal or external to the equipment.
+
+X.B.I.003 Equipment for the manufacture of Printed Circuit Boards (PCBs) and specially designed components and accessories therefor, as follows:
+
+a. Film processing equipment;
+
+b. Solder mask coating equipment;
+
+c. Photo plotter equipment;
+
+d. Plating or electroplating deposition equipment;
+
+e. Vacuum chambers and presses;
+
+f. Roll laminators;
+
+g. Alignment equipment; or
+
+h. Etching equipment.
+
+X.B.I.004 Automated optical inspection equipment for testing Printed Circuit Boards (PCBs), based on optical or electrical sensors, and capable to detect any of the following quality defects:
+
+a. Spacing, area, volume or height;
+
+b. Bill boarding;
+
+c. Components (presence, absence, flipped, offset, polarity, or skew);
+
+d. Solder (bridging, insufficient solder joints);
+
+e. Leads (insufficient paste, lifting);
+
+f. Tombstoning; or
+
+g. Electrical (shorts, opens, resistance, capacitance, power, grid performance).
+
+X.C.I.001 Positive resists designed for semiconductor lithography specially adjusted (optimised) for use at wavelengths between 370 and 193 nm.
+
+X.C.I.002 Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows:
+
+a. PCB composite substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR-6, CEM-1, G-10, etc.);
+
+b. Multilayer PCB substrates, containing at least one layer of any of the following materials:
+
+1\. Aluminium;
+
+2\. Polytetrafluoroethylene (PTFE); or
+
+3\. Ceramic materials (e.g. alumina, titanium oxide, etc.);
+
+c. Etchant chemicals:
+
+1\. Ferric chloride (7705-08-0);
+
+2\. Cupric chloride (7447-39-4);
+
+3\. Ammonium persulphate (7727-54-0);
+
+4\. Sodium persulphate (7775-27-1); or
+
+5\. Chemical preparations specially designed for etching and containing any of the chemicals included in X.C.I.002.c.1 to X.C.I.002.c.4.
+
+Note: X.C.I.002.c does not control “chemical mixtures” containing one or more of the chemicals specified in entry X.C.I.002.c in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.
+
+d. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm;
+
+e. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:
+
+1\. Aromatic polyimides;
+
+2\. Parylenes;
+
+3\. Benzocyclobutenes (BCBs); or
+
+4\. Polybenzoxazoles.
+
+X.D.I.001 “Software” specially designed for the “development”, “production”, or “use” of electronic devices or components controlled by X.A.I.001, general purpose electronic equipment controlled by X.A.I.002, or manufacturing and test equipment controlled by X.B.I.001 and X.B.I.002; or “software” specially designed for the “use” of equipment controlled by 3B001.g and 3B001.h ( 41 ).
+
+X.D.I.002 “Software” specially designed for the test, “development” or “production” of Printed Circuit Boards (PCBs).
+
+X.E.I.001 “Technology” for the “development”, “production” or “use” of electronic devices or components controlled by X.A.I.001, general purpose electronic equipment controlled by X.A.I.002, or manufacturing and test equipment controlled by X.B.I.001 or X.B.I.002, or materials controlled by X.C.I.001.
+
+X.E.I.002 “Technology” for the “development”, “production” or “use” of Printed Circuit Boards (PCBs).
+
+**Category II – Computers**
+
+Note: Category II does not control goods for the personal use of the natural persons.
+
+X.A.II.001 Computers, “electronic assemblies” and related equipment, not controlled by 4A001 or 4A003 ( 42 ), and specially designed components therefor.
+
+Note: The control status of the “digital computers” and related equipment described in X.A.II.001 is determined by the control status of other equipment or systems provided:
+
+a. The “digital computers” or related equipment are essential for the operation of the other equipment or systems;
+
+b. The “digital computers” or related equipment are not a “principal element” of the other equipment or systems; and
+
+N.B.1: The control status of “signal processing” or “image enhancement” equipment specially designed for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the “principal element” criterion.
+
+N.B.2: For the control status of “digital computers” or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications) ( 43 ).
+
+c. The “technology” for the “digital computers” and related equipment is determined by 4E ( 44 ).
+
+a. Electronic computers and related equipment, and “electronic assemblies” and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 oC);
+
+b. “Digital computers”, including equipment of “signal processing” or “image enhancement”, having an “Adjusted Peak Performance” (“APP”) equal to or greater than 0,0128 Weighted TeraFLOPS (WT);
+
+c. “Electronic assemblies” that are specially designed or modified to enhance performance by aggregation of processors, as follows:
+
+1\. Designed to be capable of aggregation in configurations of 16 or more processors;
+
+2\. Not used;
+
+Note 1: X.A.II.001.c applies only to “electronic assemblies” and programmable interconnections with a “APP” not exceeding the limits in X.A.II.001.b, when shipped as unintegrated “electronic assemblies”. It does not apply to “electronic assemblies” inherently limited by nature of their design for use as related equipment controlled by X.A.II.001.k.
+
+Note 2: X.A.II.001.c does not control any “electronic assembly” specially designed for a product or family of products whose maximum configuration does not exceed the limits of X.A.II.001.b.
+
+d. Not used;
+
+e. Not used;
+
+f. Equipment for “signal processing” or “image enhancement” having an “Adjusted Peak Performance” (“APP”) equal to or greater than 0,0128 Weighted TeraFLOPS WT;
+
+g. Not used;
+
+h. Not used;
+
+i. Equipment containing “terminal interface equipment” exceeding the limits in X.A.III.101;
+
+Technical Note: For the purpose of X.A.II.001.i, “terminal interface equipment” means equipment at which information enters or leaves the telecommunication system, e.g. telephone, data device, computer, etc.
+
+j. Equipment specially designed to provide external interconnection of “digital computers” or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.
+
+Note: X.A.II.001.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, “network access controllers” or “communication channel controllers”.
+
+Technical Note: For the purpose of X.A.II.001.j, “communication channel controllers” is the physical interface which controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+
+k. Hybrid computers and “electronic assemblies” and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:
+
+1\. 32 channels or more; and
+
+2\. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more.
+
+X.D.II.001 “Program” proof and validation “software”, “software” allowing the automatic generation of “source codes”, and operating system “software” that are specially designed for “real-time processing” equipment.
+
+a. “Program” proof and validation “software” using mathematical and analytical techniques and designed or modified for “programs” having more than 500 000 “source code” instructions;
+
+b. “Software” allowing the automatic generation of “source codes” from data acquired on line from external sensors described in the Regulation (EU) 2021/821; or
+
+c. Operating system “software” specially designed for “real-time processing” equipment that guarantees a “global interrupt latency time” of less than 20 μs.
+
+Technical Note: For the purpose of X.D.II.001, “global interrupt latency time” is the time taken by the computer system to recognise an interrupt due to the event, service the interrupt and perform a context switch to an alternate memory-resident task waiting on the interrupt.
+
+X.D.II.002 “Software” other than that controlled in 4D001 ( 45 ) specially designed or modified for the “development”, “production” or “use” of equipment controlled by 4A101 ( 46 ).
+
+X.E.II.001 “Technology” for the “development”, “production” or “use” of equipment controlled by X.A.II.001, or “software” controlled by X.D.II.001 or X.D.II.002.
+
+X.E.II.002 “Technology” for the “development” or “production” of equipment designed for “multi-data-stream processing”.
+
+Technical Note: For the purpose of X.E.II.002, “multi-data-stream processing” is a microprogram or equipment architecture technique that permits simultaneous processing of two or more data sequences under the control of one or more instruction sequences by means such as:
+
+1\. Single Instruction Multiple Data (SIMD) architectures such as vector or array processors;
+
+2\. Multiple Single Instruction Multiple Data (MSIMD) architectures;
+
+3\. Multiple Instruction Multiple Data (MIMD) architectures, including those that are tightly coupled, closely coupled or loosely coupled; or
+
+4\. Structured arrays of processing elements, including systolic arrays.
+
+**Category III. Part 1 – Telecommunications**
+
+Note: Category III.Part 1 does not control goods for the personal use of the natural persons.
+
+X.A.III.101 Telecommunication equipment.
+
+a. Any type of telecommunications equipment, not controlled by 5A001.a ( 47 ), specially designed to operate outside the temperature range from 219 K (– 54 oC) to 397 K (124 oC).
+
+b. Telecommunication transmission equipment and systems, and specially designed components and accessories therefor, having any of the following characteristics, functions or features:
+
+Note: Telecommunication transmission equipment:
+
+a. Categorised as follows, or combinations thereof:
+
+1\. Radio equipment (e.g., transmitters, receivers and transceivers);
+
+2\. Line terminating equipment;
+
+3\. Intermediate amplifier equipment;
+
+4\. Repeater equipment;
+
+5\. Regenerator equipment;
+
+6\. Translation encoders (transcoders);
+
+7\. Multiplex equipment (statistical mutiplex included);
+
+8\. Modulators/demodulators (modems);
+
+9\. Transmultiplex equipment (see CCITT Rec. G701);
+
+10\. “Stored program controlled” digital crossconnection equipment;
+
+11\. “Gateways” and bridges;
+
+12\. “Media access units”; and
+
+b. Designed for use in single or multi-channel communication via any of the following:
+
+1\. Wire (line);
+
+2\. Coaxial cable;
+
+3\. Optical fibre cable;
+
+4\. Electromagnetic radiation; or
+
+5\. Underwater acoustic wave propagation.
+
+1\. Employing digital techniques, including digital processing of analogue signals, and designed to operate at a “digital transfer rate” at the highest multiplex level exceeding 45 Mbit/s or a “total digital transfer rate” exceeding 90 Mbit/s;
+
+Note: X.A.III.101.b.1 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.
+
+2\. Modems using the “bandwidth of one voice channel” with a “data signalling rate” exceeding 9 600 bits per second;
+
+3\. Being “stored program controlled” digital cross connect equipment with “digital transfer rate” exceeding 8,5 Mbit/s per port;
+
+4\. Being equipment containing any of the following:
+
+a. “Network access controllers” and their related common medium having a “digital transfer rate” exceeding 33 Mbit/s; or
+
+b. “Communication channel controllers” with a digital output having a “data signalling rate” exceeding 64 000 bit/s per channel;
+
+Note: If any uncontrolled equipment contains a “network access controller”, it cannot have any type of telecommunications interface, except those described in, but not controlled by X.A.III.101.b.4.
+
+5\. Employing a “laser” and having any of the following characteristics:
+
+a. A transmission wavelength exceeding 1 000 nm; or
+
+b. Employing analogue techniques and having a bandwidth exceeding 45 MHz;
+
+c. Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
+
+d. Employing wavelength division multiplexing techniques; or
+
+e. Performing “optical amplification”;
+
+6\. Radio equipment operating at input or output frequencies exceeding:
+
+a. 31 GHz for satellite-earth station applications; or
+
+b. 26,5 GHz for other applications;
+
+Note: X.A.III.101.b.6 does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26,5 GHz and 31 GHz.
+
+7\. Being radio equipment employing any of the following:
+
+a. Quadrature-amplitude-modulation (QAM) techniques above level 4 if the “total digital transfer rate” exceeds 8,5 Mbit/s;
+
+b. QAM techniques above level 16 if the “total digital transfer rate” is equal to or less than 8,5 Mbit/s;
+
+c. Other digital modulation techniques and having a “spectral efficiency” exceeding 3 bit/s/Hz; or
+
+d. Operating in the 1,5 MHz to 87,5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.
+
+**Notes:**
+
+1\. X.A.III.101.b.7 does not control equipment specially designed to be integrated and operated in any satellite system for civil use.
+
+2\. X.A.III.101.b.7 does not control radio relay equipment for operation in an International Telecommunications Union (ITU) allocated band:
+
+a. Having any of the following:
+
+1\. Not exceeding 960 MHz; or
+
+2\. With a “total digital transfer rate” not exceeding 8,5 Mbit/s; and
+
+b. Having a “spectral efficiency” not exceeding 4 bit/s/Hz.
+
+c. “Stored program controlled” switching equipment and related signalling systems, having any of the following characteristics, functions or features, and specially designed components and accessories therefor:
+
+Note: Statistical multiplexers with digital input and digital output which provide switching are treated as “stored program controlled” switches.
+
+1\. “Data (message) switching” equipment or systems designed for “packet-mode operation”, “electronic assemblies” and components therefor, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+2\. Not used;
+
+3\. Routing or switching of “datagram” packets;
+
+Note: X.A.III.101.c.3 does not control networks restricted to using only “network access controllers” or to “network access controllers” themselves.
+
+4\. Not used;
+
+5\. Multi-level priority and pre-emption for circuit switching;
+
+Note: X.A.III.101.c.5 does not control single-level call preemption.
+
+6\. Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralised subscriber data base common to more than one switch;
+
+7\. Containing “stored program controlled” digital cross connect equipment with “digital transfer rate” exceeding 8,5 Mbit/s per port;
+
+8\. “Common channel signalling” operating in either non-associated or quasi-associated mode of operation;
+
+9\. “Dynamic adaptive routing”;
+
+10\. Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:
+
+a. A “data signalling rate” of 64 000 bit/s per channel for a “communications channel controller”; or
+
+Note: X.A.III.101.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by X.A.III.101.b.1.
+
+b. A “digital transfer rate” of 33 Mbit/s for a “network access controller” and related common media;
+
+Note: X.A.III.101.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in X.A.III.101.c.10.
+
+11\. “Optical switching”;
+
+12\. Employing “Asynchronous Transfer Mode” (“ATM”) techniques.
+
+d. Optical fibres and optical fibre cables of more than 50 m in length designed for single mode operation;
+
+e. Centralised network control having all of the following characteristics:
+
+1\. Receives data from the nodes; and
+
+2\. Process these data in order to provide control of traffic not requiring operator decisions, and thereby performing “dynamic adaptive routing”;
+
+Note 1: X.A.III.101.e does not include cases of routing decisions taken on predefined information.
+
+Note 2: X.A.III.101.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
+
+f. Phased array antennas, operating above 10,5 GHz, containing active elements and distributed components, and designed to permit electronic control of beam shaping and pointing, except for landing systems with instruments meeting International Civil Aviation Organization (ICAO) standards (microwave landing systems (MLS));
+
+g. Mobile communications equipment other than those specified in the CML or in Regulation (EU) 2021/821, “electronic assemblies” and components therefor;
+
+h. Radio relay communications equipment designed for use at frequencies equal to or exceeding 19,7 GHz and components therefor, other than those specified in the CML or in Regulation (EU) 2021/821; or
+
+i. Video game controllers, gaming controllers, flight simulator controllers, gamepads, joysticks and other input units, for video game consoles or entertainment systems, either corded or cordless.
+
+j. Radio frequency systems and equipment not included in Regulation (EU) 2021/821, components and accessories, specially designed or modified to develop any of the following functions:
+
+a. Take control and command of unmanned aerial vehicles (UAVs);
+
+b. Deliberately and selectively interfere with, deny, inhibit, degrade or deceive radio frequency signals for the control and command of UAVs;
+
+c. Use the specific features of the radio frequency protocol used by UAVs to interfere with their operation.
+
+Technical Note: Such systems and equipment may include radio frequency jammers, protocol analysers, signal spoofers, takeover systems, directional antennas, software-defined radio (SDR) platforms, electronic warfare modules, and associated control software or firmware specifically adapted for counter-UAV applications.
+
+Technical Note: For the purpose of X.A.III.101:
+
+1) “Asynchronous transfer mode” (“ATM”) is a transfer mode in which the information is organised into cells; it is asynchronous in the sense that the recurrence of cells depends on the required or instantaneous bit rate.
+
+2) “Bandwidth of one voice channel” is data communication equipment designed to operate in one voice channel of 3 100 Hz, as defined in CCITT Recommendation G.151.
+
+3) “Communications channel controller” is the physical interface that controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access.
+
+4) “Datagram” is a self-contained, independent entity of data carrying sufficient information to be routed from the source to the destination data terminal equipment without reliance on earlier exchanges between this source and destination data terminal equipment and the transporting network.
+
+5) “Fast select” is a facility applicable to virtual calls that allows data terminal equipment to expand the possibility to transmit data in call set-up and clearing “packets” beyond the basic capabilities of a virtual call.
+
+6) “Gateway” is the function, realised by any combination of equipment and “software”, to carry out the conversion of conventions for representing, processing or communicating information used on one system into the corresponding, but different conventions used in another system.
+
+7) “Integrated Services Digital Network” (ISDN) is a unified end- to-end digital network, in which data originating from all types of communication (e.g., voice, text, data, still and moving pictures) are transmitted from one port (terminal) in the exchange (switch) over one access line to and from the subscriber.
+
+8) “Packet” is a group of binary digits including data and call control signals that is switched as a composite whole. The data, call control signals, and possible error control information are arranged in a specified format.
+
+9) “Common channel signalling” means the transmission of control information (signalling) via a separate channel than that used for the messages. The signalling channel usually controls multiple message channels.
+
+10) “Data signalling rate” means the rate, as defined in ITU Recommendation 53-36, taking into account that, for non-binary modulation, baud and bit per second are not equal. Bits for coding, checking and synchronization functions are to be included.
+
+11) “Dynamic adaptive routing” means Automatic rerouting of traffic based on sensing and analysis of current actual network conditions.
+
+12) “Media access unit” means equipment that contains one or more communication interfaces (“network access controller”, “communications channel controller”, modem or computer bus) to connect terminal equipment to a network.
+
+13) “Spectral efficiency” is the “digital transfer rate” [bits/s] / 6 dB spectrum bandwidth in Hz.
+
+14) “Stored program controlled” is a control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.
+
+Note: Equipment may be “stored program controlled” whether the electronic storage is internal or external to the equipment.
+
+X.B.III.101 Telecommunications test equipment, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.C.III.101 Preforms of glass or of any other material optimised for the manufacture of optical fibres controlled by X.A.III.101.
+
+X.D.III.101 “Software” specially designed or modified for the “development”, “production” or “use” of equipment controlled by X.A.III.101 and X.B.III.101, and dynamic adaptive routing “software” as described as follows:
+
+a. “Software”, other than in machine-executable form, specially designed for “dynamic adaptive routing”;
+
+b. Not used.
+
+X.E.III.101 “Technology” for the “development”, “production” or “use” of equipment controlled by X.A.III.101 or X.B.III.101, or “software” controlled by X.D.III.101, and other “technologies” as follows:
+
+a. Specific “technologies” as follows:
+
+1\. “Technology” for the processing and application of coatings to optical fibre specially designed to make it suitable for underwater use;
+
+2\. “Technology” for the “development” of equipment employing “Synchronous Digital Hierarchy” (“SDH”) or “Synchronous Optical Network” (“SONET”) techniques.
+
+Technical Note: For the purpose of X.E.III.101:
+
+1) “Synchronous digital hierarchy” (SDH) is a digital hierarchy providing a means to manage, multiplex, and access various forms of digital traffic using a synchronous transmission format on different types of media. The format is based on the Synchronous Transport Module (STM) that is defined by CCITT Recommendation G.703, G.707, G.708, G.709 and others yet to be published. The first level rate of “SDH” is 155,52 Mbits/s.
+
+2) “Synchronous optical network” (SONET) is a network providing a means to manage, multiplex and access various forms of digital traffic using a synchronous transmission format on fibre optics. The format is the North America version of “SDH” and also uses the Synchronous Transport Module (STM). However, it uses the Synchronous Transport Signal (STS) as the basic transport module with a first level rate of 51,81 Mbits/s. The SONET standards are being integrated into those of “SDH”.
+
+**Category III. Part 2 – Information Security**
+
+Note: Category III. Part 2 does not control goods for the personal use of the natural persons.
+
+X.A.III.201 Equipment as follows:
+
+a. Not used;
+
+b. Not used;
+
+c. Goods classified as mass market encryption in accordance with Cryptography Note – Note 3 to Category 5, Part 2 ( 48 ).
+
+X.D.III.201 “Information Security” “software” as follows:
+
+Note: This entry does not control “software” designed or modified to protect against malicious computer damage, e.g., viruses, where the use of “cryptography” is limited to authentication, digital signature and/or the decryption of data or files.
+
+a. Not used;
+
+b. Not used;
+
+c. “Software” classified as mass market encryption “software” in accordance with Cryptography Note – Note 3 to Category 5, Part 2 ( 49 ).
+
+X.E.III.201 “Information Security” “technology” according to the General Technology Note, as follows:
+
+a. Not used;
+
+b. “Technology”, other than specified in the CML or in Regulation (EU) 2021/821, for the “use” of mass market goods controlled by X.A.III.201.c or mass market “software” controlled by X.D.III.201.c.
+
+**Category IV – Sensors and Lasers**
+
+X.A.IV.001 Marine or terrestrial acoustic equipment, capable of detecting or locating underwater objects or features or positioning surface vessels or underwater vehicles; and specially designed components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.A.IV.002 Optical Sensors as follows:
+
+a. Image intensifier tubes and specially designed components therefor, as follows:
+
+1\. Image intensifier tubes having all the following:
+
+a. A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;
+
+b. A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; and
+
+c. Having any of the following:
+
+1\. An S-20, S-25 or multialkali photocathode; or
+
+2\. A GaAs or GaInAs photocathode;
+
+2\. Specially designed microchannel plates having both of the following characteristics:
+
+a. 15 000 or more hollow tubes per plate; and
+
+b. Hole pitch (centre-to-centre spacing) of less than 25 μm.
+
+b. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics listed in X.A.IV.002.a.1.
+
+X.A.IV.003 Cameras as follows:
+
+a. Cameras that meet the criteria of Note 3 to 6A003.b.4. ( 50 );
+
+b. Not used;
+
+X.A.IV.004 Optics as follows:
+
+Note: X.A.IV.004 does not control optical filters with fixed air gaps or Lyot-type filters.
+
+a. Optical filters:
+
+1\. For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:
+
+a. Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90 % or more; or
+
+b. Bandwidths equal to or less than 0,1 nm FWHI and peak transmission of 50 % or more;
+
+2\. For wavelengths longer than 250 nm, and having all of the following:
+
+a. Tunable over a spectral range of 500 nm or more;
+
+b. Instantaneous optical bandpass of 1,25 nm or less;
+
+c. Wavelength resettable within 0,1 ms to an accuracy of 1 nm or better within the tunable spectral range; and
+
+d. A single peak transmission of 91 % or more;
+
+3\. Optical opacity switches (filters) with a field of view of 30o or wider and a response time equal to or less than 1 ns;
+
+b. “Fluoride fibre” cable, or optical fibres therefor, having an attenuation of less than 4 dB/km in the wavelength range exceeding 1 000 nm but not exceeding 3 000 nm;
+
+Technical Note: For the purpose of X.A.IV.004.b “Fluoride fibres” are fibres manufactured from bulk fluoride compounds.
+
+X.A.IV.005 “Lasers” as follows:
+
+a. Carbon dioxide (CO2) “lasers” having any of the following:
+
+1\. A CW output power exceeding 10 kW;
+
+2\. A pulsed output with a “pulse duration” exceeding 10 μs; and
+
+a. An average output power exceeding 10 kW; or
+
+b. A pulsed “peak power” exceeding 100 kW; or
+
+3\. A pulsed output with a “pulse duration” equal to or less than 10 μs; and
+
+a. A pulse energy exceeding 5 J per pulse and “peak power” exceeding 2,5 kW; or
+
+b. An average output power exceeding 2,5 kW;
+
+b. Semiconductor lasers, as follows:
+
+1\. Individual, single-transverse mode semiconductor “lasers” having:
+
+a. An average output power exceeding 100 mW; or
+
+b. A wavelength exceeding 1 050 nm;
+
+2\. Individual, multiple-transverse mode semiconductor “lasers”, or arrays of individual semiconductor “lasers”, having a wave-length exceeding 1 050 nm;
+
+c. Ruby “lasers” having an output energy exceeding 20 J per pulse;
+
+d. Non-“tunable” “pulsed lasers” having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+1\. A “pulse duration” equal to or exceeding 1 ns but not exceeding 1 μs, and having any of the following:
+
+a. A single transverse mode output and having any of the following:
+
+1\. A “wall-plug efficiency” exceeding 12 % and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+2\. An “average output power” exceeding 20 W; or
+
+b. A multiple transverse mode output and having any of the following:
+
+1\. A “wall-plug efficiency” exceeding 18 % and an “average output power” exceeding 30W;
+
+2\. A “peak power” exceeding 200 MW; or
+
+3\. An “average output power” exceeding 50 W; or
+
+2\. A “pulse duration” exceeding 1 μs and having any of the following:
+
+a. A single transverse mode output and having any of the following:
+
+1\. A “wall-plug efficiency” exceeding 12 % and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+2\. An “average output power” exceeding 20 W; or
+
+b. A multiple transverse mode output and having any of the following:
+
+1\. A “wall-plug efficiency” exceeding 18 % and an “average output power” exceeding 30 W; or
+
+2\. An “average output power” exceeding 500 W;
+
+e. Non-“tunable” continuous wave “(CW) lasers”, having an output wavelength exceeding 975 nm but not exceeding 1 150 nm and having any of the following:
+
+1\. A single transverse mode output and having any of the following:
+
+a. A “wall-plug efficiency” exceeding 12 % and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+b. An “average output power” exceeding 50 W; or
+
+2\. A multiple transverse mode output and having any of the following:
+
+a. A “wall-plug efficiency” exceeding 18 % and an “average output power” exceeding 30 W; or
+
+b. An “average output power” exceeding 500 W;
+
+Note: X.A.IV.005.e.2.b does not control multiple transverse mode, industrial “lasers” with output power less than or equal to 2 kW with a total mass greater than 1 200 kg. For the purpose of this note, total mass includes all components required to operate the “laser”, e.g., “laser”, power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
+
+f. Non-“tunable” “lasers”, having a wavelength exceeding 1 400 nm, but not exceeding 1 555 nm and having any of the following:
+
+1\. An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+
+2\. An average or CW output power exceeding 1 W;
+
+g. Free electron “lasers”.
+
+Technical Note: For the purpose of X.A.IV.005 “Wall-plug efficiency” is defined as the ratio of “laser” output power (or “average output power”) to total electrical input power required to operate the “laser”, including the power supply/conditioning and thermal conditioning/heat exchanger.
+
+X.A.IV.006 “Magnetometers”, “Superconductive” electromagnetic sensors, and specially designed components therefor, as follows:
+
+a. “Magnetometers”, other than those specified in the CML or in Regulation (EU) 2021/821, having a “sensitivity” lower (better) than 1,0 nT (rms) per square root Hz.
+
+Technical Note: For the purposes of X.A.IV.006.a, “sensitivity” (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
+
+b. “Superconductive” electromagnetic sensors, components manufactured from “superconductive” materials:
+
+1\. Designed for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents (including Josephson effect devices or “superconductive” quantum interference devices (SQUIDS));
+
+2\. Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and
+
+3\. Having any of the following characteristics:
+
+a. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;
+
+b. Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;
+
+c. Designed to function without magnetic shielding in the earth’s ambient magnetic field; or
+
+d. Having a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K.
+
+X.A.IV.007 Gravity meters (gravimeters) for ground use, other than those specified in the CML or in Regulation (EU) 2021/821, as follows:
+
+a. Having a static accuracy of less (better) than 100 μGal; or
+
+b. Being of the quartz element (Worden) type.
+
+X.A.IV.008 Radar systems, equipment and major components, other than those specified in the CML or in Regulation (EU) 2021/821, and specially designed components therefor, as follows:
+
+a. Airborne radar equipment, other than those specified in the CML or in Regulation (EU) 2021/821, and specially designed components therefor;
+
+b. “Space-qualified” “laser” radar or Light Detection and Ranging (LIDAR) equipment specially designed for surveying or for meteorological observation;
+
+c. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:
+
+1\. Operates at a frequency of 94 GHz;
+
+2\. An average output power of less than 20 mW;
+
+3\. Radar beam width of 1 degree; and
+
+4\. Operating range equal to or greater than 1 500 m.
+
+**Technical Notes:**
+
+1\. For the purpose of X.A.IV.008, a “major component” includes any assembled element which forms a portion of an “end item” without which the “end item” is inoperable.
+
+2\. For the purpose of X.A.IV.008, an “end item” is a system, equipment or assembled commodity ready for its intended use.
+
+X.A.IV.009 Specific processing equipment, as follows:
+
+a. Seismic detection equipment not controlled by X.A.IV.009.c;
+
+b. Radiation hardened TV cameras, other than those specified in the CML or in Regulation (EU) 2021/821; or
+
+c. Seismic intrusion detection systems that detect, classify and determine the bearing on the source of a detected signal.
+
+X.B.IV.001 Equipment, including tools, dies, fixtures or gauges, and other specially designed components and accessories therefor, specially designed or modified for any of the following:
+
+a. For the manufacture or inspection of:
+
+1\. Free electron “laser” magnet wigglers;
+
+2\. Free electron “laser” photo injectors;
+
+b. For the adjustment, to required tolerances, of the longitudinal magnetic field of free electron “lasers”.
+
+X.C.IV.001 Optical sensing fibres that are modified structurally to have a “beat length” of less than 500 mm (high birefringence) or optical sensor materials not described in 6C002.b ( 51 ) and having a zinc content of equal to or more than 6 % by “mole fraction”.
+
+Technical Note: For the purpose of X.C.IV.001:
+
+1) “Mole fraction” is defined as the ratio of moles of ZnTe to the sum of the moles of CdTe and ZnTe present in the crystal.
+
+2) “Beat length” is the distance over which two orthogonally polarised signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
+
+X.C.IV.002 Optical materials, as follows:
+
+a. Low optical absorption materials, as follows:
+
+1\. Bulk fluoride compounds containing ingredients with a purity of 99,999 % or better; or
+
+Note: X.C.IV.002.a.1 controls fluorides of zirconium or aluminium and variants.
+
+2\. Bulk fluoride glass made from compounds controlled by 6C004.e.1 ( 52 );
+
+b. “Optical fibre preforms” made from bulk fluoride compounds containing ingredients with a purity of 99,999 % or better, specially designed for the manufacture of “fluoride fibres” controlled by X.A.IV.004.b.
+
+Technical Note: For the purpose of X.C.IV.002:
+
+1) “Fluoride fibres” are fibres manufactured from bulk fluoride compounds.
+
+2) “Optical fibre preforms” are bars, ingots, or rods of glass, plastic or other materials that have been specially processed for use in fabricating optical fibres. The characteristics of the preform determine the basic parameters of the resultant drawn optical fibres.
+
+X.D.IV.001 “Software”, other than those specified in the CML or in Regulation (EU) 2021/821, specially designed for the “development”, “production”, or “use” of goods controlled by 6A002, 6A003 ( 53 ), X.A.IV.001, X.A.IV.006, X.A.IV.007, or X.A.IV.008.
+
+X.D.IV.002 “Software” specially designed for the “development” or “production” of equipment controlled by X.A.IV.002, X.A.IV.004, or X.A.IV.005.
+
+X.D.IV.003 Other “software”, as follows:
+
+a. Air Traffic Control (ATC) “software” application “programs” hosted on general purpose computers located at Air Traffic Control centres, and capable of automatically handing over primary radar target data (if not correlated with secondary surveillance radar (SSR) data) from the host ATC centre to another ATC centre;
+
+b. “Software” specially designed for seismic intrusion detection systems in X.A.IV.009.c; or
+
+c. “Source code” specially designed for seismic intrusion detection systems in X.A.IV.009.c.
+
+X.E.IV.001 “Technology” for the “development”, “production” or “use” of equipment controlled by X.A.IV.001, X.A.IV.006, X.A.IV.007, X.A.IV.008 or X.A.IV.009.c.
+
+X.E.IV.002 “Technology” for the “development” or “production” of equipment, materials or “software” controlled by X.A.IV.002, X.A.IV.004, or X.A.IV.005, X.B.IV.001, X.C.IV.001, X.C.IV.002, or X.D.IV.003.
+
+X.E.IV.003 Other “technology” as follows:
+
+a. Optical fabrication technologies for serially producing optical components at a rate exceeding 10 m2 of surface area per year on any single spindle and having all of the following:
+
+1\. Area exceeding 1 m2; and
+
+2\. Surface figure exceeding λ/10 (rms) at the designed wavelength;
+
+b. “Technology” for optical filters with a bandwidth equal to or less than 10 nm, a field of view (FOV) exceeding 40o and a resolution exceeding 0,75 line pairs per milliradian;
+
+c. “Technology” for the “development” or “production” of cameras controlled by X.A.IV.003;
+
+d. “Technology” “required” for the “development” or “production” of non-triaxial fluxgate “magnetometers” or non-triaxial fluxgate “magnetometer” systems, having any of the following:
+
+1\. “Sensitivity” lower (better) than 0,05 nT (rms) per square root Hz at frequencies of less than 1 Hz; or
+
+2\. “Sensitivity” lower (better) than 1 x 10-3 nT (rms) per square root Hz at frequencies of 1 Hz or more.
+
+e. “Technology” “required” for the “development” or “production” of infrared up-conversion devices having all of the following:
+
+1\. A response in the wavelength range exceeding 700 nm but not exceeding 1 500 nm; and
+
+2\. A combination of an infrared photodetector, light emitting diode (OLED), and nanocrystal to convert infrared light into visible light.
+
+Technical Note: For the purposes of X.E.IV.003, “sensitivity” (or noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
+
+**Category V – Navigation and Avionics**
+
+X.A.V.001 Airborne communication equipment, all “aircraft” inertial navigation systems, and other avionic equipment, including components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+Note 1: X.A.V.001. does not control headsets or microphones.
+
+Note 2: X.A.V.001. does not control goods for the personal use of the natural persons.
+
+X.B.V.001 Other equipment specially designed for the test, inspection, or “production” of navigation and avionics equipment.
+
+X.D.V.001 “Software”, other than specified in the CML or in Regulation (EU) 2021/821, for the “development”, “production”, or “use” of navigation, airborne communication and other avionics.
+
+X.E.V.001 “Technology”, other than specified in the CML or in Regulation (EU) 2021/821, for the “development”, “production” or “use” of navigation, airborne communication, and other avionics equipment.
+
+**Category VI – Marine**
+
+X.A.VI.001 Vessels, marine systems or equipment, and specially designed components therefor, components and accessories as follows:
+
+a. Underwater vision systems, as follows:
+
+1\. Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and specially designed or modified for remote operation with a submersible vehicle; or
+
+2\. Underwater television cameras having a limiting resolution when measured in air of more than 700 lines;
+
+Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
+
+b. Photographic still cameras specially designed or modified for underwater use, having a film format of 35 mm or larger, and having autofocusing or remote focusing specially designed for underwater use;
+
+c. Stroboscopic light systems, specially designed or modified for underwater use, capable of a light output energy of more than 300 J per flash;
+
+d. Other underwater camera equipment, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+e. Marine boilers designed to have any of the following characteristics:
+
+1\. Heat release rate (at maximum rating) equal to or in excess of 1 966,4 kW/m3 of furnace volume; or
+
+2\. Ratio of steam generated in kilogram per hour (at maximum rating) to the dry weight of the boiler in kilograms equal to or in excess of 37,6 ;
+
+f. Vessels (surface or underwater), including inflatable boats, and specially designed components therefor, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+Note: X.A.VI.001.f does not control vessels on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
+
+g. Marine engines (both inboard and outboard) and submarine engines and specially designed components therefor, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+h. Self-contained underwater breathing apparatus (scuba gear) and accessories therefor, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+i. Life jackets, inflation cartridges, dive compasses and dive computers;
+
+Note: X.A.VI.001.i does not control goods for the personal use of the natural persons.
+
+j. Underwater lights and propulsion equipment; or
+
+Note: X.A.VI.001.j does not control goods for the personal use of the natural persons.
+
+k. Air compressors and filtration system specially designed for filling air cylinders.
+
+X.D.VI.001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment controlled by X.A.VI.001.
+
+X.D.VI.002 “Software” specially designed for the operation of unmanned submersible vehicles used in the oil and gas industry.
+
+X.E.VI.001 “Technology” for the “development”, “production” or “use” of equipment controlled by X.A.VI.001.
+
+**Category VII – Aerospace and Propulsion**
+
+X.A.VII.001 Diesel engines, and tractors and specially designed components therefor, other than those specified in the CML or in Regulation (EU) 2021/821:
+
+a. Diesel engines, other than those specified in the CML or in Regulation (EU) 2021/821, for trucks, tractors, and automotive applications, having an overall power output of 298 kW or more.
+
+b. Off highway wheel tractors of carriage capacity 9 tonnes or more; and major components and accessories, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+c. Road tractors for semi-trailers, with single or tandem rear axles rated for 9 tonnes per axel or more and specially designed major components.
+
+Note: X.A.VII.001.b and X.A.VII.001.c do not control vehicles on temporary sojourn, used for private transport or for the transport of passengers or goods from or through the customs territory of the Union.
+
+**Technical Notes:**
+
+1\. For the purpose of X.A.VII.001, a “major component” includes any assembled element which forms a portion of an “end item” without which the “end item” is inoperable.
+
+2\. For the purpose of X.A.VII.001, an “end item” is a system, equipment or assembled commodity ready for its intended use.
+
+X.A.VII.002 Gas turbine engines and components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+a. Not used.
+
+b. Not used.
+
+c. Aero gas turbine engines and components specially designed therefor.
+
+d. Not used.
+
+e. Pressurised aircraft breathing equipment components specially designed therefor, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.A.VII.003 Aircraft engines, other than those specified in X.A.VII.002, the CML or in Regulation (EU) 2021/821, as follows:
+
+a. Reciprocating or rotary internal combustion piston engines; or
+
+b. Electric engines.
+
+Technical Note: For the purpose of X.A.VII.003 aircrafts includes: aeroplanes, UAVs, helicopters, autogyros, hybrid aircrafts or radio-controlled models.
+
+X.B.VII.001 Vibration test equipment and specially designed components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+Note: X.B.VII.001. controls only equipment for the “development” or “production”. It does not control condition monitoring systems.
+
+X.B.VII.002 Specially designed equipment, tooling or fixtures for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows:
+
+a. Automated equipment using non-mechanical methods for measuring airfoil wall thickness;
+
+b. Tooling, fixtures or measuring equipment for the “laser”, water jet or ECM/EDM hole drilling processes controlled by 9E003.c ( 54 );
+
+c. Ceramic core leaching equipment;
+
+d. Ceramic core manufacturing equipment or tools;
+
+e. Ceramic shell wax pattern preparation equipment;
+
+f. Ceramic shell burn out or firing equipment.
+
+X.D.VII.001 “Software”, other than those specified in the CML or in Regulation (EU) 2021/821, for the “development” or “production” of equipment controlled by X.A.VII.001 or X.B.VII.001.
+
+X.D.VII.002 “Software”, for the “development” or “production” of equipment controlled by X.A.VII.002 or X.B.VII.002.
+
+X.E.VII.001 “Technology”, other than those specified in the CML or in Regulation (EU) 2021/821, for the “development” or “production” or “use” of equipment controlled by X.A.VII.001 or X.B.VII.001.
+
+X.E.VII.002 “Technology”, for the “development”, “production” or “use” of equipment controlled by X.A.VII.002 or X.B.VII.002.
+
+X.E.VII.003 Other “technology”, not described by 9E003 ( 55 ), as follows:
+
+a. Rotor blade tip clearance control systems employing active compensating casing “technology” limited to a design and development data base; or
+
+b. Gas bearing for turbine engine rotor assemblies.
+
+X.A.VII.004 Servomotors having a torque-to-weight ratio equal or higher than 0,16 .
+
+**Technical Note:**
+
+The torque-to-weight ratio is computed considering the torque in kgf*cm and the weight in g.
+
+X.A.VII.005 Launch systems for unmanned aerial vehicles (UAVs), and parts thereof, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.A.VII.006 Ground support equipment for unmanned aerial vehicles (UAVs).
+
+X.A.VII.007 ‘Flight termination’ systems and specially designed components therefor.
+
+Note: This control covers digital and analogue communications standards for ‘Flight termination’ systems, including encrypted operational modes.
+
+**Technical Notes:**
+
+1\. For the purpose of this control ‘flight termination’ can involve a controlled descent, self-destruction of the UAV or missile, or detonation of the warhead to minimise the risk of collateral damage.
+
+2\. For the purpose of this control, components include ground and on-board equipment, command exciters, encoders, amplifier controllers, command verification receivers, amplifiers, transmitters, decoders and receivers.
+
+X.D.VII.003 ‘Software’, for the ‘use’ of equipment controlled by X.A.VII.006 or X.A.VII.007.
+
+**Category VIII – Miscellaneous items**
+
+X.A.VIII.001 Equipment for oil production or oil exploration as follows:
+
+a. Drill head integrated measurement equipment, including inertial navigation systems for measurement while drilling (MWD);
+
+b. Gas monitoring systems and detectors therefor, designed for continuous operation and detection of hydrogen sulphide;
+
+c. Equipment for seismological measurements, including reflection seismetics and seismic vibrators;
+
+d. Sediment echo sounders.
+
+X.A.VIII.002 Equipment, “electronic assemblies” and components, specially designed for quantum computers, quantum electronics, quantum sensors, quantum processing units, qubit circuits, qubit devices or quantum radar systems, including pockels cells.
+
+Note 1: Quantum computers perform computations that harness the collective properties of quantum states, such as superposition, interference and entanglement.
+
+Note 2: Units, circuits and devices include but are not limited to superconducting circuits, Quantum annealing, Ion Trap, photonic interaction, silicon/spin, cold atoms.
+
+X.A.VIII.003 Microscopes, related equipment and detectors as follows:
+
+a. Scanning electron microscopes (SEM);
+
+b. Scanning auger microscopes;
+
+c. Transmission electron microscopes (TEM);
+
+d. Atomic force microscopes (AFM);
+
+e. Scanning force microscopes (SFM);
+
+f. Equipment and detectors, specially designed for use with the microscopes specified in X.A.VIII.003.a to X.A.VIII.0003.e, employing any of the following material analysis techniques:
+
+1\. X-ray photo spectroscopy (XPS);
+
+2\. Energy-dispersive X-ray spectroscopy (EDX, EDS); or
+
+3\. Electron spectroscopy for chemical analysis (ESCA).
+
+X.A.VIII.004 Collector equipment for metal ores in deep seabed.
+
+X.A.VIII.005 Manufacturing equipment and machine tools as follows:
+
+a. Additive manufacturing equipment for the “production” of metal parts;
+
+Note: X.A.VIII.005.a only applies to the following systems:
+
+1\. Powder-bed systems using selective laser melting (SLM), laser cusing, direct metal laser sintering (DMLS) or electron beam melting (EBM); or
+
+2\. Powder-fed systems using laser cladding, direct energy deposition or laser metal deposition.
+
+b. Additive manufacturing equipment for “energetic materials”, including equipment using ultrasonic extrusion;
+
+c. Vat photopolymerization (VVP) additive manufacturing equipment using stereo lithography (SLA) or digital light processing (DLP).
+
+X.A.VIII.006 Equipment for the “production” of printed electronics for organic light emitting diodes (OLED), organic field-effect transistors (OFET) or organic photovoltaic cells (OPVC).
+
+X.A.VIII.007 Equipment for the “production” of microelectromechanical systems (MEMS) using the mechanical properties of silicon, including sensors in chip format like pressure membranes, bending beams or micro adjustment devices.
+
+X.A.VIII.008 Equipment, specially designed for the production of E-Fuels (electrofuels and synthetic fuels) or ultra efficient solar cells (efficiency > 30 %).
+
+X.A.VIII.009 Equipment for Ultra-High-Vacuum (UHV) as follows:
+
+a. UHV pumps (sublimation, turbomolecular, diffusion, cryogenic, ion getter);
+
+b. UHV pressure gauges.
+
+Note: UHV means 100 nanoPascals (nPa) or lower.
+
+X.A.VIII.010 “Cryogenic refrigeration systems” designed to maintain temperatures below 1,1 K for 48 hrs or more and related cryogenic refrigeration equipment as follows:
+
+a. Pulse Tubes;
+
+b. Cryostats;
+
+c. Dewars;
+
+d. Gas Handling System (GHS);
+
+e. Compressors; or
+
+f. Control Units.
+
+Note: “Cryogenic refrigeration systems” include but are not limited to Dilution Refrigeration, Adiabatic Demagnisation Refrigerators and Laser Cooling Systems.
+
+X.A.VIII.011 “Decapsulation” equipment for semiconductor devices.
+
+Note: “Decapsulation” is the removal of a cap, lid, or encapsulating material from a packaged integrated circuit by mechanical, thermal, or chemical means.
+
+X.A.VIII.012 High Quantum Efficiency (QE) photodetectors with a QE greater than 80 % in the wavelength range exceeding 400 nm but not exceeding 1 600 nm.
+
+X.AVIII.013 Numerical controlled machine tools, having one or more linear axis with a travel length greater than 8 000 mm.
+
+X.A.VIII.014 Water cannon systems for riot or crowd control, and components specially designed therefor.
+
+Note: X.A.VIII.014 water cannon systems include, for example: vehicles or fixed stations equipped with remotely operated water cannon that are designed to protect the operator from an outside riot with features such as armor, shatter resistant windows, metal screens, bull-bars, or run-flat tires. Components specially designed for water cannons may include, for example: deck gun water nozzles, pumps, reservoirs, cameras, and lights that are hardened or shielded against projectiles, elevating masts for those items, and teleoperation systems for those items.
+
+X.A.VIII.015 Law enforcement striking weapons, including saps, police batons, side handle batons, tonfas, sjamboks, and whips.
+
+X.A.VIII.016 Police helmets and shields; and specially designed components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.A.VIII.017 Law enforcement restraint devices, including leg irons, shackles, and handcuffs; straight jackets; stun cuffs; shock belts; shock sleeves; multipoint restraint devices such as restraint chairs; and specially designed components and accessories, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+Note: X.A.VIII.017 applies to restraint devices used in law enforcement activities. It does not apply to medical devices that are equipped to restrain patient movement during medical procedures. It does not apply to devices that confine memory impaired patients to appropriate medical facilities. It does not apply to safety equipment such as safety belts or child automobile safety seats.
+
+X.A.VIII.018 Oil and gas exploration equipment, “software”, and data, as follows (see List of Items Controlled):
+
+a. Not used.
+
+b. Hydraulic fracturing items, as follows:
+
+1\. Hydraulic fracturing design and analysis “software” and data;
+
+2\. Hydraulic fracturing “proppant”, “fracking fluid”, and chemical additives therefor; or
+
+3\. High pressure pumps.
+
+**Technical Note:**
+
+A “proppant” is a solid material, typically treated sand or man-made ceramic materials, designed to keep an induced hydraulic fracture open, during or following a fracturing treatment. It is added to a “fracking fluid” which may vary in composition depending on the type of fracturing used, and can be gel, foam or slickwater-based.
+
+X.A.VIII.019 Specific processing equipment, as follows (see List of Items Controlled):
+
+a. Ring magnets;
+
+b. Not used.
+
+X.A.VIII.020 Weapons and devices designed for the purpose of riot control or self-protection, as follows:
+
+a. Portable electric discharge weapons that can target only one individual each time an electric shock is administered, including but not limited to electric shock batons, electric shock shields, stun guns and electric shock dart guns;
+
+b. Kits containing all essential components for assembly of portable electric discharge weapons controlled by item X.A.VIII.020.a; or
+
+Note: The following goods are considered to be essential components:
+
+1\. The unit producing an electric shock;
+
+2\. The switch, whether or not on a remote control; and
+
+3\. The electrodes or, where applicable, the wires through which the electrical shock is to be administered.
+
+c. Fixed or mountable electric discharge weapons that cover a wide area and can target multiple individuals with electrical shocks.
+
+X.A.VIII.021 Weapons and equipment disseminating incapacitating or irritating chemical substances for the purpose of riot control or self-protection and certain related substances, as follows:
+
+a. Portable weapons and equipment which either administer a dose of an incapacitating or irritating chemical substance that targets one individual or disseminate a dose of such substance affecting a small area, e.g. in the form of a spray fog or cloud, when the chemical substance is administered or disseminated;
+
+Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+Note 2: This item does not control individual portable equipment, even if containing a chemical substance, when accompanying their user for the user’s own personal protection.
+
+Note 3: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+
+b. Pelargonic acid vanillylamide (PAVA) (CAS 2444-46-4);
+
+c. Oleoresin capsicum (OC) (CAS 8023-77-6);
+
+d. Mixtures containing at least 0,3 % by weight of PAVA or OC and a solvent (such as ethanol, 1-propanol or hexane), which could be administered as such as incapacitating or irritating agents, in particular in aerosols and in liquid form, or used for manufacturing of incapacitating or irritating agents;
+
+Note 1: This item does not control sauces and preparations therefor, soups or preparations therefor and mixed condiments or seasonings, provided that PAVA or OC is not the only constituent flavour in them.
+
+Note 2: This item does not control medicinal products for which a marketing authorisation has been granted in accordance with Union law.
+
+e. Fixed equipment for the dissemination of incapacitating or irritating chemical substances, which can be attached to a wall or to a ceiling inside a building, comprises a canister of irritating or incapacitating chemical agents and is activated using a remote control system;
+
+Note: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+
+f. Fixed or mountable equipment for the dissemination of incapacitating or irritating chemical agents that covers a wide area and is not designed to be attached to a wall or to a ceiling inside a building;
+
+Note 1: This item does not control equipment controlled by item ML7(e) of the CML of the European Union.
+
+Note 2: In addition to relevant chemical substances, such as riot control agents or PAVA, the goods controlled by items X.A.VIII.021.c and X.A.VIII.021.d shall be deemed to be incapacitating or irritating chemical substances.
+
+g. Other irritating chemical substances, and mixtures thereof containing at least 0,3 % by weight of the active substance, as follows:
+
+1\. Dibenzo[b,f][1,4]oxazepine (CR) (CAS 257-07-8);
+
+2\. 8-Methyl-N-vanillyl-trans-6-nonenamide (capsaicin) (CAS 404-86-4);
+
+3\. 8-Methyl-N-vanillylnonamide (dihydrocapsaicin) (CAS 19408-84-5);
+
+4\. N-Vanillyl-9-methyldec-7-(E)-enamide (homocapsaicin) (CAS 58493-48-4);
+
+5\. N-Vanillyl-9-methyldecanamide (homodihydrocapsaicin) (CAS 20279-06-5);
+
+6\. N-Vanillyl-7-methyloctanamide (nordihydrocapsaicin) (CAS 28789-35-7);
+
+7\. 4-Nonanolylmorpholine (MPA) (CAS 5299-64-9);
+
+8\. Cis-4-acetylaminodicyclohexylmethane (CAS 37794-87-9);
+
+9\. N,N′-Bis(isopropyl)ethylenediimine; or
+
+10\. N,N′-Bis(tert-butyl)ethylenediimine.
+
+h. Chemical precursors to Riot Control Agents (RCAs) or irritating substances, as follows:
+
+1\. Malononitril (CAS 109-77-3);
+
+2\. 2-Chlorobenzaldehyde (CAS 89-98-5);
+
+3\. 2-Chlorobenzyl alcohol (CAS 17849-38-6);
+
+4\. 2-Chlorobenzylamine (CAS 89-97-4);
+
+5\. 1-Chloro-2-(dimethoxymethyl)-benzene (CAS 70380-66-4);
+
+6\. Acetophenone (CAS 98-86-2);
+
+7\. Chloroacetyl chloride (CAS 79-04-9); or
+
+8\. 2-Aminophenol (CAS 95-55-6).
+
+X.A.VIII.022 Products which could be used for the execution of human beings by means of lethal injection, as follows:
+
+a. Short and intermediate acting barbiturate anaesthetic agents including, but not limited to:
+
+1\. Amobarbital (CAS 57-43-2);
+
+2\. Amobarbital sodium salt (CAS 64-43-7);
+
+3\. Pentobarbital (CAS 76-74-4);
+
+4\. Pentobarbital sodium salt (CAS 57-33-0);
+
+5\. Secobarbital (CAS 76-73-3);
+
+6\. Secobarbital sodium salt (CAS 309-43-3);
+
+7\. Thiopental (CAS 76-75-5); or
+
+8\. Thiopental sodium salt (CAS 71-73-8), also known as thiopentone sodium;
+
+b. Products containing one of the anaesthetic agents listed under X.A.VIII.022.a.
+
+X.A.VIII.023 Nettings, canopies, tents, blankets, and apparel (including tactical clothing, footwear, vests, carrying systems, and related accessories), specially designed or suitable for use in military combat, field operations, or for camouflage purposes.
+
+X.A.VIII.024 “All-terrain vehicles”.
+
+**Technical Note:**
+
+“All-terrain vehicles” means any motorised vehicle designed to travel on three or four low pressure (less than 0,9 bar gauge pressure) tires on unpaved surfaces, typically having a seat designed to be straddled by the operator and handlebars for steering control. “All-terrain vehicles” may include, for example, quad bikes, off-road vehicles, utility terrain vehicles.
+
+X.B.VIII.001 Specific processing equipment, as follows (see List of Items Controlled):
+
+a. Hot cells; or
+
+b. Glove boxes suitable for use with radioactive materials.
+
+X.C.VIII.001 Metal powders and metal alloy powders, usable for any of the systems listed in X.A.VIII.005.a.
+
+X.C.VIII.002 Advanced materials as follows:
+
+a. Materials for cloaking or adaptive camouflage;
+
+b. Metamaterials, e.g. with a negative refractive index;
+
+c. Not used;
+
+d. High entropy alloys (HEA);
+
+e. Heusler compounds; or
+
+f. Kitaev materials, including kitaev spin liquids.
+
+X.C.VIII.003 Conjugated polymers (conductive, semiconductive, electroluminescent) for printed or organic electronics.
+
+X.C.VIII.004 Energetic materials as follows and mixtures thereof:
+
+a. Ammonium picrate (CAS 131-74-8);
+
+b. Black powder;
+
+c. Hexanitrodiphenylamine (CAS 131-73-7);
+
+d. Difluoroamine (CAS 10405-27-3);
+
+e. Nitrostarch (CAS 9056-38-6);
+
+f. Not used;
+
+g. Tetranitronaphthalene;
+
+h. Trinitroanisole;
+
+i. Trinitronaphthalene;
+
+j. Trinitroxylene;
+
+k. N-pyrrolidinone; 1-methyl-2-pyrrolidinone (CAS 872-50-4);
+
+l. Dioctylmaleate (CAS 142-16-5);
+
+m. Ethylhexylacrylate (CAS 103-11-7);
+
+n. Triethylaluminium (TEA) (CAS 97-93-8), trimethylaluminium (TMA) (CAS 75-24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;
+
+o. Nitrocellulose (CAS 9004-70-0);
+
+p. Nitroglycerin (or glyceroltrinitrate, trinitroglycerine) (NG) (CAS 55-63-0);
+
+q. 2,4,6-trinitrotoluene (TNT) (CAS 118-96-7);
+
+r. Ethylenediaminedinitrate (EDDN) (CAS 20829-66-7);
+
+s. Pentaerythritoltetranitrate (PETN) (CAS 78-11-5);
+
+t. Lead azide (CAS 13424-46-9), normal lead styphnate(CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes;
+
+u. Not used;
+
+v. Not used;
+
+w. Diethyldiphenylurea (CAS 85-98-3); dimethyldiphenylurea (CAS 611-92-7); methylethyldiphenyl urea.
+
+x. N,N-diphenylurea (unsymmetrical diphenylurea) (CAS 603-54-3);
+
+y. Methyl-N,N-diphenylurea (methyl unsymmetrical diphenylurea) (CAS 13114-72-2);
+
+z. Ethyl-N,N-diphenylurea (ethyl unsymmetrical diphenylurea) (CAS 64544-71-4);
+
+aa. Not used;
+
+bb. 4-Nitrodiphenylamine (4-NDPA)(CAS 836-30-6);
+
+cc. 2,2-dinitropropanol (CAS 918-52-5); or
+
+dd. Not used.
+
+X.C.VIII.005 Precursors and constituent chemicals for propellants, and related auxiliary agents, as follows:
+
+a. Toluene Diisocyanate, in any isomeric form (CAS 584-84-9, 91-08-7, 26471-62-5);
+
+b. Methyl Diphenyl Diisocyanate (CAS 101-68-8);
+
+c. Isophorone Diisocyanate (CAS 4098-71-9);
+
+d. Xylidine in any isomeric form (CAS 87-59-2, 95-68-1, 95-78-3, 87-62-7, 95-63-6 or 108-69-0);
+
+e. Hydroxy Terminated Polyether (HTPE);
+
+f. Hydroxy Terminated Caprolactone Ether (HTCE);
+
+g. Methyl trichlorosilane (CAS 75-79-6);
+
+h. Auxiliary agents as follows:
+
+1\. Ethylenediaminetetraacetic acid (EDTA) (CAS 60-00-4);
+
+2\. Disodium salt of EDTA (CAS 139-33-3 and CAS 6381-92-6); or
+
+3\. Tetrasodium salt of EDTA (CAS 64-02-8).
+
+**Technical Note:**
+
+This item refers to pure substance and any mixture containing at least 50 % of one of the chemicals mentioned above.
+
+X.D.VIII.001 “Software”, specially designed for the “development”, “production” or “use” of equipment specified in X.A.VIII.005 to X.A.VIII.0013.
+
+X.D.VIII.002 “Software”, specially designed for the “development”, “production” or “use” of equipment, “electronic assemblies” or components specified in X.A.VIII.002.
+
+X.D.VIII.003 “Software” for digital twins of additive manufacturing products or for the determination of the reliability of additive manufacturing products.
+
+X.D.VIII.004 “Software” specially designed for the “development,” “production” or “use” of commodities controlled by X.A.VIII.014.
+
+X.D.VIII.005 Specific “software”, as follows (see List of Items Controlled):
+
+a. “Software” for neutronic calculations/modeling;
+
+b. “Software” for radiation transport calculations/modeling; or
+
+c. “Software” for hydrodynamic calculations/modeling.
+
+X.E.VIII.001 “Technology” for the “development”, “production” or “use” of equipment specified in X.A.VIII.001 to X.A.VIII.0013.
+
+X.E.VIII.002 “Technology” for the “development”, “production” or “use” of materials specified in X.C.VIII.002 or X.C.VIII.003
+
+X.E.VIII.003 “Technology” for digital twins of additive manufacturing products, for the determination of the reliability of additive manufacturing products or for “software” specified in X.D.VIII.003.
+
+X.E.VIII.004 “Technology” for the “development”, “production” or “use” of “software” specified in X.D.VIII.001 to X.D.VIII.002.
+
+X.E.VIII.005 “Technology” “required” for the “development” or “production” of commodities controlled by X.A.VIII.014.
+
+X.E.VIII.006 “Technology” exclusively for the “development” or “production” of equipment controlled by X.A.VIII.017.
+
+**Category IX – Special Materials and Related Equipment**
+
+X.A.IX.001 Chemical agents, including tear gas formulation containing 1 % or less of orthochlorobenzalmalononitrile (CS), or 1 % or less of chloroacetophenone (CN), except in individual containers with a net weight of 20 g or less; liquid pepper except when packaged in individual containers with a net weight of 85,05 g or less; smoke bombs; non-irritant smoke flares, canisters, grenades and charges; and other pyrotechnic articles having dual military and commercial use, and components specially designed therefor, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.A.IX.002 Fingerprinting powders, dyes, and inks.
+
+X.A.IX.003 Protective and detection equipment not specially designed for military use and not controlled by 1A004 or 2B351 ( 56 ), as follows (see List of Items Controlled), and components not specially designed for military use and not controlled by 1A004 or 2B351 therefor:
+
+a. Personal radiation monitoring dosimeters; or
+
+b. Equipment limited by design or function to protect against hazards specific to civil industries, such as mining, quarrying, agriculture, pharmaceuticals, medical, veterinary, environmental, waste management, or to the food industry.
+
+Note: X.A.IX.003 does not control items for protection against chemical or biological agents that are consumer goods, packaged for retail sale or personal use, or medical products, such as latex exam gloves, latex surgical gloves, liquid disinfectant soap, disposable surgical drapes, surgical gowns, surgical foot covers, and surgical masks.
+
+X.A.IX.004 Specific processing equipment, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. Radiation detection, monitoring and measurement equipment, other than those specified in the CML or in Regulation (EU) 2021/821; or
+
+b. Radiographic detection equipment such as X-ray converters, and storage phosphor image plates.
+
+X.B.IX.001 Specific processing equipment, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. Electrolytic cells for fluorine production, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+b. Particle accelerators;
+
+c. Industrial process control hardware/systems designed for power industries, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+d. Freon and chilled water cooling systems capable of continuous cooling duties of 29,3 kW/hr or greater; or
+
+e. Equipment for the production of structural composites, fibres, prepregs and preforms.
+
+X.C.IX.001 Separate chemically defined compounds according to Note 1 to Chapters 28 and 29 of the Combined Nomenclature:
+
+a. In concentrations of 95 % weight or greater, as follows:
+
+1\. Ethylene dichloride (CAS 107-06-2);
+
+2\. Nitromethane (CAS 75-52-5);
+
+3\. Picric acid (CAS 88-89-1);
+
+4\. Aluminium chloride (CAS 7446-70-0);
+
+5\. Arsenic (CAS 7440-38-2);
+
+6\. Arsenic trioxide (CAS 1327-53-3);
+
+7\. Bis(2-chloroethyl)ethylamine hydrochloride (CAS 3590-07-6);
+
+8\. Bis(2-chloroethyl)methylamine hydrochloride (CAS 55-86-7);
+
+9\. Tris(2-chloroethyl)amine hydrochloride (CAS 817-09-4);
+
+10\. Tributylphosphite (CAS 102-85-2);
+
+11\. Isocyanatomethane (CAS 624-83-9);
+
+12\. Quinaldine (CAS 91-63-4);
+
+13\. 2-bromochloroethane (CAS 107-04-0);
+
+14\. Benzil (CAS 134-81-6);
+
+15\. Diethyl ether (CAS 60-29-7);
+
+16\. Dimethyl ether (CAS 115-10-6);
+
+17\. Dimethylaminoethanol (CAS 108-01-0);
+
+18\. 2-methoxyethanol (CAS 109-86-4);
+
+19\. Butyrylcholinesterase (BCHE);
+
+20\. Diethylenetriamine (CAS 111-40-0);
+
+21\. Dichloromethane (CAS 75-09-2);
+
+22\. Dimethylaniline (CAS 121-69-7);
+
+23\. Ethyl bromide (CAS 74-96-4);
+
+24\. Ethyl chloride (CAS 75-00-3);
+
+25\. Ethylamine (CAS 75-04-7);
+
+26\. Hexamine (CAS 100-97-0);
+
+27\. Isopropanol (CAS 67- 63-0);
+
+28\. Isopropyl bromide (CAS 75-26-3);
+
+29\. Isopropyl ether (CAS 108-20-3);
+
+30\. Methylamine (CAS 74-89-5);
+
+31\. Methyl bromide (CAS 74-83-9);
+
+32\. Monoisopropylamine (CAS 75-31-0);
+
+33\. Obidoxime chloride (CAS 114-90-9);
+
+34\. Potassium bromide (CAS 7758-02-3);
+
+35\. Pyridine (CAS 110-86-1);
+
+36\. Pyridostigmine bromide (CAS 101-26-8);
+
+37\. Sodium bromide (CAS 7647-15-6);
+
+38\. Sodium metal (CAS 7440-23-5);
+
+39\. Tributylamine (CAS 102-82-9);
+
+40\. Triethylamine (CAS 121-44-8); or
+
+41\. Trimethylamine (CAS 75-50-3).
+
+b. In concentrations of 90 % weight or greater, as follows:
+
+1\. Acetone (CAS 67-64-1);
+
+2\. Acetylene (CAS 74-86-2);
+
+3\. Ammonia (CAS 7664-41-7);
+
+4\. Antimony (CAS 7440-36-0);
+
+5\. Benzaldehyde (CAS 100-52-7);
+
+6\. Benzoin (CAS 119-53-9);
+
+7\. 1-Butanol (CAS 71-36-3);
+
+8\. 2-Butanol (CAS 78-92-2);
+
+9\. Iso-Butanol (CAS 78-83-1);
+
+10\. Tert-Butanol (CAS 75-65-0);
+
+11\. Calcium carbide (CAS 75-20-7);
+
+12\. Carbon monoxide (CAS 630-08-0);
+
+13\. Chlorine (CAS 7782-50-5);
+
+14\. Cyclohexanol (CAS 108-93-0);
+
+15\. Dicyclohexylamine (CAS 101-83-7);
+
+16\. Ethanol (CAS 64-17-5);
+
+17\. Ethylene (CAS 74-85-1);
+
+18\. Ethylene oxide (CAS 75-21-8);
+
+19\. Fluoroapatite (CAS 1306-05-4);
+
+20\. Hydrogen chloride (CAS 7647-01-0);
+
+21\. Hydrogen sulfide (CAS 7783-06-4);
+
+22\. Mandelic acid (CAS 90-64-2);
+
+23\. Methanol (CAS 67-56-1);
+
+24\. Methyl chloride (CAS 74-87-3);
+
+25\. Methyl iodide (CAS 74-88-4);
+
+26\. Methyl mercaptan (CAS 74-93-1);
+
+27\. Monoethyleneglycol (CAS 107-21-1);
+
+28\. Oxalyl chloride (CAS 79-37-8);
+
+29\. Potassium sulphide (CAS 1312-73-8);
+
+30\. Potassium thiocyanate (CAS 333-20-0);
+
+31\. Sodium hypochlorite (CAS 7681-52-9);
+
+32\. Sulphur (CAS 7704-34-9);
+
+33\. Sulphur dioxide (CAS 7446-09-5);
+
+34\. Sulphur trioxide (CAS 7446-11-9);
+
+35\. Thiophosphoryl chloride (CAS 3982-91-0);
+
+36\. Tri-isobutyl phosphite (CAS 1606-96-8);
+
+37\. White phosphorus (CAS 12185-10-3);
+
+38\. Yellow phosphorus (CAS 7723-14-0);
+
+39\. Mercury (CAS 7439-97-6);
+
+40\. Barium chloride (CAS 10361-37-2);
+
+41\. Sulphuric acid (CAS 7664-93-9);
+
+42\. 3,3-dimethyl-1-butene (CAS 558-37-2);
+
+43\. 2,2-dimethylpropanal (CAS 630-19-3);
+
+44\. 2,2-dimethylpropylchloride (CAS 753-89-9);
+
+45\. 2-methylbutene (CAS 26760-64-5);
+
+46\. 2-chloro-3-methylbutane (CAS 631-65-2);
+
+47\. 2,3-dimethyl-2,3-butanediol (CAS 76-09-5);
+
+48\. 2-methyl-2-butene (CAS 513-35-9);
+
+49\. Butyl lithium (CAS 109-72-8);
+
+50\. Bromo(methyl)magnesium (CAS 75-16-1);
+
+51\. Formaldehyde (CAS 50-00-0);
+
+52\. Diethanolamine (CAS 111-42-2);
+
+53\. Dimethylcarbonate (CAS 616-38-6);
+
+54\. Methyldiethanolamine hydrochloride (CAS 54060-15-0);
+
+55\. Diethylamine hydrochloride (CAS 660-68-4);
+
+56\. Diisopropylamine hydrochloride (CAS 819-79-4);
+
+57\. 3-Quinuclidinone hydrochloride (CAS 1193-65-3);
+
+58\. 3-Quinuclidinol hydrochloride (CAS 6238-13-7);
+
+59\. (R)-3- Quinuclidinol hydrochloride (CAS 42437-96-7);
+
+60\. N,N-Diethylaminoethanol hydrochloride (CAS 14426-20-1);
+
+61\. Dialkyl(≤C10) chlorophosphates;
+
+62\. Dialkyl(≤C10) fluorophosphates;
+
+63\. N,N-Methylisopropylacetamidine (CAS 1339185-57-7);
+
+64\. N,N-Methylethylacetamidine (CAS 1339632-40-4);
+
+65\. N,N-Ethylisopropylacetamidine(CAS 1339156-10-3);
+
+66\. N,N-Methylpropylacetamidine(CAS 1344238-28-3);
+
+67\. N,N-Ethylpropylacetamidine(CAS 1339737-43-7);
+
+68\. N,N-Isopropylpropylacetamidine(CAS 1341389-98-7);
+
+69\. N,N-Methylethylpropanamidine (CAS 1339424-26-8);
+
+70\. N,N-Ethylisopropylpropanamidine (CAS 1344354-09-1);
+
+71\. N,N-Methylpropylpropanamidine (CAS 1340216-25-2);
+
+72\. N,N-Ethylpropylpropanamidine (CAS 1341493-60-4);
+
+73\. N,N-Isopropylpropylpropanamidine (CAS 1343225-93-3);
+
+74\. N,N-Methylisopropylpropanamidine (CAS 1339042-55-5);
+
+75\. N,N-Methylethylbutanamidine (CAS 1341049-51-1);
+
+76\. N,N-Methylpropylbutanamidine (CAS 1343721-02-7);
+
+77\. N,N-Ethylpropylbutanamidine (CAS 1343806-12-1);
+
+78\. N,N-Isopropylpropylbutanamidine (CAS 1343316-02-8);
+
+79\. N,N-Methylisopropylbutanamidine (CAS 1340219-94-4);
+
+80\. N,N-Ethylisopropylbutanamidine (CAS 1342204-10-7);
+
+81\. N,N-Methylethylisobutanamidine (CAS 1342365-47-2);
+
+82\. N,N-Ethylpropylisobutanamidine (CAS 1342566-58-8);
+
+83\. N,N-Methylpropylisobutanamidine (CAS 1342270-21-6);
+
+84\. N,N-Isopropylpropylisobutanamidine (CAS 1342156-11-9);
+
+85\. N,N-Methylisopropylisobutanamidine (CAS 1341992-96-8);
+
+86\. N,N-Ethylisopropylisobutanamidine (CAS 1339048-76-8);
+
+87\. N,N-Dimethylacetamidine hydrobromide (CAS 1801188-12-4);
+
+88\. N,N-Dimethylacetamidine hydrochloride (CAS 2909-15-1);
+
+89\. N,N-Diethylacetamidine hydrochloride (CAS 91400-32-7);
+
+90\. N,N-Diethylacetamidine hydrobromide (CAS 78053-54-0);
+
+91\. N,N-Dimethylpropanamidine dihydrochloride (CAS 79972-73-9); or
+
+92\. N,N-Dimethylpropanamidine hydrochloride (CAS 56776-15-9); or
+
+93\. Chloroform (CAS 67-66-3).
+
+X.C.IX.002 Fentanyl and its derivatives Alfentanil, Sufentanil, Remifentanil, Carfentanil, and salts thereof.
+
+Note: X.C.IX.002 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use.
+
+X.C.IX.003 Chemical precursors to Central Nervous System Acting Chemicals, as follows:
+
+a. 4-anilino-N-phenethylpiperidine (CAS 21409-26-7); or
+
+b. N-phenethyl-4-piperidone (CAS 39742-60-4).
+
+**Notes:**
+
+1\. X.C.IX.003 does not control “chemical mixtures” containing one or more of the chemicals specified in entry X.C.IX.003 in which no individually specified chemical constitutes more than 1 % by the weight of the mixture.
+
+2\. X.C.IX.003 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use.
+
+X.C.IX.004 Fibrous and filamentary materials, not controlled by 1C010 or 1C210 ( 57 ), for use in “composite” structures and with a specific modulus of 3,18 x 106 m or greater and a specific tensile strength of 7,62 x 104 m or greater.
+
+X.C.IX.005 “Vaccines”, “immunotoxins”, “medical products”, “diagnostic and food testing kits”, as follows (see List of Items controlled):
+
+a. “Vaccines” containing, or designed for use against, items controlled by 1C351, 1C353 or 1C354;
+
+b. “Immunotoxins” containing items controlled by 1C351.d; or
+
+c. “Medical products” that contain any of the following:
+
+1\. “Toxins” controlled by 1C351.d (except for botulinum toxins controlled by 1C351.d.1, conotoxins controlled by 1C351.d.3, or items controlled for CW reasons under 1C351.d.4 or .d.5); or
+
+2\. Genetically modified organisms or genetic elements controlled by 1C353.a.3 (except for those that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3);
+
+d. “Medical products” not controlled by X.C.IX.005.c that contain any of the following:
+
+1\. Botulinum toxins controlled by 1C351.d.1;
+
+2\. Conotoxins controlled by 1C351.d.3; or
+
+3\. Genetically modified organisms or genetic elements controlled by 1C353.a.3 that contain, or code for, botulinum toxins controlled by 1C351.d.1 or conotoxins controlled by 1C351.d.3; or
+
+e. “Diagnostic and food testing kits” containing items controlled by 1C351.d (except for items controlled for CW reasons under 1C351.d.4 or .d.5).
+
+**Technical Notes:**
+
+1\. “Medical products” are: (1) pharmaceutical formulations designed for testing and human (or veterinary) administration in the treatment of medical conditions, (2) prepackaged for distribution as clinical or medical products, and (3) approved by the European Medicines Agency (EMA) either to be marketed as clinical or medical products or for use as research new drug.
+
+2\. “Diagnostic and food testing kits” are specifically developed, packaged and marketed for diagnostic or public health purposes. Biological toxins in any other configuration, including bulk shipments, or for any other end-uses are controlled by 1C351.
+
+X.C.IX.006 Commercial charges and devices containing energetic materials, other than those specified in the CML or in Regulation (EU) 2021/821, and nitrogen trifluoride in a gaseous state (see List of Items Controlled):
+
+a. Shaped charges specially designed for oil well operations, utilizing one charge functioning along a single axis, that upon detonation produce a hole, and
+
+1\. Contain any formulation of “controlled materials”;
+
+2\. Have only a uniform shaped conical liner with an included angle of 90 degrees or less;
+
+3\. Contain more than 0,010 kg but less than or equal to 0,090 kg of “controlled materials”; and
+
+4\. Have a diameter not exceeding 114,3 cm;
+
+b. Shaped charges specially designed for oil well operations containing less than or equal to 0,010 kg of “controlled materials”;
+
+c. Detonation cord or shock tubes containing less than or equal to 0,064 kg/m of “controlled materials”;
+
+d. Cartridge power devices, that contain less than or equal to 0,70 kg of “controlled materials” in the deflagration material;
+
+e. Detonators (electric or nonelectric) and assemblies thereof, that contain less than or equal to 0,01 kg of “controlled materials”;
+
+f. Igniters, that contain less than or equal to 0,01 kg of “controlled materials”;
+
+g. Oil well cartridges, that contain less than or equal to 0,015 kg of controlled “energetic materials”;
+
+h. Commercial cast or pressed boosters containing less than or equal to 1,0 kg of “controlled materials”;
+
+i. Commercial prefabricated slurries and emulsions containing less than or equal to 10,0 kg and less than or equal to 35 % by weight of ML8 “controlled materials”;
+
+j. Cutters and severing tools containing less than or equal to 3,5 kg of “controlled materials”;
+
+k. Pyrotechnic devices when designed exclusively for commercial purposes (e.g., theatrical stages, motion picture special effects, and fireworks displays) and containing less than or equal to 3,0 kg of “controlled materials”;
+
+l. Other commercial explosive devices and charges not controlled by X.C.IX.006.a through .k containing less than or equal to 1,0 kg of “controlled materials”; or
+
+Note: X.C.IX.006.l includes automotive safety devices; extinguishing systems; cartridges for riveting guns; explosive charges for agricultural, oil and gas operations, sporting goods, commercial mining, or public works purposes; and delay tubes used in the assembly of commercial explosive devices.
+
+m. Nitrogen trifluoride (NF3) in a gaseous state.
+
+**Notes:**
+
+1\. “Controlled materials” means controlled energetic materials (see 1C011, 1C111, 1C239 or ML8).
+
+2\. Nitrogen trifluoride when not in a gaseous state is controlled under ML8.d by the CML.
+
+X.C.IX.007 Mixtures not controlled by 1C350 or 1C450 ( 58 ) that contain chemicals controlled by 1C350 or 1C450 and medical, analytical, diagnostic, and food testing kits not controlled by 1C350 or 1C450 that contain chemicals controlled by 1C350, as follows (see List of Items Controlled):
+
+a. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350:
+
+1\. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C350;
+
+2\. Mixtures containing less than 30 %, by weight, of:
+
+a. Any single CWC Schedule 3 chemical controlled by 1C350; or
+
+b. Any single non-CWC precursor chemical controlled by 1C350;
+
+b. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450:
+
+1\. Mixtures containing the following concentrations of CWC Schedule 2 chemicals controlled by 1C450:
+
+a. Mixtures containing 1 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.a.1 and a.2 (i.e., mixtures containing Amiton or PFIB); or
+
+b. Mixtures containing 10 % or less, by weight, of any single CWC Schedule 2 chemical controlled by 1C450.b.1, b.2, b.3, b.4, b.5, or b.6;
+
+2\. Mixtures containing less than 30 %, by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, a.5., a.6., a.7, or 1C450.b.8;
+
+c. “Medical, analytical, diagnostic, and food testing kits” that contain precursor chemicals controlled by 1C350 in an amount not exceeding 300 grams per chemical.
+
+**Technical Note:**
+
+For the purpose of this entry, “medical, analytical, diagnostic, and food testing kits” are pre-packaged materials of defined composition that are specifically developed, packaged and marketed for medical, analytical, diagnostic, or public health purposes. Replacement reagents for medical, analytical, diagnostic, and food testing kits described in X.C.IX.007.c are controlled by 1C350 if the reagents contain at least one of the precursor chemicals identified in that entry in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.
+
+X.C.IX.008 Non-fluorinated polymeric substances, not controlled by 1C008 ( 59 ), as follows (see List of Items Controlled):
+
+a. Polyarylene ether ketones, as follows:
+
+1\. Polyether ether ketone (PEEK);
+
+2\. Polyether ketone ketone (PEKK);
+
+3\. Polyether ketone (PEK); or
+
+4\. Polyether ketone ether ketone ketone (PEKEKK);
+
+b. Not used.
+
+X.C.IX.009 Specific materials, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. Hardened steel and tungsten carbide precision ball bearings (3 mm or greater diameter);
+
+b. 304 and 316 stainless steel plate, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+c. Monel plate;
+
+d. Tributyl phosphate (CAS 126-73-8);
+
+e. Nitric acid (CAS 7697-37-2) in concentrations of 20 % weight or greater;
+
+f. Fluorine (CAS 7782-41-4); or
+
+g. Alpha-emitting radionuclides, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.C.IX.010 Aromatic polyamides (aramids) not controlled by 1C010, 1C210 or X.C.IX.004, presented in any of the following forms (see List of Items Controlled):
+
+a. Primary forms;
+
+b. Filament yarn or monofilaments;
+
+c. Filament tows;
+
+d. Rovings;
+
+e. Staple or chopped fibres;
+
+f. Fabrics;
+
+g. Pulp or flocks.
+
+X.C.IX.011 Nanomaterials as follows (see List of Items Controlled):
+
+a. Semiconductor nanomaterials;
+
+b. Composite-based nanomaterials; or
+
+c. Any of the following carbon-based nanomaterials:
+
+1\. Carbon nanotubes;
+
+2\. Carbon nanofibres;
+
+3\. Fullerenes;
+
+4\. Graphenes; or
+
+5\. Carbon onions.
+
+Notes: For the purpose of X.C.IX.011, nanomaterial means a material that meets at least one of the following criteria:
+
+1\. Consists of particles, with one or more external dimensions in the size range 1 – 100 nm for more than 1 % of their number size distribution;
+
+2\. Has internal or surface structures in one or more dimensions in the size range 1 – 100 nm; or
+
+3\. Has a specific surface area by volume greater than 60 m2/cm3, excluding materials consisting of particles with a size lower than 1 nm.
+
+X.C.IX.012 Rare-earth metals and compounds, either in organic or inorganic form, including mixtures whether or not intermixed or interalloyed.
+
+Note 1: Rare-earth metals and compounds include Scandium, Yttrium, Lanthanum, Cerium, Praseodymium, Neodymium, Promethium, Samarium, Europium, Gadolinium, Terbium, Dysprosium, Holmium, Erbium, Thulium, Ytterbium and Lutetium;
+
+Note 2: For the purpose of the control X.C.IX.012 minerals containing rare-earth metals are excluded;
+
+Note 3: X.C.IX.012 does not control mixtures in which no individually metal or compound specified in this entry constitutes more than 5 % by the weight of the mixture.
+
+X.C.IX.013 Tungsten, tungsten carbide and alloys, not controlled by 1C117 or 1C226 ( 60 ), containing more than 90 % tungsten by weight.
+
+Note 1: For the purpose of the control X.C.IX.013, wire is excluded;
+
+Note 2: For the purpose of the control X.C.IX.013, surgical or medical instruments are excluded.
+
+X.C.IX.014 Lithium and lithium compounds, as follows:
+
+a. Lithium (CAS 7439-93-2);
+
+b. Lithium carbonate (CAS 554-13-2);
+
+c. Lithium hydroxide (CAS 1310-65-2 and CAS 1310-66-3);
+
+d. Lithium oxide (CAS 12057-24-8);
+
+e. Lithium cobalt oxide (CAS 12190-79-3);
+
+f. Lithium iron phosphate (CAS 15365-14-7);
+
+g. Lithium manganese oxide (CAS 12057-17-9);
+
+h. Lithium nickel manganese cobalt oxide (CAS 346417-97-8); or
+
+i. Lithium titanate (CAS 12031-82-2).
+
+X.C.IX.015 Ultra-High-Molecular-Weight Polyethylene (UHMWPE), not controlled by 1C010 or 1C210 ( 61 ), presented in any of the following forms:
+
+a. Primary forms;
+
+b. Filament yarn or monofilaments;
+
+c. Filament tows;
+
+d. Rovings;
+
+e. Staple or chopped fibres;
+
+f. Fabrics;
+
+g. Pulp or flocks.
+
+X.C.IX.016 Molybdenum and alloys, not controlled by 1C117 ( 62 ), containing more than 90 % molybdenum by weight.
+
+Note: For the purpose of the control X.C.IX.016, surgical or medical instruments are excluded.
+
+X.C.IX.017 Lubricating materials, fluids and additives thereof, not controlled by 1C006, as follows:
+
+a. Lubricating oils having all the following characteristics:
+
+1\. A ‘pour point’ equal or less than 218,15 K (- 55 oC); and
+
+2\. A ‘flash point’ equal or higher than 478,15 K (205 oC);
+
+**Technical Notes:**
+
+1\. For the purpose of the control X.C.IX.017, ‘pour point’ is determined using the method described in ISO 3016 or ‘equivalent standards’.
+
+2\. For the purpose of the control X.C.IX.017, ‘flash point’ is determined using the method described in ISO 2592 or ‘equivalent standards’.
+
+b. Lubricating greases having all the following characteristics:
+
+1\. A minimum operating temperature of less than 233,15 K (- 40 oC);
+
+2\. A maximum operating temperature exceeding 413,15 K (140 oC); and
+
+3\. A ‘dropping point’ equal or higher than 523,15 K (250 oC);
+
+**Technical Note:**
+
+For the purpose of the control X.C.IX.017, ‘dropping point’ is determined using the method described in ISO 2176 or ‘equivalent standards’.
+
+c. Damping or flotation fluids containing any of the following:
+
+1\. Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-23-8);
+
+2\. Polychlorotrifluoroethylene (CAS 9002-83-9); or
+
+3\. Polybromotrifluoroethylene (CAS 55157-25-0);
+
+d. Fluorocarbon fluids containing any of the following:
+
+1\. Monomeric forms of perfluoropolyalkylether-triazines or perfluoroaliphatic-ethers;
+
+2\. Perfluoroalkylamines;
+
+3\. Perfluorocycloalkanes; or
+
+4\. Perfluoroalkanes;
+
+e. Magnetorheological fluids.
+
+f. Additives as follows:
+
+1\. Alkyldiphenylamines (CAS number 68921-45-9);
+
+2\. Antioxidant BX AO 5057 (CAS 68411-46-1);
+
+3\. Butylated hydroxyanisole (CAS 25013-16-5);
+
+4\. Butylated hydroxytoluene (CAS 128-37-0);
+
+5\. Dialkyldithiocarbamates:
+
+a) Molybdenum dialkyldithiocarbamate (CAS 253873-83-5);
+
+b) Zinc diethyldithiocarbamate (CAS 14324-55-1);
+
+c) Bismuth dimethyldithiocarbamate (CAS 21260-46-8);
+
+6\. Disulphides:
+
+a) Molybdenum disulphide (CAS 1317-33-5);
+
+b) Tungsten disulphide (CAS 12138-09-9);
+
+7\. Dithiophosphates:
+
+a) Molybdenum dithiophosphate (CAS 72030-25-2);
+
+b) Zinc dithiophosphates (CAS 19210-06-1);
+
+8\. N-phenyl-1,1,3,3-tetramethylbutylnaphthalen-1-amine (CAS 90-30-2);
+
+9\. Triphenylphosphorothionate (CAS 597-82-0);
+
+10\. Tricresyl phosphate; or
+
+11\. Zinc dialkyldithiophosphate (CAS 68649-42-3 and 68457-79-4).
+
+X.C.IX.018 Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, not specified in Regulation (EU) 2021/821, having all of the following characteristics:
+
+a. A maximum operating temperature exceeding 413,15 K (140 °C) and a minimum operating temperature of less than 233,15 K (-40 °C); and
+
+b. Compliant with all of the following, measured in accordance with the standard ASTM E595 or ‘equivalent standards’:
+
+1\. A ‘Total Mass Loss’ (TML) equal to or less than 1,0 %; and
+
+2\. A ‘Collected Volatile Condensable Material’ (CVCM) equal to or less than 0,10 %.
+
+**Technical Notes:**
+
+1\. For the purposes of the control X.C.IX.018, ‘Total Mass Loss’ (TML) is the percentage reduction in specimen mass caused by volatilisation of materials under specified vacuum and temperature conditions according to the standard ASTM E595 or ‘equivalent standards’.
+
+[image]
+
+Where:
+
+Mi = initial specimen mass
+
+Mf = final specimen mass after vacuum exposure
+
+2\. For the purposes of the control X.C.IX.018, ‘Collected Volatile Condensable Material’ (CVCM) is the percentage of outgassed volatile material from a test specimen that condenses on a specified collector maintained at controlled temperature.
+
+[image]
+
+Where:
+
+Mc= mass collected on the condenser plate
+
+Mi = initial specimen mass
+
+X.C.IX.019 Nickel powder, nickel metal and alloys having a nickel purity content of 50 % or greater by weight, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.C.IX.020 Beryllium powder having a beryllium purity content of 50 % or greater by weight, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.D.IX.001 Specific “software”, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. “Software” specially designed for industrial process control hardware/systems controlled by X.B.IX.001, other than those specified in the CML or in Regulation (EU) 2021/821; or
+
+b. “Software” specially designed for equipment for the production of structural composites, fibres, prepregs and preforms controlled by X.B.IX.001, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+X.E.IX.001 “Technology” for the “development”, “production”, or “use” of fibrous and filamentary materials controlled by X.C.IX.004 and X.C.IX.010.
+
+X.E.IX.002 “Technology” for the “development”, “production”, or “use” of nanomaterials controlled by X.C.IX.011.
+
+**Category X – Materials Processing**
+
+X.A.X.001 Explosives or detonator detection equipment, both bulk and trace based, consisting of an automated device, or combination of devices for automated decision making to detect the presence of different types of explosives, explosive residue, or detonators; and components, other than those specified in the CML or in Regulation (EU) 2021/821:
+
+a. Explosives detection equipment for “automated decision making” to detect and identify bulk explosives utilizing, but not limited to, X-ray (e.g., computed tomography, dual energy, or coherent scattering), nuclear (e.g., thermal neutron analysis, pulse fast neutron analysis, pulse fast neutron transmission spectroscopy, and gamma resonance absorption), or electromagnetic techniques (e.g., quadropole resonance and dielectrometry);
+
+b. Not used;
+
+c. Detonator detection equipment for automated decision making to detect and identify initiation devices (e.g. detonators, blasting caps) utilizing, but not limited to, X-ray (e.g. dual energy or computed tomography) or electromagnetic techniques.
+
+Note: Explosives or detonation detection equipment in X.A.X.001 includes equipment for screening people, documents, baggage, other personal effects, cargo and/or mail.
+
+**Technical Notes:**
+
+1\. “Automated decision making” is the ability of the equipment to detect explosives or detonators at the design or operator- selected level of sensitivity and provide an automated alarm when explosives or detonators at or above the sensitivity level are detected.
+
+2\. This entry does not control equipment that depends on operator interpretation of indicators such as inorganic/organic color mapping of the items(s) being scanned.
+
+3\. Explosives and detonators include commercial charges and devices controlled by X.C.VIII.004 and X.C.IX.006 and energetic materials controlled by 1C011, 1C111 and 1C239 ( 63 ).
+
+X.A.X.002 Concealed object detection equipment operating in the frequency range from 30 GHz to 3 000 GHz and having a spatial resolution of 0,1 mrad (milliradian) up to and including 1 mrad (milliradian) at a standoff distance of 100 m; and components, other than those specified in the CML or in Regulation (EU) 2021/821.
+
+Note: Concealed object detection equipment includes but is not limited to equipment for screening people, documents, baggage, other personal effects, cargo and/or mail.
+
+**Technical Note:**
+
+The range of frequencies span what is generally considered as the millimetre-wave, submillimetre-wave and terahertz frequency regions.
+
+X.A.X.003 Bearings and bearing systems not controlled by 2A001 (see List of Items Controlled):
+
+a. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics:
+
+1\. Manufactured for use at operating temperatures above 573 K (300 oC) either by using special materials or by special heat treatment; or
+
+2\. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million “DN”;
+
+b. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:
+
+1\. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million “DN”; or
+
+2\. Manufactured for use at operating temperatures below 219 K (– 54 oC) or above 423 K (150 oC);
+
+c. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 oC) or higher and a unit load capacity exceeding 1 MPa;
+
+d. Active magnetic bearing systems;
+
+e. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (– 54 oC) or above 423 K (150 oC).
+
+**Technical Notes:**
+
+1\. “DN” is the product of the bearing bore diameter in mm and the bearing rotational velocity in rpm.
+
+2\. Operating temperatures include those temperatures obtained when a gas turbine engine has stopped after operation.
+
+X.A.X.004 Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10 % or more nickel and/or chromium:
+
+a. Pressure tube, pipe, and fittings of 200 mm or more inside diameter, and suitable for operation at pressures of 3,4 MPa or greater;
+
+b. Pipe valves having all of the following characteristics that are not controlled by 2B350.g ( 64 ):
+
+1\. A pipe size connection of 200 mm or more inside diameter; and
+
+2\. Rated at 10,3 MPa or more.
+
+**Notes:**
+
+1\. See X.D.X.005 for “software” for items controlled under this entry.
+
+2\. See 2E001 (“development”), 2E002 (“production”), and X.E.X.003 (“use”) for technology for items controlled under this entry.
+
+3\. See related controls 2A226, 2B350 and X.B.X.010.
+
+X.A.X.005 Pumps designed to move molten metals by electromagnetic forces.
+
+Notes:
+
+1\. See X.D.X.005 for “software” for items controlled under this entry.
+
+2\. See 2E001 (“development”), 2E002 (“production”), and X.E.X.003 (“use”) for “technology” for items controlled under this entry.
+
+3\. Pumps for use in liquid-metal-cooled reactors are controlled by 0A001.
+
+X.A.X.006 “Portable electric generators” and specially designed components.
+
+**Technical Note:**
+
+“Portable electric generators” – The generators that are in X.A.X.006 are portable – 2 268 kg or less on wheels or transportable in a 2,5 tonnes truck without a special set up requirement.
+
+X.A.X.007 Specific processing equipment, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. Bellows sealed valves;
+
+b. Not used.
+
+X.B.X.001 “Continuous flow reactors” and their “modular components”.
+
+**Technical Notes:**
+
+1\. For the purposes of X.B.X.001, “continuous flow reactors” consist of plug and play systems where reactants are continuously fed into the reactor and the resultant product is collected at the outlet.
+
+2\. For purposes of X.B.X.001, “modular components” are fluidic modules, liquid pumps, valves, packed-bed modules, mixer modules, pressure gauges, liquid-liquid separators, etc.
+
+X.B.X.002 Nucleic acid assemblers and synthesizers not controlled by 2B352.i, which are partly or entirely automated, and designed to generate nucleic acids greater than 50 bases.
+
+X.B.X.003 Automated peptide synthesizers capable to work under controlled atmosphere conditions.
+
+X.B.X.004 Numerical control units for machine tools and “numerically controlled” machine tools, other than those specified in the CML or in Regulation (EU) 2021/821 (see List of Items Controlled):
+
+a. “Numerical control” units for machine tools:
+
+1\. Having four interpolating axes that can be coordinated simultaneously for contouring control; or
+
+2\. Having two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;
+
+3\. “Numerical control” units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or
+
+b. Motion control boards specially designed for machine tools and having any of the following characteristics:
+
+1\. Interpolation in more than four axes;
+
+2\. Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:
+
+a. Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; or
+
+b. Adaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; or
+
+3\. Capable of receiving and processing CAD data for internal preparation of machine instructions;
+
+c. “Numerically controlled” machine tools that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:
+
+1\. Two or more axes that can be coordinated simultaneously for contouring control; and
+
+2\. Positioning accuracies according to ISO 230/2 (2006), with all compensations available:
+
+a. Better than 15 μm along any linear axis (overall positioning) for grinding machines;
+
+b. Better than 15 μm along any linear axis (overall positioning) for milling machines; or
+
+c. Better than 15 μm along any linear axis (overall positioning) for turning machines; or
+
+d. Machine tools, as follows, for removing or cutting metals, ceramics or composites, that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:
+
+1\. Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:
+
+a. One or more contouring “tilting spindles”;
+
+Note: X.B.X.004.d.1.a. applies to machine tools for grinding or milling only.
+
+b. “Camming” (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
+
+Note: X.B.X.004.d.1.b. applies to machine tools for turning only.
+
+c. “Run-out” (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); or
+
+d. The positioning accuracies, with all compensations available, are less (better) than: 0,001 o on any rotary axis;
+
+2\. Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control.
+
+X.B.X.005 Non-“numerically controlled” machine tools for generating optical quality surfaces, (see List of Items Controlled) and specially designed components therefor:
+
+a. Turning machines using a single point cutting tool and having all of the following characteristics:
+
+1\. Slide positioning accuracy less (better) than 0,0005 mm per 300 mm of travel;
+
+2\. Bidirectional slide positioning repeatability less (better) than 0,00025 mm per 300 mm of travel;
+
+3\. Spindle “run-out” and “camming” less (better) than 0,0004 mm total indicator reading (TIR);
+
+4\. Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; and
+
+5\. Slide perpendicularity less (better) than 0,001 mm per 300 mm of travel;
+
+**Technical Note:**
+
+The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
+
+b. Fly cutting machines having all of the following characteristics:
+
+1\. Spindle “run-out” and “camming” less (better) than 0,0004 mm TIR; and
+
+2\. Angular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.
+
+X.B.X.006 Gearmaking and/or finishing machinery not controlled by 2B003 capable of producing gears to a quality level of better than AGMA 11.
+
+X.B.X.007 Dimensional inspection or measuring systems or equipment not controlled by 2B006 or 2B206, as follows (see List of Items Controlled):
+
+a. Manual dimensional inspection machines, having both of the following characteristics:
+
+1\. Two or more axes; and
+
+2\. A measurement uncertainty equal to or less (better) than (3 + L/300) μm in any axes (L measured length in mm).
+
+X.B.X.008 “Robots” not controlled by 2B007 or 2B207 that are capable of employing feedback information in real-time processing from one or more sensors to generate or modify programs or to generate or modify numerical program data.
+
+X.B.X.009 Assemblies, circuit boards or inserts specially designed for machine tools controlled by X.B.X.004, or for equipment controlled by X.B.X.006, X.B.X.007 or X.B.X.008:
+
+a. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial (“run-out”) or axial (“camming”) axis motion in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);
+
+b. Single point diamond cutting tool inserts, having all of the following characteristics:
+
+1\. Flawless and chip-free cutting edge when magnified 400 times in any direction;
+
+2\. Cutting radius from 0,1 to 5 mm inclusive; and
+
+3\. Cutting radius out-of-roundness less (better) than 0,002 mm TIR.
+
+c. Specially designed printed circuit boards with mounted components capable of upgrading, according to the manufacturer’s specifications, “numerical control” units, machine tools or feed-back devices to or above the levels specified in X.B.X.004, X.B.X.006, X.B.X.007, X.B.X.008, or X.B.X.009.
+
+**Technical Note:**
+
+This entry does not control measuring interferometer systems, without closed or open loop feedback, containing a laser to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment.
+
+X.B.X.010 Specific processing equipment, other than those specified in the CML or in Regulation (EU) 2021/821, as follows (see List of Items Controlled):
+
+a. Isostatic presses, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+b. Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming dies;
+
+c. Laser welding machines;
+
+d. MIG welders;
+
+e. E-beam welders;
+
+f. Monel equipment, including valves, piping, tanks and vessels;
+
+g. 304 and 316 stainless steel valves, piping, tanks and vessels;
+
+Note: Fittings are considered part of piping for purposes of X.B.X.010.g.
+
+h. Mining and drilling equipment, as follows:
+
+1\. Large boring equipment capable of drilling holes greater than 61 cm in diameter;
+
+2\. Large earth-moving equipment used in the mining industry;
+
+i. Electroplating equipment designed for coating parts with nickel or aluminium;
+
+j. Pumps designed for industrial service and for use with an electrical motor of 5 HP or greater;
+
+k. Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in high-vacuum service, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+l. Spin forming and flow forming machines, other than those specified in the CML or in Regulation (EU) 2021/821;
+
+m. Centrifugal multiplane balancing machines, other than those specified in the CML or in Regulation (EU) 2021/821; or
+
+n. Austenitic stainless steel plate, valves, piping, tanks and vessels.
+
+X.B.X.011 Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2,5 metres.
+
+X.B.X.012 Class II biosafety cabinets and glove boxes.
+
+X.B.X.013 Batch centrifuges with a rotor capacity of 4 litres or greater, usable with biological materials.
+
+X.B.X.014 Fermenters with an internal volume of 10–20 litres, usable with biological materials.
+
+X.B.X.015 Reaction vessels, reactors, agitators, heat exchangers, condensers, pumps (including single seal pumps), valves, storage tanks, containers, receivers, and distillation or absorption columns that meet performance parameters of the control 2B350 ( 65 ), regardless of their materials of construction.
+
+Note: For the purpose of the control X.B.X.015, plumbing valves and storage tanks with total internal (geometric) volume less than 1 m3 (1 000 litres) designed for domestic water or gas systems are excluded.
+
+X.B.X.016 Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA filter units that may be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities.
+
+X.B.X.017 Vacuum pumps with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under standard temperature and pressure conditions), casings (pump bodies), preformed casing-liners, impellers, rotors, and jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemicals being processed are made from controlled materials.
+
+X.B.X.018 Laboratory equipment, including parts and accessories for such equipment, for the analysis or detection, destructive or non-destructive, of chemical substances.
+
+X.B.X.019 Whole chlor-alkali electrolysis cells – mercury, diaphragm, and membrane.
+
+X.B.X.020 Titanium electrodes (including those with coatings produced from other metal oxides), specially designed for use in chlor-alkali cells.
+
+X.B.X.021 Nickel electrodes (including those with coatings produced from other metal oxides), specially designed for use in chlor-alkali cells.
+
+X.B.X.022 Bipolar titanium nickel electrodes (including those with coatings produced from other metal oxides), specially designed for use in chlor-alkali cells.
+
+X.B.X.023 Asbestos diaphragms specially designed for use in chlor-alkali cells.
+
+X.B.X.024 Fluoropolymer based diaphragms specially designed for use in chlor-alkali cells.
+
+X.B.X.025 Fluoropolymer based ion exchange membranes specially designed for use in chlor-alkali cells.
+
+X.B.X.026 Compressors specially designed to compress wet or dry chlorine, regardless of material of construction.
+
+X.B.X.027 Microwave reactors – Machinery, plant or laboratory equipment, whether or not electrically heated, for the treatment of materials by a process involving a change of temperature such as heating.
+
+X.D.X.001 “Software” specially designed or modified for the “development”, “production” or “use” of equipment controlled by X.A.X.001.
+
+X.D.X.002 “Software” “required” for the “development”, “production” or “use” of concealed object detection equipment controlled by X.A.X.002.
+
+X.D.X.003 “Software” specially designed for the “development”, “production”, or “use” of equipment controlled by X.B.X.004, X.B.X.006, or X.B.X.007, X.B.X.008, and X.B.X.009.
+
+X.D.X.004 Specific “software”, as follows (see List of Items Controlled):
+
+a. “Software” to provide adaptive control and having both of the following characteristics:
+
+1\. For flexible manufacturing units (FMUs); and
+
+2\. Capable of generating or modifying, in real-time processing, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:
+
+a. Machine vision (optical ranging);
+
+b. Infrared imaging;
+
+c. Acoustical imaging (acoustical ranging);
+
+d. Tactile measurement;
+
+e. Inertial positioning;
+
+f. Force measurement; and
+
+g. Torque measurement.
+
+Note: X.D.X.004.a does not control “software” which only provides rescheduling of functionally identical equipment within flexible manufacturing units using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
+
+b. Not used.
+
+X.D.X.005 “Software” specially designed or modified for the “development,” “production,” or “use” of items controlled by X.A.X.004 or X.A.X.005.
+
+Note: See 2E001 (“development”) for “technology” for “software” controlled under this entry.
+
+X.D.X.006 “Software” specially designed for the “development” or “production” of portable electric generators controlled by X.A.X.006.
+
+X.D.X.007 “Software” for the “development”, “production”, or “use” of CNC equipment, classified in any of the headings from 8456 to 8465 of the Common Customs Tariff, not covered in X.D.X.003.
+
+X.E.X.001 “Technology” “required” for the “development,” “production” or “use” of equipment controlled by X.A.X.002 or “required” for the “development” of “software” controlled by X.D.X.002.
+
+Note: See X.A.X.002 and X.D.X.002 for related commodity and “software” controls.
+
+X.E.X.002 “Technology” for the “use” of equipment controlled by X.B.X.004, X.B.X.006, X.B.X.007, or X.B.X.008.
+
+X.E.X.003 “Technology” according to the General Technology Note for the “use” of equipment controlled by X.A.X.004 or X.A.X.005.
+
+X.E.X.004 “Technology” for the “use” of portable electric generators controlled by X.A.X.006.
+
+**Part B**
+
+**1\. Semiconductor devices**
+
+CN Code Description
+
+8541 10 Diodes, other than photosensitive or light-emitting diodes (LED)
+
+8541 21 Transistors, other than photosensitive transistors with a dissipation rate of less than 1 W
+
+8541 29 Other transistors, other than photosensitive transistors
+
+8541 30 Thyristors, diacs and triacs (excl. photosensitive semiconductor devices)
+
+8541 49 Photosensitive semiconductor devices (excluding Photovoltaic generators and cells)
+
+8541 51 Other semiconductor devices: Semiconductor-based transducers
+
+8541 59 Other semiconductor devices
+
+8541 60 Mounted piezo-electric crystals
+
+8541 90 Semiconductor devices: Parts
+
+**2\. Electronic integrated circuits, manufacturing and testing equipment**
+
+CN Code Description
+
+3818 00 Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics
+
+8486 10 Machines and apparatus for the manufacture of boules or wafers
+
+8486 20 Machines and apparatus for the manufacture of semiconductor devices or of electronic integrated circuits
+
+8486 40 Machines and apparatus specified in note 11(C) to this Chapter
+
+8534 00 Printed circuits
+
+8537 10 Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536 , for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 8517 , for a voltage not exceeding 1 000 V
+
+8542 31 Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits
+
+8542 32 Memories
+
+8542 33 Amplifiers
+
+8542 39 Other Electronic Integrated Circuits
+
+8542 90 Electronic integrated circuits: Parts
+
+8543 20 Signal generators
+
+9027 50 Other instruments and apparatus using optical radiation (UV, visible, IR)
+
+9030 20 Oscilloscopes and oscillographs
+
+9030 32 Multimeters with recording device
+
+9030 39 Instruments and apparatus for measuring or checking voltage, current, resistance or electrical power, with recording device
+
+9030 82 Instruments and apparatus for measuring or checking semiconductor wafers or devices
+
+**3\. Photographic cameras, sensors and optical components**
+
+CN Code Description
+
+8525 89 Other television cameras, digital cameras and video camera recorders
+
+8529 90 Other parts suitable for use solely or principally with the apparatus of headings 8524 to 8528
+
+9006 30 Cameras specially designed for underwater use, for aerial survey or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes
+
+9006 91 Parts and accessories for cameras
+
+9013 10 Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter or Section XVI
+
+9013 80 Other optical devices, appliances and instruments
+
+9015 10 00 Rangefinders
+
+9025 19 Other thermometers and pyrometers, not combined with other instruments
+
+9032 10 Thermostats
+
+**4\. Other electrical/magnetic components**
+
+CN Code Description
+
+8501 32 DC motors and DC generators of an output exceeding 750 W but not exceeding 75 kW (excluding photovoltaic generators)
+
+8504 31 Transformers having a power handling capacity not exceeding 1 kVA (excluding liquid dielectric transformers)
+
+8504 40 Static converters
+
+8505 11 Permanent magnets and articles intended to become permanent magnets after magnetisation; of metal
+
+8529 10 Aerials and aerial reflectors of all kinds; parts suitable for use therewith
+
+8532 21 Other fixed capacitors of tantalum
+
+8532 22 Aluminium electrolytic fixed electrical capacitors (excluding power capacitors)
+
+8532 24 Ceramic dielectric multilayer capacitors
+
+8533 21 Fixed electrical resistors for a power handling capacity not exceeding 20 W (excluding heating resistors, and fixed carbon resistors)
+
+8533 40 Electrical variable resistors, including rheostats and potentiometers (excluding wirewound variable resistors and heating resistors)
+
+8536 41 Relays, for a voltage not exceeding 60 V
+
+8536 49 Relays for a voltage exceeding 60 V but not exceeding 1 000 V
+
+8536 50 Other switches
+
+8536 69 Plugs and sockets
+
+8536 90 Other apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and other connectors, junction boxes), for a voltage not exceeding 1 000 V; connectors for optical fibres, optical fibre bundles or cables
+
+8543 70 02 Microwave amplifiers
+
+8543 70 04 Digital flight-data recorders
+
+8543 70 30 Aerial amplifiers
+
+8548 00 Electrical parts of machinery or apparatus, not specified or included elsewhere in Chapter 85
+
+**5\. Machine tools, additive manufacturing equipment, and related items**
+
+CN Code Description
+
+8205 59 80 Hand tools, including glaziers’ diamonds, excluding household tools, and tools for masons, moulders, cement workers, plasterers and painters
+
+8456 11 Machine tools for working any material by removal of material, operated by laser
+
+8456 30 Operated by electrodischarge processes
+
+8456 50 Water-jet cutting machines
+
+8457 10 Machining centres for working metal
+
+8458 11 Horizontal lathes, including turning centres, for removing metal, numerically controlled
+
+8458 91 Lathes (including turning centres) for removing metal, numerically controlled (excluding horizontal lathes)
+
+8459 61 Milling machines for metals, numerically controlled (excluding lathes and turning centres of heading 8458 , way-type unit head machines, drilling machines, boring-milling machines, boring machines, and knee-type milling machines)
+
+8466 10 Tool holders, for any type of tool for working in the hand and for machine tools; self-opening dieheads
+
+8466 93 Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8461 , n.e.s.
+
+8485 20 Machines for additive manufacturing by plastics or rubber deposit
+
+8485 30 Machines for additive manufacturing by plaster, cement, ceramics or glass deposit
+
+8485 90 Parts of machines for additive manufacturing
+
+**6\. Energetic materials and precursors**
+
+CN Code Description
+
+2804 50 10 Boron
+
+2829 11 00 Chlorates of sodium
+
+2829 19 00 Other chlorates
+
+2829 90 Perchlorates; bromates and perbromates; iodates and periodates
+
+3912 11 00 Non-plasticised cellulose acetates, in primary forms
+
+3912 12 00 Plasticised cellulose acetates, in primary forms
+
+3912 39 Cellulose ethers, in primary forms (excl. carboxymethylcellulose and its salts)
+
+4706 10 Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material: Cotton linters pulp
+
+7603 10 00 Powders of non-lamellar structure
+
+7603 20 00 Powders of lamellar structure; flakes
+
+8104 30 00 Magnesium raspings, turnings and granules, graded according to size; powders
+
+**7\. Electronic devices, modules and assemblies**
+
+CN Code Description
+
+8471 50 Processing units other than those of subheading 8471 41 or 8471 49 , whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units
+
+8471 70 98 Other storage units
+
+8471 80 Units for automatic data-processing machines (excl. processing units, input or output units and storage units)
+
+8517 62 Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus
+
+8517 69 Other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network
+
+8517 79 Parts of telephone sets, telephones for cellular networks or for other wireless networks and of other apparatus for the transmission or reception of voice, images or other data, excluding aerials and aerial reflectors of all kinds and their parts
+
+8526 91 Radio navigational aid apparatus
+
+9014 20 Instruments and appliances for aeronautical or space navigation (other than compasses)
+
+9014 80 Other navigational instruments and appliances
+
+**8\. Chemicals, metals, alloys, composites and other advanced materials**
+
+CN Code Description
+
+2610 00 Chromium ores and concentrates
+
+2819 10 Chromium trioxide
+
+2819 90 Other chromium oxides and hydroxides
+
+2825 80 00 Antimony oxides
+
+8103 20 00 Unwrought tantalum, including bars and rods obtained simply by sintering; powders
+
+8103 30 00 Tantalum waste and scrap
+
+8103 91 00 Tantalum crucibles
+
+8103 99 Articles of tantalum
+
+8112 21 Chromium: unwrought; powders
+
+8112 22 Chromium: Waste and scrap
+
+8112 29 Chromium: Other
+
+8112 41 Unwrought rhenium and rhenium waste, scrap and powders
+
+8112 49 Rhenium, other than unwrought, waste, scrap and powders
+
+8112 92 Unwrought niobium (‘columbium’), gallium, indium, vanadium and germanium; powders and waste and scrap of these metals
+
+8112 99 Articles of niobium (‘columbium’), gallium, indium, vanadium and germanium
+
+**9\. Machinery parts, assemblies and components**
+
+CN Code Description
+
+8482 10 Ball bearings
+
+8482 20 Tapered roller bearings, including cone and tapered roller assemblies
+
+8482 30 Spherical roller bearings
+
+8482 40 00 Needle roller bearings, including cage and needle roller assemblies
+
+8482 91 Balls, needles and rollers
+
+8482 50 Other cylindrical roller bearings, including cage and roller assemblies
+
+8483 40 30 Ball or roller screws
+
+8484 90 00 Sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings: other
+
+9031 80 20 Other instruments, appliances and machines, for measuring or checking geometrical quantities
+
+**10\. Miscellaneous**
+
+CN Code Description
+
+7017 Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated
+
+8807 30 Other parts of aeroplanes, helicopters or unmanned aircraft
+
+## ANNEX Vb — List of partner countries referred to in Articles 1bb(7), 1e(4), 1f(4), 1fc(4), 1ga(4), 1jc(13), 1s(4) and 1zb(1a)
+
+[…]
+
+## ANNEX Vba — List of countries referred to in Articles 1v(1a), 1v(1b), 1za(2), 7(2a), 8d(1), 8g(1), and 8ga(2)
+
+NORWAY
+
+SWITZERLAND
+
+THE UNITED STATES OF AMERICA
+
+JAPAN
+
+UNITED KINGDOM
+
+SOUTH KOREA
+
+AUSTRALIA
+
+CANADA
+
+NEW ZEALAND
+
+LIECHTENSTEIN
+
+ICELAND
+
+## ANNEX Vc
+
+**A. Model for supply, transfer or export notification, application and authorisation forms**
+
+**(referred to in Article 1fb of this Regulation)**
+
+The export authorisation is valid in all Member States of the European Union until its expiry date.
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**B. Model for brokering services/technical assistance notification, application and authorisation forms**
+
+**(referred to in Article 1fb of this Regulation)**
+
+[image]
+
+[image]
+
+[image]
+
+**C. Model for sale, supply or transfer notification, application and authorisation forms (referred to in Article 8da(1) of this Regulation)**
+
+The export authorisation is valid in all Member States of the European Union until its expiry date.
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX VI — LIST OF GOODS USED FOR THE PRODUCTION OR MANUFACTURING OF TOBACCO PRODUCTS REFERRED TO IN ARTICLE 1g
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Filters</td><td>ex 4823 90 </td></tr>
+<tr><td>Papers for cigarettes</td><td>4813 </td></tr>
+<tr><td>Flavours for tobacco</td><td>ex 3302 90 </td></tr>
+<tr><td>Machinery for preparing or making up of tobacco</td><td>8478 </td></tr>
+<tr><td>Other knives and cutting blades, for machines or for mechanical appliances</td><td>ex 8208 90 00 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — LIST OF MINERAL PRODUCTS REFERRED TO IN ARTICLE 1h
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents</td><td>2707 </td></tr>
+<tr><td>Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing &gt;= 70% by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals</td><td>2710 </td></tr>
+<tr><td>Petroleum gas and other gaseous hydrocarbons</td><td>2711 </td></tr>
+<tr><td>Petroleum jelly, paraffin wax, micro- crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured</td><td>2712 </td></tr>
+<tr><td>Petroleum coke, petroleum bitumen and other residues of petroleum oil or of oil obtained from bituminous minerals, n.e.s.</td><td>2713 </td></tr>
+<tr><td>Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch</td><td>2715 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII — LIST OF POTASSIUM CHLORIDE (‘POTASH’) PRODUCTS REFERRED TO IN ARTICLE 1i
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Potassium chloride</td><td>3104 20 </td></tr>
+<tr><td>Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium</td><td>3105 20 10  3105 20 90 </td></tr>
+<tr><td>Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium</td><td>3105 60 00 </td></tr>
+<tr><td>Other fertilisers containing potassium chloride</td><td>ex 3105 90 20  ex 3105 90 80 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX — LIST OF MAJOR CREDIT INSTITUTIONS REFERRED TO IN ARTICLES 1j AND 1k
+
+Belarusbank
+
+Belinvestbank (Belarusian Bank for Development and Reconstruction)
+
+Belagroprombank
+
+Bank Dabrabyt
+
+Development Bank of the Republic of Belarus
+
+## ANNEX X — LIST OF WOOD PRODUCTS REFERRED TO IN ARTICLE 1o
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Wood and articles of wood; wood charcoal</td><td>44 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX XI — LIST OF CEMENT PRODUCTS REFERRED TO IN ARTICLE 1p
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Cement, incl. cement clinkers, whether or not coloured</td><td>2523 </td></tr>
+<tr><td>Articles of cement, concrete or artificial stone, whether or not reinforced</td><td>6810 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX XII — LIST OF IRON AND STEEL PRODUCTS REFERRED TO IN ARTICLE 1q
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Iron and steel</td><td>72 </td></tr>
+<tr><td>Articles of iron and steel</td><td>73 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX XIII — LIST OF RUBBER PRODUCTS REFERRED TO IN ARTICLE 1r
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>New pneumatic tyres, of rubber</td><td>4011 </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX XIV — LIST OF MACHINERY REFERRED TO IN ARTICLE 1s
+
+<table>
+<tbody><tr><td>Name of the good</td><td>Combined Nomenclature (CN) code (1)</td></tr>
+<tr><td>Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation:</td><td>8401 </td></tr>
+<tr><td>Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); superheated water boilers:</td><td>8402 </td></tr>
+<tr><td>Auxiliary plant for use with boilers of heading 8402 or 8403 (for example, economisers, superheaters, soot removers, gas recoverers); condensers for steam or other vapour power units</td><td>8404 </td></tr>
+<tr><td>Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers</td><td>8405 </td></tr>
+<tr><td>Steam turbines and other vapour turbines:</td><td>8406 </td></tr>
+<tr><td>Spark-ignition reciprocating or rotary internal combustion piston engines</td><td>8407 </td></tr>
+<tr><td>Compression-ignition internal combustion piston engines (diesel or semidiesel engines):</td><td>8408 </td></tr>
+<tr><td>Parts suitable for use solely or principally with the engines of heading 8407 or 8408 </td><td>8409 </td></tr>
+<tr><td>Hydraulic turbines, water wheels, and regulators therefor</td><td>8410 </td></tr>
+<tr><td>Other engines and motors</td><td>8412 </td></tr>
+<tr><td>Pumps for liquids, whether or not fitted with a measuring device; liquid elevators:</td><td>8413 </td></tr>
+<tr><td>Air-conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated</td><td>8415 </td></tr>
+<tr><td>Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances</td><td>8416 </td></tr>
+<tr><td>Heat pumps other than air-conditioning machines of heading 8415 </td><td>Ex 8418 </td></tr>
+<tr><td>Calendering or other rolling machines, other than for metals or glass, and cylinders therefor</td><td>8420 </td></tr>
+<tr><td>Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases</td><td>8421 </td></tr>
+<tr><td>Machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages</td><td>Ex 8422 </td></tr>
+<tr><td>Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight-operated counting or checking machines; weighing machine weights of all kinds</td><td>8423 </td></tr>
+<tr><td>Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sandblasting machines and similar jet projecting machines</td><td>8424 </td></tr>
+<tr><td>Pulley tackle and hoists other than skip hoists; winches and capstans; jacks</td><td>8425 </td></tr>
+<tr><td>Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane</td><td>8426 </td></tr>
+<tr><td>Fork-lift trucks; other works trucks fitted with lifting or handling equipment</td><td>8427 </td></tr>
+<tr><td>Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics</td><td>8428 </td></tr>
+<tr><td>Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and roadrollers</td><td>8429 </td></tr>
+<tr><td>Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; piledrivers and pile extractors; snowploughs and snowblowers</td><td>8430 </td></tr>
+<tr><td>Parts suitable for use solely or principally with the machinery of headings 8425 to 8430 </td><td>8431 </td></tr>
+<tr><td>Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard</td><td>8439 </td></tr>
+<tr><td>Bookbinding machinery, including book-sewing machines</td><td>8440 </td></tr>
+<tr><td>Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds</td><td>8441 </td></tr>
+<tr><td>Machinery, apparatus and equipment (other than the machine tools of headings 8456 to 8465 ) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished)</td><td>8442 </td></tr>
+<tr><td>Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442 ; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof</td><td>8443 </td></tr>
+<tr><td>Machines for extruding, drawing, texturing or cutting man-made textile materials:</td><td>8444 00 </td></tr>
+<tr><td>Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 8446 or 8447 </td><td>8445 </td></tr>
+<tr><td>Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting</td><td>8447 </td></tr>
+<tr><td>Auxiliary machinery for use with machines of heading 8444 , 8445 , 8446 or 8447 (for example, dobbies, jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 8444 , 8445 , 8446 or 8447 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and heald-frames, hosiery needles)</td><td>8448 </td></tr>
+<tr><td>Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats</td><td>8449 00 00 </td></tr>
+<tr><td>Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines</td><td>8453 </td></tr>
+<tr><td>Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries</td><td>8454 </td></tr>
+<tr><td>Metal-rolling mills and rolls therefor</td><td>8455 </td></tr>
+<tr><td>Machining centres, unit construction machines (single station) and multi- station transfer machines, for working metal</td><td>8457 </td></tr>
+<tr><td>Lathes (including turning centres) for removing metal</td><td>8458 </td></tr>
+<tr><td>Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465 , including work or tool holders, self- opening dieheads, dividing heads and other special attachments for machine tools; tool holders for any type of tool for working in the hand</td><td>8466 </td></tr>
+<tr><td>Tools for working in the hand, pneumatic, hydraulic or with self- contained electric or non-electric motor</td><td>8467 </td></tr>
+<tr><td>Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 8515 ; gas-operated surface tempering machines and appliances</td><td>8468 </td></tr>
+<tr><td>Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included</td><td>8471 </td></tr>
+<tr><td>Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand</td><td>8474 </td></tr>
+<tr><td>Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware</td><td>8475 </td></tr>
+<tr><td>Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this chapter</td><td>8477 </td></tr>
+<tr><td>Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter</td><td>8479 </td></tr>
+<tr><td>Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics</td><td>8480 </td></tr>
+<tr><td>Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves</td><td>8481 </td></tr>
+<tr><td>Ball or roller bearings</td><td>8482 </td></tr>
+<tr><td>Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints)</td><td>8483 </td></tr>
+<tr><td>Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals</td><td>8484 </td></tr>
+<tr><td>Electric motors and generators (excluding generating sets)</td><td>8501 </td></tr>
+<tr><td>Electric generating sets and rotary converters</td><td>8502 </td></tr>
+<tr><td>Parts suitable for use solely or principally with electric motors and generators, electric generating sets or rotary converters not specified elsewhere</td><td>8503 </td></tr>
+<tr><td>Electrical transformers, static converters (for example, rectifiers) and inductors; parts thereof</td><td>8504 </td></tr>
+<tr><td>Electromagnets (other than for medical use); permanent magnets and articles intended to become permanent magnets after magnetisation; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads; parts thereof</td><td>8505 </td></tr>
+<tr><td>Electric accumulators, incl. separators therefor, whether or not square or rectangular; parts thereof (excl. spent and those of unhardened rubber or textiles)</td><td>8507 </td></tr>
+<tr><td>Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines; parts thereof</td><td>8511 </td></tr>
+<tr><td>Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss; parts thereof</td><td>8514 </td></tr>
+<tr><td>Parts suitable for use solely or principally with the apparatus of headings 8525 to 8528 </td><td>8529 </td></tr>
+<tr><td>Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of headings 8535 or 8536 , for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control cabinets (excl. switching apparatus for line telephony or line telegraphy or videophones)</td><td>8537 </td></tr>
+<tr><td>Parts suitable for use solely or principally with the apparatus of headings 8535 , 8536 or 8537 not specified elsewhere</td><td>8538 </td></tr>
+<tr><td> Electric filament or discharge lamps, including sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps; light-emitting diode (LED) light sources; parts thereof  </td><td>8539 </td></tr>
+<tr><td>Insulated (incl. enamelled or anodised) wire, cable (incl. coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors</td><td>8544 </td></tr>
+<tr><td>Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes</td><td>8545 </td></tr>
+<tr><td>Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 8546 ; electrical conduit tubing and joints therefor, of base metal lined with insulating material</td><td>8547 </td></tr>
+<tr><td>Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified elsewhere in Chapter 85</td><td>8548 </td></tr>
+<tr><td>Confidential products under Chapter 85; goods under Chapter 85 transported by post or by parcel post (extra)/reconstituted code for statistical distribution</td><td>  </td></tr>
+<tr><td colspan="2">(1)  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2021:385:FULL&from=EN </td></tr>
+</tbody>
+</table>
+
+## ANNEX XIVa — List of goods and technology as referred to in Article 1s(1a) on the prohibition of transit via Belarus
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>8407 10 </td><td>Spark-ignition reciprocating or rotary internal combustion piston engine, for aircraft</td></tr>
+<tr><td>8409 10 </td><td>Parts suitable for use solely or principally with internal combustion piston engine for aircraft</td></tr>
+<tr><td>8409 99 </td><td>Parts suitable for use solely or principally with compression-ignition internal combustion piston engine (diesel or semi-diesel engine), n.e.s.</td></tr>
+<tr><td>8412 21 </td><td>Hydraulic power engines and motors, linear acting (cylinders)</td></tr>
+<tr><td>8413 50 </td><td>Reciprocating positive displacement pumps for liquids, power-driven, n.e.s.</td></tr>
+<tr><td>8421 23 </td><td>Oil or petrol-filters for internal combustion engines</td></tr>
+<tr><td>8421 31 </td><td>Intake air filters for internal combustion engines</td></tr>
+<tr><td>8425 11 </td><td>Pulley tackle and hoists other than skip hoists or hoists of a kind used for raising vehicles, powered by electric motor</td></tr>
+<tr><td>8428 39 </td><td>Continuous-action elevators and conveyors, for goods or materials (excluding those for underground use and bucket, belt or pneumatic types)</td></tr>
+<tr><td>8429 59 </td><td>Self-propelled mechanical shovels, excavators and shovel loaders (excluding machinery with a 360o revolving superstructure and front-end shovel loaders)</td></tr>
+<tr><td>8431 39 </td><td>Parts suitable for use solely or principally with the machinery of heading 8428 , (excluding parts of lifts, skip hoists or escalators), n.e.s.</td></tr>
+<tr><td>8466 20 </td><td>Work holders for machine tools</td></tr>
+<tr><td>8467 29 </td><td>Electromechanical tools for working in the hand, with self-contained electric motor (excluding saws and drills)</td></tr>
+<tr><td>8471 30 </td><td>Portable automatic data-processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display</td></tr>
+<tr><td>8471 70 </td><td>Storage units for automatic data-processing machines</td></tr>
+<tr><td>8474 39 </td><td>Machinery for mixing or kneading solid mineral substances, including those in powder or paste form (excluding concrete and mortar mixers, machines for mixing mineral substances with bitumen and calenders)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8479 82 </td><td>Mixing, kneading, crushing, grinding, screening, sifting, homogenising, emulsifying or stirring machines</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8481 20 </td><td>Valves for oleohydraulic or pneumatic transmission</td></tr>
+<tr><td>8482 99 </td><td>Parts of ball or roller bearings (excluding balls, needles and rollers)</td></tr>
+<tr><td>8483 50 </td><td>Flywheels and pulleys, including pulley blocks</td></tr>
+<tr><td>8502 20 </td><td>Generating sets with spark-ignition internal combustion piston engines</td></tr>
+<tr><td>8507 10 </td><td>Lead-acid accumulators of a kind used for starting piston engines</td></tr>
+<tr><td>8511 10 </td><td>Sparking plugs of a kind used for spark-ignition or compression-ignition internal combustion engines</td></tr>
+</tbody>
+</table>
+
+## ANNEX XV — LIST OF LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLE 1zb
+
+| Name of the legal person, entity or body | Date of application |
+| --- | --- |
+| Belagroprombank | 20 March 2022 |
+| Bank Dabrabyt | 20 March 2022 |
+| Development Bank of the Republic of Belarus | 20 March 2022 |
+| Belinvestbank (Belarusian Bank for Development and Reconstruction) | 14 June 2022 |
+
+## ANNEX XVI — List of firearms and other arms referred to in Article 1ba
+
+CN Code Description
+
+9303 Other firearms and similar devices which operate by the firing of an explosive charge
+
+ex 9304 Other arms (for example, spring, air or gas guns and pistols), excluding those of heading 9307
+
+## ANNEX XVII — List of goods and technologies referred to in Article 1sa
+
+CN Code Description
+
+88 Aircraft, spacecraft, and parts thereof
+
+ex 2710 19 83 Hydraulic oils for the usage in vehicles of Chapter 88
+
+ex 2710 19 99 Other lubricating oils and other oils for use in aviation
+
+4011 30 00 New pneumatic tyres of rubber, of a kind used on aircraft
+
+ex 6813 20 00 Brake discs and pads for use on aircraft
+
+6813 81 00 Brake linings and pads
+
+8411 11 Turbojets of a thrust &lt;= 25 kn
+
+8411 12 Turbojets of a thrust > 25 kn
+
+8411 21 Turbopropellers of a power &lt;= 1 100 kw
+
+8411 22 Turbopropellers of a power > 1 100 kw
+
+8411 91 Parts of turbojets or turbopropellers, n.e.s.
+
+8517 71 00 Aerials and aerial reflectors of all kinds; parts suitable for use therewith
+
+ex 8517 79 00 Other parts related to aerials
+
+9024 10 00 Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials: Machines and appliances for testing metals
+
+9026 00 00 Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014 , 9015 , 9028 or 9032
+
+## ANNEX XVIII — List of goods and technologies which could contribute to the enhancement of Belarusian industrial capacities referred to in Article 1bb
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>0601</td><td>Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower, chicory plants and roots other than roots of heading 1212</td></tr>
+<tr><td>0602 30</td><td>Rhododendrons and azaleas, grafted or not</td></tr>
+<tr><td>0602 40</td><td>Roses, grafted or not</td></tr>
+<tr><td>0602 90</td><td>Other live plants (including their roots), cuttings and slips; mushroom spawn – Other</td></tr>
+<tr><td>0604 20</td><td>Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared – Fresh</td></tr>
+<tr><td>25</td><td>Salt; sulphur; earths and stone; plastering materials, lime and cement</td></tr>
+<tr><td>26</td><td>Ores, slag and ash</td></tr>
+<tr><td>2701</td><td>Coal; briquettes, ovoids and similar solid fuels manufactured from coal</td></tr>
+<tr><td>2702</td><td>Lignite, whether or not agglomerated, excluding jet</td></tr>
+<tr><td>2703</td><td>Peat (including peat litter), whether or not agglomerated</td></tr>
+<tr><td>2704</td><td>Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon</td></tr>
+<tr><td>2707</td><td>Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents</td></tr>
+<tr><td>2708</td><td>Pitch and Pitch coke, obtained from coal tar or from other mineral tars</td></tr>
+<tr><td>2710</td><td>Petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing ≥ 70 % by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals</td></tr>
+<tr><td>2712</td><td>Petroleum jelly, paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured</td></tr>
+<tr><td>2715</td><td>Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch – Other</td></tr>
+<tr><td>2801</td><td>Fluorine, chlorine, bromine and iodine</td></tr>
+<tr><td>2802</td><td>Sulphur, sublimed or precipitated; colloidal sulphur</td></tr>
+<tr><td>2803</td><td>Carbon (carbon blacks and other forms of carbon not elsewhere specified or included)</td></tr>
+<tr><td>2804</td><td>Hydrogen, rare gases and other non-metals</td></tr>
+<tr><td>2806</td><td>Hydrogen chloride ‘hydrochloric acid’; chlorosulphuric acid</td></tr>
+<tr><td>2811</td><td>Other inorganic acids and other inorganic oxygen compounds of non-metals</td></tr>
+<tr><td>2813</td><td>Sulphides of non-metals; commercial phosphorus trisulphide</td></tr>
+<tr><td>2814</td><td>Ammonia, anhydrous or in aqueous solution</td></tr>
+<tr><td>2815</td><td>Sodium hydroxide ‘caustic soda’, potassium hydroxide ‘caustic potash’; peroxides of sodium or potassium</td></tr>
+<tr><td>2817</td><td>Zinc oxide; zinc peroxide</td></tr>
+<tr><td>2818 30</td><td>Aluminium hydroxide</td></tr>
+<tr><td>2819</td><td>Chromium oxides and hydroxides</td></tr>
+<tr><td>2820</td><td>Manganese oxides</td></tr>
+<tr><td>2821</td><td>Iron oxides and hydroxides; earth colours containing 70 % or more by weight of combined iron evaluated as Fe2O3</td></tr>
+<tr><td>2822</td><td>Cobalt oxides and hydroxides; commercial cobalt oxides</td></tr>
+<tr><td>2823</td><td>Titanium oxides</td></tr>
+<tr><td>2825</td><td>Hydrazine and hydroxylamine and their inorganic salts; inorganic bases, metal oxides, hydroxides and peroxides, n.e.s.</td></tr>
+<tr><td>2827</td><td>Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides</td></tr>
+<tr><td>2828</td><td>Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites</td></tr>
+<tr><td>2829</td><td>Chlorates and perchlorates; bromates and perbromates; iodates and periodates</td></tr>
+<tr><td>2832 20</td><td>Sulphites (excluding sodium)</td></tr>
+<tr><td>2833</td><td>Sulphates; alums; peroxosulphates ‘persulphates’</td></tr>
+<tr><td>2834</td><td>Nitrites; nitrates</td></tr>
+<tr><td>2835</td><td>Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined</td></tr>
+<tr><td>2836</td><td>Carbonates; peroxocarbonates ‘percarbonates’; commercial ammonium carbonate containing ammonium carbamate</td></tr>
+<tr><td>2839</td><td>Silicates; commercial alkali metal silicates</td></tr>
+<tr><td>2840</td><td>Borates; Peroxoborates (perborates)</td></tr>
+<tr><td>2841</td><td>Salts of oxometallic or peroxometallic acids</td></tr>
+<tr><td>2843</td><td>Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals</td></tr>
+<tr><td>2846</td><td>Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals</td></tr>
+<tr><td>2847</td><td>Hydrogen peroxide, whether or not solidified with urea</td></tr>
+<tr><td>2901</td><td>Acyclic hydrocarbons</td></tr>
+<tr><td>2902</td><td>Cyclic hydrocarbons</td></tr>
+<tr><td>2903</td><td>Halogenated derivatives of hydrocarbons</td></tr>
+<tr><td>2904</td><td>Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated</td></tr>
+<tr><td>2905</td><td>Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2906</td><td>Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2907</td><td>Phenols; phenol-alcohols</td></tr>
+<tr><td>2909</td><td>Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxide, ketone peroxides, whether or not chemically defined, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2910</td><td>Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2911</td><td>Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2912</td><td>Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde</td></tr>
+<tr><td>2914</td><td>Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2915</td><td>Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2916</td><td>Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2917</td><td>Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2918</td><td>Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2920</td><td>Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2921</td><td>Amine-function compounds</td></tr>
+<tr><td>2922</td><td>Oxygen-function amino-compounds</td></tr>
+<tr><td>2923</td><td>Quaternary ammonium salts and hydroxides; Lecithins and other phosphoaminolipids, whether or not chemically defined</td></tr>
+<tr><td>2924</td><td>Carboxyamide-function compounds; amide-function compounds of carbonic acid</td></tr>
+<tr><td>2925</td><td>Carboxyimide-function compounds, incl. saccharin and its salts, and imine-function compounds</td></tr>
+<tr><td>2926</td><td>Nitrile-function compounds</td></tr>
+<tr><td>2929</td><td>Compounds with other nitrogen function</td></tr>
+<tr><td>2930</td><td>Organo-sulphur compounds</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2931</td><td>Other organo-inorganic compounds</td></tr>
+<tr><td>Ex 2932</td><td>Heterocyclic compounds with oxygen hetero-atom(s) only, except for CN code 2932 20</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2933 29</td><td>Heterocyclic compounds with nitrogen hetero-atom(s) only, containing an unfused imidazole ring, whether or not hydrogenated, in the structure (excluding hydantoin and its derivatives, and products of subheading 3002 10)</td></tr>
+<tr><td>2933 54</td><td>Other derivatives of malonylurea (barbituric acid); salts thereof</td></tr>
+<tr><td>2933 71</td><td>6-Hexanelactam (epsilon-caprolactam)</td></tr>
+<tr><td>2933 79</td><td>Lactams (excl. 6-hexanelactam ‘epsilon-caprolactam’, clobazam (inn), methyprylon (inn), and inorganic or organic compounds of mercury)</td></tr>
+<tr><td>2933 99</td><td>Heterocyclic compounds with nitrogen hetero-atom(s) only (excluding: – Compounds containing in the structure an unfused pyrazole ring (whether or not hydrogenated) or an unfused imidazole ring (whether or not hydrogenated) or an unfused pyridine ring (whether or not hydrogenated) or a quinoline or isoquinoline ring- system (whether or not hydrogenated), not further fused or a pyrimidine ring (whether or not hydrogenated) or piperazine ring or an unfused triazine ring (whether or not hydrogenated) – Lactams – Alprazolam (INN), camazepam (INN), chlordiazepoxide (INN), clonazepam (INN), clorazepate, delorazepam (INN), diazepam (INN), estazolam (INN), ethyl loflazepate (INN), fludiazepam (INN), flunitrazepam (INN), flurazepam (INN), halazepam (INN), lorazepam (INN), lormetazepam (INN), mazindol (INN), medazepam (INN), midazolam (INN), nimetazepam (INN), nitrazepam (INN), nordazepam (INN), oxazepam (INN), pinazepam (INN), prazepam (INN), pyrovalerone (INN), temazepam (INN), tetrazepam (INN) and triazolam (INN); salts thereof – Azinphos-methyl (ISO))</td></tr>
+<tr><td>2938</td><td>Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives</td></tr>
+<tr><td>2940</td><td>Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 2937, 2938 or 2939</td></tr>
+<tr><td>3201</td><td>Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives</td></tr>
+<tr><td>3202</td><td>Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning</td></tr>
+<tr><td>3203</td><td>Colouring matter of vegetable or animal origin, incl. dye extracts (excl. animal black), whether or not chemically defined; preparations based on colouring matter of vegetable or animal origin of a kind used to dye fabrics or produce colorant preparations (excl. preparations of heading 3207, 3208, 3209, 3210, 3213 and 3215) – Other</td></tr>
+<tr><td>3204</td><td>Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined</td></tr>
+<tr><td>3205</td><td>Colour lakes (other than chinese or japanese lacquer and paints); preparations based on colour lakes of a kind used to dye fabrics or produce colorant preparations (excl. preparations of heading 3207, 3208, 3209, 3210, 3213 and 3215)</td></tr>
+<tr><td>3206</td><td>Other colouring matter; preparations as specified in note 3 to this chapter, other than those of heading 3203, 3204 or 3205; inorganic products of a kind used as luminophores, whether or not chemically defined</td></tr>
+<tr><td>3207</td><td>Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes, liquid lustres and similar preparations of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass in the form of powder, granules or flakes</td></tr>
+<tr><td>3208</td><td>Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions of products of headings 3901 to 3913 in volatile organic solvents, containing &gt; 50 % solvent by weight (excl. solutions of collodion)</td></tr>
+<tr><td>3209</td><td>Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium</td></tr>
+<tr><td>3210</td><td>Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather</td></tr>
+<tr><td>3211</td><td>Prepared driers</td></tr>
+<tr><td>3212 90</td><td>Pigments (including metallic powders and flakes) dispersed in non- aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale – Other</td></tr>
+<tr><td>3214</td><td>Glaziers’ putty, grafting putty, resin cements, caulking compounds and other mastics; painters’ fillings; non-refractory surfacing preparations for façades, indoor walls, floors, ceilings or the like</td></tr>
+<tr><td>3215</td><td>Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid</td></tr>
+<tr><td>3302 90</td><td>Mixtures of odoriferous substances and mixtures, incl. alcoholic solutions, based on one or more of these substances, of a kind used as raw materials in industry (excl. of a kind used in the food or drink industries)</td></tr>
+<tr><td>3402</td><td>Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401</td></tr>
+<tr><td>3403</td><td>Lubricant preparations, incl. cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations based on lubricants; textile lubricant preparations and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials (excl. preparations containing, as basic constituents, ≥ 70 % petroleum oil or bituminous mineral oil by weight)</td></tr>
+<tr><td>3404</td><td>Artificial waxes and prepared waxes</td></tr>
+<tr><td>3405</td><td>Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 3404</td></tr>
+<tr><td>3505 10</td><td>Dextrins and other modified starches</td></tr>
+<tr><td>3506</td><td>Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg</td></tr>
+<tr><td>3507 90</td><td>Enzymes and prepared enzymes, not elsewhere specified or included (excl. rennet and concentrates thereof)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>3603</td><td>Safety fuses; detonating cords; percussion or detonating caps; igniters; electric detonators</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>3604</td><td>Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles</td></tr>
+<tr><td>3605</td><td>Matches, other than pyrotechnic articles of heading 3604</td></tr>
+<tr><td>3606</td><td>Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in note 2 to Chapter 36</td></tr>
+<tr><td>3701</td><td>Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs</td></tr>
+<tr><td>3702</td><td>Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed</td></tr>
+<tr><td>3703</td><td>Photographic paper, paperboard and textiles, sensitised, unexposed</td></tr>
+<tr><td>3705</td><td>Photographic plates and film, exposed and developed (excl. products made of paper, paperboard or textiles, cinematographic film and ready-to-use printing plates)</td></tr>
+<tr><td>3706</td><td>Cinematographic film, exposed and developed, whether or not incorporating soundtrack or consisting only of soundtrack</td></tr>
+<tr><td>3707</td><td>Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use</td></tr>
+<tr><td>3801</td><td>Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi-manufactures</td></tr>
+<tr><td>3802</td><td>Activated carbon; activated natural mineral products; animal black, whether or not spent</td></tr>
+<tr><td>3806</td><td>Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums</td></tr>
+<tr><td>3807</td><td>Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewer’s pitch and similar preparations based on rosin, resin acids or vegetable pitch (excl. burgundy pitch, yellow pitch, stearin pitch, fatty acid pitch, fatty tar and glycerin pitch)</td></tr>
+<tr><td>3808 94</td><td>Disinfectants, put up in forms or packings for retail sale or as preparations or articles</td></tr>
+<tr><td>3809</td><td>Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations such as dressings and mordants of a kind used in the textile, paper, leather or like industries, n.e.s.</td></tr>
+<tr><td>3810</td><td>Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding pastes and powders consisting of metal and other materials; preparations of a kind used as coatings or cores for welding electrodes or rods</td></tr>
+<tr><td>3811</td><td>Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils, incl. gasoline, or for other liquids used for the same purposes as mineral oils</td></tr>
+<tr><td>3812</td><td>Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other compound stabilisers for rubber or plastics</td></tr>
+<tr><td>3813</td><td>Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades (excl. full or empty fire-extinguishing devices, whether or not portable, unmixed chemically undefined products with fire-extinguishing properties in other forms)</td></tr>
+<tr><td>3814</td><td>Organic composite solvents and thinners, n.e.s.; prepared paint or varnish removers (excl. nail varnish remover)</td></tr>
+<tr><td>3815</td><td>Reaction initiators, reaction accelerators and catalytic preparations, n.e.s. (excl. rubber accelerators)</td></tr>
+<tr><td>3816</td><td>Refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 3801</td></tr>
+<tr><td>3817</td><td>Mixed alkylbenzenes and mixed alkylnaphthalenes produced by the alkylation of benzene and naphthalene (excl. mixed isomers of cyclic hydrocarbons)</td></tr>
+<tr><td>3819</td><td>Hydraulic brake fluids and other prepared liquids for hydraulic transmission not containing petroleum oil or bituminous mineral oil, or containing &lt; 70 % petroleum oil or bituminous mineral oil by weight</td></tr>
+<tr><td>3820</td><td>Anti-freezing preparations and prepared de-icing fluids (excl. prepared additives for mineral oils or other liquids used for the same purposes as mineral oils)</td></tr>
+<tr><td>3823</td><td>Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols</td></tr>
+<tr><td>3824</td><td>Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included</td></tr>
+<tr><td>3825 90</td><td>Residual products of the chemical or allied industries, n.e.s. (excl. waste)</td></tr>
+<tr><td>3826</td><td>Biodiesel and mixtures thereof, not containing or containing &lt; 70 % by weight of petroleum oils or oils obtained from bituminous minerals</td></tr>
+<tr><td>3827 90</td><td>Mixtures containing halogenated derivatives of methane, ethane or propane, not else specified in other sub-headings pertaining to Heading 3827</td></tr>
+<tr><td>3901</td><td>Polymers of ethylene, in primary forms</td></tr>
+<tr><td>3902</td><td>Polymers of propylene or of other olefins, in primary forms</td></tr>
+<tr><td>3903</td><td>Polymers of styrene, in primary forms</td></tr>
+<tr><td>3904</td><td>Polymers of vinyl chloride or of other halogenated olefins, in primary forms</td></tr>
+<tr><td>3905</td><td>Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers, in primary forms</td></tr>
+<tr><td>3906</td><td>Acrylic polymers, in primary forms</td></tr>
+<tr><td>3907</td><td>Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms</td></tr>
+<tr><td>3908</td><td>Polyamides, in primary forms</td></tr>
+<tr><td>3909</td><td>Amino-resins, phenolic resins and polyurethanes, in primary forms</td></tr>
+<tr><td>3910</td><td>Silicones in primary forms</td></tr>
+<tr><td>3911</td><td>Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in note 3 to Chapter 39, not elsewhere specified or included, in primary forms</td></tr>
+<tr><td>3912</td><td>Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms</td></tr>
+<tr><td>3913</td><td>Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms</td></tr>
+<tr><td>3914</td><td>Ion-exchangers based on polymers of headings 3901 to 3913, in primary forms</td></tr>
+<tr><td>3915</td><td>Waste, parings and scrap, of plastics</td></tr>
+<tr><td>3916</td><td>Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics</td></tr>
+<tr><td>3917</td><td>Tubes, pipes and hoses, and fittings therefor (for example joints, elbows, flanges), of plastics</td></tr>
+<tr><td>3920</td><td>Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials</td></tr>
+<tr><td>3921</td><td>Other plates, sheets, film, foil and strip, of plastics</td></tr>
+<tr><td>3922 90</td><td>Bidets, lavatory pans, flushing cisterns and similar sanitary ware, of plastics (excl. baths, shower-baths, sinks, washbasins, lavatory seats and covers)</td></tr>
+<tr><td>3925</td><td>Builders’ ware of plastics, not elsewhere specified or included</td></tr>
+<tr><td>3926 90</td><td>Articles of plastics and articles of other materials of heading 3901 to 3914 [excluding: office or school supplies; articles of apparel and clothing accessories (including gloves, mittens and mitts); fittings for furniture, coachwork or the like; statuettes and other ornamental articles]</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4001</td><td>Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4002</td><td>Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of natural rubber, balata, gutta-percha, guayule, chicle or similar types of natural rubber with synthetic rubber or factice, in primary forms or in plates, sheets or strip</td></tr>
+<tr><td>4005</td><td>Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip</td></tr>
+<tr><td>4006 10</td><td>‘Camel-back’ strips of unvulcanised rubber, for retreading rubber tyres</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4007</td><td>Vulcanised rubber thread and cord</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4008</td><td>Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber</td></tr>
+<tr><td>4009</td><td>Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges)</td></tr>
+<tr><td>4010</td><td>Conveyor or transmission belts or belting, of vulcanised rubber</td></tr>
+<tr><td>Ex 4011</td><td>New pneumatic tyres, of rubber, except CN code 4011 30 00</td></tr>
+<tr><td>4012</td><td>Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber</td></tr>
+<tr><td>4013</td><td>Inner tubes, of rubber</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Ex 4015</td><td>Articles of apparel and clothing accessories (including gloves, mittens and mitts), of vulcanised rubber other than hard rubber, except for CN code 4015 12</td></tr>
+<tr><td>4016</td><td>Other articles of vulcanised rubber other than hard rubber;</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4017</td><td>Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4407</td><td>Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness of &gt; 6 mm</td></tr>
+<tr><td>4408 10</td><td>Sheets for veneering, incl. those obtained by slicing laminated wood, for coniferous plywood or for other similar laminated coniferous wood and other coniferous wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness of ≤ 6 mm</td></tr>
+<tr><td>4411 13</td><td>Medium density fibreboard ‘mdf’ of wood, of a thickness &gt; 5 mm but ≤ 9 mm</td></tr>
+<tr><td>4411 94</td><td>Fibreboard of wood or other ligneous materials, whether or not agglomerated with resins or other organic bonding agents, of a density of ≤ 0,5 g/cm3 (excl. medium density fibreboard ‘mdf’; particle board, whether or not bonded with one or more sheets of fibreboard; laminated wood with a layer of plywood; cellular wood panels of which both sides are fibreboard; paperboard; identifiable furniture components)</td></tr>
+<tr><td>4412</td><td>Plywood, veneered panels and similar laminated wood</td></tr>
+<tr><td>4416</td><td>Casks, barrels, vats, tubs and other coopers’ products parts thereof, of wood, incl. staves</td></tr>
+<tr><td>4418 40</td><td>Wooden shuttering for concrete constructional work (excl. plywood boarding)</td></tr>
+<tr><td>4418 60</td><td>Posts and beams, of wood</td></tr>
+<tr><td>4418 79</td><td>Flooring panels, assembled, of wood other than bamboo (excl. multilayer panels and panels for mosaic floors)</td></tr>
+<tr><td>4503</td><td>Articles of natural cork</td></tr>
+<tr><td>4504</td><td>Agglomerated cork (with or without a binding substance) and articles of agglomerated cork</td></tr>
+<tr><td>4701</td><td>Mechanical wood pulp, not chemically treated</td></tr>
+<tr><td>4703</td><td>Chemical wood pulp, soda or sulphate (excl. dissolving grades)</td></tr>
+<tr><td>4704</td><td>Chemical wood pulp, sulphite (excl. dissolving grades)</td></tr>
+<tr><td>4705</td><td>Wood pulp obtained by a combination of mechanical and chemical pulping processes</td></tr>
+<tr><td>4706</td><td>Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material</td></tr>
+<tr><td>4707</td><td>Recovered (waste and scrap) paper or paperboard</td></tr>
+<tr><td>4802 20</td><td>Paper and paperboard of a kind used as a base for photosensitive, heat-sensitive or electrosensitive paper and paperboard, uncoated, in rolls or in square or rectangular sheets, of any size</td></tr>
+<tr><td>4802 40</td><td>Wallpaper base, uncoated</td></tr>
+<tr><td>4802 58</td><td>Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punchcards and punch-tape paper, in rolls or in square or rectangular sheets, of any size, not containing fibres obtained by a mechanical or chemi-mechanical process or of which ≤ 10 % by weight of the total fibre content consists of such fibres, weighing &gt; 150 g/m2, n.e.s.</td></tr>
+<tr><td>4802 61</td><td>Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punchcards and punch-tape paper, in rolls of any size, of which &gt; 10 % by weight of the total fibre content consists of fibres obtained by a mechanical or chemi-mechanical process, n.e.s.</td></tr>
+<tr><td>4804</td><td>Uncoated kraft paper and paperboard, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state (excl. goods of heading 4802 or 4803)</td></tr>
+<tr><td>4805</td><td>Other paper and paperboard, uncoated, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state, not worked other than as specified in note 3 to this Chapter, n.e.s.</td></tr>
+<tr><td>4806</td><td>Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state</td></tr>
+<tr><td>4807</td><td>Composite paper and paperboard ‘made by sticking flat layers of paper or paperboard together with an adhesive’, not surface-coated or impregnated, whether or not internally reinforced, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state</td></tr>
+<tr><td>4808</td><td>Corrugated paper and paperboard ‘with or without glued flat surface sheets’, creped, crinkled, embossed or perforated, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state (excl. goods of heading 4803)</td></tr>
+<tr><td>4809</td><td>Carbon paper, self-copy paper and other copying or transfer papers, incl. coated or impregnated paper for duplicator stencils or offset plates, whether or not printed, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state</td></tr>
+<tr><td>4810</td><td>Paper and paperboard, coated on one or both sides with kaolin ‘china clay’ or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or printed, in rolls or in square or rectangular sheets, of any size (excl. all other coated papers and paperboards)</td></tr>
+<tr><td>4811</td><td>Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or in square or rectangular sheets, of any size, other than goods of heading 4803, 4809 and 4810</td></tr>
+<tr><td>4814 90</td><td>Wallpaper and similar wallcoverings of paper, and window transparencies of paper (excl. wallcoverings of paper, consisting of paper coated or covered, on the face side, with a grained, embossed, coloured or design-printed or otherwise decorated layer of plastics)</td></tr>
+<tr><td>4819 20</td><td>Folding cartons, boxes and cases, of non-corrugated paper or paperboard</td></tr>
+<tr><td>4822</td><td>Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard, whether or not perforated or hardened</td></tr>
+<tr><td>4823</td><td>Paper, paperboard, cellulose wadding and webs of cellulose fibres, in strips or rolls of a width ≤ 36 cm, in rectangular or square sheets of which no side &gt; 36 cm in the unfolded state, or cut to shape other than rectangular or square, and articles of paper pulp, paper, paperboard, cellulose wadding or webs or cellulose fibres, n.e.s.</td></tr>
+<tr><td>4906</td><td>Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten texts; photographic reproductions on sensitised paper and carbon copies of the foregoing</td></tr>
+<tr><td>5105</td><td>Wool and fine or coarse animal hair, carded or combed, incl. combed wool in fragments</td></tr>
+<tr><td>5106</td><td>Carded wool yarn (excl. that put up for retail sale)</td></tr>
+<tr><td>5107</td><td>Yarn of combed wool (excl. that put up for retail sale)</td></tr>
+<tr><td>5112</td><td>Woven fabrics of combed wool or of combed fine animal hair (excl. fabrics for technical purposes of heading 5911)</td></tr>
+<tr><td>5205</td><td>Cotton yarn other than sewing thread, containing ≥ 85 % cotton by weight (excl. that put up for retail sale)</td></tr>
+<tr><td>5206 42</td><td>Multiple ‘folded’ or cabled cotton yarn containing predominantly, but &lt; 85 % cotton by weight, of combed fibres and with a linear density of 232,56 decitex to &lt; 714,29 decitex ‘&gt; mn 14 to mn 43’ per single yarn (excl. sewing thread and yarn put up for retail sale)</td></tr>
+<tr><td>5209 11</td><td>Plain woven fabrics of cotton, containing ≥ 85 % cotton by weight and weighing &gt; 200 g/m2, unbleached</td></tr>
+<tr><td>5211</td><td>Woven fabrics of cotton, containing predominantly, but &lt; 85 % cotton by weight, mixed principally or solely with man-made fibres and weighing &gt; 200 g/m2</td></tr>
+<tr><td>5308</td><td>Yarn of other vegetable textile fibres; paper yarn</td></tr>
+<tr><td>5402 63</td><td>Multiple ‘folded’ or cabled filament yarn of polypropylene, incl. monofilament of &lt; 67 decitex (excl. sewing thread, yarn put up for retail sale and textured yarn)</td></tr>
+<tr><td>5403</td><td>Artificial filament yarn, incl. artificial monofilament of &lt; 67 decitex (excl. sewing thread and yarn put up for retail sale)</td></tr>
+<tr><td>5404</td><td>Synthetic monofilament of ≥ 67 decitex and with a cross sectional dimension of ≤ 1 mm; strip and the like, e.g. artificial straw, of synthetic textile material, with an apparent width of ≤ 5 mm</td></tr>
+<tr><td>5407 30</td><td>Woven fabrics of synthetic filament yarn, incl. monofilament of ≥ 67 decitex and with a cross sectional dimension of ≤ 1 mm, consisting of layers of parallel textile yarns superimposed on each other at acute or right angles, the layers being bonded at the intersections of the yarns by an adhesive or by thermal bonding</td></tr>
+<tr><td>5501</td><td>Synthetic filament tow as specified in note 1 to Chapter 55</td></tr>
+<tr><td>5502</td><td>Artificial filament tow as specified in note 1 to Chapter 55</td></tr>
+<tr><td>5503</td><td>Synthetic staple fibres, not carded, combed or otherwise processed for spinning</td></tr>
+<tr><td>5504 90</td><td>Artificial staple fibres, not carded, combed or otherwise processed for spinning (excl. those of viscose rayon)</td></tr>
+<tr><td>5506</td><td>Synthetic staple fibres, carded, combed or otherwise processed for spinning</td></tr>
+<tr><td>5507</td><td>Artificial staple fibres, carded, combed or otherwise processed for spinning</td></tr>
+<tr><td>5512 21</td><td>Woven fabrics containing ≥ 85 % acrylic or modacrylic staple fibres by weight, unbleached or bleached</td></tr>
+<tr><td>5512 99</td><td>Woven fabrics containing ≥ 85 % synthetic staple fibres by weight, dyed, made of yarn of different colours or printed (excl. those of acrylic, modacrylic or polyester staple fibres)</td></tr>
+<tr><td>5516</td><td>Woven fabrics of artificial staple fibres</td></tr>
+<tr><td>5601 29</td><td>wadding of textile materials and articles thereof (excl. of cotton or man-made fibres; sanitary towels and tampons, napkins and napkin liners for babies and similar sanitary articles, wadding and articles thereof, impregnated or covered with medicated substances or put up for retail for medical, surgical, dental or veterinary purposes, or impregnated, coated or covered with perfumes, make-up, soaps, cleansing agents, etc.)</td></tr>
+<tr><td>5601 30</td><td>textile flock and dust and mill neps</td></tr>
+<tr><td>5604</td><td>Textile-covered rubber thread and cord; textile yarn, strip and the like of heading 5404 and 5405, impregnated, coated, covered or sheathed with rubber or plastics (excl. imitation catgut, thread and cord with fish-hook attachments or otherwise put up as fishing line)</td></tr>
+<tr><td>5605</td><td>Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, of textile fibres, combined with metal in the form of thread, strip or powder or covered with metal (excl. yarns manufactured from a mixture of textile fibres and metal fibres, with anti-static properties; yarns reinforced with metal wire; articles with the character of trimmings)</td></tr>
+<tr><td>5607 41</td><td>Binder or baler twine, of polyethylene or polypropylene</td></tr>
+<tr><td>5801 27</td><td>Warp pile fabrics, of cotton (excl. terry towelling and similar woven terry fabrics, tufted textile fabrics and narrow woven fabrics of heading 5806)</td></tr>
+<tr><td>5803</td><td>Gauze (excl. narrow woven fabrics of heading 5806)</td></tr>
+<tr><td>5806 40</td><td>Narrow fabrics consisting of warp without weft assembled by means of an adhesive ‘bolducs’, with a width of ≤ 30 cm</td></tr>
+<tr><td>5901</td><td>Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books, the manufacture of boxes and articles of cardboard or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations (excl. plastic-coated textile fabrics)</td></tr>
+<tr><td>5905</td><td>Textile wallcoverings</td></tr>
+<tr><td>5908</td><td>Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas-mantle fabric for incandescent gas mantles, whether or not impregnated (excl. wax-covered wicks of the taper variety, fuses and detonating fuses, wicks in the form of textile yarn and glass-fibre wicks)</td></tr>
+<tr><td>5910</td><td>Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material (excl. those of a thickness of &lt; 3 mm and of indeterminate length or cut to length only, and those impregnated, coated, covered or laminated with rubber or made of yarn or cord impregnated or coated with rubber)</td></tr>
+<tr><td>5911 10</td><td>Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with rubber, leather or other material, of a kind used for card clothing, and similar fabrics of a kind used for other technical purposes, incl. narrow fabrics made of velvet impregnated with rubber, for covering weaving spindles ‘weaving beams’</td></tr>
+<tr><td>5911 31</td><td>Textile fabrics and felts, endless or fitted with linking devices, of a kind used in papermaking or similar machines, e.g. for paper pulp or asbestos-cement, weighing &lt; 650 g/m2</td></tr>
+<tr><td>5911 32</td><td>Textile fabrics and felts, endless or fitted with linking devices, of a kind used in papermaking or similar machines, e.g. for paper pulp or asbestos-cement, weighing ≥ 650 g/m2</td></tr>
+<tr><td>5911 40</td><td>Straining cloth of a kind used in oil-presses or for similar technical purposes, incl. that of human hair</td></tr>
+<tr><td>6001 99</td><td>Pile fabrics, knitted or crocheted (excl. cotton or man-made fibres and ‘long pile’ fabrics)</td></tr>
+<tr><td>6003</td><td>Knitted or crocheted fabrics, of a width ≤ 30 cm (excl. those containing by weight ≥ 5 % of elastomeric yarn or rubber thread, and pile fabrics, incl. ‘long pile’, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)</td></tr>
+<tr><td>6005 36</td><td>Unbleached or bleached warp knit fabrics of synthetic fibres ‘incl. those made on galloon knitting machines’, of a width of &gt; 30 cm (excl. those containing by weight ≥ 5 % of elastomeric yarn or rubber thread, and pile fabrics, incl. ‘long pile’, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)</td></tr>
+<tr><td>6005 44</td><td>Printed warp knit fabrics of artificial fibres ‘incl. those made on galloon knitting machines’, of a width of &gt; 30 cm (excl. those containing by weight ≥ 5 % of elastomeric yarn or rubber thread, and pile fabrics, incl. ‘long pile’, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)</td></tr>
+<tr><td>6006 10</td><td>Fabrics, knitted or crocheted, of a width of &gt; 30 cm, of wool or fine animal hair (excl. warp knit fabrics ‘incl. those made on galloon knitting machines’, those containing by weight ≥ 5 % of elastomeric yarn or rubber thread, and pile fabrics, incl. ‘long pile’, looped pile fabrics, labels, badges and similar articles, and knitted or crocheted fabrics, impregnated, coated, covered or laminated)</td></tr>
+<tr><td>6309</td><td>Worn clothing and clothing accessories, blankets and travelling rugs, household linen and articles for interior furnishing, of all types of textile materials, incl. all types of footwear and headgear, showing signs of appreciable wear and presented in bulk or in bales, sacks or similar packings (excl. carpets, other floor coverings and tapestries)</td></tr>
+<tr><td>6802 92</td><td>Calcareous stone, in any form (excl. marble, travertine and alabaster, tiles, cubes and similar articles of subheading 6802.10, imitation jewellery, clocks, lamps and lighting fittings and parts thereof, original sculptures and statuary, setts, curbstones and flagstones)</td></tr>
+<tr><td>6804</td><td>Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>6805</td><td>Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>6806</td><td>Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound-absorbing mineral materials, other than those of heading 6811 or 6812 or of Chapter 69</td></tr>
+<tr><td>6807</td><td>Articles of asphalt or of similar materials, e.g. petroleum bitumen or coal tar pitch</td></tr>
+<tr><td>6809 19</td><td>Boards, sheets, panels, tiles and similar articles, of plaster or compositions based on plaster (excl. ornamented, faced or reinforced with paper or paperboard only, and with plaster agglomerated articles for heat-insulation, sound-insulation or sound absorption)</td></tr>
+<tr><td>6810</td><td>Articles of cement, of concrete or of artificial stone, whether or not reinforced</td></tr>
+<tr><td>6811</td><td>Articles of asbestos-cement, cellulose fibre-cement or the like</td></tr>
+<tr><td>6813</td><td>Friction material and articles thereof, e.g., sheets, rolls, strips, segments, discs, washers, pads, not mounted, for brakes, clutches or the like, with a basis of asbestos, other mineral substances or cellulose, whether or not combined with textile or other materials (excl. mounted friction material)</td></tr>
+<tr><td>6814</td><td>Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials</td></tr>
+<tr><td>6815</td><td>Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included</td></tr>
+<tr><td>6901</td><td>Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals, e.g. kieselguhr, tripolite or diatomite, or of similar siliceous earths</td></tr>
+<tr><td>6902</td><td>Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths</td></tr>
+<tr><td>6903</td><td>Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods and slide gates), other than those of siliceous fossil meals or of similar siliceous earths</td></tr>
+<tr><td>6904 10</td><td>Building bricks (excl. those of siliceous fossil meals or similar siliceous earths, and refractory bricks of heading 6902)</td></tr>
+<tr><td>6905</td><td>Roofing tiles, chimney pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods</td></tr>
+<tr><td>6906 00</td><td>Ceramic pipes, conduits, guttering and pipe fittings (excl. of siliceous fossil meals or similar siliceous earths, refractory ceramic goods, chimney liners, pipes specifically manufactured for laboratories, insulating tubing and fittings and other piping for electrotechnical purposes)</td></tr>
+<tr><td>6907 22</td><td>Ceramic flags and paving, hearth or wall tiles, of a water absorption coefficient by weight &gt; 0,5 % but ≤ 10 % (excl. mosaic cubes and finishing ceramics)</td></tr>
+<tr><td>6907 40</td><td>Finishing ceramics</td></tr>
+<tr><td>6909</td><td>Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods</td></tr>
+<tr><td>7002</td><td>Glass in balls (other than microspheres of heading 7018), rods or tubes, unworked</td></tr>
+<tr><td>7003</td><td>Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7004</td><td>Sheets of glass, drawn or blown, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7005</td><td>Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7007</td><td>Safety glass, consisting of toughened (tempered), or laminated glass</td></tr>
+<tr><td>7011 10</td><td>Glass envelopes, incl. bulbs and tubes, open, and glass parts thereof, without fittings, for electric lighting</td></tr>
+<tr><td>72</td><td>Iron and steel</td></tr>
+<tr><td>7301</td><td>Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel</td></tr>
+<tr><td>7302</td><td>Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ‘cross-ties’, fish-plates, chairs, chair wedges, sole plates ‘base plates’, rail clips, bedplates, ties and other material specialised for jointing or fixing rails</td></tr>
+<tr><td>7303</td><td>Tubes, pipes and hollow profiles, of cast iron</td></tr>
+<tr><td>7304</td><td>Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel</td></tr>
+<tr><td>7305</td><td>Tubes and pipes, n.e.s. (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406,4 mm, of iron or steel</td></tr>
+<tr><td>7306</td><td>Tubes, pipes and hollow profiles n.e.s. (for example, open seam or welded, riveted or similarly closed), of iron or steel</td></tr>
+<tr><td>7307</td><td>Tube or pipe fittings (for example couplings, elbows, sleeves), of iron or steel</td></tr>
+<tr><td>7308</td><td>Structures and parts of structures (for example bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel (excl. prefabricated buildings of heading 9406</td></tr>
+<tr><td>7309</td><td>Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment</td></tr>
+<tr><td>7310</td><td>Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, for any material ‘other than compressed or liquefied gas’, of a capacity of ≤ 300 l, not fitted with mechanical or thermal equipment, whether or not lined or heat-insulated, n.e.s.</td></tr>
+<tr><td>7311</td><td>Containers of iron or steel, for compressed or liquefied gas (excl. containers specifically constructed or equipped for one or more types of transport)</td></tr>
+<tr><td>7312</td><td>Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated</td></tr>
+<tr><td>7313</td><td>Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel</td></tr>
+<tr><td>7314</td><td>Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel</td></tr>
+<tr><td>7315</td><td>Chain and parts thereof, of iron or steel</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7318</td><td>Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7320</td><td>Springs and leaves for spring, of iron or steel</td></tr>
+<tr><td>7322 90</td><td>Air heaters and hot-air distributors, incl. distributors which can also distribute fresh or conditioned air, non-electrically heated, incorporating a motor-driven fan or blower, and parts thereof, of iron or steel</td></tr>
+<tr><td>7324 29</td><td>Baths of steel sheet</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7325</td><td>Other cast articles of iron or steel</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7326</td><td>Other articles of iron or steel</td></tr>
+<tr><td>Ex 74</td><td>Copper and articles thereof, except CN code 7401 00 00</td></tr>
+<tr><td>7505</td><td>Nickel bars, rods, profiles and wire</td></tr>
+<tr><td>7506</td><td>Nickel plates, sheets, strip and foil</td></tr>
+<tr><td>7507</td><td>Tubes, pipes and tube or pipe fittings ‘e.g., couplings, elbows, sleeves’, of nickel</td></tr>
+<tr><td>7508</td><td>Other articles of nickel</td></tr>
+<tr><td>76</td><td>Aluminium and articles thereof</td></tr>
+<tr><td>7804</td><td>Lead plates, sheets, strip and foil; lead powders and flakes</td></tr>
+<tr><td>7905</td><td>Zinc plates, sheets, strip and foil</td></tr>
+<tr><td>8001</td><td>Unwrought tin</td></tr>
+<tr><td>8003</td><td>Tin bars, rods, profiles and wire</td></tr>
+<tr><td>8007</td><td>Articles of tin</td></tr>
+<tr><td>8101</td><td>Tungsten (wolfram) and articles thereof, including waste and scrap</td></tr>
+<tr><td>8102</td><td>Molybdenum and articles thereof, including waste and scrap</td></tr>
+<tr><td>8105</td><td>Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap</td></tr>
+<tr><td>8109</td><td>Zirconium and articles thereof, including waste and scrap</td></tr>
+<tr><td>8111</td><td>Manganese and articles thereof, including waste and scrap</td></tr>
+<tr><td>8202</td><td>Handsaws; blades for saws of all kinds (including slitting, slotting or toothless saw blades)</td></tr>
+<tr><td>8203</td><td>Files, rasps, pliers (including cutting pliers), pincers, tweezers, metalcutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand tools</td></tr>
+<tr><td>8204</td><td>Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles</td></tr>
+<tr><td>8207</td><td>Interchangeable tools, for hand tools, whether or not power-operated, or for machine tools (for example for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock-drilling or earth-boring tools</td></tr>
+<tr><td>8208 10</td><td>Knives and cutting blades, for machines or for mechanical appliances – for metalworking</td></tr>
+<tr><td>8208 20</td><td>Knives and cutting blades, for machines or for mechanical appliances – for wood-working</td></tr>
+<tr><td>8208 30</td><td>Knives and cutting blades, for machines or for mechanical appliances – used by the food industry</td></tr>
+<tr><td>8208 90</td><td>Knives and cutting blades, for machines or for mechanical appliances – other</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8209</td><td>Plates, sticks, tips and the like for tools, unmounted, of cermets</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8301 20</td><td>Locks used for motor vehicles, of base metal</td></tr>
+<tr><td>8301 70</td><td>Keys presented separately</td></tr>
+<tr><td>8302</td><td>Base-metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base-metal hat-racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal</td></tr>
+<tr><td>8307</td><td>Flexible tubing of base metal, with or without fittings</td></tr>
+<tr><td>8309</td><td>Stoppers, caps and lids, incl. crown corks, screw caps and pouring stoppers, capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8311</td><td>Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8411</td><td>Turbojets, turbopropellers and other gas turbines</td></tr>
+<tr><td>8414</td><td>Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters</td></tr>
+<tr><td>8417</td><td>Industrial or laboratory furnaces and ovens, including incinerators, non-electric</td></tr>
+<tr><td>8419 39</td><td>Dryers (excl. lyophilisation apparatus, freeze drying units and spray dryers; dryers for agricultural products; dryers for wood, paper pulp, paper or paperboard)</td></tr>
+<tr><td>8419 40</td><td>Distilling or rectifying plant</td></tr>
+<tr><td>8419 50</td><td>Heat-exchange units (excl. those used with boilers)</td></tr>
+<tr><td>8419 60</td><td>Machinery for liquefying air or other gases</td></tr>
+<tr><td>8419 89</td><td>Machinery, plant or laboratory equipment, whether or not electrically heated, for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, sterilising, pasteurising, steaming, evaporating, vaporising, condensing or cooling, n.e.s. (excl. machinery used for domestic purposes and furnaces, ovens and other equipment of heading 8514)</td></tr>
+<tr><td>8419 90</td><td>Parts of machinery, plant and laboratory equipment, whether or not electrically heated, for the treatment of materials by a process involving a change of temperature, and of non-electric instantaneous and storage water heaters, n.e.s.</td></tr>
+<tr><td>8451 10</td><td>Dry-cleaning machines</td></tr>
+<tr><td>8451 29</td><td>Drying machines - Other</td></tr>
+<tr><td>8451 30</td><td>Ironing machines and presses (including fusing presses)</td></tr>
+<tr><td>8451 90</td><td>Machinery (other than machines of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made-up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics – Parts</td></tr>
+<tr><td>8456</td><td>Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines</td></tr>
+<tr><td>8459</td><td>Machine tools, incl. way-type unit head machines, for drilling, boring, milling, threading or tapping (excl. lathes and turning centres of heading 8458, gear cutting machines of heading 8461 and hand-operated machines)</td></tr>
+<tr><td>8460</td><td>Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products (excl. gear cutting, gear grinding or gear finishing machines of heading 8461 and machines for working in the hand)</td></tr>
+<tr><td>8461</td><td>Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine tools working by removing metal, or cermets, not elsewhere specified or included</td></tr>
+<tr><td>8462</td><td>Machine tools (including presses) for working metal by forging, hammering or die forging (excluding rolling mills); machine tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified in previous headings</td></tr>
+<tr><td>8463</td><td>Machine tools for working metal, sintered metal carbides or cermets, without removing material (excl. forging, bending, folding, straightening and flattening presses, shearing machines, punching or notching machines, presses and machines for working in the hand)</td></tr>
+<tr><td>8464</td><td>Machine tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass (excl. machines for working in the hand)</td></tr>
+<tr><td>8465</td><td>Machine tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials</td></tr>
+<tr><td>8470</td><td>Calculating machines and pocket-size data-recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device, cash registers</td></tr>
+<tr><td>8472</td><td>Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or -wrapping machines, pencil-sharpening machines, perforating or stapling machines)</td></tr>
+<tr><td>8473</td><td>Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472</td></tr>
+<tr><td>8478</td><td>Machinery for preparing or making up tobacco, not specified or included elsewhere in Chapter 84</td></tr>
+<tr><td>8485</td><td>Machines for additive manufacturing</td></tr>
+<tr><td>8486</td><td>Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in note 11(C) to Chapter 84; parts and accessories</td></tr>
+<tr><td>8487</td><td>Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in Chapter 84</td></tr>
+<tr><td>8506</td><td>Primary cells and primary batteries; parts thereof</td></tr>
+<tr><td>8512</td><td>Electrical lighting or signalling equipment (excluding articles of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles</td></tr>
+<tr><td>8513</td><td>Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 8512</td></tr>
+<tr><td>8515</td><td>Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals, or cermets; parts thereof</td></tr>
+<tr><td>8517</td><td>Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528</td></tr>
+<tr><td>8518</td><td>Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets</td></tr>
+<tr><td>8519</td><td>Sound recording or sound reproducing apparatus</td></tr>
+<tr><td>8521</td><td>Video recording or reproducing apparatus, whether or not incorporating a video tuner</td></tr>
+<tr><td>8522</td><td>Parts and accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521</td></tr>
+<tr><td>8523</td><td>Discs, tapes, solid-state non-volatile storage devices, ‘smart cards’ and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37</td></tr>
+<tr><td>8524</td><td>Flat panel display modules, whether or not incorporating touch-sensitive screens</td></tr>
+<tr><td>8525</td><td>Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders</td></tr>
+<tr><td>8526</td><td>Radar apparatus, radio navigational aid apparatus and radio remote control apparatus</td></tr>
+<tr><td>8527</td><td>Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock</td></tr>
+<tr><td>8528</td><td>Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus</td></tr>
+<tr><td>8530</td><td>Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (excl. mechanical or electromechanical equipment of heading 8608); parts thereof</td></tr>
+<tr><td>8531</td><td>Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530</td></tr>
+<tr><td>8532</td><td>Electrical capacitors, fixed, variable or adjustable (pre-set)</td></tr>
+<tr><td>8533</td><td>Electrical resistors (including rheostats and potentiometers), other than heating resistors</td></tr>
+<tr><td>8534</td><td>Printed circuits</td></tr>
+<tr><td>8536</td><td>Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and other connectors, junction boxes), for a voltage not exceeding 1 000 V; connectors for optical fibres, optical fibre bundles or cables</td></tr>
+<tr><td>8540</td><td>Thermionic, cold cathode or photo-cathode valves and tubes, e.g. vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode ray tubes and television camera tubes; parts thereof</td></tr>
+<tr><td>8541</td><td>Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals</td></tr>
+<tr><td>8543</td><td>Electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter 85</td></tr>
+<tr><td>8546</td><td>Electrical insulators of any material</td></tr>
+<tr><td>8549</td><td>Electrical and electronic waste and scrap</td></tr>
+<tr><td>8602</td><td>Rail locomotives (excl. those powered from an external source of electricity or by accumulators); locomotive tenders</td></tr>
+<tr><td>8604</td><td>Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)</td></tr>
+<tr><td>8606</td><td>Railway or tramway goods vans and wagons (excluding self-propelled and luggage vans and post office coaches)</td></tr>
+<tr><td>8607</td><td>Parts of railway or tramway locomotives or rolling stock</td></tr>
+<tr><td>8608</td><td>Railway or tramway track fixtures and fittings; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing</td></tr>
+<tr><td>8609</td><td>Containers, incl. containers for the transport of fluids, specially designed and equipped for carriage by one or more modes of transport</td></tr>
+<tr><td>8701 21</td><td>Road tractors for semi-trailers – With only compression-ignition internal combustion piston engine (diesel or semi-diesel)</td></tr>
+<tr><td>8701 22</td><td>Road tractors for semi-trailers – With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion</td></tr>
+<tr><td>8701 23</td><td>Road tractors for semi-trailers – With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion</td></tr>
+<tr><td>8701 24</td><td>Road tractors for semi-trailers – With only electric motor for propulsion</td></tr>
+<tr><td>8701 29</td><td>Road tractors for semi-trailers – With only spark-ignition internal combustion piston engine as motors for propulsion</td></tr>
+<tr><td>8701 30</td><td>Track-laying tractors (excluding pedestrian-controlled)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8701 95 90</td><td>Tractors (other than tractors of heading 8709), of an engine power &gt; 130 kW (excluding pedestrian-controlled tractors, road tractors for semi-trailers, track-laying tractors and wheeled agricultural/forestry tractors)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8703 10</td><td>Vehicles for the transport of &lt; 10 persons on snow; golf cars and similar vehicles</td></tr>
+<tr><td>Ex 8703 23</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity &gt; 1 900 cm3 but ≤ 3 000 cm3, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excluding ambulances)</td></tr>
+<tr><td>Ex 8703 24</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with only spark-ignition internal combustion reciprocating piston engine of a cylinder capacity &gt; 3 000 cm3, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excluding ambulances)</td></tr>
+<tr><td>Ex 8703 32</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with only diesel engine of a cylinder capacity &gt; 1 900 cm3 but ≤ 2 500 cm3, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excluding ambulances)</td></tr>
+<tr><td>Ex 8703 33</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with only diesel engine of a cylinder capacity &gt; 2 500 cm3, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excluding ambulances)</td></tr>
+<tr><td>Ex 8703 40</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excl. plug-in hybrids)</td></tr>
+<tr><td>Ex 8703 50</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm (excl. plug-in hybrids)</td></tr>
+<tr><td>Ex 8703 60</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with both spark-ignition internal combustion reciprocating piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm</td></tr>
+<tr><td>Ex 8703 70</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with both diesel engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm</td></tr>
+<tr><td>Ex 8703 80</td><td>Motor cars and other motor vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with only electric motor for propulsion, having a vertical distance between the underside of a car chassis and the road (‘ground clearance’) equal to or above 165 mm</td></tr>
+<tr><td>8703 90</td><td>Motor cars and other vehicles principally designed for the transport of &lt; 10 persons, incl. station wagons and racing cars, with engines other than internal combustion piston engine or electric motor</td></tr>
+<tr><td>Ex 8704</td><td>Motor vehicles for the transport of goods, incl. chassis with engine and cab, excluding vehicles of CN codes 8704 21 91 and 8704 21 99 with engines of a cylinder capacity not exceeding 1 900 cm3</td></tr>
+<tr><td>8705</td><td>Special purpose motor vehicles (other than those principally designed for the transport of persons or goods), e.g. breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops and mobile radiological units</td></tr>
+<tr><td>8708 99</td><td>Other parts and accessories of the motor vehicles of headings 8701 to 8705 (excluding sub-headings from 8708 10 to 8708 95)</td></tr>
+<tr><td>8709</td><td>Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles</td></tr>
+<tr><td>8716</td><td>Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof</td></tr>
+<tr><td>8903</td><td>Yachts and other vessels for pleasure or sports; rowing boats and canoes</td></tr>
+<tr><td>8904</td><td>Tugs and pusher craft</td></tr>
+<tr><td>8905</td><td>Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks, floating or submersible drilling or production platforms</td></tr>
+<tr><td>9001 10</td><td>Optical fibres, optical fibre bundles and cables (excl. made up of individually sheathed fibres of heading 8544)</td></tr>
+<tr><td>9002 11</td><td>Objective lenses for cameras, projectors or photographic enlargers or reducers</td></tr>
+<tr><td>9002 19</td><td>Objective lenses (excl. for cameras, projectors or photographic enlargers or reducers)</td></tr>
+<tr><td>9005</td><td>Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor (excl. instruments for radio-astronomy and other instruments or apparatus specified elsewhere)</td></tr>
+<tr><td>9007</td><td>Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus (excl. video equipment)</td></tr>
+<tr><td>9010</td><td>Apparatus and equipment for photographic or cinematographic laboratories, not elsewhere specified in Chapter 90; negatoscopes; projection screens</td></tr>
+<tr><td>9013</td><td>Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in Chapter 90</td></tr>
+<tr><td>9014</td><td>Direction finding compasses; other navigational instruments and appliances (excl. radio navigational equipment); parts thereof</td></tr>
+<tr><td>9015</td><td>Surveying, incl. photogrammetrical surveying, hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances (excl. compasses); rangefinders</td></tr>
+<tr><td>9016</td><td>Balances of a sensitivity of 5 cg or better, with or without weights</td></tr>
+<tr><td>9017</td><td>Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in Chapter 90</td></tr>
+<tr><td>9024</td><td>Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics); parts thereof</td></tr>
+<tr><td>9025</td><td>Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments</td></tr>
+<tr><td>9026</td><td>Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032</td></tr>
+<tr><td>9027</td><td>Instruments and apparatus for physical or chemical analysis, (for example polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light, (including exposure meters); microtomes</td></tr>
+<tr><td>9028</td><td>Gas, liquid or electricity supply or production meters, including calibrating meters therefor</td></tr>
+<tr><td>9029</td><td>Revolution counters, production counters, taximeters, milometers, pedometers and the like (excl. gas, liquid and electricity meters); speed indicators and tachometers (excl. those of heading 9014 and 9015); stroboscopes</td></tr>
+<tr><td>9030</td><td>Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities (excluding meters of heading 9028); instruments and apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic or other ionising radiations</td></tr>
+<tr><td>9031</td><td>Measuring or checking instruments, appliances and machines not elsewhere specified in Chapter 90; profile projectors</td></tr>
+<tr><td>9032</td><td>Automatic regulating or controlling instruments and apparatus</td></tr>
+<tr><td>9033</td><td>Parts and accessories (not specified or included elsewhere in Chapter 90) for machines, appliances, instruments or apparatus of Chapter 90</td></tr>
+<tr><td>9401 10</td><td>Seats for aircraft</td></tr>
+<tr><td>9401 20</td><td>Seats for motor vehicles</td></tr>
+<tr><td>9403 30</td><td>Wooden furniture of a kind used in offices</td></tr>
+<tr><td>9406</td><td>Prefabricated buildings</td></tr>
+<tr><td>9606</td><td>Buttons, press-fasteners, snap-fasteners and press studs, button moulds and other parts of these articles; button blanks (excl. cuff links)</td></tr>
+<tr><td>9608 91</td><td>Pen nibs and nib points</td></tr>
+<tr><td>9612</td><td>Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes</td></tr>
+<tr><td>Ex 98</td><td>Complete industrial plants, except plants for the production of food and drinks, pharmaceuticals, medicines and medical devices</td></tr>
+</tbody>
+</table>
+
+## ANNEX XIX — LIST OF GOODS AND TECHNOLOGY AS REFERRED TO IN ARTICLE 1bb(2) ON THE PROHIBITION OF TRANSIT VIA BELARUS
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>2710 19 21 </td><td>Jet fuel, kerosene type</td></tr>
+<tr><td>2710 19 29 </td><td>Medium oils and preparations, of petroleum or bituminous minerals</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>3403</td><td>Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 % or more by weight of petroleum oils or of oils obtained from bituminous minerals</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>3811 </td><td>Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils, incl. gasoline, or for other liquids used for the same purposes as mineral oils</td></tr>
+<tr><td>3815 12 </td><td>Supported catalysts with precious metal or a precious-metal compound as the active substance, not else specified</td></tr>
+<tr><td>7219 21 </td><td>Flat-rolled products of stainless steel, of a width of 600 mm or more, not further worked than hot-rolled, not in coils, of a thickness of exceeding 10 mm</td></tr>
+<tr><td>7225 40 </td><td>Flat-rolled products of other alloy steel other than stainless, of a width of 600 mm or more, not further worked than hot-rolled, not in coils (excluding products of silicon-electrical steel)</td></tr>
+<tr><td>7304 29 </td><td>Casing and tubing, seamless, of iron or steel, of a kind used in drilling for oil or gas (excluding products of cast iron)</td></tr>
+<tr><td>7308 90 </td><td>Structures and parts of structures, of iron or steel (excl. bridges and bridge-sections, towers and lattice masts, doors and windows and their frames, thresholds for doors, equipment for scaffolding, shuttering, propping or pit-propping)</td></tr>
+<tr><td>7311 00 </td><td>Containers of iron or steel, for compressed or liquefied gas (excluding containers specifically constructed or equipped for one or more types of transport)</td></tr>
+<tr><td>8419 50 </td><td>Heat-exchange units</td></tr>
+<tr><td>8419 89 </td><td>Machinery, plant or laboratory equipment, whether or not electrically heated, for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, sterilising, pasteurising, steaming, evaporating, vaporising, condensing or cooling, (excl. machinery used for domestic purposes and furnaces, ovens and other equipment of heading 8514 )</td></tr>
+<tr><td>8419 90 </td><td>Parts of machinery, plant and laboratory equipment, whether or not electrically heated, for the treatment of materials by a process involving a change of temperature, and of non-electric instantaneous and storage water heaters.</td></tr>
+<tr><td>8456 30 </td><td>Machine tools for working any material by removal of material, operated by electro-discharge processes</td></tr>
+<tr><td>8460 </td><td>Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 8461 </td></tr>
+<tr><td>8515 19 </td><td>Brazing or soldering machines (excluding soldering irons and guns)</td></tr>
+<tr><td>8543 30 </td><td>Machines and apparatus for electroplating, electrolysis or electrophoresis</td></tr>
+<tr><td>8701 21 </td><td>Road tractors for semi-trailers, with only compression-ignition internal combustion piston engine “diesel or semi-diesel”</td></tr>
+<tr><td>8705 10 </td><td>Crane lorries</td></tr>
+<tr><td>8708 99 </td><td>Parts and accessories of the motor vehicles of headings 8701 to 8705 (tractors, motor vehicles for the transport of ten or more persons, motor cars and other motor vehicles principally designed for the transport of persons, motor vehicles for the transport of goods and special purpose motor vehicles), not else specified</td></tr>
+<tr><td>8716 39 </td><td>Trailers and semi-trailers for the transport of goods, not designed for running on rails (excl. self-loading or self-unloading trailers and semi-trailers for agricultural purposes and tanker trailers and tanker semi-trailers)</td></tr>
+<tr><td>8716 90 </td><td>Parts of trailers and semi-trailers and other vehicles not mechanically propelled, n.e.s.</td></tr>
+<tr><td>9024 </td><td>Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials, for example metals, wood, textiles, paper or plastics</td></tr>
+</tbody>
+</table>
+
+## ANNEX XX
+
+**List of goods and technology suited for use in oil refining and liquefaction of natural gas referred to in Article 1gc**
+
+|  | CN | Product |
+| --- | --- | --- |
+| ex | 8419 60 00 | Process units for the liquefaction of the natural gas |
+| ex | 8419 60 00 | Hydrogen recovery and purification technology |
+| ex | 8419 60 00 | Refinery fuel gas treatment and sulphur recovery technology (including amine scrubbing units, sulphur recovery units, tail gas treatment units) |
+
+## ANNEX XXI
+
+**List of gold referred to in Article 1rb(1) and (2)**
+
+|  | CN code | Name of the good |
+| --- | --- | --- |
+|  | 7108 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7112 91 | Waste and scrap of gold, including metal clad with gold but excluding sweepings containing other precious metals |
+| ex | 7118 90 | Gold coins |
+
+## ANNEX XXII
+
+**List of gold referred to in Article 1rb(3)**
+
+|  | CN code | Name of the good |
+| --- | --- | --- |
+| ex | 7113 | Articles of jewellery and parts thereof, of gold or containing gold, or of metal clad with gold |
+| ex | 7114 | Articles of goldsmiths’ or silversmiths’ wares and parts thereof, of gold, containing gold, or of metal clad with gold |
+
+## ANNEX XXIII
+
+**List of crude oil referred to in Article 1h**
+
+CN code Name of the good
+
+ex 2709 00 Petroleum oils and oils obtained from bituminous minerals, crude other than natural gas condensates of subheading CN 2709 00 10 from liquefied natural gas production plants
+
+## ANNEX XXIV
+
+**List of maritime navigation goods and technology referred to in Article 1fd**
+
+**Category VI – Marine**
+
+X.A.VI.001 Vessels, marine systems or equipment, and specially designed components therefor, components and accessories:
+
+(a) Equipment contained in Chapter 4 (navigation equipment) of the applicable Commission Implementing Regulation on design, construction and performance requirements and testing standards for marine equipment adopted in accordance with Article 35(2) of Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment;
+
+(b) Equipment contained in Chapter 5 (radio-communication equipment) of the applicable Commission Implementing Regulation on design, construction and performance requirements and testing standards for marine equipment adopted in accordance with Article 35(2) of Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment.
+
+## ANNEX XXV
+
+**List of luxury goods referred to in Article 1ga**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+(1) Horses
+
+| ex | 0101 21 00 | Pure-bred breeding animals |
+| --- | --- | --- |
+| ex | 0101 29 90 | Other |
+
+(2) Caviar and caviar substitutes
+
+| ex | 1604 31 00 | Caviar |
+| --- | --- | --- |
+| ex | 1604 32 00 | Caviar substitutes |
+
+(3) Truffles and preparations thereof
+
+| ex | 0709 56 00 | Truffles |
+| --- | --- | --- |
+| ex | 0710 80 69 | Other |
+| ex | 0711 59 00 | Other |
+| ex | 0712 39 00 | Other |
+| ex | 2001 90 97 | Other |
+| ex | 2003 90 10 | Truffles |
+| ex | 2103 90 90 | Other |
+| ex | 2104 10 00 | Soups and broths and preparations therefor |
+| ex | 2104 20 00 | Homogenised composite food preparations |
+| ex | 2106 00 00 | Food preparations not elsewhere specified or included |
+
+(4) Cigars and cigarillos
+
+| ex | 2402 10 00 | Cigars, cheroots and cigarillos, containing tobacco |
+| --- | --- | --- |
+| ex | 2402 90 00 | Other |
+
+(5) Carpets, rugs and tapestries, hand-made or not
+
+| ex | 5701 00 00 | Carpets and other textile floor coverings, knotted, whether or not made up |
+| --- | --- | --- |
+| ex | 5702 10 00 | ‘Kelem’, ‘Schumacks’, ‘Karamanie’ and similar hand-woven rugs |
+| ex | 5702 20 00 | Floor coverings of coconut fibres (coir) |
+| ex | 5702 31 80 | Other |
+| ex | 5702 32 00 | Of man-made textile materials |
+| ex | 5702 39 00 | Of other textile materials |
+| ex | 5702 41 90 | Other |
+| ex | 5702 42 00 | Of man-made textile materials |
+| ex | 5702 50 00 | Other, not of pile construction, not made up |
+| ex | 5702 91 00 | Of wool or fine animal hair |
+| ex | 5702 92 00 | Of man-made textile materials |
+| ex | 5702 99 00 | Of other textile materials |
+| ex | 5703 00 00 | Carpets and other textile floor coverings, tufted, whether or not made up |
+| ex | 5704 00 00 | Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up |
+| ex | 5705 00 00 | Other carpets and other textile floor coverings, whether or not made up |
+| ex | 5805 00 00 | Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up |
+
+(6) Coins and banknotes, not being legal tender
+
+| ex | 4907 00 30 | Banknotes |
+| --- | --- | --- |
+| ex | 7118 10 00 | Coin (other than gold coin), not being legal tender |
+| ex | 7118 90 00 | Other |
+
+(7) Cutlery of precious metal or plated or clad with precious metal
+
+| ex | 8214 00 00 | Other articles of cutlery (for example, hair clippers, butchers’ or kitchen cleavers, choppers and mincing knives, paperknives); manicure or pedicure sets and instruments (including nail files) |
+| --- | --- | --- |
+| ex | 8215 00 00 | Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware |
+| ex | 9307 00 00 | Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor |
+
+(8) Electrical/electronic or optical apparatus for recording and reproducing sound and images of a value exceeding EUR 1 000
+
+| ex | 9006 00 00 | Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539 |
+| --- | --- | --- |
+| ex | 9007 00 00 | Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus |
+
+(9) Vehicles for the transport of persons on earth, air or sea of a value exceeding EUR 50 000 each, teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars, motorbikes and bicycles of a value exceeding EUR 5 000 each, as well as their accessories and spare parts
+
+<table>
+<tbody><tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>ex</td><td>7009 10 00</td><td>Rear-view mirrors for vehicles</td></tr>
+<tr><td>ex</td><td>8407 00 00</td><td>Spark-ignition reciprocating or rotary internal combustion piston engines</td></tr>
+<tr><td>ex</td><td>8603 00 00</td><td>Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604</td></tr>
+<tr><td>ex</td><td>8605 00 00</td><td>Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 8604)</td></tr>
+<tr><td>ex</td><td>8702 00 00</td><td>Motor vehicles for the transport of ten or more persons, including the driver</td></tr>
+<tr><td>ex</td><td>8706 00 00</td><td>Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705</td></tr>
+<tr><td>ex</td><td>8707 00 00</td><td>Bodies (including cabs), for the motor vehicles of headings 8701 to 8705</td></tr>
+<tr><td>ex</td><td>8708 00 00</td><td>Parts and accessories of the motor vehicles of headings 8701 to 8705</td></tr>
+<tr><td>ex</td><td>8711 00 00</td><td>Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars</td></tr>
+<tr><td>ex</td><td>8712 00 00</td><td>Bicycles and other cycles (including delivery tricycles), not motorised</td></tr>
+<tr><td>ex</td><td>8714 00 00</td><td>Parts and accessories of vehicles of headings 8711 to 8713</td></tr>
+<tr><td>ex</td><td>8901 10 00</td><td>Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds</td></tr>
+<tr><td>ex</td><td>8901 90 00</td><td>Other vessels for the transport of goods and other vessels for the transport of both persons and goods</td></tr>
+</tbody>
+</table>
+
+(10) Optical articles and equipment of any value
+
+| ex | 9004 90 90 | Night Vision Equipment, or Thermal Sight Equipment |
+| --- | --- | --- |
+
+## ANNEX XXVI — List of software as referred to in Article 1jc(4)
+
+Software for the management of enterprises, i.e. systems that digitally represent and steer all processes happening in an enterprise, including:
+
+— enterprise resource planning (ERP),
+
+— customer relationship management (CRM),
+
+— business intelligence (BI),
+
+— supply chain management (SCM),
+
+— enterprise data warehouse (EDW),
+
+— computerized maintenance management system (CMMS),
+
+— project management software,
+
+— product lifecycle management (PLM),
+
+— typical components of the above-mentioned suites, including software for accounting, fleet management, logistics and human resources.
+
+Design and Manufacturing Software used in the areas of architecture, engineering, construction, manufacturing, media, education and entertainment, including:
+
+— building information modelling (BIM),
+
+— computer aided design (CAD),
+
+— computer-aided manufacturing (CAM),
+
+— engineer to order (ETO),
+
+— typical components of above-mentioned suites.
+
+Software with either of the following uses in the banking and financial sector:
+
+— online and mobile banking,
+
+— loan management,
+
+— automated teller machines (ATM) and point of sale (POS) integration,
+
+— regulatory reporting,
+
+— investment banking.
+
+## ANNEX XXVII
+
+**List of goods which allow Belarus to diversify its sources of revenue referred to in Article 1ra**
+
+<table>
+<tbody><tr><td>CN code</td><td>Name of the good</td></tr>
+<tr><td>0306 </td><td>Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine</td></tr>
+<tr><td>1604 31 00 </td><td>Caviar</td></tr>
+<tr><td>1604 32 00 </td><td>Caviar substitutes</td></tr>
+<tr><td>2208 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages</td></tr>
+<tr><td>2303 </td><td>Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets</td></tr>
+<tr><td>2402 </td><td>Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2501</td><td>Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water</td></tr>
+<tr><td>2517</td><td>Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; granules, chippings and powder, of stones of heading 2515 or 2516, whether or not heat-treated</td></tr>
+<tr><td>2519</td><td>Natural magnesium carbonate (magnesite); fused magnesia; dead-burned (sintered) magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure</td></tr>
+<tr><td>2522</td><td>Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825</td></tr>
+<tr><td>2530</td><td>Mineral substances not elsewhere specified or included</td></tr>
+<tr><td>2601</td><td>Iron ores and concentrates, including roasted iron pyrites</td></tr>
+<tr><td>2619</td><td>Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel</td></tr>
+<tr><td>2620</td><td>Slag, ash and residues (other than from the manufacture of iron or steel), containing metals, arsenic or their compounds</td></tr>
+<tr><td>2621</td><td>Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2701 </td><td>Coal; briquettes, ovoids and similar solid fuels manufactured from coal</td></tr>
+<tr><td>2702 </td><td>Lignite, whether or not agglomerated, excluding jet</td></tr>
+<tr><td>2703 </td><td>Peat (including peat litter), whether or not agglomerated</td></tr>
+<tr><td>2704 </td><td>Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon</td></tr>
+<tr><td>2705 </td><td>Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons</td></tr>
+<tr><td>2706 </td><td>Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars</td></tr>
+<tr><td>2708 </td><td>Pitch and pitch coke, obtained from coal tar or from other mineral</td></tr>
+<tr><td>2714 </td><td>Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks</td></tr>
+<tr><td>2803 </td><td>Carbon (carbon blacks and other forms of carbon not elsewhere specified or included)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2804 61</td><td>Silicon containing ≥ 99,99 % by weight of silicon</td></tr>
+<tr><td>2804 69</td><td>Silicon containing &lt; 99,99 % by weight of silicon</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2804 29 10 </td><td>Helium</td></tr>
+<tr><td>2811 </td><td>Inorganic acids and inorganic oxygen compounds of non-metals (excluding hydrogen chloride ‘hydrochloric acid’, chlorosulphuric acid, sulphuric acid, oleum, nitric acid, sulphonitric acids, diphosphorus pentaoxide, phosphoric acid, polyphosphoric acids, oxides of boron and boric acids)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2814</td><td>Ammonia, anhydrous or in aqueous solution</td></tr>
+<tr><td>2815</td><td>Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of sodium or potassium</td></tr>
+<tr><td>2816</td><td>Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2818 </td><td>Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ex 2825</td><td>Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides, except for CN code 2825 30 00</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2833</td><td>Sulphates; alums; peroxosulphates (persulphates)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2834 </td><td>Nitrites; nitrates</td></tr>
+<tr><td>ex 2835 </td><td>Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined, except for CN code 2835 26 00 </td></tr>
+<tr><td>2836 </td><td>Carbonates; peroxocarbonates ‘percarbonates’; commercial ammonium carbonate containing ammonium carbamate</td></tr>
+<tr><td>2845 40 </td><td>Helium-3</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2849</td><td>Carbides, whether or not chemically defined</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2901</td><td>Acyclic hydrocarbons</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2902 </td><td>Cyclic hydrocarbons</td></tr>
+<tr><td>2903 </td><td>halogenated derivatives of hydrocarbons</td></tr>
+<tr><td>2905 </td><td>Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2907 </td><td>Phenols; phenol-alcohols</td></tr>
+<tr><td>2909 </td><td>Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2910</td><td>Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2914 </td><td>Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2915 </td><td>Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2916</td><td>Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2917 </td><td>Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td></tr>
+<tr><td>2922 </td><td>Oxygen-function amino-compounds</td></tr>
+<tr><td>2923 </td><td>Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2926</td><td>Nitrile-function compounds</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2931 </td><td>Separate chemically defined organo-inorganic compounds (excluding organo- sulphur compounds and those of mercury)</td></tr>
+<tr><td>2933 </td><td>Heterocyclic compounds with nitrogen hetero-atom[s] only</td></tr>
+<tr><td>3301 </td><td>Essential oils, whether or not terpeneless, including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, fixed oils, waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils</td></tr>
+<tr><td>3304 </td><td>Beauty or make-up preparations and preparations for the care of the skin, including sunscreen or suntan preparations (excluding medicaments); manicure or pedicure preparations</td></tr>
+<tr><td>3305 </td><td>Preparations for use on the hair</td></tr>
+<tr><td>3306 </td><td>Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth ‘dental floss’, in individual retail packages</td></tr>
+<tr><td>3307 </td><td>Shaving preparations, including pre-shave and aftershave products, personal deodorants, bath and shower preparations, depilatories and other perfumery, toilet or cosmetic preparations, n.e.s.; prepared room deodorisers, whether or not perfumed or having disinfectant properties</td></tr>
+<tr><td>3401 </td><td>Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent</td></tr>
+<tr><td>3402 </td><td>Organic surface-active agents (excluding soap); surface-active preparations, washing preparations, including auxiliary washing preparations, and cleaning preparations, whether or not containing soap (excluding those of heading 3401 )</td></tr>
+<tr><td>3404 </td><td>Artificial waxes and prepared waxes</td></tr>
+<tr><td>3801 </td><td>Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi- manufactures</td></tr>
+<tr><td>3811 </td><td>Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils, including gasoline, or for other liquids used for the same purposes as mineral oils</td></tr>
+<tr><td>3812 </td><td>Prepared rubber accelerators; compound plasticisers for rubber or plastics, n.e.s.; anti-oxidising preparations and other compound stabilisers for rubber or plastics</td></tr>
+<tr><td>3817 </td><td>Mixed alkylbenzenes and mixed alkylnaphthalenes produced by the alkylation of benzene and naphthalene (excluding mixed isomers of cyclic hydrocarbons)</td></tr>
+<tr><td>3819 </td><td>Hydraulic brake fluids and other prepared liquids for hydraulic transmission not containing petroleum oil or bituminous mineral oil, or containing &lt; 70 % petroleum oil or bituminous mineral oil by weight</td></tr>
+<tr><td>3823 </td><td>Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols</td></tr>
+<tr><td>3824 </td><td>Prepared binders for foundry moulds or cores; chemical products and preparations for the chemical or allied industries, including mixtures of natural products, n.e.s.</td></tr>
+<tr><td>3901 </td><td>Polymers of ethylene, in primary forms</td></tr>
+<tr><td>3902 </td><td>Polymers of propylene or of other olefins, in primary forms</td></tr>
+<tr><td>3903 </td><td>Polymers of styrene, in primary forms</td></tr>
+<tr><td>3904 </td><td>Polymers of vinyl chloride or of other halogenated olefins, in primary forms</td></tr>
+<tr><td>3907 </td><td>Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms</td></tr>
+<tr><td>3908 </td><td>Polyamides, in primary forms</td></tr>
+<tr><td>3916 </td><td>Monofilament of which any cross-sectional dimension &gt; 1 mm, rods, sticks and profile shapes, of plastics, whether or not surface-worked but not further worked</td></tr>
+<tr><td>3917 </td><td>Tubes, pipes and hoses, and fittings therefor, e.g. joints, elbows, flanges, of plastics</td></tr>
+<tr><td>3919 </td><td>Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls (excluding floor, wall and ceiling coverings of heading 3918 )</td></tr>
+<tr><td>3920 </td><td>Plates, sheets, film, foil and strip, of non-cellular plastics, not reinforced, laminated, supported or similarly combined with other materials, without backing, unworked or merely surface-worked or merely cut into squares or rectangles (excluding self-adhesive products, and floor, wall and ceiling coverings of heading 3918 )</td></tr>
+<tr><td>3921 </td><td>Plates, sheets, film, foil and strip, of plastics, reinforced, laminated, supported or similarly combined with other materials, or of cellular plastic, unworked or merely surface-worked or merely cut into squares or rectangles (excluding self- adhesive products, floor, wall and ceiling coverings of heading 3918 )</td></tr>
+<tr><td>3923 </td><td>Articles for the conveyance or packaging of goods, of plastics; stoppers, lids, caps and other closures, of plastics</td></tr>
+<tr><td>3925 </td><td>Builders’ ware of plastics, n.e.s.</td></tr>
+<tr><td>3926 </td><td>Articles of plastics and articles of other materials of heading 3901 to 3914 , n.e.s.</td></tr>
+<tr><td>4002 </td><td>Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of natural rubber, balata, gutta-percha, guayule, chicle or similar types of natural rubber with synthetic rubber or factice, in primary forms or in plates, sheets or strip</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4016</td><td>Other articles of vulcanised rubber other than hard rubber</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4107 </td><td>Leather further prepared after tanning or crusting ‘including parchment-dressed leather’, of bovine ‘including buffalo’ or equine animals, without hair on, whether or not split (excluding chamois leather, patent leather and patent laminated leather, and metallised leather)</td></tr>
+<tr><td>4202 </td><td>Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverage bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper</td></tr>
+<tr><td>4301 </td><td>Raw furskins, including heads, tails, paws and other pieces or cuttings suitable for use in furriery (excluding raw hides and skins of heading 4101 , 4102 or 4103 )</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4302</td><td>Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 4303</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>4703 </td><td>Chemical wood pulp, soda or sulphate (excluding dissolving grades)</td></tr>
+<tr><td>4705 </td><td>Wood pulp obtained by a combination of mechanical and chemical pulping processes</td></tr>
+<tr><td>4801 </td><td>Newsprint as specified in note 4 to Chapter 48, in rolls of a width &gt; 28 cm or in square or rectangular sheets with one side &gt; 28 cm and the other side &gt; 15 cm in the unfolded state</td></tr>
+<tr><td>4802 </td><td>Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punchcards and punch-tape paper, in rolls or in square or rectangular sheets, of any size, and handmade paper and paperboard (excluding newsprint of heading 4801 and paper of heading 4803 )</td></tr>
+<tr><td>4803 </td><td>Toilet or facial tissue stock, towel or napkin stock and similar paper for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface-coloured, surface-decorated or printed, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state</td></tr>
+<tr><td>4804 </td><td>Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803 </td></tr>
+<tr><td>4805 </td><td>Other paper and paperboard, uncoated, in rolls of a width &gt; 36 cm or in square or rectangular sheets with one side &gt; 36 cm and the other side &gt; 15 cm in the unfolded state, not worked other than as specified in note 3 to this Chapter, n.e.s.</td></tr>
+<tr><td>4810 </td><td>Paper and paperboard, coated on one or both sides with kaolin ‘china clay’ or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or printed, in rolls or in square or rectangular sheets, of any size (excluding all other coated papers and paperboards)</td></tr>
+<tr><td>4811 </td><td>Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or in square or rectangular sheets, of any size (excluding goods of heading 4803 , 4809 and 4810 )</td></tr>
+<tr><td>4818 </td><td>Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width ≤ 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bedsheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres</td></tr>
+<tr><td>4819 </td><td>Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres, n.e.s.; box files, letter trays, and similar articles, of paperboard of a kind used in offices, shops or the like</td></tr>
+<tr><td>4823 </td><td>Paper, paperboard, cellulose wadding and webs of cellulose fibres, in strips or rolls of a width ≤ 36 cm, in rectangular or square sheets of which no side &gt; 36 cm in the unfolded state, or cut to shape other than rectangular or square, and articles of paper pulp, paper, paperboard, cellulose wadding or webs or cellulose fibres, n.e.s.</td></tr>
+<tr><td>5402 </td><td>Synthetic filament yarn, including synthetic monofilaments of &lt; 67 decitex (excluding sewing thread and yarn put up for retail sale)</td></tr>
+<tr><td>5601 </td><td>Wadding of textile materials and articles thereof; textile fibres with a length of ≤ 5 mm ‘flock’, textile dust and mill neps (excluding wadding and articles thereof impregnated or coated with pharmaceutical substances or put up for retail sale for medical, surgical, dental or veterinary purposes, and products impregnated, coated or covered with perfumes, cosmetics, soaps etc.)</td></tr>
+<tr><td>5603 </td><td>Nonwovens, whether or not impregnated, coated, covered or laminated, n.e.s.</td></tr>
+<tr><td>6204 </td><td>Women’s or girls’ suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (excluding knitted or crocheted, wind-jackets and similar articles, slips, petticoats and panties, tracksuits, ski suits and swimwear)</td></tr>
+<tr><td>6305 </td><td>Sacks and bags, of a kind used for the packing of goods, of all types of textile materials</td></tr>
+<tr><td>6403 </td><td>Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather (excluding orthopaedic footwear, skating boots with ice or roller skates attached, and toy footwear)</td></tr>
+<tr><td>6806 </td><td>Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound absorbing mineral materials (excluding articles of light concrete, asbestos, asbestos-cement, cellulose fibre-cement or the like, mixtures and other articles of or based on asbestos, and ceramic products)</td></tr>
+<tr><td>6807 </td><td>Articles of asphalt or of similar materials, e.g. petroleum bitumen or coal tar pitch</td></tr>
+<tr><td>6808 </td><td>Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste of wood, agglomerated with cement, plaster or other mineral binders (excluding articles of asbestos-cement, cellulose fibre-cement or the like)</td></tr>
+<tr><td>6814 </td><td>Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials (excluding electrical insulators, insulating fittings, resistors and capacitors, protective goggles of mica and their glasses, and mica in the form of christmas tree decorations)</td></tr>
+<tr><td>6815 </td><td>Articles of stone or of other mineral substances, including carbon fibres, articles of carbon fibres and articles of peat, n.e.s.</td></tr>
+<tr><td>6902 </td><td>Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods (excluding those of siliceous fossil meals or similar siliceous earths)</td></tr>
+<tr><td>6907 </td><td>Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing (excluding of siliceous fossil meals or similar siliceous earths, refractory goods, tiles specially adapted as table mats, ornamental articles and tiles specifically manufactured for stoves)</td></tr>
+<tr><td>7005 </td><td>Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7007 </td><td>Safety glass, consisting of toughened (tempered) or laminated glass</td></tr>
+<tr><td>7010 </td><td>Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass</td></tr>
+<tr><td>7019 </td><td>Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics)</td></tr>
+<tr><td>7104 </td><td>Precious and semi-precious stones, synthetic or reconstructed, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semi-precious stones, temporarily strung for convenience of transport</td></tr>
+<tr><td>7106 </td><td>Silver (including silver plated with gold or platinum), unwrought or in semi- manufactured forms, or in powder form</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Ex 7110</td><td>Platinum, unwrought or in semi-manufactured forms, or in powder form, except for CN codes 7110 21 and 7110 29</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7112 </td><td>Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal (excluding waste and scrap melted down into unworked blocks, ingots, or similar forms)</td></tr>
+<tr><td>7115 </td><td>Articles of precious metal or of metal clad with precious metal, n.e.s.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7401</td><td>Copper mattes; cement copper (precipitated copper)</td></tr>
+<tr><td>7402</td><td>Unrefined copper; copper anodes for electrolytic refining</td></tr>
+<tr><td>7403</td><td>Refined copper and copper alloys, unwrought</td></tr>
+<tr><td>7404</td><td>Copper waste and scrap</td></tr>
+<tr><td>Ex 7406</td><td>Copper powders and flakes, except dendritic copper powder</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7408 </td><td>Copper wire</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7503</td><td>Nickel waste and scrap</td></tr>
+<tr><td>7504</td><td>Nickel powders and flakes</td></tr>
+<tr><td>7505</td><td>Nickel bars, rods, profiles and wire</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7601</td><td>Unwrought aluminium</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7602</td><td>Aluminium waste and scrap</td></tr>
+<tr><td>7603</td><td>Aluminium powders and flakes</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7604 </td><td>Aluminium bars, rods and profiles</td></tr>
+<tr><td>7605 </td><td>Aluminium wire</td></tr>
+<tr><td>7606 </td><td>Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm</td></tr>
+<tr><td>7607</td><td>Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials), of a thickness (excluding any backing) not exceeding 0,2 mm</td></tr>
+<tr><td>7608 </td><td>Aluminium tubes and pipes</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7610</td><td>Aluminium structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridgesections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures</td></tr>
+<tr><td>7612</td><td>Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7801 </td><td>Unwrought lead</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8102</td><td>Molybdenum and articles thereof, including waste and scrap</td></tr>
+<tr><td>8104</td><td>Magnesium and articles thereof, including waste and scrap</td></tr>
+<tr><td>8105</td><td>Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8207 </td><td>Tools, interchangeable, for hand tools, whether or not power-operated, or for machine tools ‘e.g. for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving’, including dies for drawing or extruding metal, and rock-drilling or earth-boring tools</td></tr>
+<tr><td>8212 </td><td>Non-electric razors and razor blades of base metal, including razor blade blanks in strips</td></tr>
+<tr><td>8302 </td><td>Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat-racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal</td></tr>
+<tr><td>8309 </td><td>Stoppers, caps and lids, including crown corks, screw caps and pouring stoppers, capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal</td></tr>
+<tr><td>8407 </td><td>Spark-ignition reciprocating or rotary internal combustion piston engine</td></tr>
+<tr><td>8408 </td><td>Compression-ignition internal combustion piston engine ‘diesel or semi-diesel engine’</td></tr>
+<tr><td>8409 </td><td>Parts suitable for use solely or principally with internal combustion piston engine of heading 8407 or 8408 </td></tr>
+<tr><td>8411 </td><td>Turbojets, turbopropellers and other gas turbines with the exception of parts of turbojets or turbopropellers of CN code 8411 91 00 </td></tr>
+<tr><td>8412 </td><td>Engines and motors (excluding steam turbines, internal combustion piston engine, hydraulic turbines, water wheels, gas turbines and electric motors); parts thereof</td></tr>
+<tr><td>8413 </td><td>Pumps for liquids, whether or not fitted with a measuring device (excluding ceramic pumps and secretion aspirating pumps for medical use and medical pumps carried on or implanted in the body); liquid elevators (excluding pumps); parts thereof</td></tr>
+<tr><td>8414 </td><td>Air or vacuum pumps (excluding gas compound elevators and pneumatic elevators and conveyors); air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; parts thereof</td></tr>
+<tr><td>8418 </td><td>Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps; parts thereof (excluding air conditioning machines of heading 8415 )</td></tr>
+<tr><td>8419 </td><td>Machinery, plant or laboratory equipment whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514 ), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling (excluding those used for domestic purposes); instantaneous or storage water heaters, non- electric; parts thereof</td></tr>
+<tr><td>8421 </td><td>Centrifuges, including centrifugal dryers (excluding those for isotope separation); filtering or purifying machinery and apparatus, for liquids or gases; parts thereof (excluding artificial kidneys)</td></tr>
+<tr><td>8422 </td><td>Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery, including heat-shrink wrapping machinery; machinery for aerating beverages; parts thereof</td></tr>
+<tr><td>8424 </td><td>Mechanical appliances, whether or not hand-operated, for projecting, dispersing or spraying liquids or powders, n.e.s.; fire extinguishers, charged or not (excluding fire-extinguishing bombs and grenades); spray guns and similar appliances (excluding electric machines and apparatus for hot spraying of metals or sintered metal carbides of heading 8515 ); steam or sand blasting machines and similar jet projecting machines; parts thereof, n.e.s.</td></tr>
+<tr><td>8426 </td><td>Ships’ derricks; cranes, including cable cranes (excluding wheel-mounted cranes and vehicle cranes for railways); mobile lifting frames, straddle carriers and works trucks fitted with a crane</td></tr>
+<tr><td>8431 </td><td>Parts suitable for use solely or principally with the machinery of headings 8425 to 8430 </td></tr>
+<tr><td>8450 </td><td>Household or laundry-type washing machines, including machines which both wash and dry; parts thereof</td></tr>
+<tr><td>8455 </td><td>Metal-rolling mills and rolls therefor; parts of metal-rolling mills</td></tr>
+<tr><td>8466 </td><td>Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465 , including work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines, n.e.s.; tool holders for any type of tool for working in the hand</td></tr>
+<tr><td>8467 </td><td>Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor; parts thereof</td></tr>
+<tr><td>8471 </td><td>Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, n.e.s.</td></tr>
+<tr><td>8474 </td><td>Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid, including powder or paste, form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand; parts thereof</td></tr>
+<tr><td>8477 </td><td>Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter, parts thereof</td></tr>
+<tr><td>8479 </td><td>Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter; parts thereof</td></tr>
+<tr><td>8480 </td><td>Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics (excluding moulds of graphite or other carbons, ceramic or glass moulds and linotype moulds or matrices)</td></tr>
+<tr><td>8481 </td><td>Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves; parts thereof</td></tr>
+<tr><td>8482 </td><td>Ball or roller bearings (excluding steel balls of heading 7326 ); parts thereof</td></tr>
+<tr><td>8483 </td><td>Transmission shafts, including camshafts and crankshafts, and cranks; bearing housings and plain shaft bearings for machines; gears and gearing; ball or roller screws, gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks, clutches and shaft couplings, including universal joints; parts thereof</td></tr>
+<tr><td>8487 </td><td>Machinery parts, n.e.s. in Chapter 84 (excluding parts containing electrical connectors, insulators, coils, contacts or other electrical features)</td></tr>
+<tr><td>8501 </td><td>Electric motors and generators (excluding generating sets)</td></tr>
+<tr><td>8502 </td><td>Electric generating sets and rotary converters</td></tr>
+<tr><td>8503 </td><td>Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s.</td></tr>
+<tr><td>8504 </td><td>Electrical transformers, static converters, e.g. rectifiers, and inductors; parts thereof</td></tr>
+<tr><td>8511 </td><td>Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines, e.g. ignition magnetos, magneto-dynamos, ignition coils, sparking plugs, glow plugs and starter motors; generators, e.g. dynamos and alternators, and cut-outs of a kind used in conjunction with such engines; parts thereof</td></tr>
+<tr><td>8516 </td><td>Electric instantaneous or storage water heaters and immersion heaters; electric space-heating apparatus and soil-heating apparatus; electro-thermic hairdressing apparatus, e.g. hairdryers, hair curlers and curling tong heaters, and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors (other than those of heading 8545 ); parts thereof</td></tr>
+<tr><td>8517 </td><td>Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network [such as a local or wide area network]; parts thereof (excluding than transmission or reception apparatus of heading 8443 , 8525 , 8527 or 8528 )</td></tr>
+<tr><td>8523 </td><td>Discs, tapes, solid-state non-volatile storage devices, ‘smart cards’ and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs (excluding products of Chapter 37)</td></tr>
+<tr><td>8525 </td><td>Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders</td></tr>
+<tr><td>8526 </td><td>Radar apparatus, radio navigational aid apparatus and radio remote control apparatus</td></tr>
+<tr><td>8531 </td><td>Electric sound or visual signalling apparatus, e.g. bells, sirens, indicator panels, burglar or fire alarms (excluding those for cycles, motor vehicles and traffic signalling); parts thereof</td></tr>
+<tr><td>8535 </td><td>Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes, for a voltage &gt; 1 000 V (excluding control desks, cabinets, panels etc. of heading 8537 )</td></tr>
+<tr><td>8536 </td><td>Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits, e.g., switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and junction boxes, for a voltage ≤ 1 000 V (excluding control desks, cabinets, panels etc. of heading 8537 )</td></tr>
+<tr><td>8537 </td><td>Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536 , for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus (excluding switching apparatus for line telephony or line telegraphy)</td></tr>
+<tr><td>8538 </td><td>Parts suitable for use solely or principally with the apparatus of heading 8535 , 8536 or 8537 , n.e.s.</td></tr>
+<tr><td>8539 </td><td>Electric filament or discharge lamps, including sealed beam lamp units and ultraviolet or infra-red lamps; arc lamps; light-emitting diode ‘led’ lamps; parts thereof</td></tr>
+<tr><td>8541 </td><td>Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels (excluding photovotaic generators); light emitting diodes ‘led’; mounted piezoelectric crystals; parts thereof</td></tr>
+<tr><td>8542 </td><td>Electronic integrated circuits; parts thereof</td></tr>
+<tr><td>8543 </td><td>Electrical machines and apparatus, having individual functions, n.e.s. in Chapter 85 and parts thereof</td></tr>
+<tr><td>8544 </td><td>Insulated ‘including enamelled or anodised’ wire, cable ‘including coaxial cable’ and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors</td></tr>
+<tr><td>8545 </td><td>Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes</td></tr>
+<tr><td>8603 </td><td>Self-propelled railway or tramway coaches, vans and trucks (excluding those of heading 8604 )</td></tr>
+<tr><td>8606 </td><td>Railway or tramway goods vans and wagons (excluding self-propelled and luggage vans and post office coaches)</td></tr>
+<tr><td>8701 </td><td>Tractors (other than tractors of heading 8709 )</td></tr>
+<tr><td>8703 </td><td>Motor cars and other motor vehicles principally designed for the transport of &lt;10 persons, including station wagons and racing cars (excluding motor vehicles of heading 8702 )</td></tr>
+<tr><td>8704 </td><td>Motor vehicles for the transport of goods, including chassis with engine and cab</td></tr>
+<tr><td>8716 </td><td>Trailers and semi-trailers; other vehicles, not mechanically propelled (excluding railway and tramway vehicles); parts thereof, n.e.s.</td></tr>
+<tr><td>8802 </td><td>Powered aircraft ‘e.g. helicopters and aeroplanes’; spacecraft, including satellites, and suborbital and spacecraft launch vehicles</td></tr>
+<tr><td>8901 </td><td>Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods</td></tr>
+<tr><td>8903 </td><td>Yachts and other vessels for pleasure or sports; rowing boats and canoes</td></tr>
+<tr><td>8904 </td><td>Tugs and pusher craft</td></tr>
+<tr><td>8905 </td><td>Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms</td></tr>
+<tr><td>9001 </td><td>Optical fibres and optical fibre bundles; optical fibre cables (excluding made up of individually sheathed fibres of heading 8544 ); sheets and plates of polarising material; lenses, including contact lenses, prisms, mirrors and other optical elements of any material, unmounted (excluding such elements of glass not optically worked)</td></tr>
+<tr><td>9006 </td><td>Photographic cameras, photographic flashlight apparatus and flashbulbs (excluding discharge lamps of heading 8539 )</td></tr>
+<tr><td>9013 </td><td>Liquid crystal devices not constituting articles provided for more specifically in other heading; lasers (excluding laser diodes); other optical appliances and instruments not elsewhere specified in Chapter 90</td></tr>
+<tr><td>9014 </td><td>Direction finding compasses; other navigational instruments and appliances (excluding radio navigational equipment)</td></tr>
+<tr><td>9026 </td><td>Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases, e.g. flow meters, level gauges, manometers, heat meters (excluding instruments and apparatus of heading 9014 , 9015 , 9028 or 9032 )</td></tr>
+<tr><td>9027 </td><td>Instruments and apparatus for physical or chemical analysis, e.g. polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus; instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light, including exposure meters; microtomes</td></tr>
+<tr><td>9030 </td><td>Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities (excluding meters of heading 9028 ); instruments and apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic or other ionising radiations</td></tr>
+<tr><td>9031 </td><td>Measuring or checking instruments, appliances and machines not elsewhere specified in Chapter 90; profile projectors</td></tr>
+<tr><td>9032 </td><td>Regulating or controlling instruments and apparatus (excluding taps, cocks and valves of heading 8481 )</td></tr>
+<tr><td>9401 </td><td>Seats, whether or not convertible into beds, and parts thereof, n.e.s. (excluding medical, surgical, dental or veterinary of heading 9402 )</td></tr>
+<tr><td>9403 </td><td>Other furniture and parts thereof</td></tr>
+<tr><td>9404 </td><td>Mattress supports (excluding spring interiors for seats); articles of bedding and similar furnishing, e.g. mattresses, quilts, eiderdowns, cushions, pouffes and pillows, fitted with springs or stuffed or internally filled with any material or of cellular rubber or plastics, whether or not covered (excluding pneumatic or water mattresses and pillows, blankets and covers)</td></tr>
+<tr><td>9405 </td><td>Lamps and lighting fittings, including searchlights and spotlights, and parts thereof, n.e.s.; illuminated signs, illuminated nameplates and the like having a permanently fixed light source, and parts thereof, n.e.s.</td></tr>
+<tr><td>9406 </td><td>Prefabricated buildings, whether or not complete or already assembled</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2603</td><td>Copper ores and concentrates</td></tr>
+<tr><td>2604</td><td>Nickel ores and concentrates</td></tr>
+<tr><td>2607</td><td>Lead ores and concentrates</td></tr>
+<tr><td>2616</td><td>Precious-metal ores and concentrates</td></tr>
+<tr><td>2817</td><td>Zinc oxide; zinc peroxide</td></tr>
+<tr><td>2819</td><td>Chromium oxides and hydroxides</td></tr>
+<tr><td>3803</td><td>Tall oil, whether or not refined</td></tr>
+<tr><td>7001</td><td>Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 8549; glass in the mass</td></tr>
+<tr><td>7002</td><td>Glass in balls (other than microspheres of heading 7018), rods or tubes, unworked</td></tr>
+<tr><td>7003</td><td>Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7004</td><td>Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked</td></tr>
+<tr><td>7006</td><td>Glass of heading 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials</td></tr>
+<tr><td>7008</td><td>Multiple-walled insulating units of glass</td></tr>
+<tr><td>7009</td><td>Glass mirrors, whether or not framed, including rear-view mirrors</td></tr>
+<tr><td>7011</td><td>Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps and light sources, cathode-ray tubes or the like</td></tr>
+<tr><td>7013</td><td>Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018)</td></tr>
+<tr><td>7014</td><td>Signalling glassware and optical elements of glass (other than those of heading 7015), not optically worked</td></tr>
+<tr><td>7015</td><td>Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses</td></tr>
+<tr><td>7016</td><td>Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms</td></tr>
+<tr><td>7017</td><td>Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated</td></tr>
+<tr><td>7018</td><td>Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitation jewellery; glass microspheres not exceeding 1 mm in diameter</td></tr>
+<tr><td>7020</td><td>Other articles of glass</td></tr>
+<tr><td>7901</td><td>Unwrought zinc</td></tr>
+<tr><td>8707</td><td>Bodies (including cabs), for the motor vehicles of headings 8701 to 8705</td></tr>
+<tr><td>8708</td><td>Parts and accessories of the motor vehicles of headings 8701 to 8705</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+## ANNEX XXVIII
+
+**List of goods and technology referred to in Article 8g**
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>8407 10 </td><td>Spark-ignition reciprocating or rotary internal combustion piston engine, for aircraft</td></tr>
+<tr><td>8409 10 </td><td>Parts suitable for use solely or principally with internal combustion piston engine for aircraft</td></tr>
+<tr><td>  </td><td>Jet fuel (other than kerosene):</td></tr>
+<tr><td>2710 12 70 </td><td>Spirit type jet fuel (light oils)</td></tr>
+<tr><td>2710 19 29 </td><td>Other than kerosene (medium oils)</td></tr>
+<tr><td>2710 19 21 </td><td>Kerosene type jet fuel (medium oils)</td></tr>
+<tr><td>2710 20 90 </td><td>Kerosene type jet fuel blended with biodiesel (1)</td></tr>
+<tr><td>  </td><td>Oxidation inhibitors Oxidation inhibitors used in additives for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– oxidation inhibitors containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other oxidation inhibitors</td></tr>
+<tr><td>3811 90 00 </td><td>Oxidation inhibitors used for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Static dissipater additives Static dissipater additives for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Static dissipater additives for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Corrosion inhibitors Corrosion inhibitors for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Corrosion inhibitors for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Fuel system icing inhibitors (anti-icing additives) Fuel system icing inhibitors for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Fuel system icing inhibitors for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Metal de-activators Metal de-activators for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Metal de-activator for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Biocide additives Biocide additives for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Biocide additives for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td>  </td><td>Thermal stability improver additives Thermal stability improver for lubricating oils: </td></tr>
+<tr><td>3811 21 00 </td><td>– containing petroleum oils</td></tr>
+<tr><td>3811 29 00 </td><td>– other</td></tr>
+<tr><td>3811 90 00 </td><td>Thermal stability improver for other liquids used for the same purpose as mineral oils</td></tr>
+<tr><td colspan="2">(1)  Provided it still contains 70 % or more by weight of petroleum oils or bituminous mineral oils. </td></tr>
+</tbody>
+</table>
+
+## ANNEX XXIX
+
+**List of goods and products as referred to in Article 1rc**
+
+**Part A**
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 7102 10 | Unsorted diamonds |
+|  | 7102 31 | Non-industrial diamonds, unworked or simply sawn, cleaved or bruted |
+|  | 7102 39 | Non-industrial diamonds, other than unworked or simply sawn, cleaved or bruted |
+
+**Part B**
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 7104 21 | Synthetic or reconstructed diamonds, unworked or simply sawn or roughly shaped |
+|  | 7104 91 | Synthetic or reconstructed diamonds, other than unworked or simply sawn or roughly shaped |
+
+**Part C**
+
+|  | CN code | Description |
+| --- | --- | --- |
+| Ex | 7113 | Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal, incorporating diamonds |
+| Ex | 7114 | Articles of goldsmiths’ or silversmiths’ wares and parts thereof, of precious metal or of metal clad with precious metal, incorporating diamonds |
+| Ex | 7115 90 | Other articles of precious metal or of metal clad with precious metal, incorporating diamonds, not elsewhere specified, excluding platinum catalysts in the form of wire cloth or grill |
+| Ex | 7116 20 | Articles of natural or cultured pearls, precious or semi- precious stones (natural, synthetic or reconstructed), incorporating diamonds |
+| Ex | 9101 | Wristwatches, pocket-watches and other watches, including stopwatches, incorporating diamonds, with case of precious metal or of metal clad with precious metal |
+
+## ANNEX XXX
+
+**List of common high priority goods and technology referred to in Articles 1e, 1f, 8g and 8ga**
+
+CN code Description
+
+8457 10 Machining centres for working metal
+
+8458 11 Horizontal lathes, including turning centres, for removing metal, numerically controlled
+
+8458 91 Lathes (including turning centres) for removing metal, numerically controlled (excluding horizontal lathes)
+
+8459 61 Milling machines for metals, numerically controlled (excluding lathes and turning centres of heading 8458 , way-type unit head machines, drilling machines, boring- milling machines, boring machines, and knee-type milling machines)
+
+8466 93 Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8461 , n.e.s.
+
+8471 50 Processing units other than those of subheading 8471 41 or 8471 49 , whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units
+
+8471 80 Units for automatic data-processing machines (excl. processing units, input or output units and storage units)
+
+8482 10 Ball bearings
+
+8482 20 Tapered roller bearings, including cone and tapered roller assemblies
+
+8482 30 Spherical roller bearings
+
+8482 50 Other cylindrical roller bearings, including cage and roller assemblies
+
+8486 10 Machines and apparatus for the manufacture of boules or wafers
+
+8486 20 Machines and apparatus for the manufacture of semiconductor devices or of electronic integrated circuits
+
+8486 40 Machines and apparatus specified in note 11(C) to this Chapter
+
+8504 40 Static converters
+
+8517 62 Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus
+
+8517 69 Other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network
+
+8525 89 Other television cameras, digital cameras and video camera recorders
+
+8526 91 Radio navigational aid apparatus
+
+8529 10 Aerials and aerial reflectors of all kinds; parts suitable for use therewith
+
+8529 90 Other parts suitable for use solely or principally with the apparatus of headings 8524 to 8528
+
+8532 21 Other fixed capacitors: Tantalum capacitors
+
+8532 24 Other fixed capacitors: Ceramic dielectric, multilayer
+
+8534 00 Printed circuits
+
+8536 69 Plugs and sockets for a voltage not exceeding 1 000 V
+
+8536 90 Electrical apparatus for switching electrical circuits, or for making connections to or in electrical circuits, for a voltage not exceeding 1 000 V (excluding fuses, automatic circuit breakers and other apparatus for protecting electrical circuits, relays and other switches, lamp holders, plugs and sockets)
+
+8541 10 Diodes, other than photosensitive or light-emitting diodes (LED)
+
+8541 21 Transistors, other than photosensitive transistors with a dissipation rate of less than 1 W
+
+8541 29 Other transistors, other than photosensitive transistors
+
+8541 30 Thyristors, diacs and triacs (excl. photosensitive semiconductor devices)
+
+8541 49 Photosensitive semiconductor devices (excl. Photovoltaic generators and cells)
+
+8541 51 Other semiconductor devices: Semiconductor-based transducers
+
+8541 59 Other semiconductor devices
+
+8541 60 Mounted piezo-electric crystals
+
+8542 31 Electronic integrated circuits: Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits
+
+8542 32 Electronic integrated circuits: Memories
+
+8542 33 Electronic integrated circuits: Amplifiers
+
+8542 39 Electronic integrated circuits: Other
+
+8543 20 Signal generators
+
+8548 00 Electrical parts of machinery or apparatus, not specified or included elsewhere in Chapter 85
+
+8807 30 Other parts of aeroplanes, helicopters or unmanned aircraft
+
+9013 10 Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this Chapter or Section XVI
+
+9013 80 Other optical devices, appliances and instruments
+
+9014 20 Instruments and appliances for aeronautical or space navigation (other than compasses)
+
+9014 80 Other navigational instruments and appliances
+
+9027 50 Other instruments and apparatus using optical radiations (ultraviolet, visible, infrared)
+
+9030 20 Oscilloscopes and oscillographs
+
+9030 32 Multimeters with recording device
+
+9030 39 Instruments and apparatus for measuring or checking voltage, current, resistance or electrical power, with recording device
+
+9030 82 Instruments and apparatus for measuring or checking semiconductor wafers or devices
+
+## ANNEX XXXI — List of goods referred to in Article 8ga
+
+CN code Description
+
+8502 20 Generating sets with spark-ignition internal combustion piston engines
+
+8536 50 Other switches
+
+## ANNEX XXXII — List of software referred to in Article 1gd
+
+“Software” used in oil and gas exploration, namely:
+
+— “Software” for reservoir exploration and calculation
+
+— “Software” for calculation, processing and analysis of seismic data
+
+— “Software” for geological visual inspections as well as for respective characterisation/modelling/visualisation/calculation
+
+— Drilling “software”, planning “software” for drilling processes, “software” for trajectory of drilling processes
+
+— “Software” for inertial navigation systems for drilling
+
+— Real-time well monitoring “software”
+
+— Observation and safeguarding “software” in oil and gas production.
+
+## ANNEX XXXIII — Natural and legal persons, entities and bodies referred to Article 1zd
+
+## ANNEX XXXIV — List of crypto-assets and central bank digital currencies as referred to in Article 1ze
+
+| Crypto-assets or central bank digital currencies | Entry into force |
+| --- | --- |
+| Belarusian Digital rouble | 24 May 2026. |
+
+( 1 ) Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (OJ L 206, 11.6.2021, p.1).
+
+( 2 ) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+( 3 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 4 ) Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40, ELI: http://data.europa.eu/eli/reg/2023/1114/oj).
+
+( 5 ) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35, ELI: http://data.europa.eu/eli/dir/2015/2366/oj).
+
+( 6 ) Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15, ELI: http://data.europa.eu/eli/reg/2019/881/oj).
+
+( 7 ) Latest version published in OJ C, C/2025/1499, 6.3.2025, ELI: http://data.europa.eu/eli/C/2025/1499/oj.
+
+( 8 ) Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations’ Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition (OJ L 94, 30.3.2012, p. 1).
+
+( 9 ) Council Regulation (EU) No 833/2014 of 31 July 2014 concerning restrictive measures in view of Russia's actions destabilising the situation in Ukraine (OJ L 229 31.7.2014, p. 1).
+
+( 10 ) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, 10.10.2009, p. 7, ELI: http://data.europa.eu/eli/dir/2009/110/oj).
+
+( 11 ) OJ L 285, 17.10.2012, p. 1.
+
+( 12 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 13 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj).
+
+( 14 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/575/oj).
+
+( 15 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73, ELI: http://data.europa.eu/eli/dir/2015/849/oj).
+
+( 16 ) OJ C 86, 18.3.2011, p. 1.
+
+( 17 ) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+( 18 ) 'IMSI' stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card, which allows for identification of such SIM via GSM and UMTS networks.
+
+( 19 ) 'MSISDN' stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+( 20 ) 'IMEI' stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones as well as some satellite phones. It is usually found printed inside the battery compartment of the phone. interception (wiretapping) can be specified by its IMEI number as well as IMSI and MSISDN.
+
+( 21 ) 'TMSI' stands for Temporary Mobile Subscriber Identity. It is the identity that is most commonly sent between the mobile and the network.
+
+( 22 ) Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (OJ L 206, 11.6.2021, p. 1).
+
+( 23 ) 'SMS' stands for Short Message System.
+
+( 24 ) 'GSM' stands for Global System for Mobile Communications.
+
+( 25 ) 'GPS' stands for Global Positioning System.
+
+( 26 ) 'GPRS' stands for General Package Radio Service.
+
+( 27 ) 'UMTS' stands for Universal Mobile Telecommunication System.
+
+( 28 ) 'CDMA' stands for Code Division Multiple Access.
+
+( 29 ) 'PSTN' stands for Public Switch Telephone Networks.
+
+( 30 ) 'DHCP' stands for Dynamic Host Configuration Protocol.
+
+( 31 ) 'SMTP' stands for Simple Mail Transfer Protocol.
+
+( 32 ) 'GTP' stands for GPRS Tunnelling Protocol.
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821
+
+( 32 ) Ref. Annex I to Regulation (EU) 2021/821

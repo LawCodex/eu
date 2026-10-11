@@ -1,0 +1,613 @@
+---
+title: "Commission Regulation (EC) No 595/2004 of 30 March 2004 laying down detailed rules for applying Council Regulation (EC) No 1788/2003 establishing a levy in the milk and milk products sector"
+identifier: "32004R0595"
+eli: "http://data.europa.eu/eli/reg/2004/595/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-03-30
+entry_into_force: 2004-08-03
+last_amended: 2015-03-30
+consolidated_version: "02004R0595-20150330"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0595-20150330"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 595/2004 of 30 March 2004 laying down detailed rules for applying Council Regulation (EC) No 1788/2003 establishing a levy in the milk and milk products sector
+
+**COMMISSION REGULATION (EC) No 595/2004**
+
+**of 30 March 2004**
+
+**laying down detailed rules for applying Council Regulation (EC) No 1788/2003 establishing a levy in the milk and milk products sector**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1468/2006 of 4 October 2006 </td><td> L 274</td><td>6</td><td>5.10.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1913/2006 of 20 December 2006 </td><td> L 365</td><td>52</td><td>21.12.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 228/2008 of 13 March 2008 </td><td> L 70</td><td>7</td><td>14.3.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 258/2009 of 26 March 2009 </td><td> L 81</td><td>19</td><td>27.3.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 793/2009 of 31 August 2009 </td><td> L 228</td><td>7</td><td>1.9.2009</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 760/2012 of 21 August 2012 </td><td> L 226</td><td>1</td><td>22.8.2012</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1380/2014 of 17 December 2014 </td><td> L 367</td><td>82</td><td>23.12.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/517 of 26 March 2015 </td><td> L 82</td><td>73</td><td>27.3.2015</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 595/2004**
+
+**of 30 March 2004**
+
+**laying down detailed rules for applying Council Regulation (EC) No 1788/2003 establishing a levy in the milk and milk products sector**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Scope
+
+This Regulation lays down detailed rules for applying Regulation (EC) No 1788/2003 as regards the division of national reference quantities between deliveries and direct sales, the calculation and payment of the levy, control measures and communications from the Member States.
+
+#### Article 2 — Division of national reference quantities between deliveries and direct sales
+
+Each year, after the receipt of the communications referred to in Article 25  , the Commission shall divide the national reference quantity laid down for each Member State in Annex I of Regulation (EC) No 1788/2003 between deliveries and direct sales in accordance with Article 1(2) of that Regulation.
+
+The division shall be published in the Official Journal of the European Union.
+
+#### Article 3 — Conversions
+
+Conversions referred to in Article 6(2) of Regulation (EC) No 1788/2003 may be temporary or definitive.
+
+Temporary conversions of individual reference quantities are conversions where, for a specific 12-month period, the producer requests to convert a quantity of milk from one reference quantity to the other.
+
+Definitive conversions are conversions where, for a 12-month period and for the subsequent 12-month periods, the producer requests to convert a quantity of milk from one reference quantity to the other.
+
+#### Article 4 — Information about new definitions of deliveries and direct sales
+
+1\. Member States shall inform the producers concerned of the new definitions of the terms ‘deliveries’ and ‘direct sales’ as introduced by Article 5(f) and (g) of Regulation (EC) No 1788/2003.
+
+2\. A definitive conversion from one reference quantity to the other by reason of the definitions referred to in paragraph 1 shall be done on the request of the producer in accordance with Article 6(2) of Regulation No 1788/2003.
+
+#### Article 5 — Communication of individual reference quantities
+
+Member States shall notify to the producers each new allocation or modification of their individual reference quantity by the means they consider the most appropriate, provided that it ensures that the producers have an effective knowledge of the reference quantity allocated.
+
+## CHAPTER II — CALCULATION OF THE LEVY
+
+### SECTION 1 — General Rules
+
+#### Article 6 — Method for the calculation of the levy
+
+Milk or milk products marketed within the meaning of Article 5(h) of Regulation (EC) No 1788/2003 shall be taken into account for calculating the levy at the moment they leave any holding on the territory of the Member State or are used at the holding for commercial purposes.
+
+Where milk or milk products leave the holding for the purpose of destruction in application of sanitary measures pursuant to a decision of the competent authority of the Member State, the quantities concerned shall not be taken into account as deliveries or direct sales.
+
+Milk which leaves the holding for treatment or processing under contract shall be deemed deliveries.
+
+#### Article 7 — Amendments to the individual reference fat content
+
+1\. Where additional reference quantities are allocated from the national reserve, the reference fat content referred to in Article 9 of Regulation (EC) No 1788/2003 shall remain unchanged.
+
+2\. Where the reference quantity for deliveries is increased or established on the basis of conversions under Article 6(2) of Regulation No 1788/2003, the reference fat content associated with the reference quantity converted into deliveries shall be 3,8 %.
+
+However, the reference fat content of the reference quantity for deliveries shall remain unchanged if the producer provides justification therefore to the satisfaction of the competent authority.
+
+3\. In cases referred to in Articles 16, 17 and 18(1)(d), (e) and (f) of Regulation (EC) No 1788/2003, the reference fat content shall be transferred together with the reference quantity with which it is associated.
+
+4\. In cases referred to in Article 18(1)(b) and (c) of Regulation (EC) No 1788/2003, the overall reference fat content of the reference quantities allocated or transferred shall not be increased in relation to that of the quantities released. Without prejudice to Article 6(5) of Regulation No 1788/2003, the quantity of milk available for reallocation or transfer may be recalculated at a given reference fat content or, conversely, the reference fat content may be recalculated at a given available quantity of milk.
+
+5\. In the cases referred to in the first subparagraph of paragraph 2 and in paragraphs 3 and 4, the resulting reference fat content shall be equal to the average of the initial and transferred or converted reference rates, weighted by the initial and transferred or converted reference quantities.
+
+6\. In the case of producers whose entire reference quantity comes from the national reserve and who commenced production after 1 April 2004, the reference fat content shall be equal to the national reference fat content laid down in Annex II to Regulation (EC) No 1788/2003.
+
+### SECTION 2 — Deliveries
+
+#### Article 8 — Statement of deliveries
+
+1\. At the end of each 12-month period, purchasers shall draw up a statement for each producer showing at least the quantity and fat content of the milk delivered by the latter during that period.
+
+In the case of leap years, the quantity of milk shall be reduced by 1/60 of the quantities delivered in February and March.
+
+2\. Before 15 May each year, purchasers shall forward to the competent authority of the Member State a declaration summarising the statements referred to in paragraph 1, showing at least the total quantity and the average fat content of the milk delivered to them and, where so required by decision of the Member State, for each producer, the reference quantity and the representative fat content, the quantity corrected in accordance with Article 10(1), the sum of the individual reference quantities and the corrected quantities and the average fat content of those producers' production.
+
+Where applicable, purchasers shall declare that they have received no deliveries during the period concerned.
+
+3\. The Member State shall require purchasers who fail to comply with the time limit referred to in paragraph 2 to pay an amount equal to the levy due for a 0,01 % overrun of the quantities of milk delivered to them by producers for each calendar day of delay. Where those quantities are not known because no declaration has been made, they shall be estimated by the competent authority. That amount may not be less than EUR 100 nor more than EUR 100 000 .
+
+4\. Where no declaration is submitted before 15 June, Member States shall within 15 working days give formal notice to the purchaser to submit such declaration within 15 days. Where no declaration is submitted at the end of that period, Member States shall either withdraw approval or require payment of an amount in proportion to the volume of milk involved and the seriousness of the irregularity.
+
+Paragraph 3 shall continue to apply during the period of notice.
+
+5\. The penalties referred to in paragraphs 3 and 4 shall not be imposed where the Member State recognises a case of force majeure or establishes that the irregularity was not committed deliberately or as a result of serious negligence, or where the irregularity is negligible in terms of the functioning of the scheme or the effectiveness of the checks.
+
+#### Article 9 — Adjustment of individual reference fat content
+
+1\. For the application of Article 9(5) of Regulation (EC) No 1788/2003, Member States shall record before 1 July each year of any overrun of the national reference fat content for the 12-month period ending 31 March of that year.
+
+2\. The individual reference fat content shall be adjusted by the same coefficient for all producers so that for each Member State the weighted average of the individual representative fat contents does not exceed by more than 0,1 gram per kg the reference fat content set in Annex II to Regulation (EC) No 1788/2003. The adjustment shall be notified to producers before 1 August and shall apply from the 12-month period starting 1 April of that year.
+
+#### Article 10 — Comparisons of the reference and real fat content
+
+1\. In order to enable each producer to draw up the statement referred to in Article 8(1) of this Regulation and pursuant to Article 10(1) of Regulation (EC) No 1788/2003, the average fat content of the milk delivered by the producer shall be compared with the producer's reference fat content referred to in Article 9(1) of that Regulation.
+
+If a positive difference is found, the quantity of milk delivered shall be increased by 0,09 % per 0,1 gram of additional fat per kilogram of milk.
+
+If a negative difference is found, the quantity of milk delivered shall be decreased by 0,18 % per 0,1 gram of fat less per kilogram of milk.
+
+Where in application of the third subparagraph the adjusted quantity of milk delivered by the producer is less than 75 % of the quantity of the actual milk delivered and where the producer's reference fat content is above 4,5 %, the individual statement shall be drawn up on the basis of 75 % of the actual quantity delivered.
+
+Where the quantity of milk delivered is expressed in litres, the adjustment shall be multiplied by the coefficient 0,971.
+
+2\. The Member States shall establish the adjustment of deliveries at national level in accordance with Article 80(1) of Council Regulation (EC) No 1234/2007 ( 3 ).
+
+### SECTION 3 — Direct Sales
+
+#### Article 11 — Declarations of direct sales
+
+1\. At the end of each 12-month period, each producer shall make a declaration summarising by product any of his direct sales.
+
+In the case of leap years, the quantity of milk or milk equivalent shall be reduced by 1/60 of the quantities sold in February and March or by 1/366 of the quantities sold in the 12-month period concerned.
+
+2\. Before 15 May each year, producers shall forward the declaration provided for in paragraph 1 to the competent authority of the Member State.
+
+The Member State may require producers with reference quantities for direct sales to declare that they have not sold or transferred any milk or other milk products during the period concerned, where such is the case.
+
+3\. Member States shall require producers who fail to comply with the time limit referred to in paragraph 2 to pay an amount equal to the levy due for a 0,01 % overrun of their reference quantity for direct sales for each calendar day of delay. However, that amount may not be less than EUR 100 nor more than EUR 1 000 .
+
+Where the national reference quantity for direct sales has also been overrun, producers who have overrun their reference quantity shall also be required to pay a contribution to the levy calculated on the full overrun of their reference quantity and may not benefit from any reallocation of unused reference quantities as provided for in Article 12(1) of Regulation (EC) No 1788/2003.
+
+Where producers submit incorrect declarations, the Member State shall require them to pay an amount in proportion to the quantity of milk concerned and the seriousness of the irregularity, up to a maximum amount equal to the theoretical levy applicable to the quantity of milk resulting once the correction is applied, multiplied by 1,5.
+
+4\. Where no declaration is submitted before 15 June, Member States shall within 15 working days give formal notice to the producer to submit the declaration within 15 days. Where no declaration is submitted at the end of that period, the reference quantity for direct sales of the producer concerned shall revert to the national reserve. The first subparagraph of paragraph 3 of this Article shall continue to apply during the period of notice.
+
+5\. Penalties referred to in paragraphs 3 and 4 shall not be imposed where the Member State recognises a case of force majeure or establishes that the irregularity was not committed deliberately or as a result of serious negligence, or where the irregularity is negligible in terms of the functioning of the scheme or the effectiveness of the checks.
+
+#### Article 12 — Equivalences
+
+1\. For products marketed other than milk, the Member States shall establish the quantities of milk used for processing. To that end, the equivalence formulae to be used shall be:
+
+(a) 1 kg cream = 0,263 kg milk × % fat content of cream, expressed as mass;
+
+(b) 1 kg butter = 22,5 kg milk.
+
+In the case of cheese and all other milk products, Member States shall determine equivalences using, in particular, the dry-matter content and the fat content of the types of cheese or products concerned.
+
+If the producer can provide proof to the satisfaction of the competent authority of the quantities actually used for processing of the products concerned, the Member State can use such proof in place of the equivalences referred to in the first and second subparagraphs.
+
+2\. If it proves difficult to determine the quantities of milk used for processing on the basis of the products marketed, the Member States may fix the quantities of milk equivalent on a flat-rate basis by reference to the number of dairy cows held by the producer and an average milk yield per cow representative of the herd.
+
+## CHAPTER III — PAYMENT OF THE LEVY
+
+#### Article 13 — Notification of the levy
+
+1\. In the case of deliveries, the competent authority shall notify or confirm to purchasers the contributions to the levy payable by them after reallocating, or not, by decision of the Member State, all or part of the unused reference quantities either directly to the producers concerned or, as the case may be, to purchasers with a view to their subsequent allocation among the producers concerned.
+
+2\. In the case of direct sales, the competent authority shall notify to producers the contributions to the levy payable by them after reallocating, or not, by decision of the Member State, all or part of the unused reference quantities directly to the producers concerned.
+
+3\. No reallocation shall be made at national level of unused quantities between delivery and direct sales reference quantities.
+
+#### Article 14
+
+The operative event for the exchange rate applicable to the payment of the levy referred to in Article 1 of Regulation (EC) No 595/2004 shall be that referred to in Article 5(6) of Commission Regulation (EC) No 1913/2006 ( 4 ).
+
+#### Article 15 — Time limit for payment
+
+1\. Before 1 October each year, purchasers and, in the case of direct sales, producers liable for the levy shall pay the competent authority the amount due in accordance with rules laid down by the Member State, purchasers being responsible for collecting the surplus levy on deliveries due by producers pursuant to Article 79 of Regulation (EC) No 1234/2007, in accordance with Article 81(1) of that Regulation.
+
+Without prejudice to the application of Articles 107 to 109 of the Treaty on the Functioning of the European Union, Member States may decide that the payment of the amount due related to the 12-month period beginning on 1 April 2014 takes place in three yearly instalments without interest.
+
+The first yearly payment, representing at least 1/3 of the total amount due, shall be made by 30 September 2015. By 30 September 2016 at least 2/3 of the total amount due shall be paid. The total amount shall be settled by 30 September 2017.
+
+Member States shall ensure that the producers are the beneficiaries of such an instalment scheme.
+
+2\. Where the time limit for payment referred to in paragraph 1 is not complied with, the sums due shall bear interest annually at the three-month reference rates applicable on 1 October  each year, as referred to in Annex II, plus one percentage point.
+
+The interest shall be paid to the Member State.
+
+3\. The Member States shall declare to the European Agricultural Guarantee Fund (EAGF) the amounts resulting from the application of Article 3 of Regulation (EC) No 1788/2003 together with the expenditure declared in respect of November each year.
+
+Where pursuant to Article 26(3) of this Regulation, the Member States communicate an update of the questionnaire provided for in paragraph 1 of that Article, the resulting adjusted amounts shall be declared to the EAGF at the latest together with the expenditure declared in respect of the month before which the questionnaire shall be communicated.
+
+4\. Where the set of documents referred to in Article 3(5) of Commission Regulation (EC) No 296/96 ( 5 ) shows that the time limit referred to in paragraph 3 of this Article has not been met, the Commission shall reduce advances on entry in the accounts of agricultural expenditure in proportion to the amount due or an estimate thereof, in accordance with Article 3(2) of Regulation No 1788/2003.
+
+#### Article 16 — Criteria for redistributing the excess levy
+
+1\. Where appropriate, Member States shall determine the priority categories of producers referred to in Article 13(1)(b) of Regulation (EC) No 1788/2003, on the basis of one or more of the following objective criteria:
+
+(a) formal acknowledgement by the competent authority of Member State that all or part of the levy has been wrongly charged;
+
+(b) the geographical location of the holding and primarily mountain areas within the meaning of Article 18 of Council Regulation (EC) No 1257/1999 ( 6 );
+
+(c) the maximum stocking density on the holding for the purpose of extensive livestock production;
+
+(d) the individual reference quantity is exceeded by less than 5 % or less than 15 000 kg, whichever is the lowest;
+
+(e) the level of individual reference quantity is less than 50 % of the national average individual reference quantity;
+
+(f) other objective criteria adopted by the Member State after consulting the Commission.
+
+2\. The redistribution of the excess levy shall be completed 15 months after the end of the 12 month period in question at the latest.
+
+#### Article 16a — Use of the 1 % levy non-payable to the EAGF
+
+Where pursuant to Article 3(1) of Regulation (EC) No 1788/2003, the 1 % levy not payable into the EAGF exceeds the amount necessary to cover cases of bankruptcy or definitive inability of certain producers to pay the levy, Member States may use the excess in accordance with Article 13(1) of that Regulation.
+
+#### Article 17 — Charge of the levy
+
+Member States shall take all the measures necessary to ensure that the levy is correctly charged and that it falls on the producers who contributed to the overrun.
+
+## CHAPTER IV — CONTROLS BY THE MEMBER STATES AND OBLIGATIONS OF PURCHASERS AND PRODUCERS
+
+### SECTION 1 — Controls
+
+#### Article 18 — National control measures
+
+Member States shall take all the control measures in order to ensure that this Regulation is complied with and in particular the measures referred to in Articles 19 to 22.
+
+#### Article 19 — Control plan
+
+1\. Member States shall draw up a general control plan for each 12-month period on the basis of risk analysis. This control plan shall include at least:
+
+(a) the criteria adopted for drawing up the plan;
+
+(b) the purchasers and producers selected;
+
+(c) on-the-spot checks to be executed regarding the 12-month period;
+
+(d) the controls of transport between producers and purchasers;
+
+(e) the controls of the yearly declarations of producers or purchasers.
+
+Member States may decide to update the general control plan by more detailed periodic plans.
+
+The representativeness of the operators active in the milk sector shall be taken into consideration as regards the risk analysis as well as seasonality of production for the timing of the controls.
+
+2\. Controls shall be carried out partly during the 12-month period in question, partly after the 12-month period on the basis of the yearly declarations.
+
+3\. Controls shall be deemed to be completed once an inspection report of the controls is available.
+
+All inspection reports shall be completed no later than 18 months after the end of the 12-month period concerned.
+
+By way of derogation from the second subparagraph, Member States that apply the instalment scheme provided for in Article 15(1) shall complete the inspection report no later than 42 months after the end of the 12-month period concerned.
+
+However, where the controls provided for in Article 20 are combined with other controls, the time limits laid down for other controls and the establishment of the respective inspection reports shall be respected.
+
+#### Article 20 — On-the spot-checks
+
+On-the-spot checks shall be unannounced. However, provided that the purpose of the control is not jeopardised, advance notice limited to the strict minimum necessary may be given.
+
+Where appropriate, on-the-spot checks provided for in this Regulation, as well as any other checks provided for in Community rules, shall be carried out at the same time.
+
+#### Article 21 — Controls on deliveries and direct sales
+
+1\. As regards deliveries, controls shall be executed at farm level, during transport of the milk and at purchaser level. At all stages Member States shall physically check by means of on-the-spot checks the accuracy of registration and accounting of the milk marketed and in particular:
+
+(a) at farm level, the status of producer within the meaning of Article 5(c) of Regulation (EC) No 1788/2003 as well as the compatibility between deliveries and production capacity;
+
+(b) at transport level, the document referred to in Article 24(4) of this Regulation, the accuracy of the instruments for measuring milk volume and quality, the accuracy of the collection method, including possible intermediate collection points, the accuracy of quantity of collected milk at unloading;
+
+(c) at purchaser level, the accuracy of declarations referred to in Article 8 of this Regulation, in particular by cross-checks to documents referred to in Article 24(2) to (5) of this Regulation as well as the credibility of the records of stocks and deliveries referred to in Article 24(2) and (3) of this Regulation in the light of the commercial documents and other documents showing how the milk collected has been used.
+
+2\. As regards direct sales, controls shall cover in particular:
+
+(a) at farm level, the status of producer within the meaning of Article 5(c) of Regulation (EC) No 1788/2003 as well as the compatibility between direct sales and production capacity;
+
+(b) the accuracy of the declaration referred to in Article 11(1) of this Regulation, in particular by means of documents referred to in Article 24(6) of this Regulation.
+
+#### Article 22 — Intensity of controls
+
+1\. The controls referred to in Article 21(1) shall cover at least:
+
+(a) 1 % of the producers for each 12-month period;
+
+(b) 20 % of the quantity of milk declared after adjustment for the period concerned; and
+
+(c) a representative sample of transport of milk between selected producers and purchasers.
+
+The transport controls referred to in point (c) shall be carried out in particular at unloading at the dairies.
+
+2\. Controls referred to in Article 21(2) shall cover at least:
+
+(a) 5 % of producers; or
+
+(b) the following two groups:
+
+(i) 1 % of producers whose individual reference quantity for direct sales is less than 5 000 kg and whose declared direct sales for the 12-month period concerned is less than 5 000 kg of milk or milk equivalent;
+
+(ii) 5 % of producers who do not satisfy the conditions set out in point (i).
+
+3\. Each purchaser shall be controlled at least once in five years.
+
+4\. If a control reveals significant irregularities or discrepancies in a region or part of a region, the competent authority shall double the number of controls during the 12-month period concerned and the following 12-month period in that region or part of that region.
+
+### SECTION 2 — Obligations
+
+#### Article 23 — Approval of purchasers
+
+1\. To be able to buy milk from producers and to operate in the territory of a Member State, purchasers must be approved by that Member State.
+
+2\. Without prejudice to stricter rules laid down by the Member State concerned, purchasers shall be approved only where they:
+
+(a) provide proof of their status as dealers under national provisions;
+
+(b) have premises in the Member State concerned where the stock records, registers and other documents referred to in Article 24(2) may be consulted by the competent authority;
+
+(c) undertake to keep up to date the stock records, registers and other documents referred to in Article 24(2);
+
+(d) undertake to forward the statements and declarations provided for in Article 8(2) to the competent authority of the Member State concerned at least once a year.
+
+3\. Without prejudice to the penalties laid down by the Member State concerned, approval shall be withdrawn where the conditions laid down in paragraph 2(a) and (b) are no longer met.
+
+Where it is found that a purchaser has forwarded an incorrect statement or declaration, or has failed to comply with the undertaking referred to in paragraph 2(c) or has repeatedly failed to comply with any other obligation imposed under Regulation (EC) No 1788/2003, this Regulation or the relevant national rules, the Member State shall either withdraw approval or require payment of an amount in proportion to the volume of milk involved and the seriousness of the irregularity.
+
+4\. Approval may be reinstated at the request of the purchaser after a period of at least six months, provided that a further thorough inspection gives satisfactory results.
+
+The penalties referred to in paragraph 3 shall not be imposed where the Member State recognises a case of force majeure or establishes that the irregularity was not committed deliberately or as a result of serious negligence, or where the irregularity is negligible in terms of the functioning of the scheme or the effectiveness of the checks.
+
+#### Article 24 — Obligations of purchasers and producers
+
+1\. Producers shall ensure that purchasers to whom they deliver are approved. The Member States shall lay down penalties where deliveries are made to non-approved purchasers.
+
+2\. Purchasers shall keep available for the competent authority of the Member State, for at least three years from the end of the year in which the documents are drawn up, stock records per 12-month period with details of the name and address of each producer, the information referred to in Article 8(2), entered every month or four-week period in the case of quantities delivered and annually in the case of the other data, together with the commercial documents, correspondence and other information referred to in Council Regulation (EEC) No 4045/89 ( 7 ), permitting such stock records to be verified.
+
+3\. Purchasers shall be responsible for recording all quantities of milk delivered to them. To that end, they shall keep available for the competent authority, for at least three years from the end of the year in which the documents are drawn up, the list of purchasers and undertakings treating or processing milk supplying them with milk and, for each month, the quantities delivered by each supplier.
+
+4\. On collection at holdings, milk shall be accompanied by a document identifying the delivery. In addition, purchasers shall keep a record of each individual delivery for at least three years from the end of the year in which the record is drawn up.
+
+5\. Producers making deliveries shall keep available for the competent authority of the Member State, for at least three years from the end of the year in which the documents are drawn up, the documents regarding the quantities of milk delivered to the purchasers. The producer in question shall also keep available for the competent authority the registers of livestock held on holdings and used for milk production, in accordance with Article 7 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council ( 8 ).
+
+Producers making direct sales shall keep available for the competent authority of the Member State, for at least three years from the end of the year in which the documents are drawn up, stock records drawn up by 12-month period giving details, per month and per product, of any sale or transfer of milk or milk products.
+
+Producers whose individual reference quantity of direct sales is 5 000 kg or more shall also keep records of milk and milk products which have been produced but not sold or transferred.
+
+Member States may lay down more detailed rules.
+
+They shall also keep available for the competent authority the registers of livestock held on holdings and used for milk production, in accordance with Article 7 of Regulation (EC) No 1760/2000, and supporting documents enabling such stock records to be verified.
+
+## CHAPTER V — COMMUNICATIONS
+
+#### Article 25 — Communications for the division between deliveries and direct sales
+
+1\. Before 1 July 2004, the Member States shall notify to the Commission the division between deliveries and direct sales of individual reference quantities resulting from the application of Article 6(1) of Regulation (EC) No 1788/2003, converted if necessary in accordance with Article 4(2) of this Regulation.
+
+2\. In accordance with Article 69(2)(a) of Regulation (EC) No 1234/2007, the Member States shall notify to the Commission, before 1 February each year:
+
+(a) the quantities which have been definitively converted between individual quotas for deliveries and direct sales at the request of individual producers;
+
+(b) the division between deliveries and direct sales of the quota placed in the national reserve in accordance with Article 71(2) of Regulation (EC) No 1234/2007 with effect from 1 April of the 12-month period in question.
+
+#### Article 26 — Questionnaire
+
+1\. Before 1 September each year the Member States shall communicate to the Commission the questionnaire set out in Annex I, duly completed pursuant to Article 8(2)(b) of Regulation (EC) No 1788/2003.
+
+Portugal shall complete the questionnaire providing additional information in order to distinguish calculation of the levy between mainland and Azores pursuant to Council Regulation (EC) No 1453/2001 ( 9 ).
+
+2\. Where the requirements of paragraph 1 are not met, the Commission shall withhold a flat-rate amount, in accordance with Article 14 of Council Regulation (EC) No 2040/2000 ( 10 ), from advances on the entry in the accounts of the agricultural expenditure of the Member States. That amount shall be equal to the levy payable for a theoretical overrun of the overall reference quantity concerned calculated as follows:
+
+(a) where the questionnaire is not forwarded by 1 September or if data essential for calculating the levy are missing, the percentage of the theoretical overrun shall be 0,005 % for each week of delay;
+
+(b) if a discrepancy of more than 10 % is found between the sum of the quantities delivered or sold directly, as notified in the updates provided for in paragraph 3 of this Article, and those given in the initial response to the questionnaire, the percentage of the theoretical overrun shall be 0,05 %.
+
+3\. Where the information required by the questionnaire changes, in particular as a result of the checks provided for in Articles 18 to 21, the Member State concerned shall communicate an update of the questionnaire to the Commission before 1 December, 1 March, 1 June and 1 September each year.
+
+#### Article 27 — Other communications
+
+1\. Member States shall notify to the Commission measures adopted to apply Regulation (EC) No 1788/2003 and this Regulation, and any amendments thereto, within one month following their adoption. In case of measures adopted pursuant to Articles 16, 17 and 18 of Regulation (EC) No 1788/2003 or pursuant to Article 7 of this Regulation, an explanation of the measures adopted and of their aim shall be joint to the notification.
+
+2\. Member States shall notify to the Commission the method(s) used for the purposes of this Regulation to measure mass or, where applicable, to convert volume into mass, the reasoning behind the coefficients selected, and the exact circumstances in which they apply, together with any subsequent amendments thereto.
+
+3\. Before 1 September 2004, Member States shall notify to the Commission a short report on the system for administering their national references quantities, and before 1 September of each following year, in case of changes to that system, an update of that report.
+
+The report shall comprise a description of the current situation, in particular as regards the measures adopted in case of temporary transfers, transfers with land, other specific transfer measures, the use of the re-allocation of unused quantities and the recourse to the national reserve.
+
+4\. Before 1 October each year, the Member States shall communicate to the Commission a report concerning quota utilisation and levy collection in respect of the 12-month period finishing on 31 March of the same calendar year. Member States shall communicate an update of the report to the Commission before 1 December to include relevant newly available information.
+
+5\. The report referred to in paragraph 4 shall include information on the reallocation of unused quota including the number of producers to whom allocations were made and the basis for the allocations. Member States shall include in the report at least the information referred to in Part 1 of Annex IIa. In the case of the report to be communicated before 1 October 2009, it shall provide the relevant information in respect of both the 2008/2009 and the 2007/2008 12-month periods.
+
+6\. The report referred to in paragraph 4 shall state the amount of surplus levy paid to date to the competent authority, number of producers contributing to the payment of the surplus levy to date, the amount and the number of cases where levy is yet to be paid, and the amount and number of cases where the surplus levy has been deemed impossible to collect due to bankruptcy or producers’ definitive incapacity to pay. Member States shall communicate the relevant information in the format set out in Part 2 of Annex IIa. The report to be communicated before 1 October 2009 shall include the details in respect of levy collection for each 12-month period from 2003/2004 onwards, or in the case of Member States who first implemented the Regulation after 2003/2004, details as regards each 12-month period of implementation. Each subsequent report shall update the position in respect of the collection of any surplus levy previously reported as not yet paid.
+
+7\. Member States that apply the instalment scheme provided for in Article 15(1) shall notify the Commission by 30 November 2016 and 30 November 2017 of the number of beneficiaries under the scheme and the amount not yet recovered from them concerning each yearly payment by mentioning them in column (i) of the table in Part 2 of the report set out in Annex IIa, using the comment ‘instalment scheme’.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+#### Article 28 — Repeal
+
+Regulation (EC) No 1392/2001 is repealed.
+
+However, it shall continue to apply in respect of the period 2003/04, and, where necessary, previous periods unless otherwise provided by Council Regulation (EC) No 1788/2003.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+
+#### Article 29 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 April 2004.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+►(1) M4
+
+## ANNEX II
+
+Reference interest rates referred to in Article 15(2)
+
+— For Member States in the euro zone
+
+Euro interbank borrowing offered rate (EURIBOR)
+
+— For Denmark
+
+Copenhagen interbank borrowing offered rate (CIBOR)
+
+— For Sweden
+
+Stockholm interbank borrowing offered rate (STIBOR)
+
+— For the United Kingdom
+
+London interbank borrowing offered rate (LIBOR)
+
+— For Cyprus
+
+Nicosia interbank borrowing offered rate (NIBOR)
+
+— For Czech Republic
+
+Prague interbank borrowing offered rate (PRIBOR)
+
+— For Estonia
+
+Tallinn interbank borrowing offered rate (TALIBOR)
+
+— For Hungary
+
+Budapest interbank borrowing offered rate (BUBOR)
+
+— For Lithuania
+
+Vilnius interbank borrowing offered rate (VILIBOR)
+
+— For Latvia
+
+Riga interbank borrowing offered rate (RIGIBOR)
+
+— For Malta
+
+Malta interbank borrowing offered rate (MIBOR)
+
+— For Poland
+
+Warsaw interbank borrowing offered rate (WIBOR)
+
+— For Slovenia
+
+Slovenian interbank borrowing offered rate (SITIBOR)
+
+— For Slovakia
+
+Bratislava interbank borrowing offered rate (BRIBOR)
+
+## ANNEX IIa
+
+**Report referred to in Article 27(4)**
+
+**PART 1**
+
+**Information in respect of 12-month period ending 31 March 20… including both delivery and direct sales**
+
+1\. Number of producers who exceeded their available quota before reallocation of quota in accordance with Article 79 of Regulation (EC) No 1234/2007.
+
+2\. Amount of excess deliveries and direct sales by producers included in point 1 (kgs) before reallocation of quota in accordance with Article 79 of Regulation (EC) No 1234/2007.
+
+3\. Number of producers who have used less than their available quota.
+
+4\. Amount of the quota unused by producers included in point 3 (kgs).
+
+5\. Total number of producers required to contribute to payment of surplus levy after reallocation of unused quota in accordance with Article 79 of Regulation (EC) No 1234/2007.
+
+**PART 2**
+
+A. INCLUDE DELIVERY + DIRECT SALES
+
+<table>
+<tbody><tr><td>Period</td><td>Total number of producers required to contribute to levy</td><td>Number of producers in respect of whom all levy due paid to competent authority</td><td>Number of producers in respect of whom all levy due not yet paid to competent authority</td><td>Number of producers included in (d) where levy due is being pursued by administrative process</td><td>Number of producers included in (d) where levy due is being pursued by legal process</td><td>Number of producers included in (d) in respect of whom the levy charged is subject to challenge through legal process</td><td>Number of producers included in (d) in respect of whom levy deemed impossible to collect</td><td>others (add a comment) </td></tr>
+<tr><td>(a)</td><td>(b)</td><td>(c)</td><td>(d)</td><td>(e)</td><td>(f)</td><td>(g)</td><td>(h)</td><td>(i)</td></tr>
+<tr><td>2003/2004</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2004/2005</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2005/2006</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2006/2007</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2007/2008</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2008/2009</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2009/2010</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2010/2011</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2011/2012</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2012/2013</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2013/2014</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2014/2015</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">NB: Columns (e) to (i) are sub-total of column (d).</td></tr>
+</tbody>
+</table>
+
+B. INCLUDE DELIVERY + DIRECT SALES
+
+<table>
+<tbody><tr><td>Period</td><td>Total amount of levy due for period</td><td>Amount of levy paid to competent authority</td><td>Amount of levy due not yet paid to competent authority</td><td>Amount of levy due included in (d) being pursued by administrative process</td><td>Amount of levy due included in (d) being pursued by legal process</td><td>Amount of levy due included in (d) which is subject to challenge through legal process</td><td>Amount of levy included in (d) deemed impossible to collect</td><td>others (add a comment) </td></tr>
+<tr><td>(a)</td><td>(b)</td><td>(c)</td><td>(d)</td><td>(e)</td><td>(f)</td><td>(g)</td><td>(h)</td><td>(i)</td></tr>
+<tr><td>2003/2004</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2004/2005</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2005/2006</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2006/2007</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2007/2008</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2008/2009</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2009/2010</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2010/2011</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2011/2012</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2012/2013</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2013/2014</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2014/2015</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">NB: Columns (e) to (i) are sub-total of column (d).</td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Correlation table**
+
+| This Regulation | Regulation (EC) No 1392/2001 |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | — |
+| Article 3 | — |
+| Article 4 | — |
+| Article 5 | — |
+| Article 6 | Article 2(1) and (2) |
+| Article 7 | Article 3 |
+| Article 8 | Article 5 |
+| Article 9 | Article 4 |
+| Article 10 | — |
+| Article 11 | Article 6 |
+| Article 12 | Article 2(3) |
+| Article 13 | Article 7 |
+| Article 14 | — |
+| Article 15 | Article 8 |
+| Article 16 | Article 9 |
+| Article 17 | Article 11(1) |
+| Article 18 | — |
+| Article 19(1) | Article 12(1) |
+| Article 19(2) | — |
+| Article 19(3) | Article 12(2) |
+| Article 20 | — |
+| Article 21(1)(2) | Article 11(3) |
+| Article 22 | Article 12(2) |
+| Article 23 | Article 13 |
+| Article 24 | Article 14 |
+| Article 25 | Article 15(1)(c) |
+| Article 26 | Article 15(1)(e), (2) and (3) |
+| Article 27 | Article 15(1)(a), (b), (d) and (f) |
+| Article 28 | Article 16 |
+| Article 29 | Article 17 |
+| Annex I: Annual questionnaire | Annex I |
+| Annex II: Reference interest rates | Annex II |
+| Annex III: Correlation table | Annex III |
+
+( 1 ) OJ L 270, 21.10.2003, p. 123.
+
+( 2 ) OJ L 187, 10.7.2001, p. 19.
+
+( 3 ) OJ L 299, 16.11.2007, p. 1.
+
+( 4 ) OJ L 365, 21.12.2006, p. 52.
+
+( 5 ) OJ L 39, 17.2.1996, p. 5.
+
+( 6 ) OJ L 160, 26.6.1999, p. 80.
+
+( 7 ) OJ L 388, 30.12.1989, p. 18.
+
+( 8 ) OJ L 204, 11.8.2000, p. 1.
+
+( 9 ) OJ L 198, 21.7.2001, p. 26.
+
+( 10 ) OJ L 244, 29.9.2000, p. 27.

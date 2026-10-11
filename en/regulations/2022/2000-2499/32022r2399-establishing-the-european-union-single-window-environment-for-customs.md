@@ -1,0 +1,423 @@
+---
+title: "Regulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013"
+identifier: "32022R2399"
+eli: "http://data.europa.eu/eli/reg/2022/2399/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-11-23
+entry_into_force: 2024-01-01
+last_amended: 2024-10-17
+consolidated_version: "02022R2399-20241017"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2399-20241017"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013
+
+**REGULATION (EU) 2022/2399 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 November 2022**
+
+**establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2514 of 3 July 2024 </td><td> L 2514</td><td>1</td><td>27.9.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2022/2399 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 November 2022**
+
+**establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013**
+
+## Chapter I — General provisions
+
+#### Article 1 — Subject matter
+
+This Regulation establishes a European Union Single Window Environment for Customs (‘EU Single Window Environment for Customs’) that provides an integrated set of interoperable electronic services, at Union and national level through the European Union Customs Single Window Certificates Exchange System, to support interaction and enhance information exchange between the national single window environments for customs and the Union non-customs systems referred to in the Annex.
+
+It lays down rules for the national single window environments for customs and rules on digital administrative cooperation and information sharing through interoperable data sets, within the EU Single Window Environment for Customs.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘customs authorities’ means ‘customs authorities’ as defined in Article 5, point (1), of Regulation (EU) No 952/2013;
+
+(2) ‘customs legislation’ means ‘customs legislation’ as defined in Article 5, point (2), of Regulation (EU) No 952/2013;
+
+(3) ‘economic operator’ means ‘economic operator’ as defined in Article 5, point (5), of Regulation (EU) No 952/2013;
+
+(4) ‘customs formalities’ means ‘customs formalities’ as defined in Article 5, point (8), of Regulation (EU) No 952/2013;
+
+(5) ‘customs declaration’ means ‘customs declaration’ as defined in Article 5, point (12) of Regulation (EU) No 952/2013;
+
+(6) ‘re-export declaration’ means ‘re-export declaration’ as defined in Article 5, point (13), of Regulation (EU) No 952/2013;
+
+(7) ‘declarant’ means ‘declarant’ as defined in Article 5, point (15), of Regulation (EU) No 952/2013;
+
+(8) ‘customs procedure’ means ‘customs procedure’ as defined in Article 5, point (16), of Regulation (EU) No 952/2013;
+
+(9) ‘national single window environment for customs’ means a set of electronic services established by a Member State to enable information to be exchanged between the electronic systems of its customs authority, the partner competent authorities and economic operators;
+
+(10) ‘partner competent authority’ means any Member State authority, or the Commission, empowered to perform a designated function in relation to the fulfilment of the relevant Union non-customs formalities;
+
+(11) ‘Union non-customs formality’ means all the operations which must be carried out by an economic operator or by a partner competent authority for the international movement of goods, as laid down in Union legislation other than customs legislation;
+
+(12) ‘supporting document’ means any required document issued by a partner competent authority or drawn up by an economic operator, or any required information provided by an economic operator, to certify that Union non-customs formalities have been fulfilled;
+
+(13) ‘quantity management’ means the activity of monitoring and managing the quantity of goods authorised by partner competent authorities, in accordance with Union legislation other than customs legislation, based on the information provided by customs authorities;
+
+(14) ‘Union non-customs system’ means a Union electronic system established by, used in order to achieve the objectives of, or referred to in Union legislation to store information on the fulfilment of the respective Union non-customs formality;
+
+(15) ‘Economic Operator Registration and Identification number (EORI number)’ means ‘Economic Operator Registration and Identification number (EORI number)’ as defined in Article 1, point (18), of Commission Delegated Regulation (EU) 2015/2446 ( 1 );
+
+(16) ‘EORI system’ means the system established for the purposes of Article 9 of Regulation (EU) No 952/2013.
+
+#### Article 3 — Establishment of an EU Single Window Environment for Customs
+
+1\. An EU Single Window Environment for Customs is established. It shall include:
+
+(a) an electronic European Union Customs Single Window Certificates Exchange System;
+
+(b) national single window environments for customs;
+
+(c) the Union non-customs systems referred to in Part A of the Annex, the use of which is mandatory under Union law;
+
+(d) the Union non-customs systems referred to in Part B of the Annex, the use of which is voluntary under Union law.
+
+2\. The EU Single Window Environment for Customs and its components shall be designed, interconnected and operated in accordance with Union law on the protection of personal data, the free flow of non-personal data and cybersecurity, using the most appropriate technologies having regard to the particular characteristics of the specific data and electronic systems concerned, and the purposes of those systems.
+
+## Chapter II — European Union Customs Single Window Certificates Exchange System
+
+#### Article 4 — Establishment of the electronic European Union Customs Single Window Certificates Exchange System
+
+The electronic European Union Customs Single Window Certificates Exchange System (EU CSW-CERTEX) is established to enable information exchange, as provided for in Chapter IV. EU CSW-CERTEX shall connect the national single window environments for customs with the Union non-customs systems referred to in the Annex.
+
+#### Article 5 — Roles and responsibilities of EU CSW-CERTEX
+
+1\. The Commission, in collaboration with the Member States, shall develop, integrate and operate EU CSW-CERTEX.
+
+2\. The Commission shall:
+
+(a) connect the Union non-customs systems referred to in the Annex with EU CSW-CERTEX by the dates set out in the Annex and enable information to be exchanged on the Union non-customs formalities listed therein;
+
+(b) provide timely guidance and assistance to Member States when they connect to EU CSW-CERTEX as referred to in paragraphs 4 and 5.
+
+3\. Where the Commission provides training on EU CSW-CERTEX, it shall do so under Regulation (EU) 2021/444 of the European Parliament and of the Council ( 2 ).
+
+4\. The Member States, assisted where necessary by the Commission, shall connect the national single window environments for customs with EU CSW-CERTEX by the dates set out in Part A of the Annex and enable information to be exchanged on the Union non-customs formalities listed in Part A thereof.
+
+5\. The Member States, assisted, where necessary, by the Commission, may connect the national single window environments for customs with EU CSW-CERTEX and enable information to be exchanged on the Union non-customs formalities listed in Part B of the Annex.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 21 to amend Part A of the Annex, as regards the Union non-customs formalities, their respective Union non-customs systems as laid down in Union legislation other than customs legislation, and the date for the connections referred to in paragraphs 2 and 4 of this Article.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 21 to amend Part B of the Annex as regards:
+
+(a) Union non-customs formalities and their respective voluntary Union non-customs systems laid down in Union legislation other than customs legislation, where the use of EU CSW-CERTEX is provided for in that legislation;
+
+(b) Union non-customs formalities and systems under Regulation (EU) 2021/821 of the European Parliament and of the Council ( 3 ) and Council Regulations (EC) No 2173/2005 ( 4 ) and (EC) No 338/97 ( 5 ); and
+
+(c) the date for the connection referred to in paragraph 2, point (a), of this Article for the Union non-customs systems referred to in points (a) and (b) of this paragraph.
+
+#### Article 6 — Processing of personal data in EU CSW-CERTEX
+
+1\. Processing of personal data may take place in EU CSW-CERTEX only for the following purposes:
+
+(a) enabling information to be exchanged between the national single window environments for customs and the Union non-customs systems referred to in the Annex as regards the Union non-customs formalities listed therein;
+
+(b) performing the business and technical transformation of data listed in Article 10(2), where this is necessary in order to enable the exchange of information referred to in point (a) of this paragraph.
+
+2\. Processing of personal data may take place in EU CSW-CERTEX only in respect of the following categories of data subjects:
+
+(a) natural persons whose personal information is contained in the customs declaration or re-export declaration;
+
+(b) natural persons whose personal information is contained in the supporting documents, or in any other additional documentary evidence required for the fulfilment of the Union non-customs formalities listed in the Annex;
+
+(c) authorised staff of customs authorities, partner competent authorities or any other relevant authority or authorised body whose personal information is contained in any documents referred to in points (a) and (b);
+
+(d) Commission staff and third-party providers acting on behalf of the Commission that perform EU CSW-CERTEX-related operations and maintenance activities.
+
+3\. Processing of personal data may take place in EU CSW-CERTEX only in respect of the following categories of personal data:
+
+(a) the name, address, country code and identification number of the natural persons referred to in paragraph 2, points (a) and (b), required either by customs legislation or by Union legislation other than customs legislation in order to fulfil customs and Union non-customs formalities;
+
+(b) the name and signature of the staff referred to in paragraph 2, points (c) and (d).
+
+4\. With the exception of technical logs indicating the supporting documents exchanged and the flow of such exchange, EU CSW-CERTEX shall not store any information exchanged between the national single window environments for customs and Union non-customs systems.
+
+5\. The transformation of personal data referred to in paragraph 1, point (b), shall be performed using information technology infrastructure located in the Union.
+
+#### Article 7 — Joint controllership of EU CSW-CERTEX
+
+1\. As regards the processing of personal data in EU CSW-CERTEX, the Commission shall be a joint controller within the meaning of Article 28(1) of Regulation (EU) 2018/1725, and customs authorities and Member States’ partner competent authorities responsible for the Union non-customs formalities listed in the Annex shall be joint controllers within the meaning of Article 26(1) of Regulation (EU) 2016/679.
+
+2\. The Commission shall adopt implementing acts, establishing the respective responsibilities of the joint controllers to comply with the obligations under Regulations (EU) 2016/679 and (EU) 2018/1725. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2) of this Regulation.
+
+3\. The joint controllers shall:
+
+(a) work together to process, in a timely manner, requests made by data subjects;
+
+(b) assist each other in matters involving the identification and handling of any data breach related to joint processing;
+
+(c) exchange the relevant information necessary to inform data subjects pursuant to Chapter III, Section 2, of Regulation (EU) 2016/679 and Chapter III, Section 2, of Regulation (EU) 2018/1725;
+
+(d) ensure and protect the security, integrity, availability and confidentiality of the personal data processed jointly pursuant to Article 32 of Regulation (EU) 2016/679 and Article 33 of Regulation (EU) 2018/1725.
+
+## Chapter III — National single window environments for customs
+
+#### Article 8 — Establishment of national single window environments for customs
+
+1\. Each Member State shall establish a national single window environment for customs and shall be responsible for its development, integration and operation.
+
+2\. The national single window environments for customs shall enable the exchange of information and cooperation by electronic means between customs authorities, partner competent authorities and economic operators through EU CSW-CERTEX for the purposes of compliance with, and efficient enforcement of, customs legislation and the Union non-customs formalities listed in the Annex.
+
+3\. For the Union non-customs formalities and systems listed in Part A of the Annex, the national single window environments for customs shall provide the following functionalities:
+
+(a) a single communication channel for economic operators, who may use it to fulfil the relevant customs formalities and Union non-customs formalities subject to additional digital cooperation in accordance with Article 12;
+
+(b) quantity management related to the Union non-customs formalities, where applicable; and
+
+(c) automatic verification of compliance with the Union non-customs formalities listed in the Annex based on the data received by customs authorities through EU CSW-CERTEX from Union non-customs systems.
+
+4\. For each of the Union non-customs formalities and systems listed in Part B of the Annex, if the national single window environment for customs is connected to EU CSW-CERTEX in accordance with Article 5(5), that national single window environment for customs shall provide all of the functionalities listed in paragraph 3 of this Article.
+
+5\. The national single window environments for customs may be used as a platform to coordinate controls performed in accordance with Article 47(1) of Regulation (EU) No 952/2013.
+
+#### Article 9 — Personal data processing within the national single window environments for customs
+
+1\. The processing of personal data within the national single window environments for customs, in accordance with Regulation (EU) 2016/679, shall take place separately from the processing operations referred to in Article 6 of this Regulation.
+
+2\. Each Member State shall designate one or more competent authorities to act as the controller of the data processing operations taking place within its national single window environment for customs.
+
+3\. With the exception of breaches that do not concern data exchanged with EU CSW-CERTEX, each Member State shall notify the Commission of personal data breaches that compromise the security, confidentiality, availability or integrity of the personal data processed within its national single window environment for customs.
+
+## Chapter IV — Digital cooperation – information exchange and other procedural rules
+
+### SECTION 1 — DIGITAL COOPERATION RELATED TO UNION NON-CUSTOMS FORMALITIES
+
+#### Article 10 — Information exchanged and processed through EU CSW-CERTEX and its use
+
+1\. For each of the Union non-customs formalities listed in the Annex, EU CSW-CERTEX shall enable information to be exchanged between the national single window environments for customs and the relevant Union non-customs systems for the following purposes:
+
+(a) making the relevant data available to customs authorities for them to perform the necessary verification of those formalities in accordance with Regulation (EU) No 952/2013 in an automated manner;
+
+(b) making the relevant data available to partner competent authorities for them to perform quantity management of authorised goods in Union non-customs systems based on the goods declared to customs authorities and released by those authorities;
+
+(c) facilitating and supporting the integration of procedures between customs authorities and partner competent authorities, for the fully automated fulfilment of the formalities required to place the goods under a customs procedure or to re-export them, and the cooperation concerning the coordination of controls in accordance with Article 47(1) of Regulation (EU) No 952/2013, without prejudice to the national implementation of those procedures;
+
+(d) enabling any other automated data transfer between customs authorities and the relevant partner competent authorities required by Union legislation establishing Union non-customs formalities, without prejudice to the national use of that data.
+
+2\. For each of the Union non-customs formalities listed in the Annex, EU CSW-CERTEX shall provide the following functionalities:
+
+(a) aligning customs and non-customs terminology where possible, and identifying the customs procedure or the re-export for which the supporting document can be used, based on the administrative decision of the partner competent authority indicated in the supporting document; and
+
+(b) transforming, where necessary, the format of the data required to fulfil the relevant Union non-customs formalities into a format of data compatible with the customs declaration or re-export declaration and vice versa without changing the content of the data.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 21 supplementing this Regulation by specifying the data elements to be exchanged through EU CSW-CERTEX in accordance with paragraph 1 of this Article.
+
+4\. The Commission shall adopt implementing acts, establishing specific rules for the information exchange referred to in paragraphs 1 and 2 of this Article, including, where appropriate, any specific rules to ensure the protection of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+### SECTION 2 — ADDITIONAL DIGITAL COOPERATION RELATED TO UNION NON-CUSTOMS FORMALITIES
+
+#### Article 11 — Streamlining the fulfilment of customs formalities and Union non-customs formalities
+
+1\. For Union non-customs formalities and systems listed in Part A of the Annex, the national single window environments for customs shall provide the following functionalities:
+
+(a) enabling economic operators to submit the relevant information required for the fulfilment of the applicable customs formalities and Union non-customs formalities; and
+
+(b) communicating to economic operators the electronic feedback from customs authorities and partner competent authorities regarding the fulfilment of customs formalities and Union non-customs formalities.
+
+2\. For Union non-customs formalities and systems listed in Part B of the Annex, the national single window environments for customs may provide the functionalities listed in paragraph 1. In that situation, the same set of functionalities as those listed in paragraph 1 shall be provided.
+
+#### Article 12 — Union non-customs formalities subject to additional digital cooperation
+
+1\. A Union non-customs formality listed in the Annex shall be subject to Article 8(3), point (a), and Articles 11, 13, 14 and 15, provided that the Commission has determined, in accordance with paragraph 2 of this Article, that the formality concerned fulfils the criteria set out in that paragraph.
+
+2\. The Commission shall adopt implementing acts, determining which of the Union non-customs formalities listed in the Annex fulfil the following criteria:
+
+(a) there is a degree of overlap between data to be included in the customs declaration or re-export declaration and data to be included in the supporting documents required for the Union non-customs formalities listed in the Annex;
+
+(b) the number of supporting documents issued in the Union for the specific formality is not negligible;
+
+(c) the corresponding Union non-customs system referred to in the Annex can identify the economic operators by means of their EORI number;
+
+(d) the applicable Union legislation other than customs legislation allows the fulfilment of the specific formality through the national single window environments for customs in accordance with Article 11.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+#### Article 13 — Data harmonisation and rationalisation
+
+1\. The Commission shall identify the common data set required for the customs declaration or re-export declaration and for the supporting documents required for the Union non-customs formalities listed in the Annex (‘common data set’).
+
+2\. The Commission shall also identify the additional data elements subject solely to Union legislation other than customs legislation. Those additional data elements shall be identified by the corresponding acronym of the Union non-customs formality listed in the Annex, followed by the suffix ‘partner competent authority data set’.
+
+3\. The common data set, the additional data elements referred to in paragraph 2 and the data set required to place the goods under a specific customs procedure or to re-export them shall constitute an integrated data set, containing all data needed by customs authorities and partner competent authorities.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 21 supplementing this Regulation by identifying, on the one hand, the data elements of the common data set referred to in paragraph 1 of this Article and, on the other hand, the additional data elements referred to in paragraph 2 of this Article for each of the relevant Union acts applicable to Union non-customs formalities listed in the Annex.
+
+#### Article 14 — Submission of customs and Union non-customs data by economic operators
+
+1\. For the purposes of Article 11(1), point (a), the national single window environments for customs may enable economic operators to submit an integrated data set as referred to in Article 13(3), including the customs declaration or re-export declaration lodged, prior to the presentation of the goods, in accordance with Article 171 of Regulation (EU) No 952/2013.
+
+2\. The integrated data set submitted in accordance with paragraph 1 shall be deemed to constitute, as appropriate, the customs declaration or the re-export declaration and the submission of data required by partner competent authorities for the Union non-customs formalities listed in the Annex.
+
+#### Article 15 — Additional information exchange processed through EU CSW-CERTEX
+
+1\. EU CSW-CERTEX shall enable the necessary exchange of information between national single window environments for customs and Union non-customs systems for the following purposes:
+
+(a) transmitting the data that have been identified as the common data set pursuant to Article 13(1), as well as the applicable additional data elements identified pursuant to Article 13(2) (‘partner competent authority data set’) to enable partner competent authorities to carry out their duties in respect of the relevant formalities, in accordance with Union legislation other than customs legislation;
+
+(b) transmitting to economic operators for the purposes of Article 11(1), point (b), any feedback from partner competent authorities entered in the relevant Union non-customs systems.
+
+2\. Where an economic operator is registered with the customs authorities in accordance with Article 9 of Regulation (EU) No 952/2013, the EORI number shall be used for the exchanges of information referred to in paragraph 1 of this Article.
+
+3\. The Commission shall adopt implementing acts, establishing procedural arrangements for the exchanges of information referred to in paragraph 1 of this Article, including, where appropriate, any specific rules governing the protection of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+### SECTION 3 — OTHER PROCEDURAL RULES
+
+#### Article 16 — Use of the EORI system by partner competent authorities
+
+In carrying out their duties, partner competent authorities shall have access to the EORI system for the purpose of validating the relevant data on economic operators stored in that system.
+
+#### Article 17 — National coordinators
+
+Each Member State shall designate a national coordinator for the EU Single Window Environment for Customs. The national coordinator shall carry out the following tasks in order to support the implementation of this Regulation:
+
+(a) act as national contact point for the Commission for all matters relating to the implementation of this Regulation;
+
+(b) promote and support, on a national level, the cooperation between customs authorities and national partner competent authorities;
+
+(c) coordinate the activities related to the connection of national single window environments for customs with EU CSW-CERTEX, and the provision of information in accordance with Article 20(4).
+
+## Chapter V — Costs of EU CSW-CERTEX, work programme and monitoring and reporting
+
+#### Article 18 — Costs
+
+1\. The costs associated with the development, integration and operation of EU CSW-CERTEX and its interfaces with Union non-customs systems shall be borne by the general budget of the Union.
+
+2\. Each Member State shall bear the costs incurred in relation to the development, integration and operation of its national single window environment for customs and the connection of its national single window environment for customs with EU CSW-CERTEX.
+
+#### Article 19 — Work programme
+
+The Commission shall adopt implementing acts, establishing a work programme to support the implementation of this Regulation in relation to the connection of the Union non-customs systems referred to in the Annex to EU CSW-CERTEX and the integration of the respective Union non-customs formalities. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+
+The work programme referred to in the first paragraph shall be reviewed and updated regularly, and at least once every three years, in order to assess and improve the overall implementation of this Regulation.
+
+#### Article 20 — Monitoring and reporting
+
+1\. The Commission shall regularly monitor the functioning of the EU Single Window Environment for Customs, taking into account, inter alia, information relevant for monitoring purposes and provided by the Member States, including information on the functioning of their national single window environments for customs.
+
+2\. The Commission shall regularly evaluate the performance of EU CSW-CERTEX. That evaluation shall include an assessment of the effectiveness, efficiency, coherence, relevance and Union added-value of EU CSW-CERTEX.
+
+3\. By 31 December 2027 and every year thereafter, the Commission shall submit to the European Parliament and to the Council a report on the implementation of this Regulation. That report shall include:
+
+(a) an overview of Union non-customs formalities included in Union legislation and the Commission’s legislative proposals;
+
+(b) a detailed overview of the stage of progress that every Member State has reached on its national single window environment for customs in relation to the implementation of this Regulation; and
+
+(c) a detailed overview of the overall progress of the EU Single Window Environment for Customs in relation to the work programme referred to in Article 19.
+
+By 31 December 2027 and every three years thereafter, the report referred to in the first subparagraph shall also include information on the monitoring and evaluation carried out in accordance with paragraphs 1 and 2, respectively, including the impact on economic operators, and in particular on small and medium-sized enterprises.
+
+4\. The Member States shall, at the request of the Commission, provide information on the implementation of this Regulation that is necessary for the report referred to in paragraph 3.
+
+## Chapter VI — Procedures for adoption of implementing and delegated acts, amendments to Regulation (EU) No 952/2013 and final provisions
+
+#### Article 21 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 5(6) and (7), Article 10(3) and Article 13(4) shall be conferred on the Commission for an indeterminate period of time from 12 December 2022.
+
+3\. The delegation of power referred to in Article 5(6) and (7), Article 10(3) and Article 13(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 5(6) and (7), Article 10(3) or Article 13(4) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 22 — Committee procedure
+
+1\. The Commission shall be assisted by the Customs Code Committee established by Regulation (EU) No 952/2013. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 23 — Amendments to Regulation (EU) No 952/2013
+
+Regulation (EU) No 952/2013 is amended as follows:
+
+(1) in Article 5, point (2), the following point is added:
+
+‘(e) Regulation (EU) 2022/2399 of the European Parliament and of the Council ( *1 ) and the provisions supplementing or implementing it;
+
+(2) in Article 163(1), the following subparagraph is added:
+
+‘The supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 shall be deemed to be in the possession of the declarant and at the disposal of the customs authorities at the time when the customs declaration is lodged, provided that those authorities are able to obtain the necessary data from the corresponding Union non-customs systems through the European Union Customs Single Window Certificates Exchange System in accordance with Article 10(1), points (a) and (c), of that Regulation.’
+
+#### Article 24 — Entry into force and application
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+Article 8(3), point (a), Article 11, Article 13(1), (2) and (3), Article 14 and Article 15(1) and (2) shall apply from 13 December 2031.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Part A**
+
+**Union non-customs formalities and mandatory Union non-customs systems**
+
+<table>
+<tbody><tr><td>Union non-customs formality</td><td>Acronym</td><td>Union non-customs system</td><td>Relevant Union legislation</td><td>Date of application</td></tr>
+<tr><td>Common health entry document for animals</td><td>CHED-A</td><td>TRACES</td><td>Regulation (EU) 2017/625 of the European Parliament and of the Council (1)</td><td>3 March 2025</td></tr>
+<tr><td>Common health entry document for products</td><td>CHED-P</td><td>TRACES</td><td>Regulation (EU) 2017/625</td><td>3 March 2025</td></tr>
+<tr><td>Common health entry document for feed and food of non-animal origin</td><td>CHED-D</td><td>TRACES</td><td>Regulation (EU) 2017/625</td><td>3 March 2025</td></tr>
+<tr><td>Common health entry document for plants and plant products</td><td>CHED-PP</td><td>TRACES</td><td>Regulation (EU) 2017/625</td><td>3 March 2025</td></tr>
+<tr><td>Certificate of inspection</td><td>COI</td><td>TRACES</td><td>Regulation (EU) 2018/848 of the European Parliament and of the Council (2)</td><td>3 March 2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Licences used for the import or export of ozone depleting substances</td><td>ODS</td><td>ODS 2 Licensing System</td><td>Regulation (EU) 2024/590 of the European Parliament and of the Council (3)</td><td>3 March 2025</td></tr>
+<tr><td>Fluorinated greenhouse gases</td><td>F-gas</td><td>F-gas Portal</td><td>Regulation (EU) 2024/573 of the European Parliament and of the Council (4)</td><td>3 March 2025</td></tr>
+<tr><td>Import licence for cultural goods</td><td>ICG-L</td><td>TRACES</td><td>Regulation (EU) 2019/880 of the European Parliament and of the Council (5)</td><td>28 June 2025</td></tr>
+<tr><td>Importer statement for cultural goods</td><td>ICG-S</td><td>TRACES</td><td>Regulation (EU) 2019/880</td><td>28 June 2025</td></tr>
+<tr><td>General description for cultural goods</td><td>ICG-D</td><td>TRACES</td><td>Regulation (EU) 2019/880</td><td>28 June 2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Carbon Border Adjustment Mechanism Authorisations</td><td>CBAM</td><td>CBAM Registry </td><td>Regulation (EU) 2023/956 of the European Parliament and of the Council (6)</td><td>1 January 2026</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="5">(1)  Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).  (2)  Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).  (3)  Regulation (EU) 2024/590 of the European Parliament and of the Council of 7 February 2024 on substances that deplete the ozone layer, and repealing Regulation (EC) No 1005/2009 (OJ L, 2024/590, 20.2.2024, ELI: http://data.europa.eu/eli/reg/2024/590/oj).  (4)  Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (OJ L, 2024/573, 20.2.2024, ELI: http://data.europa.eu/eli/reg/2024/573/oj).  (5)  Regulation (EU) 2019/880 of the European Parliament and of the Council of 17 April 2019 on the introduction and the import of cultural goods (OJ L 151, 7.6.2019, p. 1, ELI: http://data.europa.eu/eli/reg/2019/880/oj).  (6)  Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (OJ L 130, 16.5.2023, p. 52, ELI: http://data.europa.eu/eli/reg/2023/956/oj). </td></tr>
+</tbody>
+</table>
+
+**Part B**
+
+**Union non-customs formalities and voluntary Union non-customs systems where the use of EU CSW-CERTEX is provided for in Union legislation**
+
+<table>
+<tbody><tr><td>Union non-customs formality</td><td>Acronym</td><td>Union non-customs system</td><td>Relevant Union legislation other than customs legislation</td><td>Connection by</td></tr>
+<tr><td>Import licence for Forest Law Enforcement, Governance and Trade</td><td>FLEGT</td><td>TRACES</td><td>Council Regulation (EC) No 2173/2005 (1)</td><td>3 March 2025</td></tr>
+<tr><td>Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items</td><td>DuES</td><td>eLicensing System</td><td>Regulation (EU) 2021/821 of the European Parliament and of the Council (2)</td><td>3 March 2025</td></tr>
+<tr><td>Certificates for International trade of endangered species of wild fauna and flora</td><td>CITES</td><td>TRACES</td><td>Council Regulation (EC) No 338/97 (3)</td><td>1 October 2025</td></tr>
+<tr><td>Information and Communication System for Market Surveillance</td><td>ICSMS</td><td>ICSMS</td><td>Regulation (EU) 2019/1020 of the European Parliament and of the Council (4)</td><td>16 December 2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Notification of arrival</td><td>NOA</td><td>TRACES</td><td>Commission Delegated Regulation (EU) 2024/2104 (5)</td><td>3 March 2025</td></tr>
+<tr><td colspan="5">(1)  Council Regulation (EC) No 2173/2005 of 20 December 2005 on the establishment of a FLEGT licensing scheme for imports of timber into the European Community (OJ L 347, 30.12.2005, p. 1).  (2)  Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (OJ L 206, 11.6.2021, p. 1).  (3)  Council Regulation (EC) No 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein (OJ L 61, 3.3.1997, p. 1).  (4)  Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1).  (5)  Commission Delegated Regulation (EU) 2024/2104 of 27 June 2024 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the cases where and the conditions under which competent authorities may request operators to notify the arrival of certain goods entering the Union (OJ L, 2024/2104, 25.9.2024, ELI: http://data.europa.eu/eli/reg_del/2024/2104/oj). </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1).
+
+( 2 ) Regulation (EU) 2021/444 of the European Parliament and of the Council of 11 March 2021 establishing the Customs programme for cooperation in the field of customs and repealing Regulation (EU) No 1294/2013 (OJ L 87, 15.3.2021, p. 1).
+
+( 3 ) Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (OJ L 206, 11.6.2021, p. 1).
+
+( 4 ) Council Regulation (EC) No 2173/2005 of 20 December 2005 on the establishment of a FLEGT licensing scheme for imports of timber into the European Community (OJ L 347, 30.12.2005, p. 1).
+
+( 5 ) Council Regulation (EC) No 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade therein (OJ L 61, 3.3.1997, p. 1).
+
+( *1 ) Regulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1).’

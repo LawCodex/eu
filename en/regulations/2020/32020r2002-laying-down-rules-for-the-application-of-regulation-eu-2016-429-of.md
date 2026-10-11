@@ -1,0 +1,1228 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/2002 of 7 December 2020 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to Union notification and Union reporting of listed diseases, to formats and procedures for submission and reporting of Union surveillance programmes and of eradication programmes and for application for recognition of disease-free status, and to the computerised information system (Text with EEA relevance)"
+identifier: "32020R2002"
+eli: "http://data.europa.eu/eli/reg_impl/2020/2002/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-12-07
+entry_into_force: 2020-10-06
+last_amended: 2026-07-15
+consolidated_version: "02020R2002-20260715"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R2002-20260715"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/2002 of 7 December 2020 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to Union notification and Union reporting of listed diseases, to formats and procedures for submission and reporting of Union surveillance programmes and of eradication programmes and for application for recognition of disease-free status, and to the computerised information system (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/2002**
+
+**of 7 December 2020**
+
+**laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to Union notification and Union reporting of listed diseases, to formats and procedures for submission and reporting of Union surveillance programmes and of eradication programmes and for application for recognition of disease-free status, and to the computerised information system**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1183 of 8 July 2022 </td><td> L 184</td><td>6</td><td>11.7.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1451 of 13 July 2023 </td><td> L 179</td><td>48</td><td>14.7.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/501 of 5 March 2026 </td><td> L 501</td><td>1</td><td>6.3.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/2002**
+
+**of 7 December 2020**
+
+**laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council with regard to Union notification and Union reporting of listed diseases, to formats and procedures for submission and reporting of Union surveillance programmes and of eradication programmes and for application for recognition of disease-free status, and to the computerised information system**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down rules concerning:
+
+(1) category E diseases relevant to the Union notification of outbreaks and the information to be provided by Member States for Union notification and Union reporting as regards the detection of category E diseases;
+
+(2) the deadlines and frequencies of Union notification and Union reporting of diseases;
+
+(3) the format and procedure for reporting to the Commission the results of Union surveillance programmes and the information, format and procedure for reporting to the Commission and other Member States on the results of eradication programmes;
+
+(4) the format and structure of the data referred to in points 1 and 3 to be entered into the computerised information system for Union notification and Union reporting of diseases;
+
+(5) the listing of notification and reporting regions;
+
+(6) the format and procedure for the submission for information of Union surveillance programmes to the Commission and other Member States;
+
+(7) the information, format and procedural requirements as regards the submission of draft compulsory and draft optional eradication programmes to the Commission for approval and as regards performance indicators necessary to evaluate the effectiveness of the application of those programmes, as well as the formats and procedures for applications for recognition of disease-free status of the entire territory of Member States, or zones and compartments thereof and for exchanges of information between the Member States and the Commission on disease-free Member States, or zones and compartments thereof;
+
+(8) procedures for the establishment and use of the Animal Disease Information System (ADIS).
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘category B disease’ means a listed disease which must be controlled in all Member States with the goal of eradicating it throughout the Union, as referred to in Article 9(1)(b) of Regulation (EU) 2016/429;
+
+(2) ‘category C disease’ means a listed disease which is of relevance to some Member States and for which measures are needed to prevent it from spreading to parts of the Union that are officially disease-free or that have eradication programmes for the listed disease concerned, as referred to in Article 9(1)(c) of Regulation (EU) 2016/429;
+
+(3) ‘category E disease’ means a listed disease for which there is a need for surveillance within the Union, as referred to in Article 9(1)(e) of Regulation (EU) 2016/429;
+
+(4) ‘primary outbreak’ means an outbreak not epidemiologically linked with a previous outbreak in the same notification and reporting region of a Member State or the first outbreak in a different notification and reporting region of the same Member State;
+
+(5) ‘secondary outbreak’ means an outbreak other than a primary outbreak;
+
+(6) ‘Animal Disease Information System (ADIS)’ means the computerised information system for Union notification and Union reporting of diseases referred to in Article 22 of Regulation (EU) 2016/429 that is to be set up and managed by the Commission;
+
+(7) ‘territorial scope’ means the territory covered by the eradication programme in accordance with Article 13 of Delegated Regulation (EU) 2020/689 as regards terrestrial animals and in accordance with Article 47 of that Delegated Regulation as regards aquatic animals;
+
+(8) ‘duration of the eradication programme’ means the period of application of the eradication programme in accordance with Article 15 of Delegated Regulation (EU) 2020/689 as regards terrestrial animals and in accordance with Article 49 of that Delegated Regulation as regards aquatic animals.
+
+## Article 3 — Union notification
+
+1\. Member States shall notify the Commission and the other Member States within 24 hours of confirmation of any primary outbreak in their territory of a listed disease referred to in:
+
+(a) points 1 and 2 of Annex I;
+
+(b) point 3 of Annex I, if the primary outbreak has been detected in the relevant targeted animal population in a disease-free Member State or zone;
+
+(c) points 4 and 5 of Annex I, if the primary outbreak has been detected in a disease-free Member State, zone or, where relevant, compartment;
+
+(d) point 6 of Annex I, if the primary outbreak has been confirmed in a notification and reporting region listed in Annex IV, and where the outbreak has been caused by either:
+
+(i) a new serotype which has been detected for the first time in that notification and reporting region; or
+
+(ii) a serotype which was circulating in previous years, but has been detected for the first time in that notification and reporting region in the new yearly transmission period of the reporting year.
+
+2\. Member States shall notify to the Commission at the latest on the first working day of each week covering the previous week, from 0.00 on Monday until 24.00 on Sunday, secondary outbreaks in their territory of a listed disease referred to in:
+
+(a) points 1 and 2 of Annex I;
+
+(b) point 3 of Annex I, if such secondary outbreaks have been detected in the relevant targeted animal population in a disease-free Member State or zone;
+
+(c) points 4 and 5 of Annex I, if such secondary outbreaks have been detected in a disease-free Member State, zone or, where relevant, compartment;;
+
+(d) point 6 of Annex I, if such secondary outbreaks have been confirmed in a notification and reporting region listed in Annex IV, and where the outbreak has been caused by a serotype which was circulating previously, but has been detected for the first time in that notification and reporting region in the new yearly transmission period of the reporting year.
+
+If no information is received by the Commission, this is considered to mean that no secondary outbreaks have been confirmed during the period referred to in the first subparagraph.
+
+3\. The notifications referred to in paragraphs 1 and 2 shall contain the information specified in Annex II and be submitted electronically via the ADIS.
+
+4\. The competent authority shall notify any updates of the relevant information concerning each outbreak, as provided for in Annex II, once new information is available to the competent authority.
+
+## Article 4 — Union reporting on the detection of listed diseases
+
+1\. Member States shall report to the Commission and to the other Member States by 30 April of every year, covering the previous calendar year, on the detection of category E diseases that have been confirmed in their territory in listed species and groups of listed species referred to in the table set out in the Annex to Implementing Regulation (EU) 2018/1882.
+
+2\. The first report referred to in point 1 is due by 30 April 2022.
+
+3\. The reporting referred to in paragraph 1 shall contain the information specified in Annex III and be submitted electronically via the ADIS.
+
+## Article 5 — Notification and reporting regions
+
+The notification and reporting regions established by the Member States in accordance with Article 21 of Regulation (EU) 2016/429 are listed in Annex IV to this Regulation.
+
+## Article 6 — Union reporting on the results of Union surveillance programmes
+
+1\. Member States shall report to the Commission by 15 March of every year, covering the previous calendar year, data on the results of the Union surveillance programmes.
+
+2\. The data referred to in paragraph 1 shall be submitted electronically via the ADIS.
+
+## Article 7 — Union reporting on the annual results of the implementation of approved eradication programmes
+
+1\. Member States shall submit to the Commission by 30 April of every year reports on the results of the implementation of their ongoing approved eradication programmes.
+
+2\. The reports referred to in paragraph 1 shall contain for every year, covering the previous calendar year, the information specified in:
+
+(a) Section 1 of Annex V for eradication programmes for category B and C diseases of terrestrial animals based on granting disease-free status at the level of establishments;
+
+(b) Section 2 of Annex V for eradication programmes for infection with rabies virus (RABV);
+
+(c) Section 3 of Annex V for eradication programmes for infection with bluetongue virus (serotypes 1-24) (infection with BTV);
+
+(d) Section 4 of Annex V for eradication programmes for category B and C diseases of aquatic animals.
+
+3\. The reports referred to in paragraph 1 shall be submitted electronically via the ADIS.
+
+## Article 8 — Union reporting on the final results of the implementation of approved eradication programmes
+
+1\. Member States shall submit to the Commission the final report of their approved eradication programmes within 4 months of their completion.
+
+3\. The final report referred to in paragraph 1 shall contain the information specified in points (e) to (n) of Article 11(1) and in Article 11(2), as relevant, with the exception of the information previously provided in reports referred to in Article 7(1), when the Member States request:
+
+(a) the recognition of disease-free status; or
+
+(b) the extension of the period of application of eradication programmes in accordance with the second sentence of Article 15(2) of Delegated Regulation (EU) 2020/689 or the second sentence of Article 49(2) of that Delegated Regulation.
+
+4\. When the Member State does not request the recognition for a category C disease of disease-free status or the extension of the period of application of eradication programes as referred to in points (a) and (b) of paragraph 3, the Member State shall not submit the final report referred to in paragraph 1. Instead, the Member State shall submit to the Commission a declaration confirming that the eradication programme did not achieve disease eradication and that the extension of its period of application is not requested.
+
+5\. The final report referred to in paragraph 1 shall be submitted electronically via the ADIS.
+
+## Article 9 — Submission and substantial modifications of Union surveillance programmes
+
+1\. Member States shall submit to the Commission their Union surveillance programmes by 31 May of the year preceding the year of their start of application.
+
+2\. The programmes referred to in paragraph 1 shall:
+
+(a) include at least the information listed in Article 11(1) of Delegated Regulation (EU) 2020/689;
+
+(b) be submitted electronically, using the standard electronic templates provided for that purpose.
+
+3\. The programmes referred to in paragraph 1 that have been submitted to the Commission as the technical part of applications for Union funding are considered to be submitted in accordance with paragraph 1.
+
+4\. In case of substantial modifications of ongoing Union surveillance programmes, Member States shall update and resubmit them.
+
+## Article 10 — Submission of eradication programmes
+
+1\. Member States shall submit to the Commission for approval:
+
+(a) their compulsory eradication programmes by 31 May of the year preceding the year of their start of application;
+
+(b) their optional eradication programmes, at any time.
+
+2\. The eradication programmes referred to in paragraph 1 shall contain the relevant information laid down in:
+
+(a) Section 1 of Annex VII for eradication programmes for category B and C diseases of terrestrial animals based on granting disease-free status at establishment level;
+
+(b) Section 2 of Annex VII for eradication programmes for infection with RABV;
+
+(c) Section 3 of Annex VII for eradication programmes for infection with BTV;
+
+(d) Section 4 of Annex VII for eradication programmes for category B and C diseases of aquatic animals.
+
+3\. The eradication programmes referred to in paragraph 1 shall be submitted electronically via the ADIS
+
+## Article 11 — Application for recognition of disease-free status of Member States and zones as regards diseases of terrestrial and aquatic animals and disease-free status of compartments as regards diseases of aquatic animals
+
+1\. Member States shall, when applying to the Commission for recognition of disease-free status in accordance with Sections 1 and 2 of Chapter 4 of Part II of Delegated Regulation (EU) 2020/689, with the exception of the information previously provided in reports referred to in Article 7 of this Regulation, include in their applications the relevant information specified in:
+
+(a) Sections 1 and 2 of Annex VI if the application for recognition of disease-free status is based on the absence of listed species;
+
+(b) Sections 1 and 3 of Annex VI if the application for recognition of disease-free status is based on the disease agent’s incapacity to survive;
+
+(c) Sections 1 and 4 of Annex VI if the application for recognition of disease-free status is based on the incapacity to survive of listed vectors for listed diseases of terrestrial animals;
+
+(d) Sections 1 and 5 of Annex VI if the application for recognition of disease-free status is based on historical and surveillance data;
+
+(e) Section 1 and point 1 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with Brucella abortus, B. melitensis and B. suis as regards kept bovine animals;
+
+(f) Section 1 and point 2 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with Brucella abortus, B. melitensis and B. suis as regards kept ovine and caprine animals;
+
+(g) Section 1 and point 3 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with MTBC;
+
+(h) Section 1 and point 4 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for enzootic bovine leukosis (EBL);
+
+(i) Section 1 and point 5 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infectious bovine rhinotracheitis/infectious pustular vulvovaginitis (IBR/IPV);
+
+(j) Section 1 and point 6 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with Aujeszky’s disease virus (ADV);
+
+(k) Section 1 and point 7 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for bovine viral diarrhoea (BVD);
+
+(l) Section 1 and point 8 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with RABV;
+
+(m) Section 1 and point 9 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for infection with BTV;
+
+(n) Section 1 and, where relevant, point 10 of Section 6 of Annex VI if the application for recognition of disease-free status is based on eradication programmes for diseases of aquatic animals.
+
+2\. Applications for recognition of disease-free status of compartments shall contain, in addition to the information referred to in point (n) of paragraph 1, the following information:
+
+(a) in case of compartments referred to in point (a) of Article 73(2) of Delegated Regulation (EU) 2020/689, documentation that substantiates compliance with the requirements provided for in Article 79(3), (4) and (5) of that Delegated Regulation;
+
+(b) in case of compartments referred to in point (b) of Article 73(2) of Delegated Regulation (EU) 2020/689, the assessment referred to in point (a) of Article 73(3) of that Delegated Regulation and details of any measures, which were put in place to prevent the introduction of the disease concerned into the compartment as referred to in point (c) of Article 73(3) of that Delegated Regulation.
+
+3\. Member States shall inform the Commission immediately about any confirmed case of the relevant disease that is detected in the territory concerned after the date of submission of applications for recognition of disease-free status and before the date of recognition of that status.
+
+4\. The applications referred to in paragraphs 1 and 2 shall be submitted electronically via the ADIS.
+
+## Article 12 — Exchange of information on disease-free Member States, or zones and compartments thereof
+
+1\. The list of territories, zones or compartments with disease-free status as refered to in Article 38 of Regulation (EU) 2016/429 shall be compiled using the standard electronic template provided on the Commission’s website.
+
+2\. Member States shall amend the list referred to in paragraph 1 within two working days, if the disease-free status of the territory, zones or compartments changes due to non-compliance with the requirements for the maintenance of that status.
+
+3\. Member States shall make the provisional declarations for zones or compartments for certain aquatic animal diseases as referred to in point (a) of Article 83(1) of Delegated Regulation (EU) 2020/689 using the standard electronic template provided on the Commission’s website.
+
+## Article 13 — Procedures for the establishment and use of the ADIS
+
+Member States shall use the ADIS or any part thereof for data entry and transfer in accordance with this Regulation from the date communicated to them by the Commission.
+
+## Article 14 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 April 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LISTED DISEASES SUBJECT TO UNION NOTIFICATION
+
+**1\. Listed diseases of terrestrial animals subject to Union notification in accordance with point (a) of Article 3(1) and point (a) of Article 3(2)**
+
+— Foot and mouth disease
+
+— Infection with rinderpest virus
+
+— Infection with Rift Valley fever virus
+
+— Infection with lumpy skin disease virus
+
+— Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia)
+
+— Sheep pox and goat pox
+
+— Infection with peste des petits ruminants virus
+
+— Contagious caprine pleuropneumonia
+
+— African horse sickness
+
+— Infection with Burkholderia mallei (Glanders)
+
+— Classical swine fever
+
+— African swine fever
+
+— Highly pathogenic avian influenza
+
+— Infection with Newcastle disease virus, excluding when diagnosed in:
+
+— Columbiformes unless kept as poultry; or
+
+— wild animals of listed species
+
+— Infection with rabies virus
+
+— Anthrax
+
+— Surra (Trypanosoma evansi)
+
+— Ebola virus disease
+
+— Equine infectious anaemia
+
+— Dourine
+
+— Venezuelan equine encephalomyelitis
+
+— Infestation with Aethina tumida (Small hive beetle)
+
+— Infestation with Tropilaelaps spp.
+
+— Infection with Batrachochytrium salamandrivorans
+
+— Japanese encephalitis
+
+— West Nile fever
+
+— Equine encephalomyelitis (Eastern and Western)
+
+**2\. Listed diseases of aquatic animals subject to Union notification in accordance with point (a) of Article 3(1) and point (a) of Article 3(2)**
+
+— Epizootic haematopoietic necrosis
+
+— Infection with Mikrocytos mackini
+
+— Infection with Perkinsus marinus
+
+— Infection with Taura syndrome virus
+
+— Infection with yellow head disease virus
+
+**3\. Listed diseases of terrestrial animals subject to Union notification in accordance with point (b) of Article 3(1) and point (b) of Article 3(2)**
+
+— Infection with Brucella abortus, B. melitensis, B. suis
+
+— Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis) (MTBC)
+
+— Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis (IBR/IPV)
+
+— Bovine viral diarrhoea (BVD)
+
+— Enzootic bovine leukosis (EBL)
+
+— Infection with Aujeszky’s disease virus (ADV)
+
+**4\. Listed diseases of terrestrial animals subject to Union notification in accordance with point (c) of Article 3(1) and point (c) of Article 3(2)**
+
+— Infestation with Varroa spp.
+
+— Infestation with Echinococcus multilocularis
+
+**5\. Listed diseases of aquatic animals subject to Union notification in accordance with point (c) of Article 3(1) and point (c) of Article 3(2)**
+
+— Viral haemorrhagic septicaemia
+
+— Infectious haematopoietic necrosis
+
+— Infection with HPR deleted infectious salmon anaemia virus
+
+— Infection with Marteilia refringens
+
+— Infection with Bonamia exitiosa
+
+— Infection with Bonamia ostreae
+
+— Infection with white spot syndrome virus (‘infection with WSSV’)
+
+**6\. Listed diseases of terrestrial animals subject to Union notification in accordance with Article 3(1), point (d), and Article 3(2), point (d)**
+
+— Infection with bluetongue virus (serotypes 1-24) (‘infection with BTV’) by serotype
+
+— Infection with epizootic haemorrhagic disease virus
+
+## ANNEX II — INFORMATION TO BE PROVIDED FOR UNION NOTIFICATION ON OUTBREAKS OF LISTED DISEASES IN ACCORDANCE WITH ARTICLE 3(3)
+
+1\. Date of dispatch.
+
+2\. Time of dispatch.
+
+3\. Name of the country.
+
+4\. Name of disease and type of pathogen, where appropriate.
+
+5\. Serial number of outbreak.
+
+6\. Type of outbreak (primary/secondary outbreak).
+
+7\. Reference number of outbreak linked to this outbreak (where applicable).
+
+8\. Region and geographical location of the outbreak. For all category A diseases as defined in Article 1, point (1), of Implementing Regulation (EU) 2018/1882, indicate if the outbreak occurred in a location already subject to restrictions following the establishment of restricted zones for the same category A disease in accordance with Articles 64, 70, 71, 257, 258 or 259 of Regulation (EU) 2016/429.
+
+9\. Date of suspicion.
+
+10\. Date of confirmation.
+
+11\. Diagnostic methods used.
+
+12\. Origin of disease.
+
+13\. Control measures taken.
+
+14\. Animals involved in the outbreak:
+
+(a) Terrestrial animals (by species) except honeybees and bumble bees:
+
+(i) number of susceptible animals, including wild animals where applicable;
+
+(ii) estimated number of clinically or subclinically infected or infested animals including wild animals, where applicable;
+
+(iii) estimated number of animals that have died or, in the case of wild animals, that have been found dead;
+
+(iv) number of animals killed;
+
+(v) number of animals slaughtered;
+
+(b) Honeybees and bumble bees:
+
+(i) number of susceptible colonies;
+
+(ii) number of clinically or subclinically infected or infested colonies;
+
+(iii) number of dead colonies;
+
+(iv) number of destroyed colonies;
+
+(c) Aquatic animals (by species):
+
+(i) estimated number or biomass of susceptible animals, including wild animals where applicable;
+
+(ii) estimated number or biomass of clinically or subclinically infected animals, including wild animals where applicable;
+
+(iii) estimated number or biomass of animals that have died or in the case of wild animals, that have been found dead;
+
+(iv) estimated number or biomass of animals killed;
+
+(v) estimated number or biomass of animals slaughtered.
+
+15\. Date of completion of the preliminary cleaning and disinfection following an outbreak in kept animals of any category A disease as defined in Article 1, point (1), of Implementing Regulation (EU) 2018/1882.
+
+## ANNEX III — INFORMATION TO BE PROVIDED FOR UNION REPORTING ON THE DETECTION OF LISTED DISEASES IN ACCORDANCE WITH ARTICLE 4(3)
+
+1\. Date of report.
+
+2\. Reporting period.
+
+3\. Name of the country.
+
+4\. Name of disease and type of pathogen, where appropriate.
+
+5\. Number of outbreaks by listed animal species or group of species during the reporting period.
+
+6\. Date of confirmation of the last outbreak.
+
+## ANNEX IV — REGIONS IN THE MEMBER STATES FOR THE PURPOSE OF NOTIFICATION AND REPORTING IN ACCORDANCE WITH ARTICLE 5
+
+<table>
+<tbody><tr><td colspan="2"></td></tr>
+<tr><td>Member State (1)</td><td>Notification and reporting regions</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Belgium</td><td>province – provincie</td></tr>
+<tr><td>Bulgaria</td><td>област</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Czechia</td><td>kraj</td></tr>
+<tr><td>Denmark</td><td>municipality</td></tr>
+<tr><td>Germany</td><td>Kreis</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Estonia</td><td>maakond</td></tr>
+<tr><td>Ireland</td><td>county</td></tr>
+<tr><td>Greece</td><td>περιφερειακή ενότητα</td></tr>
+<tr><td>Spain</td><td>provincia</td></tr>
+<tr><td>France</td><td>département</td></tr>
+<tr><td>Croatia</td><td>županija</td></tr>
+<tr><td>Italy</td><td>provincia</td></tr>
+<tr><td>Cyprus</td><td>επαρχία</td></tr>
+<tr><td>Latvia</td><td>novads</td></tr>
+<tr><td>Lithuania</td><td>apskritis</td></tr>
+<tr><td>Luxembourg</td><td>entire country</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Hungary</td><td>vármegye</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Malta</td><td>entire country</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>the Netherlands</td><td>provincie</td></tr>
+<tr><td>Austria</td><td>Bundesland</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Poland</td><td>powiat</td></tr>
+<tr><td>Portugal</td><td>mainland: distrito other parts of the territory: região autónoma </td></tr>
+<tr><td>Romania</td><td>județ</td></tr>
+<tr><td>Slovenia</td><td>območni urad</td></tr>
+<tr><td>Slovakia</td><td>kraj</td></tr>
+<tr><td>Finland</td><td>maakunta/landskap</td></tr>
+<tr><td>Sweden</td><td>kommun</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>United Kingdom (Northern Ireland)</td><td>Divisional Veterinary Office</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">(1)  In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, for the purposes of this Annex, references to Member State include the United Kingdom in respect of Northern Ireland. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — INFORMATION ON THE RESULTS OF THE IMPLEMENTATION OF COMPULSORY AND OPTIONAL ERADICATION PROGRAMMES TO BE PROVIDED IN ACCORDANCE WITH POINT A OF ARTICLE 7(2)
+
+**SECTION 1**
+
+**Results of eradication programmes for category B and C diseases of terrestrial animals based on granting of disease-free status at the level of establishments**
+
+Information to be provided on eradication programmes for category B and C diseases of terrestrial animals based on granting of the disease-free status at the level of establishments:
+
+1\. Date of report.
+
+2\. Reporting period.
+
+3\. Name of the country.
+
+4\. Name of disease.
+
+5\. Territorial scope (in the event of a change in the territorial scope in accordance with point 4 of Section 1 of Annex VII).
+
+6\. Information on the establishments and animals concerned located in the territory in accordance with point 5, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping animals of the targeted animal population excluding establishments falling under the derogation in accordance with Article 19 of Commission Delegated Regulation (EU) 2020/689 ( 1 ) at 31 December;
+
+(b) number of animals of the targeted animal population kept in the establishments referred to in point (a) at 31 December;
+
+(c) number of establishments with disease-free status including establishments with suspended disease-free status, with vaccination or without vaccination, where relevant, out of the number of establishments referred to in point (a) at 31 December;
+
+(d) number of animals kept in the establishments referred to in point (c);
+
+(e) number of establishments confirmed infected during the reporting period.
+
+**SECTION 2**
+
+**Results of eradication programmes for infection with RABV**
+
+Information to be provided on eradication programmes for infection with RABV:
+
+1\. Date of report.
+
+2\. Reporting period.
+
+3\. Name of the country.
+
+4\. Territorial scope (in the event of a change in the territorial scope in accordance with point 3 of Section 2 of Annex VII).
+
+5\. Information on surveillance per zone or region if more than one region is included in the territorial scope of the programme, including at least maps with data of:
+
+(a) Number of indicator animals tested per species;
+
+(b) Number of confirmed cases by species.
+
+6\. Information on vaccination of wild animals, per zone or region if more than one region is included in the territorial scope of the programme:
+
+(a) Number and dates of vaccination campaigns;
+
+(b) Vaccine bait density achieved and, if the total size of the vaccination area per vaccination campaign is greater than 20 000 km2, vaccine bait density maps;
+
+(c) Upon request of the Commission, electronic files containing:
+
+(i) Flight routes recorded during the vaccine bait distribution;
+
+(ii) Vaccine bait distribution (time and position of each bait released) recorded during aerial distribution if the total size of the vaccination area per vaccination campaign is greater than 20 000 km2;
+
+(d) Information on the monitoring of the effectiveness of the vaccination, with maps with data of:
+
+(i) number of animals positive to the biomarker test/number of biomarker tests performed;
+
+(ii) number of animals positive to serological tests/number of serological tests performed.
+
+**SECTION 3**
+
+**Results of eradication programmes for infection with BTV**
+
+Information to be provided on eradication programmes for infection with BTV:
+
+1\. Date of report.
+
+2\. Reporting period.
+
+3\. Name of the country.
+
+4\. Territorial scope (in the event of a change in the territorial scope in accordance with point 3 of Section 3 of Annex VII).
+
+5\. Information on surveillance in the territory in accordance with point 4, by zone or by region if more than one region is included in the territorial scope of the programme:
+
+(a) number of establishments keeping animals of the targeted animal population at 31 December;
+
+(b) number of animals of the targeted animal population kept in the establishments referred to in point (a) at 31 December;
+
+(c) number of establishments keeping animals of the targeted animal population where vaccination against infection with BTV has been carried out and number of animals vaccinated during the reporting period, by species and, if relevant, by serotypes of BTV;
+
+(d) number of outbreaks by BTV serotype confirmed during the reporting period;
+
+(e) number and location of vector protected establishments, where relevant;
+
+(f) description of seasonally BTV-free areas and dates of beginning and end of the vector-free period, where relevant.
+
+**SECTION 4**
+
+**Results of eradication programmes for category B and C diseases of aquatic animals**
+
+Information to be provided on eradication programmes for category B and C diseases of aquatic animals:
+
+1\. Date of report.
+
+2\. Reporting period.
+
+3\. Name of the country.
+
+4\. Name of disease.
+
+5\. Territorial scope (in the event of a change in the territorial scope in accordance with point 4 of Section 4 of Annex VII).
+
+6\. Information on the aquaculture establishments and animals concerned located in the territory referred to in point 5 by Member State, zone or compartment:
+
+(a) number of approved aquaculture establishments and number of registered aquaculture establishments keeping animals of the targeted animal population and, where relevant, sampling points in wild populations, which are included in the eradication programme at 31 December;
+
+(b) number of aquaculture establishments and, where relevant, sampling points in wild populations, out of the number of establishments or sampling points referred to in point (a), which are not infected at 31 December;
+
+(c) number of infected aquaculture establishments and, where relevant, sampling points in wild populations with confirmed case(s) out of the number of establishments and sampling points referred to in point (a) at 31 December;
+
+(d) number of new infected aquaculture establishments and, where relevant, sampling points in wild populations, with confirmed case(s) out of the number of establishments and sampling points referred to in point (a) at 31 December.
+
+## ANNEX VI — INFORMATION TO BE INCLUDED IN APPLICATIONS FOR THE RECOGNITION OF DISEASE-FREE STATUS OF MEMBER STATES OR ZONES AS REGARDS DISEASES OF TERRESTRIAL AND AQUATIC ANIMALS AND IN APPLICATIONS FOR THE RECOGNITION OF DISEASE-FREE STATUS OF COMPARTMENTS AS REGARDS DISEASES OF AQUATIC ANIMALS IN ACCORDANCE WITH ARTICLE 11
+
+**SECTION 1**
+
+**Compliance with general criteria**
+
+General information to be included in applications for the recognition of disease-free status:
+
+1\. Date of application.
+
+2\. Name of the country.
+
+3\. Name of disease.
+
+4\. Territorial scope as regards the recognition of disease-free status.
+
+5\. Statement confirming that the relevant general criteria in accordance with point (a) of Article 66 of Delegated Regulation (EU) 2020/689 for Member States or zones, or with point (a) of Article 73(1) of that Delegated Regulation for aquatic compartments, are complied with.
+
+**SECTION 2**
+
+**Disease-free status based on the absence of listed species**
+
+Information to be included in applications for the recognition of disease-free status based on the absence of listed species:
+
+Documentation in accordance with Articles 67(2) or 74(2) of Delegated Regulation (EU) 2020/689.
+
+**SECTION 3**
+
+**Disease-free status based on the disease agent’s incapacity to survive**
+
+Information to be included in applications for the recognition of disease-free status based on the disease agent’s incapacity to survive:
+
+Documentation in accordance with Articles 68(2) or 75(2) of Delegated Regulation (EU) 2020/689.
+
+**SECTION 4**
+
+**Disease-free status based on the incapacity to survive of listed vectors for listed diseases of terrestrial animals**
+
+Information to be included in applications for the recognition of disease-free status based on the incapacity to survive of listed vectors for listed diseases of terrestrial animals:
+
+Documentation in accordance with Article 69(2) of Delegated Regulation (EU) 2020/689.
+
+**SECTION 5**
+
+**Disease-free status based on historical and surveillance data**
+
+(1) Information to be included by the competent authority in applications for the recognition of a disease-free status for Member State, or a zone or compartment thereof, if more than one zone or compartment are included in the territorial scope of the application, where the disease has been reported in the previous 25 years, and it has been eradicated from the territory concerned:
+
+(a) Disease-free status from infection with Brucella abortus, B. melitensis and B. suis as regards kept bovine animals:
+
+(i) the information referred to in point 1 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from infection with Brucella abortus, B. melitensis and B. suis with or without vaccination at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (a), of Delegated Regulation (EU) 2020/689.
+
+(b) Disease-free status from infection with Brucella abortus, B. melitensis and B. suis as regards kept ovine and caprine animals:
+
+(i) the information referred to in point 2 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from infection with Brucella abortus, B. melitensis and B. Suis with or without vaccination at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (a), of Delegated Regulation (EU) 2020/689.
+
+(c) Disease-free status from infection with MTBC:
+
+(i) the information referred to in point 3 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from infection with MTBC at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (b), of Delegated Regulation (EU) 2020/689.
+
+(d) Disease-free status from EBL:
+
+(i) the information referred to in point 4 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from EBL at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (c), of Delegated Regulation (EU) 2020/689.
+
+(e) Disease-free status from IBR/IPV:
+
+(i) the information referred to in point 5 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from IBR/IPV at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (d), of Delegated Regulation (EU) 2020/689.
+
+(f) Disease-free status from infection with ADV:
+
+(i) the information referred to in point 6 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from infection with ADV at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (e), of Delegated Regulation (EU) 2020/689.
+
+(g) Disease-free status from BVD:
+
+(i) the information referred to in point 7 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from BVD at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (f), of Delegated Regulation (EU) 2020/689.
+
+(h) Disease-free status from infection with RABV:
+
+(i) the information referred to in point 8 of Section 6 of Annex VI;
+
+(ii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, point (g), of Delegated Regulation (EU) 2020/689.
+
+(i) Disease-free status from category B and C diseases of aquatic animals:
+
+(i) the information referred to in point 10 of Section 6 of Annex VI;
+
+(ii) the criteria requested by the competent authority to grant, maintain, suspend and restore, withdraw and regain disease-free status from category B and C diseases of aquatic animals at establishment level;
+
+(iii) any other information and data necessary to demonstrate compliance with the requirements of Article 72, points (k) to (q), of Delegated Regulation (EU) 2020/689.
+
+(2) Information on documented evidence on compliance with the requirements set out in points (a) to (f) of Section 1 of Part III of Annex V to Delegated Regulation (EU) 2020/689 shall be included in applications for the recognition of disease-free status for infestation with Varroa spp., where the disease either has never been reported, or it has been eradicated and not reported for at least 25 years, prior to the date of application for the recognition of disease-free status.
+
+(3) Information on documented evidence on compliance the requirements set out in points (a) to (e) of Section 1 of Part IV of Annex V to Delegated Regulation (EU) 2020/689 shall be included in applications for the recognition of disease-free status from infection with Newcastle disease virus infection without vaccination.
+
+**SECTION 6**
+
+**Disease-free status based on eradication programmes**
+
+Information to be included in applications for the recognition of disease-free status based on eradication programmes, by calendar year:
+
+1\. in the case of eradication programmes for infection with Brucella abortus, B. melitensis and B. suis as regards kept bovine animals by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping bovine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of bovine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments keeping bovine animals with the status free from infection with Brucella abortus, B. melitensis and B. suis without vaccination including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of bovine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments keeping bovine animals tested with a serological test for infection with Brucella abortus, B. melitensis and B. suis each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of abortion cases from kept bovine animals that may have been caused by infection with Brucella abortus, B. melitensis and B. suis investigated each year for the last three years;
+
+(h) date of last confirmed case of infection with Brucella abortus, B. melitensis and B. suis in kept bovine animals;
+
+(i) date of last vaccination against infection with Brucella abortus, B. melitensis and B. suis of kept bovine animals;
+
+2\. in the case of eradication programmes for infection with Brucella abortus, B. melitensis and B. suis as regards kept ovine and caprine animals, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping ovine or caprine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of ovine and caprine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments keeping ovine or caprine animals with the status free from infection with Brucella abortus, B. melitensis and B. suis without vaccination including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of ovine and caprine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments keeping ovine or caprine animals tested for infection with Brucella abortus, B. melitensis and B. suis each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of abortion cases from ovine or caprine animals that may have been caused by infection with Brucella abortus, B. melitensis and B. suis investigated each year for the last three years;
+
+(h) date of last confirmed case of infection with Brucella abortus, B. melitensis and B. suis in kept ovine or caprine animals;
+
+(i) date of last vaccination against infection with Brucella abortus, B. melitensis and B. suis of kept ovine or caprine animals;
+
+3\. in the case of eradication programmes for infection with MTBC, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping bovine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of bovine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments keeping bovine animals with the status free from infection with MTBC including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of bovine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments keeping bovine animals tested for MTBC each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of bovine animals slaughtered, presenting suspected lesions of infection with MTBC that have been investigated each year the last three years;
+
+(h) number of establishments confirmed infected with MTBC each year the last three years;
+
+4\. in the case of eradication programmes for EBL, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping bovine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of bovine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments keeping bovine animals with the status free from EBL including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of bovine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments keeping bovine animals tested for EBL each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of samples from slaughtered bovine animals over 24 months of age with tumors that could be caused by EBL being subjected to laboratory examination to confirm or rule out the presence of EBL each year for the last three years;
+
+(h) number of establishments confirmed infected with EBL each year for the last three years;
+
+5\. in the case of eradication programmes for IBR/IPV, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping bovine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of bovine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments with the status free from IBR/IPV including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of bovine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments tested for IBR/IPV each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of establishments confirmed infected with IBR/IPV each year for the last three years;
+
+(h) date of prohibition of vaccination against IBR/IPV of kept bovine animals;
+
+6\. in the case of eradication programmes for infection with ADV, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping porcine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of porcine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments with the status free from infection with ADV including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of porcine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments where surveillance has been carried out to discover any clinical, virological or serological evidence of infection with ADV each year for the last three years;
+
+(f) number of porcine animals tested in the establishments referred to in point (e) each year for the last three years;
+
+(g) number of establishments confirmed infected with ADV each year for the last three years;
+
+(h) date of prohibition of vaccination against ADV of kept porcine animals;
+
+7\. in the case of eradication programmes for BVD, by zone, if more than one zone is included in the territorial scope of the programme:
+
+(a) number of establishments keeping bovine animals, excluding establishments falling under the derogation in accordance with Article 19 of Delegated Regulation (EU) 2020/689 at 31 December of each year for the last three years;
+
+(b) number of bovine animals kept in the establishments referred to in point (a) at 31 December of each year for the last three years;
+
+(c) number of establishments with the status free from BVD including establishments with suspended disease-free status at 31 December of each year for the last three years;
+
+(d) number of bovine animals kept in the establishments referred to in point (c) at 31 December of each year for the last three years;
+
+(e) number of establishments tested for BVD each year for the last three years;
+
+(f) number of establishments with suspicion following the testing referred to in point (e) each year for the last three years;
+
+(g) number of establishments confirmed infected with BVD each year for the last three years;
+
+(h) date of prohibition of vaccination against BVD of kept bovine animals;
+
+8\. in case of eradication programmes for infection with RABV, by zone or region, if more than one region is included in the territorial scope of the programme, information on:
+
+(a) surveillance, including at least maps with data of:
+
+(i) indicator animals tested per species;
+
+(ii) confirmed cases by species;
+
+(b) vaccination of wild animals:
+
+(i) number and dates of vaccination campaigns;
+
+(ii) vaccine bait density achieved per zone or region and, if the total size of the vaccination area per vaccination campaign is greater than 20 000 km2, vaccine bait density maps;
+
+(iii) upon request of the Commission, electronic files with:
+
+— flight routes recorded during the vaccine bait distribution,
+
+— vaccine bait distribution: time and position of each bait released recorded during aerial distribution if the total size of the vaccination area per vaccination campaign is greater than 20 000 km2;
+
+(iv) monitoring of the effectiveness of the vaccination, with maps with data of:
+
+— number of animals positive to the biomarker test/number of biomarker tests performed,
+
+— number of animals positive to serological tests/number of serological tests;
+
+(v) number and results of the titration of the vaccine baits tests performed;
+
+(c) number of confirmed cases for which infection with RABV did not occur in the territory concerned (imported cases);
+
+(d) if epidemiological links in cases referred to in point (c) have been identified, the results of increased surveillance carried out over a period of 6 months following the death of the animal concerned, where relevant;
+
+9\. in case of eradication programmes for infection with BTV:
+
+(a) territorial scope with a map and a description and demarcation of the geographical and administrative areas covered by the eradication programme and the names of the zones and regions, if more than one region is included in the territorial scope of the programme; where relevant, the reasons for applying the derogation provided for in Article 37(3) of Delegated Regulation (EU) 2020/689 and evolution of the zone during the programme;
+
+(b) the number of establishments keeping animals of the targeted animal population on 31 December;
+
+(c) the number of animals of the targeted animal population kept in the establishments referred to in point (b) on 31 December;
+
+(d) sampling schemes implemented annually: mapping unit and selection criteria implemented, frequency of testing, number of tests, type of diagnostic methods and results;
+
+(e) number of confirmed cases by zone, species, year/months and BTV serotype(s);
+
+(f) number of animals vaccinated by year, species and BTV serotype(s);
+
+(g) derogations for movements granted, number of animals concerned and, where relevant, adaptation of the surveillance implemented;
+
+(h) coordinated measures with other Member States or third countries, where relevant, and adaptation of the surveillance to external sources of infection with BTV;
+
+10\. in the case of eradication programmes for category B and C diseases of aquatic animals, supply the following information for each year of the programme, by Member State, zone or compartment, as relevant to the territorial scope:
+
+(a) number of approved aquaculture establishments, and where relevant, the number of registered aquaculture establishments keeping animals of the targeted animal population and sampling points in wild populations, which are included in the eradication programme, as well as maps showing the location of establishments and sampling points in wild populations;
+
+(b) number of aquaculture establishments and, where relevant, sampling points in wild populations, out of the number of establishments and sampling points referred to in point (a), which are not infected;
+
+(c) number of animal health visits per approved and where relevant, registered aquaculture establishments;
+
+(d) number of samplings per approved and where relevant, registered aquaculture establishments and sampling points in wild populations, as well as details of species, results of sampling (positive or negative) and water temperatures at the time of sampling;
+
+(e) number of infected aquaculture establishments and, where relevant, sampling points in wild populations with confirmed cases(s) out of the number of establishments referred to in point (a);
+
+(f) number of new infected aquaculture establishments and, where relevant, sampling points in wild populations with confirmed case(s) out of the number of establishments referred to in point (a).
+
+## ANNEX VII — INFORMATION REQUIRED FOR THE SUBMISSION OF ERADICATION PROGRAMMES IN ACCORDANCE WITH ARTICLE 10
+
+**SECTION 1**
+
+**Submission of eradication programmes for category B and C diseases of terrestrial animals based on granting disease-free status at the level of establishments**
+
+Information to be included in eradication programmes for category B and C diseases of terrestrial animals based on granting of the disease-free status at the level of establishments:
+
+1\. Date of submission.
+
+2\. Name of the country.
+
+3\. Name of disease.
+
+4\. Territorial scope with a description and demarcation of the geographical and administrative areas covered by the eradication programme and the names of the zones and regions, if more than one region is included in the territorial scope of the programme.
+
+5\. A description of the epidemiological situation for each zone or region, if more than one region is included in the territorial scope of the programme:
+
+(a) the number of establishments keeping animals of the targeted animal population by health status ( 2 ) excluding establishments falling under the derogation referred to in point (6)(f) at 31 December;
+
+(b) the number of animals of the targeted animal population kept in the establishments referred to in point (a) by health status;
+
+(c) maps indicating the density of the targeted animal population referred to in point (b) by health status;
+
+(d) timeline with prevalence, incidence data and, where relevant, vaccination history covering at least the past 5 years; and
+
+(e) information as regards the epidemiological situation in additional animal populations, where relevant.
+
+6\. A description of the disease control strategy of the eradication programme in accordance with Article 16 of Commission Delegated Regulation (EU) 2020/689 including at least:
+
+(a) the sampling schemes and diagnostic methods to be used in accordance with Annex IV to Delegated Regulation (EU) 2020/689:
+
+(i) for the granting of the disease-free status to establishments and the maintenance of that status;
+
+(ii) to confirm or rule out the disease in the event of a suspected case;
+
+(b) the disease control measures to be applied in the event of a confirmed case;
+
+(c) the biosecurity and risk mitigating measures to be implemented;
+
+(d) type of vaccine(s) to be used and the vaccination scheme, if relevant;
+
+(e) the measures to be implemented as regards additional animal populations, if relevant;
+
+(f) the derogations to be applied in accordance with Article 19 of Delegated Regulation (EU) 2020/689, if relevant;
+
+(g) coordinated measures with other Member States or third countries, if relevant.
+
+7\. A description of the organisation, supervision and roles of the parties involved in the eradication programme including at least:
+
+(a) the authorities in charge of coordinating and supervising the implementation of the programme;
+
+(b) responsibilities of all stakeholders involved.
+
+8\. The estimated duration of the eradication programme.
+
+9\. The intermediate targets of the eradication programme related to the disease-specific criteria for obtaining disease-free status, including at least:
+
+(a) the expected annual decrease of the number of infected establishments;
+
+(b) the expected annual increase of the number of disease-free establishments.
+
+**SECTION 2**
+
+**Submission of eradication programmes for infection with RABV**
+
+Information to be included in eradication programmes for infection with RABV:
+
+1\. Date of submission.
+
+2\. Name of the country.
+
+3\. Territorial scope with a description and demarcation of the geographical and administrative areas covered by the eradication programme and names of zones and regions, if more than one region is included in the territorial scope of the programme.
+
+4\. A description of the epidemiological situation during at least the past 5 years, including:
+
+(a) number of confirmed cases by listed animal species;
+
+(b) maps indicating the distribution of confirmed cases referred to in point (a) per year;
+
+(c) disease control strategy and results of control measures.
+
+5\. A description of the disease control strategy of the eradication programme in accordance with Article 32 of Commission Delegated Regulation (EU) 2020/689:
+
+(a) surveillance, including at least:
+
+(i) targeted animal population;
+
+(ii) sampling schemes and details on the collection of dead animals;
+
+(iii) diagnostic methods;
+
+(b) if relevant, vaccination, including at least:
+
+(i) vaccination of kept animals in the framework of the eradication programme;
+
+— type of vaccine(s) to be used,
+
+— targeted population;
+
+(ii) vaccination of wild animals:
+
+— definition/demarcation of the vaccination area,
+
+— frequency and expected dates of the vaccination campaigns,
+
+— vaccine bait(s) to be used;
+
+— vaccine bait distribution method and designed vaccine bait density;
+
+— description of the methods to be used to assess the correct vaccine bait distribution,
+
+— description of the strategy to monitor the effectiveness of the vaccination as regards serology and vaccine bait uptake in the targeted animal population, the sampling schemes, with details on the collection of dead animals, and diagnostic methods,
+
+— description of the measures to ensure the maintenance of the quality of the vaccine bait before it is distributed particularly as regards titration of the vaccine baits and controls of the cold chain,
+
+— vaccination of stray dogs with the type of vaccine(s) to be used and the targeted population;
+
+(c) the disease control measures to be applied in the event of a confirmed case;
+
+(d) the public information campaigns to be implemented;
+
+(e) the measures to be implemented to reduce the contact with infected animals;
+
+(f) the coordinated measures with other Member States or third countries, where relevant.
+
+6\. A description of the organisation, supervision and roles of the parties involved in the eradication programme including at least:
+
+(a) the authorities in charge of coordinating and supervising the implementation of the programme;
+
+(b) responsibilities of all stakeholders involved.
+
+7\. The estimated duration of the eradication programme.
+
+8\. The intermediate targets of the eradication programme including at least:
+
+(a) the expected annual decrease of the number of outbreaks;
+
+(b) the expected number of confirmed outbreaks in areas with outbreaks during the previous year;
+
+(c) the expected percentage of sero-conversion in targeted animal populations;
+
+(d) the expected percentage of vaccine uptake in animals of the targeted species.
+
+**SECTION 3**
+
+**Submission of eradication programmes for infection with BTV**
+
+Information to be included in eradication programmes for infection with BTV:
+
+1\. Date of submission.
+
+2\. Name of the country.
+
+3\. Territorial scope with a description and demarcation of the geographical and administrative areas covered by the eradication programme and the names of the zones and regions, if more than one region is included in the territorial scope of the programme: and the reasons for applying the derogation provided for in Article 37(3) of Delegated Regulation (EU) 2020/689, where relevant.
+
+4\. A description of the epidemiological situation for each zone or region, if more than one region is included in the territorial scope of the programme:
+
+(a) the number of establishments keeping animals of the targeted animal population at 31 December;
+
+(b) the number of animals of the targeted animal population kept in the establishments referred to in point (a);
+
+(c) maps indicating:
+
+(i) the density of the targeted animal population referred to in point (b); and
+
+(ii) the geographical distribution of cases of infection with BTV by serotypes covering at least the past 5 years;
+
+(d) timeline with prevalence, incidence data and, where relevant, vaccination history covering at least the past 5 years;
+
+(e) results of vector surveillance covering at least the past 5 years;
+
+(f) information as regards the epidemiological situation in additional animal populations, where relevant.
+
+5\. A description of the disease control strategy of the eradication programme in accordance with Article 37 of Delegated Regulation (EU) 2020/689 including at least:
+
+(a) details of the active surveillance to be implemented in accordance with Section 4 of Chapter 1 of Part II of Annex V to Delegated Regulation (EU) 2020/689 with:
+
+(i) maps indicating the geographical units;
+
+(ii) choice of sampling sites, sampling schemes and diagnostic methods used for the monitoring of sentinel animals;
+
+(iii) choice of sampling sites, sampling schemes and diagnostic methods used for the structured prevalence surveys;
+
+(b) type of vaccine(s) to be used and vaccination schemes for vaccination of the relevant targeted animal population, where relevant;
+
+(c) procedure and diagnostic methods to confirm or rule out the disease in the event of a suspected case;
+
+(d) the disease control measures to be applied in the event of a confirmed case;
+
+(e) movement restrictions implemented for movements of kept animals and germinal products;
+
+(f) the biosecurity and risk mitigating measures to be implemented;
+
+(g) details on vector surveillance and, where relevant, the establishment of seasonally BTV-free areas;
+
+(h) details on the granting to establishments of the status ‘vector protected establishment’, where relevant;
+
+(i) coordinated measures with other Member States or third countries, where relevant.
+
+6\. A description of the organisation, supervision and roles of the parties involved in the eradication programme including at least:
+
+(a) the authorities in charge of coordinating and supervising the implementation of the programme;
+
+(b) responsibilities of all stakeholders involved.
+
+7\. The estimated duration of the eradication programme.
+
+8\. The intermediate targets of the eradication programme including at least:
+
+(a) the expected annual decrease of the number of confirmed cases in the targeted animal population;
+
+(b) the expected annual increase of the number of disease-free geographical units;
+
+(c) the expected vaccination coverage, where relevant.
+
+**SECTION 4**
+
+**Submission of eradication programmes for category B and C diseases of aquatic animals**
+
+Information to be included in eradication programmes for category B and C diseases of aquatic animals:
+
+1\. Date of submission.
+
+2\. Name of the country.
+
+3\. Name of disease.
+
+4\. Territorial scope with a description and demarcation of the geographical and administrative areas covered by the eradication programme and the names of the zones or compartments.
+
+5\. A description of the epidemiological situation in the Member State, zone or compartment, as relevant to the territorial scope of the programme, including:
+
+(a) the number of approved aquaculture establishments and the number of registered aquaculture establishments keeping animals of the targeted animal population, by type of production and by health status;
+
+(b) listed species kept in the aquaculture establishments referred to in point (a) by health status;
+
+(c) maps indicating:
+
+(i) the geographical location of the aquaculture establishments referred to in point (a) and the relevant water catchment areas; and
+
+(ii) the geographical distribution of cases of infection with the relevant category B or C disease for a period covering at least the past 5 years;
+
+(d) information as regards the epidemiological situation in wild aquatic animals, where relevant.
+
+6\. A description of the disease control strategy of the eradication programme in accordance with Article 46 of Delegated Regulation (EU) 2020/689 including at least:
+
+(a) the sampling schemes and diagnostic methods to be used in accordance with Annex VI to Delegated Regulation (EU) 2020/689 for:
+
+(i) health visits and sampling in aquaculture establishments;
+
+(ii) targeted surveillance in wild populations, where relevant;
+
+(b) the disease control measures to be applied in the event of a confirmed case;
+
+(c) the biosecurity and risk mitigating measures to be implemented;
+
+(d) vaccination schemes, where relevant;
+
+(e) the measures to be implemented as regards wild aquatic animals and the number and geographical location of sampling points where relevant;
+
+(f) the derogations to be applied in accordance with Article 47(4), Article 51(2) or Article 53 of Delegated Regulation (EU) 2020/689, where relevant;
+
+(g) coordinated measures with other Member States or third countries, where relevant.
+
+7\. A description of the organisation, supervision and roles of the parties involved in the eradication programme including at least:
+
+(a) the authorities in charge of coordinating and supervising the implementation of the programme;
+
+(b) responsibilities of all stakeholders involved.
+
+8\. The estimated duration of the eradication programme.
+
+9\. The intermediate targets of, and the disease control strategies for implementing, the eradication programme including at least:
+
+(a) the expected annual decrease of the number of infected aquaculture establishments and where relevant, sampling points in wild populations;
+
+(b) the expected annual increase of the number of aquaculture establishments and, where relevant, sampling points in wild populations that tested negative;
+
+(c) the expected vaccination coverage, where relevant.
+
+( 1 ) Commission Delegated Regulation (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (OJ L 174, 3.6.2020, p. 211).
+
+( 2 ) Disease-free, infected or unknown.

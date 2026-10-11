@@ -1,0 +1,297 @@
+---
+title: "Commission Delegated Regulation (EU) No 1003/2013 of 12 July 2013 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to trade repositories Text with EEA relevance"
+identifier: "32013R1003"
+eli: "http://data.europa.eu/eli/reg_del/2013/1003/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2013-07-12
+entry_into_force: 2015-04-01
+last_amended: 2025-01-01
+consolidated_version: "02013R1003-20250101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1003-20250101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 1003/2013 of 12 July 2013 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to trade repositories Text with EEA relevance
+
+**COMMISSION DELEGATED REGULATION (EU) No 1003/2013**
+
+**of 12 July 2013**
+
+**supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to trade repositories**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/822 of 24 March 2021 </td><td> L 183</td><td>1</td><td>25.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1702 of 11 March 2024 </td><td> L 1702</td><td>1</td><td>18.6.2024</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 1003/2013**
+
+**of 12 July 2013**
+
+**supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to trade repositories**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down rules on the fees that the European Securities and Markets Authority (ESMA) shall charge trade repositories for their registration, supervision and recognition.
+
+### Article 2 — Recovery of supervisory costs in full
+
+The fees charged to trade repositories shall cover:
+
+(a) all direct and indirect costs relating to the registration and supervision of trade repositories by ESMA in accordance with Regulation (EU) No 648/2012, including those costs resulting from the recognition of trade repositories;
+
+(b) all costs for the reimbursement of direct and indirect costs of competent authorities that have carried out work pursuant to Regulation (EU) No 648/2012, in particular as a result of any delegation of tasks in accordance with Article 74 of Regulation (EU) No 648/2012.
+
+### Article 3 — Applicable turnover
+
+1\. Trade repositories registered under Regulation (EU) No 648/2012 shall keep audited accounts for the purposes of this Regulation which distinguish between the following:
+
+(a) revenues generated from core functions of centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012;
+
+(b) revenues generated from ancillary services that are directly related to centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012.
+
+The applicable revenues from ancillary services of the trade repository for a given year (n) shall be the revenues from the services determined under point (b).
+
+2\. Trade repositories registered under both Regulation (EU) No 648/2012 and Regulation (EU) 2015/2365 shall keep audited accounts for the purposes of this Regulation which distinguish between the following:
+
+(a) revenues generated from core functions of centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012;
+
+(b) revenues generated from core functions of centrally collecting and maintaining records of securities financing transactions under Regulation (EU) 2015/2365;
+
+(c) revenues generated from ancillary services that are directly related to centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012;
+
+(d) revenues generated from ancillary services that are directly related to both centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012 and centrally collecting and maintaining records of securities financing transactions under Regulation (EU) 2015/2365.
+
+The applicable revenues from ancillary services of the trade repository for a given year (n) shall be the sum of:
+
+(a) the revenues referred to in point (c) of the first subparagraph;
+
+(b) a share of the revenues referred to in point (d) of the first subparagraph.
+
+The share of the revenues referred to in point (d) of the first subparagraph shall be equal to the revenues referred to in point (a) of that subparagraph, divided by the sum of:
+
+(a) the revenues referred to in point (a) of the first subparagraph;
+
+(b) the revenues referred to in point (b) of the first subparagraph.
+
+3\. The applicable turnover of a given trade repository for a given year (n) shall be the sum of the amounts referred to in point (a) and (b) of this paragraph, divided by the sum of the amounts referred to in points (c) and (d) of this paragraph:
+
+(a) the revenues generated from the core functions of centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012 on the basis of the audited accounts of the year (n–2);
+
+(b) the applicable revenues from the ancillary services determined in accordance with paragraphs 1 and 2, as applicable, on the basis of the audited accounts of the year (n–2);
+
+(c) the total revenues of all registered trade repositories generated from the core functions of centrally collecting and maintaining records of derivatives under Regulation (EU) No 648/2012 on the basis of the audited accounts of the year (n–2);
+
+(d) the total applicable revenues of all registered trade repositories generated from the ancillary services determined in accordance with paragraph 1 and 2, as applicable, on the basis of the audited accounts of the year (n–2).
+
+4\. Trade repositories shall provide ESMA on an annual basis with the audited accounts referred to in paragraphs 1 and 2. Trade repositories shall submit those accounts to ESMA by electronic means by 30 September each year (n–1).
+
+5\. Where the trade repository did not operate during the full year (n–2), ESMA shall estimate the applicable turnover in accordance with paragraph 3 and by extrapolating the value calculated for the number of months during which the trade repository operated in year (n–2) to the whole year (n–2).
+
+6\. Where no audited accounts for year (n–2) are available, ESMA shall use the audited accounts for year (n–1).
+
+7\. Where the revenues referred to in paragraph 3 are reported in another currency than euro, ESMA shall convert those revenues into euro using the average euro foreign exchange rate applicable to the period during which those revenues were recorded. For that purpose, ESMA shall use the euro foreign exchange reference rate published by the European Central Bank.
+
+## CHAPTER II — FEES
+
+### Article 5 — Types of fees
+
+1\. Trade repositories established in the Union that apply for registration in accordance with Article 55(1) of Regulation (EU) No 648/2012 shall be charged the following types of fees:
+
+(a) registration fees according to Article 6;
+
+(b) annual supervisory fees according to Article 7.
+
+2\. Trade repositories established in third countries that apply for recognition in accordance with Article 77(1) of Regulation (EU) No 648/2012 shall be charged the following types of fees:
+
+(a) recognition fees according to Article 8(1);
+
+(b) annual supervisory fees for recognised trade repositories according to Article 8(2).
+
+### Article 6 — Registration fee
+
+1\. The registration fee to be paid by individual applicant trade repositories shall be calculated according to the supervisory effort necessary for the assessment and examination of the application, as well as the expected total turnover of the trade repository as specified in paragraphs 2 to 6.
+
+2\. For the calculation of the registration fee, the following activities shall be taken into consideration:
+
+(a) the provision by the trade repository of ancillary services such as trade confirmation, trade matching, credit event servicing, portfolio confirmation or portfolio compression services;
+
+(b) the provision of repository services in three or more classes of derivatives by the trade repository.
+
+3\. For the purposes of paragraph 2, a trade repository shall be deemed to offer ancillary services in any of the following situations:
+
+(a) where it provides direct ancillary services;
+
+(b) where an entity belonging to the same group as the trade repository provides indirect ancillary services;
+
+(c) where an entity with which the trade repository has concluded an agreement in the context of the trading or post-trading chain or business line to cooperate in the provision of services provides the ancillary services.
+
+4\. Where a trade repository does not engage in either of the activities set out in paragraph 2, the trade repository concerned is deemed to have a low expected total turnover and shall pay a registration fee of EUR 45 000 .
+
+5\. Where a trade repository engages in one of the two activities set out in paragraph 2, the trade repository is deemed to have a medium expected total turnover and shall pay a registration fee of EUR 65 000 .
+
+6\. Where a trade repository engages in both activities set out in paragraph 2, the trade repository is deemed to have a high expected total turnover and shall pay a registration fee of EUR 100 000 .
+
+6a. Where a trade repository not already registered under Regulation (EU) 2015/2365 simultaneously submits applications for registration under both Regulation (EU) 2015/2365 and Regulation (EU) No 648/2012, the trade repository shall pay the full registration fee due under Regulation (EU) No 648/2012, and the fee for extension of registration pursuant to Article 5(5) of Regulation (EU) 2015/2365.
+
+7\. In case of a material change in the provision of services, as a consequence of which the trade repository owes a higher registration fee pursuant to paragraphs 4, 5 and 6 than the registration fee paid initially, the trade repository shall be charged the difference between the initially paid registration fee and the higher applicable registration fee resulting from that material change.
+
+### Article 7 — Annual supervisory fee for registered trade repositories
+
+1\. A registered trade repository shall be charged an annual supervisory fee.
+
+2\. The total annual supervisory fee and the annual supervisory fee for a given trade repository for a given year (n) shall be calculated as follows:
+
+(a) the total annual supervisory fee for a given year (n) shall be the estimate of expenditure relating to the supervision of registered trade repositories’ activities under Regulation (EU) No 648/2012 as included in the ESMA’s budget for that year;
+
+(b) a registered trade repository’s annual supervisory fee for a given year (n) shall be the total annual supervisory fee determined pursuant to point (a), for all trade repositories registered in year (n–1), in proportion to their applicable turnover calculated pursuant to Article 3(3).
+
+3\. In no case shall a trade repository registered under Article 55(1) of Regulation (EU) No 648/2012 pay an annual supervisory fee of less than EUR 30 000 .
+
+4\. By way of derogation from paragraphs 1, 2 and 3, a registered trade repository shall pay, in the year of its registration, (year (n)), an initial supervisory fee (‘SF(n)’) equal to the following:
+
+[image]
+
+where:
+
+| RF | = | the registration fee calculated in accordance with Article 6; |
+| --- | --- | --- |
+
+| k | = | [image] . |
+| --- | --- | --- |
+
+The registered trade repository shall pay the supervisory fee of the first year after it has been notified by ESMA that its application has been successful and within 30 calendar days from the date of issuance of ESMA’s invoice.
+
+However, where a trade repository is registered during the month of December, that trade repository shall not be required to pay an annual supervisory fee for the year in which it was registered.
+
+### Article 8 — Fee for recognition of third country trade repositories
+
+1\. A trade repository applying for recognition shall pay an application fee calculated as the sum of the following:
+
+(a) EUR 20 000 ;
+
+(b) the amount resulting from dividing EUR 35 000 among the total number of trade repositories from the same third country that are either recognised by ESMA, or that have applied for recognition but have not been yet recognised.
+
+2\. A trade repository recognised in accordance with Article 77(1) of Regulation (EU) No 648/2012 shall pay an annual supervisory fee of EUR 5 000 .
+
+## CHAPTER III — PAYMENT AND REIMBURSEMENT CONDITIONS
+
+### Article 9 — General payment modalities
+
+1\. All fees shall be payable in euro. They shall be paid as specified in Articles 10, 11 and 12.
+
+2\. Any late payment shall incur the default interest laid down in Article 99 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 1 ).
+
+### Article 10 — Payment of registration fees
+
+1\. The registration fee referred to in Article 6 shall be due at the time the trade repository submits its application for registration under Article 55(1) of Regulation (EU) No 648/2012, and shall be paid in full within 30 calendar days from the date of issuance of ESMA’s invoice.
+
+2\. Registration fees shall not be reimbursed if a trade repository withdraws its application for registration before ESMA adopts the reasoned decision to register or refuse registration, or if registration is refused.
+
+### Article 11 — Payment of annual supervisory fees
+
+1\. The annual supervisory fee referred to in Article 7 for a given year (n) shall be paid in a single instalment, which shall be due by the end of March of the year to which it relates.
+
+ESMA shall not reimburse the annual supervisory fee.
+
+2\. ESMA shall send the invoice specifying the amount of the annual supervisory fee to the trade repositories at least 30 calendar days before the payment date.
+
+### Article 12 — Payment of recognition fees
+
+1\. The recognition fees referred to in Article 8(1) shall be due at the time the trade repository applies for recognition under Article 77(1) of Regulation (EU) No 648/2012 and shall be paid in full within 30 calendar days from the date of issuance of ESMA’s invoice.
+
+ESMA shall not reimburse the recognition fee.
+
+2\. The annual supervisory fee for a recognised trade repository for a given year (n) shall be paid by the end of the third month of the calendar year for which such fee is due. ESMA shall send the invoice specifying the amount of the annual supervisory fee to the recognised trade repository at least 30 calendar days before the payment date.
+
+### Article 13 — Reimbursement of competent authorities
+
+1\. Only ESMA shall charge fees to trade repositories for their registration, supervision and recognition.
+
+2\. ESMA shall reimburse a competent authority for the actual costs incurred as a result of carrying out tasks pursuant to Regulation (EU) No 648/2012 and, in particular as a result of any delegation of tasks in accordance with Article 74 of Regulation (EU) No 648/2012.
+
+## CHAPTER IV — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 14 — Fees in 2013
+
+1\. Trade repositories which apply for registration in 2013 shall pay the registration fee referred to in Article 6 in full 30 days after the entry into force of this Regulation or at the date of submission of the application for registration, whichever is the later.
+
+2\. Trade repositories registered in 2013 shall pay for 2013, an initial annual supervisory fee calculated in accordance with Article 7(4) in full 60 days after the entry into force of this Regulation or 30 days after the adoption of the decision on registration, whichever is the later.
+
+3\. Third country trade repositories which apply for recognition in 2013 shall pay the recognition fee referred to in Article 8(1) in full 30 days after the entry into force of this Regulation or at the date of submission of the application, whichever is the later.
+
+4\. Third country trade repositories recognised in 2013 shall pay, for 2013, an annual supervisory fee calculated in accordance with Article 8(3) in full 60 days after the entry into force of this Regulation or 30 days after the adoption of the decision on recognition, whichever is the later.
+
+### Article 15 — Annual supervisory fee for 2014 for trade repositories registered in 2013
+
+1\. Trade repositories registered in 2013 shall be charged an annual supervisory fee for 2014 calculated according to Article 7 on the basis of their applicable turnover during the period from 1 January 2014 to 30 June 2014, as set out in paragraph 2 of this Article.
+
+2\. For the purposes of calculating supervisory fees for 2014 for trade repositories registered in 2013 pursuant to Article 7, the applicable turnover of a trade repository shall be the sum of one third of each of the following:
+
+(a) the revenues generated from the core functions of centrally collecting and maintaining records of derivatives of the trade repository during the period from 1 January 2014 to 30 June 2014, divided by the total revenues generated from the core functions of centrally collecting and maintaining records of derivatives of all registered trade repositories during the period from 1 January 2014 to 30 June 2014;
+
+(b) the number of trades reported to the trade repository during the period from 1 January 2014 to 30 June 2014, divided by the total number of trades reported to all registered trade repositories during the period from 1 January 2014 to 30 June 2014;
+
+(c) the number of recorded outstanding trades on 30 June 2014, divided by the total number of recorded outstanding trades on 30 June 2014 in all registered trade repositories.
+
+3\. The annual supervisory fee for 2014 for trade repositories registered in 2013 shall be paid in two instalments.
+
+The first instalment shall be due on 28 February 2014 and shall correspond to the registration fee paid by the trade repository in 2013 pursuant to Article 6.
+
+The second instalment shall be due on 31 August. The amount of the second instalment shall be the annual supervisory fee calculated according to paragraphs 1 and 2 reduced by the amount of the first instalment.
+
+Where the amount paid by a trade repository in the first instalment is higher than the annual supervisory fee calculated according to paragraphs 1 and 2, ESMA shall reimburse the trade repository the difference between the amount paid in the first instalment and the annual supervisory fee calculated according to paragraphs 1 and 2.
+
+4\. ESMA shall send the invoices for the instalments of the annual supervisory fee for 2014 to the trade repositories registered in 2013 at least 30 days before the payment date.
+
+5\. When the audited accounts for 2014 become available, trade repositories registered in 2013 shall report to ESMA any change in the indicators referred to in points (a), (b) or (c) of paragraph 2 used for the calculation of the applicable turnover according to paragraph 2, stemming from the difference between the final data and the provisional data used for the calculation.
+
+Trade repositories will be charged the difference between the annual supervisory fee for 2014 actually paid and the annual supervisory fee for 2014 to be paid as a consequence of any change to the indicators referred to in points (a), (b) or (c) of paragraph 2 used for the calculation of the applicable turnover according to paragraph 2.
+
+ESMA shall send the invoice for any additional payment to be made by a trade repository as a consequence of a change in any of the indicators referred to in points (a), (b) or (c) of paragraph 2 used for the calculation of the applicable turnover according to paragraph 2, at least 30 days before the respective payment date.
+
+### Article 15a — Annual supervisory fee for 2021 for trade repositories registered as of 31 December 2020
+
+1\. Trade repositories already registered with ESMA as of 31 December 2020 shall be charged an annual supervisory fee for 2021 calculated in accordance with Article 7. However, for the purposes of Article 7(2)(c), the applicable turnover of trade repositories shall be calculated in accordance with paragraph 2.
+
+2\. For the purposes of paragraph 1, the applicable turnover of a trade repository shall be the sum of one third of each of the following:
+
+(a) the revenues generated from the core functions of centrally collecting and maintaining records of derivatives of the trade repository during the period from 1 January 2021 to 30 June 2021, divided by the total revenues generated from the core functions of centrally collecting and maintaining records of derivatives of all registered trade repositories during the period from 1 January 2021 to 30 June 2021;
+
+(b) the number of trades reported to the trade repository during the period from 1 January 2021 to 30 June 2021, divided by the total number of trades reported to all registered trade repositories during the period from 1 January 2021 to 30 June 2021;
+
+(c) the number of recorded outstanding trades on 30 June 2021, divided by the total number of recorded outstanding trades on 30 June 2021 in all registered trade repositories.
+
+3\. The amount of the annual supervisory fee referred to in paragraph 1 shall be reduced by any amount already paid by the trade repository pursuant to Article 11(1) before 26 May 2021.
+
+Where the amount already paid by a trade repository pursuant to Article 11(1) before 26 May 2021 is higher than the annual supervisory fee calculated in accordance with paragraph 1, ESMA shall reimburse the difference to the trade repository.
+
+4\. By way of derogation from Article 11(1), the annual supervisory fee for 2021 for the trade repositories referred to in paragraph 1shall be due on 31 October 2021.
+
+5\. ESMA shall send the invoice for the annual supervisory fee for 2021 to the trade repositories referred to in paragraph 1 at least 30 days before the payment date.
+
+6\. When the audited accounts for 2021 become available, trade repositories referred to in paragraph 1 shall report to ESMA the indicators referred to in Article 3(1) for 2021.
+
+Trade repositories shall be charged any difference between the annual supervisory fee for 2021 actually paid and the annual supervisory fee that would have been due for 2021 if the calculation of the applicable turnover had been based on the indicators reported pursuant to the first subparagraph.
+
+ESMA shall send the invoice for any additional payment pursuant to the second subparagraph at least 30 days before the respective payment date.
+
+### Article 16 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all the Member States.
+
+( 1 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1046/oj).

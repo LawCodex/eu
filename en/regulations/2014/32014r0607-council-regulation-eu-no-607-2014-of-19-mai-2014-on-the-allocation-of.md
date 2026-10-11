@@ -1,0 +1,95 @@
+---
+title: "Council Regulation (EU) No 607/2014 of 19 mai 2014 on the allocation of fishing opportunities under the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Union and the Democratic Republic of São Tomé and Príncipe"
+identifier: "32014R0607"
+eli: "http://data.europa.eu/eli/reg/2014/607/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-05-19
+entry_into_force: 2014-06-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0607"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 607/2014 of 19 mai 2014 on the allocation of fishing opportunities under the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Union and the Democratic Republic of São Tomé and Príncipe
+
+**COUNCIL REGULATION (EU) No 607/2014**
+
+**of 19 mai 2014**
+
+**on the allocation of fishing opportunities under the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Union and the Democratic Republic of São Tomé and Príncipe**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(3) thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) On 23 July 2007, the Council approved the Fisheries Partnership Agreement between the Democratic Republic of São Tomé and Príncipe and the European Community (the ‘Partnership Agreement’) by adopting Regulation (EC) No 894/2007 (1).
+
+(2) The Union and the Democratic Republic of São Tomé and Príncipe negotiated and initialled, on 19 December 2013, a new Protocol to the Partnership Agreement granting Union vessels fishing opportunities in the waters over which the Democratic Republic of São Tomé and Príncipe has sovereignty or jurisdiction in respect of fisheries.
+
+(3) On 19 mai 2014, the Council adopted Decision 2014/334/EU (2) on the signing and provisional application of the new Protocol.
+
+(4) The method for allocating the fishing opportunities among the Member States should be defined for the period of application of the new Protocol.
+
+(5) If it appears that the fishing authorisations or opportunities allocated to the Union by virtue of the new Protocol are not fully exhausted, the Commission will inform the Member States thereof in accordance with Council Regulation (EC) No 1006/2008 (3). If no reply is received within a time limit to be set by the Council, this will be considered as confirmation that the vessels of the Member State concerned are not making full use of their fishing opportunities during the period in question. That time limit should be set.
+
+(6) To ensure the continuity of the fishing activities of Union vessels, the new Protocol provides for its application by the parties on a provisional basis from the date of its signature. This Regulation should therefore apply from the date of signature of the new Protocol,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The fishing opportunities set out in the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries PartnershipAgreement between the European Union and the Democratic Republic of São Tomé and Príncipe (the ‘Protocol’) shall be allocated among the Member States as follows:
+
+(a) tuna seiners:
+
+| Spain | 16 vessels |
+| --- | --- |
+| France | 12 vessels |
+
+(b) surface longliners:
+
+— for the first two years of validity of the Protocol:
+
+| Spain | 4 vessels |
+| --- | --- |
+| Portugal | 2 vessels |
+
+— for the last two years of validity of the Protocol:
+
+| Spain | 5 vessels |
+| --- | --- |
+| Portugal | 1 vessel |
+
+2\. Regulation (EC) No 1006/2008 shall apply without prejudice to the Partnership Agreement.
+
+3\. If applications for fishing authorisations from the Member States referred to in paragraph 1 do not exhaust the fishing opportunities set out in the Protocol, the Commission shall consider applications for fishing authorisations from any other Member State in accordance with Article 10 of Regulation (EC) No 1006/2008.
+
+4\. The time limit within which the Member States must confirm that they are not making full use of the fishing opportunities granted to them, as provided by Article 10(1) of Regulation (EC) No 1006/2008, is set at ten working days from the date on which the Commission informs them that the fishing opportunities are not being fully utilised.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from the date of signature of the Protocol.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 19 mai 2014.
+
+For the Council
+
+The President
+
+A. TSAFTARIS
+
+(1) Council Regulation (EC) No 894/2007 of 23 July 2007 on the conclusion of a Fisheries Partnership Agreement between the Democratic Republic of São Tomé and Príncipe and the European Community (OJ L 205, 7.8.2007, p. 35).
+
+(2) Council Decision 2014/334/EU of 19 May 2014 on the signing, on behalf of the European Union, and provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Union and the Democratic Republic of São Tomé and Príncipe (see page 1 of this Official Journal).
+
+(3) Council Regulation (EC) No 1006/2008 of 29 September 2008 concerning authorisations for fishing activities of Community fishing vessels outside Community waters, amending Regulations (EEC) No 2847/93 and (EC) No 1627/94 and repealing Regulation (EC) No 3317/94 (OJ L 286, 29.10.2008, p. 33).

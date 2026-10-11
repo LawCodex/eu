@@ -1,0 +1,63 @@
+---
+title: "Commission Regulation (EU) No 1127/2010 of 3 December 2010 establishing a transitional period for withdrawing the Republic of Maldives from the list of beneficiary countries of the special arrangement for least developed countries, as set out in Council Regulation (EC) No 732/2008 applying a scheme of generalised tariff preferences for the period from 1 January 2009 to 31 December 2011"
+identifier: "32010R1127"
+eli: "http://data.europa.eu/eli/reg/2010/1127/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2010-12-03
+entry_into_force: 2010-12-23
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1127"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 1127/2010 of 3 December 2010 establishing a transitional period for withdrawing the Republic of Maldives from the list of beneficiary countries of the special arrangement for least developed countries, as set out in Council Regulation (EC) No 732/2008 applying a scheme of generalised tariff preferences for the period from 1 January 2009 to 31 December 2011
+
+**COMMISSION REGULATION (EU) No 1127/2010**
+
+**of 3 December 2010**
+
+**establishing a transitional period for withdrawing the Republic of Maldives from the list of beneficiary countries of the special arrangement for least developed countries, as set out in Council Regulation (EC) No 732/2008 applying a scheme of generalised tariff preferences for the period from 1 January 2009 to 31 December 2011**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 732/2008 of 22 July 2008 applying a scheme of generalised tariff preferences for the period from 1 January 2009 to 31 December 2011 and amending Regulations (EC) No 552/97, (EC) No 1933/2006 and Commission Regulations (EC) No 1100/2006 and (EC) No 964/2007 (1), and in particular Article 11(8) thereof,
+
+Whereas:
+
+(1) The Republic of Maldives (hereinafter referred to as ‘Maldives’) is a beneficiary of the special arrangement for least-developed countries under the Union’s scheme of generalised tariff preferences.
+
+(2) Article 11(8) of Regulation (EC) No 732/2008 provides for the withdrawal of a country from the special arrangement for least developed countries, when that country is excluded by the United Nations from the list of the least-developed countries. That Article also provides for the establishment of a transitional period of at least three years, to alleviate any adverse effects which may be caused by the removal of the tariff preferences granted under the special arrangement for least-developed countries.
+
+(3) Maldives has been excluded by the United Nations from the list of least-developed countries, with effect from 1 January 2011 (2).
+
+(4) Maldives should, therefore, be allowed to continue to benefit from the preferences granted under the special arrangement for least developed countries, until 31 December 2013.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Generalised Preferences Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Republic of Maldives shall be removed from the list of beneficiaries of the special arrangement for the least developed countries in Annex I to Regulation (EC) No 732/2008, with effect from 1 January 2014.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 3 December 2010.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+(1) OJ L 211, 6.8.2008, p. 1.
+
+(2) UN General Assembly Resolution A/Res/60/33 of 30 November 2005.

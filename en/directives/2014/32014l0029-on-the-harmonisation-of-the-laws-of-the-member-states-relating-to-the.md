@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2749 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2749</td><td>1</td><td>8.11.2024</td></tr>
+</table>
 
 **DIRECTIVE 2014/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1249,12 +1251,14 @@ Signed for and on behalf of:
 
 **(referred to in Article 43)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time-limits for transposition</td><td>Date of application</td></tr>
 <tr><td>87/404/EEC</td><td>31 December 1989</td><td>1 July 1990 (1)</td></tr>
 <tr><td>90/488/EEC</td><td>1 July 1991</td><td>—</td></tr>
 <tr><td>93/68/EEC</td><td>30 June 1994</td><td>1 January 1995 (2)</td></tr>
 <tr><td colspan="3">(1)  In accordance with the third subparagraph of Article 18(2) of Directive 87/404/EEC, Member States shall, for the period up to 1 July 1992, permit the placing on the market and/or in service of vessels conforming to the rules in force in their territories before 1 July 1990.  (2)  In accordance with Article 14(2) of Directive 93/68/EEC, until 1 January 1997 Member States shall allow the placing on the market and the bringing into service of products which comply with the marking arrangements in force before 1 January 1995. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 

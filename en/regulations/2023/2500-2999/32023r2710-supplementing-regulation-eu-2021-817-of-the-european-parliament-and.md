@@ -1,0 +1,118 @@
+---
+title: "Commission Delegated Regulation (EU) 2023/2710 of 13 September 2023 supplementing Regulation (EU) 2021/817 of the European Parliament and of the Council with provisions on the establishment of a monitoring and evaluation framework for the Erasmus+ programme"
+identifier: "32023R2710"
+eli: "http://data.europa.eu/eli/reg_del/2023/2710/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2023-09-13
+entry_into_force: 2023-12-25
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2710"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2023/2710 of 13 September 2023 supplementing Regulation (EU) 2021/817 of the European Parliament and of the Council with provisions on the establishment of a monitoring and evaluation framework for the Erasmus+ programme
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/2710**
+
+**of 13 September 2023**
+
+**supplementing Regulation (EU) 2021/817 of the European Parliament and of the Council with provisions on the establishment of a monitoring and evaluation framework for the Erasmus+ programme**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2021/817 of the European Parliament and of the Council of 20 May 2021 establishing Erasmus+ (1), and in particular Article 23(2) thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2021/817, which established the Erasmus+ programme (the ‘Programme’), laid down, in its Annex II, indicators for reporting on the progress of the Programme towards the achievement of the general and specific objectives laid down in its Article 3.
+
+(2) Those indicators, while suitable for the purpose of annual monitoring of performance, are not sufficient to enable comprehensive monitoring and evaluation of the Programme’s activities and of the achievement of its objectives. Therefore, additional indicators should be laid down as part of the monitoring and evaluation framework.
+
+(3) The indicators should measure the outputs, results and impacts of the Programme, taking into account the existing reporting and evaluation requirements established in Articles 23 and 24 of Regulation (EU) 2021/817.
+
+(4) In accordance with Article 33(4) of Regulation (EU) 2021/817, the experts designated by each Member State and third countries associated to the Programme have been consulted,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Monitoring and evaluation framework indicators and reporting requirements
+
+The indicators set out in the Annex to this Regulation shall supplement the indicators set out in Annex II to Regulation (EU) 2021/817 as regards the outputs, results and impacts of the Programme.
+
+The indicators shall be measured as follows:
+
+(a) annually, as regards the indicators in Annex II to Regulation (EU) 2021/817 and as regards the indicators in points 1 and 2 of the Annex to this Regulation;
+
+(b) the impact indicators referred to in point 3 of the Annex to this Regulation shall be measured as part of the interim and final evaluations, in accordance with Article 24 of Regulation (EU) 2021/817.
+
+## Article 2 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 September 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) Regulation (EU) 2021/817 of the European Parliament and of the Council of 20 May 2021 establishing Erasmus+: the Union Programme for education and training, youth and sport and repealing Regulation (EU) No 1288/2013 (OJ L 189, 28.5.2021, p. 1).
+
+## ANNEX — Additional indicators with regard to the monitoring and evaluation framework of the 2021–2027 Erasmus+ programme referred to in Regulation (EU) 2021/817
+
+The measurements of quantitative indicators shall be disaggregated, where appropriate, according to country, gender and type of action and activity.
+
+**1\. Output indicators**
+
+|  | 1.1. | The share of activities addressing digital transformation, including the Digital Opportunity Traineeships (DOT), under key action 1; |
+| --- | --- | --- |
+
+|  | 1.2. | The share of projects addressing inclusion and diversity under key action 2; |
+| --- | --- | --- |
+
+|  | 1.3. | The share of projects addressing digital transformation under key action 2; |
+| --- | --- | --- |
+
+|  | 1.4. | The share of projects addressing participation and civic engagement under key action 2; |
+| --- | --- | --- |
+
+|  | 1.5. | The number of less experienced organisations taking part in the Programme under key actions 1 and 2. |
+| --- | --- | --- |
+
+**2\. Result indicators**
+
+|  | 2.1. | The share of participants in learning mobility that consider they have reached a better understanding of inclusion and diversity in their society and/or are more committed to working against discrimination, intolerance, xenophobia and racism; |
+| --- | --- | --- |
+
+|  | 2.2. | The share of participants in learning mobility that consider they have learnt about environmental, climate and sustainability issues and/or have changed their habits to become more sustainable; |
+| --- | --- | --- |
+
+|  | 2.3. | The share of participants in learning mobility that consider they have learnt about new and useful ways to apply digital technologies and/or are eager to use them in their study or work; |
+| --- | --- | --- |
+
+|  | 2.4. | The share of participants in learning mobility that consider they have learnt more about Europe, the European Union and European values and/or are more interested in participating in elections, in other democratic processes, and in the life of their local community; |
+| --- | --- | --- |
+
+|  | 2.5. | The number of people with fewer opportunities receiving Erasmus Mundus scholarships. |
+| --- | --- | --- |
+
+**3\. Impact indicators**
+
+|  | 3.1. | Increased capacity of organisations; |
+| --- | --- | --- |
+
+|  | 3.2. | Contribution to policy development, strategies and cooperation in education and training, youth and sport. |
+| --- | --- | --- |
+
+ELI: http://data.europa.eu/eli/reg_del/2023/2710/oj
+
+ISSN 1977-0677 (electronic edition)

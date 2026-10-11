@@ -120,6 +120,7 @@ Member of the Commission
 
 ## ANNEX
 
+<table>
 <tbody><tr><td colspan="2">‘Allium cepa L.</td></tr>
 <tr></tr>
 <tr><td><table><tbody><tr><td>—</td><td>Cepa Group</td></tr>
@@ -166,3 +167,4 @@ Member of the Commission
 <tr><td>Vicia faba L. (partim)</td><td>Broad bean</td></tr>
 <tr><td>Zea mays L. (partim)</td><td>Sweet corn Popcorn’ </td></tr>
 </tbody>
+</table>

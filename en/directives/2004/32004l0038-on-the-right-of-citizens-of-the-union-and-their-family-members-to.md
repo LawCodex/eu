@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) No 492/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2011 </td><td> L 141</td><td>1</td><td>27.5.2011</td></tr>
+</table>
 
 C2
 

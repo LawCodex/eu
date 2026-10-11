@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the management of waste from extractive industries and amending Directive 2004/35/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
+</table>
 
 **DIRECTIVE 2006/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

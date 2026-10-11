@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the protection of persons who report breaches of Union law**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2020/1503 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 October 2020 </td><td> L 347</td><td>1</td><td>20.10.2020</td></tr>
@@ -30,6 +31,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EU) 2024/573 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 February 2024 </td><td> L 573</td><td>1</td><td>20.2.2024</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1640 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 31 May 2024 </td><td> L 1640</td><td>1</td><td>19.6.2024</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1760 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1760</td><td>1</td><td>5.7.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2019/1937 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

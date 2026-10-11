@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 277</td><td>1</td><td>27.10.2022</td></tr>
+</table>
 
 **DIRECTIVE 2000/31/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

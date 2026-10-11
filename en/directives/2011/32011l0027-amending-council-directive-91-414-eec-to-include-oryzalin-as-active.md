@@ -130,6 +130,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (*1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘334</td><td>Oryzalin CAS No: 19044-88-3  CIPAC No: 537 </td><td>3,5-dinitro-N4,N4-dipropylsulfanilamide</td><td>≥ 960 g/kg N-nitrosodipropylamine:  ≤ 0,1 mg/kg  Toluene: ≤ 4 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as herbicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI the conclusions of the review report on oryzalin, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 January 2011, shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>1.</td><td>the operator safety and ensure that conditions of use include the application of adequate personal protective equipment;</td></tr>
 </tbody>
@@ -160,5 +161,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points 1 and 2 by 1 December 2011, and the information set out in point 3 by 31 May 2013. The information set out in point 4 shall be submitted within 6 months of notification of a decision classifying oryzalin.’ </td></tr>
 </tbody>
+</table>
 
 (*1) Further details on identity and specification of active substance are provided in the review report.

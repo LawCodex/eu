@@ -23,11 +23,13 @@ retrieved: 2026-10-11
 
 **implementing Council Directive 2008/90/EC as regards specific requirements for the genus and species of fruit plants referred to in Annex I thereto, specific requirements to be met by suppliers and detailed rules concerning official inspections**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2022/2438 of 12 December 2022 </td><td> L 319</td><td>54</td><td>13.12.2022</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2025/145 of 29 January 2025 </td><td> L 145</td><td>1</td><td>30.1.2025</td></tr>
+</table>
 
 **COMMISSION IMPLEMENTING DIRECTIVE 2014/98/EU**
 
@@ -591,6 +593,7 @@ This Directive is addressed to the Member States.
 
 **List of RNQPs for the presence of which visual inspection, and, in the case of doubts, sampling and testing, are required pursuant to Article 9(1), Article 10(1), Article 16(1), Article 21(1) and Article 26(1)**
 
+<table>
 <tbody><tr><td>Genus or species</td><td>RNQPs</td></tr>
 <tr><td>Castanea sativa Mill.</td><td rowspan="2">Fungi and oomycetes Cryphonectria parasitica (Murrill) Barr [ENDOPA] </td></tr>
 <tr><td>  </td></tr>
@@ -758,6 +761,7 @@ This Directive is addressed to the Member States.
 <tr><td>Vaccinium L.</td><td>Bacteria</td></tr>
 <tr><td>  </td><td>Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] <br>Fungi and oomycetes<br>Diaporthe vaccinii Shear [DIAPVA] <br>Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] <br>Godronia cassandrae (anamorph Topospora myrtilli) Peck [GODRCA] <br>Pucciniastrum minimum Sydow & P. Sydow [THEKMI]   </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -787,6 +791,7 @@ This Directive is addressed to the Member States.
 
 **List of RNQPs whose presence in soil is provided for in Article 11(1) and (2), Article 17(1) and (2), and Article 22(1) and (2)**
 
+<table>
 <tbody><tr><td>Genus or species</td><td>RNQPs</td></tr>
 <tr><td>Fragaria L.</td><td>Nematodes</td></tr>
 <tr><td>  </td><td>Longidorus attenuatus Hooper [LONGAT] Longidorus elongatus (de Man) Thorne & Swanger [LONGEL]  Longidorus macrosoma Hooper [LONGMA]  Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] </td></tr>
@@ -805,6 +810,7 @@ This Directive is addressed to the Member States.
 <tr><td>Rubus L.</td><td>Nematodes</td></tr>
 <tr><td>  </td><td>Longidorus attenuatus Hooper [LONGAT] Longidorus elongatus (de Man) Thorne & Swanger [LONGEL]  Longidorus macrosoma Hooper [LONGMA]  Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 

@@ -1,0 +1,499 @@
+---
+title: "Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18 October 2023 on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation) (Text with EEA relevance)"
+identifier: "32023R2405"
+eli: "http://data.europa.eu/eli/reg/2023/2405/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2023-10-18
+entry_into_force: 2024-01-11
+last_amended: 2023-10-31
+consolidated_version: "02023R2405-20231031"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R2405-20231031"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2023/2405 of the European Parliament and of the Council of 18 October 2023 on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation) (Text with EEA relevance)
+
+**REGULATION (EU) 2023/2405 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 18 October 2023**
+
+**on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation)**
+
+**(Text with EEA relevance)**
+
+**REGULATION (EU) 2023/2405 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 18 October 2023**
+
+**on ensuring a level playing field for sustainable air transport (ReFuelEU Aviation)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation lays down harmonised rules on the uptake and supply of sustainable aviation fuels (SAF).
+
+## Article 2 — Scope
+
+1\. This Regulation applies to aircraft operators, to Union airports and their respective Union airport managing bodies, and to aviation fuel suppliers.
+
+Without prejudice to paragraph 3, this Regulation shall apply only to commercial air transport flights.
+
+2\. A Member State may decide, after consulting the airport managing body, that an airport not covered by Article 3, point (1), located on its territory, is to be treated as a Union airport for the purposes of this Regulation, provided that the requirements laid down in Article 6(1) are fulfilled at the time of the Member State decision.
+
+An airport managing body for an airport not covered by Article 3, point (1), located on the territory of a Member State, may make a request for that airport to be treated as a Union airport for the purposes of this Regulation, provided that it fulfils the requirements laid down in Article 6(1) at the time of that request. That airport managing body shall notify the Member State whose authority or authorities are responsible for the airport under Article 11(6) of that request. That notification shall be accompanied by a confirmation that the airport fulfils the requirements laid down in Article 6(1).
+
+The Member State concerned shall notify the decision referred to in the first subparagraph of this paragraph to the Commission and the European Union Aviation Safety Agency (the ‘Agency’) at least six months before the beginning of the reporting period from which that decision applies. The Member State decision shall be accompanied by a reasoned opinion showing that it is based on proportionate and non-discriminatory criteria, among airports sharing similar competitive characteristics.
+
+3\. A person operating commercial air transport flights who is not covered by Article 3, point (3), may decide to be treated as an aircraft operator for the purposes of this Regulation. A person operating flights other than commercial air transport flights within the meaning of Article 3, point (4), may decide to be treated as an aircraft operator for the purposes of this Regulation. A person covered by Article 3, point (3), may decide that its non-commercial air transport flights are also to be covered by this Regulation. Any such person shall notify its decision to the Member State whose competent authority or authorities are responsible for that aircraft operator in accordance with Article 11(5). That Member State shall notify that decision to the Commission and the Agency at least six months before the beginning of the reporting period from which that decision applies.
+
+4\. On the basis of the information received pursuant to paragraphs 2 and 3, the Commission shall provide an updated and consolidated list of the Union airports and aircraft operators concerned. That list shall be easily accessible.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘Union airport’ means an ‘airport’ as defined in Article 2, point (1), of Directive 2009/12/EC of the European Parliament and of the Council ( 1 ) where passenger traffic was higher than 800 000 passengers or where the freight traffic was higher than 100 000 tonnes in the previous reporting period, and which is not situated in an outermost region, as listed in Article 349 TFEU;
+
+(2) ‘Union airport managing body’ means, in respect of a Union airport, the ‘airport managing body’ as defined in Article 2, point (2), of Directive 2009/12/EC or, where the Member State concerned has reserved the management of the centralised infrastructures for fuel distribution systems for another body pursuant to Article 8(1) of Council Directive 96/67/EC ( 2 ), that other body;
+
+(3) ‘aircraft operator’ means a person that operated at least 500 commercial passenger air transport flights, or 52 commercial all-cargo air transport flights departing from Union airports in the previous reporting period or, where it is not possible for that person to be identified, the owner of the aircraft;
+
+(4) ‘commercial air transport flight’ means a flight operated for the purposes of transport of passengers, cargo or mail for remuneration or hire, including a business aviation flight operated for commercial purposes;
+
+(5) ‘route’ means a journey carried out on a flight, having regard to the places of departure and destination of that flight;
+
+(6) ‘aviation fuel’ means drop-in fuel manufactured for direct use by aircraft;
+
+(7) ‘sustainable aviation fuels’ (‘SAF’) means aviation fuels that are either:
+
+(a) synthetic aviation fuels;
+
+(b) aviation biofuels; or
+
+(c) recycled carbon aviation fuels;
+
+(8) ‘aviation biofuels’ means aviation fuels that are either:
+
+(a) ‘advanced biofuels’ as defined in Article 2, second paragraph, point (34), of Directive (EU) 2018/2001;
+
+(b) ‘biofuels’ as defined in Article 2, second paragraph, point (33), of Directive (EU) 2018/2001, produced from the feedstock listed in Part B of Annex IX to that Directive; or
+
+(c) ‘biofuels’ as defined in Article 2, second paragraph, point (33), of Directive (EU) 2018/2001, with the exception of biofuels produced from ‘food and feed crops’ as defined in Article 2, second paragraph, point (40), of that Directive, and which comply with the sustainability and lifecycle emissions savings criteria laid down in Article 29 of that Directive and are certified in compliance with Article 30 of that Directive;
+
+(9) ‘recycled carbon aviation fuels’ means aviation fuels that are ‘recycled carbon fuels’ as defined in Article 2, second paragraph, point (35), of Directive (EU) 2018/2001, which comply with the lifecycle emissions savings threshold referred to in Article 29a(2) of that Directive and are certified in compliance with Article 30 of that Directive;
+
+(10) ‘batch’ means a quantity of SAF that can be identified with a number and can be traced;
+
+(11) ‘lifecycle emissions’ means carbon dioxide equivalent emissions of SAF that take into account carbon dioxide equivalent emissions of energy production, transport, distribution and use on-board, including during combustion, calculated in accordance with the methodologies adopted pursuant to Article 28(5) or Article 31(5) of Directive (EU) 2018/2001 or pursuant to relevant Union law;
+
+(12) ‘synthetic aviation fuels’ means aviation fuels that are ‘renewable fuels of non-biological origin’, as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001, which comply with the lifecycle emissions savings threshold referred to in Article 29a(1) of that Directive and are certified in compliance with Article 30 of that Directive;
+
+(13) ‘synthetic low-carbon aviation fuels’ means aviation fuels that are of non-biological origin, the energy content of which is derived from non-fossil low-carbon hydrogen, which meet lifecycle emissions savings threshold of 70 % and the methodologies for assessing such lifecycle emissions savings pursuant to relevant Union law;
+
+(14) ‘conventional aviation fuels’ means aviation fuels produced from fossil non-renewable sources of hydrocarbon fuels;
+
+(15) ‘low-carbon hydrogen for aviation’ means hydrogen for use in aircraft the energy content of which is derived from non-fossil non-renewable sources, which meets a lifecycle emissions savings threshold of 70 % and the methodologies for assessing such lifecycle emissions savings pursuant to relevant Union law;
+
+(16) ‘renewable hydrogen for aviation’ means hydrogen for use in aircraft that qualifies as a ‘renewable fuel of non-biological origin’, as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001, and which complies with the lifecycle emissions savings threshold referred to in Article 29a(1) of that Directive and is certified in compliance with Article 30 of that Directive;
+
+(17) ‘hydrogen for aviation’ means renewable hydrogen for aviation or low-carbon hydrogen for aviation;
+
+(18) ‘low-carbon aviation fuels’ means synthetic low-carbon aviation fuels or low-carbon hydrogen for aviation;
+
+(19) ‘aviation fuel supplier’ means a ‘fuel supplier’ as defined in Article 2, second paragraph, point (38), of Directive (EU) 2018/2001, supplying aviation fuel or hydrogen for aviation at a Union airport;
+
+(20) ‘fuel handler’ means a supplier of groundhandling services that organises and carries out fuelling and defuelling operations, including the storage of fuel and the control of the quality and quantity of fuel deliveries, to aircraft operators at Union airports, as referred to in the Annex to Directive 96/67/EC;
+
+(21) ‘principal place of business’ means the head office or registered office of an aviation fuel supplier in the Member State within which the principal financial and operational control of the aviation fuel supplier takes place;
+
+(22) ‘reporting year’ means a period of one year, in which the reports referred to in Articles 8 and 10 are to be submitted, starting 1 January and ending 31 December;
+
+(23) ‘reporting period’ means a period from 1 January until 31 December of the year preceding the reporting year;
+
+(24) ‘yearly aviation fuel required’ means the amount of aviation fuel referred to as ‘trip fuel’ and ‘taxi fuel’ in Annex IV to Commission Regulation (EU) No 965/2012 ( 3 ) that is necessary to operate all the flights covered by this Regulation operated by an aircraft operator, departing from a given Union airport, over the course of a reporting period;
+
+(25) ‘yearly non-tanked quantity’ means the difference between the yearly aviation fuel required and the actual fuel uplifted by an aircraft operator prior to flights covered by this Regulation departing from a given Union airport, over the course of a reporting period;
+
+(26) ‘total yearly non-tanked quantity’ means the sum of the yearly non-tanked quantities by an aircraft operator at all Union airports over the course of a reporting period;
+
+(27) ‘greenhouse gas scheme’ means a scheme granting benefits to aircraft operators for the use of SAF.
+
+## Article 4 — Shares of SAF available at Union airports
+
+1\. Subject to Article 15, aviation fuel suppliers shall ensure that all aviation fuel made available to aircraft operators at each Union airport contains the minimum shares of SAF, including the minimum shares of synthetic aviation fuel in accordance with the values and dates of application set out in Annex I. Without prejudice to those minimum shares, aviation fuel suppliers shall also ensure that all aviation fuel made available to aircraft operators at each Union airport over the periods from 1 January 2030 until 31 December 2031 and from 1 January 2032 until 31 December 2034 contains at least the average shares of synthetic aviation fuels in accordance with the values set out in Annex I.
+
+This obligation shall also be deemed to be met where the minimum shares mentioned in the first subparagraph are reached using:
+
+(a) renewable hydrogen for aviation;
+
+(b) low-carbon aviation fuels.
+
+2\. For the purpose of the calculation of the minimum shares in Annex I, when hydrogen for aviation is made available to aircraft operators at Union airport:
+
+(a) the values regarding the energy content of all relevant fuels shall be those referred to in Article 27(2), points (g) and (h) of, and Annex III to, Directive (EU) 2018/2001 or relevant international aviation standards regarding fuels not included in that Annex; and
+
+(b) the energy content of hydrogen for aviation supplied shall be taken into account both in the numerator and in the denominator.
+
+3\. Where an aviation fuel supplier makes use of the possibility laid down in the second subparagraph of paragraph 1 or where an aircraft operator uplift fuels referred to in that subparagraph, references to SAF in Article 3, points (10), (11) and (27), Articles 8, 9 and 10, Article 12(6) and (7), Article 13(1), points (a), (b) and (g), Article 14, Article 15(1) and Annex II shall be construed as referring also to low-carbon aviation fuels and to renewable hydrogen for aviation.
+
+4\. For each reporting period, aviation biofuels other than advanced biofuels as defined in Article 2, second paragraph, point (34), of Directive (EU) 2018/2001 and other than biofuels produced from the feedstock listed in Part B of Annex IX to that Directive, supplied across Union airports by each aviation fuel supplier, shall account for a maximum of 3 % of aviation fuels supplied for the purposes of complying with the minimum shares referred to in paragraph 1 of this Article and Annex I to this Regulation.
+
+5\. SAF produced from the following feedstocks shall be excluded from the calculation of the minimum shares of SAF set out in Annex I to this Regulation: ‘food and feed crops’ as defined in Article 2, second paragraph, point (40), of Directive (EU) 2018/2001, intermediate crops, palm fatty acid distillate and palm and soy-derived materials, and soap stock and its derivatives.
+
+However, that exclusion shall not apply to any feedstock that is included in Annex IX to Directive (EU) 2018/2001, under the conditions set out in that Annex.
+
+6\. Aviation fuel suppliers may demonstrate compliance with the obligation contained in paragraph 1 of this Article by using the mass balance system referred to in Article 30 of Directive (EU) 2018/2001.
+
+7\. Without prejudice to the application of Article 12(4) and (5), where an aviation fuel supplier fails to supply the minimum shares set out in Annex I for a given reporting period, it shall at least complement that shortfall in the subsequent reporting period. Exceptionally, where an aviation fuel supplier fails to supply the average shares of synthetic aviation fuel over the period from 1 January 2030 until 31 December 2031, it shall at least complement that shortfall before the end of the period from 1 January 2032 until 31 December 2034, and where an aviation fuel supplier fails to supply the average shares of synthetic aviation fuel over the period from 1 January 2032 until 31 December 2034, it shall at least complement that shortfall in the subsequent reporting period.
+
+## Article 5 — Refuelling obligation for aircraft operators
+
+1\. The yearly quantity of aviation fuel uplifted by a given aircraft operator at a given Union airport shall be at least 90 % of the yearly aviation fuel required.
+
+2\. An aircraft operator may fall below the threshold in paragraph 1 of this Article where necessary for reasons of compliance with applicable fuel safety rules. In such cases, the aircraft operator concerned shall duly justify to the competent authority or authorities referred to in Article 11(6) and the Agency falling below that threshold, including giving an indication of the routes impacted. That information shall be included in the report under Article 8. The associated fuel quantities shall be reported separately in accordance with Article 8.
+
+3\. Exceptionally, an aircraft operator may, when duly justified, request from the competent authority or authorities referred to in Article 11(6) a temporary exemption from the obligation laid down in paragraph 1 of this Article for the flights on a specific existing or new route of less than 850 kilometres, or 1 200 kilometres for routes connecting with airports situated on islands without rail or road connections, departing from a Union airport. That distance shall be measured by the great circle route method.
+
+Such request shall be made at least three months before the envisaged date of application of the exemption, supported by a detailed and adequate justification. Such exemption should be limited to the following situations:
+
+(a) serious and recurrent operational difficulties in refuelling aircraft at the given Union airport preventing aircraft operators from performing turnarounds within a reasonable time; or
+
+(b) structural aviation fuel supply difficulties stemming from the geographic characteristics of a given Union airport, leading to significantly higher prices of aviation fuels compared to prices applied on average to similar types of aviation fuels in other Union airports due in particular to specific fuel transport constraints or to limited availability of fuels at that Union airport and placing the aircraft operator concerned at a significant competitive disadvantage compared to market conditions existing in other Union airports with similar competitive characteristics.
+
+4\. The competent authority or authorities shall assess that request. In light of the justification provided, it may ask for additional information.
+
+5\. The competent authority or authorities shall take a decision on that request without undue delay at the latest one month before the date of application of the envisaged exemption. Where the competent authority or authorities ask for additional information pursuant to paragraph 4, the deadline for the competent authority or authorities to take a decision shall be suspended until complete information is provided by the aircraft operator.
+
+The exemption granted shall have a limited period of validity, not exceeding one year, after which it shall be reviewed upon request of the aircraft operator.
+
+6\. The competent authority or authorities shall take a decision to accept or reject any first request for exemption submitted pursuant to paragraph 3. Failure to adopt such a decision within the time limit laid down in paragraph 5 shall not be considered to be a decision authorising the requested exemption. Failure to adopt a decision relating to a request for the renewal of an existing exemption, provided that such request is supported by a detailed and adequate justification, at the latest one month before the date of the envisaged renewal shall be considered to be a decision of authorisation to continue applying the requested exemption.
+
+7\. The aircraft operator shall have the right to appeal a decision of the competent authority or authorities that reject a request for exemption.
+
+8\. The competent authority or authorities shall notify the list of authorised and rejected exemptions to the Commission, giving the justification for its decision and the assessment upon which it is based. The Commission shall publish the list of authorised exemptions and update that list at least once a year.
+
+9\. Following a written complaint submitted by a Member State, an aircraft operator, the managing body of the Union airport concerned, or an aviation fuel supplier, or on its own initiative, the Commission may, after assessing the justification provided for the exemption granted pursuant to paragraph 5 of this Article in the light of the criteria set out in of paragraph 3 of this Article, adopt implementing acts requesting the competent authority or authorities to adopt a decision repealing that exemption from the beginning of the next scheduling period within the meaning of Article 2, point (d), of Council Regulation (EEC) No 95/93 ( 4 ). When that scheduling period starts less than two months after the publication of the decision, the decision repealing the exemption shall start applying from the beginning of the following scheduling period. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 16(2).
+
+10\. In order to be able to adopt the implementing acts referred to in paragraph 9, the Commission may request all necessary information from Member States and aircraft operators. Member States and aircraft operators shall provide such information without undue delay. Member States shall facilitate the provision of information by aircraft operators.
+
+11\. The Commission shall, by 1 September 2024, adopt guidelines on the application of the exemptions referred to in this Article. Such guidelines shall include elements that an aircraft operator is to provide to justify those exemptions.
+
+## Article 6 — Obligations of Union airport managing body to facilitate the access to SAF
+
+1\. Union airport managing bodies shall take all necessary measures to facilitate the access of aircraft operators to aviation fuels containing minimum shares of SAF in accordance with this Regulation.
+
+2\. Where aircraft operators report to the competent authority or authorities difficulties in accessing at a given Union airport aviation fuels containing minimum shares of SAF in accordance with this Regulation, the competent authority or authorities shall request the Union airport managing body to provide the information necessary to prove compliance with paragraph 1. The Union airport managing body concerned shall provide the information to the competent authority without undue delay.
+
+3\. The competent authority or authorities shall assess all the information received in accordance with paragraph 2. Where the competent authority or authorities concludes that the Union airport managing body fulfils its obligations under paragraph 1, it shall inform the Commission and the Agency thereof. In cases of non-compliance, the competent authority or authorities shall request the Union airport managing body to identify and take the necessary measures to address the lack of adequate access of aircraft operators to aviation fuels containing minimum shares of SAF without undue delay, and in any case no later than three years after the request of the competent authority pursuant to paragraph 2.
+
+4\. For the purpose of paragraphs 2 and 3, where appropriate, aviation fuel suppliers, fuel handlers, aircraft operators and any other party concerned by the reported difficulties, shall provide, upon request and without undue delay, all the necessary information to the Union airport managing body and cooperate with the Union airport managing body in identifying and taking the necessary measures to address the reported difficulties.
+
+5\. The competent authority or authorities shall transmit without undue delay all the relevant information provided under paragraphs 2 and 3 of this Article to the Agency to enable it to draw up the technical report referred to in Article 13.
+
+## Article 7 — Promoting hydrogen and electricity supply at the Union airports
+
+1\. Union airport managing bodies, aviation fuel suppliers and fuel handlers shall, where appropriate, cooperate with their respective Member State for the preparation of the national policy frameworks for the deployment of alternative fuels infrastructure in airports falling within the scope of Regulation (EU) 2023/1804 of the European Parliament and of the Council ( 5 ).
+
+2\. Union airport managing bodies, aviation fuel suppliers and fuel handlers shall, where appropriate, in accordance with the national policy frameworks referred to in paragraph 1 when such a framework has been adopted, cooperate and undertake efforts to facilitate the access of aircraft operators to hydrogen or electricity used primarily for the propulsion of an aircraft and to provide the infrastructure and services necessary for the delivery, storage and uplifting of such hydrogen or electricity to refuel or recharge aircraft in line with national policy frameworks for deployment of alternative fuel infrastructure where relevant.
+
+3\. By 31 March 2025, and every two years thereafter, Union airport managing bodies shall report to the competent authorities and the Agency on the state of advancement of existing projects, for their respective Union airport, that pursue any of the initiatives referred to in paragraph 2. That report shall include information, which is publicly available or which can be made public, including, where appropriate, projections on the volumes and type of hydrogen and electricity production and supply to aircraft operators at the Union airport as well as deployment plans for recharging and refuelling infrastructure and services where such plans are adopted.
+
+## Article 8 — Reporting obligations for aircraft operators
+
+1\. By 31 March of each reporting year, and for the first time in 2025, aircraft operators shall report the following information with respect to a given reporting period to the competent authorities and the Agency:
+
+(a) the total amount of aviation fuel uplifted at each Union airport, expressed in tonnes;
+
+(b) the yearly aviation fuel required, per Union airport, expressed in tonnes;
+
+(c) the yearly non-tanked quantity, per Union airport, which is to be reported as 0 (zero) if the yearly non-tanked quantity is negative or if it is lower than or equal to 10 % of the yearly aviation fuel required;
+
+(d) the yearly tanked quantity, per Union airport for reasons of compliance with applicable fuel safety rules pursuant to Article 5(2), expressed in tonnes;
+
+(e) the total amount of SAF purchased from aviation fuel suppliers, for the purpose of operating their flights covered by this Regulation, departing from Union airports, expressed in tonnes;
+
+(f) for each purchase of SAF, the name of the aviation fuel supplier, the amount purchased expressed in tonnes, the conversion process, the characteristics and origin of the feedstock used for production, and the lifecycle emissions of the SAF, and, where one purchase includes different types of SAF with differing characteristics, providing that information for each type of SAF;
+
+(g) total flights operated covered by this Regulation departing from Union airports, expressed in number of flights and in flight hours.
+
+2\. The report shall be presented in accordance with the templates laid down in Annex II.
+
+3\. The report shall be verified by an independent verifier in accordance with the requirements set out in Articles 14 and 15 of Directive 2003/87/EC, and the implementing acts adopted on the basis thereof.
+
+## Article 9 — Aircraft operator claiming of use of SAF
+
+1\. Aircraft operators shall not claim benefits for the use of an identical batch of SAF under more than one greenhouse gas scheme. The emission factor for the use of SAF under the EU Emission Trading System (EU ETS) is established in Annex IV to Directive 2003/87/EC or the implementing acts adopted pursuant to Article 14 of that Directive. For the purpose of allocating allowances under the EU ETS, Directive 2003/87/EC shall apply. For the purpose of allocating allowances reserved for the uplifting of SAF under the EU ETS, Article 3c(6) of Directive 2003/87/EC shall apply.
+
+Together with the report referred to in Article 8, aircraft operators shall provide the Agency with:
+
+(a) a declaration of the greenhouse gas schemes that they participate in and in which it is possible for them to report SAF;
+
+(b) a declaration that they have not reported under more than one greenhouse gas scheme identical batches of SAF; and
+
+(c) information on participation in Union, national or regional financial support schemes that enables aircraft operators to be compensated for the costs of SAF purchased and information on whether the same batch of SAF has received support under more than one financial support scheme.
+
+2\. For the purpose of reporting SAF use under Article 8 of this Regulation, or under a greenhouse gas scheme, aviation fuel suppliers shall provide aircraft operators with relevant, accurate information relating to the reporting period, free of charge, as soon as possible, and in any case not later than 14 February of each reporting year.
+
+3\. The aircraft operator may request the aviation fuel supplier to provide it with the information referred to in paragraph 2 for other reporting obligations, including those under national law. The aviation fuel supplier shall provide that information free of charge. Where the request concerns information relating to a period that has already ended at the time of the request, the aviation fuel supplier shall provide that information within 90 days from the date of that request. Where the request concerns information relating to a period that has not yet ended at the time that the request was made, the aircraft operator shall endeavour to submit its request at least 45 days before the end of that period.  The aviation fuel supplier shall provide that information within 45 days from the end of that period.
+
+## Article 10 — Reporting obligations for aviation fuel suppliers
+
+By 14 February of each reporting year, and for the first time in 2025, aviation fuel suppliers shall report in the Union database referred to in Article 31a of Directive (EU) 2018/2001, the following information relating to the reporting period:
+
+(a) the amount of aviation fuel supplied at each Union airport, expressed in tonnes;
+
+(b) the amount of SAF supplied at each Union airport, and for each type of SAF, as detailed in point (c), expressed in tonnes;
+
+(c) the conversion process, the characteristics and origin of the feedstock used for production, and the lifecycle emissions of each type of SAF supplied at Union airports;
+
+(d) the content of aromatics and naphthalenes by percentage volume and of sulphur by percentage mass in aviation fuel supplied per batch, per Union airport and at Union level, indicating the total volume and mass of each batch and test method applied to measure the content of each substance at batch level;
+
+(e) the energy content for aviation fuel and SAF supplied at each Union airport, for each type of fuel.
+
+Member States shall have the necessary legal and administrative framework in place at national level to ensure that information entered by aviation fuel suppliers in that Union database is accurate, and has been verified and audited pursuant to Article 31a of Directive (EU) 2018/2001.
+
+The Agency and the competent authorities shall have access to that Union database. The Agency shall use the information contained in that Union database, once the information has been verified at Member State level pursuant to Article 31a of Directive (EU) 2018/2001.
+
+## Article 11 — Competent authority
+
+1\. Member States shall designate the competent authority or authorities responsible for enforcing the application of this Regulation and for imposing the fines for aircraft operators, on the Union airport managing bodies, and on aviation fuel suppliers. Member States shall inform the Commission and the Agency of the identity of the competent authority or authorities that they have designated.
+
+2\. Member States shall ensure that their competent authorities exercise their oversight and enforcement tasks impartially and transparently, and in a manner independent from aircraft operators, aviation fuel suppliers and Union airport managing bodies. Member States shall also ensure that their competent authorities have the necessary resources and capabilities to carry out the tasks assigned to them under this Regulation in an efficient and timely manner.
+
+3\. The Commission, the Agency and the competent authorities of the Member States shall cooperate and exchange all relevant information to ensure effective implementation and compliance with this Regulation.
+
+4\. The Agency shall send to the competent authorities data aggregated for the aircraft operators, Union airports and their respective Union airport managing bodies and aviation fuel suppliers for which these authorities are competent pursuant to paragraphs 5, 6 and 7.
+
+5\. The responsible Member State, whose competent authority or authorities, designated in accordance with paragraph 1 of this Article, are responsible for a given aircraft operator, shall be determined pursuant to Commission Regulation (EC) No 748/2009 ( 6 ). For aircraft operators not attributed to a Member State in that Regulation, the responsible Member State shall be determined pursuant to the rules laid down in Article 18a of Directive 2003/87/EC. The Commission may support the Member States in the attribution process. To that end, the Commission may request the assistance of Eurocontrol and may conclude any appropriate agreement with Eurocontrol to that effect.
+
+6\. The responsible Member State, whose competent authority or authorities, designated in accordance with in paragraph 1, are responsible for a given Union airport managing body, shall be determined on the basis of the respective territorial jurisdiction of the Union airport.
+
+7\. The responsible Member State, whose competent authority or authorities, designated in accordance with in paragraph 1, are responsible for a given aviation fuel supplier, shall be the Member State in which the aviation fuel supplier has its principal place of business.
+
+8\. For aviation fuel suppliers which do not have their principal place of business in a Member State, the responsible Member State shall be the one in which the aviation fuel supplier supplied the most aviation fuel in 2023 or in the first year of providing aviation fuel in the Union market, whichever the latest.
+
+Such aviation fuel supplier may present to its competent authority a reasoned request asking to be reattributed to another Member State if it has supplied the highest shares of its aviation fuel in that Member State over the two years preceding the request. The reattribution decision shall be made within six months following the request by the aviation fuel supplier, shall be subject to the agreement of the competent authorities of the Member State of reattribution and shall be transmitted without undue delay to the Agency and the Commission. It shall apply from the beginning of the reporting period following the date of adoption of that decision.
+
+## Article 12 — Enforcement
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive taking into account, in particular, the nature, duration, recurrence and gravity of the infringement. Member States shall, by 31 December 2024, notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.
+
+2\. Member States shall ensure that any aircraft operator that fails to comply with the obligations laid down in Article 5 is liable to a fine. That fine shall be proportionate and dissuasive and not less than twice as high as the amount resulting from the multiplication of the yearly average price of aviation fuel per tonne by the total yearly non-tanked quantity. An aircraft operator may be exempted from a fine if it can prove that its failure to comply with the obligations laid down in Article 5 was caused by exceptional and unforeseeable circumstances, outside its control, the effects of which could not have been avoided, even if all reasonable measures had been taken.
+
+3\. Member States shall ensure that any Union airport managing body that fails to take the necessary measures to address a lack of adequate access by aircraft operators to aviation fuels containing minimum shares of SAF pursuant to Article 6(3) is liable to a fine.
+
+4\. Member States shall ensure that any aviation fuel supplier that fails to comply with the obligations laid down in Article 4 relating to the minimum shares of SAF is liable to a fine. That fine shall be proportionate and dissuasive and not less than twice as high as the amount resulting from the multiplication of the difference between the yearly average price of conventional aviation fuel and SAF per tonne by the quantity of aviation fuels not complying with the minimum shares referred to in Article 4 and Annex I.
+
+5\. Member States shall ensure that any aviation fuel supplier that fails to comply with the obligations laid down in Article 4 relating to the minimum shares of synthetic aviation fuels and, over the period from 1 January 2030 until 31 December 2034, the average shares of synthetic aviation fuels, is liable to a fine. That fine shall be proportionate and dissuasive and not less than twice as high as the amount resulting from the multiplication of the difference between the yearly average price of synthetic aviation fuel and conventional aviation fuel per tonne by the quantity of the aviation fuel not complying with the minimum shares referred to in Article 4 and Annex I. When establishing the fine relating to the average shares of synthetic aviation fuels, Member States shall take into account any fine, relating to the minimum shares of synthetic aviation fuels to which the aviation fuel supplier is already liable in respect of the respective period referred to in this paragraph, in order to avoid a double penalty.
+
+6\. Member States shall ensure that any aviation fuel supplier that has been proven to have provided misleading or inaccurate information regarding the characteristics or origin of the SAF that it supplied under Article 9(2) and Article 10 is liable to a fine. That fine shall be proportionate and dissuasive and not less than twice as high as the amount resulting from the multiplication of the difference between the yearly average price of conventional aviation fuel and SAF per tonne by the quantity of aviation fuels about which the misleading or inaccurate information was provided.
+
+7\. In the decision imposing the fines referred to in paragraphs 2, 4, 5 and 6 of this Article, the competent authority or authorities shall explain the methodology applied for determining the price of aviation fuel, of SAF and of synthetic aviation fuel on the Union aviation fuel market. That methodology shall be based on verifiable and objective criteria, including from the latest available technical report referred to in Article 13.
+
+8\. Member States shall ensure that any aviation fuel supplier which has accumulated a shortfall from the obligation laid down in Article 4 relating to the minimum shares of SAF or of synthetic aviation fuels in a given reporting period, shall supply the market in the subsequent reporting period with a quantity of that respective fuel equal to that shortfall, in addition to their reporting period obligation.
+
+By way of derogation from the first subparagraph, the following rules shall apply to synthetic aviation fuels for the periods from 1 January 2030 until 31 December 2031 and from 1 January 2032 until 31 December 2034:
+
+(a) any aviation fuel supplier which has accumulated a shortfall from the obligation laid down in Article 4 relating to the average shares of synthetic aviation fuels in the period from 1 January 2030 until 31 December 2031, shall supply the market before the end of the period from 1 January 2032 until 31 December 2034 with a quantity of synthetic aviation fuel equal to that shortfall, in addition to the obligations of that period; and
+
+(b) any aviation fuel supplier which has accumulated a shortfall from the obligation laid down in Article 4 relating to the average shares of synthetic aviation fuels in the period from 1 January 2032 until 31 December 2034, shall supply the market in the subsequent reporting period with a quantity of synthetic aviation fuel equal to that shortfall, additional to their reporting period obligation.
+
+Fulfilling the obligations referred to in the first and second subparagraphs of this paragraph shall not exonerate the aviation fuel supplier from the obligation to pay the fines laid down in paragraphs 4 and 5.
+
+9\. Member States shall have the necessary legal and administrative framework in place at national level to ensure the fulfilment of the obligations and the collection of the fines.
+
+10\. Member States shall endeavour to ensure that revenues generated from fines, or the equivalent in financial value of those revenues, are used to support research and innovation projects in the field of SAF, the production of SAF or mechanisms allowing the price differences between SAF and conventional aviation fuels to be bridged.
+
+Where such revenues are allocated to the general budget of a Member State, a Member State shall be deemed to have complied with the first subparagraph, if it implements financial support policies to support research and innovation projects in the field of SAF, the production of SAF or policies that support mechanisms allowing the price differences between SAF and conventional aviation fuels to be bridged, which have a value equivalent or higher to the revenues generated from fines.
+
+By 25 September 2026, and every five years thereafter, Member States shall make public a report on the use made of the aggregated revenues generated from the fines, and information on the level of expenditure allocated to research and innovation projects in the field of SAF, the production of SAF or policies that support mechanisms allowing the price differences between SAF and conventional aviation fuels to be bridged.
+
+## Article 13 — Data collection and publication
+
+1\. The Agency shall publish every year a technical report on the basis of the reports referred to in Articles 7, 8 and 10 and forward it to the European Parliament and to the Council. That report shall contain at least the following information:
+
+(a) the aggregated amount of SAF purchased by aircraft operators at Union level, for use on flights covered by this Regulation departing from a Union airport, and per Union airport;
+
+(b) the aggregated amount of SAF and of synthetic aviation fuels supplied at Union level, per Member State and per Union airport. The report shall include the amount and type of feedstock used at Union level, per Member State and per Union airport and an analysis on the ability of aviation fuel suppliers to comply with the minimum shares defined in Annex I;
+
+(c) as far as possible, the amount of SAF supplied, in the third countries with which an agreement regulating the provision of air services has been concluded by the Union, or the Union and its Member States, and in other third countries where such information is publicly available;
+
+(d) the state of the market, including price information, and trends in SAF production and use in the Union and per Member State and, as far as possible, in the third countries with which an agreement regulating the provision of air services has been concluded by the Union, or the Union and its Member States, and in other third countries, including information on the evolution of the price gap between SAF and conventional aviation fuels;
+
+(e) the status of compliance of the Union airport managing body per airport, regarding obligations set out in Article 6;
+
+(f) the compliance status of each aircraft operator and aviation fuel supplier having an obligation under this Regulation in the reporting period;
+
+(g) the origin and characteristics of all SAF and the sustainability characteristics of hydrogen for aviation purchased by aircraft operators for use on flights covered by this Regulation departing from Union airports;
+
+(h) the average total content of aromatics and naphthalenes by percentage volume and of sulphur by percentage mass in aviation fuel supplied by Union airport and at Union level;
+
+(i) the state of advancement of projects at Union airports pursuing initiatives referred to in Article 7(3).
+
+2\. The Agency may consult the experts of the Member States when drawing up that report.
+
+## Article 14 — Environmental Labelling Scheme
+
+1\. A voluntary environmental labelling scheme enabling the environmental performance of flights to be measured is hereby established.
+
+2\. Labels issued pursuant to this Article shall apply to aircraft operators falling within the scope of this Regulation for flights covered by this Regulation departing from Union airports. Where an aircraft operator requests the issuance of a label under this Article, it shall request such a label for all its flights covered by this Regulation departing from Union airports.
+
+Aircraft operators may request the issuance of labels under this Article also for their flights covered by this Regulation arriving at Union airports. Where an aircraft operator requests the issuance of a label under this subparagraph, it shall request such a label for all its flights arriving at Union airports.
+
+3\. Labels issued pursuant to this Article shall certify the level of environmental performance of a flight on the basis of the information referred to in the second subparagraph of this paragraph. The level of environmental performance of a flight shall be determined on the basis of the average environmental performance of the flights carried out by a given aircraft operator on a specific route for the previous corresponding scheduling period within the meaning of Article 2, point (d), of Regulation (EEC) No 95/93.
+
+Labels issued pursuant to this Article shall consist of the following information:
+
+(a) the expected carbon footprint per passenger, expressed in metrics such as in kilograms of CO2 per passenger, for the period of validity of the label;
+
+(b) the expected CO2 efficiency per kilometre, expressed in metrics such as in grams of CO2 per passenger per kilometre, for the period of validity of the label.
+
+4\. The expected carbon footprint per passenger and the expected CO2 efficiency per kilometre of a flight shall be determined by the Agency on the basis of a standardised and science-based methodology and the information from the aircraft operators concerning all or some of the following factors:
+
+(a) the types of aircraft, average number of passengers and freight loads supplemented when needed with estimations of those factors, such as the average load factors for the specified route for a given time period; and
+
+(b) the performance of the fuel used on the flights carried out by the aircraft operator based on the fuel uptake and using metrics such as the total amount of SAF uplifted, the percentage over the total fuel uptake, the quality and origin, the composition and the lifecycle emissions from fuel use calculated for the flight.
+
+5\. Labels issued pursuant to this Article shall be valid for a limited period not exceeding one year specified in the implementing acts referred to in paragraph 11, point (c). The period of validity of the label shall be clearly displayed by the aircraft operator together with the label.
+
+6\. The Agency shall issue labels at the request of an aircraft operator for each flight or set of flights operated under the same conditions, on the basis of the information referred to in paragraph 3 and the standardised and science-based methodology and factors referred to in paragraph 4.
+
+The Agency may require the aircraft operator to provide additional information necessary for the issuance of the label.
+
+Where the aircraft operator does not submit all the information necessary for the Agency to issue the requested label, the Agency shall reject the request.
+
+An appeal may be brought by the aircraft operator against decisions of the Agency taken pursuant to this paragraph and paragraph 7 of this Article. Such appeal shall be filed to the Board of Appeal referred to in Article 105 of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 7 ) within 10 days of notification of the decision. Articles 106 and 107, Article 108(2) and (3), and Articles 111, 112, 113 and 114 of Regulation (EU) 2018/1139 shall apply. Any decision taken by the Agency pursuant to this paragraph shall be taken without undue delay.
+
+7\. The Agency shall review periodically whether the factors on the basis of which a label was issued for each flight or set of flights operated under the same conditions have changed. If the Agency concludes that a label is no longer appropriate, it shall, after giving the operator the opportunity to be heard revoke the existing label or issue a new label. The Agency shall inform the aircraft operator of its decision.
+
+The aircraft operator shall without any delay adjust the display of the label accordingly.
+
+8\. Aircraft operators that have been granted a label pursuant to paragraph 6 shall display the label containing the information referred to in paragraph 3, second subparagraph. The label shall be easily accessible and understandable. It shall be presented in a way that enables customers to easily compare the environmental performance of flights operated by different aircraft operators flying the same route. Where an aircraft operator displays the label at a point of sale or any other contact with the customers, they shall do so for all flights within scope of this Regulation.
+
+9\. In order to finance the costs of the service provided by the Agency, the issuing of a label at the request of an aircraft operator shall be subject to the payment of a charge. The revenues generated from such charges shall constitute other revenues within the meaning of Article 120(1) of Regulation (EU) 2018/1139 and shall be treated as assigned revenues to be allocated by the Agency to cover those costs. Article 126(2) and (3) of Regulation (EU) 2018/1139 shall apply. The amount of the charge shall be defined pursuant to Article 126(4) of Regulation (EU) 2018/1139.
+
+10\. As part of its tasks in the field of environmental protection as set out in Article 87(2) of Regulation (EU) 2018/1139, the Agency shall contribute to raising awareness of the existence of the labelling scheme set up by this Article.
+
+11\. In order to ensure the uniform implementation and compliance with the rules set out in this Article, the Commission shall adopt by 1 January 2025 implementing acts laying down detailed provisions concerning:
+
+(a) the standardised and science-based methodology referred to in paragraph 4, based on the best available scientific data, in particular the data provided by the Agency and including the methodology for using estimations referred to in paragraph 4, point (a);
+
+(b) the procedure through which aircraft operators are to provide the Agency with the relevant information for the issuance of a label, and the procedure for the Agency to issue that label, including the time-limit by which the Agency is to take a decision pursuant to paragraph 6;
+
+(c) the duration of the validity of labels issued pursuant to this Article, not exceeding one year;
+
+(d) the conditions under which the Agency is to carry out the review referred to in paragraph 7;
+
+(e) the procedure mentioned in paragraph 7 through which the Agency can either revoke existing labels or issue a new label;
+
+(f) the templates for displaying labels issued pursuant to this Article;
+
+(g) ensuring an easy access to all issued labels in machine-readable format;
+
+(h) the possibility and conditions under which aircraft operators may display, without using a label under this Article, any environmental performance information similar to the one referred to in paragraph 3 for flights departing from Union airports.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(3).
+
+12\. By 1 July 2027, the Commission shall identify and assess the developments on the functioning of the labelling scheme set up by this Article as well as possible improvements or additional measures to such scheme, with a view in particular to establish a compulsory environmental labelling scheme encompassing all aspects of the environmental performance of flights or set of flights and the different decarbonisation measures that aircraft operators take, in full compliance with Union law. The Commission shall present a report with the main findings of the assessment carried out pursuant to this paragraph to the European Parliament and to the Council. It may, where appropriate, accompany that report with a legislative proposal.
+
+## Article 15 — Flexibility mechanisms
+
+1\. By way of derogation from Article 4(1), from 1 January 2025 until 31 December 2034, for each reporting period, an aviation fuel supplier may supply the minimum shares of SAF defined in Annex I as a weighted average over all the aviation fuel it supplied across Union airports for that reporting period.
+
+2\. By 1 July 2024, the Commission shall identify and assess the developments on SAF production and supply on the Union aviation fuel market as well as assess possible improvements or additional measures to the existing SAF flexibility mechanism referred to in paragraph 1, such as setting up or recognising a system of tradability of SAF to enable fuel supply in the Union without it being physically connected to a supply site, with a view to further facilitate the supply and uptake of SAF for aviation during the flexibility period.
+
+Such a possible system, incorporating elements of a book and claim scheme, could enable aircraft operators or fuel suppliers, or both, to purchase SAF through contractual arrangements with aviation fuel suppliers and to claim the use of SAF at Union airports.
+
+The Commission shall present a report to the European Parliament and to the Council setting out the main findings of the evaluation carried out pursuant to this paragraph and accompanied, where appropriate, by a legislative proposal.
+
+## Article 16 — Committee procedure
+
+1\. The Commission shall be assisted by the ReFuelEU Aviation Committee, hereinafter referred to as ‘the Committee’. The Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 17 — Reports and review
+
+1\. By 1 January 2027, and every four years thereafter, the Commission shall present a report to the European Parliament and to the Council, on the application of this Regulation.
+
+2\. The report shall contain a detailed assessment of the evolution of the aviation fuels market, and the impact of that evolution on the functioning of the aviation internal market of the Union including on the competitiveness and connectivity, in particular for islands and remote territories, and on the cost-effectiveness of lifecycle emissions reductions. The report shall also assess the need for investments, employment and training, and research and innovation in SAF. In addition, the report shall inform on technological advancements in the area of research and innovation in the aviation industry which are relevant to SAF, including with regards to the reduction of non-CO2 emissions or direct air capture technologies.
+
+3\. The report shall evaluate the possible need to revise the scope of this Regulation, the SAF definition, the eligible fuels and the minimum shares in Article 4 and Annex I, and the level of fines. The report shall evaluate the possible widening of the scope of this Regulation to include other energy sources and other types of synthetic fuels defined in Directive (EU) 2018/2001, while taking due account of the principle of technological neutrality. The report shall also assess initiatives, improvements and additional measures to further facilitate and promote an increased supply and uptake of non-drop-in aviation fuels, and related services, infrastructure and technologies consistent with the objective of decarbonising air transport while preserving a level playing field.
+
+4\. The report shall consider the possible inclusion of mechanisms to support the production and uplift of SAF, including the collection and use of funds, and to limit the adverse impact of this Regulation on connectivity and competitiveness. The report shall consider whether such mechanisms should include financial and other mechanisms to bridge the price differences between SAF and conventional aviation fuels.
+
+5\. The report shall assess the impact on the functioning of the aviation internal market of the exemptions granted under Article 5.
+
+As far as possible, the report shall include information on the policy developments in relevant third countries, including in the context of their multilateral and bilateral agreements with the Union or with the Union and its Member States, as well as on the development of a potential policy framework for supply and uplift of SAF at ICAO level.
+
+The report shall assess the competitiveness of Union air carriers and airport hubs compared with their competitors in relevant third countries, as well as possible rerouting, notably through a shift in traffic towards airport hubs in third countries, leading to carbon leakage. In particular, in the absence of a mandatory scheme at international level on the use of SAF for international flights with a similar level of ambition as the requirements laid down in this Regulation or of mechanisms developed at international level enabling the risk of carbon leakage and the distortion of competition for international aviation to be avoided, the Commission shall, by 31 December 2026, where appropriate, consider targeted mechanisms that aim to prevent those effects, including, if appropriate, the extension to international aviation of the carbon border adjustment mechanism established by Regulation (EU) 2023/956 of the European Parliament and of the Council ( 8 ), as well as other types of measures taking into account the fact that the final destination of the flight is located outside the territory of the Union.
+
+6\. The report shall include detailed information on the enforcement of this Regulation. The report shall consider whether this Regulation should be amended and, where appropriate, which amendments should be considered, in line with a potential policy framework on SAF uptake at ICAO level.
+
+As part of the first report or earlier as a stand alone report presented to the European Parliament and to the Council, the Commission shall assess possible measures to optimise the fuel content of aviation fuels.
+
+7\. The Commission may consult Member States when drawing up that report, at least six months before its adoption.
+
+## Article 18 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2024.
+
+However, Articles 4, 5, 6, 8 and 10 shall apply from 1 January 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Shares of SAF referred to in Article 4
+
+(a) From 1 January 2025, each year a minimum share of 2 % of SAF;
+
+(b) From 1 January 2030, each year a minimum share of 6 % of SAF, of which:
+
+(i) for the period from 1 January 2030 until 31 December 2031, an average share over the period of 1,2 % of synthetic aviation fuels, of which each year a minimum share of 0,7 % of synthetic aviation fuels;
+
+(ii) for the period from 1 January 2032 until 31 December 2034, an average share over the period of 2,0 % of synthetic aviation fuels, of which each year a minimum share of 1,2 % from 1 January 2032 until 31 December 2033 and of which a minimum share of 2,0 % from 1 January 2034 until 31 December 2034 of synthetic aviation fuels;
+
+(c) From 1 January 2035, each year a minimum share of 20 % of SAF, of which a minimum share of 5 % of synthetic aviation fuels;
+
+(d) From 1 January 2040, each year a minimum share of 34 % of SAF, of which a minimum share of 10 % of synthetic aviation fuels;
+
+(e) From 1 January 2045, each year a minimum share of 42 % of SAF, of which a minimum share of 15 % of synthetic aviation fuels;
+
+(f) From 1 January 2050, each year a minimum share of 70 % of SAF, of which a minimum share of 35 % of synthetic aviation fuels.
+
+## ANNEX II — Template for aircraft operator reporting
+
+**Template for aircraft operator reporting on uplift of aviation fuels**
+
+| Union airport | ICAO code of Union airport | Yearly aviation fuel required (tonnes) | Actual aviation fuel uplifted (tonnes) | Yearly non-tanked quantity (tonnes) | Total yearly non-tanked quantity (tonnes) | Yearly tanked quantity for fuel safety rules (tonnes) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+
+**Template for aircraft operator reporting on purchases of SAF**
+
+| Total number of flights operated | Total number of flight hours | Fuel supplier | Amount purchased (tonnes) | Conversion process | Characteristics | Origin of feedstock | Lifecycle emissions |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+
+( 1 ) Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (OJ L 70, 14.3.2009, p. 11).
+
+( 2 ) Council Directive 96/67/EC of 15 October 1996 on access to the groundhandling market at Community airports (OJ L 272, 25.10.1996, p. 36).
+
+( 3 ) Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 296, 25.10.2012, p. 1).
+
+( 4 ) Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports (OJ L 14, 22.1.1993, p. 1).
+
+( 5 ) Regulation (EU) 2023/1804 of the European Parliament and of the Council of 13 September 2023 on the deployment of alternative fuels infrastructure, and repealing Directive 2014/94/EU (OJ L 234, 22.9.2023, p. 1).
+
+( 6 ) Commission Regulation (EC) No 748/2009 of 5 August 2009 on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC on or after 1 January 2006 specifying the administering Member State for each aircraft operator (OJ L 219, 22.8.2009, p. 1).
+
+( 7 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212 22.8.2018, p. 1).
+
+( 8 ) Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (OJ L 130, 16.5.2023, p. 52).

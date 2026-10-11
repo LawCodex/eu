@@ -1,0 +1,100 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/781 of 15 May 2019 concerning the authorisation of a preparation of 3-phytase produced by Komagataella phaffii (CECT 13094) as a feed additive for chickens for fattening or reared for laying, laying hens and minor poultry species for fattening, for breeding and reared for laying (holder of authorisation Fertinagro Nutrientes S.L.) (Text with EEA relevance.)"
+identifier: "32019R0781"
+eli: "http://data.europa.eu/eli/reg_impl/2019/781/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-05-15
+entry_into_force: 2022-04-25
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0781"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/781 of 15 May 2019 concerning the authorisation of a preparation of 3-phytase produced by Komagataella phaffii (CECT 13094) as a feed additive for chickens for fattening or reared for laying, laying hens and minor poultry species for fattening, for breeding and reared for laying (holder of authorisation Fertinagro Nutrientes S.L.) (Text with EEA relevance.)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/781**
+
+**of 15 May 2019**
+
+**concerning the authorisation of a preparation of 3-phytase produced by Komagataella phaffii (CECT 13094) as a feed additive for chickens for fattening or reared for laying, laying hens and minor poultry species for fattening, for breeding and reared for laying (holder of authorisation Fertinagro Nutrientes S.L.)**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the grounds and procedures for granting such authorisation.
+
+(2) In accordance with Article 7 of Regulation (EC) No 1831/2003 an application was submitted for the authorisation of a preparation of 3-phytase produced by Komagataella phaffii (CECT 13094). That application was accompanied by the particulars and documents required under Article 7(3) of that Regulation.
+
+(3) That application concerns the authorisation of a preparation of 3-phytase produced by Komagataella phaffii (CECT 13094) as a feed additive for chickens for fattening, chickens reared for laying, laying hens and minor poultry species for fattening, for breeding and reared for laying, to be classified in the additive category ‘zootechnical additives’.
+
+(4) The preparation of 3-phytase as liquid formulation was already authorised as a feed additive by Commission Implementing Regulation (EU) 2017/895 (2) for chickens for fattening and laying hens.
+
+(5) The European Food Safety Authority (‘the Authority’) concluded in its opinion of 27 November 2018 (3) that, under the proposed conditions of use, 3-phytase produced by Komagataella phaffii (CECT 13094), previously identified as Komagataella pastoris, does not have an adverse effect on animal health, consumer safety or the environment. It was also concluded that the additive may have a dermal and respiratory sensitisation potential. Therefore, the Commission considers that appropriate protective measures should be taken to prevent adverse effects on human health, in particular as regards the users of the additive. The Authority has also concluded that as the solid and liquid formulations are equivalent in terms of efficacy, the solid formulation of the additive has a potential to be efficacious for the target species. The Authority does not consider that there is a need for specific requirements of post-market monitoring. It also verified the report on the method of analysis of the feed additive in feed submitted by the Reference Laboratory set up by Regulation (EC) No 1831/2003.
+
+(6) The assessment of the 3-phytase shows that the conditions for authorisation of 3-phytase produced by Komagataella phaffii (CECT 13094), as provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. Accordingly, the use of that preparation should be authorised as specified in the Annex to this Regulation.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The preparation specified in the Annex, belonging to the additive category ‘zootechnical additives’ and to the functional group ‘digestibility enhancers’, is authorised as an additive in animal nutrition, subject to the conditions laid down in that Annex.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 15 May 2019.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 268, 18.10.2003, p. 29.
+
+(2) Commission Implementing Regulation (EU) 2017/895 of 24 May 2017 concerning the authorisation of a preparation of 3-phytase produced by Komagataella pastoris (CECT 13094) as a feed additive for chickens for fattening and laying hens (holder of authorisation Fertinagro Nutrientes S.L.) (OJ L 138, 25.5.2017, p. 120).
+
+(3) EFSA Journal 2019;17(1):5543.
+
+## ANNEX
+
+<table>
+<tbody><tr><td rowspan="2">Identification number of the additive</td><td rowspan="2">Name of the holder of authorisation</td><td rowspan="2">Additive</td><td rowspan="2">Composition, chemical formula, description, analytical method</td><td rowspan="2">Species or category of animal</td><td rowspan="2">Maximum age</td><td>Minimum content</td><td>Maximum content</td><td rowspan="2">Other provisions</td><td rowspan="2">End of period of authorisation</td></tr>
+<tr><td colspan="2">Units of activity/kg of complete feedingstuff with a moisture content of 12 %</td></tr>
+<tr><td colspan="10">Category of zootechnical additives. Functional group: digestibility enhancers</td></tr>
+<tr></tr>
+<tr><td rowspan="2">4a25</td><td rowspan="2">Fertinagro Nutrientes S.L.</td><td rowspan="2">3-phytase EC 3.2.1.8 </td><td rowspan="2">Additive composition Preparation of 3-phytase  produced by Komagataella phaffii (CECT 13094) having a minimum activity of: 10 000 FTU (1) /g  Solid form  Characterisation of the active substance  3-phytase (EC 3.2.1.8) produced by Komagataella phaffii (CECT 13094)  Analytical method (2)  For the quantification of 3-phytase activity in the feed additive and premixtures: <table><tbody><tr><td>—</td><td>colorimetric method based on the enzymatic reaction of phytase on the phytate</td></tr>
+</tbody>
+</table>
+ For the quantification of 3-phytase activity in feedingstuffs: <table><tbody><tr><td>—</td><td>colorimetric method based on the enzymatic reaction of phytase on the phytate – EN ISO 30024</td></tr>
+</tbody>
+</table>
+</td><td>Chickens for fattening or reared for laying Minor poultry species for fattening or reared for laying or for breeding </td><td rowspan="2">—</td><td>500 FTU</td><td rowspan="2"></td><td rowspan="2"><table><tbody><tr><td>1.</td><td>In the directions for use of the additive and premixtures, the storage conditions and stability to heat treatment shall be indicated.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>For users of the additive and premixtures, feed business operators shall establish operational procedures and organisational measures to address potential risks resulting from its use. Where those risks cannot be eliminated or reduced to a minimum by such procedures and measures, the additive and premixtures shall be used with personal protective equipment, including skin and breathing protection.</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2">5 June 2029</td></tr>
+<tr><td>Laying hens</td><td>1 000 FTU</td></tr>
+</tbody>
+</table>
+
+(1) 1 FTU is the amount of enzyme which liberates 1 micromole of inorganic phosphate per minute from a sodium phytate substrate at pH 5,5 and 37 °C.
+
+(2) Details of the analytical methods are available at the following address of the Reference Laboratory: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports.

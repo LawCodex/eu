@@ -1,0 +1,348 @@
+---
+title: "Commission Implementing Regulation (EU) No 821/2014 of 28 July 2014 laying down rules for the application of Regulation (EU) No 1303/2013 of the European Parliament and of the Council as regards detailed arrangements for the transfer and management of programme contributions, the reporting on financial instruments, technical characteristics of information and communication measures for operations and the system to record and store data"
+identifier: "32014R0821"
+eli: "http://data.europa.eu/eli/reg_impl/2014/821/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-07-28
+entry_into_force: 2014-07-26
+last_amended: 2019-02-15
+consolidated_version: "02014R0821-20190215"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0821-20190215"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 821/2014 of 28 July 2014 laying down rules for the application of Regulation (EU) No 1303/2013 of the European Parliament and of the Council as regards detailed arrangements for the transfer and management of programme contributions, the reporting on financial instruments, technical characteristics of information and communication measures for operations and the system to record and store data
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 821/2014**
+
+**of 28 July 2014**
+
+**laying down rules for the application of Regulation (EU) No 1303/2013 of the European Parliament and of the Council as regards detailed arrangements for the transfer and management of programme contributions, the reporting on financial instruments, technical characteristics of information, communication and visibility measures for operations and the system to record and store data**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/255 of 13 February 2019 </td><td> L 43</td><td>15</td><td>14.2.2019</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 821/2014**
+
+**of 28 July 2014**
+
+**laying down rules for the application of Regulation (EU) No 1303/2013 of the European Parliament and of the Council as regards detailed arrangements for the transfer and management of programme contributions, the reporting on financial instruments, technical characteristics of information, communication and visibility measures for operations and the system to record and store data**
+
+## CHAPTER I — DETAILED ARRANGEMENTS FOR THE TRANSFER AND MANAGEMENT OF PROGRAMME CONTRIBUTIONS AND REPORTING ON FINANCIAL INSTRUMENTS
+
+### Article 1
+
+Transfer and management of programme contributions
+
+(Article 38(10) of Regulation (EU) No 1303/2013)
+
+1\. Where contributions from more than one programme or from more than one priority axis or measure of the same programme are made to a financial instrument, the body implementing that financial instrument shall keep a separate account or maintain an adequate accounting code for the contribution from each programme, from each priority axis or measure for reporting and audit purposes.
+
+2\. Where national public and private contributions to financial instruments are made at the level of final recipients, in accordance with the Fund-specific rules, the bodies implementing those financial instruments shall manage national public or private contributions constituting national co-financing and made at the level of final recipients in accordance with paragraphs 3 to 6.
+
+3\. The bodies implementing financial instruments shall keep documentary evidence of the following:
+
+(a) legal agreements concluded with the private or public entities concerning national public or private contributions constituting national co-financing to be provided by these entities at the level of final recipients;
+
+(b) effective transfer of resources constituting national co-financing by private or public entities to final recipients;
+
+(c) national public or private contributions constituting national co-financing and made by private or public entities, reported to the body implementing financial instrument.
+
+4\. The bodies implementing financial instruments shall retain overall responsibility for the investment in final recipients including subsequent monitoring of the contributions from programmes in accordance with funding agreements.
+
+5\. The bodies implementing financial instruments shall ensure that expenditure covered by the national public or private contributions constituting national co-financing is eligible before declaring it to the managing authority.
+
+6\. The bodies implementing financial instruments shall maintain the audit trail for the national public or private contributions constituting national co-financing down to the level of the final recipient.
+
+### Article 2
+
+Model for reporting on financial instruments
+
+(Article 46(3) of Regulation (EU) No 1303/2013)
+
+For the specific report referred to in Article 46(1) of Regulation (EU) No 1303/2013, the managing authorities shall use the model set out in Annex I to this Regulation.
+
+## CHAPTER II — TECHNICAL CHARACTERISTICS OF INFORMATION, COMMUNICATION AND VISIBILITY MEASURES FOR OPERATIONS AND INSTRUCTIONS FOR CREATING THE UNION EMBLEM AND A DEFINITION OF THE STANDARD COLOURS — (Article 115(4) of Regulation (EU) No 1303/2013)
+
+### Article 3 — Instructions for creating the emblem and a definition of the standard colours
+
+The Union emblem shall be created in accordance with the graphic standards set out in Annex II.
+
+### Article 4 — Technical characteristics for displaying the Union emblem and the reference to the Fund or Funds supporting the operation
+
+1\. The Union emblem referred to in point 1(a) of Section 2.2 of Annex XII to Regulation (EU) No 1303/2013 shall be displayed in colour on websites. In all other media, colour shall be used whenever possible and a monochrome version may only be used in justified cases.
+
+2\. The Union emblem shall always be clearly visible and placed in a prominent position. Its position and size shall be appropriate to the scale of the material or document being used. For small promotional objects the obligation to make reference to the Fund shall not apply.
+
+3\. When the Union emblem, the reference to the Union and the relevant Fund are displayed on a website:
+
+(a) the Union emblem and the reference to the Union shall be visible, when landing on the website, inside the viewing area of a digital device, without requiring a user to scroll down the page;
+
+(b) the reference to the relevant Fund shall be made visible on the same website.
+
+4\. The name ‘European Union’ shall always be spelled out in full. The typeface to be used in conjunction with the Union emblem may be any of the following fonts: Arial, Auto, Calibri, Garamond, Trebuchet, Tahoma, Verdana, Ubuntu. Italic, underlined variations or font effects shall not be used. The positioning of the text in relation to the Union emblem shall not interfere with the Union emblem in any way. The font size used shall be proportionate to the size of the emblem. The colour of the font shall be reflex blue, black or white depending on the background.
+
+5\. If other logos are displayed in addition to the Union emblem, the Union emblem shall have at least the same size, measured in height or width, as the biggest of the other logos.
+
+### Article 5 — Technical characteristics of permanent plaques and temporary or permanent billboards
+
+1\. The name of the operation, the main objective of the operation, the Union emblem together with the reference to the Union and the reference to the Fund or Funds to be displayed on the temporary billboard referred to in point 4 of Section 2.2 of Annex XII to Regulation (EU) No 1303/2013 shall take up at least 25 % of that billboard.
+
+2\. The name of the operation and the main objective of the activity supported by the operation, the Union emblem together with the reference to the Union and the reference to the Fund or Funds to be displayed on the permanent plaque or permanent billboard referred to in point 5 of Section 2.2 of Annex XII to Regulation (EU) No 1303/2013 shall take up at least 25 % of that plaque or billboard.
+
+## CHAPTER III — SYSTEM TO RECORD AND STORE DATA — (Article 125(8) of Regulation (EU) No 1303/2013)
+
+### Article 6 — General provisions
+
+The system to record and store data on operations referred to in point (d) of Article 125(2) of Regulation (EU) No 1303/2013 shall comply with the technical specifications set out in Articles 7 to 11.
+
+### Article 7 — Protection and preservation of data and documents and their integrity
+
+1\. Access to the system shall be based on predefined rights for different types of users and shall be suppressed where it is no longer needed.
+
+2\. The system shall keep the logs of any recording, modification and deletion of documents and data.
+
+3\. The system shall not allow modification of the content of documents bearing an electronic signature. A time stamp certifying the deposit of the document bearing an electronic signature, shall be generated and associated with the document and shall not be alterable. Deletion of such documents shall be logged in accordance with paragraph 2.
+
+4\. The data shall be subject to regular back-ups. The back-up with replica of the entire content of the electronic file repository shall be ready for use in case of emergency.
+
+5\. The electronic storage facility shall be protected against any danger of loss or alteration of its integrity. Such protection shall include physical protection against inappropriate temperature and levels of humidity, fire and theft detection systems, adequate protection systems against virus attacks, hackers and any other non-authorised access.
+
+6\. The system shall provide for the migration of data, format and computer environment at intervals sufficient to guarantee legibility and accessibility of documents and data until the end of the relevant period referred to in Article 140(1) of Regulation (EU) No 1303/2013.
+
+### Article 8 — Interoperability
+
+1\. The system shall be interoperable with the systems for electronic data exchange with beneficiaries referred to in Article 122(3) of Regulation (EU) No 1303/2013.
+
+Where appropriate, the system shall facilitate the verification of the veracity and, completeness of the data provided by the beneficiaries before it is stored in a secured manner.
+
+2\. The system shall be interoperable with other relevant computerised systems under the National Interoperability Framework and the European Interoperability Framework (EIF) established under Decision No 922/2009/EC of the European Parliament and of the Council ( 1 ).
+
+3\. The system shall be interoperable at technical and semantic level. The specifications shall support standard formats for data exchange and shall ensure that those formats can be recognised and exchanged between heterogeneous systems.
+
+### Article 9 — Search and reporting functions
+
+The system shall include:
+
+(a) appropriate search tools enabling easy retrieval of documents, data and their metadata;
+
+(b) a reporting function enabling the generation of reports on the basis of predefined criteria, in particular for the data set out in Commission Delegated Regulation (EU) No 480/2014 ( 2 );
+
+(c) a possibility of saving, exporting or printing reports referred to in point (b), or a link to an external application providing for such possibility.
+
+### Article 10 — Documentation of the system
+
+The managing authority shall provide detailed and updated functional and technical documentation on the operation and characteristics of the system, accessible on request by relevant entities responsible for the management of the programme, by the Commission and the European Court of Auditors.
+
+The documentation referred to in the first paragraph shall provide evidence of the implementation of Regulation (EU) No 1303/2013 in the Member State concerned.
+
+### Article 11 — Security of information exchange
+
+The system used shall be protected by adequate security measures concerning document classification, protection of information systems and personal data protection. These measures shall comply with international standards and national legal requirements.
+
+The security measures referred to in the first paragraph shall protect networks and transmission facilities where the system interacts with other modules and systems.
+
+### Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Model for reporting on financial instruments
+
+<table>
+<tbody><tr><td>No.</td><td>Information required for each financial instrument</td></tr>
+<tr><td colspan="2">I. Identification of the programme and priority or measure from which support from the ESI Funds is provided (Article 46(2)(a) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>1</td><td>Priority axes or measures supporting the financial instrument, including fund of funds, under the ESI Fund programme</td></tr>
+<tr><td>1.1</td><td>Reference (number and title) of each priority axis or measure supporting the financial instrument under the ESI Fund programme</td></tr>
+<tr><td>2</td><td>Name of ESI Fund(s) supporting the financial instrument under the priority axis or measure</td></tr>
+<tr><td>3</td><td>Thematic objective(s) referred to in the first paragraph of Article 9 of Regulation (EU) No 1303/2013 supported by the financial instrument</td></tr>
+<tr><td>4</td><td>Other ESI Fund programmes providing contributions to the financial instrument</td></tr>
+<tr><td>4.1</td><td>CCI number of each other ESI Fund programme providing contributions to the financial instrument</td></tr>
+<tr><td colspan="2">II. Description of the financial instrument and implementation arrangements (Article 46(2)(b) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>5</td><td>Name of the financial instrument</td></tr>
+<tr><td>6</td><td>Official address/place of business of the financial instrument (name of the country and city)</td></tr>
+<tr><td>7</td><td>Implementation arrangements</td></tr>
+<tr><td>7.1</td><td>Financial instrument set up at Union level, managed directly or indirectly by the Commission referred to in Article 38(1)(a) of Regulation (EU) No 1303/2013, supported from ESI Fund programme contributions</td></tr>
+<tr><td>7.1.1</td><td>Name of the Union-level financial instrument</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7.2</td><td>Financial instrument set up at national, regional, transnational or cross-border level, managed by or under the responsibility of the managing authority referred to in Article 38(1)(b), supported from ESI Fund programme contributions under points (a), (b), (c) and (d) of Article 38(4) of Regulation (EU) No 1303/2013</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7.3</td><td>Financial instrument combining a financial contribution from the managing authority with EIB financial products under the European Fund for Strategic Investment in accordance with Article 39a, referred to in Article 38(1)(c)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>8</td><td>Type of the financial instrument</td></tr>
+<tr><td>8.1</td><td>Tailor-made or financial instruments complying with standard terms and conditions</td></tr>
+<tr><td>8.2</td><td>Financial instrument organised through fund of funds or without a fund of funds</td></tr>
+<tr><td>8.2.1</td><td>Name of the fund of funds set up to implement financial instruments</td></tr>
+<tr><td>9</td><td>Type of products provided by financial instrument: loans, micro-loans, guarantees, equity or quasi-equity investments, other financial product or other support combined within the financial instrument pursuant to Article 37(7) of Regulation (EU) No 1303/2013</td></tr>
+<tr><td>9.1</td><td>Description of the other financial product</td></tr>
+<tr><td>9.2</td><td>Other support combined within the financial instrument: grant, interest rate subsidy, guarantee fee subsidy pursuant to Article 37(7) of Regulation (EU) No 1303/2013</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>10</td><td>Legal status of the financial instrument, pursuant to Article 38(6) and Article 39a(5)(b) of Regulation (EU) No 1303/2013 (for financial instruments referred to in Article 38(1)(b) and (c) only): fiduciary account opened in the name of the implementing body and on behalf of the managing authority or separate block of finance within a financial institution</td></tr>
+<tr><td colspan="2">III. Identification of the body implementing the financial instrument, and the body implementing fund of funds where applicable, as referred to under point (a), (b) and (c) of Article 38(1) of Regulation (EU) No 1303/2013 (Article 46(2)(c) of Regulation (EU) No 1303/2013</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>11</td><td>Body implementing the financial instrument</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>11.1</td><td>Type of implementing body pursuant to Article 38(4) and Article 39a(5) of Regulation (EU) No 1303/2013: existing or newly created legal entity dedicated to implementing financial instruments; the European Investment Bank; the European Investment Fund; international financial institution in which a Member State is a shareholder; a publicly-owned bank or institution, established as a legal entity carrying out financial activities on a professional basis; a body governed by public or private law; managing authority undertaking implementation tasks directly (for loans or guarantees only)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>11.1.1</td><td>Name of the body implementing the financial instrument</td></tr>
+<tr><td>11.1.2</td><td>Official address/place of business (country and town name) of the body implementing the financial instrument</td></tr>
+<tr><td>12</td><td>Procedure of selecting the body implementing the financial instrument: award of a public contract; other procedure</td></tr>
+<tr><td>12.1</td><td>Description of the other procedure of selecting the body implementing the financial instrument</td></tr>
+<tr><td>13</td><td>Date of signature of the funding agreement with the body implementing the financial instrument</td></tr>
+<tr><td colspan="2">IV. Total amount of programme contributions, by priority or measure, paid to the financial instrument and management costs incurred or management fees paid (Article 46(2)(d) and (e) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>14</td><td>Total amount of programme contributions committed in the funding agreement (in EUR)</td></tr>
+<tr><td>14.1</td><td>out of which ESI Funds contributions (in EUR)</td></tr>
+<tr><td>15</td><td>Total amount of programme contributions paid to the financial instrument (in EUR)</td></tr>
+<tr><td>15.1</td><td>out of which amounts of ESI Funds contributions (in EUR)</td></tr>
+<tr><td>15.1.1</td><td>out of which ERDF (in EUR)</td></tr>
+<tr><td>15.1.2</td><td>out of which Cohesion Fund (in EUR)</td></tr>
+<tr><td>15.1.3</td><td>out of which ESF (in EUR)</td></tr>
+<tr><td>15.1.4</td><td>out of which EAFRD (in EUR)</td></tr>
+<tr><td>15.1.5</td><td>out of which EMFF (in EUR)</td></tr>
+<tr><td>15.2</td><td>out of which total amount of national co-financing (in EUR)</td></tr>
+<tr><td>15.2.1</td><td>out of which total amount of national public funding (in EUR)</td></tr>
+<tr><td>15.2.2</td><td>out of which total amount of national private funding (in EUR)</td></tr>
+<tr><td>16</td><td>Total amount of programme contributions paid to the financial instrument under Youth Employment Initiative (YEI) (1) (in EUR)</td></tr>
+<tr><td>17</td><td>Total amount of management costs and fees paid out of programme contributions (in EUR)</td></tr>
+<tr><td>17.1</td><td>out of which base remuneration (in EUR)</td></tr>
+<tr><td>17.2</td><td>out of which performance-based remuneration (in EUR)</td></tr>
+<tr><td>18</td><td>Capitalised management costs or fees pursuant to Article 42(2) of Regulation (EU) No 1303/2013 (relevant only for final report) (in EUR)</td></tr>
+<tr><td>19</td><td>Capitalised interest rate subsidies or guarantee fee subsidies pursuant to Article 42(1)(c) of Regulation (EU) No 1303/2013 (relevant for final report only) (in EUR)</td></tr>
+<tr><td>20</td><td>Amount of programme contributions for follow-on investments in final recipients pursuant to Article 42(3) of Regulation (EU) No 1303/2013 (relevant for final report only) (in EUR)</td></tr>
+<tr><td>21</td><td>Contributions of land and/or real estate in the financial instrument pursuant to Article 37(10) of Regulation (EU) No 1303/2013 (relevant for final report only) (in EUR)</td></tr>
+<tr><td colspan="2">V. Total amount of support paid to final recipients, or to the benefit of final recipients, or committed in guarantee contracts by the financial instrument for investments in final recipients, by ESI Funds programme and priority or measure (Article 46(2)(e) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>22</td><td>Name of each financial product offered by the financial instrument</td></tr>
+<tr><td>23</td><td>Date of signature of the funding agreement for the financial product</td></tr>
+<tr><td>24</td><td>Total amount of programme contributions committed in loans, guarantee equity, quasi-equity or other financial product contracts with final recipients (in EUR)</td></tr>
+<tr><td>24.1</td><td>out of which total amount of ESI Funds contributions (in EUR)</td></tr>
+<tr><td>25</td><td>Total amount of programme contributions paid to final recipients through loans, micro-loans, equity or other products, or, in the case of guarantees, committed for loans paid to final recipients, by product (in EUR)</td></tr>
+<tr><td>25.1</td><td>out of which total amount of ESI Funds contributions (in EUR)</td></tr>
+<tr><td>25.1.1</td><td>out of which ERDF (in EUR)</td></tr>
+<tr><td>25.1.2</td><td>out of which Cohesion Fund (in EUR)</td></tr>
+<tr><td>25.1.3</td><td>out of which ESF (in EUR)</td></tr>
+<tr><td>25.1.4</td><td>out of which EAFRD (in EUR)</td></tr>
+<tr><td>25.1.5</td><td>out of which EMFF (in EUR)</td></tr>
+<tr><td>25.2</td><td>out of which total amount of national public co-financing (in EUR)</td></tr>
+<tr><td>25.3</td><td>out of which total amount of national private co-financing (in EUR)</td></tr>
+<tr><td>26</td><td>Total value of loans actually paid to final recipients in relation to the guarantee contracts signed (EUR)</td></tr>
+<tr><td>27</td><td>Number of loan/guarantee/equity or quasi-equity/other financial product contracts signed with final recipients, by product</td></tr>
+<tr><td>28</td><td>Number of loan/guarantee/equity or quasi equity/other financial product investments made in final recipients, by product</td></tr>
+<tr><td>29</td><td>Number of final recipients supported by the financial product</td></tr>
+<tr><td>29.1</td><td>out of which large enterprises</td></tr>
+<tr><td>29.2</td><td>out of which SMEs</td></tr>
+<tr><td>29.2.1</td><td>out of which microenterprises</td></tr>
+<tr><td>29.3</td><td>out of which individuals</td></tr>
+<tr><td>29.4</td><td>out of which other type of final recipients supported</td></tr>
+<tr><td>29.4.1</td><td>description of other type of final recipients supported</td></tr>
+<tr><td colspan="2">VI. The performance of the financial instrument, including progress in its set-up and in selection of bodies implementing the financial instrument (including the body implementing a fund of funds) (Article 46(2)(f) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>30</td><td>Date of completion of the ex ante assessment</td></tr>
+<tr><td>31</td><td>Selection of bodies implementing financial instrument</td></tr>
+<tr><td>31.1</td><td>number of selection procedures already launched</td></tr>
+<tr><td>31.2</td><td>number of funding agreements already signed</td></tr>
+<tr><td>32</td><td>Information whether the financial instrument was still operational at the end of the reporting year</td></tr>
+<tr><td>32.1</td><td>If the financial instrument was not operational at the end of the reporting year, date of the winding-up</td></tr>
+<tr><td>33</td><td>Total number of disbursed loans defaulted or total number of guarantees provided and called due to the loan default</td></tr>
+<tr><td>34</td><td>Total amount of disbursed loans defaulted (in EUR) or total amount committed for guarantees provided and called due to loan default (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">VII. Interest and other gains generated by support from the ESI Funds to the financial instrument, programme resources paid back to the financial instrument from investments as referred to in Articles 43 and 44, amounts used for differentiated treatment as referred to in Article 43a and the value of equity investments with respect to previous years (Article 46(2)(g) and (i) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>35</td><td>Interest and other gains generated by payments from ESI Funds to the financial instrument (in EUR)</td></tr>
+<tr><td>36</td><td>Amounts repaid to the financial instrument attributable to support from ESI Funds by the end of the reporting year (in EUR)</td></tr>
+<tr><td>36.1</td><td>out of which capital repayments (in EUR)</td></tr>
+<tr><td>36.2</td><td>out which gains, other earnings and yields (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>37</td><td>Amount of resources attributable to the ESI Funds used in accordance with Articles 43a and 44</td></tr>
+<tr><td>37.1</td><td>out of which amounts paid for differentiated treatment of investors operating under the market economy principle, who provide counterpart resources to the support from the ESI Funds to the financial instrument or who co-invest at the level of the final recipient (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>37.2</td><td>out of which amounts paid for the reimbursement of management costs incurred and payment of management fees of the financial instrument (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>37.3</td><td>out of which amounts to cover losses in the nominal amount of the ESI Funds contribution to the financial instrument resulting from negative interest, if such losses occur despite active treasury management by the bodies implementing financial instruments (in EUR)</td></tr>
+<tr><td>40</td><td>Value of equity investments, with respect to previous years (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">VIII. Progress in achieving the expected leverage effect of investments made by the financial instrument (Article 46(2)(h) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38</td><td>Total amount of other contributions, outside ESI Funds, raised by the financial instrument (EUR)</td></tr>
+<tr><td>38.1</td><td>Total amount of other contributions, outside ESI Funds committed in the funding agreement with the body implementing the financial instrument (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.1A</td><td>Contribution under the EIB financial product committed in the funding agreement with the body implementing the financial instrument (only for the instruments under Article 38(1)(c)) (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.2</td><td>Total amount of other contributions, outside ESI Funds paid to the financial instrument (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.2A</td><td>Contribution under EIB financial product paid to financial instrument (only for the instruments under Article 38(1)(c)) (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.2.1</td><td>out of which public contributions (EUR)</td></tr>
+<tr><td>38.2.2</td><td>out of which private contributions (EUR)</td></tr>
+<tr><td>38.3</td><td>Total amount of other contributions, outside ESI Funds mobilised at the level of final recipients (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.3A</td><td>Contribution under EIB financial product mobilised at the level of final recipient (only for the instruments under Article 38(1)(c)) (in EUR)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>38.3.1</td><td>out of which public contributions (EUR)</td></tr>
+<tr><td>38.3.2</td><td>out of which private contributions (EUR)</td></tr>
+<tr><td>39</td><td>Expected and achieved leverage effect, by reference to the funding agreement</td></tr>
+<tr><td>39.1</td><td>Expected leverage effect for loan/guarantee/equity or quasi-equity investment/other financial product, by reference to the funding agreement, by product</td></tr>
+<tr><td>39.2</td><td>Achieved leverage effect at the end of the reporting year for loan/guarantee/equity or quasi-equity investment/other financial product, by product</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">IX. Contribution of the financial instrument to the achievement of the indicators of the priority or measure concerned (Article 46(2)(j) of Regulation (EU) No 1303/2013)</td></tr>
+<tr><td>41</td><td>Output indicator (code number and name) to which the financial instrument contributes</td></tr>
+<tr><td>41.1</td><td>Target value of the output indicator</td></tr>
+<tr><td>41.2</td><td>Value achieved by the financial instrument in relation to the target value of the output indicator</td></tr>
+<tr><td colspan="2">(1)  This includes the YEI specific allocation and the matching ESF support. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Graphic standards for creating the Union emblem and the definition of the standard colours
+
+**SYMBOLIC DESCRIPTION**
+
+Against a background of blue sky, twelve golden stars form a circle representing the union of the peoples of Europe. The number of stars is fixed, twelve being the symbol of perfection and unity.
+
+**HERALDIC DESCRIPTION**
+
+On an azure field a circle of twelve golden mullets, their points not touching.
+
+**GEOMETRIC DESCRIPTION**
+
+The emblem has the form of a blue rectangular flag of which the fly is one and a half times the length of the hoist. Twelve gold stars situated at equal intervals form an invisible circle whose center is the point of intersection of the diagonals of the rectangle. The radius of the circle is equal to one third of the height of the hoist. Each of the stars has five points which are situated on the circumference of an invisible circle whose radius is equal to one eighteenth of the height of the hoist. All the stars are upright, i.e. with one point vertical and two points in a straight line at right angles to the mast. The circle is arranged so that the stars appear in the position of the hours on the face of a clock. Their number is invariable.
+
+**REGULATION COLOURS**
+
+The emblem is in the following colours:
+
+— PANTONE REFLEX BLUE for the surface of the rectangle;
+
+— PANTONE YELLOW for the stars.
+
+**FOUR-COLOUR PROCESS**
+
+If the four-colour process is used, recreate the two standard colours by using the four colours of the four-colour process.
+
+PANTONE YELLOW is obtained by using 100 % ‘Process Yellow’.
+
+PANTONE REFLEX BLUE is obtained by mixing 100 % ‘Process Cyan’ and 80 % ‘Process Magenta’.
+
+**INTERNET**
+
+PANTONE REFLEX BLUE corresponds in the web-palette colour RGB:0/51/153 (hexadecimal: 003399) and PANTONE YELLOW corresponds in the web-palette colour RGB: 255/204/0 (hexadecimal: FFCC00).
+
+**MONOCHROME REPRODUCTION PROCESS**
+
+Using black, outline the rectangle in black and print the stars in black on white.
+
+Using blue (Reflex Blue), use 100 % with the stars reproduced in negative white.
+
+**REPRODUCTION ON A COLOURED BACKGROUND**
+
+If there is no alternative to a coloured background, put a white border around the rectangle, the width of the border being 1/25th of the height of the rectangle.
+
+( 1 ) Decision No 922/2009/EC of the European Parliament and of the Council of 16 September 2009 on interoperability solutions for European public administrations (ISA) (OJ L 260, 3.10.2009, p. 20).
+
+( 2 ) Commission Delegated Regulation (EU) No 480/2014 of 3 March 2014 supplementing Regulation (EU) No 1303/2013 of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund (OJ L 138, 13.5.2014, p. 5).

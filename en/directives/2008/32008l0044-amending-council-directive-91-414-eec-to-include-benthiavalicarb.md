@@ -122,6 +122,7 @@ Member of the Commission
 
 In Annex I to Directive 91/414/EEC, the following rows are added at the end of the table:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (*1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘169</td><td>Benthiavalicarb CAS No 413615-35-7  CIPAC No 744 </td><td>[(S)-1-{[(R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-methylpropyl]carbamic acid</td><td>≥ 910 g/kg The following manufacturing impurities are of toxicological concern and each of them must not exceed a certain amount in the technical material: <table><tbody><tr><td></td><td>6,6′-difluoro-2,2′-dibenzothiazole: &lt; 3,5 mg/kg</td></tr>
 </tbody>
@@ -199,5 +200,6 @@ In Annex I to Directive 91/414/EEC, the following rows are added at the end of t
 </table>
  They shall ensure that the notifier at whose request prothioconazole has been included in this Annex provide such studies to the Commission within two years from the entry into force of the Directive of inclusion.’ </td></tr>
 </tbody>
+</table>
 
 (*1) Further details on identity and specification of active substances are provided in the review report.

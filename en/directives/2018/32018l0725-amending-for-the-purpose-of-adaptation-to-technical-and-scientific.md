@@ -38,7 +38,7 @@ Whereas:
 
 (5) Applying 10 % of the virtually safe dose, multiplied by the average weight of a child under three years of age, estimated at 7,5 kg, divided by the daily quantity of scraped-off toy material ingested, estimated at 8 mg/day, and multiplied by
 
-![Formula](data:image/jpg;base64,/9j/4AAQSkZJRgABAQABLAEsAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/wAALCAA6ABYBAREA/8QAHAAAAgEFAQAAAAAAAAAAAAAABwgAAQIDBAYJ/8QALxAAAQMDAwMBBgcBAAAAAAAAAQIDBAUGEQAHEggTITEJFBUWUWEYOUFWd5a11P/aAAgBAQAAPwD1MnTYlMhSKjPfSzGiNLfecV6IbSCVKP2ABOgtt91g7Qbqbyq2WsN2r1KoIoTtf+JKp7keCthD6WSG1uhKncqVkLQkoIBwrIxo4amk3Y/Nhk/w0n/S05GrV8uJ4Y5Y8Z9M6UWPsH1WN9Usjqbdm7TrlPWum000pMqpBtEYPh7u9zs5LmQrxgDBH0yW7GcDljOPONc7fm4VqbaUVNw3jOkxYC30xg5HgSJiu4oEgcGELXjCT5xj7+Roffi82E/c9a/qlX/5dFC2Lmo140CFc9vSHX6dUG+7HcdjOx1qTkjJbdSlafIPhSQdZ61WqTblIm3BXqlHp9NpsdyVLlyHAhphlCSpa1qPgJABJP20BJ/W9tnb8u3Zl6Wfe9sWndzyWKFdtVpKW6XMWvHa5FLinmA4DlBebQCkFXp50wyFpcSFoUFJUMgg5BH11zm5Vh0jdLb25Nt6+9Iaptz0uTSpTkZQS6hp5soUpBIICgFZGQRpJ+rvb6FN2h299nXtFJq9z3JUnoTz8qbJEh2jUaK9zXNmL8cE5IQ2kgAhJSn0SC9luUVm27epduxnlvNUuExCbccxyWlpAQFHHjJCc6pcvzF8vVL5REA1z3R34d8QUtMb3nie33SgFXDljPEE4zjSJ2v0te0Jtmh3HQWd29n3lXkuUq4Ku9Alrqk73gFCyqQWgrKUHi2BhKAlISBjT4UOlMUKi0+hxVuKZp0VqI2pxZWspbQEgqUfJOB5P663tTU1/9k=)
+[image]
 
 led the SCHER to propose, in its above-mentioned opinion on ‘Chromium VI in toys’, 0,0094 mg/kg as a revised limit value for chromium VI in scraped-off toy material.
 

@@ -1,0 +1,768 @@
+---
+title: "Council Regulation (EU) No 747/2014 of 10 July 2014 concerning restrictive measures in view of the situation in Sudan and repealing Regulations (EC) No 131/2004 and (EC) No 1184/2005"
+identifier: "32014R0747"
+eli: "http://data.europa.eu/eli/reg/2014/747/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-07-10
+entry_into_force: 2014-05-26
+last_amended: 2026-06-22
+consolidated_version: "02014R0747-20260622"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0747-20260622"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 747/2014 of 10 July 2014 concerning restrictive measures in view of the situation in Sudan and repealing Regulations (EC) No 131/2004 and (EC) No 1184/2005
+
+**COUNCIL REGULATION (EU) No 747/2014**
+
+**of 10 July 2014**
+
+**concerning restrictive measures in view of the situation in Sudan and repealing Regulations (EC) No 131/2004 and (EC) No 1184/2005**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/401 of 7 March 2017 </td><td> L 63</td><td>3</td><td>9.3.2017</td></tr>
+<tr><td> M2</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/1942 of 25 October 2017 </td><td> L 276</td><td>1</td><td>26.10.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/512 of 27 March 2018 </td><td> L 84</td><td>13</td><td>28.3.2018</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/804 of 20 May 2021 </td><td> L 180</td><td>1</td><td>21.5.2021</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3114 of 9 December 2024 </td><td> L 3114</td><td>1</td><td>10.12.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/531 of 5 March 2026 </td><td> L 531</td><td>1</td><td>5.3.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1051 of 7 May 2026 </td><td> L 1051</td><td>1</td><td>7.5.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1393 of 22 June 2026 </td><td> L 1393</td><td>1</td><td>22.6.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) No 747/2014**
+
+**of 10 July 2014**
+
+**concerning restrictive measures in view of the situation in Sudan and repealing Regulations (EC) No 131/2004 and (EC) No 1184/2005**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology, or of financial and technical services, from a third country to any other third country; or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, that are located in third countries for their transfer to another third country;
+
+(b) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(c) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for that purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(d) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(e) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(f) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(g) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(h) ‘funds’ means financial assets and benefits of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly- and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(i) ‘Sanctions Committee’ means the UN Security Council Committee established pursuant to paragraph 3 of UNSCR 1591 (2005);
+
+(j) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services, including verbal forms of assistance;
+
+(k) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+It shall be prohibited to:
+
+(a) provide technical assistance or brokering services related to military activities and to the provision, manufacture, maintenance and use of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment, and spare parts therefor, directly or indirectly to any natural or legal person, entity or body in, or for use in Sudan;
+
+(b) provide financing or financial assistance related to military activities, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance, for any sale, supply, transfer or export of arms and related materiel, or for the provision of related technical assistance, directly or indirectly to any natural or legal person, entity or body in, or for use in Sudan.
+
+## Article 3
+
+By way of derogation from Article 2, the competent authorities of Member States may authorise the provision of financing and financial assistance, technical assistance and brokering services related to:
+
+(a) non-lethal military equipment intended solely for humanitarian, human rights monitoring or protective use, or for institution-building programmes of the UN, the African Union (AU), the European Union;
+
+(b) materiel intended for European Union, UN and AU crisis management operations;
+
+(c) de-mining equipment and materiel for use in de-mining operations.
+
+## Article 4
+
+Article 2 shall not apply to protective clothing, including flak jackets and military helmets, temporarily exported to Sudan by UN personnel, personnel of the European Union or its Member States, representatives of the media, humanitarian and development workers and associated personnel for their personal use only.
+
+## Article 5
+
+1\. All funds and economic resources belonging to, owned or controlled, directly or indirectly, by the natural or legal persons, entities or bodies listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include natural or legal persons, entities or bodies who impede the peace process, constitute a threat to stability in Darfur and the region, commit violations of international humanitarian or human rights law or other atrocities, violate the arms embargo and/or are responsible for offensive military overflights in and over the Darfur region, as designated by the Sanctions Committee.
+
+4\. Paragraphs 1, 2 and 3 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental Organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Sanctions Committee as regards Annex I.
+
+## Article 6
+
+1\. By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, provided that the following conditions are met:
+
+(a) the competent authority concerned has determined that the funds or economic resources are:
+
+(i) necessary for the basic needs of natural or legal persons, entities or bodies listed in Annex I, and dependant family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(ii) intended exclusively for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services; or
+
+(iii) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources; and
+
+(b) the Member State concerned has notified the Sanctions Committee of the determination referred to in point (a) and its intention to grant an authorisation, and the Sanctions Committee has not objected to that course of action within two working days of such notification.
+
+2\. By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources or the making available of certain frozen funds or economic resources, after having determined that the funds or economic resources are necessary for extraordinary expenses, provided that the Member State concerned has notified the Sanctions Committee of that determination and the Sanctions Committee has approved that determination.
+
+## Article 7
+
+By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are the subject of a judicial, administrative or arbitral lien established prior to the date on which the person, entity or body referred to in Article 5 was included in Annex I, or of a judicial, administrative or arbitral judgment rendered prior to that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a lien or recognised as valid in such a judgment, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the lien or judgment is not for the benefit of a person, entity or body listed in Annex I;
+
+(d) recognising the lien or judgment is not contrary to public policy in the Member State concerned; and
+
+(e) the Sanctions Committee has been notified by the Member State of the lien or judgment.
+
+## Article 8
+
+1\. Article 5(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions that receive funds transferred by third parties to the account of the person, entity or body listed in Annex I, provided that any such additions to such accounts will also be frozen. The financial or credit institutions shall inform the relevant competent authority about any such transactions without delay.
+
+2\. Article 5(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which the natural or legal person, entity or body referred to in Article 5 has been included in Annex I; or
+
+(c) payments due under a judicial, administrative or arbitral lien or judgment, as referred to in Article 7;
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 5(1).
+
+## Article 9
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any such information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 5, to the competent authority of the Member States where they are resident or located, and transmit any such information, directly or through these competent authorities, to the Commission; and
+
+(b) cooperate with the competent authorities listed in Annex II in any verification of this information.
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 10
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2 and Article 5(1), (2), and (3).
+
+## Article 11
+
+1\. The freezing of funds and economic resources, or the refusal to make funds or economic resources available, carried out in good faith and on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 12
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, particularly a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 13
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular, information in respect of:
+
+(a) funds frozen under Article 5 and authorisations granted under Articles 6, 7 and 8;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 14
+
+The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 15
+
+1\. Where the UN Security Council or the Sanctions Committee lists a natural or legal person, entity or body and has provided a statement of reasons for the designation, the Council shall include that natural or legal person, entity or body in Annex I. The Council shall communicate its decision and the statement of reasons to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+2\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body accordingly.
+
+3\. Where the United Nations decides to de-list a person, entity or body, or to amend the identifying data of a listed natural or legal person, entity or body, the Council shall amend Annex I accordingly.
+
+## Article 16
+
+Annex I shall include, where available, information provided by the UN Security Council or by the Sanctions Committee necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business. Annex I shall also include the date of designation by the Security Council or by the Sanctions Committee.
+
+## Article 17
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify those rules to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 18
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 19
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 20
+
+Regulations (EC) No 131/2004 and (EC) No 1184/2005 are hereby repealed. References to the repealed Regulations shall be construed as references to this Regulation and Regulation (EU) No 748/2014.
+
+## Article 21
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 5
+
+**A. Natural persons**
+
+**1\. ELHASSAN, Gaffar Mohammed**
+
+Alias: Gaffar Mohmed Elhassan
+
+Designation: Major-General and Commander of the Western Military Region for the Sudanese Armed Forces (SAF)
+
+National identification no: Ex-serviceman's identification card 4302
+
+Date of birth: 24 June 1952
+
+Address: El Waha, Omdurman, Sudan
+
+Date of UN designation: 25 April 2006
+
+Other information: Retired from the Sudanese Army. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5282254
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+The Panel of Experts report that Major-General Gaffar Mohammed Elhassan stated to them that he had direct operational command (primarily tactical command) of all elements of the SAF in Darfur while he was in command of the Western Military Region. Elhassan held this position as Western Military Area Commander from November 2004 (approx.)-early 2006. The Panel's information is that Elhassan was responsible for violations of paragraph 7 of SCR 1591 as by virtue of this position he requested (from Khartoum) and authorised (since 29 March 2005) the transfer of military equipment into Darfur without the prior approval of the 1591 Committee. Elhassan himself admitted to the Panel of Experts that aircraft, aircraft engines and other military equipment had been brought into Darfur from other parts of Sudan between 29 March 2005 and December 2005. For example he informed the Panel that 2 Mi-24 attack helicopters were brought unauthorised into Darfur between 18 and 21 September 2005. There are also reasonable grounds to believe that Elhassan was directly responsible, as Western Military Area Commander, for authorising offensive military flights in the area around Abu Hamra, 23-24 July 2005 and in the Jebel Moon area of Western Darfur, on 19 November 2005. Mi-24 attack helicopters were involved in both operations and reportedly opened fire on both occasions. The Panel of Experts report that Elhassan indicated to the Panel that he himself approved requests for air support and other air operations in his capacity as Western Military Area Commander. (See Panel of Experts report, S/2006/65, paragraphs 266-269.) Through such actions Major-General Gaffar Mohammed Elhassan has breached relevant provisions of SCR 1591 and therefore meets the criteria to be designated by the Committee to be subjected to sanctions.
+
+**2\. ALNSIEM, Musa Hilal Abdalla**
+
+Alias: a) Sheikh Musa Hilal; b) Abd Allah; c) Abdallah; d) AlNasim; e) Al Nasim; f) AlNaseem; g) Al Naseem; h) AlNasseem; i) Al Nasseem
+
+Designation: a) formerly Member of the National Assembly of Sudan from Al-Waha district, b) formerly special adviser to the Ministry of Federal Affairs, c) Paramount Chief of the Mahamid Tribe in North Darfur
+
+Date of birth: a) 1 Jan. 1964; b) 1959;
+
+Place of birth: Kutum;
+
+Address: a) Kabkabiya, Sudan; b) Kutum, Sudan (Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided in Khartoum).
+
+Nationality: Sudan
+
+Passport: a) Diplomatic Passport D014433, issued on 21 Feb. 2013 (Expired on 21 Feb. 2015);
+
+b) Diplomatic Passport D009889, issued on 17 Feb. 2011 (Expired on 17 Feb. 2013)
+
+National identification No: Certificate of Nationality A0680623.
+
+Date of UN designation: 25 April 2006.
+
+Other information: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5795065
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Report from Human Rights Watch states they have a memo dated 13 February 2004 from a local government office in North Darfur ordering ‘security units in the locality’ to ‘allow the activities of the mujahedeen and the volunteers under the command of the Sheikh Musa Hilal to proceed in the areas of [North Darfur] and to secure their vital needs’. On 28 September 2005, 400 Arab militia attacked the villages of Aro Sharrow (including its IDP camp), Acho, and Gozmena in West Darfur. We also believe that Musa Hilal was present during the attack on Aro Sharrow IDP camp: his son had been killed during the SLA attack on Shareia, so he was now involved in a personal blood feud. There are reasonable grounds to believe that as the Paramount Chief he had direct responsibility for these actions and is responsible for violations of international humanitarian and human rights law and other atrocities.
+
+**4\. MAYU, Jibril Abdulkarim Ibrahim**
+
+Alias: a) General Gibril Abdul Kareem Barey; b) ‘Tek’; c) Gabril Abdul Kareem Badri
+
+Designation: National Movement for Reform and Development (NMRD) Field Commander
+
+Date of birth: 1 Jan. 1967
+
+Place of birth: El-Fasher, North Darfur
+
+Nationality: Sudanese by birth
+
+Address: Tine, Sudan (Resides in Tine, on the Sudanese side of the border with Chad)
+
+National Identification Number: a) 192-3238459- 9, b) Certificate of nationality acquired through birth 302581
+
+Date of UN designation: 25 April 2006.
+
+Other information: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5795071
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Mayu is responsible for the kidnapping of African Union Mission in Sudan (AMIS) personnel in Darfur during October 2005. Mayu openly attempts to thwart the AMIS mission through intimidation; for example he threatened to shoot down African Union (AU) helicopters in the Jebel Moon area in November 2005. Through such actions Mayu has clearly violated SCR 1591 in constituting a threat to stability in Darfur and meets the criteria to be designated by the Committee to be subjected to sanctions.
+
+**5\. JUMA BARKALLA, Abdel Rahman**
+
+Designation: Rapid Support Forces (RSF) Major General and West Darfur Commander.
+
+Date of birth: 1 January 1969.
+
+Place of birth: Bahr Elarab, East Darfur, Sudan.
+
+Nationality: Sudan.
+
+Passport: Sudan P07834700.
+
+National identification no: Sudan 21052659309.
+
+Date of UN designation: 8 November 2024.
+
+Reason for listing:
+
+Abdel Rahman Juma Barkalla was listed on 8 November 2024 pursuant to paragraph 3(c) of UNSC Resolution 1591(2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Abdel Rahman Juma Barkalla, Major General of the RSF and West Darfur Commander, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. The RSF’s attacks in Darfur have put hundreds of thousands of civilians at risk due to intense fighting, lack of humanitarian access, and targeted violence toward civilians and human rights activists.
+
+In May and June 2023, representatives of civil society in El Geneina, West Darfur, faced targeted threats and killings by the RSF and allied militia. On August 4, 2023, gunmen in RSF uniforms also abducted and killed human rights activist and lawyer Ahmed Mohammed Abdullah and his colleague Adam Omer in Nyala, South Darfur.
+
+The Governor of West Darfur, Khamis Abakar, was killed on June 14, 2023, and was last seen with Barkalla (see S/2024/65, para 71). Videos on social media showed Abakar being forced into a building by RSF soldiers, followed by a second video hours later showing Abakar’s dead body and troops in RSF uniforms celebrating around it.
+
+Between May and November 2023, the RSF and its allied militia carried out at least 10 attacks against civilians in the West Darfur towns of El-Geneina and Ardamata, killing thousands of people and burying them in more than 13 mass graves. Women and girls were also reportedly raped and sexually abused during these attacks.
+
+**6\. HAMID MOHAMED, Osman Mohamed**
+
+Designation: Rapid Support Forces (RSF) Major General and Head of RSF Operations Department.
+
+Date of birth: 1 January 1966.
+
+Place of birth: Kadiqali, South Darfur, Sudan.
+
+Nationality: Sudan.
+
+National identification no: Sudan 11540384888.
+
+Date of UN designation: 8 November 2024.
+
+Reason for listing:
+
+Osman Mohamed Hamid Mohamed was listed on 8 November 2024 pursuant to paragraph 3(c) of UNSC Resolution 1591(2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Osman Mohamed Hamid Mohamed, Major General and Head of RSF Operations Department, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. He has given statements on behalf of the RSF after large victories and is an important part of RSF operational planning. The RSF’s attacks in Darfur have put hundreds of thousands of civilians at risk due to intense fighting, lack of humanitarian access, and targeted violence toward civilians and human rights activists.
+
+In May and June 2023, representatives of civil society in El Geneina, West Darfur, faced targeted threats and killings by the RSF and allied militia. On August 4, 2023, gunmen in RSF uniforms also abducted and killed human rights activist and lawyer Ahmed Mohammed Abdullah and his colleague Adam Omer in Nyala, South Darfur.
+
+On June 14, 2023, the Governor of West Darfur, Khamis Abakar, was killed after being taken into custody by RSF fighters earlier that day. Videos on social media showed Abakar being forced into a building by RSF soldiers, followed by a second video hours later showing Abakar’s dead body and troops in RSF uniforms celebrating around it.
+
+Between May and November 2023, the RSF and its allied militia carried out at least 10 attacks against civilians in the West Darfur towns of El-Geneina and Ardamata, killing thousands of people and burying them in more than 13 mass graves. Women and girls were also reportedly raped and sexually abused during these attacks.
+
+**7\. GEDO, Hamdan Ahmed**
+
+Alias Abu Nashuk
+
+Designation: Commander for the North Darfur section of the Rapid Support Forces.
+
+Nationality: Sudan.
+
+Gender: Male.
+
+Date of UN designation: 24 February 2026.
+
+Reason for listing:
+
+Gedo Hamdan Ahmed was listed on 24 February 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Gedo Hamdan Ahmed, or Abu Nashuk, Lieutenant General and Deputy Commander of the RSF, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. Abu Nashuk was one of six RSF generals present in El Fasher, North Darfur on 26 October 2025 and was seen in video footage alongside Abdul Rahim Hamdan Dagalo, Deputy Commander of the RSF. On this date the RSF committed atrocities including the mass killings of civilians at El Fasher university and the Saudi hospital, and shootings northwest of Darfur. The violence in El Fasher also included ethnically targeted executions of Zaghawa and other non-Arab groups. There are reports of widespread sexual violence including gang rape in front of relatives, and other gender-based sexual violence. RSF troops are reported to be holding medical staff hostage for ransom, kidnapping four doctors, a pharmacist and a nurse for ransoms in excess of $150 000 . The events in El Fasher have reportedly displaced 70 000 people since 26 October 2025, with civilians remaining trapped or missing, or being held by the RSF inside the city.
+
+**8\. DAGALO, Abdul Rahim Hamdan**
+
+Designation: Rapid Support Forces (RSF) Deputy Leader.
+
+Date of birth: 1 January 1972.
+
+Place of birth: Khartoum, Sudan.
+
+Nationality: Sudan.
+
+Gender: Male.
+
+Date of UN designation: 24 February 2026.
+
+Reason for listing:
+
+Abdul Rahim Hamdan Dagalo was listed on 24 February 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Abdul Rahim Hamdan Dagalo, Deputy Commander of the RSF and brother of the RSF commander, Mohamed Hamdan ‘Hemedti’ Dagalo, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. Dagalo was identified as being present at the SAF 6th Infantry Division base in El Fasher, North Darfur on 26 October 2025, and overseeing operations on the day of the takeover of El Fasher by the RSF. Footage believed to be of Dagalo shows him giving direct orders to his fighters to not take captives but to kill everyone. Dagalo has previously been described as playing a key role in many of the offensives that the military and RSF undertook in Sudan’s border regions, and is seen as the commander in control of the RSF. On 26 October, the RSF committed atrocities including the mass killings of civilians at El Fasher university and the Saudi hospital, and shootings northwest of Darfur. The violence in El Fasher also included ethnically targeted executions of Zaghawa and other non-Arab groups. There are reports of widespread sexual violence including gang rape in front of relatives, and other gender-based sexual violence. RSF troops are reported to be holding medical staff hostage for ransom, kidnapping four doctors, a pharmacist and a nurse -for ransoms in excess of $150 000 . The events in El Fasher have reportedly displaced 70 000 people since 26 October 2025, with civilians remaining trapped or missing, or being held by the RSF inside the city.
+
+**9\. AL-FATEH, Abdullah Idris**
+
+Alias: Abu Lulu
+
+Designation: Brigadier General of Rapid Support Forces.
+
+Nationality: Sudan.
+
+Gender: Male.
+
+Date of UN designation: 24 February 2026.
+
+Reason for listing:
+
+Al-Fateh Abdullah Idris was listed on 24 February 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Al-Fateh Abdullah Idris, known as Abu Lulu, Brigadier General of the RSF, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. On the 26 October, the RSF committed atrocities including the mass killings of civilians at El Fasher university and the Saudi hospital, and shootings northwest of Darfur. Abu Lulu is known as ‘the Butcher of El Fasher’, a key perpetrator of the violence in El Fasher on 26 October. He gave orders to his men to kill innocent people, and video footage shows him executing civilians and boasting about killing over 2 000 people. Some videos were filmed and publicised by the RSF themselves, and Abu Lulu has filmed himself smiling and killing people while they begged for mercy, as well as videos where he makes ethnically targeted executions. Footage shows him shooting at unarmed men and posing amongst corpses showing the people he has killed. The events in El Fasher have reportedly displaced 70 000 people since 26 October 2025, with civilians remaining trapped or missing, or being held by the RSF inside the city.
+
+**10\. MOHAMED Tijani Ibrahim Moussa**
+
+Alias: Al Zeir Salem
+
+Designation: Field Commander of the Rapid Support Forces.
+
+Nationality: Sudan.
+
+Gender: Male.
+
+Date of UN designation: 24 February 2026.
+
+Reason for listing:
+
+Tijani Ibrahim Moussa Mohamed was listed on 24 February 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Tijani Ibrahim Moussa Mohamed (Al Zeir Salem), field commander of the RSF, is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur, including acts of violence and human rights abuses. Al Zeir Salem was identified as being present at the SAF 6th Infantry Division base in El Fasher, North Darfur on 26 October 2025, on the day of the RSF takeover. He also appeared in a video on this date in which he can be seen addressing a large group of detained individuals in civilian clothing. On this date the RSF committed atrocities including the mass killings of civilians at El Fasher university and the Saudi hospital, and shootings northwest of Darfur. The violence in El Fasher also included ethnically targeted executions of Zaghawa and other non-Arab groups. There are reports of widespread sexual violence including gang rape in front of relatives, and other gender-based sexual violence. RSF troops are reported to be holding medical staff hostage for ransom, kidnapping four doctors, a pharmacist and a nurse -for ransoms in excess of $150 000 . The events in El Fasher have reportedly displaced 70 000 people since 26 October 2025, with civilians remaining trapped or missing, or being held by the RSF inside the city.
+
+**11\. QUIJANO BECERRA, Alvaro Andres**
+
+Designation: Founder of International Services Agency (A4SI).
+
+Date of birth: 18 July 1967.
+
+Place of birth: Bogota, Colombia.
+
+Nationality: (a) Colombia; (b) Italy.
+
+Gender: Male.
+
+Passport: (a) Colombia number AP628498; (b) Italy number YB7731256 (Expires on 1 March 2031).
+
+National identification No: Colombia Cedula No. 80413253.
+
+Date of UN designation: 28 April 2026.
+
+**Reason for listing:**
+
+Alvaro Andres Quijano Becerra was listed on 28 April 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+**Information from the narrative summary of reasons for listing provided by the Sanctions Committee:**
+
+Alvaro Andres Quijano Becerra (Quijano) is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur.
+
+Quijano plays a central role in recruiting and deploying former Colombian military personnel to Sudan. Video and photographic evidence shows these military personnel providing the Rapid Support Forces (RSF) with tactical and technical expertise, serving as infantry and artillerymen, drone pilots, vehicle operators, and instructors, with some even training children to fight in the RSF.
+
+The Colombian fighters have participated in numerous battles across Sudan, including in its capital, Khartoum, as well as Omdurman, Kordofan, and El Fasher.
+
+Quijano, a former associate of the Colombia-based Notre del Valle Cartel, is supported by a network of associates and companies that specialize in recruiting fighters and facilitating the movement of funds related to their deployment. Quijano co-founded an employment agency, International Services Agency (A4SI), that is the main recruiting node, having engaged in campaigns via its website, group chats, and townhalls to fill positions, including drone operators, snipers, and translators. Between 350 and 380 Colombian fighters, mostly retired soldiers, were recruited through several private security firms, including A4SI.
+
+Related listed individuals and entities
+
+Claudia Vivana Oliveros Forero (SDi.013), Mateo Andres Duque Botero (SDi.014).
+
+**12\. OLIVEROS FORERO, Claudia Viviana**
+
+Designation: Owner and manager of International Services Agency (A4SI).
+
+Date of birth: 2 January 1973.
+
+Place of birth: Bogota, Colombia.
+
+Nationality: Colombia.
+
+Gender: Female.
+
+Passport: Colombia number AZ321704 (Expires on 20 July 2032).
+
+National identification No: Colombia Cedula No. 52252815.
+
+Date of UN designation: 28 April 2026.
+
+**Reason for listing:**
+
+Claudia Viviana Oliveros Forero was listed on 28 April 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+**Information from the narrative summary of reasons for listing provided by the Sanctions Committee:**
+
+Claudia Viviana Oliveros Forero (Oliveros) is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur.
+
+Oliveros plays a central role in recruiting and deploying former Colombian military personnel to Sudan. Video and photographic evidence shows these military personnel providing the Rapid Support Forces (RSF) with tactical and technical expertise, serving as infantry and artillerymen, drone pilots, vehicle operators, and instructors, with some even training children to fight in the RSF.
+
+The Colombian fighters have participated in numerous battles across Sudan, including in its capital, Khartoum, as well as Omdurman, Kordofan, and El Fasher. Oliveros is the owner and manager of an employment agency, International Services Agency (A4SI), that is the main recruiting node, having engaged in campaigns via its website, group chats, and townhalls to fill positions, including drone operators, snipers, and translators. Between 350 and 380 Colombian fighters, mostly retired soldiers, were recruited through several private security firms, including A4SI.
+
+Related listed individuals and entities
+
+Alvaro Andres Quijano Becerra (SDi.012) Mateo Andres Duque Botero (SDi.014).
+
+**13\. DUQUE BOTERO, Mateo Andres**
+
+Date of birth: 7 April 1975.
+
+Place of birth: Bogota, Colombia.
+
+Address: Calle 77 9 76 APT 302, Bogota, Colombia.
+
+Nationality: (a) Colombia; (b) Spain.
+
+Gender: Male.
+
+Passport: (a) Colombia number AS272175 (Expired on 31 March 2026); (b) Spain number XDD789846; (c) Colombia number BF868819 (Expires on 1 March 2035).
+
+National identification No: Colombia Cedula No. 79782423.
+
+Date of UN designation: 28 April 2026.
+
+**Reason for listing:**
+
+Mateo Andres Duque Botero was listed on 28 April 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+**Information from the narrative summary of reasons for listing provided by the Sanctions Committee:**
+
+Mateo Andres Duque Botero (Duque) is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur.
+
+Duque plays a central role in financing former Colombian military personnel in Sudan. He manages Maine Global Corp, which manages and disburses funds for Global Staffing (now Talent Bridge) and the company that hires Colombian military personnel, with the support of U.S.-based firms associated with Duque. This includes processing payroll payments for Colombian fighters and serving as a foreign exchange intermediary, converting euros and Colombian pesos to U.S. dollars. In 2024 and 2025, U.S.-based firms associated with Duque engaged in numerous wire transfers, totalling millions of U.S. dollars, with Maine Global Corp, Global Staffing, and the company hiring the Colombian fighters.
+
+Video and photographic evidence shows these Colombian fighters providing the Rapid Support Forces (RSF) with tactical and technical expertise, serving as infantry and artillerymen, drone pilots, vehicle operators, and instructors, with some even training children to fight in the RSF.
+
+The Colombian fighters have participated in numerous battles across Sudan, including in its capital, Khartoum, as well as Omdurman, Kordofan, and El Fasher
+
+Related listed individuals and entities
+
+Alvaro Andres Quijano Becerra (SDi.012), Claudia Viviana Oliveros Forero (SDi.013).
+
+**14\. DAGALO, Al-Goney Hamdan**
+
+Alias: (a) Algoney Hamdan; (b) Al-Qoni Hamdan.
+
+Designation: Director of the Rapid Support Forces.
+
+Date of birth: 7 August 1990.
+
+Place of birth: Nayala North, Sudan.
+
+Address: Dubai, United Arab Emirates.
+
+Nationality: Sudan.
+
+Gender: Male.
+
+Passport: (a) Sudan number B00017334; (b) Sudan number B00024943 (Expires on 27 September 2031); (c) Kenya number AK1586127.
+
+National identification No: United Arab Emirates 784199014302485.
+
+Date of UN designation: 28 April 2026.
+
+Reason for listing:
+
+Al-Goney Hamdan Dagalo was listed on 28 April 2026 pursuant to paragraph 3 (c) of resolution 1591 (2005).
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Al-Goney Hamdan Dagalo (Al-Goney) is being designated for engaging in actions or policies that threaten the peace, security, or stability of Darfur.
+
+Al-Goney is the procurement director of the Rapid Support Forces (RSF) and a brother of Mohammed Hamdan ‘Hemedti’ Dagalo, the leader of the RSF. Al-Goney has extended this war by leading RSF efforts to procure weapons and military materiel. By arming the RSF, his actions have directly contributed to the RSF’s ongoing siege of El Fasher in North Darfur, a city of nearly two million vulnerable civilians, and the RSF’s operations elsewhere in Sudan.
+
+Al-Goney has controlled the RSF front company Tradive General Trading, which imported vehicles to Sudan on behalf of the RSF.
+
+**B. Legal persons, entities and bodies**
+
+## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATION TO THE EUROPEAN COMMISSION
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu

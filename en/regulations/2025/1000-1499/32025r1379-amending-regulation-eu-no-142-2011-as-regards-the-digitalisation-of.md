@@ -1,0 +1,132 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/1379 of 15 July 2025 amending Regulation (EU) No 142/2011 as regards the digitalisation of record keeping, the models for the commercial document and for health certificates for movement of animal by-products from restricted zones and for transport of unprocessed manure"
+identifier: "32025R1379"
+eli: "http://data.europa.eu/eli/reg_impl/2025/1379/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-07-15
+entry_into_force: 2025-12-31
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1379"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/1379 of 15 July 2025 amending Regulation (EU) No 142/2011 as regards the digitalisation of record keeping, the models for the commercial document and for health certificates for movement of animal by-products from restricted zones and for transport of unprocessed manure
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/1379**
+
+**of 15 July 2025**
+
+**amending Regulation (EU) No 142/2011 as regards the digitalisation of record keeping, the models for the commercial document and for health certificates for movement of animal by-products from restricted zones and for transport of unprocessed manure**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (1), and in particular Article 21(5), point (a) and point (b), and Article 22(1), thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1069/2009 requires that animal by-products and derived products be accompanied during transport within the Union by a commercial document or a health certificate where appropriate. In addition, operators are to keep records of consignments and related commercial documents and health certificates.
+
+(2) The models for the commercial document and for the health certificate for movement of animal by-products from restricted zones, as well as the duration for keeping records are set out in Annex VIII to Commission Regulation (EU) No 142/2011 (2).
+
+(3) Records and related documents are to be kept for a period of at least 2 years for presentation to the competent authority. Given that the Trade Control and Expert System (TRACES) (3) electronic system issues and records electronic versions of commercial documents and health certificates it is appropriate to exempt operators from the obligation to keep commercial documents where they have obtained them using TRACES. It is also appropriate to exempt operators from the obligation to keep animal health certificates for consignments of unprocessed manure where they have obtained them using TRACES.
+
+(4) The model health certificate for movements of animal by-products from restricted zones should be updated with the latest model set out in Commission Implementing Regulation (EU) 2020/2235 (4).
+
+(5) Regulation (EC) No 999/2001 of the European Parliament and of the Council (5) prohibits the movement into the Union of consignments of urine hunting lures derived from cervids originating in Norway, as well as the manufacture, placing on the market and use of urine hunting lures derived from cervids originating in the Member States listed in Chapter A, Section C, point 1.1, of Annex VIII to that Regulation. Those prohibitions should be reflected in the commercial document to ensure they are complied with.
+
+(6) Regulation (EU) No 142/2011 should therefore be amended accordingly.
+
+(7) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EU) No 142/2011 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 15 July 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 300, 14.11.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/1069/oj.
+
+(2) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, 26.2.2011, p. 1, ELI: http://data.europa.eu/eli/reg/2011/142/oj).
+
+(3) Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation) (OJ L 261, 14.10.2019, p. 37, ELI: http://data.europa.eu/eli/reg_impl/2019/1715/oj).
+
+(4) Commission Implementing Regulation (EU) 2020/2235 of 16 December 2020 laying down rules for the application of Regulations (EU) 2016/429 and (EU) 2017/625 of the European Parliament and of the Council as regards model animal health certificates, model official certificates and model animal health/official certificates, for the entry into the Union and movements within the Union of consignments of certain categories of animals and goods, official certification regarding such certificates and repealing Regulation (EC) No 599/2004, Implementing Regulations (EU) No 636/2014 and (EU) 2019/628, Directive 98/68/EC and Decisions 2000/572/EC, 2003/779/EC and 2007/240/EC (OJ L 442, 30.12.2020, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2020/2235/oj).
+
+(5) Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1, ELI: http://data.europa.eu/eli/reg/2001/999/oj).
+
+## ANNEX
+
+Regulation (EU) No 142/2011 is amended as follows:
+
+(1) in Annex VIII, Chapter III is amended as follows:
+
+(a) point 5 is replaced by the following:
+
+‘5. Records and related commercial documents or health certificates shall be kept for a period of at least two years for presentation to the competent authority.
+
+That obligation does not apply to health certificates for consignments of unprocessed manure and commercial documents for the transport within the European Union of animal by-products and derived products which are issued by means of the TRACES.’;
+
+(b) point 7 is replaced by the following:
+
+‘7. Model health certificate and Model commercial document
+
+Model health certificate for movements of animal by-products from restricted zones established for the prevention and control of certain listed diseases
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+Model commercial document
+
+For the transport within the European Union of animal by-products and derived products in accordance with Regulation (EC) No 1069/2009
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+’;
+
+(2) in Annex XI, Chapter I, Section 1, point 3 is replaced by the following:
+
+‘3. Model health attestation to be added to the commercial document:
+
+[image]
+
+[image]
+
+[image]
+
+’.
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/1379/oj
+
+ISSN 1977-0677 (electronic edition)

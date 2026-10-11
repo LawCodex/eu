@@ -1,0 +1,126 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/112 of 24 January 2018 renewing the approval of the low-risk active substance laminarin in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance. )"
+identifier: "32018R0112"
+eli: "http://data.europa.eu/eli/reg_impl/2018/112/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-01-24
+entry_into_force: 2019-01-25
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0112"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/112 of 24 January 2018 renewing the approval of the low-risk active substance laminarin in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/112**
+
+**of 24 January 2018**
+
+**renewing the approval of the low-risk active substance laminarin in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (1), and in particular Article 22(1) in conjunction with Article 20(1) thereof,
+
+Whereas:
+
+(1) Commission Directive 2005/3/EC (2) included laminarin as active substance in Annex I to Council Directive 91/414/EEC (3).
+
+(2) Active substances included in Annex I to Directive 91/414/EEC are deemed to have been approved under Regulation (EC) No 1107/2009 and are listed in Part A of the Annex to Commission Implementing Regulation (EU) No 540/2011 (4).
+
+(3) The approval of the active substance laminarin, as set out in Part A of the Annex to Implementing Regulation (EU) No 540/2011, expires on 31 July 2018.
+
+(4) An application for the renewal of the approval of laminarin was submitted in accordance with Article 1 of Commission Implementing Regulation (EU) No 844/2012 (5) within the time period provided for in that Article.
+
+(5) The applicant submitted the supplementary dossiers required in accordance with Article 6 of Implementing Regulation (EU) No 844/2012. The application was found to be complete by the rapporteur Member State.
+
+(6) The rapporteur Member State prepared a renewal assessment report in consultation with the co-rapporteur Member State and submitted it to the European Food Safety Authority (‘the Authority’) and the Commission on 22 April 2016.
+
+(7) The Authority communicated the renewal assessment report to the applicant and to the Member States for comments and forwarded the comments received to the Commission. The Authority also made the supplementary summary dossier available to the public.
+
+(8) On 3 May 2017 the Authority communicated to the Commission its conclusion (6) on whether the active substance laminarin can be expected to meet the approval criteria provided for in Article 4 of Regulation (EC) No 1107/2009. The Commission presented the draft renewal report for laminarin to the Standing Committee on Plants, Animals, Food and Feed on 5 October 2017.
+
+(9) The applicant was given the possibility to submit comments on the renewal report.
+
+(10) It has been established with respect to one or more representative uses of at least one plant protection product containing laminarin that the approval criteria provided for in Article 4 of Regulation (EC) No 1107/2009 are satisfied. It is therefore appropriate to renew the approval of laminarin.
+
+(11) The risk assessment for the renewal of the approval of laminarin is based on a limited number of representative uses, which however do not restrict the uses for which plant protection products containing laminarin may be authorised. It is therefore appropriate to remove the restriction for use only as an elicitor.
+
+(12) The Commission further considers that laminarin is a low-risk active substance pursuant to Article 22 of Regulation (EC) No 1107/2009. Laminarin is not a substance of concern and fulfils the conditions set in point 5 of Annex II to Regulation (EC) No 1107/2009. Laminarin is a polysaccharide found in brown algae and naturally ocurring in the environment. The additional exposure of humans, animals and the environment by the uses approved under Regulation (EC) No 1107/2009 is expected to be negligible compared to natural exposure.
+
+(13) It is therefore appropriate to renew the approval of laminarin as a low-risk substance.
+
+(14) In accordance with Article 20(3) of Regulation (EC) No 1107/2009, in conjunction with Article 13(4) thereof, the Annex to Implementing Regulation (EU) No 540/2011 should be amended accordingly.
+
+(15) Commission Implementing Regulation (EU) 2017/841 (7) extended the approval period of laminarin in order to allow the renewal process to be completed before the expiry of the approval of that substance. However, given that a decision on renewal has been taken ahead of the extended expiry date, this Regulation should apply from 1 March 2018.
+
+(16) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Renewal of the approval of active substance
+
+The approval of the low-risk active substance laminarin is renewed as set out in Annex I.
+
+## Article 2 — Amendments to Implementing Regulation (EU) No 540/2011
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended in accordance with Annex II to this Regulation.
+
+## Article 3 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 March 2018.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 January 2018.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 309, 24.11.2009, p. 1.
+
+(2) Commission Directive 2005/3/EC of 19 January 2005 amending Council Directive 91/414/EEC to include imazosulfuron, laminarin, methoxyfenozide and s-metolachlor as active substances (OJ L 20, 22.1.2005, p. 19).
+
+(3) Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market (OJ L 230, 19.8.1991, p. 1).
+
+(4) Commission Implementing Regulation (EU) No 540/2011 of 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European Parliament and of the Council as regards the list of approved active substances (OJ L 153, 11.6.2011, p. 1).
+
+(5) Commission Implementing Regulation (EU) No 844/2012 of 18 September 2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 252, 19.9.2012, p. 26).
+
+(6) EFSA Journal 2014;12(10):3868.
+
+(7) Commission Implementing Regulation (EU) 2017/841 of 17 May 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, Ampelomyces quisqualis strain: aq 10, benalaxyl, bentazone, bifenazate, bromoxynil, carfentrazone ethyl, chlorpropham, cyazofamid, desmedipham, diquat, DPX KE 459 (flupyrsulfuron-methyl), etoxazole, famoxadone, fenamidone, flumioxazine, foramsulfuron, Gliocladium catenulatum strain: j1446, imazamox, imazosulfuron, isoxaflutole, laminarin, metalaxyl-m, methoxyfenozide, milbemectin, oxasulfuron, pendimethalin, phenmedipham, pymetrozine, s-metolachlor, and trifloxystrobin (OJ L 125, 18.5.2017, p. 12).
+
+## ANNEX I
+
+| Common Name, Identification Numbers | IUPAC Name | Purity (1) | Date of approval | Expiration of approval | Specific provisions |
+| --- | --- | --- | --- | --- | --- |
+| Laminarin CAS No 9008-22-4 CIPAC No 671 | (1→3)-β-D-glucan (according to IUPAC-IUB Joint Commission on Biochemical Nomenclature) | ≥ 860 g/kg on dry matter (TC) | 1 March 2018 | 28 February 2033 | For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the renewal report on laminarin, and in particular Appendices I and II thereto, shall be taken into account. Conditions of use shall include risk mitigation measures, where appropriate. |
+
+(1) Further details on identity and specification of active substance are provided in the renewal report.
+
+## ANNEX II
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended as follows:
+
+(1) in Part A, the entry 95 on laminarin is deleted;
+
+(2) in Part D, the following entry is added:
+
+| Number | Common Name, Identification Numbers | IUPAC Name | Purity (1) | Date of approval | Expiration of approval | Specific provisions |
+| --- | --- | --- | --- | --- | --- | --- |
+| ‘12 | Laminarin CAS No 9008-22-4 CIPAC No 671 | (1→3)-β-D-glucan (according to IUPAC-IUB Joint Commission on Biochemical Nomenclature) | ≥ 860 g/kg on dry matter (TC) | 1 March 2018 | 28 February 2033 | For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the renewal report on laminarin, and in particular Appendices I and II thereto, shall be taken into account. Conditions of use shall include risk mitigation measures, where appropriate.’ |
+
+(1) Further details on identity and specification of active substance are provided in the renewal report.

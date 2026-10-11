@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE 2013/45/EU of 7 August 2013 </td><td> L 213</td><td>20</td><td>8.8.2013</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2009/145/EC**
 

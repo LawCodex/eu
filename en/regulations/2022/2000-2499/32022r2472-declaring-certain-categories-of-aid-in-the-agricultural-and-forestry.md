@@ -1,0 +1,2802 @@
+---
+title: "Commission Regulation (EU) 2022/2472 of 14 December 2022 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union (Text with EEA relevance)"
+identifier: "32022R2472"
+eli: "http://data.europa.eu/eli/reg/2022/2472/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2022-12-14
+entry_into_force: 2022-10-13
+last_amended: 2023-12-13
+consolidated_version: "02022R2472-20231213"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2472-20231213"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2022/2472 of 14 December 2022 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union (Text with EEA relevance)
+
+**COMMISSION REGULATION (EU) 2022/2472**
+
+**of 14 December 2022**
+
+**declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2023/2607 of 22 November 2023 </td><td> L </td><td>1</td><td>23.11.2023</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) 2022/2472**
+
+**of 14 December 2022**
+
+**declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td></td><td>CHAPTER I COMMON PROVISIONS</td></tr>
+<tr><td></td><td>CHAPTER II PROCEDURAL REQUIREMENTS</td></tr>
+<tr><td></td><td>CHAPTER III CATEGORIES OF AID</td></tr>
+<tr><td>Section 1</td><td>Aid in favour of SMEs active in primary agricultural production, the processing of agricultural products and the marketing of agricultural products</td></tr>
+<tr><td>Section 2</td><td>Aid for environmental protection in agriculture</td></tr>
+<tr><td>Section 3</td><td>Aid for investments in favour of conservation of cultural and natural heritage</td></tr>
+<tr><td>Section 4</td><td>Aid to make good the damage caused by natural disasters in the agricultural sector</td></tr>
+<tr><td>Section 5</td><td>Aid for research development and innovation</td></tr>
+<tr><td>Section 6</td><td>Aid in favour of forestry</td></tr>
+<tr><td>Section 7</td><td>Aid in Favour of SMEs in Rural Areas</td></tr>
+<tr><td></td><td>CHAPTER IV TRANSITIONAL AND FINAL PROVISIONS</td></tr>
+</table>
+
+## CHAPTER I — Common provisions
+
+#### Article 1 — Scope
+
+1\. This Regulation shall apply to the following categories of aid:
+
+(a) aid in favour of micro, small and medium sized enterprises (SMEs):
+
+(i) active in the agricultural sector, namely primary agricultural production, the processing of agricultural products and the marketing of agricultural products, with the exception of Articles 14, 15, 16, 18, 23 and 25 to 31, which shall only apply to SMEs active in primary agricultural production;
+
+(ii) active in non-agricultural activities in rural areas falling outside the scope of Article 42 of the Treaty, insofar as such aid is granted in accordance with Regulation (EU) 2021/2115 and is either co-financed by the European Agricultural Fund for Rural Development (‘EAFRD’) or granted as additional national financing for such co-financed measures. By derogation, this Regulation shall apply to aid to municipalities benefiting directly or indirectly from CLLD projects, pursuant to Articles 60 and 61 of this Regulation;
+
+(b) aid for environmental protection in agriculture as referred to in Articles 33, 34 and 35, which shall only apply to undertakings active in primary agricultural production;
+
+(c) aid for investments for the conservation of cultural and natural heritage located on agricultural holdings and in forests;
+
+(d) aid in favour of making good the damage caused by natural disasters in the agricultural sector;
+
+(e) aid for research, development and innovation in the agricultural and forestry sectors;
+
+(f) aid in favour of forestry.
+
+2\. Where Member States deem it appropriate, they may choose to grant aid referred to in paragraph 1, points (a), (e) and (f), in compliance with Commission Regulation (EU) No 651/2014 ( 1 ).
+
+3\. This Regulation shall not apply to:
+
+(a) aid schemes referred to in Articles 14, 17, 41 to 44 and 46, aid schemes referred to in Articles 49 and 50, if they fulfil the conditions of Article 12, from six months after their entry into force. However, the Commission may decide that this Regulation shall continue to apply to an aid scheme for longer than six months, after having assessed the relevant evaluation plan notified by the Member State to the Commission. When submitting the evaluation plans, Member States shall also submit all the information necessary for the Commission to carry out an assessment of the evaluation plans and to take a decision;
+
+(b) any alterations of schemes referred to in point (a) other than modifications which do not affect the compatibility of the aid scheme under this Regulation or do not significantly affect the content of the approved evaluation plan;
+
+(c) aid to export-related activities towards third countries or Member States, namely aid directly linked to the quantities exported, to the establishment and operation of a distribution network or to other current costs linked to export activity;
+
+(d) aid contingent upon the use of domestic over imported goods.
+
+4\. This Regulation shall not apply to:
+
+(a) aid schemes which do not explicitly exclude the payment of individual aid in favour of an undertaking which is subject to an outstanding recovery order following a previous Commission decision declaring an aid granted by the same Member State illegal and incompatible with the internal market, with the exception of:
+
+(i) aid schemes to make good the damage caused by natural disasters in accordance with Article 37;
+
+(ii) aid schemes for community-led local development (‘CLLD’) or European Innovation Partnership for agricultural productivity and sustainability (‘EIP’) Operational Group projects in accordance with Articles 40 and 61;
+
+(b) ad hoc aid to an undertaking referred to in point (a).
+
+5\. This Regulation shall not apply to aid to undertakings in difficulty with the exception of aid granted:
+
+(a) for information actions in the agricultural and forestry sectors in accordance with Articles 21 and 47;
+
+(b) for promotion measures in the form of publications aimed at raising awareness of agricultural products among the wider public in accordance with Article 24(2), point (b);
+
+(c) to compensate for the costs of the prevention, control and eradication of animal diseases and plant pests in accordance with Article 26(8) and (9);
+
+(d) to cover the costs of the removal and destruction of fallen stock in accordance with Article 27(2), points (c), (d) and (e), and Article 28(3), point (d);
+
+(e) for disadvantages related to Natura areas 2000 in accordance with Article 33;
+
+(f) to make good the damage caused by natural disasters in accordance with Article 37;
+
+(g) for undertakings participating in or benefitting from CLLD projects and EIP Operational Group projects, in accordance with Articles 40 and 61;
+
+(h) in the following cases, provided that the undertaking became an undertaking in difficulty due to losses or damages caused by the event in question:
+
+(i) to make good the damage caused by an adverse climatic event which can be assimilated to a natural disaster in accordance with Article 25;
+
+(ii) to make good the damage caused by animal diseases and plant pests in accordance with Article 26(9) and Article 26(10);
+
+(iii) to make good the damage caused by protected animals in accordance with Article 29;
+
+(iv) for the restoration of damage to forests in accordance with Article 43(2), point (d).
+
+6\. This Regulation shall not apply to aid which entails, by itself, by the conditions attached to it or by its financing method, a non-severable violation of Union law, in particular:
+
+(a) aid where the grant of aid is subject to the obligation for the beneficiary to use nationally produced goods or national services;
+
+(b) aid restricting the possibility for the beneficiaries to exploit the research, development and innovation results in other Member States.
+
+7\. This Regulation shall not apply to aid in favour of agricultural products within the meaning of Annex 1 to the WTO Agreement on Agriculture ( 2 ), which constitutes an export subsidy as defined by that Agreement. Likewise, it shall not apply to aid in favour of such products, which constitutes export financing support provided by a government or any public body within the scope of the WTO Ministerial Decision on Export Competition of 19 December 2015 ( 3 ), if it does not comply with the relevant requirements of paragraph 15 of that Decision on maximum repayment term and self-financing.
+
+#### Article 2 — Definitions
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(1) ‘ad hoc aid’ means aid not granted on the basis of an aid scheme;
+
+(2) ‘adverse climatic event which can be assimilated to a natural disaster’ means unfavourable weather conditions such as frost, storms and hail, ice, heavy or persistent rain or severe drought which destroy, in the case of agriculture, more than 30 % of the average production calculated on the basis of the preceding three-year or four-year period or of the average production calculated on the basis of the preceding five-year or eight-year period, excluding the highest and the lowest entry; in the case of forestry, more than 20 % of the forestry potential;
+
+(3) ‘advice’ means complete advice given in the framework of one and the same contract;
+
+(4) ‘agricultural activity’ means an activity as determined by a Member State in its CAP Strategic Plan in accordance with Article 4(2) of Regulation (EU) 2021/2115;
+
+(5) ‘agricultural area’ means any area as determined by a Member State in its CAP Strategic Plan in accordance with Article 4(3) of Regulation (EU) 2021/2115;
+
+(6) ‘agricultural holding’ means a unit comprising of land, premises and facilities used for primary agricultural production;
+
+(7) ‘agricultural product’ means the products listed in Annex I to the Treaty, except the fishery and aquaculture products listed in Annex I to Regulation (EU) No 1379/2013 of the European Parliament and of the Council ( 4 );
+
+(8) ‘agricultural sector’ means all undertakings active in primary agricultural production, processing and marketing of agricultural products;
+
+(9) ‘agroforestry systems’ means land use systems where trees are grown in combination with agriculture on the same land;
+
+(10) ‘aid’ means any measure fulfilling all the criteria laid down in Article 107(1) of the Treaty;
+
+(11) ‘aid granted in the framework of a CAP Strategic Plan’ means support granted in accordance with Regulation (EU) 2021/2115 either as aid co-financed by the EAFRD or as additional national financing to such co-financed aid;
+
+(12) ‘aid intensity’ means the gross aid amount expressed as a percentage of the eligible costs, before any deduction of tax or other charge;
+
+(13) ‘aid scheme’ means any act on the basis of which, without further implementing measures being required, individual aid awards may be made to undertakings defined within the act in a general and abstract manner and any act on the basis of which aid which is not linked to a specific project may be granted to one or several undertakings for an indefinite period of time and for an indefinite amount;
+
+(14) ‘arm’s length’ means that the conditions of the transaction between the contracting parties do not differ from those which would be stipulated between independent undertakings and contain no element of collusion. Any transaction that results from an open, transparent and unconditional procedure is considered as meeting the arm’s length principle;
+
+(15) ‘biosecurity measures’ means management and physical measures designed to reduce the risk of introduction, development and spread of diseases to, from and within the following:
+
+(a) an animal population;
+
+(b) an establishment, zone, compartment, means of transport or any other facilities, premises or location;
+
+(16) ‘breeding book’ means book as provided for in Article 2, point (12), of Regulation (EU) 2016/1012 of the European Parliament and of the Council ( 5 );
+
+(17) ‘CAP Strategic Plan’ means CAP Strategic Plan as referred to in Article 1(1), point (c), of Regulation (EU) 2021/2115;
+
+(18) ‘capitalised works’ means works, undertaken by a farmer personally or by the farmer’s workers on the farm, that create an asset;
+
+(19) ‘carbon farming schemes’ means aid schemes related to land management practices resulting in the increase of carbon storage in living biomass, dead organic matter and soils by enhancing carbon capture and/or reducing the release of carbon to the atmosphere;
+
+(20) ‘catastrophic event’ means an unforeseen event of biotic or abiotic nature caused by human action that leads to important disturbances of forest structures, eventually causing important economic damage to the forest sectors;
+
+(21) ‘date of granting the aid’ means the date when the legal right to receive the aid is conferred on the beneficiary under the applicable national legal regime;
+
+(22) ‘control and eradication measures’ means measures regarding animal diseases for which a competent authority of the Member State has formally recognised an outbreak, or regarding plant pests or invasive alien species for which a competent authority has formally acknowledged their presence;
+
+(23) ‘evaluation plan’ means a document covering one or more aid schemes and containing at least the following aspects: the objectives to be evaluated, the evaluation questions, the result indicators, the envisaged method to conduct the evaluation, the data collection requirements, the proposed timing of the evaluation including the date of submission of the interim and of the final evaluation reports, the description of the independent body that will carry out the evaluation or the criteria that will be used for its selection and the modalities for making the evaluation publicly available;
+
+(24) ‘fallen stock’ means animals which have been killed by euthanasia with or without a definite diagnosis or which have died, including stillborn and unborn animals, on a farm or on any premises or during transport, but which have not been slaughtered for human consumption;
+
+(25) ‘fast growing trees’ means a short rotation forest, where the minimum time before felling is set to be not less than 8 years and the maximum time before felling is set not to exceed 20 years;
+
+(26) ‘fiscal successor scheme’ means a scheme in the form of tax advantages which constitutes an amended version of a previously existing scheme in the form of tax advantages and which replaces it;
+
+(27) ‘fixed costs arising from participation in quality scheme’ means the costs incurred for entering a supported quality scheme and the annual contribution for participating in that quality scheme, including, where necessary, expenditure on checks required to verify compliance with the specifications of the quality scheme;
+
+(28) ‘food based biofuel’ means a biofuel produced from food and feed crops, as defined in Directive (EU) 2018/2001;
+
+(29) ‘foodstuffs’ means foodstuffs which are not agricultural products and which are listed in Annex I to Regulation (EU) No 1151/2012 of the European Parliament and of the Council ( 6 );
+
+(30) ‘gross grant equivalent’ means the amount of the aid if it had been provided in the form of a grant to the beneficiary, before any deduction of tax or other charges;
+
+(31) ‘individual aid’ means:
+
+(a) ad hoc aid;
+
+(b) awards of aid to individual beneficiaries on the basis of an aid scheme;
+
+(32) ‘intangible assets’ means assets that do not have a physical or financial embodiment such as patents, licences, know-how or other intellectual property;
+
+(33) ‘investments to comply with a Union standard’ means investments made to comply with a Union standard after the expiry of the transitional period provided for in Union legislation;
+
+(34) ‘large enterprises’ means undertakings not fulfilling the criteria laid down in Annex I;
+
+(35) ‘marketing of agricultural products’ means holding or displaying with a view to sale, offering for sale, delivery or any other manner of placing on the market, except the first sale by a farmer to resellers or processors and any activity preparing a product for such first sale; a sale by a farmer to final consumers is considered as marketing of agricultural products if it takes place in separate premises or facilities reserved for that purpose;
+
+(36) ‘mutual funds’ means a scheme accredited by a Member State in accordance with its national law for affiliated farmers to insure themselves, whereby compensation payments are made to affiliated farmers who experience economic losses;
+
+(37) ‘Natura 2000 areas’ means special agriculture or forest areas as referred to in Article 3 of Directive 92/43/EEC and in Article 3 of Directive 2009/147/EC;
+
+(38) ‘natural disasters’ means earthquakes, avalanches, landslides and floods, tornadoes, hurricanes, volcanic eruptions and wild fires of natural origin;
+
+(39) ‘non-productive investment’ means investment which does not lead to a significant increase in the value or profitability of the holding;
+
+(40) ‘operations prior to industrial processing’ means felling, dismembering, stripping, cutting up, storage, protective treatment and drying of wood and all other working operations prior to the industrial sawing of wood at a sawing mill; as well as sawmilling where the maximum processing capacity is 20,000 m3 roundwood input for sawmilling per year;
+
+(41) ‘other adverse climatic events’ means unfavourable weather conditions which do not fall within the definition of adverse climatic event which can be assimilated to a natural disaster;
+
+(42) ‘outermost regions’ means the regions referred to in Article 349, first paragraph, of the Treaty;
+
+(43) ‘plant pest’ means: any species, strain or biotype of plant, animal or pathogenic agent injurious to plants or plant products;
+
+(44) ‘primary agricultural production’ means the production of products of the soil and of stock farming, listed in Annex I to the Treaty, without performing any further operation changing the nature of such products;
+
+(45) ‘processing of agricultural products’ means any operation on an agricultural product resulting in a product which is also an agricultural product, except on-farm activities necessary for preparing an animal or plant product for first sale;
+
+(46) ‘producer group or organisation’ means a group or organisation set up for the purpose of one of the following:
+
+(a) adapting the production and output of producers who are members of such producer groups or organisations to market requirements;
+
+(b) jointly placing goods on the market, including the preparation for sale, centralisation of sales and supply to bulk buyers;
+
+(c) establishing common rules on production information, with particular regard to harvesting and availability;
+
+(d) other activities that may be carried out by producer groups or organisations, such as the development of business and marketing skills, the organisation and facilitation of innovation processes, joint management of the members’ land, the use of environmentally sound cultivation practices and production techniques, sound animal welfare practices and techniques;
+
+(47) ‘protected animal’ means any animal protected either by Union or by national legislation, including animal species for which national legislation provides for specific rules to preserve the population;
+
+(48) ‘regional aid maps’ means the list of areas designated by a Member State in line with the conditions laid down in the Guidelines on regional State aid ( 7 ) and approved by the Commission;
+
+(49) ‘repayable advance’ means a loan for a project which is paid in one or more instalments and the conditions for the reimbursement of which depend on the outcome of the project;
+
+(50) ‘research and knowledge-dissemination organisation’ means an entity, irrespective of its legal status or way of financing, whose primary goal is to independently conduct fundamental research, industrial research or experimental development, or to widely disseminate the results of such activities by way of teaching, publication or knowledge transfer;
+
+(51) ‘smaller Aegean islands’ means the smaller islands referred to in Article 1(2) of Regulation (EU) No 229/2013 of the European Parliament and of the Council ( 8 );
+
+(52) ‘SME’ or ‘micro, small and medium-sized enterprises’ means undertakings fulfilling the criteria laid down in Annex I;
+
+(53) ‘start of works on the project or activity’ means the earlier of either the start of the activities or the construction works relating to the investment, or the first legally binding commitment to order equipment or employ services or any other commitment that makes the project or activity irreversible; buying land and preparatory works such as obtaining permits and conducting feasibility studies are not considered start of works or activity;
+
+(54) ‘subsidised services’ means a form of aid, where the aid is granted to the final beneficiary indirectly, in kind, and is paid to the provider of the service or activity in question;
+
+(55) ‘tangible assets’ means assets consisting of land, buildings and plant, machinery and equipment;
+
+(56) ‘transaction cost’ means an additional cost linked to fulfilling a commitment, but not directly attributable to its implementation or not included in the costs or income foregone that are compensated directly; and which can be calculated on a standard cost basis;
+
+(57) ‘Transmissible Spongiform Encephalopathy (‘TSE’) and Bovine Spongiform Encephalopathy (‘BSE’) test costs’ means all costs, including those for test kits and for the taking, transporting, testing, storing and destruction of samples necessary for sampling and laboratory testing in accordance with Chapter C of Annex X to Regulation (EC) No 999/2001 of the European Parliament and of the Council ( 9 );
+
+(58) ‘trees for short rotation coppicing’ means tree species of CN code 06 02 9041 to be defined by Member States that consist of woody, perennial crops, the rootstock or stools of which remain in the ground after harvesting, with new shoots emerging in the following season and with a maximum harvest cycle to be determined by the Member States;
+
+(59) ‘undertaking in difficulty’ means an undertaking fulfilling the criteria laid down in Article 2, point (18), of Regulation (EU) No 651/2014;
+
+(60) ‘Union standard’ means mandatory standard laid down in Union legislation setting the level which individual undertakings must achieve, in particular as regards the environment, hygiene and animal welfare; however, standards or targets set at Union level which are binding for Member States but not for individual undertakings are not deemed to be Union standards;
+
+(61) ‘young farmer’ means a farmer as determined by a Member State in its CAP Strategic Plan in accordance with Article 4(6) of Regulation (EU) 2021/2115.
+
+#### Article 3 — Conditions for exemption
+
+Aid schemes, individual aid granted under aid schemes and ad hoc aid shall be compatible with the internal market within the meaning of Article 107(2) or (3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty provided that such aid fulfils all the conditions laid down in Chapter I of this Regulation, as well as the specific conditions for the relevant category of aid laid down in Chapter III of this Regulation.
+
+#### Article 4 — Notification thresholds
+
+1\. This Regulation shall not apply to any individual aid, the gross grant equivalent of which exceeds the following thresholds:
+
+(a) aid for investments in agricultural holdings linked to primary agricultural production as referred to in Article 14: EUR 600 000 per undertaking per investment project;
+
+(b) aid for investments concerning the relocation of a farm building resulting in the modernisation of facilities or in an increase in production capacity as referred to in Article 16(4): EUR 600 000 per undertaking per investment project;
+
+(c) aid for investments in connection with the processing of agricultural products and the marketing of agricultural products as referred to in Article 17: EUR 7,5 million per undertaking per investment project;
+
+(d) aid for animal welfare commitments, as referred to in Article 31: EUR 500 per livestock unit per year;
+
+(e) aid for disadvantages related to Natura 2000 areas as referred to in Article 33: EUR 500 per hectare per year in the initial period of maximum five years and EUR 200 per hectare per year thereafter;
+
+(f) aid for agri-environmental-climate commitments as referred to in Article 34: EUR 600 per hectare per year for annual crops, EUR 900 per hectare per year for specialised perennial crops and EUR 450 per hectare per year for other land uses;
+
+(g) aid for organic farming as referred to in Article 35: EUR 600 per hectare per year for annual crops, EUR 900 per hectare per year for specialised perennial crops and EUR 450 per hectare per year for other land uses;
+
+(h) aid for investments in favour of the conservation of cultural and natural heritage located on agricultural holdings or in forests as referred to in Article 36: EUR 600 000 per undertaking per investment project;
+
+(i) aid for research and development in the agricultural and forestry sectors as referred to in Article 38: EUR 7,5 million per project;
+
+(j) aid for costs incurred by undertakings participating in EIP Operational Group projects as referred to in Article 39: EUR 2 million per undertaking, per project;
+
+(k) limited amounts of aid to undertakings benefitting from EIP Operational Group projects as referred to in Article 40: EUR 500 000 per EIP Operational Group project;
+
+(l) aid for afforestation and the creation of woodland as referred to in Article 41: EUR 7,5 million per establishment project;
+
+(m) aid for agroforestry systems as referred to in Article 42: EUR 7,5 million per agroforestry system establishment project;
+
+(n) aid for investments improving the resilience and environmental value of forest ecosystems as referred to in Article 44: EUR 7,5 million per investment project;
+
+(o) aid for area-specific disadvantages resulting from certain mandatory requirements as referred to in Article 45: EUR 500 per hectare per year in the initial period not exceeding five years and EUR 200 per hectare per year thereafter;
+
+(p) aid for forest-environmental-climate services and forest conservation as referred to in Article 46: EUR 200 per hectare per year, with exception of aid referred to in Article 46, paragraph 8;
+
+(q) aid for advisory services in the forestry sector as referred to in Article 48: EUR 200 000 per undertaking and per year;
+
+(r) aid for investments in infrastructure related to the development, modernisation or adaptation of the forestry sector as referred to in Article 49: EUR 7,5 million per investment project;
+
+(s) aid for investments in forestry technologies and in processing, in mobilising and in marketing of forestry products as referred to in Article 50: EUR 7,5 million per investment project;
+
+(t) aid for investments for basic services and infrastructure in rural areas as referred to in Article 55: EUR 10 million per investment project;
+
+(u) aid for costs incurred by SMEs participating in CLLD projects, designated as LEADER local development under EAFRD referred to in Article 60: EUR 2 million per undertaking, per project;
+
+(v) limited amount of aid to SMEs benefitting from CLLD projects as referred to in Article 61: EUR 200 000 per CLLD project.
+
+2\. The thresholds set out in paragraph 1 shall not be circumvented by the artificial splitting up of the aid schemes or aid projects.
+
+#### Article 5 — Transparency of aid
+
+1\. This Regulation shall apply only to transparent aid.
+
+2\. Aid shall be considered to be transparent if it is possible to calculate precisely the gross grant equivalent ex ante without need to undertake a risk assessment.
+
+3\. For the purpose of this Regulation, the following forms of aid shall be considered to be transparent aid:
+
+(a) aid comprised in grants, interest rate subsidies and subsidised services;
+
+(b) aid comprised in loans, where the gross grant equivalent has been calculated on the basis of the reference rate prevailing at the time of the grant;
+
+(c) aid comprised in guarantees where one of the following applies:
+
+(i) the gross grant equivalent has been calculated on the basis of safe-harbour premiums laid down in a Commission notice;
+
+(ii) before the implementation of the aid, the methodology to calculate the gross grant equivalent of the guarantee has been accepted on the basis of the Notice on Guarantees, following notification of that methodology to the Commission under any State aid regulation adopted by the Commission applicable at the time, and the approved methodology explicitly addresses the type of guarantee and the type of underlying transaction at stake in the context of the application of this Regulation;
+
+(d) aid in the form of tax advantages, where the measure provides for a cap ensuring that the applicable threshold is not exceeded;
+
+(e) aid in the form of repayable advances, if the total nominal amount of the repayable advance does not exceed the thresholds applicable under this Regulation or if, before implementation of the measure, the methodology to calculate the gross grant equivalent of the repayable advance has been accepted following its notification to the Commission;
+
+(f) aid in the form of the sale or the lease of tangible assets below market rates where the value is established either by an independent expert evaluation prior to the transaction or by reference to a publicly available, regularly updated and generally accepted benchmark.
+
+4\. For the purpose of this Regulation, the following forms of aid shall not be considered to be transparent aid:
+
+(a) aid comprised in capital injections;
+
+(b) aid comprised in risk finance measures.
+
+#### Article 6 — Incentive effect
+
+1\. This Regulation shall apply only to aid which has an incentive effect.
+
+2\. Aid shall be considered to have an incentive effect if the beneficiary has submitted a written application for the aid to the Member State concerned before work on the project or activity has started. The application for the aid shall contain at least the following information:
+
+(a) undertaking’s name and size;
+
+(b) description of the project or the activity, including its start and end dates;
+
+(c) location of the project or the activity;
+
+(d) list of eligible costs;
+
+(e) type (grant, loan, guarantee, repayable advance or other) and amount of public funding needed for the project/activity.
+
+3\. Ad hoc aid granted to large enterprises shall be considered to have an incentive effect if, in addition to ensuring that the condition laid down in paragraph 2 is fulfilled, the Member State has verified, before granting the ad hoc aid concerned, that documentation prepared by the beneficiary establishes that the aid will result in one or more of the following:
+
+(a) a material increase in the scope of the project or activity due to the aid;
+
+(b) a material increase in the total amount spent by the beneficiary on the project or activity due to the aid;
+
+(c) a material increase in the speed of completion of the project or activity concerned;
+
+(d) in the case of investment ad hoc aid, that the project or activity would not have been carried out as such in the rural area concerned or would not have been sufficiently profitable for the beneficiary in the rural area concerned in the absence of the aid.
+
+These requirements do not apply to municipalities that are autonomous local authorities with an annual budget of less than EUR 10 million and fewer than 5 000 inhabitants.
+
+4\. By way of derogation from paragraphs 2 and 3, measures in the form of tax advantages shall be deemed to have an incentive effect if both of the following conditions are fulfilled:
+
+(a) the measure establishes a right to aid in accordance with objective criteria and without further exercise of discretion by the Member State;
+
+(b) the measure has been adopted and is in force before work on the aided project or activity has started, except in the case of fiscal successor schemes where the activity was already covered by the previous schemes in the form of tax advantages.
+
+5\. Moreover by way of derogation from paragraphs 2, 3 and 4 the following categories of aid are not required to have or shall be deemed to have an incentive effect:
+
+(a) aid schemes for land consolidation where the conditions laid down in Article 15 or Article 53 are fulfilled and where:
+
+(i) the aid scheme establishes a right to aid in accordance with objective criteria and without further exercise of discretion by the Member State; and
+
+(ii) the aid scheme has been adopted and is in force before eligible costs under Article 15 or Article 53 are incurred by the beneficiary;
+
+(b) aid for information actions in the agricultural sector in compliance with Articles 21 and 22, which consists of making available the information to an undefined number of beneficiaries;
+
+(c) aid for promotion measures in the form of publications aimed at raising awareness of agricultural products among the wider public where the conditions laid down in Article 24(2), point (b), are fulfilled;
+
+(d) aid to compensate for losses caused by adverse climatic event which can be assimilated to a natural disaster where the conditions laid down in Article 25 are fulfilled;
+
+(e) aid to compensate for the costs of the prevention, control and eradication of animal diseases and plant pests and for losses caused by those animal diseases or plant pests where the conditions laid down in Article 26 are fulfilled;
+
+(f) aid to cover the costs of the removal and destruction of fallen stock where the conditions laid down in Article 27(2), points (c), (d), (e) and (f) and Article 28(3)(d), are fulfilled;
+
+(g) aid to make good the damage caused by protected animals where the conditions laid down in Article 29 are fulfilled;
+
+(h) aid for disadvantages related to Natura 2000 areas as referred to in Article 33;
+
+(i) aid for investments in favour of the conservation of cultural and natural heritage located on agricultural holdings or in forests where the conditions laid down in Article 36 are fulfilled;
+
+(j) aid to make good the damage caused by natural disasters in the agricultural sector where the conditions laid down in Article 37 are fulfilled;
+
+(k) aid for research, development and innovation in the agricultural and forestry sectors where the conditions laid down in Article 38 are fulfilled;
+
+(l) aid for the restoration of damage to forests in accordance with Article 43(2), point (d), where the conditions laid down in Article 43 are fulfilled;
+
+(m) aid for information actions in the forestry sector in compliance with Articles 47 and 48, which consists of making available the information to an undefined number of beneficiaries;
+
+(n) aid for conservation of genetic resources in forestry where the conditions laid down in Article 51 are fulfilled;
+
+(o) aid for the participation of farmers in quality schemes for cotton and foodstuffs where the conditions laid down in Article 58 are fulfilled;
+
+(p) aid for undertakings participating in or benefitting from CLLD projects and EIP Operational Group projects, if the relevant conditions in Articles 39, 40, 60 and 61 are fulfilled.
+
+#### Article 7 — Aid intensity and eligible costs
+
+1\. For the purposes of calculating the aid intensity and the eligible costs, all figures used shall be taken before any deduction of tax or other charge. The eligible costs shall be supported by documentary evidence which shall be clear, specific and contemporary. The amounts of eligible costs may be calculated in accordance with the simplified cost options set out in Regulation (EU) 2021/1060 and Regulation (EU) 2021/2115, provided that the operation is at least partly financed through the EAFRD and that the category of costs is eligible according to the relevant exemption provision.
+
+2\. Aid amounts for the measures or types of operations referred to in Articles 31, 33, 34, 35, 41, 45 and 46 may be fixed on the basis of standard assumptions of additional costs and income foregone. In such cases, Member States shall ensure that the calculations and the corresponding aid contain only elements that are verifiable, are based on figures established by appropriate expertise, indicate clearly the source of the figures used, are differentiated to take account of regional or local site conditions and actual land use, where applicable and do not contain elements linked to investment costs.
+
+3\. Value added tax (VAT) shall not be eligible for aid, except where it is not recoverable under national VAT legislation.
+
+4\. Where aid is granted in a form other than a grant, the aid amount shall be the gross grant equivalent of the aid.
+
+5\. Aid payable in the future, including aid payable in several instalments, shall be discounted to its value at the moment it is granted. The eligible costs shall be discounted to their value on the date of granting the aid. The interest rate to be used for discounting purposes shall be the discount rate applicable on the date of granting the aid.
+
+6\. Where aid is granted by means of tax advantages, the discounting of aid tranches shall take place on the basis of the discount rates applicable at the various times the tax advantage takes effect.
+
+7\. Where aid is granted in the form of repayable advances which, in the absence of an accepted methodology to calculate their gross grant equivalent, are expressed as a percentage of the eligible costs and where the measure provides that in the case of a successful outcome of the project, as defined on the basis of reasonable and prudent hypothesis, the advances shall be repaid with an interest rate at least equal to the discount rate applicable on the date of granting the aid, the maximum aid intensities laid down in Chapter III may be increased by 10 percentage points.
+
+#### Article 8 — Cumulation
+
+1\. In determining whether the notification thresholds provided for in Article 4 and the maximum aid intensities and maximum aid amounts laid down in Chapter III are respected, the total amount of State aid for the aided activity or project or undertaking shall be taken into account.
+
+2\. Where Union funding is centrally managed by the institutions, agencies, joint undertakings or other bodies of the Union that is not directly or indirectly under the control of the Member State is combined with State aid, only the latter shall be considered for determining whether notification thresholds and maximum aid intensities and ceilings are respected, provided that the total amount of public funding granted in relation to the same eligible costs does not exceed the most favourable funding rates laid down in the applicable rules of Union law.
+
+3\. Aid with identifiable eligible costs, exempted from the notification requirement of Article 108(3) of the Treaty under this Regulation, may be cumulated with:
+
+(a) any other State aid, as long as those measures concern different identifiable eligible costs;
+
+(b) any other State aid, in relation to the same eligible costs, partly or fully overlapping, only if such cumulation does not result in exceeding the highest aid intensity or aid amount applicable to this aid under this Regulation.
+
+4\. Aid without identifiable eligible costs exempted under Articles 18, 19, 40 and 61 may be cumulated with any other State aid with identifiable eligible costs.
+
+Aid without identifiable eligible costs may be cumulated with other State aid without identifiable eligible costs, up to the highest relevant total financing threshold fixed in the specific circumstances of each case by this or another block exemption regulation or decision adopted by the Commission.
+
+5\. State aid exempted under Sections 1, 2 and 3 of Chapter III of this Regulation shall not be cumulated with payments referred to in Article 145(2) and Article 146 of Regulation (EU) 2021/2115 in respect of the same eligible costs if such cumulation would result in an aid intensity or aid amount exceeding those laid down in this Regulation.
+
+6\. State aid granted under Articles 31, 34 and 35 shall not be cumulated with payments referred to in Article 31 of Regulation (EU) 2021/2115 in respect of the same eligible costs if such cumulation would result in an aid intensity or aid amount exceeding those laid down in this Regulation.
+
+7\. State aid exempted under this Regulation shall not be cumulated with any de minimis aid in respect of the same eligible costs if such cumulation would result in an aid intensity or aid amount exceeding those laid down in Chapter III.
+
+8\. Aid for investments aimed at the restoration of agricultural production potential as referred to in Article 14(3), point (d), shall not be cumulated with aid for compensation for material damage as referred to in Articles 25, 26, 28 and 37.
+
+9\. Start-up aid for producer groups and organisations in the agricultural sector as referred to in Article 19 of this Regulation shall not be cumulated with aid for the setting-up of producers groups and organisations in the agricultural sector as referred to in Article 77 of Regulation (EU) 2021/2115.
+
+10\. Start-up aid for young farmers and start-up aid for agricultural activities as referred to in Article 18 of this Regulation shall not be cumulated with the support for the installation of young farmers or for rural business start-up as referred to in Article 75 of Regulation (EU) 2021/2115 if such cumulation would result in an aid amount exceeding those laid down in this Regulation.
+
+#### Article 9 — Publication and information
+
+1\. The Member State concerned shall ensure the publication in the Commission’s transparency award module ( 10 ) or on a comprehensive State aid website at national or regional level of:
+
+(a) the summary information referred to in Article 11 or a link to it;
+
+(b) the full text of each aid referred to in Article 11, including any amendments, or a link providing access to the full text;
+
+(c) the information referred to in Annex III on each individual aid award exceeding the following:
+
+(i) EUR 10 000 for beneficiaries active in the primary agricultural production sector;
+
+(ii) EUR 100 000 for beneficiaries active in the sector of the processing of agricultural products, the marketing of agricultural products, the forestry sector or for activities falling outside the scope of Article 42 of the Treaty.
+
+2\. For aid schemes in the form of tax advantages, the conditions set out in paragraph 1 shall be considered fulfilled if Member States publish the required information on individual aid amounts in the following ranges in EUR million:
+
+(a) 0,01- 0,1 only for primary agricultural production;
+
+(b) 0,1- 0,5;
+
+(c) 0,5-1;
+
+(d) 1 to 2;
+
+(e) 2 to 5;
+
+(f) 5 to 10;
+
+(g) 10 to 30;
+
+(h) 30 and more.
+
+3\. The information referred to in paragraph 1 shall be organised and accessible in a standardized manner, as set out in Annex III and shall allow for effective search and download functions. The information referred to in paragraph 1, point (c), shall be published within six months from the date the aid was granted or, for aid in the form of tax advantages, within one year from the date the tax declaration is due, and shall be available for at least 10 years from the date of granting the aid.
+
+4\. The full text of the aid scheme or of the ad hoc aid referred to in paragraph 1 shall include, in particular, an explicit reference to this Regulation, by citing its title and publication reference in the Official Journal of the European Union and to the specific provisions of Chapter III concerned by that act, or where applicable, to the national law which ensures that the relevant provisions of this Regulation are complied with. The aid scheme or the ad hoc aid shall be accompanied by its implementing provisions and its amendments.
+
+5\. The publication obligations laid down in paragraph 1 shall not apply to aid granted to EIP Operational Group projects and CLLD projects under Articles 39, 40, 60 and 61.
+
+6\. The Commission shall publish on its website:
+
+(a) the summary information referred to in paragraph 1;
+
+(b) the links to the State aid websites of all Member States referred to in paragraph 1.
+
+## CHAPTER II — Procedural requirements
+
+#### Article 10 — Withdrawal of the benefit of the block exemption
+
+Where a Member State grants aid that does not fulfil the conditions set out in Chapters I, II and III of this Regulation, the Commission may, after having provided the Member State concerned with the possibility to make its views known, adopt a decision stating that all or some of the future aid measures adopted by the Member State concerned which would otherwise fulfil the requirements of this Regulation, are to be notified to the Commission in accordance with Article 108(3) of the Treaty. The aid to be notified may be limited to certain types, to aid granted in favour of certain beneficiaries or to aid adopted by certain authorities of the Member State concerned.
+
+#### Article 11 — Reporting
+
+1\. Member States shall transmit to the Commission, via the Commission’s electronic notification system, the summary information about each aid measure exempted under this Regulation in the standardised format laid down in Annex II, together with a link providing access to the full text of the aid measure, including any amendments, within 20 working days following its entry into force.
+
+2\. Member States shall transmit to the Commission in electronic form an annual report, as referred to in Chapter III of Regulation (EC) No 794/2004, on the application of this Regulation in respect of each whole year or each part of the year during which this Regulation applies.
+
+3\. The annual report shall also contain information concerning the following:
+
+(a) animal diseases or plant pest as referred to in Article 26;
+
+(b) meteorological information on the type, timing, relative magnitude and location of climatic events which can be assimilated to a natural disaster as referred to in Article 25 or natural disasters in the agricultural sector as referred to in Article 37;
+
+4\. Paragraphs 1 and 2 of this Article shall not apply in respect of aid granted to EIP Operational Group projects and to CLLD projects referred to in Articles 40 and 61.
+
+#### Article 12 — Evaluation
+
+1\. Aid schemes referred to in Article 1(3) shall be subject to an ex post evaluation if they have a State aid budget or accounted expenditures over EUR 150 million in any given year or EUR 750 million over their total duration, that is the combined duration of the scheme and any predecessor scheme covering a similar objective and geographical area, starting from 1 January 2023. Given the objectives of the evaluation, and to avoid putting a disproportionate burden on Member States, ex post evaluations shall only be required for aid schemes the total duration of which exceeds three years, starting from 1 January 2023.
+
+2\. The ex post evaluation requirement may be waived for aid schemes that are an immediate successor of a scheme covering a similar objective and geographical area that has been subject to an evaluation, delivered a final evaluation report in compliance with the evaluation plan approved by the Commission and has not generated any negative findings. Where the final evaluation report of a scheme is not in compliance with the approved evaluation plan, that scheme shall be suspended with immediate effect. Any successor of such suspended scheme shall not enjoy the benefit of the block exemption.
+
+3\. The aim of the evaluation shall be to verify whether the assumptions and conditions underlying the compatibility of the scheme have been achieved, in particular the necessity and the effectiveness of the aid measure in the light of its general and specific objectives. The evaluation shall also assess the impact of the scheme on competition and trade.
+
+4\. For aid schemes subject to the evaluation requirement pursuant to paragraph 1, Member States shall notify a draft evaluation plan as follows:
+
+(a) within 20 working days from the scheme’s entry into force, if the State aid budget of the scheme exceeds EUR 150 million in any given year or EUR 750 million over its total duration;
+
+(b) within 30 working days following a significant change that increases the budget of the scheme to over EUR 150 million in any given year or EUR 750 million over the total duration of the scheme;
+
+(c) within 30 working days following the recording in official accounts of expenditure under the scheme in excess of EUR 150 million in any year.
+
+5\. The draft evaluation plan shall be in accordance with the common methodology for State aid evaluation adopted by the Commission. Member States shall publish the evaluation plan approved by the Commission.
+
+6\. The ex post evaluation shall be carried out by an expert independent from the aid granting authority on the basis of the evaluation plan. Each evaluation shall include at least one interim and one final evaluation report. Member States shall publish both reports.
+
+7\. The final evaluation report shall be submitted to the Commission at the latest nine months before the expiry of the exempted scheme. That period may be reduced for schemes triggering the evaluation requirement in their last two years of implementation. The precise scope and arrangements for each evaluation shall be set out in the decision approving the evaluation plan. The notification of any subsequent aid measure with a similar objective shall describe how the results of the evaluation have been taken into account.
+
+#### Article 13 — Monitoring
+
+Member States shall maintain detailed records with the information and supporting documentation necessary to establish that all the conditions laid down in this Regulation are fulfilled. Such records shall be kept for 10 years from the date on which the ad hoc aid was granted or the last aid was granted under an aid scheme. The Member State concerned shall provide the Commission, within a period of 20 working days or such longer period as may be fixed in the request, with all the information and supporting documentation, which the Commission considers necessary to monitor the application of this Regulation.
+
+## CHAPTER III — Categories of aid
+
+### Section 1 — Aid in favour of SMEs active in primary agricultural production, the processing of agricultural products and the marketing of agricultural products
+
+#### Article 14 — Aid for investments in agricultural holdings linked to primary agricultural production
+
+1\. Aid for investments in agricultural holdings linked to primary agricultural production shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The investment may be carried out by one or more beneficiaries or concern a tangible asset or intangible asset used by one or more beneficiaries.
+
+3\. The investment shall pursue at least one of the following objectives:
+
+(a) improvement of the overall performance and sustainability of the agricultural holding, in particular through a reduction of production costs or the improvement and re-deployment of production;
+
+(b) improvement of the natural environment, hygiene conditions or animal welfare standards;
+
+(c) creation and improvement of infrastructure related to the development, adaptation and modernisation of agriculture, including access to farm land, land consolidation and improvement, energy efficiency, the supply of sustainable energy and saving of water or energy;
+
+(d) restoration of production potential damaged by natural disasters, adverse climatic events which can be assimilated to natural disasters, animal diseases and plant pests, protected animals and the prevention of damages caused by those events and factors; if the damage can be linked to climate change, beneficiaries shall, where appropriate, include in the restoration adaptation measures to climate change;
+
+(e) contributing to climate change mitigation and adaptation, including by reducing greenhouse gas emissions and enhancing carbon sequestration, as well as promoting sustainable energy and energy efficiency;
+
+(f) contributing to sustainable circular bioeconomy and fostering sustainable development and efficient management of natural resources such as water, soil and air, including by reducing chemical dependency;
+
+(g) contributing to halting and reversing biodiversity loss, enhancing ecosystem services and preserving habitats and landscapes.
+
+4\. The investment may be linked to the production at farm-level of biofuels or of energy from renewable sources, provided that such production does not exceed the average annual consumption of fuels or energy of the given farm.
+
+Where the investment is made for the production of biofuels, the production capacity of the production facilities shall be no more than the equivalent to the annual average fuel consumption of the agricultural holding and the produced biofuel shall not be sold on the market.
+
+Where the investment is made for the production of thermal energy and electricity from renewable sources on agricultural holdings, the production facilities shall serve only the beneficiary’s own energy needs and their production capacity shall be no more than the equivalent to the combined average annual energy consumption of thermal energy and electricity on the agricultural holding, including the farm household. The selling of electricity into the grid shall only be allowed as far as the annual average self-consumption limit is respected.
+
+Where the investment is carried out by more than one beneficiary with the purpose to serve their own biofuel and energy needs, the annual average consumption shall be accumulated to the amount equivalent to the average annual consumption of all beneficiaries.
+
+Investments in renewable energy infrastructure that consume or produce energy shall comply with minimum standards for energy efficiency, where such standards exist at national level.
+
+Investments in installations, the primary purpose of which is electricity production from biomass, shall not be eligible for aid unless a minimum percentage of heat energy, to be determined by the Member States, is utilised.
+
+Member States shall establish thresholds for the maximum proportions of cereals and other starch rich crops, sugars and oil crops used for bioenergy production, including biofuels, for different types of installations in accordance with Article 26 of Directive (EU) 2018/2001. Aid to bioenergy investment projects shall be limited to bioenergy meeting the applicable sustainability criteria laid down in Union legislation.
+
+5\. For investment requiring an environmental impact assessment under Directive 2011/92/EU of the European Parliament and of the Council ( 11 ) the aid shall be subject to the condition that such assessment has been carried out and the development consent has been granted for the investment project concerned before the date of granting the individual aid.
+
+6\. The aid shall cover the following eligible costs:
+
+(a) the costs for the construction, acquisition, including leasing, or improvement of immovable property, including investments in passive in-house wiring or structured cabling for data networks and, if necessary, the ancillary part of the passive network on the private property outside the building, with land purchased only being eligible to an extent not exceeding 10 % of the total eligible costs of the operation concerned;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) the general costs linked to the expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, sustainable energy, energy efficiency and the production and use of renewable energy, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) is incurred;
+
+(d) the acquisition, development or usage fees of computer software, cloud and similar solutions, and the acquisition of patents, licences, copyrights and trademarks;
+
+(e) expenses for non-productive investments linked to the specific environmental and climate-related objectives referred to in paragraph 3, points (e), (f) and (g);
+
+(f) in the case of irrigation, the costs for investments that fulfil the following conditions:
+
+(i) a river basin management plan, in accordance with Directive 2000/60/EC of the European Parliament and of the Council ( 12 ), has been notified to the Commission for the entire area in which the investment is to take place, as well as for any other areas where the environment might be affected by the investment; the measures taken under the river basin management plan in accordance with Article 11 of that Directive and of relevance to the agricultural sector shall be specified in the relevant programme of measures;
+
+(ii) water metering enabling measurement of water use at the level of the supported investment is in place or shall be put in place as part of the investment;
+
+(iii) an investment in an improvement of an existing irrigation installation or element of irrigation infrastructure shall be assessed ex ante for offering water savings reflecting the technical parameters of the existing installation or infrastructure;
+
+(iv) if the investment affects bodies of ground- or surface water whose status has been identified as less than good in the relevant river basin management plan for reasons related to water quantity, or if state-of-the-art climate vulnerability and risk assessments determined ( 13 ) that the affected water bodies in good status could lose their status for reasons related to water quantity caused by climate change impacts, an effective reduction in water use must be achieved contributing to the achievement and maintenance of good status of those water bodies, as laid down in Article 4(1) of Directive 2000/60/EC. The conditions laid down in the previous sentence shall not apply to an investment in an existing installation which affects only energy efficiency or to an investment in the creation of a reservoir or to an investment in the use of recycled water which does not affect a body of ground- or surface water;
+
+(v) the Member State shall set percentages for potential water savings and effective reduction in water use as an eligibility conditions, to ensure that there is an effective reduction of the amount of water flowing through the equipment as compared to the 2014-2020 levels and therefore to avoid a regression in the level of environmental ambition:
+
+— the percentage of potential water savings shall be at least 5 %, where the technical parameters of the existing installation or infrastructure already ensure a high degree of efficiency (prior to investment), and at least 25 %, where the current degree of efficiency is low and/or for investments that take place in areas where water savings are most needed to ensure the achievement of good water status;
+
+— the percentage of effective reduction in water use shall be, at the level of the investment as a whole, at least 50 % of the potential water saving made possible by the investment in the existing irrigation installation or element of infrastructure;
+
+— such water savings must reflect the needs set out in the river basin management plans emanating from the Directive 2000/60/EC;
+
+(g) support may be granted to investments in the use of reclaimed water as an alternative water supply only if the provision and use of such water is compliant with Regulation No (EU) 2020/741 of the European Parliament and of the Council ( 14 );
+
+(h) in the case of investments aimed at the restoration of agricultural production potential damaged by natural disasters, adverse climatic events which can be assimilated to natural disasters, animal diseases, plant pests or protected animals, the eligible costs may include the costs incurred for restoring the agricultural production potential up to the level it was at before the occurrence of those events;
+
+(i) in the case of investments aimed at the prevention of damage caused by natural disasters, adverse climatic events which can be assimilated to natural disasters, animal diseases, plant pests or protected animals, the eligible costs may include the costs of specific preventive actions.
+
+7\. Costs, other than those referred to in paragraph 6, points (a) and (b), connected with leasing contracts, such as lessor’s margin, interest refinancing costs, overheads and insurance charges shall not be considered to be eligible costs.
+
+Working capital shall not be considered to be an eligible cost.
+
+8\. As regards irrigation, aid shall be paid only by Member States which ensure, in respect of the river basin district in which the investment takes place, a contribution of the different water uses to the recovery of the costs of water services by the agricultural sector consistent with Article 9(1), second subparagraph, first indent, of Directive 2000/60/EC having regard where appropriate, to the social, environmental and economic effects of the recovery as well as the geographic and climatic conditions of the region or regions affected.
+
+9\. Aid shall not be granted in respect of the following:
+
+(a) the purchase of payment entitlements;
+
+(b) the purchase and the planting of annual plants with exception of aid covering the costs referred to in paragraph 6, point (h);
+
+(c) drainage works;
+
+(d) the purchase of animals, with exception of aid covering the costs referred to in paragraph 6, point (h) and the purchase of guard dogs;
+
+(e) wiring or cabling for data networks outside the private property.
+
+10\. The aid referred to in paragraph 1 shall not be granted in contravention of any prohibition or restriction laid down in Regulation (EU) No 1308/2013, even where such prohibitions and restrictions only refer to the Union support provided for in that Regulation. The aid shall not be limited to specific agricultural products and shall therefore be available either to all sectors of the primary agricultural production or to the whole plant production sector or to the whole animal production sector. However, Member States may exclude certain products because of overcapacity in the internal market or a lack of market outlets.
+
+11\. The aid intensity shall not exceed 65 % of the eligible costs.
+
+12\. The aid intensity may be increased to a maximum of 80 % for the following investments:
+
+(a) investments linked to one or more of the specific environmental- and climate-related objectives referred to in paragraph 3, points (e), (f) and (g), or to animal welfare;
+
+(b) investments by young farmers;
+
+(c) investments in the outermost regions or the smaller Aegean islands.
+
+13\. The aid intensity referred to in paragraph 12 point (c), may be increased to a maximum of 85 % for investments of small farms within the meaning of Article 28 of Regulation (EU) 2021/2115.
+
+14\. The aid intensity may be increased to a maximum of 100 % for the following investments:
+
+(a) non-productive investments linked to the objectives referred to in paragraph 3, points (e), (f) and (g);
+
+(b) investments for the restoration of production potential referred to in paragraph 3, point (d), and investments related to prevention and risk mitigation of damage caused by natural disasters, exceptional occurrences, adverse climatic events which can be assimilated to a natural disaster, or protected animals.
+
+15\. The aid intensity for irrigation under paragraph 6, point (f), shall be limited to one or more rates not exceeding:
+
+(a) 80 % of the eligible costs for irrigation on-farm investments made under paragraph 6, point (f)(iii);
+
+(b) 100 % of the eligible costs for investments in off-farm infrastructure in agriculture to be used for irrigation;
+
+(c) 65 % of the eligible costs for other irrigation on-farm investments.
+
+#### Article 15 — Aid for agricultural land consolidation
+
+Aid for agricultural land consolidation shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in Chapter I of this Regulation and is granted towards and limited to the legal and administrative costs, including survey costs, up to 100 % of the real costs incurred.
+
+#### Article 16 — Aid for investments concerning the relocation of farm buildings
+
+1\. Aid to SMEs active in the primary agricultural production for investments concerning the relocation of farm buildings shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The relocation of the farm building shall pursue an objective of public interest.
+
+The public interest invoked to justify the granting of aid under this Article shall be specified in the relevant provisions of the Member State concerned.
+
+3\. Where the relocation of a farm building consists of the dismantling, removal and re-building of existing facilities the aid intensity shall be limited to 100 % of the real costs incurred for such activities.
+
+4\. Where, in addition to the dismantling, removal and re-building of existing facilities as referred to in paragraph 3, the relocation results in a modernisation of these facilities or in an increase in production capacity the aid intensities for investments referred to in Article 14(12) to (15) shall apply in respect to the costs relating to the modernisation of the facilities or the increase in the production capacity.
+
+For the purpose of this paragraph, the pure replacement of an existing building or facilities by a new up-to-date building or facilities without fundamentally changing the production or the technology involved shall not be considered to be related to the modernisation.
+
+5\. The maximum aid intensity may reach up to 100 % of the eligible costs where the relocation concerns activities close to rural settlements, with a view to improving the quality of life or increasing the environmental performance of the rural settlement.
+
+#### Article 17 — Aid for investments in connection with the processing or the marketing of agricultural products
+
+1\. Aid for investments in connection with the processing or marketing of agricultural products shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The investment shall concern tangible or intangible assets in connection with the processing of agricultural products or the marketing of agricultural products.
+
+3\. Investments in connection with the production of food based biofuels shall not be eligible for aid under this Article.
+
+4\. For investment requiring an environmental impact assessment under Directive 2011/92/EU the aid shall be subject to the condition that such assessment shall have been carried out and the development consent shall have been granted for the investment project concerned before the date of granting the individual aid.
+
+5\. The aid shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, including investments in passive in-house wiring or structured cabling for data networks and, if necessary, the ancillary part of the passive network on the private property outside the building, with purchase of land only being eligible to an extent not exceeding 10 % of the total of the eligible costs of the operation concerned;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) is incurred;
+
+(d) acquisition, development or usage fees of computer software, cloud and similar solutions, and acquisitions of patents, licenses, copyrights, trademarks.
+
+6\. Costs, other than those referred to in paragraph 5, points (a) and (b), connected with leasing contracts, such as lessor’s margin, interest refinancing costs, overheads and insurance charges shall not be considered to be eligible costs.
+
+7\. Working capital shall not be considered to be an eligible cost.
+
+8\. Wiring or cabling for data networks outside the private property shall not be considered to be an eligible cost.
+
+9\. Aid shall not be granted in respect of investments to comply with Union and national standards in force.
+
+10\. The aid referred to in paragraph 1 shall not be granted in contravention of any prohibition or restriction laid down in Regulation (EU) No 1308/2013, even where such prohibitions and restrictions only refer to the Union support provided for in that regulation.
+
+11\. The aid intensity shall not exceed 65 %, except in the cases indicated in paragraph 12.
+
+12\. The aid intensity may be increased to a maximum of 80 % for the following investments:
+
+(a) investments linked to one or more of the specific environmental- and climate-related objectives referred to in Article 14(3), points (e), (f) and (g), or to an improvement in animal welfare;
+
+(b) investments by young farmers;
+
+(c) investments in the outermost regions or the smaller Aegean islands.
+
+#### Article 18 — Start-up aid for young farmers and start-up aid for agricultural activities
+
+1\. Start-up aid for young farmers and start-up aid for agricultural activities shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where they fulfil the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall cover the start-up of rural businesses in agricultural activities and to the farm household income diversification into other agricultural activities.
+
+3\. The aid shall only be granted to young farmers in the form of micro and small enterprises.
+
+4\. Where the aid is granted to a young farmer who is setting up a holding in the form of a legal person, the young farmer shall exercise effective and long-term control over the legal person in terms of decisions related to management, benefits and financial risks. Where several natural persons, including persons who are not young farmers, participate in the capital or management of the legal person, the young farmer shall be capable of exercising such effective and long-term control either solely or jointly together with other persons. Where a legal person is solely or jointly controlled by another legal person, those requirements shall apply to any natural person having control over that other legal person ( 15 ).
+
+5\. The aid shall be conditional on the submission of a business plan to the competent authority of the Member State concerned.
+
+6\. For young farmers, where the beneficiary does not comply with the conditions in Article 4(6), point (c), of Regulation (EU) 2021/2115, the beneficiary shall nonetheless be eligible for aid for young farmers, provided that the beneficiary makes a commitment to acquire those occupational skills and competences within 36 months from the date of the adoption of the decision granting the aid. That commitment must be included in the business plan.
+
+7\. Support shall be limited to EUR 100 000 per young farmer or per start up in farming or per farm household.
+
+#### Article 19 — Start-up aid for producer groups and organisations in the agricultural sector
+
+1\. Start-up aid for producer groups and organisations shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Only producer groups or organisations that have been officially recognised by the competent authority of the Member State concerned shall be eligible for aid.
+
+3\. Member States shall adjust aid exempted in accordance with this Article to take account of any changes in the regulations governing the common organisation of the markets in agricultural products.
+
+4\. Aid shall not be granted to:
+
+(a) production organisations, entities or bodies such as companies or cooperatives, the objective of which is the management of one or more agricultural holdings and which are therefore in effect single producers;
+
+(b) agricultural associations, which undertake tasks such as mutual support and farm replacement and farm management services, in the members’ holdings without being involved in the joint adaptation of supply to the market;
+
+(c) producer groups, organisations or associations the objectives of which are incompatible with Article 152(1), point (c), Article 152(3), or Article 156 of Regulation (EU) No 1308/2013.
+
+5\. The aid shall cover the following eligible costs:
+
+(a) the costs of the rental of suitable premises;
+
+(b) the acquisition of office equipment;
+
+(c) administrative staff costs;
+
+(d) overheads and legal and administrative fees;
+
+(e) the acquisition of computer hardware and the acquisition or usage fees of computer software, cloud and similar solutions.
+
+Where premises are purchased, the eligible costs for premises shall be limited to rental costs at market rates.
+
+6\. The aid shall be paid as a flat rate aid in annual instalments for the first five years from the date on which the producer group or organisation was officially recognised by the competent authority of the Member State concerned.
+
+Member States shall only pay the last instalment after having verified the correct implementation of the measure.
+
+7\. The aid shall be limited to 10 % of the annual marketed production of the producer group or organisation.
+
+8\. The aid amount shall be limited to EUR 100 000 per year. The aid shall be degressive.
+
+#### Article 20 — Aid for the participation of producers of agricultural products in quality schemes
+
+1\. The following categories of aid to producers of agricultural products and groups thereof shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof:
+
+(a) aid for new participation in quality schemes where it fulfils the conditions laid down in paragraphs 2 to 6 of this Article and in Chapter I;
+
+(b) aid towards the costs of compulsory control measures in relation to quality schemes undertaken pursuant to Union or national legislation by or on behalf of the competent authority, where it fulfils the conditions laid down in paragraphs 2, 4, 6, 7 and 8 of this Article and in Chapter I;
+
+(c) aid towards the costs of market research activities, product conception and design and for preparation of applications for the recognition of quality schemes where it fulfils the conditions laid down in paragraphs 2, 6, 7 and 8 of this Article and in Chapter I.
+
+2\. The aid referred to in paragraph 1 shall be granted in respect of the following quality schemes:
+
+(a) quality schemes established under:
+
+(i) Part II, Title II, Chapter I, Section 2 of Regulation (EU) No 1308/2013 as regards wine;
+
+(ii) Regulation (EU) No 1151/2012;
+
+(iii) Regulation (EU) 2018/848 of the European Parliament and of the Council ( 16 );
+
+(iv) Regulation (EU) 2019/787 of the European Parliament and of the Council ( 17 );
+
+(v) Regulation (EU) No 251/2014 of the European Parliament and of the Council ( 18 );
+
+(b) quality schemes, including farm certification schemes, for agricultural products recognised by the Member States as complying with the following conditions:
+
+(i) the specificity of the final product produced under such quality schemes shall be derived from clear obligations to guarantee one of the following:
+
+— specific product characteristics;
+
+— specific farming or production methods;
+
+— the quality of the final product that go significantly beyond the commercial commodity standards as regards public, animal or plant health, animal welfare or environmental protection;
+
+(ii) the quality scheme shall be open to all producers;
+
+(iii) the quality scheme shall involve binding final product specifications and compliance with those specifications shall be verified by public authorities or by an independent inspection body;
+
+(iv) the quality scheme shall be transparent and assure complete traceability of agricultural products;
+
+(c) voluntary agricultural product certification schemes recognised by the Member State concerned as meeting the requirements laid down in the Commission Communication – EU best practice guidelines for voluntary certification schemes for agricultural products and foodstuffs ( 19 ).
+
+3\. The aid referred to in paragraph 1, point (a), shall be granted to producers of agricultural products in the form of an annual incentive payment, the level of which shall be determined according to the level of the fixed costs arising from participation in the quality schemes.
+
+4\. The aid referred to in paragraph 1, points (a) and (b), shall not be granted towards the cost of controls undertaken by the beneficiary itself, or where Union legislation provides that the cost of controls is to be met by producers of agricultural products and groups thereof, without specifying the actual level of charges.
+
+5\. The aid referred to in paragraph 1, point (a), shall be granted for a maximum period of seven years.
+
+6\. The aid shall be accessible to all eligible undertakings in the area concerned, based on objectively defined conditions.
+
+7\. The aid referred to in paragraph 1, points (b) and (c), shall not involve direct payments to the beneficiaries.
+
+It shall be paid to the body responsible for control measures, the research provider or the consultancy provider.
+
+8\. The aid referred to in paragraph 1, points (b) and (c), shall be limited to 100 % of the real costs incurred.
+
+#### Article 21 — Aid for knowledge exchange and information actions
+
+1\. Aid for knowledge exchange and information actions shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall cover vocational training and skills acquisition actions, including training courses, workshops, conferences and coaching, demonstration activities, information actions and promotion of innovation.
+
+Aid may also cover short-term farm management exchanges and farm visits.
+
+Member States shall ensure that actions supported under this Article are consistent with the description of the Agricultural Knowledge and Innovation Systems (‘AKIS’) provided in the CAP Strategic Plan.
+
+Aid for demonstration activities may cover relevant investment costs.
+
+3\. The aid shall cover the following eligible costs:
+
+(a) the costs of organising the vocational training, skills acquisition actions, including training courses, workshops, conferences and coaching, demonstration activities or information actions;
+
+(b) the costs for travel, accommodation and per diem expenses of the participants;
+
+(c) the cost of the provision of replacement services during the absence of the participants;
+
+(d) in the case of demonstration projects in relation to investments:
+
+(i) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of total eligible costs of the operation concerned;
+
+(ii) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(iii) general costs linked to expenditure referred to in points (i) and (ii) such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under in points (i) and (ii) is incurred;
+
+(iv) the acquisition, development or usage fees of computer software, cloud and similar solutions, and the acquisitions of patents, licences, copyrights and trademarks.
+
+4\. The costs referred to in paragraph 3, point (d), shall only be eligible to the extent incurred for the demonstration project and for the duration period of the demonstration project.
+
+Only the depreciation costs corresponding to the life of the demonstration project, as calculated on the basis of generally accepted accounting principles, shall be considered as eligible.
+
+5\. Aid referred to in paragraph 3, points (a) and (c), shall not involve direct payments to the beneficiaries.
+
+Aid for the costs of the provision of replacement services referred to in paragraph 3, point (c), may be paid directly to the provider of the replacement services.
+
+6\. Bodies providing knowledge exchange and information actions shall have the appropriate capacities in the form of staff qualifications and regular training to carry out those tasks.
+
+The provision of the activities referred to in paragraph 2 may be undertaken by producer groups or other organisations, regardless of their size.
+
+7\. The aid shall be accessible to all eligible undertakings in the area concerned, based on objectively defined conditions.
+
+Where the provision of the activities referred to in paragraph 2 is undertaken by producer groups and organisations, membership of such groups or organisations shall not be a condition for access to those activities.
+
+Any contribution of non-members towards the administrative costs of the producer group or organisation concerned shall be limited to the costs of providing the activities referred to in paragraph 2.
+
+8\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+In the case of demonstration projects as referred to in paragraph 3, point (d), the maximum aid amount shall be limited to EUR 100 000 over 3 fiscal years.
+
+#### Article 22 — Aid for advisory services
+
+1\. Aid for advisory services shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall be designed to help undertakings active in the agricultural sector and young farmers benefit from the use of advisory services.
+
+Member States shall ensure that actions supported under this Article are consistent with the description of the Agricultural Knowledge and Innovation Systems (AKIS) provided in the CAP Strategic Plan.
+
+3\. The advice shall be linked to at least one specific objective specified in Article 6 of Regulation (EU) 2021/2115 and shall cover at least one of the following:
+
+(a) obligations deriving from the statutory management requirements and GAEC standards established under Title III, Chapter I, Section 2, of Regulation (EU) 2021/2115;
+
+(b) the requirements laid down by Member States to implement Directive 2000/60/EC, Directive 92/43/EEC, Directive 2009/147/EC, Directive 2008/50/EC of the European Parliament and of the Council ( 20 ), Directive (EU) 2016/2284 of the European Parliament and of the Council ( 21 ), Regulation (EU) 2016/2031, Regulation (EU) 2016/429 of the European Parliament and of the Council ( 22 ), Article 55 of Regulation (EC) No 1107/2009 of the European Parliament and of the Council ( 23 ) and Directive 2009/128/EC of the European Parliament and of the Council ( 24 );
+
+(c) farm practices preventing the development of antimicrobial resistance as referred to in the Communication ‘A European One Health Action Plan against Antimicrobial Resistance’ ( 25 );
+
+(d) risk prevention and management;
+
+(e) modernisation, strengthening competitiveness, sectoral integration, market orientation and promotion of entrepreneurship and innovation, in particular for preparing and implementing EIP Operational Group projects;
+
+(f) digital technologies in agriculture as referred to in Article 114, point (b), of Regulation (EU) 2021/2115;
+
+(g) sustainable management of nutrients, including, at the latest as from 2024, use of a Farm Sustainability Tool for Nutrients, as referred to in Article 15(4) of Regulation (EU) 2021/2115;
+
+(h) conditions of employment and employer obligations as well as occupational health and safety and social support in agricultural communities;
+
+(i) sustainable production of feed, evaluation of feed in terms of nutrient content and feed values, documentation, planning and control of the feeding of farm animals based on needs.
+
+4\. Advice may also cover issues, other than those referred to in paragraph 3, linked to the economic and environmental performance of the agricultural holding including competitiveness aspects. This may include advice for the development of short supply chains, organic farming, the saving of sustainable energy, energy efficiency and the production and use of renewable energy for agriculture, increasing biodiversity or biodiversity performance and health aspects of animal husbandry.
+
+5\. The aid shall take the form of a subsidised service.
+
+6\. The bodies selected to provide the advisory service shall have the appropriate resources in the form of regularly trained and qualified staff and advisory experience and reliability with respect to the fields in which they advise.
+
+The provision of advisory service may be undertaken by producer groups or other organisations, regardless of their size.
+
+Member States shall ensure that the provider of the advisory service is impartial and has no conflict of interest.
+
+7\. The aid shall be accessible to all eligible undertakings in the area concerned, based on objectively defined conditions.
+
+Where the provision of advisory services is undertaken by producer groups and organisations, membership of such groups or organisations shall not be a condition for access to the service.
+
+Any contribution of non-members towards the administrative costs of the group or organisation concerned shall be limited to the costs of providing the advisory service.
+
+8\. The amount of aid shall be limited to 100 % of the eligible costs up to EUR 25 000 (except those under paragraph 4) per period of three years, for advice provided by service providers to a single beneficiary active in the primary agricultural production.
+
+9\. The amount of aid shall be limited to 100 % of the eligible costs up to EUR 200 000 (except those under paragraph 4) per three years, for advice provided by service providers to a single beneficiary active in the processing and marketing of agricultural products.
+
+#### Article 23 — Aid for farm replacement services
+
+1\. Aid for farm replacement services shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall cover the real costs incurred for the replacement of a farmer, a natural person who is a member of the farm household, or a farm worker, during their absence from work due to illness, including illness of their child and serious illness of a cohabitating person, which requires constant care, holidays, maternity and parental leave, mandatory military service, in case of death or in the case of Article 21(3), point (c).
+
+3\. The total duration of the replacement shall be limited to 3 months per year per beneficiary, with the exception of replacement for maternity and parental leave and replacement during mandatory military service. For maternity and parental leave, the duration of the replacement shall be limited to 6 months in each case. For mandatory military service, the duration of the replacement shall be limited to the duration of the service.
+
+4\. The aid shall take the form of a subsidised service.
+
+The provision of farm replacement services may be undertaken by producer groups and organisations, regardless of their size. In such case, membership of such groups or organisations shall not be a condition for access to the service.
+
+5\. The aid intensity shall be limited to 100 % of the real costs incurred.
+
+#### Article 24 — Aid for promotion measures in favour of agricultural products
+
+1\. Aid for promotion measures in favour of agricultural products shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall cover the costs for:
+
+(a) the organisation of and participation in competitions, trade fairs and exhibitions;
+
+(b) publications aimed at raising awareness of agricultural products among the wider public.
+
+3\. The publications referred to in paragraph 2, point (b), shall not refer to any particular undertaking, brand name or origin.
+
+However, the first subparagraph shall not apply to references to the origin of agricultural products covered by:
+
+(a) quality schemes as referred to in Article 20(2), point (a), provided that the reference corresponds exactly to that protected by the Union;
+
+(b) quality schemes as referred to in Article 20(2), points (b) and (c), provided that the reference is secondary in the message.
+
+4\. The aid shall cover the following eligible costs for the organisation of and participation in competitions, trade fairs and exhibitions:
+
+(a) participation fees;
+
+(b) travel costs, and costs for the transportation of animals and of the products that will be the covered by the promotion action;
+
+(c) costs of publications and websites announcing the event;
+
+(d) the rent of exhibition premises and stands and the costs of their installation and dismantling;
+
+(e) symbolic prizes up to a value of EUR 3 000 per prize and per winner of a competition.
+
+5\. The aid shall cover the following eligible cost for publications aimed at raising awareness of agricultural products among the wider public:
+
+(a) costs of publications in print- and electronic media, websites, and spots in electronic media, on radio or television, aimed at presenting factual information on beneficiaries from a given region or producing a given agricultural product, provided that the information is neutral and that all beneficiaries concerned have equal opportunities to be represented in the publication;
+
+(b) costs for the dissemination of scientific knowledge and factual information on:
+
+(i) quality schemes as referred to in Article 20(2) open to agricultural products from other Member States and third countries;
+
+(ii) generic agricultural products and their nutritional benefits and suggested uses for them.
+
+6\. The aid shall be granted in one of the following forms:
+
+(a) in kind;
+
+(b) on the basis of the reimbursement of the real costs incurred by the beneficiary;
+
+(c) with regard to aid for symbolic prizes, also in cash.
+
+Where the aid is granted in kind the aid shall take the form of a subsidised service.
+
+The provision of promotion measures may be undertaken by producer groups or other organisations, regardless of their size.
+
+Aid for symbolic prizes as referred to in paragraph 4, point (e), shall only be paid to the provider of the promotion measures if the prize has been actually awarded and upon presentation of a proof of the award.
+
+7\. Aid for promotion measures shall be accessible to all eligible undertakings in the area concerned, based on objectively defined conditions.
+
+Where the provision of the promotion measure is undertaken by producer groups and organisations, membership of such groups or organisations shall not be a condition for participation. Any contribution of non-members towards the administration fees of the producer group or organisation concerned shall be limited to the cost of providing the promotion measures.
+
+8\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+#### Article 25 — Aid to make good the damage caused by adverse climatic events which can be assimilated to a natural disaster
+
+1\. Aid to make good the damage caused by an adverse climatic event which can be assimilated to a natural disaster shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid to make good damage caused by an adverse climatic event which can be assimilated to a natural disaster, shall be subject to the following cumulative conditions:
+
+(a) the competent authority of the Member State has formally recognised the character of the event as an adverse climatic event which can be assimilated to a natural disaster;
+
+(b) there is a direct causal link between the adverse climatic event which can be assimilated to a natural disaster and the damage suffered by the undertaking.
+
+3\. Member States may, where appropriate, establish in advance criteria on the basis of which the formal recognition referred to in paragraph 2, point (a) is deemed to be granted.
+
+4\. The aid shall be paid directly to the undertaking concerned or to a producer group or organisation of which that undertaking is a member.
+
+Where the aid is paid to a producer group or organisation, the amount of aid shall not exceed the amount of aid to which that undertaking is eligible.
+
+5\. Aid schemes related to an adverse climatic event which can be assimilated to a natural disaster shall be established within three years and the aid paid out four years from the date of the occurrence of the adverse climatic event which can be assimilated to a natural disaster.
+
+6\. The eligible costs shall be the damage incurred as a direct consequence of the adverse climatic event which can be assimilated to a natural disaster, as assessed by a public authority, by an independent expert recognised by the granting authority or by an insurance undertaking.
+
+7\. The damage incurred due to the adverse climatic event which can be assimilated to a natural disaster shall be calculated at the level of the individual beneficiary. The aid may relate to the following:
+
+(a) the loss of income from the full or partial destruction of the agricultural production and the means of production as referred to in paragraph 8;
+
+(b) material damage as referred to in paragraph 9.
+
+8\. The loss of income shall be calculated by subtracting:
+
+(a) the result of multiplying the quantity of the agricultural products produced in the year of the adverse climatic event which can be assimilated to a natural disaster, or each following year affected by the full or partial destruction of the means of production, by the average selling price obtained during that year;
+
+from
+
+(b) the result of multiplying the average annual quantity of agricultural products produced in the three-year period preceding the adverse climatic event which can be assimilated to a natural disaster, or a three-year average based on the five-year period preceding the adverse climatic event which can be assimilated to a natural disaster, excluding the highest and lowest entry by the average selling price obtained.
+
+Where an SME was set up less than three years from the date of the occurrence of the adverse climatic event which can be assimilated to a natural disaster, the reference to the three-year period in paragraph 8, point (b) shall be understood as referring to the quantity produced and sold by an average undertaking of the same size as the applicant, namely a micro enterprise or a small enterprise or a medium enterprise, respectively, in the national or regional sector affected by the adverse climatic event which can be assimilated to a natural disaster.
+
+The loss of income may be calculated either at annual farm production level or at crop or livestock level.
+
+The loss of income amount may be increased by other costs incurred by the beneficiary due to the adverse climatic event which can be assimilated to a natural disaster.
+
+That loss of income amount shall be reduced by any costs not incurred because of the adverse climatic event which can be assimilated to a natural disaster.
+
+Indexes may be used in order to calculate the agricultural production of the beneficiary provided that the calculation method used permits the determination of the real loss of the beneficiary in the given year.
+
+9\. The material damage to assets such as farm buildings, equipment and machinery, stocks and means of production caused by the adverse climatic event which can be assimilated to a natural disaster shall be calculated on the basis of the repair cost or economic value of the affected asset before the adverse climatic event that can be assimilated to a natural disaster.
+
+It shall not exceed the repair cost or the decrease in fair market value caused by the disaster, namely the difference between the asset’s value immediately before and immediately after the adverse climatic event which can be assimilated to a natural disaster.
+
+Where the loss of the beneficiary’s income referred to in paragraph 8 is calculated on the basis of crop or livestock level, only the material damage related to that crop or livestock shall be taken into account.
+
+10\. Aid shall be reduced by at least 50 % unless it is granted to beneficiaries who have taken out insurance covering at least 50 % of their average annual production or production-related income and the statistically most frequent climatic risks in the Member State or region concerned for which insurance coverage is provided.
+
+11\. The aid and any other payments received to compensate for the losses, including payments under other national or Union measures or insurance policies, shall be limited to 80 % of the eligible costs.
+
+The aid intensity may be increased up to 90 % in areas facing natural constraints.
+
+#### Article 26 — Aid for the costs of the prevention, control and eradication of animal diseases or plant pests and aid to make good the damage caused by animal diseases or plant pests
+
+1\. Aid to cover the costs of prevention, control and eradication of animal diseases or plant pests and aid to compensate for losses caused by those animal diseases or plant pests shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where they fulfil the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall be subject to the following conditions:
+
+(a) it shall be paid only in relation to animal diseases or plant pests for which Union or national rules exist, whether laid down by law, regulation or administrative action;
+
+(b) it shall be part of one of the following:
+
+(i) a public programme at Union, national or regional level for the prevention, control or eradication of the animal disease or the plant pest concerned;
+
+(ii) emergency measures imposed by the competent authority of the Member State;
+
+(iii) measures to eradicate or contain a plant pest implemented in accordance with Article 18, Article 28(1) and (2) and Article 29(1) and (2), 30(1) and 33(1) of Regulation (EU) 2016/2031;
+
+(iv) measures to prevent, control and eradicate animal diseases in accordance with Regulation (EU) 2016/429.
+
+The programme and measures referred to in point (b) shall contain a description of the prevention, control or eradication measures concerned.
+
+3\. As regards animal diseases, the aid shall be granted in respect of animal diseases referred to in the list of animal diseases referred to in Article 5(1) of Regulation (EU) 2016/429, in the list of zoonoses laid down in Annex III of Regulation (EU) 2021/690 of the European Parliament and of the Council ( 26 ) or in the list of animal diseases, infections and infestations of the Terrestrial Code established by the World Organisation for Animal Health.
+
+4\. Aid may also be granted in respect of emerging diseases, which meet the criteria laid down in Article 6(2) of Regulation (EU) 2016/429.
+
+5\. The aid shall not relate to measures the cost of which Union legislation requires to be borne by the beneficiary, unless the cost of such measures is entirely offset by compulsory charges on the beneficiaries.
+
+6\. Aid shall be paid directly to the undertaking concerned or to a producer group or organisation of which that undertaking is a member.
+
+Where the aid is paid to a producer group or organisation, the amount of aid shall not exceed the amount of aid to which that undertaking is eligible.
+
+7\. Aid schemes related to an animal disease or a plant pest shall be introduced within three years and the aid paid out within four years from the date of the occurrence of the cost or damage caused by the animal disease or plant pest.
+
+8\. In the case of measures regarding an animal disease, plant pest or invasive alien species, meaning invasive alien species of Union concern as defined in Article 3(3) of Regulation (EU) No 1143/2014 of the European Parliament and of the Council ( 27 ) and ‘invasive alien species of Member State concern’ as defined in Article 3(4) of Regulation (EU) No 1143/2014, that has not yet occurred (‘prevention measures’), the aid shall cover the following eligible costs:
+
+(a) health checks;
+
+(b) analyses, including in-vitro diagnostics;
+
+(c) tests and other screening measures, including TSE and BSE tests;
+
+(d) the purchase, storage, distribution and administration of vaccines, medicines, substances for the treatment of animals and plant protection products and biocidal products;
+
+(e) the slaughtering or culling of animals or the destruction of animal products and plants and the cleaning and disinfection or disinfestation of the holding and equipment;
+
+(f) the setting or improvement of biosecurity measures.
+
+9\. In the case of control and eradication measures, the aid shall cover the following eligible costs:
+
+(a) tests and other screening measures in case of animal diseases, including TSE and BSE tests;
+
+(b) the purchase, storage, administration and distribution of vaccines, medicines, substances for the treatment of animals and plant protection products and biocidal products;
+
+(c) the slaughtering or culling and destruction of animals and the destruction of products linked to them, or destruction of plants, including those that die or are destroyed as a result of vaccinations or other measures ordered by the competent public authorities;
+
+(d) the cleaning, disinfection and disinfestation of the holding and equipment based on the epidemiology and characteristics of the pathogen or of the vector.
+
+10\. In the case of aid to make good the damage caused by animal diseases or plant pests, compensation shall be calculated only on the basis of:
+
+(a) the market value of the animals slaughtered or culled or that have died or the products, linked to them, or the plants destroyed:
+
+(i) as a result of the animal disease or the plant pest;
+
+(ii) as part of a public programme or measure as referred to in paragraph 2, point (b);
+
+(b) the loss of income due to quarantine obligations, difficulties in restocking or replanting and obligatory crop-rotation imposed as part of a public programme or measure as referred to in paragraph 2, point (b);
+
+(c) the costs of replacement of equipment destroyed under the order of the Member State’s competent authorities.
+
+For the purposes of the first subparagraph, point (a), the market value shall be established on the basis of the value of the animals, products and plants immediately before any suspicion of the animal disease or plant pest arose or was confirmed.
+
+11\. The compensation calculated in accordance with paragraph 10 shall be reduced by:
+
+(a) any costs not directly incurred due to the animal disease or plant pest which would otherwise have been incurred by the beneficiary;
+
+(b) any revenue made by the sale of products related to the animals slaughtered or culled or to the plants destroyed for preventive or eradication purposes on the order of the competent authorities.
+
+12\. Aid to make good the damage caused by animal diseases or plant pests shall be limited to costs and damage caused by animal diseases and plant pests for which the competent authority of the Member State has done one of the following:
+
+(a) formally recognised an outbreak, in the case of an animal disease;
+
+(b) formally acknowledged their presence, in the case of plants pests.
+
+13\. Aid in relation to the eligible costs referred to in paragraphs 8 and 9 shall be granted in kind and shall be paid to the provider of the prevention, control and eradication measures.
+
+By way of derogation from the first subparagraph, aid in relation to the eligible costs referred to in the following provisions may be granted directly to the beneficiary on the basis of reimbursement of the real costs incurred by the beneficiary:
+
+(a) paragraph 8, points (d) and (e) and paragraph 9, point (b), in the case of animal diseases or plant pests;
+
+(b) paragraph 8, point (e), and paragraph 9, point (c), in the case of plant pests and for the cleaning and disinfection of the holding and equipment.
+
+14\. No individual aid shall be granted where it is established that the animal disease or the infestation with the plant pest was caused deliberately or by the negligence of the beneficiary.
+
+15\. The aid and any other payments received by the beneficiary, including payments under other national or Union measures or insurance policies or mutual funds for the same eligible costs as referred to in paragraphs 8, 9, and 10 shall be limited to 100 % of the eligible costs.
+
+#### Article 27 — Aid to the livestock sector and aid for fallen stock
+
+1\. The following aid to livestock farmers shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall cover the costs for:
+
+(a) the administrative costs of the establishment and maintenance of breeding books;
+
+(b) the tests performed by or on behalf of third parties, to determine the genetic quality or yield of livestock, with the exception of controls undertaken by the owner of the livestock and routine controls of milk quality;
+
+(c) the removal of fallen stock;
+
+(d) the destruction of fallen stock;
+
+(e) the removal and destruction of fallen stock where the aid is financed through fees or through compulsory contributions destined for the financing of the destruction of such fallen stock, provided that such fees or contributions are limited to and directly imposed on the meat sector;
+
+(f) the costs of the removal and destruction of fallen stock where there is an obligation to perform TSE tests on the fallen stock concerned or in case of an outbreak of an animal disease referred to in Article 26(3).
+
+3\. Aids referred to in paragraph 2, points (c), (d), (e) and (f), shall be conditional on the existence of a consistent monitoring programme which ensures the safe disposal of all fallen stock in the Member State.
+
+The aid towards the costs of premiums paid by farmers for insurance covering the costs of the removal and destruction of fallen stock referred to in paragraph 2, point (e), of this Article shall comply with the conditions laid down in Article 28(2).
+
+4\. The aid shall be provided in kind and shall not involve direct payments to the beneficiaries.
+
+In order to facilitate the administration of the aid referred to in paragraph 2, points (c), (d), (e) and (f) the aid may be paid to economic operators or bodies that fulfil the following conditions:
+
+(a) they are active downstream from the undertakings active in the livestock sector;
+
+(b) they provide services linked to the removal and destruction of fallen stock.
+
+5\. The aid intensity shall be limited to:
+
+(a) 70 % of the costs of tests as referred to in paragraph 2, point (b);
+
+(b) 75 % of the costs linked to destruction referred to in paragraph 2, point (d);
+
+(c) 100 % of the administrative costs referred to in paragraph 2, point (a) and of the costs linked to removal and destruction referred to in paragraph 2, points (c), (e) and (f).
+
+#### Article 28 — Aid for the payment of insurance premiums and for financial contributions to mutual funds
+
+1\. Aid for the payment of insurance premiums and for financial contributions to mutual funds shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid for the payment of insurance premiums shall not:
+
+(a) constitute a barrier to the operation of the internal market for insurance services;
+
+(b) be limited to insurance provided by a single insurance company or group of companies;
+
+(c) be made subject to the condition that the insurance contract be taken out with a company established in the Member State concerned.
+
+3\. The insurance or contribution to the mutual fund shall be intended to cover losses caused by any of the following:
+
+(a) natural disasters;
+
+(b) an adverse climatic event which can be assimilated to a natural disaster and other adverse climatic events;
+
+(c) animal diseases or plant pest or protected animals;
+
+(d) compensate for the insurance premiums for insurance covering the costs of the removal and destruction of fallen stock.
+
+4\. The insurance or contribution to the mutual fund shall:
+
+(a) compensate only the cost of making good the losses referred to in paragraph 3;
+
+(b) not require or specify the type or quantity of future agricultural production.
+
+5\. Member States may limit the amount of the insurance premium that is eligible for aid by applying appropriate ceilings.
+
+6\. The mutual fund concerned shall fulfil the following cumulative conditions:
+
+(a) be accredited by the competent authority of the Member State in accordance with national law;
+
+(b) have a transparent policy towards payments into and withdrawals from the fund;
+
+(c) have clear rules attributing responsibilities for any debts incurred.
+
+7\. Member States shall define the rules for the constitution and management of the mutual funds, in particular for the granting of compensation payments, as well as for the administration and monitoring of compliance with those rules. Member States shall ensure that the fund arrangements provide for penalties in case of negligence on the part of the beneficiary.
+
+8\. The aid intensity shall be limited to 70 % of the costs of the insurance premium or of the financial contribution to a mutual fund.
+
+#### Article 29 — Aid to make good the damage caused by protected animals
+
+1\. Aid to make good the damage caused by protected animals shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The Member State shall establish a direct causal link, pursuant to paragraph 5, between the damage suffered and the behaviour of the protected animal.
+
+3\. Aid shall be paid directly to the undertaking concerned or to a producer group or organisation of which that undertaking is a member. Where the aid is paid to a producer group and organisation, the amount of aid shall not exceed the amount of aid to which that undertaking is eligible.
+
+4\. The aid scheme shall be established within a period of three years and the aid paid out within four years from the date of the occurrence of the damaging event.
+
+5\. The eligible costs shall be the costs incurred as a direct consequence of the event that caused the damage as assessed by a public authority, by an independent expert recognized by the granting authority or by an insurance undertaking.
+
+The eligible costs may include the following:
+
+(a) animals killed or plants destroyed: the eligible costs are based on the market value of the animals killed or of the plants destroyed by the protected animals;
+
+(b) indirect costs: veterinary costs resulting from the treatment of wounded animals and labour costs related to the search for missing animals, loss of income due to lower production yield linked to attacks by protected animals;
+
+(c) the material damage to the following assets: farm equipment, machinery and farm buildings and stocks; the calculation of the material damage shall be based on the repair cost or economic value of the affected asset before the event that caused the damage; it shall not exceed the repair cost or the decrease in fair market value caused by the event causing the damage, that is to say the difference between the asset’s value immediately before and immediately after the event.
+
+6\. The damage shall be calculated at the level of the individual beneficiary.
+
+The amount shall be reduced by any costs not incurred as a consequence of the event causing the damage, which would otherwise have been incurred by the beneficiary.
+
+7\. A minimum effort from the beneficiaries shall be requested by the competent Member State authorities to mitigate the risk of distortions of competition and to provide an incentive for minimising the risk. This effort shall take the form of preventive measures, such as safety fences where possible, or livestock guarding dogs, which are proportionate to the risk of damage caused by protected animals in the area concerned, unless such measures are not reasonably possible. This paragraph shall not apply to the first attack of a protected animal in a given area.
+
+8\. Aid under this Article shall be limited to 100 % of the eligible costs.
+
+9\. The aid and any other payments received to make good the damage, including payments under other national or Union measures or insurance policies for the damage receiving aid, shall be limited to 100 % of the eligible costs.
+
+#### Article 30 — Aid for conservation of genetic resources in agriculture
+
+1\. Aid for the conservation of genetic resources in agriculture, linked to agri-environmental-climate commitments shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. For the purposes of this Article the following definitions shall apply:
+
+(a) ‘in situ conservation’ means the conservation of genetic material in ecosystems and natural habitats and the maintenance and recovery of viable population of species or feral breeds in their natural surroundings and, in the case of domesticated animal breeds or cultivated plant species, in the farmed environment where they have developed their distinctive properties;
+
+(b) ‘on-farm conservation’ means in situ conservation and development at farm level;
+
+(c) ‘ex situ conservation’ means the conservation of genetic material for agriculture outside their natural habitat;
+
+(d) ‘ex situ collection’ means a collection of genetic material for agriculture maintained outside their natural habitat.
+
+3\. Commitments to rear local breeds in danger of being lost to farming or to preserve plant genetic resources under threat of genetic erosion shall include one of the following:
+
+(a) to rear farm animals of local endangered breeds;
+
+(b) to preserve plant genetic resources naturally adapted to the local and regional conditions and under threat of genetic erosion.
+
+4\. Local breeds shall be considered endangered breeds if the conditions set out in Article 2, point (24) of Regulation (EU) 2016/1012 are fulfilled and if those conditions are also set out and included in the information to be provided to the Commission in accordance with Article 9(1) of this Regulation.
+
+5\. The following species of farm animals shall be eligible for aid: cattle; sheep; goats; equidae; pigs; birds; rabbits and bees.
+
+6\. Plant genetic resources shall be considered as being under threat of genetic erosion on condition that sufficient evidence of genetic erosion, based upon scientific results or indicators for the reduction of landraces or primitive local varieties, their population diversity and, where relevant, for modifications in the prevailing agricultural practices at local level, is described and included in the information to be published pursuant to Article 9(1), point (b).
+
+7\. The aid shall cover the costs for the following operations:
+
+(a) targeted actions: actions promoting the in situ and ex situ conservation, characterisation, collection and utilisation of genetic resources in agriculture, including web-based inventories of genetic resources currently conserved in situ, and of ex situ collections and databases;
+
+(b) concerted actions: actions promoting the exchange of information for the conservation, characterisation, collection and utilisation of genetic resources in Union agriculture, among competent organisations in the Member States;
+
+(c) accompanying actions: information, dissemination and advisory actions involving non-governmental organisations and other relevant stakeholders, training courses and preparation of technical reports.
+
+8\. The aid shall be limited to 100 % of the eligible costs.
+
+#### Article 31 — Aid for animal welfare commitments
+
+1\. Aid for animal welfare commitments shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall be granted to undertakings which undertake, on a voluntary basis, to carry out operations consisting of one or more animal welfare commitments referred to in paragraph 7.
+
+3\. Member States shall provide aid only for commitments which go beyond the relevant mandatory standards established by Title III, Chapter I, Section 2, of Regulation (EU) 2021/2115 and other relevant mandatory requirements established by national and Union law.
+
+4\. Aid under this Article shall be granted only for commitments that are different from commitments in respect of which payments are granted under Article 31 of Regulation (EU) 2021/2115.
+
+5\. All mandatory standards and requirements referred to in paragraphs 3 and 4 of this Article shall be identified and described in the national legal basis.
+
+6\. Where national law imposes new requirements which go beyond the corresponding minimum requirements laid down in Union law, support may be granted for commitments contributing to compliance with those requirements for a maximum of 24 months from the date on which they become mandatory for the holding.
+
+7\. Animal welfare commitments eligible to receive aid shall provide upgraded standards of production methods in one of the following areas:
+
+(a) water, feed and animal care in accordance with the natural needs of animals;
+
+(b) housing conditions that improve the comfort of animals and their freedom of movement, such as increased space allowances, flooring surfaces, natural light, microclimate control, as well as housing conditions such as free farrowing or group housing, depending on the natural needs of animals;
+
+(c) conditions allowing for expression of natural behaviour, such as enrichment of living environment or late weaning;
+
+(d) outdoor access and grazing;
+
+(e) practices that increase animal robustness and longevity, including slower growing breeds;
+
+(f) practices which avoid mutilation or castration of animals. In specific cases when mutilation or castration of animals is deemed necessary, anaesthetics, analgesia and anti-inflammatory medication or immunocastration must be used;
+
+(g) sanitary measures, preventing non-transmissible diseases, that do not require the use of medical substances such as vaccines, insecticides or anti-parasitic drugs.
+
+8\. The animal welfare commitments shall be undertaken for a period of one to seven years. Where necessary in order to achieve or maintain certain animal welfare benefits, Member States may determine a longer period for particular types of commitments, including by means of providing for their annual extension after the termination of the initial period.
+
+9\. The renewal of a commitments contracts can be also automatic, if its details are described in the contract. The mechanism of renewal of the animal welfare commitments shall be set up by the Member States in accordance with the relevant national rules. Such mechanism shall be described in the national legal basis. The renewal shall always be subject to respect of conditions pursuant to this Article.
+
+10\. Member States shall ensure that the undertakings carrying out operations under this Article have access to the relevant knowledge and information required to implement such operations, and that appropriate training is made available for those who require it, as well as access to expertise in order to assist farmers who commit to change their production systems.
+
+11\. For commitments undertaken pursuant to this Article, the Member State shall provide a revision clause in order to ensure their adjustment in the case of amendments of the relevant mandatory requirements and standards referred to in paragraphs 3 and 7.
+
+12\. The aid shall be granted annually in order to compensate for all or part of the additional costs and income foregone resulting from the animal welfare commitments.
+
+13\. The aid shall be limited to 100 % of the costs referred to in paragraph 12 and shall not exceed EUR 500 per livestock unit.
+
+#### Article 32 — Aid for cooperation in the agricultural sector
+
+1\. Aid for cooperation in the agricultural sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall only be granted to promote cooperation, which contributes to achieving one or more of the objectives set out in Article 6(1) and (2) of Regulation (EU) 2021/2115.
+
+3\. Forms of cooperation covered by this Article shall involve at least two actors irrespective of whether they are active in the agricultural sector, but subject to the cooperation benefitting mainly the agricultural sector.
+
+4\. The following forms of cooperation shall be eligible:
+
+(a) cooperation among different undertakings in the agricultural sector, food chain and other actors active in the agricultural sector, including producer groups, cooperatives and inter-branch organisation, that contribute to achieving the objectives and priorities of rural development policy;
+
+(b) the creation of clusters and networks;
+
+(c) farm succession, in particular for generational renewal at farm level (aid shall be limited to farmers who have, or will have by the end of the operation reached the retirement age, determined by the Member State concerned in accordance with its national legislation).
+
+5\. Aid shall not be granted for cooperation solely involving research bodies.
+
+6\. Aid may be granted for cooperation relating to the following activities:
+
+(a) pilot projects;
+
+(b) the development of new products, practices, processes and technologies in the agricultural and food sectors as far as agricultural products are concerned;
+
+(c) cooperation among small operators in the agricultural sector in organizing joint work processes and sharing facilities and resources;
+
+(d) horizontal and vertical cooperation among supply chain actors for the establishment and development of short supply chains and local markets;
+
+(e) promotion activities in a local context relating to the development of short supply chains and local markets;
+
+(f) collective action undertaken with a view to mitigating or adapting to climate change;
+
+(g) joint approaches to environmental projects and ongoing environmental practices including efficient water management, the use of renewable energy ( 28 ) and the preservation of agricultural landscapes;
+
+(h) horizontal and vertical cooperation among supply chain actors in the sustainable provision of biomass for use in food production if the result is an agricultural product and energy production for own consumption;
+
+(i) implementation, in particular by groups of public and private partners other than those referred to in Article 31(2), point (b), of Regulation (EU) 2021/1060, of local development strategies other than those referred to in Article 32 of Regulation (EU) 2021/1060.
+
+7\. Aid shall only be granted to new forms of cooperation, including existing ones if starting a new activity.
+
+8\. Aid for the establishment and development of short supply chains, as referred to in paragraph 6, points (d) and (e), shall cover only supply chains involving no more than one intermediary between farmer and consumer.
+
+9\. Aid under this Article shall comply with Articles 206 to 210a of Regulation (EU) No 1308/2013.
+
+10\. Operations which consist of investments shall comply with the rules and requirements, as specified in the applicable Article on investment aid of this Regulation, as well as Article 4 on notification thresholds.
+
+11\. The following costs shall be eligible, in so far as they concern agricultural activities:
+
+(a) the costs of preparatory support, capacity building, training and networking with a view of preparing and implementing a cooperation project;
+
+(b) the costs for studies of the area concerned, of feasibility studies, and of drawing up a business plan or local development strategy other than the one referred to in Article 32 of Regulation (EU) 2021/1060;
+
+(c) the running costs of cooperation;
+
+(d) the costs of operations to be implemented, including costs linked to animation;
+
+(e) the costs for promotion activities.
+
+12\. Aid shall be limited to a maximum period of seven years.
+
+13\. The aid shall be limited to 100 % of the eligible costs.
+
+14\. In case of operations referred to in paragraph 11, point (d), which consist of investments, aid shall be limited to the maximum aid intensity of investment aid, as specified in the relevant Article on investment aid.
+
+### Section 2 — Aid for environmental protection in agriculture
+
+#### Article 33 — Aid for disadvantages related to Natura 2000 areas
+
+1\. Aid for disadvantages related to Natura 2000 agricultural areas shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall be granted annually and per hectare of agricultural land in order to compensate beneficiaries for additional costs and income foregone, resulting from disadvantages in the agricultural areas directly impacted by the implementation of Directive 92/43/EEC and Directive 2009/147/EC.
+
+3\. Aid shall only be granted in relation to disadvantages resulting from requirements that go beyond the relevant Good Agricultural and Environmental Conditions (‘GAEC’) standards established under Title III, Chapter I, Section 2 of Regulation (EU) 2021/2115 as well as the conditions established for the maintenance of the agricultural area in accordance with Article 4(1), point (a) of Regulation (EU) 2021/2115.
+
+4\. Aid shall be paid only in relation to the following agricultural areas:
+
+(a) Natura 2000 agricultural areas;
+
+(b) other delimited nature protection areas with environmental restrictions applicable to farming, which contribute to the implementation of Article 10 of Directive 92/43/EEC; these areas shall not exceed 5 % of the designated Natura 2000 areas covered by the territorial scope of the relevant CAP Strategic Plan.
+
+5\. The aid intensity shall be limited to 100 % of the costs referred to in paragraph 2 and shall not exceed EUR 500 per hectare per year in the initial period of maximum five years and EUR 200 per hectare per year thereafter.
+
+#### Article 34 — Aid for agri-environmental-climate commitments
+
+1\. Aid for agri-environmental-climate commitments shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid may be granted to all undertakings and groups of such undertakings which undertake, on a voluntary basis, to carry out operations consisting of one or more of the commitments referred to in paragraph 1 with a view to preserving and promoting the necessary changes to agricultural practices that make a positive contribution to the environment and climate.
+
+3\. Member States shall provide aid only for commitments which go beyond:
+
+(a) the relevant statutory management requirements and GAEC standards established under Title III, Chapter I, Section 2, of Regulation (EU) 2021/2115;
+
+(b) the relevant minimum requirements for the use of fertiliser and plant protection products as well as other relevant mandatory requirements established by national and Union law;
+
+(c) the conditions established for the maintenance of the agricultural area in accordance with Article 4(2), point (b) of Regulation (EU) 2021/2115.
+
+4\. All mandatory standards and requirements referred to in paragraph 3 shall be identified and described in the national legal basis.
+
+5\. For commitments referred to in paragraph 3, point (b), where national law imposes new requirements which go beyond the corresponding minimum requirements laid down in Union law, aid may be granted for commitments contributing to compliance with those requirements for a maximum of 24 months from the date on which they become mandatory for the holding.
+
+6\. Member States shall ensure that the undertakings receiving aid under this Article have access to the relevant knowledge and information required to implement such operations, and that appropriate training is made available for those who require it, as well as access to expertise in order to assist farmers who commit to change their production systems.
+
+7\. Commitments under this Article shall be undertaken for a period of five to seven years. However, where necessary in order to achieve or maintain the environmental benefits sought, Member States may determine a longer period for particular types of commitments, including by means of providing for their annual extension after the termination of the initial period. For commitments for the conservation, sustainable use and development of genetic resources, for new commitments directly following the commitment performed in the initial period or in other duly justified cases, Member States may determine a shorter period of at least one year.
+
+9\. Commitments to extensify livestock farming shall comply with at least the following conditions:
+
+(a) the whole grazed area of the holding shall be managed and maintained to avoid over- and under-grazing;
+
+(b) livestock density shall be defined taking account of all grazing livestock kept on the farm or, in the case of a commitment to limit nutrient leaching, all animals kept on the farm which are relevant to the commitment in question.
+
+10\. Aid may cover collective schemes and result-based payments schemes, such as carbon farming schemes, to encourage farmers to deliver a significant enhancement of the quality of the environment at a larger scale or in a measurable way. Result-based carbon farming schemes shall ensure that quality criteria regarding quantification, additionality, long-term storage and sustainability are complied with, also taking into account the Communication on Sustainable Carbon Cycles ( 29 ) as regards the certification of carbon removals.
+
+11\. For commitments undertaken pursuant to this Article, the Member State shall provide a revision clause in order to ensure their adjustment in the case of amendments to the relevant mandatory requirements, standards and conditions referred to in paragraphs 3, 4 and 9.
+
+12\. The aid shall be granted annually in order to compensate for all or part of the additional costs and income foregone, resulting from the agri-environmental-climate commitments.
+
+13\. No aid under this Article shall be granted for commitments that fall within the scope of Article 35.
+
+14\. Aid shall be paid per hectare.
+
+15\. The aid shall be limited to 100 % of the eligible costs and shall not exceed EUR 600 per hectare per year for annual crops, EUR 900 per hectare per year for specialised perennial crops and EUR 450 per hectare per year for other land uses.
+
+#### Article 35 — Aid for organic farming
+
+1\. Aid for organic farming shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid may be granted to all undertakings or groups of undertakings which undertake on a voluntarily basis to convert to or maintain organic farming practices and methods as defined in Regulation (EU) 2018/848.
+
+3\. Member States shall provide aid only for commitments which go beyond:
+
+(a) the relevant statutory management requirements and GAEC standards established under Title III, Chapter I, Section 2, of Regulation (EU) 2021/2115;
+
+(b) the relevant minimum requirements for the use of fertiliser and plant protection products, animal welfare, and other relevant mandatory requirements established by national and Union law;
+
+(c) the conditions established for the maintenance of the agricultural area in accordance with Article 4(2) of Regulation (EU) 2021/2115.
+
+4\. All such mandatory standards and requirements shall be identified and described in the national legal basis.
+
+5\. For commitments referred to in paragraph 3, point (b), where national law imposes new requirements which go beyond the corresponding minimum requirements laid down in Union law, aid may be granted for commitments contributing to compliance with those requirements for a maximum of 24 months from the date on which they become mandatory for the holding.
+
+6\. Commitments referred to in paragraph 3 shall be carried out over an initial period of five to seven years. In order to achieve or maintain certain environmental benefits sought, Member States may determine a longer period, including by providing for an annual extension after the termination of the initial period. Where aid is granted for conversion to organic farming Member States may determine a shorter period of at least one year. With regard to new commitments concerning maintenance directly following the commitment completed in the initial period, Member States may determine a shorter period of at least one year.
+
+7\. Member States shall ensure that the undertakings carrying out operations under this Article have access to the relevant knowledge and information required to implement such operations, and that appropriate training is made available for those who require it, as well as access to expertise in order to assist farmers who commit to change their production systems.
+
+8\. For commitments undertaken pursuant to this Article, the Member State shall provide a revision clause in order to ensure their adjustment in the case of amendments to the relevant mandatory requirements, standards and conditions referred to in paragraph 3.
+
+9\. The aid shall be granted annually in order to compensate for all or part of the additional costs and income foregone resulting from the commitments. Aid under this Article shall not be granted for commitments covered by Article 34, or for costs covered by Article 20.
+
+10\. Aid for investment in primary production and the processing and marketing of organic products shall be subject to the provisions of Articles 14 and 17.
+
+11\. The aid shall be limited to 100 % of the eligible costs and shall not exceed EUR 600 per hectare per year for annual crops, EUR 900 per hectare per year for specialised perennial crops and EUR 450 per hectare per year for other land uses.
+
+### Section 3 — Aid for investments in favour of conservation of cultural and natural heritage
+
+#### Article 36 — Aid for investments in favour of the conservation of cultural and natural heritage located on agricultural holdings or in forests
+
+1\. Aid for investments aimed at the conservation of cultural and natural heritage located on agricultural holdings or in forests shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the relevant conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid may be granted for investments aimed at the conservation of cultural and natural heritage located on agricultural holdings or in forests.
+
+3\. The aid shall be granted for the conservation of cultural and natural heritage in the form of natural landscapes and buildings, which is formally recognized as cultural or natural heritage by the competent public authorities of the Member State concerned.
+
+4\. The aid shall cover the following eligible costs intended for the conservation of cultural and natural heritage:
+
+(a) investment costs in tangible assets;
+
+(b) capitalised works.
+
+5\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+6\. Aid for capitalised works shall be limited to EUR 10 000 per year.
+
+### Section 4 — Aid to make good the damage caused by natural disasters in the agricultural sector
+
+#### Article 37 — Aid to make good the damage caused by natural disasters in the agricultural sector
+
+1\. Aid schemes to make good the damage caused by natural disasters shall be compatible with the internal market within the meaning of Article 107(2), point (b), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where they fulfil the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall be subject to the following conditions:
+
+(a) it shall be paid only when the competent authority of the Member State has formally recognised the character of the event as a natural disaster;
+
+(b) when there is a direct causal link between the natural disaster and the damage suffered by the undertaking.
+
+3\. The aid shall be paid directly to the undertaking concerned or to a producer group or organisation of which that undertaking is a member.
+
+Where the aid is paid to a producer group or organisation, the amount of aid shall not exceed the amount of aid to which that undertaking is eligible.
+
+4\. Aid schemes related to a natural disaster shall be established within three years and the aid paid out within four years from the date of the occurrence of the natural disaster.
+
+5\. The eligible costs shall be the damage incurred as a direct consequence of the natural disaster, as assessed by a public authority, by an independent expert recognised by the granting authority or by an insurance undertaking.
+
+6\. The damage incurred due to the natural disaster shall be calculated at the level of the individual beneficiary.
+
+7\. The aid may relate to the following:
+
+(a) the loss of income resulting from the full or partial destruction of the agricultural production and the means of production as referred to in paragraph 8;
+
+(b) material damage as referred to in paragraph 9.
+
+8\. The loss of income shall be calculated by subtracting:
+
+(a) the result of multiplying the quantity of the agricultural products produced in the year of the natural disaster, or in each following year affected by the full or partial destruction of the means of production, by the average selling price obtained during that year,
+
+from
+
+(b) the result of multiplying the average annual quantity of agricultural products produced in the three-year period preceding the natural disaster or a three year average based on the five-year period preceding the natural disaster, excluding the highest and lowest entry by the average selling price obtained.
+
+Where an SME was set up less than three years from the date of the occurrence of the natural disaster, the reference to the three-year period in paragraph 8, point (b) shall be understood as referring to the quantity produced and sold by an average undertaking of the same size as the applicant, namely a micro enterprise or a small enterprise or a medium enterprise, respectively, in the national or regional sector affected by the natural disaster.
+
+The loss of income may be calculated either at annual farm production level or at crop or livestock level.
+
+That amount may be increased by other costs incurred by the beneficiary directly linked to the natural disaster.
+
+That amount shall be reduced by any costs not incurred because of the natural disaster.
+
+Indexes may be used in order to calculate the annual agricultural production of the beneficiary provided that the calculation method used permits the determination of the real loss of the beneficiary in the given year.
+
+9\. The material damage to assets such as farm buildings, equipment and machinery, stocks and means of production caused by the natural disaster shall be calculated on the basis of the repair cost or economic value of the affected asset immediately before the disaster.
+
+It shall not exceed the repair cost or the decrease in fair market value caused by the disaster, namely the difference between the asset’s value immediately before and immediately after the disaster.
+
+10\. The aid and any other payments received to compensate the losses, including payments under insurance policies, shall be limited to 100 % of the eligible costs.
+
+### Section 5 — Aid for research development and innovation
+
+#### Article 38 — Aid for research and development in the agricultural and forestry sectors
+
+1\. Aid for research and development projects in the agricultural and forestry sectors and sub-sectors shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aided project shall be of general interest to all undertakings active in the sector or sub-sector concerned as referred to in paragraph 1.
+
+3\. Prior to the date of the start of the aided project the following information shall be published on a publicly accessible website at national or regional level:
+
+(a) that the aided project is to be carried out;
+
+(b) the goals of the aided project;
+
+(c) an approximate date for the publication of the expected results of the aided project;
+
+(d) the place of publication of the expected results of the aided project on the internet;
+
+(e) that the results of the aided project will be available at no cost to all undertakings active in the sector or sub-sector concerned.
+
+4\. The results of the aided project shall be made available on a publicly accessible website from the end date of the aided project or the date on which any information concerning those results is given to members of any particular organisation, whatever comes first. The results shall remain available on the internet for a period of at least five years starting from the end date of the aided project.
+
+5\. The aid shall be granted directly to the research and/or knowledge-dissemination organisation.
+
+6\. The aid shall not involve payments to undertakings active in the agricultural or forestry sector based on the price of the agricultural or forestry products.
+
+7\. The eligible costs shall be the following:
+
+(a) personnel costs related to researchers, technicians and other supporting staff to the extent employed on the project;
+
+(b) costs of instruments and equipment to the extent and for the period used for the project; where such instruments and equipment are not used for their full life for the project, only the depreciation costs corresponding to the life of the project, as calculated on the basis of generally accepted accounting principles are considered as eligible;
+
+(c) costs of buildings and land, to the extent and for the duration period used for the project and under the following conditions:
+
+(i) with regard to buildings, only the depreciation costs corresponding to the life of the project, as calculated on the basis of generally accepted accounting principles, are considered as eligible;
+
+(ii) with regard to land, costs of commercial transfer or actually incurred capital costs are eligible;
+
+(d) costs of contractual research, knowledge and patents bought or licensed from outside sources at arm’s length conditions, as well as costs of consultancy and equivalent services used exclusively for the project;
+
+(e) additional overheads and other operating expenses, including costs of materials, supplies and similar products, incurred directly as a result of the project.
+
+8\. Where a research, and/or knowledge-dissemination organisation also pursues economic activities the financing, the costs and the revenues of those economic activities shall be accounted for separately.
+
+9\. Undertakings that can exert influence upon research and/or knowledge-dissemination organisation, in the quality of, for example, shareholders or members, may not enjoy a preferential access to its research capacities or to the results generated by it.
+
+10\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+#### Article 39 — Aid for costs incurred by undertakings participating in EIP Operational Group projects
+
+1\. Aid for costs incurred by undertakings participating in EIP Operational Group projects covered by Article 127 of Regulation (EU) 2021/2115, shall be compatible with the internal market within the meaning of Article 107(3), point (c) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The following costs shall be eligible for EIP Operational Group projects:
+
+(a) the costs of preparatory support, capacity building, training and networking with a view to preparing and implementing an EIP Operational Group project;
+
+(b) implementation of approved operations;
+
+(c) preparation and implementation of the group’s cooperation activities;
+
+(d) running costs linked to the management of the implementation of EIP Operational Group project;
+
+(e) animation of the EIP community in order to facilitate exchange between stakeholders to provide information and to promote the projects, and to support potential beneficiaries with a view of developing operations and preparing applications.
+
+3\. The aid intensity shall not exceed the maximum support rates provided for each type of operation in Regulation (EU) 2021/2115.
+
+#### Article 40 — Limited amounts of aid to undertakings benefitting from EIP Operational Group projects
+
+1\. Aid to undertakings participating in, or benefitting from, EIP Operational Group projects, as referred to in Article 39(1) of this Regulation, shall be compatible with the internal market within the meaning of Article 107(3), point (c) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The total amount of aid granted per EIP Operational Group projects shall not exceed EUR 500 000 .
+
+### Section 6 — Aid in favour of forestry
+
+#### Article 41 — Aid for afforestation and the creation of woodland
+
+1\. Aid for afforestation and the creation of woodland shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid for afforestation and the creation of woodland shall cover the costs of establishment and an annual premium per hectare.
+
+The aid for afforestation and the creation of woodland may cover investment operations.
+
+3\. Aid for afforestation and the creation of woodland related to investment operations shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of the total eligible costs of the operation concerned with the exception of land purchase if the aid is granted in the framework of a CAP Strategic Plan;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to the expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on the results of those studies, no expenditure under points (a) and (b) is incurred;
+
+(d) the acquisition, development or usage fees of computer software, cloud and similar solutions, and the acquisitions of patents, licences, copyrights, trademarks;
+
+(e) the costs of establishing forest management plans or equivalent instruments.
+
+Aid which is granted in the framework of a CAP Strategic Plan and which is provided in the form of financial instruments may cover eligible costs other than those referred to in the first subparagraph, provided that the costs are fully eligible under the relevant CAP Strategic Plan and that the aid is put into effect after the approval of the relevant Strategic Plan by the Commission.
+
+Save where support is provided in the framework of a CAP Strategic Plan in the form of financial instruments, working capital shall not be considered to be an eligible cost.
+
+4\. For investment operations requiring an environmental impact assessment under Directive 2011/92/EU the aid shall be subject to the condition that such assessment has been carried out and the development consent has been granted for the investment project concerned before the date of granting the individual aid.
+
+5\. The following costs of establishment shall be eligible:
+
+(a) the costs of the plantation and propagation material;
+
+(b) the plantation costs and the costs directly linked to the plantation;
+
+(c) the costs of other related operations such as storing and treatment of seedlings with the necessary prevention and protection materials;
+
+(d) the costs of replacement of die-off during the first year and the replacement of small-scale die-off during the first years following plantation. The costs of the replacement of large-scale die-off may only be supported under Article 43.
+
+6\. The annual premium per hectare shall cover the costs for the income foregone and the costs of maintenance, including early and late cleanings, for a maximum period of 12 years from the date of granting the aid.
+
+7\. Aid shall not be granted for planting the following trees:
+
+(a) trees for short rotation coppicing;
+
+(b) Christmas trees;
+
+(c) fast growing trees for energy production;
+
+(d) species non-native to the area, save where support is provided in the framework of the CAP Strategic Plan;
+
+(e) investments in afforestation which are not consistent with climate and environmental objectives in accordance with sustainable forest management principles, as developed in the Pan-European Guidelines for Afforestation and Reforestation ( 30 ).
+
+8\. The species planted shall be adapted to the environmental and climatic conditions of the area and comply with minimum environmental requirements referred to in point (12).
+
+9\. In areas where afforestation is difficult due to severe pedo-climatic conditions, aid may be provided for planting perennial woody species such as shrubs or bushes suitable to the local conditions.
+
+10\. Aid for large enterprises shall be conditional on the presentation of relevant information from a forest management plan or equivalent instrument in accordance with the General Guidelines for the Sustainable Management of Forests in Europe ( 31 ).
+
+This requirement does not apply to municipalities that are autonomous local authorities with an annual budget of less than EUR 10 million and fewer than 5 000 inhabitants.
+
+11\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+12\. The following minimum environmental requirements shall apply in the context of aid for afforestation and the creation of woodland:
+
+(a) the selection of species to be planted, of areas and of methods to be used shall avoid the inappropriate afforestation of sensitive habitats such as peat lands and wetlands and negative effects on areas of high ecological value including areas under high natural value farming. Pursuant to Directive 92/43/EEC and Directive 2009/147/EC on sites designated as Natura 2000 only afforestation consistent with the management objectives of the sites concerned and agreed with the Member State’s authority in charge of implementing Natura 2000 shall be allowed;
+
+(b) the selection of species, varieties, ecotypes and provenances of trees shall take account of the need for resilience to climate change and to natural disasters and the pedologic and hydrologic condition of the area concerned, as well as of the potential invasive character of the species under local conditions as defined by Member States. The beneficiary shall be required to protect and care for the forest at least during the period for which the premium for agricultural income foregone and maintenance is paid. This shall include tending, thinning or grazing, as appropriate, in the interest of the future development of the forest and regulating competition with herbaceous vegetation and avoiding the building up of fire prone undergrowth material. As regards fast-growing species, Member States shall define the minimum and maximum time before felling. The minimum time shall not be less than 8 years and the maximum shall not exceed 20 years;
+
+(c) in cases where, due to difficult soil, environmental or climatic conditions, including environmental degradation, the planting of perennial woody species cannot be expected to lead to the establishment of forest cover as defined in accordance with the applicable national legislation, the Member State concerned may allow the beneficiary to establish other woody vegetation cover such as shrubs or bushes suited to the local conditions. The beneficiary shall ensure the same level of care and protection as applicable to forests;
+
+(d) in the case of afforestation operations leading to the creation of forests of a size exceeding a certain threshold, to be defined by Member States, the operation shall consist of either of the following:
+
+(i) the planting of ecologically adapted species or species resilient to climate change in the bio-geographical area concerned, which have been found, through an assessment of impacts, not to threaten biodiversity and ecosystem services, or to have a negative impact on human health;
+
+(ii) a mix of tree species which includes either at least 10 % of broadleaved trees by area, or a minimum of three tree species or varieties, with the least abundant making up at least 10 % of the area.
+
+#### Article 42 — Aid for agroforestry systems
+
+1\. Aid for agroforestry systems shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid for agroforestry systems shall cover the costs of establishment, regeneration or renovation and an annual premium per hectare.
+
+3\. Aid for agroforestry systems may cover investment operations.
+
+4\. Save where support is provided in the form of financial instruments, aid for agroforestry systems related to investment operations shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of the total eligible costs of the operation concerned with the exception of land purchase if the aid is granted in the framework of a CAP Strategic Plan;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to the expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where no expenditure as referred under in points (a) and (b) is incurred;
+
+(d) the acquisition, development or usage fees of computer software, cloud and similar solutions, and the acquisition of patents, licences, copyrights, trademarks;
+
+(e) the costs of establishing forest management plans or equivalent instrument.
+
+Save where support is provided in the framework of a CAP Strategic Plan in the form of financial instruments, working capital shall not be considered to be an eligible cost.
+
+5\. For investment operations requiring an environmental impact assessment under Directive 2011/92/EU the aid shall be subject to the condition that such assessment shall have been carried out and the development consent shall have been granted for the investment project concerned before the date of granting the individual aid.
+
+The first subparagraph shall not apply to aid which is provided in the form of financial instruments.
+
+6\. The following costs for establishment, regeneration or renovation of the agroforestry system shall be eligible:
+
+(a) the costs for planting trees, including the costs of the plantation material, the plantation, the storing and the treatments of seedlings with the necessary prevention and protection materials;
+
+(b) the costs for converting existing forests or other wooded land, including the costs for felling trees, thinning and pruning and protection against grazing animals;
+
+(c) other costs directly linked to the establishment, regeneration or renovation of an agroforestry system, such as costs for feasibility studies, establishment plan, soil examination, soil preparation and protection;
+
+(d) the costs of silvopastoral, namely grazing system, watering and protective facilities;
+
+(e) the costs of the necessary treatment connected to the establishment, regeneration or renovation of an agroforestry system, including watering and cutting;
+
+(f) the costs for replanting during the first year after the establishment, regeneration or renovation of an agroforestry system.
+
+7\. The annual premium per hectare shall cover the costs of maintenance of the agroforestry system, and shall be paid for a maximum period of 12 years from the date of granting the aid.
+
+The eligible costs of maintenance may relate to the established tree belts, the weeding, pruning and thinning and protective actions and investments such as fences or individual protection tubes.
+
+8\. Member States shall determine the structure and composition of the agroforestry system, taking account of the following:
+
+(a) local pedo-climatic and environmental conditions;
+
+(b) forestry species;
+
+(c) the need to ensure sustainable agricultural use of the land.
+
+9\. The maximum aid intensity shall be limited to 100 % of the eligible costs.
+
+#### Article 43 — Aid for the prevention and restoration of damage to forests
+
+1\. Aid for the prevention and restoration of damage to forests from forest fire, natural disasters, adverse climatic events which can be assimilated to a natural disaster, other adverse climatic events, plant pests, catastrophic events, climate change-related events, shall be compatible with the internal market within the meaning of Article 107(2), point (b), or respectively Article 107(3), point (c), of the Treaty, and shall be exempted from the notification requirement of Article 108(3) thereof, where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall cover the following eligible costs:
+
+(a) the establishment of protective infrastructure, including maintenance costs in the case of firebreaks;
+
+(b) local, small scale prevention activities against fire, or other natural hazards, including the costs of the use of grazing animals, such as sheds, watering, fences, and transport of the animals;
+
+(c) establishing and improving forest fire, pest and diseases monitoring facilities and communication equipment;
+
+(d) restoring forestry potential damaged by fires, natural disasters, adverse climatic events which can be assimilated to a natural disaster, other adverse climatic events, plant pests, catastrophic events and climate change-related events.
+
+3\. The aid shall not be granted for agricultural related activities in areas covered by commitments referred to in Article 34.
+
+4\. Only forest areas belonging to the forest protection plan established by the Member State concerned shall be eligible for aid for prevention of fire.
+
+5\. In the case of the restoration of forestry potential referred to in paragraph 2, point (d), the aid shall be subject to the following conditions:
+
+(a) the formal recognition by the competent authorities of the Member State concerned that the fire, natural disaster, adverse climatic event which can be assimilated to a natural disaster, other adverse climatic event, plant pest, catastrophic event or climate change related event has occurred and to the submission by the beneficiaries of proof of appropriate risk management tools to address the potential occurrence of the damaging event in the future where appropriate;
+
+(b) the formal recognition by the competent authorities of the Member State concerned that the measures in accordance with Regulation (EU) 2016/2031 to combat, eradicate or contain a plant pest have been implemented;
+
+(c) in the case of aid under Article 107(3), point (c), of the Treaty, submission by the beneficiaries of proof that such restoration will include adaptation measures to climate change, unless such adaptation measures form an integral part of the scheme and apply to all beneficiaries.
+
+6\. In the case of aid for prevention of damage to a forest from plant pests, the risk of occurrence of the plant pest shall be supported by scientific evidence and acknowledged by a scientific public organisation.
+
+The list of species of plant pest which cause or may cause damage shall be included in the aid scheme or ad hoc aid submitted by the relevant Member State.
+
+7\. The aided activities or projects shall be consistent with the forest protection plan established by the Member State.
+
+In the case of the restoration of forestry potential referred to in paragraph 2, point (d), the aid for large enterprises shall be conditional on the presentation of relevant information from a forest management plan or equivalent instrument in accordance with the General Guidelines for the Sustainable Management of Forests in Europe. This requirement does not apply to municipalities that are autonomous local authorities with an annual budget of less than EUR 10 million and fewer than 5 000 inhabitants.
+
+8\. Aid shall not be granted for loss of income resulting from fire, natural disasters, adverse climatic events which can be assimilated to a natural disaster, other adverse climatic events, plant pests, catastrophic events and climate change-related events.
+
+9\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+Aid granted for the eligible costs as referred to in paragraph 2, point (d), and any other payments received by the beneficiary, including payments under other national or Union measures or insurance policies for the same eligible costs shall be limited to 100 % of the eligible costs.
+
+#### Article 44 — Aid for investments improving the resilience and environmental value of forest ecosystems
+
+1\. Aid for investments improving the resilience and environmental value of forest ecosystems shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Investments shall be aimed at the achievement of commitments for environmental aims, for provision of ecosystem services or enhancement of the public amenity value of forest and wooded land in the area concerned or the improvement of the climate change mitigation and adaptation potential of ecosystems, without excluding economic benefits in the long term. Species non-native to the area shall be excluded, save where support is provided in the framework of the CAP Strategic Plan.
+
+3\. For investments requiring an environmental impact assessment under Directive 2011/92/EU, the aid shall be subject to the condition that such assessment shall have been carried out and the development consent shall have been granted for the investment project concerned before the date of granting the individual aid. However, aid provided in the form of financial instruments shall be exempt from that condition.
+
+4\. Except where support is provided in the form of financial instruments, the aid shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of the total eligible costs of the operation concerned with the exception of land purchase if the aid is granted in the framework of a CAP Strategic Plan;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) is incurred;
+
+(d) the acquisition, development or usage fees of computer software, cloud and similar solutions, and the acquisitions of patents, licenses, copyrights and trademarks;
+
+(e) the costs of establishing forest management plans or equivalent instrument;
+
+(f) the costs of the plantation and propagation material;
+
+(g) the plantation costs and the costs directly linked to the plantation;
+
+(h) the costs of other related operations such as storing and treatment of seedlings with the necessary prevention and protection materials;
+
+(i) the costs of replacement of die-off during the first year and the replacement of small-scale die-off during the first years following plantation. The costs of the replacement of large-scale die-off may only be supported under Article 43.
+
+5\. Save where support is provided in the form of financial instruments, costs other than those referred to in paragraph 4, points (a) and (b), connected with leasing contracts, such as lessor’s margin, interest refinancing costs, overheads and insurance charges shall not be considered to be eligible costs.
+
+Save where support is provided in the framework of a CAP Strategic Plan in the form of financial instruments, working capital shall not be considered to be an eligible cost.
+
+6\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+#### Article 45 — Aid for area-specific disadvantages resulting from certain mandatory requirements
+
+1\. Aid related to area-specific disadvantages imposed by requirements resulting from the implementation of Directive 92/43/EEC or Directive 2009/147/EC granted to forest holders, forest managers and their associations shall be compatible with the internal market within the meaning of Article 107(3), point (c) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall be granted annually and per hectare of forest area in order to compensate beneficiaries for additional costs and income foregone, resulting from disadvantages in the forest areas referred to in paragraph 3, related to the implementation of Directive 92/43/EEC and Directive 2009/147/EC.
+
+3\. Aid shall be paid only in relation to the following forestry areas:
+
+(a) Natura 2000 forest areas;
+
+(b) features of the landscape which contribute to the implementation of Article 10 of Directive 92/43/EEC, which shall not exceed 5 % of the areas included in the Natura 2000 network covered by the territorial scope of the Strategic Plan concerned.
+
+4\. Aid may be granted to forest holders, forest managers and their associations.
+
+5\. The aid intensity shall be limited to 100 % of the costs referred to in paragraph 2 and shall not exceed EUR 500 per hectare per year in the initial period not exceeding five years and EUR 200 per hectare per year thereafter.
+
+#### Article 46 — Aid for forest-environmental-climate services and forest conservation
+
+1\. Aid for forest-environmental and climate services and for forest conservation shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall cover only voluntary management commitments targeted at achieving one or more of the climate- and environment-related specific objectives set out in Article 6(1) of Regulation (EU) 2021/2115 which go beyond the relevant mandatory requirements established by national forestry legislation or other relevant national or Union legislation.
+
+3\. All mandatory requirements referred to in paragraph 2 shall be identified and described in the national legal basis.
+
+4\. Commitments shall be undertaken for a period of between five and seven years. However, where necessary and duly justified, Member States may provide for a longer period for particular types of commitments.
+
+5\. For commitments undertaken pursuant to this Article, the Member State shall provide a revision clause in order to ensure their adjustment in the case of amendments to the relevant mandatory requirements referred to in paragraph 2.
+
+6\. The aid shall compensate beneficiaries for all or part of the additional costs and income foregone as a result of undertaking the commitments referred to in paragraph 2.
+
+7\. The aid intensity shall be limited to 100 % of the eligible costs and shall not exceed EUR 200 per hectare per year.
+
+8\. Where aid is provided for under a Strategic Plan, the maximum amount provided for in paragraph 7 may be increased in exceptional cases, taking into account specific circumstances as provided for in that Strategic Plan.
+
+#### Article 47 — Aid for knowledge exchange and information actions in the forestry sector
+
+1\. Aid for knowledge exchange and information actions in favour of undertakings active in the forestry sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+Member States shall ensure that actions supported under this Article are consistent with the description of the AKIS provided in the CAP Strategic Plan.
+
+2\. Aid shall cover vocational training and skills acquisition actions, including training courses, workshops and coaching, demonstration activities, information actions, and promotion of innovation.
+
+Aid may also cover short-term forest management exchanges and forest visits which shall focus, in particular, on sustainable forestry methods or technologies, the development of new business opportunities and new technologies, and on the improvement of forest resilience.
+
+Aid for demonstration activities may cover relevant investment costs.
+
+3\. The aid shall cover the following eligible costs:
+
+(a) the costs of organising and delivering the knowledge exchange or information action;
+
+(b) in the case of demonstration projects related to investments:
+
+(i) the construction, acquisition, including leasing, or improvement of immovable property, with land purchase only being eligible to an extent not exceeding 10 % of the other total eligible expenditure of the operation concerned with the exception of land purchase if the aid is granted in the framework of a CAP Strategic Plan;
+
+(ii) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(iii) general costs linked to expenditure referred to in points (i) and (ii), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (i) and (ii) is incurred;
+
+(iv) acquisition, development or usage fees of computer software, cloud and similar solutions, and acquisitions of patents, licenses, copyrights and trademarks;
+
+(c) the costs for travel, accommodation and per diem expenses of the participants.
+
+Working capital shall not be considered to be an eligible cost.
+
+4\. The costs referred to in paragraph 3, point (b), shall only be eligible to the extent incurred for the demonstration project and for the duration period of the demonstration project.
+
+5\. Only the depreciation costs corresponding to the life of the demonstration project, as calculated on the basis of generally accepted accounting principles, shall be eligible.
+
+6\. The aid referred to in paragraph 3, point (a), shall not involve direct payments to beneficiaries. The aid shall be paid to the provider of the knowledge exchange and information actions.
+
+7\. Bodies providing knowledge exchange and information actions shall have the appropriate capacities in the form of staff qualifications and regular training to carry out such tasks.
+
+8\. The aid shall be limited to 100 % of the eligible costs.
+
+#### Article 48 — Aid for advisory services in the forestry sector
+
+1\. Aid for advisory services in the forestry sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The services concerned shall not be a continuous or periodic activity nor relate to the undertaking’s operating costs. Advisory services shall cover economic, environmental and social dimensions and deliver up to date technological and scientific information developed by research and innovation.
+
+Member States shall ensure that actions supported under this Article are consistent with the description of the AKIS provided in the CAP Strategic Plan.
+
+3\. The Member States shall ensure that the system of advisory services covers as a minimum issues related to the implementation of Directive 92/43/EEC, Directive 2000/60/EC, Directive 2008/50/EC, Directive 2009/147/EC, Regulation (EU) 2016/2031, Article 55 of Regulation (EC) No 1107/2009 and Directive 2009/128/EC.
+
+4\. The aid shall take the form of subsidised service.
+
+The bodies selected to provide the advisory service shall have the appropriate resources in the form of regularly trained and qualified staff and advisory experience and reliability with respect to the fields in which they advise.
+
+5\. Member States shall ensure that the provider of the advisory service is impartial and has no conflict of interest.
+
+6\. Where justified and appropriate, the advice may be partly provided in group, while taking into account the situation of the individual beneficiaries of the advisory services.
+
+7\. The aid shall be limited to 100 % of the eligible costs, and shall not exceed EUR 200 000 per undertaking over a period of three years.
+
+#### Article 49 — Aid for investments in infrastructure related to the development, modernisation or adaptation of the forestry sector
+
+1\. Aid for investments in infrastructure related to the development, modernisation or adaptation of the forestry sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. For investment requiring an environmental impact assessment under Directive 2011/92/EU the aid shall be subject to the condition that such assessment shall have been carried out and the development consent shall have been granted for the investment project concerned before the date of granting the individual aid.
+
+The first subparagraph shall not apply to aid which is provided in the form of financial instruments.
+
+3\. Aid for large enterprises shall be conditional on the presentation of relevant information from a forest management plan or equivalent instrument in accordance with the General Guidelines for the Sustainable Management of Forests in Europe.
+
+This requirement does not apply to municipalities that are autonomous local authorities with an annual budget of less than EUR 10 million and fewer than 5 000 inhabitants.
+
+4\. The aid may cover investments which concern infrastructure related to the development, modernisation or adaptation of forests. If the aid is granted outside the framework of a CAP Strategic Plan it shall only include the following:
+
+(a) access to forest land;
+
+(b) land consolidation and improvement;
+
+(c) supply of sustainable energy, energy efficiency, supply and saving of water;
+
+(d) the use of livestock instead of machinery;
+
+(e) the establishment of temporary storage facilities.
+
+5\. The aid shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of the other total eligible expenditure of the operation concerned, with the exception of land purchase for environmental conservation if the aid is granted in the framework of a CAP Strategic Plan;
+
+(b) the purchase or lease purchase of machinery and equipment including the use of the livestock instead of machinery up to the market value of the asset;
+
+(c) general costs linked to the expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) is incurred;
+
+(d) acquisition, development or usage fees of computer software, cloud or similar solutions and acquisitions of patents, licenses, copyrights and trademarks;
+
+(e) the costs of establishing forest management plans and their equivalent instruments.
+
+6\. Save where support is provided in the framework of a CAP Strategic Plan in the form of financial instruments, the following costs shall not be considered to be eligible:
+
+(a) costs other than those referred to in paragraph 5, points (a) and (b), connected with leasing contracts, such as lessor’s margin, interest refinancing costs, overheads and insurance charges; and
+
+(b) working capital.
+
+7\. The aid intensity shall be limited to 65 % of the eligible costs.
+
+The aid intensity may be increased to a maximum of 80 % for the following investments:
+
+(a) investments linked to one or more of the specific environmental- and climate-related objectives referred to in Article 14(3), points (e), (f) and (g);
+
+(b) investments in the outermost regions or the smaller Aegean islands.
+
+8\. The aid intensity may be increased to 100 % for non-productive investments, land consolidation land improvement and investments for forest roads which are open to the public free of charge and which serve the multifunctional aspects of the forest.
+
+#### Article 50 — Aid for investments in forestry technologies and in processing, in mobilising and in marketing of forestry products
+
+1\. Aid for investments in forestry technologies and in processing, in mobilising and in marketing of forestry products shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. For investment requiring an environmental impact assessment under Directive 2011/92/EU the aid shall be subject to the condition that such assessment shall have been carried out and the development consent shall have been granted for the investment project concerned before the date of granting the individual aid.
+
+3\. Aid for large enterprises shall be conditional on the presentation of relevant information from a forest management plan or equivalent instrument in accordance with the General Guidelines for the Sustainable Management of Forests in Europe.
+
+4\. The aid shall cover the following eligible costs:
+
+(a) the construction, acquisition, including leasing, or improvement of immovable property, with purchase of land only being eligible to an extent not exceeding 10 % of the other total eligible expenditure of the operation concerned, with the exception of land purchase for environmental conservation if the aid is granted in the framework of a CAP Strategic Plan;
+
+(b) the purchase or lease purchase of machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to the expenditure referred to in points (a) and (b), such as architect, engineer and consultation fees, fees relating to advice on environmental and economic sustainability, including feasibility studies; feasibility studies shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) is incurred;
+
+(d) acquisition, development or usage fees of computer software, cloud or similar solutions, and acquisitions of patents, licenses, copyrights and trademarks;
+
+(e) the costs of establishing forest management plans and their equivalent.
+
+5\. Save where support is provided in the framework of a CAP Strategic Plan in the form of financial instruments, the following costs shall not be considered to be eligible:
+
+(a) costs connected with leasing contracts, such as lessor’s margin, interest refinancing costs, overheads and insurance charges; and
+
+(b) working capital.
+
+6\. Investments related to the improvement of the economic value of forests shall be justified in relation to expected improvements to forests on one or more holdings and may include investments for soil and resource friendly harvesting machinery and practices.
+
+7\. Investments related to the use of wood as a raw material or energy source shall be limited to all working operations prior to industrial processing.
+
+8\. The aid intensity shall be limited to 65 % of the eligible costs.
+
+9\. The aid intensity may be increased to a maximum of 80 % for the following investments:
+
+(a) investments linked to one or more of the specific environmental- and climate-related objectives referred to in Article 14(3), points (e), (f) and (g);
+
+(b) investments in the outermost regions or the smaller Aegean islands.
+
+#### Article 51 — Conservation of genetic resources in forestry
+
+1\. Aid for the conservation of genetic resources in forestry, linked to forest-environmental-climate services and forest conservation shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. For the purposes of this Article the following definitions shall apply:
+
+(a) ‘in situ conservation’ means the conservation of genetic material in ecosystems and natural habitats and the maintenance and recovery of viable population of species in their natural surroundings;
+
+(b) ‘on-forest holding conservation’ means in situ conservation and development at forest holding level;
+
+(c) ‘ex situ conservation’ means the conservation of genetic material for forestry outside their natural habitat;
+
+(d) ‘ex situ collection’ means a collection of genetic material for forestry maintained outside their natural habitat.
+
+3\. The aid shall cover the costs for the following operations:
+
+(a) targeted actions: actions promoting the in situ and ex situ conservation, characterisation, collection and utilisation of genetic resources in forestry, including web-based inventories of genetic resources currently conserved in situ, including on-forest holding conservation, and of ex situ collections and databases;
+
+(b) concerted actions: actions promoting the exchange of information for the conservation, characterisation, collection and utilisation of genetic resources in Union forestry, among competent organisations in the Member States;
+
+(c) accompanying actions: information, dissemination and advisory actions involving non-governmental organisations and other relevant stakeholders, training courses and preparation of technical reports.
+
+4\. The aid shall be limited to 100 % of the eligible costs.
+
+#### Article 52 — Start-up aid for producer groups and organisations in the forestry sector
+
+1\. Start-up aid to producer groups and organisations in the forestry sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation. The members of the producer group or of the producer organisation shall not be large enterprises, with the exception of municipalities.
+
+2\. As an alternative to providing aid to producer groups or organisations, aid up to the overall amount of aid to which the producer group or organisation would have been entitled to according to this Article, may be granted directly to producers to offset their contributions to the costs of running the groups or organisations during the first five years following the establishment of the group or organisation.
+
+3\. The aid shall cover the following costs:
+
+(a) costs of the rental of suitable premises, at market rates;
+
+(b) costs for the acquisition of office equipment;
+
+(c) administrative staff costs and costs of a qualified forest manager;
+
+(d) overheads and legal and administrative fees;
+
+(e) costs for acquisition of computer hardware and the acquisition or usage fees of computer software, cloud and similar solutions;
+
+(f) in the case of purchase of premises, an amount corresponding to rental costs at market rates.
+
+4\. Aid shall not be paid in respect of costs incurred after the fifth year following the official recognition of the producer group or organisation by the competent authority of the Member State on the basis of its business plan, except for collective environment and climate actions to achieve the objectives referred to in Article 6 of Regulation (EU) 2021/2115.
+
+5\. Where the aid is paid in annual instalments, Member States shall only pay the last instalment after having verified the correct implementation of the business plan.
+
+6\. The aid intensity shall be limited to 100 % of the eligible costs.
+
+#### Article 53 — Aid for forestry land consolidation
+
+1\. Aid for forestry land consolidation shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall be granted towards and limited to the legal and administrative costs, including survey costs.
+
+3\. The aid shall be limited to 100 % of the real costs incurred.
+
+#### Article 54 — Aid for cooperation in the forestry sector
+
+1\. Aid for cooperation in the forestry sector shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. Aid shall only be granted to promote cooperation that contributes to achieving one or more of the objectives set out in Article 6 of Regulation (EU) 2021/2115.
+
+3\. Forms of cooperation covered by this Article shall involve at least two actors irrespective of whether they are active in the forestry sector or in the forestry and agricultural sectors. The cooperation shall benefit mainly the forestry sector or the forestry and agricultural sectors.
+
+4\. The following forms of cooperation shall be eligible:
+
+(a) cooperation among different undertakings in the forestry sector and other actors active in the agricultural and forestry sectors that contribute to achieving one or more of the specific objectives set out in Article 6 of Regulation (EU) 2021/2115, including producer groups, and cooperatives;
+
+(b) the creation of clusters and networks.
+
+5\. Aid shall not be granted for cooperation solely involving research bodies.
+
+6\. Aid may be granted for cooperation relating, in particular, to the following activities:
+
+(a) pilot projects;
+
+(b) the development of new products, practices, processes and technologies in the forestry sector;
+
+(c) cooperation among small operators in the forestry sector in organizing joint work processes and sharing facilities and resources;
+
+(d) horizontal and vertical cooperation among supply chain actors for the establishment and development of short supply chains and local markets;
+
+(e) promotion activities in a local context relating to the development of short supply chains and local markets;
+
+(f) collective action undertaken with a view to mitigating or adapting to climate change;
+
+(g) implementation, in particular by groups of public and private partners other than those referred to in Article 31(2), point (b), of Regulation (EU) 2021/1060, of local development strategies other than those referred to in Article 32 of that Regulation.
+
+7\. Aid shall only be granted to new forms of cooperation, including existing ones if starting a new activity.
+
+8\. Aid for the establishment and development of short supply chains, as referred to in paragraph 6, points (d) and (e), shall cover only supply chains involving no more than one intermediary between forest holder/manager and consumer.
+
+9\. Operations, which consist of investments and direct costs of specific projects linked to the implementation of a forest management plan or equivalent, shall comply with the rules and requirements, as specified in the applicable Article on investment aid of this Regulation, as well as Article 4 on notification thresholds.
+
+10\. The following costs shall be eligible, in so far as they concern forestry activities:
+
+(a) the costs for studies of the area concerned, of feasibility studies, and of drawing up a business plan or local development strategy other than the one referred to in Article 32 of Regulation (EU) 2021/1060;
+
+(b) the running costs of cooperation, such as the salary of a ‘coordinator’;
+
+(c) the costs of operations to be implemented;
+
+(d) the costs for promotion activities;
+
+(e) the costs for drawing up forest management plans or equivalent instruments.
+
+11\. Aid shall be limited to a maximum period of seven years.
+
+12\. The aid shall be limited to 100 % of the eligible costs.
+
+### Section 7 — Aid in Favour of SMEs in Rural Areas
+
+#### Article 55 — Aid for basic services and infrastructure in rural areas
+
+1\. Aid for basic services and infrastructure in rural areas granted in the framework of a CAP Strategic Plan shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it is put into effect after the approval of the relevant CAP Strategic Plan by the Commission and where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall fulfil both of the following conditions:
+
+(a) it is granted in the framework of a CAP Strategic Plan in accordance with Regulation (EU) 2021/2115 in one of the following forms:
+
+(i) as aid co-financed by EAFRD;
+
+(ii) as additional national financing to aid co-financed by EAFRD;
+
+(b) it is identical to the relevant measure provided for in the CAP Strategic Plan referred to in point (a).
+
+3\. The aid shall cover:
+
+(a) investments in the creation, improvement or expansion of all types of infrastructures with eligible costs limited to EUR 2 million (‘small-scale infrastructure’), with the exception of investments in renewable energy and energy efficiency and broadband infrastructure which shall not be eligible;
+
+(b) investments in the setting-up, improvement or expansion of local basic services for the rural population, including social services, leisure and culture, and the related infrastructure;
+
+(c) investments for public use in recreational infrastructure, tourist information and small-scale tourism infrastructure;
+
+(d) investments associated with the maintenance, restoration and upgrading of the cultural and natural heritage of villages, rural landscapes and high nature value sites, including related socioeconomic aspects, as well as environmental awareness actions;
+
+(e) investments targeting the relocation of activities and conversion of buildings or other facilities located inside or close to rural settlements, with a view to improving the quality of life or increasing the environmental performance of the settlement.
+
+4\. The operations covered by the investments referred to in paragraph 3 shall be implemented in accordance with plans for the development of municipalities and villages in rural areas and their basic services, where such plans exist, and shall be consistent with any relevant local development strategy. Such plans are not required with regard to investments supported by financial instruments.
+
+5\. The aid shall cover the following eligible costs:
+
+(a) the costs of drawing up and updating of development and management plans relating to rural areas and their basic services, and to high nature value sites;
+
+(b) the costs for the preparation of studies associated with cultural and natural heritage, rural landscapes and high nature value sites;
+
+(c) investment costs for tangible and intangible assets;
+
+(d) costs linked to environmental awareness actions.
+
+The costs of capitalised works may be also eligible for aid referred to in paragraph 3, point (d).
+
+Working capital shall not be considered to be an eligible cost. The aid shall not be granted as operating aid.
+
+6\. As regards activities referred to in paragraph 3, points (a) to (d), the aid intensity shall be limited to 100 % of the eligible costs.
+
+In order not to exceed the maximum aid intensity, for activities referred to in paragraph 3, points (b), (c) and (d), the net revenues shall be deducted from the eligible costs ex ante on the basis of reasonable projections or through a clawback mechanism. Alternatively, for aid not exceeding EUR 1 million, the maximum aid intensity may be set at 80 % of eligible costs.
+
+7\. As regards the investments referred to in paragraph 3, point (e), the aid intensity shall not exceed 100 % of the real costs incurred for such activities where the relocation of the activities or the conversion of buildings or other facilities consists of the dismantling, removal and re-building of existing facilities.
+
+Where the relocation of the activities or the conversion of buildings or other facilities results in a modernisation of those facilities or in an increase in production capacity, in addition to the dismantling, removal and re-building of existing facilities as referred to in the first subparagraph, the aid intensities shall not exceed the maximum aid intensity established in the regional aid map which is in force at the time the aid is granted in the area concerned in respect of the costs relating to the modernisation of the facilities or the increase of production capacity. The pure replacement of an existing building or facilities by a new up-to date building or facilities without fundamentally changing the production or the technology involved is not considered to be related to the modernisation.
+
+#### Article 56 — Business start-up aid for non-agricultural activities in rural areas
+
+1\. Business start-up aid for non-agricultural activities in rural areas shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall fulfil both of the following conditions:
+
+(a) it is granted in the framework of a CAP Strategic Plan in accordance with Regulation (EU) 2021/2115 in one of the following forms:
+
+(i) aid co-financed by EAFRD;
+
+(ii) additional national financing to the aid referred to in point (i);
+
+(b) it is identical to the relevant measure provided for in the CAP Strategic Plan referred to in point (a).
+
+3\. Aid shall be granted to the following categories of beneficiaries:
+
+(a) farmers or members of a farm household in rural areas diversifying into non-agricultural activities;
+
+(b) micro and small enterprises in rural areas;
+
+(c) natural persons in rural areas.
+
+4\. Where the member of a farm household as referred to in paragraph 3, point (a), is a legal person or a group of legal persons, it shall exercise an agricultural activity on the farm at the time the application for the aid is submitted.
+
+5\. The aid shall be conditional on the submission of a business plan to the competent authority of the Member State concerned.
+
+The business plan shall describe the following:
+
+(a) the initial economic situation of the beneficiary;
+
+(b) milestones and targets for the development of the new activities of the beneficiary;
+
+(c) details of the actions required for the development of the activities of the beneficiary, such as details of investments, training, advice.
+
+The business plan shall have a maximum duration of five years.
+
+6\. The payment of the last instalment shall be conditional upon the correct implementation of the business plan referred to in paragraph 5. Member States shall determine the amount of aid taking into account the socioeconomic situation of the area covered by the CAP Strategic Plan.
+
+7\. The aid shall be limited to EUR 100 000 per beneficiary.
+
+#### Article 57 — Aid for new participation of farmers in quality schemes for cotton and foodstuffs
+
+1\. Aid for new participation, or participation in the five preceding years, of farmers in quality schemes for cotton and foodstuffs shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall fulfil both of the following conditions:
+
+(a) it is granted in the framework of a CAP Strategic Plan in accordance with Regulation (EU) 2021/2115 in one of the following forms:
+
+(i) aid co-financed by EAFRD;
+
+(ii) additional national financing to the aid referred to in point (i);
+
+(b) it is identical to the relevant intervention provided for in the CAP Strategic Plan referred to in point (a).
+
+3\. Aid shall be granted for new participation in one of the following types of quality schemes:
+
+(a) quality schemes for cotton and foodstuffs established under Regulation (EU) No 1151/2012;
+
+(b) quality schemes for cotton and foodstuffs, including certification schemes, recognised by the Member States as complying with the following criteria:
+
+(i) the specificity of the final product produced under such quality schemes is derived from clear obligations to guarantee one or more of the following:
+
+— specific product characteristics;
+
+— specific farming or production methods;
+
+— a quality of the final product that goes significantly beyond the commercial commodity standards as regards public, animal or plant health, animal welfare or environmental protection;
+
+(ii) the scheme is open to all producers;
+
+(iii) the scheme involves binding final product specifications and compliance with those specifications is verified by public authorities or by an independent inspection body;
+
+(iv) the scheme is transparent and assures complete traceability of agricultural products;
+
+(c) voluntary foodstuff certification schemes recognised by the Member State concerned as meeting the requirements laid down in the Commission Communication – EU best practice guidelines for voluntary certification schemes for agricultural products and foodstuffs ( 32 ).
+
+4\. The aid shall be granted in the form of an annual incentive payment, the level of which shall be determined according to the level of the fixed costs arising from participation in quality schemes.
+
+5\. The aid shall be granted for a maximum period of seven years.
+
+6\. If the initial participation in the quality scheme started before the application for support, the maximum period of seven years shall be reduced by the number of years which have elapsed between that initial participation and the time of the application for support.
+
+7\. The aid shall be limited to EUR 3 000 per beneficiary per year.
+
+#### Article 58 — Aid for information and promotion activities concerning cotton and foodstuffs covered by a quality scheme
+
+1\. Aid for information and promotion activities concerning cotton and foodstuffs covered by a quality scheme shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall fulfil both of the following conditions:
+
+(a) it is granted in the framework of a CAP Strategic Plan in accordance with Regulation (EU) 2021/2115 in one of the following forms:
+
+(i) aid co-financed by EAFRD;
+
+(ii) additional national financing to the aid referred to in point (i);
+
+(b) it is identical to the relevant measure provided for in the CAP Strategic Plan referred to in point (a).
+
+3\. The aid shall be granted to groups of producers implementing the information and promotion activities.
+
+4\. Only information and promotion activities that are implemented in the internal market shall be eligible for aid.
+
+5\. The aid shall be granted for information and promotion activities concerning cotton and foodstuffs which are covered by a quality scheme and for which aid is granted in accordance with Article 57.
+
+6\. The eligible costs shall be the costs for actions having the following characteristics:
+
+(a) they are designed to induce consumers to buy the foodstuffs or the cotton covered by a quality scheme as referred to in Article 57(3);
+
+(b) they draw attention to specific features or advantages of the foodstuff or the cotton, notably to the quality, specific production method, high animal welfare standards and respect for the environment linked to the quality scheme concerned.
+
+7\. The actions referred to in paragraph 6 shall not incite consumers to buy a foodstuff or cotton due to their particular origin, except for those covered by the quality schemes referred to in Title II of Regulation (EU) No 1151/2012.
+
+8\. The origin of the foodstuff or cotton may be indicated, provided that the mention of the origin is subordinate to the main message.
+
+9\. Information and promotion activities related to particular undertakings or commercial brands shall not be eligible for aid.
+
+10\. The aid intensity shall be limited to 70 % of the eligible costs.
+
+#### Article 59 — Aid for cooperation in rural areas
+
+1\. Aid for cooperation in rural areas shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) thereof where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The aid shall fulfil both of the following conditions:
+
+(a) it is granted in the framework of a CAP Strategic Plan in accordance with Regulation (EU) 2021/2115 in one of the following forms:
+
+(i) aid co-financed by EAFRD;
+
+(ii) additional national financing to the aid referred to in point (i);
+
+(b) it is identical to the relevant measure provided for in the CAP Strategic Plan referred to in point (a).
+
+3\. Forms of cooperation covered by this Article shall involve at least two actors and may comprise undertakings active in the agricultural sector, undertakings active in the food chain and other actors, including producer groups, cooperatives and interbranch organizations, where the cooperation benefits rural areas.
+
+4\. The following forms of cooperation shall be eligible:
+
+(a) cooperation between undertakings and other actors as referred to in paragraph 3 of this Article;
+
+(b) the creation of clusters and networks.
+
+5\. Aid shall not be granted for cooperation solely involving research bodies.
+
+6\. Aid may be granted to cooperation relating to the following activities:
+
+(a) pilot projects;
+
+(b) the development of new products, practices, processes and technologies in the food sector;
+
+(c) cooperation among small operators in organizing joint work processes and sharing facilities and resources and for the development and/or marketing of tourism services relating to rural tourism;
+
+(d) horizontal and vertical cooperation among supply chain actors for the establishment and development of short supply chains and local markets;
+
+(e) promotion activities in a local context relating to the development of short supply chain and local markets;
+
+(f) collective actions undertaken with a view to mitigating or adapting to climate change;
+
+(g) joint approaches to environmental projects and ongoing environmental practices, including efficient water management, the use of renewable energy and the preservation of agricultural landscapes;
+
+(h) horizontal and vertical cooperation among supply chain actors in the sustainable provision of biomass for use in food and energy production and industrial processes;
+
+(i) implementation, in particular by groups of public and private partners other than those defined in Article 32(2), point (b), of Regulation (EU) No 1303/2013, of local development strategies other than those defined in Article 2, point (19), of Regulation (EU) No 1303/2013 addressing one or more of the Union priorities for rural development;
+
+(j) diversification of farming activities into activities concerning health care, social integration, community-supported agriculture and education about the environment and food;
+
+(k) implementation of smart-village strategies.
+
+7\. Aid shall only be granted to new forms of cooperation, including existing ones if starting a new activity.
+
+8\. Aid for pilot projects referred to in paragraph 6, point (a), and for the development of new products, practices, processes and technologies in the food sector referred to in paragraph 6, point (b), may also be granted to individual actors where this possibility is provided for in the national Strategic Plans. The results of pilot projects referred to in paragraph 6, point (a), and activities referred to in paragraph 6, point (b), carried out by individual actors shall be disseminated.
+
+9\. Aid for the establishment and development of short supply chains, as referred to in paragraph 6, points (d) and (e), shall cover only supply chains involving no more than one intermediary between farmer and consumer.
+
+10\. Aid under this Article shall comply with Articles 206 to 210a of Regulation (EU) No 1308/2013.
+
+11\. Aid shall be limited to a maximum period of seven years.
+
+12\. The following costs shall be eligible:
+
+(a) the costs of preparatory support, capacity building, training and networking with a view of preparing and implementing a cooperation project;
+
+(b) costs for studies of the area concerned, feasibility studies, and the drawing up of a business plan or local development strategy other than the one referred to in Article 32 of Regulation (EU) 2021/1060;
+
+(c) costs for the animation of the area concerned in order to make feasible a collective territorial project; in the case of clusters, the animation may also concern networking between members and the recruitment of new members;
+
+(d) the running costs of cooperation, such as the salary of a coordinator;
+
+(e) the direct costs of specific projects linked to the implementation of a business plan, an environmental plan, a local development strategy other than the one referred to in Article 32 of Regulation (EU) 2021/1060 or other actions targeted towards innovation, including testing;
+
+(f) costs for promotion activities.
+
+13\. The aid shall be limited to 100 % of the eligible costs.
+
+14\. Direct costs under paragraph 12, point (e), which relate to investments, shall be limited to the eligible costs of investment aid, and shall comply with the conditions specified in the corresponding Articles of Regulation (EU) No 651/2014 and in the relevant Articles of this Regulation, including the specific conditions on notification thresholds.
+
+#### Article 60 — Aid for CLLD projects
+
+1\. Aid for costs incurred by SMEs participating in CLLD projects, referred to in Article 31 of Regulation (EU) 2021/1060 and designated as LEADER local development under the EAFRD, shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, where it fulfils conditions laid down in this Article and in Chapter I of this Regulation.
+
+Aid for costs incurred by municipalities participating in CLLD projects, referred to in Article 31 of Regulation (EU) 2021/1060 and designated as LEADER local development under the European Agricultural Fund for Rural Development in favour of projects referred to in paragraph 3 of this Article, shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The following costs shall be eligible for CLLD projects:
+
+(a) the costs of preparatory support, capacity building, training and networking with a view of preparing and implementing a CLLD strategy;
+
+(b) implementation of approved operations;
+
+(c) preparation and implementation of the cooperation activities;
+
+(d) running costs linked to the management of the implementation of the CLLD strategy;
+
+(e) animation the CLLD strategy in order to facilitate exchange between stakeholders to provide information and to promote the strategy and the projects, and to support potential beneficiaries with a view of developing operations and preparing applications.
+
+3\. The costs incurred by municipalities participating in CLLD projects, referred to in paragraph 1, shall be eligible for aid under this Article provided that they are pursued in one or more of the following areas:
+
+(a) research, development and innovation;
+
+(b) environment;
+
+(c) employment and training;
+
+(d) culture and heritage conservation;
+
+(e) forestry;
+
+(f) promotion of food products not listed in ANNEX I of the Treaty;
+
+(g) sports.
+
+4\. The aid intensity shall not exceed the maximum support rates provided for each type of operation in Regulation (EU) 2021/2115.
+
+#### Article 61 — Limited amounts of aid for CLLD projects
+
+1\. Aid to undertakings participating in, or benefitting from CLLD projects as referred to in Article 60(1), shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+Aid to municipalities participating in, or benefitting from CLLD projects as referred to in Article 60(1), shall be compatible with the internal market within the meaning of Article 107(3), point (c), of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, where it fulfils the conditions laid down in this Article and in Chapter I of this Regulation.
+
+2\. The costs incurred by municipalities participating in CLLD projects, referred to in paragraph 1, shall be eligible for aid under this Article provided that they are pursued in one or more of the following areas:
+
+(a) research, development and innovation;
+
+(b) environment;
+
+(c) employment and training;
+
+(d) culture and heritage conservation;
+
+(e) forestry;
+
+(f) promotion of food products not listed in ANNEX I of the Treaty;
+
+(g) sports.
+
+3\. The total amount of aid under this Article granted per CLLD project shall not exceed EUR 200 000 .
+
+## CHAPTER IV — Transitional and final provisions
+
+#### Article 62 — Replacement and continued application of Regulation (EU) No 702/2014
+
+1\. Article 52 of Regulation (EU) No 702/2014 states that that regulation shall apply until 31 December 2022. The present Regulation will replace Regulation (EU) No 702/2014 upon its expiry.
+
+2\. However, the rules set out in Regulation (EU) No 702/2014 shall continue to apply until 31 December 2025 to aid granted pursuant to Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 33 ).
+
+#### Article 63 — Transitional provisions
+
+1\. This Regulation shall apply to individual aid granted before the date of entry into force of this Regulation, if that individual aid fulfils all the conditions laid down in this Regulation, with the exception of Article 9.
+
+2\. Any aid not exempted from the notification requirement of Article 108(3) of the Treaty shall be assessed by the Commission in accordance with the 2023 Guidelines and any other relevant frameworks, guidelines, communications and notices.
+
+3\. Any individual aid granted before 1 January 2023 by virtue of any regulation adopted pursuant to Article 1 of Regulation (EU) 2015/1588 in force at the time the aid was granted shall be compatible with the internal market and exempted from the notification requirement of Article 108(3) of the Treaty.
+
+4\. At the end of the period of validity of this Regulation, any aid schemes exempted under this Regulation shall remain exempted during an adjustment period of six months.
+
+By way of derogation from the first subparagraph, at the end of the period of validity of this Regulation aid schemes falling within the scope of Regulation (EU) 2021/2115 and either co-financed by the EAFRD or by additional national financing for such co-financed measures shall remain exempted for the duration of the programming period in accordance with Regulation (EU) 2021/2115.
+
+#### Article 64
+
+This Regulation shall enter into force on 1 January 2023.
+
+It shall apply from 1 January 2023 until 31 December 2029.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**SME definition**
+
+#### Article 1 — Enterprise
+
+An enterprise is considered to be any entity engaged in an economic activity, irrespective of its legal form. This includes, in particular, self-employed persons and family businesses engaged in craft or other activities, and partnerships or associations regularly engaged in an economic activity.
+
+#### Article 2 — Staff headcount and financial thresholds determining enterprise categories
+
+1\. The category of micro, small and medium-sized enterprises (‘SMEs’) is made up of enterprises which employ fewer than 250 persons and which have an annual turnover not exceeding EUR 50 million, and/or an annual balance sheet total not exceeding EUR 43 million.
+
+2\. Within the SME category, a small enterprise is defined as an enterprise which employs fewer than 50 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 10 million.
+
+3\. Within the SME category, a micro-enterprise is defined as an enterprise which employs fewer than 10 persons and whose annual turnover and/or annual balance sheet total does not exceed EUR 2 million.
+
+#### Article 3 — Types of enterprise taken into consideration in calculating staff numbers and financial amounts
+
+1\. An ‘autonomous enterprise’ is any enterprise which is not classified as a partner enterprise within the meaning of paragraph 2 or as a linked enterprise within the meaning of paragraph 3.
+
+2\. ‘Partner enterprises’ are all enterprises which are not classified as linked enterprises within the meaning of paragraph 3 and between which there is the following relationship: an enterprise (upstream enterprise) holds, either solely or jointly with one or more linked enterprises within the meaning of paragraph 3, 25 % or more of the capital or voting rights of another enterprise (downstream enterprise).
+
+However, an enterprise may be ranked as autonomous, and thus as not having any partner enterprises, even if this 25 % threshold is reached or exceeded by the following investors, provided that those investors are not linked, within the meaning of paragraph 3, either individually or jointly to the enterprise in question:
+
+(a) public investment corporations, venture capital companies, individuals or groups of individuals with a regular venture capital investment activity who invest equity capital in unquoted businesses (business angels), provided the total investment of those business angels in the same enterprise is less than EUR 1 250 000 ;
+
+(b) universities or non-profit research centres;
+
+(c) institutional investors, including regional development funds;
+
+(d) autonomous local authorities with an annual budget of less than EUR 10 million and less than 5 000 inhabitants.
+
+3\. ‘Linked enterprises’ are enterprises which have any of the following relationships with each other:
+
+(a) an enterprise has a majority of the shareholders’ or members’ voting rights in another enterprise;
+
+(b) an enterprise has the right to appoint or remove a majority of the members of the administrative, management or supervisory body of another enterprise;
+
+(c) an enterprise has the right to exercise a dominant influence over another enterprise pursuant to a contract entered into with that enterprise or to a provision in its memorandum or articles of association;
+
+(d) an enterprise, which is a shareholder in or member of another enterprise, controls alone, pursuant to an agreement with other shareholders in or members of that enterprise, a majority of shareholders’ or members’ voting rights in that enterprise.
+
+There is a presumption that no dominant influence exists if the investors listed in the second subparagraph of paragraph 2 are not involving themselves directly or indirectly in the management of the enterprise in question, without prejudice to their rights as shareholders.
+
+Enterprises having any of the relationships described in the first subparagraph through one or more other enterprises, or any one of the investors mentioned in paragraph 2, are also considered to be linked.
+
+Enterprises which have one or other of such relationships through a natural person or group of natural persons acting jointly are also considered linked enterprises if they engage in their activity or in part of their activity in the same relevant market or in adjacent markets.
+
+An ‘adjacent market’ is considered to be the market for a product or service situated directly upstream or downstream of the relevant market.
+
+4\. Except in the cases set out in paragraph 2, second subparagraph, an enterprise cannot be considered an SME if 25 % or more of the capital or voting rights are directly or indirectly controlled, jointly or individually, by one or more public bodies.
+
+5\. Enterprises may make a declaration of status as an autonomous enterprise, partner enterprise or linked enterprise, including the data regarding the thresholds set out in Article 2. The declaration may be made even if the capital is spread in such a way that it is not possible to determine exactly by whom it is held, in which case the enterprise may declare in good faith that it can legitimately presume that it is not owned as to 25 % or more by one enterprise or jointly by enterprises linked to one another. Such declarations are made without prejudice to the checks and investigations provided for by national or Union rules.
+
+#### Article 4 — Data used for the staff headcount and the financial amounts and reference period
+
+1\. The data to apply to the headcount of staff and the financial amounts are those relating to the latest approved accounting period and calculated on an annual basis. They are taken into account from the date of closure of the accounts. The amount selected for the turnover is calculated excluding value added tax (VAT) and other indirect taxes.
+
+2\. Where, at the date of closure of the accounts, an enterprise finds that, on an annual basis, it has exceeded or fallen below the headcount or financial thresholds stated in Article 2, this will not result in the loss or acquisition of the status of medium-sized, small or micro-enterprise unless those thresholds are exceeded over two consecutive accounting periods.
+
+3\. In the case of newly established enterprises whose accounts have not yet been approved, the data to apply is to be derived from a bona fide estimate made in the course of the financial year.
+
+#### Article 5 — Staff headcount
+
+The headcount corresponds to the number of annual work units (AWU), i.e. the number of persons who worked full-time within the enterprise in question or on its behalf during the entire reference year under consideration. The work of persons who have not worked the full year, the work of those who have worked part-time, regardless of duration, and the work of seasonal workers are counted as fractions of AWU. The staff consists of:
+
+(a) employees;
+
+(b) persons working for the enterprise being subordinated to it and deemed to be employees under national law;
+
+(c) owner-managers;
+
+(d) partners engaging in a regular activity in the enterprise and benefiting from financial advantages from the enterprise.
+
+Apprentices or students engaged in vocational training with an apprenticeship or vocational training contract are not included as staff. The duration of maternity or parental leaves is not counted.
+
+#### Article 6 — Establishing the data of an enterprise
+
+1\. In the case of an autonomous enterprise, the data, including the number of staff, are determined exclusively on the basis of the accounts of that enterprise.
+
+2\. The data, including the headcount, of an enterprise having partner enterprises or linked enterprises are determined on the basis of the accounts and other data of the enterprise or, where they exist, the consolidated accounts of the enterprise, or the consolidated accounts in which the enterprise is included through consolidation.
+
+To the data referred to in the first subparagraph are added the data of any partner enterprise of the enterprise in question situated immediately upstream or downstream from it. Aggregation is proportional to the percentage interest in the capital or voting rights (whichever is greater). In the case of cross-holdings, the greater percentage applies.
+
+To the data referred to in the first and second subparagraph are added 100 % of the data of any enterprise, which is linked directly or indirectly to the enterprise in question, where the data were not already included through consolidation in the accounts.
+
+3\. For the application of paragraph 2, the data of the partner enterprises of the enterprise in question are derived from their accounts and their other data, consolidated if they exist. To these are added 100 % of the data of enterprises which are linked to these partner enterprises, unless their accounts data are already included through consolidation.
+
+For the application of the same paragraph 2, the data of the enterprises which are linked to the enterprise in question are to be derived from their accounts and their other data, consolidated if they exist. To these are added, pro rata, the data of any possible partner enterprise of that linked enterprise, situated immediately upstream or downstream from it, unless it has already been included in the consolidated accounts with a percentage at least proportional to the percentage identified under the second subparagraph of paragraph 2.
+
+4\. Where in the consolidated accounts no staff data appear for a given enterprise, staff figures are calculated by aggregating proportionally the data from its partner enterprises and by adding the data from the enterprises to which the enterprise in question is linked.
+
+## ANNEX II
+
+**Information regarding State aid exempt under the conditions of this Regulation to be provided through the established Commission IT application as laid down in Article 11**
+
+**PART I**
+
+<table>
+<tbody><tr><td>Aid reference</td><td colspan="3">(to be completed by the Commission)</td></tr>
+<tr><td>Member State</td><td colspan="3">  </td></tr>
+<tr><td>Member State reference number</td><td colspan="3">  </td></tr>
+<tr><td>Region</td><td>Name of the Region(s) (NUTS(1)) …… </td><td colspan="2">Regional aid status(2) [image]Outermost regions  [image]Smaller Aegean islands  [image]Other </td></tr>
+<tr><td rowspan="3">Granting authority</td><td colspan="3">Name</td></tr>
+<tr><td colspan="3">Postal address</td></tr>
+<tr><td colspan="3">Web address</td></tr>
+<tr><td>Title of the aid measure</td><td colspan="3">……</td></tr>
+<tr><td>National legal basis (Reference to the relevant national official publication)</td><td colspan="3">…… …… </td></tr>
+<tr><td>Web link to the full text of the aid measure</td><td colspan="3">.…</td></tr>
+<tr><td rowspan="2">Type of measure</td><td colspan="3">[image]Scheme</td></tr>
+<tr><td>[image]Ad hoc aid</td><td colspan="2">Name of the beneficiary and the group (3) it belongs to</td></tr>
+<tr><td rowspan="3">Amendment of an existing aid scheme or ad hoc aid</td><td>  </td><td colspan="2">Commission aid reference</td></tr>
+<tr><td colspan="3">[image]Prolongation</td></tr>
+<tr><td colspan="3">[image]Modification</td></tr>
+<tr><td>Duration (4)</td><td>[image]Scheme</td><td colspan="2">dd/mm/yyyy to dd/mm/yyyy</td></tr>
+<tr><td>Date of granting</td><td>[image]Ad hoc aid</td><td colspan="2">dd/mm/yyyy</td></tr>
+<tr><td>Economic sector(s) concerned</td><td colspan="3">[image]Please specify at NACE group level (5)</td></tr>
+<tr><td rowspan="2">Type of beneficiary</td><td colspan="3">[image]SME</td></tr>
+<tr><td colspan="3">[image]Large undertakings</td></tr>
+<tr><td rowspan="3">Budget</td><td colspan="3">Scheme: Overall amount (6) in national currency… (full amounts) …… </td></tr>
+<tr><td colspan="3">Ad hoc aid: Overall amount (7) in national currency… (full amounts) …… </td></tr>
+<tr><td>[image]For guarantees (8)</td><td colspan="2">National currency… (full amounts) …… </td></tr>
+<tr><td rowspan="6">Aid instrument</td><td colspan="3">[image]Grant/Interest rate subsidy</td></tr>
+<tr><td colspan="3">[image]Subsidised services</td></tr>
+<tr><td colspan="3">[image]Loan/Repayable advances</td></tr>
+<tr><td colspan="3">[image]Guarantee (where appropriate with a reference to the Commission decision (9))</td></tr>
+<tr><td colspan="3">[image]Tax advantage or tax exemption</td></tr>
+<tr><td colspan="3">[image]Other (please specify) ……  Indicate to which broad category below it would fit best in terms of its effect/function:  [image]Grant  [image]Loan  [image]Guarantee  [image]Tax advantage </td></tr>
+<tr><td>[image]If co-financed by EU fund(s)</td><td>Name of EU fund(s): ……  …… </td><td>Amount of funding (as per EU fund)  …… </td><td>National currency… (full amounts) …… </td></tr>
+<tr><td colspan="4">(1)  NUTS – Nomenclature of Territorial Units for Statistics. Typically, the region is specified at level 2.  (2)  Please indicate if the aid is granted in favour of an undertaking active in one of the pre-defined areas. Otherwise, please select the box ‘other’.  (3)  An undertaking for the purposes of rules on competition laid down in the Treaty and for the purposes of this Regulation is any entity engaged in an economic activity, regardless of its legal status and the way in which it is financed. The Court of Justice has ruled that entities which are controlled (on a legal or on a de facto basis) by the same entity should be considered as one undertaking.  (4)  Period during which the granting authority can commit itself to grant the aid.  (5)  NACE Rev. 2 – Statistical classification of Economic Activities in the European Community. Typically, the sector shall be specified at group level.  (6)  In the case of an aid scheme: indicate the overall amount of the budget planned under the scheme or the estimated tax loss for its whole duration for all aid instruments contained in the scheme.  (7)  In case of an ad hoc aid award: Indicate the overall aid amount or tax loss.  (8)  For guarantees, indicate the (maximum) amount of loans guaranteed.  (9)  Where appropriate, reference to the Commission decision approving the methodology to calculate the gross grant equivalent, in accordance with Article 5(3)(c)(ii) of this Regulation. </td></tr>
+</tbody>
+</table>
+
+**PART II**
+
+**to be provided through the established Commission electronic notification system as laid down in Article 11**
+
+Please indicate under which provision of the ABER the aid measure is implemented
+
+<table>
+<tbody><tr><td>Primary Objectives (Multiple objectives are possible; in this case indicate all objectives) </td><td>Maximum aid intensity in %</td><td>Maximum aid amount in national currency in full amounts</td></tr>
+<tr><td>□Aid for investments in agricultural holding linked to primary agricultural production (Article 14)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for agricultural land consolidation (Article 15)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments concerning the relocation of farm buildings (Article 16)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments in connection with the processing and the marketing of agricultural products (Article 17)</td><td>  </td><td>  </td></tr>
+<tr><td>□Start-up aid for young farmers and start up aid for agricultural activities (Article 18)</td><td>  </td><td>  </td></tr>
+<tr><td>□Start-up aid for producer groups and organisations in the agricultural sector (Article 19)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for the participation of producers of agricultural products in quality schemes (Article 20)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for knowledge exchange and information actions (Article 21)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for advisory services (Article 22)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for farm replacement services (Article 23)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for promotion measures in favour of agricultural products (Article 24)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid to make good the damage caused by adverse climatic events which can be assimilated to a natural disaster (Article 25)</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td>Type of adverse climatic event which can be assimilated to a natural disaster:</td><td>□ frost □ storm  □ hail  □ ice  □ heavy or persistent rain  □ hurricane  □ severe drought  □ other  Please specify: </td></tr>
+<tr><td>Date of occurrence of the event:</td><td>dd/mm/yyyy to dd/mm/yyyy</td></tr>
+<tr><td>□Aid for the costs of the prevention, control and eradication of animal diseases and plant pests and aid to make good the damage caused by animal diseases or plant pests (Article 26)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid to the livestock sector and aid for fallen stock (Article 27)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for the payment of insurance premiums and for financial contributions to mutual funds (Article 28)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid to make good the damage caused by protected animals (Article 29)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for conservation of genetic resources in agriculture (Article 30)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for animal welfare commitments (Article 31)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for cooperation in the agricultural sector (Article 32)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for disadvantages related to Natura 2000 (Article 33)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for agri-environmental-climate commitments (Article 34)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for organic farming (Article 35)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments in favour of the conservation of cultural and natural heritage located on agricultural holdings or in forests (Article 36)</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">□Aid to make good the damage caused by natural disasters in the agricultural sector (Article 37)</td><td>  </td><td>  </td></tr>
+<tr><td>Type of natural disaster:</td><td>□ earthquake □ avalanche  □ landslide  □ flood  □ tornado  □ hurricane  □ volcanic eruption  □ wild fire  □ other  Please specify: </td></tr>
+<tr><td>Date of occurrence of the natural disaster:</td><td>dd/mm/yyyy to dd/mm/yyyy</td></tr>
+<tr><td>□Aid for research and development in the agricultural and forestry sectors (Article 38)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for costs incurred by undertakings participating in EIP Operational Group projects (Article 39)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for afforestation and the creation of woodland (Article 41)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for agroforestry systems (Article 42)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for the prevention and restoration of damage to forests (Article 43)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments improving the resilience and environmental value of forest ecosystems (Article 44)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for area-specific disadvantages resulting from certain mandatory requirements (Article 45)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for forest-environmental and climate services and forest conservation (Article 46)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for knowledge exchange and information actions in the forestry sector (Article 47)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for advisory services in the forestry sector (Article 48)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments in infrastructure related to the development, modernisation or adaptation of the forestry sector (Article 49)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for investments in forestry technologies and in processing, in mobilising and in marketing of forestry products (Article 50)</td><td>  </td><td>  </td></tr>
+<tr><td>□Conservation of genetic resources in forestry (Article 51)</td><td>  </td><td>  </td></tr>
+<tr><td>□Start-up aid for producer groups and organisations in the forestry sector (Article 52)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for forestry land consolidation (Article 53)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for cooperation in the forestry sector (Article 54)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for basic services and infrastructure in rural areas (Article 55)</td><td>  </td><td>  </td></tr>
+<tr><td>□Business start-up aid for non-agricultural activities in rural areas (Article 56)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for new participation of farmers in quality schemes for cotton and foodstuffs (Article 57)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for information and promotion activities concerning cotton and foodstuffs covered by a quality scheme (Article 58)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for cooperation in rural areas (Article 59)</td><td>  </td><td>  </td></tr>
+<tr><td>□Aid for CLLD projects (Article 60)</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Provisions for the publication of information as laid down in Article 9(1)**
+
+Member States shall organise their comprehensive State aid websites, on which the information referred to in Article 9(1) is to be published, in such a way as to allow easy access to that information. Information shall be published in a spreadsheet data format, which allows data to be searched, extracted and easily published on the internet, for instance in CSV or XML format. Access to the State aid website shall be allowed to any interested party without restrictions. No prior user registration shall be required to access the State aid website.
+
+The following information on individual awards as laid down in Article 9, paragraph 1, point (c) shall be published:
+
+(a) Reference of the identification number of the aid ( 34 );
+
+(b) Beneficiary’s identifier ( 35 );
+
+(c) Type of enterprise (SME/large) at the date of granting the aid;
+
+(d) Region in which the beneficiary is located, at NUTS level II ( 36 ) and, if applicable, Outermost regions or Smaller Aegean islands;
+
+(e) Sector of activity at NACE group level ( 37 );
+
+(f) Aid instrument, expressed as full amount in national currency ( 38 );
+
+(g) Aid instrument ( 39 ) (grant/interest rate subsidy, loan/repayable advances/reimbursable grant, guarantee, tax advantage or tax exemption, risk finance, other (please specify));
+
+(h) Date of granting the aid;
+
+(i) Objective of the aid ( 40 );
+
+(j) Granting authority.
+
+( 1 ) Commission Regulation (EU) No 651/2014 of 17 June 2014 declaring certain categories of aid compatible with the internal market in application of Articles 107 and 108 of the Treaty (OJ L 187, 26.6.2014, p. 1).
+
+( 2 ) OJ L 336, 23.12.1994, p. 22.
+
+( 3 ) WT/MIN(15)/45 – WT/L/980.
+
+( 4 ) Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).
+
+( 5 ) Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (OJ L 171, 29.6.2016, p. 66).
+
+( 6 ) Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (OJ L 343, 14.12.2012, p. 1).
+
+( 7 ) Guidelines on regional State aid (OJ C 153, 29.4.2021, p. 1).
+
+( 8 ) Regulation (EU) No 229/2013 of the European Parliament and of the Council of 13 March 2013 laying down specific measures for agriculture in favour of the smaller Aegean islands and repealing Council Regulation (EC) No 1405/2006 (OJ L 78, 20.3.2013, p. 41).
+
+( 9 ) Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1).
+
+( 10 ) ‘State Aid Transparency Public Search’, available at the following website: https://webgate.ec.europa.eu/competition/transparency/public?lang=en
+
+( 11 ) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+( 12 ) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+
+( 13 ) Technical guidance on the climate proofing of infrastructure in the period 2021-2027 (OJ C 373, 16.9.2021, p. 1).
+
+( 14 ) Regulation (EU) 2020/741 of the European Parliament and of the Council of 25 May 2020 on minimum requirements for water reuse (OJ L 177, 5.6.2020, p. 32).
+
+( 15 ) As regards the notion of control, Chapter II, point 1, of the Commission Consolidated Jurisdictional Notice under Council Regulation (EC) No 139/2004 on the control of concentrations between undertakings (OJ C 95, 16.4.2008, p. 1) shall apply by analogy.
+
+( 16 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+
+( 17 ) Regulation (EU) 2019/787 of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008 (OJ L 130, 17.5.2019, p. 1).
+
+( 18 ) Regulation (EU) No 251/2014 of the European Parliament and of the Council of 26 February 2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and repealing Council Regulation (EEC) No 1601/91 (OJ L 84, 20.3.2014, p. 14).
+
+( 19 ) Commission Communication – EU best practice guidelines for voluntary certification schemes for agricultural products and foodstuffs (OJ C 341, 16.12.2010, p. 5).
+
+( 20 ) Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe (OJ L 152, 11.6.2008, p. 1).
+
+( 21 ) Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC (OJ L 344, 17.12.2016, p. 1).
+
+( 22 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1).
+
+( 23 ) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1).
+
+( 24 ) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (OJ L 309, 24.11.2009, p. 71).
+
+( 25 ) ‘A European One Health Action Plan against Antimicrobial Resistance (AMR)’ (COM(2017) 339 final).
+
+( 26 ) Regulation (EU) 2021/690 of the European Parliament and of the Council of 28 April 2021 establishing a programme for the internal market, competitiveness of enterprises, including small and medium-sized enterprises, the area of plants, animals, food and feed, and European statistics (Single Market Programme) and repealing Regulations (EU) No 99/2013, (EU) No 1287/2013, (EU) No 254/2014 and (EU) No 652/2014 (OJ L 153, 3.5.2021, p. 1).
+
+( 27 ) Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species (OJ L 317, 4.11.2014, p. 35).
+
+( 28 ) This applies to cooperation relating to the production of energy from renewable sources or the production of biofuels on holdings, provided that the conditions laid down in Article 14 are complied with.
+
+( 29 ) Communication of the Commission of 15 December 2021 on Sustainable Carbon Cycles (COM(2021) 800 final).
+
+( 30 ) https://foresteurope.org/wp-content/uploads/2016/08/Pan-EuropeanAfforestationReforestationGuidelines.pdf
+
+( 31 ) General Guidelines for the Sustainable Management of Forests in Europe adopted at the Second Ministerial Conference on the Protection of Forests in Europe held in Helsinki on 16-17 June 1993 (https://www.foresteurope.org/docs/MC/MC_helsinki_resolutionH1.pdf).
+
+( 32 ) OJ C 341, 16.12.2010, p. 5.
+
+( 33 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+
+( 34 ) As provided by the Commission under the procedure as referred to in Article 9, paragraph 1 of this Regulation
+
+( 35 ) Considering the legitimate interest in transparency to provide information to the public, in weighting up the needs of transparency with the rights under the data protection rules, the Commission concludes that the publication of the name of the aid beneficiary when the aid beneficiary is a natural person or a legal persons which have names of natural persons, is justified (see C-92/09, Volker und Markus Schecke and Eifert, paragraph 53), taking into account Article 49(1)(g) of Regulation (EU) 2016/679. Transparency rules aim to a better compliance, greater accountability, peer review and ultimately more effective public spending. This aim shall prevail over the data protection rights of natural persons receiving public support.
+
+( 36 ) NUTS – Nomenclature of Territorial Units for Statistics. Typically, the region shall be specified at level 2.
+
+( 37 ) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE (OJ L 393, 30.12.2006, p. 1).
+
+( 38 ) Gross grant equivalent.
+
+( 39 ) If the aid is granted through multiple aid instruments, the aid amount shall be provided by an aid instrument.
+
+( 40 ) If the aid has multiple objectives, the aid amount shall be provided by an objective.

@@ -99,6 +99,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 21 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘21</td><td>Lead and cadmium in printing inks for the application of enamels on glasses, such as borosilicate and soda lime glasses</td><td>Applies to categories 8, 9 and 11 and expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments;</td></tr>
 </tbody>
 </table>
@@ -113,3 +114,4 @@ In Annex III, entry 21 is replaced by the following:
 <tr><td>21(b)</td><td>Cadmium in printing inks for the application of enamels on glasses, such as borosilicate and soda lime glasses</td><td>Applies to categories 1 to 7 and 10 except applications covered by entry 21(a) or 39 and expires on 21 July 2021.</td></tr>
 <tr><td>21(c)</td><td>Lead in printing inks for the application of enamels on other than borosilicate glasses</td><td>Applies to categories 1 to 7 and 10 and expires on 21 July 2021.’</td></tr>
 </tbody>
+</table>

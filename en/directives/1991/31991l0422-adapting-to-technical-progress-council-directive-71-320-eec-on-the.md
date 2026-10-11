@@ -182,6 +182,7 @@ Item 2.1.1.1.1 shall read:
 
 ‘2.1.1.1.1 The service brakes of vehicles of cateogries M and N shall be tested under the conditions shown in the following table:
 
+<table>
 <tbody><tr><td rowspan="2">  </td><td rowspan="2">Type of test</td><td>1M</td><td>2M</td><td>3M</td><td>1N</td><td>2N</td><td>3N</td></tr>
 <tr><td>O-I</td><td>O-I</td><td>O-I-II</td><td>O-I</td><td>O-I</td><td>O-I-II</td></tr>
 <tr><td rowspan="3">Type O test with engine disconnected</td><td>V</td><td>80 km/h</td><td>60 km/h</td><td>60 km/h</td><td>80 km/h</td><td>60 km/h</td><td>60 km/h</td></tr>
@@ -194,6 +195,7 @@ Item 2.1.1.1.1 shall read:
 <tr><td colspan="8"></td></tr>
 <tr><td>  </td><td>F ≤</td><td>500 N</td><td colspan="5">700 N</td></tr>
 </tbody>
+</table>
 
 where:
 

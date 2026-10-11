@@ -1,0 +1,653 @@
+---
+title: "Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (Text with EEA relevance. )"
+identifier: "32017R1369"
+eli: "http://data.europa.eu/eli/reg/2017/1369/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-07-04
+entry_into_force: 2018-01-08
+last_amended: 2021-05-01
+consolidated_version: "02017R1369-20210501"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1369-20210501"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (Text with EEA relevance. )
+
+**REGULATION (EU) 2017/1369 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2017**
+
+**setting a framework for energy labelling and repealing Directive 2010/30/EU**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/740 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 May 2020 </td><td> L 177</td><td>1</td><td>5.6.2020</td></tr>
+</table>
+
+**REGULATION (EU) 2017/1369 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2017**
+
+**setting a framework for energy labelling and repealing Directive 2010/30/EU**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject-matter and scope
+
+1\. This Regulation lays down a framework that applies to energy-related products (‘products’) placed on the market or put into service. It provides for the labelling of those products and the provision of standard product information regarding energy efficiency, the consumption of energy and of other resources by products during use and supplementary information concerning products, thereby enabling customers to choose more efficient products in order to reduce their energy consumption.
+
+2\. This Regulation does not apply to:
+
+(a) second-hand products, unless they are imported from a third country;
+
+(b) means of transport for persons or goods.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions apply:
+
+(1) ‘energy-related product’ or ‘product’ means a good or system with an impact on energy consumption during use which is placed on the market or put into service, including parts with an impact on energy consumption during use which are placed on the market or put into service for customers and that are intended to be incorporated into products;
+
+(2) ‘product group’ means a group of products which have the same main functionality;
+
+(3) ‘system’ means a combination of several goods which when put together perform a specific function in an expected environment and of which the energy efficiency can then be determined as a single entity;
+
+(4) ‘model’ means a version of a product of which all units share the same technical characteristics relevant for the label and the product information sheet and the same model identifier;
+
+(5) ‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same supplier's name;
+
+(6) ‘equivalent model’ means a model which has the same technical characteristics relevant for the label and the same product information sheet, but which is placed on the market or put into service by the same supplier as another model with a different model identifier;
+
+(7) ‘making available on the market’ means the supply of a product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(8) ‘placing on the market’ means the first making available of a product on the Union market;
+
+(9) ‘putting into service’ means the first use of a product for its intended purpose on the Union market;
+
+(10) ‘manufacturer’ means a natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under its name or trademark;
+
+(11) ‘authorised representative’ means a natural or legal person established in the Union who has received a written mandate from the manufacturer to act on its behalf in relation to specified tasks;
+
+(12) ‘importer’ means a natural or legal person established in the Union who places a product from a third country on the Union market;
+
+(13) ‘dealer’ means a retailer or other natural or legal person who offers for sale, hire, or hire purchase, or displays products to customers or installers in the course of a commercial activity, whether or not in return for payment;
+
+(14) ‘supplier’ means a manufacturer established in the Union, the authorised representative of a manufacturer who is not established in the Union, or an importer, who places a product on the Union market;
+
+(15) ‘distance selling’ means the offer for sale, hire or hire purchase by mail order, catalogue, internet, telemarketing or by any other method by which the potential customer cannot be expected to see the product displayed;
+
+(16) ‘customer’ means a natural or legal person who buys, hires or receives a product for own use whether or not acting for purposes which are outside its trade, business, craft or profession;
+
+(17) ‘energy efficiency’ means the ratio of output of performance, service, goods or energy to input of energy;
+
+(18) ‘harmonised standard’ means standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 1 );
+
+(19) ‘label’ means a graphic diagram, either in printed or electronic form, including a closed scale using only letters from A to G, each letter representing a class and each class corresponding to energy savings, in seven different colours from dark green to red, in order to inform customers about energy efficiency and energy consumption; it includes rescaled labels and labels with fewer classes and colours in accordance with Article 11(10) and (11);
+
+(20) ‘rescaling’ means an exercise making the requirements for achieving the energy class on a label for a particular product group more stringent;
+
+(21) ‘rescaled label’ means a label for a particular product group that has undergone rescaling and is distinguishable from labels before rescaling while preserving a visual and perceptible coherence of all labels;
+
+(22) ‘product information sheet’ means a standard document containing information relating to a product, in printed or electronic form;
+
+(23) ‘technical documentation’ means documentation sufficient to enable market surveillance authorities to assess the accuracy of the label and the product information sheet of a product, including test reports or similar technical evidence;
+
+(24) ‘supplementary information’ means information, as specified in a delegated act, on the functional and environmental performance of a product;
+
+(25) ‘product database’ means a collection of data concerning products, which is arranged in a systematic manner and consists of a consumer-oriented public part, where information concerning individual product parameters is accessible by electronic means, an online portal for accessibility and a compliance part, with clearly specified accessibility and security requirements;
+
+(26) ‘verification tolerance’ means the maximum admissible deviation of the measurement and calculation results of the verification tests performed by, or on behalf of, market surveillance authorities, compared to the values of the declared or published parameters, reflecting deviation arising from interlaboratory variation.
+
+## Article 3 — General obligations of suppliers
+
+1\. The supplier shall ensure that products that are placed on the market are accompanied, for each individual unit, free of charge, with accurate printed labels and with product information sheets in accordance with this Regulation and the relevant delegated acts.
+
+As an alternative to supplying the product information sheet with the product, delegated acts referred to in point (h) of Article 16(3) may provide that it is sufficient for the supplier to enter the parameters of such product information sheet into the product database. In such a case, the supplier shall provide the product information sheet in printed form to the dealer on request.
+
+Delegated acts may provide that the label is printed on the packaging of the product.
+
+2\. The supplier shall deliver printed labels, including rescaled labels in accordance with Article 11(13), and product information sheets, to the dealer free of charge, promptly and in any event within five working days upon the dealer's request.
+
+3\. The supplier shall ensure the accuracy of the labels and product information sheets that it provides and shall produce technical documentation sufficient to enable the accuracy to be assessed.
+
+4\. Once a unit of a model is in service, the supplier shall request explicit consent from the customer regarding any changes intended to be introduced to the unit by means of updates that would be detrimental to the parameters of the energy efficiency label for that unit, as set out in the relevant delegated act. The supplier shall inform the customer of the objective of the update and of the changes in the parameters, including any change in the label class. For a period proportionate to the average lifespan of the product, the supplier shall give the customer the option of refusing the update without avoidable loss of functionality.
+
+5\. The supplier shall not place on the market products that have been designed so that a model's performance is automatically altered in test conditions with the objective of reaching a more favourable level for any of the parameters specified in the relevant delegated act or included in any of the documentation provided with the product.
+
+## Article 4 — Obligations of suppliers in relation to the product database
+
+1\. As from 1 January 2019, the supplier shall, before placing on the market a unit of a new model covered by a delegated act, enter in the public and compliance parts of the product database the information for that model, as set out in Annex I.
+
+2\. Where units of models covered by a delegated act are placed on the market between 1 August 2017 and 1 January 2019, the supplier shall, by 30 June 2019, enter in the product database the information set out in Annex I in relation to those models.
+
+Until data entry in the product database, the supplier shall make an electronic version of the technical documentation available for inspection within 10 days of a request received from market surveillance authorities or the Commission.
+
+3\. The supplier may enter in the product database the information for models, as set out in Annex I, the units of which were exclusively placed on the market before 1 August 2017.
+
+4\. A product for which changes are made that are relevant for the label or the product information sheet shall be considered to be a new model. The supplier shall indicate in the database when it no longer places on the market units of a model.
+
+5\. The obligations referred to in paragraphs 1 and 2 of this Article shall not apply to packages of heaters referred to in Commission Delegated Regulations (EU) No 811/2013 ( 2 ), (EU) No 812/2013 ( 3 ) and (EU) 2015/1187 ( 4 ), where the provision of labels for those packages is the sole responsibility of the dealer.
+
+6\. After the final unit of a model has been placed on the market, the supplier shall keep the information concerning that model in the compliance part of the product database for a period of 15 years. Where appropriate in relation to the average life span of a product, a shorter retention period may be provided for pursuant to point (q) of Article 16(3). The information in the public part of the database shall not be deleted.
+
+## Article 5 — Obligations of dealers
+
+1\. The dealer shall:
+
+(a) display, in a visible manner, including for online distance selling, the label provided by the supplier or made available in accordance with paragraph 2 for units of a model covered by the relevant delegated act; and
+
+(b) make available to customers the product information sheet, including, upon request, in physical form at the point of sale.
+
+2\. Where, notwithstanding Article 3(1), the dealer does not have a label, it shall request one from the supplier in accordance with Article 3(2).
+
+3\. Where, notwithstanding Article 3(1), the dealer does not have a product information sheet, it shall request one from the supplier in accordance with Article 3(2); or, if it chooses to do so, print or download one for electronic display from the product database, if those functions are available for the relevant product.
+
+## Article 6 — Other obligations of suppliers and dealers
+
+The supplier and the dealer shall:
+
+(a) make reference to the energy efficiency class of the product and the range of the efficiency classes available on the label in visual advertisements or technical promotional material for a specific model in accordance with the relevant delegated act;
+
+(b) cooperate with market surveillance authorities and take immediate action to remedy any case of non-compliance with the requirements set out in this Regulation and the relevant delegated acts, which falls under their responsibility, at their own initiative or when required to do so by market surveillance authorities;
+
+(c) for products covered by delegated acts, not provide or display other labels, marks, symbols or inscriptions which do not comply with the requirements of this Regulation and the relevant delegated acts, if doing so would be likely to mislead or confuse customers with respect to the consumption of energy or other resources during use;
+
+(d) for products not covered by delegated acts, not supply or display labels which mimic the labels provided for under this Regulation and the relevant delegated acts;
+
+(e) for non-energy related products, not supply or display labels which mimic the labels provided for in this Regulation or in delegated acts.
+
+Point (d) in the first subparagraph shall not affect labels provided for in national law, unless those labels are provided for in delegated acts.
+
+## Article 7 — Obligations of Member States
+
+1\. Member States shall not impede the placing on the market or putting into service, within their territories, of products which comply with this Regulation and the relevant delegated acts.
+
+2\. Where Member States provide incentives for a product specified in a delegated act, those incentives shall aim at the highest two significantly populated classes of energy efficiency, or at higher classes as laid down in that delegated act.
+
+3\. Member States shall ensure that the introduction of labels and rescaling of labels is accompanied by educational and promotional information campaigns on energy labelling, if appropriate in cooperation with suppliers and dealers. The Commission shall support cooperation and the exchange of best practices in relation to those campaigns, including through the recommendation of common key messages.
+
+4\. Member States shall lay down the rules on penalties and enforcement mechanisms applicable to infringements of this Regulation and the delegated acts, and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Rules which fulfil the requirements of Article 15 of Directive 2010/30/EU shall be considered to fulfil the requirements of this paragraph as regards penalties.
+
+Member States shall, by 1 August 2017, notify the Commission of the rules referred to in the first subparagraph that have not previously been notified to the Commission, and shall notify the Commission, without delay, of any subsequent amendment affecting them.
+
+## Article 8 — Union market surveillance and control of products entering the Union market
+
+1\. Articles 16 to 29 of Regulation (EC) No 765/2008 shall apply to products covered by this Regulation and by the relevant delegated acts.
+
+2\. The Commission shall encourage and support cooperation and the exchange of information on market surveillance relating to the labelling of products between national authorities of the Member States that are responsible for market surveillance or in charge of the control of products entering the Union market and between them and the Commission, inter alia, by involving more closely the AdCos on Ecodesign and Energy Labelling.
+
+Such exchanges of information shall also be conducted when test results indicate that the product complies with this Regulation and the relevant delegated act.
+
+3\. Member States' general market surveillance programmes or sector specific programmes established pursuant to Article 18 of Regulation (EC) No 765/2008 shall include actions to ensure the effective enforcement of this Regulation.
+
+4\. The Commission shall, in cooperation with the AdCos on Ecodesign and Energy Labelling, elaborate guidelines for the enforcement of this Regulation, in particular as regards best practices for product testing and the sharing of information between national market surveillance authorities and the Commission.
+
+5\. Market surveillance authorities shall have the right to recover from the supplier the costs of document inspection and physical product testing in case of non-compliance with this Regulation or the relevant delegated acts.
+
+## Article 9 — Procedure at national level for dealing with products presenting a risk
+
+1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that a product covered by this Regulation presents a risk to aspects of public interest protection covered by this Regulation, such as environmental and consumer protection aspects, they shall carry out an evaluation in relation to the product concerned covering all energy labelling requirements relevant to the risk and laid down in this Regulation or in the relevant delegated act. Suppliers and dealers shall cooperate as necessary with the market surveillance authorities for the purpose of that evaluation.
+
+2\. Where, in the course of the evaluation referred to in paragraph 1, the market surveillance authorities find that the product does not comply with the requirements laid down in this Regulation or in the relevant delegated act, they shall without delay require the supplier, or where appropriate, the dealer, to take all appropriate corrective action to bring the product into compliance with those requirements, where appropriate to withdraw the product from the market, or where appropriate, to recall it within a reasonable period, commensurate with the nature of the risk as they may prescribe.
+
+Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in this paragraph.
+
+3\. Where the market surveillance authorities consider that a case of non-compliance as referred to in paragraph 2 is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the action which they have required the supplier or dealer to take.
+
+4\. The supplier or, where appropriate, the dealer shall ensure that all appropriate corrective or restrictive action in accordance with paragraph 2 is taken in respect of all the products concerned that it has made available on the market throughout the Union.
+
+5\. Where the supplier or, where appropriate, the dealer does not take adequate corrective action within the period referred to in paragraph 2, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the availability of the product on their national market, to withdraw the product from that market, or to recall it.
+
+6\. The market surveillance authorities shall inform the Commission and the other Member States without delay of the measures taken pursuant to paragraph 5. That information shall include all available details, in particular:
+
+(a) the data necessary for the identification of the non-compliant product;
+
+(b) the origin of the product;
+
+(c) the nature of the non-compliance alleged and the risk involved;
+
+(d) the nature and duration of the national measures taken and the arguments put forward by the supplier or, where appropriate, the dealer.
+
+In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either failure of the product to meet requirements relating to aspects of public interest protection laid down in this Regulation or shortcomings in the harmonised standards referred to in Article 13 conferring a presumption of conformity.
+
+7\. Member States other than the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product concerned, and, in the event of disagreement with the notified national measure, of their objections.
+
+8\. Where, within 60 days of receipt of the information referred to in paragraph 6, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed to be justified.
+
+9\. Member States shall ensure that appropriate restrictive measures, such as withdrawal of the product from their market, are taken in respect of the product concerned, without delay.
+
+## Article 10 — Union safeguard procedure
+
+1\. Where, on completion of the procedure set out in Article 9(4) and (5), objections are raised against a measure taken by a Member State, or where the Commission considers a national measure to be contrary to Union law, the Commission shall, without delay, consult the Member State and the supplier or, where appropriate, the dealer and shall evaluate the national measure.
+
+On the basis of the results of that evaluation, the Commission shall decide by means of an implementing act whether the national measure is justified or not and may suggest an appropriate alternative measure. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 18(2).
+
+2\. The Commission shall address its decision to all Member States and shall immediately communicate it to them and to the supplier or dealer concerned.
+
+3\. If the national measure is considered to be justified, all Member States shall take the measures necessary to ensure that the non-compliant product is withdrawn from their market, and shall inform the Commission accordingly. If the national measure is considered to be unjustified, the Member State concerned shall withdraw the measure.
+
+4\. Where the national measure is considered to be justified and the non-compliance of the product is attributed to shortcomings in the harmonised standards referred to in Article 9(6) of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+
+5\. Corrective or restrictive measures pursuant to Article 9(2), (4), (5) or (9), or Article 10(3) shall be extended to all units of a non-compliant model and of its equivalent models, except those units for which the supplier demonstrates that they are compliant.
+
+## Article 11 — Procedure for the introduction and rescaling of labels
+
+1\. As regards the product groups referred to in paragraphs 4 and 5, the Commission shall rescale labels which were in force on 1 August 2017 subject to paragraphs 4 and 5 and paragraphs 8 to 12.
+
+By way of derogation from the requirement of achieving significant energy and cost savings set out in point (b) of Article 16(3), where the rescaling cannot achieve such savings, it shall ensure at least a homogenous A to G scale.
+
+2\. Where a label does not exist for a product group on 1 August 2017, the Commission may, subject to paragraphs 8 to 12, introduce labels.
+
+3\. The Commission may further rescale labels which have been rescaled in accordance with paragraph 1 or introduced in accordance with paragraph 2 where the conditions under point (a) or (b) of paragraph 6 are met, and subject to paragraphs 8 to 12.
+
+4\. In order to ensure a homogenous A to G scale, the Commission shall adopt, by 2 August 2023, delegated acts pursuant to Article 16 of this Regulation in order to supplement this Regulation by introducing A to G rescaled labels for product groups covered by delegated acts adopted pursuant to Directive 2010/30/EU, with the aim of displaying the rescaled label both in shops and online, 18 months after the date of entry into force of the delegated acts adopted pursuant to this Regulation.
+
+When determining the order of product groups to be rescaled, the Commission shall take into account the proportion of products in the highest classes.
+
+5\. By way of derogation from paragraph 4, the Commission shall:
+
+(a) present reviews for the product groups covered by Delegated Regulations (EU) No 811/2013, (EU) No 812/2013 and (EU) 2015/1187 by 2 August 2025 with a view to rescaling them, and, where appropriate, shall, by 2 August 2026, adopt delegated acts pursuant to Article 16 of this Regulation in order to supplement this Regulation by introducing A to G rescaled labels.
+
+In any event, the delegated acts introducing A to G rescaled labels shall be adopted no later than 2 August 2030.
+
+(b) adopt, by 2 November 2018, delegated acts pursuant to Article 16 of this Regulation in order to supplement this Regulation by introducing A to G rescaled labels for product groups covered by Commission Delegated Regulations (EU) No 1059/2010 ( 5 ), (EU) No 1060/2010 ( 6 ), (EU) No 1061/2010 ( 7 ), (EU) No 1062/2010 ( 8 ) and (EU) No 874/2012 ( 9 ) and Directive 96/60/EC, with the aim of displaying the rescaled label both in shops and online, 12 months after their date of entry into force.
+
+6\. As regards the products for which the Commission may further rescale the labels in accordance with paragraph 3, the Commission shall review the label with a view to rescaling if it estimates that:
+
+(a) 30 % of the units of models belonging to a product group sold within the Union market fall into the top energy efficiency class A and further technological development can be expected; or
+
+(b) 50 % of the units of models belonging to a product group sold within the Union market fall into the top two energy efficiency classes A and B and further technological development can be expected.
+
+7\. The Commission shall carry out a review study if it has estimated that the conditions of point (a) or (b) of paragraph 6 are met.
+
+If, for a specific product group, those conditions are not met within eight years after the date of entry into force of the relevant delegated act, the Commission shall identify which barriers, if any, have prevented the label from fulfilling its role.
+
+In the case of new labels it shall carry out a preparatory study based on the indicative list of product groups set out in the working plan.
+
+The Commission shall finalise its review study, present the results and, where appropriate, a draft delegated act to the Consultation Forum within 36 months of the Commission estimating that the conditions referred to in point (a) or (b) of paragraph 6 are met. The Consultation Forum shall discuss the estimate and the review study.
+
+8\. Where a label is introduced or rescaled, the Commission shall ensure that no products are expected to fall into energy class A at the moment of the introduction of the label and the estimated time within which a majority of models falls into that class is at least 10 years later.
+
+9\. By way of derogation from paragraph 8, where technology is expected to develop more rapidly, requirements shall be laid down so that no products are expected to fall into energy classes A and B at the moment of the introduction of the label.
+
+10\. Where, for a given product group, models belonging to energy class E, F or G are no longer allowed to be placed on the market or put into service because of an Ecodesign implementing measure adopted pursuant to Directive 2009/125/EC, the class or classes in question shall be shown on the label in grey as specified in the relevant delegated act. The label with the grey classes shall apply only to new product units placed on the market or put into service.
+
+11\. Where, for technical reasons, it is impossible to define seven energy classes that correspond to significant energy and cost savings from a customer's perspective, the label may, by way of derogation from point (14) of Article 2, contain fewer classes. In such cases, the dark green to red spectrum of the label shall be retained.
+
+12\. The Commission shall exercise the powers and obligations conferred on it by this Article in accordance with Article 16.
+
+13\. Where, pursuant to paragraph 1 or 3, a label is rescaled:
+
+(a) the supplier shall, when placing a product on the market, provide both the existing and the rescaled labels and the product information sheets to the dealer for a period beginning four months before the date specified in the relevant delegated act for starting the display of the rescaled label.
+
+By way of derogation from the first subparagraph of this point, if the existing and the rescaled label require different testing of the model, the supplier may choose not to supply the existing label with units of models placed on the market or put into service during the four-month period before the date specified in the relevant delegated act for starting the display of the rescaled label if no units belonging to the same model or equivalent models were placed on the market or put into service before the start of the four-month period. In that case, the dealer shall not offer those units for sale before that date. The supplier shall notify the dealer concerned of that consequence as soon as possible, including when it includes such units in its offers to dealers.
+
+(b) the supplier shall, for products placed on the market or put into service before the four-month period, deliver the rescaled label on request from the dealer in accordance with Article 3(2) as from the start of that period. For such products, the dealer shall obtain a rescaled label in accordance with Article 5(2).
+
+By way of derogation from the first subparagraph of this point:
+
+(i) a dealer who is unable to obtain a rescaled label in accordance with the first subparagraph of this point for units already in its stock because the supplier has ceased its activities shall be permitted to sell those units exclusively with the non-rescaled label until nine months after the date specified in the relevant delegated act for starting the display of the rescaled label; or
+
+(ii) if the non-rescaled and the rescaled label require different testing of the model, the supplier is exempt from the obligation to supply a rescaled label for units placed on the market or put into service before the four month period, if no units belonging to same model or equivalent models are placed on the market or put into service after the start of the four-month period. In that case, the dealer shall be permitted to sell those units exclusively with the non-rescaled label until nine months after the date specified in the relevant delegated act for starting the display of the rescaled label.
+
+(c) the dealer shall replace the existing labels on products on display, both in shops and online, with the rescaled labels within 14 working days after the date specified in the relevant delegated act for starting the display of the rescaled label. The dealer shall not display the rescaled labels before that date.
+
+By way of derogation from points (a), (b) and (c) of this paragraph, delegated acts referred to in point (e) of Article 16(3) may provide for specific rules for energy labels printed on the packaging.
+
+## Article 12 — Product database
+
+1\. The Commission shall establish and maintain a product database consisting of a public part, a compliance part and an online portal giving access to those two parts.
+
+The product database shall not replace or modify the responsibilities of the market surveillance authorities.
+
+2\. The product database shall serve the following purposes:
+
+(a) to support market surveillance authorities in carrying out their tasks under this Regulation and the relevant delegated acts, including enforcement thereof, and under Regulation (EU) 2020/740 of the European Parliament and of the Council ( 10 );
+
+(b) to provide the public with information about products placed on the market and their energy labels, and product information sheets;
+
+(c) to provide the Commission with up-to-date energy efficiency information for products for reviewing energy labels;
+
+3\. The public part of the database and the online portal shall contain the information set out in points 1 and 2 of Annex I respectively which shall be made publicly available. The public part of the database shall meet the criteria in paragraph 7 of this Article, and the functional criteria set out in point 4 of Annex I.
+
+4\. The compliance part of the product database shall be accessible only to market surveillance authorities and to the Commission and shall contain the information set out in point 3 of Annex I, including the specific parts of the technical documentation as referred to in paragraph 5 of this Article. The compliance part shall meet the criteria in paragraphs 7 and 8 of this Article, and the functional criteria set out in point 4 of Annex I.
+
+5\. The mandatory specific parts of the technical documentation that the supplier shall enter into the database shall cover only:
+
+(a) a general description of the model, sufficient for it to be unequivocally and easily identified;
+
+(b) references to the harmonised standards applied or other measurement standards used;
+
+(c) specific precautions that shall be taken when the model is assembled, installed, maintained or tested;
+
+(d) the measured technical parameters of the model;
+
+(e) the calculations performed with the measured parameters;
+
+(f) testing conditions if not described sufficiently in point (b).
+
+In addition, the supplier may upload additional parts of the technical documentation on a voluntary basis into the database.
+
+6\. When data other than those specified in paragraph 5 or not available in the public part of the database would become necessary for market surveillance authorities and/or the Commission for carrying out their tasks under this Regulation, they shall be able to obtain them from the supplier on request.
+
+7\. The product database shall be established in accordance with the following criteria:
+
+(a) minimising the administrative burden for the supplier and other database users;
+
+(b) user-friendliness and cost-effectiveness; and
+
+(c) automatic avoidance of redundant registration.
+
+8\. The compliance part of the database shall be established in accordance with the following criteria:
+
+(a) protection from unintended use and the safeguarding of confidential information by way of strict security arrangements;
+
+(b) access rights based on the need-to-know principle;
+
+(c) processing of personal data in accordance with Regulation (EC) No 45/2001 and Directive 95/46/EC, as applicable;
+
+(d) limitation of data access in scope to prevent copying larger data sets;
+
+(e) traceability of data access for the supplier with regard to its technical documentation.
+
+9\. The data in the compliance part of the database shall be treated in accordance with Commission Decision (EU, Euratom) 2015/443 ( 11 ). In particular, the specific cyber-security arrangements of Commission Decision (EU, Euratom) 2017/46 ( 12 ) and its implementing rules shall apply. The confidentiality level shall reflect the consequential harm resulting from disclosure of the data to unauthorised persons.
+
+10\. The supplier shall have access and editing rights to the information it enters in the product database pursuant to Article 4(1) and (2). A record of changes shall be kept for market surveillance purposes, keeping track of the dates of any editing.
+
+11\. Customers using the public part of the product database shall be able to easily identify the best energy class populated for each product group, allowing them to compare model characteristics and to choose the most energy efficient products.
+
+12\. The Commission shall be empowered to specify, by means of implementing acts, the operational details of the product database. After consulting the Consultation Forum provided for in Article 14, those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18(2).
+
+## Article 13 — Harmonised standards
+
+1\. After the adoption of a delegated act pursuant to Article 16 of this Regulation setting specific labelling requirements the Commission shall, in accordance with Regulation (EU) No 1025/2012, publish references to the harmonised standards that satisfy the relevant measurement and calculation requirements of the delegated act in the Official Journal of the European Union.
+
+2\. Where such harmonised standards are applied during the conformity assessment of a product, the model shall be presumed to be in conformity with the relevant measurement and calculation requirements of the delegated act.
+
+3\. Harmonised standards shall aim to simulate real-life usage as far as possible while maintaining a standard test method. Test methods shall furthermore take into account the associated costs for industry and small and medium sized enterprises (SMEs).
+
+4\. Measurement and calculation methods included in the harmonised standards shall be reliable, accurate and reproducible, and aligned with the requirements of Article 3(4) and (5).
+
+## Article 14 — Consultation Forum
+
+1\. In the conduct of its activities under this Regulation the Commission shall ensure, in respect of each delegated act adopted pursuant to Article 16 and each implementing act adopted pursuant to Article 12(12) of this Regulation, a balanced participation of Member States' representatives and interested parties concerned with the product group in question, such as industry, including SMEs and craft industry, trade unions, traders, retailers, importers, environmental protection groups and consumer organisations. For this purpose, the Commission shall establish a Consultation Forum in which these parties shall meet. The Consultation Forum shall be combined with the Consultation Forum referred to in Article 18 of Directive 2009/125/EC.
+
+2\. Where appropriate, when preparing delegated acts, the Commission shall test the design and content of the labels for specific product groups with representative groups of Union customers to ensure their clear understanding of the labels.
+
+## Article 15 — Working plan
+
+The Commission shall, after consulting the Consultation Forum referred to in Article 14, establish a long-term working plan which shall be made publicly available. The working plan shall set out an indicative list of product groups which are considered to be priorities for the adoption of delegated acts. The working plan shall also set out plans for the revision and rescaling of labels for product groups in accordance with Article 11(4) and (5), with the exception of the rescaling of labels which were in force at 1 August 2017 for which the rescaling is provided for in Article 11 of this Regulation.
+
+The Commission shall update the working plan periodically after consulting the Consultation Forum. The working plan may be combined with the working plan required by Article 16 of Directive 2009/125/EC and shall be reviewed every three years.
+
+The Commission shall inform the European Parliament and the Council annually of the progress made in the implementation of the working plan.
+
+## Article 16 — Delegated Acts
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to supplement this Regulation by establishing detailed requirements relating to labels for specific product groups.
+
+2\. The delegated acts referred to in paragraph 1 shall specify product groups which satisfy the following criteria:
+
+(a) according to the most recently available figures and considering the quantities placed on the Union market, the product group shall have significant potential for saving energy and where relevant, other resources;
+
+(b) within the product group, models with equivalent functionality shall differ significantly in the relevant performance levels;
+
+(c) there shall be no significant negative impact as regards the affordability and the life cycle cost of the product group;
+
+(d) the introduction of energy labelling requirements for a product group shall not have a significant negative impact on the functionality of the product during use;
+
+3\. Delegated acts relating to specific product groups shall specify, in particular:
+
+(a) the definition of the specific product group falling under the definition of ‘energy-related product’ set out in point 1 of Article 2 which is to be covered by the detailed labelling requirements;
+
+(b) the design and content of the label, including a scale showing consumption of energy consisting of A to G, which as far as possible shall have uniform design characteristics across product groups and shall in all cases be clear and legible. The A to G steps of the classification shall correspond to significant energy and cost savings and appropriate product differentiation from the customer's perspective. It shall also specify how the A to G steps of the classification, and where applicable energy consumption is displayed in a prominent position on the label;
+
+(c) where appropriate, the use of other resources and supplementary information concerning the product, in which case the label shall emphasise the energy efficiency of the product. Supplementary information shall be unambiguous and with no negative impact on the clear intelligibility and effectiveness of the label as a whole towards customers. It shall be based on data relating to physical product characteristics that are measurable and verifiable by market surveillance authorities;
+
+(d) where appropriate, the inclusion of a reference in the label allowing customers to identify products that are energy smart, that is to say, capable of automatically changing and optimising their consumption patterns in response to external stimuli (such as signals from or via a central home energy managing system, price signals, direct control signals, local measurement) or capable of delivering other services which increase energy efficiency and the up-take of renewable energy, with the aim to improve the environmental impact of energy use over the whole energy system;
+
+(e) the locations where the label shall be displayed, such as attached to the product unit where no damage is caused to it, printed on the packaging, provided in electronic format or displayed online, taking into account the requirements of Article 3(1), and the implications for customers, suppliers and dealers;
+
+(f) where appropriate, electronic means for labelling products;
+
+(g) the manner in which the label and product information sheet are to be provided in the case of distance selling;
+
+(h) the required contents and, where appropriate, the format and other details concerning the product information sheet and the technical documentation, including the possibility to enter the parameters of the product information sheet into the database in accordance with Article 3(1);
+
+(i) the verification tolerances to be used by Member States when verifying compliance with the requirements;
+
+(j) how the energy class and the range of the efficiency classes available on the label shall be included in visual advertisements and technical promotional material, including legibility and visibility;
+
+(k) the measurement and calculation methods referred to in Article 13, to be used to determine label and product information sheet information, including the definition of the energy efficiency index (EEI), or equivalent parameter;
+
+(l) whether for larger appliances a higher level of energy efficiency is required to reach a given energy class;
+
+(m) the format of any additional references on the label allowing customers to access through electronic means more detailed information on the product performance included in the product information sheet. The format of those references may take the form of a website address, a dynamic quickresponse code (QR code), a link on online labels or any other appropriate consumer-oriented means;
+
+(n) how, where appropriate energy classes describing the product's energy consumption during use should be shown on the product's interactive display;
+
+(o) the date for the evaluation and possible consequent revision of the delegated act;
+
+(p) where appropriate, differences in energy performances in different climatic regions;
+
+(q) as regards the requirement of keeping information in the compliance part of the database in Article 4(6), a retention period of less than 15 years, where appropriate in relation to the average lifespan of the product.
+
+4\. The Commission shall adopt a separate delegated act for each specific product group. When the Commission decides on the timing for the adoption of the delegated act for a specific product group, it shall not delay the adoption on grounds related to the adoption of a delegated act concerning another specific product group, unless exceptional circumstances warrant otherwise.
+
+5\. The Commission shall keep an updated inventory of all relevant delegated acts, as well as of the measures developing Directive 2009/125/EC, including complete references to all relevant harmonised standards.
+
+## Article 17 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 11(4) and (5) and Article 16 shall be conferred on the Commission for a period of six years from 1 August 2017. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the six-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 11(4) and (5) and Article 16 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making. The consultation of Member States' experts shall take place after the consultation pursuant to Article 14.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 11(4) and (5) and Article 16 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period may be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 18 — Committee procedure
+
+1\. The Commission shall be assisted by the committee established by Article 19 of Directive 2009/125/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 19 — Evaluation and report
+
+By 2 August 2025, the Commission shall assess the implementation of this Regulation and submit a report to the European Parliament and to the Council. That report shall assess how effectively this Regulation and the delegated and implementing acts adopted pursuant thereto have allowed customers to choose more efficient products, taking into account its impacts on business, energy consumption, greenhouse gas emissions, market surveillance activities, and the cost to establish and maintain the database.
+
+## Article 20 — Repeal and transitional measures
+
+1\. Directive 2010/30/EU is repealed with effect from 1 August 2017.
+
+2\. References to the repealed Directive shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II.
+
+3\. For models, the units of which were placed on the market or put into service in accordance with Directive 2010/30/EU before 1 August 2017, the supplier shall, for a period ending five years after the final unit was manufactured, make an electronic version of the technical documentation available for inspection within 10 days of a request received from market surveillance authorities or the Commission.
+
+4\. Delegated acts adopted pursuant to Article 10 of Directive 2010/30/EU and Directive 96/60/EC shall remain in force until they are repealed by a delegated act adopted pursuant to Article 16 of this Regulation covering the relevant product group.
+
+Obligations under this Regulation shall apply in relation to product groups covered by delegated acts adopted pursuant to Article 10 of Directive 2010/30/EU and by Directive 96/60/EC.
+
+5\. With regard to product groups already covered by delegated acts adopted pursuant to Article 10 of Directive 2010/30/EU, or by Directive 96/60/EC, where the Commission adopts delegated acts pursuant to Article 16 of this Regulation, the energy efficiency classification established by Directive 2010/30/EU may, by way of derogation from point (b) of Article 16(3) of this Regulation, continue to apply until the date on which the delegated acts introducing rescaled labels pursuant to Article 11 of this Regulation become applicable.
+
+## Article 21 — Entry into force and application
+
+This Regulation shall enter into force on the fourth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 August 2017.
+
+By way of derogation from the second paragraph, Article 4 concerning the obligations of suppliers in relation to the product database shall apply from 1 January 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**INFORMATION TO BE ENTERED IN THE PRODUCT DATABASE AND FUNCTIONAL CRITERIA FOR THE PUBLIC PART OF THE DATABASE**
+
+1\. Information to be entered in the public part of the database by the supplier:
+
+(a) the name or trademark, address, contact details and other legal identification of the supplier;
+
+(b) the model identifier;
+
+(c) the label in electronic format;
+
+(d) the energy efficiency class(es) and other parameters of the label;
+
+(e) the parameters of the product information sheet in electronic format.
+
+2\. Information to be entered in the online portal by the Commission:
+
+(a) contact details of Member State market surveillance authorities;
+
+(b) working-plan pursuant to Article 15;
+
+(c) minutes of the Consultation Forum;
+
+(d) an inventory of delegated and implementing acts, transitional measurement and calculation methods and applicable harmonised standards.
+
+3\. Information to be entered in the compliance part of the database by the supplier:
+
+(a) the model identifier of all equivalent models already placed on the market;
+
+(b) the technical documentation as specified in Article 12(5).
+
+The Commission shall provide a link to the Information and Communication System on Market Surveillance (ICSMS), which includes the outcome of compliance checks performed by Member States and provisional measures adopted.
+
+4\. Functional criteria for the public part of the product database:
+
+(a) each product model shall be retrievable as an individual record;
+
+(b) it shall generate a single viewable, downloadable and printable file of the energy label of each model, as well as the linguistic versions of the complete product information sheet, in all official languages of the Union;
+
+(c) the information shall be machine readable, sortable and searchable, respecting open standards for third party use, free of charge;
+
+(d) an online helpdesk or contact point for the supplier shall be established and maintained, clearly referenced on the portal.
+
+## ANNEX II
+
+**CORRELATION TABLE**
+
+| Directive 2010/30/EU | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | — |
+| Article 1(3)(a) and (b) | Article 1(2)(a) and (b) |
+| Article 1(3)(c) | — |
+| Article 2 | Article 2 |
+| Article 2(a) | Article 2, point 1 |
+| Article 2(b) | Article 2, point 22 |
+| Article 2(c) | — |
+| Article 2(d) | — |
+| Article 2(e) | — |
+| Article 2(f) | — |
+| Article 2(g) | Article 2, point 13 |
+| Article 2(h) | Article 2, point 14 |
+| Article 2(i) | Article 2, point 8 |
+| Article 2(j) | Article 2, point 9 |
+| Article 2(k) | — |
+| Article 3 | Article 7 |
+| Article 3(1)(a) | Article 7(3) |
+| Article 3(1)(b) | Article 6(c) |
+| Article 3(1)(c) | Article 7(3) |
+| Article 3(1)(d) | Article 8(2) |
+| Article 3(2) | Article 6(b) and Article 9 |
+| Article 3(3) | Article 8(1) |
+| Article 3(4) | — |
+| Article 4(a) | Article 5 |
+| Article 4(b) | — |
+| Article 4(c) | Article 6(a) |
+| Article 4(d) | Article 6(a) |
+| Article 5 | Article 3(1) and Article 6 |
+| Article 5(a) | Article 3(1)(a) |
+| Article 5(b), points (i), (ii), (iii) and (iv) | Article 4(6) and Annex I |
+| Article 5(c) | Article 4(6) |
+| Article 5(d) | Article 3(1) |
+| Article 5(d), second subparagraph | Article 3(1) |
+| Article 5(e) | Article 3(1) |
+| Article 5(f) | — |
+| Article 5(g) | Article 3(1) |
+| Article 5(h) | — |
+| Article 6 | Article 5(1) and Article 6 |
+| Article 6(a) | Article 5(1)(a) |
+| Article 6(b) | Article 5(1)(a) |
+| Article 7 | Article 16(3)(e) and (g) |
+| Article 8(1) | Article 7(1) |
+| Article 8(2) | — |
+| Article 9(3) | Article 7(2) |
+| Article 9(4) | — |
+| Article 10(1) | Article 16 |
+| Article 10(1), second paragraph | Article 16(2) |
+| Article 10(1), third paragraph | — |
+| Article 10(1), fourth paragraph | Article 16(3)(c) |
+| Article 10(2)(a) | Article 16(2)(a) |
+| Article 10(2)(b) | Article 16(2)(b) |
+| Article 10(2)(c) | — |
+| Article 10(3)(a) | — |
+| Article 10(3)(b) | — |
+| Article 10(3)(c) | Article 14 |
+| Article 10(3)(d) | — |
+| Article 10(4)(a) | Article 16(3)(a) |
+| Article 10(4)(b) | Article 16(3)(k) |
+| Article 10(4)(c) | Article 16(3)(h) |
+| Article 10(4)(d) | Article 16(3)(b) |
+| Article 10(4)(d), second paragraph | — |
+| Article 10(4)(d), third paragraph | Article 16(3)(b) |
+| Article 10(4)(d), fourth paragraph | Article 11(3) |
+| Article 10(4)(d), fifth paragraph | Article 11 |
+| Article 10(4)(e) | Article 16(3)(e) |
+| Article 10(4)(f) | Article 16(3)(h) |
+| Article 10(4)(g) | Article 16(3)(j) |
+| Article 10(4)(h) | Article 11(3) |
+| Article 10(4)(i) | Article 16(3)(i) |
+| Article 10(4)(j) | Article 16(3)(o) |
+| Article 11(1) | Article 17(2) |
+| Article 11(2) | Article 17(5) |
+| Article 11(3) | Article 17(1) |
+| Article 12(1) | Article 17(3) |
+| Article 12(2) | — |
+| Article 12(3) | Article 17(3) |
+| Article 13 | Article 17(6) |
+| Article 14 | Article 19 |
+| Article 15 | Article 7(4) |
+| Article 16 | — |
+| Article 17 | Article 20 |
+| Article 18 | Article 21 |
+| Article 19 | Article 21 |
+| Annex I | — |
+| — | Annex I |
+| Annex II | Annex II |
+
+( 1 ) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+
+( 2 ) Commission Delegated Regulation (EU) No 811/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of space heaters, combination heaters, packages of space heater, temperature control and solar device and packages of combination heater, temperature control and solar device (OJ L 239, 6.9.2013, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) No 812/2013 of 18 February 2013 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to the energy labelling of water heaters, hot water storage tanks and packages of water heater and solar device (OJ L 239, 6.9.2013, p. 83).
+
+( 4 ) Commission Delegated Regulation (EU) 2015/1187 of 27 April 2015 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of solid fuel boilers and packages of a solid fuel boiler, supplementary heaters, temperature controls and solar devices (OJ L 193, 21.7.2015, p. 43).
+
+( 5 ) Commission Delegated Regulation (EU) No 1059/2010 of 28 September 2010 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of household dishwashers (OJ L 314, 30.11.2010, p. 1).
+
+( 6 ) Commission Delegated Regulation (EU) No 1060/2010 of 28 September 2010 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of household refrigerating appliances (OJ L 314, 30.11.2010, p. 17).
+
+( 7 ) Commission Delegated Regulation (EU) No 1061/2010 of 28 September 2010 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of household washing machines (OJ L 314, 30.11.2010, p. 47).
+
+( 8 ) Commission Delegated Regulation (EU) No 1062/2010 of 28 September 2010 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of televisions (OJ L 314, 30.11.2010, p. 64).
+
+( 9 ) Commission Delegated Regulation (EU) No 874/2012 of 12 July 2012 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of electrical lamps and luminaires (OJ L 258, 26.9.2012, p. 1).
+
+( 10 ) Regulation (EU) 2020/740 of the European Parliament and of the Council of 25 May 2020 on the labelling of tyres with respect to fuel efficiency and other parameters, amending Regulation (EU) 2017/1369 and repealing Regulation (EC) No 1222/2009 (OJ L 177, 5.6.2020, p. 1).
+
+( 11 ) Commission Decision (EU, Euratom) 2015/443 of 13 March 2015 on Security in the Commission (OJ L 72, 17.3.2015, p. 41).
+
+( 12 ) Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission (OJ L 6, 11.1.2017, p. 40).

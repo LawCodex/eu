@@ -1,0 +1,715 @@
+---
+title: "Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods"
+identifier: "32006R1925"
+eli: "http://data.europa.eu/eli/reg/2006/1925/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-12-20
+entry_into_force: 2006-06-15
+last_amended: 2025-11-26
+consolidated_version: "02006R1925-20251126"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1925-20251126"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods
+
+**REGULATION (EC) No 1925/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 December 2006**
+
+**on the addition of vitamins and minerals and of certain other substances to foods**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EC) No 108/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 January 2008 </td><td> L 39</td><td>11</td><td>13.2.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1170/2009 of 30 November 2009 </td><td> L 314</td><td>36</td><td>1.12.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1161/2011 of 14 November 2011 </td><td> L 296</td><td>29</td><td>15.11.2011</td></tr>
+<tr><td></td><td> REGULATION (EU) No 1169/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2011 </td><td> L 304</td><td>18</td><td>22.11.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 119/2014 of 7 February 2014 </td><td> L 39</td><td>44</td><td>8.2.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/403 of 11 March 2015 </td><td> L 67</td><td>4</td><td>12.3.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/1203 of 5 July 2017 </td><td> L 173</td><td>9</td><td>6.7.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/649 of 24 April 2019 </td><td> L 110</td><td>17</td><td>25.4.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/650 of 24 April 2019 </td><td> L 110</td><td>21</td><td>25.4.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/468 of 18 March 2021 </td><td> L 96</td><td>6</td><td>19.3.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/860 of 1 June 2022 </td><td> L 151</td><td>37</td><td>2.6.2022</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/2340 of 30 November 2022 </td><td> L 310</td><td>7</td><td>1.12.2022</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2023/1065 of 1 June 2023 </td><td> L 143</td><td>6</td><td>2.6.2023</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2024/1821 of 25 June 2024 </td><td> L 1821</td><td>1</td><td>27.6.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/2224 of 5 November 2025 </td><td> L 2224</td><td>1</td><td>6.11.2025</td></tr>
+</table>
+
+**REGULATION (EC) No 1925/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 December 2006**
+
+**on the addition of vitamins and minerals and of certain other substances to foods**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation harmonises the provisions laid down by law, regulation or administrative action in Member States which relate to the addition of vitamins and minerals and of certain other substances to foods, with the purpose of ensuring the effective functioning of the internal market, whilst providing a high level of consumer protection.
+
+2\. The provisions of this Regulation regarding vitamins and minerals shall not apply to food supplements covered by Directive 2002/46/EC.
+
+3\. This Regulation shall apply without prejudice to specific provisions laid down in Community legislation concerning:
+
+(a) foods for particular nutritional uses and, in the absence of specific provisions, compositional requirements of such products rendered necessary by the particular nutritional requirements of the persons for whom they are intended;
+
+(b) novel foods and novel food ingredients;
+
+(c) genetically modified food;
+
+(d) food additives and flavourings;
+
+(e) authorised oenological practices and processes.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(1) ‘Authority’ means the European Food Safety Authority established by Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ( 1 );
+
+(2) ‘other substance’ means a substance other than a vitamin or a mineral that has a nutritional or physiological effect.
+
+## CHAPTER II — ADDITION OF VITAMINS AND MINERALS
+
+### Article 3 — Requirements for the addition of vitamins and minerals
+
+1\. Only vitamins and/or minerals listed in Annex I, in the forms listed in Annex II, may be added to foods, subject to the rules laid down in this Regulation.
+
+2\. Vitamins and minerals in a form that is bio-available to the human body may be added to foods, whether or not they are usually contained therein, in order to take into account, in particular:
+
+(a) a deficiency of one or more vitamins and/or minerals in the population or specific population groups that can be demonstrated by clinical or sub-clinical evidence of deficiency or indicated by estimated low levels of intake of nutrients; or
+
+(b) the potential to improve the nutritional status of the population or specific population groups and/or correct possible deficiencies in dietary intakes of vitamins or minerals due to changes in dietary habits; or
+
+(c) evolving generally acceptable scientific knowledge on the role of vitamins and minerals in nutrition and consequent effects on health.
+
+3\. Modifications to the lists referred to in paragraph 1 of this Article shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3), taking account of the opinion of the Authority.
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 14(4) in order to remove a vitamin or a mineral from the lists referred to in paragraph 1 of this Article.
+
+Prior to making these modifications, the Commission shall carry out consultations with interested parties, in particular food business operators and consumer groups.
+
+### Article 4 — Restrictions on the addition of vitamins and minerals
+
+Vitamins and minerals may not be added to:
+
+(a) unprocessed foodstuffs, including, but not limited to, fruit, vegetables, meat, poultry and fish;
+
+(b) beverages containing more than 1,2 % by volume of alcohol, except and by way of derogation from Article 3(2), to products:
+
+(i) referred to in Article 44(6) and (13) of Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine ( 2 ); and
+
+(ii) which were marketed prior to the adoption of this Regulation; and
+
+(iii) which have been notified to the Commission by a Member State in accordance with Article 11,
+
+and provided that no nutrition or health claim is made.
+
+Measures determining the additional foods or categories of foods to which particular vitamins and minerals may not be added and designed to amend non-essential elements of this Regulation may be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3) in the light of scientific evidence and taking into account their nutritional value.
+
+### Article 5 — Purity criteria
+
+1\. Measures determining the purity criteria for vitamin formulations and mineral substances listed in Annex II and designed to amend non-essential elements of this Regulation by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3), except where they apply pursuant to paragraph 2 of this Article.
+
+2\. Purity criteria for vitamin formulations and mineral substances listed in Annex II, specified by Community legislation for their use in the manufacture of foodstuffs for purposes other than those covered by this Regulation, shall apply.
+
+3\. For those vitamin formulations and mineral substances listed in Annex II for which purity criteria are not specified by Community legislation, and until such specifications are adopted, generally acceptable purity criteria recommended by international bodies shall be applicable and national rules setting stricter purity criteria may be maintained.
+
+### Article 6 — Conditions for the addition of vitamins and minerals
+
+1\. When a vitamin or a mineral is added to foods, the total amount of the vitamin or mineral present, for whatever purpose, in the food as sold shall not exceed maximum amounts. Measures setting that amount and designed to amend non-essential elements of this Regulation by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3). The Commission may, to this end, submit a draft of measures for the maximum amounts by 19 January 2009. For concentrated and dehydrated products, the maximum amounts set shall be those present in the foods when prepared for consumption according to the manufacturer's instructions.
+
+2\. Any conditions restricting or prohibiting the addition of a specific vitamin or mineral to a food or a category of foods and designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+3\. The maximum amounts referred to in paragraph 1 and the conditions referred to in paragraph 2 shall be set taking into account:
+
+(a) upper safe levels of vitamins and minerals established by scientific risk assessment based on generally acceptable scientific data, taking into account, as appropriate, the varying degrees of sensitivity of different groups of consumers; and
+
+(b) intakes of vitamins and minerals from other dietary sources.
+
+4\. When the maximum amounts referred to in paragraph 1 and the conditions referred to in paragraph 2 are set, due account shall also be taken of reference intakes of vitamins and minerals for the population.
+
+5\. When the maximum amounts referred to in paragraph 1 and the conditions referred to in paragraph 2 are set for vitamins and minerals whose reference intakes for the population are close to the upper safe levels, the following shall also be taken into account, as necessary:
+
+(a) the contribution of individual products to the overall diet of the population in general or of sub-groups of the population;
+
+(b) the nutrient profile of the product established as provided for by Regulation (EC) No 1924/2006.
+
+6\. The addition of a vitamin or a mineral to a food shall result in the presence of that vitamin or mineral in the food in at least a significant amount where this is defined according to the Annex to Directive 90/496/EEC. Measures determining the minimum amounts, including any lower amounts, by derogation from the significant amounts mentioned above, for specific foods or categories of foods and designed to amend non-essential elements of this Regulation by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3) of this Regulation.
+
+### Article 7 — Labelling, presentation and advertising
+
+1\. The labelling, presentation and advertising of foods to which vitamins and minerals have been added shall not include any mention stating or implying that a balanced and varied diet cannot provide appropriate quantities of nutrients. Where appropriate, a derogation concerning a specific nutrient and designed to amend non-essential elements of this Regulation by supplementing it may be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).
+
+2\. The labelling, presentation and advertising of foods to which vitamins and minerals have been added shall not mislead or deceive the consumer as to the nutritional merit of a food that may result from the addition of these nutrients.
+
+3\. Nutrition labelling of products to which vitamins and minerals have been added and which are covered by this Regulation shall be compulsory. The information to be provided shall consist of that specified in Article 30(1) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers ( 3 ) and of the total amounts present of the vitamins and minerals when added to the food.
+
+4\. The labelling of products to which vitamins and minerals have been added may bear a statement indicating such addition under the conditions laid down in Regulation (EC) No 1924/2006.
+
+5\. This Article shall apply without prejudice to other provisions of food law applicable to specified categories of foods.
+
+6\. Rules for implementing this Article may be specified in accordance with the procedure referred to in Article 14(2).
+
+## CHAPTER III — ADDITION OF CERTAIN OTHER SUBSTANCES
+
+### Article 8 — Substances prohibited, restricted or under Community scrutiny
+
+1\. The procedure provided for in this Article shall be followed where a substance other than vitamins or minerals, or an ingredient containing a substance other than vitamins or minerals, is added to foods or used in the manufacture of foods under conditions that would result in the ingestion of amounts of this substance greatly exceeding those reasonably expected to be ingested under normal conditions of consumption of a balanced and varied diet and/or would otherwise represent a potential risk to consumers.
+
+2\. On its own initiative or on the basis of information provided by Member States, the Commission may take a decision designed to amend non-essential elements of this Regulation, following in each case an assessment of available information by the Authority, in accordance with the regulatory procedure with scrutiny referred to in Article 14(3), to include, if necessary, the substance or ingredient in Annex III. In particular:
+
+(a) if a harmful effect on health has been identified, the substance and/or the ingredient containing the substance shall:
+
+(i) be placed in Annex III, Part A, and its addition to foods or its use in the manufacture of foods shall be prohibited; or
+
+(ii) be placed in Annex III, Part B, and its addition to foods or its use in the manufacture of foods shall only be allowed under the conditions specified therein;
+
+(b) if the possibility of harmful effects on health is identified but scientific uncertainty persists, the substance shall be placed in Annex III, Part C.
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 14(4) in order to include the substance or the ingredient in Annex III, Part A or B.
+
+3\. Community provisions applicable to specified foods may provide for restrictions or prohibitions on the use of certain substances in addition to those laid down in this Regulation.
+
+4\. Food business operators, or any other interested parties, may at any time submit for evaluation to the Authority a file containing the scientific data demonstrating the safety of a substance listed in Annex III, Part C, under the conditions of its use in a food or in a category of foods and explaining the purpose of that use. The Authority shall inform without delay the Member States and the Commission of the submission and shall make the file available to them.
+
+5\. Within four years from the date a substance has been listed in Annex III, Part C, a decision designed to amend non-essential elements of this Regulation shall be taken in accordance with the regulatory procedure with scrutiny referred to in Article 14(3) and taking into account the opinion of the Authority on any files submitted for evaluation as mentioned in paragraph 4 of this Article, to generally allow the use of a substance listed in Annex III, Part C, or to list it in Annex III, Part A or B, as appropriate.
+
+On imperative grounds of urgency, the Commission may use the urgency procedure referred to in Article 14(4) in order to include the substance or the ingredient in Annex III, Part A or B.
+
+6\. The Commission shall establish, in accordance with the procedure referred to in Article 14(2), implementing rules for the application of this Article, including rules concerning the submission referred to in paragraph 4 of this Article.
+
+## CHAPTER IV — GENERAL AND FINAL PROVISIONS
+
+### Article 9 — Community Register
+
+1\. The Commission shall establish and maintain a Community Register on the addition of vitamins and minerals and of certain other substances to foods, hereinafter referred to as ‘the Register’.
+
+2\. The Register shall include the following:
+
+(a) the vitamins and minerals which may be added to foods as listed in Annex I;
+
+(b) the vitamin formulations and mineral substances which may be added to foods as listed in Annex II;
+
+(c) the maximum and minimum amounts of vitamins and minerals which may be added to foods and any associated conditions set in accordance with Article 6;
+
+(d) the information regarding national provisions on the mandatory addition of vitamins and minerals referred to in Article 11;
+
+(e) any restrictions on the addition of vitamins and minerals as set out in Article 4;
+
+(f) the substances for which dossiers have been submitted as provided for in Article 17(1)(b);
+
+(g) information about the substances referred to in Annex III and the reasons for their inclusion therein;
+
+(h) information about the substances listed in Annex III, Part C, whose use is generally allowed as referred to in Article 8(5).
+
+3\. The Register shall be made available to the public.
+
+### Article 10 — Free movement of goods
+
+Without prejudice to the Treaty, in particular Articles 28 and 30 thereof, Member States may not restrict or forbid trade in foods which comply with this Regulation and Community acts adopted for its implementation by the application of non-harmonised national provisions governing the addition of vitamins and minerals to foods.
+
+### Article 11 — National provisions
+
+1\. By 19 July 2007, Member States shall inform the Commission of existing national provisions on the mandatory addition of vitamins and minerals and of products covered by the derogation provided for in Article 4(b).
+
+2\. If a Member State, in the absence of Community provisions, considers it necessary to adopt new legislation:
+
+(a) on the mandatory addition of vitamins and minerals to specified foods or categories of foods; or
+
+(b) on the prohibition or restriction on the use of certain other substances in the manufacture of specified foods,
+
+it shall notify the Commission in accordance with the procedure laid down in Article 12.
+
+### Article 12 — Notification procedure
+
+1\. If a Member State considers it necessary to adopt new legislation, it shall notify the Commission and the other Member States of the envisaged measures and give the reasons justifying them.
+
+2\. The Commission shall consult the Committee referred to in Article 14(1), if it considers such consultation to be useful or if a Member State so requests, and shall give an opinion on the envisaged measures.
+
+3\. The Member State concerned may take the envisaged measures only six months after the notification referred to in paragraph 1, and provided that the Commission's opinion is not negative.
+
+If the Commission's opinion is negative, it shall determine, in accordance with the procedure referred to in Article 14(2) and before the expiry of the period referred to in the first subparagraph of this paragraph, whether the envisaged measures may be implemented. The Commission may require certain amendments to be made to the envisaged measures.
+
+### Article 13 — Safeguard measures
+
+1\. Where a Member State has serious grounds for considering that a product endangers human health despite complying with this Regulation, that Member State may temporarily suspend or restrict application of the provisions in question within its territory.
+
+It shall immediately inform the other Member States and the Commission thereof and give reasons for its decision.
+
+2\. In accordance with the procedure referred to in Article 14(2), a decision shall be taken, where appropriate after obtaining an opinion from the Authority.
+
+The Commission may initiate this procedure on its own initiative.
+
+3\. The Member State referred to in paragraph 1 may maintain the suspension or restriction until the decision referred to in paragraph 2 has been notified to it.
+
+### Article 14
+
+Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health established by Article 58(1) of Regulation (EC) No 178/2002.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1), (2) and (6), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 15 — Monitoring
+
+To facilitate efficient monitoring of foods to which vitamins and minerals have been added, and of foods containing substances listed in Annex III, Parts B and C, Member States may require the manufacturer or the person placing such foods on the market in their territory to notify the competent authority of that placing on the market by providing a model of the label used for the product. In such cases, information on the withdrawal of the product from the market may also be required.
+
+### Article 16 — Evaluation
+
+By 1 July 2013, the Commission shall submit to the European Parliament and the Council a report on the effects of implementing this Regulation, in particular concerning the evolution of the market in foods to which vitamins and minerals have been added, their consumption, nutrient intakes for the population and changes in dietary habits, and the addition of certain other substances, accompanied by any proposals for amendment of this Regulation which the Commission deems necessary. In this context Member States shall provide the necessary relevant information to the Commission by 1 July 2012. Rules for implementing this Article shall be specified in accordance with the procedure referred to in Article 14(2).
+
+### Article 17 — Transitional measures
+
+1\. By way of derogation from Article 3(1) and until 19 January 2014, Member States may allow in their territory the use of vitamins and minerals not listed in Annex I, or in forms not listed in Annex II, provided that:
+
+(a) the substance in question is used for addition to foods marketed in the Community on 19 January 2007; and
+
+(b) the Authority has not given an unfavourable opinion in respect of the use of that substance, or its use in that form, in the manufacture of food, on the basis of a dossier supporting use of the substance in question to be submitted to the Commission by the Member State not later than 19 January 2010.
+
+2\. Until 19 January 2014, Member States may, in compliance with the rules of the Treaty, continue to apply existing national restrictions or bans on trade in foods to which vitamins and minerals not included in the list in Annex I or in the forms not listed in Annex II are added.
+
+3\. Member States may, in compliance with the rules of the Treaty, continue to apply existing national provisions on maximum and minimum amounts of vitamins and minerals listed in Annex I added to foods and on the conditions applicable to this addition until the adoption of corresponding Community measures in accordance with Article 6 or under other specific Community provisions.
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 July 2007.
+
+Foods placed on the market or labelled prior to 1 July 2007 which do not comply with this Regulation may be marketed until their expiry date, but not later than 31 December 2009.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — VITAMINS AND MINERALS WHICH MAY BE ADDED TO FOODS
+
+**1\. Vitamins**
+
+Vitamin A
+
+Vitamin D
+
+Vitamin E
+
+Vitamin K
+
+Vitamin B1
+
+Vitamin B2
+
+Niacin
+
+Pantothenic acid
+
+Vitamin B6
+
+Folic acid
+
+Vitamin B12
+
+Biotin
+
+Vitamin C
+
+**2\. Minerals**
+
+Calcium
+
+Magnesium
+
+Iron
+
+Copper
+
+Iodine
+
+Zinc
+
+Manganese
+
+Sodium
+
+Potassium
+
+Selenium
+
+Chromium
+
+Molybdenum
+
+Fluoride
+
+Chloride
+
+Phosphorus
+
+Boron
+
+## ANNEX II
+
+**Vitamin formulations and mineral substances which may be added to foods**
+
+**1\. Vitamin formulations**
+
+**VITAMIN A**
+
+retinol
+
+retinyl acetate
+
+retinyl palmitate
+
+beta-carotene
+
+**VITAMIN D**
+
+cholecalciferol
+
+ergocalciferol
+
+**VITAMIN E**
+
+D-alpha-tocopherol
+
+DL-alpha-tocopherol
+
+D-alpha-tocopheryl acetate
+
+DL-alpha-tocopheryl acetate
+
+D-alpha-tocopheryl acid succinate
+
+**VITAMIN K**
+
+phylloquinone (phytomenadione)
+
+menaquinone ( *1 )
+
+**VITAMIN B1**
+
+thiamin hydrochloride
+
+thiamin mononitrate
+
+**VITAMIN B2**
+
+riboflavin
+
+riboflavin 5′-phosphate, sodium
+
+**NIACIN**
+
+nicotinic acid
+
+nicotinamide
+
+nicotinamide riboside chloride
+
+**PANTOTHENIC ACID**
+
+D-pantothenate, calcium
+
+D-pantothenate, sodium
+
+dexpanthenol
+
+**VITAMIN B6**
+
+pyridoxine hydrochloride
+
+pyridoxine 5′-phosphate
+
+pyridoxine dipalmitate
+
+**FOLIC ACID**
+
+pteroylmonoglutamic acid
+
+calcium-L-methylfolate
+
+monosodium salt of L-5-methyltetrahydrofolic acid ( *2 )
+
+**VITAMIN B12**
+
+cyanocobalamin
+
+hydroxocobalamin
+
+**BIOTIN**
+
+D-biotin
+
+**VITAMIN C**
+
+L-ascorbic acid
+
+sodium-L-ascorbate
+
+calcium-L-ascorbate
+
+potassium-L-ascorbate
+
+L-ascorbyl 6-palmitate
+
+**2\. Mineral substances**
+
+calcium carbonate
+
+calcium chloride
+
+calcium citrate malate
+
+calcium salts of citric acid
+
+calcium gluconate
+
+calcium glycerophosphate
+
+calcium lactate
+
+calcium salts of orthophosphoric acid
+
+calcium hydroxide
+
+calcium malate
+
+calcium oxide
+
+calcium sulphate
+
+calcium phosphoryl oligosaccharides
+
+magnesium acetate
+
+magnesium carbonate
+
+magnesium chloride
+
+magnesium salts of citric acid
+
+magnesium gluconate
+
+magnesium glycerophosphate
+
+magnesium salts of orthophosphoric acid
+
+magnesium lactate
+
+magnesium hydroxide
+
+magnesium oxide
+
+magnesium potassium citrate
+
+magnesium sulphate
+
+ferrous bisglycinate
+
+ferrous carbonate
+
+ferrous citrate
+
+ferric ammonium citrate
+
+ferrous gluconate
+
+ferrous fumarate
+
+ferric sodium diphosphate
+
+ferrous lactate
+
+ferrous sulphate
+
+ferrous ammonium phosphate
+
+ferric sodium EDTA
+
+ferric diphosphate (ferric pyrophosphate)
+
+ferric saccharate
+
+elemental iron (carbonyl + electrolytic + hydrogen reduced)
+
+iron milk caseinate ( 4 )
+
+cupric carbonate
+
+cupric citrate
+
+cupric gluconate
+
+cupric sulphate
+
+copper lysine complex
+
+sodium iodide
+
+sodium iodate
+
+potassium iodide
+
+potassium iodate
+
+zinc acetate
+
+zinc bisglycinate
+
+zinc chloride
+
+zinc citrate
+
+zinc gluconate
+
+zinc lactate
+
+zinc oxide
+
+zinc carbonate
+
+zinc sulphate
+
+manganese carbonate
+
+manganese chloride
+
+manganese citrate
+
+manganese gluconate
+
+manganese glycerophosphate
+
+manganese sulphate
+
+sodium bicarbonate
+
+sodium carbonate
+
+sodium citrate
+
+sodium gluconate
+
+sodium lactate
+
+sodium hydroxide
+
+sodium salts of orthophosphoric acid
+
+selenium enriched yeast ( *3 )
+
+sodium selenate
+
+sodium hydrogen selenite
+
+sodium selenite
+
+sodium fluoride
+
+potassium fluoride
+
+potassium bicarbonate
+
+potassium carbonate
+
+potassium chloride
+
+potassium citrate
+
+potassium gluconate
+
+potassium glycerophosphate
+
+potassium lactate
+
+potassium hydroxide
+
+potassium salts of orthophosphoric acid
+
+chromium (III) chloride and its hexahydrate
+
+chromium (III) sulphate and its hexahydrate
+
+chromium picolinate
+
+chromium(III) lactate tri-hydrate
+
+ammonium molybdate (molybdenum (VI))
+
+sodium molybdate (molybdenum (VI))
+
+boric acid
+
+sodium borate
+
+## ANNEX III — SUBSTANCES WHOSE USE IN FOODS IS PROHIBITED, RESTRICTED OR UNDER COMMUNITY SCRUTINY
+
+Part A — Prohibited substances
+
+Aloe-emodin and all preparations in which this substance is present
+
+Danthron and all preparations in which this substance is present
+
+Emodin and all preparations in which this substance is present
+
+Ephedra herb and its preparations originating from Ephedra species
+
+Preparations from the leaf of Aloe species containing hydroxyanthracene derivatives
+
+Yohimbe bark and its preparations originating from Yohimbe (Pausinystalia yohimbe (K. Schum) Pierre ex Beille)
+
+**PART B**
+
+**Restricted substances**
+
+<table>
+<tbody><tr><td>Restricted substance</td><td>Conditions of use</td><td>Additional requirements</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Green tea extracts containing (-)- epigallocatechin-3-gallate (1)</td><td>Daily portion of food shall contain less than 800 mg of (-)-epigallocatechin-3-gallate</td><td>The label shall provide the maximum number of portions of the food for daily consumption and a warning not to consume a daily amount of 800 mg of (-)-epigallocatechin-3-gallate or more. The label shall indicate the content of (-)- epigallocatechin-3-gallate per portion of the food.  The label shall include the following warnings:  ‘Should not be consumed if you are consuming other products containing green tea on the same day’.  ‘Should not be consumed by pregnant or lactating women and children below 18 years old’.  ‘Should not be consumed on an empty stomach’ </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Monacolins from red yeast rice</td><td>Individual portion of the product for daily consumption shall provide less than 3 mg of monacolins from red yeast rice.</td><td>The label shall provide the number of individual portions of the product for maximum daily consumption and a warning not to consume a daily amount of 3 mg of monacolins from red yeast rice or more. The label shall indicate the content of monacolins per portion of the product.  The label shall include the following warnings:  ‘Should not be consumed by pregnant or lactating women, children below 18 years old and adults above 70 years old’.  ‘Seek advice from a doctor on consumption of this product if you experience any health problems’;  ‘Should not be consumed if you are taking cholesterol-lowering medication’;  ‘Should not be consumed if you are already consuming other products containing red yeast rice’. </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Trans fat other than trans fat naturally occurring in fat of animal origin</td><td>Maximum 2 grams per 100 grams of fat in food intended for the final consumer and food intended for supply to retail</td><td>Food business operators supplying other food business operators with food not intended for the final consumer or not intended for supply to retail, shall ensure that supplied food business operators are provided with information on the amount of trans fat, other than trans fat naturally occurring in fat of animal origin, where that amount exceeds 2 grams per 100 grams of fat.</td></tr>
+<tr><td colspan="3">(1)  excluding aqueous green tea extracts containing (-)- epigallocatechin-3-gallate which after reconstitution in beverages have a composition comparable to traditional green tea infusions. </td></tr>
+</tbody>
+</table>
+
+Part C — Substances under Community scrutiny
+
+Green tea extracts containing (-)- epigallocatechin-3-gallate ( 5 )
+
+Monacolins from red yeast rice
+
+Preparations from the bark of Rhamnus frangula L., Rhamnus purshiana DC. containing hydroxyanthracene derivatives
+
+Preparations from the leaf or fruit of Cassia senna L. containing hydroxyanthracene derivatives
+
+Preparations from the root or rhizome of Rheum palmatum L., Rheum officinale Baillon and their hybrids containing hydroxyanthracene derivatives
+
+( 1 ) OJ L 31, 1.2.2002, p. 1. Regulation as last amended by Commission Regulation (EC) No 575/2006 (OJ L 100, 8.4.2006, p. 3).
+
+( 2 ) OJ L 179, 14.7.1999, p. 1. Regulation as last amended by Regulation (EC) No 2165/2005 (OJ L 345, 28.12.2005, p. 1).
+
+( 3 ) OJ L 304, 22.11.2011, p. 18
+
+( *1 ) Menaquinone occurring principally as menaquinone-7 and, to a minor extent, menaquinone-6.
+
+( *2 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).
+
+( 4 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72).
+
+( *3 ) Selenium-enriched yeasts produced by culture in the presence of sodium selenite as selenium source and containing, in the dried form as marketed, not more than 2,5 mg Se/g. The predominant organic selenium species present in the yeast is selenomethionine (between 60 and 85 % of the total extracted selenium in the product). The content of other organic selenium compounds including selenocysteine shall not exceed 10 % of total extracted selenium. Levels of inorganic selenium normally shall not exceed 1 % of total extracted selenium.
+
+( 5 ) excluding aqueous green tea extracts containing (-)- epigallocatechin-3-gallate which after reconstitution in beverages have a composition comparable to traditional green tea infusions.

@@ -132,6 +132,7 @@ Prepare stock solutions containing 1 000 mg/litre of lead and at least 500 mg/li
 
 **4\. Performance criteria of the instrumental method of analysis**
 
+<table>
 <tbody><tr><td></td><td>4.1.</td><td>The detection limit for lead and cadmium must be equal to or lower than:<table><tbody><tr><td>—</td><td>0,1 mg/litre for lead,</td></tr>
 </tbody>
 </table>
@@ -140,7 +141,9 @@ Prepare stock solutions containing 1 000 mg/litre of lead and at least 500 mg/li
 </table>
  The detection limit is defined as the concentration of the element in the 4 % acetic acid solution, as referred to in point 3.1, which gives a signal equal to twice the background noise of the instrument. </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>4.2.</td><td>The limit of quantification for lead and cadmium must be equal to or lower than:<table><tbody><tr><td>—</td><td>0,2 mg/litre for lead,</td></tr>
 </tbody>
 </table>
@@ -149,6 +152,7 @@ Prepare stock solutions containing 1 000 mg/litre of lead and at least 500 mg/li
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4.3. | Recovery. The recovery of lead and cadmium added to the 4 % acetic acid solution, as referred to in point 3.1, must lie within 80-120 % of the added amount. |
 | --- | --- | --- |

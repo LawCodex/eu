@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE (EU) 2025/794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 April 2025 </td><td> L 794</td><td>1</td><td>16.4.2025</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2026/470 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 470</td><td>1</td><td>26.2.2026</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2024/1760 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

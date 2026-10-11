@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2015/2171 of 24 November 2015 </td><td> L 307</td><td>7</td><td>25.11.2015</td></tr>
@@ -32,6 +33,7 @@ retrieved: 2026-10-11
 <tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1953 of 10 November 2021 </td><td> L 398</td><td>25</td><td>11.11.2021</td></tr>
 <tr><td> M5</td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2496 of 15 November 2023 </td><td> L 2496</td><td>1</td><td>16.11.2023</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2150 of 22 October 2025 </td><td> L 2150</td><td>1</td><td>23.10.2025</td></tr>
+</table>
 
 **DIRECTIVE 2014/25/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -41,6 +43,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td>TITLE I:</td><td>SCOPE, DEFINITIONS AND GENERAL PRINCIPLES</td></tr>
 <tr><td>CHAPTER I:</td><td>Subject-matter and definitions</td></tr>
 <tr><td>Article 1:</td><td>Subject-matter and scope</td></tr>
@@ -202,6 +205,7 @@ retrieved: 2026-10-11
 <tr><td>ANNEX XIX:</td><td>Information to be included in the design contest notice (as referred to in Article 96(1))</td></tr>
 <tr><td>ANNEX XX:</td><td>Information to be included in the results of design contest notices (as referred to in Article 96(1))</td></tr>
 <tr><td>ANNEX XXI:</td><td>Correlation table</td></tr>
+</table>
 
 ## TITLE I — SCOPE, DEFINITIONS AND GENERAL PRINCIPLES
 
@@ -2211,6 +2215,7 @@ This Directive is addressed to the Member States.
 
 In the event of any difference of interpretation between the CPV and the NACE, the CPV nomenclature will apply.
 
+<table>
 <tbody><tr><td colspan="5">NACE (1)</td><td rowspan="3">CPV code</td></tr>
 <tr><td colspan="3">SECTION F</td><td colspan="2">CONSTRUCTION</td></tr>
 <tr><td>Division</td><td>Group</td><td>Class</td><td>Subject</td><td>Notes</td></tr>
@@ -2239,6 +2244,7 @@ In the event of any difference of interpretation between the CPV and the NACE, t
 <tr><td>  </td><td>  </td><td>45.50</td><td>Renting of construction or demolition equipment with operator</td><td>This class excludes: — renting of construction or demolition machinery and equipment without operators, see 71.32. </td><td>45500000</td></tr>
 <tr><td colspan="6">(1)  Council Regulation (EEC) No 3037/90 of 9 October 1990 (OJ L 293, 24.10.1990, p. 1). </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -2944,6 +2950,7 @@ Directive 2009/33/EC of the European Parliament and of the Council.
 
 **SERVICES REFERRED TO IN ARTICLE 91**
 
+<table>
 <tbody><tr><td>CPV Code</td><td>Description</td></tr>
 <tr><td>75200000-8; 75231200-6; 75231240-8; 79611000-0; 79622000-0 [Supply services of domestic help personnel]; 79624000-4 [Supply services of nursing personnel] and 79625000-1 [Supply services of medical personnel] from 85000000-9 to 85323000-9; 98133100-5, 98133000-4; 98200000-5 and; 98500000-8 [Private households with employed persons] and 98513000-2 to 98514000-9 [Manpower services for households, Agency staff services for households, Clerical staff services for households, Temporary staff for households, Home-help services and Domestic services]</td><td>Health and social and related services</td></tr>
 <tr><td>85321000-5 and 85322000-2, 75000000-6 [Administration, defence and social security services], 75121000-0, 75122000-7, 75124000-1; from 79995000-5 to 79995200-7; from 80000000-4 Education and training services to 80660000-8; from 92000000-1 to 92700000-8 79950000-8 [Exhibition, fair and congress organisation services], 79951000-5 [Seminar organisation services], 79952000-2 [Event services], 79952100-3 [Cultural event organisation services], 79953000-9 [Festival organisation services], 79954000-6 [Party organisation services], 79955000-3 [Fashion shows organisation services], 79956000-0 [Fair and exhibition organisation services]</td><td>Administrative social, educational, healthcare and cultural services</td></tr>
@@ -2962,6 +2969,7 @@ Directive 2009/33/EC of the European Parliament and of the Council.
 <tr><td>50116510-9 [Tyre-remoulding services], 71550000-8 [Blacksmith services]</td><td>Miscellaneous services</td></tr>
 <tr><td colspan="2">(1)  These services are not covered by the present Directive where they are organised as non-economic services of general interest. Member States are free to organise the provision of compulsory social services or of other services as services of general interest or as non-economic services of general interest. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX XVIII
 

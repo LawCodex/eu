@@ -1,0 +1,277 @@
+---
+title: "Regulation (EU) No 1163/2014 of the European Central Bank of 22 October 2014 on supervisory fees (ECB/2014/41)"
+identifier: "32014R1163"
+eli: "http://data.europa.eu/eli/reg/2014/1163/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-10-22
+entry_into_force: 2014-01-29
+last_amended: 2020-01-01
+consolidated_version: "02014R1163-20200101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R1163-20200101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 1163/2014 of the European Central Bank of 22 October 2014 on supervisory fees (ECB/2014/41)
+
+**REGULATION (EU) No 1163/2014 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 October 2014**
+
+**on supervisory fees**
+
+**(ECB/2014/41)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/2155 OF THE EUROPEAN CENTRAL BANK of 5 December 2019 </td><td> L 327</td><td>70</td><td>17.12.2019</td></tr>
+</table>
+
+C1
+
+**REGULATION (EU) No 1163/2014 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 October 2014**
+
+**on supervisory fees**
+
+**(ECB/2014/41)**
+
+## PART I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down:
+
+(a) the arrangements for calculating the total amount of the annual supervisory fees to be levied in respect of supervised entities and supervised groups;
+
+(b) the methodology and criteria for calculating the annual supervisory fee to be borne by each supervised entity and each supervised group;
+
+(c) the procedure for the collection by the ECB of the annual supervisory fees.
+
+2\. The total amount of the annual supervisory fees shall encompass the annual supervisory fee in respect of each significant supervised entity or group and each less significant supervised entity or group and shall be calculated by the ECB at the highest level of consolidation within the participating Member States.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions contained in Regulation (EU) No 1024/2013 and Regulation (EU) No 468/2014 (ECB/2014/17) shall apply, unless otherwise provided for, together with the following definitions:
+
+1\. ‘annual supervisory fee’ means the fee payable in respect of each supervised entity and each supervised group as calculated in accordance with the arrangements set out in Article 10(6);
+
+2\. ‘annual costs’ means the amount, as determined in accordance with the provisions of Article 5, to be recovered by the ECB via the annual supervisory fees for a specific fee period;
+
+3\. ‘fee debtor’ means the fee-paying credit institution or fee-paying branch determined in accordance with Article 4 and to which the fee notice is addressed;
+
+4\. ‘fee factors’ means the data related to a supervised entity or a supervised group defined in Article 10(3)(a) which are used to calculate the annual supervisory fee;
+
+5\. ‘fee notice’ means a notice specifying the annual supervisory fee payable by and issued to the relevant fee debtor in accordance with this Regulation;
+
+6\. ‘fee-paying credit institution’ means a credit institution established in a participating Member State;
+
+7\. ‘fee-paying branch’ means a branch established in a participating Member State by a credit institution established in a non-participating Member State;
+
+8\. ‘fee period’ means a calendar year;
+
+10\. ‘group of fee-paying entities’ means (i) a supervised group and (ii) a number of fee-paying branches that are deemed to be one branch in accordance with Article 3(3);
+
+11\. ‘Member State’ means a Member State of the Union;
+
+12\. ‘total assets’ means:
+
+(a) for a supervised group, the total value of assets as determined in accordance with Article 51 of Regulation (EU) No 468/2014 (ECB/2014/17), excluding assets of subsidiaries established in non-participating Member States and third countries unless otherwise decided by a supervised group pursuant to Article 10(3)(c);
+
+(b) for a fee-paying branch, the total value of assets as reported for prudential purposes. Where the total value of assets is not required to be reported for prudential purposes, total assets means the total value of assets as determined on the basis of the most recent audited annual accounts prepared in accordance with International Financial Reporting Standards (IFRS) as applicable within the Union in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council ( 1 ) and, if those annual accounts are not available, the annual accounts prepared in accordance with applicable national accounting laws. For fee-paying branches that do not prepare annual accounts, total assets means the total value of assets as determined in accordance with Article 51(5) of Regulation (EU) No 468/2014 (ECB/2014/17);
+
+(c) for two or more fee-paying branches that are deemed to be one branch in accordance with Article 3(3), the sum of the total value of assets as determined for each fee-paying branch respectively;
+
+(d) in all other cases, the total value of assets as determined in accordance with Article 51 of Regulation (EU) No 468/2014 (ECB/2014/17);
+
+13\. ‘total risk exposure’ means:
+
+(a) for a supervised group, the amount as determined at the highest level of consolidation within the participating Member States and calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 2 ), excluding the risk exposure amount of subsidiaries established in non-participating Member States and third countries unless otherwise decided by a supervised group pursuant to Article 10(3)(c);
+
+(b) for a fee-paying branch and two or more fee-paying branches that are deemed to be one branch in accordance with Article 3(3), zero;
+
+(c) in all other cases, the amount as calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013.
+
+### Article 3 — General obligation to pay the annual supervisory fee
+
+1\. The ECB shall levy an annual supervisory fee in respect of each supervised entity and each supervised group for each fee period.
+
+2\. The annual supervisory fee for each supervised entity and supervised group will be specified in a fee notice issued to and payable by the fee debtor. The fee debtor will be the addressee of the fee notice and of any notice or communication from the ECB with regard to supervisory fees. The fee debtor will be responsible for paying the annual supervisory fee.
+
+3\. Two or more fee-paying branches established by the same credit institution in the same participating Member State are deemed to be one branch. Fee-paying branches of the same credit institution established in different participating Member States are not deemed to be one branch.
+
+4\. Fee-paying branches shall be deemed to be separate from subsidiaries of the same credit institution established in the same participating Member State for the purposes of this Regulation.
+
+### Article 4 — Fee debtor
+
+1\. The fee debtor in respect of the annual supervisory fee is:
+
+(a) the fee-paying credit institution, in the case of a fee-paying credit institution that is not part of a supervised group;
+
+(b) the fee-paying branch, in the case of a fee-paying branch that is not combined with another fee-paying branch;
+
+(c) determined in accordance with the provisions of paragraph 2, in the case of a group of fee-paying entities.
+
+2\. Without prejudice to the arrangements within a group of fee-paying entities with respect to the allocation of costs, a group of fee-paying entities shall be treated as one unit. Each group of fee-paying entities shall nominate the fee debtor for the whole group and shall notify the identity of the fee debtor to the ECB. The fee debtor shall be established in a participating Member State. Such notification shall be considered valid only if:
+
+(a) it states the name of the group covered by the notification;
+
+(b) it is signed by the fee debtor on behalf of all supervised entities of the group;
+
+(c) it reaches the ECB by 30 September of each year at the latest, in order to be taken into account for the issuance of the fee notice in respect of that fee period.
+
+If more than one notification per group of fee-paying entities reaches the ECB in time, the latest notification received by the ECB by 30 September shall prevail. If a supervised entity becomes part of the supervised group after the ECB has received a valid fee debtor notification, unless the ECB is otherwise informed in writing, that notification shall be deemed to be signed also on its behalf.
+
+3\. Without prejudice to paragraph 2, the ECB reserves the right to determine the fee debtor.
+
+## PART II — EXPENDITURE AND COSTS
+
+### Article 5 — Annual costs
+
+1\. The annual costs shall be the basis for determining the annual supervisory fees and they shall be recovered via the payment of such annual supervisory fees.
+
+2\. The amount of the annual costs shall be determined on the basis of the amount of the annual expenditure consisting of any expenses incurred by the ECB in the relevant fee period that are directly or indirectly related to its supervisory tasks.
+
+3\. When determining the annual costs, the ECB shall take into account:
+
+(a) any fee amounts related to previous fee periods that were not collectible;
+
+(b) any interest payments received in accordance with Article 14;
+
+(c) any amounts received or refunded in accordance with Article 7(3).
+
+4\. Within four months after the end of each fee period, the total amount of the annual supervisory fees for each category of supervised entities and supervised groups for that fee period shall be published on the ECB’s website.
+
+## PART III — DETERMINING THE ANNUAL SUPERVISORY FEE
+
+### Article 7 — New supervised entities, entities that are no longer supervised or change of status
+
+1\. Where a supervised entity or a supervised group is supervised for only part of the fee period, the annual supervisory fee shall be calculated by reference to the number of full months of the fee period for which the supervised entity or the supervised group is supervised.
+
+2\. Where, following an ECB decision to such effect, the ECB assumes direct supervision of a supervised entity or a supervised group pursuant to Article 45 of Regulation (EU) No 468/2014 (ECB/2014/17), or direct supervision of a supervised entity or a supervised group by the ECB ends pursuant to Article 46 of Regulation (EU) No 468/2014 (ECB/2014/17), the annual supervisory fee shall be calculated on the basis of the number of months for which the supervised entity or the supervised group was directly or indirectly supervised by the ECB at the last day of the month.
+
+3\. Where the amount of the annual supervisory fee levied deviates from the amount of the fee calculated in accordance with paragraphs 1 or 2, a refund to the fee debtor shall be paid, or an additional invoice shall be issued by the ECB to be paid by the fee debtor.
+
+### Article 8 — Split of annual costs between significant and less significant supervised entities
+
+1\. In order to calculate the annual supervisory fee payable in respect of each supervised entity and supervised group the annual costs shall be split into two parts, one for each category of supervised entities and supervised groups, as follows:
+
+(a) the annual costs to be recovered from significant supervised entities;
+
+(b) the annual costs to be recovered from less significant supervised entities.
+
+2\. The split of the annual costs in accordance with paragraph 1 shall be made on the basis of the costs allocated to the relevant functions which perform the direct supervision of significant supervised entities and the indirect supervision of less significant supervised entities.
+
+### Article 10 — Annual supervisory fee payable in respect of supervised entities or supervised groups
+
+1\. The annual supervisory fee payable in respect of each significant supervised entity or significant supervised group shall be determined by allocating the amount to be levied on the category of significant supervised entities and significant supervised groups to the individual significant supervised entities and significant supervised groups on the basis of their fee factors.
+
+2\. The annual supervisory fee payable in respect of each less significant supervised entity or less significant supervised group shall be determined by allocating the amount to be levied on the category of less significant supervised entities and less significant supervised groups to the individual less significant supervised entities and less significant supervised groups on the basis of their fee factors.
+
+3\. The fee factors at the highest level of consolidation within the participating Member States shall be calculated on the following basis.
+
+(a) The fee factors used to determine the annual supervisory fee payable in respect of each supervised entity or supervised group shall be the amount at the reference date of:
+
+(i) total assets; and
+
+(ii) total risk exposure.
+
+(ba) The fee factors shall be determined for each fee period on the basis of data reported by supervised entities for prudential purposes with a reference date of 31 December of the preceding fee period.
+
+(bb) Where a supervised entity prepares annual accounts, including consolidated annual accounts, based on an accounting year which deviates from the calendar year, the reference date for the total assets shall be the accounting year-end corresponding to the preceding fee period.
+
+(bc) Where a supervised entity or a supervised group is established after the relevant reference date specified in point (ba) or (bb) but before 1 October of the fee period for which the fee is determined and consequently no fee factors with that reference date exist, the reference date for the fee factors shall be the end of the quarter closest to the relevant reference date specified in point (ba) or (bb).
+
+(bd) For supervised entities and supervised groups which are not subject to mandatory reporting for prudential purposes or supervised groups which exclude assets and/or the risk exposure amount of subsidiaries established in non-participating Member States and third countries in accordance with point (c), the fee factors shall be determined on the basis of information reported by them separately for the purpose of calculating the supervisory fee. The fee factors shall be submitted to the NCA concerned, with the relevant reference date as determined under point (ba), (bb) or (bc), in accordance with an ECB decision.
+
+(c) For the purpose of the calculation of fee factors, supervised groups should — as a rule — exclude assets and the risk exposure amount of subsidiaries established in non-participating Member States and third countries. Supervised groups may decide not to exclude such assets and/or the risk exposure amount for the determination of fee factors.
+
+(d) For supervised entities or supervised groups classified as less significant on the basis of Article 6(4) of Regulation (EU) No 1024/2013, the fee factor of total assets shall not exceed EUR 30 billion.
+
+(e) The relative weighting used in respect of the fee factors shall be:
+
+(i) total assets: 50 %;
+
+(ii) total risk exposure: 50 %.
+
+4\. The sum of all fee debtors’ total assets and the sum of all fee debtors’ total risk exposure shall be published on the ECB’s website.
+
+5\. In the event that a fee debtor fails to provide the fee factors, the ECB shall determine the fee factors in accordance with an ECB decision.
+
+6\. The calculation of the annual supervisory fee payable by each fee debtor shall be performed as outlined below.
+
+(a) The annual supervisory fee is the sum of the minimum fee component and the variable fee component.
+
+(b) The minimum fee component is calculated as a fixed percentage of the total amount of the annual supervisory fees for each category of supervised entities and supervised groups, as determined in accordance with Article 8.
+
+(i) For the category of significant supervised entities and significant supervised groups, the fixed percentage is 10 %. This amount is split equally among all fee debtors. For significant supervised entities and significant supervised groups with total assets of EUR 10 billion or less, the minimum fee component is halved.
+
+(ii) For the category of less significant supervised entities and less significant supervised groups, the fixed percentage is 10 %. This amount is split equally among all fee debtors. For less significant supervised entities and less significant supervised groups with total assets of EUR 1 billion or less, the minimum fee component is halved.
+
+(c) The variable fee component is the difference between the total amount of the annual supervisory fees for each category of supervised entities, as determined in accordance with Article 8  , and the minimum fee component for the same category. The variable fee component is allocated to individual fee debtors in each category according to each fee debtor's share in the sum of all fee debtors' weighted fee factors as determined pursuant to paragraph 3.
+
+On the basis of the calculation performed in accordance with this paragraph and of the fee factors determined in accordance with this Article, the ECB shall decide on the annual supervisory fee to be paid by each fee debtor. The annual supervisory fee to be paid will be communicated to the fee debtor via the fee notice.
+
+## PART IV — COOPERATION WITH NCAS
+
+### Article 11 — Cooperation with NCAs
+
+1\. The ECB shall communicate with the NCAs before deciding on the final fee level to ensure that supervision remains cost-effective and reasonable for all credit institutions and branches concerned. For this purpose, the ECB shall develop and implement an appropriate channel of communication in cooperation with the NCAs.
+
+2\. NCAs shall assist the ECB in levying fees if the ECB so requests.
+
+3\. In the case of credit institutions in a participating non-euro area Member State whose close cooperation with the ECB is neither suspended nor terminated, the ECB shall issue instructions to the NCA of that Member State regarding the collection of fee factors and invoicing of the annual supervisory fee.
+
+## PART V — INVOICING
+
+### Article 12 — Fee notice
+
+1\. A fee notice shall be issued annually by the ECB to each fee debtor within six months after the start of the following fee period.
+
+2\. The fee notice shall specify the means by which the annual supervisory fee shall be paid. The fee debtor shall comply with the requirements set out in the fee notice with respect to the payment of the annual supervisory fee.
+
+3\. The amount due under the fee notice shall be paid by the fee debtor within 35 days of the date of issuance of the fee notice.
+
+### Article 13 — Notification of the fee notice
+
+1\. The fee debtor is responsible for keeping the contact details for the submission of the fee notice up to date and shall communicate to the ECB any changes in the contact details (i.e. name, function, organisational unit, address, e-mail address, telephone number, fax number). The fee debtor shall communicate any changes to the contact details to the ECB by 1 July of each fee period at the latest. These contact details shall refer to a natural person or preferably to a function within the fee debtor organisation.
+
+2\. The ECB shall notify the fee notice through any of the following means: (a) electronically or by other comparable means of communication, (b) by fax, (c) by express courier service, (d) by registered mail with a form for acknowledgement, (e) by service or delivery by hand. The fee notice is valid without signature.
+
+### Article 14 — Interest in case of non-payment
+
+Without prejudice to any other remedy available to the ECB, in the event of partial payment, non-payment or non-compliance with the conditions for payment specified in the fee notice, interest shall accrue on a daily basis on the outstanding amount of the annual supervisory fee at an interest rate of the ECB's main refinancing rate plus 8 percentage points from the date on which the payment was due.
+
+## PART VI — FINAL PROVISIONS
+
+### Article 15 — Sanctions
+
+In the event of a breach of this Regulation, the ECB may impose sanctions on supervised entities in accordance with Council Regulation (EC) No 2532/98 ( 3 ) complemented by Regulation (EU) No 468/2014 (ECB/2014/17).
+
+### Article 17 — Reporting
+
+1\. In accordance with Article 20(2) of Regulation (EU) No 1024/2013, the ECB shall submit a report on the envisaged evolution of the structure and amount of the annual supervisory fees each year to the European Parliament, the Council of the European Union, the European Commission and the Euro Group.
+
+2\. Within four months of the beginning of each fee period, the estimated amount of the annual costs for that fee period shall be published on the ECB’s website.
+
+### Article 17a — Transitional arrangements for the 2020 fee period
+
+1\. The annual supervisory fee payable in respect of each supervised entity and each supervised group for the fee period of 2020 shall be specified in the fee notice issued to the relevant fee debtor in 2021.
+
+2\. Any surplus or deficit from the fee period of 2019, determined by deducting the actual annual costs incurred in respect of that fee period from estimated annual costs levied for that fee period, shall be taken into account in determining the annual costs for the fee period of 2020.
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( 1 ) Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).
+
+( 2 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 3 ) Council Regulation (EC) No 2532/98 of 23 November 1998 concerning the powers of the European Central Bank to impose sanctions (OJ L 318, 27.11.1998, p. 4).

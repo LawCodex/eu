@@ -135,6 +135,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common name, identification numbers</td><td>IUPAC name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘357</td><td>Carboxin CAS No: 5234-68-4  CIPAC No: 273 </td><td>5,6-dihydro-2-methyl-1,4-oxathiine-3-carboxanilide</td><td>≥ 970 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide for seed treatment may be authorised.  Member States shall ensure that authorisations provide that seed coating be performed exclusively in professional seed treatment facilities and that these facilities apply the best available techniques to exclude the release of dust clouds during storage, transport and application.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on carboxin, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>(a)</td><td>the risk to operators;</td></tr>
 </tbody>
@@ -171,6 +172,7 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points (a), (b) and (c) by 1 December 2011, the information set out in points (d), (e), (f) and (g) by 31 May 2013 and the information set out in point (h) within six months after the notification of the Decision classifying carboxin.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.
 

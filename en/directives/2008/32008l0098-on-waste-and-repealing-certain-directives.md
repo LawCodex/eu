@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) No 1357/2014 of 18 December 2014 </td><td> L 365</td><td>89</td><td>19.12.2014</td></tr>
@@ -32,6 +33,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2018/851 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 </td><td> L 150</td><td>109</td><td>14.6.2018</td></tr>
 <tr><td></td><td> REGULATION (EU) 2023/1542 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 July 2023 </td><td> L 191</td><td>1</td><td>28.7.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2025/1892 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 September 2025 </td><td> L 1892</td><td>1</td><td>26.9.2025</td></tr>
+</table>
 
 **DIRECTIVE 2008/98/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -1437,6 +1439,7 @@ When a waste contains one or more substances classified by one of the hazard cla
 
 Table 1: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents for the classification of wastes as hazardous by HP 1:
 
+<table>
 <tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td></tr>
 <tr><td>Unst. Expl.</td><td>H 200</td></tr>
 <tr><td>Expl. 1.1</td><td>H 201</td></tr>
@@ -1448,6 +1451,7 @@ Table 1: Hazard Class and Category Code(s) and Hazard statement Code(s) for wast
 <tr><td>Self-react. B</td><td rowspan="2">H 241</td></tr>
 <tr><td>Org. Perox. B</td></tr>
 </tbody>
+</table>
 
 ‘Oxidising:’ waste which may, generally by providing oxygen, cause or contribute to the combustion of other materials.
 
@@ -1455,6 +1459,7 @@ When a waste contains one or more substances classified by one of the hazard cla
 
 Table 2: Hazard Class and Category Code(s) and Hazard statement Code(s) for the classification of wastes as hazardous by HP 2:
 
+<table>
 <tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td></tr>
 <tr><td>Ox. Gas 1</td><td>H 270</td></tr>
 <tr><td>Ox. Liq. 1</td><td rowspan="2">H 271</td></tr>
@@ -1462,6 +1467,7 @@ Table 2: Hazard Class and Category Code(s) and Hazard statement Code(s) for the 
 <tr><td>Ox. Liq. 2, Ox. Liq. 3</td><td rowspan="2">H 272</td></tr>
 <tr><td>Ox. Sol. 2, Ox. Sol. 3</td></tr>
 </tbody>
+</table>
 
 ‘Flammable:’
 
@@ -1481,6 +1487,7 @@ When a waste contains one or more substances classified by one of the following 
 
 Table 3: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents for the classification of wastes as hazardous by HP 3:
 
+<table>
 <tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td></tr>
 <tr><td>Flam. Gas 1</td><td>H220</td></tr>
 <tr><td>Flam. Gas 2</td><td>H221</td></tr>
@@ -1502,10 +1509,12 @@ Table 3: Hazard Class and Category Code(s) and Hazard statement Code(s) for wast
 <tr><td>Water-react. 1</td><td>H260</td></tr>
 <tr><td>Water-react. 2 Water-react. 3 </td><td>H261</td></tr>
 </tbody>
+</table>
 
 | ‘Irritant — skin irritation and eye damage:’ | waste which on application can cause skin irritation or damage to the eye. When a waste contains one or more substances in concentrations above the cut-off value, that are classified by one of the following hazard class and category codes and hazard statement codes and one or more of the following concentration limits is exceeded or equalled, the waste shall be classified as hazardous by HP 4. The cut-off value for consideration in an assessment for Skin corr. 1A (H314), Skin irrit. 2 (H315), Eye dam. 1 (H318) and Eye irrit. 2 (H319) is 1 %. If the sum of the concentrations of all substances classified as Skin corr. 1A (H314) exceeds or equals 1 %, the waste shall be classified as hazardous according to HP 4. If the sum of the concentrations of all substances classified as H318 exceeds or equals 10 %, the waste shall be classified as hazardous according to HP 4. If the sum of the concentrations of all substances classified H315 and H319 exceeds or equals 20 %, the waste shall be classified as hazardous according to HP 4. Note that wastes containing substances classified as H314 (Skin corr.1A, 1B or 1C) in amounts greater than or equal to 5 % will be classified as hazardous by HP 8. HP 4 will not apply if the waste is classified as HP 8. |
 | --- | --- |
 
+<table>
 <tr><td> ‘Specific Target Organ Toxicity (STOT)/Aspiration Toxicity:’ </td><td>waste which can cause specific target organ toxicity either from a single or repeated exposure, or which cause acute toxic effects following aspiration. When a waste contains one or more substances classified by one or more of the following hazard class and category codes and hazard statement codes shown in Table 4, and one or more of the concentration limits in Table 4 is exceeded or equalled, the waste shall be classified as hazardous according to HP 5. When substances classified as STOT are present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 5.  When a waste contains one or more substances classified as Asp. Tox. 1 and the sum of those substances exceeds or equals the concentration limit, the waste shall be classified as hazardous by HP 5 only where the overall kinematic viscosity (at 40 °C) does not exceed 20.5 mm2/s. (27)  Table 4: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 5  <br>  <br><table><tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td><td>Concentration limit</td></tr>
 <tr><td>STOT SE 1</td><td>H370</td><td>1 %</td></tr>
 <tr><td>STOT SE 2</td><td>H371</td><td>10 %</td></tr>
@@ -1515,18 +1524,23 @@ Table 3: Hazard Class and Category Code(s) and Hazard statement Code(s) for wast
 <tr><td>Asp. Tox. 1</td><td>H304</td><td>10 %</td></tr>
 </tbody>
 </table> </td></tr>
+</table>
 
+<table>
 <tr><td> ‘Acute Toxicity:’ </td><td>waste which can cause acute toxic effects following oral or dermal administration, or inhalation exposure. If the sum of the concentrations of all substances contained in a waste, classified with an acute toxic hazard class and category code and hazard statement code given in Table 5, exceeds or equals the threshold given in that table, the waste shall be classified as hazardous by HP 6. When more than one substance classified as acute toxic is present in a waste, the sum of the concentrations is required only for substances within the same hazard category.  The following cut-off values shall apply for consideration in an assessment:  —  For Acute Tox. 1, 2 or 3 (H300, H310, H330, H301, H311, H331): 0.1 %;  —  For Acute Tox. 4 (H302, H312, H332): 1 %.  Table 5: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 6  <br>  <br><table><tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td><td>Concentration limit</td></tr>
 <tr><td>Acute Tox.1 (Oral) Acute Tox. 2 (Oral)  Acute Tox. 3 (Oral)  Acute Tox 4 (Oral)  Acute Tox.1 (Dermal)  Acute Tox.2 (Dermal)  Acute Tox. 3 (Dermal)  Acute Tox 4 (Dermal)  Acute Tox 1 (Inhal.)  Acute Tox.2 (Inhal.)  Acute Tox. 3 (Inhal.)  Acute Tox. 4 (Inhal.) </td><td>H300 H300  H301  H302  H310  H310  H311  H312  H330  H330  H331  H332 </td><td>0,1 % 0,25 %  5 %  25 %  0,25 %  2,5 %  15 %  55 %  0,1 %  0,5 %  3,5 %  22,5 % </td></tr>
 </tbody>
 </table> </td></tr>
+</table>
 
+<table>
 <tr><td> ‘Carcinogenic:’ </td><td>waste which induces cancer or increases its incidence. When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 6, the waste shall be classified as hazardous by HP 7. When more than one substance classified as carcinogenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 7.  Table 6: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 7  <br>  <br><table><tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td><td>Concentration limit</td></tr>
 <tr><td>Carc. 1A</td><td rowspan="2">H350</td><td rowspan="2">0,1 %</td></tr>
 <tr><td>Carc. 1B</td></tr>
 <tr><td>Carc. 2</td><td>H351</td><td>1,0 %</td></tr>
 </tbody>
 </table> </td></tr>
+</table>
 
 ‘Corrosive:’ waste which on application can cause skin corrosion.
 
@@ -1538,12 +1552,14 @@ The cut-off value for consideration in an assessment for Skin corr. 1A, 1B, 1C (
 
 The attribution of HP 9 shall be assessed by the rules laid down in reference documents or legislation in the Member States.
 
+<table>
 <tr><td> ‘Toxic for reproduction:’ </td><td>waste which has adverse effects on sexual function and fertility in adult males and females, as well as developmental toxicity in the offspring. When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 7, the waste shall be classified hazardous according to HP 10. When more than one substance classified as toxic for reproduction is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 10.  Table 7: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 10  <br>  <br><table><tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td><td>Concentration limit</td></tr>
 <tr><td>Repr. 1A</td><td rowspan="2">H360</td><td rowspan="2">0,3 %</td></tr>
 <tr><td>Repr. 1B</td></tr>
 <tr><td>Repr. 2</td><td>H361</td><td>3,0 %</td></tr>
 </tbody>
 </table> </td></tr>
+</table>
 
 ‘Mutagenic:’ waste which may cause a mutation, that is a permanent change in the amount or structure of the genetic material in a cell.
 
@@ -1551,11 +1567,13 @@ When a waste contains a substance classified by one of the following hazard clas
 
 Table 8: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 11
 
+<table>
 <tbody><tr><td>Hazard Class and Category Code(s)</td><td>Hazard statement Code(s)</td><td>Concentration limit</td></tr>
 <tr><td>Muta. 1A,</td><td rowspan="2">H340</td><td rowspan="2">0,1 %</td></tr>
 <tr><td>Muta. 1B</td></tr>
 <tr><td>Muta. 2</td><td>H341</td><td>1,0 %</td></tr>
 </tbody>
+</table>
 
 | ‘Release of an acute toxic gas:’ | waste which releases acute toxic gases (Acute Tox. 1, 2 or 3) in contact with water or an acid. When a waste contains a substance assigned to one of the following supplemental hazards EUH029, EUH031 and EUH032, it shall be classified as hazardous by HP 12 according to test methods or guidelines. |
 | --- | --- |
@@ -1586,6 +1604,7 @@ Waste which fulfils any of the following conditions shall be classified as hazar
 
 Where: Σ = sum and c = concentrations of the substances.
 
+<table>
 <tr><td> ‘Waste capable of exhibiting a hazardous property listed above not directly displayed by the original waste’.</td><td>When a waste contains one or more substances assigned to one of the hazard statements or supplemental hazards shown in Table 9, the waste shall be classified as hazardous by HP 15, unless the waste is in such a form that it will not under any circumstance exhibit explosive or potentially explosive properties. Table 9: Hazard statements and supplemental hazards for waste constituents for the classification of wastes as hazardous by HP 15  <br>  <br><table><tbody><tr><td colspan="2">Hazard Statement(s)/Supplemental Hazard(s)</td></tr>
 <tr><td>May mass explode in fire</td><td>H205</td></tr>
 <tr><td>Explosive when dry</td><td>EUH001</td></tr>
@@ -1593,6 +1612,7 @@ Where: Σ = sum and c = concentrations of the substances.
 <tr><td>Risk of explosion if heated under confinement</td><td>EUH044</td></tr>
 </tbody>
 </table>  In addition, Member States may characterise a waste as hazardous by HP 15 based on other applicable criteria, such as an assessment of the leachate.  —————    Test methods:  The methods to be used are described in Commission Regulation (EC) No 440/2008 (29) and in other relevant CEN notes or other internationally recognised test methods and guidelines. </td></tr>
+</table>
 
 ## ANNEX IV
 

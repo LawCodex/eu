@@ -132,6 +132,7 @@ Directive 2001/81/EC is amended as follows:
 
 **NATURE PROTECTION**
 
+<table>
 <tbody><tr><td></td><td>(1)</td><td>Directive 92/43/EEC is amended as follows:<table><tbody><tr><td>(a)</td><td>Annex I is replaced by the following: ‘ANNEX I NATURAL HABITAT TYPES OF COMMUNITY INTEREST WHOSE CONSERVATION REQUIRES THE DESIGNATION OF SPECIAL AREAS OF CONSERVATION  Interpretation  Guidance on the interpretation of habitat types is given in the Interpretation Manual of European Union Habitats as approved by the committee set up under Article 20 (“Habitats Committee”) and published by the European Commission (1).  The code corresponds to the Natura 2000 code.  The sign “*” indicates priority habitat types.  1. COASTAL AND HALOPHYTIC HABITATS  11. Open sea and tidal areas <table><tbody><tr><td>1110</td><td>Sandbanks which are slightly covered by sea water all the time</td></tr>
 <tr><td>1120</td><td>* Posidonia beds (Posidonion oceanicae)</td></tr>
 <tr><td>1130</td><td>Estuaries</td></tr>
@@ -517,6 +518,7 @@ Directive 2001/81/EC is amended as follows:
 </tbody>
 </table> </td></tr>
 </tbody>
+</table>
 
 (1) These national emission ceilings are designed with the aim of broadly meeting the interim environmental objectives set out in Article 5. Meeting those objectives is expected to result in a reduction of soil eutrophication to such an extent that the area of the Union with depositions of nutrient nitrogen in excess of the critical loads will be reduced by about 30 % compared with the situation in 1990.
 

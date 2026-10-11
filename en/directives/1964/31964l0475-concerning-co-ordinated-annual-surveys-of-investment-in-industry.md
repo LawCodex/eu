@@ -24,8 +24,10 @@ retrieved: 2026-10-11
 
 **(64/475/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
+</table>
 
 | A1 | ACT concerning the Conditions of Accession and the Adjustments to the Treaties | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |
@@ -72,6 +74,7 @@ This Directive is addressed to the Member States.
 
 **Branches, Major Groups, Groups, Subgroups and Subdivisions**
 
+<table>
 <tbody><tr><td colspan="5">1. MINING AND QUARRYING</td></tr>
 <tr><td>11</td><td>  </td><td>  </td><td colspan="2">Mining and preparation of solid fuels</td></tr>
 <tr><td>  </td><td>111</td><td>  </td><td colspan="2">Mining and preparation of coal</td></tr>
@@ -775,5 +778,6 @@ This Directive is addressed to the Member States.
 <tr><td>52</td><td>520</td><td>  </td><td colspan="2">Water supply</td></tr>
 <tr><td colspan="5">(1)  The manufacture of panels agglomerated with mineral binders is classified under Group 335.  (2)  The insulating tubes (mainly in non-ferrous metals and lined with proofed material) are classified under electrical construction.  (3)  For France and Belgium in particular.  (4)  Not carried out by railway companies. </td></tr>
 </tbody>
+</table>
 
 ( ) The current edition of the Nomenclature was published in 1963 in the Bulletin of Industrial Statistics (Statistical Office of the European Communities). It is reproduced in the Annex for information.

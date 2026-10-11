@@ -1,0 +1,445 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2977 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets"
+identifier: "32024R2977"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2977/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-11-28
+entry_into_force: 2024-12-19
+last_amended: 2026-08-11
+consolidated_version: "02024R2977-20260811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2977-20260811"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2977 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2977**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1731 of 15 July 2026 </td><td> L 1731</td><td>1</td><td>22.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2977**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards person identification data and electronic attestations of attributes issued to European Digital Identity Wallets**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down rules for the issuance of person identification data and electronic attestations of attributes to wallet units, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the architecture and reference framework.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘wallet user’ means a user who is in control of the wallet unit;
+
+(2) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;
+
+(3) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;
+
+(4) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;
+
+(5) ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;
+
+(6) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;
+
+(7) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;
+
+(8) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;
+
+(9) ‘wallet provider’ means a natural or legal person who provides wallet solutions;
+
+(10) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;
+
+(11) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;
+
+(12) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;
+
+(13) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State.
+
+## Article 3 — Issuance of person identification data to wallet units
+
+1\. Providers of person identification data shall issue person identification data to wallet units in accordance with the electronic identification schemes under which wallet solutions are provided.
+
+2\. Providers of person identification data shall ensure that person identification data issued to wallet units contains the information necessary for authentication and validation of the person identification data.
+
+3\. Providers of person identification data shall ensure that person identification data issued to wallet units comply with the technical specifications set out in the Annex.
+
+4\. Member States shall ensure that the person identification data issued to a given wallet user is unique for the Member State.
+
+5\. Providers of person identification data shall ensure that person identification data that they issue is cryptographically bound to the wallet unit to which it is issued.
+
+6\. Member States shall make publicly available a list of wallet solutions that are supported by providers of person identification data that is part of electronic identification schemes of that Member State.
+
+7\. Member States shall enroll wallet users in accordance with the requirements relating to enrolment at assurance level high, as set out in Commission Implementing Regulation (EU) 2015/1502 ( 1 ). In the context of the enrolment process, providers of person identification data shall perform identity verification of the wallet user in accordance with the requirements related to identity proofing and verification before issuing the person identification data to the wallet unit of the corresponding wallet user.
+
+8\. When issuing person identification data to wallet units, providers of person identification data shall identify themselves to wallet units using their wallet-relying party access certificate or by using another authentication mechanism in accordance with an electronic identity scheme notified at assurance level high.
+
+9\. Before issuing person identification data to a wallet unit, providers of person identification data shall authenticate and validate the wallet unit attestation of the wallet unit and verify that the wallet unit belongs to a wallet solution the provider of person identification data accepts or use another authentication mechanism in accordance with an electronic identity scheme notified at assurance level high.
+
+## Article 3a — Protection of the portrait
+
+1\. In addition to information requirements pursuant to Regulation (EU) 2016/679, wallet providers shall ensure that the wallet solutions they provide issue warnings to wallet users where wallet-relying parties request the disclosure of the portrait, indicating that the request involves the sharing of biometric data and requires confirmation for the selective disclosure of the portrait.
+
+2\. For the implementation of selectively disclosing the portrait to a wallet-relying party, the wallet providers shall ensure the wallet solutions require the wallet user to explicitly and specifically confirm the presentation of the portrait.
+
+3\. The portrait shall not be retained by wallet-relying parties unless its processing is necessary for the purposes of identification and authentication in compliance with Union data protection law or where this is provided for by Union or national law, in compliance with Union data protection law. The portrait shall not be transferred to third countries or international organisations unless permitted by Union data protection law.
+
+## Article 4 — Issuance of electronic attestations of attributes to wallet units
+
+1\. Electronic attestations of attributes issued to wallet units shall comply with at least one of the standards set out in Annex II of Implementing Regulation (EU) 2024/2979.
+
+2\. Providers of electronic attestations of attributes shall identify themselves to wallet units using their wallet-relying party access certificate.
+
+3\. Providers of electronic attestations of attributes shall ensure that electronic attestations of attributes issued to wallet units contain the information necessary for authentication and validation of those electronic attestations of attributes.
+
+## Article 5 — Revocation of person identification data
+
+1\. Providers of person identification data issued to a wallet unit shall have written and publicly accessible policies relating to validity status management, including, where applicable, the conditions under which such person identification data can be revoked without delay.
+
+2\. Only providers of person identification data or electronic attestation of attributes can revoke the person identification data or electronic attestations of attributes issued by them.
+
+3\. Where providers of person identification data have revoked person identification data, they shall, through dedicated and secure channels, inform wallet users subject of those person identification data within 24 hours of the revocation and of the reasons for the revocation. This shall be done in a manner that is concise, easily accessible and using clear and plain language.
+
+4\. Where providers of person identification data revoke person identification data issued to wallet units, they shall do so in each of the following circumstances:
+
+(a) upon the explicit request of the wallet user to whose wallet unit the person identification data or electronic attestation of attributes were issued to;
+
+(b) where the wallet unit attestation of the wallet unit to which the person identification data was issued to has been revoked;
+
+(c) in other situations determined by the providers of person identification data or electronic attestations of attributes in their policies referred to in paragraph 1.
+
+5\. Providers of person identification data issued to a wallet unit shall ensure that revocations cannot be reverted.
+
+6\. The revoked person identification data shall remain accessible for as long as required by Union law or national law.
+
+7\. Where providers of person identification data revoke person identification data issued to wallet units, they shall make publicly available the validity status of person identification data they issue, in a privacy preserving manner, and indicate the location of that information in the person identification data.
+
+8\. Providers of person identification data shall enable privacy preserving techniques which ensure unlinkability where the electronic attestations of attributes do not require the identification of the user.
+
+## Article 6 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — Technical specifications for person identification data referred to in Article 3(3)
+
+1\. Section 1: Set of natural person identification data
+
+**Table 1**
+
+**Mandatory person identification data for the natural person for selective disclosure**
+
+| Data identifier | Definition |
+| --- | --- |
+| family_name | Current last name(s) or surname(s) of the user to whom the person identification data relates. |
+| given_name | Current first name(s), including middle name(s) where applicable, of the user to whom the person identification data relates. |
+| birth_date | Day, month, and year on which the user to whom the person identification data relates was born. |
+| birth_place | The country as an alpha-2 country code as specified in ISO 3166-1, or the state, province, district, or local area or the municipality, city, town, or village where the user to whom the person identification data relates was born. |
+| nationality | One or more alpha-2 country codes as specified in ISO 3166-1, representing the nationality of the user to whom the person identification data relates. |
+| portrait | Except where the user explicitly opts out, where applicable, the facial image of the user to whom the person identification data relates, compliant with the quality requirements for a full frontal image type as set out in ISO/IEC 39794-5 or, for backward compatibility, ISO/IEC 19794-5, clauses 8.2, 8.3 and 8.4, provided as encoded image data without the headers or blocks as specified in clause 5 of ISO/IEC 19794-5, except for the image data itself (a JPEG) shall apply from 11 August 2028. |
+
+— Member States may provide that the user has the option to decline the insertion of the portrait to the person identification data.
+
+— Member States shall ensure that the selective disclosure applies to each data identifier, including the portrait.
+
+— Where the birth date of the natural person is not known, Member States shall choose appropriate values that comply with the specifications set out in sections 4.1 or 4.2 (as appropriate) to this Annex.
+
+— Where the nationality of the natural person is unknown, Member States shall use the value 'QU'.
+
+— Where the natural person does not hold a nationality, Member States shall use the value 'QS'.
+
+— Where the user opts out of the inclusion of the portrait, Member States shall set the value empty.
+
+**Table 2**
+
+**Optional person identification data for the natural person for selective disclosure**
+
+<table>
+<tbody><tr><td>Data identifier</td><td>Definition</td></tr>
+<tr><td>resident_address</td><td>The full address of the place where the user to whom the person identification data relates currently resides or can be contacted (street name, house number, city, etc.).</td></tr>
+<tr><td>resident_country</td><td>The country where the user to whom the person identification data relates currently resides, as an alpha-2 country code as specified in ISO 3166-1.</td></tr>
+<tr><td>resident_state</td><td>The state, province, district, or local area where the user to whom the person identification data relates currently resides.</td></tr>
+<tr><td>resident_city</td><td>The municipality, city, town, or village where the user to whom the person identification data relates currently resides.</td></tr>
+<tr><td>resident_postal_code</td><td>The postal code of the place where the user to whom the person identification data relates currently resides.</td></tr>
+<tr><td>resident_street</td><td>The name of the street where the user to whom the person identification data relates currently resides, including the house number and any affix or suffix thereof.</td></tr>
+<tr><td>personal_administrative_number</td><td>A value assigned to the user to whom the person identification data relates that is unique among all personal administrative numbers issued by the provider of person identification data. Where Member States opt to include this attribute, they shall describe in their electronic identification schemes under which the person identification data is issued, the policy that they apply to the values of this attribute, including, where applicable, specific conditions for the processing of this value.</td></tr>
+<tr><td>family_name_birth</td><td>Last name(s) or surname(s) of the user to whom the person identification data relates at the time of birth.</td></tr>
+<tr><td>given_name_birth</td><td>First name(s), including middle name(s), of the user to whom the person identification data relates at the time of birth.</td></tr>
+<tr><td>sex</td><td>Values shall be one of the following: 0 = not known;  1 = male;  2 = female;  3 = other;  4 = inter;  5 = diverse;  6 = open;  9 = not applicable;  For values 0, 1, 2 and 9, ISO/IEC 5218 applies. </td></tr>
+<tr><td>email_address</td><td>Electronic mail address of the user to whom the person identification data relates [in accordance with RFC 5322 (1)].</td></tr>
+<tr><td>mobile_phone_number</td><td>Mobile telephone number of the user to whom the person identification data relates, starting with the ‘+’ symbol as the international code prefix and the country code, followed by numbers only.</td></tr>
+<tr><td colspan="2">(1)  P. Resnick, Ed., ‘Internet Message Format,’ RFC 5322, October 2008. </td></tr>
+</tbody>
+</table>
+
+2\. Section 2: Set of legal person identification data
+
+**Table 3**
+
+**Mandatory person identification data for the legal person**
+
+Data identifier
+
+current legal name
+
+a unique identifier constructed by the sending Member State in accordance with the technical specifications for the purposes of cross-border identification and which is as persistent as possible in time
+
+— Where a data identifier is not known for the person or cannot otherwise be issued as part of the person identification dataset, Member States shall instead use an attribute value appropriate to the situation.
+
+**Table 4**
+
+**Optional person identification data for the legal person**
+
+Data identifier
+
+current address
+
+VAT registration number
+
+tax reference number
+
+European unique identifier referred to in Directive (EU) 2017/1132 of the European Parliament and of the Council (1)
+
+Legal Entity Identifier (LEI) referred to in Commission Implementing Regulation (EU) 2022/1860 (2)
+
+Economic Operator Registration and Identification (EORI) referred to in Commission Implementing Regulation (EU) No 1352/2013 (3)
+
+excise number provided in Article 2(12) of Council Regulation (EU) No 389/2012 (4)
+
+(1)
+
+Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (OJ L 169, 30.6.2017, p. 46, ELI: http://data.europa.eu/eli/dir/2017/1132/oj).
+
+(2)
+
+Commission Implementing Regulation (EU) 2022/1860 of 10 June 2022 laying down implementing technical standards for the application of Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to the standards, formats, frequency and methods and arrangements for reporting (OJ L 262, 7.10.2022, p. 68, ELI: http://data.europa.eu/eli/reg_impl/2022/1860/oj).
+
+(3)
+
+Commission Implementing Regulation (EU) No 1352/2013 of 4 December 2013 establishing the forms provided for in Regulation (EU) No 608/2013 of the European Parliament and of the Council concerning customs enforcement of intellectual property rights (OJ L 341, 18.12.2013, p. 10, ELI: http://data.europa.eu/eli/reg_impl/2013/1352/oj).
+
+(4)
+
+C ouncil Regulation (EU) No 389/2012 of 2 May 2012 on administrative cooperation in the field of excise duties and repealing Regulation (EC) No 2073/2004 (OJ L 121, 8.5.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/389/oj).
+
+3\. Section 3: Set of metadata about person identification data
+
+**Table 5**
+
+**Metadata about the person identification data**
+
+| Data identifier | Definition | Presence |
+| --- | --- | --- |
+| issuing_authority | Name of the administrative authority that issued the person identification data, or the ISO 3166 alpha-2 country code of the respective Member State if there is no separate authority entitled to issue person identification data. | mandatory |
+| issuing_country | alpha-2 country code, as specified in ISO 3166-1, of the country or territory of the provider of the person identification data. | mandatory |
+| expiry_date | Date (and if possible time) when the administrative validity period of the person identification data will expire. | optional |
+| document_number | A number for the person identification data, assigned by the provider of person identification data. | optional |
+| issuing_jurisdiction | Country subdivision code of the jurisdiction that issued the person identification data, as specified in ISO 3166-2:2020, Clause 8. The first part of the code shall be the same as the value for the issuing country. | optional |
+| issuance_date | Date, and if possible time, when the administrative validity period of the person identification data started. | optional |
+
+4\. Section 4: Encoding of natural person identification data attributes
+
+— Natural person identification data shall be issued in accordance with the standards set out in Annex II to Implementing Regulation (EU) 2024/2979, clauses 5 (SD-JWT VC format) and 6 (ISO/IEC-mdoc format) as applicable to electronic attestations of attributes. Clauses 5.2.2, 5.2.4, 5.2.5, EAA-6.1-03, 6.2.2, 6.2.3,6.2.4 and 6.2.5 shall not apply.
+
+— The encoding of natural person identification data shall comply with the technical specifications in sections 4.1 and 4.2 of this Annex.
+
+4.1 Encoding of natural person identification data in ISO/IEC-mdoc format
+
+— The attestation type for person identification data in ISO/IEC mdoc format shall be 'eu.europa.ec.eudi.pid.1'. The identifier of the namespace for the person identification data attributes set out in this Annex shall be 'eu.europa.ec.eudi.pid.1'.
+
+— Where the person identification data includes data for which data identifiers are not set out in this Annex, these data shall be defined within a domestic person identification data namespace that uses the general format eu.europa.ec.eudi.pid.[ISO 3166-1 alpha-2 country code or the ISO 3166-2 region code] followed by an optional dot and version number.
+
+— Where the domestic namespace is used, its scheme, including all data identifiers, their definitions, presence and encoding formats, shall be published in accordance with Article 8 of Commission Implementing Regulation (EU) 2025/1569 ( 2 ).
+
+— The person identification data and its metadata set out in sections 1 and 3 of this Annex shall be included in person identification data elements within the meaning of ISO/IEC mdoc format specifications.
+
+— The deviceKey member within the deviceKeyInfo member of the instance of MobileSecurityObject type shall contain a public key.
+
+— That public key shall correspond to a private key that is stored in the wallet secure cryptographic device (‘WSCD’) of the wallet user.
+
+— The Protected Header of the CB-AdES digital signature signing a person identification data in ISO/IEC-mdoc format shall contain the x5u and the x5t header parameters, both specified in RFC 9360 ( 3 ).
+
+— The digest algorithm used in the x5t header parameter shall be SHA-256.
+
+— The requirements for encoding person identification data in ISO/IEC-mdoc format are set out in Table 6:
+
+**Table 6**
+
+**Requirements for encoding person identification data in ISO/IEC-mdoc format**
+
+| Data Identifier | Attribute identifier | Encoding format |
+| --- | --- | --- |
+| family_name | family_name | tstr |
+| given_name | given_name | tstr |
+| birth_date | birth_date | full-date |
+| birth_place | place_of_birth | place_of_birth |
+| nationality | nationality | nationalities |
+| resident_address | resident_address | tstr |
+| resident_country | resident_country | tstr |
+| resident_state | resident_state | tstr |
+| resident_city | resident_city | tstr |
+| resident_postal_code | resident_postal_code | tstr |
+| resident_street | resident_street | tstr |
+| personal_administrative_number | personal_administrative_number | tstr |
+| portrait | portrait | bstr |
+| family_name_birth | family_name_birth | tstr |
+| given_name_birth | given_name_birth | tstr |
+| sex | sex | uint |
+| email_address | email_address | tstr |
+| mobile_phone_number | mobile_phone_number | tstr |
+| expiry_date | expiry_date | tdate or full-date |
+| issuing_authority | issuing_authority | tstr |
+| issuing_country | issuing_country | tstr |
+| document_number | document_number | tstr |
+| issuing_jurisdiction | issuing_jurisdiction | tstr |
+| issuance_date | issuance_date | tdate or full-date |
+
+— The notation of the encoding format of the attributes specified in Table 6 shall use representation types as specified in RFC 8610 ( 4 ), with the following additional requirements:
+
+(a) a tstr shall be encoded in UTF-8;
+
+(b) a tstr shall support the full Unicode range;
+
+(c) a tstr shall have a maximum length of 150 characters;
+
+(d) a date shall be encoded as specified in RFC 8943 ( 5 );
+
+(e) a full-date shall be interpreted as #6.1004(tstr), where tag 1004 is as specified in RFC 8943;
+
+(f) a tdate attribute shall contain a date-time string as specified in RFC 3339 ( 6 );
+
+(g) a full-date attribute shall contain a full-date string as specified in RFC 3339, in accordance with RFC 8943;
+
+(h) a representation of a date in attributes shall, unless otherwise indicated:
+
+— not use fractions of seconds;
+
+— not use a local offset from UTC and the time-offset specified in RFC 3339 shall be set to 'Z'.
+
+(i) an integer with major types 0 and 1 shall be as small as possible, as specified in RFC 8949 ( 7 ), section 4.2;
+
+(j) a place_of_birth shall contain at least one of the following key-value pairs: 'country', 'region', or 'locality';
+
+(k) the expression of the length in a bstr, tstr, array or map shall be as short as possible, as specified in RFC 8949, section 4.2;
+
+(l) the attribute nationality shall be encoded as an array of alpha-2 country codes as specified in ISO 3166-1. Where CDDL notation as specified in RFC 8610 is used, the encoding of this attribute shall be:
+
+— nationalities = [+ CountryCode];
+
+— CountryCode = tstr; alpha-2 country code specified in ISO 3166-1;
+
+— where a wallet user to whom the person identification data relates has multiple nationalities and the provider of person identification data attests to these multiple nationalities, the provider of person identification data may include all the nationalities in the person identification data;
+
+— the attribute place_of_birth shall be encoded as a type place_of_birth. Where CDDL notation as specified in RFC 8610 is used, the encoding of this attribute shall be:
+
+place_of_birth =
+
+{
+
+? 'country': tstr; a single alpha-2 country code as specified in ISO 3166-1
+
+? 'region': tstr; the name of a state, province, district, or local area
+
+? 'locality': tstr; the name of a municipality, city, town, or village
+
+}
+
+4.2 Requirements for encoding person identification data in SD-JWT VC format
+
+— The person identification data and its metadata specified in this section shall be included in a person identification data as claims in the meaning of SD-JWT VC format specifications.
+
+— All claims in the issued person identification data, referenced in the previous indent, shall be selectively disclosable individually, except those claims defined as non-selectively disclosable in SD-JWT VC format.
+
+— Table 7 specifies the encoding of claim names that are public names.
+
+— Table 8 specifies the encoding of claim names that are specific to the person identification data.
+
+— A JSON string used in person identification data encoded in SD-JWT VC shall be encoded in UTF-8 and shall support the full Unicode range, unless explicitly specified otherwise in Table 8 below or the references therein.
+
+— The JWT claims nbf and exp as defined in RFC 7519 ( 8 ) shall be used to express the technical validity period of person identification data compliant with SD-JWT VC format.
+
+— Person identification data shall incorporate the cnf claim as defined in RFC 7800 ( 9 ), which shall be a public key generated from a private key stored in the WSCD of the wallet users wallet unit.
+
+— The Protected Header of the digital signature signing a person identification data in SD-JWT VC format shall contain the x5u and the x5t#S256 header parameters, specified in RFC 7515 ( 10 ).
+
+**Table 7**
+
+**Requirements for encoding person identification data in SD-JWT VC format using public names**
+
+| Data Identifier | Attribute identifier | Encoding format |
+| --- | --- | --- |
+| family_name | family_name | string |
+| given_name | given_name | string |
+| birth_date | birthdate | string, ISO 8601-1, YYYY-MM-DD format |
+| birth_place | place_of_birth | JSON structure |
+| nationality | nationalities | array of strings |
+| resident_address | address.formatted | string |
+| resident_country | address.country | string |
+| resident_state | address.region | string |
+| resident_city | address.locality | string |
+| resident_postal_code | address.postal_code | string |
+| resident_street | address.street_address | string |
+| family_name_birth | birth_family_name | string |
+| given_name_birth | birth_given_name | string |
+| email_address | email | string |
+| mobile_phone_number | phone_number | string |
+| portrait | picture | string; data URL containing a base64-encoded portrait in JPEG format |
+
+**Table 8**
+
+**Requirements for encoding person identification data in SD-JWT VC format using private names**
+
+| Data Identifier | Attribute identifier | Encoding format |
+| --- | --- | --- |
+| expiry_date | date_of_expiry | string, ISO 8601-1, YYYY-MM-DD format |
+| issuance_date | date_of_issuance | string, ISO 8601-1, YYYY-MM-DD format |
+| personal_administrative_number | personal_administrative_number | string |
+| sex | sex | number |
+| issuing_authority | issuing_authority | string |
+| issuing_country | issuing_country | string |
+| document_number | document_number | string |
+| issuing_jurisdiction | issuing_jurisdiction | string |
+
+— The base type of person identification data shall be 'urn:eudi:pid:1', included in the vct claim. All person identification data shall use types in the namespace 'urn:eudi:pid:'.
+
+— Where person identification data includes attributes that are not specified in this Annex, these attributes shall be defined within a domestic type.
+
+— Where the domestic type is used, its scheme, including all data identifiers, their definitions, presence and encoding formats, shall be defined in a scheme that is published in accordance with Article 8 of Implementing Regulation (EU) 2025/1569.
+
+5\. Section 5: Trust infrastructure details
+
+The list of providers of person identification data made available by the Commission in accordance with Implementing Regulation (EU) 2024/2980 shall enable the authentication of person identification data.
+
+( 1 ) Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (OJ L 235, 9.9.2015, p. 7, ELI: http://data.europa.eu/eli/reg_impl/2015/1502/oj).
+
+( 2 ) Commission Implementing Regulation (EU) 2025/1569 of 29 July 2025 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards qualified electronic attestations of attributes and electronic attestations of attributes provided by or on behalf of a public sector body responsible for an authentic source (OJ L, 2025/1569, 30.7.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/1569/oj).
+
+( 3 ) J. Schaad, ‘CBOR Object Signing and Encryption (COSE): Header Parameters for Carrying and Referencing X.509 Certificates’ (https://datatracker.ietf.org/doc/rfc9360/).
+
+( 4 ) C. Vigano and H. Birkholz, ‘Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures’, RFC 8610, June 2019.
+
+( 5 ) M. Jones, A. Nadalin and J. Richter, ‘Concise Binary Object Representation (CBOR) Tags for Date’, RFC 8943, November 2020.
+
+( 6 ) G. Klyne and C. Newman, ‘Date and Time on the Internet: Timestamps’, RFC 3339, July 2002.
+
+( 7 ) C. Bormann and P. Hoffman, ‘Concise Binary Object Representation (CBOR)’, RFC 8949, December 2020.
+
+( 8 ) J. Jones, et al., ‘JSON Web Token (JWT)’, RFC 7519, May 2015.
+
+( 9 ) M. Jones, et al., ‘Proof-of-Possession Key Semantics for JSON Web Tokens (JWTs)’, RFC 7800, April 2016.
+
+( 10 ) M. Jones, et al., ‘JSON Web Signature (JWS)’, RFC 7515, May 2015.

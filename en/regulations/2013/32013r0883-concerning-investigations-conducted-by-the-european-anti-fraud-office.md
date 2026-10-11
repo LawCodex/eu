@@ -1,0 +1,811 @@
+---
+title: "Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999"
+identifier: "32013R0883"
+eli: "http://data.europa.eu/eli/reg/2013/883/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-09-11
+entry_into_force: 2013-04-06
+last_amended: 2021-01-17
+consolidated_version: "02013R0883-20210117"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0883-20210117"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999
+
+**REGULATION (EU, EURATOM) No 883/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 September 2013**
+
+**concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU, Euratom) 2016/2030 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 October 2016 </td><td> L 317</td><td>1</td><td>23.11.2016</td></tr>
+<tr><td></td><td> REGULATION (EU, Euratom) 2020/2223 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 December 2020 </td><td> L 437</td><td>49</td><td>28.12.2020</td></tr>
+</table>
+
+**REGULATION (EU, EURATOM) No 883/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 September 2013**
+
+**concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999**
+
+## Article 1 — Objectives and tasks
+
+1\. In order to step up the fight against fraud, corruption and any other illegal activity affecting the financial interests of the European Union and of the European Atomic Energy Community (hereinafter referred to collectively, when the context so requires, as ‘the Union’), the European Anti-Fraud Office established by Decision 1999/352/EC, ECSC, Euratom (‘the Office’) shall exercise the powers of investigation conferred on the Commission by:
+
+(a) the relevant Union acts; and
+
+(b) the relevant cooperation and mutual assistance agreements concluded by the Union with third countries and international organisations.
+
+2\. The Office shall provide the Member States with assistance from the Commission in organising close and regular cooperation between their competent authorities in order to coordinate their action aimed at protecting the financial interests of the Union against fraud. The Office shall contribute to the design and development of methods of preventing and combating fraud, corruption and any other illegal activity affecting the financial interests of the Union. The Office shall promote and coordinate, with and among the Member States, the sharing of operational experience and best procedural practices in the field of the protection of the financial interests of the Union, and shall support joint anti-fraud actions undertaken by Member States on a voluntary basis.
+
+3\. This Regulation shall apply without prejudice to:
+
+(a) Protocol No 7 on the privileges and immunities of the European Union attached to the Treaty on European Union and to the Treaty on the Functioning of the European Union;
+
+(b) the Statute for Members of the European Parliament;
+
+(c) the Staff Regulations;
+
+(d) Regulation (EU) 2016/679 of the European Parliament and of the Council ( 1 );
+
+(e) Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 2 ).
+
+4\. Within the institutions, bodies, offices and agencies established by, or on the basis of, the Treaties (‘institutions, bodies, offices and agencies’), the Office shall conduct administrative investigations for the purpose of fighting fraud, corruption and any other illegal activity affecting the financial interests of the Union. To that end, it shall investigate serious matters relating to the discharge of professional duties constituting a dereliction of the obligations of officials and other servants of the Union liable to result in disciplinary or, as the case may be, criminal proceedings, or an equivalent failure to discharge obligations on the part of members of institutions and bodies, heads of offices and agencies or staff members of institutions, bodies, offices or agencies not subject to the Staff Regulations (hereinafter collectively referred to as ‘officials, other servants, members of institutions or bodies, heads of offices or agencies, or staff members’).
+
+4a. The Office shall establish and maintain a close relationship with the European Public Prosecutor’s Office (EPPO) established in enhanced cooperation by Council Regulation (EU) 2017/1939 ( 3 ). That relationship shall be based on mutual cooperation, information exchange, complementarity and the avoidance of duplication. It shall aim in particular to ensure that all available means are used to protect the financial interests of the Union through the complementarity of their respective mandates and the support provided by the Office to the EPPO.
+
+5\. For the application of this Regulation, competent authorities of the Member States and institutions, bodies, offices and agencies may establish administrative arrangements with the Office. Those administrative arrangements may concern, in particular, the transmission of information, the conduct of investigations and any follow-up action.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(1) ‘financial interests of the Union’ shall include revenues, expenditures and assets covered by the budget of the European Union and those covered by the budgets of the institutions, bodies, offices and agencies and the budgets managed and monitored by them;
+
+(2) ‘irregularity’ shall mean ‘irregularity’ as defined in Article 1(2) of Regulation (EC, Euratom) No 2988/95;
+
+(3) ‘fraud, corruption and any other illegal activity affecting the financial interests of the Union’ shall have the meaning applied to those words in the relevant Union acts and the notion of ‘any other illegal activity’ shall include irregularity as defined in Article 1(2) of Regulation (EC, Euratom) No 2988/95;
+
+(4) ‘administrative investigations’ (‘investigations’) shall mean any inspection, check or other measure undertaken by the Office in accordance with Articles 3 and 4, with a view to achieving the objectives set out in Article 1 and to establishing, where necessary, the irregular nature of the activities under investigation; those investigations shall not affect the powers of the EPPO or of the competent authorities of Member States to initiate and conduct criminal proceedings;
+
+(5) ‘person concerned’ shall mean any person or economic operator suspected of having committed fraud, corruption or any other illegal activity affecting the financial interests of the Union and who is therefore subject to investigation by the Office;
+
+(6) ‘economic operator’ shall have the meaning applied to that term by Regulation (EC, Euratom) No 2988/95 and Regulation (Euratom, EC) No 2185/96;
+
+(7) ‘administrative arrangements’ shall mean arrangements of a technical and/or operational nature concluded by the Office, which may in particular aim at facilitating the cooperation and the exchange of information between the parties thereto, and which do not create additional legal obligations;
+
+(8) ‘member of an institution’ means a member of the European Parliament, a member of the European Council, a representative of a Member State at ministerial level in the Council, a member of the Commission, a member of the Court of Justice of the European Union (CJEU), a member of the Governing Council of the European Central Bank or a member of the Court of Auditors, with respect to the obligations imposed by Union law in the context of the duties they perform in that capacity.
+
+## Article 3 — External investigations
+
+1\. In the areas referred to in Article 1, the Office shall carry out on-the-spot checks and inspections in Member States and, in accordance with cooperation and mutual assistance agreements and any other legal instrument in force, in third countries and on the premises of international organisations.
+
+2\. The Office shall carry out on-the-spot checks and inspections in accordance with this Regulation and, to the extent not covered by this Regulation, in accordance with Regulation (Euratom, EC) No 2185/96.
+
+3\. Economic operators shall cooperate with the Office in the course of its investigations. The Office may request written and oral information, including through interviews.
+
+4\. Where, in accordance with paragraph 3 of this Article, the economic operator concerned submits to an on-the-spot check and inspection authorised pursuant to this Regulation, Article 2(4) of Regulation (EC, Euratom) No 2988/95, the third subparagraph of Article 6(1) of Regulation (Euratom, EC) No 2185/96 and Article 7(1) of Regulation (Euratom, EC) No 2185/96 shall not apply insofar as those provisions require compliance with national law and are capable of restricting access to information and documentation by the Office to the same conditions as those that apply to national administrative inspectors.
+
+5\. At the request of the Office, the competent authority of the Member State concerned shall, without undue delay, provide the staff of the Office with the assistance needed in order to carry out their tasks effectively, as specified in the written authorisation referred to in Article 7(2).
+
+The Member State concerned shall ensure, in accordance with Regulation (Euratom, EC) No 2185/96, that the staff of the Office are allowed access to all information, documents and data relating to the matter under investigation which prove necessary in order for the on-the-spot checks and inspections to be carried out effectively and efficiently, and that the staff are able to assume custody of documents or data to ensure that there is no danger of their disappearance. Where privately owned devices are used for work purposes, those devices may be subject to inspection by the Office. The Office shall subject such devices to inspection only under the same conditions and to the same extent that national control authorities are allowed to investigate privately owned devices and where the Office has reasonable grounds for suspecting that their content may be relevant for the investigation.
+
+6\. Where the staff of the Office find that an economic operator resists an on-the-spot check and inspection authorised pursuant to this Regulation, namely where the economic operator refuses to grant the Office the necessary access to its premises or any other areas used for business purposes, conceals information or prevents the conduct of any of the activities that the Office needs to perform in the course of an on-the-spot check and inspection, the competent authorities, including, where appropriate, law enforcement authorities of the Member State concerned shall afford the staff of the Office the necessary assistance so as to enable the Office to conduct its on-the-spot check and inspection effectively and without undue delay.
+
+When providing assistance in accordance with this paragraph or with paragraph 5, the competent authorities of Member States shall act in accordance with national procedural rules applicable to the competent authority concerned. If such assistance requires authorisation from a judicial authority in accordance with national law, such authorisation shall be applied for.
+
+7\. The Office shall conduct on-the-spot checks and inspections upon production of written authorisation, as provided for in Article 7(2). It shall, at the latest at the start of the on-the-spot check and inspection, inform the economic operator concerned of the procedure applicable to the on-the-spot check and inspection, including the applicable procedural safeguards, and the economic operator's duty to cooperate.
+
+8\. In the exercise of the powers assigned to it, the Office shall comply with the procedural guarantees provided for in this Regulation and in Regulation (Euratom, EC) No 2185/96. In the conduct of an on-the-spot check and inspection, the economic operator concerned shall have the right not to make self-incriminating statements and to be assisted by a person of the economic operator’s choice. When making statements during an on-the-spot check and inspection, the economic operator shall be provided with the possibility to use any of the official languages of the Member State where that economic operator is located. The right to be assisted by a person of choice shall not prevent access by the Office to the premises of the economic operator and shall not unduly delay the start of the on-the-spot check and inspection.
+
+9\. Where a Member State does not cooperate with the Office in accordance with paragraphs 5 and 6, the Commission may apply the relevant provisions of Union law in order to recover the funds related to the on-the-spot check and inspection in question.
+
+10\. As part of its investigative function, the Office shall carry out the checks and inspections provided for in Article 9(1) of Regulation (EC, Euratom) No 2988/95 and in the sectoral rules referred to in Article 9(2) of that Regulation in Member States and, in accordance with cooperation and mutual assistance agreements and any other legal instrument in force, in third countries and on the premises of international organisations.
+
+11\. During an external investigation, the Office may have access to any relevant information and data, irrespective of the medium on which it is stored, held by the institutions, bodies, offices and agencies, connected with the matter under investigation, where necessary in order to establish whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union. For that purpose Article 4(2) and (4) shall apply.
+
+12\. Without prejudice to Article 12c(1), where, before a decision has been taken whether or not to open an external investigation, the Office handles information which suggests that there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union, it may inform the competent authorities of the Member States concerned and, where necessary, the institutions, bodies, offices and agencies concerned.
+
+Without prejudice to the sectoral rules referred to in Article 9(2) of Regulation (EC, Euratom) No 2988/95, the competent authorities of the Member States concerned shall ensure that appropriate action is taken, in which the Office may take part, in accordance with national law. Upon request, the competent authorities of the Member States concerned shall inform the Office of the action taken and of their findings on the basis of information referred to in the first subparagraph of this paragraph.
+
+## Article 4 — Internal investigations
+
+1\. Investigations within the institutions, bodies, offices and agencies in the areas referred to in Article 1 shall be conducted in accordance with this Regulation and with the decisions adopted by the relevant institution, body, office or agency (‘internal investigations’).
+
+2\. In the course of internal investigations:
+
+(a) the Office shall have the right of immediate and unannounced access to any relevant information and data, relating to the matter under investigation, irrespective of the type of medium on which it is stored, held by the institutions, bodies, offices and agencies, and to their premises. Where privately owned devices are used for work purposes, those devices may be subject to inspection by the Office. The Office shall subject such devices to inspection only to the extent that the devices are used for work purposes, under the conditions set in the decisions adopted by the relevant institution, body, office or agency and where the Office has reasonable grounds for suspecting that their content may be relevant for the investigation.
+
+The Office shall be empowered to inspect the accounts of the institutions, bodies, offices and agencies. The Office may take a copy of, and obtain extracts from, any document or the contents of any data medium held by the institutions, bodies, offices and agencies and, if necessary, assume custody of such documents or data to ensure that there is no danger of their disappearance;
+
+(b) the Office may request oral information, including through interviews, and written information from officials, other servants, members of institutions or bodies, heads of offices or agencies, or staff members, thoroughly documented in accordance with the applicable Union confidentiality and data protection rules.
+
+3\. Under the same rules and conditions as provided for in Article 3, the Office may carry out on-the-spot checks and inspections at the premises of economic operators in order to obtain access to information relevant to the matter under investigation within the institutions, bodies, offices and agencies.
+
+4\. The institutions, bodies, offices and agencies shall be informed whenever the staff of the Office conduct an internal investigation on their premises, consult documents or data, or request information held by them. Without prejudice to Articles 10 and 11, the Office may at any time forward to the institution, body, office or agency concerned the information obtained in the course of internal investigations.
+
+5\. The institutions, bodies, offices and agencies shall put in place appropriate procedures and take necessary measures to ensure at all stages the confidentiality of internal investigations.
+
+6\. Where internal investigations reveal that an official, other servant, member of an institution or body, head of office or agency, or staff member may be a person concerned, the institution, body, office or agency to which that person belongs shall be informed.
+
+In cases where the confidentiality of the internal investigation cannot be ensured using the usual channels of communication, the Office shall use appropriate alternative channels for transmitting information.
+
+In exceptional cases, the provision of such information may be deferred on the basis of a reasoned decision by the Director-General, which shall be transmitted to the Supervisory Committee after the closure of the investigation.
+
+7\. The decision to be adopted by each institution, body, office or agency as provided for in paragraph 1 shall include, in particular, a rule concerning a duty on the part of officials, other servants, members of institutions or bodies, heads of offices or agencies, or staff members to cooperate with and supply information to the Office, while ensuring the confidentiality of the internal investigation.
+
+8\. Without prejudice to Article 12c(1), where, before a decision has been taken whether or not to open an internal investigation, the Office handles information which suggests that there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union, it may inform the institution, body, office or agency concerned. Upon request, the institution, body, office or agency concerned shall inform the Office of any action taken and of its findings on the basis of such information.
+
+Where necessary, the Office shall also inform the competent authorities of the Member State concerned. In this case, the procedural requirements laid down in the second and third subparagraphs of Article 9(4) shall apply. If the competent authorities decide to take any action on the basis of the information transmitted to them, in accordance with national law, they shall, upon request, inform the Office thereof.
+
+## Article 5 — Opening of investigations
+
+1\. Without prejudice to Article 12d, the Director-General may open an investigation when there is a sufficient suspicion, which may be based on information provided by any third party or on anonymous information, that there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union. The decision to open the investigation may take into account the need for efficient use of the Office’s resources and for the proportionality of the means employed. With regard to internal investigations, specific account shall be taken of the institution, body, office or agency best placed to conduct them, based, in particular, on the nature of the facts, the actual or potential financial impact of the case, and the likelihood of any judicial follow-up.
+
+2\. The decision to open an investigation shall be taken by the Director-General, acting on his or her own initiative or following a request from an institution, body, office or agency or from a Member State.
+
+3\. While the Director-General is considering whether or not to open an internal investigation following a request as referred to in paragraph 2, or while the Office is conducting an internal investigation, the institutions, bodies, offices or agencies concerned shall not open a parallel investigation into the same facts, unless agreed otherwise with the Office.
+
+This paragraph shall not apply to investigations by the EPPO pursuant to Regulation (EU) 2017/1939.
+
+4\. Within two months of receipt by the Office of a request as referred to in paragraph 2, a decision whether or not to open an investigation shall be taken. It shall be communicated without delay to the Member State, institution, body, office or agency which made the request. Reasons shall be given for a decision not to open an investigation. If, on the expiry of that period of two months, the Office has not taken any decision, the Office shall be deemed to have decided not to open an investigation.
+
+Where an official, other servant, member of an institution or body, head of office or agency, or staff member, acting in accordance with Article 22a of the Staff Regulations, provides information to the Office relating to a suspected fraud or irregularity, the Office shall inform that person of the decision whether or not to open an investigation in relation to the facts in question.
+
+5\. If the Director-General decides not to open an investigation, he or she may without delay send any relevant information, as appropriate, to the competent authorities of the Member State concerned for appropriate action to be taken in accordance with Union and national law or to the institution, body, office or agency concerned for appropriate action to be taken in accordance with the rules applicable to that institution, body, office or agency. The Office shall agree with that institution, body, office or agency, if appropriate, on suitable measures to protect the confidentiality of the source of that information and shall, if necessary, ask to be informed of the action taken.
+
+6\. Where the Director-General decides not to open an investigation despite there being a sufficient suspicion that there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union, he or she shall send the information referred to in paragraph 5 without delay.
+
+## Article 6 — Access to information in databases prior to the opening of an investigation
+
+1\. Prior to the opening of an investigation, the Office shall have the right of access to any relevant information in databases held by the institutions, bodies, offices or agencies when this is indispensable in order to assess the basis in fact of allegations. That right of access shall be exercised within the time-limit, to be set by the Office, required for a prompt assessment of the allegations. In exercising that right of access, the Office shall respect the principles of necessity and proportionality.
+
+2\. The institution, body, office or agency concerned shall sincerely cooperate by allowing the Office to obtain any relevant information under conditions to be specified in the decisions adopted under Article 4(1).
+
+## Article 7 — Investigations procedure
+
+1\. The Director-General shall direct the conduct of investigations on the basis, where appropriate, of written instructions. Investigations shall be conducted under his or her direction by the staff of the Office designated by him or her. The Director-General shall not personally carry out concrete investigative acts.
+
+2\. The staff of the Office shall carry out their tasks on production of a written authorisation showing their identity and their capacity. The Director-General shall issue such authorisation indicating the subject matter and the purpose of the investigation, the legal bases for conducting the investigation and the investigative powers stemming from those bases.
+
+3\. The competent authorities of Member States shall give the necessary assistance to enable the staff of the Office to fulfil their tasks in accordance with this Regulation effectively and without undue delay. When providing such assistance, the competent authorities of Member States shall act in accordance with any national procedural rules applicable to them.
+
+3a. At the request of the Office, which shall be explained in writing, in relation to matters under investigation, the relevant competent authorities of the Member States shall, under the same conditions as those that apply to the national competent authorities, provide the Office with the following:
+
+(a) information available in the centralised automated mechanisms referred to in Article 32a(3) of Directive (EU) 2015/849 of the European Parliament and of the Council ( 4 );
+
+(b) where strictly necessary for the purposes of the investigation, the record of transactions.
+
+The request of the Office shall include a justification of the appropriateness and proportionality of the measure with regard to the nature and gravity of the matters under investigation. Such request shall refer only to information referred to in points (a) and (b) of the first subparagraph.
+
+Member States shall notify to the Commission the relevant competent authorities for the purposes of points (a) and (b) of the first subparagraph.
+
+3b. The institutions, bodies, offices and agencies shall ensure that their officials, other servants, members, heads and staff members provide the necessary assistance to enable the staff of the Office to fulfil their tasks effectively and without undue delay.
+
+4\. Where an investigation combines external and internal elements, Articles 3 and 4 shall apply respectively.
+
+5\. Investigations shall be conducted continuously over a period which must be proportionate to the circumstances and complexity of the case.
+
+6\. Where investigations show that it might be appropriate to take precautionary administrative measures to protect the financial interests of the Union, the Office shall without delay inform the institution, body, office or agency concerned of the investigation in progress. The information supplied shall include the following:
+
+(a) the identity of the official, other servant, member of an institution or body, head of office or agency, or staff member concerned and a summary of the facts in question;
+
+(b) any information that could assist the institution, body, office or agency concerned in deciding on the appropriate precautionary administrative measures to be taken in order to protect the financial interests of the Union;
+
+(c) any special measures of confidentiality recommended, in particular in cases entailing the use of investigative measures falling within the competence of a national judicial authority or, in the case of an external investigation, within the competence of a national authority, in accordance with the national rules applicable to investigations.
+
+The institution, body, office or agency concerned may at any time consult the Office with a view to taking, in close cooperation with the Office, any appropriate precautionary measures, including measures for the safeguarding of evidence. The institution, body, office or agency concerned shall inform the Office without delay about any precautionary measures taken.
+
+7\. Where necessary, it shall be for the competent authorities of the Member States, at the Office’s request, to take the appropriate precautionary measures under their national law, in particular measures for the safeguarding of evidence.
+
+8\. If an investigation cannot be closed within 12 months after it has been opened, the Director-General shall, at the expiry of that 12-month period and every six months thereafter, report to the Supervisory Committee, indicating the reasons and, where appropriate, the remedial measures envisaged with a view to speeding up the investigation.
+
+## Article 8 — Duty to inform the Office
+
+1\. In the areas referred to in Article 1, the institutions, bodies, offices and agencies shall transmit to the Office without delay any information relating to possible cases of fraud, corruption or any other illegal activity affecting the financial interests of the Union.
+
+Where the institutions, bodies, offices and agencies report to the EPPO in accordance with Article 24 of Regulation (EU) 2017/1939, they may comply with the obligation set out in the first subparagraph of this paragraph by transmitting to the Office a copy of the report sent to the EPPO.
+
+2\. The institutions, bodies, offices and agencies and, unless prevented by national law, the competent authorities of Member States shall, at the request of the Office or on their own initiative, transmit without delay to the Office any document or information they hold which relates to an ongoing investigation by the Office.
+
+Prior to the opening of an investigation they shall, at the request of the Office, which shall be explained in writing,transmit any document or information they hold which is necessary to assess the allegations or to apply the criteria for opening an investigation as set out in Article 5(1).
+
+3\. The institutions, bodies, offices and agencies and, unless prevented by national law, the competent authorities of Member States shall transmit without delay to the Office, at the request of the Office or on their own initiative, any other information, documents or data considered pertinent which they hold, relating to the fight against fraud, corruption and any other illegal activity affecting the financial interests of the Union.
+
+4\. This Article shall not apply to the EPPO as regards the criminal offences in respect of which it could exercise its competence in accordance with Chapter IV of Regulation (EU) 2017/1939.
+
+This is without prejudice to the possibility for the EPPO to provide the Office with relevant information on cases in accordance with Articles 34(8), 36(6), 39(4) and Article 101(3) and (4) of Regulation (EU) 2017/1939.
+
+5\. The provisions related to transmission of information in accordance with Council Regulation (EU) No 904/2010 ( 5 ) shall remain unaffected.
+
+## Article 9 — Procedural guarantees
+
+1\. In its investigations the Office shall seek evidence for and against the person concerned. Investigations shall be conducted objectively and impartially and in accordance with the principle of the presumption of innocence and with the procedural guarantees set out in this Article.
+
+2\. The Office may interview a person concerned or a witness at any time during an investigation. Any person interviewed shall have the right to avoid self-incrimination.
+
+The invitation to an interview shall be sent to a person concerned with at least 10 working days’ notice. That notice period may be shortened with the express consent of the person concerned or on duly reasoned grounds of urgency of the investigation. In the latter case, the notice period shall not be less than 24 hours. The invitation shall include a list of the rights of the person concerned, in particular the right to be assisted by a person of his choice.
+
+The invitation to an interview shall be sent to a witness with at least 24 hours’ notice. That notice period may be shortened with the express consent of the witness or on duly reasoned grounds of urgency of the investigation.
+
+The requirements referred to in the second and third subparagraphs shall not apply to the taking of statements in the context of on-the-spot checks and inspections.The procedural guarantees as referred to in Article 3(7) and (8) shall apply to the person concerned, in particular the right to be assisted by a person of his or her choice.
+
+Where, in the course of an interview, evidence emerges that a witness may be a person concerned, the interview shall be ended. The procedural rules provided for in this paragraph and in paragraphs 3 and 4 shall immediately apply. That witness shall be informed forthwith of his rights as a person concerned and shall receive, upon request, a copy of the records of any statements made by him in the past. The Office may not use that person’s past statements against him without giving him first the opportunity to comment on those statements.
+
+The Office shall draw up a record of the interview and give the person interviewed access to it so that the person interviewed may either approve the record or add observations. The Office shall give the person concerned a copy of the record of the interview.
+
+3\. As soon as an investigation reveals that an official, other servant, member of an institution or body, head of office or agency, or staff member may be a person concerned, that official, other servant, member of an institution or body, head of office or agency, or staff member shall be informed to that effect, provided that this does not prejudice the conduct of the investigation or of any investigative proceedings falling within the remit of a national judicial authority.
+
+4\. Without prejudice to Articles 4(6) and 7(6), once the investigation has been completed and before conclusions referring by name to a person concerned are drawn up, that person shall be given the opportunity to comment on facts concerning him.
+
+To that end, the Office shall send the person concerned an invitation to comment either in writing or at an interview with staff designated by the Office. That invitation shall include a summary of the facts concerning the person concerned and the information required by Articles 15 and 16 of Regulation (EU) 2018/1725, and shall indicate the timelimit for submitting comments, which shall not be less than 10 working days from receipt of the invitation to comment. That notice period may be shortened with the express consent of the person concerned or on duly reasoned grounds of urgency of the investigation. The final investigation report shall make reference to any such comments.
+
+In duly justified cases where necessary to preserve the confidentiality of the investigation or an ongoing or future criminal investigation by the EPPO or a national judicial authority, the Director-General may, where appropriate after consulting the EPPO or the national judicial authority concerned, decide to defer the fulfilment of the obligation to invite the person concerned to comment.
+
+In cases referred to in Article 1(2) of Annex IX to the Staff Regulations, failure on the part of the institution, body, office or agency to respond within one month to the request of the Director-General for deferral of the fulfilment of the obligation to invite the person concerned to comment shall be deemed to constitute a reply in the affirmative.
+
+5\. Any person interviewed shall be entitled to use any of the official languages of the institutions of the Union. However, officials or other servants of the Union may be required to use an official language of the institutions of the Union of which they have a thorough knowledge.
+
+## Article 9a — Controller of procedural guarantees
+
+1\. A Controller of procedural guarantees (the ‘Controller’) shall be appointed by the Commission, in accordance with the procedure specified in paragraph 2, for a non-renewable term of office of five years. On expiry of that term of office, the Controller shall remain in office until he or she is replaced.
+
+2\. The Controller shall be administratively attached to the Supervisory Committee. The Secretariat of the Supervisory Committee shall provide the Controller with all necessary administrative and legal support.
+
+3\. The Commission shall, from within its approved budget, allocate to the Supervisory Committee the personnel and financial means necessary for the Controller.
+
+4\. Following a call for applications in the Official Journal of the European Union, the Commission shall draw up a list of suitably qualified candidates for the position of the Controller. After consulting the European Parliament and the Council, the Commission shall appoint the Controller.
+
+5\. The Controller shall have the necessary qualifications and experience in the field of procedural guarantees.
+
+6\. The Controller shall exercise his or her functions in complete independence, including from the Office and from the Supervisory Committee, and shall neither seek nor take instructions from anyone in the performance of his or her duties.
+
+7\. If the Controller ceases to fulfil the conditions required for the performance of his or her duties, or if the Controller is found guilty of serious misconduct, the European Parliament, the Council and the Commission may, by common accord, relieve the Controller of his or her duties.
+
+8\. Pursuant to the mechanism referred to in Article 9b, the Controller shall monitor the Office’s compliance with procedural guarantees referred to in Article 9, as well as the rules applicable to investigations by the Office. The Controller shall be responsible for handling complaints referred to in Article 9b.
+
+9\. The Controller shall report on the exercise of this function on an annual basis to the European Parliament, the Council, the Commission, the Supervisory Committee and the Office. He or she shall not refer to individual cases under investigation and shall ensure the confidentiality of investigations even after their closure. The Controller shall report to the Supervisory Committee on any systemic issue arising out of his or her recommendations.
+
+## Article 9b — Complaints mechanism
+
+1\. A person concerned shall be entitled to lodge a complaint with the Controller regarding the Office’s compliance with the procedural guarantees referred to in Article 9, as well as on the grounds of an infringement of the rules applicable to investigations by the Office, in particular infringements of procedural requirements and fundamental rights. The lodging of a complaint shall have no suspensive effect on the conduct of the investigation that is the subject of the complaint.
+
+2\. Complaints shall be lodged within one month of the complainant becoming aware of the relevant facts that constitute an alleged infringement of the procedural guarantees or rules referred to in paragraph 1 of this Article. In any event, they shall be lodged no more than one month after the closure of the investigation.
+
+Complaints related to the notice period referred to in Article 9(2) and (4) shall, however, be lodged before the expiry of the 10-day notice period referred to in those provisions.
+
+3\. The Controller shall inform the Director-General immediately upon receipt of a complaint.
+
+Within 10 working days of the date of receipt, the Controller shall determine whether paragraphs 1 and 2 are complied with.
+
+In the event of compliance with paragraphs 1 and 2, the Controller shall invite the Office to take action to resolve the complaint and inform the Controller accordingly within 15 working days.
+
+In the event of non-compliance with paragraph 1 or 2, the Controller shall close the file and inform the complainant without delay.
+
+4\. Without prejudice to Article 10, the Office shall transmit to the Controller all information necessary for the Controller to assess whether the complaint is justified as well as information for the purpose of resolving the complaint and enabling the Controller to issue a recommendation.
+
+5\. The Controller shall issue a recommendation on how to resolve the complaint without delay and in any event within two months of the Office informing the Controller of the action it has taken to resolve the complaint. In the absence of receipt of information within the 15-day time limit referred to in the third subparagraph of paragraph 3, the Controller shall issue a recommendation within two-months of the expiry of that time limit.
+
+In exceptional cases the Controller may decide to extend the period for issuing a recommendation by a further 15 calendar days. The Controller shall inform the Director-General of the reasons for such an extension in writing.
+
+The Controller may recommend that the Office amend or repeal its recommendations or reports, on the grounds of an infringement of the procedural guarantees referred to in Article 9 or of the rules applicable to investigations by the Office, in particular infringements of procedural requirements and fundamental rights.
+
+Before issuing a recommendation the Controller shall consult the Supervisory Committee for its opinion.
+
+The Controller shall submit the recommendation to the Office and notify the complainant accordingly.
+
+In the absence of a recommendation by the Controller within the time limits set out in this paragraph, the Controller shall be deemed to have dismissed the complaint without a recommendation.
+
+6\. The Controller shall examine the complaint in an adversarial procedure without interfering with the conduct of the investigation under way.
+
+The Controller may also ask witnesses to provide written or oral explanations that the Controller considers relevant to ascertaining the facts. Witnesses may refuse to provide such explanations.
+
+7\. The Director-General shall take appropriate action as warranted by the recommendation. If the Director-General decides not to follow the Controller’s recommendation, the Director-General shall communicate to the complainant and to the Controller the main reasons for that decision, unless such a communication would affect the on-going investigation. The Director-General shall state the reasons for not following the Controller’s recommendation in a note attached to the final investigation report.
+
+8\. The complaint mechanism under this Article is without prejudice to the means of redress available under the Treaties, including actions relating to compensation for damage.
+
+9\. The Director-General may request the opinion of the Controller on any matter related to procedural guarantees or fundamental rights that falls within the Controller’s mandate, including on a decision to defer informing the person concerned under Article 9(3). The Director-General shall indicate in any such request the time limit within which the Controller shall respond.
+
+10\. Without prejudice to the time limits provided for in Article 90 of the Staff Regulations, where a complaint has been lodged with the Director-General by an official or other servant of the Union in accordance with Article 90a of the Staff Regulations and the official or other servant has lodged a complaint with the Controller related to the same issue, the Director-General shall await the recommendation of the Controller before replying to the complaint.
+
+11\. The Controller shall, after consulting the Supervisory Committee, adopt implementing provisions for the handling of complaints.
+
+Those implementing provisions shall cover, in particular, detailed rules regarding:
+
+(a) the lodging of a complaint;
+
+(b) the exchange of information between the Supervisory Committee, the Controller and the Director-General;
+
+(c) the process for addressing the issues raised in a complaint by the Office;
+
+(d) the examination of a complaint in an adversarial procedure in accordance with the first subparagraph of paragraph 6;
+
+(e) the issuing and communication of the Controller's recommendation;
+
+(f) duly justified cases in which the Director-General may deviate from the Controller’s recommendation and the procedure to be followed in such cases.
+
+## Article 10 — Confidentiality and data protection
+
+1\. Information transmitted or obtained in the course of external investigations, in whatever form, shall be protected by the relevant provisions.
+
+2\. Information transmitted or obtained in the course of internal investigations, in whatever form, shall be subject to professional secrecy and shall enjoy the protection afforded by the rules applicable to the Union institutions.
+
+3\. The institutions, bodies, offices or agencies concerned shall ensure that the confidentiality of the investigations conducted by the Office is respected, together with the legitimate rights of the persons concerned, and, where judicial proceedings have been initiated, that all national rules applicable to such proceedings have been adhered to.
+
+3a. Directive (EU) 2019/1937 of the European Parliament and of the Council ( 6 ) shall apply to the reporting of fraud, corruption and any other illegal activity affecting the financial interests of the Union and the protection of persons reporting such breaches.
+
+3b. Where the Office recommends a judicial follow-up, without prejudice to the confidentiality rights of whistle-blowers and informants, and in accordance with the applicable confidentiality and data protection rules, the person concerned may request the Office to provide the report drawn up under Article 11 to the extent that it relates to the person concerned. The Office shall communicate that request without delay to all recipients of that report and shall grant access only with the explicit consent of the recipients. The recipients shall reply within a period of 12 months of receipt of the request. In the absence of an objection within that period, the Office shall grant access.
+
+The competent authority may also authorise the Office to grant access before this period has expired.
+
+4\. The Office shall designate a Data Protection Officer in accordance with Article 43 of Regulation (EU) 2018/1725.
+
+The Data Protection Officer shall be competent for the processing of data by the Office and by the secretariat of the Supervisory Committee.
+
+5\. The Director-General shall ensure that any information provided to the public is given neutrally and impartially, and that its disclosure respects the confidentiality of investigations and complies with the principles set out in this Article and in Article 9(1).
+
+In accordance with the Staff Regulations, the staff of the Office and the staff of the secretariat of the Supervisory Committee shall refrain from any unauthorised disclosure of information received in the exercise of their functions, unless that information has already been lawfully made public or is accessible to the public, and shall continue to be bound by that obligation after leaving the service.
+
+The members of the Supervisory Committee shall be bound by the same obligation of professional secrecy in the exercise of their functions, and shall continue to be bound by that obligation after the end of their mandate.
+
+## Article 11 — Investigation report and action to be taken following investigations
+
+1\. On completion of an investigation by the Office, a report shall be drawn up, under the authority of the Director-General. That report shall give an account of the legal basis for the investigation, the procedural steps followed, the facts established and their preliminary classification in law, the estimated financial impact of the facts established, the respect of the procedural guarantees in accordance with Article 9 and the conclusions of the investigation.
+
+The report shall, where appropriate, be accompanied by recommendations of the Director-General on action to be taken. Those recommendations shall, where appropriate, indicate any disciplinary, administrative, financial or judicial action to be taken by the institutions, bodies, offices and agencies and by the competent authorities of the Member States concerned, and shall specify in particular the estimated amounts to be recovered, as well as the preliminary classification in law of the facts established.
+
+2\. In drawing up the reports and recommendations referred to in paragraph 1, account shall be taken of the relevant provisions of Union law and, in so far as it is applicable, of the national law of the Member State concerned.
+
+Reports drawn up on the basis of the first subparagraph, together with all evidence in support and annexed thereto, shall constitute admissible evidence:
+
+(a) in judicial proceedings of a non-criminal nature before national courts and in administrative proceedings in the Member States;
+
+(b) in criminal proceedings of the Member State in which their use proves necessary in the same way and under the same conditions as administrative reports drawn up by national administrative inspectors and shall be subject to the same evaluation rules as those applicable to administrative reports drawn up by national administrative inspectors and shall have the same evidentiary value as such reports;
+
+(c) in judicial proceedings before the CJEU and in administrative proceedings in the institutions, bodies, offices and agencies.
+
+Member States shall notify to the Office any rules of national law relevant for the purposes of point (b) of the second subparagraph.
+
+With regard to point (b) of the second subparagraph, Member States shall, upon request of the Office, send to the Office the final decision of the national courts once the relevant judicial proceedings have been finally determined and the final court decision has become public.
+
+The power of the CJEU and national courts and competent bodies in administrative and criminal proceedings to freely assess the evidential value of the reports drawn up by the Office shall not be affected by this Regulation.
+
+2a. The Office shall take appropriate measures to ensure the consistent quality of reports and recommendations referred to in paragraph 1.
+
+3\. Reports and recommendations drawn up following an external investigation and any relevant related documents shall be sent to the competent authorities of the Member States concerned in accordance with the rules relating to external investigations and, if necessary, to the institution, body, office or agency concerned. The competent authorities of the Member State concerned and, if applicable, the institution, body, office or agency shall take such action as the results of the external investigation warrant and shall report thereon to the Office within a timelimit laid down in the recommendations accompanying the report and, in addition, at the request of the Office. Member States may notify to the Office the relevant national authorities competent to deal with such reports, recommendations and documents.
+
+4\. Reports and recommendations drawn up following an internal investigation and any relevant related documents shall be sent to the institution, body, office or agency concerned. That institution, body, office or agency shall take such action, in particular of a disciplinary or legal nature, as the results of the internal investigation warrant, and shall report thereon to the Office, within a time-limit laid down in the recommendations accompanying the report, and, in addition, at the request of the Office.
+
+5\. Where the report drawn up following an internal investigation reveals the existence of facts which could give rise to criminal proceedings, that information, together with the recommendations, shall be transmitted without delay to the judicial authorities of the Member State concerned, without prejudice to Articles 12c and 12d.
+
+At the request of the Office, the competent authorities of the Member States concerned shall, within a time limit laid down in the recommendations, send to the Office information on the action taken, if any, and the reasons for non-implementation of the recommendations, where applicable, following the transmission by the Office of any information in accordance with the first subparagraph of this paragraph.
+
+7\. Without prejudice to paragraph 4, if, on completion of an investigation, no evidence has been found against the person concerned, the Director-General shall close the investigation regarding that person and inform that person within 10 working days.
+
+8\. Where an informant provided the Office with information which led to the investigation, the Office shall notify that informant that the investigation has been closed, unless it considers that this information is such as to prejudice the legitimate interests of the person concerned and the effectiveness of the investigation and of the action to be taken subsequent thereto, or any confidentiality requirements.
+
+## Article 12 — Exchange of information between the Office and the competent authorities of the Member States
+
+1\. Without prejudice to Articles 10 and 11 of this Regulation and to the provisions of Regulation (Euratom, EC) No 2185/96, the Office may transmit to the competent authorities of the Member States concerned information obtained in the course of external investigations in due time to enable them to take appropriate action in accordance with their national law. It may also transmit such information to the institution, body, office or agency concerned.
+
+2\. Without prejudice to Articles 10 and 11, the Director-General shall transmit to the judicial authorities of the Member State concerned information obtained by the Office, in the course of internal investigations, concerning facts which fall within the jurisdiction of a national judicial authority.
+
+In accordance with Article 4 and without prejudice to Article 10, the Director-General shall also transmit to the institution, body, office or agency concerned the information referred to in the first subparagraph of this paragraph, including the identity of the person concerned, a summary of the facts established, their preliminary classification in law and the estimated impact on the financial interests of the Union.
+
+Article 9(4) shall apply.
+
+3\. The competent authorities of the Member State concerned shall, unless prevented by national law, inform the Office without delay, and in any event within 12 months of receipt of the information transmitted to them in accordance with this Article, of the action taken on the basis of that information.
+
+4\. The Office may provide evidence in proceedings before national courts and tribunals in conformity with national law and the Staff Regulations.
+
+5\. The Office may provide relevant information to the Eurofisc network established by Regulation (EU) No 904/2010. Eurofisc working field coordinators may transmit relevant information from the Eurofisc network to the Office under the conditions laid down in Regulation (EU) No 904/2010.
+
+## Article 12a — Anti-fraud coordination services
+
+1\. Each Member State shall, for the purposes of this Regulation, designate a service (the ‘anti-fraud coordination service’) to facilitate effective cooperation and exchange of information, including information of an operational nature, with the Office. Where appropriate, in accordance with national law, the anti-fraud coordination service may be regarded as a competent authority for the purposes of this Regulation.
+
+2\. Upon request of the Office, before a decision has been taken as to whether or not to open an investigation, as well as during or after an investigation, the anti-fraud coordination services shall provide or coordinate the necessary assistance for the Office to carry out its tasks effectively. Such assistance shall include in particular assistance from the competent authorities of Member States provided in accordance with Article 3(5) and (6), Article 7(3) and Article 8(2) and (3).
+
+3\. The anti-fraud coordination services may provide assistance to the Office upon request so that the Office may conduct coordination activities in accordance with Article 12b, including, where appropriate, horizontal cooperation and exchange of information between anti-fraud coordination services.
+
+## Article 12b — Coordination activities
+
+1\. Pursuant to Article 1(2), the Office may organise and facilitate cooperation between the competent authorities of Member States, institutions, bodies, offices and agencies as well as, in accordance with the cooperation and mutual assistance agreements and any other legal instrument in force, third-country authorities and international organisations. For the purpose of protecting the financial interests of the Union, the participating authorities and the Office may collect, analyse and exchange information, including operational information. The staff of the Office may accompany competent authorities carrying out investigative activities upon request of those authorities. Article 6, Article 7(6) and (7), Article 8(3) and Article 10 shall apply.
+
+2\. The Office shall, where appropriate, draw up a report on the coordination activities conducted and transmit it to the competent authorities of Member States and institutions, bodies, offices and agencies concerned.
+
+3\. This Article shall apply without prejudice to the exercise by the Office of powers conferred on the Commission in specific provisions governing mutual assistance between Member States’ administrative authorities and cooperation between those authorities and the Commission.
+
+4\. The Office may participate in joint investigation teams established in accordance with applicable Union law and in that framework exchange operational information acquired pursuant to this Regulation.
+
+## Article 12c — Reporting criminal conduct to the EPPO
+
+1\. The Office shall submit a report to the EPPO without undue delay on any criminal conduct in respect of which the EPPO could exercise its competence in accordance with Chapter IV of Regulation (EU) 2017/1939. The report shall be sent without undue delay before or during an investigation of the Office.
+
+2\. The report referred to in paragraph 1 shall contain, as a minimum, a description of the facts, including an assessment of the damage caused or likely to be caused, the possible legal qualification and any available information about potential victims, suspects or other persons involved.
+
+3\. The Office shall not be bound to report to the EPPO manifestly unsubstantiated allegations.
+
+4\. Where the information received by the Office does not include the elements set out in paragraph 2 of this Article, and there is no ongoing investigation of the Office, the Office may conduct a preliminary evaluation of the allegations. The evaluation shall be carried out without delay and in any case within two months of receipt of the information. In the course of that evaluation, Article 6 and Article 8(2) shall apply. Following this preliminary evaluation, the Office shall report to the EPPO any criminal conduct as referred to in paragraph 1 of this Article.
+
+5\. Where the criminal conduct referred to in paragraph 1 of this Article comes to light during an investigation by the Office, and the EPPO opens an investigation following the report referred to in that paragraph, the Office shall not continue its investigation into the same facts other than in accordance with Article 12e or 12f.
+
+For the purpose of applying the first subparagraph of this paragraph, the Office shall verify in accordance with Article 12g(2), via the EPPO’s case management system, whether the EPPO is conducting an investigation. The Office may request further information from the EPPO. The EPPO shall reply to such a request within a time limit to be set in accordance with Article 12g.
+
+6\. The institutions, bodies, offices and agencies may request the Office to conduct a preliminary evaluation of allegations reported to them. For the purposes of those requests, paragraphs 1 to 4 shall apply mutatis mutandis. The Office shall inform the institution, body, office or agency concerned of the results of the preliminary evaluation, unless providing such information could jeopardise an investigation conducted by the Office or by the EPPO.
+
+7\. Where, following the report to the EPPO in accordance with this Article, the Office closes its investigation, Article 9(4) and Article 11 shall not apply.
+
+## Article 12d — Non-duplication of investigations
+
+1\. Without prejudice to Articles 12e and 12f, the Director-General shall discontinue an ongoing investigation and shall not open a new investigation under Article 5 where the EPPO is conducting an investigation into the same facts. The Director-General shall inform the EPPO about each decision to discontinue taken on such grounds.
+
+For the purpose of applying the first subparagraph of this paragraph, the Office shall verify in accordance with Article 12g(2), via the EPPO’s case management system, whether the EPPO is conducting an investigation. The Office may request further information from the EPPO. The EPPO shall reply to such a request within a time limit to be set in accordance with Article 12g.
+
+Where the Office discontinues its investigation in accordance with the first subparagraph of this paragraph, Article 9(4) and Article 11 shall not apply.
+
+2\. The EPPO may, with a view to enabling the Office to consider appropriate administrative action in accordance with its mandate, provide relevant information to the Office about cases where the EPPO has decided not to conduct an investigation or has dismissed a case. Where new facts which were not known to the EPPO at the time of the decision to dismiss as referred to in Article 39(1) of the Regulation (EU) 2017/1939 become known to the Office, the Director General may ask the EPPO to reopen an investigation, in accordance with Article 39(2) of that Regulation.
+
+## Article 12e — The Office’s support to the EPPO
+
+1\. In the course of an investigation by the EPPO, and at the request of the EPPO in accordance with Article 101(3) of Regulation (EU) 2017/1939, the Office shall, in accordance with its mandate, support or complement the EPPO’s activity, in particular by:
+
+(a) providing information, analyses (including forensic analyses), expertise and operational support;
+
+(b) facilitating coordination of specific actions of the competent national administrative authorities and bodies of the Union;
+
+(c) conducting administrative investigations.
+
+When providing support to the EPPO, the Office shall refrain from performing acts or measures which could jeopardise the investigation or prosecution.
+
+2\. A request referred to in paragraph 1 shall be transmitted in writing and shall specify at least:
+
+(a) the information relating to the EPPO investigation in so far as relevant for the purpose of the request;
+
+(b) the measures which the EPPO requests the Office to perform;
+
+(c) where appropriate, the envisaged timing for carrying out the request.
+
+Where necessary, the Office may request additional information.
+
+3\. In order to protect the admissibility of evidence as well as fundamental rights and procedural guarantees, where the Office performs, within its mandate, supporting measures requested by the EPPO pursuant to this Article, the EPPO and the Office, acting in close cooperation, shall ensure that the applicable procedural safeguards of Chapter VI of Regulation (EU) 2017/1939 are observed.
+
+## Article 12f — Complementary investigations
+
+1\. Where the EPPO is conducting an investigation and the Director-General, in duly justified cases, considers that an investigation by the Office should also be opened in accordance with the mandate of the Office with a view to facilitating the adoption of precautionary measures or of financial, disciplinary or administrative action, the Office shall inform the EPPO in writing, specifying the nature and purpose of the investigation.
+
+After receipt of such information and within a time limit to be set in accordance with Article 12g, the EPPO may object to the opening of an investigation or to the performance of certain acts pertaining to the investigation. Where the EPPO objects to the opening of an investigation or to the performance of certain acts pertaining to an investigation, it shall notify the Office without undue delay when the grounds for the objection cease to apply.
+
+In the event that the EPPO does not object within the time limit to be set in accordance with Article 12g, the Office may open an investigation, which it shall conduct in consultation with the EPPO on an ongoing basis. If the EPPO subsequently objects, the Office shall suspend or discontinue its investigation, or refrain from performing certain acts pertaining to the investigation.
+
+2\. Where the EPPO informs the Office that it is not conducting an investigation in reply to a request for information submitted in accordance with Article 12d and subsequently opens an investigation into the same facts, it shall inform the Office without delay. If, following receipt of such information, the Director-General considers that the investigation opened by the Office should be continued with a view to facilitating the adoption of precautionary measures or of financial, disciplinary or administrative action, paragraph 1 of this Article shall apply.
+
+## Article 12g — Working arrangements and exchange of information with the EPPO
+
+1\. The Office shall agree on working arrangements with the EPPO. Such working arrangements shall establish, inter alia, practical arrangements for the exchange of information, including personal data, operational, strategic or technical information and classified information, and complementary investigations.
+
+The working arrangements shall include detailed arrangements on the continuous exchange of information during the receipt and verification of allegations for the purpose of determining the competence over investigations. They shall also include arrangements on the transfer of information between the Office and the EPPO, when the Office acts in support or in a complementary manner to the EPPO. They shall provide for time limits for answering each others requests.
+
+The Office and the EPPO shall agree on the time limits and the detailed arrangements with regard to Article 12c(5), Article 12d(1) and Article 12f(1). Until such agreement is reached, the EPPO shall reply to the Office's requests without delay, and in any case within 10 working days of a request as referred to in Article 12c(5) and Article 12d(1) and 20 working days of a request for information as referred to in the first subparagraph of Article 12f(1).
+
+Prior to the adoption of the working arrangements with the EPPO, the Director-General shall send the draft to the Supervisory Committee, and to the European Parliament and to the Council for information. The Supervisory Committee shall deliver an opinion without delay.
+
+2\. The Office shall have indirect access to information in the EPPO’s case management system on the basis of a hit/no-hit system.
+
+Whenever a match is found between data entered into the case management system by the Office and data held by the EPPO, the fact that there is a match shall be communicated to both the Office and the EPPO. The Office shall take appropriate measures to enable the EPPO to have access to information in its case management system on the basis of a hit/no-hit system.
+
+The technical and security aspects of the reciprocal access to the case management systems, including internal procedures to ensure that each access is duly justified for the performance of their functions and is documented, shall be established in the working arrangements.
+
+3\. The Director-General and the European Chief Prosecutor shall meet at least annually to discuss matters of common interest.
+
+## Article 13 — Cooperation of the Office with Eurojust and Europol
+
+1\. Within its mandate to protect the financial interests of the Union, the Office shall cooperate, as appropriate, with the European Union Agency for Criminal Justice Cooperation (Eurojust) and with the European Union Agency for Law Enforcement Cooperation (Europol). Where necessary in order to facilitate that cooperation, the Office shall agree with Eurojust and Europol on administrative arrangements. Such working arrangements may concern exchange of operational, strategic or technical information, including personal data and classified information and, on request, progress reports.
+
+Where this may support and strengthen coordination and cooperation between national investigating and prosecuting authorities, or where the Office has forwarded to the competent authorities of the Member States information giving grounds for suspecting the existence of fraud, corruption or any other illegal activity affecting the financial interests of the Union in the form of serious crime, it shall transmit relevant information to Eurojust, within the mandate of Eurojust.
+
+2\. The competent authorities of the Member States concerned shall be informed, in a timely manner, by the Office in cases where information provided by them is transmitted by the Office to Eurojust or Europol.
+
+## Article 14 — Cooperation with third countries and international organisations
+
+1\. Administrative arrangements may be agreed, as appropriate, by the Office with competent authorities in third countries and with international organisations. The Office shall coordinate its action, as appropriate, with the competent Commission services and with the European External Action Service, in particular before agreeing on such arrangements. Such arrangements may concern exchange of operational, strategic or technical information, including, on request, progress reports.
+
+2\. The Office shall inform the competent authorities of the Member States concerned before information provided by them is transmitted by the Office to competent authorities in third countries or to international organisations.
+
+The Office shall keep a record of all transmissions of personal data, including the grounds for such transmissions, in accordance with Regulation (EC) No 45/2001.
+
+## Article 15 — Supervisory Committee
+
+1\. The Supervisory Committee shall regularly monitor the implementation by the Office of its investigative function, in order to reinforce the Office’s independence in the proper exercise of the competences conferred upon it by this Regulation.
+
+The Supervisory Committee shall in particular monitor developments concerning the application of procedural guarantees and the duration of investigations.
+
+The Supervisory Committee shall address to the Director-General opinions, including where appropriate, recommendations on, inter alia, the resources needed to carry out the investigative function of the Office, on the investigative priorities of the Office and on the duration of investigations. Those opinions may be delivered on its own initiative, at the request of the Director-General or at the request of an institution, body, office or agency, without however interfering with the conduct of investigations in progress.
+
+The Office shall publish on its website its replies to the opinions delivered by the Supervisory Committee.
+
+The institutions, bodies, offices or agencies shall be provided with a copy of opinions delivered pursuant to the third subparagraph.
+
+The Supervisory Committee shall be granted access to all the information and documents it considers necessary for the performance of its tasks, including reports and recommendations on closed investigations and cases dismissed, without however interfering with the conduct of investigations in progress and with due regard to the requirements of confidentiality and data protection.
+
+2\. The Supervisory Committee shall be composed of five independent members having experience in senior judicial or investigative functions or comparable functions relating to the areas of activity of the Office. They shall be appointed by common accord of the European Parliament, the Council and the Commission.
+
+The decision appointing the members of the Supervisory Committee shall also include a reserve list of potential members to replace members of the Supervisory Committee for the remainder of their term of office in the event of the resignation, death or permanent incapacity of one or more of those members.
+
+3\. The term of office of members of the Supervisory Committee shall be five years and shall not be renewable. Three and two members shall be replaced alternately in order to preserve the Supervisory Committee’s expertise.
+
+4\. On expiry of their term of office, members of the Supervisory Committee shall remain in office until they are replaced.
+
+5\. If a member of the Supervisory Committee ceases to fulfil the conditions governing the performance of his duties, or if he has been found guilty of serious misconduct, the European Parliament, the Council and the Commission may, by common accord, relieve him of his duties.
+
+6\. In accordance with the applicable Commission rules, members of the Supervisory Committee shall receive a daily allowance and shall be reimbursed for expenses incurred by them in the course of their duties.
+
+7\. In carrying out their duties, the members of the Supervisory Committee shall neither seek nor take instructions from any government or any institution, body, office or agency.
+
+8\. The Supervisory Committee shall appoint its chair. It shall adopt its own rules of procedure, which shall, before adoption, be submitted to the European Parliament, the Council, the Commission and the European Data Protection Supervisor for information. Meetings of the Supervisory Committee shall be convened on the initiative of its chair or the Director-General. It shall hold at least 10 meetings per year. The Supervisory Committee shall take its decisions by a majority of its component members. Its secretariat shall be provided by the Commission and in close cooperation with the Supervisory Committee. Before the appointment of any staff to the secretariat, the Supervisory Committee shall be consulted and its views shall be taken into account. The secretariat shall act on the instructions of the Supervisory Committee and independently from the Commission. Without prejudice to its control over the budget of the Supervisory Committee and its secretariat, the Commission shall not interfere with the monitoring functions of the Supervisory Committee.
+
+Officials assigned to the secretariat of the Supervisory Committee shall neither seek nor take instructions from any government or any institution, body, office or agency relating to the exercise of the monitoring functions of the Supervisory Committee.
+
+9\. The Supervisory Committee shall adopt at least one report on its activities per year, covering in particular the assessment of the Office’s independence, the application of procedural guarantees and the duration of investigations. Those reports shall be sent to the European Parliament, the Council, the Commission and the Court of Auditors.
+
+The Supervisory Committee may submit reports to the European Parliament, the Council, the Commission and the Court of Auditors on the results of the Office’s investigations and the action taken on the basis of those results.
+
+## Article 16 — Exchange of views with the institutions
+
+1\. The European Parliament, the Council and the Commission shall once a year meet the Director-General for an exchange of views at political level to discuss the Office’s policy relating to methods of preventing and combating fraud, corruption or any other illegal activity affecting the financial interests of the Union. The Supervisory Committee shall participate in the exchange of views. The European Chief Prosecutor shall be invited to attend the exchange of views. Representatives of the Court of Auditors, the EPPO, Eurojust and Europol may be invited to attend on an ad hoc basis upon request of the European Parliament, of the Council, of the Commission, of the Director-General or of the Supervisory Committee.
+
+2\. Within the objective of paragraph 1, the exchange of views may relate to any subject the European Parliament, the Council and the Commission agree on. In particular, the exchange of views may relate to:
+
+(a) the strategic priorities for the Office’s investigation policies;
+
+(b) the opinions and activity reports of the Supervisory Committee provided for under Article 15;
+
+(c) the reports of the Director-General under Article 17(4) and, as appropriate, any other reports by the institutions relating to the mandate of the Office;
+
+(d) the framework of the relations between the Office and the institutions, bodies, offices and agencies, in particular the EPPO, including any horizontal and systemic issues encountered in the follow-up to the Office’s final investigation reports;
+
+(e) the framework of the relations between the Office and the competent authorities of Member States, including any horizontal and systemic issues encountered in the follow-up to the Office’s final investigation reports;
+
+(f) the relations between the Office and the competent authorities in third countries as well as international organisations in the framework of the arrangements referred to in this Regulation;
+
+(g) the effectiveness of the work of the Office with regard to the performance of its mandate.
+
+3\. All institutions participating in the exchange of views shall ensure that the exchange of views does not interfere with the conduct of investigations in progress.
+
+4\. The institutions participating in the exchange of views shall take into account in their actions the opinions expressed in that exchange. The Director-General shall provide, in the reports referred to in Article 17(4), information on the actions, if any, taken by the Office.
+
+## Article 17 — Director-General
+
+1\. The Office shall be headed by a Director-General. The Director-General shall be appointed by the Commission, in accordance with the procedure specified in paragraph 2. The term of office of the Director-General shall be seven years and shall not be renewable.
+
+2\. In order to appoint a new Director-General, the Commission shall publish a call for applications in the Official Journal of the European Union. Such publication shall take place at the latest six months before the end of the term of office of the Director-General in office. The Commission shall draw up a list of suitably qualified candidates. After a favourable opinion has been given by the Supervisory Committee on the selection procedure applied by the Commission, the European Parliament and the Council shall in due time agree on a shortlist of three candidates from the list of suitable candidates drawn up by the Commission. The Commission shall appoint the Director-General from that shortlist.
+
+3\. The Director-General shall neither seek nor take instructions from any government or any institution, body, office or agency in the performance of his or her duties with regard to the opening and carrying-out of external and internal investigations or coordination activities, or to the drafting of reports following such investigations or coordination activities. If the Director-General considers that a measure taken by the Commission calls his or her independence into question, he or she shall immediately inform the Supervisory Committee and shall decide whether to bring an action against the Commission before the CJEU.
+
+4\. The Director-General shall report regularly, and at least annually, to the European Parliament, to the Council, to the Commission and to the Court of Auditors on the findings of investigations carried out by the Office, the action taken and the problems encountered, whilst respecting the confidentiality of the investigations, the legitimate rights of the persons concerned and of informants, and, where appropriate, national law applicable to judicial proceedings. Those reports shall also include an assessment of the actions taken by the competent authorities of Member States and the institutions, bodies, offices and agencies, following reports and recommendations drawn up by the Office.
+
+4a. At the request of the European Parliament or of the Council, in the context of their budgetary control rights, the Director-General may provide information about the Office’s activities, respecting the confidentiality of investigations and follow-up proceedings. The European Parliament and the Council shall ensure the confidentiality of information provided in accordance with this paragraph.
+
+5\. The Director-General shall keep the Supervisory Committee periodically informed of the Office’s activities, the implementation of its investigative function and the action taken by way of follow-up to investigations.
+
+The Director-General shall inform the Supervisory Committee periodically:
+
+(a) of cases in which the recommendations made by the Director-General have not been followed;
+
+(b) of cases in which information has been transmitted to judicial authorities of the Member States or to the EPPO;
+
+(c) of cases in which no investigation has been opened and of cases dismissed;
+
+(d) on the duration of investigations in accordance with Article 7(8).
+
+6\. The Director-General may delegate in writing the exercise of certain of his functions under Article 5, Article 7(2), Article 11(7) and Article 12(2) to one or more members of the staff of the Office, specifying the conditions and limits governing such delegation.
+
+7\. The Director-General shall put in place an internal advisory and control procedure, including a legality check, relating, inter alia, to the respect of procedural guarantees and fundamental rights of the persons concerned and of the national law of the Member States concerned, with particular reference to Article 11(2). The legality check shall be carried out by Office staff who are experts in law and investigative procedures. Their opinion shall be annexed to the final investigation report.
+
+8\. The Director-General shall adopt guidelines on investigation procedures for the staff of the Office. Those guidelines shall be in accordance with this Regulation and shall cover, inter alia:
+
+(a) the practices to be observed in implementing the mandate of the Office;
+
+(b) detailed rules governing investigations procedures;
+
+(c) the procedural guarantees;
+
+(d) details on the internal advisory and control procedures, including the legality check;
+
+(e) data protection and policies on communication and access to documents as laid down in Article 10(3b);
+
+(f) relations with the EPPO.
+
+Those guidelines, and any modification thereto, shall be adopted after the Supervisory Committee has been given the opportunity to submit its observations thereon and shall then be transmitted for information to the European Parliament, the Council and the Commission, and published for information purposes on the Office’s website in the official languages of the institutions of the Union.
+
+9\. Before imposing any disciplinary penalty on the Director-General or waiving his or her immunity, the Commission shall consult the Supervisory Committee.
+
+The imposition of any disciplinary penalty on the Director-General shall be the subject of a reasoned decision, which shall be forwarded for information to the European Parliament, the Council and the Supervisory Committee.
+
+10\. Any reference to the ‘Director’ of the Office in any legal text shall be read as a reference to the Director-General.
+
+## Article 18 — Financing
+
+The total appropriations for the Office shall be entered under a specific budget line within the section of the general budget of the European Union relating to the Commission and shall be set out in detail in an Annex to that section. The appropriations for the Supervisory Committee and its secretariat shall be entered into the section of the general budget of the European Union relating to the Commission.
+
+The establishment plan of the Office shall be annexed to the establishment plan of the Commission. The establishment plan of the Commission shall include the secretariat of the Supervisory Committee.
+
+## Article 19 — Evaluation report and possible revision
+
+1\. No later than five years after the date determined in accordance with the second subparagraph of Article 120(2) of Regulation (EU) 2017/1939, the Commission shall submit to the European Parliament and to the Council an evaluation report on the application and impact of this Regulation, in particular as regards the effectiveness and efficiency of the cooperation between the Office and the EPPO. That report shall be accompanied by an opinion of the Supervisory Committee.
+
+2\. No later than two years after the submission of the evaluation report pursuant to the first paragraph, the Commission shall, where appropriate, submit a legislative proposal to the European Parliament and to the Council to modernise the Office’s framework, including additional or more detailed rules on the setting up of the Office, its functions or the procedures applicable to its activities, with particular regard to its cooperation with the EPPO, cross-border investigations and investigations in Member States not participating in the EPPO.
+
+## Article 20 — Repeal
+
+Regulation (EC) No 1073/1999 and Regulation (Euratom) No 1074/1999 are hereby repealed.
+
+References to the repealed Regulations shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II.
+
+## Article 21 — Entry into force and transitional provisions
+
+1\. This Regulation shall enter into force on the first day of the month following its publication in the Official Journal of the European Union.
+
+2\. Article 15(3) shall apply to the duration of the term of office of the members of the Supervisory Committee in office at the date of entry into force of this Regulation. Immediately after the entry into force of this Regulation, the President of the European Parliament shall choose by lot, from amongst the members of the Supervisory Committee, two members whose duties are to end, by way of derogation from the first sentence of Article 15(3), upon expiry of the first 36 months of their term of office. Two new members shall be appointed automatically for a term of office of five years to replace the outgoing members, on the basis and in the order of the list set out in Article 1(2) of Decision 2012/45/EU, Euratom of the European Parliament, the Council and the Commission of 23 January 2012 appointing the members of the Supervisory Committee of the European Anti-Fraud Office (OLAF) ( 7 ). Those new members shall be the first two persons whose names appear in that list.
+
+3\. The third sentence of Article 17(1) shall apply to the duration of the term of office of the Director-General in office at the date of entry into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**REPEALED REGULATIONS (REFERRED TO IN ARTICLE 20)**
+
+Regulation (EC) No 1073/1999 of the European Parliament and of the Council
+
+(OJ L 136, 31.5.1999, p. 1).
+
+Council Regulation (Euratom) No 1074/1999
+
+(OJ L 136, 31.5.1999, p. 8)
+
+## ANNEX II
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 1073/1999 and Regulation (Euratom) No 1074/1999 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| — | Article 1(3) |
+| Article 1(3) | Article 1(4) |
+| — | Article 1(5) |
+| — | Article 2, point 1 |
+| — | Article 2, point 2 |
+| — | Article 2, point 3 |
+| Article 2 | Article 2, point 4 |
+| — | Article 2, point 5 |
+| — | Article 2, point 6 |
+| — | Article 2, point 7 |
+| Article 3, first paragraph | Article 3(1), first subparagraph |
+| Article 3, second paragraph | Article 3(1), second subparagraph |
+| — | Article 3(2) |
+| — | Article 3(3), second subparagraph |
+| — | Article 3(3), third subparagraph |
+| — | Article 3(4) |
+| — | Article 3(5) |
+| — | Article 3(6) |
+| Article 4(1), first subparagraph | Article 4(1), first subparagraph |
+| Article 4(1), second subparagraph | Article 4(1), second subparagraph |
+| Article 4(2) | Article 4(2) |
+| Article 4(3), first subparagraph | Article 4(3) |
+| Article 4(3), second subparagraph | — |
+| Article 4(4) | Article 4(4), first sentence |
+| — | Article 4(5) |
+| Article 4(5), first subparagraph | Article 4(6), first subparagraph |
+| — | Article 4(6), second subparagraph |
+| Article 4(5), second subparagraph | Article 4(6), third subparagraph |
+| Article 4(6), point (a) | Article 4(7) |
+| Article 4(6), point (b) | — |
+| — | Article 4(8) |
+| — | Article 5(1) |
+| Article 5, first paragraph | Article 5(2), first subparagraph |
+| Article 5, second paragraph | Article 5(2), second subparagraph |
+| — | Article 5(3) |
+| — | Article 5(4) |
+| — | Article 5(5) |
+| — | Article 5(6) |
+| — | Article 6 |
+| Article 6(1) | Article 7(1) |
+| Article 6(2) | Article 7(2), first sentence |
+| Article 6(3) | Article 7(2), second sentence |
+| Article 6(4) | Article 3(3), first subparagraph |
+| — | Article 7(4) |
+| Article 6(5) | Article 7(5) |
+| Article 6(6) | Article 7(3) |
+| — | Article 7(6) |
+| — | Article 7(7) |
+| — | Article 7(8) |
+| Article 7(1) | Article 8(1) |
+| Article 7(2) | Article 8(2) |
+| Article 7(3) | Article 8(3) |
+| — | Article 9 |
+| Article 8(1) | Article 10(1) |
+| Article 8(2), first subparagraph | Article 10(2) |
+| Article 8(2), second subparagraph | — |
+| Article 8(3) | — |
+| Article 8(4) | — |
+| — | Article 10(4) |
+| — | Article 10(5) |
+| Article 9(1) | Article 11(1), first subparagraph |
+| — | Article 11(1), second subparagraph |
+| Article 9(2) | Article 11(2) |
+| Article 9(3) | Article 11(3) |
+| Article 9(4) | Article 11(4) |
+| — | Article 11(5) |
+| — | Article 11(6) |
+| — | Article 11(7) |
+| — | Article 11(8) |
+| Article 10(1) | Article 12(1) |
+| Article 10(2) | Article 12(2), first subparagraph |
+| — | Article 12(2), second subparagraph |
+| — | Article 12(2), third subparagraph |
+| Article 10(3) | Article 4(4), second sentence |
+| — | Article 12(3) |
+| — | Article 12(4) |
+| — | Article 13 |
+| — | Article 14 |
+| Article 11(1), first subparagraph | Article 15(1), first subparagraph |
+| — | Article 15(1), second subparagraph |
+| Article 11(1), second subparagraph | Article 15(1), third subparagraph |
+| — | Article 15(1), fourth subparagraph |
+| — | Article 15(1), fifth subparagraph |
+| Article 11(2) | Article 15(2), first subparagraph |
+| — | Article 15(2), second subparagraph |
+| Article 11(3) | Article 15(3) |
+| Article 11(4) | Article 15(4) |
+| — | Article 15(5) |
+| — | Article 15(6) |
+| Article 11(5) | Article 15(7) |
+| Article 11(6) | Article 15(8) |
+| Article 11(7) | Article 17(5), third subparagraph |
+| Article 11(8) | Article 15(9) |
+| — | Article 16 |
+| Article 12(1) | Article 17(1) |
+| Article 12(2) | Article 17(2) |
+| Article 12(3), first subparagraph | Article 17(3) |
+| Article 12(3), second subparagraph | Article 17(4) |
+| Article 12(3), third subparagraph | Article 10(3) |
+| — | Article 17(5), first subparagraph |
+| — | Article 17(5), second subparagraph |
+| — | Article 17(6) |
+| — | Article 17(7) |
+| — | Article 17(8) |
+| Article 12(4), first sentence | Article 17(9), first subparagraph |
+| Article 12(4), second sentence | Article 17(9), second subparagraph |
+| — | Article 17(10) |
+| Article 13 | Article 18 |
+| Article 14 | — |
+| Article 15 | Article 19 |
+| — | Article 20 |
+| Article 16 | Article 21(1) |
+| — | Article 21(2) |
+| — | Article 21(3) |
+| — | Annex I |
+| — | Annex II |
+
+( 1 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 2 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 3 ) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1).
+
+( 4 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 5 ) Council Regulation (EU) No 904/2010 of 7 October 2010 on administrative cooperation and combating fraud in the field of value added tax (OJ L 268, 12.10.2010, p. 1).
+
+( 6 ) Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17).
+
+( 7 ) OJ L 26, 28.1.2012, p. 30.

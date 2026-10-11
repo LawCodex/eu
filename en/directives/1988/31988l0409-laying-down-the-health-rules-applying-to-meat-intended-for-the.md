@@ -32,9 +32,11 @@ laying down the health rules applying to meat intended for the domestic market a
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 91/498/EEC of 29 July 1991</td><td> L 268</td><td>105</td><td>24.9.1991</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 

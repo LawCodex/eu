@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(84/500/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2005/31/EC of 29 April 2005 </td><td> L 110</td><td>36</td><td>30.4.2005</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

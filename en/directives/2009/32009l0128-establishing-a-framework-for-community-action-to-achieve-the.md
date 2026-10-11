@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) No 652/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>1</td><td>27.6.2014</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2019/782 of 15 May 2019 </td><td> L 127</td><td>4</td><td>16.5.2019</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
 
 **DIRECTIVE 2009/128/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -518,6 +520,7 @@ The harmonised risk indicators are listed in Sections 2 and 3 of this Annex.
 
 **Categorisation of active substances and hazard weightings for the purpose of calculating Harmonised Risk Indicator 1**
 
+<table>
 <tbody><tr><td rowspan="2">Row</td><td colspan="7">Groups</td></tr>
 <tr><td colspan="2">1</td><td colspan="2">2</td><td colspan="2">3</td><td>4</td></tr>
 <tr><td>(i)</td><td colspan="2">Low-risk active substances which are approved or deemed to be approved under Article 22 of Regulation (EC) No 1107/2009, and which are listed in Part D of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Regulation (EC) No 1107/2009, and not falling in other categories, and which are listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Article 24 of Regulation (EC) No 1107/2009, which are candidates for substitution, and which are listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011</td><td>Active substances which are not approved under Regulation (EC) No 1107/2009, and therefore which are not listed in the Annex to Implementing Regulation (EU) No 540/2011</td></tr>
@@ -527,6 +530,7 @@ The harmonised risk indicators are listed in Sections 2 and 3 of this Annex.
 <tr><td>(v)</td><td colspan="7">Hazard Weightings applicable to quantities of active substances placed on the market in products authorised under Regulation (EC) No 1107/2009</td></tr>
 <tr><td>(vi)</td><td colspan="2">1</td><td colspan="2">8</td><td colspan="2">16</td><td>64</td></tr>
 </tbody>
+</table>
 
 5\. The baseline for Harmonised Risk Indicator 1 shall be set at 100, and is equal to the average result of the above calculation for the period 2011-2013.
 
@@ -560,6 +564,7 @@ The harmonised risk indicators are listed in Sections 2 and 3 of this Annex.
 
 **Categorisation of active substances and hazard weightings for the purpose of calculating Harmonised Risk Indicator 2**
 
+<table>
 <tbody><tr><td rowspan="2">Row</td><td colspan="7">Groups</td></tr>
 <tr><td colspan="2">1</td><td colspan="2">2</td><td colspan="2">3</td><td>4</td></tr>
 <tr><td>(i)</td><td colspan="2">Low-risk active substances which are approved or deemed to be approved under Article 22 of Regulation (EC) No 1107/2009, and which are listed in Part D of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Regulation (EC) No 1107/2009, and not falling in other categories, and which are listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Article 24 of Regulation (EC) No 1107/2009, which are candidates for substitution, and which are listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011</td><td>Active substances which are not approved under Regulation (EC) No 1107/2009, and therefore which are not listed in the Annex to Implementing Regulation (EU) No 540/2011</td></tr>
@@ -569,6 +574,7 @@ The harmonised risk indicators are listed in Sections 2 and 3 of this Annex.
 <tr><td>(v)</td><td colspan="7">Hazard Weightings applicable to the number of authorisations granted under Article 53 of Regulation (EC) No 1107/2009</td></tr>
 <tr><td>(vi)</td><td colspan="2">1</td><td colspan="2">8</td><td colspan="2">16</td><td>64</td></tr>
 </tbody>
+</table>
 
 4\. The baseline for Harmonised Risk Indicator 2 shall be set at 100, and is equal to the average result of the above calculation for the period 2011-2013.
 

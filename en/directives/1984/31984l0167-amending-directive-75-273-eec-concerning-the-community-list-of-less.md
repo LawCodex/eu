@@ -32,10 +32,12 @@ amending Directive 75/273/EEC concerning the Community list of less-favoured far
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 23 May 1985</td><td> L 160</td><td>42</td><td>20.6.1985</td></tr>
 <tr><td></td><td>Commission Decision of 13 December 1988</td><td> L 105</td><td>1</td><td>17.4.1989</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -1459,6 +1461,7 @@ REGIONE: UMBRIA
 
 PROVINCIA DI TERNI
 
+<table>
 <tbody><tr><td>N.</td><td>Comuni</td><td> Superficie territoriale  (ettari) </td><td> Superficie delimitata  (ettari) </td></tr>
 <tr><td>1</td><td>Amelia</td><td>13 255</td><td>2 935</td></tr>
 <tr><td>2</td><td>Baschi</td><td>6 831</td><td>1 303</td></tr>
@@ -1471,6 +1474,7 @@ PROVINCIA DI TERNI
 <tr><td>  </td><td>Sommano</td><td>76 554</td><td>17 353</td></tr>
 <tr><td colspan="4"> (1) Attualmente scisso in due comuni: Montecastrilli (6 268 ha) e Avigliano Umbro (5 107 ha) </td></tr>
 </tbody>
+</table>
 
 ZONA 26
 

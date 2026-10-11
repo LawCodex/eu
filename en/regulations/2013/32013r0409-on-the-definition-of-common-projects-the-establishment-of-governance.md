@@ -1,0 +1,328 @@
+---
+title: "Commission Implementing Regulation (EU) No 409/2013 of 3 May 2013 on the definition of common projects, the establishment of governance and the identification of incentives supporting the implementation of the European Air Traffic Management Master Plan Text with EEA relevance"
+identifier: "32013R0409"
+eli: "http://data.europa.eu/eli/reg_impl/2013/409/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2013-05-03
+entry_into_force: 2014-01-01
+last_amended: 2021-02-22
+consolidated_version: "02013R0409-20210222"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0409-20210222"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 409/2013 of 3 May 2013 on the definition of common projects, the establishment of governance and the identification of incentives supporting the implementation of the European Air Traffic Management Master Plan Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 409/2013**
+
+**of 3 May 2013**
+
+**on the definition of common projects, the establishment of governance and the identification of incentives supporting the implementation of the European Air Traffic Management Master Plan**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/116 of 1 February 2021 </td><td> L 36</td><td>10</td><td>2.2.2021</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 409/2013**
+
+**of 3 May 2013**
+
+**on the definition of common projects, the establishment of governance and the identification of incentives supporting the implementation of the European Air Traffic Management Master Plan**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PRINCIPLES
+
+#### Article 1 — Subject matter and scope
+
+1\. This Regulation defines common projects, referred to in Article 15a of Regulation (EC) No 550/2004, explains how they shall be governed and identifies incentives for their deployment.
+
+2\. This Regulation shall apply to the European Air Traffic Management Network (EATMN).
+
+#### Article 2 — Definitions
+
+For the purpose of this Regulation, the definitions in Article 2 of Regulation (EC) No 549/2004 and in Article 2 of Regulation (EU) No 677/2011 shall apply.
+
+In addition the following definitions shall apply:
+
+(1) ‘SESAR Joint Undertaking’ means the body established under Council Regulation (EC) No 219/2007 ( 1 ), or its successor, entrusted with the task of managing and coordinating the development phase of the SESAR project;
+
+(2) ‘charging scheme’ means the scheme established by Commission Implementing Regulation (EU) 2019/317 ( 2 );
+
+(3) ‘ATM functionality’ means a group of ATM interoperable operational functions or services related to trajectory, airspace and surface management or to information sharing within the en-route, terminal, airport or network operating environments;
+
+(3a) ‘ATM sub-functionality’ means an integral part of an ATM functionality consisting of an operational function or service, contributing to the overall scope of the functionality;
+
+(3b) ‘SESAR solution’ means an output of the SESAR development phase, introducing new or improved standardised and interoperable technologies and harmonised operational procedures supporting the implementation of the European ATM Master plan;
+
+(4) ‘SESAR deployment’ means the activities and processes relating to the industrialisation and implementation of ATM functionalities identified in the ATM Master Plan;
+
+(4a) ‘synchronised implementation’ means an implementation of ATM functionalities in a synchronised way over a defined geographical area, which includes at least two Member States within the EATMN, or between air and ground operational stakeholders based on a common planning that includes implementation target dates and the relevant transitional measures for progressive deployment and involving multiple operational stakeholders;
+
+(5) ‘industrialisation’ of ATM functionalities means the activities and processes, following their validation that include standardisation, certification and production by the manufacturing industry (ground and airborne equipment manufacturers);
+
+(6) ‘implementation’ means, in reference to ATM functionalities, the procurement, installation, testing, training and putting into service of equipment and systems, including associated operational procedures, carried out by operational stakeholders;
+
+(6a) ‘implementation target date’ means a date by when the implementation of the ATM functionality or sub-functionality is to be completed;
+
+(6b) ‘industrialisation target date’ means a date by when the standards and specifications are to be available for the ATM functionality or sub-functionality to enable its implementation;
+
+(7) ‘essential operational change’ means an Air Traffic Management (ATM) operational change that provides significant network performance improvements to the operational stakeholders, as referred to in the ATM Master Plan;
+
+(8) ‘performance scheme’ means a scheme established by Implementing Regulation (EU) 2019/317;
+
+(9) ‘European Union-wide performance targets’ means the targets referred to in Article 9 of Implementing Regulation (EU) 2019/317;
+
+(10) ‘operational stakeholders’ means the Network Manager and civil and military: airspace users, air navigation service providers, airport operators;
+
+(11) ‘SESAR project’ means an innovation cycle providing the Union with a high performing, standardised and interoperable air traffic management system, which comprises the SESAR definition, development and deployment phases.
+
+#### Article 3 — ATM Master Plan
+
+1\. The ATM Master Plan is the roadmap driving the modernisation of the European ATM system and connecting SESAR research and development with deployment. It shall be the key SES instrument for the seamless operation of the EATMN and the timely, coordinated and synchronised SESAR deployment.
+
+2\. The updates of the ATM Master Plan shall contribute to achieving the European Union-wide performance targets and maintain consistency between these targets, SESAR deployment and SESAR research, development, innovation and validation activities. For this purpose, the ATM Master Plan updates shall take into account the Network Strategy Plan and the Network Operation plan.
+
+## CHAPTER II — COMMON PROJECTS
+
+#### Article 4 — Purpose and content
+
+1\. Common projects shall identify the ATM functionalities and their sub-functionalities. Those functionalities and sub-functionalities shall be based on SESAR solutions addressing the essential operational changes defined in the European ATM Master Plan, shall be ready for implementation and shall require synchronised implementation.
+
+Readiness for implementation shall be assessed, inter alia, based on the results of validation carried out during the development phase, the status of industrialisation and an assessment of interoperability, as well as in relation to the International Civil Aviation Organization (‘ICAO’) Global Air Navigation Plan and relevant ICAO material.
+
+2\. Common projects shall set out for each ATM functionality and sub-functionality the following characteristics:
+
+(a) essential operational changes they contribute to;
+
+(b) the operational and technical scope;
+
+(c) the geographical scope;
+
+(d) the operation stakeholders that are required to implement them;
+
+(e) the synchronisation requirements;
+
+(f) the implementation target dates;
+
+(g) the interdependencies with other functionalities or sub-functionalities.
+
+3\. By way of derogation from paragraph 1, common projects may also include ATM functionalities or sub-functionalities that are not ready for implementation but that constitute an essential component of the common project concerned and provided that their industrialisation is deemed to be finalised within three years from the adoption of the concerned common project. For that purpose, an industrialisation target date for those ATM functionalities or sub-functionalities shall also be defined in the common project.
+
+4\. At the expiry of the industrialisation target date, the Commission, with the support of the European Union Aviation Safety Agency, shall verify that the ATM functionalities or sub-functionalities referred to in paragraph 3 have been standardised and that they are ready for implementation. Where they are found not to be ready for implementation, they shall be withdrawn from the common project regulation.
+
+5\. The deployment manager, the SESAR Joint Undertaking, the European standardisation organisations, Eurocae and the relevant manufacturing industry shall cooperate under the coordination of the European Union Aviation Safety Agency to ensure that the industrialisation target date is met.
+
+6\. Common projects shall also:
+
+(a) be consistent with and contribute to the European Union-wide performance targets;
+
+(b) demonstrate a positive business case for the EATMN, based on cost-benefit analysis, and identify any potential local or regional negative impact for any specific category of operational stakeholders;
+
+(c) take account of the relevant deployment elements specified in the Network Strategy Plan and the Network Operations Plan of the Network Manager;
+
+(d) demonstrate an improved environmental performance.
+
+#### Article 5 — Setup, adoption and implementation
+
+1\. The Commission shall set up proposals for common projects in accordance with the requirements of Article 4.
+
+2\. The Commission shall be assisted by the Network Manager, the European Union Aviation Safety Agency, the Performance Review Body within their respective roles and competencies, and by the SESAR Joint undertaking, Eurocontrol, the European standardisation organisations, Eurocae and the deployment manager. Those bodies shall involve the operational stakeholders and manufacturing industry.
+
+2a. The European Union Aviation Safety Agency, upon the request by the Commission shall provide an opinion on the technical readiness for deployment of the ATM functionalities, and their sub-functionalities, proposed for a common project.
+
+3\. The Commission shall consult the stakeholders in accordance with Articles 6 and 10 of Regulation (EC) No 549/2004 including through the European Defence Agency, within its remit to facilitate the coordination of military views, and the consultative group of experts on the social dimension of the single European sky on its proposals for common projects.
+
+The Commission shall verify that proposals for common projects are endorsed by the airspace users and the ground operational stakeholders that are required to implement a specific common project.
+
+5\. The Commission shall adopt common projects and any amendments to them in accordance with the procedure referred to in Article 15a(3) of Regulation (EC) No 550/2004.
+
+6\. Common projects shall be implemented through implementation projects and in accordance with the deployment programme defined in Chapter III, Section 2.
+
+7\. Member States and the Network Manager shall include the investments related to the implementation of common projects in the performance plans and the Network performance plan.
+
+#### Article 6 — Monitoring
+
+1\. The Commission shall monitor the implementation of common projects and their impact on the performance of the EATMN through specific reporting requirements. Those requirements shall be set out by the Commission under the framework partnership referred to in Article 9(5).
+
+2\. In monitoring the effectiveness of common projects with regard to performance of the EATMN, the Commission shall make best use of existing monitoring and reporting instruments and shall be assisted, in particular, by the Network Manager and the Performance Review Body in accordance with Regulations (EU) No 677/2011 and (EU) No 691/2010 and by the European Aviation Safety Agency regarding the safety aspects.
+
+3\. The Single Sky Committee shall be informed on the implementation of common projects.
+
+## CHAPTER III — DEPLOYMENT GOVERNANCE AND INCENTIVES
+
+### SECTION 1 — Deployment Governance
+
+#### Article 7 — General principles
+
+1\. Deployment governance shall ensure the timely, coordinated and synchronised implementation of common projects while interfacing with and facilitating industrialisation.
+
+2\. Deployment governance shall be composed of three levels: policy level; management level; and implementation level.
+
+#### Article 8 — Policy level
+
+1\. The policy level shall be responsible for overseeing SESAR deployment, ensuring that it is in line with the single European sky regulatory framework and safeguards the public interest.
+
+2\. The Commission shall be responsible for the policy level, in particular for:
+
+(a) setting up and adopting common projects in accordance with Article 5;
+
+(b) selecting the deployment manager, approving the deployment programme and selecting the implementation projects;
+
+(c) managing the Union funds supporting the deployment manager and the implementation projects;
+
+(d) identifying incentives for SESAR deployment and enforcing the framework partnership agreement concluded with the deployment manager in accordance with Article 9(5) and any relevant agreements for implementation projects;
+
+(e) promoting the participation of the civil and military stakeholders;
+
+(f) developing cooperation and coordination with third countries;
+
+(g) establishing coordination with the European Union Aviation Safety Agency and with the European standardisation organisations to facilitate industrialisation and promote interoperability of ATM functionalities and sub-functionalities;
+
+(h) monitoring the deployment of common projects and their contribution to achieving the European Union-wide performance targets;
+
+(i) issuing recommendations to operational stakeholders and Member States.
+
+3\. The Commission shall be assisted by the Single Sky Committee, the Industry Consultation Body, the consultative group of experts on the social dimension of the single European sky, the National Supervisory Authorities and the Performance Review Body, within their respective roles and competencies as defined in the single European sky regulatory framework. The Commission may consult the Single Sky Committee on any matter concerning the application of this Regulation.
+
+4\. The Commission shall also involve, within their respective competencies and roles:
+
+(a) Eurocontrol, through cooperative arrangements between Eurocontrol and the Union, to take full advantage of its expertise and its civil-military and pan-European competencies;
+
+(b) the European Defence Agency, to facilitate the coordination of military views from and in support of the Member States and the relevant international military organisations on SESAR deployment and inform military planning mechanisms of the requirements stemming from SESAR deployment;
+
+(c) the European Union Aviation Safety Agency, to ensure that safety, interoperability and environmental requirements and standards of the common projects are established in accordance with Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 3 ) and its implementing rules, and with the European Plan for Aviation Safety established in accordance with Article 6 thereof;
+
+(d) the SESAR Joint Undertaking, to ensure continuous connection between SESAR research, development, innovation and validation activities and SESAR deployment and to ensure that common projects and the deployment programme are in line with the ATM Master Plan;
+
+(e) the European standardisation organisations and Eurocae, to facilitate and monitor industrial standardisation processes and the use of the resulting standards.
+
+#### Article 9 — Management level
+
+1\. The deployment manager shall be responsible for the management level.
+
+2\. The deployment manager shall, in particular, be responsible for:
+
+(a) developing, proposing, maintaining and implementing the deployment programme, in accordance with Section 2;
+
+(b) associating the operational stakeholders that are required to implement common projects;
+
+(c) establishing mechanisms and decision-making processes that ensure efficient synchronisation and overall coordination of the implementation projects and the related investment in line with the deployment programme;
+
+(d) ensuring effective management of risks and conflict of interest;
+
+(e) advising the Commission on issues related to the implementation of common projects and to the setting up new common projects;
+
+(f) implementing Commission decisions and ensuring and monitoring their implementation by the implementation level;
+
+(g) identifying the most appropriate financing mechanisms combining public and private funding;
+
+(h) monitoring implementation of the deployment programme;
+
+(i) reporting to the Commission;
+
+(j) ensuring appropriate coordination with National Supervisory Authorities;
+
+(k) ensuring appropriate coordination with the European Union Aviation Safety Agency.
+
+3\. The deployment manager shall be composed of groupings of operational stakeholders or individual operational stakeholders, including from third countries, under the conditions defined in the relevant Union funding programmes. Operational stakeholders may participate in the deployment manager through FAB structures.
+
+4\. The deployment manager shall demonstrate, inter alia, its capacity to:
+
+(a) represent operational stakeholders that are required to implement common projects;
+
+(b) manage multi-national implementation programmes;
+
+(c) understand funding and financing mechanisms and financial programme management; and
+
+(d) use existing structures to involve all operational stakeholders.
+
+5\. The selection of the members of the deployment manager by the Commission shall take the form of the award of a framework partnership following a call for proposals in accordance with Article 178 of the Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the financial rules applicable to the general budget of the Union ( 4 ) (Rules of Application). The call for proposals shall define the objectives, requirements and the criteria for the selection of the members of the deployment manager in accordance with the Rules of Application. The Single Sky Committee shall be informed on the process of selection of the deployment manager.
+
+6\. Members of the deployment manager shall carry out at least one implementation project or part of it.
+
+7\. The deployment manager shall make appropriate cooperative arrangements with the Network Manager, the SESAR Joint Undertaking and the military. The appropriate cooperative arrangements shall be submitted to the Commission for approval. The cooperation shall be as follows:
+
+(a) the deployment manager and the Network Manager shall cooperate to ensure their tasks are fulfilled without any form of duplication or competition, in particular, for the deployment aspects that have an impact on the network infrastructure, airspace organisation and performance as well as coherence with the Network Strategy Plan and the Network Operations Plan; the Network Manager shall also support, within its mandate, the members of the deployment manager in accordance with Articles 4(1)(i) and 4(3)(b) of Regulation (EU) No 677/2011;
+
+(b) the deployment manager shall cooperate with the SESAR Joint Undertaking to ensure the necessary connections between SESAR research, development, innovation and validation activities and SESAR deployment and shall consult with the SESAR Joint Undertaking on the priorities and the progress made during the development phase on issues related to industrialisation and to ensure consistency with the ATM Master Plan;
+
+(c) the deployment manager shall coordinate with the military to avoid any adverse impact on national and collective defence capabilities.
+
+8\. The deployment manager shall duly take into account the opinion of the entities referred to in paragraph 7 in its decisions that may impact the activities of these entities.
+
+9\. In the event of disagreement between the deployment manager and the entities referred to in paragraph 7 the deployment manager shall submit the matter to the Commission for a decision. The deployment manager shall comply with the Commission’s decision.
+
+10\. The deployment manager shall seek assistance from the manufacturing industry, through cooperative arrangements, which shall be communicated to the Commission, to receive, inter alia, information on the industrialisation of products.
+
+11\. Subject to the availability of funds and under the conditions set out in the relevant Union funding Programme, the Commission shall provide financial support to the deployment manager solely for the execution of its tasks referred to in paragraph 2.
+
+#### Article 10 — Implementation level
+
+1\. The implementation level consists of the implementation projects selected by the Commission to implement common projects in line with the deployment programme.
+
+2\. Implementation projects shall be selected by the Commission through calls for proposals to implement the deployment programme and in accordance with the rules and procedures of relevant Union funding programmes.
+
+3\. The proposals for implementation projects shall take due account of the maturity of the industrialisation processes for these projects, based on information provided by the manufacturing industry, in particular on the impact of the implementation projects on legacy ATM systems, technical feasibility, cost estimates and roadmaps for technical solutions.
+
+4\. The implementation projects and their execution shall comply with the conditions agreed on with the Commission.
+
+### SECTION 2 — Deployment programme
+
+#### Article 11 — Purpose and content
+
+1\. The deployment programme shall provide a comprehensive and structured work plan of all activities necessary to implement technologies, procedures and best practices required to implement common projects. The deployment programme shall specify the technological enablers for implementing the common projects.
+
+2\. The deployment programme shall define how the implementation of common projects shall be synchronised within the EATMN, taking into account local operational requirements and constraints.
+
+3\. The deployment programme shall constitute the references for all operational stakeholders required to implement common projects and for the management and implementation levels. The operational stakeholders shall provide the deployment manager with relevant information concerning the implementation of deployment programme. The deployment programme shall be part of the framework partnership agreement and, as such, all the beneficiaries shall commit to implement it.
+
+#### Article 12 — Establishment and implementation
+
+1\. The deployment manager shall submit the proposal for the deployment programme and any proposals for amendments to the Commission for approval.
+
+2\. In preparing the proposal for the deployment programme or proposals to amend it, the deployment manager shall coordinate with the Network Manager, the SESAR Joint Undertaking and the military in accordance with Article 9(7).
+
+3\. Upon adoption of each common project the Commission shall request the deployment manager to adapt the deployment programme.
+
+### SECTION 3 — Incentives
+
+#### Article 13 — Union Funding
+
+1\. Union funding to support SESAR deployment shall focus on implementation projects provided for in Article 10, selected for Union funding in accordance with the rules and procedures of the relevant Union funding programmes.
+
+2\. The Commission shall make contractual arrangements covering the implementation projects selected to receive Union funding. These arrangements shall define penalties for non-execution of the deployment programme and non-execution of the implementation projects.
+
+#### Article 14 — Other Incentives
+
+1\. Incentives in accordance with Regulations (EC) No 1794/2006 and (EU) No 691/2010 for SESAR deployment may be identified when establishing common projects.
+
+2\. Union funding granted in accordance with Article 13 shall be considered as ‘other revenue’ in accordance with Article 2(k) of Regulation (EC) No 1794/2006.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+#### Article 15 — Review
+
+The Commission shall review the implementation of common projects by the end of the second reference period established by Article 7 of Regulation (EU) No 691/2010.
+
+#### Article 16 — Entry into force
+
+This Regulation shall enter into force on the first day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Council Regulation (EC) No 219/2007 of 27 February 2007 on the establishment of a Joint Undertaking to develop the new generation European air traffic management system (SESAR) (OJ L 64, 2.3.2007, p. 1).
+
+( 2 ) Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 (OJ L 56, 25.2.2019, p. 1).
+
+( 3 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+( 4 ) OJ L 362, 31.12.2012, p. 1.

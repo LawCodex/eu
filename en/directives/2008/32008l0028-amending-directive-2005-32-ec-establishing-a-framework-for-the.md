@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **amending Directive 2005/32/EC establishing a framework for the setting of ecodesign requirements for energy-using products, as well as Council Directive 92/42/EEC and Directives 96/57/EC and 2000/55/EC, as regards the implementing powers conferred on the Commission**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2009/125/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 21 October 2009</td><td> L 285</td><td>10</td><td>31.10.2009</td></tr>
+</table>
 
 **DIRECTIVE 2008/28/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

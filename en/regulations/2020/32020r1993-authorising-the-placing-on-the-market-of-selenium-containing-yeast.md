@@ -1,0 +1,123 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/1993 of 4 December 2020 authorising the placing on the market of selenium-containing yeast (Yarrowia lipolytica) biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470 (Text with EEA relevance)"
+identifier: "32020R1993"
+eli: "http://data.europa.eu/eli/reg_impl/2020/1993/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-12-04
+entry_into_force: 2020-11-18
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1993"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/1993 of 4 December 2020 authorising the placing on the market of selenium-containing yeast (Yarrowia lipolytica) biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470 (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/1993**
+
+**of 4 December 2020**
+
+**authorising the placing on the market of selenium-containing yeast (Yarrowia lipolytica) biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (1), and in particular Article 12 thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2015/2283 provides that only novel foods authorised and included in the Union list may be placed on the market within the Union.
+
+(2) Pursuant to Article 8 of Regulation (EU) 2015/2283, Commission Implementing Regulation (EU) 2017/2470 (2) establishing a Union list of authorised novel foods was adopted.
+
+(3) Commission Implementing Regulation (EU) 2019/760 (3) authorised, in accordance with Regulation (EU) 2015/2283, the placing on the market of Yarrowia lipolytica yeast biomass as a novel food to be used in food supplements as defined in Directive 2002/46/EC of the European Parliament and of the Council (4), excluding food supplements for infants and young children.
+
+(4) On 21 September 2018, the company Skotan S.A. (‘the applicant’) introduced an application to the Commission pursuant to Article 10(1) of Regulation (EU) 2015/2283 to place selenium-enriched biomass of the yeast Yarrowia lipolytica on the Union market as a novel food. The applicant requested for selenium-enriched biomass of the yeast Yarrowia lipolytica to be used in food supplements as defined in Directive 2002/46/EC, excluding food supplements for infants and young children as defined in Regulation (EU) No 609/2013 of the European Parliament and of the Council (5). The maximum use levels proposed by the applicant are 0,2 g per day for children from 3 to 9 years of age, and 1 g per day for adolescents and adults.
+
+(5) In accordance with Article 10(3) of Regulation (EU) 2015/2283, the Commission consulted the European Food Safety Authority (‘Authority’) on 18 February 2019, asking it to provide a scientific opinion by carrying out an assessment for selenium-containing yeast (Yarrowia lipolytica) biomass as a novel food.
+
+(6) On 18 December 2019, the Authority adopted the scientific opinion ‘Safety of selenium-enriched biomass of Yarrowia lipolytica as a novel food pursuant to Regulation (EU) 2015/2283’ (6). That opinion is in line with the requirements of Article 11 of Regulation (EU) 2015/2283.
+
+(7) In that opinion, the Authority concluded that selenium-containing yeast (Yarrowia lipolytica) biomass is not of safety concern at the proposed use levels. The Authority also considered that the selenium provided by selenium-containing yeast (Yarrowia lipolytica) biomass is as safe as selenium from other dietary sources.
+
+(8) The Authority also noted that, at the use levels proposed by the applicant, the intake of the novel food in combination with a background diet high in selenium could lead to total selenium intakes exceeding the Tolerable Upper Intake Level (‘UL’) for selenium established by the Scientific Committee on Food (7), in all target population groups, except for children from 7 to 9 years of age.
+
+(9) In light of the observation made by the Authority relating to the combined intake of selenium, the applicant submitted a modified request to the Commission with regard to the conditions of use of selenium-containing yeast (Yarrowia lipolytica) biomass, in particular concerning the maximum levels of the novel food in food supplements and the population groups for which food supplements are intended. The applicant proposed the novel food to be used in food supplements intended for the general population from 4 years of age, at levels ranging from 50 mg/day to 800 mg/day, that would result in selenium intakes which, combined with the selenium intakes from a background diet high in selenium, would not exceed the UL for selenium.
+
+(10) The Commission considers that the Authority’s opinion and the modified conditions of use requested by the applicant give sufficient grounds to establish that selenium-containing yeast (Yarrowia lipolytica) biomass at the proposed uses and use levels when used in food supplements, complies with Article 12(1) of Regulation (EU) 2015/2283.
+
+(11) Regulation (EU) 2017/2470 should be therefore amended accordingly.
+
+(12) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. Selenium-containing yeast (Yarrowia lipolytica) biomass as specified in the Annex to this Regulation shall be included in the Union list of authorised novel foods established in Implementing Regulation (EU) 2017/2470.
+
+2\. The entry in the Union list referred to in paragraph 1 shall include the conditions of use and labelling requirements laid down in the Annex.
+
+## Article 2
+
+The Annex to Implementing Regulation (EU) 2017/2470 is amended in accordance with the Annex to this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 4 December 2020.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 327, 11.12.2015, p. 1.
+
+(2) Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72).
+
+(3) Commission Implementing Regulation (EU) 2019/760 of 13 May 2019 authorising the placing on the market of Yarrowia lipolytica yeast biomass as a novel food under Regulation (EU) 2015/2283 of the European Parliament and of the Council and amending Commission Implementing Regulation (EU) 2017/2470 (OJ L 125, 14.5.2019, p. 13).
+
+(4) Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements (OJ L 183, 12.7.2002, p. 51).
+
+(5) Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 (OJ L 181, 29.6.2013, p. 35).
+
+(6) EFSA Journal 2020;18(1):5992.
+
+(7) SCF (Scientific Committee on Food), 2000. Opinion of the Scientific Committee on Food on the Tolerable Upper Intake Level of selenium. SCF/CS/NUT/UPPLEV/25 Final, 18 pp.
+
+## ANNEX
+
+The Annex to Implementing Regulation (EU) 2017/2470 is amended as follows:
+
+(1) in Table 1 (Authorised novel foods), the following entry is inserted:
+
+<table>
+<tbody><tr><td>Authorised novel food</td><td colspan="2">Conditions under which the novel food may be used</td><td>Additional specific labelling requirements</td><td>Other requirements</td></tr>
+<tr><td rowspan="2">‘Selenium-containing yeast (Yarrowia lipolytica) biomass</td><td>Specified food category</td><td>Maximum levels</td><td rowspan="2">The designation of the novel food on the labelling of the foodstuffs containing it shall be “selenium-containing yeast (Yarrowia lipolytica) biomass”. The labelling of food supplements containing selenium-containing yeast (Yarrowia lipolytica) biomass shall bear a statement that the food supplements should not be consumed by infants and children under 4 years of age/children under 7 years of age/children under 11 years of age/children and adolescents under 18 years of age (*1). </td><td rowspan="2"></td></tr>
+<tr><td>Food supplements as defined in Directive 2002/46/EC (1), excluding food supplements for infants and children under 4 years of age</td><td>50 mg/day for children from 4 to 6 years of age, resulting in 10 μg of selenium per day 100 mg/day for children from 7 to 10 years of age, resulting in 20 μg of selenium per day  500 mg/day for adolescents from 11 to 17 years of age, resulting in 100 μg of selenium per day  800 mg/day for adults, resulting in 160 μg of selenium per day </td></tr>
+</tbody>
+</table>
+
+(2) in Table 2 (Specifications), the following entry is inserted:
+
+| Authorised Novel Food | Specification |
+| --- | --- |
+| ‘Selenium-containing yeast (Yarrowia lipolytica) biomass | Description/Definition: The novel food is the dried and heat-killed selenium-containing biomass of the yeast Yarrowia lipolytica. The novel food is produced by fermentation in the presence of sodium selenite followed by a number of purification steps including a heat-killing step of the yeast to ensure the absence of viable Yarrowia lipolytica cells in the novel food. Characteristics/Composition: Total selenium: 165–200 μg/g Se-methionine (2): 100–140 μg/g Protein: 40–50 g/100 g Dietary fibre: 24–32 g/100 g Sugars: < 1 g/100 g Fat: 6–12 g/100 g Total ash: ≤ 15 % Water: ≤ 5 % Dry matter: ≥ 95 % Heavy metals: Lead: ≤ 3,0 mg/kg Cadmium: ≤ 1,0 mg/kg Mercury: ≤ 0,1 mg/kg Microbiological criteria: Total aerobic microbial count: ≤ 5 × 103 CFU/g Total yeast and mould count: ≤ 102 CFU/g Viable Yarrowia lipolytica cells (3): < 10 CFU/g (i.e. limit of detection) Coliforms: ≤ 10 CFU/g Salmonella spp.: Absence in 25 g CFU: colony forming units |
+
+(1) Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements (OJ L 183, 12.7.2002, p. 51).
+
+(*1) Depending on the age group the food supplement is intended for.’
+
+(2) Expressed as selenium.
+
+(3) Applicable at all stages after the heat-treatment step to guarantee the absence of viable Yarrowia lipolytica cells and to be first tested immediately after the heat-treatment step. Measures have to be in place to prevent cross-contamination with viable Yarrowia lipolytica cells during packaging and/or storage of the novel food.’

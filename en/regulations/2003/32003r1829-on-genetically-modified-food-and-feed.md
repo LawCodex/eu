@@ -1,0 +1,943 @@
+---
+title: "Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed (Text with EEA relevance)"
+identifier: "32003R1829"
+eli: "http://data.europa.eu/eli/reg/2003/1829/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2003-09-22
+entry_into_force: 2004-01-01
+last_amended: 2021-03-27
+consolidated_version: "02003R1829-20210327"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R1829-20210327"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed (Text with EEA relevance)
+
+**REGULATION (EC) No 1829/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 September 2003**
+
+**on genetically modified food and feed**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1981/2006 of 22 December 2006 </td><td> L 368</td><td>99</td><td>23.12.2006</td></tr>
+<tr><td></td><td> REGULATION (EC) No 298/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 97</td><td>64</td><td>9.4.2008</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1381 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 231</td><td>1</td><td>6.9.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 1829/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 September 2003**
+
+**on genetically modified food and feed**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — OBJECTIVE AND DEFINITIONS
+
+#### Article 1 — Objective
+
+The objective of this Regulation, in accordance with the general principles laid down in Regulation (EC) No 178/2002, is to:
+
+(a) provide the basis for ensuring a high level of protection of human life and health, animal health and welfare, environment and consumer interests in relation to genetically modified food and feed, whilst ensuring the effective functioning of the internal market;
+
+(b) lay down Community procedures for the authorisation and supervision of genetically modified food and feed;
+
+(c) lay down provisions for the labelling of genetically modified food and feed.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+1\. the definitions of ‘food’, ‘feed’, ‘final consumer’, ‘food business’ and ‘feed business’ given in Regulation (EC) No 178/2002 shall apply;
+
+2\. the definition of ‘traceability’, laid down in Regulation (EC) No 1830/2003;
+
+3\. ‘operator’ means the natural or legal person responsible for ensuring that the requirements of this Regulation are met within the food businesses or feed businesses under its control;
+
+4\. the definitions of ‘organism’, ‘deliberate release’ and ‘environmental risk assessment’ referred to in Directive 2001/18/EC shall apply;
+
+5\. ‘genetically modified organism’ or ‘GMO’ means a genetically modified organism as defined in Article 2(2) of Directive 2001/18/EC, excluding organisms obtained through the techniques of genetic modification listed in Annex I B to Directive 2001/18/EC;
+
+6\. ‘genetically modified food’ means food containing, consisting of or produced from GMOs;
+
+7\. ‘genetically modified feed’ means feed containing, consisting of or produced from GMOs;
+
+8\. ‘genetically modified organism for food use’ means a GMO that may be used as food or as a source material for the production of food;
+
+9\. ‘genetically modified organism for feed use’ means a GMO that may be used as feed or as a source material for the production of feed;
+
+10\. ‘produced from GMOs’ means derived, in whole or in part, from GMOs, but not containing or consisting of GMOs;
+
+11\. ‘control sample’ means the GMO or its genetic material (positive sample) and the parental organism or its genetic material that has been used for the purpose of the genetic modification (negative sample);
+
+12\. ‘conventional counterpart’ means a similar food or feed produced without the help of genetic modification and for which there is a well-established history of safe use;
+
+13\. ‘ingredient’ means ‘ingredient’ as referred to in Article 6(4) of Directive 2000/13/EC;
+
+14\. ‘placing on the market’ means the holding of food or feed for the purpose of sale, including offering for sale, or any other form of transfer, whether free of charge or not, and the sale, distribution and other forms of transfer themselves.
+
+15\. ‘pre-packaged food’ means any single item for presentation as such consisting of a food and the packaging into which it was put before being offered for sale, whether such packaging encloses the food completely or only partially, provided that the contents cannot be altered without opening or changing the packaging.
+
+16\. ‘mass caterer’ means ‘mass caterer’ as referred to in Article 1 of Directive 2000/13/EC.
+
+## CHAPTER II — GENETICALLY MODIFIED FOOD
+
+### Section 1 — Authorisation and supervision
+
+#### Article 3 — Scope
+
+1\. This Section shall apply to:
+
+(a) GMOs for food use;
+
+(b) food containing or consisting of GMOs;
+
+(c) food produced from or containing ingredients produced from GMOs.
+
+2\. Where necessary, measures designed to amend non-essential elements of this Regulation by supplementing it and determining whether a type of food falls within the scope of this Section shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+#### Article 4 — Requirements
+
+1\. Food referred to in Article 3(1) must not:
+
+(a) have adverse effects on human health, animal health or the environment;
+
+(b) mislead the consumer;
+
+(c) differ from the food which it is intended to replace to such an extent that its normal consumption would be nutritionally disadvantageous for the consumer.
+
+2\. No person shall place on the market a GMO for food use or food referred to in Article 3(1) unless it is covered by an authorisation granted in accordance with this Section and the relevant conditions of the authorisation are satisfied.
+
+3\. No GMO for food use or food referred to in Article 3(1) shall be authorised unless the applicant for such authorisation has adequately and sufficiently demonstrated that it satisfies the requirements of paragraph 1 of this Article.
+
+4\. The authorisation referred to in paragraph 2 may cover:
+
+(a) a GMO and foods containing or consisting of that GMO as well as foods produced from or containing ingredients produced from that GMO; or
+
+(b) food produced from a GMO as well as foods produced from or containing that food;
+
+(c) an ingredient produced from a GMO as well as food containing that ingredient.
+
+5\. An authorisation as referred to in paragraph 2 shall not be granted, refused, renewed, modified, suspended or revoked except on the grounds and under the procedures set out in this Regulation.
+
+6\. The applicant for an authorisation as referred to in paragraph 2 and, after the authorisation is granted, the authorisation-holder or his representative, shall be established in the Community.
+
+7\. Authorisation under this Regulation shall be without prejudice to Directive 2002/53/EC, Directive 2002/55/EC and Directive 68/193/EEC.
+
+#### Article 5 — Application for authorisation
+
+1\. To obtain the authorisation referred to in Article 4(2), an application shall be submitted in accordance with the following provisions.
+
+2\. The application shall be sent to the national competent authority of a Member State.
+
+(a) The national competent authority:
+
+(i) shall acknowledge receipt of the application in writing to the applicant within 14 days of its receipt. The acknowledgement shall state the date of receipt of the application;
+
+(ii) shall inform without delay the European Food Safety Authority (hereinafter referred to as the Authority); and
+
+(iii) shall make the application and any supplementary information supplied by the applicant available to the Authority.
+
+(b) The Authority
+
+(i) shall inform without delay the other Member States and the Commission of the application and shall make the application and any supplementary information supplied by the applicant available to them;
+
+(ii) shall make the summary of the dossier referred to in paragraph 3(1) available to the public.
+
+3\. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, and shall be accompanied by the following:
+
+(a) the name and the address of the applicant;
+
+(b) the designation of the food, and its specification, including the transformation event(s) used;
+
+(c) where applicable, the information to be provided for the purpose of complying with Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity (hereinafter referred to as the Cartagena Protocol);
+
+(d) where applicable, a detailed description of the method of production and manufacturing;
+
+(e) a copy of the studies, including, where available, independent, peer-reviewed studies, which have been carried out and any other material which is available to demonstrate that the food complies with the criteria referred to in Article 4(1);
+
+(f) either an analysis, supported by appropriate information and data, showing that the characteristics of the food are not different from those of its conventional counterpart, having regard to the accepted limits of natural variations for such characteristics and to the criteria specified in Article 13(2)(a), or a proposal for labelling the food in accordance with Article 13(2)(a) and (3);
+
+(g) either a reasoned statement that the food does not give rise to ethical or religious concerns, or a proposal for labelling it in accordance with Article 13(2)(b);
+
+(h) where appropriate, the conditions for placing on the market the food or foods produced from it, including specific conditions for use and handling;
+
+(i) methods for detection, sampling (including references to existing official or standardised sampling methods) and identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the food and/or in foods produced from it;
+
+(j) samples of the food and their control samples, and information as to the place where the reference material can be accessed;
+
+(k) where appropriate, a proposal for post-market monitoring regarding use of the food for human consumption;
+
+(l) an identification of the parts of the application and any other supplementary information that the applicant requests to be treated as confidential, accompanied by verifiable justification, pursuant to Article 30 of this Regulation and Article 39 of Regulation (EC) No 178/2002;
+
+(m) a summary of the dossier in a standardised form.
+
+4\. In the case of an application relating to a GMO for food use, references to ‘food’ in paragraph 3 shall be interpreted as referring to food containing, consisting of or produced from the GMO in respect of which an application is made.
+
+5\. In the case of GMOs or food containing or consisting of GMOs, the application shall also be accompanied by:
+
+(a) the complete technical dossier supplying the information required by Annexes III and IV to Directive 2001/18/EC and information and conclusions about the risk assessment carried out in accordance with the principles set out in Annex II to Directive 2001/18/EC or, where the placing on the market of the GMO has been authorised under part C of Directive 2001/18/EC, a copy of the authorisation decision;
+
+(b) a monitoring plan for environmental effects conforming with Annex VII to Directive 2001/18/EC, including a proposal for the duration of the monitoring plan; this duration may be different from the proposed period for the consent.
+
+In such case, Articles 13 to 24 of Directive 2001/18/EC shall not apply.
+
+6\. Where the application concerns a substance, the use and placing on the market of which is subject, under other provisions of Community law, to its inclusion on a list of substances registered or authorised to the exclusion of others, this must be stated in the application and the status of the substance under the relevant legislation must be indicated.
+
+7\. The Commission, having first consulted the Authority, shall establish, in accordance with the procedure referred to in Article 35(2), implementing rules for the application of this Article, including rules concerning the preparation and the presentation of the application.
+
+8\. Before the date of application of this Regulation, the Authority shall publish detailed guidance to assist the applicant in the preparation and the presentation of the application.
+
+#### Article 6 — Opinion of the Authority
+
+1\. In giving its opinion, the Authority shall endeavour to respect a time limit of six months as from the receipt of a valid application. Such time limit shall be extended whenever the Authority seeks supplementary information from the applicant as provided for in paragraph 2.
+
+2\. The Authority or a national competent authority through the Authority may, where appropriate, request the applicant to supplement the particulars accompanying the application within a specific time limit.
+
+3\. In order to prepare its opinion the Authority:
+
+(a) shall verify that the particulars and documents submitted by the applicant are in accordance with Article 5 and examine whether the food complies with the criteria referred to in Article 4(1);
+
+(b) may ask the appropriate food assessment body of a Member State to carry out a safety assessment of the food in accordance with Article 36 of Regulation (EC) No 178/2002;
+
+(c) may ask a competent authority designated in accordance with Article 4 of Directive 2001/18/EC to carry out an environmental risk assessment; however, if the application concerns GMOs to be used as seeds or other plant-propagating material, the Authority shall ask a national competent authority to carry out the environmental risk assessment;
+
+(d) shall forward to the Community reference laboratory referred to in Article 32 the particulars referred to in Article 5(3)(i) and (j). The Community reference laboratory shall test and validate the method of detection and identification proposed by the applicant;
+
+(e) shall, in verifying the application of Article 13(2)(a), examine the information and data submitted by the applicant to show that the characteristics of the food are not different from those of its conventional counterpart, having regard to the accepted limits of natural variations for such characteristics.
+
+4\. In the case of GMOs or food containing or consisting of GMOs, the environmental safety requirements referred to in Directive 2001/18/EC shall apply to the evaluation to ensure that all appropriate measures are taken to prevent the adverse effects on human and animal health and the environment which might arise from the deliberate release of GMOs. During evaluation of requests for the placing on the market of products consisting of or containing GMOs, the national competent authority within the meaning of Directive 2001/18/EC designated by each Member State for this purpose shall be consulted by the Authority. The competent authorities shall have three months after the date of receiving the request within which to make their opinion known.
+
+5\. In the event of an opinion in favour of authorising the food, the opinion shall also include the following particulars:
+
+(a) the name and address of the applicant;
+
+(b) the designation of the food, and its specification;
+
+(c) where applicable, the information required under Annex II to the Cartagena Protocol;
+
+(d) the proposal for the labelling of the food and/or foods produced from it;
+
+(e) where applicable, any conditions or restrictions which should be imposed on the placing on the market and/or specific conditions or restrictions for use and handling, including post-market monitoring requirements based on the outcome of the risk assessment and, in the case of GMOs or food containing or consisting of GMOs, conditions for the protection of particular ecosystems/environment and/or geographical areas;
+
+(f) the method, validated by the Community reference laboratory, for detection, including sampling, identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the food and/or in foods produced from it; an indication of where appropriate reference material can be accessed;
+
+(g) where appropriate, the monitoring plan referred to in Article 5(5)(b).
+
+6\. The Authority shall forward its opinion to the Commission, the Member States and the applicant, including a report describing its assessment of the food and stating the reasons for its opinion and the information on which this opinion is based, including the opinions of the competent authorities when consulted in accordance with paragraph 4.
+
+7\. The Authority, in accordance with Article 38(1) of Regulation (EC) No 178/2002, shall make its opinion public, after deletion of any information identified as confidential in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002 and Article 30 of this Regulation. The public may make comments to the Commission within 30 days of such publication.
+
+#### Article 7 — Authorisation
+
+1\. Within three months after receiving the opinion of the Authority, the Commission shall submit to the Committee referred in Article 35 a draft of the decision to be taken in respect of the application, taking into account the opinion of the Authority, any relevant provisions of Community law and other legitimate factors relevant to the matter under consideration. Where the draft decision is not in accordance with the opinion of the Authority, the Commission shall provide an explanation for the differences.
+
+2\. Any draft decision which envisages the granting of authorisation shall include the particulars referred to in Article 6(5), the name of the authorisation-holder and, where appropriate, the unique identifier attributed to the GMO as referred to in the Regulation (EC) No 1830/2003.
+
+3\. A final decision on the application shall be adopted in accordance with the procedure referred to in Article 35(2).
+
+4\. The Commission shall without delay inform the applicant of the decision taken and publish details of the decision in the Official Journal of the European Union.
+
+5\. The authorisation granted in accordance with the procedure referred to in this Regulation shall be valid throughout the Community for 10 years and shall be renewable in accordance with Article 11. The authorised food shall be entered in the Register referred to in Article 28. Each entry in the Register shall mention the date of authorisation and shall include the particulars referred to in paragraph 2.
+
+6\. The authorisation under this Section shall be without prejudice to other provisions of Community law governing the use and placing on the market of substances which may only be used if they are included in a list of substances registered or authorised to the exclusion of others.
+
+7\. The granting of authorisation shall not lessen the general civil and criminal liability of any food operator in respect of the food concerned.
+
+8\. References made in parts A and D of Directive 2001/18/EC to GMOs authorised under part C of that Directive shall be considered as applying equally to GMOs authorised under this Regulation.
+
+#### Article 8 — Status of existing products
+
+1\. By way of derogation from Article 4(2), products falling within the scope of this Section which have been lawfully placed on the market in the Community before the date of application of this Regulation may continue to be placed on the market, used and processed provided that the following conditions are met:
+
+(a) in the case of products placed on the market under Directive 90/220/EEC before the entry into force of Regulation (EC) No 258/97 or in accordance with the provisions referred to in Regulation (EC) No 258/97, operators responsible for placing on the market the products concerned shall, within six months after the date of application of this Regulation, notify the Commission of the date on which they were first placed on the market in the Community;
+
+(b) in the case of products which have been lawfully placed on the market in the Community but are not covered by point (a), operators responsible for placing on the market the products concerned shall, within six months after the date of application of this Regulation, notify the Commission that the products were placed on the market in the Community before the date of application of this Regulation.
+
+2\. The notification referred to in paragraph 1 shall be accompanied by the particulars mentioned in Article 5(3) and (5), as appropriate, which the Commission shall forward to the Authority and the Member States. The Authority shall forward to the Community reference laboratory the particulars referred to in Article 5(3)(i) and (j). The Community reference laboratory shall test and validate the method of detection and identification proposed by the applicant.
+
+3\. Within one year from the date of application of this Regulation and after verification that all the information required has been submitted and examined, the products concerned shall be entered in the Register. Each entry in the Register shall include the particulars referred to in Article 7(2) as appropriate and, in the case of the products referred to in paragraph 1(a), shall mention the date on which the products concerned were first placed on the market.
+
+4\. Within nine years from the date on which the products referred to in paragraph 1(a) were first placed on the market, but in no case earlier than three years after the date of application of this Regulation, operators responsible for placing them on the market shall submit an application in accordance with Article 11, which shall apply mutatis mutandis.
+
+Within three years from the date of application of this Regulation, operators responsible for placing on the market products referred to in paragraph 1(b) shall submit an application in accordance with Article 11, which shall apply mutatis mutandis.
+
+5\. Products referred to in paragraph 1 and food containing them or produced from them shall be subject to the provisions of this Regulation, in particular Articles 9, 10 and 34, which shall apply mutatis mutandis.
+
+6\. Where the notification and accompanying particulars referred to in paragraphs 1 and 2 are not supplied within the period specified or are found to be incorrect, or where an application is not submitted as required by paragraph 4 within the period specified, the Commission, acting in accordance with the procedure referred to in Article 35(2), shall adopt a measure requiring the product concerned and any products derived from it to be withdrawn from the market. Such a measure may provide for a limited period of time within which existing stocks of the product may be used up.
+
+7\. In the case of authorisations not issued to a specific holder, the operator who imports, produces or manufactures the products referred to in this Article shall submit the information or the application to Commission.
+
+8\. Detailed rules for implementing this Article shall be adopted in accordance with the procedure referred to in Article 35(2).
+
+#### Article 9 — Supervision
+
+1\. After an authorisation has been issued in accordance with this Regulation, the authorisation-holder and parties concerned shall comply with any conditions or restrictions which have been imposed in the authorisation and shall in particular make sure that products not covered by the authorisation are not placed on the market as food or feed. Where post-market monitoring as referred to in Article 5(3)(k) and/or monitoring as referred to in Article 5(5)(b) has been imposed on the authorisation-holder, the authorisation-holder shall ensure that it is carried out and shall submit reports to the Commission in accordance with the terms of the authorisation. The monitoring reports referred to shall be made accessible to the public after deletion of any information identified as confidential in accordance with Article 30.
+
+2\. If the authorisation-holder proposes to modify the terms of the authorisation, the authorisation-holder shall submit an application in accordance with Article 5(2). Articles 5, 6 and 7 shall apply mutatis mutandis.
+
+3\. The authorisation-holder shall forthwith inform the Commission of any new scientific or technical information which might influence the evaluation of the safety in use of the food. In particular, the authorisation-holder shall forthwith inform the Commission of any prohibition or restriction imposed by the competent authority of any third country in which the food is placed on the market.
+
+4\. The Commission shall make the information supplied by the applicant available to the Authority and the Member States without delay.
+
+#### Article 10 — Modification, suspension and revocation of authorisations
+
+1\. On its own initiative or following a request from the Commission or from a Member State, the Authority shall issue an opinion on whether an authorisation for a product referred to in Article 3(1) of this Regulation still meets the conditions set out in this Regulation. It shall forthwith transmit that opinion to the Commission, Member States and the authorisation-holder. The Authority, in accordance with Article 38(1) of Regulation (EC) No 178/2002, shall make its opinion public, after deletion of any information identified as confidential in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002 and Article 30 of this Regulation. The public may make comments to the Commission within 30 days of such publication.
+
+2\. The Commission shall examine the opinion of the Authority as soon as possible. Any appropriate measures shall be taken in accordance with Article 34. If appropriate, the authorisation shall be modified, suspended or revoked in accordance with the procedure referred to in Article 7.
+
+3\. Articles 5(2), 6 and 7 shall apply mutatis mutandis.
+
+#### Article 11 — Renewal of authorisations
+
+1\. Authorisations under this Regulation shall be renewable for 10-year periods, on application to the Commission by the authorisation-holder at the latest one year before the expiry date of the authorisation.
+
+2\. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, and accompanied by the following:
+
+(a) a copy of the authorisation for placing the food on the market;
+
+(b) a report on the results of the monitoring, if so specified in the authorisation;
+
+(c) any other new information which has become available with regard to the evaluation of the safety in use of the food and the risks of the food to the consumer or the environment;
+
+(d) where appropriate, a proposal for amending or complementing the conditions of the original authorisation, inter alia the conditions concerning future monitoring.
+
+3\. Articles 5(2), 6 and 7 shall apply mutatis mutandis.
+
+4\. Where, for reasons beyond the control of the authorisation-holder, no decision is taken on the renewal of an authorisation before its expiry date, the period of authorisation of the product shall automatically be extended until a decision is taken.
+
+5\. The Commission, having first consulted the Authority, may establish, in accordance with the procedure referred to in Article 35(2), implementing rules for the application of this Article, including rules concerning the preparation and the presentation of the application.
+
+6\. The Authority shall publish detailed guidance to assist the applicant in the preparation and the presentation of its application.
+
+### Section 2 — Labelling
+
+#### Article 12 — Scope
+
+1\. This Section shall apply to foods which are to be delivered as such to the final consumer or mass caterers in the Community and which:
+
+(a) contain or consist of GMOs; or
+
+(b) are produced from or contain ingredients produced from GMOs.
+
+2\. This Section shall not apply to foods containing material which contains, consists of or is produced from GMOs in a proportion no higher than 0,9 per cent of the food ingredients considered individually or food consisting of a single ingredient, provided that this presence is adventitious or technically unavoidable.
+
+3\. In order to establish that the presence of this material is adventitious or technically unavoidable, operators must be in a position to supply evidence to satisfy the competent authorities that they have taken appropriate steps to avoid the presence of such material.
+
+4\. Measures designed to amend non-essential elements of this Regulation by supplementing it and establishing appropriate lower thresholds, in particular in respect of foods containing or consisting of GMOs, or taking account of advances in science and technology shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+#### Article 13 — Requirements
+
+1\. Without prejudice to the other requirements of Community law concerning the labelling of foodstuffs, foods falling within the scope of this Section shall be subject to the following specific labelling requirements:
+
+(a) where the food consists of more than one ingredient, the words ‘genetically modified’ or ‘produced from genetically modified (name of the ingredient)’ shall appear in the list of ingredients provided for in Article 6 of Directive 2000/13/EC in parentheses immediately following the ingredient concerned;
+
+(b) where the ingredient is designated by the name of a category, the words ‘contains genetically modified (name of organism)’ or ‘contains (name of ingredient) produced from genetically modified (name of organism)’ shall appear in the list of ingredients;
+
+(c) where there is no list of ingredients, the words ‘genetically modified’ or ‘produced from genetically modified (name of organism)’ shall appear clearly on the labelling;
+
+(d) the indications referred to in (a) and (b) may appear in a footnote to the list of ingredients. In this case they shall be printed in a font of at least the same size as the list of ingredients. Where there is no list of ingredients, they shall appear clearly on the labelling;
+
+(e) where the food is offered for sale to the final consumer as non-pre-packaged food, or as pre-packaged food in small containers of which the largest surface has an area of less than 10 cm2, the information required under this paragraph must be permanently and visibly displayed either on the food display or immediately next to it, or on the packaging material, in a font sufficiently large for it to be easily identified and read.
+
+2\. In addition to the labelling requirements referred to in paragraph 1, the labelling shall also mention any characteristic or property, as specified in the authorisation, in the following cases:
+
+(a) where a food is different from its conventional counterpart as regards the following characteristics or properties:
+
+(i) composition;
+
+(ii) nutritional value or nutritional effects;
+
+(iii) intended use of the food;
+
+(iv) implications for the health of certain sections of the population;
+
+(b) where a food may give rise to ethical or religious concerns.
+
+3\. In addition to the labelling requirements referred to in paragraph 1 and as specified in the authorisation, the labelling of foods falling within the scope of this Section which do not have a conventional counterpart shall contain appropriate information about the nature and the characteristics of the foods concerned.
+
+#### Article 14 — Implementing measures
+
+1\. The following measures may be adopted by the Commission:
+
+— measures necessary for operators to satisfy the competent authorities as referred to in Article 12(3),
+
+— measures necessary for operators to comply with the labelling requirements set out in Article 13,
+
+— specific rules concerning the information to be given by mass caterers providing food to the final consumer. In order to take account of the specific situation of mass caterers, such rules may provide for adaptation of the requirements set out in Article 13(1)(e).
+
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+2\. In addition, detailed rules to facilitate the uniform application of Article 13 may be adopted in accordance with the regulatory procedure referred to in Article 35(2).
+
+## CHAPTER III — GENETICALLY MODIFIED FEED
+
+### Section 1 — Authorisation and supervision
+
+#### Article 15 — Scope
+
+1\. This Section shall apply to:
+
+(a) GMOs for feed use;
+
+(b) feed containing or consisting of GMOs;
+
+(c) feed produced from GMOs.
+
+2\. Where necessary, measures designed to amend non-essential elements of this Regulation by supplementing it and determining whether a type of feed falls within the scope of this Section shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+#### Article 16 — Requirements
+
+1\. Feed referred to in Article 15(1) must not:
+
+(a) have adverse effects on human health, animal health or the environment;
+
+(b) mislead the user;
+
+(c) harm or mislead the consumer by impairing the distinctive features of the animal products;
+
+(d) differ from feed which it is intended to replace to such an extent that its normal consumption would be nutritionally disadvantageous for animals or humans.
+
+2\. No person shall place on the market, use or process a product referred to in Article 15(1) unless it is covered by an authorisation granted in accordance with this Section and the relevant conditions of the authorisation are satisfied.
+
+3\. No product referred to in Article 15(1) shall be authorised unless the applicant for such authorisation has adequately and sufficiently demonstrated that it satisfies the requirements of paragraph 1 of this Article.
+
+4\. The authorisation referred to in paragraph 2 may cover:
+
+(a) a GMO and feed containing or consisting of that GMO as well as feed produced from that GMO; or
+
+(b) feed produced from a GMO as well as feeds produced from or containing that feed.
+
+5\. An authorisation as referred to in paragraph 2 shall not be granted, refused, renewed, modified, suspended or revoked except on the grounds and under the procedures set out in this Regulation.
+
+6\. The applicant for an authorisation as referred to in paragraph 2 and, after the authorisation is granted, the authorisation-holder or his representative, shall be established in the Community.
+
+7\. Authorisation under this Regulation shall be without prejudice to Directive 2002/53/EC, Directive 2002/55/EC and Directive 68/193/EEC.
+
+#### Article 17 — Application for authorisation
+
+1\. To obtain the authorisation referred to in Article 16(2), an application shall be submitted in accordance with the following provisions.
+
+2\. The application shall be sent to the national competent authority of a Member State.
+
+(a) The national competent authority:
+
+(i) shall acknowledge receipt of the application in writing to the applicant within 14 days of its receipt. The acknowledgement shall state the date of receipt of the application;
+
+(ii) shall inform the Authority without delay; and
+
+(iii) shall make the application and any supplementary information supplied by the applicant available to the Authority.
+
+(b) The Authority:
+
+(i) shall inform without delay the other Member States and the Commission of the application and shall make the application and any supplementary information supplied by the applicant available to them;
+
+(ii) shall make the summary of the dossier referred to in paragraph 3(1) available to the public.
+
+3\. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, and accompanied by the following:
+
+(a) the name and the address of the applicant;
+
+(b) the designation of the feed and its specification, including the transformation event(s) used;
+
+(c) where applicable, the information to be provided for the purpose of complying with Annex II to the Cartagena Protocol;
+
+(d) where applicable, a detailed description of the method of production and manufacturing and intended uses of the feed;
+
+(e) a copy of the studies including, where available, independent, peer-reviewed studies, which have been carried out and any other material which is available to demonstrate that the feed complies with the criteria referred to in Article 16(1), and, in particular for feed falling within the scope of Directive 82/471/EEC, the information required under Council Directive 83/228/EEC of 18 April 1983 on the fixing of guidelines for the assessment of certain products used in animal nutrition ( 1 );
+
+(f) either an analysis, supported by appropriate information and data, showing that the characteristics of the feed are not different from those of its conventional counterpart, having regard to the accepted limits of natural variations for such characteristics and to the criteria specified in Article 25(2)(c), or a proposal for labelling the feed in accordance with Article 25(2)(c) and (3);
+
+(g) either a reasoned statement that the feed does not give rise to ethical or religious concerns, or a proposal for labelling it in accordance with Article 25(2)(d);
+
+(h) where appropriate, the conditions for placing the feed on the market, including specific conditions for use and handling;
+
+(i) methods for detection, sampling (including references to existing official or standardised sampling methods) and identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the feed and/or in the feed produced from it;
+
+(j) samples of the feed and their control samples and information as to the place where the reference material can be accessed;
+
+(k) where appropriate, a proposal for post-market monitoring for the use of the feed for animal consumption;
+
+(l) an identification of the parts of the application and any other supplementary information that the applicant requests to be treated as confidential, accompanied by verifiable justification, pursuant to Article 30 of this Regulation and Articles 39 to 39e of Regulation (EC) No 178/2002;
+
+(m) a summary of the dossier in a standardised form.
+
+4\. In the case of an application relating to a GMO for feed use, references to ‘feed’ in paragraph 3 shall be interpreted as referring to feed containing, consisting of or produced from the GMO in respect of which an application is made.
+
+5\. In the case of GMOs or feed containing or consisting of GMOs, the application shall also be accompanied by:
+
+(a) the complete technical dossier supplying the information required by Annexes III and IV to Directive 2001/18/EC and information and conclusions about the risk assessment carried out in accordance with the principles set out in Annex II to Directive 2001/18/EC or, where the placing on the market of the GMOs has been authorised under part C of Directive 2001/18/EC, a copy of the authorisation decision;
+
+(b) a monitoring plan for environmental effects conforming with Annex VII to Directive 2001/18/EC, including a proposal for the duration of the monitoring plan; this duration may be different from the proposed period for the consent.
+
+In such case, Articles 13 to 24 of Directive 2001/18/EC shall not apply.
+
+6\. Where the application concerns a substance, the use and placing on the market of which is subject under other provisions of Community law to its inclusion on a list of substances registered or authorised to the exclusion of others, this must be stated in the application and the status of the substance under the relevant legislation must be indicated.
+
+7\. The Commission, having first consulted the Authority, shall establish, in accordance with the procedure referred to in Article 35(2), implementing rules for the application of this Article, including rules concerning the preparation and the presentation of the application.
+
+8\. Before the date of application of this Regulation, the Authority shall publish detailed guidance to assist the applicant in the preparation and the presentation of the application.
+
+#### Article 18 — Opinion of the Authority
+
+1\. In giving its opinion, the Authority shall endeavour to comply with a time limit of six months as from the receipt of a valid application. Such time limit shall be extended whenever the Authority seeks supplementary information from the applicant as provided in paragraph 2.
+
+2\. The Authority or a national competent authority through the Authority may, where appropriate, request the applicant to supplement the particulars accompanying the application within a specific time limit.
+
+3\. In order to prepare its opinion, the Authority:
+
+(a) shall verify that the particulars and documents submitted by the applicant are in accordance with Article 17, and examine whether the feed complies with the criteria laid down in Article 16(1);
+
+(b) may ask the appropriate feed assessment body of a Member State to carry out a safety assessment of the feed in accordance with Article 36 of Regulation (EC) No 178/2002;
+
+(c) may ask a competent authority designated in accordance with Article 4 of Directive 2001/18/EC to carry out an environmental risk assessment; however, if the application concerns GMOs to be used as seeds or other plant-propagating material, the Authority shall ask a national competent authority to carry out the environmental risk assessment;
+
+(d) shall forward to the Community reference laboratory the particulars referred to in Article 17(3)(i) and (j). The Community reference laboratory shall test and validate the method of detection and identification proposed by the applicant;
+
+(e) shall, in verifying the application of Article 25(2)(c), examine the information and data submitted by the applicant to show that the characteristics of the feed are not different from those of its conventional counterpart, having regard to the accepted limits of natural variations for such characteristics.
+
+4\. In the case of GMOs or feed containing or consisting of GMOs, the environmental safety requirements referred to in Directive 2001/18/EC shall apply to the evaluation to ensure that all appropriate measures are taken to prevent the adverse effects on human and animal health and the environment which might arise from the deliberate release of GMOs. During evaluation of requests for the placing on the market of products consisting of or containing GMOs, the national competent authority within the meaning of Directive 2001/18/EC, designated by each Member State for this purpose shall be consulted by the Authority. The competent authorities shall have three months after the date of receiving the request within which to make their opinion known.
+
+5\. In the event of an opinion in favour of authorising the feed, the opinion shall also include the following particulars:
+
+(a) the name and address of the applicant;
+
+(b) the designation of the feed, and its specification;
+
+(c) where applicable, the information required under Annex II to the Cartagena Protocol;
+
+(d) the proposal for the labelling of the feed;
+
+(e) where applicable, any conditions or restrictions which should be imposed on the placing on the market and/or specific conditions or restrictions for use and handling, including post-market monitoring requirements based on the outcome of the risk assessment and, in the case of GMOs or feed containing or consisting of GMOs, conditions for the protection of particular ecosystems/environment and/or geographical areas;
+
+(f) the method, validated by the Community reference laboratory, for detection, including sampling, identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the feed and/or in feed produced from it; an indication of where appropriate reference material can be accessed;
+
+(g) where appropriate, the monitoring plan as referred to in Article 17(5)(b).
+
+6\. The Authority shall forward its opinion to the Commission, the Member States and the applicant, including a report describing its assessment of the feed and stating the reasons for its opinion and the information on which this opinion is based, including the opinions of the competent authorities when consulted in accordance with paragraph 4.
+
+7\. The Authority shall, in accordance with Article 38(1) of Regulation (EC) No 178/2002, make its opinion public, after the deletion of any information identified as confidential in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002 and Article 30 of this Regulation. The public may make comments to the Commission within 30 days of such publication.
+
+#### Article 19 — Authorisation
+
+1\. Within three months after receiving the opinion of the Authority, the Commission shall submit to the Committee referred in Article 35 a draft of the decision to be taken in respect of the application, taking into account the opinion of the Authority, any relevant provisions of Community law and other legitimate factors relevant to the matter under consideration. Where the draft decision is not in accordance with the opinion of the Authority, the Commission shall provide an explanation for the differences.
+
+2\. Any draft decision which envisages the granting of authorisation shall include the particulars referred to in Article 18(5), the name of the authorisation-holder and, where appropriate, the unique identifier attributed to the GMO as referred to in Regulation (EC) No 1830/2003.
+
+3\. A final decision on the application shall be adopted in accordance with the procedure referred to in Article 35(2).
+
+4\. The Commission shall without delay inform the applicant of the decision taken and publish details of the decision in the Official Journal of the European Union.
+
+5\. The authorisation granted in accordance with the procedure referred to in this Regulation shall be valid throughout the Community for 10 years and shall be renewable in accordance with Article 23. The authorised feed shall be entered in the Register referred to in Article 28. Each entry in the Register shall mention the date of authorisation and shall include the particulars referred to in paragraph 2.
+
+6\. The authorisation under this Section shall be without prejudice to other provisions of Community law governing the use and placing on the market of substances which may only be used if they are included in a list of substances registered or authorised to the exclusion of others.
+
+7\. The granting of authorisation shall not lessen the general civil and criminal liability of any feed operator in respect of the feed concerned.
+
+8\. References made in parts A and D of Directive 2001/18/EC to GMOs authorised under part C of that Directive shall be considered as applying equally to GMOs authorised under this Regulation.
+
+#### Article 20 — Status of existing products
+
+1\. By way of derogation from Article 16(2), products falling within the scope of this Section which have been lawfully placed on the market in the Community before the date of application of this Regulation may continue to be placed on the market, used and processed provided that the following conditions are met:
+
+(a) in the case of products which have been authorised under Directives 90/220/EEC or 2001/18/EC, including use as feed, under Directive 82/471/EEC, which are produced from GMOs, or under Directive 70/524/EEC, which contain, consist of or are produced from GMOs, operators responsible for placing on the market the products concerned shall, within six months after the date of application of this Regulation, notify the Commission of the date on which they were first placed on the market in the Community;
+
+(b) in the case of products which have been lawfully placed on the market in the Community but which are not referred to in point (a), operators responsible for placing on the market in the Community the products concerned shall, within six months after the date of application of this Regulation, notify the Commission that the products were placed on the market in the Community before the date of application of this Regulation.
+
+2\. The notification referred to in paragraph 1 shall be accompanied by the particulars mentioned in Article 17(3) and (5), as appropriate, which the Commission shall forward to the Authority and the Member States. The Authority shall forward to the Community reference laboratory the particulars referred to in Article 17(3)(i) and (j). The Community reference laboratory shall test and validate the method of detection and identification proposed by the applicant.
+
+3\. Within one year from the date of application of this Regulation and after verification that all the information required has been submitted and examined, the products concerned shall be entered in the Register. Each entry in the Register shall include the particulars referred to in Article 19(2) as appropriate and, in the case of the products referred to in paragraph 1(a), shall mention the date on which the products concerned were first placed on the market.
+
+4\. Within nine years from the date on which the products referred to in paragraph 1(a) were first placed on the market, but in no case earlier than three years after the date of application of this Regulation, operators responsible for placing them on the market shall submit an application in accordance with Article 23, which shall apply mutatis mutandis.
+
+Within three years from the date of application of this Regulation, operators responsible for placing on the market products referred to in paragraph 1(b) shall submit an application in accordance with Article 23, which shall apply mutatis mutandis.
+
+5\. Products referred to in paragraph 1 and feed containing them or produced from them shall be subject to the provisions of this Regulation, in particular Articles 21, 22 and 34, which shall apply mutatis mutandis.
+
+6\. Where the notification and accompanying particulars referred to in paragraphs 1 and 2 are not supplied within the period specified or are found to be incorrect, or where an application is not submitted as required by paragraph 4 within the period specified, the Commission, acting in accordance with the procedure laid down in Article 35(2), shall adopt a measure requiring the product concerned and any products derived from it to be withdrawn from the market. Such a measure may provide for a limited period of time within which existing stocks of the product may be used up.
+
+7\. In the case of authorisations not issued to a specific holder, the operator who imports, produces or manufactures the products referred to in this Article shall submit the information or the application to the Commission.
+
+8\. Detailed rules for implementing this Article shall be adopted in accordance with the procedure referred to in Article 35(2).
+
+#### Article 21 — Supervision
+
+1\. After an authorisation has been issued in accordance with this Regulation, the authorisation-holder and the parties concerned shall comply with any conditions or restrictions which have been imposed in the authorisation and shall in particular make sure that products not covered by the authorisation are not placed on the market as food or feed. Where post-market monitoring as referred to in Article 17(3)(k) and/or monitoring as referred to in Article 17(5)(b) has been imposed on the authorisation-holder, the authorisation-holder shall ensure that it is carried out and shall submit reports to the Commission in accordance with the terms of the authorisation. The monitoring reports referred to shall be made accessible to the public after deletion of any information identified as confidential in accordance with Article 30.
+
+2\. If the authorisation-holder proposes to modify the terms of the authorisation, the authorisation-holder shall submit an application in accordance with Article 17(2). Articles 17, 18 and 19 shall apply mutatis mutandis.
+
+3\. The authorisation-holder shall forthwith inform the Commission of any new scientific or technical information which might influence the evaluation of the safety in use of the feed. In particular, the authorisation-holder shall forthwith inform the Commission of any prohibition or restriction imposed by the competent Authority of any third country in which the feed is placed on the market.
+
+4\. The Commission shall make the information supplied by the applicant available to the Authority and the Member States without delay.
+
+#### Article 22 — Modification, suspension and revocation of authorisations
+
+1\. On its own initiative or following a request from the Commission or from a Member State, the Authority shall issue an opinion on whether an authorisation for a product referred to in Article 15(1) still meets the conditions set out in this Regulation. It shall forthwith transmit that opinion to the Commission, Member States and the authorisation-holder. The Authority, in accordance with Article 38(1) of Regulation (EC) No 178/2002, shall make its opinion public, after deletion of any information identified as confidential in accordance with Articles 39 to 39e of Regulation (EC) No 178/2002 and Article 30 of this Regulation. The public may make comments to the Commission within 30 days of such publication.
+
+2\. The Commission shall examine the opinion of the Authority as soon as possible. Any appropriate measures shall be taken in accordance with Article 34. If appropriate, the authorisation shall be modified, suspended or revoked in accordance with the procedure referred to in Article 19.
+
+3\. Articles 17(2), 18 and 19 shall apply mutatis mutandis.
+
+#### Article 23 — Renewal of authorisations
+
+1\. Authorisations under this Regulation shall be renewable for 10-year periods, on application to the Commission by the authorisation-holder at the latest one year before the expiry date of the authorisation.
+
+2\. The application shall be submitted in accordance with standard data formats, where they exist pursuant to Article 39f of Regulation (EC) No 178/2002, and accompanied by the following:
+
+(a) a copy of the authorisation for placing the feed on the market;
+
+(b) a report on the results of the monitoring, if so specified in the authorisation;
+
+(c) any other new information which has become available with regard to the evaluation of the safety in use of the feed and the risks of the feed to animals, humans or the environment;
+
+(d) where appropriate, a proposal for amending or complementing the conditions of the original authorisation, inter alia the conditions concerning future monitoring.
+
+3\. Articles 17(2), 18 and 19 shall apply mutatis mutandis.
+
+4\. Where, for reasons beyond the control of the authorisation-holder, no decision is taken on the renewal of an authorisation before its expiry date, the period of authorisation of the product shall automatically be extended until a decision is taken.
+
+5\. The Commission, having first consulted the Authority, may establish, in accordance with the procedure referred to in Article 35(2), implementing rules for the application of this Article, including rules concerning the preparation and the presentation of the application.
+
+6\. The Authority shall publish detailed guidance to assist the applicant in the preparation and the presentation of its application.
+
+### Section 2 — Labelling
+
+#### Article 24 — Scope
+
+1\. This Section shall apply to feed referred to in Article 15(1).
+
+2\. This Section shall not apply to feed containing material which contains, consists of or is produced from GMOs in a proportion no higher than 0,9 per cent of the feed and of each feed of which it is composed, provided that this presence is adventitious or technically unavoidable.
+
+3\. In order to establish that the presence of this material is adventitious or technically unavoidable, operators must be in a position to supply evidence to satisfy the competent authorities that they have taken appropriate steps to avoid the presence of such materials.
+
+4\. Measures designed to amend non-essential elements of this Regulation by supplementing it and establishing appropriate lower thresholds, in particular in respect of feed containing or consisting of GMOs, or taking account of advances in science and technology shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+#### Article 25 — Requirements
+
+1\. Without prejudice to the other requirements of Community law concerning the labelling of feed, feed referred to in Article 15(1) shall be subject to the specific labelling requirements laid down below.
+
+2\. No person shall place a feed referred to in Article 15(1) on the market unless the particulars specified below are shown, in a clearly visible, legible and indelible manner, on an accompanying document or, where appropriate, on the packaging, on the container or on a label attached thereto.
+
+Each feed of which a particular feed is composed shall be subject to the following rules:
+
+(a) for the feeds referred to in Article 15(1) (a) and (b), the words ‘genetically modified (name of the organism)’ shall appear in parentheses immediately following the specific name of the feed.
+
+Alternatively, these words may appear in a footnote to the list of feed. It shall be printed in a font of at least the same size as the list of feed;
+
+(b) for the feed referred to in Article 15(1)(c), the words ‘produced from genetically modified (name of the organism)’ shall appear in parentheses immediately following the specific name of the feed.
+
+Alternatively, these words may appear in a footnote to the list of feed. It shall be printed in a font of at least the same size as the list of feed;
+
+(c) as specified in the authorisation, any characteristic of the feed referred to in Article 15(1) such as those indicated hereunder, which is different from its conventional counterpart:
+
+(i) composition;
+
+(ii) nutritional properties;
+
+(iii) intended use;
+
+(iv) implications for the health of certain species or categories of animals;
+
+(d) as specified in the authorisation, any characteristic or property where a feed may give rise to ethical or religious concerns.
+
+3\. In addition to the requirements referred to in paragraph 2(a) and (b) and as specified in the authorisation, the labelling or accompanying documents of feed falling within the scope of this Section which does not have a conventional counterpart shall contain appropriate information about the nature and the characteristics of the feed concerned.
+
+#### Article 26 — Implementing measures
+
+1\. The following measures may be adopted by the Commission:
+
+— measures necessary for operators to satisfy the competent authorities as referred to in Article 24(3),
+
+— measures necessary for operators to comply with the labelling requirements set out in Article 25.
+
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+2\. In addition, detailed rules to facilitate the uniform application of Article 25 may be adopted in accordance with the regulatory procedure referred to in Article 35(2).
+
+## CHAPTER IV — COMMON PROVISIONS
+
+#### Article 27 — Products likely to be used as both food and feed
+
+1\. Where a product is likely to be used as both food and feed, a single application under Articles 5 and 17 shall be submitted and shall give rise to a single opinion from the Authority and a single Community decision.
+
+2\. The Authority shall consider whether the application for authorisation should be submitted both as food and feed.
+
+#### Article 28 — Community register
+
+1\. The Commission shall establish and maintain a Community register of genetically modified food and feed, hereinafter referred to as ‘the Register’.
+
+2\. The Register shall be made available to the public.
+
+#### Article 29 — Public access
+
+1\. The Authority shall make public the application for authorisation, relevant supporting information and any supplementary information supplied by the applicant, as well as its scientific opinions and opinions from the competent authorities referred to in Article 4 of Directive 2001/18/EC, in accordance with Articles 38 to 39e of Regulation (EC) No 178/2002 and taking into account Article 30 of this Regulation.
+
+2\. The Authority shall apply Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 2 ) when handling applications for access to documents held by the Authority.
+
+3\. Member States shall handle applications for access to documents received under this regulation in accordance with Article 5 of Regulation (EC) No 1049/2001.
+
+#### Article 30 — Confidentiality
+
+1\. In accordance with the conditions and the procedures laid down in Articles 39 to 39e of Regulation (EC) No 178/2002 and this Article:
+
+(a) the applicant may submit a request to treat certain parts of the information submitted under this Regulation as confidential, accompanied by verifiable justification; and
+
+(b) the Authority shall assess the confidentiality request submitted by the applicant.
+
+2\. In addition to the items of information referred to in points (a), (b) and (c) of Article 39(2) of Regulation (EC) No 178/2002 and pursuant to Article 39(3) thereof, the Authority may also grant confidential treatment with respect to the following information, where the disclosure of such information is demonstrated by the applicant to potentially harm its interests to a significant degree:
+
+(a) DNA sequence information, except for sequences used for the purpose of detection, identification and quantification of the transformation event; and
+
+(b) breeding patterns and strategies.
+
+3\. The use of the detection methods and the reproduction of the reference materials, provided under Articles 5(3) and 17(3) for the purpose of applying this Regulation to GMOs, food or feed to which an application refers, shall not be restricted by the exercise of intellectual property rights or otherwise.
+
+4\. This Article is without prejudice to Article 41 of Regulation (EC) No 178/2002.
+
+#### Article 31 — Data protection
+
+The scientific data and other information in the application dossier required under Article 5(3) and (5) and Article 17(3) and (5) may not be used for the benefit of another applicant for a period of 10 years from the date of authorisation, unless the other applicant has agreed with the authorisation-holder that such data and information may be used.
+
+On the expiry of this 10-year period, the findings of all or part of the evaluation conducted on the basis of the scientific data and information contained in the application dossier may be used by the Authority for the benefit of another applicant if the applicant can demonstrate that the food or feed for which it is seeking authorisation is essentially similar to a food or feed already authorised under this Regulation.
+
+#### Article 32 — Community reference laboratory
+
+The Community reference laboratory and its duties and tasks shall be those referred to in the Annex.
+
+National reference laboratories may be established in accordance with the procedure referred to in Article 35(2).
+
+Applicants for authorisation of genetically modified food and feed shall contribute to supporting the costs of the tasks of the Community reference laboratory and the European Network of GMO laboratories mentioned in the Annex.
+
+The contributions from applicants shall not exceed the costs incurred in carrying out the validation of detection methods.
+
+Detailed rules for implementing this Article and the Annex may be adopted in accordance with the regulatory procedure referred to in Article 35(2).
+
+Measures designed to amend non-essential elements of this Regulation and adapting the Annex shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+#### Article 33 — Consultation with the European Group on Ethics in Science and New Technologies
+
+1\. The Commission, on its own initiative or at the request of a Member State, may consult the European Group on Ethics in Science and New Technologies or any other appropriate body it might establish, with a view to obtaining its opinion on ethical issues.
+
+2\. The Commission shall make these opinions available to the public.
+
+#### Article 34 — Emergency measures
+
+Where it is evident that products authorised by or in accordance with this Regulation are likely to constitute a serious risk to human health, animal health or the environment, or where, in the light of an opinion of the Authority issued under Article 10 or Article 22, the need to suspend or modify urgently an authorisation arises, measures shall be taken under the procedures provided for in Articles 53 and 54 of Regulation (EC) No 178/2002.
+
+#### Article 35 — Committee procedure
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health, set up by Article 58 of Regulation (EC) No 178/2002, hereinafter referred to as the ‘Committee’.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+#### Article 36 — Administrative review
+
+Any decision taken under, or failure to exercise, the powers vested in the Authority by this Regulation may be reviewed by the Commission on its own initiative or in response to a request from a Member State or from any person directly and individually concerned.
+
+To this effect a request shall be submitted to the Commission within two months from the day on which the party concerned became aware of the act or omission in question.
+
+The Commission shall take a decision within two months requiring, if appropriate, the Authority to withdraw its decision or to remedy its failure to act.
+
+#### Article 37 — Repeals
+
+The following Regulations shall be repealed with effect from the date of application of this Regulation:
+
+— Regulation (EC) No 1139/98,
+
+— Regulation (EC) No 49/2000,
+
+— Regulation (EC) No 50/2000.
+
+#### Article 38 — Amendments to Regulation (EC) No 258/97
+
+Regulation (EC) No 258/97 is hereby amended with effect from the date of application of this Regulation as follows:
+
+1\. The following provisions shall be deleted:
+
+— Article 1(2)(a) and (b),
+
+— Article 3(2), second subparagraph, and (3),
+
+— Article 8(1)(d),
+
+— Article 9.
+
+2\. In Article 3, the first sentence of paragraph 4 shall be replaced by the following:
+
+‘4. By way of derogation from paragraph 2, the procedure referred to in Article 5 shall apply to foods or food ingredients referred to in Article 1(2)(d) and (e) which, on the basis of the scientific evidence available and generally recognised or on the basis of an opinion delivered by one of the competent bodies referred to in Article 4(3), are substantially equivalent to existing foods or food ingredients as regards their composition, nutritional value, metabolism, intended use and the level of undesirable substances contained therein.’
+
+#### Article 39 — Amendment to Directive 82/471/EEC
+
+The following paragraph shall be added to Article 1 of Directive 82/471/EEC with effect from the date of application of this Regulation:
+
+‘3. This Directive does not apply to products which act as direct or indirect protein sources that fall within the scope of Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( *1 ).
+
+#### Article 40 — Amendments to Directive 2002/53/EC
+
+Directive 2002/53/EC is hereby amended with effect from the date of application of this Regulation as follows:
+
+1\. Article 4(5) shall be replaced by the following:
+
+‘5. Further, when material derived from a plant variety is intended to be used in food falling within the scope of Article 3, or in feed falling within the scope of Article 15 of Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( *2 ), the variety shall be accepted only if it has been approved in accordance with that Regulation.
+
+2\. Article 7(5) shall be replaced by the following:
+
+‘5. Member States shall ensure that a variety intended to be used in food or feed as defined in Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority, and laying down procedures in matters of food safety ( *3 ) is accepted only if it has been authorised under the relevant legislation.
+
+#### Article 41 — Amendments to Directive 2002/55/EC
+
+Directive 2002/55/EC is hereby amended with effect from the date of application of this Regulation as follows:
+
+1\. Article 4(3) shall be replaced by the following:
+
+‘3. Further, when material derived from a plant variety is intended to be used in food falling within the scope of Article 3, or in feed falling within the scope of Article 15 of Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( *4 ), the variety shall be accepted only if it has been approved in accordance with that Regulation.
+
+2\. Article 7(5) shall be replaced by the following:
+
+‘5. Member States shall ensure that a variety intended to be used in food or feed as defined in Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority, and laying down procedures in matters of food safety ( *5 ) is accepted only if it has been authorised under the relevant legislation.
+
+#### Article 42 — Amendment to Directive 68/193/EEC
+
+Article 5ba(3) of Directive 68/193/EEC shall be replaced by the following wording with effect from the date of application of this Regulation:
+
+‘3.
+
+a) Where products derived from vine-propagating material are intended to be used as or in food falling within the scope of Article 3 or as or in a feed falling within the scope of Article 15 of Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( *6 ), the vine variety concerned shall be accepted only if it has been authorised pursuant to the said Regulation.
+
+b) Member States shall ensure that a vine variety, from the propagating material of which products were derived intended for use in food and feed pursuant to Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority, and laying down procedures in matters of food safety ( *7 ) shall be accepted only if it has been authorised pursuant to the relevant legislation.
+
+#### Article 43 — Amendments to Directive 2001/18/EC
+
+Directive 2001/18/EC is hereby amended with effect from the date of entry into force of this Regulation, as follows:
+
+1\. The following Article shall be inserted:
+
+‘Article 12a
+
+Transitional measures for adventitious or technically unavoidable presence of genetically modified organisms having benefited from a favourable risk evaluation
+
+1\. Placing on the market of traces of a GMO or combination of GMOs in products intended for direct use as food or feed or for processing shall be exempted from Articles 13 to 21 provided that they meet the conditions referred to in Article 47 of Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed ( *8 ).
+
+2\. This Article shall be applicable for a period of three years after the date of application of Regulation (EC) No 1829/2003.
+
+2\. The following Article shall be inserted:
+
+‘Article 26a
+
+Measures to avoid the unintended presence of GMOs
+
+1\. Member States may take appropriate measures to avoid the unintended presence of GMOs in other products.
+
+2\. The Commission shall gather and coordinate information based on studies at Community and national level, observe the developments regarding coexistence in the Member States and, on the basis of the information and observations, develop guidelines on the coexistence of genetically modified, conventional and organic crops.’
+
+#### Article 44 — Information to be provided in accordance with the Cartagena Protocol
+
+1\. Any authorisation, renewal, modification, suspension or revocation of authorisation of a GMO, food or feed referred to in Articles 3(1)(a) or (b) or 15(1)(a) or (b) shall be notified by the Commission to the Parties to the Cartagena Protocol through the biosafety clearing house in accordance with Article 11(1) or Article 12(1) of the Cartagena Protocol, as the case may be.
+
+The Commission shall provide a copy of the information, in writing, to the national focal point of each Party that informs the Secretariat in advance that it does not have access to the biosafety clearing house.
+
+2\. The Commission shall also process requests for additional information made by any Party in accordance with Article 11(3) of the Cartagena Protocol and shall provide copies of the laws, regulations and guidelines in accordance with Article 11(5) of that Protocol.
+
+#### Article 45 — Penalties
+
+The Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission six months after the date of entry into force of this Regulation at the latest and shall notify it without delay of any subsequent amendment affecting them.
+
+#### Article 46 — Transitional measures for requests, labelling and notifications
+
+1\. Requests submitted under Article 4 of Regulation (EC) No 258/97 before the date of application of this Regulation shall be transformed into applications under Chapter II, Section 1 of this Regulation where the initial assessment report provided for under Article 6(3) of Regulation (EC) No 258/97 has not yet been forwarded to the Commission, as well as in all cases where an additional assessment report is required in accordance with Article 6(3) or (4) of Regulation (EC) No 258/97. Other requests submitted under Article 4 of Regulation (EC) No 258/97 before the date of application of this Regulation shall be processed under the provisions of Regulation (EC) No 258/97, notwithstanding Article 38 of this Regulation.
+
+2\. The labelling requirements referred to in this Regulation shall not apply to products, the manufacturing process of which has commenced before the date of application of this Regulation, provided that these products are labelled in accordance with the legislation applicable to them before the date of application of this Regulation.
+
+3\. Notifications concerning products including their use as feed submitted under Article 13 of Directive 2001/18/EC before the date of application of this Regulation shall be transformed into applications under Chapter III, Section 1 of this Regulation where the assessment report provided for in Article 14 of Directive 2001/18/EC has not yet been sent to the Commission.
+
+4\. Requests submitted for products referred to in Article 15(1)(c) of this Regulation under Article 7 of Directive 82/471/EEC before the date of application of this Regulation shall be transformed into applications under Chapter III, Section 1 of this Regulation.
+
+5\. Requests submitted for products referred to in Article 15(1) of this Regulation under Article 4 of Directive 70/524/EEC before the date of application of this Regulation shall be supplemented by applications under Chapter III, Section 1 of this Regulation.
+
+#### Article 47 — Transitional measures for adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation
+
+1\. The presence in food or feed of material which contains, consists of or is produced from GMOs in a proportion no higher than 0,5 % shall not be considered to be in breach of Article 4(2) or Article 16(2), provided that:
+
+(a) this presence is adventitious or technically unavoidable;
+
+(b) the genetically modified material has benefited from a favourable opinion from the Community Scientific Committee(s) or the Authority before the date of application of this Regulation;
+
+(c) the application for its authorisation has not been rejected in accordance with the relevant Community legislation; and
+
+(d) detection methods are publicly available.
+
+2\. In order to establish that the presence of this material is adventitious or technically unavoidable, operators must be in a position to demonstrate to the competent authorities that they have taken appropriate steps to avoid the presence of such materials.
+
+3\. Measures designed to amend non-essential elements of this Regulation by supplementing it and lowering the thresholds referred to in paragraph 1, in particular for GMOs sold directly to the final consumer, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 35(3).
+
+4\. Detailed rules for implementing this Article shall be adopted in accordance with the procedure referred to in Article 35(2).
+
+5\. This Article shall remain applicable for a period of three years after the date of application of this Regulation.
+
+#### Article 48 — Review
+
+1\. No later than 7 November 2005 and in the light of experience gained, the Commission shall forward to the European Parliament and to the Council a report on the implementation of this Regulation and in particular of Article 47, accompanied, where appropriate, by any suitable proposal. The report and any proposal shall be made accessible to the public.
+
+2\. Without prejudice to the powers of national authorities, the Commission shall monitor the application of this Regulation and its impact on human and animal health, consumer protection, consumer information and the functioning of the internal market and, if necessary, will bring forward proposals at the earliest possible date.
+
+#### Article 49 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from six months after the date of publication of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — DUTIES AND TASKS OF THE COMMUNITY REFERENCE LABORATORY
+
+1\. The Community reference laboratory referred to in Article 32 is the Commission's Joint Research Centre.
+
+2\. For the duties and tasks outlined in this Annex, the Community reference laboratory shall be assisted by the national reference laboratories referred to in Article 32, which shall consequently be considered as members of the consortium referred to as the ‘European Network of GMO laboratories’.
+
+3\. The Community reference laboratory shall be responsible, in particular, for:
+
+(a) the reception, preparation, storage, maintenance and distribution to the members of the European Network of GMO laboratories of the appropriate positive and negative control samples, subject to assurance given by such members of the respect of the confidential nature of the data received where applicable;
+
+(b) without prejudice to the responsibilities of the Community reference laboratories laid down in Article 32 of Regulation (EC) No 882/2004 of the European Parliament and of the Council ( 3 ), the distribution to national reference laboratories within the meaning of Article 33 of that Regulation of the appropriate positive and negative control samples, subject to assurance given by such laboratories of the respect of the confidential nature of the data received where applicable;
+
+(c) evaluating the data provided by the applicant for authorisation for placing the food or feed on the market, for the purpose of testing and validation of the method for sampling and detection;
+
+(d) testing and validating the method for detection, including sampling and identification of the transformation event and, where applicable, for the detection and identification of the transformation event in the food or feed;
+
+(e) submitting full evaluation reports to the Authority.
+
+4\. The Community reference laboratory shall play a role in dispute settlements concerning the results of the tasks outlined in this Annex, without prejudice to the responsibilities of the Community reference laboratories laid down in Article 32 of Regulation (EC) No 882/2004.
+
+( 1 ) OJ L 126, 13.5.1983, p. 23.
+
+( 2 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( *1 ) OJ L 268, 18.10.2003, p. 1.’
+
+( *2 ) OJ L 268, 18.10.2003, p. 1.’
+
+( *3 ) OJ L 31, 1.2.2002, p. 1.’
+
+( *4 ) OJ L 268, 18.10.2003, p. 1.’
+
+( *5 ) OJ L 31, 1.2.2002, p. 1.’
+
+( *6 ) OJ L 268, 18.10.2003, p. 1.
+
+( *7 ) OJ L 31, 1.2.2002, p. 1.’
+
+( *8 ) OJ L 268, 18.10.2003, p. 1.’
+
+( 3 ) OJ L 165, 30.4.2004, p. 1, as corrected by OJ L 191, 28.5.2004, p. 1.

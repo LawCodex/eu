@@ -117,6 +117,7 @@ Annex III to Directive 2011/65/EU is amended as follows:
 
 (2) the following points 7(c)-V and 7(c)-VI are added:
 
+<table>
 <tbody><tr><td>‘7(c)-V</td><td>Electrical and electronic components containing lead in a glass or glass matrix compound that fulfils any of the following functions:<table><tbody><tr><td>(1)</td><td>for protection and electrical insulation in glass beads of high-voltage diodes and glass layers for wafers;</td></tr>
 </tbody>
 </table>
@@ -141,6 +142,7 @@ Annex III to Directive 2011/65/EU is amended as follows:
 </table>
 </td><td>Applies to all categories (except applications covered by points 7(c)-II, 7(c)-III and 7(c)-IV of this Annex as well as point 14 of Annex IV) and expires on 31 December 2027.’</td></tr>
 </tbody>
+</table>
 
 ELI: http://data.europa.eu/eli/dir_del/2025/2363/oj
 

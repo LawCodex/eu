@@ -1,0 +1,380 @@
+---
+title: "Commission Regulation (EC) No 378/2005 of 4 March 2005 on detailed rules for the implementation of Regulation (EC) No 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additivesText with EEA relevance"
+identifier: "32005R0378"
+eli: "http://data.europa.eu/eli/reg/2005/378/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2005-03-04
+entry_into_force: 2005-07-29
+last_amended: 2026-02-05
+consolidated_version: "02005R0378-20260205"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R0378-20260205"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 378/2005 of 4 March 2005 on detailed rules for the implementation of Regulation (EC) No 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additivesText with EEA relevance
+
+**COMMISSION REGULATION (EC) No 378/2005**
+
+**of 4 March 2005**
+
+**on detailed rules for the implementation of Regulation (EC) No 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additives**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 850/2007 of 19 July 2007 </td><td> L 188</td><td>3</td><td>20.7.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 885/2009 of 25 September 2009 </td><td> L 254</td><td>58</td><td>26.9.2009</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1761 of 1 October 2015 </td><td> L 257</td><td>30</td><td>2.10.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/94 of 15 January 2026 </td><td> L 94</td><td>1</td><td>16.1.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 378/2005**
+
+**of 4 March 2005**
+
+**on detailed rules for the implementation of Regulation (EC) No 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additives**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+This Regulation lays down detailed rules for the implementation of Regulation (EC) No 1831/2003 as regards the duties and tasks of the Community Reference Laboratory (the CRL), which is the Joint Research Centre of the Commission located in Geel, Belgium.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘reference sample’ means a representative sample of the feed additive, as referred to in Article 7(3)(f) of Regulation (EC) No 1831/2003, which is the object of an application;
+
+(b) ‘method of analysis’ means the procedure for the determination of the active substance(s) of the feed additive in feedingstuffs, and where appropriate, of its residue(s) or metabolite(s) in food, as referred to in Article 7(3)(c) of the Regulation (EC) No 1831/2003;
+
+(c) ‘evaluation of the method of analysis’ means the thorough assessment of the protocol of the method of analysis as described in the application, including, if appropriate, literature research but not necessarily any experimental work;
+
+(d) ‘testing of a method of analysis’ means the application of the method of analysis in a laboratory and comparison of results with those described in the application;
+
+(e) ‘validation of a method of analysis’ means the process of proving that a method of analysis is fit for the intended purpose, by an intercomparison study according to ISO 5725-1 to 6 or other internationally harmonised guidelines for validation of methods by intercomparison study;
+
+(f) ‘feed test material’ means a feedingstuff sample or premixture sample with or without the inclusion of the feed additive which is the object of the application, to be used for experimental studies on the method of analysis for the determination of the feed additive in feedingstuffs and/or premixtures;
+
+(g) ‘food test material’ means a food sample derived from an animal that has been fed with feedingstuffs with or without the inclusion of the feed additive which is the object of the application, to be used for experimental studies on the method of analysis for the determination of the feed additive in the residue(s) or metabolite(s);
+
+(h) ‘multi-analyte methods’ are methods based on a defined principle applicable for the single or simultaneous determination of one or more substance(s)/agent(s) in the specific matrices defined in the scope of the method;
+
+(i) ‘reference standard’ is a sample of a pure active agent used for calibration purposes.
+
+### Article 3 — Reference samples
+
+1\. Any person submitting an application for an authorisation for a feed additive or for a new use of a feed additive, as provided for in Article 4(1) of Regulation (EC) No 1831/2003, shall send three reference samples in a form in which the feed additive is intended to be placed on the market by the applicant.
+
+In addition, the applicant shall provide to the CRL:
+
+(a) reference standards of the pure active agents in the case of feed additives:
+
+— belonging to the category zootechnical additives referred to in Article 6(1)(d) of Regulation (EC) No 1831/2003, except feed additives consisting of or containing micro-organisms;
+
+— belonging to the category coccidiostats and histomonostats referred to in Article 6(1)(e) of Regulation (EC) No 1831/2003;
+
+— falling within the scope of Community legislation relating to the marketing of products consisting of, containing or produced from genetically modified organisms (GMOs);
+
+— for which Maximum Residue Limits have been established in Annex I or III of Council Regulation (EEC) No 2377/90 ( 1 ) or following Regulation (EC) No 1831/2003.
+
+(b) where the application concerns a feed additive consisting of or containing micro-organisms, an authorisation to the CRL to access the microbial strain deposited at the internationally recognised culture collection mentioned in point 2.2.1.2. of Annex II of Commission Regulation (EC) No 429/2008 ( 2 ), if requested by the CRL.
+
+Where the application concerns a feed additive belonging to the category sensory additives and allocated within the functional group flavouring compounds referred to at point 2(b) of Annex I to Regulation (EC) No 1831/2003, subject to Article 10(2) of that Regulation, which forms part of a group of applications, the reference samples must be representative of all the compounds/substances in the group.
+
+2\. The three reference samples of the feed additive shall be accompanied by a written statement by the applicant that the fee provided for in Article 4(1) has been paid.
+
+3\. The applicant shall maintain the reference samples valid for the entire period of the authorisation of the feed additive by supplying new reference samples to the CRL to replace those expired.
+
+The applicant shall supply additional reference samples, reference standards, feed and/or food test materials, as defined in Article 2, if requested by the CRL. Upon justified request of the national reference laboratories of the consortium and without prejudice of Articles 11, 32 and 33 of Regulation (EC) No 882/2004, the CRL may request to the applicant additional reference samples, reference standards, feed and/or food test materials.
+
+4\. Unless the applicant is required to supply reference samples in accordance with paragraph 3, reference samples shall not be required for:
+
+(a) an application for a new use of a feed additive, already authorised for another use, submitted in accordance with Article 4(1) of Regulation (EC) No 1831/2003, when reference samples have been previously sent to the CRL for that other use;
+
+(b) an application for changing the terms of an existing authorisation submitted in accordance with Article 13(3) of Regulation (EC) No 1831/2003, when the proposed change is not related to the characteristics of the feed additive previously sent to the CRL as reference sample of the feed additive concerned;
+
+(c) an application for renewal of an existing authorisation submitted in accordance with Article 14 of Regulation (EC) No 1831/2003, provided the reference samples held by the CRL in relation to the existing authorisation of the feed additive are in the form in which the feed additive is intended to be placed on the market.
+
+### Article 4 — Fees
+
+1\. The CRL shall charge the applicant a fee in accordance with the rates set out in Annex IV (‘the fee’).
+
+2\. The CRL shall use the fees towards supporting the costs of the duties and tasks as set out in Annex II to Regulation (EC) No 1831/2003, and in particular those referred to in 2.1, 2.2 and 2.3 of that Annex.
+
+3\. The amount of the fee mentioned in paragraph 1 may be adapted once a year in accordance with the procedure referred to in Article 22(2) of Regulation (EC) No 1831/2003. The adaptation shall take into account the experience gained during the operation of this Regulation and in particular the possibility of fixing different fees for different types of applications.
+
+4\. Where the CRL considers that, due to developments following the submission of the application, additional duties and tasks are to be performed and the final fee rates relevant to the type of application concerned are to be higher than those calculated at the time of the submission of the application, it shall communicate those considerations and the corresponding additional fee to the applicant. The applicant shall notify the CRL about any disagreement on the additional fee within 15 days of receipt of the communication.
+
+### Article 5 — Evaluation reports by the CRL
+
+1\. The CRL shall submit a full evaluation report to the European Food Safety Authority (the Authority) for each application, or for each group of applications, within three months from the date of receipt of a valid application as referred to in Article 8(1) of Regulation (EC) No 1831/2003 and the payment of the fee.
+
+However, if the CRL considers the application to be very complex, it may extend that period by an additional month. The CRL shall inform the Commission, the Authority, and the applicant when the period is extended.
+
+The time limits provided for in this paragraph may be further extended with the agreement of the Authority, whenever the CRL requests supplementary information which cannot be provided by the applicant and/or cannot be evaluated by the CRL within those time limits.
+
+However, the time limit for the CRL to submit the evaluation report to the Authority shall not exceed the time limit for Authority to provide its opinion, as provided for in Article 8(1) of Regulation (EC) No 1831/2003.
+
+2\. The evaluation report provided for in paragraph 1 shall include in particular:
+
+(a) an evaluation indicating if the methods of analysis in the data submitted in the application are suitable to be used for official controls;
+
+(aa) an indication of which of the duties and tasks set out in Annex II to Regulation (EC) No 1831/2003 could not be carried out as a result of the disagreement notified by the applicant on additional fees as referred to in Article 4(4);
+
+(b) an indication if testing of a method of analysis is considered necessary;
+
+(c) an indication if a validation of a method of analysis by an intercomparison study is considered necessary.
+
+3\. The evaluation report provided for in paragraph 1 may be amended by the CRL at the request of the Commission or the Authority where:
+
+(a) the conditions for placing the feed additive on the market resulting from the Authority's opinion in accordance with Article 8(3)(a) of Regulation (EC) No 1831/2003 differ from those originally proposed by the applicant;
+
+(b) supplementary information relevant to the method of analysis have been provided by the applicant to the Authority.
+
+4\. An evaluation report shall not be required for:
+
+(a) applications for a new use of a feed additive submitted in accordance with Article 4(1) of Regulation (EC) No 1831/2003, when the proposed conditions for placing the feed additive on the market for the new use fall within the scope of the method of analysis previously submitted in accordance with paragraph 2.6 of Annex II to Regulation (EC) No 429/2008 and already evaluated by the CRL;
+
+(b) applications for changing the terms of an existing authorisation submitted in accordance with Article 13(3) of Regulation (EC) No 1831/2003, when the proposed change or the new conditions for placing the feed additive on the market fall within the scope of the method of analysis previously submitted in accordance with paragraph 2.6 of Annex II to Regulation (EC) No 429/2008 and already evaluated by the CRL;
+
+(c) applications for renewal of an existing authorisation submitted in accordance with Article 14 of Regulation (EC) No 1831/2003, when the conditions for placing the feed additive on the market fall within the scope of the method of analysis previously submitted in accordance with paragraph 2.6 of Annex II to Regulation (EC) No 429/2008 and already evaluated by the CRL.
+
+Notwithstanding paragraph 4, the Commission, the CRL or the Authority may, on the basis of legitimate factors relevant to the application, in particular the need to adapt the methods of analysis in the light of scientific and technological developments, consider that a new evaluation of the methods of analysis is necessary. In such cases the applicant shall be informed by the CRL and Article 4(4) shall apply.
+
+## CHAPTER II — NATIONAL REFERENCE LABORATORIES
+
+### Article 6 — National reference laboratories
+
+1\. The CRL shall be assisted by a consortium of national reference laboratories (the consortium) for the duties and tasks set out in points 2.2, 2.4 and 3 of Annex II to Regulation (EC) No 1831/2003.
+
+2\. The Member States may designate national reference laboratories for the purpose of inclusion in the list of national reference laboratories participating in the consortium, provided that the designated national reference laboratories comply with the requirements set out in Annex I. The Member States shall communicate those designations to the CRL and the Commission. The CRL shall be responsible for the publication on its website of the list of the national reference laboratories designated by the Member States, including the name and address of each of them, and for the update of that list, whenever necessary, upon reception of the relevant information. The same procedure shall apply if a Member State wishes to withdraw from the consortium a national reference laboratory that it designated.
+
+3\. The first publication by the CRL of the list of national reference laboratories designated by the Member States to take part in the consortium shall be with effect from 5 February 2026.
+
+4\. The members of the consortium and the CRL shall make arrangements for defining the relations between them, particularly in financial matters. In particular, the arrangements may provide that the CRL is to distribute a share of the fees it receives to the members of the consortium. The arrangements between the members of the consortium and the CRL shall be adapted to reflect any changes to the consortium. Without prejudice to the provisions of those arrangements, the CRL may issue guidance to the members of the consortium as provided for in Article 12(2).
+
+### Article 7 — Rapporteur laboratories
+
+1\. The CRL shall appoint one laboratory to act as rapporteur laboratory for each application (the rapporteur laboratory).
+
+However, the CRL may also act as rapporteur laboratory for applications.
+
+2\. When appointing a rapporteur laboratory, the CRL shall take into account the expertise, experience and workload of the laboratory.
+
+3\. The laboratories shall send comments to the rapporteur laboratory within 20 days from the date of receipt of the initial evaluation report provided for in Article 8(a).
+
+### Article 8 — Duties and tasks of rapporteur laboratories
+
+The rapporteur laboratories shall be responsible for:
+
+(a) drafting an initial evaluation report concerning the data submitted in each application and submitting it for comments to the other laboratories;
+
+(b) compiling the comments received from the other laboratories and preparing a revised evaluation report;
+
+(c) submitting the revised evaluation report to the CRL in sufficient time to allow the CRL to submit its full evaluation report to the Authority within the deadline referred to in Article 5(1);
+
+(d) if requested by the CRL, submitting an amendment to the evaluation report concerning the supplementary data submitted by the applicant to the CRL or to the Authority.
+
+### Article 9 — Duties and tasks of the laboratories participating in the consortium
+
+1\. The laboratories participating in the consortium shall be responsible for contributing to the initial evaluation report prepared by the rapporteur laboratory by sending comments to the rapporteur laboratory within 20 days of the reception of the initial report.
+
+## CHAPTER III — TESTING AND VALIDATION OF METHODS OF ANALYSIS, REPORTING AND GUIDANCE
+
+### Article 10 — Testing of methods of analysis and validation of methods of analysis
+
+1\. The CRL shall indicate in its evaluation report to the Authority, as provided for in Article 5(2), and shall inform the applicant and the Commission, if it considers that the following are necessary:
+
+(a) testing of methods of analysis;
+
+(b) validation of methods of analysis.
+
+In doing so, the CRL shall provide the applicant with a document describing the work to be carried out through the consortium including a time schedule and an estimate of a special fee to be paid by the applicant. The applicant shall inform the CRL about his agreement to the document within 15 days of receipt of the communication.
+
+2\. The CRL shall supplement the report to the Authority, as provided for in Article 5(1), with an addendum concerning the outcome of the application of the procedure foreseen in paragraph 1 within 30 days of the availability to the CRL of the results of the testing and validation work.
+
+### Article 11 — Reporting
+
+The CRL shall be responsible for preparing an annual report on each year’s activities carried out for the implementation of this Regulation and shall submit it to the Commission. The consortium shall contribute to this annual report.
+
+The CRL may also organise an annual meeting with the consortium, in view of the establishment of the annual report.
+
+### Article 12 — Guidance
+
+1\. The CRL may establish detailed guidance for applicants concerning:
+
+(a) reference samples;
+
+(b) the testing of methods of analysis, including in particular criteria about when such testing may be required;
+
+(c) the validation of methods of analysis, including in particular criteria about when such validation may be required;
+
+(d) requirements concerning methods of analysis submitted in accordance with paragraph 2.6. of Annex II to Regulation (EC) No 429/2008.
+
+2\. The CRL may establish detailed guidance for national reference laboratories, including criteria for appointing rapporteur laboratories.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 13 — Amendments to Regulation (EC) No 1831/2003
+
+Paragraphs 2 and 3 of Annex II to Regulation (EC) No 1831/2003 are replaced by the text in Annex III to this Regulation.
+
+### Article 14 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Requirements for laboratories participating in the consortium of national reference laboratories, as referred to in Article 6(2)**
+
+Laboratories participating in the consortium must satisfy the following minimum requirements:
+
+(a) have been designated as a national reference laboratory by a Member State for the purpose of taking part in the consortium referred to in Article 21 and Annex II to Regulation (EC) No 1831/2003;
+
+(b) have suitable qualified staff that are adequately trained in analytical methods used for the feed additives on which they are involved;
+
+(c) possess the equipment needed to carry out the analysis of feed additives, in particular the ones on which they are carrying tasks under this Regulation;
+
+(d) have an adequate administrative infrastructure;
+
+(e) have sufficient data-processing capacity to produce technical reports and to enable rapid communication with the other laboratories participating in the consortium;
+
+(f) provide assurance that their staff respect the confidential aspects of issues, results or communications involved in the handling of applications for authorisation submitted in accordance with Regulation (EC) No 1831/2003 and in particular the information referred to in Article 18 of that Regulation;
+
+(g) have sufficient knowledge of international standards and practices in laboratory work;
+
+(h) must be accredited, or being in the process of accreditation according to international standards such as ISO 17025 .
+
+## ANNEX III
+
+**Text replacing paragraphs 2 and 3 of Annex II to Regulation (EC) No 1831/2003**
+
+‘2. For the duties and tasks set out in this Annex, the CRL may be assisted by a consortium of national reference laboratories.
+
+The CRL shall be responsible for:
+
+2.1. the reception, storage and maintenance of the samples of the feed additive sent by the applicant as provided for in Article 7(3)(f);
+
+2.2. evaluating the method of analysis of the feed additive, and of other relevant methods of analysis related to it, on the basis of the data provided in the application for authorisation of the feed additive as regards its suitability for official control in accordance with the requirements of the implementing rules referred to in Article 7(4) and (5) and the guidance of the Authority referred to in Article 7(6);
+
+2.3. submitting a full evaluation report to the Authority on the results of the duties and tasks referred to in this Annex;
+
+2.4. where necessary, the testing of the method(s) of analysis.
+
+3\. The CRL shall be responsible for coordination of the validation of the method(s) of analysis of the additive, in accordance with the procedure provided for in Article 10 of Regulation (EC) No 378/2005 ( *1 ). This task may involve the preparation of food or feed test material.
+
+4\. The CRL shall provide scientific and technical assistance to the Commission, especially in cases where Member States contest the results of analyses related to the duties and tasks referred to in this Annex, without prejudice to any role defined for it under Articles 11 and 32 of Regulation (EC) No 882/2004 of the European Parliament and of the Council ( *2 ).
+
+5\. On request by the Commission, the CRL may also be responsible for conducting special analytical or other related studies in a manner similar to the duties and tasks referred to in point 2. This may be the case, in particular, for existing products notified under Article 10 and included in the Register and for the period until an application for authorisation under Article 10(2) is submitted in accordance with Article 10(2).
+
+6\. The CRL shall be responsible for the overall coordination of the consortium of national reference laboratories. The CRL shall ensure that the relevant data concerning the applications are made available to the laboratories.
+
+7\. Without prejudice to the responsibilities of the Community reference laboratories laid down in Article 32 of Regulation (EC) No 882/2004, the CRL may create and maintain a database of methods of analysis available for control of feed additives and make it available to official control laboratories from Member States and other interested parties.
+
+## ANNEX IV
+
+**RATES FOR FEES AS REFERRED TO IN ARTICLE 4(1)**
+
+**Composition of the fee**
+
+For the purpose of the calculation of the fee, the fee is composed of the following two components:
+
+1\. The first component is intended to support the CRL administrative costs and the costs related to the handling of the reference samples. This first component amounts to EUR 2 000 .
+
+2\. The second component is intended to support the costs of the Rapporteur Laboratory for the scientific evaluation and preparation of the evaluation report. This second component amounts to EUR 4 000 .
+
+The two components are applied as detailed below to calculate the fee rates.
+
+**Rates according to the type of application for authorisations of feed additives in accordance with Regulation (EC) No 1831/2003**
+
+1\. Authorisation of a new feed additive (Article 4(1) of Regulation (EC) No 1831/2003):
+
+Fee = Component 1 + Component 2 = EUR 6 000
+
+2\. Authorisation of a new use of a feed additive (Article 4(1) of Regulation (EC) No 1831/2003):
+
+— when Article 3 (4)(a) and Article 5(4)(a) apply:
+
+Fee = EUR 0
+
+— when only Article 3 (4)(a) applies, only Component 2 is applicable:
+
+Fee = EUR 4 000
+
+3\. Authorisation of an already authorised feed additive (Article 10(2) of Regulation (EC) No 1831/2003):
+
+Fee = Component 1 + Component 2 = EUR 6 000
+
+— For groups of applications concerning more than one feed additive submitted simultaneously belonging to the same category of feed additives, functional group and sub classification, if applicable, and other than chemically defined flavourings, zootechnical additives, coccidiostats and histomonostats, and when the methods of analysis used for these feed additives are of the multi-analyte type of methods of analysis, the fee shall be calculated as follows:
+
+The first component is multiplied by the number (n) of feed additives in the group:
+
+Component 1 = (EUR 2 000 × n) = N
+
+The second component is multiplied by the number (m) of methods of analysis to be evaluated by the CRL:
+
+Component 2 = (EUR 4 000 × m) = M
+
+The fee shall be the sum of the two components:
+
+Fee = N + M
+
+— For groups of applications concerning more than one chemically defined flavouring submitted simultaneously and when the methods of analysis used for these feed additives are of the multi-analyte type of methods of analysis, the fee shall be calculated as follows:
+
+The first component is multiplied by the number (n) of reference samples, as specified in Article 3 paragraph 1, submitted to the CRL:
+
+Component 1 = (EUR 2 000 × n) = N
+
+The second component is multiplied by the number (m) of methods of analysis to be evaluated by the CRL:
+
+Component 2 = (EUR 4 000 × m) = M
+
+The fee shall be the sum of the two components:
+
+Fee = N + M
+
+4\. Applications for changing the terms of an existing authorisation (Article 13(3) of Regulation (EC) No 1831/2003):
+
+— when Article 3(4), point (b) and Article 5(4), point (b) apply:
+
+Fee = EUR 0
+
+— when only Article 3(4), point (b) applies, only Component 2 is applicable:
+
+Fee = EUR 4 000
+
+— when neither Article 3(4), point (b) nor Article 5(4), point (b) applies:
+
+Fee = Component 1 + Component 2 = EUR 6 000
+
+5\. Applications for renewal of an authorisation of a feed additive (Article 14 of Regulation (EC) No 1831/2003):
+
+— when Article 3(4), point (c) and Article 5(4), point (c) apply:
+
+Fee = EUR 0
+
+— when only Article 3(4), point (c) applies, only Component 2 is applicable:
+
+Fee = EUR 4 000
+
+— when neither Article 3(4), point (c) nor Article 5(4), point (c) applies:
+
+Fee = Component 1 + Component 2 = EUR 6 000 .
+
+( 1 ) OJ L 224, 18.8.1990, p. 1.
+
+( 2 ) OJ L 133, 22.5.2008, p. 1.
+
+( *1 ) OJ L 59, 5.3.2005, p. 8.
+
+( *2 ) OJ L 165, 30.4.2004, p. 1. Corrigendum OJ L 191, 28.5.2004, p. 1.’

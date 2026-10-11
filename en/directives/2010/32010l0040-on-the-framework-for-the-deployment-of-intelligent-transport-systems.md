@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DECISION (EU) 2017/2380 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2017 </td><td> L 340</td><td>1</td><td>20.12.2017</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2661 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L </td><td>1</td><td>30.11.2023</td></tr>
+</table>
 
 **DIRECTIVE 2010/40/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -534,6 +536,7 @@ The adoption of specifications, the issuing of mandates for standards and the se
 
 ## ANNEX III — List of data types
 
+<table>
 <tbody><tr><td>Data type</td><td>Geographical coverage</td><td>Date referred in Article 6a(1), second subparagraph</td><td>Date referred in Article 6a(1), third subparagraph</td></tr>
 <tr><td colspan="4">1. Data relating to the provision of EU-wide road traffic information and navigation services (as referred to in Annex I, Priority area I, paragraphs 1.2, 1.3):</td></tr>
 <tr><td colspan="4">1.1. Category: Static and dynamic traffic regulations, where applicable, concerning:</td></tr>
@@ -561,6 +564,7 @@ The adoption of specifications, the issuing of mandates for standards and the se
 <tr><td>The entire transport network of the Union</td><td>31 December 2028</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
 <tr><td colspan="4">(1)  Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1). </td></tr>
 </tbody>
+</table>
 
 NOTE 1: ‘Not applicable: no obligation to make the data created or updated before the date set out in the third column of this Annex available pursuant to Article 6a(1)’.
 

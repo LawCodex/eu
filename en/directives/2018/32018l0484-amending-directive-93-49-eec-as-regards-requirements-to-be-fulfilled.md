@@ -99,6 +99,7 @@ Jean-Claude JUNCKER
 
 In the Annex, the following entry is inserted after the entry ‘ Narcissus L.’ in the table:
 
+<table>
 <tbody><tr><td>Genus or species</td><td>Specific harmful organisms and diseases</td></tr>
 <tr><td><table><tbody><tr><td>‘—</td><td>Palmae, as regards the following genera and species</td></tr>
 </tbody>
@@ -210,3 +211,4 @@ In the Annex, the following entry is inserted after the entry ‘ Narcissus L.�
 </table>
 </td></tr>
 </tbody>
+</table>

@@ -1,0 +1,72 @@
+---
+title: "Council Implementing Regulation (EU) 2021/1301 of 5 August 2021 implementing Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea"
+identifier: "32021R1301"
+eli: "http://data.europa.eu/eli/reg_impl/2021/1301/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-08-05
+entry_into_force: 2021-12-27
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1301"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Regulation (EU) 2021/1301 of 5 August 2021 implementing Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea
+
+**COUNCIL IMPLEMENTING REGULATION (EU) 2021/1301**
+
+**of 5 August 2021**
+
+**implementing Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EU) No 1284/2009 of 22 December 2009 imposing certain specific restrictive measures in respect of the Republic of Guinea (1), and in particular Article 15a(1) thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 22 December 2009, the Council adopted Regulation (EU) No 1284/2009.
+
+(2) Information concerning five persons listed in the Annex II to Regulation (EU) No 1284/2009 should be updated.
+
+(3) Annex II to Regulation (EU) No 1284/2009 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex II to Regulation (EU) No 1284/2009 is amended as set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 August 2021.
+
+For the Council
+
+The President
+
+G. DOVŽAN
+
+(1) OJ L 346, 23.12.2009, p. 26.
+
+## ANNEX
+
+In Annex II to Regulation (EU) No 1284/2009, under the heading ‘List of natural and legal persons, entities or bodies referred to in Article 6(3)’, entries 1through 5 are replaced by the following entries:
+
+|  | Name (and possible aliases) | Identifying information | Reasons |
+| --- | --- | --- | --- |
+| ‘1. | Captain Moussa Dadis CAMARA | DOB: 1.1.1964 or 29.12.1968 Passport number: R0001318 Gender: male Address: Ouagadougou (Burkina Faso) Function or profession: Former military and head of the military junta of the CNDD (Conseil National pour la Democratie et le Developpement) | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 2. | Colonel Moussa Tiégboro CAMARA Alias: Moussa Thiegboro CAMARA | DOB.: 1.1.1968 Passport number: 7190 Gender: male Function or profession: Secretary-General, Presidency of the Republic of Guinea | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 3. | Colonel Dr Abdoulaye Chérif DIABY | DOB: 26.02.1957 Passport number: 13683 Gender: male Function or profession: military doctor | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 4. | Captain Aboubacar Chérif (alias Toumba) DIAKITÉ | Gender: male Address: Conakry (Republic of Guinea) Function or profession: former military. Other information: in detention | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 5. | Colonel Jean-Claude PIVI (alias Coplan) | DOB: 01.01.1960 Gender: male Function or profession: Minister in charge of Presidential Security | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea’ |

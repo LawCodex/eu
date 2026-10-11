@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
+</table>
 
 **DIRECTIVE 2004/10/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -94,6 +96,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — THE OECD PRINCIPLES OF GOOD LABORATORY PRACTICE (GLP)
 
+<table>
 <tr><td colspan="2">CONTENTS</td></tr>
 transformed by post treatment<tr><td> SECTION IINTRODUCTION </td></tr>
 <tr><td></td><td>Preface</td></tr>
@@ -134,6 +137,7 @@ transformed by post treatment<tr><td> SECTION IIGOOD LABORATORY PRACTICE PRINCIP
 <tr><td></td><td>9.1.</td></tr>
 <tr><td></td><td>9.2.</td></tr>
 <tr><td></td><td>10.</td></tr>
+</table>
 
 **SECTION I INTRODUCTION**
 

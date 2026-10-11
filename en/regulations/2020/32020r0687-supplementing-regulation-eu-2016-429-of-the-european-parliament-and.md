@@ -1,0 +1,2704 @@
+---
+title: "Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance) (Text with EEA relevance)"
+identifier: "32020R0687"
+eli: "http://data.europa.eu/eli/reg_del/2020/687/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-12-17
+entry_into_force: 2020-09-17
+last_amended: 2026-05-12
+consolidated_version: "02020R0687-20260512"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R0687-20260512"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance) (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/687**
+
+**of 17 December 2019**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1140 of 5 May 2021 </td><td> L 247</td><td>50</td><td>13.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/751 of 30 January 2023 </td><td> L 100</td><td>7</td><td>13.4.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/322 of 12 February 2026 </td><td> L 322</td><td>1</td><td>22.4.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/687**
+
+**of 17 December 2019**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases**
+
+**(Text with EEA relevance)**
+
+## PART I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter and scope
+
+This Regulation supplements the rules on disease awareness, preparedness and control to be applied with regard to the listed diseases referred to in Article 9(1)(a), (b) and (c) of Regulation (EU) 2016/429.
+
+Those rules cover the following:
+
+(a) Part II covers kept and wild terrestrial animals, and in particular:
+
+(i) Chapter I lays down supplementing rules on disease control measures in the event of suspicion and official confirmation of a category A disease in kept animals as referred to in Articles 53, 54, 55, 58 and 63 of Regulation (EU) 2016/429;
+
+(ii) Chapter II lays down supplementing rules regarding the establishment of restricted zones in the event of official confirmation of a category A disease in kept animals as referred to in Article 64 and 67 of Regulation (EU) 2016/429;
+
+(iii) Chapter III lays down supplementing rules regarding the repopulation of the restricted zone with kept animals in the event of official confirmation of a category A disease as referred to in Articles 63 and 68 of Regulation (EU) 2016/429;
+
+(iv) Chapter IV lays down supplementing rules regarding disease control measures in the event of suspicion and official confirmation of a category A disease in wild animals as referred to in Article 70 of Regulation (EU) 2016/429;
+
+(v) Chapter V lays down supplementing rules on disease control measures in the event of suspicion and official confirmation of category B and C diseases in terrestrial animals as referred to in Article 74 and 77 of Regulation (EU) 2016/429;
+
+(b) Part III covers kept and wild aquatic animals, and in particular:
+
+(i) Chapter I lays down supplementing rules on disease control measures in the event of suspicion and official confirmation of a category A disease in aquatic animals as referred to in Articles 53, 54, 55, 58 and 63 of Regulation (EU) 2016/429;
+
+(ii) Chapter II lays down supplementing rules regarding the establishment of restricted zones in the event of official confirmation of a category A disease in aquaculture animals as referred to in Article 64 and 67 of Regulation (EU) 2016/429;
+
+(iii) Chapter III lays down supplementing rules regarding disease control measures in the event of suspicion and official confirmation of a category A disease in wild aquatic animals as referred to in Article 70 of Regulation (EU) 2016/429;
+
+(iv) Chapter IV lays down supplementing rules on disease control measures in the event of suspicion and official confirmation of category B and C diseases in aquatic animals as referred to in Article 74 and 77 of Regulation (EU) 2016/429;
+
+(c) Part IV covers final provisions.
+
+##### Article 2 — Definitions
+
+For the purposes of this Regulation, definitions laid down in Regulation (EU) 2018/1882 and Annex I to Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 1 ) shall apply, except where those definitions cover terms that are defined in the second paragraph of this Article.
+
+In addition, the following definitions shall also apply:
+
+(1) ‘means of transport’ means road or rail vehicle, vessels and aircrafts;
+
+(2) ‘day-old chicks’ means poultry less than 72 hours old;
+
+(3) ‘semen’ means the ejaculate of an animal or animals, either in the unaltered state or prepared or diluted;
+
+(4) ‘oocytes’ means the haploid stages of the ootidogenesis including secondary oocytes and ova;
+
+(5) ‘embryo’ means the initial stage of development of an animal while it is capable of being transferred to a recipient dam;
+
+(6) ‘fresh meat’ means meat, minced meat and meat preparations, including vacuum-wrapped or wrapped in a controlled atmosphere, which has not undergone any process other than chilling, freezing or quick-freezing;
+
+(7) ‘carcass of an ungulate’ means the whole body of a slaughtered or killed ungulate after:
+
+— bleeding, in the case of slaughtered animals,
+
+— evisceration,
+
+— removal of the limbs at the carpus and tarsus,
+
+— removal of the tail, the udder, the head and the skin, except in porcine animals;
+
+(8) ‘offal’ means fresh meat other than that of the carcass as defined in (7), even if it remains naturally connected to the carcass;
+
+(9) ‘meat products’ means processed products, including treated stomachs, bladders, intestines, rendered fats, meat extracts and blood products, resulting from the processing of meat or from the further processing of such processed products, so that the cut surface shows that the product no longer has the characteristics of fresh meat;
+
+(10) ‘casings’ means the bladders and intestines that after cleaning have been processed by tissue scraping, defatting and washing and have been treated with salt or dried;
+
+(11) ‘colostrum’ means the fluid secreted by the mammary glands of kept animals up to five days post parturition that is rich in antibodies and minerals, and precedes the production of raw milk.
+
+(12) ‘colostrum-based products’ means processed products resulting from the processing of colostrum or from the further processing of such processed products;
+
+(13) ‘safe commodity’ means a commodity that can be moved without the need for risk mitigation measures specifically directed against a particular listed disease regardless of the status of the Member State or zone of origin for that disease;
+
+(14) ‘supply chain’ means an integrated production chain of a common health status as regards listed diseases consisting of a collaborative network of specialised establishments approved by the competent authority for the purpose of Article 45, between which animals are moved to complete the production cycle;
+
+(15) ‘infected zone’ means a zone in which restrictions on the movements of kept and wild animals or products and other disease control and biosecurity measures may be applied with the view to preventing the spread of a category A disease in the event of official confirmation of the disease in wild animals.
+
+##### Article 3 — Clinical examinations, sampling procedures and diagnostic methods
+
+1\. Where clinical examinations of animals are required pursuant to this Regulation in order to confirm or rule out the presence of a category A disease, the competent authority shall ensure that:
+
+(a) the sampling of animals for clinical examination is carried out in accordance with:
+
+(i) point A.1 of Annex I for terrestrial animals; and
+
+(ii) point 1 of Annex XII for aquatic animals;
+
+(b) the clinical examination comprises:
+
+(i) an initial general evaluation of the animal health status of the establishment which comprises all the animals of listed species kept in the establishment; and
+
+(ii) an individual examination of the animals included in the sample referred to in point (a).
+
+2\. Where laboratory examinations are required pursuant to this Regulation in order to confirm or rule out the presence of a category A disease, the competent authority shall ensure that:
+
+(a) the sampling of animals for laboratory examination is carried out in accordance with:
+
+(i) point A.2 of Annex I for terrestrial animals; and
+
+(ii) point 1(b), (c), (d) and (e) of Annex XII for aquatic animals;
+
+(b) the diagnostic methods for laboratory examinations fulfil the requirements set out in:
+
+(i) point B of Annex I for terrestrial animals; and
+
+(ii) point 2 of Annex XII for aquatic animals;
+
+(c) the samples are sent:
+
+(i) without delay to an official laboratory designated in accordance with Article 37 of Regulation (EU) 2017/625 of the European Parliament and of the Council ( 2 );
+
+(ii) in accordance with point C of Annex I for terrestrial animals and point 1(f) of Annex XII for aquatic animals; and
+
+(iii) following any other instruction from the competent authority and from the laboratory regarding biosecurity and biosafety conditions to prevent the spread of category A disease agents;
+
+(d) in the case of kept animals:
+
+(i) an inventory of all kept animals on the establishment and their species and categories is compiled; for poultry and aquaculture animals the number of animals may be estimated; and
+
+(ii) an identification mark of each sampled animal of listed species, or in the case of poultry and aquaculture animals the batch number, is recorded.
+
+##### Article 4 — Contingency plans
+
+The competent authority shall implement the measures laid down in this Regulation in accordance with the contingency plan referred to in Article 43 of Regulation (EU) 2016/429.
+
+## PART II — TERRESTRIAL ANIMALS
+
+### CHAPTER I — Disease control measures for category A diseases in kept terrestrial animals
+
+#### Section 1 — Preliminary disease control measures in the event of suspicion of a category A disease in kept animals
+
+##### Article 5 — Obligations on operators in the event of suspicion of a category A disease in kept animals in an establishment
+
+In the event of suspicion of a category A disease in kept animals, operators shall take the following disease control measures in order to prevent the spread of the category A disease from the affected animals and establishments under their responsibility to other unaffected animals or to humans until the competent authority rules out the presence of the category A disease:
+
+(a) isolate all animals suspected of being infected with the category A disease;
+
+(b) keep the manure, including litter and used bedding, and any product, material or substance likely to be contaminated with and to transmit category A diseases isolated and protected from insects and rodents, kept animals of non-listed species and wild animals to the extent technically and practically feasible;
+
+(c) implement the appropriate additional biosecurity measures to avoid any risk of spread of the category A disease;
+
+(d) cease all movements of kept animals of listed species from or to the establishment;
+
+(e) prevent non-essential movements of animals of non-listed species, products, materials, substances, persons and means of transport from or to the establishment;
+
+(f) ensure that production, health and traceability records of the establishment are updated;
+
+(g) provide the competent authority, on its request, with any relevant information regarding the category A disease; and
+
+(h) follow any instructions given by the competent authority regarding the control of the category A disease, in accordance with Regulation (EU) 2016/429 and this Regulation.
+
+##### Article 6 — Investigation by the competent authority in the event of suspicion of a category A disease in kept animals in an establishment
+
+1\. In the event of suspicion of a category A disease in kept animals in an establishment, in accordance with Article 9(1), (3) and (4) of Delegated Regulation (EU) 2020/689, the competent authority shall immediately conduct an investigation to confirm or rule out the presence of the suspected listed disease.
+
+2\. In the course of the investigation referred to in paragraph 1 the competent authority shall ensure that official veterinarians perform at least:
+
+(a) clinical examinations of kept animals of listed species at the establishment; and
+
+(b) collection of samples for laboratory examinations.
+
+##### Article 7 — Preliminary restriction and biosecurity measures in the event of suspicion of a category A disease in kept animals in an establishment
+
+1\. In the event of suspicion of a category A disease in an establishment, the competent authority shall place the establishment under official surveillance and immediately impose the following preliminary restriction and biosecurity measures, in order to prevent the spread of the category A disease from the affected animals and the establishment to other unaffected animals or to humans:
+
+(a) prohibition of movements of kept animals of listed species into and from the establishment;
+
+(b) prohibition of movements of kept animals of non-listed species into and from the establishment;
+
+(c) prohibition of movements of any product, material or substance likely to be contaminated with or likely to transmit category A diseases from the establishment;
+
+(d) isolation of kept animals of listed species and protection from wild animals, animals of non-listed species and, when necessary, from insects and rodents;
+
+(e) prohibition of killing of animals of listed species, unless authorised by the competent authority; and
+
+(f) prohibition of non-essential movements of products, materials, substances, persons and means of transport into the establishments.
+
+2\. By way of derogation from point 1(a), (b) and (c) the competent authority may authorise movements of animals and products from the establishment where a category A disease is suspected, after carrying out a risk assessment and provided that:
+
+(a) the movements of animals and products comply with all conditions and biosecurity measures necessary in order to avoid the spread of the disease;
+
+(b) in the establishment of destination there are not other kept animals of listed species; and
+
+(c) the establishment of destination is not a slaughterhouse.
+
+The first subparagraph, point (c), shall not apply to movements of animals of non-listed species.
+
+2a. By way of derogation from point 1(b), the competent authority may authorise movements of animals of non-listed species into the establishment where a category A disease is suspected, after carrying out a risk assessment and provided that:
+
+(a) the animals of non-listed species were temporarily moved out of the establishment before the category A disease was suspected;
+
+(b) appropriate biosecurity measures necessary to avoid the spread of the category A disease are applied.
+
+3\. Where derogations provided for in paragraph 2 are granted, the competent authority may impose the disease control measures provided for in paragraph 1 in the establishment of destination.
+
+4\. The competent authority may order preventive killing, in accordance with Article 12(1) and (2), of animals of listed species in the establishment where a category A disease is suspected when the epidemiological situation so requires.
+
+5\. All animal by-products from dead animals, which have died or have been killed in the establishment where a category A disease is suspected shall be processed or disposed of in accordance with Regulation (EC) No 1069/2009 to ensure that the suspected disease agent is inactivated and to prevent the spread of the disease to unaffected animals or to humans.
+
+##### Article 8 — Inventory and records analysis in the event of suspicion of a category A disease in kept animals in an establishment
+
+1\. In the event of suspicion of a category A disease, the competent authority shall order and verify that, without delay, operators of the establishments where a category A disease is suspected compile and maintain an up-to-date inventory of the following:
+
+(a) the species, categories and number of animals kept on the establishment; for poultry, the number of animals may be estimated;
+
+(b) the individual identification number of all the animals of species for which the individual identification is compulsory in accordance with Commission Delegated Regulation (EU) 2019/2035 ( 3 );
+
+(c) the species, categories and number of kept animals of listed species which have been born, died, showed clinical signs or are likely to be infected or contaminated with the category A disease in the establishment;
+
+(d) any product, material or substance likely to be contaminated with or likely to transmit the relevant category A disease in the establishment; and
+
+(e) when relevant, all places likely to enable the survival of the vectors of the relevant category A disease in the establishment.
+
+2\. Where the establishment consists of several epidemiological units, the information in paragraph 1 shall be specified for each epidemiological unit.
+
+3\. In the framework of the epidemiological enquiry, as referred to in Article 57 of Regulation (EU) 2016/429, the competent authority shall analyse at least the following records of the establishment where a category A disease is suspected:
+
+(a) the inventory referred to in paragraph 1;
+
+(b) the records concerning the origin and date of arrival and departure at or from the establishment of kept animals of listed species;
+
+(c) the records concerning the origin and date of arrival and departure at or from the establishment of other relevant transport movements;
+
+(d) the production records; and
+
+(e) the records concerning to visits to the establishment, if available.
+
+4\. The records analysis referred to in paragraph 3 shall cover, at least, the monitoring period set out in Annex II for the relevant disease, calculated backwards from the date on which the suspicion was notified.
+
+##### Article 9 — Temporary restricted zones in the event of suspicion of a category A disease in kept terrestrial animals in an establishment
+
+1\. In the event of suspicion of a category A disease in kept animals in an establishment, the competent authority may establish a temporary restricted zone taking into account the following circumstances:
+
+(a) the location of the establishment in an area with a high density of kept animals of listed species for which a category A disease is suspected;
+
+(b) the movement of animals or persons in contact with kept animals of listed species for which a category A disease is suspected;
+
+(c) the delay in confirming the category A disease pursuant to Article 11;
+
+(d) the insufficient information on the possible origin and routes of introduction of the suspected category A disease; and
+
+(e) the disease profile, in particular the routes and speed of transmission of the disease and the persistence of the disease in the animal population.
+
+2\. In the establishments within the temporary restricted zone the competent authority shall apply at least the measures provided for in Article 7.
+
+3\. The competent authority may maintain the temporary restricted zone until the moment that the presence of the category A disease has been ruled out in the establishment where it was suspected or the presence of that disease has been confirmed and a restricted zone is established pursuant to Article 21.
+
+4\. The competent authority may order preventive killing, in accordance with Article 12(1) and (2), or slaughtering of animals of listed species, in the temporary restricted zones when the epidemiological situation so requires.
+
+##### Article 10 — Measures to apply in the event of suspicion of a category A disease in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance, including means of transport
+
+1\. In the event of suspicion of a category A disease in accordance with Article 9(1), (3) and (4) of Delegated Regulation (EU) 2020/689 in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance, including means of transport, the competent authority shall apply:
+
+(a) the relevant provisions laid down in Articles 5 to 9; and
+
+(b) if needed, additional measures adapted to the specific situation in order to prevent the spread of the category A disease to unaffected animals or to humans.
+
+2\. The competent authority shall also apply provisions laid down in Articles 5 to 9 in the establishments of origin of the animals or products present in the establishments and locations referred to in paragraph 1 which are suspected to be infected.
+
+#### Section 2 — Disease control measures in the event of the official confirmation of a category A disease in kept animals
+
+##### Article 11 — Official confirmation of a category A disease in kept terrestrial animals
+
+The competent authority shall officially confirm an outbreak of a category A disease in kept terrestrial animals when a case is confirmed in accordance with Article 9(2), (3) and (4) of Delegated Regulation (EU) 2020/689.
+
+##### Article 12 — Disease control measures in the event of official confirmation of an outbreak of a category A disease in kept animals in an establishment
+
+1\. Following the official confirmation of an outbreak of a category A disease in an establishment in accordance with Article 11, the competent authority shall order that, in addition to measures provided for in Article 7, the following disease control measures are immediately applied under the supervision of official veterinarians:
+
+(a) all animals of listed species kept in the affected establishment shall be killed as soon as possible on the spot, within the establishment, in such a way as to avoid any risk of spreading the relevant category A disease agent during and after killing;
+
+(b) all appropriate and necessary biosecurity measures shall be taken to avoid any possible spread of the category A disease to unaffected kept or wild animals or to humans;
+
+(c) bodies or parts of kept animals of listed species which have died or which have been killed pursuant to point (a) of this paragraph shall be disposed of in accordance with Regulation (EC) No 1069/2009;
+
+(d) all potentially contaminated products, materials or substances present in the establishment shall be isolated until:
+
+(i) they are disposed of or processed in accordance with Regulation (EC) No 1069/2009, in the case of animal by-products (including those resulting from the killing and products of animal origin and germinal products);
+
+(ii) cleaning and disinfection measures are completed in accordance with the Article 15, in the case of other materials and substances fit for cleaning and disinfection;
+
+(iii) disposal is completed under the supervision of official veterinarians, in the case of feeding stuff and other materials unfit for cleaning and disinfection.
+
+2\. The competent authority shall order and supervise that:
+
+(a) the transport from the affected establishment of animal by-products referred to in paragraphs 1(c) and 1(d)(i) complies with the provisions of Regulation (EC) No 1069/2009;
+
+(b) the transport from the affected establishment of materials or substances referred to in paragraph 1(d)(iii) complies with its instructions regarding biosecurity and biosafety conditions to prevent the spread of category A disease agent.
+
+3\. The competent authority shall collect samples for laboratory examination from kept animals of listed species, before or when they are killed or dead, for the purposes of the epidemiological enquiry referred to in Article 57 of Regulation (EU) 2016/429.
+
+4\. By way of derogation of point (a) of paragraph 1, the competent authority may, after carrying out a risk assessment and taking into account the possibility of applying other risk-mitigating measures, decide:
+
+(a) to order the killing of kept animals of listed species at the nearest suitable place in such a way as to avoid any risk of spreading the category A disease during killing or transport; or
+
+(b) postpone the killing of kept animals of listed species, provided that those animals are subject to emergency vaccination as provided for in Article 69 of Regulation (EU) 2016/429.
+
+##### Article 13 — Specific derogations from Article 12(1)(a)
+
+1\. In the event of an outbreak of a category A disease in establishments keeping animals of listed species in two or more epidemiological units, the competent authority may grant derogation from Article 12(1)(a) to the epidemiological units in which the disease has not been confirmed, after carrying out a risk assessment, and, when necessary, after obtaining favourable results in laboratory examinations, and provided that:
+
+(a) the epidemiological enquiry referred to in Article 57 of Regulation (EU) 2016/429 has not revealed any epidemiological link between the epidemiological units in which the category A disease has been confirmed and those in which the disease has not been confirmed, to suspect the spread of the category A disease between them; and
+
+(b) the competent authority has confirmed that, at least during the monitoring period, set out in Annex II for the relevant disease, before the confirmation of the category A disease, the epidemiological units in which the disease has not been confirmed were kept completely separated and handled by different personnel.
+
+2\. The competent authority may grant derogation from Article 12(1)(a) to the following categories of animals provided that the conditions in paragraph 3 are fulfilled:
+
+(a) animals kept in a confined establishment;
+
+(b) animals kept for scientific purposes or purposes related to conservation of protected or endangered species;
+
+(c) animals officially registered in advance as rare breeds; and
+
+(d) animals with a duly justified high genetic, cultural or educational value.
+
+3\. The competent authority shall ensure that the following conditions are fulfilled when granting the derogation provided for in paragraph 2:
+
+(a) the competent authority has carried out an assessment of the effects of granting such derogation and, in particular, of the effects on the animal health status of the Member State concerned and of the adjacent countries and the outcome of this assessment indicated that the animal health status is not endangered;
+
+(b) appropriate biosecurity measures are applied to prevent the risk of transmission of the category A disease to unaffected kept animals or to wild animals or to humans taking into account:
+
+(i) the disease profile; and
+
+(ii) the affected species of animals;
+
+(c) the animals are subject to appropriate isolation and clinical surveillance, including laboratory examinations, until the competent authority can ensure that the animals do not pose a risk of transmission of the category A disease.
+
+4\. The competent authority may grant specific derogations from Article 12(1)(a) to equine animals kept in establishments where an outbreak of the category A diseases referred to in Annex III has been confirmed under the conditions set out in that Annex.
+
+##### Article 14 — Additional disease control measures in the event of an outbreak of a category A disease in kept terrestrial animals in an establishment
+
+1\. The competent authority may establish, in addition to the measures provided for in Article 12, sampling procedures for kept animals of non-listed species and wild animals of listed species, based on the information obtained from the epidemiological enquiry referred to in Article 57 of the Regulation (EU) 2016/429.
+
+2\. The competent authority may, after carrying out a risk assessment of the further spread of the relevant category A disease and taking into account the possibility of applying other risk-mitigating measures, order the killing of kept animals of non-listed species and wild animals in such a way as to avoid any risk of spreading the category A disease during killing, transport and until disposal of the entire bodies or parts of the dead animals.
+
+##### Article 15 — Cleaning and disinfection and control of insects and rodents in the affected establishment
+
+1\. The competent authority shall order and supervise the cleaning and disinfection and, where relevant, the control of insects and rodents, in the affected establishment, as follows:
+
+(a) a preliminary cleaning and disinfection, and where relevant, control of insects and rodents, immediately after the completion of the disease control measures accordance with Article 12, 13 and 14; and
+
+(b) a final cleaning and disinfection, and, where relevant, control of insects and rodents as provided for in Article 68(1), point (b) of Regulation (EU) 2016/429, immediately after the completion of the preliminary cleaning and disinfection.
+
+2\. The preliminary and final cleaning, disinfection and control of insects and rodents, referred to in paragraph 1 shall be:
+
+(a) performed in accordance with the general requirements set out in point A of Annex IV and the relevant procedures set out in points B and C of that Annex, using the appropriate biocidal products to ensure the destruction of the relevant category A disease agent; and
+
+(b) adequately documented.
+
+3\. If the competent authority has granted one of the specific derogations from the disease control measures laid down in Article 12(1), point (a), provided for in Article 13(2) and (4), it shall adapt the procedures laid down in Annex IV to the specific situation, without detriment to the control of the spread of the category A disease from the affected animals and affected establishments and locations to other unaffected animals or to humans.
+
+4\. In addition to the measures referred to in paragraphs 1 and 2, the competent authority shall order and supervise that the means of transport used for the transport of animals to and from the affected establishment are properly cleaned and disinfected and, where relevant, subjected to measures ensuring the control of insects and rodents.
+
+##### Article 16 — Derogations and special rules for the cleaning and disinfection and control of vectors
+
+The competent authority may grant derogation to the requirement regarding cleaning and disinfection and control of insects and rodents set out in Article 15 in the case of:
+
+(a) pastures epidemiologically linked to the affected establishment, under specific procedures to ensure effective inactivation of the relevant category A disease agent taking into account the disease profile, the type of establishment and the climatic conditions; and
+
+(b) manure, including litter and used bedding, from the affected establishment, under specific procedures to ensure effective inactivation of the relevant category A disease agent in accordance with scientific evidence.
+
+##### Article 17 — Identification of epidemiologically linked establishments and other locations of relevance, including means of transport
+
+1\. In the frame of the epidemiological enquiry, as referred to in Article 57 of the Regulation (EU) 2016/429, and in order to identify all the epidemiologically linked establishments and other locations of relevance, including means of transport, the competent authority shall trace all kept animals present in the establishment where an outbreak of a category A disease has been confirmed and any products, materials, substances, means of transport or people likely to spread the relevant category A disease including:
+
+(a) those dispatched into and from the establishment; and
+
+(b) those that have entered into contact with the establishment.
+
+2\. The tracing referred to in paragraph 1 shall cover at least the monitoring period, set out in Annex II for the relevant disease, calculated backwards from the date the suspicion was notified.
+
+3\. After carrying out a risk assessment, the competent authority may exclude from the tracing referred to in paragraph 1 those products considered as safe commodities, as provided for in Annex VII.
+
+##### Article 18 — Measures to be applied in the epidemiologically linked establishments and other locations of relevance, including means of transport
+
+1\. When the tracing provided for in Article 17(1) demonstrates that animals of listed species were dispatched from or to the affected establishment during the period referred to in paragraph 2 of that Article, the competent authority shall:
+
+(a) carry out investigations and impose restriction and biosecurity measures in accordance with Article 6, Article 7 and Article 8 in the establishments of destination or origin of the movement; or
+
+(b) immediately extend the measures in Article 12 to the establishment of origin or the establishment of destination of the movement in the case that there is epidemiological evidence of spreading of the disease to, from or through that establishment.
+
+2\. The competent authority shall apply the measures referred to in paragraph 1 in other establishments and locations of relevance, including means of transport, likely to be contaminated as a result of contact with animals, products, materials, substances, persons or means of transport from the affected establishment identified in the frame of the tracing referred to in Article 17 or based on any other relevant information from the epidemiological enquiry, as referred to in Article 57 of the Regulation (EU) 2016/429.
+
+##### Article 19 — Measures to be applied to the products identified by the tracing
+
+1\. The competent authority shall order and supervise that semen, oocytes and embryos identified as contaminated by the tracing referred to in Article 17 are disposed of in accordance with Regulation (EU) No 1069/2009.
+
+2\. The competent authority shall order and supervise the treatment, processing or disposing of the products identified by the tracing referred to in Article 17, at least up to:
+
+(a) the first food processing establishment in the case of products of animal origin;
+
+(b) the hatchery or the establishment where eggs were sent for hatching, in the case of hatching eggs which did not yet hatch; and
+
+(c) the first establishment of processing in the case of animal by products, except manure; or
+
+(d) the location where it is stored, in the case of manure, including litter and used bedding.
+
+3\. The competent authority shall establish official surveillance on poultry hatched during the tracing period referred to in Article 17(2) from hatching eggs originating from the affected establishment; this surveillance shall be established in all the establishments of destination of the hatching eggs and shall be maintained for a period of time of 21 days after hatching.
+
+4\. The competent authority shall order and supervise that the transport from the establishments of animal by-products is subject to the provisions laid down in Regulation (EC) No 1069/2009.
+
+5\. The competent authority shall order and supervise that materials or substances likely to be contaminated or likely to transmit the relevant category A disease comply with its instructions regarding biosecurity and biosafety conditions to prevent the spread of category A disease agent.
+
+6\. The competent authority shall order and supervise that the treatment or processing of products, as referred to in paragraph 2 of this Article are carried out in accordance with Annex VII or VIII, as relevant.
+
+##### Article 20 — Measures to be applied in the event of official confirmation of an outbreak of a category A disease in food and feed businesses, border control posts, animal by-products establishments and any other location of relevance, including means of transport
+
+1\. In the event of official confirmation of an outbreak in accordance with Article 11 in food and feed businesses, border control posts, animal by-products establishments or any other locations of relevance, including means of transport, the competent authority shall apply:
+
+(a) the relevant provisions laid down in Articles 12 to 19; and
+
+(b) if needed, additional measures adapted to the specific situation in order to prevent the spread of the category A disease from the affected animals and affected establishments and locations to other unaffected animals or to humans.
+
+2\. The competent authority shall apply provisions laid down in Articles 12 to 19 also in the establishments of origin of the affected animals or products present in the establishments and locations referred to in paragraph 1.
+
+### CHAPTER II — Disease control measures for category A diseases of kept terrestrial animals in the restricted zones
+
+#### Section 1 — General disease control measures in the restricted zone
+
+##### Article 21 — Establishment of a restricted zone
+
+1\. In the event of an outbreak of a category A disease in an establishment, food and feed business, animal by–products establishment or other locations, including means of transport, the competent authority shall immediately establish around the affected establishment or location a restricted zone, which comprises:
+
+(a) a protection zone based on the minimum radius from the outbreak set out for the relevant category A disease in Annex V;
+
+(b) a surveillance zone based on the minimum radius from the outbreak set out for the relevant category A disease in Annex V; and
+
+(c) if necessary, on the basis of the criteria laid down in Article 64(1) of Regulation (EU) 2016/429, further restricted zones where the competent authority shall apply the same measures as those provided for in Section 3 of this Chapter for the surveillance zone.
+
+2\. The competent authority shall adapt the boundaries of the restricted zone, including the boundaries of the protection, surveillance and the further restricted zones, in accordance with Article 64(2) of Regulation (EU) 2016/429.
+
+3\. By way of derogation from paragraph 1, the competent authority may decide, after carrying out a risk assessment taking into account the disease profile, not to establish a restricted zone when an outbreak of a category A disease occurs in the following locations:
+
+(a) establishments keeping animals referred to Article 13(2);
+
+(b) hatcheries;
+
+(c) food and feed businesses, border control posts, animal by-products establishments;
+
+(d) means of transport;
+
+(e) locations where assembly operations or temporal exhibition or veterinary assistance of animals take place; and
+
+(f) any other location which is not an establishment; and
+
+(g) establishments keeping up to 50 captive birds, provided that they have no direct or indirect contact with poultry or other establishments keeping captive birds.
+
+##### Article 22 — Measures to be applied in the restricted zone
+
+1\. The competent authority shall without delay compile and keep up to date an inventory of all establishments keeping animals of listed species located in the restricted zone including the species, categories and number of animals in each establishment; for poultry, the number of animals may be estimated.
+
+2\. The competent authority may, in order to prevent the spreading of the disease and based on epidemiological information or other evidence, implement preventive killing, in accordance with Article 12(1) and (2), or slaughtering of kept animals of listed species in the establishments located in the restricted zone.
+
+3\. The competent authority shall order and supervise that all movements of entire bodies or parts of dead wild and kept animals of listed species from the restricted zone are destined for processing or disposal in accordance with Regulation (EC) No 1069/2009:
+
+(a) within the territory of the Member State; or
+
+(b) in a plant approved for those purposes in another Member State in accordance with Article 48(1) and (3) of Regulation (EC) No 1069/2009, where it is not feasible to process or dispose of the entire bodies or parts of dead animals in an approved plant within the territory of the Member State where the outbreak occurred.
+
+4\. The competent authority shall impose specific conditions for the transport of animals and products through the restricted zone in order to ensure that they are performed:
+
+(a) without stopping or unloading in the restricted zone;
+
+(b) prioritising major highways or mainline railways; and
+
+(c) avoiding the vicinity of establishments keeping animals of listed species.
+
+5\. Animal by-products from animals of listed species, originating from and moved outside the restricted zone shall be accompanied by an animal health certificate issued by an official veterinarian stating that they are allowed to be moved from the restricted zone under the conditions established by the competent authority in accordance with this Chapter.
+
+6\. The competent authority may decide that the certificate referred to in paragraph 5 shall not be issued for movements of animal by-products within the Member State concerned when that authority considers that an alternative system is in place ensuring that consignments of such products are traceable and that products fulfil the animal health requirements for such movements.
+
+7\. Any collection of samples in the establishments in the restricted zone keeping animals of listed species for purposes other than to confirm or rule out the presence of the relevant category A diseases must be authorised by the competent authority.
+
+##### Article 23 — Derogations from measures to be applied in the restricted zone
+
+The competent authority may grant derogations from the rules laid down in this Chapter concerning the measures to be applied in restricted zones, to the extent necessary and after carrying out a risk assessment that indicates that the risk of the spread of the category A disease is negligible:
+
+(a) in the further restricted zones referred to in Article 21(1), point (c);
+
+(b) where the competent authority decides to establish a restricted zone when an outbreak of a category A disease occurs in establishments and locations referred to in Article 21(3);
+
+(c) in establishments and locations referred to in Article 21(3), points (a) to (f), located in a restricted zone.
+
+##### Article 24 — Requirements for the means of transport of kept animals of listed species and products thereof
+
+1\. The competent authority shall ensure that the means of transport used for movements of kept animals of listed species and products thereof within, from, to and through the restricted zone have been:
+
+(a) constructed and maintained in such a way to avoid any leakage or escape of animals, products or any item representing an animal health risk;
+
+(b) cleaned and disinfected immediately after every transport of animals, products or any item representing an animal health risk and, if necessary, subsequently disinfected again, and in any case dried or allowed to dry, before any new loading of animals or products; and
+
+(c) where relevant, subjected to measures for the control of insects and rodents before the transport.
+
+2\. The cleaning and disinfection of the means of transport referred to in paragraph 1 shall be performed:
+
+(a) in accordance with the instructions or procedures provided for by the competent authority using the appropriate biocidal products to ensure the destruction of the relevant category A disease agent; and
+
+(b) adequately documented.
+
+#### Section 2 — Disease control measures in the protection zone
+
+##### Article 25 — Measures to be applied in establishments keeping animals of listed species in the protection zone
+
+1\. The competent authority shall order without delay the application of the following measures in establishments in the protection zone keeping animals of listed species, other than the establishment in which the category A disease has been confirmed:
+
+(a) to keep animals of listed species separate from wild animals and animals of non-listed species;
+
+(b) to implement additional surveillance in order to identify any further spread of the category A disease to the establishments, including any increased morbidity or mortality or significant drop in production data; any such increase or drop shall be immediately notified to the competent authority;
+
+(c) when appropriate, to implement adequate means of controlling insects and rodents and other disease vectors in and around the establishment;
+
+(d) to use appropriate means of disinfection at the entrances and exits of the establishment;
+
+(e) to apply appropriate biosecurity measures to all persons in contact with kept animals of listed species or entering or leaving the establishment as well as to means of transport in order to avoid any risk of spread of the relevant category A disease;
+
+(f) to keep records of all persons visiting the establishment, maintain them up to date in order to facilitate disease surveillance and control and made them available to the competent authority upon request;
+
+(g) to dispose entire bodies or parts of dead or killed kept animals of listed species according to Article 22(3).
+
+2\. By way of derogation of point (f) of paragraph 1 the records on visitors are not required in establishments where animals referred to in Article 13(2) are kept, if visitors have no access to the areas where the animals are kept.
+
+##### Article 26 — Visits by official veterinarians in establishments in the protection zone
+
+1\. The competent authority shall ensure that official veterinarians carry out at least one visit to all the establishments referred to in Article 25, as soon as possible and without unjustified delay, after the official confirmation of an outbreak of a category A disease.
+
+2\. When carrying out the visits referred to in paragraph 1, official veterinarians shall perform at least the following activities:
+
+(a) documentary checks, including production, health and traceability records analysis;
+
+(b) verification of the implementation of the measures applied to prevent the introduction or spread of the relevant category A disease in accordance with Article 25;
+
+(c) clinical examination of kept animals of listed species; and
+
+(d) the collection of samples from animals for laboratory examination in order to confirm or rule out the presence of the relevant category A disease unless, based on the relevant scientific evidence, a clinical examination is sufficient to rule out the presence of that disease.
+
+3\. The competent authority may require further veterinary visits to the establishments in the protection zone to follow up on the situation.
+
+4\. The competent authority shall keep a record of activities and visits referred to in paragraph 1, 2 and 3 and the findings thereof.
+
+5\. By way of derogation from paragraph 1, where the radius of the protection zone set in Annex V is larger than 3 km, the competent authority may decide to require not the visit to all the establishments referred to in Article 25 but the visit of a representative number of those establishments in accordance with point A.3 of Annex I.
+
+##### Article 27 — Prohibitions in relation to activities, including movements, concerning animals, products and other material within, from or to the protection zone
+
+1\. The competent authority shall prohibit the activities, including movements, concerning animals of listed species and their products and other materials within, from and to the protection zone in accordance with the table in Annex VI.
+
+2\. The competent authority may extend the prohibitions provided for in paragraph 1 to:
+
+(a) animals of non-listed species and products from such animals; and
+
+(b) activities, including movements, other than those set out in Annex VI.
+
+3\. The following products are exempted from prohibitions provided for in paragraphs 1 and 2:
+
+(a) products of animal origin referred to as safe commodities in Part I of Annex VII, as regards the relevant category A disease;
+
+(b) products of animal origin which have undergone one of the relevant treatments provided in Part I of Annex VII for the relevant category A disease;
+
+(c) products or other materials likely to spread the disease obtained or produced before the monitoring period set out in Annex II for the relevant disease calculated backwards from the date on which the suspicion was notified;
+
+(d) products produced in the protection zone which have been obtained from kept animals of listed species:
+
+(i) kept outside the protection zone;
+
+(ii) kept and slaughtered outside the protection zone; or
+
+(iii) kept outside the protection zone and slaughtered in the protection zone;
+
+(e) derived products obtained with standard processing methods and standard transformation parameters, as laid down in Commission Regulation (EU) 142/2011 ( 4 ), and provided for in Part II of Annex VII to this Regulation for the relevant product;
+
+(f) gelatine and collagen.
+
+4\. Prohibitions provided for in paragraph 1 and 2 shall apply to products referred to in paragraph 3 if:
+
+(a) the products were not clearly separated, during the production process, storage and transport, from products not eligible for dispatch outside the restricted zone pursuant to this Regulation; or
+
+(b) the competent authority has epidemiological evidences of spreading of the disease to, from or through those products.
+
+##### Article 28 — General conditions to grant derogations from prohibitions in the protection zone
+
+1\. By way of derogation from prohibitions provided for in Article 27, the competent authority may authorise movements of animals and products if the risk for the spread of the category A disease deriving from such movements is negligible, and if the general conditions laid down in paragraphs 2 to 7 of this Article are fulfilled:
+
+(a) in the cases provided for in Articles 29 to 38, and in accordance with the specific conditions laid down in those Articles; or
+
+(b) if animals and products originate in compartments approved in accordance with Article 5 of Commission Delegated Regulation (EU) 2024/2623 ( 5 ) for the relevant category A disease and listed in Annex XI to Commission Implementing Regulation (EU) 2021/620 ( 6 ).
+
+2\. All authorised movements must be performed:
+
+(a) exclusively via designated routes,
+
+(b) prioritising major highways or mainline railways,
+
+(c) avoiding the vicinity of establishments keeping animals of listed species; and
+
+(d) without unloading or stopping, until the unloading in the establishment of destination.
+
+3\. The competent authority of the establishment of origin shall designate the establishment of destination for movements from or to the protection zone. If the competent authority of the establishment of origin is different from the competent authority of the establishment of destination, it shall make that designation in cooperation with the competent authority of the establishment of destination.
+
+4\. The competent authority of the establishment of origin shall verify that the establishment of destination agrees to be designated and to receive each consignment of animals or products.
+
+5\. When authorising movements of animals from the protection zone, the competent authority shall ensure that such movements do not pose a risk of spreading of the category A disease based on:
+
+(a) a clinical examination, with favourable results, of animals kept in the establishment, including those animals to be moved;
+
+(b) if necessary, a laboratory examination, with favourable results, of animals kept in the establishment, including those animals to be moved; and
+
+(c) the outcome of the visits referred to in Article 26.
+
+6\. When authorising the transport of products from the protection zone, the competent authority shall order and supervise that:
+
+(a) during the whole production process and their storage, products were clearly separated from products not eligible for dispatch outside the restricted zone in accordance with this Regulation; and
+
+(b) products will not be transported with products not eligible for dispatch outside the restricted zone pursuant to this Regulation.
+
+7\. When granting an authorisation pursuant to paragraph 1, the competent authority shall ensure that supplementary biosecurity measures are applied from the moment of loading, during all transport operations and until the unloading in the designated establishment of destination in accordance with its instructions.
+
+##### Article 29 — Specific conditions for authorising movements for slaughter of kept animals of listed species in the protection zone
+
+1\. The competent authority may authorise movements of kept animals of listed species from establishments located in the protection zone to a slaughterhouse located:
+
+(a) as near as possible to the establishment of origin, within the protection zone;
+
+(b) in the surveillance zone, when it is not possible to slaughter the animals in the protection zone; or
+
+(c) as near as possible to the surveillance zone when it is not possible to slaughter the animals in the restricted zone.
+
+2\. The competent authority shall only grant authorisations provided for in paragraph 1 under the following conditions:
+
+(a) the means of transport must be sealed at the moment of loading by the competent authority of dispatch or under its supervision;
+
+(b) the competent authority of the slaughterhouse shall:
+
+(i) be informed in advance by the slaughterhouse operator of the intention to receive kept animals of listed species;
+
+(ii) confirm the absence of any signs indicative of the category A disease during the ante and post mortem inspections;
+
+(iii) supervise the slaughterhouse operator having effective procedures in place to ensure that kept animals of listed species originating in the protection zone are kept separately and slaughtered separately from such animals or at different times, preferably at the end of the working day of arrival;
+
+(iv) confirm the slaughter of the animals to the competent authority of the establishment of origin of the animals;
+
+(v) supervise the slaughterhouse operator cleaning and disinfecting the premises where the animals have been kept and slaughtered and the completion of the cleaning and disinfection is completed before other kept animals of listed species are kept or slaughtered in those premises; and
+
+(vi) supervise the obtaining of meat from such animals complying with the conditions laid down in Article 33.
+
+3\. The competent authority may authorise movements of kept animals of listed species from establishments located outside the protection zone to a slaughterhouse located in the protection zone if:
+
+(a) the animals are kept separately from other animals originating from the protection zone and are slaughtered separately from those animals or at a different time;
+
+(b) the fresh meat obtained is cut, transported and stored separately from fresh meat obtained from animals originating in the protection zone; and
+
+(c) the cleaning and disinfection of the means of transport referred to in Article 24 takes place under official supervision after unloading the animals.
+
+4\. By way of derogation of Article 9 of Regulation (EC) No 1069/2009 the competent authority may authorise the processing and use of animal by-products, obtained from animals slaughtered in accordance with paragraphs 1, 2 and 3 as category 3 material in accordance with Regulation (EC) No 1069/2009 in a plant approved for processing or disposal of animal by-products, located on its territory, or in another Member State, where it is not feasible to process or dispose them in an approved plant in the territory of the Member State where the outbreak occurred.
+
+In case the animal by-products referred to in the first subparagraph are moved to a plant located in another Member State, the Member State of destination and the Member States of passage shall authorise such dispatch and the competent authority of destination shall authorise the processing and use of those animal by-products as category 3 material in accordance with Regulation (EC) No 1069/2009.
+
+##### Article 30 — Specific conditions for authorising certain movements of poultry from establishments located in the protection zone
+
+1\. The competent authority may authorise movements of day-old-chicks from an establishment located in the protection zone to an establishment located in the same Member State but, if possible, outside the restricted zone, provided that:
+
+(a) in the case of day-old-chicks hatched from eggs originating in the restricted zone:
+
+(i) the means of transport is sealed at the moment of loading by the competent authority or under its supervision;
+
+(ii) the establishment of destination is placed under official surveillance by the official veterinarians following the arrival of the animals; and
+
+(iii) if moved outside the restricted zone, the poultry remain in the establishment of destination at least for a period of 21 days.
+
+(b) in the case of day-old-chicks hatched from eggs originating outside the restricted zone, the hatchery of dispatch can ensure that no contact has occurred between those eggs and any other hatching eggs or day-old chicks originating in the restricted zone.
+
+2\. The competent authority may authorise movements of ready-to-lay poultry from establishments located in the protection zone to establishments located in the same Member State and, if possible, within the restricted zone, provided that:
+
+(a) there is no other kept animal of listed species in the establishment or epidemiological unit of destination;
+
+(b) the means of transport is sealed at the moment of loading by the competent authority or under its supervision;
+
+(c) the establishment of destination is placed under official surveillance by the official veterinarians following the arrival of the animals; and
+
+(d) if moved outside the restricted zone, the animals remain on the establishment of destination at least for a period of 21 days.
+
+##### Article 31 — Specific conditions for authorising certain movements of hatching eggs in the protection zone
+
+1\. The competent authority may authorise movements of hatching eggs either:
+
+(a) from an establishment located in the protection zone to a hatchery located in the same Member State; or
+
+(b) from an establishment located in the same member State to a hatchery located in the protection zone.
+
+2\. The authorisation provided for in paragraph 1(a) shall be subject to the following conditions:
+
+(a) the parent flocks from which the hatching eggs are derived have undergone a clinical examination and have been sampled for laboratory examination with favourable results;
+
+(b) the hatching eggs and their packaging are disinfected before dispatch and the tracing back of the hatching eggs can be ensured; and
+
+(c) the hatching eggs must be transported in means of transport sealed by the competent authority.
+
+3\. The competent authority may authorise movements of hatching eggs from an establishment located in the protection zone to an establishment for in-house hatching located in the same Member State, if:
+
+(a) the parent flocks from which the hatching eggs are derived have undergone a clinical examination and have been sampled for laboratory examination with favourable results;
+
+(b) the establishment of destination is placed under official supervision until 21 days following hatching of the eggs;
+
+(c) the poultry must remain on the establishment of destination during the period referred to in (b); and
+
+(d) the requirements referred to in paragraph 2(b) and (c) are complied with.
+
+##### Article 32 — Specific conditions for authorising movements of semen from approved germinal product establishments in the protection zone
+
+The competent authority may authorise movements of semen collected from animals of listed species kept in approved germinal product establishments, excluding hatcheries, located in the protection zone after the estimated date of earliest infection of the affected establishment subject to the following conditions:
+
+(a) all the disease control measures relating to the category A disease have been lifted in the protection zone in accordance with Article 39;
+
+(b) all kept animals of listed species in the semen collection centre have undergone a clinical examination and have been sampled for laboratory examination in order to rule out the presence of the category A disease in the semen collection centre; and
+
+(c) the donor animal has been subjected with favourable result to a laboratory examination on a sample taken not earlier than seven days after the monitoring period set out in Annex II for the relevant disease, calculated forwards from the date on which the semen was collected.
+
+##### Article 33 — Specific conditions for authorising movements of fresh meat and raw milk obtained from kept animals of listed species from establishments in the protection zone
+
+1\. The competent authority may authorise movements of fresh meat and raw milk obtained from animals of listed species kept in establishments located in the protection zone if:
+
+(a) they are moved to a processing establishment to undergo one of the relevant risk- mitigating treatments set out in Part I of Annex VII; or
+
+(b) in the case of fresh meat of poultry:
+
+(i) it has been marked in accordance with paragraph 1 of Annex IX from the moment it was obtained in the slaughterhouse; and
+
+(ii) it is not intended to another Member State.
+
+2\. The competent authority shall ensure that movements to a processing establishment referred to in paragraph 1(a) comply with the following conditions:
+
+(a) fresh meat must be marked in accordance with point 2 of Annex IX in the slaughterhouse after the post-mortem inspection and must bear such mark until it is treated;
+
+(b) the movement of fresh meat and raw milk from the establishment of origin to the processing establishment must be carried out in sealed containers; and
+
+(c) the processing establishment must be located in the same restricted zone or as near as possible to the restricted zone and must operate under the supervision of official veterinarians.
+
+##### Article 34 — Specific conditions for authorising movements of eggs for human consumption from establishments located in the protection zone
+
+The competent authority may authorise the movement of eggs for human consumption from establishments located in the protection zone to the following destinations within the same Member State:
+
+(a) to a packing centre, provided that they are packed in:
+
+(i) a disposable packaging; or
+
+(ii) a packaging which can be cleaned and disinfected in such way as to destroy the relevant category A disease agent;
+
+(b) to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation (EC) No 853/2004, in order to be handled and treated in accordance with Chapter XI of Annex II to Regulation (EC) No 852/2004 of the European Parliament and of the Council ( 7 ).
+
+##### Article 35 — Specific conditions for authorising movements of manure, including litter and used bedding, from establishments located in the protection zone
+
+The competent authority may authorise movements of manure, including litter and used bedding, from:
+
+(a) establishments located in the protection zone for the purpose of their disposal in a designated landfill located within the same Member State only after it has been treated in accordance with the treatment set out in Point C, paragraph (1)(a)(i), of Annex IV, or after processing in accordance with Article 13, point (c), of Regulation (EC) No 1069/2009;
+
+(b) establishments and locations in the protection zone to a plant approved for the processing or disposal of animal by-products, in which the products are disposed of or processed in accordance with Regulation (EC) No 1069/2009 by the methods relevant for the processing of manure provided for in Part II of Annex VII to this Regulation.
+
+##### Article 36 — Specific conditions for authorising the movement of feed materials of plant origin and straw from the protection zone
+
+The competent authority may authorise movements of feed materials of plant origin and straw produced in the protection zone provided that:
+
+(a) they were produced in locations not keeping animals of listed species;
+
+(b) they were produced in feed processing establishments not keeping animals of listed species and the raw plant material originates:
+
+(i) from locations referred to in point (a); or
+
+(ii) from outside the protection zone;
+
+(c) they are intended for use within the protection zone; or
+
+(d) they have undergone at least one of the risk-mitigating treatments in accordance with Annex VIII.
+
+##### Article 37 — Specific conditions for authorising movements of kept animals of listed species and products to an animal by-products approved plant
+
+1\. The competent authority may authorise movements of kept animals of listed species from establishments located in the protection zone to a plant approved for processing or disposal of animal by-products in which:
+
+(a) the kept animals are immediately killed; and
+
+(b) the resulting animal by-products are disposed of in accordance with Regulation (EC) No 1069/2009.
+
+2\. The competent authority may authorise movements of products from establishments and locations in the protection zone to a plant approved for the processing or disposal of animal by-products, in which the products are disposed of or processed in accordance with Regulation (EC) No 1069/2009 by the relevant method provided in Part II of Annex VII to this Regulation.
+
+##### Article 38 — Measures to be applied in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance in the protection zone, including means of transport
+
+1\. The competent authority shall apply the relevant measures referred to in Article 25, and Articles 27 to 38 in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance in the protection zone, including means of transport.
+
+2\. In the establishments and locations referred to in paragraph 1, the competent authority may apply additional measures adapted to the specific situation in order to prevent the spread of the category A disease within and from the protection zone.
+
+##### Article 39 — Duration of the disease control measures in the protection zone
+
+1\. The competent authority may lift the measures provided for in Sections 1 and 2 of this Chapter only if:
+
+(a) the minimum period set out in Annex X has elapsed following the date of completion of preliminary cleaning and disinfection and, where relevant, control of insects and rodents, performed in accordance with Article 15 in the affected establishment; and
+
+(b) in all establishments keeping animals of listed species in the protection zone, animals of listed species have undergone, with favourable results, clinical and laboratory examinations as necessary, in accordance with Article 26.
+
+2\. Where the relevant category A disease is transmitted by a listed vector, as referred to in Regulation (EU) 2018/1882, the competent authority may:
+
+(a) establish the duration of the measures in the protection zone on a case by case basis, taking into account any factor influencing the risk of the disease spreading; and
+
+(b) provide for the introduction of sentinel animals.
+
+3\. After the lifting of the measures referred to in paragraph 1, the measures provided for in Section 3 of this Chapter shall apply in the protection zone for at least the additional period set out in Annex X.
+
+4\. After the lifting of measures provided for in Section 3 of this Chapter, as referred to in paragraph 3, when the competent authority has established a further restricted zone in accordance with Article 21(1), point (c), the measures applied in this further restricted zone shall also apply in the protection zone until the lifting of the measures applied in that further restricted zone.
+
+#### Section 3 — Disease control measures in the surveillance zone
+
+##### Article 40 — Measures to be applied in establishments in the surveillance zone
+
+The competent authority shall order the application, without delay, of the measures provided for in Article 25 in all the establishments in the surveillance zone keeping animals of listed species.
+
+##### Article 41 — Visits by the official veterinarians in establishments in the surveillance zone
+
+The competent authority shall ensure that official veterinarians carry out visits to a sample of establishments keeping animals of listed species in the surveillance zone in accordance with Article 26 and point A.3 of Annex I.
+
+##### Article 42 — Prohibitions in relation to activities, including movements, concerning animals, products and other material within, from or to the surveillance zone
+
+The competent authority shall apply prohibitions, exemptions and derogations to activities, including movements concerning animals of listed species, the products thereof and other material, from and to the surveillance zone in accordance with Article 27.
+
+##### Article 43 — General conditions for granting derogations from prohibitions provided for in Article 42
+
+1\. By way of derogation from prohibitions provided for in Article 42, the competent authority may authorise movements of animals and products if the risk for the spread of the category A disease deriving from such movements is negligible, and if the general conditions laid down in paragraphs 2 to 7 of this Article are fulfilled:
+
+(a) in the cases provided for in Articles 44 to 54, and in accordance with the specific conditions laid down in those Articles; or
+
+(b) if the animals or products originate in compartments approved in accordance with Article 5 of Delegated Regulation (EU) 2024/2623 for the relevant category A disease and listed in Annex XI to Implementing Regulation (EU) 2021/620.
+
+2\. All authorised movements shall be performed:
+
+(a) prioritising major highways or mainline railways;
+
+(b) avoiding the vicinity of establishments keeping animals of listed species; and
+
+(c) without unloading or stopping, until the unloading in the establishment of destination.
+
+3\. The competent authority of the establishment of origin shall designate the establishment of destination for movements from or to the surveillance zone. If the competent authority of the establishment of origin is different from the competent authority of the establishment of destination, it shall make that designation in cooperation with the competent authority of the establishment of destination.
+
+4\. The competent authority of the establishment of origin shall verify that the establishment of destination agrees to be designated and to receive each consignment of animals or products.
+
+5\. When authorising movements of animals from the surveillance zone, the competent authority shall ensure that such movements do not pose a risk of spreading the category A disease based on:
+
+(a) a clinical examination with favourable results of animals kept in the establishment, including those animals to be moved;
+
+(b) if necessary, a laboratory examination with favourable results of animals kept in the establishment, including those animals to be moved; and
+
+(c) the outcome of the visits referred to in Article 41, if available.
+
+6\. When authorising the transport of products from the surveillance zone, the competent authority must ensure that:
+
+(a) during the whole production process and storage, products were clearly separated from products not eligible for dispatch outside the restricted zone pursuant this Regulation;
+
+(b) products will not be transported with products not eligible for dispatch outside the restricted zone pursuant this Regulation.
+
+7\. When granting derogations provided for in paragraph 1, the competent authority shall ensure that supplementary biosecurity measures are applied from the moment of loading, during all transport operations and until the unloading in the designated establishment of destination in accordance with its instructions.
+
+##### Article 44 — Specific conditions for authorising movements for slaughter of kept animals of listed species within, from and to the surveillance zone
+
+1\. The competent authority may authorise movements of kept animals of listed species originating in the surveillance zone to a slaughterhouse located:
+
+(a) as near as possible to the establishment of origin, within the restricted zone; or
+
+(b) outside the restricted zone, as near as possible to the surveillance zone, when it is not possible to slaughter the animals in the restricted zone, and after carrying out a risk assessment.
+
+2\. The meat obtained from animals referred to in paragraph 1 shall be subject to the measures provided for in Article 49.
+
+3\. The competent authority may authorise movements of kept animals of listed species originating outside the surveillance zone to a slaughterhouse situated in the surveillance zone.
+
+4\. The competent authority may authorise the processing and use of animal by-products, obtained from animals slaughtered in accordance with paragraphs 1, 2 and 3 as category 3 material in accordance with Regulation (EC) No 1069/2009 in a plant approved for processing or disposal of animal by-products, located on their territory, or in another Member State, where it is not feasible to process or dispose them in an approved plant in the territory of the Member State where the outbreak occurred.
+
+In case the animal by-products referred to in the first subparagraph are moved to a plant located in another Member State, the Member State of destination and the Member States of passage shall authorise such dispatch and the competent authority of destination shall authorise the processing and use of those animal by-products as category 3 material in accordance with Regulation (EC) No 1069/2009.
+
+##### Article 45 — Specific conditions for authorising certain movements of kept ungulates of listed species from establishments in the surveillance zone
+
+1\. The competent authority may authorise the movement of kept ungulates of listed species to pastures situated within the surveillance zone, provided that:
+
+(a) a period of 15 days has elapsed after the preliminary cleaning and disinfection referred to in Article 15 has been completed and approved; and
+
+(b) the animals do not come into contact with animals of listed species from other establishments.
+
+2\. The competent authority may, after carrying out a risk assessment, authorise the movement of kept animals of listed species of ungulates to an establishment belonging to the same supply chain, located in or outside the surveillance zone, to complete the production cycle before slaughter. If the establishment of destination is located outside the surveillance zone, the competent authority shall apply in that establishment the measures provided for in Articles 40, Article 41 and Article 42 as long as the disease control measures in the surveillance zone of origin are maintained as provided for in Article 55.
+
+##### Article 46 — Specific conditions for authorising certain movements of poultry from establishments located in the surveillance zone
+
+1\. The competent authority may authorise movements of day-old chicks originating in the surveillance zone:
+
+(a) to establishments in the same Member State where they were hatched from eggs originating from establishments within the restricted zone, if:
+
+(i) the establishment of destination is placed under official surveillance following the arrival of the animals; and
+
+(ii) if moved outside the restricted zone, the animals remain in the establishments of destination for at least 21 days; and
+
+(iii) the means of transport is sealed at the moment of loading by the competent authority or under its supervision;
+
+(b) to any establishments, if they were hatched from eggs originating outside the restricted zone and if the hatchery of dispatch can ensure that no contact has occurred between those eggs and any other hatching eggs or day-old chicks obtained from animals kept within the restricted zone.
+
+2\. The competent authority may authorise movements of ready-to-lay poultry from establishments in the surveillance zone to establishments in the same Member State, if:
+
+(a) there is no other kept animal of listed species in the establishment or epidemiological unit of destination;
+
+(b) the establishment of destination is placed under official surveillance following the arrival of the ready-to-lay poultry; and
+
+(c) the poultry remain on the establishment of destination for at least 21 days.
+
+##### Article 47 — Specific conditions for authorising certain movements of hatching eggs to and from establishments in the surveillance zone
+
+1\. The competent authority may authorise movements of hatching eggs from an establishment located in the same Member State to:
+
+(a) a hatchery located in the surveillance zone; or
+
+(b) an establishment for in-house hatching located in the surveillance zone.
+
+2\. The competent authority may authorise movements of hatching eggs from an establishment located in the surveillance zone to a hatchery in the same Member State or to an establishment for in-house hatching located in the same Member State, only if the hatching eggs and their packaging are disinfected before dispatch and the tracing back of these eggs can be ensured.
+
+##### Article 48 — Specific conditions for authorising movements of semen from approved germinal product establishments in the surveillance zone
+
+The competent authority may authorise movements of semen collected from animals of listed species kept in approved germinal product establishments, excluding hatcheries, located in the surveillance zone after the estimated date of earliest infection of the affected establishment provided that:
+
+(a) all the disease control measures relating to the relevant category A disease have been lifted in the surveillance zone in accordance with Article 55;
+
+(b) all the kept animals of listed species in the semen collection centre have undergone a clinical examination and have been sampled for laboratory examinations in order to rule out the presence of the category A disease in the semen collection centre;
+
+(c) the donor animal has been subjected with favourable results to a laboratory examination on a sample taken not earlier than seven days after the monitoring period set out in Annex II for the relevant disease, calculated forwards from the date on which the semen was collected.
+
+##### Article 49 — Specific conditions for authorising movements of fresh meat and raw milk obtained from kept animals of listed species from establishments located in the surveillance zone
+
+1\. The competent authority may authorise movements of fresh meat and raw milk obtained from animals of listed species kept in establishments located in the surveillance zone if, either:
+
+(a) the fresh meat or the raw milk is moved to a processing establishment to undergo one of the relevant risk- mitigating treatments set out in Part I of Annex VII; or
+
+(b) the fresh meat is obtained from poultry.
+
+2\. The competent authority shall ensure that fresh meat and the raw milk moved pursuant paragraph 1(a), comply with the following:
+
+(a) fresh meat is marked in accordance with Annex IX when it is obtained in the slaughterhouse and keeps such mark until it is treated; and
+
+(b) the treatment is applied in an establishment situated in the same restricted zone or as near as possible of the restricted zone, which operates under the supervision of official veterinarians.
+
+##### Article 50 — Specific conditions for authorising movements of eggs for human consumption from establishments in the surveillance zone
+
+1\. The competent authority may authorise movements of eggs for human consumption from establishments in the surveillance zone to a packing centre located in the same Member State provided that they are packed in:
+
+(a) a disposable packaging; or
+
+(b) a packaging which can be cleaned and disinfected in such way as to destroy the category A disease agent.
+
+2\. The competent authority may authorise movements of eggs for human consumption from establishments located in the surveillance zone to an establishment for the manufacture of egg products located in the same Member State if:
+
+(a) the establishment for the manufacture of egg products complies with Chapter II of Section X of Annex III to Regulation (EC) No 853/2004; and
+
+(b) the eggs are moved to the establishment for the manufacture of egg products in order to be handled and treated in accordance with Chapter XI of Annex II to Regulation (EC) No 852/2004.
+
+##### Article 51 — Specific conditions for authorising movements of manure, including litter and used bedding, from establishments in the surveillance zone
+
+1\. The competent authority may authorise the movements of manure, including litter and used bedding, from establishments located in the surveillance zone:
+
+(a) without processing, to a landfill, previously authorised for that purpose by the competent authority, located in the same surveillance zone; or
+
+(b) following processing, to a landfill, previously authorised for that purpose by the competent authority, located in the territory of the same Member State.
+
+2\. The competent authority may authorise movements of manure, including litter and used bedding, from establishments and other locations in the surveillance zone to a plant approved for the processing or disposal of animal by-products where they are disposed of or processed in accordance with Regulation (EC) No 1069/2009 by the methods relevant for processing of manure provided for in Part II of Annex VII to this Regulation.
+
+##### Article 52 — Specific conditions for authorising the movement of feed materials of plant origin and straw from the surveillance zone
+
+The competent authority may authorise movements of feed materials of plant origin or straw produced in the surveillance zone provided that the feed materials or the straw:
+
+(a) were produced in locations not keeping animals of listed species, other than feed processing establishments;
+
+(b) were produced in feed processing establishments not keeping animals of listed species and the raw plant material originates:
+
+(i) from locations referred to in paragraph (a); or
+
+(ii) from outside the surveillance zone;
+
+(c) are intended for use within the protection or surveillance zone; or
+
+(d) have undergone at least one of the risk-mitigating treatments set out in Annex VIII.
+
+##### Article 53 — Specific conditions for authorising movements of kept animals of listed species and products to an approved plant
+
+1\. The competent authority may authorise movements of kept animals of listed species from establishments located in the surveillance zone to a plant approved for processing or disposal of animal by-products where:
+
+(a) the kept animals are immediately killed; and
+
+(b) the resulting animal by-products are disposed of in accordance with Regulation (EC) No 1069/2009.
+
+2\. The competent authority may authorise movements of products from establishments and other locations in the surveillance zone to a plant approved for the processing or disposal of animal by-products where they are disposed of or processed in accordance with Regulation (EC) No 1069/2009 by the relevant methods provided in Part II of Annex VII to this Regulation.
+
+##### Article 54 — Measures to be applied in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance in the surveillance zone, including means of transport
+
+1\. The competent authority shall apply the relevant measures referred to in Article 40, and Articles 42 to 53 in food and feed businesses, border control posts, animal by-products establishments or any other location of relevance in the surveillance zone, including means of transport.
+
+2\. In the establishments and locations referred to in paragraph 1, the competent authority may apply additional measures adapted to the specific situation in order to prevent the spread of the category A disease within and from the surveillance zone.
+
+##### Article 55 — Duration of the disease control measures in the surveillance zone
+
+1\. The competent authority may lift the disease control measures applied in the surveillance zone pursuant to Sections 1 and 3 only if:
+
+(a) the minimum period set out in Annex XI has elapsed after the date of completion of the preliminary cleaning and disinfection and, where relevant, control of insects and rodents is performed in accordance with Article 15 in the affected establishment;
+
+(b) the requirements laid down in Article 39(1), point (b), have been complied with in the protection zone;
+
+(c) a representative number of establishments keeping animals of listed species have undergone, with favourable results, visits carried out by official veterinarians, in accordance with Article 41;
+
+(d) the final cleaning and disinfection and, when relevant, control of insects and rodents has been carried out in the affected establishment in accordance with at least the procedures set out in points A and C of Annex IV, using the appropriate biocidal products to ensure the destruction of the relevant category A disease agent.
+
+2\. Where the relevant category A disease is transmitted by a listed vector, in accordance with Regulation (EU) 2018/1882, the competent authority may:
+
+(a) set the duration of the measures in the surveillance zone on a case by case basis taking into account factors influencing the risk of spreading the disease; and
+
+(b) provide for the introduction of sentinel animals.
+
+3\. After the lifting of the measures referred to in paragraph 1 of this Article, when the competent authority has established a further restricted zone in accordance with Article 21(1), point (c), the measures applied in this further restricted zone shall also apply in the surveillance zone until the lifting of the measures applied in the further restricted zone.
+
+4\. Exceptionally, where the final cleaning and disinfection as referred to in paragraph 1, point (d) can only be completed with significant delays compared to the minimum period as referred to in paragraph 1, point (a), the competent authority may, after carrying out a risk assessment, lift the disease control measures applied in the surveillance zone, provided that:
+
+(a) no other outbreak of the relevant category A disease has occurred in the restricted zone since it has been established;
+
+(b) the conditions laid down in paragraph 1, points (a), (b) and (c) are fulfilled;
+
+(c) appropriate additional biosecurity measures are applied in the affected establishment to prevent the risk of the spread of the category A disease agent;
+
+(d) the risk assessment carried out by the competent authority indicates that the risk of the spread of the category A disease is negligible.
+
+5\. Member States shall inform the other Member States and the Commission when the disease control measures applied in a surveillance zone established on their territory were lifted in accordance with paragraph 4.
+
+#### Section 4 — Derogations applicable in the restricted zone in the case of prolonged duration of the restrictions
+
+##### Article 56 — Derogations from prohibitions of movements of animals within and into the restricted zones when restriction measures are maintained
+
+1\. Where prohibitions of movement of animals provided for in Articles 27 and Article 42 are maintained significantly beyond the period set out in Annex XI, the competent authority may, under exceptional circumstances, authorise the movement of kept animals of listed species from and into establishments within the restricted zone in cases not covered by derogations provided for in Articles 28 and Article 43, if:
+
+(a) the operator has submitted a reasoned application for that authorisation;
+
+(b) the risks derived from authorising such movements have been assessed prior to the authorisation and the assessment indicates that the risk of spreading of the category A disease is negligible;
+
+(c) reinforced biosecurity measures are applied in the establishment of destination to prevent the risk of the spread of the category A disease.
+
+(d) official veterinarians have, in case of movements from establishments within the restricted zone, carried out clinical examinations and have collect samples for laboratory examinations from animals of listed species, including those to be moved, which have yielded favourable results.
+
+2\. Where movements of animals are authorised pursuant paragraph 1, the competent authority shall ensure that the transport complies with the requirements laid down in Article 24.
+
+### CHAPTER III — Repopulation of the affected establishment with terrestrial animals and lifting of disease control measures in the affected establishment
+
+##### Article 57 — Conditions to authorise the repopulation of the affected establishment
+
+1\. The competent authority shall only authorise the repopulation of the affected establishment if the following requirements are met:
+
+(a) a final cleaning and disinfection and, when relevant, control of insects and rodents has been:
+
+(i) carried out, in accordance with the procedures set out in points A and C of Annex IV, using the appropriate biocidal products to ensure destruction of the relevant category A disease agent; and
+
+(ii) adequately documented;
+
+(b) the monitoring period set out in Annex II for the relevant disease, calculated forwards from the date on which the final cleaning and disinfection provided for in point (a) was carried out, has elapsed.
+
+2\. The competent authority shall supervise that the final cleaning and disinfection and, when relevant, control of insects and rodents in the affected establishment is carried out in compliance with the requirements in paragraph 1(a).
+
+3\. The competent authority shall not allow access to a pasture of kept animals of listed species during the period of time during which it is considered contaminated; this period of time shall be established after carrying out a risk assessment.
+
+4\. Where for duly justified reasons the final cleaning and disinfection and, when relevant, the control of insects and rodents referred to in paragraph 1, have not been entirely accomplished in the affected establishment, the competent authority may authorise the repopulation by way of derogation from paragraph 1, provided that:
+
+(a) a period of at least 3 months has elapsed since the preliminary cleaning and disinfection, as referred to in Article 15, was performed; and
+
+(b) prior to granting the authorisation, the competent authority has assessed the risks deriving from that authorisation and the assessment indicates that the risk of spreading the category A disease is negligible.
+
+##### Article 58 — Derogation from the requirements provided for in Article 57(1), point (b)
+
+In the event of the official confirmation of an outbreak of a category A disease in food and feed businesses, assembly centres, border control posts, animal by-products establishments or any other location of relevance, including means of transport, the competent authority may authorise the reintroduction of kept animals of listed species for slaughter, assembly operations, inspection or transport, 24 hours after completion of:
+
+(a) the measures referred to in Articles 12, Article 14, Article 15, Article 17, Article 18 and Article 57(1)(a); and
+
+(b) any additional measure applied by the competent authority adapted to the specific situation.
+
+##### Article 59 — Requirements for the repopulation of the affected establishment with kept animals of listed species
+
+1\. The competent authority shall supervise the repopulation with kept animals of listed species of the affected establishment complying with the provisions of this Article.
+
+2\. Kept animals of listed species intended for repopulation shall:
+
+(a) not originate from an establishment subject to the restrictions provided for in Chapter II; and
+
+(b) be sampled for laboratory examination to rule out the presence of the disease with favourable results prior to their introduction into the establishment.
+
+3\. For the purposes of paragraph 2(b), samples shall be collected from:
+
+(a) a representative number of all the animals to be introduced in the establishment, if they are all introduced at the same time and from the same establishment of origin; or
+
+(b) a representative number of animals of each consignment, if animals are all to be introduced at different times or from different establishments of origin.
+
+In the case of day-old-chicks, the competent authority may decide not to perform the sampling for laboratory examination referred to in paragraph 2(b).
+
+4\. Kept animals of listed species intended for repopulation shall be introduced in the establishments as follows:
+
+(a) in all the epidemiological units and buildings of the affected establishment;
+
+(b) preferably at the same time or within the monitoring period set out in Annex II for the relevant disease, calculated forwards from the date on which the first animal was introduced; or
+
+(c) in case of open-air farming establishments or when the requirement set out in point (a) is impractical, by using sentinel animals which have been sampled for laboratory examinations with favourable results for the relevant category A disease before being introduced in the establishment.
+
+5\. Official veterinarians shall carry out at least a visit to the affected establishment on the last day of the monitoring period set out in Annex II for the relevant category A disease, calculated forwards from the date on which the animals were placed in the establishment. Where the monitoring period in accordance with Annex II is longer than 30 days, the visit shall be carried out before 30 days elapsed from the date on which the animals were placed into the establishment. During the visits, the official veterinarians shall perform at least:
+
+(a) documentary checks, including production, health and traceability records analysis;
+
+(b) clinical examination of kept animals of listed species; and
+
+(c) collection of samples of animals for laboratory examination in order to confirm or rule out the presence of the relevant category A disease.
+
+6\. Any person entering or leaving the establishment shall comply with appropriate biosecurity measures aimed at preventing the spread of the relevant category A disease.
+
+7\. Kept animals of listed species shall only leave the establishment under the authorisation of the competent authority and only after obtaining favourable results from the laboratory examination referred to in paragraph 5(c).
+
+8\. From the date that the animals were placed in the establishment until the end of the repopulation, in accordance with Article 61, the operator shall:
+
+(a) keep up to date the records of health and production data for kept animals of listed species; and
+
+(b) immediately notify to the competent authority any significant change in production data and any other abnormalities.
+
+9\. If unusual mortalities or clinical signs of the relevant category A disease are notified to the competent authority during the period referred to in paragraph 8, the official veterinarians shall without delay collect samples for laboratory examination to rule out the presence of the relevant category A disease.
+
+10\. The competent authority may exempt confined establishments from one or more of the provisions laid down in paragraphs 1 to 9 after assessing the risks deriving from that exemption and the assessment indicates that the risk of spreading the category A disease is negligible.
+
+##### Article 60 — Additional requirements for the repopulation of the affected establishment
+
+1\. The competent authority shall authorise the repopulation of the affected establishment with animals other than kept listed species taking into account the risk of spreading the relevant category A disease and the risk of vector persistence.
+
+2\. The competent authority may extend some or all the provisions provided for in Articles 57 and 59 if preventive killing as provided for in paragraph 4 of Articles 7 and 9 is applied.
+
+##### Article 61 — End of the repopulation of the affected establishment and lifting of disease control measures in the affected establishment
+
+1\. The repopulation of the affected establishment shall be considered finalised when the measures provided in Articles 57 and 59, and when relevant in Article 60, have been successfully completed.
+
+2\. The competent authority shall lift all the disease control measures applied in the affected establishment in accordance with this Regulation when:
+
+(a) the repopulation is considered finalised, as provided for in paragraph 1; or when
+
+(b) the requirements laid down in Article 57(1) are fulfilled, either
+
+(i) in the case of the cessation of activities related to the keeping of the animals by the operator or establishment concerned, or
+
+(ii) in case a specific derogation from Article 12(1), point (a), in accordance with Article 13 has been granted in the affected establishment, and the animals of listed species have been subject with favourable results to the examinations laid down in Article 59(5), points (b) and (c), carried out at the end of the monitoring period referred to in Article 57(1) point (b).
+
+### CHAPTER IV — Disease control measures in wild animals of listed species
+
+##### Article 62 — Measures in the event of suspicion of a category A disease in wild animals of listed species
+
+1\. In the event of suspicion of a category A disease in wild animals of listed species in accordance with Article 9(1), (3), and (4) of Delegated Regulation (EU) 2020/689, the competent authority shall immediately conduct an investigation to confirm or rule out the presence of the suspected listed disease.
+
+2\. In the course of the investigation referred to in paragraph 1 the competent authority shall at least organise post-mortem examinations and the collection of samples for laboratory examination of wild animals of listed species shot dead or found dead to confirm or rule out the presence of the category A disease.
+
+3\. As regards the bodies of dead wild animals in which the relevant category A disease is suspected, whether the wild animals were killed or found dead, the competent authority shall ensure that:
+
+(a) the entire bodies of the dead wild animals or parts thereof are disposed of or processed in accordance with Regulation (EC) No 1069/2009; and
+
+(b) where feasible, any material or substance likely to be contaminated by contact with the bodies of dead wild animals or animal by-products obtained therefrom undergoes cleaning and disinfection or is disposed of following the instructions and under the supervision of official veterinarians.
+
+##### Article 63 — Measures in the event of an outbreak of a category A disease in wild animals of listed species
+
+1\. In the event of an official confirmation of an outbreak of a category A disease in wild animals of listed species in accordance with Article 9(2), (3) and (4) of Delegated Regulation (EU) 2020/689, the competent authority may determine an infected zone in order to prevent the further spread of the disease based on:
+
+(a) the disease profile;
+
+(b) the estimated population of wild animals of listed species;
+
+(c) the risk factors contributing to the spread of the relevant category A disease, in particular, the risk of the introduction of a category A disease into establishments keeping animals of listed species;
+
+(d) sampling results; and
+
+(e) other relevant factors.
+
+2\. As regards the bodies of wild animals in which the relevant category A disease has been confirmed, whether the wild animals were killed or found dead, the competent authority shall ensure that:
+
+(a) their entire bodies of the dead wild animals or parts thereof are disposed of or processed in accordance with Regulation (EC) No 1069/2009; and
+
+(b) where feasible, any material or substance likely to be contaminated by contact with the bodies of dead wild animals or animal by-products therefrom undergoes cleaning and disinfection or is disposed of following the instructions and under the supervision of official veterinarians.
+
+3\. The competent authority may adapt the boundaries of the initial infected zone:
+
+(a) in order to control the further spread of the relevant category A disease; and
+
+(b) in the case of confirmation of further outbreaks of the category A disease in wild animals.
+
+4\. The competent authority shall immediately inform operators, clinical veterinarians, hunters, other relevant competent authorities and any other natural or legal person concerned about the outbreak of the disease and the control measures adopted.
+
+##### Article 64 — Measures to be applied in the infected zone
+
+1\. In the infected zone determined in accordance with Article 63, the competent authority shall organise post-mortem examinations of wild animals of listed species shot dead or found dead, including when necessary sampling for laboratory examination.
+
+2\. In the infected zone the competent authority shall at least:
+
+(a) implement risk mitigation and reinforced biosecurity measures in order to prevent the spread of the category A disease from the affected animals and infected zone to unaffected animals or to humans;
+
+(b) prohibit movements of wild animals of listed species and products of animal origin thereof as provided for to in Commission Delegated Regulation (EU) 2020/688 ( 8 ); and
+
+(c) ensure that all bodies of dead wild animals of listed species, whether the animals were killed or found dead, or parts thereof, are disposed of or processed in accordance with in Regulation (EC) No 1069/2009.
+
+##### Article 65 — Additional measures to apply in the infected zone
+
+In order to avoid the spreading of the category A disease, in the infected zone the competent authority may:
+
+(a) regulate movements of kept animals of listed species;
+
+(b) regulate hunting activities and other outdoors activities;
+
+(c) restrict the feeding of wild animals of listed species; and
+
+(d) develop and implement an eradication plan for the category A disease in wild animals of listed species if the epidemiological situation so requires.
+
+##### Article 66 — Operational expert group
+
+In the event of an officially confirmed outbreak of a category A disease in wild animals of listed species and in the case that the competent authority determines an infected zone in accordance with Article 63, the competent authority shall establish an operational expert group as referred to in Article 43 of Regulation (EU) 2016/429 to assist the competent authority in:
+
+(a) assessing the epidemiological situation and its evolution;
+
+(b) defining the infected zone;
+
+(c) establishing the appropriate measures to be applied in the infected zone in accordance with this Chapter and their duration; and
+
+(d) developing an eradication plan, when relevant.
+
+##### Article 67 — Duration of measures in the infected zone
+
+The competent authority shall maintain the measures applied in the infected zone in accordance with this Chapter until the epidemiological information indicates that the relevant wild population no longer poses a risk of introduction of a category A disease into establishments keeping animals of listed species and the operational group recommends lifting of the measures.
+
+### CHAPTER V — Disease control measures for category B and C diseases of terrestrial animals
+
+##### Article 68 — Preliminary disease control measures to be applied when a category B or C disease is suspected by the competent authority in Member States or zones that have been granted with the disease free status
+
+In the event of suspicion of a category B or C disease in accordance with Article 9(1), (3) or (4) of Delegated Regulation (EU) 2020/689, in Member States or zones that have been granted the disease free status pursuant to Article 36(4) of Regulation (EU) 2016/429 or Article 84(1) of Delegated Regulation (EU) 2020/689, the competent authority shall apply the measures laid down in:
+
+(a) Articles 21, 22, 23 of Delegated Regulation (EU) 2020/689 for infection with Brucella abortus, B. melitensis, B. suis, infection with Mycobacterium tuberculosis complex, enzootic bovine leucosis, infectious bovine rhinotracheitis/infectious pustular vulvovaginitis, infection with Aujeszky’s disease virus and bovine viral diarrhoea;
+
+(b) Article 35 of Delegated Regulation (EU) 2020/689 for infection with rabies virus; and
+
+(c) Article 41 of Delegated Regulation (EU) 2020/689 for infection with bluetongue virus (serotype 1-24).
+
+##### Article 69 — Disease control measures to be applied when a category B or C disease is confirmed
+
+In the event of confirmation of a category B or C disease in accordance with point (2) of Article 9 of of Delegated Regulation (EU) 2020/689 in Member States or zones that have been granted the disease free status in with paragraph 4 of Article 36 of Regulation (EU) 2016/429 or paragraph 1 Article 84 of Delegated Regulation (EU) 2020/689, the competent authority shall apply the measures laid down in:
+
+(a) Articles 24 to 31 of Delegated Regulation (EU) 2020/689 for infection with Brucella abortus, B. melitensis, B. suis, infection with Mycobacterium tuberculosis complex, enzootic bovine leucosis, infectious bovine rhinotracheitis/infectious pustular vulvovaginitis, infection with Aujeszky’s disease virus and bovine viral diarrhoea;
+
+(b) Article 36 of Delegated Regulation (EU) 2020/689 for infection with rabies virus; and
+
+(c) Article 42 of Delegated Regulation (EU) 2020/689 for infection with bluetongue virus (serotype 1-24).
+
+## PART III — AQUATIC ANIMALS
+
+### CHAPTER I — Disease control measures for category A diseases in aquaculture animals
+
+#### Section 1 — Preliminary disease control measures in the event of suspicion of a category A disease in aquaculture animals
+
+##### Article 70 — Obligations on operators in the event of suspicion of category A disease in aquaculture animals in establishments
+
+In the event of suspicion of a category A disease in aquaculture animals of listed species, operators shall take the following disease control measures in order to prevent the spread of the category A disease from the affected animals and aquaculture establishments under their responsibility to other unaffected aquatic animals until the competent authority rules out the presence of the category A disease:
+
+(a) isolate, where technically possible, all aquaculture animals in the establishment suspected of being infected with the category A disease;
+
+(b) prevent movements of aquaculture animals into and from the establishment;
+
+(c) keep records of all visits and movements from and to the establishment;
+
+(d) keep any product, piece of equipment, material or substance likely to be contaminated with and to transmit category A diseases isolated and as far as practicable protected from vectors and other aquatic animals;;
+
+(e) implement the appropriate biosecurity measures to avoid spread of the category A disease;
+
+(f) provide the competent authority, on its request, with any relevant information regarding the category A disease; and
+
+(g) follow any instructions given by the competent authority regarding the control of category A disease, in accordance with Regulation (EU) 2016/429 and this Regulation.
+
+##### Article 71 — Investigation by the competent authority of the suspicion of a category A disease in aquaculture animals in an establishment
+
+1\. In the event of the suspicion of a category A disease in aquaculture animals in an establishment in accordance with Article 9(1), (3) and (4) of Delegated Regulation (EU) 2020/689, the competent authority shall immediately conduct an investigation to confirm or rule out the presence of the suspected listed disease.
+
+2\. In the course of the investigation referred to in paragraph 1 the competent authority shall ensure that the official veterinarians perform at least:
+
+(a) clinical examinations of aquaculture animals; and
+
+(b) the collection of samples for laboratory examination.
+
+##### Article 72 — Preliminary restriction and biosecurity measures to be applied in the event of the suspicion of a category A disease in aquaculture animals
+
+1\. In the event of suspicion of a category A disease in an establishment, the competent authority shall place the establishment under official surveillance and immediately impose the following preliminary restriction and biosecurity measures, in order to prevent the spread of the category A disease from the affected aquaculture animals and the establishment to unaffected aquatic animals:
+
+(a) prohibition of movements of aquaculture animals into and from the establishment;
+
+(b) prohibition of non-essential movements from the establishment of means of transport and equipment;
+
+(c) prohibition of slaughter of aquaculture animals for human consumption;
+
+(d) where technically feasible and regarded necessary, order the isolation of all aquaculture animals; and
+
+(e) when practicable, implement adequate means and measures to control birds and other predators.
+
+2\. The competent authority may order preventive killing of listed species at the affected establishment where a category A disease is suspected provided that all necessary biosecurity and other risk-mitigating measures are applied to prevent the spread of the category A disease from the establishment.
+
+3\. The competent authority shall by way of derogation from Article 10(i) of Regulation (EC) No 1069/2009 and after carrying out a risk assessment, authorise movements of aquaculture animals for the sole purpose of immediate killing in a disease control aquatic food establishment or a plant approved for processing or disposal of as animal-by-products of category 1 or category 2 in accordance with that Regulation. The authorisation may only be granted when the necessary biosecurity and other risk-mitigating measures are applied to prevent the spread of the category A disease.
+
+4\. All animal by-products from dead aquaculture animals which have died or have been killed in accordance with this Article, including molluscs shells with meat, shall by way of derogation from Article 10(i) of Regulation (EC) No 1069/2009 be processed or disposed of as category 1 or category 2 material in accordance with that Regulation to ensure that the relevant disease agent is inactivated and to prevent the transmission of the disease to other aquatic animals.
+
+##### Article 73 — Inventory and record analysis in the event of the suspicion of a category A disease in aquaculture animals
+
+1\. In the event of suspicion of a category A disease, the competent authority shall order and verify that, without delay, operators of the establishments where a category A disease is suspected compile and maintain an up-to-date inventory of the following:
+
+(a) the species, categories and quantities (numbers, volume or weight) of all aquaculture animals kept in the establishment;
+
+(b) any product, material or substance likely to be contaminated with or likely to transmit the category A disease; and
+
+(c) the mortality in each epidemiological unit within the establishment, recorded on a daily basis.
+
+2\. In the framework of the epidemiological enquiry, as referred to in Article 57 of Regulation (EU) 2016/429 and carried out in establishments where the disease is suspected, the official veterinarians shall analyse at least the records listed in paragraph 1 of Article 186 of Regulation (EU) 2016/429.
+
+##### Article 74 — Extension of disease control measures in the event of the suspicion of a category A disease to other establishments
+
+In order to prevent the spread of a category A disease the competent authority shall conduct an investigation as provided for in Article 71 and, after carrying out a risk assessment, extend the relevant measures provided for in Articles 72 and 73 to:
+
+(a) establishments situated in the same compartment as the establishment where the disease is suspected, or which, due to distance, hydrodynamic conditions or topographic conditions, have an increased risk for contracting the relevant disease agent from the establishment where the disease is suspected;
+
+(b) any establishment other than those referred to in point (a) which has a direct epidemiological link with the establishment where the disease is suspected.
+
+##### Article 75 — Temporary restricted zones around the establishment
+
+The competent authority may establish a temporary restricted zone around the establishment where there is a suspicion of category A disease and where preliminary disease control measures are applied as referred to in Article 72 and Article 73 taking into account the following circumstances:
+
+(a) the location of the establishment in an area with other establishments keeping aquaculture animals of listed species for which a category A disease is suspected;
+
+(b) the movements of aquatic animals in the vicinity of the suspected establishment;
+
+(c) the delay in confirming the category A disease pursuant to Article 77;
+
+(d) the insufficient information on the possible origin and routes of introduction of the suspected category A disease; and
+
+(e) the disease profile, in particular the routes and speed of transmission of the disease and the persistence of the disease in the relevant population of aquaculture animals of listed species.
+
+##### Article 76 — Measures to apply in the event of suspicion of a category A disease in food and feed businesses, purification centre, dispatch centre, border control posts, animal by-products establishments or any other location of relevance, including means of transport
+
+1\. In the event of suspicion of a category A disease in accordance with Article 9(1), (3) and (4) of Delegated Regulation (EU) 2020/689 in food and feed businesses, purification centres, dispatch centres, border control posts, animal by-products establishments or any other location of relevance, including means of transport, the competent authority shall apply:
+
+(a) the measures provided for in Articles 71 to 75; and
+
+(b) if needed, additional measures adapted to the specific situation in order to prevent the spread of the category A disease from the animals and establishments or locations under suspicion to unaffected animals.
+
+2\. The competent authority shall apply provisions laid down in Articles 71 to 75 also in the establishments of origin of the animals or products present in the establishments and locations referred to in paragraph 1.
+
+#### Section 2 — Disease control measures in the event of official confirmation of a category A disease in aquaculture animals
+
+##### Article 77 — Official confirmation of a category A disease in aquaculture animals
+
+The competent authority shall officially confirm an outbreak of a category A disease in aquaculture animals when the conditions set out in Article 9(2), (3) and (4) of Delegated Regulation (EU) 2020/689 are met.
+
+##### Article 78 — Disease control measures in the event of official confirmation of an outbreak of category A disease in an establishment
+
+1\. Following the official confirmation of an outbreak of a category A disease in accordance with Article 77, the competent authority shall in addition to the measures provided for Article 72 and Article 73, order that the following disease control measures are immediately applied under the supervision of the official veterinarians, to the establishment where the official confirmation of an outbreak of a category A disease has occurred:
+
+(a) fish and crustaceans of listed species shall be killed as soon as possible and molluscs of listed species shall be removed from water as soon as possible;
+
+(b) animals referred to in (a) shall by way of derogation from Article 10(i) of Regulation (EC) No 1069/2009 be disposed of as category 1 or category 2 material in accordance with that Regulation;
+
+(c) the measures provided for in point (a) and (b) shall be carried out either:
+
+(i) in the establishment where the official confirmation of an outbreak of a category A disease has occurred with subsequent processing on site; or
+
+(ii) in a disease control aquatic food establishment, or in a plant approved in accordance with Regulation (EC) No 1069/2009 for processing or disposal in a way that prevents risk of spreading the category A disease;
+
+(d) aquaculture animals of non-listed species shall, as soon as possible, be killed or slaughtered for human consumption or, in case of molluscs, removed from water in accordance with paragraph 1(b);
+
+(e) appropriate measures shall be applied to limit any possible spread of the category A disease to and from any wild aquatic animals that might be in epidemiological contact with the establishment;
+
+(f) all potentially contaminated materials or substances shall be isolated until:
+
+(i) the cleaning and disinfection measures have been completed in accordance with Article 80, in the case of materials and substances which are fit for cleaning and disinfection;
+
+(ii) they are removed from the establishment and disposed of under the supervision of official veterinarians, in the case of feeding stuff and other materials unfit for cleaning and disinfection.
+
+2\. The competent authority shall order and supervise:
+
+(a) the transport from the affected establishment of animal by-products referred to in paragraph 1(f)(i) and of the products of animal origin referred to in paragraph 1(f)(ii) being in compliance with the provisions of Regulation (EC) No 1069/2009; and
+
+(b) the transport from the affected establishment of materials or substances referred to in paragraph 1(f)(iv) being in compliance with its instructions regarding biosecurity and biosafety conditions to prevent the spread of category A disease agent.
+
+3\. By way of derogation from paragraph 1(a), the competent authority may, after carrying out a risk assessment, allow slaughter of fish or crustaceans or in case of molluscs removal from water, for human consumption, at the establishment or in a disease aquatic control food establishment, provided that appropriate biosecurity and other necessary risk-mitigating measures to prevent the spread of the category A disease are taken. All animal by-products resulting from that derogation shall, by way of derogation from Article 10(i) of Regulation (EC) No 1069/2009, be processed or disposed of as category 1 or category 2 material in accordance with that Regulation.
+
+4\. By way of derogation from paragraph 1(d), the competent authority may, after carrying out a risk assessment, decide not to kill, slaughter or remove from water aquaculture animals of non-listed species provided that appropriate risk-mitigating measures are applied to prevent any risk of spreading of the relevant category A disease from the establishment.
+
+##### Article 79 — Specific derogations from control measures in establishments where listed species are kept for scientific purposes or purposes related to conservation of endangered species
+
+1\. The competent authority may grant derogations from the measures provided for in Article 78(1)(a) and (c) in the event of an official confirmation of a category A disease in establishments where listed species are kept for scientific purposes or purposes related to conservation of endangered species, provided that:
+
+(a) the animal health status of the concerned Member State, or of other Member States, is not jeopardised; and
+
+(b) all appropriate biosecurity measures as listed in Article 78 are taken to prevent any risk of spreading of the category A disease agent.
+
+2\. Where a derogation is granted pursuant to paragraph 1, the competent authority shall ensure that aquaculture animals of listed species covered by the derogation are:
+
+(a) kept in premises where appropriate biosecurity measures to avoid spread of the relevant category A disease are implemented; and
+
+(b) subjected to further surveillance and laboratory examination and are not moved from the establishment until the laboratory tests have indicated that they do not pose a risk of further spread of the relevant category A disease.
+
+##### Article 80 — Cleaning and disinfection
+
+1\. The competent authority shall order the operators to carry out, immediately after the completion of the disease control measures provided for in Article 78, the cleaning and disinfection of:
+
+(a) the establishment, as far as the competent authority considers it is technically possible;
+
+(b) any husbandry-related equipment including but not limited to feeding, grading, treatment, vaccination and workboats;
+
+(c) any production-related equipment including but not limited to cages, netting, trestles, bags and long-lines;
+
+(d) any protective clothing or safety equipment used by operators and visitors; and
+
+(e) all means of transport including tanks and other equipment used to move infected animals or personnel who have been in contact with infected animals.
+
+2\. The cleaning and disinfection as provided for in paragraph 1 shall be carried out:
+
+(a) in accordance to a protocol previously agreed between the competent authority and the operator; and
+
+(b) under the supervision of official veterinarians.
+
+##### Article 81 — Fallowing of the affected establishment
+
+The competent authority shall order operators to carry out, after the completion of the cleaning and disinfection provided for in in Article 80, the fallowing of the affected establishment for the period of time laid down in Annex XIII.
+
+##### Article 82 — Extension of disease control measures in the event of confirmation of a category A disease
+
+In order to prevent the spread of a category A disease the competent authority shall conduct an investigation provided for in Article 71 and after carrying out a risk assessment, extend some or all of the measures provided for in Articles 78, 80 and 81 to:
+
+(a) establishments of the same compartment or which due to distance, hydrodynamic conditions or topographic conditions, have an increased risk for contracting the relevant disease agent from the suspected establishment where the disease is confirmed;
+
+(b) any establishment which as a result of the enquiry provided for in Article 57 of Regulation (EU) 2016/429, has shown a direct epidemiological link with the establishment where the disease is confirmed.
+
+##### Article 83 — Placing on the market of products of animal origin from aquaculture animals of listed species produced in infected establishments
+
+1\. When granting a derogation in accordance with Article 78(3), the competent authority may allow the placing on the market of products of animal origin from aquaculture animals only if the following conditions are fulfilled:
+
+(a) fish must be slaughtered and eviscerated before dispatch;
+
+(b) molluscs and crustaceans must be fully traceable and processed to non-viable products unable to survive if returned to the water, before dispatch.
+
+When purification is required before processing and placing on the market, it shall be conducted at a disease control aquatic food establishment.
+
+2\. The products of animal origin referred to in paragraph 1 shall be intended for:
+
+(a) direct supply to the final consumer; or
+
+(b) further processing in a disease control aquatic food establishment.
+
+##### Article 84 — Measures to be applied in the event of confirmation of category A diseases in, food and feed businesses, purification centre, dispatch centre, border control posts or any other location of relevance, including means of transport
+
+1\. In the event of confirmation of a category A disease in food and feed businesses, purification centre, dispatch centre, border control posts or any other location of relevance, including means of transport, in accordance with Article 77, the competent authority shall apply:
+
+(a) the measures provided for in Articles 78, Article 80 and Article 81; and
+
+(b) if needed, additional measures adapted to the specific situation in order to prevent the spread of the category A disease from the affected animals and establishments or locations to unaffected animals.
+
+2\. The competent authority shall apply provisions laid down in Articles 78, Article 80 and Article 81 also in the establishments of origin of the animals or products present in the establishments and locations referred to in paragraph 1.
+
+### CHAPTER II — Disease control measures for category A diseases of aquaculture animals in the restricted zone
+
+#### Section 1 — General disease control measures in the restricted zone
+
+##### Article 85 — Establishment of a restricted zone
+
+1\. In the event of the official confirmation of an outbreak of a category A disease in an establishment, food and feed business, animal by–products establishment or any other location of relevance, including means of transport, the competent authority shall immediately establish a restricted zone around the affected establishment or location, including:
+
+(a) a protection zone around the establishment or location where the category A disease is confirmed;
+
+(b) a surveillance zone around the protection zone; and
+
+(c) if necessary, on the basis of the criteria set out in Article 64(1) of Regulation (EU) 2016/429, further restricted zones around or adjacent to the protection and surveillance zones.
+
+2\. The extent of the zones shall be set on a case-to-case basis, taking into account factors influencing the risk of spreading the disease. To that end, the the competent authority shall consider the following data and criteria:
+
+(a) data from the epidemiological enquiry in accordance with Article 57 in Regulation (EU) 2016/429;
+
+(b) relevant hydrodynamic data;
+
+(c) criteria listed in Article 64(1) of Regulation (EU) 2016/429; and
+
+(d) criteria provided for in Annex XIV to this Regulation.
+
+3\. The competent authority shall adapt the boundaries of the initial restricted zone, including the boundaries of the protection, surveillance and the further restricted zones, in the case of the overlapping of two or more restricted zones due to further outbreaks of the category A disease.
+
+4\. By way of derogation from paragraph 1, the competent authority may due to specific geographical, hydrodynamic and epidemiological circumstances, and after carrying out a risk assessment taking into account the disease profile:
+
+(a) not establish the restricted zone as provided for in paragraph 1 around the infected establishment or location;
+
+(b) establish a restricted zone consisting of a protection zone without any adjacent surveillance zone; or
+
+(c) not establish a restricted zone when a category A disease is confirmed in food and feed businesses, purification centre, dispatch centre, border control posts, animal by-products establishments or any other location of relevance, including means of transport.
+
+5\. The competent authority may derogate, to the extent necessary and after carrying out a risk assessment taking into account geographical, hydrodynamic, epidemiological circumstances and the disease profile, from the provisions of this Chapter:
+
+(a) in the further restricted zones; and
+
+(b) in the case that the competent authority decides to establish the restricted zone when an outbreak of a category A disease occurs in establishments or any other locations of relevance referred to in paragraph 4(c).
+
+##### Article 86 — Measures to be applied in the restricted zone
+
+1\. The competent authority shall without delay compile and keep an up-to-date inventory of all establishments keeping aquaculture animals of listed species located in the restricted zone, including the species, categories and the estimated number of animals in each establishment.
+
+2\. In the establishments located within the restricted zone, the competent authority may, on the basis of epidemiological information or other relevant evidence and after carrying out a risk assessment, implement preventive killing or, slaughtering for human consumption or, in the case of molluscs, removal from water, of aquaculture animals of listed species pursuant to Article 78(1)(a) and (2).
+
+3\. Any collection of samples, in establishments in the restricted zone keeping aquaculture animals of listed species, for purposes other than to confirm or rule out the presence of the relevant category A disease, shall be authorised by the competent authority.
+
+#### Section 2 — Disease control measures in the protection zone
+
+##### Article 87 — Measures to be applied in establishments keeping aquaculture animals in the protection zone
+
+1\. The competent authority shall order operators of establishments keeping aquaculture animals of any species in the protection zone, other than the establishment in which the category A disease has been confirmed, to carry out at least the following measures in order to prevent and control the spread of the disease:
+
+(a) without delay update the records of the inventory provided for in Article 73(1);
+
+(b) when practicable, implement appropriate measures to limit any possible spread of the category A disease to and from any wild aquatic animals that might be in epidemiological contact with the establishment;
+
+(c) prevent aquaculture animals from being removed from the establishment in which they are kept unless authorised by the competent authority;
+
+(d) implement appropriate biosecurity measures to any product, piece of equipment, material or substance likely to spread the relevant category A disease;
+
+(e) reduce the number of visitors to those which are strictly necessary to operate the establishment in a proper manner; and
+
+(f) where practicable, implement appropriate means of cleaning and disinfection at the entry and exit of the establishment.
+
+2\. The competent authority shall order and supervise that the operator has processed or disposed of as the relevant category material in accordance with Regulation (EC) No 1069/2009 animal by-products from aquaculture animals of listed species that have died or have been killed, including molluscs shells with meat, in establishments keeping listed species within the protection zone.
+
+3\. The competent authority may decide after carrying out a risk assessment that Articles 87 and 88 only apply to aquaculture animals of listed species.
+
+##### Article 88 — Visits by official veterinarians in establishments in the protection zone
+
+1\. The competent authority shall ensure that official veterinarians carry out at least one visit to all the establishments referred to in Article 87 as soon as possible and without delay after the official confirmation of an outbreak of category A disease, with priority directed to establishments that the competent authority has assessed as posing a high risk as regards contracting or spreading disease.
+
+2\. When carrying out the visits referred to in paragraph 1, official veterinarians shall perform at least the following activities:
+
+(a) documentary checks and record analysis;
+
+(b) verification of the implementation of the measures intended to prevent the introduction or spread of the relevant category A disease in accordance with to Article 87;
+
+(c) clinical examination of aquaculture animals of listed species; and
+
+(d) if necessary, collection of samples for laboratory examination in order to confirm or rule out the presence of the relevant category A disease.
+
+3\. The competent authority may require further veterinary visits to the establishments to follow up on the situation.
+
+4\. The competent authority shall keep a record of activities and visits referred to in paragraph 1, 2 and 3, and the findings thereof.
+
+##### Article 89 — Prohibitions in relation to movements of aquaculture animals, products from aquaculture animals, other substances and material within, from or to the protection zone
+
+1\. The competent authority shall prohibit the following movements within the protection zone:
+
+(a) movement of aquaculture animals of listed species between establishments in the protection zone;
+
+(b) movement of aquaculture animals of listed species from or to the protection zone;
+
+(c) any movements from the establishments within the protection zone of means of transport and any equipment, product, material or substance likely to transmit the relevant category A disease;
+
+(d) transport of aquaculture animals by well-boats through the protection zone; and
+
+(e) dispatch of unprocessed animal by-products from aquaculture animals of any species from establishments in the protection zone.
+
+2\. The competent authority may, after carrying out a risk assessment, extend the prohibitions provided for in paragraph 1(a) to 1(d) to animals of non-listed species and their products.
+
+##### Article 90 — General conditions to grant derogations from prohibitions of movement and transport concerning aquatic animals and products in the protection zone
+
+1\. By way of derogation from the prohibitions provided for in Article 89(1), the competent authority may authorise the movement and transport of aquatic animals and products thereof in the cases referred to in Articles 91, 92 and 93 under the specific conditions provided for in those Articles and the general conditions laid down in paragraph 2 of this Article.
+
+2\. When granting the authorisations provided for in pargraph 1, the competent authority shall ensure that the following conditions are met:
+
+(a) all movements must be carried out exclusively via designated routes, agreed with the competent authority, without unloading or stopping for reasons other than the exchange or discharges of water as provided for in point (b);
+
+(b) any exchange of water and discharges of water during the transportation must be carried out in areas, establishments or water exchange points approved by the competent authority;
+
+(c) the means of transport must be constructed and maintained in such a way that they can undergo proper cleaning and disinfection;
+
+(d) the means of transport are cleaned and disinfected:
+
+(i) prior to the transport operations; and
+
+(ii) after transport operations under the supervision of the official veterinarian;
+
+(e) any other supplementary biosecurity measure considered necessary by the competent authority must be taken in relation to transport operations.
+
+##### Article 91 — Specific conditions for slaughter, and movements for slaughter or processing of aquaculture animals from listed species from establishments in the protection zone
+
+1\. Aquaculture animals from establishments keeping listed species in the protection zone may be:
+
+(a) slaughtered within the establishment in compliance with biosecurity measures provided for by the competent authority; or
+
+(b) moved for immediate slaughter for human consumption in a disease control aquatic food establishment; or
+
+(c) in the case of molluscs, removed from water and moved to a disease control aquatic food establishment for purification if necessary and further processing.
+
+2\. The competent authority may, after carrying out a risk assessment based on relevant epidemiological data, limit the application of the measures provided for in paragraph 1 to establishments keeping solely aquaculture animals of species listed in the third column of the Annex to Commission Implementing Regulation (EU) 2018/1882.
+
+3\. When authorising the movements of aquaculture animals referred to in paragraph 1(b), the competent authority responsible for the disease control aquatic food establishment shall:
+
+(a) be informed of the intention to send aquaculture animals of listed species to the disease control aquatic food establishment;
+
+(b) agree to receive the aquaculture animals in question;
+
+(c) supervise and confirm the slaughter of the animals to the competent authority of dispatch;
+
+(d) ensure that the aquaculture animals of listed species originating from the protection zone are kept separately from aquaculture animals of listed species originating from outside the protection zone, and slaughtered or processed separately from those animals;
+
+(e) monitor the slaughtering or processing;
+
+(f) ensure that the cleaning and disinfection of the premises is completed before aquaculture animals from establishments outside the protection zone are slaughtered or processed;
+
+(g) ensure that products of animal origin obtained from the aquaculture animals comply with the specific conditions for placing on the market provided for in Article 92; and
+
+(h) ensure that animal by-products from slaughter or other processes referred to in paragraph 1, are processed or disposed of in accordance with Regulation (EC) No 1069/2009.
+
+##### Article 92 — Specific conditions for placing on the market of products of animal origin from aquaculture animals of listed species produced in non-affected establishments in the protection zone
+
+1\. The competent authority may authorise placing on the market of products of animal origin obtained from aquaculture animals of listed species in non-affected establishments in the protection zone, provided that the following conditions are fulfilled:
+
+(a) fish must be slaughtered and eviscerated before dispatch; and
+
+(b) molluscs and crustaceans must be fully traceable and processed to non viable products unable to survive if returned to the water, before dispatch.
+
+2\. The products of animal origin referred to in paragraph 1 shall be intended:
+
+(a) for direct supply to the final consumer; or
+
+(b) for further processing in a disease control aquatic food establishment.
+
+##### Article 93 — Special conditions for authorising transport of unprocessed animal by-products from establishments located in the protection zone
+
+The competent authority may authorise the transport of unprocessed animal by-products of aquaculture animals of listed species from establishments in the protection zone to a plant for further processing in accordance with Regulation (EC) No 1069/2009.
+
+##### Article 94 — Risk-mitigating measures concerning certain activities related to aquatic animals within the protection zone
+
+1\. The competent authority may, after carrying out a risk assessment, implement risk- mitigating measures as regards:
+
+(a) commercial and recreational fishing activities in the protection zone;
+
+(b) other activities that are related to aquatic animals in the protection zone and that might pose a risk of spreading the disease; and
+
+(c) transport of service boats used for maintenance activities and treatment of aquatic animals in the protection zone.
+
+2\. In the framework of the measures provided for in paragraph 1, the competent authority may, as relevant, order the cleaning and disinfection of equipment, which has been used in waters covered by the protection zone.
+
+##### Article 95 — Measures to be applied in food and feed businesses, purification centre, dispatch centres, border control posts, animal by-products establishments or any other location of relevance in the protection zone, including means of transport
+
+1\. The competent authority shall apply the measures provided for in Articles 87 to 93 in food and feed businesses, purification centre, dispatch centres, border control posts, animal by-products establishments or any other location of relevance in the protection zone, including means of transport.
+
+2\. In the establishments and locations referred to in paragraph 1, the competent authority may apply additional measures adapted to the specific situation in order to prevent the spread of the category A disease within and from the protection zone.
+
+##### Article 96 — Removal of aquaculture animals from affected establishments and subsequent risk- mitigating measures
+
+1\. The competent authority shall determine a point in time by which aquaculture animals in all infected establishments shall be removed.
+
+2\. The competent authority may decide, after carrying out a risk assessment, that paragraph 1 also applies to establishments in the protection zone in which the category A disease has not been confirmed in order to control and prevent the possible spread of the diseases.
+
+3\. After the removal of aquaculture animals as provided for in paragraph 1, cleaning, disinfection and fallowing shall be carried out in accordance with Articles 80 and 81.
+
+4\. The competent authority shall order synchronous fallowing of the affected establishments and the establishments selected in accordance with paragraph 2.
+
+5\. The synchronous fallowing referred to in paragraph 4 shall last for the period of time laid down in Annex XIII.
+
+##### Article 97 — Duration of disease control measures in the protection zone, repopulation of establishments covered by the protection zone
+
+1\. The competent authority shall maintain the disease control measures in the protection zone provided for in Section 2 of this Chapter until:
+
+(a) the measures in Article 96 are carried out and completed; and
+
+(b) the competent authority has, based on the outcome of the investigations conducted in accordance with Article 88, ruled out any occurrence of the relevant category A disease in the other establishments within the protection zone.
+
+2\. When the conditions set out in paragraph 1 are met:
+
+(a) the competent authority shall apply the measures provided for in Section 3 of this Chapter in the protection zone for the period of time set out in Article 101; and
+
+(b) the establishments referred to in Article 96(1) and (2) and previously covered by the protection zone may be repopulated.
+
+#### Section 3 — Disease control measures in the surveillance zone
+
+##### Article 98 — Measures to be applied in establishments in the surveillance zone
+
+1\. In the surveillance zone, the competent authority shall order that the measures provided for in Article 87 are applied in all establishments keeping aquaculture animals of listed species.
+
+2\. Official veterinarians shall visit the establishments referred to in paragraph 1 and carry out the activities provided for in Article 88(2) as appropriate.
+
+3\. The establishments within the surveillance zone shall undergo surveillance comprising visits and samplings as described in point 1 of Annex XV.
+
+4\. The surveillance provided for in paragraph 3 shall be carried out by the competent authority.
+
+##### Article 99 — Measures in relation to the movement and transport of aquaculture animals within from or to the surveillance zone
+
+1\. The competent authority shall prohibit any movements of aquaculture animals from establishments within the surveillance zone for slaughter, further keeping or release into the wild outside the surveillance zone.
+
+2\. The competent authority shall ensure that any transport of aquaculture animals of listed species within or into the surveillance zone shall be carried out in accordance with the conditions laid down in Article 90(2), points (a) to (e), and in Article 91.
+
+3\. The competent authority may order appropriate supplementary biosecurity measures to be applied to transport operations, including the unloading in the designated establishment of destination in order to control and prevent the possible spread of the diseases.
+
+4\. By way of derogation from paragraph 1, and in agreement with the competent authority at the place of destination, the competent authority may authorise movements of aquaculture animals, other than for release into the wild, provided that appropriate biosecurity measures to prevent the spread of the category A disease, are applied.
+
+##### Article 100 — Measures to be applied in food and feed businesses, purification centre, dispatch centres, border control posts, animal by-products establishments or any other location of relevance in the surveillance zone, including means of transport
+
+1\. The competent authority shall order without delay that the measures provided for in Articles 98 and 99 be applied in food and feed businesses, purification centre, dispatch centres, border control posts, animal by-products establishments or any other location of relevance in the surveillance zone, including means of transport.
+
+2\. In the locations referred to in paragraph 1, the competent authority may apply additional measures adapted to the specific situation in order to prevent the spread of the category A disease within and from the surveillance zone.
+
+##### Article 101 — Duration of disease control measures in the surveillance zone
+
+The competent authority shall lift the disease control measures provided for in this Section when the period of surveillance, set out in point 2 of Annex XV, for the relevant category A disease has elapsed with favourable results.
+
+### CHAPTER III — Disease control measures in wild aquatic animals
+
+##### Article 102 — Measures in the event of a suspect case of a category A disease in wild aquatic animals of listed species
+
+In the event of a suspect case of a category A disease in wild aquatic animals of listed species in accordance with Article 9(1), (3) and (4) in Delegated Regulation (EU) 2020/689, the competent authority shall:
+
+(a) immediately conduct an investigation of wild aquatic animals of listed species fished, caught, collected or found dead to confirm or rule out the presence of the category A disease in accordance with Article 71(2);
+
+(b) ensure that all animal by-products obtained from the wild aquatic animals of listed species suspected to be infected, including molluscs shells with meat, are processed or disposed of as category 1 or category 2 material in accordance with Regulation (EC) No 1069/2009;
+
+(c) ensure that, where practicable any material or substance likely to be contaminated by animals suspected to be affected or by the animal by-products obtained from those animals undergoes cleaning and disinfection or is disposed of following the instructions and under the supervision of official veterinarians; and
+
+(d) provide relevant information to the operators or authorities in charge of the management of the relevant animal population.
+
+##### Article 103 — Measures in the event of official confirmation of a category A disease in wild aquatic animals of listed species
+
+1\. In the event of an officially confirmed case of a category A disease in wild aquatic animals of listed species, the competent authority shall determine an infected zone on the basis of:
+
+(a) relevant hydrodynamic, topographic and epidemiological conditions;
+
+(b) the disease profile and the estimated population of aquatic animals of listed species; and
+
+(c) the risk factors contributing to the spread of the relevant category A disease, in particular those associated with the risk of introducing the disease into establishments keeping aquatic animals of listed species.
+
+2\. The competent authority may adapt the boundaries of the initial infected zone:
+
+(a) in order to control the further spread of the relevant category A disease; and
+
+(b) in the case of confirmation of further outbreaks of the category A disease in wild animals.
+
+3\. The competent authority shall immediately inform operators, other relevant competent authorities, relevant veterinarians, and any other natural or legal person concerned, about the outbreak of the diseases and the control measures adopted.
+
+##### Article 104 — Measures to be applied in the infected zone
+
+1\. In the infected zone established in accordance with Article 103 the competent authority shall:
+
+(a) implement risk mitigation and reinforced biosecurity measures, in order to prevent the spread of the category A disease from the affected animals and infected zone to unaffected animals and areas;
+
+(b) prohibit any movement by humans of wild aquatic animals of listed species and products of animal origin obtained from those animals from the infected zone;
+
+(c) by way of derogation from Article 10(i) of Regulation (EC) No 1069/2009 ensure that all animal by-products obtained from the wild aquatic animals of listed species in the infected zone including molluscs shells, with meat are processed or disposed of as category 1 or category 2 material in accordance with that Regulation;
+
+(d) ensure, where practicable, that any material or substance likely to be contaminated by wild aquatic animals of listed species in the infected zone or animal by-products obtained from those animals undergoes cleaning and disinfection or is disposed of following the instructions and under the supervision of official veterinarians; and
+
+(e) prohibit bringing into establishments keeping aquaculture animals of listed species, within the infected zone, any parts of aquatic animals of listed species whether fished, caught, collected or found dead in the infected zone, as well as any product, material or substance, which is likely to be contaminated with a category A disease.
+
+2\. By way of derogation from paragraph 1(b) and for the purpose of preserving valuable genetic material, the competent authority may authorise movements of wild aquatic animals of listed species from the infected zone to an establishment authorised by the competent authority for that purpose, provided that appropriate biosecurity measures to prevent the spread of the category A disease are applied. The establishment of destination shall be considered as an establishment located in the infected zone for the purposes of Article 108.
+
+##### Article 105 — Additional measures to be applied in the infected zone
+
+1\. After carrying out a risk assessment, the competent authority shall determine the additional measures necessary to control or eradicate the relevant category A disease.
+
+2\. As part of the control or eradication of the relevant category A disease the competent authority may:
+
+(a) suspend restocking, fishing, collecting and catching activities;
+
+(b) order mandatory cleaning and disinfection of fishing equipment and boats and other equipment likely to be contaminated; and
+
+(c) increase fishing, collecting and catching activities or implement other relevant measures to eradicate the disease.
+
+3\. The measures provided for in paragraph 1 shall be implemented after consultations and in cooperation with the operational expert group referred to in Article 107 and other authorities and stakeholders.
+
+##### Article 106 — Extension of measures
+
+The competent authority may decide that relevant measures in Articles 102 to 105 also apply to aquatic animals of non-listed species.
+
+##### Article 107 — Operational expert group
+
+1\. In the event of a confirmed case of a category A disease in wild aquatic animals of listed species, the competent authority shall establish an operational expert group as referred to in Article 43(2)(d)(iii) of Regulation (EU) 2016/429.
+
+2\. The operational expert group shall assist the competent authority in:
+
+(a) assessing the epidemiological situation and its evolution;
+
+(b) determining the infected zone; and
+
+(c) establishing the appropriate measures to be applied in the infected zone and their duration.
+
+##### Article 108 — Measures in the establishments within the infected zone
+
+1\. In the establishments keeping aquaculture animals of listed species within the infected zone, the competent authority shall apply the measures provided for in Article 87.
+
+2\. In addition to the measures provided for in Article 87, the competent authority shall prohibit the movement of aquaculture animals kept in establishments within the infected zone:
+
+(a) out of the infected zone; or
+
+(b) to other establishments in the infected zone.
+
+3\. The competent authority may, after carrying out a risk assessment, limit the prohibition in paragraph 2 to aquaculture animals of listed species.
+
+4\. By way of derogation from paragraph 2, the competent authority may authorise after carrying out a risk assessment and in agreement with the competent authority of the place of destination, the movement of animals of of listed species out of the infected zone or to other establishments in the infected zone.
+
+##### Article 109 — Duration of the measures in the infected zone
+
+The competent authority shall maintain the measures provided for in this Chapter until the epidemiological information indicates that the relevant wild population no longer poses a risk of spreading the disease and the operational group recommends lifting the measures.
+
+### CHAPTER IV — Disease control measures for category B and C diseases of aquatic animals
+
+##### Article 110 — Preliminary disease control measures to be applied when a category B or C disease is suspected by the competent authority in Member States, zones or compartments that have been granted a disease free status
+
+The competent authority shall apply the measures laid down in Articles 55, Article 56 and Article 57 of Delegated Regulation (EU) 2020/689 in the event of suspicion of a category B or C disease in accordance with Article 9(1), (3) or (4) of Delegated Regulation (EU) 2020/689, in Member States, zones or compartments that have been granted a disease free status as provided for in Article 36(4) and Article 37(4) of Regulation (EU) 2016/429, or Article 83, Article 84(1)(h) to (m) or Article 84(2)(b) to (g) of Delegated Regulation (EU) 2020/689.
+
+##### Article 111 — Disease control measures to be applied when a category B or C disease is confirmed
+
+The competent authority shall apply the measures laid down in the Articles 58 to 65 of Delegated Regulation (EU) 2020/689 in the event of confirmation of a category B or C disease in accordance with Article 9(2), (3) or (4) of Delegated Regulation (EU) 2020/689 in Member States or zones or compartments that have been granted the disease free status as provided for in Article 36(4) and Article 37(4) of Regulation (EU) 2016/429, or Article 83, Article 84(1)(h) to (m) or Article 84(2)(b) to (g) of Delegated Regulation (EU) 2020/689:
+
+## PART IV — FINAL PROVISIONS
+
+##### Article 112 — Repeals
+
+1\. Directives 92/66/EEC, 2001/89/EC, 2003/85/EC and 2005/94/EC as well as the acts adopted on the basis of those Directives, shall cease to apply with effect from 21 April 2021.
+
+2\. Directives 2000/75/EC and 2002/60/EC as well as the acts adopted on the basis of those Directives, shall cease to apply with effect from 14 July 2021.
+
+##### Article 113 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 April 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — CLINICAL EXAMINATIONS, SAMPLING PROCEDURES, DIAGNOSTIC METHODS OF CATEGORY A DISEASES AND TRANSPORT OF SAMPLES — (referred to in Article 3)
+
+**A. Sampling procedures**
+
+**A.1. SAMPLING OF ANIMALS FOR CLINICAL EXAMINATIONS**
+
+1\. Clinical examinations must include, if possible:
+
+(a) animals showing clinical signs of category A diseases;
+
+(b) animals likely to have recently died from a suspected or confirmed category A disease;
+
+(c) animals with an epidemiological link to a suspected or confirmed case of a category A disease;
+
+(d) animals that obtained positive or non-conclusive results in previous laboratory examinations.
+
+2\. The animals to be examined must be selected at random, in a number large enough to allow the detection of the category A disease, if present, where there are no obvious signs of disease or post-mortem lesions suggesting the presence of category A diseases.
+
+3\. The animals to be examined and the sampling method must be chosen in accordance with the instructions of the competent authority, the relevant scientific evidence for the relevant category A disease, and with the relevant contingency plan as referred to in Article 43 of Regulation (EU) 2016/429. The animals to be examined and the sampling method must take into account the disease profile, and:
+
+(a) the purpose of the sampling;
+
+(b) the listed species kept in the establishment;
+
+(c) the number of animals of listed species kept in the establishment;
+
+(d) the category of the kept animals;
+
+(e) the available production, health and traceability records of the kept animals relevant for the investigation;
+
+(f) the type of establishment and the husbandry practices;
+
+(g) the level of exposure risk taking into account:
+
+(i) the likelihood of exposure to the category A disease agent or to the vector;
+
+(ii) the absence of immunisation of the animals due to vaccination or maternal immunity;
+
+(iii) the history of residence in the establishment;
+
+(h) other relevant epidemiological factors.
+
+4\. The minimum number of animals to be examined must be in accordance with the instructions of the competent authority, and with the relevant contingency plan as referred to in Article 43 of Regulation (EU) 2016/429. The minimum number of animals to be examined must take into account the relevant category A disease profile, and in particular:
+
+(a) the expected prevalence of the relevant category A disease in the establishment;
+
+(b) the level of confidence desired of the survey results, which in any case must not be lower than 95 %;
+
+(c) international standards and the relevant scientific evidence for the relevant category A disease.
+
+**A.2. SAMPLING OF ANIMALS FOR LABORATORY EXAMINATIONS**
+
+1\. Sampling for laboratory examinations must take into account the outcome of the clinical examinations referred to in point A.1 and, if possible, must include the animals referred to in paragraph 1 of point A.1.
+
+2\. If there are no obvious signs of disease or post-mortem lesions suggesting category A diseases, samples must be collected at random in each epidemiological unit of the establishment and must allow the detection of the relevant category A disease, if present.
+
+3\. The animals to be sampled, the nature of the samples to be collected and the sampling method must be in accordance with the instructions of the competent authority, the relevant scientific evidence for the relevant category A disease, the relevant details and guidance of the European Union Reference Laboratories (EURL) and of the Commission, and with the relevant contingency plan referred to in Article 43 of Regulation (EU) 2016/429. The animals to be sampled, the nature of the samples to be collected and the sampling method must take into account the relevant category A disease profile and the criteria set out in paragraph 3 of point A.1.
+
+4\. The minimum number of animals to be sampled must be in accordance with the instructions of the competent authority, the relevant scientific evidence for the relevant category A disease, the relevant details and guidance of the EURL and of the Commission, and the relevant contingency plan referred to in Article 43 of Regulation (EU) 2016/429. The minimum number of animals to be sampled must take into account the criteria set out in paragraph 4 of point A.1 and the performance of the tests used.
+
+5\. In the case of wild animals, samples must be collected from animals shot, found dead or purposely trapped or must be obtained on the basis of non-invasive methods such as salt licks and chewing ropes or baits. The minimum number and the nature of the samples must take into account the estimated size of the wild population and the relevant criteria set out in paragraph 3 and 4 of point A.1.
+
+**A.3. SAMPLING OF ESTABLISHMENTS FOR VISITS**
+
+The choice of establishments where the samples are to be taken, the minimum number of establishments to be visited and the sampling method must be in accordance with the instructions of the competent authority, the relevant scientific evidence for the relevant category A disease, and with the relevant contingency plan referred to in Article 43 of Regulation (EU) 2016/429. The choice of establishments where samples are to be taken and the sampling method must take into account the relevant category A disease profile and the criteria set out in paragraph 3 of point A1.
+
+**B. Diagnostic methods**
+
+The techniques, reference materials, their standardisation and the interpretation of the results of tests carried out using the relevant diagnostic methods for category A diseases must comply with Article 6 and with Part III of Annex VI to Delegated Regulation (EU) 2020/689.
+
+The diagnostic methodology must aim to maximise the sensitivity of the surveillance. In certain circumstances this surveillance may include the use of laboratory examinations in order to assess previous exposure to disease.
+
+**C. Transport of samples**
+
+1\. All the samples taken to confirm or rule out the presence of a category A disease must be sent, with a proper labelling and identification, to an official laboratory which has been informed of their arrival. These samples must be accompanied by the appropriate forms, in accordance with the requirements established by the competent authority and the laboratory receiving the samples. These forms must include at least:
+
+(a) the establishment of origin of the sampled animals;
+
+(b) information on the species, age and category of the sampled animals;
+
+(c) the clinical history of the animals, if available and relevant;
+
+(d) the clinical signs and post-mortem findings;
+
+(e) any other relevant information.
+
+2\. All samples must be:
+
+(a) stored in watertight and unbreakable containers and packages and in accordance with applicable international standards;
+
+(b) kept at the most appropriate temperature and other conditions during transport taking into account the factors that may affect the sample quality.
+
+3\. The exterior of the package must be labelled with the address of the recipient laboratory and the following message must be prominently displayed:
+
+‘Animal pathological material; perishable; fragile; do not open outside the laboratory of destination.’
+
+4\. The person responsible in the official laboratory receiving the samples must be informed in due time of the arrival of the samples.
+
+## ANNEX II
+
+**MONITORING PERIOD**
+
+**(as referred to in Articles 8, 17, 27, 32, 48, 57 and 59 of this Regulation)**
+
+| Category A diseases | Monitoring period |
+| --- | --- |
+| Foot and mouth disease (FMD) | 21 days |
+| Infection with rinderpest virus (RP) | 21 days |
+| Infection with Rift Valley fever virus (RVFV) | 30 days |
+| Infection with lumpy skin disease virus (LSD) | 28 days |
+| Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia) (CBPP) | 90 days |
+| Sheep pox and goat pox (SPGP) | 21 days |
+| Infection with peste des petits ruminants virus (PPR) | 21 days |
+| Contagious caprine pleuropneumonia (CCPP) | 45 days |
+| African horse sickness (AHS) | 14 days |
+| Infection with Burkholderia mallei (Glanders) | 6 months |
+| Classical swine fever (CSF) | 25 days |
+| African swine fever (ASF) | 15 days |
+| Highly pathogenic avian influenza (HPAI) | 21 days |
+| Infection with Newcastle disease virus (NCD) | 21 days |
+
+## ANNEX III
+
+**CONDITIONS FOR CERTAIN DEROGATIONS FROM ARTICLE 12(1)(a) IN EQUINE ANIMALS**
+
+**(as referred to in Article 13(4))**
+
+1\. In the event of an outbreak of African horse sickness the competent authority may derogate from Article 12(1)(a) the affected and the unaffected animals, provided that:
+
+(a) the affected animals subject to the derogation are isolated in vector-protected premises which avoid any transmission of the disease agent from the animals to the relevant vectors until 40 days, corresponding to the infective period established in the relevant Chapter of the Terrestrial Animal Health Code of the World Organisation for Animal Health (OIE), have elapsed after the entry of the animals into the vector protected premises; and
+
+(b) surveillance, including if needed laboratory examinations, carried out by the competent authority, indicates that none of the animals in the vector protected premises poses a risk of virus transmission.
+
+2\. In the event of an outbreak of infection with Burkholderia mallei (Glanders) the competent authority may derogate from Article 12(1)(a) the unaffected animals, provided that the animals subject to the derogation are quarantined until:
+
+(a) the affected animals have been killed and destroyed;
+
+(b) after the killing, the cleaning and disinfection of the establishment has been completed as provided for in Article 15; and
+
+(c) the remaining animals have been subjected to a complement fixation test carried with negative result at a serum dilution of 1 in 5 on samples taken at least 6 months after the cleaning and disinfection referred to in point (b).
+
+## ANNEX IV
+
+**PROCEDURES FOR CLEANING, DISINFECTION AND WHEN NECESSARY CONTROL OF INSECTS AND RODENTS**
+
+**(referred to in Articles 12, 15, 16, 39, 45, 55 and 57)**
+
+**A. General requirements**
+
+1\. The choice of biocidal products and procedures for cleaning and disinfection operations must take into account:
+
+(a) the causal agent of infection;
+
+(b) the nature of the establishments, vehicles, objects and materials which are to be treated; and
+
+(c) the applicable legislation.
+
+2\. The conditions under which biocidal products are used must ensure that their efficacy is not impaired. In particular technical parameters provided by the manufacturer, such as pressure, temperature, required contact time or storage must be observed. The activity of the disinfectant must not be compromised by interaction with other substances.
+
+3\. Re-contamination of the previously cleaned parts must be avoided, in particular where washing is carried out with liquids applied under pressure.
+
+4\. The water used for cleaning operations must be contained and disposed of in a way that avoids any risk of spreading category A disease agents.
+
+5\. Biocidal products must be used in a way that reduces as much as possible any adverse impact on the environment and on public health that may arise from their use.
+
+**B. Preliminary cleaning and disinfection**
+
+For preliminary cleaning and disinfection under Article 15, to avoid spreading the category A disease:
+
+(a) entire bodies or parts of dead kept animals of listed species must be sprayed with disinfectant and removed from the establishment, in closed and leak-proof vehicles or containers for processing and disposal;
+
+(b) any tissue or blood which may have been spilled during killing, slaughter or post-mortem examination must be carefully collected and disposed of;
+
+(c) as soon as the entire bodies or parts of dead kept animals of listed species have been removed for processing or disposal, the parts of the establishment in which these animals were kept and any parts of other buildings, surfaces or equipment contaminated during killing or post-mortem examination must be sprayed with disinfectant;
+
+(d) manure, including litter and used bedding, must be thoroughly soaked with disinfectant;
+
+(e) the disinfectant must remain on the treated surface for at least 24 hours, except otherwise authorised by the competent authority considering the minimum required contact time as indicated by the manufacturer;
+
+(f) equipment, containers, consumption utensils, surfaces or any material likely to be contaminated after the washing and disinfecting must be destroyed.
+
+**C. Final cleaning and disinfection:**
+
+For final cleaning and disinfection for the purpose of Article 57:
+
+1\. Manure, including litter and used bedding, must be removed and treated as follows:
+
+(a) the solid phase of manure, including litter and used bedding, must either:
+
+(i) undergo a steam treatment at a temperature of at least 70 °C for a minimum period of 60 minutes;
+
+(ii) be destroyed by burning;
+
+(iii) be buried deep enough to prevent access by animals; or
+
+(iv) be stacked to heat, sprayed with disinfectant and left for at least 42 days, during which the stack must be either covered or re-stacked to ensure thermic treatment of all layers;
+
+(b) the liquid phase of manure must be stored for at least 42 days, and in the case of highly pathogenic avian influenza 60 days, after the last addition of infective material.
+
+2\. Buildings, surfaces and equipment must be thoroughly washed and cleaned by removing the remaining grease and dirt and sprayed with disinfectants.
+
+3\. After 7 days, or earlier if the buildings, surfaces and equipment have completely dried out after the completion of activities required in accordance with point 2, the establishments must be cleaned and disinfected again.
+
+## ANNEX V — MINIMUM RADIUS OF PROTECTION AND SURVEILLANCE ZONES — (referred to in Article 21)
+
+Indicated as the radius of a circle centred on the establishment
+
+| Category A diseases | Protection Zone | Surveillance Zone |
+| --- | --- | --- |
+| Foot and mouth disease | 3 km | 10 km |
+| Infection with rinderpest virus | 4 km | 10 km |
+| Infection with Rift Valley fever virus | 20 km | 50 km |
+| Infection with lumpy skin disease virus | 20 km | 50 km |
+| Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia) | 1 km | 3 km |
+| Sheep pox and goat pox | 5 km | 20 km |
+| Infection with peste des petits ruminants virus | 5 km | 20 km |
+| Contagious caprine pleuropneumonia | 1 km | 3 km |
+| African horse sickness | 100 km | 150 km |
+| Infection with Burkholderia mallei (Glanders) | Establishment | Establishment |
+| Classical swine fever | 3 km | 10 km |
+| African swine fever | 3 km | 10 km |
+| Highly pathogenic avian influenza | 3 km | 10 km |
+| Infection with Newcastle disease virus | 3 km | 10 km |
+
+## ANNEX VI — PROHIBITIONS IN THE RESTRICTED ZONE — (referred to in Article 27)
+
+**Table**
+
+**Prohibitions of activities concerning animals of listed species and products thereof**
+
+<table>
+<tbody><tr><td colspan="2">Prohibitions of activities concerning animals and products related to category A diseases (1)</td><td>FMD</td><td>RP</td><td>RVFV</td><td>LSD</td><td>CBPP</td><td>SPGP</td><td>PPR</td><td>CCPP</td><td>CSF</td><td>ASF</td><td>AHS</td><td>GLANDERS</td><td>HPAI</td><td>NCD</td></tr>
+<tr><td colspan="2">Movements of kept animals of listed species from establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movements of kept animals of listed species to establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Restocking of game animals of listed species</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Fairs, markets, shows and other gatherings of kept animals of listed species including collection and dispersion of those species</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movements of semen, oocytes and embryos obtained from kept animals of listed species from establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Collection of semen, oocytes and embryo from kept animals of listed species</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Itinerant artificial insemination of kept animals of listed species</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Itinerant natural service for breeding of kept animals of listed species</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Movements of hatching eggs to and from establishments in the restricted zone</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movements of fresh meat excluding offal from kept and wild animals of listed species from slaughterhouses or game handling establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NP</td><td>NP</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movements of offal from kept and wild animals of listed species from slaughterhouses or game handling establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movements of meat products obtained from fresh meat of listed species from establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NP</td><td>NP</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movement of raw milk and colostrum obtained from kept animals of listed species from establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>NA</td><td>NP</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Movement of dairy products and colostrum-based products from establishments in the restricted zone</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NP</td><td>NP</td><td>X</td><td>NP</td><td>NA</td><td>NA</td><td>NP</td><td>NA</td><td>NA</td><td>NA</td></tr>
+<tr><td colspan="2">Movement of eggs for human consumption from establishments in the restricted zone</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td rowspan="3">Movements of animal by-products from kept animals of listed species from establishments in the restricted zone, except entire bodies or parts of dead animals</td><td>Manure, including litter and used bedding</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td>Hides, skins, wool, bristles and feathers</td><td>X</td><td>X</td><td>NP</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td>Animal by-products other than manure, including litter and used bedding, and other than hides, skins, wool, bristles and feathers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>NP</td><td>NA</td><td>X</td><td>X</td></tr>
+<tr><td colspan="2">Movement feed materials of plant origin and straw obtained in the restricted zone</td><td>X</td><td>X</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NP</td><td>NA</td><td>NP</td><td>NP</td></tr>
+<tr><td colspan="16">(1)  Abbreviations for Category A diseases in accordance with Annex II.  NA = Not applicable  X = Prohibition  NP = Not prohibited </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII
+
+**PART I**
+
+**RISK MITIGATING TREATMENTS FOR PRODUCTS OF ANIMAL ORIGIN FROM THE RESTRICTED ZONE**
+
+**(referred to in Articles 27, 33 and 49)**
+
+**1\. Treatments for foot-and-mouth disease**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 ( 9 ) value of 3;
+
+Heat treatment to achieve a core temperature of at least 80 °C;
+
+Heat treatment to achieve a core temperature of 70 °C for a minimum of 30 min;
+
+Heat treatment in a hermetically sealed container, applying at least 60 °C for a minimum of 4 hours;
+
+Natural fermentation and maturation for a minimum period of 9 months, to achieve maximum values of Aw of 0,93 and pH of 6 throughout the product;
+
+Drying after salting for a minimum period of 182 days, for porcine meat only.
+
+**Casings**
+
+Salting with sodium chloride (NaCl) either dry or as saturated brine (Aw &lt; 0,80), for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above;
+
+Salting with phosphate supplemented salt 86,5 % NaCl, 10,7 % Na2HPO4 and 2,8 % Na3PO4 either dry or as saturated brine (Aw &lt; 0,80) for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above.
+
+**Milk**
+
+Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3;
+
+Heat treatment Ultra High Temperature (UHT) at a minimum of 132 °C for a minimum of one second;
+
+If milk pH is lower than 7, heat treatment High temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds;
+
+If milk pH is 7 or higher, heat treatment HTST pasteurisation at a minimum of 72 °C for a minimum of 15 seconds, applied twice;
+
+Heat treatment HTST pasteurisation at a minimum of 72 °C combined with a physical treatment to achieve pH value below 6 for a minimum of one hour;
+
+Heat treatment HTST pasteurisation at a minimum of 72 °C combined with desiccation.
+
+**2\. Treatments for Rinderpest**
+
+There is no risk mitigating treatment for Rinderpest.
+
+**3\. Treatments for Rift Valley fever**
+
+**Meat without offal**
+
+Maturation of carcasses at a minimum temperature of 2 °C for a minimum of 24 hours following slaughter.
+
+**Offal and meat from carcasses not matured**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3.
+
+**Milk**
+
+Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3;
+
+Heat treatment High temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds.
+
+**4\. Treatments for lumpy skin disease**
+
+**Offal**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3.
+
+**Casings**
+
+Safe commodity.
+
+**Milk**
+
+Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3;
+
+Heat treatment Ultra High Temperature (UHT) at a minimum of 132 °C for a minimum of one second;
+
+Heat treatment High temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds;
+
+Treatment to achieve a pH value below 6 for a minimum of one hour.
+
+**5\. Treatments for contagious bovine pleuropneumonia**
+
+**Offal**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3.
+
+**6\. Treatments for Sheep Pox and Goat Pox**
+
+**Offal**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3.
+
+**Milk**
+
+Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3;
+
+Heat treatment Ultra High Temperature (UHT) at a minimum of 132 °C for a minimum of one second;
+
+Heat treatment High temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds;
+
+Treatment to achieve a pH value below 6 for a minimum of one hour.
+
+**7\. Treatments for Peste des Petits ruminants**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3;
+
+Heat treatment to achieve a core temperature of at least 80 °C;
+
+Heat treatment to achieve a core temperature of 70 °C for a minimum of 30 min;
+
+Heat treatment to achieve a core temperature of 65 °C for a period of time to achieve a minimum pasteurisation value of 40;
+
+Heat treatment in a hermetically sealed container, applying at least 60 °C for a minimum of 4 hours.
+
+**Casings**
+
+Salting with sodium chloride (NaCl) either dry or as saturated brine (Aw &lt; 0,80), for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above;
+
+Salting with phosphate supplemented salt 86,5 % NaCl, 10,7 % Na2HPO4 and 2,8 % Na3PO4 either dry or as saturated brine (Aw &lt; 0,80) for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above.
+
+**Milk**
+
+Heat treatment, namely a sterilisation process, to achieve a minimum F0 value of 3;
+
+Heat treatment Ultra High Temperature (UHT) at a minimum of 132 °C for a minimum of one second;
+
+If milk pH is lower than 7, heat treatment High temperature short time (HTST) pasteurisation at a minimum of 72 °C for a minimum of 15 seconds;
+
+If milk pH is 7 or higher, heat treatment HTST pasteurisation at a minimum of 72 °C for a minimum of 15 seconds, applied twice;
+
+Heat treatment HTST pasteurisation at a minimum of 72 °C combined with a physical treatment to achieve pH value below 6 for a minimum of one hour;
+
+Heat treatment HTST pasteurisation at a minimum of 72 °C combined with desiccation.
+
+**8\. Treatments for contagious caprine pleuropneumonia**
+
+**Offal**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3.
+
+**9\. Treatments for classical swine fever**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3;
+
+Heat treatment to achieve a core temperature of at least 80 °C;
+
+Heat treatment to achieve a core temperature of 70 °C for a minimum of 30 min;
+
+Heat treatment in a hermetically sealed container, applying at least 60°C for a minimum of 4 hours;
+
+Natural fermentation and maturation for a minimum period of 9 months, (except for loins: a minimum period of 140 days and for hams: a minimum period of 190 days), to achieve maximum values of Aw of 0,93 and pH of 6;
+
+Drying after salting for a minimum period of 182 days.
+
+**Casings**
+
+Salting with sodium chloride (NaCl) either dry or as saturated brine (Aw &lt; 0,80), for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above;
+
+Salting with phosphate supplemented salt 86,5 % NaCl, 10,7 % Na2HPO4 and 2,8 % Na3PO4 either dry or as saturated brine (Aw &lt; 0,80) for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above;
+
+Salting with citrate supplemented salt 89,2 % NaCl, 8,9 % trisodium citrate dihydrate and 1,9 % citric acid monohydrate (wt/wt/wt) with pH 4,5, for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above.
+
+**10\. Treatments for African swine fever**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3;
+
+Heat treatment to achieve a core temperature of at least 80 °C;
+
+Heat treatment to achieve a core temperature of at least 70 °C for a minimum of 30 minutes;
+
+Heat treatment in a hermetically sealed container, applying at least 60 °C for a minimum of 4 hours;
+
+For deboned meat, natural fermentation and maturation of for minimum period of 9 months (except for loins: a minimum of 140 days and for hams: a minimum period of 190 days), to achieve maximum values of Aw of 0,93 and pH of 6;
+
+Drying after salting for a minimum period of 182 days.
+
+**Casings**
+
+Salting with sodium chloride (NaCl) either dry or as saturated brine (Aw &lt; 0,80), for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above;
+
+Salting with phosphate supplemented salt 86,5 % NaCl, 10,7 % Na2HPO4 and 2,8 % Na3PO4 either dry or as saturated brine (Aw &lt; 0,80) for a continuous period of 30 days or longer at an ambient temperature of 20 °C or above.
+
+**11\. Treatments for African horse sickness**
+
+Meat, casings and milk are safe commodities.
+
+**12\. Treatments for highly pathogenic avian influenza**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3;
+
+Heat treatment to achieve a core temperature of at least 70 °C;
+
+Heat treatment to achieve a core temperature of at least 65 °C for a minimum of 42 seconds;
+
+Heat treatment to achieve a core temperature of at least 60 °C for a minimum of 507 seconds.
+
+**Eggs**
+
+Heat treatment, with temperatures reaching at the core of the product at least the indicated value for a minimum of the time indicated:
+
+Whole egg:
+
+— Completely cooked;
+
+— 60 °C – 188 seconds.
+
+Whole egg blends:
+
+— Completely cooked;
+
+— 61,1 °C – 94 seconds;
+
+— 60 °C – 188 seconds.
+
+Liquid egg white:
+
+— 56,7 °C – 232 seconds;
+
+— 55,6 °C – 870 seconds.
+
+Plain or pure egg yolk:
+
+— 60 °C – 288 seconds.
+
+10 % salted yolk:
+
+— 62,2 °C – 138 seconds.
+
+Dried egg white:
+
+— 67 °C – 20 hours;
+
+— 54,4 °C – 513 hours.
+
+**13\. Treatments for Newcastle disease**
+
+**Meat**
+
+Heat treatment in a hermetically sealed container, to achieve a minimum F0 value of 3;
+
+Heat treatment to achieve a core temperature of at least 70 °C;
+
+Heat treatment to achieve a core temperature of 60 °C for a minimum of 507 seconds;
+
+Heat treatment to achieve a core temperature of 57,8 °C for a minimum of 63 minutes and 18 seconds.
+
+**Eggs**
+
+Heat treatment, with temperatures reaching at the core of the product at least the indicated value for a minimum of the time indicated:
+
+Whole egg:
+
+— Completely cooked;
+
+— 59 °C – 674 seconds;
+
+— 57 °C – 1 596 seconds;
+
+— 55 °C – 2 521 seconds.
+
+Fortified egg:
+
+— 62,2 °C – 3 minutes and 30 seconds;
+
+— 61,1 °C – 6 minutes and 12 seconds.
+
+Sugared/salted egg:
+
+— 63,3 °C – 3 minutes and 30 seconds;
+
+— 62,2°C – 6 minutes and 12 seconds.
+
+Liquid egg white:
+
+— 59 °C – 301 seconds;
+
+— 57 °C – 986 seconds;
+
+— 55 °C – 2 278 seconds.
+
+Plain or pure egg yolk:
+
+— 61,1 °C – 3 minutes and 30 seconds;
+
+— 60 °C – 6 minutes and 12 seconds.
+
+10 % salted egg yolk:
+
+— 55 °C – 176 seconds.
+
+Dried egg white:
+
+— 57 °C – 50 hours and 24 minutes.
+
+**PART II**
+
+**METHODS TO MITIGATE THE RISK OF THE SPREAD OF CATEGORY A DISEASES FOR ANIMAL BY-PRODUCTS AND DERIVED PRODUCTS FROM THE RESTRICTED ZONE**
+
+**(referred to in Articles 27, 35, 37, 51 and 53)**
+
+The following methods for the treatment, transformation or processing, as described in the following Chapters and Annexes of Regulation (EU) No 142/2011:
+
+1\. Processing of derived products by standard processing methods 1 to 5, referred to in Annex IV, Chapter III.
+
+2\. Transformation or composting by standard transformation parameters for biogas transformation or composting, referred to in Annex V, Chapter III, Section 1.
+
+3\. Double heat treatment for processing of milk-derived or milk-based products, referred to in Annex X, Chapter II, Section 4, Part 1, point B.
+
+4\. Heat treatment for processing of manure, referred to in Annex XI, Chapter I, Section 2 point (b).
+
+5\. Heat treatment for the manufacture of petfood (namely, processed petfood, dog chews and flavouring innards) referred to in Annex XIII, Chapter II, point 3(a) and point 3(b)(i), (ii) and (iii).
+
+6\. Treatment of blood products from Equidae by one of the treatments followed by an effectiveness check, as set out in Annex XIII, Chapter IV, point 2(b)(ii).
+
+7\. Treatment of hides and skins, referred to in Annex I, point 28; and the processing of hides and skins, referred to in Annex XIII, Chapter V, point C2.
+
+8\. Treatment or processing of game trophies, referred to in Annex XIII, Chapter VI, point C.
+
+9\. Treatment of pig’s bristles, referred to in Annex XIII, Chapter VII, point A2(a).
+
+10\. Treatment of wool and hair, referred to in Annex XIII, Chapter VII, point B, third subparagraph.
+
+11\. Treatment for feather and down, referred to in Annex XIII, Chapter VII, point C.
+
+12\. Processing of fat derivates, referred to in Annex XIII, Chapter XI, points 1 and 2.
+
+## ANNEX VIII
+
+**RISK-MITIGATING TREATMENTS FOR PRODUCTS NOT OF ANIMAL ORIGIN FROM THE RESTRICTED ZONE**
+
+**(as referred to in Articles 36 and 52 of this Regulation)**
+
+<table>
+<tbody><tr><td>Treatment</td><td>FMD (1)</td><td>RP</td></tr>
+<tr><td>Heat treatment, minimum temperature of 80 °C and for a minimum of 10 minutes, steam in a closed chamber</td><td>X</td><td>X</td></tr>
+<tr><td> Storage in package or bales under shelter at premises situated not closer than 2 km to the nearest outbreak and the releasing of the feed materials of plant origin and straw from the premises do not take place before at least four months have elapsed following the completion of the cleaning and disinfection in accordance with Article 15  </td><td>X</td><td>X</td></tr>
+<tr><td colspan="3">(1)  Disease abbreviations in accordance with Annex II. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX — MARKING OF FRESH MEAT FROM THE RESTRICTED ZONE — (Special health or identification marks) — (referred to in Articles 33 and 49)
+
+1\. The special identification mark to be applied to fresh meat of poultry originating in the protection zone and not intended for another Member State as referred to in Article 33(1), point (b), of this Regulation shall be the identification mark provided for in Article 5(1), point (b), of Regulation (EC) No 853/2004, with two additional diagonal parallel lines enabling the information on it to remain perfectly legible.
+
+2\. The special health mark or, where relevant, the special identification mark to be applied to fresh meat intended for treatment in a processing establishment in accordance with Articles 33(2), point (a), and 49(2), point (a), of this Regulation shall consist of the health mark provided for in Article 48 and Annex II to Implementing Regulation (EU) 2019/627 or, where relevant, the identification mark provided for in Section I of Annex II to Regulation (EC) No 853/2004, with an additional diagonal cross consisting of two straight lines intersecting at the centre of the stamp and enabling the information on it to remain perfectly legible.
+
+## ANNEX X — DURATION OF THE MEASURES IN THE PROTECTION ZONE — (referred to in Article 39)
+
+| Category A diseases | Minimum period of duration of measures in the protection zone (Article 39(1)) | Additional period of duration of surveillance measures in the protection zone (Article 39(3)) |
+| --- | --- | --- |
+| Foot and mouth disease | 15 days | 15 days |
+| Infection with rinderpest virus | 21 days | 9 days |
+| Infection with Rift Valley fever virus | 30 days | 15 days |
+| Infection with lumpy skin disease virus | 28 days | 17 days |
+| Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia) | 90 days | Not applicable |
+| Sheep pox and goat pox | 21 days | 9 days |
+| Infection with peste des petits ruminants virus | 21 days | 12 days |
+| Contagious caprine pleuropneumonia | 45 days | Not applicable |
+| African horse sickness | 12 months | Not applicable |
+| Infection with Burkholderia mallei (Glanders) | 6 months | Not applicable |
+| Classical swine fever | 25 days | 15 days |
+| African swine fever | 15 days | 15 days |
+| Highly pathogenic avian influenza | 21 days | 9 days |
+| Infection with Newcastle disease virus | 21 days | 9 days |
+
+## ANNEX XI — DURATION OF THE MEASURES IN THE SURVEILLANCE ZONE — (referred to in Article 55 and 56)
+
+| Category A diseases | Minimum period of duration of measures in the surveillance zone |
+| --- | --- |
+| Foot and mouth disease | 30 days |
+| Infection with rinderpest virus | 30 days |
+| Infection with Rift Valley fever virus | 45 days |
+| Infection with lumpy skin disease virus | 45 days |
+| Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia) | 90 days |
+| Sheep pox and goat pox | 30 days |
+| Infection with peste des petits ruminants virus | 33 days |
+| Contagious caprine pleuropneumonia | 45 days |
+| African horse sickness | 12 months |
+| Infection with Burkholderia mallei (Glanders) | Not applicable |
+| Classical swine fever | 40 days |
+| African swine fever | 30 days |
+| Highly pathogenic avian influenza | 30 days |
+| Infection with Newcastle disease virus | 30 days |
+
+## ANNEX XII
+
+**SAMPLING PROCEDURES AND DIAGNOSTIC METHODS FOR CATEGORY A DISEASES IN AQUATIC ANIMALS**
+
+1\. The following procedures apply to the clinical examination and collection of samples:
+
+(a) the clinical examination and the sampling for laboratory examinations must include:
+
+(i) aquaculture animals of listed species showing clinical signs of the relevant category A disease; and
+
+(ii) aquaculture animals likely to have recently died from the suspected/confirmed category A disease; and
+
+(iii) aquaculture animals with an epidemiological link to a suspected or confirmed case of a category A disease;
+
+(b) the minimum number of samples to be collected is:
+
+<table>
+<tbody><tr><td>  </td><td colspan="4">Scenario</td></tr>
+<tr><td>Type of animals</td><td>Report of increased mortality</td><td>Introduction of infected animals</td><td>Post-mortem or clinical signs observed</td><td>Suspicion based on other circumstances</td></tr>
+<tr><td>Molluscs (the whole animal)</td><td>30</td><td>30</td><td>—</td><td>150</td></tr>
+<tr><td>Crustaceans</td><td>10</td><td>  </td><td>10</td><td>150</td></tr>
+<tr><td>Fish</td><td>—</td><td>—</td><td>10</td><td>30</td></tr>
+</tbody>
+</table>
+
+(c) the following additional criteria apply to the sampling of molluscs:
+
+(i) animals suspected to be infected must be selected for sampling. If listed species are present in the population of animals concerned by the suspicion, those must be selected for sampling;
+
+(ii) if weak, gaping or freshly dead but not decomposed molluscs are present, those must be selected first. If such molluscs are not present, the molluscs selected must include the oldest healthy molluscs;
+
+(iii) if the establishment uses more than one water source for mollusc production, molluscs representing all water sources must be included for sampling to ensure that all parts of the establishment are proportionally represented in the sample;
+
+(iv) when sampling from a group of mollusc farming establishments which apparently have identical epidemiological status, molluscs from a representative number of sampling points must be included in the sample.
+
+The main factors to be considered when selecting those sampling points must be stocking density, water currents, the presence of listed species, both susceptible and vector species, bathymetry and management practices. Natural beds within or adjacent to the mollusc farming establishment(s) must be included in the sample;
+
+(d) the following additional criteria apply when sampling crustaceans:
+
+(i) if weak or moribund crustaceans of listed species are present in the production units, those crustaceans must be selected first. If such animals are not present, the crustaceans selected must include crustaceans of different year classes, proportionally represented in the sample;
+
+(ii) if more than one water source is used for crustacean production, crustaceans of listed species representing all water sources must be included in the sample to ensure that all parts of the establishment are proportionally represented in the sample;
+
+(iii) when collection of samples from wild populations of listed species is required under Article 102(a) of this Regulation, the number and geographical distribution of the sampling points must be determined in a way that ensures a reasonable coverage of the area suspected to be infected.
+
+The sampling points must be representative for the different ecosystems where the wild populations of susceptible species are located such as marine, estuary, river and lake systems;
+
+(e) the following additional criteria apply for sampling fish:
+
+(i) if weak, abnormally behaving or freshly dead but not decomposed fish are present, those fish must be selected. If such animals are not present, the fish selected must include fish of listed species, belonging to different year classes, proportionally represented in the sample;
+
+(ii) if more than one water source is used for fish production, listed species representing all water sources must be included for sampling to ensure that all parts of the establishment are proportionally represented in the sample;
+
+(iii) if rainbow trout (Onchorynchus mykiss) or European perch (Perca fluviatilis) are present, only fish of those species may be selected for sampling. If neither rainbow trout nor European perch are present, the sample must be representative of all other listed species present, following the criteria in points (a) to (d);
+
+(iv) when collection of samples from wild populations of listed species is required under Article 102(a) of this Regulation, the number and geographical distribution of the sampling points must be determined in a way that ensures a reasonable coverage of the area suspected to be infected.
+
+The sampling points must also be representative of the different ecosystems where the wild populations of susceptible species are located such as marine, estuary, river and lake systems;
+
+(f) the selection of organs to be sampled, preparation, storage and shipment of the samples to the laboratory must be carried out in compliance with recommendations from the European Union reference laboratory for the relevant disease.
+
+2\. Samples must be examined in the laboratory using the diagnostic methods and procedures approved by the European Union reference laboratory for the relevant disease.
+
+## ANNEX XIII
+
+**MINIMUM PERIODS OF FALLOWING OF AFFECTED AQUACULTURE ESTABLISHMENTS**
+
+**Periods for the fallowing provided for in Article 81 and for the synchronous fallowing provided for in Article 96(4) and (5) of this Regulation**
+
+| Category A disease | Minimum period of fallowing of the affected establishment | Minimum period of synchronised fallowing of affected establishments in the same protection zone | Supplementary requirements |
+| --- | --- | --- | --- |
+| Infection with Mikrocytos mackini | 6 months | 4 weeks | Must include the coldest period of the year |
+| Infection with Perkinsus marinus | 6 months | 4 weeks | Must include the warmest period of the year |
+| Infection with Taura syndrome virus | 6 weeks | 4 weeks | Must include the warmest period of the year |
+| Infection with Yellow head syndrome virus | 6 weeks | 3 weeks | Must include the warmest period of the year |
+| Epizootic haematopoietic necrosis | 8 weeks | 4 weeks | Must include the warmest period of the year |
+
+## ANNEX XIV
+
+**CRITERIA FOR ESTABLISHING RESTRICTED ZONES AS REGARDS CATEGORY A DISEASES IN AQUATIC ANIMALS**
+
+1\. Restricted zones as referred to in Article 85 must be defined on a case-by-case basis taking into account at least the following factors:
+
+(a) the accumulated number, the accumulated percentage and the distribution of the mortalities of molluscs/crustaceans/fish in the establishment or group of farming establishments infected with category A diseases;
+
+(b) relevant information regarding movements to and from the infected establishment(s);
+
+(c) the distance to and density of neighbouring establishments;
+
+(d) the presence of wild aquatic animals;
+
+(e) any knowledge concerning mortalities, suspected cases or outbreaks in wild aquatic animals which are, or could be related to the specific category A disease;
+
+(f) the proximity to processing establishments, and the species present at those establishments, especially as regards listed species;
+
+(g) farming practices applied in the affected and neighbouring establishments;
+
+(h) hydrodynamic conditions and other identified factors of epidemiological significance.
+
+2\. For the geographical demarcation of the protection and surveillance zones for category A diseases affecting molluscs and crustaceans, the following minimum requirements apply:
+
+(a) the protection zone must be established in the immediate vicinity of an establishment or group of farming establishments officially confirmed as infected with a category A disease and must correspond to an area determined according to appropriate hydrodynamic and epidemiological data;
+
+(b) the surveillance zone must be established outside the protection zone and must correspond to an area surrounding the protection zone, determined according to appropriate hydrodynamic or epidemiological data.
+
+3\. For the geographical demarcation of the protection and surveillance zones for category A diseases affecting fish, the following minimum requirements must apply:
+
+(a) the protection zone must be established around an establishment where Epizootic hematopoietic necrosis (EHN) has been confirmed. This zone shall correspond:
+
+(i) in coastal areas: to an area included in a circle with a radius of at least one tidal excursion or at least 5 km, whichever is larger, centred on the establishment in which EHN has been officially confirmed, or an equivalent area determined according to appropriate hydrodynamic or epidemiological data;
+
+(ii) in inland areas: to the entire water catchment area of the establishment in which EHN has been officially confirmed. The competent authority may limit the extension of the zone to parts of the water catchment area, or the area of the establishment, provided this does not compromise prevention of the spread of the disease;
+
+(b) the surveillance zone must be established by the competent authority outside the protection zone and must:
+
+(i) in coastal areas: correspond to an area, surrounding the protection zone, of overlapping tidal excursion; or an area, surrounding the protection zone, and included in a circle of radius 10 km from the centre of the protection zone; or an equivalent area determined according to appropriate hydrodynamic or epidemiological data;
+
+(ii) in inland areas: be an extended area outside the established protection zone.
+
+## ANNEX XV
+
+**SURVEILLANCE SCHEME AND DURATION OF CONTROL MEASURES IN THE SURVEILLANCE ZONE FOR CATEGORY ADISEASES IN AQUACULTURE ANIMALS**
+
+**(as referred to in Articles 98 and 101 of this Regulation)**
+
+**1\. Surveillance scheme**
+
+The establishments and groups of aquaculture establishments keeping listed species within a surveillance zone must undergo surveillance as provided for in Article 98 to check for infection with the relevant category A disease. The surveillance must include health visits, including sampling from production units. Those visits must be carried out by the competent authority in accordance with Tables 1 and 2.
+
+The criteria set out in point 1 of Annex XII, as appropriate for the species, apply to sampling.
+
+**Table 1**
+
+**Scheme for surveillance comprising health visits and samplings in establishments and groups of establishments for category A diseases in aquatic animals, except epizootic hematopoietic necrosis**
+
+| Category A disease | Number of health visits per year | Number of laboratory examinations per year | Number of animals in the sample | Period of the year for sampling | Residency period of the sampled animals in the establishment |
+| --- | --- | --- | --- | --- | --- |
+| Infection with Mikrocytos mackini | 1 | 1 | 150 | When the prevalence of infection is known to be maximal or April–May, after 3–4 months period when seawater temperatures are less than 10 °C | 4 months |
+| Infection with Perkinsus marinus | 1 | 1 | 150 | When the prevalence of infection is known to be maximal or in the month of September, October or November | 4 months |
+| Infection with Taura syndrome virus | 2 | 2 | 150 | In the period of the year when water temperature is likely to reach its highest annual level | 2 months |
+| Infection with Yellow head syndrome virus | 2 | 2 | 150 | In the period of the year when water temperature is likely to reach its highest annual level | 2 months |
+
+**Table 2**
+
+**Specific scheme for surveillance comprising health visits and samplings in establishments for epizootic haematopoietic necrosis (EHN) in aquatic animals (1)**
+
+<table>
+<tbody><tr><td rowspan="2">Type of establishment</td><td rowspan="2">Number of health inspections per year (2 years)</td><td rowspan="2">Number of samplings per year (2 years)</td><td colspan="2">Number of fish in the sample</td></tr>
+<tr><td>Number of growing fish</td><td>Number of brood stock fish (2)</td></tr>
+<tr><td>(a) Establishments with broodstock</td><td>2</td><td>2</td><td>150 (first and second inspection)</td><td>150 (first or second inspection)</td></tr>
+<tr><td>(b) Establishments with broodstock only</td><td>2</td><td>1</td><td>0</td><td>150 (2) (first or second inspection)</td></tr>
+<tr><td>(c) Establishments without broodstock</td><td>2</td><td>2</td><td>150 (first and second inspection)</td><td>0</td></tr>
+<tr><td colspan="5">Maximum number of fish per pool: 10</td></tr>
+<tr><td colspan="5">(1)  The sampling of fish for laboratory examination must be carried out whenever the water temperature is between 11 and 20 °C. The water temperature requirement must also apply to health inspections. In establishments where the water temperature does not reach 11 °C during the year, sampling and health visits must be carried out when the water temperature is at its highest level.  (2)  Samples from broodstock must not include gonadal fluids, milt or ova as there is no evidence of EHN causing reproductive tract infection. </td></tr>
+</tbody>
+</table>
+
+**2\. Duration of the control measures in the surveillance zone**
+
+| Category A disease | Minimum periods of surveillance |
+| --- | --- |
+| Infection with Mikrocytos mackini | 3 years |
+| Infection with Perkinsus marinus | 3 years |
+| Infection with Taura syndrome virus | 2 years |
+| Infection with Yellow head syndrome virus | 2 years |
+| Epizootic haematopoietic necrosis | 2 years |
+
+When the period of surveillance has elapsed and there has been no new detection of infection with the relevant category A disease, the measures in the surveillance zone must be lifted as provided for in Article 101 of this Regulation.
+
+( 1 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 2 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products (OJ L 95, 7.4.2017, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2019/2035 of 28 June 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs (OJ L 314, 5.12.2019, p. 115).
+
+( 4 ) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, 26.2.2011, p. 1, ELI: http://data.europa.eu/eli/reg/2011/142/oj).
+
+( 5 ) Commission Delegated Regulation (EU) 2024/2623 of 30 July 2024 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for approval and recognition of disease-free status of compartments keeping terrestrial animals (OJ L, 2024/2623, 4.10.2024, ELI: http://data.europa.eu/eli/reg_del/2024/2623/oj).
+
+( 6 ) Commission Implementing Regulation (EU) 2021/620 of 15 April 2021 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of the disease-free and non-vaccination status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for those listed diseases (OJ L 131, 16.4.2021, p. 78, ELI: http://data.europa.eu/eli/reg_impl/2021/620/oj).
+
+( 7 ) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1).
+
+( 8 ) Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (see page 140 of this Official Journal).
+
+( 9 ) F0 is the calculated killing effect on bacterial spores. An F0 value of 3 means that the coldest point in the product has been heated sufficiently to achieve the same killing effect as 121 °C (250 °F) in three minutes with instantaneous heating and chilling.

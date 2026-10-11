@@ -101,6 +101,7 @@ S. COVENEY
 |  | 1. | In Article 8(1)(a) of Directive 89/108/EEC, the following is added to the list: ‘in Croatian: “brzo smrznuto”.’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Directive 2000/13/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>In the second subparagraph of Article 5(3), the list starting with ‘in Bulgarian’ and ending with ‘bestrålad’ or ‘behandlad med joniserande strålning’ is replaced by the following: ‘— in Bulgarian: “облъчено” or “обработено с йонизиращо лъчение”,  — in Spanish: “irradiado” or “tratado con radiación ionizante”,  — in Czech: “ozářeno” or “ošetřeno ionizujícím zářením”,  — in Danish: “bestrålet/…” or “strålekonserveret” or “behandlet med ioniserende stråling” or “konserveret med ioniserende stråling”,  — in German: “bestrahlt” or “mit ionisierenden Strahlen behandelt”,  — in Estonian: “kiiritatud” or “töödeldud ioniseeriva kiirgusega”,  — in Greek: “επεξεργασμένο με ιονίζουσα ακτινοβολία” or “ακτινοβολημένο”,  — in English: “irradiated” or “treated with ionising radiation”,  — in French: “traité par rayonnements ionisants” or “traité par ionisation”,  — in Croatian: “konzervirano zračenjem” or “podvrgnuto ionizirajućem zračenju”,  — in Italian: “irradiato” or “trattato con radiazioni ionizzanti”,  — in Latvian: “apstarots” or “apstrādāts ar jonizējošo starojumu”,  — in Lithuanian: “apšvitinta” or “apdorota jonizuojančiąja spinduliuote”,  — in Hungarian: “sugárkezelt” or “ionizáló energiával kezelt”,  — in Maltese: “ittrattat bir-radjazzjoni” or “ittrattat b'radjazzjoni jonizzanti”,  — in Dutch: “doorstraald” or “door bestraling behandeld” or “met ioniserende stralen behandeld”,  — in Polish: “napromieniony” or “poddany działaniu promieniowania jonizującego”,  — in Portuguese: “irradiado” or “tratado por irradiação” or “tratado por radiação ionizante”,  — in Romanian: “iradiate” or “tratate cu radiații ionizate”,  — in Slovak: “ošetrené ionizujúcim žiarením”,  — in Slovenian: “obsevano” or “obdelano z ionizirajočim sevanjem”,  — in Finnish: “säteilytetty” or “käsitelty ionisoivalla säteilyllä”,  — in Swedish: “bestrålad” or “behandlad med joniserande strålning”.’; </td></tr>
 </tbody>
 </table>
@@ -109,6 +110,7 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **PART B**
 
@@ -123,6 +125,7 @@ S. COVENEY
 |  | 3. | In Article 8(3) of Directive 96/23/EC, the following subparagraph is inserted after the third subparagraph: ‘Croatia shall, for the first time by 31 March 2014, forward to the Commission the results of its residue and substance detection plans and of its control measures.’ |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>Annex I to Directive 97/78/EC is replaced by the following: ‘ANNEX I TERRITORIES LISTED IN ARTICLE 1 <table><tbody><tr><td>1.</td><td>The territory of the Kingdom of Belgium.</td></tr>
 </tbody>
 </table>
@@ -208,10 +211,12 @@ S. COVENEY
 </tbody>
 </table> </td></tr>
 </tbody>
+</table>
 
 |  | 5. | In Annex II to Directive 2000/75/EC, the following is inserted in the title of part A after the entry ‘LABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON’: ‘REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Annex II to Directive 2002/99/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in the first indent of point 2, the following ISO code is inserted after the code ‘GR’: ‘HR’; </td></tr>
 </tbody>
 </table>
@@ -220,12 +225,15 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>In Annex XI to Directive 2003/85/EC, the following is inserted in the table under Part A after the entry for France:<table><tbody><tr><td>‘HR</td><td>Croatia</td><td>Hrvatski veterinarski institut, Zagreb</td><td>Croatia’</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 8. | In Article 9(1) of Directive 2003/99/EC, the second subparagraph is replaced by the following: ‘Each Member State shall transmit to the Commission every year by the end of May, for Bulgaria and Romania, for the first time, by the end of May 2008, and for Croatia, for the first time, by the end of May 2014, a report on trends and sources of zoonoses, zoonotic agents and antimicrobial resistance, covering the data collected pursuant to Articles 4, 7, and 8 during the previous year. Reports, and any summaries of them, shall be made publicly available.’. |
 | --- | --- | --- |

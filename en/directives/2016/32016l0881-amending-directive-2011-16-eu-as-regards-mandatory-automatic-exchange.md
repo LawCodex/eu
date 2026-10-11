@@ -240,6 +240,7 @@ J.R.V.A. DIJSSELBLOEM
 
 **GENERAL REPORTING REQUIREMENTS**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>A Constituent Entity resident in a Member State which is not the Ultimate Parent Entity of an MNE Group shall file a country-by-country report with respect to the Reporting Fiscal Year of an MNE Group of which it is a Constituent Entity, if the following criteria are satisfied:<table><tbody><tr><td>(a)</td><td>the entity is resident for tax purposes in a Member State;</td></tr>
 </tbody>
 </table>
@@ -257,7 +258,9 @@ J.R.V.A. DIJSSELBLOEM
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>By derogation from point 1, when one or more of the conditions set out in point (b) of the first paragraph of point 1 apply, an entity described in point 1 shall not be required to file a country-by-country report with respect to any Reporting Fiscal Year if the MNE Group of which it is a Constituent Entity has made available a country-by-country report in accordance with Article 8aa(3) with respect to such Fiscal Year through a Surrogate Parent Entity that files that country-by-country report with the tax authority of its jurisdiction of tax residence on or before the date specified in Article 8aa(1) and that, in case the Surrogate Parent Entity is tax resident in a jurisdiction outside the Union, satisfies the following conditions:<table><tbody><tr><td>(a)</td><td>the jurisdiction of tax residence of the Surrogate Parent Entity requires filing of country-by-country reports conforming to the requirements of Article 8aa(3);</td></tr>
 </tbody>
 </table>
@@ -275,6 +278,7 @@ J.R.V.A. DIJSSELBLOEM
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | Member States shall request that any Constituent Entity of an MNE Group that is resident for tax purposes in that Member State notifies the Member State whether it is the Ultimate Parent Entity or the Surrogate Parent Entity or the Constituent Entity designated under point 1, no later than the last day of the Reporting Fiscal Year of such MNE Group. Member States may extend that deadline to the last day for filing of a tax return of that Constituent Entity for the preceding fiscal year. |
 | --- | --- | --- |
@@ -293,6 +297,7 @@ J.R.V.A. DIJSSELBLOEM
 
 **Table 1. Overview of allocation of income, taxes and business activities by tax jurisdiction**
 
+<table>
 <tbody><tr><td colspan="11">Name of the MNE Group: Fiscal Year concerned:  Currency used: </td></tr>
 <tr><td rowspan="2">Tax jurisdiction</td><td colspan="3">Revenues</td><td rowspan="2">Profit (loss) before income tax</td><td rowspan="2">Income tax paid (on cash basis)</td><td rowspan="2">Income tax accrued — current year</td><td rowspan="2">Stated capital</td><td rowspan="2">Accumulated earnings</td><td rowspan="2">Number of employees</td><td rowspan="2">Tangible assets other than cash and cash equivalents</td></tr>
 <tr><td>Unrelated party</td><td>Related party</td><td>Total</td></tr>
@@ -309,9 +314,11 @@ J.R.V.A. DIJSSELBLOEM
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **Table 2 List of all the Constituent Entities of the MNE Group included in each aggregation per tax jurisdiction**
 
+<table>
 <tbody><tr><td colspan="16">Name of the MNE Group: Fiscal Year concerned: </td></tr>
 <tr><td rowspan="2">Tax Jurisdiction</td><td rowspan="2">Constituent Entities Resident in the Tax Jurisdiction</td><td rowspan="2">Tax Jurisdiction of Organisation or Incorporation if Different from Tax Jurisdiction of Residence</td><td colspan="13">Main Business Activity(ies)</td></tr>
 <tr><td>Research and Development</td><td>Holding or Managing Intellectual Property</td><td>Purchasing or Procurement</td><td>Manufacturing or Production</td><td>Sales, Marketing or Distribution</td><td>Administrative, Management or Support Services</td><td>Provision of Services to Unrelated Parties</td><td>Internal Group Finance</td><td>Regulated Financial Services</td><td>Insurance</td><td>Holding Shares or Other Equity instruments</td><td>Dormant</td><td>Other (1)</td></tr>
@@ -322,6 +329,7 @@ J.R.V.A. DIJSSELBLOEM
 <tr><td>2.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **Table 3: Additional information**
 

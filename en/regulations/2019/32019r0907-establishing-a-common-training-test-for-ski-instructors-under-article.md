@@ -1,0 +1,388 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/907 of 14 March 2019 establishing a Common Training Test for ski instructors under Article 49b of Directive 2005/36/EC of the European Parliament and of the Council on the recognition of the professional qualifications (Text with EEA relevance.)"
+identifier: "32019R0907"
+eli: "http://data.europa.eu/eli/reg_del/2019/907/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-03-14
+entry_into_force: 2019-07-17
+last_amended: 2023-05-18
+consolidated_version: "02019R0907-20230518"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0907-20230518"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/907 of 14 March 2019 establishing a Common Training Test for ski instructors under Article 49b of Directive 2005/36/EC of the European Parliament and of the Council on the recognition of the professional qualifications (Text with EEA relevance.)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/907**
+
+**of 14 March 2019**
+
+**establishing a Common Training Test for ski instructors under Article 49b of Directive 2005/36/EC of the European Parliament and of the Council on the recognition of the professional qualifications**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/865 of 23 February 2023 </td><td> L 113</td><td>1</td><td>28.4.2023</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/907**
+
+**of 14 March 2019**
+
+**establishing a Common Training Test for ski instructors under Article 49b of Directive 2005/36/EC of the European Parliament and of the Council on the recognition of the professional qualifications**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Scope
+
+This Regulation shall apply to all citizens of the Union who wish to pursue the profession of ski instructor in a Member State other than the one in which they have obtained a qualification listed in Annex I.
+
+## Article 2 — Subject-matter
+
+1\. This Regulation establishes the contents of the Common Training Test (‘CTT’) and the conditions to be fulfilled for both participating in and passing of the CTT.
+
+2\. The CTT shall comprise of a test certifying technical ability of ski instructors and a test certifying safety-related competences of ski instructors in accordance with the rules laid down in Parts I and II respectively of Annex II.
+
+## Article 3 — Competent entities
+
+For the purpose of this Regulation a ‘competent entity’ means any entity that is listed in Annex I, which awards a qualification conferring the right to participate in the CTT pursuant to Article 5.
+
+## Article 4 — Principle of automatic recognition
+
+1\. Member States shall recognise certificates issued in accordance with Article 8 attesting the successful completion of the CTT. Any citizen of the Union who holds such a certificate issued in a Member State shall be entitled to gain access to the professional activities of ski instructors in other Member States subject to the same conditions as ski instructors who have acquired their qualification in those Member States.
+
+2\. Member States shall recognise certificates issued in accordance with Article 8 to ski instructors who benefit from acquired rights as set out in Article 7. Any citizen of the Union who holds such a certificate issued in a Member State shall be entitled to gain access to the professional activities of ski instructors in other Member States subject to the same conditions as ski instructors who have acquired their qualification in those Member States.
+
+## Article 5 — Participation in the CTT
+
+All citizens of the Union who hold or who are in training to obtain a qualification listed in Annex I ( 1 ) shall be entitled to participate in the CTT.
+
+## Article 6 — Exemptions
+
+1\. Without prejudice to Article 5, ski instructors shall be exempted from the requirement to pass the test certifying technical ability as referred to in Part I of Annex II, where they hold or where they are in training to obtain a qualification listed in Annex I and either:
+
+(a) can provide evidence of having been awarded at least 100 Fédération Internationale du Ski alpine skiing points for men and at least 85 Fédération Internationale du Ski alpine skiing points for women in one of the technical disciplines of slalom or giant slalom over any period of five years; or
+
+(b) have passed the Eurotest.
+
+2\. Without prejudice to Article 5, ski instructors who have passed the Eurosecurity test shall be exempted from the requirement to pass the test certifying safety-related competences as referred to in Part II of Annex II, where they hold or where they are in training to obtain a qualification listed in Annex I.
+
+3\. Those ski instructors who have passed, as part of the CTT, either the test certifying technical ability as referred to in Part I of Annex II or the test certifying safety-related competences as referred to in Part II of Annex II shall not be required to repeat that part of the CTT that they have successfully completed.
+
+## Article 7 — Acquired rights
+
+1\. Ski instructors who, before the date of entry into force of this Regulation, hold a professional card issued under the Memorandum shall benefit from the principle of automatic recognition as set out in Article 4(2).
+
+2\. Ski instructors who fall within the scope of this Regulation and who have passed both the Eurotest and the Eurosecurity test shall benefit from the principle of automatic recognition as set out in Article 4(2), where they also hold a qualification listed in Annex I.
+
+3\. Ski instructors who have obtained a qualification listed in Annex I in a Member State other than a signatory of the Memorandum at the moment of entry into force of this Regulation and are able to demonstrate professional experience of at least 200 days during the five years immediately preceding the entry into force of this Regulation shall benefit from the principle of automatic recognition as set out in Article 4(2).
+
+4\. Those ski instructors who enjoy the benefit of acquired rights as set out in paragraphs 1, 2 and 3 shall be entitled to apply for a certificate of competency pursuant to Article 8.
+
+## Article 8 — Certificate of competency
+
+1\. Ski instructors who fall within the scope of this Regulation and have either successfully passed the CTT or who enjoy acquired rights pursuant to Article 7 of this Regulation shall be issued a certificate of competency through the Internal Market Information System (IMI) established by Regulation (EU) No 1024/2012. The certificate shall take the form of proof of a CTT and shall be issued by a competent entity in a Member State.
+
+2\. The certificate of competency shall indicate at least the following:
+
+(a) the name of the ski instructor;
+
+(b) the results obtained in the CTT and the date of passing the CTT, if applicable;
+
+(c) the specific acquired right the ski instructor enjoys pursuant to Article 7, if applicable;
+
+(d) the issuing Member State or competent entity;
+
+(e) the qualification listed in Annex I held by the ski instructor.
+
+4\. A duplicate of the certificate of competency shall be issued at any time upon request from the ski instructor.
+
+## Article 9 — Notification procedure
+
+Member States shall notify the Commission and the other Member States of any changes to the qualifications listed in Annex I as well as the existence of any new qualifications that are comparable, in terms of the skills and knowledge, with those listed in Annex I. Such notifications shall be transmitted via the Internal Market Information System established by Regulation (EU) No 1024/2012 of the European Parliament and of the Council ( 2 ).
+
+## Article 10 — Training and experience of long duration
+
+Ski instructors holding a qualification listed in Annex I and being able to demonstrate at least 95 days of theoretical and practical ski instructor training and 95 days of work experience as a ski instructor will be recognized in Austria on the level of ‘Diplomschilehrer’.
+
+## Article 11 — Final provisions
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Qualifications**
+
+The qualifications listed in this Annex shall be devised to ensure a balanced approach between theoretical learning and practical traineeship, including on-piste and off-piste skiing, and shall in particular impart the following skills and knowledge:
+
+(a) the comprehension of the methodologies of teaching, instruction and training and the ability to apply them to both on-piste and off-piste alpine ski instruction;
+
+(b) the ability to adjust a teaching session in light of variable weather conditions;
+
+(c) the ability to create, implement and assess instruction requirements appropriate for all classes at every level of alpine ski instruction, from beginner to expert, in an autonomous manner;
+
+(d) the ability to devise an alpine ski instruction programme using suitable teaching techniques;
+
+(e) the ability to create a training situation;
+
+(f) the ability to prepare teaching, instruction and training materials to be used during any type of alpine ski instruction;
+
+(g) the ability to carry out a technical demonstration including explaining its different elements for all classes at every level of alpine ski instruction;
+
+(h) the ability to assess an alpine ski teaching session or cycle;
+
+(i) the knowledge and ability to apply the principles of first aid in the event of a winter sports accident and to initiate rescue.
+
+<table>
+<tbody><tr><td>Member State</td><td>Qualifications</td><td>Entities awarding the qualifications</td></tr>
+<tr><td>Austria</td><td>Diplomschilehrer or Landesschilehrer/Schilehrer in Vorarlberg</td><td>— Bundessportakademie Innsbruck — Landesschilehrerverbände </td></tr>
+<tr><td>Belgium</td><td>— BE-fr: Moniteur sportif entraineur — BE-nl: Trainer A Alpijns Skiën/Skileraar </td><td>— Administration de l'Éducation physique, du Sport et de la Vie en Plein Air (ADEPS) — Sport Vlaanderen </td></tr>
+<tr><td>Bulgaria</td><td>Ски учител клас C</td><td>Българско ски училище</td></tr>
+<tr><td>Croatia</td><td>Učitelj skijanja</td><td>— Skijaško Učilište — Hrvatski zbor učitelja i trenera sportova na snijegu (HZUTS) </td></tr>
+<tr><td>Czech Republic</td><td>Instruktor lyžování APUL A</td><td>Asociace profesionálních učitelů lyžování a lyžařských škol, o.s. (APUL)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Denmark</td><td>Professional Ski Instructor</td><td>Den Danske Skiskole</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Finland</td><td>Level 3 – hiihdonopettaja</td><td>— Suomen hiihdonopettajat ry (FNASI/SHOry)    </td></tr>
+<tr><td>France</td><td>— Diplôme d'Etat de ski — moniteur national de ski alpin </td><td>Ecole Nationale des Sports de Montagne (ENSM)</td></tr>
+<tr><td>Germany</td><td>Staatlich geprüfter Skilehrer</td><td>— Technische Universität München in Zusammenarbeit mit DSLV – Deutscher Skilehrerverband, soweit diesem Aufgaben übertragen wurden</td></tr>
+<tr><td>Greece</td><td>Ski instructor Downhill A</td><td>Γενική Γραμματεία Αθλητισμού - Υπουργείο Πολιτισμού και Αθλητισμού</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Hungary</td><td>Síoktató ****</td><td>Síoktatók Magyarországi Szövetsége </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Ireland</td><td>Alpine Ski Teacher – Level 4</td><td>Irish Association of Snowsports instructors (IASI)</td></tr>
+<tr><td>Italy</td><td>Maestro di Sci</td><td>— Collegio Nazionale dei Maestri di Sci — Federazione Italiana Sport Invernali  — Collegi Regionali e Provinciali    — Regioni e le Province autonome di Trento e Bolzano   </td></tr>
+<tr><td>Latvia</td><td>Profesionāls slēpošanas instruktors</td><td>Latvijas Slēpošanas un snovborda instruktoru asociācija (LSSIA)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Lithuania</td><td>Ski instructor Level 4</td><td>Lithuanian Snowsports Instructors Association (LSIA)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>The Netherlands</td><td>Ski-instructeur niveau 4</td><td>Nederlandse Ski Vereniging</td></tr>
+<tr><td>Poland</td><td>Instruktor Zawodowy – PZN</td><td>Stowarzyszenie Instruktorów i Trenerów Narciarstwa Polskiego Związku Narciarskiego (SITN PZN)</td></tr>
+<tr><td>Portugal</td><td>Treinadores de esqui alpino de grau 2</td><td>— Federação de Desportos de Inverno de Portugal (FDI-Portugal) — Instituto Português do Desporto e Juventude </td></tr>
+<tr><td>Romania</td><td>Monitor de schi I</td><td>Federația română de schi biatlon</td></tr>
+<tr><td>Slovakia</td><td>Inštruktor lyžovnia III. kvalifikačného stupňa</td><td>— For qualifications issued from 1 January 2016: Comenius University in Bratislava (Faculty of Physical Education and Sport); University in Prešov (Faculty of Sports); Matej Bel University in Banská Bystrica (Faculty of Philosophy); and Constantine The Philosopher University in Nitra (Faculty of Education) as well as Slovenská lyžiarska asociácia (SLA) — For qualifications issued before 31 December 2015: Slovenská lyžiarska asociácia (SLA) as part of ‘Tatranská, akciová spoločnosť’ or Slovenská asociácia učiteľov lyžovania a snowboardingu (SAPUL) </td></tr>
+<tr><td>Slovenia</td><td>Strokovni delavec 2 – športno treniranje – smučanje – alpsko</td><td>Smučarska zveza Slovenije</td></tr>
+<tr><td>Spain</td><td>Técnico deportivo de esquí alpino</td><td>Ministerio de Educación, Cultura y Deporte</td></tr>
+<tr><td>Sweden</td><td>Svenska skidlärarexamen</td><td>Det svenska skidrådet</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>United Kingdom</td><td>Alpine Level 4 – International Ski Teacher Diploma (1)</td><td>BASI – British Association of Snowsport Instructors (2)</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">(1)  Issued before 1 January 2021.  (2)  As of 1 January 2021, BASI is no longer competent to organise the CTT.   </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Organisation of the Common Training Test (‘CTT’)**
+
+**1\. PART I — TEST CERTIFYING TECHNICAL ABILITY (‘TECHNICAL TEST’)**
+
+**1.1. General principles**
+
+1.1.1. Applicable rules
+
+The Technical Test shall consist of an alpine skiing giant slalom. It shall be held in accordance with the technical rules laid down by the Fédération Internationale du Ski (‘FIS’) and adjusted to take the objectives of the Technical Test into account.
+
+1.1.2. Eligible candidates
+
+Citizens of the Union who fall within the scope of the Regulation may participate in the Technical Test. Eligible candidates can repeat the test without restriction, where they have been unsuccessful in previous attempts. Eligible candidates shall apply directly to an organising Member State or to a competent entity in that Member State, which organises the test, in order to participate in the Technical Test.
+
+1.1.3. Runs
+
+The Technical Test shall be composed of two runs. The starting order for the first run shall be drawn by lot whilst the starting order for the second run shall be in reverse order to that of the first run. Candidates who pass the Technical Test during the first run shall not take part in the second run. Candidates who fail the Technical Test during the first run may take part in the second run.
+
+1.1.4. Test juries
+
+Test juries shall supervise and ensure the correct implementation of the Technical Test. Membership of the test juries for the Technical Test shall be open to qualified citizens from any Member State. Only those citizens either who have passed the Eurotest before the entry into force of this Regulation or who have passed the CTT shall be considered as eligible to be appointed to the test jury in order to assess the modules of the Technical Test.
+
+Those test juries shall be appointed by the organising Member State or by the competent entity, as appropriate, based on their competence and professional experience in the sector. The organising Member State or the competent entity shall be able to delegate this power of appointment to third parties, but the members of the test jury shall at all times represent at least three Member States. Member States or competent entities other than those organising the CTT may make proposals for the composition of the test jury. In such a case, the organising Member State or the competent entity, as appropriate, may only refuse such a proposal on the basis of duly justified reasons.
+
+1.1.5. Review procedure
+
+Candidates can request a re-assessment of their Technical Test performance by the test jury, where they consider that material errors have been committed. In that instance, the test jury shall assess the request and shall reply without delay setting out the reasons for either maintaining or changing the results of the Technical Test for that individual candidate. The test jury shall decide by a simple majority of its members.
+
+1.1.6. Documentation of results
+
+The organising Member State or competent entity, as appropriate, shall inform, the Member States or competent entities which issue the qualifications as listed in Annex I of the results of the Technical Test, within 7 working days after an event has been organised for implementing the CTT. Member States or competent entities, as appropriate, shall maintain and publish on an annual basis an up-to-date list of ski instructors who have either successfully completed the Technical Test or who have benefited from either acquired rights or exemptions, where they have awarded a qualification corresponding to those listed in Annex I to that ski instructor.
+
+**1.2. The course**
+
+1.2.1. General course criteria
+
+The Technical Test shall take place on a giant slalom course that meets the criteria laid down by FIS and adjusted to take the objectives of the Technical Test into account, especially with regard to the length, the vertical drop and the number of gates. The organising Member State or competent entity, as appropriate, shall communicate the dates of the Technical Test at least 2 months in advance to the Commission and to the other Member States or to their competent entities.
+
+The vertical drop shall be between 250 metres and 300 metres. The number of gates shall be between 11 % and 15 % of the vertical drop in meters, but ideally between 12 % and 13 % in order to assess the turning ability of the ski instructors rather than their gliding ability.
+
+The criteria in this Section and in Section 1.2.2 may regularly produce non-compensated times for the forerunners at the start of the Technical Test of between 45 and 60 seconds.
+
+The Technical Test shall allow the course to be set without outside gates except for the first and last gates and the delay gates.
+
+1.2.2. Slope profiles
+
+The profiles of the slopes on the giant slalom course must comply, as far as possible, with the following combinations:
+
+(a) one third of the course should comprise of an average slope with a percentage gradient of between 26 % and 43 %;
+
+(b) one third of the course should comprise of a steep slope with a percentage gradient of between 45 % and 52 %;
+
+(c) one third of the course should comprise of a gentle slope with a percentage gradient of between 25 % and 26 %.
+
+1.2.3. Course approval
+
+The course shall be approved by a technical commission, the members of which shall be appointed by the organising Member State or by the competent entity, as appropriate, based on their competence and professional experience. Member States or competent entities other than those organising the CTT may make proposals for the composition of the technical commission. In such a case, the organising Member State or competent entity may refuse a proposal only for duly justified reasons. Once approved, the Member State or competent entity shall notify to the Commission and to the other Member States the practical details of any event to be organized for realising the CTT on that course at least two months in advance.
+
+**1.3. Forerunners**
+
+1.3.1. Requirements for forerunners participating in the Technical Test
+
+There shall be a minimum number of three forerunners participating in the Technical Test. The organising Member State or competent entity shall be obliged to select the forerunners.
+
+The forerunners shall be citizens from any Member State. They shall have passed either the Eurotest and Eurosecurity test before the entry into force of this Regulation or have passed the CTT by obtaining a corrective coefficient equal to or greater than 0,8700 in the calibration test for the current season.
+
+1.3.2. The calibration test for forerunners
+
+Forerunners for the Technical Test shall be subject to a calibration test. The aim of the calibration test is to allocate a corrective coefficient to each forerunner in order to establish the base time for the candidates of the Technical Test. Each forerunner can complete two runs during the calibration test and the better result shall be allocated to the respective forerunner. The corrective coefficient allocated to each forerunner shall be reviewed on an annual basis.
+
+The calibration test shall be organised by a calibration test commission. The members of the calibration test commission shall be appointed by the organising Member State or competent entity, as appropriate, based on their competence and professional experience. Member States or competent entities other than those organising the calibration test, may make proposals for the composition of the calibration test commission. In such a case, the organising Member State or competent entity may only refuse such a proposal based on justified reasons.
+
+The organising Member State or competent entity, as appropriate, shall communicate the dates of the calibration test at least two months in advance to the Commission and to the other Member States or competent entities.
+
+The results of the calibration test shall be published by the organising Member State before a CTT is scheduled to take place in that Member State.
+
+1.3.3. The forerunners' corrective coefficient
+
+The compensated times for the forerunners shall be calculated by multiplying the calibration test pass time of the respective forerunner with the allocated corrective coefficient.
+
+The base time for the calibration test shall be calculated as the average of the best two compensated times of the reference forerunners. Four reference forerunners shall be designated by the calibration test commission based on the list of forerunners' results from the preceding year.
+
+The corrective coefficient of the forerunners shall be calculated as:
+
+Corrective coefficient = calibration test base time/pass time of forerunners.
+
+**1.4. Passing the Technical Test**
+
+1.4.1. Calculation of the base time for the Technical Test
+
+The Technical Test base time shall be calculated with a minimum of three forerunners starting their runs and at least two finishing their runs in accordance with the following rules:
+
+(a) the average shall be taken of the two best compensated times of the forerunners who have completed the run before the first candidate of the run starts;
+
+(b) the average shall be taken of the two best compensated times of the forerunners who have completed the run after the last candidate of the run starts;
+
+(c) the Technical Test base time shall be the average of the two averages referred to in points (a) and (b).
+
+Each forerunner may start again, if he was not able to complete the run normally.
+
+The candidates shall be informed of the forerunners' coefficient before the start of the Technical Test.
+
+1.4.2. The maximum pass time
+
+The following candidates shall be deemed to have passed the Technical Test:
+
+(a) male candidates finishing a run in a time equal to or below the Technical Test base time plus 19 %.
+
+(b) female candidates finishing a run in a time equal to or below the Technical Test base time plus 25 %.
+
+The maximum pass time shall consequently be calculated as follows:
+
+(a) men maximum pass time = Technical Test base time × 1,19.
+
+(b) women maximum pass time = Technical Test base time × 1,25.
+
+**2\. PART II — TEST CERTIFYING SAFETY-RELATED COMPETENCES (THE ‘SAFETY TEST’)**
+
+**2.1. General principles**
+
+2.1.1. Objective of the Safety Test
+
+The Safety Test shall pursue the objective of assessing the fulfilment of safety-related minimum requirements of the candidates, which are essential for ski instructors working in specific surroundings.
+
+2.1.2. Eligible candidates
+
+Citizens of the Union may participate in the Safety Test, if they have successfully passed the Technical Test. Eligible candidates can repeat the test without restriction, where they have been unsuccessful in previous attempts. Eligible candidates shall apply directly to an organising Member State or to a competent entity in that Member State, which organises the test, in order to participate in a Safety Test.
+
+2.1.3. Responsible authority
+
+The organisation of the Safety Test shall fall under the responsibility of the competent entity for the training of ski instructors in the respective territory of the Member State where the Safety Test is realised following an agreement with a technical commission created for that purpose. The technical commission shall be composed of qualified citizens from any Member State and shall represent at least three Member States. They shall be appointed by the organising Member State or competent entity, as appropriate, based on their competence and professional experience in the sector. The organising Member State or competent entity shall communicate the dates of the Safety Test at least two months in advance to the Commission and to the other Member States or competent entities.
+
+2.1.4. Test juries
+
+Test juries shall supervise and ensure the correct implementation of the Safety test. Membership of the test juries for the Safety Test shall be open to qualified citizens from any Member State. Only those citizens either who have passed the Eurosecurity test before the entry into force of this Regulation or who have passed the CTT shall be considered as eligible to be appointed to the test jury in order to assess the modules of the Safety Test.
+
+Those test juries shall be appointed by the organising Member State or by the competent entity, as appropriate, based on their competence and professional experience in the sector. The organising Member State or competent entity shall be able to delegate this power of appointment to third parties, but the members of the test jury shall at all times represent at least three Member States. Member States or competent entities other than those organising the CTT may make proposals for the composition of the test jury. In such a case, the organising Member State or the competent entity, as appropriate, may only refuse such a proposal based on duly justified reasons.
+
+2.1.5. Review procedure
+
+Candidates can request a re-assessment of their Safety Test performance by the test jury, where they consider that material errors have been committed. In that instance, the test jury shall assess the request and shall reply without delay setting out the reasons for either maintaining or changing the results of the Safety Test for that individual candidate. The test jury shall decide by a simple majority of its members.
+
+2.1.6. Documentation of results
+
+The organising Member State or competent entity, as appropriate, shall inform, the Member States or competent entities that issue the qualifications as listed in Annex I of the results of the Safety Test, within 7 working days after an event has been organised for implementing the CTT. Member States or competent entities, as appropriate, shall maintain and publish on an annual basis an up-to-date list of ski instructors who have either successfully completed the Safety Test or who have benefited from acquired rights or exemptions, where they have awarded a qualification corresponding to those listed in Annex I to that ski instructor.
+
+**2.2. Test structure**
+
+The Safety Test shall be composed of two parts including five compulsory modules, each of which is subject to individual evaluation. The Safety Test shall assess the safety-related knowledge and skills of the candidates by means of a theoretical exam and a practical exam
+
+If a candidate fails one or more of these modules or if the Safety Test does not include all of the modules, they must re-sit the test in its entirety.
+
+The content of the various modules is set out below.
+
+2.2.1. The theoretical exam
+
+Module: ‘Make an emergency call in the language of the host country to the local rescue services after an avalanche accident’.
+
+The theoretical exam shall be successfully completed, where the emergency call has been made to rescue services in a clear and comprehensible manner and by providing accurate information enabling them to perform their duties.
+
+2.2.2. The practical exam
+
+The practical exam for off-piste skiing consists of three teaching modules focussing on group leadership and a module comprising the search for and rescue of two persons buried under an avalanche. The practical exam must be taken in one of the official languages of the Member State where the test takes place.
+
+The three modules on group leadership shall each last 15 minutes in addition to 15 minutes preparation time. These teaching modules shall be successfully completed, where at least 75 % of the exercises have been performed satisfactorily.
+
+2.2.2.1. Modules on group leadership
+
+Module 1: ‘Interpret the avalanche forecast together with your group. Compare the information in the forecast with your own observations on-site and assess the situation’.
+
+Module 2: ‘Take your group on an off-piste descent and propose a route by taking into account factors such as choice of snow, assembly points and forms of group organisation. Work with your group to assess the risks of the descent’.
+
+Module 3: One further form of assessment shall be selected randomly from the following possibilities:
+
+a) Interpretation and understanding of Meteorology
+
+1\. The mountain weather forecast shows a ‘Nordstau’ situation, namely heavy precipitation from the North (high pressure to the West and low pressure to the East). How does this situation occur? Where and in what quantity can we expect precipitation approximately? How can this situation influence avalanches?
+
+2\. The weather forecast shows the probable arrival of strong foehn winds on the northern slopes of the high mountains. What will the weather be like in the northern and southern parts of the mountain massif and how is this likely to affect the avalanche situation?
+
+3\. Assess the meteorological situation on location. What are the factors influencing changes in the weather and how do you think the weather will actually change over the coming days?
+
+b) Understanding of dangers in high mountain regions
+
+1\. Which factors can lead to hypothermia and what precautions must you take? What are the distinctive signs of hypothermia and how should you react? Which symptoms indicate that it is necessary to consult a doctor?
+
+2\. Which factors can lead to frostbite and what precautions must you take? What are the distinctive signs of frostbite and how do you react in the case of a localised frostbite? Which factors encourage such frostbite to develop further? Which symptoms indicate that it is necessary to consult a doctor?
+
+3\. You are in the middle of a long downhill course. Visibility is gradually deteriorating due to fog. How do you find your bearings without using a GPS and which group leadership tactics do you use?
+
+c) Ability to assess and understanding of snow cover
+
+1\. Analyse the stability of the current snow cover.
+
+2\. Describe the possible snow cover in a winter with little snowfall. Explain the meteorological events that can cause the snow cover to become unstable.
+
+3\. Describe the possible snow cover in a winter with a lot of snowfall. Explain the meteorological events that might cause the snow cover to become unstable.
+
+2.2.2.2. Module to search for and rescue for people buried under an avalanche
+
+The aim of the module is to detect two Avalanche Victim Detectors (‘AVD’) and successfully retrieve at least one of the two devices. Each AVD shall be placed in a kitbag with an insulator approximately 60 cm wide and buried, but without superimposed signals around 1 metre deep. A training AVD may be used. The search zone shall be limited to a maximum area of 50 metres × 50 metres. The maximum time allowed to find the two AVDs and retrieve one of them shall be 8 minutes. To participate in the search module candidates shall require a digital AVD with at least three antennae. Candidates with analogue AVDs will not be permitted to take this test module. This module shall be successfully completed, where the two buried AVDs are successfully located and one of them is retrieved within the time limit.
+
+( 1 ) For Austria, this is understood to be the qualification as Diplomschilehrer — formerly titled as staatlich geprüfter Schilehrer.
+
+( 2 ) Regulation (EU) No 1024/2012 of the European Parliament and of the Council of 25 October 2012 on administrative cooperation through the Internal Market Information System and repealing Commission Decision 2008/49/EC (OJ L 316, 14.11.2012, p. 1).

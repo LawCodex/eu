@@ -1,0 +1,88 @@
+---
+title: "Commission Regulation (EU) No 472/2012 of 4 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of glycerol esters of wood rosins (E 445) for printing on hard-coated confectionery products Text with EEA relevance"
+identifier: "32012R0472"
+eli: "http://data.europa.eu/eli/reg/2012/472/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-06-04
+entry_into_force: 2013-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0472"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 472/2012 of 4 June 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of glycerol esters of wood rosins (E 445) for printing on hard-coated confectionery products Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 472/2012**
+
+**of 4 June 2012**
+
+**amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of glycerol esters of wood rosins (E 445) for printing on hard-coated confectionery products**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives (1), and in particular Article 10(3) and Article 30(5) thereof,
+
+Whereas:
+
+(1) Annex II to Regulation (EC) No 1333/2008 lays down a Union list of food additives approved for use in foods and their conditions of use.
+
+(2) That list may be amended in accordance with the procedure referred to in Regulation (EC) No 1331/2008 of the European Parliament and of the Council of 16 December 2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings (2).
+
+(3) Pursuant to Article 3(1) of Regulation (EC) No 1331/2008, the Union list of food additives may be updated either on the initiative of the Commission or following an application.
+
+(4) An application for authorisation of the use of glycerol esters of wood rosins (E 445) as an emulsifier for printing on hard-coated confectionery products was submitted and has been made available to the Member States.
+
+(5) Currently available food colour preparations used for printing on hard-coated confectionery products do not allow sufficient quality for the printing of texts, logos and pictures. Research and development have identified that the use of glycerol esters of wood rosins (E 445) as an emulsifier in aqueous based food colour preparations improves the mixing and integrity of the ingredients which results in a more homogenous preparation delivering good fixing and coverage properties. This facilitates printing of high quality text and high resolution pictures to personalised and/or promotional hard-coated confectionery products intended for celebratory occasions.
+
+(6) The Report from the Commission on Dietary Food Additive Intake in the European Union (3) concluded that glycerol esters of wood rosins (E 445) needed no further examination, since the theoretical intake based on conservative assumptions on food consumption and additive usage (Tier 1) did not exceed the acceptable daily intake. The acceptable daily intake value was established on 19 June 1992 by the Scientific Committee for Food (4). The additional intake based on the new use for printing on hard-coated confectionery products does not significantly contribute to the overall intake. It is therefore appropriate to allow the use of glycerol esters of wood rosins (E 445) as an emulsifier for printing on hard-coated confectionery products.
+
+(7) Pursuant to Article 3(2) of Regulation (EC) No 1331/2008, the Commission is to seek the opinion of the European Food Safety Authority in order to update the Union list of food additives set out in Annex II to Regulation (EC) No 1333/2008, except where the update in question is not liable to have an effect on human health. Since the authorisation of use of glycerol esters of wood rosins (E 445) as an emulsifier for printing on hard-coated confectionery products constitutes an update of that list which is not liable to have an effect on human health, it is not necessary to seek the opinion of the European Food Safety Authority.
+
+(8) Pursuant to the transitional provisions of Commission Regulation (EU) No 1129/2011 of 11 November 2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council by establishing a Union list of food additives (5), Annex II establishing the Union list of food additives approved for use in foods and conditions of use applies from 1 June 2013. In order to allow the use of glycerol esters of wood rosins (E 445) for printing on hard-coated confectionery products before that date, it is necessary to specify an earlier date of application with regard to this use of that food additive.
+
+(9) Therefore, Annex II to Regulation (EC) No 1333/2008 should be amended accordingly.
+
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health and neither the European Parliament nor the Council has opposed them,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex II to Regulation (EC) No 1333/2008 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 4 June 2012.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+(1) OJ L 354, 31.12.2008, p. 16.
+
+(2) OJ L 354, 31.12.2008, p. 1.
+
+(3) COM(2001) 542 final.
+
+(4) http://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_32.pdf
+
+(5) OJ L 295, 12.11.2011, p. 1.
+
+## ANNEX
+
+In Part E of Annex II to Regulation (EC) No 1333/2008 the following entry is inserted in the food category 05.2 ‘other confectionery including breath refreshening microsweets’ after the entry for E 442:
+
+|  | ‘E 445 | Glycerol esters of wood rosins | 320 |  | Only for printing on personalised and/or promotional hard-coated confectionery products | Period of application: From 25 June 2012’ |
+| --- | --- | --- | --- | --- | --- | --- |

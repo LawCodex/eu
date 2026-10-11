@@ -202,6 +202,7 @@ The minimum varietal purity shall be examined mainly in field inspections carrie
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="2">Germination</td><td colspan="8">Analytical purity</td><td colspan="3">Maximum content of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column) </td><td rowspan="3">Conditions as regards content of seeds of Lupinus spp. of another colour and of bitter lupin seeds</td></tr>
 <tr><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Maximum content of hard seed (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content of seeds of other plant species (% by weight) </td><td rowspan="2">Avena fatua, Avena sterilis</td><td rowspan="2">Cuscuta spp.</td><td rowspan="2">Rumex spp. other than Rumex acetosella and Rumex maritimus</td></tr>
 <tr><td>Total</td><td>A single species</td><td>Elytrigia repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td><td>Raphanus raphanistrum</td><td>Sinapis arvensis</td></tr>
@@ -265,6 +266,7 @@ A. Table:
 <tr><td>Phacelia tanacetifolia</td><td>80 (a)</td><td></td><td>96</td><td>1,0</td><td>0,5</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0 (j) (k)</td><td></td><td></td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>80 (a)</td><td></td><td>97</td><td>1,0</td><td>0,5</td><td></td><td></td><td></td><td>0,3</td><td>0,3</td><td>0</td><td>0 (j)</td><td>5</td><td></td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section I (2) (A) of this Annex:
 
@@ -320,6 +322,7 @@ The minimum varietal purity shall be examined mainly in field inspections carrie
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="6">Maximum content of seeds of other plant species</td><td rowspan="3">Other standards or conditions</td></tr>
 <tr><td rowspan="2">Total (% by weight) </td><td colspan="5">Content by number in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>A single species</td><td>Rumex spp. other than Rumex acetosella and Rumex maritimus</td><td>Elytrigia repens</td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td></tr>
@@ -383,6 +386,7 @@ A. Table:
 <tr><td>Phacelia tanacetifolia</td><td>0,3</td><td>20</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>0,3</td><td>20</td><td>2</td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section II (2) (A) of this Annex:
 
@@ -442,6 +446,7 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 
 **LOT AND SAMPLE WEIGHTS**
 
+<table>
 <tbody><tr><td>Species</td><td>Maximum weight of a lot (tonnes) </td><td>Minimum weight of a sample to be drawn from a lot (grams) </td><td>Weight of the sample for the determinations by number provided for in columns 12 to 14 of Annex II (I) (2) (A) and columns 3 to 7 of Annex II (II) (2) (A) (grams) </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="4">Poaceae (Gramineae)</td></tr>
@@ -507,6 +512,7 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 <tr><td>Phacelia tanacetifolia</td><td>10</td><td>300</td><td>40</td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>10</td><td>300</td><td>300</td></tr>
 </tbody>
+</table>
 
 The maximum lot weight shall not be exceeded by more than 5 %.’.
 
@@ -522,6 +528,7 @@ Annexes I, II and III to Directive 66/402/EEC are replaced by the following:
 
 2\. The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination and in particular, in the case of Sorghum spp., from sources of Sorghum halepense:
 
+<table>
 <tbody><tr><td>Crop</td><td>Minimum distance</td></tr>
 <tr><td colspan="2">Phalaris canariensis, Secale cereale other than hybrids:</td></tr>
 <tr><td>— for the production of basic seed,</td><td>300 m</td></tr>
@@ -532,6 +539,7 @@ Annexes I, II and III to Directive 66/402/EEC are replaced by the following:
 <tr><td>— for the production of certified seed,</td><td>20 m</td></tr>
 <tr><td>Zea mays</td><td>200 m</td></tr>
 </tbody>
+</table>
 
 These distances can be disregarded if there is sufficient protection from any undesirable foreign pollination.
 
@@ -742,6 +750,7 @@ Seed shall not be certified as certified seed unless due account has been taken 
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="2">Species and category</td><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content by number of seeds of other plant species including red seeds of Oryza sativa in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>Other plant species (a)</td><td>Red seeds of Oryza sativa</td><td>Other cereal species</td><td>Plant species other than cereals</td><td>Avena fatua, Avena sterilis, Lolium temulentum</td><td>Raphanus raphanistrum, Agrostemma githago</td><td>Panicum spp.</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
@@ -767,6 +776,7 @@ A. Table:
 <tr><td>— certified seed, 1st and 2nd generation,</td><td>80</td><td>98</td><td>10</td><td></td><td>7</td><td>7</td><td>0 (c)</td><td>3</td><td></td></tr>
 <tr><td>Zea mays</td><td>90</td><td>98</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section 2 (A) of this Annex:
 
@@ -782,6 +792,7 @@ B. Other standards or conditions applicable where reference is made to them in t
 
 In particular, the seed shall conform to the following standards in respect of Claviceps purpurea (maximum number of sclerotia or fragments of sclerotia in a sample of the weight specified in column 3 of Annex III).
 
+<table>
 <tbody><tr><td>Category</td><td>Claviceps purpurea</td></tr>
 <tr><td>Cereals other than hybrids of Secale cereale:</td><td></td></tr>
 <tr><td>— basic seed,</td><td>1</td></tr>
@@ -791,6 +802,7 @@ In particular, the seed shall conform to the following standards in respect of C
 <tr><td>— certified seed,</td><td>4 (1)</td></tr>
 <tr><td colspan="2">(1) The presence of five sclerotia or fragments of sclerotia in a sample of the prescribed weight shall be deemed to be in conformity with the standards, where a second sample of the same weight contains not more than four sclerotia or fragments of sclerotia.</td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
@@ -911,6 +923,7 @@ C. Hybrids of Brassica napus, produced using the male sterility:
 
 (a) the percentage by number of plants which are recognisable as obviously not being true to the inbred line or to the component shall not exceed:
 
+<table>
 <tbody><tr><td colspan="2">(aa) for the production of basic seed</td></tr>
 <tr><td>(i) inbred lines</td><td>0,1 %</td></tr>
 <tr><td colspan="2">(ii) simple hybrids</td></tr>
@@ -920,6 +933,7 @@ C. Hybrids of Brassica napus, produced using the male sterility:
 <tr><td>— male component,</td><td>0,3 %</td></tr>
 <tr><td>— female component,</td><td>1,0 %</td></tr>
 </tbody>
+</table>
 
 (b) Male sterility shall be at least 99 % for the production of basic seed and 98 % for the production of certified seed. The level of male sterility shall be assessed by examining flowers for the absence of fertile anthers;
 
@@ -1004,6 +1018,7 @@ In the case of basic seed of hybrids, the varietal purity may be assessed by app
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="2">Species and category</td><td rowspan="2">Minimum-germination (% of pure seed) </td><td colspan="2">Analytical purity</td><td colspan="7">Maximum content by number of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column) </td><td rowspan="2">Conditions as regards content of Orobanche seeds</td></tr>
 <tr><td>Minimum analytical purity (% by weight) </td><td>Maximum content of seeds of other plant species (% by weight) </td><td>Other plan species (a)</td><td>Avena fatua, Avena sterilis</td><td>Cuscuta spp.</td><td>Raphanus raphanistrum</td><td>Rumex spp. other than Rumex acetosella</td><td>Alopecurus myosuroides</td><td>Lolium remotum</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr>
@@ -1025,6 +1040,7 @@ A. Table:
 <tr><td>— basic seed,</td><td>85</td><td>98</td><td>0,3</td><td>—</td><td>0</td><td>0 (c) (d)</td><td>10</td><td>2</td><td></td><td></td><td></td></tr>
 <tr><td>— certified seed,</td><td>85</td><td>98</td><td>0,3</td><td>—</td><td>0</td><td>0 (c) (d)</td><td>10</td><td>5</td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section I(4)(A) of this Annex:
 
@@ -1042,6 +1058,7 @@ B. Other standards or conditions applicable where reference is made to them in t
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="4">Harmful organisms</td></tr>
 <tr><td colspan="3">Maximum percentage by number of seeds contaminated by harmful organisms (total per column) </td><td rowspan="2">Sclerotinia sclerotiorum (maximum number of sclerotia or fragments of sclerotia in a sample of the weight specified in column 4 of Annex III)</td></tr>
 <tr><td>Botrytis spp.</td><td>Alternaria linicola, Phoma exigua var. linicola, Colletotrichum linicola, Fusarium spp.</td><td>Platyedra gossypiella</td></tr>
@@ -1054,6 +1071,7 @@ A. Table:
 <tr><td>Linum usitatissimum</td><td>5</td><td>5 (a)</td><td></td><td></td></tr>
 <tr><td>Sinapis alba</td><td></td><td></td><td></td><td>5 (b)</td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section I(5)(A) of this Annex:
 

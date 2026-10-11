@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE (EU) 2016/802 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL codification of 11 May 2016</td><td> L 132</td><td>58</td><td>21.5.2016</td></tr>
+</table>
 
 **DIRECTIVE 2009/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -464,6 +466,7 @@ This Directive is addressed to the Member States.
 
 Type: Petrol
 
+<table>
 <tbody><tr><td rowspan="2">Parameter (1)</td><td rowspan="2">Unit</td><td colspan="2">Limits (2)</td></tr>
 <tr><td>Minimum</td><td>Maximum</td></tr>
 <tr><td>Research octane number</td><td>  </td><td>95 (3)</td><td>—</td></tr>
@@ -489,11 +492,13 @@ Type: Petrol
 <tr><td>Lead content</td><td>g/l</td><td>—</td><td>0,005</td></tr>
 <tr><td colspan="4">(1) Test methods shall be those specified in EN 228:2004. Member States may adopt the analytical method specified in replacement EN 228:2004 standard if it can be shown to give at least the same accuracy and at least the same level of precision as the analytical method it replaces. (2) The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006.  (3) Member States may decide to continue to permit the placing on the market of unleaded regular grade petrol with a minimum motor octane number (MON) of 81 and a minimum research octane number (RON) of 91.  (4) The summer period shall begin no later than 1 May and shall not end before 30 September. For Member States with low ambient summer temperatures the summer period shall begin no later than 1 June and shall not end before 31 August.  (5) In the case of Member States with low ambient summer temperatures and for which a derogation is in effect in accordance with Article 3(4) and (5), the maximum vapour pressure shall be 70 kPa. In the case of Member States for which a derogation is in effect in accordance with Article 3(4) and (5) for petrol containing ethanol, the maximum vapour pressure shall be 60 kPa plus the vapour pressure waiver specified in Annex III.  (6) Other mono-alcohols and ethers with a final boiling point no higher than that stated in EN 228:2004. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — ENVIRONMENTAL SPECIFICATIONS FOR MARKET FUELS TO BE USED FOR VEHICLES EQUIPPED WITH COMPRESSION IGNITION ENGINES
 
 Type: Diesel
 
+<table>
 <tbody><tr><td rowspan="2">Parameter (1)</td><td rowspan="2">Unit</td><td colspan="2">Limits (2)</td></tr>
 <tr><td>Minimum</td><td>Maximum</td></tr>
 <tr><td>Cetane number</td><td>  </td><td>51,0</td><td>—</td></tr>
@@ -505,6 +510,7 @@ Type: Diesel
 <tr><td>FAME content — EN 14078</td><td>% v/v</td><td>—</td><td>7,0 (3)</td></tr>
 <tr><td colspan="4">(1) Test methods shall be those specified in EN 590:2004. Member States may adopt the analytical method specified in replacement EN 590:2004 standard if it can be shown to give at least the same accuracy and at least the same level of precision as the analytical method it replaces. (2) The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006.  (3) FAME shall comply with EN 14214. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III — VAPOUR PRESSURE WAIVER PERMITTED FOR PETROL CONTAINING BIOETHANOL
 
@@ -528,6 +534,7 @@ The permitted vapour pressure waiver for intermediate bioethanol content between
 
 **A. Typical and default values for biofuels if produced with no net carbon emissions from land use change**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emission saving</td><td>Default greenhouse gas emission saving</td></tr>
 <tr><td>Sugar beet ethanol</td><td>61 %</td><td>52 %</td></tr>
 <tr><td>Wheat ethanol (process fuel not specified)</td><td>32 %</td><td>16 %</td></tr>
@@ -555,9 +562,11 @@ The permitted vapour pressure waiver for intermediate bioethanol content between
 <tr><td>Biogas from dry manure as compressed natural gas</td><td>86 %</td><td>82 %</td></tr>
 <tr><td colspan="3">(1) Not including animal oil produced from animal by-products classified as category 3 material in accordance with Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption (2). (2) OJ L 273, 10.10.2002, p. 1. </td></tr>
 </tbody>
+</table>
 
 **B. Estimated typical and default values for future biofuels that were not on the market or were on the market only in negligible quantities in January 2008, if produced with no net carbon emissions from land use change**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emission saving</td><td>Default greenhouse gas emission saving</td></tr>
 <tr><td>Wheat straw ethanol</td><td>87 %</td><td>85 %</td></tr>
 <tr><td>Waste wood ethanol</td><td>80 %</td><td>74 %</td></tr>
@@ -570,6 +579,7 @@ The permitted vapour pressure waiver for intermediate bioethanol content between
 <tr><td>Farmed wood methanol</td><td>91 %</td><td>91 %</td></tr>
 <tr><td>The part from renewable sources of methyl-tertio-butyl-ether (MTBE)</td><td colspan="2">Equal to that of the methanol production pathway used</td></tr>
 </tbody>
+</table>
 
 **C. Methodology**
 
@@ -713,6 +723,7 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 
 **Disaggregated default values for cultivation: ‘eec’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Sugar beet ethanol</td><td>12</td><td>12</td></tr>
 <tr><td>Wheat ethanol</td><td>23</td><td>23</td></tr>
@@ -734,9 +745,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Biogas from dry manure as compressed natural gas</td><td>0</td><td>0</td></tr>
 <tr><td colspan="3">(1) Not including animal oil produced from animal by-products classified as category 3 material in accordance with Regulation (EC) No 1774/2002.</td></tr>
 </tbody>
+</table>
 
 **Disaggregated default values for processing (including excess electricity): ‘ep – eee’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Sugar beet ethanol</td><td>19</td><td>26</td></tr>
 <tr><td>Wheat ethanol (process fuel not specified)</td><td>32</td><td>45</td></tr>
@@ -763,9 +776,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Biogas from wet manure as compressed natural gas</td><td>8</td><td>11</td></tr>
 <tr><td>Biogas from dry manure as compressed natural gas</td><td>8</td><td>11</td></tr>
 </tbody>
+</table>
 
 **Disaggregated default values for transport and distribution: ‘etd’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Sugar beet ethanol</td><td>2</td><td>2</td></tr>
 <tr><td>Wheat ethanol</td><td>2</td><td>2</td></tr>
@@ -786,9 +801,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Biogas from wet manure as compressed natural gas</td><td>5</td><td>5</td></tr>
 <tr><td>Biogas from dry manure as compressed natural gas</td><td>4</td><td>4</td></tr>
 </tbody>
+</table>
 
 **Total for cultivation, processing, transport and distribution**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Sugar beet ethanol</td><td>33</td><td>40</td></tr>
 <tr><td>Wheat ethanol (process fuel not specified)</td><td>57</td><td>70</td></tr>
@@ -815,11 +832,13 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Biogas from wet manure as compressed natural gas</td><td>13</td><td>16</td></tr>
 <tr><td>Biogas from dry manure as compressed natural gas</td><td>12</td><td>15</td></tr>
 </tbody>
+</table>
 
 **E. Estimated disaggregated default values for future biofuels that were not on the market or were only on the market in negligible quantities in January 2008**
 
 **Disaggregated values for cultivation: ‘eec’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas missions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Wheat straw ethanol</td><td>3</td><td>3</td></tr>
 <tr><td>Waste wood ethanol</td><td>1</td><td>1</td></tr>
@@ -832,9 +851,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Farmed wood methanol</td><td>5</td><td>5</td></tr>
 <tr><td>The part from renewable sources of MTBE</td><td colspan="2">Equal to that of the methanol production pathway used</td></tr>
 </tbody>
+</table>
 
 **Disaggregated values for processing (including excess electricity): ‘ep – eee’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Wheat straw ethanol</td><td>5</td><td>7</td></tr>
 <tr><td>Wood ethanol</td><td>12</td><td>17</td></tr>
@@ -843,9 +864,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Wood methanol</td><td>0</td><td>0</td></tr>
 <tr><td>The part from renewable sources of MTBE</td><td colspan="2">Equal to that of the methanol production pathway used</td></tr>
 </tbody>
+</table>
 
 **Disaggregated values for transport and distribution: ‘etd’ as defined in Part C of this Annex**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Wheat straw ethanol</td><td>2</td><td>2</td></tr>
 <tr><td>Waste wood ethanol</td><td>4</td><td>4</td></tr>
@@ -858,9 +881,11 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Farmed wood methanol</td><td>2</td><td>2</td></tr>
 <tr><td>The part from renewable sources of MTBE</td><td colspan="2">Equal to that of the methanol production pathway used</td></tr>
 </tbody>
+</table>
 
 **Total for cultivation, processing, transport and distribution**
 
+<table>
 <tbody><tr><td>Biofuel production pathway</td><td>Typical greenhouse gas emissions (gCO2eq/MJ) </td><td>Default greenhouse gas emissions (gCO2eq/MJ) </td></tr>
 <tr><td>Wheat straw ethanol</td><td>11</td><td>13</td></tr>
 <tr><td>Waste wood ethanol</td><td>17</td><td>22</td></tr>
@@ -873,6 +898,7 @@ In the case of fuels produced in refineries, the unit of analysis for the purpos
 <tr><td>Farmed wood methanol</td><td>7</td><td>7</td></tr>
 <tr><td>The part from renewable sources of MTBE</td><td colspan="2">Equal to that of the methanol production pathway used’</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ C 44, 16.2.2008, p. 53.
 

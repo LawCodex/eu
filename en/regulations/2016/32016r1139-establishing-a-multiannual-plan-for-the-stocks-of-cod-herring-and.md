@@ -1,0 +1,391 @@
+---
+title: "Regulation (EU) 2016/1139 of the European Parliament and of the Council of 6 July 2016 establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007"
+identifier: "32016R1139"
+eli: "http://data.europa.eu/eli/reg/2016/1139/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-07-06
+entry_into_force: 2016-11-02
+last_amended: 2024-07-10
+consolidated_version: "02016R1139-20240710"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1139-20240710"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2016/1139 of the European Parliament and of the Council of 6 July 2016 establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007
+
+**REGULATION (EU) 2016/1139 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2016**
+
+**establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2018/976 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 4 July 2018 </td><td> L 179</td><td>76</td><td>16.7.2018</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/472 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 March 2019 </td><td> L 83</td><td>1</td><td>25.3.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1241 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>105</td><td>25.7.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/1781 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2020 </td><td> L 400</td><td>1</td><td>30.11.2020</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2842 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L 2842</td><td>1</td><td>20.12.2023</td></tr>
+</table>
+
+**REGULATION (EU) 2016/1139 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2016**
+
+**establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject-matter and scope
+
+1\. This Regulation establishes a multiannual plan (‘the plan’) for the following stocks (‘the stocks concerned’) in the Union waters of the Baltic Sea and for the fisheries exploiting the stocks concerned:
+
+(a) cod (Gadus morhua) in ICES Subdivisions 22-24 (Western Baltic cod);
+
+(b) cod (Gadus morhua) in ICES Subdivisions 25-32 (Eastern Baltic cod);
+
+(c) herring (Clupea harengus) in ICES Subdivisions 25, 26, 27, 28.2, 29 and 32 (Central Baltic herring);
+
+(d) herring (Clupea harengus) in ICES Subdivision 28.1 (Gulf of Riga herring);
+
+(e) herring (Clupea harengus) in ICES subdivisions 30-31 (Gulf of Bothnia herring);
+
+(g) herring (Clupea harengus) in ICES Subdivisions 22-24 (Western Baltic herring);
+
+(h) sprat (Sprattus sprattus) in ICES Subdivisions 22-32 (Baltic sprat).
+
+2\. This Regulation also applies to by-catches of plaice (Pleuronectes platessa), flounder (Platichthys flesus), turbot (Scophthalmus maximus) and brill (Scophthalmus rhombus) in ICES Subdivisions 22-32 caught when fishing for the stocks concerned.
+
+3\. This Regulation also specifies details for the implementation of the landing obligation in the Union waters of the Baltic Sea for Atlantic salmon (Salmo salar) in ICES Subdivisions 22-32.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions referred to in Article 4 of Regulation (EU) No 1380/2013, Article 4 of Regulation (EC) No 1224/2009 and Article 2 of Regulation (EC) No 2187/2005 apply. In addition, the following definitions apply:
+
+(1) ‘pelagic stocks’ means the stocks listed in points (c) to (h) of Article 1(1) of this Regulation and any combination thereof;
+
+(2) ‘range of FMSY’ means a range of values provided in the best available scientific advice, in particular from ICES or a similar independent scientific body recognised at Union or international level, where all levels of fishing mortality within that range result in maximum sustainable yield (MSY) in the long term with a given fishing pattern and under current average environmental conditions without significantly affecting the reproduction process for the stock in question. It is derived to deliver no more than a 5 % reduction in long-term yield compared to the MSY. It is capped so that the probability of the stock falling below the limit spawning stock biomass reference point (Blim) is no more than 5 %;
+
+(3) ‘MSY Flower’ means the lowest value within the range of FMSY;
+
+(4) ‘MSY Fupper’ means the highest value within the range of FMSY;
+
+(5) ‘FMSY point value’ is the value of the estimated fishing mortality that with a given fishing pattern and under current average environmental conditions gives the long-term maximum yield;
+
+(6) ‘lower range of FMSY’ means a range that contains values from MSY Flower to FMSY point value;
+
+(7) ‘upper range of FMSY’ means a range that contains values from FMSY point value up to MSY Fupper;
+
+(8) ‘Blim’ means the spawning stock biomass reference point provided in the best available scientific advice, in particular by ICES or a similar independent scientific body recognised at Union or international level, below which there may be reduced reproductive capacity;
+
+(9) ‘MSY Btrigger’ means the spawning stock biomass reference point provided for in the best available scientific advice, in particular from ICES or a similar independent scientific body recognised at Union or international level, below which specific and appropriate management action is to be taken to ensure that exploitation rates in combination with natural variations rebuild stocks above levels capable of producing MSY in the long term;
+
+(10) ‘Member States concerned’ means Member States having a direct management interest, namely Denmark, Germany, Estonia, Latvia, Lithuania, Poland, Finland and Sweden.
+
+## CHAPTER II — OBJECTIVES AND TARGETS
+
+### Article 3 — Objectives
+
+1\. The plan shall contribute to the achievement of the objectives of the common fisheries policy (CFP) listed in Article 2 of Regulation (EU) No 1380/2013, in particular by applying the precautionary approach to fisheries management, and shall aim to ensure that exploitation of living marine biological resources restores and maintains populations of harvested species above levels which can produce MSY.
+
+2\. The plan shall contribute to the elimination of discards by avoiding and reducing, as far as possible, unwanted catches, and to the implementation of the landing obligation established in Article 15 of Regulation (EU) No 1380/2013 for the species which are subject to catch limits and to which this Regulation applies.
+
+3\. The plan shall implement the ecosystem-based approach to fisheries management in order to ensure that negative impacts of fishing activities on the marine ecosystem are minimised. It shall be coherent with Union environmental legislation, in particular with the objective of achieving good environmental status by 2020 as set out in Article 1(1) of Directive 2008/56/EC.
+
+In particular the plan shall aim to:
+
+(a) ensure that the conditions described in descriptor 3 contained in Annex I to Directive 2008/56/EC are fulfilled; and
+
+(b) contribute to the fulfilment of other relevant descriptors contained in Annex I to that Directive in proportion to the role played by fisheries in their fulfilment.
+
+4\. Measures under the plan shall be taken in accordance with the best available scientific advice.
+
+### Article 4 — Targets
+
+1\. The target fishing mortality in line with the ranges of FMSY defined in Article 2 shall be achieved as soon as possible, and on a progressive, incremental basis by 2020 for the stocks listed in Article 1(1), and shall be maintained thereafter within the ranges of FMSY, in accordance with this Article.
+
+2\. The ranges of FMSY based on the plan shall be requested in particular from ICES or a similar independent scientific body recognised at Union or international level.
+
+3\. In accordance with Article 16(4) of Regulation (EU) No 1380/2013, when the Council fixes fishing opportunities for a stock, it shall establish those opportunities within the lower range of FMSY available at that time for that stock.
+
+4\. Notwithstanding paragraphs 1 and 3, fishing opportunities may be fixed at levels that are lower than the ranges of FMSY.
+
+5\. Notwithstanding paragraphs 3 and 4, fishing opportunities for a stock may be fixed in accordance with the upper range of FMSY available at that time for that stock, provided that the stock referred to in Article 1(1) is above MSY Btrigger:
+
+(a) if, on the basis of scientific advice or evidence, it is necessary for the achievement of the objectives laid down in Article 3 in the case of mixed fisheries;
+
+(b) if, on the basis of scientific advice or evidence, it is necessary to avoid serious harm to a stock caused by intra- or inter-species stock dynamics; or
+
+(c) in order to limit variations in fishing opportunities between consecutive years to not more than 20 %.
+
+6\. Fishing opportunities shall in any event be fixed in such a way as to ensure that there is less than a 5 % probability of the spawning stock biomass falling below Blim.
+
+### Article 4a — Conservation reference points
+
+The following conservation reference points to safeguard the full reproductive capacity of the stocks referred to in Article 1(1) shall, based on the plan, be requested in particular from ICES or a similar independent scientific body recognised at Union or international level:
+
+(a) MSY Btrigger for stocks referred to in Article 1(1);
+
+(b) Blim for stocks referred to in Article 1(1).
+
+## CHAPTER III — CONSERVATION REFERENCE POINTS
+
+### Article 5 — Safeguards
+
+1\. When scientific advice indicates that for a given year the spawning biomass of any of the stocks referred to in Article 1(1) is below the MSY Btrigger, all appropriate remedial measures shall be adopted to ensure rapid return of the stock concerned to levels above those capable of producing MSY. In particular, notwithstanding Article 4(3), fishing opportunities shall be set at levels consistent with a fishing mortality that is reduced below the upper range of FMSY, taking into account the decrease in biomass.
+
+2\. When scientific advice indicates that the spawning stock biomass of any of the stocks referred to in Article 1(1) is below the Blim, further remedial measures shall be taken to ensure rapid return of the stock concerned to levels above the level capable of producing MSY. In particular, those remedial measures may include, notwithstanding Article 4(3), suspending the targeted fishery for the stock and the adequate reduction of fishing opportunities.
+
+3\. Remedial measures referred to in this Article may include:
+
+(a) emergency measures in accordance with Articles 12 and 13 of Regulation (EU) No 1380/2013;
+
+(b) measures pursuant to Articles 7 and 8 of this Regulation.
+
+4\. The choice of measures referred to in this Article shall be made in accordance with the nature, seriousness, duration and repetition of the situation where the spawning stock biomass is below the levels referred to in Article 4a.
+
+## CHAPTER IV — SPECIFIC CONSERVATION MEASURES FOR PLAICE, FLOUNDER, TURBOT AND BRILL
+
+### Article 6 — Measures for plaice, flounder, turbot and brill caught as a by-catch
+
+1\. When scientific advice indicates that remedial measures are needed to ensure that the Baltic stocks of plaice, flounder, turbot or brill, caught as by-catch when fishing for the stocks concerned, are managed in accordance with the objectives of Article 3 of this Regulation, the Commission is empowered to adopt delegated acts in accordance with Article 16 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 regarding:
+
+(a) characteristics of fishing gear, in particular mesh size, hook size, construction of the gear, twine thickness, size of the gear or use of selectivity devices, to ensure or improve selectivity;
+
+(b) use of the fishing gear, in particular immersion time and depth of gear deployment, to ensure or improve selectivity;
+
+(c) prohibition or limitation on fishing in specific areas, to protect spawning and juvenile fish or fish below the minimum conservation reference size or non-target fish species;
+
+(d) prohibition or limitation on fishing or the use of certain types of fishing gear during specific time periods, to protect spawning fish or fish below the minimum conservation reference size or non-target fish species;
+
+(e) minimum conservation reference sizes, to ensure the protection of juveniles of marine organisms;
+
+(f) other characteristics linked to selectivity.
+
+2\. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3.
+
+## CHAPTER V — PROVISIONS LINKED TO THE LANDING OBLIGATION
+
+### Article 7 — Provisions linked to the landing obligation
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 16 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 regarding the following measures:
+
+(a) exemptions from the application of the landing obligation for species for which scientific evidence demonstrates high survival rates, taking into account the characteristics of the gear, of the fishing practices and of the ecosystem, to facilitate the implementation of the landing obligation;
+
+(b) de minimis exemptions to facilitate the implementation of the landing obligation; such de minimis exemptions shall be provided for cases referred to, and shall be in accordance with the conditions set out, in point (c) of Article 15(5) of Regulation (EU) No 1380/2013.
+
+(c) specific provisions on documentation of catches, in particular for the purpose of monitoring the implementation of the landing obligation; and
+
+(d) the fixing of minimum conservation reference sizes, to ensure the protection of juveniles of marine organisms.
+
+However, in respect of Atlantic salmon, the delegated powers conferred upon the Commission under the first subparagraph shall be limited to the measures referred to in point (a) of that subparagraph.
+
+2\. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3.
+
+3\. The landing obligation provided for in Article 15(1) of Regulation (EU) No 1380/2013 shall not apply to recreational fishing, including in cases where the Council sets limits for recreational fishermen.
+
+## CHAPTER VI — TECHNICAL MEASURES
+
+### Article 8 — Technical measures
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 16 of this Regulation and Article 18 of Regulation (EU) No 1380/2013 regarding the following technical measures, insofar as they are not covered by Regulation (EU) 2019/1241 of the European Parliament and of the Council ( 1 ):
+
+(a) specifications of characteristics of fishing gears and rules governing their use, to ensure or improve selectivity, to reduce unwanted catches or to minimise the negative impact on the ecosystem;
+
+(b) specifications of modifications or additional devices to the fishing gears, to ensure or improve selectivity, to reduce unwanted catches or to minimise the negative impact on the ecosystem;
+
+(c) limitations or prohibitions on the use of certain fishing gears and on fishing activities, in certain areas or periods to protect spawning fish, fish below the minimum conservation reference size or non-target fish species, or to minimise the negative impact on the ecosystem; and
+
+(d) the fixing of minimum conservation reference sizes for any of the stocks to which this Regulation applies, to ensure the protection of juveniles of marine organisms.
+
+2\. The measures referred to in paragraph 1 of this Article shall contribute to the achievement of the objectives set out in Article 3 of this Regulation and shall comply with Article 15(4) of Regulation (EU) 2019/1241.
+
+## CHAPTER VI A — FISHING CAPACITY REDUCTION
+
+### Article 8a — Fishing capacity reduction for Eastern Baltic cod, Western Baltic cod and Western Baltic herring
+
+1\. Member States which have adopted an action plan in accordance with Article 22(4) of Regulation (EU) No 1380/2013 for fleet segments which include fishing vessels that have targeted Eastern Baltic cod, Western Baltic cod or Western Baltic herring (‘the three stocks concerned’) may implement measures for the permanent cessation of fishing activities in accordance with Article 34 of Regulation (EU) No 508/2014.
+
+2\. Support for measures referred to in paragraph 1 shall be granted only if the action plan as referred to in paragraph 1 sets out specific fishing capacity reduction targets for fishing vessels with fishing opportunities for one or more of the three stocks concerned.
+
+3\. Member States may at any time send or amend their annual report referred to in Article 22(2) of Regulation (EU) No 1380/2013 in order to introduce or amend their action plan.
+
+4\. The fishing capacity ceiling of a Member State implementing permanent cessation measures as referred to in paragraph 1 of this Article shall decrease by an amount equal to the fishing capacity corresponding to the fishing vessels that are withdrawn with public aid in accordance with Article 22(6) of Regulation (EU) No 1380/2013 and Article 34(5) of Regulation (EU) No 508/2014.
+
+5\. Member States shall communicate to the Commission any decreases in the fishing capacity ceilings of Member States in the reports to be submitted in accordance with Article 22(2) of Regulation (EU) No 1380/2013.
+
+6\. Member States implementing the permanent cessation measures as referred to in paragraph 1 shall communicate to the Commission the yearly average for the years 2015 to 2019 of the total fishing capacity of all fishing vessels with an allocation of fishing opportunities for any of the three stocks concerned. Moreover, Member States shall communicate to the Commission the total amount of fishing capacity withdrawn for fishing vessels with an allocation of fishing opportunities for any of the three stocks concerned.
+
+7\. Member States implementing the permanent cessation measures as referred to in paragraph 1 shall ensure that the fishing capacity of fishing vessels with an allocation of fishing opportunities for any of the three stocks concerned does not exceed the yearly average fishing capacity communicated to the Commission in accordance with paragraph 6 by not re-allocating fishing capacity to any of those vessel groups before five years following the date of withdrawal, or before the stock concerned has been above MSY Btrigger for a period of three years, whichever occurs earlier.
+
+## CHAPTER VII — REGIONALISATION
+
+### Article 9 — Regional cooperation
+
+1\. Article 18(1) to (6) of Regulation (EU) No 1380/2013 shall apply to the measures referred to in Articles 6, 7 and 8 of this Regulation.
+
+2\. For the purpose of paragraph 1 of this Article, Member States concerned may submit joint recommendations for the first time not later than 21 July 2017 and thereafter 12 months after each submission of the evaluation of the plan in accordance with Article 15. They may also submit such recommendations when deemed necessary by the Member States concerned, in particular in the event of an abrupt change in the situation for any of the stocks to which this Regulation applies. Joint recommendations in respect of measures concerning a given calendar year shall be submitted not later than 1 July of the previous year.
+
+3\. The empowerments granted under Articles 6, 7 and 8 of this Regulation shall be without prejudice to powers conferred to the Commission under other provisions of Union law, including under Regulation (EU) No 1380/2013.
+
+## CHAPTER VIII — CONTROL AND ENFORCEMENT
+
+### Article 10 — Relationship with Regulation (EC) No 1224/2009
+
+The control measures provided for in this Chapter shall apply in addition to those provided for in Regulation (EC) No 1224/2009, save where otherwise provided for in this Chapter.
+
+### Article 11 — Prior notifications
+
+1\. By way of derogation from Article 17(1) of Regulation (EC) No 1224/2009, the prior notification obligation laid down in that Article shall apply to masters of Union fishing vessels of an overall length of 8 metres or more retaining on board at least 250 kilograms of cod or 2 tonnes of pelagic stocks.
+
+2\. By way of derogation from Article 17(1) of Regulation (EC) No 1224/2009, the prior notification period laid down in that Article shall be at least one hour before the estimated time of arrival at port. The competent authorities of the coastal Member States may, on a case-by-case basis, give permission to an earlier entry into port.
+
+### Article 12 — Logbooks
+
+By way of derogation from Article 14(1) of Regulation (EC) No 1224/2009, masters of Union fishing vessels of an overall length of 8 metres or more engaged in targeted fishing for cod shall keep a fishing logbook of their operations in accordance with Article 14 of that Regulation.
+
+### Article 13 — Margin of tolerance
+
+1\. By way of derogation from Article 14(3) and (4) of Regulation (EC) No 1224/2009, until 10 January 2028 for catches to which this Regulation applies, and which are landed unsorted, the permitted margin of tolerance shall be 20 % per species.
+
+2\. Notwithstanding paragraph 1, in the case of landings in listed ports in accordance with Article 14(4), point (a), of Regulation (EC) No 1224/2009, the margin of tolerance set out in that point shall apply.
+
+### Article 14 — Designated ports
+
+The threshold applicable to the live weight of species subject to the plan, above which a fishing vessel is required to land its catches in a designated port or a place close to the shore as set out in Article 43 of Regulation (EC) No 1224/2009 shall be:
+
+(a) 250 kilograms of cod;
+
+(b) 5 tonnes of pelagic stocks.
+
+### Article 14a — Control of catches of Eastern Baltic cod, Western Baltic cod and Western Baltic herring
+
+Member States shall enhance monitoring and control of vessels with by-catch quota for Eastern Baltic cod or with fishing opportunities for Western Baltic cod or Western Baltic herring.
+
+## CHAPTER IX — FOLLOW-UP
+
+### Article 15 — Evaluation of the plan
+
+By 21 July 2019, and every five years thereafter, the Commission shall report to the European Parliament and to the Council on the results and impact of the plan on the stocks to which this Regulation applies and on the fisheries exploiting those stocks, in particular as regards the achievement of the objectives set out in Article 3. The Commission may report at an earlier date if this is deemed necessary by all Member States concerned or by the Commission itself.
+
+## CHAPTER X — PROCEDURAL PROVISIONS
+
+### Article 16 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 6, 7 and 8 shall be conferred on the Commission for a period of five years from 20 July 2016. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Articles 6, 7 and 8 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 6, 7 and 8 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## CHAPTER XI — FINAL PROVISIONS
+
+### Article 17 — Support from the European Maritime and Fisheries Fund
+
+Temporary cessation measures adopted in order to achieve the objectives of the plan shall be deemed as temporary cessation of fishing activities for the purposes of points (a) and (c) of Article 33(1) of Regulation (EU) No 508/2014.
+
+### Article 18 — Amendments to Regulation (EC) No 2187/2005
+
+Regulation (EC) No 2187/2005 is amended as follows:
+
+(1) Article 13(3) is deleted;
+
+(2) the following Article is inserted:
+
+‘Article 16a
+
+Area restriction on fishing
+
+1\. It shall be prohibited to conduct any fishing activity from 1 May to 31 October within the areas enclosed by sequentially joining with rhumb lines the following positions, which shall be measured in accordance with the WGS84 coordinate system:
+
+(a) Area 1:
+
+— 55° 45′ N, 15° 30′ E
+
+— 55° 45′ N, 16° 30′ E
+
+— 55° 00′ N, 16° 30′ E
+
+— 55° 00′ N, 16° 00′ E
+
+— 55° 15′ N, 16° 00′ E
+
+— 55° 15′ N, 15° 30′ E
+
+— 55° 45′ N, 15° 30′ E
+
+(b) Area 2:
+
+— 55° 00′ N, 19° 14′ E
+
+— 54° 48′ N, 19° 20′ E
+
+— 54° 45′ N, 19° 19′ E
+
+— 54° 45′ N, 18° 55′ E
+
+— 55° 00′ N, 19° 14′ E
+
+(c) Area 3:
+
+— 56° 13′ N, 18° 27′ E
+
+— 56° 13′ N, 19° 31′ E
+
+— 55° 59′ N, 19° 13′ E
+
+— 56° 03′ N, 19° 06′ E
+
+— 56° 00′ N, 18° 51′ E
+
+— 55° 47′ N, 18° 57′ E
+
+— 55° 30′ N, 18° 34′ E
+
+— 56° 13′ N, 18° 27′ E.
+
+2\. By way of derogation from paragraph 1, fishing with gillnets, entangling nets and trammel nets of a mesh size equal to or larger than 157 mm or with drifting lines shall be permitted. No other gear shall be kept on board.’;
+
+(3) the following Article is inserted:
+
+‘Article 28aa
+
+Procedure for adopting technical measures in the context of multiannual plans
+
+The Commission is empowered, for the purpose of adopting the acts referred to in Article 8(1) of Regulation (EU) 2016/1139 of the European Parliament and of the Council ( *1 ) and for the duration thereof, to adopt technical measures. Such technical measures shall be established by means of delegated acts adopted in accordance with Article 28b of this Regulation and Article 18 of Regulation (EU) No 1380/2013, and may, where appropriate, derogate from the following:
+
+(a) specifications of target species, mesh sizes and minimum conservation reference sizes laid down in Annexes II, III and IV to, and referred to in Articles 3 and 4 and Article 14(1) of, this Regulation;
+
+(b) structures, characteristics and rules governing the use of active gears laid down in Article 5(2), (3) and (4) and Article 6 of, and in Annex II to, this Regulation;
+
+(c) structures, characteristics and rules governing the use of passive gears laid down in Article 8 of this Regulation;
+
+(d) the list(s) of coordinates of areas and periods where fishing prohibitions or restrictions apply as laid down in Articles 16 and 16a of this Regulation;
+
+(e) the species to which Article 18a(1) of this Regulation applies, as well the geographical areas and periods of application of restrictions on fishing for certain stocks laid down in that paragraph, as well as the technical details of the derogation laid down in Article 18a(2) of this Regulation.
+
+(4) in Article 28b(2), (3) and (5), the words ‘Articles 14a and 28a’ are replaced by the words ‘Articles 14a, 28a and 28aa’.
+
+### Article 19 — Repeal of Regulation (EC) No 1098/2007
+
+Regulation (EC) No 1098/2007 is repealed. References made to the repealed Regulation shall be construed as references to this Regulation.
+
+### Article 20 — Entry into force
+
+This Regulation shall enter into force on the fifth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fishery resources and the protection of marine ecosystems through technical measures, amending Council Regulations (EC) No 1967/2006, (EC) No 1224/2009 and Regulations (EU) No 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 and (EU) 2019/1022 of the European Parliament and of the Council, and repealing Council Regulations (EC) No 894/97, (EC) No 850/98, (EC) No 2549/2000, (EC) No 254/2002, (EC) No 812/2004 and (EC) No 2187/2005 (OJ L 198, 25.7.2019, p. 105).
+
+( *1 ) Regulation (EU) 2016/1139 of the European Parliament and of the Council of 6 July 2016 establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007 (OJ L 191, 15.7.2016, p. 1).’;

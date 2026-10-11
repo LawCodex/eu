@@ -26,10 +26,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/2556 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 333</td><td>153</td><td>27.12.2022</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/2341 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

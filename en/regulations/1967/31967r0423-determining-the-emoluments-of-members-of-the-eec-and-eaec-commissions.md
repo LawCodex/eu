@@ -1,0 +1,55 @@
+---
+title: "Regulation No 423/67/EEC, 6/67/Euratom of the Council of 25 July 1967 determining the emoluments of members of the EEC and EAEC Commissions and of the High Authority who have not been appointed members of the Single Commission of the European Communities"
+identifier: "31967R0423"
+eli: "http://data.europa.eu/eli/reg/1967/423/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1967-07-25
+entry_into_force: 1967-10-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0423"
+retrieved: 2026-10-11
+---
+
+# Regulation No 423/67/EEC, 6/67/Euratom of the Council of 25 July 1967 determining the emoluments of members of the EEC and EAEC Commissions and of the High Authority who have not been appointed members of the Single Commission of the European Communities
+
+**REGULATION NO 423/67/EEC, 6/67/EURATOM OF THE COUNCIL**
+
+**of 25 July 1967**
+
+**determining the emoluments of members of the EEC and EAEC Commissions and of the High Authority who have not been appointed members of the Single Commission of the European Communities**
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing a Single Council and a Single Commission of the European Communities, (1) and in particular Article 34 thereof;
+
+Whereas it is for the Council to determine the emoluments of former members of the High Authority and of the Commissions of the European Economic Community and the European Atomic Energy Community who, having ceased to hold office, have not been appointed members of the Commission;
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Former members of the High Authority and of the Commissions of the European Economic Community and the European Atomic Energy Community who, having ceased to hold office pursuant to Article 32 of the Treaty establishing a Single Council and a Single Commission of the European Communities, have not been appointed members of the Single Commission, shall be entitled from 1 August 1967 to 31 December 1967 to receive the basic salary, family allowances and residence allowance provided for in Articles 2, 3 and 4 (1) of Council Regulation No 422/67/EEC, 5/67/Euratom (2) of 25 July 1967.
+
+If, during that period, the person concerned takes up any new gainful activity, his gross monthly remuneration (i.e. before deduction of taxes) shall be deducted from the payment provided for above. The provisions of the second sentence of Article 7 (3), and Article 7 (4) of Council Regulation No 422/67/EEC, 5/67/Euratom of 25 July 1967 shall apply by analogy.
+
+## Article 2
+
+The provisions of Articles 5, 11, 12, 13, 15, 17, 18, 19 and 21 of Regulation No 422/67/EEC, 5/67/Euratom shall apply to former members of the High Authority and the Commissions of the European Economic Community and the European Atomic Energy Agency referred to in Article 1; the provisions of Articles 7, 8 and 9 of that Regulation shall apply to them from 1 January 1968 and the provisions of Article 14 thereof shall apply by analogy from 6 July 1967 to 31 December 1967.
+
+The period during which the payment provided for in Article 1 is made shall be taken into account in calculating the transitional allowance and pension rights.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 25 July 1967.
+
+For the Council
+
+The President
+
+Fr. NEEF
+
+(1) OJ No 152, 13.7.1967, p. 2.
+
+(2) OJ No 187, 8.8.1967, p. 1.

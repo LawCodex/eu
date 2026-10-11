@@ -1,0 +1,64 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/45 of 18 January 2016 approving non-minor amendments to the specification for a name entered in the register of traditional specialities guaranteed [Prekmurska gibanica (TSG)]"
+identifier: "32016R0045"
+eli: "http://data.europa.eu/eli/reg_impl/2016/45/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-01-18
+entry_into_force: 2016-02-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0045"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/45 of 18 January 2016 approving non-minor amendments to the specification for a name entered in the register of traditional specialities guaranteed [Prekmurska gibanica (TSG)]
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/45**
+
+**of 18 January 2016**
+
+**approving non-minor amendments to the specification for a name entered in the register of traditional specialities guaranteed [Prekmurska gibanica (TSG)]**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (1), and in particular Article 52(2) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 53(1) of Regulation (EU) No 1151/2012, the Commission has examined Slovenia's application for the approval of amendments to the specification for the traditional speciality guaranteed ‘Prekmurska gibanica’, registered under Commission Regulation (EU) No 172/2010 (2), as amended by Commission Implementing Regulation (EU) 2015/176 (3).
+
+(2) Since the amendments in question are not minor within the meaning of Article 53(2) of Regulation (EU) No 1151/2012, the Commission published the amendment application in the Official Journal of the European Union (4) as required by Article 50(2)(b) of that Regulation.
+
+(3) As no statement of opposition under Article 51 of Regulation (EU) No 1151/2012 has been received by the Commission, the amendments to the specification should be approved,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The amendments to the specification published in the Official Journal of the European Union regarding the name ‘Prekmurska gibanica’ (TSG) are hereby approved.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 January 2016.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 343, 14.12.2012, p. 1.
+
+(2) Commission Regulation (EU) No 172/2010 of 1 March 2010 entering a name in the register of traditional specialities guaranteed [Prekmurska gibanica (TSG)] (OJ L 51, 2.3.2010, p. 11).
+
+(3) Commission Implementing Regulation (EU) 2015/176 of 5 February 2015 approving non-minor amendments to the specification for a name entered in the register of traditional specialities guaranteed [Prekmurska gibanica (TSG)] (OJ L 30, 6.2.2015, p. 16).
+
+(4) OJ C 235, 18.7.2015, p. 16.

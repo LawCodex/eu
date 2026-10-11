@@ -32,9 +32,11 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 4 December 1997</td><td> L 6</td><td>27</td><td>10.1.1998</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -160,6 +162,7 @@ OBERÖSTERREICH
 
 (Berggebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>40101</td><td>Linz</td><td>  </td><td>  </td></tr>
@@ -415,11 +418,13 @@ OBERÖSTERREICH
 <tr><td>50330</td><td>Zell am Pettenfirst</td><td>1 369,4</td><td>774,7</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 SALZBURG
 
 (Berggebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>50101</td><td>Salzburg</td><td>  </td><td>  </td></tr>
@@ -549,11 +554,13 @@ SALZBURG
 <tr><td>50628</td><td>Zell am See</td><td>5 517</td><td>2 109</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 STEIERMARK
 
 (Berggebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>60101</td><td>Graz</td><td>  </td><td>  </td></tr>
@@ -888,6 +895,7 @@ STEIERMARK
 <tr><td>61754</td><td>Waisenegg</td><td>2 597</td><td>1 157</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 TIROL
 
@@ -901,6 +909,7 @@ VORARLBERG
 
 (Berggebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>80101</td><td>Bartholomäberg</td><td>2 728</td><td>1 736</td></tr>
@@ -999,6 +1008,7 @@ VORARLBERG
 <tr><td>80424</td><td>Zwischenwasser</td><td>2 263</td><td>586</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 ANEXO II
 
@@ -1048,6 +1058,7 @@ BURGENLAND
 
 (Benachteiligtes Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>10201</td><td>Rust</td><td>2 001</td><td>609</td></tr>
@@ -1141,11 +1152,13 @@ BURGENLAND
 <tr><td>10928</td><td>Wolfau</td><td>1 502</td><td>652</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 NIEDERÖSTERREICH
 
 (Benachteiligtes Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>30521</td><td>Neustadtl an der Donau</td><td>4 767</td><td>2 502</td></tr>
@@ -1213,11 +1226,13 @@ NIEDERÖSTERREICH
 <tr><td>32423</td><td>Wolfsgraben</td><td>1 734</td><td>315</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 OBERÖSTERREICH
 
 (Benachteiligtes Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>40402</td><td>Aspach</td><td>  </td><td>  </td></tr>
@@ -1323,6 +1338,7 @@ OBERÖSTERREICH
 <tr><td>50031</td><td>Walkering</td><td>260,5</td><td>124,1</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 SALZBURG
 
@@ -1430,6 +1446,7 @@ NIEDERÖSTERREICH
 
 (Kleines Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>30501</td><td>Allhartsberg</td><td>2 135</td><td>1 389</td></tr>
@@ -1482,11 +1499,13 @@ NIEDERÖSTERREICH
 <tr><td>32421</td><td>Tullnerbach</td><td>2 024</td><td>304</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 OBERÖSTERREICH
 
 (Kleines Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>40604</td><td>Hagenberg im Mühlkreis</td><td>1 506</td><td>836</td></tr>
@@ -1525,11 +1544,13 @@ OBERÖSTERREICH
 <tr><td>50322</td><td>Puchkirchen</td><td>708,0</td><td>509,0</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 STEIERMARK
 
 (Kleines Gebiet)
 
+<table>
 <tbody><tr><td colspan="4"></td></tr>
 <tr><td>Code(1)  </td><td>Gemeindename</td><td>Gesamte Katasterfläche</td><td>LF</td></tr>
 <tr><td>60303</td><td>Eibiswald</td><td>238</td><td>60</td></tr>
@@ -1684,6 +1705,7 @@ STEIERMARK
 <tr><td>61752</td><td>Ungerdorf</td><td>503</td><td>197</td></tr>
 <tr><td colspan="4"> (1) GKZ (Gemeindekennzahl) bzw. KGNR (Nummer der Kadastralgemeinde(n)) der Naturräume. </td></tr>
 </tbody>
+</table>
 
 VORARLBERG
 

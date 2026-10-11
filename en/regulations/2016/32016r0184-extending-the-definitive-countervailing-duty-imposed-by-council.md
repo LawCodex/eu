@@ -1,0 +1,98 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/184 of 11 February 2016 extending the definitive countervailing duty imposed by Council Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not"
+identifier: "32016R0184"
+eli: "http://data.europa.eu/eli/reg_impl/2016/184/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-02-11
+entry_into_force: 2016-07-29
+last_amended: 2018-07-20
+consolidated_version: "02016R0184-20180720"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0184-20180720"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/184 of 11 February 2016 extending the definitive countervailing duty imposed by Council Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/184**
+
+**of 11 February 2016**
+
+**extending the definitive countervailing duty imposed by Council Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1997 of 7 November 2017 </td><td> L 289</td><td>1</td><td>8.11.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1017 of 18 July 2018 </td><td> L 183</td><td>1</td><td>19.7.2018</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/184**
+
+**of 11 February 2016**
+
+**extending the definitive countervailing duty imposed by Council Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not**
+
+## Article 1
+
+1\. The definitive countervailing duty applicable to ‘all other companies’ imposed by Article 1(2) of Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China, unless they are in transit in the sense of Article V GATT, is hereby extended to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan whether declared as originating in Malaysia and in Taiwan or not, currently falling within CN codes ex 8501 31 00 , ex 8501 32 00 , ex 8501 33 00 , ex 8501 34 00 , ex 8501 61 20 , ex 8501 61 80 , ex 8501 62 00 , ex 8501 63 00 , ex 8501 64 00 and ex 8541 40 90 (TARIC codes 8501310082 , 8501310083 , 8501320042 , 8501320043 , 8501330062 , 8501330063 , 8501340042 , 8501340043 , 8501612042 , 8501612043 , 8501618042 , 8501618043 , 8501620062 , 8501620063 , 8501630042 , 8501630043 , 8501640042 , 8501640043 , 8541409022 , 8541409023 , 8541409032 , 8541409033 ) with the exception of those produced by the companies listed below:
+
+| Country | Company | TARIC additional code |
+| --- | --- | --- |
+| Malaysia | AUO — SunPower Sdn. Bhd. Flextronics Shah Alam Sdn. Bhd. Hanwha Q CELLS Malaysia Sdn. Bhd. Panasonic Energy Malaysia Sdn. Bhd. TS Solartech Sdn. Bhd. Jinko Solar Technology SDN.BHD Longi (Kuching) SDN.BHD | C073 C074 C075 C076 C077 C203 C309 |
+| Taiwan | ANJI Technology Co., Ltd AU Optronics Corporation Big Sun Energy Technology Inc. EEPV Corp. E-TON Solar Tech. Co., Ltd Gintech Energy Corporation Gintung Energy Corporation Inventec Energy Corporation Inventec Solar Energy Corporation LOF Solar Corp. Ming Hwei Energy Co., Ltd Motech Industries, Inc. Neo Solar Power Corporation Perfect Source Technology Corp. Ritek Corporation Sino-American Silicon Products Inc. Solartech Energy Corp. Sunengine Corporation Ltd Topcell Solar International Co., Ltd TSEC Corporation Win Win Precision Technology Co., Ltd | C058 C059 C078 C079 C080 C081 C082 C083 C084 C085 C086 C087 C088 C089 C090 C091 C092 C093 C094 C095 C096 |
+
+2\. The application of exemptions granted to the companies specifically mentioned in paragraph 1 of this Article or authorised by the Commission in accordance with Article 2(2) shall be conditional upon presentation to the customs authorities of the Member States of a valid commercial invoice issued by the producer or consignor, on which shall appear a declaration dated and signed by an official of the entity issuing such invoice, identified by his/her name and function. In case of crystalline silicon photovoltaic cells this declaration shall be drafted as follows:
+
+‘I, the undersigned, certify that the (volume) of crystalline silicon photovoltaic cells sold for export to the European Union covered by this invoice was manufactured by (company name and address) (TARIC additional code) in (country concerned). I declare that the information provided in this invoice is complete and correct.’
+
+In case of crystalline silicon photovoltaic modules this declaration shall be drafted as follows:
+
+‘I, the undersigned, certify that the (volume) of crystalline silicon photovoltaic modules sold for export to the European Union covered by this invoice was manufactured
+
+(i) by (company name and address) (TARIC additional code) in (country concerned); OR
+
+(ii) by a subcontracted third party for (company name and address) (TARIC additional code) in (country concerned)
+
+(delete as appropriate one of the two above options)
+
+with the crystalline silicon photovoltaic cells manufactured by (company name and address) (TARIC additional code [to be added if the country concerned is subject to original or anti-circumvention measures in force]) in (country concerned).
+
+I declare that the information provided in this invoice is complete and correct.’
+
+If no such invoice is presented and/or one or both of the TARIC additional codes are not provided in the above mentioned declaration, the duty rate applicable to ‘all other companies’ shall apply and shall require the declaration of TARIC additional code B999 in the customs declaration.
+
+3\. The duty extended by paragraph 1 of this Article shall be collected on imports consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and Taiwan or not, registered in accordance with Article 2 of Implementing Regulation (EU) 2015/832 and Articles 23(4) and 24(5) of Regulation (EC) No 597/2009, with the exception of those produced by the companies listed in paragraph 1.
+
+4\. Unless otherwise specified, the provisions in force concerning customs duties shall apply.
+
+## Article 2
+
+1\. Requests for exemption from the duty extended by Article 1 shall be made in writing in one of the official languages of the European Union and must be signed by a person authorised to represent the entity requesting the exemption. The request must be sent to the following address:
+
+European Commission
+
+Directorate-General for Trade
+
+Directorate H
+
+Office: CHAR 04/39
+
+1049 Brussels
+
+Belgium
+
+2\. In accordance with Article 23(6) of Regulation (EC) No 597/2009, the Commission may authorise, by decision, the exemption of imports from companies which do not circumvent the countervailing measures imposed by Implementing Regulation (EU) No 1239/2013, from the duty extended by Article 1.
+
+## Article 3
+
+Customs authorities are hereby directed to discontinue the registration of imports, established in accordance with Article 2 of Implementing Regulation (EU) 2015/832.
+
+## Article 4
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.

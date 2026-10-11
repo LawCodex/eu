@@ -1,0 +1,7996 @@
+---
+title: "Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (recast) Text with EEA relevance"
+identifier: "32012R0748"
+eli: "http://data.europa.eu/eli/reg/2012/748/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-08-03
+entry_into_force: 2012-04-16
+last_amended: 2026-08-07
+consolidated_version: "02012R0748-20260807"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0748-20260807"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (recast) Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 748/2012**
+
+**of 3 August 2012**
+
+**laying down implementing rules for the airworthiness and environmental protection certification or declaration of compliance of aircraft and related products, parts, appliances, control and monitoring units and control and monitoring unit components, as well as for the capability requirements of design and production organisations**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EU) No 7/2013 of 8 January 2013 </td><td> L 4</td><td>36</td><td>9.1.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 69/2014 of 27 January 2014 </td><td> L 23</td><td>12</td><td>28.1.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/1039 of 30 June 2015 </td><td> L 167</td><td>1</td><td>1.7.2015</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EU) 2016/5 of 5 January 2016 </td><td> L 3</td><td>3</td><td>6.1.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/897 of 12 March 2019 </td><td> L 144</td><td>1</td><td>3.6.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/570 of 28 January 2020 </td><td> L 132</td><td>1</td><td>27.4.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/699 of 21 December 2020 </td><td> L 145</td><td>1</td><td>28.4.2021</td></tr>
+<tr><td> M8</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1088 of 7 April 2021 </td><td> L 236</td><td>3</td><td>5.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/201 of 10 December 2021 </td><td> L 33</td><td>7</td><td>15.2.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/203 of 14 February 2022 </td><td> L 33</td><td>46</td><td>15.2.2022</td></tr>
+<tr><td> M11</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1253 of 19 July 2022 </td><td> L 191</td><td>45</td><td>20.7.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1358 of 2 June 2022 </td><td> L 205</td><td>7</td><td>5.8.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1361 of 28 July 2022 </td><td> L 205</td><td>127</td><td>5.8.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1645 of 14 July 2022 </td><td> L 248</td><td>18</td><td>26.9.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/203 of 27 October 2022 </td><td> L 31</td><td>1</td><td>2.2.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/1028 of 20 March 2023 </td><td> L 139</td><td>10</td><td>26.5.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1108 of 13 March 2024 </td><td> L 1108</td><td>1</td><td>23.5.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1110 of 10 April 2024 </td><td> L 1110</td><td>1</td><td>23.5.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1065 of 28 May 2025 </td><td> L 1065</td><td>1</td><td>12.8.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2293 of 10 November 2025 </td><td> L 2293</td><td>1</td><td>11.11.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/56 of 23 October 2025 </td><td> L 56</td><td>1</td><td>19.1.2026</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/100 of 15 January 2026 </td><td> L 100</td><td>1</td><td>19.1.2026</td></tr>
+</table>
+
+C1
+
+**COMMISSION REGULATION (EU) No 748/2012**
+
+**of 3 August 2012**
+
+**laying down implementing rules for the airworthiness and environmental protection certification or declaration of compliance of aircraft and related products, parts, appliances, control and monitoring units and control and monitoring unit components, as well as for the capability requirements of design and production organisations**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+### Article 1 — Scope and definitions
+
+1\. This Regulation lays down, in accordance with Articles 19, 58 and 62 of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 1 ), common technical requirements and administrative procedures for the airworthiness and environmental protection certification or declaration of compliance of products, parts, appliances, control and monitoring units and control and monitoring unit components specifying:
+
+(a) the issue of type certificates, restricted type certificates, supplemental type certificates and changes to those certificates;
+
+(b) the issue of certificates of airworthiness, restricted certificates of airworthiness, permits to fly and authorised release certificates;
+
+(c) the issue of repair design approvals;
+
+(d) the showing of compliance with environmental protection requirements;
+
+(e) the issue of noise certificates and restricted noise certificates;
+
+(f) the identification of products, parts, appliances, control and monitoring units and control and monitoring unit components;
+
+(g) the certification of certain parts, appliances and control and monitoring unit components;
+
+(h) the certification of design and production organisations;
+
+(i) the issue of airworthiness directives;
+
+(j) the making of declarations of design compliance and changes to those declarations;
+
+(k) the making of declarations of design and production capability.
+
+2\. For the purpose of this Regulation, the following definitions shall apply:
+
+(a) ‘JAA’ means the ‘Joint Aviation Authorities’;
+
+(b) ‘JAR’ means ‘Joint Aviation Requirements’;
+
+(c) ‘Part 21’ means the requirements and procedures for the certification of aircraft and related products, parts, appliances, control and monitoring units and control and monitoring unit components, and of design and production organisations laid down in Annex I to this Regulation;
+
+(d) ‘Part 21 Light’ means the requirements and procedures for the certification or declaration of design compliance of aircraft other than unmanned aircraft intended primarily for sports and recreational use and of related products and parts, and declaration of design and production capability of organisations laid down in Annex Ib (Part 21 Light) to this Regulation;
+
+(e) ‘principal place of business’ means the head office or registered office of the undertaking within which the principal financial functions and operational control of the activities referred to in this Regulation are exercised;
+
+(f) ‘article’ means any part and appliance to be used on civil aircraft and any control and monitoring unit component;
+
+(g) ‘ETSO’ means European Technical Standard Order. The European Technical Standard Order is a detailed airworthiness specification issued by the European Union Aviation Safety Agency (the ‘Agency’) to ensure compliance with the requirements of this Regulation as a minimum performance standard for specified articles;
+
+(h) ‘EPA’ stands for European Part Approval. The European Part Approval of an article means that the article has been produced in accordance with approved design data not belonging to the type-certificate holder of the related product and control and monitoring unit, except for ETSO articles;
+
+(ha) ‘complex motor-powered aircraft’ means:
+
+(i) an aeroplane
+
+— with a maximum certificated take-off mass exceeding 5 700 kg, or
+
+— certificated for a maximum passenger seating configuration of more than nineteen, or
+
+— certificated for operation with a minimum crew of at least two pilots, or
+
+— equipped with (a) turbojet engine(s) or more than one turboprop engine, or
+
+(ii) a helicopter certificated:
+
+— for a maximum take-off mass exceeding 3 175 kg, or
+
+— for a maximum passenger seating configuration of more than nine, or
+
+— for operation with a minimum crew of at least two pilots, or
+
+(iii) a tilt rotor aircraft;
+
+(i) ‘ELA1 aircraft’ means the following manned European Light Aircraft:
+
+(i) an aeroplane with a maximum take-off mass (MTOM) of 1 200 kg or less that is not classified as complex motor-powered aircraft;
+
+(ii) a sailplane or powered sailplane of 1 200 kg MTOM or less;
+
+(iii) a balloon with a maximum design lifting gas or hot air volume of not more than 3 400 m3 for hot air balloons, 1 050 m3 for gas balloons, 300 m3 for tethered gas balloons;
+
+(iv) an airship designed for not more than four occupants and a maximum design lifting gas or hot air volume of not more than 3 400 m3 for hot air airships and 1 000 m3 for gas airships;
+
+(j) ‘ELA2 aircraft’ means the following manned European Light Aircraft:
+
+(i) an aeroplane with a maximum take-off mass (MTOM) of 2 000 kg or less that is not classified as complex motor-powered aircraft;
+
+(ii) a sailplane or powered sailplane of 2 000 kg MTOM or less;
+
+(iii) a balloon;
+
+(iv) a hot air airship;
+
+(v) a gas airship complying with all of the following characteristics:
+
+— 3 % maximum static heaviness,
+
+— non-vectored thrust (except reverse thrust),
+
+— conventional and simple design of structure, control system and ballonet system,
+
+— non-power assisted controls;
+
+(vi) a rotorcraft with an MTOM not exceeding 600 kg which is of a simple design, designed to carry not more than two occupants, not powered by turbine and/or rocket engines; restricted to VFR day operations;
+
+(k) ‘operational suitability data (OSD)’ means data, which is part of an aircraft type certificate, restricted type certificate or supplemental type certificate, consisting of all of the following:
+
+(i) the minimum syllabus of pilot type rating training, including determination of type rating;
+
+(ii) the definition of scope of the aircraft validation source data to support the objective qualification of simulators or the provisional data to support their interim qualification;
+
+(iii) the minimum syllabus of maintenance certifying staff type rating training, including determination of type rating;
+
+(iv) determination of type or variant for cabin crew and type-specific data for cabin crew;
+
+(v) the master minimum equipment list;
+
+(l) ‘control and monitoring unit (CMU)’ means the equipment to control and monitor unmanned aircraft remotely, as defined in Article 3(32) of Regulation (EU) 2018/1139;
+
+(m) ‘control and monitoring unit component’ means any element of the control and monitoring unit;
+
+(n) ‘control and monitoring unit installation’ means the process to integrate the control and monitoring unit components in a physical environment eligible for that purpose according to a set of installation and testing instructions, such that the installed control and monitoring unit can be used to operate an unmanned aircraft;
+
+(o) ‘unmanned aircraft system (UAS)’ means an unmanned aircraft, as defined in Article 3(30) of Regulation (EU) 2018/1139, and its control and monitoring unit;
+
+(p) ‘VTOL-capable aircraft’ (VCA) means a power-driven, heavier-than-air aircraft other than aeroplane or rotorcraft, capable of performing vertical take-off and landing by means of lift and thrust units used to provide lift during the take-off and landing.
+
+### Article 2 — Certification of products, parts, appliances, control and monitoring unit and control and monitoring unit components
+
+1\. Products, parts, appliances, control and monitoring units and control and monitoring unit components shall be issued with certificates as specified in Annex I (Part 21).
+
+2\. By way of derogation from paragraph 1, certificates may be alternatively issued as specified in Annex I (b) (Part 21 Light) for the following products other than unmanned aircraft:
+
+(a) an aeroplane with a maximum take-off mass (MTOM) of 2 000 kg or less and a maximum operational seating configuration of four persons;
+
+(b) a sailplane or powered sailplane of 2 000 kg MTOM or less;
+
+(c) a balloon;
+
+(d) a hot air airship;
+
+(e) a passenger gas airship designed for not more than four persons;
+
+(f) a rotorcraft of 1 200 kg MTOM or less and a maximum operational seating configuration of four persons;
+
+(g) a piston engine or fixed pitch propeller that is intended to be installed on an aircraft referred to in points (a) to (f); or
+
+(h) a gyroplane.
+
+3\. By way of derogation from paragraphs 1 and 2, a declaration of design compliance may alternatively be made, as specified in Annex Ib (Part 21 Light), for the following products other than unmanned aircraft:
+
+(a) an aeroplane of 1 200 kg MTOM or less that is not jet-powered and with a maximum operational seating configuration of two persons;
+
+(b) a sailplane or a powered sailplane of 1 200 kg MTOM or less;
+
+(c) a balloon designed for not more than four persons;
+
+(d) a hot air airship designed for not more than four persons.
+
+4\. By way of derogation from paragraphs 1 to 3 of this Article, aircraft, including any installed product, part and appliance, which are not registered in a Member State shall be exempted from the provisions of Subparts H and I of Section A of Annex I (Part 21) and Subparts H and I of Section A of Annex Ib (Part 21 Light). They shall also be exempted from the provisions of Subpart P of Section A of Annex I (Part 21) and Subpart P of Section A of Annex Ib (Part 21 Light), except where aircraft identification marks are prescribed by a Member State.
+
+### Article 2a — Transitional arrangements for certificates previously issued under Annex I (Part 21)
+
+1\. A holder of a valid type certificate or a supplemental type certificate issued, or deemed to have been issued, by the Agency under Annex I (Part 21) may, until 25 August 2025 request to the Agency to maintain, from a given date, the type design approved under that certificate in accordance with Annex Ib (Part 21 Light), provided that the product covered by that certificate is within the scope of Article 2(2).
+
+2\. Where a request is made pursuant to paragraph 1, that type certificate or supplemental type certificate shall be governed, as of the given date referred to in paragraph 1, by the provisions of Annex Ib (Part 21 Light) regarding the type certificates or supplemental type certificates, as applicable. The Agency shall amend the type certificate data sheet or supplemental type certificate data sheet accordingly.
+
+### Article 3 — Continued validity of type-certificates and related certificates of airworthiness
+
+1\. With regard to products which had a type-certificate, or a document allowing the issuing of a certificate of airworthiness, issued before 28 September 2003 by a Member State, the following provisions shall apply:
+
+(a) the product shall be deemed to have a type-certificate issued in accordance with this Regulation when:
+
+(i) its type-certification basis was:
+
+— the JAA type-certification basis, for products that have been certificated under JAA procedures, as defined in their JAA data sheet, or
+
+— for other products, the type-certification basis as defined in the type-certificate data sheet of the State of design, if that State of design was:
+
+— a Member State, unless the Agency determines, taking into account, in particular, certification specifications used and service experience, that such type-certification basis does not provide for a level of safety equivalent to that required by Regulation (EU) 2018/1139 and this Regulation, or
+
+— a State with which a Member State had concluded a bilateral airworthiness agreement or similar arrangement under which such products have been certificated on the basis of the certification specifications of that State of design, unless the Agency determines that such certification specifications or service experience or the safety system of that State of design do not provide for a level of safety equivalent to that required by Regulation (EU) 2018/1139 and this Regulation.
+
+The Agency shall make a first evaluation of the implication of the provisions of the second indent in view of producing an opinion to the Commission including possible amendments to this Regulation;
+
+(ii) the environmental protection requirements were those laid down in Annex 16 to the Chicago Convention, as applicable to the product;
+
+(iii) the applicable airworthiness directives were those of the State of design;
+
+(b) the design of an individual aircraft, which was on the register of a Member State before 28 September 2003, shall be deemed to have been approved in accordance with this Regulation when:
+
+(i) its basic type design was part of a type-certificate referred to in point (a);
+
+(ii) all changes to this basic type design, which were not under the responsibility of the type-certificate holder, had been approved; and
+
+(iii) the airworthiness directives issued or adopted by the Member State of registry before 28 September 2003 were complied with, including any variations to the airworthiness directives of the State of design agreed by the Member State of registry.
+
+2\. With regard to products for which a type-certification process was proceeding through the JAA or a Member State on 28 September 2003, the following shall apply:
+
+(a) if a product is under certification by several Member States, the most advanced project shall be used as the reference;
+
+(b) points 21.A.15(a), (b) and (c) of Annex I (Part 21) shall not apply;
+
+(c) by way of derogation from point 21.B.80 of Annex I (Part 21), the type-certification basis shall be that established by the JAA or, where applicable, the Member State at the date of application for the approval;
+
+(d) compliance findings made under JAA or Member State procedures shall be deemed to have been made by the Agency for the purposes of compliance with points 21.A.20(a) and (d) of Annex I (Part 21).
+
+3\. With regard to products that have a national type certificate, or equivalent, and for which the approval process of a change carried out by a Member State was not finalised at the time when the type certificate had to be approved in accordance with this Regulation, the following conditions shall apply:
+
+(a) if an approval process is being carried out by several Member States, the most advanced project shall be used as the reference;
+
+(b) point 21.A.93 of Annex I (Part 21) shall not apply;
+
+(c) the applicable type-certification basis shall be that established by the JAA or, where applicable, the Member State at the date of application for the approval of change;
+
+(d) compliance findings made under JAA or Member State procedures shall be deemed to have been made by the Agency for the purposes of compliance with point 21.B.107 of Annex I (Part 21).
+
+4\. With regard to products that had a national type-certificate, or equivalent, and for which the approval process of a major repair design carried out by a Member State was not finalised at the time when the type-certificate had to be determined in accordance with this Regulation, compliance findings made under JAA or Member State procedures shall be deemed to have been made by the Agency for the purpose of complying with point 21.A.433(a) of Annex I (Part 21).
+
+5\. A certificate of airworthiness issued by a Member State attesting conformity with a type-certificate determined in accordance with paragraph 1 shall be deemed to comply with this Regulation.
+
+### Article 4 — Continued validity of supplemental type-certificates
+
+1\. With regard to supplemental type-certificates issued by a Member State under JAA procedures or applicable national procedures and with regard to changes to products proposed by persons other than the type-certificate holder of the product, which were approved by a Member State under applicable national procedures, if the supplemental type-certificate, or change, was valid on 28 September 2003, the supplemental type-certificate, or change shall be deemed to have been issued under this Regulation.
+
+2\. With regard to supplemental type-certificates for which a certification process was being carried out by a Member State on 28 September 2003 under applicable JAA supplemental type-certificate procedures and with regard to major changes to products, proposed by persons other than the type-certificate holder of the product, for which a certification process was being carried out by a Member State on 28 September 2003 under applicable national procedures, the following shall apply:
+
+(a) if a certification process was being carried out by several Member States, the most advanced project shall be used as the reference;
+
+(b) point 21.A.113 (a) and (b) of Annex I (Part 21) shall not apply;
+
+(c) the applicable certification basis shall be that established by the JAA or, where applicable, the Member State at the date of application for the supplemental type-certificate or the major change approval;
+
+(d) the compliance findings made under JAA or Member State procedures shall be deemed to have been made by the Agency for the purpose of complying with point 21.A.115(a) of Annex I (Part 21).
+
+### Article 6 — Continued validity of parts and appliances certificates
+
+1\. Approvals of parts and appliances issued by a Member State and valid on 28 September 2003 shall be deemed to have been issued in accordance with this Regulation.
+
+2\. With regard to parts and appliances for which an approval or authorisation process was being carried out by a Member State on 28 September 2003, the following shall apply:
+
+(a) if an authorisation process was being carried out by several Member States, the most advanced project shall be used as the reference;
+
+(b) point 21.A.603 of Annex I (Part 21) shall not apply;
+
+(c) the applicable data requirements laid down in point 21.A.605 of Annex I (Part 21) shall be those established by the relevant Member State, at the date of application for the approval or authorisation;
+
+(d) compliance findings made by the relevant Member State shall be deemed to have been made by the Agency for the purpose of complying with point 21.A.606(b) of Annex I (Part 21).
+
+### Article 7 — Permit to fly
+
+The conditions determined before 28 March 2007 by the Member States for permits to fly or other airworthiness certificate issued for aircraft which did not hold a certificate of airworthiness or restricted certificate of airworthiness issued under this Regulation, are deemed to have been determined in accordance with this Regulation, unless the Agency has determined before 28 March 2008 that such conditions do not provide for a level of safety equivalent to that required by Regulation (EC) No 216/2008 or this Regulation.
+
+### Article 7a — Operational suitability data
+
+1\. The holder of an aircraft type-certificate issued before 17 February 2014 intending to deliver a new aircraft to an EU operator on or after 17 February 2014 shall obtain approval in accordance with point 21.A.21(e) of Annex I (Part 21) except for the minimum syllabus of maintenance certifying staff type rating training and except for aircraft validation source data to support the objective qualification of simulator(s). The approval shall be obtained not later than 18 December 2015 or before the aircraft is operated by an EU operator, whichever is the latest. The operational suitability data may be limited to the model which is delivered.
+
+2\. The applicant for an aircraft type-certificate for which the application was filed before 17 February 2014 and for which a type-certificate is not issued before 17 February 2014 shall obtain approval in accordance with point 21.A.21(e) of Annex I (Part 21) except for the minimum syllabus of maintenance certifying staff type rating training and for aircraft validation source data to support the objective qualification of simulator(s). The approval shall be obtained not later than 18 December 2015 or before the aircraft is operated by an EU operator, whichever is the latest. Compliance findings made by the authorities in Operational Evaluation Board processes conducted under the responsibility of the JAA or the Agency before the entry into force of this Regulation shall be accepted by the Agency without further verification.
+
+3\. Operational Evaluation Board reports and master minimum equipment lists issued in accordance with JAA procedures or by the Agency before the entry into force of this Regulation shall be deemed to constitute the operational suitability data approved in accordance with point 21.A.21(e) of Annex I (Part 21) and shall be included in the relevant type-certificate. Before 18 June 2014 the relevant type-certificate holders shall propose the Agency a division of the operational suitability data in mandatory data and non-mandatory data.
+
+4\. Holders of a type-certificate including operational suitability data shall be required to obtain approval of an extension of the scope of their design organisation approval or procedures alternative to design organisation approval, as applicable, to include operational suitability aspects before 18 December 2015.
+
+### Article 8 — Design organisations
+
+1\. An organisation responsible for the design of products, parts, appliances, control and monitoring units and control and monitoring unit components, or for changes or repairs thereto, shall demonstrate its capability in accordance with Annex I (Part 21).
+
+2\. By way of derogation from paragraph 1 of this Article, a natural or legal person responsible for the design of products whose principal place of business is in a Member State and who applies for or holds a certificate for the design of products, or changes or repairs thereto, in accordance with Article 2(2) may, alternatively, demonstrate their capability in accordance with Annex Ib (Part 21 Light).
+
+3\. Natural or legal persons involved in the design of aircraft subject to a declaration of design compliance referred to in Article 2(3) need not demonstrate their capability.
+
+4\. By way of derogation from points 21.B.433(d)(1) and (2) of Annex I (Part 21), a design organisation that holds a valid approval certificate issued in accordance with Annex I (Part 21) may correct, until 7 March 2025, any findings of non-compliance related to the Annex I requirements introduced by Commission Delegated Regulation (EU) 2022/201 ( 2 ).
+
+Where after 7 March 2025, the organisation has not closed such findings, the approval certificate shall be revoked, limited or suspended in whole or in part.
+
+5\. By way of derogation from paragraph 1, an organisation whose principal place of business is in a non-Member State may demonstrate its capability by holding a certificate issued by that State for the product, part, appliance, control and monitoring unit and control and monitoring unit component for which it applies in accordance with Annex I (Part 21), provided:
+
+(a) that State is the State of design;
+
+(b) the Agency has determined that the system of that State includes the same independent level of checking of compliance as provided by this Regulation, either through an equivalent system of approvals of organisations or through direct involvement of the competent authority of that State.
+
+6\. Design organisation approvals issued or recognised by a Member State in accordance with the JAA requirements and procedures and valid before 28 September 2003 shall be deemed to comply with this Regulation.
+
+### Article 9 — Production organisations
+
+1\. An organisation responsible for the manufacture of products, parts, appliances, control and monitoring units and control and monitoring unit components shall demonstrate its capability in accordance with Annex I (Part 21). This demonstration of capability shall not be required for the manufacture of parts, appliances or control and monitoring unit components that are eligible, in accordance with Annex I (Part 21), for installation in a type-certified product or a control and monitoring unit, without the need to be accompanied by an authorised release certificate (EASA Form 1).
+
+2\. By way of derogation from paragraph 1, a manufacturer whose principal place of business is in a non-Member State may demonstrate its capability by holding a certificate issued by that State for the product, part, appliance, control and monitoring unit and control and monitoring unit component for which it applies, provided that both of the following conditions are fulfilled:
+
+(a) that State is the State of manufacture;
+
+(b) the Agency has determined that the system of that State includes the same independent level of checking of compliance as provided for by this Regulation, either through an equivalent system of approvals of organisations or through direct involvement of the competent authority of that State.
+
+3\. Production organisation approvals issued or recognised by a Member State in accordance with the JAA requirements and procedures and valid before 28 September 2003 shall be deemed to comply with this Regulation.
+
+4\. By way of derogation from paragraph 1, the production organisation may apply to the competent authority for exemptions from the environmental protection requirements referred to in the first subparagraph of Article 9(2) of Regulation (EU) 2018/1139.
+
+5\. By way of derogation from points 21.B.225(d)(1) and (2) of Annex I (Part 21), a production organisation that holds a valid approval certificate issued in accordance with Annex I (Part 21) may correct, until 7 March 2025, any findings of non-compliance related to the Annex I requirements introduced by Commission Delegated Regulation (EU) 2022/201 ( 3 ).
+
+Where after 7 March 2025 the organisation has not closed those findings, the approval certificate shall be revoked, limited or suspended in whole or in part.
+
+6\. By way of derogation from point 21.A.125C(a)(1) of Annex I (Part 21), an organisation that produces products, parts or appliances without an approval certificate and that holds a valid letter of agreement issued on or before 7 March 2023 in accordance with Annex I (Part 21) shall not be required to comply with the relevant Annex I requirements introduced by Delegated Regulation (EU) 2022/201.
+
+7\. By way of derogation from paragraph 1 of this Article, an organisation whose principal place of business is in a Member State and which is responsible for the manufacture of products referred to in Article 2(2) and (3) and their parts may alternatively demonstrate its capability in accordance with Annex Ib (Part 21 Light). This demonstration of capability shall not be required for the manufacture of parts that are eligible, in accordance with Annex Ib (Part 21 Light), for installation in a type-certified product or in an aircraft that has been subject to a declaration of design compliance, without the need to be accompanied by an authorised release certificate (EASA Form 1).
+
+### Article 10 — Agency measures
+
+1\. The Agency shall develop acceptable means of compliance (‘AMC’) which competent authorities, organisations and personnel may use to demonstrate compliance with the provisions of Annex I (Part 21) and Annex Ib (Part 21 Light).
+
+2\. The AMC issued by the Agency shall neither introduce new requirements nor alleviate the requirements of Annex I (Part 21) and Annex Ib (Part 21 Light).
+
+### Article 11 — Repeal
+
+Regulation (EC) No 1702/2003 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+
+### Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PART 21**
+
+**Certification of aircraft and related products, parts, appliances, control and monitoring units and control and monitoring unit components, and of design and production organisations**
+
+<table>
+<tr><td colspan="2">Contents</td></tr>
+<tr><td>21.1</td><td>Competent authority</td></tr>
+<tr><td>21.2</td><td>Scope</td></tr>
+<tr><td colspan="2">SECTION A – TECHNICAL REQUIREMENTS</td></tr>
+<tr><td colspan="2">SUBPART A – GENERAL PROVISIONS</td></tr>
+<tr><td>21.A.1</td><td>Scope</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.2</td><td>Undertaking by a person other than the applicant for, or holder of, a certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.3A</td><td>Reporting system</td></tr>
+<tr><td>21.A.3B</td><td>Airworthiness directives</td></tr>
+<tr><td>21.A.4</td><td>Coordination between design and production</td></tr>
+<tr><td>21.A.5</td><td>Record-keeping</td></tr>
+<tr><td>21.A.6</td><td>Manuals</td></tr>
+<tr><td>21.A.7</td><td>Instructions for continued airworthiness</td></tr>
+<tr><td>21.A.9</td><td>Access and investigation</td></tr>
+<tr><td colspan="2">SUBPART B – TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES</td></tr>
+<tr><td>21.A.11</td><td>Scope</td></tr>
+<tr><td>21.A.13</td><td>Eligibility</td></tr>
+<tr><td>21.A.14</td><td>Demonstration of capability</td></tr>
+<tr><td>21.A.15</td><td>Application</td></tr>
+<tr><td>21.A.19</td><td>Changes requiring a new type-certificate</td></tr>
+<tr><td>21.A.20</td><td>Demonstration of compliance with the type-certification basis, operational suitability data certification basis and environmental protection requirements</td></tr>
+<tr><td>21.A.21</td><td>Requirements for the issuance of a type certificate or restricted type certificate</td></tr>
+<tr><td>21.A.31</td><td>Type design</td></tr>
+<tr><td>21.A.33</td><td>Inspections and tests</td></tr>
+<tr><td>21.A.35</td><td> Flight tests  </td></tr>
+<tr><td>21.A.41</td><td>Type-certificate</td></tr>
+<tr><td>21.A.44</td><td>Obligations of the holder</td></tr>
+<tr><td>21.A.47</td><td>Transferability</td></tr>
+<tr><td>21.A.51</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.62</td><td>Availability of operational suitability data</td></tr>
+<tr><td>21.A.65</td><td>Continuing structural integrity for aeroplanes structures</td></tr>
+<tr><td colspan="2">(SUBPART C – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART D – CHANGES TO TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES</td></tr>
+<tr><td>21.A.90A</td><td>Scope</td></tr>
+<tr><td>21.A.90B</td><td>Standard changes</td></tr>
+<tr><td>21.A.90C</td><td>Stand-alone changes to the instructions for continued airworthiness</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.91</td><td>Classification of changes to a type certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.92</td><td>Eligibility</td></tr>
+<tr><td>21.A.93</td><td>Application</td></tr>
+<tr><td>21.A.95</td><td>Requirements for approval of a minor change</td></tr>
+<tr><td>21.A.97</td><td>Requirements for approval of a major change</td></tr>
+<tr><td>21.A.101</td><td>Type-certification basis, operational suitability data certification basis and environmental protection requirements for a major change to a type-certificate</td></tr>
+<tr><td>21.A.108</td><td>Availability of operational suitability data</td></tr>
+<tr><td>21.A.109</td><td>Obligations and EPA marking</td></tr>
+<tr><td colspan="2">SUBPART E – SUPPLEMENTAL TYPE-CERTIFICATES</td></tr>
+<tr><td>21.A.111</td><td>Scope</td></tr>
+<tr><td>21.A.112A</td><td>Eligibility</td></tr>
+<tr><td>21.A.112B</td><td>Demonstration of capability</td></tr>
+<tr><td>21.A.113</td><td>Application for a supplemental type-certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.115</td><td>Requirements for the approval of major changes in the form of a supplemental type certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.116</td><td>Transferability</td></tr>
+<tr><td>21.A.117</td><td>Changes to that part of a product covered by a supplemental type-certificate</td></tr>
+<tr><td>21.A.118A</td><td>Obligations and EPA marking</td></tr>
+<tr><td>21.A.118B</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.120B</td><td>Availability of operational suitability data</td></tr>
+<tr><td colspan="2">SUBPART F – PRODUCTION WITHOUT PRODUCTION ORGANISATION APPROVAL</td></tr>
+<tr><td>21.A.121</td><td>Scope</td></tr>
+<tr><td>21.A.122</td><td>Eligibility</td></tr>
+<tr><td>21.A.124</td><td>Application</td></tr>
+<tr><td>21.A.124A</td><td>Means of compliance</td></tr>
+<tr><td>21.A.125A</td><td>Issuance of a letter of agreement</td></tr>
+<tr><td>21.A.125B</td><td>Findings and observations</td></tr>
+<tr><td>21.A.125C</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.126</td><td>Production inspection system</td></tr>
+<tr><td>21.A.127</td><td>Tests: aircraft</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.128</td><td>Tests: engines, propellers, and control and monitoring units (CMUs)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.129</td><td>Obligations of the production organisation</td></tr>
+<tr><td>21.A.130</td><td>Statement of conformity</td></tr>
+<tr><td colspan="2">SUBPART G – PRODUCTION ORGANISATION APPROVAL</td></tr>
+<tr><td>21.A.131</td><td>Scope</td></tr>
+<tr><td>21.A.133</td><td>Eligibility</td></tr>
+<tr><td>21.A.134</td><td>Application</td></tr>
+<tr><td>21.A.134A</td><td>Means of compliance</td></tr>
+<tr><td>21.A.135</td><td>Issuance of production organisation approval</td></tr>
+<tr><td>21.A.139</td><td>Production management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.139A</td><td>Information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.143</td><td>Production organisation exposition</td></tr>
+<tr><td>21.A.145</td><td>Resources</td></tr>
+<tr><td>21.A.147</td><td>Changes in the production management system</td></tr>
+<tr><td>21.A.148</td><td>Changes of location</td></tr>
+<tr><td>21.A.149</td><td>Transferability</td></tr>
+<tr><td>21.A.151</td><td>Terms of approval</td></tr>
+<tr><td>21.A.153</td><td>Changes to the terms of approval</td></tr>
+<tr><td>21.A.158</td><td>Findings and observations</td></tr>
+<tr><td>21.A.159</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.163</td><td>Privileges</td></tr>
+<tr><td>21.A.165</td><td>Obligations of the holder</td></tr>
+<tr><td colspan="2">SUBPART H – CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS</td></tr>
+<tr><td>21.A.171</td><td>Scope</td></tr>
+<tr><td>21.A.172</td><td>Eligibility</td></tr>
+<tr><td>21.A.173</td><td>Classification</td></tr>
+<tr><td>21.A.174</td><td>Application</td></tr>
+<tr><td>21.A.175</td><td>Language</td></tr>
+<tr><td>21.A.177</td><td>Amendment or modification</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.179</td><td>Transferability</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.181</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.182</td><td>Aircraft identification</td></tr>
+<tr><td colspan="2">SUBPART I – NOISE CERTIFICATES</td></tr>
+<tr><td>21.A.201</td><td>Scope</td></tr>
+<tr><td>21.A.203</td><td>Eligibility</td></tr>
+<tr><td>21.A.204</td><td>Application</td></tr>
+<tr><td>21.A.207</td><td>Amendment or modification</td></tr>
+<tr><td>21.A.209</td><td>Transferability and re-issuance within Member States</td></tr>
+<tr><td>21.A.211</td><td>Duration and continued validity</td></tr>
+<tr><td colspan="2">SUBPART J – DESIGN ORGANISATION APPROVAL</td></tr>
+<tr><td>21.A.231</td><td>Scope</td></tr>
+<tr><td>21.A.233</td><td>Eligibility</td></tr>
+<tr><td>21.A.234</td><td>Application</td></tr>
+<tr><td>21.A.235</td><td>Issue of design organisation approval</td></tr>
+<tr><td>21.A.239</td><td>Design management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.239A</td><td>Information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.243</td><td>Handbook</td></tr>
+<tr><td>21.A.245</td><td>Resources</td></tr>
+<tr><td>21.A.247</td><td>Changes in the design management system</td></tr>
+<tr><td>21.A.249</td><td>Transferability</td></tr>
+<tr><td>21.A.251</td><td>Terms of approval</td></tr>
+<tr><td>21.A.253</td><td>Changes to the terms of approval</td></tr>
+<tr><td>21.A.258</td><td>Findings and observations</td></tr>
+<tr><td>21.A.259</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.263</td><td>Privileges</td></tr>
+<tr><td>21.A.265</td><td>Obligations of the holder</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">SUBPART K — PARTS, APPLIANCES, AND CONTROL AND MONITORING UNIT (CMU) COMPONENTS</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.301</td><td>Scope</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.303</td><td>Compliance with the applicable requirements</td></tr>
+<tr><td>21.A.305</td><td>Approval of parts, appliances, and control and monitoring unit (CMU) components</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.307</td><td>The eligibility of parts and appliances for installation</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.308</td><td>Eligibility of a component for installation on a control and monitoring unit (CMU)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">(SUBPART L – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART M – REPAIRS</td></tr>
+<tr><td>21.A.431A</td><td>Scope</td></tr>
+<tr><td>21.A.431B</td><td>Standard repairs</td></tr>
+<tr><td>21.A.432A</td><td>Eligibility</td></tr>
+<tr><td>21.A.432B</td><td>Demonstration of capability</td></tr>
+<tr><td>21.A.432C</td><td>Application for a repair design approval</td></tr>
+<tr><td>21.A.433</td><td>Requirements for approval of a repair design</td></tr>
+<tr><td>21.A.435</td><td>Classification and approval of repair designs</td></tr>
+<tr><td>21.A.439</td><td>Production of repair parts</td></tr>
+<tr><td>21.A.441</td><td>Repair embodiment</td></tr>
+<tr><td>21.A.443</td><td>Limitations</td></tr>
+<tr><td>21.A.445</td><td>Unrepaired damage</td></tr>
+<tr><td>21.A.451</td><td>Obligations and EPA marking</td></tr>
+<tr><td colspan="2">(SUBPART N – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART O – EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS</td></tr>
+<tr><td>21.A.601</td><td>Scope</td></tr>
+<tr><td>21.A.602A</td><td>Eligibility</td></tr>
+<tr><td>21.A.602B</td><td>Demonstration of capability</td></tr>
+<tr><td>21.A.603</td><td>Application</td></tr>
+<tr><td>21.A.604</td><td>ETSO authorisation for an auxiliary power unit (APU)</td></tr>
+<tr><td>21.A.605</td><td>Data requirements</td></tr>
+<tr><td>21.A.606</td><td>Requirements for issuance of an ETSO authorisation</td></tr>
+<tr><td>21.A.607</td><td>ETSO authorisation privileges</td></tr>
+<tr><td>21.A.608</td><td>Declaration of design and performance (DDP)</td></tr>
+<tr><td>21.A.609</td><td>Obligations of holders of ETSO authorisations</td></tr>
+<tr><td>21.A.610</td><td>Approval for deviation</td></tr>
+<tr><td>21.A.611</td><td>Design changes</td></tr>
+<tr><td>21.A.619</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.621</td><td>Transferability</td></tr>
+<tr><td colspan="2">SUBPART P – PERMIT TO FLY</td></tr>
+<tr><td>21.A.701</td><td>Scope</td></tr>
+<tr><td>21.A.703</td><td>Eligibility</td></tr>
+<tr><td>21.A.707</td><td>Application for permit to fly</td></tr>
+<tr><td>21.A.708</td><td>Flight conditions</td></tr>
+<tr><td>21.A.709</td><td>Application for approval of flight conditions</td></tr>
+<tr><td>21.A.710</td><td>Approval of flight conditions</td></tr>
+<tr><td>21.A.711</td><td>Issuance of a permit to fly</td></tr>
+<tr><td>21.A.713</td><td>Changes</td></tr>
+<tr><td>21.A.715</td><td>Language</td></tr>
+<tr><td>21.A.719</td><td>Transferability</td></tr>
+<tr><td>21.A.723</td><td>Duration and continued validity</td></tr>
+<tr><td>21.A.725</td><td>Renewal of permit to fly</td></tr>
+<tr><td>21.A.727</td><td>Obligations of the holder of a permit to fly</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">SUBPART Q — IDENTIFICATION OF PRODUCTS, PARTS, APPLIANCES, CONTROL AND MONITORING UNITS (CMUs) AND CMU COMPONENTS</td></tr>
+<tr><td>21.A.801</td><td>Identification of products and control and monitoring units (CMUs)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.803</td><td>Handling of identification data</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.804</td><td>Identification of parts, appliances and control and monitoring unit (CMU) components</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.A.805</td><td>Identification of critical parts</td></tr>
+<tr><td>21.A.807</td><td>Identification of ETSO articles</td></tr>
+<tr><td colspan="2">SECTION B – PROCEDURES FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td colspan="2">SUBPART A – GENERAL PROVISIONS</td></tr>
+<tr><td>21.B.10</td><td>Oversight documentation</td></tr>
+<tr><td>21.B.15</td><td>Information to the Agency</td></tr>
+<tr><td>21.B.20</td><td>Immediate reaction to a safety problem</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.20A</td><td>Immediate reaction to an information security incident or vulnerability with an impact on aviation safety</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.25</td><td>Management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.30</td><td>Allocation of tasks</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.35</td><td>Changes in the management system</td></tr>
+<tr><td>21.B.55</td><td>Record-keeping</td></tr>
+<tr><td>21.B.65</td><td>Suspension, limitation and revocation</td></tr>
+<tr><td colspan="2">SUBPART B – TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES</td></tr>
+<tr><td>21.B.70</td><td>Certification specifications</td></tr>
+<tr><td>21.B.75</td><td>Special conditions</td></tr>
+<tr><td>21.B.80</td><td>Type-certification basis for a type-certificate or a restricted type-certificate</td></tr>
+<tr><td>21.B.82</td><td>Operational suitability data certification basis for an aircraft type certificate or a restricted type-certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.85</td><td>Applicable environmental protection requirements for a type certificate or restricted type certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.100</td><td>Level of involvement</td></tr>
+<tr><td>21.B.103</td><td>Issuance of a type-certificate or a restricted type-certificate</td></tr>
+<tr><td colspan="2">(SUBPART C – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART D – CHANGES TO TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.105</td><td>Type-certification basis, environmental protection requirements and operational suitability data certification basis for a major change to a type certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.107</td><td>Issuance of an approval of a change to a type-certificate</td></tr>
+<tr><td colspan="2">SUBPART E – SUPPLEMENTAL TYPE-CERTIFICATES</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.109</td><td>Type-certification basis, environmental protection requirements and operational suitability data certification basis for a supplemental type certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.111</td><td>Issuance of a supplemental type-certificate</td></tr>
+<tr><td colspan="2">SUBPART F – PRODUCTION WITHOUT PRODUCTION ORGANISATION APPROVAL</td></tr>
+<tr><td>21.B.115</td><td>Means of compliance</td></tr>
+<tr><td>21.B.120</td><td>Initial certification procedure</td></tr>
+<tr><td>21.B.125</td><td>Findings and corrective actions; observations</td></tr>
+<tr><td>21.B.135</td><td>Maintenance of the letter of agreement</td></tr>
+<tr><td>21.B.140</td><td>Amendment of a letter of agreement</td></tr>
+<tr><td colspan="2">SUBPART G – PRODUCTION ORGANISATION APPROVAL</td></tr>
+<tr><td>21.B.215</td><td>Means of compliance</td></tr>
+<tr><td>21.B.220</td><td>Initial certification procedure</td></tr>
+<tr><td>21.B.221</td><td>Oversight principles</td></tr>
+<tr><td>21.B.222</td><td>Oversight programme</td></tr>
+<tr><td>21.B.225</td><td>Findings and corrective actions; observations</td></tr>
+<tr><td>21.B.240</td><td>Changes in the production management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.240A</td><td>Changes to the information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">SUBPART H – CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS</td></tr>
+<tr><td>21.B.320</td><td>Investigation</td></tr>
+<tr><td>21.B.325</td><td>Issuance of airworthiness certificate</td></tr>
+<tr><td>21.B.326</td><td>Certificate of airworthiness</td></tr>
+<tr><td>21.B.327</td><td>Restricted certificate of airworthiness</td></tr>
+<tr><td colspan="2">SUBPART I – NOISE CERTIFICATES</td></tr>
+<tr><td>21.B.420</td><td>Investigation</td></tr>
+<tr><td>21.B.425</td><td>Issuance of noise certificates</td></tr>
+<tr><td colspan="2">SUBPART J – DESIGN ORGANISATION APPROVAL</td></tr>
+<tr><td>21.B.430</td><td>Initial certification procedure</td></tr>
+<tr><td>21.B.431</td><td>Oversight principles</td></tr>
+<tr><td>21.B.432</td><td>Oversight programme</td></tr>
+<tr><td>21.B.433</td><td>Findings and corrective actions; observations</td></tr>
+<tr><td>21.B.435</td><td>Changes in the design management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.435A</td><td>Changes to the information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">SUBPART K — PARTS, APPLIANCES AND CONTROL AND MONITORING UNIT (CMU) COMPONENTS</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">(SUBPART L – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART M – REPAIRS</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.450</td><td>Amendments to the type-certification basis for a repair design approval</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>21.B.453</td><td>Issuance of a repair design approval</td></tr>
+<tr><td colspan="2">(SUBPART N – NOT APPLICABLE)</td></tr>
+<tr><td colspan="2">SUBPART O – EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS</td></tr>
+<tr><td>21.B.480</td><td>Issuance of an ETSO authorisation</td></tr>
+<tr><td colspan="2">SUBPART P – PERMIT TO FLY</td></tr>
+<tr><td>21.B.520</td><td>Investigation</td></tr>
+<tr><td>21.B.525</td><td>Issuance of a permit to fly</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">SUBPART Q — IDENTIFICATION OF PRODUCTS, PARTS, APPLIANCES, CONTROL AND MONITORING UNITS (CMUs) AND CMU COMPONENTS</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">Appendices</td></tr>
+<tr><td></td><td>Appendix I – EASA Form 1 – Authorised Release Certificate</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td></td><td>Appendix II – Reserved</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td></td><td>Appendix III – EASA Form 20a – Permit to Fly</td></tr>
+<tr><td></td><td>Appendix IV – EASA Form 20b – Permit to Fly (issued by approved organisations)</td></tr>
+<tr><td></td><td>Appendix V – EASA Form 24 – Restricted Certificate of Airworthiness</td></tr>
+<tr><td></td><td>Appendix VI – EASA Form 25 – Certificate of Airworthiness</td></tr>
+<tr><td></td><td>Appendix VII– EASA Form 45 – Noise Certificate</td></tr>
+<tr><td></td><td>Appendix VIII – EASA Form 52 – Aircraft statement of conformity</td></tr>
+<tr><td></td><td>Appendix IX – EASA Form 53 – Certificate of Release to Service</td></tr>
+<tr><td></td><td>Appendix X – EASA Form 55 – Production organisation approval certificate</td></tr>
+<tr><td></td><td>Appendix XI – EASA Form 65 – Letter of Agreement for production without production organisation approval</td></tr>
+<tr><td></td><td>Appendix XII – Categories of flight tests and associated flight test crew qualification.</td></tr>
+</table>
+
+**21.1. Competent authority**
+
+For the purpose of this Annex, the ‘competent authority’ shall be:
+
+(a) for Section A, Subpart A,
+
+1\. for design organisations, the Agency;
+
+2\. for production organisations that have their principal place of business in a territory for which a Member State is responsible under the Convention on International Civil Aviation, signed in Chicago on 7 December 1944 (‘the Chicago Convention’), the authority designated by that Member State or by another Member State in accordance with Article 64 of Regulation (EU) 2018/1139, or the Agency if the responsibility has been reallocated to the Agency in accordance with Article 64 or 65 of Regulation (EU) 2018/1139;
+
+3\. for production organisations that have their principal place of business outside a territory for which a Member State is responsible under the Chicago Convention, the Agency;
+
+(b) for Section A, Subparts B, D, E, J, K, M, O and Q, the Agency;
+
+(c) for Section A, Subparts F and G:
+
+1\. for natural or legal persons that have their principal place of business in a territory for which a Member State is responsible under the Chicago Convention, the authority designated by that Member State or by another Member State in accordance with Article 64 of Regulation (EU) 2018/1139, or the Agency if the responsibility has been reallocated to the Agency in accordance with Article 64 or, as regards Subpart G, Article 65 of Regulation (EU) 2018/1139;
+
+2\. for natural or legal persons that have their principal place of business outside a territory for which a Member State is responsible under the Chicago Convention, the Agency;
+
+(d) for Section A, Subpart H and I, the authority designated by the Member State where the aircraft is registered or will be registered:
+
+(e) for Section A, Subpart P:
+
+1\. for aircraft registered in a Member State, the authority designated by the Member State of registry;
+
+2\. for unregistered aircraft, the authority designated by the Member State which prescribed the identification marks;
+
+3\. for the approval of the flight conditions related to the safety of the design, the Agency.
+
+**21.2. Scope**
+
+Section A of this Annex establishes the provisions that lay down the rights and obligations of the applicant for, and holder of, any certificate issued or to be issued in accordance with this Annex.
+
+Section B of this Annex establishes the conditions for conducting the certification oversight and enforcement tasks as well as the administrative and management system requirements to be complied with by the competent authority that is responsible for the implementation of Section A of this Annex.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+**SUBPART A — GENERAL PROVISIONS**
+
+21.A.1 Scope
+
+This Subpart establishes the general rights and obligations of the applicant for, and holder of, any certificate that has been issued or is to be issued in accordance with this Annex.
+
+21.A.2 Undertaking by a person other than the applicant for, or holder of, a certificate
+
+The actions and obligations required to be undertaken by the applicant for, or holder of, a certificate for a product, part, appliance, control and monitoring unit (CMU) or CMU component under this Section may be undertaken on their behalf by any other natural or legal person, provided the applicant for, or holder of, that certificate can show that they have made an agreement with the other person to ensure that the certificate holder’s obligations are and will be properly discharged.
+
+21.A.3A Reporting system
+
+(a) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 4 ) and its delegated and implementing acts, all natural or legal persons that have applied for or hold a type-certificate, restricted type-certificate, supplemental type-certificate, European Technical Standard Order (ETSO) authorisation, major repair design approval or any other relevant approval deemed to have been issued under this Regulation shall:
+
+1\. establish and maintain a system for collecting, investigating and analysing occurrence reports in order to identify adverse trends or to address deficiencies and to extract occurrences whose reporting is mandatory in accordance with point 3 and those which are reported voluntarily. When the principal place of business is located in a Member State, a single system may be established to meet the requirements of Regulation (EU) No 376/2014 of the European Parliament and of the Council and its implementing acts and of Regulation (EU) 2018/1139 and its delegated and implementing acts. The reporting system shall include:
+
+(i) reports of and information related to failures, malfunctions, defects or other occurrences which cause or might cause adverse effects on the continuing airworthiness of the product, part, appliance, UAS, CMU or CMU component covered by the type-certificate, restricted type-certificate, supplemental type-certificate, ETSO authorisation, major repair design approval or by any other relevant approval deemed to have been issued under this Regulation;
+
+(ii) errors, near misses and hazards that do not fall under point (i);
+
+2\. make available to known operators of the product, part, appliance, UAS, CMU or CMU component and, on request, to any person authorised under other implementing or delegated acts the information about the system established in accordance with point 1, and on how to provide reports of and information related to failures, malfunctions, defects or other occurrences referred to in point l(i);
+
+3\. report to the Agency any failure, malfunction, defect or other occurrence of which it is aware and is related to a product, part, appliance, UAS, CMU or CMU component covered by the type-certificate, restricted type-certificate, supplemental type-certificate, ETSO authorisation, major repair design approval or by any other relevant approval deemed to have been issued under this Regulation, and which has resulted or may result in an unsafe condition.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, any natural or legal person that holds or has applied for a production organisation approval certificate under Subpart G of this Section, or that produces a product, part, appliance, UAS, CMU or CMU component under Subpart F of this Section, shall:
+
+1\. establish and maintain a system for collecting and assessing occurrence reports, including reports on errors, near misses and hazards, in order to identify adverse trends or to address deficiencies and extract occurrences whose reporting is mandatory in accordance with points 2 and 3 of this point and those which are reported voluntarily. For organisations that have their principal place of business in a Member State, a single system may be established to meet the requirements of Regulation (EU) No 376/2014 and its implementing acts and of Regulation (EU) 2018/1139 and its delegated and implementing acts;
+
+2\. report to the responsible design approval holder all the cases where products, parts, appliances, UAS, CMUs or CMU components have been released by the production organisation and possible deviations from the applicable design data have been subsequently identified, and investigate with the design approval holder to identify those deviations which could lead to an unsafe condition;
+
+3\. report to the competent authority of the Member State responsible in accordance with point 21.1 and the Agency the deviations that have been identified in accordance with point 21.A.3A(b)2 and which could lead to an unsafe condition;
+
+4\. if the production organisation acts as a supplier to another production organisation, also report to that other organisation all the cases where it has released products, parts, appliances, UAS, CMUs or CMU components to that organisation and the possible deviations from the applicable design data that have been subsequently identified.
+
+(c) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council and its delegated and implementing acts, any natural or legal person, when reporting in accordance with points (a)(3), (b)(2), (b)(3) and (b)(4), shall appropriately protect the confidentiality of the person who reports and of the person(s) mentioned in the report.
+
+(d) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council and its delegated and implementing acts, any natural or legal person shall make the reports referred to in points (a)(3) and (b)(3) in a form and manner established by the Agency or the competent authority, respectively, and dispatch them as soon as practicable and in any case not later than 72 hours after the natural or legal person has identified that the occurrence may lead to a possible unsafe condition, unless exceptional circumstances prevent this.
+
+(e) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council and its delegated and implementing acts, if an occurrence reported under point (a)(3) or under point (b)(3) results from a deficiency in the design or a production deficiency, the holder of the type-certificate, restricted type-certificate, supplemental type-certificate, major repair design approval, ETSO authorisation or any other relevant approval deemed to have been issued under this Regulation, or the production organisation as appropriate, shall investigate the reason for the deficiency and report to the competent authority of the Member State responsible in accordance with point 21.1 and to the Agency the results of its investigation and any action it intends to take or proposes to be taken to correct that deficiency.
+
+(f) If the competent authority finds that action is required to correct the deficiency, the holder of the type-certificate, restricted type-certificate, supplemental type-certificate, major repair design approval, ETSO authorisation or any other relevant approval deemed to have been issued under this Regulation, or the production organisation as appropriate, shall submit the relevant data to the competent authority upon its request.
+
+21.A.3B Airworthiness directives
+
+(a) An airworthiness directive means a document issued or adopted by the Agency which mandates actions to be performed on an aircraft or on a CMU to restore an acceptable level of safety, when evidence shows that the safety level of the aircraft, UAS or CMU may otherwise be compromised.
+
+(b) The Agency shall issue an airworthiness directive when:
+
+1\. an unsafe condition has been determined by the Agency to exist in an aircraft, a UAS or a CMU, as a result of a deficiency in the aircraft, or an engine, propeller, part or appliance installed on this aircraft, or as a result of a deficiency in the CMU or the CMU component; and
+
+2\. that condition is likely to exist or develop in other aircraft, UAS or CMUs.
+
+(c) When an airworthiness directive has to be issued by the Agency to correct the unsafe condition referred to in point (b), or to require the performance of an inspection, the holder of the type-certificate, restricted type-certificate, supplemental type-certificate, major repair design approval, ETSO authorisation or any other relevant approval deemed to have been issued under this Regulation, shall:
+
+1\. propose the appropriate corrective action or required inspections, or both, and submit details of these proposals to the Agency for approval; and
+
+2\. following the approval by the Agency of the proposals referred to in point 1, make available to all known operators or owners of the product, part, appliance, UAS, CMU or CMU component and, on request, to any person required to comply with the airworthiness directive, appropriate descriptive data and accomplishment instructions.
+
+(d) An airworthiness directive shall contain at least the following information:
+
+1\. an identification of the unsafe condition;
+
+2\. an identification of the affected aircraft or CMU;
+
+3\. the action(s) required;
+
+4\. the compliance time for the required action(s);
+
+5\. the date of entry into force of the airworthiness directive.
+
+21.A.4 Coordination between design and production
+
+Each holder of a type-certificate, restricted type-certificate, supplemental type- certificate, ETSO authorisation, approval of a change to type-certificate or approval of a repair design, shall collaborate with the production organisation as necessary to ensure:
+
+(a) the satisfactory coordination of design and production required by 21A.122, 21A.130(b)(3) and (4), 21A.133 and 21A.165(c)(2) and (3) as appropriate, and
+
+(b) the proper support of the continued airworthiness of the product, part, appliance, UAS, CMU or CMU component.
+
+21.A.5 Record-keeping
+
+All natural or legal persons that hold or have applied for a type-certificate, restricted type-certificate, supplemental type-certificate, ETSO authorisation, design or repair approval, permit to fly, production organisation approval certificate or letter of agreement under this Regulation shall:
+
+(a) when they design a product, part, appliance, UAS, CMU or CMU component, or changes or repairs thereto, establish a record-keeping system and maintain the relevant design information/data; that information/data shall be made available to the Agency in order to provide the information/data that is necessary to ensure the continued airworthiness of the product, part, appliance, UAS, CMU or CMU component, the continued validity of the operational suitability data, and compliance with the applicable environmental protection requirements;
+
+(b) when they produce a product, part, appliance, CMU or CMU component, record the details of the production process relevant to the conformity of the product, part, appliance, CMU or CMU component with the applicable design data, and the requirements imposed on their partners and suppliers, and make that data available to their competent authority in order to provide the information that is necessary to ensure the continuing airworthiness of the product, part, appliance, UAS, CMU or CMU component;
+
+(c) with regard to permits to fly:
+
+1\. maintain the documents that are produced to establish and justify the flight conditions, and make them available to the Agency and to their competent authority of the Member State in order to provide the information that is necessary to ensure the continued airworthiness of the aircraft, the UAS and the CMU;
+
+2\. when they issue a permit to fly under the privilege of approved organisations, maintain the documents associated with it, including inspection records and documents that support the approval of the flight conditions and the issuance of the permit to fly itself, and make them available to the Agency and to their competent authority of the Member State responsible for the oversight of the organisation in order to provide the information that is necessary to ensure the continued airworthiness of the aircraft, the UAS and the CMU;
+
+(d) retain records of the competence and qualifications, referred to in points 21.A.139(c), 21.A.145(b), 21.A.145(c), 21.A.239(c), 21.A.245(a) or 21.A.245(e)(1), of the personnel that are involved in the following functions:
+
+1\. design or production;
+
+2\. independent monitoring of the compliance of the organisation with the relevant requirements;
+
+3\. safety management;
+
+(e) retain records of the authorisation of personnel, when they employ personnel that:
+
+1\. exercise the privileges of the approved organisation pursuant to points 21.A.163 and/or 21.A.263, as appropriate;
+
+2\. carry out the independent function to monitor the compliance of the organisation with the relevant requirements pursuant to points 21.A.139(e) and/or 21.A.239(e), as appropriate;
+
+3\. carry out the independent verification function of the demonstration of compliance pursuant to point 21.A.239(d)(2).
+
+21.A.6 Manuals
+
+The holder of a type-certificate, restricted type-certificate, or supplemental type-certificate shall:
+
+‘(a) produce, maintain and update master copies of all manuals or variations in the manuals required by the applicable type-certification basis, the applicable operational suitability data certification basis and the applicable environmental protection requirements for the product, UAS, CMU or article, and provide copies, on request, to the Agency;
+
+(b) for unmanned aircraft, determine whether the installation of a CMU in a physical environment is necessary, and provide the operator with all the necessary instructions for the installation of the CMU and for its installation to be released in accordance with Annex I (Part-ML.UAS) to Commission Delegated Regulation (EU) 2024/1107.
+
+21.A.7 Instructions for continued airworthiness
+
+‘(a) The holder of a type-certificate, restricted type-certificate, supplemental type-certificate, design change or repair design approval shall develop or reference the instructions which are necessary for ensuring that the airworthiness standard related to the aircraft, the UAS and the CMU type and any associated part or CMU component is maintained throughout the operational life of the aircraft or the UAS, when demonstrating compliance with the applicable type-certification basis established and notified by the Agency in accordance with point 21.B.80.
+
+(b) At least one set of complete instructions for continued airworthiness shall be provided by the holder of:
+
+1\. a type-certificate or restricted type-certificate to each known owner of one or more products, UAS or CMUs upon their delivery or upon the issuance of the first certificate of airworthiness or restricted certificate of airworthiness for the affected aircraft, whichever occurs later;
+
+2\. a supplemental type-certificate or design change approval to all known operators of the product, the UAS or the CMU affected by the change upon the release to service of the modified product or modified CMU;
+
+3\. a repair design approval to all known operators of the product or the CMU affected by the repair upon the release to service of the product or the CMU in which the repair design is embodied; the repaired product, part, appliance, CMU or CMU component may be released into service before the related instructions for continued airworthiness have been completed, but this shall be for a limited service period, and in agreement with the Agency.
+
+Thereafter, those design approval holders shall make those instructions available on request to any other person required to comply with those instructions.
+
+(c) By way of derogation from point (b), the type-certificate holder or restricted type-certificate holder may delay the availability of a part of the instructions for continued airworthiness, dealing with long lead accomplishment instructions of a scheduled nature, until after the product or the CMU, or modified product or modified CMU, has entered into service, but shall make those instructions available before the use of this data is required for the product or modified product.
+
+(d) The design approval holder that is required to provide instructions for continued airworthiness in accordance with point (b) shall also make available the changes to those instructions to all known operators of the product, the UAS or the CMU affected by the change and, on request, to any other person required to comply with those changes. That design approval holder shall demonstrate to the Agency, on request, the adequacy of the process of making changes to the instructions for continued airworthiness available in accordance with this point.
+
+21.A.9 Access and investigation
+
+Any natural or legal person that holds or has applied for a type-certificate, restricted type-certificate, supplemental type-certificate, ETSO authorisation, design change or repair approval, certificate of airworthiness, noise certificate, permit to fly, design organisation approval, production organisation approval certificate or letter of agreement under this Regulation, shall:
+
+(a) grant the competent authority access to any facility, product, part, appliance, CMU, CMU component, document, record, data, process, procedure or to any other material in order to review any report, make any inspection, or perform or witness any flight and ground test, as necessary, in order to verify the initial and continued compliance of the organisation with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts;
+
+(b) make arrangements to ensure the competent authority has access, as provided for in point (a), also in respect of the natural or legal person’s partners, suppliers and subcontractors.
+
+**SUBPART B — TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES**
+
+21.A.11 Scope
+
+This Subpart establishes the procedure for issuing type-certificates for products and CMUs and restricted type-certificates for aircraft, and establishes the rights and obligations of the applicants for, and holders of, those certificates.
+
+21.A.13 Eligibility
+
+Any natural or legal person that has demonstrated, or is in the process of demonstrating, its capability in accordance with point 21.A.14 shall be eligible as an applicant for a type-certificate or a restricted type-certificate under the conditions laid down in this Subpart.
+
+21.A.14 Demonstration of capability
+
+(a) An applicant for a type-certificate or restricted type-certificate shall demonstrate its capability by holding a design organisation approval, issued by the Agency in accordance with Subpart J.
+
+(b) By way of derogation from point (a), as an alternative procedure to demonstrate its capability, an applicant may seek the agreement of the Agency for the use of procedures setting out the specific design practices, resources and sequence of activities necessary to comply with this Annex I (Part 21), when the product is one of the following:
+
+1\. an ELA2 aircraft;
+
+2\. an engine or propeller installed in ELA2 aircraft;
+
+3\. a piston engine;
+
+4\. a fixed or adjustable pitch propeller.
+
+(c) By way of derogation from point (a), an applicant may demonstrate its capability by obtaining the Agency's acceptance of its certification programme established in accordance with point 21.A.15(b), where the product to be certified is:
+
+1\. an ELA1 aircraft; or
+
+2\. an engine or propeller installed in ELA1 aircraft.
+
+21.A.15 Application
+
+(a) An application for a type-certificate or restricted type-certificate shall be made in a form and manner established by the Agency.
+
+(b) An application for a type-certificate or restricted type-certificate shall include, as a minimum, preliminary descriptive data of the product, the UAS or the CMU, and the kind of operations for which certification is requested. In addition, it shall include, or be supplemented after the initial application by, a certification programme for the demonstration of compliance in accordance with point 21.A.20, consisting of all of the following:
+
+1\. a detailed description of the type design, including all the configurations to be certified;
+
+2\. the proposed operating characteristics and limitations;
+
+3\. the intended use of the product, the UAS or the CMU, and the kind of operations for which certification is requested;
+
+4\. a proposal for the initial type-certification basis, operational suitability data certification basis and environmental protection requirements, prepared in accordance with the requirements and options specified in points 21.B.80, 21.B.82 and 21.B.85;
+
+5\. a proposal for a breakdown of the certification programme into meaningful groups of compliance demonstration activities and data, including a proposal for the means of compliance and related compliance documents;
+
+6\. a proposal for the assessment of the meaningful groups of compliance demonstration activities and data, addressing the likelihood of an unidentified non-compliance with the type-certification basis, operational suitability data certification basis or environmental protection requirements and the potential impact of that non-compliance on the product or UAS safety or environmental compatibility or on the safety of the CMU. The proposed assessment shall take into account at least the elements set out in points 1 to 4 of point 21.B.100(a). Based on that assessment, the application shall include a proposal for the Agency’s involvement in the verification of the compliance demonstration activities and data;
+
+7\. a project schedule including major milestones.
+
+(c) After its initial submission to the Agency, the certification programme shall be updated by the applicant when there are changes to the certification project affecting any of the points 1 to 7 of point (b).
+
+(d) An application for a type-certificate or restricted type-certificate for an aircraft shall include, or be supplemented after the initial application by, an application supplement for approval of the operational suitability data.
+
+(e) An application for a type-certificate or restricted type-certificate for a large aeroplane or a large rotorcraft shall be valid for 5 years and an application for any other type-certificate or restricted type-certificate shall be valid for 3 years, unless the applicant demonstrates at the time of application that its product, UAS or CMU requires a longer period of time to demonstrate and declare compliance and the Agency agrees to that longer period of time.
+
+(f) In the case where a type-certificate or restricted type-certificate has not been issued, or it is evident that it will not be issued, within the time limit provided for in point (e), the applicant may:
+
+1\. submit a new application and comply with the type-certification basis, operational suitability data certification basis and environmental protection requirements, as established and notified by the Agency in accordance with points 21.B.80, 21.B.82 and 21.B.85 for the date of the new application; or
+
+2\. apply for an extension of the time period provided for in point (e) and propose a new date for the issuance of the type-certificate or restricted type-certificate. In that case, the applicant shall comply with the type-certification basis, operational suitability data certification basis and environmental protection requirements, as established and notified by the Agency in accordance with points 21.B.80, 21.B.82 and 21.B.85 for a date to be selected by the applicant. However, that date shall not precede the new date proposed by the applicant for the issuance of the type-certificate or restricted type-certificate by more than five years for an application for a type-certificate or restricted type-certificate for a large aeroplane or a large rotorcraft, and by more than three years for an application for any other type-certificate or restricted type certificate.
+
+21.A.19 Changes requiring a new type-certificate
+
+Any natural or legal person proposing a change to a product shall apply for a new type-certificate if the Agency finds that the change in the design, power, thrust, or mass is so extensive that a substantially complete investigation of compliance with the applicable type-certification basis is required.
+
+Any natural or legal person proposing a change to a UAS or a CMU shall apply for a new type-certificate if the Agency finds that the change in the design is so extensive that a substantially complete investigation of compliance with the applicable type-certification basis is required.
+
+21.A.20 Demonstration of compliance with the type certification basis, operational suitability data certification basis and environmental protection requirements
+
+(a) Following the acceptance of the certification programme by the Agency, the applicant shall demonstrate compliance with the type certification basis, operational suitability data certification basis and environmental protection requirements, as established and notified to the applicant by the Agency in accordance with points 21.B.80, 21.B.82, 21.B.85, and shall provide the Agency with the means by which such compliance has been demonstrated.
+
+(b) The applicant shall report to the Agency any difficulty or event encountered during the process of demonstration of compliance that may have an appreciable effect on the risk assessment under point 21.A.15(b)(6) or on the certification programme, or may otherwise necessitate a change to the level of involvement of the Agency previously notified to the applicant in accordance with point 21.B.100(c).
+
+(c) The applicant shall record justifications of compliance within the compliance documents as referred to in the certification programme.
+
+(d) After completion of all demonstrations of compliance in accordance with the certification programme, including any inspections and tests in accordance with point 21.A.33, and after all flight tests in accordance with point 21.A.35, the applicant shall declare that:
+
+1\. it has demonstrated compliance with the type-certification basis, operational suitability data certification basis and environmental protection requirements, as established and notified by the Agency, following the certification programme as accepted by the Agency; and
+
+2\. no feature or characteristic has been identified that may make the product, the UAS or the CMU unsafe for the uses for which certification is requested.
+
+(e) The applicant shall submit to the Agency the declaration of compliance provided for in point (d). Where the applicant holds an appropriate design organisation approval, the declaration of compliance shall be made in accordance with Subpart J and submitted to the Agency.
+
+21.A.21 Requirements for the issuance of a type certificate or restricted type certificate
+
+(a) In order to be issued with a product or a CMU type certificate, or with an aircraft restricted type certificate for the aircraft that does not meet the essential requirements laid down in Annex II to Regulation (EU) 2018/1139,, the applicant shall:
+
+1\. demonstrate its capability in accordance with point 21.A.14;
+
+2\. demonstrate compliance in accordance with point 21.A.20;
+
+3\. for an aircraft type certificate or restricted type certificate, demonstrate that the engine or propeller, or both, if installed on the aircraft:
+
+(i) has/have a type certificate issued or determined in accordance with this Regulation; or
+
+(ii) is/are compliant with the aircraft type-certification basis established for aircraft other than unmanned aircraft, or with the UAS type-certification basis for unmanned aircraft, and the environmental protection requirements designated and notified by the Agency as necessary to ensure the safe flight of the aircraft;
+
+4\. for an unmanned aircraft type certificate or restricted type certificate:
+
+(i) demonstrate compliance with the UAS type-certification basis in accordance with point 21.B.80;
+
+(ii) demonstrate that the CMU has a type certificate issued in accordance with this Regulation, if the CMU has been certified separately from the unmanned aircraft.
+
+(b) By way of derogation from point (a)(2), at the applicant’s request included in the declaration referred to in point 21.A.20(d), the applicant is entitled to have the aircraft type certificate or restricted type certificate issued before the applicant has demonstrated compliance with the applicable operational suitability data certification basis, provided that the applicant demonstrates such compliance before the date on which this data is to be actually used.
+
+21.A.31 Type design
+
+(a) The type design shall consist of:
+
+1\. the drawings and specifications, and a listing of those drawings and specifications, necessary to define the configuration and the design features of the product, the UAS or the CMU shown to comply with the applicable type-certification basis and environmental protection requirements;
+
+2\. information on the materials and processes and on the methods of manufacture and assembly of the product and the CMU necessary to ensure the conformity of the product and the CMU;
+
+3\. an approved airworthiness limitations section of the instructions for continued airworthiness as defined by the applicable certification specifications; and
+
+4\. any other data that allows by comparison the determination of the airworthiness and, if relevant, the environmental characteristics of later products andCMUs of the same type.
+
+(b) Each type design shall be adequately identified.
+
+21.A.33 Inspections and tests
+
+(a) (Reserved)
+
+(b) Before each test is undertaken during the demonstration of compliance required by point 21.A.20, the applicant shall have verified:
+
+1\. for the test specimen, that:
+
+(i) the materials and processes adequately conform to the specifications for the proposed type design;
+
+(ii) the parts of the products and the CMU components adequately conform to the drawings in the proposed type design; and
+
+(iii) the manufacturing processes, construction and assembly adequately conform to those specified in the proposed type design; and
+
+2\. for the test and measuring equipment to be used for the test, that those are adequate for the test and appropriately calibrated.
+
+(c) On the basis of the verifications carried out in accordance with point (b), the applicant shall issue a statement of conformity listing any potential non-conformity, together with a justification that this will not affect the test results, and shall allow the Agency to make an inspection it considers necessary to check the validity of that statement.
+
+(d) The applicant shall allow the Agency to:
+
+1\. review any data and information related to the demonstration of compliance; and
+
+2\. witness or carry out any test or inspection conducted for the purpose of the demonstration of compliance.
+
+(e) For all the tests and inspections witnessed or carried out by the Agency in accordance with point (d)(2):
+
+1\. the applicant shall submit to the Agency a statement of conformity provided for in point (c); and
+
+2\. no change that affects the validity of the statement of conformity shall be made to the test specimen, or the test and measuring equipment, between the time the statement of conformity provided for in point (c) was issued and the time the test specimen is presented to the Agency for test.
+
+21.A.35 Flight Tests
+
+(a) Flight testing for the purpose of obtaining a type-certificate shall be conducted in accordance with conditions for such flight testing specified by the Agency.
+
+(b) The applicant shall perform all flight tests that the Agency finds necessary to determine:
+
+1\. compliance with the applicable type-certification basis and environmental protection requirements; and
+
+2\. whether there is reasonable assurance that the aircraft, its parts, appliances, the UAS orthe CMU are reliable and function properly for aircraft, UAS and CMUs to be certified under this Annex, except for:
+
+(i) sailplanes, other than unmanned sailplanes, and powered sailplanes, other than unmanned powered sailplanes;
+
+(ii) balloons and airships defined in ELA1 or ELA2;
+
+(iii) aeroplanes, other than unmanned aeroplanes, with a maximum take-off mass (MTOM) of 2 722 kg or less.
+
+(c) (Reserved)
+
+(d) (Reserved)
+
+(e) (Reserved)
+
+(f) The flight tests prescribed in point (b)(2) shall include:
+
+1\. for aircraft other than unmanned aircraft:
+
+(i) the flight hours that the Agency finds necessary to ensure that its safe operation is demonstrated before the aircraft enters into service and shall be at least 150 hours;
+
+(ii) in particular, for aircraft incorporating turbine engines of a type not previously used in a type-certified aircraft, at least 300 hours of operation with a full complement of engines that conform to a type-certificate;
+
+2\. for UAS and CMUs, the flight hours that the Agency finds necessary, considering the degree of complexity of the design of the aircraft and the CMU and their risk on safety, to ensure that their safe operation is demonstrated before the aircraft and the CMU enter into service.
+
+21.A.41 Type-certificate
+
+The type-certificate and restricted type-certificate shall include the type design, the operating limitations, the instructions for continued airworthiness, the type-certificate data sheet for airworthiness and emissions, the applicable type-certification basis and environmental protection requirements with which the Agency records compliance, and any other conditions or limitations prescribed for the product, the UAS orthe CMU in the applicable certification specifications and environmental protection requirements. The aircraft type-certificate and restricted type-certificate shall include in addition the applicable operational suitability data certification basis, the operational suitability data and the type-certificate data sheet for noise. The aircraft type-certificate and restricted type-certificate data sheet shall include the record of CO2 emissions compliance, and the engine type-certificate data sheet shall include the record of exhaust emissions compliance.
+
+21.A.44 Obligations of the holder
+
+Each holder of a type-certificate or restricted type-certificate shall:
+
+(a) undertake the obligations laid down in points 21.A.3A, 21.A.3B, 21.A.4, 21.A.5, 21.A.6, 21.A.7, 21.A.9, 21.A.62 and 21.A.65, and, for this purpose, shall continue to meet the qualification requirements for eligibility under point 21.A.13;
+
+(b) specify the marking in accordance with Subpart Q.
+
+As from 18 May 2022, the obligation to comply with the obligations listed under point (a) shall be understood as referring to points 21.A.3A, 21.A.3B, 21.A.4, 21.A.5, 21.A.6, 21.A.7, 21.A.62 and 21.A.65; and, for this purpose, each holder of a type-certificate or restricted type-certificate shall continue to meet the qualification requirements for eligibility under point 21.A.14.
+
+21.A.47 Transferability
+
+The transfer of a type-certificate or a restricted type-certificate or an ETSO authorisation for an auxiliary power unit may only be made to a natural or legal person that is able to undertake the obligations laid down in point 21.A.44, and, for this purpose, has demonstrated its capability in accordance with point 21.A.14.
+
+21.A.51 Duration and continued validity
+
+(a) A type-certificate and restricted type-certificate shall be issued for an unlimited duration. They shall remain valid subject to:
+
+1\. the holder remaining in compliance with this Annex 1 (Part 21); and
+
+2\. the certificate not being surrendered or revoked under the applicable administrative procedures established by the Agency.
+
+(b) Upon surrender or revocation, the type-certificate and restricted type-certificate shall be returned to the Agency.
+
+21.A.62 Availability of operational suitability data
+
+The holder of the type-certificate or restricted type-certificate shall make available:
+
+(a) at least one set of complete operational suitability data prepared in accordance with the applicable operational suitability certification basis, to all known EU operators of the aircraft, before the operational suitability data must be used by a training organisation or an EU operator; and
+
+(b) any change to the operational suitability data to all known EU operators of the aircraft; and
+
+(c) on request, the relevant data referred to in points (a) and (b) above, to:
+
+1\. the competent authority responsible for verifying conformity with one or more elements of this set of operational suitability data; and
+
+2\. any person required to comply with one or more elements of this set of operational suitability data.
+
+21.A.65 Continuing structural integrity for aeroplanes structures
+
+The holder of the type-certificate or restricted type-certificate for a large aeroplane shall ensure that the continuing structural integrity programme remains valid throughout the operational life of the aeroplane, taking into account service experience and current operations
+
+**(SUBPART C — NOT APPLICABLE)**
+
+**SUBPART D — CHANGES TO TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES**
+
+21.A.90A Scope
+
+This Subpart establishes the procedure for the approval of changes to type-certificates, and establishes the rights and obligations of the applicants for, and holders of, those approvals. This Subpart also defines standard changes that are not subject to an approval process under this Subpart. In this Subpart, references to type-certificates include type-certificate and restricted type-certificate.
+
+21.A.90B Standard changes
+
+(a) Standard changes are changes to a type-certificate:
+
+1\. in relation to:
+
+(i) aeroplanes with a maximum take-off mass (MTOM) of 5 700 kg or less;
+
+(ii) rotorcraft with a MTOM of 3 175 kg or less;
+
+(iii) sailplanes, powered sailplanes, balloons and airships, as defined in ELA1 or ELA2;
+
+(iv) VTOL-capable aircraft with a MTOM of 5 700 kg or less;
+
+2\. that follow design data included in the certification specifications issued by the Agency, containing acceptable methods, techniques and practices for carrying out and identifying standard changes, including the associated instructions for continued airworthiness; and
+
+3\. that are not in conflict with TC holders data.
+
+(b) Points 21.A.91 to 21.A.109 are not applicable to standard changes.
+
+21.A.90C Stand-alone changes to the Instructions for Continued Airworthiness
+
+(a) Stand-alone changes to the instructions for continued airworthiness are changes that are not directly prepared as a result of a change to the type design or repair design.
+
+(b) Stand-alone changes to the instructions for continued airworthiness can only be made by the holder of the design approval for which those instructions have been established.
+
+(c) Points 21.A.91 to 21.A.109 shall not apply to stand-alone changes to the instructions for continued airworthiness that:
+
+1\. do not affect the airworthiness limitations section of the instructions for continued airworthiness, and
+
+2\. do not require the design approval holder to perform any additional demonstration of compliance with the certification basis.
+
+(d) Stand-alone changes to the instructions for continued airworthiness referred to in point (c) shall be approved by the design approval holder under procedures agreed with the Agency.
+
+21.A.91 Classification of changes to a type certificate
+
+Changes to a type certificate shall be classified as ‘minor’ and ‘major’. A ‘minor change’ has no appreciable effect on the mass, balance, structural strength, reliability, operational characteristics, certified noise or emissions levels, operational suitability data, or other characteristics affecting the airworthiness or the environmental compatibility of the product or of the UAS, or no appreciable effect on the reliability, operational characteristics, or other characteristics affecting the airworthiness of the CMU. Without prejudice to point 21.A.19, all other changes shall be considered ‘major changes’ under this Subpart. Major and minor changes shall be approved in accordance with points 21.A.95 or 21.A.97, as appropriate, and shall be adequately identified.
+
+21.A.92 Eligibility
+
+(a) Only the type-certificate holder may apply for approval of a major change to a type-certificate under this Subpart; all other applicants for a major change to a type-certificate shall apply under Subpart E.
+
+(b) Any natural or legal person may apply for approval of a minor change to a type-certificate under this Subpart.
+
+21.A.93 Application
+
+(a) An application for approval of a change to a type-certificate shall be made in a form and manner established by the Agency.
+
+(b) An application shall include, or be supplemented after the initial application by, a certification programme for the demonstration of compliance in accordance with point 21.A.20, consisting of:
+
+1\. a description of the change identifying:
+
+(i) the configuration(s) of the product, the UAS or the CMU in the type certificate upon which the change is to be made;
+
+(ii) all areas of the product, the UAS or the CMU in the type certificate, including the approved manuals, which are changed or affected by the change; and
+
+(iii) when the change affects the operational suitability data, any necessary changes to the operational suitability data;
+
+2\. an identification of any reinvestigations necessary to demonstrate compliance of the change, and of the areas affected by the change, with the applicable type-certification basis, operational suitability data certification basis and environmental protection requirements; and
+
+3\. for a major change to a type certificate:
+
+(i) a proposal for the initial type-certification basis, operational suitability data certification basis and environmental protection requirements, prepared in accordance with the requirements and options specified in point 21.A.101;
+
+(ii) a proposal for a breakdown of the certification programme into meaningful groups of compliance demonstration activities and data, including a proposal for the means of compliance and related compliance documents;
+
+(iii) a proposal for the assessment of the meaningful groups of compliance demonstration activities and data, addressing the likelihood of an unidentified non-compliance with the applicable type-certification basis, operational suitability data certification basis or environmental protection requirements and the potential impact of that non-compliance on the product or UAS safety or environmental compatibility or on the safety of the CMU; the proposed assessment shall take into account at least the elements set out in points 1 to 4 of point 21.B.100(a). Based on that assessment, the application shall include a proposal for the Agency’s involvement in the verification of the compliance demonstration activities and data; and
+
+(iv) a project schedule including major milestones.
+
+(c) An application for a change to a type-certificate of a large aeroplane or a large rotorcraft shall be valid for five years and an application for a change to any other type-certificate shall be valid for three years. In the case where the change has not been approved, or it is evident that it will not be approved, within the time limit provided for in this point, the applicant may:
+
+1\. submit a new application for a change to the type-certificate and comply with the type-certification basis, operational suitability data certification basis and environmental protection requirements, as established by the Agency in accordance with point 21.A.101 and notified in accordance with point 21.B.105 for the date of the new application; or
+
+2\. apply for an extension of the time period provided for in the first sentence of point (c) for the original application and propose a new date for the issuance of the approval. In that case, the applicant shall comply with the type-certification basis, operational suitability data certification basis and environmental protection requirements, as established by the Agency in accordance with point 21.A.101 and notified in accordance with point 21.B.105, for a date to be selected by the applicant. However, that date shall not precede the new date proposed by the applicant for the issuance of the approval by more than five years for an application for a change to type-certificate or restricted type-certificate for a large aeroplane or a large rotorcraft, and by more than three years for an application for a change to any other type-certificate or restricted type certificate.
+
+21.A.95 Requirements for approval of a minor change
+
+(a) Minor changes to a type-certificate shall be classified and approved by:
+
+1\. the Agency; or
+
+2\. an approved design organisation within the scope of its privileges provided for in points (1) and (2) of point 21.A.263(c), as recorded in the terms of approval.
+
+(b) A minor change to a type-certificate shall only be approved:
+
+1\. when it has been demonstrated that the change and areas affected by the change comply with the type-certification basis and the environmental protection requirements incorporated by reference in the type-certificate;
+
+2\. in the case of a change affecting the operational suitability data, when it has been demonstrated that the necessary changes to the operational suitability data comply with the operational suitability data certification basis incorporated by reference in the type-certificate;
+
+3\. when compliance with the type-certification basis and the environmental protection requirements that apply in accordance with point 1 has been declared and the justifications of compliance have been recorded in the compliance documents; and
+
+4\. when no feature or characteristic has been identified that may make the product or the CMU unsafe for the uses for which certification is requested.
+
+(c) By derogation from point (1) in point (b), certification specifications which became applicable after those incorporated by reference in the type-certificate can be used for approval of a minor change, provided they do not affect the demonstration of compliance.
+
+(d) By way of derogation from point (a), at the applicant’s request included in the declaration referred to in point 21.A.20(d), a minor change to an aircraft type-certificate may be approved before compliance with the applicable operational suitability data certification basis has been demonstrated, provided that the applicant demonstrates such compliance before the date on which this data is actually used.
+
+(e) The applicant shall submit to the Agency the substantiation data for the change and a statement that compliance has been demonstrated in accordance with point (b).
+
+(f) An approval of a minor change to a type-certificate shall be limited to the specific configuration(s) in the type-certificate to which the change relates.
+
+21.A.97 Requirements for approval of a major change
+
+(a) Major changes to a type-certificate shall be classified and approved by:
+
+1\. the Agency; or
+
+2\. an approved design organisation within the scope of its privileges provided for in points (1) and (8) of point 21.A.263(c), as recorded in the terms of approval.
+
+(b) A major change to a type-certificate shall only be approved:
+
+1\. when it has been demonstrated that the change and areas affected by the change comply with the type-certification basis and environmental protection requirements, as established by the Agency in accordance with point 21.A.101;
+
+2\. in the case of a change affecting the operational suitability data, when it has been demonstrated that the necessary changes to the operational suitability data meet the operational suitability data certification basis, as established by the Agency in accordance with point 21.A.101; and
+
+3\. when compliance with points (1) and (2) has been demonstrated in accordance with point 21.A.20, as applicable to the change.
+
+(c) By way of derogation from points (2) and (3) of point (b), at the applicant’s request included in the declaration referred to in point 21.A.20(d), a major change to an aircraft type-certificate may be approved before compliance with the applicable operational suitability data certification basis has been demonstrated, provided that the applicant demonstrates such compliance before the date on which this data is actually used.
+
+(d) An approval of a major change to a type-certificate shall be limited to the specific configuration(s) in the type-certificate to which the change relates.
+
+21.A.101 Type-certification basis, operational suitability data certification basis and environmental protection requirements for a major change to a type-certificate
+
+(a) A major change to a type-certificate and the areas affected by the change shall comply with either the certification specifications applicable to the changed product, UAS or CMU on the date of the application for the change or the certification specifications which became applicable after that date in accordance with point (f). The validity of the application shall be determined in accordance with point 21.A.93(c). In addition, the changed product or the changed UAS shall comply with the environmental protection requirements designated by the Agency in accordance with point 21.B.85.
+
+(b) Except as provided for in point (h), by way of derogation from point (a), an earlier amendment to a certification specification referred to in point (a) and to any other certification specification which is directly related may be used in any of the following situations, unless the earlier amendment became applicable before the date on which the corresponding certification specifications incorporated by reference in the type-certificate became applicable:
+
+1\. a change that the Agency does not find to be significant; in determining whether a specific change is significant, the Agency shall consider the change in the context of all previous relevant design changes and all related revisions to the applicable certification specifications incorporated by reference in the type-certificate for the product or the CMU; changes that meet one of the following criteria shall automatically be considered significant:
+
+(i) the general configuration or the principles of construction are not retained;
+
+(ii) the assumptions used for the certification of the product, the UAS or the CMU to be changed do not remain valid;
+
+2\. each area, system, part, appliance or CMU component that the Agency finds not to be affected by the change;
+
+3\. each area, system, part, appliance or CMU component that is affected by the change for which the Agency finds that compliance with the certification specifications referred to in point (a) does not contribute materially to the level of safety of the changed product, changed UAS or changed CMU, or is impractical.
+
+(c) By derogation from point (a), in the case of a change to an aircraft other than a rotorcraft of 2 722 kg (6 000 lb) or less maximum weight, or to a non-turbine rotorcraft of 1 361 kg (3 000 lb) or less maximum weight, the change and areas affected by the change shall comply with the type-certification basis incorporated by reference in the type-certificate. However, if the Agency finds that the change is significant in an area, the Agency may require that the change and areas affected by the change comply with an amendment to a certification specification of the type-certification basis incorporated by reference in the type-certificate and with any other certification specification which is directly related, unless the Agency also finds that compliance with that amendment does not contribute materially to the level of safety of the changed product or is impractical.
+
+(d) If the Agency finds that the certification specifications applicable on the date of the application for the change do not provide adequate standards with respect to the proposed change, the change and areas affected by the change shall also comply with any special conditions, and amendments to those special conditions, prescribed by the Agency in accordance with point 21.B.75, to provide a level of safety equivalent to that established by the certification specifications applicable on the date of the application for the change.
+
+(e) By derogation from points (a), (b) and (c), the change and areas affected by the change may comply with an alternative to a certification specification designated by the Agency if proposed by the applicant, provided that the Agency finds that the alternative provides a level of safety which is:
+
+1\. in the case of a type-certificate:
+
+(i) equivalent to that of the certification specifications designated by the Agency under (a), (b) or (c) above; or
+
+(ii) compliant with the essential requirements of Annex II to Regulation (EU) 2018/1139;
+
+2\. in the case of a restricted type-certificate, adequate with regard to the intended use.
+
+(f) If an applicant chooses to comply with a certification specification set out in an amendment that becomes applicable after submitting the application for a change to a type-certificate, the change and areas affected by the change shall also comply with any other certification specification which is directly related.
+
+(g) When the application for a change to a type-certificate for an aircraft includes, or is supplemented after the initial application to include, changes to the operational suitability data, the operational suitability data certification basis shall be established in accordance with points (a)-(f).
+
+(h) For large aeroplanes subject to point 26.300 of Annex I to Commission Regulation (EU) 2015/640 ( 5 ), the applicant shall comply with certification specifications that provide at least an equivalent level of safety to points 26.300 and 26.330 of Annex I to Regulation (EU) 2015/640, except for applicants for supplemental type-certificates who are not required to take into account point 26.303.
+
+21.A.108 Availability of operational suitability data
+
+In the case of a change affecting the operational suitability data, the holder of the minor change approval shall make available:
+
+(a) at least one set of changes to the operational suitability data prepared in accordance with the applicable operational suitability data certification basis to all known EU operators of the changed aircraft, before the operational suitability data must be used by a training organisation or an EU operator; and
+
+(b) any further change to the affected operational suitability data, to all known EU operators of the changed aircraft; and
+
+(c) on request, the relevant parts of the changes in points (a) and (b) above, to:
+
+1\. the competent authority responsible for verifying conformity with one or more elements of the affected operational suitability data; and
+
+2\. any person required to comply with one or more elements of this set of operational suitability data.
+
+21.A.109 Obligations and EPA marking
+
+The holder of a minor change approval to a type-certificate shall:
+
+(a) undertake the obligations laid down in points 21.A.4, 21.A.5, 21.A.6, 21.A.7, 21.A.9 and 21.A.108;
+
+(b) specify the marking, including EPA (European Part Approval) letters, in accordance with point 21.A.804(a).
+
+**SUBPART E — SUPPLEMENTAL TYPE-CERTIFICATES**
+
+21.A.111 Scope
+
+This Subpart establishes the procedure for the approval of major changes to the type-certificate under supplemental type-certificate procedures, and establishes the rights and obligations of the applicants for, and holders of, those certificates. In this Subpart, the references to type-certificates include type-certificates and restricted type-certificates.
+
+21.A.112A Eligibility
+
+Any natural or legal person that has demonstrated, or is in the process of demonstrating, its capability in accordance with point 21.A.112B may apply for a supplemental type-certificate in accordance with the conditions laid down in this Subpart.
+
+21.A.112B Demonstration of capability
+
+(a) An applicant for a supplemental type-certificate shall demonstrate its capability by holding a design organisation approval, issued by the Agency in accordance with Subpart J.
+
+(b) By way of derogation from point (a), as an alternative procedure to demonstrate its capability, an applicant may seek Agency agreement for the use of procedures setting out the specific design practices, resources and sequence of activities necessary to comply with this Subpart.
+
+(c) By way of derogation from point (a), in the case of products referred to in point 21.A.14(c), an applicant may demonstrate its capability by obtaining the Agency's acceptance of its certification programme established in accordance with point 21.A.93(b).
+
+21.A.113 Application for a supplemental type-certificate
+
+(a) An application for a supplemental type-certificate shall be made in a form and manner established by the Agency.
+
+(b) When applying for a supplemental type-certificate, the applicant shall:
+
+(i) include in the application the information required by point 21.A.93(b);
+
+(ii) specify whether the certification data has been or will be prepared completely by the applicant or on the basis of an arrangement with the owner of the type-certification data.
+
+(c) Point 21.A.93(c) applies to the requirements for the time limits of the application effectivity as well as the requirements related to the need to update the type-certification basis, operational suitability data certification basis and environmental protection requirements, when the change has not been approved or it is evident that it will not be approved within the time limit established.
+
+21.A.115 Requirements for approval of major changes in the form of a supplemental type-certificate
+
+(a) Supplemental type certificates shall be issued by:
+
+1\. the Agency; or
+
+2\. an approved design organisation within the scope of its privileges provided for in points (1) and (9) of point 21.A.263(c), as recorded in the terms of approval.
+
+(b) A supplemental type-certificate shall only be issued when:
+
+1\. the applicant has demonstrated its capability in accordance with point 21.A.112B;
+
+2\. it has been demonstrated that the change to a type-certificate and areas affected by the change comply with the type-certification basis and the environmental protection requirements, as established by the Agency in accordance with point 21.A.101;
+
+3\. in the case of a supplemental type-certificate affecting the operational suitability data, it has been demonstrated that the necessary changes to the operational suitability data meet the operational suitability data certification basis, as established by the Agency in accordance with point 21.A.101;
+
+4\. compliance with points (2) and (3) has been demonstrated in accordance with point 21.A.20, as applicable to the change; and
+
+5\. in case the applicant has specified that it provided certification data on the basis of an arrangement with the owner of the type-certification data in accordance with point 21.A.113(b):
+
+(i) the type-certificate holder has indicated that it has no technical objection to the information submitted under point 21.A.93; and
+
+(ii) the type-certificate holder has agreed to collaborate with the supplemental type-certificate holder to ensure the discharge of all the obligations as regards the continued airworthiness of the changed product, changed UAS or the changed CMU through compliance with points 21.A.44 and 21.A.118A.
+
+(c) By way of derogation from points (3) and (4) of point (b), at the applicant’s request included in the declaration referred to in point 21.A.20(d), the applicant is entitled to have a supplemental type-certificate for an aircraft issued before the applicant has demonstrated compliance with the applicable operational suitability data certification basis, provided that the applicant demonstrates such compliance before the date on which this data is to be actually used.
+
+(d) A supplemental type-certificate shall be limited to the specific configuration(s) in the type-certificate to which the related major change relates.
+
+21.A.116 Transferability
+
+A supplemental type-certificate shall only be transferred to a natural or legal person that is able to undertake the obligations of point 21.A.118A and for this purpose has demonstrated its ability to qualify under the criteria of point 21.A.112B except for ELA1 aircraft for which the natural or legal person has sought the Agency agreement for the use of procedures setting out its activities to undertake these obligations.
+
+21.A.117 Changes to that part of a product covered by a supplemental type-certificate
+
+(a) Minor changes to that part of a product, an UAS or a CMU that is covered by a supplemental type-certificate shall be classified and approved in accordance with Subpart D.
+
+(b) Each major change to that part of a product, an UAS or a CMU that is covered by a supplemental type-certificate shall be approved as a separate supplemental type-certificate in accordance with this Subpart.
+
+(c) By way of derogation from point (b), a major change to that part of a product, an UAS or a CMU that is covered by a supplemental type-certificate submitted by the supplemental type-certificate holder itself may be approved as a change to the existing supplemental type-certificate.
+
+21.A.118A Obligations and EPA marking
+
+Each holder of a supplemental type-certificate shall:
+
+(a) undertake the obligations:
+
+1\. laid down in points 21.A.3A, 21.A.3B, 21.A.4, 21.A.5, 21.A.6, 21.A.7, 21.A.9 and 21.A.120B;
+
+2\. implicit in the collaboration with the type-certificate holder under point 21.A.115(b)(5)(ii);
+
+and for this purpose continue to meet the criteria of point 21.A.112B;
+
+(b) specify the marking, including EPA letters, in accordance with point 21.A.804(a).
+
+21.A.118B Duration and continued validity
+
+(a) A supplemental type-certificate shall be issued for an unlimited duration. It shall remain valid subject to:
+
+1\. the holder remaining in compliance with this Annex I (Part 21); and
+
+2\. the certificate not being surrendered or revoked under the applicable administrative procedures established by the Agency.
+
+(b) Upon surrender or revocation, the supplemental type-certificate shall be returned to the Agency.
+
+21.A.120B Availability of operational suitability data
+
+In the case of a change affecting the operational suitability data, the holder of the supplemental type-certificate shall make available:
+
+(a) at least one set of changes to the operational suitability data prepared in accordance with the applicable operational suitability data certification basis to all known EU operators of the changed aircraft before the operational suitability data is used by a training organisation or an EU operator; and
+
+(b) any further change to the affected operational suitability data, to all known EU operators of the changed aircraft; and
+
+(c) on request, the relevant parts of the changes in points (a) and (b) above, to:
+
+1\. the competent authority responsible for verifying conformity with one or more elements of the affected operational suitability data; and
+
+2\. any person required to comply with one or more elements of this set of operational suitability data.
+
+**SUBPART F — PRODUCTION WITHOUT PRODUCTION ORGANISATION APPROVAL**
+
+21.A.121 Scope
+
+(a) This Subpart establishes the procedure for demonstrating conformity with the applicable design data of a product, part, appliance, CMU and CMU component that are intended to be manufactured without a production organisation approval under Subpart G.
+
+(b) This Subpart establishes the obligations of the manufacturer of a product, part, appliance CMU and CMU component manufactured under this Subpart.
+
+21.A.122 Eligibility
+
+Any natural or legal person may apply to show conformity of individual products, parts, appliances, CMUs and CMU components under this Subpart, if:
+
+(a) it holds or has applied for an approval that covers the design of that product, part, appliance, CMU and CMU component; or
+
+(b) it has ensured satisfactory coordination between production and design, through an appropriate arrangement with the applicant for, or holder of, an approval of such a design.
+
+21.A.124 Application
+
+(a) Each application for an agreement to the showing of conformity of individual products, parts, appliances, CMUs and CMU components under this Subpart shall be made in a form and manner established by the competent authority.
+
+(b) Such application shall contain:
+
+1\. evidence which demonstrates, where applicable, that:
+
+(i) the issuance of a production organisation approval under Subpart G would be inappropriate; or
+
+(ii) the certification or approval of a product, part, appliance, UAS, CMU or CMU component under this Subpart is required pending the issuance of a production organisation approval under Subpart G;
+
+2\. an outline of the information required under point 21.A.125A(b).
+
+21.A.124A Means of compliance
+
+(a) An organisation may use any alternative means of compliance to establish compliance with this Regulation.
+
+(b) If an organisation wishes to use an alternative means of compliance, it shall, prior to using it, provide the competent authority with a full description. The description shall include any revisions to manuals or procedures that may be relevant, as well as an explanation indicating how compliance with this Regulation is achieved.
+
+The organisation may use those alternative means of compliance subject to prior approval from the competent authority.
+
+21.A.125A Issuance of a letter of agreement
+
+The applicant shall be entitled to have a letter of agreement issued by the competent authority agreeing to the showing of conformity of individual products, parts, appliances, CMUs or CMU components under this Subpart, after:
+
+(a) having established a production inspection system which ensures that each product, part, appliance, CMU or CMU component conforms to the applicable design data and is in a condition for safe operation;
+
+(b) having provided a manual that contains:
+
+1\. a description of the production inspection system required under point (a);
+
+2\. a description of the means for making the determination of the production inspection system;
+
+3\. a description of the tests required in points 21.A.127 and 21.A.128, and the names of persons authorised for the purpose of point 21.A.130(a);
+
+(c) demonstrating that it is able to provide assistance in accordance with points 21.A.3A and 21.A.129(d).
+
+21.A.125B Findings and observations
+
+(a) After receipt of the notification of findings in accordance with point 21.B.125, the holder of a letter of agreement shall:
+
+1\. identify the root cause(s) of, and contributing factor(s) to, the non-compliance;
+
+2\. define a corrective action plan;
+
+3\. demonstrate the implementation of the corrective action to the satisfaction of the competent authority.
+
+(b) The actions referred to in point (a) shall be performed within the period agreed with that competent authority in accordance with point 21.B.125.
+
+(c) The observations received in accordance with point 21.B.125(e) shall be given due consideration by the holder of the letter of agreement. The organisation shall record the decisions taken in respect of those observations.
+
+21.A.125C Duration and continued validity
+
+(a) The letter of agreement shall be issued for a limited period of time that in any case shall not exceed 1 year. It shall remain valid subject to the organisation’s compliance with all the following conditions:
+
+1\. the production organisation continues to comply with the applicable requirements of this Annex;
+
+2\. the production organisation or any of its partners, suppliers or subcontractors acknowledges that the competent authority may carry out investigations in accordance with point 21.A.9;
+
+3\. the production organisation is able to provide the competent authority with evidence showing that it maintains satisfactory control of the manufacture of products, parts, appliances, CMUs or CMU components under the letter of agreement;
+
+4\. the letter of agreement has not been revoked by the competent authority under point 21.B.65, has not been surrendered by the production organisation, and its duration has not expired.
+
+(b) Upon surrender, revocation or expiry, the letter of agreement shall be returned to the competent authority.
+
+21.A.126 Production inspection system
+
+(a) The production inspection system required under point 21.A.125A(a) shall provide a means for determining that:
+
+1\. incoming materials and bought or subcontracted parts are as specified in the applicable design data;
+
+2\. incoming materials, and bought or subcontracted parts, are properly identified;
+
+3\. processes, manufacturing techniques and methods of assembly affecting the quality and safety of the finished product, part, appliance, UAS, CMU or CMU component are accomplished in accordance with the specifications accepted by the competent authority;
+
+4\. design changes, including material substitution, have been approved under this Annex and controlled before being incorporated in the finished product part, appliance, UAS, CMU or CMU component.
+
+(b) The production inspection system required by point 21.A.125A(a), shall also be such as to ensure that:
+
+1\. parts in process are inspected for conformity with the applicable design data at points in production where accurate determinations can be made;
+
+2\. materials subject to damage and deterioration are suitably stored and adequately protected;
+
+3\. current design drawings are readily available to manufacturing and inspection personnel, and used when necessary;
+
+4\. rejected materials and parts are segregated and identified in a manner that precludes their installation in the finished product, part, appliance, CMU or CMU component;
+
+5\. materials and parts that are withheld because of deviations from type design or production specifications, and that are to be considered for installation in the finished product, part, appliance, CMU or CMU component are subjected to an approved engineering and manufacturing review procedure; those materials and parts that have been found in that procedure to be serviceable shall be properly identified and reinspected if it is necessary to be reworked or repaired; materials and parts rejected in that procedure shall be marked and disposed of to ensure that they are not incorporated in the final product;
+
+21.A.127 Tests: aircraft
+
+(a) Each manufacturer of an aircraft manufactured under this Subpart shall establish an approved production ground and flight test procedure and check-off forms, and in accordance with those forms, test each aircraft produced, as a means of establishing relevant aspects of compliance with point 21.A.125A(a).
+
+(b) Each production test procedure shall include at least the following:
+
+1\. a check on handling qualities;
+
+2\. a check on flight performance (using normal aircraft instrumentation);
+
+3\. a check on the proper functioning of all aircraft equipment and systems;
+
+4\. a determination that all instruments are properly marked, and that all placards and required flight manuals are installed after flight test;
+
+5\. a check of the operational characteristics of the aircraft on the ground;
+
+6\. a check on any other items peculiar to the aircraft being tested.
+
+21.A.128 Tests: engines, propellers, and control and monitoring units (CMUs)
+
+Each manufacturer of engines, propellers or CMUs manufactured under this Subpart shall subject each engine, variable pitch propeller, or CMU to an acceptable functional test as specified in the type-certificate holder’s documentation, to determine whether it operates properly throughout the range of operation for which it is type certified, as a means of establishing relevant aspects of compliance with point 21.A.125A(a).
+
+21.A.129 Obligations of the production organisation
+
+Each manufacturer of a product, part, appliance, CMU or CMU component manufactured under this Subpart shall:
+
+(a) make each product, part, appliance, CMU or CMU component available for inspection by the competent authority;
+
+(b) maintain at the place of manufacture the technical data and drawings necessary to determine whether the product, part, appliance, CMU or CMU component conforms to the applicable design data;
+
+(c) maintain the production inspection system which ensures that each product, part, appliance, CMU or CMU component conforms to the applicable design data and is in a condition for safe operation;
+
+(d) provide assistance to the holder of the type-certificate, restricted type-certificate or design approval in dealing with any continuing airworthiness actions that are related to the products, parts, appliances, CMUs or CMU components that have been produced;
+
+(e) comply with Subpart A of this Section.
+
+21.A.130 Statement of conformity
+
+(a) Each manufacturer of a product, part, appliance, CMU or CMU component manufactured under this Subpart shall present a statement of conformity, an EASA Form 52 (see Appendix VIII), for complete aircraft, or an EASA Form 1 (see Appendix I), for other products, parts or appliances, CMUs or CMU components. This statement shall be signed by an authorised person who holds a responsible position in the manufacturing organisation.
+
+(b) A statement of conformity shall include all of the following:
+
+1\. for each product, part, appliance, CMU or CMU component, a statement that the product, part, appliance, CMU or CMU component conforms to the approved design data and is in a condition for safe operation;
+
+2\. for each aircraft, a statement that the aircraft has been ground- and flight-checked in accordance with point 21.A.127(a);
+
+3\. for each engine, variable pitch propeller or CMU, a statement that the engine, variable pitch propeller or CMU has been subjected by the manufacturer to a final functional test in accordance with point 21.A.128;
+
+4\. additionally, in the case of environmental protection requirements:
+
+(i) a statement that the completed engine is in compliance with the applicable engine exhaust emissions requirements on the date of manufacture of the engine; and
+
+(ii) a statement that the completed aeroplane is in compliance with the applicable CO2 emissions requirements on the date its first certificate of airworthiness is issued.
+
+(c) Each manufacturer of a product, part, appliance, CMU or CMU component referred to in point (a) shall present a current statement of conformity for validation by the competent authority in any of the following situations:
+
+1\. upon the initial transfer by it of the ownership of such a product, part, appliance, CMU or CMU component;
+
+2\. upon application for the original issue of an aircraft certificate of airworthiness;
+
+3\. upon application for the original issue of an airworthiness release document for an engine, a propeller, a part, an appliance, a CMU and a CMU component.
+
+(d) The competent authority shall validate by countersignature the statement of conformity if it finds after inspection that the product, part, appliance, CMU or CMU component conforms to the applicable design data and is in a condition for safe operation.
+
+**SUBPART G — PRODUCTION ORGANISATION APPROVAL**
+
+21.A.131 Scope
+
+This Subpart establishes:
+
+(a) the procedure for the issuance of a production organisation approval for a production organisation that shows the conformity of products, parts, appliances, CMUs or CMU components with the applicable design data;
+
+(b) the rights and obligations of the applicant for, and holder of, such approvals.
+
+21.A.133 Eligibility
+
+Any natural or legal person (‘organisation’) shall be eligible as an applicant for an approval under this Subpart. The applicant shall:
+
+(a) justify that, for a defined scope of work, an approval under this Subpart is appropriate for the purpose of showing conformity with a specific design; and
+
+(b) hold or have applied for an approval of that specific design; or
+
+(c) have declared or intends to declare compliance of that specific design in accordance with Subpart C of Section A of Annex Ib (Part 21 Light); or
+
+(d) have ensured satisfactory coordination between production and design, through an appropriate arrangement with:
+
+(1) the applicant for, or holder of, an approval of that specific design issued in accordance with this Regulation; or
+
+(2) the natural or legal person who made a declaration of compliance of that specific design in accordance with Subpart C of Section A of Annex Ib (Part 21 Light).
+
+21.A.134 Application
+
+Each application for a production organisation approval shall be made to the competent authority in a form and manner established by that authority, and shall include an outline of the information required by point 21.A.143 and the terms of approval requested to be issued under point 21.A.151.
+
+21.A.134A Means of compliance
+
+(a) An organisation may use any alternative means of compliance to establish compliance with this Regulation.
+
+(b) If an organisation wishes to use an alternative means of compliance, it shall, prior to using it, provide the competent authority with a full description. The description shall include any revisions to manuals or procedures that may be relevant, as well as an explanation indicating how compliance with this Regulation is achieved.
+
+The organisation may use those alternative means of compliance subject to prior approval from the competent authority.
+
+21.A.135 Issuance of production organisation approval
+
+An organisation shall be entitled to have a production organisation approval issued by the competent authority when it has demonstrated compliance with the applicable requirements under this Subpart.
+
+21.A.139 Production management system
+
+(a) The production organisation shall establish, implement and maintain a production management system that includes a safety management element and a quality management element, with clearly defined accountability and lines of responsibility throughout the organisation.
+
+(b) The production management system shall:
+
+1\. correspond to the size of the organisation, and to the nature and complexity of its activities, taking into account the hazards and associated risks inherent in those activities;
+
+2\. be established, implemented and maintained under the direct accountability of a single manager appointed pursuant to point 21.A.145(c)(1).
+
+(c) As part of the safety management element of the production management system, the production organisation shall:
+
+1\. establish, implement and maintain a safety policy and the corresponding related safety objectives;
+
+2\. appoint key safety personnel in accordance with point 21.A.145(c)(2);
+
+3\. establish, implement and maintain a safety risk management process to identify safety hazards entailed by its aviation activities, evaluate them and manage associated risks, including taking actions to mitigate the risks and verify their effectiveness;
+
+4\. establish, implement and maintain a safety assurance process that includes:
+
+(i) the measurement and monitoring of the organisation’s safety performance;
+
+(ii) the management of changes in accordance with point 21.A.147;
+
+(iii) the principles for the continuous improvement of the safety management element;
+
+5\. promote safety in the organisation through:
+
+(i) training and education;
+
+(ii) communication;
+
+6\. establish an occurrence reporting system in accordance with point 21.A.3A in order to contribute to the continuous improvement of safety.
+
+(d) as part of the quality management element of the production management system, the production organisation shall:
+
+1\. ensure that each product, part, appliance, CMU or CMU component produced by the organisation or by its partners, or supplied from or subcontracted to outside parties, conforms to the applicable design data and is in a condition for safe operation, thus enabling the exercise of the privileges set out in point 21.A.163;
+
+2\. establish, implement and maintain, as appropriate, within the scope of the approval, control procedures for:
+
+(i) document issue, approval or change;
+
+(ii) vendor and subcontractor assessment audit and control;
+
+(iii) verifying that incoming products, parts, materials, equipment, CMUs or CMU components, including items supplied new or used by the buyers of the products, are as specified in the applicable design data;
+
+(iv) identification and traceability;
+
+(v) manufacturing processes;
+
+(vi) inspection and testing, including production flight tests;
+
+(vii) the calibration of tools, jigs, and test equipment;
+
+(viii) non-conforming item control;
+
+(ix) airworthiness coordination with:
+
+(A) the applicant for, or holder of, the design approval;
+
+(B) the natural or legal person who made a declaration of design compliance in accordance with Subpart C of Section A of Annex Ib (Part 21 Light);
+
+(x) the completion and retention of records;
+
+(xi) the competence and qualifications of personnel;
+
+(xii) the issue of airworthiness release documents;
+
+(xiii) handling, storage and packing;
+
+(xiv) internal quality audits and the resulting corrective actions;
+
+(xv) work within the terms of approval performed at any location other than the approved facilities;
+
+(xvi) work performed after the completion of production but prior to delivery, to maintain the aircraft in a condition for safe operation;
+
+(xvii) the issue of a permit to fly and approval of the associated flight conditions.
+
+3\. include specific provisions in the control procedures for any critical parts.
+
+(e) The production organisation shall establish, as part of the production management system, an independent monitoring function to verify compliance of the organisation with the relevant requirements of this Annex as well as compliance with and adequacy of the production management system. Monitoring shall include feedback to the person or group of persons referred to in point 21.A.145(c)(2) and to the manager referred to in point 21.A.145(c)(1) to ensure, where necessary, the implementation of corrective action.
+
+(f) If the production organisation holds one or more additional organisation certificates within the scope of Regulation (EU) 2018/1139, the production management system may be integrated with that required under the additional certificate(s) held.
+
+21.A.139A Information security management system
+
+In addition to the production management system required by point 21.A.139, the production organisation shall establish, implement and maintain an information security management system in accordance with Commission Delegated Regulation (EU) 2022/1645 ( 6 ) in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+21.A.143 Production organisation exposition
+
+(a) The production organisation shall establish and maintain a production organisation exposition (POE) that provides directly or by cross reference the following information related to the production management system as described in point 21.A.139:
+
+1\. a statement signed by the accountable manager confirming that the production organisation exposition and any associated manuals which define the approved organisation’s compliance with this Subpart will be complied with at all times;
+
+2\. the title(s) and names of managers accepted by the competent authority in accordance with point 21.A.145(c)(2);
+
+3\. the duties and responsibilities of the manager(s) as required by point 21.A.145(c)(2) including matters on which they may deal directly with the competent authority on behalf of the organisation;
+
+4\. an organisational chart showing associated chains of responsibility of the managers as required by point 21.A.145(c)(1) and (2);
+
+5\. a list of certifying staff as referred to in point 21.A.145(d);
+
+6\. a general description of man-power resources;
+
+7\. a general description of the facilities located at each address specified in the production organisation’s certificate of approval;
+
+8\. a general description of the production organisation’s scope of work relevant to the terms of approval;
+
+9\. the procedure for the notification of organisational changes to the competent authority;
+
+10\. the amendment procedure for the production organisation exposition;
+
+11\. a description of the production management system, the policy, processes and procedures as provided for in point 21.A.139(c);
+
+12\. a list of the outside parties referred to in point 21.A.139(d)(1);
+
+13\. if flight tests are to be conducted, a flight test operations manual defining the organisation's policies and procedures in relation to flight test. The flight test operations manual shall include:
+
+(i) a description of the organisation's processes for flight test, including the flight test organisation involvement into the permit to fly issuance process;
+
+(ii) crewing policy, including composition, competency, currency and flight time limitations, in accordance with Appendix XII to this Annex I (Part 21), where applicable;
+
+(iii) procedures for the carriage of persons other than crew members and for flight test training, when applicable;
+
+(iv) a policy for risk and safety management and associated methodologies;
+
+(v) procedures to identify the instruments and equipment to be carried;
+
+(vi) a list of documents that need to be produced for flight test.
+
+(b) The initial issue of the POE shall be approved by the competent authority.
+
+(c) The POE shall be amended as necessary so that it remains an up-to-date description of the organisation. Copies of any amendments shall be supplied to the competent authority.
+
+21.A.145 Resources
+
+The production organisation shall demonstrate that:
+
+(a) the facilities, working conditions, equipment and tools, processes and associated materials, number and competence of staff, and the general organisation are adequate to discharge its obligations under point 21.A.165;
+
+(b) with regard to all the necessary airworthiness and environmental protection data:
+
+1\. the production organisation is in receipt of such data from the Agency and from the holder of, or applicant for, the type certificate, restricted type certificate or design approval issued in accordance with this Regulation or a natural or legal person who made a declaration of design compliance under Subpart C of Section A of Annex Ib (Part 21 Light), including any exemption granted against the environmental protection requirements, to determine conformity with the applicable design data;
+
+2\. the production organisation has established a procedure to ensure that the airworthiness and environmental protection data are correctly incorporated in its production data;
+
+3\. such data is kept up to date and made available to all personnel that need access to such data to perform their duties;
+
+(c) with regard to management and staff:
+
+1\. an accountable manager has been appointed by the production organisation with the authority to ensure that, within the organisation, all production is performed to the required standards and that the production organisation is continuously in compliance with the requirements of the production management system referred to in point 21.A.139, and the data and procedures identified in the POE referred to in point 21.A.143;
+
+2\. a person or group of persons has/have been nominated by the accountable manager to ensure that the organisation is in compliance with the requirements of this Annex, and are identified, together with the extent of their authority; such person or group of persons shall be responsible to the accountable manager and have direct access to him. The person or group of persons shall have the appropriate knowledge, background and experience to discharge their responsibilities;
+
+3\. staff at all levels have been given the appropriate authority to be able to discharge their allocated responsibilities and that there is full and effective coordination within the production organisation in respect of airworthiness and environmental protection data matters;
+
+(d) with regard to certifying staff authorised by the production organisation to sign the documents issued under point 21.A.163 within the scope of the terms of approval:
+
+1\. they have the appropriate knowledge, background (including other functions in the organisation) and experience to discharge their allocated responsibilities;
+
+2\. they are provided with evidence of the scope of their authorisation.
+
+21.A.147 Changes in the production management system
+
+After the issue of a production organisation approval certificate, each change in the production management system that is significant for the demonstration of conformity or the airworthiness and environmental compatibility characteristics of the product, part, appliance, UAS, CMU or CMU component shall be approved by the competent authority before being implemented. The production organisation shall submit an application for approval to the competent authority demonstrating that it will continue to comply with this Annex.
+
+21.A.148 Changes of location
+
+A change of the location of the manufacturing facilities of the approved production organisation shall be deemed of significance and therefore shall comply with point 21.A.147.
+
+21.A.149 Transferability
+
+Except as a result of a change in ownership, which is deemed significant for the purposes of point 21.A.147, a production organisation approval is not transferable.
+
+21.A.151 Terms of approval
+
+The terms of approval shall identify the scope of work, the products or the categories of parts and appliances, or both, the CMUs or the CMU components, or both, for which the holder is entitled to exercise the privileges under point 21.A.163.
+
+Those terms shall be issued as part of a production organisation approval.
+
+21.A.153 Changes to the terms of approval
+
+Each change to the terms of approval shall be approved by the competent authority. An application for a change to the terms of approval shall be made in a form and manner established by the competent authority. The applicant shall comply with the applicable requirements of this Subpart.
+
+21.A.158 Findings and observations
+
+(a) After receipt of the notification of findings in accordance with point 21.B.225, the holder of the production organisation approval certificate shall:
+
+1\. identify the root cause(s) of, and contributing factor(s) to, the non-compliance;
+
+2\. define a corrective action plan;
+
+3\. demonstrate the implementation of the corrective action to the satisfaction of the competent authority.
+
+(b) The actions referred to in point (a) shall be performed within the period agreed with that competent authority in accordance with point 21.B.225.
+
+(c) The observations received in accordance with 21.B.225(e) shall be given due consideration by the holder of the production organisation approval certificate. The organisation shall record the decisions taken in respect of those observations.
+
+21.A.159 Duration and continued validity
+
+(a) A production organisation approval certificate shall be issued for an unlimited period of time. It shall remain valid subject to the production organisation’s compliance with all the following conditions:
+
+1\. the production organisation continues to comply with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts;
+
+2\. the competent authority is permitted by the production organisation or by any of its partners, suppliers or subcontractors to perform the investigations in accordance with point 21.A.9;
+
+3\. the production organisation is able to provide the competent authority with evidence showing that it maintains satisfactory control of the manufacture of products, parts, appliances, CMUs or CMU components under the approval;
+
+4\. the production organisation approval certificate has not been revoked by the competent authority under point 21.B.65, or surrendered by the production organisation.
+
+(b) Upon surrender or revocation, the production organisation approval certificate shall be returned to the competent authority.
+
+21.A.163 Privileges
+
+Pursuant to the terms of approval issued under point 21.A.135, the holder of a production organisation approval may:
+
+(a) perform production activities under this Annex or Annex Ib (Part 21 Light);
+
+(b) in the case of complete type-certified aircraft and upon presentation, for aircraft and UAS, of a statement of conformity (EASA Form 52) issued under point 21.A.174 and 21.A.204 of this Annex or under points 21L.A.143(c) and 21.L.A163 of Annex Ib (Part 21 Light), obtain an aircraft certificate of airworthiness and a noise certificate without further showing;
+
+(c) in the case of other products, parts, appliances, CMUs or CMU components, issue authorised release certificates (EASA Form 1) under Subpart G of this Annex or under Subpart G of Annex Ib (Part 21 Light) without further showing;
+
+(d) in the case of an aircraft that is subject to a declaration of design compliance under point 21L.A.43 of Annex Ib (Part 21 Light) and upon presentation of a statement of conformity (EASA Form 52B) issued under points 21L.A.143(d) and 21L.A.163 of Annex Ib (Part 21 Light), obtain an aircraft restricted certificate of airworthiness and a restricted noise certificate without further showing;
+
+(e) in the case of products or parts to be installed on an aircraft that is subject to a declaration of design compliance under point 21L.A.43 of Annex Ib (Part 21 Light), issue authorised release certificates (EASA Form 1) under Annex Ib (Part 21 Light) without further showing;
+
+(f) maintain a new aircraft that it has produced and issue a certificate of release to service (EASA Form 53) in respect of that maintenance;
+
+(g) under procedures agreed with its competent authority for production, for an aircraft it has produced and when the production organisation itself is controlling under its Production Organisation Approval the configuration of the aircraft and is attesting conformity with the design conditions approved for the flight, to issue a permit to fly in accordance with point 21.A.711(c) including approval of the flight conditions in accordance with point 21.A.710(b).
+
+21.A.165 Obligations of the holder
+
+Pursuant to the terms of approval issued under point 21.A.135, the holder of a production organisation approval shall:
+
+(a) ensure that the production organisation exposition furnished in accordance with point 21.A.143 and the documents to which it refers, are used as basic working documents within the organisation;
+
+(b) maintain the production organisation in conformity with the data and procedures approved for the production organisation approval;
+
+(c)
+
+1\. determine that each completed aircraft conforms to the type design and is in condition for safe operation prior to submitting statements of conformity to the competent authority; or
+
+2\. determine that other products, parts, appliances, CMUs or CMU components are complete and conform to the approved design data and are in a condition for safe operation before issuing an EASA Form 1 to certify their conformity to approved or declared design data and that they are in a condition for safe operation;
+
+3\. additionally, in the case of environmental protection, determine that:
+
+(i) the completed engine is in compliance with the applicable engine exhaust emissions requirements on the date of manufacture of the engine; and
+
+(ii) the completed aeroplane is in compliance with the applicable CO2 emissions requirements on the date its first certificate of airworthiness is issued.
+
+4\. determine that other products, parts, appliances, CMUs or CMU components conform to the applicable data before issuing an EASA Form 1 as a conformity certificate;
+
+(d) provide assistance to the holder of the type-certificate or other design approval or a natural or legal person who made a declaration of design compliance under Subpart C of Section A of Annex Ib (Part 21 Light) in dealing with any continuing airworthiness actions that are related to the products, parts, appliances, UAS, CMUs or CMU components that have been produced;
+
+(e) where, under its terms of approval, the holder intends to issue a certificate of release to service, determine that each completed aircraft has been subjected to the necessary maintenance and is in a condition for safe operation, prior to issuing the certificate;
+
+(f) where applicable, under the privilege of point 21.A.163(e), determine the conditions under which a permit to fly can be issued;
+
+(g) where applicable, under the privilege of point 21.A.163(e), establish compliance with points 21.A.711(c) and (e) before issuing an aircraft with a permit to fly;
+
+(h) comply with Subpart A of this Section.
+
+**SUBPART H — CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS**
+
+21.A.171 Scope
+
+This Subpart establishes the procedure for issuing airworthiness certificates to aircraft which conform to a type certificate that has been issued in accordance with this Annex.
+
+21.A.172 Eligibility
+
+Any natural or legal person under whose name an aircraft is registered or will be registered in a Member State (‘Member State of registry’), or its representative, shall be eligible as an applicant for an airworthiness certificate for that aircraft under this Subpart.
+
+21.A.173 Classification
+
+Airworthiness certificates shall be classified as follows:
+
+(a) certificates of airworthiness shall be issued to aircraft which conform to a type-certificate that has been issued in accordance with this Annex I (Part 21);
+
+(b) restricted certificates of airworthiness shall be issued to aircraft:
+
+1\. which conform to a restricted type-certificate that has been issued in accordance with this Annex I (Part 21); or
+
+2\. which have been shown to the Agency to comply with specific airworthiness specifications ensuring adequate safety.
+
+21.A.174 Application
+
+(a) Pursuant to point 21.A.172, an application for an airworthiness certificate shall be made in a form and manner established by the competent authority of the Member State of registry.
+
+(b) Each application for a certificate of airworthiness or a restricted certificate of airworthiness shall include:
+
+1\. the class of the airworthiness certificate for which an application has been made;
+
+2\. with regard to new aircraft:
+
+(i) a statement of conformity:
+
+— issued under point 21.A.163(b); or
+
+— issued under point 21.A.130 and validated by the competent authority; or
+
+— for an imported aircraft, a statement of conformity issued under point 21.A.163(b) or, in the case of an aircraft imported in accordance with Article 9(2) of this Regulation, a statement signed by the exporting authority that the aircraft conforms to a design approved by the Agency;
+
+(ii) the mass and balance statement corresponding to the aircraft current configuration, as applicable;
+
+(iii) the flight manual if required by the applicable type-certification basis;
+
+3\. with regard to used aircraft that at the time of the application:
+
+(i) has an airworthiness certificate issued in accordance with this Annex, a copy of such certificate and one of the following documents:
+
+(A) a valid airworthiness review certificate (ARC) issued in accordance with Annex I (Part-M) or Annex Vb (Part-ML) to Commission Regulation (EU) No 1321/2014 ( 7 ), or with Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107, as applicable;
+
+(B) a recommendation for the issuance of an airworthiness review certificate pursuant to an airworthiness review in accordance with Annex I (Part-M) to Regulation (EU) No 1321/2014, where the conditions set out in point M.A.901(b)(1) of Annex I (Part-M) to Regulation (EU) No 1321/2014 are not met;
+
+(ii) does not have an airworthiness certificate issued in accordance with this Annex:
+
+(A) a statement from the appropriate authority that was responsible for the oversight of the aircraft reflecting the airworthiness status of the aircraft at the time that authority ceased its oversight responsibilities;
+
+(B) the mass and balance statement corresponding to the aircraft current configuration, as applicable;
+
+(C) the flight manual if required by the applicable type-certification basis;
+
+(D) historical records necessary to establish the production, configuration and maintenance standard of the aircraft, including all limitations associated with a restricted certificate of airworthiness issued in accordance with point 21.B.327;
+
+(E) a recommendation for the issuance of an airworthiness review certificate pursuant to an airworthiness review in accordance with Annex I (Part-M) to Regulation (EU) No 1321/2014 or an airworthiness review certificate in accordance with Annex Vb (Part-ML) to Regulation (EU) No 1321/2014 or with Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107, unless it is agreed that the airworthiness review is to be carried out by the competent authority;
+
+(F) the date on which the first certificate of airworthiness was issued and, if the standards set out in Volume III of Annex 16 to the Chicago Convention apply, the CO2 metric value data;
+
+(G) if the former airworthiness certificate of the aircraft was issued in accordance with this Annex but has been subsequently revoked or surrendered, alternatively to the statement required in point (A), all of the following documentation:
+
+(a) a statement containing:
+
+(1) the details of the reasons for the revocation or surrender of the airworthiness certificate;
+
+(2) the details of how the aircraft has been preserved and maintained since the revocation or surrender of the airworthiness certificate;
+
+(3) all other relevant information related to the condition and history of the aircraft;
+
+(b) an evaluation programme developed and carried out in accordance with points 21.A.174(d)(3) and 21.A.174(d)(4), unless otherwise agreed by the competent authority of the Member State of registry.
+
+(c) Unless otherwise agreed, the statements referred to in points (b)(2)(i) and (b)(3)(ii) shall be issued no more than 60 days before presentation of the aircraft to the competent authority of the Member State of registry.
+
+(d) By way of derogation from point 21.A.174(b)(3)(ii)(A), in exceptional cases and with prior agreement by the competent authority, an application may be made without a statement reflecting the airworthiness status of the aircraft, provided that all the following conditions are met:
+
+(1) the competent authority of the Member State of registry is satisfied that the airworthiness statement has not been denied by the former aviation authority because of airworthiness concerns, unless those concerns have been addressed and corrected;
+
+(2) there is evidence available to the competent authority of the Member State of registry as to the approved design according to which the aircraft was initially built and delivered;
+
+(3) an evaluation programme is developed detailing the investigations which are necessary to compensate for the lack of the airworthiness statement referred to in point 21.A.174(b)(3)(ii)(A);
+
+(4) the investigation activities were conducted in accordance with the evaluation programme, and the results have been summarised in an evaluation report;
+
+(5) upon request by the competent authority of the Member State of registry, the applicant provides access to, and copies of, any information that was used to generate the evaluation programme and evaluation report.
+
+The evaluation programme referred to in the first paragraph, point (3), shall ensure that the aircraft and its records are in a condition that makes the aircraft eligible for the issuance of an airworthiness certificate, through comprehensive investigations conducted by an approved organisation or the competent authority. The programme shall identify any discrepancies or deficiencies which, after the necessary corrective actions, will bring the aircraft into compliance with the applicable airworthiness standards. The evaluation programme shall not replace the tasks carried out by the person or organisation responsible for continuing airworthiness or airworthiness review tasks, but shall complement them.
+
+The evaluation programme shall be developed, and the investigations detailed in it shall be performed, by:
+
+(i) an organisation approved in accordance with point CAMO.A.125(g) of Annex Vc (Part-CAMO) or point CAO.A.095(c)(3) of Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014, or in accordance with Annex II (Part-CAO.UAS) to Delegated Regulation (EU) 2024/1107, as applicable;
+
+(ii) the competent authority of the Member State of registry, only for aircraft of 2 730 kg MTOM and below and upon the acceptance of that authority.
+
+The evaluation programme shall specify the activities to be performed to identify the status of the aircraft with regard to conformity to the approved type design, existing modifications and repairs and maintenance, and continuing airworthiness status. The evaluation programme, if developed by an organisation referred to in the third paragraph, point (i), shall be accepted by the competent authority of the Member State of registry before the evaluation is conducted.
+
+21.A.175 Language
+
+The manuals, placards, listings, and instrument markings and other necessary information required by applicable certification specifications shall be presented in one or more of the official language(s) of the European Union acceptable to the competent authority of the Member State of registry.
+
+21.A.177 Amendment or modification
+
+An airworthiness certificate may be amended or modified only by the competent authority of the Member State of registry.
+
+21.A.179 Transferability
+
+The airworthiness certificate and the airworthiness review certificate shall be transferred together with the aircraft provided that the aircraft remains on the same register.
+
+21.A.181 Duration and continued validity
+
+(a) An airworthiness certificate shall be issued for an unlimited period of time. It shall remain valid subject to compliance with all the following conditions:
+
+1\. the aircraft continues to comply with the applicable type design and continued airworthiness requirements; and
+
+2\. the aircraft remaining on the same register; and
+
+3\. the type-certificate or restricted type-certificate under which it is issued not being previously invalidated under point 21.A.51;
+
+4\. the certificate has not been revoked by the competent authority under point 21.B.65, or surrendered by the certificate holder.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the competent authority of the Member State of registry.
+
+21.A.182 Aircraft identification
+
+Each applicant for an airworthiness certificate under this Subpart shall demonstrate that its aircraft is identified in accordance with Subpart Q.
+
+**SUBPART I — NOISE CERTIFICATES**
+
+21.A.201 Scope
+
+This Subpart establishes the procedure for issuing noise certificates to aircraft which conform to a type certificate that has been issued in accordance with this Annex.
+
+21.A.203 Eligibility
+
+Any natural or legal person under whose name an aircraft is registered or will be registered in a Member State (Member State of registry), or its representative, shall be eligible as an applicant for a noise certificate for that aircraft under this Subpart.
+
+21.A.204 Application
+
+(a) Pursuant to point 21.A.203, an application for a noise certificate shall be made in a form and manner established by the competent authority of the Member State of registry.
+
+(b) Each application shall include:
+
+1\. with regard to new aircraft:
+
+(i) a statement of conformity:
+
+— issued under point 21.A.163(b); or
+
+— issued under point 21.A.130 and validated by the competent authority; or
+
+— for an imported aircraft, a statement of conformity issued under point 21.A.163(b) or, in the case of an aircraft imported in accordance with Article 9(4) of this Regulation, a statement signed by the exporting authority that the aircraft conforms to a design approved by the Agency; and
+
+(ii) the noise information determined in accordance with the applicable noise requirements;
+
+2\. with regard to used aircraft:
+
+(i) the noise information determined in accordance with the applicable noise requirements; and
+
+(ii) historical records to establish the production, modification, and maintenance standard of the aircraft.
+
+(c) Unless otherwise agreed, the statements referred to in point (b)(1) shall be issued no more than 60 days before presentation of the aircraft to the competent authority of the Member State of registry.
+
+21.A.207 Amendment or modification
+
+A noise certificate may be amended or modified only by the competent authority of the Member State of registry.
+
+21.A.209 Transferability and re-issuance within Member States
+
+Where ownership of an aircraft has changed:
+
+(a) if the aircraft remains on the same register, the noise certificate shall be transferred together with the aircraft; or
+
+(b) if the aircraft moves to the register of another Member State, the noise certificate shall be issued upon presentation of the former noise certificate.
+
+21.A.211 Duration and continued validity
+
+(a) A noise certificate shall be issued for an unlimited period of time. It shall remain valid subject to compliance with all the following conditions:
+
+1\. the aircraft continues to comply with the applicable type design and continued airworthiness requirements; and
+
+2\. the aircraft remaining on the same register; and
+
+3\. the type-certificate or restricted type-certificate under which it is issued not being previously invalidated under point 21.A.51;
+
+4\. the certificate has not been revoked by the competent authority under point 21.B.65, or surrendered by the certificate holder.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the competent authority of the Member State of registry.
+
+**SUBPART J — DESIGN ORGANISATION APPROVAL**
+
+21.A.231 Scope
+
+This Subpart establishes the procedure for the approval of design organisations and rules governing the rights and obligations of applicants for, and holders of, such approvals. In this Subpart, the references to type-certificates include type-certificates and restricted type-certificates.
+
+21.A.233 Eligibility
+
+Any natural or legal person (‘organisation’) shall be eligible as an applicant for an approval under this Subpart:
+
+(a) in order to demonstrate compliance with points 21.A.14, 21.A.112B, 21.A.432B or 21.A.602Bof this Annex; or
+
+(b) in order to demonstrate compliance with points 21L.A.23, 21L.A.83 or 21L.A.204 of Annex Ib (Part 21 Light); or
+
+(c) for the purpose of obtaining privileges under point 21.A.263 regarding approval of minor changes or minor repair design, or issuing declarations of compliance regarding minor changes or minor repair design of aircraft for which design compliance has been declared in accordance with Subpart C of Section A of Annex Ib (Part 21 Light).
+
+21.A.234 Application
+
+Each application for a design organisation approval shall be made in a form and manner established by the Agency and shall include an outline of the information required by point 21.A.243, and the terms of approval requested to be issued under point 21.A.251.
+
+21.A.235 Issue of design organisation approval
+
+An organisation shall be entitled to have a design organisation approval issued by the Agency when it has demonstrated compliance with the applicable requirements under this Subpart.
+
+21.A.239 Design management system
+
+(a) The design organisation shall establish, implement and maintain a design management system that includes a safety management element and a design assurance element with clearly defined accountability and lines of responsibility throughout the organisation.
+
+(b) The design management system shall:
+
+1\. correspond to the size of the organisation and to the nature and complexity of its activities, taking into account the hazards and associated risks inherent in those activities;
+
+2\. be established, implemented and maintained under the accountability of a single manager appointed pursuant to point 21.A.245(a).
+
+(c) As part of the safety management element of the design management system, the design organisation shall:
+
+1\. establish, implement and maintain a safety policy and the corresponding related safety objectives;
+
+2\. appoint key safety personnel in accordance with point 21.A.245(b);
+
+3\. establish, implement and maintain a safety risk management process that includes the identification of aviation safety hazards entailed by its activities, their evaluation and the management of the associated risks, including taking actions to mitigate the risks and verify their effectiveness;
+
+4\. establish, implement and maintain a safety assurance process that includes:
+
+(i) the measurement and monitoring of the organisation’s safety performance;
+
+(ii) the management of changes in accordance with points 21.A.243(c) and 21.A.247;
+
+(iii) the principles for the continuous improvement of the safety management element;
+
+5\. promote safety in the organisation through:
+
+(i) training and education;
+
+(ii) communication;
+
+6\. establish an occurrence reporting system in accordance with point 21.A.3A in order to contribute to continuous improvement of safety.
+
+(d) As part of the design assurance element of the design management system, the design organisation shall:
+
+1\. establish, implement and maintain a system for the control and supervision of the design, and of design changes and repairs, of products, parts, appliances, UAS, CMUs or CMU components covered by the terms of approval; that system shall:
+
+(i) include an airworthiness function responsible for ensuring that the design of products, parts, appliances, UAS, CMUs or CMU components or the design changes and repairs, comply with the applicable type-certification basis, the applicable operational suitability data certification basis and the applicable environmental protection requirements;
+
+(ii) ensure that the design organisation properly discharges its responsibilities in accordance with this Annex and with the terms of approval issued under point 21.A.251;
+
+2\. establish, implement and maintain an independent verification function of the demonstration of compliance on the basis of which the organisation declares compliance with the applicable airworthiness, operational suitability data and environmental protection requirements; and
+
+3\. specify the manner in which the design management system accounts for the acceptability of the parts, appliances, or CMU components that are designed, or the tasks that are performed, by its partners or subcontractors according to the methods which are the subject of written procedures.
+
+(e) The design organisation shall establish, as part of the design management system, an independent monitoring function to verify compliance of the organisation with the relevant requirements of this Annex as well as the compliance with and adequacy of the design management system. Monitoring shall include feedback to the person or the group of persons referred to in point 21.A.245(b) and to the manager referred to in point 21.A.245(a) to ensure, where necessary, the implementation of corrective action.
+
+(f) If the design organisation holds one or more additional organisation certificates within the scope of Regulation (EU) 2018/1139, the design management system may be integrated with that required under the additional certificate(s).
+
+21.A.239A Information security management system
+
+In addition to the design management system required by point 21.A.239, the design organisation shall establish, implement and maintain an information security management system in accordance with Commission Delegated Regulation (EU) 2022/1645 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+21.A.243 Handbook
+
+(a) As part of the design management system, the design organisation shall create and provide to the Agency a handbook that describes, directly or by cross reference, the organisation, its relevant policies, processes and procedures, the type of design work, and the categories of products, parts, appliances, UAS, CMUs or CMU components for which the design organisation holds a design organisation approval, as identified in the terms of approval issued in accordance with point 21.A.251 and, where relevant, the interfaces with and the control of its partners or subcontractors.
+
+If flight tests are to be conducted, a flight test operations manual that defines the organisation’s policies and procedures in relation to flight tests shall also be created and furnished to the Agency. The flight test operations manual shall include:
+
+1\. a description of the organisation’s processes for flight tests, including its involvement in the process for issuing a permit to fly;
+
+2\. crewing policy, including composition, competency, currency and flight time limitations, in accordance with Appendix XII, where applicable;
+
+3\. procedures for the carriage of persons other than the crew members and for flight test training, where applicable;
+
+4\. a policy for the risk and safety management and associated methodologies;
+
+5\. procedures to identify the instruments and equipment to be carried on board;
+
+6\. a list of documents that need to be produced for the flight test.
+
+(b) Where any parts, appliances or CMU components or any changes to the products, UAS or CMU are designed by partner organisations or subcontractors, the handbook shall include a statement of how the design organisation is able to demonstrate, for all the parts, appliances, or CMU components, compliance in accordance with point 21.A.239(d)(2), and shall contain, directly or by cross reference, descriptions of and information on the design activities and the organisation of those partner organisations or subcontractors, as necessary to establish the statement.
+
+(c) The handbook shall be amended as necessary to remain an up-to-date description of the organisation, and copies of the amendments shall be provided to the Agency.
+
+(d) The design organisation shall establish and maintain a statement of the qualifications and experience of the management staff and of other persons in the organisation that are responsible for making decisions that affect airworthiness, operational suitability data and environmental compatibility. It shall submit that statement to the competent authority.
+
+21.A.245 Resources
+
+(a) The organisation shall appoint a head of the design organisation with the authority to ensure that, within the organisation, all design activities are performed to the required standards and that the design organisation is continuously in compliance with the requirements of the design management system referred to in point 21.A.239 and the procedures specified in the handbook referred to in point 21.A.243.
+
+(b) The head of the design organisation shall nominate and specify the extent of authority of:
+
+1\. a chief of the airworthiness function;
+
+2\. a chief of the independent monitoring function;
+
+3\. depending on the size of the organisation and the nature and complexity of its activities, any other person or group of persons that are required to ensure that the organisation complies with the requirements of this Annex.
+
+(c) By way of derogation from point 21.A.245(b)(1), the airworthiness function referred to in point 21.A.239(d)(1)(i) may be performed under the direct supervision of the head of the design organisation in either of the following cases:
+
+1\. where the scope of activities of/of work of the design organisation, as identified in the terms of approval issued under point 21.A.251, is limited to minor changes and/or minor repairs;
+
+2\. for a limited period of time when the design organisation does not have a nominated chief of the airworthiness function and the exercise of that function under the direct supervision of the head of the design organisation is commensurate with the scope and level of the organisation’s activities.
+
+(d) The person or group of persons nominated pursuant to point (b) shall:
+
+1\. be answerable to the head of the design organisation and have direct access to them;
+
+2\. have the appropriate knowledge, background and experience to discharge their responsibilities.
+
+(e) The design organisation shall ensure that:
+
+1\. the staff in all technical departments are of sufficient numbers, have sufficient experience, and have been given the appropriate authority to be able to discharge their allocated responsibilities and the facilities, equipment and accommodation that are adequate to enable the staff to fulfil the airworthiness, operational suitability data and environmental protection requirements as regards the product, the UAS or the CMU;
+
+2\. there is full and efficient coordination between the departments and within the departments in respect of airworthiness, operational suitability data and environmental compatibility.
+
+21.A.247 Changes in the design management system
+
+After the issue of a design organisation approval, each change to the design management system that is significant for the demonstration of compliance or for the airworthiness, operational suitability data and environmental compatibility of the product, part, appliance, UAS, CMU or CMU component shall be approved by the Agency before being implemented. The design organisation shall submit to the Agency an application for approval demonstrating, on the basis of the proposed changes to the handbook, that it will continue to comply with the provisions of this Annex.
+
+21.A.249 Transferability
+
+Except as a result of a change in ownership, which is deemed significant for the purposes of point 21.A.247, a design organisation approval is not transferable.
+
+21.A.251 Terms of approval
+
+The terms of approval shall identify the types of design work, the categories of products, parts, appliances, UAS, CMUs or CMU components for which the design organisation holds a design organisation approval, and the functions and duties that the organisation is approved to perform with regard to the airworthiness, operational suitability data and environmental compatibility characteristics of the products, UAS or CMUs. For design organisation approvals covering type-certification or European Technical Standard Order (ETSO) authorisation for auxiliary power units (APUs), the terms of approval shall additionally contain the list of products, CMUs or APUs. Those terms shall be issued as part of a design organisation approval.
+
+21.A.253 Changes to the terms of approval
+
+Each change to the terms of approval shall be approved by the Agency. An application for a change to the terms of approval shall be made in a form and manner established by the Agency. The design organisation shall comply with the applicable requirements of this Subpart.
+
+21.A.258 Findings and observations
+
+(a) After the receipt of the notification of findings in accordance with point 21.B.433, the holder of the design organisation approval shall:
+
+1\. identify the root cause(s) of, and contributing factor(s) to, the non-compliance;
+
+2\. establish a corrective action plan;
+
+3\. demonstrate the implementation of the corrective action to the satisfaction of the Agency.
+
+(b) The actions referred to in point (a) shall be performed within the period agreed by the Agency in accordance with point 21.B.433.
+
+(c) The observations received in accordance with point 21.B.433(e) shall be given due consideration by the holder of the design organisation approval. The organisation shall record the decisions taken in respect of those observations.
+
+21.A.259 Duration and continued validity
+
+(a) A design organisation approval shall be issued for an unlimited period of time. It shall remain valid subject to the design organisation’s compliance with all the following conditions:
+
+1\. the design organisation continues to comply with Regulation (EU) 2018/1139 and its delegated and implementing acts; taking into account the provisions of point 21.B.433 of this Annex related to the handling of findings;
+
+2\. the holder of the design organisation approval or any of its partners or subcontractors acknowledge that the competent authority may carry out investigations in accordance with point 21.A.9;
+
+3\. the design organisation is able to provide the Agency with evidence showing that the design management system of the organisation maintains satisfactory control and supervision of the design of products and CMUs, repairs and changes thereto under the approval;
+
+4\. the certificate has not been revoked by the Agency under point 21.B.65, or surrendered by the design organisation.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the Agency.
+
+21.A.263 Privileges
+
+(a) (Reserved)
+
+(b) (Reserved)
+
+(c) The holder of a design organisation approval shall be entitled, within the scope of its terms of approval issued under point 21.A.251 and under the relevant procedures of the design management system:
+
+1\. to classify changes to a type certificate or to a supplemental type certificate and repair designs as ‘major’ or ‘minor’;
+
+2\. to approve minor changes to a type certificate or to a supplemental type certificate and minor repair designs under this Annex (Part 21) or under Annex Ib (Part 21 Light);
+
+3\. to declare the compliance of a minor change or minor repair to the design of an aircraft for which design compliance has been declared by the declarant under point 21L.A.43 of Subpart C of Section A of Annex Ib (Part 21 Light);
+
+4\. to declare compliance of a changed aircraft design, in accordance with point 21L.A.43 of Annex Ib (Part 21 Light), in the event that the natural or legal person who originally made a declaration of design compliance with respect to that aircraft under point 21L.A.43 of Annex Ib (Part 21 Light) is no longer active or is unresponsive to requests for the declaration of compliance of design changes;
+
+5\. to approve certain major repair designs under Subpart M of this Annex to products, CMUs or auxiliary power units (APUs);
+
+6\. to approve for certain aircraft the flight conditions under which a permit to fly can be issued in accordance with point 21.A.710(a)(2), except for permits to fly to be issued for the purpose of point 21.A.701(a)(15);
+
+7\. to issue a permit to fly in accordance with point 21.A.711(b) for an aircraft it has designed or modified, or for which it has approved, in accordance with point 21.A.263(c)(6), the flight conditions under which the permit to fly can be issued, and where the holder of a design organisation approval itself:
+
+(i) controls the configuration of the aircraft, the UAS or the CMU, and
+
+(ii) attests conformity with the design conditions approved for the flight;
+
+8\. to approve certain major changes to a type certificate under Subpart D of this Annex or under Subpart D of Section A of Annex Ib (Part 21 Light); and
+
+9\. to issue certain supplemental type certificates under Subpart E of this Annex or under Subpart E of Section A of Annex Ib (Part 21 Light) and approve certain major changes to those certificates.
+
+(d) in point 21.A.265, point (c) is replaced by the following:
+
+‘(c) determine that the design of the products, or of the changes or repairs to them, complies with the applicable type-certification basis, technical specifications concerning the making of declarations, operational suitability data certification basis, and the environmental protection requirements and have no unsafe features;’.
+
+21.A.265 Obligations of the holder
+
+The holder of a design organisation approval shall, within the scope of its terms of approval, as established by the Agency:
+
+(a) maintain the handbook required under point 21.A.243 in conformity with the design assurance system;
+
+(b) ensure that this handbook or the relevant procedures included by cross-reference are used as a basic working document within the organisation;
+
+(c) determine that the design of the product, the UAS or the CMU, or of the changes or repairs to them, complies with the applicable type-certification basis, technical specifications concerning the making of declarations, operational suitability data certification basis, and the environmental protection requirements, and have no unsafe features;
+
+(d) provide the Agency with statements and associated documentation confirming compliance with point (c), except for approval processes carried out in accordance with point 21.A.263(c);
+
+(e) provide to the Agency data and information related to the actions required under point 21.A.3B;
+
+(f) determine, in accordance with point 21.A.263(c)(6), the flight conditions under which a permit to fly can be issued;
+
+(g) establish, in accordance with point 21.A.263(c)(7), compliance with points (b) and (e) of point 21.A.711 before issuing a permit to fly to an aircraft;
+
+(h) designate data and information issued under the authority of the approved design organisation within the scope of its terms of approval as established by the Agency with the following statement: ‘The technical content of this document is approved under the authority of the DOA ref. EASA. 21J.[XXXX]’;
+
+(i) comply with Subpart A of this Section.
+
+**SUBPART K — PARTS, APPLIANCES, AND CONTROL AND MONITORING UNIT (CMU) COMPONENTS**
+
+21.A.301 Scope
+
+This Subpart establishes the procedure relating to the approval of parts, appliances and CMU components.
+
+21.A.303 Compliance with the applicable requirements
+
+The showing of compliance of parts, appliances and CMU components to be installed in a type-certified product, or in a CMU, shall be made:
+
+(a) in conjunction with the type-certification procedures of Subpart B, D or E for the product, UAS or CMU in which it is to be installed; or
+
+(b) where applicable, under the ETSO authorisation procedures of Subpart O; or
+
+(c) in the case of standard parts, in accordance with officially recognised standards.
+
+21.A.305 Approval of parts, appliances, and control and monitoring unit (CMU) components
+
+In all cases where the approval of a part, appliance or CMU component is explicitly required by Union law ( 8 ) or taking into account the Agency measures referred to in Article 10 of Regulation (EU) No 748/2012, the part, appliance or CMU component shall comply with the applicable ETSO or with the specifications recognised as equivalent by the Agency in the particular case.
+
+21.A.307 The eligibility of parts and appliances for installation
+
+(a) A part or appliance is eligible for installation in a type-certified product when it is in a condition for safe operation, marked in accordance with Subpart Q and accompanied by an authorised release certificate (EASA Form 1), certifying that the item was manufactured in conformity with approved design data.
+
+(b) By way of derogation from point (a) and provided that the conditions in point (c) are met, the following parts or appliances do not require an EASA Form 1 in order to be eligible for installation in a type-certified product:
+
+(1) a standard part;
+
+(2) in the case of ELA1 or ELA2, a part or appliance that is:
+
+(i) not life limited, nor part of the primary structure, nor part of the flight controls;
+
+(ii) identified for installation in the specific aircraft;
+
+(iii) to be installed in an aircraft whose owner has verified compliance with the applicable conditions in (i) and (ii), and has accepted responsibility for this compliance;
+
+(3) a part or appliance for which the consequences of a non-conformity with its approved design data has a negligible safety effect on the product and which is identified as such by the holder of the design approval in the instructions for continued airworthiness. In order to determine the safety effects of a non-conforming part or appliance, the design approval holder may establish in the instructions for continued airworthiness specific verification activities to be conducted by the installer of the part or appliance on the product;
+
+(4) in the case of the embodiment of a standard change in accordance with point 21.A.90B or a standard repair in accordance with point 21.A.431B, a part or appliance, for which the consequences of a non-conformity with its design data have a negligible safety effect on the product, and which is identified as such in the certification specifications for standard changes and standard repairs issued in accordance with point (a)(2) of point 21.A.90B and point (a)(2) of point 21.A.431B. In order to determine the safety effects of a non-conforming part or appliance, specific verification activities to be conducted by the person that installs the part or appliance on the product may be established in the certification specifications referred to above;
+
+(5) a part or appliance that is exempted from an airworthiness approval in accordance with Commission Regulation (EU) No 965/2012 ( 9 ); and
+
+(6) a part or appliance that is an item of a higher assembly identified in points (b)(1) to (b)(5); and
+
+(7) a part or appliance manufactured by a person or organisation referred to in Article 9(4) of this Regulation.
+
+(c) Parts and appliances listed in point (b) are eligible for installation in a type-certified product without being accompanied by an EASA Form 1, provided that the installer holds a document issued by the person or organisation that manufactured the part or appliance, which declares the name of the part or appliance, the part number, and the conformity of the part or appliance with its design data, and which contains the issuance date.
+
+21.A.308 Eligibility of a component for installation in a control and monitoring unit (CMU)
+
+(a) A CMU component that is critical for the intended UAS operation, as determined by the design approval holder and agreed with the Agency, is eligible for installation in a CMU provided it is in a condition for safe operation, is marked in accordance with Subpart Q, and is accompanied by an authorised release certificate (EASA Form 1).
+
+(b) A CMU component which is not deemed critical for the intended UAS operation, as determined by the design approval holder and agreed with the Agency, is eligible for installation in a CMU provided that:
+
+(1) the CMU component is in a condition for safe operation; and
+
+(2) the installer holds a document issued by the person or organisation that has manufactured the CMU component, which declares the name and identification of the component, the conformity of the component with its design data, and contains the issuance date.
+
+**(SUBPART L — NOT APPLICABLE)**
+
+**SUBPART M — REPAIRS**
+
+21.A.431 A Scope
+
+(a) This Subpart establishes the procedure for the approval of a repair design of a product, part, appliance, CMU or CMU component, and establishes the rights and obligations of the applicant for, and holder of, that approval.
+
+(b) This Subpart defines standard repairs that are not subject to an approval process under this Subpart.
+
+(c) A ‘repair’ means the elimination of damage and/or restoration to an airworthy condition following the initial release to service by the manufacturer of any product, part, appliance, CMU or CMU component.
+
+(d) The elimination of damage by replacement of parts, appliances or CMU components without the necessity for design activity shall be considered a maintenance task and shall, therefore, require no approval under this Annex.
+
+(e) A repair to an ETSO article other than an Auxiliary Power Unit (APU) shall be treated as a change to the ETSO design and shall be processed in accordance with point 21.A.611.
+
+(f) In this Subpart, the references to type-certificates include type-certificates and restricted type-certificates.
+
+21.A.431B Standard repairs
+
+(a) Standard repairs are repairs:
+
+1\. in relation to:
+
+(i) aeroplanes with a maximum take-off mass (MTOM) of 5 700 kg or less;
+
+(ii) rotorcraft with a MTOM of 3 175 kg or less;
+
+(iii) sailplanes, powered sailplanes, balloons and airships, as defined in ELA1 or ELA2;
+
+(iv) VTOL-capable aircraft with a MTOM of 5 700 kg or less;
+
+(2) that follow design data included in certification specifications issued by the Agency, containing acceptable methods, techniques and practices for carrying out and identifying standard repairs, including the associated instructions for continued airworthiness; and
+
+(3) that are not in conflict with TC holders data.
+
+(b) Points 21.A.432A to 21.A.451 are not applicable to standard repairs.
+
+21.A.432A Eligibility
+
+(a) Any natural or legal person that has demonstrated, or is in the process of demonstrating, its capability under point 21.A.432B shall be eligible as an applicant for a major repair design approval under the conditions laid down in this Subpart.
+
+(b) Any natural or legal person shall be eligible to apply for approval of a minor repair design.
+
+21.A.432B Demonstration of capability
+
+(a) An applicant for approval of a major repair design shall demonstrate its capability by holding a design organisation approval, issued by the Agency in accordance with Subpart J.
+
+(b) By way of derogation from point (a), as an alternative procedure to demonstrate its capability, an applicant may seek Agency agreement for the use of procedures setting out the specific design practices, resources and sequence of activities necessary to comply with this Subpart.
+
+(c) By way of derogation from point (a), in the case of products referred to in point 21.A.14(c), an applicant may demonstrate its capability by obtaining the Agency's acceptance of its certification programme established in accordance with point 21.A.432C(b).
+
+21.A.432C Application for a repair design approval
+
+(a) An application for a repair design approval shall be made in a form and manner established by the Agency.
+
+(b) An application for a major repair design approval shall include, or be supplemented after the initial application by, a certification programme containing:
+
+1\. a description of the damage and repair design identifying the configuration of the type design upon which the repair is made;
+
+2\. the identification of all areas of the type design and the approved manuals that are changed or affected by the repair design;
+
+3\. the identification of any reinvestigations necessary to demonstrate compliance of the repair design and areas affected by the repair design with the type-certification basis and the applicable environmental protection requirements incorporated by reference in, as applicable, either the type certificate, the supplemental type certificate or the APU ETSO authorisation;
+
+4\. any proposed amendments to the type-certification basis incorporated by reference in, as applicable, either the type-certificate, the supplemental type-certificate or the APU ETSO authorisation;
+
+5\. a proposal for a breakdown of the certification programme into meaningful groups of compliance demonstration activities and data, including the means and process proposed to be followed to demonstrate compliance with point 21.A.433(a)(1) and references to related compliance documents;
+
+6\. a proposal for the assessment of the meaningful groups of compliance demonstration activities and data, addressing the likelihood of an unidentified non-compliance with the type-certification basis or the applicable environmental protection requirements and the potential impact of that non-compliance on the product, UAS or CMU safety or environmental compatibility. The proposed assessment shall take into account at least the elements set out in point 21.B.100(a), points 1 to 4. Based on that assessment, the application shall include a proposal for the Agency’s involvement in the verification of the compliance demonstration activities and data; and
+
+7\. the specification whether the certification data is prepared completely by the applicant or on the basis of an arrangement with the owner of the type-certification data.
+
+21.A.433 Requirements for approval of a repair design
+
+(a) A repair design shall only be approved:
+
+1\. when it has been demonstrated, following the certification programme referred to in point 21.A.432C(b), that the repair design complies with the type-certification basis and the environmental protection requirements incorporated by reference in, as applicable, either the type certificate, the supplemental type certificate or the APU ETSO authorisation, as well as with any amendments established and notified by the Agency in accordance with point 21.B.450;
+
+2\. when compliance with the type-certification basis and the environmental protection requirements that apply in accordance with point (a)1 has been declared and the justifications of compliance have been recorded in the compliance documents;
+
+3\. when no feature or characteristic has been identified that may render the product, the UAS or the CMU unsafe for the use for which certification is requested;
+
+4\. when the applicant has specified that it has provided certification data on the basis of an arrangement with the owner of the type-certification data in accordance with point 21.A.432C(b)(7):
+
+(i) when the holder has indicated that it has no technical objection to the information submitted under point (a)(2) of this point; and
+
+(ii) when the holder has agreed to collaborate with the repair design approval holder to ensure the discharge of all the obligations with regard to the continued airworthiness of the changed product, changed UAS or changed CMU through compliance with point 21.A.451.
+
+5\. when, for a repair to an aeroplane subject to point 26.302 of Annex I to Regulation (EU) 2015/640, it has been demonstrated that the structural integrity of the repair and affected structure is at least equivalent to the level of structural integrity established for the baseline structure by point 26.302 of Annex I to Regulation (EU) 2015/640.
+
+(b) The applicant shall submit to the Agency the declaration referred to in point (a)(2) and, on request by the Agency, all necessary substantiation data.
+
+21.A.435 Classification and approval of repair designs
+
+(a) A repair design shall be classified as either ‘major’ or ‘minor’ in accordance with the criteria set out in point 21.A.91 for a change to the type-certificate.
+
+(b) A repair design shall be classified and approved by:
+
+1\. the Agency; or
+
+2\. an approved design organisation within the scope of its privileges provided for in points (1), (2) and (5) of point 21.A.263(c), as recorded in the terms of approval.
+
+21.A.439 Production of repair parts
+
+Parts, appliances and CMU components to be used for the repair shall be manufactured in accordance with production data based upon all the necessary design data as provided by the repair design approval holder:
+
+(a) under Subpart F; or
+
+(b) by an organisation appropriately approved in accordance with Subpart G; or
+
+(c) by an appropriately approved maintenance organisation.
+
+21.A.441 Repair embodiment
+
+(a) The embodiment of a repair shall be performed in accordance with Subpart C of Annex I (Part-M), or Subpart C of Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, or Subpart C of Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107 or by a production organisation approved under Subpart G of this Annex, in accordance with the privilege provided for in point 21.A.163(d).
+
+(b) The design organisation shall provide the organisation that performs the repair with all the necessary installation instructions.
+
+21.A.443 Limitations
+
+A repair design may be approved subject to limitations, in which case the repair design approval shall include all necessary instructions and limitations. These instructions and limitations shall be transmitted by the repair design approval holder to the operator in accordance with a procedure agreed with the Agency.
+
+21.A.445 Unrepaired damage
+
+(a) When a damaged product, part, appliance, CMU or CMU component is left unrepaired, and is not covered by previously approved data, the evaluation of the damage for its airworthiness consequences may be made only:
+
+1\. by the Agency; or
+
+2\. by an appropriately approved design organisation under a procedure agreed with the Agency.
+
+Any necessary limitations shall be processed in accordance with the procedures of point 21.A.443.
+
+(b) Where the organisation evaluating the damage under point (a) is neither the Agency nor the type-certificate, supplemental type-certificate or APU ETSO authorisation holder, this organisation shall justify that the information on which the evaluation is based is adequate either from its organisation’s own resources or through an arrangement with the type-certificate, supplemental type-certificate or APU ETSO authorisation holder, or manufacturer, as applicable.
+
+21.A.451 Obligations and EPA marking
+
+(a) Each holder of a major repair design approval shall:
+
+1\. undertake the obligations:
+
+(i) laid down in points 21.A.3A, 21.A.3B, 21.A.4, 21.A.5, 21.A.6, 21.A.7, 21.A.9, 21.A.439, 21.A.441 and 21.A.443;
+
+(ii) implicit in the collaboration with the type-certificate, supplemental type-certificate and with the APU ETSO authorisation holder under point 21.A.433 (b), as appropriate.
+
+2\. specify the marking, including EPA letters, in accordance with point 21.A.804(a).
+
+(b) Except for type-certificate holders or APU authorisation holders for which point 21.A.44 applies, the holder of a minor repair design approval shall:
+
+1\. undertake the obligations laid down in points 21.A.4, 21.A.5 and 21.A.7;
+
+2\. specify the marking, including EPA letters, in accordance with point 21.A.804(a).
+
+**(SUBPART N — NOT APPLICABLE)**
+
+**SUBPART O — EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS**
+
+21.A.601 Scope
+
+This Subpart establishes the procedure for issuing ETSO authorisations and the rules governing the rights and obligations of applicants for, or holders of, such authorisations.
+
+21.A.602A Eligibility
+
+Any natural or legal person that produces or is preparing to produce an ETSO article, and that has demonstrated, or is in the process of demonstrating, its capability under point 21.A.602B shall be eligible as an applicant for an ETSO authorisation.
+
+21.A.602B Demonstration of capability
+
+Any applicant for an ETSO authorisation shall demonstrate its capability as follows:
+
+(a) for production, by holding a production organisation approval, issued in accordance with Subpart G, or through compliance with Subpart F procedures; and
+
+(b) for design:
+
+1\. for an Auxiliary Power Unit, by holding a design organisation approval, issued by the Agency in accordance with Subpart J;
+
+2\. for all other articles, by using procedures setting out the specific design practices, resources and sequence of activities necessary to comply with this Annex I (Part 21).
+
+21.A.603 Application
+
+(a) An application for an ETSO authorisation shall be made in a form and manner established by the Agency and shall include an outline of the information required by point 21.A.605.
+
+(b) When a series of minor changes in accordance with point 21.A.611 is anticipated, the applicant shall set forth in its application the basic model number of the article and the associated part numbers with open brackets after it to denote that suffix change letters or numbers (or combinations of them) will be added from time to time.
+
+21.A.604 ETSO authorisation for an auxiliary power unit (APU)
+
+With regard to an ETSO authorisation for an APU:
+
+(a) by way of derogation from points 21.A.9, 21.A.603, 21.A.610 and 21.A.621, the following points shall apply: points 21.A.15, 21.A.20, 21.A.21, 21.A.31, 21.A.33, 21.A.44, 21.A.47, 21.B.75 and 21.B.80. However, an ETSO authorisation shall be issued in accordance with point 21.A.606 instead of the type-certificate;
+
+(b) by way of derogation from point 21.A.611, the requirements of Subpart D shall apply to the approval of design changes by the APU ETSO authorisation holder and design changes from other applicants classified as a minor change, and the requirements of Subpart E shall apply to the approval of design changes by other applicants classified as a major change. Where the requirements of Subpart E apply, a separate ETSO authorisation shall be issued instead of a supplemental type certificate; and
+
+(c) the requirements of Subpart M shall apply to the approval of repair designs.
+
+21.A.605 Data requirements
+
+(a) The applicant shall submit to the Agency the following documents:
+
+1\. a certification programme for the ETSO authorisation, setting out the means to demonstrate compliance with point 21.A.606(b);
+
+2\. a statement of compliance certifying that the applicant has met the requirements of this Subpart;
+
+3\. a declaration of design and performance (DDP), stating that the applicant has demonstrated that the article complies with the applicable ETSO in accordance with the certification programme;
+
+4\. a copy of the technical data required in the applicable ETSO;
+
+5\. the exposition, or a reference to the exposition, referred to in point 21.A.143 for the purpose of obtaining an appropriate production organisation approval under Subpart G or the manual, or a reference to the manual, referred to in point 21.A.125A(b) for the purpose of manufacturing under Subpart F without production organisation approval;
+
+6\. for an APU, the handbook, or a reference to the handbook, referred to in point 21.A.243 for the purpose of obtaining an appropriate design organisation approval under Subpart J;
+
+7\. for all other articles, the procedures, or a reference to the procedures, referred to in point 21.A.602B(b)(2);
+
+(b) The applicant shall report to the Agency any difficulty or event encountered during the approval process that may significantly impact the ETSO authorisation.
+
+21.A.606 Requirements for the issuance of an ETSO authorisation
+
+In order to be issued an ETSO authorisation, the applicant shall:
+
+(a) demonstrate its capability in accordance with point 21.A.602B;
+
+(b) demonstrate that the article complies with the technical conditions of the applicable ETSO or with deviations therefrom approved in accordance with point 21.A.610, if any;
+
+(c) comply with the requirements of this Subpart; and
+
+(d) declare that no feature or characteristic has been identified that may make the article unsafe for the uses for which certification is requested.
+
+21.A.607 ETSO authorisation privileges
+
+The holder of an ETSO authorisation is entitled to produce and to mark the article with the appropriate ETSO marking.
+
+21.A.608 Declaration of Design and Performance (DDP)
+
+(a) The DDP shall contain at least the following information:
+
+1\. information corresponding to point 21.A.31(a) and (b), identifying the article and its design and testing standard;
+
+2\. the rated performance of the article, where appropriate, either directly or by reference to other supplementary documents;
+
+3\. a statement of compliance certifying that the article has met the appropriate ETSO;
+
+4\. reference to relevant test reports;
+
+5\. reference to the appropriate Maintenance, Overhaul and Repair Manuals;
+
+6\. the levels of compliance, where various levels of compliance are allowed by the ETSO;
+
+7\. list of deviations accepted in accordance with point 21.A.610.
+
+(b) The DDP shall be endorsed with the date and signature of the holder of the ETSO authorisation, or its authorised representative.
+
+21.A.609 Obligations of holders of ETSO authorisations
+
+The holder of an ETSO authorisation under this Subpart shall:
+
+(a) manufacture each article in accordance with Subpart G or Subpart F that ensures that each completed article conforms to its design data and is safe for installation;
+
+(b) prepare and maintain, for each model of each article for which an ETSO authorisation has been issued, an updated set of complete technical data and records in accordance with point 21.A.5;
+
+(c) prepare, maintain and update master copies of all manuals required by the applicable airworthiness specifications for the article;
+
+(d) make available to users of the article and to the Agency on request those maintenance, overhaul and repair manuals necessary for the usage and maintenance of the article, and changes to those manuals;
+
+(e) mark each article in accordance with point 21.A.807;
+
+(f) comply with points 21.A.3A, 21.A.3B, 21.A.4 and 21.A.9;
+
+(g) continue to meet the qualification requirements of point 21.A.602B.
+
+21.A.610 Approval for deviation
+
+(a) Each manufacturer who requests approval to deviate from any performance standard of an ETSO shall demonstrate that the standards from which a deviation is requested are compensated for by factors or design features providing an equivalent level of safety.
+
+(b) The request for approval to deviate, together with all pertinent data, shall be submitted to the Agency.
+
+21.A.611 Design changes
+
+(a) The holder of the ETSO authorisation may make minor design changes (any change other than a major change) without further authorisation by the Agency. In this case, the changed article keeps the original model number (part number changes or amendments shall be used to identify minor changes) and the holder shall forward to the Agency any revised data that are necessary for compliance with point 21.A.603(b).
+
+(b) Any design change by the holder of the ETSO authorisation that is extensive enough to require a substantially complete investigation to determine compliance with an ETSO is a major change. Before making such a change, the holder shall assign a new type or model designation to the article and apply for a new authorisation under point 21.A.603.
+
+(c) No design change by any natural or legal person other than the holder of the ETSO authorisation who submitted the statement of compliance for the article is eligible for approval under this Subpart O unless the person seeking the approval applies under point 21.A.603 for a separate ETSO authorisation.
+
+21.A.619 Duration and continued validity
+
+(a) An ETSO authorisation shall be issued for an unlimited period of time. It shall remain valid subject to compliance with all the following conditions:
+
+1\. the conditions set when the ETSO authorisation was granted continue to be observed by the applicant;
+
+2\. the obligations specified in point 21.A.609 continue to be discharged by the ETSO authorisation holder;
+
+3\. the holder of the ETSO authorisation or any of its partners, suppliers or subcontractors acknowledge that the competent authority may carry out investigations in accordance with point 21.A.9;
+
+4\. it has been proved that the ETSO article does not give rise to unacceptable hazards in service;
+
+5\. the ETSO authorisation has not been revoked by the Agency under point 21.B.65, or surrendered by its holder.
+
+(b) Upon surrender or revocation, the ETSO authorisation shall be returned to the Agency.
+
+21.A.621 Transferability
+
+Except for a change in ownership of the holder, which shall be regarded as a change of significance, and shall therefore comply with points 21.A.147 and 21.A.247 as applicable, an ETSO authorisation issued under this Annex I (Part 21) is not transferable.
+
+**SUBPART P — PERMIT TO FLY**
+
+21.A.701 Scope
+
+(a) Permits to fly shall be issued in accordance with this Subpart to aircraft that do not meet, or have not been shown to meet, applicable airworthiness requirements but are capable of safe flight under defined conditions and for the following purposes:
+
+1\. development;
+
+2\. showing compliance with regulations or certification specifications;
+
+3\. design organisations or production organisations crew training;
+
+4\. production flight testing of new production aircraft;
+
+5\. flying aircraft under production between production facilities;
+
+6\. flying the aircraft for customer acceptance;
+
+7\. delivering or exporting the aircraft;
+
+8\. flying the aircraft for Authority acceptance;
+
+9\. market survey, including customer’s crew training;
+
+10\. exhibition and air show;
+
+11\. flying the aircraft to a location where maintenance or airworthiness review are to be performed, or to a place of storage;
+
+12\. flying an aircraft at a weight in excess of its maximum certificated takeoff weight for flight beyond the normal range over water, or over land areas where adequate landing facilities or appropriate fuel is not available;
+
+13\. record breaking, air racing or similar competition;
+
+14\. flying aircraft meeting the applicable airworthiness requirements before conformity to the applicable environmental protection requirements has been demonstrated;
+
+15\. for non-commercial flying activity on individual non-complex aircraft or types for which a certificate of airworthiness or restricted certificate of airworthiness is not appropriate;
+
+16\. flying an aircraft for troubleshooting purposes or to check the functioning of one or more systems, parts or appliances after maintenance.
+
+(b) This Subpart establishes the procedure for issuing permits to fly and approving associated flight conditions, and establishes the rights and obligations of the applicants for, and holders of, those permits and approvals of flight conditions.
+
+21.A.703 Eligibility
+
+(a) Any natural or legal person shall be eligible as an applicant for a permit to fly except for a permit to fly requested for the purpose of point 21.A.701(a)(15) where the applicant shall be the owner.
+
+(b) Any natural or legal person shall be eligible for application for the approval of the flight conditions.
+
+21.A.707 Application for permit to fly
+
+(a) Pursuant to point 21.A.703 and when the applicant has not been granted the privilege to issue a permit to fly, an application for a permit to fly shall be made to the competent authority in a form and manner established by that authority.
+
+(b) Each application for a permit to fly shall include:
+
+1\. the purpose(s) of the flight(s), in accordance with point 21.A.701;
+
+2\. the ways in which the aircraft does not comply with the applicable airworthiness requirements;
+
+3\. the flight conditions approved in accordance with point 21.A.710.
+
+(c) Where the flight conditions are not approved at the time of application for a permit to fly, an application for approval of the flight conditions shall be made in accordance with point 21.A.709.
+
+21.A.708 Flight conditions
+
+Flight conditions include:
+
+(a) the configuration(s) for which the permit to fly is requested, including, for unmanned aircraft, the configuration of the CMU that is used to control the aircraft;
+
+(b) any condition or restriction necessary for the safe operation of the aircraft, including:
+
+1\. the conditions or restrictions put on itineraries or airspace, or both, required for the flight(s);
+
+2\. any conditions or restrictions put on the flight crew to fly the aircraft, in addition to those defined in Appendix XII to this Annex I (Part 21);
+
+3\. the restrictions regarding carriage of persons other than flight crew;
+
+4\. the operating limitations, specific procedures or technical conditions to be met;
+
+5\. the specific flight test programme (if applicable);
+
+6\. the specific continuing airworthiness arrangements including maintenance instructions and regime under which they will be performed;
+
+7\. for unmanned aircraft, specific arrangements and instructions for the operation and the continuing airworthiness of the UAS or of the CMU;
+
+(c) the substantiation that the aircraft is capable of safe flight under the conditions or restrictions of point (b);
+
+(d) the method used for the control of the aircraft configuration, including, for unmanned aircraft, the configuration of the CMU that is used to control the aircraft, in order to remain within the established conditions.
+
+21.A.709 Application for approval of flight conditions
+
+(a) Pursuant to point 21.A.707(c) and when the applicant has not been granted the privilege to approve the flight conditions, an application for approval of the flight conditions shall be made:
+
+1\. when approval of the flight conditions is related to the safety of the design, to the Agency in a form and manner established by the Agency; or
+
+2\. when approval of the flight conditions is not related to the safety of the design, to the competent authority in a form and manner established by that authority.
+
+(b) Each application for approval of the flight conditions shall include:
+
+1\. the proposed flight conditions;
+
+2\. the documentation supporting these conditions; and
+
+3\. a declaration that the aircraft is capable of safe flight under the conditions or restrictions of point 21.A.708(b).
+
+21.A.710 Approval of flight conditions
+
+(a) When approval of the flight conditions is related to the safety of the design, the flight conditions shall be approved by:
+
+1\. the Agency; or
+
+2\. an appropriately approved design organisation, under the privilege of point 21.A.263(c)(6).
+
+(b) When approval of the flight conditions is not related to the safety of the design, the flight conditions shall be approved by the competent authority, or the appropriately approved organisation that will also issue the permit to fly.
+
+(c) Before approving the flight conditions, the Agency, the competent authority or the approved organisation must be satisfied that the aircraft is capable of safe flight under the specified conditions and restrictions. The Agency or the competent authority may make or require the applicant to make any necessary inspections or tests for that purpose.
+
+21.A.711 Issuance of a permit to fly
+
+(a) A permit to fly (EASA Form 20a, see Appendix III) may be issued by the competent authority under the conditions specified in point 21.B.525.
+
+(b) An appropriately approved design organisation may issue a permit to fly (EASA Form 20b, see Appendix IV) under the privilege granted under point 21.A.263(c)(7), when the flight conditions referred to in point 21.A.708 have been approved in accordance with point 21.A.710.
+
+(c) An appropriately approved production organisation may issue a permit to fly (EASA Form 20b, see Appendix IV) under the privilege granted under point 21.A.163(e), when the flight conditions referred to in point 21.A.708 have been approved in accordance with point 21.A.710.
+
+(d) An approved organisation may issue a permit to fly (EASA Form 20b, see Appendix IV) under the privilege granted in accordance with point CAMO.A.125 of Annex Vc (Part-CAMO) to Regulation (EU) No 1321/2014 or point CAO.A.095 of Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014, or point CAO.UAS.095 of Annex II (Part-CAO.UAS) to Delegated Regulation (EU) 2024/1107, as applicable, when the flight conditions referred to in point 21.A.708 of this Annex have been approved in accordance with point 21.A.710 of this Annex.
+
+(e) The permit to fly shall specify the purpose(s) and any conditions and restrictions which have been approved in accordance with point 21.A.710.
+
+(f) For permits issued under points (b), (c) or (d), a copy of the permit to fly and associated flight conditions shall be submitted to the competent authority at the earliest opportunity but not later than 3 days.
+
+(g) Upon evidence that any of the conditions specified in point 21.A.723(a) are not met for a permit to fly that an organisation has issued pursuant to points (b), (c) or (d), that organisation shall immediately revoke that permit to fly and inform without delay the competent authority.
+
+21.A.713 Changes
+
+(a) Any change that invalidates the flight conditions or associated substantiation established for the permit to fly shall be approved in accordance with point 21.A.710. When relevant an application shall be made in accordance with point 21.A.709.
+
+(b) A change affecting the content of the permit to fly requires the issuance of a new permit to fly in accordance with point 21.A.711.
+
+21.A.715 Language
+
+The manuals, placards, listings, and instrument markings and other necessary information required by applicable certification specifications shall be presented in one or more of the official language(s) of the European Union acceptable to the competent authority.
+
+21.A.719 Transferability
+
+(a) A permit to fly is not transferable.
+
+(b) Notwithstanding point (a) for a permit to fly issued for the purpose of point 21.A.701(a)(15), where ownership of an aircraft has changed, the permit to fly shall be transferred together with the aircraft provided the aircraft remains on the same register, or issued only with the agreement of the competent authority of the Member State of registry to which it is transferred.
+
+21.A.723 Duration and continued validity
+
+(a) A permit to fly shall be issued for a maximum period of 12 months and shall remain valid subject to compliance with all the following conditions:
+
+1\. the organisation continues to comply with the conditions and restrictions associated with the permit to fly as set out in point 21.A.711(e);
+
+2\. the holder or any of its partners, suppliers or subcontractors acknowledge that the competent authority may carry out investigations in accordance with point 21.A.9;
+
+3\. the permit to fly has not been revoked by the competent authority under point 21.B.65, or surrendered by its holder;
+
+4\. the aircraft remains on the same register.
+
+(b) Notwithstanding point (a), a permit to fly issued for the purpose of point 21.A.701(a)(15) may be issued for unlimited duration.
+
+(c) Upon surrender or revocation, the permit to fly shall be returned to the competent authority.
+
+21.A.725 Renewal of permit to fly
+
+Renewal of the permit to fly shall be processed as a change in accordance with point 21.A.713.
+
+21.A.727 Obligations of the holder of a permit to fly
+
+The holder of a permit to fly shall ensure that all the conditions and restrictions associated with the permit to fly are satisfied and maintained.
+
+**SUBPART Q — IDENTIFICATION OF PRODUCTS, PARTS, APPLIANCES, CONTROL AND MONITORING UNITS (CMUs) AND CMU COMPONENTS**
+
+21.A.801 Identification of products and control and monitoring units (CMUs)
+
+(a) The identification of products and CMUs produced under Subpart F or Subpart G shall include the following information:
+
+1\. the manufacturer’s name;
+
+2\. the product and CMU designation;
+
+3\. the manufacturer’s serial number;
+
+4\. the ‘EXEMPT’ mark for engines, when the competent authority has granted an exemption from the applicable environmental protection requirements;
+
+5\. any other information the Agency finds appropriate.
+
+(b) Any natural or legal person that manufactures an aircraft or engine under Subpart G or Subpart F shall identify that aircraft or engine by means of a fireproof plate that has the information specified in point (a) marked on it by etching, stamping, engraving, or other approved method of fireproof marking. The identification plate shall be secured in such a manner that it is accessible and legible, and will not likely be defaced or removed during normal service, or lost or destroyed in an accident.
+
+(c) Any natural or legal person that manufactures a propeller, propeller blade, or propeller hub under Subpart G or Subpart F shall identify it by means of a plate, stamping, engraving, etching or other approved method of fireproof identification that is placed on it on a non-critical surface, contains the information specified in point (a), and will not likely be defaced or removed during normal service or lost or destroyed in an accident.
+
+(d) For manned balloons, the identification plate prescribed in point (b) shall be secured to the balloon envelope and shall be located, if practicable, where it is legible to the operator when the balloon is inflated. In addition, the basket, load frame assembly and any heater assembly shall be permanently and legibly marked with the manufacturer’s name, part number, or equivalent, and serial number, or equivalent.
+
+(e) Any natural or legal person that produces a CMU under Subpart G or Subpart F shall identify it by means of a plate, stamping, engraving, etching or other approved method of fireproof identification that contains the information specified in point (a) in such a manner that it is accessible and legible and will not likely be defaced or removed during normal service, or lost or destroyed in an accident.
+
+21.A.803 Handling of identification data
+
+(a) No person shall remove, change, or place the identification information referred to in point 21.A.801(a) on any aircraft, engine, propeller, propeller blade, propeller hub or CMU, or the identification information referred to in point 21.A.807(a) on an APU, without the approval of the Agency.
+
+(b) No person shall remove or install any identification plate referred to in point 21.A.801, or in point 21.A.807 for an APU, without the approval of the Agency.
+
+(c) By way of derogation from points (a) and (b), any natural or legal person that performs maintenance work under the applicable associated rules may, in accordance with the methods, techniques and practices established by the Agency:
+
+1\. remove, change, or place the identification information referred to in point 21.A.801(a) on any aircraft, engine, propeller, propeller blade, propeller hub or CMU, or the identification information referred to in point 21.A.807(a) on an APU; or
+
+2\. remove an identification plate referred to in point 21.A.801, or in point 21.A.807 for an APU, when it is necessary during maintenance operations.
+
+(d) No person shall install an identification plate that has been removed in accordance with point (c)(2) on any aircraft, engine, propeller, propeller blade, propeller hub or CMU other than the one from which it has been removed.
+
+21.A.804 Identification of parts, appliances, and control and monitoring unit (CMU) components
+
+(a) Each part or appliance which is eligible for installation in a type-certified product, and each CMU component which is eligible for installation in a CMU certified in accordance with this Annex I, shall be permanently and legibly marked with:
+
+1\. a name, trademark, or symbol identifying the manufacturer in a manner identified by the applicable design data;
+
+2\. the part number, as defined in the applicable design data; and
+
+3\. the letters ‘EPA’:
+
+(i) for parts or appliances produced in accordance with approved design data that does not belong to the type-certificate holder of the related product, except for ETSO articles and for parts and appliances covered under point 21.A.307(b);
+
+(ii) for CMU components produced in accordance with approved design data that does not belong to the type-certificate holder of the related CMU, or to the UA type-certificate holder when the CMU is certified as part of the UA, except for ETSO CMU components and CMU components covered under point 21.A.308(b).
+
+(b) By way of derogation from point (a), if the Agency agrees that a part, appliance or a CMU component is too small, or that it is otherwise impractical to mark a part, appliance or a CMU component with any of the information required by point (a), the authorised release document that accompanies the part, appliance or the CMU component or its container shall include the information that could not be marked on the part, appliance or CMU component.
+
+21.A.805 Identification of critical parts
+
+In addition to the requirement of point 21.A.804, each manufacturer of a part to be fitted on a type-certificated product which has been identified as a critical part shall permanently and legibly mark that part with a part number and a serial number.
+
+21.A.807 Identification of ETSO articles
+
+(a) Each holder of an ETSO authorisation under Subpart O shall permanently and legibly mark each article with the following information:
+
+1\. the name and address of the manufacturer;
+
+2\. the name, type, part number or model designation of the article;
+
+3\. the serial number or the date of manufacture of the article or both; and
+
+4\. the applicable ETSO number.
+
+(b) By way of derogation from point (a), if the Agency agrees that a part is too small or that it is otherwise impractical to mark a part with any of the information required by point (a), the authorised release document accompanying the part or its container shall include the information that could not be marked on the part.
+
+(c) Each person who manufactures an APU under Subpart G or Subpart F shall identify that APU by means of a fireproof plate that has the information specified in point (a) marked on it by etching, stamping, engraving, or other approved method of fireproof marking. The identification plate shall be secured in such a manner that it is accessible and legible, and will not likely be defaced or removed during normal service, or lost or destroyed in an accident.
+
+**SECTION B**
+
+**PROCEDURES FOR COMPETENT AUTHORITIES**
+
+**SUBPART A — GENERAL PROVISIONS**
+
+21.B.10 Oversight documentation
+
+The competent authority shall provide all the legislative acts, standards, rules, technical publications and related documents to the relevant personnel in order to allow them to perform their tasks and to discharge their responsibilities.
+
+21.B.15 Information to the Agency
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the competent authority became aware of the problem.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council and its delegated and implementing acts, the competent authority of the Member State shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+(c) The competent authority of the Member State shall provide the Agency as soon as possible with safety-significant information stemming from the information security reports it has received pursuant to point IS.D.OR.230 of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645.
+
+21.B.20 Immediate reaction to a safety problem
+
+(a) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council and its delegated and implementing acts, the competent authority shall implement a system to appropriately collect, analyse and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any safety-relevant information received and, without undue delay, provide the relevant authority of the Member States and the Commission with any information, including recommendations or corrective actions to be taken, that is necessary for them to react in a timely manner to a safety problem that involves products, parts, appliances, control and monitoring units (CMUs), CMU components, and persons or organisations that are subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the safety problem.
+
+(d) The competent authority shall immediately notify measures taken under point (c) to all persons or organisations which need to comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, to the other Member States concerned.
+
+21.B.20A Immediate reaction to an information security incident or vulnerability with an impact on aviation safety
+
+(a) The competent authority shall implement a system to appropriately collect, analyse, and disseminate information related to information security incidents and vulnerabilities with a potential impact on aviation safety that are reported by organisations. This shall be done in coordination with any other relevant authorities responsible for information security or cybersecurity within the Member State to increase the coordination and compatibility of reporting schemes.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety-significant information received in accordance with point 21.B.15(c) and, without undue delay, provide the Member States and the Commission with any information, including recommendations or corrective actions to be taken, that is necessary for them to react in a timely manner to an information security incident or vulnerability with a potential impact on aviation safety involving products, parts, control and monitoring units (CMUs), CMU components, non-installed equipment, and persons or organisations that are subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the potential impact on aviation safety of the information security incident or vulnerability.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to all persons or organisations that shall comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, the competent authorities of the other Member States concerned.
+
+21.B.25 Management system
+
+(a) The competent authority shall establish and maintain a management system, including as a minimum:
+
+1\. documented policies and procedures to describe its organisation, the means and methods for establishing compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts. The procedures shall be kept up to date, and serve as the basic working documents within that competent authority for all its related tasks;
+
+2\. a sufficient number of personnel to perform its tasks and discharge its responsibilities. A system shall be in place to plan the availability of personnel in order to ensure the proper completion of all tasks;
+
+3\. personnel that are qualified to perform their allocated tasks and that have the necessary knowledge and experience, and receive initial and recurrent training to ensure continuing competency;
+
+4\. adequate facilities and office accommodation for personnel to perform their allocated tasks;
+
+5\. a function to monitor the compliance of the management system with the relevant requirements, and the adequacy of the procedures, including the establishment of an internal audit process and a safety risk management process. Compliance monitoring shall include a feedback system of audit findings to the senior management of the competent authority to ensure the implementation of corrective actions as necessary;
+
+6\. a person or group of persons having a responsibility to the senior management of the competent authority for the compliance monitoring function.
+
+(b) The competent authority shall, for each field of activity, including the management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The competent authority shall establish procedures for the participation in a mutual exchange of all necessary information and assistance with any other competent authorities concerned, whether from the same Member State or from other Member States, including on:
+
+1\. all findings raised and any follow-up actions taken as a result of the oversight of persons and organisations that carry out activities in the territory of a Member State, but certified by the competent authority of another Member State or by the Agency;
+
+2\. information stemming from mandatory and voluntary occurrence reporting as required by 21.A.3A.
+
+(d) A copy of the procedures related to the management system of the competent authority of the Member State and their amendments shall be made available to the Agency for the purpose of standardisation.
+
+(e) In addition to the requirements contained in point (a), the management system established and maintained by the competent authority shall comply with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+21.B.30 Allocation of tasks
+
+(a) The competent authority may allocate tasks related to the initial certification or to the continuing oversight of products and parts, as well as of natural or legal persons subject to Regulation (EU) 2018/1139 and its delegated and implementing acts to qualified entities. When allocating tasks, the competent authority shall ensure that it has:
+
+1\. put a system in place to initially and continuously assess whether the qualified entity complies with Annex VI to Regulation (EU) 2018/1139. That system and the results of the assessments shall be documented;
+
+2\. established a written agreement with the qualified entity, approved by both parties at the appropriate management level, which stipulates:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports and records to be provided;
+
+(iii) the technical conditions to be met when performing such tasks;
+
+(iv) the related liability coverage;
+
+(v) the protection given to the information acquired when carrying out such tasks.
+
+(b) The competent authority shall ensure that the internal audit process and safety risk management process established pursuant to point 21.B.25(a)(5) cover all the certification and continuing oversight tasks performed by the qualified entity on its behalf.
+
+(c) For the certification and oversight of the organisation’s compliance with points 21.A.139A and 21.A.239A, the competent authority may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Member State. When allocating tasks, the competent authority shall ensure that:
+
+(1) all aspects related to aviation safety are coordinated and taken into account by the qualified entity or relevant authority;
+
+(2) the results of the certification and oversight activities performed by the qualified entity or relevant authority are integrated in the overall certification and oversight files of the organisation;
+
+(3) its own information security management system established in accordance with point 21.B.25(e) covers all the certification and continuing oversight tasks performed on its behalf.
+
+21.B.35 Changes in the management system
+
+(a) The competent authority shall have a system in place to identify the changes that affect its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and its delegated and implementing acts. That system shall enable the competent authority to take action necessary to ensure that its management system remains adequate and effective.
+
+(b) The competent authority shall update in a timely manner its management system to reflect any changes to Regulation (EU) 2018/1139 and its delegated and implementing acts so as to ensure its effective implementation.
+
+(c) The competent authority of the Member State shall notify the Agency of any changes affecting its capability to perform its tasks and discharge its responsibilities as provided for in Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+21.B.55 Record-keeping
+
+(a) The competent authority shall establish a record-keeping system that allows the adequate storage, accessibility and reliable traceability of:
+
+1\. the management system’s documented policies and procedures;
+
+2\. the training, qualifications and authorisation of its personnel;
+
+3\. the allocation of tasks, covering the elements required by point 21.B.30, as well as the details of tasks allocated;
+
+4\. certification processes and continuing oversight of certified organisations, including:
+
+(i) the application for a certificate, approval, authorisation and letter of agreement;
+
+(ii) the competent authority’s continuing oversight programme, including all the assessments, audits and inspection records;
+
+(iii) the certificates, approvals, authorisations and letters of agreement issued, including any changes to them;
+
+(iv) a copy of the oversight programme, listing the dates when audits are due and when audits were carried out;
+
+(v) copies of all formal correspondence;
+
+(vi) recommendations for the issue or continuation of a certificate, an approval authorisation or a letter of agreement, detail of findings and actions taken by the organisations to close those findings, including the date of closure, enforcement actions and observations;
+
+(vii) any assessment, audit and inspection report issued by another competent authority pursuant to points 21.B.120(d), 21.B.221(c) or 21.B.431(c);
+
+(viii) copies of all the organisation expositions, handbooks or manuals, and of any amendments to them;
+
+(ix) copies of any other documents approved by the competent authority;
+
+5\. Statements of Conformity (EASA Form 52, see Appendix VIII) and Authorised Release Certificates (EASA Form 1, see Appendix I) that it has validated for organisations that produce products, parts or appliances without a production organisation approval certificate according to Subpart F of Section A of this Annex.
+
+(b) The competent authority shall include in the record-keeping:
+
+1\. documents supporting the use of alternative means of compliance
+
+2\. safety information in accordance with point 21.B.15 and follow-up measures;
+
+3\. the use of safeguard and flexibility provisions in accordance with Articles 70, 71(1) and 76(4) of Regulation (EU) 2018/1139.
+
+(c) The competent authority shall maintain a list of all the certificates, approvals, authorisations and letters of agreement it has issued.
+
+(d) All the records referred to in points (a), (b) and (c) shall be kept for a minimum period of 5 years, subject to applicable data protection law.
+
+(e) All the records referred to in points (a), (b) and (c) shall be made available, upon request, to a competent authorities of another Member State or to the Agency.
+
+21.B.65 Suspension, limitation and revocation
+
+The competent authority shall:
+
+(a) suspend a certificate, approval, permit to fly, authorisation or letter of agreement when it considers that there are reasonable grounds that such action is necessary to prevent a credible threat to aircraft safety;
+
+(b) suspend, revoke or limit a certificate, approval, permit to fly, authorisation or letter of agreement if such action is required pursuant to points 21.B.125, 21.B.225 or 21.B.433;
+
+(c) suspend or revoke a certificate of airworthiness or a noise certificate upon evidence that some of the conditions specified in points 21.A.181(a) or 21.A.211(a) are not met;
+
+(d) suspend or limit in whole or in part a certificate, approval, permit to fly, authorisation or letter of agreement if unforeseeable circumstances outside the control of the competent authority prevent its inspectors from discharging their oversight responsibilities over the oversight planning cycle.
+
+**SUBPART B — TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES**
+
+21.B.70 Certification specifications
+
+The Agency, in accordance with Article 76(3) of Regulation (EU) 2018/1139, shall issue certification specifications and other detailed specifications, including certification specifications for airworthiness and operational suitability data, which competent authorities, organisations and personnel may use to demonstrate compliance of products, parts, appliances, UAS, CMUs and CMU components with the relevant essential requirements set out in Annexes II, IV, V and IX to that Regulation. Such specifications shall be sufficiently detailed and specific to indicate to applicants the conditions under which certificates shall be issued, amended or supplemented.
+
+21.B.75 Special conditions
+
+(a) The Agency shall prescribe special detailed technical specifications, named ‘special conditions’, for a product, a UAS or a CMU if the related certification specifications do not contain adequate or appropriate safety standards for the product, UAS or CMU because:
+
+1\. the product, the UAS or the CMU has novel or unusual design features relative to the design practices on which the applicable certification specifications are based;
+
+2\. the intended use of the product is unconventional; or
+
+3\. in-service experience with other similar products, UAS or CMUs or with products or CMUs that have similar design features or newly identified hazards has shown that unsafe conditions may develop.
+
+(b) Special conditions contain such safety standards as the Agency finds necessary in order to establish a level of safety equivalent to that of the applicable certification specifications.
+
+21.B.80 Type-certification basis for a type-certificate or restricted type-certificate
+
+The Agency shall establish the type-certification basis and notify it to the applicant for a type-certificate or a restricted type-certificate. The type-certification basis shall consist of:
+
+(a) the certification specifications for airworthiness designated by the Agency for the product, the UAS or the CMU, as applicable on the date of application for that certificate and any special condition prescribed by the Agency in accordance with point 21.B.75(a), unless:
+
+1\. the applicant chooses to comply, or is required to comply in accordance with point 21.A.15(f), with certification specifications which became applicable after the date of the application; If an applicant chooses to comply with a certification specification which became applicable after the date of the application, the Agency shall include in the type-certification basis any other certification specification that is directly related; or
+
+2\. the Agency accepts any alternative to a designated certification specification that cannot be complied with, for which compensating factors have been found that provide an equivalent level of safety; or
+
+3\. the Agency accepts or prescribes other means that:
+
+(i) in the case of a type-certificate, demonstrate compliance with the essential requirements of Annex II and, where applicable, of Annex IX to Regulation (EU) 2018/1139; or
+
+(ii) in the case of a restricted type-certificate, provide a level of safety adequate with regard to the intended use; and
+
+(b) Reserved.
+
+21.B.82 Operational suitability data certification basis for an aircraft type-certificate or restricted type-certificate
+
+The Agency shall establish the operational suitability data certification basis and notify it to the applicant for an aircraft type-certificate or restricted type-certificate. The operational suitability data certification basis shall consist of:
+
+(a) the certification specifications for operational suitability data designated by the Agency out of those applicable to the aircraft at the date of the application or at the date of the application supplement for operational suitability data, whichever date is later, unless:
+
+1\. the applicant chooses to comply, or in accordance with point 21.A.15(f) is required to comply with certification specifications which became applicable after the date of the application; If an applicant chooses to comply with a certification specification which became applicable after the date of the application, the Agency shall include in the type-certification basis any other certification specification that is directly related; or
+
+2\. the Agency accepts or prescribes alternative means to demonstrate compliance with the relevant essential requirements of Annexes II, IV, V and IX to Regulation (EU) 2018/1139;
+
+(b) any special condition prescribed by the Agency in accordance with point 21.B.75(a).
+
+21.B.85 Applicable environmental protection requirements for a type certificate or restricted type certificate
+
+(a) For a type certificate or restricted type certificate for an aircraft or for a type certificate for an engine, the Agency shall designate and notify to the applicant the applicable environmental protection requirements from the essential requirements referred to in the first subparagraph of Article 9(2) of Regulation (EU) 2018/1139.
+
+(b) (reserved).
+
+21.B.100 Level of involvement
+
+(a) The Agency shall determine its involvement in the verification of the compliance demonstration activities and data related to the application for a type certificate, restricted type certificate, major change approval, supplemental type certificate, major repair design approval or ETSO authorisation for APUs. It shall do so on the basis of an assessment of meaningful groups of compliance demonstration activities and data of the certification programme. That assessment shall address:
+
+— the likelihood of an unidentified non-compliance with the type-certification basis, operational suitability data certification basis or applicable environmental protection requirements; and
+
+— the potential impact of that non-compliance on product, UAS and CMU safety or environmental compatibility,
+
+and consider at least the following elements:
+
+1\. novel or unusual features of the certification project, including operational, organisational and knowledge management aspects;
+
+2\. complexity of the design and/or demonstration of compliance;
+
+3\. criticality of the design or technology and the related safety and environmental risks, including those identified on similar designs; and
+
+4\. performance and experience of the design organisation of the applicant in the domain concerned.
+
+(b) For the approval of a minor repair design, minor change or ETSO authorisation other than for APU, the Agency shall determine its involvement at the level of the entire certification project, taking into account any novel or unusual features, complexity of the design and/or demonstration of compliance, criticality of the design or technology, as well as the performance and experience of the applicant's design organisation.
+
+(c) The Agency shall notify its level of involvement to the applicant and it shall update its level of involvement when this is warranted by information which has an appreciable impact on the risk previously assessed pursuant to point (a) or (b). The Agency shall notify the applicant about the change in the level of involvement.
+
+21.B.103 Issuance of a type-certificate or a restricted type-certificate
+
+(a) The Agency shall issue an aircraft, engine, propeller or CMU type-certificate or an aircraft restricted type-certificate, provided that all of the following conditions are fulfilled:
+
+1\. the applicant complies with point 21.A.21;
+
+2\. the Agency, through verification of the demonstration of compliance in accordance with its involvement determined in accordance with point 21.B.100, has not found any non-compliance with the applicable type-certification basis, the operational suitability data certification basis, where applicable, in accordance with point 21.B.82, and the applicable environmental protection requirements;
+
+3\. no feature or characteristic has been identified that may render the product, the UAS or the CMU unsafe for the use for which certification is requested.
+
+(b) By derogation from point (a), at the applicant's request included in the declaration referred to in point 21.A.20(d), the Agency may issue an aircraft type-certificate before compliance with the operational suitability data certification basis has been demonstrated, provided that the applicant demonstrates such compliance before the date at which those data are to be actually used.
+
+**(SUBPART C — NOT APPLICABLE)**
+
+**SUBPART D — CHANGES TO TYPE-CERTIFICATES AND RESTRICTED TYPE-CERTIFICATES**
+
+21.B.105 Type-certification basis, environmental protection requirements and operational suitability data certification basis for a major change to a type certificate
+
+The Agency shall establish the applicable type-certification basis, the applicable environmental protection requirements and, in the case of a change affecting the operational suitability data, the operational suitability data certification basis established in accordance with point 21.A.101 and notify them to the applicant for a major change to a type certificate.
+
+21.B.107 Issuance of an approval of a change to a type-certificate
+
+(a) The Agency shall issue an approval of a change to a type-certificate provided that:
+
+1\. the applicant for an approval has complied with:
+
+(i) point 21.A.95 for a minor change; or
+
+(ii) point 21.A.97 for a major change;
+
+2\. the Agency, through verification of the demonstration of compliance in accordance with the level of its involvement established on the basis of point 21.B.100(a) or (b) has not found any non-compliance with the applicable type-certification basis, operational suitability data certification basis, where applicable, in accordance with point 21.B.82, and the applicable environmental protection requirements; and
+
+3\. no feature or characteristic has been identified that may render the product, the UAS or the CMU unsafe for the use for which certification is requested.
+
+(b) In the case of a change that affects the operational suitability data, by way of derogation from points 1 and 2 of point (a), at the applicant’s request included in the declaration referred to in point 21.A.20(d), the Agency may approve a change to an aircraft type-certificate before compliance with the applicable operational suitability data certification basis has been demonstrated, provided that the applicant demonstrates such compliance before the date on which this data is to be actually used.
+
+(c) The approval of the changes to the operational suitability data shall be included in the approval of the change to the type-certificate.
+
+(d) The approval of a change to a type-certificate shall be limited to the specific configuration(s) in the type-certificate to which the change relates.
+
+**SUBPART E — SUPPLEMENTAL TYPE-CERTIFICATES**
+
+In this Subpart, references to type-certificates include type-certificates and restricted type-certificates.
+
+21.B.109 Type-certification basis, environmental protection requirements and operational suitability data certification basis for a supplemental type certificate
+
+The Agency shall establish the applicable type-certification basis, the applicable environmental protection requirements and, in the case of a change affecting the operational suitability data, the operational suitability data certification basis established in accordance with point 21.A.101 and notify them to the applicant for a supplemental type certificate.
+
+21.B.111 Issuance of a supplemental type-certificate
+
+(a) The Agency shall issue a supplemental type-certificate, provided that all of the following conditions are fulfilled:
+
+1\. the applicant complies with point 21.A.115(b);
+
+2\. the Agency, through verification of the demonstration of compliance in accordance with the level of involvement established on the basis of point 21.B.100(a), has not found any non-compliance with the applicable type-certification basis, operational suitability data certification basis, where applicable, in accordance with point 21.B.82, and the applicable environmental protection requirements;
+
+3\. no feature or characteristic has been identified that may render the product, the UAS or the CMU unsafe for the use for which certification is requested.
+
+(b) In the case of a supplemental type-certificate that affects the operational suitability data, by way of derogation from points 1 and 2 of point (a), at the applicant’s request included in the declaration referred to in point 21.A.20(d), the Agency may issue a supplemental type-certificate before compliance with the applicable operational suitability data certification basis has been demonstrated, provided that the applicant demonstrates such compliance before the date on which this data is to be actually used.
+
+(c) The approval of the changes to the operational suitability data shall be included in the supplemental type-certificate.
+
+(d) The supplemental type-certificate shall be limited to the specific configuration(s) in the type-certificate to which the related major change relates.
+
+21.B.115 Means of compliance
+
+(a) The Agency shall develop acceptable means of compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to establish compliance with this Regulation.
+
+(c) Competent authorities shall inform the Agency of any alternative means of compliance used by organisations under their oversight or by themselves for establishing compliance with this Regulation.
+
+**SUBPART F — PRODUCTION WITHOUT PRODUCTION ORGANISATION APPROVAL**
+
+21.B.120 Initial certification procedure
+
+(a) Upon receiving an application for the issue of a letter of agreement for the purpose of demonstrating conformity of the individual products, parts, appliances, control and monitoring units (CMUs) and CMU components, the competent authority shall verify the applicant’s compliance with the applicable requirements.
+
+(b) The competent authority shall record all the findings issued, closure actions as well as recommendations for the issue of the letter of agreement.
+
+(c) The competent authority shall confirm to the applicant in writing all the findings raised during the verification. For initial certification, all findings must be corrected to the satisfaction of the competent authority before the letter of agreement can be issued.
+
+(d) When satisfied that the applicant complies with the applicable requirements, the competent authority shall issue the letter of agreement (EASA Form 65, see Appendix XI).
+
+(e) The letter of agreement shall contain the scope of the agreement, a termination date and, where applicable, the appropriate limitations.
+
+(f) The duration of the letter of agreement shall not exceed 1 year.
+
+21.B.125 Findings and corrective actions; observations
+
+(a) The competent authority shall have a system in place to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the terms of the letter of agreement which lowers safety or seriously endangers flight safety.
+
+Level 1 findings shall also include:
+
+1\. any failure to grant the competent authority access to the organisation’s facilities referred to in point 21.A.9 during normal operating hours and after two written requests;
+
+2\. obtaining the letter of agreement or maintaining its validity by falsification of the submitted documentary evidence; and
+
+3\. any evidence of malpractice or fraudulent use of the letter of agreement.
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the terms of the letter of agreement, which is not classified as a level 1 finding.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate in writing the finding to the organisation and request corrective action to address the non-compliance(s) identified. Where a level 1 finding directly relates to an aircraft, or to a control and monitoring unit (CMU), the competent authority shall inform the competent authority of the Member State where the aircraft, or the unmanned aircraft (UA) controlled by that CMU, is registered.
+
+1\. If there are any level 1 findings, the competent authority shall take immediate and appropriate action to prohibit or limit the activities of the organisation involved and, if appropriate, it shall take action to revoke the letter of agreement or to limit or suspend it in whole or in part, depending on the extent of the level 1 finding, until successful corrective action has been taken by the organisation.
+
+2\. If there are any level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period that is appropriate to the nature of the finding, and that in any case shall initially not be more than 3 months. The period shall commence from the date of the written communication of the finding to the organisation, requesting corrective action to address the non-compliance identified. At the end of that period, and subject to the nature of the finding, the competent authority may extend the 3-month period provided that a corrective action plan has been agreed with the competent authority;
+
+(ii) assess the corrective action plan and implementation plan proposed by the organisation, and if the assessment concludes that they are sufficient to address the non-compliance, accept them;
+
+(iii) if the organisation fails to submit an acceptable corrective action plan, or fails to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to level 1 and action shall be taken as laid down in point (f)(1)(i).
+
+(e) The competent authority may issue observations for any of the following cases not requiring level 1 or level 2 findings:
+
+1\. for any item whose performance has been assessed to be ineffective;
+
+2\. when it has been identified that an item has the potential to cause a non-compliance under points (b) or (c);
+
+3\. when suggestions or improvements are of interest for the overall safety performance of the organisation.
+
+The observations issued under this point shall be communicated in writing to the organisation and recorded by the competent authority.
+
+21.B.135 Maintenance of the letter of agreement
+
+The competent authority shall maintain the letter of agreement for as long as:
+
+(a) the manufacturer properly uses the EASA Form 52 (see Appendix VIII) as a statement of conformity for complete aircraft, and the EASA Form 1 (see Appendix I) for products other than complete aircraft, parts, appliances, control and monitoring units (CMUs) and CMU components; and
+
+(b) inspections performed by the competent authority of the Member State before validation of the EASA Form 52 (see Appendix VIII) or the EASA Form 1 (see Appendix I), as per point 21.A.130(c) did not reveal any findings of non-compliance with the requirements or the procedures as contained in the manual provided by the manufacturer, or any non-conformity of the respective products, parts or appliances. These inspections shall check at least that:
+
+1\. the agreement covers the product, part, appliance, control and monitoring unit (CMU) or CMU component to be validated, and remains valid;
+
+2\. the manual described in point 21.A.125A(b) and its change status referred in the letter of agreement is used as basic working document by the manufacturer. Otherwise, the inspection shall not continue and therefore the release certificates shall not be validated;
+
+3\. production has been carried out under the conditions prescribed in the letter of agreement and satisfactorily performed;
+
+4\. inspections and tests (including flight tests, if appropriate), as per points 21.A.130(b)(2) and/or (b)(3), have been carried out under the condition prescribed in the letter of agreement and satisfactorily performed;
+
+5\. the inspections by the competent authority described or addressed in the letter of agreement have been performed and found acceptable;
+
+6\. the statement of conformity complies with point 21.A.130, and the information provided by it does not prevent its validation; and
+
+(c) any termination date for the letter of agreement has not been reached.
+
+21.B.140 Amendment of a letter of agreement
+
+(a) The competent authority shall investigate, as appropriate, in accordance with point 21.B.120 any amendment of the letter of agreement.
+
+(b) When the competent authority is satisfied that the requirements of Section A, Subpart F continue to be complied with, it shall amend the letter of agreement accordingly.
+
+**SUBPART G — PRODUCTION ORGANISATION APPROVAL**
+
+21.B.215 Means of compliance
+
+(a) The Agency shall develop acceptable means of compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to establish compliance with this Regulation.
+
+(c) Competent authorities shall inform the Agency of any alternative means of compliance used by organisations under their oversight or by themselves for establishing compliance with this Regulation.
+
+21.B.220 Initial certification procedure
+
+(a) Upon receiving an application for the initial issue of a production organisation approval certificate, the competent authority shall verify the applicant’s compliance with the applicable requirements.
+
+(b) A meeting with the accountable manager of the applicant shall be convened at least once during the investigation for initial certification to ensure that this person understands his or her role and accountability.
+
+(c) The competent authority shall record all the findings issued, closure actions as well as the recommendations for the issue of the production organisation approval certificate.
+
+(d) The competent authority shall confirm to the applicant in writing all the findings raised during the verification. For initial certification, all findings must be corrected to the satisfaction of the competent authority before the certificate can be issued.
+
+(e) When satisfied that the applicant complies with the applicable requirements, the competent authority shall issue the production organisation approval certificate (EASA Form 55, see Appendix X).
+
+(f) The certificate reference number shall be included on the EASA Form 55 in a manner specified by the Agency.
+
+(g) The certificate shall be issued for an unlimited duration. The privileges and the scope of the activities that the organisation is approved to conduct, including any limitations as applicable, shall be specified in the terms of approval attached to the certificate.
+
+21.B.221 Oversight principles
+
+(a) The competent authority shall verify:
+
+1\. compliance with the requirements that are applicable to organisations, prior to issuing the production organisation approval certificate;
+
+2\. continued compliance with the applicable requirements of the organisations it has certified;
+
+3\. the implementation of appropriate safety measures mandated by the competent authority according to points 21.B.20(c) and (d).
+
+(b) This verification shall:
+
+1\. be supported by documentation specifically intended to provide personnel responsible for oversight with guidance to perform their functions;
+
+2\. provide the organisations concerned with the results of oversight activities;
+
+3\. be based on assessments, audits, inspections and, if needed, unannounced inspections;
+
+4\. provide the competent authority with the evidence needed in case further action is required, including the measures provided for in point 21.B.225.
+
+(c) The competent authority shall establish the scope of the oversight defined in points (a) and (b) taking into account the results of past oversight activities and the safety priorities.
+
+(d) If the facilities of an organisation are located in more than one State, the competent authority, as defined in point 21.1, may agree to have the oversight tasks performed by the competent authority(ies) of the Member State(s) where the facilities are located, or by the Agency for facilities that are located outside a territory for which Member States are responsible under the Chicago Convention. Any organisation that is subject to such an agreement shall be informed of its existence and of its scope.
+
+(e) For any oversight activities that are performed at facilities located in a Member State other than where the organisation has its principal place of business, the competent authority, as defined in point 21.1, shall inform the competent authority of that Member State before performing any on-site audit or inspection of the facilities.
+
+(f) The competent authority shall collect and process any information deemed necessary for performing oversight activities.
+
+(g) With regard to the certification and oversight of the organisation’s compliance with point 21.A.139A of this Annex, in addition to complying with points (a) to (f) of this point, the competent authority shall review any approval granted under point IS.D.OR.200(e) of the Annex to Commission Delegated Regulation (EU) 2022/1645 ( 10 ) following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+21.B.222 Oversight programme
+
+(a) The competent authority shall establish and maintain an oversight programme covering the oversight activities required by point 21.B.221(a).
+
+(b) The oversight programme shall take into account the specific nature of the organisation, the complexity of its activities, the results of past certification and/or oversight activities, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+1\. assessments, audits and inspections, including, as appropriate:
+
+(i) management system assessments and process audits;
+
+(ii) product audits of a relevant sample of the products, parts, appliances, control and monitoring units (CMUs) and CMU components that are within the scope of the organisation;
+
+(iii) sampling of the work performed; and
+
+(iv) unannounced inspections;
+
+2\. meetings convened between the accountable manager and the competent authority to ensure that both parties remain informed of all significant issues.
+
+(c) The oversight planning cycle shall not exceed 24 months.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the competent authority has established that during the previous 24 months:
+
+1\. the organisation has demonstrated that it can effectively identify aviation safety hazards and manage the associated risks;
+
+2\. the organisation has continuously demonstrated compliance with points 21.A.147 and 21.A.148 and it has full control over all changes to the production management system;
+
+3\. no level 1 findings have been issued;
+
+4\. all corrective actions have been implemented within the time period that was accepted or extended by the competent authority as defined in point 21.B.225.
+
+Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in points (1) to (4) above, the organisation has established, and the competent authority has approved, an effective continuous system for reporting to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(e) The oversight planning cycle may be reduced if there is evidence that the safety performance of the organisation has decreased.
+
+(f) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the approval, reflecting the results of the oversight.
+
+21.B.225 Findings and corrective actions; observations
+
+(a) The competent authority shall have a system in place to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the certificate including the terms of approval which lowers safety or seriously endangers flight safety.
+
+The level 1 findings shall also include:
+
+1\. any failure to grant the competent authority access to the organisation’s facilities referred to in point 21.A.9 during normal operating hours and after two written requests;
+
+2\. obtaining the production organisation approval certificate or maintaining its validity by falsification of the submitted documentary evidence;
+
+3\. any evidence of malpractice or fraudulent use of the production organisation approval certificate; and
+
+4\. failure to appoint an accountable manager pursuant to point 21.A.245(a)/
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the certificate including the terms of approval, which is not classified as a level 1 finding.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate in writing the finding to the organisation and request corrective action to address the non-compliance(s) identified. Where a level 1 finding directly relates to an aircraft, the competent authority shall inform the competent authority of the Member State in which the aircraft is registered.
+
+1\. If there are any level 1 findings, the competent authority shall take immediate and appropriate action to prohibit or limit the activities of the organisation involved and, if appropriate, it shall take action to revoke the production organisation approval certificate or to limit or suspend it in whole or in part, depending upon the extent of the level 1 finding, until successful corrective action has been taken by the organisation.
+
+2\. If there are any level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period that is appropriate to the nature of the finding, and that in any case shall initially not be more than 3 months. The period shall commence from the date of the written communication of the finding to the organisation requesting corrective action to address the non-compliance identified. At the end of this period, and subject to the nature of the finding, the competent authority may extend the 3-month period provided that a corrective action plan has been agreed by the competent authority;
+
+(ii) assess the corrective action and implementation plan proposed by the organisation, and if the assessment concludes that they are sufficient to address the non-compliance, accept them;
+
+(iii) if the organisation fails to submit an acceptable corrective action plan, or fails to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to level 1 and action shall be taken as laid down in point (d)(1).
+
+(e) The competent authority may issue observations for any of the following cases not requiring level 1 or level 2 findings:
+
+1\. for any item whose performance has been assessed to be ineffective; or
+
+2\. when it has been identified that an item has the potential to cause a non-compliance under points (b) or (c); or
+
+3\. when suggestions or improvements are of interest for the overall safety performance of the organisation.
+
+The observations issued under this point shall be communicated in writing to the organisation and recorded by the competent authority.
+
+21.B.240 Changes in production management system
+
+(a) Upon receiving an application for a significant change to the production management system, the competent authority shall verify the organisation’s compliance with the applicable requirements of this Annex before issuing the approval.
+
+(b) The competent authority shall establish the conditions under which the organisation may operate during the evaluation of a change unless the competent authority determines that the production organisation approval certificate needs to be suspended.
+
+(c) When it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+(d) Without prejudice to any additional enforcement measures, if the organisation implements a significant change to the production management system without having received the approval of the competent authority pursuant to point (c), the competent authority shall consider the need to suspend, limit or revoke the organisation’s certificate.
+
+(e) For non-significant changes to the production management system, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles set forth in point 21.B.221. If any non-compliance is found, the competent authority shall notify the organisation, request further changes and act in accordance with point 21.B.225.
+
+21.B.240A Changes to the information security management system
+
+(a) For changes managed and notified to the competent authority in accordance with the procedure set out in point IS.D.OR.255(a) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point 21.B.221. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point 21.B.225.
+
+(b) For other changes requiring an application for approval in accordance with point IS.D.OR.255(b) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+**SUBPART H — CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS**
+
+21.B.320 Investigation
+
+(a) Except for the issuance of an airworthiness certificate pursuant to points 21.B.326(a)(2)(i) or 21.B.327(a)(2)(i), the competent authority of the Member State of registry shall perform sufficient investigation activities to justify the issuance, continued validity, amendment, suspension or revocation of the certificate of airworthiness or restricted certificate of airworthiness.
+
+(b) The competent authority of the Member State of registry shall establish procedures for its investigations, covering at least the following elements:
+
+1\. evaluation of the eligibility of the applicant;
+
+2\. evaluation of the conditions for the application;
+
+3\. classification of airworthiness certificates;
+
+4\. evaluation of the documentation received with the application;
+
+5\. inspection of the aircraft;
+
+6\. determination of the necessary conditions, restrictions or limitations to the airworthiness certificates;
+
+7\. acceptance of the evaluation programme and assessment of the evaluation report developed in accordance with point 21.A.174(d).
+
+21.B.325 Issuance of airworthiness certificates
+
+(a) The competent authority of the Member State of registry shall issue, or make changes to, a certificate of airworthiness (EASA Form 25, see Appendix VI) without undue delay when it is satisfied that the requirements of point 21.B.326 and the applicable requirements of Subpart H of Section A of this Annex are met.
+
+(b) The competent authority of the Member State of registry shall issue, or make changes to, a restricted certificate of airworthiness (EASA Form 24, see Appendix V) without undue delay when it is satisfied that the requirements of point 21.B.327 and the applicable requirements of Subpart H of Section A of this Annex are met.
+
+(c) Where applicable, in addition to the airworthiness certificate referred to in point (a) or point (b), the competent authority of the Member State of registry shall issue an airworthiness review certificate in accordance with point M.B.901 of Annex I (Part-M) or point ML.B.901 of Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, or point AR.UAS.CAW.902 of the Annex (Part-AR.UAS) to Commission Implementing Regulation (EU) 2024/1109 ( 11 ), as applicable.
+
+21.B.326 Certificate of airworthiness
+
+(a) The competent authority of the Member State of registry shall issue a certificate of airworthiness for:
+
+(1) new aircraft:
+
+(i) upon presentation of the documentation required by point 21.A.174(b)(2);
+
+(ii) where the competent authority of the Member State of registry is satisfied that the aircraft is in compliance with the applicable CO2 emissions requirements on the date on which the certificate of airworthiness is first issued;
+
+(2) used aircraft transferred from another Member State having a certificate of airworthiness issued in accordance with this Annex, upon presentation of a copy of the current certificate of airworthiness and one of the following:
+
+(i) the documentation required by point 21.A.174(b)(3)(i)(A);
+
+(ii) the documentation required by point 21.A.174(b)(3)(i)(B);
+
+(3) used aircraft not having a certificate of airworthiness issued in accordance with this Annex, upon presentation of the documentation required by point 21.A.174(b)(3)(ii) demonstrating that the following conditions are met:
+
+(i) the aircraft or the UAS, as applicable, conforms to a design approved under a type certificate, and any supplemental type certificate, change or repair approved in accordance with this Annex;
+
+(ii) the applicable airworthiness directives have been complied with;
+
+(iii) an airworthiness review has been carried out in accordance with the applicable requirement of Annex I (Part-M) or Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, or Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107, as applicable;
+
+(iv) the aircraft was in compliance with the applicable CO2 emissions requirements on the date on which the certificate of airworthiness was first issued.
+
+(b) For the cases referred to in points (a)(1), (a)(2)(ii) and (a)(3), the Member State of registry shall issue a certificate of airworthiness where it is satisfied that the aircraft or the UAS, as applicable, conforms to an approved design and is in a condition for safe operation. This may include inspections by the competent authority of the Member State of registry.
+
+21.B.327 Restricted certificate of airworthiness
+
+(a) The competent authority of the Member State of registry shall issue a restricted certificate of airworthiness for:
+
+1\. new aircraft, upon presentation of the documentation required by point 21.A.174(b)(2);
+
+2\. used aircraft transferred from another Member State having a restricted certificate of airworthiness issued in accordance with this Annex, upon presentation of a copy of the current restricted certificate of airworthiness and any of the following:
+
+(i) the documentation required by point 21.A.174(b)(3)(i)(A);
+
+(ii) the documentation required by point 21.A.174(b)(3)(i)(B);
+
+3\. used aircraft not having a restricted certificate of airworthiness issued in accordance with this Annex, upon presentation of the documentation required by point 21.A.174(b)(3)(ii) demonstrating that the following conditions are met:
+
+(i) the aircraft or the UAS, as applicable, conforms to a design approved under a restricted type certificate or in accordance with specific airworthiness specifications, and any supplemental type-certificate, change or repair approved in accordance with this Annex;
+
+(ii) the applicable airworthiness directives have been complied with;
+
+(iii) an airworthiness review has been carried out in accordance with the applicable requirement of Annex I (Part-M) or Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, or Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107, as applicable.
+
+(b) For an aircraft that cannot comply with the essential requirements referred to in Regulation (EC) No 216/2008 and which is not eligible for a restricted type-certificate, the Agency shall, as necessary to take account of deviations from these essential requirements:
+
+1\. issue and check compliance with specific airworthiness specifications ensuring adequate safety with regard to the intended use, and
+
+2\. specify limitations for use of this aircraft.
+
+(c) Limitations for use will be associated with restricted certificates of airworthiness, including airspace restrictions, as necessary to take account of deviations from essential requirements for airworthiness laid down in Regulation (EC) No 216/2008.
+
+(d) For the cases referred to in points (a)(1), (a)(2)(ii) and (a)(3), the Member State of registry shall issue a restricted certificate of airworthiness when satisfied that the aircraft or the UAS, as applicable, conforms to an approved design and is in a condition for safe operation. This may include inspections by the competent authority of the Member State of registry.
+
+**SUBPART I — NOISE CERTIFICATES**
+
+21.B.420 Investigation
+
+(a) The competent authority of the Member State of registry shall perform sufficient investigation activities for an applicant for, or holder of, a noise certificate to justify the issuance, maintenance, amendment, suspension or revocation of the certificate.
+
+(b) The competent authority of the Member State of registry shall prepare evaluation procedures as part of the documented procedures covering at least the following elements:
+
+1\. evaluation of eligibility;
+
+2\. evaluation of the documentation received with the application;
+
+3\. inspection of aircraft.
+
+21.B.425 Issuance of noise certificates
+
+The competent authority of the Member State of registry shall, as applicable, issue, or amend noise certificates (EASA Form 45, see Appendix VII) without undue delay when it is satisfied that the applicable requirements of Section A, Subpart I are met.
+
+**SUBPART J — DESIGN ORGANISATION APPROVAL**
+
+21.B.430 Initial certification procedure
+
+(a) Upon receiving an application for the initial issue of a design organisation approval, the competent authority shall verify the applicant’s compliance with the applicable requirements,
+
+(b) A meeting with the head of the design organisation shall be convened at least once during the investigation for initial certification to ensure that this person understands their role and accountability.
+
+(c) The competent authority shall record all the findings issued, closure actions as well as recommendations for the issue of the design organisation approval.
+
+(d) The competent authority shall confirm to the applicant in writing all the findings raised during the verification. For initial certification, all findings must be corrected to the satisfaction of the competent authority before the design organisation approval can be issued.
+
+(e) When satisfied that the applicant complies with the applicable requirements, the competent authority shall issue the design organisation approval.
+
+(f) The certificate reference number shall be included in the design organisation approval in a manner specified by the Agency.
+
+(g) The certificate shall be issued for an unlimited period of time. The privileges and the scope of the activities that the design organisation is approved to perform, including any limitations as applicable, shall be specified in the terms of approval attached to the design organisation approval.
+
+21.B.431 Oversight principles
+
+The competent authority shall verify whether certified organisations continue to comply with the applicable requirements
+
+(a) The verification shall:
+
+1\. be supported by documentation specifically intended to provide personnel responsible for oversight with guidance to perform their functions;
+
+2\. provide the organisations concerned with the results of oversight activities;
+
+3\. be based on assessments, audits, inspections and, if needed, unannounced inspections;
+
+4\. provide the competent authority with the evidence needed in case further action is required, including the measures provided for in point 21.B.433.
+
+(b) The competent authority shall establish the scope of the oversight set out in point (a) taking into account the results of past oversight activities and the safety priorities.
+
+(c) The competent authority shall collect and process any information deemed necessary for performing oversight activities.
+
+(d) With regard to the certification and oversight of the organisation’s compliance with point 21.A.239A of this Annex, in addition to complying with points (a) to (c) of this point, the competent authority shall review any approval granted under point IS.D.OR.200(e) of the Annex to Delegated Regulation (EU) 2022/1645 following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+21.B.432 Oversight programme
+
+(a) The competent authority shall establish and maintain an oversight programme covering the oversight activities required to comply with point 21.B.431(a).
+
+(b) The oversight programme shall take into account the specific nature of the organisation, the complexity of its activities, the results of past certification or oversight activities, or both, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+1\. assessments, audits and inspections, including, where appropriate:
+
+(i) management system assessments and process audits;
+
+(ii) product, UAS and CMU audits of a relevant sample of the design and certification of the products, parts, appliances, UAS, CMUs and CMU components that are within the scope of work of the organisation;
+
+(iii) sampling of the work performed;
+
+(iv) unannounced inspections;
+
+2\. meetings convened between the head of the design organisation and the competent authority to ensure that both parties remain informed of all significant issues.
+
+(c) The oversight planning cycle shall not exceed 24 months.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the competent authority has established that during the previous 24 months:
+
+1\. the organisation has demonstrated that it can effectively identify aviation safety hazards and manage the associated risks;
+
+2\. the organisation has continuously demonstrated compliance with point 21.A.247 and has full control over all changes to the design management system;
+
+3\. no level 1 findings have been issued;
+
+4\. all corrective actions have been implemented within the time period that was accepted or extended by the competent authority as provided for in point 21.B.433(d).
+
+Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions laid down in points (d)(1) to (d)(4), the organisation has established, and the competent authority has approved, an effective continuous system for reporting to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(e) The oversight planning cycle may be reduced if there is evidence that the safety performance of the organisation has decreased.
+
+(f) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the approval, reflecting the results of the oversight.
+
+21.B.433 Findings and corrective actions; observations
+
+(a) The competent authority shall have a system in place to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when a non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the design organisation’s certificate including the terms of approval, which may lead to uncontrolled non-compliances and to a potential unsafe condition.
+
+The level 1 findings shall also include:
+
+1\. any failure to grant the competent authority access to the organisation’s facilities referred to in point 21.A.9 during normal operating hours and after two written requests;
+
+2\. obtaining the design organisation approval or maintaining its validity by falsification of the submitted documentary evidence;
+
+3\. any evidence of malpractice or fraudulent use of the design organisation approval;
+
+4\. failure to appoint a head of the design organisation pursuant to point 21.A.245(a).
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the certificate including the terms of approval, which is not classified as a level 1 finding.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate in writing the finding to the organisation and request corrective action to address the non-compliance(s) identified. Where a level 1 finding directly relates to a product, the competent authority shall inform the competent authority of the Member State in which the aircraft is registered.
+
+1\. If there are any level 1 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period that is appropriate to the nature of the finding and that in any case shall not be more than 21 working days. That period shall commence from the date of the written communication of the finding to the organisation requesting corrective action to address the non-compliance(s) identified;
+
+(ii) assess the corrective action plan and implementation plan proposed by the organisation, and if it concludes that they are sufficient to address the non-compliance(s), accept them;
+
+(iii) if the organisation fails to submit an acceptable corrective action plan, or fails to perform the corrective action within the time period accepted by the competent authority, take immediate and appropriate action to prohibit or limit the activities of the organisation involved and, if appropriate, take action to revoke the design organisation approval or to limit or suspend it in whole or in part, depending upon the extent of the level 1 finding, until successful corrective action has been taken by the organisation.
+
+2\. If there are any level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period that is appropriate to the nature of the finding, and that in any case shall initially not be more than 3 months. That period shall commence from the date of the written communication of the finding requesting corrective action. At the end of this period, and subject to the nature of the finding, the competent authority may extend the 3-month period provided that a corrective action plan has been agreed by the competent authority;
+
+(ii) assess the corrective action and the implementation plan proposed by the organisation, and if it concludes that they are sufficient to address the non-compliance(s), accept them;
+
+(iii) if the organisation fails to submit an acceptable corrective action plan, or fails to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to level 1 and action shall be taken as laid down in point (d)(1).
+
+(e) The competent authority may issue observations for any of the following cases not requiring level 1 or level 2 findings:
+
+1\. for any item whose performance has been assessed to be ineffective;
+
+2\. when it has been identified that an item has the potential to cause a non-compliance under points (b) or (c);
+
+3\. when suggestions or improvements are of interest for the overall safety performance of the organisation.
+
+The observations issued under this point shall be communicated in writing to the organisation and recorded by the competent authority.
+
+21.B.435 Changes in the design management system
+
+(a) Upon receiving an application for a significant change to the design management system, the competent authority shall verify the organisation’s compliance with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, before issuing the approval.
+
+(b) The competent authority shall establish the conditions under which the organisation may operate during the change unless the competent authority determines that the design organisation approval needs to be suspended.
+
+(c) When it is satisfied that the organisation complies with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, the competent authority shall approve the change.
+
+(d) Without prejudice to any additional enforcement measures, if the organisation implements a significant change to the design management system without having received the approval of the competent authority pursuant to point (c), the competent authority shall consider the need to suspend, limit or revoke the organisation’s certificate.
+
+(e) For non-significant changes to the design management system, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles set forth in point 21.B.431. If any non-compliance is found, the competent authority shall notify the organisation, request further changes and act in accordance with point 21.B.433.
+
+21.B.435A Changes to the information security management system
+
+(a) For changes managed and notified to the competent authority in accordance with the procedure set out in point IS.D.OR.255(a) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point 21.B.431. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point 21.B.433.
+
+(b) For other changes requiring an application for approval in accordance with point IS.D.OR.255(b) of the Annex (Part-IS.D.OR) to Delegated Regulation (EU) 2022/1645:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+**SUBPART K — PARTS, APPLIANCES, AND CONTROL AND MONITORING UNIT (CMU) COMPONENTS**
+
+Administrative procedures established by the Agency shall apply.
+
+**(SUBPART L — NOT APPLICABLE)**
+
+**SUBPART M — REPAIRS**
+
+21.B.450 Amendments to the type-certification basis for a repair design approval
+
+The Agency shall designate any amendments to the type-certification basis incorporated by reference in, as applicable, either the type-certificate, the supplemental type-certificate or the APU ETSO authorisation, which the Agency considers necessary for maintaining a level of safety equal to that previously established and notify them to the applicant for a repair design.
+
+21.B.453 Issuance of a repair design approval
+
+(a) The Agency shall issue an approval of a major repair design, provided that:
+
+1\. the applicant has demonstrated its capability in accordance with point 21.A.432B;
+
+2\. the applicant has complied with point 21.A.433;
+
+3\. the Agency, through its verification of the demonstration of compliance in accordance with the level of involvement established pursuant to point 21.B.100(a), has not found any non-compliance with the type-certification basis and the applicable environmental protection requirements; and
+
+4\. no feature or characteristic has been identified that may make the product, the UAS or the CMU unsafe for the use for which certification is requested.
+
+(b) The Agency shall issue an approval of a minor repair design, provided that the applicant has complied with points 2 and 4 of point (a) and provided that the Agency, through its verification of the demonstration of compliance in accordance with the level of involvement pursuant to point 21.B.100(b), has not found any non-compliance with the type-certification basis and the applicable environmental protection requirements.
+
+**(SUBPART N — NOT APPLICABLE)**
+
+**SUBPART O — EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS**
+
+21.B.480 Issuance of an ETSO authorisation
+
+The Agency shall issue an ETSO authorisation, provided that:
+
+(a) the applicant has complied with point 21.A.606;
+
+(b) the Agency, through its verifications of the demonstration of compliance in accordance with the level of involvement pursuant to point 21.B.100(b), has not found any non-compliance with the technical conditions of the applicable ETSO or with deviations therefrom approved in accordance with point 21.A.610, if any; and
+
+(c) no feature or characteristic has been identified that may make the article unsafe for the uses for which certification is requested.
+
+**SUBPART P — PERMIT TO FLY**
+
+21.B.520 Investigation
+
+(a) The competent authority shall perform sufficient investigation activities to justify the issuance, or revocation of the permit to fly.
+
+(b) The competent authority shall prepare evaluation procedures covering at least the following elements:
+
+1\. evaluation of the eligibility of the applicant;
+
+2\. evaluation of the eligibility of the application;
+
+3\. evaluation of the documentation received with the application;
+
+4\. inspection of the aircraft and for unmanned aircraft, of the CMU;
+
+5\. approval of the flight conditions in accordance with point 21.A.710(b).
+
+21.B.525 Issuance of a permit to fly
+
+The competent authority shall issue a permit to fly (EASA Form 20a, see Appendix III) without undue delay:
+
+(a) upon presentation of the data required by point 21.A.707; and
+
+(b) when the flight conditions referred to in point 21.A.708 have been approved in accordance with point 21.A.710; and
+
+(c) when the competent authority, through its own investigations, which may include inspections, or through procedures agreed with the applicant, is satisfied that the aircraft conforms to the design defined under point 21.A.708 before flight.
+
+**SUBPART Q — IDENTIFICATION OF PRODUCTS, PARTS, APPLIANCES, CONTROL AND MONITORING UNITS (CMUs) AND CMU COMPONENTS**
+
+Administrative procedures established by the Agency shall apply.
+
+### Appendices
+
+**EASA FORMS**
+
+When the Forms of this Annex are issued in a language other than English they shall include an English translation.
+
+The EASA (‘European Aviation Safety Agency’) Forms referred to in the appendices to this Part shall have the following obligatory features. Member States shall ensure that the EASA Forms they issue are recognisable and shall be responsible for having those Forms printed.
+
+Appendix I — EASA Form 1 Authorised release Certificate
+
+Appendix II — Reserved
+
+Appendix III — EASA Form 20a Permit to Fly
+
+Appendix IV — EASA Form 20b Permit to Fly (issued by approved organisations)
+
+Appendix V — EASA Form 24 Restricted Certificate of Airworthiness
+
+Appendix VI — EASA Form 25 Certificate of Airworthiness
+
+Appendix VII — —————
+
+Appendix VIII — EASA Form 52 Aircraft/Unmanned Aircraft System Statement of Conformity
+
+Appendix IX — EASA Form 53 Certificate of Release to Service
+
+Appendix X — EASA Form 55 Production Organisation Approval Certificate
+
+Appendix XI — EASA Form 65 Letter of Agreement for production without production organisation approval
+
+Appendix XII — Categories of flight test and associated flight test crew qualifications
+
+## Appendix I
+
+**Authorised Release Certificate — EASA Form 1 referred to in Annex I (Part 21)**
+
+Text of image
+
+1\. Approving Competent Authority/Country
+
+2\. AUTHORISED RELEASE CERTIFICATE
+
+EASA FORM 1
+
+3\. Form Tracking Number
+
+4\. Organisation Name and Address:
+
+5\. Work Order/Contract/Invoice
+
+6\. Item
+
+7\. Description
+
+8\. Part No
+
+9\. Qty.
+
+10\. Serial No
+
+11\. Status/Work
+
+12\. Remarks
+
+13a. Certifies that the items identified above were manufactured in conformity to:
+
+approved design data and are in a condition for safe operation
+
+non-approved design data specified in block 12
+
+14a.
+
+Part 145.A.50 Release to Service
+
+Other regulation specified in block 12
+
+Certifies that unless otherwise specified in block 12, the work identified in block 11 and described in block 12, was accomplished in accordance with Part 145 and in respect to that work the items are considered ready for release to service.
+
+13b. Authorised Signature
+
+13c. Approval/ Authorisation Number
+
+14b. Authorised Signature
+
+14c. Certificate/Approval Ref. No
+
+13d. Name
+
+13e. Date (dd mmm yyyy)
+
+14d. Name
+
+14e. Date (dd mmm yyyy)
+
+USER/INSTALLER RESPONSIBILITIES
+
+This certificate does not automatically constitute authority to install the item(s).
+
+Where the user/installer performs work in accordance with regulations of an airworthiness authority different than the airworthiness authority specified in block 1, it is essential that the user/installer ensures that his/her airworthiness authority accepts items from the airworthiness authority specified in block 1.
+
+Statements in blocks 13a and 14a do not constitute installation certification. In all cases aircraft maintenance records must contain an installation certification issued in accordance with the national regulations by the user/installer before the aircraft may be flown.
+
+EASA Form 1-21 Issue 2.
+
+►(1)(2)(3)(4)(5) M2
+
+**Instructions for the use of EASA Form 1**
+
+These instructions relate only to the use of the EASA Form 1 for production purposes. Attention is drawn to Appendix II to Annex I (Part-M) to Regulation (EU) No 1321/2014 and to Appendix III to Annex I (Part-ML.UAS) to Delegated Regulation (EU) 2024/1107 which cover the use of the EASA Form 1 for maintenance purposes.
+
+**1\. PURPOSE AND USE**
+
+1.1. The primary purpose of the certificate is to declare the airworthiness of new aviation engines, propellers, parts, appliances, CMUs and CMU components (‘the item(s)’).
+
+1.2. Correlation must be established between the certificate and the item(s). The originator must retain a certificate in a form that allows verification of the original data.
+
+1.3. The certificate is acceptable to many airworthiness authorities, but this may be dependent on bilateral agreements and/or the policy of the airworthiness authority.
+
+1.4. The certificate is not a delivery or shipping note.
+
+1.5. Aircraft are not to be released using the certificate.
+
+1.6. The certificate does not constitute an approval to install the item in a particular aircraft, engine, propeller, or in a particular CMU in case of CMU components, but helps the end user determine its airworthiness approval status.
+
+1.7. A mixture of production released and maintenance released items is not permitted on the same certificate.
+
+1.8. A mixture of items certified in conformity with ‘approved data’ and to ‘non-approved data’ is not permitted on the same certificate.
+
+**2\. GENERAL FORMAT**
+
+2.1. The certificate must comply with the format attached including block numbers and the location of each block. The size of each block may however be varied to suit the individual application, but not to the extent that would make the certificate unrecognisable.
+
+2.2. The certificate must be in ‘landscape’ format, but the overall size may be significantly increased or decreased so long as the certificate remains recognisable and legible. If in doubt, consult the competent authority.
+
+2.3. The user/installer responsibility statement can be placed on either side of the form.
+
+2.4. All printing must be clear and legible to permit easy reading.
+
+2.5. The certificate may either be pre-printed or computer generated but in either case the printing of lines and characters must be clear and legible and in accordance with the defined format.
+
+2.6. The certificate should be in English, and if appropriate, in one or more other languages.
+
+2.7. The details to be entered on the certificate may be either machine/computer printed or hand-written using block letters and must permit easy reading.
+
+2.8. Limit the use of abbreviations to a minimum, to aid clarity.
+
+2.9. The space remaining on the reverse side of the certificate may be used by the originator for any additional information but must not include any certification statement. Any use of the reverse side of the certificate must be referenced in the appropriate block on the front side of the certificate.
+
+**3\. COPIES**
+
+3.1. There is no restriction in the number of copies of the certificate sent to the customer or retained by the originator.
+
+**4\. ERROR(S) ON A CERTIFICATE**
+
+4.1. If an end user finds an error(s) on a certificate, they must identify it (them) in writing to the originator. The originator may issue a new certificate if they can verify and correct the error(s).
+
+4.2. The new certificate must have a new tracking number, signature and date.
+
+4.3. The request for a new certificate may be honoured without re-verification of the item(s) condition. The new certificate is not a statement of current condition and should refer to the previous certificate in block 12 by the following statement: ‘This certificate corrects the error(s) in block(s) [enter block(s) corrected] of the certificate [enter original tracking number] dated [enter original issuance date] and does not cover conformity/condition/release to service’. Both certificates should be retained according to the retention period associated with the first.
+
+**5\. COMPLETION OF THE CERTIFICATE BY THE ORIGINATOR**
+
+Block 1 Approving competent authority/Country
+
+State the name and country of the competent authority under whose jurisdiction this certificate is issued. When the competent authority is the Agency, only ‘EASA’ must be stated.
+
+Block 2 EASA Form 1 header
+
+‘AUTHORISED RELEASE CERTIFICATE EASA FORM 1’
+
+Block 3 Form Tracking Number
+
+Enter the unique number established by the numbering system/procedure of the organisation identified in block 4; this may include alpha/numeric characters.
+
+Block 4 Organisation Name and Address
+
+Enter the full name and address of the production organisation (refer to EASA Form 55 Sheet A) or natural or legal persons releasing the item(s) covered by this certificate. Logos, etc. of the organisation are permitted if they can be contained within the block.
+
+Block 5 Work Order/Contract/Invoice
+
+To facilitate customer traceability of the item(s), enter the work order number, contract number, invoice number, or similar reference number.
+
+Block 6 Item
+
+Enter line item numbers when there is more than one line item. This block permits easy cross-referencing to the Remarks in block 12.
+
+Block 7 Description
+
+Enter the name or description of the item. Preference should be given to the term used in the instructions for continued airworthiness or maintenance data (e.g. Illustrated Parts Catalogue, Aircraft Maintenance Manual, Service Bulletin, Component Maintenance Manual).
+
+Block 8 Part Number
+
+Enter the part number as it appears on the item or tag/packaging. In case of an engine, propeller or CMU, the type designation may be used.
+
+Block 9 Quantity
+
+State the quantity of items.
+
+Block 10 Serial Number
+
+If the item is required by regulation to be identified with a serial number, enter it here. Additionally, any other serial number not required by regulation may also be entered. If there is no serial number identified on the item, enter ‘N/A’.
+
+Block 11 Status/Work
+
+Enter either ‘PROTOTYPE’ or ‘NEW’.
+
+Enter ‘PROTOTYPE’ for:
+
+(i) the production of a new item in conformity with non-approved design data;
+
+(ii) the production of a new item in conformity with design data that has not yet been declared by a declarant in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light);
+
+(iii) re-certification by the organisation identified in block 4 of the previous certificate after alteration or rectification work on an item, prior to entry into service, (e.g. after incorporation of a design change, correction of a defect, inspection or test, or renewal of shelf life). Details of the original release and the alteration or rectification work are to be entered in block 12;
+
+Enter ‘NEW’ for:
+
+(i) the production of a new item in conformity with the approved design data;
+
+(ii) the production of a new item in conformity with design data declared by the declarant in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light);
+
+(iii) re-certification by the organisation identified in block 4 of the previous certificate after alteration or rectification work on an item, prior to entry into service, (e.g. after incorporation of a design change, correction of a defect, inspection or test, or renewal of shelf-life). Details of the original release and the alteration or rectification work are to be entered in block 12;
+
+(iv) re-certification by the product manufacturer or the organisation identified in block 4 of the previous certificate of items from ‘prototype’ (conformity only to non-approved data) to ‘new’ (conformity to approved data and in a condition for safe operation), subsequent to approval of the applicable design data, provided that the design data has not changed.
+
+For certified products, the following statement must be entered in block 12:
+
+‘RE-CERTIFICATION OF ITEMS FROM “PROTOTYPE” TO “NEW”: THIS DOCUMENT CERTIFIES THE APPROVAL OF THE DESIGN DATA [INSERT TC/STC NUMBER, REVISION LEVEL], DATED [INSERT DATE IF NECESSARY FOR IDENTIFICATION OF REVISION STATUS], TO WHICH THIS ITEM (THESE ITEMS) WAS (WERE) MANUFACTURED.’
+
+The box ‘approved design data and are in a condition for safe operation’ should be marked in block 13a;
+
+For aircraft subject to a declaration of design compliance in accordance with Subpart C of Section A of Annex Ib (Part 21 Light), the following statement must be entered in block 12:
+
+‘RE-CERTIFICATION OF ITEMS FROM “PROTOTYPE” TO “NEW”: THIS DOCUMENT CERTIFIES THE DECLARATION OF THE DESIGN DATA [INSERT DECLARATION REFERENCE, REVISION LEVEL], DATED [INSERT DATE IF NECESSARY FOR IDENTIFICATION OF REVISION STATUS], TO WHICH THIS ITEM (THESE ITEMS) WAS (WERE) MANUFACTURED.’
+
+(v) the examination of a previously released new item prior to entry into service in accordance with a customer-specified standard or specification (details of which and of the original release are to be entered in block 12) or to establish airworthiness (an explanation of the basis of release and details of the original release are to be entered in block 12).
+
+Block 12 Remarks
+
+Describe the work identified in block 11, either directly or by reference to supporting documentation, necessary for the user or installer to determine the airworthiness of item(s) in relation to the work being certified. If necessary, a separate sheet may be used and referenced from EASA Form 1. Each statement must clearly identify which item(s) in block 6 it relates to. If there is no statement, state ‘None’.
+
+Enter the justification for release to non-approved design data in block 12 (e.g. pending type certificate, for test only, pending approved data).
+
+If the item has been produced in accordance with design data that has not yet been declared by the declarant in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light), then the following statement shall be included in Block 12:
+
+‘PENDING DECLARATION OF DESIGN COMPLIANCE IN ACCORDANCE WITH SUBPART C, F OR N of Section A of Annex Ib (Part 21 Light)’
+
+If the item has been produced in accordance with design data that has been declared by the declarant in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light), then the following statement shall be included in Block 12:
+
+‘PRODUCED IN CONFORMITY WITH THE DESIGN DATA OF A DECLARATION OF DESIGN COMPLIANCE IN ACCORDANCE WITH SUBPART C, F OR N of Section A of Annex Ib (Part 21 Light)’
+
+If printing the data from an electronic EASA Form 1, any data not appropriate in other blocks should be entered in this block.
+
+Block 13a Mark only one of the two boxes:
+
+1\. Mark the ‘approved design data and are in a condition for safe operation’ box if the item(s) was (were) manufactured using approved design data and found to be in a condition for safe operation.
+
+2\. Mark the ‘non-approved design data specified in block 12’ box if the item(s) was (were) manufactured using applicable non-approved design data.
+
+This box shall also be marked when the item has been produced in conformity with design data that has been declared in accordance with Subpart C, F and N of Section A of Annex Ib (Part 21 Light).
+
+Identify the data in block 12 (e.g. pending type certificate, for test only, pending approved data, conformity to design data from a declaration of design compliance in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light).
+
+Mixtures of items released against approved and non-approved design data are not permitted on the same certificate.
+
+Block 13b Authorised Signature
+
+This space shall be completed with the signature of the authorised person. Only persons specifically authorised under the rules and policies of the competent authority are permitted to sign this block. To aid recognition, a unique number identifying the authorised person may be added.
+
+Block 13c Approval/Authorisation Number
+
+Enter the approval/authorisation number/reference. This number or reference is issued by the competent authority for approved or declared production organisations (for parts produced under Annex Ib (Part 21 Light). If the organisation has produced a part that conforms to design data declared by a declarant in accordance with Subpart C, F or N of Section A of Annex Ib (Part 21 Light) and the organisation is not an approved or a declared production organisation, then they should enter the following statement:
+
+‘PRODUCED UNDER SUBPART R of Section A of Annex Ib (Part 21 Light)’
+
+Block 13d Name
+
+Enter the name of the person signing block 13b in a legible form.
+
+Block 13e Date
+
+Enter the date on which block 13b is signed, the date must be in the format dd = 2 digit day, mmm = first 3 letters of the month, yyyy = 4 digit year.
+
+Block 14a-14e General Requirements for blocks 14a-14e:
+
+Not used for production release. Shade, darken, or otherwise mark to preclude inadvertent or unauthorised use.
+
+User/Installer Responsibilities
+
+Place the following statement on the certificate to notify end users that they are not relieved of their responsibilities concerning installation and use of any item accompanied by the form:
+
+‘THIS CERTIFICATE DOES NOT AUTOMATICALLY CONSTITUTE AUTHORITY TO INSTALL.
+
+WHERE THE USER/INSTALLER PERFORMS WORK IN ACCORDANCE WITH REGULATIONS OF AN AIRWORTHINESS AUTHORITY DIFFERENT THAN THE AIRWORTHINESS AUTHORITY SPECIFIED IN BLOCK 1, IT IS ESSENTIAL THAT THE USER/INSTALLER ENSURES THAT HIS/HER AIRWORTHINESS AUTHORITY ACCEPTS ITEMS FROM THE AIRWORTHINESS AUTHORITY SPECIFIED IN BLOCK 1.
+
+STATEMENTS IN BLOCKS 13A AND 14A DO NOT CONSTITUTE INSTALLATION CERTIFICATION. IN ALL CASES AIRCRAFT MAINTENANCE RECORDS MUST CONTAIN AN INSTALLATION CERTIFICATION ISSUED IN ACCORDANCE WITH THE NATIONAL REGULATIONS BY THE USER/INSTALLER BEFORE THE AIRCRAFT MAY BE FLOWN.’
+
+## Appendix III — Permit to Fly — EASA Form 20a
+
+<table>
+<tbody><tr><td>Competent authority logo</td><td colspan="2">PERMIT TO FLY</td></tr>
+<tr><td>  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">(*1)</td><td>  </td></tr>
+<tr><td colspan="2">This permit to fly is issued pursuant to Regulation (EU) 2018/1139 and certifies that the aircraft is capable of safe flight for the purpose and within the conditions listed below, and is valid in all Member States. This permit to fly is also valid for flights to and within nonMember States provided a separate approval is obtained from the competent authorities of those States: </td><td>1. Nationality and registration marks:</td></tr>
+<tr><td colspan="2">2. Aircraft manufacturer/type: [for unmanned aircraft, please insert control and monitoring unit model and designation] </td><td>3. Serial No:</td></tr>
+<tr><td colspan="3">4. The permit to fly covers: [purpose in accordance with point 21.A.701(a)]</td></tr>
+<tr><td colspan="3">5. Holder: [in case of a permit to fly issued for the purpose of point 21.A.701(a)(15), this should state: ‘the registered owner]</td></tr>
+<tr><td colspan="3">6. Conditions/remarks:</td></tr>
+<tr><td colspan="3">7. Validity period:</td></tr>
+<tr><td colspan="2">8. Place and date of issue:</td><td>9. Signature of the competent authority representative:</td></tr>
+<tr><td colspan="3">(*1)  For use by the State of registry.  EASA Form 20a – Issue 2 </td></tr>
+</tbody>
+</table>
+
+## Appendix IV — Permit to Fly (issued by approved organisations) – EASA Form 20b
+
+<table>
+<tbody><tr><td>The Member State of the competent authority that has issued the organisation approval under which the permit to fly is issued; or ‘EASA’ when the approval is issued by EASA. </td><td colspan="2">PERMIT TO FLY</td></tr>
+<tr><td>  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">Name and address of the organisation that issues the permit to fly.</td><td>(*1)</td></tr>
+<tr><td colspan="2">This permit to fly is issued pursuant to Regulation (EU) 2018/1139 and certifies that the aircraft is capable of safe flight for the purpose and within the conditions listed below, and is valid in all Member States. This permit to fly is also valid for flights to and within non-Member Statesthird countries provided a separate approval is obtained from the competent authorities of those States. </td><td>1. Nationality and registration marks:</td></tr>
+<tr><td colspan="2">2. Aircraft manufacturer/type: [for unmanned aircraft, please insert control and monitoring unit model and designation] </td><td>3. Serial No:</td></tr>
+<tr><td colspan="3">4. The permit to fly covers: [purpose in accordance with point 21.A.701(a)]</td></tr>
+<tr><td colspan="3">5. Holder: [organisation that issues the permit to fly]</td></tr>
+<tr><td colspan="3">6. Conditions/remarks:</td></tr>
+<tr><td colspan="3">7. Validity period:</td></tr>
+<tr><td colspan="2">8. Place and date of issue:</td><td>9. Authorised signature: Name:  Approval Reference No: </td></tr>
+<tr><td colspan="3">(*1)  For use by the organisation approval holder.  EASA Form 20b – Issue 2 </td></tr>
+</tbody>
+</table>
+
+## Appendix V — Restricted Certificate of Airworthiness — EASA Form 24
+
+Competent authority LOGO
+
+**RESTRICTED CERTIFICATE OF AIRWORTHINESS**
+
+<table>
+<tbody><tr><td>(*1)</td><td colspan="2">[Member State of registry] [COMPETENT AUTHORITY OF THE MEMBER STATE] </td><td>(*1)</td></tr>
+<tr><td>1. Nationality and registration marks</td><td colspan="2">2. Manufacturer and manufacturer’s designation of aircraft</td><td>3. Aircraft serial number</td></tr>
+<tr><td colspan="4">4. Categories</td></tr>
+<tr><td colspan="4">5. This restricted certificate of airworthiness is issued pursuant to (*2) [the Convention on International Civil Aviation dated 7 December [1944] and [Regulation (EU) 2018/1139 of the European Parliament and of the Council] in respect of the above-mentioned aircraft which is considered airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. In addition to the above, the following restrictions apply:  (5)  (8) [The aircraft may be used in international navigation notwithstanding the above-mentioned restrictions].  Remarks: [for unmanned aircraft, please insert control and monitoring unit model and designation] </td></tr>
+<tr><td colspan="2">Date of issue:</td><td colspan="2">Signature:</td></tr>
+<tr><td colspan="4">6. This restricted certificate of airworthiness is valid unless revoked by the competent authority of the Member State of registry. A current airworthiness review certificate shall be attached to this certificate. </td></tr>
+<tr><td colspan="4">(*1)  For use by the State of registry.  (*2)  Delete as applicable.  EASA Form 24 — Issue 3 </td></tr>
+</tbody>
+</table>
+
+This restricted certificate of airworthiness shall be carried on board during all flights.
+
+## Appendix VI — Certificate of Airworthiness — EASA Form 25
+
+Competent authority LOGO
+
+**CERTIFICATE OF AIRWORTHINESS**
+
+<table>
+<tbody><tr><td>(*1)</td><td colspan="3">[Member State of registry] [COMPETENT AUTHORITY OF THE MEMBER STATE] </td><td>(*1)</td></tr>
+<tr><td>1. Nationality and registration marks</td><td colspan="3">2. Manufacturer and manufacturer’s designation of aircraft</td><td>3. Aircraft serial number</td></tr>
+<tr><td colspan="5">4. Categories</td></tr>
+<tr><td colspan="5">5. This certificate of airworthiness is issued pursuant to the Convention on International Civil Aviation dated 7 December 1944 and Regulation (EU) 2018/1139 of the European Parliament and of the Council in respect of the above-mentioned aircraft which is considered airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. Limitations/Remarks:  (7) [for unmanned aircraft, please insert control and monitoring unit model and designation] </td></tr>
+<tr><td colspan="2">Date of issue:</td><td>Signature:</td><td colspan="2">  </td></tr>
+<tr><td colspan="5">6. This certificate of airworthiness is valid unless revoked by the competent authority of the Member State of registry. A current airworthiness review certificate shall be attached to this certificate. </td></tr>
+<tr><td colspan="5">(*1)  For use by the State of registry.  EASA Form 25 — Issue 3 </td></tr>
+</tbody>
+</table>
+
+This certificate of airworthiness shall be carried on board during all flights.
+
+## Appendix VII
+
+<table>
+<tbody><tr><td colspan="3">For use by State of registry</td><td colspan="6">1. State of registry</td><td colspan="2">3. Document No:</td></tr>
+<tr><td colspan="11">2. NOISE CERTIFICATE</td></tr>
+<tr><td colspan="2">4. Registration marks:</td><td colspan="6">5. Manufacturer and manufacturer’s designation of the aircraft:</td><td colspan="3">6. Aircraft serial No:</td></tr>
+<tr><td colspan="2">…</td><td colspan="6">…</td><td colspan="3">…</td></tr>
+<tr><td colspan="6">7. Manufacturer and manufacturer’s designation of the engine(s):</td><td colspan="5">8. Manufacturer and manufacturer’s designation of the propeller(s) (1):</td></tr>
+<tr><td colspan="6">…</td><td colspan="5">…</td></tr>
+<tr><td colspan="2">9. Maximum take-off mass (kg):</td><td colspan="6">10. Maximum landing mass (kg) (1):</td><td colspan="3">11. Noise certification standard:</td></tr>
+<tr><td colspan="2">…</td><td colspan="6">…</td><td colspan="3">…</td></tr>
+<tr><td colspan="11">12. Additional modifications incorporated for the purpose of compliance with the applicable noise certification standards: … </td></tr>
+<tr><td>13. Lateral/full-power noise level (1) :</td><td colspan="3">14. Approach noise level (1):</td><td colspan="3">15. Flyover noise level (1):</td><td colspan="3">16. Overflight noise level (1):</td><td>17. Take-off noise level (1):</td></tr>
+<tr><td>…</td><td colspan="3">…</td><td colspan="3">…</td><td colspan="3">…</td><td>…</td></tr>
+<tr><td colspan="11">Remarks:</td></tr>
+<tr><td colspan="11">18. This noise certificate is issued pursuant to Annex 16, Volume I to the Convention on International Civil Aviation, signed in Chicago on 7 December 1944, and Article 14(1) of Regulation (EU) 2018/1139 in respect of the above-mentioned aircraft, which is considered to comply with the indicated noise standard when maintained and operated in accordance with the relevant requirements and operating limitations.</td></tr>
+<tr><td colspan="5">19. Date of issue: …</td><td colspan="6">20. Signature: …</td></tr>
+<tr><td colspan="11">(1)  These boxes may be omitted depending on the noise certification standard. </td></tr>
+</tbody>
+</table>
+
+EASA Form 45 – Issue 2
+
+## Appendix VIII — Aircraft/Unmanned Aircraft System statement of conformity – EASA Form 52
+
+<table>
+<tbody><tr><td colspan="4">AIRCRAFT/UNMANNED AIRCRAFT SYSTEM STATEMENT OF CONFORMITY</td></tr>
+<tr><td>1. State of manufacture</td><td colspan="2">2. [MEMBER STATE] (*1) A Member of the European Union (*2)</td><td>3. Statement reference No:</td></tr>
+<tr><td colspan="4">4. Organisation</td></tr>
+<tr><td colspan="2">5. Aircraft type</td><td colspan="2">6. Type-certificate reference No:</td></tr>
+<tr><td colspan="2">7. Aircraft registration or mark</td><td colspan="2">8. Production organisation identification No:</td></tr>
+<tr><td colspan="4">9. Engine/propeller/control and monitoring unit details (*3)</td></tr>
+<tr><td colspan="4">10. Modifications and/or service bulletins (*3)</td></tr>
+<tr><td colspan="4">11. Airworthiness directives</td></tr>
+<tr><td colspan="4">12. Concessions</td></tr>
+<tr><td colspan="4">13. Exemptions, waivers or derogations (*3)</td></tr>
+<tr><td colspan="4">14. Remarks</td></tr>
+<tr><td colspan="4">15. Certificate of airworthiness</td></tr>
+<tr><td colspan="4">16. Additional requirements</td></tr>
+<tr><td colspan="4">17. Statement of conformity It is hereby certified that the aircraft/unmanned aircraft system fully conforms to the type-certified design and to the items in Blocks 9, 10, 11, 12 and 13.  The aircraft is in a condition for safe operation.  The aircraft has been satisfactorily tested in flight. </td></tr>
+<tr><td>18. Signed</td><td colspan="2">19. Name</td><td>20. Date (dd/mm/yyyy)</td></tr>
+<tr><td colspan="4">21. Production organisation approval reference</td></tr>
+<tr><td colspan="4">(*1)  Or ‘EASA’, if EASA is the competent authority.  (*2)  Delete for non-EU Member States or EASA.  (*3)  Delete as applicable.  EASA Form 52 — Issue 4 </td></tr>
+</tbody>
+</table>
+
+**Instructions for the use of the aircraft/unmanned aircraft system statement of conformity – EASA Form 52**
+
+**1\. PURPOSE AND SCOPE**
+
+1.1. The use of the aircraft/unmanned aircraft system statement of conformity issued by a production organisation that produces under Part 21 Section A Subpart F is described in point 21.A.130 and in the related acceptable means of compliance (AMC).
+
+1.2. The purpose of the aircraft/unmanned aircraft system statement of conformity (EASA Form 52) issued under Part 21 Section A Subpart G is to enable the holder of an appropriate production organisation approval certificate to exercise the privilege to obtain an individual aircraft certificate of airworthiness and, if requested, a certificate of noise from the competent authority of the Member State of registry.
+
+**2\. GENERAL**
+
+2.1. The statement of conformity must comply with the model, including the block numbers and the location of each block. The size of each block may, however, be varied to suit the individual application, but not to the extent that would render the statement of conformity unrecognisable. If in doubt, consult the competent authority.
+
+2.2. The statement of conformity must be either preprinted or computer generated, but in either case, the printing of lines and characters must be clear and legible. Preprinted wording is permitted in accordance with the attached model, but no other certification statements are permitted.
+
+2.3. The completion of the statement may be either machine/computer printed or handwritten, using block letters to allow for easy reading. English, and where relevant, one or more of the official language(s) of the issuing Member State, are acceptable.
+
+2.4. A copy of the statement and all the referenced attachments are to be retained by the approved production organisation.
+
+**3\. COMPLETION OF THE STATEMENT OF CONFORMITY BY THE ORIGINATOR**
+
+3.1. There must be an entry in all blocks to render the document a valid statement.
+
+3.2. A statement of conformity may not be issued to the competent authority of the Member State of registry unless the design of the aircraft/unmanned aircraft system, its installed products, and for unmanned aircraft systems, the CMU, are approved.
+
+3.3. The information required in blocks 9, 10, 11, 12, 13 and 14 may be by reference to separate identified documents held on file by the production organisation, unless the competent authority agrees otherwise.
+
+3.4. This statement of conformity is not intended to include those items of equipment that may be required to be fitted in order to satisfy the applicable operational rules. However, some of those individual items may be included in Block 10 or in the approved type design. Operators are, therefore, reminded of their responsibility to ensure compliance with the applicable operational rules for their own particular operations.
+
+<table>
+<tbody><tr><td>Block 1</td><td>Enter the name of the State of manufacture.</td></tr>
+<tr><td>Block 2</td><td>The competent authority that issues the statement of conformity under its authority.</td></tr>
+<tr><td>Block 3</td><td>A unique serial number must be preprinted in this block for statement control and traceability purposes. An exception is in the case of a computer-generated document: the number need not be preprinted where the computer is programmed to produce and print a unique number.</td></tr>
+<tr><td>Block 4</td><td>The full name and the address of the location of the organisation that issues the statement. This block may be preprinted. Logos, etc., are permitted if the logo, etc., can be contained within the block.</td></tr>
+<tr><td>Block 5</td><td>The aircraft type in full as specified in the type-certificate and its associated data sheet.</td></tr>
+<tr><td>Block 6</td><td>The type-certificate reference numbers and issue for the subject aircraft.</td></tr>
+<tr><td>Block 7</td><td>If the aircraft is registered, then this mark will be the registration mark. If the aircraft is not registered, then this will be the mark that is accepted by the competent authority of the Member State and, if applicable, by the competent authority of a third country.</td></tr>
+<tr><td>Block 8</td><td>The identification number assigned by the production organisation for control and traceability and product support purposes. This is sometimes referred to as a ‘production organisation serial number’ or ‘constructor’s number’.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 9</td><td>The engine type and the propeller type(s) in full, as specified in the relevant type certificate and its associated data sheet. Their production organisation identification number and the associated location must also be stated. For unmanned aircraft systems, the CMU type in full, as specified in the relevant type-certificate, its associated data sheet, and its production organisation identification number.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 10</td><td>Approved design changes to the aircraft definition.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 11</td><td>A listing of all the applicable airworthiness directives (or equivalent) and a declaration of compliance, together with a description of the method of compliance of the subject individual aircraft or unmanned aircraft system, including products and installed parts, appliances and equipment and, for unmanned aircraft systems, CMUs and CMU components. Any future compliance requirement time must be stated.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 12</td><td>Approved unintentional deviations from the approved type design, sometimes referred to as ‘concessions’, ‘divergences’ or ‘non-conformances’.</td></tr>
+<tr><td>Block 13</td><td>Only agreed exemptions, waivers or derogations may be included here.</td></tr>
+<tr><td>Block 14</td><td>Remarks. Any statement, information, particular data or limitation which may affect the airworthiness of the subject aircraft. If there is no such information or data, state ‘NONE’.</td></tr>
+<tr><td>Block 15</td><td>Enter ‘certificate of airworthiness’, or ‘restricted certificate of airworthiness’, as requested.</td></tr>
+<tr><td>Block 16</td><td>Additional requirements such as those notified by an importing country must be noted in this block.</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 17</td><td>The validity of the statement of conformity is subject to the full completion of all the blocks on the form. A copy of the flight test report, together with any recorded defects and rectification details, must be kept on file by the production organisation approval holder. The report must be signed as satisfactory by the appropriate certifying staff and a flight crew member, e.g. the test pilot or the flight test engineer. The flight tests performed are those defined under the control of the quality management element of the production system, as established by point 21.A.139, in particular point (d)(2)(vi), to ensure that the aircraft conforms to the applicable design data, and is in a condition for safe operation. The listing of the items provided (or made available) to satisfy the aspects of this statement that relate to the safe operation of the aircraft must be kept on file by the production organisation approval certificate holder. </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Block 18</td><td>The statement of conformity may be signed by the person that is authorised to do so by the production approval holder in accordance with point 21.A.145(d). A rubber stamp signature must not be used.</td></tr>
+<tr><td>Block 19</td><td>The name of the person that signs the statement must be typed or printed in a legible form.</td></tr>
+<tr><td>Block 20</td><td>The date on which the statement of conformity is signed must be given.</td></tr>
+<tr><td>Block 21</td><td>The competent authority approval reference must be quoted.</td></tr>
+</tbody>
+</table>
+
+## Appendix IX
+
+Text of image
+
+CERTIFICATE OF RELEASE TO SERVICE
+
+[APPROVED PRODUCTION ORGANISATION NAME]
+
+Production organisation approval Reference:
+
+Certificate of release to service in accordance with 21A.163(d).
+
+Aircraft: …
+
+Type: …
+
+Constructor No/Registration: …
+
+has been maintained as specified in Work Order: …
+
+Brief description of work performed:
+
+Certifies that the work specified was carried out in accordance with 21A.163(d) and in respect to that work the aircraft is considered ready for release to service and therefore is in a condition for safe operation.
+
+Certifying Staff (name):
+
+(signature):
+
+Location:
+
+Date: . . - . . - . . . . (day, month, year).
+
+EASA Form 53
+
+**CERTIFICATE OF RELEASE TO SERVICE — EASA FORM 53**
+
+**COMPLETION INSTRUCTIONS**
+
+The Block BRIEF DESCRIPTION OF WORK PERFORMED appearing in EASA FORM 53 should include reference to the approved data used to perform the work.
+
+The Block LOCATION appearing in EASA FORM 53 refers to the location where the maintenance has been performed, not to the location of the facilities of the organisation (if different).
+
+## Appendix X — Production organisation approval certificate – EASA Form 55
+
+Production organisation approval certificates referred to in Subpart G of Annex I (Part 21)
+
+[MEMBER STATE] (*1)
+
+A Member of the European Union (*2)
+
+PRODUCTION ORGANISATION APPROVAL CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*1) ].21G.XXXX
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council and to Commission Regulation (EU) No 748/2012, for the time being in force and subject to the conditions specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a production organisation in compliance with Section A of Annex I (Part 21) to Commission Regulation (EU) No 748/2012, is approved to produce products, parts, appliances, control and monitoring units and control and monitoring unit components listed in the attached approval schedule and issue the related certificates using the above references.
+
+CONDITIONS:
+
+1\. This approval is limited to what is specified in the enclosed terms of approval.
+
+2\. This approval is subject to compliance with the procedures specified in the approved production organisation exposition.
+
+3\. This approval is valid for as long as the approved production organisation remains in compliance with Annex I (Part 21) to Commission Regulation (EU) No 748/2012.
+
+4\. Subject to compliance with the foregoing conditions, this approval shall remain valid for an unlimited period of time unless it has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue: …
+
+Date of this revision: …
+
+Revision No: …
+
+Signed: …
+
+For the competent authority: [COMPETENT AUTHORITY IDENTIFICATION (*2)]
+
+(*1)
+
+Or ‘EASA’, if EASA is the competent authority.
+
+(*2)
+
+Or ‘EASA’, if EASA is the competent authority.
+
+EASA Form 55a – Issue 4
+
+<table>
+<tbody><tr><td>[MEMBER STATE] (1) A Member of the European Union (2) </td><td colspan="2">Terms of approval</td><td>TA: [MEMBER STATE CODE (1)].21G.XXXX</td></tr>
+<tr><td colspan="4">This document is part of the production organisation approval number [MEMBER STATE CODE (1)].21G.XXXX issued to: Company name: </td></tr>
+<tr><td colspan="4">Section 1. SCOPE OF WORK:</td></tr>
+<tr><td colspan="2">PRODUCTION OF</td><td colspan="2">PRODUCTS/CATEGORIES</td></tr>
+<tr><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="4">For details and limitations, refer to the Production Organisation Exposition, Section xxx</td></tr>
+<tr><td colspan="4">Section 2. LOCATIONS:</td></tr>
+<tr><td colspan="4">Section 3. PRIVILEGES:</td></tr>
+<tr><td colspan="4">  </td></tr>
+<tr><td colspan="4">The production organisation is entitled to exercise, within its terms of approval and in accordance with the procedures of its Production Organisation Exposition, the privileges laid down in point 21.A.163, subject to the following:</td></tr>
+<tr><td colspan="4">[keep only applicable text]</td></tr>
+<tr><td colspan="4">Prior to the approval of the design of the product, the EASA Form 1 may be issued only for conformity purposes.</td></tr>
+<tr><td colspan="4">A statement of conformity may not be issued for a non-approved aircraft.</td></tr>
+<tr><td colspan="4">Maintenance may be performed, until compliance with the maintenance regulations is required, in accordance with the Production Organisation Exposition Section xxx</td></tr>
+<tr><td colspan="4">Permits to fly may be issued in accordance with the Production Organisation Exposition Section yyy</td></tr>
+<tr><td colspan="2">Date of original issue:</td><td colspan="2">Signed:</td></tr>
+<tr><td colspan="2">Date of this revision:</td><td colspan="2">  </td></tr>
+<tr><td colspan="2">Revision No:</td><td colspan="2">For [COMPETENT AUTHORITY IDENTIFICATION (1)]</td></tr>
+<tr><td colspan="4">EASA Form 55b – Issue 3</td></tr>
+</tbody>
+</table>
+
+(1) Or ‘EASA’, if EASA is the competent authority.
+
+(2) Delete for non-EU Member States.
+
+## Appendix XI — Letter of agreement for production without a production organisation approval — EASA Form 65
+
+**Letter of agreement referred to in Subpart F of Annex I (Part 21)**
+
+[MEMBER STATE] (*1)
+
+A Member of the European Union (*2)
+
+LETTER OF AGREEMENT FOR PRODUCTION WITHOUT A PRODUCTION ORGANISATION APPROVAL
+
+[NAME OF THE APPLICANT]
+
+[TRADE NAME (if different from the name of the applicant)]
+
+[FULL POSTAL ADDRESS OF THE APPLICANT]
+
+Date (day, month, year)
+
+Reference: [MEMBER STATE CODE (*2)].21F.XXXX
+
+Dear Mr/Ms [name of the applicant],
+
+your production inspection system has been evaluated and found to be in compliance with Section A Subpart A and Subpart F of Annex I (Part 21) to Commission Regulation (EU) No 748/2012.
+
+Therefore, subject to the conditions specified below, we agree that the showing of conformity of the products, parts, appliances, control and monitoring units and control and monitoring unit components mentioned below may be performed according to Section A of Subpart F of Annex I (Part 21) to Commission Regulation (EU) No 748/2012.
+
+No of Units P/NS/N
+
+AIRCRAFT
+
+PARTS
+
+The following conditions are applicable to this letter of agreement:
+
+(1) It is valid while [company name] remains in compliance with Section A Subpart A and Subpart F of Annex I (Part 21) to Commission Regulation (EU) No 748/2012.
+
+(2) It requires compliance with the procedures specified in [company name] manual reference/issue date …
+
+(3) It terminates on …
+
+(4) The statement of conformity issued by [company name] under point 21.A.130 of Commission Regulation (EU) No 748/2012 shall be validated by the issuing authority of this letter of agreement in accordance with the procedure...... of the referenced manual.
+
+(5) [company name] shall immediately notify the issuing authority of this letter of agreement of any changes to the production inspection system that may affect the inspection, conformity or airworthiness of the products, parts, control and monitoring units and control and monitoring unit components listed in this letter of agreement.
+
+For the competent authority: [COMPETENT AUTHORITY IDENTIFICATION (*1) (*2) ]
+
+Date and Signature
+
+(*1)
+
+Or ‘EASA’, if EASA is the competent authority.
+
+(*2)
+
+Delete for third countries.
+
+EASA Form 65 — Issue 4
+
+## Appendix XII
+
+**Categories of flight tests and associated flight test crew qualifications**
+
+**A. General**
+
+This Appendix establishes the qualifications necessary for flight crew involved in the conduct of flight tests for aircraft certified or to be certified in accordance with CS-23 for aircraft with a maximum take-off mass (MTOM) of or above 2 000 kg, CS-25, CS-27, CS-29 or equivalent airworthiness codes.
+
+**B. Definitions**
+
+1\. ‘Flight test engineer’ means any engineer involved in flight test operations either on the ground or in flight.
+
+2\. ‘Lead flight test engineer’ means a flight test engineer assigned for duties in an aircraft for the purpose of conducting flight tests or assisting the pilot in the operation of the aircraft and its systems during flight test activities.
+
+3\. ‘Flight tests’ mean:
+
+3.1. flights for the development phase of a new design (aircraft, propulsion systems, parts and appliances);
+
+3.2. flights to demonstrate compliance to certification basis or conformity to type design;
+
+3.3. flights intended to experiment new design concepts, requiring unconventional manoeuvres or profiles for which it could be possible to exit the already approved envelope of the aircraft;
+
+3.4. flight test training flights.
+
+**C. Categories of flight tests**
+
+**1\. General**
+
+The descriptions below address the flights performed by design and production organisations under Annex I (Part 21).
+
+**2\. Scope**
+
+If more than one aircraft is involved in a test, each individual aircraft flight shall be assessed under this Appendix to determine if it is a flight test and when appropriate, its category.
+
+The flights referred to in point (6)(B)(3) are the only flights that belong to the scope of this Appendix.
+
+**3\. Categories of flight tests**
+
+Flights tests include the following four categories:
+
+3.1. Category One (1)
+
+(a) Initial flight(s) of a new type of aircraft or of an aircraft of which flight or handling characteristics may have been significantly modified;
+
+(b) Flights during which it can be envisaged to potentially encounter flight characteristics significantly different from those already known;
+
+(c) Flights to investigate novel or unusual aircraft design features or techniques;
+
+(d) Flights to determine or expand the flight envelope;
+
+(e) Flights to determine the regulatory performances, flight characteristics and handling qualities when flight envelope limits are approached;
+
+(f) Flight test training for Category 1 flight tests.
+
+3.2. Category Two (2)
+
+(a) Flights not classified as Category 1 on an aircraft whose type is not yet certified;
+
+(b) Flights not classified Category 1 on an aircraft of an already certified type, after embodiment of a not yet approved modification and which:
+
+(i) require an assessment of the general behaviour of the aircraft; or
+
+(ii) require an assessment of basic crew procedures, when a new or modified system is operating or is needed; or
+
+(iii) are required to intentionally fly outside of the limitations of the currently approved operational envelope, but within the investigated flight envelope;
+
+(c) Flight test training for Category 2 flight tests.
+
+3.3. Category Three (3)
+
+Flights performed for the issuance of statement of conformity for a new-built aircraft which do not require flying outside of the limitations of the type certificate or the aircraft flight manual.
+
+3.4. Category Four (4)
+
+Flights not classified as Category 1 or 2 on an aircraft of an already certified type, in case of an embodiment of a not yet approved design change.
+
+**D. Competence and experience of pilots and lead flight test engineers**
+
+**1\. General**
+
+Pilots and lead flight test engineers shall have the competences and experience specified in the following table.
+
+<table>
+<tbody><tr><td>  </td><td colspan="4">Categories of flight tests</td></tr>
+<tr><td>Aircraft</td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>CS-23 commuter or aircraft having a design diving speed (Md) above 0,6 or a maximum ceiling above 7 260 m (25 000 ft), CS-25, CS-27, CS-29 or equivalent airworthiness codes</td><td>Competence level 1</td><td>Competence level 2</td><td>Competence level 3</td><td>Competence level 4</td></tr>
+<tr><td>Other CS-23 with an MTOM of or above 2 000 kg</td><td>Competence level 2</td><td>Competence level 2</td><td>Competence level 3</td><td>Competence level 4</td></tr>
+</tbody>
+</table>
+
+1.1. Competence level 1
+
+1.1.1. Pilots shall comply with the requirements of Annex I (Part-FCL) to Commission Regulation (EU) No 1178/2011 of 3 November 2011 ( 12 ).
+
+1.1.2. Lead flight test engineer shall have:
+
+(a) satisfactorily completed a Competence level 1 training course; and
+
+(b) a minimum of 100 hours of flight experience, including flight test training.
+
+1.2. Competence level 2
+
+1.2.1. Pilots shall comply with the requirements of Annex I (Part-FCL) to Regulation (EU) No 1178/2011.
+
+1.2.2. The lead flight test engineer shall have:
+
+(a) satisfactorily completed a Competence level 1 or level 2 training course; and
+
+(b) a minimum of 50 hours of flight experience, including flight test training.
+
+The competence level 1 or level 2 training courses for Lead flight test engineer shall cover at least the following subjects:
+
+(i) Performance;
+
+(ii) Stability and control/handling qualities;
+
+(iii) Systems;
+
+(iv) Test management; and
+
+(v) Risk/safety management.
+
+1.3. Competence level 3
+
+1.3.1. Pilot(s) shall hold a valid licence appropriate to the category of aircraft under test, issued in accordance with Part-FCL and hold a Commercial Pilot Licence (CPL) as a minimum. In addition, the pilot-in-command shall:
+
+(a) hold a flight test rating; or
+
+(b) have at least 1 000 hours of flight experience as pilot-in-command on aircraft having similar complexity and characteristics; and
+
+(c) have participated, for each class or type of aircraft, in all flights that are part of the programme leading to the issuance of the individual certificate of airworthiness of at least five aircraft.
+
+1.3.2. Lead flight test engineer shall:
+
+(a) satisfy Competence level 1 or level 2; or
+
+(b) have gained a significant amount of flight experience relevant to the task; and
+
+(c) have participated in all flights that are part of the programme leading to the issuance of the individual certificate of airworthiness of at least five aircraft.
+
+1.4. Competence level 4
+
+1.4.1. Pilot(s) shall hold a valid licence appropriate to the category of aircraft under test, issued in accordance with Part-FCL and hold a CPL as a minimum. The pilot-in-command shall hold a flight test rating or have at least 1 000 hours as pilot-in-command on aircraft having similar complexity and characteristics.
+
+1.4.2. Competence and experience for lead flight test engineers is defined in the flight test operations manual.
+
+**2\. Lead flight test engineers**
+
+Lead flight test engineers shall receive an authorisation from the organisation that employs them detailing the scope of their functions within the organisation. The authorisation shall contain the following information:
+
+(a) name;
+
+(b) date of birth;
+
+(c) experience and training;
+
+(d) position in organisation;
+
+(e) scope of the authorisation;
+
+(f) date of first issue of the authorisation;
+
+(g) date of expiry of the authorisation, if appropriate; and
+
+(h) identification number of the authorisation.
+
+Lead flight test engineers shall only be appointed for a specific flight if they are physically and mentally fit to safely discharge assigned duties and responsibilities.
+
+The organisation shall make all relevant records related to authorisations available to their holders.
+
+**E. Competence and experience of other flight test engineers**
+
+Other flight test engineers on board the aircraft shall have an amount of experience and training commensurate with the tasks assigned to them as crew members, and in accordance with the flight test operations manual, when applicable.
+
+The organisation shall make all relevant records related to their flight activities available to the relevant flight test engineer.
+
+## ANNEX IB
+
+**PART 21 LIGHT**
+
+**Certification and declaration of design compliance of aircraft other than unmanned aircraft intended primarily for sports and recreational aviation and related products and parts, and declaration of design and production capability of organisations**
+
+<table>
+<tr><td colspan="2">Contents</td></tr>
+<tr><td>21L.1</td><td>Scope</td></tr>
+<tr><td>21L.2</td><td>Competent authority</td></tr>
+<tr><td>SECTION A –</td><td>TECHNICAL REQUIREMENTS</td></tr>
+<tr><td>SUBPART A –</td><td>GENERAL PROVISIONS</td></tr>
+<tr><td>21L.A.1</td><td>Scope</td></tr>
+<tr><td>21L.A.2</td><td>Obligations and actions performed by a person other than the applicant for, or holder of, a certificate or the declarant of a declaration of design compliance</td></tr>
+<tr><td>21L.A.3</td><td>Reporting system</td></tr>
+<tr><td>21L.A.4</td><td>Airworthiness directives</td></tr>
+<tr><td>21L.A.5</td><td>Collaboration between design and production</td></tr>
+<tr><td>21L.A.6</td><td>Marking</td></tr>
+<tr><td>21L.A.7</td><td>Record-keeping</td></tr>
+<tr><td>21L.A.8</td><td>Manuals</td></tr>
+<tr><td>21L.A.9</td><td>Instructions for continued airworthiness</td></tr>
+<tr><td>21L.A.10</td><td>Access and investigation</td></tr>
+<tr><td>21L.A.11</td><td>Findings and observations</td></tr>
+<tr><td>21L.A.12</td><td>Means of compliance</td></tr>
+<tr><td>SUBPART B –</td><td>TYPE CERTIFICATES</td></tr>
+<tr><td>21L.A.21</td><td>Scope</td></tr>
+<tr><td>21L.A.22</td><td>Eligibility</td></tr>
+<tr><td>21L.A.23</td><td>Demonstration of design capability</td></tr>
+<tr><td>21L.A.24</td><td>Application for a type certificate</td></tr>
+<tr><td>21L.A.25</td><td>Demonstration of compliance</td></tr>
+<tr><td>21L.A.26</td><td>Type design</td></tr>
+<tr><td>21L.A.27</td><td>Requirements for the issuance of a type certificate</td></tr>
+<tr><td>21L.A.28</td><td>Obligations of a type-certificate holder</td></tr>
+<tr><td>21L.A.29</td><td>Transferability of a type certificate</td></tr>
+<tr><td>21L.A.30</td><td>Continued validity of a type certificate</td></tr>
+<tr><td>SUBPART C –</td><td>DECLARATIONS OF AIRCRAFT DESIGN COMPLIANCE</td></tr>
+<tr><td>21L.A.41</td><td>Scope</td></tr>
+<tr><td>21L.A.42</td><td>Eligibility</td></tr>
+<tr><td>21L.A.43</td><td>Declaration of design compliance</td></tr>
+<tr><td>21L.A.44</td><td>Compliance activities for a declaration of design compliance</td></tr>
+<tr><td>21L.A.45</td><td>Detailed technical specifications and environmental protection requirements that are applicable to aircraft subject to declarations of design compliance</td></tr>
+<tr><td>21L.A.46</td><td>Aircraft design data</td></tr>
+<tr><td>21L.A.47</td><td>Obligations of the declarant of a declaration of design compliance</td></tr>
+<tr><td>21L.A.48</td><td>Non-transferability of a declaration of aircraft design compliance</td></tr>
+<tr><td>SUBPART D –</td><td>CHANGES TO TYPE CERTIFICATES</td></tr>
+<tr><td>21L.A.61</td><td>Scope</td></tr>
+<tr><td>21L.A.62</td><td>Standard changes</td></tr>
+<tr><td>21L.A.63</td><td>Classification of changes to a type certificate</td></tr>
+<tr><td>21L.A.64</td><td>Eligibility</td></tr>
+<tr><td>21L.A.65</td><td>Application for a change to a type certificate</td></tr>
+<tr><td>21L.A.66</td><td>Demonstration of compliance</td></tr>
+<tr><td>21L.A.67</td><td>Requirements for the approval of a minor change to a type certificate</td></tr>
+<tr><td>21L.A.68</td><td>Requirements for the approval of a major change to a type certificate</td></tr>
+<tr><td>21L.A.69</td><td>Approval of a change to a type certificate under a privilege</td></tr>
+<tr><td>21L.A.70</td><td>Obligations for minor changes to a type certificate</td></tr>
+<tr><td>SUBPART E –</td><td>SUPPLEMENTAL TYPE CERTIFICATES</td></tr>
+<tr><td>21L.A.81</td><td>Scope</td></tr>
+<tr><td>21L.A.82</td><td>Eligibility</td></tr>
+<tr><td>21L.A.83</td><td>Demonstration of design capability</td></tr>
+<tr><td>21L.A.84</td><td>Application for a supplemental type certificate</td></tr>
+<tr><td>21L.A.85</td><td>Demonstration of compliance</td></tr>
+<tr><td>21L.A.86</td><td>Requirements for approval of a supplemental type certificate</td></tr>
+<tr><td>21L.A.87</td><td>Approval of a supplemental type certificate under a privilege</td></tr>
+<tr><td>21L.A.88</td><td>Obligations of a holder of a supplemental type certificate</td></tr>
+<tr><td>21L.A.89</td><td>Transferability of a supplemental type certificate</td></tr>
+<tr><td>21L.A.90</td><td>Continued validity of a supplemental type certificate</td></tr>
+<tr><td>21L.A.91</td><td>Changes to a part of a product covered by a supplemental type certificate</td></tr>
+<tr><td>SUBPART F –</td><td>CHANGES TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED</td></tr>
+<tr><td>21L.A.101</td><td>Scope</td></tr>
+<tr><td>21L.A.102</td><td>Standard changes</td></tr>
+<tr><td>21L.A.103</td><td>Classification of changes to the design of an aircraft for which design compliance has been declared</td></tr>
+<tr><td>21L.A.104</td><td>Eligibility</td></tr>
+<tr><td>21L.A.105</td><td>Declaration of design compliance for minor changes</td></tr>
+<tr><td>21L.A.106</td><td>Obligations of the person making a declaration of compliance of the design of a minor change</td></tr>
+<tr><td>21L.A.107</td><td>Declaration of design compliance for a major change</td></tr>
+<tr><td>21L.A.108</td><td>Compliance activities for declaring compliance of a major change</td></tr>
+<tr><td>SUBPART G –</td><td>DECLARED PRODUCTION ORGANISATIONS</td></tr>
+<tr><td>21L.A.121</td><td>Scope</td></tr>
+<tr><td>21L.A.122</td><td>Eligibility</td></tr>
+<tr><td>21L.A.123</td><td>Declaration of production capability</td></tr>
+<tr><td>21L.A.124</td><td>Management system for production</td></tr>
+<tr><td>21L.A.125</td><td>Resources of the declared production organisation</td></tr>
+<tr><td>21L.A.126</td><td>Scope of work</td></tr>
+<tr><td>21L.A.127</td><td>Obligations of the declared production organisation</td></tr>
+<tr><td>21L.A.128</td><td>Notification of changes and cessation of activities</td></tr>
+<tr><td>SUBPART H –</td><td>CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS</td></tr>
+<tr><td>21L.A.141</td><td>Scope</td></tr>
+<tr><td>21L.A.142</td><td>Eligibility</td></tr>
+<tr><td>21L.A.143</td><td>Application for a certificate of airworthiness or a restricted certificate of airworthiness</td></tr>
+<tr><td>21L.A.144</td><td>Obligations of the applicant for a certificate of airworthiness or a restricted certificate of airworthiness</td></tr>
+<tr><td>21L.A.145</td><td>Transferability</td></tr>
+<tr><td>21L.A.146</td><td>Continued validity of a certificate of airworthiness and of a restricted certificate of airworthiness</td></tr>
+<tr><td>SUBPART I –</td><td>NOISE CERTIFICATES AND RESTRICTED NOISE CERTIFICATES</td></tr>
+<tr><td>21L.A.161</td><td>Scope</td></tr>
+<tr><td>21L.A.162</td><td>Eligibility</td></tr>
+<tr><td>21L.A.163</td><td>Application</td></tr>
+<tr><td>21L.A.164</td><td>Transferability and re-issuance of noise certificates and restricted noise certificates within Member States</td></tr>
+<tr><td>21L.A.165</td><td>Continued validity of a noise certificate and of a restricted noise certificate</td></tr>
+<tr><td>SUBPART J –</td><td>DECLARED DESIGN ORGANISATIONS</td></tr>
+<tr><td>21L.A.171</td><td>Scope</td></tr>
+<tr><td>21L.A.172</td><td>Eligibility</td></tr>
+<tr><td>21L.A.173</td><td>Declaration of design capability</td></tr>
+<tr><td>21L.A.174</td><td>Management system for design</td></tr>
+<tr><td>21L.A.175</td><td>Resources of the declared design organisation</td></tr>
+<tr><td>21L.A.176</td><td>Scope of work</td></tr>
+<tr><td>21L.A.177</td><td>Obligations of the declared design organisation</td></tr>
+<tr><td>21L.A.178</td><td>Notification of changes and cessation of activities</td></tr>
+<tr><td>SUBPART K –</td><td>PARTS</td></tr>
+<tr><td>21L.A.191</td><td>Scope</td></tr>
+<tr><td>21L.A.192</td><td>Showing of compliance</td></tr>
+<tr><td>21L.A.193</td><td>Release of parts for installation</td></tr>
+<tr><td>SUBPART M –</td><td>DESIGN OF REPAIRS TO TYPE-CERTIFIED PRODUCTS</td></tr>
+<tr><td>21L.A.201</td><td>Scope</td></tr>
+<tr><td>21L.A.202</td><td>Standard repairs</td></tr>
+<tr><td>21L.A.203</td><td>Classification of repair designs to a type-certified product</td></tr>
+<tr><td>21L.A.204</td><td>Eligibility</td></tr>
+<tr><td>21L.A.205</td><td>Application for the approval of a repair design to a type-certified product</td></tr>
+<tr><td>21L.A.206</td><td>Demonstration of compliance</td></tr>
+<tr><td>21L.A.207</td><td>Requirements for the approval of a minor repair design</td></tr>
+<tr><td>21L.A.208</td><td>Requirements for the approval of a major repair design</td></tr>
+<tr><td>21L.A.209</td><td>Approval of a repair design under a privilege</td></tr>
+<tr><td>21L.A.210</td><td>Obligations of a holder of a repair design approval</td></tr>
+<tr><td>21L.A.211</td><td>Unrepaired damage</td></tr>
+<tr><td>SUBPART N –</td><td>DESIGN OF REPAIRS TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED</td></tr>
+<tr><td>21L.A.221</td><td>Scope</td></tr>
+<tr><td>21L.A.222</td><td>Standard repairs</td></tr>
+<tr><td>21L.A.223</td><td>Classification of repair designs to an aircraft for which design compliance has been declared</td></tr>
+<tr><td>21L.A.224</td><td>Eligibility</td></tr>
+<tr><td>21L.A.225</td><td>Declaration of design compliance for minor repair designs</td></tr>
+<tr><td>21L.A.226</td><td>Declaration of design compliance of major repair designs</td></tr>
+<tr><td>21L.A.227</td><td>Compliance activities for declaring compliance of a major repair design</td></tr>
+<tr><td>21L.A.228</td><td>Obligations of the declarant of a declaration of design compliance of a repair design</td></tr>
+<tr><td>21L.A.229</td><td>Unrepaired damage</td></tr>
+<tr><td>SUBPART O –</td><td>EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS</td></tr>
+<tr><td>SUBPART P –</td><td>PERMIT TO FLY</td></tr>
+<tr><td>21L.A.241</td><td>Permit to fly and flight conditions</td></tr>
+<tr><td>SUBPART Q –</td><td>IDENTIFICATION OF PRODUCTS AND PARTS</td></tr>
+<tr><td>21L.A.251</td><td>Scope</td></tr>
+<tr><td>21L.A.252</td><td>Design of markings</td></tr>
+<tr><td>21L.A.253</td><td>Identification of products</td></tr>
+<tr><td>21L.A.254</td><td>Handling of identification data</td></tr>
+<tr><td>21L.A.255</td><td>Identification of parts</td></tr>
+<tr><td>SUBPART R –</td><td>STATEMENT OF CONFORMITY FOR AIRCRAFT AND AUTHORISED RELEASE CERTIFICATE (EASA FORM 1) FOR ENGINES AND PROPELLERS, OR PARTS THEREOF, THAT CONFORM TO A DECLARATION OF DESIGN COMPLIANCE</td></tr>
+<tr><td>21L.A.271</td><td>Scope</td></tr>
+<tr><td>21L.A.272</td><td>Eligibility</td></tr>
+<tr><td>21L.A.273</td><td>Production control system</td></tr>
+<tr><td>21L.A.274</td><td>Issuance of a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1)</td></tr>
+<tr><td>21L.A.275</td><td>Obligations of a natural or legal person issuing a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1)</td></tr>
+<tr><td>SECTION B –</td><td>PROCEDURES FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td>SUBPART A –</td><td>GENERAL PROVISIONS</td></tr>
+<tr><td>21L.B.11</td><td>Oversight documentation</td></tr>
+<tr><td>21L.B.12</td><td>Exchange of information</td></tr>
+<tr><td>21L.B.13</td><td>Information to the Agency</td></tr>
+<tr><td>21L.B.14</td><td>Airworthiness directives received from non-Member States</td></tr>
+<tr><td>21L.B.15</td><td>Immediate reaction to a safety problem</td></tr>
+<tr><td>21L.B.16</td><td>Management system</td></tr>
+<tr><td>21L.B.17</td><td>Allocation of tasks to qualified entities</td></tr>
+<tr><td>21L.B.18</td><td>Changes in the management system</td></tr>
+<tr><td>21L.B.19</td><td>Resolution of disputes</td></tr>
+<tr><td>21L.B.20</td><td>Record-keeping</td></tr>
+<tr><td>21L.B.21</td><td>Findings and observations</td></tr>
+<tr><td>21L.B.22</td><td>Enforcement measures</td></tr>
+<tr><td>21L.B.23</td><td>Airworthiness directives</td></tr>
+<tr><td>21L.B.24</td><td>Means of compliance</td></tr>
+<tr><td>SUBPART B –</td><td>TYPE CERTIFICATES</td></tr>
+<tr><td>21L.B.41</td><td>Certification specifications</td></tr>
+<tr><td>21L.B.42</td><td>Initial investigation</td></tr>
+<tr><td>21L.B.43</td><td>Type-certification basis for a type certificate</td></tr>
+<tr><td>21L.B.44</td><td>Special conditions</td></tr>
+<tr><td>21L.B.45</td><td>Designation of the applicable environmental protection requirements for a type certificate</td></tr>
+<tr><td>21L.B.46</td><td>Investigation</td></tr>
+<tr><td>21L.B.47</td><td>Issuance of a type certificate</td></tr>
+<tr><td>21L.B.48</td><td>Continuing airworthiness oversight of products for which a type certificate has been issued</td></tr>
+<tr><td>21L.B.49</td><td>Transfer of a type certificate</td></tr>
+<tr><td>SUBPART C –</td><td>DECLARATIONS OF DESIGN COMPLIANCE</td></tr>
+<tr><td>21L.B.61</td><td>Detailed technical specifications and applicable environmental protection requirements for declarations of product design compliance</td></tr>
+<tr><td>21L.B.62</td><td>Initial oversight investigation</td></tr>
+<tr><td>21L.B.63</td><td>Registration of a declaration of design compliance</td></tr>
+<tr><td>21L.B.64</td><td>Continuing airworthiness oversight of aircraft for which design compliance has been declared</td></tr>
+<tr><td>SUBPART D –</td><td>CHANGES TO TYPE CERTIFICATES</td></tr>
+<tr><td>21L.B.81</td><td>Type-certification basis and applicable environmental protection requirements for a major change to a type certificate</td></tr>
+<tr><td>21L.B.82</td><td>Investigation and issuance of an approval of a minor change to a type certificate</td></tr>
+<tr><td>21L.B.83</td><td>Investigation of a major change to a type certificate</td></tr>
+<tr><td>21L.B.84</td><td>Issuance of an approval of a major change to a type certificate</td></tr>
+<tr><td>21L.B.85</td><td>Continuing airworthiness oversight of changed products for which a type certificate has been issued</td></tr>
+<tr><td>SUBPART E –</td><td>SUPPLEMENTAL TYPE CERTIFICATES</td></tr>
+<tr><td>21L.B.101</td><td>Type-certification basis and applicable environmental protection requirements for a supplemental type certificate</td></tr>
+<tr><td>21L.B.102</td><td>Investigation</td></tr>
+<tr><td>21L.B.103</td><td>Issuance of a supplemental type certificate</td></tr>
+<tr><td>21L.B.104</td><td>Continuing airworthiness oversight of products for which a supplemental type certificate has been issued</td></tr>
+<tr><td>SUBPART F –</td><td>CHANGES TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED</td></tr>
+<tr><td>21L.B.121</td><td>Initial oversight investigation of a declaration of design compliance of a major change to the design of an aircraft for which design compliance has been declared</td></tr>
+<tr><td>21L.B.122</td><td>Registration of a declaration of design compliance for a major change to an aircraft design</td></tr>
+<tr><td>21L.B.123</td><td>Continuing airworthiness oversight of a changed aircraft for which design compliance has been declared</td></tr>
+<tr><td>SUBPART G –</td><td>DECLARED PRODUCTION ORGANISATIONS</td></tr>
+<tr><td>21L.B.141</td><td>Initial oversight investigation</td></tr>
+<tr><td>21L.B.142</td><td>Registration of a declaration of production capability</td></tr>
+<tr><td>21L.B.143</td><td>Oversight</td></tr>
+<tr><td>21L.B.144</td><td>Oversight programme</td></tr>
+<tr><td>21L.B.145</td><td>Oversight activities</td></tr>
+<tr><td>21L.B.146</td><td>Changes to declarations</td></tr>
+<tr><td>SUBPART H –</td><td>CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS</td></tr>
+<tr><td>21L.B.161</td><td>Investigation</td></tr>
+<tr><td>21L.B.162</td><td>Issuance or amendment of a certificate of airworthiness or a restricted certificate of airworthiness</td></tr>
+<tr><td>21L.B.163</td><td>Oversight</td></tr>
+<tr><td>SUBPART I –</td><td>NOISE CERTIFICATES</td></tr>
+<tr><td>21L.B.171</td><td>Investigation</td></tr>
+<tr><td>21L.B.172</td><td>Issuance or amendment of noise certificates</td></tr>
+<tr><td>21L.B.173</td><td>Oversight</td></tr>
+<tr><td>SUBPART J –</td><td>DECLARED DESIGN ORGANISATIONS</td></tr>
+<tr><td>21L.B.181</td><td>Initial oversight investigation</td></tr>
+<tr><td>21L.B.182</td><td>Registration of a declaration of design capability</td></tr>
+<tr><td>21L.B.183</td><td>Oversight</td></tr>
+<tr><td>21L.B.184</td><td>Oversight programme</td></tr>
+<tr><td>21L.B.185</td><td>Oversight activities</td></tr>
+<tr><td>21L.B.186</td><td>Changes to declarations</td></tr>
+<tr><td>SUBPART K –</td><td>PARTS</td></tr>
+<tr><td>SUBPART M –</td><td>DESIGN OF REPAIRS TO TYPE-CERTIFIED PRODUCTS</td></tr>
+<tr><td>21L.B.201</td><td>Type-certification basis and applicable environmental protection requirements for a repair design approval</td></tr>
+<tr><td>21L.B.202</td><td>Investigation and issuance of an approval for a minor repair design</td></tr>
+<tr><td>21L.B.203</td><td>Investigation of an application for the approval of a major repair design</td></tr>
+<tr><td>21L.B.204</td><td>Issuance of an approval of a major repair design</td></tr>
+<tr><td>21L.B.205</td><td>Continuing airworthiness oversight of products for which a repair design has been approved</td></tr>
+<tr><td>21L.B.206</td><td>Unrepaired damage</td></tr>
+<tr><td>SUBPART N –</td><td>DESIGN OF REPAIRS TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED</td></tr>
+<tr><td>21L.B.221</td><td>Initial oversight investigation of a declaration of design compliance of a major repair design to an aircraft for which design compliance has been declared</td></tr>
+<tr><td>21L.B.222</td><td>Registration of a declaration of a major repair design to an aircraft for which design compliance has been declared</td></tr>
+<tr><td>21L.B.223</td><td>Continuing airworthiness oversight of a repair design for which design compliance has been declared</td></tr>
+<tr><td>SUBPART O –</td><td>EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS</td></tr>
+<tr><td>SUBPART P –</td><td>PERMIT TO FLY</td></tr>
+<tr><td>21L.B.241</td><td>Investigation prior to the issuance of a permit to fly</td></tr>
+<tr><td>21L.B.242</td><td>Investigation prior to issuance of the flight conditions</td></tr>
+<tr><td>SUBPART Q –</td><td>IDENTIFICATION OF PRODUCTS AND PARTS</td></tr>
+<tr><td>SUBPART R –</td><td>STATEMENT OF CONFORMITY FOR AIRCRAFT AND AUTHORISED RELEASE CERTIFICATES (EASA FORM 1) FOR ENGINES AND PROPELLERS, AND PARTS THEREOF, THAT CONFORM TO A DECLARATION OF DESIGN COMPLIANCE</td></tr>
+<tr><td>21L.B.251</td><td>Oversight</td></tr>
+<tr><td>21L.B.252</td><td>Oversight programme</td></tr>
+<tr><td>21L.B.253</td><td>Oversight activities</td></tr>
+<tr><td></td><td>Appendices to Annex Ib</td></tr>
+</table>
+
+**21L.1 Scope**
+
+(a) Section A of this Annex (Part 21 Light) establishes the provisions governing the rights and obligations of the following persons having their principal place of business located in a Member State:
+
+1\. the applicant for, and holder of, any certificate issued or to be issued in accordance with this Annex;
+
+2\. natural and legal persons declaring, in accordance with this Annex, design compliance, design capabilities or production capabilities, or intending to make such declarations;
+
+3\. the signatory of a statement of conformity for an aircraft, or an authorised release certificate (EASA Form 1) for an engine, propeller or part produced in accordance with this Annex.
+
+(b) Section B of this Annex establishes the provisions governing the certification, oversight and enforcement by the Agency and national competent authorities in accordance with this Annex and establishes requirements for their administration and management systems relating to the exercise of these tasks.
+
+**21L.2 Competent authority**
+
+For the purpose of this Annex, ‘competent authority’ shall be:
+
+(a) for Section A, Subpart A,
+
+1\. for design organisations, the Agency;
+
+2\. for a production organisation, the authority designated by the Member State where the organisation has its principal place of business; or the Agency, if that responsibility has been reallocated to the Agency in accordance with Article 64 or 65 of Regulation (EU) 2018/1139;
+
+(b) for Section A, Subparts B, C, D, E, F, J, K, M, N, and Q, the Agency;
+
+(c) for Section A, Subparts G, H, I and R, the authority designated by the Member State where the organisation has its principal place of business; or the Agency, if that responsibility has been reallocated to the Agency in accordance with Article 64 or 65 of Regulation (EU) 2018/1139;
+
+(d) for Section A, Subpart P:
+
+1\. for aircraft registered in a Member State, the authority designated by the Member State of registry;
+
+2\. for unregistered aircraft, the authority designated by the Member State which prescribed the identification marks;
+
+3\. for the approval of flight conditions related to the safety of the design, the Agency.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+**SUBPART A – GENERAL PROVISIONS**
+
+**21L.A.1 Scope**
+
+This Section establishes general rights and obligations that are applicable to:
+
+(a) the applicant for, and holder of, any certificate issued or to be issued in accordance with this Annex;
+
+(b) any declarant of design or production capability or of design compliance; and
+
+(c) any natural or legal person issuing a statement of conformity for an aircraft, or an authorised release certificate (EASA Form 1) for an engine, propeller or part produced.
+
+**21L.A.2 Obligations and actions performed by a person other than the applicant for, or holder of, a certificate or the declarant of a declaration of design compliance**
+
+The actions and obligations required to be undertaken by the applicant for, or holder of, a certificate for a product or part or by the declarant of a declaration of design compliance under this Section may be undertaken on its behalf by any other natural or legal person, provided that the applicant’s, holder’s or declarant’s obligations are and will be properly discharged.
+
+**21L.A.3 Reporting system**
+
+(a) Without prejudice to Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 13 ) and its delegated and implementing acts, any natural or legal person who holds or has applied for a type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, or who has declared the compliance of an aircraft design, or a design change or repair design to it under this Annex shall:
+
+1\. establish and maintain a system for collecting, investigating and analysing occurrence reports in order to identify adverse trends or to address deficiencies, and to extract occurrences, whose reporting is mandatory in accordance with point (3) and those which are reported voluntarily. The reporting system shall include:
+
+(i) reports of and information related to failures, malfunctions, defects or other events which cause or might cause adverse effects on the continuing airworthiness of the product or part covered by the type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, or by the declaration of design compliance issued under this Annex;
+
+(ii) reports of errors, near misses, and hazards that do not fall under point (i);
+
+2\. make available to known operators of the product or part, and, on request, to any person authorised under other associated implementing acts or delegated acts, the information about the system established in accordance with point (a)(1), and on how to provide such reports of and information related to failures, malfunctions, defects or other events referred to in point (a)(1)(i);
+
+3\. report to the Agency any failure, malfunction, defect or other event of which they are aware related to a product or part, covered by the type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, or by a declaration of design compliance issued under this Annex, and which has resulted in or may result in an unsafe condition.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, any natural or legal person who has declared their production capability under Subpart G of this Annex, or who produces a product or part under Subpart R of this Annex, shall:
+
+1\. establish and maintain a system for collecting and assessing internal occurrence reports, including reports on internal errors, near misses, and hazards, in order to identify adverse trends or to address deficiencies, and extract occurrences, whose reporting is mandatory in accordance with points (2) and (3) and those which are reported voluntarily;
+
+2\. report, to the responsible design approval holder or declarant of a declaration of design compliance, all cases in which products or parts have been released by them and subsequently identified to have possible deviations from the applicable design data, and investigate with the design approval holder or the declarant of a declaration of design compliance, to identify those deviations which could lead to an unsafe condition;
+
+3\. report to the Agency and the competent authority of the Member State responsible in accordance with point 21L.2, if any, the deviations which could lead to an unsafe condition that were identified according to point (2) of point 21L.A.3(b);
+
+4\. if acting as a supplier to another production organisation, report to that other organisation all the cases in which it has released products or parts to that organisation and subsequently identified them to have possible deviations from the applicable design data.
+
+The reporting obligations of point 21.A.3A(b) of Annex I of natural and legal persons who hold or have applied for a production organisation approval shall include occurrences related to products and parts produced in conformity with design data approved or declared in accordance with this Annex, and, where the design compliance was declared, reports shall be made to the declarant of design compliance.
+
+(c) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, any natural or legal person referred to in points (a) and (b) when reporting in accordance with points (a)(3), (b)(2), (b)(3) and (b)(4), shall appropriately safeguard the confidentiality of the reporter and of the persons mentioned in the report.
+
+(d) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, any natural or legal person referred to in points (a) and (b) shall make the reports defined in points (a)(3) and (b)(3) in a form and manner established by the competent authority as soon as practicable, and in any case, dispatch the reports not later than 72 hours after the natural or legal person referred to in points (a) and (b) has identified the possible unsafe condition, unless exceptional circumstances prevent this.
+
+(e) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, if an occurrence reported under point (a)(3) or under point (b)(3) results from a deficiency in the design, or a production deficiency, the holder of the type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, the declarant of a declaration of design compliance or the production organisation referred to in point (b) as appropriate, shall investigate the reason for the deficiency and report to the Agency and to the competent authority of the Member State responsible in accordance with point 21L.2, if any, the results of its investigation and any action it is taking or proposes to take to correct that deficiency.
+
+(f) If the competent authority finds that an action is required to correct the deficiency, the holder of the type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, the declarant of a declaration of design compliance, or the production organisation referred to in point (b) as appropriate, shall submit the relevant data to the competent authority upon its request.
+
+**21L.A.4 Airworthiness directives**
+
+When an airworthiness directive has to be issued by the Agency in accordance with point 21L.B.23 to correct an unsafe condition, or to require the performance of an inspection, the holder of the type certificate, supplemental type certificate, major repair design approval, or any other relevant certificate deemed to have been issued under this Annex, as well as the declarant of a declaration of design compliance, as applicable, shall:
+
+(a) propose the appropriate corrective action or required inspections, or both, and submit details of these proposals to the Agency for approval;
+
+(b) following the approval by the Agency of the proposals referred to under point (a), make available to all known operators or owners of the product or part, and, on request, to any person required to comply with the airworthiness directive, appropriate descriptive data and accomplishment instructions.
+
+**21L.A.5 Collaboration between design and production**
+
+The holder of a type certificate, supplemental type certificate, approval of a change to type certificate or approval of a repair design, the declarant of a declaration of design compliance, and the organisation or the natural or legal person producing products or parts of that specific design shall collaborate so as to ensure that the product or part are in conformity to that design and to ensure the continued airworthiness of the product or part.
+
+**21L.A.6 Marking**
+
+(a) The holder of a type certificate, supplemental type certificate, approval of a change to type certificate or approval of a repair design, or the declarant of a declaration of design compliance shall specify the marking for products or parts in accordance with Subpart Q of this Annex.
+
+(b) The organisation or the natural or legal person producing products or parts shall mark these products and parts in accordance with Subpart Q of this Annex.
+
+**21L.A.7 Record-keeping**
+
+All natural or legal persons who hold or who have applied for a type certificate, supplemental type certificate, repair design approval, or permit to fly, who have declared design compliance, who have issued a declaration of design or production capability, or who produce products or parts under this Regulation shall:
+
+(a) when designing a product or part or changes or repairs thereto, establish a record-keeping system that incorporates the requirements imposed on its partners and subcontractors and maintain the relevant design information/data and hold it at the disposal of the Agency in order to provide the information necessary to ensure their continued airworthiness and compliance with the applicable environmental protection requirements;
+
+(b) when producing a product or part, establish a record-keeping system and record the details of the work relevant to the conformity of the products or parts, and the requirements imposed on its partners and suppliers, and hold them at the disposal of the competent authority in order to provide the information necessary to ensure the continuing airworthiness of the product and part;
+
+(c) with regard to permits to fly, in addition to the record-keeping requirements established in point 21.A.5(c) of Annex I, record any documents produced to demonstrate compliance with the additional requirements established in point 21L.A.241(b), and hold them at the disposal of the Agency and the competent authority;
+
+(d) retain records of competence and the qualifications of personnel who are involved in design or production and in the independent function to monitor the compliance, if required by points 21L.A.125(c), 21L.A.175(b) or 21L.A.175(e).
+
+**21L.A.8 Manuals**
+
+The holder of a type certificate or supplemental type certificate or the declarant of a declaration of design compliance shall produce, maintain and update master copies of all the manuals or variations in the manuals required by the applicable type-certification basis, the applicable detailed technical specifications and the applicable environmental protection requirements for the product or part, and provide copies, on request, to the Agency.
+
+**21L.A.9 Instructions for continued airworthiness**
+
+(a) The holder of a type certificate, supplemental type certificate, design change or repair design approval or the declarant of a declaration of design compliance shall establish the information which is necessary for ensuring that the airworthiness of the aircraft type and any associated part, conforming to that design, is maintained throughout the operational life.
+
+(b) The holder of a type certificate, supplemental type certificate, design change or repair design approval or the declarant of a declaration of design compliance shall provide the information established in (a) before that design is released to service.
+
+(c) The instructions for continued airworthiness shall be provided by:
+
+1\. the holder of a type certificate or by the declarant of a declaration of design compliance to each known owner of one or more products upon its delivery or upon the issuance of the first certificate of airworthiness or restricted certificate of airworthiness, as applicable, for the affected aircraft, whichever occurs later;
+
+2\. the holder of a type certificate, supplemental type certificate or minor change approval or by the declarant of a declaration of design compliance for a design change to all known operators of the product affected by the change upon the release to service of the modified product;
+
+3\. the holder of a repair design approval or by the declarant of a declaration of design compliance for a repair design to all known operators of the product affected by the repair upon the release to service of the product in which the repair design is embodied. The repaired product or part may be released into service before the related instructions for continued airworthiness have been completed, but this shall be for a limited service period, and in agreement with the Agency.
+
+Thereafter, these certificate holders or declarants shall make this information available on request to any other person required to comply with those instructions for continued airworthiness.
+
+(d) By way of derogation from point (b), the type-certificate holder or declarant of a declaration of design compliance may delay the availability of a part of the instructions for continued airworthiness, dealing with long lead accomplishment instructions of a scheduled nature, until after the product or modified product has entered into service, but shall make those instructions available before the use of this data is required for the product or modified product.
+
+(e) The design approval holder or declarant of a declaration of design compliance who is required to provide instructions for continued airworthiness in accordance with point (b) shall also make available all the changes to those instructions to all the known operators of the product affected by the change, and, on request, to any other person required to comply with those changes.
+
+**21L.A.10 Access and investigation**
+
+All natural or legal persons who hold or who have applied for a type certificate, supplemental type certificate, major repair design approval, permit to fly, certificate of airworthiness, restricted certificate of airworthiness, noise certificate or restricted noise certificate, who have declared design compliance, who have declared their design or production capability or who produce aircraft, engines, propellers or parts under Subpart R of this Annex, shall:
+
+(a) grant the competent authority access to any facility, product, part, document, record, data, processes, procedures or any other material, and permit the review of any report and make any inspection and perform or witness any test that is necessary to verify the compliance and the continued compliance with the applicable requirements of this Section;
+
+(b) if the natural or legal person uses partners, suppliers or subcontractors, make arrangements with them to ensure that the competent authority has access and can investigate as described in point (a).
+
+**21L.A.11 Findings and observations**
+
+(a) After the receipt of the notification of findings, the natural or legal person who holds or who has applied for a type certificate, supplemental type certificate, major repair design approval, permit to fly, certificate of airworthiness, restricted certificate of airworthiness, noise certificate or restricted noise certificate, who has declared design compliance, who has declared their design or production capability or who produces aircraft, engines, propellers or parts under Subpart R of this Annex, shall take the following steps within the time period determined by the competent authority in accordance with point (d) or (e) of point 21L.B.21:
+
+1\. identify the root cause(s) of, and contributing factor(s) to, the non-compliance;
+
+2\. define a corrective action plan and propose it to the competent authority;
+
+3\. demonstrate the implementation of the corrective action(s) to the satisfaction of the competent authority.
+
+(b) An observation notified by the competent authority in accordance with point (f) of point 21L.B.21 shall be given due consideration. The natural or legal person shall record the decision taken in respect of those observations.
+
+**21L.A.12 Means of compliance**
+
+(a) A legal or natural person may use any alternative means of compliance to the acceptable means of compliance (AMC) to establish compliance with this Regulation.
+
+(b) If a natural or legal person wishes to use an alternative means of compliance, they shall, prior to using it, provide the competent authority with a full description. The description shall include any revisions to manuals or procedures that may be relevant, as well as an explanation indicating how compliance with this Regulation is achieved.
+
+(c) The natural or legal person may use those alternative means of compliance subject to prior approval from the competent authority.
+
+**SUBPART B – TYPE CERTIFICATES**
+
+**21L.A.21 Scope**
+
+This Subpart establishes the procedure for applying for type certificates, and establishes the rights and obligations of the applicants for, and holders of, those certificates for products, when the product is one of the following:
+
+(a) an aeroplane with a maximum take-off mass (MTOM) of 2 000 kg or less with a seating configuration of maximum four persons;
+
+(b) a sailplane or powered sailplane with an MTOM of 2 000 kg or less;
+
+(c) a balloon;
+
+(d) a hot air airship;
+
+(e) a passenger gas airship designed for not more than four persons;
+
+(f) a rotorcraft with an MTOM of 1 200 kg or less with a seating configuration of maximum four persons;
+
+(g) a piston engine and fixed pitch propeller that are intended to be installed on an aircraft referred to in points (a) to (f). In such cases, the type certificate data sheet shall be appropriately annotated to only permit installation of the engine or propeller on such aircraft;
+
+(h) gyroplanes.
+
+**21L.A.22 Eligibility**
+
+Any natural or legal person who has demonstrated, or is in the process of demonstrating, their design capability in accordance with point 21L.A.23, may apply for a type certificate under the conditions laid down in this Subpart.
+
+**21L.A.23 Demonstration of design capability**
+
+An applicant for a type certificate shall demonstrate their design capability by:
+
+(a) holding a design organisation approval with terms of approval that cover the respective category of the product, issued by the Agency in accordance with Subpart J of Section A of Annex I (Part 21); or
+
+(b) declaring their design capability for the type of design work and the category of the product in accordance with Subpart J of this Annex.
+
+**21L.A.24 Application for a type certificate**
+
+(a) An application for a type certificate shall be made in a form and manner established by the Agency.
+
+(b) An application for a type certificate shall include as a minimum:
+
+1\. a justification that the application is within the scope as established in point 21L.A.21;
+
+2\. preliminary descriptive data of the product, the intended use, and the kind of operation of the product for which certification is requested;
+
+3\. a proposal for the type-certification basis and the applicable environmental protection requirements, prepared in accordance with the requirements and options specified in points 21L.B.43 and 21L.B.45;
+
+4\. a compliance demonstration plan detailing the means and methods of compliance that shall be updated by the applicant when there are changes to the certification project that affect points (1) to (3) or any changes to the means and methods of compliance.
+
+(c) An application for a type certificate shall remain valid for 3 years. In case a type certificate has not been issued within this period, a new application shall be made in accordance with points (a) and (b).
+
+**21L.A.25 Demonstration of compliance**
+
+(a) The applicant for a type certificate shall, following the acceptance of the compliance demonstration plan by the Agency and in accordance with its contents, then:
+
+1\. demonstrate compliance with the applicable type-certification basis as established and notified to the applicant by the Agency in accordance with point 21L.B.43;
+
+2\. demonstrate compliance with the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.45; and
+
+3\. provide the Agency with the means by which such compliance has been demonstrated.
+
+(b) The applicant for a type certificate shall provide the Agency with a recorded justification of the means of compliance within compliance documents according to the compliance demonstration plan.
+
+(c) When carrying out testing and inspections to demonstrate compliance in accordance with point (a), the applicant shall have verified and documented this verification prior to carrying out any test:
+
+1\. for each test specimen, that:
+
+(i) the materials and processes adequately conform to the specifications for the proposed type design;
+
+(ii) the constituent parts of the products adequately conform to the drawings in the proposed type design;
+
+(iii) the manufacturing processes, construction and assembly adequately conform to those specified in the proposed type design; and
+
+2\. that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated.
+
+(d) The flight testing for the purpose of obtaining a type certificate shall be conducted in accordance with the methods for such flight testing specified by the Agency. The applicant for a type certificate shall make all the flight tests necessary to determine compliance with the applicable type-certification basis. The flight tests shall include a period of operation in a final configuration of a sufficient duration to ensure that there will be no safety issues when the aircraft first enters service.
+
+(e) An applicant for a type certificate shall allow the Agency to:
+
+1\. review any data and information related to the demonstration of compliance;
+
+2\. witness or carry out any test or inspection conducted for the purpose of the demonstration of compliance;
+
+3\. conduct a physical inspection of the first article of that product in the final configuration to verify the compliance of the design with the type-certification basis and the applicable environmental protection requirements and any other investigation determined in accordance with point 21L.B.46.
+
+(f) Upon the completion of the compliance demonstration, the applicant shall declare to the Agency that:
+
+1\. they have demonstrated compliance with the type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with points 21L.B.43 and 21L.B.45, according to the compliance demonstration plan; and
+
+2\. no feature or characteristic has been identified that may make the product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+**21L.A.26 Type design**
+
+The applicant for a type certificate shall define the product type design to enable its unique and unambiguous identification, consisting of:
+
+(a) drawings and specifications and a listing of those drawings and specifications that are necessary to define the configuration and the design features of the product;
+
+(b) information on the materials and processes used;
+
+(c) information on the methods of manufacture and assembly;
+
+(d) any airworthiness limitations;
+
+(e) the environmental compatibility requirements; and
+
+(f) any other data allowing by comparison the determination of the airworthiness, and, if relevant, the environmental compatibility of later products of the same type.
+
+**21L.A.27 Requirements for the issuance of a type certificate**
+
+In order to be issued with a type certificate, the applicant shall:
+
+(a) demonstrate their design capability in accordance with point 21L.A.23;
+
+(b) demonstrate the compliance of the design in accordance with point 21L.A.25;
+
+(c) demonstrate, for aircraft type certificates, that the engine or propeller, or both, if installed on the aircraft, have either:
+
+1\. a type certificate issued or determined in accordance with Annex I (Part 21) or issued in accordance with this Annex; or
+
+2\. been included within the application for the aircraft type certificate and the applicant has ensured the compliance of the engine and propeller during the compliance demonstration in point 21L.A.25;
+
+(d) demonstrate that there are no unresolved issues from the physical inspection of the first article of that product in the final configuration or any other investigation carried out by the Agency in accordance with points (c) and (d) of point 21L.B.46.
+
+**21L.A.28 Obligations of a type-certificate holder**
+
+The holder of a type certificate shall undertake the obligations of a type-certificate holder set forth in Subpart A of this Annex and shall continue to comply with the eligibility requirement under point 21L.A.22.
+
+**21L.A.29 Transferability of a type certificate**
+
+A type certificate may be transferred to a new holder, provided that the Agency has verified, in accordance with point 21L.B.49, that the natural or legal person to whom the type certificate is intended to be transferred is eligible in accordance with point 21L.A.22 to hold a type certificate and is able to undertake the obligations of a type-certificate holder under point 21L.A.28. The holder of the type certificate or the natural or legal person who wishes to adopt the certificate shall apply to the Agency to verify whether these conditions are complied with, in a form and manner established by the Agency.
+
+**21L.A.30 Continued validity of a type certificate**
+
+(a) A type certificate shall remain valid as long as:
+
+1\. the type certificate is not surrendered by the holder;
+
+2\. the holder of the type certificate remains in compliance with the relevant requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, taking into account the provisions related to the handling of findings as specified under point 21L.B.21;
+
+3\. the type certificate is not revoked by the Agency in accordance with point 21L.B.22.
+
+(b) Upon surrender or revocation, the type certificate shall be returned to the Agency.
+
+**SUBPART C – DECLARATIONS OF AIRCRAFT DESIGN COMPLIANCE**
+
+**21L.A.41 Scope**
+
+(a) This Subpart establishes the procedure for declaring the design compliance of aircraft, and establishes the rights and obligations of the persons making such declarations.
+
+(b) This Subpart applies to the following categories of aircraft, provided that the design of the aircraft does not include novel or unusual design features:
+
+1\. an aeroplane with a maximum take-off mass (MTOM) of 1 200 kg or less that is not jet-powered, and has a seating configuration of maximum two persons;
+
+2\. a sailplane or powered sailplane with an MTOM of 1 200 kg or less;
+
+3\. a balloon designed for not more than four persons;
+
+4\. a hot air airship designed for not more than four persons.
+
+(c) For the purpose of this Subpart, a design feature shall be considered to be novel or unusual if at the time that the declaration of design compliance is made, that design feature is not covered by the detailed technical specifications established and made available by the Agency in accordance with point 21L.B.61.
+
+**21L.A.42 Eligibility**
+
+Any natural or legal person may declare the compliance of an aircraft design under the conditions laid down in this Subpart.
+
+**21L.A.43 Declaration of design compliance**
+
+(a) Prior to producing an aircraft or agreeing with a production organisation to produce an aircraft, a natural or legal person who designs that aircraft shall declare that its design complies with the applicable detailed technical specifications and the applicable environmental protection requirements referred to in point 21L.A.45.
+
+(b) The declaration shall be made in a form and manner established by the Agency and shall contain at least the following information:
+
+1\. the name of the person submitting the declaration, and their address/place of business;
+
+2\. a unique reference for identifying the aircraft;
+
+3\. indication of the applicable detailed technical specifications and the applicable environmental protection requirements according to point 21L.A.45 with which the declarant declares compliance;
+
+4\. a signed statement made under the sole responsibility of the person making the declaration that the design of the aircraft, and if applicable the engine or propeller, is in compliance with the applicable detailed technical specifications and the applicable environmental protection requirements referred to in point 3, according to the compliance demonstration plan referred to in point (c)(3);
+
+5\. a signed statement made under the sole responsibility of the person making the declaration that no features or characteristics have been identified by that person that may make the aircraft unsafe or environmentally incompatible for the intended use;
+
+6\. a signed commitment that the person making the declaration will undertake the obligations referred to in point 21L.A.47;
+
+7\. if the aircraft design covered by the declaration includes an engine or propeller:
+
+(i) a reference to the engine or propeller type certificate issued or determined in accordance with Annex I (Part 21) or issued in accordance with this Annex; or
+
+(ii) in the case of piston engines and fixed pitch propellers, a statement that the declaration of design compliance of the aircraft covers the compliance of the engine or propeller with the applicable engine or propeller technical specifications;
+
+8\. the instructions for continued airworthiness;
+
+9\. the operating limitations;
+
+10\. the data sheet for airworthiness and, if applicable, emissions;
+
+11\. the data sheet for noise, if applicable;
+
+12\. any other conditions or limitations prescribed for the aircraft, and if applicable the engine or propeller, in the applicable detailed technical specifications and the applicable environmental protection requirements with which the declarant declares compliance.
+
+(c) The declarant shall submit the declaration of design compliance referred to in point (b) to the Agency. Together with this declaration, the declarant shall provide to the Agency:
+
+1\. a drawing of the aircraft;
+
+2\. a detailed description of the aircraft design, including all the configurations covered by the declaration, the operating characteristics, design features and any limitations;
+
+3\. a compliance demonstration plan detailing the means by which compliance with the applicable detailed technical specifications and the applicable environmental protection requirements has been demonstrated during compliance demonstration;
+
+4\. recorded justifications of compliance obtained from the compliance activities that have been conducted according to the compliance demonstration plan;
+
+5\. where compliance is demonstrated by carrying out tests, recorded justification of the conformity of the test articles and equipment, demonstrating:
+
+(i) for the test specimen, that:
+
+(A) the materials and processes adequately conformed to the specifications for the design;
+
+(B) the constituent parts of the products adequately conformed to the drawings in the design; and
+
+(C) the manufacturing processes, construction and assembly adequately conformed to those specified in the design;
+
+(ii) that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated;
+
+6\. reports, results of inspections or tests that the declarant found necessary to determine that the aircraft, and if applicable the engine or propeller, complies with the applicable detailed technical specifications and the applicable environmental protection requirements.
+
+**21L.A.44 Compliance activities for a declaration of design compliance**
+
+Prior to making a declaration of design compliance in accordance with point 21L.A.43, the declarant responsible for design of that aircraft shall, for that specific aircraft design:
+
+(a) establish a compliance demonstration plan detailing the means for compliance demonstration that shall be followed during the compliance demonstration. This document shall be updated as necessary;
+
+(b) record the justification of compliance within compliance documents according to the compliance demonstration plan;
+
+(c) perform testing and inspections as necessary in accordance with the compliance demonstration plan;
+
+(d) ensure and record the conformity of the test articles and equipment and ensure that the test specimen conforms to the specifications, drawings, manufacturing processes, construction and assembly means in the design;
+
+(e) ensure that the test and measuring equipment to be used for testing are adequate for testing and appropriately calibrated;
+
+(f) allow the Agency to conduct or participate in any inspections or tests of aircraft in the final or suitably mature design and production configuration that are necessary to determine that the product has no feature or characteristic that makes the aircraft unsafe or environmentally incompatible for the intended use;
+
+(g) carry out flight testing, in accordance with the methods for such flight testing specified by the Agency, to determine whether the aircraft complies with the applicable detailed technical specifications and the applicable environmental protection requirements. The flight testing shall include a period of operation in the final configuration of a sufficient duration to ensure that there will be no safety issues when the aircraft first enters service.
+
+**21L.A.45 Detailed technical specifications and environmental protection requirements that are applicable to aircraft subject to declarations of design compliance**
+
+The declarant shall demonstrate the compliance of the aircraft design with the detailed technical specifications and the applicable environmental protection requirements referred to in point 21L.B.61, which are applicable to that aircraft and which are effective on the date on which the declaration of design compliance is made to the Agency.
+
+**21L.A.46 Aircraft design data**
+
+(a) The declarant shall clearly define the aircraft design to enable its unique and unambiguous identification.
+
+(b) The aircraft design data that is used by the declarant to uniquely define the aircraft design shall include:
+
+1\. the drawings and specifications and a listing of those drawings and specifications that are necessary to define the configuration and the design features of the product;
+
+2\. information on the materials and processes used;
+
+3\. information on the methods of manufacture and assembly;
+
+4\. any airworthiness limitations;
+
+5\. any environmental compatibility requirements; and
+
+6\. any other data allowing by comparison the determination of the airworthiness and, if relevant, the environmental compatibility of later products of the same type.
+
+**21L.A.47 Obligations of the declarant of a declaration of design compliance**
+
+The declarant who made a declaration of aircraft design compliance to the Agency in accordance with point 21L.A.43 shall:
+
+(a) upon submission of the declaration, arrange for the Agency to conduct a physical inspection and flight tests of the first article of that aircraft in the final or a suitably mature configuration to ensure that the aircraft can achieve an acceptable level of safety and is environmentally compatible;
+
+(b) retain all the supporting documents for the declaration of design compliance, and make them available to the Agency upon request;
+
+(c) comply with all other obligations applicable to a declarant of a declaration of design compliance set forth in Subpart A of this Annex.
+
+**21L.A.48 Non-transferability of a declaration of aircraft design compliance**
+
+(a) A declaration of aircraft design compliance cannot be transferred.
+
+(b) A natural or legal person who is taking over the design of an aircraft for which compliance of the design has been previously declared shall:
+
+1\. submit a new declaration of aircraft design compliance in accordance with this Subpart;
+
+2\. demonstrate that the declarant who previously made a declaration of aircraft design compliance is no longer active or has agreed to the transfer of the aircraft design data;
+
+3\. commit to comply with all the obligations applicable to persons making a declaration of aircraft design compliance set forth in this Subpart as per point 21L.A.47.
+
+**SUBPART D – CHANGES TO TYPE CERTIFICATES**
+
+**21L.A.61 Scope**
+
+This Subpart establishes:
+
+(a) the procedure for applying for the approval of changes to type certificates for products certified in accordance with this Annex, provided that the changed product is still within the scope of point 21L.A.21;
+
+(b) the rights and obligations of the applicants for, and holders of, those approvals referred to in point (a);
+
+(c) provisions regarding the standard changes that do not require an approval.
+
+**21L.A.62 Standard changes**
+
+(a) Standard changes are those changes to a type certificate of a product approved in accordance with Subpart B of Section B of this Annex:
+
+1\. that follow the design data included in the certification specifications issued by the Agency, containing the acceptable methods, techniques and practices for carrying out and identifying standard changes, including the associated instructions for continued airworthiness; and
+
+2\. that are not in conflict with the data of the holder of that type certificate.
+
+(b) Points 21L.A.63 to 21L.A.70 are not applicable to standard changes.
+
+**21L.A.63 Classification of changes to a type certificate**
+
+(a) Changes to a type certificate shall be classified as minor or major.
+
+(b) A ‘minor change’ is a change that has no appreciable effect on the mass, balance, structural strength, reliability, certified noise or emissions levels, operational characteristics, or other characteristics affecting the airworthiness or the environmental compatibility of the product.
+
+(c) All other changes are ‘major changes’, unless the change in design, power, thrust, or mass is so extensive that a substantially complete investigation of compliance with the applicable type-certification basis or with the applicable environmental protection requirements or with the applicable detailed technical specifications is required, in which case the design shall be certified in accordance with Subpart B of this Annex.
+
+(d) The requirements for the approval of minor changes are those established in point 21L.A.67.
+
+(e) The requirements for the approval of major changes are those established in point 21L.A.68.
+
+**21L.A.64 Eligibility**
+
+(a) Only the type-certificate holder may apply for the approval of a major change to a type certificate under this Subpart; all other applicants for a major change to a type certificate shall apply under Subpart E of this Annex.
+
+(b) Any natural or legal person may apply for the approval of a minor change to a type certificate under this Subpart.
+
+**21L.A.65 Application for a change to a type certificate**
+
+(a) An application for the approval of a change to a type certificate shall be made in a form and manner established by the Agency.
+
+(b) For a major change to a type certificate, the applicant shall include in the application a compliance demonstration plan for the demonstration of compliance in accordance with point 21L.A.66, along with a proposal for the type-certification basis and the applicable environmental protection requirements, prepared in accordance with the requirements and options specified in point 21L.B.81.
+
+**21L.A.66 Demonstration of compliance**
+
+(a) The applicant for a major change to a type certificate shall demonstrate compliance with the applicable type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.81, and shall provide the Agency with the means by which such compliance has been demonstrated.
+
+(b) The applicant for a major change to a type certificate shall provide the Agency with a recorded justification of the means of compliance according to the compliance demonstration plan.
+
+(c) When carrying out testing and inspections to demonstrate compliance in accordance with point (a), the applicant shall have verified and documented this verification prior to carrying out any test:
+
+1\. for the test specimen, that:
+
+(i) the materials and processes adequately conform to the specifications for the proposed changed type design;
+
+(ii) the constituent parts of the products adequately conform to the drawings in the proposed changed type design;
+
+(iii) the manufacturing processes, construction and assembly adequately conform to those specified in the proposed changed type design; and
+
+2\. that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated.
+
+(d) The flight testing for the purpose of obtaining an approval of a major change to a type certificate shall be conducted in accordance with the methods for such flight testing specified by the Agency. The applicant for a major change to a type certificate shall make all the flight tests necessary to determine compliance with the applicable type-certification basis and the applicable environmental protection requirements.
+
+(e) An applicant for a major change to a type certificate shall allow the Agency to:
+
+1\. review any data and information related to the demonstration of compliance;
+
+2\. witness or carry out any test or inspection conducted for the purpose of the demonstration of compliance; and
+
+3\. if it is considered necessary, conduct a physical inspection of the first article of that product in the final changed configuration to verify the compliance of the design with the type-certification basis and the applicable environmental protection requirements.
+
+(f) Upon completion of the compliance demonstration, the applicant shall declare to the Agency that:
+
+1\. they have demonstrated compliance with the type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.81, according to the compliance demonstration plan; and
+
+2\. no feature or characteristic has been identified that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+**21L.A.67 Requirements for the approval of a minor change to a type certificate**
+
+In order to be issued with an approval of a minor change to a type certificate, the applicant shall:
+
+(a) demonstrate that the change and the areas affected by the change comply:
+
+1\. with the type-certification basis and the applicable environmental protection requirements incorporated by reference in the type certificate; or
+
+2\. if the applicant chooses to, with the certification specifications that are applicable to the product on the date of the application for the change;
+
+(b) declare compliance with the type-certification basis and the applicable environmental protection requirements that apply in accordance with point (a)(1), or with the certification specifications chosen in accordance with point (a)(2), record the justifications of compliance in the compliance documents, and record that no feature or characteristic has been identified that may make the changed product unsafe for the uses for which certification is requested;
+
+(c) submit to the Agency the justification of compliance for the change and the declaration of compliance.
+
+**21L.A.68 Requirements for the approval of a major change to a type certificate**
+
+In order to be issued with an approval of a major change to a type certificate, the applicant shall:
+
+(a) demonstrate that the change and the areas affected by the change comply with the type-certification basis and the applicable environmental protection requirements, as established and notified to the applicant by the Agency in accordance with point 21L.B.81;
+
+(b) demonstrate compliance in accordance with point 21L.A.66;
+
+(c) demonstrate that there are no unresolved issues from the physical inspection of the first article of that product in the final changed configuration carried out by the Agency in accordance with point 21L.A.66(e)(3).
+
+**21L.A.69 Approval of a change to a type certificate under a privilege**
+
+(a) The approval of a change to a type certificate that it has designed may be issued by an approved design organisation without an application according to point 21L.A.65 in accordance with the scope of its privileges provided for in points (2) and (8) of point 21.A.263(c) of Annex I (Part 21) instead of the Agency, as recorded in the terms of approval.
+
+(b) When issuing an approval of a change to type certificate in accordance with point (a), the design organisation shall:
+
+1\. ensure that all the substantiation data and justifications are available;
+
+2\. ensure that the compliance of the change with the type-certification basis and the applicable environmental protection requirements according to point (a)(1) of point 21L.A.67 or point (a) of point 21L.A.68 has been demonstrated and declared in accordance with point 21L.A.66;
+
+3\. confirm that it has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements, or with the certification specifications chosen;
+
+(ii) any feature or characteristic of the change that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested;
+
+4\. limit the approval of a change to a type certificate to the specific configuration(s) in the type certificate to which the change relates.
+
+**21L.A.70 Obligations for minor changes to a type certificate**
+
+The holder of an approval of a minor change to a type certificate shall ensure that the obligations for holders of minor change approvals of Subpart A of this Annex are undertaken.
+
+**SUBPART E – SUPPLEMENTAL TYPE CERTIFICATES**
+
+**21L.A.81 Scope**
+
+This Subpart establishes the procedure for natural or legal persons other than the holder of that type certificate for applying for the approval of major changes to type certificates, issued under Annex I (Part 21) or this Annex, of products within the scope of point 21L.A.21, provided that the changed product is still within the scope of that point, and establishes the rights and obligations of the applicants for, and holders of, those certificates.
+
+**21L.A.82 Eligibility**
+
+Any natural or legal person who has demonstrated, or is in the process of demonstrating, or have declared, their design capability in accordance with point 21L.A.83 may apply for a supplemental type certificate under the conditions laid down in this Subpart.
+
+**21L.A.83 Demonstration of design capability**
+
+An applicant for a supplemental type certificate shall demonstrate their design capability by:
+
+(a) holding a design organisation approval with terms of approval that cover the respective category of product, issued by the Agency in accordance with Subpart J of Section A of Annex I (Part 21); or
+
+(b) declaring their design capability for the scope of the product in accordance with Subpart J of this Annex.
+
+**21L.A.84 Application for a supplemental type certificate**
+
+(a) An application for a supplemental type certificate shall be made in a form and manner established by the Agency.
+
+(b) When applying for a supplemental type certificate, the applicant shall:
+
+1\. include in the application the information required by point 21L.A.65(b);
+
+2\. specify whether the certification data has been or will be prepared completely by the applicant or on the basis of an arrangement with the owner of the type-certification data.
+
+**21L.A.85 Demonstration of compliance**
+
+(a) The applicant for a supplemental type certificate shall demonstrate compliance with the applicable type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.101 and shall provide the Agency with the means by which such compliance has been demonstrated.
+
+(b) The applicant for a supplemental type certificate shall provide the Agency with a recorded justification of the means of compliance within compliance documents according to the compliance demonstration plan.
+
+(c) When carrying out testing and inspections to demonstrate compliance in accordance with point (a), the applicant shall have verified and documented this verification prior to carrying out any test:
+
+1\. for the test specimen, that:
+
+(i) the materials and processes adequately conform to the specifications for the proposed changed type design;
+
+(ii) the constituent parts of the products adequately conform to the drawings in the proposed changed type design;
+
+(iii) the manufacturing processes, construction and assembly adequately conform to those specified in the proposed changed type design; and
+
+2\. that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated.
+
+(d) The flight testing for the purpose of obtaining a supplemental type certificate shall be conducted in accordance with the methods for such flight testing specified by the Agency. The applicant for a supplemental type certificate shall make all the flight tests necessary to determine compliance with the applicable type-certification basis.
+
+(e) An applicant for a supplemental type certificate shall allow the Agency to:
+
+1\. review any data and information related to the demonstration of compliance;
+
+2\. witness or carry out any test or inspection conducted for the purpose of the demonstration of compliance; and
+
+3\. conduct a physical inspection of the first article of that product in the final changed configuration to verify the compliance of the design with the type-certification basis and the applicable environmental protection requirements.
+
+(f) Upon completion of the compliance demonstration, the applicant for a supplemental type certificate shall declare to the Agency that:
+
+1\. it has demonstrated compliance with the type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with points 21L.B.101, according to the compliance demonstration plan; and
+
+2\. no feature or characteristic has been identified that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+**21L.A.86 Requirements for approval of a supplemental type certificate**
+
+(a) In order to be issued with a supplemental type certificate, the applicant shall:
+
+1\. demonstrate their design capability in accordance with point 21L.A.83;
+
+2\. demonstrate that the change to a type certificate and the areas affected by the change comply with the type-certification basis and the applicable environmental protection requirements, as established by the Agency in accordance with point 21L.B.101;
+
+3\. demonstrate compliance in accordance with point 21L.A.85;
+
+4\. if the applicant has specified that they provided certification data on the basis of an arrangement with the owner of the type-certification data in accordance with point 21L.A.84(b), demonstrate that the type-certificate holder:
+
+(i) has no technical objection to the information submitted under point 21L.A.65; and
+
+(ii) has agreed to collaborate with the applicant to ensure the discharge of all the obligations for continued airworthiness of the changed product through compliance with points 21L.A.28 and 21L.A.88;
+
+5\. demonstrate that there are no unresolved issues from the physical inspection of the first article of that product in the final changed configuration carried out by the Agency in accordance with point 21L.A.85(e)(3).
+
+(b) A supplemental type certificate shall be limited to the specific configuration(s) in the type certificate to which the related major change relates.
+
+**21L.A.87 Approval of a supplemental type certificate under a privilege**
+
+(a) The approval of a supplemental type certificate for a major change it has designed may be issued by an approved design organisation without an application according to point 21L.A.84 in accordance with the scope of its privileges provided for in point (9) of point 21.A.263(c) of Annex I (Part 21) instead of the Agency, as recorded in the terms of approval.
+
+(b) When issuing a supplemental type certificate in accordance with point (a), the design organisation shall:
+
+1\. ensure that all the substantiation data and justifications are available;
+
+2\. ensure that the compliance of the change with the type-certification basis and the applicable environmental protection requirements has been demonstrated and declared;
+
+3\. confirm that it has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements, or with the certification specifications chosen;
+
+(ii) any feature or characteristic of the change that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested;
+
+4\. limit the approval of the supplemental type certificate to the specific configuration(s) in the type certificate to which the change relates.
+
+**21L.A.88 Obligations of a holder of a supplemental type certificate**
+
+Each holder of a supplemental type certificate shall undertake the obligations of a supplemental type-certificate holder set forth in Subpart A of this Annex and shall continue to comply with the eligibility requirement under point 21L.A.82.
+
+**21L.A.89 Transferability of a supplemental type certificate**
+
+A supplemental type certificate may be transferred to a new holder, provided that the Agency has verified that the natural or legal person to whom the certificate is intended to be transferred is eligible in accordance with point 21L.A.83 to hold a supplemental type certificate and is able to undertake the obligations of a supplemental type-certificate holder under point 21L.A.88.
+
+**21L.A.90 Continued validity of a supplemental type certificate**
+
+(a) A supplemental type certificate shall remain valid as long as:
+
+1\. the supplemental type certificate is not surrendered by the holder;
+
+2\. the holder of the supplemental type certificate remains in compliance with the relevant requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, taking into account the provisions related to the handling of findings as specified under point 21L.B.21;
+
+3\. the supplemental type certificate is not revoked by the Agency in accordance with point 21L.B.22.
+
+(b) Upon surrender or revocation, the type certificate shall be returned to the Agency.
+
+**21L.A.91 Changes to a part of a product covered by a supplemental type certificate**
+
+(a) A minor change to a part of a product covered by a supplemental type certificate shall be approved in accordance with Subpart D of this Annex.
+
+(b) A major change to that part of a product covered by a supplemental type certificate shall be approved as a separate supplemental type certificate in accordance with this Subpart.
+
+(c) By way of derogation from point (b), a major change to that part of a product covered by a supplemental type certificate submitted by the supplemental type-certificate holder may be approved as a change to the existing supplemental type certificate in accordance with points 21L.A.63 to 21L.A.69.
+
+**SUBPART F – CHANGES TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED**
+
+**21L.A.101 Scope**
+
+This Subpart establishes:
+
+(a) the procedure for declaring the compliance of a change to the design of an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex;
+
+(b) the rights and obligations of the declarant making a declaration of compliance of the change referred to in point (a); and
+
+(c) provisions regarding the standard changes that do not require a declaration of design compliance.
+
+**21L.A.102 Standard changes**
+
+(a) Standard changes are changes to the design of an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex and which:
+
+1\. follow the design data included in the certification specifications issued by the Agency, containing the acceptable methods, techniques and practices for carrying out and identifying standard changes, including the associated instructions for continued airworthiness; and
+
+2\. are not in conflict with the design data covered by the declaration of aircraft design compliance made in accordance with Subpart C of this Annex.
+
+(b) Points 21L.A.103 to 21L.A.108 are not applicable to standard changes.
+
+**21L.A.103 Classification of changes to the design of an aircraft for which design compliance has been declared**
+
+(a) Changes to the design of an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex shall be classified as minor or major, using the criteria laid down in points 21L.A.63 (b) and (c).
+
+(b) The design compliance of a minor change shall be declared in accordance with point 21L.A.105.
+
+(c) The design compliance of a major change shall be declared in accordance with point 21L.A.107.
+
+**21L.A.104 Eligibility**
+
+(a) A declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex may declare compliance of a minor change to the design of that aircraft under the conditions laid down in this Subpart. In addition, such a declaration of compliance may also be made, under the conditions laid down in this Subpart, by a design organisation approved in accordance with point (c)(3) of point 21.A.263 of Annex I (Part 21).
+
+(b) Only the declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex may declare the compliance of a major change to the design of an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex, under the conditions laid down in this Subpart.
+
+(c) By derogation from point (b) of point 21.L.A.104, if the declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex is no longer active or is unresponsive to requests for design changes, the compliance of a changed aircraft design may also be declared in accordance with Subpart C of this Annex by a design organisation approved in accordance with point (c)(4) of point 21.A.263 of Annex I (Part 21) within the scope of their terms of approval, or by any other natural or legal person who is able to undertake the obligations laid down in point 21L.A.47 with respect to that changed aircraft.
+
+**21L.A.105 Declaration of design compliance for minor changes**
+
+(a) Prior to installing or incorporating or agreeing with a production organisation to install or incorporate a minor change to the design of an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex the organisation that has designed that minor change shall declare that the design of that minor change complies with:
+
+1\. either the detailed technical specifications incorporated by reference in the declaration of design compliance of the aircraft, unless those detailed technical specifications or parts of them are no longer applicable in accordance with point 21L.B.61 because the Agency has determined that experience from other similar products in service or products that have similar design features has shown that unsafe conditions may develop, and the detailed technical specifications that were referenced in the declaration of design compliance of the aircraft do not address this unsafe condition, or
+
+2\. the detailed technical specifications applicable, on the date on which the declaration is made in accordance with point 21L.B.61, if chosen by the declarant; and
+
+3\. the applicable environmental protection requirements referred to in point 21L.B.61 which are applicable on the date on which the declaration is made.
+
+(b) The declaration of design compliance shall be made in a form and manner established by the Agency.
+
+(c) The declarant or the organisation that has designed the minor change shall maintain a register of minor changes to the design of aircraft for which design compliance has been declared, and make any declaration made in accordance with point (a) available to the Agency upon request.
+
+**21L.A.106 Obligations of the person making a declaration of compliance of the design of a minor change**
+
+Any person that has made a declaration of compliance of a minor change to an aircraft design in accordance with point 21L.A.105 shall:
+
+(a) maintain a register of those declarations and shall make those declarations available to the Agency upon request;
+
+(b) retain all supporting documents for a declaration of design compliance, and make them available to the Agency upon request;
+
+(c) undertake all other obligations of a declarant of a declaration of design compliance set forth in Subpart A of this Annex.
+
+**21L.A.107 Declaration of design compliance for a major change**
+
+(a) Prior to installing or incorporating or agreeing with a production organisation to install or incorporate a major change to the design of an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex, the organisation that has designed that major change shall declare that the design of that major change and the areas affected by that change comply with:
+
+1\. either the detailed technical specifications incorporated by reference in the declaration of design compliance of the aircraft, unless those detailed technical specifications or parts of them are no longer applicable in accordance with point 21L.B.61 because the Agency has determined that experience from other similar products in service or products that have similar design features has shown that unsafe conditions may develop and the detailed technical specifications that were referenced in the declaration of design compliance of the aircraft do not address this unsafe condition, or
+
+2\. the detailed technical specifications applicable on the date on which the declaration is made in accordance with point 21L.B.61, if chosen by the declarant; and
+
+3\. the applicable environmental protection requirements referred to in point 21L.B.61 which are applicable on the date on which the declaration is made.
+
+(b) The declaration of design compliance shall be made in a form and manner established by the Agency.
+
+(c) The declaration shall contain at least the following information:
+
+1\. the name of the person submitting the declaration, and their address/place of business;
+
+2\. the declaration reference number of the aircraft to which the major change relates;
+
+3\. a unique reference for identifying the major change;
+
+4\. indication of the detailed technical specifications and the applicable environmental protection requirements with which the declarant declares compliance;
+
+5\. a signed statement made under the sole responsibility of the person making the declaration that the design of the major change is in compliance with the detailed technical specifications and the applicable environmental protection requirements referred to in point (4), according to the compliance demonstration plan referred to in point (d)(3);
+
+6\. a signed statement made under the sole responsibility of the person making the declaration that no features or characteristics have been identified by that person that may make the aircraft unsafe or environmentally incompatible for the intended use;
+
+7\. a signed commitment that the person making the declaration will undertake the obligations referred to in point 21L.A.47 in respect of the changed aircraft design;
+
+8\. the instructions for continued airworthiness;
+
+9\. the operating limitations, if changed;
+
+10\. the data sheet for airworthiness and, if applicable, the record of emissions compliance;
+
+11\. the data sheet for noise, if applicable;
+
+12\. any other conditions or limitations prescribed for the aircraft in the applicable detailed technical specifications and the applicable environmental protection requirements with which the declarant declares compliance.
+
+(d) The declarant that designs a major change shall submit the declaration referred to in point (c) to the Agency. Together with this declaration, the declarant shall provide to the Agency:
+
+1\. a description of the major change;
+
+2\. basic data about the major change, including the operating characteristics, design features and any limitations;
+
+3\. a compliance demonstration plan detailing the means for compliance demonstration that was followed during the compliance demonstration;
+
+4\. recorded justifications of compliance within the compliance data obtained from the compliance activities that have been conducted according to the compliance demonstration plan;
+
+5\. the means by which such compliance with the applicable detailed technical specifications and applicable environmental protection requirements in point 21L.B.61 has been demonstrated;
+
+6\. where compliance is demonstrated by carrying out tests, recorded justification of the conformity of the test articles and equipment, demonstrating:
+
+(i) for the test specimen, that:
+
+(A) the materials and processes adequately conformed to the specifications for the design;
+
+(B) the constituent parts of the products adequately conformed to the drawings in the design; and
+
+(C) the manufacturing processes, construction and assembly adequately conformed to those specified in the design;
+
+(ii) that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated;
+
+7\. reports, results of inspections or tests that the declarant found necessary to determine that the aircraft complies with the applicable detailed technical specifications and applicable environmental protection requirements.
+
+(e) The declaration of a major change to a declaration of design compliance shall be limited to the specific configuration(s) in the declaration of design compliance to which the change relates.
+
+**21L.A.108 Compliance activities for declaring compliance of a major change**
+
+Prior to making a declaration of compliance in accordance with point 21L.A.107, the declarant shall, for that specific design:
+
+(a) establish a compliance demonstration plan detailing the means for compliance demonstration that shall be followed during the compliance demonstration. This document shall be updated as necessary;
+
+(b) record the justification of compliance within compliance documents according to the compliance demonstration plan;
+
+(c) perform testing and inspections as necessary in accordance with the compliance demonstration plan;
+
+(d) ensure and record the conformity of the test articles and equipment and ensure that the test specimen conforms to the specifications, drawings, manufacturing processes, construction and assembly means in the design;
+
+(e) ensure that the test and measuring equipment to be used for testing are adequate for testing and appropriately calibrated;
+
+(f) allow the Agency to conduct or participate in any inspections or tests of aircraft in the final or suitably mature design and production configuration that are necessary to determine that the changed product has no feature or characteristic that makes the aircraft unsafe or environmentally incompatible for the intended use;
+
+(g) carry out flight testing, in accordance with the methods for such flight testing specified by the Agency, as necessary to determine that the aircraft complies with the applicable detailed technical specifications and the applicable environmental protection requirements.
+
+**SUBPART G – DECLARED PRODUCTION ORGANISATIONS**
+
+**21L.A.121 Scope**
+
+(a) This Subpart establishes:
+
+1\. the procedures for declaring the production capability of natural and legal persons showing the conformity of products and parts with the applicable design data;
+
+2\. the rights and obligations of the natural and legal persons making a declaration of production capability referred to in point (1).
+
+(b) The following categories of products and parts may be produced by organisations which have made a declaration of production capability in accordance with this Subpart:
+
+1\. products and parts the design of which has been certified in accordance with this Annex;
+
+2\. aircraft the design of which is covered by a declaration made in accordance with this Annex, and their engines, propellers and parts.
+
+**21L.A.122 Eligibility**
+
+Any natural or legal person (‘organisation’) may declare their production capability under this Subpart, if that person:
+
+(a) has applied or intends to apply for the approval of the design of the product or part in accordance with this Annex; or
+
+(b) has declared or intends to declare the compliance of an aircraft design in accordance with this Annex; or
+
+(c) is collaborating with the applicant for, or holder of, an approval of the design of the product to be issued or issued in accordance with this Annex, or with the organisation that has declared or intends to declare the compliance of that aircraft design in accordance with this Annex, in order to ensure that the manufactured product or part is in conformity to that design, and to ensure the continued airworthiness of the product or part.
+
+**21L.A.123 Declaration of production capability**
+
+(a) Prior to producing any products or parts, an organisation intending to show the conformity of those products or parts with the applicable design data shall declare its production capability.
+
+(b) The declaration, and any subsequent changes thereto, shall be made in a form and manner established by the competent authority.
+
+(c) The declaration shall include the information necessary for the competent authority to become familiar with the organisation and the intended scope of work, and shall include at least the following:
+
+1\. the registered name of the organisation;
+
+2\. the contact details of the organisation’s registered address of their principal place of business and, where applicable, the contact and the operating sites of the organisation;
+
+3\. the names and contact details of the accountable manager of the organisation nominated in accordance with point (c)(1) of point 21L.A.125;
+
+4\. the intended scope of work;
+
+5\. the date of the intended commencement of production;
+
+6\. a statement confirming that the organisation:
+
+(i) has a management system for production in accordance with point (a) of point 21L.A.124; and
+
+(ii) will maintain the management system for production in compliance with this Subpart;
+
+7\. a statement confirming that the organisation will adhere to the processes and procedures established in accordance with point (d) of point 21L.A.124;
+
+8\. a statement that the organisation agrees to undertake the obligations of a declared production organisation in accordance with point 21L.A.127.
+
+(d) The declaration of production capability shall be submitted to the competent authority.
+
+**21L.A.124 Management system for production**
+
+(a) The declared production organisation shall establish, implement, and maintain a management system for production with clear accountability and lines of responsibility throughout the organisation that:
+
+1\. corresponds to the nature and complexity of its activities and the size of the organisation, and takes into account the hazards and associated risks inherent in these activities;
+
+2\. is established under the accountability of an accountable manager nominated according to point (c)(1) of point 21L.A.125.
+
+(b) The management system for production shall include a means to manage quality by maintaining a quality system that shall:
+
+1\. ensure that each product or part produced by the declared production organisation or by its partners, or supplied from or subcontracted to outside parties, conforms to the applicable design data and is in a condition for safe operation;
+
+2\. establish, implement, and maintain, as appropriate, within the scope of their activities, control procedures for:
+
+(i) document issue, approval, or change;
+
+(ii) vendor and subcontractor assessment, audit and control;
+
+(iii) verification that incoming products, parts, materials, and equipment, including items supplied new or used by buyers of products, are as specified in the applicable design data;
+
+(iv) identification and traceability;
+
+(v) manufacturing processes;
+
+(vi) inspection and testing, including production flight tests;
+
+(vii) calibration of tools, jigs, and test equipment;
+
+(viii) non-conforming item control;
+
+(ix) the collaboration with the applicant for, or holder of, the design approval or the declarant of a declaration of design compliance;
+
+(x) the completion and retention of records;
+
+(xi) ensuring the competence and qualifications of personnel;
+
+(xii) the issue of airworthiness release documents;
+
+(xiii) handling, storage and packing;
+
+(xiv) internal quality audits and the resulting corrective actions;
+
+(xv) work performed at any location other than the operating sites included in the declaration;
+
+(xvi) work carried out after the completion of production but prior to delivery, to maintain the aircraft in a condition for safe operation;
+
+(xvii) the request for the issuance of permits to fly and the approval of associated flight conditions;
+
+3\. include specific provisions in the control procedures for any critical parts.
+
+(c) The declared production organisation shall establish, as part of their management system for production, an independent function to monitor the compliance of the organisation with the relevant requirements, and compliance with, and the adequacy of, the production management system. This monitoring shall include a system to provide feedback to the person or group of persons referred to in points (c)(1) and (2) of point 21L.A.125 to ensure, as necessary, corrective action.
+
+(d) The declared production organisation shall establish, maintain and keep updated, as part of their management system for production, processes and procedures that ensure the compliance of products that are produced with the applicable design data. The declared production organisation shall make documentary evidence of these processes and procedures available to the competent authority upon request.
+
+(e) The declared production organisation shall have procedures in place to ensure that newly manufactured aircraft are maintained in accordance with the applicable maintenance instructions and are kept in an airworthy condition and, if applicable, that a certificate of release to service is issued for any maintenance that has been completed.
+
+(f) If the declared production organisation holds (an)other organisation certificate(s) issued on the basis of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, the production organisation may integrate the production management system with the management system that is required for the issuance of the other certificate(s).
+
+**21L.A.125 Resources of the declared production organisation**
+
+The declared production organisation shall ensure that:
+
+(a) the facilities, working conditions, equipment and tools, processes and associated materials, the number and competence of staff, and the general organisation are adequate to discharge its obligations under point 21L.A.127;
+
+(b) with regard to all necessary airworthiness and environmental protection data:
+
+1\. it is in receipt of such data from the Agency, and from the declarant of design compliance or the holder of, or the applicant for, the type certificate, or design approval, to determine its conformity with the applicable design data;
+
+2\. it has established a procedure to ensure that airworthiness and environmental compatibility data is correctly incorporated into its production data;
+
+3\. such data is kept up to date and made available to all personnel who need access to such data to perform their duties;
+
+(c) with regard to management and staff:
+
+1\. an accountable manager has been nominated by the declared production organisation with authority to ensure that, within the organisation, all production is performed to the required standards and that the declared production organisation is continuously in compliance with the requirements of the management system for production referred to in point (a) of point 21L.A.124, and the processes and the procedures identified in point (d) of point 21L.A.124;
+
+2\. a person or group of persons has or have been nominated by the accountable manager to ensure that the organisation is in compliance with the requirements of this Subpart, and is (are) identified, together with the extent of their authority. Such a person or group of persons shall be responsible to the accountable manager and have direct access to them. They shall have the appropriate knowledge, background and experience to discharge their responsibilities;
+
+3\. staff at all levels have been given appropriate authority to be able to discharge their allocated responsibilities and that there is full and effective coordination within the declared production organisation in respect of airworthiness and environmental compatibility data matters;
+
+4\. the organisational structure of the organisation along with the key personnel who are responsible for ensuring that the organisation is in compliance with this Subpart is documented and kept updated;
+
+(d) with regard to certifying staff, authorised by the declared production organisation to sign the documents issued under point 21L.A.126 within the scope of declared production activities:
+
+1\. the knowledge, background (including other functions in the organisation), and experience of the certifying staff are appropriate to discharge their allocated responsibilities;
+
+2\. certifying staff are provided with evidence of the scope of their authorisation. A list of certifying staff shall be maintained by the declared production organisation.
+
+**21L.A.126 Scope of work**
+
+(a) A declared production organisation is entitled to show the conformity of the products and parts that are within the scope of this Section and that it has produced within the declared scope of work, with the applicable design data.
+
+(b) A declared production organisation is entitled, for a complete aircraft, after presentation of an aircraft statement of conformity (EASA Form 52B), to apply:
+
+1\. for an aircraft that conforms to a type design approved in accordance with Subpart B of Section B of this Annex, for a certificate of airworthiness and a noise certificate;
+
+2\. for an aircraft that conforms to a design for which compliance has been declared in accordance with Subpart C of this Annex, for a restricted certificate of airworthiness and a restricted noise certificate.
+
+(c) A declared production organisation is entitled to issue authorised release certificates (EASA Form 1) for engines, propellers and parts that either conform to:
+
+1\. approved design data issued in accordance with Subparts B, D, E or M of Section B of this Annex;
+
+2\. declared design data for which design compliance has been declared in accordance with Subparts C, F or N of this Annex;
+
+3\. production data based upon all the necessary approved design data as provided by a repair design approval holder.
+
+(d) A declared production organisation is entitled to recommend the conditions for an aircraft that it has produced and for which it has attested conformity with the applicable design data, under which a permit to fly can be issued by the competent authority under Subpart P of Annex I (Part 21).
+
+(e) A declared production organisation is entitled to maintain a new aircraft that it has produced, as necessary to keep it in an airworthy condition, unless Regulation (EU) No 1321/2014 requires the maintenance to be performed under such rules, and to issue a certificate of release to service (EASA Form 53B) in respect of that maintenance.
+
+**21L.A.127 Obligations of the declared production organisation**
+
+(a) The declared production organisation shall work in accordance with clearly defined procedures, practices and processes.
+
+(b) If the declared production organisation intends to conduct flight tests, then it shall prepare, maintain and keep updated an operations manual that includes a description of the organisation’s policies and processes for flight testing. The declared production organisation shall make this manual available to the competent authority upon request.
+
+(c) For completed aircraft, prior to submitting an aircraft statement of conformity (EASA Form 52B) to the competent authority, the declared production organisation shall ensure that the aircraft is in a condition for safe operation and conforms to:
+
+1\. the approved type design of a type-certified product issued in accordance with Subpart B of Section B of this Annex, or
+
+2\. the design data of an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex.
+
+(d) For products (other than complete aircraft) and parts, the declared production organisation shall ensure prior to issuing an authorised release certificate (EASA Form 1) that the product or part is in a condition for safe operation and conforms to the approved type design of a type-certified product issued in accordance with Subpart B, D, E or M of Section B of this Annex or conforms to the design data of an aircraft for which design compliance has been declared in accordance with Subpart C, F or M of this Annex.
+
+(e) For engines, the declared production organisation shall ensure that the completed engine is in compliance with the applicable engine exhaust emissions requirements applicable on the date of production of the engine.
+
+(f) The declared production organisation shall include, in any authorised release certificates (EASA Form 1) that are issued by it, the reference number issued by the competent authority in accordance with point 21L.B.142 for this declared production organisation.
+
+(g) The declared production organisation shall ensure that the organisation records the details of any work that is completed.
+
+(h) The declared production organisation shall provide, to the design holder or the declarant of a declaration of design compliance, continuing airworthiness support for any products or parts that they have produced.
+
+(i) The declared production organisation shall have an archiving system that records the requirements that have been placed on other organisations, such as suppliers and subcontractors. The declared production organisation shall make the archived data available to the competent authority for continuing airworthiness purposes.
+
+(j) For the production of new aircraft, the declared production organisation shall ensure that the aircraft is kept in an airworthy condition and that maintenance is performed, including any necessary repairs in accordance with the applicable design data, prior to the issuance of an aircraft statement of conformity (EASA Form 52B).
+
+(k) Where the declared production organisation issues a certificate of release to service after such maintenance, it shall determine that each completed aircraft has been subjected to the necessary maintenance and is in a condition for safe operation, prior to issuing that certificate.
+
+(l) The declared production organisation shall comply with the requirements in Subpart A of this Annex applicable to a declared production organisation.
+
+**21L.A.128 Notification of changes and cessation of activities**
+
+The declared production organisation shall notify the competent authority without undue delay of the following:
+
+(a) any changes to the information that has been declared in accordance with point (c) of point 21L.A.123;
+
+(b) any changes to the management system for production that are significant to the showing of conformity or to the airworthiness and environmental compatibility characteristics of the product or part;
+
+(c) the cessation of some of or all the activities covered by the declaration.
+
+**SUBPART H – CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS**
+
+**21L.A.141 Scope**
+
+This Subpart establishes the procedure for applying for a certificate of airworthiness or a restricted certificate of airworthiness for an aircraft whose design has been certified or declared in accordance with this Annex, and establishes the rights and obligations of the applicants for, and holders of, those certificates.
+
+**21L.A.142 Eligibility**
+
+Any natural or legal person under whose name an aircraft is registered or will be registered in a Member State (‘Member State of registry’) may apply for a certificate of airworthiness or for a restricted certificate of airworthiness for that aircraft under the conditions laid down in this Subpart.
+
+**21L.A.143 Application for a certificate of airworthiness or a restricted certificate of airworthiness**
+
+(a) A natural or legal person shall apply for a certificate of airworthiness or a restricted certificate of airworthiness in a form and manner established by the competent authority of the Member State of registry.
+
+(b) A natural or legal person may apply for:
+
+1\. a certificate of airworthiness for aircraft which conform to a type certificate that has been issued by the Agency in accordance with Subpart B of Section B of this Annex; or
+
+2\. a restricted certificate of airworthiness for aircraft which conform to a declaration of design compliance in accordance with Subpart C of this Annex which is registered by the Agency in accordance with point 21L.B.63 at the time of application.
+
+(c) For a new aircraft that conforms to a type certificate issued by the Agency, the applicant shall include in the application:
+
+1\. an aircraft statement of conformity (EASA Form 52 or EASA Form 52B) that is either issued or signed by:
+
+(i) a production organisation that has declared their production capability under Subpart G of this Annex and has been registered by the competent authority in accordance with point 21L.B.142; or
+
+(ii) a production organisation approval holder under the privileges of point (b) of point 21.A.163 of Annex I (Part 21);
+
+2\. the mass and balance statement corresponding to the aircraft current configuration, as applicable;
+
+3\. the flight manual if required by the applicable type-certification basis.
+
+(d) For a new aircraft that conforms to a declaration of design compliance which is registered by the Agency, the applicant shall include in the application:
+
+1\. an aircraft statement of conformity (EASA Form 52B) that is either issued or signed by:
+
+(i) a natural or legal person in accordance with Subpart R of this Annex;
+
+(ii) a production organisation that has declared their production capability under Subpart G of this Annex and has been registered by the competent authority in accordance with point 21L.B.142; or
+
+(iii) a production organisation approval holder under the privileges of point (d) of point 21.A.163 of Annex I (Part 21);
+
+2\. the mass and balance statement corresponding to the aircraft current configuration, as applicable;
+
+3\. the flight manual if required by the applicable detailed technical specifications for the declaration of design compliance.
+
+(e) For a used aircraft which at the time of the application has an airworthiness certificate issued in accordance with this Annex, the applicant shall include in the application a copy of such certificate and one of the following:
+
+1\. a valid airworthiness review certificate (ARC) issued in accordance with Annex I (Part-M) or Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, as applicable;
+
+2\. a recommendation for the issuance of an airworthiness review certificate pursuant to an airworthiness review in accordance with Annex I (Part-M) to Regulation (EU) No 1321/2014, where the conditions set out in point M.A.901(b)(1) of Annex I (Part-M) to Regulation (EU) No 1321/2014 are not met.
+
+(f) For a used aircraft which at the time of the application does not have an airworthiness certificate issued in accordance with this Annex, the applicant shall include all of the following documentation in the application:
+
+1\. a statement from the appropriate authority that was responsible for the oversight of the aircraft reflecting the airworthiness status of the aircraft at the time that authority ceased its oversight responsibilities;
+
+2\. the historical records necessary to establish the production, configuration and maintenance standard of the aircraft;
+
+3\. the mass and balance statement corresponding to the aircraft current configuration, as applicable;
+
+4\. the flight manual if required by the applicable type-certification basis or by the applicable detailed technical specifications for the declaration of design compliance;
+
+5\. a recommendation for the issuance of an airworthiness review certificate pursuant to an airworthiness review in accordance with Annex I (Part-M) to Regulation (EU) No 1321/2014 or an airworthiness review certificate in accordance with Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, unless it is agreed that the airworthiness review is to be carried out by the competent authority;
+
+6\. if the former airworthiness certificate of the aircraft was issued in accordance with this Annex but has been subsequently revoked or surrendered, alternatively to the statement required in point 1, all of the following documentation:
+
+(i) a statement containing:
+
+(A) the details of the reasons for the revocation or surrender of the airworthiness certificate;
+
+(B) the details of how the aircraft has been preserved and maintained since the revocation or surrender of the airworthiness certificate;
+
+(C) all other relevant information related to the condition and history of the aircraft;
+
+(ii) an evaluation programme developed and carried out in accordance with points 21L.A.143(h)(3) and 21L.A.143(h)(4), unless otherwise agreed by the competent authority of the Member State of registry.
+
+(g) Unless otherwise agreed, the statements referred to in points (c)(1), (d)(1) and (f)(1) shall be issued no more than 60 days before the presentation of the aircraft to the competent authority of the Member State of registry.
+
+(h) By way of derogation from point 21L.A.143(f)(1), in exceptional cases and with prior agreement by the competent authority, an application may be made without a statement reflecting the airworthiness status of the aircraft, provided that all the following conditions are met:
+
+1\. the competent authority of the Member State of registry is satisfied that the airworthiness statement has not been denied by the former aviation authority because of airworthiness concerns, unless those concerns have been addressed and corrected;
+
+2\. there is evidence available to the competent authority of the Member State of registry as to the approved design according to which the aircraft was initially built and delivered;
+
+3\. an evaluation programme is developed detailing the investigations which are necessary to compensate for the lack of the airworthiness statement referred to in point 21L.A.143(f)(1).
+
+4\. the investigation activities were conducted in accordance with the evaluation programme, and the results have been summarised in an evaluation report;
+
+5\. upon request by the competent authority of the Member State of registry, the applicant provides access to, and copies of, any information that was used to generate the evaluation programme and evaluation report.
+
+The evaluation programme referred to in the first paragraph, point (3), shall ensure that the aircraft and its records are in a condition that makes the aircraft eligible for the issuance of an airworthiness certificate, through comprehensive investigations conducted by an approved organisation or the competent authority. The programme shall identify any discrepancies or deficiencies which, after the necessary corrective actions, will bring the aircraft into compliance with the applicable airworthiness standards. The evaluation programme shall not replace the tasks carried out by the person or organisation responsible for continuing airworthiness or airworthiness review tasks, but shall complement them.
+
+The evaluation programme shall be developed, and the investigations detailed in it shall be performed, by:
+
+(i) an organisation approved in accordance with point CAMO.A.125(g) of Annex Vc (Part-CAMO) or point CAO.A.095(c)(3) of Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014;
+
+(ii) the competent authority of the Member State of registry, only for aircraft of 2 730 kg MTOM and below and upon the acceptance of that authority.
+
+The evaluation programme shall specify the activities to be performed to identify the status of the aircraft with regard to conformity to the approved type design, existing modifications and repairs and maintenance, and continuing airworthiness status. The evaluation programme, if developed by an organisation referred to in the third paragraph, point (i), shall be accepted by the competent authority of the Member State of registry before the evaluation is conducted.
+
+**21L.A.144 Obligations of the applicant for a certificate of airworthiness or a restricted certificate of airworthiness**
+
+The applicant for a certificate of airworthiness or for a restricted certificate of airworthiness shall:
+
+(a) present the manuals, placards, listings, and instrument markings and other necessary information required by the applicable type-certification basis or by the applicable detailed technical specifications for declarations of design compliance in one or more of the official language(s) of the European Union acceptable to the competent authority of the Member State of registry;
+
+(b) demonstrate that their aircraft is identified in accordance with Subpart Q of this Annex;
+
+(c) arrange for inspections of the competent authority of the Member State of registry to assess whether the aircraft has any non-conformities that could affect the safety of the aircraft.
+
+**21L.A.145 Transferability**
+
+The airworthiness certificate and the airworthiness review certificate shall be transferred together with the aircraft provided that the aircraft remains on the same register.
+
+**21L.A.146 Continued validity of a certificate of airworthiness and of a restricted certificate of airworthiness**
+
+(a) A certificate of airworthiness or a restricted certificate of airworthiness shall remain valid as long as:
+
+1\. the aircraft remains on the same register;
+
+2\. the certificate has not been surrendered by the holder;
+
+3\. the aircraft remains in compliance with the relevant requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof and with the applicable type design or with the applicable design data of an aircraft for which design compliance has been declared, and with the continuing airworthiness requirements, taking into account the provisions related to the handling of findings as specified under point 21L.B.21;
+
+4\. the certificate has not been revoked by the competent authority of the Member State of registry under point 21L.B.22.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the competent authority of the Member State of registry.
+
+**SUBPART I – NOISE CERTIFICATES AND RESTRICTED NOISE CERTIFICATES**
+
+**21L.A.161 Scope**
+
+This Subpart establishes the procedure for applying for a noise certificate or a restricted noise certificate for an aircraft whose design has been certified or declared in accordance with this Annex and establishes the rights and obligations of the applicants for, and holders of, those certificates.
+
+**21L.A.162 Eligibility**
+
+Any natural or legal person under whose name an aircraft is registered or will be registered in a Member State may apply for a noise certificate or a restricted noise certificate for that aircraft under the conditions laid down in this Subpart.
+
+**21L.A.163 Application**
+
+(a) A natural or legal person shall apply for a noise certificate or a restricted noise certificate in a form and manner established by the competent authority of the Member State of registry.
+
+(b) A natural or legal person may apply for:
+
+1\. a noise certificate for aircraft which conform to a type certificate that has been issued by the Agency in accordance with Subpart B of Section B of this Annex; or
+
+2\. a restricted noise certificate for aircraft which conform to a declaration of design compliance submitted in accordance with Subpart C of this Annex which is registered by the Agency in accordance with point 21L.B.63 at the time of application.
+
+(c) The applicant shall include in the application:
+
+1\. with regard to new aircraft:
+
+(i) an aircraft statement of conformity (EASA Form 52 or EASA Form 52B) that is either issued or signed by:
+
+(A) a natural or legal person in accordance with Subpart R of this Annex;
+
+(B) a production organisation that has declared their production capability under Subpart G of this Annex and has been registered by the competent authority in accordance with point 21L.B.142; or
+
+(C) a production organisation approval holder under the privileges of point (b) of point 21.A.163 of Annex I (Part 21);
+
+(ii) the reference to the noise record within the Agency database of noise levels reflecting the noise information determined in accordance with the applicable noise requirements;
+
+2\. with regard to used aircraft:
+
+(i) the reference to the noise record within the Agency database of noise levels reflecting the noise information determined in accordance with the applicable noise requirements; and
+
+(ii) the historical records to establish the production, modification, and maintenance standard of the aircraft.
+
+(d) Unless otherwise agreed, the statements referred to in point (c)(1)(i) shall be issued no more than 60 days before the presentation of the aircraft to the competent authority of the Member State of registry.
+
+**21L.A.164 Transferability and re-issuance of noise certificates and restricted noise certificates within Member States**
+
+Where the ownership of an aircraft has changed:
+
+(a) if the aircraft remains on the same register, the noise certificate, or the restricted noise certificate issued in accordance with Subpart I of Section B of this Annex, shall be transferred together with the aircraft;
+
+(b) if the aircraft is intended to be registered in another Member State, the natural or legal person under whose name the aircraft will be registered shall apply to the competent authority of the new Member State of registry for a new noise certificate or restricted noise certificate and shall include in this application the former noise certificate or restricted noise certificate issued in accordance with Subpart I of Section B of this Annex.
+
+**21L.A.165 Continued validity of a noise certificate and of a restricted noise certificate**
+
+(a) A noise certificate or a restricted noise certificate shall remain valid as long as:
+
+1\. the aircraft remains on the same register;
+
+2\. the certificate has not been surrendered by the holder;
+
+3\. the aircraft remains in compliance with the applicable environmental protection requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof and with the applicable type design or with the applicable design data of an aircraft for which design compliance has been declared, taking into account the provisions related to the handling of findings as specified under point 21L.B.21;
+
+4\. the certificate has not been revoked by the competent authority of the Member State of registry under point 21L.B.22.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the competent authority of the Member State of registry.
+
+**SUBPART J – DECLARED DESIGN ORGANISATIONS**
+
+**21L.A.171 Scope**
+
+This Subpart establishes:
+
+(a) the procedure for declaring the design capability by natural and legal persons who design products under this Section; and
+
+(b) the rights and obligations of the persons making declarations of design capability referred to in point (a).
+
+**21L.A.172 Eligibility**
+
+Any natural or legal person (‘organisation’ in this Subpart) required by point 21L.A.22, point 21L.A.82 or point 21L.A.204 to demonstrate their design capability may declare their capability under the conditions laid down in this Subpart.
+
+**21L.A.173 Declaration of design capability**
+
+(a) Prior to or at the same time as applying for a design approval under this Section, or prior to submitting the application for the approval of flight conditions in accordance with point 21.A.710 of Annex I (Part 21) of a product designed by it, whatever comes first, the organisation shall submit a declaration of design capability to the Agency.
+
+(b) The declaration, and any subsequent changes thereto, shall be made in a form and manner established by the Agency.
+
+(c) The declaration shall include the information necessary for the Agency to become familiar with the organisation and the intended scope of work, and shall include at least the following:
+
+1\. the registered name of the organisation;
+
+2\. the contact details of the organisation’s registered address of the principal place of business and, where applicable, of the operating sites of the organisation;
+
+3\. the names and contact details of the head of the design organisation;
+
+4\. the intended scope of work;
+
+5\. a statement confirming that the organisation:
+
+(i) has a management system for design in accordance with point (a) of point 21L.A.174; and
+
+(ii) will maintain the management system for design in compliance with this Subpart;
+
+6\. a statement confirming that the organisation will adhere to the processes and procedures established in accordance with point (d) of point 21L.A.174;
+
+7\. a statement that the organisation agrees to undertake the obligations of a declared design organisation in accordance with point 21L.A.177.
+
+(d) The declaration of design capability shall be submitted to the Agency.
+
+**21L.A.174 Management system for design**
+
+(a) The declared design organisation shall establish, implement, and maintain a management system for design with clear accountability and lines of responsibility throughout the organisation that:
+
+1\. corresponds to the nature and complexity of its activities and the size of the organisation, and takes into account the hazards and associated risks inherent in these activities;
+
+2\. is established under the accountability of a single manager nominated as the head of the design organisation according to point (a) of point 21L.A.175.
+
+(b) The declared design organisation shall have, as part of their management system for design, a means to provide design assurance by establishing, implementing and maintaining a system for the control and supervision of the design, and of design changes and repairs, of products. This system shall:
+
+1\. include an airworthiness function responsible for ensuring that the designs of products and the designs of changes and repairs thereto comply with the applicable type-certification basis and the applicable environmental protection requirements;
+
+2\. establish, implement and maintain an independent function to verify the demonstration of compliance on the basis of which the organisation declares compliance with the applicable type-certification basis and with the applicable environmental protection requirements;
+
+3\. specify the manner in which the design assurance system accounts for the acceptability of the parts that are designed or the tasks that are performed by partners or subcontractors according to methods which are the subjects of written procedures.
+
+(c) The declared design organisation shall establish, as part of their management system for design, an independent function to monitor the compliance of the organisation with the relevant requirements, and compliance with, and adequacy of, the management system for design. This monitoring shall include a system to provide feedback to the person or a group of persons referred to in point (b) of point 21L.A.175, and to the accountable manager referred to in point (a) of point 21L.A.175 to ensure, as necessary, corrective action.
+
+(d) The declared design organisation shall establish, maintain and keep updated processes and procedures that ensure the design compliance of products with the applicable type-certification basis, applicable detailed technical specifications and applicable environmental protection requirements. The declared design organisation shall make documentary evidence of these processes and procedures available to the Agency upon request.
+
+(e) Where any parts or any changes to the products are designed by partner organisations or subcontractors, the processes and procedures in point (d) shall include a description of how the design organisation is able to give, for all parts, the assurance of compliance required by point (b)(2), and shall contain, directly or by cross-reference, descriptions and information on the design activities and organisation of those partners or subcontractors.
+
+(f) If the declared design organisation holds (an)other organisation certificate(s) issued on the basis of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, the declared design organisation may integrate the design management system with the management system that is required for the issuance of the other certificate(s).
+
+**21L.A.175 Resources of the declared design organisation**
+
+(a) The declared design organisation shall nominate a head of the design organisation with the authority for ensuring that, within the organisation, all design activities are performed to the required standards and that the declared design organisation is continuously in compliance with the requirements for the management system for design referred to in points (a) to (c) of point 21L.A.174 and the processes and procedures referred to in point (d) of point 21L.A.174.
+
+(b) The head of the design organisation shall nominate and identify key personnel within the organisation that are responsible for:
+
+1\. ensuring that the designs of products and the designs of changes and repairs thereto comply with the applicable type-certification basis, applicable detailed technical specifications and applicable environmental protection requirements;
+
+2\. the independent monitoring of the compliance and adequacy function; and
+
+3\. depending on the size of the organisation, any other person or group of persons who is or are needed to ensure that the organisation is in compliance with the requirements of this Section.
+
+(c) The person or group of persons identified in point (b) shall:
+
+1\. be responsible to the head of the design organisation and have direct access to them;
+
+2\. have the appropriate knowledge, background and experience to discharge their allocated responsibilities.
+
+(d) The declared design organisation shall ensure that:
+
+1\. the staff in all technical departments are of sufficient numbers and experience and have been given the appropriate authority to be able to discharge their allocated responsibilities and that these, together with the accommodation, facilities and equipment, are adequate to enable the staff to ensure that the products designed are airworthy and environmentally compatible;
+
+2\. there is full and efficient coordination within the declared design organisation in respect of airworthiness and environmental compatibility matters.
+
+(e) The declared design organisation shall document the organisational structure of their organisation, along with the key personnel who are responsible for ensuring that the organisation is in compliance with this Subpart, keep them updated and make them available to the Agency upon request.
+
+**21L.A.176 Scope of work**
+
+The declared design organisation shall identify the types of design work, the categories of products for which design activities are conducted, and the functions and duties that the organisation performs in regard to the airworthiness and environmental compatibility of products.
+
+**21L.A.177 Obligations of the declared design organisation**
+
+A declared design organisation shall:
+
+(a) work in accordance with clearly defined procedures, practices and processes;
+
+(b) if the declared design organisation intends to conduct flight testing, maintain and keep updated an operations manual that provides a description of the organisation’s policies and processes for flight testing and make this manual available to the Agency upon request;
+
+(c) determine whether the designs of products, including changes and repairs, do not have any unsafe features and comply with the applicable type-certification basis, and with the applicable environmental protection requirements, and provide the Agency with statements/documentation confirming this;
+
+(d) provide the Agency with information or instructions relating to continued airworthiness actions;
+
+(e) comply with the requirements in Subpart A of this Annex applicable to declared design organisations.
+
+**21L.A.178 Notification of changes and cessation of activities**
+
+The declared design organisation shall notify the Agency without undue delay of the following:
+
+(a) any changes to the information that has been declared in accordance with point (c) of point 21L.A.173;
+
+(b) changes to the management system for design that are significant for the demonstration of compliance of the product designed by them;
+
+(c) the cessation of some or all of the activities covered by the declaration.
+
+**SUBPART K – PARTS**
+
+**21L.A.191 Scope**
+
+This Subpart establishes how the compliance of parts with the airworthiness requirements shall be shown.
+
+**21L.A.192 Showing of compliance**
+
+(a) The showing of compliance with the airworthiness requirements of parts to be installed in a type-certified product or an aircraft for which design compliance has been declared shall be made:
+
+1\. in conjunction with the type-certification procedures of Subpart B, D or E of this Annex for the product in which it is to be installed; or
+
+2\. in conjunction with the declaration of design compliance procedures of Subpart C or F of this Annex for the product in which it is to be installed; or
+
+3\. under the ETSO authorisation procedure of Subpart O of Section A of Annex I (Part 21); or
+
+4\. in the case of standard parts, in accordance with officially recognised standards.
+
+(b) In all cases where the approval of a part is explicitly required by Union law or Agency measures, the part shall comply with the applicable ETSO or with the specifications recognised as equivalent by the Agency in the particular case.
+
+**21L.A.193 Release of parts for installation**
+
+(a) A part or product shall only be installed in a product when it is identified by the holder of a type certificate, supplemental type certificate, design change, repair design approval or with a declaration of design compliance as being suitable for installation, and when it is:
+
+1\. in a condition for safe operation;
+
+2\. marked in accordance with Subpart Q of this Annex; and
+
+3\. accompanied by an authorised release certificate (EASA Form 1) certifying that the item was manufactured in conformity with the applicable design data.
+
+(b) By way of derogation from point (a)(3) and provided that the conditions in point (c) are met, the following parts do not require an authorised release certificate (EASA Form 1) in order to be installed in a type-certified product or in an aircraft for which design compliance has been declared:
+
+1\. a standard part;
+
+2\. a part that is:
+
+(i) not life limited, nor part of the primary structure, nor part of the flight controls;
+
+(ii) identified for installation in the specific aircraft by the holder of a type certificate, supplemental type certificate, design change, repair design approval or a declaration of design compliance;
+
+(iii) to be installed in an aircraft whose owner has verified compliance with the applicable conditions in (i) and (ii), and has accepted responsibility for this compliance;
+
+3\. a part for which the consequences of a non-conformity with its approved design data or declared design data has a negligible safety effect on the product and which is identified as such by the holder of the design approval or the declarant of design compliance in the instructions for continued airworthiness. In order to determine the safety effects of a non-conforming part, the design approval holder or declarant of a declaration of design compliance may establish in the instructions for continued airworthiness specific verification activities to be conducted by the installer of the part on the product;
+
+4\. in the case of the embodiment of a standard change as per point 21L.A.102 or a standard repair as per point 21L.A.202, a part for which the consequences of a non-conformity with its design data have a negligible safety effect on the product, and the part is identified as such in the certification specifications for standard changes and standard repairs issued in accordance with point 21.B.70 of Annex I (Part 21). In order to determine the safety effects of a non-conforming part, specific verification activities to be conducted by the person that installs the part in the product may be established in these certification specifications;
+
+5\. a part that is exempted from an airworthiness approval in accordance with Commission Regulation (EU) No 965/2012 ( 14 ); and
+
+6\. a part that is an item of a higher assembly identified in points (b)(1) to (b)(5).
+
+(c) Parts listed in point (b) are eligible for installation in a type-certified product or in an aircraft for which design compliance has been declared without being accompanied by an EASA Form 1, provided that the installer holds a document issued by the person or organisation that manufactured the part, which declares the name of the part, the part number, and the conformity of the part with its design data, and which contains the date of issuance.
+
+**SUBPART M – DESIGN OF REPAIRS TO TYPE-CERTIFIED PRODUCTS**
+
+**21L.A.201 Scope**
+
+This Subpart establishes:
+
+(a) the procedure for applying for the approvals of repair designs to type-certified products;
+
+(b) the rights and obligations of the applicants for, and holders of, those approvals referred to in point (a);
+
+(c) provisions for standard repairs that do not require an approval.
+
+**21L.A.202 Standard repairs**
+
+(a) Standard repairs are repair designs to a type-certified product approved in accordance with Subpart B of Section B of this Annex and which:
+
+1\. follow the design data included in the certification specifications issued by the Agency, containing the acceptable methods, techniques and practices for carrying out and identifying standard repairs, including the associated instructions for continued airworthiness; and
+
+2\. are not in conflict with the data of the holder of that type certificate.
+
+(b) Points 21L.A.203 to 21L.A.211 are not applicable to standard repairs.
+
+**21L.A.203 Classification of repair designs to a type-certified product**
+
+(a) Repair designs to a type-certified product shall be classified as minor or major.
+
+(b) A ‘minor repair’ is a repair design that has no appreciable effect on the mass, balance, structural strength, reliability, certified noise or emissions level, operational characteristics, or other characteristics affecting the airworthiness or the environmental compatibility of the product.
+
+(c) All other repair designs are ‘major repairs’.
+
+(d) The requirements for the approval of minor repair designs are those established in point 21L.A.207.
+
+(e) The requirements for the approval of major repair designs are those established in point 21L.A.208.
+
+**21L.A.204 Eligibility**
+
+(a) Any natural or legal person who has demonstrated, or is in the process of demonstrating, their design capability in accordance with point 21L.A.23, may apply for the approval of a major repair design to a type-certified product under the conditions laid down in this Subpart.
+
+(b) Any natural or legal person may apply for the approval of a minor repair design to a type-certified product under the conditions laid down in this Subpart.
+
+**21L.A.205 Application for the approval of a repair design to a type-certified product**
+
+(a) An application for an approval of a repair design to a type-certified product shall be made in a form and manner established by the Agency.
+
+(b) For the approval of a major repair design, the applicant shall include in the application, or submit after the initial application, a compliance demonstration plan:
+
+1\. containing a description of the damage and the repair design, identifying the configuration of the type design upon which the repair design is made;
+
+2\. identifying all the areas of the type design and the approved manuals that are changed or affected by the repair design;
+
+3\. identifying any reinvestigations necessary to demonstrate the compliance of the repair design and the areas affected by the repair design with the type-certification basis and the applicable environmental protection requirements, incorporated by reference in, as applicable, either the type certificate or the supplemental type certificate;
+
+4\. identifying any proposed amendments to the type-certification basis incorporated by reference in, as applicable, either the type certificate or supplemental type certificate;
+
+5\. specifying whether the certification data has been or will be prepared completely by the applicant or on the basis of an arrangement with the owner of the type-certification data.
+
+**21L.A.206 Demonstration of compliance**
+
+(a) The applicant for the approval of a major repair design shall demonstrate compliance with the applicable type-certification basis and applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.201 and shall provide the Agency with the means by which such compliance has been demonstrated.
+
+(b) The applicant for the approval of a major repair design shall provide the Agency with a recorded justification of the means of compliance within compliance documents according to the compliance demonstration plan.
+
+(c) When carrying out testing and inspections to demonstrate compliance in accordance with point (a), the applicant shall have verified and documented this verification prior to carrying out any test:
+
+1\. for the test specimen, that:
+
+(i) the materials and processes adequately conform to the specifications for the proposed type design;
+
+(ii) the constituent parts of the products adequately conform to the drawings in the proposed type design;
+
+(iii) the manufacturing processes, construction and assembly adequately conform to those specified in the proposed type design; and
+
+2\. that the test and measuring equipment used for the test were adequate for the test and appropriately calibrated.
+
+(d) The flight testing for the purpose of obtaining an approval of a major repair design shall be conducted in accordance with methods for such flight testing specified by the Agency. The applicant shall make all the flight tests necessary to determine compliance with the applicable type-certification basis and the applicable environmental protection requirements.
+
+(e) An applicant for the approval of a major repair design shall allow the Agency to:
+
+1\. review any data and information related to the demonstration of compliance;
+
+2\. witness or carry out any test or inspection conducted for the purpose of the demonstration of compliance; and
+
+3\. if it is considered necessary, conduct a physical inspection of the repaired product to verify the compliance of the design with the type-certification basis and the applicable environmental protection requirements.
+
+(f) Upon completion of the compliance demonstration, the applicant shall declare to the Agency that:
+
+1\. they have demonstrated compliance with the type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with points 21L.B.201, according to the compliance demonstration plan; and
+
+2\. no feature or characteristic has been identified that may make the product with the repair design unsafe or environmentally incompatible for the uses for which certification is requested.
+
+**21L.A.207 Requirements for the approval of a minor repair design**
+
+In order to be issued with an approval of a minor repair design to a type-certified product, the applicant shall:
+
+(a) demonstrate that the repair design and the areas affected by the repair design comply:
+
+1\. with the type-certification basis and the applicable environmental protection requirements incorporated by reference in the type certificate; or
+
+2\. if the applicant chooses to, with the certification specifications that are applicable to the product on the date of the application for the approval of the repair design;
+
+(b) declare compliance with the type-certification basis and the applicable environmental protection requirements that apply in accordance with point (a)(1), or with the certification specifications chosen in accordance with point (a)(2), record the justifications of compliance in the compliance documents, and record that no feature or characteristic has been identified that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested;
+
+(c) submit to the Agency the justification of compliance for the repair and the declaration of compliance.
+
+**21L.A.208 Requirements for the approval of a major repair design**
+
+In order to be issued with an approval of a major repair design to a type-certified product, the applicant shall:
+
+(a) demonstrate that the repair design and the areas affected by the repair design comply with the type-certification basis and the applicable environmental protection requirements as established and notified to the applicant by the Agency in accordance with point 21L.B.201;
+
+(b) demonstrate compliance in accordance with point 21L.A.206;
+
+(c) if the applicant has specified that they provided certification data on the basis of an arrangement with the owner of the type-certification data in accordance with point 21L.A.205(b)(5), demonstrate that the type-certificate holder:
+
+1\. has no technical objection to the information submitted under point 21L.A.205; and
+
+2\. has agreed to collaborate with the applicant to ensure the discharge of all the obligations for continued airworthiness of the repaired product through compliance with points 21L.A.28 and 21L.A.88;
+
+(d) demonstrate that there are no unresolved issues from the physical inspection of the first article of that product with the repair design in the final changed configuration carried out by the Agency in accordance with point 21L.A.206(e)(3).
+
+**21L.A.209 Approval of a repair design under a privilege**
+
+(a) The approval of a repair design that it has designed may be issued by an approved design organisation without an application according to point 21L.A.205 in accordance with the scope of its privileges provided for in points (2) and (5) of point 21.A.263(c) of Annex I (Part 21) instead of the Agency, as recorded in the terms of approval.
+
+(b) When issuing a repair approval in accordance with point (a), the design organisation shall:
+
+1\. ensure that all the substantiation data and justifications are available;
+
+2\. ensure that the compliance of the change with the type-certification basis and the applicable environmental protection requirements according to point (a) of point 21L.A.207 or point (a) of point 21L.A.208 has been demonstrated and declared in accordance with point 21L.A.206;
+
+3\. confirm that it has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements, or with the certification specifications chosen;
+
+(ii) any feature or characteristic of the repair that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested;
+
+4\. limit the approval of a repair to a type certificate to the specific configuration(s) in the type certificate to which the repair relates.
+
+**21L.A.210 Obligations of a holder of a repair design approval**
+
+The holder of a repair design approval shall:
+
+(a) if they are not the type-certificate or supplemental type-certificate holder, and certification data has been supplied in accordance with 21L.A.205 (b)(5), establish an arrangement with the relevant holder;
+
+(b) provide to the organisation performing the repair all the necessary instructions to install or embody the repair design;
+
+(c) support any production organisation producing parts for the repair design, and ensure that those parts are produced using production data that is based upon the design data that is provided by the repair design approval holder;
+
+(d) ensure that the repair design includes all the necessary instructions and limitations, if a repair design is approved subject to limitations. These instructions and limitations shall be transmitted to the operator by the holder of the repair design approval in accordance with a procedure agreed with the Agency;
+
+(e) undertake the obligations of a repair design approval holder of Subpart A of this Annex.
+
+**21L.A.211 Unrepaired damage**
+
+Damage to a product, the design of which has been approved in accordance with Section B, may not require a repair design if an evaluation of the airworthiness consequences justifies it. Such an evaluation is to be made by either the Agency or by a design organisation which is appropriately approved in accordance with Subpart J of Section A of Annex I (Part 21), under a procedure accepted by the Agency. If the evaluation concludes that the unrepaired damage requires limitations, those shall be processed in accordance with point (d) of point 21L.A.210.
+
+**SUBPART N – DESIGN OF REPAIRS TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED**
+
+**21L.A.221 Scope**
+
+This Subpart establishes:
+
+(a) the procedure for declaring the compliance of repair designs to an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex;
+
+(b) the rights and obligations of the declarant making a declaration of compliance of the change referred to in point (a);
+
+(c) provisions regarding the standard repairs that do not require a declaration of design compliance.
+
+**21L.A.222 Standard repairs**
+
+(a) Standard repairs are repair designs to an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex and which:
+
+1\. follow the design data included in the certification specifications issued by the Agency, containing the acceptable methods, techniques and practices for carrying out and identifying standard repairs, including the associated instructions for continued airworthiness; and
+
+2\. are not in conflict with the design data covered by the declaration of aircraft design compliance made in accordance with Subpart C of this Annex.
+
+(b) Points 21L.A.223 to 21L.A.229 are not applicable to standard repairs.
+
+**21L.A.223 Classification of repair designs to an aircraft for which design compliance has been declared**
+
+(a) Repair designs to an aircraft which was subject to a declaration made in accordance with Subpart C of this Annex shall be classified as either a major or minor, using the criteria laid down in points (b) and (c) of 21L.A.203.
+
+(b) The design compliance of a minor repair design shall be declared in accordance with point 21L.A.225.
+
+(c) The design compliance of a major repair design shall be declared in accordance with point 21L.A.226.
+
+**21L.A.224 Eligibility**
+
+(a) A declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex may declare compliance of a minor repair design of that aircraft under the conditions laid down in this Subpart. In addition, such a declaration of compliance may be also made, under the conditions laid down in this Subpart, by a design organisation approved in accordance with point (c)(3) of point 21.A.263 of Annex I (Part 21).
+
+(b) Only the declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex may declare the compliance of a major repair design to an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex, under the conditions laid down in this Subpart.
+
+(c) By derogation from point (b), if the declarant who made a declaration of aircraft design compliance in accordance with Subpart C of this Annex is no longer active or is unresponsive to requests for repair designs, the compliance of a changed aircraft design may also be declared in accordance with Subpart C of this Annex by a design organisation approved in accordance with point (c)(2) of point 21.A.263 of Annex I (Part 21) within the scope of their terms of approval, or by any other natural or legal person who is able to undertake the obligations laid down in point 21L.A.47 with respect to that changed aircraft.
+
+**21L.A.225 Declaration of design compliance for minor repair designs**
+
+(a) Prior to incorporating or embodying or agreeing with a production organisation to incorporate or embody a minor repair design to an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex, the declarant or the organisation that has designed the minor repair shall declare that the minor repair design complies with the detailed technical specifications and the applicable environmental protection requirements with which compliance had been declared according to point 21L.A.43.
+
+(b) The declaration of design compliance shall be made in a form and manner established by the Agency.
+
+(c) The declarant or the organisation that has designed the minor change shall maintain a register of minor repair designs to aircraft for which design compliance has been declared, and make any declaration made in accordance with point (a) available to the Agency upon request.
+
+**21L.A.226 Declaration of design compliance of major repair designs**
+
+(a) Prior to incorporating or embodying or agreeing with a production organisation to incorporate or embody a major repair design to an aircraft for which design compliance has been declared in accordance with Subpart C of this Annex, the declarant shall declare that the design of the major repair complies with the detailed technical specifications and the applicable environmental protection requirements with which compliance had been declared according to point 21L.A.43.
+
+(b) The declaration of design compliance shall be made in a form and manner established by the Agency.
+
+(c) The declaration shall contain at least the following information:
+
+1\. the name of the person submitting the declaration, and their address/place of business;
+
+2\. the declaration reference number of the aircraft to which the major repair design relates;
+
+3\. a unique reference for identifying the major repair design;
+
+4\. indication of the detailed technical specifications and the applicable environmental protection requirements with which the compliance of the aircraft had been declared by the declarant according to point 21L.A.43;
+
+5\. a signed statement made under the sole responsibility of the person making the declaration that the design of the major repair is in compliance with the detailed technical specifications and the applicable environmental protection requirements referred to in point (4), according to the compliance demonstration plan referred to in point (d)(3);
+
+6\. a signed statement made under the sole responsibility of the person making the declaration that no features or characteristics have been identified by that person that may make the aircraft unsafe or environmentally incompatible for the intended use;
+
+7\. a description of the damage and the repair design identifying the configuration of the type design upon which the repair is made;
+
+8\. identification of all the areas of the type design and the approved manuals that are changed or affected by the repair design.
+
+(d) The declarant that designs a major repair shall submit the declaration referred to in point (c) to the Agency. Together with this declaration, the declarant shall provide to the Agency:
+
+1\. a description of the major repair;
+
+2\. basic data about the major repair, including the operating characteristics, design features and any limitations;
+
+3\. a compliance demonstration plan detailing the means for compliance demonstration that was followed during the compliance demonstration;
+
+4\. recorded justifications of compliance within compliance data obtained from the compliance activities that have been conducted according to the compliance demonstration plan;
+
+5\. the means by which compliance with the detailed technical specifications and the applicable environmental protection requirements with which the declarant had declared that aircraft compliance according to point 21L.A.43 has been demonstrated;
+
+6\. where compliance is demonstrated by carrying out tests, a recorded justification of the conformity of the test articles and equipment, demonstrating:
+
+(i) for the test specimen, that:
+
+(A) the materials and processes adequately conformed to the specifications for the design;
+
+(B) the constituent parts of the products adequately conformed to the drawings in the design; and
+
+(C) the manufacturing processes, construction and assembly adequately conformed to those specified in the design;
+
+(ii) that the test and measuring equipment used for the tests were adequate for the tests and appropriately calibrated;
+
+7\. reports, results of inspections or tests that the declarant found necessary to determine that the aircraft complies with the detailed technical specifications and the applicable environmental protection requirements.
+
+(e) The declaration of a major repair to a declaration of design compliance shall be limited to the specific configuration(s) in the declaration of design compliance to which the change relates.
+
+**21L.A.227 Compliance activities for declaring compliance of a major repair design**
+
+Prior to making a declaration of compliance in accordance with point 21L.A.226, the declarant shall, for that specific design:
+
+(a) establish a compliance demonstration plan detailing the means for compliance demonstration that shall be followed during the compliance demonstration. This document shall be updated as necessary;
+
+(b) record the justification of compliance within compliance documents according to the compliance demonstration plan;
+
+(c) perform testing and inspections as necessary in accordance with the compliance demonstration plan;
+
+(d) ensure and record the conformity of the test articles and equipment and ensure that the test specimen conforms to the specifications, drawings, manufacturing processes, construction and assembly means in the design;
+
+(e) ensure that the test and measuring equipment to be used for testing are adequate for testing and appropriately calibrated;
+
+(f) allow the Agency to conduct or participate in any inspections or tests of aircraft in the final or suitably mature design and production configuration that are necessary to determine that the product with the repair design has no feature or characteristic that makes the aircraft unsafe or environmentally incompatible for the intended use;
+
+(g) carry out flight testing, in accordance with the flight conditions for such flight testing specified by the Agency, as necessary in order to determine that the aircraft complies with the applicable detailed technical specifications and the applicable environmental protection requirements.
+
+**21L.A.228 Obligations of the declarant of a declaration of design compliance of a repair design**
+
+The declarant of a declaration of design compliance shall:
+
+(a) for minor repair designs maintain a register of those declarations and shall make those declarations available to the Agency upon request;
+
+(b) provide to the organisation performing the repair all the necessary instructions to install or embody the repair design;
+
+(c) support any production organisation producing parts for the repair design, and ensure that those parts are produced using production data that is based upon the design data that is provided by the declarant;
+
+(d) if a repair design is declared subject to limitations, transmit these limitations to the operator using a documented procedure that is made available to the Agency upon request;
+
+(e) undertake the obligations of a declarant of design compliance of a repair design of Subpart A of this Annex.
+
+**21L.A.229 Unrepaired damage**
+
+The declarant of design compliance of an aircraft in accordance with Subpart C of this Annex or an approved design organisation with privileges provided in accordance with point (c)(3) of point 21.A.263 of Annex I (Part 21) and with the appropriate scope of approval shall conduct an evaluation of the airworthiness and environmental compatibility consequences of any damage to such aircraft that is left unrepaired and that is not covered by previously declared data. Any necessary limitations shall be processed in accordance with point (d) of point 21L.A.228.
+
+**SUBPART O – EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS**
+
+(Reserved)
+
+**SUBPART P – PERMIT TO FLY**
+
+**21L.A.241 Permit to fly and flight conditions**
+
+(a) The procedures for applying for the issuance of permits to fly and related flight conditions for aircraft within the scope of this Annex shall be those established in Subpart P of Section A of Annex I (Part 21) and those established in points (b) and (c) of point 21L.A.241.
+
+(b) When applying for a permit to fly in accordance with point 21.A.707 of Annex I (Part 21), the applicant shall arrange for the competent authority to conduct a conformity inspection of the aircraft when the application for a permit to fly relates to:
+
+1\. the demonstration of compliance activities in point 21L.A.25 for an aircraft which is, or is intended to be, type-certified;
+
+2\. the demonstration of compliance activities in point 21L.A.44 for an aircraft for which design compliance is, or is intended to be, declared.
+
+(c) When applying for flight conditions in accordance with point 21.A.709 of Annex I (Part 21), the applicant shall arrange for the Agency:
+
+1\. to physically inspect and assess the aircraft if the flight conditions are related to the demonstration of compliance to support a declaration of design compliance in point 21L.A.44 and if requested by the Agency during the demonstration of compliance activities as referred to in point (b) of point 21L.B.121 and point (c) of point 21L.B.203; or
+
+2\. to physically inspect and assess the aircraft and to conduct a critical design review if the flight conditions are related to the demonstration of compliance associated with the certification of the design in point 21L.A.25 and if requested by the Agency in point 21L.B.83, point 21L.B.102 and point 21L.B.203.
+
+**SUBPART Q – IDENTIFICATION OF PRODUCTS AND PARTS**
+
+**21L.A.251 Scope**
+
+This Subpart establishes the requirements for the identification of products and parts designed and produced under this Annex.
+
+**21L.A.252 Design of markings**
+
+(a) The holder of a type certificate, supplemental type certificate, approval of a change to type certificate or approval of a repair design, or the declarant of a declaration of design compliance shall specify in the design data the marking of products and parts designed in accordance with this Annex.
+
+(b) The specifications of the marking shall include the following information:
+
+1\. for products:
+
+(i) the name of the production organisation;
+
+(ii) the product designation;
+
+(iii) the serial number of the product;
+
+(iv) any other information appropriate to identify the product;
+
+2\. for parts:
+
+(i) a name, trademark, or symbol identifying the production organisation;
+
+(ii) the part number;
+
+(iii) the serial number, in cases where a part to be fitted on a product has been identified as a critical part.
+
+(c) The specification of parts in accordance with point (ii) of point (b)(2) shall include the letter ‘(R)’ at the end of the part number when:
+
+1\. the part is from a design subject to a declaration of design compliance in accordance with Subpart C of this Annex;
+
+2\. the part is to be released on an EASA Form 1 in accordance with point (a) of point 21L.A.193; and
+
+3\. the part has been produced in accordance with Subpart R of this Annex.
+
+**21L.A.253 Identification of products**
+
+(a) Any natural or legal person who produces products under Subpart G of Section A of Annex I (Part 21) or under Subpart G or R of this Annex for which the design has been approved or declared in accordance with this Annex shall identify that product as specified in accordance with 21L.A.252 by means of a fireproof marking on a fireproof plate.
+
+(b) The identification plate shall be secured in such a manner that it is accessible and legible, and will not likely be defaced or removed during normal service, or lost or destroyed in an accident, and in the case of a propeller, propeller blade, or propeller hub, placed on a non-critical surface of the item.
+
+(c) For manned balloons, the identification plate shall be secured to the balloon envelope and shall be located, if practicable, where it is legible to the operator when the balloon is inflated. In addition, the basket, load frame assembly and any heater assembly shall be permanently and legibly marked with the name of the production organisation, part number, or its equivalent, and the serial number, or its equivalent.
+
+**21L.A.254 Handling of identification data**
+
+(a) Any natural or legal person performing maintenance work in accordance with Regulation (EU) No 1321/2014 may, in accordance with methods, techniques and practices established by the Agency:
+
+1\. remove, change, or place the identification information referred to in point 21L.A.253; or
+
+2\. remove or install an identification plate referred to in point 21L.A.253, when necessary during maintenance operations.
+
+(b) Unless for the purposes stated in point (a) of point 21L.A.254, no person shall remove, change, or place the identification information referred to in point (a) of point 21L.A.253.
+
+(c) Unless for the purposes stated in point (a) of point 21L.A.254, no person shall remove or install any identification plate referred to in point (a) of point 21L.A.253.
+
+(d) No person shall install an identification plate removed in accordance with point (a)(2) on any aircraft, engine, propeller, propeller blade, or propeller hub other than the one from which it was removed.
+
+**21L.A.255 Identification of parts**
+
+Any natural or legal person who produces parts under Subpart G of Section A of Annex I (Part 21) or under Subpart G or R of this Annex for a product for which the design has been approved or declared in accordance with this Annex shall permanently and legibly mark that part as specified in accordance with point 21L.A.252.
+
+**SUBPART R – STATEMENT OF CONFORMITY FOR AIRCRAFT AND AUTHORISED RELEASE CERTIFICATE (EASA FORM 1) FOR ENGINES AND PROPELLERS, OR PARTS THEREOF, WHICH CONFORM TO A DECLARATION OF DESIGN COMPLIANCE**
+
+**21L.A.271 Scope**
+
+This Subpart establishes the procedures for the issuance of statements of conformity for aircraft (EASA Form 52B) and authorised release certificates (EASA Form 1) for engines and propellers, or parts thereof, that have been produced in conformity with the design data of a declaration of design compliance, and the rights and obligations of the declarant.
+
+**21L.A.272 Eligibility**
+
+Any natural or legal person who is granted access to the applicable design data and is able to undertake the obligations stated in point 21L.A.275 may issue a statement of conformity (EASA Form 52B) for an aircraft or an authorised release certificate (EASA Form 1) for an engine or propeller, or a part thereof, under the conditions laid down in this Subpart.
+
+**21L.A.273 Production control system**
+
+A natural or legal person issuing a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1) with the applicable declared design data of an aircraft, engine or propeller, or a part thereof, that they have produced, shall establish, implement and maintain a system for controlling production that:
+
+(a) includes processes and procedures that ensure that the aircraft, engine or propeller, and any part thereof, conforms with the applicable declared design data;
+
+(b) ensures that each statement of conformity (EASA Form 52B) or authorised release certificate (EASA Form 1) is only signed by authorised persons;
+
+(c) if flight tests are necessary within the scope of production, has processes in place that ensure that any flight tests are conducted in a safe manner;
+
+(d) ensures that the natural or legal person is in receipt of all the necessary airworthiness and environmental compatibility data to determine conformity;
+
+(e) has procedures in place that ensure that the airworthiness and environmental compatibility data is correctly incorporated in its production data, kept up to date and made available to all the personnel who need access to such data to perform their duties;
+
+(f) includes an inspection system that ensures that any aircraft, engine or propeller, and any part thereof, that are produced by the natural or legal person including their partners, or are supplied from or subcontracted to outside parties, conform with the applicable declared design data and are in a condition for safe operation;
+
+(g) includes an archiving system that records the requirements that have been placed on other organisations such as suppliers and subcontractors. The archived data shall be made available to the competent authority for continuing airworthiness purposes;
+
+(h) ensures that the maintenance of a newly manufactured aircraft is conducted in accordance with the applicable maintenance instructions and that the aircraft is kept in an airworthy condition, and if applicable, a certificate of release to service is issued for any maintenance that has been completed;
+
+(i) includes an internal occurrence reporting system in the interest of safety, to enable the collection and assessment of the occurrence reports collected in accordance with point 21L.A.3 in order to identify adverse trends or to address deficiencies, and to extract reportable occurrences. This system shall include the evaluation of relevant information relating to occurrences and the promulgation of the related information.
+
+**21L.A.274 Issuance of a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1)**
+
+(a) When issuing a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1), the natural or legal person shall include all of the following:
+
+1\. a statement that the aircraft, engine or propeller, or any part thereof, conforms to the applicable declared design data and is in a condition for safe operation;
+
+2\. for each aircraft, a statement that the aircraft has been ground- and flight-checked;
+
+3\. for each engine or variable pitch propeller, a statement that the engine or variable pitch propeller has been subjected to a final functional test;
+
+4\. if applicable, a statement that the completed engine is in compliance with the applicable engine exhaust emissions requirements in force on the date of production of the engine.
+
+(b) The natural or legal person shall issue a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1) upon:
+
+1\. the initial transfer of the ownership of the aircraft, engine or propeller, or parts thereof; or
+
+2\. for aircraft, the application for the issue of the restricted certificate of airworthiness for the aircraft.
+
+**21L.A.275 Obligations of a natural or legal person issuing a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1)**
+
+The natural or legal person issuing a statement of conformity (EASA Form 52B) or an authorised release certificate (EASA Form 1) shall:
+
+(a) inform the competent authority that they intend to produce an aircraft, engine or propeller, or a part thereof, in conformity with the design data of a declaration of design compliance and that they will issue statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) in accordance with this Subpart;
+
+(b) ensure that the details of any completed work are recorded;
+
+(c) maintain, at the place of production, the technical data and drawings necessary to determine whether the aircraft, engine or propeller, or a part thereof, conforms to the applicable declared design data;
+
+(d) provide continuing airworthiness support to the declarant of a declaration of design compliance for any aircraft, engine or propeller, or a part thereof, that they have produced;
+
+(e) for new aircraft that they have produced, ensure that the aircraft is kept in an airworthy condition and that maintenance is performed, unless Regulation (EU) No 1321/2014 requires the maintenance to be performed under such rules, including any necessary repairs in accordance with the applicable design data prior to the issuance of an aircraft statement of conformity (EASA Form 52B);
+
+(f) when issuing a certificate of release to service after such maintenance, determine that each completed aircraft has been subjected to the necessary maintenance and is in a condition for safe operation, prior to issuing the certificate;
+
+(g) undertake the obligations of a natural or legal person issuing statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) of Subpart A of this Annex;
+
+(h) inform the competent authority about the cessation of their activities under this Subpart.
+
+**SECTION B**
+
+**PROCEDURES FOR COMPETENT AUTHORITIES**
+
+**SUBPART A – GENERAL PROVISIONS**
+
+**21L.B.11 Oversight documentation**
+
+The competent authority shall provide all the legislative acts, standards, rules, technical publications, and related documents to the relevant personnel in order to allow them to perform their tasks and to discharge their responsibilities.
+
+**21L.B.12 Exchange of information**
+
+(a) The competent authority of the Member State and the Agency shall share the information available to them through their investigation conducted and oversight performed in accordance with this Section, which is relevant for the other party when performing certification, oversight or enforcement tasks under this Section.
+
+(b) The competent authority of the Member State and the Agency shall coordinate a product-focused investigation and oversight of the design and production of products and parts under this Annex, including, where necessary, conducting joint oversight visits.
+
+**21L.B.13 Information to the Agency**
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, within 30 days from the manifestation of such problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority of the Member State shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database as specified in Article 6(6) of Regulation (EU) No 376/2014.
+
+**21L.B.14 Airworthiness directives received from non-Member States**
+
+When the competent authority of a Member State receives an airworthiness directive from the competent authority of a non-Member State, that airworthiness directive shall be transferred to the Agency.
+
+**21L.B.15 Immediate reaction to a safety problem**
+
+(a) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority of the Member State shall implement a system to appropriately collect, analyse, and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety information received, and without undue delay, provide Member States and the Commission with any information, including recommendations or corrective actions to be taken, that is necessary for them to react in a timely manner to a safety problem involving products, parts, persons or organisations that are subject to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority of the Member State shall take adequate measures to address the safety problem.
+
+(d) Measures taken under point (c) of point 21L.B.15 shall immediately be notified to all persons or organisations that need to comply with them under Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, to the other Member States concerned.
+
+**21L.B.16 Management system**
+
+(a) The competent authority shall establish and maintain a management system, including as a minimum:
+
+1\. documented policies and procedures to describe its organisation, means and methods to achieve compliance with Regulation (EU) 2018/1139 and Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof. The procedures shall be kept up to date, and serve as the basic working documents within that competent authority for all related tasks;
+
+2\. a sufficient number of personnel to perform its tasks and discharge its responsibilities. A system shall be in place to plan the availability of personnel, in order to ensure the proper completion of all tasks;
+
+3\. personnel who are qualified to perform their allocated tasks and who have the necessary knowledge, experience, initial and recurrent training to ensure continuing competency;
+
+4\. adequate facilities and office accommodation to perform the allocated tasks;
+
+5\. a function to monitor the compliance of the management system with the relevant requirements, and the adequacy of the procedures, including the establishment of an internal audit process, and a safety risk management process. The compliance monitoring function shall include a system to provide feedback about audit findings to the senior management of the competent authority to ensure the implementation of corrective actions as necessary;
+
+6\. a person or group of persons having a responsibility to the senior management of the competent authority for the compliance monitoring function.
+
+(b) The competent authority shall, for each field of activity, including the management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The competent authority shall establish procedures for participation in a mutual exchange of all the necessary information with any other competent authorities concerned and provide them with assistance, whether from within the Member State or in other Member States, including on:
+
+1\. all the findings raised and any follow-up actions taken as a result of the oversight of persons and organisations that carry out activities in the territory of a Member State, but certified by the competent authority of another Member State, or by the Agency;
+
+2\. any information stemming from mandatory and voluntary occurrence reporting as required by point 21L.A.3.
+
+(d) A copy of the procedures related to the management system of the competent authority of the Member State and any amendments to those procedures shall be made available to the Agency for the purpose of standardisation.
+
+**21L.B.17 Allocation of tasks to qualified entities**
+
+(a) A competent authority may allocate the tasks related to the initial certification or to the continuing oversight of products and parts, and of natural or legal persons subject to Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, to qualified entities. When allocating tasks, the competent authority shall ensure that it has:
+
+1\. put a system in place to initially and continuously assess whether the qualified entity complies with Annex VI ‘Essential requirements for qualified entities’ to Regulation (EU) 2018/1139. This system and the results of the assessments shall be documented;
+
+2\. established a documented agreement with the qualified entity, approved by both parties at the appropriate management level, which defines:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports, and records to be provided;
+
+(iii) the technical conditions to be met in performing such tasks;
+
+(iv) the related liability coverage;
+
+(v) the protection given to the information acquired in carrying out such tasks.
+
+(b) The competent authority shall ensure that the internal audit process and the safety risk management process required by point (a)(5) of point 21L.B.16 cover all the certification and continuing oversight tasks performed on its behalf by the qualified entity.
+
+**21L.B.18 Changes in the management system**
+
+(a) The competent authority shall have a system in place to identify changes that affect its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof. This system shall enable it to take the action necessary to ensure that its management system remains adequate and effective.
+
+(b) The competent authority shall update its management system to reflect any change to Regulation (EU) 2018/1139 and Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof in a timely manner, so as to ensure its effective implementation.
+
+(c) The competent authority of the Member State shall notify the Agency of any changes affecting its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and Regulation (EU) No 376/2014 and the delegated and implementing acts adopted on the basis thereof.
+
+**21L.B.19 Resolution of disputes**
+
+The competent authority of the Member State shall establish a process for the resolution of disputes within its documented procedures.
+
+**21L.B.20 Record-keeping**
+
+(a) The competent authority shall establish a system of record-keeping that allows the adequate storage, accessibility, and reliable traceability of:
+
+1\. the management system’s documented policies and procedures;
+
+2\. the training, qualifications, and authorisation of its personnel;
+
+3\. the allocation of tasks covering the elements required by point 21L.B.17, as well as the details of the tasks allocated;
+
+4\. certification processes and the continuing oversight of certified and declared organisations, including:
+
+(i) applications for a certificate;
+
+(ii) declarations of capability;
+
+(iii) declarations of design compliance;
+
+(iv) the competent authority’s continuing oversight programme, including all assessments, audits and inspection records;
+
+(v) the certificates issued, including any changes to them;
+
+(vi) a copy of the oversight programme listing the dates when audits are due and when audits were carried out;
+
+(vii) copies of all formal correspondence;
+
+(viii) recommendations for the issue or continuation of a certificate or continuation of the registration of a declaration, details of findings, and actions taken by organisations to close these, including the date of closure of each item, enforcement actions, and observations;
+
+(ix) any assessment, audit or inspection report issued by another competent authority;
+
+(x) copies of all organisation handbooks, procedures and processes or manuals and amendments to them;
+
+(xi) copies of any other documents approved by the competent authority;
+
+5\. statements of conformity of aircraft (EASA Form 52B) or authorised release certificates (EASA Form 1) for engines, propellers or parts that it has inspected according to Subpart R of this Annex.
+
+(b) The competent authority of the Member State shall include in the record-keeping:
+
+1\. the evaluation and notification to the Agency of any alternative means of compliance proposed by organisations, and the assessment of any alternative means of compliance used by the competent authority itself;
+
+2\. safety information in accordance with point 21L.B.13 and follow-up measures;
+
+3\. the use of safeguard and flexibility provisions in accordance with Articles 71(1) and 76(4) of Regulation (EU) 2018/1139.
+
+(c) The competent authority shall maintain a list of all the certificates that it has issued and any declarations that it has registered.
+
+(d) All the records referred to in points (a), (b) and (c) shall be kept for a minimum period of 5 years, subject to the applicable data protection law.
+
+(e) All the records referred to in points (a), (b) and (c) shall be made available upon request to the competent authorities of another Member State or the Agency.
+
+**21L.B.21 Findings and observations**
+
+(a) When the competent authority, during investigation or oversight or by any other means, detects a non-compliance with the applicable requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, of a procedure or manual required by those Regulations, or of a certificate or declaration issued in accordance with those Regulations, it shall, without prejudice to any additional action required by those Regulations, raise a finding.
+
+(b) The competent authority shall have a system to analyse findings for their safety significance.
+
+A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected which lowers safety or seriously endangers flight safety, or in the case of design organisations may lead to an uncontrolled non-compliance and to a potential unsafe condition as per point 21L.B.23; level 1 findings shall also include but not be limited to the following:
+
+1\. any failure to grant the competent authority access to the organisation’s or natural or legal person’s facilities as defined in point 21L.A.10 during normal operating hours and after two written requests;
+
+2\. providing wrong information or falsification of documentary evidence;
+
+3\. any evidence of malpractice or of fraudulent use of a certificate, declaration or statement issued in accordance with this Annex;
+
+4\. the lack of an accountable manager or head of the design organisation, as applicable.
+
+A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof, of a procedure or manual required by those Regulations, or of a declaration issued in accordance with those Regulations, which is not classified as a level 1 finding.
+
+(c) The competent authority shall communicate the finding to the organisation or the natural or legal person in writing, and request corrective action to address the non-compliance(s) identified.
+
+(d) If there are any level 1 findings, the competent authority shall take immediate and appropriate action in accordance with point 21L.B.22, unless the finding is on a design organisation which has declared its design capabilities, in which case the Agency shall first grant the organisation a corrective action implementation period that is appropriate to the nature of the finding, which in any case shall not be more than 21 working days. The period shall commence from the date of the written communication of the finding to the organisation, requesting corrective action to address the non-compliance identified. If the level 1 finding directly relates to an aircraft, the competent authority shall inform the competent authority of the Member State in which the aircraft is registered.
+
+(e) For level 2 findings, the competent authority shall grant the organisation or the natural or legal person a corrective action implementation period that is appropriate to the nature of the finding. The period shall commence from the date of the written communication of the finding to the organisation or the natural or legal person, requesting corrective action to address the non-compliance identified. At the end of this period, and subject to the nature of the finding, the competent authority may extend the period, provided that a corrective action plan has been agreed by the competent authority.
+
+The competent authority shall assess the corrective action and the implementation plan proposed by the organisation or the natural or legal person, and if the assessment concludes that they are sufficient to address the non-compliance(s), accept these.
+
+If an organisation or natural or legal person fails to submit an acceptable corrective action plan, or to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to a level 1 finding, and action shall be taken as laid down in point (d).
+
+(f) The competent authority may issue observations for those cases not requiring level 1 or level 2 findings:
+
+1\. for any item the performance of which has been assessed to be ineffective;
+
+2\. when it has been identified that an item has the potential to cause a non-compliance; or
+
+3\. when suggestions or improvements are of interest for the overall safety performance of the organisation.
+
+Observations issued under this point shall be communicated to the organisation or the natural or legal person in writing and recorded by the competent authority.
+
+**21L.B.22 Enforcement measures**
+
+(a) The competent authority shall:
+
+1\. suspend a certificate if the competent authority considers that there are reasonable grounds that such action is necessary to prevent a credible threat to aircraft safety;
+
+2\. issue an airworthiness directive under the conditions of point 21L.B.23;
+
+3\. suspend, revoke or limit a certificate if such action is required pursuant to point (d) of point 21L.B.21;
+
+4\. suspend or revoke a certificate of airworthiness or a restricted certificate of airworthiness when the conditions specified in point (b) of point 21L.B.163 are met;
+
+5\. suspend or revoke a noise certificate or a restricted noise certificate when the conditions specified in point (b) of point 21L.B.173 are met;
+
+6\. take immediate and appropriate action necessary to limit or prohibit the activities of an organisation or natural or legal person if the competent authority considers that there are reasonable grounds that such action is necessary to prevent a credible threat to aircraft safety;
+
+7\. limit or prohibit the activities of an organisation or a natural or legal person that have declared their capabilities to design or produce products or parts in accordance with Section A or that issue statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) in accordance with Subpart R of Section A of this Annex pursuant to point (d) of point 21L.B.21;
+
+8\. not register a declaration of design compliance as long as there are unresolved findings from the initial oversight investigation;
+
+9\. temporarily or permanently de-register a declaration of design compliance or a declaration of capability pursuant to point (d) of point 21L.B.21;
+
+10\. take any further enforcement measures necessary in order to ensure the termination of a non-compliance with the essential requirements set out in Annex II to Regulation (EU) 2018/1139 and with this Annex, and, where necessary, remedy the consequences thereof.
+
+(b) Upon taking an enforcement measure in accordance with point (a), the competent authority shall notify it to the addressee, state the reasons for it, and inform the addressee of their right to appeal.
+
+**21L.B.23 Airworthiness directives**
+
+(a) An airworthiness directive means a document issued or adopted by the Agency which mandates actions to be performed on an aircraft to restore an acceptable level of safety when evidence shows that the safety level of this aircraft may otherwise be compromised.
+
+(b) The Agency shall issue an airworthiness directive when:
+
+1\. an unsafe condition has been determined by the Agency to exist in an aircraft as a result of a deficiency in the aircraft, or an engine, propeller or part installed on this aircraft; and
+
+2\. that condition is likely to exist or develop in other aircraft.
+
+(c) An airworthiness directive shall contain at least information identifying:
+
+1\. the unsafe condition;
+
+2\. the affected aircraft;
+
+3\. the action(s) required;
+
+4\. the compliance time for the required action(s);
+
+5\. the date of entry into force.
+
+**21L.B.24 Means of compliance**
+
+(a) The Agency shall develop acceptable means of compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof.
+
+(b) Alternative means of compliance may be used to establish compliance with this Regulation.
+
+(c) Competent authorities shall inform the Agency of any alternative means of compliance used by natural or legal persons under their oversight for establishing compliance with this Regulation.
+
+**SUBPART B – TYPE CERTIFICATES**
+
+**21L.B.41 Certification specifications**
+
+The Agency, in accordance with Article 76(3) of Regulation (EU) 2018/1139, shall issue certification specifications and other detailed specifications, including certification specifications for airworthiness, and environmental compatibility that competent authorities, organisations and personnel may use to demonstrate the compliance of products and parts with the relevant essential requirements set out in Annexes II, IV and V to that Regulation, as well as with those for environmental protection set out in Article 9(2) of and Annex III to that Regulation. Such specifications shall be sufficiently detailed and specific to indicate to applicants the conditions under which certificates are to be issued, amended or supplemented.
+
+**21L.B.42 Initial investigation**
+
+(a) Upon receiving an application for a type certificate under this Annex, the Agency shall verify whether the product is within the scope established in point 21L.A.21 and whether the applicant is eligible in accordance with point 21L.A.22 to apply for a type certificate for the product.
+
+(b) When the conditions of point (a) are not fulfilled, the Agency shall reject the application.
+
+**21L.B.43 Type-certification basis for a type certificate**
+
+(a) The Agency shall establish the type-certification basis and notify it to the applicant. The type-certification basis shall consist of:
+
+1\. the certification specifications for airworthiness designated by the Agency from those applicable to the product at the date of application for that certificate, unless:
+
+(i) the applicant chooses to comply with certification specifications which became applicable after the date of the application; if an applicant chooses to comply with a certification specification which became applicable after the date of the application, the Agency shall include in the type-certification basis any other certification specification that is directly related; or
+
+(ii) the Agency accepts any alternative to a designated certification specification that cannot be complied with, for which compensating factors have been found that provide an equivalent level of safety; or
+
+(iii) the Agency accepts or prescribes other means that demonstrate compliance with the essential requirements of Annex II to Regulation (EU) 2018/1139;
+
+2\. any special condition prescribed by the Agency in accordance with point 21L.B.44(a).
+
+(b) The Agency may amend the type-certification basis at any point before the issuance of the type certificate if it has determined that experience from other similar products in service, or products that have similar design features, has shown that unsafe conditions may develop, and the type-certification basis that was established and notified to the applicant does not address this unsafe condition.
+
+**21L.B.44 Special conditions**
+
+(a) The Agency shall prescribe special detailed technical specifications, named ‘special conditions’, for a product if the related certification specifications do not contain adequate or appropriate safety standards for the product because:
+
+1\. the product has novel or unusual design features relative to the design practices on which the applicable certification specifications are based;
+
+2\. the intended use of the product is unconventional; or
+
+3\. experience from other similar products in service or products having similar design features or newly identified hazards have shown that unsafe conditions may develop.
+
+(b) Special conditions contain such safety standards as the Agency finds necessary in order to establish a level of safety equivalent to that of the applicable certification specifications.
+
+**21L.B.45 Designation of the applicable environmental protection requirements for a type certificate**
+
+The Agency shall designate and notify to the applicant for a type certificate for an aircraft or for an engine, the applicable environmental requirements in accordance with point 21.B.85 of Annex I (Part 21).
+
+**21L.B.46 Investigation**
+
+Upon receiving an application for a type certificate under this Annex, the Agency shall:
+
+(a) conduct a review of the initial compliance demonstration plan and any subsequent update provided by the applicant in order to establish the completeness of the plan and the appropriateness of the proposed means and methods of demonstrating compliance with the type-certification basis established in accordance with point 21L.B.43 and with the applicable environmental protection requirements designated in accordance with point 21L.B.45; if the compliance demonstration plan is incomplete or the means and methods are not appropriate to achieve compliance demonstration, the Agency shall inform the applicant and request an amendment of it;
+
+(b) when satisfied that the compliance demonstration plan provided is appropriate so that the applicant can demonstrate compliance, approve the compliance demonstration plan and any subsequent updates of the compliance demonstration plan;
+
+(c) after receiving the declaration of compliance in accordance with point (f) of point 21L.A.25, conduct a physical inspection and assessment of the first article of that product in the final configuration, taking into consideration the critical design review carried out in accordance with point (a) of point 21L.B.242, in order to verify the compliance of the product with the applicable type-certification basis and the applicable environmental protection requirements; the Agency shall verify the compliance of the product, considering the likelihood of an unidentified non-compliance with the type-certification basis or the applicable environmental protection requirements, and the potential impact of that non-compliance on the safety or environmental compatibility of the product;
+
+(d) if during the establishment of the type-certification basis, designation of the applicable environmental protection requirements or during the review of the compliance demonstration plan the Agency determines that the product design contains any element for which an unidentified non-compliance with the type-certification basis or the applicable environmental protection requirements may have an adverse impact on the safety or environmental compatibility of the product, the Agency shall determine which investigations are necessary in addition to those described in point (c) in order to verify the compliance demonstration; the Agency shall notify the applicant of any additional investigations and which elements of the design would be subject to those investigations.
+
+**21L.B.47 Issuance of a type certificate**
+
+(a) The Agency shall issue without undue delay an aircraft, engine or propeller type certificate, provided that:
+
+1\. the applicant has complied with point 21L.A.27;
+
+2\. the Agency, through the investigation carried out pursuant to point 21L.B.46, has not found any non-compliance with the type-certification basis or with the applicable environmental protection requirements;
+
+3\. there are no unresolved issues from the investigation carried out pursuant to point (c) of point 21L.B.46 of that product in the final configuration;
+
+4\. no feature or characteristic has been identified that may make the product unsafe or environmentally incompatible for the uses for which the certification is requested.
+
+(b) The type certificate shall include:
+
+1\. the type design;
+
+2\. the operating limitations;
+
+3\. the instructions for continued airworthiness;
+
+4\. the type certificate data sheet for airworthiness and, if applicable, the record of engine exhaust emissions compliance;
+
+5\. the applicable type-certification basis and the applicable environmental protection requirements with which the Agency records compliance;
+
+6\. if applicable, the type certificate data sheet for noise; and
+
+7\. any other conditions or limitations prescribed for the product in the applicable type-certification basis and the applicable environmental protection requirements.
+
+**21L.B.48 Continuing airworthiness oversight of products for which a type certificate has been issued**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance with the type-certification basis or the applicable environmental protection requirements, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**21L.B.49 Transfer of a type certificate**
+
+(a) When the Agency receives an application for verification of whether a type certificate can be transferred by its holder in accordance with point 21L.A.29 or when the Agency considers a request to adopt a type certificate in accordance with point 21L.A.29, the Agency shall verify corresponding to points 21L.B.42 and 21L.B.46 whether the transferee is eligible to be a type-certificate holder in accordance with point 21L.A.22 and is able to undertake the obligations of a type-certificate holder under point 21L.A.28.
+
+(b) When the Agency concludes that the conditions referred to in point (a) are met by the transferee, it shall inform the type-certificate holder or the natural or legal person requesting to adopt a type certificate that a transfer of the type certificate to that natural or legal person is accepted by the Agency.
+
+**SUBPART C – DECLARATIONS OF DESIGN COMPLIANCE**
+
+**21L.B.61 Detailed technical specifications and applicable environmental protection requirements for declarations of product design compliance**
+
+(a) The Agency, in accordance with Article 76(3) of Regulation (EU) 2018/1139, shall establish and make available the detailed technical specifications that natural and legal persons can use to demonstrate compliance with the relevant essential requirements set out in Annex II to that Regulation when declaring compliance of the aircraft design in accordance with Subpart C of Section A of this Annex.
+
+(b) The detailed technical specifications referred to in point (a) shall provide design standards which reflect the state of the art and best design practices, and which build on the best available experience and scientific and technical progress, and on the best available evidence and analysis of aircraft design, for aircraft that are within the scope established under point 21L.A.41. These detailed technical specifications may include or refer to:
+
+1\. certification specifications established by the Agency in accordance with point 21.B.70 of Annex I (Part 21) for the airworthiness of the aircraft design;
+
+2\. special conditions that have been prescribed by the Agency in accordance with point 21.B.75 of Annex I (Part 21) or point 21L.B.44 for other aircraft and which are of a general nature;
+
+3\. detailed technical standards developed by standardisation and other industry bodies.
+
+(c) For the purposes of ensuring the environmental compatibility of the design, the Agency shall establish and make available the environmental protection requirements to be used as the basis for the declaration of design compliance, which shall include:
+
+1\. environmental protection requirements for the relevant product categories as contained in Annex 16 to the Convention on International Civil Aviation, Volumes I to III, at an amendment level referred to in Article 9(2) of Regulation (EU) 2018/1139; for this purpose, the references to:
+
+(i) the date of application for a type certificate contained in those volumes shall be understood as references to the date on which the declaration of design compliance is made by the declarant; and
+
+(ii) the certification requirements contained in those volumes shall be understood as requirements for the declaration of design compliance.
+
+2\. [reserved]
+
+**21L.B.62 Initial oversight investigation**
+
+(a) Upon receiving a declaration of design compliance, the Agency shall verify that the aircraft is within the scope of Subpart C of Section A of this Annex and that the declaration contains all the information specified in point 21L.A.43. The Agency shall acknowledge the receipt of the declaration, including the assignment of an individual declaration of design compliance reference number to the declarant for that aircraft configuration.
+
+(b) The Agency shall conduct a physical inspection and assessment of the first article of that aircraft in the final configuration, taking into consideration the safety review carried out in accordance with point (a)(2) of point 21L.B.242. If the Agency finds evidence, in the declaration or through the physical inspection and assessment carried out in accordance with the first sentence, indicating that the aircraft could be incapable of conducting a safe flight or could be environmentally incompatible during in-service operations, the Agency shall raise a finding in accordance with point 21L.B.21.
+
+**21L.B.63 Registration of a declaration of design compliance**
+
+The Agency shall register a declaration of design compliance for an aircraft provided that:
+
+(a) the declarant has declared compliance in accordance with point (a) of point 21L.A.43;
+
+(b) the declarant has provided to the Agency the documents required in accordance with point (c) of point 21L.A.43;
+
+(c) the declarant has made a commitment that the obligations in accordance with point 21L.A.47 will be undertaken;
+
+(d) there are no unresolved findings from the physical inspection and assessment of the first article of the aircraft in the final configuration carried out in accordance with point (b) of point 21L.B.62.
+
+**21L.B.64 Continuing airworthiness oversight of aircraft for which design compliance has been declared**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance with the applicable detailed technical specifications or the applicable environmental protection requirements, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**SUBPART D – CHANGES TO TYPE CERTIFICATES**
+
+**21L.B.81 Type-certification basis and applicable environmental protection requirements for a major change to a type certificate**
+
+(a) The Agency shall establish the type-certification basis for a major change to a type certificate and notify it to the applicant.
+
+(b) For a major change to a type certificate and the areas affected by the change, the type-certification basis shall consist of the certification specifications incorporated by reference in the type certificate, unless:
+
+1\. the Agency finds that the certification specifications referenced in the type certificate do not provide adequate standards with respect to the proposed change, therefore the change and the areas affected by the change shall also comply with any special conditions, and amendments to those special conditions, prescribed by the Agency in accordance with point 21L.B.44, to provide a level of safety equivalent to that established by the certification specifications applicable on the date of the application for the change;
+
+2\. an applicant chooses to comply with a certification specification set out in an amendment that is applicable on the date of the application for the change.
+
+(c) The Agency shall designate the applicable environmental protection requirements for the major change to a type certificate in accordance with point 21.B.85 of Annex I (Part 21) and notify them to the applicant.
+
+**21L.B.82 Investigation and issuance of an approval of a minor change to a type certificate**
+
+(a) Upon receiving an application for the approval of a minor change to a type certificate under this Annex, the Agency shall approve the minor change when:
+
+1\. the applicant has provided the substantiation data and justifications, and has demonstrated and declared the compliance of the change with the applicable type-certification basis and the applicable environmental protection requirements, or with the certification specifications chosen in accordance with point 21L.A.67;
+
+2\. the Agency, through its verification of the demonstration of compliance, taking into account the design features, complexity and overall criticality of the design or technology, as well as previous experience of design activities with the applicant, has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements, or with the certification specifications chosen;
+
+(ii) any feature or characteristic of the change that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+(b) An approval of a minor change to a type certificate shall be limited to the specific configuration(s) in the type certificate to which the change relates.
+
+**21L.B.83 Investigation of a major change to a type certificate**
+
+Upon receiving an application for a major change to a type certificate under this Annex, the Agency shall:
+
+(a) conduct a review of the initial compliance demonstration plan and any subsequent update provided by the applicant in order to establish the completeness of the plan and the appropriateness of the proposed means and methods of demonstrating compliance with the type-certification basis and the applicable environmental protection requirements established and designated in accordance with point 21L.B.81; if the compliance demonstration plan is incomplete or the means and methods are not appropriate to achieve compliance demonstration, the Agency shall inform the applicant and request an amendment of it;
+
+(b) when satisfied that the compliance demonstration plan provided is appropriate so that the applicant can demonstrate compliance, approve the compliance demonstration plan and also approve any subsequent updates of the compliance demonstration plan;
+
+(c) determine the likelihood of an unidentified non-compliance of the major change with the type-certification basis or with the applicable environmental protection requirements, and the potential impact of that non-compliance on the safety or environmental compatibility of the product, and determine on that basis whether a physical inspection and assessment of the first article of that product in the final changed configuration is necessary in order to verify the compliance of the product with the applicable type-certification basis and the applicable environmental protection requirements, taking into consideration the critical design review if carried out in accordance with point (a)(3) of point 21L.B.242; the Agency shall notify the applicant before conducting this inspection and assessment;
+
+(d) if during the establishment of the type-certification basis, the designation of the applicable environmental protection requirements or during the review of the compliance demonstration plan, the Agency determines that the design of the major change contains any element for which an unidentified non-compliance with the type-certification basis or the applicable environmental protection requirements may have an adverse impact on the safety or environmental compatibility of the changed product, the Agency shall determine which investigations are necessary in addition to those of point (c) in order to verify the compliance demonstration; the Agency shall notify the applicant of those additional investigations and which elements of the design would be subject to investigation.
+
+**21L.B.84 Issuance of an approval of a major change to a type certificate**
+
+(a) The Agency shall approve the major change when:
+
+1\. the applicant has demonstrated that the change and the areas affected by the change comply with the type-certification basis and the applicable environmental protection requirements, as established and designated by the Agency in accordance with point 21L.B.81;
+
+2\. the applicant has demonstrated and declared compliance in accordance with point (f) of point 21L.A.66;
+
+3\. the Agency through its verification of the demonstration of compliance has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements;
+
+(ii) any feature or characteristic of the change that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+(b) An approval of a major change to a type certificate shall be limited to the specific configuration(s) in the type certificate to which the change relates.
+
+**21L.B.85 Continuing airworthiness oversight of changed products for which a type certificate has been issued**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance with the type-certification basis or the applicable environmental protection requirements of a product for which a change to a type certificate has been approved, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**SUBPART E – SUPPLEMENTAL TYPE CERTIFICATES**
+
+**21L.B.101 Type-certification basis and applicable environmental protection requirements for a supplemental type certificate**
+
+(a) The Agency shall establish the type-certification basis for a supplemental type certificate and notify it to the applicant.
+
+(b) For major changes to a type certificate in the form of a supplemental type certificate, the type-certification basis for the areas affected by the change shall be that which is incorporated by reference in the type certificate, unless:
+
+1\. the Agency finds that the certification specifications referenced in the type certificate do not provide adequate standards with respect to the proposed change, therefore the change and the areas affected by the change shall also comply with any special conditions, and amendments to those special conditions, prescribed by the Agency in accordance with point 21L.B.44, to provide a level of safety equivalent to that established by the certification specifications applicable on the date of the application for the change;
+
+2\. an applicant chooses to comply with a certification specification set out in an amendment that is applicable on the date of the application for the change.
+
+(c) The Agency shall designate the applicable environmental protection requirements for a major change to a type certificate in accordance with point 21.A.85 of Annex I (Part 21) and notify them to the applicant.
+
+**21L.B.102 Investigation**
+
+Upon receiving an application for a supplemental type certificate under this Annex, the Agency shall:
+
+(a) conduct a review of the initial compliance demonstration plan and any subsequent update provided by the applicant in order to establish the completeness of the plan and the appropriateness of the proposed means and methods of demonstrating compliance with the type-certification basis and the applicable environmental protection requirements established and designated in accordance with point 21L.B.101; if the compliance demonstration plan is incomplete or the means and methods are not appropriate to achieve compliance demonstration, the Agency shall inform the applicant and request an amendment of it;
+
+(b) when satisfied that the compliance demonstration plan provided is appropriate so that the applicant can demonstrate compliance, approve the compliance demonstration plan and any subsequent updates of the compliance demonstration plan;
+
+(c) determine the likelihood of an unidentified non-compliance of the major change with the type-certification basis or the applicable environmental protection requirements, and the potential impact of that non-compliance on the safety or environmental compatibility of the product, and determine on that basis whether a physical inspection and assessment of the first article of that product in the final changed configuration is necessary in order to verify the compliance of the product with the applicable type-certification basis and the applicable environmental protection requirements, taking into consideration the critical design review if carried out in accordance with point (a) of point 21L.B.242; the Agency shall notify the applicant before conducting this inspection and assessment;
+
+(d) if during the establishment of the type-certification basis, the designation of the applicable environmental protection requirements or during the review of the compliance demonstration plan, the Agency determines that the major change to the design contains any element for which an unidentified non-compliance with the type-certification basis or the applicable environmental protection requirements may have an adverse impact on the safety or environmental compatibility of the changed product, the Agency shall determine which investigations are necessary in addition to those of point (c) in order to verify the compliance demonstration; the Agency shall notify the applicant of those additional investigations and which elements of the design would be subject to this investigation.
+
+**21L.B.103 Issuance of a supplemental type certificate**
+
+(a) Upon receiving an application for a supplemental type certificate under this Annex, the Agency shall issue a supplemental type certificate when:
+
+1\. the applicant has demonstrated that the change and the areas affected by the change comply with the type-certification basis and the applicable environmental protection requirements, as established and designated by the Agency in accordance with point 21L.B.101;
+
+2\. the applicant has demonstrated and declared compliance in accordance with point (f) of point 21L.A.85;
+
+3\. the owner of the type-certificate data, if the applicant has specified in accordance with point (b)(2) of 21L.A.84 that the certification data has been provided on the basis of an arrangement with the owner of the type-certificate data, has:
+
+(i) no technical objection to the information submitted under point (a)(2) of point 21L.B.103; and
+
+(ii) agreed to collaborate with the holder of the repair design approval to discharge all the obligations for the continued airworthiness of the product with the repair design through compliance with point 21L.A.88;
+
+4\. the Agency, through its verification of the demonstration of compliance, has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, the applicable environmental protection requirements;
+
+(ii) any feature or characteristic of the change that may make the changed product unsafe or environmentally incompatible for the uses for which certification is requested.
+
+(b) A supplemental type certificate shall be limited to the specific configuration(s) in the type certificate to which the related major change relates.
+
+**21L.B.104 Continuing airworthiness oversight of products for which a supplemental type certificate has been issued**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance with the type-certification basis or the applicable environmental protection requirements of a product for which a supplemental type certificate has been issued, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**SUBPART F – CHANGES TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED**
+
+**21L.B.121 Initial oversight investigation of a declaration of design compliance of a major change to the design of an aircraft for which design compliance has been declared**
+
+(a) Upon receiving a declaration of design compliance for a major change to the design of an aircraft for which design compliance has been declared, the Agency shall verify that the change is within the scope of point 21L.A.101 and that the declaration contains all the information specified in point 21L.A.107. The Agency shall acknowledge the receipt of the declaration, including the assignment of an individual declaration of design compliance reference number to the declarant.
+
+(b) The Agency shall assess, based upon the risk of a non-compliance leading to a design that is not capable of safe flight or being environmentally incompatible, whether a physical inspection and assessment of the changed product is needed, and subsequently inform the declarant if that is the case. This assessment of the risk shall take into consideration:
+
+1\. the complexity of the major change and the overall effect on the aircraft structures, flight characteristics and systems;
+
+2\. previous experience of physical inspections of aircraft and major changes that have been designed by the declarant;
+
+3\. the response by the declarant to any previous findings that have been raised for non-compliances for the specific aircraft or similar aircraft designed by the declarant that have also been subject to a declaration of design compliance.
+
+(c) If the Agency finds evidence in the declaration, or through the physical inspection and assessment if carried out in accordance with point (b) of point 21L.B.121, indicating that the changed aircraft could be incapable of conducting a safe flight or could be environmentally incompatible during in-service operations, the Agency shall raise a finding in accordance with point 21L.B.21.
+
+**21L.B.122 Registration of a declaration of design compliance for a major change to an aircraft design**
+
+(a) The Agency shall register a declaration of design compliance for a major change to the design of an aircraft for which design compliance has been declared, provided that:
+
+1\. the declarant has declared compliance in accordance with point (a) of point 21L.A.107;
+
+2\. the declarant has provided to the Agency the documents required in accordance with point (d) of point 21L.A.107;
+
+3\. the declarant has made a commitment that the obligations in accordance with point 21L.A.47 will also be undertaken in respect of the changed aircraft design;
+
+4\. there are no unresolved issues from the physical inspection, if carried out in accordance with point (b) of point 21L.B.121.
+
+(b) The Agency shall only register a declaration of a major change to the design of an aircraft for which design compliance has been declared if it is limited to the specific configuration(s) in the registered declaration of design compliance to which the change relates.
+
+**21L.B.123 Continuing airworthiness oversight of a changed aircraft for which design compliance has been declared**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance with the applicable detailed technical specifications or the applicable environmental protection requirements of a change for which design compliance has been declared, the Agency shall act in accordance with point 21L.B.64.
+
+**SUBPART G – DECLARED PRODUCTION ORGANISATIONS**
+
+**21L.B.141 Initial oversight investigation**
+
+(a) Upon receiving a declaration from an organisation declaring their production capability, the competent authority shall verify that:
+
+1\. the declarant is eligible to declare their production capability in accordance with point 21L.A.122;
+
+2\. the declaration contains all the information specified in point (c) of point 21L.A.123; and
+
+3\. the declaration does not contain information that indicates a non-compliance with the requirements of Subpart G of Section A of this Annex.
+
+(b) The competent authority shall acknowledge the receipt of the declaration, including the assignment of an individual declared production organisation reference number to the declarant.
+
+**21L.B.142 Registration of a declaration of production capability**
+
+The competent authority shall register the declaration of production capability on a suitable database, including the declared scope of work, provided that:
+
+(a) the declarant has declared their capability in accordance with point 21L.A.123;
+
+(b) the declarant has made a commitment that the obligations in accordance with point 21L.A.127 will be undertaken;
+
+(c) there are no unresolved issues in accordance with point 21L.B.141.
+
+**21L.B.143 Oversight**
+
+(a) The competent authority shall oversee the declared production organisation in order to verify the continuous compliance of the declared production organisation with the applicable requirements of Section A and the implementation of safety measures mandated according to points (c) and (d) of point 21L.B.15.
+
+(b) The oversight shall include a first article inspection of every new aircraft, engine, propeller or part design that is produced for the first time and, as determined by the oversight programme in accordance with point 21L.B.144, inspections of further produced aircraft, engines, propellers and parts that are produced by the declared production organisation.
+
+**21L.B.144 Oversight programme**
+
+(a) The competent authority shall establish and maintain an oversight programme in order to ensure compliance with point 21L.B.143. This oversight programme shall take into account the specific nature of the organisation, the complexity of its activities and the results of past certification and/or oversight activities, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+1\. assessments, audits and inspections, including as appropriate:
+
+(i) management system assessments and process audits;
+
+(ii) product audits of a relevant sample of the products and parts that are under the scope of the organisation;
+
+(iii) sampling of the work performed; and
+
+(iv) unannounced inspections;
+
+2\. meetings convened between the accountable manager and the competent authority to ensure that they both remain informed of any significant issues.
+
+(b) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(c) An oversight planning cycle that does not exceed 24 months shall be applied.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the competent authority has established that during the previous 24 months:
+
+1\. the organisation has demonstrated that it can effectively identify aviation safety hazards and manage the associated risks;
+
+2\. the organisation has continuously demonstrated compliance with point 21L.A.128 and that it has full control over all changes to the management system for production;
+
+3\. no level 1 findings have been issued;
+
+4\. all corrective actions have been implemented within the time period that was accepted or extended by the competent authority as defined in point 21L.B.21.
+
+(e) Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in point (d), the organisation has established, and the competent authority has approved, an effective continuous system for reporting to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(f) The oversight planning cycle may be reduced if there is evidence that the safety performance of the organisation has decreased.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the activities conducted by the declared production organisation based on its declaration of production capability, reflecting the results of the oversight.
+
+**21L.B.145 Oversight activities**
+
+(a) When the competent authority verifies the compliance of the declared production organisation in accordance with point 21L.B.143 and the oversight programme established in accordance with point 21L.B.144, it shall:
+
+1\. provide the personnel responsible for oversight with guidance to perform their functions;
+
+2\. conduct assessments, audits, inspections, and, if needed, unannounced inspections;
+
+3\. collect the evidence needed in case further action is required, including the measures provided for in points 21L.B.21 and 21L.B.22;
+
+4\. inform the declared production organisation about the results of the oversight activities.
+
+(b) If the facilities of the declared production organisation are located in more than one State, the competent authority identified in point 21L.2 may agree to have oversight tasks performed by the competent authority(ies) of the Member State(s) where other facilities are located, or by the Agency for facilities that are located in a non-Member State. Any declared production organisation that is subject to such an agreement shall be informed of its existence and of its scope.
+
+(c) For any oversight activities that are performed by the competent authority at facilities located in a Member State other than where the organisation has its principal place of business, the competent authority shall inform the competent authority of that Member State before performing any on-site audit or inspection of the facilities.
+
+(d) The competent authority shall collect and process any information deemed necessary for conducting oversight activities.
+
+(e) If the competent authority detects a non-compliance of the declared production organisation with the applicable requirements of Section A and the implementation of safety measures mandated according to points (c) and (d) of point 21L.B.15, the competent authority shall act in accordance with points 21L.B.21 and 21L.B.22.
+
+**21L.B.146 Changes to declarations**
+
+(a) Upon receiving a notification of changes in accordance with point 21L.A.128, the competent authority shall verify the completeness of the notification in accordance with point 21L.B.141.
+
+(b) The competent authority shall update its oversight programme established according to point 21L.B.144 and investigate whether it is necessary to establish any conditions under which the organisation may operate during the change.
+
+(c) When the change affects any aspect of the declaration that is registered in accordance with point 21L.B.142, the competent authority shall update the register.
+
+(d) Upon completion of the activities required by points (a) to (c), the competent authority shall acknowledge the receipt of the notification to the declared production organisation.
+
+**SUBPART H – CERTIFICATES OF AIRWORTHINESS AND RESTRICTED CERTIFICATES OF AIRWORTHINESS**
+
+**21L.B.161 Investigation**
+
+(a) The competent authority of the Member State of registry shall establish procedures for its investigations, covering at least the following elements:
+
+1\. evaluation of the eligibility of the applicant;
+
+2\. evaluation of the conditions for the application;
+
+3\. classification of airworthiness certificates;
+
+4\. evaluation of the documentation received with the application;
+
+5\. inspection of the aircraft;
+
+6\. determination of the necessary conditions, restrictions or limitations to the airworthiness certificates;
+
+7\. acceptance of the evaluation programme and assessment of the evaluation report developed in accordance with point 21L.A.143(h).
+
+(b) Upon receiving an application for a certificate of airworthiness or a restricted certificate of airworthiness, the competent authority of the Member State of registry shall verify whether the aircraft is within the scope established in point 21L.A.141.
+
+(c) Except for the issuance of an airworthiness certificate as described in point 21L.B.162(c)(1), the competent authority of the Member State of registry shall perform sufficient investigation activities to justify the issuance, continued validity, amendment, suspension or revocation of the certificate of airworthiness or restricted certificate of airworthiness. When conducting investigations related to the issuance of a certificate of airworthiness or a restricted certificate of airworthiness for a newly produced aircraft, the competent authority of the Member State of registry shall evaluate the need to conduct a physical inspection of the aircraft to ensure the conformity and safety of flight of the aircraft prior to the issuance of a certificate of airworthiness or a restricted certificate of airworthiness. This evaluation shall take into account:
+
+1\. the results of the physical inspection of the first article of that product in the final configuration, conducted in accordance with point 21L.B.143(b) or point 21L.B.251(b) by the competent authority of the Member State of registry, or by the competent authority overseeing the organisation or the natural or legal person that produced this aircraft, if different;
+
+2\. the time period since the last physical inspection conducted by the competent authority of the Member State of registry of an aircraft produced by the organisation, or the natural or legal person that produced that aircraft;
+
+3\. the results of the oversight conducted under Section B, Subpart G, of this Annex or under Section B, Subpart G, of Annex I (Part 21) of the organisation issuing the statement of conformity for the aircraft, or the verification conducted under Section A, Subpart R, of this Annex of other statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) that were issued by the same signatory;
+
+4\. the time period since the last oversight visit of the organisation in accordance with Section B, Subpart G, of this Annex, or Section B, Subpart G, of Annex I (Part 21), or since the last verification conducted under Section A, Subpart R, of this Annex of a statement of conformity (EASA Form 52B) or authorised release certificate (EASA Form 1) issued by the same signatory.
+
+**21L.B.162 Issuance or amendment of a certificate of airworthiness or a restricted certificate of airworthiness**
+
+(a) The competent authority of the Member State of registry shall issue or amend a certificate of airworthiness (EASA Form 25, see Appendix VI to Annex I (Part 21)) without undue delay when the applicant has provided the documentation required by point 21L.A.143 and complies with the obligations in point 21L.A.144, and when it is satisfied:
+
+1\. for new aircraft, that the aircraft, and its engine and propeller if applicable, conforms to a design approved in accordance with Subpart B of this Annex and is in a condition for safe operation;
+
+2\. for used aircraft, that:
+
+(i) the aircraft, and its engine and propeller if applicable, conforms to a type design approved in accordance with Subpart B of this Annex and any supplemental type certificate, change or repair approved in accordance with Subpart D, E or M of this Annex;
+
+(ii) the applicable airworthiness directives have been complied with; and
+
+(iii) an airworthiness review has been carried out in accordance with the applicable requirement of Annex I (Part-M) or Annex Vb (Part-ML) to Regulation (EU) No 1321/2014.
+
+(b) The competent authority of the Member State of registry shall issue or amend a restricted certificate of airworthiness (EASA Form 24B, see Appendix I) without undue delay when the applicant has provided the documentation required by point 21L.A.143 and complies with the obligations in point 21L.A.144, and when it is satisfied:
+
+1\. for new aircraft, that the aircraft, and its engine and propeller if applicable, conforms to an aircraft design for which design compliance has been declared in accordance with Subpart C of Section A of this Annex which is registered by the Agency in accordance with point 21L.B.63 at the time of application, and is in a condition for safe operation;
+
+2\. for used aircraft, that:
+
+(i) the aircraft, and its engine and propeller if applicable, conforms to an aircraft design for which design compliance has been declared in accordance with Subpart C of Section A of this Annex, and which is registered by the Agency in accordance with point 21L.B.63 at the time of application, along with any design changes or repair design changes for which design compliance has been declared in accordance with Subpart F or N of Section A of this Annex which are registered by the Agency in accordance with point 21L.B.122 or point 21L.B.222, or by the declarant in accordance with point (c) of point 21L.A.105;
+
+(ii) the applicable airworthiness directives have been complied with; and
+
+(iii) an airworthiness review has been carried out in accordance with the applicable requirement of Annex I (Part-M) or Annex Vb (Part-ML) to Regulation (EU) No 1321/2014.
+
+(c) By way of derogation from points (a) and (b), for a used aircraft transferred from another Member State having an airworthiness certificate issued in accordance with this Annex, the competent authority of the new Member State of registry shall issue the certificate of airworthiness or restricted certificate of airworthiness where it is satisfied that the applicant complies with point 21L.A.144(a) and has provided a copy of the current certificate of airworthiness or restricted certificate of airworthiness and one of the following:
+
+1\. the documentation required by point 21L.A.143(e)(1);
+
+2\. the documentation required by point 21L.A.143(e)(2).
+
+(d) Where applicable, in addition to the airworthiness certificate referred to in point (a), point (b) or point (c), the competent authority of the Member State of registry shall issue an airworthiness review certificate in accordance with point M.B.901 of Annex I (Part-M) or point ML.B.901 of Annex Vb (Part-ML) to Regulation (EU) No 1321/2014, as applicable.
+
+(e) A certificate of airworthiness or a restricted certificate of airworthiness shall be issued for an unlimited duration. It may be amended only by the competent authority of the Member State of registry.
+
+**21L.B.163 Oversight**
+
+(a) Upon evidence of a violation of any of the conditions under which the certificate of airworthiness or the restricted certificate of airworthiness was issued, or that the holder does not comply with the relevant requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof or with the applicable type design or with the applicable design data of an aircraft for which design compliance has been declared, or with the continuing airworthiness requirements, the competent authority of the Member State of registry shall issue a finding in accordance with point 21L.B.21.
+
+(b) When the type certificate under which the certificate of airworthiness was issued is suspended or revoked, or otherwise becomes invalid in accordance with point 21L.A.30, or the declaration of design compliance under which the restricted certificate of airworthiness was issued is not any longer registered in accordance with point 21L.B.63, the competent authority of the Member State of registry shall take action in accordance with point 21L.B.22.
+
+**SUBPART I – NOISE CERTIFICATES**
+
+**21L.B.171 Investigation**
+
+(a) The competent authority of the Member State of registry shall prepare procedures for its investigations, covering at least the following elements:
+
+1\. evaluation of the eligibility of the applicant;
+
+2\. evaluation of the conditions for the application;
+
+3\. evaluation of the documentation received with the application;
+
+4\. inspections of aircraft.
+
+(b) Upon receiving an application for a noise certificate or a restricted noise certificate, the competent authority of the Member State of registry shall verify whether the aircraft is within the scope established in point 21L.A.161.
+
+(c) The competent authority of the Member State of registry shall perform sufficient investigation activities for an applicant for, or a holder of, a noise certificate or a restricted noise certificate to justify the issuance, maintenance, amendment, suspension or revocation of the certificate.
+
+**21L.B.172 Issuance or amendment of noise certificates**
+
+(a) The competent authority of the Member State of registry shall issue or amend noise certificates (EASA Form 45, see Appendix VII to Annex I (Part 21)) and restricted noise certificates (EASA Form 45B, see Appendix II) without undue delay when the applicant has provided the documentation required by point 21L.A.163, and when it is satisfied that the aircraft is in conformity with the applicable noise information determined in accordance with the applicable noise requirements.
+
+(b) For used aircraft originating from another Member State, the noise certificate or restricted noise certificate shall be issued against the corresponding data that is provided by the Agency database on noise levels.
+
+(c) A noise certificate or a restricted noise certificate shall be issued for an unlimited duration. It may be amended only by the competent authority of the Member State of registry.
+
+**21L.B.173 Oversight**
+
+(a) Upon evidence of a violation of any of the conditions under which the noise certificate or the restricted noise certificate was issued, or that the holder does not comply with the relevant requirements of Regulation (EU) 2018/1139 and the delegated and implementing acts adopted on the basis thereof or with the applicable type design or with the applicable design data of an aircraft for which design compliance has been declared, the competent authority of the Member State of registry shall issue a finding in accordance with point 21L.B.21.
+
+(b) When the type certificate under which the noise certificate was issued is suspended or revoked, or otherwise becomes invalid in accordance with point 21L.A.30, or the declaration of design compliance under which the restricted noise certificate was issued is not any longer registered in accordance with point 21L.B.63, the competent authority of the Member State of registry shall take action in accordance with point 21L.B.22.
+
+**SUBPART J – DECLARED DESIGN ORGANISATIONS**
+
+**21L.B.181 Initial oversight investigation**
+
+(a) Upon receiving a declaration from an organisation declaring their design capability, the Agency shall verify that:
+
+1\. the declarant is eligible to declare their design capability in accordance with point 21L.A.172;
+
+2\. the declaration contains all the information specified in point (c) of point 21L.A.173; and
+
+3\. the declaration does not contain information that indicates a non-compliance with the requirements of Subpart J of Section A of this Annex.
+
+(b) The Agency shall acknowledge the receipt of the declaration, including the assignment of an individual declared design organisation reference number to the declarant.
+
+**21L.B.182 Registration of a declaration of design capability**
+
+The Agency shall register the declaration of design capability on a suitable database, including the declared scope of work, provided that:
+
+(a) the declarant has declared their capability in accordance with point 21L.A.173;
+
+(b) the declarant has made a commitment that the obligations in accordance with point 21L.A.177 will be undertaken;
+
+(c) there are no unresolved issues in accordance with point 21L.B.181.
+
+**21L.B.183 Oversight**
+
+(a) The Agency shall oversee the declared design organisation in order to verify the continuous compliance of the organisation with the applicable requirements of Section A.
+
+(b) The oversight shall include a product critical design review or physical inspection, and a first article inspection of every new design of the declared design organisation.
+
+**21L.B.184 Oversight programme**
+
+(a) The Agency shall establish and maintain an oversight programme in order to ensure compliance with point 21L.B.183. The oversight programme shall take into account the specific nature of the organisation, the complexity of its activities and the results of past certification and/or oversight activities, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+1\. assessments, audits and inspections, including as appropriate:
+
+(i) management system assessments and process audits;
+
+(ii) product audits of a relevant sample of the design and certification of the products, and parts that are under the scope of the organisation;
+
+(iii) sampling of the work performed;
+
+(iv) unannounced inspections;
+
+2\. meetings convened between the head of the design organisation and the Agency to ensure that both remain informed of any significant issues.
+
+(b) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(c) An oversight planning cycle that does not exceed 24 months shall be applied.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the Agency has established that during the previous 24 months:
+
+1\. the organisation has demonstrated that it can effectively identify aviation safety hazards and manage the associated risks;
+
+2\. the organisation has continuously demonstrated compliance with point 21L.A.178 and that it has full control over all changes to the design management system;
+
+3\. no level 1 findings have been issued;
+
+4\. all corrective actions have been implemented within the time period that was accepted or extended by the Agency as defined in point 21L.B.21.
+
+(e) Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in point (d), the organisation has established, and the Agency has approved, an effective continuous system for reporting to the Agency on the safety performance and regulatory compliance of the organisation itself.
+
+(f) The oversight planning cycle may be reduced if there is evidence that the safety performance of the organisation has decreased.
+
+(g) At the completion of each oversight planning cycle, the Agency shall issue a recommendation report on the continuation of the activities conducted by the declared design organisation based on its declaration of design capability, reflecting the results of the oversight.
+
+**21L.B.185 Oversight activities**
+
+(a) When the Agency verifies the compliance of the declared design organisation in accordance with point 21L.B.183 and the oversight programme established in accordance with point 21L.B.184, it shall:
+
+1\. provide the personnel responsible for oversight with guidance to perform their functions;
+
+2\. conduct assessments, audits, inspections, and, if needed, unannounced inspections;
+
+3\. collect the evidence needed in case further action is required, including the measures provided for in point 21L.B.21 and 21L.B.22;
+
+4\. inform the declared design organisation about the results of the oversight activities.
+
+(b) The Agency shall collect and process any information deemed necessary for conducting oversight activities.
+
+(c) If the Agency detects a non-compliance of the declared design organisation with the applicable requirements of Section A, with a procedure or manual required by Section A, or with the declaration submitted, the Agency shall act in accordance with points 21L.B.21 and 21L.B.22.
+
+**21L.B.186 Changes to declarations**
+
+(a) Upon receiving a notification of changes in accordance with point 21L.A.178, the Agency shall verify the completeness of the notification in accordance with point 21L.B.181.
+
+(b) The Agency shall update its oversight programme established according to point 21L.B.184 and investigate whether it is necessary to establish any conditions under which the organisation may operate during the change.
+
+(c) When the change affects any aspect of the declaration that is registered in accordance with point 21L.B.182, the Agency shall update the register.
+
+(d) Upon completion of the activities required by points (a) to (c), the Agency shall acknowledge the receipt of the notification to the declared design organisation.
+
+**SUBPART K – PARTS**
+
+(Reserved)
+
+**SUBPART M – DESIGN OF REPAIRS TO TYPE-CERTIFIED PRODUCTS**
+
+**21L.B.201 Type-certification basis and applicable environmental protection requirements for a repair design approval**
+
+The Agency shall designate any amendments to the type-certification basis and the applicable environmental requirements incorporated by reference in, as applicable, either the type certificate or the supplemental type certificate, which the Agency considers necessary for maintaining a level of safety and environmental compatibility equal to that previously established and notify them to the applicant for the approval of a repair design.
+
+**21L.B.202 Investigation and issuance of an approval for a minor repair design**
+
+(a) Upon receiving an application for the approval of a minor repair design to a type-certified product under this Annex, the Agency shall approve the minor repair design when:
+
+1\. the applicant has provided the substantiation data and justifications and has demonstrated and declared the compliance of the repair design with the applicable type-certification basis and the applicable environmental protection requirements established in accordance with point 21L.B.201;
+
+2\. the Agency, through its verification of the demonstration of compliance, taking into account the design features of the repair design, complexity and overall criticality of the repair design, as well as previous experience of design activities with the applicant, has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, with the applicable environmental protection requirements;
+
+(ii) any feature or characteristic of the repair design that may make the product with the repair design unsafe for the uses for which certification is requested.
+
+(b) An approval of a minor repair design shall be limited to the specific configuration(s) in the type certificate to which the repair design relates.
+
+**21L.B.203 Investigation of an application for the approval of a major repair design**
+
+Upon receiving an application for the approval of a major repair design under this Annex, the Agency shall:
+
+(a) conduct a review of the initial compliance demonstration plan and any subsequent update provided by the applicant in order to establish the completeness of the plan and the appropriateness of the proposed means and methods of demonstrating compliance with the type-certification basis and the applicable environmental protection requirements established and designated in accordance with point 21L.B.201; if the compliance demonstration plan is incomplete or the means and methods are not appropriate to achieve compliance demonstration, the Agency shall inform the applicant and request an amendment of it;
+
+(b) when satisfied that the compliance demonstration plan provided is appropriate so that the applicant can demonstrate compliance, approve the compliance demonstration plan and any subsequent updates of the compliance demonstration plan;
+
+(c) determine the likelihood of an unidentified non-compliance of the major repair design with the type-certification basis or with the applicable environmental protection requirements, and the potential impact of that non-compliance on the safety or environmental compatibility of the product, and determine on that basis whether a physical inspection and assessment of the first article of that product in the final configuration with the repair design is necessary in order to verify the compliance of the product with the applicable type-certification basis; the Agency shall notify the applicant before conducting this inspection and assessment;
+
+(d) if, during the review of the compliance demonstration plan, the Agency determines that the major repair design contains any element for which an unidentified non-compliance with the type-certification basis or with the applicable environmental protection requirements may have an adverse impact on the safety or environmental compatibility of the changed product, the Agency shall determine which investigations are necessary in addition to those of point (c) in order to verify the compliance demonstration; the Agency shall notify the applicant of those additional investigations and which elements of the design would be subject to investigation.
+
+**21L.B.204 Issuance of an approval of a major repair design**
+
+(a) Upon receiving an application for the approval of a major repair design to a type-certified product under this Annex, the Agency shall approve the major repair design when:
+
+1\. the applicant has been demonstrated that the repair design and the areas affected by the repair design comply with the type-certification basis and with the applicable environmental protection requirements, as established by the Agency in accordance with point 21L.B.201; and
+
+2\. the applicant has demonstrated and declared compliance in accordance with point 21L.A.208;
+
+3\. the owner of the type-certificate data, if the applicant has specified in accordance with point 21L.A.205(b)(5) that they provided the certification data on the basis of an arrangement with the owner of the type-certificate data, has:
+
+(i) no technical objection to the information submitted under point (a)(2) of point 21L.B.204; and
+
+(ii) agreed to collaborate with the holder of the repair design approval to discharge all the obligations for the continued airworthiness of the product with the repair design through compliance with point 21L.A.210;
+
+4\. the Agency, through its verification of the demonstration of compliance, has not found:
+
+(i) any non-compliances with the type-certification basis or, where applicable, the applicable environmental protection requirements;
+
+(ii) any feature or characteristic of the change that may make the product with the repair design unsafe for the uses for which certification is requested.
+
+(b) An approval of a major repair design shall be limited to the specific configuration(s) in the type certificate to which the repair design relates.
+
+**21L.B.205 Continuing airworthiness oversight of products for which a repair design has been approved**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means detects a non-compliance of a product, for which a repair design has been approved, with the type-certification basis or with the applicable environmental protection requirements, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**21L.B.206 Unrepaired damage**
+
+An evaluation of the airworthiness consequences shall be conducted by the Agency, when requested to do under point 21L.A.211, in the event that a damaged product is left unrepaired and is not covered by previously approved data. The Agency shall establish any limitations necessary to ensure a safe flight with the damaged product.
+
+**SUBPART N – DESIGN OF REPAIRS TO AIRCRAFT FOR WHICH DESIGN COMPLIANCE HAS BEEN DECLARED**
+
+**21L.B.221 Initial oversight investigation of a declaration of design compliance of a major repair design to an aircraft for which design compliance has been declared**
+
+(a) Upon receiving a declaration of design compliance of a major repair design to an aircraft for which design compliance has been declared, the Agency shall verify that that the repair design is within the scope of point 21L.A.221 and that the declaration contains all the information specified in point 21L.A.226. The Agency shall acknowledge the receipt of the declaration, including the assignment of an individual declaration of design compliance reference number to the declarant.
+
+(b) The Agency shall assess, based upon the risk of a non-compliance leading to a design that is not capable of safe flight or being environmentally incompatible, whether a physical inspection and assessment of the aircraft with the major repair design is needed, and subsequently inform the declarant if that is the case. This assessment of the risk shall take into consideration:
+
+1\. the complexity of the major repair design and the overall effect on the aircraft structures, flight characteristics and systems;
+
+2\. previous experience of physical inspections of aircraft and major repair designs and changes that have been designed by the declarant;
+
+3\. the response by the declarant to any previous findings that have been raised for non-compliances of the specific aircraft or similar aircraft designed by the declarant that have also been subject to a declaration of design compliance.
+
+(c) If the Agency finds evidence in the declaration, or through the physical inspection and assessment if carried out in accordance with point (b) of point 21L.B.221, indicating that the aircraft with the major repair design could be incapable of conducting a safe flight or could be environmentally incompatible during in-service operations, the Agency shall raise a finding in accordance with point 21L.B.21.
+
+**21L.B.222 Registration of a declaration of a major repair design to an aircraft for which design compliance has been declared**
+
+(a) The Agency shall register a declaration of a major repair design to an aircraft for which design compliance has been declared provided that:
+
+1\. the declarant has declared compliance in accordance with point (a) of point 21L.A.226;
+
+2\. the declarant has provided to the Agency the documents required in accordance with point (d) of point 21L.A.226;
+
+3\. the declarant has made a commitment that the obligations in accordance with point 21L.A.228 will be undertaken;
+
+4\. there are no unresolved issues from the physical inspection, if carried out in accordance with point (b) of point 21L.B.221.
+
+(b) The Agency shall only register a declaration of a major repair design to an aircraft for which design compliance has been declared if it is limited to the specific configuration(s) in the registered declaration of design compliance to which the major repair design relates.
+
+**21L.B.223 Continuing airworthiness oversight of a repair design for which design compliance has been declared**
+
+If the Agency, through its continuing airworthiness oversight, including through reports received in accordance with point 21L.A.3, or by any other means, detects a non-compliance of a repair design, for which design compliance has been declared, with the applicable detailed technical specifications or with the applicable environmental protection requirements, the Agency shall raise a finding in accordance with point 21L.B.21, or issue an airworthiness directive under the conditions of point 21L.B.23.
+
+**SUBPART O – EUROPEAN TECHNICAL STANDARD ORDER AUTHORISATIONS**
+
+(Reserved)
+
+**SUBPART P – PERMIT TO FLY**
+
+**21L.B.241 Investigation prior to the issuance of a permit to fly**
+
+(a) Without prejudice to Subpart P of Section B of Annex I (Part 21), when investigating an application for the issuance of a permit to fly for an aircraft which is within the scope of this Annex, the competent authority of the Member State shall conduct a physical inspection of the aircraft and be satisfied that the aircraft conforms to the design defined under point 21.A.708 of that Annex I (Part 21) before flight when the application for a permit to fly relates to:
+
+1\. the demonstration of compliance activities in point 21L.A.25 for an aircraft which is, or is intended to be, type-certified;
+
+2\. the demonstration of compliance activities in point 21L.A.44 for an aircraft for which design compliance is, or is intended to be, declared.
+
+(b) For all other requests for the issuance of a permit to fly for activities and aircraft within the scope of this Annex, the competent authority shall assess, in accordance with point 21.B.520 of Annex I (Part 21), the need for a physical inspection.
+
+(c) If the competent authority finds evidence indicating that the aircraft does not conform to the design defined under point 21.A.708 of Annex I (Part 21), it shall raise a finding in accordance with point 21L.B.21.
+
+**21L.B.242 Investigation prior to issuance of the flight conditions**
+
+(a) Without prejudice to Subpart P of Section B of Annex I (Part 21), when investigating an application for the approval of flight conditions for an aircraft which is within the scope of this Annex, the Agency shall:
+
+1\. if the application for flight conditions is related to the demonstration of compliance activities in point 21L.A.25 for an aircraft which is, or is intended to be, type-certified, conduct a critical design review of the design and a physical inspection and assessment of the aircraft in order to ensure that the aircraft is capable of safe flight, and that flight testing can be conducted safely;
+
+2\. if the application for flight conditions is related to the demonstration of compliance activities in point 21L.A.44 for an aircraft for which design compliance is, or is intended to be, declared, conduct a physical inspection and assessment of the aircraft in order to ensure that the aircraft is capable of safe flight, and that flight testing can be conducted safely;
+
+3\. if the application for flight conditions is related to the demonstration of compliance activities for a major change in point 21L.A.66, a supplemental type certificate in point 21L.A.85 or a major repair in point 21L.A.206, based upon the evaluation conducted in point 21L.B.83, point 21L.B.102 and point 21L.B.203, determine the need to conduct a physical inspection and assessment of the aircraft and a critical design review of the design in order to ensure that the aircraft is capable of safe flight, and that flight testing can be conducted safely;
+
+4\. if the application for flight conditions is related to the demonstration of compliance activities for a major change in point 21L.A.108 or a major repair in point 21L.A.227, based upon the evaluation conducted in point 21L.B.121 and point 21L.B.221, determine the need to conduct a physical inspection and assessment of the aircraft in order to ensure that the aircraft is capable of safe flight, and that flight testing can be conducted safely.
+
+(b) If the Agency finds evidence indicating that the aircraft could be incapable of conducting a safe flight, the Agency shall raise a finding in accordance with point 21L.B.21.
+
+**SUBPART Q – IDENTIFICATION OF PRODUCTS AND PARTS**
+
+**SUBPART R – STATEMENT OF CONFORMITY FOR AIRCRAFT AND AUTHORISED RELEASE CERTIFICATES (EASA FORM 1) FOR ENGINES AND PROPELLERS, AND PARTS THEREOF, WHICH CONFORM TO A DECLARATION OF DESIGN COMPLIANCE**
+
+**21L.B.251 Oversight**
+
+(a) The competent authority shall oversee the natural or legal person issuing statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) under Subpart R of Section A of this Annex in order to verify the continuous compliance of the natural or legal person with the applicable requirements of Section A and the implementation of safety measures mandated according to points (c) and (d) of point 21L.B.15.
+
+(b) The oversight shall include a first article inspection of every new aircraft, engine, propeller or part that is produced for the first time for which the natural or legal person has issued a statement of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1), and, as determined by the oversight programme in accordance with point 21L.B.252, inspections of further aircraft, engines, propellers and parts produced by that natural or legal person.
+
+**21L.B.252 Oversight programme**
+
+(a) The competent authority shall establish and maintain an oversight programme in order to ensure compliance with point 21L.B.251. This oversight programme shall take into account the specific nature of the natural or legal person, the complexity of their activities and the results of past oversight activities, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+1\. assessments, audits and inspections, including as appropriate:
+
+(i) production control system assessments and process audits;
+
+(ii) product audits of a relevant sample of the products and parts that are under the scope of the natural or legal person;
+
+(iii) sampling of the work performed; and
+
+(iv) unannounced inspections;
+
+2\. meetings convened between the legal or natural person and the competent authority to ensure that they both remain informed of any significant issues.
+
+(b) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(c) An oversight planning cycle that does not exceed 24 months shall be applied.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the competent authority has established that during the previous 24 months:
+
+1\. the natural or legal person has demonstrated that they can effectively identify aviation safety hazards and manage the associated risks;
+
+2\. the natural or legal person has continuously demonstrated compliance with point 21L.A.273 and that they have full control over all changes to the management system for production;
+
+3\. no level 1 findings have been issued;
+
+4\. all corrective actions have been implemented within the time period that was accepted or extended by the competent authority as defined in point 21L.B.21.
+
+(e) Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in point (d), the natural or legal person has established, and the competent authority has approved, an effective continuous system for reporting to the competent authority on the safety performance and regulatory compliance of the natural or legal person themselves.
+
+(f) The oversight planning cycle may be reduced if there is evidence that the safety performance of the natural or legal person has decreased.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the activities conducted by the natural or legal person, reflecting the results of the oversight.
+
+**21L.B.253 Oversight activities**
+
+(a) When the competent authority verifies the compliance of the natural or legal person in accordance with point 21L.B.251 and the oversight programme established in accordance with point 21L.B.252, it shall:
+
+1\. provide the personnel responsible for oversight with guidance to perform their functions;
+
+2\. conduct assessments, audits, inspections, and, if needed, unannounced inspections;
+
+3\. collect the evidence needed in case further action is required, including the measures provided for in point 21L.B.21 and 21L.B.22;
+
+4\. inform the natural or legal person about the results of the oversight activities.
+
+(b) If the facilities of the natural or legal person are located in more than one State, the competent authority identified in point 21L.2 may agree to have oversight tasks performed by the competent authority(ies) of the Member State(s) where other facilities are located, or by the Agency for facilities that are located in a non-Member State. Any natural or legal person who is subject to such an agreement shall be informed of its existence and of its scope.
+
+(c) For any oversight activities that are performed by the competent authority at facilities located in a Member State other than where the natural or legal person has its principal place of business, the competent authority shall inform the competent authority of that Member State before performing any on-site audit or inspection of the facilities.
+
+(d) The competent authority shall collect and process any information deemed necessary for conducting oversight activities.
+
+(e) If the competent authority detects a non-compliance of the natural or legal person issuing statements of conformity (EASA Form 52B) or authorised release certificates (EASA Form 1) with the applicable requirements of Section A and the implementation of safety measures mandated according to points (c) and (d) of point 21L.B.15, the competent authority shall act in accordance with points 21L.B.21 and 21L.B.22.
+
+### Appendices to ANNEX Ib (Part 21 Light) — EASA FORMS
+
+When the Forms of this Annex are issued in a language other than English, they shall include an English translation.
+
+The EASA (‘European Union Aviation Safety Agency’) Forms referred to in the appendices to this Part shall have the following obligatory features. Member States shall ensure that the EASA Forms they issue are recognisable and shall be responsible for having those Forms printed.
+
+Appendix I EASA Form 24B Restricted certificate of airworthiness
+
+Appendix II EASA Form 45B Restricted noise certificate
+
+Appendix III EASA Form 52B Aircraft statement of conformity
+
+Appendix IV EASA Form 53B Certificate of release to service
+
+## Appendix I — Restricted certificate of airworthiness – EASA Form 24B
+
+Competent authority logo
+
+**RESTRICTED CERTIFICATE OF AIRWORTHINESS (DECLARED)**
+
+<table>
+<tbody><tr><td>()</td><td colspan="2">[Member State of registry] [COMPETENT AUTHORITY OF THE MEMBER STATE] </td><td>4</td></tr>
+<tr><td>1. Nationality and registration marks</td><td colspan="2">2. Manufacturer and manufacturer’s designation of aircraft</td><td>3. Aircraft serial number</td></tr>
+<tr><td colspan="4">4. Categories</td></tr>
+<tr><td colspan="4">5. This restricted certificate of airworthiness is issued pursuant to Article 18(2)(a) of Regulation (EU) 2018/1139 in respect of the above-mentioned aircraft which is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations. In addition to above, the following restriction applies:  This restricted certificate of airworthiness is issued on the basis of a declaration of design compliance made in accordance with Regulation (EU) No 748/2012 and is valid and recognised in all EU Member States without further requirements or evaluation. This certificate does not comply with all of the applicable Standards of Annex 8 to the Convention on International Civil Aviation and therefore may not be valid for international air navigation over non-EU Member States, unless approved by the state(s) being overflown. </td></tr>
+<tr><td colspan="2">Date of issue:</td><td colspan="2">Signature:</td></tr>
+<tr><td colspan="4">6. This restricted certificate of airworthiness is valid unless revoked by the competent authority of the Member State of registry. A current airworthiness review certificate shall be attached to this certificate. </td></tr>
+<tr><td colspan="4">(1)  2 For use by the Member State of registry. </td></tr>
+</tbody>
+</table>
+
+EASA Form 24B – Issue 1
+
+This certificate shall be carried on board during all flights.
+
+## Appendix II
+
+**Restricted noise certificate – EASA Form 45B**
+
+<table>
+<tbody><tr><td colspan="2">For use by the Member State of registry</td><td colspan="5">1. Member State of registry</td><td>3. Document No:</td></tr>
+<tr><td colspan="8">2. RESTRICTED NOISE CERTIFICATE (DECLARED)</td></tr>
+<tr><td>4. Registration marks: … </td><td colspan="5">5. Manufacturer and designation of aircraft: … </td><td colspan="2">6. Aircraft serial No: … </td></tr>
+<tr><td colspan="4">7. Designation of engine: … </td><td colspan="4">8. Designation of propeller: … </td></tr>
+<tr><td>9. Maximum take-off mass (kg) … </td><td colspan="7">  </td></tr>
+<tr><td colspan="8">10. Additional modifications incorporated for the purpose of compliance with the applicable noise certification standards: … </td></tr>
+<tr><td colspan="3">11. Noise certification standard: … </td><td colspan="2">12. Take-off noise level: … </td><td colspan="3">  </td></tr>
+<tr><td colspan="8">Remarks</td></tr>
+<tr><td colspan="8">13. This restricted noise certificate is issued pursuant to Article 9 of Regulation (EU) 2018/1139, in respect of the above-mentioned aircraft, which is declared by the declarant of a declaration of design compliance in accordance with Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 to comply with the indicated noise standard when maintained and operated in accordance with the relevant requirements and operating limitations. 14. Date of issue … 15.Signature … </td></tr>
+</tbody>
+</table>
+
+EASA Form 45B – Issue 1
+
+## Appendix III
+
+**Aircraft statement of conformity – EASA Form 52B**
+
+<table>
+<tbody><tr><td colspan="5">AIRCRAFT STATEMENT OF CONFORMITY</td></tr>
+<tr><td>1. State of manufacture</td><td colspan="3">2. [MEMBER STATE] A Member of the European Union</td><td>3. Statement Ref. No:</td></tr>
+<tr><td colspan="5">4. Organisation</td></tr>
+<tr><td colspan="2">5. Aircraft type</td><td colspan="3">6. Type certificate/Declaration of design compliance refs:</td></tr>
+<tr><td colspan="2">7. Aircraft registration or mark</td><td colspan="3">8. Production organisation identification No</td></tr>
+<tr><td colspan="5">9. Engine/propeller details ()</td></tr>
+<tr><td colspan="5">10. Modifications and/or service bulletins1</td></tr>
+<tr><td colspan="5">11. Airworthiness directives</td></tr>
+<tr><td colspan="5">12. Concessions</td></tr>
+<tr><td colspan="5">13. Exemptions, waivers or derogations1</td></tr>
+<tr><td colspan="5">14. Remarks</td></tr>
+<tr><td colspan="5">15. Restricted/certificate of airworthiness</td></tr>
+<tr><td colspan="5">16. Additional requirements</td></tr>
+<tr><td colspan="5">17. Statement of conformity It is hereby certified that this aircraft conforms fully to the:  □ type-certified design; or  □ declared design data  and to the items above in boxes 9, 10, 11, 12 and 13.  The aircraft is in a condition for safe operation.  The aircraft has been satisfactorily tested in flight. </td></tr>
+<tr><td>18. Signed</td><td colspan="2">19. Name</td><td colspan="2">20. Date (d/m/y)</td></tr>
+<tr><td colspan="5">21. Declared or approved production organisation reference (if applicable)</td></tr>
+<tr><td colspan="5">(1)  Delete as applicable. </td></tr>
+</tbody>
+</table>
+
+EASA Form 52B – Issue 1
+
+**Instructions for the use of the ‘Aircraft statement of conformity – EASA Form 52B’**
+
+**1\. PURPOSE AND SCOPE**
+
+1.1. The purpose of the aircraft statement of conformity (EASA Form 52B) issued under Subpart G or Subpart R of Section A of Annex Ib (Part 21 Light) or under Subpart G of Section A of Annex I (Part 21) is to enable the production organisation to apply for an individual aircraft certificate of airworthiness or restricted certificate of airworthiness from the competent authority of the Member State of registry.
+
+**2\. GENERAL**
+
+2.1. The statement of conformity must comply with the model format, including the block numbers and the location of each block. The size of each block may, however, be varied to suit the individual application, but not to the extent that would render the statement of conformity unrecognisable. If in doubt, consult the competent authority.
+
+2.2. The statement of conformity must be either pre-printed or computer generated, but in either case, the printing of lines and characters must be clear and legible. Pre-printed wording is permitted in accordance with the attached model, but no other certification statements are permitted.
+
+2.3. The completion of the statement may be either machine/computer-printed or handwritten, using block letters to allow for easy reading. English, and where relevant, one or more of the official language(s) of the issuing Member State, are acceptable.
+
+2.4. A copy of the statement and all the referenced attachments are to be retained by the approved production organisation.
+
+**3\. COMPLETION OF THE STATEMENT OF CONFORMITY BY THE ORIGINATOR**
+
+3.1. There should be an entry in all blocks to render the document a valid statement.
+
+3.2. A statement of conformity may not be issued to the competent authority of the Member State of registry unless the design of the aircraft and its installed products are approved or the declaration of design compliance is registered with the Agency.
+
+3.3. The information required in blocks 9, 10, 11, 12, 13 and 14 may be by reference to separate identified documents held on file by the production organisation, unless the competent authority agrees otherwise.
+
+3.4. This statement of conformity is not intended to include those items of equipment that may be required to be fitted in order to satisfy the applicable operational rules. However, some of these individual items may be included in block 10 or in the approved type design or the declared aircraft design. Operators are therefore reminded of their responsibility to ensure compliance with the applicable operational rules for their own particular operations.
+
+Block 1 Enter the name of the State of manufacture.
+
+Block 2 The competent authority that issues the statement of conformity under its authority.
+
+Block 3 A unique serial number should be pre-printed in this block for statement control and traceability purposes. An exception is in the case of a computer-generated document: the number need not be pre-printed where the computer is programmed to produce and print a unique number.
+
+Block 4 The full name and the address of the location of the organisation that issues the statement. This block may be pre-printed. Logos, etc., are permitted if the logo, etc., can be contained within the block.
+
+Block 5 The aircraft type in full as defined in the type certificate and its associated data sheet or the declared aircraft design as registered by the Agency
+
+Block 6 The type-certificate reference numbers and issue for the subject aircraft or the registration number of the declaration of design compliance
+
+Block 7 If the aircraft is registered, then this mark will be the registration mark. If the aircraft is not registered, then this will be the mark that is accepted by the competent authority of the Member State and, if applicable, by the competent authority of a third country.
+
+Block 8 The identification number assigned by the production organisation for control and traceability and product support purposes. This is sometimes referred to as a ‘production organisation serial number’ or ‘constructor’s number’.
+
+Block 9 The engine type and the propeller type(s) in full as defined in the relevant type certificate and its associated data sheet or the registered declaration of design compliance. Their production organisation identification/reference number and the associated location should also be stated.
+
+Block 10 Approved or declared design changes to the aircraft definition
+
+Block 11 A listing of all the applicable airworthiness directives (or equivalent) and a declaration of compliance with the airworthiness directives, together with a description of the method of compliance of the subject individual aircraft, including products and installed parts, appliances and equipment. Any future compliance requirement time should be stated.
+
+Block 12 Approved or declared unintentional deviations from the approved type design or declared design, sometimes referred to as ‘concessions’, ‘divergences’ or ‘non-conformances’.
+
+Block 13 Only agreed or declared exemptions, waivers or derogations may be included here.
+
+Block 14 Remarks. Any statement, information, particular data or limitation which may affect the airworthiness of the subject aircraft. If there is no such information or data, state ‘NONE’.
+
+Block 15 Enter ‘certificate of airworthiness’, or ‘restricted certificate of airworthiness’, as the certificate of airworthiness requested.
+
+Block 16 Additional requirements such as those notified by an importing country should be noted in this block.
+
+Block 17 The validity of the statement of conformity is subject to the full completion of all the blocks on the form. A copy of the flight test report, together with any recorded defects and rectification details, should be kept on file by the production organisation. The report should be signed as satisfactory by the appropriate certifying staff and a flight crew member, e.g. the test pilot or the flight test engineer.
+
+The flight tests performed are those defined under the control of the quality management element of the production system, as established by either:
+
+1\. point (b) of point 21L.A.124; or
+
+2\. point (f) of point 21L.A.273,
+
+to ensure that the aircraft conforms to the applicable design data, and is in a condition for safe operation.
+
+The listing of items provided (or made available) to satisfy the aspects of this statement that relate to the safe operation of the aircraft should be kept on file by the production organisation.
+
+Block 18 The statement of conformity may be signed by the person that is authorised to do so by the production organisation in accordance with point (d) of point 21L.A.125 or point (b) of point 21L.A.273. A rubber stamp signature should not be used.
+
+Block 19 The name of the person that signs the statement should be typed or printed in a legible form.
+
+Block 20 The date on which the statement of conformity is signed should be given.
+
+Block 21 The competent authority approval reference should be quoted.
+
+## Appendix IV — Certificate of release to service – EASA Form 53B
+
+CERTIFICATE OF RELEASE TO SERVICE
+
+[PRODUCTION ORGANISATION NAME]
+
+Production organisation reference:
+
+Certificate of release to service in accordance with 21L.A.126(e) or 21L.A.273(8) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 (delete as appropriate).
+
+Aircraft: …Type: …Constructor No/Registration: …
+
+has been maintained as specified in work order: …
+
+Brief description of work performed:
+
+Certifies that the work specified was carried out in accordance with 21L.A.126(e) or 21L.A.273(8) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 (delete as appropriate) and in respect to that work the aircraft is considered ready for release to service and therefore is in a condition for safe operation.
+
+Certifying staff (name):
+
+(signature):
+
+Location:
+
+Date:. . -. . -. .. . (day, month, year)
+
+EASA Form 53B – Issue 1
+
+**COMPLETION INSTRUCTIONS**
+
+The Block BRIEF DESCRIPTION OF WORK PERFORMED appearing in EASA FORM 53B should include a reference to the approved data used to perform the work.
+
+The Block LOCATION appearing in EASA FORM 53B refers to the location where the maintenance has been performed, not to the location of the facilities of the organisation (if different).
+
+## ANNEX II
+
+**Repealed Regulation with list of its successive amendments**
+
+| Commission Regulation (EC) No 1702/2003 | (OJ L 243, 27.9.2003, p. 6). |
+| --- | --- |
+| Commission Regulation (EC) No 381/2005 | (OJ L 61, 8.3.2005, p. 3). |
+| Commission Regulation (EC) No 706/2006 | (OJ L 122, 9.5.2006, p. 16). |
+| Commission Regulation (EC) No 335/2007 | (OJ L 88, 29.3.2007, p. 40). |
+| Commission Regulation (EC) No 375/2007 | (OJ L 94, 4.4.2007, p. 3). |
+| Commission Regulation (EC) No 287/2008 | (OJ L 087, 29.3.2008, p. 3). |
+| Commission Regulation (EC) No 1057/2008 | (OJ L 283, 28.10.2008, p. 30). |
+| Commission Regulation (EC) No 1194/2009 | (OJ L 321, 8.12.2009, p. 5). |
+
+## ANNEX III
+
+**Correlation table**
+
+| Regulation (EC) No 1702/2003 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2), points (a) to (h) |
+| — | Article 1(2), points (i) and (j) |
+| Article 2(1) and (2) | Article 2(1) and (2) |
+| Article 2(3) | — |
+| Article 2a(1), introductory wording | Article 3(1), introductory wording |
+| Article 2a(1), points (a) and (b) | Article 3(1), points (a) and (b) |
+| Article 2a(1), points (c) and (d) | — |
+| Article 2a(2) to (5) | Article 3(2) to (5) |
+| Article 2b | Article 4 |
+| Article 2c(1) | Article 5 |
+| Article 2c(2) and (3) | — |
+| Article 2d | Article 6 |
+| Article 2e, first paragraph | Article 7 |
+| Article 2e, second paragraph | — |
+| Article 3(1), (2) and the first sentence of point 3 | Article 8(1), (2) and (3) |
+| Article 3(3) second sentence, (4) and (5) | — |
+| Article 3(6) | — |
+| Article 4(1), (2) and the first sentence of point 3 | Article 9(1), (2) and (3) |
+| Article 4(3) second sentence, (4), (5) and (6) | — |
+| — | Article 10 |
+| — | Article 11 |
+| Article 5(1) | Article 12 |
+| Article 5(2) to (5) | — |
+| Annex | Annex I |
+| — | Annex II |
+| — | Annex III |
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1139/oj).
+
+( 2 ) Commission Delegated Regulation (EU) 2022/201 of 10 December 2021 amending Regulation (EU) No 748/2012 as regards management systems and occurrence-reporting systems to be established by design and production organisations, as well as procedures applied by the Agency, and correcting that Regulation (OJ L 33, …, p. 7)
+
+( 3 ) Commission Delegated Regulation (EU) 2022/201 of 10 December 2021 amending Regulation (EU) No 748/2012 as regards management systems and occurrence-reporting systems to be established by design and production organisations, as well as procedures applied by the Agency, and correcting that Regulation (OJ L 33, 15.2.2022, p. 7).
+
+( 4 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).
+
+( 5 ) Commission Regulation (EU) 2015/640 of 23 April 2015 on additional airworthiness specifications for a given type of operations and amending Regulation (EU) No 965/2012 (OJ L 106, 24.4.2015, p. 18).
+
+( 6 ) Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, 26.9.2022, p. 18).
+
+( 7 ) Commission Regulation (EU) No 1321/2014 of 26 November 2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks (OJ L 362, 17.12.2014, p. 1, ELI: http://data.europa.eu/eli/reg/2014/1321/oj).
+
+( 8 ) [List of applicable acts to inserted as footnote]
+
+( 9 ) Commission Regulation (EU) No 379/2014 of 7 April 2014 amending Commission Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 123, 24.4.2014, p. 1).
+
+( 10 ) Commission Delegated Regulation (EU) 2022/1645 of 14 July 2022 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council, as regards requirements for the management of information security risks with a potential impact on aviation safety for organisations covered by Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 and amending Commission Regulations (EU) No 748/2012 and (EU) No 139/2014 (OJ L 248, 26.9.2022, p. 18, ELI: http://data.europa.eu/eli/reg_del/2022/1645/oj).
+
+( 11 ) Commission Implementing Regulation (EU) 2024/1109 of 10 April 2024 laying down rules for the application of Regulation (EU) 2018/1139 of the European Parliament and of the Council as regards competent authority requirements and administrative procedures for the certification, oversight and enforcement of the continuing airworthiness of certified unmanned aircraft systems, and amending Implementing Regulation (EU) 2023/203 (OJ L, 2024/1109, 23.5.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/1109/oj).
+
+( 12 ) Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 311, 25.11.2011, p. 1).
+
+( 13 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).
+
+( 14 ) Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 296, 25.10.2012, p. 1).

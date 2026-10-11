@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/95/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2014 </td><td> L 330</td><td>1</td><td>15.11.2014</td></tr>
@@ -34,6 +35,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2023/2775 of 17 October 2023 </td><td> L 2775</td><td>1</td><td>21.12.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1306 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2024 </td><td> L 1306</td><td>1</td><td>8.5.2024</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2026/470 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 470</td><td>1</td><td>26.2.2026</td></tr>
+</table>
 
 **DIRECTIVE 2013/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

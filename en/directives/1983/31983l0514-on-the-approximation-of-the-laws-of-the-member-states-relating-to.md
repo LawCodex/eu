@@ -143,6 +143,7 @@ All reagents must be of analytical quality.
 |  | 6.1. | Non-pressurized sample: weigh the sample accurately in a stoppered conical flask. Introduce an accurately weighed quantity of chloroform (4.1) as internal standard equivalent to the presumed quantity of dichloromethane and 1,1,1-trichloroethane contained in the sample. Mix throroughly. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.2.</td><td>Pressurized sample: use the sampling method described in the sampling chapter, but with the following refinements:<table><tbody><tr><td>6.2.1.</td><td>After transferring a sample into a transfer bottle (5.3), further introduce into the transfer bottle a volume of chloroform (4.1) as internal standard equivalent to the presumed quantity of dichloromethane and/or 1,1,1-trichloroethane contained in the sample. Mix thoroughly. Rinse the dead volume of the valve with 0,5 ml of carbon tetrachloride (4.2). After drying, determine accurately the added mass of the internal standard by difference.</td></tr>
 </tbody>
 </table>
@@ -157,12 +158,14 @@ All reagents must be of analytical quality.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **7\. CHROMATOGRAPHIC CONDITIONS**
 
 |  | 7.1. | Precolumn Tubing: stainless steel. Length: 300 mm Diameter: 3 or 6 mm. Packing: same material as used for the analytical column packing. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>7.2.</td><td>Column The stationary phase is made of Hallcomid M 18 on chromosorb. The column must yield a resolution ‘R’ equal to, or better than, 1,5, where:  <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1983.291.01.0009.01.ENG.xhtml.FOR-L_1983291EN.01001101.notes.0001.xml.jpg" alt="Formula">  let: <table><tbody><tr><td>r1 and r2</td><td>=</td><td>retention times (in minutes),</td></tr>
 <tr><td>W1 and W2</td><td>=</td><td>peak widths at half height (in millimetres),</td></tr>
 <tr><td>d'</td><td>=</td><td>the chart speed (in millimetres per minute).</td></tr>
@@ -170,7 +173,9 @@ All reagents must be of analytical quality.
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.3.</td><td>As examples the following columns yield the results sought:<table><tbody><tr><td>Column</td><td>I</td><td>II</td></tr>
 <tr><td>Material:</td><td>Stainless steel tubing</td><td>Stainless steel tubing</td></tr>
 <tr><td>Length:</td><td>350 cm</td><td>400 cm</td></tr>
@@ -194,6 +199,7 @@ All reagents must be of analytical quality.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **8\. MIXTURE FOR ESTABLISHING THE RESPONSE FACTORS**
 
@@ -329,12 +335,14 @@ All reagents should be of analytical purity.
 |  | 4.16. | Fehling's solution Solution A Weigh 7 g of copper sulphate pentahydrate (4.5) into a 100 ml standard flask. Dissolve in a little water. Make up to the mark with water and mix. Solution B Weigh 35 g of potassium sodium tartrate (4.6) into a 100 ml standard flask. Dissolve in 50 ml of water. Add 20 ml of sodium hydroxide (4.4). Make up to the mark with water and mix. Immediately before use, pipette 10 ml of solution A and 10 ml of solution B into a 100 ml standard flask. Make up to the mark and mix. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.17.</td><td>Eluting solvents for thin-layer chromatography<table><tbody><tr><td>I</td><td>:</td><td>Butan-1-ol (4.11) /acetic acid (4.12) /water (80: 20: 20; v/v/v).</td></tr>
 <tr><td>II</td><td>:</td><td>Chloroform (4.13) /acetic acid (4.12) (95: 5; v/v).</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 4.18. | 2,6-dichloro-4-(chloroin ino)cyclohexa-2,5-dienone, 1 % (m/v) solution in ethanol (4.10). |
 | --- | --- | --- |
@@ -962,6 +970,7 @@ Compare the Rf values and the colour of the reference solutions with those of th
 
 **Examples of Rf values obtained on a silica gel layer**
 
+<table>
 <tbody><tr><td rowspan="2"></td><td colspan="2">Eluting solvents</td></tr>
 <tr><td>4.2.1.16.1</td><td>4.2.1.16.2</td></tr>
 <tr><td>Mercaptoacetic acid</td><td>0,25</td><td>0,80</td></tr>
@@ -970,6 +979,7 @@ Compare the Rf values and the colour of the reference solutions with those of th
 <tr><td>3-mercaptopropionic acid</td><td>0,45</td><td>0,95</td></tr>
 <tr><td>3-mercaptopropane-1,2 diol</td><td>0,45</td><td>0,35</td></tr>
 </tbody>
+</table>
 
 **5\. DETERMINATION (see NB)**
 
@@ -1139,6 +1149,7 @@ Precipitate, assay and methylate as described in 5.2.4 and 5.2.5.
 |  | 5.2.7.7. | Quantity injected 3 μl Carry out five injections. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>5.2.7.8.</td><td>The conditions of chromatography are given as a guide. They permit the achievement of a resolution ‘R’ equal to, or better than, 1,5, where: <img src="http://publications.europa.eu/resource/uriserv/OJ.L_.1983.291.01.0009.01.ENG.xhtml.FOR-L_1983291EN.01001101.notes.0013.xml.jpg" alt="Formula">  let: <table><tbody><tr><td>r1 and r2</td><td>=</td><td>retention times (in minutes),</td></tr>
 <tr><td>W1 and W2</td><td>=</td><td>peak widths at half height (in millimetres),</td></tr>
 <tr><td>d'</td><td>=</td><td>the chart speed (in millimetres per minute).</td></tr>
@@ -1146,6 +1157,7 @@ Precipitate, assay and methylate as described in 5.2.4 and 5.2.5.
 </table>
  It is recommended that chromatography be terminated by regulating the tempera-ture from 90 to 150 oC at a rate of 10 oC per minute so as to eliminate substances liable to interfere with subsequent measurements. </td></tr>
 </tbody>
+</table>
 
 **5.2.8. Calculations**
 
@@ -1718,6 +1730,7 @@ Transfer, by pipette (5.7), 0,6 ml of TECS (4.6) and 0,12 ml of the internal sta
 
 **6.2. Chromatographic conditions**
 
+<table>
 <tbody><tr><td></td><td>6.2.1.</td><td>Column: stainless steel. Length: 1,8 m.  Diameter: 3 mm.  Support: Gaschrom Q 80 to 100 mesh.  Stationary phase: silicon oil DC 200 or equivalent, 20 %. Condition the column overnight at 100 oC (carrier gas flow at 25 ml nitrogen per minute) and repeat every night. After each fourth or fifth injection recondition the column by heating for 30 minutes at 100 oC.  Temperatures: <table><tbody><tr><td>column</td><td>:</td><td>70 oC,</td></tr>
 <tr><td>injector</td><td>:</td><td>150 oC,</td></tr>
 <tr><td>detector</td><td>:</td><td>250 oC.</td></tr>
@@ -1725,6 +1738,7 @@ Transfer, by pipette (5.7), 0,6 ml of TECS (4.6) and 0,12 ml of the internal sta
 </table>
  Gas flow carrier: 35 ml of nitrogen per minute. </td></tr>
 </tbody>
+</table>
 
 **6.3. Calibration graph**
 
@@ -1837,6 +1851,7 @@ All the reagents should be of analytical purity.
 |  | 4.2.1. | Apply immediately 50 μl of the carbon tetrachloride solution obtained in 4.1.6 on to a silica gel plate (2.7). Treat simultaneously 10 ml of standard solution (2.6) as in 4.1 and apply 50 μl of the solution obtained in 4.1.6 on the same plate. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.2.2.</td><td>Place the plate in the solvent (2.5) and allow the latter to rise 150 mm. The organomercury compounds appear as coloured spots whose colour is stable, provided the plate is covered by a glass plate immediately the solvent evaporates. For example, the following Rf values are obtained: <table><tbody><tr><td></td><td>Rf</td><td>Colour</td></tr>
 <tr><td>Thiomersal</td><td>0,33</td><td>Orange</td></tr>
 <tr><td>Ethylmercury chloride</td><td>0,29</td><td>Orange</td></tr>
@@ -1849,6 +1864,7 @@ All the reagents should be of analytical purity.
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **B. DETERMINATION**
 

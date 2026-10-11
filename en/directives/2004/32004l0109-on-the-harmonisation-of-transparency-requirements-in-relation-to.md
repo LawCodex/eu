@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2008/22/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 76</td><td>50</td><td>19.3.2008</td></tr>
@@ -31,6 +32,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EU) 2021/337 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 2021 </td><td> L 68</td><td>1</td><td>26.2.2021</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/2464 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 322</td><td>15</td><td>16.12.2022</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+</table>
 
 **DIRECTIVE 2004/109/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

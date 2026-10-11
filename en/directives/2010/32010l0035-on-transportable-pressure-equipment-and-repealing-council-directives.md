@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2749 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2749</td><td>1</td><td>8.11.2024</td></tr>
+</table>
 
 **DIRECTIVE 2010/35/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

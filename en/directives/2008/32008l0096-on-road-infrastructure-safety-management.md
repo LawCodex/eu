@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on road infrastructure safety management**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/1936 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2019 </td><td> L 305</td><td>1</td><td>26.11.2019</td></tr>
+</table>
 
 **DIRECTIVE 2008/96/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

@@ -123,6 +123,7 @@ José Manuel BARROSO
 
 **Conditions for basic seed potatoes**
 
+<table>
 <tbody><tr><td></td><td>(1)</td><td>The conditions for basic seed potatoes of ‘Union grade S’ shall be as follows:<table><tbody><tr><td>(a)</td><td>conditions concerning seed potatoes:<table><tbody><tr><td>(i)</td><td>the number of plants not breeding true to the variety and the number of plants of a different variety shall, together, not exceed 0,1 %;</td></tr>
 </tbody>
 </table>
@@ -173,7 +174,9 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>(2)</td><td>The conditions for basic seed potatoes of ‘Union grade SE’ shall be as follows:<table><tbody><tr><td>(a)</td><td>conditions concerning seed potatoes:<table><tbody><tr><td>(i)</td><td>the number of plants not breeding true to the variety and the number of plants of a different variety shall, together, not exceed 0,1 %;</td></tr>
 </tbody>
 </table>
@@ -224,7 +227,9 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>(3)</td><td>The conditions for basic seed potatoes of ‘Union grade E’ shall be as follows:<table><tbody><tr><td>(a)</td><td>conditions concerning seed potatoes:<table><tbody><tr><td>(i)</td><td>the number of growing plants not breeding true to the variety and the number of plants of a different variety shall, together, not exceed 0,1 %;</td></tr>
 </tbody>
 </table>
@@ -275,11 +280,13 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
 **Minimum Conditions for certified seed potatoes**
 
+<table>
 <tbody><tr><td></td><td>(1)</td><td>The conditions for certified seed potatoes of ‘Union grade A’ shall be as follows:<table><tbody><tr><td>(a)</td><td>conditions concerning seed potatoes:<table><tbody><tr><td>(i)</td><td>the number of plants not breeding true to the variety and the number of plants of a different variety shall, together, not exceed 0,2 %;</td></tr>
 </tbody>
 </table>
@@ -324,7 +331,9 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>(2)</td><td>The conditions for certified seed potatoes of ‘Union grade B’ shall be as follows:<table><tbody><tr><td>(a)</td><td>conditions concerning seed potatoes:<table><tbody><tr><td>(i)</td><td>the number of plants not breeding true to the variety and the number of plants of a different variety shall, together, not exceed 0,5 %;</td></tr>
 </tbody>
 </table>
@@ -369,3 +378,4 @@ José Manuel BARROSO
 </table>
 </td></tr>
 </tbody>
+</table>

@@ -1,0 +1,676 @@
+---
+title: "Commission Regulation (EC) No 1653/2004 of 21 September 2004 on a standard financial regulation for the executive agencies pursuant to Council Regulation (EC) No 58/2003 laying down the statute for executive agencies to be entrusted with certain tasks in the management of Community programmes"
+identifier: "32004R1653"
+eli: "http://data.europa.eu/eli/reg/2004/1653/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-09-21
+entry_into_force: 2004-08-03
+last_amended: 2008-07-30
+consolidated_version: "02004R1653-20080730"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1653-20080730"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1653/2004 of 21 September 2004 on a standard financial regulation for the executive agencies pursuant to Council Regulation (EC) No 58/2003 laying down the statute for executive agencies to be entrusted with certain tasks in the management of Community programmes
+
+**COMMISSION REGULATION (EC) No 1653/2004**
+
+**of 21 September 2004**
+
+**on a standard financial regulation for the executive agencies pursuant to Council Regulation (EC) No 58/2003 laying down the statute for executive agencies to be entrusted with certain tasks in the management of Community programmes**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 1821/2005 of 8 November 2005 </td><td> L 293</td><td>10</td><td>9.11.2005</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 651/2008 of 9 July 2008 </td><td> L 181</td><td>15</td><td>10.7.2008</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1653/2004**
+
+**of 21 September 2004**
+
+**on a standard financial regulation for the executive agencies pursuant to Council Regulation (EC) No 58/2003 laying down the statute for executive agencies to be entrusted with certain tasks in the management of Community programmes**
+
+## TITLE I — SUBJECT MATTER
+
+#### Article 1
+
+This regulation lays down the essential rules applicable to the establishment and execution of the operating budget (hereinafter the budget) of the agencies referred to in Regulation (EC) No 58/2003 (hereinafter the agencies or the agency).
+
+#### Article 2
+
+For any aspect relating to the operation of the executive agencies which is not expressly defined by this regulation, the provisions of Regulation (EC, Euratom) No 1605/2002 (hereinafter the general Financial Regulation) and Regulation (EC, Euratom) No 2342/2002 shall apply mutatis mutandis.
+
+## TITLE II — BUDGETARY PRINCIPLES
+
+#### Article 3
+
+The budget shall be established and implemented in compliance with the principles of unity and budget accuracy, annuality, equilibrium, unit of account, universality, specification, sound financial management which requires effective and efficient internal control, and transparency as set out in this Regulation.
+
+### CHAPTER 1 — Principle of unity and budget accuracy
+
+#### Article 4
+
+The budget shall be the instrument which, for each financial year, forecasts and authorises the revenue and expenditure considered necessary for the agency.
+
+#### Article 5
+
+The revenue of the agency shall comprise a grant awarded by the Communities and any other revenue, including assigned revenue within the meaning of Article 15.
+
+Expenditure shall comprise the administrative expenditure of the agency as well as, if applicable, expenditure financed by assigned revenue in accordance with the first paragraph.
+
+#### Article 6
+
+No revenue shall be collected and no expenditure effected unless booked to a line in the budget.
+
+An appropriation may not be entered in the budget if it is not for an item of expenditure considered necessary.
+
+No expenditure may be committed or authorised in excess of the appropriations authorised by the budget.
+
+### CHAPTER 2 — Principle of annuality
+
+#### Article 7
+
+The appropriations entered in the budget shall be authorised for one financial year which shall run from 1 January to 31 December.
+
+The appropriations entered in the budget shall be non-differentiated appropriations.
+
+Administrative expenditure arising from contracts covering periods that extend beyond the financial year, either in accordance with local practice or relating to the supply of equipment, shall be charged to the budget of the financial year in which it is effected.
+
+#### Article 8
+
+The agency's revenue shall be entered in the accounts for a financial year on the basis of the amounts collected during that year. It shall result in the same level of appropriations being made available.
+
+The appropriations authorised in the budget for a given year may be used solely to cover expenditure committed and paid in that financial year, and to cover amounts due against commitments from the previous financial year.
+
+#### Article 9
+
+Appropriations which have not been used at the end of the financial year for which they were entered shall be cancelled.
+
+Appropriations corresponding to obligations duly contracted at the close of the financial year shall be carried over automatically to the following financial year only. Appropriations carried over which have not been utilised by 31 March of year N+1 shall be automatically cancelled. Appropriations carried over in this way shall be identified in the accounts.
+
+Appropriations relating to staff expenditure may not be carried over.
+
+The appropriations available at 31 December arising from the assigned revenue referred to in Article 15 shall be carried over automatically. The appropriations available corresponding to assigned revenue carried over must be used first. By 1 June of the year N+1 at the latest, the agency shall inform the Commission of the implementation of the assigned revenues carried over.
+
+#### Article 10
+
+The appropriations entered in the budget may be committed with effect from 1 January, once the budget has become definitive.
+
+However, as from 15 November of each year, routine administrative expenditure may be committed in advance against the appropriations provided for the following financial year. Such commitments may not exceed one quarter of the appropriations decided by the management board on the corresponding budget line for the current financial year. They may not relate to new expenditure whose principle has not yet been acknowledged in the last budget duly adopted.
+
+Moreover, expenditure which must be paid in advance, for example rents, may give rise to payments from 1 December onwards to be charged to the appropriations for the following financial year.
+
+If the budget has not been adopted at the beginning of the financial year, the system of provisional twelfths laid down in the general Financial Regulation shall apply mutatis mutandis.
+
+### CHAPTER 3 — Principle of equilibrium
+
+#### Article 11
+
+Budget revenue and expenditure must balance. The agency may not raise loans.
+
+Appropriations may not exceed the amount of the Community subsidy referred to in Article 5, plus assigned revenue and any other revenue referred to in Article 5.
+
+#### Article 12
+
+If the balance of the outturn account within the meaning of Article 56 is positive, it shall be repaid to the Commission up to the amount of the subsidy paid during the year.
+
+The difference between the subsidy referred to in Article 5 and that actually paid to the agency shall be cancelled.
+
+### CHAPTER 4 — Principle of unit of account
+
+#### Article 13
+
+The budget shall be drawn up and implemented in euro and the accounts shall be presented in euro.
+
+However, for cash-flow purposes, the accounting officer of the executive agency may, in duly justified cases, carry out operations in national currencies and, where applicable, in the currencies of third countries.
+
+### CHAPTER 5 — Principle of universality
+
+#### Article 14
+
+Total revenue shall cover total expenditure, with the exception of revenue assigned to specific items of expenditure. All revenue and expenditure shall be entered in full without any adjustment against each other, subject to Article 16.
+
+#### Article 15
+
+Revenue earmarked for a specific purpose, such as income from foundations, subsidies, gifts and bequests, and revenue from the Member States, non-member countries or miscellaneous bodies for the implementation of programmes funded by sources other than the general budget of the European Communities (hereinafter the general budget), constitutes revenue assigned to specific items of expenditure.
+
+All assigned revenue must cover all direct or indirect expenditure incurred by the activity or purpose in question. The budget shall carry lines to accommodate the categories of assigned revenue and wherever possible shall indicate the amount.
+
+The management board shall decide, after obtaining the Commission’s agreement, if any gifts, bequests and subsidies from sources other than the Community may be accepted.
+
+#### Article 16
+
+The cost of products or services provided to the agency shall be charged to the budget for the full ex-tax amount, where they incorporate taxes refunded, either by the Member States pursuant to the Protocol on the Privileges and Immunities of the European Communities, or by a Member State or non-member country on the basis of other relevant agreements.
+
+Any national taxes temporarily borne by the agency under the first paragraph shall be entered in a suspense account until they are refunded by the State concerned. Any negative balance shall be entered in the budget as expenditure.
+
+### CHAPTER 6 — Principle of specification
+
+#### Article 17
+
+The appropriations in their entirety shall be earmarked for specific purposes by title and chapter; the chapters shall be further subdivided into articles and items.
+
+#### Article 18
+
+The director shall take decisions on transfers of appropriations within the operating budget. He shall inform the management board beforehand, which may oppose such transfers. After approval by the management board or in the absence of a reply within three weeks from the information being provided, the director may proceed with the planned transfers.
+
+Appropriations corresponding to assigned revenue may be transferred only if they are used for the purpose to which the revenue is assigned.
+
+### CHAPTER 7 — Principle of sound financial management
+
+#### Article 19
+
+1\. Budget appropriations shall be used in accordance with the principle of sound financial management, that is to say, in accordance with the principles of economy, efficiency and effectiveness.
+
+2\. The principle of economy requires that the resources used by the agency for the pursuit of its activities shall be made available in due time, in appropriate quantity and quality and at the best price.
+
+The principle of efficiency is concerned with the best relationship between resources employed and results achieved.
+
+The principle of effectiveness is concerned with attaining the specific objectives set and achieving the intended results. These results shall be evaluated.
+
+3\. The annual work programme of the executive agency adopted by the management board shall contain detailed objectives and performance indicators.
+
+#### Article 19a
+
+1\. The budget shall be implemented in compliance with effective and efficient internal control.
+
+2\. For the purpose of the implementation of the budget, internal control is defined as a process applicable at all levels of the management and designed to provide reasonable assurance of achieving the following objectives:
+
+(a) effectiveness, efficiency and economy of operations;
+
+(b) reliability of reporting;
+
+(c) safeguarding of assets and information;
+
+(d) prevention and detection of fraud and irregularities;
+
+(e) adequate management of the risks relating to the legality and regularity of the underlying transactions, taking into account the multiannual character of programmes as well as the nature of the payments concerned.
+
+### CHAPTER 8 — Principle of transparency
+
+#### Article 20
+
+The budget shall be drawn up and implemented and the accounts presented in compliance with the principle of transparency.
+
+The budget and amending budgets, as finally adopted, shall be transmitted for information to the budgetary authority, the Court of Auditors and the Commission and published on the Internet site of the agency concerned. A summary of the budgets and amending budgets shall be published in the Official Journal of the European Union within three months of their adoption.
+
+The summary shall show the five main revenue and the five main expenditure budget lines, the establishment plan and an estimate of the number of contract staff, expressed in full-time equivalents for which appropriations are budgeted, and seconded national experts. It shall also indicate the figures for the previous year.
+
+The agency shall make available on its Internet site information on the beneficiaries of funds deriving from its budget, including experts contracted pursuant to Article 50b. The publication shall be easily accessible, transparent and comprehensive. This information shall be made available with due observance of the requirements of confidentiality, in particular the protection of personal data as laid down in Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2001 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 4 ) and of the requirements of security.
+
+Where information is published only in anonymous form, the agency shall, upon request, provide information on the beneficiaries concerned to the European Parliament in an appropriate manner.
+
+## TITLE III — ESTABLISHMENT AND STRUCTURE OF THE BUDGET
+
+#### Article 21
+
+The agency shall send the Commission, by 5 March of each year at the latest, an estimate of its revenue and expenditure for the year N+1 drawn up by its director and adopted by the management board and the general guidelines underlying that estimate, together with its draft work programme.
+
+The agency’s estimate of revenue and expenditure shall include:
+
+(a) an establishment plan setting the number of temporary posts authorised within the limits of the budget appropriations, by grade and by category;
+
+(b) where there is a change in the number of persons in post, a statement justifying the request for new posts;
+
+(c) a quarterly estimate of cash payments and receipts;
+
+(d) the number of contract staff and seconded national experts working in the agency and the estimated number for the year N+1;
+
+(e) an estimation of assigned revenue;
+
+(f) information on the achievement of all previously set objectives of the various activities as well as new objectives measured by indicators;
+
+Evaluation results shall be consulted and referred to as evidence for the likely merits of an increase or decrease of the agency’s proposed operating budget in comparison with its operating budget for year N.
+
+#### Article 22
+
+The Commission, as part of the procedure for adopting the general budget, shall send the agency’s statement of estimates to the budgetary authority and propose the amount of the subsidy for the agency and the number of staff it considers that the agency needs. The Commission shall provide the draft establishment plan of the agency and an estimate of the number of contract staff expressed in full-time equivalent for which appropriations are proposed.
+
+The agency's operating budget may not be adopted definitively until the general budget of the European Union has been finally adopted in accordance with the procedure provided for in Article 13 of Regulation (EC) No 58/2003.
+
+The budgetary authority shall adopt the establishment plan of all the agencies and any subsequent amendment thereto in accordance with Article 24. The establishment plan shall be published in an Annex to Section III — Commission — of the general budget.
+
+Any amendment to the budget, including the establishment plan, shall be the subject of an amending budget adopted by the same procedure as the initial budget, subject to Articles 18 and 24.
+
+#### Article 23
+
+The budget shall comprise a statement of revenue and a statement of expenditure. It shall show:
+
+1\. in the statement of revenue:
+
+(a) the estimated revenue of the agency for the financial year in question;
+
+(b) the revenue for the preceding financial year and the revenue for year N-2, including assigned revenue;
+
+(c) appropriate remarks on each revenue line;
+
+2\. in the statement of expenditure:
+
+(a) appropriations for the financial year in question;
+
+(b) the appropriations for the preceding financial year and the appropriations for year N–2;
+
+(c) appropriate remarks on each subdivision.
+
+#### Article 24
+
+1\. The establishment plan referred to in Article 21 shall show next to the number of posts authorised for the financial year, the number authorised for the preceding year and the number of posts actually filled. It shall constitute an absolute limit for the agency; no appointment may be made in excess of the limit set.
+
+However, the management board may modify the establishment plan by up to 10 % of posts authorised below grade AD13  provided that this does not affect the volume of staff appropriations corresponding to a full financial year and remains within the limits of the total number of posts authorised by the establishment plan.
+
+2\. By way of derogation from paragraph 1, the effects of part-time work authorised by the appointing authority in accordance with the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities (hereinafter the Staff Regulations) may be offset by other appointments.
+
+## TITLE IV — IMPLEMENTATION OF THE BUDGET
+
+### CHAPTER 1 — General provisions
+
+#### Article 25
+
+The director shall perform the duties of authorising officer. He shall be an official subject to the Staff Regulations. He shall implement the budget in revenue and expenditure in accordance with this Regulation, on his own responsibility and within the limits of the appropriations authorised.
+
+Without prejudice to the responsibilities of the authorising officer as regards prevention and detection of fraud and irregularities, the agencies shall participate in fraud prevention activities of the European Anti-fraud Office.
+
+#### Article 26
+
+The director may delegate his powers of budget implementation to staff of the agency subject to the Staff Regulations. These members of staff may act only within the limits of the powers expressly conferred upon them.
+
+#### Article 27
+
+All financial actors within the meaning of Chapter 2 of this Title and any other person involved in budget implementation, management, audit or control shall be prohibited from taking any measures which may bring their own interests into conflict with those of the agency or of the Communities. Should such a case arise, the person in question must refrain from such measures and refer the matter to his superior. The director must refer it to the management board.
+
+There is a conflict of interests where the impartial and objective exercise of the functions of a financial actor in the implementation of the budget or an internal auditor is compromised for reasons involving family, emotional life, political or national affinity, economic interest or any other shared interest with the beneficiary.
+
+### CHAPTER 2 — Financial actors
+
+#### Article 28
+
+The duties of authorising officer and accounting officer shall be segregated and mutually incompatible.
+
+#### Article 29
+
+1\. The authorising officer shall be responsible for implementing revenue and expenditure in accordance with the principles of sound financial management and for ensuring that the requirements of legality and regularity are complied with. He shall conserve the supporting documents relating to operations carried out for a period of five years from the date of the decision granting discharge in respect of implementation of the budget. Personal data contained in supporting documents shall be deleted where possible when those data are not necessary for budgetary discharge, control and audit purposes. In any event, as concerns the conservation of traffic data, Article 37(2) of Regulation (EC) No 45/2001 shall apply.
+
+2\. The authorising officer shall put in place, in compliance with the minimum standards adopted by the Commission for its own departments and having due regard to the specific risks associated with his management environment and the nature of the action financed, the organisational structure and the internal management and control procedures suited to the performance of his duties, including where appropriate ex post verifications.
+
+Depending on the nature and scope of the duties, the authorising officer may establish within his departments an expertise and advice function designed to help him control the risks involved in his activities.
+
+Before an operation is authorised, the operational and financial aspects shall be verified by members of staff other than the one who initiated the operation.
+
+For the purpose of ex ante verification, a series of similar individual transactions relating to routine expenditure on salaries, pensions, reimbursement of mission expenses and medical expenses may be considered by the authorising officer responsible to constitute a single operation. In this case the authorising officer responsible shall, depending on his risk assessment, carry out appropriate ex post verification.
+
+Initiation and the ex ante and ex post verification of an operation shall be separate functions.
+
+3\. In accordance with Article 9(7) of Regulation (EC) No 58/2003, the authorising officer shall report, by 15 March each year, to the management board on the performance of his duties in the form of an annual activity report together with financial and management information confirming that the information contained in the report presents a true and fair view except as otherwise specified in any reservations related to defined areas of revenue and expenditure.
+
+#### Article 30
+
+1\. The management board shall appoint an accounting officer, who shall be a seconded official or a member of the temporary staff directly recruited by the agency and who shall be responsible for the following:
+
+(a) proper implementation of payments, collection of revenue and recovery of amounts established as being receivable;
+
+(b) drawing up the agency’s accounts in accordance with Title VI;
+
+(c) keeping the accounts in accordance with Title VI;
+
+(d) implementing the accounting rules and methods and the chart of accounts in accordance with the provisions adopted by the Commission's accounting officer;
+
+(e) laying down and validating the accounting system and, where appropriate, validating systems laid down by the authorising officer to supply or justify accounting information; the accounting officer shall be empowered to verify that validation criteria are respected;
+
+(f) treasury management.
+
+2\. Before the approval of the accounts by the management board, the accounting officer shall sign them off, thereby certifying that he has a reasonable assurance that the accounts present a true and fair view of the financial situation of the agency.
+
+For that purpose, the accounting officer shall satisfy himself that the accounts have been prepared in accordance with the accounting rules, methods and accounting systems established, and that all revenue and expenditure is entered in the accounts.
+
+The authorising officer shall forward all information that the accounting officer needs in order to fulfil his duties.
+
+The authorising officer shall remain fully responsible for the proper use of the funds he manages as well as the legality and regularity of the expenditure under his control.
+
+The accounting officer shall be empowered to check the information received as well as to carry out any further checks he deems necessary in order to sign off the accounts.
+
+The accounting officer shall make reservations, if necessary, explaining exactly the nature and scope of such reservations.
+
+The accounting officer shall obtain from the authorising officer, who shall guarantee its reliability, all the information necessary for the production of accounts which give a true image of the agency's assets and of budget implementation.
+
+3\. Save as otherwise provided in this Regulation, only the accounting officer is empowered to manage cash and cash equivalents. He shall be responsible for their safekeeping.
+
+#### Article 30a
+
+The accounting officer may, in the performance of his duties, delegate certain tasks to his subordinates who are temporary staff members.
+
+### CHAPTER 3 — Liability of the financial actors
+
+#### Article 31
+
+Any member of staff involved in the financial management and control of transactions who considers that a decision he is required by his superior to apply or to agree to is irregular or contrary to the principles of sound financial management or the professional rules he is required to observe shall inform the director in writing and, if the latter fails to take action within a reasonable period, the panel referred to in Article 35 and the management board. In the event of any illegal activity, fraud or corruption which may harm the interests of the Community, he shall inform the authorities and bodies designated by the applicable legislation.
+
+#### Article 32
+
+Without prejudice to any disciplinary action, authorising officers by delegation may at any time have their delegation withdrawn temporarily or definitively by the authority which appointed them, by a reasoned decision and after having been heard. The director may at any time withdraw his agreement to a specific delegation.
+
+Without prejudice to any disciplinary action, the accounting officer may at any time be suspended temporarily or definitively from his duties by the management board, by a reasoned decision and after having been heard. The management board shall appoint an interim accounting officer.
+
+#### Article 33
+
+The provisions of this chapter are without prejudice to the criminal-law liability which the authorising officer and his delegates may incur as provided in the applicable national law and in the provisions in force on the protection of the Communities' financial interests and on the fight against corruption involving officials of the Communities or officials of Member States.
+
+Every authorising officer and accounting officer shall be liable to disciplinary action and payment of compensation as laid down in the Staff Regulations. In the event of illegal activity, fraud or corruption which may harm the interests of the Community, the matter will be referred to the authorities and bodies designated by the applicable legislation.
+
+#### Article 34
+
+1\. The authorising officer shall be liable to payment of compensation as laid down in the Staff Regulations.
+
+1a. The obligation to pay compensation shall apply in particular if:
+
+(a) the authorising officer, whether intentionally or through gross negligence on his part, determines entitlements to be recovered or issues recovery orders, commits expenditure or signs a payment order without complying with this Regulation;
+
+(b) the authorising officer, whether intentionally or through gross negligence on his part, omits to draw up a document establishing an amount receivable, neglects to issue a recovery order or is late in issuing it or is late in issuing a payment order, thereby rendering the agency liable to civil action by third parties.
+
+2\. An authorising officer by delegation who considers that a decision falling under his responsibility is irregular or contrary to the principles of sound financial management shall inform the delegating authority in writing. If the delegating authority then gives a reasoned instruction in writing to the authorising officer by delegation to implement the decision in question, the latter must implement it and may not be held liable.
+
+#### Article 35
+
+1\. The panel set up by the Commission to determine whether a financial irregularity has occurred and what the consequences, if any, should be, in accordance with Article 66(4) of the general Financial Regulation, may exercise the same powers in respect of the agency as it does in respect of Commission departments.
+
+On the basis of the opinion of this panel, the director shall decide whether to initiate disciplinary proceedings or proceedings for the payment of compensation. If the panel detects systemic problems, it shall send a report with recommendations to the authorising officer and to the Commission's internal auditor. If the opinion implicates the director, the panel shall send it to the management board and the Commission's internal auditor.
+
+The director shall refer, in anonymous form, to opinions of the panel in his annual activity report and indicate the follow-up measures taken.
+
+2\. Any member of staff may be required to make good, in whole or in part, any damage suffered by the agency as a result of serious misconduct on his part in the course of or in connection with the performance of his duties. The appointing authority shall take a reasoned decision, after completing the formalities laid down by the Staff Regulations with regard to disciplinary matters.
+
+#### Article 36
+
+An accounting officer may be liable to disciplinary action and payment of compensation, as laid down in the Staff Regulations, in particular where:
+
+(a) he/she loses or damages monies, assets and documents in his/her keeping or causes them to be lost or damaged by his negligence;
+
+(b) he/she alters bank accounts or postal giro accounts without notifying the authorising officer in advance;
+
+(c) he/she recovers or pays amounts which are not in conformity with the corresponding recovery or payment orders;
+
+(d) he/she fails to collect revenue due.
+
+### CHAPTER 4 — Revenue operations
+
+#### Article 37
+
+An estimate of the amount receivable shall first be made by the authorising officer responsible in respect of any measure or situation which may give rise to or modify an amount owing to the agency.
+
+#### Article 38
+
+Establishment of an amount receivable is the act by which the authorising officer:
+
+(a) verifies that the debt exists;
+
+(b) determines or verifies the reality and the amount of the debt;
+
+(c) verifies the conditions in which the debt is due.
+
+Any amount receivable that is identified as being certain, of a fixed amount and due must be established by a recovery order given to the accounting officer, accompanied by a debit note sent to the debtor. Both of these documents shall be drawn up and sent by the authorising officer responsible.
+
+The contracts concluded by the agency with economic operators shall provide that any debt not repaid on the due date laid down in the debit note shall bear interest in accordance with Commission Regulation (EC, Euratom) No 2342/2002 ( 5 ). The condition whereby interest on late payment is due to the agency, including the rate for default interest, shall be explicitly referred to in the contracts.
+
+#### Article 39
+
+The authorisation of recovery is the act whereby the authorising officer responsible instructs the accounting officer, by issuing a recovery order, to recover an amount receivable which he has established.
+
+The accounting officer shall act on recovery orders for amounts receivable duly established by the authorising officer or authorising officer responsible. He shall exercise due diligence to ensure that the agency receives its revenue and shall see that its rights are safeguarded.
+
+Amounts wrongly paid shall be recovered.
+
+#### Article 40
+
+Where the authorising officer responsible is planning to waive or partially waive recovery of an established amount receivable, he shall ensure that the waiver is in order and complies with the principle of sound financial management and proportionality. He shall report his intention to waive an established amount receivable to the management board. Such a waiver shall be by decision of the authorising officer, which must be substantiated. The authorising officer may delegate this decision only for amounts receivable of less than EUR 5 000 . The waiver decision shall state what action has been taken to secure recovery and the points of law and fact on which it is based.
+
+The authorising officer responsible shall cancel an established amount receivable when the discovery of a mistake as to a point of law or fact reveals that the amount had not been correctly established. The authorising officer may delegate this decision only for amounts receivable of less than EUR 5 000 . Such cancellation shall be by decision of the authorising officer responsible and shall be suitably substantiated.
+
+The authorising officer responsible shall adjust the amount of an established debt upwards or downwards when the discovery of a factual error entails the alteration of the amount of the debt, provided that this correction does not involve the loss of the agency's established entitlement. Such an adjustment shall be by decision of the authorising officer responsible and shall be suitably substantiated.
+
+#### Article 41
+
+Upon actual recovery of the sum due, the accounting officer shall make an entry in the accounts and shall inform the authorising officer responsible. A receipt shall be issued in respect of all cash payments made to the accounting officer.
+
+If actual recovery has not taken place by the due date stipulated in the debit note, the accounting officer shall inform the authorising officer responsible and immediately launch the procedure for effecting recovery by any means offered by the law, including, where appropriate, by offsetting and, if this is not possible, by enforced recovery.
+
+The accounting officer shall recover claims that the agency has on any debtor who himself has a claim on the agency that is certain, of a fixed amount and due by offsetting the equivalent amounts.
+
+#### Article 42
+
+Further time for payment may be granted by the accounting officer, in liaison with the authorising officer responsible, only on written request, with due indication of the reasons, provided that the debtor undertakes to pay interest for the entire period of time allowed, starting from the date set in the debit note and that, in order to safeguard the rights of the agency, he provides a financial guarantee covering both the principal sum and the interest.
+
+#### Article 42a
+
+The accounting officer shall keep a list of amounts due to be recovered. Entitlements of the agency shall be grouped in the list according to the date of issue of the recovery order. He shall also indicate decisions to waive or partially waive recovery of established amounts receivable. The list shall be added to the report on budgetary and financial management of the agency. The agency shall establish a list of the entitlements of the agency relating to its administrative budget, stating the names of the debtors and the amount of the debt, where the debtor has been ordered to pay by a Court decision that has the force of res judicata and where no or no significant payment has been made for one year following its pronouncement. The list shall be published, taking account of the relevant legislation on data protection.
+
+#### Article 42b
+
+Entitlements of the agency in respect of third parties and entitlements of third parties in respect of the agency shall be subject to a limitation period of five years. The limitation period shall be laid down in the contracts concluded by the agency.
+
+### CHAPTER 5 — Expenditure operations
+
+#### Article 43
+
+Every item of expenditure shall be committed, validated, authorised and paid.
+
+#### Article 44
+
+In respect of any measure which may give rise to expenditure chargeable to the budget, the authorising officer responsible must first make a budgetary commitment before entering into a legal obligation with third parties.
+
+The individual legal commitments relating to individual or provisional budget commitments shall be concluded by 31 December of year N at the latest. The unused balance of these budget commitments shall be decommitted by the authorising officer responsible.
+
+#### Article 45
+
+When a budget commitment is adopted, the authorising officer responsible shall ensure that the expenditure has been charged to the correct item in the budget, that the appropriations are available and that the expenditure conforms to the relevant provisions, including compliance with the principle of sound financial management.
+
+#### Article 46
+
+Validation of expenditure is the act whereby the authorising officer responsible verifies the existence of the creditor's entitlement, verifies the conditions under which payment falls due and determines or verifies the reality and the amount of the claim. The validation of any expenditure shall be based on supporting documents certifying the creditor's entitlement.
+
+The validation decision shall be expressed by the signing of a passed for payment voucher by the authorising officer responsible. In a non-computerised system, ‘passed for payment’ shall take the form of a stamp incorporating the signature of the authorising officer responsible. In a computerised system, passed for payment shall take the form of validation using the personal password of the authorising officer responsible.
+
+#### Article 47
+
+Authorisation of expenditure is the act whereby the authorising officer responsible, by issuing a payment order, instructs the accounting officer to pay an item of expenditure which he has validated. The payment order shall be dated and signed by the authorising officer responsible and, where appropriate, it shall be accompanied by a document certifying that the goods have been entered in the inventories referred to in Article 64.
+
+Where periodic payments are made with regard to services rendered or goods delivered, and subject to his risk analysis, the authorising officer may order the application of a direct debit system.
+
+Payment of expenditure shall be made by the accounting officer within the limits of the funds available.
+
+#### Article 48
+
+The validation, authorisation and payment of expenditure must be carried out within the time limits specified in, and in accordance with the provisions of, the general Financial Regulation and its implementing rules.
+
+### CHAPTER 6 — Internal auditor
+
+#### Article 49
+
+The role of internal auditor in the executive agencies shall be exercised by the Commission's internal auditor.
+
+The Commission's internal auditor shall exercise the same powers over the executive agencies as over Commission departments under Articles 85 and 86 of the general Financial Regulation. He shall report to the management board and the director on his findings and recommendations. They shall ensure that action is taken on recommendations resulting from audits and inform the Commission. The internal auditor shall indicate, in his annual report submitted to the Commission pursuant to Article 86(3) of the general Financial Regulation, the number and type of audits carried out relating to agencies, the recommendations made and the action taken pursuant to these recommendations. That information shall also be submitted to the agency concerned.
+
+The internal auditor's liability in the exercise of his duties shall be determined in accordance with Article 87 of the general Financial Regulation.
+
+Every year the director shall draw up a report summarising the number and type of internal audits carried out by the internal auditor, the recommendations made and the follow-up given to those recommendations. He shall transmit the report to the Commission after prior information of the management board. The Commission shall include this report in its report pursuant to Article 86(4) of the general Financial Regulation.
+
+## TITLE V — PROCUREMENT
+
+#### Article 50
+
+1\. As regards procurement for the operation of the agency, the provisions of the general Financial Regulation and Regulation (EC, Euratom) No 2342/2002 shall apply subject to paragraphs 3 to 5 of this Article.
+
+2\. Agencies may ask to be associated, as contracting authority, with the award of Commission or interinstitutional contracts.
+
+3\. Where the Commission, interinstitutional offices or the Translation Centre are able to supply goods, provide services or perform work, the agencies shall first have recourse to such bodies. The same shall apply where such bodies are able to carry out these tasks via contracts with economic operators, and deliver significant additional services going beyond those of a simple intermediary or consultant. The agency shall conclude agreements with such bodies.
+
+4\. For the application of Article 101 of the general Financial Regulation, the call for tender shall provide that the agency may, before the contract is signed, either abandon the procurement or cancel the award procedure without the candidates or tenderers being entitled to claim any compensation.
+
+5\. For the application of Article 103 of the general Financial Regulation, calls for tender launched by the agency shall provide that it may suspend the procedure and may take whatever measures are necessary, including cancellation of the procedure under the conditions laid down in that Article.
+
+For the application of Article 103 of the general Financial Regulation, the contracts concluded by the agency shall stipulate that it may take the measures specified in that Article under the conditions laid down therein.
+
+## TITLE VA — PROJECTS WITH SIGNIFICANT BUDGET IMPLICATIONS
+
+#### Article 50a
+
+The management board shall, as soon as possible, inform the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of its operating budget, in particular any projects relating to property such as the rental or purchase of buildings. It shall inform the Commission thereof.
+
+If either branch of the budgetary authority intends to issue an opinion, it shall within two weeks after receipt of the information on the project notify the agency concerned of its intention to issue such an opinion. Failing a reply, the agency may proceed with the planned operation.
+
+This opinion shall be forwarded to the agency concerned and the Commission within two weeks of the notification pursuant to the second paragraph.
+
+## TITLE VB — EXPERTS
+
+#### Article 50b
+
+Article 265a of Regulation (EC, Euratom) No 2342/2002 shall apply mutatis mutandis for the selection of experts, to be paid on the basis of a fixed amount, for assisting the agency, in particular in evaluating proposals and grant applications or tenders for procurement, and for providing technical assistance in the follow-up to, and final evaluation of projects. The agencies may also use the lists of experts drawn up by the Commission.
+
+## TITLE VI — PRESENTATION OF THE ACCOUNTS AND ACCOUNTING
+
+### CHAPTER 1 — Presentation of the accounts
+
+#### Article 51
+
+The accounts of the agency shall comprise the financial statements and the reports on budget implementation. They shall be accompanied by a report on budgetary and financial management during the year, which shall give an account, inter alia, of the rate of implementation of the appropriations together with summary information on the transfers of appropriations among the various budget items.
+
+#### Article 52
+
+The accounts must comply with the rules and be accurate and comprehensive and present a true and fair view:
+
+(a) as regards the financial statements, of the assets and liabilities, charges and income, entitlements and obligations not shown as assets or liabilities, and cash flow;
+
+(b) as regards reports on budget implementation, of revenue and expenditure operations.
+
+#### Article 53
+
+The financial statements shall be drawn up in accordance with the generally accepted accounting principles specified in Regulation (EC, Euratom) No 2342/2002, namely: going concern basis, prudence, consistent accounting methods, comparability of information, materiality, no netting, reality over appearance, accrual-based accounting.
+
+#### Article 54
+
+In accordance with the principle of accrual-based accounting, the financial statements shall show the charges and income for the financial year, regardless of the date of payment or collection.
+
+The value of assets and liabilities shall be determined in accordance with the valuation rules laid down by the accounting methods referred to in Article 59.
+
+#### Article 55
+
+The financial statements shall be presented in euro and shall comprise:
+
+(a) the balance sheet and the economic outturn account, which represent the assets and liabilities and financial situation and the economic outturn at 31 December of the previous year; they shall be presented in accordance with the structure laid down by the Council Directive on the annual accounts of certain types of companies, but with account being taken of the specific nature of the agency's activities;
+
+(b) the cash-flow table showing amounts collected and disbursed during the year and the final treasury position;
+
+(c) the statement of changes in capital presenting in detail the increases and decreases during the year in each item of the capital accounts.
+
+The Annex to the financial statements shall supplement and comment on the information presented and shall supply all the additional information prescribed by internationally accepted accounting practice where such information is relevant to the agency's activities.
+
+#### Article 56
+
+The budget implementation reports shall be presented in euro. They shall comprise:
+
+(a) the budget outturn account, which sets out all budget operations for the year in terms of revenue and expenditure; the structure in which it is presented shall be the same as that of the budget itself;
+
+(b) the annex to the budget outturn account, which shall supplement and comment on the information given in that account.
+
+#### Article 57
+
+The agency's accounts shall be consolidated with those of the Commission, in accordance with the procedure provided for in Article 14 of Regulation (EC) No 58/2003 and in accordance with the following provisions:
+
+(a) the management board shall notify, by 1 March following the end of the financial year, the accounting officer of the Commission and the Court of Auditors of the provisional accounts accompanied by the report on the budgetary and financial management during the year and shall send the report on budgetary and financial management to the European Parliament and the Council by the same date;
+
+(b) the management board shall approve, on the basis of the draft drawn up by the director, the final accounts of the agency and shall send them to the accounting officer of the Commission and to the Court of Auditors, the European Parliament and the Council, by 1 July of the following year at the latest;
+
+(c) the final accounts of the agency, consolidated with those of the Commission, shall be published in the Official Journal of the European Union by 15 November  of the following financial year;
+
+(d) the director shall send the Court of Auditors a reply to any observations made in the report referred to in Article 14(3) of Regulation (EC) No 58/2003 by 30 September at the latest.
+
+### CHAPTER 2 — Accounting
+
+#### Article 58
+
+1\. The agency's accounting system is the system serving to organise the budgetary and financial information in such a way that figures can be input, filed and registered.
+
+The accounts shall consist of general accounts and budget accounts. These accounts shall be kept in euro on the basis of the calendar year.
+
+The figures in the general accounts and the budget accounts shall be adopted at the close of the budget year so that the accounts referred to in Chapter 1 can be drawn up.
+
+2\. Notwithstanding paragraph 1, the authorising officer may keep analytical accounts.
+
+#### Article 59
+
+The accounting rules and methods and the harmonised chart of accounts to be applied by the agency shall be adopted by the Commission's accounting officer, in accordance with Article 133 of the general Financial Regulation.
+
+#### Article 60
+
+The general accounts shall record, in chronological order using the double entry method, all events and operations which affect the economic and financial situation and the assets and liabilities of the agency.
+
+#### Article 61
+
+Movements on the accounts and the balances shall be entered in the accounting ledgers.
+
+All accounting entries, including adjustments to the accounts, shall be based on supporting documents, to which they shall refer. The accounting system must be such as to leave a trail for all accounting entries.
+
+#### Article 62
+
+The accounting officer of the agency shall, after the close of the budget year and up to the date of presentation of the final accounts, make any adjustments which, without involving disbursement or collection in respect of that year, are necessary for a true and fair presentation of the accounts in compliance with the rules.
+
+#### Article 63
+
+The budget accounts shall provide a detailed record of budget implementation. The budget accounts shall record all budget revenue and expenditure operations provided for in Title IV.
+
+#### Article 64
+
+The agency's accounting officer shall keep inventories showing the quantity and value of all the agency's tangible, intangible and financial assets in accordance with a model drawn up by the accounting officer of the Commission. The agency's accounting officer shall check that entries in the inventory correspond to the actual situation.
+
+The sale of movable property shall be advertised in an appropriate manner.
+
+## TITLE VII — EXTERNAL AUDIT AND DISCHARGE
+
+#### Article 65
+
+The Court of Auditors shall scrutinise the agency's accounts in accordance with Article 248 of the EC Treaty.
+
+The scrutiny carried out by the Court of Auditors shall be governed by Articles 139 to 144 of the general Financial Regulation.
+
+The management board shall send the Court of Auditors the budget, as finally adopted. It shall inform the Court of Auditors, as soon as possible, of all decisions and acts adopted pursuant to Articles 15, 18, 26 and 31.
+
+#### Article 66
+
+The European Parliament, upon recommendation from the Council, which shall decide by qualified majority, shall give a discharge to the director in respect of the implementation of the administrative budget for year N before 15 May of year N+2. The director shall inform the management board of the observations of the European Parliament contained in the resolution accompanying the discharge procedure.
+
+The discharge decision shall cover the accounts of all the agency's revenue and expenditure, the resulting balance and the assets and liabilities of the agency shown in the balance sheet. Discharge shall be granted concomitantly with that relating to the implementation of the general budget of the European Union.
+
+With a view to granting the discharge, the European Parliament shall, after the Council has done so, examine the financial statements and reports on budget implementation of the agency. It shall also examine the report of the Court of Auditors referred to in Article 14(3) of Regulation (EC) No 58/2003, together with the replies of the director.
+
+The director shall submit to the European Parliament, at the latter's request, in the same manner as provided for in Article 146(3) of the general Financial Regulation, any information required for the smooth application of the discharge procedure for the year in question.
+
+#### Article 67
+
+The director and the Commission shall take all appropriate steps to act on the observations accompanying the European Parliament's discharge decision and on the comments accompanying the recommendation for discharge adopted by the Council.
+
+At the request of the European Parliament or the Council, the director shall report on the measures taken in the light of these observations and comments. After first sending the report to the Commission, he shall send a copy to the Court of Auditors.
+
+## TITLE VIII — TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 69
+
+The European Parliament, the Council and the Commission shall be empowered to obtain any necessary information or explanations regarding budgetary matters within their fields of competence.
+
+#### Article 70
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 11, 16.1.2003, p. 1.
+
+( 2 ) OJ L 248, 16.9.2002, p. 1.
+
+( 3 ) OJ L 357, 31.12.2002, p. 1.
+
+( 4 ) OJ L 8, 12.1.2001, p. 1.
+
+( 5 ) OJ L 357, 31.12.2002, p. 1.

@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘332</td><td>Etridiazole CAS No: 2593-15-9  CIPAC No: 518 </td><td>ethyl-3-trichloromethyl-1,2,4-thiadiazol-5-yl ether</td><td>≥ 970 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide in non-soil bound systems in greenhouse may be authorised.  PART B  In assessing applications to authorise plant protection products containing etridiazole for uses other than on ornamental plants, Member States shall pay particular attention to the criteria in Article 4(1)(b), and shall ensure that any necessary information is provided before such an authorisation is granted.  For the implementation of the uniform principles of Annex VI the conclusions of the review report on etridiazole, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 January 2011, shall be taken into account.  In this overall assessment Member States shall: <table><tbody><tr><td>1.</td><td>pay particular attention to the risk to operators and workers and ensure that conditions of use include the application of appropriate risk mitigation measures;</td></tr>
 </tbody>
@@ -154,5 +155,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in points 1, 2 and 3 by 1 December 2011 and the information set out in points 4, 5 and 6 by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

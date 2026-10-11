@@ -1,0 +1,3184 @@
+---
+title: "Commission Regulation (EU) No 321/2013 of 13 March 2013 concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC Text with EEA relevance"
+identifier: "32013R0321"
+eli: "http://data.europa.eu/eli/reg/2013/321/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-03-13
+entry_into_force: 2013-04-06
+last_amended: 2025-11-04
+consolidated_version: "02013R0321-20251104"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0321-20251104"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 321/2013 of 13 March 2013 concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 321/2013**
+
+**of 13 March 2013**
+
+**concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1236/2013 of 2 December 2013 </td><td> L 322</td><td>23</td><td>3.12.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/924 of 8 June 2015 </td><td> L 150</td><td>10</td><td>17.6.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/776 of 16 May 2019 </td><td> L 139I</td><td>108</td><td>27.5.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/387 of 9 March 2020 </td><td> L 73</td><td>6</td><td>10.3.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1694 of 10 August 2023 </td><td> L 222</td><td>88</td><td>8.9.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2064 of 14 October 2025 </td><td> L 2064</td><td>1</td><td>15.10.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 321/2013**
+
+**of 13 March 2013**
+
+**concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+The technical specification for interoperability (TSI) relating to the ‘rolling stock — freight wagons’ subsystem of the entire European Union’s rail system, as set out in the Annex, is hereby adopted.
+
+## Article 2
+
+1\. The TSI shall apply to the ‘rolling stock — freight wagons’ subsystem as described in point 2.7 of Annex II to Directive (EU) 2016/797 of the European Parliament and of the Council ( 1 )  .
+
+2\. The TSI shall apply to freight wagons with a maximum operating speed lower than or equal to 160 km/h and a maximum axle load lower than or equal to 25 t.
+
+3\. The TSI shall apply to freight wagons which are intended to be operated on one or more of the following nominal track gauges: 1 435 mm, 1 524 mm, 1 600 mm, and 1 668 mm. The TSI shall not apply to freight wagons operating mainly on the 1 520 mm track gauge, which may occasionally be operated on 1 524 mm track gauge.
+
+## Article 3
+
+The TSI shall apply to all new freight wagon rolling stock of the European Union’s rail system, taking into account Section 7 of the Annex.
+
+The TSI set out in the Annex shall also apply to existing freight wagon rolling stock:
+
+(a) when it is renewed and upgraded in accordance with section 7.2.2 of the Annex to this Regulation;
+
+(b) with regard to specific provisions, such as the traceability of axles in point 4.2.3.6.4 and the maintenance plan in point 4.5.3;
+
+(c) with regards to the marking ‘GE’ as depicted in point 5 of Appendix C of the Annex, wagons of the existing fleet which have been authorised in accordance with Commission Decision 2006/861/EC as amended by Decision 2009/107/EC or with Decision 2006/861/EC as amended by Decisions 2009/107/EC and 2012/464/EU and meeting the conditions set out in point 7.6.4 of Decision 2009/107/EC may receive this marking ‘GE’ without any additional third party assessment or new authorisation for placing on the market. The use of this marking in wagons in operation remains under the responsibility of the railway undertakings;
+
+(d) when the area of use is extended in accordance with art. 54(3) of Directive (EU) 2016/797, provisions in Section 7.2.2.4 of the Annex to this Regulation shall apply.
+
+The detailed technical scope of this Regulation is set out in Chapter 2 of the Annex.
+
+## Article 4 — Not used.
+
+## Article 5
+
+1\. With regard to specific cases set out in Section 7.3 of the Annex, the conditions to be met for the verification of the essential requirements of Directive (EU) 2016/797 shall be those laid down in Section 7.3 of the Annex or by national rules in force in the Member State which is part of the area of use of the vehicles covered by this Regulation.
+
+2\. Within six months of the entry into force of this Regulation, each Member State shall notify to the other Member States and to the Commission:
+
+(a) the applicable technical rules referred to in paragraph 1;
+
+(b) the conformity assessment and verification procedures to be carried out to apply the technical rules referred to in paragraph 1;
+
+(c) the bodies designated to carry out the conformity assessment and verification procedures for the national rules relating to the specific cases set out in point 7.3 of the Annex.
+
+## Article 6
+
+1\. Without prejudice to the agreements which have already been notified under Decision 2006/861/EC and shall not be notified again, Member States shall notify the Commission, within six months of the entry into force of this Regulation, any national, bilateral, multilateral or international agreements under which freight wagons, falling under the scope of this Regulation, are operated.
+
+2\. Member States shall forthwith notify the Commission any future agreements or modifications of existing agreements.
+
+## Article 7
+
+In accordance with Article 9(3) of Directive 2008/57/EC, within one year of the entry into force of this Regulation, each Member State shall communicate to the Commission a list of projects being implemented within its territory and that are at an advanced stage of development.
+
+## Article 8
+
+1\. An EC certificate of verification for a subsystem that contains interoperability constituents which do not have an EC declaration of conformity or suitability for use may be issued during a transition period ending on 1 January 2024, provided the provisions set out in Section 6.3 of the Annex are met.
+
+2\. The production or upgrade/renewal of the subsystem using non-certified interoperability constituents shall be completed within the transition period set out in paragraph 1, including placing on the market.
+
+3\. During the transition period set out in paragraph 1:
+
+(a) the reasons for non-certification of any interoperability constituents shall be properly identified in the verification procedure referred to in paragraph 1;
+
+(b) the national safety authorities shall report on the use of non-certified interoperability constituents in the context of authorisation procedures in their annual report referred to in Article 19 of Directive (EU) 2016/798 of the European Parliament and of the Council ( 2 )  .
+
+4\. After a transition period ending on 1 January 2015, newly produced interoperability constituents of ‘rear-end signals’, shall be covered by the required EC declaration of conformity.
+
+## Article 8a
+
+1\. Notwithstanding the provisions in Section 6.3 of the Annex, an EC certificate of verification may be issued for a subsystem containing components corresponding to the ‘friction element for wheel tread brakes’ interoperability constituent that does not have an EC declaration of conformity during a transition period ending on 1 January 2024, if the following conditions are met:
+
+(a) the component was manufactured before the date of application of this Regulation; and
+
+(b) the interoperability constituent has been used in a subsystem that had been approved and placed on the market in at least one Member State before the date of application of this Regulation.
+
+2\. The production, upgrade or renewal of any subsystem using non-certified interoperability constituents shall be completed, including granting authorisation for placing on the market, before the transition period set out in paragraph 1 expires.
+
+3\. During the transition period set out in paragraph 1:
+
+(a) the reasons for non-certification of any interoperability constituents shall be properly identified in the verification procedure for the subsystem referred to in paragraph 1; and
+
+(b) national safety authorities shall report in their annual report, as referred to in Article 19 of Directive (EU) 2016/798  , on the use of non-certified ‘friction element for wheel tread brakes’ interoperability constituents in the context of authorisation procedures.
+
+## Article 8b
+
+1\. Until the expiry of their current approval period, ‘friction element for wheel tread brakes’ interoperability constituents listed in Appendix G of the Annex do not need to be covered by an EC declaration of conformity. During this period, ‘friction elements for wheel tread brakes’ listed in Appendix G of the Annex shall be deemed to be compliant with this Regulation.
+
+2\. After their current approval period expires, ‘friction element for wheel tread brakes’ interoperability constituents listed in Appendix G of the Annex shall be covered by EC declaration of conformity.
+
+## Article 8c
+
+1\. Notwithstanding the provisions in Section 6.3 of the Annex, an EC certificate of verification may be issued for a subsystem containing components corresponding to the ‘friction element for wheel tread brakes’ interoperability constituent that does not have an EC declaration of conformity during a transition period of 10 years after the expiry of the approval period of the interoperability constituent, if the following conditions are met:
+
+(a) the component was manufactured before the expiry of the approval period of the interoperability constituent; and
+
+(b) the interoperability constituent has been used in a subsystem that had been approved and placed on the market in at least one Member State before the expiry of its approval period.
+
+2\. The production, upgrade or renewal of any subsystem using non-certified interoperability constituents shall be completed, including granting authorisation for placing on the market, before the transition period set out in paragraph 1 expires.
+
+3\. During the transition period set out in paragraph 1:
+
+(a) the reasons for non-certification of any interoperability constituents shall be properly identified in the verification procedure for the subsystem referred to in paragraph 1; and
+
+(b) the national safety authorities shall report in their annual report, as referred to in Article 19 of Directive (EU) 2016/798  , on the use of non-certified ‘friction element for wheel tread brakes’ interoperability constituents in the context of authorisation procedures.
+
+## Article 9
+
+The declaration of verification and/or conformity to type of a new vehicle established in accordance with Decision 2006/861/EC shall be considered valid until the end of a transition period ending on 1 January 2017.
+
+## Article 10
+
+1\. The Agency shall publish on its website the list of fully approved composite brake blocks for international transport referred to in Appendix G of the Annex, for the period in which these brake blocks are not covered by EC declarations.
+
+2\. The Agency shall keep the list referred to in paragraph 1 up to date and inform the Commission of any changes to it. The Commission shall inform the Member States of any changes to the list through the Committee established in accordance with Article 29 of Directive 2008/57/EC.
+
+## Article 10a
+
+1\. In order to keep pace with technological progress, innovative solutions may be required that do not comply with the specifications set out in the Annex and/or for which the assessment methods set out in the Annex cannot be applied. In that case, new specifications and/or new assessment methods associated with those innovative solutions shall be developed.
+
+2\. Innovative solutions may be related to the ‘rolling stock — freight wagons’ subsystem, its parts and its interoperability constituents.
+
+3\. If an innovative solution is proposed, the manufacturer or his authorised representative established within the Union shall declare how it deviates from or complements the relevant provisions of this TSI and shall submit the deviations to the Commission for analysis.
+
+4\. The Commission shall deliver an opinion on the innovative solution proposed. If this opinion is positive, the appropriate functional and interface specifications and the assessment method, which must be included in the TSI in order to allow the use of this innovative solution, shall be developed and subsequently integrated in the TSI during the revision process carried out pursuant to Article 5 of Directive (EU) 2016/797  . If the opinion is negative, the innovative solution proposed shall not be applied.
+
+5\. Pending the review of the TSI, the positive opinion delivered by the Commission shall be considered an acceptable means of compliance with the essential requirements of Directive (EU) 2016/797  and may therefore be used for the assessment of the subsystem.
+
+## Article 11
+
+Decision 2006/861/EC is repealed with effect from 1 January 2014.
+
+It shall continue to apply, however, to the maintenance of projects authorised in accordance with that Decision and, unless the applicant requests to apply this Regulation, to projects for new, renewed or upgraded subsystems which are at an advanced stage of development or are the subject of a contract which is being carried out on the date this Regulation is published.
+
+## Article 12
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014. However, an authorisation for placing into service may be granted in application of the TSI as set out in the Annex to this Regulation, except its Section 7.1.2, before 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Technical specification for interoperability for the ‘rolling stock — wagons’ subsystem**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>1.</td><td>Introduction</td></tr>
+<tr><td>1.1.</td><td>Technical scope</td></tr>
+<tr><td>1.2.</td><td>Geographical scope</td></tr>
+<tr><td>1.3.</td><td>Content of this TSI</td></tr>
+<tr><td>2.</td><td>Scope and definition of subsystem</td></tr>
+<tr><td>3.</td><td>Essential requirements</td></tr>
+<tr><td>4.</td><td>Characterisation of the subsystem</td></tr>
+<tr><td>4.1.</td><td>Introduction</td></tr>
+<tr><td>4.2.</td><td>Functional and technical specifications of the subsystem</td></tr>
+<tr><td>4.2.1.</td><td>General</td></tr>
+<tr><td>4.2.2.</td><td>Structures and mechanical part</td></tr>
+<tr><td>4.2.2.1.</td><td>Mechanical interface</td></tr>
+<tr><td>4.2.2.1.1.</td><td>End coupling</td></tr>
+<tr><td>4.2.2.1.2.</td><td>Inner coupling</td></tr>
+<tr><td>4.2.2.2.</td><td>Strength of unit</td></tr>
+<tr><td>4.2.2.3.</td><td>Integrity of the unit</td></tr>
+<tr><td>4.2.2.4.</td><td>Securing of semi-trailers</td></tr>
+<tr><td>4.2.2.4.1.</td><td>Devices to secure semi-trailers – strength</td></tr>
+<tr><td>4.2.2.4.2.</td><td>Devices to secure semi-trailers – locking force</td></tr>
+<tr><td>4.2.2.4.3.</td><td>Devices to secure semi-trailers – indications</td></tr>
+<tr><td>4.2.2.4.4.</td><td>Marking on the unit</td></tr>
+<tr><td>4.2.3.</td><td>Gauging and track interaction</td></tr>
+<tr><td>4.2.3.1.</td><td>Gauging</td></tr>
+<tr><td>4.2.3.2.</td><td>Compatibility with load carrying capacity of lines</td></tr>
+<tr><td>4.2.3.3.</td><td>Compatibility with train detection systems</td></tr>
+<tr><td>4.2.3.4.</td><td>Axle bearing condition monitoring</td></tr>
+<tr><td>4.2.3.5.</td><td>Running safety</td></tr>
+<tr><td>4.2.3.5.1.</td><td>Safety against derailment running on twisted track</td></tr>
+<tr><td>4.2.3.5.2.</td><td>Running dynamic behaviour</td></tr>
+<tr><td>4.2.3.6.</td><td>Running gear</td></tr>
+<tr><td>4.2.3.6.1.</td><td>Structural design of bogie frame</td></tr>
+<tr><td>4.2.3.6.2.</td><td>Characteristics of wheelsets</td></tr>
+<tr><td>4.2.3.6.3.</td><td>Characteristics of wheels</td></tr>
+<tr><td>4.2.3.6.4.</td><td>Characteristics of axles</td></tr>
+<tr><td>4.2.3.6.5.</td><td>Axle boxes/bearings</td></tr>
+<tr><td>4.2.3.6.6.</td><td>Automatic variable gauge systems</td></tr>
+<tr><td>4.2.3.6.7.</td><td>Running gear for manual change of wheelsets</td></tr>
+<tr><td>4.2.4.</td><td>Brake</td></tr>
+<tr><td>4.2.4.1.</td><td>General</td></tr>
+<tr><td>4.2.4.2.</td><td>Safety requirements</td></tr>
+<tr><td>4.2.4.3.</td><td>Functional and technical requirements</td></tr>
+<tr><td>4.2.4.3.1.</td><td>General functional requirements</td></tr>
+<tr><td>4.2.4.3.2.</td><td>Brake performance</td></tr>
+<tr><td>4.2.4.3.2.1.</td><td>Service brake</td></tr>
+<tr><td>4.2.4.3.2.2.</td><td>Parking brake</td></tr>
+<tr><td>4.2.4.3.3.</td><td>Thermal capacity</td></tr>
+<tr><td>4.2.4.3.4.</td><td>Wheel slide protection (WSP)</td></tr>
+<tr><td>4.2.4.3.5.</td><td>Friction elements for wheel tread brakes</td></tr>
+<tr><td>4.2.5.</td><td>Environmental conditions</td></tr>
+<tr><td>4.2.6.</td><td>System protection</td></tr>
+<tr><td>4.2.6.1.</td><td>Fire safety</td></tr>
+<tr><td>4.2.6.1.1.</td><td>General</td></tr>
+<tr><td>4.2.6.1.2.</td><td>Functional and technical specification</td></tr>
+<tr><td>4.2.6.1.2.1.</td><td>Barriers and spark arresters</td></tr>
+<tr><td>4.2.6.1.2.1.1.</td><td>Requirements applicable to barriers and spark arresters</td></tr>
+<tr><td>4.2.6.1.2.1.2.</td><td>Specific requirements for spark arresters</td></tr>
+<tr><td>4.2.6.1.2.2.</td><td>Materials</td></tr>
+<tr><td>4.2.6.1.2.3.</td><td>Cables</td></tr>
+<tr><td>4.2.6.1.2.4.</td><td>Flammable liquids</td></tr>
+<tr><td>4.2.6.2.</td><td>Protection against electrical hazards</td></tr>
+<tr><td>4.2.6.2.1.</td><td>Protective measures against indirect contact (protective bonding)</td></tr>
+<tr><td>4.2.6.2.2</td><td>Protective measures against direct contact</td></tr>
+<tr><td>4.2.6.3.</td><td>Attachment devices for rear-end signal</td></tr>
+<tr><td>4.2.7.</td><td>Specific requirements for wagons in the scope of Chapter 7.1 of RID</td></tr>
+<tr><td>4.3.</td><td>Functional and technical specification of the interfaces</td></tr>
+<tr><td>4.3.1.</td><td>Interface with the subsystem ‘infrastructure’</td></tr>
+<tr><td>4.3.2.</td><td>Interface with the subsystem ‘operation and traffic management’</td></tr>
+<tr><td>4.3.3.</td><td>Interface with the subsystem ‘control, command and signalling’</td></tr>
+<tr><td>4.4.</td><td>Operating rules</td></tr>
+<tr><td>4.5.</td><td>Maintenance rules</td></tr>
+<tr><td>4.5.1.</td><td>General documentation</td></tr>
+<tr><td>4.5.2.</td><td>Maintenance design justification file</td></tr>
+<tr><td>4.5.3.</td><td>Maintenance description file</td></tr>
+<tr><td>4.6.</td><td>Professional competencies</td></tr>
+<tr><td>4.7.</td><td>Health and safety conditions</td></tr>
+<tr><td>4.8.</td><td>Parameters to be recorded in the technical file and European register of authorised types of vehicles</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>4.9.</td><td>Route compatibility checks before the use of authorised vehicles</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>5.</td><td>Interoperability constituents</td></tr>
+<tr><td>5.1.</td><td>General</td></tr>
+<tr><td>5.2.</td><td>Innovative solutions</td></tr>
+<tr><td>5.3.</td><td>Interoperability constituent specifications</td></tr>
+<tr><td>5.3.1.</td><td>Running gear</td></tr>
+<tr><td>5.3.2.</td><td>Wheelset</td></tr>
+<tr><td>5.3.3.</td><td>Wheel</td></tr>
+<tr><td>5.3.4.</td><td>Axle</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>5.3.4a.</td><td>Friction element for wheel tread brakes</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>5.3.4b.</td><td>Automatic variable gauge system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>5.3.5.</td><td>Rear-end signal</td></tr>
+<tr><td>5.3.6.</td><td>Devices to secure semi-trailers</td></tr>
+<tr><td>6.</td><td>Conformity assessment and EC verification</td></tr>
+<tr><td>6.1.</td><td>Interoperability constituent</td></tr>
+<tr><td>6.1.1.</td><td>Modules</td></tr>
+<tr><td>6.1.2.</td><td>Conformity assessment procedures</td></tr>
+<tr><td>6.1.2.1.</td><td>Running gear</td></tr>
+<tr><td>6.1.2.2.</td><td>Wheelset</td></tr>
+<tr><td>6.1.2.3.</td><td>Wheel</td></tr>
+<tr><td>6.1.2.4.</td><td>Axle</td></tr>
+<tr><td>6.1.2.4a.</td><td></td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>6.1.2.5.</td><td>Friction elements for wheel tread brakes</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>6.1.2.6.</td><td>Automatic variable gauge system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>6.1.2.7.</td><td>Device to secure semi-trailers</td></tr>
+<tr><td>6.1.3.</td><td>Innovative solutions</td></tr>
+<tr><td>6.2.</td><td>Subsystem</td></tr>
+<tr><td>6.2.1.</td><td>Modules</td></tr>
+<tr><td>6.2.2.</td><td>EC verification procedures</td></tr>
+<tr><td>6.2.2.1.</td><td>Strength of unit</td></tr>
+<tr><td>6.2.2.2.</td><td>Safety against derailment running on twisted track</td></tr>
+<tr><td>6.2.2.3.</td><td>Running dynamic behaviour</td></tr>
+<tr><td>6.2.2.4.</td><td>Axle box/bearings</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>6.2.2.4a.</td><td>Automatic variable gauge systems</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>6.2.2.5.</td><td>Running gear for manual change of wheelsets</td></tr>
+<tr><td>6.2.2.6.</td><td>Thermal capacity</td></tr>
+<tr><td>6.2.2.7.</td><td>Environmental conditions</td></tr>
+<tr><td>6.2.2.8.</td><td>Fire safety</td></tr>
+<tr><td>6.2.2.8.1.</td><td>Barriers and spark arresters</td></tr>
+<tr><td>6.2.2.8.2.</td><td>Materials</td></tr>
+<tr><td>6.2.2.8.2.1.</td><td>Test</td></tr>
+<tr><td>6.2.2.8.2.2.</td><td>Components exempted from testing</td></tr>
+<tr><td>6.2.2.8.2.3.</td><td>Materials exempted from testing</td></tr>
+<tr><td>6.2.2.8.3</td><td>Cables</td></tr>
+<tr><td>6.2.2.8.4</td><td>Flammable liquids</td></tr>
+<tr><td>6.2.3.</td><td>Innovative solutions</td></tr>
+<tr><td>6.3.</td><td>Subsystem containing components corresponding to interoperability constituents not holding an EC declaration</td></tr>
+<tr><td>6.4.</td><td>Project phases where assessment is required</td></tr>
+<tr><td>6.5.</td><td>Constituents holding an EC declaration of conformity</td></tr>
+<tr><td>7.</td><td>Implementation</td></tr>
+<tr><td>7.1.</td><td>Authorisation for placing on the market</td></tr>
+<tr><td>7.1.1.</td><td>Application to ongoing projects</td></tr>
+<tr><td>7.1.2.</td><td>Mutual recognition of the first authorisation of placing on the market</td></tr>
+<tr><td>7.2.</td><td>General rules for implementation</td></tr>
+<tr><td>7.2.1.</td><td>Substitution of constituents</td></tr>
+<tr><td>7.2.2.</td><td>Changes to a unit in operation or to an existing unit type</td></tr>
+<tr><td>7.2.2.1.</td><td>Introduction</td></tr>
+<tr><td>7.2.2.2.</td><td>Rules to manage changes in both a unit or a unit type</td></tr>
+<tr><td>7.2.2.3.</td><td>Particular rules for units in operation not covered by an EC declaration of verification with a first authorisation for placing in service before 1 January 2015</td></tr>
+<tr><td>7.2.2.4.</td><td>Rules for the extension of the area of use for units in operation having an authorisation in accordance with Directive 2008/57/EC or in operation before 19 July 2010</td></tr>
+<tr><td>7.2.2.5.</td><td>Rules for units in operation that are equipped with devices to secure semi-trailers</td></tr>
+<tr><td>7.2.3.</td><td>Rules related to the EC type or design examination certificates</td></tr>
+<tr><td>7.2.3.1.</td><td>Rolling stock subsystem</td></tr>
+<tr><td>7.2.3.1.1.</td><td>Definitions</td></tr>
+<tr><td>7.2.3.1.2.</td><td>Rules related to the EC type or design examination certificate</td></tr>
+<tr><td>7.2.3.1.3.</td><td>Validity of the EC type or design examination certificate</td></tr>
+<tr><td>7.2.3.2.</td><td>Interoperability constituents</td></tr>
+<tr><td>7.3.</td><td>Specific cases</td></tr>
+<tr><td>7.3.1.</td><td>Introduction</td></tr>
+<tr><td>7.3.2.</td><td>List of specific cases</td></tr>
+<tr><td>7.3.2.1.</td><td>General specific cases</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>7.3.2.1a.</td><td>Gauging (point 4.2.3.1)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>7.3.2.2.</td><td>Axle bearing condition monitoring (point 4.2.3.4)</td></tr>
+<tr><td>7.3.2.3.</td><td>Safety against derailment running on twisted track (point 4.2.3.5.1)</td></tr>
+<tr><td>7.3.2.4.</td><td>Running dynamic behaviour (point 4.2.3.5.2)</td></tr>
+<tr><td>7.3.2.5.</td><td>Brake safety requirements (point 4.2.4.2)</td></tr>
+<tr><td>7.3.2.6.</td><td>Attachment devices for rear-end signals (point 4.2.6.3)</td></tr>
+<tr><td>7.4.</td><td>Specific environmental conditions</td></tr>
+<tr><td>7.5.</td><td>Freight wagons operating under national, bilateral, multilateral or international agreements</td></tr>
+<tr><td></td><td>Appendices</td></tr>
+</table>
+
+**1\. INTRODUCTION**
+
+A Technical Specification for Interoperability (TSI) is a specification that covers a subsystem (or part of it) as defined in Article 2(11) of Directive (EU) 2016/797 in order:
+
+— to ensure the interoperability of the rail system, and
+
+— to meet the essential requirements.
+
+**1.1. Technical scope**
+
+See Article 2 of this Regulation.
+
+**1.2. Geographical scope**
+
+This Regulation applies to the Union rail system.
+
+**1.3. Content of this TSI**
+
+In accordance with Article 4(3) of Directive (EU) 2016/797, this TSI:
+
+(a) covers the ‘rolling stock-freight wagons’ subsystem;
+
+(b) lays down essential requirements for the part of the rolling stock subsystem concerned and for its interfaces vis-à-vis other subsystems (Chapter 3);
+
+(c) establishes the functional and technical specifications to be met by the subsystem and its interfaces vis-à-vis other subsystems (Chapter 4).
+
+(d) determines the interoperability constituents and interfaces which must be covered by European specifications, including European standards, which are necessary to achieve interoperability within the rail system (Chapter 5);
+
+(e) states, in each case under consideration, which procedures are to be used in order to assess the conformity or the suitability for use of the interoperability constituents and the ‘EC’ verification of the subsystems (Chapter 6);
+
+(f) indicates the strategy for implementing the TSIs (Chapter 7);
+
+(g) indicates, for the staff concerned, the professional qualifications and health and safety conditions at work that are required for the operation and maintenance of the above subsystem, as well as for the implementation of this TSI (Chapter 4).
+
+**2\. SCOPE AND DEFINITION OF SUBSYSTEM**
+
+**2.1. Scope**
+
+This TSI is applicable to ‘freight wagons including vehicles designed to carry lorries’ as referred to in Annex I Section 2 to Directive (EU) 2016/797 taking into account the limitations as set out in Article 2. In the following this part of the subsystem rolling stock is called ‘freight wagon’ and belongs to the subsystem ‘rolling stock’ as set out in Annex II to Directive 2016/797/EC.
+
+The other vehicles listed in Section 2 of Annex I to Directive (EU) 2016/797 are excluded from the scope of this TSI; this is especially the case for:
+
+(a) special vehicles;
+
+(b) vehicles designed to carry:
+
+— motor vehicles with their passengers on board, or
+
+— motor vehicles without passengers on board but intended to be integrated in passenger trains (car carriers);
+
+(c) vehicles which
+
+— increase their length in loaded configuration, and
+
+— their payload itself is part of the vehicle structure.
+
+Note: See also section 7.1 for particular cases.
+
+**2.2. Definitions**
+
+In the present TSI the following definitions are used:
+
+(a) A ‘unit’ is the generic term used to name the rolling stock. It is subject to the application of this TSI, and therefore subject to the EC verification procedure.
+
+A unit can consist of:
+
+— a ‘wagon’ that can be operated separately, featuring an individual frame mounted on its own set of wheels, or
+
+— a rake of permanently connected ‘elements’, those elements cannot be operated separately, or
+
+— ‘separate rail bogies connected to compatible road vehicle(s)’ the combination of which forms a rake of a rail compatible system.
+
+(b) A ‘train’ is an operational formation consisting of several units.
+
+(c) The ‘design operating state’ covers all conditions under which the unit is intended to operate and its technical boundaries. This design operating state may go beyond the specifications of this TSI in order that units may be used together in a train on the network under the safety management system of a railway undertaking.
+
+(d) ‘RID’: Regulations concerning the International Carriage of Dangerous Goods by Rail, as defined in Article 2, point (2), of Directive 2008/68/EC of the European Parliament and of the Council ( 3 ).
+
+**3\. ESSENTIAL REQUIREMENTS**
+
+Article 3(1) of Directive (EU) 2016/797 provides that the rail system, its subsystems and their interoperability constituents are to meet the relevant essential requirements. The essential requirements are set out in general terms in Annex III to that Directive. Table 1 of this Annex indicates the basic parameters specified in this TSI and their correspondence to the essential requirements as explained in Annex III to Directive (EU) 2016/797.
+
+**Table 1**
+
+**Basic parameters and their correspondence to the essential requirements**
+
+<table>
+<tbody><tr><td rowspan="2">Point</td><td rowspan="2">Basic parameter</td><td colspan="5">Essential requirements</td></tr>
+<tr><td>Safety</td><td>Reliability and availability</td><td>Health</td><td>Environment protection</td><td>Technical compatibility</td></tr>
+<tr><td>4.2.2.1.1</td><td>End coupling</td><td>1.1.1, 1.1.3,  1.1.5,  2.4.1 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.1.2</td><td>Inner coupling</td><td>1.1.1, 1.1.3,  2.4.1 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.2</td><td>Strength of unit</td><td>1.1.1, 1.1.3,  2.4.1 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.3</td><td>Integrity of the unit</td><td>1.1.1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.2.4.1</td><td>Devices to secure semi-trailers – strength</td><td>1.1.1 1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.4.2</td><td>Devices to secure semi-trailers – locking force</td><td>1.1.1 1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.4.3</td><td>Devices to secure semi-trailers – indication</td><td>1.1.1 1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.2.4.4</td><td>Marking on the unit</td><td>1.1.1 1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.3.1</td><td>Gauging</td><td>1.1.1</td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.2</td><td>Compatibility with load carrying capacity of lines</td><td>1.1.1</td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.3</td><td>Compatibility with train detection systems</td><td>1.1.1</td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.4</td><td>Axle bearing condition monitoring</td><td>1.1.1</td><td>1.2</td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.5.1</td><td>Safety against derailment running on twisted track</td><td>1.1.1, 1.1.2,  2.4.1 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.5.2</td><td>Running dynamic behaviour</td><td>1.1.1 1.1.2 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.3.5.3</td><td>Derailment detection and prevention function</td><td>1.1.1 1.1.2 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.3.6.1</td><td>Structural design of bogie frame</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.6.2</td><td>Characteristics of wheelsets</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.6.3</td><td>Characteristics of wheels</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.3.6.4</td><td>Characteristics of axles</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.6.5</td><td>Axle box/bearings</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.3.6.6</td><td>Automatic variable gauge systems</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>1.2</td><td>  </td><td>  </td><td>1.5</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.3.6.7</td><td>Running gear for manual change of wheelsets</td><td>1.1.1, 1.1.2,  1.1.3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.4.2</td><td>Brake — Safety requirements</td><td>1.1.1, 1.1.3</td><td>1.2 2.4.2 </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.4.3.1</td><td>Brake — General functional requirements</td><td>1.1.1 2.4.1 </td><td>2.4.2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.4.3.2.1</td><td>Brake performance — In-service brake</td><td>1.1.1, 1.1.2  2.4.1 </td><td>2.4.2</td><td>  </td><td>  </td><td>1.5</td></tr>
+<tr><td>4.2.4.3.2.2</td><td>Brake performance — Parking brake</td><td>2.4.1</td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.4.3.3</td><td>Brake — Thermal capacity</td><td>1.1.1, 1.1.3  2.4.1 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.4.3.4</td><td>Brake — Wheel slide protection (WSP)</td><td>2.4.1</td><td>2.4.2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.4.3.5</td><td>Friction elements for wheel tread brakes</td><td>1.1.1, 1.1.2, 1.1.3, 2.4.1</td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.5</td><td>Environmental conditions</td><td>1.1.1 1.1.2 </td><td>  </td><td>  </td><td>  </td><td>2.4.3</td></tr>
+<tr><td>4.2.6.1</td><td>Fire safety</td><td>1.1.1 1.1.4 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.6.1.2.1</td><td>Fire safety Barriers and spark arresters </td><td>1.1.4</td><td>  </td><td>1.3.2</td><td>1.4.2</td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.6.1.2.2</td><td>Fire safety Materials</td><td>1.1.4</td><td>  </td><td>1.3.2</td><td>1.4.2</td><td>  </td></tr>
+<tr><td>4.2.6.1.2.3</td><td>Fire safety Cables</td><td>1.1.4 1.1.5 </td><td>  </td><td>1.3.2</td><td>1.4.2</td><td>  </td></tr>
+<tr><td>4.2.6.1.2.4</td><td>Fire safety — Flammable liquids</td><td>1.1.4</td><td>  </td><td>1.3.2</td><td>1.4.2</td><td>  </td></tr>
+<tr><td>4.2.6.2</td><td>Protection against electric hazard</td><td>1.1.5 2.4.1 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.2.6.3</td><td>Attachment device for rear-end signal</td><td>1.1.1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>4.2.7</td><td>Specific requirements for wagons in the scope of Chapter 7.1 of RID</td><td>1.1.1 1.1.3  1.1.4 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7"></td></tr>
+</tbody>
+</table>
+
+The essential requirements 1.3.1, 1.4.1, 1.4.3, 1.4.4 and 1.4.5 of Annex III to Directive (EU) 2016/797  fall under the scope of other Union legislation.
+
+**4\. CHARACTERISATION OF THE SUBSYSTEM**
+
+**4.1. Introduction**
+
+The rail system, to which Directive (EU) 2016/797 applies and of which freight wagons form a part, is an integrated system whose consistency shall be verified. This consistency shall be checked in particular with regard to the specifications of the rolling stock subsystem and the compatibility with the network (Section 4.2), its interfaces in relation to the other subsystems of the rail system in which it is integrated (Sections 4.2 and 4.3), as well as the initial operating and maintenance rules (Sections 4.4 and 4.5) as requested by Article 15(4) of Directive (EU) 2016/797.
+
+The technical file, as set out in Article 15(4) of Directive (EU) 2016/797 and in point 2.4 of Annex IV to that Directive, shall contain in particular design related values concerning the compatibility with the network.
+
+**4.2. Functional and technical specifications of the subsystem**
+
+4.2.1. General
+
+In light of the essential requirements in Chapter 3, the functional and technical specifications of the subsystem ‘rolling stock — freight wagons’ are grouped and sorted out in the following points of this Chapter:
+
+— Structures and mechanical parts
+
+— Gauging and vehicle track interaction
+
+— Brake
+
+— Environmental conditions
+
+— System protection.
+
+Except where this is strictly necessary for the interoperability of the rail system and to meet the relevant essential requirements, the functional and technical specifications of the freight wagon and its interfaces do not impose the use of any particular technical solutions.
+
+When the functional and technical specifications that are necessary in order to achieve interoperability and to meet the essential requirements, have not been developed concerning a particular technical aspect, this aspect is identified as an open point in the relevant point. As required in Article 5(6) of Directive (EU) 2016/797  all open points are listed in Appendix A.
+
+In Appendix C a set of conditions is specified. The conformity with this set of conditions is optional. If this option is selected, the conformity shall be assessed by a notified body within the EC verification procedure.
+
+In accordance with Article 5(5) of Directive (EU) 2016/797  , provision may be made for specific cases for each TSI. Such provisions are indicated in Chapter 7.
+
+As far as possible the assessment procedure for the requirements in Section 4.2 is defined in Chapter 6. In these cases the text of Section 4.2 makes a reference to the corresponding points and sub points clauses of Chapter 6. If for a particular basic parameter the separation of requirements and assessment procedures is not feasible, no reference is given.
+
+4.2.2. Structures and mechanical parts
+
+4.2.2.1. Mechanical interface
+
+4.2.2.1.1. End coupling
+
+The end coupling is the mechanical interface between units forming a train.
+
+The coupling system shall be designed in a way that no human presence between the units to be coupled/uncoupled shall be required whilst either one unit is moving.
+
+End couplings shall be resilient and capable of withstanding the forces in accordance with the defined design operating state of the unit.
+
+4.2.2.1.2. Inner coupling
+
+The inner coupling is the mechanical interface between elements forming a unit.
+
+The inner coupling shall be resilient and capable of withstanding the forces in accordance with the defined design operating state of the unit. The joint between two elements sharing the same running gear, is covered by point 4.2.2.2.
+
+The longitudinal strength of the inner coupling(s) shall be equal to or higher than the one of the end coupling(s) of the unit.
+
+4.2.2.2. Strength of unit
+
+The structure of a unit body, any equipment attachments and lifting and jacking points shall be designed such that no cracks, no significant permanent deformation or ruptures occur under the load cases defined in the specification referenced in Appendix D Index [1].
+
+In case of a rake of a rail compatible system composed of separate rail bogies connected to compatible road vehicles, the load cases may differ from those mentioned above, due to their bi- modal specification; in such a case, the load cases considered shall be described by the applicant based on a consistent set of specifications with consideration of the specific conditions of use related to train composition, shunting and operation.
+
+The demonstration of conformity is described in point 6.2.2.1.
+
+The lifting and jacking positions shall be marked on the unit. The marking shall comply with the specification referenced in Appendix D Index [2].
+
+Note: Joining techniques are deemed to be covered as well by the demonstration of conformity in accordance to point 6.2.2.1.
+
+4.2.2.3. Integrity of the unit
+
+The unit shall be designed so that all movable parts intended to close an aperture (access doors, tarpaulin, lids, hatches, etc.) are prevented against an unintentional movement of these parts.
+
+Locking devices shall indicate their status (open/closed) and shall be visible outside the unit.
+
+Units intended to be used for combined transport and requiring a wagon compatibility code shall be equipped with devices for securing the Intermodal Loading Unit.
+
+4.2.2.4. Securing of semi-trailers
+
+This point applies to units equipped with devices to secure semi-trailers.
+
+The conformity of devices to secure semi-trailers with the requirements of points 4.2.2.4.1, 4.2.2.4.2, and 4.2.2.4.3 shall be assessed as interoperability constituent pursuant to point 5.3.6 in accordance with point 6.1.2.7.
+
+If the device to secure semi-trailers is not built as an independent component, the conformity of the devices to secure semi-trailers with the requirements of points 4.2.2.4.1, 4.2.2.4.2 and 4.2.2.4.3 may be assessed within the assessment of the subsystem, by applying point 6.1.2.7 as appropriate.
+
+The conformity of the marking with the requirement of point 4.2.2.4.4 shall be assessed in accordance with the prescriptions set out in Section 2.4 of the ERA Technical Document referenced in Appendix D.2, Index [D].
+
+4.2.2.4.1. Devices to secure semi-trailers – strength
+
+Devices to secure semi-trailers shall hold semi-trailers in a safe position by withstanding the longitudinal, lateral and vertical downwards directed forces in accordance with the design operating state.
+
+4.2.2.4.2. Devices to secure semi-trailers – locking force
+
+Devices to secure semi-trailers shall lock semi-trailers in a safe position by withstanding the vertical upwards directed forces in accordance with the design operating state.
+
+4.2.2.4.3. Devices to secure semi-trailers – indications
+
+Devices to secure semi-trailers shall indicate reliably if the kingpin of the semi-trailer is correctly positioned and the semi-trailer is correctly locked.
+
+The correct position of the kingpin of the semi-trailer and the locking of the semi-trailer shall be detected independently.
+
+The indication shall be visible in any loading situation of the unit for the loading and checking staff.
+
+4.2.2.4.4. Marking on the unit
+
+The unit shall have a marking related to the device to secure semi-trailers on both sides for each device to secure semi-trailers, which contains:
+
+— all information relevant for the safe use of the devices to secure semi-trailers by loading and checking staff,
+
+— the compliance with point 4.2.2.4.2.
+
+4.2.3. Gauging and track interaction
+
+4.2.3.1. Gauging
+
+This point concerns the rules for calculation intended for sizing the rolling stock to run on one or several networks without interference risk.
+
+The compliance of a unit with the intended reference profile including the reference profile for the lower part shall be established by one of the methods set out in the specification referenced in Appendix D Index [4].
+
+The kinematic method, as described in the specification referenced in Appendix D Index [4] shall be used to establish conformity, if any, between the reference profile established for the unit and the respective target reference profiles G1, GA, GB and GC including those used for the lower part GI1 and GI2.
+
+Units intended to be used for combined transport shall be codified in accordance with the requirements of Appendix H and the specification referenced in Appendix D.2, index [B].
+
+4.2.3.2. Compatibility with load carrying capacity of lines
+
+The vertical loading characteristics of the unit shall be determined in order to check compatibility with the load carrying capacity of lines.
+
+The permissible payload a unit may carry, for axle loads up to and including 25 t, shall be determined by application of the specification referenced in Appendix D Index [5].
+
+4.2.3.3. Compatibility with train detection systems
+
+If the unit is intended to be compatible with one or more of the following train detection systems, this compatibility shall be established in accordance with the provisions of the technical document referenced in Appendix D.2 Index [A]:
+
+(a) train detection systems based on track circuits (the electrical resistance of the wheelset can be assessed at IC level or at vehicle level);
+
+(b) train detection systems based on axle counters;
+
+(c) train detection systems based on loop equipment.
+
+The related specific cases are defined in section 7.7 of the CCS TSI.
+
+4.2.3.4. Axle bearing condition monitoring
+
+It shall be possible to monitor the axle bearing condition either by:
+
+— line side detection equipment, or
+
+— on-board equipment.
+
+If the unit is intended to be capable of being monitored by line side equipment on the 1 435 mm track gauge network the unit shall be compliant with the specification referenced in Appendix D Index [6] in order to ensure sufficient visibility.
+
+For units intended to be operated on the networks with track gauges of 1 524 mm, 1 600 mm, 1 668 mm, the corresponding values in Table 2 referring to the parameters of the specification referenced in Appendix D Index [6] shall be applied.
+
+**Table 2**
+
+**Target and prohibitive zone for units intended to be operated on particular networks**
+
+<table>
+<tbody><tr><td>  </td><td>YTA [mm] </td><td>WTA [mm] </td><td>LTA [mm] </td><td>YPZ [mm] </td><td>WPZ [mm] </td><td>LPZ [mm] </td></tr>
+<tr><td rowspan="2">1 524 mm (both areas are relevant) </td><td>1 080 ± 35</td><td>≥ 50</td><td>≥ 200</td><td>1 080 ± 5</td><td>≥ 140</td><td>≥ 500</td></tr>
+<tr><td>894 ± 2</td><td>≥ 14</td><td>≥ 200</td><td>894 ± 2</td><td>≥ 28</td><td>≥ 500</td></tr>
+<tr><td>1 600 mm</td><td>1 110 ± 2</td><td>≥ 70</td><td>≥ 180</td><td>1 110 ± 2</td><td>≥ 125</td><td>≥ 500</td></tr>
+<tr><td>1 668 mm</td><td>1 176 ± 10</td><td>≥ 55</td><td>≥ 100</td><td>1 176 ± 10</td><td>≥ 110</td><td>≥ 500</td></tr>
+</tbody>
+</table>
+
+If the unit is intended to be capable of being monitored by on-board equipment, the following requirements shall apply:
+
+— This equipment shall be able to detect a deterioration of any of the axle box bearings of the unit.
+
+— The bearing condition shall be evaluated either by monitoring its temperature, or its dynamic frequencies or some other suitable bearing condition characteristic.
+
+— The detection system shall be located entirely on board the unit, and diagnosis messages shall be available on board the unit.
+
+— The diagnosis messages delivered and how they are made available shall be described in the operating documentation set out in section 4.4 of this TSI, and in the maintenance rules described in section 4.5 of this TSI.
+
+4.2.3.5. Running safety
+
+The dynamic behaviour of a vehicle has a strong influence on safety against derailment, running safety and track loading.
+
+4.2.3.5.1. Safety against derailment running on twisted track
+
+The unit shall be designed to ensure safe running on twisted track, taking into account specifically the transition phase between canted and level track and cross level deviations.
+
+The demonstration of conformity is described in point 6.2.2.2.
+
+4.2.3.5.2. Running dynamic behaviour
+
+The unit shall be designed to provide safe movement up to the maximum design speed.
+
+The running dynamic behaviour of a unit shall be proven either by:
+
+— following the procedures set out in the specification referenced in Appendix D Index [7], or
+
+— performing simulations using a validated model.
+
+The demonstration of conformity is described in point 6.2.2.3.
+
+Running dynamic behaviour is permitted to be assessed at interoperability constituent level in accordance with point 6.1.2.1. In this case a specific test or simulation at subsystem level is not required.
+
+4.2.3.5.3. Derailment detection and prevention function
+
+The derailment detection and prevention function is intended to prevent derailments or to mitigate the consequences of a derailment of the unit.
+
+If a unit is fitted with the derailment detection and prevention function, the requirements below shall be met.
+
+4.2.3.5.3.1. General requirements
+
+The function shall be able to detect either a derailment or conditions which are a precursor to derailment of the unit in accordance with one of the three sets of requirements set out in points 4.2.3.5.3.2, 4.2.3.5.3.3 and 4.2.3.5.3.4 below.
+
+It is allowed to combine those requirements as follows:
+
+4.2.3.5.3.2 and 4.2.3.5.3.3
+
+4.2.3.5.3.2 and 4.2.3.5.3.4
+
+4.2.3.5.3.2 Derailment prevention function (DPF)
+
+The DPF shall send a signal to the driver’s cab of the locomotive hauling the train once a precursor to derailment is detected in the unit.
+
+The signal enabling the DPF to be available at train level and its transmission between the unit, the locomotive and the other coupled unit(s) in a train shall be documented in the technical file.
+
+4.2.3.5.3.3. Derailment detection function (DDF)
+
+The DDF shall send a signal to the driver’s cab of the locomotive hauling the train once the derailment is detected in the unit.
+
+The signal enabling the DDF to be available at train level and its transmission between the unit, the locomotive and the other coupled unit(s) in a train shall be documented in the technical file.
+
+4.2.3.5.3.4. Derailment detection and actuation function (DDAF)
+
+The DDAF shall automatically activate a brake application when the derailment is detected without possibility of overriding by the driver.
+
+The risk of false derailment detections shall be limited to an acceptable level.
+
+Therefore, the DDAF shall be subject to a risk assessment in accordance with Implementing Regulation (EU) No 402/2013.
+
+It shall be possible to deactivate the DDAF directly on the unit when the unit is stopped. That deactivation will release and isolate the DDAF from the brake system.
+
+The DDAF shall indicate its status (activated/deactivated) and that status shall be visible from both sides of the unit. If this is not physically feasible, the DDAF shall indicate its status from at least one side and the other side of the wagon shall be marked in accordance with point 7.1.2(g).
+
+4.2.3.6. Running gear
+
+The running gear guarantees to carry and guide the unit safely as well as to transmit braking forces where so required.
+
+4.2.3.6.1. Structural design of bogie frame
+
+The integrity of the structure of a bogie frame, all attached equipment and body to bogie connection shall be demonstrated based on methods as set out in the specification referenced in Appendix D Index [9].
+
+The integrity of the structure of a bogie frame is permitted to be assessed at interoperability constituent level in accordance with point 6.1.2.1. In this case a specific test or simulation at subsystem level is not required.
+
+4.2.3.6.2. Characteristics of wheelsets
+
+The wheelset assembly shall be able to transmit forces and torque between the fitted parts in accordance with the area of use.
+
+The geometric dimensions of the wheelsets, as defined in Figure 1, shall be compliant with limit values specified in Table 3. These limit values shall be taken as design values and shall be stated as in-service limit values in the maintenance file described in Section 4.5.
+
+The demonstration of conformity is described in point 6.1.2.2.
+
+Figure 1
+
+Symbols for wheelsets used in Table 3
+
+**Table 3**
+
+**Limits of use of the geometric dimensions of wheelsets**
+
+<table>
+<tbody><tr><td colspan="2">Designation</td><td>Wheel diam. D [mm] </td><td>Minimum value [mm] </td><td>Maximum value [mm] </td></tr>
+<tr><td rowspan="6">1 435 mm</td><td rowspan="3">Front-to-front dimension (SR) SR = AR + Sd,left + Sd,right </td><td>330 ≤ D ≤ 760</td><td>1 415 </td><td>1 426 </td></tr>
+<tr><td>760 &lt; D ≤ 840</td><td>1 412 </td><td>1 426 </td></tr>
+<tr><td>D &gt; 840</td><td>1 410 </td><td>1 426 </td></tr>
+<tr><td rowspan="3">Back-to-back distance (AR)</td><td>330 ≤ D ≤ 760</td><td>1 359 </td><td>1 363 </td></tr>
+<tr><td>760 &lt; D ≤ 840</td><td>1 358 </td><td>1 363 </td></tr>
+<tr><td>D &gt; 840</td><td>1 357 </td><td>1 363 </td></tr>
+<tr><td rowspan="4">1 524 mm</td><td rowspan="2">Front-to-front dimension (SR) SR = AR + Sd,left + Sd,right </td><td>400 ≤ D &lt; 840</td><td>1 492 </td><td>1 514 </td></tr>
+<tr><td>D ≥ 840</td><td>1 487 </td><td>1 514 </td></tr>
+<tr><td rowspan="2">Back-to-back distance (AR)</td><td>400 ≤ D &lt; 840</td><td>1 444 </td><td>1 448 </td></tr>
+<tr><td>D ≥ 840</td><td>1 442 </td><td>1 448 </td></tr>
+<tr><td rowspan="4">1 600 mm</td><td rowspan="2">Front-to-front dimension (SR) SR = AR + Sd,left + Sd,right </td><td>690 ≤ D ≤ 1 016 </td><td>1 573 </td><td>1 592 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Back-to-back distance (AR)</td><td>690 ≤ D ≤ 1 016 </td><td>1 521 </td><td>1 526 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">1 668 mm</td><td rowspan="2">Front-to-front dimension (SR) SR = AR + Sd,left + Sd,right </td><td>330 ≤ D &lt; 840</td><td>1 648 (1)</td><td>1 659 </td></tr>
+<tr><td>840 ≤ D ≤ 1 250 </td><td>1 648 (1)</td><td>1 659 </td></tr>
+<tr><td rowspan="2">Back-to-back distance (AR)</td><td>330 ≤ D &lt; 840</td><td>1 592 </td><td>1 596 </td></tr>
+<tr><td>840 ≤ D ≤ 1 250 </td><td>1 590 </td><td>1 596 </td></tr>
+<tr><td colspan="5">(1)  Two-axle wagons with axle load up to 22,5 t the value shall be taken as 1 651 mm. </td></tr>
+</tbody>
+</table>
+
+4.2.3.6.3. Characteristics of wheels
+
+The geometrical dimensions of the wheels as defined in Figure 2 shall be compliant with limit values specified in Table 4.
+
+**Table 4**
+
+**Limits of use of the geometric dimensions of wheels**
+
+<table>
+<tbody><tr><td colspan="2">Designation</td><td>Wheel diam. D [mm] </td><td>Minimum value [mm] </td><td>Maximum value [mm] </td></tr>
+<tr><td rowspan="8">1 435 mm</td><td>Width of the rim (BR) (with maximum BURR of 5 mm)</td><td>D ≥ 330</td><td>133 </td><td>140 </td></tr>
+<tr><td rowspan="3">Thickness of the flange (Sd)</td><td>330 ≤ D ≤ 760</td><td>27,5 </td><td>33 </td></tr>
+<tr><td>760 &lt; D ≤ 840</td><td>25 </td><td>33 </td></tr>
+<tr><td>D &gt; 840</td><td>22 </td><td>33 </td></tr>
+<tr><td rowspan="3">Height of the flange (Sh)</td><td>330 ≤ D ≤ 630</td><td>31,5 </td><td>36 </td></tr>
+<tr><td>630 &lt; D ≤ 760</td><td>29,5 </td><td>36 </td></tr>
+<tr><td>D &gt; 760</td><td>27,5 </td><td>36 </td></tr>
+<tr><td>Face of the flange (qR)</td><td>D ≥ 330</td><td>6,5 </td><td>—</td></tr>
+<tr><td rowspan="8">1 524 mm</td><td>Width of the rim (BR) (with maximum BURR of 5 mm)</td><td>D ≥ 400</td><td>134 </td><td>140 </td></tr>
+<tr><td rowspan="3">Thickness of the flange (Sd)</td><td>400 ≤ D &lt; 760</td><td>27,5 </td><td>33 </td></tr>
+<tr><td>760 ≤ D &lt; 840</td><td>25 </td><td>33 </td></tr>
+<tr><td>D ≥ 840</td><td>22 </td><td>33 </td></tr>
+<tr><td rowspan="3">Height of the flange (Sh)</td><td>400 ≤ D &lt; 630</td><td>31,5 </td><td>36 </td></tr>
+<tr><td>630 ≤ D &lt; 760</td><td>29,5 </td><td>36 </td></tr>
+<tr><td>D ≥ 760</td><td>27,5 </td><td>36 </td></tr>
+<tr><td>Face of the flange (qR)</td><td>D ≥ 400</td><td>6,5 </td><td>—</td></tr>
+<tr><td rowspan="4">1 600 mm</td><td>Width of the rim (BR) (with maximum BURR of 5 mm)</td><td>690 ≤ D ≤ 1 016 </td><td>137 </td><td>139 </td></tr>
+<tr><td>Thickness of the flange (Sd)</td><td>690 ≤ D ≤ 1 016 </td><td>26 </td><td>33 </td></tr>
+<tr><td>Height of the flange (Sh)</td><td>690 ≤ D ≤ 1 016 </td><td>28 </td><td>38 </td></tr>
+<tr><td>Face of the flange (qR)</td><td>690 ≤ D ≤ 1 016 </td><td>6,5 </td><td>—</td></tr>
+<tr><td rowspan="7">1 668 mm</td><td>Width of the rim (BR) (with maximum BURR of 5 mm)</td><td>D ≥ 330</td><td>133 </td><td>140 </td></tr>
+<tr><td rowspan="2">Thickness of the flange (Sd)</td><td>330 ≤ D ≤ 840</td><td>27,5 </td><td>33 </td></tr>
+<tr><td>D &gt; 840</td><td>22 (PT); 25 (ES)</td><td>33 </td></tr>
+<tr><td rowspan="3">Height of the flange (Sh)</td><td>330 ≤ D ≤ 630</td><td>31,5 </td><td>36 </td></tr>
+<tr><td>630 ≤ D ≤ 760</td><td>29,5 </td><td>36 </td></tr>
+<tr><td>D &gt; 760</td><td>27,5 </td><td>36 </td></tr>
+<tr><td>Face of the flange (qR)</td><td>D ≥ 330</td><td>6,5 </td><td>—</td></tr>
+</tbody>
+</table>
+
+These limit values shall be taken as design values and shall be stated as in-service limit values in the maintenance file described in Section 4.5.
+
+Figure 2
+
+Symbols for wheels used in Table 4
+
+The mechanical characteristics of the wheels shall ensure the transmission of forces and torque as well as the resistance against thermal load where so required in accordance with the area of use.
+
+The demonstration of conformity is described in point 6.1.2.3.
+
+4.2.3.6.4. Characteristics of axles
+
+The characteristics of the axle shall ensure the transmission of forces and torque in accordance with the area of use.
+
+The demonstration of conformity is described in point 6.1.2.4.
+
+The traceability of axles shall take into accounts the findings of the ERA Task force on Freight Maintenance (see ‘ Final report on the activities of the Task Force Freight Wagon Maintenance ’ published on the ERA website http://www.era.europa.eu).
+
+4.2.3.6.5. Axle boxes/bearings
+
+The axle box and the rolling bearing shall be designed with consideration of mechanical resistance and fatigue characteristics. Temperature limits reached in service relevant for the hot box detection shall be defined.
+
+The demonstration of conformity is described in point 6.2.2.4.
+
+4.2.3.6.6. Automatic variable gauge systems
+
+This requirement is applicable to units equipped with an automatic variable gauge system with changeover mechanism of the axial position of the wheels allowing the unit to be compatible with 1 435 mm track gauge and other track gauge(s) within the scope of this TSI by means of passage through a track gauge changeover facility.
+
+The changeover mechanism shall ensure the locking in the correct intended axial position of the wheel.
+
+After passage through the track gauge changeover facility, the verification of the state of the locking system (locked or unlocked) and of the position of the wheels shall be performed by one or more of the following means: visual control, on-board control system or infrastructure/facility control system. In case of on-board control system, a continuous monitoring shall be possible.
+
+If a running gear is equipped with brake equipment subject to a change in position during the gauge change operation, the automatic variable gauge system shall ensure the position and safe locking in the correct position of this equipment simultaneously to those of the wheels.
+
+The failure of the locking of the position of the wheels and braking equipment (if relevant) during operation has typical credible potential to lead directly to a catastrophic accident (resulting in multiple fatalities); considering this severity of the failure consequence, it shall be demonstrated that the risk is controlled to an acceptable level.
+
+The automatic variable gauge system is defined as an interoperability constituent (point 5.3.4b) and is part of the interoperability constituent wheelset (point 5.3.2). The conformity assessment procedure is specified in point 6.1.2.6 (interoperability constituent level), point 6.1.2.2 (safety requirement) and in point 6.2.2.4a (subsystem level) of this TSI.
+
+The track gauges the unit is compatible with shall be recorded in the technical documentation.
+
+A description of the changeover operation in normal mode, including the type(s) of track gauge changeover facility(ies) the unit is compatible with, shall be part of the technical documentation (see also section 4.4 of this TSI).
+
+The requirements and conformity assessments required in other sections of this TSI apply independently for each wheel position corresponding to one track gauge and have to be documented accordingly.
+
+4.2.3.6.7. Running gear for manual change of wheelsets
+
+The requirement is applicable to units prepared to run on different track gauges, by means of a physical change of wheelset.
+
+The unit shall be equipped with a locking mechanism in order to ensure the correct position of its brake equipment in the different configurations considering the dynamic effects in accordance with the design operating state of the unit.
+
+The demonstration of conformity is described in point 6.2.2.5.
+
+4.2.4. Brake
+
+4.2.4.1. General
+
+The purpose of the train brake system is to ensure that:
+
+— the train’s speed can be reduced,
+
+— the train’s speed can be maintained on a slope,
+
+— the train can be stopped within the maximum allowable braking distance, and that
+
+— the train can be immobilised.
+
+Primary factors that influence the braking performance and the braking process are:
+
+— the braking power,
+
+— the train mass,
+
+— the speed,
+
+— the allowable braking distance,
+
+— the available adhesion, and
+
+— the track gradient.
+
+The brake performance of a train is derived from the individual brake performance of each unit in the train.
+
+4.2.4.2. Safety requirements
+
+The braking system contributes to the safety level of the railway system. Therefore the design of the braking system of a unit has to undergo a risk assessment in accordance with Commission Implementing Regulation (EU) No 402/2013  ( 4 ) considering the hazard of complete loss of the brake capability of the unit. The severity level shall be deemed as catastrophic when:
+
+— it affects the unit alone (combination of failures), or
+
+— it affects the brake capability of more than the unit (single fault).
+
+The fulfilment of the conditions of C.9 and C.14 of Appendix C is presumed to be in conformity with this requirement.
+
+4.2.4.3. Functional and technical requirements
+
+4.2.4.3.1. General functional requirements
+
+The brake equipment of the unit shall provide the functions of braking such as the application and the release of the brake, upon a transmitted signal. The brake shall be:
+
+— continuous (the brake application or release signal is transmitted from a central command to the whole train by a control line),
+
+— automatic (an inadvertent disruption of the control line shall lead to brake activation on all units of the train bringing each part to stand still),
+
+— disengageable, which enables its release and isolation.
+
+4.2.4.3.2. Brake performance
+
+4.2.4.3.2.1. Service brake
+
+The brake performance of a train or a unit is its ability to decelerate. It is the result of the braking power available to decelerate the train or unit within defined limits and all factors involved in the conversion and dissipation of energy including train resistance.
+
+The brake performance of a unit shall be calculated in accordance with one of the specifications referenced in Appendix D, either Index [16], Index [37], Index [58] or Index [17].
+
+The calculation shall be validated by tests. Brake performance calculation in accordance with the specification referenced in Appendix D Index [17] shall be validated as set out in the same specification or in the specification referenced in Appendix D, Index [58].
+
+4.2.4.3.2.2. Parking brake
+
+A Parking Brake is a brake used to prevent parked rolling stock moving under the specified conditions taking into account the place, wind, gradient and rolling stock loading state, until intentionally released.
+
+If the unit is equipped with a parking brake, the following requirements shall be met:
+
+— the immobilisation shall remain until intentionally released,
+
+— where it is not possible to identify the state of the parking brake directly, an indicator showing the state shall be provided on both sides on the outside of the vehicle,
+
+— the minimum parking brake force, considering no wind, shall be determined by calculations as defined in the specification referenced in Appendix D Index [16].
+
+Where relevant, the calculations shall determine:
+
+— the minimum parking brake force for an unloaded wagon,
+
+— the maximum parking brake force for a fully loaded wagon,
+
+— the breakover loading mass, i.e. the minimum loading condition for the maximum parking brake force,
+
+— the parking brake of a unit shall be designed considering a wheel/rail (steel/steel) adhesion factor not higher than 0,12.
+
+4.2.4.3.3. Thermal capacity
+
+The brake equipment shall be able to withstand one emergency brake application without any loss of brake performance due to thermal or mechanical effects.
+
+The thermal load that the unit is capable of withstanding without any adverse loss of brake performance due to thermal or mechanical effects, shall be defined and expressed in terms of speed, axle load, gradient and brake distance.
+
+The demonstration of conformity is described in point 6.2.2.6.
+
+A slope of 21 ‰ at 70 km/h during 40 km may be considered as the reference case for the thermal capacity which results in a braking power of 45 kW per wheel during 34 minutes for a nominal wheel diameter of 920 mm and an axle load of 22,5 t.
+
+4.2.4.3.4. Wheel slide protection (WSP)
+
+Wheel slide protection (WSP) is a system designed to use the maximum available adhesion by decreasing, holding or increasing the brake force to prevent wheel sets from locking and uncontrolled sliding. Thereby the stopping distance shall be optimised.
+
+If an electronic WSP-control is used negative effects caused by malfunctions of WSP shall be reduced by suitable system design processes and technical configuration.
+
+The WSP shall not alter the functional characteristics of the brakes. The vehicle’s air equipment shall be dimensioned such that the air consumption of the WSP does not impair the performance of the pneumatic brake. The design process of the WSP shall take into account that the WSP has no detrimental effect on the constituent parts of the vehicle (brake gear, wheel tread, axle boxes, etc.).
+
+The following types of units shall be fitted with WSP:
+
+— types of units equipped with all types of brake blocks except composite brake blocks, for which the maximum mean utilisation of adhesion is greater than 0,12,
+
+— types of units equipped with disc brakes only and/or with composite brake blocks, for which the maximum mean utilisation of adhesion is greater than 0,11.
+
+4.2.4.3.5. Friction elements for wheel tread brakes
+
+The friction element for wheel tread brakes (i.e. brake block) generates brake forces by friction when engaged with the wheel tread.
+
+If wheel tread brakes are used the characteristics of the friction element shall contribute reliably to achieving the intended brake performance.
+
+The demonstration of conformity is described in point 6.1.2.5 of this TSI.
+
+4.2.5. Environmental conditions
+
+The design of the unit, as well as its constituents shall take into account the environmental conditions to which this rolling stock will be subjected to.
+
+The environmental parameters are described in the clauses below. For each environmental parameter, a nominal range is defined, which is the most commonly encountered in Europe, and is the basis for the interoperable unit.
+
+For certain environmental parameters ranges other than the nominal one are defined. In that case, a range shall be selected for the design of the unit.
+
+For the functions identified in the clauses below, design and/or testing provisions taken to ensure that the rolling stock is meeting the TSI requirements in this range shall be described in the technical file.
+
+Depending on the ranges selected and on provisions taken (described in the technical file), appropriate operating rules could be necessary when the unit designed for the nominal range is operated on a particular line where the nominal range is exceeded at certain periods of the year.
+
+The ranges, if different from the nominal one, to be selected to avoid any restrictive operating rule(s) linked to environmental conditions, are specified by the Member States and are listed in Section 7.4.
+
+The unit and its constituents shall be designed under consideration of one or several of the following external air temperature ranges:
+
+— T1: – 25 °C to + 40 °C (nominal),
+
+— T2: – 40 °C to + 35 °C, and
+
+— T3: – 25 °C to + 45 °C.
+
+The unit shall meet the requirements of this TSI without degradation for snow, ice and hail conditions as defined in the specification referenced in Appendix D Index [18], which correspond to the nominal range.
+
+Where more severe ‘snow, ice and hail’ conditions than considered in the standard are selected, the unit and its constituents shall then be designed to meet TSI requirements considering the combined effect with low temperature according to the temperature range chosen.
+
+In relation with the temperature range T2 and with the severe conditions for snow, ice and hail, the provisions taken to meet TSI requirements in these severe conditions shall be identified and verified, in particular design and/or testing provisions considering the following functions:
+
+— Coupling function restricted to the resiliency of couplings.
+
+— Brake function, including brake equipment.
+
+The demonstration of conformity is described in point 6.2.2.7.
+
+4.2.6. System protection
+
+4.2.6.1. Fire safety
+
+4.2.6.1.1. General
+
+All significant potential fire sources (high risk components) on the unit shall be identified. The fire safety aspects of the unit design shall be aimed at:
+
+— preventing a fire from occurring,
+
+— limiting the effects if a fire occurs.
+
+The goods carried on the unit are not part of the unit and do not have to be taken into account in the conformity assessment.
+
+4.2.6.1.2. Functional and technical specification
+
+4.2.6.1.2.1. Barriers and spark arresters
+
+4.2.6.1.2.1.1. Requirements applicable to barriers and spark arresters
+
+In order to limit the effects of fire, the following requirements shall apply:
+
+— fire barriers shall be installed between the identified potential fire sources (high risk components) and the carried load in all units,
+
+— spark arresters shall comply with the requirements specified in the technical document referenced in Appendix D.2 Index [E].
+
+Fire barriers and spark arresters shall have an integrity of at least 15 minutes. The demonstration of conformity for barriers and spark arresters is described in point 6.2.2.8.1.
+
+4.2.6.1.2.1.2. Specific requirements for spark arresters
+
+The following units fitted with tread brakes shall be equipped with spark arresters:
+
+— units with floors made of materials not listed in point 6.2.2.8.2.3,
+
+— flat units without flooring,
+
+— flat units with gaps in the flooring to house the wheels.
+
+4.2.6.1.2.2. Materials
+
+All permanent materials used on the unit shall have limited ignitability and flame spread properties, unless:
+
+— the material is separated from all potential fire risks on the unit by a fire barrier and the safe application is supported by a risk assessment, or
+
+— the component has a mass &lt; 400 g, and is located within a horizontal distance of ≥ 40 mm and a vertical distance of ≥ 400 mm to other non-tested components.
+
+The demonstration of conformity is described in point 6.2.2.8.2.
+
+4.2.6.1.2.3. Cables
+
+The selection and installation of electrical cables shall take into account their fire behaviour properties.
+
+The demonstration of conformity is described in point 6.2.2.8.3.
+
+4.2.6.1.2.4. Flammable liquids
+
+The unit shall be provided with measures preventing a fire from occurring and spreading due to leakage of flammable liquids or gases.
+
+The demonstration of conformity is described in point 6.2.2.8.4.
+
+4.2.6.2. Protection against electrical hazards
+
+4.2.6.2.1. Protective measures against indirect contact (protective bonding)
+
+The impedance between vehicle body and the running rail shall be low enough to prevent hazardous voltages between them.
+
+Units shall be bonded in accordance with the provisions as described in the specification referenced in Appendix D Index [27].
+
+4.2.6.2.2. Protective measures against direct contact
+
+The electrical installations and equipment of a unit shall be designed so as to protect persons from electric shock.
+
+The unit shall be designed so that direct contact is prevented following the provisions set out in the specification referenced in Appendix D Index [27].
+
+4.2.6.3. Attachment devices for rear-end signal
+
+On all units designed to receive a rear-end signal, two devices at the end of the unit shall provide for the installation of two lamps or two reflective plates as set out in Appendix E at the same height above rail and not higher than 2 000 mm. The dimensions and clearance of these attachment devices shall be as described in the specification referenced in Appendix D Index [28].
+
+4.2.7. Specific requirements for wagons in the scope of Chapter 7.1 of RID
+
+Wagons in the scope of Chapter 7.1 of RID shall fulfil the requirements set out in Appendix I.
+
+**4.3. Functional and technical specification of the interfaces**
+
+4.3.1. Interface with the subsystem ‘infrastructure’
+
+**Table 5**
+
+**Interface with infrastructure subsystem**
+
+<table>
+<tbody><tr><td> Reference in TSI WAG  </td><td> Reference in TSI INF  (*1)</td></tr>
+<tr><td>4.2.3.1 Gauging</td><td>4.2.4.1 Minimum structure gauge 4.2.4.2 Distance between track centres  4.2.4.5 Minimum radius of vertical curve </td></tr>
+<tr><td>4.2.3.2 Compatibility with load carrying capacity of lines</td><td>4.2.7.1 Track resistance to vertical loads 4.2.7.3 Lateral track resistance  4.2.8.1 Resistance of bridges to traffic loads  4.2.8.2 Equivalent vertical loading for earthworks and earth pressure effects  4.2.8.4 Resistance of existing bridges and earthworks to traffic loads </td></tr>
+<tr><td>4.2.3.5.2 Running dynamic behaviour</td><td>4.2.9 Track geometrical quality</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">(*1)  OJ L 126, 14.5.2011, p. 53. </td></tr>
+</tbody>
+</table>
+
+4.3.2. Interface with the subsystem ‘operation and traffic management’
+
+**Table 6**
+
+**Interface with operation and traffic management subsystem**
+
+<table>
+<tbody><tr><td> Reference in TSI WAG  </td><td> Reference in TSI OPE  (*1)</td></tr>
+<tr><td>4.2.2.2 Strength of unit — Lifting and jacking</td><td>4.2.3.6.3 Contingency arrangements</td></tr>
+<tr><td>4.2.3.1 Gauging</td><td>4.2.2.5 Train composition</td></tr>
+<tr><td>4.2.3.2 Compatibility with load carrying capacity of lines</td><td>4.2.2.5 Train composition</td></tr>
+<tr><td>4.2.4 Brake</td><td>4.2.2.6 Train braking</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td colspan="2">(*1)  OJ L 144, 31.5.2011, p. 1. </td></tr>
+</tbody>
+</table>
+
+4.3.3. Interface with the subsystem ‘control, command and signalling’
+
+**Table 7**
+
+**Interface with control, command and signalling subsystem**
+
+| Reference in TSI WAG | Reference in TSI CCS |
+| --- | --- |
+| 4.2.3.3 a) Rolling stock characteristics compatible with train detection system based on track circuits | — 4.2.10: Compatibility with trackside train detection systems: vehicle design — 4.2.11: Electromagnetic compatibility between rolling stock and Control-Command and Signalling trackside equipment |
+| 4.2.3.3 b) Rolling stock characteristics compatible with train detection system based on axle counters | — 4.2.10: Compatibility with trackside train detection systems: vehicle design — 4.2.11: Electromagnetic compatibility between rolling stock and Control-Command and Signalling trackside equipment |
+| 4.2.3.3 c) Rolling stock characteristics compatible with train detection system based on loop equipment | — 4.2.10: Compatibility with trackside train detection systems: vehicle design |
+
+**4.4. Operating rules**
+
+Operating rules are developed within the procedures described in the railway undertaking safety management system. These rules take into account the documentation related to operation which forms a part of the technical file as required in Article 15(4) of and as set out in Annex IV to Directive (EU) 2016/797.
+
+For the safety critical components (see also 4.5), the specific operational and operational traceability requirements are developed by the designers/manufacturers at design phase and through a collaboration between designers/manufacturers and the concerned railway undertakings or the concerned wagon keeper after vehicles have entered into operation.
+
+The documentation related to operation describes the characteristics of the unit in relation to the design operating state to be considered in order to define the operating rules in normal and in various reasonably foreseeable degraded modes.
+
+The documentation related to operation is composed of:
+
+— a description of operation in normal mode, including the operational characteristics and limitations of the unit (e.g. vehicle gauge, maximum design speed, axle loads, brake performance, compatibility with train detection systems, permitted environmental conditions, type(s) and operation of track gauge changeover facility(ies) the unit is compatible with),
+
+— a description of operation in degraded mode (when equipment or functions described in this TSI suffer safety failures) as far as can reasonably predicted, together with the related acceptable limits and operating conditions of the unit that could be experienced,
+
+— a safety critical components list: The safety critical components list shall contain the specific operational and operational traceability requirements.
+
+The applicant shall provide the initial version of the documentation related to operating rules. This documentation might be modified later in accordance with the corresponding Union legislation, taking into account the existing operating and maintenance conditions of the unit. —————
+
+**4.5. Maintenance rules**
+
+Maintenance is a set of activities intended to keep a functional unit in, or to restore it to a state in which it can perform its required function.
+
+The following documents being part of the technical file as required in Article 15(4) of and as set out in Annex IV to Directive (EU) 2016/797 are necessary to undertake maintenance activities on the units:
+
+— general documentation (point 4.5.1),
+
+— the maintenance design justification file (point 4.5.2), and
+
+— the maintenance description file (point 4.5.3).
+
+The applicant shall provide the three documents described in 4.5.1, 4.5.2. and 4.5.3. This documentation might be modified later in accordance with the corresponding EU legislation, taking into account the existing operating and maintenance conditions of the unit. —————
+
+The applicant or any entity authorised by the applicant (e.g. a keeper) shall provide this documentation to the entity in charge of maintenance as soon as it is assigned for the maintenance of the unit.
+
+On the basis of these three documents, the entity in charge of maintenance shall define a maintenance plan and appropriate maintenance requirements at maintenance operational level under its sole responsibility (not in the scope of the assessment against this TSI).
+
+The documentation includes a list of safety critical components. Safety critical components are components for which a single failure has a credible potential to lead directly to a serious accident as defined in Article 3(12) of Directive (EU) 2016/798.
+
+The safety critical components and their specific servicing, maintenance and maintenance traceability requirements are identified by the designers/manufacturers at design phase and through a collaboration between designers/manufacturers and the concerned entities in charge of maintenance after vehicles have entered into operation.
+
+4.5.1. General documentation
+
+The general documentation comprises:
+
+— Drawings and description of the unit and its components.
+
+— Any legal requirement concerning the maintenance of the unit.
+
+— Drawing of systems (electrical, pneumatic, hydraulic and control-circuit diagrams).
+
+— Additional on-board systems (description of the systems including description of functionality, specification of interfaces and data processing and protocols).
+
+— Configuration files for each vehicle (parts list and bill of material) to enable (in particular but not only) traceability during maintenance activities.
+
+4.5.2. Maintenance design justification file
+
+The maintenance design justification file explains how maintenance activities are defined and designed in order to ensure that the rolling stock characteristics will be kept within permissible limits of use during its lifetime. The file shall give input data in order to determine the criteria for inspection and the periodicity of maintenance activities. The maintenance design justification file comprises:
+
+— Precedents, principles and methods used to design the maintenance of the unit.
+
+— Precedents, principles and methods used to identify the safety critical components and their specific operational, servicing, maintenance and traceability requirements.
+
+— Limits of the normal use of the unit (e.g. km/month, climatic limits, foreseen types of loads, etc.).
+
+— Relevant data used to design the maintenance and origin of these data (return of experience).
+
+— Tests, investigations and calculations carried out to design the maintenance.
+
+4.5.3. Maintenance description file
+
+The maintenance description file describes how maintenance activities can be conducted. Maintenance activities include, among others, inspections, monitoring, tests, measurements, replacements, adjustments and repairs.
+
+Maintenance activities are split into:
+
+— preventive maintenance (scheduled and controlled), and
+
+— corrective maintenance.
+
+The maintenance description file includes the following:
+
+— Component hierarchy and functional description which sets up the boundaries of the rolling stock by listing all the items belonging to the product structure of that rolling stock and using an appropriate number of discrete levels. The lowest item of the hierarchy shall be a replaceable component.
+
+— Parts list which shall contain the technical and functional descriptions of the spare parts (replaceable units). The list shall include all parts specified for changing based on condition, which may require a replacement following electrical or mechanical malfunction or which will foreseeable require a replacement after an accidental damage. Interoperability constituents shall be indicated and referenced to their corresponding declaration of conformity.
+
+— Safety critical components list: The safety critical components list shall contain the specific servicing, maintenance and servicing/maintenance traceability requirements.
+
+— Limit values for components which are not to be exceeded in service. It is permitted to specify operational restrictions in degraded mode (limit value reached).
+
+— List of reference to the European legal obligations to which components or subsystems are subject.
+
+— Maintenance plan ( 5 ) i.e. the structured set of tasks to perform the maintenance including the activities, procedures and means. The description of this set of tasks includes:
+
+(a) Disassembly/assembly instructions drawings necessary for correct assembly/disassembly of replaceable parts.
+
+(b) Maintenance criteria.
+
+(c) Checks and tests in particular of safety relevant parts; these include visual inspection and non-destructive tests (where appropriate e.g. to detect deficiencies that may impair safety).
+
+(d) Tools and materials required to undertake the task.
+
+(e) Consumables required to undertake the task.
+
+(f) Personal protective safety provision and equipment.
+
+— Necessary tests and procedures to be undertaken after each maintenance operation before re-entry into service of rolling stock.
+
+**4.6. Professional competencies**
+
+The professional competencies of staff required for the operation and maintenance of units are not covered by this TSI.
+
+**4.7. Health and safety conditions**
+
+The provisions for health and safety of staff required for the operation and maintenance of units are covered by essential requirements 1.1.5, 1.3.1, 1.3.2, 2.5.1 and 2.6.1 set out in Annex III to Directive (EU) 2016/797  .
+
+In particular, the following points of Section 4.2 specify provisions for health and safety of staff:
+
+point 4.2.2.1.1: End coupling,
+
+point 4.2.6.1: Fire safety,
+
+point 4.2.6.2: Protection against electrical hazards.
+
+If the unit is fitted with a manual coupling system, a free space for shunters during coupling and uncoupling shall be provided.
+
+All protruding parts deemed a hazard to operational staff shall be clearly indicated and/or fitted with protective devices.
+
+The unit shall be equipped with footsteps and handrails except in those cases it is not intended to be operated with staff on-board, e.g. for shunting.
+
+**4.8. Parameters to be recorded in the technical file and European register of authorised types of vehicles**
+
+The technical file shall contain at least the following parameters:
+
+— Type, position and resiliency of the end coupling
+
+— Load due to dynamic traction forces and compressive forces
+
+— Gauge reference profiles to which the unit complies
+
+— Conformity, if any, to target gauge reference profile(s) G1, GA, GB and GC
+
+— Compliance, if any, to gauge lower reference profile(s) GI1 and GI2
+
+— Mass per axle (tare and fully laden)
+
+— Position of the axles along the unit and number of axles
+
+— Length of the unit
+
+— Maximum design speed
+
+— Track gauges(s) the unit can be operated on
+
+— Compatibility with train detection systems (track circuits/axle counters/loop equipment)
+
+— Compatibility with hot axle box detection systems
+
+— In-service temperature range of the axle bearings
+
+— Nature of the signal which controls the brake (example: pneumatic main brake pipe, electric brake type XXX, etc.)
+
+— Characteristics of the control line and of its coupling with other units (main brake pipe diameter, section of the electric cable etc.)
+
+— Individual nominal performance of the brake unit, depending on the brake mode, if any (response time, brake force, level of adhesion required, etc.)
+
+— Braking distance or brake weight depending on the brake mode, if any.
+
+— Thermal load of the brake components expressed in terms of speed, axle load, gradient and brake distance
+
+— Temperature range and severity level of snow/ice/hail conditions
+
+— Ability/inability to be hump shunted
+
+— Presence of footsteps and/or handrails
+
+— Minimum brake force and, where relevant, maximum brake force and breakover loading mass for the parking brake (if applicable)
+
+— Number of axles where the parking brake is applied
+
+— Presence of one or more of the following functions: DDF, DPF, DDAF
+
+— Description of the signal informing of a derailment or a precursor to a derailment and its transmission for units fitted with DDF or DPF.
+
+— The compliance with wagon equipment requirement WE as set out in 7.1.2.2 of RID
+
+— The compliance with 7.1.2.1.1 to 7.1.2.1.6 of RID.
+
+The rolling stock data that must be recorded in the ‘European register of authorised types of vehicles (ERATV)’ are set out in the Commission Implementing Decision 2011/665/EU of 4 October 2011 on the European register of authorised types of railway vehicles ( 6 ).
+
+**4.9. Route compatibility checks before the use of authorised vehicles**
+
+The parameters of the subsystem ‘rolling stock — freight wagons’ to be used by the railway undertaking, for the purpose of route compatibility check, are described in Appendix D1 of Commission Implementing Regulation (EU) 2019/773 ( 7 )
+
+**5\. INTEROPERABILITY CONSTITUENTS**
+
+**5.1. General**
+
+Interoperability constituents (ICs), as defined in Article 2(f) of Directive (EU) 2016/797  , are listed in Section 5.3 together with:
+
+— their area of use covering parameters of the subsystem, and
+
+— the reference to corresponding requirements defined in Section 4.2.
+
+When a requirement is identified in Section 5.3 as being assessed at IC level, an assessment for the same requirement at subsystem level is not required.
+
+**5.2. Innovative solutions**
+
+As stated in Article 10a, innovative solutions may require new specifications and/or new assessment methods. Such specifications and assessment methods shall be developed using the process described in point 6.1.3 whenever an innovative solution is envisaged for an interoperability constituent.
+
+**5.3. Interoperability constituent specifications**
+
+5.3.1. Running gear
+
+The running gear shall be designed for all application ranges, the areas of use, as defined by the following parameters:
+
+— Track gauge
+
+— Maximum speed
+
+— Maximum cant deficiency
+
+— Minimum tare of the unit
+
+— Maximum axle load
+
+— Range of distances between bogie pivots or range of wheelbase of ‘two-axle units’
+
+— Maximum height of centre of gravity of empty unit
+
+— Coefficient of height of centre of gravity of loaded unit
+
+— Minimum torsional stiffness coefficient of car body
+
+— Maximum mass distribution coefficient for empty units with:
+
+[image]
+
+Where:
+
+| Izz | = | moment of inertia of the car body relative to the vertical axis through the centre of gravity of the car body |
+| --- | --- | --- |
+
+| m | = | mass of the car body |
+| --- | --- | --- |
+
+| 2a* | = | wheelbase |
+| --- | --- | --- |
+
+— Minimum nominal wheel diameter
+
+— Rail inclination.
+
+The parameters speed and axle load may be considered in combination in order to define the appropriate area of use (e.g. maximum speed and tare weight).
+
+The running gear shall comply with the requirements expressed in points 4.2.3.5.2 and 4.2.3.6.1. These requirements shall be assessed at IC level.
+
+5.3.2. Wheelset
+
+For the purpose of this TSI, wheelsets include the main parts ensuring the mechanical interface with the track (wheels and connecting elements: e.g. transverse axle, independent wheel axle). Accessories parts (axle bearings, axle boxes and brake discs) are assessed at subsystem level.
+
+The wheelset shall be assessed and designed for the area of use as defined by:
+
+— track gauge,
+
+— nominal wheel tread diameter, and
+
+— maximum vertical static force.
+
+A wheelset shall comply with the requirements on geometrical and mechanical parameters defined in point 4.2.3.6.2. These requirements shall be assessed at IC level.
+
+5.3.3. Wheel
+
+A wheel shall be designed and assessed for an area of use defined by:
+
+— nominal tread diameter,
+
+— maximum vertical static force,
+
+— maximum speed,
+
+— in-service limits, and
+
+— maximum braking energy.
+
+A wheel shall comply with the requirements on geometrical, mechanical and thermo mechanical parameters defined in point 4.2.3.6.3. These requirements shall be assessed at IC level.
+
+5.3.4. Axle
+
+An axle shall be designed and assessed for an area of use defined by:
+
+— maximum vertical static force.
+
+An axle shall comply with the requirements on mechanical parameters defined in point 4.2.3.6.4. These requirements shall be assessed at IC level.
+
+5.3.4a. Friction element for wheel tread brakes
+
+The friction element for wheel tread brakes shall be designed and assessed for an area of use defined by:
+
+— dynamic friction coefficients and their tolerance bands,
+
+— minimum static friction coefficient,
+
+— maximum permitted brake forces applied on the element,
+
+— suitability for train detection by systems based on track circuits,
+
+— suitability for severe environmental conditions.
+
+A friction element for wheel tread brakes shall comply with the requirements defined in point 4.2.4.3.5. These requirements shall be assessed at IC level.
+
+5.3.4b. Automatic variable gauge system
+
+An IC ‘automatic variable gauge system’ shall be designed and assessed for an area of use defined by:
+
+— the track gauges the system is designed for,
+
+— the range of maximum static axle loads,
+
+— the range of nominal wheel tread diameters,
+
+— the maximum design speed of the unit, and
+
+— the types of track gauge changeover facility(ies) the system is designed for, including the nominal speed through the track changeover facility(ies) and the maximum axial forces during the automatic gauge changeover process.
+
+An automatic variable gauge system shall comply with the requirements set out in point 4.2.3.6.6; these requirements shall be assessed at IC level as set out in point 6.1.2.6.
+
+5.3.5. Rear-end signal
+
+The rear-end signal, as described in Appendix E, is an independent IC. There are no requirements in Section 4.2 dealing with the rear-end signal. Its assessment by the notified body is not part of the EC verification of the subsystem.
+
+5.3.6. Devices to secure semi-trailers
+
+Devices to secure semi-trailers shall be designed and assessed for an area of use defined by:
+
+— semi-trailers to which the device to secure semi-trailers is compatible,
+
+— the unit to which the device to secure semi-trailers can be safely mounted.
+
+Devices to secure semi-trailers shall comply with the requirements set out in points 4.2.2.4.1, 4.2.2.4.2 and 4.2.2.4.3. The conformity of devices to secure semi-trailers with those requirements shall be assessed at interoperability constituent level in accordance with point 6.1.2.7.
+
+**6\. CONFORMITY ASSESSMENT AND EC VERIFICATION**
+
+**6.1. Interoperability constituent**
+
+6.1.1. Modules
+
+The conformity assessment of an interoperability constituent shall be performed in accordance with the module(s) described in Table 8.
+
+**Table 8**
+
+**Modules for conformity assessment of interoperability constituents**
+
+<table>
+<tbody><tr><td>Module CA1</td><td>Internal production control plus product verification by individual examination</td></tr>
+<tr><td>Module CA2</td><td>Internal production control plus product verification at random intervals</td></tr>
+<tr><td>Module CB</td><td>EC-Type examination</td></tr>
+<tr><td>Module CD</td><td>Conformity to type based on quality management system of the production process</td></tr>
+<tr><td>Module CF</td><td>Conformity to type based on product verification</td></tr>
+<tr><td>Module CH</td><td>Conformity based on full quality management system</td></tr>
+<tr><td>Module CH1</td><td>Conformity based on full quality management system plus design examination</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Module CV</td><td>Type validation by in-service experience (suitability for use)</td></tr>
+<tr><td colspan="2"></td></tr>
+</tbody>
+</table>
+
+These modules are specified in detail in Decision 2010/713/EU.
+
+6.1.2. Conformity assessment procedures
+
+The manufacturer or his authorised representative established within the Union shall choose one of the modules or module combinations indicated in Table 9 in accordance with the required constituent.
+
+**Table 9**
+
+**Modules to be applied for interoperability constituents**
+
+<table>
+<tbody><tr><td rowspan="3">Point</td><td rowspan="3">Constituent</td><td colspan="6">Modules</td></tr>
+<tr><td>CA1 or CA2</td><td>CB + CD</td><td>CB + CF</td><td>CH</td><td>CH1</td><td>CV</td></tr>
+<tr><td colspan="8"></td></tr>
+<tr><td>4.2.2.4.1, 4.2.2.4.2 and 4.2.2.4.3</td><td>Devices to secure semi-trailers – strength, locking force and indications</td><td>X (*3)</td><td>X</td><td>X</td><td>X (*3)</td><td>X</td><td>  </td></tr>
+<tr><td colspan="8"></td></tr>
+<tr><td rowspan="2">4.2.3.6.1</td><td>Running gear</td><td>  </td><td>X</td><td>X</td><td>  </td><td>X</td><td>  </td></tr>
+<tr><td>Running gear — established</td><td>X</td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>4.2.3.6.2</td><td>Wheelset</td><td>X (*1)</td><td>X</td><td>X</td><td>X (*1)</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.6.3</td><td>Wheel</td><td>X (*1)</td><td>X</td><td>X</td><td>X (*1)</td><td>X</td><td>  </td></tr>
+<tr><td>4.2.3.6.4</td><td>Axle</td><td>X (*1)</td><td>X</td><td>X</td><td>X (*1)</td><td>X</td><td>  </td></tr>
+<tr><td colspan="8"></td></tr>
+<tr><td>4.2.3.6.6</td><td>Automatic variable gauge system</td><td>X (*1)</td><td>X</td><td>X</td><td>X (*1)</td><td>X</td><td>X (*2)</td></tr>
+<tr><td colspan="8"></td></tr>
+<tr><td>4.2.4.3.5</td><td>Friction element for wheel tread brakes</td><td>X (*1)</td><td>X</td><td>X</td><td>X (*1)</td><td>X</td><td>X (*2)</td></tr>
+<tr><td>5.3.5</td><td>Rear-end signal</td><td>X</td><td>  </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(*1)  Modules CA1, CA2 or CH may be used only in the case of products placed on the market, and therefore developed, before the entry into force of this TSI, provided that the manufacturer demonstrates to the NoBo that design review and type examination were performed for previous applications under comparable conditions, and are in conformity with the requirements of this TSI; this demonstration shall be documented, and is considered as providing the same level of proof as module CB or design examination according to module CH1.  (*2)  Module CV shall be used in case the manufacturer of friction element for wheel tread brakes has no sufficient return of experience (according to its own judgment) for the proposed design.  (*3)  Modules CA1, CA2 or CH may be used only in the case of products placed on the market, and therefore developed, before 4 November 2025, provided that the manufacturer demonstrates to the NoBo that design review and type examination were performed for previous applications under comparable conditions, and are in conformity with the requirements of this TSI; this demonstration shall be documented, and is considered as providing the same level of proof as module CB or design examination according to module CH1. </td></tr>
+</tbody>
+</table>
+
+Within the application of the chosen module or module combination the interoperability constituent shall be assessed against the requirements mentioned in Section 4.2. If necessary, additional requirements concerning the assessment of particular interoperability constituents are given in the following clauses.
+
+In case of a specific case applicable to a component defined as interoperability constituent in section 5.3 of this TSI, the corresponding requirement can be part of the verification at interoperability constituent level only in the case where the component remains compliant to the chapters 4 and 5 of this TSI and where the specific case does not refer to a national rule (i.e. additional requirement compatible with the core TSI and fully specified in the TSI).
+
+In other cases, the verification shall be made at subsystem level; when a national rule applies to a component, the concerned Member State may define relevant applicable conformity assessment procedures.
+
+6.1.2.1 Running gear
+
+The demonstration of conformity for running dynamic behaviour is set out in the specification referenced in Appendix D Index [8].
+
+Units equipped with an established running gear as described in that specification are presumed to be in conformity with the relevant requirement provided that the running gears are operated within their established area of use.
+
+The minimum axle load and maximum axle load during operation of a wagon equipped with an established running gear shall be compliant with the loading conditions between tare and loaded specified for the established running gear, as in the specification referenced in Appendix D Index [8].
+
+In case the minimum axle load is not achieved by the mass of the vehicle in tare condition, conditions for use can be applied to the wagon requiring to operate it always with a minimum payload or a ballast (for example with an empty loading device), to be compliant with the parameters of the specification referenced in Appendix D Index [8].
+
+In such case, the parameter ‘Mass of wagon in tare conditions’ used for dispensation of on track tests can be substituted by ‘Minimum axle load’. This shall be reported in the Technical File as a condition for use.
+
+The assessment of the bogie frame strength shall be based on the specification referenced in Appendix D Index [9].
+
+6.1.2.2. Wheelset
+
+The demonstration of conformity for the mechanical behaviour of the wheelset assembly shall be carried out in accordance with the specification referenced in Appendix D Index [10], which defines limit values for the axial assembly force and the associated verification test.
+
+6.1.2.3. Wheel
+
+(a) Forged and rolled wheels: The mechanical characteristics shall be proven following the procedure described in the specification referenced in Appendix D Index [11].
+
+If the wheel is intended to be used with brake blocks acting on the wheel running surface, the wheel shall be thermo mechanically proven by taking into account the maximum braking energy foreseen. A type test, as described in the specification referenced in Appendix D Index [11], shall be performed in order to check that the lateral displacement of the rim during braking and the residual stress are within the specified tolerance limits.
+
+The decision criteria of residual stresses for forged and rolled wheels are set out in the same specification.
+
+Alternative demonstration of conformity is allowed in accordance with point 6.1.2.4a.
+
+(b) Other types of wheels: Other types of wheels are permitted for units in national use. In that case the decision criteria and the fatigue stress criteria shall be specified in national rules. Those national rules shall be notified by Member States in accordance with Article 17(3) of Directive (EU) 2016/797  .
+
+A verification procedure shall exist to ensure at the production phase that no defects may adversely affect safety due to any change in the mechanical characteristics of the wheels. The tensile strength of the material in the wheel, the hardness of the rim, the fracture toughness (only for tread-braked wheels), the resistance to impact, the material characteristics and the material cleanliness shall be verified. The verification procedure shall specify the batch sampling used for each characteristic to be verified.
+
+6.1.2.4. Axle
+
+In addition to the requirement for the assembly above, the demonstration of conformity of the mechanical resistance and fatigue characteristics of the axle shall be based on the specification referenced in Appendix D, Index [12].
+
+That specification includes the decision criteria for the permissible stress. A verification procedure shall exist to ensure at the production phase that no defects may adversely affect safety due to any change in the mechanical characteristics of the axles. The tensile strength of the material in the axle, the resistance to impact, the surface integrity, the material characteristics and the material cleanliness shall be verified. The verification procedure shall specify the batch sampling used for each characteristic to be verified.
+
+Alternative demonstration of conformity is allowed in accordance with point 6.1.2.4a.
+
+6.1.2.4a
+
+Where the EN standards referred to in points 6.1.2.2, 6.1.2.3 and 6.1.2.4 do not cover the proposed technical solution, it is permitted to use other standards to demonstrate conformity of the mechanical behaviour of the wheelset assembly, the mechanical characteristics of the wheels and the mechanical resistance and fatigue characteristics of the axle respectively; in that case the notified body shall verify that the alternative standards form part of a technically consistent set of standards applicable to the design, construction and testing of the wheelsets, containing specific requirements for wheelset, wheels and axles covering:
+
+— wheelset assembly,
+
+— mechanical resistance,
+
+— fatigue characteristics,
+
+— permissible stress limits,
+
+— thermomechanical characteristics.
+
+Only standards that are publicly available can be referred to in the demonstration required above. The verification carried out by the notified body shall ensure the consistency between the methodology of the alternative standards, the assumptions taken by the applicant, the intended technical solution and the intended area of use.
+
+6.1.2.5. Friction elements for wheel tread brakes
+
+The demonstration of conformity of friction elements for wheel tread brakes shall be carried out by determining the following friction element properties in accordance with the European Railway Agency (ERA) technical document ERA/TD/2013-02/INT version 3.0 of 27.11.2015  published on the ERA website (http://www.era.europa.eu):
+
+— dynamic friction performance (chapter 4);
+
+— static friction coefficient (chapter 5);
+
+— mechanical characteristics including properties in respect to shear strength test and flexural strength test (chapter 6).
+
+Demonstration of the following suitabilities shall be carried out in accordance with chapters 7 and/or 8 of the ERA technical document ERA/TD/2013-02/INT version 3.0 of 27.11.2015  published on the ERA website (http://www.era.europa.eu), if the friction element is intended to be suitable for:
+
+— train detection by systems based on track circuits; and/or
+
+— severe environmental conditions.
+
+If a manufacturer does not have sufficient return of experience (according with its own judgement) for the proposed design, the type validation by in-service experience procedure (module CV) shall be part of the assessment procedure for suitability for use. Before commencing in-service tests, a suitable module (CB or CH1) shall be used to certify the design of the interoperability constituent.
+
+The in-service tests shall be organised on request from the manufacturer, who must obtain agreement from a railway undertaking that will contribute to such an assessment.
+
+The suitability for train detection by systems based on track circuits for friction elements intended to be used in subsystems beyond the scope set out in chapter 7 of the ERA technical document ERA/TD/2013-02/INT version 3.0 of 27.11.2015  published on the ERA website (http://www.era.europa.eu) may be demonstrated using the procedure for innovative solutions described in point 6.1.3.
+
+The suitability for severe environmental conditions by a dynamometer test for friction elements intended to be used in subsystems beyond the scope set out in clause 8.2.1 of the ERA technical document ERA/TD/2013-02/INT version 3.0 of 27.11.2015  published on the ERA website (http://www.era.europa.eu) may be demonstrated using the procedure for innovative solutions described in point 6.1.3.
+
+6.1.2.6. Automatic variable gauge system
+
+The assessment procedure shall be based on a validation plan covering all aspects mentioned in points 4.2.3.6.6 and 5.3.4b.
+
+The validation plan shall be consistent with the safety analysis required in clause 4.2.3.6.6 and shall define the assessment needed in all the following different phases:
+
+— Design review
+
+— Static tests (bench tests and integration-in-the-wheelset/unit tests)
+
+— Test on track gauge changeover facility(ies), representative of in-service conditions
+
+— On-track tests, representative of in-service conditions.
+
+Regarding the demonstration of compliance to the safety level required in point 4.2.3.6.6, the assumptions considered for the safety analysis related to the unit the system is intended to be integrated in, and related to the mission profile of that unit, shall be clearly documented.
+
+The automatic variable gauge system may be subject to an assessment of suitability for use (module CV). Before commencing in-service tests, a suitable module (CB or CH1) shall be used to certify the design of the interoperability constituent. The in-service tests shall be organised on request from the manufacturer, who must obtain an agreement from a railway undertaking for its contribution to such assessment.
+
+The certificate delivered by the notified body in charge of the conformity assessment shall include both the conditions for use as per clause 5.3.4b and the type(s) and operating conditions of the track gauge changeover facility(ies) the automatic variable gauge system has been assessed for.
+
+6.1.2.7. Device to secure semi-trailers
+
+The conformity of devices to secure semi-trailers with the requirements of points 4.2.2.4.1, 4.2.2.4.2 and 5.3.6 of this Annex shall be assessed in accordance with the procedures in Sections 2.1 and 2.2 of the ERA Technical Document referenced in Appendix D.2, Index [D].
+
+The conformity of devices to secure semi-trailers with the requirements of points 4.2.2.4.3 and 5.3.6 shall be assessed in accordance with the prescriptions in Section 2.3 of the ERA Technical Document referenced in Appendix D.2, Index [D].
+
+6.1.3. Innovative solutions
+
+If an innovative solution referred to in Article 10a is proposed for an interoperability constituent, the manufacturer or his authorised representative established within the Union shall apply the procedure set out in Article 10a.
+
+**6.2. Subsystem**
+
+6.2.1. Modules
+
+The EC verification of the subsystem ‘Rolling stock — freight wagons’ shall be performed in accordance with the module(s) described in Table 10.
+
+**Table 10**
+
+**Modules for EC verification of subsystems**
+
+SB EC-Type Examination
+
+SD EC verification based on quality management system of the production process
+
+SF EC verification based on product verification
+
+SH1 EC verification based on full quality management system plus design examination
+
+These modules are specified in detail in Decision 2010/713/EU.
+
+6.2.2. EC verification procedures
+
+The applicant shall choose one of the following combinations of modules or module for the EC verification of the subsystem:
+
+— (SB+SD), or
+
+— (SB+SF), or
+
+— (SH1).
+
+Within the application of the chosen module or module combination the subsystem shall be assessed against the requirements mentioned in Section 4.2. If necessary, additional requirements concerning the assessment of particular constituents are given in the following clauses.
+
+6.2.2.1. Strength of unit
+
+The demonstration of conformity shall be in accordance with one of the specifications referenced in Appendix D, either Index [3] or Index [1].
+
+Regarding joints, a recognised verification procedure shall exist to ensure at the production phase that no defect may decrease the intended mechanical characteristics of the structure.
+
+6.2.2.2. Safety against derailment running on twisted track
+
+The demonstration of conformity shall be carried out in accordance with the specification referenced in Appendix D Index [7].
+
+6.2.2.3. Running dynamic behaviour
+
+On-track tests
+
+The demonstration of conformity shall be carried out in accordance with the specification referenced in Appendix D Index [7].
+
+For units operated on the 1 668 mm track gauge network, the evaluation of the estimated value for the guiding force normalized to the radius Rm = 350 m in accordance with that specification, shall be calculated in accordance with the following formula:
+
+Ya,nf,qst = Ya,f,qst – (11 550 m/Rm – 33) kN.
+
+The limit value of the quasi-static guiding force Yj,a,qst shall be 66 kN.
+
+Values of cant deficiency can be adapted to 1 668 mm track gauge by multiplying the corresponding 1 435 mm parameter values by the following conversion factor: 1 733/1 500.
+
+The combination of the highest equivalent conicity and speed for which the unit meets the stability criterion in the specification referenced in Appendix D Index [7] shall be recorded in the report.
+
+6.2.2.4. Axle box/bearings
+
+The demonstration of conformity for mechanical resistance and fatigue characteristics of the rolling bearing shall be in accordance with the specification referenced in Appendix D Index [13].
+
+It is permitted to use other standards for the above demonstration of conformity where the EN standards do not cover the proposed technical solution; in that case the notified body shall verify that the alternative standards form part of a technically consistent set of standards applicable to the design, construction and testing of the bearings.
+
+Only standards that are publicly available can be referred to in the demonstration required above.
+
+In the case of bearings manufactured according to a design developed and already used to place products on the market before the entry into force of relevant TSIs applicable to those products, the applicant is allowed to deviate from the demonstration of conformity above and refer to design review and type examination performed for previous applications under comparable conditions instead; this demonstration shall be documented and is considered as providing the same level of proof as type examination according to module SB or design examination according to module SH1.
+
+6.2.2.4a. Automatic variable gauge systems
+
+The safety analysis required in point 4.2.3.6.6, and performed at IC level, shall be consolidated at the level of the unit; in particular, the assumptions made in accordance with point 6.1.2.6 may need to be reviewed to take into account the unit and its mission profile.
+
+6.2.2.5. Running gear for manual change of wheelsets
+
+Changeover between 1 435 mm and 1 668 mm track gauges
+
+The technical solutions described in the specification referenced in Appendix D Index [14] for axle units and for bogie units are deemed to be compliant with the requirements in point 4.2.3.6.7.
+
+Changeover between 1 435 mm and 1 524 mm track gauges
+
+The technical solution described in the specification referenced in Appendix D Index [15] is deemed to be compliant with the requirements in point 4.2.3.6.7.
+
+6.2.2.6. Thermal capacity
+
+Calculations, simulations or tests shall demonstrate that the temperature of the brake block, brake pad or brake disc does not exceed their thermal capacity. The following shall be taken into account:
+
+(a) concerning the emergency brake application: the critical combination of speed and payload considering straight and level track, minimum wind and dry rails;
+
+(b) concerning the continuous brake application:
+
+— the range up to the maximum braking power,
+
+— the range up to the maximum speed, and
+
+— the corresponding brake application time.
+
+6.2.2.7. Environmental conditions
+
+Steel materials are deemed to comply with all the ranges indicated in point 4.2.5 if the material properties are determined down to – 20 °C.
+
+6.2.2.8. Fire safety
+
+6.2.2.8.1. Barriers and spark arresters
+
+Barriers and spark arresters shall be tested in accordance with the specification referenced in Appendix D Index [19]. Steel sheets of at least 2 mm thickness and aluminium sheets of at least 5 mm thickness are deemed to comply with the integrity requirements without testing.
+
+6.2.2.8.2. Materials
+
+6.2.2.8.2.1. Test
+
+Testing of the materials ignitability and flame spread properties shall be performed in accordance with the specification referenced in Appendix D Index [20] for which the limit value shall be CFE ≥ 18 kW/m2.
+
+For rubber parts of bogies, the testing shall be performed in accordance with the specification referenced in Appendix D Index [23] for which the limit value shall be MARHE ≤ 90 kW/m2 under the test conditions set out in the specification referenced in Appendix D Index [22].
+
+6.2.2.8.2.2. Components exempted from testing
+
+Wheelsets, coated or uncoated, are deemed to comply with the required ignitability and flame spread properties without testing.
+
+6.2.2.8.2.3. Materials exempted from testing
+
+The following materials are deemed to comply with the required ignitability and flame spread properties without testing:
+
+— metals and alloys with inorganic coatings (such as, but not limited to: galvanised coating, anodic coating, chromate film, phosphate conversion coating),
+
+— metals and alloys with an organic coating with a nominal thickness less than 0,3 mm (such as, but not limited to paints, plastic coating, asphaltic coating),
+
+— metals and alloys with a combined inorganic and organic coating of which the nominal thickness of the organic layer is less than 0,3 mm,
+
+— glass, stoneware, ceramic and natural stone products,
+
+— materials that meet the requirements of category C-s3, d2 or higher in accordance with the specification referenced in Appendix D Index [21].
+
+6.2.2.8.3 Cables
+
+The electrical cables shall be selected and installed in accordance with the specification referenced in Appendix D Indexes [24] and [25].
+
+6.2.2.8.4 Flammable liquids
+
+The measures taken shall be in accordance with the specification referenced in Appendix D Index [26].
+
+6.2.3. Innovative solutions
+
+If an innovative solution referred to in Article 10a is proposed for the ‘rolling stock — freight wagons’ subsystem, the applicant shall apply the procedure set out in Article 10a.
+
+**6.3. Subsystem containing components corresponding to interoperability constituents not holding an EC declaration**
+
+A Notified Body is permitted to issue an EC certificate of verification of a subsystem, even if one or more of the components corresponding to interoperability constituents incorporated within the subsystem are not covered by a relevant EC declaration of conformity in accordance with this TSI (non-certified ICs), if the constituent was manufactured before the entry into force of this TSI and the type of constituent has been:
+
+— used in a subsystem already approved, and
+
+— placed in service in at least one Member State before the entry in force of this TSI.
+
+The EC verification of the subsystem shall be carried out by the notified body against the requirements of Chapter 4 by using the corresponding requirements concerning assessment in Chapter 6 together with Chapter 7 except for specific cases. For this EC verification the modules of the subsystem, set out in point 6.2.2, apply.
+
+EC declarations of conformity or suitability for use shall not be drawn up for the components assessed in this manner.
+
+**6.4. Project phases where assessment is required**
+
+The assessment shall cover the following two phases as identified by ‘X’ in the Table F.1 of Appendix F in this TSI. In particular, where a type test is identified the conditions and requirements of Section 4.2 shall be considered.
+
+(a) Design and development phase:
+
+— Design review and/or design examination
+
+— Type test: test to verify the design, if and as defined in the Section 4.2.
+
+(b) Production phase:
+
+— Routine test to verify the conformity of production. The entity in charge of the assessment of the routine tests is determined according to the assessment module chosen.
+
+Appendix F is structured according to Section 4.2. Where relevant, a reference to the points of Sections 6.1 and 6.2 is given.
+
+**6.5. Constituents holding an EC declaration of conformity**
+
+Where a constituent has been identified as an IC and held an EC declaration of conformity before the entry into force of this TSI, its treatment under this TSI is set out as follows:
+
+(a) In the case this constituent is not recognised as an IC in this TSI, neither the certificate nor the declaration are valid for the EC verification procedure related to this TSI.
+
+(b) The EC certificates of conformity, EC-type examination certificates and EC-design examination certificates of the following ICs shall remain valid under this TSI until their expiry:
+
+— Wheelset;
+
+— Wheel;
+
+— Axle.
+
+**7\. IMPLEMENTATION**
+
+**7.1. Authorisation for placing on the market**
+
+(1) This TSI is applicable to the subsystem ‘rolling stock — freight wagons’ within the scope set out in its points 1.1, 1.2 and 2.1, which are placed on the market after the date of application of this TSI, except where point 7.1.1 ‘Application to ongoing projects’ applies.
+
+(2) This TSI is also applicable on a voluntary basis to:
+
+— units referred to in point 2.1(a) in running mode, in case they correspond to a ‘unit’ as defined in this TSI, and
+
+— units as defined in point 2.1(c), in case they are in empty configuration.
+
+In case the applicant chooses to apply this TSI, the corresponding EC declaration of verification shall be recognised as such by Member States.
+
+(3) Compliance with this Annex in its version applicable before 28 September 2023 is deemed equivalent to compliance with this TSI, except for changes listed in Appendix A.
+
+7.1.1. Application to ongoing projects
+
+(1) The application of this TSI applicable from 28 September 2023 is not mandatory for projects that, on that date, are in phase A or phase B as defined in points 7.2.3.1.1 and 7.2.3.1.2 of the ‘previous TSI’ (i.e. this Regulation, as amended by Commission Implementing Regulation (EU) 2020/387 ( 8 )).
+
+(2) Without prejudice to Appendix A, Table A.2, the application of the requirements of Chapters 4, 5, 6 to projects referred in point (1) is possible on a voluntary basis.
+
+(3) If the applicant chooses not to apply this TSI version to an ongoing project, the version of this TSI applicable at the beginning of phase A as referred to in point (1) remains applicable.
+
+7.1.2. Mutual recognition of the first authorisation of placing on the market
+
+In accordance with Article 21(3)(b) of Directive (EU) 2016/797 the authorisation for placing of the market of a vehicle (as defined in this TSI) is granted on the basis of:
+
+— in accordance with point (a) of Article 21(3): the ‘EC’ declaration of verification as provided for in Article 15 of the same directive, and
+
+— in accordance with (d) of Article 21(3): evidence of the technical compatibility of the unit with the network in the area of use covering the EU network.
+
+Points (b) and (c) of Article 21(3) of Directive (EU) 2016/797 do not represent any additional requirement. The technical compatibility of the vehicle with the network being covered by rules (TSIs or national rules), this aspect is also considered at the level of the ‘EC’ verification.
+
+Therefore, the conditions for having an area of use not limited to particular national networks are specified below as additional requirements to be covered in the EC verification of the subsystem rolling stock. These conditions shall be seen as complementary to the requirements in Section 4.2 and must be fulfilled in their entirety:
+
+(a) The unit must be equipped with forged and rolled wheels assessed according to point 6.1.2.3(a).
+
+(b) The compliance/non-compliance with the requirements regarding the axle bearing condition monitoring by line side equipment as set out in point 7.3.2.2.(a) must be recorded in the technical file.
+
+(c) The reference profile established for the unit as per point 4.2.3.1 must be allocated to one of the target reference profile(s) G1, GA, GB and GC including those used for the lower part GI1 and GI2.
+
+(d) The unit must be compatible with the train detection systems based on track circuits, on axle counters and on loop equipment as specified in clauses 4.2.3.3(a), 4.2.3.3(b) and 4.2.3.3(c).
+
+(d1) If the unit has electronic equipment on board emitting interference current via the rail, the ‘influencing unit’ (as defined in the technical document referenced in Appendix D.2 Index [A]) of which the unit is planned to be part shall be compliant with specific cases for track circuits notified under Article 13 of CCS TSI by applying the harmonised vehicle test methods and vehicle impedance referred in the technical document referenced in Appendix D.2 Index [A]. Compliance of the unit shall be demonstrated based on the technical document referred in Article 13 of CCS TSI and is checked by the notified body as part of EC verification.
+
+(d2) If the unit has electrical or electronic equipment on board emitting interference electromagnetic fields:
+
+— close to the wheel sensor of an axle counter, or
+
+— induced by the return current via the rail if applicable.
+
+The ‘influencing unit’ (as defined in the technical document referenced in Appendix D.2 Index [A]) of which the unit is planned to be part shall be compliant with specific cases for axle counters notified under Article 13 of CCS TSI. Compliance of the unit shall be demonstrated by applying the harmonised vehicle test methods referred in the technical document referenced in appendix D.2 index [A] or alternatively based on the technical document referred in Article 13 of CCS TSI. It is checked by the Notified Body as part of EC verification.
+
+(e) The unit must be equipped with the manual coupling system in accordance with the prescriptions set out in Appendix C, Section 1, including the fulfilment of Section 8 or with any semi-automatic or automatic coupling system.
+
+(f) The brake system must be in accordance with the conditions of Appendix C, Sections 9, 14 and 15 when applying the reference case set out in point 4.2.4.2.
+
+(g) The unit must be marked with all applicable markings in accordance with the specification referenced in Appendix D Index [2].
+
+The compliance of the unit with the Wagon Equipment requirements (WE) as set out in Appendix I shall be marked on both sides of the unit as depicted in Figure 3, even if the unit is not intended for the transport of dangerous goods:
+
+Figure 3
+
+Marking of the unit with wagon equipment
+
+[image]
+
+In this example, the wagon is fitted with wagon equipment 1, 3, 2, 4 and 6.
+
+The letters shall be of the same font type as the GE marking. The size of the letters shall be at least 100 mm high. The outer measures of the frame shall be at least 275 mm wide and 140 mm high, the frame shall be 7 mm thick.
+
+The marking shall be located on the right-hand side of the area containing the European Vehicle Number and the TEN marking.
+
+(h) The minimum and, where relevant maximum parking brake force, the number of wheelsets (N) and the number of wheelsets on which the parking brake is applied (n) shall be marked as set out in Figure 4  :
+
+Figure 4
+
+Marking of the parking brake force
+
+[image] [image]
+
+**7.2. General rules for implementation**
+
+7.2.1. Substitution of constituents
+
+This section deals with substitutions of constituents as referred to in Article 2 of Directive (EU) 2016/797.
+
+The following categories have to be considered:
+
+Certified ICs: Components which correspond to an IC in Chapter 5 and which are holding a certificate of conformity.
+
+Other components: Any component, which is not corresponding to an IC in Chapter 5.
+
+Non-certified ICs: Components which correspond to an IC in Chapter 5 but are not holding a certificate of conformity and which are produced before the expiry of the transitional period referred to in Article 8.
+
+Table 11 shows the possible permutations.
+
+**Table 11**
+
+**Substitution permutation table**
+
+<table>
+<tbody><tr><td rowspan="2">  </td><td colspan="3">... substituted by ...</td></tr>
+<tr><td>... certified ICs</td><td>... other components</td><td>... non-certified ICs</td></tr>
+<tr><td>Certified ICs …</td><td>Check</td><td>not possible</td><td>check</td></tr>
+<tr><td>Other components …</td><td>not possible</td><td>check</td><td>not possible</td></tr>
+<tr><td>Non-certified ICs …</td><td>Check</td><td>not possible</td><td>check</td></tr>
+</tbody>
+</table>
+
+The word ‘check’ in Table 11 means that the entity in charge of maintenance (ECM) may under its responsibility substitute a component by another one utilising the same function and at least the same performance in accordance with the relevant TSI requirements considering that these components are:
+
+— suitable, i.e. conform to the relevant TSI(s),
+
+— used within its area of use,
+
+— enabling interoperability,
+
+— meeting the essential requirements, and
+
+— in line with restrictions stated in the technical file.
+
+7.2.2. Changes to a unit in operation or to an existing unit type
+
+7.2.2.1. Introduction
+
+This point 7.2.2 defines the principles to be applied by the entities managing the change and authorising entities in line with the EC verification procedure described in Article 15(9), Article 21(12) and Annex IV of Directive (EU) 2016/797. This procedure is further developed in Article 13, 15 and 16 of Commission Implementing Regulation (EU) 2018/545 ( 9 ) and in Commission Decision 2010/713/EC ( 10 ).
+
+This point 7.2.2 applies in case of any change(s) to a unit in operation or to an existing unit type, including renewal or upgrade.  It does not apply in case of changes:
+
+— that do not introduce a deviation from the technical files accompanying the EC declarations for verification for the subsystems, if any, and
+
+— that do not have an impact on basic parameters not covered by the EC declaration, if any.
+
+The holder of the vehicle type authorisation shall provide, under reasonable conditions, the information necessary for assessing the changes to the entity managing the change.
+
+7.2.2.2. Rules to manage changes in both a unit or a unit type
+
+Parts and basic parameters of the unit that are not affected by the change(s) are exempt from conformity assessment against the provisions in this TSI.
+
+Without prejudice to point 7.2.2.3, compliance with the requirements of this TSI or Commission Regulation (EU) No 1304/2014 ( 11 ) (‘TSI NOI’) (see point 7.2 of TSI NOI) shall only be needed for the basic parameters in this TSI which may be affected by the change(s).
+
+In accordance with Articles 15 and 16 of Commission Implementing Regulation (EU) 2018/545 and Decision 2010/713/EU and by application of modules SB, SD/SF or SH1 for the EC verification, and if relevant in accordance with Article 15(5) of Directive (EU) 2016/797, the entity managing the change shall inform a notified body of all changes affecting the conformity of the subsystem with requirements of the relevant TSI(s) requiring new checks by a notified body. This information shall be provided by the entity managing the change with corresponding references to the technical documentation relating to the existing EC type or design examination certificate.
+
+Without prejudice of the general safety judgement mandated in article 21(12)(b) of Directive (EU) 2016/797, in case of changes requiring reassessment of the safety requirements set out in clauses 4.2.4.2 for the brake system, a new authorization for placing on the market will be required unless one of the following conditions are met:
+
+— The brake system fulfils the conditions of C.9 and C.14 of Appendix C after change or,
+
+— Both the original and changed brake systems fulfil the safety requirements set out in clause 4.2.4.2.
+
+National migration strategies related to the implementation of other TSIs (e.g. TSIs covering fixed installations) shall be taken into account when defining to what extent the TSIs covering rolling stock needs to be applied.
+
+The basic design characteristics of the rolling stock are defined in Table 11a. Based on these tables and on the safety judgement mandated in Article 21(12)(b) of Directive (EU) 2016/797, the changes shall be categorised as follows:
+
+— 15(1)(c) of Commission Implementing Regulation (EU) 2018/545 if they are above the thresholds set out in column 3 and below thresholds set out in column 4 unless the safety judgement mandated in Article 21(12)(b) of Directive (EU) 2016/797 requires to categorise them as 15(1)(d), or
+
+— 15(1)(d) of Commission Implementing Regulation (EU) 2018/545 if they are above the thresholds set out in column 4 or if the safety judgement mandated in Article 21(12)(b) of Directive (EU) 2016/797 requires to categorise them as 15(1)(d).
+
+The determination whether the changes are beyond or above the thresholds mentioned above shall be done in reference to the values of the parameters at the time of the last authorisation of the rolling stock or rolling stock type.
+
+Changes not referred to in the paragraph above are deemed not to have any impact on the basic design characteristics and will be categorised as 15(1)(a) or 15(1)(b) of Commission Implementing Regulation (EU) 2018/545, unless the safety judgement mandated in Article 21(12)(b) of Directive (EU) 2016/797 requires to categorise them as 15(1)(d).
+
+The safety judgement mandated in Article 21(12)(b) of Directive (EU) 2016/797 shall cover all changes concerning basic parameters of table 1, related to all the essential requirements, in particular the requirements ‘Safety’ and ‘Technical compatibility’.
+
+Without prejudice to clause 7.2.2.3, all changes shall remain compliant with the applicable TSIs regardless their classification.
+
+The replacement of a whole element within a rake of permanently connected elements after a severe damage does not require a conformity assessment against this TSI, as long as the element is identical to the one it replaces. Such element must be traceable and certified in accordance with any national or international rule, or any code of practice widely acknowledged in the railway domain.
+
+**Table 11a**
+
+**Basic design characteristics related to basic parameters set out in the WAG TSI**
+
+<table>
+<tbody><tr><td>1. TSI clause</td><td>2. Related basic design characteristic(s)</td><td>3. Changes impacting the basic design characteristic and not classified as 21(12)(a) of Directive (EU) 2016/797</td><td>4. Changes impacting the basic design characteristic and classified as 21(12)(a) of Directive (EU) 2016/797</td></tr>
+<tr><td>4.2.2.1.1 End coupling</td><td>Type of end coupling</td><td>Change of end coupler type</td><td>N/A</td></tr>
+<tr><td>4.2.3.1 Gauging</td><td>Reference profile</td><td>N/A</td><td>Change of reference profile the vehicle is conform to</td></tr>
+<tr><td>  </td><td>Minimum vertical convex curve radius capability</td><td>Change in minimum vertical convex curve radius capability the unit is compatible with of more than 10 %</td><td>N/A</td></tr>
+<tr><td>  </td><td>Minimum vertical concave curve radius capability</td><td>Change in minimum vertical concave curve radius capability the unit is compatible with of more than 10 %</td><td>N/A</td></tr>
+<tr><td>4.2.3.2. Compatibility with load carrying capacity of lines</td><td>Permissible payload for different line categories</td><td>Change (1) of any of the vertical loading characteristics resulting in a change of the line category(ies) the wagon is compatible with</td><td>N/A</td></tr>
+<tr><td>4.2.3.3 Compatibility with train detection systems</td><td>Compatibility with train detection systems</td><td>N/A</td><td>Change of declared compatibility with one or more of the three train detection systems: Track circuits  Axle counters  Loop equipment </td></tr>
+<tr><td>4.2.3.4 Axle bearing condition monitoring</td><td>On-board detection system</td><td>N/A</td><td>Fitting/Removal of on-board detection system</td></tr>
+<tr><td>4.2.3.5 Running safety</td><td>Combination of maximum speed and maximum cant deficiency for which the unit was assessed</td><td>N/A</td><td>Increase in maximum speed of more than 15 km/h or change of more than ± 10 % in maximum admissible cant deficiency</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>4.2.3.5.3 Derailment detection and prevention function</td><td>Presence and type of derailment detection and prevention function(s)</td><td>Fitting/removing of prevention/detection function</td><td>N/A</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>  </td><td>Rail inclination</td><td>N/A</td><td>Change of rail inclination the vehicle is conform to (2)</td></tr>
+<tr><td>4.2.3.6.2 Characteristics of wheelsets</td><td>Wheelset gauge</td><td>N/A</td><td>Change of track gauge the wheelset is compatible with</td></tr>
+<tr><td>4.2.3.6.3 Characteristics of wheels</td><td>Minimum required in-service wheel diameter</td><td>Change of minimum required in-service diameter of more than 10 mm</td><td>N/A</td></tr>
+<tr><td>4.2.3.6.6 Automatic variable gauge systems</td><td>Wheelset gauge changeover facility</td><td>Change in the unit leading to a change in the changeover facility(ies) the wheelset is compatible with</td><td>Change of track gauge(s) the wheelset is compatible with</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td rowspan="3">4.2.4.3.2.1 Service brake</td><td>Stopping distance</td><td>Change of stopping distance of more than ± 10 % Note: Brake weight percentage (also called ‘lambda’ or ‘braked mass percentage’) or braked mass may also be used, and can be derived (directly or via stopping distance) from deceleration profiles by a calculation.  The allowed change is the same (± 10 %) </td><td>N/A</td></tr>
+<tr><td>Maximum deceleration for the load condition ‘design mass under normal payload’ at the maximum design speed</td><td>Change of more than ± 10 % on the maximum average brake deceleration</td><td>N/A</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>4.2.4.3.2.2 Parking brake</td><td>Parking brake</td><td>Parking brake function installed/removed</td><td>N/A</td></tr>
+<tr><td>4.2.4.3.3 Thermal capacity</td><td>Thermal capacity expressed in terms of Speed  Gradient  Brake distance </td><td>N/A</td><td>New reference case declared</td></tr>
+<tr><td>4.2.4.3.4 Wheel slide protection (WSP)</td><td>Wheel slide protection</td><td>N/A</td><td>Fitting/removal of WSP function</td></tr>
+<tr><td>4.2.5 Environmental conditions</td><td>Temperature range</td><td>Change of temperature range (T1, T2, T3)</td><td>N/A</td></tr>
+<tr><td>  </td><td>Snow, ice and hail conditions</td><td>Change of the selected range ‘snow, ice and hail’ (nominal or severe)</td><td>N/A</td></tr>
+<tr><td colspan="4">(1)  Change of the loading characteristics is not to be re-assessed in operation (loading/unloading of the wagon)  (2)  The rolling stock fulfilling one of the following conditions are deemed to be compatible with all rail inclinations:  — Rolling stock assessed according to EN 14363:2016  — Rolling stock assessed according to EN 14363:2005 (amended or not amended by ERA/TD/2012-17/INT) or UIC 518:2009 with the result, that there is no restriction to one rail inclination  — vehicles assessed according to EN 14363:2005 (amended or not amended by ERA/TD/2012-17/INT) or UIC 518:2009 with the result, that there is a restriction to one rail inclination and a new assessment of the wheel-rail-contact test conditions based on real wheel- and rail profiles and measured track gauge show compliance with the requirements on wheel-rail-contact conditions of EN 14363:2016 </td></tr>
+</tbody>
+</table>
+
+In order to establish the EC type or design examination certificate, the notified body selected by the entity managing the change may refer to:
+
+— the original EC type or design examination certificate for parts of the design that are unchanged or those that are changed but do not affect the conformity of the subsystem, as far as it is still valid,
+
+— additional EC type or design examination certificate (amending the original certificate) for modified parts of the design that affect the conformity of the subsystem with the TSIs referred to in the certification framework defined in point 7.2.3.1.1.
+
+In case the validity period of the EC type or design examination certificate for the original type is limited to 10 years (due to the application of the former Phase A/B concept), the validity period of the EC type or design examination certificate for the modified type, type variant or type version shall be limited to 14 years after the date of appointment of a notified body by the applicant for the initial rolling stock type (beginning of phase A of the original EC type or design examination certificate).
+
+7.2.2.3. Particular rules for units in operation not covered by an EC declaration of verification with a first authorisation for placing in service before 1 January 2015
+
+The following rules apply, in addition to point 7.2.2.2, to units in operation with a first authorisation for placing in service before 1 January 2015, where the scope of the change has an impact on basic parameters not covered by the EC declaration.
+
+The compliance with technical requirements of this TSI is deemed established when a basic parameter is improved in the direction of the TSI defined performance and the entity managing the change demonstrates that the corresponding essential requirements are met and the safety level is maintained and, where reasonably practicable, improved. The entity managing the change shall in this case justify the reasons for which the TSI defined performance was not met, taking into account migration strategies of other TSIs as stated in section 7.2.2.2. This justification shall be in the technical file, if any, or in the original technical documentation of the unit.
+
+The particular rule set out in the above paragraph is not applicable in changes impacting the basic parameters and classified as 21(12)a set out in table 11b. For those changes, compliance with the TSI requirements is mandatory.
+
+**Table 11b**
+
+**Changes to basic parameters for which compliance with TSI requirements is mandatory for rolling stock not holding an EC type or design examination certificate**
+
+| TSI clause | Related basic design characteristic(s) | Changes impacting the basic design characteristic and classified as 21(12)(a) of Directive (EU) 2016/797 |
+| --- | --- | --- |
+| 4.2.3.1 Gauging | Reference profile | Change of reference profile the unit is conform to |
+| 4.2.3.3 Compatibility with train detection systems | Compatibility with train detection systems | Change of declared compatibility with one or more of the three train detection systems: Track circuits Axle counters Loop equipment |
+| 4.2.3.4 Axle bearing condition monitoring | On-board detection system | Fitting/Removal of on-board detection system |
+| 4.2.3.6.2 Characteristics of wheelsets | Wheelset gauge | Change of track gauge the wheelset is compatible with |
+| 4.2.3.6.6 Automatic variable gauge systems | Wheelset gauge changeover facility | Change of track gauge(s) the wheelset is compatible with |
+
+7.2.2.4. Rules for the extension of the area of use for units in operation having an authorisation in accordance with Directive 2008/57/EC or in operation before 19 July 2010
+
+(1) In the absence of full conformity with this TSI, point 2 applies to units that fulfil the following conditions when requesting an extension of their area of use in accordance with Article 21(13) of Directive (EU) 2016/797:
+
+1\. they have been authorised in accordance with Directive 2008/57/EC or put in operation before 19 July 2010;
+
+2\. they are registered with ‘Valid’ registration code ‘00’, in the National Vehicle Register in accordance with Commission Decision 2007/756/EC ( 12 ) or in the European Vehicle Register in accordance with Commission Implementing Decision (EU) 2018/1614 ( 13 ) and maintained in a safe state of running in accordance with Commission Implementing Regulation (EU) 2019/779 ( 14 ).
+
+The following provisions for extension of area of use apply also in combination with a new authorisation as defined in point (a) of Article 14(3) of Regulation (EU) 2018/545.
+
+(2) Authorisation for an extended area of use of the units referred to in point 1 shall be based on the existing authorisation, if any, the technical compatibility between the unit and the network in accordance with point (d) of Article 21(3) of Directive (EU) 2016/797 and compliance with the Basic Design Characteristics of Table 11a of this TSI, taking into account any restrictions or limitations.
+
+The applicant shall provide an ‘EC declaration of verification’ accompanied by technical files giving evidence of compliance with the requirements set out in this TSI, or with provisions having equivalent effect, for each basic parameter referred to in column 1 of Table 11a of this TSI, through one or a combination of the following:
+
+(a) compliance with requirements of this TSI as referred above;
+
+(b) compliance with corresponding requirements set out in a previous TSI as referred above;
+
+(c) compliance with alternative specifications deemed to have equivalent effect to the relevant requirements set out in this TSI as referred above;
+
+(d) evidence that the requirements for technical compatibility with the network of the extended area of use are equivalent to the requirements for technical compatibility with the network for which the unit is already authorised or in operation. Such evidence shall be provided by the applicant and may be based on the information in the register of railway infrastructure (RINF).
+
+(3) The equivalent effect of alternative specifications to the requirements of this TSI (point 2(c)) and the equivalence of requirements for technical compatibility with the network (point 2(d)) shall be justified and documented by the Applicant by applying the risk management process set out in Annex I of Regulation (EU) No 402/2013. The applicant shall provide a positive assessment by an assessment body (CSM RA).
+
+(4) In addition to the requirements referred to in point 2 and where applicable, the applicant shall provide an ‘EC declaration of verification’ accompanied by technical files giving evidence of compliance with the following:
+
+(a) specific cases relating to any part of the extended area of use, listed in this TSI, TSI NOI and CCS TSI;
+
+(b) the national rules referred to in points (a), (c) and (d) of Article 13(2) of Directive (EU) 2016/797 as notified in accordance with Article 14 of that Directive.
+
+(5) The authorising entity shall make publicly available through the Agency website details of the alternative specifications referred to in point 2(c) and of the requirements for technical compatibility with the network referred to in point 2(d) on the basis of which it granted authorisations for the extended area of use.
+
+(6) Where an authorised vehicle benefited from non-application of TSIs or part of them pursuant to Article 9 of Directive 2008/57/EC, the applicant shall seek derogation(s) in the Member States of the extended area of use in accordance to Article 7 of Directive (EU) 2016/797.
+
+(7) In accordance with Article 54(2) of Directive (EU) 2016/797, wagons used under Regolamento Internazionale Veicoli (RIV) shall be deemed authorised in accordance with the conditions under which they were used, including the area of use where they are operated. Following a change which requires a new authorisation for placing on the market in accordance with Article 21(12) of Directive (EU) 2016/797, wagons accepted under the latest RIV agreement shall conserve the area of use in which they were operating without further checks on the unchanged parts.
+
+7.2.2.5. Rules for units in operation that are equipped with devices to secure semi-trailers
+
+Units in operation that are equipped with devices to secure semi-trailers shall be made to comply with the requirements in point 4.2.2.4.2 within a transitional period as set out in Table A.2 in Appendix A.
+
+The conformity of devices to secure semi-trailers with the requirements in point 4.2.2.4.2 shall be assessed in accordance with the procedure in Section 2.2 of the ERA Technical Document referenced in Appendix D.2, Index [D].
+
+The conformity shall be assessed:
+
+(a) by keepers in respect of their vehicle fleets, once per combination of unit type and type of the device to secure semi-trailers. The keeper may delegate the assessment to the manufacturer of the devices to secure semi-trailers, or the entity in charge of maintenance assigned to its vehicles; or
+
+(b) by manufacturers in respect of vehicles produced by them, once per combination of unit type and type of the device to secure semi-trailers. The evidence of conformity may then be provided to any keeper.
+
+Each individual unit which corresponds to the positively assessed combination shall have an entry in its technical documentation which refers to the tests done and confirms that it complies with the requirements in point 4.2.2.4.2. The conformity with the requirements in point 4.2.2.4.2 shall also be included in the markings on the unit, in accordance with point 4.2.2.4.4.
+
+An assessment by a notified body shall not be required.
+
+Units in operation that are equipped with devices to secure semi-trailers shall be made to comply with the requirements in points 4.2.2.4.4 within a transitional period as set out in Table A.2.
+
+The conformity of the marking of each individual unit shall be assessed in accordance with the prescriptions in Section 2.4 of the ERA Technical Document referenced in Appendix D.2, Index [D]. The conformity shall be assessed by the keeper. The keeper may delegate the assessment to the entity in charge of maintenance assigned to its units.
+
+Each individual unit which has been positively assessed shall have an entry in its technical documentation which confirms that it complies with the requirements in point 4.2.2.4.4.
+
+An assessment by a notified body shall not be required.
+
+7.2.3. Rules related to the EC type or design examination certificates
+
+7.2.3.1. Rolling stock subsystem
+
+This point concerns a rolling stock type (unit type in the context of this TSI), as defined in Article 2(26) of Directive (EU) 2016/797, which is subject to an EC type or design verification procedure in accordance with section 6.2 of this TSI. It also applies to the EC type or design verification procedure in accordance with the TSI NOI, which refers to this TSI for its scope of application to freight units.
+
+The TSI assessment basis for an EC type or design examination is defined in columns ‘Design review’ and ‘Type test’ of Appendix F of this TSI and of Appendix C of the TSI NOI.
+
+7.2.3.1.1. Definitions
+
+(1) Initial assessment framework
+
+The initial assessment framework is the set of TSIs (this TSI and the TSI NOI) applicable at the beginning of the design phase when the notified body is contracted by the applicant.
+
+(2) Certification framework
+
+The certification framework is the set of TSIs (this TSI and the TSI NOI) applicable at the time of issuing the EC type or design examination certificate. It is the initial assessment framework amended with the revisions of TSIs that came into force during the design phase.
+
+(3) Design phase
+
+The design phase is the period starting once a notified body, which is responsible for EC verification, is contracted by the applicant and ending when the EC type or design examination certificate is issued.
+
+A design phase can cover a type and one or several type variant(s) and type version(s). For all type variant(s) and type version(s), the design phase is considered as starting at the same time as for the main type.
+
+(4) Production phase
+
+The production phase is the period during which units may be placed on the market on the basis of an EC declaration of verification referring to a valid EC type or design examination certificate.
+
+(5) Unit in operation
+
+A unit is in operation when it is registered with ‘Valid’ registration code ‘00’, in the National Vehicle Register in accordance with Decision 2007/756/EC or in the European Vehicle Register in accordance with Implementing Decision (EU) 2018/1614 and maintained in a safe state of running in accordance with Implementing Regulation (EU) 2019/779.
+
+7.2.3.1.2. Rules related to the EC type or design examination certificate
+
+(1) The notified body shall issue the EC type or design examination certificate referring to the certification framework.
+
+(2) When a revision of this TSI or of the TSI NOI comes into force during the design phase, the notified body shall issue the EC type or design examination certificate in accordance with the following rules:
+
+— For changes in the TSIs that are not referenced in Appendix A, conformity with the initial assessment framework leads to conformity to the certification framework. The Notified Body shall issue the EC type or design examination certificate referring to the certification framework without additional assessment.
+
+— For changes in the TSIs that are referenced in Appendix A, their application is mandatory in accordance with the transition regime laid down in that Appendix. During the transition period, the Notified Body may issue the EC type or design examination certificate referring to the certification framework without additional assessment. The Notified Body shall list in the EC type or design examination certificate all the points assessed in accordance with the initial assessment framework.
+
+(3) When several revisions of this TSI or of the TSI NOI come into force during the design phase, point (2) shall apply to all revisions successively
+
+(4) It is always permissible (but not mandatory) to use a most recent version of any TSI, either totally or for particular sections, unless explicitly otherwise specified in the revision of those TSIs; in case of application limited to particular sections, the applicant has to justify and document that applicable requirements remain consistent, and that has to be approved by the notified body.
+
+7.2.3.1.3. Validity of the EC type or design examination certificate
+
+(1) When a revision of this TSI or of the TSI NOI comes into force, the EC type or design examination certificate for the subsystem remains valid unless it is required to be revised in accordance with the specific transition regime of a TSI change.
+
+(2) Only the changes to the TSIs with a specific transition regime can apply to units in production phase or to units in operation.
+
+7.2.3.2. Interoperability constituents
+
+(1) This point concerns interoperability constituents which are subject to type examination or design examination or to suitability for use.
+
+(2) The type or design examination or suitability for use remains valid even if a revision of this TSI or of the TSI NOI comes into force, unless explicitly otherwise specified in the revision of those TSIs.
+
+During this time, new constituents of the same type are permitted to be placed on the market without a new type assessment.
+
+**7.3. Specific cases**
+
+7.3.1. Introduction
+
+The specific cases, as listed in point 7.3.2, are classified as:
+
+— ‘P’ cases: ‘permanent’ cases.
+
+— ‘T0’: ‘temporary’ cases of indefinite duration, where the target system shall be reached by a date still to be determined.
+
+— ‘T2’ cases: ‘temporary’ cases, where the target system shall be reached by 31 December 2035.
+
+All specific cases and their relevant dates shall be re-examined in the course of future revisions of the TSI with a view to limiting their technical and geographical scope based on an assessment of their impact on safety, interoperability, cross border services, TEN-T corridors, and the practical and economic impacts of retaining or eliminating them. Special account shall be given to availability of EU funding.
+
+Specific cases shall be limited to the route or network where they are strictly necessary and taken account of through route compatibility procedures.
+
+In case of a specific case applicable to a component defined as interoperability constituent in section 5.3 of this TSI, the conformity assessment has to be performed according to point 6.1.2.
+
+7.3.2. List of specific cases
+
+7.3.2.1. General specific cases
+
+Units running between a Member State and a third country with a network with 1520 mm track gauge: Specific case Finland, Poland, Slovak Republic and Sweden.
+
+(‘P’) The application of national technical rules instead of the requirements in this TSI is allowed for third countries rolling stock.
+
+7.3.2.1a. Gauging (point 4.2.3.1)
+
+Specific case Ireland and UK for Northern Ireland
+
+(‘P’) It is permissible for the reference profile of the upper and the lower part of the unit to be established in accordance with the national technical rules notified for this purpose.
+
+This specific case does not prevent access of any TSI compliant rolling stock as long as it is also compatible with an IRL gauge (track gauge system 1 600 mm).
+
+7.3.2.2. Axle bearing condition monitoring (point 4.2.3.4)
+
+(a) Specific case Sweden
+
+(‘T2’) Units intended to operate on the Swedish railway network shall be compliant with the target and prohibitive zones as set out in Table 12.
+
+The two zones underneath the axle box/journal set out in Table 12 referring to the parameters of the standard EN 15437-1:2009+A1:2022  shall be free to facilitate vertical monitoring by trackside axle box detection system:
+
+**Table 12**
+
+**Target and prohibitive zone for units intended to be operated in Sweden**
+
+| YTA [mm] | WTA [mm] | LTA [mm] | YPZ [mm] | WPZ [mm] | LPZ [mm] |
+| --- | --- | --- | --- | --- | --- |
+| 905 ± 20 | ≥ 40 | whole | 905 | ≥ 100 | ≥ 500 |
+
+Units mutually recognised in accordance with point 7.1.2 and units equipped with on-board axle bearing condition monitoring equipment are exempted from this specific case. The exemption of units in accordance with point 7.1.2 is not applicable when using other conformity assessment methods in accordance with point 6.1.2.4a.
+
+(b) Specific case France (‘T0’)
+
+This specific case is applicable to all units intended to operate on the French railway network.
+
+Points 5.1 and 5.2 of standard EN 15437-1:2009+A1:2022 apply with the following specificities. The notations are the ones used in picture 3 of the standard.
+
+| WTA | = | 70 mm |
+| --- | --- | --- |
+
+| YTA | = | 1 092,5 mm |
+| --- | --- | --- |
+
+| LTA | = | Vmax x 0,56 (Vmax being the maximal line speed at the level of the Hot Axle Box Detector (HABD), expressed in km/h). |
+| --- | --- | --- |
+
+Units mutually recognised in accordance with point 7.1.2 and units equipped with on-board axle bearing condition monitoring equipment are exempted from this specific case. The exemption of units in accordance with point 7.1.2 is not applicable when using other conformity assessment methods in accordance with point 6.1.2.4a.
+
+7.3.2.3. Safety against derailment running on twisted track (point 4.2.3.5.1)
+
+Specific case UK for Great Britain
+
+(‘P’) The limitations to the use of Method 3 set out in EN 14363:2016 clause 6.1.5.3.1  are not applicable for units that are intended for national use on the UK mainline network only.
+
+This specific case does not prevent the access of TSI compliant rolling stock to the national network.
+
+7.3.2.4. Running dynamic behaviour (point 4.2.3.5.2)
+
+Specific case Ireland and UK for Northern Ireland
+
+(‘P’) For technical compatibility with the existing 1 600 mm track gauge network it is permissible to use notified national technical rules for the purpose of assessing running dynamic behaviour.
+
+This specific case does not prevent the access of TSI compliant rolling stock to the national network.
+
+7.3.2.5 Brake safety requirements (point 4.2.4.2)
+
+Specific case Finland
+
+For freight wagon intended to operate only on 1 524 mm network, the safety requirement defined in point 4.2.4.2 is deemed fulfilled if the unit complies with conditions defined in point 9 of Appendix C with the following modifications:
+
+(1) (point 9(d) of Appendix C) the braking performance shall be determined on the basis of the minimum distance of 1 200 m between signals on the Finnish network. The minimum percentage of braked weight is 55 % for 100 km/h and 85 % for 120 km/h;
+
+(2) (point 9(l) of Appendix C) if the brake system requires an interoperability constituent ‘friction element for wheel tread brakes’, the interoperability constituent shall comply with the requirements of point 6.1.2.5 or be made of cast iron.
+
+7.3.2.6. Attachment devices for rear end signals (point 4.2.6.3)
+
+Specific case Ireland and UK for Northern Ireland
+
+(‘P’) The attachment devices for rear-end signals on units intended to be operated only in traffic on networks with 1 600 mm track gauge shall conform with the national rules notified for the purpose.
+
+This specific case does not prevent the access of TSI compliant rolling stock to the national network.
+
+**7.4. Specific environmental conditions**
+
+Specific conditions Finland and Sweden
+
+For unrestricted access of rolling stock to the Finnish and Swedish network under winter conditions, it shall be demonstrated that the rolling stock meets the following requirements:
+
+— Temperature zone T2 as specified in point 4.2.5 shall be selected.
+
+— Snow, ice and hail severe conditions as specified in point 4.2.5 shall be selected.
+
+Specific conditions Portugal and Spain
+
+For unrestricted access of rolling stock to the Portuguese and Spanish network under summer conditions, temperature zone T3 as specified in point 4.2.5 shall be selected.
+
+**7.5. Freight wagons operating under national, bilateral, multilateral or international agreements**
+
+See Article 6.
+
+## Appendix A
+
+**Changes of requirements and transition regimes**
+
+In accordance with point 7.2.3.1.2, Table A.1 and Table A.2 reference the changes, compared with the TSI as amended by Implementing Regulation (EU) 2020/387, that require an assessment.
+
+**Changes with a generic transition regime of 7 years**
+
+Changes with a generic transition regime affect projects in design phase. Those changes are relevant to determine the applicability of requirements of the certification framework of a project, based on its initial assessment framework. Projects in production phase and units in operation are not affected by those changes.
+
+**Table A.1**
+
+**Transition regime of 7 years**
+
+| TSI point(s) | TSI point(s) in previous TSI | Explanation of the TSI change | Date of application |
+| --- | --- | --- | --- |
+| 4.2.2.3 Second paragraph | New requirement | Inclusion of a requirement on the securing devices | 28 September 2030 |
+| 4.2.3.5.3 Derailment detection and prevention function | No point | Inclusion of requirements for the derailment detection and prevention function | 28 September 2030 |
+| 4.2.4.3.2.1 Service brake | 4.2.4.3.2.1 Service brake | Evolution of the specification referenced in Appendix D.1, Indexes [16] and [17] | 28 September 2030 |
+| 4.2.4.3.2.2 Parking brake | 4.2.4.3.2.2 Parking brake | Evolution of the specification referenced in Appendix D.1 Index [17] | 28 September 2030 |
+| 4.2.4.3.2.2 Parking brake | 4.2.4.3.2.2 Parking brake | Change in the calculation of the parking brake parameters | 28 September 2030 |
+| 6.2.2.8.1 Testing of barriers and spark arresters | 6.2.2.8.1 Testing of barriers | Evolution of the specification referenced in Appendix D.1 Index [19] | 28 September 2030 |
+| 7.1.2 (h) Marking of the parking brake | 7.1.2 (h) Marking of the parking brake | Change in the required marking | 28 September 2030 |
+| Point 9 of Appendix C | Point 9 of Appendix C | Evolution of the specification referenced in Appendix D.1, Indexes [38], [39], [46], [48], [49], [58] | 28 September 2030 |
+| Points referring to Appendix H and Appendix D.2 Index [B] | New requirement | Inclusion of requirements on the codification of units intended to be used in combined transport | 28 September 2030 |
+| Points referring to Appendix D.2 Index [A] except to point 3.2.2 | Points referring to ERA/ERTMS/033281 V4 except to point 3.2.2 | ERA/ERTMS/033281 V5 replaces ERA/ERTMS/033281 V4, main changes concern frequency management for interference current limits and closure of open points | 28 September 2030 |
+
+**Changes with a specific transition regime:**
+
+Changes with a specific transition regime affect projects in design phase, projects in production phase and units in operation. Those changes are relevant to determine the applicability of requirements of the certification framework of a project, based on its initial assessment framework. They are also relevant to determine the need for retrofit.
+
+**Table A.2**
+
+**Specific transition regime**
+
+<table>
+<tbody><tr><td rowspan="2">TSI point(s)</td><td rowspan="2">TSI points(s) in previous TSI</td><td rowspan="2">Explanation on TSI change</td><td colspan="4">Transition regime</td></tr>
+<tr><td>Design phase not started</td><td>Design phase started</td><td>Production phase</td><td>Units in operation</td></tr>
+<tr><td>Points referring to point 3.2.2 Appendix D.2 Index [A]</td><td>Points referring to point 3.2.2 of ERA/ERTMS/033281 V4</td><td>ERA/ERTMS/033281 V5 replaces ERA/ERTMS/033281 V4</td><td colspan="4">Transition regime is laid down in Table B1 in Appendix B to the CCS TSI</td></tr>
+<tr><td>Points referring to point 4.2.2.4.1</td><td>Not applicable</td><td>Devices to secure semi-trailers – strength (longitudinal, lateral and vertical downwards)</td><td>Directly applicable</td><td>4 November 2026</td><td>4 November 2026</td><td>Not applicable</td></tr>
+<tr><td>Points referring to point 4.2.2.4.2</td><td>Not applicable</td><td>Devices to secure semi-trailers – locking force (vertical upwards directed)</td><td>Directly applicable</td><td>4 November 2026</td><td>4 November 2026</td><td>4 May 2027</td></tr>
+<tr><td>Points referring to point 4.2.2.4.3</td><td>Not applicable</td><td>Devices to secure semi-trailers – indications</td><td>Directly applicable</td><td>4 November 2026</td><td>4 November 2026</td><td>Not applicable</td></tr>
+<tr><td>Points referring to point 4.2.2.4.4</td><td>Not applicable</td><td>Marking related to devices to secure semi-trailers</td><td>Directly applicable</td><td>4 November 2026</td><td>4 November 2026</td><td>4 May 2027</td></tr>
+<tr><td>4.2.6.1.2.1.2</td><td>Not applicable new point</td><td>Spark arrestors mandatory for certain wagon categories</td><td>Directly applicable</td><td>1 January 2027</td><td>Not applicable</td><td>Not applicable</td></tr>
+<tr><td>4.2.7</td><td>Not applicable new point</td><td>Transfer of wagon requirement from RID to TSI</td><td>1 January 2027</td><td>1 January 2027</td><td>1 January 2033</td><td>Not applicable</td></tr>
+<tr><td>7.1.2 (g)</td><td>Not applicable new point</td><td>Transfer of wagon requirement from RID to TSI</td><td>1 January 2027</td><td>1 January 2027</td><td>1 January 2033</td><td>Not applicable</td></tr>
+</tbody>
+</table>
+
+## Appendix B
+
+Not used.
+
+## Appendix C
+
+**Additional optional conditions**
+
+The compliance with the following set of conditions C.1 to C.20  is optional. If the applicant selects this option, a notified body has to assess the compliance within the EC verification procedure.
+
+**1\. Manual coupling system**
+
+The manual coupling system shall comply with the following requirements:
+
+— The screw coupling system excluding the draw hook, and the draw hook itself, shall respectively comply with the requirements related to freight wagons defined in Appendix D Index [31]
+
+— The wagon shall comply with the requirements related to freight wagons defined in Appendix D Index [59]
+
+— The buffer shall comply with the requirements related to freight wagons defined in Appendix D Index [32]
+
+Where a combined automatic and screw coupler is fitted, it is permissible for the auto coupler head to infringe the space for shunting staff on the left hand side when it is stowed and the screw coupler is in use. In this case the marking defined in the specification referenced in Appendix D Index [2] is mandatory.
+
+In order to provide this full compatibility, it is permitted to have a different value of the distance between buffer centrelines, 1 790 mm (Finland) and 1 850 mm (Portugal and Spain) taking into account the specification referenced in Appendix D Index [32]
+
+**2\. UIC footsteps and handrails**
+
+The unit shall be equipped with footsteps and handrails in accordance with the specification referenced in Appendix D Index [28] and with clearances in accordance with the same specification.
+
+**3\. Ability to be hump shunted**
+
+In addition to the requirements of point 4.2.2.2 the unit shall be assessed in accordance with the specification referenced in Appendix D Index [1] and classified in Category F I in accordance with the same specification with the following exception: for units designed to carry motor vehicles or combined transport units without long stroke shock absorbers the Category F-II may be used. The requirements concerning the buffing tests in the same specification apply.
+
+**4\. Free space under lifting points**
+
+The unit shall comply with Figure C.2 on the free space under the re-railing places for rerailing:
+
+**Figure C.2**
+
+**Free spaces under rerailing places**
+
+**5\. Marking of units**
+
+Units compliant with all requirements set out in Section 4.2, fulfilling all conditions set out in point 7.1.2 and all conditions set out in Appendix C may receive the marking ‘GE’.
+
+Units compliant with all requirements set out in Section 4.2, fulfilling all conditions in point 7.1.2 and the conditions set out in Appendix C but not those set out in Appendix C, Sections 3 and/or 6 and/or 7.b, may receive the marking ‘CW’.
+
+If the additional marking is used, it shall be inscribed on the unit as outlined in Figure C.3.
+
+**Figure C.3**
+
+**The additional markings ‘GE’ and ‘CW’**
+
+The letters shall be of the same font type as the TEN marking. The size of the letters shall be at least 100 mm high. The outer measures of the frame shall be at least 275 mm wide and 140 mm high, the frame shall be 7 mm thick.
+
+The marking shall be located on the right hand side of the area containing the European Vehicle Number and the TEN marking.
+
+**6\. G1 gauge**
+
+The reference contour with which the unit complies with shall be G1 and GI1  determined as defined in point 4.2.3.1.
+
+**7\. Compatibility with train detection systems**
+
+(a) The unit shall be compatible with the train detection systems based on track circuits, on axle counters and on loop equipment as specified in clauses 4.2.3.3(a), 4.2.3.3(b) and 4.2.3.3(c).
+
+(b) The distance between two adjacent axles of the unit shall not exceed 17 500 mm.
+
+(c) If the unit has electronic equipment on board emitting interference current via the rail, the ‘influencing unit’ (as defined in the technical document referenced in Appendix D.2 Index [A]) of which the unit is planned to be part shall be compliant with specific cases for track circuits notified under Article 13 of CCS TSI by applying the harmonised vehicle test methods and vehicle impedance referred in the technical document referenced in Appendix D.2 Index [A]. Compliance of the unit can be demonstrated based on the technical document referred in Article 13 of CCS TSI and is checked by the Notified Body as part of EC verification.
+
+(d) If the unit has electrical or electronic equipment on board emitting interference electromagnetic fields:
+
+— close to the wheel sensor of an axle counter, or
+
+— induced by the return current via the rail if applicable.
+
+The ‘influencing unit’ (as defined in the technical document referenced in Appendix D.2 Index [A]) of which the unit is planned to be part shall be compliant with specific cases for axle counters notified under Article 13 of CCS TSI by applying the harmonised vehicle test methods referred in the technical document referenced in Appendix D.2 Index [A]. Compliance of the unit can be demonstrated based on the technical document referred in Article 13 of CCS TSI and is checked by the Notified Body as part of EC verification.
+
+**8\. Tests concerning longitudinal compressive forces**
+
+The verification of safe running under longitudinal compressive forces shall be in accordance with the specification referenced in Appendix D Index [33].
+
+**9\. UIC brake**
+
+The brake system shall be compatible with vehicles equipped with UIC approved brake systems. The brake system of a unit is compatible with the UIC brake system if it fulfils the following requirements:
+
+(a) The unit shall be equipped with a pneumatic brake pipe with an inner diameter of 32 mm.
+
+(b) Brake modes have different brake application and release times and specific brake weight percentage.
+
+(c) Every unit shall be fitted with a brake system having at least brake modes G and P. The brake modes G and P shall be assessed in accordance with the specification referenced in Appendix D Index [36].
+
+(d) The minimum braking performance for brake-modes G and P shall be in accordance with Table C.3.
+
+(e) If a unit is equipped with a brake system having in addition further brake modes the assessment procedure as described in point 4.2.4.3.2.1 shall be carried out for these additional brake modes. The brake application time of the P brake mode in accordance with the specification referenced in Appendix D Index [36] are also valid for further brake modes.
+
+(f) The energy storage has to be designed in such way that after a brake application with the maximum brake cylinder pressure and the maximum unit specific brake cylinder stroke at any load state the pressure in the auxiliary reservoir must be at least 0,3 bar more than the brake cylinder pressure without the addition of any further energy. Details for standardised air reservoirs are set out in the specifications referenced in Appendix D Index [40] and Index [41].
+
+(g) The pneumatic energy of the brake system shall not be used for other applications different than those related to braking purposes.
+
+(h) The distributor and distributor isolating device shall be in accordance with the specification referenced in Appendix D Index [34].  At least one distributor shall be installed per 31 m unit length.
+
+(i) The pneumatic half coupling and its hose:
+
+(i) The interface of the brake pipe shall be in accordance with the specification referenced in Appendix D Index [42].
+
+(ii) The opening of the automatic air brake coupling head shall face the left when looking at the end of the vehicle.
+
+(iii) The opening of the main reservoir coupling head shall face the right when looking at the end of the unit.
+
+(iv) The end cocks shall be in accordance with the specification referenced in Appendix D Index [43].
+
+(j) The brake mode switching device shall be in accordance with the specification referenced in Appendix D Index [44].
+
+(k) Brake block holders shall be in accordance with the specification referenced in Appendix D Index [45].
+
+(l) If the brake system requires a ‘friction element for wheel tread brakes’ interoperability constituent, the interoperability constituent shall, in addition to the requirements of point 6.1.2.5, comply with the specification referenced in Appendix D Index [46] or Index [47].
+
+(m) Slack adjusters shall be in accordance with the specification referenced in Appendix D Index [48]. The assessment of conformity shall be carried out in accordance with the same specification.  Additionally, a life test shall be performed to demonstrate the suitability of the slack adjuster for service on the unit and to verify the maintenance requirements for the operational design life. This shall be carried out at the maximum rated load cycling through the full range of adjustment.
+
+(n) If the unit is equipped with a wheel slide protection system (WSP) it shall be in accordance with the specification referenced in Appendix D Index [49].
+
+**Table C.3**
+
+**Minimum braking performance for brake modes G and P**
+
+<table>
+<tbody><tr><td rowspan="2">Braking mode</td><td rowspan="2">Command Equipment</td><td rowspan="2">Unit type</td><td rowspan="2">Load status</td><td colspan="2">Requirement for running speed at 100 km/h</td><td colspan="2">Requirement for running speed at 120 km/h</td></tr>
+<tr><td>Maximum braking distance</td><td>Minimum braking distance</td><td>Maximum braking distance</td><td>Minimum braking distance</td></tr>
+<tr><td rowspan="6">Braking mode ‘P’</td><td rowspan="3">Changeover (1)</td><td rowspan="3">‘S1’ (2)</td><td>Empty</td><td>Smax = 700 m λmin = 65 %  amin = 0,60 m/s2 </td><td>Smin = 390 m λmax = 125 %, (130 %) (3)  amax = 1,15 m/s2 </td><td>Smax = 700 m λmin = 100 %  amin = 0,88 m/s2 </td><td>Smin = 580 m λmax = 125 %, (130 %)( (3)  amax = 1,08 m/s2 </td></tr>
+<tr><td>Inter-mediate</td><td>Smax = 810 m λmin = 55 %  amin = 0,51 m/s2 </td><td>Smin = 390 m λmax = 125 %  amax = 1,15 m/s2 </td><td>  </td><td>  </td></tr>
+<tr><td>Loaded</td><td>Smax = 700 m λmin = 65 %  amin = 0,60 m/s2 </td><td>Smin = Max [(S = 480 m, λmax = 100 %, amax = 0,91 m/s2) (S obtained with a mean retardation force of 16,5 kN per axle)] (4)</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">Variable load Relay (5)</td><td>‘SS’, ‘S2’</td><td>Empty</td><td>Smax = 480 m λmin = 100 % (6)  amin = 0,91 m/s2(6) </td><td>Smin = 390 m λmax = 125 %, (130 %) (1)  amax = 1,15 m/s2 </td><td>Smax = 700 m λmin = 100 %  amin = 0,88 m/s2 </td><td>Smin = 580 m λmax = 125 %, (130 %) (1)  amax = 1,08 m/s2 </td></tr>
+<tr><td>‘S2’ (7)</td><td>Loaded</td><td>Smax = 700 m λmin = 65 %  amin = 0,60 m/s2 </td><td>Smin = Max [(S = 480 m, λmax = 100 %, amax = 0,91 m/s2) (S obtained with a mean retardation force of 16,5 kN per axle)] (8)</td><td>  </td><td>  </td></tr>
+<tr><td>‘SS’ (9)</td><td>Loaded (18 t per axle for brake blocks) </td><td>  </td><td>  </td><td colspan="2">Smax(10) = Max [S = 700 m, λmax = 100 %, amax = 0,88 m/s2) (S obtained with a mean retardation force of 16 kN per axle)] (11) </td></tr>
+<tr><td>Braking mode ‘G’</td><td>  </td><td>  </td><td>  </td><td>  </td><td>There shall be no separate assessment of the braking performance of units in position G. A unit’s braked weight in position G is the result of the braked weight in position P (see the specifications referenced in Appendix D, either Index [17] or Index [58]</td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(1)  Changeover in accordance with the specification referenced in Appendix D Index [38].  (2)  An ‘S1’ unit is a unit with empty/load device. The maximum load per axle is 22,5 t.  (3)  Only for two stage load brake (changeover command) and P10 (cast iron blocks with 10 ‰ phosphor)- or LL-brake blocks.  (4)  The maximum mean retardation force allowed (for running speed at 100 km/h) is [image]. This value comes from the maximum braking energy input permitted on a clasp braked wheel with a nominal new diameter in the range of [920 mm; 1 000 mm] during braking (the brake weight shall be limited to 18 tonnes/axle).  (5)  Variable load relay in accordance with the specification referenced in Appendix D Index [35] in combination with a variable load sensing device in accordance with the specification referenced in Appendix D Index [39].  (6)  [image], with Te = 2 sec. Distance calculation in accordance with the specification referenced in Appendix D Index [16].  (7)  An ‘S2’ unit is a unit with a variable load relay. The maximum load per axle is 22,5 t.  (8)  The automatic-load controlled equipment of wagons worked under s conditions can provide a maximum braked weight of λ = 100%, up to load limit equal to 67 % of the maximum permissible wagon weight. <br> For standard wheelset with using the max axle load <br> Max 1 000 mm; minimal worn 840 mm, max axle load 22,5t, <br> Max axle load for λ=100: 15 t <br> Max 840 mm; minimal worn 760 mm, <br> max axle load 20 t, Max axle load for λ=100: 13 t <br> Max 760 mm; minimal worn 680 mm, <br> max axle load 18 t, Max axle load for λ=100: 12 t <br> Max 680 mm; minimal worn 620 mm <br> Max axle load 16 t, Max axle load for λ=100: 10,5 t  (9)  An ‘SS’ unit shall be equipped with a variable load relay. The maximum load per axle is 22,5 t.  (10)  λ must not exceed 125 %, considering for braking only on wheels (brake blocks), the maximum mean retardation force allowed of 16 kN/axle (for running speed at 120 km/h).  (11)  The requirement by a running speed of 120 km/h is to fulfil λ = 100 % up to the SS load limit, with following derogation: the mean retardation force for tread brake with wheel diameter [new max 1 000 mm, worn min. 840 mm] shall be limited to 16 kN/wheelset. This limit is caused by the maximum admissible braking energy corresponding to 20 t axle load with λ = 90 % and 18 t braked weight per wheelset. <br> If a braked weight percentage of more than 100 % is required with an axle load of more than 18 t, it is necessary to realize another type of brake system (for example disc brakes) to limit the thermal load on the wheel. </td></tr>
+</tbody>
+</table>
+
+(o) For wagons with composite brake blocks and a nominal wheel diameter of max 1 000 mm, minimal worn 840 mm and a braked weight per wheelset of more than 15,25 t (14,5 t plus 5%), a relay valve type E in accordance with the specification referenced in Appendix D Index [35] shall be used. For wagons with a nominal wheel diameter smaller than 920 mm, this brake weight limit value shall be adapted in line with the energy input into the wheel rim.
+
+**10\. Location of parking brake handles**
+
+If a unit is equipped with a parking brake the location of its operating handle or operating wheel shall be:
+
+— on both sides of the unit if it is operated from the ground, or
+
+— on a platform, that can be accessed from both sides of the unit.
+
+The operation from the ground shall be done by wheel.
+
+**11\. Temperature ranges for air reservoirs, hoses and grease**
+
+The following requirements are deemed to comply with any temperature range indicated in point 4.2.5:
+
+— Air reservoirs shall be designed for the temperature range of – 40 °C to + 70 °C.
+
+— Brake cylinders and brake couplings shall be designed for the temperature range of – 40 °C to + 70 °C.
+
+— Hoses for air brakes and air supply shall be specified for the temperature range of – 40 °C to + 70 °C.
+
+The following requirement is deemed to comply with the range T1 indicated in point 4.2.5:
+
+— The grease for the lubrication of roller bearing shall be specified for ambient temperatures down to – 20 °C.
+
+**12\. Welding**
+
+Welding shall be carried out in accordance with the specifications referenced in Appendix D Indexes [50] to [54].
+
+**13\. Track gauge**
+
+The unit shall be compatible with the 1 435 mm track gauge.
+
+**14\. Specific brake thermal capacity**
+
+The brake system shall resist a thermal load equivalent to the suggested reference case in point 4.2.4.3.3.
+
+With regard to the use of wheel tread brake systems, this condition is deemed to be met if the ‘friction element for wheel tread brakes’ interoperability constituent is, in addition to the requirements of point 6.1.2.5, compliant with the specification referenced in Appendix D, either Index [46] or Index [47], and if the wheel:
+
+— is assessed in accordance with point 6.1.2.3; and
+
+— fulfils the conditions of Section 15 of Appendix C.
+
+**15\. Specific product properties concerning the wheel**
+
+The wheels shall be in accordance with the specification referenced in Appendix D Index [55]. The thermal mechanical type test required in point 6.1.2.3 shall be carried out in accordance with the specification referenced in Appendix D Index [11] when the complete brake system is acting directly on the wheel tread.
+
+**16\. Tow hooks**
+
+Units shall be provided with tow hooks, each one being fixed to the side of the unit underframe in accordance with the specification referenced in Appendix D Index [56].
+
+Alternative technical solutions are allowed as far as conditions listed in the same specification are respected. If the alternative solution is a cable eye bracket, it shall in addition have a minimum diameter of 85 mm.
+
+**17\. Protective devices on protruding parts**
+
+To ensure the safety of staff, protruding (e.g. angular or pointed) parts of the unit located up to 2 m above rail level or above passageways, working surfaces or tow hooks which are liable to cause accidents, shall be fitted with protective devices as described in the specification referenced in Appendix D Index [56].
+
+**18\. Label holders and attachment devices for rear-end signal**
+
+All units shall be equipped with a label holder in accordance with the specification referenced in Appendix D Index [57] and at both ends with attachment devices as set out in point 4.2.6.3.
+
+**19\. Axle bearing condition monitoring**
+
+It shall be possible to monitor the axle bearing condition of the unit by means of line side detection equipment.
+
+**20\. Running dynamic behaviour**
+
+The combination of maximum operating speed and maximum admissible cant deficiency shall be in accordance with the specification referenced in Appendix D Index [7].
+
+Units equipped with established running gear as specified in point 6.1.2.1 are presumed to be in conformity with this requirement.
+
+## Appendix D
+
+**D.1 Standards or normative documents**
+
+<table>
+<tbody><tr><td>Index</td><td>Characteristics to be assessed</td><td>TSI point</td><td>Mandatory standard point</td></tr>
+<tr><td>[1]</td><td colspan="3">EN 12663-2:2010 Railway applications - Structural requirements of railway vehicle bodies - Part 2: Freight wagons </td></tr>
+<tr><td>[1.1]</td><td>Strength of unit</td><td>4.2.2.2</td><td>5</td></tr>
+<tr><td>[1.2]</td><td>Strength of unit – demonstration of conformity</td><td>6.2.2.1</td><td>6, 7</td></tr>
+<tr><td>[1.3]</td><td>Ability to be hump shunted</td><td>Appendix C, point 3</td><td>8</td></tr>
+<tr><td>[1.4]</td><td>Classification</td><td>Appendix C, point 3</td><td>5.1</td></tr>
+<tr><td>[1.5]</td><td>Requirements concerning the buffing tests</td><td>Appendix C, point 3</td><td>8.2.5.1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[1.6]</td><td>Normal operating conditions</td><td>Appendix I, point D</td><td>8</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[2]</td><td colspan="3">EN 15877-1:2012+A1:2018 Railway applications - Marking on railway vehicles - Part 1: Freight wagons </td></tr>
+<tr><td>[2.1]</td><td>Lifting and jacking position marking</td><td>4.2.2.2</td><td>4.5.14</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[2.3]</td><td>Applicable markings</td><td>7.1.2 (g)</td><td>all points except 4.5.25(b) and 4.5.35</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[2.4]</td><td>Marking for combined automatic and screw coupler</td><td>Appendix C, point 1</td><td>Figure 75</td></tr>
+<tr><td>[3]</td><td colspan="3">EN 12663-1:2010+A1:2014 Railway applications - Structural requirements of railway vehicle bodies - Part 1: Locomotives and passenger rolling stock (and alternative method for freight wagons) </td></tr>
+<tr><td>[3.1]</td><td>Strength of unit – demonstration of conformity</td><td>6.2.2.1</td><td>9.2, 9.3</td></tr>
+<tr><td>[3.2]</td><td>Strength of unit - fatigue strength</td><td>6.2.2.1</td><td>5.6</td></tr>
+<tr><td>[4]</td><td colspan="3">EN 15273-2:2013+A1 :2016 Railway applications - Gauges - Part 2: Rolling stock gauge </td></tr>
+<tr><td>[4.1]</td><td>Gauging</td><td>4.2.3.1</td><td>5, annexes A to J, L, M, P</td></tr>
+<tr><td>[5]</td><td colspan="3">EN 15528:2021 Railway applications - Line categories for managing the interface between load limits of vehicles and infrastructure </td></tr>
+<tr><td>[5.1]</td><td>Compatibility with load carrying capacity of lines</td><td>4.2.3.2</td><td>6.1, 6.2</td></tr>
+<tr><td>[6]</td><td colspan="3">EN 15437-1:2009+A1:2022 Railway applications – Axle box condition monitoring – Interface and design requirements - Part 1: Track side equipment and rolling stock axle box </td></tr>
+<tr><td>[6.1]</td><td>Axle bearing condition monitoring</td><td>4.2.3.4</td><td>5.1, 5.2</td></tr>
+<tr><td>[7]</td><td colspan="3">EN 14363:2016+A2:2022 Railway applications - Testing and Simulation for the acceptance of running characteristics of railway vehicles - Running Behaviour and stationary tests </td></tr>
+<tr><td>[7.1]</td><td>Safety against derailment running on twisted track</td><td>6.2.2.2</td><td>4, 5, 6.1</td></tr>
+<tr><td>[7.2]</td><td>Running dynamic behaviour</td><td>4.2.3.5.2</td><td>4, 5, 7</td></tr>
+<tr><td>[7.3]</td><td>Running dynamic behaviour - On-track tests</td><td>6.2.2.3</td><td>4, 5, 7</td></tr>
+<tr><td>[7.4]</td><td>Application to units operated on the 1 668 mm track gauge network</td><td>6.2.2.3</td><td>7.6.3.2.6 (2)</td></tr>
+<tr><td>[7.5]</td><td>Running dynamic behaviour</td><td>C.20</td><td>Table H.1</td></tr>
+<tr><td>[8]</td><td colspan="3">EN 16235:2013 Railway application - Testing for the acceptance of running characteristics of railway vehicles - Freight wagons - Conditions for dispensation of freight wagons with defined characteristics from on-track tests in accordance with EN 14363 </td></tr>
+<tr><td>[8.1]</td><td>Running dynamic behaviour</td><td>6.1.2.1</td><td>5</td></tr>
+<tr><td>[8.2]</td><td>Established running gear</td><td>6.1.2.1</td><td>6</td></tr>
+<tr><td>[8.3]</td><td>Minimum axle load for established running gears</td><td>6.1.2.1</td><td>Table 7, 8, 10, 13, 16 and 19, in chapter 6</td></tr>
+<tr><td>[9]</td><td colspan="3">EN 13749:2021 Railway applications - Wheelsets and bogies - Method of specifying the structural requirements of bogie frames </td></tr>
+<tr><td>[9.1]</td><td>Structural design of bogie frame</td><td>4.2.3.6.1</td><td>6.2</td></tr>
+<tr><td>[9.2]</td><td>Assessment of the bogie frame strength</td><td>6.1.2.1</td><td>6.2</td></tr>
+<tr><td>[10]</td><td colspan="3">EN 13260:2020 Railway applications - Wheelsets and bogies - Wheelsets - Product requirements </td></tr>
+<tr><td>[10.1]</td><td>Characteristics of wheelsets</td><td>6.1.2.2</td><td>4.2.1</td></tr>
+<tr><td>[11]</td><td colspan="3">EN 13979-1:2020 Railway applications - Wheelsets and bogies - Monobloc wheels - Technical approval procedure - Part 1: Forged and rolled wheels </td></tr>
+<tr><td>[11.1]</td><td>Mechanical characteristics of wheels</td><td>6.1.2.3</td><td>8</td></tr>
+<tr><td>[11.2]</td><td>Thermomechanical behaviour and criteria for residual stress</td><td>6.1.2.3</td><td>7</td></tr>
+<tr><td>[11.3]</td><td>Specific product properties concerning the wheel</td><td>Appendix C, point 15</td><td>7</td></tr>
+<tr><td>[11.4]</td><td>Specific product properties concerning the wheel - Thermomechanical type test</td><td>Appendix C, point 15</td><td>Table A.1</td></tr>
+<tr><td>[12]</td><td colspan="3">EN 13103-1:2017+A1:2022 Railway applications - Wheelsets and bogies - Part 1: Design method for axles with external journals </td></tr>
+<tr><td>[12.1]</td><td>Method of verification</td><td>6.1.2.4</td><td>5, 6, 7</td></tr>
+<tr><td>[12.2]</td><td>Decision criteria for permissible stress</td><td>6.1.2.4</td><td>8</td></tr>
+<tr><td>[13]</td><td colspan="3">EN 12082:2017+A1:2021 Railway applications – Axle boxes - Performance testing </td></tr>
+<tr><td>[13.1]</td><td>Mechanical resistance and fatigue characteristics of the rolling bearing</td><td>6.2.2.4</td><td>7</td></tr>
+<tr><td>[14]</td><td colspan="3">UIC 430-1:2012 Conditions with which wagons must comply in order to be accepted for transit between standard gauge railways and the Spanish and Portuguese broad gauge railways </td></tr>
+<tr><td>[14.1]</td><td>Changeover between 1 435 mm and 1 668 mm track gauges, for axle units</td><td>6.2.2.5</td><td>Figures 9 and 10 of Annex B.4, and Figure 18 of Annex H</td></tr>
+<tr><td>[14.2]</td><td>Changeover between 1 435 mm and 1 668 mm track gauges, for bogie units</td><td>6.2.2.5</td><td>Figure 18 of Annex H and Figures 19 and 20 of Annex I</td></tr>
+<tr><td>[15]</td><td colspan="3">UIC 430-3:1995 Goods wagons - Conditions to be satisfied by goods wagons to make them acceptable for running on both standard-gauge networks and the network of the Finnish state railways </td></tr>
+<tr><td>[15.1]</td><td>Changeover between 1 435 mm and 1 524 mm track gauges</td><td>6.2.2.5</td><td>Annex 7</td></tr>
+<tr><td>[16]</td><td colspan="3">EN 14531-1:2015+A1 :2018 Railway applications - Methods for calculation of stopping distances, slowing distances and immobilization braking - Part 1: General algorithms utilizing mean value calculation for train sets or single vehicles </td></tr>
+<tr><td>[16.1]</td><td>Service brake</td><td>4.2.4.3.2.1</td><td>4</td></tr>
+<tr><td>[16.2]</td><td>Parking brake</td><td>4.2.4.3.2.2</td><td>5</td></tr>
+<tr><td>[16.3]</td><td>Distance calculation</td><td>Appendix C, point 9, Table C.3</td><td>4</td></tr>
+<tr><td>[17]</td><td colspan="3">UIC 544-1:2014 Brakes - Braking performance </td></tr>
+<tr><td>[17.1]</td><td>Service brake - calculation</td><td>4.2.4.3.2.1</td><td>1 to 3 and 5 to 8</td></tr>
+<tr><td>[17.2]</td><td>Service brake - validation</td><td>4.2.4.3.2.1</td><td>Appendix B</td></tr>
+<tr><td>[17.3]</td><td>Assessment of braking mode G</td><td>C.9 - Table C.3</td><td>1 to 3 and 5 to 8</td></tr>
+<tr><td>[18]</td><td colspan="3">EN 50125-1:2014 Railway applications - Environmental conditions for equipment -Part 1: Rolling stock and on-board equipment </td></tr>
+<tr><td>[18.1]</td><td>Environmental conditions</td><td>4.2.5</td><td>4.7</td></tr>
+<tr><td>[19]</td><td colspan="3">EN 1363-1:2020 Fire resistance tests - Part 1: General Requirements </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[19.1]</td><td>Barriers and spark arresters</td><td>6.2.2.8.1</td><td>4 to 12</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[20]</td><td colspan="3">ISO 5658- 2:2006/Am1:2011 Reaction to fire tests — Spread of flame — Part 2: Lateral spread on building and transport products in vertical configuration </td></tr>
+<tr><td>[20.1]</td><td>Testing of the materials ignitability and flame spread properties</td><td>6.2.2.8.2</td><td>5 to 13</td></tr>
+<tr><td>[21]</td><td colspan="3">EN 13501-1:2018 Fire classification of construction products and building elements - Part 1: Classification using data from reaction to fire tests </td></tr>
+<tr><td>[21.1]</td><td>Material properties</td><td>6.2.2.8.2</td><td>8</td></tr>
+<tr><td>[22]</td><td colspan="3">EN 45545-2:2020 Railway applications - Fire protection on railway vehicles -Part 2: Requirements for fire behaviour of materials and components </td></tr>
+<tr><td>[22.1]</td><td>Test conditions</td><td>6.2.2.8.2</td><td>Ref T03.02 of Table 6</td></tr>
+<tr><td>[23]</td><td colspan="3">ISO 5660-1:2015+Amd1:2019 Reaction-to-fire tests — Heat release, smoke production and mass loss rate —Part 1: Heat release rate (cone calorimeter method) and smoke production rate (dynamic measurement) </td></tr>
+<tr><td>[23.1]</td><td>Testing of rubber parts of bogies</td><td>6.2.2.8.2</td><td>5 to 13</td></tr>
+<tr><td>[24]</td><td colspan="3">EN 50355:2013 Railway applications - Railway rolling stock cables having special fire performance -Guide to use </td></tr>
+<tr><td>[24.1]</td><td>Cables</td><td>6.2.2.8.3</td><td>1, 4 to 9</td></tr>
+<tr><td>[25]</td><td colspan="3">EN 50343:2014/A1:2017 Railway applications -Rolling stock -Rules for installation of cabling </td></tr>
+<tr><td>[25.1]</td><td>Cables</td><td>6.2.2.8.3</td><td>1, 4 to 7</td></tr>
+<tr><td>[26]</td><td colspan="3">EN 45545-7:2013 Railway applications -Fire protection on railway vehicles -Part 7: Fire safety requirements for flammable liquid and flammable gas installations </td></tr>
+<tr><td>[26.1]</td><td>Flammable liquids</td><td>6.2.2.8.4</td><td>4 to 9</td></tr>
+<tr><td>[27]</td><td colspan="3">EN 50153:2014+A2:2020 Railway applications -Rolling stock -Protective provisions relating to electrical hazards </td></tr>
+<tr><td>[27.1]</td><td>Protective measures against indirect contact (protective bonding)</td><td>4.2.6.2.1</td><td>6.4</td></tr>
+<tr><td>[27.2]</td><td>Protective measures against direct contact</td><td>4.2.6.2.2</td><td>5</td></tr>
+<tr><td>[28]</td><td colspan="3">EN 16116-2:2021 Railway applications - Design requirements for steps, handrails and associated access for staff - Part 2: Freight wagons </td></tr>
+<tr><td>[28.1]</td><td>Attachment devices for rear-end signal</td><td>4.2.6.3</td><td>Figure 10</td></tr>
+<tr><td>[28.2]</td><td>UIC footsteps and handrails Clearances </td><td>Appendix C, point 2</td><td>4, 5 6.2 </td></tr>
+<tr><td>[29]</td><td colspan="3">EN 15153-1:2020 Railway applications -External visible and audible warning devices for trains -Part 1: Head, marker and tail lamps </td></tr>
+<tr><td>[29.1]</td><td>Rear-end signal - colour of tail lamps</td><td>Appendix E, point 1</td><td>5.5.3</td></tr>
+<tr><td>[29.2]</td><td>Rear-end signal - lighting intensity of tail lamps</td><td>Appendix E, point 1</td><td>Table 8</td></tr>
+<tr><td>[30]</td><td colspan="3">EN 12899-1:2007 Fixed, vertical road traffic signs - Part 1: Fixed signs </td></tr>
+<tr><td>[30.1]</td><td>Reflective plates</td><td>Appendix E, point 2</td><td>Class Ref. 2</td></tr>
+<tr><td>[31]</td><td colspan="3">EN 15566:2022 Railway applications - Railway rolling stock - Draw gear and screw coupling </td></tr>
+<tr><td>[31.1]</td><td>Manual coupling system</td><td>Appendix C, point 1</td><td>4, 5, 6, 7 (except 4.3 and the dimension ‘a’ in Annex B Figure B.1 which shall be treated as informative).</td></tr>
+<tr><td>[32]</td><td colspan="3">EN 15551:2022 Railway applications - Railway rolling stock - Buffers </td></tr>
+<tr><td>[32.1]</td><td>Buffers</td><td>Appendix C, point 1</td><td>4 (except 4.3), 5, 6 (except 6.2.2.3 and E.4), and 7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[32.2]</td><td>Category C buffers</td><td>Appendix I, point D.1.2</td><td>4 (except 4.3), 5, 6(except 6.2.2.3, Annex E.4 and Annex I)</td></tr>
+<tr><td>[32.3]</td><td>Category AX buffers</td><td>Appendix I, point D.2.1</td><td>4 (except 4.3), 5, 6 (except 6.2.2.3 and E.4) and 7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[33]</td><td colspan="3">EN 15839:2012+A1:2015 Railway applications - Testing for the acceptance of running characteristics of railway vehicles - Freight wagons - Testing of running safety under longitudinal compressive forces </td></tr>
+<tr><td>[33.1]</td><td>Tests concerning longitudinal compressive forces</td><td>Appendix C, point 8</td><td>All</td></tr>
+<tr><td>[34]</td><td colspan="3">EN 15355:2019 Railway applications - Braking - Distributor valves and distributor-isolating devices </td></tr>
+<tr><td>[34.1]</td><td>Distributor and distributor isolating device</td><td>Appendix C, point 9(h)</td><td>5, 6</td></tr>
+<tr><td>[35]</td><td colspan="3">EN 15611:2020+A1:2022 Railway applications - Braking - Relay valves </td></tr>
+<tr><td>[35.1]</td><td>Variable load relay</td><td>Appendix C, point 9, Table C.3</td><td>5, 6, 7, 10</td></tr>
+<tr><td>[35.2]</td><td>Type of relay valve</td><td>Appendix C, point 9(o)</td><td>5, 6, 7, 10</td></tr>
+<tr><td>[36]</td><td colspan="3">UIC 540:2016 Brakes - Air brakes for freight trains and passenger trains </td></tr>
+<tr><td>[36.1]</td><td>UIC brake</td><td>Appendix C, points 9(c) and (e)</td><td>2</td></tr>
+<tr><td>[37]</td><td colspan="3">EN 14531-2:2015 Railway applications - Methods for calculation of stopping and slowing distances and immobilization braking - Part 2: Step by step calculations for train sets or single vehicles </td></tr>
+<tr><td>[37.1]</td><td>Service brake</td><td>4.2.4.3.2.1</td><td>4 & 5</td></tr>
+<tr><td>[38]</td><td colspan="3">EN 15624:2021 Railway applications - Braking - Empty-loaded changeover devices </td></tr>
+<tr><td>[38.1]</td><td>Changeover specification</td><td>Appendix C, point 9, Table C.3</td><td>4, 5, 8</td></tr>
+<tr><td>[39]</td><td colspan="3">EN 15625:2021 Railway applications - Braking - Automatic variable load sensing devices </td></tr>
+<tr><td>[39.1]</td><td>Variable load sensing devices</td><td>Appendix C, point 9, Table C.3</td><td>5, 6, 9</td></tr>
+<tr><td>[40]</td><td colspan="3">EN 286-3:1994 Simple unfired pressure vessels designed to contain air or nitrogen – Part 3: Steel pressure vessels designed for air braking equipment and auxiliary pneumatic equipment for railway rolling stock </td></tr>
+<tr><td>[40.1]</td><td>Air reservoirs - steel</td><td>Appendix C, point 9(f)</td><td>4, 5, 6, 7</td></tr>
+<tr><td>[41]</td><td colspan="3">EN 286-4:1994 Simple unfired pressure vessels designed to contain air or nitrogen – Part 4: Aluminium alloy pressure vessels designed for air braking equipment and auxiliary pneumatic equipment for railway rolling stock </td></tr>
+<tr><td>[41.1]</td><td>Air reservoirs - aluminium</td><td>Appendix C, point 9(f)</td><td>4, 5, 6, 7</td></tr>
+<tr><td>[42]</td><td colspan="3">EN 15807:2021 Railway applications - Pneumatic half couplings </td></tr>
+<tr><td>[42.1]</td><td>Interface of the brake pipe</td><td>Appendix C, point 9 (i)</td><td>5, 6, 9</td></tr>
+<tr><td>[43]</td><td colspan="3">EN 14601:2005+A1:2010+A2 :2021 Railway applications - Straight and angled end cocks for brake pipe and main reservoir pipe </td></tr>
+<tr><td>[43.1]</td><td>End cocks</td><td>Appendix C, point 9(i)</td><td>4, 5, 7, 9</td></tr>
+<tr><td>[44]</td><td colspan="3">UIC 541-1:2013 Brakes - Regulations concerning the design of brake components </td></tr>
+<tr><td>[44.1]</td><td>Brake mode switching device</td><td>Appendix C, point 9(j)</td><td>Appendix E</td></tr>
+<tr><td>[45]</td><td colspan="3">UIC 542:2015 Brake parts – Interchangeability </td></tr>
+<tr><td>[45.1]</td><td>Brake block holders</td><td>Appendix C, point 9 (k)</td><td>1 to 5</td></tr>
+<tr><td>[46]</td><td colspan="3">UIC 541-4:2020 Composite brake blocks - General conditions for certification and use </td></tr>
+<tr><td>[46.1]</td><td>Friction element for wheel tread brakes</td><td>Appendix C, point 9(l)</td><td>1, 2</td></tr>
+<tr><td>[47]</td><td colspan="3">EN 16452:2015+A1:2019 Railway applications - Braking - Brake blocks </td></tr>
+<tr><td>[47.1]</td><td>Friction element for wheel tread brakes</td><td>Appendix C, point 9(l)</td><td>4 to 11</td></tr>
+<tr><td>[48]</td><td colspan="3">EN 16241:2014+A1 :2016 Railway applications - Slack adjuster </td></tr>
+<tr><td>[48.1]</td><td>Slack adjusters Assessment of conformity </td><td>Appendix C, point 9(m)</td><td>4, 5, 6.2 6.3.2 to 6.3.5 </td></tr>
+<tr><td>[49]</td><td colspan="3">EN 15595:2018+AC :2021 Railway applications - Braking - Wheel slide protection </td></tr>
+<tr><td>[49.1]</td><td>Wheel slide protection system</td><td>Appendix C, point 9 (n)</td><td>5 to 9, 11</td></tr>
+<tr><td>[50]</td><td colspan="3">EN 15085-1:2007+A1:2013 Railway applications -Welding of railway vehicles and components -Part 1: General </td></tr>
+<tr><td>[50.1]</td><td>Welding</td><td>Appendix C, point 12</td><td>4</td></tr>
+<tr><td>[51]</td><td colspan="3">EN 15085-2:2020 Railway applications - Welding of railway vehicles and components - Part 2: Requirements for welding manufacturer </td></tr>
+<tr><td>[51.1]</td><td>Welding</td><td>Appendix C, point 12</td><td>4, 5, 6, 7</td></tr>
+<tr><td>[52]</td><td colspan="3">EN 15085-3:2022 Railway applications - Welding of railway vehicles and components - Part 3: Design requirements </td></tr>
+<tr><td>[52.1]</td><td>Welding</td><td>Appendix C, point 12</td><td>4, 5, 6, 7</td></tr>
+<tr><td>[53]</td><td colspan="3">EN 15085-4:2007 Railway applications - Welding of railway vehicles and components - Part 4: Production requirements </td></tr>
+<tr><td>[53.1]</td><td>Welding</td><td>Appendix C, point 12</td><td>4, 5, 6</td></tr>
+<tr><td>[54]</td><td colspan="3">EN 15085-5:2007 Railway applications - Welding of railway vehicles and components - Part 5: Inspection, testing and documentation </td></tr>
+<tr><td>[54.1]</td><td>Welding</td><td>Appendix C, point 12</td><td>4 to 10</td></tr>
+<tr><td>[55]</td><td colspan="3">EN 13262:2020 Railway applications - Wheelsets and bogies - Wheels - Product requirements </td></tr>
+<tr><td>[55.1]</td><td>Specific product properties concerning the wheel</td><td>Appendix C, point 15</td><td>4, 5 and 6</td></tr>
+<tr><td>[56]</td><td colspan="3">UIC 535-2:2006 Standardisation and positioning on wagons of steps, end platforms, gangways, handrails, tow hooks, automatic coupler (AC), draw-only automatic coupler and brake valve controls on the UIC member RUs and OSJD member RUs </td></tr>
+<tr><td>[56.1]</td><td>Tow hooks Conditions for alternative solutions </td><td>Appendix C, point 16</td><td>1.4 1.4.2 to 1.4.9 </td></tr>
+<tr><td>[56.2]</td><td>Protective devices on protruding parts</td><td>Appendix C, point 17</td><td>1.3</td></tr>
+<tr><td>[57]</td><td colspan="3">IRS 50575:2020, Ed1 Railway applications -Wagons – Label-holders and hazard identification panels: interchangeability </td></tr>
+<tr><td>[57.1]</td><td>Label holders and attachment devices for rear end signal</td><td>Appendix C, point 18</td><td>2</td></tr>
+<tr><td>[58]</td><td colspan="3">EN 16834:2019 Railway applications - Braking – Brake performance </td></tr>
+<tr><td>[58.1]</td><td>Service brake</td><td>4.2.4.3.2.1</td><td>Annex D</td></tr>
+<tr><td>[58.2]</td><td>Validation of brake performance calculated with Index [17]</td><td>4.2.4.3.2.1</td><td>6, 8, 9, 10, 12</td></tr>
+<tr><td>[58.3]</td><td>Assessment of braking mode G</td><td>Appendix C, point 9, Table C.3</td><td>6, 8, 9, 12</td></tr>
+<tr><td>[59]</td><td colspan="3">EN 16839:2022 Railway applications - Rolling stock - Head stock layout </td></tr>
+<tr><td>[59.1]</td><td>Head stock layout</td><td>Appendix C, point 1</td><td>4 except 4.3, 5 except 5.5.2.3 and 5.5.2.4, 6, 7, 8</td></tr>
+</tbody>
+</table>
+
+**D.2 Technical documents (available on ERA website)**
+
+<table>
+<tbody><tr><td>Index</td><td>Characteristics to be assessed</td><td>TSI point</td><td>Mandatory technical document point</td></tr>
+<tr><td>[A]</td><td colspan="3">Interfaces between Control-Command and Signalling Trackside and other Subsystems Appendix A of CCS TSI, index [77]  ERA/ERTMS/033281 V5.0 </td></tr>
+<tr><td>[A.1]</td><td>train detection system based on track circuits</td><td>4.2.3.3(a)</td><td>axle distances (3.1.2.1, 3.1.2.3, 3.1.2.4, 3.1.2.5), vehicle axle load (3.1.7.1),  impedance between wheels (3.1.9),  use of composite brake blocks (3.1.6),  if the rolling stock is equipped: use of shunt assisted devices (3.1.8),  if the rolling stock has electrical or electronic equipment on board creating interference current in the rail: conducted interference (3.2.2). </td></tr>
+<tr><td>[A.2]</td><td>train detection system based on axle counters</td><td>4.2.3.3(b)</td><td>axle distances (3.1.2.1, 3.1.2.2, 3.1.2.4, 3.1.2.5), wheel geometry (3.1.3.1-3.1.3.4),  metal/inductive components-free space between wheels (3.1.3.5),  wheel material (3.1.3.6),  if the rolling stock has electrical or electronic equipment on board creating interference electromagnetic fields close to the wheel sensor: electromagnetic fields (3.2.1). </td></tr>
+<tr><td>[A.3]</td><td>train detection system based on loop equipment</td><td>4.2.3.3(c)</td><td>vehicle metal construction (3.1.7.2).</td></tr>
+<tr><td>[A.4]</td><td>Influencing unit</td><td>7.1.2 (d1)</td><td>Point 3.2</td></tr>
+<tr><td>[A.5]</td><td>Vehicle impedance</td><td>7.1.2 (d1)</td><td>Point 3.2.2</td></tr>
+<tr><td>[A.6]</td><td>Harmonised test method</td><td>7.1.2 (d1)</td><td>Point 3.2.1</td></tr>
+<tr><td>[A.7]</td><td>Influencing unit</td><td>Appendix C, point 7</td><td>Point 3.2</td></tr>
+<tr><td>[A.8]</td><td>Vehicle impedance</td><td>Appendix C, point 7</td><td>Point 3.2.2</td></tr>
+<tr><td>[A.9]</td><td>Harmonised test method</td><td>Appendix C, point 7</td><td>Point 3.2.1</td></tr>
+<tr><td>[B]</td><td colspan="3">ERA Technical Document on codification of combined transport ERA/TD/CT version 1.1 (released on 2023-03-21) </td></tr>
+<tr><td>[B.1]</td><td>Codification of units intended to be used in combined transport</td><td>4.2.3.1 Appendix H </td><td>2.2</td></tr>
+<tr><td>[C]</td><td colspan="3">ERA Technical Document on the list of fully UIC approved composite brake blocks for international transport ERA/TD/2009-02/INT, version 15.0 </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>[D]</td><td colspan="3">ERA Technical Document on the procedures to demonstrate compliance with the requirements in point 4.2.2.4 of the WAG TSI on securing semi-trailers ERA/TD-2025/SECURING OF SEMI TRAILERS version 1.0 (released on 11.9.2025) </td></tr>
+<tr><td>[D.1]</td><td>Prescriptions for marking</td><td>4.2.2.4.4</td><td>Section 2.4</td></tr>
+<tr><td>[D.2]</td><td>Conformity assessment regarding securing semi-trailers</td><td>6.1.2.7</td><td>Sections 2.1, 2.2, and 2.3.</td></tr>
+<tr><td>[E]</td><td colspan="3">ERA Technical Document on spark arresters ERA/TD-2024/Spark Arresters version 1.1 (released on 5.12.2024) </td></tr>
+<tr><td>[E.1]</td><td>Spark arresters</td><td>4.2.6.1.2.1</td><td>Sections 2.1, 2.2, 2.3</td></tr>
+</tbody>
+</table>
+
+## Appendix E
+
+**Rear-end signal**
+
+**1\. Lamps**
+
+The colour of tail lamps shall be in accordance with the specification referenced in Appendix D Index [29].
+
+The tail lamp shall be designed to display a lighting intensity in accordance with the specification referenced in Appendix D Index [29].
+
+The lamp shall be suitable to be attached to units complying with the attachment devices and the clearance set out in point 4.2.6.3. The lamp shall be equipped with:
+
+— a switch (on/off),
+
+— a warning light which indicates the battery status.
+
+**2\. Reflective plates**
+
+The reflective plates shall be suitable to be attached to units complying with the attachment devices and the clearance set out in point 4.2.6.3. The reflective section of the plates shall be at least 150 by at least 200 mm as illustrated in Figure E.1. The side triangles shall be white, the top and the bottom triangles shall be red. The plate shall be retro-reflective in accordance with the specification referenced in Appendix D Index [30].
+
+**Figure E.1**
+
+**Reflective plate**
+
+## Appendix F
+
+**Assessment assigned to the production phases**
+
+**Table F.1**
+
+**Assessment assigned to the production phases**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">Characteristics to be assessed, as specified in Section 4.2</td><td colspan="2">Design and development phase</td><td>Production phase</td><td rowspan="2">Particular assessment procedure</td></tr>
+<tr><td>Design review</td><td>Type test</td><td>Routine test</td></tr>
+<tr><td>Element of the Rolling Stock sub-system</td><td>Point</td><td>  </td><td>  </td><td>  </td><td>Point</td></tr>
+<tr><td>Structure and mechanical part</td><td>4.2.2</td><td colspan="4">  </td></tr>
+<tr><td>End coupling</td><td>4.2.2.1.1</td><td>X</td><td>n.a.</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Inner coupling</td><td>4.2.2.1.2</td><td>X</td><td>n.a.</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Strength of unit</td><td>4.2.2.2</td><td>X</td><td>X</td><td>n.a.</td><td>6.2.2.1</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Device to secure semi-trailers – strength</td><td>4.2.2.4.1</td><td>X</td><td>X</td><td>n.a.</td><td>6.1.2.7</td></tr>
+<tr><td>Device to secure semi-trailers – locking force</td><td>4.2.2.4.2</td><td>X</td><td>X</td><td>n.a.</td><td>6.1.2.7</td></tr>
+<tr><td>Device to secure semi-trailers – indications</td><td>4.2.2.4.3</td><td>X</td><td>X</td><td>n.a.</td><td>6.1.2.7</td></tr>
+<tr><td>Marking on the unit</td><td>4.2.2.4.4</td><td>X</td><td>X</td><td>n.a.</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Integrity of the unit</td><td>4.2.2.3</td><td>X</td><td>n.a.</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Vehicle track interaction and gauging</td><td>4.2.3</td><td colspan="4">  </td></tr>
+<tr><td>Gauging</td><td>4.2.3.1</td><td>X</td><td>n.a.</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Compatibility with load carrying capacity of lines</td><td>4.2.3.2</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td>Compatibility with train detection systems</td><td>4.2.3.3</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td>Axle bearing condition monitoring</td><td>4.2.3.4</td><td>X</td><td>X</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Safety against derailment running on twisted track</td><td>4.2.3.5.1</td><td>X</td><td>X</td><td>n.a.</td><td>6.2.2.2</td></tr>
+<tr><td>Running dynamic behaviour</td><td>4.2.3.5.2</td><td>X</td><td>X</td><td>n.a.</td><td>6.1.2.1/6.2.2.3</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Derailment detection and prevention function</td><td>4.2.3.5.3</td><td>x</td><td>x</td><td>n.a.</td><td>-</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Structural design of bogie frame</td><td>4.2.3.6.1</td><td>X</td><td>X.</td><td>n.a.</td><td>6.1.2.1</td></tr>
+<tr><td>Characteristics of wheelsets</td><td>4.2.3.6.2</td><td>X</td><td>X</td><td>X</td><td>6.1.2.2</td></tr>
+<tr><td>Characteristics of wheels</td><td>4.2.3.6.3</td><td>X</td><td>X</td><td>X</td><td>6.1.2.3</td></tr>
+<tr><td>Characteristics of axles</td><td>4.2.3.6.4</td><td>X</td><td>X</td><td>X</td><td>6.1.2.4</td></tr>
+<tr><td>Axle boxes/bearings</td><td>4.2.3.6.5</td><td>X</td><td>X</td><td>X</td><td>6.2.2.4</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Automatic variable gauge system</td><td>4.2.3.6.6</td><td>X</td><td>X</td><td>X</td><td>6.1.2.6/6.2.2.4a</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Running gear for manual change of wheelsets</td><td>4.2.3.6.7</td><td>X</td><td>X</td><td>n.a.</td><td>6.2.2.5</td></tr>
+<tr><td>Brake</td><td>4.2.4</td><td colspan="4">  </td></tr>
+<tr><td>Safety requirements</td><td>4.2.4.2</td><td>X</td><td>n.a</td><td>n.a</td><td>—</td></tr>
+<tr><td>Functional and technical requirements</td><td>4.2.4.3</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td>In-service brake</td><td>4.2.4.3.2.1</td><td>X</td><td>X</td><td>n.a.</td><td>—</td></tr>
+<tr><td>Parking brake</td><td>4.2.4.3.2.2</td><td>X</td><td>n.a</td><td>n.a</td><td>—</td></tr>
+<tr><td>Thermal capacity</td><td>4.2.4.3.3</td><td>X</td><td>X</td><td>n.a</td><td>6.2.2.6</td></tr>
+<tr><td>Wheel slide protection (WSP)</td><td>4.2.4.3.4</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Friction elements for wheel tread brakes</td><td>4.2.4.3.5</td><td>X</td><td>X</td><td>X</td><td>6.1.2.5</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Environmental conditions</td><td>4.2.5</td><td colspan="4">  </td></tr>
+<tr><td>Environmental conditions</td><td>4.2.5</td><td>X</td><td>n.a. /X (1)</td><td>n.a.</td><td>6.2.2.7</td></tr>
+<tr><td>System protection</td><td>4.2.6</td><td colspan="4">  </td></tr>
+<tr><td>Fire safety</td><td>4.2.6.1</td><td>X</td><td>X</td><td>n.a</td><td>6.2.2.8</td></tr>
+<tr><td>Protection against electric hazard</td><td>4.2.6.2</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td>Attachment devices for rear-end signal</td><td>4.2.6.3</td><td>X</td><td>X</td><td>n.a</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Specific requirements for wagons in the scope of Chapter 7.1 of RID</td><td>4.2.7</td><td colspan="4">  </td></tr>
+<tr><td>Appendix I</td><td>A to F</td><td>X</td><td>X</td><td>n.a.</td><td>  </td></tr>
+<tr><td colspan="6">(1)  Type test if and as defined by the applicant. </td></tr>
+</tbody>
+</table>
+
+## Appendix G — List of composite brake blocks exempted of a declaration of conformity as referred in Article 8b
+
+This Appendix is referenced in Appendix D.2, index [C].
+
+## Appendix H — Codification of units intended to be used in combined transport
+
+The codification of units intended to be used in combined transport shall be in accordance with the specification referenced in Appendix D.2, index [B].
+
+The following requirements are applicable to units intended to be used in combined transport and requiring a Wagon Compatibility Code.
+
+**H.1 Wagon Compatibility Code**
+
+(1) The Wagon Compatibility Code (WCC) specifies the type of Intermodal Loading Unit that can be loaded on the unit.
+
+(2) The WCC shall be determined for all units and assessed by a Notified Body.
+
+**H.2 Wagon Correction Digit**
+
+(1) The Wagon Correction Digit (WCD) is the result of a comparison between the geometric characteristics of the unit under assessment and the characteristics of the reference wagons defined in point H.3.
+
+(2) This comparison shall be performed for all units and assessed by a Notified Body. The result of the assessment shall be included in the report of the Notified Body.
+
+(3) On the basis of the assessment:
+
+For units having equivalent or more favourable geometric characteristics than the reference wagon, the WCD may be calculated if requested by the applicant.
+
+For units having less favourable geometric characteristics than the reference wagon, the calculation of the WCD is not required by this TSI.
+
+**H.3 Characteristics of the reference wagons**
+
+The combined transport 'P' profiles are calculated on the basis of the characteristics of the reference recess wagon defined as:
+
+— Distance between bogie pivots (a) 11 200 mm
+
+— Bogie wheelbase (p) 1 800 mm
+
+— Height of semi-trailer (ST) loading plane 330mm
+
+— Maximum overhang (na) 2 000 mm
+
+— Load tolerance 10mm
+
+— Dissymmetry 1°
+
+— Height of ST + wagon roll centre (Hc) 1 000 mm
+
+— q+w play 11.5mm
+
+— Play in side bearers (J) 12mm
+
+— Half-distance between side bearers (bG) 850mm
+
+— ST + wagon flexibility (s) 0.3
+
+The combined transport 'C' and ISO profiles are calculated on the basis of the characteristics of the reference wagon defined as:
+
+— Distance between bogie pivots (a) 13 500 mm
+
+— Bogie wheelbase (p) 1 800 mm
+
+— Height of swap body loading plane 1 175 mm
+
+— Maximum overhang (na) 2 000 mm
+
+— Load tolerance 10mm
+
+— Dissymmetry 1°
+
+— Height of wagon roll centre (Hc) 500mm
+
+— q+w play 11.5mm
+
+— Play in side bearers (J) 12mm
+
+— Half-distance between side bearers (bG) 850mm
+
+— Wagon flexibility (s) 0.15
+
+## Appendix I — Specific requirements for wagons intended for transport of dangerous goods
+
+This Appendix applies to units in the scope of Chapter 7.1 of RID and is intended to be read in conjunction with RID.
+
+Dangerous goods are defined in point 1.2.1 of RID.
+
+Wagon in the context of this Appendix shall be understood as ‘wagon’ as defined in point 1.2.1 of RID, which is the equivalent for ‘unit’ in this TSI.
+
+Tank, tank-wagon and battery-wagon are specific wagons defined in point 1.2.1 of RID.
+
+Requirements D, E and F include the additional requirements to comply with Wagon Equipment (WE) set out in point 7.1.2.2 of RID.
+
+**Requirements to comply with relevant provisions of RID**
+
+**(A) Requirements to comply with point 7.1.2.1.1 of RID**
+
+In addition to the requirements set out in point 4.2.2.2 of this TSI, the load cases to be considered in the assessment of the strength of the tank and its fixing to the wagon shall consider the following:
+
+(1) whether the maximum working pressure of the tank has been superimposed on the load cases;
+
+(2) the operating temperature range of the shell;
+
+(3) the minimum wall thickness of the shell in accordance with points 6.8.2.1 and 6.8.3.1 of RID.
+
+**(B) Requirements to comply with point 7.1.2.1.2 of RID**
+
+**Wagon equipment**
+
+The wagon shall be fitted with spark arresters as defined in ERA Technical Document ERA/TD-2024/Spark Arresters version 1.1.
+
+The conformity assessment procedure is set out in point 6.2.2.8.1 of this TSI. This point covers the requirements for WE 6 in accordance with the provisions of RID.
+
+**(C) Requirements to comply with point 7.1.2.1.3 of RID**
+
+Any wagon intended to be used in potentially explosive atmospheres shall comply with a suitable level of protection which depends on the zones where such wagon is intended to be used.
+
+The zones referred to in the first paragraph of this point are defined in Directive 1999/92/EC of the European Parliament and of the Council ( *1 ).
+
+The level of protection corresponding to the selected equipment group and equipment category is set out in Directive 2014/34/EU of the European Parliament and of the Council ( *2 ). The level of protection for which the wagon is assessed shall be reported in the wagon’s technical file.
+
+**(D) Requirements to comply with point 7.1.2.1.4 of RID**
+
+Tank-wagons intended for the carriage of dangerous goods shall be built and equipped in such a way as to withstand the impact of collisions that produce stresses exceeding those that occur during normal operating conditions as set out in the specification referenced in Appendix D Index [1].
+
+**Construction requirement**
+
+The minimum distance between the headstock plane and the most protruding point at the shell extremity on tank-wagons shall be at least 300 mm. This requirement shall not apply to tank-wagons equipped with a central end automatic coupler in accordance with point E.1.2 of this Appendix.
+
+**Wagon equipment**
+
+This point covers the requirements for WE 1 (D.1) and WE 2 (D.2) in accordance with the provisions of RID.
+
+D.1
+
+Wagons for which code WE 1 is required shall be fitted with devices limiting the impact of collision. Those devices shall be capable of absorbing energy by means of elastic deformation of defined components of the subframe.
+
+The minimum elastic deformation for which the wagon has been assessed shall be recorded in the technical file.
+
+The dynamic energy capacity and assessment procedure depend on the coupler type as specified below:
+
+D.1.1 – Wagons fitted with manual Union Internationale des Chemins de fer (UIC) end coupling system
+
+Minimum dynamic energy capacity: 70 kJ per buffer.
+
+The requirements of this special provision shall be deemed to be met by fitting Category C buffers as set out in the specification referenced in Appendix D Index [32].
+
+This provision shall not apply to wagons fitted with absorption elements in accordance with point D.2.1.
+
+D.1.2 – Wagons fitted with a central end automatic coupler
+
+Minimum dynamic energy capacity: 140 kJ per coupler.
+
+This provision shall not apply to wagons fitted with absorption elements in accordance with point D.2.2.
+
+D.2
+
+Wagons for which code WE 2 is required shall be fitted with devices limiting the impact of collision. Those devices shall be capable of absorbing energy by means of elastic or plastic deformation of defined components of the subframe or by means of a similar procedure (e.g. crash elements).
+
+Both the minimum elastic and plastic deformation capacity for which the wagon has been assessed shall be recorded in the technical file.
+
+The total energy absorption capacity and assessment procedure depend on the coupler type as specified below:
+
+D.2.1 – Wagons fitted with manual UIC end coupling system
+
+Minimum dynamic energy capacity: 30 kJ per buffer.
+
+Minimum total energy absorption capacity (reversible and irreversible): 400 kJ per buffer.
+
+The requirements of this special provision shall be deemed to be met by fitting Category AX buffers as set out in the specification referenced in Appendix D Index [32].
+
+D.2.2 – Wagons fitted with a central end automatic coupler
+
+Minimum dynamic energy capacity: 75 kJ per coupler.
+
+Minimum total energy absorption capacity (reversible and irreversible): 675 kJ per coupler.
+
+**(E) Requirements to comply with point 7.1.2.1.5 of RID**
+
+**Wagon equipment**
+
+The fulfilment of Section E.1 or E.2 of this point shall cover the requirements for WE 3 in accordance with the provisions of RID.
+
+E.1 – Prevention of wagon overriding
+
+E.1.1 – Wagons fitted with manual UIC coupling system
+
+The wagon shall be protected against the overriding of buffers by equipment that:
+
+(1) withstands a vertical force (upwards or downwards) of 150 kN;
+
+(2) is designed and assessed in such a way that it can prevent the overriding even if the wagon equipment is fitted on only one of the colliding wagons;
+
+(3) does not increase the overhang for fixing the wagon equipment by more than 20 mm;
+
+(4) has a width that is at least as big as the width of the buffer head (except for the wagon equipment to protect against the overriding of buffers located above the left-hand footboard, which shall be tangent to the free space for the shunter, although the maximum width of the buffer must be covered);
+
+(5) is located above every buffer;
+
+(6) is built in such a way that the risk of penetration of the tank end is not increased in the event of a shock.
+
+E.1.2 – Wagons using a central end automatic coupler
+
+It shall be demonstrated that the central end automatic coupler prevents overriding by remaining in a coupled position and by remaining fixed to the coupled wagons when one side of the coupler is subject to a vertical force of 150 kN transmitted by the wagon upward and downward while the other part of the coupler is maintained in a fixed position.
+
+If this requirement cannot be met, then the consequences of overriding shall be limited by fitting a protective shield at each end of the wagon in accordance with the specification set out in point E.2.2.
+
+E.2 – Wagon equipment limiting the impact from an overriding wagon on the substances being carried when overriding occurs
+
+E.2.1 – Wagons using manual UIC end coupling system
+
+The wagon shall be equipped with a protective shield at each end of the wagon to limit the consequence of overriding buffers.
+
+The width of the protective shield shall:
+
+(1) be at least as wide as the distance defined by the outside edge of the buffer heads;
+
+(2) cover the width of the tank.
+
+The height of the protective shield, measured from the top edge of the headstock, shall cover either of the following:
+
+(1) two thirds of the tank diameter;
+
+(2) at least 900 mm, provided that in addition the protective shield is equipped at the top edge with an arresting device for climbing buffers.
+
+A protective shield made of mild steel or reference steel with a minimum wall thickness of 6 mm shall provide presumption of conformity.
+
+Reference steel means a steel with a tensile strength of 370 N/mm2 and an elongation at fracture of 27 %.
+
+Mild steel means a steel with a tensile strength between 360 N/mm2 and 490 N/mm2 and an elongation at fracture in % not less than:
+
+[image]
+
+If other materials are used, the equivalent thickness shall be calculated in accordance with the following formula:
+
+equivalent thickness = 6
+
+[image]
+
+where Rm1 is the tensile strength of the intended material and A1 is the elongation at fracture of the intended material.
+
+The values of Rm1 and A1 to be used shall be the specified minimum values in the standards defining the material properties.
+
+The protective shield shall be shaped and attached in such a way that the possibility of the tank ends being penetrated by the protective shield itself is minimised.
+
+E.2.2 – Wagons using central coupling other than central end automatic coupler not meeting the requirements of point E.1.2.
+
+The wagon shall be equipped with a protective shield at each end of the wagon.
+
+In this case, the protective shield shall cover the tank end to a height of at least 1 100 mm, measured from the top edge of the headstock, the couplers shall be fitted with anti-creep devices to prevent unintentional uncoupling and the protective shield shall be at least 1 200 mm wide over the entire height of the shield.
+
+A protective shield made of mild steel or reference steel as defined in point E.2.1 with a wall thickness of 12 mm shall provide presumption of conformity.
+
+If other materials are used, the equivalent thickness shall be calculated in accordance with the following formula:
+
+equivalent thickness = 12
+
+[image]
+
+where Rm1 is the tensile strength of the intended material and A1 is the elongation fracture of the intended material.
+
+The values of Rm1 and A1 to be used shall be the specified minimum values in the standards defining the material properties.
+
+The protective shield shall be shaped and attached in such a way that the possibility of the tank ends being penetrated by the protective shield itself is minimised.
+
+**(F) Requirements to comply with point 7.1.2.1.6 of RID**
+
+**Wagon equipment**
+
+This section covers the requirements for WE 4 and WE 5 in accordance with RID provisions.
+
+F.1
+
+Compliance with points 4.2.3.5.3.3 or 4.2.3.5.3.4 of this TSI shall be deemed sufficient to meet WE 4 requirements.
+
+F.2
+
+Compliance with point 4.2.3.5.3.2 of this TSI shall be deemed sufficient to meet WE 5 requirements.
+
+( 1 ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+
+( 2 ) Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (OJ L 138, 26.5.2016, p. 102).
+
+( 3 ) Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13, ELI: http://data.europa.eu/eli/dir/2008/68/oj).
+
+( 4 ) OJ L 121, 3.5.2013, p. 8.
+
+( 5 ) The maintenance plan shall take into accounts the findings of the ERA Task force on Freight Maintenance (see ‘Final report on the activities of the Task Force Freight Wagon Maintenance’ published on the ERA website http://www.era.europa.eu).
+
+( 6 ) OJ L 264, 8.10.2011, p. 32.
+
+( 7 ) Commission Implementing Regulation (EU) 2019/773 of 16 May 2019 on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision 2012/757/EU (OJ L 139 I, 27.5.2019, p. 5).
+
+( 8 ) Commission Implementing Regulation (EU) 2020/387 of 9 March 2020 amending Regulations (EU) No 321/2013, (EU) No 1302/2014 and (EU) 2016/919 as regards the extension of the area of use and transition phases (OJ L 73, 10.3.2020, p. 6-18).
+
+( 9 ) Commission Implementing Regulation (EU) 2018/545 of 4 April 2018 establishing practical arrangements for the railway vehicle authorisation and railway vehicle type authorisation process pursuant to Directive (EU) 2016/797 of the European Parliament and of the Council (OJ L 90, 6.4.2018, p. 66).
+
+( 10 ) Commission Decision 2010/713/EU of 9 November 2010 on modules for the procedures for assessment of conformity, suitability for use and EC verification to be used in the technical specifications for interoperability adopted under Directive 2008/57/EC of the European Parliament and of the Council (OJ L 319, 4.12.2010, p. 1).
+
+( 11 ) Commission Regulation (EU) No 1304/2014 of 26 November 2014 on the technical specification for interoperability relating to the subsystem ‘rolling stock — noise’ amending Decision 2008/232/EC and repealing Decision 2011/229/EU (OJ L 356, 12.12.2014, p. 421).
+
+( 12 ) Commission Decision 2007/756/EC of 9 November 2007 adopting a common specification of the national vehicle register provided for under Articles 14(4) and (5) of Directives 96/48/EC and 2001/16/EC (OJ L 305, 23.11.2007, p. 30).
+
+( 13 ) Commission Implementing Decision (EU) 2018/1614 of 25 October 2018 laying down specifications for the vehicle registers referred to in Article 47 of Directive (EU) 2016/797 of the European Parliament and of the Council and amending and repealing Commission Decision 2007/756/EC (OJ L 268, 26.10.2018, p. 53).
+
+( 14 ) Commission Implementing Regulation (EU) 2019/779 of 16 May 2019 laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 (OJ L 139I , 27.5.2019, p. 360).
+
+( *1 ) Directive 1999/92/EC of the European Parliament and of the Council of 16 December 1999 on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres (15th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 23, 28.1.2000, p. 57, ELI: http://data.europa.eu/eli/dir/1999/92/oj).
+
+( *2 ) Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, 29.3.2014, p. 309, ELI: http://data.europa.eu/eli/dir/2014/34/oj).

@@ -1,0 +1,3656 @@
+---
+title: "Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies"
+identifier: "32001R0999"
+eli: "http://data.europa.eu/eli/reg/2001/999/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2001-05-22
+entry_into_force: 2001-03-14
+last_amended: 2025-03-12
+consolidated_version: "02001R0999-20250312"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R0999-20250312"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies
+
+**REGULATION (EC) No 999/2001 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 May 2001**
+
+**laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 1248/2001 of 22 June 2001 </td><td> L 173</td><td>12</td><td>27.6.2001</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EC) No 1326/2001 of 29 June 2001 </td><td> L 177</td><td>60</td><td>30.6.2001</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EC) No 270/2002 of 14 February 2002 </td><td> L 45</td><td>4</td><td>15.2.2002</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EC) No 1494/2002 of 21 August 2002 </td><td> L 225</td><td>3</td><td>22.8.2002</td></tr>
+<tr><td> M5</td><td> COMMISSION REGULATION (EC) No 260/2003 of 12 February 2003 </td><td> L 37</td><td>7</td><td>13.2.2003</td></tr>
+<tr><td> M6</td><td> COMMISSION REGULATION (EC) No 650/2003 of 10 April 2003 </td><td> L 95</td><td>15</td><td>11.4.2003</td></tr>
+<tr><td> M7</td><td> COMMISSION REGULATION (EC) No 1053/2003 of 19 June 2003 </td><td> L 152</td><td>8</td><td>20.6.2003</td></tr>
+<tr><td> M8</td><td> REGULATION (EC) No 1128/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 June 2003 </td><td> L 160</td><td>1</td><td>28.6.2003</td></tr>
+<tr><td> M9</td><td> COMMISSION REGULATION (EC) No 1139/2003 of 27 June 2003 </td><td> L 160</td><td>22</td><td>28.6.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1234/2003 of 10 July 2003 </td><td> L 173</td><td>6</td><td>11.7.2003</td></tr>
+<tr><td> M11</td><td> COMMISSION REGULATION (EC) No 1809/2003 of 15 October 2003 </td><td> L 265</td><td>10</td><td>16.10.2003</td></tr>
+<tr><td> M12</td><td> COMMISSION REGULATION (EC) No 1915/2003 of 30 October 2003 </td><td> L 283</td><td>29</td><td>31.10.2003</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 2245/2003 of 19 December 2003 </td><td> L 333</td><td>28</td><td>20.12.2003</td></tr>
+<tr><td> M14</td><td> COMMISSION REGULATION (EC) No 876/2004 of 29 April 2004 </td><td> L 162</td><td>52</td><td>30.4.2004</td></tr>
+<tr><td> M15</td><td> COMMISSION REGULATION (EC) No 1471/2004 of 18 August 2004 </td><td> L 271</td><td>24</td><td>19.8.2004</td></tr>
+<tr><td> M16</td><td> COMMISSION REGULATION (EC) No 1492/2004 of 23 August 2004 </td><td> L 274</td><td>3</td><td>24.8.2004</td></tr>
+<tr><td> M17</td><td> COMMISSION REGULATION (EC) No 1993/2004 of 19 November 2004 </td><td> L 344</td><td>12</td><td>20.11.2004</td></tr>
+<tr><td> M18</td><td> COMMISSION REGULATION (EC) No 36/2005 of 12 January 2005 </td><td> L 10</td><td>9</td><td>13.1.2005</td></tr>
+<tr><td> M19</td><td> COMMISSION REGULATION (EC) No 214/2005 of 9 February 2005 </td><td> L 37</td><td>9</td><td>10.2.2005</td></tr>
+<tr><td> M20</td><td> COMMISSION REGULATION (EC) No 260/2005 of 16 February 2005 </td><td> L 46</td><td>31</td><td>17.2.2005</td></tr>
+<tr><td></td><td> REGULATION (EC) No 932/2005 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2005 </td><td> L 163</td><td>1</td><td>23.6.2005</td></tr>
+<tr><td> M22</td><td> COMMISSION REGULATION (EC) No 1292/2005 of 5 August 2005 </td><td> L 205</td><td>3</td><td>6.8.2005</td></tr>
+<tr><td> M23</td><td> COMMISSION REGULATION (EC) No 1974/2005 of 2 December 2005 </td><td> L 317</td><td>4</td><td>3.12.2005</td></tr>
+<tr><td> M24</td><td> COMMISSION REGULATION (EC) No 253/2006 of 14 February 2006 </td><td> L 44</td><td>9</td><td>15.2.2006</td></tr>
+<tr><td> M25</td><td> COMMISSION REGULATION (EC) No 339/2006 of 24 February 2006 </td><td> L 55</td><td>5</td><td>25.2.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 657/2006 of 10 April 2006 </td><td> L 116</td><td>9</td><td>29.4.2006</td></tr>
+<tr><td> M27</td><td> COMMISSION REGULATION (EC) No 688/2006 of 4 May 2006 </td><td> L 120</td><td>10</td><td>5.5.2006</td></tr>
+<tr><td> M28</td><td> COMMISSION REGULATION (EC) No 1041/2006 of 7 July 2006 </td><td> L 187</td><td>10</td><td>8.7.2006</td></tr>
+<tr><td> M29</td><td> COUNCIL REGULATION (EC) No 1791/2006 of 20 November 2006 </td><td> L 363</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1923/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2006 </td><td> L 404</td><td>1</td><td>30.12.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 722/2007 of 25 June 2007 </td><td> L 164</td><td>7</td><td>26.6.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 727/2007 of 26 June 2007 </td><td> L 165</td><td>8</td><td>27.6.2007</td></tr>
+<tr><td> M33</td><td> COMMISSION REGULATION (EC) No 1275/2007 of 29 October 2007 </td><td> L 284</td><td>8</td><td>30.10.2007</td></tr>
+<tr><td> M34</td><td> COMMISSION REGULATION (EC) No 1428/2007 of 4 December 2007 </td><td> L 317</td><td>61</td><td>5.12.2007</td></tr>
+<tr><td> M35</td><td> COMMISSION REGULATION (EC) No 21/2008 of 11 January 2008 </td><td> L 9</td><td>3</td><td>12.1.2008</td></tr>
+<tr><td> M36</td><td> COMMISSION REGULATION (EC) No 315/2008 of 4 April 2008 </td><td> L 94</td><td>3</td><td>5.4.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 357/2008 of 22 April 2008 </td><td> L 111</td><td>3</td><td>23.4.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 571/2008 of 19 June 2008 </td><td> L 161</td><td>4</td><td>20.6.2008</td></tr>
+<tr><td> M39</td><td> COMMISSION REGULATION (EC) No 746/2008 of 17 June 2008 </td><td> L 202</td><td>11</td><td>31.7.2008</td></tr>
+<tr><td> M40</td><td> COMMISSION REGULATION (EC) No 956/2008 of 29 September 2008 </td><td> L 260</td><td>8</td><td>30.9.2008</td></tr>
+<tr><td> M41</td><td> COMMISSION REGULATION (EC) No 103/2009 of 3 February 2009 </td><td> L 34</td><td>11</td><td>4.2.2009</td></tr>
+<tr><td> M42</td><td> COMMISSION REGULATION (EC) No 162/2009 of 26 February 2009 </td><td> L 55</td><td>11</td><td>27.2.2009</td></tr>
+<tr><td> M43</td><td> COMMISSION REGULATION (EC) No 163/2009 of 26 February 2009 </td><td> L 55</td><td>17</td><td>27.2.2009</td></tr>
+<tr><td></td><td> REGULATION (EC) No 220/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>155</td><td>31.3.2009</td></tr>
+<tr><td> M45</td><td> COMMISSION REGULATION (EU) No 956/2010 of 22 October 2010 </td><td> L 279</td><td>10</td><td>23.10.2010</td></tr>
+<tr><td> M46</td><td> COMMISSION REGULATION (EU) No 189/2011 of 25 February 2011 </td><td> L 53</td><td>56</td><td>26.2.2011</td></tr>
+<tr><td> M47</td><td> COMMISSION REGULATION (EU) No 1064/2012 of 13 November 2012 </td><td> L 314</td><td>13</td><td>14.11.2012</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 56/2013 of 16 January 2013 </td><td> L 21</td><td>3</td><td>24.1.2013</td></tr>
+<tr><td> M49</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 630/2013 of 28 June 2013 </td><td> L 179</td><td>60</td><td>29.6.2013</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1148/2014 of 28 October 2014 </td><td> L 308</td><td>66</td><td>29.10.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/728 of 6 May 2015 </td><td> L 116</td><td>1</td><td>7.5.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/1162 of 15 July 2015 </td><td> L 188</td><td>3</td><td>16.7.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/27 of 13 January 2016 </td><td> L 9</td><td>4</td><td>14.1.2016</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/1396 of 18 August 2016 </td><td> L 225</td><td>76</td><td>19.8.2016</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/110 of 23 January 2017 </td><td> L 18</td><td>42</td><td>24.1.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 </td><td> L 95</td><td>1</td><td>7.4.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/736 of 26 April 2017 </td><td> L 110</td><td>2</td><td>27.4.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/893 of 24 May 2017 </td><td> L 138</td><td>92</td><td>25.5.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/894 of 24 May 2017 </td><td> L 138</td><td>117</td><td>25.5.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/1972 of 30 October 2017 </td><td> L 281</td><td>14</td><td>31.10.2017</td></tr>
+<tr><td> M62</td><td> COMMISSION REGULATION (EU) 2018/221 of 15 February 2018 </td><td> L 43</td><td>6</td><td>16.2.2018</td></tr>
+<tr><td> M63</td><td> COMMISSION REGULATION (EU) 2018/969 of 9 July 2018 </td><td> L 174</td><td>12</td><td>10.7.2018</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/319 of 6 February 2019 </td><td> L 61</td><td>1</td><td>28.2.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/1091 of 26 June 2019 </td><td> L 173</td><td>42</td><td>27.6.2019</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2020/772 of 11 June 2020 </td><td> L 184</td><td>43</td><td>12.6.2020</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2020/1593 of 29 October 2020 </td><td> L 360</td><td>13</td><td>30.10.2020</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/1176 of 16 July 2021 </td><td> L 256</td><td>56</td><td>19.7.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/1372 of 17 August 2021 </td><td> L 295</td><td>1</td><td>18.8.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/175 of 9 February 2022 </td><td> L 29</td><td>1</td><td>10.2.2022</td></tr>
+<tr><td> M71</td><td> COMMISSION REGULATION (EU) 2022/1403 of 16 August 2022 </td><td> L 214</td><td>1</td><td>17.8.2022</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/2246 of 15 November 2022 </td><td> L 295</td><td>1</td><td>16.11.2022</td></tr>
+<tr><td> M73</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/877 of 21 March 2024 </td><td> L 877</td><td>1</td><td>22.3.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2024/887 of 22 March 2024 </td><td> L 887</td><td>1</td><td>25.3.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2024/918 of 25 March 2024 </td><td> L 918</td><td>1</td><td>26.3.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/328 of 19 February 2025 </td><td> L 328</td><td>1</td><td>20.2.2025</td></tr>
+</table>
+
+| A1 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
+| --- | --- | --- | --- | --- |
+
+**REGULATION (EC) No 999/2001 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 22 May 2001**
+
+**laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation lays down rules for the prevention, control and eradication of transmissible spongiform encephalopathies (TSEs) in animals. It shall apply to the production and placing on the market of live animals and products of animal origin and in certain specific cases to exports thereof.
+
+2\. This Regulation shall not apply to:
+
+(a) cosmetic or medicinal products or medical devices, or to their starting materials or intermediate products;
+
+(b) products which are not intended for use in human food, animal feed or fertilisers, or to their starting materials or intermediate products;
+
+(c) products of animal origin intended for exhibition, teaching, scientific research, special studies or analysis, provided those products are not eventually consumed or used by humans or by animals other than those kept for the research projects concerned;
+
+(d) live animals used in or intended for research.
+
+### Article 2 — Separation of live animals and of products of animal origin
+
+In order to avoid cross-contamination or substitution between the live animals or of the products of animal origin referred to in Article 1(1) and the products of animal origin referred to in Article 1(2)(a), (b) and (c), or the live animals referred to in Article 1(2)(d), they shall be kept separate at all times unless such live animals or products of animal origin are produced under at least the same conditions of health protection in respect of TSEs.
+
+Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 3 — Definitions
+
+1\. For the purposes of this Regulation the following definitions shall apply:
+
+(a) TSEs: all transmissible spongiform encephalopathies with the exception of those occurring in humans;
+
+(b) placing on the market: any operation the purpose of which is to sell live animals or products of animal origin covered by this Regulation to a third party in the Community, or any other form of supply against payment or free of charge to such a third party or storage with a view to supply to such a third party;
+
+(c) products of animal origin: any product derived from or containing a product derived from any animal covered by the provisions of Directive 89/662/EEC ( 1 ) or Directive 90/425/EEC ( 2 );
+
+(d) starting materials: raw materials or any other product of animal origin out of which, or with the help of which, the products referred to in Article 1(2)(a) and (b) are produced;
+
+(e) competent authority: the central authority of a Member State competent to ensure compliance with the requirements of this Regulation or any authority to which that central authority has delegated that competence, in particular for the control of feedingstuffs; it shall also include, where appropriate, the corresponding authority of a third country;
+
+(f) category: one of the classification categories referred to in Chapter C of Annex II;
+
+(g) specified risk material: the tissues specified in Annex V; unless otherwise indicated, it does not include products containing or derived from those tissues;
+
+(h) animal suspected of being infected by a TSE: live, slaughtered or dead animals, which show or have shown neurological or behavioural disorders or a progressive deterioration of the general condition linked to impairment of the central nervous system and for which the information gathered on the basis of a clinical examination, response to treatment, a post-mortem examination or an ante or post-mortem laboratory analysis do not allow an alternative diagnosis to be established. Bovine spongiform encephalopathies (BSE) shall be suspected in bovine animals which have produced a positive result from a rapid test specifically for BSE;
+
+(i) holding: any place in which animals covered by this Regulation are held, kept, bred, handled or shown to the public;
+
+(j) sampling: the taking of samples, ensuring a statistically correct representation, from animals or their environment, or from products of animal origin, for the purpose of establishing a disease diagnosis, familial relationships, for health surveillance, or for the monitoring of the absence of microbiological agents or of certain materials in products of animal origin;
+
+(k) fertilisers: any substance containing products of animal origin utilised on land to enhance growth of vegetation; it may include digestion residues from bio-gas production or composting;
+
+(l) rapid tests: the screening methods listed in Annex X, for which the results are known within 24 hours;
+
+(m) alternative test: the tests referred to in Article 8(2) which are used as an alternative to the withdrawal of specified risk material;
+
+(n) mechanically separated meat or ‘MSM’: the product obtained by removing meat from flesh-bearing bones after boning, using mechanical means resulting in the loss or modification of the muscle fibre structure;
+
+(o) passive surveillance: the reporting of all animals suspected of being infected by a TSE and, where TSE cannot be excluded by clinical investigation, the laboratory testing of such animals;
+
+(p) active surveillance: the testing of animals not reported as suspected of being infected by a TSE, such as emergency slaughtered animals, animals with observations at ante mortem inspection, fallen stock, healthy slaughtered animals and animals culled in connection with a TSE case, in particular in order to determine the evolution and prevalence of TSE in a country or region thereof.
+
+2\. The specific definitions set out in Annex I shall also apply.
+
+3\. Where the terms in this Regulation are not defined in paragraph 1 or Annex I, the relevant definitions given in Regulation (EC) No 1760/2000 ( 3 ) and those given in or pursuant to Directives 64/432/EEC ( 4 ), 89/662/EEC, 90/425/EEC and 91/68/EEC ( 5 ) shall apply insofar as reference is made to them in this text.
+
+### Article 4 — Safeguard measures
+
+1\. With regard to the implementation of safeguard measures, the principles and provisions set out in Article 9 of Directive 89/662/EEC, Article 10 of Directive 90/425/EEC, Article 18 of Directive 91/496/EEC ( 6 ) and Article 22 of Directive 97/78/EC ( 7 ) shall apply.
+
+2\. The safeguard measures shall be adopted in accordance with the procedure referred to in Article 24(2) and shall be notified at the same time to the European Parliament, stating the reasons.
+
+## CHAPTER II — DETERMINATION OF BSE STATUS
+
+### Article 5 — Classification
+
+1\. The BSE status of Member States or third countries or regions thereof (hereinafter referred to as ‘countries or regions’) shall be determined by classification into one of the following three categories:
+
+— negligible BSE risk as defined in Annex II,
+
+— controlled BSE risk as defined in Annex II,
+
+— undetermined BSE risk as defined in Annex II.
+
+The BSE status of countries or regions may be determined only on the basis of the criteria set out in Annex II, Chapter A. These criteria shall include the outcome of a risk analysis on the basis of all the potential factors for the appearance of bovine spongiform encephalopathy as defined in Annex II, Chapter B, and their development over time, as well as comprehensive active and passive surveillance measures taking into account the risk category of the country or region.
+
+Member States, and third countries wishing to be retained on the list of third countries approved for the export to the Community of the live animals or of the products covered by this Regulation, shall submit to the Commission an application for their BSE status to be determined, accompanied by the relevant information on the criteria set out in Annex II, Chapter A, and on the potential risk factors specified in Annex II, Chapter B, and their development over time.
+
+2\. A decision on each application, placing the Member State or third country or region of the Member State or third country which submitted the application in one of the categories defined in Annex II, Chapter C, shall be adopted, taking account of the criteria and potential risk factors set out in paragraph 1, in accordance with the procedure referred to in Article 24(2).
+
+This decision shall be taken within six months of the submission of the application and of the relevant information referred to in the second subparagraph of paragraph 1. If the Commission finds that the supporting evidence does not include the information laid down in Annex II, Chapters A and B, it shall ask for additional information to be provided within a period to be specified. The final decision shall then be taken within six months of the submission of all information.
+
+After the International Office of Epizootic Diseases (OIE) has established a procedure for the classification of countries by category and if it has placed the applicant country in one of those categories, a re-assessment of the Community categorisation of the country concerned in accordance with the first subparagraph of this paragraph may be decided, if appropriate, in accordance with the procedure referred to in Article 24(2).
+
+3\. If the Commission finds that the information submitted by a Member State or a third country pursuant to Annex II, Chapters A and B, is insufficient or unclear, it may, in accordance with the procedure referred to in Article 24(2), determine the BSE status of the Member State or third country concerned on the basis of a full risk analysis.
+
+Such a risk analysis must include a conclusive statistical survey of the epidemiological situation regarding TSEs in the applicant Member State or third country, on the basis of the use, in a screening procedure, of rapid tests. The Commission shall take into account the classification criteria used by the OIE.
+
+The rapid tests shall be approved for that purpose in accordance with the regulatory procedure with scrutiny referred to in Article 24(3) and entered on a list set out in Annex X, Chapter C, point 4.
+
+Such screening procedure may also be used by Member States or third countries which wish to have the classification they carried out on that basis approved by the Commission — in accordance with the procedure laid down in Article 24(2).
+
+The cost of such screening procedure shall be borne by the Member State or third country concerned.
+
+4\. Member States and third countries which have not submitted an application in accordance with the third subparagraph of paragraph 1 shall, with respect to the dispatch from their territory of live animals and products of animal origin, comply with the import requirements applicable to countries with an undetermined BSE risk, until they have submitted such an application and a final decision has been taken on their BSE status.
+
+5\. Member States shall notify the Commission as soon as possible of any epidemiological evidence or other information which might lead to a change in BSE status, in particular the results of the monitoring programmes provided for in Article 6.
+
+6\. The retention of a third country on one of the lists provided for by Community rules for the purpose of being allowed to export to the Community live animals and products of animal origin for which this Regulation provides specific rules shall be decided upon under the procedure laid down in Article 24(2) and shall be made conditional — in the light of the information available or where a TSE is presumed to be present — on the information provided for in paragraph 1 being supplied. In the event of refusal to supply the said information within three months of the date of the Commission's request, the provisions of paragraph 4 of this Article shall apply until this information has been submitted and evaluated in accordance with paragraphs 2 or 3.
+
+The eligibility of third countries to export to the Community live animals, or products of animal origin for which this Regulation provides specific rules, under conditions based on their category as established by the Commission, shall be conditional upon their undertaking to notify the latter in writing as soon as possible of any epidemiological or other evidence which might lead to a change in BSE status.
+
+7\. A decision may be taken, under the procedure laid down in Article 24(2), to change the BSE classification of a Member State or third country, or of one of its regions, in accordance with the results of the checks provided for in Article 21.
+
+8\. The decisions referred to in paragraphs 2, 3, 4, 6 and 7 shall be based on a risk assessment, taking into consideration the recommended criteria set out in Annex II, Chapters A and B.
+
+## CHAPTER III — PREVENTION OF TSE
+
+### Article 6 — Monitoring system
+
+1\. Each Member State shall carry out an annual monitoring programme for TSEs based on active and passive surveillance in accordance with Annex III. If available for the animal species, that programme shall include a screening procedure using rapid tests.
+
+Rapid tests shall be approved for that purpose in accordance with the procedure referred to in Article 24(3) and listed in Annex X.
+
+1a. The annual monitoring programme referred to in paragraph 1 shall cover as a minimum the following subpopulations:
+
+(a) all bovine animals above 24 months of age sent for emergency slaughter or with observations at ante mortem inspections;
+
+(b) all bovine animals above 30 months of age slaughtered normally for human consumption;
+
+(c) all bovine animals above 24 months of age not slaughtered for human consumption, which have died or been killed on the farm, during transport or in an abattoir (fallen stock).
+
+Member States may decide to derogate from the provision under point (c) in remote areas with a low animal density, where no collection of dead animals is organised. Member States making use of this possibility shall inform the Commission and submit a list of the areas concerned together with a justification for the derogation. The derogation shall not cover more than 10 % of the bovine population in a Member State.
+
+1b. After consultation of the appropriate scientific committee, the age laid down in paragraph 1a(a) and (c) may be adapted according to scientific progress in accordance with the procedure referred to in Article 24(3).
+
+At the request of a Member State which can demonstrate the improvement of the epidemiological situation of the country, according to certain criteria to be laid down in accordance with the procedure referred to in Article 24(3), the annual monitoring programmes for that particular Member State may be revised.
+
+The Member State concerned shall provide proof of its capability to determine the effectiveness of the measures in place and ensure protection of human and animal health based on a comprehensive risk analysis. In particular, the Member State shall demonstrate:
+
+(a) a clearly declining or consistently low BSE prevalence, based on up-to-date testing results;
+
+(b) that it has implemented and enforced for at least six years a full BSE testing scheme (Community legislation on traceability and identification of live animals and BSE surveillance);
+
+(c) that it has implemented and enforced for at least six years Community legislation on total feed ban for farmed animals.
+
+2\. Each Member State shall inform the Commission and the other Member States, within the Standing Veterinary Committee, of the emergence of a TSE other than BSE.
+
+3\. All official investigations and laboratory examinations shall be recorded in accordance with Annex III, Chapter B.
+
+4\. Member States shall submit an annual report to the Commission covering at least the information referred to in Annex III, Chapter B, Part I. The report for each calendar year shall be submitted at the latest by 31 March of the following year. The Commission shall present a summary of the national reports covering at least the information referred to in Annex III, Chapter B, Part II, to the Standing Veterinary Committee within three months of the receipt of the said reports.
+
+5\. Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 6a — Breeding Programmes
+
+1\. Member States may introduce breeding programmes to select for resistance to TSEs in their ovine populations. Those programmes shall include a framework to recognise the TSE-resistant status of certain flocks and may be extended to include other animal species based on scientific evidence corroborating the resistance to TSE of particular genotypes of those species.
+
+2\. Specific rules for the programmes provided for in paragraph 1 of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+3\. Member States which introduce breeding programmes shall submit regular reports to the Commission in order to enable the programmes to be scientifically evaluated, in particular with regard to their impact on the incidence of TSEs but also on genetic diversity and variability and on the maintenance of old or rare ovine breeds or of those that are well-adapted to a particular region. The scientific results and overall consequences of the breeding programmes shall be evaluated regularly, and where necessary, those programmes shall be amended accordingly.
+
+### Article 7 — Prohibitions concerning animal feeding
+
+1\. The feeding to ruminants of protein derived from animals shall be prohibited.
+
+2\. The prohibition provided for in paragraph 1 shall be extended to animals other than ruminants and restricted, as regards the feeding of those animals with products of animal origin, in accordance with Annex IV.
+
+3\. Paragraphs 1 and 2 shall apply without prejudice to the provisions laid down in Annex IV setting out the derogations from the prohibition contained in those paragraphs.
+
+The Commission may decide in accordance with the procedure referred to in Article 24(3), based on a scientific assessment of the dietary needs of young ruminants and subject to the rules adopted for the implementation of this Article provided for in paragraph 5 of this Article, and following an assessment of the control aspects of this derogation, to allow the feeding of young animals of ruminant species with proteins derived from fish.
+
+4\. Member States, or regions thereof, with an undetermined BSE risk shall not be permitted to export or store feed intended for farmed animals which contains protein derived from mammals or feed intended for mammals, except feed for dogs, cats and fur animals, which contains processed protein derived from mammals.
+
+Third countries, or regions thereof, with an undetermined BSE risk shall not be permitted to export to the Community feed intended for farmed animals which contains protein derived from mammals or feed intended for mammals, except feed for dogs, cats and fur animals, which contains processed protein derived from mammals.
+
+At the request of a Member State or third country a decision in accordance with the procedure referred to in Article 24(2) may be taken, following detailed criteria to be laid down in accordance with the procedure referred to in Article 24(3), to grant individual exemptions from the restrictions in this paragraph. Any exemption shall take account of the provisions provided for in paragraph 3 of this Article.
+
+4a. Based on a favourable risk assessment taking into account at least the amount and possible source of contamination and the final destination of the consignment, a decision may be taken in accordance with the procedure referred to in Article 24(3) to introduce a tolerance level for insignificant amounts of animal proteins in feedingstuffs caused through adventitious and technically unavoidable contamination.
+
+5\. Rules for the implementation of this Article, in particular rules on the prevention of cross-contamination and on the methods of sampling and analysis required to check compliance with this Article, shall be adopted in accordance with the procedure referred to in Article 24(2). Those rules shall be based on a report of the Commission covering sourcing, processing, control and traceability of feedingstuffs of animal origin.
+
+### Article 8 — Specified risk material
+
+1\. The specified risk material shall be removed and disposed of in accordance with Annex V to this Regulation and with Regulation (EC) No 1774/2002. It shall not be imported into the Community. The list of specified risk material referred to in Annex V shall include at least the brain, spinal cord, eyes and tonsils of bovine animals aged over 12 months and the vertebral column of bovine animals above an age to be determined in accordance with the procedure referred to in Article 24(3). Taking into account the different risk categories laid down in the first subparagraph of Article 5(1) and the requirements of Article 6(1a) and (1b) (b), the list of specified risk material in Annex V shall be amended accordingly.
+
+2\. Paragraph 1 of this Article shall not apply to tissues from animals which have undergone an alternative test approved for that distinct purpose in accordance with the procedure referred to in Article 24(3) provided that this test is listed in Annex X, is applied under the conditions provided for in Annex V and the test results are negative.
+
+The Member States which authorise the use of an alternative test pursuant to this paragraph shall inform the other Member States and the Commission.
+
+3\. In Member States, or regions thereof, with a controlled or undetermined BSE risk, the laceration, after stunning, of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injection into the cranial cavity in connection with stunning, shall not be used on bovine, ovine or caprine animals whose meat is intended for human or animal consumption.
+
+4\. The data relating to age set out in Annex V may be adjusted. Such adjustments shall be based on the latest proven scientific findings concerning the statistical probability of the occurrence of a TSE in the relevant age groups of the Community's bovine, ovine and caprine population.
+
+5\. Rules providing for exemptions from paragraphs 1 to 4 of this Article may be adopted in accordance with the procedure referred to in Article 24(3), with regard to the date of the effective enforcement of the feeding prohibition provided for in Article 7(1) or, as appropriate for third countries or regions thereof with a controlled BSE risk, with regard to the date of the effective enforcement of the ban of mammalian protein in feed for ruminants with a view to limiting the requirements to remove and destroy specified risk material to animals born before that date in the countries or regions concerned.
+
+6\. Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 9 — Products of animal origin derived from or containing ruminant material
+
+1\. The products of animal origin listed in Annex VI shall be produced using production processes approved in accordance with the procedure referred to in Article 24(3).
+
+2\. Bones of bovine, ovine and caprine animals from countries or regions with a controlled or undetermined BSE risk shall not be used for the production of mechanically separated meat (MSM). Before 1 July 2008, the Member States shall submit a report to the Commission on the use and the production method of MSM in their territory. This report shall include a statement as to whether the Member State intends to continue with the production of MSM.
+
+The Commission shall thereupon present a communication to the European Parliament and the Council on the future necessity and use of MSM in the Community, including the information policy towards consumers.
+
+3\. Paragraphs 1 and 2 shall not apply, in the light of the criteria set out in point 5 of Annex V, to ruminants which have undergone an alternative test which has been recognised in accordance with the regulatory procedure with scrutiny referred to in Article 24(3), provided that this test is listed in Annex X, where the results of the test were negative.
+
+4\. Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 10 — Education programmes
+
+1\. Member States shall ensure that staff of the competent authority, of diagnostic laboratories and colleges of agriculture and veterinary medicine, official veterinarians, veterinary practitioners, slaughterhouse personnel and animal breeders, keepers and handlers have been given training in the clinical signs, epidemiology and, in the case of staff responsible for carrying out checks, in interpreting laboratory findings relating to TSEs.
+
+2\. To ensure effective implementation of the education programmes provided for in paragraph 1, financial assistance from the Community may be granted. The amount of such assistance shall be determined in accordance with the procedure referred to in Article 24(2).
+
+## CHAPTER IV — CONTROL AND ERADICATION OF TSEs
+
+### Article 11 — Notification
+
+Without prejudice to Directive 82/894/EEC ( 8 ), the Member States shall ensure that any animal suspected of being infected by a TSE is notified immediately to the competent authorities.
+
+Member States shall regularly inform each other and the Commission of the cases of TSE notified.
+
+The competent authority shall without delay take the measures laid down in Article 12 of this Regulation, together with any other necessary measures.
+
+### Article 12 — Measures with respect to suspect animals
+
+1\. Any animal suspected of being infected by a TSE shall be either placed under an official movement restriction until the results of a clinical and epidemiological examination carried out by the competent authority are known, or killed for laboratory examination under official control.
+
+If a TSE is officially suspected in a bovine animal at a holding in a Member State, all other bovine animals at that holding shall be placed under an official movement restriction until the results of the examination are available. If a TSE is officially suspected in an ovine or caprine animal at a holding in a Member State, all other ovine and caprine animals at that holding shall be placed under an official movement restriction until the results are available.
+
+However, if there is evidence that the holding where the animal was present when the TSE was suspected is unlikely to be the holding where the animal could have been exposed to the TSE, the competent authority may decide that only the animal suspected of being infected shall be placed under an official movement restriction.
+
+If considered necessary, the competent authority may also decide that other holdings or only the holding of exposure shall be placed under official control depending on the epidemiological information available.
+
+In accordance with the procedure referred to in Article 24(2) and by way of derogation from the official movement restrictions provided for in this paragraph, a Member State may be exempted from implementing such restrictions if it applies measures offering equivalent safeguards based on an appropriate assessment of the possible risks for human and animal health.
+
+2\. Where the competent authority decides that the possibility of infection with a TSE cannot be ruled out, the animal shall be killed, if it is still alive; its brain and all other tissues as the competent authority may determine shall be removed and sent to an officially approved laboratory, the national reference laboratory provided for in Article 19(1) or the Community reference laboratory provided for in Article 19(2), for examination in accordance with the testing methods laid down in Article 20.
+
+3\. All parts of the body of the suspect animal shall be either retained under official control until a negative diagnosis has been made, or disposed of in accordance with Regulation (EC) No 1774/2002.
+
+4\. Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 13 — Measures following confirmation of the presence of a TSE
+
+1\. When the presence of a TSE has been officially confirmed, the following measures shall be applied as soon as possible:
+
+(a) all parts of the body of the animal shall be disposed of in accordance with Regulation (EC) No 1774/2002 except for material retained for records in accordance with Annex III, Chapter B, of this Regulation.
+
+(b) an inquiry shall be carried out to identify all animals at risk in accordance with Annex VII, point 1;
+
+(c) all animals and products thereof at risk, as listed in Annex VII, point 2, of this Regulation, identified by the inquiry referred to in point (b) of this paragraph shall be killed and disposed of in accordance with Regulation (EC) No 1774/2002.
+
+At the request of a Member State and based on a favourable risk assessment taking particularly into account the control measures in that Member State, a decision may be taken in accordance with the procedure referred to in Article 24(2) to allow the use of bovine animals referred to in this paragraph until the end of their productive lives.
+
+By way of derogation from this paragraph, a Member State may apply other measures offering an equivalent level of protection based on a favourable risk assessment pursuant to Articles 24a and 25, taking particularly into account the control measures in that Member State, if those measures have been approved for that Member State in accordance with the regulatory procedure referred to in Article 24(2).
+
+2\. Pending the implementation of the measures referred to in paragraph 1(b) and (c), the holding on which the animal was present when the presence of a TSE was confirmed shall be placed under official control and all movement of animals susceptible to TSEs and products of animal origin derived from them from or to the holding shall be subject to authorisation by the competent authority, with a view to ensuring immediate tracing and identification of the animals and products of animal origin concerned.
+
+If there is evidence that the holding where the affected animal was present when the TSE was confirmed is not likely to be the holding where the animal was exposed to the TSE, the competent authority may decide that both holdings or only the holding of exposure shall be placed under official control.
+
+3\. Member States which have implemented a substitute scheme offering equivalent safeguards provided for in the fifth subparagraph of Article 12(1) may, by way of derogation from the requirements of paragraph 1(b) and (c), be exempted in accordance with the procedure referred to in Article 24(2) from the requirement to apply official restrictions on the movement of animals and from the requirement to kill and destroy animals.
+
+4\. Owners shall be compensated without delay for the loss of the animals that have been killed or products of animal origin destroyed in accordance with Article 12(2) and paragraph 1(a) and (c) of this Article.
+
+5\. Without prejudice to Directive 82/894/EEC, the confirmed presence of any TSE other than BSE shall be notified to the Commission on an annual basis.
+
+6\. Rules for the implementation of this Article shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 14 — Contingency plan
+
+1\. Member States shall draw up — in accordance with the general criteria of Community rules on the control of animal diseases — guidelines specifying the national measures to be implemented and indicating competences and responsibilities where cases of TSE are confirmed.
+
+2\. Where necessary to enable Community legislation to be applied uniformly, the guidelines may be harmonised in accordance with the procedure referred to in Article 24(2).
+
+## CHAPTER V — PLACING ON THE MARKET AND EXPORT
+
+### Article 15 — Live animals, their semen, embryos and ova
+
+1\. Placing on the market or, if need be, export of bovine, ovine or caprine animals and their semen, embryos and ova shall be subject to the conditions laid down in Annex VIII, or, in the case of imports, to the conditions laid down in Annex IX. The live animals and their embryos and ova shall be accompanied by the appropriate animal health certificates as required by Community legislation, in accordance with Article 17 or, in the case of imports, Article 18.
+
+2\. The placing on the market of first generation progeny, semen, embryos and ova of TSE suspect or confirmed animals shall be subject to the conditions laid down in Annex VIII, Chapter B.
+
+3\. In accordance with the procedure referred to in Article 24(3), the provisions of paragraphs 1 and 2 may be extended to other animal species.
+
+4\. Rules for implementing this Article may be adopted in accordance with the procedure referred to in Article 24(2).
+
+### Article 16 — Placing on the market of products of animal origin
+
+1\. The following products of animal origin derived from healthy ruminants shall not be subject to restrictions on placing on the market or, if need be, export pursuant to this Article, to Annex VIII, Chapters C and D, and to Annex IX, Chapters A, C, F and G:
+
+(a) products of animal origin covered by Article 15, in particular semen, embryos and ova;
+
+(b) milk and dairy products, hides and skins, and gelatine and collagen derived from hides and skins.
+
+2\. Products of animal origin imported from a third country with a controlled or undetermined BSE risk shall come from healthy bovine, ovine and caprine animals which have not been subjected to a laceration of the central nervous tissue or gas injection into the cranial cavity as referred to in Article 8(3).
+
+3\. Food products of animal origin containing material obtained from bovine animals originating in a country or region with an undetermined BSE risk shall not be placed on the market unless they come from animals which:
+
+(a) were born eight years after the date from which the prohibition on the feeding to ruminants of animal protein derived from mammals was effectively enforced; and
+
+(b) were born, raised and have stayed in herds with a certified history of freedom from BSE for at least seven years.
+
+Furthermore, food products of ruminant origin shall not be dispatched from a Member State or a region thereof with an undetermined BSE risk to another Member State or be imported from a third country with an undetermined BSE risk.
+
+This prohibition shall not apply to products of animal origin listed in Annex VIII, Chapter C, and fulfilling the requirements of Annex VIII, Chapter C.
+
+They must be accompanied by an animal health certificate issued by an official veterinarian certifying that they have been produced in conformity with this Regulation.
+
+4\. When an animal is moved from a country or a region to country or region included in another category, it shall be classified in the highest category of the countries or regions in which it has stayed over twenty-four hours unless adequate guarantees can be provided certifying that the animal has not received feedingstuffs from the country or region classified in the highest category.
+
+5\. Products of animal origin for which this Article lays down specific rules shall be accompanied by the appropriate animal health certificates or commercial documents as required by Community legislation in accordance with Articles 17 and 18 or, if such certificates or documents are not provided for in Community legislation, by a health certificate or commercial document the specimens of which shall be established in accordance with the procedure referred to in Article 24(2).
+
+6\. For the purpose of import into the Community, products of animal origin shall comply with the conditions laid down in Annex IX, Chapters A, C, F and G.
+
+7\. In accordance with the regulatory procedure with scrutiny referred to in Article 24(3), the provisions of paragraphs 1 to 6 may be extended to other products of animal origin. Rules for the implementation of this Article shall be adopted in accordance with the regulatory procedure referred to in Article 24(2).
+
+### Article 17
+
+Under the procedure referred to in Article 24(2), the health certificates referred to in Annex F to Directive 64/432/EEC, Models II and III in Annex E to Directive 91/68/EEC and the appropriate health certificates laid down by Community legislation relating to trade in the semen, embryos and ova of bovine, ovine or caprine animals shall be supplemented, where necessary, by a reference to the category specifying the classification of the Member State or region of origin given in accordance with Article 5.
+
+Appropriate commercial documents relating to trade in products of animal origin shall be supplemented, where necessary, by a reference to the category of the Member State or region of origin given by the Commission in accordance with Article 5.
+
+### Article 18
+
+The appropriate health certificates relating to imports provided for by Community legislation shall, under the procedure referred to in Article 24(2), be supplemented in respect of third countries classified in a category pursuant to Article 5 by the specific requirements laid down in Annex IX, as soon as that classification decision has been taken.
+
+## CHAPTER VI — REFERENCE LABORATORIES, SAMPLING, TESTING AND CONTROLS
+
+### Article 20 — Sampling and laboratory methods
+
+1\. Sampling and laboratory testing for the presence of a TSE shall be carried out using the methods and protocols laid down in Annex X, Chapter C.
+
+2\. Where necessary to ensure the uniform application of this Article, implementing rules shall be adopted in accordance with the regulatory procedure referred to in Article 24(2). The method to confirm BSE in ovine and caprine animals shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 24(3).
+
+## CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 22 — Transitional measures concerning specified risk material
+
+1\. The provisions of Annex XI, Part A shall apply for a period of at least six months from 1 July 2001 and shall cease to apply immediately following the date of adoption of a decision in accordance with Article 5(2) or (4), on which date Article 8 shall enter into force.
+
+2\. The results of a conclusive statistical survey carried out in accordance with Article 5(3) during the transitional period shall be used to confirm or overturn the risk analysis conclusions referred to in Article 5(1), while taking account of the classification criteria defined by the OIE.
+
+3\. After consultation of the appropriate scientific committee, detailed rules concerning that statistical survey shall be adopted in accordance with the procedure referred to in Article 24(2).
+
+4\. The minimum criteria to be met by this statistical survey shall be those laid down in Part B of Annex XI.
+
+### Article 23 — Amendment of the annexes and transitional measures
+
+After consultation of the appropriate scientific committee on any question which could have an impact on public health, the annexes shall be amended or supplemented and any appropriate transitional measures shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 24(3).
+
+In accordance with that procedure, transitional measures shall be adopted for a period ending on 1 July 2007 at the latest, to permit the change-over from the current arrangements to the arrangements established by this Regulation.
+
+### Article 23a
+
+The following measures which are designed to amend non-essential elements of this Regulation, including by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 24(3):
+
+(a) approval of the rapid tests referred to in Article 5(3) third subparagraph, Article 6(1), Article 8(2) and Article 9(3),
+
+(b) adaptation of the age referred to in Article 6(1b),
+
+(c) criteria to demonstrate improvement of the epidemiological situation referred to in Article 6(1b),
+
+(d) decision to allow feeding of young animals of ruminant species with proteins derived from fish as referred to in Article 7(3),
+
+(e) criteria for granting exemptions from the restrictions referred to in Article 7(4),
+
+(f) decision to introduce a tolerance level as referred to in Article 7(4a),
+
+(g) decision on age as referred to in Article 8(1),
+
+(h) rules providing for exemptions from the requirement to remove and destroy specified risk material as referred to in Article 8(5),
+
+(i) approval of production processes referred to in Article 9(1),
+
+(j) decision to extend certain provisions to other animal species as referred to in Article 15(3),
+
+(k) extension to other products of animal origin of the provisions of paragraphs 1 to 6 of Article 16,
+
+(l) adoption of the method to confirm BSE in ovine and caprine animals referred to in Article 20(2),
+
+(m) amendment or addition to the annexes and adoption of any appropriate transitional measures referred to in Article 23.
+
+### Article 24 — Committees
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health. However, the Standing Committee on Zootechnics shall also be consulted by the Commission with regard to Article 6a.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The time-limits referred to in Article 5(6) of that Decision shall be three months and, in the case of safeguard measures referred to in Article 4(2) of this Regulation, 15 days.
+
+3\. Where reference is made to this paragraph, Article 5a (1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 24a
+
+Decisions to be adopted in accordance with one of the procedures referred to in Article 24 shall be based on an appropriate assessment of the possible risks for human and animal health and shall, taking into account existing scientific evidence, maintain, or if scientifically justified increase, the level of protection of human and animal health ensured in the Community.
+
+### Article 25 — Consultation of the scientific committees
+
+The appropriate scientific committees shall be consulted on any matter within the scope of this Regulation which could have an impact on public health.
+
+### Article 26 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+It shall apply from 1 July 2001.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — SPECIFIC DEFINITIONS
+
+1\. For the purpose of this Regulation, the following definitions set out in Regulation (EC) No 1069/2009 of the European Parliament and of the Council ( 9 ), Commission Regulation (EU) No 142/2011 ( 10 ), Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 11 ), Regulation (EC) No 767/2009 of the European Parliament and of the Council ( 12 ), Council Directive 2006/88/EC ( 13 ) and Regulation (EU) 2016/1012 of the European Parliament and of the Council ( 14 ) shall apply:
+
+(a) the definition of ‘farmed animal’ in Article 3(6) of Regulation (EC) No 1069/2009;
+
+(b) the following definitions in Annex I to Regulation (EU) No 142/2011:
+
+(i) ‘fur animals’ in point 1;
+
+(ii) ‘blood products’ in point 4;
+
+(iii) ‘processed animal protein’ in point 5;
+
+(iv) ‘fishmeal’ in point 7;
+
+(v) ‘collagen’ in point 11;
+
+(vi) ‘gelatine’ in point 12;
+
+(vii) ‘hydrolysed proteins’ in point 14;
+
+(viii) ‘canned petfood’ in point 16;
+
+(ix) ‘petfood’ in point 19;
+
+(x) ‘processed petfood’ in point 20;
+
+(c) the definition of ‘feed’ in Article 3(4) of Regulation (EC) No 178/2002;
+
+(d) Regulation (EC) No 767/2009:
+
+(i) ‘feed materials’ in Article 3(2)(g);
+
+(ii) ‘compound feed’ in Article 3(2)(h);
+
+(iii) ‘complete feed’ in Article 3(2)(i);
+
+(iv) ‘label’ in Article 3(2)(t);
+
+(e) Directive 2006/88/EC:
+
+(i) ‘aquaculture animal’ in Article 3(1)(b);
+
+(ii) ‘aquatic animal’ in Article 3(1)(e);
+
+(f) the definition of ‘endangered breed’ in Article 2(24) of Regulation (EU) 2016/1012.
+
+2\. For the purpose of this Regulation, the following definitions shall also apply:
+
+(a) ‘BSE indigenous case’ means a case of bovine spongiform encephalopathy which has not been clearly demonstrated to be due to infection prior to importation as a live animal;
+
+(b) ‘cohort’ means a group of bovine animals which includes both:
+
+(i) animals born in the same herd as the affected bovine animal, and within 12 months preceding or following the date of birth of the affected bovine animal; and
+
+(ii) animals which at any time during the first year of their lives were reared together with the affected bovine animal during the first year of its life;
+
+(c) ‘index case’ means the first animal on a holding, or in an epidemiologically defined group, in which a TSE infection is confirmed;
+
+(d) ‘TSE in small ruminants’ means a transmissible spongiform encephalopathy case detected in an ovine or caprine animal following a confirmatory test for abnormal PrP protein;
+
+(e) ‘scrapie case’ means a transmissible spongiform encephalopathy confirmed case in an ovine or caprine animal where a diagnosis of BSE has been excluded in accordance with the criteria laid down in the European Union reference laboratory’s technical handbook on TSE strain characterisation in small ruminants ( 15 );
+
+(f) ‘classical scrapie case’ means a scrapie confirmed case classified as classical in accordance with the criteria laid down in the European Union reference laboratory’s technical handbook on TSE strain characterisation in small ruminants;
+
+(g) ‘atypical scrapie case’ means a scrapie confirmed case which is distinguishable from classical scrapie in accordance with the criteria laid down in the European Union reference laboratory’s technical handbook on TSE strain characterisation in small ruminants;
+
+(h) ‘Prion protein genotype’ in ovine animals means a combination of two alleles as described in point 1 of Annex I to Commission Decision 2002/1003/EC ( 16 );
+
+(i) ‘BSE case’ means a case of BSE confirmed in a national reference laboratory according to the methods and protocols in point 3.1.(a) and (b) of Chapter C of Annex X;
+
+(j) ‘classical BSE case’ means a BSE case classified as such in accordance with the criteria laid down in the European Union reference laboratory’s method for the classification of bovine TSE isolates ( 17 );
+
+(k) ‘atypical BSE case’ means a BSE case which cannot be classified as a classical BSE case in accordance with the criteria laid down in the European Union reference laboratory’s method for the classification of bovine TSE isolates;
+
+(l) ‘ovine and caprine animals over 18 months of age’ means ovine and caprine animals:
+
+(i) whose age is confirmed by the registers or movement documents referred to in point 1(b), (c) and (d) of Article 3 of Council Regulation (EC) No 21/2004 ( 18 ), or
+
+(ii) which have more than two permanent incisors erupted through the gum;
+
+(m) ‘farmed insects’ means farmed animals, as defined in Article 3(6)(a) of Regulation (EC) No 1069/2009, of those insect species which are authorised for the production of processed animal protein in accordance with point 2 of Part A of Section 1 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+
+(n) ‘home compounders’ means livestock farmers who mix compound feed for the exclusive use on their own holding;
+
+(o) ‘farmed and captive cervids’ means animals of the family Cervidae which are kept by humans in an enclosed territory;
+
+(p) ‘wild cervids’ means animals of the family Cervidae which are not kept by humans;
+
+(q) ‘semi-domesticated cervids’ means animals of the family Cervidae which are kept by humans although not in an enclosed territory.
+
+## ANNEX II
+
+**DETERMINATION OF BSE STATUS**
+
+**CHAPTER A**
+
+**Criteria**
+
+The BSE status of Member States or third countries or regions thereof (hereinafter referred to as countries or regions), shall be determined on the basis of the criteria set out in points (a) to (e). For the purpose of this Annex, ‘BSE’ excludes ‘atypical BSE’ as a condition believed to occur spontaneously in all cattle populations at a very low rate.
+
+In the country or region:
+
+(a) a risk analysis in accordance with the provisions of Chapter B, identifying all the potential factors for BSE occurrence and their historic perspective in the country or region, is carried out;
+
+(b) a system of continuous surveillance and monitoring of BSE relating in particular to the risks described in Chapter B and complying with the minimal surveillance requirements laid down in Chapter D is in place;
+
+(c) an on-going awareness programme for veterinarians, farmers, and workers involved in transportation, marketing and slaughter of bovine animals, to encourage reporting of all cases showing clinical signs consistent with BSE in target sub-populations as defined in Chapter D of this Annex is in place;
+
+(d) an obligation to notify and investigate all bovine animals showing clinical signs consistent with BSE is in force;
+
+(e) the examination of brain or other tissues collected within the framework of the surveillance and monitoring system referred to in point (b) is carried out in an approved laboratory.
+
+**CHAPTER B**
+
+**Risk analysis**
+
+**1\. Structure of the risk analysis**
+
+The risk analyses shall comprise an entry assessment and an exposure assessment.
+
+**2\. Entry assessment (external challenge)**
+
+2.1. The entry assessment shall consist of assessing the likelihood that the BSE agent has either been introduced into the country or region via commodities potentially contaminated with a BSE agent, or is already present in the country or region.
+
+The following risk factors shall be taken into account:
+
+(a) the presence or absence of the BSE agent in the country or region and, if the agent is present, its prevalence based on the outcome of surveillance activities;
+
+(b) the production of meat-and-bone meal or greaves from the BSE indigenous ruminant population;
+
+(c) imported meat-and-bone meal or greaves;
+
+(d) imported bovine and ovine and caprine animals;
+
+(e) imported animal feed and feed ingredients;
+
+(f) imported products of ruminant origin for human consumption, which may have contained tissues listed in point 1 of Annex V and may have been fed to bovine animals;
+
+(g) imported products of ruminant origin for in vivo use in bovine animals.
+
+2.2. Special eradication schemes, surveillance and other epidemiological investigations (especially surveillance for BSE conducted on the bovine animals population) relevant to the risk factors listed in point 2.1 should be taken into ac-count in carrying out the entry assessment.
+
+**3\. Exposure assessment**
+
+The exposure assessment shall consist of assessing the likelihood of exposure of bovine animals to the BSE agent, through a consideration of the following:
+
+(a) recycling and amplification of the BSE agent through consumption by bovine animals of meat-and-bone meal or greaves of ruminant origin, or other feed or feed ingredients contaminated with these;
+
+(b) the use of ruminant carcasses (including from fallen stock), by-products and slaughterhouse waste, the parameters of the rendering processes and the methods of animal feed manufacture;
+
+(c) the feeding or not of ruminants with meat-and-bone meal and greaves derived from ruminants, including measures to prevent cross-contamination of animal feed;
+
+(d) the level of surveillance for BSE conducted on the bovine animals population to that time and the results of that surveillance.
+
+**CHAPTER C**
+
+**Definition of categories**
+
+**I. COUNTRY OR REGION WITH A NEGLIGIBLE BSE RISK**
+
+A country or region:
+
+(1) where a risk analysis in accordance with Chapter B has been conducted in order to identify the historical and existing risk factors;
+
+(2) which has demonstrated that appropriate specific measures have been taken for the relevant period of time defined below to manage each identified risk;
+
+(3) which has demonstrated that Type B surveillance, in accordance with Chapter D, is in place, and the relevant points target, in accordance with Table 2 thereof, has been met; and
+
+(4) which is:
+
+(a) either in the following situation:
+
+(i) in the country or region there has been no case of BSE, or, any case of BSE has been demonstrated to have been imported and has been completely destroyed;
+
+(ii) the criteria in points (c), (d) and (e) of Chapter A of this Annex have been complied with for at least seven years; and
+
+(iii) it has been demonstrated through an appropriate level of control and audit that for at least eight years neither meat-and-bone meal nor greaves derived from ruminants has been fed to ruminants;
+
+(b) or in the following situation:
+
+(i) there has been one or more BSE indigenous cases in the country or region but every BSE indigenous case was born more than 11 years ago;
+
+(ii) the criteria in points (c), (d) and (e) of Chapter A have been complied with for at least seven years;
+
+(iii) it has been demonstrated through an appropriate level of control and audit that for at least eight years neither meat-and-bone meal nor greaves derived from ruminants has been fed to ruminants;
+
+(iv) the following animals, if alive in the country or region, are permanently identified, and their movements controlled, and, when slaughtered or at death, are completely destroyed:
+
+— all BSE cases,
+
+— all bovine animals which, during their first year of life, were reared with the BSE cases during their first year of life, and which investigation showed consumed the same potentially contaminated feed during that period, or
+
+— if the results of the investigation referred to in the second indent are inconclusive, all bovine animals born in the same herd as, and within 12 months of the birth of, the BSE cases.
+
+**II. COUNTRY OR REGION WITH A CONTROLLED BSE RISK**
+
+A country or region
+
+(1) where a risk analysis based on the information laid down in Chapter B has been conducted in order to identify the historical and existing risk factors;
+
+(2) which has demonstrated that appropriate measures are been taken to manage all identified risks, but those measures have not been taken for the relevant period of time;
+
+(3) which has demonstrated that Type A surveillance, in accordance with Chapter D, is in place and the relevant points target, in accordance with Table 2, has been met. Type B surveillance may replace Type A surveillance once the relevant points target is met; and
+
+(4) which is:
+
+(a) either in the following situation:
+
+(i) in the country or region there has been no case of BSE, or, any case of BSE has been demonstrated to have been imported and has been completely destroyed, the criteria in points (c), (d) and (e) of Chapter A are complied with, and it can be demonstrated through an appropriate level of control and audit that neither meat-and-bone meal nor greaves derived from ruminants has been fed to ruminants;
+
+(ii) the criteria in points (c), (d) and (e) of Chapter A have been complied with for a period shorter than seven years; and/or
+
+(iii) it cannot be demonstrated that controls over the feeding of meat-and-bone meal or greaves derived from ruminants to ruminants have been in place for eight years;
+
+(b) or in the following situation:
+
+(i) in the country or region there has been a BSE indigenous case, the criteria in points (c), (d) and (e) of Chapter A are complied with, and it can be demonstrated through an appropriate level of control and audit that neither meat-and-bone meal nor greaves derived from ruminants has been fed to ruminants;
+
+(ii) the criteria in points (c) to (e) of Chapter A of this Annex have been complied with for a period shorter than seven years; and/or
+
+(iii) it cannot be demonstrated that controls over the feeding of meat-and-bone meal or greaves derived from ruminants to ruminants have been in place for at least eight years;
+
+(iv) the following animals, if alive in the country or region, are permanently identified, and their movements controlled, and, when slaughtered or at death, are completely destroyed: and
+
+— all BSE cases, and
+
+— all bovine animals which, during their first year of life, were reared with the BSE cases during their first year of life, and which investigation showed consumed the same potentially contaminated feed during that period, or
+
+— if the results of the investigation referred to in the second indent are inconclusive, all bovine animals born in the same herd as, and within 12 months of the birth of, the BSE cases.
+
+**III. COUNTRY OR REGION WITH UNDETERMINED BSE RISK**
+
+A country or region for which the determination of BSE status has not been concluded, or which does not meet the conditions to be fulfilled by the country or region to be classified in one of the other categories.
+
+**CHAPTER D**
+
+**Minimal surveillance requirements**
+
+**1\. Surveillance types**
+
+For the purpose of this Annex, the following definitions shall apply:
+
+(a) Type A surveillance
+
+The application of Type A surveillance will allow the detection of BSE at a design prevalence ( 19 ) of at least one case per 100 000 in the adult bovine animals population in the country or region of concern, at a confidence level of 95 %;
+
+(b) Type B surveillance
+
+The application of Type B surveillance will allow the detection of BSE at a design prevalence of at least one case per 50 000 in the adult bovine animals population in the country or region of concern, at a confidence level of 95 %.
+
+Type B surveillance may be carried out by countries or region of negligible BSE risk status to confirm the conclusions of the risk analysis, for example by demonstrating the effectiveness of the measures mitigating any risk factors identified, through surveillance targeted to maximise the likelihood of identifying failures of such measures.
+
+Type B surveillance may also be carried out by countries or regions of controlled BSE risk status, following the achievement of the relevant points target using Type A surveillance, to maintain confidence in the knowledge gained through Type A surveillance.
+
+For the purpose of this Annex, the following four sub-populations of bovine animals have been identified for surveillance purposes:
+
+(a) bovine animals over 30 months of age displaying behavioural or clinical signs consistent with BSE (clinical suspects);
+
+(b) bovine animals over 30 months of age that are non-ambulatory, recumbent, unable to rise or to walk without assistance; bovine animals over 30 months of age sent for emergency slaughter or with abnormal observations at ante-mortem inspection (casualty or emergency slaughter);
+
+(c) bovine animals over 30 months of age which are found dead or killed on farm, during transport or at an abattoir (fallen stock);
+
+(d) bovine animals over 36 months of age at routine slaughter.
+
+**2\. Surveillance strategy**
+
+2.1. The surveillance strategy shall be designed to ensure that samples are representative of the herd of the country or region, and include consideration of demographic factors such as production type and geographic location, and the potential influence of culturally unique husbandry practices. The approach used and the assumptions made shall be fully documented, and the documentation retained for seven years.
+
+2.2. In order to implement the surveillance strategy for BSE, a country shall use documented records or reliable estimates of the age distribution of the adult bovine animals population and the number of bovine animals tested for BSE stratified by age and by sub-population within the country or region.
+
+**3\. Points values and point targets**
+
+Surveillance samples must meet the point targets set out in Table 2, on the basis of ‘point values’ fixed in Table 1. All clinical suspects shall be investigated, regardless of the number of points accumulated. A country shall sample at least three out of the four sub-populations. The total points for samples collected shall be accumulated over a period of a maximum of seven consecutive years to achieve the target number of points. The total points accumulation shall be periodically compared to the target number of points for a country or region.
+
+**Table 1**
+
+**Surveillance point values for samples collected from animals in the given sub-population and age category**
+
+<table>
+<tbody><tr><td colspan="4">Surveillance sub-population</td></tr>
+<tr><td>Routine slaughter (1)</td><td>Fallen stock (2)</td><td>Casualty slaughter (3)</td><td>Clinical suspect (4)</td></tr>
+<tr><td colspan="4">Age ≥ 1 year and &lt; 2 years</td></tr>
+<tr><td>0,01 </td><td>0,2 </td><td>0,4 </td><td>N/A</td></tr>
+<tr><td colspan="4">Age ≥ 2 years and &lt; 4 years (young adult)</td></tr>
+<tr><td>0,1 </td><td>0,2 </td><td>0,4 </td><td>260 </td></tr>
+<tr><td colspan="4">Age ≥ 4 years and &lt; 7 years (middle adult)</td></tr>
+<tr><td>0,2 </td><td>0,9 </td><td>1,6 </td><td>750 </td></tr>
+<tr><td colspan="4">Age ≥ 7 years and &lt; 9 years (older adult)</td></tr>
+<tr><td>0,1 </td><td>0,4 </td><td>0,7 </td><td>220 </td></tr>
+<tr><td colspan="4">Age ≥ 9 years (aged)</td></tr>
+<tr><td>0,0 </td><td>0,1 </td><td>0,2 </td><td>45 </td></tr>
+<tr><td colspan="4">(1)  Bovine animals over 36 months of age at routine slaughter.  (2)  Bovine animals over 30 months of age which are found dead or killed on farm, during transport or at an abattoir (fallen stock).  (3)  Bovine animals over 30 months of age that are non-ambulatory, recumbent, unable to rise or to walk without assistance; bovine animals over 30 months of age sent for emergency slaughter or with abnormal observations at ante-mortem inspection (casualty or emergency slaughter).  (4)  Bovine animals over 30 months of age displaying behavioural or clinical signs consistent with BSE (clinical suspects). </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Points targets for different adult bovine animals population sizes in a country or region**
+
+<table>
+<tbody><tr><td colspan="3">Points targets for country or region</td></tr>
+<tr><td>Adult bovine animals population size (24 months and older) </td><td>Type A surveillance</td><td>Type B surveillance</td></tr>
+<tr><td>&gt; 1 000 000 </td><td>300 000 </td><td>150 000 </td></tr>
+<tr><td>900 001 -1 000 000 </td><td>214 600 </td><td>107 300 </td></tr>
+<tr><td>800 001 -900 000 </td><td>190 700 </td><td>95 350 </td></tr>
+<tr><td>700 001 -800 000 </td><td>166 900 </td><td>83 450 </td></tr>
+<tr><td>600 001 -700 000 </td><td>143 000 </td><td>71 500 </td></tr>
+<tr><td>500 001 -600 000 </td><td>119 200 </td><td>59 600 </td></tr>
+<tr><td>400 001 -500 000 </td><td>95 400 </td><td>47 700 </td></tr>
+<tr><td>300 001 -400 000 </td><td>71 500 </td><td>35 750 </td></tr>
+<tr><td>200 001 -300 000 </td><td>47 700 </td><td>23 850 </td></tr>
+<tr><td>100 001 -200 000 </td><td>22 100 </td><td>11 500 </td></tr>
+<tr><td>90 001 -100 000 </td><td>19 900 </td><td>9 950 </td></tr>
+<tr><td>80 001 -90 000 </td><td>17 700 </td><td>8 850 </td></tr>
+<tr><td>70 001 -80 000 </td><td>15 500 </td><td>7 750 </td></tr>
+<tr><td>60 001 -70 000 </td><td>13 000 </td><td>6 650 </td></tr>
+<tr><td>50 001 -60 000 </td><td>11 000 </td><td>5 500 </td></tr>
+<tr><td>40 001 -50 000 </td><td>8 800 </td><td>4 400 </td></tr>
+<tr><td>30 001 -40 000 </td><td>6 600 </td><td>3 300 </td></tr>
+<tr><td>20 001 -30 000 </td><td>4 400 </td><td>2 200 </td></tr>
+<tr><td>10 001 -20 000 </td><td>2 100 </td><td>1 050 </td></tr>
+<tr><td>9 001 -10 000 </td><td>1 900 </td><td>950</td></tr>
+<tr><td>8 001 -9 000 </td><td>1 600 </td><td>800</td></tr>
+<tr><td>7 001 -8 000 </td><td>1 400 </td><td>700</td></tr>
+<tr><td>6 001 -7 000 </td><td>1 200 </td><td>600</td></tr>
+<tr><td>5 001 -6 000 </td><td>1 000 </td><td>500</td></tr>
+<tr><td>4 001 -5 000 </td><td>800</td><td>400</td></tr>
+<tr><td>3 001 -4 000 </td><td>600</td><td>300</td></tr>
+<tr><td>2 001 -3 000 </td><td>400</td><td>200</td></tr>
+<tr><td>1 001 -2 000 </td><td>200</td><td>100</td></tr>
+</tbody>
+</table>
+
+**4\. Specific targeting**
+
+Within each of the sub-populations above in a country or region, a country may target bovine animals identifiable as imported from countries or regions where BSE has been detected and bovine animals which have consumed potentially contaminated feedstuffs from countries or regions where BSE has been detected.
+
+**5\. BSE surveillance model**
+
+A country may choose to use the full BSurvE model or an alternative method based on the BSurvE model to estimate its BSE presence/prevalence.
+
+**6\. Maintenance surveillance**
+
+Once the points target has been achieved, and in order to continue to designate the status of a country or region as controlled BSE risk or negligible risk, surveillance can be reduced to Type B surveillance (provided all other indicators remain positive). However, to continue to comply with the requirements laid down in this Chapter, ongoing annual surveillance must continue to include at least three of the four prescribed sub-populations. In addition all bovine animals clinically suspected of being infected with BSE shall be investigated regardless of the number of points accumulated. The annual surveillance in a country or region following the achievement of the required points target, shall be no less than the amount required for one-seventh of its total Type B surveillancetarget.
+
+## ANNEX III — MONITORING SYSTEM
+
+**CHAPTER A**
+
+**I. MONITORING IN BOVINE ANIMALS**
+
+**1\. General**
+
+Monitoring in bovine animals shall be carried out in accordance with the laboratory methods laid down in Annex X, Chapter C, point 3(1)(b).
+
+**2\. Monitoring in animals slaughtered for human consumption**
+
+2.1. All bovine animals over 24 months of age shall be tested for BSE where they have undergone:
+
+— emergency slaughter in accordance with point 1 of Chapter VI of Section I of Annex III to Regulation (EC) No 853/2004 ( 20 ), or
+
+— an ante mortem inspection with observations concerning accidents, or serious physiological and functional problems, or signs in accordance with point 2 of Part B of Chapter II of Section I of Annex I to Regulation (EC) No 854/2004 ( 21 ).
+
+2.2. All healthy bovine animals over 30 months of age slaughtered normally for human consumption shall be tested for BSE.
+
+**3\. Monitoring in animals not slaughtered for human consumption**
+
+3.1. All bovine animals over 24 months of age which have died or been killed but which were not:
+
+— killed for destruction pursuant to Commission Regulation (EC) No 716/96 ( 22 ),
+
+— killed in the framework of an epidemic, such as foot-and-mouth disease,
+
+— slaughtered for human consumption,
+
+shall be tested for BSE.
+
+3.2. Member States may decide to derogate from the provisions of point 3.1 in remote areas with a low animal density, where no collection of dead animals is organised. Member States making use of this derogation shall inform the Commission thereof, and submit a list of the derogated areas. The derogation shall not cover more than 10 % of the bovine population in the Member State.
+
+**4\. Monitoring in animals purchased for destruction pursuant to Regulation (EC) No 716/96**
+
+All animals born between 1 August 1995 and 1 August 1996 killed for destruction pursuant Regulation (EC) No 716/96 shall be tested for BSE.
+
+**5\. Monitoring in other animals**
+
+In addition to the testing referred to in points 2 to 4, Member States may on a voluntary basis decide to test other bovine animals on their territory, in particular where those animals originate from countries with indigenous BSE, have consumed potentially contaminated feedingstuffs or were born or derived from BSE infected dams.
+
+**6\. Measures following testing**
+
+6.1. Where an animal slaughtered for human consumption has been selected for testing for BSE, the health marking provided for in Chapter III of Section I of Annex I to Regulation (EC) No 854/2004 shall not be carried out on the carcase of that animal until a negative result to the rapid test has been obtained.
+
+6.2. Member States may derogate from point 6.1 where an official system is in place in the slaughterhouse ensuring that no parts of examined animals bearing the health mark leave the slaughterhouse until a negative result to the rapid test has been obtained.
+
+6.3. All parts of the body of an animal tested for BSE including the hide shall be retained under official control until a negative result to the rapid test has been obtained, unless they are disposed of in accordance with Article 12(a) or (b) of Regulation (EC) No 1069/2009, or unless its fats are processed in accordance with Regulation (EU) No 142/2011 and used in accordance with Article 12(e) of Regulation (EC) No 1069/2009 or used for the manufacture of derived products referred to in Article 36 of that Regulation.
+
+6.4. All parts of the body of an animal found positive or inconclusive to the rapid test including the hide shall be disposed of in accordance with Article 12(a) or (b) of Regulation (EC) No 1069/2009, apart from material to be retained in conjunction with the records provided for in Chapter B, Part III of this Annex, and apart from the fats obtained from such a body, provided that these fats are processed in accordance with Regulation (EU) No 142/2011 and used in accordance with Article 12(e) of Regulation (EC) No 1069/2009 or used for the manufacture of derived products referred to in Article 36 of that Regulation.
+
+6.5. Where an animal slaughtered for human consumption is found positive or inconclusive to the rapid test, at least the carcase immediately preceding and the two carcases immediately following the animal tested positive or inconclusive on the same slaughter line shall be destroyed in accordance with point 6.4.
+
+By way of derogation from the first paragraph of this point, Member States may decide to destroy the aforementioned carcases only if the result of the rapid test is confirmed to be positive or inconclusive by confirmatory examinations referred to in Annex X, Chapter C, point 3.1(b).
+
+6.6. Member States may derogate from the provisions of point 6.5 where a system is in place in the slaughterhouse preventing contamination between carcases.
+
+**7\. Revision of the annual monitoring programmes concerning BSE (BSE monitoring programmes), as provided for in Article 6(1b)**
+
+7.1. Member States’ applications
+
+Applications submitted to the Commission by Member States for revision of their annual BSE monitoring programme shall include at least the following:
+
+(a) information on the annual BSE monitoring system in place during the previous six-year period within the territory of the Member State, including detailed documentation proving compliance with the epidemiological criteria set out in point 7.2;
+
+(b) information on the bovine identification and traceability system, as referred to in point (b) of the third subparagraph of Article 6(1b), in place during the previous six-year period within the territory of the Member State, including a detailed description of the functioning of the computerised database as referred to in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council ( 23 );
+
+(c) information on prohibitions concerning animal feeding during the previous six-year period within the territory of the Member State, including a detailed description of the enforcement of the feed ban for farmed animals, as referred to in point (c) of the third subparagraph of Article 6(1b), including the sampling plan and the number and type of infringements found and the follow-up results;
+
+(d) a detailed description of the proposed revised BSE monitoring programme that includes the geographical area in which the programme is to be implemented and a description of subpopulations of bovine animals to be covered by the BSE revised monitoring programme, including indications of the age limits and the sample sizes for testing;
+
+(e) the result of a comprehensive risk analysis showing that the revised BSE monitoring programme will ensure the protection of human and animal health. This risk analysis shall include a birth cohort analysis or other relevant studies aiming to demonstrate that the TSE risk reducing measures, including the feeding prohibitions as referred to in point (c) of the third subparagraph of Article 6(1b), have been implemented in an efficient way.
+
+7.2. Epidemiological criteria
+
+Applications for revision of a BSE monitoring programme may only be accepted if the Member State concerned can demonstrate that, in addition to the requirements laid down in points (a), (b) and (c) of the third subparagraph of Article 6(1b), the following epidemiological criteria are met within its territory:
+
+(a) for a period of at least six consecutive years following the date of implementation of the Community BSE testing scheme as referred to in point (b) of the third subparagraph of Article 6(1b):
+
+either
+
+(i) the average decrease of the annual BSE incidence rate observed within the adult bovine animal population (over 24 months of age) was superior to 20 %, and the total number of BSE affected cattle born after the implementation of the Community total feed ban for farmed animals, as referred to in point (c) of the third subparagraph of Article 6(1b), did not exceed 5 % of the total number of confirmed BSE cases;
+
+or
+
+(ii) the annual observed BSE incidence rate within the adult bovine animal population (over 24 months of age) remained consistently less than 1/100 000 ;
+
+or
+
+(iii) as a further option for a Member State with an adult bovine animal population (over 24 months of age) of less than 1 000 000 animals, the cumulated number of confirmed BSE cases remained under five;
+
+(b) following the six-year period referred to in point (a), there is no evidence that the BSE epidemiological situation is deteriorating.
+
+**II. MONITORING IN OVINE AND CAPRINE ANIMALS**
+
+**1\. General**
+
+Monitoring in ovine and caprine animals shall be carried out in accordance with the laboratory methods laid down in Annex X, Chapter C, point 3.2(b).
+
+**2\. Monitoring in ovine and caprine animals slaughtered for human consumption**
+
+(a) Member States in which the population of ewes and ewe lambs put to the ram exceeds 750 000 animals shall test, in accordance with the sampling rules set out in point 4, a minimum annual sample of 10 000 ovine animals slaughtered for human consumption;
+
+(b) Member States in which the population of goats which have already kidded and goats mated exceeds 750 000 animals shall test, in accordance with the sampling rules set out in point 4, a minimum annual sample of 10 000 caprine animals slaughtered for human consumption;
+
+(c) A Member State may choose to replace a maximum of:
+
+— 50 % of its minimum sample size of ovine and caprine animals slaughtered for human consumption set out in points (a) and (b) by testing dead ovine or caprine animals over the age of 18 months at the ratio of one to one and in addition to the minimum sample size set out in point 3;
+
+— 10 % of its minimum sample size set out in points (a) and (b) by testing ovine or caprine animals killed in the framework of a disease eradication campaign over the age of 18 months at the ratio of one to one.
+
+**3\. Monitoring in ovine and caprine animals not slaughtered for human consumption**
+
+Member States shall test, in accordance with the sampling rules set out in point 4 and the minimum sample sizes indicated in Table A and Table B, ovine and caprine animals which have died or been killed, but which were not:
+
+— killed in the framework of a disease eradication campaign, or
+
+— slaughtered for human consumption.
+
+**Table A**
+
+<table>
+<tbody><tr><td>Member State population of ewes and ewe lambs put to the ram</td><td>Minimum sample size of dead ovine animals (1)</td></tr>
+<tr><td>&gt; 750 000 </td><td>10 000 </td></tr>
+<tr><td>100 000 -750 000 </td><td>1 500 </td></tr>
+<tr><td>40 000 -100 000 </td><td>100 % up to 500</td></tr>
+<tr><td>&lt; 40 000 </td><td>100 % up to 100</td></tr>
+<tr><td colspan="2">(1)  Minimum sample sizes are set to take account of the size of the ovine populations in the individual Member States and are intended to provide achievable targets. </td></tr>
+</tbody>
+</table>
+
+**Table B**
+
+<table>
+<tbody><tr><td>Member State population of goats which have already kidded and goats mated</td><td>Minimum sample size of dead caprine animals (1)</td></tr>
+<tr><td>&gt; 750 000 </td><td>10 000 </td></tr>
+<tr><td>250 000 -750 000 </td><td>1 500 </td></tr>
+<tr><td>40 000 -250 000 </td><td>100 % up to 500</td></tr>
+<tr><td>&lt; 40 000 </td><td>100 % up to 100</td></tr>
+<tr><td colspan="2">(1)  Minimum sample sizes are set to take account of the size of the caprine population in the individual Member States and are intended to provide achievable targets. </td></tr>
+</tbody>
+</table>
+
+**4\. Sampling rules applicable to the animals referred to in points 2 and 3**
+
+The animals shall be over 18 months of age or have more than two permanent incisors erupted through the gum.
+
+The age of the animals shall be estimated on the basis of dentition, obvious signs of maturity, or any other reliable information.
+
+The sample selection shall be designed with a view to avoid the over-representation of any group as regards the origin, age, breed, production type or any other characteristic.
+
+The sampling shall be representative for each region and season. Multiple sampling in the same flock shall be avoided, wherever possible. Member States shall aim their monitoring programmes to achieve, wherever possible, that in successive sampling years all officially registered holdings with more than 100 animals and where TSE cases have never been detected are subject to TSE testing.
+
+The Member States shall put in place a system to check, on a targeted or other basis, that animals are not being diverted from sampling.
+
+However, Member States may decide to exclude from the sampling remote areas with a low animal density, where no collection of dead animals is organised. Member States making use of this derogation shall inform the Commission thereof, and shall submit a list of those remote areas where the derogation applies. The derogation shall not cover more than 10 % of the ovine and caprine population in the Member State concerned.
+
+**5\. Monitoring in holdings under TSE control and eradication measures**
+
+Animals over 18 months of age which are killed for destruction in accordance with Annex VII, Chapter B, Part 2, point 2.2.1. and point 2.2.2.(b) or (c), shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2.(b), based on the selection of a simple random sample, in accordance with the sample size set out in the following table.
+
+| Number of animals over 18 months of age killed for destruction in the herd or flock | Minimum sample size |
+| --- | --- |
+| 70 or less | All eligible animals |
+| 80 | 68 |
+| 90 | 73 |
+| 100 | 78 |
+| 120 | 86 |
+| 140 | 92 |
+| 160 | 97 |
+| 180 | 101 |
+| 200 | 105 |
+| 250 | 112 |
+| 300 | 117 |
+| 350 | 121 |
+| 400 | 124 |
+| 450 | 127 |
+| 500 or more | 150 |
+
+**6\. Monitoring in other animals**
+
+In addition to the monitoring programmes set out in points 2, 3 and 4, Member States may on a voluntary basis carry out monitoring in other animals, in particular:
+
+— animals used for dairy production,
+
+— animals originating from countries with indigenous TSEs,
+
+— animals which have consumed potentially contaminated feedingstuffs,
+
+— animals born or derived from TSE infected dams.
+
+**7\. Measures following testing of ovine and caprine animals**
+
+7.1. Where an ovine or caprine animal slaughtered for human consumption has been selected for TSE testing in accordance with point 2, its carcase shall not be marked with the health marking provided for in Section I, Chapter III of Annex I to Regulation (EC) No 854/2004 until a negative result to the rapid test has been obtained.
+
+7.2. Member States may derogate from point 7.1. where a system approved by the competent authority is in place in the slaughterhouse ensuring that all parts of an animal can be traced and that no parts of the animals tested bearing the health mark can leave the slaughterhouse until a negative result to the rapid test has been obtained.
+
+7.3. All parts of the body of a tested animal, including the hide, shall be retained under official control until a negative result has been obtained to the rapid test, unless they are disposed of in accordance with Article 12(a) or (b) of Regulation (EC) No 1069/2009, or unless its fats are processed in accordance with Regulation (EU) No 142/2011 and used in accordance with Article 12(e) of Regulation (EC) No 1069/2009 or used for the manufacture of derived products referred to in Article 36 of that Regulation.
+
+7.4. All parts of the body of an animal found positive to the rapid test, including the hide, shall be directly disposed of in accordance with Article 12(a) or (b) of Regulation (EC) No 1069/2009, apart from the material to be retained in conjunction with the records provided for in Chapter B, Part III of this Annex, and apart from rendered fats derived from such a body provided that these rendered fats are processed in accordance with Regulation (EU) No 142/2011 and used in accordance with Article 12(e) of Regulation (EC) No 1069/2009 or used for the manufacture of derived products referred to in Article 36 of that Regulation.
+
+**8\. Genotyping**
+
+8.1. The prion protein genotype for the codons 136, 154 and 171 shall be determined for each positive TSE case in sheep. TSE cases found in sheep of genotypes which encode alanine (A) on both alleles at codon 136, arginine (R) on both alleles at codon 154 and arginine (R) on both alleles at codon 171 shall immediately be reported to the Commission. Where the positive TSE case is an atypical scrapie case the prion protein genotype for the codon 141 shall also be determined.
+
+8.2. The prion protein genotype for the codons 146 and 222 shall be determined for each positive TSE case in goats. TSE cases found in goats of genotypes which encode serine (S) or aspartic acid (D) on at least one allele at codon 146 and/or lysine (K) on at least one allele at codon 222, shall immediately be reported to the Commission.
+
+**III. MONITORING IN CERVIDS**
+
+**A. Three-year monitoring programme for chronic wasting disease (CWD)**
+
+1\. General
+
+1.1. The Member States which have a wild and/or farmed and/or semi-domesticated population of moose and/or reindeer (Estonia, Finland, Latvia, Lithuania, Poland and Sweden) shall carry out a three-year monitoring programme for CWD in cervids, from 1 January 2018 to 31 December 2020. The TSE tests performed for the purpose of this monitoring programme shall take place between 1 January 2018 and 31 December 2020, however, the collection of samples for the purpose of the monitoring programme may, however, start in 2017.
+
+1.2. The three-year CWD monitoring programme shall cover the following cervid species:
+
+— Eurasian tundra reindeer (Rangifer tarandus tarandus);
+
+— Finnish forest reindeer (Rangifer tarandus fennicus);
+
+— Moose (Alces alces);
+
+— Roe deer (Capreolus capreolus);
+
+— White-tailed deer (Odocoileus virginianus);
+
+— Red deer (Cervus elaphus).
+
+1.3. By way of derogation from point 1.2, a Member State may, based on a documented risk assessment submitted to the European Commission, select for the three-year CWD monitoring programme a subset of the species listed in that point.
+
+2\. Sampling design
+
+2.1. The Member States referred to in point 1.1 shall identify Primary Sampling Units (PSU), which shall cover all territories in which cervid populations are present, using at least the following elements:
+
+(a) for farmed and captive cervids, each farm and each facility in which cervids are kept in an enclosed territory shall be considered as a PSU.
+
+(b) for wild and semi-domesticated cervids, PSU shall be defined geographically based on the following criteria:
+
+(i) the areas in which wild and semi-domesticated animals of a species covered by the monitoring programme gather in at least a certain period of the year;
+
+(ii) if no gathering takes place for a species, the areas delimited by natural or artificial barriers in which animals of the species covered by the monitoring programme are present;
+
+(iii) the areas in which animals of the species covered by the monitoring programme are hunted and areas connected to other relevant activities related to the species covered by the monitoring programme.
+
+2.2. The Member States referred to in point 1.1 shall select farmed, captive, wild and semi-domesticated cervids for TSE testing using the following two-stage sampling approach:
+
+(a) in the first stage, those Member States shall:
+
+(i) for farmed and captive cervids:
+
+— select, on a random basis ensuring geographical representativeness, and if relevant taking into account relevant risk factors identified in a documented risk assessment carried out by the Member State, 100 PSU to be covered over the three-year period of the monitoring programme, or
+
+— if the Member State was unable to identify 100 PSU for farmed and captive cervids, select all PSU identified.
+
+(ii) For wild and semi-domesticated cervids:
+
+— select, on a random basis ensuring geographical representativeness, and if relevant taking into account relevant risk factors identified in a documented risk assessment carried out by the Member State, 100 PSU to be covered over the three-year period of the monitoring programme, or
+
+— if the Member State was unable to identify 100 PSU for wild and semi-domesticated cervids, select all PSU identified.
+
+(b) in the second stage:
+
+(i) for farmed and captive cervids:
+
+— a Member State having selected 100 PSU shall, within every selected PSU, sample all animals belonging to the target groups listed under point 2.4.(a) over the three-year period until a target of 30 animals tested per PSU is reached. If however certain PSU are not be able to reach the target of 30 animals tested over the three-year period due to the limited size of their cervid population, the sampling of animals belonging to the target groups listed under point 2.4.(a) may continue in larger PSU even after having reached the target of 30 animals tested, with the objective of reaching a total number of up to 3 000 farmed and captive cervids, where possible, tested at national level over the three-year period of the monitoring programme;
+
+— a Member State having identified fewer than 100 PSU shall, within every PSU, sample all animals belonging to the target groups listed under point 2.4.(a) over the three-year period, with the objective of approaching a total number of up to 3 000 farmed and captive cervids, where possible, tested at national level over the three-year period of the monitoring programme.
+
+(ii) for wild and semi-domesticated cervids:
+
+— a Member State having selected 100 PSU shall, within every selected PSU, sample all animals belonging to the target groups listed under point 2.4.(b), over the three-year period until a target of 30 animals tested per PSU is reached, with the objective of reaching up to 3 000 wild and semi-domesticated cervids tested at national level over the three-year period;
+
+— a Member State having identified fewer than 100 PSU shall, within every PSU, sample all animals belonging to the target groups listed under point 2.4.(b) over the three-year period, with the objective of approaching a total number of 3 000 wild and semi-domesticated cervids tested at national level over the three-year period of the monitoring programme.
+
+2.3. All cervids selected must be over 12 months of age. The age shall be estimated on the basis of dentition, obvious signs of maturity, or any other reliable information.
+
+2.4. The cervids must be selected from the following target groups:
+
+(a) for farmed and captive cervids:
+
+(i) fallen/culled farmed or captive cervids, defined as farmed or captive cervids found dead on the enclosed territory in which they are kept, during transport or at slaughterhouse, as well as farmed or captive cervids killed for health/age reasons;
+
+(ii) clinical/sick farmed or captive cervids, defined as farmed or captive cervids showing abnormal behavioural signs and/or locomotor disturbances and/or as being generally in poor condition;
+
+(iii) slaughtered farmed cervids which have been declared unfit for human consumption;
+
+(iv) slaughtered farmed cervids considered fit for human consumption if a Member State identifies fewer than 3 000 farmed and captive cervids from the groups (i) to (iii).
+
+(b) for wild and semi-domesticated cervids:
+
+(i) fallen/culled wild or semi-domesticated cervids, defined as cervids found dead in the wild as well as semi-domesticated cervids found dead or killed for health/age reasons;
+
+(ii) road- or predator-injured or killed cervids, defined as wild or semi-domesticated cervids hit by road vehicles, by trains or attacked by predators;
+
+(iii) clinical/sick wild and semi-domesticated cervids, defined as wild and semi-domesticated cervids which are observed as showing abnormal behavioural signs and/or locomotor disturbances and/or as being generally in poor health condition;
+
+(iv) wild hunted cervids and slaughtered semi-domesticated cervids which have been declared unfit for human consumption;
+
+(v) hunted wild game and slaughtered semi-domesticated cervids considered fit for human consumption if a Member State identifies fewer than 3 000 wild and semi-domesticated cervids from the groups (i) to (iv).
+
+2.5. In case of a positive finding of TSE in a cervid, the number of samples from cervids collected in the zone where the positive TSE case was found must be increased, based on an assessment carried out by the Member State concerned.
+
+3\. Sampling and laboratory testing
+
+3.1. For each cervid selected in accordance with point 2, a sample of obex shall be collected and tested for TSEs.
+
+In addition, where feasible, a sample of one of the following tissues shall be collected in the following order of preference:
+
+(a) retropharyngeal lymph nodes;
+
+(b) tonsils;
+
+(c) other head lymph nodes.
+
+For rapid testing a hemisection of obex shall be submitted in a fresh or frozen state. The remaining hemisection should be fixed. When collected, lymph nodes and tonsils should be fixed.
+
+A portion of fresh tissue from each sample type shall be kept frozen until a negative result is obtained, in case bioassay is required.
+
+3.2. Until the publication of guidelines on TSE testing in cervids of the EU Reference Laboratory for TSE, the following laboratory method shall be used for the purpose of the CWD monitoring programme:
+
+(a) rapid tests:
+
+Rapid tests as referred to in point 4 of Chapter C of Annex X used for TSE detection in obex of bovine or small ruminant animals are considered suitable for TSE detection in obex of cervids. Rapid tests as referred to in point 4 of Chapter C of Annex X used for TSE detection in the lymph nodes of bovine or small ruminant animals are considered suitable for TSE detection in lymph nodes of cervids. Member States may also use immunohistochemistry for screening purposes for which purpose they shall satisfy a proficiency test organised by the EU Reference Laboratory for TSE.
+
+(b) confirmatory tests:
+
+When the result of the rapid test is inconclusive or positive, the sample shall be subjected to confirmatory examinations using at least one of the following methods and protocols as laid down in the latest edition of the Manual for diagnostic tests and vaccines for Terrestrial Animals of the World Organisation for Animal Health (OIE):
+
+— the immunohistochemical (IHC) method;
+
+— Western blot.
+
+Where a Member State is unable to confirm a positive rapid test result, it shall send adequate tissue to the EU Reference laboratory for confirmation.
+
+(c) isolate characterisation:
+
+In the case of positive findings of TSE, further isolate characterisation should be undertaken, in consultation with the EU Reference Laboratory for TSE.
+
+3.3. The prion protein genotype shall be determined for each positive finding of TSE in cervids.
+
+In addition, for each cervid tested and found negative for TSE, either:
+
+— the prion protein genotype of the animal tested and found negative for TSE is determined, or
+
+— a sample of a tissue, which may be the obex, shall be kept frozen until at least 31 December 2021, to allow for genotyping if so decided.
+
+**B. Other monitoring in cervids**
+
+Member States shall carry out additional monitoring for TSEs in cervids based on a risk assessment which may take into account the detection of a TSE in cervids in the same or neighbouring regions.
+
+Member States other than those mentioned under point 1.1 of Part A may on a voluntary basis carry out monitoring for TSEs in cervids.
+
+After the end of the three-year monitoring programme referred to in Part A, the Member States mentioned under point 1.1 may on a voluntary basis carry out monitoring for TSEs in cervids.
+
+**IV. MONITORING IN OTHER ANIMAL SPECIES**
+
+Member States may on a voluntary basis carry out monitoring for TSE in animal species other than bovine, ovine, caprine and cervid animals.
+
+**CHAPTER B**
+
+**REPORTING AND RECORDING REQUIREMENTS**
+
+**I. REQUIREMENTS ON MEMBER STATES**
+
+**A. Information to be presented by Member States in their annual report as provided for in Article 6(4)**
+
+1\. The number of suspected cases placed under official movement restrictions in accordance with Article 12(1), per animal species.
+
+2\. The number of suspected cases subject to laboratory examination in accordance with Article 12(2), per animal species, including the results of the rapid and confirmatory tests (number of positives and negatives) and, with regard to bovine animals, the age distribution of all tested animals. The age distribution should be grouped as follows: ‘below 24 months’, distribution per 12 months between 24 and 155 months, and ‘above 155 months’ of age.
+
+3\. The number of flocks where suspected cases in ovine and caprine animals have been reported and investigated pursuant to Article 12(1) and (2).
+
+4\. The number of bovine animals tested within each subpopulation referred to in Chapter A, Part I, points 2.1, 2.2, 3.1 and 5. The method of the sample selection, the results of the rapid and confirmatory tests and the age distribution of the tested animals grouped as set out in point 2 shall be provided.
+
+5\. The number of ovine and caprine animals and flocks tested within each subpopulation referred to in Chapter A, Part II, points 2, 3, 5 and 6 together with the method for sample selection and the results of the rapid and confirmatory tests.
+
+6\. The geographical distribution, including the country of origin if not the same as the reporting country, of positive cases of BSE and scrapie. The year, and where possible the month of birth shall be given for each TSE case in bovine, ovine and caprine animals. TSE cases which have been considered atypical shall be indicated. For scrapie cases, the results of the primary and secondary molecular testing, referred to in Annex X, Chapter C, point 3.2(c), shall be reported, where appropriate.
+
+7\. In animals other than bovine, ovine and caprine animals, as well as in cervids other than those covered by the three-year CWD monitoring programme referred to in Part III.A of Chapter A of this Annex, the number of samples and confirmed TSE cases per species.
+
+8\. The genotype, and, where possible, the breed, of each ovine and caprine animal found positive to TSE and sampled in accordance with Chapter A, Part II, point 8.
+
+9\. For Member States covered by the three-year CWD monitoring programme referred to in Part III.A of Chapter A of this Annex, the annual report for the years 2018, 2019 and 2020 shall include:
+
+(a) The number of cervid samples submitted for testing, by target group according to the following criteria:
+
+— primary Sampling Unit (PSU) identifier,
+
+— species,
+
+— management system: farmed, captive, wild or semi-domesticated,
+
+— target group,
+
+— sex,
+
+(b) The results of the rapid and confirmatory tests (number of positives and negatives) and, where applicable, of further isolate characterisation investigations, the tissue sampled and the rapid test and confirmatory technique used.
+
+(c) The geographical location, including the country of origin if not the same as the reporting Member State, of positive cases of TSE.
+
+(d) The genotype and species of each cervid found positive for TSE.
+
+(e) Where tested, the genotype of cervids tested and found negative for TSE.
+
+**B. Reporting periods**
+
+The compilation of reports containing the information referred to in Section A and submitted to the Commission (which shall send it to the European Food Safety Authority) on a monthly basis in the electronic format agreed between the Member States, the Commission and the European Food Safety Authority or, with regard to the information referred to in point 8 on a quarterly basis, may constitute the annual report as required by Article 6(4), provided that the information is updated whenever additional information becomes available.
+
+**II. INFORMATION TO BE PRESENTED IN THE UNION SUMMARY REPORT**
+
+The Union summary shall be presented in a tabled format covering at least the information referred to in Part I.A for each Member State.
+
+From 1 January 2016, the European Food Safety Authority shall analyse the information referred to in Part I and publish by the end of November a summary report on the trends and sources of Transmissible Spongiform Encephalopathies in the Union.
+
+**III. RECORDS**
+
+1\. The competent authority shall keep, for 7 years, records of the information referred to in Part I.A.
+
+2\. The investigating laboratory shall keep, for 7 years, all records of testing, in particular laboratory workbooks and, where appropriate, paraffin blocks and photographs of western blots.
+
+## ANNEX IV
+
+**ANIMAL FEEDING**
+
+**CHAPTER I**
+
+**Extensions of the prohibition provided for in Article 7(1)**
+
+In accordance with Article 7(2), the prohibition provided for in Article 7(1) shall be extended to the feeding:
+
+(a) to ruminants of dicalcium phosphate and tricalcium phosphate of animal origin and compound feed containing these products;
+
+(b) to non-ruminant farmed animals, other than fur animals, of:
+
+(i) processed animal protein;
+
+(ii) blood products;
+
+(iii) hydrolysed protein of animal origin;
+
+(iv) dicalcium phosphate and tricalcium phosphate of animal origin;
+
+(v) feed containing the products listed in points (i) to (iv).
+
+**CHAPTER II**
+
+**Derogations from the prohibitions provided for in Article 7(1) and in Chapter I**
+
+In accordance with the first subparagraph of Article 7(3), the prohibitions provided for in Article 7(1) and in Chapter I shall not apply to the feeding to:
+
+(a) ruminants of:
+
+(i) milk, milk-based products, milk-derived products, colostrum and colostrum products;
+
+(ii) eggs and egg products;
+
+(iii) collagen and gelatine derived from non-ruminants;
+
+(iv) hydrolysed proteins derived from:
+
+— parts of non-ruminants, or
+
+— ruminant hides and skins;
+
+(v) compound feed containing the products listed in points (i) to (iv) above;
+
+(b) non-ruminant farmed animals of the following feed materials and compound feed:
+
+(i) hydrolysed proteins derived from parts of non-ruminants or from ruminant hides and skins;
+
+(ii) fishmeal and compound feed containing fishmeal which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Section A of Chapter IV;
+
+(iii) dicalcium phosphate and tricalcium phosphate of animal origin and compound feed containing such phosphates which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Section B of Chapter IV;
+
+(iv) blood products derived from non-ruminants and compound feed containing such blood products which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Section C of Chapter IV;
+
+(c) aquaculture animals of the following feed materials and compound feed:
+
+(i) processed animal protein derived from non-ruminants, other than fishmeal and other than processed animal protein derived from farmed insects, and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Section D of Chapter IV;
+
+(ii) processed animal protein derived from farmed insects, and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Section F of Chapter IV;
+
+(d) unweaned ruminants of milk replacers containing fishmeal and which are produced, placed on the market and used in accordance with specific conditions laid down in Section E of Chapter IV;
+
+(e) farmed animals of feed materials of plant origin and compound feed containing such feed materials contaminated with insignificant amount of bone spicules derived from unauthorised animal species. Member States may only use this derogation if they have carried out a risk assessment beforehand which has confirmed there is a negligible risk for animal health. That risk assessment must take into account at least the following:
+
+(i) the level of the contamination;
+
+(ii) the nature and the source of the contamination;
+
+(iii) the intended use of the contaminated feed;
+
+(f) poultry of the following feed materials and compound feed:
+
+(i) processed animal protein derived from porcine animals and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Chapter IV, Section G;
+
+(ii) processed animal protein derived from farmed insects, and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Chapter IV, Section F;
+
+(g) porcine animals of the following feed materials and compound feed:
+
+(i) processed animal protein derived from poultry and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Chapter IV, Section H;
+
+(ii) processed animal protein derived from farmed insects, and compound feed containing such processed animal protein, which are produced, placed on the market and used in accordance with the general conditions laid down in Chapter III and the specific conditions laid down in Chapter IV, Section F.
+
+**CHAPTER III**
+
+**General conditions for the application of certain derogations provided for in Chapter II**
+
+**SECTION A**
+
+**Transport and storage of feed materials and compound feed intended to be used for feeding non-ruminant farmed animals**
+
+1\. The following products intended to be used for feeding non-ruminant farmed animals shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for ruminants:
+
+(a) bulk processed animal protein derived from non-ruminants, including fishmeal, processed animal protein derived from farmed insects, processed animal protein derived from porcine animals and processed animal protein derived from poultry;
+
+(b) bulk dicalcium and tricalcium phosphate of animal origin;
+
+(c) bulk blood products derived from non-ruminants;
+
+(d) bulk compound feed containing the feed materials listed in (a), (b) and (c).
+
+Records detailing the type of products that were transported or stored in a storage plant shall be kept available to the competent authority for a period of at least two years.
+
+2\. By way of derogation from point 1, vehicles, containers and storage facilities which have been previously used for the transport or storage of the products listed in that point, may be subsequently used for the transport or storage of feed intended for ruminants provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+3\. Storage plants storing in accordance with point 2 feed materials and compound feed listed in point 1 shall be authorised by the competent authority based on verification of their compliance with the requirements listed in point 2.
+
+4\. Bulk processed animal protein derived from porcine animals, and bulk compound feed containing such processed animal protein, shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals and poultry.
+
+5\. By way of derogation from point 4, vehicles, containers and storage facilities which have been previously used for the transport or storage of bulk processed animal protein derived from porcine animals and bulk compound feed containing such processed animal protein may be subsequently used for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals and poultry provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+6\. Bulk processed animal protein derived from poultry, and bulk compound feed containing such processed animal protein, shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture and porcine animals.
+
+7\. By way of derogation from point 6, vehicles, containers and storage facilities which have been previously used for the transport or storage of bulk processed animal protein derived from poultry and bulk compound feed containing such processed animal protein may be subsequently used for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals and porcine animals provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+8\. Bulk processed animal protein derived from farmed insects, and bulk compound feed containing such processed animal protein, shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture, poultry and porcine animals.
+
+9\. By way of derogation from point 8, vehicles, containers and storage facilities which have been previously used for the transport or storage of bulk processed animal protein derived from farmed insects and bulk compound feed containing such processed animal protein may be subsequently used for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals, poultry and porcine animals provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+10\. Bulk processed animal protein derived from non-ruminants, excluding fishmeal and processed animal protein derived from poultry, porcine animals and farmed insects, and bulk compound feed containing such processed animal protein, shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals.
+
+11\. By way of derogation from point 10, vehicles, containers and storage facilities which have been previously used for the transport or storage of the products referred to in that point may be subsequently used for the transport or storage of feed intended for non-ruminant farmed animals other than aquaculture animals provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+**SECTION B**
+
+**Production of compound feed intended to be used for feeding non-ruminant farmed animals**
+
+1\. Compound feed intended to be used for feeding non-ruminant farmed animals and which contain the following feed materials, shall be produced in establishments which do not produce compound feed for ruminants, and which are authorised by the competent authority:
+
+(a) fishmeal;
+
+(b) dicalcium and tricalcium phosphate of animal origin;
+
+(c) blood products derived from non-ruminants.
+
+2\. By way of derogation from point 1, the production of compound feed for ruminants, in establishments which also produce compound feed for non-ruminant farmed animals which contains the products listed in that point, may be authorised by the competent authority, following an on-site inspection by it, subject to compliance with the following conditions:
+
+(a) compound feed intended for ruminants must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for non-ruminants are manufactured and kept;
+
+(b) records detailing the purchases and uses of the products listed in point 1 and the sales of compound feed containing those products must be kept available to the competent authority for a period of at least five years;
+
+(c) regular sampling and analysis of the compound feed intended for ruminants must be carried out in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Commission Regulation (EC) No 152/2009 ( 24 ); the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on hazard analysis and critical control points (HACCP) principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+3\. By way of derogation from point 1, a specific authorisation for the production of complete feed from compound feed containing the products listed in that point, shall not be required for home compounders subject to their compliance with the following conditions:
+
+(a) they must be registered by the competent authority as producing complete feed from compound feed containing the products listed in point 1;
+
+(b) they must keep only non-ruminant animals;
+
+(c) any compound feed containing fishmeal used in the production of the complete feed must contain less than 50 % crude protein;
+
+(d) any compound feed containing dicalcium and tricalcium phosphate of animal origin used in the production of the complete feed must contain less than 10 % total phosphorus;
+
+(e) any compound feed containing blood products derived from non-ruminants used in the production of the complete feed must contain less than 50 % crude protein.
+
+**SECTION C**
+
+**Import of feed materials and compound feed intended to be used for feeding non-ruminant farmed animals other than fur animals**
+
+Before release for free circulation in the Union, importers shall ensure that each of the consignment of the following feed materials and compound feed, which are intended to be used for the feeding of non-ruminant farmed animals, other than fur animals, in accordance with Chapter II of this Annex, is analysed in accordance with the methods of analysis for the determination of constituents of animal origin for the control of feed set out Annex VI to Regulation (EC) No 152/2009 in order to verify the absence of unauthorised constituents of animal origin:
+
+(a) processed animal protein derived from non-ruminants, including fishmeal, processed animal protein derived from farmed insects, processed animal protein derived from porcine animals and processed animal protein derived from poultry;
+
+(b) blood products derived from non-ruminants;
+
+(c) compound feed containing the feed materials listed in (a) and (b).
+
+**SECTION D**
+
+**Use and storage on farms of feed intended to be used for feeding non-ruminant farmed animals**
+
+1\. The use and storage of the following feed shall be prohibited on farms keeping farmed animal species for which such feed is not intended:
+
+(a) processed animal protein derived from non-ruminants, including fishmeal, processed animal protein derived from farmed insects, processed animal protein derived from porcine animals and processed animal protein derived from poultry;
+
+(b) dicalcium and tricalcium phosphate of animal origin;
+
+(c) blood products derived from non-ruminants;
+
+(d) compound feed containing the feed materials listed in (a) to (c).
+
+2\. By way of derogation from point 1, the competent authority may authorise the use and storage of compound feed referred to in point 1(d) in farms keeping farmed animal species for which the compound feed is not intended provided that on-farm measures are implemented to prevent such compound feed being fed to an animal species for which it is not intended.
+
+**CHAPTER IV**
+
+**Specific conditions for the application of derogations provided for in Chapter II**
+
+**SECTION A**
+
+**Specific conditions applicable to the production and the use of fishmeal and compound feed containing fishmeal intended to be used for feeding non-ruminant farmed animals other than fur animals**
+
+The following specific conditions shall apply to the production and use of fishmeal and compound feed containing fishmeal intended to be used for the feeding of non-ruminant farmed animals other than fur animals:
+
+(a) the fishmeal must be produced in processing plants dedicated exclusively to the production of products derived from:
+
+(i) aquatic animals, except sea mammals;
+
+(ii) farmed aquatic invertebrates other than those that fall within the definition of ‘aquatic animals’ provided for in Article 3(1)(e) of Directive 2006/88/EC; or
+
+(iii) starfish of the species Asterias rubens which are harvested in a production area as defined in Annex I point 2.5 of Regulation (EC) No 853/2004 and classified accordingly;
+
+(b) The words ‘fishmeal — shall not be used in feed for ruminants except unweaned ruminants’ shall be clearly indicated on the accompanying commercial document or health certificate referred to in Article 21(2) of Regulation (EC) No 1069/2009, as appropriate, as well as on the label of fishmeal;
+
+The words ‘contains fishmeal — shall not be fed to ruminants’ shall be clearly indicated on the label of compound feed containing fishmeal intended for non-ruminant farmed animals other than fur animals.
+
+**SECTION B**
+
+**Specific conditions applicable to the use of dicalcium phosphate and tricalcium phosphate of animal origin and compound feed containing such phosphates intended to be used for feeding non-ruminant farmed animals other than fur animals**
+
+(a) The words ‘di-/tricalcium phosphate of animal origin — shall not be used in feed for ruminants’ shall be clearly indicated on the accompanying commercial document or health certificate referred to in Article 21(2) of Regulation (EC) No 1069/2009, as appropriate, as well as on the label of dicalcium/tricalcium phosphate of animal origin;
+
+(b) The words ‘contains dicalcium/tricalcium phosphate of animal origin — shall not be fed to ruminants’ shall be clearly indicated on the label of compound feed containing dicalcium/tricalcium phosphate of animal origin.
+
+**SECTION C**
+
+**Specific conditions applicable to the production and use of blood products derived from non-ruminants and compound feed containing those products intended to be used for feeding non-ruminant farmed animals other than fur animals**
+
+The following specific conditions shall apply to the production and use of blood products derived from non-ruminants and to compound feed containing such blood products, intended to be used for the feeding of non-ruminant farmed animals other than fur animals:
+
+(a) The blood intended to be used for the production of blood products shall be derived from slaughterhouses which do not slaughter ruminants and which are registered by the competent authority as not slaughtering ruminants.
+
+By way of derogation from that specific condition, the competent authority may authorise the slaughter of ruminants in a slaughterhouse producing non-ruminant blood intended for the production of blood products for use in feed for non-ruminant farmed animals.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of measures aimed to prevent cross-contamination between ruminant and non-ruminant blood.
+
+Those measures shall include the following minimum requirements:
+
+(i) the slaughtering of non-ruminants must be carried out in lines that are physically separate from lines used for the slaughtering of ruminants;
+
+(ii) the collection, storage, transport and packaging facilities for blood of non-ruminant origin must be kept separate from those used for blood of ruminant origin;
+
+(iii) a regular sampling and analysis of blood of non-ruminant origin must be carried out to detect the presence of ruminant proteins. The method of analysis used must be scientifically validated for that purpose. The frequency of sampling and analysis must be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles.
+
+(b) The blood intended to be used for the production of blood products for non-ruminants shall be transported to a processing plant in vehicles and containers dedicated exclusively for the transport of non-ruminant blood.
+
+By way of derogation from that specific condition, vehicles and containers which have been previously used for the transport of blood derived from ruminants may be used for the transport of non-ruminant blood provided that they have been thoroughly cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority. Whenever such a procedure is used, a documented trace of such use shall be kept available to the competent authority for a period of at least two years.
+
+(c) The blood products shall be produced in processing plants exclusively processing non-ruminant blood, and registered by the competent authority as processing exclusively non-ruminant blood.
+
+By way of derogation from that specific condition, the competent authority may authorise the production of blood products for use in feed for non-ruminant farmed animals in processing plants processing ruminant blood.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of measures aimed to prevent cross-contamination.
+
+Those measures shall include the following minimum requirements:
+
+(i) the production of non-ruminant blood products must be carried out in a closed system that is kept physically separated from that used for the production of ruminant blood products;
+
+(ii) the collection, storage, transport and packaging facilities for bulk raw material and bulk finished products of non-ruminant origin must be kept separate from those for bulk raw material and bulk finished of ruminant origin;
+
+(iii) an ongoing reconciliation process between the incoming blood respectively derived from ruminants and non-ruminants and the corresponding blood products must be applied;
+
+(iv) a regular sampling and analysis of blood products of non ruminant origin must be carried out to verify the absence of cross-contamination with blood products of ruminant origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on hazard analysis and critical control points (HACCP) principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+(d) The words ‘non-ruminant blood products — shall not be used in feed for ruminants’ shall be clearly indicated on the accompanying commercial document or health certificate referred to in Article 21(2) of Regulation (EC) No 1069/2009, as appropriate, as well as on the label of blood products derived from non-ruminants.
+
+The words ‘contains non-ruminant blood products — shall not be fed to ruminants’ shall be clearly indicated on the label of compound feed containing blood products derived from non-ruminants.
+
+**SECTION D**
+
+**Specific conditions applicable to the production and use of processed animal protein derived from non-ruminants, other than fishmeal and other than processed animal protein derived from farmed insects, and compound feed containing such protein, intended to be used for feeding aquaculture animals**
+
+The following specific conditions shall apply to the production and use of processed animal protein derived from non-ruminants, other than fishmeal and other than processed animal protein derived from farmed insects, and compound feed containing such protein, intended to be used for feeding aquaculture animals:
+
+(a) The animal by-products intended to be used for the production of processed animal protein referred to in this Section shall come from one or more of the following:
+
+(i) slaughterhouses approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not slaughter ruminants and which are registered by the competent authority as not slaughtering ruminants;
+
+(ii) cutting plants approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not bone or cut up ruminant meat and which are registered by the competent authority as not boning or cutting up ruminant meat;
+
+(iii) other establishments than those referred to in point (i) or (ii), registered or approved in accordance with Article 4 of Regulation (EC) No 853/2004, which do not handle ruminant products and which are registered by the competent authority as not handling ruminant products;
+
+(iv) approved establishments referred to in Article 24(1), points (h) and (i) of Regulation (EC) No 1069/2009 which are registered by the competent authority as handling or storing only non-ruminant animal by-products coming from establishments referred to in points (i), (ii) and (iii).
+
+By way of derogation from points (i), (ii) and (iii) of the first paragraph, the competent authority may authorise the slaughter of ruminants and the handling of ruminant products in the establishments referred to in points (i), (ii) and (iii) of the first paragraph producing non-ruminant animal by-products intended for the production of processed animal protein referred to in this Section.
+
+That authorisation may be granted only where the competent authority is satisfied, following an on-site inspection, of the effectiveness of measures aimed to prevent cross-contamination between ruminant and non-ruminant by-products.
+
+Those measures shall include the following minimum requirements:
+
+(1) the slaughtering of non-ruminants must be carried out in lines that are physically separate from those used for the slaughtering of ruminants;
+
+(2) non-ruminant products must be handled on production lines that are physically separate from those used for the handling of ruminant products;
+
+(3) the collection, storage, transport and packaging facilities for animal by-products of non-ruminant origin must be kept separate from those for animal by-products of ruminant origin;
+
+(4) a regular sampling and analysis of animal by-products of non-ruminant origin must be carried out to detect the presence of ruminant proteins. The method of analysis used must be scientifically validated for that purpose. The frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles.
+
+(b) The animal by-products of non-ruminant origin intended to be used for the production of processed animal protein referred to in this Section shall be transported to a processing plant in vehicles and containers which are not used for the transport of animal by-products of ruminant origin.
+
+By way of derogation from that specific condition, they may be transported in vehicles and containers which have been previously used for the transport of animal by-products derived from ruminants, provided that those vehicles and containers have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented trace of such use shall be kept available to the competent authority for a period of at least two years.
+
+(c) The processed animal protein referred to in this Section shall be produced in processing plants that are dedicated exclusively to processing non-ruminant animal by-products sourced from slaughterhouses, cutting plants or other establishments referred to in point (a). Those processing plants shall be registered by the competent authority as processing exclusively non-ruminant animal by-products.
+
+By way of derogation from that specific condition, the competent authority may authorise the production of processed animal protein referred to in this Section in processing plants processing ruminant animal by-products.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of the measures aimed to prevent cross-contamination between processed animal protein of ruminant origin and processed animal protein of non-ruminant origin.
+
+Those preventive measures shall include the following minimum requirements:
+
+(i) the production of processed animal protein derived from ruminants must be carried out in a closed system that is physically separated from that used for the production of the processed animal protein referred to in this Section;
+
+(ii) the keeping of animal by-products derived from ruminants during storage and transport in facilities that are physically separated from those for animal by-products derived from non-ruminants;
+
+(iii) the keeping of processed animal protein derived from ruminants during storage and packaging in facilities that are physically separated from those used for finished products derived from non-ruminants;
+
+(iv) regular sampling and analysis of the processed animal protein referred to in this Section must be carried out to verify the absence of cross-contamination with ruminant processed animal protein using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on hazard analysis and critical control points (HACCP) principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+(d) Compound feed containing processed animal protein referred to in this Section shall be produced in establishments authorised for that purpose by the competent authority and which are dedicated exclusively to the production of feed for aquaculture animals.
+
+By way of derogation from that specific condition:
+
+(i) the production of compound feed, containing processed animal protein referred to in this Section, for aquaculture animals in establishments which also produce compound feed intended for other farmed animals, other than fur animals, may be authorised by the competent authority, following an on-site inspection, subject to compliance with the following conditions:
+
+— compound feed destined for ruminants must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for non-ruminant animals are manufactured and kept;
+
+— compound feed destined for aquaculture animals must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for other non-ruminant animals are manufactured and kept;
+
+— records detailing the purchases and uses of processed animal protein referred to in this Section and the sales of compound feed containing such protein must be kept available to the competent authority for a period of at least five years;
+
+— regular sampling and analysis of the compound feed destined for farmed animals other than aquaculture animals in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of such sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles; the results must be kept available to the competent authority for a period of at least five years;
+
+(ii) a specific authorisation for the production of complete feed from compound feed containing processed animal protein referred to in this Section shall not be required for home compounders that comply with the following conditions:
+
+— they are registered by the competent authority as producing complete feed from compound feed containing processed animal protein derived from non-ruminants, other than fishmeal and other than processed animal protein derived from farmed insects,
+
+— they keep only aquaculture animals, and
+
+— the compound feed containing processed animal protein referred to in this Section used in their production contains less than 50 % crude protein.
+
+(e) The accompanying commercial document or health certificate referred to in Article 21(2) of Regulation (EC) No 1069/2009, as appropriate, of processed animal protein referred to in this Section and the label thereof shall be clearly marked with the following words: ‘non-ruminant processed animal protein — shall not be used in feed for farmed animals except aquaculture and fur animals’.
+
+The following words shall be clearly indicated on the label of compound feed containing processed animal protein referred to in this Section:
+
+‘contains non-ruminant processed animal protein — shall not be fed to farmed animals except aquaculture and fur animals’.
+
+**SECTION E**
+
+**Specific conditions applicable to the production, placing on the market and use of milk replacers containing fishmeal for the feeding of unweaned ruminants**
+
+The following specific conditions shall apply to the production, placing on the market and use of milk replacers containing fishmeal in the feeding of unweaned farmed animals of the ruminant species:
+
+(a) the fishmeal used in milk replacers shall be produced in processing plants dedicated exclusively to the production of products derived from:
+
+(i) aquatic animals, except sea mammals;
+
+(ii) farmed aquatic invertebrates other than those that fall within the definition of ‘aquatic animals’ provided for in Article 3(1)(e) of Directive 2006/88/EC; or
+
+(iii) starfish of the species Asterias rubens which are harvested in a production area as defined in Annex I point 2.5 of Regulation (EC) No 853/2004 and classified accordingly.
+
+The fishmeal used in milk replacers shall comply with general conditions laid set out in Chapter III.
+
+(b) the words ‘fishmeal — shall not be used in feed for ruminants except unweaned ruminants’ shall be clearly indicated on the accompanying commercial document or health certificate referred to in Article 21(2) of Regulation (EC) No 1069/2009, as appropriate, as well as the label of fishmeal intended to be used in milk replacers;
+
+(c) the use of fishmeal for unweaned farmed animals of the ruminant species shall only be authorised for the production of milk replacers, distributed in dry form and administered after dilution in a given quantity of liquid, intended for the feeding of unweaned ruminants as a supplement to, or substitute for, post-colostral milk before weaning is complete;
+
+(d) milk replacers containing fishmeal intended for unweaned farmed animals of the ruminant species shall be produced in establishments which do not produce other compound feed for ruminants and which are authorised for this purpose by the competent authority.
+
+By way of derogation from that special condition, the production of other compound feed for ruminants in establishments which also produce milk replacers containing fishmeal intended for unweaned farmed animals of the ruminant species may be authorised by the competent authority, following an on-site inspection, subject to compliance with the following conditions:
+
+(i) other compound feed destined for ruminants must be kept in facilities that are physically separate from those used for bulk fishmeal and bulk milk replacers containing fishmeal during storage, transport and packaging;
+
+(ii) other compound feed destined for ruminants must be manufactured in facilities that are physically separate from facilities where milk replacers containing fishmeal are manufactured;
+
+(iii) records detailing the purchases and uses of fishmeal and the sales of milk replacers containing fishmeal must be kept available to the competent authority for a period of at least five years;
+
+(iv) regular sampling and analysis of the other compound feed destined for ruminants must be carried out in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of such sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles; the results must be kept available to the competent authority for a period of at least five years;
+
+(e) before release for free circulation in the Union, importers shall ensure that each consignment of imported milk replacers containing fishmeal is analysed in accordance with methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009 in order to verify the absence of unauthorised constituents of animal origin;
+
+(f) The label of milk replacers containing fishmeal, intended for unweaned farmed animals of the ruminant species, must be clearly marked with the words ‘contains fishmeal — shall not be fed to ruminants except unweaned ruminants’;
+
+(g) bulk milk replacers containing fishmeal intended for unweaned farmed animals of the ruminant species shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively for the transport or storage of other feed intended for ruminants.
+
+By way of derogation from that special condition, vehicles, containers and storage facilities which will be subsequently used for the transport or storage of other bulk feed intended for ruminants may be used for the transport or storage of bulk milk replacers containing fishmeal intended for unweaned farmed animals of the ruminant species provided that they have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority. Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years;
+
+(h) on farms where ruminants are kept, on-farm measures shall be in place to prevent milk replacers containing fishmeal being fed to other ruminants than unweaned ruminants. The competent authority shall establish a list of farms where milk replacers containing fishmeal are used through a system of prior notification by the farm or another system thereby ensuring compliance with this specific condition.
+
+**SECTION F**
+
+**Specific conditions applicable to the production and use of processed animal protein derived from farmed insects and compound feed containing such protein intended to be used for feeding aquaculture animals, poultry and porcine animals**
+
+The following specific conditions shall apply to the production and use of processed animal protein derived from farmed insects and compound feed containing such processed animal protein intended to be used for feeding aquaculture animals, poultry and porcine animals:
+
+(a) Processed animal protein derived from farmed insects must be produced:
+
+(i) in processing plants approved in accordance with Article 24(1), point (a) of Regulation (EC) No 1069/2009 and dedicated exclusively to the production of products derived from farmed insects;
+
+(ii) in accordance with the requirements laid down in Annex X, Chapter II, Section 1 to Regulation (EU) No 142/2011.
+
+By way of derogation from the condition provided for in point (i) of the first paragraph, the competent authority may authorise the production of processed animal protein derived from farmed insects in processing plants processing by-products from other species.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of the measures aimed to prevent cross-contamination of processed animal protein derived from farmed insects with processed animal protein derived from other farmed animals.
+
+Those preventive measures shall include the following minimum requirements:
+
+— the production of processed animal protein derived from ruminants or non-ruminants other than insects must be carried out in a closed system that is physically separated from that used for the production of the processed animal protein derived from farmed insects;
+
+— the keeping of animal by-products derived from ruminants or non-ruminants other than insects during storage and transport in facilities that are physically separated from those for animal by-products derived from farmed insects;
+
+— the keeping of processed animal protein derived from ruminants or non-ruminants other than insects during storage and packaging in facilities that are physically separated from those used for finished products derived from farmed insects;
+
+— regular sampling and analysis of the processed animal protein derived from farmed insects must be carried out to verify the absence of cross-contamination with processed animal protein derived from ruminants or other non-ruminants using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on HACCP principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+(b) Compound feed containing processed animal protein derived from farmed insects shall be produced in establishments:
+
+(i) authorised for that purpose by the competent authority;
+
+(ii) dedicated to the production of feed for aquaculture animals, poultry or porcine animals.
+
+By way of derogation from point (i) of the first paragraph, a specific authorisation for the production of complete feed from compound feed containing processed animal protein derived from farmed insects shall not be required for home compounders that comply with the following conditions:
+
+— they are registered by the competent authority as producing complete feed from compound feed containing processed animal protein derived from farmed insects,
+
+— they do not keep farmed animals as defined in Article 3, point 6(a) of Regulation (EC) No 1069/2009, other than aquaculture animals, poultry, porcine animals or fur animals,
+
+— the compound feed containing processed animal protein derived from farmed insects used in their production contains less than 50 % crude protein.
+
+By way of derogation from point (ii) of the first paragraph, the production of compound feed containing processed animal protein derived from farmed insects, intended for aquaculture animals, poultry or porcine animals, in establishments which also produce compound feed intended for other farmed animals, except fur animals, may be authorised by the competent authority, following an on-site inspection, subject to compliance with the following conditions:
+
+— compound feed destined for ruminants must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for non-ruminant animals are manufactured and kept,
+
+— compound feed destined for aquaculture animals, poultry or porcine animals must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for other non-ruminant animals are manufactured and kept,
+
+— records detailing the purchases and uses of processed animal protein derived from farmed insects and the sales of compound feed containing such protein must be kept available to the competent authority for a period of at least five years,
+
+— regular sampling and analysis of the compound feed destined for farmed animals other than aquaculture animals, poultry and porcine animals in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of such sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles; the results must be kept available to the competent authority for a period of at least five years.
+
+(c) The commercial document or, as appropriate, the health certificate accompanying the processed animal protein derived from farmed insects in accordance with Article 21(2) of Regulation (EC) No 1069/2009, the label of that processed animal protein derived from farmed insects, and the label of compound feed containing processed animal protein derived from farmed insects shall be clearly marked in accordance with Chapter V, Section G of this Annex.
+
+**SECTION G**
+
+**Specific conditions applicable to the production and use of processed animal protein derived from porcine animals and compound feed containing such protein, intended to be used for feeding poultry**
+
+The following specific conditions shall apply to the production and use of processed animal protein derived from porcine animals and compound feed containing such protein, intended to be used for feeding poultry (‘processed animal protein derived from porcine animals’):
+
+(a) The animal by-products intended to be used for the production of processed animal protein derived from porcine animals shall come from one or more of the following:
+
+(i) slaughterhouses approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not slaughter ruminants and poultry and which are registered by the competent authority as not slaughtering ruminants and poultry;
+
+(ii) cutting plants approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not bone or cut up ruminant and poultry meat and which are registered by the competent authority as not boning or cutting up ruminant and poultry meat;
+
+(iii) other establishments than those referred to in point (i) or (ii), registered or approved in accordance with Article 4 of Regulation (EC) No 853/2004, which do not handle ruminant and poultry products and which are registered by the competent authority as not handling ruminant and poultry products;
+
+(iv) approved establishments referred to in Article 24(1), points (h) and (i) of Regulation (EC) No 1069/2009 which are registered by the competent authority as handling or storing only non-ruminant animal by-products coming from establishments referred to in points (i), (ii) and (iii).
+
+By way of derogation from points (i), (ii) and (iii) of the first paragraph, the competent authority may authorise the slaughter of ruminants or poultry and the handling of ruminant or poultry products in the establishments referred to in points (i), (ii) and (iii) of the first paragraph producing porcine animal by-products intended for the production of processed animal protein derived from porcine animals.
+
+That authorisation may be granted only where the competent authority is satisfied, following an on-site inspection, of the effectiveness of measures aimed to prevent cross-contamination between ruminant or poultry and porcine animal by-products.
+
+Those measures shall include the following minimum requirements:
+
+(1) the slaughtering of porcine animals must be carried out in lines that are physically separate from those used for the slaughtering of ruminants or poultry;
+
+(2) products of porcine origin must be handled on production lines that are physically separate from those used for the handling of ruminant or poultry products;
+
+(3) the collection, storage, transport and packaging facilities for animal by-products of porcine origin must be kept separate from those for animal by-products of ruminant or poultry origin;
+
+(4) a regular sampling and analysis of animal by-products of porcine origin must be carried out to detect the presence of ruminant or poultry proteins. The method of analysis used must be scientifically validated for that purpose. The frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles.
+
+(b) The animal by-products of porcine origin intended to be used for the production of processed animal protein derived from porcine animals shall be transported to a processing plant in vehicles and containers which are not used for the transport of animal by-products of ruminant or poultry origin.
+
+By way of derogation from the first paragraph, they may be transported in vehicles and containers which have been previously used for the transport of animal by-products derived from ruminants or poultry, provided that those vehicles and containers have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented trace of such use shall be kept available to the competent authority for a period of at least two years.
+
+(c) The processed animal protein derived from porcine animals shall be produced in processing plants:
+
+(i) dedicated to processing by-products sourced from slaughterhouses, cutting plants or other establishments referred to in point (a);
+
+(ii) registered by the competent authority as not processing ruminant animal or poultry by-products.
+
+By way of derogation from point (ii) of the first paragraph, the competent authority may authorise the production of processed animal protein derived from porcine animals in processing plants processing ruminant animal or poultry by-products.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of the measures aimed to prevent cross-contamination between processed animal protein of ruminant or poultry origin and processed animal protein of porcine origin.
+
+Those preventive measures shall include the following minimum requirements:
+
+(1) the production of processed animal protein derived from ruminants or poultry must be carried out in a closed system that is physically separated from that used for the production of the processed animal protein derived from porcine animals;
+
+(2) the keeping of animal by-products derived from ruminants and poultry during storage and transport in facilities that are physically separated from those for animal by-products derived from porcine animals;
+
+(3) the keeping of processed animal protein derived from ruminants or poultry during storage and packaging in facilities that are physically separated from those used for finished products derived from porcine animals;
+
+(4) regular sampling and analysis of the processed animal protein derived from porcine animals must be carried out to verify the absence of cross-contamination with ruminant or poultry processed animal protein using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on HACCP principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+(d) Compound feed containing processed animal protein derived from porcine animals shall be produced in establishments:
+
+(i) authorised for that purpose by the competent authority;
+
+(ii) dedicated exclusively to the production of feed for poultry, aquaculture or fur animals.
+
+By way of derogation from point (i) of the first paragraph, a specific authorisation for the production of complete feed from compound feed containing processed animal protein derived from porcine animals shall not be required for home compounders that comply with the following conditions:
+
+— they are registered by the competent authority as producing complete feed from compound feed containing processed animal protein derived from porcine animals,
+
+— they do not keep farmed animals as defined in Article 3, point 6(a) of Regulation (EC) No 1069/2009, other than poultry, aquaculture animals or fur animals,
+
+— the compound feed containing processed animal protein derived from porcine animals used in their production contains less than 50 % crude protein.
+
+By way of derogation from point (ii) of the first paragraph, the production of compound feed for poultry, containing processed animal protein derived from porcine animals, in establishments which also produce compound feed intended for farmed animals other than aquaculture and fur animals, may be authorised by the competent authority, following an on-site inspection, subject to compliance with the following conditions:
+
+— compound feed destined for ruminants must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for non-ruminant animals are manufactured and kept,
+
+— compound feed destined for porcine animals must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for other non-ruminant animals are manufactured and kept,
+
+— records detailing the purchases and uses of processed animal protein derived from porcine animals and the sales of compound feed containing such protein must be kept available to the competent authority for a period of at least five years,
+
+— regular sampling and analysis of the compound feed destined for farmed animals other than poultry, aquaculture and fur animals in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of such sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles; the results must be kept available to the competent authority for a period of at least five years.
+
+(e) The commercial document or, as appropriate, the health certificate accompanying the processed animal protein derived from porcine animals in accordance with Article 21(2) of Regulation (EC) No 1069/2009, the label of that processed animal protein derived from porcine animals, and the label of compound feed containing processed animal protein derived from porcine animals shall be clearly marked in accordance with Chapter V, Section G of this Annex.
+
+**SECTION H**
+
+**Specific conditions applicable to the production and use of processed animal protein derived from poultry and compound feed containing such protein, intended to be used for feeding porcine animals**
+
+The following specific conditions shall apply to the production and use of processed animal protein derived from poultry and compound feed containing such protein, intended to be used for feeding porcine animals (‘processed animal protein derived from poultry’):
+
+(a) The animal by-products intended to be used for the production of processed animal protein derived from poultry shall come from one or several of the following:
+
+(i) slaughterhouses approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not slaughter ruminants and porcine animals and which are registered by the competent authority as not slaughtering ruminants and porcine animals;
+
+(ii) cutting plants approved in accordance with Article 4 of Regulation (EC) No 853/2004 which do not bone or cut up ruminant meat and pork and which are registered by the competent authority as not boning or cutting up ruminant meat and pork;
+
+(iii) other establishments than those referred to in point (i) or (ii), registered or approved in accordance with Article 4 of Regulation (EC) No 853/2004, which do not handle ruminant and porcine products and which are registered by the competent authority as not handling ruminant and porcine products;
+
+(iv) approved establishments referred to in Article 24(1), points (h) and (i) of Regulation (EC) No 1069/2009 which are registered by the competent authority as handling or storing only non-ruminant animal by-products coming from establishments referred to in points (i), (ii) and (iii).
+
+By way of derogation from points (i), (ii) and (iii) of the first paragraph, the competent authority may authorise the slaughter of ruminants or porcine animals and the handling of ruminant or porcine products in the establishments referred to in points (i), (ii) and (iii) of the first paragraph producing poultry animal by-products intended for the production of processed animal protein derived from poultry.
+
+That authorisation may be granted only where the competent authority is satisfied, following an on-site inspection, of the effectiveness of measures aimed to prevent cross-contamination between ruminant or porcine and poultry animal by-products.
+
+Those measures shall include the following minimum requirements:
+
+(1) the slaughtering of poultry must be carried out in lines that are physically separate from those used for the slaughtering of ruminants or porcine animals;
+
+(2) poultry products must be handled on production lines that are physically separate from those used for the handling of ruminant or porcine products;
+
+(3) the collection, storage, transport and packaging facilities for animal by-products of poultry origin must be kept separate from those for animal by-products of ruminant or porcine origin;
+
+(4) a regular sampling and analysis of animal by-products of poultry origin must be carried out to detect the presence of ruminant or porcine proteins. The method of analysis used must be scientifically validated for that purpose. The frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles.
+
+(b) The animal by-products of poultry origin intended to be used for the production of processed animal protein derived from poultry shall be transported to a processing plant in vehicles and containers which are not used for the transport of animal by-products of ruminant or porcine origin.
+
+By way of derogation from the first paragraph, they may be transported in vehicles and containers which have been previously used for the transport of animal by-products derived from ruminants or porcine animals, provided that those vehicles and containers have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented trace of such use shall be kept available to the competent authority for a period of at least two years.
+
+(c) The processed animal protein derived from poultry shall be produced in processing plants:
+
+(i) dedicated to processing animal by-products sourced from slaughterhouses, cutting plants or other establishments referred to in point (a);
+
+(ii) registered by the competent authority as not processing ruminant or porcine animal by-products.
+
+By way of derogation from point (ii) of the first paragraph, the competent authority may authorise the production of processed animal protein derived from poultry in processing plants processing ruminant or porcine animal by-products.
+
+That authorisation may be granted only where the competent authority is satisfied, following an inspection, concerning the effectiveness of the measures aimed to prevent cross-contamination between processed animal protein of ruminant or porcine origin and processed animal protein of poultry origin.
+
+Those preventive measures shall include the following minimum requirements:
+
+(1) the production of processed animal protein derived from ruminants or porcine animals must be carried out in a closed system that is physically separated from that used for the production of the processed animal protein derived from poultry;
+
+(2) the keeping of animal by-products derived from ruminants or porcine animals during storage and transport in facilities that are physically separated from those for animal by-products derived from poultry;
+
+(3) the keeping of processed animal protein derived from ruminants or porcine animals during storage and packaging in facilities that are physically separated from those used for finished products derived from poultry;
+
+(4) regular sampling and analysis of the processed animal protein derived from poultry must be carried out to verify the absence of cross-contamination with ruminant or porcine processed animal protein using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on HACCP principles; the results of such sampling and analysis shall be kept available to the competent authority for a period of at least five years.
+
+(d) Compound feed containing processed animal protein derived from poultry shall be produced in establishments:
+
+(i) authorised for that purpose by the competent authority;
+
+(ii) dedicated exclusively to the production of feed for porcine, aquaculture or fur animals.
+
+By way of derogation from point (i) of the first paragraph, a specific authorisation for the production of complete feed from compound feed containing processed animal protein derived from poultry shall not be required for home compounders that comply with the following conditions:
+
+— they are registered by the competent authority as producing complete feed from compound feed containing processed animal protein derived from poultry,
+
+— they do not keep farmed animals as defined in of Article 3, point 6(a) of Regulation (EC) No 1069/2009, other than porcine animals, aquaculture animals or fur animals,
+
+— the compound feed containing processed animal protein derived from poultry used in their production contains less than 50 % crude protein.
+
+By way of derogation from point (ii) of the first paragraph, the production of compound feed for porcine animals, containing processed animal protein derived from poultry, in establishments which also produce compound feed intended for farmed animals other than aquaculture and fur animals may be authorised by the competent authority, following an on-site inspection, subject to compliance with the following conditions:
+
+— compound feed destined for ruminants must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for non-ruminant animals are manufactured and kept,
+
+— compound feed destined for poultry must be manufactured and kept, during storage, transport and packaging, in facilities that are physically separate from those facilities where compound feed for other non-ruminant animals are manufactured and kept,
+
+— records detailing the purchases and uses of processed animal protein derived from poultry and the sales of compound feed containing such protein must be kept available to the competent authority for a period of at least five years,
+
+— regular sampling and analysis of the compound feed destined for farmed animals other than porcine animals, aquaculture and fur animals in order to verify the absence of unauthorised constituents of animal origin using the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009; the frequency of such sampling and analysis shall be determined on the basis of a risk assessment carried out by the operator as part of its procedures based on the HACCP principles; the results must be kept available to the competent authority for a period of at least five years.
+
+(e) The commercial document or, as appropriate, the health certificate accompanying the processed animal protein derived from poultry in accordance with Article 21(2) of Regulation (EC) No 1069/2009, the label of that processed animal protein derived from poultry, and the label of compound feed containing processed animal protein derived from poultry shall be clearly marked in accordance with Chapter V, Section G of this Annex.
+
+**CHAPTER V**
+
+**General requirements**
+
+**SECTION A**
+
+Listing
+
+1\. Member States shall keep up-to-date and make publicly available lists of:
+
+(a) slaughterhouses registered as not slaughtering ruminants in accordance with Chapter IV, Section C, point (a), first paragraph, as well as authorised slaughterhouses from which blood produced in accordance with Chapter IV, Section C, point (a), second, third and fourth paragraphs can be sourced;
+
+(b) slaughterhouses, cutting plants, other food establishments and animal by-products establishments registered as, respectively, not slaughtering ruminants, not boning or cutting up ruminant meat, not handling ruminant products, and handling or storing only animal by-products coming from these food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from non-ruminants in accordance with Chapter IV, Section D, point (a), first paragraph can be sourced, as well as authorised slaughterhouses, cutting plants and other food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from non-ruminants in accordance with Chapter IV, Section D, point (a), second, third and fourth paragraphs can be sourced;
+
+(c) slaughterhouses, cutting plants and other food establishments and animal by-products establishments registered as, respectively, not slaughtering ruminants and poultry, not boning or cutting up ruminant and poultry meat, not handling ruminant and poultry products, and handling or storing only animal by-products coming from these food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from porcine animals in accordance with Chapter IV, Section G, point (a), first paragraph can be sourced, as well as authorised slaughterhouses, cutting plants and other food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from porcine animals in accordance with Chapter IV, Section G, point (a), second, third and fourth paragraphs can be sourced;
+
+(d) slaughterhouses, cutting plants and other food establishments and animal by-products establishments registered as, respectively, not slaughtering ruminants and porcine animals, not boning or cutting up ruminant meat and pork, not handling ruminant and porcine products, and handling or storing only animal by-products coming from these food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from poultry in accordance with Chapter IV, Section H, point (a), first paragraph can be sourced, as well as authorised slaughterhouses, cutting plants and other food establishments, from which animal by-products intended to be used for the production of processed animal protein derived from poultry in accordance with Chapter IV, Section H, point (a), second, third and fourth paragraphs can be sourced;
+
+(e) processing plants registered as processing exclusively non-ruminant blood in accordance with Chapter IV, Section C, point (c), first paragraph, as well as authorised processing plants producing blood products in accordance with Chapter IV, Section C, point (c), second, third and fourth paragraphs;
+
+(f) processing plants registered as not processing ruminant animal by-products in accordance with Chapter IV, Section D, point (c), first paragraph, as well as authorised processing plants producing processed animal protein derived from non-ruminants which operate in accordance with Chapter IV, Section D, point (c), second, third and fourth paragraphs;
+
+(g) processing plants registered as not processing ruminant and poultry animal by-products in accordance with Chapter IV, Section G, point (c), first paragraph, as well as authorised processing plants producing processed animal protein derived from porcine animals which operate in accordance with Chapter IV, Section G, point (c), second, third and fourth paragraphs;
+
+(h) processing plants registered as not processing ruminant and porcine animal by-products in accordance with Chapter IV, Section H, point (c), first paragraph, as well as authorised processing plants producing processed animal protein derived from poultry which operate in accordance with Chapter IV, Section H, point (c), second, third and fourth paragraphs;
+
+(i) authorised compound feed establishments producing, in accordance with Chapter III, Section B, compound feed containing fishmeal, dicalcium and tricalcium phosphate of animal origin and blood products derived from non-ruminants;
+
+(j) authorised compound feed establishments producing, in accordance with Chapter IV, Section D, point (d), compound feed containing processed animal protein derived from non-ruminants; as well as authorised compound feed establishments producing, in accordance with Chapter V, Section E, point 3(b)(ii) exclusively compound feed for export from the Union or compound feed for export from the Union and compound feed for aquaculture animals to be placed on the market;
+
+(k) authorised compound feed establishments producing, in accordance with Chapter IV, Section E, point (d), milk replacers containing fishmeal intended for unweaned farmed animals of the ruminant species;
+
+(l) authorised compound feed establishments producing, in accordance with Chapter IV, Section F, point (b), compound feed containing processed animal protein derived from farmed insects;
+
+(m) authorised compound feed establishments producing, in accordance with Chapter IV, Section G, point (d), compound feed containing processed animal protein derived from porcine animals intended for poultry;
+
+(n) authorised compound feed establishments producing, in accordance with Chapter IV, Section H, point (d), compound feed containing processed animal protein derived from poultry intended for porcine animals;
+
+(o) storage plants authorised in accordance with Chapter III, Section A, point 3, or in accordance with Chapter V, Section E, point 3(d), third paragraph.
+
+2\. Member States shall keep up-to-date lists of home compounders registered in accordance with Chapter III, Section B, point 3, and with Chapter IV, Section D, point (d)(ii), Section F, point (b)(ii), Section G, point (d)(ii), and Section H, point (d)(ii).
+
+**SECTION B**
+
+**Transport and storage of feed materials and compound feed containing products derived from ruminants**
+
+1\. Bulk feed materials and bulk compound feed containing products derived from ruminants other than those listed in the following points (a) to (d) shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed intended for farmed animals other than fur animals:
+
+(a) milk, milk-based products, milk-derived products, colostrum and colostrum products;
+
+(b) dicalcium and tricalcium phosphate of animal origin;
+
+(c) hydrolysed proteins derived from ruminant hides and skins;
+
+(d) rendered fat from ruminants with a maximum level of insoluble impurities of 0,15 % in weight and derivatives made from such fat.
+
+2\. By way of derogation from point 1, vehicles, containers and storage facilities which have been previously used for the transport or storage of bulk feed materials and bulk compound feed listed in that point, may be used for the transport or storage of feedingstuffs intended for farmed animals other than fur animals provided that they have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+Whenever such a procedure is used, a documented record of this use shall be kept available to the competent authority for a period of at least two years.
+
+**SECTION C**
+
+**Production of compound feed intended for fur animals or for pet animals containing products derived from ruminants or from non-ruminants**
+
+1\. Compound feed intended for fur animals or for pet animals which contains products derived from ruminants other than those listed in the following points (a) to (d) shall not be produced in establishments which produce feed for farmed animals other than fur animals:
+
+(a) milk, milk-based products, milk-derived products, colostrum and colostrum products;
+
+(b) dicalcium and tricalcium phosphate of animal origin;
+
+(c) hydrolysed proteins derived from ruminant hides and skins;
+
+(d) rendered fat from ruminants with a maximum level of insoluble impurities of 0,15 % in weight and derivatives made from such fat.
+
+2\. Compound feed intended for fur animals or for pet animals, which contains processed animal protein derived from non-ruminants, shall not be produced in establishments which produce feed for farmed animals other than fur animals or aquaculture animals.
+
+3\. By way of derogation from point 2:
+
+(i) compound feed intended for fur animals or for pet animals, which contains fishmeal may be produced in establishments which produce feed for non-ruminant farmed animals and milk replacers for the feeding of unweaned ruminants;
+
+(ii) compound feed intended for fur animals or for pet animals, which contains processed animal protein derived from farmed insects, may be produced in establishments which produce feed for poultry or porcine animals provided the processed animal protein derived from farmed insects comply with Chapter IV, Section F, point (a);
+
+(iii) compound feed intended for fur animals or for pet animals, which contains processed animal protein derived from porcine animals, may be produced in establishments which produce feed for poultry, provided the processed animal protein derived from porcine animals comply with Chapter IV, Section G, points (a), (b) and (c);
+
+(iv) compound feed intended for fur animals or for pet animals, which contains processed animal protein derived from poultry, may be produced in establishments which produce feed for porcine animals, provided the processed animal protein derived from poultry comply with Chapter IV, Section H, points (a), (b) and (c).
+
+**SECTION D**
+
+**Use and storage on farms of feed materials and compound feed for farmed animals containing products derived from ruminants**
+
+The use and storage of feed materials and compound feed for farmed animals containing products derived from ruminants other than those listed in points (a) to (d) shall be prohibited in farms keeping farmed animals other than fur animals:
+
+(a) milk, milk-based products, milk-derived products, colostrum and colostrum products;
+
+(b) dicalcium and tricalcium phosphate of animal origin;
+
+(c) hydrolysed proteins derived from ruminant hides and skins;
+
+(d) rendered fat from ruminants with a maximum level of insoluble impurities of 0,15 % in weight and derivatives made from such fat.
+
+**SECTION E**
+
+**Export of processed animal protein and products containing such protein**
+
+1\. The export of processed animal protein derived from ruminants, or of processed animal protein derived from both ruminants and non-ruminants, shall be subject to compliance with the following conditions:
+
+(a) The processed animal protein shall be transported in sealed containers, directly from the processing plant of production to the point of exit from the Union territory, which shall be a border inspection post listed in Annex I to Commission Decision 2009/821/EC ( 25 ). Before leaving the Union territory, the operator responsible for arranging the transport of the processed animal protein shall inform the competent authority at that border inspection post of the arrival of the consignment at the point of exit.
+
+(b) The consignment shall be accompanied by a duly completed commercial document produced according to the model set out in point 6 of Chapter III of Annex VIII to Regulation (EU) No 142/2011 and issued from the integrated computerised veterinary system (TRACES) introduced by Commission Decision 2004/292/EC ( 26 ). On that commercial document, the border inspection post of exit must be indicated as exit point in box I.28.
+
+(c) When the consignment arrives at the point of exit, the competent authority at the border inspection post shall verify the seal of each of the containers presented at the border inspection post.
+
+By way of derogation, based on an analysis of the risk, the competent authority at the border inspection post may decide to verify the seal of the container on a random basis.
+
+If the seal verification is not satisfactory, the consignment must either be destroyed or must be re-dispatched to the establishment of origin.
+
+The competent authority at the border inspection post shall inform, via TRACES, the competent authority responsible for the establishment of origin of the arrival of the consignment at the point of exit and, where applicable, of the outcome of the verification of the seal and of any corrective action taken.
+
+(d) The competent authority responsible for the establishment of origin shall carry out regular official controls to verify the correct implementation of points (a) and (b) and to verify that, for each consignment of processed animal protein of ruminant origin intended for export, the confirmation of the control carried out at the exit point was received from the competent authority of the border inspection post, through TRACES.
+
+2\. Without prejudice to point 1, the export of products containing processed animal protein derived from ruminants shall be prohibited.
+
+By way of derogation, that prohibition shall not apply to:
+
+(a) processed petfood containing processed animal protein derived from ruminants which:
+
+(i) has been processed in establishments or plants approved in accordance with Article 24(1)(e) of Regulation (EC) No 1069/2009; and
+
+(ii) is packaged and labelled in accordance with Union legislation.
+
+(b) organic fertilisers or soil improvers, as defined in Article 3, point 22, of Regulation (EC) No 1069/2009, that contain in their composition processed animal proteins derived from ruminants or a mixture of processed animal proteins from ruminants and non-ruminants provided that either they have reached the end point as defined in Article 4, point 1(c) or in Article 4, point 2, of Commission Delegated Regulation (EU) 2023/1605 ( 27 ), or:
+
+(i) they do not contain Category 1 material and products derived therefrom or Category 2 material and products derived therefrom, other than manure, as defined in point 20 of Article 3 of Regulation (EC) No 1069/2009, processed in accordance with the rules for placing on the market of processed manure, laid down in Section 2(a), (b), (d) and (e) of Chapter I of Annex XI to Commission Regulation (EU) No 142/2011;
+
+(ii) the processed animal proteins contained in the organic fertilisers or soil improvers are in compliance with the specific requirements described in Section 1 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+
+(iii) the organic fertilisers or soil improvers may contain other category 3 materials, that have been processed in accordance to:
+
+— any of the processing methods 1 to 7 set out in Chapter III of Annex IV to Regulation (EU) No 142/2011, or
+
+— the requirements laid down in Section 1 Chapter III of Annex V to Regulation (EU) No 142/2011 in the case of compost or digestion residues from the transformation of animal by-products into biogas, or;
+
+— the specific requirements set out in Annex XIII to Regulation (EU) No 142/2011, where such materials may be used for organic fertilisers and soil improvers in accordance to that Regulation.
+
+(iv) they have been produced in establishments or plants approved in accordance with Article 24(1)(f) of Regulation (EC) No 1069/2009;
+
+(v) are mixed with a sufficient proportion of a component, authorised by the competent authority of the Member State where the organic fertilisers or soil improvers are produced, which renders the product unpalatable to animals or is otherwise effective to prevent misuse of the mixture for feeding purposes. This component is to be mixed with the organic fertilizers or soil improvers in the plant manufacturing them or in a plant registered for this purpose in accordance with point 2 of Section 1 of Chapter II of Annex XI to Regulation (EU) No 142/2011.
+
+If required by the competent authority of the third country of destination, the competent authority of the Member State where the organic fertilisers or soil improvers are produced may accept the use of other components or other methods to prevent the use of the organic fertilisers or soil improvers as feed, different than those authorised in this Member State, provided that these are not in contradiction with the rules laid down in point 3 of Article 22 and point 3 of Section 1 of Chapter II of Annex XI to Regulation (EU) No 142/2011;
+
+(vi) they have been processed to ensure decontamination of pathogens in accordance with point 5 of Section 1 of Chapter II of Annex XI to Regulation (EU) No 142/2011;
+
+(vii) they have a label attached to the packaging or container bearing the words ‘organic fertilisers or soil improvers/no grazing of farmed animals or use of crops as herbage during at least 21 days following application’;
+
+(viii) they are exported in compliance with the following conditions:
+
+— they shall be transported in sealed containers, directly from the plant manufacturing the organic fertilisers or soil improvers or the registered plant where the component which renders the product unpalatable to animals is added, to the point of exit from the Union territory, which shall be a border control post listed in Annex I to Commission Decision 2009/821/EC. Before leaving the Union territory, the operator responsible for arranging the transport of the organic fertilisers or soil improvers shall inform the competent authority at that border control post of the arrival of the consignment at the point of exit;
+
+— the consignment shall be accompanied by a duly completed commercial document produced according to the model set out in point 6 of Chapter III of Annex VIII to Regulation (EU) No 142/2011 and issued from the integrated computerised veterinary system (TRACES) introduced by Commission Decision 2004/292/EC. On that commercial document, the border control post of exit must be indicated in Box I.28;
+
+— when the consignment arrives at the point of exit, the competent authority at the border control post shall, on a risk basis, verify the seal of the containers presented at the border control post. If the seal is verified and the verification is not satisfactory, the consignment must either be destroyed or must be re-dispatched to the establishment of origin, indicated in box I.12 of the commercial document;
+
+— the competent authority at the border control post shall inform, via TRACES, the competent authority indicated in box I.4 of the commercial document of the arrival of the consignment at the point of exit and, where applicable, of the outcome of the verification of the seal and of any corrective action taken;
+
+— The competent authority responsible for the manufacturing plant of origin or the registered plant where the component which renders the product unpalatable to animals is added shall carry out risk based official controls to verify compliance with the first and second indents and to verify that, for each consignment of organic fertilisers and soil improvers that contain in their composition processed animal proteins derived from ruminants or a mixture of processed animal proteins from ruminants and non-ruminants exported, the confirmation of the control carried out at the exit point was received from the competent authority of the border control post, through TRACES.
+
+The conditions set out in points (v), (vii) and (viii) of point 2(b) shall not apply to organic fertilisers or soil improvers which are in ready-to-sell packages of not more than 50 kg in weight for use by the final consumer.
+
+3\. The export of processed animal protein derived from non-ruminants, or compound feed containing such protein, shall be subject to compliance with the following conditions:
+
+(a) The processed animal protein derived from non-ruminants shall be produced in processing plants which fulfil the requirements of Chapter IV, Section D, point (c), or of Chapter IV, Section F, point (a)(i), or of Chapter IV, Section G, point (c), or of Chapter IV, Section H, point (c).
+
+(b) The compound feed containing processed animal protein derived from non-ruminants shall be produced in compound feed establishments which:
+
+(i) produce in accordance with Chapter IV, Section D, point (d), or with Chapter IV, Section F, point (b), or with Chapter IV, Section G, point (d), or with Chapter IV, Section H, point (d); or
+
+(ii) source the processed animal protein used in compound feed destined for export in processing plants that comply with point (a) and, either:
+
+— are dedicated exclusively to the production of compound feed for export from the Union and are authorised for that purpose by the competent authority, or
+
+— are dedicated exclusively to the production of compound feed for export from the Union and to the production of compound feed for aquaculture, poultry or porcine animals to be placed on the market in the Union, and authorised for that purpose by the competent authority.
+
+(c) The compound feed containing processed animal protein derived from non-ruminants shall be packaged and labelled in accordance with Union legislation or with the legal requirements of the importing country. Where the compound feed containing processed animal protein derived from non-ruminants is not labelled in accordance with Union legislation, the following words shall be indicated on the labelling: ‘contains non-ruminant processed animal protein’.
+
+(d) Bulk processed animal protein derived from non-ruminants and bulk compound feed containing such protein, and intended for export from the Union, shall be transported in vehicles and containers and stored in storage facilities which are not used, respectively, for the transport or storage of feed for placing on market and intended for feeding to ruminants or non-ruminant farmed animals other than aquaculture animals. Records detailing the type of products that were transported or stored shall be kept available to the competent authority for a period of at least two years.
+
+By way of derogation from the first paragraph, vehicles, containers and storage facilities which have been previously used for the transport or storage of bulk processed animal protein derived from non-ruminants and bulk compound feed containing such protein, and intended for export from the Union, may be subsequently used for the transport or storage of feed for placing on the market and intended for feeding to ruminants or non-ruminant farmed animals other than aquaculture animals, provided that they are cleaned beforehand in order to avoid cross-contamination, in accordance with a documented procedure which has been given prior authorisation by the competent authority. Whenever such a procedure is used, a documented record of such use shall be kept available to the competent authority for a period of at least two years.
+
+Storage plants storing bulk processed animal protein derived from non-ruminants and bulk compound feed containing such protein under the conditions set out in the second paragraph of point (d) shall be authorised by the competent authority based on verification of their compliance with the requirements listed in that paragraph.
+
+4\. By way of derogation from point 3, the conditions laid down in that point shall not apply to:
+
+(a) petfood which contains processed animal protein derived from non-ruminants and which has been processed in petfood establishments approved in accordance with Article 24 of Regulation (EC) No 1069/2009 and which is packaged and labelled in accordance with Union legislation;
+
+(b) fishmeal, provided that it is produced in accordance with this Annex;
+
+(c) processed animal protein derived from farmed insects, provided that it is produced in accordance with this Annex;
+
+(d) compound feed containing no other processed animal protein than fishmeal and processed animal protein derived from farmed insects, provided that it is produced in accordance with this Annex;
+
+(e) processed animal protein derived from non-ruminants destined for the manufacturing of petfood or of organic fertilisers and soil improvers in the third country of destination, provided that, before export, the exporter ensures that each consignment of processed animal protein is analysed in accordance with the method of analysis set out in point 2.2 of Annex VI to Regulation (EC) No 152/2009 in order to verify the absence of constituents of ruminant origin.
+
+5\. The export of organic fertilisers or soil improvers that contain in their composition processed animal proteins derived only from non-ruminants and do not contain any materials of ruminant origin, shall be subject to compliance with the following conditions:
+
+(a) the requirements set out in points 2(b)(i), (ii), (iii), (iv), (v), (vi) and (vii) of this section shall apply. The conditions set out in points 2(b)(v) and (vii) shall not apply to organic fertilisers or soil improvers which are in ready-to-sell packages of not more than 50 kg in weight for use by the final consumer.
+
+(b) the processed animal protein derived from non-ruminants contained in them shall be produced in processing plants which fulfil the requirements point (c) of Section D of Chapter IV, and are listed in accordance with point 1(d) of Section A of Chapter V.
+
+(c) they have been produced in establishments or plants that are dedicated exclusively to processing non-ruminant organic fertilisers or soil improvers.
+
+By way of derogation from this specific condition, the competent authority may authorise the export of organic fertilisers or soil improvers referred to in this point produced in establishments or plants processing organic fertilisers or soil improvers containing ruminant material, if effective measures to prevent cross contamination between organic fertilisers or soil improvers containing only non-ruminant material and organic fertilisers or soil improvers containing ruminant material are implemented;
+
+(d) they are transported to the point of exit from the Union territory in new packaging material, or in bulk containers which are not used for the transport of materials of ruminant origin or that have been cleaned beforehand in order to avoid cross-contamination in accordance with a documented procedure which has been given prior authorisation by the competent authority.
+
+The conditions set out in points (c) and (d) of point 5 shall not apply to organic fertilisers or soil improvers which are in ready-to-sell packages of not more than 50 kg in weight for use by the final consumer.
+
+The organic fertilisers or soil improvers that have reached the end point as defined in Article 4, point 1(c) or in Article 4, point 2, of Delegated Regulation (EU) 2023/1605 shall be exempted from the conditions set out in the first paragraph of this point.
+
+**SECTION F**
+
+**Official controls**
+
+1\. Official controls carried out by the competent authority in order to verify compliance with the rules laid down set out in this Annex shall include inspections and sampling for analysis on processed animal protein and feed in compliance with the methods of analysis for the determination of constituents of animal origin for the control of feed set out in Annex VI to Regulation (EC) No 152/2009.
+
+2\. The competent authority shall verify on a regular basis the competence of laboratories carrying out analyses for such official controls, in particular by evaluating the results of inter-proficiency tests.
+
+If the competence is considered unsatisfactory, a retraining of the laboratory staff shall be undertaken by the laboratory as the minimal corrective measure, prior to carrying out further analyses.
+
+**SECTION G**
+
+**Accompanying document and labelling of processed animal protein derived from farmed insects, porcine animals or poultry, and compound feed containing such processed animal protein**
+
+1\. The commercial document or, as appropriate, the health certificate accompanying the processed animal protein derived from farmed insects, porcine animals or poultry in accordance with Article 21(2) of Regulation (EC) No 1069/2009, and the label of that processed animal protein derived from farmed insects, porcine animals or poultry shall be clearly marked with the following words: ‘Processed animal protein derived from … [please insert relevant farmed animals from which the processed animal protein is derived listed in the first column of Table 1] – shall not be used in feed for farmed animals except … [please insert corresponding farmed animals to which the processed animal protein may be fed listed in the second column of Table 1]’;
+
+2\. The following words shall be clearly indicated on the label of compound feed containing processed animal protein derived from farmed insects, porcine animals or poultry: ‘contains processed animal protein derived from … [please insert relevant farmed animals from which the processed animal protein is derived listed in the first column of Table 1] – shall not be fed to farmed animals except … [please insert corresponding farmed animals to which the processed animal protein may be fed listed in the second column of Table 1]’;
+
+**Table 1**
+
+| Farmed animals from which the processed animal protein is derived | Farmed animals to which the processed animal protein may be fed |
+| --- | --- |
+| Farmed insects | Aquaculture animals, fur animals, porcine animals, poultry |
+| Porcine animals | Aquaculture animals, fur animals, poultry |
+| Poultry | Aquaculture animals, fur animals, porcine animals |
+| Farmed insects and porcine animals | Aquaculture animals, fur animals, poultry |
+| Farmed insects and poultry | Aquaculture animals, fur animals, porcine animals |
+| Porcine animals and poultry | Aquaculture animals, fur animals |
+| Farmed insects, porcine animals and poultry | Aquaculture animals, fur animals |
+
+## ANNEX V
+
+**SPECIFIED RISK MATERIAL**
+
+**1\. Definition of specified risk material**
+
+The following tissues shall be designated as specified risk material if they come from animals whose origin is in a Member State or third country or of one of their region with a controlled or undetermined BSE risk:
+
+(a) as regards bovine animals:
+
+(i) the skull excluding the mandible and including the brain and eyes, and the spinal cord of animals aged over 12 months;
+
+(ii) the vertebral column excluding the vertebrae of the tail, the spinous and transverse processes of the cervical, thoracic and lumbar vertebrae and the median sacral crest and wings of the sacrum, but including the dorsal root ganglia, of animals aged over 30 months; and
+
+(iii) the tonsils, the last four meters of the small intestine, the caecum and the mesentery of animals of all ages.
+
+(b) as regards ovine and caprine animals: the skull, including the brain and eyes, and the spinal cord of animals aged over 12 months or which have a permanent incisor erupted through the gum.
+
+**2\. Specific requirements for Member States with negligible BSE risk status**
+
+Tissues listed in point 1.(a)(i) and 1.(b), which are derived from animals whose origin is in Member States with a negligible BSE risk, shall be considered as specified risk material.
+
+**3\. Marking and disposal**
+
+Specified risk material shall be stained with a dye or, as appropriate, otherwise marked, immediately on removal, and disposed of in accordance with the rules laid down in Regulation (EC) No 1069/2009, and in particular in Article 12 thereof.
+
+**4\. Removal of specified risk material**
+
+4.1. Specified risk material shall be removed at:
+
+(a) slaughterhouses, or, as appropriate, other places of slaughter;
+
+(b) cutting plants, in the case of vertebral column of bovine animals;
+
+(c) where appropriate, in approved establishments or plants referred to in Article 24(1)(h) of Regulation (EC) No 1069/2009.
+
+4.2. By way of derogation from point 4.1, the use of an alternative test to the removal of specified risk material, referred to in Article 8(2), may be authorised in accordance with the procedure referred to in Article 24(3) of this Regulation, provided that that alternative test is listed in Annex X, in accordance with the following conditions:
+
+(a) the alternative tests must be carried out in slaughterhouses on all animals eligible for the removal of specified risk material;
+
+(b) no bovine, ovine or caprine product intended for human consumption or animal feed may leave the slaughterhouse before the competent authority has received and accepted the results of the alternative tests on all slaughtered animals potentially contaminated if BSE has been confirmed in one of them;
+
+(c) when an alternative test gives a positive result, all bovine, ovine and caprine material which has been potentially contaminated in the slaughterhouse must be destroyed in accordance with point 3, unless all parts of the body including the hide of the affected animal can be identified and kept separate.
+
+4.3. By way of derogation from point 4.1, Member States may decide to allow:
+
+(a) the removal of the spinal cord of ovine and caprine animals in cutting plants specifically authorised for that purpose;
+
+(b) the removal of the vertebral column of bovine animals from carcasses or parts of carcasses in butcher shops specifically authorised, monitored and registered for that purpose;
+
+(c) the harvesting of head meat from bovine animals in cutting plants specifically authorised for that purpose in accordance with point 9.
+
+4.4. The rules on the removal of specified risk material set out in this Chapter shall not apply to Category 1 material used in accordance with Article 18(2)(a) of Regulation (EC) No 1069/2009 for feeding to zoo animals, as well as to Category 1 material used in accordance with Article 18(2)(b) of that Regulation for feeding to endangered or protected species of necrophagous birds and other species living in their natural habitat, for the promotion of biodiversity.
+
+**5\. Measures concerning mechanically separated meat**
+
+Notwithstanding the individual decisions referred to in Article 5(2), and by way of derogation from Article 9(3), it shall be prohibited in all Member States to use bones or bone-in cuts of bovine, ovine and caprine animals for the production of mechanically separated meat.
+
+**6\. Measures concerning laceration of tissues**
+
+In addition to the prohibition laid down in Article 8(3) against the use, in Member States, or regions thereof, with a controlled or undetermined BSE risk, of laceration, after stunning, of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injection into the cranial cavity, in bovine, ovine or caprine animals whose meat is intended for human or animal consumption, that prohibition shall also be applicable in Member States with a negligible BSE risk.
+
+**7\. Harvesting of tongues from bovine animals**
+
+The tongues of bovine animals of all ages intended for human or animal consumption shall be harvested at the slaughterhouse by a transverse cut rostral to the lingual process of the basihyoid bone, except for tongues of bovine animals whose origin is in Member States with a negligible BSE risk.
+
+**8\. Harvesting of bovine head meat**
+
+8.1. Head meat of bovine animals above 12 months of age shall be harvested at slaughterhouses, in accordance with a control system, recognised by the competent authority, to ensure the prevention of possible contamination of head meat with central nervous system tissue. The system shall include at least the following provisions:
+
+(a) harvesting shall take place in a dedicated area, physically separated from the other parts of the slaughterline;
+
+(b) where the heads are removed from the conveyor or hooks before harvesting the head meat, the frontal shot hole and foramen magnum shall be sealed with an impermeable and durable stopper. Where the brainstem is sampled for laboratory testing for BSE, the foramen magnum shall be sealed immediately after that sampling;
+
+(c) head meat shall not be harvested from heads where the eyes are damaged or lost immediately prior to, or after slaughter, or which are otherwise damaged in a way which might result in contamination of the head with central nervous tissue;
+
+(d) head meat shall not be harvested from heads which have not been properly sealed in accordance with the second indent;
+
+(e) without prejudice to general rules on hygiene, specific working instructions shall be in place to prevent contamination of the head meat during the harvesting, in particular in the case when the seal referred to in the second indent is lost or the eyes damaged during the activity:
+
+(f) a sampling plan using an appropriate laboratory test to detect central nervous system tissue shall be in place to verify that the measures to reduce contamination are properly implemented.
+
+8.2. By way of derogation from the requirements of point 8.1, Member States may decide to apply at the slaughterhouse an alternative control system for the harvesting of bovine head meat, leading to an equivalent reduction in the level of contamination of head meat with central nervous system tissue. A sampling plan using an appropriate laboratory test to detect central nervous system tissue shall be in place to verify that the measures to reduce contamination are properly implemented. Member States using this derogation shall inform the Commission and the other Member States in the framework of the Standing Committee of the Food Chain and Animal Health of their control system and the results of the sampling.
+
+8.3. If the harvesting is performed without removing the bovine head from the conveyor or hooks, points 8.1 and 8.2 shall not apply.
+
+**9\. Harvesting of bovine head meat in authorised cutting plants**
+
+By way of derogation from point 8, Member States may decide to allow the harvesting of head meat from bovine in cutting plants specifically authorised for this purpose and provided that the following conditions are complied with:
+
+(a) the heads intended for transport to the cutting plant shall be suspended on a rack during the storing period and the transport from the slaughterhouse to the cutting plant;
+
+(b) the frontal shot hole and the foramen magnum shall be properly sealed with an impermeable and durable stopper before being moved from the conveyor or hooks to the racks. Where the brainstem is sampled for laboratory testing for BSE, the foramen magnum shall be sealed immediately after that sampling;
+
+(c) the heads which have not been properly sealed in accordance with point (b), where the eyes are damaged or lost immediately prior to or after slaughter or which were otherwise damaged in a way which might result in contamination of the head meat with central nervous tissue shall be excluded from transport to the specifically authorised cutting plants;
+
+(d) a sampling plan for the slaughterhouse using an appropriate laboratory test to detect central nervous system tissue shall be in place to verify the proper implementation of the measures to reduce contamination;
+
+(e) the harvesting of head meat shall be carried out in accordance with a control system, recognized by the competent authority, to ensure the prevention of possible contamination of head meat. The system shall include at least:
+
+(i) all heads shall be visually checked for signs of contamination or damage and proper sealing before the harvesting of the head meat begins;
+
+(ii) head meat shall not be harvested from heads which have not been properly sealed, where the eyes are damaged or which were otherwise damaged in a way which might result in contamination of the head meat with central nervous tissue. Head meat shall also not be harvested from any head where contamination from such heads is suspected;
+
+(iii) without prejudice to general rules on hygiene, specific working instructions shall be in place to prevent contamination of the head meat during transport and harvesting, in particular where the seal is lost or the eyes damaged during the activity;
+
+(f) a sampling plan for the cutting plant using an appropriate laboratory test to detect central nervous system tissue shall be in place to verify that the measures to reduce contamination are properly implemented.
+
+**10\. Rules on trade and export**
+
+10.1. Member States may allow dispatch of heads or of un-split carcasses containing specified risk material to another Member State only after that Member State has agreed to receive the material and has approved the conditions of dispatch and transport.
+
+10.2. By way of derogation from point 10.1, carcasses, half carcasses or half carcasses cut into no more than three wholesale cuts, and quarters containing no specified risk material other than the vertebral column, including dorsal root ganglia, may be dispatched from one Member State to another without the latter's prior agreement.
+
+10.3. Exports outside the Community of heads and of fresh meat of bovine, ovine or caprine animals containing specified risk materials shall be prohibited.
+
+**11\. Controls**
+
+11.1. Member States shall carry out frequent official controls to verify the correct application of this Annex and shall ensure that measures are taken to avoid any contamination, particularly in slaughterhouses, cutting plants or other places where specified risk material is removed, such as butcher shops or establishments referred in point 4.1(c).
+
+11.2. Member States shall in particular set up a system to ensure and check that specified risk material is handled and disposed of in accordance with this Regulation and Regulation (EC) No 1069/2009.
+
+11.3. A control system shall be put in place for the removal of the vertebral column as specified in point 1(a). That control system shall include at least the following measures:
+
+(a) Until 30 June 2017, when removal of the vertebral column is not required, carcasses or wholesale cuts of carcasses of bovine animals containing vertebral column shall be identified by a clearly visible blue stripe on the label referred to in Article 13 of Regulation (EC) No 1760/2000.
+
+From 1 July 2017, when the removal of the vertebral column is required, carcasses or wholesale cuts of carcasses of bovine animals containing vertebral column shall be identified by a clearly visible red stripe on the label referred to in Article 13 of Regulation (EC) No 1760/2000.
+
+(b) Where applicable, specific information on the number of bovine carcasses or wholesale cuts of carcasses, from which the removal of the vertebral column is required, shall be added on the commercial document relating to consignments of meat. Where applicable, that specific information shall be added to the Common Veterinary Entry Document (CVED) referred to in Article 2(1) of Commission Regulation (EC) No 136/2004 ( 28 ) in the case of imports.
+
+(c) Butcher shops shall keep, for at least one year, the commercial documents referred to in (b).
+
+## ANNEX VI — PRODUCTS OF ANIMAL ORIGIN DERIVED FROM OR CONTAINING RUMINANT MATERIAL, AS REFERRED TO IN ARTICLE 9(1)
+
+## ANNEX VII
+
+**CONTROL AND ERADICATION OF TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES**
+
+**CHAPTER A**
+
+**Measures following the suspicion of the presence of a TSE in ovine and caprine animals**
+
+If a TSE is suspected in an ovine or caprine animal on a holding in a Member State and until the results of the confirmatory examinations are available, all other ovine and caprine animals on that holding shall be placed under an official movement restriction.
+
+If there is evidence that the holding where the animal was present when the TSE was suspected is unlikely to be the holding where the animal could have been exposed to the TSE, the Member State may decide that other holdings or only the holding of exposure shall be placed under official control, depending on the epidemiological information available.
+
+The milk and the milk products derived from the ovine and caprine animals of a holding placed under official control, which are present on that holding from the date when the presence of the TSE is suspected until the results of the confirmatory examinations are available, shall only be used within that holding.
+
+**CHAPTER B**
+
+**Measures following confirmation of the presence of a TSE in bovine, ovine and caprine animals**
+
+1\. The inquiry referred to in Article 13(1)(b) must identify:
+
+(a) in the case of bovine animals:
+
+— all other ruminants on the holding of the animal in which the disease was confirmed,
+
+— where the disease was confirmed in a female animal, its progeny born within a period of two years prior to, or after, the clinical onset of the disease,
+
+— all animals of the cohort of the animal in which the disease was confirmed,
+
+— the possible origin of the disease,
+
+— other animals on the holding of the animal in which the disease was confirmed or on other holdings which may have become infected by the TSE agent or been exposed to the same feed or contamination source,
+
+— the movement of potentially contaminated feedingstuffs, of other material or any other means of transmission, which may have transmitted the TSE agent to or from the holding in question;
+
+(b) in the case of ovine and caprine animals:
+
+— all ruminants other than ovine and caprine animals on the holding of the animal in which the disease was confirmed,
+
+— insofar as they are identifiable, the parents, and in the case of females all embryos, ova and the last progeny of the female animal in which the disease was confirmed,
+
+— all other ovine and caprine animals on the holding of the animal in which the disease was confirmed in addition to those referred to in the second indent,
+
+— the possible origin of the disease and the identification of other holdings on which there are animals, embryos or ova which may have become infected by the TSE agent or been exposed to the same feed or contamination source,
+
+— the movement of potentially contaminated feedingstuffs, other material or any other means of transmission, which may have transmitted the TSE agent to or from the holding in question.
+
+2\. The measures laid down in Article 13(1)(c) shall comprise at least the following:
+
+2.1. In the case of confirmation of BSE in a bovine animal, the killing and complete destruction of bovine animals identified by the inquiry referred to in the second and third indents of point 1(a); however, the Member State may decide:
+
+— not to kill and destroy animals of the cohort referred to in the third indent of point 1(a) if evidence has been provided that such animals did not have access to the same feed as the affected animal,
+
+— to defer the killing and destruction of animals of the cohort referred to in the third indent of point 1(a) until the end of their productive life, provided that they are bulls continuously kept at a semen collection centre and it can be ensured that they are completely destroyed following death.
+
+2.2. In the case of confirmation of TSE in an ovine or caprine animal:
+
+2.2.1. In cases where BSE cannot be excluded
+
+If BSE cannot be excluded after the results of the secondary molecular testing carried out in accordance with the methods and protocols set out in Annex X, Chapter C, point 3.2(c) (ii), the killing and complete destruction, without delay, of all animals, embryos and ova identified by the inquiry referred to in the second to fifth indents of point 1(b).
+
+The animals over 18 months of age killed for destruction shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, as laid down in Annex III, Chapter A, Part II, point 5.
+
+The prion protein genotype of all ovine animals, up to a maximum of 50, shall be determined.
+
+The milk and the milk products derived from the animals to be destroyed, which were present on the holding between the date of confirmation that BSE cannot be excluded and the date of complete destruction of the animals, shall be disposed of in accordance with Article 12 of Regulation (EC) No 1069/2009 of the European Parliament and of the Council ( 29 ).
+
+Following the killing and complete destruction of all animals, the conditions set out in point 3 shall apply to the holding.
+
+2.2.2. In cases where BSE and atypical scrapie can be excluded
+
+If BSE and atypical scrapie are excluded in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, the holding shall be subject to the conditions set out in point (a). In addition, pursuant to the decision of the Member State responsible for the holding, the holding shall be subject to the conditions of either option 1 set out in point (b), or option 2 set out in point (c), or option 3 set out in point (d). In case of a holding with a mixed ovine and caprine flock, the Member State responsible for the holding may decide to apply the conditions of one of the options to the ovine animals of the holding and a different option to the caprine animals of the holding:
+
+(a) The milk and milk products derived from the animals to be destroyed or slaughtered and which were present on the holding between the date of confirmation of the case of TSE and the date of the completion of the measures to be applied in the holding as laid down in point (b) and (c), or derived from the infected flock/herd until all the restrictions laid down in point (d) and point 4 are lifted, shall not be used for the feeding of ruminants, except for the feeding of ruminants within that holding.
+
+The placing on the market of such milk and milk products as feed for non-ruminants shall be limited to the territory of the Member State responsible for the holding.
+
+The commercial document accompanying consignments of such milk and milk products and any packaging containing such consignments shall be clearly marked with the words: ‘shall not be fed to ruminants’.
+
+The use and the storage of feedingstuffs containing such milk and milk products shall be prohibited on holdings where ruminants are kept.
+
+Bulk feedingstuffs containing such milk and milk products shall be transported by means of vehicles which do not transport feedingstuffs for ruminants at the same time.
+
+If those vehicles are subsequently used for the transport of feedingstuffs intended for ruminants, they shall be thoroughly cleaned in order to avoid cross- contamination, in accordance with a procedure approved by the Member State responsible for the holding.
+
+(b) Option 1 — killing and complete destruction of all animals
+
+The killing and complete destruction, without delay, of all animals, embryos and ova identified by the inquiry referred to in the second and third indents of point 1(b).
+
+The animals over 18 months of age killed for destruction shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, as laid down in Annex III, Chapter A, Part II, point 5.
+
+The prion protein genotype of all ovine animals, up to a maximum of 50, shall be determined.
+
+By way of derogation from the conditions set out in the first paragraph of option 1, Member States may decide instead to carry out the measures listed in (i) or (ii):
+
+(i) to replace the killing and complete destruction of all animals, without delay, by their slaughtering for human consumption, without delay, provided that:
+
+— the animals are slaughtered for human consumption within the territory of the Member State responsible for the holding;
+
+— all animals which are over 18 months of age slaughtered for human consumption shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2.
+
+(ii) to exempt the lambs and kids less than three months old from killing and complete destruction without delay, provided that they are slaughtered for human consumption not later than when they are three months of age.
+
+Movement of animals mentioned in points (i) and (ii) from the holding to the slaughterhouse shall be allowed.
+
+Following the killing and complete destruction or slaughtering for human consumption of all animals the conditions set out in point 3 shall apply to the holding where it has been decided to apply option 1.
+
+(c) Option 2 – killing and complete destruction of the susceptible animals only
+
+The prion protein genotyping of all ovine and caprine animals present in the holding, except lambs and kids less than three months old provided that they are slaughtered for human consumption not later than when they are three months of age.
+
+Killing and complete destruction, without delay, of all ovine and/or caprine animals, embryos and ova identified by the inquiry referred to in the second and third indents of point 1(b), with the exception of:
+
+— breeding rams of the ARR/ARR genotype,
+
+— breeding ewes carrying at least one ARR allele and no VRQ allele and, where such breeding ewes are pregnant at the time of the inquiry, the lambs subsequently born, if their genotype meets the requirements of this subparagraph,
+
+— ovine animals carrying at least one ARR allele which are intended solely for human consumption,
+
+— caprine animals carrying at least one of the following alleles: K222, D146 and S146,
+
+— if the Member State responsible for the holding so decides, lambs and kids less than three months old provided that they are slaughtered for human consumption not later than when they are three months of age.
+
+The animals over 18 months of age killed for destruction, shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, as laid down in Annex III, Chapter A, Part II, point 5.
+
+By way of derogation from the conditions set out in the first and second paragraph of option 2, Member States may decide instead to carry out the measures listed in (i), (ii) or (iii):
+
+(i) to replace the killing and complete destruction of the animals referred to in the second paragraph of option 2 by their slaughtering for human consumption, provided that:
+
+— the animals are slaughtered for human consumption within the territory of the Member State responsible for the holding,
+
+— all animals over 18 months of age slaughtered for human consumption shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2;
+
+(ii) to delay the genotyping and subsequent killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, for a period not exceeding three months. This derogation can be applied in situations where the index case is confirmed close to the commencement of the lambing and/or kidding season, provided that the ewes and/or goats and their new-born are kept isolated from ovine and/or caprine animals of other holdings during the whole period;
+
+(iii) to delay the killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2 for a maximum period of three years from the date of confirmation of the index case, in ovine or caprine flocks and holdings where ovine and caprine animals are kept together. The application of the derogation set out in the present paragraph shall be limited to cases where the Member State responsible for the holding considers that the epidemiological situation cannot be handled without killing the relevant animals, but that this cannot be carried out immediately due to the low level of resistance in the ovine and caprine population of the holding, coupled with other considerations, including economic factors. Breeding rams other than those of the ARR/ARR genotype shall be killed or castrated without delay. All possible measures to quickly build up genetic resistance in the ovine and/or caprine population of the holding shall be implemented, including reasoned breeding and culling of ewes to increase the frequency of the ARR allele and eliminate the VRQ allele, and the breeding of bucks carrying the K222, D146 or S146 alleles. The Member State responsible for the holding shall ensure that the number of animals to be killed at the end of the period of delay is not greater than immediately after the index case was confirmed. In the case of the application of the derogation set out in the present paragraph, the measures set out in point 4 shall apply to the holding until the complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, after which the restrictions laid down in point 3 shall be applicable.
+
+Following the killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, the conditions set out in point 3 shall apply to the holding.
+
+(d) Option 3 – no mandatory killing and complete destruction of animals
+
+A Member State may decide not to kill and completely destroy the animals identified by the inquiry referred to in the second and third indents of point 1(b) where the criteria laid down in at least one of the following four indents are met:
+
+— it is difficult to obtain replacement male ovine animals of the ARR/ARR genotype and female ovine animals carrying at least one ARR allele and no VRQ allele, or caprine animals carrying at least one of the following alleles: K222, D146 and S146,
+
+— the frequency of the ARR allele within the ovine breed or holding or the K222, D146 or S146 alleles within the caprine breed or holding is low,
+
+— it is deemed necessary in order to avoid inbreeding,
+
+— it is deemed necessary by the Member State based on a reasoned consideration of all the epidemiological factors.
+
+The prion protein genotype of all ovine and caprine animals, up to a maximum of 50 of each species, shall be determined within a period of three months from the date of confirmation of the index case of classical scrapie.
+
+When additional classical scrapie cases are detected in a holding where option 3 is being applied, the relevance of the reasons and criteria founding the decision to apply option 3 to this holding shall be reassessed by the Member State. If it is concluded that applying option 3 does not ensure a proper control of the outbreak, the Member State shall switch the management of this holding from option 3 to either option 1 or option 2 as laid down in points (b) and (c).
+
+The conditions set out in point 4 shall immediately apply to a holding where it has been decided to apply option 3.
+
+The Member States allowing recourse to option 3 in the management of classical scrapie outbreaks shall keep records of the reasons and criteria founding each individual application decision.
+
+2.3. If an animal infected with TSE has been introduced from another holding:
+
+(a) a Member State may decide, based on the history of the infected animal, to apply eradication measures in the holding of origin in addition to, or instead of, the holding in which the infection was confirmed;
+
+(b) in the case of land used for common grazing by more than one flock or herd, Member States may decide to limit the application of eradication measures to a single flock or herd, based on a reasoned consideration of all the epidemiological factors;
+
+(c) where more than one flock or herd is kept on a single holding, Member States may decide to limit the application of the eradication measures to the flock or herd in which the TSE has been confirmed, provided it has been verified that the flocks or herds have been kept isolated from each other and that the spread of infection between the flocks or herds through either direct or indirect contact is unlikely.
+
+3\. Following the killing and complete destruction or slaughtering for human consumption of all animals identified in a holding in accordance with point 2.2.1, point 2.2.2(b) or point 2.2.2(c), the following restrictions shall apply:
+
+3.1. The holding shall be subject to an intensified TSE monitoring protocol. This shall include the testing for the presence of TSE in animals over the age of 18 months, which have died or have been killed in the holding but not in the framework of a disease eradication campaign. Ovine animals of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles are exempt. Testing shall be carried out in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2.
+
+3.2. Only the following animals may be introduced to the holding:
+
+— male ovine animals of the ARR/ARR genotype,
+
+— female ovine animals carrying at least one ARR allele and no VRQ allele,
+
+— caprine animals provided that a cleaning and disinfection of all animal housing on the premises has been carried out following destocking.
+
+3.3. Only the following breeding rams, breeding bucks and ovine and caprine germinal products may be used in the holding:
+
+— male ovine animals of the ARR/ARR genotype,
+
+— semen from rams of the ARR/ARR genotype,
+
+— embryos carrying at least one ARR allele and no VRQ allele,
+
+— breeding bucks and caprine germinal products as defined in the measures decided by the Member State to build up genetic resistance in the caprine population of the holding.
+
+3.4. Movements of animals from the holding shall either be allowed for the purposes of destruction or shall be subject to the following conditions:
+
+(a) the following animals may be moved from the holding for all purposes, including breeding:
+
+— ARR/ARR ovine animals,
+
+— ewes carrying one ARR allele and no VRQ allele, provided that they are moved to other holdings which are restricted following the application of measures in accordance with points 2.2.2(b) (option 1), 2.2.2(c) (option 2), or 2.2.2(d) (option 3),
+
+— caprine animals carrying at least one of the following alleles: K222, D146 and S146,
+
+— caprine animals provided that they are moved to other holdings which are restricted following the application of measures in accordance with points 2.2.2(b) (option 1), 2.2.2(c) (option 2) or 2.2.2(d) (option 3);
+
+(b) the following animals may be moved from the holding to go directly for slaughter for human consumption:
+
+— ovine animals carrying at least one ARR allele,
+
+— caprine animals,
+
+— if the Member State so decides, lambs and kids less than three months old on the date of slaughter,
+
+— all animals when the Member State has decided to apply the derogations laid down in points 2.2.2(b)(i) and 2.2.2(c)(i);
+
+(c) if the Member State so decides, lambs and kids may be moved to one other holding located within its territory solely for the purposes of fattening prior to slaughter subject to compliance with the following conditions:
+
+— the holding of destination does not contain any ovine or caprine animals other than those being fattened prior to slaughter,
+
+— at the end of the fattening period, the lambs and kids originating from the holdings subject to the eradication measures shall be transported directly to a slaughterhouse located within the territory of the same Member State to be slaughtered not later than when they are 12 months of age.
+
+3.5. The restrictions set out in points 3.1 to 3.4 shall continue to apply to the holding:
+
+(a) until the date of attainment of ARR/ARR status by all ovine animals in the holding, provided that no caprine animals are kept on the holding; or
+
+(b) until the date all caprine animals on the holding carry at least one of the K222, D146 or S146 alleles, provided that no ovine animals are kept on the holding; or
+
+(c) until the date of attainment of ARR/ARR status by all ovine animals on the holding and all caprine animals on the holding carry at least one of the K222, D146 or S146 alleles; or
+
+(d) for a period of two years from the date when all the measures referred to in point 2.2.1, point 2.2.2(b), or point 2.2.2(c) have been completed, provided that no TSE case other than atypical scrapie is detected during this two-year period.
+
+4\. Following the decision to implement option 3 laid down in point 2.2.2(d) or the derogation provided for in point 2.2.2(c)(iii) the following measures shall immediately apply to the holding:
+
+4.1. The holding shall be subject to an intensified TSE monitoring protocol. This shall include the testing for the presence of TSE in animals over the age of 18 months which:
+
+— have been slaughtered for human consumption,
+
+— have died or been killed on the holding but not in the framework of a disease eradication campaign.
+
+Ovine animals of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles are exempt. Testing shall be carried out in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2.
+
+4.2. The conditions set out in points 3.2 and 3.3 shall apply.
+
+However, by way of derogation from points 3.2 and 3.3, a Member State may allow the introduction and use in the holding of
+
+— male ovine animals and their semen carrying at least one ARR allele and no VRQ allele including for breeding,
+
+— female ovine animals carrying no VRQ allele,
+
+— embryos carrying no VRQ allele,
+
+subject to compliance with the following conditions:
+
+— the breed of the animal kept on the holding is an endangered breed,
+
+— the breed of the animal kept on the holding is subject to a breeding programme aiming at the preservation of the breed carried out by a breed society as defined in Article 2(5) of Regulation (EU) 2016/1012 or a competent authority in accordance with Article 38 of that Regulation, and
+
+— the frequency of the ARR allele within that breed is low.
+
+4.3. Movement of animals from the holding shall be allowed for the purposes of destruction or to go directly for slaughter for human consumption or shall be subject to the following conditions:
+
+(a) rams and ewes of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles, may be moved from the holding for all purposes, including breeding, provided that they are moved to other holdings which are subject to the application of measures in accordance with points 2.2.2(c) (option 2) or 2.2.2(d) (option 3);
+
+(b) if the Member State so decides, lambs and kids may be moved to one other holding located within its territory solely for the purposes of fattening prior to slaughter subject to compliance with the following conditions:
+
+— the holding of destination does not contain any ovine or caprine animals other than those being fattened prior to slaughter,
+
+— at the end of the fattening period, the lambs and kids shall be transported directly to a slaughterhouse located within the territory of the same Member State to be slaughtered not later than when they are 12 months of age.
+
+4.4. The Member State shall ensure that no semen, embryo and ova are dispatched from the holding.
+
+4.5. Common grazing of all ovine and caprine animals in the holding with ovine and caprine animals of other holdings shall be prohibited during the lambing and/or kidding period.
+
+Outside of the lambing and/or kidding period, common grazing shall be subject to restrictions to be determined by the Member State, based on a reasoned consideration of all the epidemiological factors.
+
+4.6. The restrictions set out in points 4.1 to 4.5 shall apply for a period of two years following the detection of the last TSE case, other than atypical scrapie, on the holdings where option 3 laid down in point 2.2.2(d) has been implemented.
+
+**CHAPTER C**
+
+**Minimum requirements for a breeding programme for resistance to TSEs in ovine animals in accordance with article 6A**
+
+**PART 1**
+
+**General requirements**
+
+1\. The breeding programme shall concentrate on flocks of high genetic merit, as defined in point 3 of Annex I of Commission Decision 2002/1003/EC.
+
+However, Member States where a breeding programme is in place may decide to allow sampling and genotyping of breeding rams only, in flocks not participating in the breeding programme.
+
+2\. A database shall be established containing at least the following information:
+
+(a) the identity, breed and number of animals in all flocks participating in the breeding programme;
+
+(b) the identification of the individual animals sampled under the breeding programme, including breeding rams sampled in flocks not participating in the breeding programme;
+
+(c) the results of any genotyping tests.
+
+3\. A system of uniform certification shall be established in which the genotype of each animal sampled under the breeding programme, including breeding rams sampled in flocks not participating in the breeding programme, is certified by reference to its individual identification number.
+
+4\. A system for the identification of animals and samples, the processing of samples and the delivery of results shall be established which minimises the possibility of human error. The effectiveness of that system shall be subject to regular random checking.
+
+5\. Genotyping of blood or other tissues collected for the purposes of the breeding programme, including from breeding rams sampled in flocks not participating in the breeding programme, shall be carried out in laboratories that have been approved under the breeding programme.
+
+6\. The competent authority of the Member State may assist breed societies, to establish genetic banks consisting of semen, ova and embryos representative of prion protein genotypes which are likely to become rare as a result of the breeding programme.
+
+7\. Breeding programmes shall be drawn up for each breed, taking account of:
+
+(a) frequencies of the different alleles within the breed;
+
+(b) rarity of the breed;
+
+(c) avoidance of inbreeding or genetic drift.
+
+8\. Where the Member State allows, in accordance with the second paragraph of point 1, the sampling and genotyping of breeding rams in flocks not participating in the breeding programme, the prion protein genotype for the codons 136, 141, 154 and 171 shall be determined for a minimum sample representative of the entire ovine population of the Member State, either:
+
+(a) once every 3 years with a minimum sample of at least 1 560 ovine animals; or
+
+(b) at a frequency and with a sample size determined by the Member State based on compliance with the following criteria:
+
+(i) the sampling design takes into account relevant epidemiological data collected during previous surveys, including data concerning the prion protein genotype of sheep for the codons 136, 141, 154 and 171 by breed, region, age, sex and flock type;
+
+(ii) the sampling design allows at a minimum to detect a change of 5 % in genotype prevalence over a 3-year period, with a 80 % power and 95 % confidence level.
+
+**PART 2**
+
+**Specific rules for participating flocks**
+
+1\. The breeding programme shall be aimed at increasing the frequency of the ARR allele within the flock, while reducing the prevalence of those alleles which have been shown to contribute to susceptibility to TSEs.
+
+2\. The minimum requirements for participating flocks shall be the following:
+
+(a) all animals in the flock that are to be genotyped shall be individually identified using secure means;
+
+(b) all rams intended for breeding within the flock shall be genotyped before being used for breeding;
+
+(c) any male animal carrying the VRQ allele shall be slaughtered or castrated, within six months following the determination of its genotype; any such animal shall not leave the holding except for slaughter;
+
+(d) female animals that are known to carry the VRQ allele shall not leave the holding except for slaughter;
+
+(e) male animals, including semen donors used for artificial insemination, other than those certified under the breeding programme, shall not be used for breeding within the flock.
+
+3\. Member States may decide to grant derogations from the requirements set out in point 2(c) and (d) for the purposes of the protection of breeds and production traits.
+
+4\. Member States shall inform the Commission of any derogation granted under point 3 and of the criteria used.
+
+**PART 3**
+
+**Specific rules for breeding rams sampled in flocks not participating in the breeding programme**
+
+1\. Rams to be sampled shall be individually identified using secure means.
+
+2\. Any ram found to carry the VRQ allele shall not leave the holding except for slaughter.
+
+**PART 4**
+
+**The framework for the recognition of the TSE-resistant status of flocks of ovine animals**
+
+1\. The framework for the recognition of the TSE-resistant status of flocks of ovine animals shall recognise the TSE-resistant status of flocks of ovine animals that as a result of participation in the breeding programme as provided for in Article 6a, satisfy the criteria required in that programme.
+
+That recognition shall be granted on at least the following two levels:
+
+(a) level I flocks shall be flocks composed entirely of ovine animals of the ARR/ARR genotype;
+
+(b) level II flocks shall be flocks whose progeny have been sired exclusively by rams of the ARR/ARR genotype.
+
+Member States may decide to grant recognition on further levels to suit national requirements.
+
+2\. Regular random sampling of ovine animals from TSE-resistant flocks shall be carried out:
+
+(a) on the holding or at the slaughterhouse to verify their genotype;
+
+(b) in the case of level I flocks, in animals over 18 months of age at the slaughterhouse, for TSE testing in accordance with Annex III.
+
+**PART 5**
+
+**Reports to be provided to the Commission by the Member States**
+
+Member States introducing national breeding programmes to select for resistance to TSE in their ovine populations shall:
+
+1\. notify to the Commission the requirements for such programmes;
+
+2\. submit to the Commission a report when changes are made to such programmes.
+
+## ANNEX VIII — PLACING ON THE MARKET AND EXPORT
+
+**CHAPTER A**
+
+**Conditions for intra-Union trade in live animals, semen and embryos**
+
+**SECTION A**
+
+**Conditions which apply to ovine and caprine animals and semen and embryos thereof**
+
+1\. Holdings with a negligible risk of classical scrapie and a controlled risk of classical scrapie:
+
+1.1. For the purpose of intra-Union trade, Member States shall, where applicable, establish and supervise an official scheme for the recognition of holdings with a negligible risk of classical scrapie and holdings with a controlled risk of classical scrapie. Based on that official scheme, they shall, where applicable, establish and maintain lists of holdings of ovine and caprine animals with a negligible risk and holdings with a controlled risk of classical scrapie.
+
+1.2. A holding of ovine animals having the TSE-resistance level I status, as laid down in Annex VII, Chapter C, Part 4, point 1(a), and where no case of classical scrapie has been confirmed for a period of at least the preceding seven years, may be recognised as having a negligible risk of classical scrapie.
+
+A holding of ovine animals, caprine animals, or ovine and caprine animals may also be recognised as having a negligible risk of classical scrapie provided that it has complied with the following conditions for a period of at least the preceding seven years:
+
+(a) ovine and caprine animals are permanently identified and records are maintained, to enable them to be traced back to their holding of birth;
+
+(b) records of movements of ovine and caprine animals in and out of the holding are maintained;
+
+(c) only the following ovine and caprine animals are introduced into the holding:
+
+(i) ovine and caprine animals from holdings with a negligible risk of classical scrapie;
+
+(ii) ovine and caprine animals from holdings which have met the conditions set out in points (a) to (i) for a minimum period of the preceding seven years or for at least the same period of time as the period of time during which the holding, where they are to be introduced, has met the conditions set out in those points;
+
+(iii) ovine animals of the ARR/ARR prion protein genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles;
+
+(iv) ovine or caprine animals that comply with the conditions set out in point (i) or (ii) except during the period when they were kept at a semen collection centre, provided that the semen collection centre complies with the following conditions:
+
+— the semen collection centre is approved in accordance with Part II, Chapter 1, of Commission Delegated Regulation (EU) 2020/686 ( 30 ),
+
+— for a period of the preceding seven years, only those ovine or caprine animals from holdings which have fulfilled during that period the conditions set out in points (a), (b) and (e), and which were subject to regular checks by an official veterinarian or a veterinarian authorised by the competent authority, were introduced into the semen collection centre,
+
+— no case of classical scrapie has been confirmed at the semen collection centre for a period of the preceding seven years,
+
+— biosecurity measures are in place at the semen collection centre to ensure that ovine and caprine animals kept at that centre and coming from holdings with a negligible or a controlled risk status for classical scrapie have no direct or indirect contact with ovine and caprine animals coming from holdings of a lower classical scrapie status;
+
+(d) the holding is subject to regular checks to verify compliance with the conditions set out in points (a) to (i) by an official veterinarian or a veterinarian authorised for that purpose by the competent authority, to be conducted at least on an annual basis;
+
+(e) no case of classical scrapie has been confirmed;
+
+(f) all ovine and caprine animals over 18 months of age that have died or have been killed for reasons other than slaughter for human consumption are tested in a laboratory for classical scrapie in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, point 3.2.
+
+By way of derogation from that specific condition, Member States may decide that all ovine and caprine animals over 18 months of age with no commercial value, culled at the end of their productive life instead of being slaughtered for human consumption, are inspected by an official veterinarian, and all those exhibiting wasting signs or neurological signs are tested in a laboratory for classical scrapie in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, point 3.2;
+
+(g) only the following ova and embryos of animals of the ovine and caprine species are introduced into the holding:
+
+(i) ova and embryos from donor animals which have been kept since birth in a Member State with a negligible risk of classical scrapie, or in a holding with a negligible or a controlled risk of classical scrapie, or which comply with the following requirements:
+
+— they are permanently identified to enable them to be traced back to their holding of birth,
+
+— they have been kept since birth in holdings in which no case of classical scrapie has been confirmed during their residency,
+
+— they showed no clinical sign of classical scrapie at the time of collection of the ova or embryos;
+
+(ii) ova and embryos of animals of the ovine species carrying at least one ARR allele and of animals of the caprine species carrying at least one of the K222, D146 or S146 alleles;
+
+(h) only the following semen of animals of the ovine and caprine species are introduced into the holding:
+
+(i) semen from donor animals which have been kept since birth in a Member State with a negligible risk of classical scrapie, or in a holding with a negligible risk or a controlled risk of classical scrapie, or which comply with the following requirements:
+
+— they are permanently identified to enable them to be traced back to their holding of birth,
+
+— they showed no clinical sign of classical scrapie at the time of semen collection;
+
+(ii) semen from rams of the ARR/ARR prion protein genotype and from bucks carrying at least one of the K222, D146 or S146 alleles;
+
+(i) ovine and caprine animals on the holding have no direct or indirect contact, including shared grazing, with ovine and caprine animals from holdings of a lower classical scrapie status.
+
+1.3. A holding of ovine animals, caprine animals or ovine and caprine animals may be recognised as having a controlled risk of classical scrapie provided that it has complied with the following conditions for a period of at least the preceding three years:
+
+(a) ovine and caprine animals are permanently identified and records are maintained, to enable them to be traced back to their holding of birth;
+
+(b) records of movements of ovine and caprine animals in and out of the holding are maintained;
+
+(c) only the following ovine and caprine animals are introduced into the holding:
+
+(i) ovine and caprine animals from holdings with a negligible or a controlled risk of classical scrapie;
+
+(ii) ovine and caprine animals from holdings which have met the conditions set out in points (a) to (i) for a minimum period of the preceding three years or for at least the same period of time as the period of time during which the holding, where they are to be introduced, has met the conditions set out in those points;
+
+(iii) ovine animals of the ARR/ARR prion protein genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles;
+
+(iv) ovine or caprine animals that comply with the conditions set out in point (i) or (ii) except during the period when they were kept at a semen collection centre, provided that the semen collection centre complies with the following conditions:
+
+— the semen collection centre is approved in accordance with Part II, Chapter 1, of Delegated Regulation (EU) 2020/686,
+
+— for a period of the preceding three years, only those ovine or caprine animals from holdings which have fulfilled during that period the conditions set out in points (a), (b) and (e), and which were subject to regular checks by an official veterinarian or a veterinarian authorised by the competent authority, were introduced into the semen collection centre,
+
+— no case of classical scrapie has been confirmed at the semen collection centre during the period of the preceding three years,
+
+— biosecurity measures are in place at the semen collection centre to ensure that ovine and caprine animals kept at that centre and coming from holdings with a negligible or a controlled risk status for classical scrapie have no direct or indirect contact with ovine and caprine animals coming from holdings of a lower classical scrapie status;
+
+(d) the holding is subject to regular checks to verify compliance with the conditions set out in points (a) to (i) by an official veterinarian or a veterinarian authorised for that purpose by the competent authority, to be conducted at least on an annual basis;
+
+(e) no case of classical scrapie has been confirmed;
+
+(f) all ovine and caprine animals over 18 months of age that have died or have been killed for reasons other than slaughter for human consumption are tested in a laboratory for classical scrapie in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, point 3.2.
+
+By way of derogation from that specific condition, Member States may decide that all the ovine and caprine animals over 18 months of age with no commercial value culled at the end of their productive life instead of being slaughtered for human consumption, are inspected by an official veterinarian, and all those exhibiting wasting signs or neurological signs are tested in a laboratory for classical scrapie in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, point 3.2;
+
+(g) only the following ova and embryos of animals of the ovine and caprine species are introduced into the holding:
+
+(i) ova and embryos from donor animals which have been kept since birth in a Member State with a negligible risk of classical scrapie, or in a holding with a negligible or a controlled risk of classical scrapie, or which comply with the following requirements:
+
+— they are permanently identified to enable them to be traced back to their holding of birth,
+
+— they have been kept since birth in holdings in which no case of classical scrapie has been confirmed during their residency,
+
+— they showed no clinical sign of classical scrapie at the time of collection of the ova or embryos,
+
+(ii) ova and embryos of animals of the ovine species carrying at least one ARR allele and of animals of the caprine species carrying at least one of the K222, D146 or S146 alleles;
+
+(h) only the following semen of animals of the ovine and caprine species are introduced into the holding:
+
+(i) semen from donor animals which have been kept since birth in a Member State with a negligible risk of classical scrapie, or in a holding with a negligible risk or with a controlled risk of classical scrapie, or which comply with the following requirements:
+
+— they are permanently identified to enable them to be traced back to their holding of birth,
+
+— they showed no clinical sign of classical scrapie at the time of semen collection;
+
+(ii) semen from rams of the ARR/ARR prion protein genotype and from bucks carrying at least one of the K222, D146 or S146 alleles;
+
+(i) ovine and caprine animals of the holding have no direct or indirect contact, including shared grazing, with ovine and caprine animals from holdings of a lower classical scrapie status.
+
+1.4. If a case of classical scrapie is confirmed in a holding with a negligible risk or a controlled risk of classical scrapie, or in a holding found to have an epidemiological link to a holding with a negligible risk or a controlled risk of classical scrapie as a result of an inquiry referred to in Part 1 of Chapter B of Annex VII, the holding with a negligible risk or a controlled risk of classical scrapie shall be immediately deleted from the list referred to in point 1.1 of this Section.
+
+The Member State shall immediately inform the other Member States which have introduced ovine and caprine animals originating from, or semen or embryos collected from ovine and caprine animals kept in the infected holding during a period of the preceding seven years in the case of a holding with a negligible risk of classical scrapie or during the period of the preceding three years in the case of a holding with a controlled risk of classical scrapie.
+
+2\. Member States or zones of a Member State with a negligible risk of classical scrapie
+
+2.1. Where a Member State considers that its territory or part of its territory poses a negligible risk of classical scrapie, it shall submit to the Commission appropriate supporting documentation, setting out in particular that:
+
+(a) a risk assessment has been conducted, and it has demonstrated that appropriate measures are currently in place and have been taken for the relevant period of time to manage any risk identified. This risk assessment shall identify all potential factors for classical scrapie occurrence and their historic perspective, in particular the:
+
+(i) importation or introduction of ovine and caprine animals or their semen and embryos potentially infected with classical scrapie;
+
+(ii) extent of knowledge of the population structure and husbandry practices of ovine and caprine animals;
+
+(iii) feeding practices, including consumption of meat-and-bone meal or greaves derived from ruminants;
+
+(iv) importation of milk and milk products of ovine and caprine animals origin intended for use in feeding of ovine and caprine animals;
+
+(b) for a period of at least the preceding seven years, ovine and caprine animals displaying clinical signs compatible with classical scrapie have been tested;
+
+(c) for a period of at least the preceding seven years, a sufficient number of ovine and caprine animals over 18 months of age, representative of ovine and caprine animals slaughtered, that have died or have been killed for reasons other than slaughter for human consumption, have been tested annually, to provide a 95 per cent level of confidence of detecting classical scrapie if it is present in that population at a prevalence rate exceeding 0,1 per cent and no case of classical scrapie has been reported during that period;
+
+(d) the feeding to ovine and caprine animals of meat-and-bone meal or greaves of ruminant origin has been banned and effectively enforced in the whole Member State for a period of at least seven years;
+
+(e) introductions from other Member States of ovine and caprine animals and semen and embryos thereof are carried out in accordance with point 4.1.(b) or point 4.2.;
+
+(f) introductions from third countries of ovine and caprine animals and semen and embryos thereof are carried out in accordance with Chapter E or Chapter H of Annex IX.
+
+2.2. The negligible risk status for classical scrapie of the Member State or of the zone of the Member State may be approved in accordance with the procedure referred to in Article 24(2).
+
+The Member State is to notify the Commission of any change in the information submitted according to point 2.1. relating to the disease.
+
+The negligible risk status approved in accordance with point 2.2. may, in the light of such notification, be withdrawn in accordance with the procedure referred to in Article 24(2).
+
+2.3. The Member States or zone of the Member State with a negligible risk for classical scrapie are the following:
+
+— Austria
+
+— Czechia
+
+— Slovenia
+
+— Finland
+
+— Sweden.
+
+3\. National control programme for classical scrapie:
+
+3.1. a Member State which has a national control programme for classical scrapie covering all of its territory:
+
+(a) may submit its national control programme to the Commission, outlining in particular:
+
+— the distribution of classical scrapie in the Member State,
+
+— the reasons for national control programme, taking into consideration the importance of the disease and the cost/benefit ratio,
+
+— the status categories defined for holdings and the standards which must be attained in each such category,
+
+— the test procedures to be used,
+
+— the national control programme monitoring procedures,
+
+— the action to be taken if, for any reason, a holding loses its status,
+
+— the measures to be taken if the results of checks carried out in accordance with the national control programme programme are positive,
+
+(b) the programme referred to in point (a) may be approved if it complies with the criteria laid down in that point, in accordance with the procedure referred to in Article 24(2); amendments or additions to the programmes submitted by Member States may be approved in accordance with the procedure referred to in Article 24(2).
+
+3.2. The national scrapie control programmes of the following Member States are hereby approved:
+
+— Denmark,
+
+— Slovenia.
+
+4\. Intra-Union trade in ovine and caprine animals and semen and embryos thereof
+
+The following conditions shall apply:
+
+4.1. Ovine and caprine animals:
+
+(a) ovine and caprine animals for breeding destined to Member States other than those with a negligible risk of classical scrapie or with an approved national scrapie control programme shall:
+
+(i) come from a holding or holdings with a negligible risk or a controlled risk of classical scrapie; or
+
+(ii) come from a Member State or zone of a Member State with a negligible risk of classical scrapie; or
+
+(iii) in the case of ovine animals, be of the ARR/ARR prion protein genotype and in the case of caprine animals, carry at least one of the K222, D146 or S146 alleles, provided they do not come from a holding subject to the restrictions set out in Annex VII, Chapter B, points 3 and 4.
+
+(b) ovine and caprine animals for all intended uses except immediate slaughter destined to Member States with a negligible risk of classical scrapie or with an approved national scrapie control programme shall:
+
+(i) come from a holding or holdings with a negligible risk of classical scrapie; or
+
+(ii) come from a Member State or zone of a Member State with a negligible risk of classical scrapie; or
+
+(iii) in the case of ovine animals, be of the ARR/ARR prion protein genotype and in the case of caprine animals, carry at least one of the K222, D146 or S146 alleles, provided they do not come from a holding subject to the restrictions set out in Annex VII, Chapter B, points 3 and 4.
+
+(c) By way of derogation from points (a) and (b), the requirements set out in those points shall not apply to ovine and caprine animals which are kept in and moved exclusively between confined establishments as defined in Article 4, point (48), of Regulation (EU) 2016/429 ( 31 ).
+
+(d) By way of derogation from points (a) and (b), the competent authority of a Member State may authorise intra-Union trade in animals that do not comply with the requirements set out in those points, provided that it has received prior consent from the competent authority of the Member States of destination of those animals, and provided that the animals comply with the following conditions:
+
+(i) the breed of the animals is an endangered breed;
+
+(ii) the animals are entered in a breeding book for that breed in the Member State of dispatch. This breeding book is established and maintained by a breed society, recognised in accordance with Article 4(3) of Regulation (EU) 2016/1012, or by a competent authority of that Member State, in accordance with Article 38 of that Regulation. The animals are also to be entered in a breeding book for that breed in the Member State of destination. This breeding book is also established and maintained by a breed society, recognised in accordance with Article 4(3) of Regulation (EU) 2016/1012, or by a competent authority of that Member State in accordance with Article 38 of that Regulation;
+
+(iii) in the Member State of dispatch and in the Member State of destination, the breed societies or competent authorities referred to in point (ii) carry out a breeding programme aimed at the preservation of that breed;
+
+(iv) the animals do not come from a holding subject to the restrictions set out in Annex VII, Chapter B, points 3 and 4;
+
+(v) following the entry of the animals not fulfilling the requirements set out in points (a) or (b) into the recipient holding in the Member State of destination, the movement of all ovine and caprine animals in that holding shall be restricted in accordance with point 3.4 of Chapter B of Annex VII, for a period of three years. When the Member State of destination has negligible risk of classical scrapie or has an approved national scrapie control programme this restriction shall be maintained for a period of seven years.
+
+By way of derogation from the first paragraph of this point, such restriction on intra-Union trade or to movements of animals within the Member State shall not apply to animals belonging to an endangered breed, which are destined for a holding where this endangered breed is bred. The breed shall be subject to a breeding programme aiming at the preservation of the breed and carried out by a breed society as defined in Article 2(5) of Regulation (EU) 2016/1012 or a competent authority in accordance with Article 38 of that Regulation.
+
+Following the intra-Union trade or domestic movement referred to in the second paragraph of point (v), the movement of all ovine and caprine animals on the holding or holdings receiving animals moved under that derogation shall be restricted in accordance with the first and second paragraphs of point (v).
+
+4.2. Semen and embryos of animals of the ovine and caprine species shall:
+
+(a) be collected from animals which have been kept continuously since birth on a holding or holdings with a negligible risk or a controlled risk of classical scrapie, except where the holding is a semen collection centre, provided that the semen collection centre complies with the conditions set out in point 1.3.(c)(iv); or
+
+(b) be collected from animals which have been kept continuously for the last three years before the collection on a holding or holdings which have complied with all the conditions set out in point 1.3. (a) to (f) for three years, except where the holding is a semen collection centre, provided that the semen collection centre complies with the conditions set out in point 1.3.(c)(iv); or
+
+(c) be collected from animals which have been kept continuously since birth in a country or zone with a negligible risk of classical scrapie; or
+
+(d) in the case of semen of animals of the ovine species, be collected from male animals of the ARR/ARR prion protein genotype and in the case of semen of animals of the caprine species, be collected from male animals carrying at least one of the K222, D146 or S146 alleles; or
+
+(e) in the case of embryos of animals of the ovine species, be carrying at least one ARR allele, in the case of embryos of animals of the caprine species, be carrying at least one of the K222, D146 or S146 alleles.
+
+**SECTION C**
+
+**Conditions which apply to cervids**
+
+1\. List of Member States and areas thereof established in relation to chronic wasting disease
+
+1.1. Member States where cases of chronic wasting disease have been confirmed:
+
+(a) Finland
+
+(b) Sweden
+
+1.2. Areas of Finland and Sweden defined in relation to the risk of chronic wasting disease linked to traditional cross-border movements of live semi-domesticated reindeer to and from Norway:
+
+(a) in Finland: the area located between the Norwegian-Finnish border and the Norwegian-Finnish Reindeer Fence;
+
+(b) in Sweden:
+
+— the county of Norrbotten,
+
+— the county of Västerbotten,
+
+— the county of Jämtland,
+
+— the county of Västernorrland,
+
+— the Älvdalen municipality in the county of Dalarna,
+
+— the municipalities of Nordanstig, Hudiksvall and Söderhamn in the county of Gävleborg.
+
+2\. Movements of live cervids from Norway into the Union
+
+2.1. The movements of live cervids from Norway into the Union shall be prohibited.
+
+2.2. By way of derogation from point 2.1, the following movements of live cervids shall be permitted:
+
+(a) movements from Norway to the areas in Sweden listed in point 1.2(b) of live semi-domesticated reindeer for seasonal grazing, provided that the competent authority of Sweden gives its prior written consent to such movements;
+
+(b) the return from Norway to the areas in Sweden listed in point 1.2(b) of live semi-domesticated reindeer after seasonal grazing in Norway, provided that the competent authority of Sweden gives its prior written consent to such movements;
+
+(c) movements from Norway to the areas in Finland listed in point 1.2(a) of live semi-domesticated reindeer for seasonal grazing;
+
+(d) the return from Norway to Finland of live semi-domesticated reindeer which have grazed in Norway in the area located between the Norwegian-Finnish border and the Norwegian-Finnish Reindeer Fence;
+
+(e) movements from Norway to Sweden or Finland of live cervids for direct slaughter, provided that the competent authority of the Member State of destination gives its prior written consent to such movements;
+
+(f) movements from Norway to the areas in Sweden listed in point 1.2(b) of live semi-domesticated reindeer for sportive or cultural events, provided that the competent authority of Sweden gives its prior written consent to the movement of each consignment;
+
+(g) the return from Norway to the areas in Sweden listed in point 1.2(b) of live semi-domesticated reindeer after having taken part in sportive or cultural events in Norway, provided that the competent authority of Sweden gives its prior written consent to the movement of each consignment;
+
+(h) transit of live cervids from Norway through Sweden or Finland and destined to Norway, provided that the competent authority of the Member State of transit gives its prior written consent.
+
+3\. Movements of live cervids out of the areas of Finland and Sweden with a tradition of cross-border movements with Norway of semi-domesticated reindeer
+
+3.1. The movements of live cervids out of the areas listed in point 1.2 shall be prohibited.
+
+3.2. By way of derogation from point 3.1, the following movements of live cervids out of the areas listed in point 1.2 shall be permitted:
+
+(a) movements of live cervids to Norway, provided that the competent authority of Norway gives its prior written consent to such movements;
+
+(b) movements of live cervids for direct slaughter in Finland or Sweden, provided that the competent authority of destination gives its prior written consent to such movements;
+
+(c) movements from the areas of Sweden listed in point 1.2(b) to Finland of live forest reindeer, provided that the competent authority of Finland gives its prior written consent to such movements;
+
+(d) movements of live cervids from a confined establishment as defined in Article 4(48) of Regulation (EU) 2016/429 of the European Parliament and of the Council ( 32 ) and located in an area listed in point 1.2(b) of this Annex, to a confined establishment, as defined in Article 4(48) of Regulation (EU) 2016/429, in Sweden, provided that the competent authority of Sweden gives its prior written consent to such movements.
+
+4\. Movements of live cervids out of a Member State where chronic wasting disease has been confirmed
+
+4.1. Without prejudice to the provisions laid down in point 3, the movements of live cervids out of a Member State listed in point 1.1 to other Member States shall be prohibited.
+
+4.2. By way of derogation from point 4.1, the following movements of live cervids out of a Member State listed in point 1.1 shall be permitted:
+
+(a) movements of live cervids for direct slaughter in another Member State listed in point 1.1 or Norway;
+
+(b) movements of live cervids for purposes other than direct slaughter to another Member State listed in point 1.1 or Norway, provided that the competent authority of destination gives its prior written consent to such movements;
+
+(c) movements of live cervids from a confined establishment as defined in, Article 4(48) of Regulation (EU) 2016/429 to a confined establishment, as defined in Article 4(48) of Regulation (EU) 2016/429, in another Member State, provided that the competent authority of destination gives its prior written consent to such movements.
+
+**CHAPTER B**
+
+**Conditions relating to progeny of TSE suspect or confirmed animals referred to in Article 15(2)**
+
+It shall be prohibited to place on the market the last-born progeny to which female bovine animals infected with a TSE or BSE-confirmed ovine or caprine animals gave birth during the preceding two-year period or during the period that followed the appearance of the first clinical signs of the onset of the disease.
+
+**CHAPTER C**
+
+**Conditions for intra-Community trade in certain products of animal origin**
+
+**SECTION A**
+
+**Products**
+
+The following products of animal origin are exempt from the prohibition referred to in Article 16(3), provided that they are derived from bovine, ovine and caprine animals that satisfy the requirements of Section B:
+
+— fresh meat,
+
+— minced meat,
+
+— meat preparations,
+
+— meat products.
+
+**SECTION B**
+
+**Requirements**
+
+The products referred to in Section A must satisfy the following requirements:
+
+(a) the animals from which the products of bovine, ovine and caprine animal origin were derived have not been fed meat-and-bone meal or greaves derived from ruminants and passed ante-mortem and post-mortem inspections;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived have not been slaughtered after stunning by means of gas injected into the cranial cavity or killed by the same method or slaughtered by laceration after stunning of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity;
+
+(c) the products of bovine, ovine and caprine animal origin are not derived from:
+
+(i) specified risk material as defined in Annex V;
+
+(ii) nervous and lymphatic tissues exposed during the deboning process; and
+
+(iii) mechanically separated meat obtained from bones of bovine, ovine or caprine animals.
+
+**SECTION C**
+
+**Urine hunting lures from cervids**
+
+1\. The movement into the Union of consignments of urine hunting lures derived from cervids originating in Norway shall be prohibited.
+
+2\. The manufacture, placing on the market and use of urine hunting lures derived from cervids originating in the Member States listed in Chapter A, Section C, point 1.1 shall be prohibited.
+
+**CHAPTER D**
+
+**Conditions applicable to exports**
+
+Live bovine animals and products of animal origin derived therefrom are to be subject — as regards exports to third countries — to the rules laid down in this Regulation for intra-Community trade.
+
+## ANNEX IX
+
+**IMPORTATION INTO THE UNION OF LIVE ANIMALS, EMBRYOS, OVA AND PRODUCTS OF ANIMAL ORIGIN**
+
+**CHAPTER B**
+
+**Imports of bovine animals**
+
+**SECTION A**
+
+**Imports from a country or a region with a negligible BSE risk**
+
+Imports of bovine animals from a country or a region with a negligible BSE risk shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the animals were born and continuously reared in a country or region or countries or regions classified in accordance with Commission Decision 2007/453/EC ( 33 ) as countries or regions posing a negligible BSE risk;
+
+(b) the animals are identified by a permanent identification system enabling them to be traced back to the dam and herd of origin, and are not the following bovine animals:
+
+(i) all BSE cases;
+
+(ii) all bovine animals which, during their first year of life, were reared with the BSE cases during their first year of life, and which investigation showed consumed the same potentially contaminated feed during that period; or
+
+(iii) if the results of the investigation referred to in indent (ii) are inconclusive, all bovine animals born in the same herd as, and within 12 months of the birth of, the BSE cases;
+
+and
+
+(c) if there have been BSE indigenous cases in the country concerned, the animals were born:
+
+(i) after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the OIE Terrestrial Animal Health Code, has been effectively enforced; or
+
+(ii) after the date of birth of the last BSE indigenous case if born after the date of the feed ban referred to in indent (i).
+
+**SECTION B**
+
+**Imports from a country or a region with a controlled BSE risk**
+
+Imports of bovine animals from a country or a region with a controlled BSE risk shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region is classified in accordance with Decision 2007/453/EC as a country or region posing a controlled BSE risk;
+
+(b) the animals are identified by a permanent identification system enabling them to be traced back to the dam and herd of origin, and are not the following bovine animals:
+
+(i) all BSE cases;
+
+(ii) all bovine animals which, during their first year of life, were reared with the BSE cases during their first year of life, and which investigation showed consumed the same potentially contaminated feed during that period; or
+
+(iii) if the results of the investigation referred to in indent (ii) are inconclusive, all bovine animals born in the same herd as, and within 12 months of the birth of, the BSE cases;
+
+(c) the animals were born:
+
+(i) after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the OIE Terrestrial Animal Health Code, has been effectively enforced; or
+
+(ii) after the date of birth of the last BSE indigenous case if born after the date of the feed ban referred to in indent (i).
+
+**SECTION C**
+
+**Imports from a country or a region with undetermined BSE risk**
+
+Imports of bovine animals from a country or a region with an undetermined BSE risk shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region has been categorised in accordance with Decision 2007/453/EC as a country or region with undetermined BSE risk;
+
+(b) the feeding of ruminants with meat-and-bone meal and greaves from ruminants, as defined in the OIE Terrestrial Animal Health Code, has been banned and the ban has been effectively enforced in the country or region;
+
+(c) the animals are identified by a permanent identification system enabling them to be traced back to the dam and herd of origin, and are not the following bovine animals:
+
+(i) all BSE cases;
+
+(ii) all bovine animals which, during their first year of life, were reared with the BSE cases during their first year of life, and which investigation showed consumed the same potentially contaminated feed during that period; or
+
+(iii) if the results of the investigation referred to in indent (ii) are inconclusive, all bovine animals born in the same herd as, and within 12 months of the birth of, the BSE cases;
+
+(d) the animals were born:
+
+(i) at least two years after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the OIE Terrestrial Animal Health Code, has been effectively enforced; or
+
+(ii) after the date of birth of the last BSE indigenous case if born after the date of the feed ban referred to in indent (i).
+
+**CHAPTER C**
+
+**Imports of products of animal origin from bovine, ovine or caprine animals**
+
+**SECTION A**
+
+**Products**
+
+The following products of bovine, ovine and caprine origin, as defined in the following points of Annex I to Regulation (EC) No 853/2004, shall be subject to the conditions set out in Sections B, C or D of this Chapter depending on the BSE risk category of the country of origin:
+
+— fresh meat, as defined in point 1.10 thereof,
+
+— minced meat, as defined in point 1.13 thereof,
+
+— mechanically separated meat, as defined in point 1.14 thereof,
+
+— meat preparations, as defined in point 1.15 thereof,
+
+— meat products, as defined in point 7.1 thereof,
+
+— rendered animal fat, as defined in point 7.5 thereof,
+
+— greaves, as defined in point 7.6 thereof,
+
+— gelatine, as defined in point 7.7 thereof, other than derived from hides and skins,
+
+— collagen, as defined in point 7.8 thereof, other than derived from hides and skins,
+
+— treated stomachs, bladders and intestines, as defined in point 7.9 thereof.
+
+**SECTION B**
+
+**Imports from a country or a region with a negligible BSE risk**
+
+Imports of products of bovine, ovine and caprine animal origin referred to in Section A from a country or a region with a negligible BSE risk shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region is classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived passed ante mortem and post mortem inspections;
+
+(c) the products of bovine, ovine and caprine animal origin do not contain and are not derived from specified risk material as defined in point 1 of Annex V to this Regulation;
+
+(d) if the animals, from which the products of bovine animal origin were derived, originate from a country or region classified in accordance with Decision 2007/453/EC as a country or region posing a controlled or an undetermined BSE risk, by way of derogation from point (c) of this Section, carcasses, half carcasses or half carcasses cut into no more than three wholesale cuts, and quarters containing no specified risk material other than the vertebral column, including dorsal root ganglia, may be imported. In the case of such imports, the carcasses or wholesale cuts of carcasses of bovine animals containing a vertebral column which is defined as specified risk material in accordance with point 1 of Annex V to this Regulation shall be identified by a clearly visible red stripe on the label referred to in Article 13 or 15 of Regulation (EC) No 1760/2000. Furthermore, specific information on the number of bovine carcasses or wholesale cuts of carcasses, from which the removal of the vertebral column is required, shall be added to the Common Veterinary Entry Document (CVED) referred to in Article 2(1) of Regulation (EC) No 136/2004;
+
+(e) the products of bovine, ovine and caprine animal origin do not contain and are not derived from mechanically separated meat obtained from bones of bovine, ovine or caprine animals, except if the animals, from which the products of bovine, ovine and caprine animal origin are derived, were born, continuously reared and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk in which there has been no BSE indigenous cases;
+
+(f) the animals from which the products of bovine, ovine and caprine animal origin were derived have not been slaughtered after stunning by means of gas injected into the cranial cavity or killed by the same method or slaughtered by laceration after stunning of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, except if the animals from which the products of bovine, ovine and caprine animal origin are derived, were born, continuously reared and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk;
+
+(g) if the animals, from which the products of bovine, ovine and caprine animal origin were derived, originate from a country or region classified in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE risk, the animals have not been fed with meat-and-bone meal or greaves, as defined in the OIE Terrestrial Animal Health Code;
+
+(h) if the animals, from which the products of bovine, ovine and caprine animal origin were derived, originate from a country or region classified in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE risk, the products were produced and handled in a manner which ensures that they did not contain and were not contaminated with nervous and lymphatic tissues exposed during the deboning process.
+
+**SECTION C**
+
+**Imports from a country or a region with a controlled BSE risk**
+
+1\. Imports of products of bovine, ovine and caprine animal origin referred to in Section A from a country or a region with a controlled BSE risk shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region is classified in accordance with Decision 2007/453/EC as a country or region posing a controlled BSE risk;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived passed ante mortem and post mortem inspections;
+
+(c) the animals from which the products of bovine, ovine and caprine animal origin destined for export were derived have not been killed, after stunning, by laceration of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injected into the cranial cavity;
+
+(d) the products of bovine, ovine and caprine animal origin do not contain and are not derived from specified risk material as defined in point 1 of Annex V to this Regulation, or mechanically separated meat obtained from bones of bovine, ovine or caprine animals;
+
+(e) if the animals, from which the products of bovine, ovine and caprine animal origin were derived, originate from a country or region classified in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE risk, the animals have not been fed with meat-and-bone meal or greaves, as defined in the OIE Terrestrial Animal Health Code;
+
+(f) if the animals, from which the products of bovine, ovine and caprine animal origin were derived, originate from a country or region classified in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE risk, the products were produced and handled in a manner which ensures that they did not contain and were not contaminated with nervous and lymphatic tissues exposed during the deboning process.
+
+2\. For products of bovine animal origin, by way of derogation from point 1(d) carcasses, half carcasses or half carcasses cut into no more than three wholesale cuts, and quarters containing no specified risk material other than the vertebral column, including dorsal root ganglia, may be imported.
+
+3\. When the removal of the vertebral column is required, carcasses or wholesale cuts of carcasses of bovine animals containing vertebral column, shall be identified by a clearly visible red stripe on the label referred to in Article 13 or 15 of Regulation (EC) No 1760/2000.
+
+4\. The number of bovine carcasses or wholesale cuts of carcasses, from which the removal of the vertebral column is required shall be added to the Common Veterinary Entry Document (CVED) referred to in Article 2(1) of Regulation (EC) No 136/2004 in the case of imports.
+
+5\. In the case of intestines originally sourced from a country or a region with a negligible BSE risk, imports of treated intestines shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region is classified in accordance with Decision 2007/453/EC as a country or region posing a controlled BSE risk;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived were born, continuously reared and slaughtered in the country or region with a negligible BSE risk and passed ante mortem and post mortem inspections;
+
+(c) if the intestines are sourced from a country or region where there have been BSE indigenous cases:
+
+(i) the animals were born after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants has been enforced; or
+
+(ii) the products of bovine, ovine and caprine animal origin do not contain and are not derived from specified risk material as defined in point 1 of Annex V to this Regulation.
+
+**SECTION D**
+
+**Imports from a country or a region with an undetermined BSE risk**
+
+1\. Imports of products of bovine, ovine and caprine animal origin referred to in Section A from a country or a region with an undetermined BSE risk, shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the animals from which the products of bovine, ovine and caprine animal origin were derived have not been fed meat-and-bone meal or greaves derived from ruminants, as defined in the OIE Terrestrial Animal Health Code, and passed ante mortem and post mortem inspections;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived have not been killed, after stunning, by laceration of central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injected into the cranial cavity;
+
+(c) the products of bovine, ovine and caprine animal origin do not contain and are not derived from:
+
+(i) specified risk material as defined in point 1 of Annex V to this Regulation;
+
+(ii) nervous and lymphatic tissues exposed during the deboning process;
+
+(iii) mechanically separated meat obtained from bones of bovine, ovine or caprine animals.
+
+2\. For products of bovine animal origin, by way of derogation from point 1(c), carcasses, half carcasses or half carcasses cut into no more than three wholesale cuts, and quarters containing no specified risk material other than the vertebral column, including dorsal root ganglia, may be imported.
+
+3\. When removal of the vertebral column is required, carcasses or wholesale cuts of carcasses of bovine animals containing vertebral column, shall be identified by a clearly visible red stripe on the label referred to in Article 13 or 15 of Regulation (EC) No 1760/2000.
+
+4\. Specific information on the number of bovine carcasses or wholesale cuts of carcasses, from which removal of the vertebral column is required shall be added to the Common Veterinary Entry Document (CVED) referred to in Article 2(1) of Regulation (EC) No 136/2004 in the case of imports.
+
+5\. In the case of intestines originally sourced from a country or a region with a negligible BSE risk, imports of treated intestines shall be subject to the presentation of an animal health certificate attesting that:
+
+(a) the country or region is classified in accordance with Decision 2007/453/EC as a country or region posing an undetermined BSE risk;
+
+(b) the animals from which the products of bovine, ovine and caprine animal origin were derived were born, continuously reared and slaughtered in the country or region with a negligible BSE risk and passed ante mortem and post mortem inspections;
+
+(c) if the intestines are sourced from a country or region where there have been BSE indigenous cases:
+
+(i) the animals were born after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants had been enforced; or
+
+(ii) the products of bovine, ovine and caprine animal origin do not contain and are not derived from specified risk material as defined in point 1 of Annex V to this Regulation.
+
+**CHAPTER D**
+
+**Imports of animal by-products and derived products from bovine, ovine and caprine origin**
+
+**SECTION A**
+
+**Animal by-products**
+
+This Chapter shall apply to the following animal by-products, as defined in points (1) of Article 3 of Regulation (EC) No 1069/2009 and the following derived products as defined in point (2) of that Article, provided that those animal by-products and derived products are of bovine, ovine and caprine animal origin:
+
+(a) rendered fats derived from Category 2 material, which are intended to be used as organic fertilisers or soil improvers, as defined in point 22 of Article 3 of Regulation (EC) No 1069/2009;
+
+(b) bones and bone products derived from Category 2 material;
+
+(c) rendered fats derived from Category 3 material which are intended to be used as organic fertilisers or soil improvers or as feed, as defined in points 22 and 25 respectively of Article 3 of Regulation (EC) No 1069/2009, or their starting materials;
+
+(d) pet food including dog chews;
+
+(e) blood products;
+
+(f) processed animal protein;
+
+(g) bones and bone products derived from Category 3 material;
+
+(h) gelatine and collagen derived from materials other than hides and skins;
+
+(i) Category 3 material and derived products other than those referred to in points (c) to (h) excluding:
+
+(i) fresh hides and skins, treated hides and skins;
+
+(ii) gelatine and collagen derived from hides and skins;
+
+(iii) fat derivatives.
+
+**SECTION B**
+
+**Health certificate requirements**
+
+1\. Imports of the animal by-products and derived products of bovine, ovine and caprine origin referred to in Section A shall be subject to the presentation of a health certificate which has been completed with the following attestation:
+
+(a) the animal by-product or derived product:
+
+(i) does not contain and is not derived from specified risk material as defined in point 1 of Annex V to this Regulation; and
+
+(ii) does not contain and is not derived from mechanically separated meat obtained from bones of bovine, ovine or caprine animals, except if the animals, from which the animal by-product or derived product are derived, were born, continuously reared and slaughtered in a country or region classified in accordance with Decision 2007/453/EC as a country or region posing a negligible BSE risk, in which there has been no BSE indigenous cases; and
+
+(iii) is derived from animals which have not been killed, after stunning, by laceration of the central nervous tissue by means of an elongated rod-shaped instrument introduced into the cranial cavity, or by means of gas injected into the cranial cavity, except for animals born, continuously reared and slaughtered in a country or region classified as posing a negligible BSE risk in accordance with Decision 2007/453/EC;
+
+or
+
+(b) the animal by-product or derived product does not contain and is not derived from bovine, ovine and caprine materials other than those derived from animals born, continuously reared and slaughtered in a country or region classified as posing a negligible BSE risk in accordance with Decision 2007/453/EC.
+
+2\. In addition to the requirements of point 1 of this Section, imports of the animal by-products and derived products referred to in points (d) and (f) of Section A shall be subject to the presentation of a health certificate which has been completed with the following attestation:
+
+(a) the animal by-product or derived product originates from a country or region, which is classified as posing a negligible BSE risk in accordance with Decision 2007/453/EC, and in which there has been no BSE indigenous case;
+
+or
+
+(b) the animal by-product or derived product originates from a country or region classified as posing a negligible BSE risk in accordance with Decision 2007/453/EC in which there has been a BSE indigenous case, and the animal by-product or derived product was derived from animals born after the date from which the ban on the feeding of ruminants with meat-and-bone meal and greaves derived from ruminants, as defined in the OIE Terrestrial Animal Health Code, has been effectively enforced in that country or region.
+
+By way of derogation from the preceding paragraph, the attestation referred to in points (a) and (b) shall not be required for the importation of processed petfood, which is packaged and labelled in accordance with Union legislation.
+
+3\. In addition to the requirements of points 1 and 2 of this Section, imports of the animal by-products and derived products referred to in Section A, containing milk or milk products of ovine or caprine animal origin and intended for feed, shall be subject to the presentation of a health certificate which has been completed with the following attestation:
+
+(a) the ovine and caprine animals from which those animal by-products or derived products have been derived have been kept continuously since birth in a country where the following conditions are fulfilled:
+
+(i) classical scrapie is compulsorily notifiable;
+
+(ii) an awareness, surveillance and monitoring system is in place;
+
+(iii) official restrictions apply to holdings of ovine or caprine animals in the case of a suspicion of TSE or a confirmation of classical scrapie;
+
+(iv) ovine and caprine animals affected with classical scrapie are killed and completely destroyed;
+
+(v) the feeding to ovine and caprine animals of meat-and-bone meal or greaves of ruminant origin, as defined in the OIE Terrestrial Animal Health Code, has been banned and effectively enforced in the whole country for a period of at least the preceding seven years;
+
+(b) the milk and milk products of ovine or caprine animals originate from holdings where no official restrictions are imposed due to a suspicion of TSE;
+
+(c) the milk and milk products of ovine or caprine animals originate from holdings where no case of classical scrapie has been diagnosed during a period of at least the preceding seven years or, following the confirmation of a case of classical scrapie:
+
+(i) all ovine and caprine animals on the holding have been killed and destroyed or slaughtered, except for breeding rams of the ARR/ARR genotype, breeding ewes carrying at least one ARR allele and no VRQ allele, other ovine animals carrying at least one ARR allele and caprine animals carrying at least one of the K222, D146 or S146 alleles;
+
+or
+
+(ii) all animals in which classical scrapie was confirmed have been killed and destroyed, and the holding has been subjected for a period of at least two years since the date of confirmation of the last classical scrapie case to intensified TSE monitoring, including testing with negative results for the presence of TSE in accordance with the laboratory methods set out in Annex X, Chapter C, point 3.2, of all of the following animals which are over the age of 18 months, except ovine animals of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles:
+
+— animals which have been slaughtered for human consumption; and
+
+— animals which have died or been killed on the holding but which were not killed in the framework of a disease eradication campaign.
+
+**CHAPTER E**
+
+**Imports of ovine and caprine animals**
+
+Ovine and caprine animals imported into the Union shall be subject to the presentation of an animal health certificate attesting that they have been kept continuously since birth in a country where the following conditions are fulfilled:
+
+(1) classical scrapie is compulsorily notifiable;
+
+(2) an awareness, surveillance and monitoring system is in place;
+
+(3) ovine and caprine animals affected with classical scrapie are killed and completely destroyed;
+
+(4) the feeding to ovine and caprine animals of meat-and-bone meal or greaves of ruminant origin, as defined in the OIE Terrestrial Animal Health Code, has been banned and effectively enforced in the whole country for a period of at least the preceding seven years.
+
+In addition to the conditions set out in points 1 to 4, the animal health certificate shall attest that:
+
+(5) for ovine and caprine animals for breeding imported into the Union and intended for Member States other than those with a negligible risk of classical scrapie or those with an approved national scrapie control programme listed in Annex VIII, Chapter A, Section A, point 3.2, the following conditions have been complied with:
+
+(a) the imported ovine and caprine animals come from a holding or holdings that have complied with the conditions laid down in Annex VIII, Chapter A, Section A, point 1.3; or
+
+(b) they are ovine animals of the ARR/ARR prion protein genotype or caprine animals carrying at least one of the K222, D146 or S146 alleles, and they come from a holding or holdings where no official movement restriction has been imposed due to BSE or classical scrapie during the last 2 years; or
+
+(c) for ovine and caprine animals from Great Britain imported into Northern Ireland until 31 December 2024, the imported ovine and caprine animals come from a holding or holdings:
+
+(i) where no official movement restriction has been imposed due to BSE or classical scrapie during the last 3 years; and
+
+(ii) which have applied, before 1 January 2022, to the official scheme for the recognition of holdings having a controlled risk of classical scrapie in accordance with the conditions laid down in Annex VIII, Chapter A, Section A, point 1.3, and which comply with the conditions laid down in points (a) to (i) thereof at the time of import into Northern Ireland.
+
+(6) For ovine and caprine animals for all uses except immediate slaughter imported into the Union and intended for a Member State with a negligible risk of classical scrapie or with an approved national scrapie control programme listed in point 3.2 of Section A of Chapter A of Annex VIII, the following conditions have been complied with:
+
+(a) they come from a holding or holdings that have complied with the conditions of point 1.2 of Section A of Chapter A of Annex VIII; or
+
+(b) they are ovine animals of the ARR/ARR prion protein genotype or caprine animals carrying at least one of the K222, D146 or S146 alleles, and they come from a holding where no official movement restriction has been imposed due to BSE or classical scrapie during the last two years.
+
+**CHAPTER F**
+
+**Imports of products of animal origin from farmed and wild cervid animals**
+
+1\. When fresh meat, minced meat, meat preparations and meat products as defined in points 1.10, 1.13, 1.15 and 7.1 respectively of Annex I to Regulation (EC) No 853/2004, derived from farmed cervid animals, are imported into the Union from Canada or the United States of America, the health certificates shall be accompanied by a declaration signed by the competent authority of the country of production, worded as follows:
+
+‘This product contains or is derived exclusively from meat, excluding offal and spinal cord, of farmed cervid animals which have been examined for chronic wasting disease by histopathology, immunohistochemistry or other diagnostic method recognised by the competent authority with negative results and is not derived from animals coming from a herd where chronic wasting disease has been confirmed or is officially suspected.’
+
+2\. When fresh meat, minced meat, meat preparations and meat products as defined in points 1.10, 1.13, 1.15 and 7.1 respectively of Annex I to Regulation (EC) No 853/2004, derived from wild cervid animals, are imported into the Union from Canada or the United States of America, the health certificates shall be accompanied by a declaration signed by the competent authority of the country of production, worded as follows:
+
+‘This product contains or is derived exclusively from meat, excluding offal and spinal cord, of wild cervid animals which have been examined for chronic wasting disease by histopathology, immunohistochemistry or other diagnostic method recognised by the competent authority with negative results and is not derived from animals coming from a region where chronic wasting disease has been confirmed in the last three years or is officially suspected.’
+
+3\. The importation into the Union of urine hunting lures derived from cervids shall be prohibited.
+
+**CHAPTER H**
+
+**Import of ovine and caprine semen and embryos**
+
+Ovine and caprine semen and embryos imported into the Union shall be subject to the presentation of an animal health certificate attesting that:
+
+(1) the donor animals have been kept continuously since birth in a country where the following conditions are fulfilled:
+
+(a) classical scrapie is compulsorily notifiable;
+
+(b) an awareness, surveillance and monitoring system is in place;
+
+(c) ovine and caprine animals affected with classical scrapie are killed and completely destroyed;
+
+(d) the feeding to ovine and caprine animals of meat-and-bone meal, or greaves of ruminant origin, as defined in the OIE Terrestrial Animal Health Code, has been banned and effectively enforced in the whole country for a period of at least the preceding seven years; and
+
+(2) the donor animals have been kept continuously for a period of three years preceding the date of the collection of the exported semen or embryos in a holding or holdings which have satisfied during that period all the requirements set out in point 1.3.(a) to (f) of Section A of Chapter A of Annex VIII except where the holding is a semen collection centre, provided that the semen collection centre complies with the conditions set out in point 1.3.(c)(iv) of that Section; or
+
+(a) in the case of semen of animals of the ovine species, the semen has been collected from male animals of the ARR/ARR prion protein genotype and in the case of semen of animals of the caprine species, the semen has been collected from male animals carrying at least one of the K222, D146 or S146 alleles; or
+
+(b) in the case of embryos of animals of the ovine species, the embryos carry at least one ARR allele and in the case of embryos of animals of the caprine species, the embryos carry at least one of the K222, D146 or S146 alleles.
+
+## ANNEX X — REFERENCE LABORATORIES, SAMPLING AND LABORATORY ANALYSIS METHODS
+
+**CHAPTER C**
+
+**Sampling and laboratory testing**
+
+**1\. Sampling**
+
+Any samples intended to be examined for the presence of a TSE shall be collected using the methods and protocols laid down in the latest edition of the Manual for diagnostic tests and vaccines for Terrestrial Animals of the World Organisation for Animal Health (OIE) (the Manual). In addition to, or in the absence of, OIE methods and protocols, and to ensure that sufficient material is available, the competent authority shall ensure the use of sampling methods and protocols in accordance with guidelines issued by the EU reference laboratory.
+
+In particular the competent authority shall collect the appropriate tissues, according to the available scientific advice and the guidelines of the EU reference laboratory, in order to ensure the detection of all known strains of TSE in small ruminants and shall keep at least half of the collected tissues fresh but not frozen until the result of the rapid test is negative. Where the result is positive or inconclusive the residual tissues must be subject to confirmatory testing, and be processed subsequently in accordance with the EU reference laboratory guidelines on discriminatory testing and classification — ‘TSE strain characterisation in small ruminants: A technical handbook for National Reference Laboratories in the EU’.
+
+The samples shall be correctly marked as to the identity of the sampled animal.
+
+**2\. Laboratories**
+
+Any laboratory examination for TSE shall be carried out in official diagnostic laboratories designated for that purpose by the competent authority.
+
+**3\. Methods and protocols**
+
+**3.1. Laboratory testing for the presence of BSE in bovine animals**
+
+(a) Suspect cases
+
+Samples from bovine animals sent for laboratory testing pursuant to the provisions of Article 12(2) shall immediately be subjected to confirmatory examinations using at least one of the following methods and protocols laid down in the latest edition of the Manual:
+
+(i) the immunohistochemical (IHC) method;
+
+(ii) Western blot;
+
+(iii) the demonstration of characteristic fibrils by electron microscopy;
+
+(iv) histopathological examination;
+
+(v) the combination of rapid tests as laid down in the third subparagraph.
+
+If the histopathological examination is inconclusive or negative, the tissues shall be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+Rapid tests may be used for both primary screening of suspect cases and, if inconclusive or positive, for subsequent confirmation, according to the guidelines from the EU reference laboratory —‘OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test’, and provided that:
+
+(i) the confirmation is carried out in a national reference laboratory for TSEs; and
+
+(ii) one of the two rapid tests is a Western blot; and
+
+(iii) the second rapid test used:
+
+— includes a negative tissue control and a bovine BSE sample as positive tissue control,
+
+— is of a different type than the test used for the primary screening; and
+
+(iv) if a rapid Western blot is used as the first test, the result of that test must be documented and the blot image submitted to the national reference laboratory for TSEs; and
+
+(v) where the result of the primary screening is not confirmed by the subsequent rapid test, the sample must be subjected to an examination by one of the other confirmatory methods; where the histopathological examination is used for that purpose, but proves to be inconclusive or negative, the tissues must be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+If the result of one of the confirmatory examinations referred to in points (i) to (v) of the first subparagraph is positive, the animal shall be regarded as a positive BSE case.
+
+(b) BSE monitoring
+
+Samples from bovine animals sent for laboratory testing pursuant to the provisions of Annex III, Chapter A, Part I shall be examined by a rapid test.
+
+When the result of the rapid test is inconclusive or positive, the sample shall immediately be subjected to confirmatory examinations using at least one of the following methods and protocols laid down in the latest edition of the Manual:
+
+(i) the immunohistochemical (IHC) method;
+
+(ii) Western blot;
+
+(iii) the demonstration of characteristic fibrils by electron microscopy;
+
+(iv) histopathological examination;
+
+(v) the combination of rapid tests as laid down in the fourth subparagraph.
+
+Where the histopathological examination is inconclusive or negative, the tissues shall be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+Rapid tests may be used for both primary screening and, if inconclusive or positive, for subsequent confirmation, according to the guidelines from the EU reference laboratory — ‘OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test, and provided that’:
+
+(i) the confirmation is carried out in a national reference laboratory for TSEs; and
+
+(ii) one of the two rapid tests is a Western blot; and
+
+(iii) the second rapid test used:
+
+— includes a negative tissue control and a bovine BSE sample as positive tissue control,
+
+— is of a different type than the test used for the primary screening; and
+
+(iv) if a rapid Western blot is used as the first test, the result of that test must be documented and the blot image submitted to the national reference laboratory for TSEs; and
+
+(v) where the result of the primary screening is not confirmed by the subsequent rapid test, the sample must be subjected to an examination by one of the other confirmatory methods; where the histopathological examination is used for that purpose, but proves to be inconclusive or negative, the tissues must be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+An animal shall be regarded a positive BSE case if the result of the rapid test is inconclusive or positive, and at least one of the confirmatory examinations referred to in points (i) to (v) of the second subparagraph is positive.
+
+(c) Further examination of positive BSE cases
+
+Samples from all positive BSE cases shall be forwarded to a laboratory, appointed by the competent authority, which has participated successfully in the latest proficiency testing organised by the EU reference laboratory for discriminatory testing of confirmed BSE cases, where they shall be further tested in accordance with the methods and protocols laid down in the EU reference laboratory's method for the classification of bovine TSE isolates (a two-blot method for the provisional classification of bovine TSE isolates).
+
+**3.2. Laboratory testing for the presence of TSE in ovine and caprine animals**
+
+(a) Suspect cases
+
+Samples from ovine and caprine animals sent for laboratory testing pursuant to the provisions of Article 12(2) shall immediately be subjected to confirmatory examinations using at least one of the following methods and protocols laid down in the latest edition of the Manual:
+
+(i) the immunohistochemical (IHC) method;
+
+(ii) Western blot;
+
+(iii) the demonstration of characteristic fibrils by electron microscopy;
+
+(iv) histopathological examination.
+
+In case the histopathological examination is inconclusive or negative, the tissues shall be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+Rapid tests may be used for primary screening of suspect cases. Such tests may not be used for subsequent confirmation.
+
+Where the result of the rapid test used for primary screening of suspect cases is positive or inconclusive, the sample shall be subjected to an examination by one of the confirmatory examinations referred to in points (i) to (iv) of the first subparagraph. Where the histopathological examination is used for that purpose, but proves to be inconclusive or negative, the tissues shall be submitted to a further examination by one of the other confirmatory methods and protocols.
+
+If the result of one of the confirmatory examinations referred to in points (i) to (iv) of the first subparagraph is positive, the animal shall be regarded as a positive TSE case.
+
+(b) TSE monitoring
+
+Samples from ovine and caprine animals sent for laboratory testing pursuant to the provisions of Annex III, Chapter A, Part II (Monitoring in ovine and caprine animals) shall be examined by a rapid test, in order to ensure the detection of all known strains of TSE.
+
+When the result of the rapid test is inconclusive or positive, the sampled tissues shall immediately be sent to an official laboratory for confirmatory examinations by histopathology, immunohistochemistry, Western blotting or demonstration of characteristic fibrils by electron microscopy, as referred to in point (a). If the result of the confirmatory examination is negative or inconclusive, the tissues shall be submitted to a further examination by immunohistochemistry or Western blotting.
+
+If the result of one of the confirmatory examinations is positive, the animal shall be regarded as a positive TSE case.
+
+(c) Further examination of positive TSE cases
+
+Samples that, following the examinations referred to in points (a) or (b), are regarded as positive TSE cases, but which are not considered atypical cases, shall be examined to exclude the presence of BSE only when they come from an index case. Other cases, which display characteristics that, according to the testing laboratory, merit investigation, shall also be examined to exclude the presence of BSE.
+
+(i) Primary molecular testing with a discriminatory Western blotting method
+
+For the exclusion of the presence of BSE, samples shall be examined by a discriminatory Western blotting method, listed in the guidelines of the EU reference laboratory. The discriminatory examination shall be performed by an official laboratory, designated by the competent authority, which has participated successfully in the latest proficiency testing organised by the EU reference laboratory for the use of such a method.
+
+(ii) Secondary molecular testing with additional molecular testing methods
+
+TSE cases in which the presence of BSE cannot be excluded according to the guidelines issued by the EU reference laboratory by the primary molecular testing referred to in point (i), shall be referred immediately to the EU reference laboratory, with all the relevant information available. The samples shall be submitted to further investigation and confirmation by at least one alternative method, differing immunochemically from the original primary molecular method. The design of the secondary molecular testing, in accordance with the latest scientific knowledge and laboratory expertise, shall be approved on a case-by-case basis by the EU reference laboratory, as described in its guidelines. The EU reference laboratory shall be assisted by a panel of experts referred to as the Strain Typing Expert Group (STEG), as well as by a representative of the relevant national reference laboratory.
+
+The results shall be interpreted by the EU reference laboratory assisted by the STEG, as well as a representative of the relevant national reference laboratory. The Commission shall be informed immediately about the outcome of that interpretation.
+
+(iii) Mouse bioassay
+
+Samples indicative of BSE or inconclusive for BSE, following secondary molecular testing, shall be further analysed by mouse bioassay for final confirmation. The nature or quantity of available material may influence the bioassay design, which will be approved by the EU reference laboratory assisted by the STEG on a case by case basis. Bioassays will be performed by the EU reference laboratory, or by laboratories designated by the EU reference laboratory.
+
+The results shall be interpreted by the EU reference laboratory assisted by the STEG. The Commission shall be informed immediately about the outcome of that interpretation.
+
+**3.3. Laboratory testing for the presence of TSEs in species other than those referred to in points 3.1 and 3.2**
+
+Where methods and protocols are established for tests carried out to confirm the suspected presence of a TSE in a species other than bovine, ovine and caprine, they shall include at least a histopathological examination of brain tissue. The competent authority may also require laboratory tests such as immunohistochemistry, Western blotting, demonstration of characteristic fibrils by electron microscopy or other methods designed to detect the disease associated form of the prion protein. In any case at least one other laboratory examination shall be carried out if the initial histopathological examination is negative or inconclusive. At least three different examinations with positive results shall be carried out in the event of the first appearance of the disease.
+
+In particular, where BSE is suspected in a species other than bovine animals, the cases shall be referred to the EU reference laboratory assisted by the STEG for further characterisation.
+
+**4\. Rapid tests**
+
+For the purposes of carrying out the rapid tests in accordance with Articles 5(3) and 6(1), only the following methods shall be used as rapid tests for the monitoring of BSE in bovine animals:
+
+— the immunoblotting test based on a Western blotting procedure for the detection of the Proteinase K-resistant fragment PrPRes (Prionics-Check Western test),
+
+— the sandwich immunoassay for PrPRes detection (short assay protocol) carried out following denaturation and concentration steps (Bio-Rad TeSeE SAP rapid test),
+
+— the microplate-based immunoassay (ELISA) which detects Proteinase K-resistant PrPRes with monoclonal antibodies (Prionics-Check LIA test),
+
+— the immunoassay using a chemical polymer for selective PrPSc capture and a monoclonal detection antibody directed against conserved regions of the PrP molecule (IDEXX HerdChek BSE Antigen Test Kit, EIA & HerdChek BSE-Scrapie Antigen (IDEXX Laboratories)),
+
+— the lateral-flow immunoassay using two different monoclonal antibodies to detect Proteinase K-resistant PrP fractions (Prionics Check PrioSTRIP),
+
+— the two-sided immunoassay using two different monoclonal antibodies directed against two epitopes presented in a highly unfolded state of bovine PrPSc (Roboscreen Beta Prion BSE EIA Test Kit).
+
+For the purposes of carrying out the rapid tests in accordance with Articles 5(3) and 6(1), only the following methods shall be used as rapid tests for the monitoring of TSE in ovine and caprine animals:
+
+— the sandwich immunoassay for PrPRes detection (short assay protocol) carried out following denaturation and concentration steps (Bio-Rad TeSeE SAP rapid test),
+
+— the sandwich immunoassay for PrPRes detection with the TeSeE Sheep/Goat Detection kit carried out following denaturation and concentration steps with the TeSeE Sheep/Goat Purification kit (Bio-Rad TeSeE Sheep/Goat rapid test),
+
+— the immunoassay using a chemical polymer for selective PrPSc capture and a monoclonal detection antibody directed against conserved regions of the PrP molecule (HerdChek BSE-Scrapie Antigen (IDEXX Laboratories)),
+
+In all rapid tests, sample tissue on which the test must be applied must comply with the manufacturer's instructions for use.
+
+Producers of rapid tests must have a quality assurance system in place that has been approved by the EU reference laboratory and ensures that the test performance does not change. Producers must provide the EU reference laboratory with the test protocols.
+
+Changes to rapid tests and to test protocols may only be made after prior notification to the EU reference laboratory and provided that the EU reference laboratory finds that the change does not alter the sensitivity, specificity or reliability of the rapid test. That finding shall be communicated to the Commission and to the national reference laboratories.
+
+**5\. Alternative tests**
+
+(To be defined)
+
+( 1 ) Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market (OJ L 395, 30.12.1989, p. 13). Directive as last amended by Council Directive 92/118/EEC (OJ L 62, 15.3.1993, p. 49).
+
+( 2 ) Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (OJ L 224, 18.8.1990, p. 29). Directive as last amended by Council Directive 92/118/EEC.
+
+( 3 ) Regulation (EC) No 1760/2000 of the European Parliament and of the Council of 17 July 2000 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation (EC) No 820/97 (OJ L 204, 11.8.2000, p. 1).
+
+( 4 ) Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine (OJ 121 29.7.1964, p. 1977/64). Directive as last amended by Directive 2000/20/EC of the European Parliament and of the Council (OJ L 163, 4.7.2000, p. 35).
+
+( 5 ) Council Directive 91/68/EEC of 28 January 1991 on animal health conditions governing intra-Community trade in ovine and caprine animals (OJ L 46, 19.2.1991, p. 19). Directive as last amended by Commission Decision 94/953/EC (OJ L 371, 31.12.1994, p. 14).
+
+( 6 ) Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organisation of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC (OJ L 268, 24.9.1991, p. 56). Directive as last amended by Directive 96/43/EC (OJ L 162, 1.7.1996, p. 1).
+
+( 7 ) Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries (OJ L 24, 30.1.1998, p. 9).
+
+( 8 ) Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community (OJ L 378, 31.12.1982, p. 58). Directive as last amended by Commission Decision 2000/556/EC (OJ L 235, 19.9.2000, p. 27).
+
+( 9 ) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1).
+
+( 10 ) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, 26.2.2011, p. 1).
+
+( 11 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 12 ) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC (OJ L 229, 1.9.2009, p. 1).
+
+( 13 ) Council Directive 2006/88/EC of 24 October 2006 on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals (OJ L 328, 24.11.2006, p. 14).
+
+( 14 ) Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (OJ L 171, 29.6.2016, p. 66).
+
+( 15 ) http://vla.defra.gov.uk/science/docs/sci_tse_rl_handbookv4jan10.pdf
+
+( 16 ) OJ L 349, 24.12.2002, p. 105.
+
+( 17 ) http://vla.defra.gov.uk/science/docs/sci_tse_rl_2blot.pdf
+
+( 18 ) OJ L 5, 9.1.2004, p. 8.
+
+( 19 ) Design prevalence is used to determine the size of a testing survey expressed in terms of target points. If the actual prevalence is greater than the selected design prevalence, the survey is highly likely to detect disease.
+
+( 20 ) OJ L 139, 30.4.2004, p. 55.
+
+( 21 ) OJ L 139, 30.4.2004, p. 206.
+
+( 22 ) OJ L 99, 20.4.1996, p. 14.
+
+( 23 ) OJ L 204, 11.8.2000, p. 1.
+
+( 24 ) OJ L 54, 26.2.2009, p. 1.
+
+( 25 ) Commission Decision 2009/821/EC of 28 September 2009 drawing up a list of approved border inspection posts, laying down certain rules on the inspections carried out by the Commission veterinary experts and laying down the veterinary units in Traces (OJ L 296, 12.11.2009, p. 1).
+
+( 26 ) Commission Decision 2004/292/EC of 30 March 2004 on the introduction of the Traces system and amending Decision 92/486/EEC (OJ L 94, 31.3.2004, p. 63).
+
+( 27 ) Commission Delegated Regulation (EU) 2023/1605 of 22 May 2023 supplementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council as regards the determination of end points in the manufacturing chain of certain organic fertilisers and soil improvers (OJ L 198, 8.8.2023, p. 1).
+
+( 28 ) Commission Regulation (EC) No 136/2004 of 22 January 2004 laying down procedures for veterinary checks at Community border inspection posts on products imported from third countries (OJ L 21, 28.1.2004, p. 11).
+
+( 29 ) OJ L 300, 14.11.2009, p. 1.
+
+( 30 ) Commission Delegated Regulation (EU) 2020/686 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of germinal product establishments and the traceability and animal health requirements for movements within the Union of germinal products of certain kept terrestrial animals (OJ L 174 3.6.2020, p. 1).
+
+( 31 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (Animal Health Law) (OJ L 84 31.3.2016, p. 1).
+
+( 32 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1).
+
+( 33 ) Commission Decision 2007/453/EC of 29 June 2007 establishing the BSE status of Member States or third countries or regions thereof according to their BSE risk (OJ L 172, 30.6.2007, p. 84).
